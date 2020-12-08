@@ -1,0 +1,35 @@
+---
+unique-page-id: 2953173
+description: 在智慧型清單中使用清單成員——行銷檔案——產品檔案
+title: 在智慧清單中使用清單成員
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '137'
+ht-degree: 0%
+
+---
+
+
+# 在智慧清單中使用清單成員 {#use-members-of-list-in-a-smart-list}
+
+>[!TIP]
+>
+>您可以使用「匯入」或「新增至清 [單」流](../../../../getting-started/quick-wins/import-a-list-of-people.md)[程步驟，將人員新增至清單](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)。
+
+使用此篩選器，您可以在智慧型清單規則中參照其他清單來提取成員。 這是方法。
+
+1. 選擇智慧清單，然後按一下「智慧 **清單」頁籤** 。
+
+   ![](assets/smartlist-sltab.png)
+
+1. 在右側篩選器面板上，搜尋清單成員 **篩選器並拖曳** 至畫布。
+
+   ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
+
+1. 按一下下拉清單或鍵入以搜索要包含在智慧清單中的清單。
+
+   ![](assets/memberoflist.png)
+
+   **完成！** 在此範例中，智慧型清單現在只會定位該清單的成員，並根據您包含的任何其他規則來評估這些成員。
+
