@@ -1,0 +1,73 @@
+---
+unique-page-id: 2949178
+description: 瞭解SEO儀表板-SEO快照——行銷文檔——產品文檔
+title: 瞭解SEO儀表板-SEO快照
+translation-type: tm+mt
+source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+workflow-type: tm+mt
+source-wordcount: '255'
+ht-degree: 0%
+
+---
+
+
+# 瞭解SEO儀表板：SEO快照 {#understanding-the-seo-dashboard-seo-snapshot}
+
+使用控制面板，以高階檢視關鍵字排名趨勢以及網站針對搜尋引擎最佳化的效能。
+
+若要瞭解要著重在哪些方面來改善您的SEO工作，請使用此控制面板 [的](understanding-the-seo-dashboard-seo-recommendations.md) 「建議」區段。
+
+![](assets/image2014-9-17-21-3a32-3a22.png)
+
+## 關鍵字排名摘要 {#keyword-rank-summary}
+
+此區段顯示您網站對於您所定位關 [鍵字的排名](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md)。
+
+![](assets/image2014-9-17-21-3a34-3a5.png)
+
+| 顏色 | 排名 |
+|---|---|
+| 綠色 | 搜索的第1個結果 |
+| 黃色 | 第2個——第10個搜尋結果 |
+| 灰色 | 第11-20次搜索結果 |
+
+>[!TIP]
+>
+>您也可以檢視特定關 [鍵字清單](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) 的執行方式。 按一下下拉式清單，然後選取您感興趣的其中一個。
+
+滾開！ 繼續走。
+
+## 平均頁面最佳化分數 {#average-page-optimization-score}
+
+「平均頁面最佳化分數」是專屬的行銷人員，可測量您網站上所有頁面的分數，分數範圍為1到100。
+
+它以數十種最佳實務為基礎。 分數為70分或以上表示網站已最佳化。
+
+![](assets/image2014-9-17-21-3a35-3a55.png)
+
+>[!TIP]
+>
+>您也可以查看特定頁面清單的最佳化分數。 使用下拉式清單並選取您感興趣的清單。
+
+## 關鍵字排名趨勢 {#keyword-rank-trends}
+
+「關鍵字排名趨勢」圖表會提取每月搜尋量最高的五個關鍵字，並繪製它們隨時間排名的圖表。
+
+>[!TIP]
+>
+>您可以按一下關鍵字，從此圖表移除關鍵字。 試試看！ 圖表將動態重建。
+
+![](assets/image2014-9-17-21-3a37-3a1.png)
+
+輕鬆吧？ 現在，讓我們來看看此控制面板的「建議」區段。
+
+>[!NOTE]
+>
+>**相關文章**
+>
+>* [瞭解控制面板：SEO建議](understanding-the-seo-dashboard-seo-recommendations.md)
+
+>
+
+
+
