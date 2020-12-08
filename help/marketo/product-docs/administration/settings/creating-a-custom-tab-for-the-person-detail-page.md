@@ -1,0 +1,50 @@
+---
+unique-page-id: 2360305
+description: 建立人員詳細資料頁面的自訂標籤——行銷人員檔案——產品檔案
+title: 為「人員詳細資訊」頁建立自定義標籤
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '199'
+ht-degree: 0%
+
+---
+
+
+# 為「人員詳細資訊」頁建立自定義標籤 {#creating-a-custom-tab-for-the-person-detail-page}
+
+>[!NOTE]
+>
+>**FYI**
+>
+>Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
+
+如果您發現自己一次又一次地在人員詳細資料中尋找特定欄位集，請考慮建立自訂版面，讓工作更輕鬆。
+
+1. 前往「管 **理員** 」並按一 **下「欄位管理」**。
+
+   ![](assets/image2014-9-16-16-3a41-3a41.png)
+
+1. 按一下「自 **訂版面設計器** 」標籤。
+
+   ![](assets/image2014-9-16-16-3a41-3a55.png)
+
+1. 尋找您要新增的欄位，然後將其拖放至畫布中。
+
+   ![](assets/three-1.png)
+
+1. 繼續新增欄位，直到您依所需的版面配置為止。
+
+   ![](assets/image2014-9-16-16-3a42-3a25.png)
+
+   >[!NOTE]
+   >
+   >您有兩欄可使用。
+
+   如果您決定要移除欄位，請以滑鼠右鍵按一下您要移除的欄位，然後按一下「刪除」。
+   ![](assets/image2014-9-16-16-3a43-3a56.png)
+
+   太棒了！ 現在，當您載入人員的詳細資訊時，可以使用自訂版面來存取對您重要的資訊。
+
+   ![](assets/six-1.png)
+
