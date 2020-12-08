@@ -1,0 +1,69 @@
+---
+unique-page-id: 1147091
+description: 瞭解方案會籍——行銷人員檔案——產品檔案
+title: 瞭解方案會籍
+translation-type: tm+mt
+source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+workflow-type: tm+mt
+source-wordcount: '308'
+ht-degree: 0%
+
+---
+
+
+# 瞭解方案會籍 {#understanding-program-membership}
+
+>[!NOTE]
+>
+>Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)。
+
+>[!NOTE]
+>
+>**定義：** 會員是指在方案中具有地位的人。
+
+## 人們如何成為計畫成員 {#how-people-become-members-of-a-program}
+
+1. 人員會填寫程 [式中登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) 的表格。
+
+   1. 人員將自動擁有晉升中的第一個狀態。
+
+1. 您可 [以從CSV檔案將成員](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md) 匯入程式。
+
+   1. 人員將自動擁有晉升中的第一個狀態。
+
+1. 使用更改程 [序狀態流](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 步驟。
+1. 與活動計畫同步的網 [路研討會會員註冊或參加](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)。
+1. 使用Marketo [iPad登入應用程式建立人員](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)。
+1. 將人員添加到SFDC促銷活動，該促銷活動 [與程式同步](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)。
+
+>[!NOTE]
+>
+>對於電子郵件方案，只有在傳送電子郵件時，才會將人員新增至會籍。
+
+## 方案狀態 {#program-statuses}
+
+方案狀態是人們在方案中執行的步驟（例如，已邀請、RSVPd、已參加、無顯示）。 這些步驟由渠道定 [義](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)。
+
+![](assets/image2015-2-5-15-3a14-3a48.png)
+
+>[!NOTE]
+>
+>人員無法向後移至先前的程式狀態。 狀態晉升只是一種方式。
+
+## 成功狀態 {#success-statuses}
+
+程式的目的，是與人或潛在客戶建立有意義的互動。 當某人達到達到該目標的狀態時，就會標籤成功。
+
+>[!NOTE]
+>
+>在網路研討會中，如果註冊並不是真正觀看網路研討會的有意義互動。 在這種情況下，主治是成功的。
+
+## 贏取計畫  {#acquisition-program}
+
+當新名稱以方案會員身分進入系統時，Marketo會自動將該方案設定為「贏取」。 這可建立首次 [接觸歸因的評分](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)。
+
+>[!MORELIKETHIS]
+>
+>* [在程式中使用標籤](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
+>* [建立方案績效報告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
+
