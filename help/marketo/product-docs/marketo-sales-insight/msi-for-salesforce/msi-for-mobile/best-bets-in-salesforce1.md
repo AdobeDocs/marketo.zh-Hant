@@ -1,0 +1,34 @@
+---
+unique-page-id: 7511959
+description: Salesforce1中的最佳選擇——行銷人員檔案——產品檔案
+title: Salesforce中的最佳選擇1
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 0%
+
+---
+
+
+# Salesforce中的最佳選擇1 {#best-bets-in-salesforce}
+
+您的 [最佳下注](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) ，是您具有最高緊急度和相對分數的潛在客戶和聯絡人。 只有您擁有的銷售機會會顯示在該清單中，且清單會隨著銷售機會分數的變更而更新。
+
+1. 前往Salesforce應用程式中的Marketo區域。
+
+   在下拉式清單中，您可以選擇「我的最佳賭注」、「我的關注清單」、「Web活動」、「匿名Web活動」或「我的電子郵件」。
+
+   ![](assets/one-2.png)
+
+>[!NOTE]
+>
+>**相關文章**
+>
+>* [Salesforce中的有趣時刻1](interesting-moments-in-salesforce1.md)
+>* [在Salesforce中傳送Marketon至電子郵件和促銷活動與監看清單動作1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+
+>
+
+
+
