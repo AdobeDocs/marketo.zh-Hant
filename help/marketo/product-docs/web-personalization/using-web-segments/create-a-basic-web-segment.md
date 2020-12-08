@@ -1,0 +1,67 @@
+---
+unique-page-id: 4719344
+description: 建立基本網頁區段——行銷檔案——產品檔案
+title: 建立基本Web區段
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '168'
+ht-degree: 0%
+
+---
+
+
+# 建立基本Web區段 {#create-a-basic-web-segment}
+
+讓我們建立一個基本區段，以美國及金融服務業的所有Web訪客為目標。
+
+1. 前往區 **段**。
+
+   ![](assets/image2016-8-18-15-3a37-3a32.png)
+
+1. 按一下 **建立新**。
+
+   ![](assets/image2014-11-19-19-3a33-3a47.png)
+
+1. 輸入區段名稱。
+
+   ![](assets/segment-name.png)
+
+1. 從右側功能表拖曳**位置**，並拖曳至區段編輯器。
+
+   ![](assets/location-drag-hand.jpg)
+
+1. 從下拉式清單中選取要新增的國家。 選擇 **美國**。
+
+   ![](assets/image2015-5-28-15-3a29-3a15.png)
+
+   >[!NOTE]
+   >
+   >城市數量限制在每個區段300個。
+
+1. 從右側功能表拖曳**產業**至區段編輯器。
+
+   ![](assets/industries-hand.jpg)
+
+1. 從下拉式清單中選取「產業」以新增。 選擇**金融服務****產業**。
+
+   ![](assets/segment-industries.png)
+
+   您現在已針對所有從美國和金融業造訪您網站的潛在客戶設定基本區段。
+
+1. 按一下**儲存**以儲存區段，或 **儲存並定義促銷活動** ，以前往「促銷活動」頁面。
+
+   ![](assets/image2014-11-19-19-3a48-3a20.png)
+
+現在您已將來自美國的訪客分段，請繼續加入金融服務業。
+
+>[!NOTE]
+>
+>**相關文章**
+>
+>* [網頁區段](http://docs.marketo.com/x/9QFI)
+
+>
+
+
+
