@@ -1,0 +1,79 @@
+---
+unique-page-id: 4720779
+description: 瞭解資料夾——行銷人員檔案——產品檔案
+title: 瞭解資料夾
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '277'
+ht-degree: 0%
+
+---
+
+
+# 瞭解資料夾 {#understanding-folders}
+
+程式中的資料夾可用來組織您的智慧型促銷活動和資產。 這些與促銷活動資 [料夾不同](create-new-campaign-folder.md)。
+
+## 建立資料夾 {#create-a-folder}
+
+1. 前往「行銷 **活動** 」區。
+
+   ![](assets/ma.png)
+
+1. 按一下右鍵某個程式，然後選擇「 **新建資料夾」**。
+
+   ![](assets/image2015-4-20-18-3a45-3a14.png)
+
+1. 為新資料夾命名，然後按 **Enter**。
+
+   ![](assets/image2015-4-20-18-3a46-3a57.png)
+
+太好了！ 現在，您有新資料夾可儲存本機資產。
+
+## 更名資料夾 {#rename-a-folder}
+
+改主意沒關係。
+
+1. 按一下右鍵該資料夾，然後選擇「重 **命名資料夾」**。
+
+   ![](assets/image2015-4-20-18-3a49-3a10.png)
+
+1. 輸入新名稱，然後按 **Enter**。
+
+   ![](assets/image2015-4-20-18-3a52-3a30.png)
+
+   還有沃利亞！ 該資料夾具有新名稱。
+
+## 刪除資料夾 {#delete-a-folder}
+
+>[!NOTE]
+>
+>刪除資料夾前，請確定該資料夾為空。
+
+1. 按一下右鍵該資料夾，然後選擇「刪 **除資料夾」**。
+
+   ![](assets/image2015-4-20-18-3a55-3a51.png)
+
+   Adios資料夾！
+
+## 封存資料夾 {#archive-a-folder}
+
+在Market中，您可以將現有的資料夾轉換為封存資料夾。 Marketing Activitys、Database和Design Studio中存在封存檔案夾。
+
+![](assets/image2015-4-20-19-3a3-3a46.png)
+
+封存資料夾時：
+
+* 資料夾和資產在搜尋結果中不再顯示。 如果您搜尋已封存檔案夾內的程式或事件，結果會傳回已封存檔案夾的收合檢視
+* 資料夾中的資產不再顯示在自動建議中
+* 在Design Studio中建立電子郵件或登陸頁面時，無法使用封存的範本
+* 封存頁面無法用於著陸頁面測試群組
+
+在歸檔時 **不會** 改變的功能：
+
+* 全局搜索仍在歸檔資料夾中查找結果
+* 使用中的資產即使在封存後仍能繼續運作
+* 您可以使用篩選器來選取要用於報表的已封存資產
+* 封存的資產不會停用。 如果您希望它們停止執行，也必須停用
+
