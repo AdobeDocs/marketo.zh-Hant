@@ -1,0 +1,74 @@
+---
+unique-page-id: 2949186
+description: SEO —— 使用頁面詳細資料下鑽——行銷人員檔案——產品檔案
+title: SEO —— 使用頁面詳細資料下鑽
+translation-type: tm+mt
+source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+workflow-type: tm+mt
+source-wordcount: '281'
+ht-degree: 0%
+
+---
+
+
+# SEO —— 使用頁面詳細資料下鑽 {#seo-using-the-page-detail-drill-down}
+
+您可以透過頁面詳細資訊向下切入，查看許多有關您頁面的資訊。
+
+## 尋找頁面向下切入 {#find-page-drill-down}
+
+1. 前往「頁面」區段。
+
+   ![](assets/image2014-9-17-21-3a54-3a53.png)
+
+1. 按一下您想要查看詳細資訊的頁面。
+
+   ![](assets/image2014-9-17-21-3a54-3a58.png)
+
+   看，頁面細節深入探討！
+
+   ![](assets/image2014-9-17-21-3a55-3a2.png)
+
+## 頁面詳細資訊區段 {#page-detail-section}
+
+![](assets/image2014-9-17-21-3a55-3a46.png)
+
+| 項目 | 說明 |
+|---|---|
+| 最佳化分數 | 這個秘密醬用來顯示您的頁面在1到100的搜尋量度上已最佳化。 |
+| 「要執行」框 | 顯示您所在頁面的未結問題數。 |
+| 入站連結總數 | 網站的傳入連結總數。 |
+| 傳入連結（唯一網域） | 至少有一個傳入網站連結的其他網站數目。 |
+| 對外連結 | 從此特定頁面前往其他網站的連結數。 |
+| Facebook分享 | 此頁面在Facebook上共用的次數。 |
+| Facebook按贊次數 | 此頁面分享在Facebook上被贊的次數。 |
+| Facebook點按次數 | 來自Facebook分享的點按次數。 |
+
+## 頁面已最佳化的關鍵字  {#keyword-s-that-page-is-optimized-for}
+
+這是您選擇 [要最佳化頁面的關鍵字的位置](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)。
+
+>[!NOTE]
+>
+>這是充分運用此功能的重要步驟。 我們建議您每頁使用少於3個關鍵字。 最好只有一個。
+
+![](assets/image2014-9-17-21-3a56-3a35.png)
+
+## 頁面最佳化結果 {#page-optimization-results}
+
+「頁面最佳化結果」會告訴您您需要採取哪些確切步驟，以提高最佳化分數／在搜尋此頁面時更佳執行。
+
+![](assets/image2014-9-17-21-3a56-3a41.png)
+
+很貼心，對吧？ 進一步瞭解此處的頁面。
+
+>[!NOTE]
+>
+>**相關文章**
+>
+>* [使用目標關鍵字最佳化特定頁面](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
+
+>
+
+
+
