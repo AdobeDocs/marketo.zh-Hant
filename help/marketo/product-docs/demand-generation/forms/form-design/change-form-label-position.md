@@ -1,0 +1,69 @@
+---
+unique-page-id: 2359612
+description: 變更表單標籤位置——行銷人員檔案——產品檔案
+title: 更改表單標籤位置
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 0%
+
+---
+
+
+# 更改表單標籤位置 {#change-form-label-position}
+
+建立 [表單時](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)，您可以很輕鬆地變更表單欄位標籤的位置。 這是方法。
+
+1. 前往「行 **銷****活動」**。
+
+   ![](assets/login-marketing-activities-2.png)
+
+1. 選擇您的表單，然後按一 **下「編輯****表單**」。
+
+   ![](assets/image2014-9-15-16-3a16-3a9.png)
+
+1. 選擇 **設定**。
+
+   ![](assets/image2014-9-15-16-3a16-3a26.png)
+
+1. 選擇 **要的****Label** Position。
+
+   ![](assets/image2014-9-15-16-3a16-3a39.png)
+
+   您目前有兩個選項：
+
+   * 左側（預設）
+   * Above
+
+1. 按一 **下完成**。
+
+   ![](assets/image2014-9-15-16-3a16-3a49.png)
+
+1. 按一 **下「核准並關閉**」。
+
+   >[!NOTE]
+   >
+   >表單必須經過核准才能用於登陸頁面。
+
+   ![](assets/image2014-9-15-16-3a17-3a12.png)
+
+   >[!NOTE]
+   >
+   >**提醒**
+   >
+   >
+   >請記得核准表單變更所建立的著陸頁面草稿。
+
+幹得好！ 瞭解變更表格上的標籤位置有多簡單？ 好，讓我們看看如何改變表格標籤的字型。
+
+>[!NOTE]
+>
+>**相關文章**
+>
+>* [變更表單字型系列](change-the-form-font-family.md)
+
+>
+
+
+
