@@ -1,0 +1,37 @@
+---
+unique-page-id: 12978938
+description: 封存Web促銷活動——行銷檔案——產品檔案
+title: 封存Web促銷活動
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '65'
+ht-degree: 0%
+
+---
+
+
+# 封存Web促銷活動 {#archive-a-web-campaign}
+
+1. 前往「網 **頁促銷活動**」。
+
+   ![](assets/one.jpg)
+
+1. 按一下所要Web促銷活動的狀態下拉式清單，然後選取「封 **存」**。
+
+   ![](assets/two-3.png)
+
+   >[!NOTE]
+   >
+   >封存的Web促銷活動不會顯示在預設篩選中。 要查看它們，請按一下「篩選」表徵圖，然後在「狀 **態**」下，選中「已存 **檔** 」複選框，然 **後按一下**「應用」。
+
+>[!NOTE]
+>
+>**相關文章**
+>
+>* [刪除Web促銷活動](delete-a-web-campaign.md)
+
+>
+
+
+
