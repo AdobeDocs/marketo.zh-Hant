@@ -1,0 +1,48 @@
+---
+unique-page-id: 7504749
+description: 匯出收入總管報表——行銷人員檔案——產品檔案
+title: 匯出收入總管報表
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '87'
+ht-degree: 0%
+
+---
+
+
+# 匯出收入總管報表 {#exporting-a-revenue-explorer-report}
+
+您可以匯出任何收入總管報表，並與任何人共用。
+
+1. 按一下「齒輪」(Gear)表徵圖，選 **擇「導出** 」(Export)，然後選取檔案格式。
+
+   ![](assets/image2015-3-26-14-3a2-3a19.png)
+
+   >[!NOTE]
+   >
+   >您可以將報表匯出為下列三種格式：
+   >
+   >    
+   >    
+   >    * PDF
+   >    * Excel
+   >    * CSV
+
+
+1. 選取所要的 **頁面格式** 和方 **向**，然後按一 **下「匯出**」。
+
+   ![](assets/image2015-3-27-16-3a18-3a34.png)
+
+   真貼心！ 使用您像忍者一樣的行銷技巧，將此檔案傳送給同儕，讓同儕留下深刻印象。
+
+>[!NOTE]
+>
+>**相關文章**
+>
+>* [訂閱收入總管報表](subscribe-to-a-revenue-explorer-report.md)
+
+>
+
+
+
