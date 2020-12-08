@@ -2,9 +2,9 @@
 title: my-token-actions-edit-delete-clone-and-copy-token-names
 description: 我的Token動作編輯、刪除、複製Token名稱
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,6 @@ ht-degree: 0%
 
 ## 複製Token名稱
 
-若要將Token名稱複製至剪貼簿（亦即{{my.Event Calendar File}}），請以滑鼠右鍵按一下Token，然後選取「復 [!UICONTROL **制Token名稱」**]。
+若要將Token名稱複製至剪貼簿(亦即 `{{my.Event Calendar File}}`)，請以滑鼠右鍵按一下Token，然後選取「復 **制Token名稱」**。
 
 ![影像7](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-7.png)
