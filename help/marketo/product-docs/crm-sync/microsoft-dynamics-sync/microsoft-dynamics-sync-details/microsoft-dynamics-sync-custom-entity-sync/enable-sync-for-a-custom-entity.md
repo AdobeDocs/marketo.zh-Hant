@@ -1,0 +1,59 @@
+---
+unique-page-id: 2953384
+description: 為自訂實體啟用同步——行銷檔案——產品檔案
+title: 為自訂實體啟用同步
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '172'
+ht-degree: 0%
+
+---
+
+
+# 為自訂實體啟用同步 {#enable-sync-for-a-custom-entity}
+
+如果您需要Dynamics的自訂實體資料才能在Marketo中使用，以下說明如何為其啟用同步：
+
+>[!NOTE]
+>
+>**需要管理員權限**
+
+1. 前往「管 **理** 」區段。
+
+   ![](assets/image2014-10-20-14-3a32-3a16.png)
+
+1. 選擇 **Microsoft Dynamics** ，然後按一下 **禁用同步**。
+
+   您必須暫時停用全域同步，才能啟用或停用自訂實體。
+   ![](assets/image2015-11-10-9-3a0-3a6.png)
+
+1. 在「資料庫管理」下，按一下** Dynamics Entities Sync**連結。
+
+   ![](assets/image2015-11-10-9-3a6-3a55.png)
+
+1. 按一下「同 **步模式** 」連結。
+
+   ![](assets/image2015-11-10-9-3a41-3a37.png)
+
+1. 選擇要同步的實體，然後按一下「啟 **用同步」**。
+
+   ![](assets/image2015-11-10-9-3a44-3a35.png)
+
+1. 選擇要同步的欄位，或在智慧清單中 [用作約](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 束和／或觸發器。 完成後，按一下「 **啟用同步**」。
+
+   ![](assets/image2014-10-20-14-3a32-3a55.png)
+
+   >[!NOTE]
+   >
+   >在同步過程中，您可能會注意到「動態實體同步」項目從導覽樹狀結構消失。 這是預期的行為，同步完成後將重新出現。
+
+1. 實體現在有綠色核取標籤。
+
+   ![](assets/image2014-10-20-14-3a33-3a4.png)
+
+1. 別忘了重新啟用全域同步！
+
+   ![](assets/image2015-11-10-9-3a48-3a35.png)
+
+是啊！ 強大的功能。
