@@ -1,0 +1,78 @@
+---
+unique-page-id: 12978906
+description: 設定Web促銷活動的顯示方式——行銷人員檔案——產品檔案
+title: 設定Web促銷活動的顯示方式
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '210'
+ht-degree: 0%
+
+---
+
+
+# 設定Web促銷活動的顯示方式 {#set-how-your-web-campaign-displays}
+
+有數種方法可運用於何時／如何顯示您的網頁促銷活動。
+
+## 頁面載入 {#page-load}
+
+依預設選取，此選項只會在頁面載入時顯示促銷活動。
+
+![](assets/pl1.png)
+
+## 延遲 {#delay}
+
+指定網頁促銷活動在您網站上反應的時間延遲（以秒為單位）。
+
+1. 按一下「 **顯示於** 」下拉式清單，然後選取「 **延遲」**。
+
+   ![](assets/d1.png)
+
+1. 按一 **下** 「等待」下拉式清單，並選取所需的時間量。
+
+   ![](assets/d2.png)
+
+## 捲動 {#scroll}
+
+1. 按一下「 **顯示於** 」下拉式清單，然後選 **取「捲動」**。
+
+   ![](assets/s1.png)
+
+1. 按一下「 **時機** 」下拉式清單，並選取您要顯示網頁促銷活動的時機。
+
+   ![](assets/s2.png)
+
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>折下</strong></td> 
+   <td>當訪客捲動至下方時顯示促銷活動。 當訪客卷回折頁上方時，促銷活動會消失。</td> 
+  </tr> 
+  <tr> 
+   <td><strong>百分比</strong></td> 
+   <td>當訪客捲動至預定百分比的頁面時，顯示促銷活動。</td> 
+  </tr> 
+  <tr> 
+   <td><strong>像素</strong></td> 
+   <td><p>當訪客捲動至頁面上預先指定的頂層像素時，顯示促銷活動。</p></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+## 退出方式 {#exit-intent}
+
+當滑鼠游標離開瀏覽器時，退出方式會顯示Web促銷活動。
+
+1. 按一下「 **顯示於** 」下拉式清單，然後選取「 **退出方式」**。
+
+   ![](assets/ei1.png)
+
+1. 出現一則訊息，提醒您「退出方式」與行動裝置不相容。
+
+   ![](assets/ei2.png)
+
+>[!TIP]
+>
+>想看看您選擇的特效未來會如何？ 透過「網頁促銷活動 [預覽」檢視](preview-and-test-a-web-campaign.md)。
+
