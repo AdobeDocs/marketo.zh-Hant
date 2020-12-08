@@ -1,0 +1,55 @@
+---
+unique-page-id: 30081230
+description: 人員大量行動——行銷檔案——產品檔案
+title: 對人員的大量動作
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 0%
+
+---
+
+
+# 對人員的大量動作 {#bulk-actions-on-people}
+
+您可以大量處理您的聯絡人，以節省時間。
+
+所有可用批量操作的第一步是選擇兩個或多個聯繫人，然後按一下資料（三個垂直點）。
+
+![](assets/one-3.png)
+
+## 新增人員至群組 {#add-people-to-group}
+
+同時新增多個人至群組。
+
+![](assets/add-to-group.png)
+
+## 來源 {#source}
+
+我們會自動為進入資料庫的每個聯繫人分配一個源。 使用此步驟更新該源。
+
+![](assets/source.png)
+
+>[!NOTE]
+>
+>無法自訂來源。
+
+## 授權 {#authorization}
+
+遵循 [GDPR](http://eugdpr.org/)，使用授權來指出您如何獲得與這些聯絡人接觸的權限。
+
+![](assets/authorization.png)
+
+## 取消訂閱 {#unsubscribe}
+
+對不想再收到您來信的聯絡人執行大量取消訂閱。
+
+![](assets/unsubscribe.png)
+
+## 刪除 {#delete}
+
+大量刪除聯繫人。 您可在此找到完整 [步驟](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts)。
+
+![](assets/delete.png)
+
