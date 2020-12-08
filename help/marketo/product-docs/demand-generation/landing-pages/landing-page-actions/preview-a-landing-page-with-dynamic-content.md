@@ -1,0 +1,37 @@
+---
+unique-page-id: 2359734
+description: 使用動態內容預覽著陸頁面——行銷檔案——產品檔案
+title: 使用動態內容預覽著陸頁面
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '89'
+ht-degree: 0%
+
+---
+
+
+# 使用動態內容預覽著陸頁面 {#preview-a-landing-page-with-dynamic-content}
+
+新增動態內容後，請預覽您的登陸頁面，以確保一切看起來都像應該的樣子。
+
+>[!NOTE]
+>
+>**必要條件**
+>
+>* [在著陸頁面中使用動態內容](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
+>* [預覽著陸頁面](preview-a-landing-page.md)
+
+>
+
+
+
+1. 選取著陸頁面，然後按一下「 **預覽頁面」。**
+
+   ![](assets/image2014-9-17-16-3a9-3a55.png)
+
+1. 按一下下拉式清單，並選取 **區段** 以預覽。
+
+   ![](assets/image2014-9-25-15-3a34-3a40.png)
+
+太棒了！ 您現在可以確保您的著陸頁面在各區段間正常運作。
