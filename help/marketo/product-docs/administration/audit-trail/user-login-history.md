@@ -1,0 +1,80 @@
+---
+unique-page-id: 11377958
+description: 使用者登入記錄——行銷人員檔案——產品檔案
+title: 使用者登入記錄
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '180'
+ht-degree: 0%
+
+---
+
+
+# 使用者登入記錄 {#user-login-history}
+
+「使用者登入記錄」可協助您確切顯示哪些人已登入訂閱，包括登入嘗試失敗，以維護責任和安全性。
+
+>[!NOTE]
+>
+>**必要條件**
+>
+>您必須具有啟用「存取登入記錄」權限的角色，才能檢視「使用者登入記錄」。
+
+使用者登入記錄可識別登入者：
+
+* 登入時間和日期
+* 使用者名稱和電子郵件地址
+* 角色
+* 工作區
+* IP位址
+
+要查看用戶登錄歷史記錄，請執行以下操作：
+
+1. 按一下「管 **理員** 」標籤，然後在「安全性」下，按一 **下「使用者與角色」**。
+
+   ![](assets/image2016-7-12-9-3a2-3a31.png)
+
+1. 按一下「登 **入記錄** 」標籤。 清單顯示最近登入的資訊。
+
+   ![](assets/login-history-tab.jpg)
+
+1. 使用「篩選」縮小搜尋範圍。
+
+   ![](assets/filter-main.jpg)
+
+1. 使用日期選擇器選擇日期範圍。
+
+   ![](assets/select-date-range-hand.jpg)
+
+1. 或者，從下拉式清單中選擇。
+
+   ![](assets/filter-select-from-dropdown.jpg)
+
+1. 從「使用者」下 **拉式清單中** ，選取使用者。** **
+
+   ** ![](assets/user-dropdown.jpg)
+
+   **
+
+1. 勾選「 **僅失敗登入** 」方塊，只顯示搜尋中失敗的登入。
+
+   ![](assets/only-failed-logins.jpg)
+
+1. 按一 **下套用**。
+
+   ![](assets/click-apply-real.jpg)
+
+   >[!NOTE]
+   >
+   >使用者介面最多可顯示30天的資料。 如果您需要更多資料，可以將最近6個月的資料下載至csv檔案。
+
+   >[!NOTE]
+   >
+   >**相關文章**
+   >
+   >    
+   >    
+   >    * [稽核記錄概述](audit-trail-overview.md)
+
+
