@@ -1,0 +1,40 @@
+---
+unique-page-id: 2359994
+description: 選擇報表欄——行銷檔案——產品檔案
+title: 選擇報表欄
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '75'
+ht-degree: 0%
+
+---
+
+
+# 選擇報表欄 {#select-report-columns}
+
+您可以選擇報表中包含和未包含的欄。
+
+1. 前往**Analytics **(或行銷活 **動**)區域。
+
+   ![](assets/image2014-9-16-10-3a43-3a0.png)
+
+1. 選擇您的報表。
+
+   ![](assets/image2014-9-16-10-3a43-3a5.png)
+
+1. 按一下「 **報表** 」標籤，然後按一下任何欄標題並選 **取「欄**」，然後選擇要包含的欄。
+
+   ![](assets/image2014-9-16-10-3a43-3a9.png)
+
+   >[!NOTE]
+   >
+   >**相關文章**
+   >
+   >    
+   >    
+   >    * [對列排序報表](sort-report-on-columns.md)
+
+
+   利用報告完成更多工作！ 請參 [閱基本報告](http://docs.marketo.com/display/docs/basic+reporting)。
+
