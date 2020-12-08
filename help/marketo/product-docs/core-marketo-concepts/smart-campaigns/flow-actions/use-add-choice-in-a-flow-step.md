@@ -1,0 +1,69 @@
+---
+unique-page-id: 1146980
+description: 在流程步驟中使用新增選擇——行銷檔案——產品檔案
+title: 在流程步驟中使用新增選擇
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '199'
+ht-degree: 0%
+
+---
+
+
+# 在流程步驟中使用新增選擇 {#use-add-choice-in-a-flow-step}
+
+>[!NOTE]
+>
+>**必要條件**
+>
+>* [新增流量步驟至智慧型促銷活動](add-a-flow-step-to-a-smart-campaign.md)
+
+>
+
+
+
+**新增選擇** ，可讓您使用流程步驟，並在選擇詳細資訊時說「這取決於」。
+
+1. 在智慧型促 **銷活動的** 「流量」標籤下，新增任何流量步驟，然後按一下「新增 **選擇」**。
+
+   ![](assets/image2014-9-22-11-3a58-3a20.png)
+
+1. 選擇選擇條件。
+
+   ![](assets/image2014-9-22-11-3a58-3a50.png)
+
+1. 選擇選擇運算子並輸入選擇值。 這會設定您的標準或選擇。
+
+   ![](assets/image2014-9-22-11-3a58-3a54.png)
+
+1. 輸入選擇的流程步驟值。
+
+   ![](assets/image2014-9-22-11-3a58-3a57.png)
+
+   >[!CAUTION]
+   >
+   >Token在 **選擇流** 程步驟的條件部分無法運作。
+
+1. 重複上述步驟以新增多個選擇，然後新增／調整預設值。
+
+   ![](assets/image2014-9-22-11-3a58-3a59.png)
+
+   >[!TIP]
+   >
+   >您可以將任何流程步驟設定為—Do Nothing —，在這種情況下，將不對該選項採取任何操作。
+
+   >[!CAUTION]
+   >
+   >只有第一個匹配選項才應用於流步驟。 瞭解如何在 [流動動作中重新排序「新增選擇」](reorder-add-choice-in-a-flow-step.md)。
+
+   >[!NOTE]
+   >
+   >**相關文章**
+   >
+   >    
+   >    
+   >    * [在流程步驟中重新排序「新增選擇」](reorder-add-choice-in-a-flow-step.md)
+
+
+太好了！ 您現在可以建立單一智慧型促銷活動，其中包含流程步驟選擇，而不是為每個選擇建立多個智慧型促銷活動。
