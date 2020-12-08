@@ -1,0 +1,63 @@
+---
+unique-page-id: 45417460
+description: 指派工作給團隊成員——行銷人員檔案——產品檔案
+title: 將任務分配給團隊成員
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 0%
+
+---
+
+
+# 將任務分配給團隊成員 {#assigning-tasks-to-team-members}
+
+如果希望與其他團隊成員協作，分配任務是協調潛在客戶開發工作的絕佳方法。
+
+>[!NOTE]
+>
+>您只能為共用聯繫人指派任務。 在協作共用任 [務之前，您將希望與團隊成員](http://docs.marketo.com/x/fwDb) 共用一組聯繫人。
+
+1. 按一下「 **Command Center（命令中心）**」。
+
+   ![](assets/one-1.png)
+
+1. 按一 **下「新增任務**」。
+
+   ![](assets/two-1.png)
+
+1. 選擇任務類型。
+
+   ![](assets/three-1.png)
+
+1. 為您的任務命名。
+
+   ![](assets/four-1.png)
+
+1. 在「分配任務」(Assign Task)欄位中，選擇要分配任務的團隊中的人員。
+
+   ![](assets/five.png)
+
+1. 在「人員」欄位中新增您要與之聯繫的人員。
+
+   ![](assets/six.png)
+
+1. 選擇到期日。
+
+   ![](assets/seven.png)
+
+1. 設定優先順序。
+
+   ![](assets/eight.png)
+
+1. 新增與您的團隊成員相關的重要詳細資訊（可選），然後按一下「建 **立**」。
+
+   ![](assets/nine.png)
+
+>[!NOTE]
+>
+>**相關文章**
+>
+>[如何共用群組](http://docs.marketo.com/x/fwDb)
+
