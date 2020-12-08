@@ -1,0 +1,58 @@
+---
+unique-page-id: 2359815
+description: 使用個人化URL匯出清單——行銷人員檔案——產品檔案
+title: 使用個人化URL匯出清單
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '176'
+ht-degree: 0%
+
+---
+
+
+# 使用個人化URL匯出清單 {#export-a-list-with-personalized-urls}
+
+>[!NOTE]
+>
+>**必要條件**
+>
+>* [為您的帳戶啟用個人化URL](enable-personalized-urls-for-your-account.md)
+>* [啟用著陸頁面的個人化URL](enable-personalized-urls-for-a-landing-page.md)
+
+>
+
+
+
+1. 選擇您的清單或智慧型清單，按一下 **Leads** 標籤以取得結果，然後按一下Excel圖示。 INLINE請確定您有**Marketo唯一代碼**和 **Marketo唯一名稱**[欄可見](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)。
+
+   ![](assets/image2014-9-25-11-3a10-3a43.png)
+
+1. 勾 **選「包含個人化URL**」，尋找並選取您要產生PURL的著陸頁面。
+
+   ![](assets/image2014-9-18-13-3a36-3a42.png)
+
+1. 選取 **URL**。
+
+   ![](assets/image2014-9-18-13-3a36-3a53.png)
+
+   >[!TIP]
+   >
+   >如果您看到相同著陸頁面的多個URL，可能是因為您在過去某個時點變更了頁面URL並建立了重新導向。
+
+1. 選擇「樣 **式** 」，然後 **按一下「導出」**。
+
+   ![](assets/image2014-9-18-13-3a37-3a6.png)
+
+1. 匯出完成時，按一下「 **立即下載** 」連結以儲存檔案。
+
+   ![](assets/image2014-9-18-13-3a37-3a27.png)
+
+   你完蛋了！ 您現在有銷售機會和個人化URL的清單。
+
+   ![](assets/image2014-9-18-13-3a37-3a36.png)
+
+   >[!NOTE]
+   >
+   >如果有具有相同名字和姓氏的潛在客戶，系統會自動附加數字，以確保URL保持唯一。
+
