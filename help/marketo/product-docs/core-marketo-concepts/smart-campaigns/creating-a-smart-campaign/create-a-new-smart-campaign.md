@@ -1,0 +1,55 @@
+---
+unique-page-id: 1146931
+description: 建立新的智慧型促銷活動——行銷檔案——產品檔案
+title: 建立新的智慧型促銷活動
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
+
+---
+
+
+# 建立新的智慧型促銷活動 {#create-a-new-smart-campaign}
+
+智慧型促銷活動是Marketo中最重要的工具。 他們可以觸發一個人並執行動作，或統計數百萬人並執行一系列流程步驟。
+
+>[!NOTE]
+>
+>**深入探討**
+>
+>智慧型宣傳非常酷。 在這裡進一步了 [解](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)。
+
+1. 前往行 **銷活動**。
+
+   ![](assets/login-marketing-activities.png)
+
+1. 選擇一 **個方案**，然後在「新增 **」下按一下「新** 增本機資產 ****」。
+
+   ![](assets/program-localassethands.png)
+
+   >[!TIP]
+   >
+   >您可以建立智慧型促銷活動，作為任何方案的本機資產。
+
+1. 按一下「智 **慧型促銷活動**」。
+
+   ![](assets/image2014-9-19-15-3a9-3a51.png)
+
+1. 輸入智慧型促銷活動名稱，然後按一 **下建立**。
+
+   ![](assets/image2014-9-19-15-3a10-3a41.png)
+
+   酷！ 接下來，瞭解如何使用智慧型清單來定義哪些人要在智慧型促銷活動中執行。
+
+   >[!NOTE]
+   >
+   >**相關文章**
+   >
+   >    
+   >    
+   >    * [定義智慧型促銷活動的智慧型清單 |批次](define-smart-list-for-smart-campaign-batch.md)
+   >    * [定義智慧型促銷活動的智慧型清單 |觸發器](define-smart-list-for-smart-campaign-trigger.md)
+
+
