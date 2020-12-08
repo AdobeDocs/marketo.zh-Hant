@@ -1,0 +1,88 @@
+---
+unique-page-id: 2360018
+description: 將業務機會列添加到銷售機會報告——行銷人員文檔——產品文檔
+title: 將業務機會列添加到銷售線索報表
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '361'
+ht-degree: 0%
+
+---
+
+
+# 將業務機會列添加到銷售線索報表 {#add-opportunity-columns-to-a-lead-report}
+
+要查看人員報表中的業務機 [會統計](http://docs.marketo.com/display/docs/basic+reporting)，您可以添加業務機會列。
+
+>[!NOTE]
+>
+>**FYI**
+>
+>Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
+
+1. 前往「行銷 **活動** 」區。
+
+   ![](assets/ma.png)
+
+1. 從導覽樹狀結構中選取您的報表，然後按一下「 **設定** 」標籤。
+
+   ![](assets/two.png)
+
+1. 按兩下 **Opportunity Columns**。
+
+   ![](assets/three.png)
+
+1. 從下 **拉式選單中選取** 「顯示」。
+
+   ![](assets/image2014-9-16-12-3a50-3a33.png)
+
+1. 按一下「 **報表** 」標籤，查看您具有業務機會度量的報表。
+
+   ![](assets/five.png)
+
+   >[!TIP]
+   >
+   >向右捲動以檢視更多欄。
+
+1. 若要 [新增或移除報表中的欄](select-report-columns.md)，請按一下任何欄標題並選取 **欄**。
+
+   ![](assets/six.png)
+
+   可用的業務機會列包括：
+
+   >[!NOTE]
+   >
+   >根據分配給每個機會的主要聯繫人，每個機會只被計算一次。
+
+   | 欄 | 說明 |
+   |---|---|
+   | 無機會 | 不是主要機會聯 *絡人* 的人數。 |
+   | 無機會天數 | 非主要聯絡人的平均年齡(以日為 *單位* )。 |
+   | 有機會 | 作為主要機會聯繫人的人數。 |
+   | 有機會% | 作為主要機會聯繫人的百分比。 |
+   | 銷售機會的間隔天數 | 從人員到主要業務機會聯繫人的平均轉換天數。 |
+   | 總機會金額 | 所有機會金額的總和。 |
+   | 平均業務機會金額 | 業務機會金額總和，除以業務機會數。 |
+   | 總機會 | 所有機會的數量。 |
+   | 已關閉 | 已關閉、贏得或失去的機會數。 |
+   | Won | 已贏得的機會數。 |
+   | %韓元 | 已贏得的機會百分比。 |
+   | 韓元總額 | 已獲得的機會金額總和。 |
+   | 關閉天數 | 關閉機會的平均天數。 |
+   | 銷售天數 | 銷售週期的平均長度(Days Entil Opportunity + Days to Close)。 |
+
+   >[!NOTE]
+   >
+   >**相關文章**
+   >
+   >
+   >瞭解如何 [管理報表的大小](configure-report-size.md)。
+
+   >[!NOTE]
+   >
+   >**深入探討**
+   >
+   >
+   >在「基本報告」深入探討中瞭解您還可以對報 [告執行](http://docs.marketo.com/display/docs/basic+reporting) 哪些操作。
+
