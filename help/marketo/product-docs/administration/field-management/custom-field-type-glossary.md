@@ -1,0 +1,150 @@
+---
+unique-page-id: 2951259
+description: 自訂欄位類型辭彙表——行銷檔案——產品檔案
+title: 自訂欄位類型辭彙表
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '658'
+ht-degree: 0%
+
+---
+
+
+# 自訂欄位類型辭彙表 {#custom-field-type-glossary}
+
+>[!NOTE]
+>
+>**FYI**
+>
+>Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
+
+當您在Market中建立自訂欄位時，您會有可供選擇的類型清單。
+
+>[!NOTE]
+>
+>**必要條件**
+>
+>* [在Marketo中建立自訂欄位](create-a-custom-field-in-marketo.md)
+
+>
+
+
+
+>[!TIP]
+>
+>視欄位類型而定，篩選／觸發 [器運算](https://docs.marketo.com/display/public/DOCS/Smart+List+Filter+Operators+Glossary) 子會不同。
+
+>[!NOTE]
+>
+>大部分欄位不會以字元數為上限，而是以位元組數為上限。 因此，我們無法為每個欄位提供明確的字元限制。 String是例外 **情況**，其最大值為255個字元。
+
+## 布林值 {#boolean}
+
+**範例名稱：** 是客戶——將您的人員標籤為客戶
+
+**範例值：** True（勾選）/ False（未勾選）
+
+**營運商**:無
+
+## 貨幣 {#currency}
+
+**範例名稱：** 預算——儲存公司預算的編號值
+
+**範例值：** 100
+
+**營運商**:is, is not, between, greater, less than, allyst, ald mots, is empty, not empty
+
+## 日期 {#date}
+
+**範例名稱：** 續約日期——儲存您的客戶續約日期
+
+**範例值：** 2014年8月19日
+
+**營運商**:is, is not is betwen, prest, power, in future, in time frame, after, after, on, of, on, of, of, of, of fer, in expty
+
+## 日期時間 {#datetime}
+
+**範例名稱：** 建立日期——儲存建立人員的日期和時間
+
+**範例值：** 8/19/14 2:00
+
+**營運商**:is, is not is betwen, prest, power, in future, in time frame, after, after, on, of, on, of, of, of, of fer, in expty
+
+## 電子郵件 {#email}
+
+**範例名稱：** 替代電子郵件——為您的人員保留替代電子郵件地址（無法實際傳送電子郵件至此欄位，例如預設電子郵件地址欄位，此欄位是特殊的）
+
+**範例值：** [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#335d525e5673505c5e43525d4a1d505c5e)
+
+**營運商**:is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
+
+## 浮點 {#float}
+
+**範例名稱：** 級別點數平均值——保持人員的級別點數平均值或具有小數的任何其他數值
+
+**範例值：** 二塊四毛七
+
+**營運商**:介於、大於、小於、至少至多為空，不是空的
+
+## 公式 {#formula}
+
+**範例名稱：** 問候語——在解決方案中使用此 [特殊欄位，根據性別取得正確的問候](create-and-use-a-concatenated-string-formula-field.md) 。
+
+**範例值：** 檢查連結的解決方案
+
+## 整數 {#integer}
+
+**範例名稱：** 員工人數——儲存不需要小數位數的數值
+
+**範例值：** 600
+
+**營運商**:is, is not, between, greater, less than, allyst, ald mots, is empty, not empty
+
+## 百分比 {#percent}
+
+**範例名稱：** 可能購買——儲存百分比值（可能是在CRM端計算）
+
+**範例值：** 85%
+
+**營運商**:is, is not, between, greater, less than, allyst, ald mots, is empty, not empty
+
+## 電話 {#phone}
+
+**範例名稱：** 備用電話——為您的人員儲存額外的電話號碼
+
+**範例值：** 650-555-5555
+
+**營運商**:is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
+
+## 分數 {#score}
+
+**範例名稱：** 行為分數／人口統計分數——建立多個分數欄位，以追蹤不同屬性。
+
+**範例值：** 14
+
+**營運商**:is, is not, between, greater, less than, allyst, ald mots, is empty, not empty
+
+## 字串 {#string}
+
+**範例名稱：** 中間名稱——儲存附加文本屬性
+
+**範例值：** 玫瑰
+
+**營運商**:is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
+
+## 文字區域 {#text-area}
+
+**範例名稱：** 注釋——在表格中新增注釋欄位，以允許多行文字輸入
+
+**範例值：** 這篇文章太棒了！
+
+**營運商**:is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
+
+## URL {#url}
+
+**範例名稱：** 部落格——建立欄位以儲存人員部落格URL
+
+**範例值：** www.myblog.com
+
+**營運商**:is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
