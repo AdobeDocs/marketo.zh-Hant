@@ -1,0 +1,73 @@
+---
+unique-page-id: 1147100
+description: 導覽計畫排程檢視——行銷人員檔案——產品檔案
+title: 導航程式計畫視圖
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '186'
+ht-degree: 0%
+
+---
+
+
+# 導航程式計畫視圖 {#navigating-the-program-schedule-view}
+
+以下是幫助您導覽計畫排程檢視的基本資訊。
+
+## 查找計畫視圖 {#find-the-schedule-view}
+
+1. 前往行 **銷活動**。
+
+   ![](assets/login-marketing-activities.png)
+
+1. 選擇您的方案。 按一下 **「檢視** 」下拉式清單。 選擇 **計畫**。
+
+   ![](assets/image2014-9-17-11-3a38-3a3.png)
+
+   太棒了。 現在，您將檢視您方案的排程檢視。
+
+   ![](assets/image2014-9-17-11-3a38-3a14.png)
+
+>[!NOTE]
+>
+>方案排程檢視是自黏的。 一旦設定了它，所有程式都將預設為計畫視圖。
+
+1. 在條目之間切換
+1. 在條目詳細資訊中，按一下箭頭可移至下一個計畫條目。
+
+   ![](assets/image2014-9-17-11-3a38-3a54.png)
+
+   很酷吧？
+
+   ![](assets/image2014-9-17-11-3a39-3a10.png)
+
+1. 檢視內容功能表
+1. 按一下右鍵任何程式，對程式、智慧清單、設定、我的Token或成員進行編輯。
+
+   ![](assets/image2014-9-17-11-3a39-3a59.png)
+
+## 在模式之間更改 {#changing-between-modes}
+
+1. 按一 **下「3週** 」或「 **月」** ，將變更顯示畫面上的顯示日期。
+
+   ![](assets/image2014-9-17-11-3a40-3a19.png)
+
+## 全螢幕檢視 {#full-screen-view}
+
+1. 您可以按一下右上角的螢幕圖示，以全螢幕模式檢視您的程式排程。
+
+   ![](assets/image2014-9-17-11-3a40-3a45.png)
+
+太好了！ 既然您已知道如何檢視您的程式，讓我們學習它可以做的其他酷炫事。
+
+>[!NOTE]
+>
+>**相關文章**
+>
+>* [在「方案計畫」視圖中建立條目](creating-an-entry-in-the-program-schedule-view.md)
+
+>
+
+
+
