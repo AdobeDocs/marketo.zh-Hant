@@ -1,0 +1,56 @@
+---
+unique-page-id: 1147294
+description: 篩選行銷行事歷——行銷檔案——產品檔案
+title: 篩選行銷行事歷
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '114'
+ht-degree: 0%
+
+---
+
+
+# 篩選行銷行事歷 {#filtering-the-marketing-calendar}
+
+使用登入類型、程式標籤或工作區來篩選日曆上顯示的資訊。
+
+1. 前往日曆。
+
+![](assets/2017-05-10-15-30-47.png)
+
+1. 按一下 **「登入****類型** 」下拉式清單。
+
+   >[!NOTE]
+   >
+   >預設條目類型 **Email** Programs **And** Smart Campaigns將是Email **Programs和Email************** Smart Campaigns的電子郵件促銷活動。
+
+   ![](assets/image2014-9-24-10-3a46-3a54.png)
+
+1. 選擇您想在篩選中看到的其他項目類型。
+
+   ![](assets/image2014-9-24-10-3a47-3a0.png)
+
+   >[!TIP]
+   >
+   >有關標準錄入類型的說明，請檢查「程 [序計畫查看錄入類型」](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)。
+
+1. 選擇您感興趣的方案標籤。
+
+   ![](assets/image2014-9-24-10-3a47-3a5.png)
+
+1. 選取標籤值。
+
+   ![](assets/image2014-9-24-10-3a47-3a9.png)
+
+   太棒了！ 您現在只會看到套用至您剛定義的篩選的項目。
+
+   >[!NOTE]
+   >
+   >**相關文章**
+   >
+   >    
+   >    
+   >    * [在行銷日曆中儲存篩選定義](saving-a-filter-definition-in-the-marketing-calendar.md)
+
+
