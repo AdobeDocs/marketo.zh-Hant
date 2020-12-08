@@ -1,0 +1,106 @@
+---
+unique-page-id: 37356578
+description: 使用選擇和傳送功能撰寫大量電子郵件——行銷人員檔案——產品檔案
+title: 使用選擇和傳送撰寫大量電子郵件
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '454'
+ht-degree: 0%
+
+---
+
+
+# 使用選擇和傳送撰寫大量電子郵件 {#composing-bulk-emails-with-select-and-send}
+
+以下說明如何使用「選取並傳送」選項來傳送／編輯電子郵件。
+
+## 傳送電子郵件 {#sending-emails}
+
+1. 導覽至「人員」頁面。
+
+   ![](assets/one-2.png)
+
+1. 選擇您要以電子郵件傳送的對象。
+
+   ![](assets/two-2.png)
+
+   >[!NOTE]
+   >
+   >使用「選取並傳送」時，最多可選取200人。
+
+1. 按一下「電 **子郵件選取** 」按鈕。
+
+   ![](assets/three-2.png)
+
+1. 輸入主旨行、選取範本（或從頭開始編寫電子郵件），並傳送／排程 [](http://docs.marketo.com/x/GAQ6Ag)電子郵件。
+
+   ![](assets/four-2.png)
+
+   >[!NOTE]
+   >
+   >如果您選取範本，並想要檢查所有動態欄位在傳送前是否都正確填入，請按一下「預 **覽動態欄位」**。 確保已選取大量側邊欄中的所有收件者，以預覽所有電子郵件。 如果您選取一封電子郵件，然後按一 **下「預覽動態欄位**」，則只會預覽該電子郵件。
+
+## 編輯電子郵件 {#editing-emails}
+
+**大量編輯**
+
+1. 請遵循「傳送電子郵件」區段中 [的步驟1-3](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)。
+
+   >[!NOTE]
+   >
+   >預設會選取所有收件者。 如果您按一下個人並想要重新選取每個人，請按一下「所有收 **件者」**。 提醒您，必須選取所有收件者，才能進行大量編輯。
+
+1. 在編輯器中進行變更。 您可以建立新電子郵件或編輯範本（在此範例中，我們要建立新電子郵件）。
+
+   ![](assets/bulk-three.png)
+
+   >[!NOTE]
+   >
+   >您可以按一下特定的電子郵件收件者，查看傳播至該電子郵件的變更。
+
+1. 按一 **下「傳送** 」(或「排程 [](http://docs.marketo.com/x/GAQ6Ag)」)，以透過您進行的大量電子郵件更新傳送給所有收件者。
+
+   ![](assets/bulk-four.png)
+
+**編輯每封電子郵件**
+
+在自訂每封電子郵件之前完成大量更新，因為大量更新會覆寫大量合成側欄中每封電子郵件的變更。
+
+1. 請遵循「傳送電子郵件」區段中 [的步驟1-4。](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
+
+   >[!NOTE]
+   >
+   >預設會選取所有收件者。 如果您按一下個人並想要重新選取每個人，請按一下「所有收 **件者」**。 提醒您，必須選取所有收件者，才能進行大量編輯。
+
+1. 選擇個別收件者。
+
+   ![](assets/each-two.png)
+
+1. 在編輯器中進行變更。
+
+   ![](assets/each-three.png)
+
+   >[!NOTE]
+   >
+   >您可以在此處，在大量側欄中編輯單一電子郵件，而不需更新其餘的電子郵件。
+
+   >[!TIP]
+   >
+   >您可以按一下其他收件者，查看您對先前選取之收件者所做的變更未顯示。
+
+1. 按一 **下「傳送** 」(或「排程 [](http://docs.marketo.com/x/GAQ6Ag)」)，以透過您進行的大量電子郵件更新傳送給所有收件者。
+
+   ![](assets/each-four.png)
+
+   >[!NOTE]
+   >
+   >**相關文章**
+   >
+   >    
+   >    
+   >    * [大量傳送選項](http://docs.marketo.com/x/HwQ6Ag)
+   >    * [在合成窗口中使用模板](http://docs.marketo.com/x/MQQ6Ag)
+   >    * [動態欄位](http://docs.marketo.com/x/wwDb)
+
+
