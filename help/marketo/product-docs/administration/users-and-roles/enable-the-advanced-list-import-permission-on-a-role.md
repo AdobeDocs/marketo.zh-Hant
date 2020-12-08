@@ -1,0 +1,38 @@
+---
+unique-page-id: 2360211
+description: 啟用角色的進階清單匯入權限——行銷人員檔案——產品檔案
+title: 啟用角色的進階清單匯入權限
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 0%
+
+---
+
+
+# 啟用角色的進階清單匯入權限 {#enable-the-advanced-list-import-permission-on-a-role}
+
+「清單匯入模式」僅適用於具有啟用「進階清單匯入」權限之角色的使用者。 匯入人員清單時，所有其他使用者都不會看到「清單匯入模式」下拉式清單，而他們匯入的任何清單則預設為「一般匯入模式」。
+
+>[!NOTE]
+>
+>**需要管理員權限**
+
+1. 前往管 **理**。
+
+   ![](assets/adminhand-2.png)
+
+1. 按一 **下「使用者與角色」**。
+
+   ![](assets/image2014-9-17-11-3a50-3a38.png)
+
+1. 在「**角色**」頁籤下，選擇要修改的角色，然後按一下「編 **輯角色」**。
+
+   ![](assets/image2014-9-17-11-3a51-3a49.png)
+
+1. 在「訪問資料庫」下，選中「 **高級清單導入」** ，然後按一下 **「保存」**。
+
+   ![](assets/four-1.png)
+
+酷！ 現在，所有與您編輯的角色相關聯的使用者都將啟用進階清單匯入選項。
