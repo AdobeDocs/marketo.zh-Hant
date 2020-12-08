@@ -2,7 +2,7 @@
 title: importing-assets-with-adobe-experience-manager
 description: 使用Adobe Experience Manager匯入資產
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
