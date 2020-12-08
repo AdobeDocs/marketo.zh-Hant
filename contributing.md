@@ -1,8 +1,8 @@
 ---
-source-git-commit: 394be8f9a301fae26dbe3d397623eb2921b8fbf1
+source-git-commit: 0dbdb1f26a4dcf59f351511b072a6385935de86f
 workflow-type: tm+mt
 translation-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 ## 行為准則
 
 本專案遵守Adobe [行為准則](code-of-conduct.md)。 透過參與，您應遵守本規範。 請向Grp-opensourceoffice@adobe.com報告不可接受的[行為](mailto:Grp-opensourceoffice@adobe.com)。
+
+## 投稿人指南檔案
+
+請參閱投 [稿者指南](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)。
 
 ## 有問題嗎？
 
