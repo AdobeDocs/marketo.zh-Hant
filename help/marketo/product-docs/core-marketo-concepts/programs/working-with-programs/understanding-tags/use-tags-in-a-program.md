@@ -1,0 +1,68 @@
+---
+unique-page-id: 1147150
+description: 在計畫中使用標籤——行銷檔案——產品檔案
+title: 在程式中使用標籤
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '139'
+ht-degree: 0%
+
+---
+
+
+# 在程式中使用標籤 {#use-tags-in-a-program}
+
+標籤是描述程式的屬性，用於在報告中對程式類型進行分組。
+
+## 在程式中使用標籤 {#use-a-tag-in-a-program}
+
+1. 選擇您的方案。 按一 **下設定**。
+
+   ![](assets/image2014-9-23-15-3a45-3a0.png)
+
+1. 將標籤拖放至畫布中。
+
+   ![](assets/image2014-9-23-15-3a45-3a13.png)
+
+1. 從下拉式清單中選取一個值。
+
+   ![](assets/image2014-9-23-15-3a45-3a30.png)
+
+1. 按一下 **儲存**。
+
+   ![](assets/image2014-9-23-15-3a45-3a36.png)
+
+1. 就這樣。 您會在畫布中看到新的標籤。
+
+   ![](assets/image2014-9-23-15-3a45-3a47.png)
+
+## 編輯標籤 {#edit-a-tag}
+
+1. 前往「設 **定** 」標籤。 以滑鼠右鍵按一下標籤。 選擇 **編輯**。
+
+   ![](assets/image2014-9-23-15-3a45-3a53.png)
+
+1. 按一下下拉式清單。 選取新值。
+
+   ![](assets/image2014-9-23-15-3a46-3a12.png)
+
+1. 按一下 **儲存**。
+
+   ![](assets/image2014-9-23-15-3a46-3a25.png)
+
+1. 太好了！ 您應該會在畫布中看到所做的編輯。
+
+   ![](assets/image2014-9-23-15-3a46-3a35.png)
+
+## 刪除標籤  {#delete-a-tag}
+
+1. 前往「設 **定** 」標籤。 按一下右鍵標籤並選擇「刪 **除」**。
+
+   ![](assets/image2014-9-23-15-3a46-3a55.png)
+
+1. 按一下**刪除**以確認。
+
+   ![](assets/image2014-9-23-15-3a47-3a8.png)
+
+擊掌！ 它不見了。 具有一致標籤的程式可讓您在執行報表時更輕鬆。
