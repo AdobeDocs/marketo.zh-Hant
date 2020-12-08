@@ -1,0 +1,78 @@
+---
+unique-page-id: 1146901
+description: 使用進階智慧型清單規則邏輯——行銷檔案——產品檔案
+title: 使用高級智慧清單規則邏輯
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '289'
+ht-degree: 0%
+
+---
+
+
+# 使用高級智慧清單規則邏輯 {#using-advanced-smart-list-rule-logic}
+
+您可以將智慧型清單規則邏輯套用至智慧型清單中的多個篩選器，以找到所需的確切人員。 這是方法。
+
+>[!NOTE]
+>
+>**必要條件**
+>
+>* [尋找並新增篩選器至智慧型清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [定義智慧清單篩選器](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
+
+>
+
+
+
+>[!NOTE]
+>
+>進階篩選邏輯僅在智慧型清單中有三個或三個以上的篩選器時可用。
+
+## 將邏輯添加到智慧清單 {#add-logic-to-a-smart-list}
+
+根據預設，智慧型清單會找到符合 **ALL** 篩選器(篩選器1 *和* 2 *及* 3)的人。 您可以變更規則邏輯，以尋找符合 **ANY** (篩選器1或 *2* 或 *3)的訪客，或使用進階篩選器(篩選器1*** 和2*或*3)。
+
+在此範例中，假設您想要在加州尋找 *分數至少* 50分或 ** 「銷售合格」狀態的人。
+
+1. 從下 **拉式清** 單中選 **取「使****** 用進階篩選」。
+
+   ![](assets/one.png)
+
+   >[!NOTE]
+   >
+   >使用 **Advanced** filters可減少使用Smart List成員過濾器建立智慧清單的需要。 這有助於優化效能。
+
+1. 「進 **階篩** 選器 **** 」文字方塊會顯示「and」，作為所有篩選器之間的預設值。
+
+   ![](assets/two-2.png)
+
+1. 在&quot;2&quot;和&quot;3&quot;周圍鍵入一對括弧。
+
+   ![](assets/three-2.png)
+
+   >[!CAUTION]
+   >
+   >在輸入規則邏輯時，您必須在「或」之前使用「and」。
+
+1. 將&quot;2與3&quot;之間的&quot;and&quot;變更為&quot;or&quot;。
+
+   ![](assets/four-1.png)
+
+## 在混合&quot;And&quot;和&quot;Or&quot;時使用括弧 {#use-parentheses-when-mixing-and-and-or}
+
+混合&quot;and&quot;和&quot;or&quot;邏輯需要括弧來清楚說明您的意圖。
+
+![](assets/advancedfilters-parent.png)
+
+## 視需要使用巢狀括弧來建立四個或多個篩選器 {#use-nested-parentheses-for-four-or-more-filters-if-needed}
+
+視您的意圖而定，在使用四個或多個篩選器時，您可能需要新增巢狀括弧。
+
+![](assets/advancedfilters-nested.png)
+
+>[!TIP]
+>
+>如果您輸入無效的規則，您會看到規則下方顯示紅線。 捲動至文字上，以檢視相關的錯誤訊息。
+
