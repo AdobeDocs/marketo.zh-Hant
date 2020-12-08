@@ -1,0 +1,49 @@
+---
+unique-page-id: 1147360
+description: 將Token新增至電子郵件連結——行銷人員檔案——產品檔案
+title: 新增Token至電子郵件連結
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '89'
+ht-degree: 0%
+
+---
+
+
+# 新增Token至電子郵件連結 {#add-tokens-to-an-email-link}
+
+若要將額外和個人特定的參數插入連結中，您可以使用Token。 這是方法。
+
+1. 選擇您的電子郵件，然後按一下「 **編輯草稿** 」標籤。
+
+   ![](assets/one.png)
+
+1. 連按兩下可編輯的區域。
+
+   ![](assets/two.png)
+
+1. 尋找或寫入連結的文字。 反白顯示，然後按一下「 **插入／編輯連結** 」圖示。
+
+   ![](assets/three.png)
+
+1. 在 **URL中輸入所要的Token** ，然後按一 **下Insert**。
+
+   ![](assets/four.png)
+
+1. 按一下 **儲存**。
+
+   ![](assets/five.png)
+
+   就這樣！
+
+>[!NOTE]
+>
+>**相關文章**
+>
+>* [在我的Token中使用URL](using-urls-in-my-tokens.md)
+
+>
+
+
+
