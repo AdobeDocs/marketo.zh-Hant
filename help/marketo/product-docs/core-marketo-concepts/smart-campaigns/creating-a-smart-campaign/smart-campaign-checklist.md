@@ -1,0 +1,73 @@
+---
+unique-page-id: 1147051
+description: 智慧型促銷活動檢查清單——行銷人員檔案——產品檔案
+title: 智慧型促銷活動檢查清單
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '299'
+ht-degree: 0%
+
+---
+
+
+# 智慧型促銷活動檢查清單 {#smart-campaign-checklist}
+
+請遵循下列步驟，以確保智慧型促銷活動的順暢執行，並盡可能避免錯誤。
+
+>[!NOTE]
+>
+>**FYI**
+>
+>Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
+
+1. 消除智慧清單錯誤
+
+   在智慧型促銷活動中，按一下「智慧 **型清單」**。 修正錯誤，以去除您看到的任何紅色扭曲線。
+
+   ![](assets/image2014-9-22-16-3a9-3a13.png)
+
+   >[!TIP]
+   >
+   >紅色的扭曲線表示錯誤或缺少資訊。 如果未更正，促銷活動將無效且不會執行。
+   >
+   >
+   >此外，讓 **事情變得簡單**。 如果您有數十或數百種濾鏡，就很難維護並追蹤。 載入的濾鏡也更少。
+
+   >[!NOTE]
+   >
+   >**提醒**
+   >
+   >
+   >使用 **智慧清單成員** ，該清單中可能有錯誤。 也檢查一下。
+
+1. 消除流量錯誤
+1. 在智慧型促銷活動中，按一下「 **流量」**。 修正錯誤，以去除您看到的任何紅色扭曲線。
+
+   ![](assets/image2014-9-22-16-3a10-3a49.png)
+
+   >[!TIP]
+   >
+   >將滑鼠指標暫留在紅色扭曲線上，以檢視錯誤的詳細資訊。
+
+1. 查看「計畫」頁籤
+1. 在「計畫 **表** 」頁籤中，選 **中「智** 能清單狀態」促 ******** 銷活動中是否有需要修復的錯誤。
+
+   ![](assets/three.png)
+
+1. 檢查人員限制
+1. 在「 **排程** 」標籤中，請確定合格人員的人數不超過人員限制限制。
+
+   ![](assets/four.png)
+
+   >[!TIP]
+   >
+   >如有需要，您可以在 [智慧型促銷活動中覆寫人員限制](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)。
+
+>[!NOTE]
+>
+>**提醒**
+>
+>如果您的智慧型促銷活動仍然失敗，請瞭解如何 [瞭解通知](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) ，以找出出了什麼問題，以及如何修正它。
+
+幹得好！ 在執行智慧型促銷活動之前，請先將此檢查清單保持方便。
