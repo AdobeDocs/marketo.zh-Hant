@@ -1,0 +1,68 @@
+---
+unique-page-id: 11378468
+description: 稽核記錄篩選——行銷檔案——產品檔案
+title: 審計線索中的篩選
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '142'
+ht-degree: 0%
+
+---
+
+
+# 審計線索中的篩選 {#filtering-in-audit-trail}
+
+依時間範圍、資產類型、使用者、採取的動作等進行篩選。
+
+1. 按一 **下管理**。
+
+   ![](assets/one-1.png)
+
+1. 在「安 **全性**」下，選 **擇「審計線索」**。
+
+   ![](assets/two-1.png)
+
+1. 按一下篩選圖示。
+
+   ![](assets/three.png)
+
+   >[!NOTE]
+   >
+   >可能的搜索參陣列合有多種。 在此範例中，我們找到： *所有電子郵件（由任何人編輯）*。
+
+1. 按一下「 **期間** 」下拉式清單，然後選 **取「最近7天」**。
+
+   ![](assets/four.png)
+
+1. 按一下「 **資產類型** 」下拉式清單，然後選取「電 **子郵件**」。
+
+   ![](assets/five.png)
+
+1. 按一下「 **動作** 」下拉式清單，然後選 **取「編輯」**。
+
+   ![](assets/six.png)
+
+1. 按一 **下套用**。
+
+   ![](assets/seven.png)
+
+1. 篩選結果會顯示在左側。
+
+   ![](assets/eight.png)
+
+   就這樣！
+
+   >[!NOTE]
+   >
+   >如果您已啟用工作區，您會看到所有工作區的稽核資料。 如果您套用工作區篩選，Marketo會在您每次使用稽核記錄時記住先前的工作區值。 資產層級的工作區權限會強制執行。
+
+   >[!NOTE]
+   >
+   >**相關文章**
+   >
+   >    
+   >    
+   >    * [審核跟蹤中的更改詳細資訊](change-details-in-audit-trail.md)
+
+
