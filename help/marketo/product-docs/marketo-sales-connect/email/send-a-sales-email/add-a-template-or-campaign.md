@@ -1,0 +1,22 @@
+---
+unique-page-id: 14352589
+description: 新增範本或促銷活動——行銷人員檔案——產品檔案
+title: 新增範本或促銷活動
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '102'
+ht-degree: 0%
+
+---
+
+
+# 新增範本或促銷活動 {#add-a-template-or-campaign}
+
+若要將範本或促銷活動新增至電子郵件，請開啟新的合成視窗。 範本和促銷活動位於右側。 按一下 **「類別** 」下拉式清單。
+
+若要新增範本，請按一 **下「範本** 」並選取您要傳送的範本。
+
+如果新增促銷活動，請改為按一 **下「促銷活動** 」標籤。
+
+如果您剛在 [Web應用程式中新增／編輯訊息](http://toutapp.com/login)**** ，請務必按一下「重新整理」按鈕，以確定您正在提取最新版本。
