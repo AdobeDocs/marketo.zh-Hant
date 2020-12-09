@@ -3,9 +3,9 @@ unique-page-id: 11383945
 description: 瞭解Facebook離線轉換——行銷人員檔案——產品檔案
 title: 瞭解Facebook離線轉換
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Facebook銷售機會廣告促銷活動會產生銷售機會，並將其傳送至
 1. 將收入週期模型中的階段對應至Facebook上的離線轉換階段。
 1. 當從Facebook銷售線索廣告產生Facebook銷售線索並達到對應階段時，Marketo會透過安全、自動化的API每天將離線轉換資料傳回Facebook數次。 資料會顯示在Facebook廣告管理員報表中。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [設定Facebook離線轉換](set-up-facebook-offline-conversions.md)
 
