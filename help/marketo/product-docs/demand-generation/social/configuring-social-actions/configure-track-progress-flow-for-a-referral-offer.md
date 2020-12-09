@@ -3,9 +3,9 @@ unique-page-id: 2950573
 description: 設定反向連結選件的追蹤進度流程——行銷人員檔案——產品檔案
 title: 設定反向連結選件的追蹤進度流程
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a36-3a43.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >接著，按一 **下「完成>核准並關閉**[」並發佈您的反向連結選件](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)。
 
