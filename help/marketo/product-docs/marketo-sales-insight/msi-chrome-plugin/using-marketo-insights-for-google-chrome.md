@@ -3,9 +3,9 @@ unique-page-id: 7512944
 description: 使用Google Chrome的Marketo Insights - Marketo Docs —— 產品檔案
 title: 使用Google Chrome的Marketo Insights
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 使用Google Chrome的Marketo Insights，傳送及追蹤任何Google電子郵件。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [安裝Google Chrome的Marketo Insights](install-marketo-insights-for-google-chrome.md)
 
