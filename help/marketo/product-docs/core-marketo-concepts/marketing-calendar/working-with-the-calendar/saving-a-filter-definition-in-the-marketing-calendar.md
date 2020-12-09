@@ -3,9 +3,9 @@ unique-page-id: 1147296
 description: 將篩選定義儲存在行銷行事歷——行銷檔案——產品檔案
 title: 在行銷日曆中儲存篩選定義
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 儲存篩選器可讓您在不同的篩選定義之間來回切換。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [篩選行銷行事歷](filtering-the-marketing-calendar.md)
 
