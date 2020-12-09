@@ -3,9 +3,9 @@ unique-page-id: 2359587
 description: 冠軍／挑戰者——捨棄電子郵件測試——行銷檔案——產品檔案
 title: 冠軍／挑戰者——放棄電子郵件測試
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 如果您決定不想繼續執行電子郵件測試，則可以捨棄它。 這是方法。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [冠軍／挑戰者：核准您的電子郵件測試](champion-challenger-approve-your-email-test.md)
 
