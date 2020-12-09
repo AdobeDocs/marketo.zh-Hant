@@ -3,9 +3,9 @@ unique-page-id: 2359520
 description: 使用「日期／時間」 A/B測試——行銷人員檔案——產品檔案
 title: 使用「日期／時間」 A/B測試
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 您可以輕鬆地A/B測試您的電子郵件。 一個測試是**日期／時間**測試。 這會測試在某天或某天傳送電子郵件的最佳時機。 這是如何設定的。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [新增A/B測試](add-an-a-b-test.md)
 
