@@ -3,9 +3,9 @@ unique-page-id: 7512445
 description: 驗證推播設定——行銷人員檔案——產品檔案
 title: 驗證推播設定
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 驗證推播設定 {#verify-push-configuration}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >您的行動開發人員必須已將Marketo的SDK程式碼新增至行動應用程式。
 
