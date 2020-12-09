@@ -3,9 +3,9 @@ unique-page-id: 2953471
 description: SFDC同步——自訂物件同步——行銷檔案——產品檔案
 title: SFDC同步——自定義對象同步
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >要使用自定義對象，它必須與Salesforce中的 [Lead](sfdc-sync-lead-sync.md)、 [](sfdc-sync-contact-sync.md)Contector [](sfdc-sync-account-sync.md)帳戶對象關聯。
 
