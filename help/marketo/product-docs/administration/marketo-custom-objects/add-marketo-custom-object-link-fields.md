@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: 新增行銷至自訂物件連結欄位——行銷至檔案——產品檔案
 title: 新增行銷至自訂物件連結欄位
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ht-degree: 0%
 
 以下說明如何在中介物件中建立連結欄位，以便用於多對多結構。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >您必須已經建立了中間對象和要連結到的任何自定義對象。
 
