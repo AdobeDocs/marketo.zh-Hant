@@ -3,9 +3,9 @@ unique-page-id: 7504343
 description: 使用已知人員資料建立區段——行銷檔案——產品檔案
 title: 使用已知人員資料建立區段
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 以下說明如何使用「已知人員資料」值建立區段。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[管理人員資料](manage-person-data.md)
 
