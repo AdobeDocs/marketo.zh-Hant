@@ -2,9 +2,9 @@
 title: campaign-folder-activitys-tab
 description: '促銷活動資料夾活動標籤 '
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # 促銷活動資料夾：活動標籤
 
-在「活動」標籤中尋找有關促銷活動 [!UICONTROL **的重要**] 資訊。
+在標籤中尋找有關您促銷活動的重要 **[!UICONTROL Activities]** 資訊。
 
 ![影像一](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-1.png)
 
-使用「篩 [!UICONTROL **選依據**] 」下拉式清單，依活動類型篩選促銷活動。 您也可以依促銷活動、活動類型等進行搜尋。
+使用下 **[!UICONTROL Filter by]** 拉式清單，依活動類型篩選促銷活動。 您也可以依促銷活動、活動類型等進行搜尋。
 
 ![影像2](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-2.png)
 
