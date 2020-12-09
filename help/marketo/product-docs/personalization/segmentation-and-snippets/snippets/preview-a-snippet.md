@@ -3,9 +3,9 @@ unique-page-id: 2359498
 description: 預覽程式碼片段——行銷人員檔案——產品檔案
 title: 預覽程式碼片段
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 預覽程式碼片段 {#preview-a-snippet}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [新增內容至程式碼片段](add-content-to-a-snippet.md)
 
