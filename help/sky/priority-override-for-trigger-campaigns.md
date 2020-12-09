@@ -2,9 +2,9 @@
 title: priority-override-for-trigger-campaigns
 description: 觸發促銷活動的優先順序覆寫
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 ## 覆寫優先順序
 
-1. 在觸發器促銷活動中，按一下「排 [!UICONTROL **程」標籤**] ，然後按一 [!UICONTROL **下「覆寫優先順序」**]。
+1. 在觸發器促銷活動中，按一下標 **[!UICONTROL Schedule]** 簽，然後按一下 **[!UICONTROL Override Priority]**。
 
    ![影像一](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. 從下拉式清單中選擇新的優先順序層級。 按一 [!UICONTROL **下確認**]。
+1. 從下拉式清單中選擇新的優先順序層級。 按一 **[!UICONTROL Confirm]**&#x200B;下。
 
    ![影像2](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-2.png)
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 
 ## 重設優先順序
 
-1. 若要將促銷活動優先順序重設回系統預設值，請移至觸發促銷活動的「排程 [!UICONTROL **」標籤，然後按一下「重設**] 優先順序」 [!UICONTROL ****]。
+1. 若要將促銷活動優先順序重設回系統預設值，請移至觸發促銷 **[!UICONTROL Schedule]** 活動中的標籤，然後按一下 **[!UICONTROL Reset Priority]**。
 
    ![影像4](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-4.png)
 
-1. 按一 [!UICONTROL **下重設**] ，以確認。
+1. 按一 **[!UICONTROL Reset]** 下以確認。
 
    ![影像5](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-5.png)
 
@@ -62,21 +62,21 @@ ht-degree: 0%
 >
 >只有具有管理責任的管理員或使用者才應擁有促銷活動優先順序覆寫存取權。
 
-1. 在區域中， [!UICONTROL Admin] 按一下「使 [!UICONTROL **用者與角色」**]。
+1. 在區域 [!UICONTROL Admin] 中，按一下 **[!UICONTROL Users & Roles]**。
 
    ![影像6](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-6.png)
 
-1. 按一下「 [!UICONTROL **角色**] 」頁籤，選擇要授予訪問權限的用戶，然後按一下「編輯 [!UICONTROL **角色」**]。
+1. 按一下 **[!UICONTROL Roles]** 標籤，選取您要授與存取權的使用者，然後按一下 **[!UICONTROL Edit Role]**。
 
    ![影像7](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-7.png)
 
-1. 在「編 [!UICONTROL Access Marketing Activities]輯觸發 [!UICONTROL **器促銷活動優先順序」下**]。 按一下 [!UICONTROL **儲存**]。
+1. 在下 [!UICONTROL Access Marketing Activities]面，檢查 **[!UICONTROL Edit Trigger Campaign Priority]**。 按一 **[!UICONTROL Save]**&#x200B;下。
 
    ![影像8](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
 ## 在Marketo Classic中檢視促銷活動優先順序
 
-按一下觸發促銷活動中的「排 [!DNL Classic] 程」標籤，即可 [!UICONTROL ****] 在體驗中檢視促銷活動優先順序。
+您可以按一下觸發促銷活動中的 [!DNL Classic] 標籤，在體驗中 **[!UICONTROL Schedule]** 檢視促銷活動優先順序。
 
 ![影像9](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-9.png)
 
