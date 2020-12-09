@@ -3,9 +3,9 @@ unique-page-id: 7504437
 description: 將背景影像新增至簡報——行銷人員檔案——產品檔案
 title: 新增背景影像至簡報
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 選取背景影像以自訂簡報。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立簡報](create-a-presentation.md)
 
