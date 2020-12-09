@@ -3,9 +3,9 @@ unique-page-id: 7504520
 description: 刪除收入瀏覽器報表——行銷檔案——產品檔案中的欄位
 title: 刪除收入瀏覽器報表中的欄位
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ ht-degree: 0%
    >
    >垃圾筒會隱藏，直到您開始拖曳欄位為止。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [儲存收入總管報表](saving-a-revenue-explorer-report.md)
 
