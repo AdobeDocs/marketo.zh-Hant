@@ -3,9 +3,9 @@ unique-page-id: 2953352
 description: 直接在行銷行事歷——行銷檔案——產品檔案中編輯項目
 title: 直接在行銷日曆中編輯項目
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ ht-degree: 0%
 
 就這樣！ 如您所見，您可以直接從「行銷行事歷」進行許多工作。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [直接在行銷日曆中刪除項目](https://community.marketo.com/MarketoArticle?id=kA050000000LPDyCAO)
 
