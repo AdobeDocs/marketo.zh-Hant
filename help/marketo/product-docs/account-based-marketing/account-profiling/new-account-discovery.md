@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: 新客戶發現——行銷人員檔案——產品檔案
 title: 新帳戶發現
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 新帳戶探索可協助您使用理想客戶個人檔案中由人工智慧提供的建議，來尋找要鎖定的新帳戶。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[設定帳戶分析](http://docs.marketo.com/x/FgAKAQ)
 
