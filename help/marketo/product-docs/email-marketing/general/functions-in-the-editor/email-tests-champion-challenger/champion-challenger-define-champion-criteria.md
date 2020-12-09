@@ -3,9 +3,9 @@ unique-page-id: 2359562
 description: 冠軍／挑戰者——定義冠軍標準——行銷文檔——產品文檔
 title: 冠軍／挑戰者——定義冠軍標準
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 設定好測試類型後，您必須定義冠軍標準。 這是方法。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [新增電子郵件冠軍／挑戰者](add-an-email-champion-challenger.md)
 
