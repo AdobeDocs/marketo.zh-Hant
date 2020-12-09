@@ -3,9 +3,9 @@ unique-page-id: 2359428
 description: 重新導向著陸頁面——行銷人員至檔案——產品檔案
 title: 重新導向著陸頁面
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [設定並新增人員](get-set-up-and-add-a-person.md)
 >* [具有表單的著陸頁面](landing-page-with-a-form.md)
