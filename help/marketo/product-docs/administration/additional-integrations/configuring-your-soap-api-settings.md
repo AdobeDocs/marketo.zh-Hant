@@ -3,9 +3,9 @@ unique-page-id: 2360352
 description: 設定您的SOAP API設定——行銷檔案——產品檔案
 title: 配置SOAP API設定
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 >
 >您的SOAP端點和使用者ID將是唯一的；請勿將本文中的螢幕擷取傳送至您的「開發人員」。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[SOAP API檔案](http://developers.marketo.com/documentation/soap/)
 
