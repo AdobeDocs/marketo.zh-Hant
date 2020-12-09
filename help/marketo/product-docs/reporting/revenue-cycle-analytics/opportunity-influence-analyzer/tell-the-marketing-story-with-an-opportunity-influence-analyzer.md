@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: 使用Opportunity Inflection Analyzer - Marketo Docs —— 產品文檔講述行銷故事
 title: 使用Opportunity Inflection Analyzer講述行銷故事
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 使用Opportunity Influction Analyzer來說明行銷在重要機會中的作用。 展示行銷如何影響機會，從首次接觸到機會的創造和贏取，乃至更多。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立機會影響分析器](create-an-opportunity-influence-analyzer.md)
 
