@@ -3,9 +3,9 @@ unique-page-id: 2360350
 description: 建立自訂服務以搭配ReST API —— 行銷人員檔案——產品檔案
 title: 建立自訂服務以搭配ReST API使用
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 如果您想要透過ReST API與Marketo整合，您將想要建立自訂服務。 這是方法。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立僅限API的使用者角色](../../../product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 >* [建立僅限API的使用者](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)
