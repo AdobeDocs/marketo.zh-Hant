@@ -2,9 +2,9 @@
 title: copy-labels-from-origin-to-clone
 description: 將標籤從原始複製到克隆
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 複製資產時，您可以複製原始資產中的所有標籤。 這是方法。
 
-1. 在樹中按一下右鍵要克隆的資產，然後在下拉 [!UICONTROL **式清單中**] 「克隆」。
+1. 以滑鼠右鍵按一下要在樹狀結構中複製的資產，然後按 **[!UICONTROL Clone]** 一下下拉式清單中的。
 
    ![影像一](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-1.jpg)
 
-1. 輸入新克隆資產的資訊。 然後，在下 [!UICONTROL Labels]方按一 [!UICONTROL **下「複製原始標籤」**]。
+1. 輸入新克隆資產的資訊。 然後，在 [!UICONTROL Labels]下方按一下 **[!UICONTROL Copy Labels From Original]**。
 
    ![影像2](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-2.jpg)
 
-1. 複製的標籤會自動填入。 按一 [!UICONTROL **下「仿製**] 」以完成資產的建立。
+1. 複製的標籤會自動填入。 按一 **[!UICONTROL Clone]** 下以完成資產的建立。
 
    ![影像三](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-3.jpg)
 
