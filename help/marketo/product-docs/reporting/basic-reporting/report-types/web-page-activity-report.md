@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: 網頁活動報告——行銷檔案——產品檔案
 title: 網頁活動報表
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 您可以選擇在同一份報表上顯示已知人員或匿名人員，但不能同時顯示這兩種人。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [將Munchkin追蹤程式碼新增至您的網站](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
