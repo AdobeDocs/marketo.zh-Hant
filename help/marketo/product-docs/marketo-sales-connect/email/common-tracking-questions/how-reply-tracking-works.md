@@ -3,9 +3,9 @@ unique-page-id: 14352482
 description: 回覆追蹤的運作方式——行銷檔案——產品檔案
 title: 回覆追蹤的運作方式
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 回覆追蹤是透過查看您傳送之每封電子郵件中的訊息ID來完成。 每封電子郵件都包含一個唯一的訊息ID，可讓我們進行一些最佳的回覆追蹤。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >**與電子郵件伺服器的連接：** Sales Connect必須與您的收件箱連接，以便我們知道何時收到新的回復。 您需要將Sales Connect帳戶連 [接到Gmail](http://docs.marketo.com/x/kYMOAQ)。 如果您使用Outlook，我們需要與您的Exchange伺服器 [整合](http://toutapp.com/next#settings/exchange_settings)。
 
