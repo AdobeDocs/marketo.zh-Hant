@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: 將Munchkin追蹤程式碼新增至您的網站——行銷人員檔案——產品檔案
 title: 將Munchkin追蹤程式碼新增至您的網站
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '672'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo的自訂JavaScript追蹤代碼（稱為Munchkin）會追蹤所有造訪您網站的個人，以便您透過自動化行銷宣傳回應其造訪。 即使是匿名訪客，也會追蹤其IP位址和其他資訊。 **若沒有此追蹤代碼，您將無法追蹤您網站上的瀏覽或其他活動！**
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >請確定您有權存取經驗豐富的JavaScript開發人員。 行銷人員技術支援未設定來協助疑難排解自訂JavaScript。
 
