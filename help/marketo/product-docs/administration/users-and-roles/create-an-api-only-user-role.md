@@ -3,9 +3,9 @@ unique-page-id: 2360203
 description: 建立僅限API的使用者角色——行銷檔案——產品檔案
 title: 建立僅限API的使用者角色
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 >
 >只授與所需的最低權限，總是個好主意。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >好了，幹得漂亮！ 現在，讓我們 [建立僅限API使用者](create-an-api-only-user.md)。
 
