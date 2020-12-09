@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: 瞭解電子郵件計畫卡——行銷人員檔案——產品檔案
 title: 瞭解電子郵件計畫卡
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -112,9 +112,7 @@ ht-degree: 0%
 
 這就是檢視電子郵件宣傳的獨家新聞。 現在，你是專家！
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [瞭解行銷人員時刻](understanding-marketo-moments.md)
 >* [瞭解事件卡](understanding-event-cards.md)
