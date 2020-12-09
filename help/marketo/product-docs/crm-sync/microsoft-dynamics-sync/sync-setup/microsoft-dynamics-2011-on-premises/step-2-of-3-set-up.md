@@ -3,9 +3,9 @@ unique-page-id: 3571807
 description: 步驟2（共3步）-設定Marketo Sync User in Dynamics（2011年內部部署）- Marketo Docs —— 產品檔案
 title: 第2步（共3步）-設定Marketo在Dynamics中同步使用者（2011年內部部署）
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 完成前述步驟的出色工作，讓我們繼續進行。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [步驟1（共3步）:安裝Marketo解決方案（2011年內部部署）](step-1-of-3-install.md)
 
