@@ -3,9 +3,9 @@ unique-page-id: 11377640
 description: 授權Marketo Outlook外掛程式- Marketo Docs —— 產品檔案
 title: 授權Marketo Outlook外掛程式
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 若要在Outlook中使用Marketo MSI外掛程式，您必須授權它。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >外掛程式必須已安裝，且您必須由Marketo管理員以外掛程式使用者身分授權。
 
