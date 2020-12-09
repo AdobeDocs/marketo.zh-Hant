@@ -3,9 +3,9 @@ unique-page-id: 4720257
 description: 將Facebook自訂對象新增為LaunchPoint服務——行銷人員檔案——產品檔案
 title: 將Facebook自訂對象新增為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ ht-degree: 0%
    >
    >哦，在您前往之前，請務必在您的 [Facebook帳戶中接受Facebook的自訂對象條款](https://www.facebook.com/ads/manage/customaudiences/tos.php) ! 若不這麼做，觀眾更新將會失敗。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [在Facebook中建立自訂對象](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
