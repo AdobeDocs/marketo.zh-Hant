@@ -2,9 +2,9 @@
 title: 預測濾鏡
 description: 預測性篩選
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Marketo在「預測性對象」中，在智慧型清單中提供一組以AI/ML�
 
 這兩個篩選條件可協助您鎖定其他類似其他方案或智慧型清單成員的潛在客戶，以擴大目前的受眾。 「相似」篩選條件會考慮50多個因素，包括銷售機會屬性、電子郵件活動、網頁活動和參與。
 
-單&#x200B;[!UICONTROL **擊「添加約束**] 」(Add Constraint)為所選程式的成員選擇成功標準。
+單&#x200B;**[!UICONTROL Add Constraint]** 擊以選擇所選方案成員的成功標準。
 
 按一下程式下拉式清單旁的+圖示，輕鬆將多個程式／智慧型清單新增至一個篩選器。
 
