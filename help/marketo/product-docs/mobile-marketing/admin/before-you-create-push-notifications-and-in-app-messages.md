@@ -3,9 +3,9 @@ unique-page-id: 11376159
 description: 在您建立推播通知和應用程式內訊息之前——行銷人員檔案——產品檔案
 title: 建立推播通知和應用程式內訊息之前
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ ht-degree: 0%
 
 完成應用程式內訊息和推播通知的所有準備後，就該開始了！
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [建立應用程式內訊息](http://docs.marketo.com/display/docs/create+an+in-app+message)
    >
