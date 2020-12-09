@@ -3,9 +3,9 @@ unique-page-id: 2359557
 description: 冠軍／挑戰者——主題系列——行銷文檔——產品文檔
 title: 冠軍／挑戰者——主題系列
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 您可以輕鬆測試多個主題行。 當測試結束時，以最有效的方式傳送電子郵件。 這是如何做到的。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [新增電子郵件冠軍／挑戰者](add-an-email-champion-challenger.md)
 
