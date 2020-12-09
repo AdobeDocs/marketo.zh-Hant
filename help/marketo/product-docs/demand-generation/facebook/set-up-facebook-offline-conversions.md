@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: 設定Facebook離線轉換——行銷人員檔案——產品檔案
 title: 設定Facebook離線轉換
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 透過將線下轉換資料傳回Facebook，讓透過「銷售線索廣告」建立的人員也能使用，您的廣告團隊可以比以往更好地最佳化其廣告支出。 這是如何設定的。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* 您必須 [設定Facebook銷售線索廣告](set-up-facebook-lead-ads.md)。
 >* 您必須在「收入週期建模器」中擁 [有已批准的模型](http://docs.marketo.com/display/docs/revenue+cycle+models)。
