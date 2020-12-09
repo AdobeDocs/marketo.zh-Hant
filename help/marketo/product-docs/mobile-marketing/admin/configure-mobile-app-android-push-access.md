@@ -3,9 +3,9 @@ unique-page-id: 7512432
 description: 設定行動應用程式Android推播存取——行銷檔案——產品檔案
 title: 設定行動應用程式Android推播存取
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
    真貼心。 請確定您已使用iOS設定應用程式。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [設定行動應用程式iOS推播存取](configure-mobile-app-ios-push-access.md)
 
