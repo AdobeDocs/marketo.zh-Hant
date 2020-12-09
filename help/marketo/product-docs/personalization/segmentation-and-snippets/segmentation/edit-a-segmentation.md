@@ -3,9 +3,9 @@ unique-page-id: 2359474
 description: 編輯區段——行銷檔案——產品檔案
 title: 編輯區段
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,7 @@ ht-degree: 0%
 
 您可以自由嘗試動態內容中未使用的分段。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [刪除區段](delete-a-segmentation.md)
 
