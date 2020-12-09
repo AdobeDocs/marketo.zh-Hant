@@ -2,9 +2,9 @@
 title: 開啟與關閉參與計畫
 description: 開啟和關閉參與計畫
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-1.png)
 
-1. 按一下「 [!UICONTROL **設定**] 」標籤。
+1. 按一下標 **[!UICONTROL Setup]** 簽。
 
    ![影像2](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >除非您超過訂閱限制，否則預設會啟用參與計畫。
 
-1. 右邊有 [!UICONTROL Program] 個按鈕。 選 [!UICONTROL **擇開**] 或 [!UICONTROL **關**]。
+1. 右邊有 [!UICONTROL Program] 個按鈕。 選擇 **[!UICONTROL On]** 或 **[!UICONTROL Off]**。
 
    ![影像三](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-3.png)
 
