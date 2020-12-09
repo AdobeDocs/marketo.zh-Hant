@@ -3,9 +3,9 @@ unique-page-id: 1147154
 description: 將SFDC促銷活動與計畫同步——行銷人員文檔——產品文檔
 title: 將SFDC促銷活動與計畫同步
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo可讓您將程式與Salesforce促銷活動同步，以維護兩個系統中的相同人員清單，包括其狀態。 開始吧！
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >您必須先啟 [用Salesforce促銷活動同步](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) 。
 
