@@ -3,9 +3,9 @@ unique-page-id: 11385940
 description: 編輯豐富式媒體的預測式內容——行銷檔案——產品檔案
 title: 編輯豐富式媒體的預測式內容
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 以下說明如何為Rich Media設定預測性內容。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >內容必須在「 [所有內容」頁面上](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) ，針對預測性內容進行核准。
 
