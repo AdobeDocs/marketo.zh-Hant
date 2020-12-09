@@ -2,9 +2,9 @@
 title: export-smart-campaign-results-to-excel
 description: 將智慧型促銷活動結果匯出至Excel
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 將智慧型促銷活動結果匯出至Excel，以便在外部使用 [!DNL Marketo]。
 
-1. 在智慧型 [!UICONTROL Overview] 促銷活動的標籤中，按一下「報 [!UICONTROL **表**] 」標籤。
+1. 在智慧型 [!UICONTROL Overview] 促銷活動的標籤中，按一下標 **[!UICONTROL Reports]** 簽。
 
    ![影像一](/help/sky/assets/smart-campaigns/export-smart-campaign-results-to-excel/export-smart-campaign-results-to-excel-1.png)
 
