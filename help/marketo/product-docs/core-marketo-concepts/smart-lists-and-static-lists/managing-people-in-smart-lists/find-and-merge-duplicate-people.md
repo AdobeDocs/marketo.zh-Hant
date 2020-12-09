@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: 尋找並合併重複人員——行銷人員檔案——產品檔案
 title: 查找並合併重複人員
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Marketo會在新人進入系統時自動消除重複資料。 不過，您的CRM
 >
 >當您手動輸入人員時，Marketo不會針對Salesforce或Microsoft Dynamics同步自動消除重複資料。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >查找和合併復本將涉及使 [用內置／系統智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)。
 
