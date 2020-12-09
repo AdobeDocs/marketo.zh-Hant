@@ -3,9 +3,9 @@ unique-page-id: 10095636
 description: 為程式碼片段啟用非草稿——行銷檔案——產品檔案
 title: 為片段啟用非草稿
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ ht-degree: 0%
 >
 >要禁用「非草稿」，請遵循上述步驟1-4，清除「非草稿」複選框，然後按一下「保 **存**」。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[核准包含非草稿的程式碼片段](../../../../product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
 
