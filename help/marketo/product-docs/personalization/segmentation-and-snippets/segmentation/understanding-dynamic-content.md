@@ -3,9 +3,9 @@ unique-page-id: 2953417
 description: 瞭解動態內容——行銷檔案——產品檔案
 title: 瞭解動態內容
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ ht-degree: 0%
 
 試試看，告訴我們您的成功故事！
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [建立區段](create-a-segmentation.md)
 >* [建立程式碼片段](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
