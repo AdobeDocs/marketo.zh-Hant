@@ -3,9 +3,9 @@ unique-page-id: 2949168
 description: 使用範本建立Web促銷活動——行銷檔案——產品檔案
 title: 使用範本建立Web促銷活動
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,7 @@ ht-degree: 0%
 
 幹得漂亮！ 您看到使用範本可節省多少時間嗎？
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [將促銷活動儲存為範本](save-your-campaign-as-a-template.md)
 
