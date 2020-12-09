@@ -3,9 +3,9 @@ unique-page-id: 2359540
 description: 將日曆事件ICS檔案加入登陸頁面——行銷人員檔案——產品檔案
 title: 在登陸頁面中包含日曆事件ICS檔案
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 日曆 **檔案Token** 可讓您新增日曆事件(.ics)連結至您的Marketo登陸頁面。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立日曆事件(.ics)檔案](../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
