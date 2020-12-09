@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: 前瞻分析資料板功能概觀——行銷人員檔案——產品檔案
 title: 前瞻分析資料板功能概觀
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '1466'
+source-wordcount: '1465'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 進一步瞭解Sales Insights儀表板中的可用功能。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >您必須擁有最新的MSI SFDC套件和 [設定](http://docs.marketo.com/x/F4GMAg)。
 
