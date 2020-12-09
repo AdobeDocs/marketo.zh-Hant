@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: 第2步（共3步）-在Dynamics中設定Marketo Sync User - Marketo Docs —— 產品檔案
 title: 步驟2（共3步）-在Dynamics中設定Marketo同步使用者
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 讓我們先建立使用者帳戶。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[步驟1（共3步）:安裝Marketo解決方案（線上）](step-1-of-3-install.md)
 
@@ -43,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 隨即開啟新的標籤。 按一 **下頁面** 最上方的「管理員」。
+1. 隨即開啟新的標籤。 按一 **下頁面頂** 端的「管理員」。
 
    ![](assets/six.png)
 
