@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: 傳送範例電子郵件——行銷人員檔案——產品檔案
 title: 傳送範例電子郵件
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ht-degree: 0%
 
 ## 根據區段傳送範例電子郵件 {#send-a-sample-email-based-on-a-segment}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[將區段套用至您的電子郵件](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email)。
 
