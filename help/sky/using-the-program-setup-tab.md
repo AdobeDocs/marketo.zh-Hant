@@ -2,9 +2,9 @@
 title: using-the-program-setup-tab
 description: 使用「程式設定」頁籤
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,11 @@ ht-degree: 0%
 
 ## 新增標籤
 
-1. 在區 [!UICONTROL Tags] 段下，按一下「屬 [!UICONTROL **性**] 」下拉式清單，並從可用選項中選擇標籤屬性。
+1. 在區 [!UICONTROL Tags] 段下，按一下下 **[!UICONTROL Attribute]** 拉式清單並從可用選項中選擇標籤屬性。
 
    ![影像三](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. 按一下 [!UICONTROL **「值**] 」下拉式清單，並從可用選項中選擇標籤值。 按一 [!UICONTROL **下新增**]。
+1. 按一 **[!UICONTROL Value]** 下下拉式清單，然後從可用選項中選擇標籤值。 按一 **[!UICONTROL Add]**&#x200B;下。
 
    ![影像4](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ## 添加期間成本
 
-1. 在該部 [!UICONTROL Period Costs] 分下，選擇月份，輸入成本，並添加簡短名稱或說明。 按一 [!UICONTROL **下新增**]。
+1. 在該部 [!UICONTROL Period Costs] 分下，選擇月份，輸入成本，並添加簡短名稱或說明。 按一 **[!UICONTROL Add]**&#x200B;下。
 
    ![影像6](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
