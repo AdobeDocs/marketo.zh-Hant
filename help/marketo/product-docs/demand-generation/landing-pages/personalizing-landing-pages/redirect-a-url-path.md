@@ -3,9 +3,9 @@ unique-page-id: 2359826
 description: 重新導向URL路徑——行銷人員至檔案——產品檔案
 title: 重新導向URL路徑
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Marketo可讓您輕鬆將URL路徑重新導向至您選擇的任何頁面。 這
 
 恭喜！  您已成功重新導向URL路徑。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [將行銷人員重新導向至著陸頁面至其他頁面](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
 
