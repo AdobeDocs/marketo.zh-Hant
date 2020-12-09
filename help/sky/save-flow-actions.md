@@ -2,9 +2,9 @@
 title: save-flow-actions
 description: 儲存流量動作
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
-1. 在設定好智慧型清單後，按一下「 [!UICONTROL **流量」**]。
+1. 設定好智慧型清單後，按一下 **[!UICONTROL Flow]**。
 
    ![影像2](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-2.png)
 
@@ -32,11 +32,11 @@ ht-degree: 0%
 
    ![影像4](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. 新增篩選器／觸發器後，按一下「智慧型促銷活 [!UICONTROL **動動作**] 」下拉式清單，然後選 [!UICONTROL **取「儲存新流量」**]。
+1. 新增篩選器／觸發器後，按一下下 **[!UICONTROL Smart Campaign Actions]** 拉式清單並選取 **[!UICONTROL Save New Flow]**。
 
    ![影像5](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
-1. 命名流程，然後按一下「 [!UICONTROL **儲存**]」。
+1. 命名流程，然後按一下 **[!UICONTROL Save]**。
 
    ![影像6](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-6.png)
 
@@ -48,11 +48,11 @@ ht-degree: 0%
 
    ![影像7](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
-1. 按一 [!UICONTROL **下流**]。
+1. 按一 **[!UICONTROL Flow]**&#x200B;下。
 
    ![影像8](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
-1. 按一下「 [!UICONTROL **儲存的流**] 」下拉式清單。
+1. 按一下 **[!UICONTROL Saved Flows]** 下拉式清單。
 
    ![影像9](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
 
