@@ -3,9 +3,9 @@ unique-page-id: 2949186
 description: SEO —— 使用頁面詳細資料下鑽——行銷人員檔案——產品檔案
 title: SEO —— 使用頁面詳細資料下鑽
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ ht-degree: 0%
 
 很貼心，對吧？ 進一步瞭解此處的頁面。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用目標關鍵字最佳化特定頁面](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
 
