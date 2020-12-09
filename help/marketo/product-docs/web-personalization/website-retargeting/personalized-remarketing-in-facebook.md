@@ -3,9 +3,9 @@ unique-page-id: 4720917
 description: Facebook的個人化再行銷——行銷檔案——產品檔案
 title: Facebook中的個人化再行銷
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 個人化再行銷可讓您使用RTP資料和Facebook再行銷的強大功能，與使用者重新互動。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* 使用網頁個 [人化資料設定完成重新定位](retargeting-with-web-personalization-data.md)
 >* 檢視自訂 [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) 受眾和再行銷的 [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook檔案
