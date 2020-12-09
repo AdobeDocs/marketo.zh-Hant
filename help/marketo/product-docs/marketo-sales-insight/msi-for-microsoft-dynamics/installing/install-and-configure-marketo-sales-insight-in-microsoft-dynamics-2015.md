@@ -3,9 +3,9 @@ unique-page-id: 7513865
 description: 在Microsoft Dynamics 2015中安裝及設定Marketo Sales Insight —— 行銷人員檔案——產品檔案
 title: 在Microsoft Dynamics 2015中安裝及設定Marketo Sales Insight
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo Sales Insight是一套絕佳的工具，可讓您的銷售團隊透過「視窗」瞭解行銷團隊所擁有的豐富資料。 以下是如何在Microsoft Dynamics 201中安裝和設定它
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >完成您 [的Marketo-Microsoft整合](http://docs.marketo.com/x/ZwBd)。
 >
