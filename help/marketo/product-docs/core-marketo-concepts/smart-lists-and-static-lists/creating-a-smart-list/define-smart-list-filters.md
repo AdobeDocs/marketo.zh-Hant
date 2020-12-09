@@ -3,9 +3,9 @@ unique-page-id: 557316
 description: 定義智慧型清單篩選器——行銷人員檔案——產品檔案
 title: 定義智慧清單篩選器
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 定義智慧清單篩選器 {#define-smart-list-filters}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立智慧清單](create-a-smart-list.md)
 >* [查找篩選器並添加到智慧清單](find-and-add-filters-to-a-smart-list.md)
