@@ -3,9 +3,9 @@ unique-page-id: 2359785
 description: 傳送反向連結選件履約電子郵件——行銷人員檔案——產品檔案
 title: 傳送反向連結選件履約電子郵件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 使用優惠履約電子郵件，以優惠券和折扣碼獎勵您的客戶。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [在社交促銷中使用電子郵件](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
 >* [建立反向連結選件](create-a-referral-offer.md)
@@ -67,7 +65,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. 按一下「依**篩選」選項，並選取「目 **標」**。
+1. 按一下「依**篩選」選項，然後選取「目 **標」**。
 
    >[!NOTE]
    >
