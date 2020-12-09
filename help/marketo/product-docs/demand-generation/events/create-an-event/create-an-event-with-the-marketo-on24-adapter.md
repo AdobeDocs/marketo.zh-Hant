@@ -3,9 +3,9 @@ unique-page-id: 10096656
 description: 使用Marketo ON24 Adapter - Marketo Docs —— 產品檔案建立事件
 title: 使用Marketo ON24適配器建立事件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ ht-degree: 0%
 1. [瞭解網路研討會計畫狀態](create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 1. [ON24活動註冊更新](create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [瞭解Marketo ON24適配器事件](create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
 
