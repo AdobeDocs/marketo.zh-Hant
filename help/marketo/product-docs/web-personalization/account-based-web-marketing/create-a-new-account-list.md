@@ -3,9 +3,9 @@ unique-page-id: 4720232
 description: 建立新帳戶清單——行銷人員檔案——產品檔案
 title: 建立新帳戶清單
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -91,9 +91,7 @@ CSV檔案將取代現有檔案。 在新檔案的處理完成之前，現有清�
 
    ![](assets/delete-notification-hand.jpg)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用帳戶清單建立區段](create-a-segment-using-an-account-list.md)
 >* [檢視指名帳戶清單](http://docs.marketo.com/pages/viewpage.action?pageid=4720244)
