@@ -3,9 +3,9 @@ unique-page-id: 1146995
 description: 在流程步驟中使用代號——行銷檔案——產品檔案
 title: 在流程步驟中使用代號
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 在流程步驟中使用代號 {#use-tokens-in-flow-steps}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [新增流量步驟至智慧型促銷活動](add-a-flow-step-to-a-smart-campaign.md)
 
