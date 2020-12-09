@@ -3,9 +3,9 @@ unique-page-id: 2949966
 description: 將國家／地區挑選清單新增至表單——行銷人員檔案——產品檔案
 title: 新增國家／地區選取清單至表單
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ ht-degree: 0%
 
 既然這太簡單了，何不多做點事呢？ 當使用者在清單中選擇美國作為國家時，如何動態顯示「州」欄位？ 請參閱下列相關文章，瞭解如何進行。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [動態切換表單欄位的可見性](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
 
