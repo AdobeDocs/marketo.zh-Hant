@@ -3,9 +3,9 @@ unique-page-id: 2949720
 description: 有趣的時刻概觀——行銷人員檔案——產品檔案
 title: 有趣的時刻總覽
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ ht-degree: 0%
 
 您也可以在有趣的時刻使用Token，以建立真正有用的動態描述。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用有趣的瞬間](using-interesting-moments.md)
 >* [有趣時刻的Token](tokens-for-interesting-moments.md)
