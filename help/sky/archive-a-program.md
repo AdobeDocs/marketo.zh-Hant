@@ -2,9 +2,9 @@
 title: archive-a-program
 description: 封存方案
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 要存檔程式，您需要將其移動到單獨的存檔資料夾。
 
-1. 以滑鼠右鍵按一下Worksplace全球並選取「新增促銷活動資料夾」，建立 [!UICONTROL **新的促銷活動資料夾**]。
+1. 以滑鼠右鍵按一下Worksplace Globe並選取，以建立新的促銷活動資料夾 **[!UICONTROL New Campaign Folder]**。
 
    ![影像一](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
-1. 輸入新資料夾的名稱，然後新增選用說明。 按一下 [!UICONTROL **建立**]。
+1. 輸入新資料夾的名稱，然後新增選用說明。 按一 **[!UICONTROL Create]**&#x200B;下。
 
    ![影像2](/help/sky/assets/programs/archive-a-program/archive-a-program-2.png)
 
-1. 要存檔程式，請先將程式添加到新建立的資料夾，方法是在樹中按一下右鍵該程式，然後選擇「移 [!UICONTROL **動」**]。
+1. 若要封存程式，請先在樹狀結構中按一下滑鼠右鍵並選取，將程式新增至新建立的檔案夾 **[!UICONTROL Move]**。
 
    ![影像三](/help/sky/assets/programs/archive-a-program/archive-a-program-3.png)
 
-1. 輸入以搜尋新資料夾，然後從下拉式清單中選取它。 按一下 [!UICONTROL **移動**]。
+1. 輸入以搜尋新資料夾，然後從下拉式清單中選取它。 按一 **[!UICONTROL Move]**&#x200B;下。
 
    ![影像4](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
-1. 按一下右鍵資料夾，然後選擇「轉 [!UICONTROL **換到存檔資料夾」**]。
+1. 按一下右鍵資料夾並選擇 **[!UICONTROL Convert To Archive Folder]**。
 
    ![影像5](/help/sky/assets/programs/archive-a-program/archive-a-program-5.png)
 
