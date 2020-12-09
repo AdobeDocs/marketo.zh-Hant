@@ -3,9 +3,9 @@ unique-page-id: 2359502
 description: 使用「完整電子郵件」A/B測試——行銷人員檔案——產品檔案
 title: 使用「完整電子郵件」A/B測試
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 您可以輕鬆地A/B測試您的電子郵件。 一項絕佳的測試是「整 **個電子郵件** 」測試。 這是如何設定的。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [新增A/B測試](add-an-a-b-test.md)
 
