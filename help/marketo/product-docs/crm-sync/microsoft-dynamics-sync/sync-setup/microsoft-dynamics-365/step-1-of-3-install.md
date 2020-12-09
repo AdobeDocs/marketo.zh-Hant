@@ -3,9 +3,9 @@ unique-page-id: 3571822
 description: 第1步（共3步）-安裝Marketo解決方案（線上）- Marketo Docs —— 產品檔案
 title: 第1步（共3步）-安裝Marketo解決方案（線上）
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,7 @@ ht-degree: 0%
 >
 >將Market與CRM同步後，若不取代例項，就無法執行新同步。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[下載Marketo Lead管理解決方案](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
