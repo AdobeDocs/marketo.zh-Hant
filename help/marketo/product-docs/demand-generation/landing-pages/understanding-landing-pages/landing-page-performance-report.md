@@ -3,9 +3,9 @@ unique-page-id: 2359713
 description: 著陸頁面效能報告——行銷檔案——產品檔案
 title: 著陸頁面效能報告
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ ht-degree: 0%
 >
 >在「基本報告」深入探討中瞭解其 [他有趣的報](http://docs.marketo.com/display/docs/basic+reporting) 告。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [依本機或全域資產篩選著陸頁面效能報表](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) 。
 
