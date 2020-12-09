@@ -3,9 +3,9 @@ unique-page-id: 2950547
 description: 設定社交應用程式的人員擷取——行銷人員檔案——產品檔案
 title: 設定社交應用程式的人員擷取
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -54,9 +54,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-11-3a2-3a56.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >現在，您可 [以設定社交註冊流程](configure-social-sign-up-share-flow.md) ，並編輯將張貼至每個社交網路的分享訊息。
 
