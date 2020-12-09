@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: 比較渠道有效性與計劃分析器——行銷人員文檔——產品文檔
 title: 比較渠道有效性與計劃分析器
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 使用Program Analyzer比較渠道成本、成員獲取、渠道、收入等，以識別最有效、最不有效的渠道。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立程式分析器](create-a-program-analyzer.md)
 
