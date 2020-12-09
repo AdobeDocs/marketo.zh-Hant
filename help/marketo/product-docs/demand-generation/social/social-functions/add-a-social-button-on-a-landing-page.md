@@ -3,9 +3,9 @@ unique-page-id: 2359757
 description: 在著陸頁面上新增社交按鈕——行銷人員檔案——產品檔案
 title: 在著陸頁面上新增社交按鈕
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,6 @@ ht-degree: 0%
 >
 >若要節省時間，您可以使用「仿製自 **」選項** ，從現有的社交按鈕複製所有設定。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >您已經完成，但您可以視需要變更社交按鈕的設定。 從自訂 [按鈕樣式開始](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) , [並編輯它所呈現的共用訊息](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) 。
