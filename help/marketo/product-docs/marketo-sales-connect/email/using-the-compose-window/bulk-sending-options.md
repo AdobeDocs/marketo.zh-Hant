@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: 大量傳送選項——行銷人員檔案——產品檔案
 title: 大量傳送選項
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ ht-degree: 0%
 
 依預設，您將編輯所有收件者。 但您也可以選取每封個別的電子郵件，以便進行自訂編輯。 這對您想要採用更個人化方式的收件者而言，可以很好地新增一或多個獨特的自訂系列。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用選擇和傳送撰寫大量電子郵件](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
 >* [透過群組電子郵件傳送電子郵件](http://docs.marketo.com/x/KAQ6Ag)
