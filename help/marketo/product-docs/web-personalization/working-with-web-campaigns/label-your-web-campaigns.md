@@ -3,9 +3,9 @@ unique-page-id: 2949154
 description: 標示您的網頁促銷活動——行銷檔案——產品檔案
 title: 為您的Web促銷活動加上標籤
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ ht-degree: 0%
 
    ![](assets/web-campaigns-label-showing.jpg)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [標](create-a-new-in-zone-web-campaign.md)[記區段](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
