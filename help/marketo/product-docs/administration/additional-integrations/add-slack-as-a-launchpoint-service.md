@@ -3,9 +3,9 @@ unique-page-id: 12983619
 description: 將Slack新增為LaunchPoint服務——行銷檔案——產品檔案
 title: 將Slack添加為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ Slack整合包含兩種通知類型：
 >
 >**需要管理員權限**
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >如果您尚未啟用Slack System Notifications，請與支援 [聯絡](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270)。
 
