@@ -3,9 +3,9 @@ unique-page-id: 4719297
 description: 啟用／停用自訂物件同步——行銷人員檔案——產品檔案
 title: 啟用／停用自訂物件同步
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ ht-degree: 0%
 
    太棒了！ 您現在可以在智慧型促銷活動和智慧型清單中使用此自訂物件的資料。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [將自定義對象欄位添加／刪除為智慧清單／觸發器約束](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
 
