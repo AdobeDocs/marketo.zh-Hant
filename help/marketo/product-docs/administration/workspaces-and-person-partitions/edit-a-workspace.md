@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: 編輯工作區——行銷人員檔案——產品檔案
 title: 編輯工作區
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ht-degree: 0%
    >
    >您無法變更工作區語言。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [建立新工作區](create-a-new-workspace.md)
 >* [瞭解工作區和人員分區](understanding-workspaces-and-person-partitions.md)
