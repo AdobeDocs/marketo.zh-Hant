@@ -3,9 +3,9 @@ unique-page-id: 42762825
 description: 在Salesforce Lightning中使用大量動作——行銷檔案——產品檔案
 title: 在Salesforce Lightning中使用大量動作
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 瞭解如何執行大量動作，例如新增銷售機會至促銷活動、傳送大量電子郵件或將銷售機會從Salesforce推送至Sales Connect。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >更新至最新版的Sales Connect套件，並在銷售機會／聯絡人檢視中安裝大量動作按鈕。 [按一下這裡以取得指示](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)。
 
