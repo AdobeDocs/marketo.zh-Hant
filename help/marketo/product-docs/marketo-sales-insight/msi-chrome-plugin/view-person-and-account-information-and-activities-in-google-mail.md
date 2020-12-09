@@ -3,9 +3,9 @@ unique-page-id: 10095358
 description: 在Google Mail中檢視人員和帳戶資訊與活動——行銷人員檔案——產品檔案
 title: 在Google Mail中查看人員和帳戶資訊和活動
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 
 ![](assets/image2015-10-6-15-3a32-3a52.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[使用Google Chrome的Marketo Insights](using-marketo-insights-for-google-chrome.md)
 
