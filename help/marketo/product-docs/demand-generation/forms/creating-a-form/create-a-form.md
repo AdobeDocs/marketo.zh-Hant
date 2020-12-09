@@ -3,9 +3,9 @@ unique-page-id: 2359398
 description: 建立表單——行銷檔案——產品檔案
 title: 建立表單
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
 
 真貼心！ 既然表單已建立，我們就把它整理好。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [選擇表單主題](select-a-form-theme.md)
 >* [新增欄位集至表單](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
