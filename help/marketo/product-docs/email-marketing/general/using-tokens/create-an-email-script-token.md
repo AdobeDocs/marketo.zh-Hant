@@ -3,9 +3,9 @@ unique-page-id: 1900577
 description: 建立電子郵件指令碼Token —— 行銷檔案——產品檔案
 title: 建立電子郵件指令碼Token
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ ht-degree: 0%
 
 現在，您可以在電子郵件中使用此Token。 每次傳送電子郵件時，都會執行指令碼。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [將電子郵件指令碼Token新增至您的電子郵件](add-an-email-script-token-to-your-email.md)
 
