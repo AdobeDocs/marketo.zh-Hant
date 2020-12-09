@@ -3,9 +3,9 @@ unique-page-id: 2359815
 description: 使用個人化URL匯出清單——行銷人員檔案——產品檔案
 title: 使用個人化URL匯出清單
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 使用個人化URL匯出清單 {#export-a-list-with-personalized-urls}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [為您的帳戶啟用個人化URL](enable-personalized-urls-for-your-account.md)
 >* [啟用著陸頁面的個人化URL](enable-personalized-urls-for-a-landing-page.md)
