@@ -3,9 +3,9 @@ unique-page-id: 11370892
 description: 測試Facebook銷售線索廣告以便與Marketo整合- Marketo Docs —— 產品檔案
 title: 測試Facebook銷售線索廣告，以便與Marketo整合案頭
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 在您建立Lead Ad後，您應加以測試！ 以下是如何在桌上型電腦上完成。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >您必須 [設定Facebook銷售機會廣告整合](set-up-facebook-lead-ads.md)。
 
