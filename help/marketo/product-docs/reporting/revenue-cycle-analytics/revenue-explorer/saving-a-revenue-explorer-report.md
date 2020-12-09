@@ -3,9 +3,9 @@ unique-page-id: 7504725
 description: 儲存收入總管報表——行銷檔案——產品檔案
 title: 儲存收入總管報表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-27-11-3a32-3a51.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [訂閱收入總管報表](subscribe-to-a-revenue-explorer-report.md)
 
