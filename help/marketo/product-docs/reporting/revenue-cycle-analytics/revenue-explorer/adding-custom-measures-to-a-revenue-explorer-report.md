@@ -3,9 +3,9 @@ unique-page-id: 10097747
 description: 新增自訂度量至收入總管報表——行銷檔案——產品檔案
 title: 新增自訂度量至收入總管報表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 在下列範例中，您正在建立可變彈回數的計算度量，它會使用報表中已有的度量，並使用基本數學來建立新度量。 您也可以建立其他類型的測量。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >您的報表中至少需要一個量度，但它不一定是您用來定義自訂量度的量度之一。
 
