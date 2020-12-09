@@ -3,9 +3,9 @@ unique-page-id: 9437903
 description: 建立自訂動態同步篩選——行銷檔案——產品檔案
 title: 建立自訂動態同步篩選
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Marketo會在自動背景同步期間尋找此欄位，並根據此邏輯判斷�
 >
 >告訴Market要略過記錄的唯一方法，就是將欄位值明確設為 **否**。 即使欄位值空白，Marketo仍會同步記錄。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >安裝最新版的Marketo外掛程式（3.0.0.1或更新版本）。 前往「行銷人員>管理員> Microsoft Dynamics >下載行銷人員解決方案」。
 
