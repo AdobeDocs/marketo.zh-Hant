@@ -3,9 +3,9 @@ unique-page-id: 2949891
 description: 瞭解靜態清單——行銷檔案——產品檔案
 title: 瞭解靜態清單
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -52,9 +52,7 @@ ht-degree: 0%
 
 享受LIST的強大功能！
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[建立靜態清單](https://docs.marketo.com/x/ecKt)
 
