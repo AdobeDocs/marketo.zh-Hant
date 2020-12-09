@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: 新增電子郵件冠軍／挑戰者——行銷人員檔案——產品檔案
 title: 新增電子郵件冠軍／挑戰者
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 您正在測試的現有電子郵件被視為冠軍。 您在測試中建立的任何變體都被視為挑戰者。 您會決定接收冠軍內容或挑戰者內容的人數百分比。 如果您已經定義了多個挑戰者，他們將平等地分配給挑戰者團體。\
 以下是如何開始使用。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立方案](../../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [建立電子郵件](../../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
