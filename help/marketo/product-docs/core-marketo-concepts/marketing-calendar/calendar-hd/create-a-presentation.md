@@ -3,9 +3,9 @@ unique-page-id: 7503971
 description: 建立簡報——行銷人員檔案——產品檔案
 title: 建立簡報
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
    幹得好！ 現在，您已準備好自訂簡報。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [自訂簡報](customize-a-presentation.md)
 
