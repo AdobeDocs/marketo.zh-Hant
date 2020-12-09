@@ -3,9 +3,9 @@ unique-page-id: 2359761
 description: 新增影片——行銷人員檔案——產品檔案
 title: 新增影片
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ ht-degree: 0%
 
 恭喜！ 您已新增影片分享至您的登陸頁面。 核准登陸頁面，您的影片分享即時進行。 您也可以 [將登陸頁面發佈至Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) , [或將影片分享放在您的網站上](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >您已完成，但視需要可以變更影片分享的設定。 從自 [訂共用流程開始](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) （共用提示開啟的時間和位置）。
 
