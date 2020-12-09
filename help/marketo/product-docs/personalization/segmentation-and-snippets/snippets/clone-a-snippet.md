@@ -3,9 +3,9 @@ unique-page-id: 2359514
 description: 仿製程式碼片段——行銷人員檔案——產品檔案
 title: 復製程式碼片段
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ ht-degree: 0%
 
 太棒了！ 現在您可以修改複製的程式碼片段以符合您的需求。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用動態內容編輯片段](edit-snippets-with-dynamic-content.md)
 
