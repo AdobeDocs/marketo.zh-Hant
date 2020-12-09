@@ -3,9 +3,9 @@ unique-page-id: 2359537
 description: 將程式碼片段新增至著陸頁面——行銷人員檔案——產品檔案
 title: 新增程式碼片段至著陸頁面
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 程式碼片段是HTML的一小部分，可遵循規則並保留個人化內容。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立程式碼片段](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
