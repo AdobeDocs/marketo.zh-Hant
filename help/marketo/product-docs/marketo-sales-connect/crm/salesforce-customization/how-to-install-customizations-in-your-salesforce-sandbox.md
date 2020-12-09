@@ -3,9 +3,9 @@ unique-page-id: 15368208
 description: 如何在您的Salesforce沙盒——行銷人員檔案——產品檔案中安裝自訂
 title: 如何在Salesforce沙盒中安裝自訂
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[將Sales Connect連線至您的Salesforce沙盒](http://docs.marketo.com/x/DYDq)
 
