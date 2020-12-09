@@ -3,9 +3,9 @@ unique-page-id: 2359488
 description: 依區段分類的群組電子郵件報表——行銷檔案——產品檔案
 title: 依區段分組電子郵件報表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 分段不僅適用於動態內容。 您也可以依區 [段來分組您](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)[的電子郵件](http://docs.marketo.com/display/docs/segmentation+and+snippets)績效報表。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [核准區段](approve-a-segmentation.md)
 
