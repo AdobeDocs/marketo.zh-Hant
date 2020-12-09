@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: 使用人員詳細資料頁面——行銷人員檔案——產品檔案
 title: 使用人員詳細資訊頁
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -115,9 +115,7 @@ ht-degree: 0%
 >
 進一步瞭解「系 [統管理」欄位](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [為「人員詳細資訊」頁建立自定義標籤](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
 
