@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: 新增行動應用程式——行銷人員檔案——產品檔案
 title: 新增行動應用程式
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
 
    不錯！ 現在，讓我們設定您的應用程式，以便搭配Android和iOS裝置運作。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [設定行動應用程式Android推播存取](configure-mobile-app-android-push-access.md)
 >* [設定行動應用程式iOS推播存取](configure-mobile-app-ios-push-access.md)
