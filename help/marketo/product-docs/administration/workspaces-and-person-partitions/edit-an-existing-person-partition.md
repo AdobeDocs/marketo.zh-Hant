@@ -3,9 +3,9 @@ unique-page-id: 2360323
 description: 編輯現有人員分區——行銷檔案——產品檔案
 title: 編輯現有人員分區
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立人員分區](create-a-person-partition.md)
 
