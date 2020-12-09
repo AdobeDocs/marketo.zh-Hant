@@ -3,9 +3,9 @@ unique-page-id: 1900597
 description: 匯入清單——行銷人員檔案——產品檔案以定義觀眾
 title: 匯入清單以定義對象
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 匯入清單以定義對象 {#define-an-audience-by-importing-a-list}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[建立電子郵件方案的電子郵件](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
