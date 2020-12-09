@@ -3,9 +3,9 @@ unique-page-id: 2359803
 description: 啟用著陸頁面的個人化URL —— 行銷檔案——產品檔案
 title: 啟用著陸頁面的個人化URL
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 個人化URL非常適合印刷郵件宣傳。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [為您的帳戶啟用個人化URL](enable-personalized-urls-for-your-account.md)
 
