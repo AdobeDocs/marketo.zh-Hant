@@ -2,9 +2,9 @@
 title: 設定——事件——目標
 description: 如何設定事件目標
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![影像2](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. 輸入和的目標， [!UICONTROL Registered] 然後 [!UICONTROL Attended]按一下「 [!UICONTROL **建立**] 」([!UICONTROL Description][!UICONTROL Labels] 且為選用)。
+1. 輸入和的目標 [!UICONTROL Registered] ，然 [!UICONTROL Attended]後按一下 **[!UICONTROL Create]** ([!UICONTROL Description] 且 [!UICONTROL Labels] 是可選)。
 
    ![影像一](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 
