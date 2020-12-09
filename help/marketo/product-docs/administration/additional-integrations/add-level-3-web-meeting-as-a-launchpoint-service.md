@@ -3,9 +3,9 @@ unique-page-id: 7512292
 description: 將第3級Web會議新增為LaunchPoint服務——行銷人員檔案——產品檔案
 title: 將第3級Web會議新增為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Market來管理您的Level 3 Web會議註冊和出席情況。
 
    ![](assets/level-3-web-meeting.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >瞭解如何 [建立具備Level 3 Web會議的活動](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)。
 
