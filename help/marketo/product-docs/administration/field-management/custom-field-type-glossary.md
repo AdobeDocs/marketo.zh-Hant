@@ -3,9 +3,9 @@ unique-page-id: 2951259
 description: 自訂欄位類型辭彙表——行銷檔案——產品檔案
 title: 自訂欄位類型辭彙表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 當您在Market中建立自訂欄位時，您會有可供選擇的類型清單。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [在Marketo中建立自訂欄位](create-a-custom-field-in-marketo.md)
 
