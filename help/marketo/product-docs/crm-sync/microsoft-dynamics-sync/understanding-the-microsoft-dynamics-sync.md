@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: 瞭解Microsoft Dynamics Sync —— 行銷檔案——產品檔案
 title: 瞭解Microsoft Dynamics Sync
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Dynamics同步有許多細微差別和功能。 查看「 [Microsoft Dynamics Sy
 >
 >我們目前不支援Marketo Dynamics Sync的沙盒重新整理。 如果您需要重新整理Dynamics CRM沙盒，將需要新的Marketo沙盒。 如需詳細資訊，請連絡您的客戶成功經理。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [同步設定](http://docs.marketo.com/display/docs/sync+setup)
    >
