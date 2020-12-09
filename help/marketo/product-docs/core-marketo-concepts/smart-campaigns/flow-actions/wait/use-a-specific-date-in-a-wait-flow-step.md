@@ -3,9 +3,9 @@ unique-page-id: 1146976
 description: 在等待流程步驟——行銷人員檔案——產品檔案中使用特定日期
 title: 在等待流程步驟中使用特定日期
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,7 @@ ht-degree: 0%
    指定時間（可選），然後按一下「儲存」。
    ![](assets/image2014-9-22-11-3a51-3a13.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [在等待流程步驟中使用持續時間](use-a-duration-in-a-wait-flow-step.md)
 >* [在等待流程步驟中使用日期Token](use-a-date-token-in-a-wait-flow-step.md)
