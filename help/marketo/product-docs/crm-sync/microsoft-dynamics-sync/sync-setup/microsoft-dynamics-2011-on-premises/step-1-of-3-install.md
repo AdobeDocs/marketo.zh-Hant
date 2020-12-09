@@ -3,9 +3,9 @@ unique-page-id: 3571805
 description: 第1步（共3步）-安裝Marketo解決方案（2011年內部部署）-行銷檔案——產品檔案
 title: 第1步（共3步）-安裝Marketo解決方案（2011年內部部署）
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 >
 >將Market與CRM同步後，若不取代例項，就無法執行新同步。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >您必須已 [配置Active Directory Federation Services](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) 2.0、2.1或3.0(ADFS)的Internet Packing Deployment [](https://msdn.microsoft.com/en-us/library/bb897402.aspx) (IFD)。 **注意**:當您按一下連結時，IFD檔案會自動下載。
 >
