@@ -3,9 +3,9 @@ unique-page-id: 2953469
 description: SFDC同步——促銷活動同步——行銷人員文檔——產品文檔
 title: SFDC同步——促銷活動同步
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,7 @@ Marketo **方案會員** ，以及其** [晉升狀態](../../../../product-docs/
 >
 >如果您的Salesforce促銷活動和映射的Marketo程式有不相容的程式狀態，您可能會收到錯誤訊息。 建議您在同 [步之前符合程式狀態](sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [將SFDC促銷活動與計畫同步](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
 >* [瞭解方案會籍](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
