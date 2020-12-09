@@ -3,9 +3,9 @@ unique-page-id: 1147064
 description: 將通訊限制套用至智慧型促銷活動——行銷人員檔案——產品檔案
 title: 將通訊限制套用至智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 將通訊限制套用至智慧型促銷活動 {#apply-communication-limits-to-smart-campaign}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [啟用通訊限制](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
 
