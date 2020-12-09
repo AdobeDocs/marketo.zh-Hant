@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: 建立民調問答——行銷檔案——產品檔案
 title: 建立民調問答
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >如果您想在民調問答中使用影像，請先將影像新增至Marketo影像和檔案資料庫，然後再開始。 為每個民調問答項目新增60x60像素影像。 請參 [閱將影像和檔案新增至Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)。
 
