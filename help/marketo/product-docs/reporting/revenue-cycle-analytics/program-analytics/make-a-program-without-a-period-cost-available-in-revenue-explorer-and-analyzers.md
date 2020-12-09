@@ -3,9 +3,9 @@ unique-page-id: 2360389
 description: 在Revenue Explorer和Analyzers - Marketo Docs - Product Documentation中提供不含期間成本的計畫
 title: 在收入瀏覽器和分析器中提供不含期間成本的方案
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ ht-degree: 0%
 
 幹得好！ 現在，任何使用已修改渠道的程式都將包含在收入瀏覽器和分析器中，而不需要期間成本。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [在方案層級覆寫分析行為](override-analytics-behavior-at-the-program-level.md)
 
