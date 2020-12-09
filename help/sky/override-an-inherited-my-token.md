@@ -2,9 +2,9 @@
 title: override-an-inherited-my-token
 description: 覆寫繼承的My Token
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-1.png)
 
-1. 按一下Token [!UICONTROL **值**] ，並加以變更。 變更此Token的值會自動將其移至區 [!UICONTROL Overridden Tokens] 段。
+1. 按一下代號 **[!UICONTROL Value]** 並加以變更。 變更此Token的值會自動將其移至區 [!UICONTROL Overridden Tokens] 段。
 
    ![影像2](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-2.png)
 
