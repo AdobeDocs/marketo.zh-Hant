@@ -3,9 +3,9 @@ unique-page-id: 11380734
 description: 帳戶觸發器——行銷人員檔案——產品檔案
 title: 帳戶觸發器
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 帳戶觸發器 {#account-triggers}
 
-使用帳戶層級觸發器，跨不同通道（例如電子郵件、網頁、廣告）監聽重要帳戶層級行為活動並採取行動。
+使用帳戶層級觸發器，跨不同通道（如電子郵件、網頁、廣告）監聽重要帳戶層級行為活動並採取行動。
 
-選擇您的智慧型促銷活動，然後按一下「智慧型清單」。
+選取您的智慧型促銷活動，然後按一下 **[!UICONTROL Smart List]**。
 
 ![](assets/one-1.png)
 
@@ -23,13 +23,14 @@ ht-degree: 0%
 
 ![](assets/two-1.png)
 
-將您要的觸發器拖曳至畫布上。 在此範例中，我們使用「新增 *至命名帳戶」*。
+將您要的觸發器拖曳至畫布上。 在此範例中，我們使用「新增 _至命名帳戶」_。
 
 ![](assets/three-1.png)
 
 選擇限定詞。
 
-![](assets/four-1.png)\
+![](assets/four-1.png)
+
 按一下指名的帳戶下拉式清單……
 
 ![](assets/five-1.png)
@@ -40,13 +41,7 @@ ht-degree: 0%
 
 就這樣！ 完成其餘的智慧型促銷活動後，請記得啟動它。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [帳戶篩選](account-filters.md)
-
->
-
-
 
