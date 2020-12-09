@@ -2,9 +2,9 @@
 title: 編輯——可用——串流——內容
 description: 編輯串流內容的可用性
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. 按一下「 [!UICONTROL **串流**] 」標籤。
+1. 按一下標 **[!UICONTROL Streams]** 簽。
 
    ![影像2](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![影像三](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-3.png)
 
-1. 選擇 [!UICONTROL **編輯可用性**]。
+1. 選擇 **[!UICONTROL Edit Availability]**。
 
    ![影像4](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![影像5](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
-1. 按一下 [!UICONTROL **儲存**]。
+1. 按一 **[!UICONTROL Save]**&#x200B;下。
 
    ![影像6](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-6.png)
 
