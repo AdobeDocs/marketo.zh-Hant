@@ -2,9 +2,9 @@
 title: marketo-image-editor
 description: Marketo影像編輯器
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -24,10 +24,10 @@ ht-degree: 0%
 
    ![影像2](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-2.png)
 
-1. 按一下「 [!UICONTROL **編輯影像**] 」按鈕。
+1. 按一下按 **[!UICONTROL Edit Image]** 鈕。
 
    ![影像三](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-3.png)
 
-1. 從上方工具列的多種功能中選擇。 完成時 [!UICONTROL **按一下**] 「儲存」。
+1. 從上方工具列的多種功能中選擇。 完成時 **[!UICONTROL Save]** 按一下。
 
    ![影像4](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-4.png)
