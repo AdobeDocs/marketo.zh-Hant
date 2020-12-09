@@ -3,9 +3,9 @@ unique-page-id: 11379928
 description: 稽核記錄中的變更詳細資訊——行銷檔案——產品檔案
 title: 審核跟蹤中的更改詳細資訊
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '1903'
+source-wordcount: '1901'
 ht-degree: 0%
 
 ---
@@ -799,9 +799,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
  </tbody> 
 </table>
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [審計線索中的篩選](filtering-in-audit-trail.md)
 
