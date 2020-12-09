@@ -3,9 +3,9 @@ unique-page-id: 2949281
 description: 核發行銷人員電子郵件附加授權——行銷人員檔案——產品檔案
 title: 核發行銷人員電子郵件附加授權
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ ht-degree: 0%
    >
    >如果您的銷售代表擁有電腦的管理員存取權，請勾選方塊，您就完成！
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用企業金鑰安裝Marketon Add-in for Outlook](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
 >* [使用註冊碼安裝Outlook的Marketo Email增益集](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
