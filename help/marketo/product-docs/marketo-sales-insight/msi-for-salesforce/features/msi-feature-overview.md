@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: MSI功能概觀——行銷檔案——產品檔案
 title: MSI功能概觀
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
@@ -168,9 +168,7 @@ Salesforce Classic:「銷售機會」和「連絡人」清單檢視中的「新�
 * MSI配置：包含Marketo標籤和MSI視覺化力面板的設定
 * 重設Marketon Sales Insight:包括擦除所有配置的能力
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[Salesforce中的Marketo Sales Insight「設定」標籤](http://docs.marketo.com/x/UoCMAg)
 
