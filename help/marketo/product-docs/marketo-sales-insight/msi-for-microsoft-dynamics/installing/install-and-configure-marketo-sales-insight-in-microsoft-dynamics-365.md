@@ -3,9 +3,9 @@ unique-page-id: 3571739
 description: 在Microsoft Dynamics 365中安裝和設定Marketo Sales Insight - Marketo Docs —— 產品檔案
 title: 在Microsoft Dynamics 365中安裝及設定Marketo Sales Insight
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo Sales Insight是一套絕佳的工具，可讓您的銷售團隊透過「視窗」瞭解行銷團隊所擁有的豐富資料。 以下是如何安裝和設定。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >完成您 [的Marketo-Microsoft整合](http://docs.marketo.com/x/E4A2)。
 >
