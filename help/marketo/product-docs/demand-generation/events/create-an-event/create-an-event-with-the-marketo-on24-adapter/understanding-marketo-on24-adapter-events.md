@@ -3,9 +3,9 @@ unique-page-id: 10096658
 description: 瞭解Marketo On24適配器事件- Marketo Docs —— 產品文檔
 title: 瞭解Marketo On24適配器事件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ON24適配器會為您傳輸所有資訊。 它會將擷取到Marketo登陸頁�
 
 準備開始了嗎？ 從使用 [ON24適配器建立事件開始](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用Marketo ON24適配器建立事件](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
 
