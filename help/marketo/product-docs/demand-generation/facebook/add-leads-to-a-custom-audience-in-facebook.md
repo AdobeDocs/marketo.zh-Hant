@@ -3,9 +3,9 @@ unique-page-id: 11376700
 description: 在Facebook —— 行銷人員檔案——產品檔案中新增客源至自訂對象
 title: 在Facebook中新增銷售機會至自訂對象
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 在Facebook中已有自訂對象，想要新增更多客源嗎？ 這是方法。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [在Facebook中建立自訂對象](create-a-custom-audience-in-facebook.md)
 >* [在您的Facebook帳戶中接受Facebook的自訂對象](https://www.facebook.com/ads/manage/customaudiences/tos.php) 「詞語」。
