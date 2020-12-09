@@ -3,9 +3,9 @@ unique-page-id: 2360399
 description: 建立Program Analyzer - Marketo Docs —— 產品檔案
 title: 建立程式分析器
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ ht-degree: 0%
 
 ![](assets/november-custom-report.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [比較渠道有效性與計劃分析器](compare-channel-effectiveness-with-the-program-analyzer.md)
 >* [比較方案分析器與方案有效性](compare-program-effectiveness-with-the-program-analyzer.md)
