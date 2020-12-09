@@ -3,9 +3,9 @@ unique-page-id: 2950549
 description: 設定Social建議流量——行銷人員檔案——產品檔案
 title: 設定Social建議流量
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -127,9 +127,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >下一步是將您的 [影片分享](customize-video-share-flow.md)[](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) 或民調問答新增至登陸頁面、Facebook或您自己的網站。
 
