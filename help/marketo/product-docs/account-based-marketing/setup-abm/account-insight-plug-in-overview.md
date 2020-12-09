@@ -3,9 +3,9 @@ unique-page-id: 12979282
 description: Account Insight外掛程式概觀- Marketo Docs —— 產品檔案
 title: Account Insight外掛程式概觀
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Account Insight是Chrome增效模組，可將可操作的ABM和帳戶見解呈�
 
 酷斃了！
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [設定帳戶分析](set-up-account-insight.md)
 
