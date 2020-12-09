@@ -3,9 +3,9 @@ unique-page-id: 2360251
 description: 編輯取消訂閱訊息——行銷人員檔案——產品檔案
 title: 編輯取消訂閱訊息
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 取消訂閱HTML:`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` 取消訂閱文字：
 `<pre data-theme="Confluence">%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##</pre>`
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [編輯「以網頁形式檢視」訊息](edit-the-view-as-web-page-message.md)
 
