@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: 使用企業金鑰安裝Marketo Add-in for Outlook —— 行銷人員檔案——產品檔案
 title: 使用企業金鑰安裝Marketon Add-in for Outlook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 許多時候，銷售代表在筆記型電腦上沒有管理權限，而他們的IT團隊負責遠程安裝所有軟體。 Marketo Add-in for Outlook可使用您的「企業金鑰」（可在「管理員」的「銷售分析」區段中找到）以這種方式安裝。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >管理員必須已 [核發行銷人員電子郵件增益集授權](issue-a-marketo-email-add-in-license.md)。
 
