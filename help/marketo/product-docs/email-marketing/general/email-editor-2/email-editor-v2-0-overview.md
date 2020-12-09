@@ -3,9 +3,9 @@ unique-page-id: 11372299
 description: 電子郵件編輯器2.0版概觀——行銷檔案——產品檔案
 title: 電子郵件編輯器v2.0概觀
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -107,9 +107,7 @@ ht-degree: 0%
 >
 >如果您想要深入探討，請查看這個有用 [的影片](https://nation.marketo.com/videos/1463)。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [電子郵件範本語法](email-template-syntax.md)
 
