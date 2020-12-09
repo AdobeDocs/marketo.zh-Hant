@@ -3,9 +3,9 @@ unique-page-id: 2360411
 description: 建立成功路徑分析程式——行銷人員檔案——產品檔案
 title: 建立成功路徑分析器
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 以視覺化方式呈現收入週期模型中的 [速度和流量](http://docs.marketo.com/display/docs/revenue+cycle+analytics)。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[建立新的收入模型](create-a-new-revenue-model.md)
 
