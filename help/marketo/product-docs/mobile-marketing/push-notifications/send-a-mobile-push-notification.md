@@ -3,9 +3,9 @@ unique-page-id: 7512457
 description: 傳送行動推播通知——行銷人員檔案——產品檔案
 title: 傳送行動推播通知
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 傳送推播通知給使用您行動應用程式的使用者。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立新的智慧型促銷活動](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [建立推播通知](create-a-push-notification.md)
