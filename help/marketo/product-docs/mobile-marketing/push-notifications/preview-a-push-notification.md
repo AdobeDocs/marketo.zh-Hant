@@ -3,9 +3,9 @@ unique-page-id: 10092730
 description: 預覽推播通知——行銷人員檔案——產品檔案
 title: 預覽推播通知
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ ht-degree: 0%
 
 因此，透過推播通知預覽，您隨時都能得知客戶將看到什麼！
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [建立推播通知](create-a-push-notification.md)
 >* [設定行動推播通知](configure-mobile-push-notification.md)
