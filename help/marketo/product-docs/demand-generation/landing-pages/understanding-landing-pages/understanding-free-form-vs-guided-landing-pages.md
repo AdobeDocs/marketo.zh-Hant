@@ -3,9 +3,9 @@ unique-page-id: 7515207
 description: 瞭解自由格式與引導式著陸頁面——行銷檔案——產品檔案
 title: 瞭解自由格式與引導式著陸頁面
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,7 @@ ht-degree: 0%
 
 ![](assets/two-1.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [自由格式著陸頁面](http://docs.marketo.com/display/public/DOCS/Free-Form+Landing+Pages)
 >* [引導式著陸頁面](http://docs.marketo.com/display/DOCS/Guided+Landing+Pages)
