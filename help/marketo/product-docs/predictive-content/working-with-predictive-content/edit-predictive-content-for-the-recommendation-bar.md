@@ -3,9 +3,9 @@ unique-page-id: 11385942
 description: 編輯建議列的預測性內容——行銷檔案——產品檔案
 title: 編輯建議列的預測性內容
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 以下是如何設定建議列的預測性內容。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >內容必須在「 [所有內容」頁面上](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) ，針對預測性內容進行核准。
 
