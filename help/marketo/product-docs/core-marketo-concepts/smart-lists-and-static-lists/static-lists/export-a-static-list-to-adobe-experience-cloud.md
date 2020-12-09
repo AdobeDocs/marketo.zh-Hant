@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: 將靜態清單匯出至Adobe Experience Cloud —— 行銷人員檔案——產品檔案
 title: 將靜態清單匯出至Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '592'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >Marketo例項的HIPAA適用部署無法使用此功能。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[設定Adobe Experience Cloud觀眾共用](http://docs.marketo.com/x/D4GMAg)
 
