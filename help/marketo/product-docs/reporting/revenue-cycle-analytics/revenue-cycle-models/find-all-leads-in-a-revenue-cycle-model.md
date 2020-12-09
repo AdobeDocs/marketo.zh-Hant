@@ -3,9 +3,9 @@ unique-page-id: 2360423
 description: 在收入週期模型中尋找所有潛在客戶——行銷檔案——產品檔案
 title: 在收入週期模型中查找所有銷售線索
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 使用智慧型清單，您可以輕鬆找到收入週期模型的所有成員。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[建立智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
