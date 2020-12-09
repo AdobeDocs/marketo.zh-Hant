@@ -2,9 +2,9 @@
 title: edit-qualification-rules-in-a-smart-campaign
 description: 在智慧型促銷活動中編輯資格規則
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 資格規則可控制某人在智慧型促銷活動中執行流程的次數。 依預設，即使某人觸發多次智慧型促銷活動，也只會透過流程傳送一次。 以下是如何修改這些設定。
 
-1. 選擇促銷活動，並前往「排 [!UICONTROL **程**] 」標籤。
+1. 選取促銷活動並前往標 **[!UICONTROL Schedule]** 簽。
 
    ![影像一](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-1.png)
 
-1. 按一 [!UICONTROL **下編輯週期**]。
+1. 按一 **[!UICONTROL Edit Recurrence]**&#x200B;下。
 
    ![影像2](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-2.png)
 
-1. 選擇在智慧型促銷活動流程中引導人員的頻率： [!UICONTROL **每日**]、 [!UICONTROL **每週**]、每 [!UICONTROL **月**]，或每 [!UICONTROL **#天一次**]。
+1. 選擇在智慧型促銷活動流程中引導人員的頻率： **[!UICONTROL daily]**、 **[!UICONTROL weekly]**、 **[!UICONTROL monthly]**&#x200B;或 **[!UICONTROL once every # days]**。
 
    ![影像三](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-3.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    >
    >當使用周或月時，此邏輯也適用。 一個月一律計為30天。
 
-1. 完成時 [!UICONTROL **按一下**] 「確認」。
+1. 完成時 **[!UICONTROL Confirm]** 按一下。
 
    ![影像4](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-4.png)
 
