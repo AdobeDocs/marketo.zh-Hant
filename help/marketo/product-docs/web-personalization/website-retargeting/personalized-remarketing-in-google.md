@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Google的個人化再行銷——行銷檔案——產品檔案
 title: Google的個性化再營銷
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 個人化再行銷可讓您使用RTP資料和Google Analytics的強大功能，透過Google Display Network的觸及面，與使用者重新互動。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* 使用Web個人 [化資料設定完成重新定位](retargeting-with-web-personalization-data.md) 。
 >* 使用 [Google Analytics說明檔案檢視再行銷](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645)
