@@ -3,9 +3,9 @@ unique-page-id: 4718648
 description: 瞭解Opportunity Inffect Analyzer - Marketo Docs —— 產品文檔
 title: 瞭解機會影響分析器
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Marketto使用CRM ID來唯一識別帳戶。
 >
 >每次交易完成後，第二天就在分析器中找到它。 與銷售代表分享。 他們會意識到您所做的所有努力——此外，您還可以問為什麼某些人「看起來」很有影響力，但沒有在CRM中指派角色。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用Opportunity Inflection Analyzer講述行銷故事](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [建立機會影響分析器](create-an-opportunity-influence-analyzer.md)
