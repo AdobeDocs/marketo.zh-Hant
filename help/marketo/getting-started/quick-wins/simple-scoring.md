@@ -3,9 +3,9 @@ unique-page-id: 2359414
 description: 簡單計分——行銷檔案——產品檔案
 title: 簡易計分
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 >
 >Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [設定並新增人員](get-set-up-and-add-a-person.md)
 >* [具有表單的著陸頁面](landing-page-with-a-form.md)
