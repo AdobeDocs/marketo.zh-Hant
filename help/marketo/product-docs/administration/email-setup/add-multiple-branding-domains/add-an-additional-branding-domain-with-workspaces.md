@@ -3,9 +3,9 @@ unique-page-id: 11377408
 description: 使用工作區——行銷人員檔案——產品檔案新增其他品牌網域
 title: 使用工作區新增其他品牌網域
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 如果您有工作區，則可新增其他品牌網域。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >您必須先 [編輯您的預設品牌網域](edit-your-default-branding-domain.md) 。
 >
