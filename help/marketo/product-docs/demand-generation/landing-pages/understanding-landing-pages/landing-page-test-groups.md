@@ -3,9 +3,9 @@ unique-page-id: 2949904
 description: 著陸頁面測試群組——行銷檔案——產品檔案
 title: 著陸頁面測試群組
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Market會追蹤測試群組內每個測試頁面上的頁面檢視次數和表單填寫次數。 您可以使用測試群組結果來決定哪個著陸頁面最吸引人。 以下是如何建立測試群組。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[建立兩個或多個著陸頁面](../../../../getting-started/quick-wins/landing-page-with-a-form.md)，最好使用表單。
 
