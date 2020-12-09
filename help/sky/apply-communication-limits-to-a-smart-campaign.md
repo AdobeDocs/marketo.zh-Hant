@@ -2,9 +2,9 @@
 title: apply-communication-limits-to-a-smart-campaign
 description: 將通訊限制套用至智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >當任何人超過設定的通訊限制時，Market會封鎖非營運性電子郵件（營運性電子郵件一律會傳送）。
 
-1. 選擇您的智慧型促銷活動，然後按一下「 [!UICONTROL **排程**] 」標籤。
+1. 選取您的智慧型促銷活動，然後按一下 **[!UICONTROL Schedule]** 標籤。
 
    ![影像一](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-1.png)
 
-1. 開啟 [!UICONTROL Qualification Rules] 並勾選「封 [!UICONTROL **鎖非運作電子郵件**] 」核取方塊。
+1. 開啟 [!UICONTROL Qualification Rules] 並選中復 **[!UICONTROL Block non-operational emails]** 選框。
 
    ![影像2](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-2.png)
 
