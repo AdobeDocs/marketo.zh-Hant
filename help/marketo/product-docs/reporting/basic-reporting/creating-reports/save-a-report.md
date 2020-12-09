@@ -3,9 +3,9 @@ unique-page-id: 7511980
 description: 儲存報表——行銷人員檔案——產品檔案
 title: 儲存報表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -38,9 +38,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-21-11-3a12-3a40.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >瞭解如何 [將報表複製至群組報表](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)。
 
