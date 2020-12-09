@@ -2,9 +2,9 @@
 title: my-token-image
 description: 我的代號影像
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,10 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/my-tokens/my-token-image/my-token-image-1.png)
 
-1. 輸入影像Token的名稱，然後輸入影像URL。 按一下 [!UICONTROL **儲存**]。
+1. 輸入影像Token的名稱，然後輸入影像URL。 按一 **[!UICONTROL Save]**&#x200B;下。
 
    ![影像2](/help/sky/assets/my-tokens/my-token-image/my-token-image-2.png)
 
-或者，您也可以從中選擇現有的影像 [!UICONTROL Design Studio]。 按一下 [!UICONTROL **儲存**]。
+或者，您也可以從中選擇現有的影像 [!UICONTROL Design Studio]。 按一 **[!UICONTROL Save]**&#x200B;下。
 
 ![影像三](/help/sky/assets/my-tokens/my-token-image/my-token-image-3.png)
