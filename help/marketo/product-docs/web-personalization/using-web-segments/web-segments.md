@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: 網頁區段——行銷檔案——產品檔案
 title: 網頁區段
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '2033'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -342,8 +342,7 @@ Web Personalization與您的Marketo Database整合，讓您依據已知人員屬
 
 太好了！ 既然您瞭解「區段」區段，讓我們來瞭解促銷活動。
 
->[!NOTE]
-**相關文章**
+>[!MORELIKETHIS]
 * [建立基本Web區段](create-a-basic-web-segment.md)
 * [建立新對話方塊Web促銷活動](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 * [在區域網頁促銷活動中建立新功能](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
