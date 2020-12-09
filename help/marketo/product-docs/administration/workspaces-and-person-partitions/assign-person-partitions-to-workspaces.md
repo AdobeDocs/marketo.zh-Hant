@@ -3,9 +3,9 @@ unique-page-id: 2360317
 description: 將人員分區分配給工作區——行銷人員文檔——產品文檔
 title: 將人員分區分配給工作區
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[建立新工作區](create-a-new-workspace.md)
 
