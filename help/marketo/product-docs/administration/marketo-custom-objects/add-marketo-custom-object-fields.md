@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: 新增行銷至自訂物件欄位——行銷至檔案——產品檔案
 title: 新增行銷至自訂物件欄位
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ ht-degree: 0%
    >
    >如果您要建立一對多結構，則需要新增「連結」欄位至自訂物件。 對於多對多結構，您不需要自訂物件中的連結欄位，但必須在中介物件中新增兩個連結欄位。 如需 [自訂物件類型的詳細資訊，請參閱新增行銷至自訂物件連結欄位](add-marketo-custom-object-link-fields.md) ，以建立連結欄位，以及 [瞭解行銷至自訂物件](understanding-marketo-custom-objects.md) 。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [新增行銷至自訂物件連結欄位](add-marketo-custom-object-link-fields.md)
 >* [編輯和刪除行銷人員自訂物件](edit-and-delete-a-marketo-custom-object.md)
