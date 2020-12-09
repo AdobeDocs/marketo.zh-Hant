@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: 排程A/B測試——行銷檔案——產品檔案
 title: 排程A/B測試
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 在您將A/B測試新增至電子郵件程式並定義成功者標準後，您就需要在測試開始時排程。 這是方法。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [新增A/B測試](add-an-a-b-test.md)
 
