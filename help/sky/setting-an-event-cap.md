@@ -2,9 +2,9 @@
 title: setting-an-event-cap
 description: 如何設定事件上限
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-1.png)
 
-1. 在「概述」中，尋找並 [!UICONTROL Event Cap] 按一下「 [!UICONTROL **未設定」**]。
+1. 在「概述」中，尋找 [!UICONTROL Event Cap] 並按一下 **[!UICONTROL Not Set]**。
 
    ![影像2](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-2.png)
 
-1. 輸入您要註冊參加活動的人數上限，然後按一下「下 [!UICONTROL **一步**]」。
+1. 輸入您要註冊參加活動的人數上限，然後按一下 **[!UICONTROL Next]**。
 
    ![影像三](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-3.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![影像4](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-4.png)
 
-1. 按一下「 [!UICONTROL **註冊完整頁面**] 」下拉式清單，並選取將做為註冊完整頁面的著陸頁面。 完成 [!UICONTROL **時，按一下「設定**] 」和「啟用」。
+1. 按一 **[!UICONTROL Registration Full Page]** 下下拉式清單，並選取將做為註冊完整頁面的著陸頁面。 完成時 **[!UICONTROL Set and Enable]** 按一下。
 
    ![影像5](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-5.png)
 
