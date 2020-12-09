@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: 如何將銷售連線連接至您的Salesforce沙盒——行銷人員檔案——產品檔案
 title: 如何將Sales Connect連接至您的Salesforce沙盒
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 如何將Sales Connect連接至您的Salesforce沙盒 {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >當建立與沙盒的連線時，您的Sales Connect帳戶已無法連線至Salesforce。 如果是，請 [在遵循本文中的步驟](http://docs.marketo.com/x/FoDq) ，先確定您已中斷連線。
 
