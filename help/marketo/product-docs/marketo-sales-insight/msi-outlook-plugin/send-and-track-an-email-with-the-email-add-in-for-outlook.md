@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: 使用Outlook電子郵件增益集——行銷人員檔案——產品檔案來傳送及追蹤電子郵件
 title: 使用Outlook的電子郵件增益集來傳送及追蹤電子郵件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 您可以直接從Outlook與Market一起傳送及追蹤電子郵件。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >如果您尚未安裝Outlook的 [Marketo電子郵件增益集](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)。
 
