@@ -3,9 +3,9 @@ unique-page-id: 10099408
 description: 電子郵件見解概觀——行銷人員檔案——產品檔案
 title: 電子郵件見解概觀
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ ht-degree: 0%
 
 所有標準Marketo維度都已包含在內，但您可以選擇新增最多10個自訂維度。 [自訂維度](custom-dimensions-for-email-insights.md) ，由區段和程式標籤組成。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [電子郵件見解分析概觀](email-insights-analytics-overview.md)
 >* [電子郵件見解傳送概述](email-insights-sends-overview.md)
