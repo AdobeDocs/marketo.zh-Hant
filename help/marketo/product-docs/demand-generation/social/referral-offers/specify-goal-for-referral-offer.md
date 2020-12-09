@@ -3,9 +3,9 @@ unique-page-id: 2359791
 description: 指定反向連結選件的目標——行銷人員檔案——產品檔案
 title: 指定反向連結選件的目標
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ ht-degree: 0%
 >
 >智慧型促銷活動中有新的篩選器和觸發器，可用來監控社交活動。 請參 [閱使用社交活動的觸發器和篩選器](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >接著，您可 [以選取要從您的轉介選件傳送的註冊](send-referral-offer-fulfillment-email.md) 和履約電子郵件。
 
