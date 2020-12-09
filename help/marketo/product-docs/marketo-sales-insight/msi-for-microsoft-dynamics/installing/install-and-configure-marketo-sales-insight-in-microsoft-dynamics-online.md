@@ -3,9 +3,9 @@ unique-page-id: 37355602
 description: 在Microsoft Dynamics Online —— 行銷人員檔案——產品檔案中安裝及設定行銷人員銷售分析
 title: 在Microsoft Dynamics Online中安裝及設定Marketo Sales Insight
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo Sales Insight是一套絕佳的工具，可讓您的銷售團隊透過「視窗」瞭解行銷團隊所擁有的豐富資料。 以下說明如何在Microsoft Dynamics Online中安裝及設定它。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >完成您 [的Marketo-Microsoft整合](http://docs.marketo.com/x/E4A2)。
 >
