@@ -3,9 +3,9 @@ unique-page-id: 7513141
 description: 導覽Analytics首頁——行銷人員檔案——產品檔案
 title: 導覽Analytics首頁
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
 
    太好了！ 您知道如何瀏覽Analytics首頁！
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[瞭解我的報表和群組報表](understanding-my-reports-and-group-reports.md)
 
