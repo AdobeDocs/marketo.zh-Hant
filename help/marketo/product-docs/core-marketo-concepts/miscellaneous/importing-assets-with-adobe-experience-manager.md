@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: 使用Adobe Experience Manager —— 行銷檔案——產品檔案匯入資產
 title: 使用Adobe Experience Manager匯入資產
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的客戶成功經理。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >請確定您已執行 [AEM設定](https://docs.marketo.com/x/FwPLAQ)。
 
