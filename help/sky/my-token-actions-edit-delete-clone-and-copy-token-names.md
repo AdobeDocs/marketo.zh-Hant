@@ -2,9 +2,9 @@
 title: my-token-actions-edit-delete-clone-and-copy-token-names
 description: 我的Token動作編輯、刪除、複製Token名稱
 translation-type: tm+mt
-source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 ## 編輯Token
 
-在促銷 [!UICONTROL My Tokens] 活動資料夾或方案的標籤中，按一 [!UICONTROL **下您要編輯的Token**] 值。 這將開啟編輯器窗口。
+在促銷 [!UICONTROL My Tokens] 活動資料夾或方案的標籤中，按一 **[!UICONTROL Value]** 下您要編輯的代號。 這將開啟編輯器窗口。
 
 ![影像一](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-1.png)
 
 >[!NOTE]
 >
->文字Token沒有個別的編輯器視窗。 按一 [!UICONTROL **下「值**] 」進行串聯編輯。
+>文字Token沒有個別的編輯器視窗。 按一 **[!UICONTROL Value]** 下進行內嵌編輯。
 
 ![影像2](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-2.png)
 
 ## 刪除Token
 
-1. 以滑鼠右鍵按一下代號，然後選取「 [!UICONTROL **刪除」**]。
+1. 以滑鼠右鍵按一下代號，然後選取 **[!UICONTROL Delete]**。
 
    ![影像三](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-3.png)
 
-1. 按一 [!UICONTROL **下確認**]。
+1. 按一 **[!UICONTROL Confirm]**&#x200B;下。
 
    ![影像4](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-4.png)
 
@@ -40,11 +40,11 @@ ht-degree: 0%
 
 ## 複製Token
 
-1. 若要複製我的Token，請以滑鼠右鍵按一下它，然後選取「仿 [!UICONTROL **制」**]。
+1. 若要複製我的Token，請以滑鼠右鍵按一下它並選取 **[!UICONTROL Clone]**。
 
    ![影像5](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-5.png)
 
-1. 輸入仿製Token的新名稱，視需要進行編輯，然後按一下「儲 [!UICONTROL **存**]」。
+1. 輸入仿製Token的新名稱，視需要進行編輯，然後按一下 **[!UICONTROL Save]**。
 
    ![影像6](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-6.png)
 
