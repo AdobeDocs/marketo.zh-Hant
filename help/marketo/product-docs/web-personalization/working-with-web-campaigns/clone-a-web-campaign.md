@@ -3,9 +3,9 @@ unique-page-id: 10093157
 description: 仿製Web促銷活動——行銷檔案——產品檔案
 title: 複製Web促銷活動
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ ht-degree: 0%
    >
    >Web促銷活動中的所有內容都會複製到克隆促銷活動中，但分割測試除外，因此，如果您要針對其他人測試分割測試群組，請不要忘記將分割測試群組新增至克隆的促銷活動。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [在區域網頁促銷活動中建立新功能](create-a-new-in-zone-web-campaign.md)
 >* [建立新的Widget Web促銷活動](create-a-new-widget-web-campaign.md)
