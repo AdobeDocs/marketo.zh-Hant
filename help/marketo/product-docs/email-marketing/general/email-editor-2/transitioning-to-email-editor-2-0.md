@@ -3,9 +3,9 @@ unique-page-id: 11373011
 description: 轉換至Email Editor 2.0 —— 行銷人員至檔案——產品檔案
 title: 轉換至Email Editor 2.0
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '633'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -60,9 +60,7 @@ ht-degree: 0%
 
 * 在少數幾 **種情況** 下，v1.0電子郵件無法在Email Editor 2.0中開啟。如果發生此情況，請捨棄草稿並聯絡行銷人員支援。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [電子郵件編輯器2.0概觀](email-editor-v2-0-overview.md)
 >* [電子郵件範本語法](email-template-syntax.md)
