@@ -3,9 +3,9 @@ unique-page-id: 1900563
 description: 建立日曆事件(.ics)檔案——行銷檔案——產品檔案
 title: 建立日曆事件(.ics)檔案
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 
 任務完成！ 一定要測試一下。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [在電子郵件中包含日曆事件(.ics)](include-a-calendar-event-ics-in-an-email.md)
 >* [在登陸頁面中包含日曆事件ICS檔案](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
