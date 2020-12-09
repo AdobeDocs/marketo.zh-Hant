@@ -3,9 +3,9 @@ unique-page-id: 1147100
 description: 導覽計畫排程檢視——行銷人員檔案——產品檔案
 title: 導航程式計畫視圖
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ ht-degree: 0%
 
 太好了！ 既然您已知道如何檢視您的程式，讓我們學習它可以做的其他酷炫事。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [在「方案計畫」視圖中建立條目](creating-an-entry-in-the-program-schedule-view.md)
 
