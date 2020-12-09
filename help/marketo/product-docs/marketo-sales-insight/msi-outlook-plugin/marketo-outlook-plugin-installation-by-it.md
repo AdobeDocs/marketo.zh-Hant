@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: IT人員安裝Marketo Outlook外掛程式- Marketo Docs —— 產品檔案
 title: IT部門安裝Marketo Outlook外掛程式
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 有時公司政策要求其IT團隊在員工的電腦上安裝所有軟體。 在這些情況下，IT部門通常使用自己的部署軟體遠程執行此操作。 本文檔提供在部署過程中用作輸入的命令行，以遠程安裝Outlook插件。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[設定](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) 「企業金鑰」。
 
