@@ -3,9 +3,9 @@ unique-page-id: 557322
 description: 從智慧型清單——行銷人員檔案——產品檔案執行單一流程步驟
 title: 從智慧型清單執行單一流程步驟
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 如果您想執行僅限一次的流量步驟，可以在智慧型清單中使用單一流量步驟，而不是建立整個智慧型促銷活動。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
