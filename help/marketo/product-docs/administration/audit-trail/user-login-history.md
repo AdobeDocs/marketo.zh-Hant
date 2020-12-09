@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: 使用者登入記錄——行銷人員檔案——產品檔案
 title: 使用者登入記錄
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 「使用者登入記錄」可協助您確切顯示哪些人已登入訂閱，包括登入嘗試失敗，以維護責任和安全性。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >您必須具有啟用「存取登入記錄」權限的角色，才能檢視「使用者登入記錄」。
 
