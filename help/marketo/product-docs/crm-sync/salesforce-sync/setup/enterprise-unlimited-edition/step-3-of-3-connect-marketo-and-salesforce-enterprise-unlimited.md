@@ -3,9 +3,9 @@ unique-page-id: 2360366
 description: 第3步（共3步）- Connect Marketo和Salesforce（企業版／無限製版）-行銷人員檔案——產品檔案
 title: 第3步（共3步）-將行銷人員連線至Salesforce（企業版／無限製版）
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 在本文中，您將設定Marketo與您設定的Salesforce例項同步。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [步驟1（共3步）:將行銷人員欄位新增至Salesforce（企業版／無限製版）](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 >* [步驟2（共3步）:建立適用於行銷人員的Salesforce使用者（企業版／不限數量）](../../../../../product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) [](https://community.marketo.com/MarketoTutorial?id=kA250000000Kz5rCAC)
