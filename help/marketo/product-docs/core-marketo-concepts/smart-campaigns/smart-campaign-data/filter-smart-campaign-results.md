@@ -3,9 +3,9 @@ unique-page-id: 1147068
 description: 篩選智慧型促銷活動結果——行銷人員檔案——產品檔案
 title: 篩選智慧型促銷活動結果
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 篩選智慧型促銷活動結果 {#filter-smart-campaign-results}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [檢視智慧型促銷活動結果](view-smart-campaign-results.md)
 
