@@ -3,9 +3,9 @@ unique-page-id: 2359763
 description: 檢視社交效能——行銷檔案——產品檔案
 title: 檢視社交績效
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-17-3a11-3a35.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >您也可以使用觸發器和篩選器，查看誰正在分享您的內容並與您的社交應用程式互動，以便您能夠對這些互動採取行動。 請參 [閱使用社交活動的觸發器和篩選器](triggers-and-filters-for-social-activities.md)。
 
