@@ -3,9 +3,9 @@ unique-page-id: 557337
 description: 建立和變更清單和智慧型清單的檢視——行銷檔案——產品檔案
 title: 建立和更改清單和智慧清單的視圖
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,7 @@ ht-degree: 0%
 
 只有您可以在「檢視」下拉式清單中看到您建立的自訂檢視，因此請告訴您的朋友，他們需要建立自己的檢視！
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用內置／系統智慧清單](use-built-in-system-smart-lists.md)
 >* [建立智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
