@@ -3,9 +3,9 @@ unique-page-id: 4719344
 description: 建立基本網頁區段——行銷檔案——產品檔案
 title: 建立基本Web區段
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ ht-degree: 0%
 
 現在您已將來自美國的訪客分段，請繼續加入金融服務業。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [網頁區段](http://docs.marketo.com/x/9QFI)
 
