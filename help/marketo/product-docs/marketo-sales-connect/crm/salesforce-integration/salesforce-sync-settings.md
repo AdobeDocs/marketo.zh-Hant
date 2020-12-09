@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Salesforce同步設定——行銷人員檔案——產品檔案
 title: Salesforce同步設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 這項功能要求您必須使用Salesforce的「企業版」/「無限製版」，或如果您透過Web Services API購買「整合」，則必須使用「專業版」。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >必須將Salesforce和Sales Engage連結起來。
 
@@ -47,9 +45,7 @@ ht-degree: 0%
 
 一旦您啟動「傳送電子郵件至Salesforce(BCC)」，您就會收到一份BCC的銷售電子郵件，而您的電子郵件將會記錄為有關機會、潛在客戶和聯絡人的活動。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >必須將Salesforce和Sales Engage連結起來。
 
