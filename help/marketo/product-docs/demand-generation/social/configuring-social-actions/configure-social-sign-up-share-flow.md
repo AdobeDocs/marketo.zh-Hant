@@ -3,9 +3,9 @@ unique-page-id: 2950530
 description: 設定社交註冊／分享流程——行銷檔案——產品檔案
 title: 設定社交註冊／分享流量
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
@@ -113,9 +113,7 @@ ht-degree: 0%
 >
 >如果您上傳影像，除非您關閉並重新開啟社交應用程式編輯器，否則不會在這裡看到影像。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >接著，您可以按一 **下「完成>核准並關閉** 」，將您的社交應用程式放在登陸頁面。 您也可以設 [定人員擷取](configure-person-capture-for-a-social-app.md) , [或重新共用提示](configure-re-share-email-and-prompt-for-a-social-app.md)。
 
