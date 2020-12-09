@@ -2,9 +2,9 @@
 title: importing-assets-with-adobe-experience-manager
 description: 使用Adobe Experience Manager匯入資產
 translation-type: tm+mt
-source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ ht-degree: 0%
 >
 >目前，此功能僅在Firefox中完全受支援。 Safari不支援此功能，而且可能無法在最新版Chrome中運作，視您的SameSite Cookie設定而定。
 
-1. 在中 [!UICONTROL Design Studio]，選擇「 [!UICONTROL **影像和檔案」**]。
+1. 在中 [!UICONTROL Design Studio]，選擇 **[!UICONTROL Images and Files]**。
 
    ![影像一](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-1.png)
 
-1. 按一下下 [!UICONTROL Images and Files] 拉式清單，然後選 [!UICONTROL **取「匯入影像」或「檔案」**]。
+1. 按一下 [!UICONTROL Images and Files] 下拉式清單並選取 **[!UICONTROL Import Image or File]**。
 
    ![影像2](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-2.png)
 
-1. 按一下旁邊的單選按鈕，然 [!DNL Adobe Experience Manager] 後按一下「 [!UICONTROL **Next**]（下一步）」。
+1. 按一下旁邊的選項按鈕， [!DNL Adobe Experience Manager] 然後按一下 **[!UICONTROL Next]**。
 
    ![影像三](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-3.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![影像4](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-4.png)
 
-1. 選擇您的資料夾。 選取您想要的影像（最多可以選取10張），然後按一下「選 [!UICONTROL **取**]」。
+1. 選擇您的資料夾。 選取您想要的影像（最多可選擇10張），然後按一下 **[!UICONTROL Select]**。
 
    ![影像5](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -50,11 +50,11 @@ ht-degree: 0%
    >
    >影像大小不能超過100MB。
 
-1. 驗證您選擇的影像，選取目標資料夾([!UICONTROL Images and Files] 預設值)，然後按一下「下 [!UICONTROL **一步**]」。
+1. 確認您選擇的影像，選取目標資料夾([!UICONTROL Images and Files] 預設)，然後按一下 **[!UICONTROL Next]**。
 
    ![影像6](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-6.png)
 
-就這樣！ 按一 [!UICONTROL **下**] 「關閉」以返回影像和檔案。
+就這樣！ 按一 **[!UICONTROL Close]** 下以返回影像和檔案。
 
 ![影像7](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-7.png)
 
