@@ -3,9 +3,9 @@ unique-page-id: 2360240
 description: 配置機會影響分析器——行銷文檔——產品文檔
 title: 配置Opportunity Effence Analyzer
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 建立Opportunity [Inflection Analyzer後](create-an-opportunity-influence-analyzer.md)，您可以配置包含的 [有趣時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) 。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立機會影響分析器](create-an-opportunity-influence-analyzer.md)
 
