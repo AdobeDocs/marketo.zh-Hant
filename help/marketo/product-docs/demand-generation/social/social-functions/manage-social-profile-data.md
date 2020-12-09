@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: 管理社交設定檔資料——行銷檔案——產品檔案
 title: 管理社交設定檔資料
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->來自社交網路的其他資訊會在人員授權後約5分鐘內顯示在「人員詳細資料」頁面上。
+>來自社交網路的其他資訊會在人員授權後大約5分鐘內顯示在「人員詳細資料」頁面上。
 
 ## 從Twitter: {#from-twitter}
 
@@ -85,9 +85,7 @@ ht-degree: 0%
 >
 >社交表單填寫只會在 *人員* 在表單中輸入時擷取電子郵件地址。 如果您需要電子郵件地址，您應 [該在表單中將其設為必填欄位](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >若要從表單擷取此資訊，請啟用社 [交表單填寫](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)。
 
