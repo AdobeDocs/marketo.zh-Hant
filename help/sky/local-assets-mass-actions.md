@@ -2,9 +2,9 @@
 title: local-assets-mass-actions
 description: 本地資產成批活動
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 <br> 
 
-您可以直接從「資產」標籤下的「動作」 [!UICONTROL **區段**] ，對多個資產執行 [!UICONTROL **大量動作**] 。 以下說明如何尋找您所需的資產，並套用大量動作給這些資產。
+您可以直接從標籤下方的區段對多個資產 **[!UICONTROL Actions]** 執行大量 **[!UICONTROL Assets]** 動作。 以下說明如何尋找您所需的資產，並套用大量動作給這些資產。
 
 ## 依資產類型和／或條件篩選
 
-若要尋找您要採取動作的特定資產，您可以從下拉式清單中選 [!UICONTROL **擇一**] 或多種類型，依資產類型篩選。
+若要尋找您要採取動作的特定資產，請從下拉式清單中選 **[!UICONTROL asset type]** 擇一或多種類型來篩選。
 
 ![影像一](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-1.png)
 
-此外，您也可以從下拉式清 [!UICONTROL **單中選擇一**] 或多個條件，依資產條件進行篩選。 您可以個別執行，或與資產類型篩選結合執行。
+此外，您也可從下拉式清 **[!UICONTROL asset condition]** 單中選擇一或多個條件來篩選。 您可以個別執行，或與資產類型篩選結合執行。
 
 ![影像2](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-2.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## 應用成批活動
 
-選取一組資產，然後從「選取動作」下拉式清 [!UICONTROL **單中選**] 取動作。 無法套用至您任何選取資 _產的_ 「動作」會自動變灰。
+選取一組資產，然後從下拉式清單中選 **[!UICONTROL Select Action]** 擇動作。 無法套用至您任何選取資 _產的_ 「動作」會自動變灰。
 
 ![影像三](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-3.png)
 
@@ -46,13 +46,13 @@ ht-degree: 0%
 
 ## 狀態通知
 
-您可以在「最近通知」托盤中找到成批 [!UICONTROL **活動的狀**] 態。
+您可以在托盤中找到成批操作的狀 **[!UICONTROL Recent Notifications]** 態。
 
 ![影像5](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-5.png)
 
 ## 大量動作失敗
 
-如果您選擇的動作因資產需要修正而無法套用，您會收到部分失敗的通知（使用黃色的警告符號）。 如果動作無法套用至您 _的所有_ ，則通知會有紅色的警告符號。 按一下 [!UICONTROL **查看失敗**] ，以瞭解詳細資訊。
+如果您選擇的動作因資產需要修正而無法套用，您會收到部分失敗的通知（使用黃色的警告符號）。 如果動作無法套用至您 _的所有_ ，則通知會有紅色的警告符號。 按一 **[!UICONTROL View Failures]** 下以取得詳細資訊。
 
 ![影像6](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-6.png)
 
