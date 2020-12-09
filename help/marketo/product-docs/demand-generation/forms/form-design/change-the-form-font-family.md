@@ -3,9 +3,9 @@ unique-page-id: 2359608
 description: 變更表單字型系列——行銷人員檔案——產品檔案
 title: 變更表單字型系列
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Google字型非常棒，我們直接將它們內建在表格編輯器中。 看�
 
 瞭解在表單上變更字型系列有多簡單？ 好，現在已完成，讓我們學習如何變更表格字型大小。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [變更表格字型大小](change-the-form-font-size.md)
 
