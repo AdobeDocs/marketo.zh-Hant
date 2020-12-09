@@ -3,9 +3,9 @@ unique-page-id: 2359451
 description: 選擇現有的電子郵件——行銷人員檔案——產品檔案
 title: 選擇現有電子郵件
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 選擇現有電子郵件 {#choose-an-existing-email}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立電子郵件方案](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [使用智慧型清單定義對象](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ，或 [透過匯入清單定義對象](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
