@@ -3,9 +3,9 @@ unique-page-id: 4720710
 description: 為您的電子郵件傳遞能力設定SPF和DKIM —— 行銷人員檔案——產品檔案
 title: 設定SPF和DKIM以實現電子郵件傳遞
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ DKIM公司的運作方式為何？
 
 請參閱 [設定自訂DKIM簽名](set-up-a-custom-dkim-signature.md)。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [進一步瞭解SPF及其運作方式](http://www.open-spf.org/Introduction/)
 >* [Marketo的電子郵件傳遞能力工具](https://www.marketo.com/software/email-marketing/email-deliverability/)
