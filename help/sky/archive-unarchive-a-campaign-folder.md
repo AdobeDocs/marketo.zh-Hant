@@ -2,9 +2,9 @@
 title: archive-unarchive-a-campaign-folder
 description: '封存／取消封存促銷活動資料夾 '
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## 轉換為存檔資料夾
 
-按一下右鍵任意資料夾，然後選擇「 [!UICONTROL **轉換為存檔資料夾」**]。
+按一下右鍵任意資料夾並選擇 **[!UICONTROL Convert To Archive Folder]**。
 
 ![影像一](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-1.png)
 
