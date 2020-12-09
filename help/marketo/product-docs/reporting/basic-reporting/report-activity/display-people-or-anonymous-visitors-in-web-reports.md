@@ -3,9 +3,9 @@ unique-page-id: 2360008
 description: 在網頁報表——行銷檔案——產品檔案中顯示人物或匿名訪客
 title: 在Web報表中顯示人物或匿名訪客
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 在Web報表中顯示人物或匿名訪客 {#display-people-or-anonymous-visitors-in-web-reports}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[將Munchkin追蹤程式碼新增至您的網站](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
