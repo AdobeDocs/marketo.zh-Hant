@@ -3,9 +3,9 @@ unique-page-id: 2360052
 description: 已檢視的網頁、網頁活動報表——行銷檔案——產品檔案
 title: 已檢視的網頁、網頁活動報表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 從「網 [頁活動」報表](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)，您可以看到報表中的人員檢視的特定頁面。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >若要從您的網站擷取Marketo中的活動，您必須先在 [您的網站上設定Munchkin](../../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
 
