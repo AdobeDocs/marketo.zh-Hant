@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: 在智慧型清單——行銷人員檔案——產品檔案中使用資料值變更的篩選
 title: 在智慧型清單中使用資料值變更的篩選
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 值在您的Marketo資料庫中不斷變更和更新。 有時候，您不想尋找特定值，而是想尋找價值有所改變的人。 這是方法。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
