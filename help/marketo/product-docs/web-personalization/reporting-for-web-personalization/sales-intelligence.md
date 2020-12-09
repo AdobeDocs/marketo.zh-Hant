@@ -3,9 +3,9 @@ unique-page-id: 10096420
 description: 銷售智慧——行銷人員檔案——產品檔案
 title: 銷售智慧
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Marketo Web Personalization提供有關匿名和已知造訪您網站的網站�
 >
 >我們建議您在Marketo Web Personalization中，以僅限檢視的權限設定銷售主管。 這表示他們可以檢視所有頁面，但不能建立、編輯或刪除任何功能。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [電子郵件報表](email-reports.md)
 
