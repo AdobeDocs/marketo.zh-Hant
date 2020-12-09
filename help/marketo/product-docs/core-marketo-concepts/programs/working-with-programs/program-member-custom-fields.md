@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: 方案會員自訂欄位——行銷檔案——產品檔案
 title: 方案會員自訂欄位
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -71,9 +71,7 @@ ht-degree: 0%
 * 支援透過Listand [](http://docs.marketo.com/x/egAk)[](http://developers.marketo.com/)API匯入和匯出。
 * 當您合併兩個人時，將會使用贏家的方案會員自訂欄位資料。 但如果成功者沒有，則會使用失敗者的值。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[在Marketo中建立自訂欄位](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
