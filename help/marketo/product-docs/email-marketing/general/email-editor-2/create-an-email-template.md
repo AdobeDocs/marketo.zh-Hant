@@ -3,9 +3,9 @@ unique-page-id: 10096400
 description: 建立電子郵件範本——行銷人員檔案——產品檔案
 title: 建立電子郵件範本
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ht-degree: 0%
 
 若要自訂您的電子郵件範本，請參閱以下文章。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[電子郵件範本語法](email-template-syntax.md)
 
