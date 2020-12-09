@@ -3,9 +3,9 @@ unique-page-id: 7512272
 description: 將WebEx新增為LaunchPoint服務——行銷人員檔案——產品檔案
 title: 將WebEx新增為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Market可管理您的WebEx網路研討會註冊和出席情況。
 
    ![](assets/webex.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >瞭解如何 [使用WebEx建立活動](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)。
 
