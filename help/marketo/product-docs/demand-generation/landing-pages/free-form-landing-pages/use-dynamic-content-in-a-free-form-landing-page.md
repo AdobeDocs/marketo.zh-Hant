@@ -3,9 +3,9 @@ unique-page-id: 2359732
 description: 在自由格式登陸頁面——行銷人員檔案——產品檔案中使用動態內容
 title: 在自由格式著陸頁面中使用動態內容
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 在「著陸頁面」中使用動態內容可讓受眾獲得目標資訊。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立區段](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [建立自由格式著陸頁面](create-a-free-form-landing-page.md)
