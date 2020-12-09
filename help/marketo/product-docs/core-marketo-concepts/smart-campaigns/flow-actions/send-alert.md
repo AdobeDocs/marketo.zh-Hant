@@ -3,9 +3,9 @@ unique-page-id: 1146958
 description: 傳送警報——行銷人員檔案——產品檔案
 title: 傳送警報
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ Marketo可傳送含個人資訊的電子郵件警報給任何人——銷售擁�
 
 就這樣！ 現在，您知道如何使用「傳送警 **報流程** 」步驟。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[建立電子郵件](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
