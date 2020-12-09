@@ -3,9 +3,9 @@ unique-page-id: 7514151
 description: 歸因範例4 —— 行銷人員檔案——產品檔案
 title: 歸因範例4
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ ht-degree: 0%
 
 請試用所有範例，您就是歸因專家！
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [歸因範例1](attribution-example-1.md)
 >* [歸因範例2](attribution-example-2.md)
