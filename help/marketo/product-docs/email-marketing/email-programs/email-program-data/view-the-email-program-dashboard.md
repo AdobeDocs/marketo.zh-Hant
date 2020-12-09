@@ -3,9 +3,9 @@ unique-page-id: 2359469
 description: 檢視電子郵件計畫儀表板——行銷人員檔案——產品檔案
 title: 檢視電子郵件計畫儀表板
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
 >
 >將游標暫留在圖表Widget上，以進行實驗。 它將向您顯示其他資訊。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用電子郵件計畫儀表板- A/B測試視圖](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 >* [使用電子郵件計畫儀表板](use-the-email-program-dashboard.md)
