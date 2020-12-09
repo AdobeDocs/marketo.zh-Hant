@@ -2,9 +2,9 @@
 title: define-a-smart-list-for-a-batch-campaign
 description: 定義批次促銷活動的智慧型清單
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 智慧型清單是整個行銷人員定義要納入的「誰」（哪些人）的機制，不論是報表、清單或智慧型促銷活動。 以下是如何定義批次促銷活動的智慧清單。
 
-1. 選擇智慧型促銷活動，然後按一下「 [!UICONTROL **智慧型清單**]」。
+1. 選擇智慧型促銷活動，然後按一下 **[!UICONTROL Smart List]**。
 
    ![影像一](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
    >
    >您可以新增觸發器，讓智慧型促銷活動在即時事件的基礎上，一次在一個人上執行，這會將智慧型促銷活動置於觸發器模式。
 
-1. 按一下下拉式清單，然後為您選擇的篩選 [!UICONTROL **器選擇**]( [!UICONTROL **例如is**]、is not.等)。
+1. 按一下下拉式清單並選擇篩選運算子(例如 **[!UICONTROL is]**、 **[!UICONTROL is not]**&#x200B;等)。
 
    ![影像三](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-3.png)
 
