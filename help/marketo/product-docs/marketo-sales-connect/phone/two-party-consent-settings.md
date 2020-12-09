@@ -3,9 +3,9 @@ unique-page-id: 45416566
 description: 雙方同意設定——行銷人員檔案——產品檔案
 title: 雙方同意設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 為了確保在錄制呼叫時遵守美國雙方同意法，身為管理員，您可以啟用您選擇的預先錄制訊息，在呼叫開始時播放。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >在執行下列步驟之前，您必須先啟 [用呼叫錄制。](http://docs.marketo.com/x/dAC1Ag)
 
