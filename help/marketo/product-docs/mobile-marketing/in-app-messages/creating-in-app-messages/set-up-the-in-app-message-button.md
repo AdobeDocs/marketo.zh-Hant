@@ -3,9 +3,9 @@ unique-page-id: 10100644
 description: 設定應用程式內訊息按鈕——行銷人員檔案——產品檔案
 title: 設定應用程式內訊息按鈕
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ ht-degree: 0%
 
 快到了。 最後一步是。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [瞭解應用程式內訊息](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [為您的應用程式內訊息選擇版面](choose-a-layout-for-your-in-app-message.md)
