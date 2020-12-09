@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 第3步（共3步）-將Microsoft Dynamics與Marketo（線上）連接- Marketo Docs —— 產品檔案
 title: 第3步（共3步）-將Microsoft Dynamics與Marketo連接（線上）
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 這是同步的最後一步。 快到了！
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [步驟1（共3步）:安裝Marketo解決方案（線上）](step-1-of-3-install.md)
    >
