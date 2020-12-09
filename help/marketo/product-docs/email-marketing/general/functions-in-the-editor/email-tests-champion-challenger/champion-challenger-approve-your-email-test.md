@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: 冠軍／挑戰者——批准您的電子郵件測試——行銷人員檔案——產品檔案
 title: 冠軍／挑戰者——批准您的電子郵件測試
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 設定電子郵件測試以核准的最後一步。 這是方法。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [冠軍／挑戰者：設定報表警報](champion-challenger-configure-report-alerts.md)
 
