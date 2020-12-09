@@ -3,9 +3,9 @@ unique-page-id: 2950617
 description: 在電子郵件中使用動態內容——行銷檔案——產品檔案
 title: 在電子郵件中使用動態內容
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 在電子郵件中使用動態內容 {#using-dynamic-content-in-an-email}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立區段](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
