@@ -3,9 +3,9 @@ unique-page-id: 1146966
 description: 在智慧型促銷活動中檢視合格人員——行銷人員檔案——產品檔案
 title: 在智慧型促銷活動中檢視合格人員
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ ht-degree: 0%
 
 真貼心！ 您可以使用這個清單來檢查哪些人在執行智慧型促銷活動之前可能會瀏覽流程。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [檢視智慧型促銷活動成員](view-smart-campaign-members.md)
 >* [在智慧型促銷活動中檢視被封鎖的人員](view-blocked-people-in-a-smart-campaign.md)
