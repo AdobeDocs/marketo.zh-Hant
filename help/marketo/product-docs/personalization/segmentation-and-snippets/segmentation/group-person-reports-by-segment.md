@@ -3,9 +3,9 @@ unique-page-id: 2359492
 description: 依區段劃分的群組人員報表——行銷人員檔案——產品檔案
 title: 按區段分組人員報表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ ht-degree: 0%
 >
 >若要進一步瞭解細分以及如何建立和管理，請參 [閱細分](http://docs.marketo.com/display/docs/segmentation+and+snippets) 。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [新增自訂欄至人員報表](../../../../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
 
