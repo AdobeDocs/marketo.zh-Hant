@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: 為網頁豐富式媒體啟用預測式內容——行銷檔案——產品檔案
 title: 為網頁豐富式媒體啟用預測式內容
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 預測性內容運用機器學習和預測性分析提供最相關的內容，吸引您的網頁訪客。 有了Web Rich Media，您就可以透過文字說明和影像來增強內容，並在網站上內嵌多種預測性內容建議。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >在啟用預測性內容之前，您必須：
 >
