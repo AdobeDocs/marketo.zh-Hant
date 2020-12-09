@@ -3,9 +3,9 @@ unique-page-id: 2949178
 description: 瞭解SEO儀表板-SEO快照——行銷文檔——產品文檔
 title: 瞭解SEO儀表板-SEO快照
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ ht-degree: 0%
 
 輕鬆吧？ 現在，讓我們來看看此控制面板的「建議」區段。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [瞭解控制面板：SEO建議](understanding-the-seo-dashboard-seo-recommendations.md)
 
