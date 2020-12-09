@@ -3,9 +3,9 @@ unique-page-id: 10096681
 description: 瞭解網路研討會計畫狀態——行銷檔案——產品檔案
 title: 瞭解網路研討會計畫狀態
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 >
 >為了讓Market取得「無顯示」狀態，人員必須已在Marketo *中註冊*。 我們無法擷取來自On24資料饋送的「否顯示」。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [瞭解Marketo ON24適配器事件](understanding-marketo-on24-adapter-events.md)
 
