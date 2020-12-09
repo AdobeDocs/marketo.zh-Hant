@@ -3,9 +3,9 @@ unique-page-id: 11384634
 description: 預測性內容摘要——行銷檔案——產品檔案
 title: 預測性內容摘要
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 >
 >如果您按一下類別連結(上圖中的範例：leadgen、電子郵件等)。 它會開啟「所有內容」頁面，其中您點按的類別已新增至篩選，顯示該類別的內容分析。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用所有內容](http://docs.marketo.com/display/docs/working+with+all+content)
 >* [使用預測性內容](http://docs.marketo.com/display/docs/working+with+predictive+content)
