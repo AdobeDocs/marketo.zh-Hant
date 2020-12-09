@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: 驗證Microsoft Dynamics Sync —— 行銷檔案——產品檔案
 title: 驗證Microsoft Dynamics Sync
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ ht-degree: 0%
    >
    >我們目前不支援Marketo Dynamics Sync的沙盒重新整理。 如果您需要重新整理Dynamics CRM沙盒，將需要新的Marketo沙盒。 如需詳細資訊，請連絡您的客戶成功經理。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[修正動態驗證同步問題](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
 
