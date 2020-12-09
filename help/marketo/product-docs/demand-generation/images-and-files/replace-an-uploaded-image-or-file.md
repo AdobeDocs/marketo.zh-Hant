@@ -3,9 +3,9 @@ unique-page-id: 2359876
 description: 取代已上傳的影像或檔案——行銷人員檔案——產品檔案
 title: 取代已上傳的影像或檔案
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ ht-degree: 0%
 
 你成功了！
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [搜尋已上傳的影像和檔案](search-uploaded-images-and-files.md)
 >* [尋找已上傳影像或檔案的URL](find-the-url-of-an-uploaded-image-or-file.md)
