@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: 稽核記錄概述——行銷人員檔案——產品檔案
 title: 稽核記錄概述
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Marketo會稽核下列 [項目的建立、編輯](http://docs.marketo.com/displa
 >
 >**未知：** 在稽核記錄中，您可能會看到使用者的名稱和電子郵件列為「未知」。 當您在CRM中變更選取清單值時，就會發生此情況。 這些值會顯示在Marketo表單和登陸頁面中。 在CRM端執行此更新時，會自動繪製參照表單的著陸頁面。 在稽核記錄中，我們會擷取著陸頁面已起草，但使用者名稱和電子郵件會顯示為「未知」，因為我們無法從CRM端擷取使用者資訊。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [啟用審計線索](enable-audit-trail.md)
 
