@@ -3,9 +3,9 @@ unique-page-id: 2949844
 description: 建立新的活動計畫——行銷檔案——產品檔案
 title: 建立新的事件方案
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ ht-degree: 0%
 
 再見！ 您的新事件現在會顯示在樹狀結構中。 建立活動後，請建立 [登陸頁面](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)、 [表單](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)，以 [及電子郵](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 件，邀請您的來賓！ 您也會想要熟悉計畫排程 [檢視](http://docs.marketo.com/display/docs/program+schedule+view)。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [行銷行事歷](http://docs.marketo.com/display/docs/marketing+calendar)
 >* [在計畫中使用期間成本](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
