@@ -3,9 +3,9 @@ unique-page-id: 1147239
 description: 將計畫狀態欄新增至計畫報表——行銷人員檔案——產品檔案
 title: 將程式狀態列添加到程式報表
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ ht-degree: 0%
 >
 >如果您在程式中未看到每個狀態的欄，請確定您已 [選取要在報表中顯示的欄](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [依標籤篩選程式報表](filter-a-program-report-by-tag.md)
 
