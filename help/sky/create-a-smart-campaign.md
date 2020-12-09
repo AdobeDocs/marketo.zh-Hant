@@ -2,9 +2,9 @@
 title: 建立智慧型促銷活動
 description: 建立智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-1.png)
 
-1. 以滑鼠右鍵按一下您的選擇，然後選擇「 [!UICONTROL **建立智慧型促銷活動**]」。
+1. 以滑鼠右鍵按一下您的選擇範圍，然後選擇 **[!UICONTROL Create Smart Campaign]**。
 
    ![影像2](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-2.png)
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 >
 >您可以建立智慧型促銷活動，作為任何方案的本機資產。
 
-1. 為智慧型促銷活動命名（並新增可選說明／標籤），然後按一 [!UICONTROL **下建立**]。
+1. 為智慧型促銷活動命名（並新增可選說明／標籤），然後按一下 **[!UICONTROL Create]**。
 
    ![影像三](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-3.png)
