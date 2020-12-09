@@ -3,9 +3,9 @@ unique-page-id: 10100642
 description: 建立應用程式內訊息文字——行銷檔案——產品檔案
 title: 建立應用程式內訊息文字
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ ht-degree: 0%
 
 你是金子。 接下來，您需要 [設定應用程式內訊息按鈕](set-up-the-in-app-message-button.md)。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [瞭解應用程式內訊息](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [為您的應用程式內訊息選擇版面](choose-a-layout-for-your-in-app-message.md)
