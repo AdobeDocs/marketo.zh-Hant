@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: 啟用內容建議列——行銷檔案——產品檔案
 title: 啟用內容建議列
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 內容建議引擎使用預測性分析和機器學習演算法，將相關內容傳遞給每位網頁訪客。 建議引擎會預測哪些內容對每位訪客的效能最佳。 引擎的內容會在Recommendations頁面下受到監控和控制，協助您最佳化內容投資報酬率。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >在啟用預測性內容之前，您必須：
 >
