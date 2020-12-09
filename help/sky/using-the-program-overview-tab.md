@@ -2,9 +2,9 @@
 title: using-the-program-overview-tab
 description: 使用方案概述頁籤
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-標籤下有三個 [!UICONTROL Program Overview] 部分： [!UICONTROL **詳細資**]&#x200B;料 [!UICONTROL **、排程**]&#x200B;和 [!UICONTROL **報表**]。 以下是每個例子。
+標籤下有三個 [!UICONTROL Program Overview] 部分： **[!UICONTROL Details]**、 **[!UICONTROL Schedule]**&#x200B;和 **[!UICONTROL Reports]**。 以下是每個例子。
 
 ## 詳細資訊
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![影像一](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-頁面底部有兩個區段： [!UICONTROL **程式統計資**] 料 [!UICONTROL **及使用者**]。 [!UICONTROL **「計畫統計資料**] 」會顯示有關計畫效能的關鍵量度，而「使用者」 [!UICONTROL ****] 是您在Marketo中使用程式的簡易方式。
+頁面底部有兩個區段： **[!UICONTROL Program Stats]** 和 **[!UICONTROL Used By]**。 **[!UICONTROL Program Stats]** 顯示有關程式效能的關鍵量度， **[!UICONTROL Used By]** 並是您在Marketo中使用程式的簡易方式。
 
 ![影像2](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
