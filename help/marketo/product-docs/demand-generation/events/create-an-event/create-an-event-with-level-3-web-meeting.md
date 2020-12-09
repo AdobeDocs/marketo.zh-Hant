@@ -3,9 +3,9 @@ unique-page-id: 7512328
 description: 使用Level 3 Web會議——行銷檔案——產品檔案建立活動
 title: 使用第3級Web會議建立活動
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 使用第3級Web會議建立活動 {#create-an-event-with-level-web-meeting}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [將第3級Web會議新增為LaunchPoint服務](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [建立新的事件方案](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
