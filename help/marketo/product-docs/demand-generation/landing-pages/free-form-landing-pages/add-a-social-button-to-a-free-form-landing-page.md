@@ -3,9 +3,9 @@ unique-page-id: 2359718
 description: 將Social按鈕新增至自由格式的登陸頁面——行銷人員檔案——產品檔案
 title: 新增社交按鈕至自由格式著陸頁面
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -55,8 +55,6 @@ ht-degree: 0%
 
 恭喜！ 您已將社交按鈕新增至著陸頁面。 請務必核准登陸頁面。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >您已經完成，但您可以視需要變更社交按鈕的設定。 從自訂 [按鈕樣式開始](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) , [或編輯其顯示的共用訊息開始](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) 。
