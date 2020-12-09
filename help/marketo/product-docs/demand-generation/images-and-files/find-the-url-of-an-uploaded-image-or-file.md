@@ -3,9 +3,9 @@ unique-page-id: 2359870
 description: 尋找已上傳影像或檔案的URL —— 行銷人員檔案——產品檔案
 title: 尋找已上傳影像或檔案的URL
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ ht-degree: 0%
 
 為了做得好，請自己輕輕一點！
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [取代已上傳的影像或檔案](replace-an-uploaded-image-or-file.md)
 
