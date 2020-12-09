@@ -3,9 +3,9 @@ unique-page-id: 1146985
 description: 重新排序智慧型促銷活動——行銷檔案——產品檔案中的流程步驟
 title: 在智慧型促銷活動中重新排序流程步驟
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 流程步驟從上到下執行。 以下是如何依您的需求重新排序流程步驟。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [新增流量步驟至智慧型促銷活動](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
