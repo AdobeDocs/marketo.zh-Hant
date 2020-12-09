@@ -3,9 +3,9 @@ unique-page-id: 4719300
 description: 新增／移除自訂物件欄位為智慧型清單／觸發器限制——行銷人員檔案——產品檔案
 title: 將自定義對象欄位添加／刪除為智慧清單／觸發器約束
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -68,9 +68,7 @@ Marketo提供對Salesforce自訂物件同步的精細控制。 這可讓您在�
 
 哇！ 現在，您的智慧清單和智慧型宣傳活動的威力更大。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [啟用／停用自訂物件同步](enable-disable-custom-object-sync.md)
 
