@@ -3,9 +3,9 @@ unique-page-id: 10096677
 description: 測試您的ON24事件整合——行銷檔案——產品檔案
 title: 測試您的ON24事件整合
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 * Marketo每晚從ON24擷取參與者資料。
 * 當參與者資料在Marketo和ON24之間同步後，Marketo會將會籍狀態更新為「已出席」、「已參加隨選」或「無顯示」。 在事件的「摘 **要** 」標籤中，事件狀態會更新為「事 **件完成」**。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [ON24事件整合範例](example-on24-event-integration.md)
 >* [瞭解Marketo ON24適配器事件](understanding-marketo-on24-adapter-events.md)
