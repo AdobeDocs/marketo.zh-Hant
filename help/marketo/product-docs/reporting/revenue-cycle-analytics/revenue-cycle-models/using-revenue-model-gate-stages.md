@@ -3,9 +3,9 @@ unique-page-id: 4718670
 description: 使用收入模型登入階段——行銷檔案——產品檔案
 title: 使用收入模型門階段
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ ht-degree: 0%
 
 恭喜！ 現在，你瞭解了門舞台的美妙世界。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用收入模型庫存階段](using-revenue-model-inventory-stages.md)
 >* [使用收入模型SLA階段](using-revenue-model-sla-stages.md)
