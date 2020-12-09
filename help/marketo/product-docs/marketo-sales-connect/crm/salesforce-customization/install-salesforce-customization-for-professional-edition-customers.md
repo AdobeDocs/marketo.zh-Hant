@@ -3,9 +3,9 @@ unique-page-id: 27656223
 description: 為專業版客戶安裝Salesforce自訂——行銷檔案——產品檔案
 title: 為專業版客戶安裝Salesforce自訂
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 使用Salesforce Professional Edition的客戶必須依照下列步驟安裝自訂。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* 銷售連線管理員需要連接其Salesforce和Sales Connect帳戶。
 >* 使用的Salesforce例項需要有空間才能安裝十三個自訂活動欄位。
