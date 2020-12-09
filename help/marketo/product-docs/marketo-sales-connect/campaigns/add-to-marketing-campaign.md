@@ -3,9 +3,9 @@ unique-page-id: 14745611
 description: 新增至行銷促銷活動——行銷檔案——產品檔案
 title: 新增至行銷促銷活動
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 新增至行銷促銷活動 {#add-to-marketing-campaign}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[讓促銷活動對銷售使用者可見](http://docs.marketo.com/x/NwDh)
 
