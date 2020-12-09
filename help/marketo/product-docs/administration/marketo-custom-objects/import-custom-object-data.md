@@ -3,9 +3,9 @@ unique-page-id: 10099680
 description: 匯入自訂物件資料——行銷人員檔案——產品檔案
 title: 匯入自訂物件資料
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ht-degree: 0%
 
    耶！
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [瞭解Marketo自訂物件](understanding-marketo-custom-objects.md)
 
