@@ -3,9 +3,9 @@ unique-page-id: 2360235
 description: 建立機會影響分析器——行銷檔案——產品檔案
 title: 建立機會影響分析器
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ ht-degree: 0%
 >
 >您也可以觀看有關 [Marketo University中Opportunity Influce Analyzer的影片](https://learn.marketo.com)。 （現在看起來有些不同，但還有很多要學的！）
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用Opportunity Inflection Analyzer講述行銷故事](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [配置Opportunity Effence Analyzer](configure-an-opportunity-influence-analyzer.md)
