@@ -3,9 +3,9 @@ unique-page-id: 4719404
 description: AB測試您的Web促銷活動——行銷檔案——產品檔案
 title: AB測試您的Web促銷活動
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -77,9 +77,7 @@ ht-degree: 0%
 
 
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [建立對話方塊促銷活動](create-a-new-dialog-web-campaign.md)
 >* [在區域促銷活動中建立RTP](create-a-new-in-zone-web-campaign.md)
