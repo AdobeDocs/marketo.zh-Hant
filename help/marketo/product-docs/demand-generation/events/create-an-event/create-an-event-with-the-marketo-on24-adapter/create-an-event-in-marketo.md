@@ -3,9 +3,9 @@ unique-page-id: 10096725
 description: 在Marketo - Marketo Docs —— 產品檔案中建立活動
 title: 在Marketo中建立活動
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ Marketo活動會透過程式追蹤您人員的發展。 它使用ON24適配器�
 
 您的下一步是設定 [活動設定，並將Marketo與您的網路研討會同步](https://docs.marketo.com/x/IRCa)。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [瞭解Marketo ON24適配器事件](understanding-marketo-on24-adapter-events.md)
 
