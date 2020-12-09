@@ -3,9 +3,9 @@ unique-page-id: 2359663
 description: 設定隱藏的表單欄位值——行銷檔案——產品檔案
 title: 設定隱藏表單欄位值
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 隱藏欄位通常會動態填入。 不會向填寫表格的人顯示。 以下是如何設定值。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[將表單欄位設為隱藏](set-a-form-field-as-hidden.md)
 
