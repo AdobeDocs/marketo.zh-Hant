@@ -3,9 +3,9 @@ unique-page-id: 2953207
 description: 建立新的促銷活動資料夾——行銷人員檔案——產品檔案
 title: 建立新的促銷活動資料夾
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
 
    現在， [建立新方案時](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)，您會將此促銷活動資料夾視為選項。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [建立方案](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [建立新的智慧型促銷活動](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
