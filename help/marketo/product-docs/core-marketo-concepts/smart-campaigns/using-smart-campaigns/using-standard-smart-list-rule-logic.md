@@ -3,9 +3,9 @@ unique-page-id: 1147001
 description: 使用標準智慧型清單規則邏輯——行銷檔案——產品檔案
 title: 使用標準智慧型清單規則邏輯
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 
 上述智慧型清單的字詞如下：`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` 因此，如果某人填寫表單或瀏覽頁面 **** ，促銷活動就會根據**所有**或**任何**後續篩選條件來評估該人，視使用的設定而定。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用高級智慧清單規則邏輯](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
 
