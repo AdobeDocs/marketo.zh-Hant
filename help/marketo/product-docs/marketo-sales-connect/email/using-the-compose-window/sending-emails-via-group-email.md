@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: 透過群組電子郵件傳送電子郵件——行銷人員檔案——產品檔案
 title: 透過群組電子郵件傳送電子郵件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ ht-degree: 0%
    >
    >在傳送群組電子郵件出去時，您可以對電子郵件／範本進行大量編輯，但無法對清單中的特定收件者進行唯一編輯。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [大量傳送選項](http://docs.marketo.com/x/HwQ6Ag)
 >* [在合成窗口中使用模板](http://docs.marketo.com/x/MQQ6Ag)
