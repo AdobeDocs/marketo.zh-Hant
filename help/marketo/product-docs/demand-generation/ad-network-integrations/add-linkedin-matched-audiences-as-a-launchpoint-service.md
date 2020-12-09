@@ -3,9 +3,9 @@ unique-page-id: 7504163
 description: 將LinkedIn符合的觀眾新增為LaunchPoint服務——行銷人員檔案——產品檔案
 title: 將LinkedIn符合的觀眾新增為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ ht-degree: 0%
 
    ![](assets/bartholomew2.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用行銷人員清單或智慧清單作為LinkedIn觀眾區隔](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
