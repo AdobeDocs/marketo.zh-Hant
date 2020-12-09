@@ -3,9 +3,9 @@ unique-page-id: 11371065
 description: 將模組新增至您的電子郵件——行銷人員檔案——產品檔案
 title: 將模組添加到電子郵件
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ ht-degree: 0%
 
 就這麼簡單。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[電子郵件範本語法](email-template-syntax.md)
 
