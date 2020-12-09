@@ -3,9 +3,9 @@ unique-page-id: 1147360
 description: 將Token新增至電子郵件連結——行銷人員檔案——產品檔案
 title: 新增Token至電子郵件連結
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ ht-degree: 0%
 
    就這樣！
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [在我的Token中使用URL](using-urls-in-my-tokens.md)
 
