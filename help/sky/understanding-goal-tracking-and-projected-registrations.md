@@ -2,9 +2,9 @@
 title: 瞭解目標跟蹤和預測註冊
 description: 瞭解目標追蹤和預計註冊
 translation-type: tm+mt
-source-git-commit: 1231bc32a3abdf66c10864d6605234763618dbe0
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '976'
+source-wordcount: '969'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 ## 目標追蹤和預計註冊
 
-1. 您可以在事件程式的「報表」索 [!UICONTROL **引標籤中**] ，找到目標追蹤詳細資訊。 在這個具體例子中，到目前為止有150名註冊會員，而目標是200(75%)。
+1. 您可以在事件程式的標籤中找 **[!UICONTROL Reports]** 到目標追蹤詳細資訊。 在這個具體例子中，到目前為止有150名註冊會員，而目標是200(75%)。
 
    ![影像一](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-您也會看到您的「預 [!UICONTROL **計註冊**] 」。 將滑鼠指標暫留在資訊圖示上，即可檢視此數字的「似然」區段劃分。
+您也會看到您的注 **[!UICONTROL Projected]** 冊。 將滑鼠指標暫留在資訊圖示上，即可檢視此數字的「似然」區段劃分。
 
 ![影像2](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ## 人員層級預測
 
-按一下「[!UICONTROL **成員**] 」(Members)頁籤查看所有方案成員。 將滑鼠指標暫留 [!UICONTROL **在「註冊似然**] 」或「 [!UICONTROL ****] 考勤似然」列上，以檢視確切的百分比和分類。 然後，您可以針對特定類別的會員採取行動（例如，「不太可能」註冊類別的每個會員），並特別鎖定他們以提高註冊人數。
+按一下該&#x200B;**[!UICONTROL Members]** 頁籤可查看您的所有方案成員。 將滑鼠指標暫留 **[!UICONTROL Registration Likelihood]** 在或 **[!UICONTROL Attendance Likelihood]** 長條上，以檢視確切的百分比和分類。 然後，您可以針對特定類別的會員採取行動（例如，「不太可能」註冊類別的每個會員），並特別鎖定他們以提高註冊人數。
 
 ![影像7](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
