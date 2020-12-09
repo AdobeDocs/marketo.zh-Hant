@@ -2,9 +2,9 @@
 title: override-person-restrictions-in-a-smart-campaign
 description: 在智慧型促銷活動中覆寫人員限制
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Marketo可讓您設定最多人數，以符合智慧型促銷活動的資格；�
 >
 >請務必在Marketo [中為智慧型促銷活動啟用](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) 「人員限制」 [!UICONTROL Admin]。
 
-1. 尋找您的智慧型促銷活動，然後按一 [!UICONTROL **下排程**]。
+1. 尋找您的智慧型促銷活動，然後按一下 **[!UICONTROL Schedule]**。
 
    ![影像一](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-1.png)
 
-1. 按一 [!UICONTROL **下「限定規則**]」。
+1. 按一 **[!UICONTROL Qualification Rules]**&#x200B;下。
 
    ![影像2](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-2.png)
 
@@ -32,7 +32,7 @@ Marketo可讓您設定最多人數，以符合智慧型促銷活動的資格；�
    >
    >預設限制是「管理」中設定的限制。
 
-1. 如果合格 [!UICONTROL **銷售線索超過，則在「中止促銷活動」旁**]，輸入新的限制。
+1. 在旁 **[!UICONTROL Abort campaign if qualified leads exceed]**&#x200B;邊輸入新限制。
 
    ![影像三](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-3.png)
 
