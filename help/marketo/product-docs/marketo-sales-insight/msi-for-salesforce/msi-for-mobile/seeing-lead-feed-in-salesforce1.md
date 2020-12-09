@@ -3,9 +3,9 @@ unique-page-id: 7512654
 description: 在Salesforce1中檢視銷售機會資訊源1 —— 行銷檔案——產品檔案
 title: 在Salesforce中查看銷售線索1
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-17-3a20-3a12.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [Salesforce中的有趣時刻1](interesting-moments-in-salesforce1.md)
 >* [在Salesforce中傳送Marketon至電子郵件和促銷活動與監看清單動作1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
