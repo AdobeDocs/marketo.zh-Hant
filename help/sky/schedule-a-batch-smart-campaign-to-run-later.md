@@ -2,9 +2,9 @@
 title: schedule-a-batch-smart-campaign-to-run-later
 description: 排程批次智慧型促銷活動以稍後執行
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
-1. 前往「排程 [!UICONTROL **」標籤**] ，然後按一 [!UICONTROL **下「新增執行」**]。
+1. 轉到頁籤 **[!UICONTROL Schedule]** 並按一下 **[!UICONTROL Add Run]**。
 
    ![影像2](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
-1. 選 [!UICONTROL **取設定執行日期／時間**]，然後按一下日曆圖示，並選取您要執行智慧型促銷活動的日期。
+1. 選 **[!UICONTROL Set Run Date/Time]**&#x200B;取，然後按一下日曆圖示，並選取您要執行智慧型促銷活動的日期。
 
    ![影像三](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
@@ -36,6 +36,6 @@ ht-degree: 0%
 
    ![影像4](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-4.png)
 
-1. 按一 [!UICONTROL **下確認**]。
+1. 按一 **[!UICONTROL Confirm]**&#x200B;下。
 
    ![影像5](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-5.png)
