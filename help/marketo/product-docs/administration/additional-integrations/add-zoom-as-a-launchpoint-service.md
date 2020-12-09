@@ -3,9 +3,9 @@ unique-page-id: 17728028
 description: 將縮放新增為LaunchPoint服務——行銷人員檔案——產品檔案
 title: 將縮放新增為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Market來管理您的縮放註冊和出席率。
 >
 >當您在縮放中更新密碼時，也必須在Marketo中更新密碼。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >瞭解如何使用 [縮放來建立事件](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)。
 
