@@ -3,9 +3,9 @@ unique-page-id: 45417125
 description: 針對非原生Salesforce整合的Sales Insight —— 行銷檔案——產品檔案
 title: 針對非原生Salesforce整合的銷售分析
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '1270'
+source-wordcount: '1269'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 如果您的Marketo帳戶是透過自訂或非原生整合連線至Salesforce，請使用本檔案來設定Sales Insight。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* 聯絡您的客戶成功經理，為您的行銷實例啟用「MSI非原生」功能。
 >* 已設定MSI套件的Salesforce帳戶。
