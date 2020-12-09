@@ -3,9 +3,9 @@ unique-page-id: 7504051
 description: 管理人員資料——行銷人員檔案——產品檔案
 title: 管理人員資料
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -106,9 +106,7 @@ ht-degree: 0%
 
 新的Web個人化帳戶現成可用的銷售線索欄位如下：
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用已知人員資料建立區段](create-a-segment-using-known-person-data.md)
 
