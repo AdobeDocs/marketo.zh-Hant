@@ -3,9 +3,9 @@ unique-page-id: 2359555
 description: 冠軍／挑戰者——完整電子郵件——行銷檔案——產品檔案
 title: 冠軍／挑戰者——完整電子郵件
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 測試整封電子郵件。 當測試結束時，請傳出最佳執行者。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [新增電子郵件冠軍／挑戰者](add-an-email-champion-challenger.md)
 
