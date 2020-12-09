@@ -3,9 +3,9 @@ unique-page-id: 6095029
 description: 在「收入模型——行銷人員檔案——產品檔案」中設定Google AdWords轉換
 title: 在收入模型中設定Google AdWords轉換
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ ht-degree: 0%
 
 如果您使用「舞台動作」，可以從Market建立新的AdWords離線轉換。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [將Google AdWords新增為LaunchPoint服務](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
