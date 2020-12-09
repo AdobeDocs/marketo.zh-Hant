@@ -2,9 +2,9 @@
 title: my-token-score
 description: 我的代號分數
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/my-tokens/my-token-score/my-token-score-1.png)
 
-1. 輸入新Token的名稱，輸入分數值（例如-5、+10、=50），然後按一下「儲 [!UICONTROL **存」**]。
+1. 輸入新Token的名稱，輸入分數值（例如-5、+10、=50），然後按一下 **[!UICONTROL Save]**。
 
    ![影像2](/help/sky/assets/my-tokens/my-token-score/my-token-score-2.png)
