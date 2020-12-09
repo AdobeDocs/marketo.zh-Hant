@@ -3,9 +3,9 @@ unique-page-id: 10095644
 description: 核准包含非草稿的程式碼片段——行銷檔案——產品檔案
 title: 核准包含非草稿的程式碼片段
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ ht-degree: 0%
 >
 >此功能旨在透過程式碼片段核准工作流程節省時間。 但是，有一些限制需要注意。 如需詳細 [資訊](https://nation.marketo.com/docs/DOC-4415) ，請參閱本檔案。 檔案中也包含錯誤處理和疑難排解資訊。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[為片段啟用非草稿](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
 
