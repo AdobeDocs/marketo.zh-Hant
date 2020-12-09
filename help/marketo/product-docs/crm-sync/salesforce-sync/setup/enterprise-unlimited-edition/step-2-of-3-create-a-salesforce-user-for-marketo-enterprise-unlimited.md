@@ -3,9 +3,9 @@ unique-page-id: 2360364
 description: 第2步（共3步）-建立適用於行銷人員的Salesforce使用者（企業版／不限數量）-行銷人員檔案——產品檔案
 title: 第2步（共3步）-建立適用於行銷人員的Salesforce使用者（企業版／不限數量）
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >這些步驟必須由Salesforce管理員完成
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [步驟1（共3步）:將行銷人員欄位新增至Salesforce（企業版／無限製版）](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
