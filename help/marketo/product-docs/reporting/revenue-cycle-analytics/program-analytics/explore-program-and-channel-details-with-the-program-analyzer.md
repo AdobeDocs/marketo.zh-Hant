@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: 使用Program Analyzer - Marketo Docs —— 產品文檔瞭解計畫和渠道詳細資訊
 title: 使用Program Analyzer瞭解計畫和渠道詳細資訊
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 您可以在Program Analyzer中查看詳細的程式和頻道統計資料。 您也可以在「收入週期瀏覽器」中開啟這些項目。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立程式分析器](create-a-program-analyzer.md)
 
