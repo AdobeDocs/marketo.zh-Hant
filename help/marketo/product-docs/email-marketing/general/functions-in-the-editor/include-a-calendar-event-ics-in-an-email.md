@@ -3,9 +3,9 @@ unique-page-id: 1900565
 description: 在電子郵件——行銷人員檔案——產品檔案中加入日曆事件(.ic)
 title: 在電子郵件中包含日曆事件(.ics)
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 日曆檔案Token可讓您新增日曆事件(.ics)連結至您的Marketo電子郵件。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立日曆事件(.ics)檔案](create-a-calendar-event-ics-file.md)
 
