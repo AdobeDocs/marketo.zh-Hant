@@ -2,9 +2,9 @@
 title: 瞭解my-token
 description: 瞭解我的預付碼
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 0%
 * **[覆寫的Token:](/help/sky/override-an-inherited-my-token.md)** 代號是繼承的，但在此程式或資料夾中發生異常。
 * **繼承的Token:** 標籤是在樹狀結構中較高層級的程式或資料夾中建立的。
 
-您可以在方案或促銷活動資料夾的 [!UICONTROL **「我的預付碼**] 」標籤下找到這三種類型。
+您可以在方案或促銷活動資料夾 **[!UICONTROL My Tokens]** 的標籤下找到這三種類型。
 
 ![影像2](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## 代號使用
 
-選取任何Token，然後按一下右上角的使用圖示，即可查看包含該Token的資產清單。
+選取任何Token，然後按一下右上角的使用圖示，以查看包含該Token的資產清單。
 
 ![影像三](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-3.png)
 
