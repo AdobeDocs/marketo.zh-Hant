@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: 瞭解智慧型促銷活動——行銷檔案——產品檔案
 title: 瞭解智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 
 聰明的宣傳活動可以做很多事。 瞭解詳情後，您會發現Marketo中的一切都變得易於理解。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [建立新的智慧型促銷活動](creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
