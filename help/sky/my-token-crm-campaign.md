@@ -2,9 +2,9 @@
 title: my-token-crm-campaign
 description: 我的Token CRM促銷活動
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 >
 >CRM促銷活動我的Token僅適用於Salesforce整合。
 
-1. 在您方案或資料夾的「我的Token」標籤中，將 [!UICONTROL **CRM促銷活動Token拖曳至「本機Token**] 」畫布。
+1. 在程式或資料夾的「我的代號」標籤中，將代號拖 **[!UICONTROL CRM Campaign]** 曳至本機代號畫布。
 
    ![影像一](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-1.png)
 
-2. 輸入新Token的名稱，然後從下拉式清單中選取CRM促銷活動。 按一下 [!UICONTROL **儲存**]。
+2. 輸入新Token的名稱，然後從下拉式清單中選取CRM促銷活動。 按一 **[!UICONTROL Save]**&#x200B;下。
 
    ![影像2](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-2.png)
 
