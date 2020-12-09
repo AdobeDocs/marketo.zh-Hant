@@ -3,9 +3,9 @@ unique-page-id: 13795727
 description: 中止傳送與收件者時區排程的電子郵件程式——行銷人員檔案——產品檔案
 title: 中止傳送以收件者時區排程的電子郵件程式
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2018-2-23-11-3a30-3a46.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [瞭解收件者時區](understanding-recipient-time-zone.md)
 >* [計畫包含收件者時區的電子郵件程式](schedule-email-programs-with-recipient-time-zone.md)
