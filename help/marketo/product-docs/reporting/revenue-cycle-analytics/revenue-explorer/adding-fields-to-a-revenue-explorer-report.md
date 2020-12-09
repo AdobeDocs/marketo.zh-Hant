@@ -3,9 +3,9 @@ unique-page-id: 7504383
 description: 新增欄位至收入總管報表——行銷檔案——產品檔案
 title: 新增欄位至收入總管報表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -48,9 +48,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-15-3a55-3a7.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [刪除收入瀏覽器報表中的欄位](deleting-a-field-in-a-revenue-explorer-report.md)
 
