@@ -2,9 +2,9 @@
 title: save-smart-list-rules
 description: 保存智慧清單規則
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
-1. 按一下 [!UICONTROL **智慧清單**]。
+1. 按一 **[!UICONTROL Smart List]**&#x200B;下。
 
    ![影像2](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
@@ -32,11 +32,11 @@ ht-degree: 0%
 
    ![影像4](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
-1. 新增篩選器／觸發器後，按一下「智慧型促銷活 [!UICONTROL **動動作**] 」下拉式清單，並選 [!UICONTROL **取「儲存智慧型清單規則」**]。
+1. 新增篩選器／觸發器後，按一下下 **[!UICONTROL Smart Campaign Actions]** 拉式清單並選取 **[!UICONTROL Save Smart List Rule]**。
 
    ![影像5](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
-1. 為規則集命名，然後按一 [!UICONTROL **下儲存**]。
+1. 命名規則集，然後按一下 **[!UICONTROL Save]**。
 
    ![影像6](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-6.png)
 
@@ -48,11 +48,11 @@ ht-degree: 0%
 
    ![影像7](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
-1. 按一下 [!UICONTROL **智慧清單**]。
+1. 按一 **[!UICONTROL Smart List]**&#x200B;下。
 
    ![影像8](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
-1. 按一下「 [!UICONTROL **儲存的規則**] 」下拉式清單。
+1. 按一下 **[!UICONTROL Saved Rule]** 下拉式清單。
 
    ![影像9](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-9.png)
 
