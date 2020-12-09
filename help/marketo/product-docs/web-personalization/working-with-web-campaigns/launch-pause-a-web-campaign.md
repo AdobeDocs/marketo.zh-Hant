@@ -3,9 +3,9 @@ unique-page-id: 4719406
 description: 啟動／暫停Web促銷活動——行銷檔案——產品檔案
 title: 啟動／暫停Web促銷活動
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Web促銷活動是與特定群體相關的自訂反應，可以是您網站上�
 
    ![](assets/image2014-11-26-17-3a32-3a48.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [建立新對話方塊Web促銷活動](create-a-new-dialog-web-campaign.md)
 >* [在區域網頁促銷活動中建立新功能](create-a-new-in-zone-web-campaign.md)
