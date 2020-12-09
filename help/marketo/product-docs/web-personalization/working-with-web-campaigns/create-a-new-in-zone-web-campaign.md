@@ -3,9 +3,9 @@ unique-page-id: 4719400
 description: 在區域網路促銷活動中建立新功能——行銷檔案——產品檔案
 title: 在區域網頁促銷活動中建立新功能
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '696'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -119,9 +119,7 @@ Web促銷活動是與特定區段相關聯的自訂反應，可以是您網站�
 
 1. 會出現確認訊息，確認您是否要刪除促銷活動。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [建立新的Widget Web促銷活動](create-a-new-widget-web-campaign.md)
 >* [建立新對話方塊Web促銷活動](create-a-new-dialog-web-campaign.md)
