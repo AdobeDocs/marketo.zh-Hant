@@ -3,9 +3,9 @@ unique-page-id: 10096673
 description: 設定活動設定並將行銷人員同步至您的網路研討會——行銷人員檔案——產品檔案
 title: 設定活動設定並將Marketo與您的網路研討會同步
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 
 現在，您可以繼續下一個步驟：.
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [瞭解Marketo On24適配器事件](understanding-marketo-on24-adapter-events.md)
 >* [建立子促銷活動和本機資產](create-child-campaigns-and-local-assets.md)
