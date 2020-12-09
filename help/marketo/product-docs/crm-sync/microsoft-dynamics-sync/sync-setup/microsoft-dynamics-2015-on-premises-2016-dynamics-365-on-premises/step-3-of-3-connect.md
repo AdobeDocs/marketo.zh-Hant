@@ -3,9 +3,9 @@ unique-page-id: 7504744
 description: 安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟3（共3步）-行銷檔案——產品檔案
 title: 安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟3（共3步）
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟3（共3步） {#install-marketo-for-dynamics-on-prem-and-on-prem-step-of}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟1（共3步）](step-1-of-3-install.md)
 >* [安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟2（共3步）](step-2-of-3-set-up.md)
