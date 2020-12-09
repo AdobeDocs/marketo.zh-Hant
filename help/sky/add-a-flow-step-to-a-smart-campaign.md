@@ -2,9 +2,9 @@
 title: add-a-flow-step-to-a-smart-campaign
 description: 新增流量步驟至智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 新增流程步驟
 
-1. 在中 [!UICONTROL Marketing Activities]，選取您的智慧型促銷活動，然後按一 [!UICONTROL **下流量**]。
+1. 在中， [!UICONTROL Marketing Activities]選取您的智慧型促銷活動，然後按一下 **[!UICONTROL Flow]**。
 
    ![影像一](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
