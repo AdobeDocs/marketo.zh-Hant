@@ -3,9 +3,9 @@ unique-page-id: 2360274
 description: 管理標籤值——行銷檔案——產品檔案
 title: 管理標籤值
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[建立新的程式標籤和標籤值](create-a-new-program-tag-and-tag-values.md)
 
