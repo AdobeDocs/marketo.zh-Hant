@@ -2,9 +2,9 @@
 title: delete-a-smart-campaign
 description: 刪除智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-1.png)
 
-1. 在下拉 [!UICONTROL Campaign Actions] 式清單下選擇「 [!UICONTROL **刪除」**]。
+1. 在下拉 [!UICONTROL Campaign Actions] 式選取下方 **[!UICONTROL Delete]**。
 
    ![影像2](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-2.png)
 
@@ -32,6 +32,6 @@ ht-degree: 0%
    >
    >若要取消處理作用中的智慧型促銷活動而不加以刪除，請瞭解如何中 [止智慧型促銷活動](https://docs.marketo.com/display/DOCS/Abort+a+Smart+Campaign)。
 
-1. 按一 [!UICONTROL **下確認**]。
+1. 按一 **[!UICONTROL Confirm]**&#x200B;下。
 
    ![影像三](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-3.png)
