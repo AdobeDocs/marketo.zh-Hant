@@ -3,9 +3,9 @@ unique-page-id: 11384645
 description: 瞭解所有內容——行銷人員檔案——產品檔案
 title: 瞭解所有內容
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ ht-degree: 0%
 
 1. 現在，會針對所選日期範圍內的內容顯示分析。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [新增內容](add-new-content.md)
 >* [刪除內容](delete-content.md)
