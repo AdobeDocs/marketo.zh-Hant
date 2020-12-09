@@ -3,9 +3,9 @@ unique-page-id: 10096158
 description: 驗證行動存取安全性——行銷人員檔案——產品檔案
 title: 驗證行動存取安全性
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 若要啟用ID，您必須取得程式碼並提供給您的IT部門，如此才能設定安全比對。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >若要啟用此功能，請聯絡支援，並要求「Vespa安全模式」。
 
