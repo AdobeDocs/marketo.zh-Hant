@@ -2,9 +2,9 @@
 title: define-a-smart-list-for-a-trigger-campaign
 description: 定義觸發器促銷活動的智慧型清單
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 透過新增觸發器，讓智慧型促銷活動根據即時事件一次在一個人上執行。
 
-1. 選擇智慧型促銷活動，然後按一下「 [!UICONTROL **智慧型清單**]」。
+1. 選擇智慧型促銷活動，然後按一下 **[!UICONTROL Smart List]**。
 
    ![影像一](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-1.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >具有觸發器的智慧型促銷活動會在觸發器模式中執行。 它會根據觸發的事件和任何其他篩選條件，一次在一個人上執行。
 
-1. 按一下下拉式清單並選擇運算子( [!UICONTROL **例如**][!UICONTROL **is**]、is not等) 你選擇的扳機。
+1. 按一下下拉式清單並選擇運算元(例如 **[!UICONTROL is]**、 **[!UICONTROL is not]**&#x200B;等) 你選擇的扳機。
 
    ![影像三](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
