@@ -3,9 +3,9 @@ unique-page-id: 7512270
 description: 將Adobe Connect新增為LaunchPoint服務——行銷人員檔案——產品檔案
 title: 將Adobe Connect新增為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ Market來管理您的Adobe Connect網路研討會註冊和出席情況。
 
    ![](assets/adobe-connect-service.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >瞭解如何 [使用Adobe Connect建立活動](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)。
 
