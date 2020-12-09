@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: 設定數位廣告宣傳的收入歸因——行銷檔案——產品檔案
 title: 設定數位廣告宣傳的收入歸因
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '911'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
 
 然後，您可以使用個別的程式來追蹤每個程式的轉換次數，並在Program Analyzer、Opportunity Influce Analyzer和其他Marketo Analytics功能中查看您的程式。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* 設定具有狀態值和方案成功的渠道標籤（例如，數位廣告或Social付費和PPC）
 >* 建立或編輯表單，以將查詢字串與人員傳遞
