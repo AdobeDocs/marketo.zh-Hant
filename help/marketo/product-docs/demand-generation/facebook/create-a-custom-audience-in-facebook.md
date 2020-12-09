@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: 在Facebook —— 行銷檔案——產品檔案中建立自訂對象
 title: 在Facebook中建立自訂對象
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 在Facebook中建立自訂對象 {#create-a-custom-audience-in-facebook}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [在「管理」區段中新增「Facebook自訂對象](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 」作為LaunchPoint服務。
 >* [在您的Facebook帳戶中接受Facebook的「自訂對象](https://www.facebook.com/ads/manage/customaudiences/tos.php) 」條款。
