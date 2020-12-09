@@ -3,9 +3,9 @@ unique-page-id: 7512278
 description: 將ReadyTalk新增為LaunchPoint服務——行銷人員檔案——產品檔案
 title: 將ReadyTalk添加為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ ht-degree: 0%
 
    ![](assets/readytalk.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >瞭解如何 [使用ReadyTalk建立活動](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)。
 
