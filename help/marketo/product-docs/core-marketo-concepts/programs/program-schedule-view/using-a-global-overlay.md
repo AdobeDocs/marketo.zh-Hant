@@ -3,9 +3,9 @@ unique-page-id: 1147249
 description: 使用全域覆蓋——行銷檔案——產品檔案
 title: 使用全域覆蓋
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 方案排程檢視中的全域覆蓋可讓您查看與其他排程資產相關的方案。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >您必須擁有行 [銷行事歷授權](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) ，才能運用此功能。
 
