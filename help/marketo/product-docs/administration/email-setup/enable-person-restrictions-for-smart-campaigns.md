@@ -3,9 +3,9 @@ unique-page-id: 2360243
 description: 啟用智慧型促銷活動的人員限制——行銷檔案——產品檔案
 title: 為智慧型促銷活動啟用人員限制
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Market中有一項功能，可限制符合智慧型促銷活動資格的***人�
 
 對了！ 你剛開啟了安全開關。 好主意，對吧？
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [在智慧型促銷活動中覆寫人員限制](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
 
