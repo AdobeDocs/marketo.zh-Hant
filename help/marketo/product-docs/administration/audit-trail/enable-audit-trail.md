@@ -3,9 +3,9 @@ unique-page-id: 11382122
 description: 啟用稽核記錄——行銷人員檔案——產品檔案
 title: 啟用審計線索
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 
 ## 將審核跟蹤角色分配給用戶 {#assign-audit-trail-role-to-a-user}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[建立](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) 或 [啟用](#Enable) 現有角色，賦予其「稽核記錄」權限。
 
