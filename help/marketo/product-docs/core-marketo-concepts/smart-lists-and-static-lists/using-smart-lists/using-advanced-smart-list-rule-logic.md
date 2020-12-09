@@ -3,9 +3,9 @@ unique-page-id: 1146901
 description: 使用進階智慧型清單規則邏輯——行銷檔案——產品檔案
 title: 使用高級智慧清單規則邏輯
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 您可以將智慧型清單規則邏輯套用至智慧型清單中的多個篩選器，以找到所需的確切人員。 這是方法。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [尋找並新增篩選器至智慧型清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 >* [定義智慧清單篩選器](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
