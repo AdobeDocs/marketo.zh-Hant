@@ -3,9 +3,9 @@ unique-page-id: 1147257
 description: 導覽行銷行事歷——行銷檔案——產品檔案
 title: 導覽行銷行事歷
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 在行銷行事歷中導覽，就像一、二、三一樣簡單！
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >請確定您有行 [銷日曆授權](issue-revoke-a-marketing-calendar-license.md) -否則「行銷日曆」方塊不會顯示在我的行銷人員中。
 
