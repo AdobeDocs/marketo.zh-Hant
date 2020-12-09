@@ -3,9 +3,9 @@ unique-page-id: 2359759
 description: 自訂社交應用程式按鈕——行銷檔案——產品檔案
 title: 自訂社交應用程式按鈕
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ ht-degree: 0%
 >
 >在反向連結選件中，您也可以自訂「追蹤進 **度」按鈕** 。 前往「應 **用程式設定** > **追蹤進度樣式** 」，然後依照上述步驟進行。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >若為社交按鈕，請 [設定其開啟時間](configure-when-social-button-opens.md)。 針對反向連結選件， [指定選件目標](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)。
 
