@@ -3,9 +3,9 @@ unique-page-id: 2949226
 description: SEO —— 瞭解傳入連結——行銷人員檔案——產品檔案
 title: SEO —— 瞭解傳入連結
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,7 @@ ht-degree: 0%
 
 真貼心！ 既然您瞭解傳入連結，我們可以為您的網站建議更多傳入連結商機。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [取得傳入連結建議](seo-get-inbound-link-suggestions.md)
 
