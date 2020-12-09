@@ -3,9 +3,9 @@ unique-page-id: 4719336
 description: 使用者設定——行銷檔案——產品檔案
 title: 使用者設定
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 >
 >按一 **下「儲存** 」並不會退出「使用者設定」。 若要退出，請按一下左上角的Marketo標誌，然後選取您的目的地。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [編輯地區](edit-regions.md)
 
