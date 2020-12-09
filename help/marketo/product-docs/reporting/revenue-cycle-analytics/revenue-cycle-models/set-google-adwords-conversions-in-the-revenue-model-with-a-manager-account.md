@@ -3,9 +3,9 @@ unique-page-id: 7504923
 description: 在收入模型中設定Google AdWords轉換，其中包含經理帳戶——行銷人員檔案——產品檔案
 title: 在收入模型中設定Google AdWords轉換，使用管理員帳戶
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ ht-degree: 0%
 * 舞台動作
 * AdWords對應
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [將Google AdWords新增為Launchpoint服務及Manager帳戶](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
