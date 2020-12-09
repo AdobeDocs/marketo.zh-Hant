@@ -3,9 +3,9 @@ unique-page-id: 2359705
 description: 將新表單新增至自由表單登陸頁面——行銷人員檔案——產品檔案
 title: 新增表單至自由表單登陸頁面
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 表單，開會登陸頁面。 登陸頁面，開會表單。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立表單](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [建立自由格式著陸頁面](create-a-free-form-landing-page.md)
