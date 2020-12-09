@@ -3,9 +3,9 @@ unique-page-id: 11378871
 description: 在智慧型清單觸發器和篩選器——行銷人員檔案——產品檔案中使用瀏覽器SMS訊息
 title: 在智慧型清單觸發器和篩選器中使用瀏覽式SMS訊息
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ ht-degree: 0%
 
 在智慧型清單中設定Vibes觸發器和篩選器後，您可以 [定義流程](add-a-flow-step-for-sms.md)。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [定義智慧型促銷活動的智慧型清單 |觸發器](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [尋找並新增篩選器至智慧型清單](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
