@@ -3,9 +3,9 @@ unique-page-id: 2950561
 description: 自訂事件的轉換指令碼——行銷人員檔案——產品檔案
 title: 自訂事件的轉換指令碼
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ ht-degree: 0%
 
 太棒了！ 您的網站現在正透過Marketo擷取自訂的社交促銷目標。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [指定反向連結選件的目標](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
 >* [建立反向連結選件](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
