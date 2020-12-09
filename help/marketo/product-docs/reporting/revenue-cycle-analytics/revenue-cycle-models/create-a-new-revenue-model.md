@@ -3,9 +3,9 @@ unique-page-id: 4718656
 description: 建立新的營收模型——行銷檔案——產品檔案
 title: 建立新的收入模型
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ ht-degree: 0%
 
 看上去很鋒利！ 你剛剛進入了美妙的模特世界。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >進一步瞭解 [使用收入模型庫存階段](using-revenue-model-inventory-stages.md)。
 
