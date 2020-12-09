@@ -3,9 +3,9 @@ unique-page-id: 2360222
 description: 啟用通訊限制——行銷人員檔案——產品檔案
 title: 啟用通訊限制
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ ht-degree: 0%
    >
    >通訊限制會自動套用至所有電子郵件和參與計畫。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[將通訊限制套用至智慧型促銷活動](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
