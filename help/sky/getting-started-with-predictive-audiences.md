@@ -2,9 +2,9 @@
 title: 預測式觀眾快速入門
 description: 預測性觀眾快速入門
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -29,8 +29,8 @@ AI/ML模型的效能取決於您訂閱中的資料。 模型的使用頻率越�
 
 「預測性觀眾」會自動包含並啟動，以供使用Prime或Ultimate定價組合的例項使用。 若要進一步瞭解如何存取此功能，請連絡您的客戶成功經理。
 
-1. 新增功能至您的例項後，請導覽至的「管理」區 [!UICONTROL **域中的**] 「預測性對象 [!UICONTROL **」頁面**][!DNL Marketo Classic]。
+1. 將功能新增至您的例項後，請導覽至 **[!UICONTROL Predictive Audiences]** 的區域 **[!UICONTROL Admin]** 中的頁面 [!DNL Marketo Classic]。
 
-1. 勾選「[!UICONTROL **啟用預測性觀眾**] 」以啟用功能。 請注意，所有流程最多可能需要24小時才能完成設定。
+1. 選&#x200B;**[!UICONTROL Enable Predictive Audiences]** 中以激活特徵。 請注意，所有流程最多可能需要24小時才能完成設定。
 
    ![影像一](/help/sky/assets/predictive-audiences/getting-started-with-predictive-audiences/getting-started-with-predictive-audiences-1.png)
