@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: 修正動態驗證同步問題——行銷人員檔案——產品檔案
 title: 修正動態驗證同步問題
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -111,9 +111,7 @@ ht-degree: 0%
 
 如果您有 ![—](assets/delete.png) 這裡，請務必在Microsoft Dynamics中「Marketo設定預設」設定步驟的「Marketo使用者」欄位中指派適當的同步使用者。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[驗證Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
