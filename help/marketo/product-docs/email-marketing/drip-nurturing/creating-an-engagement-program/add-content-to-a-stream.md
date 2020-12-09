@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: 新增內容至串流——行銷人員檔案——產品檔案
 title: 新增內容至串流
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -116,9 +116,7 @@ ht-degree: 0%
 
 幹得好！ 您現在知道將內容新增至程式串流的不同方式。 添加您所需的數量，以便培養。 如需詳細資訊，請參閱下方的相關文章。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [將計畫新增至參與計畫串流](adding-a-program-to-an-engagement-program-stream.md)
 
