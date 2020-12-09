@@ -3,9 +3,9 @@ unique-page-id: 10093690
 description: 編輯和刪除行銷人員自訂物件——行銷人員檔案——產品檔案
 title: 編輯和刪除行銷人員自訂物件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ ht-degree: 0%
    >
    >如果自定義對象連結到中間對象，則必須先刪除中間對象。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[批准自訂物件](approve-a-custom-object.md)
 
