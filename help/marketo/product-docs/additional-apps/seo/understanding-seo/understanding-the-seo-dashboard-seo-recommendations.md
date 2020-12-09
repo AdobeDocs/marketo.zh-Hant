@@ -3,9 +3,9 @@ unique-page-id: 2949180
 description: 瞭解SEO儀表板-SEO建議——行銷人員檔案——產品檔案
 title: 瞭解SEO控制面板-SEO建議
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 就這樣！ 在這裡深入探索。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [頁面詳細資料下鑽](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
 
