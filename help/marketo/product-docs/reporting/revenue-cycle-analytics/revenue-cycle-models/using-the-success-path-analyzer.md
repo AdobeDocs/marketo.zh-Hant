@@ -3,9 +3,9 @@ unique-page-id: 3571886
 description: 使用成功路徑分析器——行銷檔案——產品檔案
 title: 使用成功路徑分析器
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 使用成功路徑分析器來探索具體細節，以反映收入週期模型各個階段的人員流量（數量）和速度（以天數計） [](understanding-revenue-models.md)。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[建立成功路徑分析器](create-a-success-path-analyzer.md)
 
