@@ -3,9 +3,9 @@ unique-page-id: 2359951
 description: 從參與計畫——行銷人員檔案——產品檔案中移除會員
 title: 從參與計畫移除會員
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 有時候，您只想在參與計畫中暫停人員，而不是移除他們。 這是在「變更參與計 **划執行」中完成**。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [暫停參與計畫中的人員](pause-people-in-an-engagement-program.md)
 
