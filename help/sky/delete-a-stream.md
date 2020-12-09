@@ -2,9 +2,9 @@
 title: delete-a-stream
 description: 刪除串流
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. 按一下「 [!UICONTROL **串流**] 」標籤。
+1. 按一下標 **[!UICONTROL Streams]** 簽。
 
    ![影像2](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >刪除串流將導致遺失
    >內容。
 
-1. 按一下齒輪表徵圖，然後選擇「刪 [!UICONTROL **除」**]。
+1. 按一下齒輪表徵圖，然後選擇 **[!UICONTROL Delete]**。
 
    ![影像三](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-3.png)
 
