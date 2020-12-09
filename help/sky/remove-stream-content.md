@@ -2,9 +2,9 @@
 title: remove-stream-content
 description: 移除串流內容
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-1.png)
 
-1. 按一下「 [!UICONTROL **串流**] 」標籤。
+1. 按一下標 **[!UICONTROL Streams]** 簽。
 
    ![影像2](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![影像三](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-3.png)
 
-1. 選擇 [!UICONTROL **刪除**]。
+1. 選擇 **[!UICONTROL Remove]**。
 
    ![影像4](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-4.png)
 
