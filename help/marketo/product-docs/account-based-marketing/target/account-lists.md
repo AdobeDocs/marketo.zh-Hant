@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: 帳戶清單——行銷人員檔案——產品檔案
 title: 帳戶清單
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -89,9 +89,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [將現有的命名帳戶新增至帳戶清單](named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [帳戶清單分析](../../../product-docs/account-based-marketing/measure/account-list-insights.md)
