@@ -3,9 +3,9 @@ unique-page-id: 4719398
 description: 建立新的對話方塊Web促銷活動——行銷檔案——產品檔案
 title: 建立新對話方塊Web促銷活動
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '762'
+source-wordcount: '760'
 ht-degree: 0%
 
 ---
@@ -158,9 +158,7 @@ Web促銷活動是與特定群體相關的自訂反應。 回應可以是您網�
 
 1. 會出現確認訊息，確認您是否要刪除Web促銷活動。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [在區域網頁促銷活動中建立新功能](create-a-new-in-zone-web-campaign.md)
 >* [建立新的Widget Web促銷活動](create-a-new-widget-web-campaign.md)
