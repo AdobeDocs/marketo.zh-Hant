@@ -3,9 +3,9 @@ unique-page-id: 11379622
 description: 設定Facebook銷售線索廣告——行銷檔案——產品檔案
 title: 設定Facebook銷售線索廣告
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-12-3a32-3a54.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [在智慧型促銷活動中使用銷售機會廣告篩選器和觸發器](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
 >* [將自訂欄位對應至Marketo](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
