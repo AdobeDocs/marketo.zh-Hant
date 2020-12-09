@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: 步驟1（共3步）-將行銷人員欄位新增至Salesforce（專業版）-行銷人員檔案——產品檔案
 title: 第1步（共3步）-將行銷人員欄位新增至Salesforce（專業版）
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 步驟1（共3步）:將行銷人員欄位新增至Salesforce（專業版） {#step-of-add-marketo-fields-to-salesforce-professional}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >您的Salesforce例項必須擁有Salesforce API的存取權，才能在Marketo和Salesforce之間同步資料。
 
