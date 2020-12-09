@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: 使用智慧型清單定義對象——行銷檔案——產品檔案
 title: 使用智慧型清單定義對象
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 建立電 [子郵件程式後](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)，您會想告訴它要將電子郵件傳送給誰。 您可以匯入人員 [清單或智慧型清單](define-an-audience-by-importing-a-list.md) ，來完成此作業。 以下是如何透過智慧型清單達成此目標。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立電子郵件方案](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
