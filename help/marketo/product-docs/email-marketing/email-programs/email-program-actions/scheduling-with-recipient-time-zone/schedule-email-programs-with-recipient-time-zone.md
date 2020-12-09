@@ -3,9 +3,9 @@ unique-page-id: 12982903
 description: 排程電子郵件計畫及收件者時區——行銷人員檔案——產品檔案
 title: 計畫包含收件者時區的電子郵件程式
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
@@ -94,9 +94,7 @@ ht-degree: 0%
 >
 >在您開始傳送電子郵件至實際傳送電子郵件之間取消訂閱的人，仍會收到電子郵件。 我們建議您調整取消訂閱通知，以反映取消訂閱可能需要1-2個工作天才能處理。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [瞭解收件者時區](understanding-recipient-time-zone.md)
 >* [電子郵件計畫快速入門](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
