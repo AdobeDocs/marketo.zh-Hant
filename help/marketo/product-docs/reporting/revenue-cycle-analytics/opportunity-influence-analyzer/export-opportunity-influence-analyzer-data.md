@@ -3,9 +3,9 @@ unique-page-id: 2360394
 description: Export Opportunity Inffect Analyzer Data - Marketo Docs —— 產品文檔
 title: 導出機會影響分析器資料
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a42-3a53.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >瞭解如何在 [單一位置管理您的所有報](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) 表訂閱。
 
