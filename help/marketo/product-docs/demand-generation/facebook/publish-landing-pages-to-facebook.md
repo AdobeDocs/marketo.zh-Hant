@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: 發佈著陸頁面至Facebook —— 行銷人員檔案——產品檔案
 title: 將登陸頁面發佈至Facebook
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >SMB Spark、標準版和精選版。 企業版及個別授權的功能。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >您的頁面必須至少有2,000個按贊次數，才能發佈至Facebook。
 
