@@ -3,9 +3,9 @@ unique-page-id: 9437991
 description: 行動智慧型促銷活動的觸發器和篩選——行銷檔案——產品檔案
 title: 行動智慧型促銷活動的觸發器和篩選器
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -190,9 +190,7 @@ ht-degree: 0%
 
 ![](assets/image2015-8-21-14-3a3-3a50.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [將約束添加到智慧清單過濾器](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
 >* [在智慧型清單中使用不活動篩選](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
