@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: 公司網路活動報告——行銷檔案——產品檔案
 title: 公司Web活動報表
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ ht-degree: 0%
 
 建立「 [網頁活動」報表](web-page-activity-report.md) ，以查看瀏覽您網站的個別訪客。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >若要從您網站的Marketo擷取活動，您必須先在 [網站上設定Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
 
