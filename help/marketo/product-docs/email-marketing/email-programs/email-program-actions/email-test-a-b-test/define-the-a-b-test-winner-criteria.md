@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: 定義A/B測試成功者標準——行銷人員檔案——產品檔案
 title: 定義A/B測試成功者標準
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 將 [A/B測試新增至電子郵件程式時](add-an-a-b-test.md) ，您將需要選擇測試類型、 [](schedule-the-a-b-test.md)排程A/B測試，然後定義成功者標準。 以下說明如何決定哪些電子郵件能贏。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [新增A/B測試](add-an-a-b-test.md)
 
