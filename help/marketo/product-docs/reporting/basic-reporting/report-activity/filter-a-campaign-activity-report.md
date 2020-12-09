@@ -3,9 +3,9 @@ unique-page-id: 2360184
 description: 篩選促銷活動報表——行銷人員檔案——產品檔案
 title: 篩選促銷活動報表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-16-3a14-3a32.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [促銷活動電子郵件績效報表](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
 
