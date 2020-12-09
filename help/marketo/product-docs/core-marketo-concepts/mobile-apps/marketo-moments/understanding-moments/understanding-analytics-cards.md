@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: 瞭解Analytics卡片——行銷人員檔案——產品檔案
 title: 瞭解Analytics卡片
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ ht-degree: 0%
 
 現在你知道了。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [瞭解行銷人員時刻](understanding-marketo-moments.md)
 >* [瞭解事件卡](understanding-event-cards.md)
