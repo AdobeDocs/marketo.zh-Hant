@@ -3,9 +3,9 @@ unique-page-id: 7504218
 description: Google Universal Analytics中的自訂RTP報表——行銷檔案——產品檔案
 title: Google Universal Analytics中的自訂RTP報表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Google Universal Analytics中的自訂RTP報表 {#custom-rtp-reports-in-google-universal-analytics}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[將RTP與Google Universal Analytics整合](integrate-rtp-with-google-universal-analytics.md)
 
