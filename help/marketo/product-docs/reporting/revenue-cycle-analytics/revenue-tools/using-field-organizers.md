@@ -3,9 +3,9 @@ unique-page-id: 3571892
 description: 使用現場組織者——行銷人員檔案——產品檔案
 title: 使用現場組織者
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -47,8 +47,6 @@ ht-degree: 0%
 
 如果您需要，以相同方式建立更多現場組織者。 你在這。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[使用欄位管理器建立自訂欄位群組](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
