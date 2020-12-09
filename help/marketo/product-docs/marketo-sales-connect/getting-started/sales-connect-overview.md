@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: 銷售連線概觀——行銷人員檔案——產品檔案
 title: 銷售連接概述
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -88,9 +88,7 @@ Marketo Sales Connect是一個全方位的銷售支援解決方案，具有多�
 
 準備好開始了嗎？ 如需設定指示，請按一下以下連結。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [Sales Connect快速入門](http://docs.marketo.com/x/coTS)
 
