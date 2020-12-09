@@ -3,9 +3,9 @@ unique-page-id: 5472348
 description: 讓現有的自由格式著陸頁面範本與行動相容——行銷人員檔案——產品檔案
 title: 讓現有的自由格式著陸頁面範本與行動相容
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ ht-degree: 0%
 
 太棒了！ 您現在可 [以自訂使用此範本的所有著陸頁面](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) ，的行動檢視。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [自訂自由格式登陸頁面的行動裝置檢視](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
 
