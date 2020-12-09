@@ -3,9 +3,9 @@ unique-page-id: 2360281
 description: 刪除計畫渠道——行銷人員文檔——產品文檔
 title: 刪除方案渠道
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ ht-degree: 0%
 
 砰！ 您也可以從 [渠道刪除特定狀態](delete-a-program-status-from-a-program-channel.md)。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [從節目頻道刪除節目狀態](delete-a-program-status-from-a-program-channel.md)
 
