@@ -3,9 +3,9 @@ unique-page-id: 557275
 description: 使用內建／系統智慧型清單——行銷檔案——產品檔案
 title: 使用內置／系統智慧清單
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Marketo有一些非常實用的內建智慧型清單。 我們去看看！
 >
 >無法刪除系統智慧清單。 除了「可能的重複項」清單外，它們也不能編輯。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [建立智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
