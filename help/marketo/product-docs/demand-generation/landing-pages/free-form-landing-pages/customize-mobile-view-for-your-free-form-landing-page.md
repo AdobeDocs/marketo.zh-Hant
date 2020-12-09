@@ -3,9 +3,9 @@ unique-page-id: 5472283
 description: 自訂自由格式登陸頁面的行動檢視——行銷人員檔案——產品檔案
 title: 自訂自由格式登陸頁面的行動裝置檢視
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 自訂自由格式登陸頁面的行動裝置檢視 {#customize-mobile-view-for-your-free-form-landing-page}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [為自由格式登陸頁面新增行動裝置檢視](add-a-mobile-view-for-your-free-form-landing-page.md)
 
