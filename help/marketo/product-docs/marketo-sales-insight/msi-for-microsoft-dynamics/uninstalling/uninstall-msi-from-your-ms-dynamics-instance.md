@@ -3,9 +3,9 @@ unique-page-id: 37355600
 description: 從您的MS Dynamics Instance - Marketo Docs —— 產品檔案解除安裝MSI
 title: 從您的MS Dynamics Instance解除安裝MSI
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 若要從MS Dynamics例項中解除安裝MSI，您必須在Marketo和MS Dynamics中執行步驟。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >[禁用全局MS Dynamics Sync](http://docs.marketo.com/x/TAA6Ag)
 
