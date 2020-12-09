@@ -3,9 +3,9 @@ unique-page-id: 557318
 description: 重新整理清單或智慧型清單——行銷檔案——產品檔案
 title: 刷新清單或智慧清單
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ ht-degree: 0%
 >
 >有時候，當您執行智慧型清單並稍後返回時，在右下角的人數計數前面可能會看到「關於」這個字。 這表示該數字是近似的——按一下計數本身以重新整理計數，並取得更新的精確計數。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [從清單或智慧型清單將人員匯出至Excel](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
 
