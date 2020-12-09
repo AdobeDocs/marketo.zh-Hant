@@ -2,9 +2,9 @@
 title: 瞭解批次和觸發——智慧型促銷活動
 description: 瞭解批次和觸發智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ![影像一](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-按一下「 [!UICONTROL **排程**] 」標籤將確認智慧型促銷活動已設為「批次」。
+按一下 **[!UICONTROL Schedule]** 標籤將確認智慧型促銷活動已設為「批次」。
 
 ![影像2](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ![影像三](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-按一下「 [!UICONTROL **排程**] 」標籤，將確認智慧型促銷活動已設為「觸發」。
+按一下 **[!UICONTROL Schedule]** 標籤將確認智慧型促銷活動已設為「觸發」。
 
 ![影像4](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
