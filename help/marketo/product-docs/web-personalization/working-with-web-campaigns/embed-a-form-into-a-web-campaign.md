@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: 將表格內嵌至Web Campaign —— 行銷檔案——產品檔案
 title: 將表單嵌入Web促銷活動
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -84,9 +84,7 @@ ht-degree: 0%
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [編輯表單主題的CSS](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
 >* [顯示不含後續著陸頁面的感謝訊息](http://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
