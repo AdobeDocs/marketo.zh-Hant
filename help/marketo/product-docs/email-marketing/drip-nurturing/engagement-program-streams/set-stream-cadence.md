@@ -3,9 +3,9 @@ unique-page-id: 2359665
 description: 設定串流Cadence —— 行銷檔案——產品檔案
 title: 設定串流節奏
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -106,9 +106,7 @@ ht-degree: 0%
 
 現在您知道如何設定串流節奏了！
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [瞭解收件者時區](../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [與收件者時區排程參與計畫](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
