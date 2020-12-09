@@ -3,9 +3,9 @@ unique-page-id: 2949283
 description: 使用Marketo範本從Outlook傳送及追蹤- Marketo Docs —— 產品檔案
 title: 使用Marketo範本從Outlook傳送及追蹤
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ ht-degree: 0%
 
    就這樣！ 您可以使用您超棒的行銷團隊為您製作的範本，為您節省許多時間。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [在Marketo中記錄來自您銷售線索的入站郵件](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
 
