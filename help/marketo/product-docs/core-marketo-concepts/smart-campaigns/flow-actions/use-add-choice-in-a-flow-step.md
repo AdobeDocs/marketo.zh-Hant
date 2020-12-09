@@ -3,9 +3,9 @@ unique-page-id: 1146980
 description: 在流程步驟中使用新增選擇——行銷檔案——產品檔案
 title: 在流程步驟中使用新增選擇
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 在流程步驟中使用新增選擇 {#use-add-choice-in-a-flow-step}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [新增流量步驟至智慧型促銷活動](add-a-flow-step-to-a-smart-campaign.md)
 
