@@ -3,9 +3,9 @@ unique-page-id: 7515107
 description: 新增表單至引導式著陸頁面——行銷人員檔案——產品檔案
 title: 新增表單至引導式著陸頁面
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 表單，開會登陸頁面。 登陸頁面，開會表單。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立引導式著陸頁面](create-a-guided-landing-page.md)
 
