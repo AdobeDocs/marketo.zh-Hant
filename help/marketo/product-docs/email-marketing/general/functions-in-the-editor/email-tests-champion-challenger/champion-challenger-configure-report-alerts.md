@@ -3,9 +3,9 @@ unique-page-id: 2359567
 description: 冠軍／挑戰者——設定報表警報——行銷檔案——產品檔案
 title: 冠軍／挑戰者——設定報表警報
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketto會傳送電子郵件測試的進度報告給您。 以下是如何排程。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [冠軍／挑戰者：定義冠軍標準](champion-challenger-define-champion-criteria.md)
 
