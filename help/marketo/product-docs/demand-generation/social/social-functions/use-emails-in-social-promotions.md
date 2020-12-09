@@ -3,9 +3,9 @@ unique-page-id: 2359793
 description: 在社交促銷活動中使用電子郵件——行銷檔案——產品檔案
 title: 在社交促銷中使用電子郵件
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
 
 * **履約電子郵件**:使用 **`{{social.Promo Code}}`** 來傳送促銷代碼給每 [個成功者](use-promo-codes-for-offer-fulfillment.md)。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >您必須先開始運作並核准電子郵件，才能將電子郵件新 *增至**社交應用程式*。 請參閱 [編輯電子郵件的設定](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)。
 
