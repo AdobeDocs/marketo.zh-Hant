@@ -3,9 +3,9 @@ unique-page-id: 2951884
 description: 瞭解Revenue Explorer - Marketo Docs —— 產品文檔中的Opportunity Analysis
 title: 瞭解Revenue Explorer中的Opportunity Analysis
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '899'
 ht-degree: 0%
 
 ---
@@ -149,9 +149,7 @@ Opportunity Analysis使您能夠訪問所有與銷售線索、公司和業務機
    | 業務機會金額（開啟） | 未結業務機會的總金額。 如果一個業務機會關聯了多個銷售線索，則分配金額基於銷售線索分數。 |
    | 機會金額(Won) | 贏得的機會總金額。 如果一個業務機會關聯了多個銷售線索，則分配金額基於銷售線索分數。 |
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [建立收入總管報表](create-a-revenue-explorer-report.md)
 >* [新增欄位至收入總管報表](adding-fields-to-a-revenue-explorer-report.md)
