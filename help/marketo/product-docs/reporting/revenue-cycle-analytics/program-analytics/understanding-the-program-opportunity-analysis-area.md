@@ -3,9 +3,9 @@ unique-page-id: 2951877
 description: 瞭解計畫機會分析領域——行銷文檔——產品文檔
 title: 瞭解計畫機會分析領域
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -188,8 +188,6 @@ Marketo在不重複計算各方案的機會的情況下，適當地提供信用�
 
 **提供任何類型歸因給方案的所有Opportunities。 機會可能受到一個或多個銷售機會以及一個或多個計畫的影響。*
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[建立收入總管報表](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
