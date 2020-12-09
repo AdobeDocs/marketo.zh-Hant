@@ -2,9 +2,9 @@
 title: create-my-token-folders
 description: 建立我的Token資料夾
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. 輸入新資料夾的名稱，然後從目 [!UICONTROL **標下拉式清單中選**] 取「本機代號」 [!UICONTROL ****] 或「已覆寫代號」。 按一下 [!UICONTROL **儲存**]。
+1. 輸入新資料夾的名稱，然後從目 **[!UICONTROL Local Tokens]** 標下 **[!UICONTROL Overridden Tokens]** 拉式清單中選取或。 按一 **[!UICONTROL Save]**&#x200B;下。
 
    ![影像2](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
@@ -38,4 +38,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->要更名資料夾，請按一下右鍵該資料夾，然後按一下「重 [!UICONTROL **命名**]」。
+>要更名資料夾，請按一下右鍵該資料夾並按一下 **[!UICONTROL Rename]**。
