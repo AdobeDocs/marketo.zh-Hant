@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: 電子郵件連結效能報告——行銷人員檔案——產品檔案
 title: 電子郵件連結效能報告
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ ht-degree: 0%
 >
 >如果您想確切知道個人的行為，可以從程式的「成員」頁籤開啟「人員詳細資訊」( [Person Detail](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) )頁面中的「活動日誌」(Activity Log [](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) )。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [電子郵件績效報告](email-performance-report.md)
 >* [篩選電子郵件報表中的資產](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
