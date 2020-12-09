@@ -3,9 +3,9 @@ unique-page-id: 2953348
 description: 直接在行銷行事歷——行銷檔案——產品檔案中建立項目
 title: 直接在行銷日曆中建立項目
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Marketo可讓您使用方案焦點模式，直接在行銷行事歷中建立項�
 
    ![](assets/image2014-10-20-13-3a8-3a29.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [直接在行銷日曆中編輯項目](edit-entries-directly-in-the-marketing-calendar.md)
 
