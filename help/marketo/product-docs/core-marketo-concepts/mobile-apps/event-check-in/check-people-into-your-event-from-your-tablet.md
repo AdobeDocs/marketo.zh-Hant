@@ -3,9 +3,9 @@ unique-page-id: 2949839
 description: 從平板電腦——行銷人員檔案——產品檔案，將人們納入您的活動
 title: 從平板電腦將人們存入您的活動
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '866'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ ht-degree: 0%
 >
 >Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* 在Marketo中建立活動，並填入「已邀請」和「已註冊的人員」。
 >* 下載 [Android或](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) iOS適用的平板裝置應 [用程式](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
