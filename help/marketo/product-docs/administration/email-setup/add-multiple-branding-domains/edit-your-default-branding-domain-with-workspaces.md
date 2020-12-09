@@ -3,9 +3,9 @@ unique-page-id: 11377406
 description: 使用工作區——行銷人員檔案——產品檔案編輯您的預設品牌網域
 title: 使用工作區編輯您的預設品牌網域
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 現在，您可以 [新增工作區所需](add-an-additional-branding-domain-with-workspaces.md) 的其他品牌網域。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用工作區新增其他品牌網域](add-an-additional-branding-domain-with-workspaces.md)
 
