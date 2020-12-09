@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: 傳送追蹤的電子郵件——行銷人員檔案——產品檔案
 title: 傳送追蹤的電子郵件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 當使用Marketo Sales Connect傳送電子郵件時，將會追蹤檢視（電子郵件開啟）和點按（點按的連結）。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >在傳送追蹤的電子郵件之前，您必須先驗證身分並設定電子郵件傳送渠道。
 >
