@@ -2,9 +2,9 @@
 title: 新增內容至參與串流
 description: 新增內容至參與串流
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-1.png)
 
-1. 按一下「 [!UICONTROL **串流**] 」標籤。
+1. 按一下標 **[!UICONTROL Streams]** 簽。
 
    ![影像2](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
 
-1. 按一 [!UICONTROL **下新增內容**]。
+1. 按一 **[!UICONTROL Add Content]**&#x200B;下。
 
    ![影像三](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-3.png)
 
@@ -42,11 +42,11 @@ ht-degree: 0%
 
    ![影像5](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-5.png)
 
-1. 按一下「 [!UICONTROL **串流**] 」標籤。
+1. 按一下標 **[!UICONTROL Streams]** 簽。
 
    ![影像6](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-6.png)
 
-1. 按一 [!UICONTROL **下新增內容**]。
+1. 按一 **[!UICONTROL Add Content]**&#x200B;下。
 
    ![影像7](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
 
