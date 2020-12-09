@@ -2,9 +2,9 @@
 title: 仿製智慧型促銷活動
 description: 複製智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -20,14 +20,14 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-1.png)
 
-1. 在「智慧型促銷活動動作」下拉式清單下，選取「仿 [!UICONTROL **制」**]。
+1. 在「智慧型促銷活動動作」下拉式清單下方選取 **[!UICONTROL Clone]**。
 
    ![影像2](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-2.png)
 
-1. 按一下「 [!UICONTROL **目標**] 」下拉清單並選擇目標程式或資料夾。
+1. 按一下下 **[!UICONTROL Destination]** 拉式清單並選擇目標程式或資料夾。
 
    ![影像三](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-3.png)
 
-1. 輸入促銷活動名稱（和可選說明／標籤），然後按一下「仿 [!UICONTROL **制」**]。
+1. 輸入促銷活動名稱（和選用說明／標籤），然後按一下 **[!UICONTROL Clone]**。
 
    ![影像4](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-4.png)
