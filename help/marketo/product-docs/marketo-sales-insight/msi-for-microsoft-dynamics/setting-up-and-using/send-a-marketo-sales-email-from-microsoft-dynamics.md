@@ -3,9 +3,9 @@ unique-page-id: 2953338
 description: 從Microsoft Dynamics - Marketo Docs —— 產品檔案傳送行銷人員至銷售人員的電子郵件
 title: 從Microsoft Dynamics傳送行銷人員至銷售人員的電子郵件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ ht-degree: 0%
 
 幹得漂亮！ 現在您知道如何直接在Microsoft Dynamics中傳送Market至追蹤的電子郵件。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [從Microsoft Dynamics新增銷售機會／連絡人至Marketo促銷活動](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
 
