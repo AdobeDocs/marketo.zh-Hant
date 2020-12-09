@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: 將計畫有效性與計劃分析器——行銷人員文檔——產品文檔進行比較
 title: 比較方案分析器與方案有效性
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 使用Program Analyzer通過比較方案成本、成員獲取、渠道和收入來識別最有效、最不有效的方案。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立程式分析器](create-a-program-analyzer.md)
 
