@@ -3,9 +3,9 @@ unique-page-id: 557130
 description: 瞭解智慧型清單——行銷人員檔案——產品檔案
 title: 瞭解智慧型清單
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ ht-degree: 0%
 
 好，開始吧！
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用內置／系統智慧清單](using-smart-lists/use-built-in-system-smart-lists.md)
 >* [建立智慧清單](creating-a-smart-list/create-a-smart-list.md)
