@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: 電子郵件中的硬性和軟性彈回數——行銷檔案——產品檔案
 title: 電子郵件中的硬彈回數和軟彈回數
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Marketo中有5個人字串與問題電子郵件傳送有關。
 >
 >當某人被標示為電子郵件無 **效**，則只能透過取消勾選其記錄「人員資訊」標籤中的「電子郵件無效」方塊，手動重設他們（建議您僅在您知道其電子郵件是否有效時才重設）。
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >請依 [照下列步驟](../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ，建立會產生彈回資料的「電子郵件效能報表」。
 
