@@ -2,9 +2,9 @@
 title: campaign-folder-overview-tab
 description: 促銷活動資料夾概述標籤
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 促銷活動資料夾：概述標籤
 
-促銷活動資料夾標籤下有兩個 [!UICONTROL Overview] 區段： [!UICONTROL **詳細資訊**] 和 [!UICONTROL **報表**]。
+促銷活動資料夾標籤下有兩個 [!UICONTROL Overview] 區段： **[!UICONTROL Details]** 和 **[!UICONTROL Reports]**。
 
 ![影像一](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![影像一](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-2.png)
 
-[!UICONTROL **資料夾操作**]
+**[!UICONTROL Folder Actions]**
 
 按一下右上角的「資料夾動作」下拉式清單，以快速存取基本功能。
 
