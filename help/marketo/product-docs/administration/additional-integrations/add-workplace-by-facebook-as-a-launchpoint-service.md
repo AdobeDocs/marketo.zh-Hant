@@ -3,9 +3,9 @@ unique-page-id: 14745982
 description: 將Workplace By Facebook新增為LaunchPoint服務——行銷人員檔案——產品檔案
 title: 將Workplace By Facebook新增為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ Workplace整合包含兩種通知類型：
 >
 >**需要管理員權限**
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >如果您尚未啟用「工作場所通知」，請連絡支 [援部門](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436)。
 
