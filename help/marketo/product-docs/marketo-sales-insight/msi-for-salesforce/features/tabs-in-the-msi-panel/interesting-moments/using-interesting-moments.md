@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: 使用有趣的時刻——行銷人員檔案——產品檔案
 title: 使用有趣的瞬間
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 有趣的時刻是透過Marketo Sales Insight應用程式與銷售團隊溝通的關鍵。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >這些僅適用於Marketo Sales Insight和 [Marketo Sales Connect客戶](http://docs.marketo.com/x/fgTLAQ) 。
 
@@ -31,7 +29,7 @@ ht-degree: 0%
 
 ## 我要如何創造有趣的時刻？  {#how-do-i-create-an-interesting-moment}
 
-1. 選擇 [s](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [mart促銷活](http://docs.marketo.com/display/docs/smart+campaigns)動，最好是您的銷售團隊在觸發時會覺得有趣。
+1. 選擇智慧 [型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)，最好是您的銷售團隊在觸發時會發現有趣的促銷活動。
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
@@ -76,4 +74,3 @@ ht-degree: 0%
 在您安裝或更新Salesforce1的Marketo Sales Insight後，潛在客戶的相關連結下會顯示有趣的時刻。
 
 ![](assets/seven.png)
-
