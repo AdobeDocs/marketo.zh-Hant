@@ -3,9 +3,9 @@ unique-page-id: 2359512
 description: 在智慧型清單中使用區段篩選——行銷檔案——產品檔案
 title: 在智慧型清單中使用區段篩選
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 在智慧型清單中使用區段篩選 {#use-segment-filters-in-a-smart-list}
 
->[!NOTE]
->
->**必要條件**
+>[!PREREQUISITES]
 >
 >* [建立智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [建立區段](create-a-segmentation.md)
