@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: 設定檢查清單——行銷人員檔案——產品檔案
 title: 設定檢查清單
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: aff16097f274ade1aa3877c9bba6080a87d22bc0
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 設定檢查清單 {#setup-checklist}
 
-馬克托歡迎你！ 您可以自由使用下列檢查清單作為視覺化的待辦事項清單，以開始進行工作。 詳細資訊可在設定步 [驟中找到](../../getting-started/setup-steps.md)。
+馬克托歡迎你！ 您可以自由使用下列檢查清單作為視覺化的待辦事項清單，以開始進行工作。 詳細資訊可在設定步 [驟中找到](/help/marketo/getting-started/setup-steps.md)。
 
 ## 登入Marketo並建立其他使用者 {#log-in-to-marketo-and-create-additional-users}
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 1. 要求IT為您的電子郵件CNAME設定DNS記錄
 1. 要求IT允許Marketto
 1. 在「管理」區域中設定DKIM和SPF
-1. 為 [FromDomain1設定MX]
+1. 設定MX `[FromDomain1]`
 1. 完成電子郵件CNAME的作業後，請在Marketo中設定您的電子郵件CNAME
 
 ## 提交著陸頁面和電子郵件範本的URL {#submit-a-url-for-landing-page-and-email-templates}
@@ -51,5 +51,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[設定步驟](../../getting-started/setup-steps.md)
-
+>[設定步驟](/help/marketo/getting-started/setup-steps.md)
