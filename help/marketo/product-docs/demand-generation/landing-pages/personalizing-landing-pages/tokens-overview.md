@@ -3,9 +3,9 @@ unique-page-id: 2950799
 description: Token概觀——行銷檔案——產品檔案
 title: 預付碼概觀
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 預付碼概觀 {#tokens-overview}
 
 Token是可用於智慧促銷活動流程步驟、電子郵件、登陸頁面、 [Market](http://docs.marketo.com/display/DOCS/Smart+Campaigns) 促銷活動、Web促銷活動 [、Web促銷活動的](http://docs.marketo.com/display/DOCS/General)[](http://docs.marketo.com/display/DOCS/Landing+Pages)[](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)[](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)變數。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 瞭解預設值 {#understanding-default-values}
 
