@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: 設定並新增人員——行銷人員——產品檔案
 title: 設定並新增人員
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 在開始執行任務之前，有幾件事要做。
 
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 ## 步驟1:登入Marketo {#step-log-in-to-marketo}
 
-1. [使用您透過電子郵件收到的認證](http://app.marketo.com) ，登入Marketo。
+1. [使用您透過電子郵件收到的認證](https://app.marketo.com) ，登入Marketo。
 
    ![](assets/one.png)
 
@@ -59,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 輸入您的名字和姓氏、電子郵件地址和公司名稱，然後按一下**建立**以新增個人身分。
+1. 輸入您的名字和姓氏、電子郵件地址和公司名稱，然後按一下「 **建立** 」，將自己新增為個人。
 
    ![](assets/eight.png)
 
@@ -67,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 按一下「**人員**」標籤。 您應該在資料庫中看到自己。
+1. 按一下「 **人員** 」標籤。 您應該在資料庫中看到自己。
 
    ![](assets/ten.png)
 
@@ -77,4 +71,4 @@ ht-degree: 0%
 
 <br> 
 
-[任務1:發送電子郵件Blast►](send-an-email.md)
+[任務1:發送電子郵件Blast►](/help/marketo/getting-started/quick-wins/send-an-email.md)
