@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: 瞭解批次和觸發智慧型促銷活動——行銷檔案——產品檔案
 title: 瞭解批次和觸發智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 瞭解批次和觸發智慧型促銷活動 {#understanding-batch-and-trigger-smart-campaigns}
 
 智慧型促銷活動有兩種類型：批次和觸發。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 批次智慧型促銷活動 {#batch-smart-campaign}
 
