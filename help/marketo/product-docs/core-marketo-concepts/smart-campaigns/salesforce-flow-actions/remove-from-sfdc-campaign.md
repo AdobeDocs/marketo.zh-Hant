@@ -3,21 +3,15 @@ unique-page-id: 1147036
 description: 從SFDC促銷活動中刪除——行銷人員文檔——產品文檔
 title: 從SFDC促銷活動中移除
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 
 # 從SFDC促銷活動中移除 {#remove-from-sfdc-campaign}
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!NOTE]
 >
