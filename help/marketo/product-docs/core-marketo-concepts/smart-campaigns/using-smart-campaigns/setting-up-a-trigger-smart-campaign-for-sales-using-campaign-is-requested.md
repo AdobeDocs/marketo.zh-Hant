@@ -3,9 +3,9 @@ unique-page-id: 7514898
 description: 使用「請求促銷活動」設定銷售的觸發智慧型促銷活動——行銷人員檔案——產品檔案
 title: 使用「請求促銷活動」設定銷售的觸發智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 使用「請求促銷活動」設定銷售的觸發智慧型促銷活動 {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
 Marketo最酷的功能之一，就是讓銷售人員參與行銷工作。 他們在前線，與人互動。 業務代表應能夠將行銷導向正確的方向。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!NOTE]
 >
