@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: 促銷活動報表——行銷人員檔案——產品檔案
 title: 促銷活動報表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 促銷活動報表 {#campaign-activity-report}
 
 瞭解您的智 [慧型促銷活](http://docs.marketo.com/display/docs/smart+campaigns) 動的成效。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. [建立報表](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ，並選取「促銷 **活動** 」報 [表類型](report-type-overview.md)。
 1. [設定報表的時間範圍](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) ，然後按一下「報 **表** 」標籤。
