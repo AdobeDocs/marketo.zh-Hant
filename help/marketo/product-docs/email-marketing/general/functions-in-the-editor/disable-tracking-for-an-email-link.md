@@ -3,9 +3,9 @@ unique-page-id: 1900579
 description: 停用電子郵件連結的追蹤——行銷檔案——產品檔案
 title: 停用電子郵件連結的追蹤
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # 停用電子郵件連結的追蹤 {#disable-tracking-for-an-email-link}
 
 有時您不想在電子郵件中的連 **結上啟用** 「行銷人員追蹤URL」。 當目標頁面不支援URL參數且可能導致連結中斷時，這個功能會很有用。
-
->[!NOTE]
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](/help/marketo/getting-started/updates-to-marketo-terminology.md)。
 
 1. 選擇您的電子郵件，然後按一 **下「編輯****草稿**」。
 
