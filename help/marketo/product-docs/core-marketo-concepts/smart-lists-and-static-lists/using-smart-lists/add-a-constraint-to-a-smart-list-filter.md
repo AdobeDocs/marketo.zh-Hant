@@ -3,9 +3,9 @@ unique-page-id: 2949413
 description: 新增限制至智慧型清單篩選——行銷人員檔案——產品檔案
 title: 將約束添加到智慧清單過濾器
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 在建立智慧型清單時，有些篩選器有稱為*constraints的進階選項。 *您可以將這些額外條件新增至篩選器和觸發器，以進一步縮小搜尋範圍。
 
 在此示例中，讓我們將一些約束添加到** [Data Value Changed](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**篩選器中，以查找狀態從MQL更改為SQL的人員。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!PREREQUISITES]
 >
