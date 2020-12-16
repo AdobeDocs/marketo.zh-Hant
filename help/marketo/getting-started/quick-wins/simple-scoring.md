@@ -3,9 +3,9 @@ unique-page-id: 2359414
 description: 簡單計分——行銷檔案——產品檔案
 title: 簡易計分
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -13,19 +13,10 @@ ht-degree: 0%
 
 # 簡易計分 {#simple-scoring}
 
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
 >* [設定並新增人員](get-set-up-and-add-a-person.md)
 >* [具有表單的著陸頁面](landing-page-with-a-form.md)
-
->
-
 
 
 ## 步驟1:建立計分促銷活動 {#step-create-a-scoring-campaign}
@@ -68,11 +59,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您完成「 [Landing Page」（著陸頁面）並取得Form](landing-page-with-a-form.md) quick win，則應該有此表單。 如果您對表單使用不同的名稱，請選取該名稱。
+   >如果您完成「 [Landing Page」（著陸頁面）並取得Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) quick win，則應該有此表單。 如果您對表單使用不同的名稱，請選取該名稱。
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. 按一下「**流量**」標籤。
+1. 按一下「 **流量** 」標籤。
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
@@ -86,7 +77,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >良好的評分促銷活動是為銷售人員提供高品質人員的關鍵。 閱讀 [**銷售機會評分的最終指南**](http://www.marketo.com/definitive-guides/lead-scoring/)。
+   >良好的評分促銷活動是為銷售人員提供高品質人員的關鍵。 閱讀 [**銷售機會評分的最終指南**](https://www.marketo.com/definitive-guides/lead-scoring/)。
 
 1. 按一下「 **排程** 」標籤和「 **啟動** 」按鈕。
 
@@ -102,7 +93,7 @@ ht-degree: 0%
 
 ## 步驟2:填寫表格 {#step-fill-out-the-form}
 
-1. 選取您在「Landing Page」（著陸頁面） [中建立的「Form](landing-page-with-a-form.md) quick win」（表單快速成功）著陸頁面。
+1. 選取您在「Landing Page」（著陸頁面） [中建立的「Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) quick win」（表單快速成功）著陸頁面。
 
    ![](assets/fourteen-1.png)
 
@@ -110,7 +101,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
-1. 填寫表格並填入您的名字、姓氏和電子郵件地址，然後按一下「送 **出** 」。
+1. 填寫表格，填入您的名字、姓氏和電子郵件地址，然後按一下「送 **出**」。
 
    ![](assets/image2014-9-24-11-3a47-3a59.png)
 
@@ -137,4 +128,6 @@ ht-degree: 0%
 ![](assets/twenty.png)
 
 **恭喜！** 您已建立計分促銷活動。
-[◄使命2:Landing Page with a Form](landing-page-with-a-form.md) [Mission 4:電子郵件自動回應►](email-auto-response.md)
+[◄使命2:具有表單的著陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+
+[任務4:電子郵件自動回應►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
