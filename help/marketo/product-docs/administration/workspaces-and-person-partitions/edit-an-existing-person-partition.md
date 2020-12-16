@@ -3,9 +3,9 @@ unique-page-id: 2360323
 description: 編輯現有人員分區——行銷檔案——產品檔案
 title: 編輯現有人員分區
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 編輯現有人員分區 {#edit-an-existing-person-partition}
 
 人員分區就像具有第二（或第三）資料庫。 分區可以連接到一個或多個工作區。 以下是如何編輯分區詳細資訊。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!NOTE]
 >
