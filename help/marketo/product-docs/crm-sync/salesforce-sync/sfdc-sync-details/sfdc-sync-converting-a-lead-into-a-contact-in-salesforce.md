@@ -3,21 +3,15 @@ unique-page-id: 2953465
 description: SFDC同步——在Salesforce中將銷售線索轉換為聯繫人——行銷人員文檔——產品文檔
 title: SFDC同步——在Salesforce中將銷售線索轉換為聯繫人
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
 
 # SFDC同步：在Salesforce中將銷售線索轉換為聯繫人 {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 請想像Salesforce中的三種不同情形：(不使用Marketo中 [的「轉換人員流程](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) 」步驟)
 
