@@ -3,9 +3,9 @@ unique-page-id: 10099360
 description: 準備您的活動——行銷人員檔案——產品檔案
 title: 為您的活動做好準備
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # 為您的活動做好準備 {#prepare-for-your-event}
 
 您必須做幾件事，才能為活動做好準備。
-
->[!NOTE]
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](/help/marketo/getting-started/updates-to-marketo-terminology.md)。
 
 ## 建立新的行銷人員角色 {#create-a-new-marketo-role}
 
