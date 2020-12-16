@@ -3,9 +3,9 @@ unique-page-id: 1146968
 description: 檢視智慧型促銷活動結果——行銷人員檔案——產品檔案
 title: 檢視智慧型促銷活動結果
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 檢視智慧型促銷活動結果 {#view-smart-campaign-results}
 
 想要查看在智慧型促銷活動中發生的一切的詳盡分析嗎？ 很簡單，就是這樣。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 在智慧型促銷活動中，按一下「 **結果**」。
 
