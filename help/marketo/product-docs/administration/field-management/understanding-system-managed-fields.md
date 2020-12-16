@@ -3,9 +3,9 @@ unique-page-id: 5472615
 description: 瞭解系統管理欄位——行銷檔案——產品檔案
 title: 瞭解系統管理欄位
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 瞭解系統管理欄位 {#understanding-system-managed-fields}
 
 您可能注意到，人員詳 [細資料頁面](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) ，有Marketo建立的一系列不可編輯欄位。 這些資料來自各種來源，有無數的值可以顯示。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 欄位類型 {#field-types}
 
