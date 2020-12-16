@@ -3,9 +3,9 @@ unique-page-id: 2360014
 description: 人員績效報告——行銷人員檔案——產品檔案
 title: 人員績效報表
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 人員績效報表 {#people-performance-report}
 
 使用「人員績效報告」來測量資料庫隨時間的增長。 您可以看到您新增的人數，以及時間。 進一步瞭解人員並評估您的計畫。 依任何人或公司屬性或依區段將結果分 [組](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. [建立報表](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ，並選取「人員 **績效** 」報 [表類型](report-type-overview.md)。
 1. [設定報表的時間範圍](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) ，然後按一下「報 **表** 」標籤。
