@@ -3,9 +3,9 @@ unique-page-id: 2949839
 description: 從平板電腦——行銷人員檔案——產品檔案，將人們納入您的活動
 title: 從平板電腦將人們存入您的活動
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 當人們在您的活動中出現時，您可以在應用程式中找到他們的資訊。 登入後，當您同步至Marketo時，他們會升級為「已參與」狀態。
 
 應用程式在iPad和Android上的運作都相同，但是版面配置和設計差異很小。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!PREREQUISITES]
 >
