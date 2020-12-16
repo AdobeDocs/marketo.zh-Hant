@@ -3,9 +3,9 @@ unique-page-id: 2359410
 description: 傳送電子郵件——行銷人員檔案——產品檔案
 title: 傳送電子郵件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,9 @@ ht-degree: 0%
 
 這是每個人都想做的第一件事。 我們從Marketo寄電子郵件吧！
 
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [設定並新增人員](get-set-up-and-add-a-person.md)
-
->
-
-
+>[設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## 建立電子郵件方案 {#create-an-email-program}
 
@@ -39,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 輸入**名稱**，然後選擇「 **Email** 」(電 **子郵件)。**
+1. 輸入名 **稱** ，然後選擇「 **程式類型** 」的 **「電子郵件」。**
 
    >[!TIP]
    >
@@ -47,11 +37,9 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 在「**頻道」下，選 **取「**&#x200B;電子郵件傳送&#x200B;**」並按**&#x200B;一下「建立&#x200B;**」。** **
+1. 在「頻 **道**」下，選 **取「電子郵件傳送** 」並按一 **下「建立**」。
 
-   ** ![](assets/image2015-3-2-16-3a25-3a18.png)
-
-   **
+   ![](assets/image2015-3-2-16-3a25-3a18.png)
 
 ## 定義您的觀眾 {#define-your-audience}
 
@@ -73,10 +61,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >如果您的電子郵件未自動填入，您可能忘記「設 [定並新增銷售機會」。](get-set-up-and-add-a-person.md)
+   >如果您的電子郵件未自動填入，您可能忘記「設 [定並新增銷售機會」。](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
    >[!NOTE]
    >
@@ -94,7 +79,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-8-15-3a10-3a47.png)
 
-1. 輸入名 **稱**，選擇范 **本**，然後按一下**建立**。
+1. 輸入名 **稱**，選擇範本 **，然後按一下**&#x200B;建立 ****。
 
    ![](assets/ten-1.png)
 
@@ -106,7 +91,7 @@ ht-degree: 0%
    >
    >如果您有快顯封鎖程式，請按一下「 **編輯草稿** 」以輸入電子郵件編輯器。
 
-1. 選取您要編輯的區域，按一下右側的齒輪圖示，然後選取**編輯**（您也可以連按兩下可編輯的區段進行編輯）。
+1. 選擇要編輯的區域，按一下右側的齒輪表徵圖，然後選擇「編輯」( **Edit** )（也可以按兩下可編輯的部分進行編輯）。
 
    ![](assets/twelve.png)
 
@@ -124,7 +109,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >想要在啟動之前，先自行傳送範例，瞭解您的電子郵件外觀嗎？ 在上 **述功能表中選取「傳送範例** 」，或按一下「電子郵 **件動作** 」和「 [**傳送範例」**](../../product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)。
+   >想要在啟動之前，先自行傳送範例，瞭解您的電子郵件外觀嗎？ 在上 **述功能表中選取「傳送範例** 」，或按一下「電子郵 **件動作** 」和「 [**傳送範例」**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)。
 
 1. 在左樹中選擇「電子郵件程式」。
 
@@ -140,7 +125,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >預設時區不是您的時區嗎？ 在此瞭解如 [何更新](https://docs.marketo.com/display/DOCS/Select+Your+Language,+Locale+and+Time+Zone#SelectYourLanguage,LocaleandTimeZone-ChangeUserLanguage,Locale&amp;Timezone)。
+   >預設時區不是您的時區嗎？ 在此瞭解如 [何更新](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)。
 
 1. 按一 **下「核准** 」方塊下的「核准方案」，您就完成了！
 
@@ -150,4 +135,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄設定並添加帶有表單](get-set-up-and-add-a-person.md)[的Lead登錄頁](landing-page-with-a-form.md)
+[◄設定和添加線索](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+
+[包含表單►的著陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
