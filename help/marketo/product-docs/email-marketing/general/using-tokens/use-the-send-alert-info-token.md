@@ -3,9 +3,9 @@ unique-page-id: 2952678
 description: 使用傳送警報資訊Token {{SP_Send_Alert_Info}} —— 行銷人員檔案——產品檔案
 title: 使用傳送警報資訊Token
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 使用傳送警報資訊Token {#use-the-send-alert-info-token-sp-send-alert-info}
 
 代號 `{{SP_Send_Alert_Info}}` 是特殊代號，用於建立銷售團隊的警報電子郵件。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!TIP]
 >
