@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: 包含表單的著陸頁面——行銷檔案——產品檔案
 title: 具有表單的著陸頁面
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,9 @@ ht-degree: 0%
 
 ## 任務：建立包含表單的登陸頁面以吸引新人。 {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [設定並新增人員](get-set-up-and-add-a-person.md)
-
+>[設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## 步驟1:建立方案 {#step-create-a-program}
 
@@ -32,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/ma.png)
 
-1. 選取在上一個快速贏取中建立的**學習** [資料夾](send-an-email.md)。
+1. 選擇在上 **一個快速贏** ( [Quick Win)中建立](/help/marketo/getting-started/quick-wins/send-an-email.md)的「學習」(Learning)資料夾。
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
@@ -40,12 +33,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. 輸入程 **式名稱**，選擇**頻道**，然後按一下**建立**。
+1. 輸入程式 **名稱**，選擇 **渠道** ，然後單 **擊建立**。
 
    >[!NOTE]
-   >
-   >**提醒**
-   >
    >
    >在程式名稱的結尾加上您的縮寫簽名，讓它變得獨特。
 
@@ -53,10 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**定義**
-   >
-   >
-   >方案是一項特定的行銷計畫。 該 **頻道** 的目標是提供機制，例如網路研討會、贊助或線上廣告。 您可能會在下拉式清單中看到不同的渠道選項，視您自己的例項中可用的項目而定。 您也可以 [建立自己的頻道。](../../product-docs/administration/tags/create-a-program-channel.md)
+   >方案是一項特定的行銷計畫。 該 **頻道** 的目標是提供機制，例如網路研討會、贊助或線上廣告。 您可能會在下拉式清單中看到不同的渠道選項，視您自己的例項中可用的項目而定。 您也可以 [建立自己的頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)。
 
    ![](assets/image2014-9-8-17-3a46-3a47.png)
 
@@ -64,7 +51,7 @@ ht-degree: 0%
 
 ## 步驟2:建立表單 {#step-create-a-form}
 
-1. 在選取您的計畫後，按一下「 **新增** 」，然後**「新增本機資產」**。
+1. 在選取您的程式後，按一下「新 **增** 」 **和「新增本機資產」**。
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
@@ -78,13 +65,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >請確定已選 **中「在編輯器中** 」框。 否則，您必須按一下「編輯表 **單」標**&#x200B;簽&#x200B;**。**
+   >請確定已選 **中「在編輯器中** 」框。 如果沒有，您必須按一下「編輯表 **單」標籤** 。
 
    >[!TIP]
    >
-   >沒看到表格編輯器嗎？ 您的瀏覽器可能已封鎖視窗。 在您的瀏覽器中啟 [用app.marketo.com的快顯視窗](http://app.marketo.com/) ，然後按一下頂端選單列中的「編輯草稿」。
+   >沒看到表格編輯器嗎？ 您的瀏覽器可能已封鎖視窗。 在您的瀏覽器中啟 [用app.marketo.com的快顯視窗](https://app.marketo.com/) ，然後按一下頂端選單列中的「編輯草稿」。
 
-1. 選擇**電子郵件地址**欄位並選中「是必 **需的**」。
+1. 選擇「電 **子郵件地址** 」欄位並選 **中「必要」**。
 
    ![](assets/image2014-9-24-11-3a5-3a27.png)
 
@@ -96,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a6-3a0.png)
 
-1. 按一下**下一步**。
+1. 按一 **下「下一步**」。
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
@@ -110,9 +97,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**定義**
-   >
-   >「後續頁面」是訪客填妥表單後重新導向的頁面。 外部URL是一個選項，但有更多選項。 請參 [閱設定表單感謝頁面](../../product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)。
+   >「後續頁面」是訪客填妥表單後重新導向的頁面。 外部URL是一個選項，但有更多選項。 請參 [閱設定表單感謝頁面](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)。
 
 1. 按一 **下完成**。
 
@@ -136,11 +121,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. 輸入頁面**名稱**，選取範本，然後按一下「建 **立**」。
+1. 輸入頁面 **名稱**，選擇範本，然後按一 **下建立**。
 
    >[!NOTE]
    >
-   >您的範本可能與我們的螢幕擷取中的範本不同，沒關係，只要選一個，就可繼續。
+   >您的範本可能與我們的螢幕擷取中的範本不同，沒關係，只要選一個，就可以繼續。
 
    ![](assets/image2014-9-24-11-3a8-3a23.png)
 
@@ -168,9 +153,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**定義**
-   >
-   >
    >核准登陸頁面將會讓其上線，並可在網際網路上存取。
 
    ![](assets/image2014-9-24-11-3a9-3a37.png)
@@ -181,7 +163,7 @@ ht-degree: 0%
 
 ## 步驟5:測試表格 {#step-test-your-form}
 
-1. 選擇您的登陸頁面，然後按一下**檢視已核准頁面**。
+1. 選取您的著陸頁面，然後按一 **下「檢視已核准頁面**」。
 
    ![](assets/image2014-9-24-11-3a10-3a9.png)
 
@@ -205,4 +187,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄發送電子郵件爆炸](send-an-email.md) ，簡 [單計分](simple-scoring.md)
+[◄發送電子郵件爆炸](/help/marketo/getting-started/quick-wins/send-an-email.md)
+
+[簡易計分►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
