@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: 公司網路活動報告——行銷檔案——產品檔案
 title: 公司Web活動報表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 公司Web活動報表 {#company-web-activity-report}
 
 瞭解哪些公司正在瀏覽您的網站。 您可以選擇在同一份報表中顯示已知或匿名訪客，但不能同時顯示這兩者。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 建立「 [網頁活動」報表](web-page-activity-report.md) ，以查看瀏覽您網站的個別訪客。
 
