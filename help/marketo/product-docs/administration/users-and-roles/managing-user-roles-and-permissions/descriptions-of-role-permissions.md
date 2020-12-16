@@ -3,21 +3,15 @@ unique-page-id: 6848747
 description: 角色權限說明——行銷人員檔案——產品檔案
 title: 角色權限說明
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1154'
 ht-degree: 0%
 
 ---
 
 
 # 角色權限說明 {#descriptions-of-role-permissions}
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 以下是您可以指派給角色的所有可用權限清單。 權限通常與Marketo內的特定功能區相關聯，並可協助您控制不同使用者可存取的區域和功能。
 
