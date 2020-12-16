@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Drip, Drip, Nurture —— 行銷檔案——產品檔案
 title: 滴水，滴水，培養
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,10 @@ ht-degree: 0%
 
 您可以在Marketo中輕鬆建立進階而複雜的培養系統。 這是方法！
 
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [設定並新增人員](get-set-up-and-add-a-person.md)
->* [匯入人員清單](import-a-list-of-people.md)
-
->
-
+>* [設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [匯入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
 ## 步驟1:建立參與計畫 {#step-create-an-engagement-program}
@@ -68,7 +59,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >沒看到電子郵件編輯嗎？ 您的瀏覽器可能已封鎖視窗。 在您的瀏覽器中啟 [用app.marketo.com的快顯視窗](http://app.marketo.com) ，然後按一下頂端選單列 **中的「編輯草稿** 」。
+   >沒看到電子郵件編輯嗎？ 您的瀏覽器可能已封鎖視窗。 在您的瀏覽器中啟 [用app.marketo.com的快顯視窗](https://app.marketo.com) ，然後按一下頂端選單列 **中的「編輯草稿** 」。
 
 1. 輸入主旨。
 
@@ -92,9 +83,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >不要忘記核准您的電子郵件，否則您以後將無法啟動電子郵件。
 
 1. 現在可重複步驟2動作，以建立另一封電子郵件。
@@ -104,6 +92,7 @@ ht-degree: 0%
 ## 步驟3:新增內容至您的串流 {#step-add-content-to-your-stream}
 
 1. 現在，您應該使用您建立的電子郵件，為您的參與計畫建立內容串流。
+
 1. 選取您的參與方案，然後按一下「串流」 **標籤** 。
 
    ![](assets/fourteen-2.png)
@@ -114,11 +103,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您也可以使 **用「新增內容** 」按鈕或串流**+ **圖示。
+   >您也可以使用「新 **增內容** 」按鈕或串 **流+圖示** 。
 
 ## 步驟4:啟動串流內容 {#step-activate-stream-content}
 
-1. 按一下串流齒輪圖示，然後按一下「啟動所有內容」，即可一次啟 **動所有內容** 。
+1. 按一下串流齒輪圖示，然後按一下「啟動所有內容」，即可一次啟 **動所有內容**。
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
@@ -134,7 +123,7 @@ ht-degree: 0%
 
    ![](assets/seventeen.png)
 
-1. 編輯與所需計畫相符的設定，然後按一下「儲 **存」**。
+1. 編輯與所需排程相符的設定，然後按一下「儲 **存**」。
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
@@ -167,15 +156,15 @@ ht-degree: 0%
    ![](assets/twenty-two.png)
 
 1. 任務完成！
+
 1. 您應該會在您指定的時間和順序收到電子郵件。
 
    >[!NOTE]
    >
-   >**深入探討**
-   >
-   >
-   >進一步瞭解 [參與計畫](http://docs.marketo.com/display/docs/drip+nurturing)。
+   >進一步瞭解 [參與計畫](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)。
 
 <br> 
 
-[◄使命5:導入銷售線索清單](import-a-list-of-people.md)[Mission 7:個人化電子郵件►](personalize-an-email.md)
+[◄使命5:導入銷售線索清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+
+[任務7:個人化電子郵件►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
