@@ -3,9 +3,9 @@ unique-page-id: 2359644
 description: 顯示已知人員的自訂HTML表單——行銷人員檔案——產品檔案
 title: 顯示已知人員的自訂HTML表單
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 顯示已知人員的自訂HTML表單 {#show-custom-html-form-for-known-people}
 
 如果訪客是Cookie（過去提供電子郵件地址的已知人員），那麼為什麼要費心處理表格？ 只要給他們下載按鈕。 這是方法。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 前往「行 **銷****活動」**。
 
