@@ -3,9 +3,9 @@ unique-page-id: 2359447
 description: 建立區段——行銷檔案——產品檔案
 title: 建立區段
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 建立區段 {#create-a-segmentation}
 
 區段可讓您將人員群組成不同的描述檔，以利建立報告和動態內容。 這裡是如何建立它們。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 轉至「數 **據庫**」。
 
