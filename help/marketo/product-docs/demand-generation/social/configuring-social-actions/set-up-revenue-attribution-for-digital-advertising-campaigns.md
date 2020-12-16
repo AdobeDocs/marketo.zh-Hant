@@ -3,21 +3,15 @@ unique-page-id: 10098812
 description: 設定數位廣告宣傳的收入歸因——行銷檔案——產品檔案
 title: 設定數位廣告宣傳的收入歸因
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '860'
 ht-degree: 0%
 
 ---
 
 
 # 設定數位廣告宣傳的收入歸因 {#set-up-revenue-attribution-for-digital-advertising-campaigns}
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 以下說明如何為數位廣告通道和宣傳活動設定收入歸因。 設定之後，您就可以針對數位廣告進行首次接觸和多點接觸收入歸因，就像在其他Marketo方案中一樣。
 
