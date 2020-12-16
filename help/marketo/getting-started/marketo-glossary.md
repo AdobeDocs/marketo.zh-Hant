@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: 行銷人員辭彙表——行銷人員檔案——產品檔案
 title: Marketo辭彙表
 translation-type: tm+mt
-source-git-commit: ca1f8ba28b3e3c096a86fe4c1ba8c96529b97b84
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -357,7 +357,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" rel="nofollow"><strong>精疲力盡</strong></a></td> 
-   <td colspan="1">當某人收到參與串流中的每段內容時。 被標示為精疲力盡的人將會一如既往，直到新增 <strong>其他</strong> 內容。</td> 
+   <td colspan="1">當某人收到參與串流中的每段內容時。 被標示為精疲力盡的人將會一如既往，直到新增 <strong>其他</strong> 內容為止。</td> 
   </tr> 
  </tbody> 
 </table>
@@ -482,7 +482,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>銷售線索</strong></td> 
-   <td>在 <strong>Marketo Engage</strong>中，銷售機會是上一個詞語(由<a href="/help/marketo/getting-started/updates-to-marketo-terminology.md" rel="nofollow">person <strong></strong></a><strong></strong> )，用於描述您透過行銷活動參與的Marketo資料庫中的個人。 在您 <strong>的CRM</strong>中，銷售機會可能代表不同的概念(即與銷售機會相關的個人 <strong></strong>)，與Marketo的功能無關。</td> 
+   <td>在 <strong>Marketo Engage</strong>中，銷售機會是上一個詞語(由 <strong>person</strong>取代)，用於描述您透過行銷活動參與的Marketo資料庫中的 <strong></strong> 個人。 在您 <strong>的CRM</strong>中，銷售機會可能代表不同的概念(即與銷售機會相關的個人 <strong></strong>)，與Marketo的功能無關。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>銷售線索資料庫</strong></td> 
