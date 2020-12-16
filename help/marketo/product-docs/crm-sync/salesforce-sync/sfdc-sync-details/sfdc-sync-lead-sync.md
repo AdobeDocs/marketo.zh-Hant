@@ -3,21 +3,15 @@ unique-page-id: 2953455
 description: SFDC同步——銷售線索同步——行銷人員文檔——產品文檔
 title: SFDC同步——銷售線索同步
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
 
 # SFDC同步：銷售線索同步 {#sfdc-sync-lead-sync}
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 您知道Marketo會從您的Salesforce資料庫同步嗎？ 它會同步，等待5分鐘，然後再次同步。 整天，每天。 以下是Marketo如何特別對待Salesforce銷售機會的一些詳細資訊。
 
