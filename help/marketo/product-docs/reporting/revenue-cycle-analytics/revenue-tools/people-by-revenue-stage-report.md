@@ -3,9 +3,9 @@ unique-page-id: 2360418
 description: 依收入階段列出的人員報表——行銷檔案——產品檔案
 title: 按收入階段列出的人員報表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 按收入階段列出的人員報表 {#people-by-revenue-stage-report}
 
 您可以建立報表，顯示您的人員所處 [的收入週期模](http://docs.marketo.com/display/docs/revenue+cycle+models) 型階段。 只要報表的指定日期範圍有人員餘額，報表就會包含指定模型中的任何階段。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!NOTE]
 >
