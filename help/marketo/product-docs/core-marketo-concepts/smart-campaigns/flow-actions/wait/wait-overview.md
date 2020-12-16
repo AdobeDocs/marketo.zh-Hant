@@ -3,21 +3,15 @@ unique-page-id: 1146950
 description: 等待——行銷人員檔案——產品檔案
 title: 等待
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 
 # 等待 {#wait}
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](/help/marketo/getting-started/updates-to-marketo-terminology.md)。
 
 ## 概觀 {#overview}
 
