@@ -3,7 +3,7 @@ unique-page-id: 11387674
 description: 行銷人員術語更新——行銷人員檔案——產品檔案
 title: Marketo術語的更新
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -150,4 +150,3 @@ ht-degree: 0%
 >在您的主畫面上顯示的圖格將反映購買的模組。
 
 感謝您在此次更新期間的耐心等待。
-
