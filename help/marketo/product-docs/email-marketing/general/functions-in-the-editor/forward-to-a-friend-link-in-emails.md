@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: 轉寄至電子郵件中的朋友連結——行銷人員檔案——產品檔案
 title: 轉寄至電子郵件中的朋友連結
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '755'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 將「轉寄給朋友」連結新增至您的電子郵件，可讓您追蹤透過此連結收到轉寄電子郵件的人員，並自動將他們新增為不在資料庫中的新人。
 
 例如，假設Keith使用「轉寄給朋友」連結，將電子郵件轉寄給未知的人Mark。 Mark會自動新增為新人，並獲得自己的Cookie，而且他的任何電子郵件和網頁活動都會連結到他。 不過，如果Keith使用其電子郵件客戶端中的轉寄按鈕，Mark會以Keith的身分被錯誤地轉送，而他的活動則以Keith&#39;s的身分記錄。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 新增電子郵件範本的連結 {#add-the-link-to-an-email-template}
 
