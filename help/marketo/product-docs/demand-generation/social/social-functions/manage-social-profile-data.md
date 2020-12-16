@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: 管理社交設定檔資料——行銷檔案——產品檔案
 title: 管理社交設定檔資料
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 管理社交設定檔資料 {#manage-social-profile-data}
 
 當某人與Marketo社交應用程式互動 [，或授權其社交網路以預先填入Marketo表格並填入](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)Social表格時 [](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md),Marketo會擷取其社交個人檔案中的所有可用資料。 您可以在「人員詳細資訊」頁 [面上查看此資訊](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)，或將其作為列添加到智 [能清單的自定義視圖中](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List)。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 社交表單填寫和社交應用程式會擷取略有不同的欄位集；請參閱以下各節。
 
