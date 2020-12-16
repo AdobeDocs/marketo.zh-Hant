@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: 匯入人員清單——行銷人員檔案——產品檔案
 title: 匯入人員清單
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -15,35 +15,21 @@ ht-degree: 0%
 
 ## 任務：將貿易展會與會者的試算表清單匯入您的資料庫 {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [設定並新增人員](get-set-up-and-add-a-person.md)
+>[設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
->
-
-
-
-`   
-`  在本教學課程中，您將學習如何將試算表檔案中的人員匯入Marketo。
+在本教學課程中，您將學習如何將試算表檔案中的人員匯入Marketo。
 
 ## 步驟1:下載並編輯試算表 {#step-download-and-edit-a-spreadsheet}
 
-1. 若要開始，請將我們的練習試算表檔案(** [tradeshow-thattenders.csv](http://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)**)下載至您的電腦。
+1. 若要開始，請將我們的練習試算表&#x200B;[**檔案(tradeshow-theaderts.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv))下載至您的電腦。
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >匯入日期時，請使用下列格式： **9/21/15** （月／日/年）。
+   >匯入日期時，請使用下列格式： **9/21/20** （月／日/年）。
 
    >[!NOTE]
    >
@@ -67,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **將方案命名** 「我的商展方案」，並選取「活動」做為方案 **類型。**
+1. **將方案命名** 「我的商展方案」，並選取「活動」做為方案 **類型**。
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
@@ -77,9 +63,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深入探討**
->
->事件程式在特定日期發生。 進一步瞭解 [**Events**](http://docs.marketo.com/display/docs/events)。
+>事件程式在特定日期發生。 進一步瞭解 [**Events**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)。
 
 ## 步驟3:將試算表匯入Marketo {#step-import-your-spreadsheet-into-marketo}
 
@@ -115,11 +99,9 @@ ht-degree: 0%
    >
    >在「清單匯入模式」中，選 **擇「略過新人和更新** 」表示您不會影響現有人員記錄或記錄任何活動。 如果您想要快速、預先篩選的現有人員靜態清單以便用於行銷活動，請使用此模式。 選擇此模式將：
    >
-   >    
-   >    
-   >    * 略過建立新人
-   >    * 略過人員欄位更新
-   >    * 略過活動記錄
+   > * 略過建立新人
+   > * 略過人員欄位更新
+   > * 略過活動記錄
 
 
 1. 將「清單欄」欄位對應至其各自的「行銷人員欄位」，然後按「下 **一步**」。
@@ -128,7 +110,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >欄標題應始終與欄位完全相符（區分大小寫），以取得最佳的自動對應結果。 如果您使用自訂欄位，但在下拉式清單中未看到這些欄位，請返回並建 [立](http://docs.marketo.com/display/DOCS/Create+a+Custom+Field+in+Marketo) ，以便成為選項。
+   >欄標題應始終與欄位完全相符（區分大小寫），以取得最佳的自動對應結果。 如果您使用自訂欄位，但在下拉式清單中未看到這些欄位，請返回並建 [立](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) ，以便成為選項。
 
    >[!NOTE]
    >
@@ -148,9 +130,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深入探討**
->
->您可以追蹤方案會籍，分析方案的成功。 進一步瞭解 [**方案**](http://docs.marketo.com/display/docs/programs)。
+>您可以追蹤方案會籍，分析方案的成功。 進一步瞭解 [**方案**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)。
 
 ## 任務完成 {#mission-complete}
 
@@ -158,4 +138,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄使命4:電子郵件自動回應](email-auto-response.md)[任務6:滴水，滴水，培養►](drip-drip-nurture.md)
+[◄使命4:電子郵件自動回應](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+
+[任務6:滴水，滴水，培養►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
