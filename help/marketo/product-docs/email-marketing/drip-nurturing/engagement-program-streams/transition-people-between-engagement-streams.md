@@ -3,9 +3,9 @@ unique-page-id: 2359947
 description: 在互動串流——行銷人員至檔案——產品檔案之間轉換人員
 title: 在參與串流之間轉換人員
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 在參與串流之間轉換人員 {#transition-people-between-engagement-streams}
 
 參與計畫可以有多個串流。 如果 [您新增串流](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)，您會想要定義人們從一個串流移至另一個串流的方式。 這些稱為轉 **場規則。**
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 前往行 **銷活動**。
 
