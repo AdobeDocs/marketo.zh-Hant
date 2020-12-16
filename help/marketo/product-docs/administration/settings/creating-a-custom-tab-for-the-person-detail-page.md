@@ -3,21 +3,15 @@ unique-page-id: 2360305
 description: 建立人員詳細資料頁面的自訂標籤——行銷人員檔案——產品檔案
 title: 為「人員詳細資訊」頁建立自定義標籤
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 
 # 為「人員詳細資訊」頁建立自定義標籤 {#creating-a-custom-tab-for-the-person-detail-page}
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 如果您發現自己一次又一次地在人員詳細資料中尋找特定欄位集，請考慮建立自訂版面，讓工作更輕鬆。
 
