@@ -3,21 +3,15 @@ unique-page-id: 6095047
 description: 編輯「不追蹤」瀏覽器支援設定——行銷人員檔案——產品檔案
 title: 編輯「不追蹤」瀏覽器支援設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 
 # 編輯「不追蹤」瀏覽器支援設定 {#edit-do-not-track-browser-support-settings}
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 「Do Not Track」是瀏覽器要求，在Marketo等系統中無法追蹤。 您可依照下列步驟執行該要求。
 
