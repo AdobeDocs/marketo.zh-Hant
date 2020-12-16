@@ -3,9 +3,9 @@ unique-page-id: 2359424
 description: 提醒銷售代表——行銷人員文檔——產品文檔
 title: 提醒銷售代表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,9 @@ ht-degree: 0%
 
 若要自動傳送警報電子郵件給業務代表，您只需要寄送警報電子郵件和電子郵件促銷活動。 這是如何做到的。
 
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [具有表單的著陸頁面](landing-page-with-a-form.md)
-
->
-
-
+>[具有表單的著陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 ## 步驟1:建立警報電子郵件 {#step-create-an-alert-email}
 
@@ -37,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/one-5.png)
 
-1. 選 **擇在「Form** quick win」(帶有Form [quick win的登錄頁)中建立的Program](landing-page-with-a-form.md) （程式），然後在「 **New** 」(新建 **)「** New Local Asset」（本地資產）下面。
+1. 選 **擇在「Form** quick win」(帶有Form [quick win的登錄頁)中建立的Program](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) （程式），然後在「 **New** 」(新建 **)「** New Local Asset」（本地資產）下面。
 
    ![](assets/two-6.png)
 
@@ -71,7 +61,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}}是警報電子郵件的特殊Token。 請參 [閱使用傳送警報資訊Token](../../product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) ，瞭解更多資訊。
+   >{{SP_Send_Alert_Info}}是警報電子郵件的特殊Token。 請參 [閱使用傳送警報資訊Token](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) ，瞭解更多資訊。
 
 1. 按一下 **儲存**。
 
@@ -87,7 +77,7 @@ ht-degree: 0%
 
 ## 步驟2:建立警報觸發器促銷活動 {#step-create-an-alert-trigger-campaign}
 
-1. 選擇 **先前建立的My Program** ，然後在**New **click **New Smart Campaign下方**。
+1. 選擇 **My Program** (我的程式 **)之前建立的項目，然後在「New** (新增 **)Smart Campaign(智慧**&#x200B;型促銷活動)」下。
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
@@ -115,12 +105,11 @@ ht-degree: 0%
 
    ![](assets/nineteen-2.png)
 
-1. 前往「排 **程** 」標籤，然後按一下「啟動**」按鈕。
+1. 前往「排程 **」標籤** ，然後按一下「 **啟動** 」按鈕。
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
-   >
    >
    >將「資 **格規則** 」設 **定為每次** （透過編輯「智慧型促銷活動」），以允許同一人多次觸發警報。
 
@@ -135,9 +124,6 @@ ht-degree: 0%
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
    >[!NOTE]
-   >
-   >**提醒**
-   >
    >
    >不要忘記核准登陸頁面；他們要等到批准才上線。
 
@@ -155,4 +141,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄使命7:個人化電子郵件](personalize-an-email.md)[任務9:更新銷售線索資料►](update-person-data.md)
+[◄使命7:個人化電子郵件](personalize-an-email.md)
+
+[任務9:更新銷售線索資料►](update-person-data.md)
