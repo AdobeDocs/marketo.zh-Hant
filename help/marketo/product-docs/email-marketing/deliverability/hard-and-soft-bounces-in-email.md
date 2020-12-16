@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: 電子郵件中的硬性和軟性彈回數——行銷檔案——產品檔案
 title: 電子郵件中的硬彈回數和軟彈回數
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 電子郵件中的硬彈回數和軟彈回數 {#hard-and-soft-bounces-in-email}
 
 當郵件伺服器告訴Market無法傳送該人員的電子郵件時，硬彈回數會導致該人員的電子郵件地址無效。 彈跳的柔和意味著，將電子郵件傳送給對方時出了問題；這會自動解決，有時需要數天。 硬性彈回數和軟性彈回數皆由多 [個類別組成](http://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838)。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 反彈分類 {#bounce-classification}
 
