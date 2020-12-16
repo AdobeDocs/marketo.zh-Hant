@@ -3,9 +3,9 @@ unique-page-id: 1146997
 description: 在等待流程步驟中使用日期Token —— 行銷人員檔案——產品檔案
 title: 在等待流程步驟中使用日期Token
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 在等待流程步驟中使用日期Token {#use-a-date-token-in-a-wait-flow-step}
 
 您可以使用「等待流程」步驟，暫停個人在智慧型促銷活動中的歷程，直到使用日期代號的特定日期為止。 您也可以修改結束日期，以天數為單位。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!NOTE]
 >
