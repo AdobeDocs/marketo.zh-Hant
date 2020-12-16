@@ -3,21 +3,15 @@ unique-page-id: 2360360
 description: 建立網頁掛接——行銷檔案——產品檔案
 title: 建立網頁掛接
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
 
 # 建立網頁掛接 {#create-a-webhook}
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 使用網頁勾點，運用協力廠商的Web服務來傳送文字訊息、擴充人員資料等。
 
