@@ -3,9 +3,9 @@ unique-page-id: 7516241
 description: SFDC同步——銷售線索隊列——行銷文檔——產品文檔
 title: SFDC同步——銷售線索隊列
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # SFDC同步：銷售線索隊列 {#sfdc-sync-lead-queue}
 
 Marketo可讓您將人員新增至 [Salesforce銷售線索佇列](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) ，以協助銷售線索分配。 以下是詳細資訊。
-
->[!NOTE]
->
->**FYI**
->
->Marketo現在正在標準化所有訂閱的語言，因此您可能會在您的訂閱中看到潛在客戶／潛在客戶，並在docs.marketo.com中看到個人／人員。 這些術語意義相同；它不會影響文章指示。 還有一些其他變化。 [進一步瞭解](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 如何指派人員至Marketo中的佇列？ {#how-to-assign-a-person-to-a-queue-in-marketo}
 
