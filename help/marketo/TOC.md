@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 行銷人員指南
 user-guide-description: 行銷人員產品檔案
 translation-type: tm+mt
-source-git-commit: 8c4f0985e11ed85a9f696ac2ff89c089aa9184c3
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '7850'
+source-wordcount: '7840'
 ht-degree: 0%
 
 ---
@@ -43,8 +43,6 @@ ht-degree: 0%
       + [要檢出的項目](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [要檢閱的項目：核心技能](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [取得協助的方式](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-   + [瞭解和使用Launch Pack](getting-started/understanding-and-using-the-launch-pack.md)
-   + [Marketo術語的更新](getting-started/updates-to-marketo-terminology.md)
 + 產品檔案 {#product-docs}
    + 帳戶型行銷 {#account-based-marketing}
       + 設定 {#setup}
@@ -783,9 +781,9 @@ ht-degree: 0%
                + [範本12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [範本12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [範本12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [範本13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [範本13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [範本13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [範本13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [範本13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [範本14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
