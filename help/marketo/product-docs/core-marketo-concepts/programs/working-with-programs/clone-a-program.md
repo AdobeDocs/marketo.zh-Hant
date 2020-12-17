@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 克隆程式 {#clone-a-program}
+# 克隆程式{#clone-a-program}
 
 您可以快速輕鬆地複製整個程式及其所有資產，而不需手動重建所有項目。 這是方法。
 
-1. 查找並選擇要克隆的程式，然後在「程式操作」( **Program Actions)下按一下** 「 **克隆」(Clone)。**
+1. 查找並選擇要克隆的程式，然後在&#x200B;**Program Actions**&#x200B;下按一下&#x200B;**Clone.**
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >程式可以複製至促銷活 [動資](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)[料夾](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) 或 [工作區](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)。 請確定您共用所有基礎相依資產（電子郵件、程式碼片段、登陸頁面範本等） 在複製之前使用目標工作區。
+   >程式可以克隆到[campaign](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [資料夾](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)或[workspaces](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)中。 請確定您共用所有基礎相依資產（電子郵件、程式碼片段、登陸頁面範本等） 在複製之前使用目標工作區。
 
    ![](assets/cloneto.png)
 
@@ -41,13 +41,13 @@ ht-degree: 0%
    選擇要將程式克隆到的資料夾。
    ![](assets/choosefolderclone.png)
 
-1. 新增可選說明，然後按一下「 **建立**」。 看看您能以多快的速度建立新程式，讓其所有資產都準備就緒！
+1. 新增可選說明，然後按一下「建立」。 ****&#x200B;看看您能以多快的速度建立新程式，讓其所有資產都準備就緒！
 
    ![](assets/createclone.png)
 
    >[!TIP]
    >
-   >使用此技巧和Token [](http://docs.marketo.com/display/docs/using+tokens) ，讓您輕鬆建立新程式。
+   >使用此技巧與[Token](http://docs.marketo.com/display/docs/using+tokens)一起使用，讓建立新程式變得易如反掌。
 
    >[!CAUTION]
    >
