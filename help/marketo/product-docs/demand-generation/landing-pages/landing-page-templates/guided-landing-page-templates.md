@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 引導式著陸頁面範本 {#guided-landing-page-templates}
+# 引導式著陸頁面範本{#guided-landing-page-templates}
 
-瀏覽我們的範例範本集，以便與「引導式著陸頁 [面編輯器」搭配使用](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)。 每個範本都完全自適應，並以引導架構為基礎。
+瀏覽我們的範例範本集，以搭配[引導式著陸頁面編輯器](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)使用。 每個範本都完全自適應，並以引導架構為基礎。
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 1. 按一下大型檢視的範本名稱。
 1. 下載所選範本。
-1. 在Marketo中，導覽至 **Design Studio。**
-1. 按一 **下左側樹狀結構中的** 「著陸頁面」，然後選取「范 **本」。**
+1. 在Marketo中，導覽至&#x200B;**Design Studio.**
+1. 按一下左側樹中的&#x200B;**著陸頁** ，然後選擇&#x200B;**模板。**
 
-1. 在功能表列中，按一下「匯 **入範本」。**
-1. 選擇下載的檔案，輸入範本名稱，然後按一下「匯入」 **(請確定選取描述性名稱並指出編輯模式為「** 引導 ****」)。
+1. 在菜單欄中，按一下&#x200B;**導入模板。**
+1. 選擇下載的檔案，輸入範本名稱，然後按一下「匯入」****（請務必選取描述性名稱，並指出編輯模式為&#x200B;**Guided**）。
 
 |  |  |  |
 |---|---|---|
@@ -75,7 +75,7 @@ ht-degree: 0%
 | ![](assets/12c.jpg) | ![](assets/12d.jpg) | ![](assets/12e.jpg) |
 | [範本12-F](guided-landing-page-templates/template-12-f.md) | [範本13-C](guided-landing-page-templates/template-13-a.md) | [範本13-B](guided-landing-page-templates/template-13-b.md) |
 | ![](assets/12f.jpg) | ![](assets/13a.jpg) | ![](assets/13b.jpg) |
-| [範本13-A](guided-landing-page-templates/template-13-c.md) | [範本13-D](guided-landing-page-templates/template-13-d.md) | [範本13-E](guided-landing-page-templates/template-13-e.md) |
+| [範本13-C](guided-landing-page-templates/template-13-c.md) | [範本13-D](guided-landing-page-templates/template-13-d.md) | [範本13-E](guided-landing-page-templates/template-13-e.md) |
 | ![](assets/13c.jpg) | ![](assets/13d.jpg) | ![](assets/13e.jpg) |
 | [範本14-A](guided-landing-page-templates/template-14-a.md) | [範本14-B](guided-landing-page-templates/template-14-b.md) | [範本14-C](guided-landing-page-templates/template-14-c.md) |
 | ![](assets/14a.jpg) | ![](assets/14b.jpg) | ![](assets/14c.jpg) |
