@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Marketo術語的更新 {#updates-to-marketo-terminology}
+# Marketo術語{#updates-to-marketo-terminology}的更新
 
 我們正在對平台進行一些改變，這將影響某些東西的名稱。 如果您在2016年3月有新的Marketo實例，或者您的公司在2016年7月之後續約，您現在可能會看到新術語。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 那麼，有什麼改變？
 
-## 銷售線索現在是人 {#lead-is-now-person}
+## Lead is Now Person {#lead-is-now-person}
 
 最大的變更是將Lead/Lead重新命名為Person/People。
 
@@ -71,17 +71,17 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-領導與人 **是一回事**。
+Lead和Person **是相同的**。
 
 ## Token {#tokens}
 
-含有字首的Token並 **未變更**。 我們為任何混淆表示歉意；不過，若變更所有Token以符合新術語，將會中斷目前使用中的Token。 因此，您仍會看到Token，例如「`{{lead.First Name}}`」。 沒有個人專屬的預付碼。
+含有字詞lead的Token **未變更**。 我們為任何混淆表示歉意；不過，若變更所有Token以符合新術語，將會中斷目前使用中的Token。 因此，您仍會看到Token，例如&quot;`{{lead.First Name}}`&quot;。 沒有個人專屬的預付碼。
 
 >[!NOTE]
 >
->有一 *個代號* &quot;Person Notes&quot;，但是代號總是存在。 它通常用於CRM中的描述欄位（如果有的話）。
+>*is*&#x200B;是名為「Person Notes」的代號，但代號始終存在。 它通常用於CRM中的描述欄位（如果有的話）。
 
-## 現場管理 {#field-management}
+## 欄位管理{#field-management}
 
 包含詞語Lead的欄位已用Person取代，或Lead已刪除。 但有一個明顯的例外是「銷售線索所有者」欄位。 它現在稱為「銷售擁有者」。
 
@@ -110,9 +110,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如需受影響欄位名稱的完整清單，請造訪此支 [援文章](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens)。
+>如需受影響欄位名稱的完整清單，請造訪此[支援文章](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens)。
 
-## 即時個人化(RTP)現已成為網頁個人化 {#real-time-personalization-rtp-is-now-web-personalization}
+## Real-Time Personalization(RTP)現在成為Web個人化{#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -139,11 +139,11 @@ ht-degree: 0%
 
 除了名稱變更外，它現在還包含4個不同的應用程式：
 
-| **網 [頁個人化](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | 在主螢幕上有自己的圖格 |
+| ** [Web個人化](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | 在主螢幕上有自己的圖格 |
 |---|---|
-| **帳 [戶型網路行銷](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | 可透過Web Personalization圖格存取 |
-| **個人 [化重新定位](http://docs.marketo.com/display/DOCS/Website+Retargeting)** | 可透過Web Personalization圖格存取 |
-| **預 [測性內容](http://docs.marketo.com/display/DOCS/Predictive+Content)** | 在主螢幕上有自己的圖格 |
+| ** [帳戶型網路行銷](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | 可透過Web Personalization圖格存取 |
+| ** [個人化重新定位](http://docs.marketo.com/display/DOCS/Website+Retargeting)** | 可透過Web Personalization圖格存取 |
+| ** [預測性內容](http://docs.marketo.com/display/DOCS/Predictive+Content)** | 在主螢幕上有自己的圖格 |
 
 >[!NOTE]
 >
