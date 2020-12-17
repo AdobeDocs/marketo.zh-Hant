@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 將Social部署在您的網站上 {#deploy-social-on-your-website}
+# 將Social部署在您的網站{#deploy-social-on-your-website}
 
 將社交應用程式內嵌在非行銷頁面上。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. 從「 **社交應** 用程式動作」中選取「內嵌代碼 ****」** **。
+1. 從社交應用程式動作選擇&#x200B;**內嵌****程式碼**** **。
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. 如果您需要將社交應用程式的大小設定為頁面上的特定維度，請將 **outerHeight** 和 **outerWidth** 選項新增至第二個程式碼片段。 例如，您可以新增選項=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39;，如下所示：
+1. 如果您需要將社交應用程式的大小設定為頁面上的特定維度，請將&#x200B;**outerHeight**&#x200B;和&#x200B;**outerWidth**&#x200B;選項新增至第二個程式碼片段。 例如，您可以新增選項=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39;，如下所示：
 
    ![](assets/socialonsite-resizewidget2.png)
 
