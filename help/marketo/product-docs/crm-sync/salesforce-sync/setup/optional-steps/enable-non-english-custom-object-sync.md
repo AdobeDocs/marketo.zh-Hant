@@ -11,45 +11,45 @@ ht-degree: 0%
 ---
 
 
-# 啟用非英文自訂物件同步 {#enable-non-english-custom-object-sync}
+# 啟用非英文自訂物件同步{#enable-non-english-custom-object-sync}
 
 如果您的Marketo同步使用者設定為英語以外的語言，在嘗試啟用自訂物件同步時可能會發生錯誤。
 
-## 錯誤 {#the-error}
+## 錯誤{#the-error}
 
 ![](assets/image2014-12-10-13-3a17-3a51.png)
 
-## 繞過它 {#getting-around-it}
+## 周旋{#getting-around-it}
 
 1. 使用行銷人員登入Salesforce，以同步使用者。
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. 在用戶名下，轉至「 **Setup」（設定）**。
+1. 在用戶名下，轉至&#x200B;**Setup**。
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. 在「個 **人資訊**」下，單 **擊「我的個人資訊」**。
+1. 在&#x200B;**個人資訊**&#x200B;下，按一下&#x200B;**我的個人資訊**。
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
-1. 按一 **下編輯**。
+1. 按一下&#x200B;**編輯**。
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. 將「語 **言** 」變 **更為英文**。
+1. 將&#x200B;**Language**&#x200B;變更為&#x200B;**English**。
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. 回到Marketo，在「管理> **Salesforce >物件」下方** ，按一 **下「重新整理結構」**。
+1. 回到Marketo，在「**管理> Salesforce >物件**」下，按一下「重新整理結構&#x200B;**」。**
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. 這將以英文提取對象清單。 現在，選取您選擇的物件，然後按一下「 **啟用同步」**。
+1. 這將以英文提取對象清單。 現在，選擇您選擇的對象，然後按一下「啟用同步」。****
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
