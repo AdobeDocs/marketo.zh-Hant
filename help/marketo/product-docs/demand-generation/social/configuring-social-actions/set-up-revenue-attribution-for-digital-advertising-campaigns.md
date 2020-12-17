@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 設定數位廣告宣傳的收入歸因 {#set-up-revenue-attribution-for-digital-advertising-campaigns}
+# 設定數位廣告促銷活動的收入歸因{#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
 以下說明如何為數位廣告通道和宣傳活動設定收入歸因。 設定之後，您就可以針對數位廣告進行首次接觸和多點接觸收入歸因，就像在其他Marketo方案中一樣。
 
@@ -29,19 +29,19 @@ ht-degree: 0%
 
 
 
-## 建立預設程式 {#create-a-default-program}
+## 建立預設程式{#create-a-default-program}
 
 與某些程式（例如電子郵件）不同，預設程式會定期執行一段時間，但一律開啟。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-5.png)
 
-1. 按一下 **新建** ，然後選 **擇新建程式**。
+1. 按一下&#x200B;**新建**&#x200B;並選擇&#x200B;**新建程式**。
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. 如果已有程式，可以克 [隆](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)。
+1. 如果已有程式，則可以[克隆它](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)。
 
    >[!TIP]
    >
@@ -65,7 +65,7 @@ ht-degree: 0%
    >
    >或者，將其設為Channel_Adsource_AssetName_Region_UniqueIdNumber。 這看起來可能是：Social-Paid_Facebook_NewGuide_NA_123。
 
-## 建立新名稱的智慧型促銷活動 {#create-a-smart-campaign-for-new-names}
+## 建立新名稱的智慧型促銷活動{#create-a-smart-campaign-for-new-names}
 
 1. 在智慧型促銷活動中，建立包含兩個觸發器和兩個篩選器的智慧型清單，如所示。
 
@@ -73,19 +73,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >這兩個觸發器和「捕獲的名稱 **程式」篩選器中使用的查詢字串** 。 此處顯示的查詢字串僅為範例。 如果您已複製欄位，請直接取代這些欄位。
+   >這兩個觸發器和&#x200B;**Program That Captured Name**&#x200B;篩選器中使用的查詢字串是您唯一的。 此處顯示的查詢字串僅為範例。 如果您已複製欄位，請直接取代這些欄位。
 
-1. 建立流程步驟，將屬性變更為 **贏取方案** ，並將「新值」設定為您為付費社交促銷活動所定義的值。
+1. 建立流程步驟，將屬性變更為&#x200B;**贏取計畫**，並將「新值」設定為您為付費社交促銷活動所定義的值。
 
    ![](assets/image2016-3-14-14-3a58-3a6.png)
 
 1. 排程並啟動促銷活動。
 
-## 為狀態／計畫成功建立智慧型促銷活動 {#create-a-smart-campaign-for-status-program-success}
+## 建立狀態／計畫成功的智慧型促銷活動{#create-a-smart-campaign-for-status-program-success}
 
 您需要第二個智慧型促銷活動來變更人員狀態，以便他們能夠取得方案成功並納入收入歸因計算。
 
-1. 在「填 **出表單」觸發器** ，在查詢字串中輸入程式名稱。 如果要克隆程式，只需將舊的查詢字串名稱替換為新名稱。
+1. 在&#x200B;**填寫表單**&#x200B;觸發器中，在查詢字串中輸入程式名。 如果要克隆程式，只需將舊的查詢字串名稱替換為新名稱。
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
 1. 排程並啟動促銷活動。
 
-## 建立您的廣告 {#create-your-ad}
+## 建立您的廣告{#create-your-ad}
 
 在您設定方案和促銷活動後，請建立新廣告。
 
@@ -120,16 +120,16 @@ ht-degree: 0%
    >
    >    
    >    
-   >    * **source** 是用作渠道識別碼的人員來源
-   >    * **comment** 是為每個程式建立的唯一標識符
-   >    * **camp** 是Facebook、LinkedIn或Google中的促銷活動
-   >    * **kk** 是您要擷取的關鍵字或資產名稱
+   >    * **來** 源是用作渠道識別碼的人員來源
+   >    * **注** 意為每個程式建立的唯一標識符
+   >    * **在Facebook** 、LinkedIn或Google中促銷活動
+   >    * **將您** 要擷取的關鍵字或資產名稱kkis
 
    >    
    >    
    >**這4個詞語必須全部為小寫，而且URL中不能有任何空格，才能擷取此資訊。**
 
-## 最佳實務 {#best-practices}
+## 最佳做法{#best-practices}
 
 使用單一渠道標籤來代表所有數位廣告，或如果您想要與其他行銷渠道（例如社交付費、搜尋付費、顯示、重新定位）進行更詳細的比較，則使用多個渠道標籤。
 
