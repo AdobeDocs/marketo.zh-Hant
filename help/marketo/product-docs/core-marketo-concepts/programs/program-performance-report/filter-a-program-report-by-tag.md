@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 依標籤篩選程式報表 {#filter-a-program-report-by-tag}
+# 依標籤{#filter-a-program-report-by-tag}篩選程式報表
 
-將您的計 [划效能報](create-a-program-performance-report.md)告集中在特 [定標籤上](http://docs.marketo.com/display/docs/tags)。
+將[程式效能報告](create-a-program-performance-report.md)重點放在特定[標籤](http://docs.marketo.com/display/docs/tags)上。
 
-1. 前往 **Marketing** **Activity** (或 **Analytics**)。
+1. 前往&#x200B;**Marketing****Activity**（或&#x200B;**Analytics**）。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選擇您的 **計畫績效** 報告。
+1. 選擇&#x200B;**Program Performance**&#x200B;報告。
 
    ![](assets/image2014-9-23-16-3a12-3a36.png)
 
-1. 按一下「 **設定** 」標籤，並拖曳至其中一個 **「標籤** 」篩選器。
+1. 按一下「**Setup**」標籤，並拖曳至其中一個「標籤&#x200B;**」篩選器上。**
 
    ![](assets/prospects.jpg)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/prospect1.jpg)
 
-1. 按一 **下套用**。
+1. 按一下&#x200B;**Apply**。
 
    ![](assets/prospect2.jpg)
 
-1. 完成！ 按一下「 **報表** 」標籤 ** ，只查看與報表中選取的標籤相符的程式。
+1. 完成！ 按一下&#x200B;**報表**&#x200B;標籤，查看&#x200B;**&#x200B;符合報表中選取標籤的程式。
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
@@ -53,5 +53,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >瞭解「基本報表」中 [的所有報表](http://docs.marketo.com/display/docs/basic+reporting)。
+   >瞭解[基本報表](http://docs.marketo.com/display/docs/basic+reporting)中的所有報表。
 
