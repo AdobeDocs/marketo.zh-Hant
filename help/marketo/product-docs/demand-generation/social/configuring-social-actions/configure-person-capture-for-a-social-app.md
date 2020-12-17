@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 設定社交應用程式的人員擷取 {#configure-person-capture-for-a-social-app}
+# 設定社交應用程式的人員擷取{#configure-person-capture-for-a-social-app}
 
-當您建立轉 [介選件](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 或抽獎活 [動時](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)，可以設定您要求的資訊和您要求的人提供的資訊，以便參與。
+當您建立[反向連結選件](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)或[抽獎活動](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)時，您可以設定您要求的資訊以及您要求人員提供的資訊，以便參與。
 
 >[!NOTE]
 >
 >只有在先前未提供此資訊時，才會提示使用者提供此資訊。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/ma-2.png)
 
-1. 選取應用程式，然後按一下「編 **輯草稿」。**
+1. 選取應用程式，然後按一下「編輯草稿」。****
 
    ![](assets/image2014-9-22-10-3a57-3a57.png)
 
-1. 在社交應用程式編輯器中， **前往「註冊流量** >人 **員擷取」。**
+1. 在社交應用程式編輯器中，前往&#x200B;**註冊流量** > **人員擷取。**
 
    ![](assets/three-1.png)
 
@@ -42,13 +42,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >無論如何，參與者仍會收到您 [*的優惠*](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) ，寄送營運電子郵件。
+   >無論如何，參與者仍會收到您選件寄送的&#x200B;[*營運*&#x200B;電子郵件](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)。
 
-1. 在「查看和編輯」窗口中，按一下「 **顯示編輯** 」並在共用提示中編輯消息。
+1. 在「查看和編輯」窗口中，按一下「顯示編輯」**，然後在共用提示中編輯消息。**
 
    ![](assets/image2014-9-22-11-3a2-3a56.png)
 
 >[!MORELIKETHIS]
 >
->現在，您可 [以設定社交註冊流程](configure-social-sign-up-share-flow.md) ，並編輯將張貼至每個社交網路的分享訊息。
+>現在，您可以[設定社交註冊流程](configure-social-sign-up-share-flow.md)，並編輯將張貼至每個社交網路的分享訊息。
 
