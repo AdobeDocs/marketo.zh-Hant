@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. 按一下標 **[!UICONTROL Streams]** 簽。
+1. 按一下&#x200B;**[!UICONTROL Streams]**&#x200B;頁籤。
 
    ![影像2](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -28,21 +28,21 @@ ht-degree: 0%
 
    ![影像三](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-3.png)
 
-1. 選擇 **[!UICONTROL Edit Availability]**。
+1. 選擇&#x200B;**[!UICONTROL Edit Availability]**。
 
    ![影像4](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
-1. 選擇您的 [!UICONTROL Active From] 日期和 [!UICONTROL Active Through] 日期。
+1. 選擇[!UICONTROL Active From]日期和[!UICONTROL Active Through]日期。
 
    ![影像5](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
-1. 按一 **[!UICONTROL Save]**&#x200B;下。
+1. 按一下&#x200B;**[!UICONTROL Save]**。
 
    ![影像6](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-6.png)
 
 >[!TIP]
 >
->您可以留 [!UICONTROL Active Through] 空讓內容永遠可用。
+>您可將[!UICONTROL Active Through]留空，讓內容永遠可用。
 
 完美！ 您會在排程內容旁看到時鐘圖示。 它會根據您設定的排程變為活動中和非活動中。
 
