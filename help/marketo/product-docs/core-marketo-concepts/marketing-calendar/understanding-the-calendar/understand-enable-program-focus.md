@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 瞭解／啟用計畫焦點 {#understand-enable-program-focus}
+# 瞭解／啟用程式焦點{#understand-enable-program-focus}
 
-「行銷行事歷」提供您對事物的全貌檢視，但也允許您進行一些互動。 您可以 [建立](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)、編 [輯](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)、刪 [除](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md), [](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) 並確認條目。 若要與項目互動，您必須先著重於程式。
+「行銷行事歷」提供您對事物的全貌檢視，但也允許您進行一些互動。 您可以[建立](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)、[edit](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)、[delete](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)和[確認](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)條目。 若要與項目互動，您必須先著重於程式。
 
-1. 前往「行 **銷行****事歷」**。
+1. 前往&#x200B;**Marketing** **Calendar**。
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. 選擇一個條目，然後按一下「顯 **示程式焦點」**。
+1. 選擇一個條目並按一下&#x200B;**顯示程式焦點**。
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
