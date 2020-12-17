@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 覆寫電子郵件的主要網域 {#overwrite-primary-domain-for-emails}
+# 覆寫電子郵件的主網域{#overwrite-primary-domain-for-emails}
 
 您可以依電子郵件覆寫主要品牌網域。 這將變更傳送電子郵件時連結的品牌化方式。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取電子郵件，然後按一下「 **編輯草稿」**。
+1. 選擇電子郵件，然後按一下「編輯草稿」。****
 
    ![](assets/image2016-8-26-11-3a48-3a7.png)
 
