@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 跨工作區和分區共用區段 {#share-segmentations-across-workspaces-and-partitions}
+# 跨工作區和分區共用分區{#share-segmentations-across-workspaces-and-partitions}
 
 >[!PREREQUISITES]
 >
 >本文僅適用於具有「工作區」和「分區」的客戶
 
-## 什麼是細分？ {#whats-a-segmentation}
+## 什麼是細分？{#whats-a-segmentation}
 
 Marketo擅長挑選適合的人來參與計畫或智慧型宣傳。 不過，若是較永久的角色，您應使用區段。 他們需要在Marketo中使用進階的動態內容。
 
@@ -25,15 +25,15 @@ Marketo擅長挑選適合的人來參與計畫或智慧型宣傳。 不過，若
 >
 >**深入探討**
 >
->瞭解 [如何建立細分](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)。
+>瞭解如何建立區段[。](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
-一旦您設定好這些角色(**且您使用** 工作區)後，您就會想要在整個工作區中共用這些角色。 以下是一些值得瞭解的好事：
+一旦您設定好這些角色（**和**&#x200B;您使用工作區），您就會想要在整個工作區中共用這些角色。 以下是一些值得瞭解的好事：
 
-## 規則與秘訣 {#rules-tips}
+## 規則與提示{#rules-tips}
 
-* 每個Marketo訂閱最多可包含20個跨多個工作區的「總計」區段(**不是每個工作區** 20個)。
+* 每個Marketo訂閱最多可包含20個跨多個工作區的「總計」（每個工作區&#x200B;**不是20個**）區段。
 * 您只能與您有權存取的工作區共用區段。
-* 請務必建立並利用可 **見所有分區的預設工作區**。
+* 請務必建立並使用&#x200B;**預設工作區，該工作區可以查看所有分區**。
 
 * 區段處理只會在建立區段的工作區中執行。
 
@@ -52,7 +52,7 @@ Marketo擅長挑選適合的人來參與計畫或智慧型宣傳。 不過，若
 >
 >這些規則有些有些複雜。 開始使用最簡單的方式就是測試特定人員。 您隨時都可以進行新細分，並移除舊細分。
 
-## 範例藍本 {#example-scenarios}
+## 範例藍本{#example-scenarios}
 
 ![](assets/image2015-5-27-16-3a26-3a25.png)
 
@@ -60,7 +60,7 @@ Marketo擅長挑選適合的人來參與計畫或智慧型宣傳。 不過，若
 
 **
 
-## 共用區段 {#share-a-segmentation}
+## 共用區段{#share-a-segmentation}
 
 1. 轉到資料庫。
 
