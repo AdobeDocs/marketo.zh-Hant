@@ -15,7 +15,7 @@ ht-degree: 0%
 
 當您執行電子郵件程式並在儀表板中包含一些資料後，就可以將原始資料匯出至Excel以進一步分析。 這是方法。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -40,5 +40,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->想要進一步瞭解電子郵 [件計畫](http://docs.marketo.com/display/docs/email+programs)?
+>想進一步瞭解[電子郵件程式](http://docs.marketo.com/display/docs/email+programs)嗎？
 
