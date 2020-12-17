@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-[!DNL Marketo] 管理員可以在的 [!DNL Sky] 區域中 [!UICONTROL Admin] 啟用角色 [!DNL Marketo Classic]。
+[!DNL Marketo] 管理員可以在的區 [!DNL Sky] 域中啟 [!UICONTROL Admin] 用角色 [!DNL Marketo Classic]。
 
-1. 在中 [!DNL Marketo Classic]，按一下 **[!UICONTROL Admin]**。
+1. 在[!DNL Marketo Classic]中，按一下&#x200B;**[!UICONTROL Admin]**。
 
    ![影像一](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-1.png)
 
-1. 在樹中，選擇 **[!UICONTROL Marketo Sky]**。
+1. 在樹中，選擇&#x200B;**[!UICONTROL Marketo Sky]**。
 
    ![影像2](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-2.png)
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
    ![影像三](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-3.png)
 
-1. 選定角色現在可以通過其中 [!DNL Marketo Sky] 的表徵圖訪問 **[!UICONTROL My Marketo]**。
+1. 選定的角色現在可以通過&#x200B;**[!UICONTROL My Marketo]**&#x200B;中的表徵圖訪問[!DNL Marketo Sky]。
 
    ![影像4](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-4.png)
