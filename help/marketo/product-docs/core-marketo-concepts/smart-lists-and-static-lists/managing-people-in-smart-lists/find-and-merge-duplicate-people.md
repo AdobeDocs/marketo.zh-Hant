@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 查找並合併重複人員 {#find-and-merge-duplicate-people}
+# 查找並合併重複人員{#find-and-merge-duplicate-people}
 
 Marketo會在新人進入系統時自動消除重複資料。 不過，您的CRM最初可能已將復本傳送至Marketo。 以下是如何合併它們。
 
@@ -21,11 +21,11 @@ Marketo會在新人進入系統時自動消除重複資料。 不過，您的CRM
 
 >[!PREREQUISITES]
 >
->查找和合併復本將涉及使 [用內置／系統智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)。
+>查找和合併重複項將涉及使用[內置／系統智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)。
 
-## 查找重複項 {#find-duplicates}
+## 查找重複項{#find-duplicates}
 
-1. 轉至「數 **據庫** 」區。
+1. 轉至&#x200B;**Database**&#x200B;區域。
 
    ![](assets/db.png)
 
@@ -33,19 +33,19 @@ Marketo會在新人進入系統時自動消除重複資料。 不過，您的CRM
    >
    >如果您使用Salesforce人員帳戶，在Marketo中合併人員可能無法運作。 請盡可能合併Salesforce中的記錄。
 
-1. 選擇「 **Possible** **Duplicates** system smart」(可能的重複項 **)清單，然後按一下「** People」（人員）頁籤。
+1. 選擇&#x200B;**Possible** **Duplicates**&#x200B;系統智慧清單，然後按一下&#x200B;**People**&#x200B;頁籤。
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >您也可以 [尋找具有自訂邏輯的重複人員](find-duplicate-people-with-custom-logic.md)。
+   >您也可以[尋找具有自訂邏輯的重複人員](find-duplicate-people-with-custom-logic.md)。
 
-## 手動合併人員 {#merge-people-manually}
+## 手動合併人員{#merge-people-manually}
 
 >[!CAUTION]
 >
->合併人員時，如果失去的人員有Marketo自訂物件， **則** 不會重新與得獎者關聯。 在執行合併之前，請重新為自訂物件建立父級。
+>合併人員時，如果失去的人員有Marketo自訂物件，**not**&#x200B;會重新與得獎人員關聯。 在執行合併之前，請重新為自訂物件建立父級。
 
 按住Ctrl/Cmd並按一下，選取復本，然後按一下「合併人員」。
 ![](assets/three.png)
@@ -54,7 +54,7 @@ Marketo會在新人進入系統時自動消除重複資料。 不過，您的CRM
 >
 >您可以為同一人提供兩個或更多重複項——一次選擇全部。
 
-1. 您會看到不符的記錄 *之間的值* 。 選擇要保留的值。 完成時 **按一下** 「合併」。 如果您不需要任何一個值，可以勾選「自 **訂** 」並輸入您選擇的值。
+1. 您將看到&#x200B;*不符合*&#x200B;的記錄之間的值。 選擇要保留的值。 完成時，按一下&#x200B;**合併**。 如果您不需要任一值，可以檢查&#x200B;**Custom**&#x200B;並輸入您選擇的值。
 
    ![](assets/four.png)
 
@@ -66,7 +66,7 @@ Marketo會在新人進入系統時自動消除重複資料。 不過，您的CRM
    >
    >合併比刪除更好。 您將保留所有歷史記錄（頁面瀏覽、連結點按、電子郵件開啟、表單填滿等）。
 
-## Salesforce中的效果 {#effect-in-salesforce}
+## 在Salesforce {#effect-in-salesforce}中的效果
 
 如果您有Salesforce整合，則有一些關於Salesforce中合併銷售線索的效果的附註。
 
@@ -78,7 +78,7 @@ Marketo會在新人進入系統時自動消除重複資料。 不過，您的CRM
     * [合併重複銷售機會](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
     * [合併重複聯繫人](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
 
-## 大量合併 {#bulk-merging}
+## 批量合併{#bulk-merging}
 
 如果您有太多重複項目無法手動合併，請連絡您的客戶成功經理以討論您的選項。
 
