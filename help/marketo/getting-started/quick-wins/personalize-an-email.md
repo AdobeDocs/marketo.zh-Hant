@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 個人化電子郵件 {#personalize-an-email}
+# 個人化電子郵件{#personalize-an-email}
 
-## 任務：新增資料Token，讓您的電子郵件個人化 {#mission-make-your-emails-personal-by-adding-data-tokens}
+## 任務：新增資料Token {#mission-make-your-emails-personal-by-adding-data-tokens}，讓您的電子郵件變成個人化
 
 >[!PREREQUISITES]
 >
@@ -22,9 +22,9 @@ ht-degree: 0%
 >* [滴水，滴水，培養](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 
-## 步驟1:選擇要個人化的電子郵件 {#step-select-an-email-to-personalize}
+## 步驟1:選擇要個性化{#step-select-an-email-to-personalize}的電子郵件
 
-1. 選擇前一個快速贏取中建立的後繼電子郵件 [，然後按一下](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) 「編 **輯草稿」**。
+1. 選擇在[上一個quick win](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)中建立的培訓電子郵件之一，然後按一下&#x200B;**編輯草稿**。
 
    ![](assets/one-4.png)
 
@@ -32,53 +32,53 @@ ht-degree: 0%
    >
    >這會建立電子郵件的草稿副本。 您必須核准變更的草稿才能上線。
 
-如果您尚未啟用快顯封鎖程式，電子郵件編輯器將會在新的標籤／視窗中開啟。 否則，請按兩 **次「編輯草稿** 」。
+如果您尚未啟用快顯封鎖程式，電子郵件編輯器將會在新的標籤／視窗中開啟。 否則，請按兩下「編輯草稿」。****
 
-## 步驟2:讓銷售人員成為發件人 {#step-make-the-salesperson-the-sender}
+## 步驟2:讓銷售人員成為發件人{#step-make-the-salesperson-the-sender}
 
-1. 選擇「 **從** 」欄位，反白 **標示並** 刪除目前名稱。
+1. 選擇&#x200B;**From**&#x200B;欄位、反白顯示並刪除&#x200B;**目前名稱。**
 
    ![](assets/two-5.png)
 
-1. 按一 **下** 「寄件者」欄位右側的 **Token圖示** 。
+1. 按一下&#x200B;**From**&#x200B;欄位右側的&#x200B;**Token**&#x200B;表徵圖。
 
    ![](assets/three-4.png)
 
-1. 尋找並選取 **`{{lead.Lead Owner First Name}}`** Token。
+1. 尋找並選取&#x200B;**`{{lead.Lead Owner First Name}}`**&#x200B;代號。
 
    ![](assets/four-3.png)
 
-1. 輸入您的公司名稱及預設值破折號 **** ，以確保在銷售代表的名字無法使用時，會顯示某些內容。 按一 **下插入**。
+1. 鍵入您的公司名稱，並為&#x200B;**預設值**&#x200B;加上破折號，以確保在銷售代表的名字無法使用時顯示某些內容。 按一下&#x200B;**插入**。
 
    ![](assets/five-4.png)
 
-1. 按一下「從」欄 **位中的空格列** ，確定游標在剛插入的Token後閃爍一個空格。 然後再按一 **下Token** 圖示。
+1. 按一下&#x200B;**From**&#x200B;欄位中的空格鍵，確定游標會在您剛插入的Token後閃爍一個空格。 然後再按一下&#x200B;**Token**&#x200B;圖示。
 
    ![](assets/six-4.png)
 
-1. 尋找並選取 **`{{lead.Lead Owner Last Name}}`** Token。
+1. 尋找並選取&#x200B;**`{{lead.Lead Owner Last Name}}`**&#x200B;代號。
 
    ![](assets/seven-5.png)
 
-1. 鍵入「Sales」作為預設 **值** ，然後按一下 **Insert**。
+1. 為&#x200B;**預設值**&#x200B;鍵入「銷售」，然後按一下&#x200B;**插入**。
 
    ![](assets/eight-3.png)
 
-## 步驟3:將銷售線索的名稱新增至電子郵件 {#step-add-the-leads-name-to-the-email}
+## 步驟3:將銷售線索的名稱添加到電子郵件{#step-add-the-leads-name-to-the-email}
 
-1. 選擇頂部的可編輯部分，按一下齒輪表徵圖並選擇「編 **輯」**。
+1. 選擇頂部的可編輯部分，按一下齒輪表徵圖並選擇&#x200B;**編輯**。
 
    ![](assets/nine-2.png)
 
-1. 在&quot;Hello&quot;後面加上空格，將游標置於逗號前面，然後按一下「插入 **Token** 」圖示。
+1. 在&quot;Hello&quot;後面加一個空格，並將游標置於逗號前面，然後按一下「插入Token **」圖示。**
 
    ![](assets/ten-4.png)
 
-1. 尋找並選取 **`{{lead.First Name}}`** Token。
+1. 尋找並選取&#x200B;**`{{lead.First Name}}`**&#x200B;代號。
 
    ![](assets/eleven-4.png)
 
-1. 在「預設值」欄位中輸入「朋友」（或您想要的任何標籤）, **然後按一下** 「插入 **」**。
+1. 在&#x200B;**Default Value**&#x200B;欄位中輸入&quot;Friend&quot;（或您想要的任何標籤），然後按一下&#x200B;**Insert**。
 
    ![](assets/twelve-3.png)
 
@@ -86,7 +86,7 @@ ht-degree: 0%
    >
    >一律包含Token的預設值；這可確保在遺失部分個人資訊時，會在電子郵件中顯示預設值。
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/thirteen-3.png)
 
@@ -94,15 +94,15 @@ ht-degree: 0%
 
    ![](assets/fourteen-3.png)
 
-1. 在「電 **子郵件動作**」下，選 **取「核准草稿」**。
+1. 在&#x200B;**電子郵件操作**&#x200B;下，選擇&#x200B;**批准草稿**。
 
    ![](assets/fifteen-3.png)
 
 >[!TIP]
 >
->需要快速複習一下如何自己傳送電子郵件？ 請參 [閱傳送電子郵件爆炸](/help/marketo/getting-started/quick-wins/send-an-email.md)。
+>需要快速複習一下如何自己傳送電子郵件？ 請參閱[傳送電子郵件爆炸](/help/marketo/getting-started/quick-wins/send-an-email.md)。
 
-### 任務完成 {#mission-complete}
+### 任務完成{#mission-complete}
 
 恭喜您，您的電子郵件已個人化！
 
