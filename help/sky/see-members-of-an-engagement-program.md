@@ -16,18 +16,18 @@ ht-degree: 0%
 
 您可以快速查看參與計畫的成員。
 
-1. 選擇您的參與計畫，按一下滑鼠右鍵並選取 **[!UICONTROL View Members]**。
+1. 選擇您的參與計畫，按一下右鍵並選擇&#x200B;**[!UICONTROL View Members]**。
 
    ![影像一](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-1.png)
 
 >[!NOTE]
 >
->欄值 [!UICONTROL Exhausted Content] 會在每次轉換後更新。
+>每次轉換後，[!UICONTROL Exhausted Content]欄值都會更新。
 
-1. 按一下標 **[!UICONTROL Members]** 簽。
+1. 按一下&#x200B;**[!UICONTROL Members]**&#x200B;頁籤。
 
    ![影像2](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-2.png)
 
-1. 按一下 **[!UICONTROL People Actions]** 下拉式清單，以與您的成員一起執行各種功能。
+1. 按一下&#x200B;**[!UICONTROL People Actions]**&#x200B;下拉式清單，對成員執行各種功能。
 
    ![影像三](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-3.png)
