@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 推斷的篩選器 {#inferred-filters}
+# 推斷的篩選器{#inferred-filters}
 
-當有人造訪您的網站時， [Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 會將其放入系統。 我們在一個特殊的資料庫中查找他們的IP，並推斷出各種好的資訊。 看看。
+當有人瀏覽您的網站時，[Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)會將它們放入系統。 我們在一個特殊的資料庫中查找他們的IP，並推斷出各種好的資訊。 看看。
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 >在Web活動報表中使用這些篩選。 使用銷售代表的地區，並在過去24小時內與網站訪客訂閱自訂的每日報表。 他們會喜歡的！
 >
 >* 已瀏覽網頁——最近24小時
->* 推斷的州是 [選擇其領土]
+>* 推斷狀態為[選擇其地區]
 
 >
 
@@ -46,5 +46,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->進一步瞭解匿 [名活動和潛在客戶](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)。
+>進一步瞭解[匿名活動和潛在客戶](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)。
 
