@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# 具有表單的著陸頁面 {#landing-page-with-a-form}
+# 表單{#landing-page-with-a-form}的著陸頁面
 
-## 任務：建立包含表單的登陸頁面以吸引新人。 {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
+## 任務：建立包含表單的登陸頁面以吸引新人。{#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
 >[!PREREQUISITES]
 >
 >[設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-## 步驟1:建立方案 {#step-create-a-program}
+## 步驟1:建立程式{#step-create-a-program}
 
-1. 前往「行銷 **活動** 」區。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
    ![](assets/ma.png)
 
-1. 選擇在上 **一個快速贏** ( [Quick Win)中建立](/help/marketo/getting-started/quick-wins/send-an-email.md)的「學習」(Learning)資料夾。
+1. 選擇在[上一個quick win](/help/marketo/getting-started/quick-wins/send-an-email.md)中建立的&#x200B;**Learning**&#x200B;資料夾。
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
-1. 在「新 **增**」(New **)下，單**&#x200B;擊「新建程式」(New Program)。
+1. 在&#x200B;**New**&#x200B;下，按一下&#x200B;**New Program**。
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. 輸入程式 **名稱**，選擇 **渠道** ，然後單 **擊建立**。
+1. 輸入程式&#x200B;**名稱**，選擇&#x200B;**渠道**，然後按一下&#x200B;**建立**。
 
    >[!NOTE]
    >
@@ -43,39 +43,39 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >方案是一項特定的行銷計畫。 該 **頻道** 的目標是提供機制，例如網路研討會、贊助或線上廣告。 您可能會在下拉式清單中看到不同的渠道選項，視您自己的例項中可用的項目而定。 您也可以 [建立自己的頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)。
+   >方案是一項特定的行銷計畫。 **channel**&#x200B;旨在做為傳送機制，例如網路研討會、贊助或線上廣告。 您可能會在下拉式清單中看到不同的渠道選項，視您自己的例項中可用的項目而定。 您也可以[建立您自己的頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)。
 
    ![](assets/image2014-9-8-17-3a46-3a47.png)
 
 幹得漂亮！ 既然我們已建立程式，讓我們繼續並建立一些內容。
 
-## 步驟2:建立表單 {#step-create-a-form}
+## 步驟2:建立表單{#step-create-a-form}
 
-1. 在選取您的程式後，按一下「新 **增** 」 **和「新增本機資產」**。
+1. 在選取程式後，按一下&#x200B;**新增**，然後按一下&#x200B;**新增本機資產**。
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
-1. 選擇 **表單**。
+1. 選擇&#x200B;**Form**。
 
    ![](assets/image2014-9-24-11-3a4-3a42.png)
 
-1. 輸入表單名 **稱** ，然後按 **一下建立**。
+1. 輸入&#x200B;**名稱**&#x200B;格式，然後按一下&#x200B;**建立**。
 
    ![](assets/image2014-9-24-11-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >請確定已選 **中「在編輯器中** 」框。 如果沒有，您必須按一下「編輯表 **單」標籤** 。
+   >請確定已選中&#x200B;**在編輯器中開啟**&#x200B;框。 如果沒有，您需要按一下「編輯表單」標籤。****
 
    >[!TIP]
    >
-   >沒看到表格編輯器嗎？ 您的瀏覽器可能已封鎖視窗。 在您的瀏覽器中啟 [用app.marketo.com的快顯視窗](https://app.marketo.com/) ，然後按一下頂端選單列中的「編輯草稿」。
+   >沒看到表格編輯器嗎？ 您的瀏覽器可能已封鎖視窗。 在您的瀏覽器中啟用[app.marketo.com](https://app.marketo.com/)的快顯視窗，然後按一下頂端功能表列中的「編輯草稿」。
 
-1. 選擇「電 **子郵件地址** 」欄位並選 **中「必要」**。
+1. 選擇「**電子郵件地址**」欄位，並選中「**Is Required**」。
 
    ![](assets/image2014-9-24-11-3a5-3a27.png)
 
-1. 按一 **下「下一步**」。
+1. 按一下&#x200B;**Next**。
 
    ![](assets/image2014-9-24-11-3a5-3a44.png)
 
@@ -83,11 +83,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a6-3a0.png)
 
-1. 按一 **下「下一步**」。
+1. 按一下&#x200B;**Next**。
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
-1. 在「感謝頁面」區段下，選 **取「外部****URL」以進行後續處理**。
+1. 在「感謝頁面」區段下，選擇&#x200B;**External URL**&#x200B;以取得&#x200B;**Follow Up With**。
 
    ![](assets/image2014-9-24-11-3a6-3a35.png)
 
@@ -97,13 +97,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >「後續頁面」是訪客填妥表單後重新導向的頁面。 外部URL是一個選項，但有更多選項。 請參 [閱設定表單感謝頁面](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)。
+   >「後續頁面」是訪客填妥表單後重新導向的頁面。 外部URL是一個選項，但有更多選項。 請參閱[設定表單感謝頁面](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)。
 
-1. 按一 **下完成**。
+1. 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-24-11-3a7-3a3.png)
 
-1. 按一 **下「核准並關閉**」。
+1. 按一下「核准並關閉」。****
 
    ![](assets/image2014-9-24-11-3a7-3a15.png)
 
@@ -111,17 +111,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a7-3a32.png)
 
-## 步驟3:建立著陸頁面並新增表單 {#step-create-a-landing-page-and-add-your-form}
+## 步驟3:建立著陸頁面並新增表單{#step-create-a-landing-page-and-add-your-form}
 
-1. 在選取您的方案後，按一下「 **新增** 」，然 **後按一下「新增本機資產」**。
+1. 在選取程式後，按一下「新增&#x200B;****」，然後按一下「新增本機資產&#x200B;**」。**
 
    ![](assets/image2014-9-24-11-3a7-3a51.png)
 
-1. 選擇 **著陸頁面**。
+1. 選擇&#x200B;**著陸頁面**。
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. 輸入頁面 **名稱**，選擇範本，然後按一 **下建立**。
+1. 輸入頁面&#x200B;**名稱**，選擇模板，然後按一下&#x200B;**建立**。
 
    >[!NOTE]
    >
@@ -133,7 +133,7 @@ ht-degree: 0%
 
    ![](assets/twentyone.png)
 
-1. 尋找並選取表格，然後按一下「 **插入**」。
+1. 查找並選擇表單，然後按一下&#x200B;**插入**。
 
    ![](assets/image2014-9-24-11-3a8-3a53.png)
 
@@ -147,9 +147,9 @@ ht-degree: 0%
 
    幹得好！ 您現在有一個包含表單的登陸頁面。 讓我們核准您的頁面，讓它上線。
 
-## 步驟4:批准您的著陸頁面 {#step-approve-your-landing-page}
+## 步驟4:批准您的著陸頁面{#step-approve-your-landing-page}
 
-1. 在「著陸頁面動作」下，按一 **下「核准** 」 **以選取著陸頁面**。
+1. 在&#x200B;**著陸頁面動作**&#x200B;下，選取著陸頁面，按一下&#x200B;**批准**。
 
    >[!NOTE]
    >
@@ -161,17 +161,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a9-3a53.png)
 
-## 步驟5:測試表格 {#step-test-your-form}
+## 步驟5:測試表單{#step-test-your-form}
 
-1. 選取您的著陸頁面，然後按一 **下「檢視已核准頁面**」。
+1. 選擇您的著陸頁面，然後按一下「檢視已核准的頁面」。****
 
    ![](assets/image2014-9-24-11-3a10-3a9.png)
 
-1. 填寫表格時，您知道該表格是唯一的資訊，然後按一下「 **提交**」。
+1. 填寫您知道是唯一的資訊的表格，然後按一下「送出」。****
 
    ![](assets/image2014-9-24-11-3a10-3a23.png)
 
-1. 轉至「數 **據庫** 」區。
+1. 轉至&#x200B;**Database**&#x200B;區域。
 
    ![](assets/db-1.png)
 
@@ -183,7 +183,7 @@ ht-degree: 0%
 
    ![](assets/thirty-one.png)
 
-## 任務完成！ {#mission-complete}
+## 任務完成！{#mission-complete}
 
 <br> 
 
