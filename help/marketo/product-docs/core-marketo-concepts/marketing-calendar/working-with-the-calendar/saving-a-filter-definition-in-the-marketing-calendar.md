@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在行銷日曆中儲存篩選定義 {#saving-a-filter-definition-in-the-marketing-calendar}
+# 在行銷日曆中儲存篩選定義{#saving-a-filter-definition-in-the-marketing-calendar}
 
 儲存篩選器可讓您在不同的篩選定義之間來回切換。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a50-3a57.png)
 
-1. 命名篩選。 按一下 **儲存**。
+1. 命名篩選。 按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-24-10-3a51-3a3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   如果您需要，可 [以傳送定義復本](sharing-a-filter-definition-in-the-marketing-calendar.md) 給其他Market使用者。
+   如果您需要，您可以[將定義的副本](sharing-a-filter-definition-in-the-marketing-calendar.md)傳送給其他Marketo使用者。
 
    >[!NOTE]
    >
