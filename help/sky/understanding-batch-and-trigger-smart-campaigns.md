@@ -24,14 +24,14 @@ ht-degree: 0%
 
 ![影像一](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-按一下 **[!UICONTROL Schedule]** 標籤將確認智慧型促銷活動已設為「批次」。
+按一下&#x200B;**[!UICONTROL Schedule]**&#x200B;標籤，將確認智慧型促銷活動已設為「批次」。
 
 ![影像2](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **批次智慧型促銷活動**
 
 * 可以排程重複的時間，例如每日、每週和每月。 您也可以讓他們只執行一次。
-* 在程式計畫視 [圖中可見](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View)。
+* 在[程式計畫視圖](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View)中可見。
 * 智慧型促銷活動中「等待」步驟後的任何項目都不會包含在檢視中。
 
 ## 觸發智慧型促銷活動
@@ -42,15 +42,15 @@ ht-degree: 0%
 
 ![影像三](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-按一下 **[!UICONTROL Schedule]** 標籤將確認智慧型促銷活動已設為「觸發」。
+按一下&#x200B;**[!UICONTROL Schedule]**&#x200B;標籤，將確認智慧型促銷活動已設為「觸發」。
 
 ![影像4](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **觸發智慧型促銷活動**
 
 * 無法排程重複執行。 它們只能設定為活動或非活動。
-* 您可以設定多個觸發器。 但是，如 _果觸發_ 任何觸發器，促銷活動動作就會執行。
+* 您可以設定多個觸發器。 但是，如果引發&#x200B;_any_&#x200B;觸發器，則會執行促銷活動動作。
 
 >[!TIP]
 >
->使用活 [動記錄](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) ，查看智慧型促銷活動中的逐步執行。 您可以在人員詳細資料頁面的最後一個標籤中找到活動記錄檔。
+>使用[活動記錄](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person)來查看智慧型促銷活動中的逐步執行。 您可以在人員詳細資料頁面的最後一個標籤中找到活動記錄檔。
