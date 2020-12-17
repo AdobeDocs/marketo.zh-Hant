@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-1.png)
 
-1. 按一下標 **[!UICONTROL Setup]** 簽。
+1. 按一下&#x200B;**[!UICONTROL Setup]**&#x200B;頁籤。
 
    ![影像2](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >除非您超過訂閱限制，否則預設會啟用參與計畫。
 
-1. 右邊有 [!UICONTROL Program] 個按鈕。 選擇 **[!UICONTROL On]** 或 **[!UICONTROL Off]**。
+1. 右邊有個[!UICONTROL Program]按鈕。 選擇&#x200B;**[!UICONTROL On]**&#x200B;或&#x200B;**[!UICONTROL Off]**。
 
    ![影像三](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-3.png)
 
