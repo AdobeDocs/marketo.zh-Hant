@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-您可以移除或封存內容。 與移除串流內容不同， [封存](/help/sky/archive-and-unarchive-stream-content.md) 會保留與內容相關的所有歷史記錄。 如果您不介意失去某些內容的歷史統計資料，只想移除它，請看如何進行。
+您可以移除或封存內容。 與移除串流內容不同，[archiving](/help/sky/archive-and-unarchive-stream-content.md)會保留與內容相關的所有歷史記錄。 如果您不介意失去某些內容的歷史統計資料，只想移除它，請看如何進行。
 
 1. 選擇您的參與計畫。
 
    ![影像一](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-1.png)
 
-1. 按一下標 **[!UICONTROL Streams]** 簽。
+1. 按一下&#x200B;**[!UICONTROL Streams]**&#x200B;頁籤。
 
    ![影像2](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![影像三](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-3.png)
 
-1. 選擇 **[!UICONTROL Remove]**。
+1. 選擇&#x200B;**[!UICONTROL Remove]**。
 
    ![影像4](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-4.png)
 
