@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 發行說明：16年秋季 {#release-notes-fall}
+# 發行說明：秋季&#39;16 {#release-notes-fall}
 
 Fall &#39;16發行包含下列功能。 檢查您的Marketo版本，以取得功能。 請按一下標題連結，以檢視每個功能的詳細文章。
 
@@ -53,7 +53,7 @@ Fall &#39;16發行包含下列功能。 檢查您的Marketo版本，以取得功
 
 **REST API**
 
-此版本也可讓您使用Marketo REST API在ABM中管理指名的帳戶屬性和帳戶分數。 如需API運作的詳細資訊，請造訪行銷人 [員網站](http://developers.marketo.com/rest-api/lead-database/named-accounts)。
+此版本也可讓您使用Marketo REST API在ABM中管理指名的帳戶屬性和帳戶分數。 有關API操作的詳細資訊，請造訪[行銷人員網站](http://developers.marketo.com/rest-api/lead-database/named-accounts)。
 
 ## [稽核記錄增強功能](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -67,7 +67,7 @@ Fall &#39;16發行包含下列功能。 檢查您的Marketo版本，以取得功
 
 **編輯促銷活動限制**
 
-如果您無 [法執行促銷活動](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) ，為何要設定促銷活動限制？ 當您設定「促銷活動限制設定」以限制資料庫中可以透過單一促銷活動定位的人數時，您現在可以限制在計畫促銷活動時哪些使用者可以覆寫這些設定。
+如果您無法執行促銷活動限制，為何要設定[促銷活動限制](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns)? 當您設定「促銷活動限制設定」以限制資料庫中可以透過單一促銷活動定位的人數時，您現在可以限制在計畫促銷活動時哪些使用者可以覆寫這些設定。
 
 ## [行動推播通知的音效](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -86,7 +86,7 @@ Fall &#39;16發行包含下列功能。 檢查您的Marketo版本，以取得功
 
 ## [與Salesforce加密相容的Sales Insight](../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight現在與Salesforce Shield Encryption相容。 所有Sales Insight客戶應升級至Appexchange上提供的最新受管理套件(1.4359.2 [版)](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)。
+Market Sales Insight現在與Salesforce Shield Encryption相容。 所有Sales Insight客戶應升級至此最新的受管理套件（1.4359.2版），此套件[可在Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)上取得。
 
 ## [命名帳戶API](http://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
@@ -98,5 +98,5 @@ Market Sales Insight現在與Salesforce Shield Encryption相容。 所有Sales I
 
 ## [Marketing對Salesforce同步的變更](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Marketo與Salesforce的整合不斷改進，以改善Marketo欄位與Salesforce同步的方式。 現在，您不必同步可能或可能不需要的大型欄位群組，而可以選擇您要包含的欄位。 請參閱我們的檔案，以取得更多資訊： [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+Marketo與Salesforce的整合不斷改進，以改善Marketo欄位與Salesforce同步的方式。 現在，您不必同步可能或可能不需要的大型欄位群組，而可以選擇您要包含的欄位。 請參閱我們的檔案，以取得更多資訊：[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840)。
 
