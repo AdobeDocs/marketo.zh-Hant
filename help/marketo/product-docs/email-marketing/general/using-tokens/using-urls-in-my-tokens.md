@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# 在我的Token中使用URL {#using-urls-in-my-tokens}
+# 使用我的代號{#using-urls-in-my-tokens}中的URL
 
 請依照下列步驟，使用我的Token將URL插入您的電子郵件。
 
-1. 選擇您的程式，然後按一 **下我的代號**。
+1. 選擇程式，然後按一下&#x200B;**My Token**。
 
    ![](assets/one-4.png)
 
-1. 選取「 **文字** My Token」，將它拖放至畫布上。
+1. 選取「**文字**&#x200B;我的Token」，將它拖放至畫布上。
 
    ![](assets/two-4.png)
 
-1. 為Token指定唯一名稱，輸入URL(不含http://)，然後按一下「儲 **存**」。
+1. 為Token指定唯一名稱，輸入URL(不含http://)，然後按一下「儲存&#x200B;**」。**
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >若要確定您的電子郵件中會追蹤點按次 **數** ，請勿在代號值內輸入http://。
+   >若要確保您的電子郵件中會追蹤點按次數，請在Token值內輸入http://。****
 
 1. 在您的計畫中選擇電子郵件。
 
    ![](assets/four-3.png)
 
-1. 按一下「 **編輯草稿**」。
+1. 按一下「編輯草稿&#x200B;**」。**
 
    ![](assets/five-3.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >當然，如果您的網站使用「https」，您也可以選擇輸入「https」。
 
-1. 找到您的My Token，選取它，然後按一下「 **插入**」。
+1. 找到您的My Token，選擇它，然後按一下&#x200B;**插入**。
 
    ![](assets/eight.png)
 
@@ -63,11 +63,11 @@ ht-degree: 0%
 
    ![](assets/ten.png)
 
-1. 按Ctrl/Cmd+V將內容貼入 **URL方塊** ，然後按一 **下Insert**。
+1. 按Ctrl/Cmd+V將內容貼上到&#x200B;**URL**&#x200B;框中，然後按一下&#x200B;**插入**。
 
    ![](assets/eleven.png)
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/twelve.png)
 
