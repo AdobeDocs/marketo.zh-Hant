@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 自訂社交應用程式按鈕 {#customize-social-app-button}
+# 自訂社交應用程式按鈕{#customize-social-app-button}
 
-當您建立社交 [按鈕](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) 或反向 [連結選件時](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)，可以自訂按鈕的外觀。
+當您建立[social按鈕](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)或[反向連結選件](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)時，您可以自訂按鈕的外觀。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取應用程式，然後按一下「編 **輯草稿」。**
+1. 選取應用程式，然後按一下「編輯草稿」。****
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
-1. 在社交應用程式編輯器中，請至「應 **用程式設定** >按鈕樣式 **」(或** 「註冊樣式」，以取得反向連結選件 **** )。
+1. 在社交應用程式編輯器中，前往「應用程式設定」**>>「按鈕樣式」**（或&#x200B;**註冊樣式」,**&#x200B;以取得反向連結選件）。****
 
    ![](assets/image2014-9-23-17-3a3-3a57.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >若是轉介選件，請在 **2下選取您的網路。 註冊流量>社交網路**。
+   >若是轉介選件，請在&#x200B;**2下選取您的網路。 註冊流量>社交網路**。
 
 1. 選擇按鈕類型。
 
@@ -45,21 +45,21 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您在上 **面的「按鈕樣式」下選擇「上傳影像** 」，以下章節可讓您上傳按鈕影像，而不是編輯文字。
+   >如果您在上述的「按鈕樣式」下選擇「上傳影像」，以下幾節可讓您上傳按鈕影像，而非編輯文字。****
 
 1. 編輯按鈕的標籤，在被點按之前和之後。
 
    ![](assets/image2014-9-23-17-3a5-3a30.png)
 
-1. 在您做出每個選擇時，請在「查看和編輯」( **View &amp; Edit** )窗口中查看結果。
+1. 在您做出每個選擇時，請在&#x200B;**檢視與編輯**&#x200B;視窗中檢視結果。
 
    ![](assets/image2014-9-23-17-3a5-3a42.png)
 
 >[!NOTE]
 >
->在反向連結選件中，您也可以自訂「追蹤進 **度」按鈕** 。 前往「應 **用程式設定** > **追蹤進度樣式** 」，然後依照上述步驟進行。
+>在反向連結選件中，您也可以自訂&#x200B;**追蹤進度**&#x200B;按鈕。 前往「**應用程式設定** > **追蹤進度樣式**」，然後依照上述步驟進行。
 
 >[!MORELIKETHIS]
 >
->若為社交按鈕，請 [設定其開啟時間](configure-when-social-button-opens.md)。 針對反向連結選件， [指定選件目標](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)。
+>對於社交按鈕，[會在開啟時設定](configure-when-social-button-opens.md)。 對於轉介選件，請[指定選件目標](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)。
 
