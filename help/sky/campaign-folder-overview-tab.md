@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # 促銷活動資料夾：概述標籤
 
-促銷活動資料夾標籤下有兩個 [!UICONTROL Overview] 區段： **[!UICONTROL Details]** 和 **[!UICONTROL Reports]**。
+促銷活動資料夾[!UICONTROL Overview]標籤下有兩個區段：**[!UICONTROL Details]**&#x200B;和&#x200B;**[!UICONTROL Reports]**。
 
 ![影像一](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
 [!UICONTROL ## Details]
 
-首頁面顯 [!UICONTROL Details] 示促銷活動資料夾的一般資訊。
+主[!UICONTROL Details]頁面會顯示促銷活動資料夾的一般資訊。
 
 ![影像一](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 [!UICONTROL ## Reports]
 
-在區段 [!UICONTROL Reports] 中，您可以找到資料夾中不同促銷活動的重要資訊。
+在[!UICONTROL Reports]區段中，您可以找到資料夾中不同促銷活動的重要資訊。
 
 ![影像一](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-3.png)
 
