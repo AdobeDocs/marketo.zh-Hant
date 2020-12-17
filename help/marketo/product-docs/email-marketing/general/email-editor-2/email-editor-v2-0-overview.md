@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 電子郵件編輯器v2.0概觀 {#email-editor-v-overview}
+# 電子郵件編輯器v2.0概述{#email-editor-v-overview}
 
 當您決定啟動電子郵件編輯器v2.0時，您會注意到數個新功能。
 
 **電子郵件範本選擇器**
 
-當您建立新電子郵件時，會進入「電子郵件範本選 [取器」](email-template-picker-overview.md)。
+當您建立新電子郵件時，會前往[電子郵件範本選擇器](email-template-picker-overview.md)。
 
 ![](assets/starter-templates-1.png)
 
@@ -29,19 +29,19 @@ ht-degree: 0%
 
 **模組**
 
-在編輯器右邊的那些東西稱為模組。 瞭解如何將 [模組新增至電子郵件](add-modules-to-your-email.md)。
+在編輯器右邊的那些東西稱為模組。 瞭解如何將[模組新增至您的電子郵件](add-modules-to-your-email.md)。
 
 ![](assets/three-4.png)
 
 **文字版本**
 
-現在，在您電子郵件的HTML版本和文字版本之間切換，在底部是方便的標籤。 瞭解如何 [編輯電子郵件的文字版本](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)。
+現在，在您電子郵件的HTML版本和文字版本之間切換，在底部是方便的標籤。 瞭解如何[編輯電子郵件的文字版本](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)。
 
 ![](assets/four-3.png)
 
 **電子郵件標題**
 
-想要更多設計空間嗎？ 編輯完電子郵件標題後，即可隱 [藏它](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)。 只要按一下此圖示……
+想要更多設計空間嗎？ 在您完成[編輯後，電子郵件標題可以隱藏。 ](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)只要按一下此圖示……
 
 ![](assets/five-4.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ![](assets/eight-3.png)
 
-如需較大的預覽，請按 **一下** 電子郵件右上方的「預覽」。
+如需較大的預覽，請按一下電子郵件右上角的&#x200B;**預覽**。
 
 ![](assets/preview1.png)
 
@@ -67,13 +67,13 @@ ht-degree: 0%
 
 ![](assets/preview2.png)
 
-...但您也可以看到它在行動裝置上的外觀。 您也可以預覽文字版本！ 只要按一 **下右上方的「編輯草稿** 」，即可繼續編輯。
+...但您也可以看到它在行動裝置上的外觀。 您也可以預覽文字版本！ 只要按一下右上角的「編輯草稿&#x200B;**」，即可繼續編輯。**
 
 [![](assets/preview3.png)](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
 
 **電子郵件動作**
 
-在「 **電子郵件動作**」下，您會注意到一些新功能。 **上傳影像或檔案**，並從網 **頁擷取影像**。 您也可以將電子郵件本身儲存為新的電子郵件範本。 你只需要給它一個名字和一個目的地
+在&#x200B;**電子郵件動作**&#x200B;下，您會注意到一些新功能。 **上傳影像或檔案**，並從網 **頁擷取影像**。您也可以將電子郵件本身儲存為新的電子郵件範本。 你只需要給它一個名字和一個目的地
 
 ![](assets/nine-3.png)
 
@@ -83,9 +83,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->** [Grab Images from Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**的運作方式與Design Studio的相同。
+>** [從Web擷取影像](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**的運作方式與Design Studio的相同。
 
-**在「電子郵件設定** 」下停用 **開啟追蹤**，您可以視需要停用開啟追蹤。
+**停用「電子** 郵件設 **定」下的「開啟追蹤**」，您可以視需要停用開啟追蹤。
 
 ![](assets/thirteen-1.png)
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->如果您想要深入探討，請查看這個有用 [的影片](https://nation.marketo.com/videos/1463)。
+>如果您想要深入探討，請查看此[實用視訊](https://nation.marketo.com/videos/1463)。
 
 >[!MORELIKETHIS]
 >
