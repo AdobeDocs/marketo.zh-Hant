@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 更改計畫狀態 {#change-program-status}
+# 更改程式狀態{#change-program-status}
 
-## 概觀 {#overview}
+## 概述{#overview}
 
-方案狀態可協助您追蹤人員在方案或活動中的進度。 在「自訂、建 [立及管理渠道」中尋找更多資訊](../../../../product-docs/administration/tags/create-a-program-channel.md)。
+方案狀態可協助您追蹤人員在方案或活動中的進度。 在[自訂、建立和管理頻道](../../../../product-docs/administration/tags/create-a-program-channel.md)中尋找詳細資訊。
 
 >[!CAUTION]
 >
 >變更參與計畫中的計畫狀態會自動將它們加入第一個串流。 他們會開始接收內容。
 
-## 使用狀況 {#usage}
+## 用法{#usage}
 
-1. 在「更改程式 **狀態」(Change Program Status** )流程步驟中拖動。
+1. 在&#x200B;**更改程式狀態**&#x200B;流步驟中拖動。
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. 選擇 **要設定的** 「新狀態」。 如果他們尚未加入，他們也將成為該計畫的成員。
+1. 選擇要設定的&#x200B;**新狀態**。 如果他們尚未加入，他們也將成為該計畫的成員。
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 
