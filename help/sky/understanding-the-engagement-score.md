@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-參與分數可讓您輕鬆瞭解參與計畫內容的成效。 分數範圍從0到100。 查看 [參與儀表板](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) ，瞭解如何追蹤內容的效能。
+參與分數可讓您輕鬆瞭解參與計畫內容的成效。 分數範圍從0到100。 查看[參與儀表板](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard)，瞭解如何追蹤內容的效能。
 
 ![影像一](/help/sky/assets/engagement-programs/understanding-the-engagement-score/understanding-the-engagement-score-1.png)
 
