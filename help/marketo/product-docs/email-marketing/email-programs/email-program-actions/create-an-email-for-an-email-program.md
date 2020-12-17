@@ -11,28 +11,28 @@ ht-degree: 0%
 ---
 
 
-# 建立電子郵件方案的電子郵件 {#create-an-email-for-an-email-program}
+# 為電子郵件程式建立電子郵件{#create-an-email-for-an-email-program}
 
 >[!PREREQUISITES]
 >
 >* [建立電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [使用智慧型清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ，或 [透過匯入清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [使用智慧型存取者定](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 義對 [像匯入清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >
 
 
 
-一旦您建立了電子郵件計畫並定義了受眾，您就會想決定要傳送的電子郵件。 您可以選 [擇現有的電子郵件](choose-an-existing-email.md) ，或從頭開始建立。 以下是如何建立新電子郵件。
+一旦您建立了電子郵件計畫並定義了受眾，您就會想決定要傳送的電子郵件。 您可以[選擇現有的電子郵件](choose-an-existing-email.md)，或從頭開始建立。 以下是如何建立新電子郵件。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/one.png)
 
-1. 選擇您的電子郵件方案。 在「電子郵 **件** 」方塊下，按一 **下「新電子郵件**」。
+1. 選擇您的電子郵件方案。 在&#x200B;**Email**&#x200B;表徵圖下，按一下&#x200B;**New Email**。
 
    ![](assets/newemaildashboard.png)
 
-1. 輸入名 **稱**，選擇所選模板，然後按一下 **建立**。
+1. 輸入&#x200B;**名稱**，選擇您選擇的模板，然後按一下&#x200B;**建立**。
 
    ![](assets/three.png)
 
@@ -42,13 +42,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >瞭解如何編 [輯電子郵件中的元素](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)。
+   >瞭解如何[編輯電子郵件中的元素](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)。
 
 1. 別忘了核准您的電子郵件。
 
    ![](assets/five.png)
 
-太好了！ 既然我們已建立了要傳送的電子郵件，我們就加入 [A/B測試](email-test-a-b-test/add-an-a-b-test.md) ，或直接跳至排 [程您的電子郵件程式](schedule-your-email-program.md)。
+太好了！ 既然我們已建立要傳送的電子郵件，讓我們[加入A/B測試](email-test-a-b-test/add-an-a-b-test.md)或直接跳至[排程您的電子郵件程式](schedule-your-email-program.md)。
 
 >[!MORELIKETHIS]
 >
