@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-以下是中樹的可用配置選項 [!DNL Marketo]。
+以下是[!DNL Marketo]中樹的可用配置選項。
 
 ## 變更工作區
 
