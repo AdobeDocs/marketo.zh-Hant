@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 更改表單標籤位置 {#change-form-label-position}
+# 更改表單標籤位置{#change-form-label-position}
 
-建立 [表單時](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)，您可以很輕鬆地變更表單欄位標籤的位置。 這是方法。
+當[建立表單](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)時，您可以非常輕鬆地變更表單欄位標籤的位置。 這是方法。
 
-1. 前往「行 **銷****活動」**。
+1. 前往&#x200B;**Marketing** **Activity**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 選擇您的表單，然後按一 **下「編輯****表單**」。
+1. 選擇表單並按一下「編輯」******「表單」**。
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. 選擇 **設定**。
+1. 選擇&#x200B;**設定**。
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. 選擇 **要的****Label** Position。
+1. 選擇所需的&#x200B;**標籤** **位置**。
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -36,11 +36,11 @@ ht-degree: 0%
    * 左側（預設）
    * Above
 
-1. 按一 **下完成**。
+1. 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. 按一 **下「核准並關閉**」。
+1. 按一下「核准並關閉」。****
 
    >[!NOTE]
    >
