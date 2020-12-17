@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 自訂簡報 {#customize-a-presentation}
+# 自訂簡報{#customize-a-presentation}
 
 設定日曆簡報，以反映對您團隊最重要的目標和活動。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立自訂目標](create-a-custom-goal.md) 或智 [慧清單目標](create-a-smart-list-goal.md)
+>* [建立自訂](create-a-custom-goal.md) 目標或 [智慧清單目標](create-a-smart-list-goal.md)
    >
    >
 * [建立簡報](create-a-presentation.md)
@@ -32,23 +32,23 @@ ht-degree: 0%
 
 
 
-## 選擇檢視 {#choosing-the-views}
+## 選擇視圖{#choosing-the-views}
 
-簡報會循環檢視您選 [擇的不同篩](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) 選定義。 視需要拉入任意數量的檢視，並自訂頻率。
+簡報會循環檢視您選擇的不同[篩選定義](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)。 視需要拉入任意數量的檢視，並自訂頻率。
 
 1. 從右側樹狀結構中，拖曳您要在簡報中旋轉的不同檢視。
 
    ![](assets/image2015-3-18-13-3a6-3a10.png)
 
-## 新增目標 {#add-a-goal}
+## 新增目標{#add-a-goal}
 
-當簡報顯示您的團隊目標時，最棒的簡報。 只要拖曳至不同 [的自訂目標](create-a-custom-goal.md) 或 [智慧清單目標](create-a-smart-list-goal.md)。 最多可以用10個。
+當簡報顯示您的團隊目標時，最棒的簡報。 只需拖曳至不同的[自訂目標](create-a-custom-goal.md)或[智慧清單目標](create-a-smart-list-goal.md)即可。 最多可以用10個。
 
 1. 從右側樹狀結構拖曳您要在簡報中顯示的不同目標。
 
    ![](assets/image2015-3-24-14-3a23-3a26.png)
 
-## 設定旋轉頻率 {#set-the-frequency-of-rotation}
+## 設定旋轉頻率{#set-the-frequency-of-rotation}
 
 在您提取簡報中想要的檢視後，請設定它在不同檢視之間旋轉的頻率。
 
@@ -56,19 +56,19 @@ ht-degree: 0%
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
-1. 使用分鐘輸入時間。 按一下 **儲存**。
+1. 使用分鐘輸入時間。 按一下&#x200B;**保存**。
 
    >[!NOTE]
    >
-   >勾選「停用旋轉」以顯示一 **個靜態檢視**。
+   >通過選中&#x200B;**禁用旋轉**&#x200B;來顯示一個靜態視圖。
 
    ![](assets/image2015-3-18-13-3a22-3a18.png)
 
-## 設定日曆顯示 {#set-the-calendar-display}
+## 設定日曆顯示{#set-the-calendar-display}
 
 日曆顯示可變更為3週或每月檢視。
 
-1. 選取「 **日曆顯示** 」下拉式清單，然後選 **擇3週** 或1 **個月**。
+1. 選擇&#x200B;**日曆顯示**&#x200B;下拉式清單，並選擇&#x200B;**3週**&#x200B;或一個&#x200B;**月**。
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
@@ -76,13 +76,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->為簡報 [設定背景影像](add-a-background-image-to-a-presentation.md) 。 我們建議小貓或彩虹。
+>為簡報設定[背景影像](add-a-background-image-to-a-presentation.md)。 我們建議小貓或彩虹。
 
-## 預覽簡報 {#preview-a-presentation}
+## 預覽簡報{#preview-a-presentation}
 
 在設定簡報後，就可以預覽並啟動簡報。
 
-1. 選擇「 **預覽**」。
+1. 選擇&#x200B;**預覽**。
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
