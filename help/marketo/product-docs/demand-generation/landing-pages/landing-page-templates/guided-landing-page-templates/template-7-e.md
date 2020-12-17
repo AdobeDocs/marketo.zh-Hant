@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本7-E {#template-e}
+# 模板7-E {#template-e}
 
 [下載範本7-E](http://docs.marketo.com/download/attachments/8783954/template-7e.html?version=1&amp;modificationdate=1437693434000&amp;api=v2)
 
