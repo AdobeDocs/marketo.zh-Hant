@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 讓電子郵件運作 {#make-an-email-operational}
+# 使電子郵件正常運行{#make-an-email-operational}
 
 營運電子郵件會忽略「取消訂閱」和「暫停行銷」狀態。 不論如何，他們都會派。
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 >
 >您只應針對重要電子郵件和自動回應者使用營運電子郵件。 它們不適用於行銷電子郵件。
 
-1. 編輯器開啟後，按一下「電子郵 **件設定」**。
+1. 編輯器開啟後，按一下&#x200B;**電子郵件設定**。
 
    ![](assets/two-1.png)
 
-1. 檢查「 **Operational Email** (操作電子郵件 **)」 ，然**&#x200B;後按一下「Save（保存）」。
+1. 檢查&#x200B;**Operational Email** ，然後按一下&#x200B;**Save**。
 
    ![](assets/three.png)
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 >
 >營運電子郵件並非設計用於參與計畫。 因此，參與計畫會忽略電子郵件的運作狀態。 在與他們合作時，請記住這一點。
 
-請勿忘記核准此電子郵件，讓變更生效。 瞭解如何核 [準電子郵件](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
+請勿忘記核准此電子郵件，讓變更生效。 瞭解如何[核准電子郵件](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
