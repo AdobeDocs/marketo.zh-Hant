@@ -5,17 +5,17 @@ title: 在您的網站上內嵌表格
 translation-type: tm+mt
 source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
 
-# 在您的網站上內嵌表格 {#embed-a-form-on-your-website}
+# 在您的網站上內嵌表單{#embed-a-form-on-your-website}
 
 Marketo可讓您將我們的表單嵌入您自己的網站。 以下說明如何存取內嵌代碼。
 
-1. 前往「行 **銷****活動」**。
+1. 前往&#x200B;**Marketing** **Activity**。
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,22 +23,22 @@ Marketo可讓您將我們的表單嵌入您自己的網站。 以下說明如何
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. 在「表 **單****動作」下**，按一 **下「內嵌******&#x200B;代碼」。
+1. 在&#x200B;**Form****Actions**&#x200B;下，按一下&#x200B;**Embed****Code**。
 
    >[!NOTE]
    >
    >**提醒**
    >
    >
-   >表單必須經過核准， **才能顯** 示 **** /使用內嵌代碼項目。
+   >必須批准&#x200B;**Embed** **Code**&#x200B;項目才能顯示／使用。
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
    >[!CAUTION]
    >
-   >**表 [單預填](../../../../product-docs/administration/settings/edit-landing-page-settings.md)**在您自己的頁面或行銷人員登陸頁面上使用表單 ** 內嵌代碼時無法運作。 表單預先填滿功能僅適用於透過「插入元素」選項在Marketo登陸頁面中使用表單時。
+   >** [表單預填](../../../../product-docs/administration/settings/edit-landing-page-settings.md)**在您自己的頁面&#x200B;*或*&#x200B;行銷人員登陸頁面上使用表單內嵌代碼時無法運作。 表單預先填滿功能僅適用於透過「插入元素」選項在Marketo登陸頁面中使用表單時。
 
-1. 選取／複製內嵌代碼，然後按一下「 **關閉**」。
+1. 選擇／複製內嵌代碼，然後按一下&#x200B;**關閉**。
 
    ![](assets/image2014-9-15-12-3a12-3a31.png)
 
@@ -50,6 +50,6 @@ Marketo可讓您將我們的表單嵌入您自己的網站。 以下說明如何
 
 >[!NOTE]
 >
->如果您的開發人員想要自訂外觀或存取進階的API函式，請向他們顯示 [Forms 2.0開發人員頁面](http://developers.marketo.com/documentation/websites/forms-2-0/)。
+>如果您的開發人員想要自訂外觀或存取進階的API函式，請向他們顯示[ Forms 2.0 Developers Page](http://developers.marketo.com/documentation/websites/forms-2-0/)。
 
-幹得好！ 您希望內嵌 [代碼包含燈箱代碼嗎](use-a-form-in-a-lightbox.md)? 這也很簡單！
+幹得好！ 您是否希望[內嵌代碼包含燈箱代碼](use-a-form-in-a-lightbox.md)? 這也很簡單！
