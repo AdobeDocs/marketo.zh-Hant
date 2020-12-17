@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# ABM銷售報告 {#abm-sales-report}
+# ABM銷售報告{#abm-sales-report}
 
 每週收到一封電子郵件，其中包含您的熱門帳戶及其每週趨勢。
 
 >[!NOTE]
 >
->瞭解如何在此處設定此報 [表](https://docs.marketo.com/x/drat)。
+>瞭解如何在[這裡](https://docs.marketo.com/x/drat)設定此報表。
 
 報告分享：
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ![](assets/one-4.png)
 
-## 銷售報表索引鍵 {#sales-report-key}
+## 銷售報表索引鍵{#sales-report-key}
 
 | **帳戶分數** | 依帳戶分數的每週趨勢（在設定中選取），接著是目前帳戶分數 |
 |---|---|
