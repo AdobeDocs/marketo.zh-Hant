@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SFDC同步：銷售線索隊列 {#sfdc-sync-lead-queue}
+# SFDC同步：Lead Queue {#sfdc-sync-lead-queue}
 
-Marketo可讓您將人員新增至 [Salesforce銷售線索佇列](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) ，以協助銷售線索分配。 以下是詳細資訊。
+Marketo可讓您將人員新增至[Salesforce銷售機會佇列](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm)，以協助銷售機會分配。 以下是詳細資訊。
 
-## 如何指派人員至Marketo中的佇列？ {#how-to-assign-a-person-to-a-queue-in-marketo}
+## 如何指派人員至Marketo中的佇列？{#how-to-assign-a-person-to-a-queue-in-marketo}
 
 您可以使用下列其中一個流程動作，將人員指派給Salesforce銷售線索佇列：
 
@@ -26,7 +26,7 @@ Marketo可讓您將人員新增至 [Salesforce銷售線索佇列](https://help.s
 >
 >您無法在Marketo中建立或變更佇列。
 
-## 如果銷售線索擁有者資訊屬於隊列，該資訊如何儲存？ {#how-is-lead-owner-information-stored-if-the-person-belongs-to-a-queue}
+## 如果銷售線索擁有者資訊屬於隊列，該資訊如何儲存？{#how-is-lead-owner-information-stored-if-the-person-belongs-to-a-queue}
 
 如果Salesforce中的佇列擁有銷售線索，這些銷售擁有者欄位會保持空白，直到銷售線索指派給擁有者為止。
 
