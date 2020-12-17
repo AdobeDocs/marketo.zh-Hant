@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 冠軍／挑戰者：放棄電子郵件測試 {#champion-challenger-discard-an-email-test}
+# 冠軍／挑戰者：放棄電子郵件測試{#champion-challenger-discard-an-email-test}
 
 如果您決定不想繼續執行電子郵件測試，則可以捨棄它。 這是方法。
 
@@ -23,19 +23,19 @@ ht-degree: 0%
 
 
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 尋找並以滑鼠右鍵按一下您的電子郵件測試，然後按一下「捨 **棄測試」**。
+1. 尋找並以滑鼠右鍵按一下您的電子郵件測試，然後按一下「捨棄測試」。****
 
    ![](assets/champion5.jpg)
 
-1. 按一下 **刪除** ，以確認。
+1. 按一下&#x200B;**Delete**&#x200B;確認。
 
-   ` ![](assets/image2014-9-15-14-3a17-3a11.png)
+   「 ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   `
+   「
 
-   你完了！ 如果您決定要再次設定測試，請繼續新增電 [子郵件冠軍／挑戰者](add-an-email-champion-challenger.md)。
+   你完了！ 如果您再次決定要設定測試，請繼續[新增電子郵件champion/challenger](add-an-email-champion-challenger.md)。
 
