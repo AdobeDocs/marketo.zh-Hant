@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 重新命名智慧型促銷活動 {#rename-a-smart-campaign}
+# 重新命名智慧型促銷活動{#rename-a-smart-campaign}
 
 您可以變更現有智慧型促銷活動的名稱。 這是方法。
 
