@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 允許使用者存取工作區 {#allow-user-access-to-a-workspace}
+# 允許用戶訪問工作區{#allow-user-access-to-a-workspace}
 
 工作區可以是因為任何原因（例如業務單位或地理區隔）。 它們會區隔資產（智慧型清單、程式等） 每個團隊的成員。 以下說明如何讓使用者存取一或多個工作區。
 
@@ -23,17 +23,17 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->進一步瞭解工 [作區](understanding-workspaces-and-person-partitions.md)。
+>進一步瞭解[workspaces](understanding-workspaces-and-person-partitions.md)。
 
 1. 在「管理員」下，按一下「使用者與角色」。
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. 在「**使用者**」標籤下，選取使用者，然後按一下「編 **輯使用者」**。
+1. 在「**用戶**」頁籤下，選擇用戶並按一下「編輯用戶」。****
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
-1. 選擇您 **希望用戶具有訪問權限的角色** 和工作區。
+1. 選擇您希望用戶具有訪問權限的&#x200B;**角色和工作區**。
 
    >[!NOTE]
    >
