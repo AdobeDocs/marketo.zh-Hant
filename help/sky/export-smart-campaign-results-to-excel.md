@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-將智慧型促銷活動結果匯出至Excel，以便在外部使用 [!DNL Marketo]。
+將智慧型促銷活動結果匯出至Excel，以便在[!DNL Marketo]以外使用。
 
-1. 在智慧型 [!UICONTROL Overview] 促銷活動的標籤中，按一下標 **[!UICONTROL Reports]** 簽。
+1. 在智慧型促銷活動的[!UICONTROL Overview]標籤中，按一下&#x200B;**[!UICONTROL Reports]**&#x200B;標籤。
 
    ![影像一](/help/sky/assets/smart-campaigns/export-smart-campaign-results-to-excel/export-smart-campaign-results-to-excel-1.png)
 
