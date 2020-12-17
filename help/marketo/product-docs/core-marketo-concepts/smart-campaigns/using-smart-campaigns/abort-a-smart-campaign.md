@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 中止智慧型促銷活動 {#abort-a-smart-campaign}
+# 中止智慧型促銷活動{#abort-a-smart-campaign}
 
 >[!CAUTION]
 >
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 有時您會啟動聰明的宣傳活動，並立即意識到這是個錯誤。 下面是如何拉緊緊急剎車，並在中期停止智慧宣傳活動。
 
-1. 在「 **行銷活動**」下，選取您的智慧型促銷活動，並前往「排 **程** 」標籤。
+1. 在&#x200B;**行銷活動**&#x200B;下，選取您的智慧型促銷活動，並前往&#x200B;**排程**&#x200B;標籤。
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
-1. 按一下**促銷活動動作**下拉式清單。 選擇「 **中止促銷活動**」。
+1. 按一下**促銷活動動作**下拉式清單。 選擇&#x200B;**中止促銷活動**。
 
    ![](assets/image2014-9-22-16-19-48.png)
 
-1. 按一 **下「中止** 」以確認。
+1. 按一下&#x200B;**中止**&#x200B;確認。
 
    ![](assets/image2014-9-22-16-3a19-3a57.png)
 
@@ -42,10 +42,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >檢視智慧型促銷活 **動的** 「結果」標籤，以查看中止前所執行的動作。 您也會找到附 [加詳](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 細資訊。
+   >查看智慧型促銷活動的&#x200B;**Results**&#x200B;標籤，以查看中止前發生的動作。 您也會找到[通知](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)及其他詳細資訊。
 
    >[!TIP]
    >
-   >想要從觸發促銷活動的流程中移除人員？ 檢查從 [流中刪除](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)。
+   >想要從觸發促銷活動的流程中移除人員？ 查看[從流](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)中刪除。
 
 總要檢查一下你的工作，但這個緊急剎車在未來可能會派上用場。
