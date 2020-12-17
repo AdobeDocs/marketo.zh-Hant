@@ -21,34 +21,34 @@ ht-degree: 0%
 >
 >[設定Adobe Experience Cloud觀眾共用](http://docs.marketo.com/x/D4GMAg)
 
-## 支援的目標應用程式 {#supported-destination-applications}
+## 支援的目標應用程式{#supported-destination-applications}
 
 * Adobe Advertising Cloud
-* Adobe Analytics(僅&#x200B;**當您擁** 有Adobe Audience Manager授權時)
+* Adobe Analytics（如果您擁有Adobe Audience Manager授權，則僅限&#x200B;****）
 * Adobe Audience Manager
 * Adobe Experience Manager
 * Adobe即時客戶資料平台
 * Adobe Target
 
-## 如何匯出清單 {#how-to-export-a-list}
+## 如何導出清單{#how-to-export-a-list}
 
 1. 在Marketo中，尋找並選取您要匯出的清單。
 
    ![](assets/one.png)
 
-1. 按一下「 **清單動作** 」下拉式清單，然後選 **取「傳送至Experience Cloud」**。
+1. 按一下「清單動作&#x200B;**」下拉式清單，並選取「傳送至Experience Cloud」**。****
 
    ![](assets/two-1.png)
 
-1. 按一下 **Audience Manager資料夾下拉式清單** ，然後在Experience Cloud中選取所需的目標資料夾。
+1. 按一下「Audience Manager資料夾」下拉式清單，然後在Experience Cloud中選取所需的目標資料夾。****
 
    ![](assets/three-1.png)
 
-1. 選擇要建立新對象或覆寫現有對象（在此範例中，我們要建立新對象）。 輸入新的對象名稱，然後按一下「 **傳送」**。
+1. 選擇要建立新對象或覆寫現有對象（在此範例中，我們要建立新對象）。 輸入新的對象名稱，然後按一下「傳送&#x200B;**」。**
 
    ![](assets/four.png)
 
-1. 按一下 **確定**。
+1. 按一下&#x200B;**確定**。
 
    ![](assets/five.png)
 
@@ -56,11 +56,11 @@ ht-degree: 0%
    >
    >觀眾會籍最多需要6-8小時，才能完整填入Adobe。
 
-## 注意事項 {#things-to-note}
+## 注意事項{#things-to-note}
 
 **共用至Adobe Analytics**
 
-對於同時擁有Adobe Audience Manager和Adobe Analytics的客戶，此整合可讓觀眾從Market共用至您的Adobe Analytics報表套裝，但是Adobe Audience Manager中需要執行一些額外的設定步驟，以啟用此功能。 請參閱Adobe Audience Manager檔案，以取得如何設定此設定的詳細資訊： [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](http://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
+對於同時擁有Adobe Audience Manager和Adobe Analytics的客戶，此整合可讓觀眾從Market共用至您的Adobe Analytics報表套裝，但是Adobe Audience Manager中需要執行一些額外的設定步驟，以啟用此功能。 請參閱Adobe Audience Manager檔案，以取得如何設定此設定的詳細資訊：[https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](http://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html)。
 
 **Adobe Audience Manager客戶的特徵使用**
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 * 對於Marketo已設法符合匯出清單中銷售機會的所有ECID,Marketo會使用ECID裝置識別碼來編寫特徵。 特徵的名稱將符合您在匯出期間指定的目標對象名稱。
 * Marketo也會在您的Audience Manager例項中，以ECID特性作為唯一的分段標準來建立區段。 區段的名稱將符合您在匯出期間指定的目標對象名稱。
 
-## 常見問答集 {#faq}
+## 常見問答{#faq}
 
 **為何Marketo中的清單大小與Adobe中的清單大小不同？**
 
@@ -80,4 +80,4 @@ ht-degree: 0%
 
 當您的Marketo訂閱啟用Cookie同步時，Marketo的munchkin.js會嘗試擷取並儲存您在整合設定期間指定之Adobe IMS組織的Adobe ECID，並將這些ECID與對應的Marketo Cookie識別碼相符。 這可讓Marketo的匿名使用者個人檔案充份運用Adobe ECID。
 
-需要進一步步驟，將匿名用戶配置檔案與使用純文字檔案電子郵件標識的銷售線索配置檔案關聯。 具體說明如下： [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](http://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
+需要進一步步驟，將匿名用戶配置檔案與使用純文字檔案電子郵件標識的銷售線索配置檔案關聯。 具體說明如下：[https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](http://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People)。
