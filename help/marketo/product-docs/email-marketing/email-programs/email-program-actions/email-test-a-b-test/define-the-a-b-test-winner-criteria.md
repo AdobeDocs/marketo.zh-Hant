@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 定義A/B測試成功者標準 {#define-the-a-b-test-winner-criteria}
+# 定義A/B測試成功者標準{#define-the-a-b-test-winner-criteria}
 
-將 [A/B測試新增至電子郵件程式時](add-an-a-b-test.md) ，您將需要選擇測試類型、 [](schedule-the-a-b-test.md)排程A/B測試，然後定義成功者標準。 以下說明如何決定哪些電子郵件能贏。
+當[將A/B測試](add-an-a-b-test.md)新增至您的電子郵件程式時，您需要選擇測試類型[排程A/B測試](schedule-the-a-b-test.md)，然後定義成功者標準。 以下說明如何決定哪些電子郵件能贏。
 
 >[!PREREQUISITES]
 >
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 
 
-## 成功者條件 {#winner-criteria}
+## 成功者條件{#winner-criteria}
 
-1. 預設的「 **成功者條件** 」選項會先列出。
+1. 預設的&#x200B;**成功者標準**&#x200B;選項會先列出。
 
    ![](assets/image2014-9-12-15-3a51-3a3.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
    |---|---|
    | **點按次數** | 依預設，電子郵件中的連結會內嵌追蹤，讓您查看誰點按了哪個連結、點按了多少個連結，等等。 |
    | **按一下以開啟%** | 已開啟且已點按電子郵件連結的電子郵件百分比。 這會測量電子郵件的相關性和內容，方法是取唯一點按次數除以唯一開啟次數，再乘以100以百分比顯示。 |
-   | **參與分數** | 參 [與分數](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score) ，可協助您判斷內容的成效。 |
+   | **參與分數** | [參與分數](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score)可協助您判斷內容的效果。 |
 
    >[!TIP]
    >
-   >如果您選擇「參與分數」，則測試至少需要執行24小時。 進一步瞭解 [參與分數](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
+   >如果您選擇「參與分數」，則測試至少需要執行24小時。 進一步瞭解[瞭解參與分數](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
    您也可以選擇「自訂轉換」並按一下「編輯」，自訂標準。
    ![](assets/image2014-9-12-15-3a51-3a53.png)
@@ -54,7 +54,7 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >進一步瞭解 [智慧型清單和靜態清單](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)。
+   >進一步瞭解[智慧型清單和靜態清單](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)。
 
    定義觸發器。
    ![](assets/image2014-9-12-15-3a53-3a11.png)
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    太好了！ 現在，是時候決定如何確定贏家了。
 
-## 宣告成功者 {#declare-winner}
+## 宣告成功者{#declare-winner}
 
 1. 選擇兩個可用選項之一。
 
@@ -79,17 +79,17 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >如果您正在執行日 **期／時間** A/B測試，則只能選擇 **手動**。
+   >如果您正在執行&#x200B;**日期／時間** A/B測試，則只能選擇&#x200B;**手動**。
 
    A/B測試結束後，Marketo可以在排程的時間自動傳送成功的電子郵件，或者您可以檢閱結果，並決定何時送出哪封電子郵件。
 
-1. 自動是絕佳的，是預設選項。 只要按一下「 **下一步**」。
+1. 自動是絕佳的，是預設選項。 只要按一下「下一步」，即可。****
 
    ![](assets/image2014-9-12-15-3a54-3a35.png)
 
    >[!TIP]
    >
-   >選擇 **「手動** 」會傳送測試，然後等候您宣告成功者。 您將會收到結果報告。
+   >選擇&#x200B;**Manual**&#x200B;將發送測試並等待您聲明成功者。 您將會收到結果報告。
 
    [排程A/B測試](schedule-the-a-b-test.md)
 
