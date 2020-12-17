@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 刷新清單或智慧清單 {#refresh-a-list-or-smart-list}
+# 刷新清單或智慧清單{#refresh-a-list-or-smart-list}
 
 如果您已執行智慧型清單，而且已經過幾分鐘，結果現在可能會有所不同——請重新整理以瞭解。
 
-## 刷新結果 {#refresh-results}
+## 刷新結果{#refresh-results}
 
-1. 要更新智慧清單的「 **人員** 」頁籤中的資料，請按一下刷新表徵圖。
+1. 要更新智慧清單的&#x200B;**People**&#x200B;頁籤中的資料，請按一下刷新表徵圖。
 
    ![](assets/refreshbutton.png)
 
