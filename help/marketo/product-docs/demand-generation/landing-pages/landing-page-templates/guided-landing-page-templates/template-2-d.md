@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本2-D {#template-d}
+# 模板2-D {#template-d}
 
 [下載範本2-D](http://docs.marketo.com/download/attachments/7516478/template2-d.html?version=1&amp;modificationdate=1433229358000&amp;api=v2)
 
