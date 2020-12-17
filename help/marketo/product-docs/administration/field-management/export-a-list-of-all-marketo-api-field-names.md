@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 匯出所有Marketo API欄位名稱清單 {#export-a-list-of-all-marketo-api-field-names}
+# 匯出所有行銷人員API欄位名稱清單{#export-a-list-of-all-marketo-api-field-names}
 
 如果您使用我們的SOAP API或Munchkin API，您將需要所有欄位及其API名稱的清單。 下面是如何獲得這份名單。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
-1. 前往「管 **理員** 」並按一 **下「欄位管理」**。
+1. 前往&#x200B;**Admin**，然後按一下「欄位管理」。****
 
    ![](assets/image2014-9-24-14-3a4-3a54.png)
 
-1. 按一 **下「匯出欄位名稱** 」以下載試算表。
+1. 按一下「匯出欄位名稱&#x200B;**」以下載試算表。**
 
    ![](assets/image2014-9-24-14-3a5-3a6.png)
 
