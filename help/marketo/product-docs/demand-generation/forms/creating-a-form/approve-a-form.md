@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 批准表單 {#approve-a-form}
+# 批准表單{#approve-a-form}
 
 若要將表單新增至其中一個著陸頁面，必須核准表單。 這是如何做到的。
 
-## 批准表單 {#approve-a-form-1}
+## 批准表單{#approve-a-form-1}
 
 以下說明如何核准現有的表格，以便開始使用。
 
-1. 前往「行 **銷****活動」**。
+1. 前往&#x200B;**Marketing** **Activity**。
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. 在「表 **單動作**」下，按一 **下「核准」**。
+1. 在&#x200B;**表單動作**&#x200B;下，按一下&#x200B;**批准**。
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -35,13 +35,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   已核准並已準備好 [新增至著陸頁面](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
+   已核准並準備加入至著陸頁面[。](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
 
    >[!NOTE]
    >
    >在核准後所做的變更，最多需要4分鐘才能更新內嵌表單。
 
-## 從編輯器批准表單 {#approve-a-form-from-the-editor}
+## 從編輯器{#approve-a-form-from-the-editor}批准表單
 
 如果您要變更表單，可以直接從編輯器核准頁面。
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
 
 
-1. 按一 **下完成**。
+1. 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. 按一 **下「核准並關閉**」。
+1. 按一下「核准並關閉」。****
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)
 
@@ -65,6 +65,6 @@ ht-degree: 0%
 >
 >**提醒**
 >
->請記住，如果您在表單核准後進行編輯，則需要核准 [登陸頁面](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) ，才能查看變更。
+>請記住，如果您在表單核准後編輯，則需要[核准著陸頁面](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)才能查看變更。
 
 就這樣！ 輕鬆無比。
