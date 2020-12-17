@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 變更行銷人員密碼 {#change-your-marketo-password}
+# 變更行銷人員密碼{#change-your-marketo-password}
 
 透過這些簡單步驟，變更您的Marketo密碼。
 
-1. 任何Marketo使用者都可以按一下其名稱 **和「我的帳戶」**。
+1. 任何Marketo使用者都可以按一下其名稱和&#x200B;**我的帳戶**。
 
    ![](assets/image2015-11-10-10-3a40-3a8.png)
 
-1. 管理員也可以按一 **下「管理** 」，然後 **按一下「變更密碼** 」以變更其管理員密碼。
+1. 管理員也可以按一下&#x200B;**Admin**，然後按一下&#x200B;**Change Password**&#x200B;以變更其管理員密碼。
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
@@ -31,5 +31,5 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >什麼是好密碼？ 長篇大論，包含許多字母、數字和符號， [例如&quot;[電子郵件保護]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[受電子郵件保護]](http://docs.marketo.com/cdn-cgi/l/email-protection)」。 只是，不是那個。 發揮創意，打造您自己的作品。
+   >什麼是好密碼？ 長篇大論，包含許多字母、數字和符號，例如&quot; [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;。 只是，不是那個。 發揮創意，打造您自己的作品。
 
