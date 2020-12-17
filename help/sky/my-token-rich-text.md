@@ -16,10 +16,10 @@ ht-degree: 0%
 
 以下說明如何設定Rich Text Token，以便用於您的程式和促銷活動資料夾。
 
-1. 在程式 [!UICONTROL My Tokens] 或資料夾的標籤中，拖曳 **Rich Text** Token至畫 [!UICONTROL Local Tokens] 布。
+1. 在程式或資料夾的[!UICONTROL My Tokens]標籤中，拖曳&#x200B;**Rich Text** Token至[!UICONTROL Local Tokens]畫布。
 
    ![影像一](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-1.png)
 
-1. 輸入新Token的名稱，然後在編輯器中新增任何您想要的文字。 按一 **[!UICONTROL Save]**&#x200B;下。
+1. 輸入新Token的名稱，然後在編輯器中新增任何您想要的文字。 按一下&#x200B;**[!UICONTROL Save]**。
 
    ![影像2](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-2.png)
