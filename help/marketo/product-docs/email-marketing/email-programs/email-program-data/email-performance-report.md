@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# 電子郵件績效報告 {#email-performance-report}
+# 電子郵件績效報告{#email-performance-report}
 
 若要查看您的電子郵件在傳送、開啟、點按等統計資料時的效能，請建立「電子郵件效能報表」。
 
-1. [在程式中建立報表](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ，並選取「電子郵 **件效能**[報表類型」](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
-1. [變更「報表時間範圍](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 」，然後按一下「報 **表** 」標籤。
+1. [在程式中建立報表，](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 並選取「電子郵 **件效** [能報表類型」](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+1. [變更報表時間](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 範圍，然後按一下「報 **** 表」標籤。
 1. 你在那！ 現在請瀏覽報表，瞭解您的電子郵件的執行方式。
 
    >[!NOTE]
@@ -32,9 +32,9 @@ ht-degree: 0%
    >[!NOTE]
    >
    >
-   >電子郵件績效報表包含所有人的活動，包括自電子郵件傳送以來已刪除的活動。 有時，您只想查看活動中人員的活動。 在這種情況下，您需要從報表中篩選已刪除的人。 使用「 **智慧型清單** 」標籤 [建立報表的智慧型清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 。 如果您未在任何特定欄位上進行篩選，請將「電子郵件地址」篩選設為： **不是空的**。
+   >電子郵件績效報表包含所有人的活動，包括自電子郵件傳送以來已刪除的活動。 有時，您只想查看活動中人員的活動。 在這種情況下，您需要從報表中篩選已刪除的人。 使用&#x200B;**智慧型清單**&#x200B;標籤為報表建立智慧型清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)。 [如果您未在任何特定欄位上進行篩選，請將「電子郵件地址」篩選設為：**不為空**。
 
-   [為「電子郵件效能](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 」報表選擇報表欄包括：
+   [為「電子郵](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 件績效」報表選擇報表欄包括：
 
    | 欄 | 說明 |
    |---|---|
@@ -42,7 +42,7 @@ ht-degree: 0%
    | 軟反彈 | 電子郵件因為暫時狀況而遭拒，例如伺服器關閉或收件匣已滿。 |
    | 待定 | 此數字的計算方式是從「已傳送」總數中減去「已傳送」、「已彈回」和「已軟彈回」的電子郵件數。 |
    | 已點按連結 | 按一下電子郵件中連結的電子郵件收件者數。 |
-   | 取消訂閱 | 按一下電子郵件中「取消訂 **閱** 」連結並填寫表單的電子郵件收件者數目。 |
+   | 取消訂閱 | 按一下電子郵件中&#x200B;**取消訂閱**&#x200B;連結並填寫表單的電子郵件收件者數目。 |
 
    >[!NOTE]
    >
@@ -54,9 +54,9 @@ ht-degree: 0%
 
 * **規則2**:如果電子郵件記錄顯 *示「已開啟*」 *，則會計為「已*&#x200B;傳送」。
 
-* **第3條**:如果電子郵件記錄顯 *示「已點按電子郵件* 」或「未訂 *閱」*，則會計為「已 *傳送* 」和「已 **&#x200B;開啟」。
+* **第3條**:如果電子郵件記錄顯 *示「已點* 按的電子郵 *件或取消*&#x200B;訂閱 ** 」，則會計為「已傳 *送」和「已*&#x200B;開啟」。
 
-* **規則4**:如果電子郵件已 *開啟*，則會忽略彈回數。 如果電子郵件尚未開啟，則 *Hard Roburced* 優先於 *Soft Roburced* and *Delivered*。
+* **規則4**:如果電子郵件已 *開啟*，則會忽略彈回數。如果電子郵件未開啟，則&#x200B;*硬跳*&#x200B;優先於&#x200B;*軟跳*&#x200B;和&#x200B;*已遞送*。
 
 >[!NOTE]
 >
@@ -75,5 +75,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->進一步瞭解基 [本報告](http://docs.marketo.com/display/docs/basic+reporting)。
+>進一步瞭解[基本報告](http://docs.marketo.com/display/docs/basic+reporting)。
 
