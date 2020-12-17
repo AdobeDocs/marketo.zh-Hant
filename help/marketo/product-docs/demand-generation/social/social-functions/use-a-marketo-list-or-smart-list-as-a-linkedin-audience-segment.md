@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用行銷人員清單或智慧清單作為LinkedIn觀眾區隔 {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
+# 使用行銷人員清單或智慧清單作為LinkedIn觀眾區隔{#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
 將您的Market與您的LinkedIn受眾整合。
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 按一下「 **人員** 」標籤。
+1. 按一下&#x200B;**People**&#x200B;頁籤。
 
    ![](assets/three-1.png)
 
-1. 按一下清單底部的**「透過廣告橋 ![接](assets/image2015-4-20-18-3a18-3a41.png) 傳送」**圖示。
+1. 按一下清單底部的** 「通過廣告橋發送」 **表徵圖![—](assets/image2015-4-20-18-3a18-3a41.png)。
 
    ![](assets/four-1.png)
 
@@ -43,15 +43,15 @@ ht-degree: 0%
    >
    >當使用廣告網路整合將觀眾傳送至LinkedIn時，Marketo只會傳送電子郵件位址。
 
-1. 選擇** LinkedIn**，然後按一下「下 **一步**」。
+1. 選擇** LinkedIn**，然後按一下&#x200B;**Next**。
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
-1. 選取 **LinkedIn對象**。
+1. 選取&#x200B;**LinkedIn Audience**。
 
    >[!NOTE]
    >
-   >按一 **下+新觀眾** ，將會在LinkedIn促銷活動管理員中建立觀眾。
+   >按一下&#x200B;**+New Audience**&#x200B;將在LinkedIn促銷活動管理員中建立觀眾。
 
    ![](assets/6.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >LinkedIn已於2018年3月停用用於「清除對象並新增銷售機會」推播類型的API。 自Marketo的2018年第1季發行起，此選項已不再提供。
 
-1. 選取推 **送類型**。 按一 **下更新**。
+1. 選擇&#x200B;**推送類型**。 按一下&#x200B;**Update**。
 
    ![](assets/7.png)
 
