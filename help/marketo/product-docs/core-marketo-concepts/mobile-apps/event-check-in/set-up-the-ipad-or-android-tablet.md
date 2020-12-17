@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 設定iPad或Android平板電腦 {#set-up-the-ipad-or-android-tablet}
+# 設定iPad或Android平板電腦{#set-up-the-ipad-or-android-tablet}
 
 為了在活動日獲得流暢的體驗，請準備您的iPad或Android平板電腦，並在活動前測試Marketo Events應用程式。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >您必須連線至網際網路才能下載應用程式。
 
-## 下載及安裝Marketo Events iPad應用程式 {#download-and-install-the-marketo-events-ipad-app}
+## 下載並安裝Marketo Events iPad應用程式{#download-and-install-the-marketo-events-ipad-app}
 
 如果您的iPad尚未安裝Marketo Events應用程式，請以下說明如何取得。
 
@@ -33,25 +33,25 @@ ht-degree: 0%
 
    ![](assets/image2016-4-14-15-3a52-3a19.png)
 
-1. 在搜尋方塊中，輸入 **Marketto** ，並在建議中點 **選marketo events**。
+1. 在搜尋方塊中，輸入&#x200B;**Marketo**，並在「建議」中，點選&#x200B;**marketo events**。
 
    ![](assets/image2016-4-14-16-3a0-3a3.png)
 
 1. 請依照程式，在您的iPad上下載並安裝應用程式。
 
-## 下載及安裝Marketo Events Android應用程式 {#download-and-install-the-marketo-events-android-app}
+## 下載並安裝Marketo Events Android應用程式{#download-and-install-the-marketo-events-android-app}
 
 如果您的Android平板電腦尚未安裝Marketo Events應用程式，請看如何取得。
 
 1. 開啟您的平板電腦並點選** Google Play商店**應用程式。
-1. 在「搜尋」方塊中，輸入 **Marketto** ，然後點 **選Return**。
-1. 在搜尋結果中，點選「行銷活 **動」應用程式** 。
+1. 在「搜尋」方塊中，輸入&#x200B;**Marketo**，然後點選&#x200B;**Return**。
+1. 在搜尋結果中，點選&#x200B;**Marketo Events**&#x200B;應用程式。
 
    ![](assets/image2016-4-15-14-3a42-3a11.png)
 
 1. 請依照程式，下載並安裝應用程式至您的平板電腦。
 
-## 確認iPad和平板電腦使用者的登入憑證 {#confirm-login-credentials-for-ipad-and-tablet-users}
+## 確認iPad和平板電腦使用者的登入憑證{#confirm-login-credentials-for-ipad-and-tablet-users}
 
 在您指派iPad或平板電腦給商展人員之前，請確認他們將使用的登入認證是否正常運作，以及您的事件會出現在應用程式的「首頁」畫面上。
 
@@ -62,9 +62,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >建立新事件後可能需要幾分鐘的時間，才會顯示在iPad或平板電腦應用程式中。 如果未顯示，請點選「 **Home** （首頁）」畫面上的「Logout（登出）」，等待幾分鐘，然後再次登入。
+   >建立新事件後可能需要幾分鐘的時間，才會顯示在iPad或平板電腦應用程式中。 如果未顯示，請在「Home（主螢幕）」上點選「**Logout**」，等待幾分鐘，然後再次登錄。
 
-## 同步應用程式以填入事件 {#sync-the-app-to-populate-the-event}
+## 同步應用程式以填入事件{#sync-the-app-to-populate-the-event}
 
 同步以確定您新增的人員在此。
 
@@ -79,17 +79,17 @@ ht-degree: 0%
 
    ![](assets/screenshot-2016-04-15-14-14-08-sync-button.png)
 
-## 確認登入功能正常運作 {#confirm-check-ins-are-working}
+## 確認簽入工作{#confirm-check-ins-are-working}
 
 請務必在事件發生前確認登入功能是否在iPad或平板電腦上運作。
 
-1. 在應用程式中， [檢查測試線索](check-people-into-your-event-from-your-tablet.md)。
-1. 點選「 **同步** 」圖示以同步應用程式。
-1. 在Marketo中，開啟您的活動，然後按一下「 **成員**」。
+1. 在應用程式中，[檢查](check-people-into-your-event-from-your-tablet.md)中的測試銷售線索。
+1. 點選&#x200B;**Sync**&#x200B;圖示以同步應用程式。
+1. 在Marketo中，開啟您的事件，然後按一下&#x200B;**成員**。
 
    ![](assets/image2016-4-15-15-3a32-3a42.png)
 
-1. 確認人員的狀態已變更為「已參加」 **** ，並勾選「成功」。
+1. 確認人員的狀態已變更為&#x200B;**已出席**，並勾選「成功」。
 
    ![](assets/image2016-4-18-14-3a11-3a36.png)
 
