@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 瞭解方案中的本地資產 {#understanding-local-assets-in-a-program}
+# 瞭解程式中的本地資產{#understanding-local-assets-in-a-program}
 
 本機資產是組成您方案的內容。 資產可自訂，讓您建立自動化的行銷計畫。 以下是您在程式中可建立的大部分本機資產：
 
