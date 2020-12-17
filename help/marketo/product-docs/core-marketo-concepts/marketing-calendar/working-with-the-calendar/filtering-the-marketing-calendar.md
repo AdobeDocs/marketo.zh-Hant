@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 篩選行銷行事歷 {#filtering-the-marketing-calendar}
+# 篩選行銷行事歷{#filtering-the-marketing-calendar}
 
 使用登入類型、程式標籤或工作區來篩選日曆上顯示的資訊。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. 按一下 **「登入****類型** 」下拉式清單。
+1. 按一下&#x200B;**Entry** **Type**&#x200B;下拉式清單。
 
    >[!NOTE]
    >
-   >預設條目類型 **Email** Programs **And** Smart Campaigns將是Email **Programs和Email************** Smart Campaigns的電子郵件促銷活動。
+   >預設條目類型為&#x200B;**電子郵件****程式**&#x200B;和&#x200B;**Smart****促銷活動** **和****電子郵件**。
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >有關標準錄入類型的說明，請檢查「程 [序計畫查看錄入類型」](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)。
+   >有關標準條目類型的說明，請參閱[程式計畫查看條目類型](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)。
 
 1. 選擇您感興趣的方案標籤。
 
