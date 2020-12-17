@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 發行說明：16年冬季 {#release-notes-winter}
+# 發行說明：冬季&#39;16 {#release-notes-winter}
 
 Winter &#39;16版本包含下列功能。 請按一下標題連結，以檢視每個功能的詳細文章。
 
 ## [匿名篩選](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-智慧型清單的「匿名」篩選器已移除。 如需詳細 [資訊，請參閱新一代Munchkin追蹤常見問答](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) 。 這項變更不會影響網頁個人化(RTP),RTP會持續識別匿名和已知的網頁訪客，並即時將內容個人化給這些訪客。
+智慧型清單的「匿名」篩選器已移除。 如需詳細資訊，請參閱[新一代Munchkin追蹤常見問答集](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)檔案。 這項變更不會影響網頁個人化(RTP),RTP會持續識別匿名和已知的網頁訪客，並即時將內容個人化給這些訪客。
 
 ## [資料庫儀表板](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
@@ -27,7 +27,7 @@ Winter &#39;16版本包含下列功能。 請按一下標題連結，以檢視�
 
 ## [Microsoft Edge瀏覽器](../../product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-我們已將Microsoft Edge新增至Marketo支 [援的瀏覽器](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) 清單中。
+我們已將Microsoft Edge新增至Marketo支援的[瀏覽器清單](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)。
 
 ## [Microsoft Outlook 2016](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
@@ -49,7 +49,7 @@ Winter &#39;16版本包含下列功能。 請按一下標題連結，以檢視�
 
 ## [行動行銷增強功能](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap支援：** 我們現在為您的行動應用程式提供PhoneGap支援。 [進一步瞭解](http://developers.marketo.com/documentation/mobile/phonegap-plugin/)。
+**PhoneGap支援：我** 們現在為您的行動應用程式提供PhoneGap支援。[進一步瞭解](http://developers.marketo.com/documentation/mobile/phonegap-plugin/)。
 
 **支援沙盒應用程式**:
 
@@ -61,11 +61,11 @@ Winter &#39;16版本包含下列功能。 請按一下標題連結，以檢視�
 
 ## [Microsoft Dynamics增強功能](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-**同 [步狀態](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md):**密切關注同步過程的當前吞吐量和積壓。 依物件的插入和更新次數來劃分。
+** [同步狀態](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md):**密切關注同步過程的當前吞吐量和積壓。 依物件的插入和更新次數來劃分。
 
 ![](assets/pending-backog-cropped.png)
 
-**通 [知](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**:收到常見同步錯誤的通知，以及有該錯誤的潛在客戶清單。
+** [通知](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**:收到常見同步錯誤的通知，以及有該錯誤的潛在客戶清單。
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 
@@ -77,7 +77,7 @@ Winter &#39;16版本包含下列功能。 請按一下標題連結，以檢視�
 
 ## [Facebook銷售線索廣告](../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook銷售機會廣告](https://www.facebook.com/business/a/lead-ads) ，是企業在Facebook上執行銷售機會開發促銷活動的更直接方式。 人們填寫表格以表示對產品或服務的興趣，讓企業可以跟進。 Marketo與Facebook銷售機會廣告的整合會自動擷取銷售機會在銷售機會廣告表單中提供的資訊。 然後，使用新的「填出Facebook銷售線索廣告」觸發器，可自動追蹤動作和通知。
+[Facebook銷售](https://www.facebook.com/business/a/lead-ads) 機會廣告是企業在Facebook上執行銷售機會開發促銷活動的更直接方式。人們填寫表格以表示對產品或服務的興趣，讓企業可以跟進。 Marketo與Facebook銷售機會廣告的整合會自動擷取銷售機會在銷售機會廣告表單中提供的資訊。 然後，使用新的「填出Facebook銷售線索廣告」觸發器，可自動追蹤動作和通知。
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
