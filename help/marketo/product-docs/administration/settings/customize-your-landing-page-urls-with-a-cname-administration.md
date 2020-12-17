@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用CNAME（管理）自訂著陸頁面URL {#customize-your-landing-page-urls-with-a-cname-administration}
+# 使用CNAME（管理）{#customize-your-landing-page-urls-with-a-cname-administration}自訂著陸頁面URL
 
 即使Marketo代管您的著陸頁面，URL仍應為您的公司自訂。
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
 1. 尋找您的帳戶字串。
 
-1. 前往「管 **理** 」區域，然後按 **一下「著陸頁面」**。
+1. 前往&#x200B;**Admin**&#x200B;區域，然後按一下&#x200B;**Landing Pages**。
 
    ![](assets/image2014-9-16-13-3a9-3a44.png)
 
-1. 在「著 **陸頁面** 」標籤下，從「設定」區段複製「帳戶字串」。
+1. 在&#x200B;**著陸頁面**&#x200B;標籤下，從「設定」區段複製帳戶字串。
 
    ![](assets/image2014-9-16-13-3a9-3a57.png)
 
@@ -55,21 +55,21 @@ ht-degree: 0%
 
 1. 傳送要求給IT人員。
 
-1. 請您的IT人員設定下列CNAME(將 [CNAME][和ACCOUNT STRING] 取代為上一步驟的文字):
+1. 請您的IT人員設定下列CNAME（以上步驟的文字取代字詞[CNAME]和[ACCOUNT STRING]）:
 
-   [CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
 1. 完成CNAME設定。
 
-1. IT人員建立CNAME後，請前往「管理 **員** 」並按一 **下「著陸頁面」**。
+1. 在您的IT建立CNAME後，請前往&#x200B;**Admin**，然後按一下&#x200B;**著陸頁面**。
 
    ![](assets/image2014-9-16-13-3a10-3a14.png)
 
-1. 在「設 **定** 」區段下，按一 **下「編輯**」。
+1. 在&#x200B;**Settings**&#x200B;區段下，按一下&#x200B;**Edit**。
 
    ![](assets/image2014-9-16-13-3a10-3a31.png)
 
-1. 在著陸頁面的網 **域名稱中輸入您的CNAME**，輸入您的備 **援頁面**，輸入您的首頁 **，然後按一下******&#x200B;儲存SaveChap。
+1. 在「著陸頁面&#x200B;**網域名稱」中輸入您的CNAME，輸入**&#x200B;後援頁面&#x200B;**，輸入**&#x200B;首頁&#x200B;**，然後按一下**&#x200B;儲存&#x200B;**。**
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 
