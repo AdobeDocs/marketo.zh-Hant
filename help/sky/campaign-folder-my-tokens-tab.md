@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 促銷活動資料夾：我的Token標籤
 
-此標 [!UICONTROL My Tokens] 簽會列出促銷活動資料夾中的所有「我的預付碼」。
+[!UICONTROL My Tokens]標籤會列出促銷活動資料夾中的所有My Token。
 
 ![影像一](/help/sky/assets/campaign-folders/campaign-folder-my-tokens-tab/campaign-folder-my-tokens-tab-1.png)
 
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 **深入探討**
 
-進一步瞭解如何使 [用我的Token](/help/sky/understanding-my-tokens.md)。
+進一步瞭解如何使用[我的Token](/help/sky/understanding-my-tokens.md)。
