@@ -18,15 +18,15 @@ ht-degree: 0%
 
 ## 取消整個週期
 
-1. 選取促銷活動並前往標 **[!UICONTROL Schedule]** 簽。
+1. 選擇促銷活動並前往&#x200B;**[!UICONTROL Schedule]**&#x200B;標籤。
 
    ![影像一](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. 按一 **[!UICONTROL Edit Recurrence]**&#x200B;下。
+1. 按一下&#x200B;**[!UICONTROL Edit Recurrence]**。
 
    ![影像2](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
-1. 將「循環」設為「無」，然後按一 **[!UICONTROL Confirm]**&#x200B;下。
+1. 將「循環」設為「無」，然後按一下「**[!UICONTROL Confirm]**」。
 
    ![影像三](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-3.png)
 
@@ -36,15 +36,15 @@ ht-degree: 0%
 
 ## 取消單次執行
 
-1. 選取促銷活動並前往標 **[!UICONTROL Schedule]** 簽。
+1. 選擇促銷活動並前往&#x200B;**[!UICONTROL Schedule]**&#x200B;標籤。
 
    ![影像4](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
-1. 按一 **[!UICONTROL Scheduled Runs]**&#x200B;下。
+1. 按一下&#x200B;**[!UICONTROL Scheduled Runs]**。
 
    ![影像5](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-5.png)
 
-1. 尋找您要取消的單一執行，然後按一 **[!UICONTROL X]** 下最右邊的。
+1. 尋找您要取消的單一執行，然後按一下最右邊的&#x200B;**[!UICONTROL X]**。
 
    ![影像6](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-6.png)
 
