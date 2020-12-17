@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 發佈抽獎活動 {#publish-a-sweepstakes}
+# 發佈抽獎活動{#publish-a-sweepstakes}
 
-建立抽 [獎活動後](create-sweepstakes.md)，您可以在您的Marketo登陸頁面、網站和Facebook上發佈抽獎活動。
+在您[建立抽獎活動](create-sweepstakes.md)後，您可以在Marketo登陸頁面、網站和Facebook上發佈抽獎活動。
 
 >[!NOTE]
 >
@@ -27,15 +27,15 @@ ht-degree: 0%
 >
 >在您發佈選件之前，請確認它符合所有適用法律、規則和法規。
 
-1. 找到您的著陸頁面，然後按一下「 **編輯草稿**」。
+1. 找到您的登陸頁面，然後按一下「編輯草稿&#x200B;**」。**
 
    ![](assets/image2014-9-25-17-3a41-3a27.png)
 
-1. 找到頁面右側的「插入元素」區段。 拖曳至抽獎 **活動上**。
+1. 找到頁面右側的「插入元素」區段。 拖曳至&#x200B;**抽獎活動**。
 
    ![](assets/image2014-9-25-17-3a41-3a31.png)
 
-1. 選取您的抽獎活動，然後按一 **下「插入**」。
+1. 選擇您的抽獎活動，然後按一下「插入」。****
 
    ![](assets/image2014-9-25-17-3a41-3a35.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
    >
    >您必須核准抽獎活動，才能在此處提供。
 
-   [將登陸頁面發佈至Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) , [將抽獎活動放在您的網站上](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [將登陸頁面發佈至](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [Facebook，將抽獎活動放在您的網站上](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
    >[!TIP]
    >
@@ -54,6 +54,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >當人們開始註冊後，請記得回到應用程式以選 [擇抽獎活動的得獎者](select-sweepstakes-winners.md)!
+   >當人們開始註冊後，請記得回到應用程式，選擇抽獎活動的得獎者[!](select-sweepstakes-winners.md)
 
 恭喜！ 核准登陸頁面，您的抽獎活動即時進行。 您也可以或。
