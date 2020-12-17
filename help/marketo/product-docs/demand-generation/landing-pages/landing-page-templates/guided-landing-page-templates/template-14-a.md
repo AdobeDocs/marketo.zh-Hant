@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本14-A {#template-a}
+# 模板14-A {#template-a}
 
 [下載範本14-A](http://docs.marketo.com/download/attachments/9437801/template-14a.html?version=1&amp;modificationdate=1438980173000&amp;api=v2)
 
