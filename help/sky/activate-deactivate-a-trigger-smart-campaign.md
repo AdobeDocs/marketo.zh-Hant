@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 啟動觸發促銷活動
 
-1. 在智慧型促銷活動中，按一下標 **[!UICONTROL Schedule]** 簽。
+1. 在智慧型促銷活動中，按一下&#x200B;**[!UICONTROL Schedule]**&#x200B;標籤。
 
    ![影像一](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 0%
    >
    >在啟動前先檢閱智慧型促銷活動。
 
-1. 按一 **[!UICONTROL Activate]**&#x200B;下。
+1. 按一下&#x200B;**[!UICONTROL Activate]**。
 
    ![影像2](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-2.png)
 
@@ -36,14 +36,14 @@ ht-degree: 0%
 
 ## 停用觸發器促銷活動
 
-1. 在智慧型促銷活動中，按一下標 **[!UICONTROL Schedule]** 簽。
+1. 在智慧型促銷活動中，按一下&#x200B;**[!UICONTROL Schedule]**&#x200B;標籤。
 
    ![影像三](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
-1. 按一 **[!UICONTROL Deactivate]**&#x200B;下。
+1. 按一下&#x200B;**[!UICONTROL Deactivate]**。
 
    ![影像4](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-4.png)
 
 >[!NOTE]
 >
->這會阻 _止新人_ 進入流程，但等待步驟或任何其他流程步驟中的人將繼續在流程中移動直到完成。
+>這將阻止&#x200B;_new_&#x200B;人員進入流程，但等待步驟或任何其他流程步驟的人員將繼續在流程中移動直到完成。
