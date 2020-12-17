@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 檢視智慧型促銷活動成員 {#view-smart-campaign-members}
+# 檢視智慧型促銷活動成員{#view-smart-campaign-members}
 
 檢視已透過智慧型宣傳流程運作的人員；智慧型促銷活動成員。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >您可以從智慧型促銷活動中的任何位置檢視促銷活動成員。
 
-1. 「促 **銷活動成員** 」標籤顯示已透過智慧型促銷活動流程執行的人員。
+1. **促銷活動成員**&#x200B;標籤顯示已透過智慧型促銷活動流程執行的人員。
 
    ![](assets/smartcampaignheader-complete.jpg)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >進一步瞭解您可以如何處理清 [單](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)。
+   >進一步瞭解您可以使用[lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)做些什麼。
 
    >[!NOTE]
    >
