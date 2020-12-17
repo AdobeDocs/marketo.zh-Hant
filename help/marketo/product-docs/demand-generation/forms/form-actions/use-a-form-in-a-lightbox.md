@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 在燈箱中使用表單 {#use-a-form-in-a-lightbox}
+# 在燈箱中使用表單{#use-a-form-in-a-lightbox}
 
 燈箱是一種技巧，可在您想要顯示內容時，在內容前面開啟表格。 這是方法。
 
-1. 前往「行 **銷****活動」**。
+1. 前往&#x200B;**Marketing** **Activity**。
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. 在「表 **單****動作」下**，按一 **下「內嵌******&#x200B;代碼」。
+1. 在&#x200B;**Form****Actions**&#x200B;下，按一下&#x200B;**Embed****Code**。
 
    >[!NOTE]
    >
@@ -34,11 +34,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. 將「 **Code** **Type** 」（程式碼類型）設 **為「燈箱**」。
+1. 將&#x200B;**Code****Type**&#x200B;設為&#x200B;**Lightbox**。
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
-1. 選取／復製程式碼，然後按一下「 **關閉**」。
+1. 選擇／複製代碼，然後按一下&#x200B;**關閉**。
 
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 
