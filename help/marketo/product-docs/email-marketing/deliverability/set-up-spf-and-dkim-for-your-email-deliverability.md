@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 設定SPF和DKIM以實現電子郵件傳遞 {#set-up-spf-and-dkim-for-your-email-deliverability}
+# 為電子郵件傳遞能力設定SPF和DKIM {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-提高電子郵件傳送率的一個快速方法是將 **SPF** （發送者策略框架）和 **DKIM** （識別的域密鑰郵件）合併到DNS設定中。 除了DNS項目外，您還告訴收件者您已授權Market代表您傳送電子郵件。 若未進行此變更，您的電子郵件自您的網域寄送，但是從具有Marketo網域的IP位址傳送，因此更容易被標示為垃圾訊息。
+提高電子郵件傳送率的一個快速方法是將&#x200B;**SPF**（發件人策略框架）和&#x200B;**DKIM**（域密鑰標識郵件）合併到DNS設定中。 除了DNS項目外，您還告訴收件者您已授權Market代表您傳送電子郵件。 若未進行此變更，您的電子郵件自您的網域寄送，但是從具有Marketo網域的IP位址傳送，因此更容易被標示為垃圾訊息。
 
 >[!CAUTION]
 >
@@ -23,8 +23,8 @@ ht-degree: 0%
 
 **如果您的域上沒有SPF記錄**
 
-請您的網路管理員將下列行新增至您的DNS項目。 將網 [域取] 代為您網站的主網域(例如 「company.com」)和 [corpIP] ，以及您公司電子郵件伺服器的IP位址(例如 &quot;255.255.255.255&quot;). 如果您透過Marketo從多個網域傳送電子郵件，您應將此電子郵件新增至每個網域（在一行）。
-[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all\
+請您的網路管理員將下列行新增至您的DNS項目。 將[domain]取代為網站的主網域(例如 &quot;company.com&quot;)和[corpIP]，以及您公司電子郵件伺服器的IP位址(例如 &quot;255.255.255.255&quot;)。 如果您透過Marketo從多個網域傳送電子郵件，您應將此電子郵件新增至每個網域（在一行）。
+[] domainIN TXT v=spf1 mx ip4:[] corpIPinclude:mktomail.com ~all\
 如果您的域上有SPF記錄
 
 如果您的DNS條目中已經有SPF記錄，請在其中添加以下內容：
@@ -33,7 +33,7 @@ include:mktomail.com
 
 ## 設定DKIM {#set-up-dkim}
 
-### 什麼是DKIM? 為什麼要設定DKIM? {#what-is-dkim-why-do-i-want-to-set-up-dkim}
+### 什麼是DKIM? 為什麼要設定DKIM?{#what-is-dkim-why-do-i-want-to-set-up-dkim}
 
 DKIM是一種驗證通訊協定，電子郵件接收者會使用此通訊協定來判斷電子郵件訊息是由誰傳送。 DKIM通常會改善電子郵件傳送至收件匣的能力，因為接收者可以確信訊息並非偽造。
 
@@ -45,7 +45,7 @@ DKIM公司的運作方式為何？
 
 我要如何設定DKIM?
 
-請參閱 [設定自訂DKIM簽名](set-up-a-custom-dkim-signature.md)。
+請參閱[設定自訂DKIM簽名](set-up-a-custom-dkim-signature.md)。
 
 >[!MORELIKETHIS]
 >
