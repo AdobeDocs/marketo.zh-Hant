@@ -11,24 +11,24 @@ ht-degree: 0%
 ---
 
 
-# 使用URL產生器 {#using-the-url-builder}
+# 使用URL產生器{#using-the-url-builder}
 
 「URL產生器」可協助您建構可填入Marketing至隱藏表單欄位的URL。
 
 >[!PREREQUISITES]
 >
->瞭解如何在表單中建立隱藏欄位，並在「將表單欄位設 [為隱藏」中編輯其設定](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)。
+>瞭解如何在表單中建立隱藏欄位，並在[將表單欄位設為隱藏](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)中編輯其設定。
 
-1. 選取著陸頁面、按一下「 **著陸頁面動作**」、將滑鼠暫留在「 **URL工具」上**，然後按一下「 **URL產生器」**。
+1. 選取著陸頁面，按一下「著陸頁面動作」**，將滑鼠指標暫留在「URL工具」**&#x200B;上，然後按一下「URL產生器」**。******
 
    ![](assets/image2014-9-18-13-3a5-3a19.png)
 
-1. 選取您要使用的欄位，輸入值，然後按一下「更 **新URL」**。
+1. 選擇要使用的欄位，輸入值，然後按一下&#x200B;**更新URL**。
 
    ![](assets/image2014-9-18-13-3a5-3a28.png)
 
    >[!NOTE]
    >
-   >如果您在產生器中未看到任何可用欄位，請確定您的表單有隱藏欄位，且已將 [其設定為接受URL參數](http://docs.marketo.com/display/DOCS/Set+a+Hidden+Form+Field+Value#SetaHiddenFormFieldValue-URLParameter)。
+   >如果您在產生器中未看到任何可用欄位，請確定您的表單有隱藏欄位，且已將這些欄位設為[接受URL參數](http://docs.marketo.com/display/DOCS/Set+a+Hidden+Form+Field+Value#SetaHiddenFormFieldValue-URLParameter)。
 
 幹得好！ 您現在可以複製並貼上URL，並將它用於網頁。
