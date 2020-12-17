@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 啟用／停用促銷活動同步 {#enable-disable-campaign-sync}
+# 啟用／停用促銷活動同步{#enable-disable-campaign-sync}
 
 >[!NOTE]
 >
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 此選項可讓Market將其方案會籍和狀態與Salesforce促銷活動同步，反之亦然。
 
-1. 前往**管理員，**按一下 **Salesforce。**
+1. 前往**管理員， **按一下&#x200B;**Salesforce。**
 
    ** ![](assets/image2014-12-9-13-3a36-3a49.png)
 
    **
 
-1. 按一 **下編輯同步設定**。
+1. 按一下「編輯同步設定」**。**
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. 勾選「 **啟用Salesforce促銷活動同步** 」，然後按 **一下「儲存**」。
+1. 勾選&#x200B;**啟用Salesforce促銷活動同步**，然後按一下&#x200B;**SAVE**。
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
