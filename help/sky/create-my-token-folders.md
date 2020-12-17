@@ -16,11 +16,11 @@ ht-degree: 0%
 
 以下說明如何將我的預付碼排序至資料夾。
 
-1. 在促銷 [!UICONTROL My Tokens] 活動資料夾或方案的標籤中，按一下右 [!UICONTROL Create Folder] 上方的圖示。
+1. 在促銷活動資料夾或程式群的[!UICONTROL My Tokens]標籤中，按一下右上角的[!UICONTROL Create Folder]圖示。
 
    ![影像一](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. 輸入新資料夾的名稱，然後從目 **[!UICONTROL Local Tokens]** 標下 **[!UICONTROL Overridden Tokens]** 拉式清單中選取或。 按一 **[!UICONTROL Save]**&#x200B;下。
+1. 輸入新資料夾的名稱，然後從目標下拉式清單中選擇&#x200B;**[!UICONTROL Local Tokens]**&#x200B;或&#x200B;**[!UICONTROL Overridden Tokens]**。 按一下&#x200B;**[!UICONTROL Save]**。
 
    ![影像2](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
@@ -38,4 +38,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->要更名資料夾，請按一下右鍵該資料夾並按一下 **[!UICONTROL Rename]**。
+>要更名資料夾，請按一下右鍵該資料夾，然後按一下&#x200B;**[!UICONTROL Rename]**。
