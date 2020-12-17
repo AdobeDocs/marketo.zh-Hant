@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 行動智慧型促銷活動的觸發器和篩選器 {#triggers-and-filters-for-mobile-smart-campaigns}
+# 行動智慧型促銷活動的觸發器和篩選器{#triggers-and-filters-for-mobile-smart-campaigns}
 
 您可以為行動應用程式智慧型促銷活動設定觸發器和篩選器。
 
-對於大多數活動，都有觸發器、篩選器和不活動篩選器。 使用不活動篩選來追蹤未發生的動作，例如點選 *推播通知* 。
+對於大多數活動，都有觸發器、篩選器和不活動篩選器。 使用不活動篩選來追蹤發生&#x200B;*didn』t*&#x200B;的動作，例如點選推播通知。
 
 * 已安裝／已安裝行動應用程式
 * 行動應用程式已開啟／已開啟
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 * 已傳送推播通知——篩選和未活動篩選
 
-在右側面 **板中搜尋行動應用程式** ，以列出所有行動應用程式觸發器和篩選器。
+在右側面板中搜尋&#x200B;**行動應用程式**，以列出所有行動應用程式觸發器和篩選器。
 
 ![](assets/image2015-8-12-17-3a25-3a18.png)
 
-## 限制 {#constraints}
+## 約束{#constraints}
 
 使用與觸發器和篩選器的限制進一步排序資料。
 
@@ -57,9 +57,9 @@ ht-degree: 0%
 
 * 作業長度（秒）-應用程式在前景時的作業時間
 
-* 是否啟用推播 **** -真表示可以傳送推播通知。 **假的** ，意味著他們不能；例如，該人員可能已選擇不接收推播通知
+* 推播是否已啟用- **True**&#x200B;表示可以傳送推播通知。 **假** 話意味著他們做不到；例如，該人員可能已選擇不接收推播通知
 
-## 觸發器和篩選器 {#triggers-and-filters}
+## 觸發器和篩選器{#triggers-and-filters}
 
 **有行動應用程式**
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 有／有行動應用程式活動
 
-這些功能提供強大的方式來追蹤自訂行動活動。 您需要與開發人員合作，以設定Android和iOS [的追](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android)[蹤功能](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios)。
+這些功能提供強大的方式來追蹤自訂行動活動。 您必須與您的開發人員合作，針對iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios)設定追蹤[的Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android)和[。
 
 * 有行動應用程式活動——觸發器
 
@@ -129,7 +129,7 @@ ht-degree: 0%
 >
 >**範例**
 >
->在「購物」( *Shopping*)的動作類型下，有一個非常具體的動作，其他限制條件會定義它：
+>在動作類型&#x200B;*Shopping*&#x200B;下，有一個非常具體的動作，其他限制條件會定義它：
 >
 >* 買了件襯衫
 >  * 是紅的
@@ -180,7 +180,7 @@ ht-degree: 0%
 >
 >使用「未點選推播通知」不活動篩選器，尋找最近未點選傳送給他們的推播通知的訪客，以便您透過電子郵件追蹤。
 
-**已傳送推播通知** ：此活動僅可做為篩選器。
+**已傳送推播** 通知此活動僅能做為篩選器。
 
 * 已傳送推播通知——篩選
 
