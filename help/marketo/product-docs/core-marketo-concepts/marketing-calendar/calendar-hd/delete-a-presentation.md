@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 刪除簡報 {#delete-a-presentation}
+# 刪除演示{#delete-a-presentation}
 
 有時候，你可能有太多好處。 刪除舊簡報，為新簡報騰出空間！
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/image2015-3-26-12-3a26-3a41.png)
 
-1. 按一下右鍵並選擇「刪 **除」**。
+1. 按一下右鍵並選擇&#x200B;**Delete**。
 
    ![](assets/image2015-3-26-12-3a26-3a51.png)
 
-1. 按一下 **刪除** ，以確認。
+1. 按一下&#x200B;**Delete**&#x200B;確認。
 
    ![](assets/image2015-3-20-16-3a21-3a10.png)
 
