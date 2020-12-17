@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 步驟1（共3步）:安裝Marketo解決方案（2011年內部部署） {#step-of-install-the-marketo-solution-on-premises}
+# 步驟1（共3步）:安裝Marketo解決方案（2011年內部部署）{#step-of-install-the-marketo-solution-on-premises}
 
 在同步Microsoft Dynamics On-On-Promess和Marketo之前，您必須先在Dynamics中安裝Marketo解決方案。
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必須已 [配置Active Directory Federation Services](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) 2.0、2.1或3.0(ADFS)的Internet Packing Deployment [](https://msdn.microsoft.com/en-us/library/bb897402.aspx) (IFD)。 **注意**:當您按一下連結時，IFD檔案會自動下載。
+>您必須配置[ Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)(IFD)和[ Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0、2.1或3.0(ADFS)。 **注意**:當您按一下連結時，IFD檔案會自動下載。
 >
->[開始之前，請先下載Marketo Lead Management](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Solution。
+>[開始之前，請先下載Marketo Lead](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 管理解決方案。
 
 >[!NOTE]
 >
@@ -31,35 +31,35 @@ ht-degree: 0%
 >
 >您需要CRM管理員權限才能執行此同步。
 
-1. 登入 **Dynamics**，在左下角 **選單中選** 取「設定」。
+1. 登入&#x200B;**Dynamics**，在左下角的選單中選取&#x200B;**Settings**。
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
-1. 在樹 **中選擇** 「解決方案」。
+1. 在樹中選擇&#x200B;**Solutions**。
 
    ![](assets/image2015-4-2-11-3a35-3a28.png)
 
-1. 按一 **下匯入**。
+1. 按一下&#x200B;**Import**。
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. 按一 **下瀏覽**。 選擇您下載的Marketo Lead Management解決 [方案](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。 按一 **下「下一步**」。
+1. 按一下&#x200B;**瀏覽**。 選擇您[downloaded](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)的Marketo Lead Management解決方案。 按一下&#x200B;**Next**。
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
-1. 查看解決方案資訊，然後按一下查 **看解決方案包詳細資訊**。
+1. 查看解決方案資訊，然後按一下&#x200B;**查看解決方案包詳細資訊**。
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
-1. 檢查完所有詳細資訊後，按一下「關閉」( **Close)**。
+1. 檢查完所有詳細資訊後，按一下&#x200B;**關閉**。
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. 返回「解決方案資訊」頁面，按一下「下 **一步**」。
+1. 返回「解決方案資訊」頁，按一下&#x200B;**Next**。
 
    ![](assets/image2015-4-2-11-3a41-3a48.png)
 
-1. 請確定已勾選SDK訊息選項核取方塊。 按一 **下「下一步**」。
+1. 請確定已勾選SDK訊息選項核取方塊。 按一下&#x200B;**Next**。
 
    ![](assets/image2015-4-2-11-3a42-3a37.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-2-11-3a43-3a51.png)
 
-1. 按一下 **關閉**。
+1. 按一下&#x200B;**關閉**。
 
    >[!NOTE]
    >
@@ -79,11 +79,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. Marketo Lead Management現在會顯示在「所有解決方 **案」頁面** 。
+1. Marketo Lead Management現在會顯示在&#x200B;**所有解決方案**&#x200B;頁面上。
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. 選擇「Marketto Lead Management」，然後按一下「 **發佈所有自訂」。**
+1. 選擇「Marketto Lead Management」，然後按一下「**發佈所有自訂項目」。**
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 
