@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 精選抽獎活動得獎者 {#select-sweepstakes-winners}
+# 選擇抽獎活動得獎者{#select-sweepstakes-winners}
 
-當您發 [布抽獎活動](publish-a-sweepstakes.md)，您需要為每張繪圖選取贏家。 當您這麼做時，您的履 [約電子郵件](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) 會自動傳送給他們。
+當您[發佈抽獎活動](publish-a-sweepstakes.md)時，您必須為每張抽獎活動選擇得獎者。 當您這麼做時，您的[履約電子郵件](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)會自動傳送給他們。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-25-17-3a47-3a37.png)
 
-1. 按一 **下「挑選****得獎者」**。
+1. 按一下&#x200B;**Pick** **Winners**。
 
    ![](assets/image2014-9-25-17-3a47-3a49.png)
 
@@ -37,15 +37,15 @@ ht-degree: 0%
    >
    >若要查看已註冊參加抽獎活動的人員清單，請按一下「**參與者**」標籤。
 
-1. 選擇得獎者人數，選擇「 **我已準備好選擇」**，然後按「下 **一步」**。
+1. 選擇贏家的數目，選擇&#x200B;**I&#39;m ready to pick**，然後按一下&#x200B;**Next**。
 
    ![](assets/image2014-9-25-17-3a49-3a2.png)
 
    >[!NOTE]
    >
-   >如果您為特定繪圖選擇0個得獎者，該資訊不會顯示在「得獎者」標 **簽上** 。
+   >如果您為特定的繪圖選擇0個得獎者，該資訊不會顯示在&#x200B;**得獎者**&#x200B;標籤上。
 
-1. 按一 **下「完成** 」，將履約電 [子郵件傳送](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6) 給列出的贏家。
+1. 按一下&#x200B;**Finalize**，將[履約電子郵件](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6)傳送給列出的得獎者。
 
    ![](assets/image2014-9-25-17-3a49-3a48.png)
 
