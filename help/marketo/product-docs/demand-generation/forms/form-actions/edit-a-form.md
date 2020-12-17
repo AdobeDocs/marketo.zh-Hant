@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 編輯表單 {#edit-a-form}
+# 編輯表單{#edit-a-form}
 
 如果您想要對現有表格進行任何變更，請參閱以下說明如何開始處理程式。
 
-1. 前往「行 **銷****活動」**。
+1. 前往&#x200B;**Marketing** **Activity**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選擇您的表單，然後按一 **下「編輯****表單**」。
+1. 選擇表單並按一下「編輯」******「表單」**。
 
    ![](assets/editform.png)
 
@@ -27,5 +27,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->在這裡進一步瞭解編輯和自 [訂表](http://docs.marketo.com/display/docs/forms) 格。
+>在這裡進一步瞭解編輯和自訂[forms](http://docs.marketo.com/display/docs/forms)。
 
