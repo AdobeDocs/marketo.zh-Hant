@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# 核發／廢止行銷行事歷授權 {#issue-revoke-a-marketing-calendar-license}
+# 核發／廢止行銷行事歷授權{#issue-revoke-a-marketing-calendar-license}
 
 >[!NOTE]
 >
 >**需要管理員權限**
 
-若要使用您的行 [銷行事歷授權](http://docs.marketo.com/display/docs/marketing+calendar) ，您必須向需要存取權的使用者發放授權。 這是方法。
+若要使用您的[行銷行事歷](http://docs.marketo.com/display/docs/marketing+calendar)授權，您必須向需要存取的使用者發放授權。 這是方法。
 
-1. 前往「管 **理** 」區段。
+1. 前往&#x200B;**Admin**&#x200B;區段。
 
    ![](assets/adminhand.png)
 
-1. 按一下「使 **用者與角色」**。
+1. 按一下&#x200B;**Users &amp; Roles**。
 
    ![](assets/2.png)
 
-1. 選取使用者，然後按一下「核 **發授權」。**
+1. 選擇用戶，然後按一下「Issue License（發放許可證）」。****
 
    >[!TIP]
    >
-   >使用 **Ctrl/Cmd+click** ，一次選取多個使用者。
+   >使用&#x200B;**Ctrl/Cmd+click**&#x200B;一次選擇多個使用者。
 
    ![](assets/3.png)
 
-1. 勾選「 **啟用授權** 」，然後按一 **下「儲存」。**
+1. 選中&#x200B;**啟用許可證** ，然後按一下&#x200B;**保存。**
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-   幹得漂亮！ 請參閱「行事歷」下方的綠色核 **取標籤**?
+   幹得漂亮！ 請參閱&#x200B;**Calendar**&#x200B;下方的綠色核取標籤？
 
    ![](assets/5.png)
 
