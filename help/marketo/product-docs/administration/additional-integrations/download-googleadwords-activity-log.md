@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 下載GoogleAdwords活動記錄 {#download-googleadwords-activity-log}
+# 下載GoogleAdwords活動記錄{#download-googleadwords-activity-log}
 
 事情總是發生。 有時您需要下載活動記錄來疑難排解問題。
 
-1. 前往「管 **理員** 」並按一 **下LaunchPoint**。
+1. 前往&#x200B;**Admin**，然後按一下&#x200B;**LaunchPoint**。
 
    ![](assets/image2015-4-22-15-3a33-3a47.png)
 
-1. 尋找您的Google AdWords服務，然後按一下「 **下載活動記錄」**。
+1. 尋找您的Google AdWords服務，然後按一下「下載活動記錄檔」。****
 
    ![](assets/image2015-4-22-17-3a49-3a49.png)
 
