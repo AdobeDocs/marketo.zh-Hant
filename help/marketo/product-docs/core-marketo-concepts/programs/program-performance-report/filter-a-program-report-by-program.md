@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 依方案篩選方案報表 {#filter-a-program-report-by-program}
+# 按程式{#filter-a-program-report-by-program}篩選程式報告
 
-將您的計 [划績效報告集中在](create-a-program-performance-report.md) 特定計畫上，以比較其績效。
+將[程式效能報告](create-a-program-performance-report.md)集中到特定程式上以比較其效能。
 
-1. 前往 **Marketing** **Activity** (或 **Analytics**)。
+1. 前往&#x200B;**Marketing****Activity**（或&#x200B;**Analytics**）。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-16-3a4-3a4.png)
 
-1. 按一下「 **Setup** （設定）」頁籤，並將其拖 **動到「Programs（程式）**」。
+1. 按一下「**Setup**」頁籤並拖動到「**程式**」上。
 
    ![](assets/prospect3.jpg)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >如果您選取資料夾，您的報表將包含資料夾在報表執行時包含的所有項目。
 
-1. 就這樣！ 按一下「 **報表** 」標籤， ** 只查看報表中選取的程式。
+1. 就這樣！ 按一下&#x200B;**Report**&#x200B;頁籤，查看報告中選定的程式。**
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
@@ -53,5 +53,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >瞭解「基本報表」中 [的所有報表](http://docs.marketo.com/display/docs/basic+reporting)。
+   >瞭解[基本報表](http://docs.marketo.com/display/docs/basic+reporting)中的所有報表。
 
