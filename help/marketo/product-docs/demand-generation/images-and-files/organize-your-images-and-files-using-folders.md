@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 使用資料夾組織您的影像和檔案 {#organize-your-images-and-files-using-folders}
+# 使用資料夾{#organize-your-images-and-files-using-folders}組織您的影像和檔案
 
 建立檔案夾可讓您移動影像和檔案、只查看所需的影像集，並直接上傳至特定檔案夾。
 
-1. 前往 **Design** **Studio**。
+1. 前往&#x200B;**Design** **Studio**。
 
    ![](assets/designstudio-7.png)
 
-1. 在左側功能表中按一下滑鼠右鍵** 「影像和檔案」**，然後選取「新 **增檔案夾**」。
+1. 在左菜單中按一下右鍵** 「映像和檔案」**，然後選擇&#x200B;**「新建資料夾」**。
 
    ![](assets/image2014-9-16-11-3a25-3a45.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-11-3a25-3a53.png)
 
-1. 現在， **您可以拖放至您想要的檔案夾中**，轉至「影像和檔案」。
+1. 現在，您可以拖放至所需的檔案夾中，移至&#x200B;**影像和檔案**。
 
    ![](assets/image2014-9-16-11-3a26-3a0.png)
 
