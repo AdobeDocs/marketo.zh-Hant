@@ -11,7 +11,7 @@ ht-degree: 1%
 ---
 
 
-# LaunchPoint活動合作夥伴 {#launchpoint-event-partners}
+# LaunchPoint活動合作夥伴{#launchpoint-event-partners}
 
 將Market與LaunchPoint活動合作夥伴連結，以自動化您的線上活動。 當您連接它們時，您可以：
 
