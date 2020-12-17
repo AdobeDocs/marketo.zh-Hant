@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 瞭解系統管理欄位 {#understanding-system-managed-fields}
+# 瞭解系統管理欄位{#understanding-system-managed-fields}
 
-您可能注意到，人員詳 [細資料頁面](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) ，有Marketo建立的一系列不可編輯欄位。 這些資料來自各種來源，有無數的值可以顯示。
+您可能注意到，[person detail page](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)包含由Marketo建立的一系列不可編輯欄位。 這些資料來自各種來源，有無數的值可以顯示。
 
-## 欄位類型 {#field-types}
+## 欄位類型{#field-types}
 
 | **欄位名稱** | **定義** |
 |---|---|
@@ -35,7 +35,7 @@ ht-degree: 0%
 | 推斷的都市區 | Marketo對人口大都市區的最佳猜測 |
 | 推斷的電話區號 | Marketo對個人區號的最佳猜測（以IP為基礎） |
 
-## 原始和註冊來源類型的可能值 {#possible-values-for-original-and-registration-source-type}
+## 原始源類型和註冊源類型的可能值{#possible-values-for-original-and-registration-source-type}
 
 以下是一些可能的價值及其含義。
 
