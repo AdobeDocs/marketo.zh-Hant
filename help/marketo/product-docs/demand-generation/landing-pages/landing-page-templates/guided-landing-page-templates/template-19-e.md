@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本19-E {#template-e}
+# 模板19-E {#template-e}
 
 [下載範本19-E](http://docs.marketo.com/download/attachments/10092902/template-19e.html?version=1&amp;modificationdate=1441750509000&amp;api=v2)
 
