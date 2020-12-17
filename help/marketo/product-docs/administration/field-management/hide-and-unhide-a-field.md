@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 隱藏和取消隱藏欄位 {#hide-and-unhide-a-field}
+# 隱藏和取消隱藏欄位{#hide-and-unhide-a-field}
 
 如果您不再在Marketo中使用欄位，則可在UI中隱藏欄位，以便不再顯示在應用程式中。
 
-## 隱藏欄位 {#hide-a-field}
+## 隱藏欄位{#hide-a-field}
 
 >[!NOTE]
 >
 >**需要管理員權限**
 
-1. 前往「管 **理員** 」並按一 **下「欄位管理」**。
+1. 前往&#x200B;**Admin**，然後按一下「欄位管理」。****
 
    ![](assets/image2014-9-18-13-3a10-3a3.png)
 
-1. 尋找欄位，選取欄位，然後在「欄位動作」 **下方按一下** 「 **隱藏欄位」**。
+1. 查找欄位，選擇它，然後在&#x200B;**欄位操作**&#x200B;下按一下&#x200B;**隱藏欄位**。
 
    ![](assets/fieldmanagement-hidefield-.png)
 
@@ -42,13 +42,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a10-3a45.png)
 
-## 取消隱藏欄位 {#unhide-a-field}
+## 取消隱藏欄位{#unhide-a-field}
 
-1. 前往「管 **理員** 」並按一 **下「欄位管理」**。
+1. 前往&#x200B;**Admin**，然後按一下「欄位管理」。****
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 
-1. 尋找並選取欄位，然後在欄位動 **作下按一下****`Unhide Field`**。
+1. 尋找並選取欄位，然後在&#x200B;**欄位動作**&#x200B;下按一下&#x200B;**`Unhide Field`**。
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
@@ -56,5 +56,5 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >需要執行大量隱藏／取消隱藏嗎？ 聯絡Marketo專業服務： [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4d3e283f3b242e283e0d202c3f26283922632e222063)
+   >需要執行大量隱藏／取消隱藏嗎？ 聯絡Marketo專業服務：[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4d3e283f3b242e283e0d202c3f26283922632e222063)
 
