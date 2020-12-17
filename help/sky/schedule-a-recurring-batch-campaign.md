@@ -22,23 +22,23 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-1.png)
 
-1. 轉到頁籤 **[!UICONTROL Schedule]** 並按一下 **[!UICONTROL Set Recurrence]**。
+1. 轉到&#x200B;**[!UICONTROL Schedule]**&#x200B;頁籤，然後按一下&#x200B;**[!UICONTROL Set Recurrence]**。
 
    ![影像2](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-2.png)
 
-1. 按一下 **[!UICONTROL Recurring]** 下拉式清單並選取 **[!UICONTROL Weekly]**。
+1. 按一下&#x200B;**[!UICONTROL Recurring]**&#x200B;下拉清單並選擇&#x200B;**[!UICONTROL Weekly]**。
 
    ![影像三](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-3.png)
 
-1. 按一下旁邊的日 **[!UICONTROL Recurrence Start Date]** 歷圖示，並選取第一次執行的日期和時間。 在此範例中，我們使用下一個星期二提供的版本。 完成時，從日曆中按一下。
+1. 按一下&#x200B;**[!UICONTROL Recurrence Start Date]**&#x200B;旁的日曆圖示，並選取第一次執行的日期和時間。 在此範例中，我們使用下一個星期二提供的版本。 完成時，從日曆中按一下。
 
    ![影像4](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-4.png)
 
-1. 設 **[!UICONTROL Repeat every]** 為1並選取 **[!UICONTROL Tuesday]**。
+1. 將&#x200B;**[!UICONTROL Repeat every]**&#x200B;設為1，然後選取&#x200B;**[!UICONTROL Tuesday]**。
 
    ![影像5](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-5.png)
 
-1. 按一下旁邊的日曆圖 **[!UICONTROL Ending on]** 示並選擇結束日期。 完成時 **[!UICONTROL Confirm]** 按一下。
+1. 按一下&#x200B;**[!UICONTROL Ending on]**&#x200B;旁的日曆圖示，然後選擇結束日期。 完成後，按一下&#x200B;**[!UICONTROL Confirm]**。
 
    ![影像6](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-6.png)
 
