@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本10-E {#template-e}
+# 模板10-E {#template-e}
 
 [下載範本10-E](http://docs.marketo.com/download/attachments/8784011/template-10e.html?version=2&amp;modificationdate=1438210974000&amp;api=v2)
 
