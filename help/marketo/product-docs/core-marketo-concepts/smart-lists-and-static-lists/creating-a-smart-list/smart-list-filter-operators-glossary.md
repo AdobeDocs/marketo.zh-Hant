@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# 智慧清單過濾器運算子辭彙表 {#smart-list-filter-operators-glossary}
+# 智慧清單過濾器運算子辭彙表{#smart-list-filter-operators-glossary}
 
-運算子是智慧型清單的一 [部分](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) ，可協助您獲得特定資訊。 它可讓您以直接的語言來描述您的篩選或觸發。 每種欄位類型的可用運算子都不同。\
+運算子是[智慧型清單](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)的一部分，可協助您取得特定資訊。 它可讓您以直接的語言來描述您的篩選或觸發。 每種欄位類型的可用運算子都不同。\
 以下是描述每組運算子的辭彙表。
 
-## 日期欄位 {#date-fields}
+## 日期欄位{#date-fields}
 
 ![](assets/image2014-9-10-17-3a15-3a47.png)
 
@@ -51,11 +51,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在過去 **中** ，您會建立智慧型清單的日期（直到時間，而非之後）。
+>在過去的&#x200B;**does**&#x200B;中，您會加入您建立智慧型清單的日期（直到時間，而非之後）。
 
 >[!CAUTION]
 >
->當您使用日期欄位篩選器（如出生日期、SFDC建立日期）建立智慧清單並使用約束前 ******或前後** ，智慧清單還將包括那些在該日期欄位中沒有值的人員。
+>當您使用日期欄位篩選器（如出生日期、SFDC建立日期）建立智慧清單，並在&#x200B;**之前或之前使用****約束時，智慧清單還將包括那些在該日期欄位中沒有值的人員。**
 
 請使用下圖來瞭解日期運算子之間的差異。
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 >
 >假設您想看到90天內有續約的客戶。 您應使用兩個不同的篩選條件。 首先使用「90天後在未來」，然後使用「91天後在未來」。 這可以捕捉到90天後有日期的人。
 
-## 字串欄位 {#string-fields}
+## 字串欄位{#string-fields}
 
 ![](assets/image2014-9-10-17-3a16-3a6.png)
 
@@ -94,7 +94,7 @@ ht-degree: 0%
 >
 >使用正運算子而非負運算子。 「Is not」篩選器必須搜尋您例項中的整個資料集，這可能非常耗時。 正&quot;is&quot;篩選可運用更有效的搜尋演算法。
 
-## 整數欄位 {#integer-fields}
+## 整數欄位{#integer-fields}
 
 ![](assets/image2014-9-10-17-3a16-3a14.png)
 
@@ -108,7 +108,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1">is</td> 
-   <td colspan="1" rowspan="1">完全符合數字(= 0將同時返回0和 <em></em> NULL的銷售線索)</td> 
+   <td colspan="1" rowspan="1">完全符合數字（= 0將返回兩個銷售線索，並且<em>和</em> NULL）</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">不是</td> 
@@ -136,7 +136,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">空白</td> 
-   <td colspan="1" rowspan="1">沒有值的記錄(NULL)-零是數字，不是 <em>NULL</em></td> 
+   <td colspan="1" rowspan="1">沒有值(NULL)-零是數字，它是<em>not</em> NULL</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">不為空</td> 
