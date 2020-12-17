@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 共用和專用IP位址 {#shared-and-dedicated-ip-addresses}
+# 共用和專用IP地址{#shared-and-dedicated-ip-addresses}
 
-## 什麼是IP位址？ {#what-is-an-ip-address}
+## 什麼是IP位址？{#what-is-an-ip-address}
 
 數字標籤表示連接到網際網路的電腦的地址。
 
-## 什麼是共用IP位址？ {#what-are-shared-ip-addresses}
+## 什麼是共用IP位址？{#what-are-shared-ip-addresses}
 
 這是指當多個寄件者使用相同的IP位址來啟動電子郵件促銷活動時。 它們都共用相同的發送IP。
 
-## 什麼是專用IP地址？ {#what-is-a-dedicated-ip-address}
+## 什麼是專用IP地址？{#what-is-a-dedicated-ip-address}
 
 只有一個發件人發送的用戶專用IP地址。
 
-## 哪一種更好——共用還是專用？ {#which-is-better-shared-or-dedicated}
+## 哪一種更好——共用還是專用？{#which-is-better-shared-or-dedicated}
 
 和往常一樣，這兩種選項都有利有弊。
 
@@ -34,14 +34,14 @@ ht-degree: 0%
 *專業人員*
 
 **聲譽** -您擁有您的聲譽和傳遞能力。\
-**監控** -監控傳遞能力報告可讓您快速回應傳遞量度的變更。\
-**問題解決** -更容易研究、瞭解和解決傳送問題。
+**監控** -監控交付能力報告可讓您快速回應傳送量度的變更。\
+**問題解決** -研究、瞭解和解決傳送問題更容易。
 
 *缺點*
 
-**容量變化** -容量的急劇增加會對您的聲譽產生負面影響，需要加以管理。\
-**IP熱身流程** -聲譽是隨著時間的推移而建立的。 有些網際網路服務供應商(ISP)會限制IP位址，而無容量記錄，因此您必須在前幾週建立聲譽（Marketo可協助您）。\
-**成本** -通常需要向任何提供者從專用IP傳送額外費用。
+**數量變化** -數量的急劇增加會對您的聲譽產生負面影響，需要加以管理。\
+**IP熱身程式** -信譽是隨著時間的推移而建立的。有些網際網路服務供應商(ISP)會限制IP位址，而無容量記錄，因此您必須在前幾週建立聲譽（Marketo可協助您）。\
+**Cost**  —— 向任何提供者從專用IP傳送通常需要額外付費。
 
 **共用IP的利弊**
 
