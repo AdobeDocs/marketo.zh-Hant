@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 編輯Analytics行為設定 {#edit-analytics-behavior-settings}
+# 編輯Analytics行為設定{#edit-analytics-behavior-settings}
 
-您可以在管 [理層級設定渠道的分析行為](../../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)，但您也可以在方案層級進行編輯。 這是方法。
+您可以在管理層級設定[渠道](../../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)的分析行為，但也可以在程式層級編輯。 這是方法。
 
 1. 前往行銷活動。
 
