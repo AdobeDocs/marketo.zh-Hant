@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 添加到SFDC促銷活動 {#add-to-sfdc-campaign}
+# 添加到SFDC促銷活動{#add-to-sfdc-campaign}
 
 >[!NOTE]
 >
 >僅在與Salesforce整合時提供。
 
-## 概觀 {#overview}
+## 概述{#overview}
 
 此流程步驟可用於Marketo促銷活動，或作為單一流程步驟，將人員新增為Salesforce促銷活動中的客源。 如果Salesforce中尚未存在銷售線索，則會自動同步銷售線索，並以指定狀態新增至促銷活動。
 
 ![](assets/image2014-9-22-15-3a43-3a36.png)
 
-## 使用狀況 {#usage}
+## 用法{#usage}
 
 1. 尋找並選取您要新增銷售機會的Salesforce促銷活動。
 
@@ -35,13 +35,13 @@ ht-degree: 0%
    >
    >    
    >    
-   >    1. 請確定促銷 [活動同步已啟用](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)。
-   >    1. 確認您的 [Marketo Sync使用者是](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) Salesforce [中的Marketing使用者](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) 。
+   >    1. 請確定[促銷活動同步已啟用](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)。
+   >    1. 確認您的[Marketo Sync使用者](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)是Salesforce中的[Marketing使用者](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)。
 
 
    >[!TIP]
    >
-   >您可以使用Salesforce促銷活動 [「我的代號](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) 」，讓程式仿製更輕鬆。
+   >您可以使用Salesforce促銷活動[我的Token](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)，讓程式仿製更輕鬆。
 
 1. 選擇要在新增銷售線索時指派給銷售線索的Salesforce促銷活動成員狀態。
 
@@ -49,5 +49,5 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果某人已是Salesforce促銷活動的主要成員，則會略過該人員，且不會更新其狀態。 您可以改 [用更改SFDC促銷活動中的狀態](change-status-in-sfdc-campaign.md) 。
+   >如果某人已是Salesforce促銷活動的主要成員，則會略過該人員，且不會更新其狀態。 您可以改用[變更SFDC促銷活動中的狀態。](change-status-in-sfdc-campaign.md)
 
