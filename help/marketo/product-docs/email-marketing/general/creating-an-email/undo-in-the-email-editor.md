@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在電子郵件編輯器中還原 {#undo-in-the-email-editor}
+# 在電子郵件編輯器{#undo-in-the-email-editor}中還原
 
 1. 要撤消更改，請按一下向左箭頭。
 
