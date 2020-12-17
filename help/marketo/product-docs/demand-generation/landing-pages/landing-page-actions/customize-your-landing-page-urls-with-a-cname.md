@@ -11,9 +11,10 @@ ht-degree: 0%
 ---
 
 
-# 使用CNAME自訂著陸頁面URL {#customize-your-landing-page-urls-with-a-cname}
+# 使用CNAME {#customize-your-landing-page-urls-with-a-cname}自訂著陸頁面URL
 
-即使Marketo代管您的著陸頁面，URL仍可完全自訂。 沒有CNAME的情況：`<pre data-theme="Confluence">http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html</pre>` 它的外觀：
+即使Marketo代管您的著陸頁面，URL仍可完全自訂。 沒有CNAME的情況：
+`<pre data-theme="Confluence">http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html</pre>`其外觀：
 `<pre data-theme="Confluence"> http://go.YourCompany.com/UnsubscribePage.html</pre>`
 
 ## 選擇CNAME {#choose-a-cname}
@@ -24,11 +25,11 @@ ht-degree: 0%
 * 資訊。 [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
 * 頁面。 [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
 
-單字(加上 [YourCompany.com](http://YourCompany.com))稱為CNAME。 您稍後需要這個，請記下。
+單字（加上[YourCompany.com](http://YourCompany.com)）稱為CNAME。 您稍後需要這個，請記下。
 
-## 尋找您的帳戶字串 {#find-your-account-string}
+## 尋找您的帳戶字串{#find-your-account-string}
 
-1. 前往「管 **理** 」區域，然後按一 **下「著陸頁面」。**
+1. 前往&#x200B;**Admin**&#x200B;區域，然後按一下&#x200B;**著陸頁面。**
 
    ![](assets/image2014-9-18-16-3a2-3a45.png)
 
@@ -36,29 +37,29 @@ ht-degree: 0%
    >
    >**需要管理員權限**
 
-1. 在「著陸頁 **面****」頁籤下** ，複製Account **String Settings** from the Landing Pages（從著陸頁面）設定中複製Account ******** String Settings（帳戶字串）部分。
+1. 在&#x200B;**Landing****Pages**&#x200B;標籤下，從&#x200B;**Settings**&#x200B;區複製&#x200B;**Account****String**。
 
    ![](assets/image2014-9-18-16-3a44-3a12.png)
 
 1. 您稍後也需要，請記下。
 
-## 傳送要求給IT人員 {#send-request-to-it}
+## 向IT {#send-request-to-it}發送請求
 
-請您的IT人員設定下列CNAME:(將單字 [CNAME][] 和ACCOUNT STRING取代為上一步驟的文字。)
+請您的IT人員設定下列CNAME:（將字詞[CNAME]和[ACCOUNT STRING]取代為上一步驟的文字）。
 
-[CNAME]。 [YourCompany.com](http://yourcompany.com/) >帳 [戶字串]。 [mktoweb.com](http://mktoweb.com/)
+[CNAME]。[YourCompany.com](http://yourcompany.com/) >帳 [戶字串]。[mktoweb.com](http://mktoweb.com/)
 
-## 完成CNAME設定 {#complete-cname-setup}
+## 完成CNAME設定{#complete-cname-setup}
 
-1. IT人員建立CNAME後，請前往「管 **理員** 」並按一下「 **著陸****頁面」**。
+1. 在您的IT建立CNAME後，請前往&#x200B;**Admin**，然後按一下&#x200B;**Landing** **Pages**。
 
    ![](assets/image2014-9-18-17-3a15-3a11.png)
 
-1. 在「設 **定** 」區段下，按一 **下編輯**。
+1. 在&#x200B;**Settings**&#x200B;區段下，按一下&#x200B;**Edit**。
 
    ![](assets/image2014-9-18-17-3a15-3a18.png)
 
-1. 在域名中為 **Landing Landing** Save **AldingPages的Domain** name, Enter Your AldingPage，輸入您的NAME，在Domain **************************** name中輸入您的NAME。
+1. 在&#x200B;**域****名稱** **中為** **著陸** **頁面**&#x200B;輸入您的&#x200B;**備援** **頁面&lt;a113/>，輸入您的** Homepage **，然後按一下「儲存」**「a17/」。****
 
    ![](assets/image2014-9-18-17-3a15-3a25.png)
 
