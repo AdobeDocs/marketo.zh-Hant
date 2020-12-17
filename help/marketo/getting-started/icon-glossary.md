@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 圖示辭彙表 {#icon-glossary}
+# 表徵圖辭彙表{#icon-glossary}
 
 **一般圖示**
 
@@ -28,7 +28,7 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img alt="—" src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>資料夾</span></td> 
   </tr> 
@@ -56,16 +56,16 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="25" src="assets/share-to.png"> 
+     <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
    <td colspan="1">您與其他工作區共用的來源資料夾</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" width="25" src="assets/share-from.png"> 
+     <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">從其他工作區共用的目標資 <br>料夾（掛鎖表示無法進行編輯）</td> 
+   <td colspan="1">從其他工作區<br>共用的目標資料夾（掛鎖表示無法進行編輯）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -91,7 +91,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
+     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
     </div></td> 
    <td colspan="1">觸發器</td> 
   </tr> 
@@ -140,7 +140,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 管理員圖示 {#admin-icons}
+## 管理員圖示{#admin-icons}
 
 <table> 
  <tbody> 
@@ -312,7 +312,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### 行銷活動圖示 {#marketing-activities-icons}
+### 行銷活動圖示{#marketing-activities-icons}
 
 <table> 
  <tbody> 
@@ -409,12 +409,12 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>電子郵 <br>件程式（紅旗標下=電子郵件尚未傳送）</td> 
+   <td>電子郵件程式<br>（紅旗關閉=電子郵件尚未發送）</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" src="assets/hs-icon.png" title="--"> 
+     <img alt="—" src="assets/hs-icon.png" title="—"> 
     </div></td> 
    <td colspan="1">使用Head Start排程的電子郵件計畫</td> 
   </tr> 
@@ -680,7 +680,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Design Studio圖示 {#design-studio-icons}
+### Design Studio圖示{#design-studio-icons}
 
 <table> 
  <tbody> 
@@ -866,7 +866,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Analytics圖示 {#analytics-icons}
+### Analytics圖示{#analytics-icons}
 
 <table> 
  <tbody> 
@@ -975,7 +975,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### 我的預付碼圖示 {#my-tokens-icons}
+### 我的Token圖示{#my-tokens-icons}
 
 <table> 
  <tbody> 
@@ -1042,7 +1042,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### 促銷活動功能表 {#campaign-menus}
+### 促銷活動功能表{#campaign-menus}
 
 <table> 
  <tbody> 
@@ -1116,7 +1116,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### 資料庫表徵圖 {#database-icons}
+### 資料庫表徵圖{#database-icons}
 
 <table> 
  <tbody> 
