@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 直接在行銷日曆中刪除項目 {#delete-entries-directly-in-the-marketing-calendar}
+# 直接在行銷行事歷中刪除項目{#delete-entries-directly-in-the-marketing-calendar}
 
-除了建立 [和編](create-entries-directly-in-the-marketing-calendar.md) 輯項目 [](edit-entries-directly-in-the-marketing-calendar.md) ，您還可以直接在「行銷行事歷」中刪除項目。 這是方法。
+除了[creating](create-entries-directly-in-the-marketing-calendar.md)和[editing](edit-entries-directly-in-the-marketing-calendar.md)項目外，您還可以直接在「行銷行事歷」中刪除這些項目。 這是方法。
 
-1. 前往日 **歷**。
+1. 前往&#x200B;**日曆**。
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
-1. 選擇要刪除的條目，然後按一下「顯 **示程式焦點」**。
+1. 選擇要刪除的條目，然後按一下&#x200B;**顯示程式焦點**。
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 
