@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 新增欄位集至表單 {#add-a-fieldset-to-a-form}
+# 將欄位集添加到表單{#add-a-fieldset-to-a-form}
 
 欄位集很酷。 他們把一堆田地集合在一起。 你也可以一次控制整個街區！
 
-1. 前往「行 **銷****活動」**。
+1. 前往&#x200B;**Marketing** **Activity**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 選擇您的表單，然後按一 **下「編輯****表單**」。
+1. 選擇表單並按一下「編輯」******「表單」**。
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. 按一下 **+** 號並選 **取Fieldset**。
+1. 按一下&#x200B;**+**&#x200B;符號並選擇&#x200B;**欄位集**。
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
-1. 選擇字 **段集** ，然後輸入 **標籤**。
+1. 選擇&#x200B;**fieldset**&#x200B;並輸入&#x200B;**Label**。
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
-1. 將您要的欄位拖曳至欄位 **集中**。
+1. 將要拖動的欄位拖動到&#x200B;**fieldset**&#x200B;中。
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
@@ -43,5 +43,5 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以根據其他欄位動態隱藏／顯示整個欄位集。 瞭解可見 [性規則](dynamically-toggle-visibility-of-a-form-field.md)。
+>您可以根據其他欄位動態隱藏／顯示整個欄位集。 瞭解[可見性規則](dynamically-toggle-visibility-of-a-form-field.md)。
 
