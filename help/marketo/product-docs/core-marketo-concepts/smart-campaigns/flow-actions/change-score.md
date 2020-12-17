@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 變更分數 {#change-score}
+# 變更分數{#change-score}
 
-## 概觀 {#overview}
+## 概述{#overview}
 
 評分人員既簡單又強大，可幫助您的銷售團隊排定優先順序。
 
 ![](assets/flowstep-changescore.png)
 
-## 使用狀況 {#usage}
+## 用法{#usage}
 
 1. 選擇要變更的分數欄位。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以建立多個分數欄位。 如需詳 [細資訊，請參閱在Marketo中建立自訂欄](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 位。
+   >您可以建立多個分數欄位。 如需詳細資訊，請參閱Marketo[中的「建立自訂欄位」。](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 1. 輸入您要的分數變更。
 
@@ -35,10 +35,10 @@ ht-degree: 0%
 
    變更：
 
-   * **+5** to increment
-   * **-5將減少** （允許使用負數）
-   * **=5** ，會使分數與
-   * **=-5** ，會使分數與
+   * **+5** 以遞增
+   * **-5將** 會減少（允許使用負數）
+   * **=5** 會使分數與
+   * **=-5** 會使得分數與
 
    快速取得基本計分，然後隨時調整結果。 我們就是這麼做的！
 
