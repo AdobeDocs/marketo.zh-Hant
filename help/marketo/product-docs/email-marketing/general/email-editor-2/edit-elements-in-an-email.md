@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 編輯電子郵件中的元素 {#edit-elements-in-an-email}
+# 編輯電子郵件{#edit-elements-in-an-email}中的元素
 
 電子郵件可包含四個不同的元素：豐富式文字、影像、程式碼片段和視訊。 以下是如何編輯每個項目。
 
-## 如何編輯Rich Text元素 {#how-to-edit-the-rich-text-element}
+## 如何編輯富格文本元素{#how-to-edit-the-rich-text-element}
 
-1. 尋找您的電子郵件，選取它，然後按一下「編 **輯草稿」**。
+1. 尋找您的電子郵件，選取它，然後按一下「編輯草稿」。****
 
    ![](assets/one-edited.png)
 
-1. 電子郵件編輯器將開啟。 選擇「富格文本」(Rich text)，按一下齒輪表徵圖並選擇「編 **輯」(Edit**)。
+1. 電子郵件編輯器將開啟。 選擇富格文本，按一下齒輪表徵圖，然後選擇&#x200B;**編輯**。
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 新增／編輯文字，然後按 **儲存**。
+1. 添加／編輯文本，然後按&#x200B;**保存**。
 
    ![](assets/four.png)
 
@@ -38,19 +38,19 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >您也可以新增影像、Token、表格和其他元素。 請參 [閱使用Rich Text編輯器](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)。
+   >您也可以新增影像、Token、表格和其他元素。 請參閱[使用Rich Text Editor](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)。
 
    >[!CAUTION]
    >
    >避免從豐富型文字來源（例如網站或Word檔案）複製和貼上文字。 而是先將豐富型文字貼入純文字編輯器，例如記事本(Windows)或TextEdit(Mac)。 一旦「乾淨」，您就可以從純文字編輯器複製並貼到您的電子郵件中。
 
-## 如何編輯影像元素 {#how-to-edit-the-image-element}
+## 如何編輯影像元素{#how-to-edit-the-image-element}
 
 1. 在模組內按一下「影像」元素以選擇它。
 
    ![](assets/five.png)
 
-1. 按一下您要編輯的「影像」元素，然後按一下齒輪圖示並選取「編 **輯」**。
+1. 按一下要編輯的「影像」元素，然後按一下齒輪表徵圖，然後選擇「編輯」(Edit)**。**
 
    ![](assets/six.png)
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
    **我的電腦**
 
-   若要從電腦上傳影像，請按一下「瀏 **覽」**。
+   若要從電腦上傳影像，請按一下「瀏覽&#x200B;**」。**
 
    ![](assets/nine.png)
 
@@ -82,13 +82,13 @@ ht-degree: 0%
 
    ![](assets/ten.png)
 
-   依您的需求變更尺寸、變更替代文字（選用），然後按「調 **換」**。
+   變更尺寸以符合您的需求，變更Alt文字（可選），然後按&#x200B;**Swap**。
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >如果您要取代影像，則需要勾選「影像URL/名稱」下方顯示的「覆寫 **現有影像** 」方塊。
+   >如果您要取代影像，則需要勾選出「影像URL/名稱」下方的「覆寫現有的影像&#x200B;**」方塊。**
 
    **設計**&#x200B;工作室若要從Design Studio插入影像，只要找到它……
 
@@ -97,19 +97,19 @@ ht-degree: 0%
    **交換**
    ![](assets/thirteen.png)
 
-若要使用外部URL，請先貼入影像的URL。 變更尺寸以符合您的需求，並新增一些替代文字（選用）。 然後按。              ...並插入。 變更尺寸以符合您的需求，變更替代文字（選用），然後按。
+若要使用外部URL，請先貼入影像的URL。 變更尺寸以符合您的需求，並新增一些替代文字（選用）。 然後按。               ...並插入。 變更尺寸以符合您的需求，變更替代文字（選用），然後按。
 
-## 如何編輯程式碼片段元素 {#how-to-edit-the-snippet-element}
+## 如何編輯程式碼片段元素{#how-to-edit-the-snippet-element}
 
 1. 在模組內按一下「程式碼片段」元素。
 
    ![](assets/fourteen.png)
 
-1. 按一下「程式碼片段」元素，然後按一下齒輪圖示並選取「編 **輯」**。
+1. 按一下「程式碼片段」元素，然後齒輪圖示並選取「編輯」(**Edit)**。
 
    ![](assets/fifteen.png)
 
-1. 尋找程式碼片段，選取它，然後按一下「 **儲存**」。
+1. 尋找程式碼片段，選取它，然後按一下「儲存」。****
 
    ![](assets/sixteen.png)
 
@@ -117,17 +117,17 @@ ht-degree: 0%
 
    ![](assets/eighteen.png)
 
-## 如何編輯視訊元素 {#how-to-edit-the-video-element}
+## 如何編輯視訊元素{#how-to-edit-the-video-element}
 
 1. 在模組內按一下「視訊」元素。
 
    ![](assets/nineteen.png)
 
-1. 按一下「視訊」元素，然後按齒輪圖示並選取「編 **輯」**。
+1. 按一下「Video（視頻）」元素，然後按一下齒輪表徵圖並選擇&#x200B;**Edit**。
 
    ![](assets/twenty.png)
 
-1. 從Vimeo或YouTube貼入影片URL。 然後，按一下URL方塊外的，以載入預覽。 變更尺寸以符合您的需求，新增替代文字（選用），然後按「插 **入」**。
+1. 從Vimeo或YouTube貼入影片URL。 然後，按一下URL方塊外的，以載入預覽。 根據需要改變尺寸，添加Alt Text（可選），然後按&#x200B;**Insert**。
 
    ![](assets/twentyone.png)
 
