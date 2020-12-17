@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 提醒銷售代表 {#alert-the-sales-rep}
+# 提醒銷售代表{#alert-the-sales-rep}
 
-## 任務：當某人填寫您網站上的表格時，提醒銷售代表 {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
+## 任務：當某人填寫您網站上的表格{#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}時，提醒銷售代表
 
 若要自動傳送警報電子郵件給業務代表，您只需要寄送警報電子郵件和電子郵件促銷活動。 這是如何做到的。
 
@@ -21,25 +21,25 @@ ht-degree: 0%
 >
 >[具有表單的著陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
-## 步驟1:建立警報電子郵件 {#step-create-an-alert-email}
+## 步驟1:建立警報電子郵件{#step-create-an-alert-email}
 
-1. 前往「行銷 **活動** 」區。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
    ![](assets/one-5.png)
 
-1. 選 **擇在「Form** quick win」(帶有Form [quick win的登錄頁)中建立的Program](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) （程式），然後在「 **New** 」(新建 **)「** New Local Asset」（本地資產）下面。
+1. 選擇在[著陸頁面中以Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)快速贏取建立的&#x200B;**My Program**，然後在&#x200B;**New**&#x200B;下，按一下&#x200B;**New Local Asset**。
 
    ![](assets/two-6.png)
 
-1. 按一下「 **電子郵件**」。
+1. 按一下&#x200B;**電子郵件**。
 
    ![](assets/three-5.png)
 
-1. **將電子郵件命名** 「我的電子郵件警報」，選取範本，然後按一下「建 **立**」。
+1. **將電** 子郵件命名為「我的電子郵件警報」，選擇一個模板，然後按一下 **建立**。
 
    ![](assets/four-4.png)
 
-1. 輸入「來 **自名稱**」、「來自電子郵 **件」、「**&#x200B;回覆至」 **，以及您****** 希望銷售團隊查看的主旨。
+1. 輸入您希望銷售團隊看到的&#x200B;**From Name**、**From Email**、**Reply-to**&#x200B;和&#x200B;**Subject**。
 
    ![](assets/five-5.png)
 
@@ -51,19 +51,19 @@ ht-degree: 0%
 
    ![](assets/seven-6.png)
 
-1. 將游標置於要插入該人員聯繫資訊的位置，然後按一下「插入 **Token** 」表徵圖。
+1. 將游標置於要插入該人員聯繫資訊的位置，然後按一下&#x200B;**插入標籤**&#x200B;表徵圖。
 
    ![](assets/eight-4.png)
 
-1. 尋找並選取Token `{{SP_Send_Alert_Info}}` ，然 **後按一** 下Insert ****。
+1. 查找並選擇`{{SP_Send_Alert_Info}}` **Token** ，然後按一下&#x200B;**插入**。
 
    ![](assets/image2014-9-24-13-3a10-3a0.png)
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}}是警報電子郵件的特殊Token。 請參 [閱使用傳送警報資訊Token](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) ，瞭解更多資訊。
+   >{{SP_Send_Alert_Info}}是警報電子郵件的特殊Token。 請參閱[使用傳送警報資訊Token](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)瞭解更多資訊。
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/ten-5.png)
 
@@ -71,21 +71,21 @@ ht-degree: 0%
 
    ![](assets/eleven-5.png)
 
-1. 在「電子 **郵件動作** 」下，按 **一下「核准**」。
+1. 在&#x200B;**電子郵件動作**&#x200B;下，按一下&#x200B;**批准**。
 
    ![](assets/twelve-4.png)
 
-## 步驟2:建立警報觸發器促銷活動 {#step-create-an-alert-trigger-campaign}
+## 步驟2:建立警報觸發器促銷活動{#step-create-an-alert-trigger-campaign}
 
-1. 選擇 **My Program** (我的程式 **)之前建立的項目，然後在「New** (新增 **)Smart Campaign(智慧**&#x200B;型促銷活動)」下。
+1. 選擇「我的程式」(**My Program)**&#x200B;先前建立的，然後在&#x200B;**「新建」(New)**&#x200B;下，按一下「新建智慧促銷活動」(New Smart Campaign)**。**
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
-1. **將促銷活動命名** 「我的警報促銷活動」，然後按一下「建 **立**」。
+1. **將促** 銷活動命名為「我的警報促銷活動」，然後按一 **下建立**。
 
    ![](assets/image2014-9-24-13-3a14-3a28.png)
 
-1. 在「智 **慧型清單** 」標籤下，尋找並拖曳「填 **** 色表單」觸發器至畫布。
+1. 在&#x200B;**智慧型清單**&#x200B;標籤下，尋找並拖曳&#x200B;**填寫表單**&#x200B;觸發器至畫布。
 
    ![](assets/image2014-9-24-13-3a14-3a43.png)
 
@@ -93,33 +93,33 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-13-3a14-3a58.png)
 
-1. 在「流 **量** 」標籤下，尋找並拖曳「傳送 **警報流量** 」動作至畫布。
+1. 在&#x200B;**Flow**&#x200B;標籤下，尋找並拖曳&#x200B;**Send Alert**&#x200B;流程動作至畫布。
 
    ![](assets/image2014-9-24-13-3a15-3a10.png)
 
-1. 選擇 **My Alert Email** created arearly **，並保留** Send To **(發送至**)作為銷售者。
+1. 選擇&#x200B;**My Alert Email**&#x200B;之前建立的&#x200B;**將&lt;a2/>Send To**&#x200B;保留為&#x200B;**Sales Owner**。
 
    ![](assets/eighteen-1.png)
 
-1. 在「收件者其他電子郵件」欄 **位中輸入您的電子郵件地址** 。
+1. 在&#x200B;**To Other Emails**&#x200B;欄位中輸入您的電子郵件地址。
 
    ![](assets/nineteen-2.png)
 
-1. 前往「排程 **」標籤** ，然後按一下「 **啟動** 」按鈕。
+1. 轉至&#x200B;**Schedule**&#x200B;標籤，然後按一下&#x200B;**Activate**&#x200B;按鈕。
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
    >
-   >將「資 **格規則** 」設 **定為每次** （透過編輯「智慧型促銷活動」），以允許同一人多次觸發警報。
+   >每次&#x200B;**（透過編輯智慧型促銷活動）將**&#x200B;資格規則&#x200B;**設為**（透過編輯智慧型促銷活動），讓同一人多次觸發警報。
 
-1. 按一 **下確認畫面** 上的「啟動」。
+1. 在確認螢幕上按一下&#x200B;**激活**。
 
    ![](assets/twenty-one-1.png)
 
-## 步驟3:測試一下！ {#step-test-it-out}
+## 步驟3:測試一下！{#step-test-it-out}
 
-1. 選取您的著陸頁面，然後按一 **下「檢視已核准頁面**」。
+1. 選擇您的著陸頁面，然後按一下「檢視已核准的頁面」。****
 
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
@@ -127,7 +127,7 @@ ht-degree: 0%
    >
    >不要忘記核准登陸頁面；他們要等到批准才上線。
 
-1. 填寫表格，然後按一下「 **提交**」。
+1. 填寫表單，然後按一下「提交」。****
 
    ![](assets/image2014-9-24-13-3a17-3a41.png)
 
@@ -135,9 +135,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >按一下Market **中的「人員資訊** 」標籤，以檢視連絡資訊。
+   >按一下Market中的&#x200B;**人員資訊**&#x200B;標籤，以檢視連絡資訊。
 
-## 任務完成！ {#mission-complete}
+## 任務完成！{#mission-complete}
 
 <br> 
 
