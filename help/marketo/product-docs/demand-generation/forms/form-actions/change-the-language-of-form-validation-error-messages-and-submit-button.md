@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 變更表單驗證／錯誤訊息的語言並提交按鈕 {#change-the-language-of-form-validation-error-messages-and-submit-button}
+# 變更表單驗證／錯誤訊息的語言並提交按鈕{#change-the-language-of-form-validation-error-messages-and-submit-button}
 
 您知道可以自訂表單，以提供其他語言的訊息嗎？ 看看這個。
 
@@ -19,27 +19,27 @@ ht-degree: 0%
 >
 >這也會變更提交按鈕語言。
 
-1. 前往「行 **銷****活動」**。
+1. 前往&#x200B;**Marketing** **Activity**。
 
    ![](assets/login-marketing-activities-6.png)
 
-1. 選取您的表格，然後按一下「 **編輯表格」。**
+1. 選擇表單並按一下「編輯表單」。****
 
    ![](assets/image2014-9-15-12-3a47-3a46.png)
 
-1. 在「表 **單設定」下** ，按一 **下「設定」**。
+1. 在「**表單設定」下，**&#x200B;按一下「設定」**。**
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. 選擇 **所需****的Error** Language。
+1. 選擇所需的&#x200B;**Error** **Language**。
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
-1. 按一 **下完成**。
+1. 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-15-12-3a48-3a43.png)
 
-1. 按一 **下「核准並關閉** 」以套用並儲存變更。
+1. 按一下&#x200B;**批准並關閉**&#x200B;以應用和保存更改。
 
    >[!NOTE]
    >
@@ -52,7 +52,7 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >請記得 [核准表單變更所建立](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 的著陸頁面草稿。
+   >請記得[核准表單變更所建立的著陸頁面](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)草稿。
 
    ![](assets/image2014-9-15-12-3a50-3a11.png)
 
