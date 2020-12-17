@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 發行說明：2015年秋季 {#release-notes-fall}
+# 發行說明：2015年秋季{#release-notes-fall}
 
 Fall &#39;15發行包含下列功能。 請檢查您的Marketo Edition是否提供功能。
 
-## 訂閱智慧型清單 {#subscribe-to-a-smart-list}
+## 訂閱智慧清單{#subscribe-to-a-smart-list}
 
 [訂閱智慧型清單](../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
@@ -29,7 +29,7 @@ Fall &#39;15發行包含下列功能。 請檢查您的Marketo Edition是否提�
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
-## 行銷人員自訂物件 {#marketo-custom-objects}
+## 行銷人員自訂物件{#marketo-custom-objects}
 
 [行銷人員自訂物件](http://docs.marketo.com/display/docs/marketo+custom+objects)
 
@@ -46,7 +46,7 @@ Fall &#39;15發行包含下列功能。 請檢查您的Marketo Edition是否提�
 
 [Google Chrome的Marketo Insights](../../product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-我們很高興宣佈推出Google Mail Sales Insight擴充功能的更新！ 在 [Chrome Store中檢視](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)。
+我們很高興宣佈推出Google Mail Sales Insight擴充功能的更新！ 在[Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)中檢視。
 
 此更新包含許多新功能：
 
@@ -56,23 +56,23 @@ Fall &#39;15發行包含下列功能。 請檢查您的Marketo Edition是否提�
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Marketon行動參與- Token、傳送範例和預覽 {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Marketo Mobile參與- Token、傳送範例和預覽{#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [Token](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [傳送範例](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [預覽](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-使用Token輕鬆個人化推播 [通知](https://docs.marketo.com/pages/viewpage.action?pageId=7512454)。
+使用[Token](https://docs.marketo.com/pages/viewpage.action?pageId=7512454)輕鬆個人化推播通知。
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-您也可以 [先預覽](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) 或傳送範例推 [](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) 播通知，再將它部署給客戶。
+您也可以在將[預覽](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)或傳送[範例](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)推播通知，再將它部署至客戶。
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
 ![](assets/image2015-10-1-13-3a46-3a20.png)
 
-## 瞬間智慧型宣傳 {#smart-campaigns-in-moments}
+## 瞬間的智慧型促銷活動{#smart-campaigns-in-moments}
 
 [瞬間智慧型宣傳](../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
@@ -85,9 +85,9 @@ Fall &#39;15發行包含下列功能。 請檢查您的Marketo Edition是否提�
 
 ![](assets/image2015-10-1-13-3a58-3a27.png)
 
-## RTP —— 內容分析與建議 {#rtp-content-analytics-and-recommendations}
+## RTP —— 內容分析和建議{#rtp-content-analytics-and-recommendations}
 
-[內容分析](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 與建議
+[內容分](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 析與建議
 
 RTP內容分析顯示來自定期網站瀏覽和RTP內容建議引擎產生的瀏覽的網頁內容資產效能。
 
@@ -97,12 +97,12 @@ RTP內容分析顯示來自定期網站瀏覽和RTP內容建議引擎產生的�
 
 RTP的「資產」頁面現在已分割為「內容分析」和「內容建議」。
 
-* **內容分析：** 顯示所有已發現和定義之網頁內容的檢視和直接潛在客戶，協助您分析效能最佳的內容
-* **內容建議**:顯示RTP建議內容及相關銷售機會歸因的曝光和點按次數。 您也可以編輯並啟用此頁面中的內容建議，以 [取得](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine)[列和豐富媒](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine) 體建議。
+* **內容分析：顯** 示所有已發現和定義之網頁內容的檢視和直接潛在客戶，協助您分析效能最佳的內容
+* **內容建議**:顯示RTP建議內容及相關銷售機會歸因的曝光和點按次數。您也可以編輯並啟用本頁中[bar](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine)和[rich media](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine)建議的內容建議。
 
 * 自年初（2015年1月1日）起，這兩頁中的所有直接銷售線索資料都已追溯更新。
 
-## RTP —— 克隆RTP促銷活動 {#rtp-clone-an-rtp-campaign}
+## RTP —— 克隆RTP促銷活動{#rtp-clone-an-rtp-campaign}
 
 [RTP —— 克隆RTP促銷活動](../../product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
 
@@ -110,7 +110,7 @@ RTP的「資產」頁面現在已分割為「內容分析」和「內容建議�
 
 ![](assets/clone2.png)
 
-## Rich Text Editor的改進 {#rich-text-editor-improvements}
+## 富格文字編輯器改進{#rich-text-editor-improvements}
 
 我們對Rich Text編輯器進行了幾項改進。 在7月發佈更新版編輯後，我們收到了大量意見回應，並可在此升級中處理這些變更。 未來數月內，還有更多事要做。 以下是第4季的新增功能清單：
 
@@ -138,7 +138,7 @@ RTP的「資產」頁面現在已分割為「內容分析」和「內容建議�
    <![endif]-->
    ```
 
-* 不要將空表格儲存格 `**`
+* 不要將空白表格儲存格貼入`**`
 
 * 將新增至HTML來源編輯器的「最大化／最小化」按鈕
 * 現在可在「表屬性」對話框中標識並顯示預先存在的表屬性
@@ -159,7 +159,7 @@ RTP的「資產」頁面現在已分割為「內容分析」和「內容建議�
    <td background="someImage.png"> 
    ```
 
-## Microsoft Dynamics —— 驗證同步 {#microsoft-dynamics-validate-sync}
+## Microsoft Dynamics —— 驗證同步{#microsoft-dynamics-validate-sync}
 
 [Microsoft Dynamics —— 驗證同步](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
@@ -167,29 +167,29 @@ RTP的「資產」頁面現在已分割為「內容分析」和「內容建議�
 
 ![](assets/image2015-10-1-14-3a3-3a12.png)
 
-## 新增欄位至CRM自訂物件同步 {#add-fields-to-crm-custom-object-sync}
+## 新增欄位至CRM自訂物件同步{#add-fields-to-crm-custom-object-sync}
 
 輕鬆將新欄位新增至與Salesforce和Dynamics同步的自訂物件。 您現在可以將新欄位新增至自訂物件同步，而不需停用和啟用整個自訂物件。
 
-## 安全性功能的變更 {#changes-to-security-features}
+## 安全性功能變更{#changes-to-security-features}
 
 * 密碼嘗試次數限制為5次。 在第五次嘗試後，使用者將被鎖定。
 * 非作用中作業逾時現在可針對訂閱進行設定。
 
 ![](assets/image2015-10-1-15-3a54-3a4.png)
 
-## IE 11支援（並取代IE 9支援） {#ie-support-and-deprecating-support-for-ie}
+## IE 11支援（並取代對IE 9的支援）{#ie-support-and-deprecating-support-for-ie}
 
 我們現在正式支援Microsoft Internet Explorer 11瀏覽器，並移除對Microsoft Internet Explorer 9瀏覽器的支援。
 
-## MSI的Lightning UI支援 {#lightning-ui-support-for-msi}
+## MSI {#lightning-ui-support-for-msi}的Lightning UI支援
 
 應用程式交換上的最新MSI套件可搭配Salesforce UI的Lightning和舊版使用。
 
-## 新的Dynamics外掛程式 {#new-dynamics-plug-in}
+## New Dynamics Plug-in {#new-dynamics-plug-in}
 
 此新增的外掛程式會以非同步模式執行各種動作，以協助提高效能。
 
-## 依URL搜尋Design Studio中的著陸頁面 {#search-by-url-of-landing-page-in-design-studio}
+## 依Design Studio {#search-by-url-of-landing-page-in-design-studio}中著陸頁面的URL搜尋
 
 在Design Studio著陸頁面格線中，您現在可以依頁面URL搜尋，以尋找著陸頁面。 這也是可導出的。
