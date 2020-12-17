@@ -11,16 +11,16 @@ ht-degree: 0%
 ---
 
 
-# 測試Facebook銷售線索廣告，以便與Marketo整合案頭 {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
+# 測試Facebook銷售線索廣告以便與Marketo整合至案頭{#test-facebook-lead-ads-for-desktop-integration-with-marketo}
 
 在您建立Lead Ad後，您應加以測試！ 以下是如何在桌上型電腦上完成。
 
 >[!PREREQUISITES]
 >
->您必須 [設定Facebook銷售機會廣告整合](set-up-facebook-lead-ads.md)。
+>您必須[設定Facebook銷售機會廣告整合](set-up-facebook-lead-ads.md)。
 
-1. 在Facebook強大編輯器中，選取促銷活動、廣告，然後按一下「編 **輯」**。
-1. 在「 **連結**」下方，按一 **下「在動態消息中檢視** 」連結。
+1. 在Facebook強大編輯器中，選取促銷活動、廣告，然後按一下「編輯」****。
+1. 在「**連結**」下方，按一下「在動態消息中檢視」連結。****
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
    >
    >這只是一個使用「瞭解更多行動要求」的範例。 您的銷售機會廣告單位行動要求可能不同。
 
-1. 填寫案頭上的表單，以提交您的測試銷售機會廣告單元。 按一 **下提交**。
+1. 填寫案頭上的表單，以提交您的測試銷售機會廣告單元。 按一下&#x200B;**提交**。
 
    ![](assets/image2016-5-13-14-3a47-3a43.png)
 
@@ -40,11 +40,11 @@ ht-degree: 0%
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. 魔法就在這裡發生！ 提交表單後，請在Marketo中建立 [智慧型清單，以做為程式的一部分](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ，或在使用「填寫的Facebook潛在客戶廣告表單」篩選的資料庫中。 插入您剛提交的表單的銷售機會廣告表單名稱。
+1. 魔法就在這裡發生！ 在您提交表單後，[會在Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中建立智慧型清單，做為程式的一部分，或在使用「Filled Out Facebook銷售機會廣告表單」篩選的資料庫中。 插入您剛提交的表單的銷售機會廣告表單名稱。
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
-1. 現在按一下 **「人員** 」標籤，以驗證同步是否正常運作。
+1. 現在，按一下「**People**」標籤，驗證同步是否正常運作。
 
    ![](assets/people.png)
 
