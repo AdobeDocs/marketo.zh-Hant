@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 開啟和關閉參與計畫 {#turn-an-engagement-program-on-and-off}
+# 開啟和關閉參與計畫{#turn-an-engagement-program-on-and-off}
 
 只要輕輕一按，就可以關閉參與程式。 這將會停止傳送任何內容。 這是方法。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選擇參與方案，然後按一下「 **設定」**。
+1. 選擇項目程式，然後按一下&#x200B;**Setup**。
 
    >[!NOTE]
    >
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. 按兩下「 **Program Status（程式狀態）**」。
+1. 按兩下&#x200B;**程式狀態**。
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. 選擇「 **關閉** 」，然後單 **擊「保存**」。
+1. 選擇&#x200B;**Off**&#x200B;並按一下&#x200B;**Save**。
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 
