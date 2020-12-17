@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 封存和取消封存串流內容
 
-如果您不想再在串流中使用某段內容，您可以移除 [或](/help/sky/remove-stream-content.md) 封存它。
+如果您不想再在串流中使用內容片段，您可以[remove](/help/sky/remove-stream-content.md)加以封存。
 
 >[!TIP]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-1.png)
 
-1. 按一下標 **[!UICONTROL Streams]** 簽
+1. 按一下&#x200B;**[!UICONTROL Streams]**&#x200B;頁籤
 
    ![影像2](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-2.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![影像三](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-3.png)
 
-1. 選擇 **[!UICONTROL Archive]**。
+1. 選擇&#x200B;**[!UICONTROL Archive]**。
 
    ![影像4](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-4.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
    ![影像5](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. 按一下標 **[!UICONTROL Streams]** 簽。
+1. 按一下&#x200B;**[!UICONTROL Streams]**&#x200B;頁籤。
 
    ![影像6](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. 按一下串流的齒輪圖示，然後按一下 **[!UICONTROL Show Archived Content]**。
+1. 按一下串流的齒輪圖示，然後按一下&#x200B;**[!UICONTROL Show Archived Content]**。
 
    ![影像7](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![影像8](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-8.png)
 
-1. 選擇 **[!UICONTROL Unarchive]**。
+1. 選擇&#x200B;**[!UICONTROL Unarchive]**。
 
    ![影像9](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-9.png)
 
