@@ -20,13 +20,13 @@ Marketo在「預測性對象」中，在智慧型清單中提供一組以AI/ML�
 
 ## 參加的可能性
 
-此篩選器可有效縮小您的受眾。 這可協助您鎖定並邀請更有可能參加您網路研討會或活 **動** 的潛在客源。 請注意，您的「[!UICONTROL Likelihood to attend program]」將是您目前的活動計畫。
+此篩選器可有效縮小您的受眾。 這可協助您鎖定並邀請&#x200B;**參加**&#x200B;您的網路研討會或活動的可能性較高的潛在客源。 請注意，您的&quot;[!UICONTROL Likelihood to attend program]&quot;將是您目前的事件程式。
 
 ![影像2](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## 註冊的可能性
 
-與「[!UICONTROL _Likey to Anted_]」（出席可能性）篩選器類似，使用此篩選器來縮小您的受眾範圍，並鎖定註冊參加您網路研討會或活動 **的** 潛在客源。
+與&#x200B;[!UICONTROL _Leokily to Anted_]&#x200B;篩選器類似，使用此篩選器可縮小您的受眾範圍，並鎖定在您的網路研討會或活動中註冊&#x200B;**的潛在客源。**
 
 ![影像三](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 
@@ -44,7 +44,7 @@ Marketo在「預測性對象」中，在智慧型清單中提供一組以AI/ML�
 
 這兩個篩選條件可協助您鎖定其他類似其他方案或智慧型清單成員的潛在客戶，以擴大目前的受眾。 「相似」篩選條件會考慮50多個因素，包括銷售機會屬性、電子郵件活動、網頁活動和參與。
 
-單&#x200B;**[!UICONTROL Add Constraint]** 擊以選擇所選方案成員的成功標準。
+按一下&#x200B;**[!UICONTROL Add Constraint]**&#x200B;為所選程式的成員選擇成功標準。
 
 按一下程式下拉式清單旁的+圖示，輕鬆將多個程式／智慧型清單新增至一個篩選器。
 
