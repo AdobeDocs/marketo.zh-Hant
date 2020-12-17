@@ -11,11 +11,11 @@ ht-degree: 7%
 ---
 
 
-# Microsoft Dynamics專用的Marketo增效模組版本 {#marketo-plugin-releases-for-microsoft-dynamics}
+# Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}專用的Marketo增效模組版本
 
 當您第一次同步至Microsoft Dynamics時，請下載適用於Marketo的最新版本外掛程式。 Marketo會定期更新這些外掛程式，因此您可以返回相同位置下載新版本。
 
-[下載與您的Dynamics版本對應的最新增效模組](sync-setup/download-the-marketo-lead-management-solution.md) 。
+[下載與Dynamics版](sync-setup/download-the-marketo-lead-management-solution.md) 本對應的最新外掛程式。
 
 ![](assets/lead-management-solution.png)
 
@@ -34,12 +34,12 @@ ht-degree: 7%
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.24</td> 
-   <td colspan="1">8/22/18</td> 
+   <td colspan="1">2018年8月22日</td> 
    <td colspan="1">新增對立即可用的支援，以符合Microsoft Dynamics 9.x版聯絡程式的資格。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.23</td> 
-   <td colspan="1">6/27/18</td> 
+   <td colspan="1">2018年6月27日</td> 
    <td colspan="1">錯誤修正：嘗試安裝Marketo Solutions for Dynamics 2013時發生商業程式錯誤。</td> 
   </tr> 
   <tr> 
@@ -54,7 +54,7 @@ ht-degree: 7%
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.20</td> 
-   <td colspan="1">7/22/16</td> 
+   <td colspan="1">2016年7月22日</td> 
    <td colspan="1">錯誤修正：未完全捕獲機會聯繫人角色的更新。</td> 
   </tr> 
   <tr> 
@@ -74,7 +74,7 @@ ht-degree: 7%
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.16</td> 
-   <td colspan="1">3/29/16</td> 
+   <td colspan="1">2016年3月29日</td> 
    <td>錯誤修正：關閉同步篩選時，已記錄一個指派事件。</td> 
   </tr> 
   <tr> 
