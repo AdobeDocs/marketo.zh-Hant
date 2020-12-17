@@ -5,13 +5,13 @@ title: 範本2-C
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 
-# 範本2-C {#template-c}
+# 模板2-C {#template-c}
 
 [下載範本2-C](http://docs.marketo.com/download/attachments/7516475/template2-c.html?version=1&amp;modificationdate=1433229240000&amp;api=v2)
 
