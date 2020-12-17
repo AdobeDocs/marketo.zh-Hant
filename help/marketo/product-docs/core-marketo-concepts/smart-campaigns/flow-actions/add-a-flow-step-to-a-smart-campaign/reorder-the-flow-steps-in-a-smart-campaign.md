@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在智慧型促銷活動中重新排序流程步驟 {#reorder-the-flow-steps-in-a-smart-campaign}
+# 在智慧型促銷活動中重新排序流程步驟{#reorder-the-flow-steps-in-a-smart-campaign}
 
 流程步驟從上到下執行。 以下是如何依您的需求重新排序流程步驟。
 
