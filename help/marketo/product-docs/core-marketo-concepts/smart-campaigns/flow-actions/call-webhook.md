@@ -21,7 +21,7 @@ ht-degree: 0%
 
 
 
-## 概觀 {#overview}
+## 概述{#overview}
 
 Webhook可讓您與協力廠商服務互動。 在智慧型促銷活動流程中呼叫網頁掛接，以傳送／接收資訊。
 
@@ -31,11 +31,11 @@ Webhook可讓您與協力廠商服務互動。 在智慧型促銷活動流程中
 >
 >**深入探討**
 >
->瞭解Webhooks能為您做 [的許多](http://developers.marketo.com/documentation/webhooks/) 精彩事。
+>瞭解Webhooks[可為您帶來的許多精彩功能。](http://developers.marketo.com/documentation/webhooks/)
 
-## 使用狀況 {#usage}
+## 用法{#usage}
 
-從下 **拉式清單** 中選取Webhook。
+從下拉清單中選擇&#x200B;**Webhook**。
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
