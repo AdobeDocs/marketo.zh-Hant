@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 在「方案計畫」視圖中建立條目 {#creating-an-entry-in-the-program-schedule-view}
+# 在程式計畫視圖{#creating-an-entry-in-the-program-schedule-view}中建立條目
 
 您可以從方案計畫視圖中建立條目以補充現有方案。
 
-## 建立基本項目 {#create-a-basic-entry}
+## 建立基本條目{#create-a-basic-entry}
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 選擇您的方案。 按一下 **「檢視** 」下拉式清單。 選擇 **計畫**。
+1. 選擇您的方案。 按一下&#x200B;**視圖**&#x200B;下拉式清單。 選擇&#x200B;**計畫**。
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. 輸入您的說明，然後按一 **下儲存**。
+1. 輸入您的說明，然後按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
@@ -49,17 +49,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a25-3a51.png)
 
-## 更改條目類型 {#change-entry-type}
+## 更改條目類型{#change-entry-type}
 
-1. 從「議程」視圖中選擇基 **本條目** 。
+1. 從&#x200B;**議程**&#x200B;視圖中選擇一個基本條目。
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. 選擇「 **類型** 」(Type)下拉式清單。 選擇新條目類型。
+1. 選擇&#x200B;**Type**&#x200B;下拉式清單。 選擇新條目類型。
 
    >[!NOTE]
    >
-   >待辦事項是自訂 [項目](create-custom-entry-types.md)。 您可以製作待辦項目和其他自訂項目，以協助追蹤非Marketo議程項目。
+   >待辦事項是[自訂項目](create-custom-entry-types.md)。 您可以製作待辦項目和其他自訂項目，以協助追蹤非Marketo議程項目。
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 您也可以從排程檢視 [建立智慧型](creating-a-batch-smart-campaign-in-the-program-schedule-view.md)[促銷活動](creating-a-new-email-program-in-the-schedule-view.md) 或電子郵件方案。
+> 您也可以從排程檢視建立[智慧型促銷活動](creating-a-batch-smart-campaign-in-the-program-schedule-view.md)或[電子郵件程式](creating-a-new-email-program-in-the-schedule-view.md)。
 
