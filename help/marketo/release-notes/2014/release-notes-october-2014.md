@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 發行說明：2014年10月 {#release-notes-october}
+# 發行說明：2014年10月{#release-notes-october}
 
 檢查您的Marketo版本，以取得功能。 檔案將在發行時提供。
 
-## 行銷行事歷中的計畫焦點 {#program-focus-in-marketing-calendar}
+## 行銷行事歷中的方案重點{#program-focus-in-marketing-calendar}
 
-[直接從行銷行事歷](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) ，建立和編輯項目。
+[直接從行銷](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) 行事歷建立及編輯附註。
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
-## 新的ReST API呼叫 {#new-rest-api-calls}
+## 新的ReST API呼叫{#new-rest-api-calls}
 
 使用API提取新活動或對銷售線索的更改：
 
@@ -30,27 +30,27 @@ ht-degree: 0%
 * 取得活動類型
 * 取得分頁Token
 
-完整的詳細資訊將在 [developers.marketo.com發行後提供](http://developers.marketo.com/documentation/rest/)。
+在[developers.marketo.com](http://developers.marketo.com/documentation/rest/)發行後，將提供完整的詳細資訊。
 
-## MSI —— 傳送Microsoft Dynamics的行銷人員電子郵件 {#msi-send-marketo-email-for-microsoft-dynamics}
+## MSI —— 向Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}發送電子郵件
 
-[從Microsoft Dynamics傳送及追蹤銷售電子郵件](../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) ，給潛在客戶和聯絡人。
+[從Microsoft Dynamics傳送及追](../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) 蹤銷售電子郵件給潛在客戶和聯絡人。
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
-## MSI —— 新增至Microsoft Dynamics的行銷活動 {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
+## MSI —— 新增至Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}的行銷活動
 
-[直接從Microsoft Dynamics將潛在客戶和連絡人新增至](../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) Marketor智慧型促銷活動。 行銷可以選擇哪些Marketo促銷活動可供銷售。
+[直接從Microsoft Dynamics，將銷售機會和連絡人新](../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) 增至Marketo智慧型促銷活動。行銷可以選擇哪些Marketo促銷活動可供銷售。
 
-## Microsoft Dynamics Sync的自訂實體支援 {#custom-entity-support-for-microsoft-dynamics-sync}
+## Microsoft Dynamics Sync {#custom-entity-support-for-microsoft-dynamics-sync}的自訂實體支援
 
-[使用Microsoft Dynamics的自訂物件資料](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md) ，以篩選和觸發智慧型清單、智慧型促銷活動、程式……
+[使用Microsoft Dynamics](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md) 的自訂物件資料，在智慧型清單、智慧型促銷活動、程式中篩選及觸發……
 
-## Microsoft Dynamics Sync的股東支援 {#shareholder-support-for-microsoft-dynamics-sync}
+## Microsoft Dynamics Sync {#shareholder-support-for-microsoft-dynamics-sync}的股東支援
 
 同步Dynamics的機會股東資料。 還支援使用「主要帳戶」欄位連接到帳戶的機會，以及使用「主要聯繫人」同步連接到聯繫的機會。
 
-## RTP —— 儀表板增強功能 {#rtp-dashboard-enhancements}
+## RTP —— 儀表板增強功能{#rtp-dashboard-enhancements}
 
 控制面板現在已增強，可包含更多一目瞭然的資料：
 
@@ -58,9 +58,9 @@ ht-degree: 0%
 * 5大表現行業
 * 參與訪客總數
 
-## RTP —— 促銷活動的新行動範本 {#rtp-new-mobile-templates-for-campaigns}
+## RTP —— 促銷活動的新行動範本{#rtp-new-mobile-templates-for-campaigns}
 
-使用這些新範本 [快速輕鬆地建立](../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) 行動宣傳。
+使用這些新範本，快速輕鬆地建立行動宣傳[。](../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)
 
 ## RTP —— 用戶上下文API {#rtp-user-context-api}
 
@@ -70,5 +70,5 @@ ht-degree: 0%
 * 感興趣的產品
 * 他們看過哪些RTP促銷活動
 
-請造 [訪developers.marketo.com](http://developers.marketo.com/documentation/websites/rtp-js-api/) ，以取得詳細資訊。
+請造訪[developers.marketo.com](http://developers.marketo.com/documentation/websites/rtp-js-api/)以取得完整詳細資訊。
 
