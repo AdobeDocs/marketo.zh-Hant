@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在ON24中建立您的網路研討會活動 {#create-your-webinar-event-in-on}
+# 在ON24 {#create-your-webinar-event-in-on}中建立您的網路研討會活動
 
 在ON24中建立網路研討會後，您可以建立Marketo活動，並將它與ON24網路研討會建立關聯。 這可讓系統共用註冊和考勤資訊。 記下URL和其他資訊，以便用於確認電子郵件和ICS檔案。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 * 即時事件開始——開始日期和時間。 這可在Marketo中檢視。
 * 即時結束時間——結束日期和時間。 這可在Marketo中檢視。
 
-您的下一步是 [在Marketo中建立活動](create-an-event-in-marketo.md)。
+您的下一步是在Marketo[中建立事件。](create-an-event-in-marketo.md)
 
 >[!MORELIKETHIS]
 >
