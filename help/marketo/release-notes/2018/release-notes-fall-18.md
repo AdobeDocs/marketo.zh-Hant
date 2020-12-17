@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 發行說明：18年秋季 {#release-notes-fall}
+# 發行說明：秋季&#39;18 {#release-notes-fall}
 
 Fall &#39;18發行包含下列功能。 檢查您的Marketo版本，以取得功能。
 
 請按一下標題連結，檢視每個功能的詳細文章（如果有的話）。
 
-## 核心平台增強功能 {#core-platform-enhancements}
+## 核心平台增強功能{#core-platform-enhancements}
 
 **[Web個人化](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
 網路個人化現在支援多個工作區。
 
-## 行銷人員與銷售人員互動 {#marketo-sales-engage}
+## Marketo銷售人員參與{#marketo-sales-engage}
 
 * **SFDC Lightning支援**:移轉至或目前使用Lightning的使用者可運用MSE，在購買者歷程中提供更智慧的參與。
 
@@ -38,7 +38,7 @@ Fall &#39;18發行包含下列功能。 檢查您的Marketo版本，以取得功
 
 ## Marketo Sky {#marketo-sky}
 
-如需詳細資訊和更新，請查看我們的 [Sky版本資訊](https://help.marketo.com)。
+如需詳細資訊和更新，請查看我們的[Sky版本注意事項](https://help.marketo.com)。
 
 * **設計系統更新**
 
@@ -56,7 +56,7 @@ Fall &#39;18發行包含下列功能。 檢查您的Marketo版本，以取得功
 * Design Studio清單檢視：使用者現在可以檢視清單檢視格式的著陸頁面範本和電子郵件範本，以便在單一資產類型上快速導覽和大量動作。
 * Design Studio資產詳細資訊頁面：在單一位置檢視、組織和執行所有資產的大量動作，以節省時間並省下許多麻煩。
 * **Marketo Sky現已提供預設程式**:Marketo Sky現在支援預設程式，此為多功能程式樣式，可讓您建立任何想像得到的促銷活動。
-* **電子郵件計畫——第1階段**:您現在可以在Sky中檢視電子郵件程式。 檢視新設計並告 [訴我們您的想法](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html)。
+* **電子郵件計畫——第1階段**:您現在可以在Sky中檢視電子郵件程式。檢視新設計，並[告訴我們您的想法](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html)。
 
 ## Analytics {#analytics}
 
@@ -86,7 +86,7 @@ Fall &#39;18發行包含下列功能。 檢查您的Marketo版本，以取得功
 * **依活動日期的參與**:使用者可選擇依活動日期或成本期間檢視參與度量。
 * **ABM命名帳戶篩選器**:依據特定的指定帳戶篩選Pipeline和Revenue控制面板。
 
-## 廣告網路 {#ad-networks}
+## 廣告網路{#ad-networks}
 
 **[重新整理Token](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
