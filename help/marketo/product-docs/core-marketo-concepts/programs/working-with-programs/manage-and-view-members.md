@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 管理和查看成員 {#manage-and-view-members}
+# 管理和查看成員{#manage-and-view-members}
 
 您可以使用「成員」頁籤管理和查看方案中的成員。
 
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >**深入探討**
 >
-> 深入瞭解 [方案會籍](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)。
+> 深入瞭解[方案會籍](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)。
 
-## 搜索成員 {#search-for-a-member}
+## 搜索成員{#search-for-a-member}
 
 在「成員」部分的底部，使用搜索欄位按名稱、電子郵件、職稱或公司搜索方案成員。
 
-1. 按一下方 **案的** 「成員」頁籤。
+1. 按一下程式的&#x200B;**成員**&#x200B;頁籤。
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
    ![](assets/image2014-10-1-16-3a7-3a20.png)
 
-## 導出成員網格 {#export-the-members-grid}
+## 導出成員網格{#export-the-members-grid}
 
 您可以按一下搜尋欄位旁的Excel圖示，以匯出成員清單。
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 
-## 管理成員網格中的列 {#manage-columns-in-the-members-grid}
+## 管理成員網格{#manage-columns-in-the-members-grid}中的列
 
 * 拖放欄以變更其順序。 藍色箭頭對指示列將移至何處。
 
@@ -49,35 +49,35 @@ ht-degree: 0%
 
    ![](assets/image2014-10-1-17-3a3-3a28.png)
 
-## 選擇在網格中顯示哪些列 {#choose-which-columns-are-visible-in-the-grid}
+## 選擇在網格{#choose-which-columns-are-visible-in-the-grid}中顯示哪些列
 
-1. 按一下「**檢視**」下拉式清單，並選取「建 **立檢視」**。
+1. 按一下「**檢視**」下拉式清單，然後選取「建立檢視」。****
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. 為您的自訂檢視命名。 選擇列標題。 按一下**「新 **增並移除** **」以移動欄並建立檢視。
+1. 為您的自訂檢視命名。 選擇列標題。 按一下**添加&#x200B;**和**&#x200B;刪除**以移動列並建立視圖。
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. 按一下 **建立**。
+1. 按一下&#x200B;**建立**。
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## 篩選成員網格  {#filter-the-members-grid}
+## 篩選成員網格{#filter-the-members-grid}
 
-1. 按一下「 **篩選** 」下拉式清單，並選取要排序的進度步驟。
+1. 按一下&#x200B;**Filter**&#x200B;下拉式清單並選擇要排序的進度步驟。
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
-## 在成員網格中管理人員狀態 {#manage-person-status-in-the-members-grid}
+## 在成員網格{#manage-person-status-in-the-members-grid}中管理人員狀態
 
 您可以在成員網格中更改人員的狀態。
 
-1. 按住 **Ctrl/Cmd** ，然後選取人員。
+1. 按住&#x200B;**Ctrl/Cmd**&#x200B;鍵並選擇人員。
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. 按一下「 **變更狀態** 」下拉式清單，並選取狀態。
+1. 按一下&#x200B;**更改狀態**&#x200B;下拉式清單並選擇狀態。
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
