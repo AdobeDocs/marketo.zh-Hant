@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Account Insight外掛程式概觀 {#account-insight-plug-in-overview}
+# Account Insight外掛程式概觀{#account-insight-plug-in-overview}
 
 Account Insight是Chrome增效模組，可將可操作的ABM和帳戶見解呈現給您的銷售團隊，讓他們更有效率地與客戶互動。
 
@@ -23,11 +23,11 @@ Account Insight是Chrome增效模組，可將可操作的ABM和帳戶見解呈�
 
 >[!CAUTION]
 >
->Account Insight外掛程式無法用於已啟用 [SSO](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) （單一登入）的訂閱。
+>Account Insight外掛程式無法用於啟用[SSO-only](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only)（單一登入）的訂閱。
 >
 >從「帳戶」、「潛在客戶」或「連絡人」啟動外掛程式時，CRM內容適用於Salesforce。 從「帳戶」、「潛在客戶」或「連絡人」啟動外掛程式時，CRM內容將無法用於Dynamics。 對於Dynamics使用者，我們建議使用Account Insight外掛程式。
 
-## 命名帳戶 {#named-accounts}
+## 命名帳戶{#named-accounts}
 
 請參閱指名帳戶，依其彼此之間的排名順序。 此清單僅適用於帳戶擁有者。 客戶團隊支援即將推出。
 
@@ -65,13 +65,13 @@ Account Insight是Chrome增效模組，可將可操作的ABM和帳戶見解呈�
 
 ![](assets/na10.png)
 
-## 活動摘要 {#activity-feed}
+## 活動摘要{#activity-feed}
 
 活動摘要會顯示最近的活動，可追溯至7天。
 
 ![](assets/af1.png)
 
-按一下「 **篩選** 」下拉式清單，依不同的活動類型進行篩選。\
+按一下「**篩選**」下拉式清單，依不同的活動類型篩選。\
 ![](assets/af2.png)
 
 可點選數個項目。 按一下指名帳戶以檢視其詳細資訊。 按一下使用者名稱，以查看其活動。 按一下更多活動以檢視更多活動。
