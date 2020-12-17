@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 發行說明：2015年5月 {#release-notes-may}
+# 發行說明：2015年5月{#release-notes-may}
 
 2015年5月發行包含下列功能。 請檢查您的Marketo Edition是否提供功能。 在發行後，請務必回來尋找每個功能的詳細文章連結！
 
@@ -29,21 +29,21 @@ ht-degree: 0%
 
 您在電子郵件程式準備推出之前點擊了傳送嗎？ 使用新的中止電子郵件程式按鈕來剎車。 這將停止在飛行中的電子郵件程式，直接在他們的軌道上。
 
-## 電子郵件傳遞功能  {#email-deliverability}
+## 電子郵件傳遞能力{#email-deliverability}
 
 Marketo現在會對您新增的網域執行每週自動化SPF和DKIM檢查。 檢查您的通知，隨時掌握最新資訊。
 
-## 電子郵件範本行為變更 {#email-template-behavior-change}
+## 電子郵件模板行為更改{#email-template-behavior-change}
 
 自本版次起，現在在建立新電子郵件時，將允許並不會清除有效的HTML留言。
 
-## RTP:拖放區段編輯器 {#rtp-drag-and-drop-segment-editor}
+## RTP:拖放區段編輯器{#rtp-drag-and-drop-segment-editor}
 
-RTP: [拖放區段編輯器](https://docs.marketo.com/display/public/DOCS/RTP+Segments)
+RTP:[拖放區段編輯器](https://docs.marketo.com/display/public/DOCS/RTP+Segments)
 
 將您的條件拖放至區段產生器、定義值，您就能建立即時區段。
 
-## RTP:預測性內容建議 {#rtp-predictive-content-recommendations}
+## RTP:預測性內容建議{#rtp-predictive-content-recommendations}
 
 [預測性內容建議](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine)
 
