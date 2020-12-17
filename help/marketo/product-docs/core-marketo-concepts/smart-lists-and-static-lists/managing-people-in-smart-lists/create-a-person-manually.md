@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 手動建立人員 {#create-a-person-manually}
+# 手動建立{#create-a-person-manually}人員
 
 有許多方法可讓一個人進入Marketo。 如果您需要手動建立，請以下說明如何進行。
 
-1. 轉到數 **據庫**。
+1. 轉至&#x200B;**Database**。
 
    ![](assets/db-1.png)
 
-1. 在「新 **增**」下，按 **一下「新增人員」**。
+1. 在&#x200B;**New**&#x200B;下，按一下&#x200B;**New Person**。
 
    ![](assets/two-2.png)
 
-1. 輸入人員的資訊，然後按一下「創 **建」**。
+1. 輸入人員的資訊，然後按一下&#x200B;**建立**。
 
    ![](assets/three-2.png)
 
