@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 在智慧清單中使用清單成員 {#use-members-of-list-in-a-smart-list}
+# 在智慧清單中使用清單成員{#use-members-of-list-in-a-smart-list}
 
 >[!TIP]
 >
->您可以使用「匯入」或「新增至清 [單」流](../../../../getting-started/quick-wins/import-a-list-of-people.md)[程步驟，將人員新增至清單](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)。
+>您可以使用[Import](../../../../getting-started/quick-wins/import-a-list-of-people.md)或[Add to List flow step](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)將人員新增至清單。
 
 使用此篩選器，您可以在智慧型清單規則中參照其他清單來提取成員。 這是方法。
 
-1. 選擇智慧清單，然後按一下「智慧 **清單」頁籤** 。
+1. 選擇智慧清單並按一下&#x200B;**智慧清單**&#x200B;頁籤。
 
    ![](assets/smartlist-sltab.png)
 
-1. 在右側篩選器面板上，搜尋清單成員 **篩選器並拖曳** 至畫布。
+1. 在右側濾鏡面板上，搜尋並拖曳清單成員&#x200B;**濾鏡至畫布。**
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 
