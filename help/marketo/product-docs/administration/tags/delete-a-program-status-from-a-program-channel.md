@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 從節目頻道刪除節目狀態 {#delete-a-program-status-from-a-program-channel}
+# 從程式通道{#delete-a-program-status-from-a-program-channel}刪除程式狀態
 
 程式狀態是透過程式路徑（頻道）的查核點。 如果您錯誤地建立狀態或不再需要狀態，請自由刪除。
 
-1. 前往「管 **理** 」區段。
+1. 前往&#x200B;**Admin**&#x200B;區段。
 
    ![](assets/admin.png)
 
-1. 按一 **下「標籤**」。
+1. 按一下「**標籤**」。
 
    ![](assets/image2014-9-24-15-3a51-3a24.png)
 
-1. 選取您要移除狀態的渠道，然後在「標籤動作」下 **按一下**「編 **輯」**。
+1. 選擇要從中刪除狀態的渠道，然後在&#x200B;**標籤操作**&#x200B;下，按一下&#x200B;**編輯**。
 
    ![](assets/image2014-9-24-15-3a51-3a45.png)
 
-1. 按一下 ![-](assets/image2014-9-24-15-3a52-3a39.png) 移去狀態，然後按一下 **SAVE**。
+1. 按一下![—](assets/image2014-9-24-15-3a52-3a39.png)刪除狀態，然後按一下&#x200B;**SAVE**。
 
    >[!TIP]
    >
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-15-3a57-3a53.png)
 
-幹得漂亮！ 您也可以 [視需要刪除整個渠道](delete-a-program-channel.md) 。
+幹得漂亮！ 如果需要，您也可以[刪除整個通道](delete-a-program-channel.md)。
