@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 新增流量步驟至智慧型促銷活動 {#add-a-flow-step-to-a-smart-campaign}
+# 新增流量步驟至智慧型促銷活動{#add-a-flow-step-to-a-smart-campaign}
 
 流程步驟會告訴Market，您希望對符合資格的一群人發生什麼。 這些是您的指示，智慧型促銷活動將完成您的競標！
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取您的智慧型促銷活動，然後按一 **下流量**。
+1. 選擇您的智慧型促銷活動，然後按一下「流量」。****
 
 ![](assets/image2014-9-19-16-3a27-3a1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 >**深入探討**
 >
 >
->進一步瞭解不同的 [流程步驟](http://docs.marketo.com/display/DOCS/Flow+Actions)。
+>進一步瞭解不同的[流程步驟](http://docs.marketo.com/display/DOCS/Flow+Actions)。
 
 1. 按一下下拉式清單，然後選擇適當的選項。
 
@@ -47,7 +47,7 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >流程步驟按列出順序執行。  [重新排序流程步驟](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) ，以確保這些步驟按正確的順序排列。
+   >流程步驟按列出順序執行。  [重新排序](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) 流步驟，以確保其順序正確。
 
    >[!TIP]
    >
