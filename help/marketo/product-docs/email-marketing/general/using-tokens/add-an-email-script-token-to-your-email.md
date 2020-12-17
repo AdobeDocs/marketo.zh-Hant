@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 將電子郵件指令碼Token新增至您的電子郵件 {#add-an-email-script-token-to-your-email}
+# 將電子郵件指令碼Token新增至您的電子郵件{#add-an-email-script-token-to-your-email}
 
-在您建立電 [子郵件指令碼後，](create-an-email-script-token.md)您會想要將它新增至電子郵件，以檢視其實際運作。 這是方法。
+在[建立您的電子郵件指令碼後，您會想要將它新增至電子郵件，以檢視其實際運作。 ](create-an-email-script-token.md)這是方法。
 
 >[!NOTE]
 >
@@ -55,6 +55,6 @@ ht-degree: 0%
 >
 >**提醒**
 >
->別忘了核准 [電子郵件](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
+>不要忘記[批准電子郵件](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
 
 就這樣！ 當此電子郵件傳出時，代號後面的指令碼會執行並填入內容。
