@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 新增／編輯／刪除行銷至自訂活動欄位 {#add-edit-delete-marketo-custom-activity-fields}
+# 新增／編輯／刪除行銷至自訂活動欄位{#add-edit-delete-marketo-custom-activity-fields}
 
 您可能需要新增、變更或甚至移除自訂活動欄位。 這是方法。
 
-## 新增自訂活動欄位 {#add-a-custom-activity-field}
+## 新增自訂活動欄位{#add-a-custom-activity-field}
 
-1. 在Marketo自訂活動中，按一下 **欄位**。
+1. 在「行銷自訂活動」中，按一下「**欄位**」。
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. 按一 **下新欄位**。
+1. 按一下「**新建欄位**」。
 
    ![](assets/three-3.png)
 
@@ -35,17 +35,17 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >不確定要選擇什麼？ 我們能搞定你！ 所有可用的資料類型皆在本文中 [定義](../../../product-docs/administration/field-management/custom-field-type-glossary.md)。
+   >不確定要選擇什麼？ 我們能搞定你！ 所有可用的資料類型皆定義於[本文](../../../product-docs/administration/field-management/custom-field-type-glossary.md)。
 
-1. 命名欄位。 Api名稱會自動填入。 完成後，按一下「保 **存」**。
+1. 命名欄位。 Api名稱會自動填入。 完成後，按一下&#x200B;**保存**。
 
    ![](assets/five-3.png)
 
    就這樣！ 已添加新欄位。
 
-## 編輯自訂活動欄位 {#edit-a-custom-activity-field}
+## 編輯自訂活動欄位{#edit-a-custom-activity-field}
 
-1. 在Marketo自訂活動中，按一下 **欄位**。
+1. 在「行銷自訂活動」中，按一下「**欄位**」。
 
    ![](assets/one-3.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 選擇要編輯的欄位，按一下「字 **段操作** 」下拉式清單，然後選擇「 **編輯欄位」**。
+1. 選擇要編輯的欄位，按一下&#x200B;**欄位操作**&#x200B;下拉式清單，然後選擇&#x200B;**編輯欄位**。
 
    ![](assets/eight.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 輸入新的名稱和Api名稱，然後按一下「 **儲存**」。
+1. 輸入新的名稱和Api名稱，然後按一下&#x200B;**保存**。
 
    ![](assets/ten.png)
 
@@ -79,9 +79,9 @@ ht-degree: 0%
 
 您的欄位現在已編輯！
 
-## 刪除自訂活動欄位 {#delete-a-custom-activity-field}
+## 刪除自訂活動欄位{#delete-a-custom-activity-field}
 
-1. 在Marketo自訂活動中，按一下 **欄位**。
+1. 在「行銷自訂活動」中，按一下「**欄位**」。
 
    ![](assets/one-3.png)
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
    ![](assets/twelve.png)
 
-1. 選擇要刪除的欄位，按一下「字 **段操作** 」下拉式清單，然後選擇 **刪除欄位**。
+1. 選擇要刪除的欄位，按一下&#x200B;**欄位操作**&#x200B;下拉式清單，然後選擇&#x200B;**刪除欄位**。
 
    ![](assets/thirteen.png)
 
