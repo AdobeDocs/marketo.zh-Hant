@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 移動智慧型促銷活動 {#move-a-smart-campaign}
+# 移動智慧型促銷活動{#move-a-smart-campaign}
 
 使用樹狀結構中的拖放或移動功能，在不同的程式或資料夾之間移動智慧型促銷活動。
 
-## 使用拖放 {#use-drag-and-drop}
+## 使用拖放{#use-drag-and-drop}
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -31,15 +31,15 @@ ht-degree: 0%
    >
    >智慧型促銷活動的規則不會變更——只會巢狀內嵌在不同的位置。
 
-## 使用移動功能 {#use-the-move-feature}
+## 使用移動功能{#use-the-move-feature}
 
 智慧型促銷活動也可使用樹狀結構中的移動功能來移動。
 
-1. 以滑鼠右鍵按一下智慧型促銷活動。 選擇 **移動**。
+1. 以滑鼠右鍵按一下智慧型促銷活動。 選擇&#x200B;**移動**。
 
    ![](assets/rockclimbing2.jpg)
 
-1. 選擇移至「程式 **」或** 「資料 **夾」**。
+1. 選擇移至&#x200B;**Program**&#x200B;或&#x200B;**Folder**。
 
    ![](assets/image2015-2-25-13-3a34-3a20.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-25-13-3a36-3a4.png)
 
-1. 按一下 **移動**。
+1. 按一下&#x200B;**移動**。
 
    ![](assets/image2015-2-25-13-3a37-3a44.png)
 
