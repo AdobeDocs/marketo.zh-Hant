@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 設定預設人員姓氏和公司名 {#set-default-person-last-name-and-company-name}
+# 設定預設人員姓氏和公司名稱{#set-default-person-last-name-and-company-name}
 
 Salesforce需要（最少）Lead和Contacts的姓氏和公司名稱。 不完整的記錄不會同步至Salesforce。 如果您想要同步部分記錄，您必須設定Marketo與Salesforce搭配使用的預設值。
 
-1. 前往「管 **理員** 」並按一 **下「Salesforce**」。
+1. 前往&#x200B;**Admin**，然後按一下&#x200B;**Salesforce**。
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. 按一 **下編輯同步選項**。
+1. 按一下「編輯同步選項」 ****。
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. 輸入 **預設人員姓氏** 、**預設****人員公司** ，然後按一下 **保存**。
+1. 輸入&#x200B;**預設人員姓**&#x200B;和**預設****人員公司** ，然後按一下&#x200B;**保存**。
 
    ![](assets/sync-options-hands.png)
 
