@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 設定您的電子郵件警報偏好設定 {#seo-set-your-email-alert-preferences}
+# SEO —— 設定電子郵件警報首選項{#seo-set-your-email-alert-preferences}
 
 您可以自訂您的電子郵件偏好設定，以決定何時會更新您的SEO工作。
 
-1. 在頂端導覽列中，按一下您的使用者名稱。 按一下「 **電子郵件偏好設定**」。
+1. 在頂端導覽列中，按一下您的使用者名稱。 按一下&#x200B;**電子郵件首選項**。
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
