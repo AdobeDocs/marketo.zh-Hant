@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在LinkedIn上建立相符的對象 {#create-a-matched-audience-on-linkedin}
+# 在LinkedIn {#create-a-matched-audience-on-linkedin}上建立相符的對象
 
 從您的ABM帳戶清單中建立符合的LinkedIn廣告定位受眾。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[將LinkedIn符合的觀眾新增為LaunchPoint服務](http://docs.marketo.com/x/I4Fy)
 
-1. 在ABM中，按一下「帳戶 **清單** 」頁籤。
+1. 在ABM中，按一下&#x200B;**帳戶清單**&#x200B;頁籤。
 
    ![](assets/one-1.png)
 
@@ -27,23 +27,23 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 按一下「 **帳戶清單動作** 」下拉式清單，然後選 **取「透過AdBridge傳送」**。
+1. 按一下「**帳戶清單動作**」下拉式清單，然後選取「透過AdBridge **傳送」。**
 
    ![](assets/three-1.png)
 
-1. 選擇 **LinkedIn** ，然後按一 **下Next**。
+1. 選擇&#x200B;**LinkedIn**，然後按一下&#x200B;**Next**。
 
    ![](assets/four-1.png)
 
-1. 按一下 **「對象** 」下拉式清單。 您可以選取現有的對象或建立新的對象。 在此範例中，我們將建立新對象（如果您選取現有對象，請跳至步驟7）。
+1. 按一下「**對象**」下拉式清單。 您可以選取現有的對象或建立新的對象。 在此範例中，我們將建立新對象（如果您選取現有對象，請跳至步驟7）。
 
    ![](assets/five-1.png)
 
-1. 按一下「 **廣告帳戶** 」下拉式清單，然後選取目標廣告帳戶。
+1. 按一下「**廣告帳戶**」下拉式清單，然後選取目標廣告帳戶。
 
    ![](assets/six-1.png)
 
-1. 命名您的觀眾，然後按一下「 **更新**」。
+1. 為觀眾命名，然後按一下&#x200B;**Update**。
 
    ![](assets/seven.png)
 
