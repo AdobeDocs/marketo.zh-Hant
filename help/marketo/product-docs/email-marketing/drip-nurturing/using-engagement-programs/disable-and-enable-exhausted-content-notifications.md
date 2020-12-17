@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 停用並啟用用完的內容通知 {#disable-and-enable-exhausted-content-notifications}
+# 停用並啟用用完的內容通知{#disable-and-enable-exhausted-content-notifications}
 
 當人們用盡串流中的所有內容時，Marketo可以傳送通知給您。 您可以根據需要停用／啟用通知。 這是方法。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 選擇參與程式，然後按一下「設 **置** 」頁籤。
+1. 選擇參與程式並按一下&#x200B;**Setup**&#x200B;頁籤。
 
    ![](assets/setuptab.jpg)
 
-1. 連按兩下「用完 **的內容通知」**。
+1. 連按兩下&#x200B;**用完的內容通知**。
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. 選擇**Off **(或 **On**)，然後按一下 **保存**。
+1. 選擇**Off **（或&#x200B;**On**），然後按一下&#x200B;**Save**。
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 
