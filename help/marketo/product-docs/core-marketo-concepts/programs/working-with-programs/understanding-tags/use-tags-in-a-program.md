@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 在程式中使用標籤 {#use-tags-in-a-program}
+# 在程式{#use-tags-in-a-program}中使用標籤
 
 標籤是描述程式的屬性，用於在報告中對程式類型進行分組。
 
-## 在程式中使用標籤 {#use-a-tag-in-a-program}
+## 在程式{#use-a-tag-in-a-program}中使用標籤
 
-1. 選擇您的方案。 按一 **下設定**。
+1. 選擇您的方案。 按一下&#x200B;**Setup**。
 
    ![](assets/image2014-9-23-15-3a45-3a0.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a45-3a30.png)
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-23-15-3a45-3a36.png)
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a45-3a47.png)
 
-## 編輯標籤 {#edit-a-tag}
+## 編輯標籤{#edit-a-tag}
 
-1. 前往「設 **定** 」標籤。 以滑鼠右鍵按一下標籤。 選擇 **編輯**。
+1. 轉到&#x200B;**Setup**&#x200B;頁籤。 以滑鼠右鍵按一下標籤。 選擇&#x200B;**編輯**。
 
    ![](assets/image2014-9-23-15-3a45-3a53.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a46-3a12.png)
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-23-15-3a46-3a25.png)
 
@@ -55,9 +55,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a46-3a35.png)
 
-## 刪除標籤  {#delete-a-tag}
+## 刪除標籤{#delete-a-tag}
 
-1. 前往「設 **定** 」標籤。 按一下右鍵標籤並選擇「刪 **除」**。
+1. 轉到&#x200B;**Setup**&#x200B;頁籤。 按一下右鍵標籤，然後選擇&#x200B;**Delete**。
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
