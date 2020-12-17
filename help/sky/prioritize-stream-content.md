@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-1.png)
 
-1. 按一下標 **[!UICONTROL Streams]** 簽。
+1. 按一下&#x200B;**[!UICONTROL Streams]**&#x200B;頁籤。
 
    ![影像2](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-2.png)
 
