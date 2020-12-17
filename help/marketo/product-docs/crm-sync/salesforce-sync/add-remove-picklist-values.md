@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# 添加／刪除選擇清單值 {#add-remove-picklist-values}
+# 添加／刪除選擇清單值{#add-remove-picklist-values}
 
 以下是在Salesforce中新增和移除挑選清單值的一些相關資訊。
 
-## 添加選擇清單值 {#adding-picklist-values}
+## 添加選擇清單值{#adding-picklist-values}
 
-1. 如果Salesforce中有額外值新增至挑選清單欄位類型，您會收到通知 [](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) ，指出這會影響哪些表單。
+1. 如果Salesforce中有附加值新增至挑選清單欄位類型，您會收到[通知](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)，指出這會影響哪些表單。
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. 前往表單編輯器，並 [將其他值新增至您的建議清單](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) 。
+1. 前往表單編輯器，並將[附加值](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)新增至建議清單。
 
-## 刪除選擇清單值 {#remove-picklist-values}
+## 刪除選擇清單值{#remove-picklist-values}
 
 從Salesforce的欄位移除選取清單值時，您必須從托管此欄位的所有表單中手動移除此值。
 
 >[!NOTE]
 >
->如果Salesforce中的銷售機會欄位和連絡人欄位有不同的值，Marketo中將可使用常用的值。
+>如果Salesforce中的銷售機會欄位和連絡人欄位有不同的值，Marketo中將可使用通用值。
 
 如果Salesforce中的銷售機會欄位和連絡人欄位有不同的值：
 
