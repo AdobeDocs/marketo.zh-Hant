@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 請參閱參與計畫的會員 {#see-members-of-an-engagement-program}
+# 請參閱參與計畫的成員{#see-members-of-an-engagement-program}
 
 您可以快速查看參與計畫的成員。 這是方法。
 
-1. 在您的參與計畫中，按一下滑鼠右鍵並選取「檢 **視成員」。**
+1. 在您的參與計畫中，按一下右鍵並選擇「查看成員」。****
 
    ![](assets/membersofengagement.jpg)
 
    >[!NOTE]
    >
-   >「用 [盡的內容](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) 」欄值會在每次轉換後更新。
+   >每次轉換後，會更新[耗盡內容](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)欄值。
 
 1. 您現在可以看到您方案的所有成員。
 
