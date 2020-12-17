@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 瞭解Analytics卡片 {#understanding-analytics-cards}
+# 瞭解Analytics卡片{#understanding-analytics-cards}
 
 在每個月初，Marketo Monts會提供3種不同的報表卡：已獲取的銷售線索、新銷售線索和取消訂閱。 每張圖顯示您每月的績效和6個月期間的趨勢。
 
-## Analytics卡片 {#analytics-cards}
+## Analytics卡片{#analytics-cards}
 
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/OA5yfBkaNck" frameborder="0" allowfullscreen></iframe>` 當您點選Analytics卡片時，可以：
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 在此範例中，紅色表示值在所選日期範圍（嗯！）內已減少。 綠色表示值已增加(yay!)。
 
-## 獲得的銷售線索 {#acquired-leads}
+## 獲取的銷售線索{#acquired-leads}
 
 **Acquired Leads **卡顯示新銷售機會數量的逐月趨勢報表。
 
@@ -45,15 +45,15 @@ ht-degree: 0%
 
 ![](assets/image2015-6-30-14-3a31-3a40.png)
 
-## 新銷售線索 {#new-leads}
+## 新銷售線索{#new-leads}
 
-「 **新銷售機會** 」卡顯示過去六個月您實例中新銷售機會總數的逐月趨勢報表。
+**新銷售機會**&#x200B;卡顯示您實例中過去六個月內新銷售機會總數的逐月趨勢報表。
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## 取消訂閱 {#unsubscribes}
+## 取消訂閱{#unsubscribes}
 
-「取 **消訂閱** 」資訊卡會顯示您過去六個月中取消訂閱率的逐月趨勢報表。
+**取消訂閱**&#x200B;卡片顯示您過去六個月中取消訂閱率的月相關趨勢報表。
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
