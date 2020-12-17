@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >僅在與Salesforce整合時提供。
 
-## 概觀 {#overview}
+## 概述{#overview}
 
 此流程步驟會將行銷人員建立的人員插入您的Salesforce CRM。
 
 ![](assets/sync-person-to-sfdc.png)
 
-## 使用狀況 {#usage}
+## 用法{#usage}
 
 1. 依預設，此流程步驟會根據Salesforce自動指派規則指派給銷售線索擁有者。
 
