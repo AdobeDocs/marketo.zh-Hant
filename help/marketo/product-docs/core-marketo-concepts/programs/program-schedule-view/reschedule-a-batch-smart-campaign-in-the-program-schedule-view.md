@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在「方案計畫視圖」中重新計畫批智慧型促銷活動 {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
+# 在方案計畫視圖{#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}中重新計畫批智慧型促銷活動
 
 想要重新計畫批次智慧型促銷活動執行？ 在方案排程檢視中，將它們拖放至未來。
 
@@ -19,9 +19,9 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-12-3a8-3a28.png)
 
-1. 拖放至您要執行促銷活動的新日期。 ![](assets/image2015-5-19-12-3a12-3a1.png)
+1. 拖放至您要執行促銷活動的新日期。![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. 太好了！ 智慧型促銷活動已重新排程。 時間也可從項目詳細資 **訊中** 「日期」下拉式清單變更。
+1. 太好了！ 智慧型促銷活動已重新排程。 時間也可從條目詳細資訊中的&#x200B;**Date**&#x200B;下拉清單進行更改。
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
