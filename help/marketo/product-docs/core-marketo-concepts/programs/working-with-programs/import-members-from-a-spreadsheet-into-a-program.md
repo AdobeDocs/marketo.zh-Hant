@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 從試算表將成員匯入方案 {#import-members-from-a-spreadsheet-into-a-program}
+# 從試算表將成員導入程式{#import-members-from-a-spreadsheet-into-a-program}
 
 您可以匯入自動成為方案成員的人員清單。 這是該做的。
 
-## 準備CSV檔案 {#prepare-your-csv-file}
+## 準備CSV檔案{#prepare-your-csv-file}
 
 1. 在Excel中建立標準CSV檔案，如下例。
 
@@ -27,31 +27,31 @@ ht-degree: 0%
 
 ## 將您的CSV匯入Marketo {#import-your-csv-into-marketo}
 
-1. 在您的方案中，請轉至「成 **員** 」部分。
+1. 在程式中，轉至&#x200B;**成員**&#x200B;部分。
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. 按一下 **導入成員**。
+1. 按一下&#x200B;**Import Members**。
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. 選取CSV，然後按一 **下Next**。
+1. 選擇CSV並按一下&#x200B;**Next**。
 
    ![](assets/importlist1.png)
 
-1. 將清單中的資料值對應至其對應的行銷人員欄位，然後按一下「下 **一步**」。
+1. 將清單中的資料值對應至其對應的行銷人員欄位，然後按一下「下一步」。****
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >如果有任何欄位您不想匯入，請在「行銷人員欄位」下拉式選單中選取「忽略」( **IGNORE** )。
+   >如果有任何欄位您不想匯入，請在「行銷人員欄位」下拉式選單中選取「忽略&#x200B;****」。
 
-1. 選擇列 **表的成員狀態** 。
+1. 為清單選擇&#x200B;**成員狀態**。
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. 按一 **下匯入**。
+1. 按一下&#x200B;**Import**。
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 
