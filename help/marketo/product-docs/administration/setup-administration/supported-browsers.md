@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 支援的瀏覽器 {#supported-browsers}
+# 支援的瀏覽器{#supported-browsers}
 
 Marketo目前支援下列瀏覽器：
 
@@ -22,4 +22,4 @@ Marketo目前支援下列瀏覽器：
 | [Apple Safari](http://support.apple.com/downloads/#safari) | 最新 |
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) | 最新 |
 
-為獲得最佳體驗，請 **隨時更新您的瀏覽器**!
+為獲得最佳體驗，**讓您的瀏覽器保持更新**!
