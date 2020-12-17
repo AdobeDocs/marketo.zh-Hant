@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 自訂抽獎活動樣式 {#customize-sweepstakes-styles}
+# 自訂抽獎活動樣式{#customize-sweepstakes-styles}
 
-當您建 [立抽獎活動](create-sweepstakes.md)，可自訂其在登陸頁面上的外觀。
+當您[建立抽獎活動](create-sweepstakes.md)時，您可以自訂其在登陸頁面上的外觀。
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 ![](assets/login-marketing-activities-1.png)
 
-1. 選取抽獎活動，然後按一下「 **編輯****草稿**」。
+1. 選擇抽獎活動，然後按一下「編輯」**「編輯」**「草稿」。****
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. 在抽獎活動編輯器中，前往「App **Settings****** > **Appearance****** Stakes」。
+1. 在抽獎活動編輯器中，移至&#x200B;**App****Settings****>****Appearance**。
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -40,13 +40,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   輸入按鈕 **的CSS範例**:
+   **Enter Button**的CSS範例：
    `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>` 輸入按鈕的 **影像範例**:
    `<pre>background:url(http://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
    >
-   >如果您使用的影像上有文字，請記得從上方文字下方的 **Enter** **Button **欄位移除文字。
+   >如果您使用的影像上有文字，請記得從上方「文字」下方的「輸入&#x200B;****按鈕**」欄位移除文字。**
 
 1. 每次進行變更時，結果會顯示在「檢視與編輯」預覽中。
 
@@ -64,5 +64,5 @@ ht-degree: 0%
    >**相關文章**
    >
    >
-   >下一步是將註冊 [和履約電子郵件新增至抽獎活動](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)。
+   >下一步是將[註冊和履約電子郵件新增至您的抽獎活動](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)。
 
