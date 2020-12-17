@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 在程式計畫視圖中編輯條目 {#editing-entries-in-the-program-schedule-view}
+# 編輯程式計畫視圖{#editing-entries-in-the-program-schedule-view}中的條目
 
 您可以在排程檢視中編輯程式的不同元素。
 
-## 編輯條目的名稱 {#edit-an-entrys-name}
+## 編輯條目的名稱{#edit-an-entrys-name}
 
 1. 選擇要編輯的條目。
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. 鍵入新名稱，然後按鍵盤上 **的Enter/Return** ，確認更改。
+1. 鍵入新名稱，然後按鍵盤上的&#x200B;**Enter/Return**&#x200B;確認更改。
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -29,13 +29,13 @@ ht-degree: 0%
 >
 >這只會變更排程檢視中的顯示名稱。 方案中資產的名稱將維持不變。
 
-## 編輯條目的說明 {#edit-an-entrys-description}
+## 編輯條目的說明{#edit-an-entrys-description}
 
 1. 按一下說明圖示。
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. 編輯您的說明。 按一下 **儲存**。
+1. 編輯您的說明。 按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
-## 編輯參加項目的日期 {#edit-an-entrys-date}
+## 編輯條目的日期{#edit-an-entrys-date}
 
 1. 選擇新日期。
 
