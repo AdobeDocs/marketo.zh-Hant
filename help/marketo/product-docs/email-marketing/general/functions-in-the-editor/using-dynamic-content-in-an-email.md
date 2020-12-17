@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在電子郵件中使用動態內容 {#using-dynamic-content-in-an-email}
+# 在電子郵件{#using-dynamic-content-in-an-email}中使用動態內容
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 使用電子郵件中的動態內容傳送潛在客戶的目標資訊。
 
-## 新增區段 {#add-segmentation}
+## 新增區段{#add-segmentation}
 
 1. 前往行銷活動。
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
    ![](assets/1.2.png)
 
-1. 在此範例中，我們讓主旨線變為動態。 按一下「主旨」欄位，然後按一下「 **動態** 」按鈕。
+1. 在此範例中，我們讓主旨線變為動態。 按一下「主旨」欄位，然後按一下「建立動態」按鈕。****
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >您也可以讓電子郵件內的元素變為動態。 若要這麼做，請選取區域，按一下齒輪圖示，然後選取「 **Make Dynamic** 」(或「 [Replace with Snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)，取決於您正在執行的動作)。
+   >您也可以讓電子郵件內的元素變為動態。 若要這麼做，請選取區域，按一下齒輪圖示，然後選取「建立動態」(**Make Dynamic)**（或[Replace with Snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)，視您所執行的動作而定）。
 
    輸入區段名稱，選取它，然後按一下儲存。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/1.5.png)
 
-## 套用動態內容 {#apply-dynamic-content}
+## 套用動態內容{#apply-dynamic-content}
 
 >[!CAUTION]
 >
