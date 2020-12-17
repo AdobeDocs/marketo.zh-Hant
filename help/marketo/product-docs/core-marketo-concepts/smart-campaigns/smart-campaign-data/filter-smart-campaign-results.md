@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 篩選智慧型促銷活動結果 {#filter-smart-campaign-results}
+# 篩選智慧型促銷活動結果{#filter-smart-campaign-results}
 
 >[!PREREQUISITES]
 >
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 篩選智慧型促銷活動結果，以查看對您而言重要的特定活動。
 
-## 依儲存的篩選條件篩選 {#filter-by-saved-filters}
+## 依儲存的篩選{#filter-by-saved-filters}篩選
 
-1. 在智慧型促銷活動 **的「結果** 」索引標籤中，按一下「 **篩選** 」並選取儲存的篩選。
+1. 在智慧型促銷活動&#x200B;**Results**&#x200B;標籤中，按一下&#x200B;**Filter**&#x200B;並選取儲存的篩選。
 
    ![](assets/resultsfilter-hands.png)
 
@@ -33,21 +33,21 @@ ht-degree: 0%
    >
    >依預設，不會套用任何篩選器，結果會顯示所有活動。
 
-## 建立自訂篩選 {#create-a-custom-filter}
+## 建立自訂篩選{#create-a-custom-filter}
 
-1. 按一下「 **篩選** 」，然後 **按「自訂」**。
+1. 按一下「**篩選**」，然後按一下「自訂&#x200B;**」。**
 
    ![](assets/filterscustom-hands.png)
 
-1. 選取您要查看的活動類型，然後按一下「另 **存新檔** 」。
+1. 選擇您要查看的活動類型，然後按一下「另存為」。****
 
    ![](assets/activityfiltersettings-hands.png)
 
    >[!TIP]
    >
-   >按一下「 **套用** 」，直接將自訂篩選套用至結果，而不需儲存。
+   >按一下&#x200B;**Apply**，直接將自訂篩選套用至結果，而不儲存。
 
-1. 輸入篩選器名稱，然後按一下「 **儲存**」。
+1. 輸入篩選器名稱，然後按一下&#x200B;**保存**。
 
    ![](assets/saveasfilter-hands.png)
 
