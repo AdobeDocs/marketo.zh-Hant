@@ -11,35 +11,35 @@ ht-degree: 0%
 ---
 
 
-# 新增工具提示指示至表單欄位 {#add-tooltip-instructions-to-a-form-field}
+# 新增工具提示指示至表單欄位{#add-tooltip-instructions-to-a-form-field}
 
-[提示](add-hint-text-to-a-form-field.md) 和指示可協助人們填寫表格。 以下是如何新增工具提示指示。
+[Hinsin](add-hint-text-to-a-form-field.md) 和說明可協助人們填寫表格。以下是如何新增工具提示指示。
 
 >[!NOTE]
 >
 >**定義**
 >
->「表 **單提示** 」是指當訪客開始在欄位中輸入時，欄位內消失的文字。
+>表單&#x200B;**提示**&#x200B;是訪客開始在欄位中輸入時，欄位內消失的文字。
 >
->「表 **單指示** 」是訪客暫留在欄位上時彈出的小工具提示。
+>表單&#x200B;**說明**&#x200B;是訪客暫留在欄位上時彈出的小工具提示。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-6.png)
 
-1. 選擇表 **單** ，然後按 **一下編輯表單**。
+1. 選擇&#x200B;**form**，然後按一下&#x200B;**編輯表單**。
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. 選擇欄位並輸入 **說明**。
+1. 選擇欄位，然後輸入&#x200B;**說明**。
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. 按一 **下完成**。
+1. 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. 按一 **下「核准並關閉**」。
+1. 按一下「核准並關閉」。****
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >不要忘記核准 [表單變更所建立的著陸頁](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 面草稿。
+   >不要忘記[核准表單變更所建立的著陸頁面草稿](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
@@ -58,5 +58,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->您可以使用表單做很多 [事](http://docs.marketo.com/display/docs/forms)。
+>您對[forms](http://docs.marketo.com/display/docs/forms)有許多功能。
 
