@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 自訂視訊分享流程 {#customize-video-share-flow}
+# 自訂視訊分享流程{#customize-video-share-flow}
 
-當您建 [立視訊分享](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)，可自訂分享提示的出現時間和位置。
+當您[建立視訊共用](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)時，您可以自訂何時及何處出現共用提示。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 選取應用程式，然後按一下「編 **輯草稿」。**
+1. 選取應用程式，然後按一下「編輯草稿」。****
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
-1. 在視訊共用編輯器中，前往「應用程 **式設定** >進 **階選項」。**
+1. 在視訊分享編輯器中，前往「應用程式設定」**>>「進階選項」。******
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
@@ -33,5 +33,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->下一步是設定視 [訊分享後的動作](configure-after-share-prompts.md)。
+>下一步是[設定視訊分享](configure-after-share-prompts.md)後會發生什麼。
 
