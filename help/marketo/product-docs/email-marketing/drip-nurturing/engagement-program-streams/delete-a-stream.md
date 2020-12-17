@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 刪除串流 {#delete-a-stream}
+# 刪除串流{#delete-a-stream}
 
 如果您需要從參與計畫刪除串流，請依照這些快速且簡單的步驟進行。
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a47-3a27.png)
 
-1. 按一下「刪除」以確認 **刪除**。
+1. 按一下&#x200B;**Delete**&#x200B;確認刪除。
 
    ![](assets/image2014-9-15-17-3a47-3a31.png)
 
    >[!NOTE]
    >
-   >如果溪流裡有人，你會被要求先 [移](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) 開。
+   >如果串流中有人，系統會要求您先將他們移出。[](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
 
