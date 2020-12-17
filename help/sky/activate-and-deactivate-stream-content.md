@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-1.png)
 
-1. 按一下標 **[!UICONTROL Streams]** 簽。
+1. 按一下&#x200B;**[!UICONTROL Streams]**&#x200B;頁籤。
 
    ![影像2](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![影像三](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-3.png)
 
-1. 選擇 **[!UICONTROL Activate]**。
+1. 選擇&#x200B;**[!UICONTROL Activate]**。
 
    ![影像4](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-4.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您也可以按一下頂端的齒輪圖示並選取，以啟動串流中的所有內容 **[!UICONTROL Activate All]**。
+>您也可以按一下頂端的齒輪圖示並選取&#x200B;**[!UICONTROL Activate All]**，以啟動串流中的所有內容。
 
 ## 停用串流內容
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    ![影像5](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-5.png)
 
-1. 按一下標 **[!UICONTROL Streams]** 簽。
+1. 按一下&#x200B;**[!UICONTROL Streams]**&#x200B;頁籤。
 
    ![影像6](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-6.png)
 
@@ -54,6 +54,6 @@ ht-degree: 0%
 
    ![影像7](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-7.png)
 
-1. 選擇 **[!UICONTROL Deactivate]**。
+1. 選擇&#x200B;**[!UICONTROL Deactivate]**。
 
    ![影像8](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-8.png)
