@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 編輯您的預設品牌網域 {#edit-your-default-branding-domain}
+# 編輯您的預設品牌網域{#edit-your-default-branding-domain}
 
 編輯預設品牌網域是使用品牌網域的第一步。
 
 >[!PREREQUISITES]
 >
->在Marketo中新增品 [牌網域之前](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) ，請務必在DNS中設定CNAME。
+>在Marketo中新增品牌網域之前，請務必[在DNS中設定CNAME。](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md)
 
-1. 前往「管 **理員** 」並按一 **下「電子郵件**」。
+1. 前往&#x200B;**Admin**，然後按一下&#x200B;**Email**。
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -35,5 +35,5 @@ ht-degree: 0%
 
    ![](assets/edit-branding-domain-hands.png)e
 
-現在，您可以 [新增任何其他品牌網域](add-an-additional-branding-domain.md) 。
+現在，您可以[新增您需要的任何其他品牌網域](add-an-additional-branding-domain.md)。
 
