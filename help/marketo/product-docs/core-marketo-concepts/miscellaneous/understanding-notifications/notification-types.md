@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 通知類型 {#notification-types}
+# 通知類型{#notification-types}
 
 有幾種通知類型。
 
-## 促銷活動失敗  {#campaign-failure}
+## 促銷活動失敗{#campaign-failure}
 
 促銷活動失敗會通知您智慧型促銷活動中的錯誤。
 
-## CRM同步 {#crm-sync}
+## CRM同步{#crm-sync}
 
 CRM同步通知會提醒您CRM同步發現的重大問題，例如權限不正確或同步中斷。
 
@@ -47,7 +47,7 @@ Facebook
 
 閒置觸發器促銷活動清除
 
-停用已觸發的智慧型促銷活動，而不會再收到任何活動。 進一步瞭解自 [動觸發促銷活動清除](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
+停用已觸發的智慧型促銷活動，而不會再收到任何活動。 進一步瞭解[自動觸發促銷活動清除](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
 
 LinkedIn
 
@@ -61,5 +61,5 @@ LinkedIn
 
 >[!NOTE]
 >
->我們的「開發人員檔案」中概述了您可能收到的 [錯誤碼](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)。
+>我們的[開發人員檔案](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)中概述了您可能收到的部分錯誤碼。
 
