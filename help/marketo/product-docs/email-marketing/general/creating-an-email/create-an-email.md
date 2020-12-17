@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 建立電子郵件 {#create-an-email}
+# 建立電子郵件{#create-an-email}
 
 在Marketo中建立電子郵件的主要方式有兩種。 讓我們看看這兩個。
 
-## 在Design Studio中建立電子郵件 {#create-an-email-in-the-design-studio}
+## 在Design Studio中建立電子郵件{#create-an-email-in-the-design-studio}
 
-1. 前往 **Design Studio**。
+1. 前往&#x200B;**Design Studio**。
 
    ![](assets/one-4.png)
 
-1. 按一下「 **新** 」下拉式清單，然後選 **取「新電子郵件」**。
+1. 按一下&#x200B;**新建**&#x200B;下拉式清單並選擇&#x200B;**新建電子郵件**。
 
    ![](assets/two-4.png)
 
@@ -31,17 +31,17 @@ ht-degree: 0%
 
 簡單！ 現在換個角度說……
 
-## 在行銷活動中建立電子郵件 {#create-an-email-in-marketing-activities}
+## 在行銷活動中建立電子郵件{#create-an-email-in-marketing-activities}
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/three-3.png)
 
-1. 選擇要將電子郵件添加到的程式，按一下「 **New** （新建）」下拉式清單並選 **擇「New Local Asset**」。
+1. 選擇要將電子郵件添加到的程式，按一下&#x200B;**新建**&#x200B;下拉式清單並選擇&#x200B;**新建本地資產**。
 
    ![](assets/four-3.png)
 
-1. 按一下「 **電子郵件**」。
+1. 按一下&#x200B;**電子郵件**。
 
    ![](assets/five-2.png)
 
@@ -49,19 +49,19 @@ ht-degree: 0%
 
 您選擇的方法會帶您至範本選擇器。
 
-1. 為您的電子郵件提供名稱，按一下您要使用的範本，然後按一下「建 **立**」。
+1. 為您的電子郵件提供名稱，按一下您要使用的範本，然後按一下「建立&#x200B;**」。**
 
    ![](assets/six-2.png)
 
    >[!NOTE]
    >
-   >您可以從一系列可立即使用的互動式電子郵件範本，或是您儲存的範本中進行選擇，方法是先選取「我的範本」 ****，然後依照相同的步驟進行。
+   >您可以從一系列可立即使用的互動式電子郵件範本中選擇，或是先選擇&#x200B;**我的範本**，然後依照相同的步驟儲存的範本。
 
 1. 輸入主旨行。 右邊有一個計數器，可讓您知道是否在建議的50個字元上限下。
 
    ![](assets/seven-1.png)
 
-   視您選擇的範本而定，您有不同的選項可編輯電子郵件。 如需包含模組的電子郵件，請參 [閱「新增模組至電子郵件」](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)。
+   視您選擇的範本而定，您有不同的選項可編輯電子郵件。 對於包含模組的電子郵件，請查看[將模組添加到您的電子郵件](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)。
 
 您的電子郵件現在已建立，請立即編輯！
 
