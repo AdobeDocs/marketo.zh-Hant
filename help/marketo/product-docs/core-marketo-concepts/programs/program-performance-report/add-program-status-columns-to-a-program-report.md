@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 將程式狀態列添加到程式報表 {#add-program-status-columns-to-a-program-report}
+# 將程式狀態列添加到程式報告{#add-program-status-columns-to-a-program-report}
 
-將程式狀態的統計資料新增至您 [的程式效能報表](create-a-program-performance-report.md)。
+將有關程式狀態的統計資料添加到[程式效能報告](create-a-program-performance-report.md)。
 
 1. 前往行銷活動（或Analytics）。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >若要顯示程式狀態欄，您的報表只能依一個 *渠道篩選* 。
+   >若要顯示程式狀態欄，您的報表只能依&#x200B;*一個*&#x200B;頻道來篩選。
 
 1. 選中「顯示程式狀態列」(Show program status columns)選項。 按一下「套用」。
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您在程式中未看到每個狀態的欄，請確定您已 [選取要在報表中顯示的欄](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 。
+>如果您在程式中未看到每個狀態的欄，請確定您已選取要在報表中顯示[的欄。](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
 
 >[!MORELIKETHIS]
 >
@@ -59,5 +59,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->進一步瞭解基 [本報告](http://docs.marketo.com/display/docs/basic+reporting)。
+>進一步瞭解[基本報告](http://docs.marketo.com/display/docs/basic+reporting)。
 
