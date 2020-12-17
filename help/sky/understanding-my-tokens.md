@@ -14,14 +14,14 @@ ht-degree: 0%
 
 <br> 
 
-我的Token是自訂變數，您可以在程式或促銷活動資料夾中建立和使用。 它們看起來像這樣： `{{_my.Name of Token_}}`
+我的Token是自訂變數，您可以在程式或促銷活動資料夾中建立和使用。 它們看起來像這樣：`{{_my.Name of Token_}}`
 
 ## 範例
 
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
 
-若要存取並建立「我的Token」，請選取您的方案或促銷活動資料夾，然後前往標 [!UICONTROL My Tokens] 簽。 將任何Token拖放至畫布 [!UICONTROL Local Tokens] 上。
+若要存取並建立我的Token，請選取您的程式或促銷活動資料夾，然後前往[!UICONTROL My Tokens]標籤。 將任何Token拖放至您的[!UICONTROL Local Tokens]畫布。
 
 ![影像一](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-1.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 當您建立新的Token時，樹狀結構中的其他物件可參照它。 您可以在樹狀結構的較低層級覆寫全域變數。 Token的建立位置有命名結構，以方便管理。
 
-* **本機Token:** 標籤是直接在該程式或資料夾中建立的。
-* **[覆寫的Token:](/help/sky/override-an-inherited-my-token.md)** 代號是繼承的，但在此程式或資料夾中發生異常。
-* **繼承的Token:** 標籤是在樹狀結構中較高層級的程式或資料夾中建立的。
+* **本機Token:** Token是直接在程式或資料夾中建立。
+* **[已覆寫的Token:](/help/sky/override-an-inherited-my-token.md)** 此Token已繼承，但在此程式或資料夾中發生異常。
+* **繼承的Token:** Token是在較高層級程式或資料夾的樹狀結構中建立。
 
-您可以在方案或促銷活動資料夾 **[!UICONTROL My Tokens]** 的標籤下找到這三種類型。
+您可以在方案或促銷活動資料夾的&#x200B;**[!UICONTROL My Tokens]**&#x200B;標籤下找到這三種類型。
 
 ![影像2](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## 代號使用
 
-選取任何Token，然後按一下右上角的使用圖示，以查看包含該Token的資產清單。
+選取任何Token，然後按一下右上角的使用圖示，即可查看包含該Token的資產清單。
 
 ![影像三](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-3.png)
 
