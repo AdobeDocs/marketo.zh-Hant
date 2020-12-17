@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# 設定串流節奏 {#set-stream-cadence}
+# 設定串流順序{#set-stream-cadence}
 
 您可以視需要，以任何間隔傳送參與內容。 例如：每週一次，或每三個星期二一次。
 
 ## 設定Cadence {#set-cadence}
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 尋找並選取您的參與計畫，按一下**串流**標籤，然後按一下「 **設定串流順序」**。
+1. 尋找並選取您的參與程式，按一下**串流**標籤，然後按一下「設定串流順序」**。**
 
    ![](assets/selectstreamcadence.jpg)
 
-1. 選取要重複出現節奏的頻率。 您可以選擇**每週**或每 **月**。
+1. 選取要重複出現節奏的頻率。 您可以選擇**每週**或&#x200B;**每月**。
 
-## 每週 {#weekly}
+## 每週{#weekly}
 
-1. 選擇 **每週**。
+1. 選擇&#x200B;**每週**。
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
@@ -51,9 +51,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以選擇「重複」，將節奏設定為每天 **運行：每週** /**每：1週** /** **開&#x200B;**始**:所有日子。
+   >您可以選擇&#x200B;**重複：每週** /**每：1週**/******On**:所有日子。
 
-   現在選擇時間。 如果您要使用收件者時區 [](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)（亦即，根據當地時區傳送），請勾選此方塊，然後按一下「儲存」。
+   現在選擇時間。 如果要使用[收件者時區](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)（亦即根據當地時區傳送），請勾選此方塊，然後按一下「儲存」。
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 就這樣！ 如果您想設定月度節目，請繼續閱讀。
 
-## 每月 {#monthly}
+## 每月{#monthly}
 
 1. 選取**每月**以取得重複頻率。
 
@@ -92,7 +92,7 @@ ht-degree: 0%
    >
    >或者，您也可以選擇一週中的某天。
 
-1. 選擇「時 **間** 」，然後單 **擊「保存」**。
+1. 選擇&#x200B;**Time**&#x200B;並按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
