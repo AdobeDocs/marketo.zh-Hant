@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本14-C {#template-c}
+# 模板14-C {#template-c}
 
 [下載範本14-C](http://docs.marketo.com/download/attachments/9437807/template-14c.html?version=1&amp;modificationdate=1438980264000&amp;api=v2)
 
