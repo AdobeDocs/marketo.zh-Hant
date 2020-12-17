@@ -19,7 +19,7 @@ Marketo和Microsoft Dynamics攜手合作。 我們讓您的銷售和行銷資料
 >
 >Marketo目前僅支援與Java 7相容的SSL憑證。
 
-## 同步的運作方式 {#how-sync-works}
+## 同步如何運作{#how-sync-works}
 
 Market每天都會持續同步資料與Microsoft Dynamics。 它是使用背景同步，分批完成，而不是即時完成。
 
@@ -29,7 +29,7 @@ Market每天都會持續同步資料與Microsoft Dynamics。 它是使用背景�
 
 Marketo和Dynamics之間的同步對於潛在客戶和聯繫人是雙向的。 如果您在Marketo或Dynamics中進行變更，您的更新將反映在這兩個系統中。 所有其他欄位（例如帳戶和商機）只會以單一方式同步，從Dynamics到Marketo。
 
-## Marketo和Microsoft Dynamics之間有何同步？ {#what-is-synced-between-marketo-and-microsoft-dynamics}
+## Marketo和Microsoft Dynamics之間有何同步？{#what-is-synced-between-marketo-and-microsoft-dynamics}
 
 * [銷售線索](microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
 * [聯絡人](microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
@@ -41,9 +41,9 @@ Marketo和Dynamics之間的同步對於潛在客戶和聯繫人是雙向的。 �
 
 >[!NOTE]
 >
->您在 [Marketo中為Dynamics輸入的憑證](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) ，用來同步資料。
+>您在Marketo中為Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)輸入的[憑證會用來同步資料。
 
-Dynamics同步有許多細微差別和功能。 查看「 [Microsoft Dynamics Sync Details」(](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)Microsoft動態同步詳細資訊)部分中的詳細資訊。
+Dynamics同步有許多細微差別和功能。 查看[「Microsoft Dynamics Sync Details」部分](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)中的詳細資訊。
 
 >[!CAUTION]
 >
