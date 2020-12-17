@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 導航程式計畫視圖 {#navigating-the-program-schedule-view}
+# 導航程式計畫視圖{#navigating-the-program-schedule-view}
 
 以下是幫助您導覽計畫排程檢視的基本資訊。
 
-## 查找計畫視圖 {#find-the-schedule-view}
+## 查找計畫視圖{#find-the-schedule-view}
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選擇您的方案。 按一下 **「檢視** 」下拉式清單。 選擇 **計畫**。
+1. 選擇您的方案。 按一下&#x200B;**視圖**&#x200B;下拉式清單。 選擇&#x200B;**計畫**。
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -47,13 +47,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a39-3a59.png)
 
-## 在模式之間更改 {#changing-between-modes}
+## 在模式之間更改{#changing-between-modes}
 
-1. 按一 **下「3週** 」或「 **月」** ，將變更顯示畫面上的顯示日期。
+1. 按一下&#x200B;**3週**&#x200B;或&#x200B;**月**&#x200B;將變更顯示畫面上的顯示日期。
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
-## 全螢幕檢視 {#full-screen-view}
+## 全螢幕檢視{#full-screen-view}
 
 1. 您可以按一下右上角的螢幕圖示，以全螢幕模式檢視您的程式排程。
 
