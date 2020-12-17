@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在Marketo中建立自訂欄位 {#create-a-custom-field-in-marketo}
+# 在Marketo {#create-a-custom-field-in-marketo}中建立自訂欄位
 
 如果您需要Market中的新自訂欄位來儲存／擷取資料，請以下說明如何建立資料。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >查看自定義 [欄位類型辭彙表](custom-field-type-glossary.md)。
+   >請參閱[自訂欄位類型辭彙表](custom-field-type-glossary.md)。
 
    ![](assets/image2014-9-24-13-3a47-3a42.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->欄位名稱不能以下列字元開頭： **.&amp; +[]**
+>欄位名稱不能以下列字元開頭：**。&amp; +[]**
 
 ![](assets/image2014-9-24-13-3a48-3a26.png)
 
