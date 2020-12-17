@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 將行銷人員重新導向至著陸頁面至其他頁面 {#redirect-a-marketo-landing-page-to-another-page}
+# 將行銷人員重新導向至「著陸頁面」至另一頁{#redirect-a-marketo-landing-page-to-another-page}
 
 如果您更新頁面的URL，並希望舊URL仍能運作，請嘗試重新導向！ 設定起來很簡單。
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
-1. 在「管 **理員**」下方，按一 **下「著陸****頁面**」。
+1. 在&#x200B;**Admin**&#x200B;下，按一下&#x200B;**Landing** **Pages**。
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. 在「規 **則** 」頁籤下，按一下「新建規則 **」，然** 後按一下「新 **建重**********&#x200B;新導向規則」。
+1. 在&#x200B;**Rules**&#x200B;標籤下，按一下&#x200B;**New**，然後按一下&#x200B;**New****Redirect****Rule**。
 
    ![](assets/two-1.png)
 
-1. 按一下「 **第** 一 **個原始****URL」下拉式清單，然後選取您的Marketo CNAME**[](customize-your-landing-page-urls-with-a-cname.md)縮圖。
+1. 按一下&#x200B;**first****Original****URL**&#x200B;下拉式清單，並選取您的Marketo [CNAME](customize-your-landing-page-urls-with-a-cname.md)。
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
@@ -36,9 +36,9 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >請記住，您只能重新導向以您的Marketo [CNAME開頭的URL](customize-your-landing-page-urls-with-a-cname.md)。
+   >請記住，您只能將以Marketing開頭的URL重新導向至[CNAME](customize-your-landing-page-urls-with-a-cname.md)。
 
-1. 在第二個「原始URL」欄位中，選擇您要重 **新導向的著陸頁面** 。
+1. 在&#x200B;**second Original URL**&#x200B;欄位中，選擇您要重新導向的著陸頁面。
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
@@ -46,17 +46,17 @@ ht-degree: 0%
    >
    >您可以輸入任何URL路徑，即使頁面或目錄不存在亦然。
 
-1. 按一 **下「重** 新導向 **URL** 」下拉式清單，並選取您要將訪客重新導向至的頁面。
+1. 按一下「重新導向&#x200B;******URL**」下拉式清單，並選取您要將訪客重新導向至的頁面。
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 
-1. 按一下 **建立**。
+1. 按一下&#x200B;**建立**。
 
    ![](assets/image2014-9-25-15-3a48-3a5.png)
 
    >[!TIP]
    >
-   >若要重新導向至Marketo以外的網頁，請按一 **下「使用非Marketo登陸頁面」**。
+   >若要重新導向至Marketo以外的網頁，請按一下「使用非Marketo著陸頁面&#x200B;**」。**
 
    >[!NOTE]
    >
