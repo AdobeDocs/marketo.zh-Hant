@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-本機資產是組成您方案的內容。 資產可自訂，讓您建立自動化的行銷計畫。 以下是您可在中建立的大部分本機資產 [!DNL Marketo Sky]。
+本機資產是組成您方案的內容。 資產可自訂，讓您建立自動化的行銷計畫。 以下是您在[!DNL Marketo Sky]中可建立的大部分本機資產。
 
 ![影像一](/help/sky/assets/programs/local-assets-in-a-program/local-assets-in-a-program-1.jpg)
 
