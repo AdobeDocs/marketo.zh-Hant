@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 瞭解電子郵件方案 {#understanding-email-programs}
+# 瞭解電子郵件程式{#understanding-email-programs}
 
 向您的新Marketo朋友問好，電子郵件程式。 在單一位置傳送電子郵件、建立A/B測試並追蹤結果。
 
-## 控制面板 {#control-panel}
+## 控制面板{#control-panel}
 
-四個方塊讓您專注。 **Audience** 定義「誰」, **Email** 提供「什麼」, **Schedule** 定義「何時」, **Approval** 讓它準備就緒。
+四個方塊讓您專注。 **Audience** 定義「who」, **** Emailprovides the &quot;what&quot;,  **** Scheduleledines &quot;when&quot;,  **** Approvalmake it ready to go.
 
 ![](assets/emailprogram.png)
 
-## A/B測試 {#a-b-testing}
+## A/B測試{#a-b-testing}
 
 A/B測試可讓您證明哪些電子郵件最好。
 
@@ -34,7 +34,7 @@ A/B測試可讓您證明哪些電子郵件最好。
 
 ![](assets/abtesthighlight.png)
 
-## 控制面板 {#dashboards}
+## 控制面板{#dashboards}
 
 >[!TIP]
 >
@@ -44,7 +44,7 @@ A/B測試可讓您證明哪些電子郵件最好。
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
 
-## 巢狀 {#nesting}
+## 巢狀{#nesting}
 
 電子郵件程式與其他程式搭配運作良好。
 
@@ -62,9 +62,9 @@ A/B測試可讓您證明哪些電子郵件最好。
 
 >[!NOTE]
 >
->電子郵件程式無法巢狀內嵌 [於參與程式](../../../../getting-started/quick-wins/drip-drip-nurture.md)。 也無法重新傳送，一次只能執行一次測試。
+>電子郵件程式不能嵌套在[參與程式](../../../../getting-started/quick-wins/drip-drip-nurture.md)中。 也無法重新傳送，一次只能執行一次測試。
 
-## 排程設定 {#schedule-settings}
+## 排程設定{#schedule-settings}
 
 既然您瞭解「電子郵件計畫」，請開始使用下列其中一篇相關文章！
 
