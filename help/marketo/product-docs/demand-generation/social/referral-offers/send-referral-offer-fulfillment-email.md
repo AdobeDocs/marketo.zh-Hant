@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 傳送反向連結選件履約電子郵件 {#send-referral-offer-fulfillment-email}
+# 傳送反向連結選件履約電子郵件{#send-referral-offer-fulfillment-email}
 
 使用優惠履約電子郵件，以優惠券和折扣碼獎勵您的客戶。
 
@@ -24,23 +24,23 @@ ht-degree: 0%
 
 
 
-## 設定履約傳送 {#set-up-fulfillment-delivery}
+## 設定履約傳送{#set-up-fulfillment-delivery}
 
-1. 選取反向連結選件。 按一下「 **編輯草稿**」。
+1. 選取反向連結選件。 按一下「編輯草稿&#x200B;**」。**
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. 在「應用 **程式設定**」下，選取「選 **件詳細資訊」。**
+1. 在&#x200B;**App Settings**&#x200B;下，選擇&#x200B;**Offer Details.**
 
    ** ![](assets/image2015-4-23-12-3a53-3a16.png)
 
    **
 
-1. 選擇注 **冊電子郵件**。
+1. 選擇&#x200B;**註冊電子郵件**。
 
    ![](assets/image2015-4-23-12-3a58-3a52.png)
 
-1. 選擇履約 **電子郵件**。
+1. 選擇&#x200B;**履約電子郵件**。
 
    ![](assets/image2015-4-23-13-3a4-3a40.png)
 
@@ -49,23 +49,23 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >進一步瞭解在社 [交促銷中使用電子郵件](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)。
+   >進一步瞭解在社交促銷活動中使用電子郵件[。](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
 
-1. 按一下「 **履約傳送** 」下拉式清單，然後選 **取「自動達成目標」**。
+1. 按一下&#x200B;**Fulfillment Delivery**&#x200B;下拉式清單，然後選擇&#x200B;**auto on goal**。
 
    ![](assets/image2015-4-23-13-3a13-3a33.png)
 
-   「履約電子郵 **件」中選取的訊息** ，會自動傳送給符合目標的人員。
+   在&#x200B;**履約電子郵件**&#x200B;中選取的訊息會自動傳送給達到目標的人。
 
-## 手動傳送 {#manual-send}
+## 手動傳送{#manual-send}
 
 您可以在達成目標後，手動傳送履約電子郵件給人員。
 
-1. 選取反向連結選件，然後按一下「參 **與者** 」標籤。
+1. 選擇轉接選件，然後按一下&#x200B;**參與者**&#x200B;頁籤。
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. 按一下「依**篩選」選項，然後選取「目 **標」**。
+1. 按一下「依**篩選」選項，並選取「**目標**」。
 
    >[!NOTE]
    >
@@ -77,7 +77,7 @@ ht-degree: 0%
 
    ![](assets/2015-04-23-13-08-53.png)
 
-1. 按一下滑鼠右鍵，然後選取「 **傳送履約電子郵件**」。
+1. 按一下右鍵並選擇&#x200B;**發送履約電子郵件**。
 
    ![](assets/2015-04-20-15-54-13.png)
 
