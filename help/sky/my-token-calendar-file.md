@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Token [!UICONTROL Calendar File] 可讓您新增日曆事件(.ics)連結至您的Marketo電子郵件和登陸頁面。 以下說明如何設定方案和促銷活動資料夾。
+[!UICONTROL Calendar File]代號可讓您新增日曆事件(.ics)連結至您的Marketo電子郵件和登陸頁面。 以下說明如何設定方案和促銷活動資料夾。
 
-1. 在程式 [!UICONTROL My Tokens] 或資料夾的標籤中，拖曳Token **[!UICONTROL Calendar File]** 至畫 [!UICONTROL Local Tokens] 布。
+1. 在程式或資料夾的[!UICONTROL My Tokens]標籤中，將&#x200B;**[!UICONTROL Calendar File]**&#x200B;代號拖曳至[!UICONTROL Local Tokens]畫布。
 
    ![影像一](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-1.jpg)
 
@@ -28,6 +28,6 @@ Token [!UICONTROL Calendar File] 可讓您新增日曆事件(.ics)連結至您�
 
    ![影像三](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-3.jpg)
 
-1. 輸入關聯的連結，然後選擇要傳送事件提醒的時間。 您也可以輸入可選說明。 按一 **[!UICONTROL Save]**&#x200B;下。
+1. 輸入關聯的連結，然後選擇要傳送事件提醒的時間。 您也可以輸入可選說明。 按一下&#x200B;**[!UICONTROL Save]**。
 
    ![影像4](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-4.jpg)
