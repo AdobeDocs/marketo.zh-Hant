@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 在表單中定義選項欄位或選取欄位的值 {#define-values-in-a-radio-or-selected-field-in-a-form}
+# 以{#define-values-in-a-radio-or-selected-field-in-a-form}格式定義單選按鈕或選定欄位中的值
 
-將欄位類 [型設定為單選按鈕](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) ，或選擇類型後，您將需要定義用戶可以從中選擇的值。 這是方法。
+在[將欄位類型](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)設定為單選按鈕或選擇類型後，您將需要定義用戶可以選擇的值。 這是方法。
 
-1. 前往「行 **銷****活動」**。
+1. 前往&#x200B;**Marketing** **Activity**。
 
    ![](assets/ma.png)
 
-1. 選擇您的表單，然後按一 **下「編輯****表單**」。
+1. 選擇表單並按一下「編輯」******「表單」**。
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
-1. 選取欄位，然後按一下「 **編輯**」。
+1. 選擇該欄位，然後按一下&#x200B;**編輯**。
 
    ![](assets/image2014-9-15-16-3a29-3a6.png)
 
@@ -43,9 +43,9 @@ ht-degree: 0%
    >**顯示值：** 對訪客顯示的內容。
    >
    >
-   >**儲存值：** Marketo中記錄的內容。
+   >**儲存值：** Marketo中記錄的項目。
 
-1. 視需要新增任意數量的值，然後按一下「 **儲存**」。
+1. 根據需要添加任意數量的值，然後按一下「保存」。****
 
    >[!NOTE]
    >
@@ -55,14 +55,14 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果 **需要** ，按一下高級編輯器以複製／貼上值清單。 它可以節省即時。
+   >如果需要，按一下&#x200B;**高級編輯器**&#x200B;複製／貼上值清單。 它可以節省即時。
 
-1. 按一 **下完成**。
+1. 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. 按一 **下「核准並關閉**」。
+1. 按一下「核准並關閉」。****
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-超級工作！ 你做得很好。 進一步瞭解 [表格](http://docs.marketo.com/display/docs/forms)。
+超級工作！ 你做得很好。 進一步瞭解[forms](http://docs.marketo.com/display/docs/forms)。
