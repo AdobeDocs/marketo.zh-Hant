@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 將GoTo網路研討會新增為LaunchPoint服務 {#add-gotowebinar-as-a-launchpoint-service}
+# 將GoToWebar新增為LaunchPoint服務{#add-gotowebinar-as-a-launchpoint-service}
 
 Market來管理您的GoTo網路研討會註冊和出席情況。
 
@@ -29,11 +29,11 @@ Market來管理您的GoTo網路研討會註冊和出席情況。
 >
 >目前不支援GoToMeeting、GoToWebcast和GoToTraining。
 
-1. 前往「管 **理員** 」並選 **取LaunchPoint**。
+1. 前往&#x200B;**Admin**&#x200B;並選取&#x200B;**LaunchPoint**。
 
    ![](assets/image2015-4-22-15-3a33-3a47.png)
 
-1. 選擇 **新建** 和 **新服務**。
+1. 選擇&#x200B;**新建**&#x200B;和&#x200B;**新建服務**。
 
    ![](assets/new-service-gotowebinar.png)
 
@@ -41,23 +41,23 @@ Market來管理您的GoTo網路研討會註冊和出席情況。
 
    ![](assets/new-service-goto-webinar1.png)
 
-1. 接著，按一 **下「登入****網路研討會**」。
+1. 接著，按一下「登入&#x200B;**** **GoToWebinar**」。
 
    ![](assets/image2015-4-22-15-3a57-3a59.png)
 
    >[!NOTE]
    >
-   >如果您想將公司名稱和職稱從行銷表單同步至GoTo網路研討會，請選取「啟用其 **他欄位** 」方塊。
+   >如果您要將行銷人員的公司名稱和職稱同步至GoTo網路研討會，請選取「啟用其他欄位&#x200B;**」方塊。**
 
-1. 在「GoTo網路研討會登入」快顯視窗中，輸入您的 **GoTo網路研討會電子郵件和密碼，然後按一** 下登入 ****。
+1. 在「GoToWebinar登入」快顯視窗中，輸入您的&#x200B;**GoToWebinar**&#x200B;電子郵件和密碼，然後按一下「登入」**。**
 
    ![](assets/image2015-4-22-15-3a52-3a31.png)
 
-1. 窗口關閉後，按一下「 **Create（建立）**」。
+1. 關閉窗口後，按一下&#x200B;**建立**。
 
    ![](assets/image2015-4-22-15-3a57-3a43.png)
 
-1. 太好了！ 您的 **GoTo網路研討會帳戶** ，現在已與Marketo同步。
+1. 太好了！ 您的&#x200B;**GoToWebinar**&#x200B;帳戶現在會與Marketo同步。
 
    ![](assets/goto-webinar.png)
 
@@ -67,5 +67,5 @@ Market來管理您的GoTo網路研討會註冊和出席情況。
 
 >[!MORELIKETHIS]
 >
->瞭解如何使 [用GotoWebinar建立活動](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)。
+>瞭解如何使用GotoWebanar[建立活動。](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
 
