@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 瞭解工作區和人員分區 {#understanding-workspaces-and-person-partitions}
+# 瞭解工作區和人員分區{#understanding-workspaces-and-person-partitions}
 
-## 工作區 {#workspaces}
+## 工作區{#workspaces}
 
 >[!CAUTION]
 >
->工作區的設定可能很複雜。  聯 [絡Marketo支援](http://support.marketo.com/) ，瞭解他們是否適合您。
+>工作區的設定可能很複雜。  請聯絡[行銷支援](http://support.marketo.com/)，以瞭解他們是否適合您。
 
 工作區是Marketo中個別的區域，可存放程式、登陸頁面、電子郵件等行銷資產。 可供多人使用。 每位使用者都可存取一或多個工作區。
 
@@ -38,9 +38,9 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->瞭解如何建立 [新的工作區](create-a-new-workspace.md)。
+>瞭解如何建立[建立新工作區](create-a-new-workspace.md)。
 
-## 跨工作區共用 {#sharing-across-workspaces}
+## 跨工作區共用{#sharing-across-workspaces}
 
 以下說明如何跨工作區共用資產。 對於您想要分享的任何內容，它都適用；此範例顯示區段。
 
@@ -60,11 +60,11 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 按一下右鍵該資料夾，然後選擇「 **共用資料夾」**。
+1. 按一下右鍵該資料夾並選擇&#x200B;**共用資料夾**。
 
    ![](assets/four.png)
 
-1. 選擇要與共用資料夾的工作區，然後按一下「保 **存」**。 「共用資料夾」對話方塊只會顯示您有權檢視的工作區。
+1. 選擇要與共用資料夾的工作區，然後按一下&#x200B;**保存**。 「共用資料夾」對話方塊只會顯示您有權檢視的工作區。
 
    ![](assets/image2015-5-27-11-3a6-3a40.png)
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 * [細分](share-segmentations-across-workspaces-and-partitions.md)
 * 程式碼片段
 
-## 跨工作區複製 {#cloning-across-workspaces}
+## 跨工作區複製{#cloning-across-workspaces}
 
 對於非範本的資產，最好將它們仿製為程式內的本機資產。  透過適當的存取層級，您可以將這些資產拖放至另一個工作區：
 
@@ -95,7 +95,7 @@ ht-degree: 0%
 >
 >複製具有範本的資產時，這些範本必須與目標工作區共用。
 
-## 將資產移至其他工作區 {#moving-assets-to-other-workspaces}
+## 將資產移至其他工作區{#moving-assets-to-other-workspaces}
 
 若要將資產移至新工作區，請將資產放入檔案夾，然後將檔案夾拖曳至其他工作區。
 
@@ -103,11 +103,11 @@ ht-degree: 0%
 >
 >不能將包含成員的程式從一個工作區移動到另一個工作區。
 
-## 人員分區 {#person-partitions}
+## 人員分區{#person-partitions}
 
-人員分區的作用類似於單獨的資料庫。 每個分區都有自己的人員，他們不執行重複資料消除或與其他分區混用。 如果您認為您有業務使用案例，而且可能需要使用相同電子郵件地址重複記錄，請聯絡行 [銷人員支援](http://support.marketo.com)。
+人員分區的作用類似於單獨的資料庫。 每個分區都有自己的人員，他們不執行重複資料消除或與其他分區混用。 如果您認為您的業務使用案例可能需要使用相同的電子郵件地址重複記錄，請聯絡[行銷人員支援](http://support.marketo.com)。
 
-您可以按照以下配置將人員分 [區指](create-a-new-workspace.md) 派給工作區：
+您可以在以下配置中將人員分區分配給[workspaces](create-a-new-workspace.md):
 
 * 一個工作區到一個人員分區(1:1)
 * 一個工作區到多個人員分區(1:x)
@@ -134,5 +134,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
-> 瞭解如何 [建立人員分區](create-a-person-partition.md)。
+> 瞭解如何[建立人員分區](create-a-person-partition.md)。
 
