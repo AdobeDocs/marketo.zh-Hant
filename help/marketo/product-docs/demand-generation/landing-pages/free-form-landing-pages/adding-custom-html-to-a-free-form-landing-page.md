@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 新增自訂HTML至自由格式著陸頁面 {#adding-custom-html-to-a-free-form-landing-page}
+# 新增自訂HTML至自由格式著陸頁面{#adding-custom-html-to-a-free-form-landing-page}
 
 您可以將自訂指令碼、CSS或其他HTML新增至登陸頁面。
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >Marketo支援未設定來協助疑難排解自訂HTML。 如需HTML協助，請洽詢網頁開發人員。
 
-1. 選取著陸頁面，然後按一下「 **編輯草稿」。**
+1. 選擇您的登陸頁面，然後按一下「編輯草稿」。****
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. 在著陸頁面編輯器中，拖曳 **HTML元素** 。
+1. 在著陸頁面編輯器中，拖曳&#x200B;**HTML**&#x200B;元素。
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. 輸入您的自訂HTML程式碼，然後按一下「 **儲存」。**
+1. 輸入您的自訂HTML程式碼，然後按一下「儲存」。****
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 
