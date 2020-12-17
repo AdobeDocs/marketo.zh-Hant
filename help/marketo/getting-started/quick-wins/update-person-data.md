@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 更新人員資料 {#update-person-data}
+# 更新人員資料{#update-person-data}
 
-## 任務：更新人員的聯絡資訊或其他資料 {#mission-update-a-persons-contact-info-or-other-data}
+## 任務：更新人員的聯絡資訊或其他資料{#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 讓我們想像一下，在您最近的商展上，有人給您提供了額外的聯絡資訊。 以下是如何更新個人資料。
 
-## 尋找您需要更新的人員 {#find-the-person-you-need-to-update}
+## 查找需要更新{#find-the-person-you-need-to-update}的人員
 
 1. 轉至資料庫。
 
@@ -43,9 +43,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >在Marketo中有許多方式可更新人員資料。 請參 [閱匯入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)[和變更資料值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)。
+   >在Marketo中有許多方式可更新人員資料。 請參閱[匯入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)和[變更資料值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)。
 
-## 更新人員資料 {#update-the-person-data}
+## 更新人員資料{#update-the-person-data}
 
 1. 輸入您收到的新資訊，然後關閉標籤。
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 >
 >在您變更資料後，智慧型清單和智慧型促銷活動會立即辨識新資訊。
 
-## 任務完成 {#mission-complete}
+## 任務完成{#mission-complete}
 
 幹得好！ 您已更新個人資料。
 
