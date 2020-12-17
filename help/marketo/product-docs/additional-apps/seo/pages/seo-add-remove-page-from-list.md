@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 從清單新增／移除頁面 {#seo-add-remove-page-from-list}
+# SEO —— 從清單{#seo-add-remove-page-from-list}新增／移除頁面
 
 您想要管理您的頁面嗎？ 您可以輕鬆建立清單。 您可以使用清單來組織頁面或篩選控制面板中的資料。
 
-## 新增頁面至清單 {#add-page-to-a-list}
+## 將頁面新增至清單{#add-page-to-a-list}
 
-1. 前往「頁 **面** 」區段。
+1. 前往&#x200B;**Pages**&#x200B;區段。
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. 將滑鼠指標暫留在您要新增至清單的頁面上。 按一 **下「從清單新增／移除」**。
+1. 將滑鼠指標暫留在您要新增至清單的頁面上。 按一下&#x200B;**ADD/REMOVE FROM LIST**。
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 1. 耶！ 您現在應該會看到您的頁面已新增至清單。
 
-## 從清單中移除頁面 {#remove-page-from-a-list}
+## 從清單{#remove-page-from-a-list}移除頁面
 
 1. 前往「頁面」區段。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. 將滑鼠指標暫留在您要移除的頁面上。 按一 **下「從清單新增／移除」**。
+1. 將滑鼠指標暫留在您要移除的頁面上。 按一下&#x200B;**ADD/REMOVE FROM LIST**。
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
