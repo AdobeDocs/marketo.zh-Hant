@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ## 保存流動操作
 
-1. 在中 [!UICONTROL Marketing Activities]，選取您的智慧型促銷活動（或建立新的促銷活動）。
+1. 在[!UICONTROL Marketing Activities]中，選取您的智慧型促銷活動（或建立新促銷活動）。
 
    ![影像一](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
-1. 設定好智慧型清單後，按一下 **[!UICONTROL Flow]**。
+1. 設定智慧清單後，按一下&#x200B;**[!UICONTROL Flow]**。
 
    ![影像2](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-2.png)
 
@@ -32,11 +32,11 @@ ht-degree: 0%
 
    ![影像4](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. 新增篩選器／觸發器後，按一下下 **[!UICONTROL Smart Campaign Actions]** 拉式清單並選取 **[!UICONTROL Save New Flow]**。
+1. 完成添加過濾器／觸發器後，按一下&#x200B;**[!UICONTROL Smart Campaign Actions]**&#x200B;下拉式清單並選擇&#x200B;**[!UICONTROL Save New Flow]**。
 
    ![影像5](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
-1. 命名流程，然後按一下 **[!UICONTROL Save]**。
+1. 為流程命名，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![影像6](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-6.png)
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 
 ## 使用保存的流動操作
 
-1. 在中 [!UICONTROL Marketing Activities]，選取您的智慧型促銷活動（或建立新的促銷活動）。
+1. 在[!UICONTROL Marketing Activities]中，選取您的智慧型促銷活動（或建立新促銷活動）。
 
    ![影像7](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
-1. 按一 **[!UICONTROL Flow]**&#x200B;下。
+1. 按一下&#x200B;**[!UICONTROL Flow]**。
 
    ![影像8](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
-1. 按一下 **[!UICONTROL Saved Flows]** 下拉式清單。
+1. 按一下&#x200B;**[!UICONTROL Saved Flows]**&#x200B;下拉式清單。
 
    ![影像9](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
 
