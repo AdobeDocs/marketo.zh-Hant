@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在Microsoft中建立任務 {#create-task-in-microsoft}
+# 在Microsoft {#create-task-in-microsoft}中建立任務
 
 身為行銷人員，您有可協助銷售人員完成交易的資訊。 您可以建立工作，讓他們知道應該做什麼，以及何時應該做。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此流量步驟僅在 **智慧型促銷活動中與觸發器搭配使用**，而非篩選器搭配使用時有效。
+>此流程步驟僅在智慧型促銷活動中與觸發器&#x200B;**搭配使用時，才能運作，而非篩選器。**
 
 依預設，流程步驟會如下所示：   ![](assets/msd1.png)
 
@@ -35,5 +35,5 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以在「主 `{{lead.tokens}}`題」和「說明」中使 `{{company.tokens}}`用「主題 `{{campaign.tokens}}` 」和「說 `{{system.tokens}}`********&#x200B;明」。 如需詳 [細資訊，請參閱](http://docs.marketo.com/x/c4AR) 「流程步驟的Token」。
+>您可以在&#x200B;**Subject**&#x200B;和&#x200B;**Description**&#x200B;中使用`{{lead.tokens}}`、`{{company.tokens}}`、`{{campaign.tokens}}`和`{{system.tokens}}`。 如需詳細資訊，請參閱[流程步驟的代號](http://docs.marketo.com/x/c4AR)。
 
