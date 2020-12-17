@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 最佳實務：如何組織您的計畫 {#best-practice-how-to-organize-your-programs}
+# 最佳實務：如何組織程式{#best-practice-how-to-organize-your-programs}
 
 在「行銷活動」中組織樹狀結構以及單一方案的內容有許多方法。 不過，有些方式會更好，而且會協助行銷部門的人員。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >有一天（當你升職了！） 別人會試著理解你的節目。 良好的組織將幫助他們快速提高生產力。
 
-## 資料夾 {#folders}
+## 資料夾{#folders}
 
 在「行銷活動」中，您應使用資料夾來組織方案。 我們建議的結構如下列範例：
 
@@ -28,31 +28,35 @@ ht-degree: 0%
 >**範例**
 >
 >* 有效行銷方案
->
->    * 電子郵件
->    * 事件
->
->        * 即時活動／路演
->        * 商展
->        * 網路研討會
->   * 電子報
->   * 培養
->   * 網頁內容
->   * Web表格
->* 學習
->* 操作
->
->   * 生命週期
->   * 計分
->   * 資料管理
->* 銷售分析
->   * 有趣的時刻
->   * 銷售電子郵件
->   * 要求銷售的促銷活動
->* **封存**
->   * 封存事件
->      * 封存2012
->      * 封存2013
+   >
+   >    
+   * 電子郵件
+   >    * 事件
+
+      >
+      >        
+      * 即時活動／路演
+      >        * 商展
+      >        * 網路研討會
+   >
+   * 電子報
+   * 培養
+   * 網頁內容
+   * Web表格
+* 學習
+* 操作
+
+   * 生命週期
+   * 計分
+   * 資料管理
+* 銷售分析>
+   * 有趣的時刻
+   * 銷售電子郵件
+   * 要求銷售的促銷活動
+* **封存** >
+   * 封存事件>
+      * 封存2012
+      * 封存2013
 
 
 
@@ -64,15 +68,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->「封存」檔案夾是一種特殊類型的檔案夾，旨在從選取清單和報表中移除項目。 這可協助您的系統更快速地執行。 進一步 [瞭解資料夾](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)。
+>「封存」檔案夾是一種特殊類型的檔案夾，旨在從選取清單和報表中移除項目。 這可協助您的系統更快速地執行。 瞭解[有關資料夾](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)的更多資訊。
 
 您可以視需要新增更多資料夾。 請記住，您公司的未來幾代行銷人員將接受您關於如何命名／組織事物的決策。
 
-## 命名方案 {#naming-schemes}
+## 命名方案{#naming-schemes}
 
-命名很重要，因為Marketo的功能都使用通用語言來溝通。 對於程式，您應為其命名為唯一。 **沒有兩個程式可以具有相同的名稱**。 最佳實務是使用下列格式：
+命名很重要，因為Marketo的功能都使用通用語言來溝通。 對於程式，您應為其命名為唯一。 **沒有兩個程式可以具有相同的名稱**。最佳實務是使用下列格式：
 
-[Program Type] YYYY [-]MM[-]Optional Dd[][Brief Description的縮寫]
+[Program ] [TypeYYYY]-[MM]-Optional [DDBrief Description的縮] [寫]
 
 >[!NOTE]
 >
@@ -88,11 +92,11 @@ ht-degree: 0%
 
 
 
-方案名稱在您的訂閱中必須是唯一的，即使在不同的工作區 [也一樣](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。  對於程式內的本機資產，規則是 **讓名稱簡單**。 請將邀請命名為「邀請」，而非「2015年6月網路研討會邀請」。 由於這些程式位於程式中，因此在選擇其他位置時，父程式會自動成為名稱的一部分。 換言之，本機資產在程式中只需要是獨一無二的。 您可以有數百個名為「邀請」的資產，每個資產都在不同的程式中，這不會讓您感到不安。
+方案名稱在您的訂閱中必須是唯一的，即使在不同的[工作區](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)中亦然。  對於程式內的本機資產，規則是&#x200B;**保留名稱simple**。 請將邀請命名為「邀請」，而非「2015年6月網路研討會邀請」。 由於這些程式位於程式中，因此在選擇其他位置時，父程式會自動成為名稱的一部分。 換言之，本機資產在程式中只需要是獨一無二的。 您可以有數百個名為「邀請」的資產，每個資產都在不同的程式中，這不會讓您感到不安。
 
 ## Token {#tokens}
 
-Token會使用資料夾和程式作為工具，來設定要用於登陸頁面、電子郵件和其他資產的變數。 瞭解 [Token的相關資訊](http://docs.marketo.com/display/docs/tokens)。
+Token會使用資料夾和程式作為工具，來設定要用於登陸頁面、電子郵件和其他資產的變數。 瞭解[所有有關Token](http://docs.marketo.com/display/docs/tokens)的資訊。
 
 上述組織可讓您將Token放入「事件」檔案夾，以便將其級聯至所有事件。
 
@@ -100,29 +104,29 @@ Token會使用資料夾和程式作為工具，來設定要用於登陸頁面、
 >
 >**範例**
 >
->**您的公司地址**。 使用代號，而不是每次都寫。 如此，您就可在單一位置進行更新，而不需建立大量草稿。 然後視需要在較低層資料夾中覆寫Token。
+>**您的公司地址**。使用代號，而不是每次都寫。 如此，您就可在單一位置進行更新，而不需建立大量草稿。 然後視需要在較低層資料夾中覆寫Token。
 
-## 事件 {#events}
+## 事件{#events}
 
 「事件」通常有許多移動部件，包括：邀請函、登陸頁面、表單、社交Widget和智慧型宣傳。 為方便使用而組織這些檔案的最佳實務是在活動階段進行。 以下是資料夾樹應如何尋找事件的範例。
 
 ![](assets/capture.png)
 
-## 參與計畫 {#engagement-programs}
+## 參與計畫{#engagement-programs}
 
-瞭解 [參與計畫](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)。 組織您參與計畫的最佳方式是使用資料夾。 為每個串流建立資料夾，然後將電子郵件或程式放入該資料夾。 當內容過時且您想要移除時，請在每個串流中加入封存檔案夾。
+瞭解[所有有關參與計畫的資訊](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)。 組織您參與計畫的最佳方式是使用資料夾。 為每個串流建立資料夾，然後將電子郵件或程式放入該資料夾。 當內容過時且您想要移除時，請在每個串流中加入封存檔案夾。
 
-## 操作計畫 {#operational-programs}
+## 操作程式{#operational-programs}
 
 這些用於資料清理。 為運行程式的日期提供資料夾，然後歸檔這些資料夾。 通過使程式運行，您可以省去報告，這對此類活動是有益的。
 
-## 巢狀電子郵件程式 {#nesting-email-programs}
+## 嵌套電子郵件程式{#nesting-email-programs}
 
-電子郵件程式是專為您的郵件爆炸工具而設計的。 您可以將它們放入活動或其他方案，以進行促銷、邀請和提醒。 它們提供酷炫的儀表板和其他A/B測試功能。 此外，在節目排程檢視中也可輕 [松操作它們](http://docs.marketo.com/display/docs/program+schedule+view)。
+電子郵件程式是專為您的郵件爆炸工具而設計的。 您可以將它們放入活動或其他方案，以進行促銷、邀請和提醒。 它們提供酷炫的儀表板和其他A/B測試功能。 此外，在[程式計畫視圖](http://docs.marketo.com/display/docs/program+schedule+view)中，它們易於操作。
 
 您也可以將電子郵件方案製作為獨立的方案。 其他電子郵件程式不允許使用電子郵件程式。 太瘋狂了！
 
-## 克隆 {#cloning}
+## 克隆{#cloning}
 
 Marketo最酷的功能之一，就是能夠復製程式。 這表示您可以設定程式「範本」，其中包含您想要的所有智慧型促銷活動和電子郵件。 事先設定，然後複製以供您下次的行銷計畫使用。
 
@@ -132,6 +136,6 @@ Marketo最酷的功能之一，就是能夠復製程式。 這表示您可以設
 
 有些人甚至會將電子郵件和登陸頁面中的大部分文字抽象為Token。 這可讓您複製並編輯Token。 最後，請移至計畫排程檢視並調整日期，您就完成。 瞧！
 
-## 摘要 {#summary}
+## 摘要{#summary}
 
-如你所見，Marketo公司的權力很大。 我們在這裡介紹了基本概念，但請考慮 [從Marketo Experts提供的一些其他服務](http://www.marketo.com/services/) ，以便調整並為您做好成功的準備。
+如你所見，Marketo公司的權力很大。 我們在這裡介紹了基本概念，但請考慮Marketo Experts的某些[附加服務，以便進行微調並為成功做好準備。](http://www.marketo.com/services/)
