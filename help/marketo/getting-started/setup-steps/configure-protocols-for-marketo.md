@@ -11,7 +11,7 @@ ht-degree: 1%
 ---
 
 
-# 設定Marketo的通訊協定 {#configure-protocols-for-marketo}
+# 設定Marketo {#configure-protocols-for-marketo}的通訊協定
 
 您的行銷群組使用Market來建立品牌化的促銷活動登陸頁面和電子郵件。 為確保這些登陸頁面和電子郵件能正常運作，他們需要IT的協助。 請設定下列通訊協定，以及行銷群組應以電子郵件寄送給您的資訊。
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 
 * `*.mktoweb.com`
 
-## 步驟1:建立著陸頁面和電子郵件的DNS記錄 {#step-create-dns-records-for-landing-pages-and-email}
+## 步驟1:建立著陸頁面的DNS記錄並以電子郵件傳送{#step-create-dns-records-for-landing-pages-and-email}
 
 **追蹤連結CNAME**
 
@@ -35,16 +35,16 @@ ht-degree: 1%
 
 `1` **新增著陸頁面的CNAME**
 
-新增他們傳送您至DNS記錄的著陸頁面CNAME, `[YourLandingPageCNAME]` 以指向指派給您Marketo著陸頁面的唯一帳戶字串。 登入您的網域註冊機構網站，並輸入登陸頁面CNAME和帳戶字串。 通常，這涉及三個欄位：
+新增著陸頁面CNAME，讓他們將您傳送至您的DNS記錄，如此`[YourLandingPageCNAME]`便會指向指派給您Marketo著陸頁面的唯一帳戶字串。 登入您的網域註冊機構網站，並輸入登陸頁面CNAME和帳戶字串。 通常，這涉及三個欄位：
 
-* 別名：輸入 `[YourLandingPageCNAME]` （由行銷提供）
+* 別名：輸入`[YourLandingPageCNAME]`（由行銷部門提供）
 * 類型：CNAME
-* 指向：輸入 `[MarketoAccountString].mktoweb.com` （由行銷提供）
+* 指向：輸入`[MarketoAccountString].mktoweb.com`（由行銷部門提供）
 
 `2` **新增電子郵件追蹤連結的CNAME**
 
-新增您寄送的電子郵件CNAME行銷，以 `[YourEmailCNAME]` 指向 [MktoTrackingLink]（Marketto指派的預設追蹤連結）格式：\
-`[YourEmailCNAME].[YourDomain].com` 在CNAME中 `[MktoTrackingLink]`
+新增您寄送的電子郵件CNAME行銷，讓`[YourEmailCNAME]`指向[MktoTrackingLink]，此為Marketto指派的預設追蹤連結，格式為：\
+`[YourEmailCNAME].[YourDomain].com` 在CNAME中  `[MktoTrackingLink]`
 
 例如：
 
@@ -54,7 +54,7 @@ ht-degree: 1%
 
 當您完成此程式時，通知您的行銷團隊。
 
-## 步驟2:允許Marketto IPs {#step-allowlist-marketo-ips}
+## 步驟2:允許Marketo IPs {#step-allowlist-marketo-ips}
 
 當您的行銷群組使用Market來傳送測試電子郵件（在發送電子郵件爆炸之前的最佳做法）時，測試電子郵件有時會被反垃圾郵件系統封鎖，這些系統依賴傳送者IP位址來驗證電子郵件是否有效。 為確保這些測試電子郵件送達，請將Marketo新增至您的允許清單。
 
@@ -73,7 +73,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Postini採用獨特的技術，需要允許IP範圍。 請參 [閱使用Postini](https://nation.marketo.com/docs/DOC-1066)。
+>Postini採用獨特的技術，需要允許IP範圍。 請參閱[允許使用Postini](https://nation.marketo.com/docs/DOC-1066)。
 
 ## 步驟3:設定SPF和DKIM {#step-set-up-spf-and-dkim}
 
@@ -87,7 +87,7 @@ ht-degree: 1%
    如果我們的DNS條目中已有SPF記錄，只需在其中添加以下內容：\
    包括：mktomail.com
 
-   將CompanyDomain取代為您網站的主網域(例如：「`(company.com/)`」)和CorpIP，以及您公司電子郵件伺服器的IP位址(例如 &quot;255.255.255.255&quot;). 如果您要透過Marketo從多個網域傳送電子郵件，您的IT人員應為每個網域（在一行）新增此行。
+   將CompanyDomain取代為您網站的主網域(例如：&quot;`(company.com/)`&quot;)和CorpIP，以及您公司電子郵件伺服器的IP位址(例如 &quot;255.255.255.255&quot;)。 如果您要透過Marketo從多個網域傳送電子郵件，您的IT人員應為每個網域（在一行）新增此行。
 
 1. 對於DKIM，請為每個要設定的域建立DNS資源記錄。 以下是我們將簽署的每個網域的主機記錄和TXT值：
 
@@ -95,8 +95,8 @@ ht-degree: 1%
 
    `[DKIMDomain2]`:主機記錄 `[HostRecord2]` 為，TXT值為 `[TXTValue2]`。
 
-   請依照此處的指示，複製您所設定之每個DKIMDomain的HostRecord和 [TXTValue](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)。 在您的IT人員完成此步驟後，別忘了在「管理員>電子郵件> DKIM」中驗證每個網域。
+   按照[此處](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)的說明，複製您所設定的每個DKIMDomain的HostRecord和TXTValue。 在您的IT人員完成此步驟後，別忘了在「管理員>電子郵件> DKIM」中驗證每個網域。
 
-## 步驟4:為您的網域設定MX記錄 {#step-set-up-mx-records-for-your-domain}
+## 步驟4:為域{#step-set-up-mx-records-for-your-domain}設定MX記錄
 
 MX記錄可讓您接收電子郵件至您要傳送電子郵件的網域，以處理回覆和自動回覆者。 如果您是從公司網域傳送，則可能已設定此設定。 若未設定，您通常可設定它以對應至您公司網域的MX記錄。
