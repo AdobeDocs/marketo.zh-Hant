@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# RCA中的命名帳戶維 {#named-account-dimension-in-rca}
+# RCA {#named-account-dimension-in-rca}中的命名帳戶維
 
 使用「收入週期分析」中ABM特定的「命名帳戶」維度建立以收入為基礎的報表。
 
