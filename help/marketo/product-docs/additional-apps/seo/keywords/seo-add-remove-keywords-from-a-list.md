@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 從清單新增／移除關鍵字 {#seo-add-remove-keywords-from-a-list}
+# SEO —— 從清單{#seo-add-remove-keywords-from-a-list}新增／移除關鍵字
 
 您可以使用清單，讓所有關鍵字保持良好且井然有序。 這可讓尋找特定關鍵字的資料變得像圓形圖一樣簡單。
 
-## 新增至清單 {#add-to-a-list}
+## 添加到清單{#add-to-a-list}
 
-1. 前往「關鍵 **字** 」區段。
+1. 前往&#x200B;**Keywords**&#x200B;區段。
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. 將滑鼠指標暫留在您要新增至清單的關鍵字上。 按一 **下「從清單新增／移除」**。
+1. 將滑鼠指標暫留在您要新增至清單的關鍵字上。 按一下&#x200B;**ADD/REMOVE FROM LIST**。
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -37,15 +37,15 @@ ht-degree: 0%
 
 哇！ 選取您的清單以查看新關鍵字。
 
-## 從清單中移除關鍵字 {#remove-keyword-from-list}
+## 從清單{#remove-keyword-from-list}移除關鍵字
 
 您也可以從清單中移除關鍵字。
 
-1. 前往「關鍵 **字** 」區段。
+1. 前往&#x200B;**Keywords**&#x200B;區段。
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. 將滑鼠指標暫留在您要從清單中移除的關鍵字上。 按一 **下「從清單新增／移除」**。
+1. 將滑鼠指標暫留在您要從清單中移除的關鍵字上。 按一下&#x200B;**ADD/REMOVE FROM LIST**。
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
