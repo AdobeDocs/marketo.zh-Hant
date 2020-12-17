@@ -5,21 +5,21 @@ title: 在智慧型清單中使用不活動篩選
 translation-type: tm+mt
 source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
 
-# 在智慧型清單中使用不活動篩選 {#use-inactivity-filters-in-a-smart-list}
+# 在智慧清單{#use-inactivity-filters-in-a-smart-list}中使用不活動過濾器
 
-你知道你可以在「智慧清單」中尋找沒有 *做任何事* 的人嗎？ 查看這些不活動篩選。
+您是否知道可以在「智慧清單」中尋找&#x200B;*diynd&#39;t*&#x200B;有所作為的人？ 查看這些不活動篩選。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 選擇要編輯的智慧清單，然後按一下「智慧列 **表** 」頁籤。
+1. 選擇要編輯的智慧清單，然後按一下&#x200B;**智慧清單**&#x200B;頁籤。
 
    ![](assets/smartlist-choose.png)
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >「不活動篩選」檔案夾中有 **許多篩選** 。 搜尋「 **否** 」，並查看。
+   >**Inactivity Filters**&#x200B;資料夾中有許多篩選器。 搜索&#x200B;**Not**&#x200B;並將其檢出。
 
-1. 選取 **任何運算** 子。 這會找出所有在過去30天內未瀏覽過任何頁面的人。
+1. 選擇&#x200B;**是any**&#x200B;運算子。 這會找出所有在過去30天內未瀏覽過任何頁面的人。
 
    ![](assets/mysmartlist-people.jpg)
 
