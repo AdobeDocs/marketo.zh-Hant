@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-從方案 [!UICONTROL Setup] 的標籤中，您可以選取渠道、新增標籤和期間成本，以及變更設定。
+從程式的[!UICONTROL Setup]標籤中，您可以選取渠道、新增標籤和期間成本，以及變更設定。
 
 ![影像一](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-1.png)
 
@@ -30,11 +30,11 @@ ht-degree: 0%
 
 ## 新增標籤
 
-1. 在區 [!UICONTROL Tags] 段下，按一下下 **[!UICONTROL Attribute]** 拉式清單並從可用選項中選擇標籤屬性。
+1. 在[!UICONTROL Tags]區段下，按一下&#x200B;**[!UICONTROL Attribute]**&#x200B;下拉式清單，並從可用選項中選擇標籤屬性。
 
    ![影像三](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. 按一 **[!UICONTROL Value]** 下下拉式清單，然後從可用選項中選擇標籤值。 按一 **[!UICONTROL Add]**&#x200B;下。
+1. 按一下&#x200B;**[!UICONTROL Value]**&#x200B;下拉式清單，並從可用選項中選擇標籤值。 按一下&#x200B;**[!UICONTROL Add]**。
 
    ![影像4](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->瞭解如何 [在Marketo Classic中建立程式標籤](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values) ，並在下拉式清單中提供這些標籤選項。
+>瞭解如何在Marketo Classic[中建立程式標籤，並在下拉式清單中提供這些標籤選項。](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values)
 
 ## 添加期間成本
 
-1. 在該部 [!UICONTROL Period Costs] 分下，選擇月份，輸入成本，並添加簡短名稱或說明。 按一 **[!UICONTROL Add]**&#x200B;下。
+1. 在[!UICONTROL Period Costs]區段下，選取月份、輸入成本，並新增簡短名稱或說明。 按一下&#x200B;**[!UICONTROL Add]**。
 
    ![影像6](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
@@ -58,6 +58,6 @@ ht-degree: 0%
 
 ## 變更設定
 
-在區 [!UICONTROL Settings] 段下，您可以選擇要同步至的CRM促銷活動（如果您的訂閱已整合CRM），和／或變更方案的分析行為。
+在[!UICONTROL Settings]區段下，您可以選擇要同步至的CRM促銷活動（如果您的訂閱已整合CRM），和／或變更您方案的分析行為。
 
 ![影像8](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-8.png)
