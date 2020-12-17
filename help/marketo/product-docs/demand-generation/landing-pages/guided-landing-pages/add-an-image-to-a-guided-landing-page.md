@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 新增影像至引導式著陸頁面 {#add-an-image-to-a-guided-landing-page}
+# 新增影像至引導式著陸頁面{#add-an-image-to-a-guided-landing-page}
 
 與自由格式著陸頁面不同，引導式著陸頁面具有預先定義、鎖定的空間，供您新增影像。
 
-1. 選取引導式登陸頁面。 按一下「 **編輯草稿**」。
+1. 選取引導式登陸頁面。 按一下「編輯草稿&#x200B;**」。**
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
-1. 選取您要的影像，然後按一下「 **插入**」。
+1. 選擇所需的影像，然後按一下&#x200B;**插入**。
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >影像的大小取決於範本。 進一步瞭解引 [導式著陸頁面範本](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)。
+   >影像的大小取決於範本。 進一步瞭解[引導式著陸頁面範本](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)。
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
