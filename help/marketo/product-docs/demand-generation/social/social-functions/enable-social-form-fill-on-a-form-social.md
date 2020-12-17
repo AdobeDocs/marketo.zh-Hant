@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在表單上啟用社交表單填寫(Social) {#enable-social-form-fill-on-a-form-social}
+# 在表單上啟用社交表單填寫(Social){#enable-social-form-fill-on-a-form-social}
 
 允許您的訪客使用其社交網路填寫表單。 您會自動獲得額外資料，讓他們獲得更快的體驗。 這是方法。
 
@@ -21,15 +21,15 @@ ht-degree: 0%
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 選取您的表格，然後按一下「 **編輯表格**」。
+1. 選擇表單並按一下「編輯表單」。****
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. 在「表單設定」下，按一下「 **設定」**。
+1. 在「表單設定」下，按一下「設定」****。
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -39,13 +39,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >看看如果人們使 [用社交按鈕](manage-social-profile-data.md) ,Market會擷取哪些資料。
+   >檢視如果人們使用社交按鈕，[資料行銷人員將擷取](manage-social-profile-data.md)的內容。
 
-1. 按一 **下完成**。
+1. 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. 按一 **下「核准並關閉**」。
+1. 按一下「核准並關閉」。****
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
