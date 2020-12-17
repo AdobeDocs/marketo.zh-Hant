@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本1-C {#template-c}
+# 模板1-C {#template-c}
 
 [下載範本1-C](http://docs.marketo.com/download/attachments/7515993/template1-c.html?version=1&amp;modificationdate=1432836776000&amp;api=v2)
 
