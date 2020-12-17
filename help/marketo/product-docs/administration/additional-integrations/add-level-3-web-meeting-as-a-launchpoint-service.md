@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 將第3級Web會議新增為LaunchPoint服務 {#add-level-web-meeting-as-a-launchpoint-service}
+# 將第3級Web會議添加為LaunchPoint服務{#add-level-web-meeting-as-a-launchpoint-service}
 
 Market來管理您的Level 3 Web會議註冊和出席情況。
 
@@ -25,19 +25,19 @@ Market來管理您的Level 3 Web會議註冊和出席情況。
 >
 >此步驟需要現有的第3級Web會議訂閱和管理權限。 手邊有您的存取號碼、存取碼和密碼。
 
-1. 前往「管 **理員** 」並選 **取LaunchPoint**。
+1. 前往&#x200B;**Admin**&#x200B;並選取&#x200B;**LaunchPoint**。
 
    ![](assets/image2015-4-23-10-3a5-3a12.png)
 
-1. 選擇 **新建** ，然後選擇 **新****建服務**。
+1. 選擇&#x200B;**新建**，然後選擇&#x200B;**新建****服務**。
 
    ![](assets/level-3-web-meeting-new-service.png)
 
-1. 輸入顯 **示****名稱**。 在「 **服務**」下，選 **擇「第3級Web會議」**。
+1. 輸入&#x200B;**Display** **Name**。 在&#x200B;**Service**&#x200B;下，選擇&#x200B;**Level 3 Web Meeting**。
 
    ![](assets/new-service-level-3.png)
 
-1. 輸入您的 **存取****編號、**&#x200B;存取Number **、Access Number** 、Access Pass Code，然後 ************&#x200B;按一下Click Acced。
+1. 輸入&#x200B;**Access****Number**、**Access****Code**&#x200B;和&#x200B;**Passcode**，然後按一下&#x200B;**Create**。
 
    ![](assets/image2015-4-23-10-3a10-3a26.png)
 
@@ -47,5 +47,5 @@ Market來管理您的Level 3 Web會議註冊和出席情況。
 
 >[!MORELIKETHIS]
 >
->瞭解如何 [建立具備Level 3 Web會議的活動](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)。
+>瞭解如何使用3級Web Meeting[建立事件。](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
 
