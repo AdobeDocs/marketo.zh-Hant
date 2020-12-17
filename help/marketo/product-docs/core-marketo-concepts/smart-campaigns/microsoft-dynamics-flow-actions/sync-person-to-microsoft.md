@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 將人員同步至Microsoft {#sync-person-to-microsoft}
+# 將人員同步到Microsoft {#sync-person-to-microsoft}
 
 此功能僅適用於整合Marketo與Microsoft Dynamics的使用者。
 
-## 概觀 {#overview}
+## 概述{#overview}
 
 此流程步驟會將行銷人員建立至您的Dynamics CRM。
 
 ![](assets/one.png)
 
-## 使用狀況 {#usage}
+## 用法{#usage}
 
 您可以將Dynamics使用者設為人員擁有者。
 
