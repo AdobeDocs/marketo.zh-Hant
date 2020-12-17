@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 在Microsoft中更改所有者 {#change-owner-in-microsoft}
+# 在Microsoft {#change-owner-in-microsoft}中更改所有者
 
 如果現有人員已分配給所有者，則可以使用此流程步驟將他們重新分配給其他所有者。
 
 >[!NOTE]
 >
->此流量步驟僅在 **智慧型促銷活動中與觸發器搭配使用**，而非篩選器搭配使用時有效。
+>此流程步驟僅在智慧型促銷活動中與觸發器&#x200B;**搭配使用時，才能運作，而非篩選器。**
 
 ![](assets/one-1.png)
 
