@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 瞭解智慧型促銷活動 {#understanding-smart-campaigns}
+# 瞭解智慧型促銷活動{#understanding-smart-campaigns}
 
 ![](assets/image2014-12-24-11-3a37-3a0.png)
 
 如果Marketo是一輛強大的汽車，那麼聰明的宣傳就是真正的引擎。 開始使用很簡單，但幾乎可以做任何您要求的事。
 
-智慧型促銷活動有3個主要區域：「智 [能清單](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)」、「流 [量](http://docs.marketo.com/display/DOCS/Flow+Actions) 」和「 [計畫](using-smart-campaigns/schedule-a-recurring-batch-campaign.md) 」頁籤。
+智慧型促銷活動有3個主要區域：[智慧清單](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)、[流](http://docs.marketo.com/display/DOCS/Flow+Actions)和[調度](using-smart-campaigns/schedule-a-recurring-batch-campaign.md)頁籤。
 
-## 智慧型清單 {#smart-list}
+## 智慧清單{#smart-list}
 
 智慧型清單是您如何定義要透過智慧型促銷活動鎖定的WHO。 它有篩選器和觸發器。
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
 您可以以多種方式結合篩選器，並搭配觸發器使用。 這是一個強大的工具，可以進行實驗。
 
-## 流量 {#flow}
+## 流量{#flow}
 
 流程包括您希望智慧型促銷活動執行的步驟，包括等待步驟和分割選項。
 
-## 排程 {#schedule}
+## 計畫{#schedule}
 
 最後，當您執行智慧型促銷活動時，此功能會加以控制。 您甚至可以設定週期，讓它以重複排程執行。
 
