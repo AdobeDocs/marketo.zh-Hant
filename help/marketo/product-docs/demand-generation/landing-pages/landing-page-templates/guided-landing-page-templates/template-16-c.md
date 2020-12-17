@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本16-C {#template-c}
+# 模板16-C {#template-c}
 
 [下載範本16-C](http://docs.marketo.com/download/attachments/9437840/template-16c.html?version=1&amp;modificationdate=1438980731000&amp;api=v2)
 
