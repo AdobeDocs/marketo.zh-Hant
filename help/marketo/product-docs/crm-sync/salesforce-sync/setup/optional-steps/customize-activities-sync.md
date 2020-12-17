@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# 自訂活動同步 {#customize-activities-sync}
+# 自訂活動同步{#customize-activities-sync}
 
-如果您不使用Sales Insight [](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight),Marketo可針對特定事件建立Salesforce活動歷史記錄。 以下是如何啟用它們。
+如果您未使用[Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight),Marketo可針對特定事件建立Salesforce活動歷史記錄。 以下是如何啟用它們。
 
 1. 前往**管理員。 **
 
    ![](assets/admin.png)
 
-1. 按一 **下Salesforce**，然後按一 **下編輯同步選項**。
+1. 按一下「**Salesforce**」，然後按一下「編輯同步選項&#x200B;**」。**
 
    ![](assets/two-1.png)
 
-1. 勾選您希望Market推送至Salesforce之活動旁的方塊，然後按一下「儲 **存**」。
+1. 勾選您希望Market推送至Salesforce之活動旁的方塊，然後按一下「儲存」****。
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >啟用後，Marketo將推出3個月的活動記錄。 視資料量而定，完 *成此作業可能需要數天*。 在初始「活動」推播期間發生的更新可能會延遲到初始「活動」同步完成後。
+   >啟用後，Marketo將推出3個月的活動記錄。 根據資料量，*完成*&#x200B;可能需要數天。 在初始「活動」推播期間發生的更新可能會延遲到初始「活動」同步完成後。
 
 <table> 
  <colgroup> 
@@ -99,9 +99,9 @@ ht-degree: 0%
 >**提醒**
 >
 >
->「收到銷售電子郵件」不 **表示** 已送達。 透過Sales Insight傳送的電子郵件不會擷取傳送狀態。
+>「收到銷售電子郵件」**not**&#x200B;表示已送達。 透過Sales Insight傳送的電子郵件不會擷取傳送狀態。
 
 >[!TIP]
 >
->如果您想要將更多Marketo資訊匯入Salesforce，請參閱我們的 [Marketo Sales Insight產品](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) 。
+>如果您想要將更多Marketo資訊匯入Salesforce，請查看我們的[ Marketo Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)產品。
 
