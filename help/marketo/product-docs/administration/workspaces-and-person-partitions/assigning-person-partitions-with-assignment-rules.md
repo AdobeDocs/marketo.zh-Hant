@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用分配規則分配人員分區 {#assigning-person-partitions-with-assignment-rules}
+# 使用分配規則{#assigning-person-partitions-with-assignment-rules}分配人員分區
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-10-3a32-3a55.png)
 
-1. 在「**人員分區**」頁籤下，按一下「分配 **規則」**。
+1. 在「**人員分區**」頁籤下，按一下&#x200B;**分配規則**。
 
    ![](assets/two-6.png)
 
