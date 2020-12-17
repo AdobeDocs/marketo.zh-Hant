@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本20-E {#template-e}
+# 模板20-E {#template-e}
 
 [下載範本20-E](http://docs.marketo.com/download/attachments/10092922/template-20e.html?version=1&amp;modificationdate=1441750814000&amp;api=v2)
 
