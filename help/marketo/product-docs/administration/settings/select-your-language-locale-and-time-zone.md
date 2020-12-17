@@ -5,17 +5,17 @@ title: 選擇您的語言、地區和時區
 translation-type: tm+mt
 source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
 
 
-# 選擇您的語言、地區和時區 {#select-your-language-locale-and-time-zone}
+# 選擇您的語言、地區和時區{#select-your-language-locale-and-time-zone}
 
 英語不是你的第一語言嗎？ 別擔心，我們有你。 以下說明如何變更您自己的語言、地區和時區。
 
-## 支援的語言 {#supported-languages}
+## 支援的語言{#supported-languages}
 
 * 英文
 * 法文
@@ -24,7 +24,7 @@ ht-degree: 0%
 * 葡萄牙文
 * 西班牙文
 
-## 變更使用者語言、地區和時區 {#change-user-language-locale-and-time-zone}
+## 更改用戶語言、地區和時區{#change-user-language-locale-and-time-zone}
 
 1. 登入Marketto，並在您的名稱下選取「我的帳戶」。
 
