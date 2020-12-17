@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 帳戶觸發器 {#account-triggers}
+# 帳戶觸發器{#account-triggers}
 
 使用帳戶層級觸發器，跨不同通道（如電子郵件、網頁、廣告）監聽重要帳戶層級行為活動並採取行動。
 
-選取您的智慧型促銷活動，然後按一下 **[!UICONTROL Smart List]**。
+選擇您的智慧型促銷活動，然後按一下&#x200B;**[!UICONTROL Smart List]**。
 
 ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/two-1.png)
 
-將您要的觸發器拖曳至畫布上。 在此範例中，我們使用「新增 _至命名帳戶」_。
+將您要的觸發器拖曳至畫布上。 在此範例中，我們使用&#x200B;_新增至命名帳戶_。
 
 ![](assets/three-1.png)
 
