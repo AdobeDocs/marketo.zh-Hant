@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 建立方案績效報告 {#create-a-program-performance-report}
+# 建立程式效能報告{#create-a-program-performance-report}
 
 透過這份報告，查看您的程式的絕佳統計資料。
 
-1. [在程式中建立報告](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ，並選擇 **「程式性** 能」報告類型 [](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
-1. 按一下「報 **表** 」標籤。
+1. [在程式中建立報表，](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 並選取「 **Program** [Performance」報表類型](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+1. 按一下&#x200B;**Report**&#x200B;頁籤。
 1. 你在那！ 探索您的報告，瞭解您的計畫如何運作。
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->例如，若要尋找「每次成功 *成本」最低的方案*，請對該欄 [上的報表排序](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) ，然後選擇「 **升序排序」**。
+>要查找&#x200B;*Cost per Success*&#x200B;最低的程式，例如，[對該列上的報表](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)排序，然後選擇&#x200B;**Sort Ascending**。
 
 「計畫績效」報表中的列包括：
 
@@ -58,5 +58,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->進一步瞭解基 [本報告](http://docs.marketo.com/display/docs/basic+reporting)。
+>進一步瞭解[基本報告](http://docs.marketo.com/display/docs/basic+reporting)。
 
