@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 將通訊限制套用至智慧型促銷活動 {#apply-communication-limits-to-smart-campaign}
+# 將通訊限制套用至智慧型促銷活動{#apply-communication-limits-to-smart-campaign}
 
 >[!PREREQUISITES]
 >
@@ -41,6 +41,6 @@ ht-degree: 0%
 
 >[!TIP]
 >
->若要將此設為預設值，請在「管理 [員」區段中](../../../../product-docs/administration/email-setup/enable-communication-limits.md) ，編輯您的通訊限制。
+>若要將此設為預設值，請在「管理」區段中編輯您的[通訊限制](../../../../product-docs/administration/email-setup/enable-communication-limits.md)。
 
 真貼心。 現在，您可以放心，不會意外傳送太多電子郵件給您的觀眾。
