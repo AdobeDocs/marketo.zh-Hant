@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 編輯行銷人員著陸頁面範本 {#edit-a-marketo-landing-page-template}
+# 編輯行銷人員著陸頁面範本{#edit-a-marketo-landing-page-template}
 
 您可以編輯Marketo內的任何著陸頁面範本。
 
-1. 前往 **Design Studio**。
+1. 前往&#x200B;**Design Studio**。
 
    ![](assets/designstudio.png)
 
-1. 展開 **著陸頁面** ，以顯示範本。
+1. 展開&#x200B;**著陸頁面**&#x200B;以顯示範本。
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. 選擇 **要編輯** 的模板。 按一下**編輯草稿**。
+1. 選擇要編輯的&#x200B;**Template**。 按一下**編輯草稿**。
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
