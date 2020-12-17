@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 瞭解批次和觸發智慧型促銷活動 {#understanding-batch-and-trigger-smart-campaigns}
+# 瞭解批次和觸發智慧型促銷活動{#understanding-batch-and-trigger-smart-campaigns}
 
 智慧型促銷活動有兩種類型：批次和觸發。
 
-## 批次智慧型促銷活動 {#batch-smart-campaign}
+## 批次智慧型促銷活動{#batch-smart-campaign}
 
 >[!NOTE]
 >
@@ -27,19 +27,19 @@ ht-degree: 0%
 
 ![](assets/batch-filter.png)
 
-按一下「排 **程** 」標籤將確認智慧型促銷活動已設為「批次」。
+按一下&#x200B;**排程**&#x200B;標籤，將確認智慧型促銷活動已設為「批次」。
 
 ![](assets/batch-c4.png)
 
 **批次智慧型促銷活動**
 
 * 可以排程重複的時間，例如每日、每週和每月。 您也可以讓他們只執行一次。
-* 在程式計畫視 [圖中可見](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)。\
+* 在[程式計畫視圖](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)中可見。\
    *請注意，智慧型促銷活動中「等待」步驟後的任何項目都不會包含在檢視中。
 
 <br> 
 
-## 觸發智慧型促銷活動 {#trigger-smart-campaign}
+## 觸發智慧型促銷活動{#trigger-smart-campaign}
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ![](assets/trigger.png)
 
-按一下「 **排程** 」標籤將確認智慧型促銷活動已設為「已觸發」。
+按一下&#x200B;**Schedule**&#x200B;標籤，將確認智慧型促銷活動已設為「Triggered」。
 
 ![](assets/trigger2.png)
 
@@ -60,11 +60,11 @@ ht-degree: 0%
 * 無法排程重複執行。 它們只能設定為活動或非活動。
 * 您可以設定多個觸發器。 不過，如果觸發任何觸發器，促銷活動動作就會執行。
 
-## 觀看有關建立觸發式電子郵件促銷活動的影片 {#watch-a-video-on-creating-triggered-email-campaigns}
+## 觀看建立觸發式電子郵件促銷活動的影片{#watch-a-video-on-creating-triggered-email-campaigns}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/6zNazwTgt2LNeCjPAt3W9K.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
 >[!TIP]
 >
->使用活 [動記錄](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) ，查看智慧型促銷活動中的逐步執行。 您可以在人員詳細資料頁面的最後一個標籤中找到活動記錄檔。
+>使用[活動記錄](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)來查看智慧型促銷活動中的逐步執行。 您可以在人員詳細資料頁面的最後一個標籤中找到活動記錄檔。
 
