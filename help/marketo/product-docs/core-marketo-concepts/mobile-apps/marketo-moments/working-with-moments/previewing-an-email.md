@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 預覽電子郵件 {#previewing-an-email}
+# 預覽電子郵件{#previewing-an-email}
 
 在扣動觸發器之前，以滑鼠右鍵按一下電子郵件卡片以預覽。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-25-11-3a30-3a52.png)
 
-1. 點選「 **預覽電子郵件**」。
+1. 點選&#x200B;**預覽電子郵件**。
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
