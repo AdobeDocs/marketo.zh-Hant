@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 電子郵件連結效能報告 {#email-link-performance-report}
+# 電子郵件連結效能報告{#email-link-performance-report}
 
 建立「電子郵件連結效能」報表，以查看您電子郵件中的連結效能。
 
-1. [在程式中建立報表](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ，並選 **取「電子郵件連結效能** 」作為報表類型。
+1. [在程式中建立報表，](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 並選取「 **電子郵件連** 結效能」作為報表類型。
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
-1. 按一 **下設定**。
+1. 按一下&#x200B;**Setup**。
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
-1. 連按兩下「設 **定」下的** 「活動 **日期」**。
+1. 按兩下&#x200B;**設定**&#x200B;下的&#x200B;**活動日期**。
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
-1. 按一 **下報表**。
+1. 按一下「**報表**」。
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[「電子郵件](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 」「連結效能」報表的可用欄包括：
+[「電](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 子郵件連結效能」報表的可用欄包括：
 
 <table> 
  <thead> 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您想確切知道個人的行為，可以從程式的「成員」頁籤開啟「人員詳細資訊」( [Person Detail](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) )頁面中的「活動日誌」(Activity Log [](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) )。
+>如果您想確切知道個人的行為，可以從程式的「成員」頁籤開啟[「人員詳細資訊」](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)中的「活動日誌」頁。[](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)
 
 >[!MORELIKETHIS]
 >
@@ -89,5 +89,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->進一步瞭解基 [本報告](http://docs.marketo.com/display/docs/basic+reporting)。
+>進一步瞭解[基本報告](http://docs.marketo.com/display/docs/basic+reporting)。
 
