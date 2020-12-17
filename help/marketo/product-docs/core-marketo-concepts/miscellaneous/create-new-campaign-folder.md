@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 建立新的促銷活動資料夾 {#create-new-campaign-folder}
+# 建立新的促銷活動資料夾{#create-new-campaign-folder}
 
 促銷活動資料夾可協助您保持整潔的工作區。 依照這些簡單步驟進行，您就可以邁向自動化魔力。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選擇 **新建**。
+1. 選擇&#x200B;**新建**。
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. 選擇「 **新促銷活動資料夾**」。
+1. 選擇&#x200B;**新促銷活動資料夾**。
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. 輸入促 **銷活動** 資料夾的名稱。
+1. 輸入促銷活動資料夾的&#x200B;**名稱**。
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. 可選：輸入說 **明** ，然後按一下**建立。**
+1. 可選：輸入&#x200B;**Description**，然後按一下** Create。**
 
    >[!TIP]
    >
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   現在， [建立新方案時](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)，您會將此促銷活動資料夾視為選項。
+   現在，當[建立新程式](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)時，您會將此促銷活動資料夾視為選項。
 
 >[!MORELIKETHIS]
 >
