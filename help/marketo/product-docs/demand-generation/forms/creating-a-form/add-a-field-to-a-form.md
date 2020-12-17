@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 新增欄位至表單 {#add-a-field-to-a-form}
+# 將欄位添加到表單{#add-a-field-to-a-form}
 
-在您建立表 [格並選取](create-a-form.md)[主題後](select-a-form-theme.md)，您可能會想要新增其他欄位供人們填寫。 這是方法。
+在[建立表單](create-a-form.md)和[選取主題](select-a-form-theme.md)後，您可能想要新增其他欄位供人員填寫。 這是方法。
 
-1. 前往「行 **銷****活動」**。
+1. 前往&#x200B;**Marketing** **Activity**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 選擇您的表單，然後按一 **下「編輯****表單**」。
+1. 選擇表單並按一下「編輯」******「表單」**。
 
    ![](assets/editform-1.png)
 
-1. 按一下 **+** 號。
+1. 按一下&#x200B;**+**&#x200B;符號。
 
    ![](assets/image2014-9-15-17-18-17.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a18-3a26.png)
 
-1. 新增您所需的欄位，然後按一下「完 **成**」。
+1. 新增您所需的欄位，然後按一下「完成&#x200B;**」。**
 
    ![](assets/image2014-9-15-17-3a18-3a35.png)
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 >
 >請務必核准因表單變更而建立的著陸頁面草稿。
 
-一點也不壞。 繼續做好工作！ 我們要如何學習如何讓下 [一個表格欄位成為必填欄位](make-a-form-field-required.md) ?
+一點也不壞。 繼續做好工作！ 我們要如何學習如何[在下一頁建立必要的表單欄位？](make-a-form-field-required.md)
