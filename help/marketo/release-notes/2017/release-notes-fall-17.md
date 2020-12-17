@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 發行說明：17年秋季 {#release-notes-fall}
+# 發行說明：秋季&#39;17 {#release-notes-fall}
 
 Fall &#39;17發行包含下列功能。 檢查您的Marketo版本，以取得功能。
 
 請按一下標題連結，以檢視每個功能的詳細文章。 注意：此版本包含的部分功能沒有相關文章。 如果主題有多個子標題，則會將連結放在此處。
 
-## 系統可靠性 {#system-reliability}
+## 系統可靠性{#system-reliability}
 
 我們進一步改善核心行銷基礎架構，包括更佳的順序、更少的錯配，以及改善Munchkin穩定性。
 
-## SFDC同步效能 {#sfdc-sync-performance}
+## SFDC同步效能{#sfdc-sync-performance}
 
 運用Marketo和Salesforce之間更豐富、更快速的同步化。 需要大量更新帳戶或銷售機會的資料變更可分割為平行佇列，以避免積壓。 事件和工作現在的同步速度也提高50%。
 
-## Analytics效能改進 {#analytics-performance-improvements}
+## Analytics效能改進{#analytics-performance-improvements}
 
 最近的基礎架構改良可提高行銷人員報告與分析工具的正常運作時間和穩定性，讓您更快速地建立臨機報告。
 
@@ -54,42 +54,42 @@ Marketo在傳送範例電子郵件以供審核時，有新的選項可選擇區�
 * 系統通知：取得Slack通知，告知您Marketo例項中的重要事件，例如有關目前促銷活動狀態的警報以及任何需要立即注意的問題。
 * 有趣的時刻：當銷售帳戶的已知個人觸發Marketo Insight時，銷售線索擁有者可透過Slack收到通知。 通知包括銷售線索資訊和銷售帳戶的詳細資訊。
 
-## ABM增強功能 {#abm-enhancements}
+## ABM增強功能{#abm-enhancements}
 
-**顯 [示無聯繫人的帳戶](https://docs.marketo.com/x/fKCt)**
+** [顯示無聯繫人的帳戶](https://docs.marketo.com/x/fKCt)**
 
 Marketo ABM現在可以同步並顯示CRM帳戶，毋需聯絡人。 納入沒有先前銷售或行銷記錄的新帳戶，並透過將後續銷售機會與帳戶配對來追蹤進度。
 
-## 內`<sup>AI </sup>`容分析 {#contentai-analytics}
+## 內容`<sup>AI </sup>`Analytics {#contentai-analytics}
 
-**新 [的ABM帳戶清單篩選](https://docs.marketo.com/x/1BPG) **
+** [新的ABM帳戶清單篩選器](https://docs.marketo.com/x/1BPG) **
 
-檢視並比較ABM帳戶清單的內容效能，以最佳化現有內容。 內容`<sup>AI</sup>` :
+檢視並比較ABM帳戶清單的內容效能，以最佳化現有內容。 內容`<sup>AI</sup>`顯示：
 
 * 檢視的最高內容
 * 最高轉換內容
 * AI支援的行銷活動建議內容
 
-## 網頁個人化增強功能 {#web-personalization-enhancements}
+## Web個人化增強功能{#web-personalization-enhancements}
 
-**網頁 [促銷活動的Token](https://docs.marketo.com/x/SwJI)**
+** [網頁促銷活動的代號](https://docs.marketo.com/x/SwJI)**
 
 Token現在可用於Web促銷活動。 運用預付碼來傳遞個人化訊息和內容，以提高您網路宣傳的參與度。
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-**在Web Campaign [Editor中設計Studio影像](https://docs.marketo.com/x/SwJI)**
+** [在Web Campaign Editor中設計Studio映像](https://docs.marketo.com/x/SwJI)**
 
 在Marketo內跨多個通道重複使用創意資產和影像，為您節省時間。
 
 ![](assets/image2017-11-16-11-3a26-3a10.png)
 
-## 整合  {#integration}
+## 整合{#integration}
 
-**電子 [郵件預覽API](https://developers.marketo.com/rest-api/assets/emails/)**
+** [電子郵件預覽API](https://developers.marketo.com/rest-api/assets/emails/)**
 
 您現在可以在Marketo之外遠端預覽電子郵件，簡化電子郵件內容本地化流程並減少錯誤。
 
-**取 [代HTML API](https://developers.marketo.com/rest-api/assets/emails/)**
+** [取代HTML API](https://developers.marketo.com/rest-api/assets/emails/)**
 
 開發人員可遠端更新電子郵件資產的HTML內容，讓他們在單一系統中工作以維護資產。
