@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 與收件者時區排程參與計畫 {#schedule-engagement-programs-with-recipient-time-zone}
+# 與收件者時區{#schedule-engagement-programs-with-recipient-time-zone}計畫參與計畫
 
-當您排 [程參與計畫串流](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones) ，而收件者時區處於作用中狀態時，計畫轉播將於第一個時區的午夜(UTC +14:00)開始執行。 我們要求您在未來至少 **安排25小時的首演** ，因為全球每個時區都可能有符合資格的演員。 首次在時區開始處理時，我們保證會在每個收件者的排程日期和時間傳送電子郵件。
+當您[排程參與程式流](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones)且收件者時區處於活動狀態時，程式轉播將在第一個時區的午夜(UTC +14:00)開始運行。 我們要求您在未來至少安排25小時&#x200B;**的首次投影片，因為全球每個時區都可能有人符合投影片資格。**&#x200B;首次在時區開始處理時，我們保證會在每個收件者的排程日期和時間傳送電子郵件。
 
-1. 在您的參與程式中，導覽至「 **串流** 」標籤，然後按一下串流的節目排程以加以編輯。
+1. 在您的參與程式中，導覽至&#x200B;**串流**&#x200B;標籤，然後按一下串流的節目排程以加以編輯。
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [請像平常一樣](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) ，設定節奏設定，然後勾選「**收件者時區」**方塊。 請記住，您的第一部影片未來必須至少25小時。 按一下 **儲存**。
+1. [設定您的](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) 順序設定，以正常方式設定，然後勾選「**收件者時區**」方塊。請記住，您的第一部影片未來必須至少25小時。 按一下&#x200B;**保存**。
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 
