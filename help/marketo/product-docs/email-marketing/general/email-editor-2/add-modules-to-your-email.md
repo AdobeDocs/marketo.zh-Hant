@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 將模組添加到電子郵件 {#add-modules-to-your-email}
+# 將模組添加到電子郵件{#add-modules-to-your-email}
 
 在Email Editor 2.0中，模組是範本中定義的電子郵件區段。 模組可包含元素、變數和其他HTML內容的任何組合。 將它們加入您的電子郵件很簡單。
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >大部份的Marketo Starter範本都包含模組。 您也可以 [自行建立](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules)。
+   >大部份的Marketo Starter範本都包含模組。 您也可以[建立您自己的](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules)。
 
-1. 在電子郵件最右側，按一下「模 **塊」**。
+1. 在電子郵件最右側，按一下&#x200B;**模組**。
 
    ![](assets/two-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/five-3.png)
 
-## 在電子郵件中移動模組 {#moving-a-module-within-an-email}
+## 在電子郵件中移動模組{#moving-a-module-within-an-email}
 
 移動模組有兩種方法。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/nine-2.png)
 
-1. 按一下齒輪表徵圖，然後選 **擇「上移** 」 **或「下移**」，具體取決於模組的所在位置。
+1. 按一下齒輪表徵圖，然後選擇&#x200B;**上移**&#x200B;或&#x200B;**下移**，具體取決於您希望模組移至何處。
 
    ![](assets/ten-2.png)
 
