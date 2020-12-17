@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 啟用審計線索 {#enable-audit-trail}
+# 啟用審核跟蹤{#enable-audit-trail}
 
 稽核記錄可供所有客戶使用，並由兩個管理員權限控制。
 
@@ -19,17 +19,17 @@ ht-degree: 0%
 >
 >依預設，所有系統管理員角色都啟用了這兩個權限。
 
-## 為角色啟用審計線索 {#enable-audit-trail-for-a-role}
+## 啟用角色{#enable-audit-trail-for-a-role}的審計線索
 
-1. 按一 **下管理**。
+1. 按一下&#x200B;**管理**。
 
    ![](assets/one-2.png)
 
-1. 選擇「 **用戶和角色** 」，然後按一下「 **角色」**。
+1. 選擇&#x200B;**Users &amp; Roles** ，然後按一下&#x200B;**Roles**。
 
    ![](assets/two-2.png)
 
-1. 選擇要啟用跟蹤線索的角色，然後按一下編 **輯角色**。
+1. 選擇要啟用跟蹤線索的角色，然後按一下&#x200B;**編輯角色**。
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
    >
    >您也可以在此處選擇建立新角色並授予其「審核線索」訪問權限。
 
-1. 展開「存 **取管理員** 」權限。 根據 **您的需求，選擇「存取稽核記錄** 」和/ **或「存取登入記錄**」。 按一下 **儲存**。
+1. 展開&#x200B;**存取管理員**&#x200B;權限。 根據您的需求，選擇&#x200B;**存取稽核記錄**&#x200B;和／或&#x200B;**存取登入記錄**。 按一下&#x200B;**保存**。
 
    ![](assets/four-1.png)
 
@@ -46,22 +46,22 @@ ht-degree: 0%
    >**定義**
    >
    >
-   >**存取稽核記錄：** 為使用者提供資產稽核記錄和管理稽核記錄的存取權。
+   >**存取稽核記錄：** 讓使用者同時存取資產稽核記錄和管理稽核記錄。
    >
    >
-   >**存取登入記錄：** 為使用者提供使用者登 [入記錄的存取權](user-login-history.md)。
+   >**存取登入記錄：** 讓使用者存取使 [用者登入記錄](user-login-history.md)。
 
-## 將審核跟蹤角色分配給用戶 {#assign-audit-trail-role-to-a-user}
+## 為用戶{#assign-audit-trail-role-to-a-user}分配審計線索角色
 
 >[!PREREQUISITES]
 >
->[建立](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) 或 [啟用](#Enable) 現有角色，賦予其「稽核記錄」權限。
+>[建](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) 立或啟 [](#Enable) 用現有角色，賦予其「稽核記錄」權限。
 
-1. 在「使 **用者與角色**」中，按一 **下「使用者」**。
+1. 在&#x200B;**Users &amp; Roles**&#x200B;中，按一下&#x200B;**Users**。
 
    ![](assets/five-1.png)
 
-1. 選擇要授予審計線索訪問權限的用戶，然後按一下編輯 **用戶**。
+1. 選擇要授予審計線索訪問權限的用戶，然後按一下&#x200B;**編輯用戶**。
 
    ![](assets/six-1.png)
 
@@ -75,9 +75,9 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果已啟用工作區，請務必勾選角色的核取方塊，此核取方塊會選取所有工作區。 取消選取個別工作區將隱藏稽核記錄。 這表示您將會看到每個工作區的稽核記錄資料。 您確實可以在篩選時隱藏工作 [區](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)。
+   >如果已啟用工作區，請務必勾選角色的核取方塊，此核取方塊會選取所有工作區。 取消選取個別工作區將隱藏稽核記錄。 這表示您將會看到每個工作區的稽核記錄資料。 當[filtering](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)時，您可以選擇隱藏工作區。
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/eight-1.png)
 
