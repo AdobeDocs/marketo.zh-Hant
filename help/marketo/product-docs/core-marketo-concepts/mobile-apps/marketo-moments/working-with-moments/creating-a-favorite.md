@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 建立我的最愛 {#creating-a-favorite}
+# 建立收藏夾{#creating-a-favorite}
 
 我最愛的資訊卡，以方便日後參考。
 
