@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 管理用戶角色和權限 {#managing-user-roles-and-permissions}
+# 管理用戶角色和權限{#managing-user-roles-and-permissions}
 
 設定、建立和編輯使用者角色，並指派給使用者。 這可讓您控制每個Marketo使用者可存取的區域和功能。
 
@@ -31,27 +31,27 @@ Marketo提供數個內建角色，其存取權等級不同：
 
 您無法編輯管理員和標準使用者角色，但可以編輯其他角色。 您也可以建立新的自訂角色，以符合您公司中的特定組織結構。
 
-## 將角色分配給用戶 {#assign-roles-to-a-user}
+## 將角色分配給用戶{#assign-roles-to-a-user}
 
-您可以在首次建立使用者時或 [編輯現有使用者時](http://docs.marketo.com/display/DOCS/Create%2C+Delete%2C+Edit+and+Change+a+User+Role) ，將角色 [指派給使用者](managing-marketo-users.md)。
+當[首次建立用戶時，或通過[編輯現有用戶](managing-marketo-users.md)為用戶分配角色。](http://docs.marketo.com/display/DOCS/Create%2C+Delete%2C+Edit+and+Change+a+User+Role)
 
-1. 若要編輯現有使用者，請前往「管理 **員** 」，然後按 **一下「使用者與角色」**。
+1. 要編輯現有用戶，請轉至&#x200B;**Admin**&#x200B;並按一下&#x200B;**Users &amp; Roles**。
 
    ![](assets/image2014-9-9-18-3a7-3a32.png)
 
-1. 從清單中，選擇要編輯的用戶，然後按一下「編輯 **用戶」**。
+1. 從清單中，選擇要編輯的用戶，然後按一下&#x200B;**編輯用戶**。
 
    ![](assets/image2014-9-9-18-3a7-3a42.png)
 
-1. 在「 **角色**」(Roles **)下，根據用戶需要的權限選擇要分配給用戶的角色，然後按一下「**&#x200B;保存」(Save)。
+1. 在&#x200B;**角色**&#x200B;下，根據用戶需要的權限選擇要分配給用戶的角色，然後按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-9-18-3a7-3a57.png)
 
    >[!NOTE]
    >
-   >若要瞭解每個角色，請參 [閱角色權限說明](managing-user-roles-and-permissions/descriptions-of-role-permissions.md)。
+   >要瞭解每個角色，請參閱[角色權限說明](managing-user-roles-and-permissions/descriptions-of-role-permissions.md)。
 
-## 建立新角色 {#create-a-new-role}
+## 建立新角色{#create-a-new-role}
 
 有時，您的組織會有員工擔任非常特定的角色，需要自訂權限組合。
 
@@ -71,11 +71,11 @@ Marketo提供數個內建角色，其存取權等級不同：
 
    ![](assets/image2014-9-9-18-3a9-3a3.png)
 
-## 編輯角色 {#edit-a-role}
+## 編輯角色{#edit-a-role}
 
 如果您需要變更與現有角色關聯的權限，可以編輯角色。
 
-1. 前往「管 **理員** 」，然後按 **一下「使用者與角色」**。
+1. 前往&#x200B;**Admin**，然後按一下&#x200B;**使用者與角色**。
 
    ![](assets/image2014-9-9-18-3a9-3a15.png)
 
@@ -83,11 +83,11 @@ Marketo提供數個內建角色，其存取權等級不同：
 
    ![](assets/image2014-9-9-18-3a9-3a26.png)
 
-1. 從清單中，選擇要修改的角色，然後按一下「編輯 **角色」**。
+1. 從清單中，選擇要修改的角色，然後按一下&#x200B;**編輯角色**。
 
    ![](assets/image2014-9-9-18-3a9-3a40.png)
 
-1. 如有必 **要** ，請變更角色名稱和**說明**，然後變更相關權限的 **選擇**。
+1. 如有必要，請變更&#x200B;**角色名稱**&#x200B;和**說明**，然後變更相關&#x200B;**權限**&#x200B;的選擇。
 
    ![](assets/image2014-9-9-18-3a10-3a3.png)
 
@@ -95,7 +95,7 @@ Marketo提供數個內建角色，其存取權等級不同：
    >
    >擁有您編輯之角色的使用者在再次登出並重新登入後，將會收到已修改的權限。
 
-## 刪除角色 {#delete-a-role}
+## 刪除角色{#delete-a-role}
 
 如果角色變得不必要，您可以刪除它。
 
@@ -117,10 +117,10 @@ Marketo提供數個內建角色，其存取權等級不同：
 
 >[!MORELIKETHIS]
 >
->在Marketo快速入門中，進一步瞭解如何建立其他使 [用者並指派角色](../../../getting-started.md)。
+>在[開始使用Marketo](../../../getting-started.md)中進一步瞭解如何建立其他使用者並指派他們的角色。
 
 >[!NOTE]
 >
 >**深入探討**
 >
->透過管理員深入瞭解其他管 [理工](http://docs.marketo.com/display/docs/administration) 作。
+>瞭解[Admin](http://docs.marketo.com/display/docs/administration)深入探討中的其他管理任務。
