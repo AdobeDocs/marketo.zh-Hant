@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 新增自由格式著陸頁面影像的連結 {#add-a-link-to-a-free-form-landing-page-image}
+# 新增自由格式著陸頁面影像的連結{#add-a-link-to-a-free-form-landing-page-image}
 
 >[!PREREQUISITES]
 >
@@ -25,11 +25,11 @@ ht-degree: 0%
 >
 >這僅適用於自由格式的登陸頁面。
 
-1. 選取您新增至著陸頁面的影像，然後展開「屬 **性工作表」。**
+1. 選取您新增至著陸頁面的影像，然後展開「屬性工作表」。****
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. 在連結URL中輸入您的 **mailto連結。**
+1. 在&#x200B;**連結URL中鍵入mailto連結。**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
