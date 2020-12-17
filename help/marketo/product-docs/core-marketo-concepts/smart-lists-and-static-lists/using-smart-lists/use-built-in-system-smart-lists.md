@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用內置／系統智慧清單 {#use-built-in-system-smart-lists}
+# 使用內置／系統智慧清單{#use-built-in-system-smart-lists}
 
 Marketo有一些非常實用的內建智慧型清單。 我們去看看！
 
@@ -23,11 +23,11 @@ Marketo有一些非常實用的內建智慧型清單。 我們去看看！
 
    ![](assets/db.png)
 
-1. 開啟「 **System Smart Lists** （系統智慧清單）」資料夾以顯示系列。
+1. 開啟&#x200B;**系統智慧清單**&#x200B;資料夾以顯示系列。
 
    ![](assets/two.png)
 
-1. 若要查看一個範例：選擇「 **所有人員**」，然後按一下「 **人員** 」標籤。
+1. 若要查看一個範例：選擇「**所有人員**」，然後按一下「**人員**」頁籤。
 
    ![](assets/three.png)
 
