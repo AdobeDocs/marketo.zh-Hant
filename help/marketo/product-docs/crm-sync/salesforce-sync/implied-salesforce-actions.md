@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 隱含的Salesforce動作 {#implied-salesforce-actions}
+# 隱含的Salesforce動作{#implied-salesforce-actions}
 
 當執行Salesforce特定的流程步驟時，有時會自動執行額外的步驟。 以下是規則，您知道：
 
-當人員目前 *不在 [](http://Salesforce.com)* Salesforce.com中擔任聯絡人或潛在客戶時，這些規則即適用。
+當人員目前不在[Salesforce.com](http://Salesforce.com)*中時，這些規則將適用*。
 
 <table> 
  <thead> 
@@ -31,7 +31,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>更改SFDC促銷活動中的狀態</td> 
-   <td>將人員同步到<br>SFDC向SFDC宣傳</td> 
+   <td>將人員同步到SFDC<br>添加到SFDC促銷活動</td> 
   </tr> 
   <tr> 
    <td>變更擁有者</td> 
@@ -48,8 +48,8 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-您可以使用 **** SFDC類型過濾器過濾智慧清單中的SFDC記錄，並將操作符設定為「非空」。 所有SFDC記錄在此欄位中都有值。
+您可以使用&#x200B;**SFDC類型**&#x200B;過濾器過濾智慧清單中的SFDC記錄，並將運算子設定為「不空」。 所有SFDC記錄在此欄位中都有值。
 
-請記住，這些自動動作只有在銷售機會目前不在 [Salesforce.com時才會發生](http://Salesforce.com)
+請記住，這些自動動作只有在銷售線索目前不在[Salesforce.com](http://Salesforce.com)時才會發生
 
 Salesforce同步很酷，對吧？
