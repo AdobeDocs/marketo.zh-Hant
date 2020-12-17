@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 在社交促銷中使用電子郵件 {#use-emails-in-social-promotions}
+# 在社交促銷中使用電子郵件{#use-emails-in-social-promotions}
 
-當您建立轉 [介選件](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 或抽獎活動 [時](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)，您可以包含要在訪客註冊時傳送的電子郵件，以及該人贏得獎勵時傳送的電子郵件。
+當您建立[反向連結選件](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)或[抽獎活動](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)時，您可以包含當訪客註冊時要傳送的電子郵件，以及當訪客贏得獎勵時要傳送的電子郵件。
 
 >[!TIP]
 >
->若要建立電子郵件，請參 [閱「傳送電子郵件爆炸](../../../../getting-started/quick-wins/send-an-email.md)」。
+>若要建立電子郵件，請參閱[傳送電子郵件爆炸](../../../../getting-started/quick-wins/send-an-email.md)。
 
 在電子郵件中，請使用下列Token:
 
@@ -27,17 +27,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必須先開始運作並核准電子郵件，才能將電子郵件新 *增至**社交應用程式*。 請參閱 [編輯電子郵件的設定](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)。
+>您必須先&#x200B;*operational*&#x200B;和&#x200B;*approved*，才能將電子郵件新增至社交應用程式。 請參閱[編輯電子郵件的設定](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/ma.png)
 
-1. 選取應用程式，然後按一下「 **編輯草稿」**。
+1. 選取應用程式，然後按一下「編輯草稿」。****
 
    ![](assets/image2014-9-19-16-3a12-3a33.png)
 
-1. 在社交應用程式編輯器中，前往「應 **用程式設定>選件詳細資訊** 」(或 **「抽獎活動詳細資訊」**)。
+1. 在社交應用程式編輯器中，前往「**應用程式設定>選件詳細資訊」（或**&#x200B;抽獎活動詳細資訊&#x200B;**）。**
 
    ![](assets/image2014-9-19-16-3a12-3a41.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在抽獎活動中，當您選取成功者時，履約電子郵件 [一律會自動傳送](../../../../product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)。
+>在抽獎活動中，當您[選取成功者](../../../../product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)時，履約電子郵件一律會自動傳送。
 
 >[!NOTE]
 >
@@ -76,5 +76,5 @@ ht-degree: 0%
 >
 >**相關文章**
 >
->接著，您可 [以選擇共用URL](choose-the-share-url-for-a-social-app.md) ，或在您的反向連結選件中， [上傳要傳送的促銷代碼](use-promo-codes-for-offer-fulfillment.md) 。
+>接著，您可以[選擇共用URL](choose-the-share-url-for-a-social-app.md)，或者在您的反向連結選件中，您可以[上傳您要送出的促銷代碼](use-promo-codes-for-offer-fulfillment.md)。
 
