@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 新增串流 {#add-a-stream}
+# 新增串流{#add-a-stream}
 
 參與計畫可容納多個串流。 以下說明如何新增新增。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 選取您的參與方案，然後按一下「串 **流」** 標籤。
+1. 選擇您的參與程式，然後按一下&#x200B;**流**&#x200B;頁籤。
 
    ![](assets/streamstablifecycle.jpg)
 
-1. 按一 **下新增串流**。
+1. 按一下&#x200B;**添加流**。
 
    ![](assets/image2014-9-15-16-3a56-3a23.png)
 
