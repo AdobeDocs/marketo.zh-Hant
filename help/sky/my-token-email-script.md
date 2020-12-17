@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-對於進階開發人員，您可以在 [電子郵件中使用Velocity指令碼](http://velocity.apache.org/engine/1.7/user-guide.html) ，方法是設定Email Script Token。 這是如何做到的。
+對於進階開發人員，您可以透過設定電子郵件指令碼Token，在電子郵件中使用[Velocity指令碼](http://velocity.apache.org/engine/1.7/user-guide.html)。 這是如何做到的。
 
-1. 在程式 [!UICONTROL My Tokens] 或資料夾的標籤中，拖曳Token **[!UICONTROL Email Script]** 至畫 [!UICONTROL Local Tokens] 布。
+1. 在程式或資料夾的[!UICONTROL My Tokens]標籤中，將&#x200B;**[!UICONTROL Email Script]**&#x200B;代號拖曳至[!UICONTROL Local Tokens]畫布。
 
    ![影像一](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-1.png)
 
@@ -39,6 +39,6 @@ ht-degree: 0%
    * [速度參考指南](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [VelocityTools 2.0檔案](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. 完成指令碼後，按一下 **[!UICONTROL Save]**。
+1. 完成指令碼後，按一下&#x200B;**[!UICONTROL Save]**。
 
    ![影像4](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-4.png)
