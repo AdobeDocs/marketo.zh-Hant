@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 預覽表單 {#preview-a-form}
+# 預覽表單{#preview-a-form}
 
 在發佈之前，您可以在這個快速簡單的表單預覽器中檢視表單。
 
-1. 前往「行 **銷****活動」**。
+1. 前往&#x200B;**Marketing** **Activity**。
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. 在「表 **單****動作」下**，按一 **下「預覽**」。
+1. 在&#x200B;**Form****Actions**&#x200B;下，按一下&#x200B;**Preview**。
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. 表單編輯器將在預覽模 **式中** 開啟。
+1. 表單編輯器將在&#x200B;**preview**&#x200B;模式下開啟。
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. 按一 **下「編輯****」(Edit** Draft **)，返回** 編輯模式。
+1. 按一下「編輯」******「草稿」，返回至「編輯」****模式。**
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
@@ -40,9 +40,9 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >進一步瞭解 [表格](http://docs.marketo.com/display/docs/forms)。
+   >進一步瞭解[forms](http://docs.marketo.com/display/docs/forms)。
 
-1. 按一下「預覽草稿」，輕 **松切換****回來**。
+1. 按一下「預覽(a0/)」「預覽(a1/)」「草稿(draft)」「草稿(a3/)」，輕鬆切換回來。********
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 
