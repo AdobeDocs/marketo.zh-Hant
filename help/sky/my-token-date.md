@@ -16,10 +16,10 @@ ht-degree: 0%
 
 以下說明如何設定日期代號，以便用於您的方案和促銷活動資料夾。
 
-1. 在程式 [!UICONTROL My Tokens] 或資料夾的標籤中，拖曳Token **[!UICONTROL Date]** 至畫 [!UICONTROL Local Tokens] 布。
+1. 在程式或資料夾的[!UICONTROL My Tokens]標籤中，將&#x200B;**[!UICONTROL Date]**&#x200B;代號拖曳至[!UICONTROL Local Tokens]畫布。
 
    ![影像一](/help/sky/assets/my-tokens/my-token-date/my-token-date-1.jpg)
 
-1. 輸入日期Token的名稱，然後從日曆中選取日期。 按一 **[!UICONTROL Save]**&#x200B;下。
+1. 輸入日期Token的名稱，然後從日曆中選取日期。 按一下&#x200B;**[!UICONTROL Save]**。
 
    ![影像2](/help/sky/assets/my-tokens/my-token-date/my-token-date-2.jpg)
