@@ -14,35 +14,35 @@ ht-degree: 0%
 
 <br> 
 
-「資產選擇器」 [!DNL Marketo] 可讓客戶存取、選取和匯入AEM資產 [!DNL Marketo's][!UICONTROL Design Studio]。 您必須是管理員才能執行這些步驟。
+「資產選擇器」可讓[!DNL Marketo]客戶存取、選擇AEM資產，並將其匯入[!DNL Marketo's] [!UICONTROL Design Studio]。 您必須是管理員才能執行這些步驟。
 
 >[!NOTE]
 >[!DNL Adobe Experience Manager (AEM)] 是獨立產品，必須另行購買。 請連絡您的客戶成功經理以瞭解更多資訊。
 
 >[!IMPORTANT]
->請確定您已在中執行 [AEM設定](https://docs.marketo.com/x/FwPLAQ)[!DNL Marketo Classic]。
+>請確定您已在[!DNL Marketo Classic]中執行[AEM Configuration](https://docs.marketo.com/x/FwPLAQ)。
 
 >[!CAUTION]
 >
 >目前，此功能僅在Firefox中完全受支援。 Safari不支援此功能，而且可能無法在最新版Chrome中運作，視您的SameSite Cookie設定而定。
 
-1. 在中 [!UICONTROL Design Studio]，選擇 **[!UICONTROL Images and Files]**。
+1. 在[!UICONTROL Design Studio]中，選擇&#x200B;**[!UICONTROL Images and Files]**。
 
    ![影像一](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-1.png)
 
-1. 按一下 [!UICONTROL Images and Files] 下拉式清單並選取 **[!UICONTROL Import Image or File]**。
+1. 按一下[!UICONTROL Images and Files]下拉清單並選擇&#x200B;**[!UICONTROL Import Image or File]**。
 
    ![影像2](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-2.png)
 
-1. 按一下旁邊的選項按鈕， [!DNL Adobe Experience Manager] 然後按一下 **[!UICONTROL Next]**。
+1. 按一下[!DNL Adobe Experience Manager]旁邊的單選按鈕，然後按一下&#x200B;**[!UICONTROL Next]**。
 
    ![影像三](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-3.png)
 
-1. 登入至 [!DNL Adobe Experience Manager]。
+1. 登入[!DNL Adobe Experience Manager]。
 
    ![影像4](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-4.png)
 
-1. 選擇您的資料夾。 選取您想要的影像（最多可選擇10張），然後按一下 **[!UICONTROL Select]**。
+1. 選擇您的資料夾。 選取您想要的影像（最多可以選擇10張），然後按一下&#x200B;**[!UICONTROL Select]**。
 
    ![影像5](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -50,11 +50,11 @@ ht-degree: 0%
    >
    >影像大小不能超過100MB。
 
-1. 確認您選擇的影像，選取目標資料夾([!UICONTROL Images and Files] 預設)，然後按一下 **[!UICONTROL Next]**。
+1. 驗證您選擇的影像，選取目標資料夾（[!UICONTROL Images and Files]為預設值），然後按一下&#x200B;**[!UICONTROL Next]**。
 
    ![影像6](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-6.png)
 
-就這樣！ 按一 **[!UICONTROL Close]** 下以返回影像和檔案。
+就這樣！ 按一下&#x200B;**[!UICONTROL Close]**&#x200B;返回影像和檔案。
 
 ![影像7](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-7.png)
 
@@ -62,4 +62,4 @@ ht-degree: 0%
 
 * [!DNL Marketo] 目前支 [!DNL Adobe Experience Manager] 援6.4和6.5版。
 * 您實例中的所有用戶都可以查看／訪問您導入的映像。
-* 影像不會自動更新。 如果您匯入的影像在AEM [!DNL Marketo] 中已更 [!UICONTROL Design Studio] 新，您必須手動將它重新匯入 [!DNL Marketo]。
+* 影像不會自動更新。 如果您匯入至[!DNL Marketo] [!UICONTROL Design Studio]的影像已在AEM中更新，您必須手動將它重新匯入至[!DNL Marketo]。
