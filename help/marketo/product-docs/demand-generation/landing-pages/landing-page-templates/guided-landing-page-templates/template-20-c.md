@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本20-C {#template-c}
+# 模板20-C {#template-c}
 
 [下載範本20-C](http://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&amp;modificationdate=1441750739000&amp;api=v2)
 
