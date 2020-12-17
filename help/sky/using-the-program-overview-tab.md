@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-標籤下有三個 [!UICONTROL Program Overview] 部分： **[!UICONTROL Details]**、 **[!UICONTROL Schedule]**&#x200B;和 **[!UICONTROL Reports]**。 以下是每個例子。
+[!UICONTROL Program Overview]標籤下有三個區段：**[!UICONTROL Details]**、**[!UICONTROL Schedule]**&#x200B;和&#x200B;**[!UICONTROL Reports]**。 以下是每個例子。
 
 ## 詳細資訊
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![影像一](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-頁面底部有兩個區段： **[!UICONTROL Program Stats]** 和 **[!UICONTROL Used By]**。 **[!UICONTROL Program Stats]** 顯示有關程式效能的關鍵量度， **[!UICONTROL Used By]** 並是您在Marketo中使用程式的簡易方式。
+頁面底部有兩個區段：**[!UICONTROL Program Stats]**&#x200B;和&#x200B;**[!UICONTROL Used By]**。 **[!UICONTROL Program Stats]** 顯示有關程式效能的關鍵量度， **[!UICONTROL Used By]** 並是您在Marketo中使用程式的簡易方式。
 
 ![影像2](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
@@ -34,10 +34,10 @@ ht-degree: 0%
 
 **深入探討**
 
-* 瞭解如何 [使用方案排程檢視](/help/sky/navigating-program-schedule-view.md)。
+* 瞭解如何[使用程式計畫視圖](/help/sky/navigating-program-schedule-view.md)。
 
 ## 報表
 
-此標 [!UICONTROL Reports] 簽會顯示您方案效能的關鍵量度，包括趨勢和會籍統計資料。
+[!UICONTROL Reports]標籤會顯示有關您方案效能的關鍵量度，包括趨勢和會籍統計資料。
 
 ![影像4](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-4.png)
