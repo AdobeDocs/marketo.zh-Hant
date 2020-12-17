@@ -11,46 +11,46 @@ ht-degree: 0%
 ---
 
 
-# 設定Facebook離線轉換 {#set-up-facebook-offline-conversions}
+# 設定Facebook離線轉換{#set-up-facebook-offline-conversions}
 
 透過將線下轉換資料傳回Facebook，讓透過「銷售線索廣告」建立的人員也能使用，您的廣告團隊可以比以往更好地最佳化其廣告支出。 這是如何設定的。
 
 >[!PREREQUISITES]
 >
->* 您必須 [設定Facebook銷售線索廣告](set-up-facebook-lead-ads.md)。
->* 您必須在「收入週期建模器」中擁 [有已批准的模型](http://docs.marketo.com/display/docs/revenue+cycle+models)。
+>* 您必須[設定Facebook銷售線索廣告](set-up-facebook-lead-ads.md)。
+>* 您必須在[收入週期建模器](http://docs.marketo.com/display/docs/revenue+cycle+models)中擁有已批准的模型。
 
 >
 
 
 
-## 管理設定 {#admin-configuration}
+## 管理配置{#admin-configuration}
 
-1. 前往Marketto **Admin**。
+1. 前往Marketo **Admin**。
 
    ![](assets/image2016-11-29-13-3a8-3a45.png)
 
-1. 前往 **LaunchPoint** ，然後按兩下您先前建立的Facebook銷售線索廣告服務。
+1. 前往&#x200B;**LaunchPoint**，然後按兩下您先前建立的Facebook銷售機會廣告服務。
 
    >[!NOTE]
    >
-   >如果您尚未這麼做，請繼續「設定 [Facebook潛在客戶廣告](set-up-facebook-lead-ads.md)」，然後再回來。
+   >如果您尚未這麼做，請繼續[設定Facebook潛在客戶廣告](set-up-facebook-lead-ads.md)，然後再回到這裡。
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. 如果您喜歡，請編輯「顯 **示名稱** 」以包含「離線轉換」。 按一 **下「下一步**」。
+1. 如果您喜歡，請編輯&#x200B;**顯示名稱**&#x200B;以包含離線轉換。 按一下&#x200B;**Next**。
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. 勾選「 **啟用離線轉換** 」，然後按 **「下一步**」。
+1. 選中&#x200B;**啟用離線轉換** ，然後按一下&#x200B;**Next**。
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
-1. 按一 **下「下一步**」。
+1. 按一下&#x200B;**Next**。
 
    ![](assets/image2016-11-29-13-3a14-3a17.png)
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
@@ -58,13 +58,13 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
-## 收入週期建模器配置 {#revenue-cycle-modeler-configuration}
+## 收入週期建模器配置{#revenue-cycle-modeler-configuration}
 
-1. 前往 **Analytics**。
+1. 前往&#x200B;**Analytics**。
 
    ![](assets/image2016-11-29-13-3a29-3a23.png)
 
-1. 選取模型，然後按一下「編 **輯草稿」(Edit Draft**)。
+1. 選擇模型，然後按一下「編輯草稿」(Edit Draft)**。**
 
    ![](assets/image2016-11-29-13-3a31-3a6.png)
 
@@ -86,7 +86,7 @@ ht-degree: 0%
    >    * 內容檢視
 
 
-1. 選取您要對應的舞台，然後從「 **** Facebook轉換」下拉式清單中，選取您要對應至的Facebook事件。 重複此步驟，將RCM中的所有階段映射到Facebook上的離線轉換階段。
+1. 選取您要對應的舞台，然後從&#x200B;**Facebook轉換**&#x200B;下拉式清單中，選取您要對應的Facebook事件。 重複此步驟，將RCM中的所有階段映射到Facebook上的離線轉換階段。
 
    ![](assets/1-1.png)
 
@@ -102,7 +102,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >檢查您的Facebook帳戶，並確保所有 [廣告都與](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) 「行銷人員離線轉換事件集」相關聯。 如果沒有，廣告歸因可能無法運作。
+   >檢查您的Facebook帳戶，並確認所有[廣告都關聯至Marketo Offline Conversions事件集。 ](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer)如果沒有，廣告歸因可能無法運作。
 
    >[!NOTE]
    >
