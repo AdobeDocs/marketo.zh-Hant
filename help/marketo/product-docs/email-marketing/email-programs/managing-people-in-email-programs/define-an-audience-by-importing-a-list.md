@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 匯入清單以定義對象 {#define-an-audience-by-importing-a-list}
+# 匯入清單{#define-an-audience-by-importing-a-list}以定義對象
 
 >[!PREREQUISITES]
 >
 >[建立電子郵件方案的電子郵件](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-一旦您建立了電子郵件程式，您就會想告訴它要將電子郵件傳送給誰。 您可以建立智慧型 [清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ，或匯入清單來執行此動作。 以下說明如何匯入清單以達成此目的。
+一旦您建立了電子郵件程式，您就會想告訴它要將電子郵件傳送給誰。 您可以通過[建立智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)或通過導入清單來執行此操作。 以下說明如何匯入清單以達成此目的。
 
 >[!NOTE]
 >
@@ -25,14 +25,14 @@ ht-degree: 0%
 >
 >匯入的任何日期／時間欄位都會視為「中央時間」。 如果您在不同時區有日期／時間欄位，則可使用Excel公式將其轉換為中時（美國／芝加哥）。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-1.png)
 
    選取您的電子郵件程式，然後按一下「對象」方塊下的「匯入清單」。
    ![](assets/importlist.png)
 
-1. 清單導入窗口開啟，按一下「瀏 **覽** 」(Browse)，然後選擇要導入的檔案。 在您選取人員清單後，按一下「下一步」。
+1. 清單導入窗口開啟，按一下&#x200B;**瀏覽**&#x200B;並選擇要導入的檔案。 在您選取人員清單後，按一下「下一步」。
 1. ![](assets/importlist1.png)
 
    >[!CAUTION]
@@ -46,7 +46,7 @@ ht-degree: 0%
    >
    >Marketo將記住未來進口的映射！
 
-1. 輸入列 **表的名稱** ，然後按一下 **導入**。
+1. 為清單輸入&#x200B;**名稱** ，然後按一下&#x200B;**導入**。
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 >
 按一下號碼，以取得封鎖郵件的詳細清單。
 >
->使用「對 ![像」方塊](assets/image2014-10-23-16-3a32-3a36-1.png) 上的「-按鈕 **** 」，查看有多少人符合資格根據智慧清單條件接收電子郵件。 從「人員」號碼中減去「已封鎖」號碼，即可獲得接收電子郵件的總人數。
+>使用&#x200B;**觀眾**&#x200B;方塊上的![—](assets/image2014-10-23-16-3a32-3a36-1.png)按鈕，查看有多少人符合智慧型清單准則接收電子郵件的資格。 從「人員」號碼中減去「已封鎖」號碼，即可獲得接收電子郵件的總人數。
 
 >[!TIP]
 >
