@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 定義智慧清單篩選器 {#define-smart-list-filters}
+# 定義智慧清單過濾器{#define-smart-list-filters}
 
 >[!PREREQUISITES]
 >
@@ -22,19 +22,19 @@ ht-degree: 0%
 
 
 
-既然您已建立 [智慧型清單](create-a-smart-list.md) , [並新增濾鏡](find-and-add-filters-to-a-smart-list.md) ，我們來定義濾鏡。 這是方法。
+現在，您已建立智慧型清單[和](create-a-smart-list.md)新增濾鏡[，讓我們來定義濾鏡。 ](find-and-add-filters-to-a-smart-list.md)這是方法。
 
 繼續我們的範例，讓我們定義這些篩選條件，以尋找加州所有分數超過50的人。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 選擇智慧清單，然後按一下智慧列 **表頁籤** 。
+1. 選擇智慧清單並按一下&#x200B;**智慧清單**&#x200B;頁籤。
 
    ![](assets/smarlist-choosefilters.png)
 
-1. 尋找並選 **取** 「狀 **態** 」篩選。
+1. 查找並選擇&#x200B;**CA**&#x200B;作為&#x200B;**狀態**&#x200B;過濾器。
 
    ![](assets/smartlistdefinefilters.png)
 
@@ -43,9 +43,9 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >您可能同時存放 **加州** 和 **CA**。 為了篩選兩個值並包含*all *來自加州的人員，請瞭解如何將多 [個值新增至智慧清單篩選](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md)。
+   >您可以同時儲存&#x200B;**California**&#x200B;和&#x200B;**CA**。 為了篩選兩個值並包含*all *peoples from California，請瞭解如何[將多個值新增至智慧型清單篩選器](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md)。
 
-1. 選擇 **大於運算** 符，然後輸 **入50**。
+1. 選擇&#x200B;**greater**&#x200B;運算子，然後輸入&#x200B;**50**。
 
    ![](assets/smartlistfilter-personscore.png)
 
@@ -55,5 +55,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->進一步瞭解 [智慧型清單和靜態清單](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)。
+>進一步瞭解[智慧型清單和靜態清單](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)。
 
