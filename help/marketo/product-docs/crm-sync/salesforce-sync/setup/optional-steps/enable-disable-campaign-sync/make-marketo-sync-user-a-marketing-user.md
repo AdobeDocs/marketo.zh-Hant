@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 讓Marketo將使用者同步為行銷使用者 {#make-marketo-sync-user-a-marketing-user}
+# 將Marketo同步使用者設為Marketing使用者{#make-marketo-sync-user-a-marketing-user}
 
-Marketo [同步使用者必須是Salesforce促銷活動同步的Marketing使用者](../../../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) ，才能正常運作。 以下是如何在Salesforce中讓使用者成為行銷使用者的方法。
+[Marketo同步使用者](../../../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)必須是Salesforce促銷活動同步的Marketing使用者，才能正常運作。 以下是如何在Salesforce中讓使用者成為行銷使用者的方法。
 
 >[!NOTE]
 >
 >**需要管理員權限**
 
-1. 登入Salesforce。 在左搜尋列中搜尋使用者，然後按一下「管 **理使用者** 」 **下的「使用者」**。
+1. 登入Salesforce。 在左搜索欄中搜索用戶，然後按一下「管理用戶」下的「**用戶**」。****
 
    ![](assets/image2015-7-8-14-3a25-3a49.png)
 
@@ -27,11 +27,11 @@ Marketo [同步使用者必須是Salesforce促銷活動同步的Marketing使用�
 
    ![](assets/image2015-7-8-14-3a27-3a32.png)
 
-1. 按一 **下編輯**。
+1. 按一下&#x200B;**編輯**。
 
    ![](assets/image2015-7-8-14-3a29-3a7.png)
 
-1. 勾選「行 **銷使用者** 」核取方塊，然後按一 **下「儲存」**。
+1. 勾選「**行銷使用者**」核取方塊，然後按一下「儲存&#x200B;**a3/>」。**
 
    ![](assets/image2015-7-8-14-3a30-3a16.png)
 
