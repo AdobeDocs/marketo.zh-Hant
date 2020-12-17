@@ -22,11 +22,11 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-1.png)
 
-1. 按一下標 **[!UICONTROL Streams]** 簽，然後按一下 **[!UICONTROL Set Cadence]**。
+1. 按一下&#x200B;**[!UICONTROL Streams]**&#x200B;頁籤，然後按一下&#x200B;**[!UICONTROL Set Cadence]**。
 
    ![影像2](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-2.png)
 
-1. 選取要重複出現節奏的頻率。 您可以選擇 **[!UICONTROL Weekly]**、 **[!UICONTROL Monthly]**&#x200B;或 **[!UICONTROL None]**。
+1. 選取要重複出現節奏的頻率。 您可以選擇&#x200B;**[!UICONTROL Weekly]**、**[!UICONTROL Monthly]**&#x200B;或&#x200B;**[!UICONTROL None]**。
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 每週
 
-1. 選擇 **[!UICONTROL Weekly]**。
+1. 選擇&#x200B;**[!UICONTROL Weekly]**。
 
    ![影像三](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-3.png)
 
@@ -52,9 +52,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以選擇/ **[!UICONTROL Repeats: Weekly]** / **[!UICONTROL Every: 1 Week]****[!UICONTROL On:]** all days，將節奏設定為每天運行。
+   >您可以選擇&#x200B;**[!UICONTROL Repeats: Weekly]** / **[!UICONTROL Every: 1 Week]** / **[!UICONTROL On:]**&#x200B;所有天，將節奏設定為每天運行。
 
-1. 現在選擇時間。 如果您想要使用收件者時區 [（亦即，根據當地時區傳送），請核取此方塊，然後按一下](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone)**[!UICONTROL Save]**。
+1. 現在選擇時間。 如果要使用[收件者時區](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone)（即根據本地時區傳送），請勾選此框，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![影像7](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-7.png)
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 ## 每月
 
-1. 選擇 **[!UICONTROL Monthly]** 重複頻率。
+1. 選擇&#x200B;**[!UICONTROL Monthly]**&#x200B;以瞭解重複頻率。
 
    ![影像9](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-9.png)
 
@@ -94,7 +94,7 @@ ht-degree: 0%
    >
    >或者，您也可以選擇一週中的某天。
 
-1. 選擇並 [!UICONTROL Time] 按一下 **[!UICONTROL Save]**。
+1. 選擇[!UICONTROL Time]並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![影像十三](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-13.png)
 
