@@ -11,20 +11,20 @@ ht-degree: 0%
 ---
 
 
-# 選擇現有電子郵件 {#choose-an-existing-email}
+# 選擇現有電子郵件{#choose-an-existing-email}
 
 >[!PREREQUISITES]
 >
 >* [建立電子郵件方案](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [使用智慧型清單定義對象](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ，或 [透過匯入清單定義對象](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [使用智慧型存取者定](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 義對 [像匯入清單定義對象](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >
 
 
 
-一旦您建立了 [電子郵件方案](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) ，並定義了您的受眾，您就會想要決定要傳送的電子郵件。 您可以 [從頭開始為電子郵件程式建立電子郵件](create-an-email-for-an-email-program.md) ，或選擇已存在的電子郵件程式。 以下是如何選擇已存在的項目。
+在[建立電子郵件程式並定義對象後，您會想決定要傳送的電子郵件。 ](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)您可以從頭開始為電子郵件程式[建立電子郵件，或選擇已存在的電子郵件。 ](create-an-email-for-an-email-program.md)以下是如何選擇已存在的項目。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,11 +32,11 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram.jpg)
 
-1. 在「電 **子郵件** 」方塊下，選取您要傳送的電子郵件。
+1. 在&#x200B;**Email**&#x200B;表徵圖下，選擇要發送的。
 
-   ` ![](assets/image2014-9-12-11-3a28-3a10.png)
+   「 ![](assets/image2014-9-12-11-3a28-3a10.png)
 
-   `
+   「
 
    >[!NOTE]
    >
