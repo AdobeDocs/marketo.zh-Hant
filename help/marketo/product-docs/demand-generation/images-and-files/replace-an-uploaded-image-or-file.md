@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 取代已上傳的影像或檔案 {#replace-an-uploaded-image-or-file}
+# 取代已上傳的影像或檔案{#replace-an-uploaded-image-or-file}
 
-1. 前往 **Design** **Studio**。
+1. 前往&#x200B;**Design** **Studio**。
 
    ![](assets/designstudio-6.png)
 
-1. 按一 **下「影** 像和 **檔案******」，然後選取您要取代的檔案。
+1. 按一下「**影像** **和** **檔案**」，然後選取您要取代的檔案。
 
    ![](assets/image2014-9-16-11-3a21-3a48.png)
 
    >[!TIP]
    >
-   >您也可以搜 [尋上傳的影像或檔案](search-uploaded-images-and-files.md)。
+   >您也可以[搜尋已上傳的影像或檔案](search-uploaded-images-and-files.md)。
 
-1. 按一下「 **檔案」(File)「操作** 」(Actions **)，然後**&#x200B;選擇「替換影像」(Replace Image)或「檔案」(File)。
+1. 按一下「檔案操作」**並選擇「替換影像」或「檔案」**。****
 
    ![](assets/image2014-9-16-11-3a21-3a55.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
    >
    >如果您無法從共用資料夾選取檔案，請將該檔案儲存至硬碟，然後從硬碟中選擇。
 
-1. 驗證「Choose File（選擇檔案）」旁邊顯示的 **檔案是否正確** ，然後按一下「 **Replace（替換）**」。
+1. 驗證顯示在&#x200B;**選擇檔案**&#x200B;旁邊的檔案是否正確，然後按一下&#x200B;**替換**。
 
    ![](assets/image2014-9-16-11-3a22-3a12.png)
 
