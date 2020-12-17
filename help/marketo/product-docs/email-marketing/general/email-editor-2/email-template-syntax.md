@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 電子郵件範本語法 {#email-template-syntax}
+# 電子郵件範本語法{#email-template-syntax}
 
 在Marketto的全新Email 2.0體驗中，電子郵件範本是由元素、變數、模組或容器的任意組合所組成。 每個都是透過新增Marketto特定語法至HTML來定義。 舊版(v1.0)電子郵件範本在Email Editor 2.0中受到支援；但是，它們不會包含所有新編輯的功能。
 
-Marketo電子郵件語法僅適用於範本和個別電子郵件；如果內 **嵌在程式碼片段** 或Rich Text Token中，則無法運作。
+Marketo電子郵件語法僅適用於範本和個別電子郵件；如果內嵌在程式碼片段或Rich Text Token中，**not**&#x200B;便能運作。
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Marketo電子郵件語法僅適用於範本和個別電子郵件；如果內 **�
 >
 >包含Marketo語法的類別值（例如mktoModule、mktoContainer、mktoText）會區分大小寫。 自訂屬性名稱（例如mktoimgwidth、mktoname）則否。
 
-## 元素 {#elements}
+## 元素{#elements}
 
 元素是您在電子郵件範本中定義為可編輯的內容區域。 元素的編輯體驗是其類型獨一無二的，並提供處理內容的簡單方式。 電子郵件範本中可能包含的元素包括：
 
@@ -34,9 +34,9 @@ Marketo電子郵件語法僅適用於範本和個別電子郵件；如果內 **�
 * 程式碼片段
 * 影片
 
-## Rich Text {#rich-text}
+## 富格文本{#rich-text}
 
-如果您將地區定義為Rich Text，使用者將可使用Marketo的Rich Text [編輯器來編輯其內容](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)。 在電子郵件範本中定義Rich Text元素有兩種方式：mktEditable和mktoText。 請記住，「豐富文字」元素永遠可以從電子郵件編輯器中轉換為程式碼片段。
+如果您將地區定義為Rich Text，使用者將可使用Marketo的Rich Text Editor[編輯其內容。 ](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)在電子郵件範本中定義Rich Text元素有兩種方式：mktEditable和mktoText。 請記住，「豐富文字」元素永遠可以從電子郵件編輯器中轉換為程式碼片段。
 
 ### 選項1 - mktEditable {#option-mkteditable}
 
@@ -45,11 +45,11 @@ Marketo電子郵件語法僅適用於範本和個別電子郵件；如果內 **�
 必要屬性
 
 * **類別**:&quot;mktEditable&quot;。
-* **id**:ID字串。 僅包含字母、數字、破折號&quot;-&quot;和底線&quot;_&quot;。 不允許空格。 必須是唯一的。
+* **id**:ID字串。僅包含字母、數字、破折號&quot;-&quot;和底線&quot;_&quot;。 不允許空格。 必須是唯一的。
 
 可選屬性
 
-* **mktoName** :字串。 這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
+* **mktoName** :字串。這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
 
 預設值
 
@@ -66,8 +66,8 @@ HTML元素內含class=&quot;mktEditable&quot;的內容（如果提供）將用�
 必要屬性
 
 * **類別**:&quot;mktoText&quot;
-* **id**:ID字串。 僅包含字母、數字、破折號&quot;-&quot;和底線&quot;_&quot;。 不允許空格。 必須是唯一的。
-* **mktoName** :字串。 這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
+* **id**:ID字串。僅包含字母、數字、破折號&quot;-&quot;和底線&quot;_&quot;。 不允許空格。 必須是唯一的。
+* **mktoName** :字串。這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
 
 預設值
 
@@ -77,32 +77,32 @@ HTML元素內含class=&quot;mktoText&quot;的內容（如果提供）將用作Ri
 
 `<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
 
-## 影像 {#images}
+## 影像{#images}
 
-您有兩個選項可用來定義可編輯的影像元素。 您可以使用 `<div>`指定要插入的容 `<img>` 器或標 `<img>` 記。 如果您只想讓使用者選擇會傳回影像URL的影像（與DOM相反），請參閱下方章節中的「影像變數」。 下列兩個選項將插入HTML `<img>` 元素。
+您有兩個選項可用來定義可編輯的影像元素。 您可以使用`<div>`（指定`<img>`將插入的容器）或`<img>`標籤。 如果您只想讓使用者選擇會傳回影像URL的影像（與DOM相反），請參閱下方章節中的「影像變數」。 以下兩個選項將插入HTML `<img>`元素。
 
 ### 選項1 —— 使用\&lt;div\> {#option-use-a-div}
 
 必要屬性
 
-* **類別：** &quot;mktoImg&quot;。
-* **id:** ID字串。 僅包含字母、數字、破折號&quot;-&quot;和底線&quot;_&quot;。 不允許空格。 必須是唯一的。
-* **mktoName :** 字串。 這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
+* **class:** &quot;mktoImg&quot;。
+* **id:** ID字串。僅包含字母、數字、破折號&quot;-&quot;和底線&quot;_&quot;。 不允許空格。 必須是唯一的。
+* **mktoName:** String。這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
 
 可選屬性
 
-* **mktoImgClass:** 字串。 此處的值將添加到div內元素的 `<img>` class屬性中。
-* **mktoImgSrc:** 用作此div內影像的預設值。 若省略此項，則會使用預留位置。
-* **mktoImgLink:** 指出應該 `<img>` 由具有此目標URL `<a>` 的標籤所包圍。 使用者可在電子郵件編輯器中變更此項。
-* **mktoImgLinkTarget:** 指出mktoImgLink屬 `<a>` 性中的標籤應使用此目標。 如果未使用mktoImgLink，則無效。
+* **mktoImgClass:** String。此處的值將添加到div內`<img>`元素的class屬性中。
+* **mktoImgSrc:** To be used as the default value for the image that is placed in this div.若省略此項，則會使用預留位置。
+* **mktoImgLink：指** 出應 `<img>` 該由含有此目 `<a>` 標URL的標籤所包圍。使用者可在電子郵件編輯器中變更此項。
+* **mktoImgLinkTarget：指** 出mktoImgLink屬 `<a>` 性中的標籤應使用此目標。如果未使用mktoImgLink，則無效。
 * **mktoImgWidth:** 用作封閉的寬度 `<img>`。
-* **mktoImgHeight:** 用作封閉的高度 `<img>`。
-* **mktoLockImgSize:** 用來解除鎖 `<img>` 定元素的height和width屬性，讓使用者可修改（若省略，預設為true）。
-* **mktoLockImgStyle:** 用於鎖定元 `<img>` 素的style屬性（預設為false）。
+* **mktoImgHeight:** 用作封閉高度 `<img>`。
+* **mktoLockImgSize：用** 於解除鎖 `<img>` 定元素的height和width屬性，以便使用者修改（若省略，預設為true）。
+* **mktoLockImgStyle:** 用於鎖 `<img>` 定元素的style屬性（預設為false）。
 
 預設值（選用）
 
-**`<img>`**:要用作將 `<img>` 放置影像的元素。 當您要新增內嵌樣式至影像時，此功能很實用。 請記得加入周 `<a> </a>` 圍的標籤，因此，如果使用者新增連結，您的樣式不會被移除！
+**`<img>`**:要用作將 `<img>` 放置影像的元素。當您要新增內嵌樣式至影像時，此功能很實用。 請記住要包含周圍的`<a> </a>`標籤，因此，如果使用者新增連結，您的樣式就不會被移除！
 
 範例：
 
@@ -116,24 +116,24 @@ HTML元素內含class=&quot;mktoText&quot;的內容（如果提供）將用作Ri
 
 必要屬性
 
-* **類別：** &quot;mktoImg&quot;。
-* **id:** ID字串。 僅包含字母、數字、破折號&quot;-&quot;和底線&quot;_&quot;。 不允許空格。 必須是唯一的。
-* **mktoName:** 字串。 這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。  預設值（選用）
-* **src:** 用作影像的預設值。 若省略此項，則會使用預留位置。
-* **mktoLockImgSize:** 用來解除鎖 `<img>` 定元素的height和width屬性，讓使用者可修改（若省略，預設為true）。
-* **mktoLockImgStyle:** 用於鎖定元 `<img>` 素的style屬性（預設為false）。
+* **class:** &quot;mktoImg&quot;。
+* **id:** ID字串。僅包含字母、數字、破折號&quot;-&quot;和底線&quot;_&quot;。 不允許空格。 必須是唯一的。
+* **mktoName：字** 串。這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。  預設值（選用）
+* **src:** 將用作影像的預設值。若省略此項，則會使用預留位置。
+* **mktoLockImgSize：用** 於解除鎖 `<img>` 定元素的height和width屬性，以便使用者修改（若省略，預設為true）。
+* **mktoLockImgStyle:** 用於鎖 `<img>` 定元素的style屬性（預設為false）。
 
 範例：
 `<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
 
-## 程式碼片段 {#snippets}
+## 代碼片段{#snippets}
 
-如果您將地區定義為「程式碼片段」，使用者將可選擇要插入此 [](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)地區的已核准的程式碼片段。 雖然Rich Text元素可從電子郵件編輯器轉換為Snippets，但當您將地區明確定義為Snippet時，它無法轉換為Rich Text。 您可以使用class=&quot;mktoSnippet&quot; `<div>` 來指定「程式碼片段」區域
+如果您將地區定義為「程式碼片段」，一般使用者將可選擇要插入此地區的已核准[程式碼片段](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)。 雖然Rich Text元素可從電子郵件編輯器轉換為Snippets，但當您將地區明確定義為Snippet時，它無法轉換為Rich Text。 您可以使用`<div>`搭配class=&quot;mktoSnippet&quot;來指定「程式碼片段」區域
 
 必要屬性
 
-* **id:** ID字串。 僅包含字母、數字、破折號&quot;-&quot;和底線&quot;_&quot;。 不允許空格。 必須是唯一的。
-* **mktoName:** 字串。 這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
+* **id:** ID字串。僅包含字母、數字、破折號&quot;-&quot;和底線&quot;_&quot;。 不允許空格。 必須是唯一的。
+* **mktoName：字** 串。這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
 
 預設值（選用）
 
@@ -143,41 +143,41 @@ HTML元素內含class=&quot;mktoText&quot;的內容（如果提供）將用作Ri
 
 `<pre data-theme="Confluence"><div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div></pre>`
 
-## 視訊 {#video}
+## 視頻{#video}
 
-如果您將地區定義為「影片」，使用者將可以插入YouTube或Vimeo URL，該URL會顯示為電子郵件中的縮圖影像（使用「播放」按鈕）。 您可以使用class=&quot;mktoVideo&quot; `<div>` 來指定視訊區域
+如果您將地區定義為「影片」，使用者將可以插入YouTube或Vimeo URL，該URL會顯示為電子郵件中的縮圖影像（使用「播放」按鈕）。 您可以使用`<div>`搭配class=&quot;mktoVideo&quot;來指定視訊區域
 
 必要屬性
 
-* **id:** ID字串。 僅包含字母、數字、破折號&quot;-&quot;和底線&quot;_&quot;。 不允許空格。 必須是唯一的。
-* **mktoName:** 字串。 這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
+* **id:** ID字串。僅包含字母、數字、破折號&quot;-&quot;和底線&quot;_&quot;。 不允許空格。 必須是唯一的。
+* **mktoName：字** 串。這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
 
 可選屬性
 
-* **mktoImgClass:** 字串。 此處的值將新增至div內之視訊縮圖的 `<img>` class屬性。
+* **mktoImgClass:** String。此處的值將添加到div內視頻縮略圖`<img>`的class屬性中。
 
 範例：
 
 `<pre data-theme="Confluence"><div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div></pre>`
 
-## 變數 {#variables}
+## 變數{#variables}
 
-變數就像Token。 您先使用標籤在電子郵 `<head>` 件範本的區段中定義這些標籤， `<meta>` 然後在整個範本中使用這些標籤的次數視需要而定。 由於這些值是在範本中定義的，因此使用者將可根據其規則修改其值。 請注意，您可以在範圍中將變數定義為局部或全域。 如果您在「模組」中使用變數（請參閱下面），而使用者複製該模組，則本機變數將具有獨立值，而全域變數將套用至這兩個模組。
+變數就像Token。 您首先使用`<meta>`標籤在電子郵件範本的`<head>`區段中定義這些標籤，然後在整個範本中使用這些標籤，視需要多次。 由於這些值是在範本中定義的，因此使用者將可根據其規則修改其值。 請注意，您可以在範圍中將變數定義為局部或全域。 如果您在「模組」中使用變數（請參閱下面），而使用者複製該模組，則本機變數將具有獨立值，而全域變數將套用至這兩個模組。
 
-## 字串 {#string}
+## 字串{#string}
 
-如果您指定變數為「字串」，一般使用者就可以在電子郵件編輯器的文字方塊中輸入文字。 您使用class=&quot;mktoString&quot; `<meta>` 指定字串變數
+如果您指定變數為「字串」，一般使用者就可以在電子郵件編輯器的文字方塊中輸入文字。 您使用`<meta>`搭配class=&quot;mktoString&quot;指定字串變數
 
 必要屬性
 
-* **id:** 您在電子郵件範本中參考變數的方式。
-* **mktoName:** 字串。 這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
+* **id：您** 在電子郵件範本中參考變數的方式。
+* **mktoName：字** 串。這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
 
 可選屬性
 
-* **allowHTML:** 布林。 控制變數的值是否為HTML逸出。 若省略，則預設為False。
-* **預設**:字串的預設值。 如果省略，則為空白。
-* **mktoModuleScope**:布林。 控制在模組中使用變數時，變數是本機(true)還是全域(false)。 若省略，則預設為False。
+* **allowHTML:** Boolean。控制變數的值是否為HTML逸出。 若省略，則預設為False。
+* **預設**:字串的預設值。如果省略，則為空白。
+* **mktoModuleScope**:布林。控制在模組中使用變數時，變數是本機(true)還是全域(false)。 若省略，則預設為False。
 
 示例聲明：
 
@@ -187,20 +187,20 @@ HTML元素內含class=&quot;mktoText&quot;的內容（如果提供）將用作Ri
 
 `<pre data-theme="Confluence">${textHeader}</pre>`
 
-## 清單 {#list}
+## 清單{#list}
 
-如果您指定變數為「清單」，使用者將可從您在電子郵件編輯器中定義的一組值中挑選。 您可使用class=&quot;mktoList&quot; `<meta>` 來指定清單變數
+如果您指定變數為「清單」，使用者將可從您在電子郵件編輯器中定義的一組值中挑選。 您使用`<meta>`搭配class=&quot;mktoList&quot;指定清單變數
 
 必要屬性
 
 * **id**:您在電子郵件範本中參考變數的方式。
-* **mktoName:** 字串。 這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
-* **值：** 值的逗號分隔清單。 至少必須有一個字串。
+* **mktoName：字** 串。這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
+* **值：以逗** 號分隔的值清單。至少必須有一個字串。
 
 可選屬性
 
-* **預設值：** 選擇下拉式清單的預設值。 若省略，則會使用「值」屬性的第一個值。
-* **mktoModuleScope**:布林。 控制在模組中使用變數時，變數是本機(true)還是全域(false)。 若省略，則預設為False。
+* **default：選** 取下拉式清單的預設值。若省略，則會使用「值」屬性的第一個值。
+* **mktoModuleScope**:布林。控制在模組中使用變數時，變數是本機(true)還是全域(false)。 若省略，則預設為False。
 
 示例聲明：
 
@@ -210,23 +210,23 @@ HTML元素內含class=&quot;mktoText&quot;的內容（如果提供）將用作Ri
 
 `<pre data-theme="Confluence">${textFontFamily}</pre>`
 
-## 數字 {#number}
+## 編號{#number}
 
-如果您指定變數為「編號」，一般使用者就可以在電子郵件編輯器中輸入數字。 您使用class=&quot;mktoNumber&quot; `<meta>` 來指定Number變數
+如果您指定變數為「編號」，一般使用者就可以在電子郵件編輯器中輸入數字。 您使用`<meta>`搭配class=&quot;mktoNumber&quot;指定Number變數
 
 必要屬性
 
 * **id**:您在電子郵件範本中參考變數的方式。
-* **mktoName**:字串。 這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
-* **預設值：** 變數的預設數值。
+* **mktoName**:字串。這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
+* **default：變** 數的預設數值。
 
 可選屬性
 
-* **最小值：** 最小接受值。
-* **最大：** 接受值上限。
-* **單位：** 要附加到數字值的單位(例如：px、pt、em等) 顯示在「電子郵件編輯器」中，以及產生的代碼中。
-* **步驟：** 數字變數應增加／減少多少單位（0.1、1、10等）。 若省略，預設為1。
-* **mktoModuleScope**:布林。 控制在模組中使用變數時，變數是本機(true)還是全域(false)。 若省略，則預設為False。
+* **min:** Min accepted value.
+* **max:** Max accepted value.
+* **單位：** 要附加到數字值的單位(例如：px、pt、em等)顯示在「電子郵件編輯器」中，以及產生的代碼中。
+* **步驟：** 數字變數應增加／減少多少單位（0.1、1、10等）。若省略，預設為1。
+* **mktoModuleScope**:布林。控制在模組中使用變數時，變數是本機(true)還是全域(false)。 若省略，則預設為False。
 
 示例聲明：
 
@@ -236,19 +236,19 @@ HTML元素內含class=&quot;mktoText&quot;的內容（如果提供）將用作Ri
 
 `<pre data-theme="Confluence">${textFontSize}</pre>`
 
-## 顏色 {#color}
+## 顏色{#color}
 
-如果您指定變數為「顏色」，使用者將可輸入十六進位顏色值，或從電子郵件編輯器的檢色器選擇顏色。 您使用class=&quot;mktoColor&quot; `<meta>` 指定顏色變數
+如果您指定變數為「顏色」，使用者將可輸入十六進位顏色值，或從電子郵件編輯器的檢色器選擇顏色。 您使用`<meta>`搭配class=&quot;mktoColor&quot;來指定顏色變數
 
 必要屬性
 
 * **id**:您在電子郵件範本中參考變數的方式。
-* **mktoName**:字串。 這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
+* **mktoName**:字串。這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
 
 可選屬性
 
-* **預設值：** 顏色的預設值。 6位十六進位色碼。 例如：#ffffff.
-* **mktoModuleScope**:布林。 控制在模組中使用變數時，變數是本機(true)還是全域(false)。 若省略，則預設為False。
+* **default:** 顏色的預設值。6位十六進位色碼。 例如：#ffffff.
+* **mktoModuleScope**:布林。控制在模組中使用變數時，變數是本機(true)還是全域(false)。 若省略，則預設為False。
 
 示例聲明：
 
@@ -258,23 +258,23 @@ HTML元素內含class=&quot;mktoText&quot;的內容（如果提供）將用作Ri
 
 `<pre data-theme="Confluence">${textColor}</pre>`
 
-## 布林值 {#boolean}
+## 布林{#boolean}
 
-如果您指定變數為布林值，一般使用者將可在電子郵件編輯器中開啟／關閉選項。 您使用class=&quot;mktoBoolean&quot; `<meta>` 指定布林變數
+如果您指定變數為布林值，一般使用者將可在電子郵件編輯器中開啟／關閉選項。 您使用`<meta>`搭配class=&quot;mktoBoolean&quot;指定布林變數
 
 必要屬性
 
 * **id**:您在電子郵件範本中參考變數的方式。
-* **mktoName**:字串。 這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
+* **mktoName**:字串。這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
 
 可選屬性
 
-* **預設值：** 確定切換開關的預設狀態的布爾值。 若省略，則為False。
-* **false_value:** 切換為「關閉」位置時要插入的值。 若省略，則為False。
-* **true_value:** 切換為「開啟」位置時要插入的值。 如果省略，則為true。
-* **false_value_name:** UI顯示在切換為「關閉」位置時。 若省略，則為False。
-* **true_value_name:** UI顯示在ON位置切換時。 如果省略，則為true。
-* **mktoModuleScope**:布林。 控制在模組中使用變數時，變數是本機(true)還是全域(false)。 若省略，則預設為False。
+* **default:** 確定切換開關的預設狀態的布爾值。若省略，則為False。
+* **false_value：切** 換為OFF位置時要插入的值。若省略，則為False。
+* **true_value：切** 換為ON位置時要插入的值。如果省略，則為true。
+* **false_value_name:** UI顯示在切換為OFF位置時。若省略，則為False。
+* **true_value_name:** UI顯示在ON位置切換時。如果省略，則為true。
+* **mktoModuleScope**:布林。控制在模組中使用變數時，變數是本機(true)還是全域(false)。 若省略，則預設為False。
 
 示例聲明：
 
@@ -284,19 +284,19 @@ HTML元素內含class=&quot;mktoText&quot;的內容（如果提供）將用作Ri
 
 `<pre data-theme="Confluence">${showFooter}</pre>`
 
-## HTML區塊 {#html-block}
+## HTML區塊{#html-block}
 
-如果您將變數指定為HTML區塊，一般使用者將可從電子郵件編輯器中輸入逐字發文HTML。 您可使用class=&quot;mktoHTML&quot; `<meta>` 來指定HTML區塊變數
+如果您將變數指定為HTML區塊，一般使用者將可從電子郵件編輯器中輸入逐字發文HTML。 您使用`<meta>`搭配class=&quot;mktoHTML&quot;指定HTML區塊變數
 
 必要屬性
 
 * **id**:您在電子郵件範本中參考變數的方式。
-* **mktoName**:字串。 這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
+* **mktoName**:字串。這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
 
 可選屬性
 
-* **預設值：** HTML編碼值，用作區塊的預設內容。
-* **mktoModuleScope**:布林。 控制在模組中使用變數時，變數是本機(true)還是全域(false)。 若省略，則預設為False。
+* **default:** HTML編碼值，用作區塊的預設內容。
+* **mktoModuleScope**:布林。控制在模組中使用變數時，變數是本機(true)還是全域(false)。 若省略，則預設為False。
 
 示例聲明：
 
@@ -306,19 +306,19 @@ HTML元素內含class=&quot;mktoText&quot;的內容（如果提供）將用作Ri
 
 `<pre data-theme="Confluence">${trackingPixel}</pre>`
 
-## 影像變數 {#image-variable}
+## 影像變數{#image-variable}
 
-如果您指定變數為「影像」，一般使用者就可以在電子郵件編輯器中從影像選擇器中選擇影像。 選取的影像URL將是變數的值。 您可使用class=&quot;mktoImg&quot; `<meta>` 指定影像變數
+如果您指定變數為「影像」，一般使用者就可以在電子郵件編輯器中從影像選擇器中選擇影像。 選取的影像URL將是變數的值。 您使用`<meta>`搭配class=&quot;mktoImg&quot;指定影像變數
 
 必要屬性
 
 * **id**:您在電子郵件範本中參考變數的方式。
-* **mktoName**:字串。 這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
+* **mktoName**:字串。這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
 
 可選屬性
 
-* **預設值：** 元素的預設影像URL。
-* **mktoModuleScope**:布林。 控制在模組中使用變數時，變數是本機(true)還是全域(false)。 若省略，則預設為False。
+* **default：元** 素的預設影像URL。
+* **mktoModuleScope**:布林。控制在模組中使用變數時，變數是本機(true)還是全域(false)。 若省略，則預設為False。
 
 示例聲明：
 
@@ -328,27 +328,27 @@ HTML元素內含class=&quot;mktoText&quot;的內容（如果提供）將用作Ri
 
 `<pre data-theme="Confluence">${heroBackgroundImage}</pre>`
 
-## 模組 {#modules}
+## 模組{#modules}
 
 模組是在範本層級定義的範本區段，將顯示給使用者以插入其電子郵件。 由於您已預先建立這些模組，因此您可以確保這些模組能與您其餘的電子郵件內容正常互動（完全自適應）。 您只能將模組放入容器中。
 
-**對於類型、 `<table>`、 `<tbody>``<thead>`或的容器 `<tfoot>`:**
+**對於類型、 `<table>`、 `<tbody>` `<thead>`或的容器 `<tfoot>`:**
 
-使用class=&quot; `<tr>` mktoModule&quot;指定
+使用`<tr>`搭配class=&quot;mktoModule&quot;指定
 
 **對於類型的容器 `<td>`:**
 
-使用class=&quot; `<table>` mktoModule&quot;指定
+使用`<table>`搭配class=&quot;mktoModule&quot;指定
 
 必要屬性
 
 * **id**:您在電子郵件範本中參考模組的方式。
-* **mktoName**:字串。 這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
+* **mktoName**:字串。這是將顯示在「電子郵件編輯器2.0」中的顯示名稱。最佳實務是使用描述性名稱。
 
 可選屬性
 
-* **mktoActive:** 確定此模組是否顯示在電子郵件編輯器中的模組清單中。 預設為true。 如果為false，則一般使用者無法將模組新增至電子郵件。
-* **mktoAddByDefault:** 確定此模組是否位於建立時使用此模板的新電子郵件的畫布中。 預設為true（如果mktoActive為false，則會忽略此值）。
+* **mktoActive：決** 定此模組是否顯示在電子郵件編輯器中的模組清單中。預設為true。 如果為false，則一般使用者無法將模組新增至電子郵件。
+* **mktoAddByDefault：決** 定此模組是否位於建立時使用此範本之新電子郵件的畫布中。預設為true（如果mktoActive為false，則會忽略此值）。
 
 >[!NOTE]
 >
@@ -356,11 +356,11 @@ HTML元素內含class=&quot;mktoText&quot;的內容（如果提供）將用作Ri
 >
 >包含Marketo語法的類別值（例如mktoModule、mktoContainer、mktoText）會區分大小寫。 自訂屬性名稱（例如mktoimgwidth、mktoname）則否。
 
-## 容器 {#containers}
+## 容器{#containers}
 
 容器保存模組並定義可放置模組的位置。 當使用者重新排序並將模組插入電子郵件時，容器會控制他們可前往的位置。
 
-**使用class= `<table>`&quot;mktoContainer&quot; `<tbody>`、 `<thead>`、 `<tfoot>` 或搭配 `<td>` class=&quot;mktoContainer&quot;指定**
+**使用class= `<table>`&quot;mktoContainer&quot; `<tbody>`指定 `<thead>`,  `<tfoot>` or with  `<td>` class=&quot;mktoContainer&quot;**
 
 必要屬性
 
