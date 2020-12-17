@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 檢視參加項目詳細資訊 {#view-entry-details}
+# 查看條目詳細資訊{#view-entry-details}
 
 當您在「行銷日曆」中檢視登入詳細資訊時，可以看到有關登入的各種酷炫內容。
 
