@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 從計畫視圖重新計畫整個程式 {#rescheduling-an-entire-program-from-the-schedule-view}
+# 從計畫視圖{#rescheduling-an-entire-program-from-the-schedule-view}重新計畫整個程式
 
 當您複製具有日期的程式或事件時，您可能會想要一次重新計畫所有日期。 這是方法。
 
