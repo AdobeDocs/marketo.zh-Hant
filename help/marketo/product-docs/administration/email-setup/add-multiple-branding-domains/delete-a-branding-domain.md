@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 刪除品牌網域 {#delete-a-branding-domain}
+# 刪除品牌域{#delete-a-branding-domain}
 
 1. 在「我的行銷人員」中，按一下「**管理員**」，然後按一下「**電子郵件**」連結。
 
