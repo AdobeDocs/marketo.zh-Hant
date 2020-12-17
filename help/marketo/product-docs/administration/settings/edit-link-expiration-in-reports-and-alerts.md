@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 編輯報表和警報中的連結過期 {#edit-link-expiration-in-reports-and-alerts}
+# 編輯報表和警報中的連結過期{#edit-link-expiration-in-reports-and-alerts}
 
 報表訂閱電子郵件中的連結會在三天後到期。 若要變更這些連結的到期時間，請依照下列步驟進行。
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
-1. 在「管 **理員**」下，按一 **下「登入設定」**。
+1. 在&#x200B;**Admin**&#x200B;下，按一下&#x200B;**登錄設定**。
 
    ![](assets/image2014-9-24-11-3a33-3a31.png)
 
-1. 按一 **下編輯URL有效期**。
+1. 按一下「編輯URL有效期&#x200B;**」。**
 
    ![](assets/image2014-9-24-11-3a33-3a43.png)
 
-1. 在下拉式清單中，選取連結到期前的天數。 按一下 **儲存**。
+1. 在下拉式清單中，選取連結到期前的天數。 按一下&#x200B;**保存**。
 
    ![](assets/emaillinkexpiration.png)
 
