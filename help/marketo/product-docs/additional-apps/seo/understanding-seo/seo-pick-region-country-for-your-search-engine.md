@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 搜尋引擎的挑選地區／國家 {#seo-pick-region-country-for-your-search-engine}
+# SEO —— 搜尋引擎的挑選地區／國家{#seo-pick-region-country-for-your-search-engine}
 
 SEO管理員將能夠為您想要取得關鍵字排名資訊的搜尋引擎選擇地區。
 
