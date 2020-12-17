@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 關鍵字趨勢圖 {#seo-keyword-trends-chart}
+# SEO —— 關鍵字趨勢圖{#seo-keyword-trends-chart}
 
-監控關鍵字 [SERP排名的趨勢](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) ，這很重要。 檢查此酷炫圖表以監控進度。
+請務必監控關鍵字[SERP排名](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)隨時間變化的趨勢。 檢查此酷炫圖表以監控進度。
 
-1. 前往「關鍵 **字** 」區段。
+1. 前往&#x200B;**Keywords**&#x200B;區段。
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   看？ 它顯示您 [過去](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) 30天的SERP排名：
+   看？ 它顯示您過去30天的[SERP排名](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md):
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
