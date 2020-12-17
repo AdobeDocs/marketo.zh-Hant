@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 在參與串流之間轉換人員 {#transition-people-between-engagement-streams}
+# 在參與串流之間轉換人員{#transition-people-between-engagement-streams}
 
-參與計畫可以有多個串流。 如果 [您新增串流](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)，您會想要定義人們從一個串流移至另一個串流的方式。 這些稱為轉 **場規則。**
+參與計畫可以有多個串流。 如果您[新增串流](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)，您會想要定義人們從一個串流移至另一個串流的方式。 這些稱為&#x200B;**過渡規則。**
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/ma.png)
 
-1. 選擇您的多串流參與計畫，並前往 **Streams**。
+1. 選擇您的多串流參與計畫，然後前往&#x200B;**Streams**。
 
    ![](assets/multistream.jpg)
 
-1. 按一 **下您要從其他串流拉進的串流的「轉場規則」** ，然後按一下「**編輯轉場規則」。**
+1. 按一下您要從其他串流拉進的串流的&#x200B;**轉換規則**，然後按一下**編輯轉換規則。**
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
@@ -31,31 +31,32 @@ ht-degree: 0%
    >
    >過渡規則被拉入流；一律定義您要提取的串流規則。
 
-   轉場規則視窗開啟後，尋找並拖曳您的選擇觸發器。 在這種情況下，我們希望將人員加入Mid Stage（中級階段），以便將其加入機會。「 ![](assets/image2014-9-15-18-3a10-3a46.png)
+   轉場規則視窗開啟後，尋找並拖曳您的選擇觸發器。 在這種情況下，我們希望將人員加入Mid Stage（中級階段），以便將其加入機會。
+「 ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-   `
+   「
 
 1. 讓我們將運算元設為**是任何**，讓人員移居，以獲得任何新增的商機。
 
-   ` ![](assets/image2014-9-15-18-3a11-3a14.png)
+   「 ![](assets/image2014-9-15-18-3a11-3a14.png)
 
-   `
+   「
 
    >[!TIP]
    >
    >您可以新增多個觸發器和篩選器至轉換規則，但轉換規則會使用所有篩選器（只有使用ALL篩選器）。 如果您需要在轉場規則中使用OR，建議您改為設定外部智慧型促銷活動。
 
-1. 按一下 **關閉**。
+1. 按一下&#x200B;**關閉**。
 
    ![](assets/image2014-9-15-18-3a11-3a23.png)
 
    太好了！ 現在，您參與計畫中新增至機會的任何人，都會移至「中階段」串流。
 
-   ` ![](assets/image2014-9-15-18-3a11-3a29.png)
+   「 ![](assets/image2014-9-15-18-3a11-3a29.png)
 
-   `
+   「
 
    >[!NOTE]
    >
-   >上述步驟 *也適* 用於暫 [停的人](http://docs.marketo.com/display/DOCS/Pause+People+in+an+Engagement+Program) 。
+   >上述步驟&#x200B;*do*&#x200B;也適用於暫停[的使用者。](http://docs.marketo.com/display/DOCS/Pause+People+in+an+Engagement+Program)
 
