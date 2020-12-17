@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 新增追蹤的連結至文字電子郵件 {#add-tracked-links-to-a-text-email}
+# 新增追蹤的連結至文字電子郵件{#add-tracked-links-to-a-text-email}
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/two-8.png)
 
-1. 輸入帶雙括弧的URL，如下所示： `[[www.domain.com/path/page.html]]`.
+1. 輸入帶雙括弧的URL，如下所示：`[[www.domain.com/path/page.html]]`。
 
    ![](assets/three-8.png)
 
