@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 重新命名欄位 {#rename-a-field}
+# 更名欄位{#rename-a-field}
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >按一下「 **使用者** 」連結，尋找參考此欄位的資產。
+   >按一下&#x200B;**使用者**&#x200B;連結，以尋找參考此欄位的資產。
 
    ![](assets/changefieldname.png)
 
