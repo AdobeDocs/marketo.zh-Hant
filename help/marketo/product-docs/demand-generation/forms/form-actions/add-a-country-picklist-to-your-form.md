@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 新增國家／地區選取清單至表單 {#add-a-country-picklist-to-your-form}
+# 將「國家／地區選取清單」新增至表單{#add-a-country-picklist-to-your-form}
 
 請依照下列指示，將國家欄位轉換為下拉式清單，並列出所有國家。
 
-1. 前往「行 **銷****活動」**。
+1. 前往&#x200B;**Marketing** **Activity**。
 
    ![](assets/login-marketing-activities-9.png)
 
-1. 選擇您的表單，然後按一 **下「編輯****表單**」。
+1. 選擇表單並按一下「編輯」******「表單」**。
 
    ![](assets/editform-1.png)
 
@@ -27,19 +27,19 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. 尋找並選取 **國家**。
+1. 查找並選擇&#x200B;**Country**。
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. 在選擇「 **Field** Country **(欄位** )」欄位後， **將「FieldType** （類型） **」更改**&#x200B;為「SelectCountry」。
+1. 選擇&#x200B;**Country**&#x200B;欄位後，**Field****Type**&#x200B;將&#x200B;**Select**&#x200B;更改為&lt;a6/>Select。
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **編輯** 值 **** ，以新增使用者可以選擇的國家／地區清單。
+1. **編** 輯值以 **** 新增使用者可以選擇的國家／地區清單。
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. 按一 **下「進階****編輯器」**。
+1. 按一下「**進階** **編輯器**」。
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -55,15 +55,15 @@ ht-degree: 0%
    >
    >您可以編輯清單或使用其他清單。
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. 按一 **下完成**。
+1. 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. 按一 **下「核准並關閉**」。
+1. 按一下「核准並關閉」。****
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
