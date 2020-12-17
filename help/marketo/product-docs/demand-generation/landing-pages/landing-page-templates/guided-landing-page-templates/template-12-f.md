@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本12-F {#template-f}
+# 模板12-F {#template-f}
 
 [下載範本12-F](http://docs.marketo.com/download/attachments/9437589/template-12f.html?version=1&amp;modificationdate=1438211692000&amp;api=v2)
 
