@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 審核跟蹤中的更改詳細資訊 {#change-details-in-audit-trail}
+# 更改審計線索{#change-details-in-audit-trail}中的詳細資訊
 
 Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂閱中正在做什麼。 以下是詳細資訊。
 
-## 資產稽核記錄 {#asset-audit-trail}
+## 資產稽核記錄{#asset-audit-trail}
 
 <table> 
  <colgroup> 
@@ -32,7 +32,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   <tr> 
    <td rowspan="15">預設計畫<br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>建立</td> 
-   <td>頻道類型「頻道類型」<br><br>或從「程式名稱」複製</td> 
+   <td>通道類型"channel type"<br>或<br>從"program name"克隆</td> 
   </tr> 
   <tr> 
    <td>重新命名</td> 
@@ -40,7 +40,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>複製至工作區「工作區名稱」 <br>位置「促銷活動資料夾」或「參與程式」復 <br>製程式名稱「新名稱」</td> 
+   <td>複製到工作區「工作區名稱」 <br>位置「促銷活動資料夾」或「參與程式」 <br>復製程式名稱「新名稱」</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -93,7 +93,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   <tr> 
    <td rowspan="18">電子郵件<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>建立</td> 
-   <td>使用範本「範本名稱」或從「 <br>資產 <br>名稱」複製建立</td> 
+   <td>使用範本「範本名稱」<br>或<br>從「資產名稱」複製建立</td> 
   </tr> 
   <tr> 
    <td>編輯</td> 
@@ -101,11 +101,11 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   </tr> 
   <tr> 
    <td>編輯</td> 
-   <td>已將「從電子郵件」更新<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">為「[受電子郵件保護]</a>」</td> 
+   <td>已將「從電子郵件寄送」更新為「<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a>」</td> 
   </tr> 
   <tr> 
    <td>編輯</td> 
-   <td>將「回覆」更新為「<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[受電子郵件保護]</a>」</td> 
+   <td>已將「回覆」更新為「<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a>」</td> 
   </tr> 
   <tr> 
    <td>編輯</td> 
@@ -145,11 +145,11 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>複製至「Design studio」檔案夾「檔案夾名稱」 <br>將資產名稱「name」<br><br>或Cloned至「Marketing Activitys」，再複製至程式「程式名稱」<br>複製資產名稱「name」</td> 
+   <td>複製至"Design studio"至資料夾"Foldername" <br>複製資產名稱"name"<br>或<br>複製至"Marketing Activity"至程式"program name"<br>複製資產名稱"name"</td> 
   </tr> 
   <tr> 
    <td>移動</td> 
-   <td>移至「Design studio」檔案夾「檔案夾名稱」或移<br><br>至「行銷活動」檔案夾「方案名稱」</td> 
+   <td>移至「Design studio」至資料夾「資料夾名稱」<br>或<br>移至「行銷活動」至「方案名稱」</td> 
   </tr> 
   <tr> 
    <td>核准</td> 
@@ -161,12 +161,12 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   </tr> 
   <tr> 
    <td>草稿</td> 
-   <td>電子郵件的起草是因為程式碼片段「程式碼片段名稱」<br><br>已獲得核准，而電子郵件的起草則是因為範本「範本名稱」已獲得核准</td> 
+   <td>電子郵件的起草是因為程式碼片段「程式碼片段名稱」已核准<br>或<br>電子郵件的起草是因為範本「範本名稱」已核准</td> 
   </tr> 
   <tr> 
    <td rowspan="17">電子郵件方案</td> 
    <td>建立</td> 
-   <td>頻道類型「頻道類型」<br><br>或從「程式名稱」複製</td> 
+   <td>通道類型"channel type"<br>或<br>從"program name"克隆</td> 
   </tr> 
   <tr> 
    <td colspan="1">重新命名</td> 
@@ -174,7 +174,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>複製到工作區「工作區名稱」 <br>位置「促銷活動資料夾或參與程式」復 <br>製程式名稱「新名稱」</td> 
+   <td>複製到工作區「工作區名稱」 <br>位置「促銷活動資料夾或參與程式」 <br>複製的程式名稱「新名稱」</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -255,7 +255,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>已複製至「檔案夾名稱」 <br> 已複製資產名稱「名稱」</td> 
+   <td>複製至「資料夾名稱」 <br>複製的資產名稱「名稱」</td> 
   </tr> 
   <tr> 
    <td>核准</td> 
@@ -268,7 +268,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   <tr> 
    <td rowspan="23">參與計畫</td> 
    <td>建立</td> 
-   <td>頻道類型「頻道類型」<br> ，或從<br> 「程式名稱」複製</td> 
+   <td>渠道類型「渠道類型」<br>或<br>從「程式名稱」克隆</td> 
   </tr> 
   <tr> 
    <td>重新命名</td> 
@@ -276,7 +276,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>複製到工作區「工作區名稱」 <br>位置「促銷活動資料夾或參與程式」復 <br>製程式名稱「新名稱」</td> 
+   <td>複製到工作區「工作區名稱」 <br>位置「促銷活動資料夾或參與程式」 <br>複製的程式名稱「新名稱」</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -300,19 +300,19 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   </tr> 
   <tr> 
    <td>修改程式流</td> 
-   <td>新增<br>contentSteam名稱「stream name」<br>鍵入「Email」或「Program」<br>名稱「email name」或「program name」<br>智慧型促銷活動「智慧型促銷活動名稱」</td> 
+   <td>新增內容<br>串流名稱「串流名稱」<br>鍵入「電子郵件」或「程式」<br>命名「電子郵件名稱」或「程式名稱」<br>智慧型促銷活動「智慧型促銷活動名稱」</td> 
   </tr> 
   <tr> 
    <td>修改程式流</td> 
-   <td>啟用<br>contentStream名稱「stream name」<br>內容名稱「email name」或「program name」</td> 
+   <td>啟用內容<br>串流名稱「串流名稱」<br>內容名稱「電子郵件名稱」或「程式名稱」</td> 
   </tr> 
   <tr> 
    <td>修改程式流</td> 
-   <td>停用<br>contentStream名稱「stream name」<br>內容名稱「email name」或「program name」</td> 
+   <td>停用內容<br>串流名稱「串流名稱」<br>內容名稱「電子郵件名稱」或「程式名稱」</td> 
   </tr> 
   <tr> 
    <td>修改程式流</td> 
-   <td>移除<br>contentStream名稱"stream name"<br>內容名稱"email name"或"program name"</td> 
+   <td>移除內容<br>串流名稱「串流名稱」<br>內容名稱「電子郵件名稱」或「程式名稱」</td> 
   </tr> 
   <tr> 
    <td>修改程式Token</td> 
@@ -361,7 +361,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   <tr> 
    <td rowspan="18">活動計畫</td> 
    <td>建立</td> 
-   <td>頻道類型「頻道類型」<br><br>或從「程式名稱」複製</td> 
+   <td>通道類型"channel type"<br>或<br>從"program name"克隆</td> 
   </tr> 
   <tr> 
    <td>重新命名</td> 
@@ -373,7 +373,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>複製至工作區「工作區名稱」 <br>位置「促銷活動資料夾」或「參與程式」復 <br>製程式名稱「新名稱」</td> 
+   <td>複製到工作區「工作區名稱」 <br>位置「促銷活動資料夾」或「參與程式」 <br>復製程式名稱「新名稱」</td> 
   </tr> 
   <tr> 
    <td>編輯頻道</td> 
@@ -479,11 +479,11 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>複製至「Design studio」檔案夾「檔案夾名稱」 <br>將資產名稱「name」<br><br>或Cloned至「Marketing Activitys」，再複製至程式「程式名稱」<br>複製資產名稱「name」</td> 
+   <td>複製至"Design studio"至資料夾"Foldername" <br>複製資產名稱"name"<br>或<br>複製至"Marketing Activity"至程式"program name"<br>複製資產名稱"name"</td> 
   </tr> 
   <tr> 
    <td>移動</td> 
-   <td>移至「Design studio」檔案夾「檔案夾名稱」或移<br><br>至「行銷活動」檔案夾「方案名稱」</td> 
+   <td>移至「Design studio」至資料夾「資料夾名稱」<br>或<br>移至「行銷活動」至「方案名稱」</td> 
   </tr> 
   <tr> 
    <td>表單</td> 
@@ -493,7 +493,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   <tr> 
    <td rowspan="9">著陸頁面</td> 
    <td>建立</td> 
-   <td>使用範本「範本名稱」或從「 <br>資產 <br>名稱」複製建立</td> 
+   <td>使用範本「範本名稱」<br>或<br>從「資產名稱」複製建立</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -509,11 +509,11 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>複製至「Design studio」檔案夾「檔案夾名稱」<br>複製資產名稱「name」<br>複製資產URL「www.url.com」<br><br>或複製至「Marketing Activities」程式「程式名稱」複製資產名稱「name」 <br><br>複製資產URL「www.url.com」</td> 
+   <td>複製至「Design Studio」檔案夾「檔案夾名稱」<br>複製資產名稱「名稱」<br>複製資產URL「www.url.com」<br>或<br>複製至「行銷活動」至程式「程式名稱」<br>複製資產名稱「name」<br>複製資產URL「www.url.com」</td> 
   </tr> 
   <tr> 
    <td>移動</td> 
-   <td>移至「Design studio」檔案夾「檔案夾名稱」<br> ，或<br> 「移至「行銷活動」檔案夾「方案名稱」</td> 
+   <td>移至「Design studio」至資料夾「資料夾名稱」<br>或<br>移至「行銷活動」至「方案名稱」</td> 
   </tr> 
   <tr> 
    <td>核准</td> 
@@ -530,7 +530,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   <tr> 
    <td rowspan="8">著陸頁面範本</td> 
    <td>建立</td> 
-   <td><p>從「<br><br>資產名稱」複製BlankorCloned</p></td> 
+   <td><p>空白<br>或<br>從「資產名稱」複製</p></td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -546,7 +546,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>複製到「檔案夾名稱」 <br>複製的資產名稱「名稱」</td> 
+   <td>複製至「資料夾名稱」 <br>複製的資產名稱「名稱」</td> 
   </tr> 
   <tr> 
    <td>匯出</td> 
@@ -571,7 +571,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>複製至「人員資料庫」至資料夾「資料夾名稱」 <br>將資產名稱「name」或<br><br>Cloned至「行銷活動」至程式「程式名稱」複製資產<br>名稱「name」</td> 
+   <td>將「人員資料庫」複製至資料夾「資料夾名稱」<br>複製資產名稱「名稱」<br>或<br>複製至「行銷活動」至程式「程式名稱」<br>複製資產名稱「名稱」</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -600,7 +600,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   </tr> 
   <tr> 
    <td>移動</td> 
-   <td>移至「程式」至「程式名稱」程式，<br><br>或移至「檔案夾」至「檔案夾名稱」</td> 
+   <td>移至「程式」至程式「程式名稱」<br>或<br>移至「檔案夾」至檔案夾「檔案夾名稱」</td> 
   </tr> 
   <tr> 
    <td>重新命名</td> 
@@ -616,7 +616,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>克隆到「程式」到程式「程式名」中將資產名稱「 <br>name」或克隆到「<br><br>資料夾」到資料夾「資料夾名稱」克隆的資<br>產名稱「name」</td> 
+   <td>克隆到「程式」到程式「程式名」 <br>克隆的資產名稱「name」<br>或<br>克隆到「資料夾」到資料夾「資料夾名稱」<br>克隆的資產名稱「name」</td> 
   </tr> 
   <tr> 
    <td>修改smartlist設定</td> 
@@ -653,7 +653,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>複製至「人員資料庫」至資料夾「資料夾名稱」 <br>將資產名稱「name」或<br><br>Cloned至「行銷活動」至程式「程式名稱」複製資產 <br>名稱「name」</td> 
+   <td>將「人員資料庫」複製至資料夾「資料夾名稱」<br>複製資產名稱「名稱」<br>或<br>複製至「行銷活動」至程式「程式名稱」<br>複製資產名稱「名稱」</td> 
   </tr> 
   <tr> 
    <td>修改smartlist設定</td> 
@@ -662,7 +662,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   <tr> 
    <td rowspan="11">程式碼片段</td> 
    <td>建立</td> 
-   <td><p>從「<br><br>程式碼片段名稱」複製BlankorCloned</p></td> 
+   <td><p>Blank<br>或<br>從「片段名稱」複製</p></td> 
   </tr> 
   <tr> 
    <td>編輯</td> 
@@ -690,7 +690,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   </tr> 
   <tr> 
    <td>克隆</td> 
-   <td>複製至「檔案夾名稱」 <br>複製的程式碼片段名稱「名稱」</td> 
+   <td>克隆到「資料夾名稱」 <br>克隆的代碼片段名稱「名稱」</td> 
   </tr> 
   <tr> 
    <td>核准</td> 
@@ -707,7 +707,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
  </tbody> 
 </table>
 
-## 管理員稽核記錄 {#admin-audit-trail}
+## 管理審計線索{#admin-audit-trail}
 
 <table> 
  <colgroup> 
@@ -743,7 +743,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   <tr> 
    <td rowspan="3">角色<br><br></td> 
    <td>建立</td> 
-   <td>使用「角色名稱」建立的角色(注：如果您需要有關新增權限的詳細資訊，請聯絡支援)- <br>顯示指派給角色之權限的快照</td> 
+   <td>使用「角色名稱」建立的角色(注：如果您需要有關新增權限的詳細資訊，請聯絡支援)- <br>顯示指派給角色的權限快照</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -761,7 +761,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   <tr> 
    <td rowspan="7">使用者<br><br><br><br></td> 
    <td>建立（邀請）</td> 
-   <td>邀請的用戶：電子郵件「電子郵件地址」、名稱「名字和姓氏」、存取過期時間「空白或含日期」、API使用者「真或假」-顯 <br>示指派給使用者之角色和工作區的快照</td> 
+   <td>邀請的用戶：電子郵件「電子郵件地址」、名稱「名字和姓氏」、存取過期時間「空白或日期」、API使用者「真或假」- <br>顯示指派給使用者之角色和工作區的快照</td> 
   </tr> 
   <tr> 
    <td colspan="1">刪除</td> 
