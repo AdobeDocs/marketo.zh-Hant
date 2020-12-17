@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 變更參與計畫串流 {#change-engagement-program-stream}
+# 變更參與計畫串流{#change-engagement-program-stream}
 
-## 概觀 {#overview}
+## 概述{#overview}
 
-通常您會使 [用串流轉換規則](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) ，但如果您想要手動將人員從一個串流移至另一個串流，這就是要使用的流程步驟。
+通常您會使用[串流轉換規則](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)來達成此目的，但如果您想要手動將人員從一個串流移至另一個串流，則需使用此流程步驟。
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
-## 使用狀況 {#usage}
+## 用法{#usage}
 
 1. 選擇要將人員移至的參與方案。
 
