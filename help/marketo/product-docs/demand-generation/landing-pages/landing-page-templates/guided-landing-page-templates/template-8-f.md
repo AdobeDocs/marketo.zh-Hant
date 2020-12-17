@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本8-F {#template-f}
+# 模板8-F {#template-f}
 
 [下載範本8-F](http://docs.marketo.com/download/attachments/8783975/template-8f.html?version=1&amp;modificationdate=1482175174000&amp;api=v2)
 
