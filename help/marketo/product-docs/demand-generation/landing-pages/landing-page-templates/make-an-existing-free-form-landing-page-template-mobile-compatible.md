@@ -11,37 +11,37 @@ ht-degree: 0%
 ---
 
 
-# 讓現有的自由格式著陸頁面範本與行動相容 {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# 讓現有自由格式著陸頁面範本行動相容{#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 >[!NOTE]
 >
->在2015年1月版本之前建立的著陸頁 [面範本，](../../../../release-notes/2015/release-notes-january-2015.md)需要升級為行動相容。
+>在[2015年1月版本](../../../../release-notes/2015/release-notes-january-2015.md)之前建立的著陸頁面範本必須升級為行動相容。
 
 這可在範本編輯器和著陸頁面編輯器兩處進行。
 
-## 從範本編輯器升級 {#upgrade-from-the-template-editor}
+## 從範本編輯器{#upgrade-from-the-template-editor}升級
 
-1. 前往 **Design Studio**。
+1. 前往&#x200B;**Design Studio**。
 
    ![](assets/designstudio-1.png)
 
-1. 選擇 **模板**。
+1. 選擇&#x200B;**模板**。
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. 選取「Mobile相容 **性」為** 「否 **」的範本**。
+1. 選擇&#x200B;**Mobile Compatible**&#x200B;為&#x200B;**No**&#x200B;的範本。
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. 按一下「 **編輯草稿**」。
+1. 按一下「編輯草稿&#x200B;**」。**
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. 按一 **下「讓行動相容**」。
+1. 按一下「讓行動相容」。****
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. 按一 **下升級**。
+1. 按一下&#x200B;**Upgrade**。
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-22-20-3a36-3a43.png)
 
-## 什麼讓範本與行動相容？ {#what-makes-a-template-mobile-compatible}
+## 什麼讓範本與行動相容？{#what-makes-a-template-mobile-compatible}
 
 問得好！ 您的範本必須有下列標籤：
 
@@ -67,15 +67,15 @@ ht-degree: 0%
 
 如果您對範本進行任何變更，請按一下範本動作，然後選取驗證行動相容性。
 
-## 從自由格式著陸頁面編輯器升級範本 {#upgrading-a-template-from-the-free-form-landing-page-editor}
+## 從自由格式登錄頁編輯器{#upgrading-a-template-from-the-free-form-landing-page-editor}升級模板
 
 當您編輯著陸頁面並按一下行動標籤時，有時會注意到範本尚未升級。 別怕！ 您可以直接升級。
 
-1. 按一下「 **行動** 」標籤。
+1. 按一下&#x200B;**Mobile**&#x200B;頁籤。
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. 按一下核取方塊，然後按一 **下啟動**。
+1. 按一下該複選框，然後按一下&#x200B;**激活**。
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 
@@ -83,7 +83,7 @@ ht-degree: 0%
    >
    >啟動範本的行動版本，將會建立使用範本的任何著陸頁面草稿。
 
-太棒了！ 您現在可 [以自訂使用此範本的所有著陸頁面](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) ，的行動檢視。
+太棒了！ 您現在可以自訂使用此範本的所有著陸頁面的行動檢視[。](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
 
 >[!MORELIKETHIS]
 >
