@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 在登陸頁面中包含日曆事件ICS檔案 {#include-a-calendar-event-ics-file-in-a-landing-page}
+# 在著陸頁面{#include-a-calendar-event-ics-file-in-a-landing-page}中包含日曆事件ICS檔案
 
-日曆 **檔案Token** 可讓您新增日曆事件(.ics)連結至您的Marketo登陸頁面。
+**日曆檔案**&#x200B;代號可讓您新增日曆事件(.ics)連結至您的Marketo登陸頁面。
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 
 
-1. 在著陸頁面編輯器中，按 **一下** {...}以插入Token。
+1. 在著陸頁面編輯器中，按一下&#x200B;**{...}**&#x200B;以插入Token。
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
-1. 選取「日 **歷檔案** 」Token，然後按一 **下「插入」**。
+1. 選擇&#x200B;**日曆檔案**&#x200B;標籤並按一下&#x200B;**插入**。
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    人們將看到如下的著陸頁面：   ![](assets/image2015-1-6-16-3a42-3a51.png)
 
