@@ -20,14 +20,14 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-1.png)
 
-1. 在「智慧型促銷活動動作」下拉式清單下方選取 **[!UICONTROL Clone]**。
+1. 在「智慧型促銷活動動作」下拉式清單下，選取&#x200B;**[!UICONTROL Clone]**。
 
    ![影像2](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-2.png)
 
-1. 按一下下 **[!UICONTROL Destination]** 拉式清單並選擇目標程式或資料夾。
+1. 按一下&#x200B;**[!UICONTROL Destination]**&#x200B;下拉式清單並選擇目標程式或資料夾。
 
    ![影像三](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-3.png)
 
-1. 輸入促銷活動名稱（和選用說明／標籤），然後按一下 **[!UICONTROL Clone]**。
+1. 輸入促銷活動名稱（和選用的說明／標籤），然後按一下&#x200B;**[!UICONTROL Clone]**。
 
    ![影像4](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-4.png)
