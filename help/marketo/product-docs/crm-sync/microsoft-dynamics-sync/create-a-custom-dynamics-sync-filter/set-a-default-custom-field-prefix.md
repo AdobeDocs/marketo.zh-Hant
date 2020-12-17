@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 設定預設自訂欄位首碼 {#set-a-default-custom-field-prefix}
+# 設定預設自訂欄位首碼{#set-a-default-custom-field-prefix}
 
-自訂欄位的預設Microsoft Dynamics首碼必須是新 **的** ,Marketo專屬欄位才能正確同步。 以下是如何變更預設首碼。
+您自訂欄位的預設Microsoft Dynamics首碼必須為&#x200B;**new**,Marketo專屬欄位才能正確同步。 以下是如何變更預設首碼。
 
-1. 前往「設定」並選取「自 **訂」。**
+1. 轉至「設定」並選擇「**自定義」。**
 
    ** ![](assets/image2015-10-9-11-3a18-3a8.png)
 
    **
 
-1. 按一 **下「發佈者**」。
+1. 按一下「**發行者**」。
 
    ![](assets/image2015-10-9-11-3a19-3a39.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-9-11-3a2-3a45.png)
 
-1. 將首碼變更為 **新**。 按一 **下儲存並關閉**。
+1. 將前置詞更改為&#x200B;**new**。 按一下「保存並關閉」(**Save and Close)。**
 
    ![](assets/image2015-10-9-11-3a9-3a17.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-9-11-3a12-3a43.png)
 
-1. 按一 **下「發佈所有自訂」**。
+1. 按一下「**發佈所有自定義**」。
 
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 
