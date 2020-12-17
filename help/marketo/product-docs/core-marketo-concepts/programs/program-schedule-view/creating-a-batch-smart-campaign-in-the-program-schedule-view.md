@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 在方案計畫視圖中建立批智慧型促銷活動 {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
+# 在方案計畫視圖{#creating-a-batch-smart-campaign-in-the-program-schedule-view}中建立批智慧型促銷活動
 
-您可以建立新的智慧型促銷活動， [並從計畫排程檢視](rerun-a-smart-campaign-in-the-program-schedule-view.md) ，重新執行程式內的現有促銷活動。
+您可以建立新的智慧型促銷活動，並從方案排程檢視中重新執行程式內現有的促銷活動[。](rerun-a-smart-campaign-in-the-program-schedule-view.md)
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. 為您的參加項目選擇名稱，這將成為您新的智慧型促銷活動。 按 **Enter/Return鍵** ，確認名稱。
+1. 為您的參加項目選擇名稱，這將成為您新的智慧型促銷活動。 按鍵確認名稱。****
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. 按一下「 **類型** 」下拉式清單，然後選 **擇「智慧****促銷活動**」。
+1. 按一下「**類型**」下拉式清單，然後選擇「**Smart** **促銷活動**」。
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 選擇您的 [智慧型促銷活動](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) 規則。
+1. 選擇您的[智慧型促銷活動](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)規則。
 
    ![](assets/changeprogramstatus-hands.png)
 
