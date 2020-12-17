@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 刪除方案渠道 {#delete-a-program-channel}
+# 刪除程式通道{#delete-a-program-channel}
 
 方案渠道是一組狀態或查核點銷售線索，應在方案中進行。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-16-3a6-3a41.png)
 
-1. 按一 **下「標籤**」。
+1. 按一下「**標籤**」。
 
    ![](assets/image2014-9-24-16-3a7-3a33.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-16-3a10-3a59.png)
 
-砰！ 您也可以從 [渠道刪除特定狀態](delete-a-program-status-from-a-program-channel.md)。
+砰！ 您也可以[從channels](delete-a-program-status-from-a-program-channel.md)刪除特定狀態。
 
 >[!MORELIKETHIS]
 >
