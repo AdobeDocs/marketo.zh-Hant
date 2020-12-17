@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 新增其他品牌網域 {#add-an-additional-branding-domain}
+# 添加附加品牌域{#add-an-additional-branding-domain}
 
 當您從單一Marketing實例執行多個品牌時，新增額外的品牌網域，並希望每個品牌都擁有自己的品牌追蹤連結。
 
 >[!PREREQUISITES]
 >
->您必須先 [將一般追蹤連結取代為品牌化網域](edit-your-default-branding-domain.md) ，然後再新增其他品牌化網域。
+>您必須先將[一般追蹤連結](edit-your-default-branding-domain.md)取代為品牌網域，才能新增其他品牌網域。
 
-1. 在「我的行銷人員」中，按一下「**管理員」**，然後再按一下「電 **子郵件** 」連結。
+1. 在「我的行銷人員」中，按一下「**管理員**」，然後按一下「**電子郵件**」連結。
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -27,13 +27,13 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 輸入新品牌網域的名稱，然後按一下「 **儲存**」。
+1. 輸入新品牌域的名稱，然後按一下「保存」。****
 
    ![](assets/three.png)
 
 >[!NOTE]
 >
->您可以選擇將此設為主要網域，所有現有未傳送的電子郵件都會設為「預設」，而所有新建立的電子郵件都會預設為主要網域。 您將可以根 [據每封電子郵件覆寫](overwrite-primary-domain-for-emails.md)。
+>您可以選擇將此設為主要網域，所有現有未傳送的電子郵件都會設為「預設」，而所有新建立的電子郵件都會預設為主要網域。 您將能夠[根據每封電子郵件覆寫此內容](overwrite-primary-domain-for-emails.md)。
 
 >[!NOTE]
 >
