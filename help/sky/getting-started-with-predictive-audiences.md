@@ -29,8 +29,8 @@ AI/ML模型的效能取決於您訂閱中的資料。 模型的使用頻率越�
 
 「預測性觀眾」會自動包含並啟動，以供使用Prime或Ultimate定價組合的例項使用。 若要進一步瞭解如何存取此功能，請連絡您的客戶成功經理。
 
-1. 將功能新增至您的例項後，請導覽至 **[!UICONTROL Predictive Audiences]** 的區域 **[!UICONTROL Admin]** 中的頁面 [!DNL Marketo Classic]。
+1. 將功能新增至您的例項後，請導覽至[!DNL Marketo Classic]**[!UICONTROL Admin]**&#x200B;區域的&#x200B;**[!UICONTROL Predictive Audiences]**&#x200B;頁面。
 
-1. 選&#x200B;**[!UICONTROL Enable Predictive Audiences]** 中以激活特徵。 請注意，所有流程最多可能需要24小時才能完成設定。
+1. 勾選&#x200B;**[!UICONTROL Enable Predictive Audiences]**&#x200B;以啟用功能。 請注意，所有流程最多可能需要24小時才能完成設定。
 
    ![影像一](/help/sky/assets/predictive-audiences/getting-started-with-predictive-audiences/getting-started-with-predictive-audiences-1.png)
