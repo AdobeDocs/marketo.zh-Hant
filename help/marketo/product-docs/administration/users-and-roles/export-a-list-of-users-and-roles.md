@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 匯出使用者和角色清單 {#export-a-list-of-users-and-roles}
+# 導出用戶和角色清單{#export-a-list-of-users-and-roles}
 
 >[!NOTE]
 >
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 匯出使用者和使用者角色的完整清單相當簡單。 這是方法。
 
-1. 前往管 **理**。
+1. 前往&#x200B;**Admin**。
 
    ![](assets/adminhand.png)
 
-1. 按一 **下「使用者與角色」**。
+1. 按一下「**用戶和角色**」。
 
    ![](assets/image2014-9-10-9-3a25-3a27.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >若要匯出角色，請先前往 **角色**** **標籤，然後匯出。
+   >要導出角色，請先轉到&#x200B;**角色**** **頁籤，然後導出。
 
    ![](assets/image2014-9-10-9-3a25-3a49.png)
 
