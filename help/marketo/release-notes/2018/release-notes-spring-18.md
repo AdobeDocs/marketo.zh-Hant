@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 發行說明：18年春 {#release-notes-spring}
+# 發行說明：彈簧&#39;18 {#release-notes-spring}
 
 Spring &#39;18版本包含下列功能。 檢查您的Marketo版本，以取得功能。
 
 請按一下標題連結，以檢視每個功能的詳細文章。 注意：此版本包含的部分功能沒有相關文章。 如果主題有多個子標題，則會將連結放在此處。
 
-## 行銷人員參與、啟動和輸出應用程式更新 {#marketo-sales-engage-launch-and-toutapp-updates}
+## Marketo Sales Engage、Launch和ToutApp更新{#marketo-sales-engage-launch-and-toutapp-updates}
 
 * [行銷人員與銷售人員互動](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * [啟動](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -45,7 +45,7 @@ Spring &#39;18版本包含下列功能。 檢查您的Marketo版本，以取得�
 * 應用程式內參考線和內容相關說明
 * 資產標籤和更有彈性的日曆檢視
 
-## 效能分析 {#performance-insights}
+## 效能分析{#performance-insights}
 
 [效能分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
@@ -69,11 +69,11 @@ Spring &#39;18版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 最佳化的導覽和改良的工作流程可讓您檢視方案成功准則並存取方案詳細資訊。
 
-## <sup>ContentAI</sup>  {#contentai}
+## 內容<sup>AI</sup> {#contentai}
 
 [目標設定](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-設定<sup>ContentAI最佳化演算法的目標</sup> ，以推動更多檢視、點按或轉換。
+設定Content<sup>AI</sup>最佳化演算法的目標，以推動更多檢視、點按或轉換。
 
 ## 整合與API {#integration-and-apis}
 
@@ -85,7 +85,7 @@ Spring &#39;18版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 使用全新的雙向API，以便遠端建立、讀取、更新和刪除靜態清單，更輕鬆地管理Marketo與其他系統之間的清單，而不需在Marketo UI中採取任何動作。
 
-## 隱私權增強功能 {#privacy-enhancements}
+## 隱私權增強功能{#privacy-enhancements}
 
 [網路追蹤隱私權](http://developers.marketo.com/javascript-api/lead-tracking/)
 
