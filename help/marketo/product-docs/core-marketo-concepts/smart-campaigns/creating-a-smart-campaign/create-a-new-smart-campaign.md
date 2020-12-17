@@ -5,13 +5,13 @@ title: 建立新的智慧型促銷活動
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
 
-# 建立新的智慧型促銷活動 {#create-a-new-smart-campaign}
+# 建立新的智慧型促銷活動{#create-a-new-smart-campaign}
 
 智慧型促銷活動是Marketo中最重要的工具。 他們可以觸發一個人並執行動作，或統計數百萬人並執行一系列流程步驟。
 
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->智慧型宣傳非常酷。 在這裡進一步了 [解](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)。
+>智慧型宣傳非常酷。 進一步瞭解[這裡](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選擇一 **個方案**，然後在「新增 **」下按一下「新** 增本機資產 ****」。
+1. 選擇&#x200B;**Program**，然後在&#x200B;**New**&#x200B;下，按一下&#x200B;**New Local Asset**。
 
    ![](assets/program-localassethands.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
    >
    >您可以建立智慧型促銷活動，作為任何方案的本機資產。
 
-1. 按一下「智 **慧型促銷活動**」。
+1. 按一下&#x200B;**智慧型促銷活動**。
 
    ![](assets/image2014-9-19-15-3a9-3a51.png)
 
-1. 輸入智慧型促銷活動名稱，然後按一 **下建立**。
+1. 輸入智慧型促銷活動名稱，然後按一下「建立&#x200B;**」。**
 
    ![](assets/image2014-9-19-15-3a10-3a41.png)
 
