@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 新增行銷至自訂物件欄位 {#add-marketo-custom-object-fields}
+# 新增行銷至自訂物件欄位{#add-marketo-custom-object-fields}
 
 在建立自訂物件後，您需要新增欄位至物件，以符合您的業務需求。
 
-欄位可定義自訂物件使用的特定資訊。 連結欄位有特殊工作，可用來連接自訂物件，並會涵蓋在個別 [文章中](add-marketo-custom-object-link-fields.md)。
+欄位可定義自訂物件使用的特定資訊。 連結欄位有特殊工作，可連接自訂物件，並在[個別文章](add-marketo-custom-object-link-fields.md)中涵蓋。
 
-1. 按一 **下「管理**」，然後在「資料庫 **管理」中**，選取「 **Marketo自訂物件」**。
+1. 按一下&#x200B;**管理員**，在&#x200B;**資料庫管理**&#x200B;中，選擇&#x200B;**行銷商定制對象**。
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-18-9-3a5-3a3.png)
 
-1. 在**欄位**標籤中，按一下「新 **增欄位」**。
+1. 在**欄位**頁籤中，按一下&#x200B;**新建欄位**。
 
    ![](assets/image2015-9-15-16-3a53-3a40.png)
 
@@ -60,7 +60,7 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >如果您要建立一對多結構，則需要新增「連結」欄位至自訂物件。 對於多對多結構，您不需要自訂物件中的連結欄位，但必須在中介物件中新增兩個連結欄位。 如需 [自訂物件類型的詳細資訊，請參閱新增行銷至自訂物件連結欄位](add-marketo-custom-object-link-fields.md) ，以建立連結欄位，以及 [瞭解行銷至自訂物件](understanding-marketo-custom-objects.md) 。
+   >如果您要建立一對多結構，則需要新增「連結」欄位至自訂物件。 對於多對多結構，您不需要自訂物件中的連結欄位，但必須在中介物件中新增兩個連結欄位。 如需自訂物件類型的詳細資訊，請參閱[新增行銷至自訂物件連結欄位](add-marketo-custom-object-link-fields.md)以建立連結欄位，以及[瞭解行銷至自訂物件](understanding-marketo-custom-objects.md)。
 
 >[!MORELIKETHIS]
 >
