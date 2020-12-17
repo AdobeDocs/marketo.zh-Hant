@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 變更擁有者 {#change-owner}
+# 更改所有者{#change-owner}
 
 如果現有人員已分配給所有者，則可以使用此流程步驟將他們重新分配給其他所有者。
 
@@ -27,10 +27,10 @@ ht-degree: 0%
    >
    >Salesforce不允許將聯繫人指派給銷售線索隊列。 對於SFDC聯繫人記錄：
    >
-   >1. Marketo只有在將連絡人同步 **至Salesforce時** ，才會建立重複的銷售線索。 換言之，如果您使用「將人員同步至SFDC **[」流程步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**`AssignTo=<a lead queue>`,Marketo將在Salesforce中建立重複的銷售線索，並將其指派至銷售線索佇列。
+   >1. 當連絡人同步至Salesforce時，Marketo只會建立重複的銷售機會&#x200B;****。 換言之，如果您使用&#x200B;**[將人員同步至SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**&#x200B;流程步驟與`AssignTo=<a lead queue>`,Marketo將在Salesforce中建立重複的銷售線索，並將其指派至銷售線索佇列。
       >
       >
-   2. 如果您嘗試在連絡人 **上使用「變更擁有者** 」流程步驟，Salesforce中將不會建立任何重複項目。
+   2. 如果您嘗試在連絡人上使用&#x200B;**變更擁有者**&#x200B;流程步驟，Salesforce中將不會建立任何重複項目。
 
 
    >[!NOTE]
