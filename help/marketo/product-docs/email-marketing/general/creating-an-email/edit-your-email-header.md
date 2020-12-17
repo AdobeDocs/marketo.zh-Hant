@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# 編輯您的電子郵件標題 {#edit-your-email-header}
+# 編輯您的電子郵件標題{#edit-your-email-header}
 
 Marketo中的電子郵件標題可完全自訂。 它包括四個欄位：
 
-* **From** —發件人的名稱，您希望其顯示
-* **寄件者地址** -寄件者的電子郵件地址，您希望其顯示為
+* **寄件者** -傳送者的名稱，如您所想，顯示
+* **寄件者** -寄件者的電子郵件地址，您希望其顯示
 * **回覆對象** -您要將某人的回覆傳送至的電子郵件地址（可能與「寄件者」地址不同）
 * **主旨** -電子郵件的主旨行
 
@@ -26,7 +26,7 @@ Marketo中的電子郵件標題可完全自訂。 它包括四個欄位：
 
 >[!TIP]
 >
->若要設定預設的「寄件者名稱」和「寄件者電子郵件」，請 [參閱「變更電子郵件和寄件者標籤的預設值](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)」。
+>若要設定預設的「寄件者名稱」和「寄件者電子郵件」，請參閱[變更「電子郵件的預設值」和「寄件者標籤」](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)。
 
 如果您想要使用Token，請先在所要的欄位中按一下，然後按一下Token圖示。
 
