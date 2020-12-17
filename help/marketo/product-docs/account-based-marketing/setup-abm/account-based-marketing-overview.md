@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 帳戶型行銷概觀 {#account-based-marketing-overview}
+# 帳戶型行銷概觀{#account-based-marketing-overview}
 
 行銷人員，瞭解以帳戶為基礎的行銷。 以帳戶為基礎的行銷，認識行銷人員。
 
@@ -47,18 +47,18 @@ Marketo ABM由三個組成部分組成：
 
 Marketo Account Based Marketing也提供多種工具，讓跨通道的指定帳戶體驗個人化。
 
-* 電子郵件與著陸頁面個人 [化](http://docs.marketo.com/display/DOCS/Personalization)
-* 網頁個人 [化](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
-* URL個人 [化](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
-* 廣告個 [人化](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
-* [個人化再行銷](http://docs.marketo.com/display/DOCS/Website+Retargeting) (Personalized Remarketing)
+* 電子郵件與著陸頁面[個人化](http://docs.marketo.com/display/DOCS/Personalization)
+* Web [個人化](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
+* URL [個人化](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
+* 廣告[個人化](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
+* [個人化](http://docs.marketo.com/display/DOCS/Website+Retargeting) 再行銷
 
 我進去了！ 如何開始使用？
 
-我們以為你不會問！ ABM是您Marketo訂閱的附加元件，請連絡您的銷售代表以實施它。 一旦您取得此文章，請參閱以下文章： [開始使用ABM](getting-started-with-abm.md)。
+我們以為你不會問！ ABM是您Marketo訂閱的附加元件，請連絡您的銷售代表以實施它。 一旦您取得此文章，請參閱以下文章：[開始使用ABM](getting-started-with-abm.md)。
 
 >[!NOTE]
 >
->Marketon ABM中管理的命名帳戶可直接從Web ABM存取，以滿足Web個人化需求。 在這裡進 [一步](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM)。
+>Marketon ABM中管理的命名帳戶可直接從Web ABM存取，以滿足Web個人化需求。 進一步瞭解[此處](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM)。
 
 歡迎使用Marketto ABM，並體驗針對性行銷！
