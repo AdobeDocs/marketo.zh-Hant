@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 稽核記錄概述 {#audit-trail-overview}
+# 稽核記錄概述{#audit-trail-overview}
 
 稽核記錄可讓您取得Marketo實例中所做變更的完整記錄（6個月）。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/one.png)
 
-## 什麼是審計線索 {#what-is-audit-trail}
+## 什麼是審計線索{#what-is-audit-trail}
 
 稽核記錄可即時擷取Marketo訂閱中發生之動作和事件的完整清單。 它包含自助式方式，可存取6個月的資料記錄，以協助回答下列問題：
 
@@ -31,9 +31,9 @@ X使用者最近做了什麼？
 
 誰正在登入我們的帳戶？
 
-## 我們的審計 {#what-we-audit}
+## 我們審計的{#what-we-audit}
 
-Marketo會稽核下列 [項目的建立、編輯](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail) 和刪除動作：
+Marketo會稽核[建立、編輯和刪除](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail)動作：
 
 * 設計工作室資產
 * 所有Marketo程式
@@ -46,9 +46,9 @@ Marketo會稽核下列 [項目的建立、編輯](http://docs.marketo.com/displa
 
 >[!NOTE]
 >
->Marketo目前不 **會審核Web Personalization** 、Predictive Content或Sales Insight中所做的變更。
+>Marketo是&#x200B;**not**&#x200B;目前在Web Personalization、Predictive Content或Sales Insight中所做的審核變更。
 
-## 稽核記錄元件 {#audit-trail-components}
+## 稽核記錄元件{#audit-trail-components}
 
 稽核記錄包含三個元件。
 
@@ -66,9 +66,9 @@ Marketo會稽核下列 [項目的建立、編輯](http://docs.marketo.com/displa
 
 >[!TIP]
 >
->您可以使用稽核記錄進行稽核，請務必使用篩 [選](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)!
+>您可以使用稽核記錄進行稽核，請務必使用[篩選](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)!
 
-## 匯出資料 {#exporting-data}
+## 導出資料{#exporting-data}
 
 您只能在實例中檢視30天的資料。 若要獲得（最多）6個月的價值，請使用匯出選項。
 
@@ -78,7 +78,7 @@ Marketo會稽核下列 [項目的建立、編輯](http://docs.marketo.com/displa
 >
 >**定義**
 >
->**未知：** 在稽核記錄中，您可能會看到使用者的名稱和電子郵件列為「未知」。 當您在CRM中變更選取清單值時，就會發生此情況。 這些值會顯示在Marketo表單和登陸頁面中。 在CRM端執行此更新時，會自動繪製參照表單的著陸頁面。 在稽核記錄中，我們會擷取著陸頁面已起草，但使用者名稱和電子郵件會顯示為「未知」，因為我們無法從CRM端擷取使用者資訊。
+>**未知：在** 稽核記錄中，您可能會看到使用者的名稱和電子郵件列為「未知」。當您在CRM中變更選取清單值時，就會發生此情況。 這些值會顯示在Marketo表單和登陸頁面中。 在CRM端執行此更新時，會自動繪製參照表單的著陸頁面。 在稽核記錄中，我們會擷取著陸頁面已起草，但使用者名稱和電子郵件會顯示為「未知」，因為我們無法從CRM端擷取使用者資訊。
 
 >[!MORELIKETHIS]
 >
