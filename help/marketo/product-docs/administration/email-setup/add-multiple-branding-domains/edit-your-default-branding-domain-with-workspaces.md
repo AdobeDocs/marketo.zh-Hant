@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 使用工作區編輯您的預設品牌網域 {#edit-your-default-branding-domain-with-workspaces}
+# 使用Workspaces {#edit-your-default-branding-domain-with-workspaces}編輯預設品牌域
 
-1. 前往「管 **理員**」，然後按一下「 **電子郵件**」。
+1. 前往&#x200B;**Admin**，然後按一下&#x200B;**Email**。
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Add**** **在您編輯一般網域前無法運作。**&#x200B;刪除&#x200B;******在您新增第二個網域前無法運作。
+   >**Add**** **在您編輯一般網域前無法運作。** Delete ******在您新增第二個網域前無法運作。
    >
    >您必須先編輯一般網域，才能新增其他網域。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 >
 >新增其他品牌網域時，您可以選擇將此網域設為一或多個工作區的主要網域，而所有現有未傳送的電子郵件都設為「預設」，且所有新建立的電子郵件都預設為主要網域。 您可以依每封電子郵件覆寫此資訊。
 
-現在，您可以 [新增工作區所需](add-an-additional-branding-domain-with-workspaces.md) 的其他品牌網域。
+現在，您可以為工作區新增所需的額外品牌網域[。](add-an-additional-branding-domain-with-workspaces.md)
 
 >[!MORELIKETHIS]
 >
