@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 排程循環批次促銷活動 {#schedule-a-recurring-batch-campaign}
+# 排程循環批次促銷活動{#schedule-a-recurring-batch-campaign}
 
 週期可讓您定期執行批次智慧型促銷活動。 例如——每週一次，星期一下午12:00。
 
