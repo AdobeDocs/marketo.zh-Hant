@@ -14,15 +14,15 @@ ht-degree: 0%
 
 <br> 
 
-您可以直接從標籤下方的區段對多個資產 **[!UICONTROL Actions]** 執行大量 **[!UICONTROL Assets]** 動作。 以下說明如何尋找您所需的資產，並套用大量動作給這些資產。
+您可以直接從&#x200B;**[!UICONTROL Assets]**&#x200B;標籤下的&#x200B;**[!UICONTROL Actions]**&#x200B;區段對多個資產執行大量動作。 以下說明如何尋找您所需的資產，並套用大量動作給這些資產。
 
 ## 依資產類型和／或條件篩選
 
-若要尋找您要採取動作的特定資產，請從下拉式清單中選 **[!UICONTROL asset type]** 擇一或多種類型來篩選。
+若要尋找您要採取動作的特定資產，請從下拉式清單中選擇一或多種類型，依&#x200B;**[!UICONTROL asset type]**&#x200B;篩選。
 
 ![影像一](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-1.png)
 
-此外，您也可從下拉式清 **[!UICONTROL asset condition]** 單中選擇一或多個條件來篩選。 您可以個別執行，或與資產類型篩選結合執行。
+此外，您也可以從下拉式清單中選擇一或多個條件，以&#x200B;**[!UICONTROL asset condition]**&#x200B;篩選。 您可以個別執行，或與資產類型篩選結合執行。
 
 ![影像2](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-2.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## 應用成批活動
 
-選取一組資產，然後從下拉式清單中選 **[!UICONTROL Select Action]** 擇動作。 無法套用至您任何選取資 _產的_ 「動作」會自動變灰。
+選取一組資產，然後從&#x200B;**[!UICONTROL Select Action]**&#x200B;下拉式清單中選擇動作。 無法套用至您所選資產之&#x200B;_any_&#x200B;的動作會自動變灰。
 
 ![影像三](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-3.png)
 
@@ -46,13 +46,13 @@ ht-degree: 0%
 
 ## 狀態通知
 
-您可以在托盤中找到成批操作的狀 **[!UICONTROL Recent Notifications]** 態。
+您可以在&#x200B;**[!UICONTROL Recent Notifications]**&#x200B;托盤中找到成批操作的狀態。
 
 ![影像5](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-5.png)
 
 ## 大量動作失敗
 
-如果您選擇的動作因資產需要修正而無法套用，您會收到部分失敗的通知（使用黃色的警告符號）。 如果動作無法套用至您 _的所有_ ，則通知會有紅色的警告符號。 按一 **[!UICONTROL View Failures]** 下以取得詳細資訊。
+如果您選擇的動作因資產需要修正而無法套用，您會收到部分失敗的通知（使用黃色的警告符號）。 如果動作無法套用至您所選資產的&#x200B;_all_，則通知會顯示紅色警告符號。 按一下&#x200B;**[!UICONTROL View Failures]**&#x200B;以取得詳細資訊。
 
 ![影像6](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-6.png)
 
