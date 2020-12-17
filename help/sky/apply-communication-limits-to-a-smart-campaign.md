@@ -16,22 +16,22 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->記得啟用 [通訊限制](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits)
+>請記住[啟用通信限制](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits)
 
 >[!NOTE]
 >
 >當任何人超過設定的通訊限制時，Market會封鎖非營運性電子郵件（營運性電子郵件一律會傳送）。
 
-1. 選取您的智慧型促銷活動，然後按一下 **[!UICONTROL Schedule]** 標籤。
+1. 選擇您的智慧型促銷活動，然後按一下&#x200B;**[!UICONTROL Schedule]**&#x200B;標籤。
 
    ![影像一](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-1.png)
 
-1. 開啟 [!UICONTROL Qualification Rules] 並選中復 **[!UICONTROL Block non-operational emails]** 選框。
+1. 開啟[!UICONTROL Qualification Rules]並選中&#x200B;**[!UICONTROL Block non-operational emails]**&#x200B;複選框。
 
    ![影像2](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-2.png)
 
 >[!TIP]
 >
->若要將此設為預設值，請在「管理 [員」區段中](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits) ，編輯您的通訊限制。
+>若要將此設為預設值，請在「管理」區段中編輯您的[通訊限制](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits)。
 
 現在，您可以放心，不會意外傳送太多電子郵件給您的觀眾。
