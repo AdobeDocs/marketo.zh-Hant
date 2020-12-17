@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 發佈反向連結選件 {#publish-a-referral-offer}
+# 發佈反向連結選件{#publish-a-referral-offer}
 
-建立 [反向連結選件後](create-a-referral-offer.md)，您可以在Marketo登陸頁面、Facebook和網站上發佈該選件。
+在[建立反向連結選件](create-a-referral-offer.md)後，您可將它發佈在您的Marketo登陸頁面、Facebook和網站上。
 
 1. 導覽至您的登陸頁面並開啟它以進行編輯。
 
    ![](assets/image2014-9-19-11-3a15-3a30.png)
 
-1. 從右側 **的浮動視窗拖曳** 「反向連結選件」。
+1. 從右側的浮動視窗拖曳至&#x200B;**轉介選件**。
 
    ![](assets/image2014-9-19-11-3a15-3a42.png)
 
-1. 選取您的轉介選件，然後按一下「 **插入**」。
+1. 選擇您的轉介選件，然後按一下「插入」。****
 
    ![](assets/image2014-9-19-11-3a15-3a52.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 >
 >您必須核准您的轉介選件，才能在此處提供。
 
-恭喜！ 核准著陸頁面，且您的反向連結選件是即時的。 您也可以 [將登陸頁面發佈至Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) , [或將選件放在您的網站上](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)。
+恭喜！ 核准著陸頁面，且您的反向連結選件是即時的。 您也可以[將登陸頁面發佈至Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)或[將選件放在您的網站](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)上。
 
 >[!TIP]
 >
