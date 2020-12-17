@@ -20,6 +20,6 @@ ht-degree: 0%
 
 ## 隨選載入
 
-空的檔案夾圖示表示該檔案夾包含的資產未在選取的日期範圍 [內修改](/help/sky/configuring-the-tree.md) ，因此會隱藏。 若要檢視這些資產，請將滑鼠指標暫留在資料夾圖示上，檔案夾圖示會變更為下列的重新整理圖示。 按一下以重新整理並載入所有資產。
+空的資料夾圖示表示資料夾包含的資產未在[選取的日期範圍](/help/sky/configuring-the-tree.md)中修改，因此會隱藏。 若要檢視這些資產，請將滑鼠指標暫留在資料夾圖示上，檔案夾圖示會變更為下列的重新整理圖示。 按一下以重新整理並載入所有資產。
 
 ![影像2](/help/sky/assets/tree/understanding-icons-in-the-tree/understanding-icons-in-the-tree-2.png)
