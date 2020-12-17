@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 將人員加入參與計畫 {#add-people-to-an-engagement-program}
+# 將人員新增至參與計畫{#add-people-to-an-engagement-program}
 
 有幾種方式可以讓人們成為參與計畫的成員：
 
 * [新增至參與計畫](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
-* [變更參與計畫活動順序](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) ，流程步驟
-* [變更參與計畫串流](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) (Change Engagement Program Stream)步驟
+* [變更參與計畫](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) Cadenceflow步驟
+* [變更參與計畫串流](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) 步驟
 * [更改程式狀態](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 流步驟
 * 如果某人填寫參與計畫的本地表單
 * 將成員導入項目群(通過項目群中的「成員」(Members)頁籤)
