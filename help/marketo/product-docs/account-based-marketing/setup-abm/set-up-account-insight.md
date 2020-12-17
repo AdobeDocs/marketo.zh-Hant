@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 設定帳戶分析 {#set-up-account-insight}
+# 設定帳戶分析{#set-up-account-insight}
 
 以下是如何設定帳戶分析。
 
 >[!PREREQUISITES]
 >
->必須先 [設定ABM帳戶分數](http://docs.marketo.com/display/DOCS/Account+Score) 。
+>ABM帳戶分數[必須先設定](http://docs.marketo.com/display/DOCS/Account+Score)。
 
-1. 按一 **下管理**。
+1. 按一下&#x200B;**管理**。
 
    ![](assets/admin-1.png)
 
-1. 按一下 **樹中的** ABM ，然後按一下 **ABM銷售頁籤** 。
+1. 按一下樹中的&#x200B;**ABM** ，然後按一下&#x200B;**ABM銷售**&#x200B;頁籤。
 
    ![](assets/two-5.png)
 
-1. 按一 **下編輯**。
+1. 按一下&#x200B;**編輯**。
 
    ![](assets/three-4.png)
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果「 [Account Score](http://docs.marketo.com/display/DOCS/Account+Score) 」（帳戶分數）設定在任何時候更新，管理員必須更新「ABM銷售」(ABM Sales)下的設定，以確保分數能正確反映使用者的偏好。 使用者需要登出並登入，才能查看變更。
+   >如果[帳戶分數設定](http://docs.marketo.com/display/DOCS/Account+Score)在任何時候都已更新，管理員必須更新ABM銷售下的設定，以確保分數能正確反映使用者的偏好。 使用者需要登出並登入，才能查看變更。
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/five-4.png)
 
