@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在程式計畫視圖中移動條目 {#moving-entries-in-the-program-schedule-view}
+# 移動程式計畫視圖{#moving-entries-in-the-program-schedule-view}中的條目
 
 移動計畫視圖中的條目將自動重新計畫它們。
 
