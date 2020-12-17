@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 新增至參與計畫 {#add-to-engagement-program}
+# 新增至參與計畫{#add-to-engagement-program}
 
-## 概觀 {#overview}
+## 概述{#overview}
 
 您使用此流程步驟建立的智慧型促銷活動將是您參與計畫的入口。
 
 ![](assets/image2014-9-22-14-3a47-3a32.png)
 
-## 使用狀況 {#usage}
+## 用法{#usage}
 
 1. 選擇您要新增人員的參與計畫。
 
