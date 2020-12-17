@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SFDC同步：銷售線索／帳戶擁有者同步 {#sfdc-sync-lead-account-owner-sync}
+# SFDC同步：銷售線索／帳戶擁有者同步{#sfdc-sync-lead-account-owner-sync}
 
 這些表格在技術上正在同步Salesforce中的「使用者」表格，不過我們會將其稱為「銷售機會／帳戶擁有者」欄位。
 
-## 哪些欄位將與Marketo同步？ {#which-fields-will-sync-to-marketo}
+## 哪些欄位將與Marketo同步？{#which-fields-will-sync-to-marketo}
 
 對於同步至Marketo的每個人，我們也會同步下列擁有者欄位：
 
@@ -31,21 +31,21 @@ ht-degree: 0%
 * 帳戶擁有者姓氏
 * 帳戶擁有者電子郵件地址
 
-## 我可以變更Marketo中的銷售線索擁有者嗎？ {#can-i-change-the-lead-owner-in-marketo}
+## 我可以變更Marketo中的銷售線索擁有者嗎？{#can-i-change-the-lead-owner-in-marketo}
 
-當然，只要使用「變更擁 [有者](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md) 」流動動作。
+當然，只要使用[Change Owner](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)流動操作即可。
 
 >[!NOTE]
 >
->您不能使用「使用人員詳細資訊」頁 [更改責任人資訊](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)。
+>您不能使用[使用人員詳細資訊頁](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)更改所有者資訊。
 
-## 我可以如何處理這些資料？ {#what-can-i-do-with-this-data}
+## 我可以如何處理這些資料？{#what-can-i-do-with-this-data}
 
 有許多理由可使用此資料，例如
 
 * 從銷售擁有者傳送具有簽名的個人化電子郵件
 * 篩選特定銷售代表以進行行銷或甚至分析成效
 * Marketo中的分配（和重新分配）規則
-* 在「更改所 [有者](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)」、「將人 [員同步到SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)」和「創 [](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 建任務流」操作中使用它們
+* 在[更改所有者](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)、[將人員同步到SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)和[建立任務](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)流操作中使用它們
 
 Marketto肯定有絕佳的Salesforce同步。 沒有人能這麼做！
