@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 資料庫儀表板 {#database-dashboard}
+# 資料庫儀表板{#database-dashboard}
 
 「資料庫儀表板」是快照，可協助您快速確定工作區內人員的關鍵屬性。
 
@@ -19,9 +19,9 @@ ht-degree: 0%
 >
 >每個工作區都有自己的資料庫。
 
-若要到達此位置，您可以按一下 **主畫面上的** 「資料庫」圖格……   ![](assets/db-3.png)
+要到達此位置，可按一下主螢幕上的&#x200B;**資料庫**&#x200B;表徵圖……   ![](assets/db-3.png)
 
-或按一下Marketto標誌並選取「資 **料庫**」。
+或者，按一下Marketo標誌並選取&#x200B;**Database**。
 
 ![](assets/db2.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->想要取得您人員的更具體或即時資訊？ 試用人員 [績效報表](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)。
+>想要取得您人員的更具體或即時資訊？ 試用[人員績效報表](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)。
 
-**總人數：** 該工作區的所有時間人員人數。  **適銷對象：** 工作區的全職人員人數減 *去下列*:沒有電子郵件地址的人、電子郵件遭到硬性反彈的人、被屏蔽的人、被取消訂閱的人、目前被暫停營銷的人。
+**總人數：** 該工作區的所有時間人員人數。**適銷對** 手：工作區的全職人員人數減 *去下列*:沒有電子郵件地址的人、電子郵件遭到硬性反彈的人、被屏蔽的人、被取消訂閱的人、目前被暫停營銷的人。
 
