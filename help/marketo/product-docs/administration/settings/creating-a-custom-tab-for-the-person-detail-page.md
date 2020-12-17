@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 為「人員詳細資訊」頁建立自定義標籤 {#creating-a-custom-tab-for-the-person-detail-page}
+# 為「人員詳細資訊」頁面{#creating-a-custom-tab-for-the-person-detail-page}建立自定義頁籤
 
 如果您發現自己一次又一次地在人員詳細資料中尋找特定欄位集，請考慮建立自訂版面，讓工作更輕鬆。
 
-1. 前往「管 **理員** 」並按一 **下「欄位管理」**。
+1. 前往&#x200B;**Admin**，然後按一下「欄位管理」。****
 
    ![](assets/image2014-9-16-16-3a41-3a41.png)
 
-1. 按一下「自 **訂版面設計器** 」標籤。
+1. 按一下「自訂版面設計器」標籤。****
 
    ![](assets/image2014-9-16-16-3a41-3a55.png)
 
