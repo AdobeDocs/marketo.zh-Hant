@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 停用觸發器智慧型促銷活動 |計畫標籤 {#deactivate-a-trigger-smart-campaign-schedule-tab}
+# 停用觸發器智慧型促銷活動 |計畫標籤{#deactivate-a-trigger-smart-campaign-schedule-tab}
 
 如果您有需要停用的舊觸發器促銷活動，請遵循下列步驟：
 
@@ -29,5 +29,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這會阻 *止新人* 進入流程，但等待步驟或任何其他流程步驟中的人將繼續在流程中移動直到完成。
+>這將阻止&#x200B;*new*&#x200B;人員進入流程，但等待步驟或任何其他流程步驟的人員將繼續在流程中移動直到完成。
 
