@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 建立和更改清單和智慧清單的視圖 {#create-and-change-views-for-lists-and-smart-list}
+# 建立和更改清單和智慧清單的視圖{#create-and-change-views-for-lists-and-smart-list}
 
 智慧型清單會顯示預設的欄集。 您知道可以根據您的內容編輯這些欄嗎？ 這是方法。
 
-## 建立檢視 {#create-a-view}
+## 建立視圖{#create-a-view}
 
-1. 轉到清單或智慧清單，按一下「 **People** 」頁籤，然後按一下「View **」下** 拉式頁籤下的「Create **** View **** 」。
+1. 轉至清單或智慧清單，按一下&#x200B;**People**&#x200B;頁籤，然後按一下&#x200B;**View**&#x200B;下拉式清單中的&#x200B;**Create****View**。
 1. ![](assets/smartlist-createview.png)
 
 1. 命名視圖並查找要添加或刪除的列。
@@ -30,11 +30,11 @@ ht-degree: 0%
 
 >[!TIP]
 >
->若要快速搜尋，請使用「尋 **找** 」方塊。
+>若要快速搜尋，請使用&#x200B;**Find**&#x200B;方塊。
 
-## 切換檢視 {#switch-views}
+## 交換機視圖{#switch-views}
 
-1. 按一下「 **檢視** 」下拉式清單，然後選取您想要的檢視。 視需要在檢視之間來回切換。
+1. 按一下&#x200B;**檢視**&#x200B;下拉式清單，然後選取您想要的檢視。 視需要在檢視之間來回切換。
 
    ![](assets/smartlist-customviewchoose.png)
 
@@ -42,29 +42,29 @@ ht-degree: 0%
 >
 > 除了預設視圖外，您必須首先建立第二個視圖，才能切換視圖。
 
-## 編輯視圖 {#edit-a-view}
+## 編輯視圖{#edit-a-view}
 
-1. 請確定您要編輯的檢視已在「檢視」下拉 **式清單中** 選取。
+1. 請確定您要編輯的視圖已在&#x200B;**View**&#x200B;下拉式清單中選取。
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. 按一下「 **編輯** 」選項。
+1. 按一下&#x200B;**編輯**&#x200B;選項。
 
    ![](assets/smartlist-editcustomview.png)
 
-1. 進行您想要的變更，然後按一下「 **儲存**」。
+1. 進行所需更改，然後按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
 
 
-## 刪除視圖 {#delete-a-view}
+## 刪除視圖{#delete-a-view}
 
-1. 從「 **檢視** 」下拉式清單中，選取您要刪除之檢視的 **「編輯** 」選項。
+1. 從&#x200B;**View**&#x200B;下拉式清單中，為要刪除的檢視選擇&#x200B;**Edit**&#x200B;選項。
 
    ![](assets/smartlist-editcustomview.png)
 
-1. 按一 **下刪除**。
+1. 按一下&#x200B;**Delete**。
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 
