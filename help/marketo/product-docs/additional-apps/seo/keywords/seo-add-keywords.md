@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 新增關鍵字 {#seo-add-keywords}
+# SEO —— 新增關鍵字{#seo-add-keywords}
 
 關鍵字是人們在搜尋引擎中輸入的片語。 新增與您的業務最相關的關鍵字。
 
 >[!NOTE]
 >
->如果您有許多關鍵字，則可以 [以CSV檔案匯入關鍵字](seo-importing-keywords-with-a-csv.md)。
+>如果您有許多關鍵字，您可以[以CSV檔案](seo-importing-keywords-with-a-csv.md)匯入它們。
 
-1. 前往「關鍵 **字** 」區段。
+1. 前往&#x200B;**Keywords**&#x200B;區段。
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. 輸入您要定位的關鍵字，然後按一下「 **儲存」**。
+1. 輸入要定位的關鍵字，然後按一下&#x200B;**SAVE**。
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 
