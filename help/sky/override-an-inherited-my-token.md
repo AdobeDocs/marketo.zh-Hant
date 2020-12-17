@@ -16,11 +16,11 @@ ht-degree: 0%
 
 以下是如何在子程式或促銷活動資料夾中覆寫繼承的Token。
 
-1. 在標 [!UICONTROL My Tokens] 簽中，尋找您要在區段中覆寫的代 [!UICONTROL Inherited Tokens] 號。
+1. 在[!UICONTROL My Tokens]標籤中，在[!UICONTROL Inherited Tokens]區段中尋找您要覆寫的代號。
 
    ![影像一](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-1.png)
 
-1. 按一下代號 **[!UICONTROL Value]** 並加以變更。 變更此Token的值會自動將其移至區 [!UICONTROL Overridden Tokens] 段。
+1. 按一下Token **[!UICONTROL Value]**&#x200B;並加以變更。 變更此Token的值會自動將其移至[!UICONTROL Overridden Tokens]區段。
 
    ![影像2](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-2.png)
 
