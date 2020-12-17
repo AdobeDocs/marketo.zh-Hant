@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 命名帳戶概述 {#named-account-overview}
+# 命名帳戶概述{#named-account-overview}
 
 「指名帳戶」會收集您目標公司的人員。 控制面板會針對您所有的指定帳戶提供每個屬性的目前資料。
 
-## 命名帳戶控制面板 {#named-accounts-dashboard}
+## 命名帳戶控制面板{#named-accounts-dashboard}
 
 ![](assets/one.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >Marketo會將同步至Marketo的所有CRM使用者顯示為「帳戶擁有者」或「帳戶團隊成員」的篩選值。
 
-## 命名帳戶屬性 {#named-account-attributes}
+## 命名帳戶屬性{#named-account-attributes}
 
 <table> 
  <tbody> 
@@ -61,7 +61,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>SIC代碼</strong></td> 
-   <td><span><strong>標準</strong>工 <strong></strong><strong></strong>業分類——用於分類行業的四位數代碼<br></span></td> 
+   <td><span><strong>標準</strong>工 <strong></strong> <strong></strong>業分類——用於分類行業的四位數代碼<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>收入</strong></td> 
