@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 將約束添加到智慧清單過濾器 {#add-a-constraint-to-a-smart-list-filter}
+# 將約束添加到智慧清單過濾器{#add-a-constraint-to-a-smart-list-filter}
 
 在建立智慧型清單時，有些篩選器有稱為*constraints的進階選項。 *您可以將這些額外條件新增至篩選器和觸發器，以進一步縮小搜尋範圍。
 
-在此示例中，讓我們將一些約束添加到** [Data Value Changed](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**篩選器中，以查找狀態從MQL更改為SQL的人員。
+在此示例中，讓我們將一些約束添加到** [資料值更改](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**篩選器中，以查找狀態從MQL更改為SQL的人。
 
 >[!PREREQUISITES]
 >
@@ -26,29 +26,29 @@ ht-degree: 0%
 
 
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/ma-1.png)
 
-1. 選擇智慧清單，其中包含要向其添加約束的過濾器，然後按一下「智慧列 **表」頁籤** 。
+1. 選擇包含要向其添加約束的過濾器的智慧清單，然後按一下&#x200B;**智慧清單**&#x200B;頁籤。
 
    ![](assets/two-3.png)
 
-1. 在「添 **加約束**」(Add Constraint **)下，選**&#x200B;擇「上一值」(Previous Value)。
+1. 在&#x200B;**添加約束**&#x200B;下，選擇&#x200B;**上一個值**。
 
    ![](assets/three-3.png)
 
-1. 輸入上 **一個值**。 在此示例中，我們使用MQL。
+1. 輸入&#x200B;**上一個值**。 在此示例中，我們使用MQL。
 
    ![](assets/four-2.png)
 
-1. 在「添 **加約束**」(Add Constraint)下，選 **擇「新值」(New Value**)。
+1. 在&#x200B;**添加約束**&#x200B;下，選擇&#x200B;**新值**。
 
    ![](assets/five.png)
 
-1. 輸入 **新值**。 在此示例中，我們使用SQL。
+1. 輸入&#x200B;**新值**。 在此示例中，我們使用SQL。
 
    ![](assets/six.png)
 
-1. 幹得漂亮！ 按一下「 **People** 」頁籤可查看在過去30天內狀態從 **MQL** 變更為 ******** SQL Changed的所有人員。
+1. 幹得漂亮！ 按一下&#x200B;**People**&#x200B;頁籤可查看在過去30天中具有&#x200B;**Status**&#x200B;從&#x200B;**MQL**&#x200B;更改為&#x200B;**SQL**&#x200B;的所有人員。
 
