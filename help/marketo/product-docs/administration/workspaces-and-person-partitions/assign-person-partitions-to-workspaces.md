@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 將人員分區分配給工作區 {#assign-person-partitions-to-workspaces}
+# 將人員分區分配給工作區{#assign-person-partitions-to-workspaces}
 
 以下是如何編輯人員分區／工作區分配的方法：
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->工作區和人員分區可能很複雜。 請連絡 [Market以取得](http://support.marketo.com/) ，以取得設定協助。
+>工作區和人員分區可能很複雜。 請連絡[行銷人員以取得有關設定的說明。](http://support.marketo.com/)
 
 1. 在「管理」下，按一下「工作區與分區」。
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
-1. 選取您的工作區，然後按一下「 **編輯工作區**」。
+1. 選擇您的工作區，然後按一下「編輯工作區」(Edit Workspace)**。**
 
    ![](assets/two-3.png)
 
@@ -43,9 +43,9 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-   主要人員分區是將輸入所有人員的預設設定。 使用 [流程步驟](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) 或 [指派規則](assigning-person-partitions-with-assignment-rules.md) ，讓人員四處轉移。
+   主要人員分區是將輸入所有人員的預設設定。 使用[流步驟](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)或[分配規則](assigning-person-partitions-with-assignment-rules.md)來移動人員。
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/four-3.png)
 
