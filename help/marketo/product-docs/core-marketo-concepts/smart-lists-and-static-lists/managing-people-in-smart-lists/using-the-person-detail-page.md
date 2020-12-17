@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 使用人員詳細資訊頁 {#using-the-person-detail-page}
+# 使用人員詳細資訊頁{#using-the-person-detail-page}
 
 人員詳細資料頁面包含行銷人員瞭解的所有人員資訊。 您可以直接從此頁面編輯資料。
 
-## 「訪問人員詳細資料」頁 {#getting-to-person-detail-page}
+## Getting to Person Detail Page {#getting-to-person-detail-page}
 
 有許多方式可以開放特定的人。 以下列出一些範例。
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 >
 >**範例**
 >
->* 從「數 **據庫**」中，可以在「快速查找」中搜索
->* 任何智 **能清單** 或清單
->* **方案的** 「成員」頁籤
->* **在智慧型促銷活動中** ，檢視促銷活動成員
->* 部分報 **告**
+>* 從&#x200B;**Database**&#x200B;中，可以在「快速查找」中搜索
+>* 任何智慧型&#x200B;**list**&#x200B;或list
+>* **方** 案會員表
+>* **在智慧型促銷** 活動中檢視促銷活動會籍
+>* 部分&#x200B;**報告**
 
 >
 
@@ -65,13 +65,13 @@ ht-degree: 0%
 | Microsoft銷售線索欄位 | 內建Microsoft欄位。 |
 | 活動日誌 | 與該人相關的所有活動。 |
 
-## 編輯欄位 {#editing-a-field}
+## 編輯欄位{#editing-a-field}
 
 許多欄位都可編輯。 若要更新人員的資訊，請輸入新值，然後按一下欄位外的以儲存。
 
 ![](assets/image2015-2-27-11-3a14-3a2.png)
 
-## CRM同步前的Marketo預設欄位 {#marketo-default-fields-prior-to-crm-sync}
+## CRM同步{#marketo-default-fields-prior-to-crm-sync}之前的Marketto預設欄位
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->有些欄位 *不可編* 輯：
+>有些欄位為&#x200B;*not*&#x200B;可編輯：
 >
 >* 公司資訊
 >* SFDC聯繫人的機會
@@ -107,7 +107,7 @@ ht-degree: 0%
 
 >
 >
-進一步瞭解「系 [統管理」欄位](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)。
+進一步瞭解[系統管理欄位](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)。
 
 >[!MORELIKETHIS]
 >
