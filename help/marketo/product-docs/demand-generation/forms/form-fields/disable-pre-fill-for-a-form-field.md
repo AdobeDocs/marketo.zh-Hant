@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 停用表單欄位的預填 {#disable-pre-fill-for-a-form-field}
+# 停用表單欄位{#disable-pre-fill-for-a-form-field}的預填
 
 已知網頁訪客(Cookie)時，Marketo表格會預先填入欄位中的資訊。 如果你想關掉它，請看如何做。
 
 >[!NOTE]
 >
->**預設會啟用「表單預填** 」功能。 著陸頁面層級預先填滿設定和管理員層級預先填寫設定，高於表單層級設定：
+>**預設啟** 用表單篩選。著陸頁面層級預先填滿設定和管理員層級預先填寫設定，高於表單層級設定：
 >
 >表單&lt;著陸頁面&lt;管理員
 
-1. 前往「行 **銷****活動」**。
+1. 前往&#x200B;**Marketing** **Activity**。
 
    ![](assets/login-marketing-activities-7.png)
 
-1. 選擇您的表單，然後按一 **下「編輯****表單**」。
+1. 選擇表單並按一下「編輯」******「表單」**。
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >在您自己的頁面上內嵌表格時，表格預填無法運作。 它只適用於Marketo登陸頁面。
 
-1. 選擇其中一個欄位，並將「表 **單預** 填」 **設**&#x200B;置為「**禁** 用Jasabled ****」。
+1. 選擇其中一個欄位，將&#x200B;**Form****Pre**-**fill**&#x200B;設定為&#x200B;**Disabled**。
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
    >
    >您也可以在登陸頁面層級或管理層級停用表單預先填寫。
 
-1. 按一 **下完成**。
+1. 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
-1. 按一 **下「核准並關閉**」。
+1. 按一下「核准並關閉」。****
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
@@ -55,5 +55,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->想要進一步瞭解表 [格](http://docs.marketo.com/display/docs/forms)?
+>想要進一步瞭解[forms](http://docs.marketo.com/display/docs/forms)嗎？
 
