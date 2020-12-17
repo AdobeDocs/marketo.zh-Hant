@@ -16,11 +16,11 @@ ht-degree: 0%
 
 以下是如何刪除程式。
 
-1. 尋找您要刪除的程式，然後從下 **[!UICONTROL Delete]** 拉式清 [!UICONTROL Program Actions] 單中選取。
+1. 查找要刪除的程式，然後從[!UICONTROL Program Actions]下拉式清單中選擇&#x200B;**[!UICONTROL Delete]**。
 
    ![影像一](/help/sky/assets/programs/delete-a-program/delete-a-program-1.png)
 
-1. 檢視刪除程式的副作用，然後檢查 **[!UICONTROL Delete all the items listed above]**。 按一 **[!UICONTROL Submit]**&#x200B;下。
+1. 查看刪除程式的副作用，然後檢查&#x200B;**[!UICONTROL Delete all the items listed above]**。 按一下&#x200B;**[!UICONTROL Submit]**。
 
    ![影像2](/help/sky/assets/programs/delete-a-program/delete-a-program-2.png)
 
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->刪除程式將刪除其所有相關資料。 要保留任何資料，您可 [能希望將程式放在存檔資料夾中](/help/sky/archive-a-program.md) 。
+>刪除程式將刪除其所有相關資料。 要保留任何資料，您可能希望[將程式放在存檔資料夾](/help/sky/archive-a-program.md)中。
