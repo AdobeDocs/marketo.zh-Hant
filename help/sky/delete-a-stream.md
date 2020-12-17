@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. 按一下標 **[!UICONTROL Streams]** 簽。
+1. 按一下&#x200B;**[!UICONTROL Streams]**&#x200B;頁籤。
 
    ![影像2](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >刪除串流將導致遺失
    >內容。
 
-1. 按一下齒輪表徵圖，然後選擇 **[!UICONTROL Delete]**。
+1. 按一下齒輪表徵圖，然後選擇&#x200B;**[!UICONTROL Delete]**。
 
    ![影像三](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-3.png)
 
