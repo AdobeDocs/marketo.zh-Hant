@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 設定社交分享需求 {#set-social-share-requirement}
+# 設定社交分享需求{#set-social-share-requirement}
 
-當您建 [立反向連結選件](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)，您可以要求人員共用選件以進行註冊，或將它設為選用。
+當您[建立反向連結選件](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)時，您可以要求人員共用選件以進行註冊，或將它設為選用。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/ma-1.png)
 
-1. 選取轉介選件，然後按一下「編 **輯草稿」**。
+1. 選擇轉介選件，然後按一下「編輯草稿&#x200B;**」。**
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. 在轉介選件編輯器中，前往「應 **用程式設定** 」, **然後前往「註冊流程步驟」**。
+1. 在反向連結選件編輯器中，前往&#x200B;**應用程式設定**，然後前往&#x200B;**註冊流程步驟**。
 
    ![](assets/three.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    * **人員擷取>共用**:人可以略過分享，只要註冊即可。
    * **「共用>人員擷取**:要註冊，人必須共用。
 
-1. 對於每個選項，請參閱「檢視與編輯」視 **窗中的預覽** 。
+1. 對於每個選項，請參閱&#x200B;**檢視與編輯**&#x200B;視窗中的預覽。
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)
 
