@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 在程式排程檢視中建立自訂覆蓋 {#creating-custom-overlays-in-program-schedule-view}
+# 在程式排程檢視{#creating-custom-overlays-in-program-schedule-view}中建立自訂覆蓋
 
 您可以建立自訂覆蓋，以檢視與您需求相關的項目。
 
-1. 按一下 **「議程** 」下拉式清單。
+1. 按一下&#x200B;**Agenda**&#x200B;下拉式清單。
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. 選取 **覆蓋**。
+1. 選擇&#x200B;**覆蓋**。
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. 您也可以依程式標 [記篩選](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)。
+1. 您也可以依[program tags](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)篩選。
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
