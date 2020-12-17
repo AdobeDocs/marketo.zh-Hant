@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用Adobe Experience Manager匯入資產 {#importing-assets-with-adobe-experience-manager}
+# 使用Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}匯入資產
 
 「資產選擇器」可讓Marketon客戶存取、選擇AEM資產，並將其匯入Marketo的Design Studio。 **需要管理員權限**。
 
@@ -23,17 +23,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->請確定您已執行 [AEM設定](https://docs.marketo.com/x/FwPLAQ)。
+>請確定您已執行[AEM Configuration](https://docs.marketo.com/x/FwPLAQ)。
 
 >[!CAUTION]
 >
 >目前，此功能僅在Firefox中完全受支援。 Safari不支援此功能，而且可能無法在最新版Chrome(v. 80)中運作，視您的SameSite Cookie設定而定。
 
-1. 按一 **下Design Studio**。
+1. 按一下「**Design Studio**」。
 
    ![](assets/one-1.png)
 
-1. 按一下「新增」下拉式清單，然後選 **取「從Adobe Experience Manager匯入」**。
+1. 按一下「新增」下拉式清單，然後選取「從Adobe Experience Manager匯入」。****
 
    ![](assets/two-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. 選擇您的資料夾。 然後按一下縮圖以選取您想要的影像（最多可以選取10張）。 完成時 **按一下** 「選擇」。
+1. 選擇您的資料夾。 然後按一下縮圖以選取您想要的影像（最多可以選取10張）。 完成時，按一下「**選擇**」。
 
    ![](assets/five.png)
 
@@ -53,15 +53,15 @@ ht-degree: 0%
    >
    >影像大小不能超過100MB。
 
-1. 按一 **下「匯入** 」以完成程式。
+1. 按一下&#x200B;**Import**&#x200B;以完成該過程。
 
    ![](assets/six-1.png)
 
-   就這樣！ 按一 **下** 「關閉」以返回Design Studio。
+   就這樣！ 按一下&#x200B;**關閉**&#x200B;以返回Design Studio。
 
    ![](assets/seven-1.png)
 
-## 注意事項 {#things-to-note}
+## 注意事項{#things-to-note}
 
 Marketo目前支援Adobe Experience Manager 6.4和6.5版。
 
