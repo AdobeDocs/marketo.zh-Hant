@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 發行說明：2012年1月/2月 {#release-notes-jan-feb}
+# 發行說明：2012年1月/2月{#release-notes-jan-feb}
 
 1月/2月發行包含下列功能。 檢查您的Marketo版本，以取得功能。 在發行後回來，取得詳細功能檔案的連結。
 
@@ -19,9 +19,9 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->如需其他版本，請參 [閱版本說明](http://docs.marketo.com/display/docs/release+notes) 。
+>如需其他版本，請參閱[發行說明](http://docs.marketo.com/display/docs/release+notes)深入探討。
 
-## 進階動態內容 {#advanced-dynamic-content}
+## 進階動態內容{#advanced-dynamic-content}
 
 *適用於Pro和Enterprise版本*
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## 區段  {#segmentation}
+## 區段{#segmentation}
 
 *適用於Pro和Enterprise版本*
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-9-3a50-3a42.png)
 
-## 程式碼片段 {#snippets}
+## 代碼片段{#snippets}
 
 *適用於Pro和Enterprise版本*
 
@@ -53,17 +53,17 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-9-3a51-3a11.png)
 
-## EU隱私權指令支援 {#eu-privacy-directive-support}
+## EU Privacy Directive Support {#eu-privacy-directive-support}
 
 尊重瀏覽器「不追蹤」設定的新功能包括停用匿名潛在客戶追蹤的功能；這讓遵守歐盟更嚴格的隱私追蹤法規變得更加容易。
 
 ![](assets/image2014-9-23-9-3a51-3a32.png)
 
-## 單一登入 {#single-sign-on}
+## 單一登入{#single-sign-on}
 
 組織現在可支援使用SAML 2.0從公司入口網站進行單一登入，順暢地登入Marketo應用程式。
 
-## 更新的電子郵件和著陸頁面編輯器 {#updated-email-and-landing-page-editors}
+## 更新的電子郵件和著陸頁面編輯器{#updated-email-and-landing-page-editors}
 
 電子郵件和著陸頁面編輯器經過重新設計，提供更吸引人的介面、直覺式導覽以及大幅改善的使用者體驗，包括：
 
@@ -73,34 +73,34 @@ ht-degree: 0%
 
 編輯器中將顯示「發件人名稱」、「發件人電子郵件」、「收件人(NEW)」和「主旨」。 所有其他設定都可透過「編輯設定」按鈕存取。
 
-## 瀏覽器支援 {#browser-support}
+## 瀏覽器支援{#browser-support}
 
 * Mozilla Firefox 9.0
 * Google Chrome 16
 * Microsoft Internet Explorer 8 &amp; 9
 * **注意**:我們不再支援Internet Explorer 7
 
-## 計畫管理 {#program-management}
+## 方案管理{#program-management}
 
 簡化的程式管理透過Token刪除和更輕鬆的程式刪除來改善可用性。
 
 ![](assets/image2014-9-23-9-3a52-3a11.png)
 
-## 取消訂閱訂閱報表 {#unsubscribe-from-subscription-report}
+## 取消訂閱訂閱報表{#unsubscribe-from-subscription-report}
 
 現在您可以直接從報表取消訂閱訂閱！
 
-## Munchkin更新 {#munchkin-updates}
+## Munchkin Updates {#munchkin-updates}
 
 新的Munchkin呼叫可縮短網頁載入時間，並為點按連結事件提供更一致的效能。
 
-## 計畫機會分析（僅限RCA） {#program-opportunity-analysis-rca-only}
+## 計畫機會分析（僅限RCA）{#program-opportunity-analysis-rca-only}
 
 瞭解對個別銷售機會收入的行銷貢獻
 
 ![](assets/image2014-9-23-9-3a52-3a30.png)
 
-## 方案收入階段分析 {#program-revenue-stage-analysis}
+## 方案收入階段分析{#program-revenue-stage-analysis}
 
 瞭解哪些程式獲得了快速移動器，從而洞察計畫的領先速度
 
