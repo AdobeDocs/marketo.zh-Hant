@@ -5,17 +5,17 @@ title: 將Google AdWords新增為LaunchPoint服務
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
 
-# 將Google AdWords新增為LaunchPoint服務 {#add-google-adwords-as-a-launchpoint-service}
+# 將Google AdWords新增為LaunchPoint服務{#add-google-adwords-as-a-launchpoint-service}
 
-將您的Google AdWords帳戶連結至Marketo，以自動將離線轉換資料從Marketo上傳至Google AdWords。 然後，在AdWords中新增自訂欄後，您就可以從AdWords UI中輕鬆看到哪些點按產生了合格的潛在客戶、機會和新客戶(或您想要追蹤的任何收入階段 [](https://support.google.com/adwords/answer/3073556) )。 此資訊不會出現在Marketo UI中。
+將您的Google AdWords帳戶連結至Marketo，以自動將離線轉換資料從Marketo上傳至Google AdWords。 然後，在AdWords中新增自訂欄[後，您就可以從AdWords UI輕鬆看出哪些點按產生了合格的潛在客戶、機會和新客戶（或您想要追蹤的任何收入階段）。 ](https://support.google.com/adwords/answer/3073556)此資訊不會出現在Marketo UI中。
 
-進一步了 [解Google的離線轉換匯入功能](https://support.google.com/adwords/answer/2998031?hl=en)。
+進一步瞭解[Google的離線轉換匯入功能](https://support.google.com/adwords/answer/2998031?hl=en)。
 
 >[!NOTE]
 >
@@ -23,25 +23,25 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您也可以將 [Google AdWords整合為Launchpoint服務與管理員帳戶](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)。
+>您也可以將[Google AdWords整合為Launchpoint服務與管理員帳戶](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)。
 
-1. 前往「管 **理** 」區段。
+1. 前往&#x200B;**Admin**&#x200B;區段。
 
    ![](assets/login-admin.png)
 
-1. 選擇 **LaunchPoint**。
+1. 選擇&#x200B;**LaunchPoint**。
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 選擇 **新建** 和 **新服務**。
+1. 選擇&#x200B;**新建**&#x200B;和&#x200B;**新建服務**。
 
    ![](assets/image2015-2-23-14-3a54-3a50.png)
 
-1. 輸入顯示名稱，然後選 **取Google AdWords**。
+1. 輸入顯示名稱，然後選擇&#x200B;**Google AdWords**。
 
    ![](assets/new-service-google.png)
 
-1. 選取「 **授權行銷人員**」。
+1. 選擇&#x200B;**授權Marketo**。
 
    >[!NOTE]
    >
@@ -53,19 +53,19 @@ ht-degree: 0%
 
    ![](assets/image2015-2-23-15-3a31-3a16.png)
 
-1. 選擇 **接受**。
+1. 選擇&#x200B;**接受**。
 
    ![](assets/image2015-2-23-16-3a32-3a45.png)
 
-1. 狀態將顯示為 **成功**。 選擇 **下一步**。
+1. 狀態將顯示為&#x200B;**Success**。 選擇&#x200B;**Next**。
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. 將您的離線轉換從Marketing上傳至Google AdWords **每週**或每 **日**。
+1. 將您的離線轉換從Marketing上傳至Google AdWords **Weekly **或&#x200B;**Daily**。
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
-1. 屬性轉換為「 **首次點按** 」 **或「上次點按」**。
+1. 屬性轉換至&#x200B;**首次點按**&#x200B;或&#x200B;**上次點按**。
 
    | 類型 | 定義 |
    |---|---|
@@ -78,13 +78,13 @@ ht-degree: 0%
 
    ![](assets/image2015-2-23-16-3a57-3a49.png)
 
-1. 按一下 **建立**。
+1. 按一下&#x200B;**建立**。
 
    ![](assets/image2015-2-23-17-3a50-3a9.png)
 
    >[!NOTE]
    >
-   >[必須選取自動標籤](https://support.google.com/adwords/answer/1752125?hl=en) ，此功能才能運作。 必須在AdWords內完成停用。
+   >[必須選](https://support.google.com/adwords/answer/1752125?hl=en) 取自動標籤，才能使此功能運作。必須在AdWords內完成停用。
 
    >[!NOTE]
    >
