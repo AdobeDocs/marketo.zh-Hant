@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 在「方案計畫檢視」中重新執行智慧型促銷活動 {#rerun-a-smart-campaign-in-the-program-schedule-view}
+# 在計畫計畫視圖{#rerun-a-smart-campaign-in-the-program-schedule-view}中重新運行智慧促銷活動
 
 您可以直接從方案排程檢視，輕鬆建立現有智慧型促銷活動的新執行。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -33,6 +33,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您也可以從計畫焦點 [進行](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)。
+   >您也可以從[程式焦點](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)執行此操作。
 
 砰！ 就這樣，您已為該智慧型促銷活動排程另一個執行。 如果智慧型促銷活動包含傳送電子郵件步驟，您也會看到這些步驟！
