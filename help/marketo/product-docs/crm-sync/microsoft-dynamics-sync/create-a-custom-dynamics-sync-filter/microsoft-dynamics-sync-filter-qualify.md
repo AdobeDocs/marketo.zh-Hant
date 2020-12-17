@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics Sync篩選器：符合資格 {#microsoft-dynamics-sync-filter-qualify}
+# Microsoft Dynamics Sync篩選器：限定{#microsoft-dynamics-sync-filter-qualify}
 
 當您想要在Microsoft Dynamics中將銷售線索轉換為聯繫人時，請務必使用此預設的「限定」流程。 然後，將它同步至Marketo。
 
-## 轉換程式 {#the-conversion-process}
+## 轉換程式{#the-conversion-process}
 
 以下是篩選器在轉換過程中的運作方式。
 
