@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 從清單中移除 {#remove-from-list}
+# 從清單{#remove-from-list}中刪除
 
-## 概觀 {#overview}
+## 概述{#overview}
 
-由於您能夠**新增至清 [單](add-to-list.md)**，因此您也需要從清單中移除人員。
+由於您能夠** [新增至清單](add-to-list.md)**，因此您還需要一種方式將人員從清單中移除。
 
 ![](assets/image2014-9-22-10-3a44-3a3.png)
 
-## 使用狀況 {#usage}
+## 用法{#usage}
 
-1. 查找並選 **擇** 「List」（清單），您希望從中刪除人員。
+1. 查找並選擇您希望從中刪除人員的&#x200B;**清單**。
 
    ![](assets/image2014-9-22-10-3a44-3a7.png)
 
