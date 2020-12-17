@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 取消已排程的批次促銷活動執行 {#cancel-a-scheduled-batch-campaign-run}
+# 取消已排程的批次促銷活動執行{#cancel-a-scheduled-batch-campaign-run}
 
 如果您已排程某個批次促銷活動的執行，並想要取消，請以下說明方式。
 
