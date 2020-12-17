@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本11-E {#template-e}
+# 模板11-E {#template-e}
 
 [下載範本11-E](http://docs.marketo.com/download/attachments/9437568/template-11e.html?version=1&amp;modificationdate=1438211431000&amp;api=v2)
 
