@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 更改人員分區 {#change-person-partition}
+# 更改人員分區{#change-person-partition}
 
-## 概觀 {#overview}
+## 概述{#overview}
 
-如果您使用工 [作區和分區](http://docs.marketo.com/x/9QMk)，您會想要建立智慧型促銷活動，將人員從一個分區移至另一個分區。
+如果您使用[工作區和分區](http://docs.marketo.com/x/9QMk)，您將希望構建智慧促銷活動，將人員從一個分區移動到另一個分區。
 
 ![](assets/one-3.png)
 
-## 使用狀況 {#usage}
+## 用法{#usage}
 
 1. 選擇要將人員移至的分區。
 
