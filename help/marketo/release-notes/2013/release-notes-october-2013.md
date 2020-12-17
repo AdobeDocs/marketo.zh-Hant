@@ -11,22 +11,22 @@ ht-degree: 0%
 ---
 
 
-# 發行說明：2013年10月 {#release-notes-october}
+# 發行說明：2013年10月{#release-notes-october}
 
-2013年10月發行包含下列功能。 檢查您的 [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) ，以取得功能。
+2013年10月發行包含下列功能。 檢查您的[Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php)是否提供功能。
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.com](http://templates.marketo.com) 展示電子郵件和登陸頁面範本（包括互動式行動電子郵件範本），您可從Marketo Program Library下載。 我們將每月新增範本，並經常檢查！
+[Templates.marketo.](http://templates.marketo.com) com展示電子郵件和登陸頁面範本（包括互動式行動電子郵件範本），您可從Marketo Program Library下載。我們將每月新增範本，並經常檢查！
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.com](http://developers.marketo.com) 適用於想要與Marketo整合的開發人員。 您可以參考不同的整合選項，包括Munchkin JavaScript API、SOAP API程式碼範例、Webhook和電子郵件指令碼。 GitHub上也提供Java SDK [版本](https://github.com/Marketo/SOAP-API-Java-Client)。
+[Developers.marketo.](http://developers.marketo.com) comis適用於想要與Marketo整合的開發人員。您可以參考不同的整合選項，包括Munchkin JavaScript API、SOAP API程式碼範例、Webhook和電子郵件指令碼。 [GitHub](https://github.com/Marketo/SOAP-API-Java-Client)也提供Java SDK。
 
-## 更新的BrightTALK事件適配器 {#updated-brighttalk-event-adapter}
+## 更新的BrightTALK事件適配器{#updated-brighttalk-event-adapter}
 
 將BrightTALK中的其他欄位同步至Marketo，包括公司名稱、職稱、產業和公司規模。
 
-## Android平板裝置事件登入應用程式 {#android-tablet-event-check-in-app}
+## Android平板裝置事件登入應用程式{#android-tablet-event-check-in-app}
 
-使用Google Play上提供的全新 [Android架構登入應用程式](../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) ，將註冊者登記到您的活 [動中](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en)。
+使用我們在[Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en)上提供的全新[Android架構簽入app](../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)，將註冊者簽入您的事件。
