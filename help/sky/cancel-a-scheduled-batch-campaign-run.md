@@ -16,15 +16,15 @@ ht-degree: 0%
 
 如果您已排程某個批次促銷活動的執行，並想要取消，請以下說明方式。
 
-1. 選取促銷活動並前往標 **[!UICONTROL Schedule]** 簽。
+1. 選擇促銷活動並前往&#x200B;**[!UICONTROL Schedule]**&#x200B;標籤。
 
    ![影像一](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. 按一 **[!UICONTROL Scheduled Runs]**&#x200B;下。
+1. 按一下&#x200B;**[!UICONTROL Scheduled Runs]**。
 
    ![影像2](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. 尋找您要取消的排程執行，然後按一 **[!UICONTROL X]** 下最右側的。
+1. 尋找您要取消的排程執行，然後按一下最右側的&#x200B;**[!UICONTROL X]**。
 
    ![影像三](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-3.png)
 
