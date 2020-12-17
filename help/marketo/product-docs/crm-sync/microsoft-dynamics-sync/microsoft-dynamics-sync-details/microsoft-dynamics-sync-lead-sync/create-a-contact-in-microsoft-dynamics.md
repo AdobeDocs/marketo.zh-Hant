@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 在Microsoft Dynamics中建立連絡人 {#create-a-contact-in-microsoft-dynamics}
+# 在Microsoft Dynamics {#create-a-contact-in-microsoft-dynamics}中建立連絡人
 
 1. 選取您要在Dynamics中建立為連絡人的僅限Marketo人員（Microsoft類型為空）。
 
    ![](assets/one.png)
 
-1. 按一 **下「人**&#x200B;員動作和&#x200B;**Microsoft」，然後選** 取「將人 **員同步至Microsoft**」。
+1. 按一下「**人員操作**&#x200B;和&#x200B;**Microsoft,**」並選擇「將人員同步到Microsoft」。****
 
    ![](assets/two.png)
 
-1. 按一 **下「同步為** 」並選 **取「連絡」**。 按一 **下「立即執行**」。
+1. 按一下「同步為」(**Sync As)**&#x200B;並選擇「**Contact**」。 按一下&#x200B;**立即運行**。
 
    ![](assets/three.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. 現在，當您在智慧型促銷活 **動篩選中使用** 「同步為」限制時，可以選取「連絡」。
+1. 現在，在智慧型促銷活動篩選器中使用「同步為」限制時，您可以選取&#x200B;**Contact**。
 
    ![](assets/five.png)
 
