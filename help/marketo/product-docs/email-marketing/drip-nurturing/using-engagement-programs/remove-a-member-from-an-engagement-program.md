@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# 從參與計畫移除會員 {#remove-a-member-from-an-engagement-program}
+# 從項目計畫{#remove-a-member-from-an-engagement-program}中刪除成員
 
-糟了！ 那些人是怎麼進來的？ 您可以使用「變更計畫狀態」流程步驟，從 **參與計畫中移除** 成員。
+糟了！ 那些人是怎麼進來的？ 您可以使用&#x200B;**更改程式狀態**&#x200B;流程步驟從參與程式中刪除成員。
 
 >[!TIP]
 >
->請勿使用此功能來暫停個人的內容。 這將消除分析中的所有歸因。  進一步瞭解如何在參 [與計畫中暫停人員](pause-people-in-an-engagement-program.md)。
+>請勿使用此功能來暫停個人的內容。 這將消除分析中的所有歸因。  進一步瞭解如何在參與計畫中暫停人員[。](pause-people-in-an-engagement-program.md)
 
-## 流量步驟 {#flow-step}
+## 流程步驟{#flow-step}
 
-1. 在「更改程式 **狀態」(Change Program Status** )流程步驟中拖動。
+1. 在&#x200B;**更改程式狀態**&#x200B;流步驟中拖動。
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
-   選擇狀態， **不在程式中**。
+   選擇狀態&#x200B;**Not in Program**。
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   太棒了。 您在智慧型清單中定義的所 [有成員](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ，將不再參與此參與計畫。
+   太棒了。 您在[smart list](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中定義的所有成員將不再參與此項目計畫。
 
-## 暫停人員  {#pause-people}
+## 暫停人員{#pause-people}
 
-有時候，您只想在參與計畫中暫停人員，而不是移除他們。 這是在「變更參與計 **划執行」中完成**。
+有時候，您只想在參與計畫中暫停人員，而不是移除他們。 這是使用&#x200B;**變更參與計畫Cadence**&#x200B;完成的。
 
 >[!MORELIKETHIS]
 >
