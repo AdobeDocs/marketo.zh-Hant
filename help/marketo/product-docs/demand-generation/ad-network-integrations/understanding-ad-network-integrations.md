@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 瞭解廣告網路整合 {#understanding-ad-network-integrations}
+# 瞭解廣告網路整合{#understanding-ad-network-integrations}
 
 ![](assets/hith-golden-gate-144833144-e.jpeg)
 
-## 廣告網路整合的運作方式 {#how-ad-network-integrations-work}
+## 廣告網路整合如何運作{#how-ad-network-integrations-work}
 
 廣告網路整合將Marketto的獨特受眾資料與您的付費媒體系統連結，讓您執行更具針對性的個人化數位廣告宣傳。 這些整合目前可與Facebook、LinkedIn和Google搭配使用。
 
@@ -36,11 +36,11 @@ ht-degree: 0%
 
    * 例如，某人搜尋、查看並點按廣告，然後線上上填寫表格。 之後，他離線收到示範，成為CRM的商機。 廣告商就是在這裡找他的
 
-* 使用網頁個人化重新定 [位網站訪客](http://docs.marketo.com/display/docs/web+personalization)，將其驅回您的網站
+* 使用[Web Personalization](http://docs.marketo.com/display/docs/web+personalization)重新定位網站訪客，將其驅回您的網站
 
    * 依區隔或垂直區隔個人化
 
-## 目前的功能 {#current-functionality}
+## 當前功能{#current-functionality}
 
 您可以使用整合來：
 
@@ -52,11 +52,11 @@ ht-degree: 0%
 
 |  | 受眾資料 | 銷售線索提取 | 離線轉換 |
 |---|---|---|---|
-| ![--](assets/facebook-logo-2-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25-1.png) |
-| ![--](assets/linkedin-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) |
-| ![--](assets/google-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) | ![--](assets/checkmark-flat-25.png) |
+| ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
+| ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
+| ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |
 
-## 觀看影片 {#watch-a-video}
+## 觀看影片{#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/y8xoFczdrKQzAfvnAkAUXH.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
