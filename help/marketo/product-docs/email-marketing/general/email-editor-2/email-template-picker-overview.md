@@ -11,35 +11,35 @@ ht-degree: 0%
 ---
 
 
-# 電子郵件範本選擇器概述 {#email-template-picker-overview}
+# 電子郵件範本選擇器概述{#email-template-picker-overview}
 
-當您建 [立電子郵件](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)，您有數個可供選擇的免費範本。 您也可以建立自己的範本，並儲存以供日後使用。
+當您[建立電子郵件](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)時，您有數個可供選擇的免費範本。 您也可以建立自己的範本，並儲存以供日後使用。
 
 ![](assets/starter-templates.png)
 
-**名稱** 」是您根據範本建立的電子郵件名稱，而非範本本身。 **說明** 也會套用至電子郵件，且為選擇性。
+**「名** 稱」是您根據範本建立的電子郵件名稱，而非範本本身。**說** 明也套用至電子郵件，且為選用。
 
 ![](assets/two-2.png)
 
-如果您的電子郵件至關重要，而您希望它規避通訊限制，請 [勾選方塊](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) ，讓它運作。 **預設會選取** 「在編輯器中開啟」，這表示您想要立即開始編輯新電子郵件。 **創作** ，意思，創作！
+如果您的電子郵件至關重要，而您希望它規避通訊限制，請勾選此方塊，使[可運作。 ](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)**依預設** 會選取「在編輯器中開啟」，這表示您想要立即開始編輯新電子郵件。**創** 意，創作！
 
 ![](assets/three-2.png)
 
-**入門範本** (Starter Templates)包含一系列可立即使用的互動式電子郵件範本。 您可以依現狀使用，或依您的喜好自訂。
+**Starter** Templates包含一套現成可用的互動式電子郵件範本。您可以依現狀使用，或依您的喜好自訂。
 
 ![](assets/starter-templates.png)
 
 >[!NOTE]
 >
->所有客戶都可免費取得行銷人員的入門範本。 雖然這些應用程式會針對主要電子郵件用戶端（和行動裝置）持續更新並最佳化，但您應隨時評估它們是否符合您的需求。 Marketo的「電子郵 [件傳遞功能工具](http://docs.marketo.com/display/DOCS/Email+Deliverability+Tool) 」可顯示不同電子郵件客戶的範本轉譯。 遺憾的是，Marketo無法在付費服務參與之外接受設計要求。
+>所有客戶都可免費取得行銷人員的入門範本。 雖然這些應用程式會針對主要電子郵件用戶端（和行動裝置）持續更新並最佳化，但您應隨時評估它們是否符合您的需求。 Marketo的[電子郵件傳送功能工具](http://docs.marketo.com/display/DOCS/Email+Deliverability+Tool)可顯示不同電子郵件用戶端上範本的轉譯。 遺憾的是，Marketo無法在付費服務參與之外接受設計要求。
 
-**我的範本** ，包含您建立的所有範本。 您也可能有資料夾。   ![](assets/five-2.png)
+**我的** 範本包含您建立的所有範本。您也可能有資料夾。   ![](assets/five-2.png)
 
-所有出現在Design Studio樹狀結構中「電子郵件>範本」下方的檔案夾，都可在「我的範本」 **中使用**。
+所有出現在Design Studio樹狀結構中「電子郵件」>「範本」下方的資料夾，都可在&#x200B;**「我的範本」**&#x200B;中使用。
 
 ![](assets/six-1.png)
 
-若要預覽範本，請將滑鼠指標暫留在範本的縮圖上，然後按一下「預 **覽」**。 您也可以按兩下它。
+若要預覽範本，請將滑鼠指標暫留在範本的縮圖上，然後按一下「預覽」。 ****&#x200B;您也可以按兩下它。
 
 ![](assets/seven-1.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ![](assets/nine-1.png)
 
-如果您喜歡此範本，請按一下右下 **方的** 「選取」進行選擇。 想繼續找嗎？ 按一 **下右** 上方的X。 使用向左和向右箭頭在範本中捲動。
+如果您喜歡此範本，請按一下右下方的&#x200B;**Select**&#x200B;進行選擇。 想繼續找嗎？ 按一下右上方的&#x200B;**X**。 使用向左和向右箭頭在範本中捲動。
 
 ![](assets/ten-1.png)
 
