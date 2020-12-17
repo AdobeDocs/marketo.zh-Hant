@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 建立僅限API的使用者 {#create-an-api-only-user}
+# 建立僅限API的使用者{#create-an-api-only-user}
 
-如果您想要透過 [REST API與Marketo整合](http://developers.marketo.com/documentation/rest/)，則必須建立僅限API的使用者。 這是方法。
+如果您想要透過[REST API](http://developers.marketo.com/documentation/rest/)與Marketo整合，則需要建立僅限API的使用者。 這是方法。
 
 >[!PREREQUISITES]
 >
@@ -27,15 +27,15 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
-1. 在「管 **理員**」下，按一 **下「使用者與角色」。**
+1. 在&#x200B;**Admin**&#x200B;下，按一下&#x200B;**用戶和角色。**
 
    ![](assets/image2014-9-17-9-3a31-3a31.png)
 
-1. 按一 **下「邀請新使用者」**。
+1. 按一下「邀請新使用者」。****
 
    ![](assets/image2014-9-17-9-3a32-3a3.png)
 
-1. 輸入僅限API使用者的電子郵件、名字和姓氏。 按一 **下「下一步**」。
+1. 輸入僅限API使用者的電子郵件、名字和姓氏。 按一下&#x200B;**Next**。
 
    ![](assets/image2016-5-24-10-3a53-3a7.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
    >
    >新增可選原因或存取到期日。 短期員工可輕鬆存取到期日。
 
-1. 選取「 **API僅限** 」角色，並勾選「 **API僅限」核取方塊** 。 按一 **下「下一步**」。
+1. 選擇&#x200B;**API Only**&#x200B;角色並選中&#x200B;**API Only**&#x200B;複選框。 按一下&#x200B;**Next**。
 
    ![](assets/four.png)
 
-1. 按一下 **傳送**。
+1. 按一下&#x200B;**發送**。
 
    ![](assets/image2016-5-24-11-3a8-3a20.png)
 
