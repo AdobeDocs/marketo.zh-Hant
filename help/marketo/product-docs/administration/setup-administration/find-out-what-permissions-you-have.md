@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 瞭解您擁有哪些權限 {#find-out-what-permissions-you-have}
+# 瞭解您擁有的{#find-out-what-permissions-you-have}權限
 
 如果您想知道您在Marketo中擁有或沒有哪些權限，您有一個簡單的方法可以瞭解。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities.png)
 
-1. 按一 **下「完整存取** 」以查看您擁有的權限。
+1. 按一下&#x200B;**完全訪問**&#x200B;查看您擁有的權限。
 
    ![](assets/image2014-9-8-17-3a45-3a13.png)
 
