@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 手動新增傳入連結URL {#seo-add-an-inbound-link-url-manually}
+# SEO —— 手動添加入站連結URL {#seo-add-an-inbound-link-url-manually}
 
 您可以手動新增入站連結。 以下說明方法：
 
-1. 前往「入 **站連結** 」區段。
+1. 轉至&#x200B;**入站連結**&#x200B;部分。
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. 按一 **下新增URL**。
+1. 按一下&#x200B;**添加URLS**。
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. 輸入URL。 按一 **下新增**。
+1. 輸入URL。 按一下&#x200B;**ADD**。
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 
    >[!TIP]
    >
-   >您知道可以將傳入 [連結新增至新清單或現有清單嗎](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? 看看！
+   >您是否知道可以[將入站連結添加到新清單或現有清單](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? 看看！
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
