@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 暫停參與計畫中的人員 {#pause-people-in-an-engagement-program}
+# 在參與計畫中暫停人員{#pause-people-in-an-engagement-program}
 
-當某人是參與計畫的成員時，他們會收到內容，直到用盡所 [有內容](people-who-have-exhausted-content.md)。 您可以使用「變 [更參與計畫Cadence](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) 」流程步驟來阻止人們接收內容，即使他們尚未用盡內容。
+當某人是參與計畫的成員時，他們會收到內容，直到[用盡所有內容](people-who-have-exhausted-content.md)為止。 您可以使用[變更參與計畫Cadence](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)流程步驟，即使尚未用盡內容，也能阻止人們接收內容。
 
 1. 選擇參與計畫。
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. 選取「暫停」**作為「 **新值** 」，以停止人員接收內容。
+1. 選擇**暫停**作為&#x200B;**新值**&#x200B;以阻止人員接收內容。
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   如果您想讓對方再次開始 **接收內容** ，可以將對方設回「正常」。 他們會從上次離開的地方恢復。
+   如果您希望對方再次開始接收內容，可以將對方設回&#x200B;**Normal**。 他們會從上次離開的地方恢復。
 
    >[!NOTE]
    >
