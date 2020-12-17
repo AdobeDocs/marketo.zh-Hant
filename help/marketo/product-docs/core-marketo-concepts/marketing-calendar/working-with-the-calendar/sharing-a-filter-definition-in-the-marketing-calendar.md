@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在行銷日曆中共用篩選定義 {#sharing-a-filter-definition-in-the-marketing-calendar}
+# 在行銷日曆中共用篩選定義{#sharing-a-filter-definition-in-the-marketing-calendar}
 
 篩選器可在不同使用者之間共用。
 
