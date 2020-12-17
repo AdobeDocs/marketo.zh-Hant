@@ -15,15 +15,15 @@ ht-degree: 0%
 
 一次新增多個影像和檔案很簡單。
 
-1. 前往 **Design** **Studio**。
+1. 前往&#x200B;**Design** **Studio**。
 
    ![](assets/designstudio.png)
 
-1. 在「 **New**」(新增 **)下，按一下「Upload Image」（上傳影像）**** 或 **「** File」（檔案）。
+1. 在&#x200B;**New**&#x200B;下，按一下** 「上傳映像」** **或** 「檔案」**。**
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
-1. 選取您要儲存影像或檔案的檔案夾，然後按一下「瀏 **覽**」。
+1. 選擇要儲存影像或檔案的資料夾，然後按一下&#x200B;**瀏覽**。
 
    ![](assets/image2014-9-15-18-3a6-3a21.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
    >
    >每個檔案的最大大小為100MB。
 
-1. 若要新增多個影像和檔案，請瀏覽至您電腦上正確的檔案夾，按 **Ctrl/Cmd** ，然後按一下您要新增的每個檔案，然後按一下「 **開啟」**。
+1. 若要新增多個影像和檔案，請瀏覽至您電腦上的正確資料夾，按&#x200B;**Ctrl/Cmd**&#x200B;並按一下您要新增的每個檔案，然後按一下&#x200B;**開啟**。
 
    ![](assets/image2014-9-15-18-3a6-3a58.png)
 
-1. 展開「 **File Details** （檔案詳細資訊）」 **，確認您選取了正確的影像，然後按一下「** Upload（上傳）」。
+1. 展開&#x200B;**File Details**&#x200B;以確認您選擇了正確的映像，然後按一下&#x200B;**Upload**。
 
    ![](assets/image2014-9-15-18-3a7-3a22.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 >
 >雖然Marketo接受所有檔案類型以進行上傳，但僅能使用主要影像類型（JPG、PNG、GIF等） 將在我們的電子郵件編輯工作。
 
-## 觀看影片 {#watch-a-video}
+## 觀看影片{#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/ZWBeQ5oiXRKG2QAP5E7g6Q.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
