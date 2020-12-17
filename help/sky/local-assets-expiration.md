@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-設定到期日／時間，以解除發佈登陸頁面、停用觸發促銷活動或停止循環批次促銷活動。 您可以在頁籤下的部 **[!UICONTROL Expiration]** 分中找到此 **[!UICONTROL Assets]** 功能。
+設定到期日／時間，以解除發佈登陸頁面、停用觸發促銷活動或停止循環批次促銷活動。 您可以在&#x200B;**[!UICONTROL Assets]**&#x200B;標籤下的&#x200B;**[!UICONTROL Expiration]**&#x200B;區段中找到此功能。
 
 ![影像一](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-1.png)
 
 ## 設定到期日
 
-1. 勾選您要設定到期日的資產，然後按一下 **[!UICONTROL Set Expiration]**。
+1. 勾選您要設定到期日的資產，然後按一下&#x200B;**[!UICONTROL Set Expiration]**。
 
    ![影像2](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-2.png)
 
@@ -28,13 +28,13 @@ ht-degree: 0%
 
    ![影像三](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-3.png)
 
-1. 檢閱受影響的資產，然後按一下 **[!UICONTROL Confirm]**。
+1. 檢視受影響的資產，然後按一下&#x200B;**[!UICONTROL Confirm]**。
 
    ![影像4](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-4.png)
 
 >[!NOTE]
 >
->若要編輯現有的到期日，只需勾選資產並按一下即可 **[!UICONTROL Set Expiration]**。
+>若要編輯現有的到期日，只需勾選資產，然後按一下&#x200B;**[!UICONTROL Set Expiration]**&#x200B;即可。
 
 >[!NOTE]
 >
@@ -42,11 +42,11 @@ ht-degree: 0%
 
 ## 移除到期日
 
-1. 若要移除到期日，請勾選資產並按一下 **[!UICONTROL Remove Expiration]**。
+1. 若要移除到期日，請檢查資產，然後按一下&#x200B;**[!UICONTROL Remove Expiration]**。
 
    ![影像5](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-5.png)
 
-1. 檢閱受影響的資產，然後按一下 **[!UICONTROL Confirm]**。
+1. 檢視受影響的資產，然後按一下&#x200B;**[!UICONTROL Confirm]**。
 
    ![影像6](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-6.png)
 
