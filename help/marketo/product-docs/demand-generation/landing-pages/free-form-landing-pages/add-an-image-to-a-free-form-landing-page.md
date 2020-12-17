@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 新增影像至自由格式著陸頁面 {#add-an-image-to-a-free-form-landing-page}
+# 將影像新增至自由格式著陸頁面{#add-an-image-to-a-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 
 
-1. 選取自由格式的登陸頁面，然後按一下「編 **輯****草稿**」。
+1. 選擇自由格式登錄頁，然後按一下&#x200B;**編輯** **草稿**。
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. 在編輯器中，拖曳至「影像 **」元素** 。
+1. 在編輯器中，拖曳至&#x200B;**Image**&#x200B;元素上。
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a35-3a59.png)
 
-1. 按一 **下插入**。
+1. 按一下&#x200B;**插入**。
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 
