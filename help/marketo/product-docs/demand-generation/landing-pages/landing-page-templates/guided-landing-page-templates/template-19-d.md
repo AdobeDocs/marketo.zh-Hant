@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本19-D {#template-d}
+# 模板19-D {#template-d}
 
 [下載範本19-D](http://docs.marketo.com/download/attachments/10092899/template-19d.html?version=1&amp;modificationdate=1441750473000&amp;api=v2)
 
