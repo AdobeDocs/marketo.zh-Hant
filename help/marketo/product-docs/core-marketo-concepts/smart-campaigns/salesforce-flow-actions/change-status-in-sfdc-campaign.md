@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 更改SFDC促銷活動中的狀態 {#change-status-in-sfdc-campaign}
+# 更改SFDC促銷活動中的狀態{#change-status-in-sfdc-campaign}
 
 >[!NOTE]
 >
 >僅在與Salesforce整合時提供。
 
-## 概觀 {#overview}
+## 概述{#overview}
 
 此流程步驟允許您更改銷售線索的Salesforce促銷活動成員狀態。
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-15-3a13-3a54.png)
 
-## 使用狀況 {#usage}
+## 用法{#usage}
 
-1. 首先尋找並選取記錄 **所在的** Salesforce促銷活動。
+1. 首先尋找並選取記錄所在的Salesforce **Campaign**。
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. 然後選 **擇要設** 置的 **「New** （新建）Status（狀態）」 ，您就完成了！
+1. 然後，選擇要設定的&#x200B;**New****Status**，您就完成了！
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
 
