@@ -5,13 +5,13 @@ title: 為Marketo Sky啟用角色
 translation-type: tm+mt
 source-git-commit: b155f630dfba14a7e1fc2606ca998709f9f29392
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
-# 為Marketo Sky啟用角色 {#enabling-roles-for-marketo-sky}
+# 啟用Marketo Sky的角色{#enabling-roles-for-marketo-sky}
 
 為了運用Marketo Sky，必須啟用所需使用者的角色。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
-1. 在Marketo Classic中，按一下「管 **理」**。
+1. 在Marketo Classic中，按一下&#x200B;**管理**。
 
    ![](assets/enabling-roles-for-marketo-sky-1.png)
 
-1. 在樹中，選擇「 **Marketo Sky」**。
+1. 在樹中，選擇&#x200B;**Marketo Sky**。
 
    ![](assets/enabling-roles-for-marketo-sky-2.png)
 
