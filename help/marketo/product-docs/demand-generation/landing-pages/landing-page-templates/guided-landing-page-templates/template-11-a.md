@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本11-A {#template-a}
+# 模板11-A {#template-a}
 
 [下載範本11-A](http://docs.marketo.com/download/attachments/9437556/template-11a.html?version=1&amp;modificationdate=1438211253000&amp;api=v2)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 按一下下方以下載此範本：
 
-[Template11-A.html](http://docs.marketo.com/download/attachments/9437556/template-11a.html?version=1&amp;modificationdate=1438211253000&amp;api=v2)
+[Template12-A.html](http://docs.marketo.com/download/attachments/9437556/template-11a.html?version=1&amp;modificationdate=1438211253000&amp;api=v2)
