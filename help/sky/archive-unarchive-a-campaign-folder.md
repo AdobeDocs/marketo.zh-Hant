@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## 轉換為存檔資料夾
 
-按一下右鍵任意資料夾並選擇 **[!UICONTROL Convert To Archive Folder]**。
+按一下右鍵任意資料夾並選擇&#x200B;**[!UICONTROL Convert To Archive Folder]**。
 
 ![影像一](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
    >資料夾。
 >* 資料夾中的資產不再顯示在自動建議中。
 >* 建立電子郵件時無法使用封存的範本
-   >或登陸頁面 [!UICONTROL Design Studio]。
+   >或[!UICONTROL Design Studio]中的著陸頁面。
 >* 封存頁面無法用於著陸頁面測試群組。
 
 >
