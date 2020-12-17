@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用自訂邏輯尋找重複人員 {#find-duplicate-people-with-custom-logic}
+# 尋找具有自訂邏輯{#find-duplicate-people-with-custom-logic}的重複人員
 
 Marketo有系統智慧清單，可比對其電子郵件地址以找出重複的人。 如果您想使用其他欄位來尋找重複項目，請參閱以下說明。
 
