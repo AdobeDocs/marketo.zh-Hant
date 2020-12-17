@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 建立方案 {#create-a-program}
+# 建立程式{#create-a-program}
 
 程式是Marketo中最重要的元素之一。 你會經常用它們！
 
-1. 前往行 **銷活動。**
+1. 前往&#x200B;**行銷活動。**
 
    ![](assets/login-marketing-activities.png)
 
-1. 選擇新程式的資料夾。 選擇「 **新增** 」，然後按 **一下「新增計畫**」**.**
+1. 選擇新程式的資料夾。 選擇&#x200B;**新建**&#x200B;並按一下&#x200B;**新建程式****。**
 
    ![](assets/leadlifecycle.jpg)
 
-1. 輸入 **名稱****,**在下拉式清單中選取** [Channel](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)**，然後按一下「建 **立」。**
+1. 輸入&#x200B;**名稱*****,**在下拉式清單中選擇** [Channel](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)**，然後按一下「建立」。****
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
@@ -31,5 +31,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->進一步瞭解 [方案](http://docs.marketo.com/display/docs/programs)。
+>進一步瞭解[programs](http://docs.marketo.com/display/docs/programs)。
 
