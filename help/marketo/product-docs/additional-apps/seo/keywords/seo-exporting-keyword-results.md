@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 匯出關鍵字結果 {#seo-exporting-keyword-results}
+# SEO —— 導出關鍵字結果{#seo-exporting-keyword-results}
 
 您可以匯出關鍵字結果以與團隊共用或建立報表。
 
-1. 前往「關鍵 **字** 」區段。
+1. 前往&#x200B;**Keywords**&#x200B;區段。
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
