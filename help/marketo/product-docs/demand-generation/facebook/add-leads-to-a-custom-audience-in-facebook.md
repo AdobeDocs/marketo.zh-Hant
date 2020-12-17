@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# 在Facebook中新增銷售機會至自訂對象 {#add-leads-to-a-custom-audience-in-facebook}
+# 在Facebook中將銷售機會新增至自訂對象{#add-leads-to-a-custom-audience-in-facebook}
 
 在Facebook中已有自訂對象，想要新增更多客源嗎？ 這是方法。
 
 >[!PREREQUISITES]
 >
 >* [在Facebook中建立自訂對象](create-a-custom-audience-in-facebook.md)
->* [在您的Facebook帳戶中接受Facebook的自訂對象](https://www.facebook.com/ads/manage/customaudiences/tos.php) 「詞語」。
+>* [在您的Facebook帳戶中接受Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) 的自訂對象條款。
 
 >
 
@@ -28,21 +28,21 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 選擇「 **銷售線索** 」標籤，然後按一下底部的**通過廣告橋發送**表徵圖。
+1. 選擇&#x200B;**Leads**&#x200B;標籤，然後按一下底部的**透過廣告橋接傳送**圖示。
 
    ![](assets/two-1.png)
 
-1. 選取**Facebook **，然後按一下「下 **一步**」。
+1. 選擇**Facebook **並按一下&#x200B;**Next**。
 
    ![](assets/three.png)
 
-1. 按一 **下「對象** 」下拉式清單，選取您要新增銷售機會的對象，然後按一下「 **更新」**。
+1. 按一下&#x200B;**Audience**&#x200B;下拉式清單，選取您要新增銷售機會的對象，然後按一下&#x200B;**Update**。
 
    ![](assets/4.png)
 
    >[!NOTE]
    >
-   >**為受眾新增潛在客戶：** 只有具有自訂子類型的Facebook對象才可用。\
+   >**將銷售機會新增** 至對象：只有具有自訂子類型的Facebook對象可用。\
    >**從受眾移除潛在客戶**:從Facebook對象移除靜態或智慧型清單中的潛在客源。
 
 1. 完成後，狀態將會更新。
