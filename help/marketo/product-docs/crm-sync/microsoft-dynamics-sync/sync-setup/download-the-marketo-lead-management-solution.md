@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 下載Marketo Lead管理解決方案 {#download-the-marketo-lead-management-solution}
+# 下載Marketo Lead Management Solution {#download-the-marketo-lead-management-solution}
 
 >[!NOTE]
 >
@@ -21,25 +21,25 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->您必須先下載最新的Marketo Solution，再執行 *任何* 升級。
+>在&#x200B;*執行任何升級之前，您必須先下載最新的Marketo Solution*。
 
 >[!NOTE]
 >
 >Marketo目前僅支援與Java 7相容的SSL憑證。
 
-1. 前往「管 **理** 」區。
+1. 前往&#x200B;**Admin**&#x200B;區域。
 
    ![](assets/admin.png)
 
-1. 按一下 **CRM**。
+1. 按一下&#x200B;**CRM**。
 
    ![](assets/image2015-3-11-13-3a7-3a11.png)
 
-1. 選擇 **Microsoft**。
+1. 選擇&#x200B;**Microsoft**。
 
    ![](assets/image2015-3-11-13-3a9-3a7.png)
 
-1. 選擇 **下載Marketing至解決方案**。
+1. 選擇&#x200B;**下載行銷商解決方案**。
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
