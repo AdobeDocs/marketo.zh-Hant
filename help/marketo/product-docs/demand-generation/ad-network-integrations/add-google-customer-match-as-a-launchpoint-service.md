@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 將Google客戶符合新增為LaunchPoint服務 {#add-google-customer-match-as-a-launchpoint-service}
+# 將Google客戶符合新增為LaunchPoint服務{#add-google-customer-match-as-a-launchpoint-service}
 
 透過此項整合，您可以將Marketo對象傳送至Google，以利用Google AdWords進行定位，並跨YouTube、Search和Gmail重新定位對象。
 
@@ -19,23 +19,23 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
-1. 前往管 **理**。
+1. 前往&#x200B;**Admin**。
 
    ![](assets/admin.png)
 
-1. 按一 **下LaunchPoint**。
+1. 按一下&#x200B;**LaunchPoint**。
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 選擇 **新** ，然後**新服務**。
+1. 選擇&#x200B;**新建**，然後選擇**新服務**。
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. 輸入**顯示名稱 **並從「服務」下拉式清單** 「Google客戶符合」**中 **選取** 。 按一下 **建立**。
+1. 輸入**顯示名稱&#x200B;**，然後從**&#x200B;服務&#x200B;**下拉式清單中選擇** Google客戶符合**。 按一下&#x200B;**建立**。
 
    ![](assets/chooseservice.png)
 
-1. 若要連線Google AdWords帳戶，請按一下「授 **權**」。
+1. 若要連線Google AdWords帳戶，請按一下「授權&#x200B;**」。**
 
    ![](assets/authorizeaccount-1.png)
 
@@ -43,15 +43,15 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >為了讓Market在多個AdWords帳戶中傳送觀眾，您依下列步驟授權的Google使用者必須擁有所有這 *些* 。
+   >為了讓Market在多個AdWords帳戶間傳送觀眾，您依下列步驟授權的Google使用者必須擁有這些帳戶的&#x200B;*all*&#x200B;存取權。
 
    ![](assets/chooseaccount.png)
 
-1. 檢閱要求的權限，然後按一下「 **允許**」。
+1. 檢閱要求的權限，然後按一下「允許」。****
 
    ![](assets/reviewpermissions.png)
 
-1. 您的Google AdWords帳戶現在已連線至Marketo。 按一下 **建立**。
+1. 您的Google AdWords帳戶現在已連線至Marketo。 按一下&#x200B;**建立**。
 
    ![](assets/authorizesuccess.png)
 
