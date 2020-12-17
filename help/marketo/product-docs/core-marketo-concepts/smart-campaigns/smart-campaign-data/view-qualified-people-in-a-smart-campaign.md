@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在智慧型促銷活動中檢視合格人員 {#view-qualified-people-in-a-smart-campaign}
+# 在智慧型促銷活動中檢視合格人員{#view-qualified-people-in-a-smart-campaign}
 
 檢視在您執行智慧型促銷活動時符合流程資格的人員。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >觸發智慧型促銷活動不會顯示合格人員，因為它們會根據即時事件執行。
 
-1. 「合 **格人員** 」索引標籤會列出在促銷活動執行時有資格瀏覽流程的人員。
+1. **合格人員**&#x200B;標籤會列出在促銷活動執行時有資格瀏覽流程的人員。
 
    ![](assets/qualifiedpeople-tab.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >合格人數也取決於智慧型促銷活動資格規則。 瞭解如何編 [輯資格規則](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)。
+   >合格人數也取決於智慧型促銷活動資格規則。 瞭解如何[編輯資格規則](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)。
 
 真貼心！ 您可以使用這個清單來檢查哪些人在執行智慧型促銷活動之前可能會瀏覽流程。
 
