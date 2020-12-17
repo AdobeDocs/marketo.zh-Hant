@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 帳戶分析排名和調整 {#account-profiling-ranking-and-tuning}
+# 帳戶分析排名和優化{#account-profiling-ranking-and-tuning}
 
 「帳戶分析」可識別您的「理想客戶配置檔案」(ICP)，根據ICP對資料庫中的公司進行排名，並將ICP指標資料添加到提升為「命名帳戶」的帳戶。
 
-## 模型結果 {#model-results}
+## 型號結果{#model-results}
 
 結果會顯示您所有已知帳戶，依等級劃分。 A是最高等級，D是最低等級。
 
 ![](assets/results.png)
 
-雖然是選用的，但建議選取「自動升級」核取方塊，因為它可為您節省大量時間。 不過，如果您想要逐一檢視每個帳戶並手動 [新增](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts)，只要將方塊保留為未勾選。
+雖然是選用的，但建議選取「自動升級」核取方塊，因為它可為您節省大量時間。 不過，如果您想要逐一檢視每個帳戶，並手動新增[，只需將方塊保留為未勾選。](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts)
 
 <table> 
  <tbody> 
@@ -56,7 +56,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 模型調整 {#model-tuning}
+## 模型調整{#model-tuning}
 
 在「模型」(Model)頁籤中，按一下「調整模型」(Tune Model)按鈕。
 
@@ -89,13 +89,13 @@ ht-degree: 0%
 
 ![](assets/add-icp.png)
 
-選中「導出」框可以在「命名帳戶詳細資訊」頁上查看ICP指示符，並在命名帳戶篩選器中將選定的ICP指示符用 [作約束條件](http://docs.marketo.com/display/DOCS/Account+Filters)。
+選中「導出」框可以在「命名帳戶詳細資訊」頁上查看ICP指示符，並在[命名帳戶篩選器](http://docs.marketo.com/display/DOCS/Account+Filters)中將選定的ICP指示符用作約束。
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->ICP指標會納入「指定帳戶篩 **選器」和「觸發器** 」的成員中。
+>ICP指示符在&#x200B;**命名帳戶成員**&#x200B;篩選器和觸發器中作為約束包含。
 
 指標權重是控制每個指標在模型中所接受的重要程度的指標。
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 ![](assets/refresh-button.png)
 
-完成模型調整（刷新模型後）後，返回「模型結果」(Model Results)頁籤，然後按一下「保存並應 **用排名」(Save &amp; Apply Raws**)。
+完成模型調整（刷新模型後）後，返回「模型結果」頁籤，然後按一下&#x200B;**保存並應用排名**。
 
 ![](assets/ranks.png)
 
