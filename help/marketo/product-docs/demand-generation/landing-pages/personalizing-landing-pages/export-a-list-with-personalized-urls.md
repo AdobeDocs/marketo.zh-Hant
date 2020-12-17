@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用個人化URL匯出清單 {#export-a-list-with-personalized-urls}
+# 使用個人化URL匯出清單{#export-a-list-with-personalized-urls}
 
 >[!PREREQUISITES]
 >
@@ -22,15 +22,15 @@ ht-degree: 0%
 
 
 
-1. 選擇您的清單或智慧型清單，按一下 **Leads** 標籤以取得結果，然後按一下Excel圖示。 INLINE請確定您有**Marketo唯一代碼**和 **Marketo唯一名稱**[欄可見](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)。
+1. 選擇清單或智慧清單，按一下&#x200B;**Leads**&#x200B;頁籤以獲取結果，然後按一下Excel表徵圖。 INLINE請確定您有**Marketo唯一代碼**和&#x200B;**Marketo唯一名稱** [欄可見](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)。
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
-1. 勾 **選「包含個人化URL**」，尋找並選取您要產生PURL的著陸頁面。
+1. 檢查&#x200B;**包含個人化URL**，尋找並選取您要產生PURL的著陸頁面。
 
    ![](assets/image2014-9-18-13-3a36-3a42.png)
 
-1. 選取 **URL**。
+1. 選擇&#x200B;**URL**。
 
    ![](assets/image2014-9-18-13-3a36-3a53.png)
 
@@ -38,11 +38,11 @@ ht-degree: 0%
    >
    >如果您看到相同著陸頁面的多個URL，可能是因為您在過去某個時點變更了頁面URL並建立了重新導向。
 
-1. 選擇「樣 **式** 」，然後 **按一下「導出」**。
+1. 選擇&#x200B;**Style**&#x200B;並按一下&#x200B;**Export**。
 
    ![](assets/image2014-9-18-13-3a37-3a6.png)
 
-1. 匯出完成時，按一下「 **立即下載** 」連結以儲存檔案。
+1. 匯出完成後，按一下「立即下載」連結以儲存檔案。****
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 
