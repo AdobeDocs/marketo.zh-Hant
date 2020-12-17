@@ -18,17 +18,17 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您也可以在 [方案計畫視圖中重新計畫批智慧型促銷活動](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View)。
+>您也可以[在方案計畫視圖](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View)中重新計畫批智慧型促銷活動。
 
 1. 選擇您要執行的批次智慧型促銷活動。
 
    ![影像一](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
-1. 轉到頁籤 **[!UICONTROL Schedule]** 並按一下 **[!UICONTROL Add Run]**。
+1. 轉到&#x200B;**[!UICONTROL Schedule]**&#x200B;頁籤，然後按一下&#x200B;**[!UICONTROL Add Run]**。
 
    ![影像2](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
-1. 選 **[!UICONTROL Set Run Date/Time]**&#x200B;取，然後按一下日曆圖示，並選取您要執行智慧型促銷活動的日期。
+1. 選取&#x200B;**[!UICONTROL Set Run Date/Time]**，然後按一下日曆圖示並選取您要執行智慧型促銷活動的日期。
 
    ![影像三](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
@@ -36,6 +36,6 @@ ht-degree: 0%
 
    ![影像4](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-4.png)
 
-1. 按一 **[!UICONTROL Confirm]**&#x200B;下。
+1. 按一下&#x200B;**[!UICONTROL Confirm]**。
 
    ![影像5](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-5.png)
