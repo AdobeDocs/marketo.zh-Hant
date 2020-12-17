@@ -12,18 +12,18 @@ ht-degree: 0%
 
 # 新增和移除標籤
 
-您可以在中為任何資產指派標籤，讓 [!UICONTROL Marketing Activities]組織和尋找資產變得輕而易舉。
+您可以在[!UICONTROL Marketing Activities]中為任何資產指派標籤，讓組織和尋找資產變得易如反掌。
 
 ## 新增標籤
 
-若要新增標籤至資產，請導覽至標籤下 [!UICONTROL Details] 的資產頁 [!UICONTROL Overview] 面。
+若要新增標籤至資產，請導覽至資產[!UICONTROL Overview]標籤下方的[!UICONTROL Details]頁面。
 <br> 
 
-在區段 [!UICONTROL Labels] 下，按一下 **[!UICONTROL Add New Labels]**。
+在[!UICONTROL Labels]節下，按一下&#x200B;**[!UICONTROL Add New Labels]**。
 
 ![影像一](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-1.jpg)
 
-如果要添加以前未使用的標籤，請輸入標籤名稱並按一下 **[!UICONTROL Create New ____]**。
+如果要添加以前未使用的標籤，請輸入標籤名稱，然後按一下&#x200B;**[!UICONTROL Create New ____]**。
 
 ![影像2](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-2.jpg)
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 
 ## 移除標籤
 
-您可以按一下來移除任何標籤 **[!UICONTROL X]**。
+您可以按一下&#x200B;**[!UICONTROL X]**&#x200B;來移除任何標籤。
 
 ![影像4](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-4.jpg)
