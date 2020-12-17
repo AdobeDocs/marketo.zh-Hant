@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本8-D {#template-d}
+# 模板8-D {#template-d}
 
 [下載範本8-D](http://docs.marketo.com/download/attachments/8783969/template-8d.html?version=1&amp;modificationdate=1482175093000&amp;api=v2)
 
