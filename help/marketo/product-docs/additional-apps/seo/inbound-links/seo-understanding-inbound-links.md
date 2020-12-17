@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 瞭解傳入連結 {#seo-understanding-inbound-links}
+# SEO —— 瞭解入站連結{#seo-understanding-inbound-links}
 
 傳入連結會指出您的網站值得參考的搜尋引擎。 太好了！
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
-## 欄的定義 {#definition-of-columns}
+## 列{#definition-of-columns}的定義
 
 | 欄標題 | 說明 |
 |---|---|
