@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# ABM主儀表板 {#abm-main-dashboard}
+# ABM主儀表板{#abm-main-dashboard}
 
 主控制面板提供您「帳戶型行銷」成果的摘要。 您可以看到顯示成功的目標帳戶或帳戶清單，以及需要更多注意的帳戶或帳戶清單。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ![](assets/three.png)
 
-若要檢視「 [帳戶清單控制面板](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)」，請按一下您選取之帳戶清單的名稱……
+要查看[帳戶清單儀表板](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)，請按一下所選帳戶清單的名稱……
 
 ![](assets/four.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ![](assets/five.png)
 
-如果您不想檢視「帳戶清單控制面板」，而想深入檢視指定帳戶，請按一下其名 **稱** ...下的「更多詳細資訊」。
+如果您不想查看「帳戶清單控制面板」，而是要深入查看指定帳戶，請按一下其名稱下的&#x200B;**更多詳細資訊**。
 
 ![](assets/six.png)
 
-...並檢視指 [名帳戶的見解](http://docs.marketo.com/display/DOCS/Named+Account+Insights)。
+...並檢視[指名帳戶的前瞻分析](http://docs.marketo.com/display/DOCS/Named+Account+Insights)。
 
 ![](assets/seven.png)
 
