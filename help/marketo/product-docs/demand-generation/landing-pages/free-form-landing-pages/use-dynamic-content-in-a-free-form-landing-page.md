@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在自由格式著陸頁面中使用動態內容 {#use-dynamic-content-in-a-free-form-landing-page}
+# 在自由格式著陸頁面{#use-dynamic-content-in-a-free-form-landing-page}中使用動態內容
 
 在「著陸頁面」中使用動態內容可讓受眾獲得目標資訊。
 
@@ -25,9 +25,9 @@ ht-degree: 0%
 
 
 
-## 新增區段 {#add-segmentation}
+## 新增區段{#add-segmentation}
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -51,19 +51,19 @@ ht-degree: 0%
 >
 >所有著陸頁面元素預設為「靜態」。
 
-## 讓元素動態 {#make-element-dynamic}
+## 使元素動態{#make-element-dynamic}
 
-1. 將動態內容元素從「靜態」( **Static** )拖放至「動 **態」(Dynamic)。**
+1. 將動態內容元素從&#x200B;**Static**&#x200B;下方拖放至&#x200B;**Dynamic.**
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. 您也可以從「元素設 **定」中** ，將元素設 **定為「靜****態」或「動態」。**
+1. 您也可以從元素&#x200B;**「設定」中製作元素** Static **或** Dynamic **。**
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
-## 套用動態內容 {#apply-dynamic-content}
+## 套用動態內容{#apply-dynamic-content}
 
-1. 選取區段下方的元素，按一下設定圖示，然後按一下「編 **輯」**。 對每個區段重複。
+1. 選取區段下方的元素，按一下設定圖示，然後按一下「編輯」**。**&#x200B;對每個區段重複。
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 
