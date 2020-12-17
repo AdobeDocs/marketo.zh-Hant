@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 瞭解Marketo自訂物件 {#understanding-marketo-custom-objects}
+# 瞭解Marketo自訂物件{#understanding-marketo-custom-objects}
 
 使用自訂物件來追蹤您業務的特定量度。
 
@@ -43,9 +43,9 @@ ht-degree: 0%
 >
 >您無法還原自訂物件，因此在刪除物件之前，請務必不再需要這些物件。
 
-## 存取Marketor自訂物件 {#accessing-marketo-custom-objects}
+## 存取行銷人員自訂物件{#accessing-marketo-custom-objects}
 
-1. 若要建立或編輯Marketo自訂物件，請按一下**管理**，然後按一下「 **Marketo自訂物**&#x200B;件」連結。
+1. 若要建立或編輯Marketo自訂物件，請按一下**管理**，然後按一下&#x200B;**Marketo自訂物件**&#x200B;連結。
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
@@ -63,19 +63,19 @@ ht-degree: 0%
 
    ![](assets/image2016-6-10-15-3a15-3a29.png)
 
-## 查看與人員關聯的自定義對象 {#view-custom-objects-associated-to-a-person}
+## 查看與{#view-custom-objects-associated-to-a-person}人員關聯的自定義對象
 
 在您建立自訂物件結構後，當您上傳特定自訂物件資料時，自訂物件會使用自訂物件中的連結欄位，自動與資料庫中的人員建立關聯。 您可以從人員詳細資料頁面的「自訂物件」索引標籤中檢視資訊。
 
-1. 轉至「數 **據庫**」。
+1. 轉至&#x200B;**Database**。
 
    ![](assets/db.png)
 
-1. 開啟資料庫，然後按一下「 **People** 」頁籤。 連按兩下您與自訂物件關聯之人員的記錄。
+1. 開啟資料庫，然後按一下&#x200B;**People**&#x200B;頁籤。 連按兩下您與自訂物件關聯之人員的記錄。
 
    ![](assets/five.png)
 
-1. 在人員詳細資料頁面上，按一下「自訂 **物件」標籤** 。 從下拉式清單中選取物件。
+1. 在人員詳細資訊頁面上，按一下&#x200B;**自定義對象**&#x200B;頁籤。 從下拉式清單中選取物件。
 
    ![](assets/six.png)
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-## 搭配公司使用自訂物件 {#using-custom-objects-with-companies}
+## 搭配公司使用自訂物件{#using-custom-objects-with-companies}
 
 如果您從CRM同步公司，或者您使用API明確建立公司，連結至公司的自訂物件最能運作。 我們也建議您使用「公司ID」作為連結欄位。
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
 自訂物件只能直接連結至單一記錄。 這表示當您的自訂物件類型依公司欄位連結時，如果您管理使用Marketo的REST API的公司，您應確保您的個人記錄與公司相關聯，或者使用CRM中的連絡人轉換，或使用externalCompanyId欄位。 對於未明確連結至公司記錄的個人記錄，使用公司連結的自訂物件會隨機連結至單一記錄，即使公司欄位的值已共用給許多人亦然。
 
-如需詳 [細資訊，請參閱匯入自訂物件資料](import-custom-object-data.md) 。
+如需詳細資訊，請參閱[匯入自訂物件資料](import-custom-object-data.md)。
 
 >[!MORELIKETHIS]
 >
