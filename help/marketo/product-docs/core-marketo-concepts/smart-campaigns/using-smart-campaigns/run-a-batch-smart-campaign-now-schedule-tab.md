@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 立即執行批次智慧型促銷活動 |計畫標籤 {#run-a-batch-smart-campaign-now-schedule-tab}
+# 立即執行批次智慧型促銷活動 |計畫標籤{#run-a-batch-smart-campaign-now-schedule-tab}
 
 建立完批次促銷活動後，您可以選擇立即或稍後執行。 下面是如何立即運行它。
 
-1. 選擇批次智慧型促銷活動，前往「排程」 **標籤** ，然後按一 **下「執行一次」**。
+1. 選擇批智慧促銷活動，轉至&#x200B;**計畫**&#x200B;標籤，然後按一下&#x200B;**運行一次**。
 
    ![](assets/runcampaignnow-hands.png)
 
-1. 請確定已選取**Run Now **，然後按一下「 **Run**」。
+1. 請確定已選取**Run Now **，然後按一下&#x200B;**Run**。
 
    ![](assets/image2014-9-19-15-3a57-3a4.png)
 
-1. 再按一 **次** 「執行」確認。
+1. 再次按一下&#x200B;**運行**&#x200B;進行確認。
 
    ![](assets/image2014-9-19-15-3a57-3a19.png)
 
-   小菜一碟！ 您也可以視 [需要排程稍後的](schedule-a-batch-smart-campaign-to-run-later.md) 「執行」。
+   小菜一碟！ 您也可以視需要[排程稍後的執行](schedule-a-batch-smart-campaign-to-run-later.md)。
 
    >[!NOTE]
    >
