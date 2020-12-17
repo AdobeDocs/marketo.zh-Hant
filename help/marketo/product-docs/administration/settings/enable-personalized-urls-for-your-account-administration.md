@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 為您的帳戶啟用個人化URL（管理） {#enable-personalized-urls-for-your-account-administration}
+# 為您的帳戶啟用個人化URL（管理）{#enable-personalized-urls-for-your-account-administration}
 
 個人化URL非常適合印刷郵件宣傳。
 
@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
-1. 前往**管理**，然後按一下「 **著陸頁面」**。
+1. 前往**管理**，然後按一下「著陸頁面」**。**
 
    ![](assets/image2014-9-24-11-3a38-3a51.png)
 
-1. 按一 **下編輯**。
+1. 按一下&#x200B;**編輯**。
 
    ![](assets/image2014-9-24-11-3a39-3a6.png)
 
-1. 勾選「 **啟用個人化URL** 」方塊，然 **後按一下S***保存**。
+1. 勾選「啟用個人化URL **」方塊，然後按一下「** S****ave **」。**
 
    ![](assets/image2014-9-24-11-3a39-3a41.png)
 
-幹得好！ 現在您已為您的帳戶啟用PURL，您就可 [以為個別著陸頁面啟用](../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)。
+幹得好！ 現在您已為您的帳戶啟用PURL，您可以[為個別著陸頁面](../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)啟用它們。
 
 >[!NOTE]
 >
