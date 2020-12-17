@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 使用關鍵字趨勢報表 {#seo-use-the-keyword-trends-report}
+# SEO —— 使用關鍵字趨勢報表{#seo-use-the-keyword-trends-report}
 
 在此報表中，您可以瞭解關鍵字隨時間的排名。
 
-## 載入報表 {#load-report}
+## 載入報表{#load-report}
 
-1. 前往「報 **表」**。
+1. 前往&#x200B;**報表**。
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. 按一下「關 **鍵字排名趨勢」**。
+1. 按一下&#x200B;**關鍵字排名趨勢**。
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
    | 平均 排名 | 您所設定範圍內之關鍵字平均排名。 |
    | 平均 搜尋 | 在您設定的範圍內（在過去30天內，在Google美國搜尋上），對這些關鍵字的平均搜尋次數 |
 
-## 篩選資料 {#filtering-data}
+## 篩選資料{#filtering-data}
 
 1. 按一下下拉式清單，並選取您想要的時段。
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
-## 匯出資料  {#exporting-data}
+## 導出資料{#exporting-data}
 
 >[!TIP]
 >
