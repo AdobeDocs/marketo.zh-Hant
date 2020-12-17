@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 測試參與串流 {#test-an-engagement-stream}
+# 測試參與串流{#test-an-engagement-stream}
 
 將所有內容新增至串流後，您就可一次測試其中一段內容。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/one.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 按一下**計畫動作**並選取 **測試串流**。
+1. 按一下** Program Actions**並選擇&#x200B;**測試流**。
 
    ![](assets/three.png)
 
@@ -37,12 +37,12 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您要尋找的測試人員不存在，請使用「建立人員」 **選項** ，即時建立一個。
+   >如果您要尋找的測試人員不存在，請使用&#x200B;**「建立人員」選項即時建立。**
 
    按一下「初始串流」，選取您要測試的串流，然後按一下「執行轉換」。
    ![](assets/five-rubiks.png)
 
-1. 當人員完成您先前設定的 [轉換規則](transition-people-between-engagement-streams.md) ，按一下「重新整理」圖示。
+1. 當人員瀏覽您先前設定的[轉場規則](transition-people-between-engagement-streams.md)後，按一下「重新整理」圖示。
 
    ![](assets/six-rubiks.png)
 
