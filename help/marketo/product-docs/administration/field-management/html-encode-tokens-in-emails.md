@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# HTML編碼電子郵件中的Token {#html-encode-tokens-in-emails}
+# 電子郵件中的HTML編碼Token {#html-encode-tokens-in-emails}
 
 啟用／停用電子郵件中使用的個人和公司預付碼。
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 >
 >編碼會將字元轉換為其HTML程式碼版本，以避免在傳輸時造成混淆(即&quot;&amp;&quot;變更為&quot;&amp;&quot;)。 如需詳細資訊，請洽詢您的網頁開發人員。
 
-1. 前往管 **理**。
+1. 前往&#x200B;**Admin**。
 
    ![](assets/admin.png)
 
-1. 選擇 **欄位管理**。
+1. 選擇&#x200B;**欄位管理**。
 
    ![](assets/two-2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 勾選「 **HTML在電子郵件中編碼Token** 」方塊以啟用，取消勾選以停用。
+1. 勾選「電子郵件中的&#x200B;**HTML編碼代號」方塊以啟用，取消勾選以停用。**
 
    ![](assets/six.png)
 
