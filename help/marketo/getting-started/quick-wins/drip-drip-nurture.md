@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 滴水，滴水，培養 {#drip-drip-nurture}
+# 滴水，滴水，培養{#drip-drip-nurture}
 
-## 任務：培養出席您最近的商展的人 {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
+## 任務：培養最近參加您商展的人才{#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
 您可以在Marketo中輕鬆建立進階而複雜的培養系統。 這是方法！
 
@@ -23,53 +23,53 @@ ht-degree: 0%
 >* [匯入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
-## 步驟1:建立參與計畫 {#step-create-an-engagement-program}
+## 步驟1:建立參與計畫{#step-create-an-engagement-program}
 
-1. 前往「行銷 **活動** 」區。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
    ![](assets/one-3.png)
 
-1. 選擇「 **Learning** 」(學 **習)資料夾，按一下「** New **」（新建）下拉式清單並選**&#x200B;擇「New Program」（新建程式）。
+1. 選擇&#x200B;**Learning**&#x200B;資料夾，按一下&#x200B;**New**&#x200B;下拉式清單並選擇&#x200B;**New Program**。
 
    ![](assets/two-4.png)
 
-1. 輸入名 **稱** ，然後為「方 **案類型** 」選 **擇「參與」**。
+1. 輸入&#x200B;**名稱**，並為&#x200B;**程式類型**&#x200B;選擇&#x200B;**參與**。
 
    ![](assets/three-3.png)
 
-1. 請確定「Channel **(通** 道 **)」欄位** 為Nurture **，然後按一下「**&#x200B;建立」。
+1. 確保&#x200B;**Channel**&#x200B;欄位為&#x200B;**Nurture** ，然後按一下&#x200B;**Create**。
 
    ![](assets/four-2.png)
 
    您現在已建立參與計畫。
 
-## 步驟2:建立電子郵件 {#step-create-an-email}
+## 步驟2:建立電子郵件{#step-create-an-email}
 
-1. 選取您的參與方案，然後按一下「 **新增** 」並選 **取「新增本機資產」**。
+1. 選擇您的參與計畫，然後按一下&#x200B;**新建**&#x200B;並選擇&#x200B;**新建本地資產**。
 
    ![](assets/five-3.png)
 
-1. 按一下「 **電子郵件**」。
+1. 按一下&#x200B;**電子郵件**。
 
    ![](assets/six-3.png)
 
-1. 輸入名 **稱**，選擇要使用的 **模板** ，然後按一下 **建立**。
+1. 輸入&#x200B;**名稱**，選擇要使用的&#x200B;**模板**，然後按一下&#x200B;**建立**。
 
    ![](assets/seven-4.png)
 
    >[!NOTE]
    >
-   >沒看到電子郵件編輯嗎？ 您的瀏覽器可能已封鎖視窗。 在您的瀏覽器中啟 [用app.marketo.com的快顯視窗](https://app.marketo.com) ，然後按一下頂端選單列 **中的「編輯草稿** 」。
+   >沒看到電子郵件編輯嗎？ 您的瀏覽器可能已封鎖視窗。 在您的瀏覽器中啟用[app.marketo.com](https://app.marketo.com)的快顯視窗，然後按一下頂端功能表列中的「編輯草稿」。****
 
 1. 輸入主旨。
 
    ![](assets/eight-2.png)
 
-1. 選擇要編輯的電子郵件區域，按一下齒輪表徵圖並選擇「編 **輯」**。
+1. 選擇要編輯的電子郵件區域，按一下齒輪表徵圖並選擇&#x200B;**編輯**。
 
    ![](assets/nine-1.png)
 
-1. 編輯您的電子郵件，然後按一 **下儲存**。
+1. 編輯您的電子郵件，然後按一下「儲存」。****
 
    ![](assets/ten-3.png)
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 
    ![](assets/eleven-3.png)
 
-1. 在「電 **子郵件動作**」下，按一 **下「核准**」。
+1. 在&#x200B;**電子郵件動作**&#x200B;下，按一下&#x200B;**批准**。
 
    ![](assets/twelve-2.png)
 
@@ -89,11 +89,11 @@ ht-degree: 0%
 
    ![](assets/thirteen-2.png)
 
-## 步驟3:新增內容至您的串流 {#step-add-content-to-your-stream}
+## 步驟3:新增內容至您的串流{#step-add-content-to-your-stream}
 
 1. 現在，您應該使用您建立的電子郵件，為您的參與計畫建立內容串流。
 
-1. 選取您的參與方案，然後按一下「串流」 **標籤** 。
+1. 選擇您的參與計畫，然後按一下&#x200B;**串流**&#x200B;標籤。
 
    ![](assets/fourteen-2.png)
 
@@ -103,11 +103,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您也可以使用「新 **增內容** 」按鈕或串 **流+圖示** 。
+   >您也可以使用&#x200B;**新增內容**&#x200B;按鈕或串流&#x200B;**+**&#x200B;圖示。
 
-## 步驟4:啟動串流內容 {#step-activate-stream-content}
+## 步驟4:啟動串流內容{#step-activate-stream-content}
 
-1. 按一下串流齒輪圖示，然後按一下「啟動所有內容」，即可一次啟 **動所有內容**。
+1. 按一下串流齒輪圖示，一次啟動所有內容，然後按一下「啟動所有內容」。****
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
@@ -117,13 +117,13 @@ ht-degree: 0%
 
    幹得好！ 再執行一個步驟，就可開始參與計畫。
 
-## 步驟5:設定串流節奏 {#step-set-the-stream-cadence}
+## 步驟5:設定串流節奏{#step-set-the-stream-cadence}
 
-1. 按一 **下「設定串流順序」**。
+1. 按一下「設定串流節奏&#x200B;**」。**
 
    ![](assets/seventeen.png)
 
-1. 編輯與所需排程相符的設定，然後按一下「儲 **存**」。
+1. 編輯與所需計畫匹配的設定，然後按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
@@ -133,9 +133,9 @@ ht-degree: 0%
    >
    >測試人員是負責檢查您的參與計畫，以在傳送給客戶之前測試其正確性的人員。
 
-## 步驟6:將測試人員新增至您的參與計畫 {#step-add-a-test-person-to-your-engagement-program}
+## 步驟6:將測試人員新增至您的參與計畫{#step-add-a-test-person-to-your-engagement-program}
 
-1. 轉至「數 **據庫** 」區。
+1. 轉至&#x200B;**Database**&#x200B;區域。
 
    ![](assets/nineteen-1.png)
 
@@ -151,7 +151,7 @@ ht-degree: 0%
 
    ![](assets/twenty-one.png)
 
-1. 選取您的 **Program** and **Stream**，然後按一下 **Run Now**。
+1. 選擇&#x200B;**Program**&#x200B;和&#x200B;**Stream**，然後按一下&#x200B;**Run Now**。
 
    ![](assets/twenty-two.png)
 
@@ -161,7 +161,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >進一步瞭解 [參與計畫](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)。
+   >進一步瞭解[參與計畫](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)。
 
 <br> 
 
