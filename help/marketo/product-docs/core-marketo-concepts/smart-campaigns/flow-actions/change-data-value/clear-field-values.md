@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 清除欄位值 {#clear-field-values}
+# 清除欄位值{#clear-field-values}
 
-**變 [更資料值](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**很棒，但如何完全 *移除值* ? 問得好！
+** [更改資料值](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**非常好，但如何完全刪除&#x200B;*值？*&#x200B;問得好！
 
-1. 在流程步驟中，選擇要清除的欄位，並鍵入**NULL **（所有大寫）作為「 **New Value**」。
+1. 在流程步驟中，選擇要清除的欄位，並鍵入**NULL **（所有大寫）作為&#x200B;**New Value**。
 
    ![](assets/image2015-3-19-10-3a6-3a14.png)
 
