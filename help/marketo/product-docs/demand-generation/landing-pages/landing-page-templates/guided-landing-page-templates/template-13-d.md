@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本13-D {#template-d}
+# 模板13-D {#template-d}
 
 [下載範本13-D](http://docs.marketo.com/download/attachments/9437795/template-13d.html?version=1&amp;modificationdate=1438980073000&amp;api=v2)
 
