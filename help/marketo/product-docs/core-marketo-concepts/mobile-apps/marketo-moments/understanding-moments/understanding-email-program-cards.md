@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 瞭解電子郵件計畫卡 {#understanding-email-program-cards}
+# 瞭解電子郵件程式卡{#understanding-email-program-cards}
 
 使用Marketo Monts從您的手機或iPad檢視您的電子郵件程式。
 
-## 電子郵件方案卡 {#email-program-cards}
+## 電子郵件程式卡{#email-program-cards}
 
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/n8JTSZI22Do" frameborder="0" allowfullscreen></iframe>` 當您點選任何「電子郵件方案」卡時，您可以：
 
@@ -31,17 +31,17 @@ ht-degree: 0%
 
 ![](assets/image2015-9-25-10-3a5-3a29.png)
 
-## 確認電子郵件卡 {#confirming-an-email-card}
+## 確認電子郵件卡{#confirming-an-email-card}
 
 1. 若要確認未確認的電子郵件卡片，請點選三個點選單。
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. 點選「 **確認**」。
+1. 點選&#x200B;**確認**。
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. 點選**確認**完成工作，或 **者** （如果您有其他想法）。
+1. 點選**確認**以完成工作，或者如果您有其他想法，請點選&#x200B;**Never Mind**。
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -49,17 +49,17 @@ ht-degree: 0%
    >
    >現在你的卡會變成橘色了！
 
-## 取消電子郵件卡傳送 {#canceling-an-email-card-send}
+## 取消電子郵件卡傳送{#canceling-an-email-card-send}
 
 1. 如果您決定不傳送已確認的電子郵件，請點選「三點」選單。
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. 點選「 **取消傳送」**。
+1. 點選&#x200B;**取消傳送**。
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
-## 重新計畫電子郵件卡 {#rescheduling-an-email-card}
+## 重新計畫電子郵件卡{#rescheduling-an-email-card}
 
 您可以重新計畫已確認或未確認的電子郵件卡。
 
@@ -71,17 +71,17 @@ ht-degree: 0%
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. 點選「 **重新計畫**」。
+1. 點選&#x200B;**重新計畫**。
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. 在日曆上選擇日期，然後點選「重新 **計畫」**。
+1. 在日曆上選擇日期，然後點選&#x200B;**重新計畫**。
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
    只要您有無線服務，您就可以隨處重新安排！
 
-## 傳送範例 {#sending-a-sample}
+## 傳送範例{#sending-a-sample}
 
 您可以直接與某人分享電子郵件瞬間的範例。
 
@@ -89,19 +89,19 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. 點選「 **傳送範例」**。
+1. 點選&#x200B;**傳送範例**。
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. 輸入電子郵件地址，然後按一下「 **傳送範例」**。
+1. 輸入電子郵件地址，然後按一下「傳送範例」。****
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
-## 預覽電子郵件 {#previewing-an-email}
+## 預覽電子郵件{#previewing-an-email}
 
 以滑鼠右鍵按一下電子郵件卡片以預覽。
 
-1. 點選「 **預覽電子郵件**」。
+1. 點選&#x200B;**預覽電子郵件**。
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
