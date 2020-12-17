@@ -10,7 +10,7 @@ ht-degree: 0%
 ---
 
 
-# 事件登入概述 {#event-check-in-overview}
+# 事件簽入概述{#event-check-in-overview}
 
 iPad或Android平板裝置適用的Marketo Events應用程式可讓使用者在收到活動時立即存回。
 
@@ -24,8 +24,8 @@ iPad或Android平板裝置適用的Marketo Events應用程式可讓使用者在�
 
 事件發生前：
 
-* [為iPad或Android使用者](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) ，為活動建立新的Marketo角色
-* [邀請新的平板電腦使用者參加活動](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) ，並指派新的角色給他們
+* [為iPad或Android使用者](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 建立活動的新Marketo行銷程式
+* [邀請新的平板電腦使用者加入](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 活動，並指派新角色給他們
 * [建立新的Marketo活動方案](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 * 指定事件日期
 * 將人員加入您的活動
