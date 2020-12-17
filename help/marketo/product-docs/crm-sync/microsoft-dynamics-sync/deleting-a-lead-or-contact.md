@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 刪除銷售線索或聯繫人 {#deleting-a-lead-or-contact}
+# 刪除銷售線索或聯繫人{#deleting-a-lead-or-contact}
 
 在Microsoft Dynamics中刪除潛在客戶／聯絡人時，有些事要知道。
 
