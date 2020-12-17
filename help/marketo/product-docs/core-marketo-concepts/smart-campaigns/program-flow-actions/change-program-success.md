@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 變更計畫成功 {#change-program-success}
+# 更改程式成功{#change-program-success}
 
-## 概觀 {#overview}
+## 概述{#overview}
 
 如果您有一群人意外標示「計畫成功」，您可以使用此流程步驟將成功設為true或false。
 
 ![](assets/image2014-9-22-14-3a45-3a8.png)
 
-## 使用狀況 {#usage}
+## 用法{#usage}
 
 1. 當您拖曳此流程步驟時，程式會自動設定為包含您所編輯之智慧型促銷活動的程式。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. 選 **擇「成功** 」或**「成功日期」**作為屬性。
+1. 選擇&#x200B;**Success**&#x200B;或** Success Date**作為屬性。
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
    >
    >將「成功日期」設為任何項目會自動將「成功」設為true。 將「成功」設為true會自動將「成功日期」設為目前日期。
 
-1. 將「新 **值** 」設 **為True****或False**。
+1. 將&#x200B;**新值**&#x200B;設為&#x200B;**True**&#x200B;或&#x200B;**False**。
 
    ![](assets/image2014-9-22-14-3a45-3a55.png)
 
