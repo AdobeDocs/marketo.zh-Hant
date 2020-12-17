@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在自由格式著陸頁面中新增影像連結 {#add-a-link-to-an-image-in-a-free-form-landing-page}
+# 在自由格式著陸頁面{#add-a-link-to-an-image-in-a-free-form-landing-page}中新增影像連結
 
 想要將著陸頁面上的影像設為其他頁面／網站的連結嗎？ 這是方法。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/click-on-image.png)
 
-1. 展開「屬 **性表」**。
+1. 展開&#x200B;**屬性表**。
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/add-link.png)
 
-   恭喜！ 您現在已成功新增著陸頁面上影像的連結。 您現在可 [以預覽頁面](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) ，以檢視其實際運作。
+   恭喜！ 您現在已成功新增著陸頁面上影像的連結。 您現在可以[預覽頁面](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)以檢視其實際運作。
 
 >[!TIP]
 >
