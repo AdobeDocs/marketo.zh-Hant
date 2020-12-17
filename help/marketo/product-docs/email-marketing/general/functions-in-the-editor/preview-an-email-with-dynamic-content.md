@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 使用動態內容預覽電子郵件 {#preview-an-email-with-dynamic-content}
+# 預覽包含動態內容的電子郵件{#preview-an-email-with-dynamic-content}
 
 在新增動態內容後預覽您的電子郵件，以進行驗證。
 
-1. 選取您的電子郵件，然後按一下「 **預覽電子郵件**」。
+1. 選擇您的電子郵件，然後按一下「預覽電子郵件」。****
 
    ![](assets/one-3.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 您也可以直接在電子郵件編輯器中預覽動態內容。
 
-1. 在「內 **容**」下，按一 **下「動態** 」標籤。
+1. 在&#x200B;**Content**&#x200B;下，按一下&#x200B;**Dynamic**&#x200B;頁籤。
 
    ![](assets/five-1.png)
 
