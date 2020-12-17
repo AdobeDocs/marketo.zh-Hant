@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 新增流程步驟
 
-1. 在中， [!UICONTROL Marketing Activities]選取您的智慧型促銷活動，然後按一下 **[!UICONTROL Flow]**。
+1. 在[!UICONTROL Marketing Activities]中，選擇您的智慧型促銷活動，然後按一下&#x200B;**[!UICONTROL Flow]**。
 
    ![影像一](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 **深入探討**
 
-進一步瞭解不同的 [流程步驟](http://docs.marketo.com/display/DOCS/Flow+Actions)。
+進一步瞭解不同的[流程步驟](http://docs.marketo.com/display/DOCS/Flow+Actions)。
 
 1. 按一下下拉式清單，然後選擇適當的選項。
 
@@ -38,13 +38,13 @@ ht-degree: 0%
 
 **提醒**
 
-流程步驟按列出順序執行。 [重新排序流程步驟](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) ，以確保這些步驟按正確的順序排列。
+流程步驟按列出順序執行。 [重新排序](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) 流步驟，以確保其順序正確。
 
 >[!TIP]
 >
 >如果條目無效，則會出現紅線。 將滑鼠指標暫留線上上，以瞭解如何修正。
 >
->請務必在排 [程或啟用智慧型促銷活動](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist) 之前，先加以檢閱和驗證。
+>請務必在排程或啟用智慧型促銷活動之前，先檢閱並驗證它。[](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist)
 
 ## 重新排序流步驟
 
