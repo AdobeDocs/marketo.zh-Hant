@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 從SFDC促銷活動中移除 {#remove-from-sfdc-campaign}
+# 從SFDC促銷活動{#remove-from-sfdc-campaign}移除
 
 >[!NOTE]
 >
 >僅在與Salesforce整合時提供。
 
-## 概觀 {#overview}
+## 概述{#overview}
 
-就像您在SFDC促銷活 [動中新增](add-to-sfdc-campaign.md)至SFDC [促銷活動和變更狀態一樣](change-status-in-sfdc-campaign.md)，您也可以從Salesforce促銷活動中移除人員或潛在客戶。
+就像您可以如何[添加到SFDC促銷活動](add-to-sfdc-campaign.md)和[更改SFDC促銷活動的狀態](change-status-in-sfdc-campaign.md)一樣，您也可以從Salesforce促銷活動中刪除人員或潛在客戶。
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
-## 使用狀況 {#usage}
+## 用法{#usage}
 
 1. 拖曳至流程步驟後，尋找並選取您要從中移除人員或銷售線索的Salesforce促銷活動。
 
