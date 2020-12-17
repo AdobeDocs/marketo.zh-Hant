@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 鍵盤快速鍵辭彙表 {#keyboard-shortcuts-glossary}
+# 鍵盤快速鍵辭彙表{#keyboard-shortcuts-glossary}
 
 你是鍵盤快速鍵的人嗎？ 我們能搞定你！
 
-## 區域導覽： {#area-navigation}
+## 區域導覽：{#area-navigation}
 
 | 鍵盤快速鍵 | 區域 |
 |---|---|
@@ -29,7 +29,7 @@ ht-degree: 0%
 | 選擇+ O | 我的行銷人員 |
 | Alt/Opt + S | 下拉式超級球功能表 |
 
-## 日曆／計畫視圖導航：  {#calendar-schedule-view-navigation}
+## 日曆／計畫視圖導航： {#calendar-schedule-view-navigation}
 
 | 鍵盤快速鍵 | 動作 |
 |---|---|
@@ -37,7 +37,7 @@ ht-degree: 0%
 | Alt/Opt +向下鍵 | 及時前進 |
 | Alt/Opt + T | 前往「今天」 |
 
-## 其他： {#miscellaneous}
+## 其他：{#miscellaneous}
 
 | 鍵盤快速鍵 | 動作 |
 |---|---|
