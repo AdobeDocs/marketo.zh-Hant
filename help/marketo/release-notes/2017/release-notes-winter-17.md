@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 發行說明：17年冬季 {#release-notes-winter}
+# 發行說明：冬季&#39;17 {#release-notes-winter}
 
 Winter &#39;17版本包含下列功能。 檢查您的Marketo版本，以取得功能。
 
@@ -39,11 +39,11 @@ Winter &#39;17版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 ## [本地化](http://docs.marketo.com/display/docs/web+personalization) {#localization}
 
-網頁個人化、預測式內容和電子郵件深入資訊應用程式現在提供日文、德文和西班牙文版。 您選 [取語言和地區](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) ，以檢視這些語言的內容。
+網頁個人化、預測式內容和電子郵件深入資訊應用程式現在提供日文、德文和西班牙文版。 您[選擇您的語言和地區](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)，以檢視這些語言的內容。
 
 ![](assets/japanese-web-personalization.png)
 
-## 帳戶型行銷增強功能 {#account-based-marketing-enhancements}
+## 帳戶型行銷增強功能{#account-based-marketing-enhancements}
 
 **[匯入命名帳戶](/help/marketo/product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)**
 
@@ -57,7 +57,7 @@ Winter &#39;17版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 ![](assets/ei.png)
 
-## 預測性內容增強功能 {#predictive-content-enhancements}
+## 預測性內容增強功能{#predictive-content-enhancements}
 
 **[依啟用來源篩選](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
