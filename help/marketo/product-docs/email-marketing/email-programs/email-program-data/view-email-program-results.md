@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 檢視電子郵件方案結果 {#view-email-program-results}
+# 查看電子郵件程式結果{#view-email-program-results}
 
 就像智慧型促銷活動中的「結果」索引標籤一樣，您可以在電子郵件程式中看到相同的資訊。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
    >
    >如果電子郵件程式已執行，您將直接進入電子郵件程式儀表板。
 
-1. 在「視 **圖**」下，選 **擇「控制面板」**。
+1. 在&#x200B;**View**&#x200B;下，選擇&#x200B;**控制面板**。
 
    ![](assets/controlpanelview.jpg)
 
-1. 在「對象 **」方塊** ，按一下「 **檢視結果」**。
+1. 在&#x200B;**Audience**&#x200B;方塊下，按一下&#x200B;**檢視結果**。
 
    ![](assets/audiencetile.jpg)
 
@@ -43,5 +43,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->想要進一步瞭解電子郵 [件計畫](http://docs.marketo.com/display/docs/email+program+actions)?
+>想進一步瞭解[電子郵件程式](http://docs.marketo.com/display/docs/email+program+actions)嗎？
 
