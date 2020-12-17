@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 建立任務 {#create-task}
+# 建立任務{#create-task}
 
 身為行銷人員，您有可協助銷售人員完成交易的資訊。 您可以建立工作，讓他們知道應該做什麼，以及何時應該做。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->當Marketo Sync使用者建立工作時， **Due In** 是在Salesforce中建立工作的必填欄位。 如果沒有值，Marketo預設會輸入5天。
+>當Marketo Sync使用者建立工作時，**到期日**&#x200B;是在Salesforce中建立工作的必填欄位。 如果沒有值，Marketo預設會輸入5天。
 
 依預設，流程步驟會如下所示：   ![](assets/image2014-9-22-14-3a54-3a49.png)
 
@@ -29,5 +29,5 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以在「主 `{{lead.tokens}}`題」和「說明」中使 `{{company.tokens}}`用「主題 `{{campaign.tokens}}` 」和「說 `{{system.tokens}}`********&#x200B;明」。 如需詳 [細資訊，請參閱](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) 「流程步驟的Token」。
+>您可以在&#x200B;**Subject**&#x200B;和&#x200B;**Description**&#x200B;中使用`{{lead.tokens}}`、`{{company.tokens}}`、`{{campaign.tokens}}`和`{{system.tokens}}`。 如需詳細資訊，請參閱[流程步驟的代號](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)。
 
