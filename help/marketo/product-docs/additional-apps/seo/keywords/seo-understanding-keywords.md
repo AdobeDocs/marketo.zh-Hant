@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 瞭解關鍵字 {#seo-understanding-keywords}
+# SEO —— 瞭解關鍵字{#seo-understanding-keywords}
 
 關鍵字是您SEO策略的骨幹。 您的目標是在第一頁，盡可能靠近第一頁，以取得與您的業務相關的關鍵字。
 
-關鍵字區段將顯示您的網站在達成此目標方面有多成功，以及您如何累積 [競爭對手。](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+關鍵字區段將顯示您的網站如何成功達成此目標，以及您如何累積至[您的競爭對手。](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
 
-## 關鍵字——摘要檢視 {#keywords-summary-view}
+## 關鍵字——摘要檢視{#keywords-summary-view}
 
 ![](assets/image2014-9-17-21-3a44-3a25.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">排名與趨勢</td> 
-   <td colspan="1" rowspan="1"><p>此關鍵字的網站排名。 箭頭顯示關鍵字排名從前一週的趨勢 </p><p><img alt="--" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  =排名</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> =降級</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">=排名相同</p></td> 
+   <td colspan="1" rowspan="1"><p>此關鍵字的網站排名。 箭頭顯示關鍵字排名從前一週的趨勢 </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">  =排名</p><p><img alt="—" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—"> =降級</p><p> <img alt="—" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">=排名相同</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">競爭級別</td> 
@@ -52,7 +52,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 關鍵字——競爭者檢視 {#keywords-competitor-view}
+## 關鍵字——競爭者檢視{#keywords-competitor-view}
 
 您也可以按一下檢視下拉式清單並選取競爭者，使用相同的量度來檢視競爭者的表現。
 
