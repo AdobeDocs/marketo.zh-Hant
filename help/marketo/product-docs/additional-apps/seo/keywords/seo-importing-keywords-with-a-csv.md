@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 匯入含CSV的關鍵字 {#seo-importing-keywords-with-a-csv}
+# SEO —— 匯入具有CSV {#seo-importing-keywords-with-a-csv}的關鍵字
 
-1. 您可以 [手動新增關鍵字](seo-add-keywords.md) 、取得 [](seo-get-suggested-keywords.md) 關鍵字建議，甚至從CSV檔案匯入關鍵字。 以下是如何進行匯入。
-1. 前往「關鍵 **字** 」區段。
+1. 您可以手動[新增關鍵字](seo-add-keywords.md)、[取得關鍵字建議](seo-get-suggested-keywords.md)，甚至從CSV檔案匯入關鍵字。 以下是如何進行匯入。
+1. 前往&#x200B;**Keywords**&#x200B;區段。
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. 按一 **下匯入**。
+1. 按一下&#x200B;**Import**。
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. 按一 **下「選擇檔案**」。
+1. 按一下「**選擇檔案**」。
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    >
    >匯入限制視您的訂閱而定。 如需詳細資訊，請洽詢您的銷售代表。
 
-1. 按一 **下匯入**。
+1. 按一下&#x200B;**IMPORT**。
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
