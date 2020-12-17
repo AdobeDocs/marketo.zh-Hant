@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 自動觸發促銷活動清除 {#automatic-trigger-campaign-cleanup}
+# 自動觸發促銷活動清除{#automatic-trigger-campaign-cleanup}
 
 Marketo提供優質／免費服務，以停用已無法再獲得活動的觸發智慧型促銷活動。 這可加快系統整體效能並節省時間。
 
-## 怎麼了？ {#what-happens}
+## 怎麼了？{#what-happens}
 
 每季一次，Marketo將會發現智慧型促銷活動，其休眠（無人）達6個月或更長時間，並停用它們。
 
-## 你先通知我好嗎？ {#will-you-notify-me-first}
+## 你先通知我好嗎？{#will-you-notify-me-first}
 
 當然！ 每季一次，您會提前一週收到通知，顯示我們計畫停用的每個促銷活動。
 
-1. 前往「通 **知** 」標籤。
+1. 前往&#x200B;**Notifications**&#x200B;標籤。
 
    ![](assets/notifications.png)
 
-1. 按一 **下「閒置觸發器促銷活動清除已排程**」。 然後按一下「**這些閒置觸發器促銷活動將停用」 **連結。** **
+1. 按一下「**空閒觸發器促銷活動清除已排程**」。 然後按一下「**這些閒置觸發器促銷活動將停用&#x200B;**連結」。** **
 
    ![](assets/image2015-4-27-20-3a48-3a35.png)
 
@@ -35,11 +35,11 @@ Marketo提供優質／免費服務，以停用已無法再獲得活動的觸發�
 
    ![](assets/image2015-4-27-20-3a35-3a29.png)
 
-## 將停用哪些促銷活動？ {#which-campaigns-will-be-deactivated}
+## 將停用哪些促銷活動？{#which-campaigns-will-be-deactivated}
 
 我們只會停用已啟用6個月以上，但在該時段有0人符合資格的觸發促銷活動。
 
-## 等等！ 不是這個促銷活動！ {#wait-not-this-campaign}
+## 等等！ 不是這個促銷活動！{#wait-not-this-campaign}
 
 別擔心——任何智慧型促銷活動的時鐘都可透過下列方式重設：
 
@@ -48,11 +48,11 @@ Marketo提供優質／免費服務，以停用已無法再獲得活動的觸發�
 
 其中任何一個都會重設6個月計數器。
 
-## 請告訴我哪些促銷活動已停用？ {#will-you-let-me-know-which-campaigns-were-deactivated}
+## 請告訴我哪些促銷活動已停用？{#will-you-let-me-know-which-campaigns-were-deactivated}
 
 絕對是——在原始通知後一週，我們將停用列出的促銷活動（減去任何符合資格的至少一人或已停用／重新啟動的促銷活動），並張貼確認通知。
 
-1. 選取**Idle Trigger促銷活動清除已排程**通知。 按一下「 **這些閒置觸發器促銷活動** 」連結。
+1. 選取**Idle Trigger促銷活動清除已排程**通知。 按一下「這些閒置觸發器促銷活動&#x200B;**」連結。**
 
    ![](assets/image2015-4-27-20-3a56-3a41.png)
 
