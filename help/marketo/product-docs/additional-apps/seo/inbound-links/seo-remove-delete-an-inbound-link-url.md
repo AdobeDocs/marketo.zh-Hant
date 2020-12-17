@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 移除／刪除傳入連結URL {#seo-remove-delete-an-inbound-link-url}
+# SEO —— 移除／刪除入站連結URL {#seo-remove-delete-an-inbound-link-url}
 
 有時候，您會想要移除傳入連結。 以下說明方法：
 
-1. 前往「入 **站連結** 」區段。
+1. 轉至&#x200B;**入站連結**&#x200B;部分。
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
