@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本16-A {#template-a}
+# 模板16-A {#template-a}
 
 [下載範本16-A](http://docs.marketo.com/download/attachments/9437834/template-16a.html?version=1&amp;modificationdate=1438980648000&amp;api=v2)
 
