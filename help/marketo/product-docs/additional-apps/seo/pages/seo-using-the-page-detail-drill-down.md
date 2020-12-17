@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 使用頁面詳細資料下鑽 {#seo-using-the-page-detail-drill-down}
+# SEO —— 使用頁面詳細資訊向下鑽取{#seo-using-the-page-detail-drill-down}
 
 您可以透過頁面詳細資訊向下切入，查看許多有關您頁面的資訊。
 
-## 尋找頁面向下切入 {#find-page-drill-down}
+## 查找頁面向下鑽取{#find-page-drill-down}
 
 1. 前往「頁面」區段。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-21-3a55-3a2.png)
 
-## 頁面詳細資訊區段 {#page-detail-section}
+## 頁面詳細資料部分{#page-detail-section}
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
@@ -44,9 +44,9 @@ ht-degree: 0%
 | Facebook按贊次數 | 此頁面分享在Facebook上被贊的次數。 |
 | Facebook點按次數 | 來自Facebook分享的點按次數。 |
 
-## 頁面已最佳化的關鍵字  {#keyword-s-that-page-is-optimized-for}
+## 已針對{#keyword-s-that-page-is-optimized-for}最佳化頁面的關鍵字
 
-這是您選擇 [要最佳化頁面的關鍵字的位置](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)。
+這是您選擇[要針對](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)最佳化頁面的關鍵字的位置。
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a56-3a35.png)
 
-## 頁面最佳化結果 {#page-optimization-results}
+## 頁面最佳化結果{#page-optimization-results}
 
 「頁面最佳化結果」會告訴您您需要採取哪些確切步驟，以提高最佳化分數／在搜尋此頁面時更佳執行。
 
