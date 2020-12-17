@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 新增表單至自由表單登陸頁面 {#add-a-new-form-to-a-free-form-landing-page}
+# 新增表單至自由表單登陸頁面{#add-a-new-form-to-a-free-form-landing-page}
 
 表單，開會登陸頁面。 登陸頁面，開會表單。
 
@@ -24,15 +24,15 @@ ht-degree: 0%
 
 
 
-1. 前往「行 **銷****活動」**。
+1. 前往&#x200B;**Marketing** **Activity**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 尋找著陸頁面，然後按一 **下「編輯****草稿**」。
+1. 尋找著陸頁面，然後按一下「編輯&#x200B;**** **草稿**」。
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. 將「表單」元 **素拖放** 至頁面上。
+1. 將&#x200B;**Form**&#x200B;元素拖放到頁面上。
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 1. 在選擇後續頁面時，您有三個選項：
 
-   * **著陸頁面** -選擇行銷人員著陸頁面
+   * **著陸頁面** -以選擇Marketo登陸頁面
    * **外部**** URL** —— 選擇您想要的任何URL
 
    * **表單****定義** —— 使用表單層級定義的設定
@@ -53,10 +53,10 @@ ht-degree: 0%
    >
    >後續頁面是人們提交表單後所看到的頁面。
 
-1. 按一 **下插入**。
+1. 按一下&#x200B;**插入**。
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 
    幹得漂亮！
 
-只要關閉著陸頁面編輯器並 [核准著陸頁面草稿](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
+只要關閉著陸頁面編輯器並核准著陸頁面草稿[即可。](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
