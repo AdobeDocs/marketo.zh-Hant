@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 查找人員的活動日誌 {#locate-the-activity-log-for-a-person}
+# 找到{#locate-the-activity-log-for-a-person}人員的活動日誌
 
 活動日誌是真相的終極來源。 這是一個人在Marketo旅程的完整故事。
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
    ![](assets/db-2.png)
 
-1. 選擇 **所有人員**。
+1. 選擇&#x200B;**所有人員**。
 
    ![](assets/two-6.png)
 
-1. 按一下「 **人員** 」標籤。 選擇人員 **Id** 號。
+1. 按一下&#x200B;**People**&#x200B;頁籤。 選擇&#x200B;**Id**&#x200B;個人。
 
    ![](assets/three-5.png)
 
-1. 按一 **下活動記錄**。
+1. 按一下&#x200B;**活動日誌**。
 
    ![](assets/four-3.png)
 
@@ -40,5 +40,5 @@ ht-degree: 0%
    >**相關文章**
    >
    >
-   >進一步瞭解 [如何篩選活](filter-activity-types-in-the-activity-log-of-a-person.md)動記錄，以查看特定人員活動。
+   >進一步瞭解[篩選活動記錄以查看特定人員活動。](filter-activity-types-in-the-activity-log-of-a-person.md)
 
