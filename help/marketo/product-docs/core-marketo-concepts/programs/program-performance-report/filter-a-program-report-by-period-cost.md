@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 按期間成本篩選方案報表 {#filter-a-program-report-by-period-cost}
+# 按期間成本{#filter-a-program-report-by-period-cost}篩選程式報表
 
-將您的計 [划績效報告](create-a-program-performance-report.md) ，集中在特定的期間成本時間範圍。
+將您的[方案績效報告](create-a-program-performance-report.md)放在特定期間成本時間範圍內。
 
-1. 前往 **Marketing** **Activity** (或 **Analytics**)。
+1. 前往&#x200B;**Marketing****Activity**（或&#x200B;**Analytics**）。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-16-3a22-3a52.png)
 
-1. 按一下「 **Setup** （設定）」頁籤，然後拖 **動到「Period Cost（期間成本）**」。
+1. 按一下「**Setup**」頁籤並拖動到「期間成本&#x200B;**a3/>」上。**
 
    ![](assets/lm-86194-1.png)
 
-1. 輸入已 **產生成本的起** 始和 **終止日期，然後按一下** 應用 ****。
+1. 輸入已發生成本的&#x200B;**起始**&#x200B;和&#x200B;**終止**&#x200B;日期，然後按一下&#x200B;**應用**。
 
    ![](assets/lm-86194-2a-hands.png)
 
-1. 你完了！ 按一下「 **報表** 」標籤，只查看在指定期間成本時間範圍內的方案。
+1. 你完了！ 按一下&#x200B;**Report**&#x200B;頁籤，只查看在指定期間成本時間範圍內的程式。
 
    ![](assets/lm-86194-report-tab.png)
 
@@ -49,5 +49,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >瞭解「基本報表」中 [的所有報表](http://docs.marketo.com/display/docs/basic+reporting)。
+   >瞭解[基本報表](http://docs.marketo.com/display/docs/basic+reporting)中的所有報表。
 
