@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 將多個值添加到智慧清單過濾器 {#add-multiple-values-to-a-smart-list-filter}
+# 將多個值添加到智慧清單過濾器{#add-multiple-values-to-a-smart-list-filter}
 
 >[!PREREQUISITES]
 >
@@ -22,21 +22,21 @@ ht-degree: 0%
 
 
 
-假設您想要在加州找到每個人，但您可能將加州和 **CA** 都儲存 **** 在資料庫中。 若要包含所有適用的人員，您可以使用兩 **個州** (State)篩選器，但使用一個比較容易。
+假設您想在加州找到每個人，但您可能將&#x200B;**California**&#x200B;和&#x200B;**CA**&#x200B;同時儲存在您的資料庫中。 若要包含所有適用的人員，您可以使用兩個&#x200B;**State**&#x200B;篩選器，但使用一個則更簡單。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 查找並選擇智慧清單，然後按一下「智慧 **清單** 」頁籤。
+1. 查找並選擇智慧清單，然後按一下&#x200B;**智慧清單**&#x200B;頁籤。
 
    ![](assets/smarlist-choosefilters.png)
 
-1. 按一下 **篩選器上** 的加號。
+1. 按一下篩選器上的&#x200B;**加號**。
 
    ![](assets/smartlist-plussignhand-.png)
 
-1. 您可以從左側選擇值，或只在右側鍵入值，然後按一下「確 **定」**。
+1. 您可以從左側選擇值，或只在右側鍵入值，然後按一下「確定」(OK)**。**
 
    ![](assets/image2014-9-11-17-3a51-3a39.png)
 
