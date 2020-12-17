@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 檢視電子郵件計畫儀表板 {#view-the-email-program-dashboard}
+# 查看電子郵件程式儀表板{#view-the-email-program-dashboard}
 
 查看您的電子郵件程式（有無A/B測試）在此控制面板上的執行情形。
 
-## 選擇您的電子郵件方案 {#select-your-email-program}
+## 選擇您的電子郵件程式{#select-your-email-program}
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,15 +29,15 @@ ht-degree: 0%
    >
    >如果您的A/B測試或電子郵件程式尚未啟動，您將看不到控制面板。
 
-## 電子郵件方案A/B測試檢視 {#email-program-a-b-test-view}
+## 電子郵件程式A/B測試視圖{#email-program-a-b-test-view}
 
 如果您將A/B測試新增至電子郵件程式，且測試目前正在執行，您會看到下列內容：
 
 ![](assets/image2014-9-12-14-3a2-3a25.png)
 
-## 電子郵件方案檢視 {#email-program-view}
+## 電子郵件程式視圖{#email-program-view}
 
-或者，如果您未新增A/B測 *試* ，或測試結束，應顯示下列內容：
+或者，如果您未新增A/B測試&#x200B;*或*（如果測試結束），則應顯示下列內容：
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
