@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 從清單新增／移除傳入連結URL {#seo-add-remove-an-inbound-link-url-from-a-list}
+# SEO —— 從清單{#seo-add-remove-an-inbound-link-url-from-a-list}新增／移除傳入連結URL
 
 您可以組織內容的傳入連結URL。
 
-## 新增入站連結URL至清單 {#add-an-inbound-link-url-to-a-list}
+## 將入站連結URL添加到清單{#add-an-inbound-link-url-to-a-list}
 
 1. 前往「傳入連結」區段。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 >
 >您也可以建立新的關鍵字清單。 只要在「建立新清單」中輸入您想要的名稱即可。
 
-## 從清單移除入站連結URL {#remove-an-inbound-link-url-from-a-list}
+## 從清單{#remove-an-inbound-link-url-from-a-list}移除入站連結URL
 
 1. 有時，您會想從清單中移除傳入連結URL。
 
