@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 在智慧型促銷活動中覆寫人員限制 {#override-person-restrictions-in-a-smart-campaign}
+# 在智慧型促銷活動中覆寫人員限制{#override-person-restrictions-in-a-smart-campaign}
 
-Marketo可讓您設定最多* *符合智慧型促銷活動資格的人數；這有助於您避免意外以電子郵件寄送整個資料庫。 如果您想覆 *寫* ，請以下說明方式。
+Marketo可讓您設定最多* *符合智慧型促銷活動資格的人數；這有助於您避免意外以電子郵件寄送整個資料庫。 如果您想要&#x200B;*override*&#x200B;此限制，請參閱以下說明。
 
 >[!PREREQUISITES]
 >
->請務必在「行 [銷管理員」中為智慧型促銷活動](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) 啟用人員限制。
+>請務必在「行銷人員管理」中為智慧型促銷活動[啟用人員限制。](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
 
-1. 在行銷活動中，前往您的** **智慧型促銷活動，然後按一下「排 **程」**。
+1. 在「行銷活動」中，前往您的** **智慧型促銷活動，然後按一下「排程&#x200B;**」。**
 
    ![](assets/one.png)
 
@@ -30,7 +30,7 @@ Marketo可讓您設定最多* *符合智慧型促銷活動資格的人數；這�
    >
    >預設限制是「管理」中設定的限制。
 
-1. 輸入新限制，然後按一下「 **儲存」。**
+1. 輸入新限制，然後按一下「保存」。****
 
    ![](assets/three.png)
 
