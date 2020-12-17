@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 刪除工作區 {#delete-a-workspace}
+# 刪除工作區{#delete-a-workspace}
 
 >[!NOTE]
 >
