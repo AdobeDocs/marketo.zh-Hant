@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 將您的隱私權政策新增至社交應用程式 {#add-your-privacy-policy-to-a-social-app}
+# 將您的隱私權政策新增至社交應用程式{#add-your-privacy-policy-to-a-social-app}
 
-當您建立社交應 [用程式](http://docs.marketo.com/display/docs/social)，可以新增連結至公司的隱私權政策。
+當您建立[社交應用程式](http://docs.marketo.com/display/docs/social)時，可以新增連結至您公司的隱私權政策。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-4.png)
 
-1. 選取應用程式，然後按一下「 **編輯草稿****」。**
+1. 選取應用程式，然後按一下「編輯草稿&#x200B;**」**。****
 
    ![](assets/image2014-9-22-10-3a50-3a22.png)
 
-1. 在社交應用程式編輯器中，前往「 **應用程式設定** > **進階選項**」**.**
+1. 在社交應用程式編輯器中，前往「應用程式設定」**>>「應用程式設定」>「進階選項」****。******
 
    ![](assets/image2014-9-22-10-3a50-3a38.png)
 
@@ -33,10 +33,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在此螢幕上，您也可以新增選件規則（條款與條件）的連結。 請參 [閱建立反向連結選件](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)。
+   >在此螢幕上，您也可以新增選件規則（條款與條件）的連結。 請參閱[建立反向連結選件](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)。
 
 1. 隱私權政策連結（和規則連結）會出現在分享訊息畫面的底部。 例如：
 
    ![](assets/image2014-9-22-10-3a52-3a16.png)
 
-接著，您可 [以設定應用程式的社交註冊和共用](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) 流程。
+接著，您可以設定應用程式的[社交註冊和共用流量](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md)。
