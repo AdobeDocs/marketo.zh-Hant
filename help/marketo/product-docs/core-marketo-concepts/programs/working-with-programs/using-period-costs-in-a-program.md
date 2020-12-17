@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# 在計畫中使用期間成本 {#using-period-costs-in-a-program}
+# 在方案中使用期間成本{#using-period-costs-in-a-program}
 
-期 [間成本](understanding-period-costs.md) ，是您在計畫上花費的金額。 它可持續一個或多個月，用於報告投資報酬率。
+[期間成本](understanding-period-costs.md)是您在計畫上花費的金額。 它可持續一個或多個月，用於報告投資報酬率。
 
 >[!NOTE]
 >
 >**深入探討**
 >
-> 進一步瞭解 [收入週期分析](http://docs.marketo.com/display/docs/revenue+cycle+analytics)。
+> 進一步瞭解[收入週期分析](http://docs.marketo.com/display/docs/revenue+cycle+analytics)。
 
-## 添加期間成本  {#add-a-period-cost}
+## 添加期間成本{#add-a-period-cost}
 
-1. 轉到程 **序的** 「設定」頁籤。
+1. 轉到程式的&#x200B;**Setup**&#x200B;頁籤。
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. 將期間成 **本拖放** 至畫布。
+1. 將&#x200B;**期間成本**&#x200B;拖放到畫布中。
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
-1. 按一下日曆圖示。 選擇月份。 按一下 **確定**。
+1. 按一下日曆圖示。 選擇月份。 按一下&#x200B;**確定**。
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. 輸入期 **間成本** （不含小數或逗號）。 按一下 **儲存**。
+1. 輸入&#x200B;**期間成本**（不含小數或逗號）。 按一下&#x200B;**保存**。
 
    >[!NOTE]
    >
@@ -51,28 +51,28 @@ ht-degree: 0%
    >
    >您可以將多個期間成本拖放至畫布中。 這可讓您將不同期間成本的多個月份歸因於您的方案。
 
-## 編輯期間成本 {#edit-a-period-cost}
+## 編輯期間成本{#edit-a-period-cost}
 
 1. 如果您花的錢比原先預計的多或少，則可編輯期間成本。
 1. 前往您方案的**設定**標籤。
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. 按一下右鍵期間 **成本**。 選擇 **編輯**。
+1. 按一下右鍵&#x200B;**期間成本**。 選擇&#x200B;**編輯**。
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
-1. 進行編輯。 按一下 **儲存**。
+1. 進行編輯。 按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-18-14-3a3-3a41.png)
 
-## 刪除期間成本 {#delete-a-period-cost}
+## 刪除期間成本{#delete-a-period-cost}
 
-1. 轉到程 **序的** 「設定」頁籤。
+1. 轉到程式的&#x200B;**Setup**&#x200B;頁籤。
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. 按一下右鍵期間 **成本**。 選擇 **刪除**。
+1. 按一下右鍵&#x200B;**期間成本**。 選擇&#x200B;**刪除**。
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
