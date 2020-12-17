@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 瞭解期間成本 {#understanding-period-costs}
+# 瞭解期間成本{#understanding-period-costs}
 
-## 概觀 {#overview}
+## 概述{#overview}
 
 期間成本是指您在某個方案的特定月份所花費的金錢。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >如果您花1000美元為7月推出的電子書聘請Illustrator，電子書計畫的期間成本為7月的1000美元。
 >
->如果每月在Google Adwords上花費$200,Google Adwords計畫的時段費用將為每月$200 **美元**。
+>如果您每月在Google Adwords上花費$200 - Google Adwords方案的期間成本為$200 **，每月**。
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ ht-degree: 0%
 >
 >[瞭解方案會籍](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
-## 期間成本的計算方式 {#how-period-costs-are-calculated}
+## 期間成本的計算方式{#how-period-costs-are-calculated}
 
 想像一下3月舉辦的活動，如網路研討會。 一、二月間，新人會事先從廣告中獲得。 活動結束後，人們將在4月和5月下載網路研討會。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/graph1.png)
 
-   ...前後數月新增的聯絡人只 *會計* 入3月。
+   ...在前幾個月和之後添加的聯繫人將&#x200B;*只計入3月。*
 
    ![](assets/graph2.png)
 
@@ -66,7 +66,7 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >總之——沒有定義期間成本的月份將「向後」滾動到已定義的最後一個月。 如果沒有前期成本，則月份將「前滾」到已定義的下一個月。 如果尚未定義任何月的期 *間成本* ，則此程式將無法使用RCE報告。
+   >總之——沒有定義期間成本的月份將「向後」滾動到已定義的最後一個月。 如果沒有前期成本，則月份將「前滾」到已定義的下一個月。 如果尚未為&#x200B;*any*&#x200B;月定義期間成本，則RCE中的報告將不適用於該程式。
 
    >[!NOTE]
    >
