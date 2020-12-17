@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 使用程式首頁頁籤 {#using-the-program-home-tab}
+# 使用程式首頁標籤{#using-the-program-home-tab}
 
 程式首頁標籤提供您程式中的高階檢視。
 
-## 摘要檢視 {#summary-view}
+## 摘要視圖{#summary-view}
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -37,13 +37,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
-## 用於視圖 {#used-by-view}
+## 用於視圖{#used-by-view}
 
 1. 在行銷活動中，選擇方案。
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. 按一下 **「檢視** 」下拉式清單。 選擇 **使用者**。
+1. 按一下&#x200B;**視圖**&#x200B;下拉式清單。 選擇&#x200B;**使用者**。
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -51,13 +51,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a6-3a4.png)
 
-## 會籍檢視 {#membership-view}
+## 會籍檢視{#membership-view}
 
 1. 在行銷活動中，選擇方案。
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. 按一下 **「檢視** 」下拉式清單。 選擇 **會籍**。
+1. 按一下&#x200B;**視圖**&#x200B;下拉式清單。 選擇&#x200B;**成員資格**。
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Historical** （歷史） **表示曾參加過程式的任何人，而** Current（目前）則僅包含目前參加程式的人員。
+   >**Historical** 表示曾參與過程式的任何人，而 **** Currentonly則包含目前在程式中的人員。
 
    >[!NOTE]
    >
