@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 調整表單中標籤／欄位寬度的大小 {#resize-label-field-width-in-a-form}
+# 調整{#resize-label-field-width-in-a-form}表單中標籤／欄位寬度的大小
 
 有兩種方式可調整欄位標籤寬度以及欄位寬度本身。
 
-## 拖放寬度 {#drag-and-drop-the-width}
+## 拖放寬度{#drag-and-drop-the-width}
 
-1. 在表單 [編輯器中](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)，選取您要調整大小的欄位。
+1. 在[表單編輯器](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)中，選擇要調整大小的欄位。
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a24-3a14.png)
 
-## 手動輸入寬度 {#enter-the-width-manually}
+## 手動輸入寬度{#enter-the-width-manually}
 
 1. 選取您要調整大小的欄位。
 
