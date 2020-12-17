@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10092890
-description: 範本19-A —— 行銷檔案——產品檔案
+description: 範本19-E —— 行銷檔案——產品檔案
 title: 範本19-A
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本19-A {#template-a}
+# 模板19-A {#template-a}
 
 [下載範本19-A](http://docs.marketo.com/download/attachments/10092890/template-19a.html?version=1&amp;modificationdate=1441750318000&amp;api=v2)
 
