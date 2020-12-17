@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 建立自訂服務以搭配ReST API使用 {#create-a-custom-service-for-use-with-rest-api}
+# 建立自訂服務以搭配ReST API {#create-a-custom-service-for-use-with-rest-api}使用
 
 如果您想要透過ReST API與Marketo整合，您將想要建立自訂服務。 這是方法。
 
@@ -32,23 +32,23 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->請參閱我們的開發人員檔案，以取得 [ReST API的詳細資訊](http://developers.marketo.com/documentation/rest/)。 如果您需要 [SOAP API](http://developers.marketo.com/documentation/soap/) ，我們也有它。
+>請參閱我們的開發人員檔案，以取得[ReST API](http://developers.marketo.com/documentation/rest/)的詳細資訊。 如果您需要[SOAP API](http://developers.marketo.com/documentation/soap/)，我們也提供&lt;a0/>。
 
 >[!NOTE]
 >
 >如果您有Spark等級的Marketo，就無法建立自訂服務。
 
-## 建立自訂服務 {#create-custom-service}
+## 建立自訂服務{#create-custom-service}
 
-1. 前往「管 **理員** 」並按一 **下LaunchPoint**。
+1. 前往&#x200B;**Admin**，然後按一下&#x200B;**LaunchPoint**。
 
    ![](assets/image2014-9-19-10-3a38-3a15.png)
 
-1. 在「新 **增**」下，按一 **下「新增服務」**。
+1. 在&#x200B;**New**&#x200B;下，按一下&#x200B;**New Service**。
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. 輸入服 **務的顯示** 名稱。 選取先 **前建立的**[「僅限API使用者」](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)。
+1. 輸入服務的&#x200B;**顯示名稱**。 選擇&#x200B;**僅API用戶** [先前建立的](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)。
 
    >[!NOTE]
    >
@@ -58,27 +58,27 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-10-3a38-3a32.png)
 
-1. 按一下 **建立**。
+1. 按一下&#x200B;**建立**。
 
    ![](assets/image2014-9-19-10-3a39-3a28.png)
 
    是啊！ 服務現在已建立，讓我們繼續，取得所有要提供存取權的認證。
 
-## API存取的認證 {#credentials-for-api-access}
+## API存取憑證{#credentials-for-api-access}
 
-1. 前往「管 **理員** 」並按一 **下LaunchPoint**。
+1. 前往&#x200B;**Admin**，然後按一下&#x200B;**LaunchPoint**。
 
    ![](assets/image2014-9-19-10-3a42-3a11.png)
 
-1. 按一 **下上述建立之自訂LaunchPoint服務的「檢視詳細資訊** 」。
+1. 按一下&#x200B;**View Details**&#x200B;查看上述建立的自定義LaunchPoint服務。
 
    ![](assets/image2014-9-19-10-3a42-3a16.png)
 
-1. 按一 **下「取得Token**」。
+1. 按一下「取得Token **」。**
 
    ![](assets/image2014-9-19-10-3a42-3a24.png)
 
-1. 為負責建立連線的人員提供** **用戶端Id**、用戶**&#x200B;端密碼 **、授權使用者和** Token **** 。
+1. 向負責建立連線的人員提供**客戶端Id**、**客戶機密碼**、**授權使用者**&#x200B;和&#x200B;**Token**。
 
    ![](assets/image2014-9-19-10-3a42-3a38.png)
 
