@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本2-A {#template-a}
+# 模板2-A {#template-a}
 
 [下載範本2-A](http://docs.marketo.com/download/attachments/7516467/template2-a.html?version=1&amp;modificationdate=1433228945000&amp;api=v2)
 
