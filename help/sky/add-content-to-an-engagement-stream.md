@@ -20,15 +20,15 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-1.png)
 
-1. 按一下標 **[!UICONTROL Streams]** 簽。
+1. 按一下&#x200B;**[!UICONTROL Streams]**&#x200B;頁籤。
 
    ![影像2](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
 
-1. 按一 **[!UICONTROL Add Content]**&#x200B;下。
+1. 按一下&#x200B;**[!UICONTROL Add Content]**。
 
    ![影像三](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-3.png)
 
-1. 將設定 [!UICONTROL Type] 保留為「電子郵件」，然後尋找／選取您要新增的電子郵件。
+1. 將[!UICONTROL Type]設為「電子郵件」，然後尋找／選取您要新增的電子郵件。
 
    ![影像4](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-4.png)
 
@@ -42,15 +42,15 @@ ht-degree: 0%
 
    ![影像5](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-5.png)
 
-1. 按一下標 **[!UICONTROL Streams]** 簽。
+1. 按一下&#x200B;**[!UICONTROL Streams]**&#x200B;頁籤。
 
    ![影像6](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-6.png)
 
-1. 按一 **[!UICONTROL Add Content]**&#x200B;下。
+1. 按一下&#x200B;**[!UICONTROL Add Content]**。
 
    ![影像7](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
 
-1. 變更 [!UICONTROL Type] 為方案。
+1. 將[!UICONTROL Type]更改為Program。
 
    ![影像8](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-8.png)
 
