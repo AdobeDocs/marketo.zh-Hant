@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-在設 [定活動目標](/help/sky/setting-event-goals.md)，並透過智慧型促銷活動傳送邀 [請後](/help/sky/create-a-smart-campaign.md)，以下說明如何追蹤目標進度並瞭解Marketo的預測。
+在[設定事件目標](/help/sky/setting-event-goals.md)並透過[智慧型促銷活動](/help/sky/create-a-smart-campaign.md)傳送邀請函後，以下說明如何追蹤目標進度並瞭解Marketo的預測。
 
 >[!NOTE]
 >
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 ## 目標追蹤和預計註冊
 
-1. 您可以在事件程式的標籤中找 **[!UICONTROL Reports]** 到目標追蹤詳細資訊。 在這個具體例子中，到目前為止有150名註冊會員，而目標是200(75%)。
+1. 您可以在事件程式的&#x200B;**[!UICONTROL Reports]**&#x200B;標籤中找到目標跟蹤詳細資訊。 在這個具體例子中，到目前為止有150名註冊會員，而目標是200(75%)。
 
    ![影像一](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-您也會看到您的注 **[!UICONTROL Projected]** 冊。 將滑鼠指標暫留在資訊圖示上，即可檢視此數字的「似然」區段劃分。
+您也會看到您的&#x200B;**[!UICONTROL Projected]**&#x200B;註冊。 將滑鼠指標暫留在資訊圖示上，即可檢視此數字的「似然」區段劃分。
 
 ![影像2](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->預測數字會每24小時更新一次，直到事件發生當日為止。 列為「處理」(_Processing_)的任何成員都將包括在下一個計算週期中。
+>預測數字會每24小時更新一次，直到事件發生當日為止。 列為&#x200B;_Processing_&#x200B;的所有成員都將包括在下一個計算週期中。
 
 ## 類似方案
 
-您可以檢視過去執行的類似程式，從而深入瞭解目前的事件。 本節顯示自過去6個月以來最多5個類似方案，以及註冊或更高的成&#x200B;_員_ /百分比。
+您可以檢視過去執行的類似程式，從而深入瞭解目前的事件。 本節顯示最近6個月中最多5個類似程式，成員數量／百分比為&#x200B;_Registered_&#x200B;或更高。
 
 在計算類似程式時，主要包括以下因素：
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ## 人員層級預測
 
-按一下該&#x200B;**[!UICONTROL Members]** 頁籤可查看您的所有方案成員。 將滑鼠指標暫留 **[!UICONTROL Registration Likelihood]** 在或 **[!UICONTROL Attendance Likelihood]** 長條上，以檢視確切的百分比和分類。 然後，您可以針對特定類別的會員採取行動（例如，「不太可能」註冊類別的每個會員），並特別鎖定他們以提高註冊人數。
+按一下&#x200B;**[!UICONTROL Members]**&#x200B;頁籤查看所有程式成員。 將滑鼠指標暫留在&#x200B;**[!UICONTROL Registration Likelihood]**&#x200B;或&#x200B;**[!UICONTROL Attendance Likelihood]**&#x200B;列上，以檢視確切的百分比和類別。 然後，您可以針對特定類別的會員採取行動（例如，「不太可能」註冊類別的每個會員），並特別鎖定他們以提高註冊人數。
 
 ![影像7](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 * 註冊的可能性>25%到&lt;50% =可能區段
 * 註冊的可能性&lt;25% =可能性較低的區段
 
-當某人有可能註冊時，預測會落入其中一個區段（每個參與計畫的人都會落入其中一個區段）。 例如，如果某個事件程式根據可能性預測有1000個成員，則這1000個成員會分發至「極可能 _」、「_&#x200B;可能 _」或「_&#x200B;較不可能 __ 」區段。
+當某人有可能註冊時，預測會落入其中一個區段（每個參與計畫的人都會落入其中一個區段）。 例如，如果事件程式根據似然預測有1000個成員，則這些1000將分發到&#x200B;_Highly Pocibity_、_Pocibity_&#x200B;或&#x200B;_Less Pocibity_&#x200B;區段。
 
 因此，「極可能性」區段的使用者註冊活動的機率較高。
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 i.您建立程式，然後智慧型促銷活動會使用「大於X」的預測性篩選器，這會導致特定人數（例如1000人），而您執行促銷活動。
 
-ii. 在24小時後，您可 [!UICONTROL Reports] 以在標籤中看到根據註冊目前受邀人士的值的可能性而計算的預計註冊。
+ii. 在24小時後，在[!UICONTROL Reports]標籤中，您可以看到根據註冊所有目前受邀人士的值的可能性而計算的預計註冊。
 
 iii. 如果預計的註冊數低於目標，您必須邀請更多人。 目前，您可以看到這些洞見，告訴您過去的計畫有什麼成效。
 
@@ -117,9 +117,9 @@ v.如果您想瞭解預測數目顯示的原因，您可以在任何時間點切
 
 答：三個橫條，每個橫條代表一個區段（極可能、極可能、極不可能）。
 
-**紫色虛線：** 該區段中註冊的平均對話率（根據過去的類似方案）。
+**紫色虛線：根** 據過去的類似程式，該區段中註冊的平均對話率。
 
-**藍條：** 該區段中所有人的註冊百分比。
+**藍色列：** 該區段中所有人員的註冊百分比。
 
 ![影像9](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-9.png)
 
