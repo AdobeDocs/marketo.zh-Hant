@@ -16,7 +16,7 @@ ht-degree: 0%
 
 促銷活動資料夾可協助您保持整潔的工作區。 依照這些簡單步驟進行，您就可以邁向自動化魔力。
 
-1. 按一下右鍵工作區全局或現有資料夾並選擇 **[!UICONTROL New Campaign Folder]**。
+1. 按一下右鍵工作區全局或現有資料夾並選擇&#x200B;**[!UICONTROL New Campaign Folder]**。
 
    ![影像一](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-2.png)
 
-1. （可選）您可以新增說明及／或新增標籤至促銷活動資料夾。 如果您要在現有資料夾中建立促銷活動資料夾，您也可以從父資產複製標籤。 按一 **[!UICONTROL Create]**&#x200B;下。
+1. （可選）您可以新增說明及／或新增標籤至促銷活動資料夾。 如果您要在現有資料夾中建立促銷活動資料夾，您也可以從父資產複製標籤。 按一下&#x200B;**[!UICONTROL Create]**。
 
    ![影像一](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-3.png)
 
