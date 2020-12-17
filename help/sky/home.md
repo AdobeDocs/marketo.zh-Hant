@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![橫幅](/help/sky/assets/images/alt-sky-banner.png)
 
-此介 [!DNL Marketo Sky] 面運用全新的設計、工作流程和功能，協助您發揮更大效益 [!DNL Marketo]。
+[!DNL Marketo Sky]介面運用全新的設計、工作流程和功能，協助您充份運用[!DNL Marketo]。
 
 ## 快速入門
 
