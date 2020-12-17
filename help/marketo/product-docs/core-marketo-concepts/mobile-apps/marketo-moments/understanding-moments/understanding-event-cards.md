@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 瞭解事件卡 {#understanding-event-cards}
+# 瞭解事件卡{#understanding-event-cards}
 
 使用Marketo Moments在您的手機或iPad上檢視您的活動程式。
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/ecuf3hS3r3I" frameborder="0" allowfullscreen></iframe>` 當您點選任何「電子郵件方案」卡時，您可以：
