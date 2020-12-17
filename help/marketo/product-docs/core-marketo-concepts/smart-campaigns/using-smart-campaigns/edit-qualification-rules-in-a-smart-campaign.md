@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 在智慧型促銷活動中編輯資格規則 {#edit-qualification-rules-in-a-smart-campaign}
+# 在智慧型促銷活動中編輯資格規則{#edit-qualification-rules-in-a-smart-campaign}
 
 資格規則可控制某人在智慧型促銷活動中執行流程的次數。 依預設，即使某人觸發多次智慧型促銷活動，也只會透過流程傳送一次。 以下是如何修改這些設定。
 
-1. 在智慧型促銷活動中，按一下「排 **程** 」標籤，然 **後按一下「編輯設定」**。
+1. 在智慧型促銷活動中，按一下「排程&#x200B;****」標籤，然後按一下「編輯設定&#x200B;**」。**
 
    ![](assets/programeditsettings-hands.png)
 
    >[!TIP]
    >
-   >您也可以按一 **下** 「智慧型促銷活動設定」右側的編輯。
+   >您也可以按一下「智慧型促銷活動設定」右側的「編輯」****。
 
-1. 選擇在智慧型促銷活動流程中引導人員的頻率： **每次只有一次**，每#天 **/周，或每#**&#x200B;天／周， ****&#x200B;每月&#x200B;********&#x200B;一次。
+1. 選擇在智慧型促銷活動流程中引導人員的頻率：每次&#x200B;**、**&#x200B;或&#x200B;**每#天**/**周**/**月**&#x200B;一次。****
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >預設不會將通訊限制套用至智慧型促銷活動。 瞭解如何將 [通訊限制套用至智慧型促銷活動](apply-communication-limits-to-smart-campaign.md)。
+   >預設不會將通訊限制套用至智慧型促銷活動。 瞭解如何[將通訊限制套用至智慧型促銷活動](apply-communication-limits-to-smart-campaign.md)。
 
    >[!NOTE]
    >
