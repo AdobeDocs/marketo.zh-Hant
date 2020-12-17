@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 導覽行銷行事歷 {#navigating-the-marketing-calendar}
+# 導覽行銷行事歷{#navigating-the-marketing-calendar}
 
 在行銷行事歷中導覽，就像一、二、三一樣簡單！
 
 >[!PREREQUISITES]
 >
->請確定您有行 [銷日曆授權](issue-revoke-a-marketing-calendar-license.md) -否則「行銷日曆」方塊不會顯示在我的行銷人員中。
+>請確定您有[行銷行事歷授權](issue-revoke-a-marketing-calendar-license.md) —— 否則「行銷行事歷」方塊不會顯示在「我的行銷人員」中。
 
-1. 前往「行銷 **行事歷」**。
+1. 前往&#x200B;**行銷行事歷**。
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -27,23 +27,23 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a44-3a22.png)
 
-## 模式間的更改 {#change-between-modes}
+## 模式間的更改{#change-between-modes}
 
-1. 按一下 **3週** 或 **月標籤** ，以切換模式。
+1. 按一下&#x200B;**3週**&#x200B;或&#x200B;**月**&#x200B;頁籤可在各種模式之間切換。
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
-## 使用議程視圖 {#use-the-agenda-view}
+## 使用「議程視圖」 {#use-the-agenda-view}
 
 「議程」視圖將所有條目顯示為清單。
 
-1. 按一下「 **篩選」下拉式清單**。
+1. 按一下「**篩選」下拉式清單**。
 
-   ` ![](assets/image2014-9-26-10-3a29-3a6.png)
+   「 ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-   `
+   「
 
-1. 選擇「 **議程** 」視圖。
+1. 選擇&#x200B;**議程**&#x200B;視圖。
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
-## 瀏覽時間 {#navigate-through-time}
+## 瀏覽時間{#navigate-through-time}
 
 沒有德羅林車！ 只要按一下導覽按鈕即可。
 
