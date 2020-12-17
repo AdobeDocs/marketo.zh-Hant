@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 發行說明：2013年3月 {#release-notes-march}
+# 發行說明：2013年3月{#release-notes-march}
 
-3月發行包含下列功能。 請檢查您的 [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) ，以取得功能。
+3月發行包含下列功能。 請檢查您的[Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php)是否提供功能。
 
-發行後，請務必查看社群中的「 [新發行](release-notes-december-2013.md) 」標籤，以取得每個功能的詳細知識庫文章！
+發行後，請務必查看社群中的[新發行](release-notes-december-2013.md)標籤，以取得每個功能的詳細知識庫文章！
 
-## 行銷人員日曆檔案 {#marketo-calendar-files}
+## 行銷人員日曆檔案{#marketo-calendar-files}
 
-建立日曆檔案作為 **My Token** ，以便用於您的事件確認和提醒電子郵件。 此整合的日曆檔案(例如.ics檔案)將會轉譯所有Token，包括My Token和 `{{member.webinar URL}}` Token。
+建立日曆檔案作為&#x200B;**我的Token**，以用於您的事件確認和提醒電子郵件。 此整合的日曆檔案(例如.ics檔案)將會呈現所有Token，包括My Token和`{{member.webinar URL}}` Token。
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 
@@ -31,18 +31,18 @@ ht-degree: 0%
 
 您可以建立等待步驟，等待14天後，潛在客戶的生日。 選取「使用此日期的下一週年」，系統會自動忽略與日期相關的年份，並改用目前或下一個日曆年度。
 
-## 社交抽獎活動 {#social-sweepstakes}
+## 社交抽獎活動{#social-sweepstakes}
 
 抽獎活動可讓您的潛在客戶有機會贏得獎品，並告訴他們的朋友您的相關資訊。 您可以從參與者中選取隨機的得獎者，並寄送電子郵件給他們。
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## 其他表單錯誤訊息語言 {#additional-form-error-message-languages}
+## 其他表單錯誤訊息語言{#additional-form-error-message-languages}
 
 表單錯誤訊息已新增十多種語言！
 
 ![](assets/image2014-9-22-15-3a37-3a25.png)
 
-## 支援最新消息和警報 {#support-news-and-alerts}
+## 支援新聞與警報{#support-news-and-alerts}
 
 訂閱P1提醒支援新聞和提醒、已知問題、支援專家的提示和提示，以及行銷客戶支援的更新，讓您與行銷客戶支援保持聯繫。
