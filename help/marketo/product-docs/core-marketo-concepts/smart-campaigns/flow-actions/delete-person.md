@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 刪除人員 {#delete-person}
+# 刪除人員{#delete-person}
 
 錯誤的人有時會進入您的資料庫。 「刪除人員」流程步驟可以刪除它們。
 
-## 概觀 {#overview}
+## 概述{#overview}
 
 在智慧型促銷活動中使用流程步驟。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >刪除人員時，其所有歷史RCE資料也將被刪除。 它無法復原。
 
-## 使用狀況 {#usage}
+## 用法{#usage}
 
 當您拖曳流程步驟時，也會自動將其設定為從CRM中刪除。
 
@@ -37,5 +37,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->將人員從CRM中移除只 **適用於Salesforce**。 如果您從Marketo刪除人員，並選擇在Salesforce中保留他們，則當他們的Salesforce記錄有更新時，就會在Marketo中重新建立他們。
+>從您的CRM **移除人員只適用於Salesforce**。 如果您從Marketo刪除人員，並選擇在Salesforce中保留他們，則當他們的Salesforce記錄有更新時，就會在Marketo中重新建立他們。
 
