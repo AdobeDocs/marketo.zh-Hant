@@ -29,4 +29,4 @@ ht-degree: 0%
 * [要檢閱的項目：核心技能](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
 * [取得協助的方式](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 
-如果您已熟悉您的實例，並熟悉Marketo核心概念，請參閱Marketo產品檔案，或造訪 [Marketing Nation](https://nation.marketo.com/) 線上社群，以瞭解其他Marketo使用者的看法。
+如果您已熟悉您的實例，並熟悉Marketo核心概念，請查看Marketo產品檔案，或造訪[Marketing Nation](https://nation.marketo.com/)線上社群，以瞭解其他Marketo使用者的看法。
