@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 從關鍵字檢視新增／移除欄 {#seo-add-remove-columns-from-your-keywords-view}
+# SEO —— 從關鍵字檢視{#seo-add-remove-columns-from-your-keywords-view}新增／移除欄
 
 您可以調整關鍵字檢視，以顯示您最感興趣的資料。
 
-1. 前往「關鍵 **字** 」區段。
+1. 前往&#x200B;**Keywords**&#x200B;區段。
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. 選取或取消選取您要查看的欄。 按一 **下儲存**。
+1. 選取或取消選取您要查看的欄。 按一下&#x200B;**SAVE**。
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
