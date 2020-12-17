@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 角色權限說明 {#descriptions-of-role-permissions}
+# 角色權限說明{#descriptions-of-role-permissions}
 
 以下是您可以指派給角色的所有可用權限清單。 權限通常與Marketo內的特定功能區相關聯，並可協助您控制不同使用者可存取的區域和功能。
 
@@ -21,13 +21,13 @@ ht-degree: 0%
 * 若要讓角色具有子權限（「建立」、「刪除」等）的存取權，該角色必須擁有該應用程式部分的「存取權」權限。 例如，如果您想要授予某人編輯促銷活動的權限，他們必須擁有存取行銷活動的整體權限。
 * 您可能會看到您沒有使用權限的動作或資產。 不過，如果您嘗試存取這些檔案，您會看到一則訊息，警告您存取權限有限。
 
-## 可用權限 {#available-permissions}
+## 可用權限{#available-permissions}
 
-當您建 [立或編輯角色時](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)，您可以勾選適當的方塊，以選取下列允許該角色的權限。
+當您[建立或編輯角色](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)時，您可以勾選適當的方塊，以選擇下列哪些權限允許該角色。
 
 ![](assets/createnewrole.png)
 
-## 存取管理員  {#access-admin}
+## 存取管理員{#access-admin}
 
 在「管理員」的「我的帳戶」區段中檢視並變更設定。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 * 存取渠道——僅讓使用者存取以修改渠道標籤，而非其他自訂標籤
 * 存取通訊限制——讓使用者存取，以在「管理」中啟用通訊限制
 * 存取CRM —— 讓使用者在管理員中存取CRM，例如Salesforce或Microsoft Dynamics
-* 存 [取Data.com](http://Data.com) —— 讓使用者存取Data.com流量動作
+* 存取[Data.com](http://Data.com) —— 讓使用者存取Data.com流量動作
 * 存取電子郵件管理員——讓使用者存取電子郵件管理員以變更預設設定，例如取消訂閱和品牌網域
 * 存取事件合作夥伴——讓使用者存取管理員中的LaunchPoint
 * 存取欄位管理——讓使用者存取管理員中的欄位管理
@@ -59,9 +59,9 @@ ht-degree: 0%
 * 存取Webhooks —— 讓使用者存取管理中的Webhook，以設定詳細資訊和回應對應
 * 存取工作區和分區——讓使用者存取在管理員中建立、編輯和刪除工作區和分區
 
-## 存取API  {#access-api}
+## 存取API {#access-api}
 
-為具有 **API Only** **Role** （僅API角色）存取權的使用者提供下列個別API的存取權。
+為具有&#x200B;**API Only** **Role**&#x200B;存取權的使用者提供下列個別API的存取權。
 
 * 核准資產
 * 執行促銷活動
@@ -94,7 +94,7 @@ ht-degree: 0%
 * 刪除報表——取消勾選會移除使用者刪除報表的能力
 * 匯出分析資料——取消核取會移除使用者匯出Analytics資料的能力
 
-## 存取行事歷簡報 {#access-calendar-presentations}
+## 存取日曆簡報{#access-calendar-presentations}
 
 讓使用者存取「行事歷」簡報——可在底部顯示「簡報」按鈕
 
@@ -108,10 +108,10 @@ ht-degree: 0%
 
    * 編輯電子郵件——授予使用者編輯、建立和複製電子郵件的權限
 
-      * 讓電子郵件運作——授予使用者使電子郵件運作的權限。 請參閱： [讓電子郵件運作](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * 讓電子郵件運作——授予使用者使電子郵件運作的權限。 請參閱：[讓電子郵件正常運作](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
    * 核准電子郵件——讓使用者核准電子郵件。
    * 刪除電子郵件——讓使用者刪除電子郵件。
-   * 設定品牌網域——讓使用者使用品牌網域。 請參閱： [新增多個品牌網域](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
+   * 設定品牌網域——讓使用者使用品牌網域。 請參閱：[新增多個品牌網域](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
 
 
 * 存取電子郵件範本
@@ -154,7 +154,7 @@ ht-degree: 0%
    * 刪除社交應用程式
    * 編輯社交應用程式
 
-## 訪問資料庫 {#access-database}
+## 訪問資料庫{#access-database}
 
 查看資料庫以及查看和編輯智慧／靜態清單。
 
@@ -172,11 +172,11 @@ ht-degree: 0%
 * 匯入自訂物件
 * 匯入清單
 * 合併人員
-* 運行單流操作——允許用戶對資料 **庫中的人員運行「更改資料值** 」流步驟
+* 運行單流操作——允許用戶對資料庫中的人員運行&#x200B;**更改資料值**&#x200B;流步驟
 
 * 查看業務機會資料——隱藏人員詳細資訊頁面上的業務機會資訊
 
-## 存取行銷活動 {#access-marketing-activities}
+## 存取行銷活動{#access-marketing-activities}
 
 檢視「行銷活動」標籤、促銷活動和促銷活動資料夾。
 
@@ -208,7 +208,7 @@ ht-degree: 0%
 * 管理SEO
 * 標準搜尋引擎最佳化
 
-## 定位和個人化 {#targeting-and-personalization}
+## 定位與個人化{#targeting-and-personalization}
 
 * 管理Web個人化
 * CRE促銷活動編輯器
