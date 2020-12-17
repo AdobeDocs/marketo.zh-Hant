@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 冠軍／挑戰者：定義冠軍標準 {#champion-challenger-define-champion-criteria}
+# 冠軍／挑戰者：定義冠軍標準{#champion-challenger-define-champion-criteria}
 
 設定好測試類型後，您必須定義冠軍標準。 這是方法。
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 
 
-## 標準冠軍標準 {#standard-champion-criteria}
+## 標準冠軍標準{#standard-champion-criteria}
 
-1. 選擇可用的「冠軍標 **準」**。
+1. 選擇可用&#x200B;**Champion Criteria**&#x200B;中的一個。
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
    >
    >我們將追蹤此量度，並透過電子郵件傳送含有資料的報表。
 
-1. 如果您選擇了預設的 **Champion Criteria**，請繼續前往 [Champion/Challenger :設定報表警報](champion-challenger-configure-report-alerts.md)!
+1. 如果您選擇了預設&#x200B;**Champion Criteria**&#x200B;中的一個，請繼續前往[Champion/Challenger:設定報表警報](champion-challenger-configure-report-alerts.md)!
 
-## 自訂冠軍標準 {#custom-champion-criteria}
+## 自訂冠軍標準{#custom-champion-criteria}
 
-1. 如果您想要炫耀，可以選擇「自訂轉換」，然後按一下「編 **輯」** ，進行自 **訂**。
+1. 如果您想要炫目，可以選擇&#x200B;**自訂轉換**，然後按一下&#x200B;**編輯**&#x200B;進行自訂。
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    Marketo僅允許從此電子郵件程式傳送電子郵件的人員使用觸發器。 不需要新增「已傳送電子郵件」篩選。
 
-1. 按一下 **關閉**。
+1. 按一下&#x200B;**關閉**。
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 
