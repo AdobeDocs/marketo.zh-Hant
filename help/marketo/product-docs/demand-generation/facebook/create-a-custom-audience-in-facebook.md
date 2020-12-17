@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# 在Facebook中建立自訂對象 {#create-a-custom-audience-in-facebook}
+# 在Facebook中建立自訂對象{#create-a-custom-audience-in-facebook}
 
 >[!PREREQUISITES]
 >
->* [在「管理」區段中新增「Facebook自訂對象](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 」作為LaunchPoint服務。
->* [在您的Facebook帳戶中接受Facebook的「自訂對象](https://www.facebook.com/ads/manage/customaudiences/tos.php) 」條款。
+>* [在「管理」區段中將「Facebook自訂對](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 像」新增為LaunchPoint服務。
+>* [在您的Facebook帳戶中接受Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) 的自訂對象條件。
 
 >
 
@@ -24,25 +24,25 @@ ht-degree: 0%
 
 >[!TIP]
 >
->進一步瞭解 [Facebook中的自訂對象](https://www.facebook.com/help/341425252616329)。
+>進一步瞭解Facebook[中的自訂對象。](https://www.facebook.com/help/341425252616329)
 
 1. 尋找並選取智慧型或靜態清單，其中包含您要從中建立對象的潛在客源。
 
    ![](assets/1.png)
 
-1. 選擇「 **銷售線索** 」標籤，然後按一下底部的**通過廣告橋發送**表徵圖。
+1. 選擇&#x200B;**Leads**&#x200B;標籤，然後按一下底部的**透過廣告橋接傳送**圖示。
 
    ![](assets/222.png)
 
-1. 選取**Facebook **，然後按一下「下 **一步**」。
+1. 選擇**Facebook **並按一下&#x200B;**Next**。
 
    ![](assets/two.png)
 
-1. 按一下「 **對象** 」下拉式清單，然後選取「 **+新對象」**。
+1. 按一下「**對象**」下拉式清單，然後選取「**+新對象**」。
 
    ![](assets/four.png)
 
-1. 輸入「對象 **名稱」**。 按一 **下更新**。
+1. 輸入&#x200B;**觀眾名稱**。 按一下&#x200B;**Update**。
 
    ![](assets/five.png)
 
@@ -52,13 +52,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >想要將新觀眾與目前與廣告集或群組相關聯的現有觀眾交換嗎？ 選取「 **取代現有對象** 」核取方塊。 這樣做不 **會刪** 除要取代的觀眾。
+   >想要將新觀眾與目前與廣告集或群組相關聯的現有觀眾交換嗎？ 選取「取代現有對象&#x200B;**」核取方塊。**&#x200B;這麼做會&#x200B;**not**&#x200B;刪除要取代的觀眾。
 
 1. 完成後，狀態對話框將更新。
 
    ![](assets/six.png)
 
-   就這樣！ 在Facebook中，您會在「廣告管理員>觀眾」中 **看到新觀眾**。
+   就這樣！ 在Facebook中，您會在&#x200B;**廣告管理員>對象**&#x200B;中看到新對象。
 
    ![](assets/image2014-12-10-11-3a38-3a32.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >請參閱適 [用於Marketo客戶的Facebook學習途徑](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi)。 它涵蓋您需要瞭解的一切，從建立Facebook頁面，到使用Marketo的廣告網路整合來定位您的Facebook廣告。
+   >請參閱[Marketo客戶的Facebook學習路徑](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi)。 它涵蓋您需要瞭解的一切，從建立Facebook頁面，到使用Marketo的廣告網路整合來定位您的Facebook廣告。
 
    >[!NOTE]
    >
