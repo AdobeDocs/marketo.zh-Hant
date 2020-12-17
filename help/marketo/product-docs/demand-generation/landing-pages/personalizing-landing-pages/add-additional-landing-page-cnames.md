@@ -21,42 +21,42 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**相同的頂級域——好！ Cookie是shared.go**.mycompany.com > **info**.mycompany.**com不同的頂層網域——錯誤！ Cookie不共用。**
+>**相同的頂級域——好！Cookie為shared.go**.mycompany.com > **info**.mycompany.com **不同的頂層網域——錯誤！ Cookie不共用。**
 >走。**mycompany**.com > go。**mynewcompany**.com
 
 >[!NOTE]
 >
 >**需要管理員權限**
 
-## 尋找您的帳戶字串 {#find-your-account-string}
+## 尋找您的帳戶字串{#find-your-account-string}
 
-1. 前往「管理 **員** 」區域，然後按 **一下「著陸頁面」**。
+1. 前往&#x200B;**Admin**&#x200B;區域，然後按一下「著陸頁面」。****
 
    ![](assets/image2014-9-16-15-3a19-3a54.png)
 
-1. 從「設 **定** 」區段復 **制帳戶字串** 。
+1. 從&#x200B;**Settings**&#x200B;區段複製&#x200B;**Account String**。
 
    ![](assets/image2014-9-16-15-3a20-3a2.png)
 
 1. 請記下下一步。
 
-## 傳送要求給IT人員 {#send-request-to-it}
+## 向IT {#send-request-to-it}發送請求
 
-1. 請您的IT部門設定下列CNAME:(將單字 [CNAME] 取代為您選擇的CNAME，將 [ACCOUNT STRING] 取代為上一步驟的文字)。
+1. 請您的IT部門設定下列CNAME:（將單字[CNAME]取代為您選擇的CNAME，將[ACCOUNT STRING]取代為上一步驟的文字）。
 
-   [CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
 ## 新增CNAME {#add-a-new-cname}
 
-1. IT部門建立CNAME後，請前往「管理員」 **** ，然後按 **一下「著陸頁面」**。
+1. 在IT部門建立CNAME後，請前往&#x200B;**Admin**，然後按一下&#x200B;**Landing Pages**。
 
    ![](assets/image2014-9-16-15-3a20-3a20.png)
 
-1. 按一下 **新建** ，然後選擇 **新建域別名**。
+1. 按一下「**新建**」，然後選擇「新建域別名」。****
 
    ![](assets/image2014-9-16-15-3a20-3a28.png)
 
-1. 輸入您的 **域別名。** 如 **果訪客未放入URL** ，則會顯示預設頁面。 在那種情況下，輸入他們應該去的地方。
+1. 輸入&#x200B;**域別名。** 如果 **訪客** 未放入URL，則會顯示預設頁面。在那種情況下，輸入他們應該去的地方。
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a20-3a36.png)
 
-1. 輸入您的 **預設頁面** ，然後按一 **下建立**。
+1. 輸入&#x200B;**預設頁面**，然後按一下&#x200B;**建立**。
 
    ![](assets/image2014-9-16-15-3a20-3a43.png)
 
