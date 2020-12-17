@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics Sync:自訂實體同步 {#microsoft-dynamics-sync-custom-entity-sync}
+# Microsoft Dynamics Sync:自訂實體同步{#microsoft-dynamics-sync-custom-entity-sync}
 
 如果您需要啟用初始自訂實體同步，讓Dynamics中的資料在Marketo中可用，請以下說明如何進行。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->若要使用自訂物件，它必須與Dynamics中的 [銷售線索](microsoft-dynamics-sync-lead-sync.md)、 [連絡](microsoft-dynamics-sync-contact-sync.md)或 [](microsoft-dynamics-sync-account-sync.md)帳戶物件關聯。
+>若要使用自訂物件，它必須與Dynamics中的[lead](microsoft-dynamics-sync-lead-sync.md)、[contact](microsoft-dynamics-sync-contact-sync.md)或[account](microsoft-dynamics-sync-account-sync.md)物件相關聯。
 
 >[!CAUTION]
 >
@@ -31,21 +31,21 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-14-3a32-3a16.png)
 
-1. 按一下 **禁用同步** ，暫時禁用標準全局同步。
+1. 按一下&#x200B;**禁用同步**&#x200B;可暫時禁用標準全局同步。
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. 安裝支援自訂實體同步的Microsoft Dynamics版本（2_0_0_2之後）。 請參 [閱Marketo Plugin Releases for MIcrosoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
+1. 安裝支援自訂實體同步的Microsoft Dynamics版本（2_0_0_2之後）。 請參閱[Marketo Plugin Releases for MIcrosoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
 1. 為Marketo Sync使用者提供您計畫同步的任何實體的讀取存取權。
 1. 在「資料庫管理」下，按一下** Dynamics Entities Sync**連結。
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
-1. 按一下「 **同步模式** 」連結可以轉換可用自定義實體的清單。
+1. 按一下&#x200B;**同步模式**&#x200B;連結可以轉換可用的自定義實體清單。
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. 清單同步後，選擇要同步的欄位和要用作智慧清單中 [約束](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 和／或觸發器的欄位。 完成後，按一下「 **啟用同步**」。
+1. 清單同步後，選擇要同步的欄位和要用作智慧清單中[constraints](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)和／或觸發器的欄位。 完成後，按一下「啟用同步」。****
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
