@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 設定Adobe Experience Manager整合 {#configuring-adobe-experience-manager-integration}
+# 設定Adobe Experience Manager整合{#configuring-adobe-experience-manager-integration}
 
 設定AEM，讓您可以存取、選取AEM資產，並將其匯入Marketo的Design Studio。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 在「工 **具**」中，按一下「 **操作** 」並選 **擇「Web控制台**」。
+1. 在&#x200B;**工具**&#x200B;中，按一下&#x200B;**操作**&#x200B;並選擇&#x200B;**Web控制台**。
 
    ![](assets/2a.png)
 
@@ -39,41 +39,41 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 按一下 **右邊** 的+登入。
+1. 按一下右側的&#x200B;**+**&#x200B;符號。
 
    ![](assets/four.png)
 
-1. 在「允 **許的原點(Regexp)** 」文本框中，鍵入「https://」。*\.marketo\.com&quot;（不含引號），然後按一下「儲 **存**」。
+1. 在&#x200B;**允許的來源(Regexp)**&#x200B;文字方塊中，輸入&quot;https://&quot;。*\.marketo\.com&quot;（不含引號），然後按一下「儲存&#x200B;**」。**
 
    ![](assets/five-psd.png)
 
-1. 在頁面頂部的標題中，按一下「 **Web Console** 」（Web控制台）並選 **擇「System Information」（系統資訊）**。
+1. 在頁面頂部的標題中，按一下「Web控制台」(**)，然後選擇「System Information」（系統資訊）**。****
 
    ![](assets/six.png)
 
-1. 在「伺服器資訊」下，按一下「重 **新啟動** 」按鈕。
+1. 在「伺服器資訊」下，按一下&#x200B;**重新啟動**&#x200B;按鈕。
 
    ![](assets/seven.png)
 
-1. 按一 **下「確定** 」以確認。
+1. 按一下&#x200B;**確定**&#x200B;確認。
 
    ![](assets/eight.png)
 
-1. 在Marketo Classic中，按一下「管 **理」**。
+1. 在Marketo Classic中，按一下&#x200B;**管理**。
 
    ![](assets/nine.png)
 
-1. 在「整合」下方，選 **取「Adobe Experience Manager**」。
+1. 在「整合」下，選取&#x200B;**Adobe Experience Manager**。
 
    ![](assets/ten.png)
 
-1. 按一 **下編輯**。
+1. 按一下&#x200B;**編輯**。
 
    ![](assets/eleven.png)
 
-1. 輸入您的AEM URL，然後按一下「 **確定**」。
+1. 輸入您的AEM URL，然後按一下「**確定**」。
 
    ![](assets/twelve.png)
 
-   你們都準備好了！ 您現在可 [以將AEM資產匯入Marketo Sky的Design Studio](http://help.marketo.com/hc/en-us/articles/360036765993)。
+   你們都準備好了！ 您現在可以[將AEM資產匯入Marketo Sky的Design Studio](http://help.marketo.com/hc/en-us/articles/360036765993)。
 
