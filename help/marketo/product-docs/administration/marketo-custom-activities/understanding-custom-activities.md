@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 瞭解自訂活動 {#understanding-custom-activities}
+# 瞭解自訂活動{#understanding-custom-activities}
 
 追蹤人員使用自訂活動對您的業務採取的特定動作。
 
@@ -27,14 +27,14 @@ ht-degree: 0%
 >
 >自訂活動與自訂物件不同。 當值可以變更時，請使用自訂物件(例如「汽車顏色」從藍色變成紅色)。 在追蹤發生的時刻時使用自訂活動，其詳細資料無法變更(即「購買的車」)。
 
-**欄位** ：您可以新 [增其他](https://docs.marketo.com/x/Mx6a) ，您想要與活動建立關聯的欄位。 與主要欄位一樣，這些欄位可用作智慧型清單中的篩選條件。
+**欄** 位您可以新 [增](https://docs.marketo.com/x/Mx6a) 您要與活動關聯的其他欄位。與主要欄位一樣，這些欄位可用作智慧型清單中的篩選條件。
 
 **快速入門**
 
 自訂活動的功能與標準活動類似。 但是，設定這些變數是兩個部分的程式。
 
-步驟1: [在您的Marketo帳戶中](create-a-custom-activity.md) ，建立自訂活動
+步驟1:[在您的Marketo帳戶中建立自訂活動](create-a-custom-activity.md)
 
-步驟2:然後，您組織中使用我們API的員工就可以開始實施。 如需詳細資訊，請參閱： [自訂活動API](http://developers.marketo.com/documentation/rest/add-custom-activities/)
+步驟2:然後，您組織中使用我們API的員工就可以開始實施。 如需詳細資訊，請參閱：[自訂活動API](http://developers.marketo.com/documentation/rest/add-custom-activities/)
 
 玩得開心！
