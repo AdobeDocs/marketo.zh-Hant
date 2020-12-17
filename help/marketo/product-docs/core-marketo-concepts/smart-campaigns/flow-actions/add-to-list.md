@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 新增至清單 {#add-to-list}
+# 添加到清單{#add-to-list}
 
-## 概觀 {#overview}
+## 概述{#overview}
 
 此流程步驟用於將人員添加到清單。
 
 ![](assets/image2014-9-22-10-3a41-3a33.png)
 
-## 使用狀況 {#usage}
+## 用法{#usage}
 
 尋找並選取您要新增人員的清單。
 
