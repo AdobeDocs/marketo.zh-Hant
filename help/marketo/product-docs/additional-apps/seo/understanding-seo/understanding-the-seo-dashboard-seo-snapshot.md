@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 瞭解SEO儀表板：SEO快照 {#understanding-the-seo-dashboard-seo-snapshot}
+# 瞭解SEO儀表板：SEO快照{#understanding-the-seo-dashboard-seo-snapshot}
 
 使用控制面板，以高階檢視關鍵字排名趨勢以及網站針對搜尋引擎最佳化的效能。
 
-若要瞭解要著重在哪些方面來改善您的SEO工作，請使用此控制面板 [的](understanding-the-seo-dashboard-seo-recommendations.md) 「建議」區段。
+若要瞭解要著重在哪些方面來改善您的SEO工作，請使用此控制面板的[Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)區段。
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
-## 關鍵字排名摘要 {#keyword-rank-summary}
+## 關鍵字排名摘要{#keyword-rank-summary}
 
-此區段顯示您網站對於您所定位關 [鍵字的排名](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md)。
+此區段顯示您所定位之[關鍵字的網站排名。](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您也可以檢視特定關 [鍵字清單](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) 的執行方式。 按一下下拉式清單，然後選取您感興趣的其中一個。
+>您也可以檢視關鍵字的[特定清單](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)的執行方式。 按一下下拉式清單，然後選取您感興趣的其中一個。
 
 滾開！ 繼續走。
 
-## 平均頁面最佳化分數 {#average-page-optimization-score}
+## 平均頁面最佳化分數{#average-page-optimization-score}
 
 「平均頁面最佳化分數」是專屬的行銷人員，可測量您網站上所有頁面的分數，分數範圍為1到100。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 >
 >您也可以查看特定頁面清單的最佳化分數。 使用下拉式清單並選取您感興趣的清單。
 
-## 關鍵字排名趨勢 {#keyword-rank-trends}
+## 關鍵字排名趨勢{#keyword-rank-trends}
 
 「關鍵字排名趨勢」圖表會提取每月搜尋量最高的五個關鍵字，並繪製它們隨時間排名的圖表。
 
