@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 瞭解電子郵件事件記錄 {#understanding-email-event-logging}
+# 瞭解電子郵件事件記錄{#understanding-email-event-logging}
 
 當傳送電子郵件時，Marketo會將不同的資料點記錄至該人的活動記錄。 以下是基本的。
 
@@ -27,5 +27,5 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->如果同一封電子郵件從相同促銷活動傳送兩次給同一人，則「已開啟 **** 」事件最多會記錄1次。
+>如果同一封電子郵件從相同促銷活動傳送兩次給同一人，則&#x200B;**Opened**&#x200B;事件最多將記錄1次。
 
