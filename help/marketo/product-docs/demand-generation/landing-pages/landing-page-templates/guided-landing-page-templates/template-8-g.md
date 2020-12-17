@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本8-G {#template-g}
+# 模板8-G {#template-g}
 
 [下載範本8-G](http://docs.marketo.com/download/attachments/8783978/template-8g.html?version=1&amp;modificationdate=1482175213000&amp;api=v2)
 
