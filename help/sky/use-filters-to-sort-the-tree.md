@@ -24,7 +24,7 @@ ht-degree: 0%
 
 您可以使用此功能來尋找在特定日期範圍內建立或修改的資產；例如，上週，過去三個月，等等。
 
-依預設，Marketo會載入過去6個月的所有內容。 若要變更此項，請從下拉式清單 **[!UICONTROL Choose Date Range]** 中選取範圍。 這些設定是嚴格的，也會在您下次登入Marketo時套用。
+依預設，Marketo會載入過去6個月的所有內容。 若要變更此項，請從&#x200B;**[!UICONTROL Choose Date Range]**&#x200B;下拉式清單中選取範圍。 這些設定是嚴格的，也會在您下次登入Marketo時套用。
 
 ![影像2](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-2.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ![影像三](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-3.png)
 
-按一下 **X** ，從篩選的搜尋中移除標籤。
+按一下&#x200B;**X**，從篩選的搜尋中移除標籤。
 
 ![影像4](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-4.png)
 
