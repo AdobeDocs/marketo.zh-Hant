@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 重新排序表單中的欄位 {#reorder-fields-in-a-form}
+# 重新排序表單{#reorder-fields-in-a-form}中的欄位
 
 在行銷表單上重新排序欄位很簡單。 這是方法。
 
-1. 前往「行 **銷****活動」**。
+1. 前往&#x200B;**Marketing** **Activity**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選擇您的表單，然後按一 **下「編輯****表單**」。
+1. 選擇表單並按一下「編輯」******「表單」**。
 
    ![](assets/editform.png)
 
@@ -37,5 +37,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->想要進一步瞭解表 [格](http://docs.marketo.com/display/docs/forms)?
+>想要進一步瞭解[forms](http://docs.marketo.com/display/docs/forms)嗎？
 
