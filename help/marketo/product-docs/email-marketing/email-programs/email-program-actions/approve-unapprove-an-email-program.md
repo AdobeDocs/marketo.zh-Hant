@@ -11,16 +11,16 @@ ht-degree: 0%
 ---
 
 
-# 批准／取消批准電子郵件方案 {#approve-unapprove-an-email-program}
+# 批准／取消批准電子郵件程式{#approve-unapprove-an-email-program}
 
 >[!PREREQUISITES]
 >
 >* [建立電子郵件方案](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [使用智慧型清單定義對象](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ，或 [透過匯入清單定義對象](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [透過匯入清單來定](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 義對象， [以智慧型清單定義對象](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [選擇現有電子郵件](choose-an-existing-email.md) ，或 [建立電子郵件方案的電子郵件](create-an-email-for-an-email-program.md)
+* [選擇現有電](choose-an-existing-email.md) 子郵 [件或建立電子郵件方案](create-an-email-for-an-email-program.md)
    >
    >
 * [排程您的電子郵件方案](schedule-your-email-program.md)
@@ -29,11 +29,11 @@ ht-degree: 0%
 
 
 
-## 批准您的電子郵件方案 {#approve-your-email-program}
+## 批准您的電子郵件程式{#approve-your-email-program}
 
 既然您的計畫已準備就緒，最後一步就是核准。 以下是方法：
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
    >
    >如果您不核准電子郵件方案，電子郵件將不會送出。
 
-1. 在「核 **準** 」方塊下，按一下「核 **準方案」**。
+1. 在&#x200B;**Approval**&#x200B;表徵圖下，按一下&#x200B;**Approve Program**。
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -56,11 +56,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-13-3a43-3a56.png)
 
-## 取消核准您的電子郵件方案 {#unapprove-your-email-program}
+## 取消核准您的電子郵件程式{#unapprove-your-email-program}
 
 如果您改變主意，並決定不要外出，則可取消核准電子郵件程式。
 
-1. 前往行 **銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. 在「核准 **」方塊** ，只要按一下「取消核 **準方案」即可**。
+1. 在&#x200B;**Approval**&#x200B;方塊下，只要按一下&#x200B;**Unapprove Program**&#x200B;即可。
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 
