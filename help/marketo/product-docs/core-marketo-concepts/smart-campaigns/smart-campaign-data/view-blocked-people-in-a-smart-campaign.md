@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在智慧型促銷活動中檢視被封鎖的人員 {#view-blocked-people-in-a-smart-campaign}
+# 在智慧型促銷活動中檢視已封鎖的訪客{#view-blocked-people-in-a-smart-campaign}
 
 Marketo資料庫中被封鎖的人員會標示為封鎖清單、未訂閱、暫停行銷及／或有無效或空白的電子郵件。
 
@@ -19,13 +19,13 @@ Marketo資料庫中被封鎖的人員會標示為封鎖清單、未訂閱、暫�
 >
 >Marketo正在將產品中的黑名單和白名單等術語更改為區塊名單和允許名單。 在此更新期間，您可能會在我們的UI和檔案螢幕擷取畫面中看到舊有的詞語，在檔案文字中看到新的詞語。 我們為任何混淆表示歉意。
 
-1. 在智慧型促銷活動中，按一下「排 **程」**。 在「智 **能清單狀態** 」下，按一下第二個連結。
+1. 在智慧型促銷活動中，按一下&#x200B;**排程**。 在&#x200B;**智慧清單狀態**&#x200B;下，按一下第二個連結。
 
    ![](assets/image2014-9-22-16-3a47-3a38.png)
 
    >[!NOTE]
    >
-   >達到通信限制的人也可能無法接收郵件。 瞭解如何在「管 [理員」區段中](../../../../product-docs/administration/email-setup/enable-communication-limits.md) ，編輯通訊限制。
+   >達到通信限制的人也可能無法接收郵件。 瞭解如何在「管理」區段中編輯通訊限制[。](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
 
    「已封鎖的人員」標籤會顯示可能未收到郵件的人員。
 
