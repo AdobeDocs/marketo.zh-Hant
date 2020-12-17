@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SFDC同步：自訂物件同步 {#sfdc-sync-custom-object-sync}
+# SFDC同步：自訂物件同步{#sfdc-sync-custom-object-sync}
 
 在Salesforce例項中建立的自訂物件也可以是Marketo的一部分。  這是如何設定的。
 
@@ -21,19 +21,19 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->要使用自定義對象，它必須與Salesforce中的 [Lead](sfdc-sync-lead-sync.md)、 [](sfdc-sync-contact-sync.md)Contector [](sfdc-sync-account-sync.md)帳戶對象關聯。
+>若要使用自訂物件，它必須與Salesforce中的[lead](sfdc-sync-lead-sync.md)、[contact](sfdc-sync-contact-sync.md)或[account](sfdc-sync-account-sync.md)物件相關聯。
 
-## 啟用自訂物件  {#enable-custom-object}
+## 啟用自訂物件{#enable-custom-object}
 
-1. 按一 **下「管理** 」和** 「Salesforce物件同步 **」連結**。**
+1. 按一下&#x200B;**Admin**&#x200B;和** Salesforce物件同步&#x200B;**連結**。**
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. 如果這是您的第一個自訂物件，請按一下「同 **步結構」。**
+1. 如果這是您的第一個自定義對象，請按一下「同步模式」。****
 
    ![](assets/rtaimage-2.png)
 
-1. 按一下 **停用全域同步。**
+1. 按一下&#x200B;**禁用全局同步。**
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
@@ -51,11 +51,11 @@ ht-degree: 0%
    >
    >自訂物件必須有唯一的名稱。 Marketo不支援兩個名稱相同的不同自訂物件。
 
-1. 按一下 **啟用同步。**
+1. 按一下&#x200B;**啟用同步。**
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. 再次單 **擊「啟用同步** 」。
+1. 再次按一下&#x200B;**啟用同步**。
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -70,11 +70,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. 按一下 **啟用同步。**
+1. 按一下&#x200B;**啟用同步。**
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. 若要檢視所有Salesforce自訂物件，請按一下「管 **理** 」和**「Salesforce物件同步」**連結（與上述步驟1相同）。
+1. 若要檢視所有Salesforce自訂物件，請按一下&#x200B;**Admin**&#x200B;和** Salesforce物件同步**連結（與上述步驟1相同）。
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
@@ -82,7 +82,7 @@ ht-degree: 0%
    >
    >Marketo僅支援連結至一或兩層深之標準實體的自訂實體。
 
-### 下一步： {#whats-next}
+### 下一步：{#whats-next}
 
 [將自定義對象欄位添加／刪除為智慧清單／觸發器約束](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
 
