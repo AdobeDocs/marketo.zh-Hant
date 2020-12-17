@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 權限 {#permissions}
+# 權限{#permissions}
 
 您必須為使用者設定權限才能使用ABM。 這是方法。
 
-1. 按一 **下管理**。
+1. 按一下&#x200B;**管理**。
 
    ![](assets/one-2.png)
 
-1. 按一 **下「使用者與角色」**。
+1. 按一下「**用戶和角色**」。
 
    ![](assets/two-2.png)
 
@@ -27,15 +27,15 @@ ht-degree: 0%
    >
    >您可以新增現有角色的ABM權限，或建立全新角色。 此示例使用新角色。
 
-1. 按一 **下「角色**」，然 **後按一下「新角色」**。
+1. 按一下&#x200B;**角色**，然後按一下&#x200B;**新角色**。
 
    ![](assets/three-2.png)
 
-1. 輸入角色名稱，然後按一下「存 **取帳戶型** 行銷」核取方塊旁的+圖示。
+1. 輸入角色名稱，然後按一下「存取帳戶型行銷」核取方塊旁的&#x200B;**+**&#x200B;圖示。
 
    ![](assets/four-1.png)
 
-1. 若要選取 *所有權* ，只要勾選「存 **取帳戶型行銷」核取方塊即可** 。
+1. 若要選取&#x200B;*all*&#x200B;權限，只需勾選「存取帳戶型行銷」核取方塊。****
 
    ![](assets/five-1.png)
 
@@ -43,10 +43,10 @@ ht-degree: 0%
    >
    >您也可以選擇只選取部分選項。 通過單獨選中每個複選框來完成此操作。
 
-1. 按一下 **+** ，開啟「存取管理」功能表。 勾選「存 **取ABM管理員** 」核取方塊。
+1. 按一下&#x200B;**+**&#x200B;以開啟「存取管理」功能表。 選中&#x200B;**訪問ABM管理員**&#x200B;複選框。
 
    ![](assets/six-1.png)\
-   您的新ABM角色現在已準備好指派 [給使用者](http://docs.marketo.com/display/public/DOCS/Managing+User+Roles+and+Permissions#ManagingUserRolesandPermissions-AssignRolestoaUser)!
+   您的新ABM角色現在已準備好指派給用戶[!](http://docs.marketo.com/display/public/DOCS/Managing+User+Roles+and+Permissions#ManagingUserRolesandPermissions-AssignRolestoaUser)
 
    ![](assets/seven.png)
 
