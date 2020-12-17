@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 瞭解頁面 {#seo-understanding-pages}
+# SEO —— 瞭解頁面{#seo-understanding-pages}
 
-## 頁面最佳化分數／要執行介面工具集 {#page-optimization-score-to-do-widget}
+## 頁面最佳化分數／要執行介面工具集{#page-optimization-score-to-do-widget}
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >按一下「待辦事項」方塊中的「高影響力」連結，這會將您重新導向至「問題」標籤，並顯示要解決的高優先順序問題。
 
-## 頁面標籤 {#pages-tab}
+## 頁面標籤{#pages-tab}
 
 「頁面」標籤會顯示您網站上個別頁面的搜尋最佳化程度。
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 | 連結 | 至少有1個傳入網站連結的不同網域數。 |
 | 目標關鍵字 | 您決定最佳化每個頁面的關鍵字。 [這需要您的意見](seo-using-the-page-detail-drill-down.md)。 |
 
-## 問題標籤 {#issues-tab}
+## 問題標籤{#issues-tab}
 
 「問題」索引標籤將識別您可以做哪些改進，以提高最佳化分數和排名。
 
