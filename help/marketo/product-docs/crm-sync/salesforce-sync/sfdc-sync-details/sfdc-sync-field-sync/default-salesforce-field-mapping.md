@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 預設Salesforce欄位對應 {#default-salesforce-field-mapping}
+# 預設Salesforce欄位對應{#default-salesforce-field-mapping}
 
 當您最初將Marketo帳戶與Salesforce同步時，Marketo會自動在您內建的Salesforce和Marketo欄位之間建立這些關聯。 Marketo也會同步您的Lead、Accounts、Opportunity和Contacts上的自訂欄位。
 
-## 銷售線索欄位 {#lead-fields}
+## 銷售線索欄位{#lead-fields}
 
 | SFDC欄位 | Marketo欄位 |
 |---|---|
@@ -48,7 +48,7 @@ ht-degree: 0%
 | 標題 | 職稱 |
 | 網站 | 網站 |
 
-## 連絡人欄位 {#contact-fields}
+## 連絡人欄位{#contact-fields}
 
 | SFDC欄位 | Marketo欄位 |
 |---|---|
@@ -73,7 +73,7 @@ ht-degree: 0%
 | 問候語 | 問候語 |
 | 標題 | 職稱 |
 
-## 帳戶欄位 {#account-fields}
+## 帳戶欄位{#account-fields}
 
 | SFDC欄位 | Marketo欄位 |
 |---|---|
@@ -94,7 +94,7 @@ ht-degree: 0%
 | 帳戶類型 | SFDC類型 |
 | 網站 | 網站 |
 
-## Marketo中與Salesforce相關的系統欄位（唯讀） {#salesforce-related-system-fields-in-marketo-read-only}
+## Marketo中與Salesforce相關的系統欄位（唯讀）{#salesforce-related-system-fields-in-marketo-read-only}
 
 這些欄位是在Marketo中建立，但客戶無法調整。
 
