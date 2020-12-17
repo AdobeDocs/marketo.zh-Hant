@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 發行說明：16年夏天 {#release-notes-summer}
+# 發行說明：16年夏天{#release-notes-summer}
 
 16年夏季版本包含下列功能。 檢查您的Marketo版本，以取得功能。 請按一下標題連結，以檢視每個功能的詳細文章。
 
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 Marketo Account Based Marketing在一個統一的平台中提供所有基本功能：
 
-* **Target** —— 帳戶發現、銷售線索到帳戶匹配和命名帳戶清單
+* **Target**  —— 帳戶發現、銷售線索到帳戶匹配和命名帳戶清單
 * **參與** -帳戶型個人化、跨通道參與和帳戶專屬工作流程
-* **Measure** —— 帳戶和清單層級的見解、帳戶參與分數，以及Pipeline &amp; Revenue Impact
+* **衡量** -帳戶和清單層級的見解、帳戶參與分數，以及管道和收入影響
 
 ![](assets/abm-5-acme.png)
 
@@ -60,7 +60,7 @@ Marketo Account Based Marketing在一個統一的平台中提供所有基本功�
 **語法更新**
 
 * 您現在可以在「電子郵件2.0範本」中指定的模組上使用「mktoAddByDefault」，以指出新電子郵件中預設應顯示哪些模組。 如果您要建立包含大量模組的電子郵件範本，這會更方便。
-* 在影像元素上，您現在可以指定應將底層 `<img>` HTML元素的「高度」和「寬度」屬性鎖定或可編輯給使用者。 mktoLockImgSize=&quot;true&quot;會導致高度／寬度鎖定（即使影像已變更）。 同樣地，mktoLockImgStyle=&quot;true&quot;也會導致&quot;style&quot;屬性被鎖定。
+* 在影像元素上，您現在可以指定是否應將底層`<img>` HTML元素的「height」和「width」屬性鎖定或編輯給使用者。 mktoLockImgSize=&quot;true&quot;會導致高度／寬度鎖定（即使影像已變更）。 同樣地，mktoLockImgStyle=&quot;true&quot;也會導致&quot;style&quot;屬性被鎖定。
 
 **程式碼搜尋**
 
@@ -70,7 +70,7 @@ Marketo Account Based Marketing在一個統一的平台中提供所有基本功�
 
 **影像元素中的Token支援**
 
-Token現在可用於插入影像體驗的「外部URL」區域！ 如果您已使用指定的影像 `{{my.tokens}}`，現在可以在Email Editor 2.0中參考這些Token。請注意，在「電子郵件編輯器2.0」畫布中，影像仍會顯示損毀。 但是，您會在傳送電子郵件之前，先在預覽和傳送範例中看到它們。
+Token現在可用於插入影像體驗的「外部URL」區域！ 如果您已使用`{{my.tokens}}`指定影像，現在可以在電子郵件編輯器2.0中參考這些Token。請注意，在「電子郵件編輯器2.0」畫布中，影像仍會顯示損毀。 但是，您會在傳送電子郵件之前，先在預覽和傳送範例中看到它們。
 
 ## [多個品牌網域](http://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
 
