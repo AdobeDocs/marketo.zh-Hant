@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 編輯「不追蹤」瀏覽器支援設定 {#edit-do-not-track-browser-support-settings}
+# 編輯「不追蹤」瀏覽器支援設定{#edit-do-not-track-browser-support-settings}
 
 「Do Not Track」是瀏覽器要求，在Marketo等系統中無法追蹤。 您可依照下列步驟執行該要求。
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 按一下「 **Munchkin」**。
+1. 按一下&#x200B;**Munchkin**。
 
    ![](assets/two.png)
 
-1. 在「人 **員追蹤**」下，按一 **下「編輯**」。
+1. 在&#x200B;**人員追蹤**&#x200B;下，按一下&#x200B;**編輯**。
 
    ![](assets/three-2.png)
 
-1. 選擇「 **支援** 」，然後按 **一下「儲存**」。
+1. 選擇&#x200B;**Support**&#x200B;並按一下&#x200B;**Save**。
 1. ![](assets/four-1.png)
 
    儲存變更後，您會看到更新。
@@ -48,5 +48,5 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >若要進一步瞭解「不要追蹤」及其運作方式，請造訪 [本頁](https://en.wikipedia.org/wiki/Do_Not_Track)。
+   >若要進一步瞭解「不追蹤」及其運作方式，請造訪[本頁](https://en.wikipedia.org/wiki/Do_Not_Track)。
 
