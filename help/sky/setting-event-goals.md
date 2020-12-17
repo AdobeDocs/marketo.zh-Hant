@@ -23,12 +23,12 @@ ht-degree: 0%
 
    ![影像一](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-1.png)
 
-1. 為您的事件指定 [!UICONTROL Name]一個，請選取資 [!UICONTROL Destination] 料夾並 [!UICONTROL Channel]。
+1. 為事件指定[!UICONTROL Name]，選擇[!UICONTROL Destination]資料夾和[!UICONTROL Channel]。
 
    ![影像2](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. 輸入和的目標 [!UICONTROL Registered] ，然 [!UICONTROL Attended]後按一下 **[!UICONTROL Create]** ([!UICONTROL Description] 且 [!UICONTROL Labels] 是可選)。
+1. 輸入[!UICONTROL Registered]和[!UICONTROL Attended]的目標，然後按一下&#x200B;**[!UICONTROL Create]**（[!UICONTROL Description]和[!UICONTROL Labels]是可選的）。
 
    ![影像一](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 
-就這樣！ 按一下標籤，以檢查您的事件目標 [!UICONTROL Reports] 狀態。
+就這樣！ 按一下[!UICONTROL Reports]標籤，檢查您的事件目標狀態。
