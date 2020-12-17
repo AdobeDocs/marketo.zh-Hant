@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 在搜尋引擎中檢視關鍵字結果 {#seo-view-keyword-results-in-search-engine}
+# SEO —— 在搜尋引擎中檢視關鍵字結果{#seo-view-keyword-results-in-search-engine}
 
 如果您想要查看您的內容在搜尋引擎中的外觀，我們新增了一個方便的小片段。
 
-1. 前往「關鍵 **字** 」區段。
+1. 前往&#x200B;**Keywords**&#x200B;區段。
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 
-1. 將滑鼠指標暫留在關鍵字上。 按一下 **檢視結果**。
+1. 將滑鼠指標暫留在關鍵字上。 按一下&#x200B;**查看結果**。
 
    ![](assets/image2014-9-18-13-3a34-3a2.png)
 
