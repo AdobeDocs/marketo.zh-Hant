@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 編輯工作區 {#edit-a-workspace}
+# 編輯工作區{#edit-a-workspace}
 
 有時，您需要在工作區中進行變更。 很簡單。
 
@@ -23,13 +23,13 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->使用「瞭解工作區」和「人 [員分區」功能，在工作區上進行筆刷](understanding-workspaces-and-person-partitions.md)。
+>使用[瞭解工作區和人員分區](understanding-workspaces-and-person-partitions.md)在工作區上刷新。
 
-1. 在「管 **理**」下，按一下「工 **作區與分區」**。
+1. 在&#x200B;**Admin**&#x200B;下，按一下&#x200B;**Workspaces &amp; Partitions**。
 
    ![](assets/image2014-9-17-11-3a59-3a11-1.png)
 
-1. 選擇要編輯的工作區，然後按一下「編輯工 **作區」**。
+1. 選擇要編輯的工作區，然後按一下&#x200B;**編輯工作區**。
 
    ![](assets/two-7.png)
 
@@ -40,13 +40,13 @@ ht-degree: 0%
    >**提醒**
    >
    >
-   >如果需 [要，可以建立更多](create-a-person-partition.md) 、更多的人員分區。
+   >如果需要，可以[建立更多人員分區](create-a-person-partition.md)。
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >「所 **有人員分區**** **」複選框表示此工作區可以使用系統中的所有銷售線索分區。
+   >**所有人員分區**** **複選框表示此工作區可以使用系統中的所有銷售機會分區。
 
    >[!NOTE]
    >
