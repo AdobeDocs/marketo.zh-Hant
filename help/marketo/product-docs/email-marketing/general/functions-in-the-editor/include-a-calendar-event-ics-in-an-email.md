@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在電子郵件中包含日曆事件(.ics) {#include-a-calendar-event-ics-in-an-email}
+# 在電子郵件{#include-a-calendar-event-ics-in-an-email}中包含日曆事件(.ics)
 
 日曆檔案Token可讓您新增日曆事件(.ics)連結至您的Marketo電子郵件。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ![](assets/one-6.png)
 
-1. 選取「日曆檔案」Token，然後按一下「 **插入**」。
+1. 選擇日曆檔案標籤，然後按一下&#x200B;**插入**。
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
