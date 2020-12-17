@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# SEO —— 新增頁面 {#seo-add-pages}
+# SEO —— 新增頁面{#seo-add-pages}
 
 你有頁面！ Marketo SEO會自動搜尋您的網站並追蹤它們。 萬一我們錯過了幾個，請將它們加入SEO應用程式，如下所示：
 
-1. 前往「頁 **面** 」區段。
+1. 前往&#x200B;**Pages**&#x200B;區段。
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. 按一 **下新增頁面**。
+1. 按一下&#x200B;**添加頁面**。
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. 輸入您要新增的URL。 按一 **下新增**。
+1. 輸入您要新增的URL。 按一下&#x200B;**ADD**。
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 
    >[!TIP]
    >
-   >您知道可以將頁 [面新增或現有清單嗎](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? 看看！
+   >您是否知道您可以[將頁面新增至新清單或現有清單](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? 看看！
 
    載入頁面資料可能需要一些時間。 等待綠色警報消息並刷新頁面以更新顯示。
    ![](assets/image2014-9-18-12-3a57-3a10.png)
