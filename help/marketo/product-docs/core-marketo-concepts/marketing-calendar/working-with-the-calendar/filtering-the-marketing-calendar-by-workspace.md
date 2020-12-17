@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 依工作區篩選行銷行事歷 {#filtering-the-marketing-calendar-by-workspace}
+# 依工作區{#filtering-the-marketing-calendar-by-workspace}篩選行銷行事歷
 
 「行銷行事歷」可依特定工作區中的物件來篩選。
 
-1. 前往日 **歷**。
+1. 前往&#x200B;**日曆**。
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. 在篩選面板中，選取「工 **作區** 」下拉式清單。 選擇您想要的工作區。
+1. 在篩選面板中，選擇&#x200B;**Workspace**&#x200B;下拉式清單。 選擇您想要的工作區。
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 
