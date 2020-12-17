@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# 管理我的代號 {#managing-my-tokens}
+# 管理我的代號{#managing-my-tokens}
 
-使用預付碼可簡化您在Marketo中的工作。 您可以在流 [程步驟、網頁勾選、電子郵件和登陸頁面中使用我的Token](understanding-my-tokens-in-a-program.md) （自訂Token）。 這裡是如何製作它們。
+使用預付碼可簡化您在Marketo中的工作。 您可以在流程步驟、網頁勾選、電子郵件和登陸頁面中使用[我的Token](understanding-my-tokens-in-a-program.md)（自訂Token）。 這裡是如何製作它們。
 
 >[!TIP]
 >
->進一步瞭解哪些Token已可在 [Token Overview中使用](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)。
+>進一步瞭解[Token Overview](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)中已提供哪些預付碼。
 
-## 建立我的代號 {#create-a-my-token}
+## 建立我的Token {#create-a-my-token}
 
-1. 前往行 **銷活動。**
+1. 前往&#x200B;**行銷活動。**
 
    ![](assets/login-marketing-activities.png)
 
-1. 選擇方案或促銷活動資料夾。 按一 **下我的Token。**
+1. 選擇方案或促銷活動資料夾。 按一下&#x200B;**我的代號。**
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
-1. 選擇「我 **的代號** 」類型。 將它拖放到畫布上。
+1. 選擇&#x200B;**我的Token**&#x200B;類型。 將它拖放到畫布上。
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
@@ -37,31 +37,31 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a4-3a53.png)
 
-1. 按一下 **儲存。**
+1. 按一下「保存」。****
 
    ![](assets/image2014-9-18-12-3a5-3a5.png)
 
-   耶！ 你做了 **我的代幣。**
+   耶！ 您製作了&#x200B;**我的代號。**
 
    ![](assets/image2014-9-18-12-3a5-3a15.png)
 
-## 編輯我的代號 {#edit-a-my-token}
+## 編輯我的代號{#edit-a-my-token}
 
-1. 連按兩下「我 **的代號** 」並進行變更。 按一下 **儲存。**
+1. 連按兩下&#x200B;**我的Token**&#x200B;並進行變更。 按一下「保存」。****
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
-## 刪除我的代號 {#delete-a-my-token}
+## 刪除我的代號{#delete-a-my-token}
 
 >[!CAUTION]
 >
 >刪除我的Token時，請確定您未在任何資產中參照它。 如果刪除，空白區域將顯示在參考的任何位置。
 
-1. 以滑鼠右鍵按一 **下我的Token。** 選擇 **刪除Token。**
+1. 按一下右鍵&#x200B;**我的代號。** 選擇 **刪除Token。**
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
-1. 按一下 **刪除。**
+1. 按一下&#x200B;**刪除。**
 
    ![](assets/image2014-9-18-12-3a7-3a31.png)
 
