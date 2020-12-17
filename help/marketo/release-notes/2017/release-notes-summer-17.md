@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 發行說明：17年夏天 {#release-notes-summer}
+# 發行說明：17年夏天{#release-notes-summer}
 
 17年夏季版本包含下列功能。 檢查您的Marketo版本，以取得功能。
 
@@ -29,23 +29,23 @@ ht-degree: 0%
 
 ![](assets/image2017-10-9-10-3a1-3a56.png)
 
-## ABM增強功能 {#abm-enhancements}
+## ABM增強功能{#abm-enhancements}
 
 **日文公司查閱的資料來源**
 
 以當地語言將人與日文公司名稱相符。
 
-** ABM [與LeanData整合](https://docs.marketo.com/x/pKmt)**
+** [ABM和LeanData Integration](https://docs.marketo.com/x/pKmt)**
 
 LeanData整合現在允許在Marketo中進行銷售機會對帳戶比對。 在記錄的銷售和行銷系統中，擁有與帳戶相關的相同銷售線索，讓行銷和銷售保持一致。 更有彈性的選項可讓行銷和銷售營運對銷售線索對帳戶的比對規則有更大的控制力，以達到所需的精確度。
 
-## 網頁個人化增強功能 {#web-personalization-enhancements}
+## Web個人化增強功能{#web-personalization-enhancements}
 
-**促銷 [活動預覽增強功能](https://docs.marketo.com/x/fQGa)**
+** [促銷活動預覽增強功能](https://docs.marketo.com/x/fQGa)**
 
-行銷從業人員現在可以確保，在啟動Web宣傳之前，其Web宣傳在任何裝置 *上都* 能完美呈現。 透過這些增強功能，瞭解您的網頁宣傳如何在桌上型電腦、行動裝置和平板電腦上呈現。 Chrome的全新外掛程式也提供更一致且精確的預覽。
+行銷從業人員現在可以確保在&#x200B;*啟動之前，其Web促銷活動在任何裝置上都能呈現出色的效果。*&#x200B;透過這些增強功能，瞭解您的網頁宣傳如何在桌上型電腦、行動裝置和平板電腦上呈現。 Chrome的全新外掛程式也提供更一致且精確的預覽。
 
-** Widget促銷 [活動增強功能](https://docs.marketo.com/x/KgNI)**
+** [Widget促銷活動增強功能](https://docs.marketo.com/x/KgNI)**
 
 現在提供Widget促銷活動的新選項，包括：
 
@@ -55,7 +55,7 @@ LeanData整合現在允許在Marketo中進行銷售機會對帳戶比對。 在�
 
 ## 內容`<sup>AI</sup>` {#contentai}
 
-** [`<sup>AI </sup>`ContentAnalytics和建議](https://docs.marketo.com/x/1BPG)**
+** [內容`<sup>AI </sup>`分析與建議](https://docs.marketo.com/x/1BPG)**
 
 運用更深入的分析和人工智慧內容建議，提升內容行銷的回報率，以提升參與度。** **功能強大的分析功能可顯示建議內容的效能，包括熱門、趨勢和受眾檢視。 您也會看到其他內容的建議。
 
