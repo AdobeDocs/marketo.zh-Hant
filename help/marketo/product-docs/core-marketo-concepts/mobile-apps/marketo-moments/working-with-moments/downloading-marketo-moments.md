@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# 下載行銷人員時刻 {#downloading-marketo-moments}
+# 下載行銷人員時刻{#downloading-marketo-moments}
 
 從App Store或Google Play下載Marketo Moments，看！ Marketo魔術師掌握在您手中。
 
-## 適用於iPhone {#for-iphone}
+## 對於iPhone {#for-iphone}
 
-1. 前往 [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8)。\
+1. 前往[App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8)。\
    ![](assets/image2015-7-15-14-3a52-3a13.png)
 
 1. 搜尋行銷人員時刻並加以選取。\
    ![](assets/image2015-7-7-17-3a19-3a7.png)
 
-1. 然後，點選「 **開啟**」。\
+1. 然後，點選&#x200B;**Open**。\
    ![](assets/image2015-7-7-17-3a20-3a51.png)
 
-## 適用於Android {#for-android}
+## 對於Android {#for-android}
 
-1. 前往 [Google Play](https://play.google.com/store?hl=en)。
+1. 前往[Google Play](https://play.google.com/store?hl=en)。
 1. 搜尋Marketo Monts並點選以下載。\
    ![](assets/image2015-7-14-9-3a6-3a34.png)
 
-1. 點選「 **接受**」。\
+1. 點選&#x200B;**Accept**。\
    ![](assets/image2015-7-7-16-3a41-3a47.png)
 
-1. 點選「 **安裝**」。\
+1. 點選&#x200B;**Install**。\
    ![](assets/image2015-7-7-16-3a43-3a21.png)
 
 享受！
