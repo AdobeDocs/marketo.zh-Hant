@@ -1,7 +1,7 @@
 ---
 unique-page-id: 9437783
 description: 範本13-A —— 行銷檔案——產品檔案
-title: 範本13-A
+title: 範本13-C
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本13-A {#template-a}
+# 模板13-A {#template-a}
 
 [下載範本13-A](http://docs.marketo.com/download/attachments/9437783/template-13a.html?version=1&amp;modificationdate=1438979525000&amp;api=v2)
 
