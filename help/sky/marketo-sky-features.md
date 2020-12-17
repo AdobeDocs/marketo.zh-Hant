@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Marketo Sky功能
 
-在下方，您將可找到可用的項目 [!DNL Marketo Sky]。
+以下是[!DNL Marketo Sky]中的可用項目。
 
 ## 導覽
 
