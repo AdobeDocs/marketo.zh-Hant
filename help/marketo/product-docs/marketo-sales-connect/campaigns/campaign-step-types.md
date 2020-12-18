@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 促銷活動步驟類型 {#campaign-step-types}
+# 促銷活動步驟類型{#campaign-step-types}
 
 新增步驟至促銷活動時，您有四個選項。
 
 ![](assets/one-4.png)
 
-## 電子郵件 {#email}
+## 電子郵件{#email}
 
 撰寫新電子郵件，或使用預先存在的範本。
 
@@ -31,9 +31,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->瞭解傳送選項的 [詳細資訊](http://docs.marketo.com/x/7QDb)。
+>瞭解有關[傳送選項](http://docs.marketo.com/x/7QDb)的詳細資訊。
 
-## 呼叫 {#call}
+## 呼叫{#call}
 
 設定提醒以透過電話追蹤連絡人。 您也可以儲存附註，以在呼叫期間用作通話追蹤。
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ![](assets/inmail.png)
 
-## 自訂工作 {#custom-task}
+## 自定義任務{#custom-task}
 
 當上述選項不適用時，請使用自訂工作。 例如，您可以邀請同事透過電子郵件追蹤銷售線索。
 
