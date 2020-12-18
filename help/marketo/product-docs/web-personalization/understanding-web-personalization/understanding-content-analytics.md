@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 瞭解內容分析 {#understanding-content-analytics}
+# 瞭解內容分析{#understanding-content-analytics}
 
 「內容分析」頁面會顯示您從網站發現的現有內容（案例研究、部落格文章、影片、新聞稿等）。 此外，它還會顯示訪客與您的內容及訪客互動時產生的人員效能。
 
-## 檢視內容分析 {#view-content-analytics}
+## 檢視內容分析{#view-content-analytics}
 
-前往「內 **容分析」**。
+前往&#x200B;**內容分析**。
 
 ![](assets/one.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>標題</strong></td> 
-   <td colspan="1" rowspan="1">數位內容資產的名稱。 按一 <strong>下「標題</strong> 」，在新標籤中開啟「內容URL」。</td> 
+   <td colspan="1" rowspan="1">數位內容資產的名稱。 按一下「<strong>標題</strong>」，在新標籤中開啟「內容URL」。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>建議圖 </strong><strong>示</strong></p><p><strong><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
-   <td colspan="1">表示是否已為「內容建議」新增 <a href="#">內容片段</a>。</td> 
+   <td colspan="1"><p><strong>建議圖 </strong><strong>示</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
+   <td colspan="1">表示內容項目是否已新增至<a href="#">內容建議</a>。</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>檢視</strong></p></td> 
@@ -60,17 +60,17 @@ ht-degree: 0%
    <td colspan="1" rowspan="1">在同次瀏覽中檢視內容並填寫表單的網頁訪客</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Analytics圖示</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Analytics圖示</strong></p><p><strong><img alt="—" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
    <td colspan="1">檢視內容片段的更多分析</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>刪除圖示</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
+   <td colspan="1"><p><strong>刪除圖示</strong></p><p><img alt="—" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
    <td colspan="1">從內容分析刪除內容</td> 
   </tr> 
  </tbody> 
 </table>
 
-## 檢視其他內容分析 {#view-additional-content-analytics}
+## 檢視其他內容分析{#view-additional-content-analytics}
 
 按一下內容片段的「Analytics圖示」。
 
@@ -90,9 +90,9 @@ ht-degree: 0%
 
 **趨勢**
 
-* 「 **趨勢** 」圖表，顯示特定內容片段的最近30天檢視。 將滑鼠指標暫留在折線圖上，查看特定日期的內容檢視次數
+* **趨勢**&#x200B;圖表，顯示特定內容片段的最近30天檢視。 將滑鼠指標暫留在折線圖上，查看特定日期的內容檢視次數
 
-## 刪除內容 {#delete-content}
+## 刪除內容{#delete-content}
 
 ![](assets/six.png)
 
