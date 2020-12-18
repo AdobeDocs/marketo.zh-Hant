@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 為您的Web促銷活動加上標籤 {#label-your-web-campaigns}
+# 為Web促銷活動加上標籤{#label-your-web-campaigns}
 
 您有太多的促銷活動，捲動變得麻煩嗎？ 使用標籤來標籤促銷活動，以便您對其排序並快速找到。
 
-## 新增標籤至Web促銷活動 {#add-a-label-to-a-web-campaign}
+## 新增標籤至Web促銷活動{#add-a-label-to-a-web-campaign}
 
 1. 登入「Web個人化」並前往「Web促銷活動」區域。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >若要更輕鬆地找到您想要的促銷活動，請使用篩 [選功能](filter-web-campaigns.md)。
+   >若要更輕鬆找到您想要的促銷活動，請使用[篩選功能](filter-web-campaigns.md)。
 
 1. 選取您要以標籤標籤的促銷活動。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 酷！ 您現在知道如何建立標籤並將標籤指派給促銷活動。
 
-## 依現有標籤篩選 {#filter-by-existing-labels}
+## 依現有標籤篩選{#filter-by-existing-labels}
 
 1. 在「標籤」下拉式清單下，選取您要當做篩選器使用的標籤。
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [標](create-a-new-in-zone-web-campaign.md)[記區段](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>* [標](create-a-new-in-zone-web-campaign.md) [簽區段](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 >
 
