@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 選取您的應用程式內訊息 {#select-your-in-app-message}
+# 選取您的應用程式內訊息{#select-your-in-app-message}
 
 在這裡，您可以選擇要在程式中使用的消息。
 
@@ -31,4 +31,4 @@ ht-degree: 0%
    >
    >若要選取不同的訊息，請在「應用程式內訊息」欄位中將其刪除。 然後，「新的應用程式內訊息」連結就會回來。 按一下它，然後選取其他訊息。
 
-你正在追蹤。 排程傳 [送的時間](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)。
+你正在追蹤。 排程send](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)的時間到[。
