@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 如何在Sales Connect中建立優先順序呼叫清單 {#how-to-create-your-priority-call-list-in-sales-connect}
+# 如何在Sales Connect {#how-to-create-your-priority-call-list-in-sales-connect}中建立優先順序呼叫清單
 
 瞭解如何使用ToutApp電子郵件參與資料建立優先報告／來電清單，以便將您的時間集中在擁有動力的人員或機會上。
 
-1. 前往Web應用程式中的 [帳戶](http://toutapp.com/login)。 完成以下步驟後，您將在Sales Connect中儲存「優先呼叫清單」，以排定最熱的客戶／帳戶的優先順序，重新與黑暗的客戶／帳戶接洽，捕捉低垂的果實，縮短宣傳活動之間的聯繫時間。
+1. 前往[Web應用程式](http://toutapp.com/login)中的帳戶。 完成以下步驟後，您將在Sales Connect中儲存「優先呼叫清單」，以排定最熱的客戶／帳戶的優先順序，重新與黑暗的客戶／帳戶接洽，捕捉低垂的果實，縮短宣傳活動之間的聯繫時間。
 1. 完成下列步驟。
 
    * 按一下「檢視選項」
