@@ -11,7 +11,7 @@ ht-degree: 5%
 ---
 
 
-# 什麼是最新的用戶端版本？ {#what-are-the-latest-client-versions}
+# 什麼是最新的用戶端版本？{#what-are-the-latest-client-versions}
 
 以下是所有Sales Connect客戶端的最新版本。
 
@@ -19,11 +19,11 @@ ht-degree: 5%
  <tbody> 
   <tr> 
    <td><strong>Gmail</strong></td> 
-   <td><p>8.6.19</p></td> 
+   <td><p>八點六點一九</p></td> 
   </tr> 
   <tr> 
    <td><strong>Chrome</strong></td> 
-   <td><p>8.6.19</p></td> 
+   <td><p>八點六點一九</p></td> 
   </tr> 
   <tr> 
    <td><strong>Outlook Windows</strong></td> 
