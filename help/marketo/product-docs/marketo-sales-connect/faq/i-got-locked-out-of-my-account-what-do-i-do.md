@@ -11,6 +11,6 @@ ht-degree: 0%
 ---
 
 
-# 我被鎖在賬戶外。 我該怎麼辦？ {#i-got-locked-out-of-my-account-what-do-i-do}
+# 我被鎖在賬戶外。 我該怎麼辦？{#i-got-locked-out-of-my-account-what-do-i-do}
 
-如果您超過登入嘗試次數，就會被鎖定在帳戶之外。 請聯絡支 [](http://nation.marketo.com/community/support_solutions)援以取得解除鎖定的協助。
+如果您超過登入嘗試次數，就會被鎖定在帳戶之外。 請聯絡[支援](http://nation.marketo.com/community/support_solutions)以取得解除鎖定的協助。
