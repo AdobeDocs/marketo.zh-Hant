@@ -15,9 +15,9 @@ ht-degree: 0%
 
 如果您希望Sales Phone的呼叫自動記錄至Salesforce，請確定已有下列項目。
 
-您需要透過API連線將您的Sales Connect帳戶連 [線至Salesforce](http://docs.marketo.com/x/q4LS) 帳戶。
+您需要透過API連線將您的Sales Connect帳戶連線至您的[Salesforce帳戶](http://docs.marketo.com/x/q4LS)。
 
-如果您是從Web應用程 [式呼叫](http://toutapp.com/login)，則需要儲存Salesforce ID給該連絡人。 [按一下這裡](http://docs.marketo.com/x/G4PS) ，瞭解如何確保所有Sales Connect聯絡人都有與其關聯的Salesforce ID。
+如果您是從[Web應用程式](http://toutapp.com/login)呼叫，則需要將Salesforce ID儲存給該連絡人。 [按一](http://docs.marketo.com/x/G4PS) 下這裡，瞭解如何確保所有Sales Connect聯絡人都有與其關聯的Salesforce ID。
 
 >[!NOTE]
 >
