@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 編輯行動推播通知 {#edit-mobile-push-notification}
+# 編輯行動推播通知{#edit-mobile-push-notification}
 
 1. 前往「行銷活動」區域。
 
@@ -25,5 +25,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->在這裡進一步了 [解如何設定推播](configure-mobile-push-notification.md) 通知。
+>在這裡進一步瞭解如何設定推播通知[。](configure-mobile-push-notification.md)
 
