@@ -11,6 +11,6 @@ ht-degree: 0%
 ---
 
 
-# 從Web應用程式發送時出錯 {#error-when-sending-from-the-web-application}
+# 從Web應用程式{#error-when-sending-from-the-web-application}發送時出錯
 
-通常，當從Web應用程式產 [生錯誤](http://toutapp.com/login)，這是由於電子郵件或動態欄位格式問題所造成。 請確定所有項目都已正確填入合成視窗，然後再試一次傳送。
+通常，當從[Web應用程式](http://toutapp.com/login)產生錯誤時，這是因為電子郵件或動態欄位格式發生問題。 請確定所有項目都已正確填入合成視窗，然後再試一次傳送。
