@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 管理員設定標籤 {#admin-settings-tab}
+# 管理設定頁籤{#admin-settings-tab}
 
 「管理員設定」標籤可讓任何帳戶的管理員查看其團隊的設定（與計畫限制有關），以及大量控制其團隊電子郵件在Salesforce中的登入方式。
 
-如果您選取「覆 **寫我團隊的所有Salesforce同步設定」核取方塊** ，您會看到選項：僅允許透過BCC或僅透過API進行記錄。
+如果您選取「覆寫我團隊的所有Salesforce同步設定」核取方塊，您會看到選項：僅允許透過BCC或僅透過API進行記錄。****
 
-如果您選擇 **API記錄**，則為Opportunity、Lead、Contacts選擇的所有設定 `will be set for the entire team after you click **Save Changes**.`
+如果選擇&#x200B;**API日誌**，則為Opportunity、Lead、Contacts `will be set for the entire team after you click **Save Changes**.`選擇的所有設定
 
 從這裡，您還可以在團隊間成批啟用Opportunity和Task Sync。
 
