@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 檢視追蹤的運作方式 {#how-view-tracking-works}
+# 檢視追蹤的運作方式{#how-view-tracking-works}
 
 我們會在您傳送的電子郵件中放置隱形影像，以追蹤開啟的電子郵件。
 
-如果有人回覆您的電子郵件，但Sales Connect表示未檢視，則收件者可能會回覆 `not enable images within their email client (i.e. click on the "click here to download images" message in the email).`
+如果有人回覆您的電子郵件，但Sales Connect表示未檢視，則收件者`not enable images within their email client (i.e. click on the "click here to download images" message in the email).`的可能性
 
 取得更佳電子郵件追蹤統計資料的一些秘訣：
 
