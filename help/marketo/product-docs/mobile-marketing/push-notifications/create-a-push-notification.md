@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 建立推播通知 {#create-a-push-notification}
+# 建立推播通知{#create-a-push-notification}
 
-建立推播通知很簡單。 不過，在您開始之前，您必須先讓Marketon管理和行動應用程式開發人員設定您在執行時需要的部分項目。 如需詳 [細資訊，請參閱瞭解推播](understanding-push-notifications.md) 通知。
+建立推播通知很簡單。 不過，在您開始之前，您必須先讓Marketon管理和行動應用程式開發人員設定您在執行時需要的部分項目。 如需詳細資訊，請參閱[瞭解推播通知](understanding-push-notifications.md)。
 
-1. 前往「行銷 **活動** 」區。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
    ![](assets/image2015-4-22-18-3a46-3a14.png)
 
@@ -23,17 +23,17 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-13-3a31-3a43.png)
 
-1. 在「新 **增**」下方，按 **一下「新增本機資產」**。
+1. 在&#x200B;**New**&#x200B;下，按一下&#x200B;**New Local Asset**。
 
    ![](assets/image2015-4-23-13-3a33-3a20.png)
 
-1. 選取 **推播通知**。
+1. 選擇&#x200B;**推播通知**。
 
    ![](assets/image2015-4-23-13-3a35-3a6.png)
 
-1. 輸入推播 **通知名稱** ，然後按 **一下建立**。
+1. 輸入&#x200B;**推播通知名稱**，然後按一下&#x200B;**建立**。
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   真貼心！ 現在「推播通知」已建立，讓我們繼續 [整理](configure-mobile-push-notification.md)。
+   真貼心！ 現在已建立推播通知，讓我們繼續[將它修飾為](configure-mobile-push-notification.md)。
 
