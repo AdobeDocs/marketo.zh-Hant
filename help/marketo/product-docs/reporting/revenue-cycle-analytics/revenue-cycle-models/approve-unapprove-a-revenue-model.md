@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 批准／取消批准收入模型 {#approve-unapprove-a-revenue-model}
+# 批准／取消批准收入模型{#approve-unapprove-a-revenue-model}
 
 在任何指定時間，您只能有一個已核准的模型。
 
 >[!CAUTION]
 >
->[在批准整個模型之前](approving-stages-and-assigning-leads-to-a-revenue-model.md) ，必須先批准個別階段並新增人員。
+>[在批准整個模型](approving-stages-and-assigning-leads-to-a-revenue-model.md) 之前，必須先批准各個階段並添加人員。
 
-## 核准 {#approve}
+## 批准{#approve}
 
-1. 前往「分 **析** 」區。
+1. 前往&#x200B;**Analytics**&#x200B;區域。
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,23 +29,23 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. 從「模型 **操作」(Model Actions** )菜單中，選 **擇「批准模型」(Approve Model**)。
+1. 從&#x200B;**模型操作**&#x200B;菜單中，選擇&#x200B;**批准模型**。
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. 出現對話方塊以確認您的選擇。 按一 **下核准**。
+1. 出現對話方塊以確認您的選擇。 按一下&#x200B;**批准**。
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
 您的模特現已上線！
 
-## 取消核准 {#unapprove}
+## 取消批准{#unapprove}
 
 >[!CAUTION]
 >
 >如果您取消批准模型，則會從模型中移除所有人員，並刪除其在模型中的歷史記錄！
 
-1. 前往「分 **析** 」區。
+1. 前往&#x200B;**Analytics**&#x200B;區域。
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. 按一下「模 **型操作** 」(Model Actions **)菜單，然後選擇「取**&#x200B;消批准模型」(Unapprove Model)。
+1. 按一下&#x200B;**模型操作**&#x200B;菜單並選擇&#x200B;**取消批准模型**。
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. 在出現的對話方塊中，按一下「取消 **核准模型」**。
+1. 在出現的對話方塊中，按一下「取消核准模型」。****
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 
