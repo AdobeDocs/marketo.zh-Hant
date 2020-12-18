@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在收入週期模型中查找所有銷售線索 {#find-all-leads-in-a-revenue-cycle-model}
+# 查找收入週期模型中的所有銷售線索{#find-all-leads-in-a-revenue-cycle-model}
 
 使用智慧型清單，您可以輕鬆找到收入週期模型的所有成員。
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >[建立智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. 在選定智慧清單後，按一下「智慧清單」 **頁籤** 。
+1. 在選擇智慧清單後，按一下&#x200B;**智慧清單**&#x200B;頁籤。
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. 尋找「 **收入模型成員** 」篩選器，並拖曳至畫布中。
+1. 尋找收入模型的&#x200B;**成員**&#x200B;篩選器，並將其拖曳至畫布中。
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. 選取一 **個模型**。
+1. 選擇&#x200B;**Model**。
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
@@ -37,17 +37,17 @@ ht-degree: 0%
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. 選擇舞 **台。**
+1. 選擇&#x200B;**舞台。**
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. 轉至「銷 **售線索** 」頁籤查看結果。
+1. 轉到&#x200B;**Leads**&#x200B;頁籤查看結果。
 
    ![](assets/2.png)
 
    >[!TIP]
    >
-   >您不需要兩種篩選條件，只要選擇所需的篩選條件即可。 我們只是向你們展示，要徹底。 ![（微笑）](assets/smile.svg) >
+   >您不需要兩種篩選條件，只要選擇所需的篩選條件即可。 我們只是向你們展示，要徹底。 ![（微笑）](assets/smile.svg)   >
 
    >[!CAUTION]
    >
