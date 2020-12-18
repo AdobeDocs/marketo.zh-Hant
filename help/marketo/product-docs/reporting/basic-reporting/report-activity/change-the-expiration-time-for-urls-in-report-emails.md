@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 變更報表電子郵件中URL的過期時間 {#change-the-expiration-time-for-urls-in-report-emails}
+# 變更報表電子郵件中URL的過期時間{#change-the-expiration-time-for-urls-in-report-emails}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 報表訂閱電子郵件中的連結會在三天後到期。 若要變更這些連結的到期時間，請依照下列步驟進行。
 
-1. 在「管 **理員**」下，按一下「登 **入設定」**。
+1. 在&#x200B;**Admin**&#x200B;下，按一下&#x200B;**登錄設定**。
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. 從下拉式選單中選取連結過期的天數。 按一下 **儲存**。
+1. 從下拉式選單中選取連結過期的天數。 按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 
