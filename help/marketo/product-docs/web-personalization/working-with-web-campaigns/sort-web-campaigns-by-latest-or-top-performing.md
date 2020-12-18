@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 依最新或最佳績效排序Web促銷活動 {#sort-web-campaigns-by-latest-or-top-performing}
+# 依最新或最佳績效{#sort-web-campaigns-by-latest-or-top-performing}排序Web促銷活動
 
 您可以用幾種不同的方式來排序您的網頁宣傳。
 
-1. 前往「網 **頁促銷活動」。**
+1. 前往&#x200B;**Web促銷活動。**
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -26,10 +26,10 @@ ht-degree: 0%
    >**定義**
    >
    >
-   >**最新** -將根據促銷活動建立的日期進行排序。 最新促銷活動在最上方。
+   >**最新** -將根據促銷活動建立的日期進行排序。最新促銷活動在最上方。
    >
    >
-   >**表現** 最佳 **** -會根據點進率來排序促銷活動。 最高點進位於頂端。
+   >**TopPerforming** ****  —— 將根據點進率來排序促銷活動。最高點進位於頂端。
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 
