@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 瞭解內容標籤 {#understanding-the-content-tab}
+# 瞭解內容標籤{#understanding-the-content-tab}
 
 「內容標籤」是您團隊使用範本時的電子郵件參與。 我們自動將3個我們認為重要的指標泡泡起來。
 
-## 秘密武器 {#secret-weapon}
+## 秘密武器{#secret-weapon}
 
 此電子郵件範本尚未與團隊共用，但已接收高度參與。 我們向您展示範本主題行和範本的建立者。 這是與此代表聯絡並建議他／她共用範本的絕佳機會！
 
-## 最高參與度 {#highest-engagement}
+## 最高參與{#highest-engagement}
 
 這是分享範本，可讓參與度達到全局最高。
 
-## 最低參與度 {#lowest-engagement}
+## 最低參與度{#lowest-engagement}
 
 可以共用或不共用，這是參與量最少的範本。
 
