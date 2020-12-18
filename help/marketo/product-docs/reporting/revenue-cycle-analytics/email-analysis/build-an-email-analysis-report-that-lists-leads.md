@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 建立列出銷售線索的電子郵件分析報表 {#build-an-email-analysis-report-that-lists-leads}
+# 建立列出銷售線索的電子郵件分析報表{#build-an-email-analysis-report-that-lists-leads}
 
 >[!NOTE]
 >
