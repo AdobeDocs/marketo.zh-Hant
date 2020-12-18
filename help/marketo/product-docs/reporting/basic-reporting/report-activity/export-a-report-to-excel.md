@@ -15,15 +15,15 @@ ht-degree: 0%
 
 您可將任何報表匯出至Excel檔案，以處理其他軟體中的資料。
 
-1. 前往「行銷 **活動** 」區。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. 從導覽樹狀結構中選取您的報表，然後按一下「報 **表** 」標籤。
+1. 從導覽樹中選擇您的報表，然後按一下&#x200B;**報表**&#x200B;標籤。
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. 按一下「 **匯出** 」按鈕。
+1. 按一下&#x200B;**Export**&#x200B;按鈕。
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
@@ -34,12 +34,12 @@ ht-degree: 0%
    >**相關文章**
    >
    >
-   >如果下載的檔案太大，您可以 [變更報表大小](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) 。
+   >如果下載的檔案太大，您可以[變更報表大小](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)。
 
    >[!NOTE]
    >
    >**深入探討**
    >
    >
-   >在「基本報告」深入探討中，瞭解您可以處理報表的所 [有其他有用](http://docs.marketo.com/display/docs/basic+reporting) 。
+   >在[基本報告](http://docs.marketo.com/display/docs/basic+reporting)深入探討中，瞭解您可以處理報告的所有其他有用功能。
 
