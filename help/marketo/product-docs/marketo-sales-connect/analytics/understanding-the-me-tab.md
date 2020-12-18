@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 瞭解我標籤 {#understanding-the-me-tab}
+# 瞭解我標籤{#understanding-the-me-tab}
 
 在「我」索引標籤中，我們會顯示已傳送的電子郵件數量，以及使用範本與電子郵件活動所傳送的電子郵件數量。
 
