@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 瞭解收入模型成功路徑 {#understanding-revenue-model-success-path}
+# 瞭解收入模型成功路徑{#understanding-revenue-model-success-path}
 
-## 成功路徑 {#success-path}
+## 成功路徑{#success-path}
 
-在模型中，綠色路徑(亦稱 **Success Path** )是銷售線索線性轉換至封閉／成功業務的最佳路徑。
+在模型中，綠色路徑（亦即&#x200B;**成功路徑**）是銷售線索線性轉換至已關閉／成功業務的最佳路徑。
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![—](assets/image2015-6-12-17-3a12-3a18.png)
 
 成功路徑上的階段範例：
 
@@ -31,9 +31,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->綠色是錢的。 綠色之路上的一切都在通往成功之路上！ 這就是為什麼「成功路徑分析器」中只 [有綠色箭頭](using-the-success-path-analyzer.md)。
+>綠色是錢的。 綠色之路上的一切都在通往成功之路上！ 這就是為什麼[成功路徑分析器](using-the-success-path-analyzer.md)中只有綠色箭頭。
 
-## 德圖爾 {#detours}
+## 德圖爾{#detours}
 
 認識到並非所有銷售線索都遵循線性「成功路徑」，您還應定義「迂迴階段」，以捕獲未合格或需要幾輪培養才準備就緒的銷售線索。 例如：
 
