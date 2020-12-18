@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 建立和刪除聯繫人 {#creating-and-deleting-contacts}
+# 建立和刪除聯繫人{#creating-and-deleting-contacts}
 
-## 建立聯繫人 {#creating-contacts}
+## 建立聯繫人{#creating-contacts}
 
-1. 在「人員」頁面中，按一下「 **群組動作** 」按鈕並選 **取「建立連絡人」**。
+1. 在「人員」頁中，按一下「組操作」按鈕，然後選擇「建立聯繫人」。********
 
    ![](assets/one-2.png)
 
-1. 輸入名字／姓氏和電子郵件地址，以及您想要的任何其他資訊。 完成 **時按一下** 「建立」，或按 **一下「建立並新增** 」以新增更多連絡人。
+1. 輸入名字／姓氏和電子郵件地址，以及您想要的任何其他資訊。 完成時按一下&#x200B;**建立**&#x200B;或&#x200B;**建立並添加新**&#x200B;以添加更多聯繫人。
 
    ![](assets/two-2.png)
 
    >[!TIP]
    >
-   >想一次新增多個連絡人嗎？ [按一下這裡](http://docs.marketo.com/x/VADb) ，瞭解如何透過CSV匯入連絡人。
+   >想一次新增多個連絡人嗎？ [按一](http://docs.marketo.com/x/VADb) 下這裡，瞭解如何透過CSV匯入連絡人。
 
-## 刪除聯繫人 {#deleting-contacts}
+## 刪除聯繫人{#deleting-contacts}
 
 1. 在「人員」頁面中，勾選您要刪除之連絡人的方塊。
 
