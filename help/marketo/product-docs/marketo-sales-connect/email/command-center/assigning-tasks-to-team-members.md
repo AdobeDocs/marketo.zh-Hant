@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 將任務分配給團隊成員 {#assigning-tasks-to-team-members}
+# 將任務分配給小組成員{#assigning-tasks-to-team-members}
 
 如果希望與其他團隊成員協作，分配任務是協調潛在客戶開發工作的絕佳方法。
 
 >[!NOTE]
 >
->您只能為共用聯繫人指派任務。 在協作共用任 [務之前，您將希望與團隊成員](http://docs.marketo.com/x/fwDb) 共用一組聯繫人。
+>您只能為共用聯繫人指派任務。 在協作共用任務之前，您將希望[與團隊成員共用一組聯繫人](http://docs.marketo.com/x/fwDb)。
 
-1. 按一下「 **Command Center（命令中心）**」。
+1. 按一下&#x200B;**命令中心**。
 
    ![](assets/one-1.png)
 
-1. 按一 **下「新增任務**」。
+1. 按一下&#x200B;**添加任務**。
 
    ![](assets/two-1.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 新增與您的團隊成員相關的重要詳細資訊（可選），然後按一下「建 **立**」。
+1. 新增與您的團隊成員相關的重要詳細資訊（可選），然後按一下「建立&#x200B;**」。**
 
    ![](assets/nine.png)
 
