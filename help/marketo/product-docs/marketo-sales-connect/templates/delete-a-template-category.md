@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 刪除範本類別 {#delete-a-template-category}
+# 刪除模板類別{#delete-a-template-category}
 
-1. 按一下類別旁的功能表圖示，然後按一下「刪 **除」**。
+1. 按一下類別旁的功能表圖示，然後按一下「刪除」。****
 1. 按一下**刪除**以確認。
 
 >[!NOTE]
