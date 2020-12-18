@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 在智慧型清單觸發器和篩選器中使用瀏覽式SMS訊息 {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
+# 在智慧清單觸發器和過濾器{#use-vibes-sms-messages-in-smart-list-triggers-and-filters}中使用查看SMS消息
 
-在您建 [立Vibes SMS訊息後](create-a-vibes-sms-message.md)，您會想要在智慧型促銷活動中使用智慧型清單觸發器和篩選器，以獲得優點。 這是方法。
+在[建立瀏覽器SMS訊息](create-a-vibes-sms-message.md)後，您會想在智慧型促銷活動中使用智慧型清單觸發器和篩選器，以取得優點。 這是方法。
 
-1. 在「我的行銷人員」中，按一下「行 **銷活動」**。
+1. 在「我的行銷人員」中，按一下「行銷活動」**。**
 
    ![](assets/image2016-7-28-9-3a48-3a32.png)
 
-1. 選擇您要使用SMS資產的智慧型促銷活動。 拖曳至觸發器上，例如常用的填 **色表單**。
+1. 選擇您要使用SMS資產的智慧型促銷活動。 拖曳至觸發器上，例如常用的&#x200B;**填色表單**。
 
    ![](assets/fills-out-form-pull-over.jpg)
 
-## SMS觸發程式 {#sms-triggers}
+## SMS觸發器{#sms-triggers}
 
 還有其他SMS觸發程式可供使用。 SMS觸發程式只有在啟用Vibes服務時才會顯示。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ![](assets/sms-message-bounces-real.jpg)
 
-「訂 **閱清單」觸發器** ，會在使用者訂閱時啟動流程。
+**訂閱Vibes List**&#x200B;觸發器在人員訂閱時啟動流程。
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
@@ -43,21 +43,21 @@ ht-degree: 0%
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
-## SMS篩選 {#sms-filters}
+## SMS篩選器{#sms-filters}
 
-您也可以在智慧型清單中使用Vibes篩選器。 「已 **訂閱Vibes清單** 」篩選器會尋找任何已訂閱 *Vibes* 的人。 這包括未訂閱和已刪除的人員，即使已刪除的人員在流程中被省略。 此篩選最適合用於報告。
+您也可以在智慧型清單中使用Vibes篩選器。 **訂閱檢視清單**&#x200B;篩選器會尋找任何訂閱檢視清單的&#x200B;*ever*&#x200B;者。 這包括未訂閱和已刪除的人員，即使已刪除的人員在流程中被省略。 此篩選最適合用於報告。
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-相反地，「Vibes清單」篩選器的 **成員****會發現，目前** **已訂閱Vibes的任何人最 ****** 適合用於智慧型促銷活動或清單。
+相比之下，**Vibes List **filter** **找到** **** ***目前訂閱Vibes的*&#x200B;成員，最適合用於智慧型促銷活動或清單。
 
 ![](assets/image001.png)
 
 >[!NOTE]
 >
->依預設，所有SMS篩選 **器都包含「活動** 」約束日期。
+>依預設，所有SMS篩選器都包含「活動日期」(**Date of Activity)約束。**
 
-在智慧型清單中設定Vibes觸發器和篩選器後，您可以 [定義流程](add-a-flow-step-for-sms.md)。
+在智慧型清單中設定Vibes觸發器和篩選器後，您可以[定義流程](add-a-flow-step-for-sms.md)。
 
 >[!MORELIKETHIS]
 >
