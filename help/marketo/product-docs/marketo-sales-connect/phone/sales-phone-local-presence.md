@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 銷售電話本地服務 {#sales-phone-local-presence}
+# 銷售電話本地存在{#sales-phone-local-presence}
 
-如果您想要看起來就像是從某人的相同區域代碼呼叫，只要先勾選「本機存在 **** 」方塊，再進行呼叫。
+如果您想要看起來像是從某人的相同區域代碼呼叫，在呼叫前，只要勾選「本機存在」(**Local Presence**)方塊即可。
 
-## 本地線上常見問答集 {#local-presence-faq}
+## 本地線上常見問答{#local-presence-faq}
 
 **我的聯絡人能回電給我這個新號碼嗎？**
 
