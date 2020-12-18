@@ -15,13 +15,13 @@ ht-degree: 0%
 
 要生成並設定RTP標籤，請遵循以下安裝說明
 
-## 產生標籤 {#generate-tag}
+## 產生標籤{#generate-tag}
 
-1. 登入您的RTP帳戶。 前往「帳 **戶設定」**。
+1. 登入您的RTP帳戶。 前往&#x200B;**帳戶設定**。
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. 在「 **網域** 」和「網 **域設定」中**，找出相關網域，然後按一下「 **產生標籤」。**
+1. 在&#x200B;**域**&#x200B;和&#x200B;**域配置**&#x200B;中，找到相關域並按一下&#x200B;**生成標籤。**
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
@@ -31,15 +31,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >複製RTP JavaScript標籤，並將它貼為頁面標題中的第一個指令碼——在標籤之間 `<head> </head>` 。
+   >複製RTP JavaScript標籤，並將它貼為頁面標題中的第一個指令碼——在`<head> </head>`標籤之間。
 
    請確定標籤會出現在所有頁面上，包括著陸頁面和子網域。 在您網站的頁面上按一下滑鼠右鍵，以檢查此問題。 前往網頁瀏覽器中的「檢視頁面來源」。 搜尋：「RTP」。
 
-1. 標籤切換為 **ON**。
+1. 標籤切換設為&#x200B;**ON**。
 
    確認「標籤」切換設為「開啟」。 您應該會開始看到資料流入「組織」標籤。
 
-   您現在已使用RTP標籤設定，並準備開始 [建立區段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) 和即時促銷活動！
+   您現在已使用RTP標籤設定，並準備開始建立區段[和即時促銷活動！](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
 
 1. 驗證標籤是否位於所有頁面上。
 
