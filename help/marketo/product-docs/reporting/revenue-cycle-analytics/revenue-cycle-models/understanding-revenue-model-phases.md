@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 瞭解收入模型階段 {#understanding-revenue-model-phases}
+# 瞭解收入模型階段{#understanding-revenue-model-phases}
 
 階段是將多個階段分組的一種方法。 有時模型中的多個階段會反映漏斗的一個階段。
 
-![--](assets/image2015-6-12-16-3a56-3a40.png)
+![—](assets/image2015-6-12-16-3a56-3a40.png)
 
-## 定義模型的階段 {#define-the-phases-of-the-model}
+## 定義模型的階段{#define-the-phases-of-the-model}
 
-1. 按一下 **階段。**
+1. 按一下&#x200B;**Phases.**
 
    ![](assets/image2015-6-12-16-3a2-3a28.png)
 
