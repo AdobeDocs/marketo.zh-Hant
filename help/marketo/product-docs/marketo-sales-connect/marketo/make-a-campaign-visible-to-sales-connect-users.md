@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 讓促銷活動對Sales Connect使用者可見 {#make-a-campaign-visible-to-sales-connect-users}
+# 使促銷活動對Sales Connect使用者可見{#make-a-campaign-visible-to-sales-connect-users}
 
 促銷活動只有在顯示時才能共用。 這是如何做到的。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 按一下「智 **能清單** 」頁籤。
+1. 按一下&#x200B;**智慧清單**&#x200B;頁籤。
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 對於來源，請選擇「is」 **Web服務API**。
+1. 對於源，請選擇「is」 **Web服務API**。
 
    ![](assets/4.png)
 
-1. 按一下「 **流量** 」標籤。
+1. 按一下&#x200B;**流**&#x200B;頁籤。
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 對於「類型」，選擇「 **Web**」。
+1. 對於「類型」，選擇&#x200B;**Web**。
 
    ![](assets/seven.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 按一下「 **排程** 」標籤 **和「啟** 用促銷活動」。
+1. 按一下「計畫&#x200B;****」標籤和「啟動&#x200B;**促銷活動」。**
 
    ![](assets/nine.png)
 
