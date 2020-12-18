@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# 管理報表訂閱 {#manage-report-subscriptions}
+# 管理報表訂閱{#manage-report-subscriptions}
 
 設定和刪除報表訂閱。
 
-1. 前往「分 **析** 」區。
+1. 前往&#x200B;**Analytics**&#x200B;區域。
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 
-1. 按一下「 **訂閱** 」標籤。
+1. 按一下&#x200B;**訂閱**&#x200B;頁籤。
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   此頁面顯示帳戶中所有報表的訂閱，依報表類型 [分組](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。 這包括 [基本報表和收入週期](subscribe-to-a-basic-report.md) 瀏覽 [器報表的訂閱](http://docs.marketo.com/display/docs/revenue+cycle+analytics) 。
+   此頁面顯示帳戶中所有報表的訂閱，依[報表類型](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)分組。 這包括對基本報告](subscribe-to-a-basic-report.md)和[收入週期瀏覽器](http://docs.marketo.com/display/docs/revenue+cycle+analytics)報告的[訂閱。
 
    >[!TIP]
    >
-   >您也可以管理行銷活動中個別報表的 **訂閱**。 選取報表，然後按一下「訂 **閱** 」標籤。
+   >您也可以在&#x200B;**行銷活動**&#x200B;中管理個別報表的訂閱。 選擇報告，然後按一下&#x200B;**訂閱**&#x200B;頁籤。
 
    若要變更報表以電子郵件傳送的頻率，請按一下「頻率」欄位，然後從下拉式選單中選取新選項。
 
    ![](assets/image2014-9-16-10-3a36-3a4.png)
 
-1. 若要變更訂閱中的電子郵件地址，請按一下「電子郵 **件收件者** 」欄位並編輯電子郵件地址。
+1. 若要變更訂閱中的電子郵件地址，請按一下「電子郵件收件者&#x200B;**」欄位並編輯電子郵件地址。**
 
    ![](assets/image2014-9-16-10-3a36-3a11.png)
 
@@ -43,20 +43,20 @@ ht-degree: 0%
    >    
    >    
    >    * 在電子郵件地址之間使用逗號。
-   >    * 若要儲存您所做的編輯，請按一下訂閱 *清單外* 的區域。
+   >    * 若要儲存您所做的編輯，請按一下訂閱清單外部的&#x200B;*區域。*
 
 
    您也可以：
 
-   * 按一下「 **檢視** 」按鈕以開啟報表。
-   * 取消選取「 **作用中** 」核取方塊，以停用訂閱。
-   * 按一下並編輯「 **摘要** 」欄位，以變更電子郵件中顯示的預覽列數。
-   * 取消選取 **Excel核取方塊** ，以傳送報表摘要，而不含試算表附件。
-   * 按一下「 **傳送** 」按鈕，立即傳送報表電子郵件。
+   * 按一下&#x200B;**檢視**&#x200B;按鈕以開啟報表。
+   * 取消選取&#x200B;**Active**&#x200B;核取方塊，以停用訂閱。
+   * 按一下並編輯&#x200B;**摘要**&#x200B;欄位，以更改電子郵件中顯示的預覽行數。
+   * 取消選取&#x200B;**Excel**&#x200B;核取方塊，傳送報表摘要，而不含試算表附件。
+   * 按一下&#x200B;**Send**&#x200B;按鈕，立即傳送報表電子郵件。
 
 
 
-1. 若要完全刪除訂閱，請選取該列，然後按一下「刪 **除訂閱」**。
+1. 要完全刪除預訂，請選擇該行並按一下&#x200B;**刪除預訂**。
 
    ![](assets/image2014-9-16-10-3a36-3a38.png)
 
@@ -74,5 +74,5 @@ ht-degree: 0%
    >    * [訂閱收入總管報表](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
 
-   進一步瞭解「基 [本報告](http://docs.marketo.com/display/docs/basic+reporting) 」和「 [收入週期瀏覽器](http://docs.marketo.com/display/docs/revenue+cycle+analytics) 」。
+   進一步瞭解[基本報告](http://docs.marketo.com/display/docs/basic+reporting)和[收入週期瀏覽器](http://docs.marketo.com/display/docs/revenue+cycle+analytics)深入探討。
 
