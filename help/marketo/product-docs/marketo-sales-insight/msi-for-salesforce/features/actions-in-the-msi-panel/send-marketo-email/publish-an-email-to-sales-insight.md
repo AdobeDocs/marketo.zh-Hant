@@ -15,19 +15,19 @@ ht-degree: 0%
 
 啟用「發佈至銷售分析」設定，讓銷售團隊在Sales Insight、Outlook和Gmail增益集中都能使用電子郵件。 您也可以給出到期日。
 
-1. 尋找您的電子郵件，選取它，然後按一下「編 **輯草稿」**。
+1. 尋找您的電子郵件，選取它，然後按一下「編輯草稿」。****
 
    ![](assets/one.png)
 
-1. 編輯器開啟後，按一下「電子郵 **件設定」**。
+1. 編輯器開啟後，按一下&#x200B;**電子郵件設定**。
 
    ![](assets/two.png)
 
-1. 勾選「 **發佈至Marketon Sales Insight」**。
+1. 勾選&#x200B;**發佈至Marketo Sales Insight**。
 
    ![](assets/three.png)
 
-1. 若要設定到期日（可選），請勾選「設 **定到期** 」並選擇日期。
+1. 若要設定到期日（可選），請勾選「設定到期日&#x200B;**」並選擇日期。**
 
    ![](assets/four.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >晚上11點59分(CST)在到期日（如果您設定），您提供的電子郵件將會從Sales Insight及其任何增益集中消失。 當然，Marketo仍能使用它。
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/five.png)
 
@@ -43,9 +43,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[在Microsoft Dynamics](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) 或Salesforce上，從Sales Insight傳送電子郵件時，My Token無法解析；只會填入標準Token（銷售機會、公司等）。 不過，預付碼的預設值會運作。
+>[在Microsoft Dynamics](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) 或Salesforce上，從Sales Insight傳送電子郵件時，My Tokens將無法解決；只會填入標準Token（銷售機會、公司等）。不過，預付碼的預設值會運作。
 
 >[!TIP]
 >
->請勿忘記核准此電子郵件，讓變更生效。 瞭解如何核 [準電子郵件](../../../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
+>請勿忘記核准此電子郵件，讓變更生效。 瞭解如何[批准電子郵件](../../../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
 
