@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 取消訂閱概觀 {#unsubscribe-overview}
+# 取消訂閱概觀{#unsubscribe-overview}
 
 對於組織來說，遵守電子郵件隱私法的重要性正變得越來越重要。 為了協助我們，我們對取消訂閱的體驗做了一些增強。
 
