@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 瞭解方案成本分析領域 {#understanding-the-program-cost-analysis-area}
+# 瞭解方案成本分析區域{#understanding-the-program-cost-analysis-area}
 
 「計畫成本分析」區域可讓您分析個別計畫的成效，或查看特定時段內依頻道的匯總結果。
 
-## 業務問題範例 {#example-business-questions}
+## 業務問題示例{#example-business-questions}
 
 每個頻道每月產生多少個新名稱？
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## 方案成本分析維度與措施 {#program-cost-analysis-dimensions-and-measures}
+## 方案成本分析維度和措施{#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
 >黃點是尺寸，藍點是測量。
 
-## 投資 {#investment}
+## 投資{#investment}
 
 | 測量 | 說明 |
 |---|---|
@@ -49,7 +49,7 @@ ht-degree: 0%
 | 每次成功的成本（新名稱） | 方案AND獲得的每個銷售機會平均成本在方案進展方面取得了成功 |
 | 方案成本 | 方案期間費用合計 |
 
-## 會籍 {#membership}
+## 會員資格{#membership}
 
 <table> 
  <tbody> 
@@ -72,14 +72,14 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 方案屬性 {#program-attributes}
+## 程式屬性{#program-attributes}
 
 | 維 | 說明 |
 |---|---|
 | 方案頻道 | 方案頻道 |
 | 方案名稱 | 方案名稱 |
 
-## 計畫成本時間範圍 {#program-cost-timeframe}
+## 計畫成本時間範圍{#program-cost-timeframe}
 
 | 維 | 說明 |
 |---|---|
@@ -87,7 +87,7 @@ ht-degree: 0%
 | 季度 | 計畫成本時間範圍 |
 | 月 | 計畫成本時間範圍 |
 
-## 方案標籤 {#program-tags}
+## 程式標籤{#program-tags}
 
 | 測量 | 說明 |
 |---|---|
@@ -96,7 +96,7 @@ ht-degree: 0%
 | 方案擁有者 | 方案標籤 |
 | 地區 | 方案標籤 |
 
-## 成功 {#success}
+## 成功{#success}
 
 | 測量 | 說明 |
 |---|---|
