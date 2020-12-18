@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# 與您的團隊分享通話錄制 {#share-call-recordings-with-your-team}
+# 與您的團隊{#share-call-recordings-with-your-team}共用呼叫錄制
 
 Sales Phone可讓您錄制並儲存您的通話錄制。 如果您想要與團隊的其他成員共用通話錄制，您可從兩處複製連結。
 
-## 從Web應用程式中的人員詳細資料複製錄制連結 {#copy-recording-link-from-the-person-details-in-the-web-application}
+## 從Web應用程式{#copy-recording-link-from-the-person-details-in-the-web-application}中的「人員詳細資訊」複製錄制連結
 
-1. 導覽至Web應 [用程式](http://toutapp.com/login)。
+1. 導航至[Web應用程式](http://toutapp.com/login)。
 1. 開啟人員詳細資訊。
 1. 在活動清單下查找「呼叫活動」。
 1. 以滑鼠右鍵按一下呼叫錄制，並複製連結URL。
 
-## 從Salesforce工作複製錄制連結 {#copy-recording-link-from-the-salesforce-task}
+## 從Salesforce Task {#copy-recording-link-from-the-salesforce-task}複製錄制連結
 
 >[!NOTE]
 >
