@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 針對非原生Salesforce整合的銷售分析 {#sales-insight-for-non-native-salesforce-integrations}
+# 非原生Salesforce整合的Sales Insight {#sales-insight-for-non-native-salesforce-integrations}
 
 如果您的Marketo帳戶是透過自訂或非原生整合連線至Salesforce，請使用本檔案來設定Sales Insight。
 
@@ -19,8 +19,8 @@ ht-degree: 0%
 >
 >* 聯絡您的客戶成功經理，為您的行銷實例啟用「MSI非原生」功能。
 >* 已設定MSI套件的Salesforce帳戶。
->* Marketo REST API已 [成功設定](http://developers.marketo.com/rest-api/)。 公開的CRUD API將是執行非原生同步的基礎。
->* 請閱 [讀此部落格文章](http://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) ，以瞭解物件和關係。
+>* Marketo REST API [成功設定](http://developers.marketo.com/rest-api/)。 公開的CRUD API將是執行非原生同步的基礎。
+>* 請閱讀[此部落格文章](http://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)，以瞭解物件和關係。
 >* 設定Salesforce物件，以顯示18個字元不區分大小寫的全域唯一識別碼，而非15個字元區分大小寫的全域唯一識別碼。
 
 >
@@ -31,11 +31,11 @@ ht-degree: 0%
 >
 >Marketo MSI管理面板中的REST API設定無法用於非原生同步。
 
-## 成功執行MSI的非原生同步需要下列項目 {#successful-non-native-sync-for-msi-requires-the-following}
+## 成功執行MSI的非原生同步需要以下{#successful-non-native-sync-for-msi-requires-the-following}
 
 1. 將Salesforce銷售使用者同步至Marketo。
 
-   Salesforce Sales User是擁有Salesforce中Leads/Contacts的外部使用者。 需要為Salesforce Sales用戶更新行銷人員。 外 *部SalesPersonId* 欄位是Sales Person的升級任務。
+   Salesforce Sales User是擁有Salesforce中Leads/Contacts的外部使用者。 需要為Salesforce Sales用戶更新行銷人員。 *externalSalesPersonId*&#x200B;欄位是負責Sales Person的新增。
 
 <table> 
  <colgroup> 
@@ -57,12 +57,12 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-銷售人員的API檔案： [https://developers.marketo.com/rest-api/lead-database/sales-persons/](http://developers.marketo.com/rest-api/lead-database/sales-persons/)\
-同步銷售人員的API檔案： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST)
+銷售人員的API檔案：[https://developers.marketo.com/rest-api/lead-database/sales-persons/](http://developers.marketo.com/rest-api/lead-database/sales-persons/)\
+同步銷售人員的API檔案：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST)
 
 1. 將Salesforce帳戶同步至Marketo。
 
-   Salesforce帳戶需要升級Marketo Company。 外 *部CompanyId**和外部SalesPersonId* 欄位是為公司的新增插入而規定。
+   Salesforce帳戶需要升級Marketo Company。 *externalCompanyId*&#x200B;和&#x200B;*externalSalesPersonId*&#x200B;欄位是公司升級的授權欄位。
 
 <table> 
  <colgroup> 
@@ -84,17 +84,17 @@ ht-degree: 0%
   <tr> 
    <td>externalSalesPersonId</td> 
    <td>Salesforce Sales使用者不區分大小寫的全域唯一識別碼</td> 
-   <td>將Marketo Company記錄識別為帳戶擁有者的外部Salesforce Sales User物件。<br><br>亦用於Marketing，以將本公司與擁有本公司記錄之銷售人員建立關聯。 在設定此欄位之前，必須先同步銷售人員。</td> 
+   <td>將Marketo Company記錄識別為帳戶擁有者的外部Salesforce Sales User物件。<br><br>亦用於Marketing，以將本公司與擁有本公司記錄之銷售人員建立關聯。在設定此欄位之前，必須先同步銷售人員。</td> 
   </tr> 
  </tbody> 
 </table>
 
-適用於公司的API檔案： [https://developers.marketo.com/rest-api/lead-database/companies/](http://developers.marketo.com/rest-api/lead-database/companies/)\
+適用於公司的API檔案：[https://developers.marketo.com/rest-api/lead-database/companies/](http://developers.marketo.com/rest-api/lead-database/companies/)\
 `API documentation for syncing Companies:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST)`
 
 1. 將Salesforce銷售線索／聯絡人同步至Marketo。
 
-   您需要為Salesforce銷售線索／聯絡人插入Marketo Lead。 外 *部PersonId*、外部 *SalesPersonId*&#x200B;和外部 *CompanyId* 欄位是Lead上線的強制欄位。
+   您需要為Salesforce銷售線索／聯絡人插入Marketo Lead。 *externalPersonId*、*externalSalesPersonId*&#x200B;和&#x200B;*externalCompanyId*&#x200B;欄位是用於Lead的新增。
 
 <table> 
  <colgroup> 
@@ -116,22 +116,22 @@ ht-degree: 0%
   <tr> 
    <td>externalSalesPersonId</td> 
    <td>Salesforce Sales使用者不區分大小寫的全域唯一識別碼</td> 
-   <td>識別擁有此Lead/Contact的外部Salesforce Sales User對象。<br><br>此外，銷售線索與Marketo中的銷售人員有關。 要求首先正確同步銷售人員。</td> 
+   <td>識別擁有此Lead/Contact的外部Salesforce Sales User對象。<br><br>此外，銷售線索與Marketo中的銷售人員有關。要求首先正確同步銷售人員。</td> 
   </tr> 
   <tr> 
    <td>externalCompanyId</td> 
    <td>Salesforce帳戶不區分大小寫的全域唯一識別碼</td> 
-   <td>識別Lead/Contact所屬的外部Salesforce帳戶對象。<br><br>此外，銷售機會記錄也與Marketo中的一家公司有關。 強制要求先正確同步Salesforce帳戶。</td> 
+   <td>識別Lead/Contact所屬的外部Salesforce帳戶對象。<br><br>此外，銷售機會記錄也與Marketo中的一家公司有關。強制要求先正確同步Salesforce帳戶。</td> 
   </tr> 
  </tbody> 
 </table>
 
-銷售機會的API檔案： [`https://developers.marketo.com/rest-api/lead-database/leads/`](http://developers.marketo.com/rest-api/lead-database/leads/)\
+銷售機會的API檔案：[`https://developers.marketo.com/rest-api/lead-database/leads/`](http://developers.marketo.com/rest-api/lead-database/leads/)\
 同步銷售機會的API檔案： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
 
 1. 將Salesforce Opportunity與Marketo同步。
 
-   您需要為Salesforce Opportunity插入Marketo Opportunity。 外 *部OpportunityId*、 *externalCompanyId*&#x200B;和 *externalSalesPersonId* 欄位是Opportunity的升級任務。
+   您需要為Salesforce Opportunity插入Marketo Opportunity。 *externalOpportunityId*、*externalCompanyId*&#x200B;和&#x200B;*externalSalesPersonId*&#x200B;欄位是Opportunity的增補功能。
 
 <table> 
  <colgroup> 
@@ -163,12 +163,12 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-Opportunity的API文檔： [`https://developers.marketo.com/rest-api/lead-database/opportunities/`](http://developers.marketo.com/rest-api/lead-database/opportunities/)\
+Opportunity的API文檔：[`https://developers.marketo.com/rest-api/lead-database/opportunities/`](http://developers.marketo.com/rest-api/lead-database/opportunities/)\
 `API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
 
 1. 將Salesforce連絡人角色同步至Marketo。
 
-   然後，您可以透過Marketo Opportunity角色同步Salesforce Opportunity的Salesforce聯繫人角色。 Opportunity Role記錄要求 *externalOpportunityId*、 *role*&#x200B;和 *leadId* 欄位。
+   然後，您可以透過Marketo Opportunity角色同步Salesforce Opportunity的Salesforce聯繫人角色。 Opportunity Role記錄要求&#x200B;*externalOpportunityId* 、 *role*&#x200B;和&#x200B;*leadId*&#x200B;欄位。
 
 <table> 
  <colgroup> 
@@ -200,14 +200,14 @@ Opportunity的API文檔： [`https://developers.marketo.com/rest-api/lead-databa
  </tbody> 
 </table>
 
-Opportunity的API文檔： [`https://developers.marketo.com/rest-api/lead-database/opportunities/`](http://developers.marketo.com/rest-api/lead-database/opportunities/)\
+Opportunity的API文檔：[`https://developers.marketo.com/rest-api/lead-database/opportunities/`](http://developers.marketo.com/rest-api/lead-database/opportunities/)\
 `API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
 
 1. 將上一個有趣的時刻/MSI計分欄位同步至SFDC。
 
    在您的Salesforce物件正確同步至Marketo後，您就可以運用MSI功能。 MSI最後一個有趣的時刻／計分欄位將公開在REST API中，以取得銷售機會。 這些欄位是由MSI計算，且為唯讀。
 
-   Marketo Lead的「最後一個有趣的時刻／計分」欄位必須使用REST API Lead端點定期同步至Salesforce。 使用externalPersonId作為filterType，並將Salesforce Lead GUID作為filterValue傳入，以查詢此端點的Marketo Lead ** 。
+   Marketo Lead的「最後一個有趣的時刻／計分」欄位必須使用REST API Lead端點定期同步至Salesforce。 使用&#x200B;*externalPersonId*&#x200B;作為filterType，並將Salesforce Lead GUID傳入為filterValue，查詢此端點的Marketo Lead。
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
@@ -228,7 +228,7 @@ Opportunity的API文檔： [`https://developers.marketo.com/rest-api/lead-databa
   </tr> 
   <tr> 
    <td>msiLastInterestMomentType</td> 
-   <td>標籤：最後一個有趣的<br>時刻TypeName:Last_Interect_Moment_Type_c</td> 
+   <td>標籤：最後一個有趣的時刻類型<br>名稱：Last_Interect_Moment_Type_c</td> 
    <td>Lead的最後一個有趣時刻類型</td> 
   </tr> 
   <tr> 
