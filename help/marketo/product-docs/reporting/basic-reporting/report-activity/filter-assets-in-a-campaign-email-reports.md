@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 篩選促銷活動電子郵件報表中的資產 {#filter-assets-in-a-campaign-email-reports}
+# 篩選促銷活動電子郵件報表中的資產{#filter-assets-in-a-campaign-email-reports}
 
-將您的「 [促銷活動電子郵件績效](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) 」報表集中在 [您的方案中的特定智慧型促銷活動](http://docs.marketo.com/display/docs/smart+campaigns) （「本機資產」）或已封存的促銷活動上。
+將您的[促銷活動電子郵件績效](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)報告集中在您的程式（「本機資產」）中的特定[智慧型促銷活動](http://docs.marketo.com/display/docs/smart+campaigns)或已封存的促銷活動上。
 
-1. 前往**Analytics **(或行 **銷活動**)區。
+1. 前往**Analytics **（或&#x200B;**行銷活動**）區域。
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. 按一下「 **設定** 」標籤，並拖曳至篩選器上。
+1. 按一下「**Setup**」標籤，並拖曳至篩選器上。
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
    >
    >如果您選取資料夾，您的報表將包含資料夾在報表執行時包含的所有項目。
 
-1. 你完了！ 按一下「 **報表** 」標籤，查看您的篩選報表。
+1. 你完了！ 按一下&#x200B;**報表**&#x200B;標籤，查看您的篩選報表。
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 
@@ -57,5 +57,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >瞭解「基本報表」中 [的所有報表](http://docs.marketo.com/display/docs/basic+reporting)。
+   >瞭解[基本報表](http://docs.marketo.com/display/docs/basic+reporting)中的所有報表。
 
