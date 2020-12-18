@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 使用Google Tag Manager實現RTP {#implementing-rtp-using-google-tag-manager}
+# 使用Google Tag Manager {#implementing-rtp-using-google-tag-manager}實作RTP
 
-要實施RTP，請遵 `tag please` 循以下安裝說明。
+要實施RTP `tag please` ，請遵循以下安裝說明。
 
 1. 登入您的Google標籤管理員帳戶。
 
-1. 新增「標籤>標籤設定>自訂HTML標籤**」。**叫它 **RTP**。
+1. 新增「標籤>標籤設定>自訂HTML標籤**」。**呼叫它&#x200B;**RTP**。
 
 1. 登入您的RTP帳戶**。**
 
@@ -27,19 +27,19 @@ ht-degree: 0%
 
       ![](assets/image2014-11-30-15-3a19-3a21.png)
 
-1. 在「網域」下方，找出相關網域，然後按一下「 **產生標籤」**。
+1. 在「Domain（域）」下，找到相關域，然後按一下「Generate Tag **（生成標籤&lt;a1/>）」。**
 
    ** ![](assets/image2014-11-30-15-3a20-3a17.png)
 
    **
 
-1. 複製RTP JavaScript標籤並貼至您建立的新 **自訂HTML標籤** （步驟1）。
+1. 複製RTP JavaScript標籤並貼至您建立的新&#x200B;**自訂HTML標籤**（步驟1）。
 
-1. 按一 **下+新增規則至觸發標籤**。 選取 **所有頁面**。
+1. 按一下「**+新增規則至觸發標籤」。**&#x200B;選擇&#x200B;**所有頁面**。
 
-1. 按一下**儲存**並 [發佈新版本](https://support.google.com/tagmanager/answer/2699097?hl=en)。
+1. 按一下**儲存**和[發佈新版本](https://support.google.com/tagmanager/answer/2699097?hl=en)。
 
-1. 確認它出現在所有著 `pages, including` 陸頁面和子網域。
+1. 確認它出現在所有`pages, including`登陸頁面和子網域上。
 
-   1. 您可以在頁面上按一下滑鼠右鍵，以完成此 `website’s` 作業。 前往**Inspect Element。 **搜尋**RTP **以找出標籤。
+   1. 您可以在`website’s`頁面上按一下滑鼠右鍵來完成此作業。 前往**Inspect Element。 **搜尋**RTP **以找出標籤。
 
