@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 瞭解方案會員分析區 {#understanding-the-program-membership-analysis-area}
+# 瞭解方案會員分析區域{#understanding-the-program-membership-analysis-area}
 
 方案會員分析區可讓您分析個別方案的成效，或查看特定時段內依通道的摘要結果。
 
-## 業務問題範例 {#example-business-questions}
+## 業務問題示例{#example-business-questions}
 
 在指定的月份中，有多少人透過不同管道參與一個節目？
 
@@ -29,13 +29,13 @@ ht-degree: 0%
 
 ![](assets/three-2.png)
 
-## 方案會員分析維度與措施 {#program-membership-analysis-dimensions-and-measures}
+## 方案會員分析維度與措施{#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
 >黃點是尺寸，藍點是測量。
 
-### 會籍 {#membership}
+### 會員資格{#membership}
 
 | 測量 | 說明 |
 |---|---|
@@ -43,14 +43,14 @@ ht-degree: 0%
 | 成員 | 計畫中的銷售機會總數 |
 | 新名稱 | 程式獲取的新名稱總數 |
 
-### 方案屬性 {#program-attributes}
+### 程式屬性{#program-attributes}
 
 | 維 | 說明 |
 |---|---|
 | 方案頻道 | 方案頻道 |
 | 方案名稱 | 方案名稱 |
 
-### 方案會籍時間範圍 {#program-membership-timeframe}
+### 方案會員時間範圍{#program-membership-timeframe}
 
 | 維 | 說明 |
 |---|---|
@@ -60,7 +60,7 @@ ht-degree: 0%
 | 周 | 方案會員期限 |
 | 日期 | 方案會員期限 |
 
-### 成功 {#success}
+### 成功{#success}
 
 | 測量 | 說明 |
 |---|---|
