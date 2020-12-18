@@ -11,8 +11,8 @@ ht-degree: 0%
 ---
 
 
-# 未顯示追蹤活動 {#tracking-activity-not-showing}
+# 追蹤活動未顯示{#tracking-activity-not-showing}
 
 如果您的追蹤活動未顯示，請確定Sales Connect提供的自訂活動欄位在Salesforce中可見／可編輯。 如果您已安裝欄位，但欄位未填入，則可能會有欄位層級安全性無法填入資訊。 請洽詢您的Salesforce管理員。
 
-進一步了 [解Salesforce中的欄位層級安全](http://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) 。
+進一步瞭解Salesforce中的[Field-Level Security](http://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5)。
