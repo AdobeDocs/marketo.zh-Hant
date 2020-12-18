@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 刪除行動推播通知 {#delete-mobile-push-notification}
+# 刪除行動推播通知{#delete-mobile-push-notification}
 
 1. 前往「行銷活動」區域。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
-1. 在「推 **播通知動作**」下，按 **一下「刪除」**。
+1. 在&#x200B;**推播通知動作**&#x200B;下，按一下&#x200B;**刪除**。
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
