@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# 為您的應用程式內訊息選擇版面 {#choose-a-layout-for-your-in-app-message}
+# 選擇應用程式內訊息的版面{#choose-a-layout-for-your-in-app-message}
 
 Marketo提供6種版面，以建立應用程式內訊息。
 
 * 快顯版面更傳統，如果您沒有創意團隊提供內容，而且不需要特定的外觀和感覺，則最理想。 您可以在Marketo中輕鬆建立和編輯自己的應用程式內訊息
 * 全螢幕版面可讓您匯入自己完成的設計，提供完整的圖形彈性
 
-## 快顯版面 {#pop-up-layouts}
+## 快顯版面{#pop-up-layouts}
 
 三個快顯版面都提供預設設計元素，包括影像、文字、按鈕和背景。
 
@@ -34,7 +34,7 @@ Marketo提供6種版面，以建立應用程式內訊息。
 
 ![](assets/image2016-5-9-13-3a7-3a33.png)
 
-## 全螢幕版面 {#full-screen-layouts}
+## 全螢幕版面{#full-screen-layouts}
 
 這三種全螢幕樣式版面是專為您設計，可匯入完成的圖稿。 選取您自己的字型，並將它們內嵌在圖形中，以符合任何網頁或促銷活動。
 
@@ -58,7 +58,7 @@ Marketo提供6種版面，以建立應用程式內訊息。
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-既然您已瞭解範本，現在您應該在建立應用程式內訊息影 [像時選擇範本](add-in-app-message-images.md)。
+既然您已瞭解範本，現在您應該在[建立應用程式內訊息影像](add-in-app-message-images.md)時選擇範本。
 
 >[!MORELIKETHIS]
 >
