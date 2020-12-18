@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 效能分析趨勢概觀 {#performance-insights-trend-overview}
+# 績效分析趨勢概述{#performance-insights-trend-overview}
 
 趨勢顯示一段時間內的通道效能。
 
-按一下「 **趨勢** 」標籤以存取此檢視。
+按一下&#x200B;**趨勢**&#x200B;標籤以存取此檢視。
 
 ![](assets/1.png)
 
-## 趨勢 {#trend}
+## 趨勢{#trend}
 
 ![](assets/2-1.png)
 
-選擇您要檢視效能的量度。 在此範例中，我們將檢視透過首次接觸獲 [得的機會](http://docs.marketo.com/display/DOCS/Understanding+Attribution)。
+選擇您要檢視效能的量度。 在此範例中，我們將檢視透過[首次接觸](http://docs.marketo.com/display/DOCS/Understanding+Attribution)贏得的商機。
 
 ![](assets/3-2.png)
 
