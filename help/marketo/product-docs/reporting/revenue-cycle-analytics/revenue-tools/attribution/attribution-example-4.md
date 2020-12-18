@@ -19,8 +19,8 @@ ht-degree: 0%
 * 4月15日 | John參加（網路研討會）-成功
 * 4月22日 |(Opportunity 1)以$3,000建立
 * 4月24日 |(Opportunity 2)以$5,000建立
-* 4月25日 | John和Michelle與Optys **有關**
-* 4月29日 |選 [項] 1為閉門元
+* 4月25日 | John和Michelle與&#x200B;**both** Optys關聯
+* 4月29日 | [Opty 1]是Closed-Won
 
 | 方案名稱 | （內容） | （網路研討會） |
 |---|---|---|
