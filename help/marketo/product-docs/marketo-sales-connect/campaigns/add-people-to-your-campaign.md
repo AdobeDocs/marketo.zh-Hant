@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 將人員新增至促銷活動 {#add-people-to-your-campaign}
+# 將人員新增至促銷活動{#add-people-to-your-campaign}
 
 將某人新增至促銷活動有多種方式。
 
