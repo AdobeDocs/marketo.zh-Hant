@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 核准程式碼片段 {#approve-a-snippet}
+# 批准程式碼片段{#approve-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. 按一下您的 **Snippet**，然後在&#x200B;**Snippet Actions下方按一** 下Approve ****。
+1. 按一下您的&#x200B;**程式碼片段**，然後在&#x200B;**程式碼片段動作**&#x200B;下方按一下&#x200B;**批准**。
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
