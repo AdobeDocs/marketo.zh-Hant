@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 設定「關閉」按鈕並批准消息 {#set-up-the-dismiss-button-and-approve-the-message}
+# 設定「關閉」按鈕並批准消息{#set-up-the-dismiss-button-and-approve-the-message}
 
-## 配置關閉按鈕屬性  {#configure-dismiss-button-properties}
+## 配置關閉按鈕屬性{#configure-dismiss-button-properties}
 
 「關閉」按鈕有許多選項，可讓您依所需的方式進行設定。
 
@@ -45,11 +45,11 @@ ht-degree: 0%
    >
    >您必須為「關閉」按鈕提供點選動作，因此沒有核取方塊可加以啟用。 「消除訊息」是預設（且明顯）選項。
 
-## 包裝 {#wrap-it-up}
+## 包住{#wrap-it-up}
 
 您所有的圖形、文字和按鈕選擇都已自動儲存。 現在，你準備好完成任務了。
 
-1. 若要預覽應用程式內訊息，請按一下「訊 **息動作** 」下拉式清單，然後選取「 **預覽」**。
+1. 若要預覽應用程式內訊息，請按一下「訊息動作&#x200B;**」下拉式清單，然後選取「預覽**」。****
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -57,13 +57,13 @@ ht-degree: 0%
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. 如果您對應用程式內訊息感到滿意，請按一下「核准 **並關閉」**。
+1. 如果您對應用程式內訊息感到滿意，請按一下「核准並關閉」。****
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >您也可以直 **接從「訊息動作」下拉式清單中選取「核准並關閉** 」（請參閱步驟1），但為什麼不先預覽訊息，以確保安全？
+   >您也可以直接從「訊息動作」下拉式清單中選取「核准並關閉」(**Approve &amp; Close**)（請參閱步驟1），但為什麼不先預覽訊息，以確保安全？
 
 1. 若要關閉編輯器而不進行核准，只需關閉標籤即可。 它是自動儲存的，因此您稍後可以傳回並核准。
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
 選擇太多，但現在您有了絕佳的應用程式內訊息，準備就緒！
 
-現在是時候傳 [送訊息了](http://docs.marketo.com/display/docs/send+your+in-app+message)。
+現在是[傳送訊息的時候了。](http://docs.marketo.com/display/docs/send+your+in-app+message)
 
 >[!MORELIKETHIS]
 >
