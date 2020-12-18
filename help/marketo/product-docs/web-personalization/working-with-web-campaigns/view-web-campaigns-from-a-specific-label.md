@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 從特定標籤檢視Web促銷活動 {#view-web-campaigns-from-a-specific-label}
+# 從特定標籤{#view-web-campaigns-from-a-specific-label}檢視Web促銷活動
 
 想要根據特定標籤來檢視和篩選促銷活動嗎？
 
-## 依現有標籤篩選 {#filter-by-existing-labels}
+## 依現有標籤{#filter-by-existing-labels}篩選
 
-1. 前往「網 **頁促銷****活動」**。
+1. 前往&#x200B;**Web** **促銷活動**。
 
    ![](assets/web-campaigns-hand-4.jpg)
 
