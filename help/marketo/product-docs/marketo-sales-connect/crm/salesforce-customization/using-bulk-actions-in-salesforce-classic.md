@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在Salesforce Classic中使用大量動作 {#using-bulk-actions-in-salesforce-classic}
+# 在Salesforce Classic {#using-bulk-actions-in-salesforce-classic}中使用大量動作
 
 瞭解如何執行大量動作，例如新增銷售機會至促銷活動、傳送大量電子郵件或將銷售機會從Salesforce推送至Sales Connect。
 
@@ -23,13 +23,13 @@ ht-degree: 0%
 >
 >在遵循上述步驟之前，請確定您已登入您的Marketo Sales Connect帳戶。
 
-## 大量電子郵件 {#bulk-email}
+## 大量電子郵件{#bulk-email}
 
-1. 在Salesforce中，按一下 **Leads** 標籤頁，然後 **按Go** 按鈕。
+1. 在Salesforce中，按一下&#x200B;**Leads**&#x200B;標籤，然後按一下&#x200B;**Go**&#x200B;按鈕。
 
    ![](assets/one-5.png)
 
-1. 選擇所需的銷售機會，然後按一下「 **Email with MSC(Classic)** 」按鈕。
+1. 選擇所需的銷售機會，然後按一下&#x200B;**Email with MSC(Classic)**&#x200B;按鈕。
 
    ![](assets/two-5.png)
 
@@ -43,31 +43,31 @@ ht-degree: 0%
 
    ![](assets/three-4.png)
 
-## 新增至促銷活動 {#add-to-campaign}
+## 新增至促銷活動{#add-to-campaign}
 
-1. 在Salesforce中，按一下 **Leads** 標籤頁，然後 **按Go** 按鈕。
+1. 在Salesforce中，按一下&#x200B;**Leads**&#x200B;標籤，然後按一下&#x200B;**Go**&#x200B;按鈕。
 
    ![](assets/four-3.png)
 
-1. 選擇所需的銷售線索，然後按一下「 **添加到MSC促銷活動(Classic)** 」按鈕。
+1. 選擇所需的銷售機會，然後按一下&#x200B;**添加到MSC Campaign(Classic)**&#x200B;按鈕。
 
    ![](assets/five-3.png)
 
-1. 將會出現「將人員新增至您的促銷活動」快顯視窗。 按一 **下「下一** 步」並瀏覽典型的促銷活動流程，以觸發MSC促銷活動。
+1. 將會出現「將人員新增至您的促銷活動」快顯視窗。 按一下「下一步」並瀏覽典型的促銷活動流程，以觸發MSC促銷活動。****
 
    ![](assets/six.png)
 
-## 推動Marketo Sales Connect {#push-to-marketo-sales-connect}
+## 推送至Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. 在Salesforce中，按一下 **Leads** 標籤頁，然後 **按Go** 按鈕。
+1. 在Salesforce中，按一下&#x200B;**Leads**&#x200B;標籤，然後按一下&#x200B;**Go**&#x200B;按鈕。
 
    ![](assets/seven-1.png)
 
-1. 選擇所需的銷售線索，然後按一下 **「推送至MSC(Classic)** 」按鈕。
+1. 選擇所需的銷售線索，然後按一下&#x200B;**推送到MSC(Classic)**&#x200B;按鈕。
 
    ![](assets/eight-1.png)
 
-1. 將會開啟名為「Salesforce Bridge」的新標籤。 按一下「繼 **續到組→」按** 鈕。
+1. 將會開啟名為「Salesforce Bridge」的新標籤。 按一下&#x200B;**繼續到組→**&#x200B;按鈕。
 
    ![](assets/nine-1.png)
 
