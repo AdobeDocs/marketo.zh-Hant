@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用Sales Connect資料建立Salesforce優先呼叫報表 {#create-a-salesforce-priority-call-report-with-sales-connect-data}
+# 使用Sales Connect資料{#create-a-salesforce-priority-call-report-with-sales-connect-data}建立Salesforce優先順序呼叫報告
 
 瞭解如何使用Sales Connect電子郵件參與資料建立Salesforce報表／來電清單，以專注於有發展勢頭的人或機會。
 
