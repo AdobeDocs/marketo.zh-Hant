@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用收入模型轉變 {#using-revenue-model-transitions}
+# 使用收入模型轉變{#using-revenue-model-transitions}
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/one-2.png)
 
-1. 以滑鼠右鍵按一下（您也可以按兩下）其中一個箭頭開始，然後選取「編輯轉 **場」**。
+1. 按一下右鍵（也可以按兩下）要開始的箭頭，然後選擇&#x200B;**編輯過渡**。
 
    ![](assets/two-2.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![](assets/five-2.png)
 
-1. 要返回模型，請按一下「建模 **器」(Modeler)**。
+1. 要返回型號，請按一下&#x200B;**Modeler**。
 
    ![](assets/six.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 為所有轉場設定規則後，按一下「驗 **證** 」以驗證。
+1. 為所有轉場配置規則後，按一下&#x200B;**驗證**&#x200B;進行驗證。
 
    ![](assets/eight.png)
 
