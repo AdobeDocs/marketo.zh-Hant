@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# 如何將Sales Connect連接至您的Salesforce沙盒 {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
+# 如何將Sales Connect連接至您的Salesforce沙盒{#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
 >[!PREREQUISITES]
 >
->當建立與沙盒的連線時，您的Sales Connect帳戶已無法連線至Salesforce。 如果是，請 [在遵循本文中的步驟](http://docs.marketo.com/x/FoDq) ，先確定您已中斷連線。
+>當建立與沙盒的連線時，您的Sales Connect帳戶已無法連線至Salesforce。 如果是，請在遵循本文中的步驟之前，先確定您已斷開連接[。](http://docs.marketo.com/x/FoDq)
 
-1. 在Sales Connect中，按一下右上角的齒輪圖示並選取「設 **定」**。
+1. 在Sales Connect中，按一下右上角的齒輪表徵圖，然後選擇&#x200B;**Settings**。
 
    ![](assets/one-2.png)
 
-1. 在「整合」下方，按一 **下CRM**。
+1. 在「整合」下，按一下「**CRM**」。
 
    ![](assets/two-2.png)
 
-1. 在Salesforce卡中，按一下「更 **多資訊」**。
+1. 在Salesforce卡中，按一下「更多資訊」。****
 
    ![](assets/three-2.png)
 
-1. 在頁面底部，按一下「連 **線至沙盒」**。
+1. 在頁面底部，按一下「連線至沙盒」**。**
 
    ![](assets/four-2.png)
 
