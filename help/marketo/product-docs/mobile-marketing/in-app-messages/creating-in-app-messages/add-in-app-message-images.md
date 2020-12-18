@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 新增應用程式內訊息影像 {#add-in-app-message-images}
+# 新增應用程式內訊息影像{#add-in-app-message-images}
 
 您可在這裡選擇並自訂應用程式內訊息影像。
 
-1. 選取應用程式內訊息，然後按一下「 **編輯草稿」**。
+1. 選取應用程式內訊息，然後按一下「編輯草稿&#x200B;**」。**
 
    ![](assets/image2016-5-4-10-3a20-3a14.png)
 
@@ -23,19 +23,19 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >範本之間有何差異？ 請參 [閱「開始使用之前](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) ，選擇應用程式內訊息的版面」。
+   >範本之間有何差異？ 開始之前，請參閱[選擇應用程式內訊息的版面。](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. 按一下「 **樣式** 」標籤，然後按一下範本的影像區域。
+1. 按一下&#x200B;**Style**&#x200B;標籤，然後按一下範本的影像區域。
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. 按一下「 **選取影像**」。
+1. 按一下「**選擇影像**」。
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. 從Design Studio中選取您的影像，然後按一下「選 **取」**。
+1. 從Design Studio中選取您的影像，然後按一下「選擇&#x200B;****」。
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
    >
    >影像大小限制為1440 x 2560 px和5MB。
 
-1. 改變主意，想要使用不同的影像？ 沒問題。 按一下 **影像檔** 案名稱旁的X。
+1. 改變主意，想要使用不同的影像？ 沒問題。 按一下影像檔案名稱旁的&#x200B;**X**。
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. 按一下 **移除**。 現在，你可以選另一個。
+1. 按一下&#x200B;**刪除**。 現在，你可以選另一個。
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-9-3a4-3a47.png)
 
-1. （可選）套用影像邊框。 預設設定為 **Off**。 首先，按一下顏色，或在檢色器上輸入十六進位或RGB數字，以選取顏色。
+1. （可選）套用影像邊框。 預設設定為&#x200B;**Off**。 首先，按一下顏色，或在檢色器上輸入十六進位或RGB數字，以選取顏色。
 
    ![](assets/image2016-5-6-9-3a9-3a0.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. 選擇邊界（開啟或關閉）。 **On** 是預設設定。
+1. 選擇邊界（開啟或關閉）。 **Onis** 為預設設定。
 
    ![](assets/image2016-5-6-9-3a42-3a15.png)
 
@@ -85,9 +85,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >若要點選影像、按鈕或背景的動作，您可以為Apple和Android平台設定不同的動作。 例如，Apple和Android的深層連結處理方式不同。 如果您的訊息只傳送至一個或另一個平台，請將另一個平台保留在預設設定中，或選取「無」 ****。
+   >若要點選影像、按鈕或背景的動作，您可以為Apple和Android平台設定不同的動作。 例如，Apple和Android的深層連結處理方式不同。 如果您的訊息僅傳送至一個平台或另一個平台，請將另一個平台保留在預設設定中，或選取「無」****。
 
-幹得好！ 現在，您該為應用 [程式內訊息建立文字了](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)。
+幹得好！ 現在，您應該為應用程式內訊息[建立文字。](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)
 
 >[!MORELIKETHIS]
 >
