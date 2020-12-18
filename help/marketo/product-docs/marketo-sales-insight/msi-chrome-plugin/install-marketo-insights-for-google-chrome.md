@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >您不需要是行銷人員管理員就能安裝擴充功能。
 
-1. 從Chrome網 [站商店安裝Google Chrome Add的延伸](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) Marketo Insights。
+1. 從Chrome Web Store安裝延伸模組[Google Chrome Add的Marketo Insights。](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb)
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
@@ -27,17 +27,17 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 輸入您的 **代碼**、電子郵件地址 **、**&#x200B;名字 **，以及註冊******&#x200B;姓氏。 按一 **下「驗證並儲存**」。
+1. 輸入您的&#x200B;**註冊代碼**、**電子郵件地址**、**名字**&#x200B;和&#x200B;**姓氏**。 按一下&#x200B;**Verify and Save**。
 
    ![](assets/three.png)
 
    >[!CAUTION]
    >
-   >註冊時請務必使用您 **的主要電子郵件帳戶** ，因為我們不支援此外掛程式的別名。
+   >註冊時，請務必使用&#x200B;**主要電子郵件帳戶**，因為我們不支援使用此插件的別名。
 
    >[!NOTE]
    >
-   >在行銷人員管理員向您提交行銷人員電子郵 [件](http://docs.marketo.com/pages/viewpage.action?pageid=7510848)[增益集授權後，系統會寄送電子郵件中的註冊代碼](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)[。](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **14天後過期。**
+   >在行銷人員[i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) [向您提交行銷人員電子郵件附加授權](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [後，系統會在傳送的電子郵件中注明註冊代碼。](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **14天後過期。**
 
 1. 按一下**允許**以允許離線存取。
 
