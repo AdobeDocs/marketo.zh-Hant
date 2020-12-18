@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 將Marketto與Dynamics同步的必填欄位 {#required-fields-for-syncing-marketo-with-dynamics}
+# 將Marketto與Dynamics {#required-fields-for-syncing-marketo-with-dynamics}同步的必填欄位
 
-這些欄 *位必須* 與Marketo同步，Lead和Contact for Sales Insight才能運作：
+以下欄位&#x200B;*必須*&#x200B;與Marketo同步，以利Lead和Contact for Sales Insight運作：
 
 * 優先順序
 * 緊急
 * 相對分數
 
-如果這些欄位中有任何欄位遺失，您會在Marketo中看到錯誤訊息，其名稱為遺失欄位。 若要修正此問題，請檢查您的例項，以確定Lead和 **Contact的欄位****同步**。 否則，請加入。
+如果這些欄位中有任何欄位遺失，您會在Marketo中看到錯誤訊息，其名稱為遺失欄位。 要修正此問題，請檢查實例，以確保&#x200B;**Lead**&#x200B;和&#x200B;**Contact**&#x200B;的欄位同步。 否則，請加入。
 
 以下是如何驗證和新增同步欄位。
 
