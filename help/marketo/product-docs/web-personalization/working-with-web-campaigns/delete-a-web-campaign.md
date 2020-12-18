@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 刪除Web促銷活動 {#delete-a-web-campaign}
+# 刪除Web促銷活動{#delete-a-web-campaign}
 
-1. 前往「網 **頁促銷活動**」。
+1. 前往&#x200B;**Web促銷活動**。
 
    ![](assets/web-campaigns-hand-3.jpg)
 
    >[!NOTE]
    >
-   >若要更輕鬆找到您想要的Web促銷活動，請使用篩 [選功能](filter-web-campaigns.md)。
+   >若要更輕鬆找到您想要的Web促銷活動，請使用[篩選功能](filter-web-campaigns.md)。
 
 1. 在「網頁促銷活動」頁面上，按一下您要刪除的促銷活動上的**刪除**。
 
