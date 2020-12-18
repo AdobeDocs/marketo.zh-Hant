@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 進階搜尋概述 {#advanced-search-overview}
+# 進階搜尋概述{#advanced-search-overview}
 
 透過使用進階搜尋來定位已檢視、點按或回覆電子郵件的潛在客戶，您可以建立您最感興趣的潛在客戶的目標清單。
 
-## 如何存取進階搜尋 {#how-to-access-advanced-search}
+## 如何訪問高級搜索{#how-to-access-advanced-search}
 
-1. 按一下「 **命令中心**」。
+1. 按一下&#x200B;**命令中心**。
 
    ![](assets/one.png)
 
-1. 按一下「 **電子郵件**」。
+1. 按一下&#x200B;**電子郵件**。
 
    ![](assets/two.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 按一下 **進階搜尋**。
+1. 按一下&#x200B;**高級搜索**。
 
    ![](assets/four.png)
 
-## 濾鏡 {#filters}
+## 篩選器{#filters}
 
 **日期**
 
@@ -98,15 +98,15 @@ ht-degree: 0%
 | **已反彈** | 當收件者的伺服器拒絕電子郵件時，會將其標示為已退回。 此處僅顯示通過Sales Connect伺服器發送的電子郵件。 |
 | **垃圾訊息** | 當收件者將電子郵件標示為垃圾訊息（垃圾郵件的常用詞語）時。 此處僅顯示通過Sales Connect伺服器發送的電子郵件。 |
 
-## 儲存的搜尋 {#saved-searches}
+## 保存的搜索{#saved-searches}
 
 以下是如何建立儲存的搜尋。
 
-1. 在所有篩選器都到位後，按一下「另 **存篩選器**」。
+1. 在所有篩選器都到位後，按一下「將篩選器另存為&#x200B;**」。**
 
    ![](assets/save-search-1.png)
 
-1. 為您的搜尋指定名稱，然後按一下「 **儲存**」。
+1. 為您的搜索命名，然後按一下&#x200B;**保存**。
 
    ![](assets/save-search-2.png)
 
