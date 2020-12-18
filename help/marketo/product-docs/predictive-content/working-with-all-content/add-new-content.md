@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 新增內容 {#add-new-content}
+# 新增內容{#add-new-content}
 
 >[!NOTE]
 >
->根據購買日期，您的Marketo訂閱可能包含Marketo預測性內容或內容`<sup>AI</sup>`。 對於使用「預測性內容」的使用者，Marketo會在2018年4月`<sup>AI</sup>` 30日之前啟用「內容分析」功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo Content`<sup>AI</sup>`。
+>視購買日期而定，您的Marketo訂閱可能包含Marketo Predictive Content或Content`<sup>AI</sup>`。 對於使用預測性內容的使用者，Marketo會在2018年4月30日之前啟用「內容`<sup>AI</sup>`分析」功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo Content`<sup>AI</sup>`。
 
 您可以輕鬆將內容手動新增至「所有內容」頁面。
 
-1. 按一下「 **新增內容** 」下拉式清單，然後選 **取「新增內容」**。
+1. 按一下「新增內容」下拉式清單，並選取「新增內容」。********
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. 按一 **下新增**。
+1. 按一下&#x200B;**添加**。
 
    ![](assets/all-content-add-hand.png)
 
-1. 新標題現在會顯示在「所有內 **容」頁面** 。 請注意，它尚未針對預測性內容核准。
+1. 新標題現在會顯示在&#x200B;**所有內容**&#x200B;頁面上。 請注意，它尚未針對預測性內容核准。
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. 以下說明如何將它新增至預測 [性內容](http://docs.marketo.com/x/Vbet)。
+1. 以下說明如何將它新增至[預測性內容](http://docs.marketo.com/x/Vbet)。
 
