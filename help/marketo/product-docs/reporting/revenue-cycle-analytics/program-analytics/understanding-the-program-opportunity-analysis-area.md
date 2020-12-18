@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 瞭解計畫機會分析領域 {#understanding-the-program-opportunity-analysis-area}
+# 瞭解計畫機會分析領域{#understanding-the-program-opportunity-analysis-area}
 
-## 概觀 {#overview}
+## 概述{#overview}
 
 Program Opportunity Analysis區域允許您分析單個Programs的有效性，或查看按Program Channel列出的總結結果。
 
@@ -35,7 +35,7 @@ Program Opportunity Analysis區域允許您分析單個Programs的有效性，�
 
 ![](assets/four-1.png)
 
-## 計畫機會分析歸因度量（藍點） {#program-opportunity-analysis-attribution-measures-blue-dots}
+## 計畫機會分析歸因度量（藍點）{#program-opportunity-analysis-attribution-measures-blue-dots}
 
 可用於分析的度量通常是數字，用藍點表示。 尺寸是提供測量不同視圖的屬性，由黃點表示。
 
@@ -49,7 +49,7 @@ Program Opportunity Analysis區域允許您分析單個Programs的有效性，�
 * 成功相關措施，可接收多點觸控歸因(MT)。
 * 其他與Program相關的度量，包括在建立或關閉Opportunity之前的平均行銷接觸數。
 
-## 獲取與成功相關措施 {#acquisition-and-success-related-measures}
+## 贏取與成功相關度量{#acquisition-and-success-related-measures}
 
 與收購相關的措施可讓潛在客戶的聯絡資訊首次獲得的方案獲得肯定。 銷售機會不必在要授予的贏取評價方案中取得成功。
 
@@ -120,7 +120,7 @@ Program Opportunity Analysis區域允許您分析單個Programs的有效性，�
 
 Marketo在不重複計算各方案的機會的情況下，適當地提供信用。 因此，在此例中，每個方案收到0.5個機會單位。 也就是說，每個Program都會獲得生成的Opportunity的一半評價。 此外，與Opportunity相關的一半收入分配給每個Program。
 
-## 與雜項方案有關的措施 {#miscellaneous-program-related-measures}
+## 與其他方案有關的措施{#miscellaneous-program-related-measures}
 
 其他可用措施反映了方案的總體業績。
 
@@ -157,7 +157,7 @@ Marketo在不重複計算各方案的機會的情況下，適當地提供信用�
  </tbody> 
 </table>
 
-## 計畫機會分析維（黃點） {#program-opportunity-analysis-dimensions-yellow-dots}
+## 計畫機會分析維（黃點）{#program-opportunity-analysis-dimensions-yellow-dots}
 
 測量（藍點）是計算的，需要一些思考和說明才能使用，而尺寸（黃點）則是描述性的。 以下是可用維度。
 
@@ -169,15 +169,15 @@ Marketo在不重複計算各方案的機會的情況下，適當地提供信用�
   </tr> 
   <tr> 
    <td>機會屬性</td> 
-   <td><p>Opportunity<br>ClosedOpportunity Name*<br>Opportunity Owner<br>NameOpportunity<br>StageOpportunity Type</p></td> 
+   <td><p>Opportunity Closed<br> Opportunity Name*<br> Opportunity Owner Name<br> Opportunity Stage<br> Opportunity Type</p></td> 
   </tr> 
   <tr> 
    <td>機會時間範圍</td> 
-   <td><p>業務機會關閉年／季/月<br>建立的業務機會年／季/月</p></td> 
+   <td><p>業務機會關閉年／季/月<br>業務機會建立年／季/月</p></td> 
   </tr> 
   <tr> 
    <td>方案屬性</td> 
-   <td><p>計畫渠<br>道計畫名稱</p></td> 
+   <td><p>節目頻道<br>節目名稱</p></td> 
   </tr> 
   <tr> 
    <td>計畫成本時間範圍</td> 
@@ -186,7 +186,7 @@ Marketo在不重複計算各方案的機會的情況下，適當地提供信用�
  </tbody> 
 </table>
 
-**提供任何類型歸因給方案的所有Opportunities。 機會可能受到一個或多個銷售機會以及一個或多個計畫的影響。*
+**提供任何類型歸因給方案的所有Opportunities。機會可能受到一個或多個銷售機會以及一個或多個方案的影響。*
 
 >[!MORELIKETHIS]
 >
