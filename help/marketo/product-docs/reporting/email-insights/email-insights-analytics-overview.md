@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 電子郵件見解分析概觀 {#email-insights-analytics-overview}
+# 電子郵件分析概述{#email-insights-analytics-overview}
 
 在Analytics中，探索電子郵件傳送與參與的匯總資料。 使用左側的圖表來探索資料、右側的見解，以獲得更具引導性的體驗。
 
 ![](assets/emailanalytics-1.jpg)
 
-[篩選](filtering-in-email-insights.md) ，可協助您深入檢視特定量度。
+[篩](filtering-in-email-insights.md) 選功能可協助您深入檢視特定量度。
 
 ![](assets/filter-field.png)
 
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 ...或是展開您的瀏覽器視窗（在較大的螢幕上），即可檢視詳細資訊，而不需暫留。
 
-` ![](assets/kpi-wide.png)
+「 ![](assets/kpi-wide.png)
 
-`
+「
 
 >[!TIP]
 >
@@ -50,7 +50,7 @@ ht-degree: 0%
 ` ![](assets/chart2.png)  
 `
 
-如果您要建立想要再次使用的圖表，請將它製作成快速 [圖表](email-insights-quick-charts.md)。
+如果您要建立想再次使用的圖表，請將它設為[快速圖表](email-insights-quick-charts.md)。
 
 ` ![](assets/quick-chart.png)  
 `
