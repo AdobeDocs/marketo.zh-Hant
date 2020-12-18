@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在Marketo Sales Insight中設定取消訂閱頁尾 {#configure-unsubscribe-footers-in-marketo-sales-insight}
+# 在Marketo Sales Insight中設定取消訂閱頁尾{#configure-unsubscribe-footers-in-marketo-sales-insight}
 
 銷售電子郵件會自動將取消訂閱的頁尾放在最底端。 不過，您可以調整設定以符合您的需求。
 
@@ -23,13 +23,13 @@ ht-degree: 0%
 >
 >**定義**
 >
->**銷售電子郵件** ，是從Sales Insight傳送的電子郵件。 （不包含從Marketo Outlook外掛程式傳送的內容）。
+>**銷售電** 子郵件是從Sales Insight傳送的電子郵件。（不包含從Marketo Outlook外掛程式傳送的內容）。
 
-1. 前往「管 **理** 」區。
+1. 前往&#x200B;**Admin**&#x200B;區域。
 
    ![](assets/one-1.png)
 
-1. 按一下**Sales Insight、**，然後按一下「編 **輯設定」**。
+1. 按一下「**Sales Insight」、「**」，然後按一下「編輯設定」。****
 
    ![](assets/two-1.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    * **無模板**-由銷售用戶人工組成。
    * **標準電子郵件** -根據範本傳送的電子郵件。
-   * **營運電子郵件** -忽略未訂閱、暫停行銷和通訊限制（無論傳送何種電子郵件）的電子郵件。
+   * **營運電子郵件** -忽略未訂閱、暫停行銷和通訊限制的電子郵件（無論傳送何種電子郵件）。
 
    您可以選擇為每種類型設定不同的行為。
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >**遵守取消訂閱設定：**即使已發佈的電子郵件「運作」，未訂閱的潛在客源也不會收到電子郵件
    >
    >
-   >**忽略取消訂閱設定：** 未訂閱的銷售機會將會收到電子郵件
+   >**忽略取消訂閱設定：取消** 訂閱的銷售機會將會收到電子郵件
 
    進行您想要的變更，然後按一下「儲存」。
 
@@ -64,5 +64,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->進一步了 [解Marketo Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight)。
+>進一步瞭解[Marketo Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight)。
 
