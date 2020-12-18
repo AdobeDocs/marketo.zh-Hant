@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 透過群組電子郵件傳送電子郵件 {#sending-emails-via-group-email}
+# 透過群組傳送電子郵件{#sending-emails-via-group-email}
 
 以下說明如何使用「群組電子郵件」選項來傳送／編輯電子郵件。
 
-## 傳送群組電子郵件 {#sending-a-group-email}
+## 傳送群組電子郵件{#sending-a-group-email}
 
-1. 按一下「 **人員** 」標籤。
+1. 按一下&#x200B;**People**&#x200B;頁籤。
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. 按一下「群組動作」按鈕，然後選取「電 **子郵件群組**」。
+1. 按一下「組操作」按鈕，然後選擇「電子郵件組」**。**
 
    ![](assets/three-3.png)
 
@@ -33,9 +33,9 @@ ht-degree: 0%
 
    ![](assets/four-3.png)
 
-## 編輯群組電子郵件 {#editing-a-group-email}
+## 編輯群組電子郵件{#editing-a-group-email}
 
-1. 使用上述步驟1-3 [建立群組電子郵件](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail)。
+1. 使用[上述步驟1-3建立群組電子郵件。](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail)
 1. 選擇範本，或填寫您的電子郵件。
 
    ![](assets/edit-two.png)
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    ![](assets/edit-four.png)
 
-1. 按一 **下「預覽動態欄位**」，然後在右側檢視預覽。
+1. 按一下「預覽動態欄位」，並檢視右側的預覽。****
 
    ![](assets/edit-five.png)
 
