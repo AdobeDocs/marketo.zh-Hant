@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用動態內容編輯片段 {#edit-snippets-with-dynamic-content}
+# 使用動態內容{#edit-snippets-with-dynamic-content}編輯片段
 
 >[!PREREQUISITES]
 >
@@ -24,25 +24,25 @@ ht-degree: 0%
 
 使用程式碼片段中的區段功能，輕鬆管理您電子郵件和登陸頁面上的動態內容。
 
-## 新增區段 {#add-segmentation}
+## 新增區段{#add-segmentation}
 
-1. 前往 **Design Studio**。
+1. 前往&#x200B;**Design Studio**。
 
    ![](assets/designstudio-1.png)
 
-1. 按一下您的**程式碼片段**，然後按一下「編 **輯草稿」**。
+1. 按一下您的**程式碼片段**，然後按一下「編輯草稿&#x200B;**」。**
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. 按一下「 **區段依據**」。
+1. 按一下&#x200B;**分段依據**。
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. 輸入**區段**，然後按一下「儲 **存」**。
+1. 輸入**分段**，然後按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 
-## 套用動態內容 {#apply-dynamic-content}
+## 套用動態內容{#apply-dynamic-content}
 
 1. 按一下**區段**，然後編輯內容。 對每個區段重複
 
