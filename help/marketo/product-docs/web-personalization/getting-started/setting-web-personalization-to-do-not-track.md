@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 將Web個人化設為不追蹤 {#setting-web-personalization-to-do-not-track}
+# 將Web個人化設為不追蹤{#setting-web-personalization-to-do-not-track}
 
 網頁訪客可以設定瀏覽器，以防止任何網站進行追蹤，方法是選擇「不追蹤」(DNT)。 這會防止追蹤該特定瀏覽器和裝置。
 
 在「網頁個人化與預測性內容」中，行銷人員可以設定切換，以指出要支援或忽略瀏覽器的「不追蹤(DNT)」設定。 帳戶的切換設為預設值，表示應用程式不接受DNT。
 
-## 啟用或停用切換 {#enable-or-disable-the-toggle}
+## 啟用或禁用切換{#enable-or-disable-the-toggle}
 
-1. 前往「帳 **戶設定」**。
+1. 前往&#x200B;**帳戶設定**。
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. 在「域和域配置」中，選 **擇** 「開啟」以啟用「執行DNT」切換。
+1. 在「域和域配置」中，選擇&#x200B;**On**&#x200B;以啟用「執行DNT」切換。
 
    ![](assets/two-1.png)
 
@@ -33,5 +33,5 @@ ht-degree: 0%
    >
    >將切換為「開啟」可能會影響Marketo在特定區域的價值和功能。
 
-1. 若要停用「遵守DNT」切換並忽略瀏覽器的「不追蹤(DNT)」設定，請選取「遵守DNT」 **下** 「關閉」。
+1. 若要停用「遵守DNT」切換並忽略瀏覽器的「不執行追蹤(DNT)」設定，請在「遵守DNT」下選取「**關閉**」。
 
