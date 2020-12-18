@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 報告電子郵件，跨工作區的促銷活動績效 {#report-email-campaign-performance-across-workspaces}
+# 報告電子郵件、跨工作區的促銷活動績效{#report-email-campaign-performance-across-workspaces}
 
-開啟「全域報表」，將您所有行銷工作區的資 [料納入「電子郵](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) 件績效 [」、「電子郵件連結績效](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)」和「促銷活 [](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)[](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) 動報表」中。
+開啟「全域報表」，將您所有行銷人員的[工作區](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)資料納入[電子郵件效能](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)、[電子郵件連結效能](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)和[促銷活動](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)報表。
 
-1. 前往 **Analytics** (或 **行銷活動**)區域。
+1. 前往&#x200B;**Analytics**（或&#x200B;**行銷活動**）區域。
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. 按一下「 **設定** 」標籤，然後按兩 **下「全域報表」**。
+1. 按一下「**Setup**」標籤，然後按兩下「全域報表」**。**
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
-1. 選擇 **啟用**。
+1. 選擇&#x200B;**啟用**。
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. 就這樣！ 按一下「 **報表** 」標籤，查看您所有工作區的資料。
+1. 就這樣！ 按一下&#x200B;**報表**&#x200B;標籤，查看您所有工作區的資料。
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 
@@ -49,5 +49,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >瞭解「基本報表」中 [的所有報表](http://docs.marketo.com/display/docs/basic+reporting) 。
+   >瞭解[基本報表](http://docs.marketo.com/display/docs/basic+reporting)中的所有報表。
 
