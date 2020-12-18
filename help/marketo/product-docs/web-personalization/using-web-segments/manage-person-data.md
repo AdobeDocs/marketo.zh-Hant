@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 管理人員資料 {#manage-person-data}
+# 管理人員資料{#manage-person-data}
 
 選取要用於您區段的人員欄位，以利用「人員資料」進行Web個人化。
 
-1. 前往「帳 **戶設定」**。\
+1. 前往&#x200B;**帳戶設定**。\
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. 轉至「數 **據庫**」。\
+1. 轉至&#x200B;**Database**。\
    ![](assets/account-settings-dropdown-database.jpg)
 
-## 添加新人員欄位 {#adding-a-new-person-field}
+## 添加新人員欄位{#adding-a-new-person-field}
 
-1. 從下 **拉式清單中** ，選取要新增的欄位，以新增人員資料欄位至清單。
+1. 從下拉清單中選擇&#x200B;**要添加**&#x200B;的欄位，以將人員資料欄位添加到清單中。
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
    >    * 新欄位會新增至待定狀態，最多需要24小時才能啟動。
 
 
-## 刪除人員欄位 {#deleting-a-person-field}
+## 刪除人員欄位{#deleting-a-person-field}
 
-1. 按一下刪除表徵圖( ![—](assets/image2015-3-24-13-3a45-3a56.png))可從清單中刪除欄位。 按一 **下「是** 」以確認您要刪除欄位。
+1. 按一下刪除圖示(![—](assets/image2015-3-24-13-3a45-3a56.png))，從清單中移除欄位。 按一下&#x200B;**是**&#x200B;確認要刪除該欄位。
 
    ![](assets/web-engagement-settings-delete.jpg)
 
