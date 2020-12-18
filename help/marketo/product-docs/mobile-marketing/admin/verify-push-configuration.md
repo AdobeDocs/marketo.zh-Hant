@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 驗證推播設定 {#verify-push-configuration}
+# 驗證推送配置{#verify-push-configuration}
 
 >[!PREREQUISITES]
 >
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 驗證推播設定，以確保所有項目都同步良好。
 
-1. 按一下「管 **理員**」。
+1. 按一下&#x200B;**管理**。
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 選取「 **行動應用程式**」。
+1. 選擇&#x200B;**行動應用程式**。
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    確認所要的平台已通過驗證，然後按一下「關閉」。
 
-   ![](assets/image2015-4-22-18-3a52-3a38.png)   一切就緒！ 現在您可以開始傳送推播通 ![知(smile)](assets/smile.svg)
+   ![](assets/image2015-4-22-18-3a52-3a38.png)   一切就緒！現在您可以開始傳送推播通知![(smile)](assets/smile.svg)
 
 >[!NOTE]
 >
