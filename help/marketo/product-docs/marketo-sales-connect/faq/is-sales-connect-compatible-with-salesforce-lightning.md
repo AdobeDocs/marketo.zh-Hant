@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Sales Connect是否與Salesforce Lightning相容？ {#is-sales-connect-compatible-with-salesforce-lightning}
+# Sales Connect是否與Salesforce Lightning相容？{#is-sales-connect-compatible-with-salesforce-lightning}
 
 是的，Sales Connect與Salesforce Lightning相容。
 
-請按 [一下這裡](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) ，以取得安裝與成功指南。
+請[按一下這裡](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)以取得安裝與成功指南。
 
 >[!NOTE]
 >
