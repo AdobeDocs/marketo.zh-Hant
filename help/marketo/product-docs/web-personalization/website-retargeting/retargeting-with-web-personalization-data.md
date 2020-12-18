@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 使用網頁個人化資料重新鎖定目標 {#retargeting-with-web-personalization-data}
+# 使用Web個人化資料重新定位{#retargeting-with-web-personalization-data}
 
 >[!NOTE]
 >
 >**可用性**
 >
->「網站重新定位」現在位於「網頁個人化」方塊下。 如果您只購買「重新定位」，您會看到此圖格，並只啟用「重新定位」功能 **存取** 「網頁個人化」產品。 這可讓您存取帳戶設定、重新定位頁面、區段和其他追蹤頁面。
+>「網站重新定位」現在位於「網頁個人化」方塊下。 如果您只購買「重新定位」功能，您會看到此圖格，並存取僅啟用&#x200B;**「重新定位」功能的「網頁個人化」產品。**&#x200B;這可讓您存取帳戶設定、重新定位頁面、區段和其他追蹤頁面。
 
 再行銷的目標客戶是過去曾瀏覽過您網站的潛在客戶，他們會根據他們的身分和所做的事，以展示廣告為目標。 個人化的重新定位會根據產業、指名帳戶和已知人員資料，以相關廣告鎖定特定受眾。
 
@@ -54,9 +54,9 @@ Web個人化會傳送下列資料至再行銷平台，以建立受眾並執行�
  </tbody> 
 </table>
 
-## 再行銷設定 {#remarketing-configuration}
+## 重新行銷設定{#remarketing-configuration}
 
-1. 前往「重新 **定位」**。
+1. 前往&#x200B;**重新定位**。
 
    ![](assets/one.png)
 
@@ -75,15 +75,15 @@ Web個人化會傳送下列資料至再行銷平台，以建立受眾並執行�
 
    ![](assets/two.png)
 
-1. 啟動Facebook的設定。 按一下並展開Facebookaccordion，按一下**On **，將個別的「活動」和資料傳送至Facebook Audience Manager。 按一下 **儲存**。
+1. 啟動Facebook的設定。 按一下並展開Facebookaccordion，按一下**On **，將個別的「活動」和資料傳送至Facebook Audience Manager。 按一下&#x200B;**保存**。
 
    >[!NOTE]
    >
-   >您必須先安裝 [Facebook自訂對象](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Pix，才能使用此功能。
+   >您必須安裝[Facebook自訂對象像素](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)，才能使用此功能。
 
    ![](assets/three.png)
 
-## 建立細分的受眾 {#creating-segmented-audience}
+## 建立區段對象{#creating-segmented-audience}
 
 「區隔對象」可讓您選取現有的「區隔」作為對象，以用於重新定位促銷活動。 例如，選取「已知人員」區段。
 
@@ -91,7 +91,7 @@ Web個人化會傳送下列資料至再行銷平台，以建立受眾並執行�
 >
 >您不需要針對已在網域設定中傳送的產業或其他資料建立分段對象。 最好根據已知人員資料，針對區段使用區段對象。
 
-1. 按一 **下「建立區隔對象**」。
+1. 按一下「建立區段對象&#x200B;**」。**
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
@@ -99,7 +99,7 @@ Web個人化會傳送下列資料至再行銷平台，以建立受眾並執行�
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. 按一 **下儲存**。
+1. 按一下&#x200B;**SAVE**。
 
    您現在已完成「網頁個人化」中的「重新定位設定」、登入您的重新定位平台，並根據此資料建立您的受眾，以及設定您的重新定位廣告促銷活動。
 
