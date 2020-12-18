@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 人員詳細資訊視圖 {#person-detail-view}
+# 人員詳細資訊視圖{#person-detail-view}
 
 人員詳細資訊視圖提供了MSC帳戶中每個人員的詳細資訊。
 
-## 如何存取 {#how-to-access}
+## 如何訪問{#how-to-access}
 
-1. 要訪問人員詳細資訊視圖，請按一下「人 **員** 」頁籤。
+1. 要訪問人員詳細資訊視圖，請按一下&#x200B;**People**&#x200B;頁籤。
 
    ![](assets/people-tab.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >幾乎在任何地方，您都可以按一下人名，並進入其「人員詳細資料檢視」。
 
-## 關於標籤 {#about-tab}
+## 關於頁籤{#about-tab}
 
 包含該人員的所有聯絡資訊。
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 * 建立自訂附註
 
-## 參與標籤 {#engagement-tab}
+## 參與標籤{#engagement-tab}
 
 瞭解此人如何與您的外展互動。
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 * 瞭解您的個人如何參與行銷宣傳
 
-## 「歷史記錄」頁籤 {#history-tab}
+## 步驟記錄標籤{#history-tab}
 
 顯示您的推廣歷史。 包括電子郵件、宣傳和電話。
 
@@ -92,7 +92,7 @@ ht-degree: 0%
 
 * 看看你給這個人打的電話
 
-## 任務頁籤 {#tasks-tab}
+## 任務頁籤{#tasks-tab}
 
 管理與此人員關聯的任務。
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 * 按一下「類型」以啟動「呼叫時的銷售電話」、「電子郵件時撰寫電子郵件」、「電子郵件時撰寫Linkedin」和「自訂時自訂附註」。
 * 將任務標籤為完成
 
-## 銷售導航器標籤 {#sales-navigator-tab}
+## 銷售導航器頁籤{#sales-navigator-tab}
 
 使用LinkedIn的銷售導覽器檢視LinkedIn個人檔案資料。
 
