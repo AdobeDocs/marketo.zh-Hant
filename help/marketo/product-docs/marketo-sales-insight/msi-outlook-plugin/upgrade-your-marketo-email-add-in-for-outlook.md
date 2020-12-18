@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 升級您的行銷人員至Outlook電子郵件增益集 {#upgrade-your-marketo-email-add-in-for-outlook}
+# 升級您的Marketor Email Add-In for Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
 
 當Outlook的Marketo Email增益集有新版本時，請依照下列指示進行升級。
 
-## 下載安裝程式 {#download-installer}
+## 下載安裝程式{#download-installer}
 
 下載適合您Microsoft Outlook版本的安裝程式。
 
@@ -113,7 +113,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 升級 {#upgrade}
+## 升級{#upgrade}
 
 1. 執行安裝程式。
 
@@ -130,7 +130,7 @@ ht-degree: 0%
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. 您會注意到您的所有資訊都已預先填入。 只要按一下「 **下一步**」。
+1. 您會注意到您的所有資訊都已預先填入。 只要按一下&#x200B;**Next**&#x200B;即可。
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
@@ -142,11 +142,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. 按一 **下「下一步**」。
+1. 按一下&#x200B;**Next**。
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
-1. 安裝現已完成。 按一下 **關閉**。
+1. 安裝現已完成。 按一下&#x200B;**關閉**。
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 
