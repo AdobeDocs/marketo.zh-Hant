@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 排定網頁促銷活動的優先順序 {#prioritizing-web-campaigns}
+# 排定Web促銷活動的優先順序{#prioritizing-web-campaigns}
 
 設定「優先分數」，在兩個或兩個以上網頁促銷活動重疊時，排定您網頁促銷活動的優先順序。
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >若要更輕鬆找到您想要的Web促銷活動，請使用篩 [選功能](filter-web-campaigns.md)。
+   >若要更輕鬆找到您想要的Web促銷活動，請使用[篩選功能](filter-web-campaigns.md)。
 
 1. 在「編輯促銷活動」頁面中，設定「優先順序分數」（9999 =最高優先順序1 =最低優先順序）。
 
