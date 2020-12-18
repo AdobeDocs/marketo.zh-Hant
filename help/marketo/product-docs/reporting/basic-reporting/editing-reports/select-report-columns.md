@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 選擇報表欄 {#select-report-columns}
+# 選擇報表列{#select-report-columns}
 
 您可以選擇報表中包含和未包含的欄。
 
-1. 前往**Analytics **(或行銷活 **動**)區域。
+1. 前往**Analytics **（或&#x200B;**行銷活動**）區域。
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. 按一下「 **報表** 」標籤，然後按一下任何欄標題並選 **取「欄**」，然後選擇要包含的欄。
+1. 按一下&#x200B;**報表**&#x200B;標籤，然後按一下任何欄標題並選取&#x200B;**欄**，然後選擇要包含的欄。
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 
@@ -36,5 +36,5 @@ ht-degree: 0%
    >    * [對列排序報表](sort-report-on-columns.md)
 
 
-   利用報告完成更多工作！ 請參 [閱基本報告](http://docs.marketo.com/display/docs/basic+reporting)。
+   利用報告完成更多工作！ 請參閱[基本報告](http://docs.marketo.com/display/docs/basic+reporting)。
 
