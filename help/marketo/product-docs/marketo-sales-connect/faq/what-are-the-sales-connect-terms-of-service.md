@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Sales Connect服務條款為何？ {#what-are-the-sales-connect-terms-of-service}
+# Sales Connect服務條款為何？{#what-are-the-sales-connect-terms-of-service}
 
-Sales Connect服務條款可在此處找 [到](http://documents.marketo.com/toutapp/terms)。
+銷售連線服務條款位於[此處](http://documents.marketo.com/toutapp/terms)。
 
 >[!NOTE]
 >
