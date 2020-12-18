@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 啟用收入週期分析的自訂欄位同步 {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+# 啟用收入週期分析的自訂欄位同步{#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
 以下步驟將允許您利用RCA報告中的自定義欄位。
 
-1. 按一 **下管理**。
+1. 按一下&#x200B;**管理**。
 
    ![](assets/one.png)
 
-1. 按一 **下「收入週期分析**」，然 **後按一下「自訂欄位同步」**。
+1. 按一下「收入週期分析」，然後按一下「自訂欄位同步」。********
 
    ![](assets/two.png)
 
-1. 選擇您的 **欄位名稱**，然後按一下 **編輯同步選項**。
+1. 選擇&#x200B;**欄位名** ，然後按一下&#x200B;**編輯同步選項**。
 
    ![](assets/three.png)
 
-1. 在「同步狀態」下，選 **擇「啟用**」，然後單 **擊「保存」**。
+1. 在同步狀態下，選擇&#x200B;**啟用**，然後按一下&#x200B;**保存**。
 
    ![](assets/four.png)
 
