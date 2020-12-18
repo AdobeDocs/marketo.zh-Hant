@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 取消訂閱群組 {#unsubscribe-group}
+# 取消訂閱群組{#unsubscribe-group}
 
 在一個位置檢視並管理所有未訂閱的人員。
 
