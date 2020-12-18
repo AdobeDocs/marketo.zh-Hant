@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 收件者位置不正確 {#incorrect-recipient-location}
+# 收件者位置{#incorrect-recipient-location}不正確
 
 如果我們對收件者的位置有誤，則可能發生的情況有三種可能：
 
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 -如果您的電子郵件是由CC或BCC欄位中的某人轉寄或開啟，我們會嘗試正確顯示這些人的位置。
 
-總的來說，我們會根據IP追蹤盡可能精確地確定位置，但很遺憾 `isn't an exact science`。
+總的來說，我們會根據IP追蹤盡可能精確地確定位置，但很遺憾，它`isn't an exact science`。
