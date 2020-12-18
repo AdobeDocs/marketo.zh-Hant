@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 對人員的大量動作 {#bulk-actions-on-people}
+# 人員上的批量操作{#bulk-actions-on-people}
 
 您可以大量處理您的聯絡人，以節省時間。
 
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 ![](assets/one-3.png)
 
-## 新增人員至群組 {#add-people-to-group}
+## 新增人員至群組{#add-people-to-group}
 
 同時新增多個人至群組。
 
 ![](assets/add-to-group.png)
 
-## 來源 {#source}
+## 源{#source}
 
 我們會自動為進入資料庫的每個聯繫人分配一個源。 使用此步驟更新該源。
 
@@ -35,21 +35,21 @@ ht-degree: 0%
 >
 >無法自訂來源。
 
-## 授權 {#authorization}
+## 授權{#authorization}
 
-遵循 [GDPR](http://eugdpr.org/)，使用授權來指出您如何獲得與這些聯絡人接觸的權限。
+遵循[GDPR](http://eugdpr.org/)，使用授權來指出您如何獲得與這些聯絡人接觸的權限。
 
 ![](assets/authorization.png)
 
-## 取消訂閱 {#unsubscribe}
+## 取消訂閱{#unsubscribe}
 
 對不想再收到您來信的聯絡人執行大量取消訂閱。
 
 ![](assets/unsubscribe.png)
 
-## 刪除 {#delete}
+## 刪除{#delete}
 
-大量刪除聯繫人。 您可在此找到完整 [步驟](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts)。
+大量刪除聯繫人。 完整步驟可在[這裡](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts)找到。
 
 ![](assets/delete.png)
 
