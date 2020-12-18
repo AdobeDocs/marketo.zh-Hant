@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 在Salesforce中安裝及設定Marketo Sales Insight1 {#install-and-configure-marketo-sales-insight-in-salesforce}
+# 在Salesforce1 {#install-and-configure-marketo-sales-insight-in-salesforce}中安裝及設定Marketo Sales Insight
 
 >[!NOTE]
 >
 >**提醒**
 >
->現有客戶，請先 [升級您的MSI套件](http://docs.marketo.com/x/_gU6Ag) ，再繼續！
+>現有客戶，請[升級您的MSI套件](http://docs.marketo.com/x/_gU6Ag)，然後再繼續！
 
 >[!PREREQUISITES]
 >
@@ -43,31 +43,31 @@ ht-degree: 0%
 >Salesforce1中的Marketo Sales Insight包括：最佳押注、潛在客戶宣傳、有趣時刻，以及新增至行銷活動。
 
 1. 啟用Salesforce1行動應用程式
-1. 按一 **下「設定** 」，然 **後按一下「Mobile Administration」**。
+1. 按一下「**Setup**」，然後按一下「行動管理」。****
 
    ![](assets/image2015-4-21-15-3a29-3a22.png)
 
-1. 按一下 **Salesforce1**。
+1. 按一下&#x200B;**Salesforce1**。
 
    ![](assets/image2015-4-21-15-3a30-3a51.png)
 
-1. 按一下「 **Salesforce1設定」**。
+1. 按一下「**Salesforce1設定**」。
 
    ![](assets/image2015-4-21-15-3a32-3a21.png)
 
-1. 按一下「 **啟用Salesforce1行動瀏覽器應用程式」**。
+1. 按一下「**啟用Salesforce1行動瀏覽器應用程式**」。
 
    ![](assets/image2015-4-21-15-3a34-3a27.png)
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2015-4-21-15-3a42-3a48.png)
 
-1. 選擇「 **行動管理**」。
+1. 選擇&#x200B;**行動管理**。
 
    ![](assets/image2015-4-22-11-3a10-3a14.png)
 
-1. 按一下「 **管理行動導覽功能表」**。
+1. 按一下「管理行動導覽功能表&#x200B;**」。**
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
@@ -75,20 +75,20 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-14-3a55-3a37.png)
 
-1. 選取 **Marketo**，將它移至所需區域，然後按一下「儲 **存」**。
+1. 選擇&#x200B;**Marketo**，將它移至所需區域**向上**，然後按一下「儲存&#x200B;**」。**
 
    ![](assets/image2015-4-22-17-3a20-3a56.png)
 
 1. 隱藏過期的行銷工具自訂物件
-1. 按一 **下設定**。
+1. 按一下&#x200B;**Setup**。
 
    ![](assets/image2015-4-22-15-3a13-3a48.png)
 
-1. 選擇 **管理用戶**。
+1. 選擇&#x200B;**管理用戶**。
 
    ![](assets/image2015-5-5-11-3a13-3a45.png)
 
-1. 選擇「 **配置檔案**」。
+1. 選擇&#x200B;**配置檔案**。
 
    ![](assets/image2015-5-5-11-3a15-3a21.png)
 
@@ -96,13 +96,13 @@ ht-degree: 0%
 
    ![](assets/image2015-5-5-13-3a51-3a36.png)
 
-1. 在「標 **簽設定**」下方，選 *取第***一個Marketto**。
+1. 在&#x200B;**標籤設定**&#x200B;下，選取&#x200B;*first***Marketo**。
 
    ** ![](assets/image2015-5-5-13-3a55-3a36.png)
 
    **
 
-1. 選擇「 **標籤隱藏**」。
+1. 選擇&#x200B;**標籤隱藏**。
 
    ** ![](assets/image2015-5-5-14-3a2-3a29.png)
 
@@ -117,24 +117,24 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a14-3a49.png)
 
-1. 按一 **下「自訂我的標籤**」。
+1. 按一下&#x200B;**自定義我的頁籤**。
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
-1. 選取 **Marketto** 和**將它新增至選取的標籤。
+1. 選擇&#x200B;**Marketo**&#x200B;和**將它新增至「選取的標籤」。
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
-1. 選取 **Marketo**，將它移至所需區域，然後按一下「儲 **存」**。
+1. 選擇&#x200B;**Marketo**，將它移至所需區域**向上**，然後按一下「儲存&#x200B;**」。**
 
    ![](assets/image2015-4-22-18-3a29-3a47.png)
 
 1. 自訂頁面版面
-1. 按一 **下設定**。
+1. 按一下&#x200B;**Setup**。
 
    ![](assets/image2015-4-22-17-3a26-3a56.png)
 
-1. 按一 **下「設定**」，輸入「 **頁面版面」**，然後按一下「銷售線 **索」下方的「頁面版面** 」。
+1. 按一下「Setup **」，鍵入「Page Layouts**」，然後按一下「Leads」（銷售線索）下的「Page Layouts **」。******
 
    >[!NOTE]
    >
@@ -142,19 +142,19 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a34-3a33.png)
 
-1. 按一 **下「編輯** 」以變更銷售線索配置。
+1. 按一下&#x200B;**編輯**&#x200B;對銷售線索佈局進行更改。
 
    ![](assets/image2015-4-22-17-3a44-3a0.png)
 
-1. 按一下「**Visualforce頁面」 **，然後拖曳** 「Lead Mobile **」至「行動卡」區段。
+1. 按一下「**Visualforce頁面&#x200B;**」，然後拖曳**「Lead Mobile **」至「行動卡」區段。
 
    ![](assets/image2015-4-22-17-3a49-3a37.png)
 
-1. 將「Height（高度）」更改為66 ，然後按一下「 **OK（確定）**」。
+1. 將「Height（高度）」更改為66 ，然後按一下「OK（確定）」 ****。
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
-1. 按一 **下「欄位** 」並拖曳**Add to Marketo Campaign至 **** Marketo Sales Insight **區段。
+1. 按一下「**欄位**」，並將「**新增至Marketo促銷活動&#x200B;**」拖曳至「** Marketo Sales Insight **」區段。
 
    ![](assets/configure-step-6.png)
 
@@ -162,7 +162,7 @@ ht-degree: 0%
    >
    >在「快速尋找」中輸入「新增至」，讓「新增至行銷人員促銷活動」更容易找到。
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 
