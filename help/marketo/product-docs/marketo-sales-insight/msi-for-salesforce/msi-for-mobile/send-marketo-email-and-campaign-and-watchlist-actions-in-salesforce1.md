@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 在Salesforce中傳送Marketon至電子郵件和促銷活動與監看清單動作1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# 在Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}中傳送Marketon電子郵件和促銷活動與監看清單動作
 
-1. 前往Salesforce1的「銷售線索詳細資料」區域，然後按一下「相 **關** 」標籤。
+1. 轉至Salesforce1的「銷售線索詳細資訊」區域，然後按一下&#x200B;**Related**&#x200B;頁籤。
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >哪些智慧型促銷活動出現？ 具有「請求促銷活動」觸發程式的。 瞭解如何使用「請求促 [銷活動」設定觸發促銷活動](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)。
+   >哪些智慧型促銷活動出現？ 具有「請求促銷活動」觸發程式的。 瞭解如何使用「請求促銷活動](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)」來設定[觸發促銷活動。
 
 酷，現在您的銷售人員可以積極參與行銷工作。
 
