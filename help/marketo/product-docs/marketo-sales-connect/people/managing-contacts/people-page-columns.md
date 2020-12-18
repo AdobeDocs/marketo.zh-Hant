@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 人員頁面欄 {#people-page-columns}
+# 人員頁面欄{#people-page-columns}
 
 您可以選擇顯示哪些欄，以自訂您看到的連絡資訊。
 
-## 如何選擇列 {#how-to-select-columns}
+## 如何選擇列{#how-to-select-columns}
 
 1. 在「人員」頁面中，按一下「清單設定」圖示。
 
    ![](assets/one-5.png)
 
-1. 捲動並選取您想要的欄(如果您想要每欄，也 **可以按一下** 「全選」)。 完成時，從清單中按一下。
+1. 捲動並選取您想要的欄（如果您想要每欄，也可以按一下「全選&#x200B;**」）。**&#x200B;完成時，從清單中按一下。
 
    ![](assets/two-4.png)
 
-## 欄說明 {#column-descriptions}
+## 欄說明{#column-descriptions}
 
 <table> 
  <colgroup> 
