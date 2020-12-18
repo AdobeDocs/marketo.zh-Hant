@@ -15,4 +15,4 @@ ht-degree: 0%
 
 如果您沒有看到Salesforce的呼叫記錄，可能是因為我們無法在Salesforce中找到銷售線索／連絡人。
 
-若要呼叫登入正確的銷售機會／連絡人，Sales Connect必須有Salesforce ID。 將Salesforce ID新增至Sales Connect的最佳方式是使用我們的「推送至 [Sales Connect](http://docs.marketo.com/x/XQDb) 」功能。 當您使用推送至Sales Connect時，我們會在連絡人移轉中包含Salesforce ID。
+若要呼叫登入正確的銷售機會／連絡人，Sales Connect必須有Salesforce ID。 將Salesforce ID新增至Sales Connect的最佳方式是使用我們的[推送至Sales Connect](http://docs.marketo.com/x/XQDb)功能。 當您使用推送至Sales Connect時，我們會在連絡人移轉中包含Salesforce ID。
