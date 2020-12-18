@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 動態欄位辭彙表 {#dynamic-fields-glossary}
+# 動態欄位辭彙表{#dynamic-fields-glossary}
 
-在Sales Connect中建立範本時，我們一律建議使用 **MSE Dynamic Fields按鈕來整合動態欄位** 。
+在Sales Connect中建立模板時，我們始終建議使用&#x200B;**MSE Dynamic Fields**&#x200B;按鈕整合動態欄位。
 
-此工具可讓您 `auto-personalize your email` 節省大量時間 `pulling information from the People page`。
+此工具用於`auto-personalize your email`，並且可以通過`pulling information from the People page`節省大量時間。
 
 | 動態欄位 | 電子郵件中顯示的範例 |
 |---|---|
@@ -30,12 +30,12 @@ ht-degree: 0%
 
 **請注意**:
 
-* 如果某個聯繫人 `information is entered incorrectly` 在「人員」頁面中有或缺失，請將其放入 `will not pull over correctly` 您的模板中。
+* 如果聯繫人的`information is entered incorrectly`或在「人員」頁中缺失，則該聯繫人`will not pull over correctly`將放入模板中。
 
-* 區別 `{{company}}` 在於， `{{company_friendly}}` 您的聯 `{{company_friendly}}``remove any formal title`絡人的公司名稱會顯示Inc., LLC等。
-* 使用時， `{{company_friendly}}`請務必在聯絡資訊中以逗號分隔Inc.或Co.。 Sales Connect在提取值時就知道要刪除什麼。
+* `{{company}}`和`{{company_friendly}}`之間的區別是，`{{company_friendly}}`會從您聯絡人的公司名稱中`remove any formal title`，例如Inc., LLC.等。
+* 使用`{{company_friendly}}`時，請務必在聯絡資訊中以逗號分隔Inc.或Co.。 Sales Connect在提取值時就知道要刪除什麼。
 
 >[!TIP]
 >
->您可以針對想要自動 [提取至電子郵件中的任何項目](http://docs.marketo.com/x/fADb) ，建立自訂的動態欄位
+>您可以針對想要自動提取至電子郵件中的任何項目，建立您自己的[自訂動態欄位](http://docs.marketo.com/x/fADb)
 
