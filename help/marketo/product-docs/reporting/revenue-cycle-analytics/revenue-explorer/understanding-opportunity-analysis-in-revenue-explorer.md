@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 瞭解Revenue Explorer中的Opportunity Analysis {#understanding-opportunity-analysis-in-revenue-explorer}
+# 瞭解收入瀏覽器{#understanding-opportunity-analysis-in-revenue-explorer}中的Opportunity Analysis
 
 Revenue Explorer中的Opportunity Analysis允許您更深入地檢查您的機會。 根據任何銷售線索／公司屬性（如銷售線索來源、行業或地理位置）切割資料。 根據名稱、階段或概率分析機會的建立和關閉。 瞭解對管道的行銷貢獻。
 
-## 範例分析 {#example-analysis}
+## 範例分析{#example-analysis}
 
 以下是您可以在「業務機會分析」區域建立的一些報告。
 
@@ -53,7 +53,7 @@ Revenue Explorer中的Opportunity Analysis允許您更深入地檢查您的機�
 
    ![](assets/image2015-7-21-10-3a35-3a45.png)
 
-## 機會分析維度與措施 {#opportunity-analysis-dimensions-and-measures}
+## 機會分析維度和度量{#opportunity-analysis-dimensions-and-measures}
 
 Opportunity Analysis使您能夠訪問所有與銷售線索、公司和業務機會相關的維度以及與業務機會相關的措施。 使用這些機會分析維度和度量來回答您報表中的特定問題。
 
