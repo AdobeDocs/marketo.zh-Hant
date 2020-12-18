@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 如何共用群組 {#how-to-share-a-group}
+# 如何共用群組{#how-to-share-a-group}
 
 在Sales Connect中，與團隊共用一組潛在客戶或聯絡人非常簡單。
 
-1. 前往「人 **員** 」標籤。
+1. 前往&#x200B;**People**&#x200B;標籤。
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 按一下**「群組動作」**按鈕，並選取「共 **用群組」**。
+1. 按一下** 「組操作」**按鈕，然後選擇&#x200B;**「共用組」**。
 
    ![](assets/three-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. 按一 **下共用**。
+1. 按一下&#x200B;**共用**。
 
    ![](assets/five-1.png)
 
