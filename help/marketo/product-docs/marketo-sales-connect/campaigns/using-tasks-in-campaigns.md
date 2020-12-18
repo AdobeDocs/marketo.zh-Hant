@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在促銷活動中使用工作 {#using-tasks-in-campaigns}
+# 在促銷活動中使用任務{#using-tasks-in-campaigns}
 
 將促銷活動傳送至連絡人時，工作是強大的工具，尤其是當您的銷售程式是多通道／觸控時。
 
