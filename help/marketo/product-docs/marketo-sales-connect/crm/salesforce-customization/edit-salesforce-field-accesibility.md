@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 編輯Salesforce欄位可存取性 {#edit-salesforce-field-accesibility}
+# 編輯Salesforce欄位可存取性{#edit-salesforce-field-accesibility}
 
 如果您未看到電子郵件活動記錄檔傳送至Salesforce，可能是因為您團隊的「欄位協助功能」受到限制。
 
