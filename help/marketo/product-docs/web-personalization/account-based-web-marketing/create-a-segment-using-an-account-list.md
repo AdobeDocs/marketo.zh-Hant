@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用帳戶清單建立區段 {#create-a-segment-using-an-account-list}
+# 使用帳戶清單{#create-a-segment-using-an-account-list}建立區段
 
 以下說明如何使用帳戶清單建立區段。
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
 
 
-1. 前往區 **段**。
+1. 前往&#x200B;**區段**。
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. 按一下 **建立新**。
+1. 按一下&#x200B;**新建**。
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. 輸入區段的名稱。 從「Firmographics」區 **段拖放** 「帳戶 **清單** 」。
+1. 輸入區段的名稱。 從&#x200B;**Firmographics**&#x200B;區段拖放&#x200B;**帳戶清單**。
 
    ![](assets/set-segment-hands.jpg)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >帳戶清單會從ABM同步到Web個人化，以便用於區段。 從下拉式清單中選取它們。 同步最多需要5分鐘。 只有在「帳戶清單」中有一或多個「已命名帳戶」時，才會同步。
 
-1. 按一 **下「儲存**」，或按一 **下「儲存並定義促銷活動** 」，前往「促銷活動」頁面。\
+1. 按一下&#x200B;**儲存**，或按一下&#x200B;**儲存並定義促銷活動**&#x200B;以前往「促銷活動」頁面。\
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
 恭喜！ 您現在已設定以帳戶清單為目標的區段。
