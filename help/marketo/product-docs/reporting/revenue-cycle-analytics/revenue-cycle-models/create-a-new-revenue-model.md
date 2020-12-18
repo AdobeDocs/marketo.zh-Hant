@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 建立新的收入模型 {#create-a-new-revenue-model}
+# 建立新的收入模型{#create-a-new-revenue-model}
 
-1. 若要建立新的收入週期模型，請按一下「我的行銷 **人員** 」首頁畫面中的「分析」按鈕。
+1. 若要建立新的收入週期模型，請按一下「我的行銷人員」首頁畫面中的&#x200B;**Analytics**&#x200B;按鈕。
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. 在「 **Analytics** 」標籤中，按一 **下「新增** 」並選 **取「新增收入週期模型」**。
+1. 在&#x200B;**Analytics**&#x200B;標籤中，按一下&#x200B;**New**，然後選取&#x200B;**New Revenue Cycle Model**。
 
    ![](assets/image2015-4-27-11-3a55-3a51.png)
 
-1. 此時將 **出現「新建收入週期模型** 」(New Revenue Cycle Model)窗口。 輸入名稱，然後按一下「 **建立**」。
+1. 此時會出現「新增收入週期模型」(**New Revenue Cycle Model**)模式窗口。 輸入名稱，然後按一下&#x200B;**建立**。
 
    ![](assets/image2015-4-27-11-3a57-3a59.png)
 
-1. 在模 **型的主視圖中按一下「編輯草稿** 」(Edit Draft)。
+1. 在模型的主視圖中按一下「編輯草稿」(Edit Draft)**。**
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -37,5 +37,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->進一步瞭解 [使用收入模型庫存階段](using-revenue-model-inventory-stages.md)。
+>進一步瞭解[使用收入模型庫存階段](using-revenue-model-inventory-stages.md)。
 
