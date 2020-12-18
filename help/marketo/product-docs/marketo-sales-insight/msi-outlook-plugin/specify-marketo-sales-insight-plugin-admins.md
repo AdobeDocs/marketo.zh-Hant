@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 指定Marketo Sales Insight外掛程式管理員 {#specify-marketo-sales-insight-plugin-admins}
+# 指定Marketo Sales Insight外掛程式管理員{#specify-marketo-sales-insight-plugin-admins}
 
 當您邀請使用者在Outlook上設定MSI時，您可以指定要在傳送給使用者的電子郵件通知中顯示哪些連絡人。
 
-1. 在My Marketto中，按一下「管 **理」**，然後按&#x200B;**「銷售分析」。**
+1. 在My Marketo中，按一下「**管理**」，然後按一下「銷售分析」。****
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. 按一下「 **電子郵件增益集** 」標籤。
+1. 按一下&#x200B;**電子郵件插件**&#x200B;頁籤。
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. 按一 **下「指定外掛程式連絡人**」。
+1. 按一下&#x200B;**指定插件聯繫人**。
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-25-11-3a21-3a38.png)
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2016-8-25-11-3a17-3a7.png)
 
