@@ -11,10 +11,10 @@ ht-degree: 0%
 ---
 
 
-# 前往草稿的排程電子郵件 {#scheduled-emails-going-to-drafts}
+# 前往草稿的排程電子郵件{#scheduled-emails-going-to-drafts}
 
 當您在Gmail中排程電子郵件時，會將您的電子郵件儲存至「草稿」檔案夾，直到傳送為止。 沒什麼問題，但由於我們與Gmail的整合，這是對排程電子郵件的限制。
 
-在排程時間後，電子郵件會從「草稿」移至「已傳送」。 您可以看到電子郵件已排程在 [Web應用程式中](http://toutapp.com/login)，而且應該有標籤「Tout Scheduled Email」。
+在排程時間後，電子郵件會從「草稿」移至「已傳送」。 您可以看到電子郵件已排程在[Web應用程式](http://toutapp.com/login)中，而且應該有標籤「Tout Scheduled Email」。
 
-或者，您隨時都可以從Web應 [用程式排程](http://toutapp.com/login)，而且電子郵件不會顯示在您的Gmail草稿資料夾中。
+或者，您隨時都可以從[網頁應用程式](http://toutapp.com/login)排程，而且電子郵件不會顯示在您的Gmail Drafts資料夾中。
