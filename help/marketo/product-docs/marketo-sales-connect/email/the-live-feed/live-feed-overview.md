@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 即時動態消息概述 {#live-feed-overview}
+# 即時動態消息概述{#live-feed-overview}
 
 即時動態消息是一個浮動視窗，可從網路應用程式或Gmail外掛程式啟動，並即時檢視潛在客戶參與情況。
 
-## 參與標籤 {#engagement-tab}
+## 參與標籤{#engagement-tab}
 
 ![](assets/engagement.jpg)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 
 
-## 任務頁籤 {#tasks-tab}
+## 任務頁籤{#tasks-tab}
 
 ![](assets/task.jpg)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 建立新工作或管理未結工作。
 
-依今天、明天、今 *天* 、明天或接下來7天篩選。
+請依今天、明天、今天&#x200B;*和*&#x200B;明天或之後7天篩選。
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 使用快速動作按鈕快速進行呼叫、傳送電子郵件或導覽至個人的Linkedin描述檔。
 
-## 目標標籤 {#target-tab}
+## 目標頁籤{#target-tab}
 
 ![](assets/target.jpg)
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 * 我們給前50個領先者展示。
 * 您只會在Salesforce中看到指派給您的人員。
 
-## 圖示辭彙表 {#icon-glossary}
+## 表徵圖辭彙表{#icon-glossary}
 
 <table> 
  <colgroup> 
@@ -75,28 +75,28 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>有人檢視了您的電子郵件</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>有人點選了您電子郵件中的連結</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>有人回覆您的電子郵件</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td colspan="1">列在「有趣時刻」下的任何通知，包括電子郵件、網頁和里程碑</td> 
   </tr> 
