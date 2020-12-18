@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# 如何從Gmail卸載Sales Connect {#how-to-uninstall-sales-connect-from-gmail}
+# 如何從Gmail {#how-to-uninstall-sales-connect-from-gmail}卸載Sales Connect
 
 Gmail專用的Sales Connect外掛程式可透過瀏覽器擴充功能執行。 您必須移除它，才能刪除Gmail中的Sales Connect。
 
-1. 在 **Chrome**，按一下瀏覽器視窗右上角的三行。
-1. 按一 **下更多工具**。
-1. 按一下「 **擴充功能**」。
-1. 按一下「ToutApp for Chrome」旁 **的垃圾桶圖示**。
+1. 在&#x200B;**Chrome**&#x200B;中，按一下瀏覽器視窗右上角的三行。
+1. 按一下&#x200B;**更多工具**。
+1. 按一下&#x200B;**擴展**。
+1. 按一下&#x200B;**ToutApp for Chrome**&#x200B;旁的垃圾桶圖示。
 
