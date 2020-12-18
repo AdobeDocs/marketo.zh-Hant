@@ -11,8 +11,8 @@ ht-degree: 0%
 ---
 
 
-# Gmail未進入銷售連線簽名 {#gmail-not-pulling-in-sales-connect-signature}
+# Gmail無法提取銷售連接簽名{#gmail-not-pulling-in-sales-connect-signature}
 
-我們實際上在Gmail中使用您的Gmail簽名，而不是插入您的 [Sales Connect簽名](http://toutapp.com/next#settings)。
+我們實際上會在Gmail中使用您的Gmail簽名，而不是插入您的[Sales Connect簽名](http://toutapp.com/next#settings)。
 
-你可以在Gmail里編輯 [簽名](http://mail.google.com/mail/u/0/#settings/general)。
+您可以在[這裡](http://mail.google.com/mail/u/0/#settings/general)的Gmail中編輯簽名。
