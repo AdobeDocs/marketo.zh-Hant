@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Salesforce中的Marketo Sales Insight「設定」標籤 {#marketo-sales-insight-configuration-tab-in-salesforce}
+# Salesforce {#marketo-sales-insight-configuration-tab-in-salesforce}中的Marketo Sales Insight設定標籤
 
-## 操作設定 {#operational-settings}
+## 操作設定{#operational-settings}
 
 您需要進行此設定，才能開始使用SFDC中的Sales Insight。
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 * Soap和Rest API有個別的逾時，您可以根據組織的需求加以設定。 允許的最大時間為120秒
 * 停用前瞻分析控制面板：您可以移除Rest API認證，而且只能使用Soap API。 這麼做會停用所有MSI視覺強制面板中的「前瞻分析控制面板」標籤
 
-## MSI配置 {#msi-configuration}
+## MSI配置{#msi-configuration}
 
 配置適用於所有MSI用戶，並且不特定於配置檔案。
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 * 活動（「有趣的時刻」、「網頁活動」、「電子郵件」）預設為1000。 電子郵件促銷活動和事件預設為200
 * 如果您發現組織上的逾時問題，可以降低
 
-## 重設Marketto Sales Insight {#reset-marketo-sales-insight}
+## 重設Marketon Sales Insight {#reset-marketo-sales-insight}
 
 選擇這樣做將擦除SFDC中的所有配置，並且無法恢復這些配置。 您必須重新設定所有項目。
 
