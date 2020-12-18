@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 促銷活動已結束 {#campaign-has-ended}
+# 促銷活動已結束{#campaign-has-ended}
 
 如果您在「失敗的傳送」資料夾中看到電子郵件說「促銷活動已結束」，表示此特定電子郵件是促銷活動中的排程電子郵件。
 
-## 失敗的可能原因 {#possible-reasons-it-failed}
+## 失敗的可能原因{#possible-reasons-it-failed}
 
 * 被拒收前的電子郵件
 * 連絡人回覆並結束促銷活動
