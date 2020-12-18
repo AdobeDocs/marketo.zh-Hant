@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 建立收入總管報表 {#create-a-revenue-explorer-report}
+# 建立收入總管報表{#create-a-revenue-explorer-report}
 
 「收入總管」報表可讓您追蹤行銷活動的投資報酬率。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. 按一下「 **建立新** 」，然後選 **取「報表**」。
+1. 按一下&#x200B;**新建** ，然後選擇&#x200B;**報告**。
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 
