@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 如何允許在我的伺服器上連接銷售資料？ {#how-can-i-allowlist-sales-connect-on-my-server}
+# 如何允許在我的伺服器上連接銷售資料？{#how-can-i-allowlist-sales-connect-on-my-server}
 
 很遺憾，無法提供一個靜態IP地址。 Sales Connect已部署在雲端，並運用超過200台伺服器來處理電子郵件和使用者要求。 而且，提供非常廣闊的範圍對您來說，將不再安全。
 
