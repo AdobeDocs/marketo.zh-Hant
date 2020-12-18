@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在Salesforce Lightning中使用大量動作 {#using-bulk-actions-in-salesforce-lightning}
+# 在Salesforce Lightning中使用大量動作{#using-bulk-actions-in-salesforce-lightning}
 
 瞭解如何執行大量動作，例如新增銷售機會至促銷活動、傳送大量電子郵件或將銷售機會從Salesforce推送至Sales Connect。
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 >
 >在執行下列步驟之前，請確定您已登入您的Marketo Sales Connect帳戶。
 
-## 大量電子郵件 {#bulk-email}
+## 大量電子郵件{#bulk-email}
 
-1. 在Salesforce中，按一下「 **銷售線索** 」標籤，然後選擇所需銷售線索的清單。
+1. 在Salesforce中，按一下&#x200B;**Leads**&#x200B;標籤，然後選擇所需銷售機會的清單。
 
    ![](assets/one-6.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >如果您已經在要使用的清單中，則必須從下拉式清單中選擇該清單，以確保顯示MSC批量操作按鈕。 這是無法變更的Salesforce行為。
 
-1. 按一下箭頭下拉式清單（位於螢幕最右側），然後選擇「 **Email with MSC**」。
+1. 按一下箭頭下拉式清單（位於螢幕最右側），然後選擇「**使用MSC**&#x200B;發送電子郵件」。
 
    ![](assets/two-6.png)
 
@@ -46,31 +46,31 @@ ht-degree: 0%
 
    ![](assets/three-5.png)
 
-## 新增至促銷活動 {#add-to-campaign}
+## 新增至促銷活動{#add-to-campaign}
 
-1. 在Salesforce中，按一下「 **銷售線索** 」標籤，然後選擇所需銷售線索的清單。
+1. 在Salesforce中，按一下&#x200B;**Leads**&#x200B;標籤，然後選擇所需銷售機會的清單。
 
    ![](assets/four-4.png)
 
-1. 按一下箭頭下拉式清單（位於畫面最右側），然後選取「新 **增至MSC促銷活動」**。
+1. 按一下箭頭下拉式清單（位於畫面最右側），然後選取「新增至MSC Campaign **」。**
 
    ![](assets/five-4.png)
 
-1. 將會出現「將人員新增至您的促銷活動」快顯視窗。 按一 **下「下一** 步」並瀏覽典型的促銷活動流程，以觸發MSC促銷活動。
+1. 將會出現「將人員新增至您的促銷活動」快顯視窗。 按一下「下一步」並瀏覽典型的促銷活動流程，以觸發MSC促銷活動。****
 
    ![](assets/six-1.png)
 
-## 推動Marketo Sales Connect {#push-to-marketo-sales-connect}
+## 推送至Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. 在Salesforce中，按一下「 **銷售線索** 」標籤，然後選擇所需銷售線索的清單。
+1. 在Salesforce中，按一下&#x200B;**Leads**&#x200B;標籤，然後選擇所需銷售機會的清單。
 
    ![](assets/seven-2.png)
 
-1. 按一下箭頭下拉式選單（位於螢幕最右側），然後選擇「 **Push to MSC(推送至MSC**)」。
+1. 按一下箭頭下拉式選單（位於螢幕最右側），然後選擇「Push to MSC **（推送至MSC&lt;a1/>）」。**
 
    ![](assets/eight-2.png)
 
-1. 將會開啟名為「Salesforce Bridge」的新標籤。 按一下「繼 **續到組→」按** 鈕。
+1. 將會開啟名為「Salesforce Bridge」的新標籤。 按一下&#x200B;**繼續到組→**&#x200B;按鈕。
 
    ![](assets/nine-2.png)
 
