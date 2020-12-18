@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# Facebook中的個人化再行銷 {#personalized-remarketing-in-facebook}
+# Facebook中的個人化再行銷{#personalized-remarketing-in-facebook}
 
 個人化再行銷可讓您使用RTP資料和Facebook再行銷的強大功能，與使用者重新互動。
 
 >[!PREREQUISITES]
 >
->* 使用網頁個 [人化資料設定完成重新定位](retargeting-with-web-personalization-data.md)
->* 檢視自訂 [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) 受眾和再行銷的 [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook檔案
+>* 完成[使用Web個人化資料重新定位](retargeting-with-web-personalization-data.md)設定
+>* 檢視「自訂對象」和「再行銷」的[](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)[Facebook檔案](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)
 
 >
 
 
 
-## 在Facebook中建立對象 {#creating-an-audience-in-facebook}
+## 在Facebook中建立對象{#creating-an-audience-in-facebook}
 
-1. 在Facebook中，前往「廣告管理 [員」中的](https://www.facebook.com/ads/audience_manager) 「對象」標籤。
-1. 按一 **下「工具** 」並選 **取「對象」**。
+1. 在Facebook中，前往「廣告管理員」中的「對象」標籤[。](https://www.facebook.com/ads/audience_manager)
+1. 按一下「工具」**並選取「對象」**。****
 
    ![](assets/one-1.png)
 
-1. 按一 **下「建立自訂對象」**。
+1. 按一下「建立自訂對象」。****
 
    ![](assets/two-1.png)
 
-1. 選取 **網站流量**。
+1. 選擇&#x200B;**網站流量**。
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
-1. 在「包含」清單中，選擇「 **事件」**。
+1. 在「包括」清單中，選擇&#x200B;**Event**。
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. 在此範例中，選取「產業」以包含 **教育**。 輸入 **教育**，並 **編輯「最近** 180天」。 輸入對象名稱： **教育產業**。 按一 **下「建立對象**」。
+1. 在此範例中，選取「產業」以包含&#x200B;**Education**。 輸入&#x200B;**教育**，並編輯&#x200B;**在最近**&#x200B;中為180天。 輸入對象名稱：**教育產業**。 按一下「建立對象」。****
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-16-3a59-3a2.png)
 
-## Facebook中的RTP資料點 {#rtp-data-points-in-facebook}
+## Facebook中的RTP資料點{#rtp-data-points-in-facebook}
 
 <table> 
  <tbody> 
@@ -104,15 +104,15 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 使用廣告鎖定受眾 {#target-your-audience-with-an-ad}
+## 使用廣告{#target-your-audience-with-an-ad}鎖定您的對象
 
-如需詳細資訊，請參 [閱Facebook的檔案](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)。
+如需詳細資訊，請參閱[Facebook的檔案](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)。
 
-1. 前往「廣告管理員」，按一下「 **建立廣告**」。
+1. 前往「廣告管理員」，按一下「建立廣告」。****
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. 選取 **將訪客傳送至您的網站** ，作為促銷活動的目標。
+1. 選擇&#x200B;**將訪客傳送至您的網站**&#x200B;作為促銷活動的目標。
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
