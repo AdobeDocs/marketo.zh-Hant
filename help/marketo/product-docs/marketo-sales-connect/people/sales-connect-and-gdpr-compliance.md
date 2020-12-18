@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 銷售聯繫與GDPR合規性 {#sales-connect-and-gdpr-compliance}
+# 銷售連接與GDPR合規性{#sales-connect-and-gdpr-compliance}
 
 通用資料保護規則(GDPR)是歐盟於2018年5月25日生效的法規。
 
-## 概觀 {#overview}
+## 概述{#overview}
 
 其目標是加強歐盟(EU)和歐洲經濟區(EEA)內資料主體在個人資料的使用與保護方面的權利。 「個人資料」是指任何與已識別或可識別的自然人相關的資訊。
 
@@ -30,24 +30,24 @@ GDPR的結構是圍繞六項關鍵原則（詳見立法第5條）:
 
 此外，還有一項新的責任要求，可以證明如何管理和追蹤合規性。 這意味著要保存收集個人資料的方式和原因記錄，以及為保護個人資料而制定的流程的檔案。
 
-## 適用於哪些人？ {#to-whom-does-it-apply}
+## 適用於哪些人？{#to-whom-does-it-apply}
 
 GDPR適用於歐盟內部或外部任何向歐盟和EEA內的資料主體行銷商品或服務，及／或追蹤其行為的組織。 如果您在歐洲與處理個人資料的資料主體有業務往來，則此法適用於您。 對不遵守規定者的處罰很重，對違反規定者處以高額罰款；單次違約的最高罰款是2000萬歐元，相當於全球年營業額的4%，以此為準。
 
-## 對行銷的影響 {#implications-for-marketing}
+## 行銷的涵義{#implications-for-marketing}
 
 行銷人員致力於建立個人化和人性化的客戶體驗，建立在信任的基礎之上，並謹慎提供。 雖然GDPR不使用這些條款，但是其目標是相同的——尊重客戶權利並贏得客戶信任。 為了建立並維持這種信任，行銷人員必須瞭解客戶想要參與的方式、時機及原因。 客戶偏好的尊重至關重要，不僅要作為法律要求，而且要作為以客戶為中心的參與實踐的基礎。
 
 行銷人員如何因應工作過程中經常使用之個人資料的收集、使用和安全性等更高的期望，是關鍵所在，而Marketo可協助達成這些期望。\
 GDPR有兩個關鍵方面，行銷人員需要回顧過去、現在和未來的做法。 一是個人同意處理其個人資料，二是問責，即能夠證明GDPR原則的遵循。
 
-我們在電子書《 [GDPR與行銷人員》中提供有關Marketo平台內同意與責任的廣](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/)泛資訊。 不過，在本文中，我們將特別著重於Marketo Sales Connect中的新功能，以協助您的組織遵守GDPR規則。
+我們在電子書[GDPR和The Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/)中提供有關Marketo平台內同意與責任的廣泛資訊。 不過，在本文中，我們將特別著重於Marketo Sales Connect中的新功能，以協助您的組織遵守GDPR規則。
 
-## Marketo Sales Connect中的GDPR合規性 {#gdpr-compliance-in-marketo-sales-connect}
+## Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}中的GDPR合規性
 
 Marketo Sales Connect是功能強大的應用程式（Marketo Engagement Platform的一部分），提供單一的工作流程和檢視，讓銷售和行銷人員透過協作參與，以更快的速度推動整體銷售流程。 Marketo Sales Connect中的新功能是專門針對GDPR合規性而建立的。 我們將概述這三項功能，並說明這些功能在適當使用時如何協助貴組織的GDPR合規性。
 
-## 合規卡 {#compliance-card}
+## 符合性卡{#compliance-card}
 
 Marketo Sales Connect在人員詳細資料檢視中包含一張合規性卡，以提供有關聯絡人授權類型及其來源類型的重要資訊。 這可讓使用者輕鬆新增及追蹤對資料隱私至關重要的資訊，並協助他們在宣傳／推廣策略上做出更明智的決策。
 
@@ -81,7 +81,7 @@ Marketo Sales Connect在人員詳細資料檢視中包含一張合規性卡，�
 
 編輯法規遵循卡
 
-開啟「人員詳細資訊視圖」後，按一下 **Compliance Card中** 的「編輯」。
+開啟「人員詳細資訊視圖」後，按一下「法規遵從性卡」中的&#x200B;**Edit**。
 
 ![](assets/four.png)
 
@@ -93,7 +93,8 @@ Marketo Sales Connect在人員詳細資料檢視中包含一張合規性卡，�
 
 ![](assets/6.png)
 
-如果為「授權類型」或「源類型」選擇了「其他」，則可輸入文本以說明「源類型」。** ![](assets/7.png)
+如果為「授權類型」或「源類型」選擇了「其他」，則可輸入文本以說明「源類型」。
+** ![](assets/7.png)
 
 Bulk Actions** Marketo Sales Connect還允許批量更新聯繫人的授權和源類型，從而節省了法規遵從性過程中的寶貴時間。
 
@@ -117,7 +118,7 @@ Bulk Actions** Marketo Sales Connect還允許批量更新聯繫人的授權和�
 
 ![](assets/12.png)
 
-## 從Marketing匯出連絡資料至Sales Connect {#exporting-contact-data-from-marketo-sales-connect}
+## 從Marketing To Sales Connect {#exporting-contact-data-from-marketo-sales-connect}匯出連絡資料
 
 您可以從「人員詳細資訊視圖」導出聯繫資訊。 匯出將下載包含下列欄的。CSV檔案：
 
@@ -165,23 +166,23 @@ Bulk Actions** Marketo Sales Connect還允許批量更新聯繫人的授權和�
 >
 >這一次只能進行一次連絡。 目前沒有允許大量匯出連絡人的功能。
 
-要導出聯繫資訊，請按一下「人員詳細資訊視圖題頭」中的三個垂直點，然後選擇「導 **出**」。 .CSV檔案將會自動下載。   ![](assets/thirteen.png)
+要導出聯繫資訊，請按一下「人員詳細資訊視圖」頁首中的三個垂直點，然後選擇&#x200B;**導出**。 .CSV檔案將會自動下載。   ![](assets/thirteen.png)
 
 >[!NOTE]
 >
 >GDPR也需要能夠從UI中刪除聯繫人，但Marketo Sales Connect已具備此功能。
 
-## 取消訂閱 {#unsubscribes}
+## 取消訂閱{#unsubscribes}
 
 GDPR中常常被誤解的一個領域是取消訂閱組織資料庫的聯絡人。 為了遵守有關保護選擇取消訂閱者資料的新規則，Marketo Sales Connect已包含下列功能：
 
 **取消訂閱連結：** 取消訂閱連結會自動附加至從Sales Connect Web應用程式傳送的所有電子郵件，以確保提供可存取的方式讓連絡人選擇退出。\
-**取消訂閱同步：** 使用者可同步取消訂閱至其CRM(Salesforce)，以確保退出是最新的。\
-**取消訂閱歷史記錄：** 使用者可在「人員詳細資料檢視」中查看歷史退出和選擇加入。\
-**取消訂閱刪除：** 選擇未訂閱的連絡人重新登入時，使用者必須擁有管理員權限，並證明該連絡人已獲得新的聯絡同意。
+**取消訂閱同步：** 使用者可以同步取消訂閱至其CRM(Salesforce)，以確保退出選項是最新的。\
+**取消訂閱歷史記** 錄：使用者可在人員詳細資料檢視中查看歷史退出和加入。\
+**取消訂閱移除：** 選擇取消訂閱的連絡人重新登入要求使用者擁有管理員權限，並證明該連絡人已經同意與他們聯絡。
 
-## 未來更新 {#future-updates}
+## 未來更新{#future-updates}
 
 Marketo是參與式經濟的強大力量和以客戶為中心的熱心倡導者，瞭解將隱私權和資料保護交由資料主體的重要性。 和其他資料保護法律一樣，GDPR合規性要求行銷人員和客戶都承諾遵守。 本文旨在協助您以適當方式使用Marketo，以支援貴組織的GDPR合規性。
 
-我們將繼續密切追蹤相關法規機構發佈的GDPR相關指引。 更新將張貼至我們的 [trust.marketo.com信任中心](http://trust.marketo.com)。
+我們將繼續密切追蹤相關法規機構發佈的GDPR相關指引。 更新將張貼至我們的信任中心[trust.marketo.com](http://trust.marketo.com)。
