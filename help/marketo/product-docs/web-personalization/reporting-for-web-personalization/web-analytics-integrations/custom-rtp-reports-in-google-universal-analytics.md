@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Google Universal Analytics中的自訂RTP報表 {#custom-rtp-reports-in-google-universal-analytics}
+# Google Universal Analytics中的自訂RTP報表{#custom-rtp-reports-in-google-universal-analytics}
 
 >[!PREREQUISITES]
 >
@@ -22,29 +22,29 @@ ht-degree: 0%
 * RTP B2B
 * RTP參與
 
-## 設定自訂報表 {#setting-up-a-custom-report}
+## 設定自訂報表{#setting-up-a-custom-report}
 
 1. 登入Google Analytics。
 1. 按一下頂端功能表中的**自訂**。
-1. 按一 **下+新自訂報表。**
+1. 按一下「**+新建自訂報表」。**
 
 ** ![](assets/image2015-3-22-16-3a10-3a48.png)
 
 **
 
-## RTP B2B報告 {#rtp-b-b-report}
+## RTP B2B報告{#rtp-b-b-report}
 
-1. 命名報 **告RTP B2B報告**。
+1. 為報告命名&#x200B;**RTP B2B報告**。
 1. 命名第一個標籤**產業**
 
-   1. (注意：您將復 **制此標籤** ，並建立其他類似標籤——步驟5)
+   1. (注意：您將&#x200B;**複製此標籤**&#x200B;並建立其他類似標籤——步驟5)
 
 1. 選擇** Explorer**報告類型。\
    ** ![](assets/image2015-3-22-16-3a15-3a25.png)
 
    **
 
-1. 在「 **量度群組** 」區段中，選取與您的業務相關的量度。
+1. 在&#x200B;**量度群組**&#x200B;區段中，選取與您的業務相關的量度。
 
    1. 我們建議您：\
       ** ![](assets/image2015-3-22-16-3a16-3a40.png)
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. 在「維 **度下鑽** 」部分中，如下設定每個頁籤的相關維。
+1. 在&#x200B;**維度下鑽**&#x200B;區段中，為每個標籤設定相關維度，如下所示。
 
 <table> 
  <thead> 
@@ -101,17 +101,17 @@ ht-degree: 0%
 </table>
 
 1. 請勿設定任何篩選條件，並將此報表設為適用於**所有網站資料**(或變更（若與特定Analytics帳戶相關）。
-1. 按一下 **儲存**。\
+1. 按一下&#x200B;**保存**。\
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
-## RTP參與報告 {#rtp-engagement-report}
+## RTP參與報告{#rtp-engagement-report}
 
-1. 命名報告 **RTP參與報告。**
-1. 將第1個標籤名稱設為「所 **有參與」**
+1. 為報表命名&#x200B;**RTP參與報表。**
+1. 將第1個標籤名稱設為&#x200B;**所有參與**
 
    1. (注意：您將複製此標籤並建立其他類似標籤——步驟5)
 
-1. 選擇「瀏 **覽器** 」報告類型。\
+1. 選擇&#x200B;**Explorer**&#x200B;報表類型。\
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
 1. 在「量度群組」區段中，選取與您的業務相關的量度。 以下是建議：\
@@ -127,7 +127,7 @@ ht-degree: 0%
 
    ** ![](assets/image2015-3-22-16-3a26-3a21.png)\**
 
-1. 在「維 **度下鑽** 」部分中，將每個頁籤的相關維設定如下：
+1. 在&#x200B;**維度下鑽**&#x200B;區段中，將每個標籤的相關維度設定如下：
 
 <table> 
  <thead> 
@@ -216,7 +216,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 
