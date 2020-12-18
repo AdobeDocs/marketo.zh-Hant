@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 深入分析人員績效報表 {#drill-down-in-a-people-performance-report}
+# 深入查看人員績效報告{#drill-down-in-a-people-performance-report}
 
 深入查看人員績效報表以查看其他人員資訊。
 
-1. 按一下「 **報表** 」標籤以檢視任何現有報表。
+1. 按一下&#x200B;**報表**&#x200B;標籤以檢視任何現有報表。
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 按一下「 **向下鑽取」**。
+1. 按一下&#x200B;**Drill-Down**。
 
    ![](assets/three.png)
 
-1. 在「 **向下切入** 」彈出式選單中，選擇您要向下切入的屬性。 然後按一下**下鑽**。
+1. 在&#x200B;**Drill-Down**&#x200B;彈出式選單中，選擇要向下鑽取的屬性。 然後按一下**下鑽**。
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 若要儲存結果（選用），請按一下左 **下角的** 「匯出」圖示。
+1. 若要儲存結果（選用），請按一下左下角的&#x200B;**Export**&#x200B;圖示。
 
    ![](assets/six.png)
 
