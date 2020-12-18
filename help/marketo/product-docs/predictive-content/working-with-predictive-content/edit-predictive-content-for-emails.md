@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 編輯電子郵件的預測性內容 {#edit-predictive-content-for-emails}
+# 編輯電子郵件的預測性內容{#edit-predictive-content-for-emails}
 
 >[!NOTE]
 >
->根據購買日期，您的Marketo訂閱可能包含Marketo預測性內容或內容`<sup>AI</sup>`。 對於使用「預測性內容」的使用者，Marketo會在2018年4月`<sup>AI</sup>` 30日之前啟用「內容分析」功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo Content`<sup>AI</sup>`。
+>視購買日期而定，您的Marketo訂閱可能包含Marketo Predictive Content或Content`<sup>AI</sup>`。 對於使用預測性內容的使用者，Marketo會在2018年4月30日之前啟用「內容`<sup>AI</sup>`分析」功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo Content`<sup>AI</sup>`。
 
 以下說明如何設定電子郵件的預測性內容。
 
 >[!PREREQUISITES]
 >
->內容必須在「 [所有內容」頁面上](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) ，針對預測性內容進行核准。
+>內容必須[已核准，才能用於「所有內容」頁面上的預測性內容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)。
 
 1. 在「預測性內容」頁面上，按一下標題以開啟編輯器。
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. 編輯頁面隨即開啟。 **依預設** ，會顯示電子郵件。
+1. 編輯頁面隨即開啟。 **依預** 設會顯示電子郵件。
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -43,15 +43,15 @@ ht-degree: 0%
    >
    >如果您變更了按鈕標籤，則會在您儲存變更或預覽影像時更新按鈕標籤。
 
-1. 若要新增或編輯影像URL，請按一下「編 **輯影像」**。
+1. 若要新增或編輯影像URL，請按一下「編輯影像」。****
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
-1. 插入影像URL，然後按一下「 **新增**」。
+1. 插入影像URL，然後按一下「新增&#x200B;**」。**
 
    ![](assets/five.png)
 
-1. 按一下並拖曳滑桿，以變更影像大小。 然後按一下並拖曳裁切方塊，以隔離您要使用的影像區域。 完成時 **按一下** 「預覽」。
+1. 按一下並拖曳滑桿，以變更影像大小。 然後按一下並拖曳裁切方塊，以隔離您要使用的影像區域。 完成時，按一下「預覽」。****
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ ht-degree: 0%
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. （可選）按一 **下「類別** 」欄位，並新增類別至內容。 選項來自您 [已設定的類別](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)。
+1. 或者，按一下「**類別**」欄位，並新增類別至內容。 選項來自您已設定的[類別。](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)
 
    ![](assets/eight.png)
 
@@ -68,10 +68,10 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/save.png)
 
    >[!NOTE]
    >
-   >在Marketo Email Editor v2.0中，您也可以檢 [視在啟用內容時](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) ，使用的版面範本。
+   >在Marketo Email Editor v2.0中，您也可以[檢視您在啟用內容時使用的版面範本](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)。
