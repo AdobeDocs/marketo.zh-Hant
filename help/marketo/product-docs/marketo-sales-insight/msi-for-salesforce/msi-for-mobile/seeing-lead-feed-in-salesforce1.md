@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 在Salesforce中查看銷售線索1 {#seeing-lead-feed-in-salesforce}
+# 在Salesforce1 {#seeing-lead-feed-in-salesforce}中查看銷售機會饋送
 
 「銷售線索摘要」是您銷售線索所執行之最新有趣事件清單。
 
-1. 前往Salesforce1 **中的** 「行銷人員」區域。
+1. 前往Salesforce1的&#x200B;**Marketo**&#x200B;區域。
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. 點選「 **銷售線索摘要**」。
+1. 點選&#x200B;**Lead Feed**。
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
