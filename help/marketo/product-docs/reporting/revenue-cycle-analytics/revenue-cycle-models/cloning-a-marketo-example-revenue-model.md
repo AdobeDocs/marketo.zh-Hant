@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 仿製行銷商以示收入模型 {#cloning-a-marketo-example-revenue-model}
+# 克隆Marketo示例收入模型{#cloning-a-marketo-example-revenue-model}
 
 Marketo有範例的收入建立工具，可協助您啟發靈感。 仿製這些模型，讓它們成為您自己的模型。 以下是方法：
 
-1. 前往「分 **析** 」區。
+1. 前往&#x200B;**Analytics**&#x200B;區域。
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. 選取**「收入週期建模器」**資料夾，然後按一下「行銷 **工具範例」**。
+1. 選擇**收入週期建模器**資料夾，然後按一下&#x200B;**Marketo Examples**。
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
@@ -30,7 +30,7 @@ Marketo有範例的收入建立工具，可協助您啟發靈感。 仿製這些
    從「模型操作」中，選擇「克隆模型」。
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. 輸入**名稱**，然後按一下「克 **隆」**。
+1. 輸入**名稱**，然後按一下&#x200B;**CLONE**。
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 
