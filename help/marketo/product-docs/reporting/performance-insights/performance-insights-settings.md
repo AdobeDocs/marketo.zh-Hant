@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 效能分析設定 {#performance-insights-settings}
+# 效能分析設定{#performance-insights-settings}
 
 瞭解MPI中的不同「設定」選項。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >視您所在的控制面板而定，您會看到不同的設定選項。
 
-## 檢視計畫成功者 {#view-program-success-by}
+## 通過{#view-program-success-by}查看程式成功情況
 
 **參與儀表板——貢獻與趨勢**
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 |---|---|
 | **活動期間** | 勾選此項時，Performance Insights會依活動日期匯總所有新名稱、成功案例和會籍，而不論方案成本期間為何。 |
 
-## 上一時段設定 {#previous-period-configuration}
+## 上一期配置{#previous-period-configuration}
 
 **參與、管道、收入儀表板——僅貢獻**
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 |---|---|
 | **YOY期間** | 將上一時段設定為上一年的相同月份或季度。 |
 
-## 受行銷影響的機會 {#marketing-influenced-opportunities}
+## 受行銷影響的機會{#marketing-influenced-opportunities}
 
 **Pipeline Dashboard —— 貢獻與趨勢**
 
@@ -69,7 +69,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 成本計算 {#cost-calculation}
+## 成本計算{#cost-calculation}
 
 **Pipeline和收入儀表板——貢獻和趨勢**
 
