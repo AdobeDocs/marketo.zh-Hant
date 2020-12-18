@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 授權Marketo Outlook外掛程式 {#authorize-the-marketo-outlook-plugin}
+# 授權Marketo Outlook外掛程式{#authorize-the-marketo-outlook-plugin}
 
 若要在Outlook中使用Marketo MSI外掛程式，您必須授權它。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. 當出現「授權行銷外掛程式」對話方塊時，按一下「 **請求代碼**」。
+1. 當出現「授權行銷外掛程式」對話方塊時，按一下「請求代碼」。****
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/image2016-8-24-16-3a8-3a36.png)
 
-1. 如果您的預設Outlook帳戶電子郵件地址已簽出，您會收到註冊金鑰。 在快顯視窗中輸入，然後按一下「 **提交**」。
+1. 如果您的預設Outlook帳戶電子郵件地址已簽出，您會收到註冊金鑰。 在彈出式視窗中輸入，然後按一下「送出」。****
 
    ![](assets/image2016-8-24-16-3a12-3a48.png)
 
    >[!NOTE]
    >
-   >註冊代碼 **在14天後過期。**
+   >註冊代碼&#x200B;**在14天後過期。**
 
 1. 如果電子郵件地址未獲得授權，您會收到這封不太開心的電子郵件。 請連絡您的行銷人員管理員以解決問題。
 
