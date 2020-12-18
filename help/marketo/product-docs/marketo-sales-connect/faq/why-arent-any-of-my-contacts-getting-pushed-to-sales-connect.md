@@ -11,6 +11,6 @@ ht-degree: 0%
 ---
 
 
-# 為什麼我的任何聯繫人都沒有被推向Sales Connect? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
+# 為什麼我的任何聯繫人都沒有被推向Sales Connect?{#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
 
-如果未推送任何連絡人，則可能您有無效的Salesforce連線。 前往您的 [Salesforce設定](http://toutapp.com/next#settings/crm/salesforce/configure) ，然後中斷連線。 請花20分鐘時間完全重設。 如果此後仍為零，請提 [交案件](http://nation.marketo.com/community/support_solutions) 給支援。
+如果未推送任何連絡人，則可能您有無效的Salesforce連線。 前往您的[Salesforce設定](http://toutapp.com/next#settings/crm/salesforce/configure)，然後中斷連線。 請花20分鐘時間完全重設。 如果之後仍為零，請[將案例](http://nation.marketo.com/community/support_solutions)提交給支援。
