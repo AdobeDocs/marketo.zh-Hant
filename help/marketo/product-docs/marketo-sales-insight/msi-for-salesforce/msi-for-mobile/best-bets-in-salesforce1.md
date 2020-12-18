@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Salesforce中的最佳選擇1 {#best-bets-in-salesforce}
+# Salesforce1 {#best-bets-in-salesforce}中的最佳選擇
 
-您的 [最佳下注](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) ，是您具有最高緊急度和相對分數的潛在客戶和聯絡人。 只有您擁有的銷售機會會顯示在該清單中，且清單會隨著銷售機會分數的變更而更新。
+您的[最佳下注](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)是您具有最高緊急度和相對分數的潛在客戶和聯繫人。 只有您擁有的銷售機會會顯示在該清單中，且清單會隨著銷售機會分數的變更而更新。
 
 1. 前往Salesforce應用程式中的Marketo區域。
 
