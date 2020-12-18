@@ -11,26 +11,26 @@ ht-degree: 0%
 ---
 
 
-# 公司Web活動報表 {#company-web-activity-report}
+# 公司Web活動報告{#company-web-activity-report}
 
 瞭解哪些公司正在瀏覽您的網站。 您可以選擇在同一份報表中顯示已知或匿名訪客，但不能同時顯示這兩者。
 
-建立「 [網頁活動」報表](web-page-activity-report.md) ，以查看瀏覽您網站的個別訪客。
+建立[「網頁活動」報表](web-page-activity-report.md)，以查看正在瀏覽您網站的個人訪客。
 
 >[!PREREQUISITES]
 >
->若要從您網站的Marketo擷取活動，您必須先在 [網站上設定Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
+>若要從您的網站擷取Marketo中的活動，您必須先在您的網站上設定[up Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
 
-1. [建立報表](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ，並選取「公司Web活動報表」 [報表類型](report-type-overview.md)。
-1. 選擇在報 [表中顯示已知或匿名](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports) 的人員。
-1. [設定報表的時間範圍](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) ，然後按一下「報 **表** 」標籤。
+1. [建立報](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 表並選取「公司Web活動報表」  [報表類型](report-type-overview.md)。
+1. 選擇[在報表中顯示已知或匿名人員](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports)。
+1. [設定報表的時間範圍，](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 然後按一下「報表 **** 」標籤。
 1. 就這樣！ 檢閱您的報表，以瞭解哪些公司正在瀏覽您的網站。
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 
    >[!TIP]
    >
-   >若要尋找最常瀏覽您網站的公司，請在「頁面檢視 [」欄中對報表排序](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) ，並選 *擇「排序* 遞減」 ****。
+   >若要尋找最常瀏覽您網站的公司，請[在&#x200B;*頁面檢視*&#x200B;欄中排序您的報表](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)，然後選擇&#x200B;**降序排序**。
 
    [您可以為「公司](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) Web活動」報表選擇的欄包括：
 
@@ -44,11 +44,11 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td>公司</td> 
-   <td>訪客的公司。<br> <strong>以粗體顯示</strong> ，至少有一人確認公司名稱。</td> 
+   <td>訪客的公司。<br> <strong>博萊</strong> 爾的姓名至少由一人確認為公司名稱。</td> 
   </tr> 
   <tr> 
    <td>推斷的公司或ISP</td> 
-   <td>根據訪客的IP位址推斷的公司。 <br> <strong>用粗體表示</strong> ，這是公司，而不是ISP。 </td> 
+   <td>根據訪客的IP位址推斷的公司。 <br> <strong>博爾丁</strong> 語中的名字是公司，而不是ISP。 </td> 
   </tr> 
   <tr> 
    <td>頁面檢視</td> 
@@ -80,4 +80,4 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->在「基本報告」深入探討中瞭解其 [他有趣的報](http://docs.marketo.com/display/docs/basic+reporting) 告。
+>在[基本報告](http://docs.marketo.com/display/docs/basic+reporting)深入探討中瞭解其他有趣的報告。
