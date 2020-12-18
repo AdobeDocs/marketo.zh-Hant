@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 群組類型 {#group-types}
+# 群組類型{#group-types}
 
 瞭解Sales Connect中的不同群組類型。
 
