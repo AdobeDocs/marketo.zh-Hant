@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 效能分析中的篩選 {#filtering-in-performance-insights}
+# 效能分析的篩選{#filtering-in-performance-insights}
 
 輕鬆篩選資料以查詢特定資訊。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->目前，「自訂屬性」僅適用於已啟用 [RCA的客戶](http://docs.marketo.com/x/lwIk) 。
+>目前，「自訂屬性」僅適用於已啟用[RCA](http://docs.marketo.com/x/lwIk)的客戶。
 
 按一下類別可顯示多個子類別。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ![](assets/6-2.png)
 
-## 可用篩選 {#available-filters}
+## 可用篩選器{#available-filters}
 
 <table> 
  <tbody> 
@@ -57,7 +57,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>自訂屬性</strong></td> 
-   <td colspan="1"><p>這些由您決定。 您為業務機 <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">會分析</a> 啟用的所有欄位都可以在「效能分析」中篩選。</p></td> 
+   <td colspan="1"><p>這些由您決定。 您為業務機會分析啟用的<a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">所有欄位都可以在「效能分析」中篩選。</a></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>投資期</strong></p></td> 
