@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 電子郵件欄和電子郵件頁面版面 {#email-columns-and-email-page-layout}
+# 電子郵件欄和電子郵件頁面配置{#email-columns-and-email-page-layout}
 
 您可以配置任何可用列，使其顯示在命令中心的電子郵件部分。 您的組態設定將會儲存至每個電子郵件子資料夾（例如「已傳送」、「失敗」、「已排程」等）。
 
-## 電子郵件欄 {#email-columns}
+## 電子郵件欄{#email-columns}
 
 <table> 
  <colgroup> 
@@ -114,7 +114,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 電子郵件頁面版面設定 {#email-page-layout-settings}
+## 電子郵件頁面配置設定{#email-page-layout-settings}
 
 您可以依照下列步驟來設定您的版面。
 
@@ -122,7 +122,7 @@ ht-degree: 0%
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. 選取「電 **子郵件** 」區段。
+1. 選擇&#x200B;**電子郵件**&#x200B;部分。
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 
