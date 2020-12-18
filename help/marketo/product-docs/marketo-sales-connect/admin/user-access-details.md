@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 使用者存取詳細資訊 {#user-access-details}
+# 用戶訪問詳細資訊{#user-access-details}
 
 管理員和非管理員可存取哪些內容？
 
-## 管理員使用者權限 {#admin-user-permissions}
+## 管理員使用者權限{#admin-user-permissions}
 
-管理員可 [以檢視所有範本](http://docs.marketo.com/x/OYAXAQ)。
+管理員可以[檢視所有範本](http://docs.marketo.com/x/OYAXAQ)。
 
 ![](assets/templates.jpg)
 
-管理員可以 [檢視所有促銷活動](http://docs.marketo.com/x/N4AXAQ)。
+管理員可以[檢視所有促銷活動](http://docs.marketo.com/x/N4AXAQ)。
 
 ![](assets/campaigns.jpg)
 
-管理員可 [以檢視所有電子郵件活動](http://docs.marketo.com/x/SYAXAQ)。
+管理員可以[檢視所有電子郵件活動](http://docs.marketo.com/x/SYAXAQ)。
 
 ![](assets/email-activity.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 管理員可以代表使用者停止促銷活動。
 
-## 非管理員使用者權限 {#non-admin-user-permissions}
+## 非管理員使用者權限{#non-admin-user-permissions}
 
 * 分析：
 
