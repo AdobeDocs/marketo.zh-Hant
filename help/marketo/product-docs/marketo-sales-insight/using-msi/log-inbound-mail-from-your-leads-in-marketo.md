@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 在Marketo中記錄來自您銷售線索的入站郵件 {#log-inbound-mail-from-your-leads-in-marketo}
+# 在Marketo {#log-inbound-mail-from-your-leads-in-marketo}中記錄Leads的入站郵件
 
 您可以直接在Outlook中使用Marketo Email增益集，從您的潛在客源記錄回覆。
 
-## 從主Outlook應用程式 {#from-the-main-outlook-application}
+## 從主Outlook應用程式{#from-the-main-outlook-application}
 
 1. 選取您要記錄的電子郵件，然後按一下「使用Marketo記錄」。
 
@@ -23,13 +23,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您也可以在訊息上按一下滑鼠右鍵，然後按一 **下「使用Marketto記錄」**。
+>您也可以在訊息上按一下滑鼠右鍵，然後按一下「使用Marketo記錄」**。**
 
 您應該會看到確認。
 
 ![](assets/image2014-9-23-17-3a13-3a39.png)
 
-## 從電子郵件本身 {#from-the-email-itself}
+## 從電子郵件本身{#from-the-email-itself}
 
 如果您已開啟電子郵件，只需按一下此處的「使用Marketo記錄」按鈕即可。
 
