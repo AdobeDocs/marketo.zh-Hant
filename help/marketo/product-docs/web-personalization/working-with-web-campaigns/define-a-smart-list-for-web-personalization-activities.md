@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 為Web個人化活動定義智慧清單 {#define-a-smart-list-for-web-personalization-activities}
+# 定義Web個人化活動的智慧清單{#define-a-smart-list-for-web-personalization-activities}
 
 當您在智慧型促銷活動中定義智慧型清單時，可以在篩選器和觸發器中使用Web個人化活動。 在這裡，您想要擷取任何點擊「網頁個人化」行動呼叫（促銷活動）的人。
 
 使用觸發器來傳送電子郵件或警報，或根據點按並參與「網頁個人化」動作呼叫的訪客，變更值或分數。 您也可以篩選及檢視點擊「網頁個人化」行動呼叫的潛在客源。
 
-1. 在智慧型促銷活動中，按一下「智 **慧型清單** 」標籤。
+1. 在智慧型促銷活動中，按一下「智慧型清單」標籤。****
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >智慧型清單可以做出令人驚艷的事。 透過智慧型清單深入 [探討進一步瞭解](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)。
+   >智慧型清單可以做出令人驚艷的事。 進一步瞭解[智慧型清單深入探討](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)。
 
 1. 搜尋觸發器，然後將觸發器拖放至畫布上。
 
