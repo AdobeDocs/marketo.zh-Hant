@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 分段順序優先順序 {#segmentation-order-priority}
+# 分段順序優先順序{#segmentation-order-priority}
 
-請務必瞭解在區 **段中** ，如何設定評估人員的優先順序。
+請務必瞭解&#x200B;**order**&#x200B;如何設定區段中人員評估的優先順序。
 
 >[!PREREQUISITES]
 >
@@ -24,11 +24,11 @@ ht-degree: 0%
 
 
 
-1. 轉到數 **據庫**。
+1. 轉至&#x200B;**Database**。
 
    ![](assets/image2017-3-29-8-3a9-3a33.png)
 
-1. 選取您的 **區段**。 在區 **段動作中**，按一下 **編輯區段**。
+1. 選擇&#x200B;**分段**。 在&#x200B;**區段動作**&#x200B;中，按一下「編輯區段&#x200B;**」。**
 
    ![](assets/image2014-9-16-10-3a11-3a55.png)
 
@@ -49,5 +49,5 @@ ht-degree: 0%
 
 
 
-酷啊？ 您可以將區段用於動態內容、 [報告](http://docs.marketo.com/display/docs/basic+reporting) ，甚至 [智慧清單](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)。
+酷啊？ 您可將區段用於動態內容、[reporting](http://docs.marketo.com/display/docs/basic+reporting)，甚至在[智慧型清單](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)中。
 
