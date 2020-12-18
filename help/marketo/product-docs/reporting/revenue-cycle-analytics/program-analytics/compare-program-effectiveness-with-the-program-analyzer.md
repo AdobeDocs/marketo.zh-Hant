@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 比較方案分析器與方案有效性 {#compare-program-effectiveness-with-the-program-analyzer}
+# 將程式有效性與程式分析器進行比較{#compare-program-effectiveness-with-the-program-analyzer}
 
 使用Program Analyzer通過比較方案成本、成員獲取、渠道和收入來識別最有效、最不有效的方案。
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >將程式篩選為僅一個頻道的快速方式是選取「檢視」>「依頻道」 ****，按一下該頻道的泡泡，然後在快顯對話方塊中按一下頻道名稱。
+   >將程式篩選為僅一個頻道的快速方式是選取「檢視>依頻道&#x200B;**」，按一下該頻道的泡泡，然後在快顯對話方塊中按一下頻道名稱。**
 
 1. 使用「X軸」下拉式清單來選擇水準軸的量度。 我們從計畫成本開始。
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您也可以嘗試從線性變更為對數比例，或從線性變為對數比例，以改善檢視效果。 使用頂 **部的** 「縮放」功能表。
+   >您也可以嘗試從線性變更為對數比例，或從線性變為對數比例，以改善檢視效果。 使用頂部的&#x200B;**Scale**&#x200B;菜單。
 
 1. 探索產生的圖形。
 
@@ -68,13 +68,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可在程式分析器中選擇的許多度量都可搭配首次接觸(FT)和多點接觸(MT)計算使用。 瞭解FT和MT歸因 [的差異很重要](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)。
+   >您可在程式分析器中選擇的許多度量都可搭配首次接觸(FT)和多點接觸(MT)計算使用。 請務必瞭解FT和MT歸因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)之間的[差異。
 
 1. 觀察圖形中泡泡的變化大小。
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   通過加 **入(FT)Revenue Won**，我們很快發現，雖然摺紙展獲得了許多新的名字，但收入相對較少。 此外，我們也看到Paper Fest 12節的名氣越來越少，但名氣也越來越好，因為它影響到贏取的收入（泡泡越大）。
+   通過添加&#x200B;**(FT)Revenue Won**，我們很快地看到，雖然摺紙博覽會獲得了許多新的品牌，但它帶來的收入相對較少。 此外，我們也看到Paper Fest 12節的名氣越來越少，但名氣也越來越好，因為它影響到贏取的收入（泡泡越大）。
 
 1. 使用「顏色」下拉式清單新增第四個量度。 我們將看(FT)投資收益。
 
@@ -88,7 +88,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以快速比較一個頻道和另一個頻道的節目。 只要使用 **視窗頂端的「** Channel Filter」（渠道篩選），即可新增更多渠道。
+>您可以快速比較一個頻道和另一個頻道的節目。 只需使用視窗頂端的&#x200B;**頻道篩選器**&#x200B;即可新增更多頻道。
 
 >[!NOTE]
 >
@@ -100,4 +100,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->進一步瞭解 [Revenue Cycle Explorer中的進階分析](http://docs.marketo.com/display/docs/revenue+cycle+analytics)。
+>進一步瞭解[收入週期總管](http://docs.marketo.com/display/docs/revenue+cycle+analytics)中的進階分析。
