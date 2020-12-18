@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 瞭解傳送選項 {#understanding-send-options}
+# 瞭解發送選項{#understanding-send-options}
 
 當您建立促銷活動時，您有數個選項可讓您選擇如何在Sales Connect中建立電子郵件步驟。 而且，視您的電子郵件在促銷活動中的位置而定，您的選項也會有所不同。
 
