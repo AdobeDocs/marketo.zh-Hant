@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 如何在Salesforce沙盒中安裝自訂 {#how-to-install-customizations-in-your-salesforce-sandbox}
+# 如何在Salesforce沙盒中安裝自訂項目{#how-to-install-customizations-in-your-salesforce-sandbox}
 
 >[!NOTE]
 >
@@ -21,17 +21,17 @@ ht-degree: 0%
 >
 >[將Sales Connect連線至您的Salesforce沙盒](http://docs.marketo.com/x/DYDq)
 
-1. 在Sales Connect中，按一下右上角的齒輪圖示並選取「設 **定」**。
+1. 在Sales Connect中，按一下右上角的齒輪表徵圖，然後選擇&#x200B;**Settings**。
 
    ![](assets/one-3.png)
 
-1. 在「管理員設定」下，按一 **下「Salesforce」。**
+1. 在「管理設定」下，按一下「**Salesforce」。**
 
    ![](assets/two-3.png)
 
-1. 按一下 **安裝自訂**。
+1. 按一下&#x200B;**安裝自定義**。
 
    ![](assets/three-3.png)
 
-   接下來，您只需執行安裝自訂的步驟，就像在一般Salesforce帳戶中一樣。 請跳至此視訊的1分 [鐘標籤](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce) ，以取得詳細資訊。
+   接下來，您只需執行安裝自訂的步驟，就像在一般Salesforce帳戶中一樣。 請跳至此視訊[的1分鐘標籤，以取得其他資訊。](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce)
 
