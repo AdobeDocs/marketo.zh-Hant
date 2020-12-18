@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 績效分析貢獻概觀 {#performance-insights-contribution-overview}
+# 績效分析貢獻概觀{#performance-insights-contribution-overview}
 
 在Marketo Performance Insights中，預設會顯示貢獻檢視。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->瞭解 [首次接觸和多次接觸](http://docs.marketo.com/display/DOCS/Understanding+Attribution)。
+>瞭解[首次接觸和多次接觸](http://docs.marketo.com/display/DOCS/Understanding+Attribution)。
 
 選擇您要查看量度的時段。 在此範例中，我們檢視的是本年度（年初至今）。   ![](assets/3-1.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果希望圖形中的條在捲動各組時向上縮放，請選中「適合縮放 **Y軸** 」複選框。
+>如果希望圖形中的條在捲動組時向上縮放，請選中&#x200B;**「縮放Y軸以適合**」複選框。
 
 將滑鼠移到橫條上，以檢視其他詳細資訊。   ![](assets/seven.png)
 
