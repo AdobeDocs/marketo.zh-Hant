@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 將業務機會列添加到銷售線索報表 {#add-opportunity-columns-to-a-lead-report}
+# 將業務機會列添加到銷售線索報表{#add-opportunity-columns-to-a-lead-report}
 
-要查看人員報表中的業務機 [會統計](http://docs.marketo.com/display/docs/basic+reporting)，您可以添加業務機會列。
+要查看[person報告](http://docs.marketo.com/display/docs/basic+reporting)中有關業務機會的統計資訊，您可以添加業務機會列。
 
-1. 前往「行銷 **活動** 」區。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
    ![](assets/ma.png)
 
-1. 從導覽樹狀結構中選取您的報表，然後按一下「 **設定** 」標籤。
+1. 從導航樹中選擇您的報告，然後按一下&#x200B;**Setup**&#x200B;頁籤。
 
    ![](assets/two.png)
 
-1. 按兩下 **Opportunity Columns**。
+1. 按兩下&#x200B;**Opportunity Columns**。
 
    ![](assets/three.png)
 
-1. 從下 **拉式選單中選取** 「顯示」。
+1. 從下拉菜單中選擇&#x200B;**顯示**。
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. 按一下「 **報表** 」標籤，查看您具有業務機會度量的報表。
+1. 按一下&#x200B;**Report**&#x200B;頁籤，查看包含機會度量的報表。
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >向右捲動以檢視更多欄。
 
-1. 若要 [新增或移除報表中的欄](select-report-columns.md)，請按一下任何欄標題並選取 **欄**。
+1. 要從報表[中添加或刪除列，請按一下任何列標題並選擇](select-report-columns.md)列&#x200B;**。**
 
    ![](assets/six.png)
 
@@ -51,8 +51,8 @@ ht-degree: 0%
 
    | 欄 | 說明 |
    |---|---|
-   | 無機會 | 不是主要機會聯 *絡人* 的人數。 |
-   | 無機會天數 | 非主要聯絡人的平均年齡(以日為 *單位* )。 |
+   | 無機會 | *不是*&#x200B;主要機會聯繫人的人數。 |
+   | 無機會天數 | *並非*&#x200B;主要聯絡人的平均年齡（以天為單位）。 |
    | 有機會 | 作為主要機會聯繫人的人數。 |
    | 有機會% | 作為主要機會聯繫人的百分比。 |
    | 銷售機會的間隔天數 | 從人員到主要業務機會聯繫人的平均轉換天數。 |
@@ -71,12 +71,12 @@ ht-degree: 0%
    >**相關文章**
    >
    >
-   >瞭解如何 [管理報表的大小](configure-report-size.md)。
+   >瞭解如何[管理報表的大小](configure-report-size.md)。
 
    >[!NOTE]
    >
    >**深入探討**
    >
    >
-   >在「基本報告」深入探討中瞭解您還可以對報 [告執行](http://docs.marketo.com/display/docs/basic+reporting) 哪些操作。
+   >在[基本報表](http://docs.marketo.com/display/docs/basic+reporting)深入探討中，瞭解您還可以如何處理報表。
 
