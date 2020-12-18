@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 收入瀏覽器報表類型 {#revenue-explorer-report-types}
+# 收入瀏覽器報表類型{#revenue-explorer-report-types}
 
 以下是您使用「收入週期分析」時會遇到的報表類型。
 
