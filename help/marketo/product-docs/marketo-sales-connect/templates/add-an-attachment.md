@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 新增附件 {#add-an-attachment}
+# 添加附件{#add-an-attachment}
 
 >[!NOTE]
 >
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >如果您使用Marketo Sales Connect，則可以添加附件。 Marketo的標準電子郵件編輯器不提供此功能。
 
-要向模板添加附件，請開啟模板編輯器，然後按一下文本編輯器 **上方的「附加檔案** 」(Attach Files)。 然後，只需從您的電腦尋找並上傳附件即可。
+要向模板添加附件，請開啟模板編輯器，然後按一下文本編輯器上方的「附加檔案」。 ****&#x200B;然後，只需從您的電腦尋找並上傳附件即可。
 
-如果您希望在附件開啟時 [追蹤附件](http://docs.marketo.com/display/TEST/How+to+Track+Your+Email+Attachments)，請按一下「新增內容 ******** 」並選取。doc、PDF或。ppt檔案。
+如果希望附件在開啟時被跟蹤[，請按一下&#x200B;**添加** **內容**&#x200B;並選擇。doc、PDF或。ppt檔案。](http://docs.marketo.com/display/TEST/How+to+Track+Your+Email+Attachments)
 
-上傳至範本後，這些檔案會儲存在您的Sales Connect內容中。 您可以按一下範本編輯器中的「新增內容」，從您的網頁瀏覽器或 [網頁應用程式](http://toutapp.com/login) ，快 **** 速將它們新增至電子郵件。
+上傳至範本後，這些檔案會儲存在您的Sales Connect內容中。 您可以按一下範本編輯器中的「新增內容」，快速地從您的網頁瀏覽器或[網頁應用程式](http://toutapp.com/login)將它們新增至電子郵件。****
 
 >[!NOTE]
 >
->「內容」或「附加 **檔案** 」按 **鈕的大小限制為** 5mb。
+>**Content**&#x200B;或&#x200B;**附加檔案**&#x200B;按鈕的大小限制為5mb。
 
