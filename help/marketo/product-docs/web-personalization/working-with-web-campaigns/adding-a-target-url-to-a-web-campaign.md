@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 新增目標URL至Web促銷活動 {#adding-a-target-url-to-a-web-campaign}
+# 新增目標URL至Web促銷活動{#adding-a-target-url-to-a-web-campaign}
 
 目標URL位於「設定促銷活動」頁面下方，並定義Web促銷活動將出現的特定URL或URL。
 
 ## 新增對話或介面工具集網頁促銷活動的目標URL {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. 前往「網 **頁促銷活動**」。
+1. 前往&#x200B;**Web促銷活動**。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. 選取「 **建立新的Web促銷活動**」。
+1. 選擇&#x200B;**建立新的Web促銷活動**。
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. 新增促 **銷活動名稱**。 選取目 **標區段**。 新增 **目標URL**。
+1. 新增&#x200B;**促銷活動名稱**。 選擇&#x200B;**目標區段**。 新增&#x200B;**目標URL**。
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -48,9 +48,9 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 新增多個URL至Target URL {#adding-multiple-urls-to-target-url}
+## 將多個URL新增至目標URL {#adding-multiple-urls-to-target-url}
 
-按一下加號圖示(![—](assets/image2015-2-18-8-3a40-3a59.png))將開啟「多值輸入」對話方塊，以新增多個URL。 每行新增一個URL。
+按一下加號表徵圖(![—](assets/image2015-2-18-8-3a40-3a59.png))將開啟「多值輸入」對話框以添加多個URL。 每行新增一個URL。
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 
@@ -58,24 +58,24 @@ ht-degree: 0%
 >
 >
 >* 對話方塊和介面工具集網頁促銷活動可使用任何頁面和萬用字元(*)選項。
-* 在進階使用案例中，「在區域中」網頁促銷活動可在URL路徑結尾使用萬用字元。 範例： [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+* 在進階使用案例中，「在區域中」網頁促銷活動可在URL路徑結尾使用萬用字元。 範例：[www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
 * URL區分大小寫
 
 
 ## 新增區域內Web促銷活動的目標URL {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. 前往「網 **頁促銷****活動」**。
+1. 前往&#x200B;**Web** **促銷活動**。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. 選取「 **建立新的Web促銷活動**」。
+1. 選擇&#x200B;**建立新的Web促銷活動**。
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. 新增**促銷活動名稱**。 選取目 **標區段**。 新增 **目標URL**。
+1. 新增**促銷活動名稱**。 選擇&#x200B;**目標區段**。 新增&#x200B;**目標URL**。
 
    >[!NOTE]
-   「位於區域中」的目標URL必須定義特定URL或URL。 在進階使用案例中，「在區域中」網頁促銷活動可在URL路徑結尾使用萬用字元。 範例： [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+   「位於區域中」的目標URL必須定義特定URL或URL。 在進階使用案例中，「在區域中」網頁促銷活動可在URL路徑結尾使用萬用字元。 範例：[www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
