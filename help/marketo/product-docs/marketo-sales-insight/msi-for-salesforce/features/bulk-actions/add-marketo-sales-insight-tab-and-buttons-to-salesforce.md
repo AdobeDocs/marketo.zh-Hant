@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 新增Market至Sales Insight標籤和按鈕至Salesforce {#add-marketo-sales-insight-tab-and-buttons-to-salesforce}
+# 新增Marketo Sales Insight標籤和按鈕至Salesforce {#add-marketo-sales-insight-tab-and-buttons-to-salesforce}
 
 您可以將自訂Marketto Sales Insight標籤和按鈕新增至Salesforce檢視，以方便存取。 有興趣嗎？ 這是方法。
 
-## 新增行銷人員標籤  {#adding-the-marketo-tab}
+## 新增行銷工具標籤{#adding-the-marketo-tab}
 
-1. 按一下** + **，然後按一下「自 **訂我的標籤」**。
+1. 按一下** + **並按一下&#x200B;**自定義我的頁籤**。
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
-1. 在左側清單中選取「Marketo」。 然後按一 **下「新增** 」，將它新增至「選 **取的標籤」**。
+1. 在左側清單中選取「Marketo」。 然後，按一下「添加」(Add)「****」(Add&lt;a1/>)，將其添加到「選擇的頁籤」(Selected Tabs)「**」(** Selected Tabs&lt;a3/>)。
 
    >[!TIP]
    >
-   >使用向上 **和向下****** 箭頭重新排序標籤。
+   >使用&#x200B;**向上**&#x200B;和&#x200B;**向下**&#x200B;箭頭重新排序標籤。
 
    ![](assets/image2015-5-27-13-3a42-3a59.png)
 
@@ -33,21 +33,21 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-## 新增行銷人員按鈕 {#adding-marketo-buttons}
+## 新增行銷人員按鈕{#adding-marketo-buttons}
 
 您可以將Marketo按鈕新增至Salesforce版面。 以下是一個例子：
 
 ![](assets/image2015-5-26-17-3a7-3a18.png)
 
-1. 按一 **下設定**。 搜尋「搜尋版面」，然後按一下「銷 **售機會」下** 的「搜 **尋版面」**。
+1. 按一下&#x200B;**Setup**。 搜索「搜索佈局」，然後按一下&#x200B;**Leads**&#x200B;下的&#x200B;**搜索佈局**。
 
    ![](assets/image2015-5-26-14-3a59-3a53.png)
 
-1. 按一下 ****** 「銷售線索清單視圖」**行中的「編輯」。
+1. 按一下「**銷售線索清單視圖**」行中的「編輯」****。
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
-1. 新增 **至Marketto Campaign**、 **Send Marketo Email**，以及 **To Watch List** (將「Add to Marketto Campaign」（新增至Marketto促銷活動）、「Send Marketto Email」（傳送Marketto電子郵件）和「To Watch List ********」（觀看清單）。
+1. 將&#x200B;**新增至Marketto Campaign**、**傳送行銷人員至電子郵件**&#x200B;和&#x200B;**新增至關注清單**&#x200B;按鈕新增至&#x200B;**選取的按鈕**&#x200B;和&#x200B;**儲存**。
 
    ![](assets/image2015-5-26-16-3a59-3a34.png)
 
