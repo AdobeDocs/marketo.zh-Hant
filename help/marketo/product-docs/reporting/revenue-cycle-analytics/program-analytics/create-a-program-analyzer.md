@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 建立程式分析器 {#create-a-program-analyzer}
+# 建立程式分析器{#create-a-program-analyzer}
 
 瞭解哪些方案和通道為您帶來最大的行銷效益。 使用程式分析器，詳細檢查並比較每項成本和報酬，依程式或頻道。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**提醒**
 >
->要從程式分析器獲取良好資料，請確保您的CRM聯繫人在業務機會中具有角色，並確保已完全設定Marketo程式，並定義 [期間成本](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)、程式狀態和成功。
+>要從程式分析器獲得良好資料，請確保您的CRM聯繫人在業務機會中具有角色，並確保已完全設定Marketo程式，並定義[期間成本](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)、程式狀態和成功。
 
 >[!TIP]
 >
->要使程式分析器中不顯示任何成本的程式，請將 [其期間成本](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) 設定為$0。
+>要使程式分析器中不顯示任何成本的程式，[將其期間成本](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)設定為$0。
 
 1. 按一下「分析」圖格。
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要選擇特定範圍，請選擇「自 **訂** 」，然 **後使用「自** 」和「 **至** 」欄位。
+   >要選擇特定範圍，請選擇&#x200B;**Custom**&#x200B;並使用&#x200B;**From**&#x200B;和&#x200B;**To**&#x200B;欄位。
 
 1. 如果要保存新的自定義分析器，請在Analyzer操作下拉式清單中選擇另存為。
 
@@ -75,8 +75,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您可在程式分析器中選擇的許多度量都可搭配首次接觸(FT)和多點接觸(MT)計算使用。 瞭解FT和MT歸因 [的差異很重要](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)。
+>您可在程式分析器中選擇的許多度量都可搭配首次接觸(FT)和多點接觸(MT)計算使用。 請務必瞭解FT和MT歸因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)之間的[差異。
 
 >[!NOTE]
 >
->進一步了 [解Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) and [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics)。
+>進一步瞭解[Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)和[Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics)。
