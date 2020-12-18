@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 取消訂閱連結登陸頁面 {#unsubscribe-link-landing-page}
+# 取消訂閱連結登陸頁面{#unsubscribe-link-landing-page}
 
 當某人點按您的取消訂閱連結時，他們會被帶到取消訂閱的登陸頁面，在該頁面中，他們可以選取想要取消訂閱的項目及原因。
 
