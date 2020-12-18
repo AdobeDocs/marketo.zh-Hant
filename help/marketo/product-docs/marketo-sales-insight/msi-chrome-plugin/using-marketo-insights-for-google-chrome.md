@@ -23,7 +23,7 @@ ht-degree: 0%
 
 
 
-## 透過Marketon Insights傳送電子郵件 {#send-an-email-with-marketo-insights}
+## 傳送含Marketon Insights的電子郵件{#send-an-email-with-marketo-insights}
 
 1. 在「合成」視窗中，按一下「行銷人員」圖示。
 
@@ -41,31 +41,31 @@ ht-degree: 0%
    >
    >（可選）按一下雙箭頭以展開至全螢幕檢視。
 
-1. 如果您想要用已發佈的Marketo範本預先填入電子郵件，請按一下「更多選 **項」並**&#x200B;選取&#x200B;**「載入Marketo範本」。**
+1. 如果您想要用已發佈的Marketo範本預先填入電子郵件，請按一下「更多選項&#x200B;**」，然後選取「載入Marketo範本」。******
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. 選擇可用 **模板** ，然後按一下 **確定。**
+1. 選擇&#x200B;**可用模板**&#x200B;並按一下&#x200B;**確定。**
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
-1. 輸入您的內容、電子郵件地址，然後按一下「 **傳送**」。
+1. 輸入您的內容、電子郵件地址，然後按一下「傳送&#x200B;****」。
 
    ![](assets/image2015-10-6-14-3a37-3a32.png)
 
    >[!NOTE]
    >
-   >只有在「傳送」按鈕為 **紫色時** ，才會追蹤訊息。
+   >僅當&#x200B;**Send**&#x200B;按鈕為紫色時，才會追蹤訊息。
 
 1. 電子郵件很快就會出現在您的Marketo Sales Insight中，而且會追蹤任何開啟和點按。
 
    ![](assets/image2015-4-23-16-3a59-3a43.png)
 
-## 使用Marketto記錄電子郵件回覆 {#log-email-replies-with-marketo}
+## 使用Marketo {#log-email-replies-with-marketo}記錄電子郵件回覆
 
 您可以在銷售線索的活動歷史記錄中記錄回覆和舊活動。
 
-1. 在Google Mail的預覽窗格中，按一下「使用Marketo **記錄」**。
+1. 在Google Mail的預覽窗格中，按一下「使用Marketo **記錄」。**
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
