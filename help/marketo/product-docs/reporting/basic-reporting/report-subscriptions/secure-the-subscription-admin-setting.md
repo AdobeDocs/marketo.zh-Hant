@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 保護訂閱管理員設定 {#secure-the-subscription-admin-setting}
+# 保護訂閱管理設定{#secure-the-subscription-admin-setting}
 
 >[!NOTE]
 >
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 管理員可以選擇要求登入才能檢視報表。
 
-1. 按一 **下「管理**」，然後按 **一下「登入設定」**。
+1. 按一下「**管理**」，然後按一下「登入設定&#x200B;**」。**
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. 按一 **下「** Edit for Smart List Report Settings」。
+1. 按一下&#x200B;**編輯**&#x200B;以查看智慧清單報告設定。
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. 選 **取「是** 」以要求登入以下載報表。
+1. 選擇&#x200B;**是**&#x200B;以要求登入以下載報表。
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 
