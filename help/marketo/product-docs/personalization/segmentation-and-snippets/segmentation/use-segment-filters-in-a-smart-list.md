@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在智慧型清單中使用區段篩選 {#use-segment-filters-in-a-smart-list}
+# 在智慧型清單中使用區段篩選{#use-segment-filters-in-a-smart-list}
 
 >[!PREREQUISITES]
 >
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 使用區段篩選器最佳化您的智慧型清單效能。
 
-1. 在您建立的智慧型清單中，搜尋單字「 **區段**」，並拖放篩選。
+1. 在您建立的智慧型清單中，搜尋單字&#x200B;**Segment**，並拖放篩選。
 
    ![](assets/image2014-9-16-10-3a30-3a47.png)
 
