@@ -11,47 +11,47 @@ ht-degree: 0%
 ---
 
 
-# 電子郵件報表 {#email-reports}
+# 電子郵件報表{#email-reports}
 
-若要自訂使用者收到的自動化電子郵件報表，請參閱「使 [用者設定」區段](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)。
+若要自訂使用者收到的自動化電子郵件報表，請參閱[使用者設定區段](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)。
 
-## 網頁個人化電子郵件報表 {#web-personalization-email-reports}
+## Web個人化電子郵件報表{#web-personalization-email-reports}
 
 每日或每週電子郵件報表會傳送至使用者的電子郵件地址，提供最新的組織、人員、促銷活動和資產績效資料。
 
 可使用下列報表：
 
-## 每日／每週組織報表 {#daily-weekly-organizations-report}
+## 每日／每週組織報表{#daily-weekly-organizations-report}
 
 ![](assets/image2014-12-6-13-3a32-3a8.png)
 
 每日／每週報表會傳送前50名造訪組織的電子郵件給使用者，包括使用的組織名稱、位置、造訪次數、頁面檢視和反向連結網站或搜尋詞。
 
-## 每日／每週人員報告 {#daily-weekly-people-report}
+## 每日／每週人員報告{#daily-weekly-people-report}
 
 ![](assets/two.png)
 
 每日／每週的「人物報告」會根據下列資訊，從網站傳送最新100人的電子郵件給使用者：人員的電子郵件地址、組織名稱、位置、狀態、人員擷取日期及該人員所屬的區段。
 
-## 表現最佳的即時促銷活動 {#top-performing-real-time-campaigns}
+## 表現最佳的即時促銷活動{#top-performing-real-time-campaigns}
 
 ![](assets/image2014-12-6-13-3a32-3a31.png)
 
 「最佳績效即時促銷活動報表」會傳送執行成效最佳的即時促銷活動的電子郵件給使用者，顯示促銷活動名稱、印象、點按、促銷活動所反應的區段以及促銷活動的轉換率。
 
-## 表現最佳的資產報表 {#top-performing-assets-report}
+## 表現最佳的資產報表{#top-performing-assets-report}
 
 ![](assets/image2014-12-6-13-3a29-3a5.png)
 
 「最佳績效資產報表」會傳送執行成效最佳之內容資產的電子郵件給使用者，顯示資產名稱以及與其他資產相比的相符百分比。
 
-## 建議的資產報表 {#recommended-assets-report}
+## 建議的資產報表{#recommended-assets-report}
 
 ![](assets/image2014-12-6-13-3a28-3a43.png)
 
 「建議資產報表」會傳送電子郵件給使用者，告知使用者內容建議引擎中顯示的內容所產生的所有內容和點按次數。
 
-## 摘要報表 {#summary-report}
+## 摘要報告{#summary-report}
 
 ![](assets/six.png)
 
@@ -69,4 +69,4 @@ ht-degree: 0%
 >
 >Marketo Web Personalization會針對網站上完成的任何表單，擷取網頁訪客的電子郵件地址。 這會在「網頁個人化人員」頁面中檢視，而且是「摘要」報表中使用的人員。
 
-若要自訂使用者收到的自動化電子郵件報表，請參閱「使 [用者設定」區段](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)。
+若要自訂使用者收到的自動化電子郵件報表，請參閱[使用者設定區段](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)。
