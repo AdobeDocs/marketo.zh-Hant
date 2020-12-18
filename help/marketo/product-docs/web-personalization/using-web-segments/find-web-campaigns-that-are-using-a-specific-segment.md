@@ -11,22 +11,22 @@ ht-degree: 0%
 ---
 
 
-# 尋找使用特定區段的Web促銷活動 {#find-web-campaigns-that-are-using-a-specific-segment}
+# 尋找使用特定區段{#find-web-campaigns-that-are-using-a-specific-segment}的Web促銷活動
 
 尋找使用特定群體的網頁促銷活動？
 
-1. 前往區 **段**。\
+1. 前往&#x200B;**區段**。\
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. 搜尋區 **段**。 選取區 **段名稱**。 在右側面板中，按一下「相 **關促銷活動** 」以檢視與此特定群體相關的促銷活動。\
+1. 搜尋&#x200B;**區段**。 選擇&#x200B;**區段名稱**。 在右側面板中，按一下「關聯的促銷活動」**，以檢視與此特定區段關聯的促銷活動。**\
    ![](assets/image2014-11-26-14-21-59.png)
 
-1. 檢視與 **選取** 群體關聯的促銷活動。\
+1. 檢視與所選區段相關聯的&#x200B;**促銷活動**。\
    ![](assets/image2014-11-26-14-3a25-3a30.png)
 
 >[!NOTE]
 >
 >**深入探討**
 >
->進一步瞭解 [區段](web-segments.md) ，以及如 [何建立基本區段](create-a-basic-web-segment.md)。
+>進一步瞭解[區段](web-segments.md)以及如何[建立基本區段](create-a-basic-web-segment.md)。
 
