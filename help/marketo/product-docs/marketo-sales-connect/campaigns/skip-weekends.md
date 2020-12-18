@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 略過週末 {#skip-weekends}
+# 略過週末{#skip-weekends}
 
 當自動化促銷活動時，您可能不希望您的電子郵件在星期六或星期日外傳。 如果沒有，您就可以略過週末。
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two-2.png)
 
-1. 按一 **下設定**。
+1. 按一下&#x200B;**Settings**。
 
    ![](assets/three-2.png)
 
-1. 選中「跳過 **週末」複選框** 。
+1. 選中&#x200B;**跳過週末**&#x200B;複選框。
 
    ![](assets/four-2.png)
 
