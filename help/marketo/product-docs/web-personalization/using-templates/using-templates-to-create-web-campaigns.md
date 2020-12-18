@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 使用範本建立Web促銷活動 {#using-templates-to-create-web-campaigns}
+# 使用範本建立Web促銷活動{#using-templates-to-create-web-campaigns}
 
-使用我們內建的範本或儲存您自己的範本，加速並簡化您的網頁 [宣傳建立程式](save-your-campaign-as-a-template.md)。
+使用我們內建的範本或透過[儲存您自己的](save-your-campaign-as-a-template.md)，加速並簡化您的網頁宣傳活動建立程式。
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >對於行動促銷活動，請從行動區段選 **取範本** 。
+   >對於行動促銷活動，請從&#x200B;**mobile**&#x200B;區段選取範本。
 
 1. 自訂範本。
 
