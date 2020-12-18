@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 電子郵件見解傳送概述 {#email-insights-sends-overview}
+# 電子郵件分析發送概述{#email-insights-sends-overview}
 
 在「傳送」頁面上，檢查最近電子郵件通訊的特性。
 
 ![](assets/one.png)
 
-使用 [篩選](filtering-in-email-insights.md) ，指定您要查看哪些電子郵件。
+使用[filtering](filtering-in-email-insights.md)指定您要查看哪些電子郵件。
 
 ![](assets/filtering.png)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 ![](assets/two-1.png)
 
-**類型** ：表示使用的資產類型。\
-**收件者** 號碼是寄送電子郵件的人數。\
-**「傳送量度** 」可讓您快速檢視已傳送、待審或已退回的電子郵件數量。\
-**「參與度量** 」可讓您快速檢視有多少收件者已開啟、點按及取消訂閱電子郵件。\
-**分數** 是您電子郵件的 [參與分數](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
+**類** 型會指出使用的資產類型。\
+**收** 件者編號是寄送電子郵件的人數。\
+**傳送** 量度可讓您快速檢視已傳送、待辦或遭拒的電子郵件數量。\
+**參與** 度量可讓您快速檢視有多少收件者已開啟、點選及取消訂閱電子郵件。\
+**計** 分您電子郵件的 [參與分數](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
 依預設，您的電子郵件會依最近的順序排序，但您可以依任何可用度量來排序。
 
