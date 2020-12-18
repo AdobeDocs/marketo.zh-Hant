@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 瞭解應用程式內訊息 {#understanding-in-app-messages}
+# 瞭解應用程式內訊息{#understanding-in-app-messages}
 
 >[!NOTE]
 >
@@ -27,17 +27,17 @@ ht-degree: 0%
 
 在您為行動應用程式建立和傳送應用程式內訊息之前，您需要您的行銷人員管理和行動應用程式開發人員來執行一些設定。  製作應用程式內訊息的程式有三個步驟：
 
-## 步驟1:管理員和開發人員執行初始設定 {#step-admin-and-developer-perform-initial-setups}
+## 步驟1:管理員和開發人員執行初始設定{#step-admin-and-developer-perform-initial-setups}
 
-行銷人員管理與行動應用程式開發人員可合作設定您。 如需詳 [細資訊，請參閱「建立推播通知和應用程式內訊息](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) 」之前。
+行銷人員管理與行動應用程式開發人員可合作設定您。 如需詳細資訊，請參閱[建立推播通知和應用程式內訊息之前。](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
 
-## 步驟2:建立應用程式內訊息 {#step-create-an-in-app-message}
+## 步驟2:建立應用程式內訊息{#step-create-an-in-app-message}
 
-您 [使用線上編輯器建立應用程式內訊息](http://docs.marketo.com/display/docs/create+an+in-app+message) 。
+您[使用線上編輯器建立應用程式內訊息](http://docs.marketo.com/display/docs/create+an+in-app+message)。
 
-## 步驟3:傳送！ {#step-send}
+## 步驟3:傳送！{#step-send}
 
-您可以建立程式來 [傳送訊息](http://docs.marketo.com/display/docs/send+your+in-app+message)。
+您可以建立一個程式來發送消息[。](http://docs.marketo.com/display/docs/send+your+in-app+message)
 
 你在路上。
 
