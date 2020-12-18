@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 新增超連結文字 {#add-hyperlinked-text}
+# 新增超連結文字{#add-hyperlinked-text}
 
 1. 輸入您要超連結的文字（亦即按一下此處）。
 1. 選擇文本。
 1. 在編輯器中按一下連結按鈕。
 1. 輸入您希望其連結的URL(例如http://www.mywebsite.com)。
-1. 按一下 **確定**。
+1. 按一下&#x200B;**確定**。
 
