@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 雙方同意設定 {#two-party-consent-settings}
+# 雙方同意設定{#two-party-consent-settings}
 
 為了確保在錄制呼叫時遵守美國雙方同意法，身為管理員，您可以啟用您選擇的預先錄制訊息，在呼叫開始時播放。
 
 >[!PREREQUISITES]
 >
->在執行下列步驟之前，您必須先啟 [用呼叫錄制。](http://docs.marketo.com/x/dAC1Ag)
+>在執行以下步驟之前，您必須先[啟用呼叫記錄。](http://docs.marketo.com/x/dAC1Ag)
 
-1. 按一下「設定」圖示，然後選取「 **設定」**。
+1. 按一下「設定」圖示，然後選取「設定」****。
 
    ![](assets/one-1.png)
 
-1. 在「管理員設定」下，按一 **下「一般**」。
+1. 在「管理設定」下，按一下「一般」****。
 
    ![](assets/two-1.png)
 
-1. 向下捲動至Sales Connect電話設定，然後按一下「管 **理錄音通知」**。
+1. 向下滾動到「Sales Connect Phone Settings（銷售連接電話設定）」 ，然後按一下「Manage recording notice（管理錄音通知）」 **。**
 
    ![](assets/three-1.png)
 
-1. 按一下 **匯入錄制**。
+1. 按一下&#x200B;**Import Recording**。
 
    ![](assets/four-1.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 上傳完成後，在檔案管理員中選取資料（三個點），然後按一下「選 **取為同意聲明」**。 完成 **時按一下** 「確定」。
+1. 上載完成後，在檔案管理器中選擇資料（三個點），然後按一下&#x200B;**選擇為許可聲明**。 完成時，按一下&#x200B;**確定**。
 
    ![](assets/six.png)
 
