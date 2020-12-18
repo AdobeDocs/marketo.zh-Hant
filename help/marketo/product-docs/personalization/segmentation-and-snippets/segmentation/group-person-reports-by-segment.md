@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 按區段分組人員報表 {#group-person-reports-by-segment}
+# 按區段分組人員報表{#group-person-reports-by-segment}
 
-您可以依據您 [在區段中定義](http://docs.marketo.com/display/docs/basic+reporting) 的任 [何區段](http://docs.marketo.com/display/docs/basic+reporting) ，對人 [員報表進行分組](create-a-segmentation.md)。
+您可以將[人員報表](http://docs.marketo.com/display/docs/basic+reporting)依您在區段](create-a-segmentation.md)中定義的[區段](http://docs.marketo.com/display/docs/basic+reporting)分組。[
 
-1. 前往「 **行銷活動** (或 **Analytics**)」區段。
+1. 前往「行銷活動&#x200B;****（或&#x200B;**Analytics**）」區段。
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
@@ -28,21 +28,21 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >在「基本報告」深入探討中進一步瞭解人員報 [告和其他報](http://docs.marketo.com/display/docs/basic+reporting) 告類型。
+   >在[基本報表](http://docs.marketo.com/display/docs/basic+reporting)深入探討中，進一步瞭解人員報表和其他報表類型。
 
-1. 按一下「 **設定** 」標籤，然後按兩下「 **人員群組依據」**。
+1. 按一下「**Setup**」頁籤並按兩下「Group People by **（按**&#x200B;組人員）」。
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
    >[!NOTE]
    >
-   >您也可以 [依人員或公司屬性對人員報表進行分組](http://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute)。
+   >您也可以[依人員或公司屬性](http://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute)將人員報表分組。
 
-1. 在「人 **員分組方式** 」對話方塊中，開始在文字方塊中輸入「區段」。 當「區 **段」標題出** 現時，請從標題下方的清單中選取一個。
+1. 在&#x200B;**Group People by**&#x200B;對話方塊中，開始在文字方塊中輸入「區段」。 當出現&#x200B;**區段**&#x200B;標題時，從標題下方的清單中選擇一個標題。
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
-1. 按一下「 **報表** 」標籤，查看依所選區段分組的報表。
+1. 按一下&#x200B;**報表**&#x200B;標籤，查看依所選區段分組的報表。
 
    ![](assets/image2017-3-28-9-3a26-3a13.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->若要進一步瞭解細分以及如何建立和管理，請參 [閱細分](http://docs.marketo.com/display/docs/segmentation+and+snippets) 。
+>若要進一步瞭解區段以及如何建立和管理區段，請參閱[區段](http://docs.marketo.com/display/docs/segmentation+and+snippets)深入探討。
 
 >[!MORELIKETHIS]
 >
