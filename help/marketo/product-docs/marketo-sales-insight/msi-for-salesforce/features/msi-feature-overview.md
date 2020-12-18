@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# MSI功能概觀 {#msi-feature-overview}
+# MSI功能概述{#msi-feature-overview}
 
 MSI在Salesforce Lightning和Classic中提供下列功能。
 
-## Visualforce面板 {#visualforce-panel}
+## Visualforce面板{#visualforce-panel}
 
 MSI Visualforce面板包含下列功能：
 
@@ -35,7 +35,7 @@ MSI Visualforce面板包含下列功能：
 
 * 星與火焰
 
-## 銷售線索佈局 {#lead-layout}
+## 銷售線索佈局{#lead-layout}
 
 Visualforce頁面：
 
@@ -60,7 +60,7 @@ Visualforce頁面：
 * 在Marketo中檢視——按一下此欄位以開啟Marketo中銷售線索的不可編輯檢視。 包括：銷售線索資訊、公司資訊、SFDC銷售線索資訊、SFDC自定義欄位、活動日誌
 * MSI連絡人ID —— 將Salesforce連絡人新增至此欄位，並在銷售機會配置中包含「銷售機會連絡人橋接」面板，以檢視該連絡人的MSI面板
 
-## 連絡人版面 {#contact-layout}
+## 連絡版面{#contact-layout}
 
 Visualforce頁面：
 
@@ -85,7 +85,7 @@ Visualforce頁面：
 * Mkto銷售線索分數
 * Sales Insight —— 開啟連絡人完整清單頁面
 
-## 帳戶配置 {#account-layout}
+## 帳戶配置{#account-layout}
 
 Visualforce頁面：
 
@@ -97,12 +97,12 @@ Visualforce頁面：
 
 * Sales Insight —— 開啟連絡人完整清單頁面
 
-「帳戶配置」 **頁面中** ，不提供下列功能：
+「帳戶配置」頁面中的&#x200B;**not available**&#x200B;功能如下：
 
 * 動作：新增至Marketo促銷活動、傳送Marketo電子郵件、新增／從關注清單移除
 * 星與火焰
 
-## 業務機會佈局 {#opportunity-layout}
+## 機會佈局{#opportunity-layout}
 
 Visualforce頁面：
 
@@ -115,18 +115,18 @@ Visualforce頁面：
 * Sales Insight —— 開啟連絡人完整清單頁面
 * Marketo Opportunity Analysis —— 在Marketo中開啟Opportunity Influct Analyzer
 
-Opportunity Layout頁中 **不提供** 以下功能：
+以下功能是「業務機會佈局」頁中&#x200B;**not available** :
 
 * 動作：新增至Marketo促銷活動、傳送Marketo電子郵件、新增／從關注清單移除
 * 星與火焰
 
-## 銷售線索和聯繫人清單視圖（批量操作） {#lead-and-contact-list-view-bulk-actions}
+## 銷售線索和聯繫人清單視圖（批量操作）{#lead-and-contact-list-view-bulk-actions}
 
 Salesforce Lightning:「銷售機會」和「連絡人」清單檢視中的「新增至監看清單」、「新增至Marketo Campaign」和「傳送Marketo Email大量動作按鈕。
 
 Salesforce Classic:「銷售機會」和「連絡人」清單檢視中的「新增至監看清單」、「新增至Marketo Campaign」和「傳送Marketo Email大量動作按鈕。
 
-## 行銷人員標籤 {#marketo-tab}
+## 行銷標籤{#marketo-tab}
 
 * 最佳下注
 
@@ -162,7 +162,7 @@ Salesforce Classic:「銷售機會」和「連絡人」清單檢視中的「新�
    * 訂閱選項，以接收此類事件的電子郵件通知
    * 高優先順序圖示，顯示此人是最佳賭注
 
-## Marketo Sales Insight配置頁籤 {#marketo-sales-insight-configuration-tab}
+## Marketo Sales Insight配置頁籤{#marketo-sales-insight-configuration-tab}
 
 * 操作設定：包含在SFDC中設定MSI所需的Soap &amp; Rest API憑證
 * MSI配置：包含Marketo標籤和MSI視覺化力面板的設定
@@ -172,14 +172,14 @@ Salesforce Classic:「銷售機會」和「連絡人」清單檢視中的「新�
 >
 >[Salesforce中的Marketo Sales Insight「設定」標籤](http://docs.marketo.com/x/UoCMAg)
 
-## 銷售分析績效報表 {#sales-insight-performance-reports}
+## 銷售分析績效報表{#sales-insight-performance-reports}
 
 檢視透過Salesforce、Microsoft Dynamics、Gmail或Outlook外掛程式傳送之電子郵件的效能
 
-## 行動裝置適用的MSI {#msi-for-mobile}
+## 適用於行動裝置的MSI {#msi-for-mobile}
 
 Salesforce行動應用程式支援MSI功能
 
-## 語言支援 {#language-support}
+## 語言支援{#language-support}
 
 Marketo Sales Insight會依語言儲存。 因此，如果希望它適用於多種語言，則必須分別輸入每種語言的憑據。
