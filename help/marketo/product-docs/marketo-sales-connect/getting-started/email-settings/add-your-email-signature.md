@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 新增您的電子郵件簽名 {#add-your-email-signature}
+# 新增您的電子郵件簽名{#add-your-email-signature}
 
 我們希望從Sales Connect寄送電子郵件給您，以便在從您自己的電子郵件用戶端傳送時，感覺像是順暢的體驗。 最好的方式是新增您的電子郵件簽名。
 
-1. 按一下齒輪表徵圖並選擇「 **Settings（設定）**」。
+1. 按一下齒輪表徵圖並選擇「**設定**」。
 
    ![](assets/add-your-email-signature-1.png)
 
-1. 在「我的帳戶」下，選擇「電 **子郵件設定**」。
+1. 在「My Account（我的帳戶）」下，選擇「Email Settings（電子郵件設定）」**。**
 
    ![](assets/add-your-email-signature-2.png)
 
-1. 按一 **下「地址和簽名** 」，然後選取您要為其建立簽名的電子郵件識別碼。
+1. 按一下&#x200B;**地址和簽名**&#x200B;並選擇要為其建立簽名的電子郵件標識。
 
    ![](assets/add-your-email-signature-3.png)
 
-1. 在簽名卡中，按一下「編 **輯」**。
+1. 在簽名卡中，按一下&#x200B;**編輯**。
 
    ![](assets/add-your-email-signature-4.png)
 
-1. 輸入您想要的文字（或影像），然後按一下「 **儲存**」。
+1. 輸入您想要的文字（或影像），然後按一下「儲存」。****
 
    ![](assets/add-your-email-signature-5.png)
 
