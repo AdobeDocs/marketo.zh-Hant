@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 新增內容至程式碼片段 {#add-content-to-a-snippet}
+# 新增內容至程式碼片段{#add-content-to-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您不能將任何 [Marketto電子郵件語法嵌入](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) 片段中；它無 **法在** 電子郵件中運作。 程式碼片段應該只是內文內容(HTML + TEXT)。
+>您不能將任何[Marketo電子郵件語法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)嵌入程式碼片段；它&#x200B;**not**&#x200B;在電子郵件中運作。 程式碼片段應該只是內文內容(HTML + TEXT)。
 
-1. 前往 **Design Studio。**
+1. 前往&#x200B;**Design Studio.**
 
    ![](assets/designstudio-2.png)
 
-1. 選取您的 **Snippet** ，然後按一 **下「編輯草稿」**。
+1. 選擇您的&#x200B;**Snippet**，然後按一下「編輯草稿」。****
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
@@ -35,25 +35,25 @@ ht-degree: 0%
 
 ## 新增Token {#add-token}
 
-1. 拖放 **Token元素** 。
+1. 拖放&#x200B;**Token**&#x200B;元素。
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
-1. 輸入 **Token** ，然後按一 **下插入**。
+1. 輸入&#x200B;**Token**，然後按一下&#x200B;**插入**。
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
-## 新增影像／檔案 {#add-image-file}
+## 添加映像／檔案{#add-image-file}
 
-1. 拖放影像/ **檔案元素** 。
+1. 拖放&#x200B;**Image/File**&#x200B;元素。
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
    >[!NOTE]
    >
-   >您可以將自己的影像或檔案新增至Marketo。 進一步瞭解 [影像和檔案](http://docs.marketo.com/display/docs/images+and+files)。
+   >您可以將自己的影像或檔案新增至Marketo。 進一步瞭解[影像和檔案](http://docs.marketo.com/display/docs/images+and+files)。
 
-1. 選取要 **使用的影像** ，然後按一下「 **插入」**。
+1. 選擇要使用的&#x200B;**Image** ，然後按一下&#x200B;**Insert**。
 
    ![](assets/image2014-9-16-9-3a35-3a33.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
    >
    >如果您知道特定影像的名稱，也可以搜尋該影像。
 
-## 新增文字 {#add-text}
+## 新增文字{#add-text}
 
 1. 在「HTML版本」區域中輸入以新增文字。
 
@@ -71,11 +71,11 @@ ht-degree: 0%
    >
    >使用格式工具自訂文字。
 
-1. 對於「電子郵件」，請按一下「 **文字版本** 」標籤。
+1. 對於「電子郵件」，按一下「文本版本」標籤。****
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
-1. 按一 **下「從HTML複製**」。
+1. 按一下「從HTML **複製」。**
 
    ![](assets/image2014-9-16-9-3a35-3a59.png)
 
