@@ -11,10 +11,10 @@ ht-degree: 0%
 ---
 
 
-# 如何安裝ToutApp Browser Extension {#how-to-install-the-toutapp-browser-extension}
+# 如何安裝ToutApp瀏覽器擴充功能{#how-to-install-the-toutapp-browser-extension}
 
-1. 按一 **下Web應用程** 式上的設定 [](http://toutapp.com/next#settings)。
-1. 在「My Account（我的帳戶）」下，按一下「 **電子郵件設定**」。
-1. 按一下 **外掛程式**。
-1. 在「Gmail和Google應用程式」下，按一下「 **安裝**」。
+1. 按一下[Web應用程式](http://toutapp.com/next#settings)上的&#x200B;**Settings**。
+1. 在「My Account（我的帳戶）」下，按一下「Email Settings（電子郵件設定）」**。**
+1. 按一下「**外掛程式**」。
+1. 在「Gmail和Google應用程式」下，按一下「**安裝**」。
 
