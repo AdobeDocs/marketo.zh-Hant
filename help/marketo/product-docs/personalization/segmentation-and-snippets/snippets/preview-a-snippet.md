@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 預覽程式碼片段 {#preview-a-snippet}
+# 預覽程式碼片段{#preview-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 程式碼片段是動態內容的區塊，會根據區段規則而變更。
 
-1. 前往 **Design Studio。**
+1. 前往&#x200B;**Design Studio.**
 
    ![](assets/designstudio-3.png)
 
-1. 按一下您的程式碼片段，然後按一 **下「預覽程式碼片段**」。
+1. 按一下程式碼片段，然後按一下「預覽程式碼片段」。****
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 
