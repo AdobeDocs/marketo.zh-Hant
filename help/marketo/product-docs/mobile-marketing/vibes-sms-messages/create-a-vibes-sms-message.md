@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 建立瀏覽式SMS訊息 {#create-a-vibes-sms-message}
+# 建立瀏覽器SMS消息{#create-a-vibes-sms-message}
 
 以下是如何建立Vibes SMS訊息的方式。
 
@@ -19,23 +19,23 @@ ht-degree: 0%
 
    ![](assets/mobile-right-click-hand.jpg)
 
-1. 按一 **下「新增本機資產**」。
+1. 按一下「新增本機資產」。****
 
    ![](assets/new-local-asset-hand.jpg)
 
    >[!TIP]
    >
-   >或者，也可以按一下「 **新增** 」下拉式清單。
+   >或者，您也可以按一下「**New**」下拉式清單。
 
-1. 按一 **下「簡訊」**。
+1. 按一下&#x200B;**SMS消息**。
 
    ![](assets/new-local-asset-selection-hand.jpg)
 
-1. 輸入新SMS訊息的名稱和選用說明，然後按一下「建 **立**」。
+1. 輸入新SMS消息的名稱和可選說明，然後按一下&#x200B;**建立**。
 
    ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
 
-1. 按一下「 **編輯草稿**」。
+1. 按一下「編輯草稿&#x200B;**」。**
 
    ![](assets/edit-draft-hand.jpg)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
    >
    >美國和加拿大的限制不同，分別為160和130個字元。 如果超過這些字元限制，您的訊息可能會被分割。 當您超過加拿大限制時，編輯器會針對美國最佳化，並根據美國限制分割訊息。
 
-1. 按一 **下「插入** 」功能表中的Token，將Token新增至訊息。
+1. 在「插入」功能表中按一下「**Token**」，將Token新增至訊息。
 
    ![](assets/add-token-real-hand.jpg)
 
@@ -55,11 +55,11 @@ ht-degree: 0%
    >
    >新增Token可能會導致訊息超過字元限制。 然後，訊息會分割，導致額外費用。
 
-1. 按一 **下「插入** 」功能表中的「連結」，將連結新增至訊息。
+1. 按一下「插入」菜單中的&#x200B;**連結**，將連結添加到消息中。
 
    ![](assets/full-message-link-hand.jpg)
 
-1. 選取連結類型。 Marketo Landing Page為預設值。 如果您執行此動作，則必須從下拉式清單中選取著陸頁面，然後按一下「插入 **」**。
+1. 選取連結類型。 Marketo Landing Page為預設值。 如果執行此動作，您必須從下拉式清單中選取著陸頁面，然後按一下「插入」。****
 
    ![](assets/insert-link-real-hands.jpg)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
    >
    >預設會選取兩個追蹤連結。
 
-1. 如果您想要改用外部URL，請按一下「 **外部URL** 」按鈕，然後在「URL」欄位中輸入URL。 按一 **下插入**。
+1. 如果您想要改用外部URL，請按一下「**外部URL**」按鈕，然後在「URL」欄位中輸入URL。 按一下&#x200B;**插入**。
 
    ![](assets/insert-link-url-hands.jpg)
 
