@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 以其他用戶身份查看模板清單 {#view-template-list-as-a-another-user}
+# 以其他用戶身份查看模板清單{#view-template-list-as-a-another-user}
 
 身為管理員，您可以以任何使用者的身分檢視範本。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
-1. 按一 **下範本**。
+1. 按一下&#x200B;**Templates**。
 
    ![](assets/one.png)
 
-1. 按一下「 **檢視方式** 」下拉式清單，並選取所要的使用者。
+1. 按一下「檢視方式」下拉式清單，並選取所要的使用者。****
 
    ![](assets/two.png)
 
