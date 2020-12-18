@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 前瞻分析資料板功能概觀 {#insights-dashboard-feature-overview}
+# 前瞻分析控制面板功能概述{#insights-dashboard-feature-overview}
 
 進一步瞭解Sales Insights儀表板中的可用功能。
 
 >[!PREREQUISITES]
 >
->您必須擁有最新的MSI SFDC套件和 [設定](http://docs.marketo.com/x/F4GMAg)。
+>您必須擁有最新的MSI SFDC軟體包和[configuration](http://docs.marketo.com/x/F4GMAg)。
 
 ![](assets/one.png)
 
-## 連絡人版面 {#contact-layout}
+## 連絡版面{#contact-layout}
 
 **參與速度格線**
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ![](assets/two.png)
 
-## 銷售線索佈局 {#lead-layout}
+## 銷售線索佈局{#lead-layout}
 
 **參與速度格線**
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 ![](assets/four.png)
 
-## 帳戶配置 {#account-layout}
+## 帳戶配置{#account-layout}
 
 **參與速度格線**
 
@@ -139,7 +139,7 @@ ht-degree: 0%
 * 此區段中的活動詳細資料卡片具有預覽選項
 * 篩選條件包括「搜尋」、「僅顯示受邀事件」和「日期範圍」
 
-## 業務機會佈局 {#opportunity-layout}
+## 機會佈局{#opportunity-layout}
 
 **參與速度格線**
 
@@ -156,7 +156,7 @@ ht-degree: 0%
 * 「每週摘要」列會顯示該周的「有趣時刻」、「電子郵件」和「網頁活動」。 每個圖示都可點按，可用作顯示特定活動的篩選器
 * 預設檢視：這是當前視圖的活動清單
 
-**「即將推出的電子郵件促銷活動」和「事件** 」「電子郵件促銷活動」標籤：
+**「近期電子郵件促銷活動」和「** 事件」「電子郵件促銷活動」標籤：
 
 * 包含屬於未來90天內排程之電子郵件方案或預設方案的促銷活動
 * 非特定於連絡人／潛在客戶（亦即，促銷活動清單是Marketo例項中排程之所有電子郵件促銷活動的一般清單）。 所有銷售機會、連絡人、帳戶和銷售機會面板的促銷活動清單將相同
