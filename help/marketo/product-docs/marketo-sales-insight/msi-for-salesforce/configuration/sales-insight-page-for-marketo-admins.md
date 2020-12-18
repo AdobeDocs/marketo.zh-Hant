@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Marketo管理員的銷售分析頁面 {#sales-insight-page-for-marketo-admins}
+# Marketo管理員的銷售分析頁面{#sales-insight-page-for-marketo-admins}
 
 Marketo管理員在Sales Insight中擁有特定權限。 瞭解它們的下列功能。
 
-## Soap API設定 {#soap-api-configuration}
+## Soap API配置{#soap-api-configuration}
 
 這些憑證可用來將您的Salesforce帳戶連接至您的Marketo例項，以便在Salesforce中使用MSI。
 
 ![](assets/one-1.png)
 
-## Rest API設定 {#rest-api-configuration}
+## Rest API Configuration {#rest-api-configuration}
 
 這些憑證可用來將您的Salesforce帳戶連接至您的Marketo例項，以便在Salesforce中使用MSI Insights Dashboard。
 
@@ -31,7 +31,7 @@ Marketo管理員在Sales Insight中擁有特定權限。 瞭解它們的下列�
 
 ![](assets/three-1.png)
 
-## 人員分數設定 {#person-score-settings}
+## 人員分數設定{#person-score-settings}
 
 | **星：** | 星號代表與其他潛在客源相比的總潛在客戶分數。 |
 |---|---|
@@ -39,11 +39,11 @@ Marketo管理員在Sales Insight中擁有特定權限。 瞭解它們的下列�
 
 依預設，Marketo Sales Insight會使用「銷售線索分數」欄位來計算明星和火焰。 但是，如果您想要選擇不同的領域，以下是方法：
 
-1. 在Marketo的「 **管理** 」區域中，按一下「 **銷售分析」**。
+1. 在Marketo的&#x200B;**Admin**&#x200B;區域中，按一下&#x200B;**Sales Insight**。
 
    ![](assets/four.png)
 
-1. 在「銷售線索計分設定」下，按一下「 **編輯**」。
+1. 在「銷售線索計分設定」下，按一下「編輯」。****
 
    ![](assets/five.png)
 
@@ -55,13 +55,13 @@ Marketo管理員在Sales Insight中擁有特定權限。 瞭解它們的下列�
 
    ![](assets/seven.png)
 
-1. 按一下 **儲存**。 重新計算銷售見解需要一些時間。 您稍後可以檢查您的CRM，看看明星和火焰。
+1. 按一下&#x200B;**保存**。 重新計算銷售見解需要一些時間。 您稍後可以檢查您的CRM，看看明星和火焰。
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >如果您尚未擁有自訂分數欄位，請以下說明如何建 [立](http://docs.marketo.com/x/3wMk)。
+   >如果您尚未擁有自訂分數欄位，請參閱以下說明如何建立[欄位](http://docs.marketo.com/x/3wMk)。
 
    >[!NOTE]
    >
@@ -70,7 +70,7 @@ Marketo管理員在Sales Insight中擁有特定權限。 瞭解它們的下列�
    >
    >[星火](http://docs.marketo.com/x/qgU6Ag)
 
-## 設定 {#settings}
+## 設定{#settings}
 
 ![](assets/nine.png)
 
@@ -89,4 +89,4 @@ Marketo管理員在Sales Insight中擁有特定權限。 瞭解它們的下列�
 
 **啟用RSS饋送：**
 
-啟用後，MSI使用者可以在RSS饋送中檢視其銷售機會饋送（除了Salesforce中的銷售機會饋送）**。**
+啟用後，MSI使用者可在RSS饋送中檢視其銷售機會饋送（除了Salesforce中的銷售機會饋送）**。**
