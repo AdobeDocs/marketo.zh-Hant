@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 將促銷活動儲存為範本 {#save-your-campaign-as-a-template}
+# 將促銷活動儲存為範本{#save-your-campaign-as-a-template}
 
 您是否曾花時間建立完美的Web促銷活動？ 您現在可以將它儲存為範本，以方便日後重複使用。
 
