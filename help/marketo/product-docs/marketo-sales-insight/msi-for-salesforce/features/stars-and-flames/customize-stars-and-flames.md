@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 自訂星光與火焰 {#customize-stars-and-flames}
+# 自定義星形和火焰{#customize-stars-and-flames}
 
 Marketo Sales Insight使用明星和火焰來優先列出銷售線索。 Marketo會自動決定誰能得到1-2-3顆星／火焰。 但是，您可以修改公式。 以下說明方法：
 
@@ -29,25 +29,25 @@ Marketo Sales Insight使用明星和火焰來優先列出銷售線索。 Marketo
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. 在「銷售線 **索計分設定」區段** ，按一 **下「編輯」**。
+1. 在&#x200B;**銷售線索計分設定**&#x200B;部分下，按一下&#x200B;**編輯**。
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
-1. 選取您 **選擇的計分方** 法。
+1. 選擇您選擇的&#x200B;**計分方法**。
 
    >[!NOTE]
    >
    >**定義**
    >
    >
-   >**動態** -是從相對資料衍生的百 [分比值](priority-urgency-relative-score-and-best-bets.md)。 棒極了。 建議使用此方法。
+   >**動態** -是從相對資料衍生的百 [分比值](priority-urgency-relative-score-and-best-bets.md)。棒極了。 建議使用此方法。
    >
    >
    >**靜態** -可讓您定義精確的分數數字——不再有百分比，也不再有秘密碟。
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 
-1. 依您的喜好編輯百分比方括弧並 **儲存**。
+1. 依您的喜好編輯百分比方括弧和&#x200B;**Save**。
 
    >[!TIP]
    >
