@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 電子郵件中的CC或密件副本 {#cc-or-bcc-in-emails}
+# 電子郵件{#cc-or-bcc-in-emails}中的CC或密件副本
 
 您可以像電子郵件一般那樣，透過CC和BCC個人。
 
