@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 報表類型概述 {#report-type-overview}
+# 報表類型概述{#report-type-overview}
 
-在程式 [中建立報表時](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)，請選擇您想要的報表類型。
+當[在程式](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)中建立報表時，請選擇所需的報表類型。
 
-## 最常使用的報表 {#most-used-reports}
+## 最常使用的報表{#most-used-reports}
 
 <table> 
  <thead> 
@@ -47,7 +47,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">按收入階段列出的人員報表</a>  </strong></td> 
-   <td>收入模型的基 <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">本報表</a>。 如需更 <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">深入的報表</a> ，請參閱收入週期分析。</td> 
+   <td><a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">收入模型</a>的基本報表。 如需更深入的報告，請參閱<a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">收入週期分析</a>。</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">著陸頁面效能</a>  </strong></td> 
@@ -55,7 +55,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">計畫績效</a>  </strong></td> 
-   <td>基本計畫量度，例如成員和成功。 如需更 <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">深入的報表</a> ，請參閱收入週期分析。</td> 
+   <td>基本計畫量度，例如成員和成功。 如需更深入的報告，請參閱<a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">收入週期分析</a>。</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">公司網路活動</a>  </strong></td> 
@@ -71,23 +71,23 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">參與流績效報告</a> </strong></td> 
-   <td><p>瞭解您的參與 <a href="http://docs.marketo.com/display/docs/drip+nurturing">計畫</a> 成效如何。</p></td> 
+   <td><p>瞭解您的<a href="http://docs.marketo.com/display/docs/drip+nurturing">參與計畫</a>運作成效如何。</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## 其他報表 {#miscellaneous-reports}
+## 其他報表{#miscellaneous-reports}
 
 沒有上述報表類型那麼有用，但仍然可用。
 
 | 報表 | 說明 |
 |---|---|
-| **促銷 [活動](campaign-activity-report.md) ** | 智慧型促銷活動處理統計資料。 |
-| **促銷 [活動電子郵件績效](campaign-email-performance-report.md) ** | 電子郵件績效，依智慧型促銷活動分組。 |
+| ** [促銷活動](campaign-activity-report.md) ** | 智慧型促銷活動處理統計資料。 |
+| ** [促銷活動電子郵件績效](campaign-email-performance-report.md) ** | 電子郵件績效，依智慧型促銷活動分組。 |
 
 >[!NOTE]
 >
 >**深入探討**
 >
->若要查看這些報表的所有功能，請參閱「基本報 [表](http://docs.marketo.com/display/docs/basic+reporting) 」深入探討。
+>若要查看這些報表的所有功能，請參閱[基本報表](http://docs.marketo.com/display/docs/basic+reporting)深入探討。
 
