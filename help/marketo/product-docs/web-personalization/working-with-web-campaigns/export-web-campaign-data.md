@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 匯出Web促銷活動資料 {#export-web-campaign-data}
+# 匯出Web促銷活動資料{#export-web-campaign-data}
 
 請依照下列簡單步驟匯出您的網頁促銷活動資料。
 
-1. 前往「網 **頁促銷活動**」。
+1. 前往&#x200B;**Web促銷活動**。
 
    ![](assets/one-2.png)
 
