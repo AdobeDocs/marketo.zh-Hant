@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 建立新對話方塊Web促銷活動 {#create-a-new-dialog-web-campaign}
+# 建立新的對話方塊Web促銷活動{#create-a-new-dialog-web-campaign}
 
-## 建立對話方塊Web促銷活動 {#create-a-dialog-web-campaign}
+## 建立對話方塊Web促銷活動{#create-a-dialog-web-campaign}
 
 建立網頁促銷活動，即時個人化您的網頁內容，並在適當的時間向適當的使用者提供適當的訊息。
 
-Web促銷活動是與特定群體相關的自訂反應。 回應可以是您網站上的對話方塊、區 [域取代](create-a-new-in-zone-web-campaign.md)、介 [面工](create-a-new-widget-web-campaign.md)具集功能或電子郵件警報。
+Web促銷活動是與特定群體相關的自訂反應。 反應可以是網站上的對話方塊、區域取代](create-a-new-in-zone-web-campaign.md)中的[、[介面工具集功能](create-a-new-widget-web-campaign.md)或電子郵件警報。
 
-1. 前往「網 **頁促銷活動**」。
+1. 前往&#x200B;**Web促銷活動**。
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. 選取「 **建立新的Web促銷活動**」。
+1. 選擇&#x200B;**建立新的Web促銷活動**。
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. 選取「對 **話** 」Web促銷活動類型。 在編輯器中設計和新增您的創意。 按一 **下「預覽** 」，查看網頁促銷活動對您網站的反應。
+1. 選擇&#x200B;**Dialog** Web促銷活動類型。 在編輯器中設計和新增您的創意。 按一下「預覽」，查看網站促銷活動在您網站上的反應。****
 
    ![](assets/new-3.png)
 
@@ -41,7 +41,7 @@ Web促銷活動是與特定群體相關的自訂反應。 回應可以是您網�
  <tbody> 
   <tr> 
    <td colspan="1"><strong>顯示於</strong></td> 
-   <td colspan="1">可讓您自 <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">訂Web促銷活動的顯示時</a> 間和方式。</td> 
+   <td colspan="1">可讓您自訂Web促銷活動的顯示時機和方式。<a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow"></a></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>對話框樣式</strong></td> 
@@ -119,7 +119,7 @@ Web促銷活動是與特定群體相關的自訂反應。 回應可以是您網�
     <ul> 
      <li>URL —— 輸入執行促銷活動的範例URL，以檢視促銷活動的顯示效果預覽範例。</li> 
      <li>裝置——預覽促銷活動依裝置的顯示方式：桌上型電腦、行動縱向、行動橫向、平板電腦縱向、縱向橫向。<br></li> 
-     <li>預覽——按一 <strong>下 </strong>預覽以開啟範例URL的新視窗，瞭解促銷活動的反應。 </li> 
+     <li>預覽——按一下「預覽<strong>預覽</strong>」以開啟範例URL的新視窗，瞭解促銷活動的反應。 </li> 
      <li>共用——使用「共用」按鈕，將電子郵件傳送給具有連結的同事，以查看代理促銷活動。</li> 
     </ul></td> 
   </tr> 
@@ -128,31 +128,31 @@ Web促銷活動是與特定群體相關的自訂反應。 回應可以是您網�
 
 >[!TIP]
 >
->使用我們內建的範本或將現有的促銷活動儲存為范 [本，以加速並簡化您的促銷活](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)[動建立程式](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) ，以供重複使用。
+>使用我們內建的[範本](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)或[儲存現有促銷活動](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)做為範本，以加速並簡化促銷活動建立程式。
 
-## 編輯Web促銷活動 {#edit-a-web-campaign}
+## 編輯Web促銷活動{#edit-a-web-campaign}
 
-1. 在「網頁 **促銷活****動」頁面** ，按一下 **網頁促銷活動上的** 「編輯」。
+1. 從&#x200B;**Web****促銷活動**&#x200B;頁面，按一下Web促銷活動上的&#x200B;**編輯**。
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->若要更輕鬆找到您想要的Web促銷活動，請使用篩 [選功能](filter-web-campaigns.md)。
+>若要更輕鬆找到您想要的Web促銷活動，請使用[篩選功能](filter-web-campaigns.md)。
 
-## 預覽Web促銷活動 {#preview-a-web-campaign}
+## 預覽Web促銷活動{#preview-a-web-campaign}
 
-1. 在「網 **頁促銷活動** 」頁面中，按一 **** 下您要檢視之網頁促銷活動上的「預覽」。
+1. 在&#x200B;**Web促銷活動**&#x200B;頁面中，按一下您要檢視之Web促銷活動上的&#x200B;**預覽**。
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
-## 複製Web促銷活動 {#clone-a-web-campaign}
+## 複製Web促銷活動{#clone-a-web-campaign}
 
-請參 [閱仿製Web促銷活動](clone-a-web-campaign.md)。
+請參閱[複製Web促銷活動](clone-a-web-campaign.md)。
 
-## 刪除Web促銷活動 {#delete-a-web-campaign}
+## 刪除Web促銷活動{#delete-a-web-campaign}
 
-1. 在「網 **頁促銷活動** 」頁面中，按一下您要刪除之網頁促銷活動上的**刪除**。
+1. 在&#x200B;**Web促銷活動**&#x200B;頁面中，按一下您要刪除之Web促銷活動上的**刪除**。
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
