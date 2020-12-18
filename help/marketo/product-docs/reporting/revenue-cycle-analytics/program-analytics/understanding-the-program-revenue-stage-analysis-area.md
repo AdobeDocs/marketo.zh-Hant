@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 瞭解方案收入階段分析區域 {#understanding-the-program-revenue-stage-analysis-area}
+# 瞭解方案收入階段分析區域{#understanding-the-program-revenue-stage-analysis-area}
 
 此分析區域可讓您分析個別程式的效能，或依通道檢視摘要結果。 它可讓您深入瞭解產生的新名稱有多少已到達您收入週期模型中的特定成功路徑階段。
 
