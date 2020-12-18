@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 新增自訂欄至人員報表 {#add-custom-columns-to-a-person-report}
+# 新增自訂欄至人員報表{#add-custom-columns-to-a-person-report}
 
-您可以使用智慧型清單作為自訂欄， [進一步篩選人](http://docs.marketo.com/display/docs/basic+reporting)[員報表中的量](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) 度。
+您可以使用[智慧型清單](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)做為自訂欄，進一步篩選[person reports](http://docs.marketo.com/display/docs/basic+reporting)中的量度。
 
-1. 前往「行 **銷活動** (或 **Analytics**)」區域。
+1. 前往「行銷活動」區域（或&#x200B;**Analytics**）。****
 
    ![](assets/ma-1.png)
 
-1. 選擇您的報表，然後按一下「 **設定** 」標籤。
+1. 選擇您的報表，然後按一下&#x200B;**Setup**&#x200B;標籤。
 
    ![](assets/two-1.png)
 
-1. 拖曳至 **自訂欄**。
+1. 拖曳至&#x200B;**自訂欄**。
 
    ![](assets/three-1.png)
 
@@ -36,9 +36,9 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >瞭解如何在智慧型清單和靜態清單深入探 [討中建立和設定智慧型清單](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) 。
+   >瞭解如何在[智慧型清單和靜態清單](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)深入探討中建立和設定智慧型清單。
 
-1. 你做到了！ 按一下「 **報表** 」標籤，查看含有新欄的報表。
+1. 你做到了！ 按一下&#x200B;**報表**&#x200B;標籤，查看您的報表及新欄。
 
    ![](assets/five-1.png)
 
@@ -47,12 +47,12 @@ ht-degree: 0%
    >**相關文章**
    >
    >
-   >您也可以 [將Opportunity列添加到Lead Report](add-opportunity-columns-to-a-lead-report.md)。
+   >您也可以[將業務機會列添加到銷售線索報表](add-opportunity-columns-to-a-lead-report.md)。
 
    >[!NOTE]
    >
    >**深入探討**
    >
    >
-   >從「基本報告」深入探討報告的功能，以進一步了 [解您可以做](http://docs.marketo.com/display/docs/basic+reporting) 的許多事。
+   >在[基本報表](http://docs.marketo.com/display/docs/basic+reporting)深入探討中，瞭解您可以處理報表的許多功能。
 
