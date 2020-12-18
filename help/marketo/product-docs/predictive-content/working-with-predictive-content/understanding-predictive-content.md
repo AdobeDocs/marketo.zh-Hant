@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 瞭解預測性內容 {#understanding-predictive-content}
+# 瞭解預測性內容{#understanding-predictive-content}
 
 >[!NOTE]
 >
->根據購買日期，您的Marketo訂閱可能包含Marketo預測性內容或內容`<sup>AI</sup>`。 對於使用「預測性內容」的使用者，Marketo會在2018年4月`<sup>AI</sup>` 30日之前啟用「內容分析」功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo Content`<sup>AI</sup>`。
+>視購買日期而定，您的Marketo訂閱可能包含Marketo Predictive Content或Content`<sup>AI</sup>`。 對於使用預測性內容的使用者，Marketo會在2018年4月30日之前啟用「內容`<sup>AI</sup>`分析」功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo Content`<sup>AI</sup>`。
 
-在您核准 [預測性內容的標題後](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)，您可在此處處理。 「預測性內容」頁面會顯示您已針對預測性內容核准的所有標題。
+在[核准預測性內容的標題](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)後，您就可在此處處理它。 「預測性內容」頁面會顯示您已針對預測性內容核准的所有標題。
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
@@ -27,14 +27,14 @@ ht-degree: 0%
 * **源啟用**:顯示標題是否已核准至Rich Media、電子郵件或建議列。
 * **類別**:由您建立，用於將網路或電子郵件的預測結果分組
 * **點按**:建議內容（包括所有來源）的點按總數
-* **轉換率**:直接轉換除以點按計算的百分比。 將滑鼠指標暫留以檢視其他資料（請參閱下方）
+* **轉換率**:直接轉換除以點按計算的百分比。將滑鼠指標暫留以檢視其他資料（請參閱下方）
 * **輔助轉換**:在過去瀏覽中點選建議內容並稍後完成表單的訪客
 
-## 篩選內容 {#filtering-content}
+## 篩選內容{#filtering-content}
 
 **類別**
 
-您可以依您建立的類別篩選內容。 按一下篩選圖示，然後在「 **類別**」下，選取一或多個內容類別。
+您可以依您建立的類別篩選內容。 按一下篩選圖示，然後在&#x200B;**Category**&#x200B;下，選取一或多個內容類別。
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
@@ -50,15 +50,15 @@ ht-degree: 0%
 
 ![](assets/image2017-10-3-9-3a25-3a34.png)
 
-## 依日期顯示分析 {#display-analytics-by-date}
+## 依日期顯示分析{#display-analytics-by-date}
 
-1. 選擇右側的開始和結束日期（如所示）。 按一 **下套用**。
+1. 選擇右側的開始和結束日期（如所示）。 按一下&#x200B;**Apply**。
 
    ![](assets/predictive-content-filter-by-date-hands.png)
 
-## 檢視預測性內容的表格資料 {#view-table-data-for-predictive-content}
+## 檢視預測性內容的表格資料{#view-table-data-for-predictive-content}
 
-在表格中，您可以從左至右檢視哪些來源已啟用預測性內容：建議列、電子郵件和多媒體。 啟用的來源以綠色顯示。 您可在編輯內容時 [啟用這些功能](http://docs.marketo.com/display/docs/edit+predictive+content)。
+在表格中，您可以從左至右檢視哪些來源已啟用預測性內容：建議列、電子郵件和多媒體。 啟用的來源以綠色顯示。 當您[編輯內容](http://docs.marketo.com/display/docs/edit+predictive+content)時，可啟用這些功能。
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
