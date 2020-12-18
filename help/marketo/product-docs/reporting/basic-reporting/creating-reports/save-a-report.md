@@ -11,26 +11,26 @@ ht-degree: 0%
 ---
 
 
-# 儲存報表 {#save-a-report}
+# 儲存報表{#save-a-report}
 
 有時，您可能需要儲存預設報表，以便稍後再檢視。 您可以透過下列方式：
 
-1. 前往「分 **析** 」區。
+1. 前往&#x200B;**Analytics**&#x200B;區域。
 1. ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. 選擇報 [表類型](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+1. 選擇[報表類型](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
-1. 按一下「**報表動作**」並選取「另 **存新檔」**。
+1. 按一下「**報表動作**」並選取「另存新檔」。****
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **保存到位置** ，然後選擇一個 **資料夾**。
+1. **保存** 到位置並選擇 **資料夾**。
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **命名報表** ，然後按一下「 **儲存**」。
+1. **為報** 表命名，然後按一 **下儲存**。
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
@@ -40,5 +40,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->瞭解如何 [將報表複製至群組報表](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)。
+>瞭解如何[將報表複製至群組報表](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)。
 
