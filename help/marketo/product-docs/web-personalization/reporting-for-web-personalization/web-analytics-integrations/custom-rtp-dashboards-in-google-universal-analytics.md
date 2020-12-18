@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Google Universal Analytics中的自訂RTP儀表板 {#custom-rtp-dashboards-in-google-universal-analytics}
+# Google Universal Analytics中的自訂RTP儀表板{#custom-rtp-dashboards-in-google-universal-analytics}
 
 >[!PREREQUISITES]
 >
@@ -22,18 +22,18 @@ ht-degree: 0%
 * RTP B2B
 * RTP參與
 
-## 設定自訂控制面板 {#setting-up-a-custom-dashboard}
+## 設定自訂控制面板{#setting-up-a-custom-dashboard}
 
-1. 登入Google Analytics。 按一下頂端功能表中的**Reporting **。 按一下「**控制面板**和 **+新的自訂控制面板」。**
+1. 登入Google Analytics。 按一下頂端功能表中的**Reporting **。 按一下「**控制面板**」和「**+新增自訂控制面板」。**
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
-1. 選取「 **空白畫布**」、新增「控制 **面板名稱」** ，然後按一 **下「建立控制面板**」。
+1. 選擇&#x200B;**空白畫布**，新增&#x200B;**控制面板名稱**，然後按一下「建立控制面板&#x200B;**」。**
 
-1. 按一 **下「新增介面工具集** 」以建立新介面工具集。\
+1. 按一下「新增介面工具集」，以建立新介面工具集。****\
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
-## RTP B2B儀表板 {#rtp-b-b-dashboard}
+## RTP B2B儀表板{#rtp-b-b-dashboard}
 
 此儀表板可讓使用者從B2B的角度分析其網站效能。
 
@@ -73,14 +73,14 @@ ht-degree: 0%
      <li>建立長條圖，其中顯示：會話</li> 
      <li>分組依據：事件標籤</li> 
      <li>透視方式：預設渠道群組</li> 
-     <li>篩選： <br>僅顯示 |事件類別（包含）RTP-區段</li> 
+     <li>篩選：<br>僅顯示 |事件類別（包含）RTP-區段</li> 
     </ul><p><img width="300" src="assets/image2015-3-23-11-3a32-3a13.png" data-linked-resource-id="7504247" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>名稱：RTP分段用戶數</li> 
      <li>類型：2.1量度</li> 
      <li>顯示下列量度：使用者<br></li> 
-     <li>篩選： <br>僅顯示 |事件類別（包含）RTP-區段</li> 
+     <li>篩選：<br>僅顯示 |事件類別（包含）RTP-區段</li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a6.png" data-linked-resource-id="7504249" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
@@ -139,15 +139,15 @@ ht-degree: 0%
     <ul> 
      <li>名稱：依熱門細分的工作階段和目標</li> 
      <li>類型：表格<br></li> 
-     <li>顯示下列欄： <br>事件標籤 |工作階段 |目標轉換率</li> 
-     <li>篩選： <br>僅顯示 |事件類別（包含）RTP-區段</li> 
+     <li>顯示下列欄：<br>事件標籤 |工作階段 |目標轉換率</li> 
+     <li>篩選：<br>僅顯示 |事件類別（包含）RTP-區段</li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
    <th> </th> 
   </tr> 
  </tbody> 
 </table>
 
-## RTP參與儀表板 {#rtp-engagement-dashboard}
+## RTP參與儀表板{#rtp-engagement-dashboard}
 
 此控制面板可讓使用者分析其RTP促銷活動效能和建議引擎參與。 它提供平均值的比較 會話持續時間和每個會話的頁數介於：
 
@@ -157,7 +157,7 @@ ht-degree: 0%
    * 參與（個人化促銷活動的曝光和點按）
    * 點按建議引擎和主要建議內容
 
-建立名為「 **RTP參與儀表板」的新儀表板** ，並定義下列Widget:
+建立名為&#x200B;**RTP參與儀表板**&#x200B;的新儀表板，並定義下列Widget:
 
 ![](assets/image2015-3-22-17-3a7-3a19.png)
 
@@ -179,65 +179,65 @@ ht-degree: 0%
   <tr> 
    <td> 
     <ul> 
-     <li>名稱： <strong>CTA總計（參與）</strong></li> 
-     <li>類型： <strong>2.1量度 </strong></li> 
-     <li>顯示下列量度： <strong>事件總數</strong></li> 
-     <li>篩選器：<br><strong>[僅顯示]事件類別（包含）:RTP-Campaigns</strong><br><strong>[僅顯示]事件操作（完全匹配）:印象</strong><strong>[不顯示]事件標籤（包含）:#</strong></li> 
+     <li>名稱：<strong>CTA（參與）總計</strong></li> 
+     <li>類型：<strong>2.1量度</strong></li> 
+     <li>顯示下列量度：<strong>事件總數</strong></li> 
+     <li>篩選器：<br><strong>[僅顯示]事件類別（包含）:RTP-Campaigns</strong><br><strong>[僅顯示]事件操作（完全匹配）:曝光</strong><strong>[不顯示]事件標籤（包含）:#</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
-     <li>名稱： <strong>CTA總計（點進）</strong></li> 
-     <li>類型： <strong>2.1量度 </strong></li> 
-     <li>顯示下列量度： <strong>事件總數</strong></li> 
+     <li>名稱：<strong>總CTA（點進）</strong></li> 
+     <li>類型：<strong>2.1量度</strong></li> 
+     <li>顯示下列量度：<strong>事件總數</strong></li> 
      <li>篩選器：<br><strong>[僅顯示]事件類別（包含）:RTP-Campaigns</strong><br><strong>[僅顯示]事件操作（完全匹配）:點按</strong><strong>[不顯示]事件標籤（包含）:#</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
-     <li>名稱： <strong>CRE —— 點按總次數</strong></li> 
-     <li>類型： <strong>2.1量度</strong><br></li> 
-     <li>顯示下列量度： <strong>頁面檢視</strong></li> 
-     <li>篩選： <strong>[僅顯示]頁面（包含）:rcmd</strong></li> 
+     <li>名稱：<strong>CRE —— 點按總次數</strong></li> 
+     <li>類型：<strong>2.1量度</strong><br></li> 
+     <li>顯示下列量度：<strong>Pageviews</strong></li> 
+     <li>篩選：<strong>[only show]頁（包含）:rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a38-3a30.png" data-linked-resource-id="7504262" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <ul> 
-     <li>名稱： <strong>平均 工作階段持續時間（參與）</strong></li> 
-     <li>類型： <strong>2.1量度 </strong></li> 
-     <li>顯示下列量度： <strong>平均 工作階段持續時間</strong></li> 
+     <li>名稱：<strong>平均 會話持續時間（參與）</strong></li> 
+     <li>類型：<strong>2.1量度</strong></li> 
+     <li>顯示下列量度：<strong>平均 會話持續時間</strong></li> 
      <li>篩選器：<br><strong>[僅顯示]事件類別（完全符合）:RTP-Campaigns</strong><br><strong>[僅顯示]事件操作（完全匹配）:印象</strong><strong>[不顯示]事件標籤（包含）:#</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
-     <li>名稱： <strong>平均 作業持續時間（點進）</strong></li> 
-     <li>類型： <strong>2.1量度 </strong></li> 
-     <li>顯示下列量度： <strong>平均 工作階段持續時間</strong></li> 
-     <li>篩選器：<br><strong>[僅顯示]事件類別（完全符合）:RTP-Campaigns</strong><br><strong>[僅顯示]事件操作（完全匹配）:點按</strong><strong>[不顯示]事件標籤（包含）:#</strong></li> 
+     <li>名稱：<strong>平均 會話持續時間（點進）</strong></li> 
+     <li>類型：<strong>2.1量度</strong></li> 
+     <li>顯示下列量度：<strong>平均 會話持續時間</strong></li> 
+     <li>篩選器：<br><strong>[僅顯示]事件類別（完全符合）:RTP-Campaigns</strong><br><strong>[僅顯示]事件操作（完全匹配）:clicks</strong><strong>[不顯示]事件標籤（包含）:#</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
-     <li>名稱： <strong>CRE —— 主要建議內容</strong></li> 
-     <li>類型： <strong>表格</strong><br></li> 
-     <li>顯示下列欄： <br><strong>頁面標題 |頁面檢視</strong><br></li> 
-     <li>篩選器：<br>篩選器： <strong>[僅顯示]頁面（包含）:rcmd</strong></li> 
+     <li>名稱：<strong>CRE —— 主要建議內容</strong></li> 
+     <li>類型：<strong>表</strong><br></li> 
+     <li>顯示下列欄：<br><strong>頁面標題 | Pageviews</strong><br></li> 
+     <li>篩選器：<br>篩選器：<strong>[only show]頁（包含）:rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a51.png" data-linked-resource-id="7504266" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
    <td> 
     <ul> 
-     <li>名稱： <strong>頁面／工作階段（參與）</strong></li> 
-     <li>類型： <strong>2.1量度 </strong></li> 
-     <li>顯示下列量度： <strong>頁面／作業</strong></li> 
-     <li>篩選器：<br><strong>[僅顯示]事件類別（完全符合）:RTP促銷活動</strong></li> 
+     <li>名稱：<strong>頁面／工作階段（參與）</strong></li> 
+     <li>類型：<strong>2.1量度</strong></li> 
+     <li>顯示下列量度：<strong>頁／會話</strong></li> 
+     <li>篩選器：<br><strong>[僅顯示]事件類別（完全符合）:RTP-Campaigns</strong></li> 
      <li><strong>[僅顯示]事件操作（完全匹配）:印象</strong></li> 
      <li><strong>[不顯示]事件標籤（包含）:#</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a10.png" data-linked-resource-id="7504267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
-     <li>名稱： <strong>頁面／工作階段（點進）</strong></li> 
-     <li>類型： <strong>2.1量度 </strong></li> 
-     <li>顯示下列量度： <strong>頁面／作業</strong></li> 
-     <li>篩選器：<br><strong>[僅顯示]事件類別（完全符合）:RTP促銷活動</strong></li> 
+     <li>名稱：<strong>頁面／工作階段（點進）</strong></li> 
+     <li>類型：<strong>2.1量度</strong></li> 
+     <li>顯示下列量度：<strong>頁／會話</strong></li> 
+     <li>篩選器：<br><strong>[僅顯示]事件類別（完全符合）:RTP-Campaigns</strong></li> 
      <li><strong>[僅顯示]事件操作（完全匹配）:點擊</strong></li> 
      <li><strong>[不顯示]事件標籤（包含）:#</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
@@ -246,17 +246,17 @@ ht-degree: 0%
   <tr> 
    <td> 
     <ul> 
-     <li>名稱： <strong>曝光次數（依CTA）</strong></li> 
-     <li>類型： <strong>表格</strong></li> 
-     <li>顯示下列欄： <strong>事件標籤 |事件總數 |使用者</strong></li> 
+     <li>名稱：<strong>CTA</strong>曝光次數</li> 
+     <li>類型：<strong>表</strong></li> 
+     <li>顯示下列欄：<strong>事件標籤 |事件總數 |用戶</strong></li> 
      <li>篩選器：<br><strong>[僅顯示]事件類別（完全符合）:RTP-Campaigns</strong><br><strong>[僅顯示]事件操作（完全匹配）:印象</strong><strong>[不顯示]事件標籤（包含）:#</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
-     <li>名稱： <strong>CTA點進</strong></li> 
-     <li>類型： <strong>表格</strong></li> 
-     <li>顯示下列欄： <strong>事件標籤 |事件總數 |使用者</strong></li> 
-     <li>篩選器：<br><strong>[僅顯示]事件類別（完全符合）:RTP-Campaigns</strong><br><strong>[僅顯示]事件操作（完全匹配）:點擊</strong></li> 
+     <li>名稱：<strong>點進，由CTA</strong></li> 
+     <li>類型：<strong>表</strong></li> 
+     <li>顯示下列欄：<strong>事件標籤 |事件總數 |用戶</strong></li> 
+     <li>篩選器：<br><strong>[僅顯示]事件類別（完全符合）:RTP-Campaigns</strong><br><strong>[僅顯示]事件操作（完全匹配）:clicks&lt;a3/</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a43-3a4.png" data-linked-resource-id="7504270" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
   </tr> 
