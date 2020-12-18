@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 電子郵件見解中的篩選 {#filtering-in-email-insights}
+# 電子郵件分析中的篩選{#filtering-in-email-insights}
 
 在「電子郵件分析」中，有不同的方式可篩選資料。
 
-## 電子郵件見解 {#email-insights}
+## 電子郵件見解{#email-insights}
 
 按一下+以開始新增篩選。 加入您想要的數量。
 
@@ -59,11 +59,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->日期範圍同時套用至「分析」頁面和「傳送」頁面。 但 **是** ,「比較」選項僅適用於Analytics頁面。
+>日期範圍同時套用至「分析」頁面和「傳送」頁面。 不過，**Compare**&#x200B;選項僅適用於Analytics頁面。
 
-## 帳戶型行銷 {#account-based-marketing}
+## 帳戶型行銷{#account-based-marketing}
 
-如果您使用 [「帳戶型行銷](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)」，則會有專為您設計的篩選器。
+如果您使用[以帳戶為基礎的行銷](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)，則會有專為您設計的篩選器。
 
 ![](assets/abm.png)
 
