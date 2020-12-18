@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 預測性內容分析概述 {#predictive-content-analytics-overview}
+# 預測性內容分析概述{#predictive-content-analytics-overview}
 
 使用內容分析進一步洞察您現有的內容、瞭解（根據人工智慧和預測性演算法）哪些內容對受眾有用，並從行銷活動中提高投資報酬率。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >「Analytics」索引標籤和內容分析功能僅適用於Marketo Predictive Content。
 
-## 概觀 {#overview}
+## 概述{#overview}
 
 在「摘要」頁面上，按一下「分析」。
 
@@ -45,13 +45,13 @@ Analytics包含數個區段：依檢視次數排名最前的內容、依轉換�
 
 ![](assets/dates.png)
 
-## 依檢視次數排列的熱門內容 {#top-content-by-views}
+## 依檢視次數排列的熱門內容{#top-content-by-views}
 
 依所選日期範圍的檢視次數顯示最上層內容片段。
 
 ![](assets/new-6.png)
 
-## 依轉換率排列的熱門內容 {#top-content-by-conversion-rate}
+## 依轉換率列出的熱門內容{#top-content-by-conversion-rate}
 
 依所選日期範圍的轉換率顯示最高轉換內容。
 
@@ -63,13 +63,13 @@ Analytics包含數個區段：依檢視次數排名最前的內容、依轉換�
 >
 >**轉換率**:直接轉換除以點按計算的百分比。
 
-## 趨勢分析內容 {#trending-content}
+## 趨勢化內容{#trending-content}
 
 檢視過去兩週的檢視次數與上一時段相比增加，顯示內容片段的人氣飆升。
 
 ![](assets/new-8.png)
 
-## 建議內容 {#suggested-content}
+## 建議內容{#suggested-content}
 
 根據您定義的篩選條件，顯示建議您在行銷活動中促銷的內容。
 
@@ -85,7 +85,7 @@ Analytics包含數個區段：依檢視次數排名最前的內容、依轉換�
 >
 >看到底部的表徵圖了嗎？ 從左到右分別是：檢視內容、匯出至CSV、核准內容。
 
-## 內容 {#content}
+## 內容{#content}
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 
