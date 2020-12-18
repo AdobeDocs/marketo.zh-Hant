@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用銷售線索摘要 {#using-the-lead-feed}
+# 使用銷售線索饋送{#using-the-lead-feed}
 
 「銷售線索摘要」是您銷售線索所執行之最新有趣事件清單。 當您按一下「行銷人員」標籤時，會在右側找到它。 它就像RSS或Twitter動態消息——最新的更新位於清單的頂端。 用這個在你還在他們頭腦新鮮的時候，跳到線索上。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >銷售線索饋送包括您擁有的銷售線索和您的關注清單中的銷售線索。
 
-## 銷售線索摘要中包含什麼？ {#whats-in-the-lead-feed}
+## 銷售線索摘要中包含什麼？{#whats-in-the-lead-feed}
 
 ![](assets/one.png)\
 銷售線索饋送中的每個項目都是一個有趣的時刻——此銷售線索行銷歷史記錄中值得注意的活動或事件。
@@ -69,7 +69,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 取得RSS更新 {#getting-rss-updates}
+## 獲取RSS更新{#getting-rss-updates}
 
 您也可以透過RSS饋送取得銷售機會饋送更新。  RSS饋送可讓您接收潛在客戶的更新，即使您未連線至Salesforce。 動態消息與Salesforce中的「銷售線索動態消息」資訊相同，以及下列資訊（如果有）:
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->貴公司的行銷人員必須啟 [用RSS饋送](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) ，才能運作。
+>貴公司的行銷人員必須[啟用RSS饋送](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)才能運作。
 
 若要取得RSS更新，您需要兩件事：RSS連結和RSS饋送讀取器。 您可以按一下銷售線索饋送中的RSS圖示，以取得RSS連結：   ![](assets/three.png)
 
