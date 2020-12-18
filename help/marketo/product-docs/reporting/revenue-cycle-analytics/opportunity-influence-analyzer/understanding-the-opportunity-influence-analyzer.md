@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 瞭解機會影響分析器 {#understanding-the-opportunity-influence-analyzer}
+# 瞭解Opportunity Inflection Analyzer {#understanding-the-opportunity-influence-analyzer}
 
 每個機會都是故事。 你在哪裡遇到的？ 在行銷／銷售程式中，哪些行銷機會會影響他們？
 
@@ -19,7 +19,7 @@ Opportunity Inflection Analyzer可讓您瞭解整個情況。 Sales Insight中�
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**注意綠色檢查。** 它們表示在右側選中的其中一個名稱程式成功。 綠色區域表示機會的開始和結束。
+**注意綠色檢查。** 它們表示在右側選中的其中一個名稱程式成功。綠色區域表示機會的開始和結束。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Opportunity Inflection Analyzer可讓您瞭解整個情況。 Sales Insight中�
 
 使用右側的控制項，從圖表中新增／移除人員，或切換至不同的帳戶或商機。
 
-## 識別唯一帳戶 {#identifying-unique-accounts}
+## 標識唯一帳戶{#identifying-unique-accounts}
 
 Marketto使用CRM ID來唯一識別帳戶。
 
