@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 瞭解我的報表和群組報表 {#understanding-my-reports-and-group-reports}
+# 瞭解我的報表和群組報表{#understanding-my-reports-and-group-reports}
 
-您可以從 [Analytics首頁建立**我的報表**和**群組報表**](navigating-the-analytics-home-page.md)。
+您可以從[Analytics首頁](navigating-the-analytics-home-page.md)建立**我的報表**和**群組報表**。
 
-**我的報表** ，您只看得到。
+**我的** 報表僅供您檢視。
 
-**群組報表** ，該工作區中的所有使用者皆可看到。
+**群組** 報表可供該工作區中的所有使用者檢視。
 
 >[!NOTE]
 >
->每個工作區都有一組「我的報表」**和「群 **組報表」**。
+>每個工作區都有一組**我的報表**和&#x200B;**群組報表**。
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
