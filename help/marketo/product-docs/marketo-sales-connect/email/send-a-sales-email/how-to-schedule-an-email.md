@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 如何排程電子郵件 {#how-to-schedule-an-email}
+# 如何安排電子郵件{#how-to-schedule-an-email}
 
-## 排程電子郵件 {#schedule-an-email}
+## 排程電子郵件{#schedule-an-email}
 
-1. 在「合成」窗口中，按一下「計 **划：「立即傳送** 」按鈕。
+1. 在「合成」窗口中，按一下&#x200B;**計畫：立即傳送**&#x200B;按鈕。
 1. 在排程視窗中，選取訊息應傳送的時間。
-1. 按一 **下排程**。
+1. 按一下&#x200B;**Schedule**。
 
    您的電子郵件將排入指定時間在命令中心的「排程」資料夾中的傳送佇列。
 
    >[!NOTE]
    >
-   >若要排程日後從**Gmail傳送的電子郵件，請**查看 [`this article`](http://docs.marketo.com/x/r4PS) `.`
+   >若要排程日後從**Gmail傳送的電子郵件，請**查看[`this article`](http://docs.marketo.com/x/r4PS) `.`
 
-## 取消排程的電子郵件 {#cancel-a-scheduled-email}
+## 取消排程的電子郵件{#cancel-a-scheduled-email}
 
-1. 前往Web應 [用程式](http://toutapp.com/login) ，並導覽至 `Command` 中心。
-1. 按一下「 [排程](http://toutapp.com/next#emails/filter/sent/1) 」篩選。
-1. 按一 **下訊息旁** 「刪除」。
+1. 轉至[Web應用程式](http://toutapp.com/login)並導航到`Command`中心。
+1. 按一下「已排程[篩選」。](http://toutapp.com/next#emails/filter/sent/1)
+1. 按一下消息旁的&#x200B;**Delete**。
 
