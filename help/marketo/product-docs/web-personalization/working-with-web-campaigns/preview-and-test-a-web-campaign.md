@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 預覽和測試Web促銷活動 {#preview-and-test-a-web-campaign}
+# 預覽並測試Web促銷活動{#preview-and-test-a-web-campaign}
 
 本文會顯示不同的方式來預覽Web促銷活動，以及如何使用網站上即時的沙盒區段來測試它。
 
-## 在建立頁面上預覽Web促銷活動 {#preview-a-web-campaign-on-the-creation-page}
+## 在「建立頁面{#preview-a-web-campaign-on-the-creation-page}」上預覽Web促銷活動
 
-1. 前往「網 **頁促銷****活動」**。
+1. 前往&#x200B;**Web** **促銷活動**。
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
@@ -25,34 +25,34 @@ ht-degree: 0%
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. 在「在網站上預覽」中，新增頁面URL，然後按一下「預 **覽」**。 隨即開啟新視窗／標籤，顯示促銷活動預覽。
+1. 在「在網站上預覽」中，新增頁面URL，然後按一下「預覽」。 ****&#x200B;隨即開啟新視窗／標籤，顯示促銷活動預覽。
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >按一 **下「共用** 」以開啟具有促銷活動預覽之固定URL的電子郵件。
+   >按一下&#x200B;**共用**&#x200B;以開啟具有促銷活動預覽固定URL的電子郵件。
 
    >[!NOTE]
    >
-   >您也可以選擇安裝瀏覽器外掛程式( [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) 或 [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi))，以獲得最佳的預覽促銷活動體驗。 請參閱以下章節。
+   >您也可以選擇安裝瀏覽器外掛程式（[Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj)或[Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)），以獲得最佳的預覽促銷活動體驗。 請參閱以下章節。
 
-## 使用瀏覽器外掛程式在建立頁面上預覽網頁促銷活動 {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
+## 使用瀏覽器外掛程式{#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}在建立頁面上預覽網頁促銷活動
 
-1. 請遵循中的步驟1和2 `section above`。
+1. 請遵循`section above`中的步驟1和2。
 1. 按一下瀏覽器外掛程式的連結（在本例中，我們使用Chrome）。
 
    ![](assets/4-1.png)
 
-1. 隨即開啟新視窗／標籤。 按一 **下「新增至Chrome**」。
+1. 隨即開啟新視窗／標籤。 按一下「新增至Chrome **」。**
 
    ![](assets/five.png)
 
-1. 按一 **下「新增擴充功能**」。
+1. 按一下&#x200B;**添加副檔名**。
 
    ![](assets/six.png)
 
-1. 回到Marketo。 新增頁面URL，然後按一下「 **預覽**」。
+1. 回到Marketo。 新增頁面URL，然後按一下「預覽」。****
 
    ![](assets/seven.png)
 
@@ -60,23 +60,23 @@ ht-degree: 0%
 
    ![](assets/campaign-preview.png)
 
-## 在「網頁促銷活動」頁面上預覽網頁促銷活動 {#preview-a-web-campaign-on-the-web-campaigns-page}
+## 在「網頁促銷活動」頁面{#preview-a-web-campaign-on-the-web-campaigns-page}上預覽網頁促銷活動
 
-1. 在檢視網頁促銷活動的清單時，只需選擇促銷活動，然後按一下「預 **覽** 」圖示。
+1. 查看Web促銷活動的清單時，只要選擇促銷活動，然後按一下「預覽」圖示。****
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
    放輕鬆！
 
-## 在您的網站上預覽Web促銷活動 {#preview-a-web-campaign-on-your-website}
+## 在您的網站上預覽Web促銷活動{#preview-a-web-campaign-on-your-website}
 
 建立沙盒區段和促銷活動。
 
-1. 前往區 **段**。
+1. 前往&#x200B;**區段**。
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. 按一下 **建立新**。
+1. 按一下&#x200B;**新建**。
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
@@ -89,10 +89,10 @@ ht-degree: 0%
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. 完成促銷活動創意並按一下「 **啟動**」。\
+1. 完成促銷活動創意，然後按一下&#x200B;**Launch**。\
    ![](assets/click-launch.jpg)
 
-1. 前往您的網站，在URL結尾新增URL參數&quot;?sandbox=1&quot;。 範例： [www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
+1. 前往您的網站，在URL結尾新增URL參數&quot;?sandbox=1&quot;。 範例：[www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
 1. 查看您網站上的促銷活動反應。
 
 >[!NOTE]
