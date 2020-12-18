@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 對列排序報表 {#sort-report-on-columns}
+# 對列{#sort-report-on-columns}排序報告
 
 使用欄來排序報表中的資料，讓最重要的圖片更容易找到。
 
-1. 前往 **Analytics** (或 **行銷活動**)。
+1. 前往&#x200B;**Analytics**（或&#x200B;**行銷活動**）。
 
    ![](assets/login-marketing-activities.png)
 
-1. 從導覽樹狀結構中選取您的報表，然後按一下「報 **表** 」標籤。
+1. 從導覽樹中選擇您的報表，然後按一下&#x200B;**報表**&#x200B;標籤。
 
    ![](assets/reports2.jpg)
 
@@ -45,5 +45,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >瞭解在基本報告中處理報告的 [全部功能](http://docs.marketo.com/display/docs/basic+reporting)。
+   >瞭解在[Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)中使用報表的所有功能。
 
