@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 將取消訂閱與Salesforce同步 {#syncing-unsubscribes-with-salesforce}
+# 將取消訂閱與Salesforce {#syncing-unsubscribes-with-salesforce}同步
 
-## 取消訂閱以同步至Salesforce的需求 {#requirements-for-unsubscribes-to-sync-to-salesforce}
+## 取消訂閱以同步至Salesforce {#requirements-for-unsubscribes-to-sync-to-salesforce}的需求
 
 * 必須啟用取消訂閱同步（用於夜間同步）
 * 必須在Salesforce中安裝「退出」欄位
@@ -27,19 +27,19 @@ ht-degree: 0%
 
 當您啟用取消訂閱同步時（下面的步驟3），您將開啟夜間同步。 同步在PST 8:00前後每天進行一次。 它會將MSE/ToutApp中所有未訂閱的訂閱與Salesforce中的「退出」欄位雙向同步。
 
-## 設定取消訂閱Salesforce的同步 {#configure-unsubscribe-sync-to-salesforce}
+## 設定取消訂閱同步至Salesforce {#configure-unsubscribe-sync-to-salesforce}
 
 使用者可決定要將他們的未訂閱者與Marketo也可以同步的標準「電子郵件退出」欄位同步，或是與「Marketo銷售者退出」欄位同步，以便區分銷售者未訂閱者和行銷者未訂閱者。
 
-1. 前往Web應 [用程式](http://toutapp.com/login)，按一下齒輪圖示並選取「 **設定」**。
+1. 前往[Web應用程式](http://toutapp.com/login)，按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/one-1.png)
 
-1. 在「管理員設定」下，選取「 **取消訂閱**」。
+1. 在「管理設定」下，選擇「取消訂閱」。****
 
    ![](assets/two-2.png)
 
-1. 按一 **下「同步至Salesforce**」，然後啟用夜間同步。
+1. 按一下「同步至Salesforce **」，然後啟用夜間同步。**
 
    ![](assets/three-2.png)
 
@@ -49,19 +49,19 @@ ht-degree: 0%
 
    | **同步至Salesforce選擇退出欄位** | 依預設選取，只會更新「Salesforce選擇退出」欄位。 |
    |---|---|
-   | **同步至Marketo Sales Opt Out欄位** | 如果您要將「銷售」和「行銷」取消訂閱分開，請選擇此選項以更新其他「 [行銷人員退出」欄位。](#msoo) |
+   | **同步至Marketo Sales Opt Out欄位** | 如果要將「銷售」和「行銷」取消訂閱分開，請選擇此選項以更新附加的[「行銷人員退出選項」欄位。](#msoo) |
 
-## 在頁面配置中安裝選擇退出欄位 {#installing-the-opt-out-field-in-the-page-layout}
+## 在頁面佈局{#installing-the-opt-out-field-in-the-page-layout}中安裝退出欄位
 
 **選擇退出電子郵件**
 
 「退出電子郵件」是Salesforce中可從Salesforce安裝的標準欄位。 您必須是Salesforce管理員才能安裝它。
 
-1. 前往 [Salesforce.com](http://Salesforce.com) 並登入。
+1. 前往[Salesforce.com](http://Salesforce.com)並登入。
 
    ![](assets/five-1.png)
 
-1. 按一下您的使用者名稱，然後選 **取設定**。
+1. 按一下您的用戶名並選擇&#x200B;**Setup**。
 
    ![](assets/six-1.png)
 
@@ -69,15 +69,15 @@ ht-degree: 0%
 
    ![](assets/seven-1.png)
 
-1. 選取「 **頁面版面」**。
+1. 選擇&#x200B;**頁面佈局**。
 
    ![](assets/eight-1.png)
 
-1. 選 **取您要** 新增欄位至之頁面版面旁的編輯。
+1. 選擇要添加欄位的頁面佈局旁的「編輯」。****
 
    ![](assets/nine.png)
 
-1. 選擇 **欄位**。
+1. 選擇&#x200B;**欄位**。
 
    ![](assets/ten.png)
 
@@ -85,11 +85,11 @@ ht-degree: 0%
 
    ![](assets/11.png)
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/twelve.png)
 
-## 行銷人員選擇退出 {#marketo-sales-opt-out}
+## 行銷人員銷售選擇退出{#marketo-sales-opt-out}
 
 「Marketo Sales選擇退出」欄位是自訂欄位，可供已安裝Marketo Sales Connect自訂的使用者使用。
 
