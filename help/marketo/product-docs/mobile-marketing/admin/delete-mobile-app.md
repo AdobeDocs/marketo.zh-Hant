@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 刪除行動應用程式 {#delete-mobile-app}
+# 刪除行動應用程式{#delete-mobile-app}
 
 1. 按一下「管理」。
 
