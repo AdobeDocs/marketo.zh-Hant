@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 配置Opportunity Effence Analyzer {#configure-an-opportunity-influence-analyzer}
+# 配置Opportunity Inflection Analyzer {#configure-an-opportunity-influence-analyzer}
 
-建立Opportunity [Inflection Analyzer後](create-an-opportunity-influence-analyzer.md)，您可以配置包含的 [有趣時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) 。
+在[建立Opportunity Inffect Analyzer](create-an-opportunity-influence-analyzer.md)後，您可以配置包含的[有趣時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)的類型。
 
 >[!PREREQUISITES]
 >
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   如果分析器圖表中有太多有趣的時刻，您可以在「設定」面板中取消選取人員，或是減少有趣的時刻類型，來減少這些時刻。 ****
+   如果分析器圖形中有太多有趣的時刻，您可以通過在&#x200B;**Settings**&#x200B;面板中取消選擇人，或通過減少有趣的時刻類型來減少這些時刻。
 
 1. 若要設定要包含哪些類型的有趣時刻，請前往「設定」標籤，並拖曳「有趣時刻」篩選器。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如需其他分析器，請參 [閱基本報表](http://docs.marketo.com/display/docs/basic+reporting)。
+>如需其他分析器，請參閱[基本報表](http://docs.marketo.com/display/docs/basic+reporting)。
 
 >[!MORELIKETHIS]
 >
