@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 啟用內容建議列 {#enable-the-content-recommendation-bar}
+# 啟用內容建議列{#enable-the-content-recommendation-bar}
 
 內容建議引擎使用預測性分析和機器學習演算法，將相關內容傳遞給每位網頁訪客。 建議引擎會預測哪些內容對每位訪客的效能最佳。 引擎的內容會在Recommendations頁面下受到監控和控制，協助您最佳化內容投資報酬率。
 
@@ -23,21 +23,21 @@ ht-degree: 0%
 >* [批准預測性內容的標題](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
-## 啟用和自訂內容建議列 {#enable-and-customize-the-content-recommendation-bar}
+## 啟用和自訂內容建議列{#enable-and-customize-the-content-recommendation-bar}
 
-1. 前往「內 **容設定」**。
+1. 前往&#x200B;**內容設定**。
 
    ![](assets/settings-dropdown-hand.png)
 
-1. 按一 **下列**。
+1. 按一下&#x200B;**Bar**。
 
    ![](assets/content-settings-bar-hand.png)
 
-1. 若要啟用URL的建議列，只需按一下「開 **啟** 」，然 **後儲存**。
+1. 若要啟用URL的建議列，只需按一下&#x200B;**On**，然後按一下&#x200B;**Save**。
 
    ![](assets/bar-enable.png)
 
-1. 若要自訂URL，請選取建議列的顏色、樣式、格式、箭頭，以及要包含或排除該列的頁面。 自訂以符合您的網站品牌。 按一下 **儲存**。
+1. 若要自訂URL，請選取建議列的顏色、樣式、格式、箭頭，以及要包含或排除該列的頁面。 自訂以符合您的網站品牌。 按一下&#x200B;**保存**。
 
    ![](assets/bar-customize-details-hands.png)
 
@@ -53,9 +53,9 @@ ht-degree: 0%
    * 此欄位區分大小寫
 
 
-## 建議列考量事項 {#recommendation-bar-considerations}
+## 建議列注意事項{#recommendation-bar-considerations}
 
-* 建議列在「建議」頁面上設定為「 **On** 」，建議引擎至少需要一個內容片段才能運作。 如果未啟用任何內容，而且橫條設為 **On**，則網頁右下角會顯示箭頭效果，但不會顯示建議的內容。
+* 建議引擎的「建議」頁面上，建議列設定為&#x200B;**On**&#x200B;時，您至少需要一個內容片段。 如果未啟用任何內容，且Bar設定為&#x200B;**On**，則Arrow效果會顯示在網頁右下角，但不會顯示建議的內容。
 
 * 在建議引擎中執行的內容越多，演算法就越能測試和瞭解哪些內容最有效。 我們建議從10到20個內容片段開始執行並啟用，並持續新增內容片段。
 * 您為建議啟用的內容片段應包含RTP Javascript標籤。 這有助於演算法追蹤並最佳化建議的內容。
