@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 為什麼我所有的聯繫人都沒有被推向Sales Connect? {#why-didnt-all-of-my-contacts-get-pushed-to-sales-connect}
+# 為什麼我所有的聯繫人都沒有被推向Sales Connect?{#why-didnt-all-of-my-contacts-get-pushed-to-sales-connect}
 
 如果只有您的某些聯絡人在推翻，您公司的Salesforce例項中可能未標示為「電子郵件選擇退出」的聯絡人。
 
