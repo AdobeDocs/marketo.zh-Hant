@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用智慧型清單篩選報表中的人員 {#filter-people-in-a-report-with-a-smart-list}
+# 使用智慧型清單{#filter-people-in-a-report-with-a-smart-list}篩選報表中的人員
 
 使用智慧型清單，依特定人員屬性來篩選報表。
 
@@ -28,11 +28,11 @@ ht-degree: 0%
 * [公司網路活動](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [網頁活動](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. 前往「行銷 **活動** 」區。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. 從導覽樹中選擇您的報表，然後按一下「智 **慧型清單** 」標籤。
+1. 從導航樹中選擇您的報告，然後按一下&#x200B;**智慧清單**&#x200B;頁籤。
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
-1. 按一下「 **報表** 」標籤，查看您的篩選報表。
+1. 按一下&#x200B;**報表**&#x200B;標籤，查看您的篩選報表。
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 
@@ -55,5 +55,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >如需使用報表的更多方法，請參閱「基 [本報表](http://docs.marketo.com/display/docs/basic+reporting) 」深入探討。
+   >如需使用報表的更多方法，請參閱[基本報表](http://docs.marketo.com/display/docs/basic+reporting)深入探討。
 
