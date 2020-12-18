@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 範本參與 {#template-engagement}
+# 範本參與{#template-engagement}
 
 請依照下列步驟檢視您的範本參與。
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
    在下方，您的檢視會分為三個部分：
 
-   **Secret Wean** —— 團隊 `not yet shared` 中參與度不斷提升的範本
+   **Secret Wean**  —— 團隊 `not yet shared` 中參與度不斷提升的範本
 
-   **最高參與** -整個團隊 `already shared` 的範本，讓參與度大打折扣
+   **最高參與** -整個團 `already shared` 隊的範本，讓參與度大打折扣
 
-   **最低參與** -需要對參與率進行一些修補的範本(此範本 `can either be shared or unshared` 適用於整個團隊)
+   **最低參與** -需要對參與率進行一些重新修補的範本(此範本 `can either be shared or unshared` 適用於團隊)
 
    從那裡，向下捲動並查看您團隊中根據所選日期範圍內的檢視率所建立的所有範本。 在個別範本層級上，您可以看到：建立者、共用與否、使用電子郵件的數量，以及追蹤資料（檢視、點按、回覆）。
 
