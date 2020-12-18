@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 使用Outlook的電子郵件增益集來傳送及追蹤電子郵件 {#send-and-track-an-email-with-the-email-add-in-for-outlook}
+# 使用Outlook電子郵件增益集{#send-and-track-an-email-with-the-email-add-in-for-outlook}傳送及追蹤電子郵件
 
 您可以直接從Outlook與Market一起傳送及追蹤電子郵件。
 
 >[!PREREQUISITES]
 >
->如果您尚未安裝Outlook的 [Marketo電子郵件增益集](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)。
+>如果您尚未安裝[Marketo以電子郵件形式寄送Outlook的增益集。](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
 
 1. 開啟Microsoft Outlook並建立新電子郵件。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >如果您在電子郵件中包含多個收件者，所有活動都會在第一位收件者下追蹤。
 
-1. 按一下「傳送及追蹤」，以正常方式編 **寫電子郵件**。
+1. 按一般方式撰寫電子郵件，然後按一下「傳送並追蹤」**。**
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您想使用Marketo範本，請參閱使 [用範本從Outlook傳送及追蹤](send-and-track-from-outlook-using-a-marketo-template.md)。
+   >如果您想使用Marketo範本，請參閱[使用範本從Outlook傳送及追蹤](send-and-track-from-outlook-using-a-marketo-template.md)。
 
-1. 檢視預覽，然後按一下「 **傳送」**。
+1. 檢視預覽，然後按一下「傳送&#x200B;**」。**
 
    ![](assets/image2014-9-23-16-3a7-3a13.png)
 
