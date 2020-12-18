@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 建立後續電子郵件 {#create-a-follow-up-email}
+# 建立後續電子郵件{#create-a-follow-up-email}
 
-使用Sales Connect的「促 [銷活動](http://docs.marketo.com/display/TEST/Campaigns) 」功能，建立後續電子郵件很簡單。
+使用Sales Connect的[Campaigns](http://docs.marketo.com/display/TEST/Campaigns)功能，建立後續電子郵件很簡單。
 
-在促銷 **活動的「設定** 」標籤中，核取此方塊以建立電子郵件作為後續動作，該方塊會自動將您先前的電子郵件串接到促銷活動中的下一封電子郵件。
+在促銷活動的&#x200B;**設定**&#x200B;標籤中，核取此方塊以建立電子郵件作為後續動作，此方塊會自動將您先前的電子郵件串接到促銷活動中的下一封電子郵件。
 
