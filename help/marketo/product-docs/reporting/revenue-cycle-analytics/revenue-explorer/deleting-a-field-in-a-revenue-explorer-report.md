@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 刪除收入瀏覽器報表中的欄位 {#deleting-a-field-in-a-revenue-explorer-report}
+# 刪除收入瀏覽器報表{#deleting-a-field-in-a-revenue-explorer-report}中的欄位
 
 有時，您可能會將錯誤欄位拖曳至報表。 以下是如何移除它：
 
-1. 將您要移除的欄位拖曳至 **報表** 右下方的垃圾筒圖示。
+1. 將您要移除的欄位拖曳至報表右下方的&#x200B;**trash**&#x200B;圖示。
 
    ![](assets/image2015-3-24-16-3a40-3a13.png)
 
