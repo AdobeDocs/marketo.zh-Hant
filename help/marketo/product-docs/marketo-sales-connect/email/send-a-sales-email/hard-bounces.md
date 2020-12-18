@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 硬彈回數 {#hard-bounces}
+# 硬彈回數{#hard-bounces}
 
 當電子郵件因電子郵件位址無效而失敗時，會發生硬彈回音。
 
-## 銷售聯繫如何處理硬反彈？ {#how-does-sales-connect-handle-a-hard-bounce}
+## 銷售聯繫如何處理硬反彈？{#how-does-sales-connect-handle-a-hard-bounce}
 
 - 如果電子郵件正在透過ToutApp伺服器，我們會管理硬彈回數。
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->想要設定Sales Connect以通過您自己的SMTP提供程式嗎？ 你就 [走](http://docs.marketo.com/x/zYTS)。
+>想要設定Sales Connect以通過您自己的SMTP提供程式嗎？ 只要前往[這裡](http://docs.marketo.com/x/zYTS)即可。
 
-## 被拒收電子郵件清單 {#list-of-bounced-emails}
+## 拒收電子郵件清單{#list-of-bounced-emails}
 
 您可以在命令中心的「已退回」頁籤中找到已退回電子郵件的清單。
 
