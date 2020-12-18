@@ -11,24 +11,24 @@ ht-degree: 0%
 ---
 
 
-# 編輯現有的Web促銷活動 {#edit-an-existing-web-campaign}
+# 編輯現有Web促銷活動{#edit-an-existing-web-campaign}
 
-1. 前往「網 **頁促銷活動**」。
+1. 前往&#x200B;**Web促銷活動**。
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. 在「網 **頁促銷活動** 」頁面上，按一下您要編輯的促銷活動上的**編輯**。
+1. 在&#x200B;**Web促銷活動**&#x200B;頁面上，按一下您要編輯的促銷活動上的**編輯**。
 
    ![](assets/web-campaigns-1-edit-hand.png)
 
    >[!NOTE]
    >
-   >若要更輕鬆找到您想要的Web促銷活動，請使用篩 [選功能](filter-web-campaigns.md)。
+   >若要更輕鬆找到您想要的Web促銷活動，請使用[篩選功能](filter-web-campaigns.md)。
 
 >[!MORELIKETHIS]
 >
 >* [刪除Web促銷活動](delete-a-web-campaign.md)
->* [啟動／暫停促銷活](launch-pause-a-web-campaign.md)[動](launch-pause-a-web-campaign.md)
+>* [啟動／暫停促](launch-pause-a-web-campaign.md) [銷活動](launch-pause-a-web-campaign.md)
 
 >
 
