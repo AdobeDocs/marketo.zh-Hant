@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 共用範本 {#shared-templates}
+# 共用範本{#shared-templates}
 
-## 如何共用範本 {#how-to-share-a-template}
+## 如何共用範本{#how-to-share-a-template}
 
-如果您使用我們的團隊帳戶，所有範本依預設仍為私人。 按一下范 **本頂端的綠色** 「共用」按鈕，將它與團隊的其他成員共用。
+如果您使用我們的團隊帳戶，所有範本依預設仍為私人。 按一下範本上方的綠色&#x200B;**共用**&#x200B;按鈕，與團隊的其他人共用。
 
-## 如何尋找共用範本  {#how-to-find-shared-templates}
+## 如何查找共用模板{#how-to-find-shared-templates}
 
 已共用給您的範本會顯示在「範本」頁面左側的**團隊範本**標題下。
 
