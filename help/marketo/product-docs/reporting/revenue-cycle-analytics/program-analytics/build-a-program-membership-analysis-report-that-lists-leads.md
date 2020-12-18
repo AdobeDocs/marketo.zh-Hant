@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 建立列出銷售線索的方案會員分析報表 {#build-a-program-membership-analysis-report-that-lists-leads}
+# 建立列出銷售線索的方案會員分析報告{#build-a-program-membership-analysis-report-that-lists-leads}
 
 請依照下列步驟建立方案會籍分析報表，以顯示所有方案會員名稱。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ![](assets/seven.png)
 
-您可以快速新增銷售機會屬性(例如 **Full Name** )，以查看成員是誰。
+您可以快速新增銷售機會屬性，例如&#x200B;**Full Name**，以查看成員是誰。
 
 >[!TIP]
 >
