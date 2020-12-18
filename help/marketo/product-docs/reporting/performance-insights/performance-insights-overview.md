@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 效能分析概觀 {#performance-insights-overview}
+# 績效分析概述{#performance-insights-overview}
 
 行銷人員績效洞察可協助您最佳化通道組合，以發揮最大效益，並發現長期趨勢，以找出一致的贏取策略。
 
@@ -27,9 +27,9 @@ ht-degree: 0%
 
 ![](assets/one.png)
 
-## 貢獻 {#contribution}
+## 貢獻{#contribution}
 
-評估行銷對營 [收的貢獻](http://docs.marketo.com/x/QAvG)是客戶獲取、影響、轉化，甚至客戶群增長的函式。
+評估行銷對收入的[貢獻，這取決於客戶獲取、影響、轉化，甚至是客戶群的增長。](http://docs.marketo.com/x/QAvG)
 
 ![](assets/two.png)
 
@@ -37,21 +37,21 @@ ht-degree: 0%
 
 ![](assets/3.png)
 
-## 趨勢 {#trend}
+## 趨勢{#trend}
 
-發掘 [長期趨勢](http://docs.marketo.com/x/QgvG) ，找出一致的成功策略。
+發現[長期趨勢](http://docs.marketo.com/x/QgvG)以找出一致的成功策略。
 
 ![](assets/4.png)
 
-## 設定 {#settings}
+## 設定{#settings}
 
-在「收入與管道」控制面板中，按一下「 [設定](http://docs.marketo.com/x/pIDS) 」圖示以設定其他參數。
+在「收入與管線」控制面板中，按一下「設定」[圖示以設定其他參數。](http://docs.marketo.com/x/pIDS)
 
 ![](assets/5.png)
 
-## 匯出資料 {#export-data}
+## 匯出資料{#export-data}
 
-您可以在PowerPoint或Excel中匯出資料和圖表。 您也可以將它們儲存為快 [速圖表](https://docs.marketo.com/x/iRLG)。
+您可以在PowerPoint或Excel中匯出資料和圖表。 您也可以將它們儲存為[快速圖表](https://docs.marketo.com/x/iRLG)。
 
 ![](assets/6.png)
 
