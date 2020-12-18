@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 在收入建模器中合併兩個階段 {#merging-two-stages-in-the-revenue-modeler}
+# 合併收入建模器{#merging-two-stages-in-the-revenue-modeler}中的兩個階段
 
 批准模型後，在編輯草稿時不能刪除階段。 您可以將該舞台與另一個舞台合併。
 
-1. 按一 **下「行銷首頁** 」，然後選 **取「分析」**。
+1. 按一下「**行銷人員首頁**」，然後選取「**分析**」。
 
    ![](assets/image2015-4-29-14-3a59-3a9.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-29-15-3a3-3a15.png)
 
-1. 按一下「 **編輯草稿」。**
+1. 按一下「編輯草稿」。****
 
    ![](assets/image2015-4-29-15-3a7-3a3.png)
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
 1. `You can re-approve the model by selecting`**`Approve Model Draft`**` in the **Model Actions** menu.`
 
-   ` ![](assets/image2015-4-29-16-3a5-3a53.png)
+   「 ![](assets/image2015-4-29-16-3a5-3a53.png)
 
-   `
+   「
 
 >[!NOTE]
 >
->在「 **合併階段** 」下拉式清單中選擇「無」，以從模型中刪除銷售線索
+>在「合併階段」下拉式清單中選擇&#x200B;**無**&#x200B;以從模型中刪除銷售線索
 
