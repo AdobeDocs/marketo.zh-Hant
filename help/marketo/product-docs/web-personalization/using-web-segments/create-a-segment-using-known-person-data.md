@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 使用已知人員資料建立區段 {#create-a-segment-using-known-person-data}
+# 使用已知人員資料{#create-a-segment-using-known-person-data}建立區段
 
 以下說明如何使用「已知人員資料」值建立區段。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >[管理人員資料](manage-person-data.md)
 
-1. 前往區 **段**。
+1. 前往&#x200B;**區段**。
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. 按一下 **建立新**。
+1. 按一下&#x200B;**新建**。
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -47,9 +47,9 @@ ht-degree: 0%
 
    ![](assets/seven-1.png)
 
-## 選擇多人員資料欄位 {#selecting-multiple-person-data-fields}
+## 選擇多人員資料欄位{#selecting-multiple-person-data-fields}
 
-1. 按一 **下** +以新增其他人員資料欄位。
+1. 按一下&#x200B;**+**&#x200B;以新增其他人員資料欄位。
 
    ![](assets/eight.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 按一 **下「儲存** 」以儲存區段，或按一下「儲存並定義促銷活動」**以儲存並前往「促銷活動」頁面。
+1. 按一下&#x200B;**儲存**&#x200B;以儲存區段，或按一下**儲存並定義促銷活動**以儲存並前往「促銷活動」頁面。
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
