@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# 建立新帳戶清單 {#create-a-new-account-list}
+# 建立新帳戶清單{#create-a-new-account-list}
 
 建立並上傳組織和網域名稱清單，以透過個人化促銷活動鎖定這些關鍵帳戶。
 
 >[!NOTE]
 >
->本文僅適用舊版Web ABM客戶。 如果您在2016年9月之後取得Web ABM，請改為依照本文 [中的步](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) 驟。
+>本文僅適用舊版Web ABM客戶。 如果您在2016年9月之後取得Web ABM，請依照本文[中的步驟進行。](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList)
 
-## 建立新帳戶清單 {#create-a-new-account-list-1}
+## 建立新帳戶清單{#create-a-new-account-list-1}
 
-1. 前往「帳 **戶清單」**。
+1. 前往&#x200B;**帳戶清單**。
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. 選擇「 **新建」**。
+1. 選擇&#x200B;**新建**。
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. 選 **取「瀏覽** 」並上傳您的CSV檔案（請確定csv檔案符合條件）。 新增名 **稱****和說明**。 按一下 **儲存**。
+1. 選擇&#x200B;**瀏覽**&#x200B;並上傳您的CSV檔案（請確定csv檔案符合條件）。 添加&#x200B;**名稱**&#x200B;和&#x200B;**說明**。 按一下&#x200B;**保存**。
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -69,25 +69,25 @@ ht-degree: 0%
    >    
    >![](assets/image2015-2-25-12-3a19-3a10.png)
 
-## 編輯帳戶清單 {#edit-an-account-list}
+## 編輯帳戶清單{#edit-an-account-list}
 
-在「帳 **戶清單** 」頁面上，按一下清單上的**編輯**圖示。
+在&#x200B;**帳戶清單**&#x200B;頁面上，按一下清單上的**編輯**圖示。
 
 ![](assets/create-new-account-list-edit.jpg)
 
-選取「 **瀏覽** 」並上傳您的新CSV檔案。 此檔案將取代原始檔案。 按一下 **儲存**。 新上傳的檔案將處於擱置狀態，直到Marketo Support核准為止，當處於擱置狀態時，原始檔案仍會保持作用中。
+選擇&#x200B;**瀏覽**&#x200B;並上傳新的CSV檔案。 此檔案將取代原始檔案。 按一下&#x200B;**保存**。 新上傳的檔案將處於擱置狀態，直到Marketo Support核准為止，當處於擱置狀態時，原始檔案仍會保持作用中。
 
 ![](assets/set-account-list-edit-hands.jpg)
 
 CSV檔案將取代現有檔案。 在新檔案的處理完成之前，現有清單仍會保持作用中。
 
-## 刪除已命名的帳戶清單 {#delete-a-named-account-list}
+## 刪除已命名帳戶清單{#delete-a-named-account-list}
 
 1. 在「**帳戶清單**」頁面上，按一下您要刪除之清單的**刪除**圖示。
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. 出現一則消息，確認您是否要刪除清單。 按一下 **確定**。
+1. 出現一則消息，確認您是否要刪除清單。 按一下&#x200B;**確定**。
 
    ![](assets/delete-notification-hand.jpg)
 
