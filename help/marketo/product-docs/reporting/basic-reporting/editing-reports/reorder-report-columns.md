@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 重新排序報表欄 {#reorder-report-columns}
+# 重新排序報表欄{#reorder-report-columns}
 
 您可以變更報表中欄的順序。
 
-1. 前往「行 **銷活動** (或 **Analytics**)」區域。
+1. 前往「行銷活動」區域（或&#x200B;**Analytics**）。****
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. 從導覽樹狀結構中選取您的報表，然後按一下「報 **表** 」標籤。
+1. 從導覽樹中選擇您的報表，然後按一下&#x200B;**報表**&#x200B;標籤。
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 
@@ -47,5 +47,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >瞭解在基本報告中處理報告的 [全部功能](http://docs.marketo.com/display/docs/basic+reporting)。
+   >瞭解在[Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)中使用報表的所有功能。
 
