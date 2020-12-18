@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 在方案層級覆寫分析行為 {#override-analytics-behavior-at-the-program-level}
+# 覆寫程式層級{#override-analytics-behavior-at-the-program-level}的分析行為
 
-您可以在管 [理層級設定渠道的分析行為](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) ，但也可以在方案層級覆寫它。 以下是方法：
+您可以在管理層級設定[渠道](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)的分析行為，但也可以在程式層級覆寫它。 以下是方法：
 
 1. 前往「行銷活動」區域。
 
@@ -34,12 +34,12 @@ ht-degree: 0%
    >**定義**
    >
    >* **包含** -此選項可確保方案可用於收入瀏覽器和分析器中的報告，無論您是否已包括期間成本。
-   >* **Operational** —— 此選項會導致方案未顯示在收入瀏覽器或分析器中。
+   >* **Operational**  —— 此選項會導致方案未顯示在收入瀏覽器或分析器中。
 
 
    >[!NOTE]
    >
-   >預設行為（如果未套用此設定）是只有在至少有一個期間成本(即使指派零美元 ****)時，才會將程式納入Analytics中。
+   >預設行為（如果未套用此設定）是只有在至少有一個期間成本&#x200B;**（即使指派零美元）時，才會將程式納入Analytics**。
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
