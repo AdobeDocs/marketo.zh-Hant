@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# CRM的銷售連接定制 {#sales-connect-customizations-for-crm}
+# CRM的銷售連接定制{#sales-connect-customizations-for-crm}
 
-以下欄位和按鈕是由Salesforce CRM中的中繼資料API建立。 在建立欄位後，管理員必須在其CRM中設定頁面配置，才能公開這些版面。 您可在這裡找到 [指示](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf)。
+以下欄位和按鈕是由Salesforce CRM中的中繼資料API建立。 在建立欄位後，管理員必須在其CRM中設定頁面配置，才能公開這些版面。 您可在[這裡](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf)找到說明。
 
 >[!NOTE]
 >
 >這會影響ToutApp和Sales Connect客戶。
 
-## 如何在Salesforce中安裝自訂 {#how-to-install-customizations-in-salesforce}
+## 如何在Salesforce {#how-to-install-customizations-in-salesforce}中安裝自訂項目
 
-1. 在Sales Connect中，按一下齒輪表徵圖並選擇「設 **置」**。
+1. 在Sales Connect中，按一下齒輪表徵圖並選擇&#x200B;**Settings**。
 
    ![](assets/one.png)
 
-1. 在「管理員設定」下，選 **取Salesforce**。
+1. 在「管理設定」下，選取&#x200B;**Salesforce**。
 
    ![](assets/two.png)
 
-1. 按一 **下「Marketor Sales Connect Customizations」**。
+1. 按一下「**Marketo Sales Connect Customizations**」。
 
    ![](assets/three.png)
 
-1. 按一 **下「連線至Salesforce」**。
+1. 按一下「連線至Salesforce **」。**
 
    ![](assets/four.png)
 
@@ -41,9 +41,9 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-## 自訂活動欄位 {#custom-activity-fields}
+## 自訂活動欄位{#custom-activity-fields}
 
-Marketo會偵測到新欄位的建立，然後只會執行一次資料回填、重新對應，以及持續同步值至新欄位 **的** 。 舊欄位不會更新。
+Marketo會偵測到新欄位的建立，然後只對&#x200B;**new**&#x200B;欄位執行一次回填資料、重新對應和持續同步值。 舊欄位不會更新。
 
 | **欄位名稱** | **說明** |
 |---|---|
@@ -61,7 +61,7 @@ Marketo會偵測到新欄位的建立，然後只會執行一次資料回填、�
 | MSE電子郵件URL | 按一下此URL將開啟MSE中的Command Center ，並提取「人員詳細資訊視圖」歷史記錄頁籤，您可在其中查看已發送的電子郵件。 |
 | 已查看MSE電子郵件 | 當收件者檢視電子郵件時記錄核取標籤。 |
 
-## 統計記錄欄位 {#roll-up-logging-fields}
+## 統計日誌欄位{#roll-up-logging-fields}
 
 <table> 
  <colgroup> 
@@ -116,7 +116,7 @@ Marketo會偵測到新欄位的建立，然後只會執行一次資料回填、�
  </tbody> 
 </table>
 
-## 按鈕 {#buttons}
+## 按鈕{#buttons}
 
 | **按鈕名稱** | **說明** |
 |---|---|
@@ -125,14 +125,14 @@ Marketo會偵測到新欄位的建立，然後只會執行一次資料回填、�
 | 推送至MSE | 將連絡人從Salesforce推送至MSE。 |
 | 使用MSE呼叫 | 從Salesforce撥打銷售電話。 |
 
-## 大量動作按鈕 {#bulk-action-buttons}
+## 批量操作按鈕{#bulk-action-buttons}
 
 | **按鈕名稱** | **說明** |
 |---|---|
 | 新增至MSE促銷活動 | 從Salesforce新增至MSE促銷活動。 |
 | 推送至MSE | 將連絡人從Salesforce推送至MSE。 |
 
-## 使用手冊 {#user-guides}
+## 使用手冊{#user-guides}
 
 [Salesforce中的MSE自訂報表](http://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
@@ -140,7 +140,8 @@ Marketo會偵測到新欄位的建立，然後只會執行一次資料回填、�
 
 [Salesforce Lightning的MSE](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
 
-## 相關影片 {#related-videos}
+## 相關視訊{#related-videos}
 
-**如何在Salesforce中安裝自訂***`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` **在Salesforce中使用自訂的好處**
+**如何在Salesforce中安裝自訂項目**
+`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` **在Salesforce中使用自訂項目的優點** 
 `<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
