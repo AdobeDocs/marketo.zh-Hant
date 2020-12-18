@@ -11,35 +11,35 @@ ht-degree: 0%
 ---
 
 
-# Salesforce Lightning中的大量動作 {#bulk-actions-in-salesforce-lightning}
+# Salesforce Lightning中的大量動作{#bulk-actions-in-salesforce-lightning}
 
 以下是如何在Salesforce Lightning中設定大量動作。
 
-1. 在Salesforce中，按一下「設定」圖示，然後選取「 **設定**」。
+1. 在Salesforce中，按一下「設定」圖示，然後選取「設定」****。
 
    ![](assets/one.png)
 
-1. 按一下「對 **像管理器** 」頁籤。
+1. 按一下&#x200B;**對象管理器**&#x200B;頁籤。
 
    ![](assets/two.png)
 
-1. 查找並選擇銷 **售線索** 標籤。
+1. 查找並選擇&#x200B;**Lead**&#x200B;標籤。
 
    ![](assets/three-2.png)
 
-1. 按一 **下「搜尋Salesforce Classic的版面」**。
+1. 按一下「搜尋Salesforce Classic的版面」。****
 
    ![](assets/four-1.png)
 
-   尋找清單檢視版面。 按一下右側的下拉式清單，然後選取「編 **輯」**。
+   尋找清單檢視版面。 按一下右邊的下拉菜單並選擇&#x200B;**編輯**。
 
    ![](assets/five.png)
 
-1. 在「自訂按鈕」下，尋找並選 **取「新增至Marketo Campaign(lightning)」****和「傳送Marketo Email(lightning)」**。 按一下「 **新增** 」按鈕。
+1. 在「自訂按鈕」下，尋找並選取「新增至行銷人員促銷活動(lightning)」**和「傳送行銷人員電子郵件(lightning)」**。 ****&#x200B;按一下&#x200B;**添加**&#x200B;按鈕。
 
    ![](assets/six.png)
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/seven.png)
 
