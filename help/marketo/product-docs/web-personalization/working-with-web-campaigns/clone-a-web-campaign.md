@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# 複製Web促銷活動 {#clone-a-web-campaign}
+# 複製Web促銷活動{#clone-a-web-campaign}
 
 使用「網頁促銷活動」頁面上的複製功能來複製促銷活動設定並變更內容以進行分割測試最佳化，或複製具有相同內容的促銷活動並將其定位至不同的群體。 在數秒內建立Web促銷活動！
 
-## 建立仿製促銷活動 {#create-a-clone-campaign}
+## 建立仿製促銷活動{#create-a-clone-campaign}
 
-1. 前往「網 **頁促銷活動**」。
+1. 前往&#x200B;**Web促銷活動**。
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 
    >[!NOTE]
    >
-   >若要更輕鬆找到您想要的Web促銷活動，請使用篩 [選功能](filter-web-campaigns.md)。
+   >若要更輕鬆找到您想要的Web促銷活動，請使用[篩選功能](filter-web-campaigns.md)。
 
-1. 對於Web促銷活動，按一下「仿 **制」**。
+1. 對於Web促銷活動，按一下「複製」。****
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. 促銷活動仿製程式會將現有Web促銷活動的所有內容複製到新的複製促銷活動。 新複製的Web促銷活動已獲得「[CAMPAIGN NAME] Copy」（促銷活動名稱副本）的權限。
+1. 促銷活動仿製程式會將現有Web促銷活動的所有內容複製到新的複製促銷活動。 新克隆的Web促銷活動已獲得「[CAMPAIGN NAME] Copy」的權限。
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 
