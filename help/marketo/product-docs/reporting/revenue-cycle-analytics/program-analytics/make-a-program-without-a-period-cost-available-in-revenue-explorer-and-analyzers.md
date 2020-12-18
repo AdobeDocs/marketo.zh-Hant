@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 在收入瀏覽器和分析器中提供不含期間成本的方案 {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
+# 在收入瀏覽器和分析器中使用不含期間成本的程式{#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-方案期間成本允許您為方案定義「金額」和「時間」。 這會顯示在收入 [週期瀏覽器](http://docs.marketo.com/display/docs/revenue+cycle+analytics) 和分 [析器中](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)。
+方案期間成本允許您為方案定義「金額」和「時間」。 這顯示在[收入週期瀏覽器](http://docs.marketo.com/display/docs/revenue+cycle+analytics)和[分析器](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)中。
 
 >[!NOTE]
 >
