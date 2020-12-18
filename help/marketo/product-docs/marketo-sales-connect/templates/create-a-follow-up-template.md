@@ -11,6 +11,6 @@ ht-degree: 0%
 ---
 
 
-# 建立追蹤範本 {#create-a-follow-up-template}
+# 建立跟蹤模板{#create-a-follow-up-template}
 
 使用我們的促銷活動功能，當您建立新範本時，只需將「last_email_body」動態欄位新增至範本底部即可。 這會自動將電子郵件串連在促銷活動中。
