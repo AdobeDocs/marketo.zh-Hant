@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 從收入總管繪製結果 {#graphing-results-from-revenue-explorer}
+# 從收入瀏覽器{#graphing-results-from-revenue-explorer}繪製結果
 
 依預設，「收入總管」中的報表會顯示為表格。 您也可以選擇以各種格式將結果顯示為圖形。
 
-1. 按一下報表「檢 **視方式** 」下拉式功能表中的箭頭。 將顯示不同的圖形選項。
+1. 按一下報表的&#x200B;**檢視方式**&#x200B;下拉式功能表中的箭頭。 將顯示不同的圖形選項。
 
    ![](assets/one-1.png)
 
-## 圖形範例 {#graph-examples}
+## 圖表範例{#graph-examples}
 
 **欄**:表中的每一行和列都顯示為垂直列。
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ![](assets/sunburst.png)
 
-**散布**:泡泡是根據使用的屬性。 使用測量對氣泡進行顏色編碼和／或確定其大小。
+**散布**:泡泡是根據使用的屬性。使用測量對氣泡進行顏色編碼和／或確定其大小。
 
 ![](assets/scatter.png)
 
