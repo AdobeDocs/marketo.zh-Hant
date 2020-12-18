@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 導出機會影響分析器資料 {#export-opportunity-influence-analyzer-data}
+# 導出機會影響分析器資料{#export-opportunity-influence-analyzer-data}
 
-若要從「收入週期總 [管」報表接收更新](http://docs.marketo.com/display/docs/revenue+cycle+analytics) ，並共用這些更新，您可以將任何電子郵件地址訂閱至現有報表。
+若要從[收入週期總管](http://docs.marketo.com/display/docs/revenue+cycle+analytics)報表接收更新，並共用這些報表，您可以將任何電子郵件地址訂閱至現有報表。
 
-1. 前往 **Analytics** ，選擇New ******>NewReport Report** Subscription(新報 ************&#x200B;表訂閱)。
+1. 前往&#x200B;**Analytics**&#x200B;並選擇&#x200B;**New********New** **Report** **Subscription**。
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >若要訂閱您在程式中建立的基本報表，請參 [閱訂閱基本報表](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) 。
+   >要訂閱在程式中建立的基本報告，請參閱[訂閱基本報告](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)。
 
-1. 在「報表來源」中，選取「收 **入總管」。**
+1. 對於「報表來源」，選擇「收入瀏覽器」。****
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->瞭解如何在 [單一位置管理您的所有報](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) 表訂閱。
+>瞭解如何[集中管理所有報表訂閱](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)。
 
 >[!NOTE]
 >
 >**深入探討**
 >
->在「收入週期總管」深入探討中，瞭解您可以運用Marketo的進階分析 [進行的更多工作](http://docs.marketo.com/display/docs/revenue+cycle+analytics) 。
+>在[收入週期總管](http://docs.marketo.com/display/docs/revenue+cycle+analytics)深入探討中，瞭解您可以運用Marketo的進階分析進行的更多工作。
 
