@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 合併和消除重複類別 {#merge-and-de-duplicate-categories}
+# 合併和消除重複類別{#merge-and-de-duplicate-categories}
 
 當您的Sales Connect帳戶升級至最新版範本時，您可能會注意到部分範本類別旁有紅色警報圖示。 這表示您有多個名稱相同的類別。 只要開啟類別右側的功能表，您就可以按一下按鈕，合併這些重複的類別。
 
