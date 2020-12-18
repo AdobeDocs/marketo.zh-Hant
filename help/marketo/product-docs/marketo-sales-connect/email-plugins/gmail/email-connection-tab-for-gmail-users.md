@@ -11,45 +11,45 @@ ht-degree: 0%
 ---
 
 
-# Gmail使用者的電子郵件連線標籤 {#email-connection-tab-for-gmail-users}
+# Gmail使用者的電子郵件連線標籤{#email-connection-tab-for-gmail-users}
 
 連接Gmail意味著您將會收到回復跟蹤、訪問Gmail發送通道、在Gmail中排程電子郵件併發送合規性。
 
-1. 在Sales Connect中，按一下齒輪表徵圖並選擇「設 **置」**。
+1. 在Sales Connect中，按一下齒輪表徵圖並選擇&#x200B;**Settings**。
 
    ![](assets/one.png)
 
-1. 在「我的帳戶」下，選擇「電 **子郵件設定**」。
+1. 在「My Account（我的帳戶）」下，選擇「Email Settings（電子郵件設定）」**。**
 
    ![](assets/two.png)
 
-1. 按一下「電 **子郵件連線** 」標籤。
+1. 按一下&#x200B;**電子郵件連接**&#x200B;頁籤。
 
    ![](assets/three.png)
 
-1. 按一 **下開始**。
+1. 按一下&#x200B;**開始**。
 
    ![](assets/four.png)
 
-1. 選擇「 **I use Gmail to send emails** (我使用Gmail發送電子郵件 **)」 ，然**&#x200B;後按一下「Next（下一步）」。
+1. 選擇&#x200B;**I use Gmail to send emails**，然後按一下&#x200B;**Next**。
 
    ![](assets/five.png)
 
-1. 按一下 **確定**。
+1. 按一下&#x200B;**確定**。
 
    ![](assets/six.png)
 
-1. 如果您已登入Gmail，請選擇您要連線的帳戶。 如果沒有，請輸入您的Gmail地址，然後按一下「下 **一步」**。 在此範例中，我們尚未登入。
+1. 如果您已登入Gmail，請選擇您要連線的帳戶。 如果沒有，請輸入您的Gmail地址，然後按一下「下一步」。 ****&#x200B;在此範例中，我們尚未登入。
 
    ![](assets/seven.png)
 
-1. 輸入密碼，然後按一下「 **Next（下一步）**」。
+1. 輸入密碼，然後按一下&#x200B;**Next**。
 
    ![](assets/eight.png)
 
-1. 按一 **下允許**。
+1. 按一下&#x200B;**允許**。
 
    ![](assets/nine.png)
 
-   您可使用此連線來追蹤電子郵件，也可 [當成傳送管道](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)。
+   您可使用此連線來追蹤電子郵件，也可以使用[作為傳送渠道](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)。
 
