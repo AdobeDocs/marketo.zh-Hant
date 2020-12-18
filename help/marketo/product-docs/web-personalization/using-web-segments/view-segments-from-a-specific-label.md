@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 從特定標籤檢視區段 {#view-segments-from-a-specific-label}
+# 從特定標籤{#view-segments-from-a-specific-label}檢視區段
 
 想要根據特定標籤檢視和篩選區段嗎？
 
-## 依現有標籤篩選 {#filter-by-existing-labels}
+## 依現有標籤篩選{#filter-by-existing-labels}
 
 在標籤下拉式清單下，選取您選擇的標籤。
 
