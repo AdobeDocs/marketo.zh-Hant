@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 在Google Mail中查看人員和帳戶資訊和活動 {#view-person-and-account-information-and-activities-in-google-mail}
+# 在Google Mail中查看人員和帳戶資訊和活動{#view-person-and-account-information-and-activities-in-google-mail}
 
-## 在Google Mail中檢視活動 {#view-activities-in-google-mail}
+## 檢視Google Mail中的活動{#view-activities-in-google-mail}
 
 使用情境式的「行銷人員前瞻分析」窗格，查看帳戶資訊和最近的活動。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ![](assets/image2015-10-6-15-3a43-3a22.png)
 
-## 在Google Chrome中檢視活動 {#view-activities-in-google-chrome}
+## 在Google Chrome中檢視活動{#view-activities-in-google-chrome}
 
 您也可以使用Google Chrome中的「全域活動」窗格，查看您最近與之對應的所有使用者最近發生之活動的完整清單。 這是即時更新的動態消息，會持續顯示圖示上未讀取的活動數。
 
