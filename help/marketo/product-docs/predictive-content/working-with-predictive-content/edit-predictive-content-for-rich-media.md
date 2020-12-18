@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 編輯豐富式媒體的預測式內容 {#edit-predictive-content-for-rich-media}
+# 編輯豐富式媒體的預測式內容{#edit-predictive-content-for-rich-media}
 
 >[!NOTE]
 >
->視購買日期而定，您的Marketo訂閱可能包含Marketo Predictive Content或<sup>ContentAI</sup>。 對於使用預測式內容的使用者，Marketo會在2018年4月30<sup>日之前啟用ContentAI</sup> Analytics功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo<sup>ContentAI</sup>。
+>視購買日期而定，您的Marketo訂閱可能包含Marketo Predictive Content或Content<sup>AI</sup>。 對於使用預測性內容的使用者，Marketo會在2018年4月30日之前啟用「內容」<sup>AI</sup>分析功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo Content<sup>AI</sup>。
 
 以下說明如何為Rich Media設定預測性內容。
 
 >[!PREREQUISITES]
 >
->內容必須在「 [所有內容」頁面上](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) ，針對預測性內容進行核准。
+>內容必須[已核准，才能用於「所有內容」頁面上的預測性內容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)。
 
-1. 在「預 **測性內容** 」頁面上，按一下標題以開啟編輯器。
+1. 在&#x200B;**預測性內容**&#x200B;頁面上，按一下標題以開啟編輯器。
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. 按一 **下豐富式媒體**。
+1. 按一下「**豐富型媒體**」。
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
-1. 輸入說 **明**。
+1. 鍵入&#x200B;**Description**。
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. 按一 **下「類別** 」方塊，以選 [取／新增您已設定的類別](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) （選用）。
+1. 按一下「**類別**」方塊，以選取／新增您已設定的](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)類別（選用）。[
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -55,6 +55,6 @@ ht-degree: 0%
 
    ![](assets/six-1.png)
 
-1. 按一下 **儲存**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/save.png)
