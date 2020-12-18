@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Marketo取消訂閱檢查 {#marketo-unsubscribe-check}
+# Marketo Unsubscribe Check {#marketo-unsubscribe-check}
 
 Marketo Unsubscribe Check會使用您團隊與Market的連線，防止電子郵件寄送給在Marketto銷售機會管理系統中未訂閱的人。 當銷售使用者透過Sales Connect傳送電子郵件時，會向Marketo發出API呼叫，以檢查電子郵件ID是否未訂閱。 如果是，我們將封鎖電子郵件。
 
@@ -19,17 +19,17 @@ Marketo Unsubscribe Check會使用您團隊與Market的連線，防止電子郵�
 >
 >**需要管理員權限**
 
-## 開啟 {#turning-it-on}
+## 開啟{#turning-it-on}
 
-1. 在Web應用程式中，按一下齒輪圖示並選取「設 **定」**。
+1. 在Web應用程式中，按一下齒輪表徵圖並選擇&#x200B;**設定**。
 
    ![](assets/one-2.png)
 
-1. 在「管理員設定」下，按一下「 **取消訂閱**」。
+1. 在「管理設定」下，按一下「取消訂閱&#x200B;**」。**
 
    ![](assets/two-3.png)
 
-1. 按一 **下整合**。
+1. 按一下「**整合**」。
 
    ![](assets/three-3.png)
 
@@ -37,7 +37,7 @@ Marketo Unsubscribe Check會使用您團隊與Market的連線，防止電子郵�
 
    ![](assets/four-2.png)
 
-## 要知道的事 {#things-to-know}
+## 要知道的{#things-to-know}
 
 「行銷人員取消訂閱」檢查……
 
