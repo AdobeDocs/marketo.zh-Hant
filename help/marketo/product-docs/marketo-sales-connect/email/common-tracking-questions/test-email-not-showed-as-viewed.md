@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 測試未顯示為已檢視的電子郵件 {#test-email-not-showed-as-viewed}
+# 測試電子郵件未顯示為已查看{#test-email-not-showed-as-viewed}
 
 即使您將訊息傳送至其他電子郵件地址，我們也不會在即時動態消息中記錄您檢視您寄給自己的任何電子郵件。 我們的追蹤是以裝置為基礎；只要您使用已登錄Sales Connect的電腦，我們就會過濾掉該活動。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 這裡是如何到達我們唯一展示自我追蹤的地方。
 
-1. 前往指揮 [中心](http://toutapp.com/next#emails/command_center)。
+1. 轉到[命令中心](http://toutapp.com/next#emails/command_center)。
 1. 在「已傳送」資料夾中尋找您自己寄送的電子郵件，並加以選取。
-1. 按一下「詳細 **資訊** 」按鈕。 您應該會看到自己的檢視出現在那裡。
+1. 按一下&#x200B;**Details**&#x200B;按鈕。 您應該會看到自己的檢視出現在那裡。
 
