@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 新增欄位至收入總管報表 {#adding-fields-to-a-revenue-explorer-report}
+# 新增欄位至收入總管報表{#adding-fields-to-a-revenue-explorer-report}
 
 將維度和量度欄位拖放至畫布中，以自訂收入總管報表。
 
