@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 將電子郵件新增至Salesforce {#add-email-to-salesforce}
+# 新增電子郵件至Salesforce {#add-email-to-salesforce}
 
 將電子郵件新增至Salesforce可讓您將Outlook或Gmail中收到的任何電子郵件推送至Salesforce帳戶。 我們會根據電子郵件的寄件者進行查詢，因此我們目前只能將此按鈕用於您收到的電子郵件，而非您寄送的電子郵件。
 
