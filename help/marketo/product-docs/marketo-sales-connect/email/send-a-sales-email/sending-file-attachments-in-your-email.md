@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 在電子郵件中傳送檔案附件 {#sending-file-attachments-in-your-email}
+# 在電子郵件中發送檔案附件{#sending-file-attachments-in-your-email}
 
 傳送附件是讓電子郵件保持簡短並讓行銷團隊暢所欲言的絕佳方式。 不過，傳送包含大型檔案的電子郵件可能會使您的收件者無法收到。
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 >
 >使用Tout做為您的電子郵件傳送管道時，我們建議在傳送電子郵件時使用19MB或以下的檔案。
 
-如果您絕對需要傳送大型檔案，請先壓縮檔案，或將它上傳為網頁應用 [程式中可追蹤](http://docs.marketo.com/x/3oPS)[的附件](http://toutapp.com/login)。
+如果您絕對需要傳送大型檔案，請先壓縮檔案，或在[網頁應用程式](http://toutapp.com/login)中以[可追蹤附件](http://docs.marketo.com/x/3oPS)的形式上傳檔案。
