@@ -15,41 +15,41 @@ ht-degree: 0%
 
 請依照下列簡單步驟，將Sales Connect連線至Salesforce。
 
-## 如何以管理員身分連線 {#how-to-connect-as-an-admin}
+## 如何以管理員身份連接{#how-to-connect-as-an-admin}
 
-1. 在Sales Connect中，按一下右上角的齒輪圖示並選取「設 **定」**。
+1. 在Sales Connect中，按一下右上角的齒輪表徵圖，然後選擇&#x200B;**Settings**。
 
    ![](assets/one.png)
 
-1. 在「管理員設定」下，按一 **下Salesforce**。
+1. 在「管理設定」下，按一下「**Salesforce**」。
 
    ![](assets/six.png)
 
-1. 在「連接和定制」頁籤中，按一下「 **連接」**。
+1. 在「連接和定制」頁籤中，按一下&#x200B;**Connect**。
 
    ![](assets/seven.png)
 
-1. 按一下 **確定**。
+1. 按一下&#x200B;**確定**。
 
    ![](assets/four.png)
 
 1. 如果您已登入Salesforce，您將會連線。 如果您沒有，系統會要求您登入。
 
-## 如何以非管理員身分連線 {#how-to-connect-as-a-non-admin}
+## 如何以非管理員身份連接{#how-to-connect-as-a-non-admin}
 
-1. 在Sales Connect中，按一下齒輪表徵圖並選擇「設 **置」**。
+1. 在Sales Connect中，按一下齒輪表徵圖並選擇&#x200B;**Settings**。
 
    ![](assets/one.png)
 
-1. 在「我的帳戶」下，選 **取Salesforce**。
+1. 在「我的帳戶」下，選擇&#x200B;**Salesforce**。
 
    ![](assets/two.png)
 
-1. 在「連接和定制」頁籤中，按一下「 **連接」**。
+1. 在「連接和定制」頁籤中，按一下&#x200B;**Connect**。
 
    ![](assets/three.png)
 
-1. 按一下 **確定**。
+1. 按一下&#x200B;**確定**。
 
    ![](assets/four.png)
 
