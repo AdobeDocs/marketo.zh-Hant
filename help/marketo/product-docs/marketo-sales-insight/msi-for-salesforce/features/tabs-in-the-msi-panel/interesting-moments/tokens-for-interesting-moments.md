@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 有趣時刻的Token {#tokens-for-interesting-moments}
+# 有趣時刻的代號{#tokens-for-interesting-moments}
 
 >[!PREREQUISITES]
 >
->* 瞭解如何使用「 [有趣的時刻」流程步驟](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)。
->* 進一步瞭解 [Token](http://docs.marketo.com/display/docs/tokens)。
+>* 瞭解如何使用[有趣的力矩流步驟](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)。
+>* 進一步瞭解[Token](http://docs.marketo.com/display/docs/tokens)。
 
 >
 
 
 
-## 可用預付碼 {#available-tokens}
+## 可用預付碼{#available-tokens}
 
-查看 [Token概觀](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) ，查看您可放入有趣時刻的所有Token。
+查看[Token Overview](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)，以查看您可放入有趣時刻的所有Token。
 
 ## 觸發Token {#trigger-tokens}
 
 根據智慧型促銷活動中使用的觸發器，會提供額外的觸發器Token。
 
-* `{{trigger.Trigger Name}}` 這總是觸發器本身。 例如：按一下電子郵件中的連結。
-* `{{trigger.Name}}` 是觸發促銷活動的資產名稱。 例如：網頁上的「點按連結」是URL本身、Salesforce觸發程式的主題等。
+* `{{trigger.Trigger Name}}` 這總是觸發器本身。例如：按一下電子郵件中的連結。
+* `{{trigger.Name}}` 是觸發促銷活動的資產名稱。例如：網頁上的「點按連結」是URL本身、Salesforce觸發程式的主題等。
 * 其他觸發程式會根據限制提供，如下所示：
 
 <table> 
@@ -236,9 +236,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果它沒有勾選（勾選） ![](assets/check.svg) ，則會在有趣的時刻傳回空字串（無）。
+>如果它沒有勾選![(tick)](assets/check.svg)，則會在有意思的時刻傳回空字串（無）。
 
-*「觸發瀏 **覽」網頁** ，有幾個額外的Token:
+*觸發器&#x200B;**瀏覽網頁**&#x200B;包含一些額外的Token:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
