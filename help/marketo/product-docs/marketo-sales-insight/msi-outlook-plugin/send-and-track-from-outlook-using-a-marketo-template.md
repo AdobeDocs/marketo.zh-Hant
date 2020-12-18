@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 使用Marketo範本從Outlook傳送及追蹤 {#send-and-track-from-outlook-using-a-marketo-template}
+# 使用Marketo範本從Outlook傳送及追蹤{#send-and-track-from-outlook-using-a-marketo-template}
 
 如果您的行銷團隊已提供範本給您，以下是您在撰寫電子郵件時如何使用範本以節省時間的方法。
 
-1. 開啟Microsoft Outlook並按一下「 **Marketo訊息」**。
+1. 開啟Microsoft Outlook並按一下「Marketo Message」**。**
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. 選取您想要的範本，預覽範本，然後按一下「 **確定**」。
+1. 選擇所需的模板，預覽它，然後按一下&#x200B;**確定**。
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. 進行所有編輯，然後按一下「 **傳送及追蹤」**。
+1. 進行所有編輯，然後按一下「傳送並追蹤」**。**
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    >
    >新增功能不支援Token。 移除範本中可能包含的任何項目。
 
-1. 檢視預覽，確定它看起來正常，然後按一下「傳 **送」**。
+1. 檢視預覽，確定它看起來正常，然後按一下「傳送」。****
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 
