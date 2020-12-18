@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 什麼是Sales Connect和Highspot整合？ {#what-is-the-sales-connect-and-highspot-integration}
+# 什麼是Sales Connect和Highspot整合？{#what-is-the-sales-connect-and-highspot-integration}
 
-Sales Connect支援與內容管 [理系統](https://www.highspot.com/)Highspot的整合。 Sales Connect客戶也是Highspot客戶，可從Web應用程式存取其Highspot內容。
+Sales Connect支援與內容管理系統[Highspot](https://www.highspot.com/)的整合。 Sales Connect客戶也是Highspot客戶，可從Web應用程式存取其Highspot內容。
 
-## 需求 {#requirements}
+## 要求{#requirements}
 
 為了與Highspot整合Sales Connect，您將需要下列項目：
 
@@ -29,11 +29,11 @@ Sales Connect支援與內容管 [理系統](https://www.highspot.com/)Highspot�
 >
 >Sales Connect Gmail擴充功能目前不支援Highspot整合
 
-## 啟用Sales Connect和亮點整合 {#enabling-the-sales-connect-and-highspot-integration}
+## 啟用Sales Connect和Highspot整合{#enabling-the-sales-connect-and-highspot-integration}
 
-如果您有興趣為團隊啟用Highspot整合，請聯絡行 [銷人員支援](http://support.marketo.com)。
+如果您想要為團隊啟用Highspot整合，請聯絡[行銷人員支援](http://support.marketo.com)。
 
-## 如何使用整合 {#how-to-use-the-integration}
+## 如何使用整合{#how-to-use-the-integration}
 
 啟用後，以下說明如何在Sales Connect中存取您的Highspot內容。
 
