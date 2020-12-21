@@ -3,7 +3,7 @@ unique-page-id: 12615804
 description: 在指名帳戶——行銷人員檔案——產品檔案中篩選
 title: 在命名帳戶中篩選
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >有幾個搜尋參陣列合。 在此範例中，我們找到：*產業=銀行、國家=美國、員工人數上限= 10000*。
+   >有幾個搜尋參陣列合。 在此範例中，我們找到：_產業=銀行、國家=美國、員工人數上限= 10000_。
 
 1. 按一下&#x200B;**Industry**&#x200B;下拉式清單並選擇&#x200B;**Banking**。
 
@@ -44,4 +44,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >若要新增更多篩選條件以進行選擇，請按一下表格左下方的「新增篩選條件」。****
-
