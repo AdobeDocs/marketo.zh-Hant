@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: 新客戶發現——行銷人員檔案——產品檔案
 title: 新帳戶發現
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[設定帳戶分析](http://docs.marketo.com/x/FgAKAQ)
+>[設定帳戶分析](/help/marketo/product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
 
 >[!TIP]
 >
@@ -73,5 +73,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >儲存帳戶後，您可以在LinkedIn](http://docs.marketo.com/x/rYGZAQ)上使用[符合的對象來定位他們。
-
+   >儲存帳戶後，您可以在LinkedIn](/help/marketo/product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)上使用[符合的對象來定位他們。
