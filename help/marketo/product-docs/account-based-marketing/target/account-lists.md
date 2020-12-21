@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: 帳戶清單——行銷人員檔案——產品檔案
 title: 帳戶清單
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在[Web Personalization](http://docs.marketo.com/display/DOCS/RTP+Segments)中建立智慧型清單和Web促銷活動時，在Marketo Account Based Marketing中建立的帳戶清單會自動可用。
+>在[Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)中建立智慧型清單和Web促銷活動時，在Marketo Account Based Marketing中建立的帳戶清單會自動可用。
 
 ## 建立新帳戶清單{#create-a-new-account-list}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/three-0.png)
 
-1. 建立帳戶清單後，開始使用[新增指名帳戶至](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
+1. 建立帳戶清單後，開始使用[新增指名帳戶至](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)!
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這些步驟僅適用於帳戶清單。 *Dynamicaccount* lists會使用其關聯CRM帳戶檢視的名稱。
+>這些步驟僅適用於帳戶清單。 _Dynamicaccount_ lists會使用其關聯CRM帳戶檢視的名稱。
 
 1. 選擇要更名的帳戶，按一下&#x200B;**帳戶清單操作**&#x200B;下拉式清單並選擇&#x200B;**更名帳戶清單**。
 
@@ -91,10 +91,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [將現有的命名帳戶新增至帳戶清單](named-accounts/add-an-existing-named-account-to-an-account-list.md)
->* [帳戶清單分析](../../../product-docs/account-based-marketing/measure/account-list-insights.md)
-
->
-
-
+>* [將現有的命名帳戶新增至帳戶清單](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [帳戶清單分析](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md)
 
