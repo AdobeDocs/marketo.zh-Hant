@@ -3,9 +3,9 @@ unique-page-id: 11385183
 description: ABM銷售報告——行銷檔案——產品檔案
 title: ABM銷售報告
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->瞭解如何在[這裡](https://docs.marketo.com/x/drat)設定此報表。
+>瞭解如何在[這裡](/help/marketo/product-docs/account-based-marketing/measure/abm-report-setup.md)設定此報表。
 
 報告分享：
 
@@ -30,8 +30,35 @@ ht-degree: 0%
 
 ## 銷售報表索引鍵{#sales-report-key}
 
-| **帳戶分數** | 依帳戶分數的每週趨勢（在設定中選取），接著是目前帳戶分數 |
-|---|---|
-| **銷售管道** | 每週趨勢（依管道區分），接著是目前總管道和未結商機數量 |
-| **頁面檢視** | 頁面檢視的每週趨勢，接著頁面檢視總數和獨特訪客數 |
-| **有趣的時刻** | 一週內發生的有趣時刻總數 |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>帳戶分數</strong></td> 
+   <td> 
+    <div>
+      依帳戶分數的每週趨勢（在設定中選取），接著是目前帳戶分數 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>銷售管道</strong></td> 
+   <td> 
+    <div>
+      每週趨勢（依管道區分），接著是目前總管道和未結商機數量 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>頁面檢視</strong></td> 
+   <td> 
+    <div>
+      頁面檢視的每週趨勢，接著頁面檢視總數和獨特訪客數 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>有趣的時刻</strong></td> 
+   <td> 
+    <div>
+      一週內發生的有趣時刻總數 
+    </div></td> 
+  </tr> 
+ </tbody> 
+</table>
