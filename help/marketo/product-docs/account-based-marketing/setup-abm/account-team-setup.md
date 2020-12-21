@@ -3,9 +3,9 @@ unique-page-id: 11384433
 description: 帳戶團隊設定——行銷人員檔案——產品檔案
 title: 帳戶團隊設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**說明**
+   >當具有不同帳戶擁有者的多個CRM帳戶合併至命名帳戶時，Marketo會挑選一個「帳戶擁有者」，並將其他帳戶擁有者新增為「帳戶共同擁有者」
    >
-   >    
-   >    
-   >    * 當具有不同帳戶擁有者的多個CRM帳戶合併至命名帳戶時，Marketo會挑選一個「帳戶擁有者」，並將其他帳戶擁有者新增為「帳戶共同擁有者」
-   >    * 如果CRM的「角色」欄位稍後重新命名或刪除，Marketo ABM將停止同步更新的值，直到使用者手動更新ABM中的設定
-
-
+   >如果CRM的「角色」欄位稍後重新命名或刪除，Marketo ABM將停止同步更新的值，直到使用者手動更新ABM中的設定
