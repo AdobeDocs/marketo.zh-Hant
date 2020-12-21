@@ -3,9 +3,9 @@ unique-page-id: 11380778
 description: 權限——行銷人員檔案——產品檔案
 title: 權限
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. 若要選取&#x200B;*all*&#x200B;權限，只需勾選「存取帳戶型行銷」核取方塊。****
+1. 若要選取&#x200B;_all_&#x200B;權限，只需勾選「存取帳戶型行銷」核取方塊。****
 
    ![](assets/five-1.png)
 
@@ -45,8 +45,8 @@ ht-degree: 0%
 
 1. 按一下&#x200B;**+**&#x200B;以開啟「存取管理」功能表。 選中&#x200B;**訪問ABM管理員**&#x200B;複選框。
 
-   ![](assets/six-1.png)\
-   您的新ABM角色現在已準備好指派給用戶[!](http://docs.marketo.com/display/public/DOCS/Managing+User+Roles+and+Permissions#ManagingUserRolesandPermissions-AssignRolestoaUser)
+   ![](assets/six-1.png)
+
+   您的新ABM角色現在已準備好指派給用戶[!](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)
 
    ![](assets/seven.png)
-
