@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: 行銷人員指南
 user-guide-description: 行銷人員產品檔案
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
 source-wordcount: '7840'
 ht-degree: 0%
@@ -71,21 +71,21 @@ ht-degree: 0%
             + [建立階層](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies/create-a-hierarchy.md)
          + [帳戶清單](product-docs/account-based-marketing/target/account-lists.md)
          + [在LinkedIn上建立相符的對象](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
+      + 參與{#engage}
+         + [帳戶篩選](product-docs/account-based-marketing/engage/account-filters.md)
+         + [帳戶觸發器](product-docs/account-based-marketing/engage/account-triggers.md)
+      + 測量{#measure}
+         + [ABM主儀表板](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
+         + [ABM報告設定](product-docs/account-based-marketing/measure/abm-report-setup.md)
+         + [ABM銷售報告](product-docs/account-based-marketing/measure/abm-sales-report.md)
+         + [帳戶清單分析](product-docs/account-based-marketing/measure/account-list-insights.md)
+         + [RCA中的命名帳戶維](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
+         + [指名帳戶分析](product-docs/account-based-marketing/measure/named-account-insights.md)
+         + [使用角色](product-docs/account-based-marketing/using-personas.md)
    + 帳戶分析{#account-profiling}
       + [設定帳戶分析](product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
       + [帳戶分析排名和調整](product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)
       + [新帳戶發現](product-docs/account-based-marketing/account-profiling/new-account-discovery.md)
-   + 參與{#engage}
-      + [帳戶篩選](product-docs/account-based-marketing/engage/account-filters.md)
-      + [帳戶觸發器](product-docs/account-based-marketing/engage/account-triggers.md)
-   + 測量{#measure}
-      + [ABM主儀表板](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
-      + [ABM報告設定](product-docs/account-based-marketing/measure/abm-report-setup.md)
-      + [ABM銷售報告](product-docs/account-based-marketing/measure/abm-sales-report.md)
-      + [帳戶清單分析](product-docs/account-based-marketing/measure/account-list-insights.md)
-      + [RCA中的命名帳戶維](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
-      + [指名帳戶分析](product-docs/account-based-marketing/measure/named-account-insights.md)
-      + [使用角色](product-docs/account-based-marketing/using-personas.md)
    + 其他應用程式{#additional-apps}
       + SEO {#seo}
          + 瞭解SEO {#understanding-seo}
