@@ -3,7 +3,7 @@ unique-page-id: 11380734
 description: 帳戶觸發器——行銷人員檔案——產品檔案
 title: 帳戶觸發器
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -43,5 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [帳戶篩選](account-filters.md)
-
+>[帳戶篩選](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md)
