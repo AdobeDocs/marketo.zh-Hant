@@ -3,9 +3,9 @@ unique-page-id: 11380771
 description: 核發授權——行銷檔案——產品檔案
 title: 核發授權
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >要刪除用戶的許可證，請按照步驟1，然後選中該複選框，然後按一下「保存」。******
-
+   >要刪除用戶的許可證，請按照步驟1，然後取消選中該複選框，然後按一下「保存」。****
