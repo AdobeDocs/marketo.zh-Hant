@@ -3,7 +3,7 @@ unique-page-id: 17727818
 description: 使用角色——行銷人員檔案——產品檔案
 title: 使用角色
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -70,4 +70,3 @@ ht-degree: 0%
 1. 在智慧型清單中使用人格篩選器，將其行銷給特定人群。
 
 ![](assets/one-b.png)
-
