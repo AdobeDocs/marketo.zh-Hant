@@ -3,9 +3,9 @@ unique-page-id: 11381917
 description: 帳戶型行銷概觀——行銷檔案——產品檔案
 title: 帳戶型行銷概觀
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ Marketo Account Based Marketing將銷售和行銷團隊結合在一起，以高�
 
 Marketo ABM由三個組成部分組成：
 
-**1)目 [標](http://docs.marketo.com/display/docs/target)**
+**1)目標**
 
 * 帳戶發現
 * 銷售機會與帳戶匹配
 * 命名帳戶清單
 
-**2)參 [與](http://docs.marketo.com/display/docs/engage)**
+**2)參與**
 
 * 帳戶型個人化
 * 跨通道參與
 * 帳戶專屬的工作流程
 
-**3)措 [施](http://docs.marketo.com/display/docs/measure)**
+**3)計量**
 
 * 帳戶和清單層級分析
 * 帳戶參與分數
@@ -47,18 +47,18 @@ Marketo ABM由三個組成部分組成：
 
 Marketo Account Based Marketing也提供多種工具，讓跨通道的指定帳戶體驗個人化。
 
-* 電子郵件與著陸頁面[個人化](http://docs.marketo.com/display/DOCS/Personalization)
-* Web [個人化](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
-* URL [個人化](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
-* 廣告[個人化](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
-* [個人化](http://docs.marketo.com/display/DOCS/Website+Retargeting) 再行銷
+* 電子郵件與著陸頁面個人化
+* Web個人化
+* URL [個人化](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+* 廣告[個人化](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [個人化](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 再行銷
 
 我進去了！ 如何開始使用？
 
-我們以為你不會問！ ABM是您Marketo訂閱的附加元件，請連絡您的銷售代表以實施它。 一旦您取得此文章，請參閱以下文章：[開始使用ABM](getting-started-with-abm.md)。
+我們以為你不會問！ ABM是您Marketo訂閱的附加元件，請連絡您的銷售代表以實施它。 一旦您取得此文章，請參閱以下文章：[開始使用ABM](/help/marketo/product-docs/account-based-marketing/setup-abm/getting-started-with-abm.md)。
 
 >[!NOTE]
 >
->Marketon ABM中管理的命名帳戶可直接從Web ABM存取，以滿足Web個人化需求。 進一步瞭解[此處](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM)。
+>Marketon ABM中管理的命名帳戶可直接從Web ABM存取，以滿足Web個人化需求。 進一步瞭解[此處](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md)。
 
 歡迎使用Marketto ABM，並體驗針對性行銷！
