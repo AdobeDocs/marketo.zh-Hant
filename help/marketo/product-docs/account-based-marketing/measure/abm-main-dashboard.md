@@ -3,9 +3,9 @@ unique-page-id: 11380783
 description: ABM主儀表板——行銷文檔——產品文檔
 title: ABM主儀表板
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ![](assets/three.png)
 
-要查看[帳戶清單儀表板](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)，請按一下所選帳戶清單的名稱……
+要查看[帳戶清單儀表板](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md#account-list-dashboard)，請按一下所選帳戶清單的名稱……
 
 ![](assets/four.png)
 
@@ -37,7 +37,6 @@ ht-degree: 0%
 
 ![](assets/six.png)
 
-...並檢視[指名帳戶的前瞻分析](http://docs.marketo.com/display/DOCS/Named+Account+Insights)。
+...並檢視[指名帳戶的前瞻分析](/help/marketo/product-docs/account-based-marketing/measure/named-account-insights.md)。
 
 ![](assets/seven.png)
-
