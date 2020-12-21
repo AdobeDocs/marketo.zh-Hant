@@ -3,9 +3,9 @@ unique-page-id: 15695924
 description: 帳戶分析排名和調整——行銷檔案——產品檔案
 title: 帳戶分析排名和調整
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/results.png)
 
-雖然是選用的，但建議選取「自動升級」核取方塊，因為它可為您節省大量時間。 不過，如果您想要逐一檢視每個帳戶，並手動新增[，只需將方塊保留為未勾選。](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts)
+雖然是選用的，但建議選取「自動升級」核取方塊，因為它可為您節省大量時間。 不過，如果您想要逐一檢視每個帳戶，並手動新增[，只需將方塊保留為未勾選。](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md#discover-crm-accounts)
 
 <table> 
  <tbody> 
@@ -66,20 +66,89 @@ ht-degree: 0%
 
 ![](assets/tuning-page.png)
 
-指標類別
+**指標類別**
 
-| **符合性** | 認證、合規性相關職位／雇用。 |
-|---|---|
-| **操作** | 與業務相關的職位／聘用。 |
-| **HR** | HR或工資單軟體、與HR相關的職位／聘用。 |
-| **工程** | 技術、框架、與工程相關的職位／雇用。 |
-| **銷售** | 銷售、銷售相關職位／招聘的解決方案和軟體。 |
-| **意圖** | 意圖指標。 |
-| **IT** | 硬體和軟體解決方案、技術、IT相關職位／雇用。 |
-| **金融** | 財務軟體、財務相關職位／雇用。 |
-| **行銷** | 行銷技術和軟體、行銷相關職位／雇用。 |
-| **企業** | 福布斯或Inc公司的上市或商業夥伴關係。 |
-| **客戶體驗與關係** | 客戶成功與客戶關係職位／雇用。 |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>符合性</strong></td> 
+   <td> 
+    <div>
+      認證、合規性相關職位／雇用。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>操作</strong></td> 
+   <td> 
+    <div>
+      與業務相關的職位／聘用。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>HR</strong></td> 
+   <td> 
+    <div>
+      HR或工資單軟體、與HR相關的職位／聘用。
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>工程</strong></td> 
+   <td> 
+    <div>
+      技術、框架、與工程相關的職位／雇用。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>銷售</strong></td> 
+   <td> 
+    <div>
+      銷售、銷售相關職位／招聘的解決方案和軟體。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>意圖</strong></td> 
+   <td> 
+    <div>
+      意圖指標。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>IT</strong></td> 
+   <td> 
+    <div>
+      硬體和軟體解決方案、技術、IT相關職位／雇用。
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>金融</strong></td> 
+   <td> 
+    <div>
+      財務軟體、財務相關職位／雇用。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>行銷</strong></td> 
+   <td> 
+    <div>
+      行銷技術和軟體、行銷相關職位／雇用。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>企業</strong></td> 
+   <td> 
+    <div>
+      福布斯或Inc公司的上市或商業夥伴關係。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>客戶體驗與關係</strong></td> 
+   <td> 
+    <div>
+      客戶成功與客戶關係職位／雇用。
+    </div></td> 
+  </tr> 
+ </tbody> 
+</table>
 
 將滑鼠指標暫留在工具提示上，以取得每欄的說明。
 
@@ -89,7 +158,7 @@ ht-degree: 0%
 
 ![](assets/add-icp.png)
 
-選中「導出」框可以在「命名帳戶詳細資訊」頁上查看ICP指示符，並在[命名帳戶篩選器](http://docs.marketo.com/display/DOCS/Account+Filters)中將選定的ICP指示符用作約束。
+選中「導出」框可以在「命名帳戶詳細資訊」頁上查看ICP指示符，並在[命名帳戶篩選器](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md)中將選定的ICP指示符用作約束。
 
 ![](assets/export.png)
 
@@ -108,4 +177,3 @@ ht-degree: 0%
 完成模型調整（刷新模型後）後，返回「模型結果」頁籤，然後按一下&#x200B;**保存並應用排名**。
 
 ![](assets/ranks.png)
-
