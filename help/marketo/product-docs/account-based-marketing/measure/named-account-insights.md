@@ -3,9 +3,9 @@ unique-page-id: 11380785
 description: 指名的客戶見解——行銷人員檔案——產品檔案
 title: 指名帳戶分析
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 控制面板{#dashboard}
 
-控制面板會從指定帳戶內的所有人員匯總帳戶層級的關鍵見解，因此不需要前往每個人員評估其進度。 您可以使用[電子郵件深入探討電子郵件活動。](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing)
+控制面板會從指定帳戶內的所有人員匯總帳戶層級的關鍵見解，因此不需要前往每個人員評估其進度。 您可以使用[電子郵件深入探討電子郵件活動。](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing)
 
 >[!NOTE]
 >
@@ -52,13 +52,13 @@ ht-degree: 0%
 
 **有趣的時刻**
 
-[Marketo Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight)的使用者可檢視帳戶層級匯總的有趣時刻。
+Marketon Sales Insight的使用者可檢視帳戶層級匯總的有趣時刻。
 
 ![](assets/int-mom.png)
 
 **頂尖人物**
 
-這些人員是根據指名帳戶的人員（與Sales Insight中的[Best Bets](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets)相同）或使用者定義的「分數」所顯示的時近或緊急程度來計算的優先順序。 **Priority** 僅適用於Marketo Sales Insight的使用者。
+這些人員是根據指名帳戶的人員（與Sales Insight中的[Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)相同）或使用者定義的「分數」所顯示的時近或緊急程度來計算的優先順序。 **Priority** 僅適用於Marketo Sales Insight的使用者。
 
 ![](assets/top-ten.png)
 
@@ -112,7 +112,6 @@ ht-degree: 0%
 
 ## 比較方案指標{#icp-indicators}
 
-查看在[調整模型](http://docs.marketo.com/display/DOCS/Account+AI+Overview#AccountAIOverview-ModelTuning)時選擇要導出的ICP指示符。
+查看在[調整模型](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning)時選擇要導出的ICP指示符。
 
 ![](assets/eight.png)
-
