@@ -3,7 +3,7 @@ unique-page-id: 12978647
 description: 建立CRM搜尋的自訂欄位——行銷檔案——產品檔案
 title: 建立CRM搜尋的自訂欄位
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -46,4 +46,3 @@ ht-degree: 0%
    同步後，您的新欄位會出現在Discover CRM格線的最右側。
 
    ![](assets/eight.png)
-
