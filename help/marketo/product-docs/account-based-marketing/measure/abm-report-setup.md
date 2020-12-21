@@ -3,7 +3,7 @@ unique-page-id: 11384438
 description: ABM報表設定——行銷檔案——產品檔案
 title: ABM報告設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -78,4 +78,3 @@ ht-degree: 0%
 1. 選擇您要再次收到電子郵件的用戶，然後按一下&#x200B;**重新訂閱**。
 
    ![](assets/eleven.png)
-
