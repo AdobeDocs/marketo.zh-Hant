@@ -3,9 +3,9 @@ unique-page-id: 11380774
 description: 帳戶分數——行銷人員檔案——產品檔案
 title: 帳戶分數
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**說明**
->
->若要計算帳戶分數，您必須先建立銷售線索分數。 Marketo ABM會自動將潛在客戶分數匯總至帳戶分數。 例如，我們將以上兩個範例（*Account **Product Interest Score*&#x200B;和&#x200B;*Account Web Engagement Score*）為例。
+>若要計算帳戶分數，您必須先建立銷售線索分數。 Marketo ABM會自動將潛在客戶分數匯總至帳戶分數。 例如，我們將以上兩個範例（_帳戶產品興趣分數_&#x200B;和&#x200B;_帳戶網頁參與分數_）為例。
 >
 >首先，建立銷售機會分數欄位，從目標帳戶的每個銷售機會擷取相關詳細資訊。\
 >然後，將這些銷售機會分數指派給其各自的帳戶分數：\
@@ -61,17 +59,16 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您最多可以選擇**5個**欄位來計算「帳戶分數」。
+   >您最多可以選擇&#x200B;**五個**&#x200B;欄位來計算帳戶分數。
 
 1. 輸入帳戶分數名稱，按一下「選取人員分數」下拉式清單，然後選取對應的分數。****
 
    ![](assets/four.png)
 
-1. 按一下**+新增**以新增更多分數。
+1. 按一下&#x200B;**+Add**&#x200B;以新增更多分數。
 
    ![](assets/five.png)
 
 1. 新增所有想要的分數。 完成時，按一下「保存」。****
 
    ![](assets/six.png)
-
