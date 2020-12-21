@@ -3,7 +3,7 @@ unique-page-id: 11381156
 description: 銷售機會與帳戶匹配——行銷人員檔案——產品檔案
 title: 銷售機會與帳戶匹配
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Marketo Lead-to-Account匹配遵循4個步驟流程：
 
 * 電子郵件網域（例如acme.com）
 * 從IP位址推斷出公司名稱
-* 公司名稱——這可以是CRM帳戶名稱或潛在客戶公司名稱屬性，例如來自表單填寫
+* 公司名稱——這可以是CRM帳戶名稱或潛在客戶公司名稱屬性（例如，來自表單填寫）
 
 **步驟2 —— 我** 們根據各種銷售機會屬性來標準化我們尋找的公司名稱（例如，Acme Inc.和Acme Corp會自動標準化為Acme）。此步驟可確保我們在Marketo中擁有指名帳戶的單一表示法，並可在單一指名帳戶中查看所有潛在客戶。
 
@@ -33,9 +33,9 @@ Marketo Lead-to-Account匹配遵循4個步驟流程：
 
 * 弱匹配銷售機會出現在已命名的帳戶上，然後可以手動解決。
 
-**步驟4 —— 我** 們列出了一份具有強項和弱項的擬議公司清單。當根據其中一家建議的公司建立指名帳戶時，我們會建立符合規則，以自動將新的銷售機會（例如，銷售機會填寫表格）關聯至正確的指名帳戶。 這樣，您就不必再擔心匹配銷售機會，而更擔心獲得收入！
+**步驟4 —— 我** 們列出了一份具有強項和弱項的擬議公司清單。當根據其中一家建議的公司建立指名帳戶時，我們會建立符合規則，以自動將新的銷售機會（例如，銷售機會填寫表單）關聯至正確的指名帳戶。 這樣，您就不必再擔心匹配銷售機會，而更擔心獲得收入！
 
-由於「Marketo銷售線索至帳戶」比對是「Marketo Account Based Marketing」的內建功能，因此，比對銷售線索會即時發生（例如，當銷售線索填滿行銷人員表單時，我們會將所述銷售線索與正確的指名帳戶建立關聯）。 此事件可用來觸發警報，並通知帳戶擁有者新銷售機會來自其指定帳戶。
+由於「Marketo銷售線索至帳戶」比對是「Marketo Account Based Marketing」的內建功能，因此，比對銷售線索會在幾乎即時進行（例如，當銷售線索填滿行銷人員表單時，我們會將所述銷售線索與正確的命名帳戶關聯）。 此事件可用來觸發警報，並通知帳戶擁有者新銷售機會來自其指定帳戶。
 
 >[!NOTE]
 >
@@ -43,5 +43,4 @@ Marketo Lead-to-Account匹配遵循4個步驟流程：
 
 >[!MORELIKETHIS]
 >
->* [Discover帳戶](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
-
+>[Discover帳戶](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
