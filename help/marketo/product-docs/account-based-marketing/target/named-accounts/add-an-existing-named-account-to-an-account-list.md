@@ -3,7 +3,7 @@ unique-page-id: 12615798
 description: 將現有的指名帳戶新增至帳戶清單——行銷人員檔案——產品檔案
 title: 將現有的命名帳戶新增至帳戶清單
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -35,9 +35,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [建立指名帳戶](create-a-named-account.md)
-
->
-
-
-
+>[建立指名帳戶](/help/marketo/product-docs/account-based-marketing/target/named-accounts/create-a-named-account.md)
