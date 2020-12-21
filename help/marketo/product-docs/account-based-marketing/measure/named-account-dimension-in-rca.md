@@ -3,9 +3,9 @@ unique-page-id: 11380789
 description: RCA中的指名帳戶維度——行銷檔案——產品檔案
 title: RCA中的命名帳戶維
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**定義**
->
->**維度**-屬性（以黃點表示），可顯示不同的測量檢視。
+>**Dimensions**  —— 屬性（由黃點表示），可顯示測量的不同視圖。
 
 ![](assets/one-2.png)
 
@@ -35,8 +33,6 @@ ht-degree: 0%
 * 方案會員分析
 
 >[!NOTE]
->
->**範例**
 >
 >以下是「收入週期分析」中Marketo ABM的一些範例。
 
@@ -55,12 +51,3 @@ ht-degree: 0%
 指定客戶中的優質潛在客戶和參與的涵蓋範圍
 
 ![](assets/five-2.png)
-
->[!MORELIKETHIS]
->
->* [收入週期分析](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
-
->
-
-
-
