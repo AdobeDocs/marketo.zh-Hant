@@ -3,9 +3,9 @@ unique-page-id: 12979282
 description: Account Insight外掛程式概觀- Marketo Docs —— 產品檔案
 title: Account Insight外掛程式概觀
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,13 @@ ht-degree: 0%
 
 Account Insight是Chrome增效模組，可將可操作的ABM和帳戶見解呈現給您的銷售團隊，讓他們更有效率地與客戶互動。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >Account Insight適用於所有同時擁有ABM和Marketo Sales Insight的客戶。 對於只有ABM的客戶，Account Insight是以購買的附加元件形式提供。 每位客戶最多可獲得250個Account Insight授權。 如需詳細資訊，請連絡您的銷售代表。 沒有ABM的客戶無法使用它。
 
 >[!CAUTION]
 >
->Account Insight外掛程式無法用於啟用[SSO-only](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only)（單一登入）的訂閱。
+>Account Insight外掛程式無法用於啟用[SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)（單一登入）的訂閱。
 >
 >從「帳戶」、「潛在客戶」或「連絡人」啟動外掛程式時，CRM內容適用於Salesforce。 從「帳戶」、「潛在客戶」或「連絡人」啟動外掛程式時，CRM內容將無法用於Dynamics。 對於Dynamics使用者，我們建議使用Account Insight外掛程式。
 
@@ -71,7 +69,8 @@ Account Insight是Chrome增效模組，可將可操作的ABM和帳戶見解呈�
 
 ![](assets/af1.png)
 
-按一下「**篩選**」下拉式清單，依不同的活動類型篩選。\
+按一下「**篩選**」下拉式清單，依不同的活動類型篩選。
+
 ![](assets/af2.png)
 
 可點選數個項目。 按一下指名帳戶以檢視其詳細資訊。 按一下使用者名稱，以查看其活動。 按一下更多活動以檢視更多活動。
@@ -82,9 +81,4 @@ Account Insight是Chrome增效模組，可將可操作的ABM和帳戶見解呈�
 
 >[!MORELIKETHIS]
 >
->* [設定帳戶分析](set-up-account-insight.md)
-
->
-
-
-
+>[設定帳戶分析](/help/marketo/product-docs/account-based-marketing/setup-abm/set-up-account-insight.md)
