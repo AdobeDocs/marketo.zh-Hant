@@ -3,7 +3,7 @@ unique-page-id: 12615802
 description: 刪除指名帳戶——行銷人員檔案——產品檔案
 title: 刪除指名帳戶
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -34,4 +34,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >無法在ABM中刪除與您的CRM同步的帳戶。 如果刪除選項不可用，或者您收到「因為選取一或多個CRM帳戶而無法刪除這些帳戶」訊息，則必須直接在CRM中刪除這些帳戶。
-
