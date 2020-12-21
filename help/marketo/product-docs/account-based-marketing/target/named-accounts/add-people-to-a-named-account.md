@@ -3,7 +3,7 @@ unique-page-id: 11378816
 description: 將人員新增至指名帳戶——行銷人員檔案——產品檔案
 title: 新增人員至指名帳戶
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
