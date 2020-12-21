@@ -3,7 +3,7 @@ unique-page-id: 12980105
 description: 邀請使用者存取帳戶分析——行銷人員檔案——產品檔案
 title: 邀請使用者存取帳戶分析
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -49,7 +49,6 @@ ht-degree: 0%
 
    ![](assets/six-3.png)
 
-1. 查看傳送訊息，進行任何所需的變更（選用），然後按一下「傳送&#x200B;****」。
+1. 檢視傳送訊息，進行任何所需的變更（選用），然後按一下「傳送&#x200B;****」。
 
    ![](assets/seven-2.png)
-
