@@ -3,9 +3,9 @@ unique-page-id: 13795510
 description: ABM階層——行銷檔案——產品檔案
 title: ABM等級
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,6 @@ ht-degree: 0%
 >
 >Marketo介面最多只會顯示10個層級（父帳戶的子帳戶和孫帳戶），但您可建立的子帳戶數目沒有限制。
 
-只需按一下[，即可定位並報告整個階層。](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount)
+只需按一下[，即可定位並報告整個階層。](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md#member-of-named-account)
 
 ![](assets/member.png)
-
