@@ -3,9 +3,9 @@ unique-page-id: 17432598
 description: 設定帳戶分析——行銷人員檔案——產品檔案
 title: 設定帳戶分析
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -45,5 +45,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >現在已建立您的模型，請在[帳戶分析概述](http://docs.marketo.com/x/NIDv)中學習如何調整它。
-
+   >現在您的模型已建立，[將學習如何調整它](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)。
