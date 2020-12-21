@@ -3,9 +3,9 @@ unique-page-id: 11378812
 description: Discover帳戶——行銷人員檔案——產品檔案
 title: Discover帳戶
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,11 @@ ht-degree: 0%
 >
 >在您將CRM連接至Market至ABM後，**Discover CRM帳戶**&#x200B;將會顯示所有CRM帳戶和相關資訊，以協助您選擇正確的命名帳戶。 Marketo會在從CRM收到的內容之上新增其他資訊。
 
-**People** （在Discover CRM帳戶和Discover行銷公司中）:同時包括聯繫人和銷售線索。您可使用Marketo的[銷售機會到帳戶匹配](http://docs.marketo.com/display/DOCS/Lead+to+Account+Matching)來發現銷售機會。 **潛在人員** （在Discover CRM帳戶和Discover行銷人員中）:顯示Marketo發現可能屬於CRM帳戶的潛在客源數。
+**People** （在Discover CRM帳戶和Discover行銷公司中）:同時包括聯繫人和銷售線索。您可使用Marketo的[銷售機會到帳戶匹配](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)來發現銷售機會。
 
-**自訂CRM欄位** （僅限Discover CRM帳戶）:這有助於您調整銷售和行銷組織，以選擇正確的目標帳戶。當您[將自訂CRM欄位](http://docs.marketo.com/x/1wnG)對應至Marketo ABM後，我們會向您顯示已對應的資料，以協助您識別目標帳戶。
+**潛在人員** （在Discover CRM帳戶和Discover行銷人員中）:顯示Marketo發現可能屬於CRM帳戶的潛在客源數。
+
+**自訂CRM欄位** （僅限Discover CRM帳戶）:這有助於您調整銷售和行銷組織，以選擇正確的目標帳戶。當您[將自訂CRM欄位](/help/marketo/product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md)對應至Marketo ABM後，我們會向您顯示已對應的資料，以協助您識別目標帳戶。
 
 1. 在命名帳戶中，按一下&#x200B;**New**&#x200B;下拉式清單，然後選取&#x200B;**Discover CRM帳戶**。
 
@@ -63,17 +65,17 @@ ht-degree: 0%
    >
    >在Discover Marketo公司和Discover CRM中，Marketo會自動：
    >
-   > * 從您的Marketo資料庫中，尋找在記錄中列出該公司的人員。 如果您看到某些屬性的多個值（例如產業），這是因為Marketo為這些個別人員找到不同的值。 點擊次數最多的屬性會獲勝
+   >* 從您的Marketo資料庫中，尋找在記錄中列出該公司的人員。 如果您看到某些屬性（例如，產業）的多個值，這是因為Marketo為這些個別人員找到不同的值。 點擊次數最多的屬性會獲勝
    >
    >僅在&#x200B;**Discover CRM**&#x200B;中，Marketo會自動：
    >
-   > * 同步CRM聯絡人與指名的帳戶並建立關聯
+   >* 同步CRM聯絡人與指名的帳戶並建立關聯
    >
    >僅在&#x200B;**Discover Marketo Companies**&#x200B;中，Marketo會自動：
    >
-   > * 過濾掉大部分的Internet服務提供商和公共域(如[Yahoo.com](https://yahoo.com)、[Gmail.com](https://gmail.com))為公司名稱
+   >* 將大部分的網際網路服務供應商和公共網域（例如yahoo.com、gmail.com）篩選為公司名稱
       >
-      > 
+      >
    * 刪除CRM帳戶。 如果您在一個記錄中有「Acme」和「Acme Inc」(或下列任何字尾：Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, Ltd, PA, PC, PLC, PLLC)，我們將在ABM中將它們合併為&quot;Acme&quot;
    >
    >如果您希望Marketo根據CRM ID或帳戶擁有者而不是公司名稱來消除重複帳戶，請與[行銷支援](https://nation.marketo.com/t5/Support/ct-p/Support)聯絡。
@@ -116,5 +118,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [銷售機會與帳戶匹配](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
-
+>[銷售機會與帳戶匹配](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
