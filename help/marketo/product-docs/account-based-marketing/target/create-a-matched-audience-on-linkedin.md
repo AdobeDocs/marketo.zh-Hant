@@ -3,9 +3,9 @@ unique-page-id: 26837421
 description: 在LinkedIn —— 行銷檔案——產品檔案上建立相符的觀眾
 title: 在LinkedIn上建立相符的對象
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[將LinkedIn符合的觀眾新增為LaunchPoint服務](http://docs.marketo.com/x/I4Fy)
+>[將LinkedIn符合的觀眾新增為LaunchPoint服務](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. 在ABM中，按一下&#x200B;**帳戶清單**&#x200B;頁籤。
 
@@ -49,13 +49,6 @@ ht-degree: 0%
 
    就這樣。 您的觀眾已推送至LinkedIn。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相關文章**
->
->* [使用行銷人員清單或智慧清單作為LinkedIn觀眾區隔](http://docs.marketo.com/x/NIFy)
-
->
-
-
-
+>[使用行銷人員清單或智慧清單作為LinkedIn觀眾區隔](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
