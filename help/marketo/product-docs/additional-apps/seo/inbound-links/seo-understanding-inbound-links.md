@@ -3,7 +3,7 @@ unique-page-id: 2949226
 description: SEO —— 瞭解傳入連結——行銷人員檔案——產品檔案
 title: SEO —— 瞭解傳入連結
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -32,9 +32,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [取得傳入連結建議](seo-get-inbound-link-suggestions.md)
-
->
-
-
-
+>[取得傳入連結建議](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
