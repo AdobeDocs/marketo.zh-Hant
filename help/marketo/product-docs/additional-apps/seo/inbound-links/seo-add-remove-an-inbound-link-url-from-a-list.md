@@ -3,9 +3,9 @@ unique-page-id: 2949251
 description: SEO —— 從清單新增／移除傳入連結URL —— 行銷人員檔案——產品檔案
 title: SEO —— 從清單新增／移除傳入連結URL
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. 將滑鼠指標暫留在您要分類的傳入連結URL上。 按一下清單中的新增／移除。
+1. 將滑鼠指標暫留在您要分類的傳入連結URL上。 按一下&#x200B;**從清單中添加／刪除**。
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -35,15 +35,17 @@ ht-degree: 0%
 
 ## 從清單{#remove-an-inbound-link-url-from-a-list}移除入站連結URL
 
-1. 有時，您會想從清單中移除傳入連結URL。
+有時，您會想從清單中移除傳入連結URL。
+
+1. 按一下&#x200B;**入站連結**。
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. 按一下「依清單篩選」下拉式清單。 按一下您要清除的清單。
+1. 按一下「依清單篩選」下拉式清單。 ****&#x200B;按一下您要清除的清單。
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. 將滑鼠指標暫留在您要移除的傳入連結URL上。 按一下清單中的新增／移除。
+1. 將滑鼠指標暫留在您要移除的傳入連結URL上。 按一下&#x200B;**從清單中添加／刪除**。
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 
