@@ -3,7 +3,7 @@ unique-page-id: 2949232
 description: SEO —— 管理清單——行銷檔案——產品檔案
 title: SEO —— 管理清單
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -29,11 +29,10 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以在下拉式清單中建立新清單。 輸入標題，按回傳鍵。 ![—](assets/image2014-9-18-13-3a25-3a8.png)   >
+   >您可以在下拉式清單中建立新清單。 輸入標題，按回傳鍵。
 
-1. 按一下&#x200B;**SAVE**。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)
 
    組織起來很快樂！
-
