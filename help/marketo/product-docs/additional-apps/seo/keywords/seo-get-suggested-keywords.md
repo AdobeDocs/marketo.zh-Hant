@@ -3,9 +3,9 @@ unique-page-id: 2949202
 description: SEO —— 取得建議的關鍵字——行銷檔案——產品檔案
 title: SEO —— 取得建議的關鍵字
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,15 @@ Marketo SEO可建議您應追蹤的關鍵字。 我們可以根據關鍵字或�
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. 輸入&#x200B;**關鍵字**。 按一下「建議關鍵字」。****
+1. 輸入&#x200B;**關鍵字**。 按一下「建議關鍵字&#x200B;**」。**
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >您知道可以[將關鍵字新增至新清單或現有清單](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)嗎？
+   >您知道可以[將關鍵字新增至新清單或現有清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)嗎？
 
-1. 選取建議的關鍵字。 按一下&#x200B;**添加選定項**。
+1. 選取建議的關鍵字。 按一下「添加選定項」。****
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -41,7 +41,7 @@ Marketo SEO可建議您應追蹤的關鍵字。 我們可以根據關鍵字或�
 
    ![](assets/image2014-9-18-10-3a54-3a16.png)
 
-   是的！ 既然您已知道如何根據關鍵字取得關鍵字建議，請嘗試根據URL取得建議。
+   耶哈！ 既然您已知道如何根據關鍵字取得關鍵字建議，請嘗試根據URL取得建議。
 
 ## 從URL {#get-keyword-suggestions-from-a-url}取得關鍵字建議
 
@@ -57,15 +57,15 @@ Marketo SEO可建議您應追蹤的關鍵字。 我們可以根據關鍵字或�
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. 輸入&#x200B;**URL**，然後按一下&#x200B;**建議關鍵字**。
+1. 輸入&#x200B;**URL**，然後按一下「建議關鍵字&#x200B;**」。**
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >您知道可以[將關鍵字新增至新清單或現有清單](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)嗎？
+   >您知道可以[將關鍵字新增至新清單或現有清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)嗎？
 
-1. 選取建議的關鍵字。 按一下&#x200B;**添加選定項**。
+1. 選取建議的關鍵字。 按一下「添加選定項」。****
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
@@ -75,13 +75,8 @@ Marketo SEO可建議您應追蹤的關鍵字。 我們可以根據關鍵字或�
 
    好吧，你在狂轟濫炸。 繼續！
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [瞭解關鍵字（摘要檢視）](seo-understanding-keywords.md)
-   >    * [從清單新增／移除關鍵字](seo-add-remove-keywords-from-a-list.md)
-
+   >* [瞭解關鍵字（摘要檢視）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [從清單新增／移除關鍵字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 
