@@ -3,9 +3,9 @@ unique-page-id: 2949190
 description: SEO —— 搜尋引擎的挑選地區／國家／地區——行銷人員檔案——產品檔案
 title: SEO —— 搜尋引擎的挑選地區／國家
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ SEO管理員將能夠為您想要取得關鍵字排名資訊的搜尋引擎選�
 >
 >**需要管理員權限**
 
-1. 前往「管理員」區段。
+1. 前往&#x200B;**Admin**&#x200B;區段。
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. 按一下「搜尋引擎」標籤。
+1. 按一下「**搜尋引擎**」標籤。
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. 選擇要最佳化的國家／城市，然後按一下「儲存」。
+1. 選擇要最佳化的國家／城市，然後按一下「儲存&#x200B;**」。**
 
 >[!NOTE]
 >
@@ -41,10 +41,6 @@ SEO管理員將能夠為您想要取得關鍵字排名資訊的搜尋引擎選�
 
 >[!MORELIKETHIS]
 >
->* [瞭解控制面板：SEO快照](understanding-the-seo-dashboard-seo-snapshot.md)
->* [瞭解控制面板：SEO建議](understanding-the-seo-dashboard-seo-recommendations.md)
-
->
-
-
+>* [瞭解控制面板：SEO快照](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
+>* [瞭解控制面板：SEO建議](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
 
