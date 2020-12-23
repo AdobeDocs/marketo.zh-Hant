@@ -3,9 +3,9 @@ unique-page-id: 2949266
 description: SEO —— 從清單新增／移除頁面問題——行銷人員檔案——產品檔案
 title: SEO —— 從清單新增／移除頁面問題
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,16 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. 在頁面標籤上，按一下「問題」****。
-1. ![](assets/image2014-9-18-14-3a3-3a18.png)
+1. 在「頁面」標籤上，按一下「問題」****。
 
-1. 將滑鼠指標暫留在您要新增的頁面問題上。 按一下&#x200B;**ADD/REMOVE FROM LIST**。
+   ![](assets/image2014-9-18-14-3a3-3a18.png)
+
+1. 將滑鼠指標暫留在您要新增的頁面問題上。 按一下&#x200B;**從清單中添加／刪除**。
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
    按一下您要新增頁面期刊的清單。
+
    ![](assets/image2014-9-18-14-3a3-3a44.png)
 
    >[!TIP]
@@ -49,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. 將滑鼠指標暫留在您要移除的頁面問題上。 按一下&#x200B;**ADD/REMOVE FROM LIST**。
+1. 將滑鼠指標暫留在您要移除的頁面問題上。 按一下&#x200B;**從清單中添加／刪除**。
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 
