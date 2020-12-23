@@ -3,7 +3,7 @@ unique-page-id: 2949212
 description: SEO —— 使用目標關鍵字——行銷檔案——產品檔案最佳化特定頁面
 title: SEO —— 使用目標關鍵字最佳化特定頁面
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. 選擇您要最佳化頁面的關鍵字。 按一下&#x200B;**UPDATE**。
+1. 選擇您要最佳化頁面的關鍵字。 按一下&#x200B;**Update**。
 
    >[!TIP]
    >
@@ -32,4 +32,3 @@ ht-degree: 0%
    ![](assets/image2014-9-18-12-3a52-3a46.png)
 
    就這樣！ 請盡可能多地對頁面和關鍵字執行此動作。
-
