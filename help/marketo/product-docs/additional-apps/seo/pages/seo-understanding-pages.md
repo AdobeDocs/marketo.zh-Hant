@@ -3,9 +3,9 @@ unique-page-id: 2949184
 description: SEO —— 瞭解頁面——行銷檔案——產品檔案
 title: SEO —— 瞭解頁面
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 「頁面最佳化分數」是對頁面搜尋最佳化程度的整體排名，分別為1到100。 它以數十種SEO最佳實務為基礎。
 
-* ~ 00 - 35 =未最佳化
-* ~ 35 - 70 =在正確的軌道上
-* ~ 70 - 100 =做得好！
+* 0 - 35 =未最佳化
+* 35 - 70 =在正確的軌道上
+* 70 - 100 =做得好！
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ ht-degree: 0%
 | 標題 | 網域上所有頁面的標題和URL。 驗證您的網域。 |
 | 最佳化分數 | 這個秘密醬用來顯示您的頁面在1到100的搜尋量度上已最佳化。 |
 | 連結 | 至少有1個傳入網站連結的不同網域數。 |
-| 目標關鍵字 | 您決定最佳化每個頁面的關鍵字。 [這需要您的意見](seo-using-the-page-detail-drill-down.md)。 |
+| 目標關鍵字 | 您決定最佳化每個頁面的關鍵字。 [這需要您的意見](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)。 |
 
 ## 問題標籤{#issues-tab}
 
@@ -53,7 +53,4 @@ ht-degree: 0%
 | 類別 | 所報告的問題類型。 |
 | 狀態 | 任務已完成還是仍在開啟。 當您和網站管理員修正網站上的問題後，狀態應變更為已解決（綠色勾選）。 |
 
-太棒了，既然您已瞭解頁面的基本功能，請參閱「頁面詳細資訊下鑽」文章，以瞭解您可以做的更酷事。
-
-* [使用頁面詳細資訊向下鑽取](seo-using-the-page-detail-drill-down.md)
-
+太棒了，既然您已瞭解頁面的基本功能，請參閱[頁面詳細資訊下鑽文章](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)，以瞭解更酷炫的工作。
