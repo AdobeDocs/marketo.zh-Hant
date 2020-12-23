@@ -3,9 +3,9 @@ unique-page-id: 2949208
 description: SEO —— 篩選關鍵字結果——行銷檔案——產品檔案
 title: SEO —— 篩選關鍵字結果
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO —— 篩選關鍵字結果{#seo-filter-keyword-results}
 
-您可能有許多[keywords](seo-understanding-keywords.md)。 以下是不同的篩選方式：
+您可能有許多[keywords](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)。 以下是不同的篩選方式：
 
 ## 依清單篩選{#filter-by-list}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您沒有看到任何清單，請[l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [瞭解如何建立關鍵字清單](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)。
+   >如果您沒有看到任何清單，[會學習如何建立關鍵字清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)。
 
 真貼心！ 您現在只會查看該清單上的關鍵字。
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   橘色方塊可定義您的上限（左）和下限（右）。 篩選器適用於關鍵字的[SERP排名](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)。
+   橘色方塊可定義您的上限（左）和下限（右）。 篩選器適用於關鍵字的[SERP排名](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)。
 
 1. 向左／向右滑動橘色方塊，以篩選結果。
 
@@ -54,6 +54,3 @@ ht-degree: 0%
 1. 在搜尋欄位中輸入您的關鍵字。
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)
-
-   恭喜！ 你現在是過武士的關鍵詞！
-
