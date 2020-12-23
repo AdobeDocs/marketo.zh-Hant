@@ -3,9 +3,9 @@ unique-page-id: 2949210
 description: SEO —— 匯出關鍵字結果——行銷檔案——產品檔案
 title: SEO —— 匯出關鍵字結果
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
-1. 按一下「匯出」。
+1. 按一下&#x200B;**導出**。
 
    ![](assets/image2014-9-18-12-3a51-3a25.png)
 
-   是的，這真的很簡單。
-
+   是的，真的很簡單。
