@@ -3,7 +3,7 @@ unique-page-id: 2949182
 description: SEO —— 瞭解關鍵字——行銷檔案——產品檔案
 title: SEO —— 瞭解關鍵字
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 關鍵字是您SEO策略的骨幹。 您的目標是在第一頁，盡可能靠近第一頁，以取得與您的業務相關的關鍵字。
 
-關鍵字區段將顯示您的網站如何成功達成此目標，以及您如何累積至[您的競爭對手。](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+關鍵字區段將顯示您的網站如何成功達成此目標，以及您如何將競爭[累積至](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)。
 
 ## 關鍵字——摘要檢視{#keywords-summary-view}
 
@@ -62,10 +62,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [瞭解頁面](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
->* [瞭解傳入連結](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
-
->
-
-
+>* [瞭解頁面](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
+>* [瞭解傳入連結](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
 
