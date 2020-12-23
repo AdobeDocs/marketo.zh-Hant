@@ -3,7 +3,7 @@ unique-page-id: 2949178
 description: 瞭解SEO儀表板-SEO快照——行銷文檔——產品文檔
 title: 瞭解SEO儀表板-SEO快照
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 使用控制面板，以高階檢視關鍵字排名趨勢以及網站針對搜尋引擎最佳化的效能。
 
-若要瞭解要著重在哪些方面來改善您的SEO工作，請使用此控制面板的[Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)區段。
+若要瞭解要著重在哪些方面來改善您的SEO工作，請使用此控制面板的[Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)區段。
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## 關鍵字排名摘要{#keyword-rank-summary}
 
-此區段顯示您所定位之[關鍵字的網站排名。](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
+此區段顯示您所定位之[關鍵字的網站排名。](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您也可以檢視關鍵字的[特定清單](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)的執行方式。 按一下下拉式清單，然後選取您感興趣的其中一個。
+>您也可以檢視關鍵字的[特定清單](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)的執行方式。 按一下下拉式清單，然後選取您感興趣的其中一個。
 
 滾開！ 繼續走。
 
@@ -63,9 +63,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [瞭解控制面板：SEO建議](understanding-the-seo-dashboard-seo-recommendations.md)
-
->
-
-
-
+>[瞭解控制面板：SEO建議](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
