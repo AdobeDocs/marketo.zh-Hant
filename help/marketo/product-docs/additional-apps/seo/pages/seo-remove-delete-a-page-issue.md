@@ -3,9 +3,9 @@ unique-page-id: 2949264
 description: SEO —— 移除／刪除頁面問題——行銷檔案——產品檔案
 title: SEO —— 移除／刪除頁面問題
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO —— 移除／刪除頁面問題{#seo-remove-delete-a-page-issue}
 
-並非所有頁面問題都對您有用。 以下是如何移除其中一項：
+並非所有頁面問題都對您有用。 這是如何移除的。
 
 1. 前往&#x200B;**Pages**&#x200B;區段。
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. 將滑鼠指標暫留在您要移除的頁面問題上。 按一下&#x200B;**REMOVE**。
+1. 將滑鼠指標暫留在您要移除的頁面問題上。 按一下&#x200B;**刪除**。
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. 按一下&#x200B;**DELETE**&#x200B;將永久刪除此頁面問題。
+1. 按一下&#x200B;**Delete**&#x200B;將永久移除此頁面問題。
 
    >[!CAUTION]
    >
@@ -35,5 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a1-3a28.png)
 
-   真貼心！ 您的頁面問題現在已移除。
-
+真貼心！ 您的頁面問題現在已移除。
