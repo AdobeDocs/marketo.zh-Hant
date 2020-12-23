@@ -3,7 +3,7 @@ unique-page-id: 2949186
 description: SEO —— 使用頁面詳細資料下鑽——行銷人員檔案——產品檔案
 title: SEO —— 使用頁面詳細資料下鑽
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 ## 已針對{#keyword-s-that-page-is-optimized-for}最佳化頁面的關鍵字
 
-這是您選擇[要針對](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)最佳化頁面的關鍵字的位置。
+這是您選擇[要針對](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)最佳化頁面的關鍵字的位置。
 
 >[!NOTE]
 >
@@ -64,9 +64,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用目標關鍵字最佳化特定頁面](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-
->
-
-
-
+>[使用目標關鍵字最佳化特定頁面](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
