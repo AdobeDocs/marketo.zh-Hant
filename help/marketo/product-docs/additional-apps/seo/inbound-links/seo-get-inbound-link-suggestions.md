@@ -3,9 +3,9 @@ unique-page-id: 2949228
 description: SEO —— 取得傳入連結建議——行銷檔案——產品檔案
 title: SEO —— 取得傳入連結建議
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO —— 獲取入站連結建議{#seo-get-inbound-link-suggestions}
 
-Marketo可建議哪些傳入連結對您的[離頁最佳化](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)有價值。
+Marketo可建議哪些傳入連結對您的[離頁最佳化](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)有價值。
 
 1. 轉至&#x200B;**入站連結**&#x200B;部分。
 
@@ -27,22 +27,16 @@ Marketo可建議哪些傳入連結對您的[離頁最佳化](../../../../product
 
    ![](assets/image2014-9-18-13-3a21-3a31.png)
 
-1. 選取連結。 按一下&#x200B;**添加選定項**。
+1. 選取連結。 按一下「添加選定項」。****
 
    ![](assets/image2014-9-18-13-3a21-3a40.png)
 
    >[!TIP]
    >
-   >您知道可以[將連結新增至新清單或現有清單](seo-add-remove-an-inbound-link-url-from-a-list.md)嗎？ 看看！
+   >您知道可以[將連結新增至新清單或現有清單](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)嗎？ 看看！
 
 1. 太棒了！ 現在將會追蹤這些新增的連結。
 
    >[!NOTE]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [瞭解傳入連結](seo-understanding-inbound-links.md)
-
-
+   >[瞭解傳入連結](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
