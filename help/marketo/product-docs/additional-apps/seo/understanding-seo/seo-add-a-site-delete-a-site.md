@@ -3,9 +3,9 @@ unique-page-id: 2949194
 description: SEO —— 新增網站／刪除網站——行銷人員檔案——產品檔案
 title: SEO —— 新增網站／刪除網站
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 為了讓Marketo提取與您網站頁面相關的資料（傳入連結和建議），您必須在此處定義網站的URL。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
@@ -39,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您也可以新增a** ****部落格URL**（如果您有的話）。
+   >如果您有部落格URL **，也可以添加**&#x200B;部落格URL。
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -62,10 +60,11 @@ ht-degree: 0%
 1. 按一下&#x200B;**Delete**。
 
    ![](assets/seven.png)
-確認您要刪除。
+
+1. 確認您要&#x200B;**Delete**。
+
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >您只能在網站有多個時刪除網站。 如果您只有一個，則可以通過選擇站點並按一下&#x200B;**Reset**&#x200B;來執行重置。 重設網站將&#x200B;*刪除所有網站資料*&#x200B;並重新建立網站。
-
+   >您只能在網站有多個時刪除網站。 如果您只有一個，則可以通過選擇站點並按一下&#x200B;**Reset**&#x200B;來執行重置。 重設網站將&#x200B;_刪除所有網站資料_&#x200B;並重新建立網站。
