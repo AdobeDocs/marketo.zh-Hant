@@ -3,9 +3,9 @@ unique-page-id: 2949218
 description: SEO —— 從清單新增／移除頁面——行銷人員檔案——產品檔案
 title: SEO —— 從清單新增／移除頁面
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. 將滑鼠指標暫留在您要新增至清單的頁面上。 按一下&#x200B;**ADD/REMOVE FROM LIST**。
+1. 將滑鼠指標暫留在您要新增至清單的頁面上。 按一下&#x200B;**從清單中添加／刪除**。
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a3-3a40.png)
 
-1. 耶！ 您現在應該會看到您的頁面已新增至清單。
+耶！ 您現在應該會看到您的頁面已新增至清單。
 
 ## 從清單{#remove-page-from-a-list}移除頁面
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. 在頁面標籤上，按一下您要清除的清單。
+1. 在「頁面」標籤上，按一下您要清除的清單。
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. 將滑鼠指標暫留在您要移除的頁面上。 按一下&#x200B;**ADD/REMOVE FROM LIST**。
+1. 將滑鼠指標暫留在您要移除的頁面上。 按一下&#x200B;**從清單中添加／刪除**。
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
@@ -61,5 +61,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
-1. 砰。 完成。 您的頁面會從清單中移除。
-
+完成。 您的頁面會從清單中移除。
