@@ -3,9 +3,9 @@ unique-page-id: 2949253
 description: SEO —— 移除／刪除傳入連結URL —— 行銷人員檔案——產品檔案
 title: SEO —— 移除／刪除傳入連結URL
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,9 @@ ht-degree: 0%
 1. 將滑鼠指標暫留在您要刪除的傳入連結URL上。
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
-按一下「移除」。
+
+1. 按一下&#x200B;**刪除**。
+
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 
-   放高！ 您現在已刪除此入站連結。
-
+您現在已刪除此入站連結。
