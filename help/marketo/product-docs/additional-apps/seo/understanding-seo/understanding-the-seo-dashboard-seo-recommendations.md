@@ -3,7 +3,7 @@ unique-page-id: 2949180
 description: 瞭解SEO儀表板-SEO建議——行銷人員檔案——產品檔案
 title: 瞭解SEO控制面板-SEO建議
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 熱門頁面最佳化問題{#top-page-optimization-issues}
 
-這將向您展示五種高影響力的方式，讓您立即開始最佳化您的網站！ 只要按一下任何連結，即可檢視完整的[頁面詳細資料下鑽](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)。
+這將向您展示五種高影響力的方式，讓您立即開始最佳化您的網站！ 只要按一下任何連結，即可檢視完整的[頁面詳細資料下鑽](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)。
 
 >[!TIP]
 >
@@ -43,5 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [頁面詳細資料下鑽](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-
+>[頁面詳細資料下鑽](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
