@@ -3,9 +3,9 @@ unique-page-id: 2949204
 description: SEO —— 新增關鍵字——行銷檔案——產品檔案
 title: SEO —— 新增關鍵字
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您有許多關鍵字，您可以[以CSV檔案](seo-importing-keywords-with-a-csv.md)匯入它們。
+>如果您有許多關鍵字，您可以[以CSV檔案](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)匯入它們。
 
 1. 前往&#x200B;**Keywords**&#x200B;區段。
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. 輸入要定位的關鍵字，然後按一下&#x200B;**SAVE**。
+1. 輸入您要定位的關鍵字，然後按一下「儲存」。****
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 
@@ -33,13 +33,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a29-3a12.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [瞭解關鍵字（摘要檢視）](seo-understanding-keywords.md)
-
+   >[瞭解關鍵字（摘要檢視）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 
 幹得好！ 您現在應該會看到關鍵字清單的新增內容。
