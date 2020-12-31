@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: 網頁區段——行銷檔案——產品檔案
 title: 網頁區段
 translation-type: tm+mt
-source-git-commit: f1fb2de271660904b8504e929f1428831e7188c1
+source-git-commit: e3f4eb27d30887ef53d6636a6bd2929bc8f43a88
 workflow-type: tm+mt
-source-wordcount: '2024'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -101,32 +101,38 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**Segmentregellogik**
+>**區段規則邏輯**
 >
->Es gibt drei Filteroptionen:
+>有三個篩選選項：
 >
->1. Alle Filter verwenden(1,2 und 3...)
->1. Alle Filter verwenden（1順序2順序3...）
->1. 埃爾韋因鬧過濾器（不及由奧斯德呂肯所決定）
+>1. 使用所有篩選器（1和2及3...）
+>1. 使用任何篩選器（1或2或3...）
+>1. 進階篩選器（使用和／或運算式）
 
    >
    >    
-   Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrent durch &quot;und&quot; und &quot;oder&quot; ein.
+   進階篩選可讓您控制區段條件。 輸入由&quot;and&quot;和&quot;or&quot;分隔的篩選編號。
+   >
+   >    
+   * 1和2和3
+   >    * 1或2或3
 
-   * 1 UND 2 UND 3
-   * 1:2;3
+   >
+   混合&quot;and&quot;和&quot;or&quot;需要括弧來釐清邏輯意圖。 例如，「1或2及3」必須以下列其中一種方式撰寫：
 
-   Das Mischen von &quot;and&quot; und &quot;or&quot; erfordert Klammern, um die Logikabsicht zu verdeutichen. z.B.「1 oder 2 und 3」 muswie folgt geschriben sein:
+   * 1和（2或3）
+   * （1和2）或3
 
-   * 1個UND（2個ODER 3）
-   * （1個和2個）
+   對於更複雜的邏輯，例如，
 
-   Verschachtelte Klammern werden für ein kompliziertere Logik, z.
+   * （1和2）或（3和4）
+   * 1和(2或（3和4）)
 
-   * （1個和2個）
-   * 3和4的1和2
+   在插入、刪除或重新排序後，請檢查您的邏輯。
 
-   Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanorden.
+
+
+
 
 
 從右側欄將區段屬性拖放至左側的區段編輯器：
@@ -151,7 +157,8 @@ ht-degree: 0%
 * **城市** -輸入您要納入的城市。在城市之間使用分號。
 
 >[!TIP]
-**我選擇哪些區段條件？「AND」或「OR」?** OR在每個欄位中當作其他選項運作。潛在客戶只需滿足每個欄位中選取之多個標準中的一個標準，即可符合區段資格。 (例如，潛在客戶可能來自美國。*或*)。 AND函式是此區段必須符合的額外必要參數。 （例如，前景必須來自美國和國防工業）。 在每個區段設定檔中，每個個別欄位都可以同時使用「AND」或「OR」，視選取的區段條件而定。
+>
+>**我選擇哪些區段條件？「AND」或「OR」?** OR在每個欄位中當作其他選項運作。潛在客戶只需滿足每個欄位中選取之多個標準中的一個標準，即可符合區段資格。 (例如，潛在客戶可能來自美國。*或*)。 AND函式是此區段必須符合的額外必要參數。 （例如，前景必須來自美國和國防工業）。 在每個區段設定檔中，每個個別欄位都可以同時使用「AND」或「OR」，視選取的區段條件而定。
 
 **Industries** 在「 **Profile** Segmentations」區段下，核取「 **Industry**」旁邊的方塊。
 
@@ -188,7 +195,8 @@ ht-degree: 0%
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
 >[!NOTE]
-「命名帳戶清單」名稱旁方括弧中的數字用作「Web個人化[讀取API](http://developers.marketo.com/documentation/websites/rtp-js-api/)」清單的索引引用。
+>
+>「命名帳戶清單」名稱旁方括弧中的數字用作「Web個人化[讀取API](http://developers.marketo.com/documentation/websites/rtp-js-api/)」清單的索引引用。
 
 **排除ISP**
 
@@ -207,8 +215,10 @@ Web Personalization與您的Marketo Database整合，讓您依據已知人員屬
 您可以從「帳戶設定>資料庫」新增或移除人員資料欄位
 
 >[!TIP]
-根據Marketing中所有人員資料欄位（例如職銜）建立您的區段標準；得分；角色；等等……
-例如 「職稱等於CMO」和「分數小於或等於50」
+>
+>根據Marketing中所有人員資料欄位（例如職銜）建立您的區段標準；得分；角色；等等……
+>
+>例如 「職稱等於CMO」和「分數小於或等於50」
 
 **Marketo Email** CampaignSegment透過訪客點按行銷人員電子郵件並到達網站的電子郵件反向連結，個人化行銷活動。依行銷人員方案名稱或行銷活動名稱細分，並繼續從電子郵件到網路的對話。 從下拉式清單中選取「+」以新增欄位。
 
@@ -289,7 +299,8 @@ Web Personalization與您的Marketo Database整合，讓您依據已知人員屬
 Web Personalization API呼叫[在這裡詳細瞭解。](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
-**使用萬用字** 元——當您想要包含任何包含其中某項內容的搜尋詞或URL時，例如「[google.com](http://google.com)」或「搜尋詞產品」，我們稱之為萬用字元，而且應在兩端加上星號（這個小傢伙）。因此，來自[google.com](http://google.com)的任何內容都應輸入為* [google.com](http://google.com)*
+>
+>**使用萬用字** 元——當您想要包含任何包含其中某項內容的搜尋詞或URL時，例如「[google.com](http://google.com)」或「搜尋詞產品」，我們稱之為萬用字元，而且應在兩端加上星號（這個小傢伙）。因此，來自[google.com](http://google.com)的任何內容都應輸入為* [google.com](http://google.com)*
 
 ## 編輯區段{#edit-segments}
 
