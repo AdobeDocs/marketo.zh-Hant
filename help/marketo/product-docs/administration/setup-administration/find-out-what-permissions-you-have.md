@@ -3,9 +3,9 @@ unique-page-id: 2359898
 description: 瞭解您擁有哪些權限- Marketo Docs —— 產品檔案
 title: 瞭解您擁有哪些權限
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 如果您想知道您在Marketo中擁有或沒有哪些權限，您有一個簡單的方法可以瞭解。
 
-1. 前往**行銷活動**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,9 +23,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-8-17-3a45-3a13.png)
 
-1. 您會看到類似的權限。
+您會看到權限已列出。
 
 ![](assets/image2014-9-8-17-3a45-3a23.png)
 
 如果您需要為您啟用的任何權限，請洽詢您的Marketo管理員。
-
