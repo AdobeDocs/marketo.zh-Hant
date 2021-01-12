@@ -3,7 +3,7 @@ unique-page-id: 2360358
 description: 僅限使用者登入SSO —— 行銷人員檔案——產品檔案
 title: 僅限使用者登入SSO
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -19,21 +19,21 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
-1. 前往「管理員」並按一下「登入設定」。
+1. 前往&#x200B;**Admin**，然後按一下「登入設定」。****
 
 ![](assets/image2014-9-24-14-3a44-3a40.png)
 
-1. 按一下「編輯保全設定」。
+1. 按一下&#x200B;**編輯安全設定**。
 
    ![](assets/image2014-9-24-14-3a44-3a53.png)
 
-1. 展開進階設定，勾選「需要SSO」，然後按一下「儲存」。
+1. 展開「Advanced settings（高級設定）」 ，選中「Require SSO（需要SSO）」 ，然後按一下「Save（保存）」。********
 
 ![](assets/image2014-9-24-14-3a45-3a6.png)
 
 >[!TIP]
 >
->如果選擇&#x200B;**要求SSO**，則可以通過選中&#x200B;**在設定角色時繞過單一登錄**&#x200B;選項，從此限制中排除[用戶角色](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)。 這可讓使用者正常登入。 例如，管理員使用者可能仍需透過登入畫面登入Marketo。
+>如果選擇&#x200B;**要求SSO**，則可以通過選中&#x200B;**在設定角色時繞過單一登錄**&#x200B;選項，從此限制中排除[用戶角色](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)。 這可讓使用者正常登入。 例如，管理員使用者可能仍需透過登入畫面登入Marketo。
 
 >[!CAUTION]
 >
