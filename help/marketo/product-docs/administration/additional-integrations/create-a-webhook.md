@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: 建立網頁掛接——行銷檔案——產品檔案
 title: 建立網頁掛接
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 0%
 
 使用網頁勾點，運用協力廠商的Web服務來傳送文字訊息、擴充人員資料等。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
-1. 前往**Admin **，然後按一下「Webhooks **」。**
+1. 前往&#x200B;**Admin**，然後按一下&#x200B;**Webhooks**。
 
    ![](assets/image2014-9-24-14-3a52-3a57.png)
 
@@ -51,7 +49,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深入探討**
->
 >從[webhooks](http://developers.marketo.com/documentation/webhooks/)深入探討進一步瞭解。
-
