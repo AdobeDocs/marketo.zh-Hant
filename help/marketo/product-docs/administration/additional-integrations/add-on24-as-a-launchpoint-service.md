@@ -3,7 +3,7 @@ unique-page-id: 7512276
 description: 將ON24新增為LaunchPoint服務——行銷人員檔案——產品檔案
 title: 將ON24新增為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -27,15 +27,15 @@ Market負責管理您的ON24網路研討會註冊和出席情況。
 
    ![](assets/image2015-4-23-10-3a15-3a50.png)
 
-1. 選擇&#x200B;**新建**，然後選擇&#x200B;**新建****服務**。
+1. 選擇&#x200B;**新建** ，然後選擇&#x200B;**新建服務**。
 
    ![](assets/on24-new-service.png)
 
-1. 輸入&#x200B;**Display** **Name**。 在&#x200B;**Service**&#x200B;下，選擇&#x200B;**ON24**。
+1. 輸入&#x200B;**顯示名稱**。 在&#x200B;**Service**&#x200B;下，選擇&#x200B;**ON24**。
 
    ![](assets/new-service-on24.png)
 
-1. 在&#x200B;**Settings**&#x200B;中輸入&#x200B;**Client****Key**&#x200B;和&#x200B;**Client****ID**，然後按一下&#x200B;**Create**，完成此過程。
+1. 在&#x200B;**Settings**&#x200B;中輸入&#x200B;**Client Key**&#x200B;和&#x200B;**Client ID**，然後按一下&#x200B;**Create**，完成程式。
 
    ![](assets/image2015-4-24-18-3a48-3a29.png)
 
@@ -45,5 +45,4 @@ Market負責管理您的ON24網路研討會註冊和出席情況。
 
 >[!MORELIKETHIS]
 >
->瞭解如何在ON24[中建立您的網路研討會活動。](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
-
+>瞭解如何在ON24[中建立您的網路研討會活動。](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
