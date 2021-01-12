@@ -3,9 +3,9 @@ unique-page-id: 6095008
 description: 將Google AdWords新增為LaunchPoint服務——行銷人員檔案——產品檔案
 title: 將Google AdWords新增為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您也可以將[Google AdWords整合為Launchpoint服務與管理員帳戶](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)。
+>您也可以將[Google AdWords整合為Launchpoint服務與管理員帳戶](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)。
 
 1. 前往&#x200B;**Admin**&#x200B;區段。
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. 將您的離線轉換從Marketing上傳至Google AdWords **Weekly **或&#x200B;**Daily**。
+1. 將您的離線轉換從Marketing上傳至Google AdWords **Weekly**&#x200B;或&#x200B;**Daily**。
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
@@ -86,13 +86,8 @@ ht-degree: 0%
    >
    >[必須選](https://support.google.com/adwords/answer/1752125?hl=en) 取自動標籤，才能使此功能運作。必須在AdWords內完成停用。
 
-   >[!NOTE]
-   >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [在收入模型中設定Google AdWords轉換](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-
-
 太好了！ 現在請參閱下方的相關文章，瞭解如何在收入模型中對應AdWords離線轉換。
+
+>[!MORELIKETHIS]
+>
+>[在收入模型中設定Google AdWords轉換](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
