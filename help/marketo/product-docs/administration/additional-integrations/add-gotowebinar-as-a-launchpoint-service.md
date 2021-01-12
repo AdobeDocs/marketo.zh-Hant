@@ -3,9 +3,9 @@ unique-page-id: 7512289
 description: 將GoTo網路研討會新增為LaunchPoint服務——行銷人員檔案——產品檔案
 title: 將GoTo網路研討會新增為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ Market來管理您的GoTo網路研討會註冊和出席情況。
 
 >[!NOTE]
 >
->**提醒**
->
 >此步驟需要現有的GoTo網路研討會訂閱和管理權限。 手邊擁有您用來登入GoTo網路研討會的電子郵件和密碼。
 
 >[!NOTE]
@@ -37,11 +35,11 @@ Market來管理您的GoTo網路研討會註冊和出席情況。
 
    ![](assets/new-service-gotowebinar.png)
 
-1. `Enter a **Display Name**. Under **Service**, select`**GoTo網路研討會**。
+1. 輸入&#x200B;**顯示名稱**。 在&#x200B;**Service**&#x200B;下，選擇&#x200B;**GoToWebinar**。
 
    ![](assets/new-service-goto-webinar1.png)
 
-1. 接著，按一下「登入&#x200B;**** **GoToWebinar**」。
+1. 接著，按一下「登入GoTo網路研討會」**。**
 
    ![](assets/image2015-4-22-15-3a57-3a59.png)
 
@@ -67,5 +65,4 @@ Market來管理您的GoTo網路研討會註冊和出席情況。
 
 >[!MORELIKETHIS]
 >
->瞭解如何使用GotoWebanar[建立活動。](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
-
+>瞭解如何使用GotoWebanar[建立活動。](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
