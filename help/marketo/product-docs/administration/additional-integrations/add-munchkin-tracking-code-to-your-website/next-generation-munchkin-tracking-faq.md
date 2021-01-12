@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: 新一代Munchkin追蹤常見問答集——行銷檔案——產品檔案
 title: 新一代Munchkin追蹤常見問答集
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -43,10 +43,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**範例**
->
 >**觸發器**:瀏覽網頁，網頁是定價頁面\
->**流量**:變更分數+10和有趣時刻， **Web**:已查看定價頁
+>**流量**:變更分數+10和有趣時刻
+>**Web**:已查看定價頁
 >
 >有了Munchkin V2，如果匿名人士造訪定價頁面，她不會立即進入促銷活動。 當匿名人士被知道時，我們會對她進行這項活動。 她會：
 >
@@ -60,9 +59,6 @@ ht-degree: 0%
    >
    >
 * 記錄「新人員」活動，如今
-
->
-
 
 
 ## 已具有「匿名」篩選器的「智慧型清單」會如何？{#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
@@ -98,4 +94,4 @@ ht-degree: 0%
 
 ## 我還有更多問題！ 我要如何讓他們回答？{#i-have-more-questions-how-do-i-get-them-answered}
 
-請到[社群](https://nation.marketo.com/welcome)。 您也可以傳送電子郵件至[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162)。他們會很樂意回答您的問題。
+請到[社群](https://nation.marketo.com/welcome)。 您也可以聯絡[行銷支援](https://nation.marketo.com/t5/Support/ct-p/Support)。 他們會很樂意回答你的問題。
