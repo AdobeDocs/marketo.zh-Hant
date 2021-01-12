@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: 將Munchkin追蹤程式碼新增至您的網站——行銷人員檔案——產品檔案
 title: 將Munchkin追蹤程式碼新增至您的網站
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 將Munchkin追蹤程式碼新增至您的網站{#add-munchkin-tracking-code-to-your-website}
 
-Marketo的自訂JavaScript追蹤代碼（稱為Munchkin）會追蹤所有造訪您網站的個人，以便您透過自動化行銷宣傳回應其造訪。 即使是匿名訪客，也會追蹤其IP位址和其他資訊。 **若沒有此追蹤代碼，您將無法追蹤您網站上的瀏覽或其他活動！**
+Marketo的自訂JavaScript追蹤代碼（稱為Munchkin）會追蹤所有造訪您網站的個人，以便您透過自動化行銷宣傳回應其造訪。 即使是匿名訪客，也會追蹤其IP位址和其他資訊。 **若沒有此追蹤代碼，您將無法追蹤網站上的瀏覽或其他活動**!
 
 >[!PREREQUISITES]
 >
@@ -54,39 +54,39 @@ Marketo的自訂JavaScript追蹤代碼（稱為Munchkin）會追蹤所有造訪�
 
 >[!TIP]
 >
->對於流量較大的網站（即每月數十萬次瀏覽），我們建議您選擇不追蹤匿名訪客。 [進一步瞭解。](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)
+>對於流量較大的網站（即每月數十萬次瀏覽），我們建議您選擇不追蹤匿名訪客。 [進一步瞭解](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)。
 
 ## 使用多個工作區{#add-tracking-code-when-using-multiple-workspaces}時新增追蹤代碼
 
 如果您使用Marketo帳戶中的「工作區」，您可能也會有與您的工作區對應的個別Web簡報。 在這種情況下，您可以使用Munchkin追蹤Javascript，將匿名人員指派至正確的工作區和分區。
 
-1. 前往「管理員」，然後按一下左側樹狀結構中的「Munchkin」。
+1. 前往&#x200B;**Admin**，然後按一下左側樹狀結構中的&#x200B;**Munchkin**。
 
 ![](assets/image2015-8-25-16-3a28-3a41.png)
 
 1. 為您要追蹤的網頁選擇適當的工作區。
 
-![](assets/image2015-8-25-16-3a30-3a32.png)
+   ![](assets/image2015-8-25-16-3a30-3a32.png)
 
 >[!NOTE]
 >
 >如果您不使用特殊工作區Munchkin代碼，則會將人員指派給在帳戶設定時建立的預設分區。 它最初命名為「預設」，但您可能已在自己的Marketo帳戶中變更該值。
 
-1. 選取「非同步」以追蹤代碼類型。
+1. 選擇&#x200B;**非同步**&#x200B;以追蹤代碼類型。
 
    ![](assets/image2015-8-25-16-3a32-3a42.png)
 
 1. 按一下並複製JavaScript追蹤程式碼以放在您的網站上。
 
-![](assets/image2015-8-25-16-3a34-3a7.png)
+   ![](assets/image2015-8-25-16-3a34-3a7.png)
 
->[!CAUTION]
->
->請勿使用此螢幕擷取中顯示的程式碼——您必須使用出現在您帳戶中的唯一程式碼！
+   >[!CAUTION]
+   >
+   >請勿使用此螢幕擷取中顯示的程式碼——您必須使用出現在您帳戶中的唯一程式碼！
 
 1. 將追蹤程式碼放在您的網頁上的`<head>`元素中。 將為此分區分配訪問此頁的新訪客。
 
-![](assets/image2015-8-25-16-3a5-3a20.png)
+   ![](assets/image2015-8-25-16-3a5-3a20.png)
 
 >[!CAUTION]
 >
@@ -98,7 +98,7 @@ Marketo的自訂JavaScript追蹤代碼（稱為Munchkin）會追蹤所有造訪�
 
 ## Munchkin追蹤代碼類型{#types-of-munchkin-tracking-codes}
 
-您可以選擇3種Munchkin追蹤代碼。 每個網頁的載入時間都不同。
+您可以選擇三種類型的Munchkin追蹤代碼。 每個網頁的載入時間都不同。
 
 1. **簡單**:程式碼行最少，但並未針對網頁載入時間進行最佳化。此程式碼會在每次載入網頁時載入jQuery程式庫。
 1. **非同步**:減少網頁載入時間。
@@ -109,6 +109,7 @@ Marketo的自訂JavaScript追蹤代碼（稱為Munchkin）會追蹤所有造訪�
 若要在新增Munchkin程式碼後檢查其是否運作：
 
 1. 請造訪您的網頁。
+
 1. 前往&#x200B;**Analytics**。
 
    ![](assets/mainnav-analytics-hand.png)
@@ -124,4 +125,3 @@ Marketo的自訂JavaScript追蹤代碼（稱為Munchkin）會追蹤所有造訪�
    ![](assets/activitysource.png)
 
 1. 按一下&#x200B;**Report**&#x200B;頁籤。 如果您未看到任何資料，請稍候幾分鐘，然後按一下底部的重新整理圖示。
-
