@@ -3,9 +3,9 @@ unique-page-id: 12983619
 description: 將Slack新增為LaunchPoint服務——行銷檔案——產品檔案
 title: 將Slack添加為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Slack整合包含兩種通知類型：
 
 >[!PREREQUISITES]
 >
->如果您尚未啟用Slack System Notifications，請[與支援聯絡](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270)。
+>如果您尚未啟用Slack System Notifications，請聯絡[行銷人員支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 1. 前往&#x200B;**LaunchPoint**，然後在&#x200B;**New**&#x200B;下，按一下「New Service」（新服務）**。**
 
@@ -61,4 +61,3 @@ Slack整合包含兩種通知類型：
    通知現在會開始張貼至您在步驟6中選取的渠道。 它們看起來會像這樣：
 
    ![](assets/samplenotification.png)
-
