@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: 稽核記錄概述——行銷人員檔案——產品檔案
 title: 稽核記錄概述
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ X使用者最近做了什麼？
 
 ## 我們審計的{#what-we-audit}
 
-Marketo會稽核[建立、編輯和刪除](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail)動作：
+Marketo會稽核[建立、編輯和刪除](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)動作：
 
 * 設計工作室資產
 * 所有Marketo程式
@@ -46,27 +46,27 @@ Marketo會稽核[建立、編輯和刪除](http://docs.marketo.com/display/DOCS/
 
 >[!NOTE]
 >
->Marketo是&#x200B;**not**&#x200B;目前在Web Personalization、Predictive Content或Sales Insight中所做的審核變更。
+>Marketo是&#x200B;_not_&#x200B;目前在Web Personalization、Predictive Content或Sales Insight中所做的審核變更。
 
 ## 稽核記錄元件{#audit-trail-components}
 
 稽核記錄包含三個元件。
 
-**1)資 [產稽核記錄](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AssetAuditTrail)**
+**1)資 [產稽核記錄](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
 查看對特定資產所執行的活動。
 
-**2)管 [理稽核記錄](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AdminAuditTrail)**
+**2)管 [理稽核記錄](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
 
 監視基於用戶的詳細資訊。
 
-**3)用 [戶登錄歷史記錄](http://docs.marketo.com/display/DOCS/User+Login+History)**
+**3)用 [戶登錄歷史記錄](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
 瞭解哪些人已登入您的訂閱，以及登入時間。 也包含失敗的登入嘗試。
 
 >[!TIP]
 >
->您可以使用稽核記錄進行稽核，請務必使用[篩選](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)!
+>您可以使用稽核記錄進行稽核，請務必使用[篩選](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
 
 ## 導出資料{#exporting-data}
 
@@ -82,9 +82,4 @@ Marketo會稽核[建立、編輯和刪除](http://docs.marketo.com/display/DOCS/
 
 >[!MORELIKETHIS]
 >
->* [啟用審計線索](enable-audit-trail.md)
-
->
-
-
-
+>[啟用審計線索](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)
