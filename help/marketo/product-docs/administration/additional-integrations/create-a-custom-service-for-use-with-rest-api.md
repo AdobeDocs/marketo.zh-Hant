@@ -3,9 +3,9 @@ unique-page-id: 2360350
 description: 建立自訂服務以搭配ReST API —— 行銷人員檔案——產品檔案
 title: 建立自訂服務以搭配ReST API使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立僅限API的使用者角色](../../../product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [建立僅限API的使用者](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)
+>* [建立僅限API的使用者角色](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+>* [建立僅限API的使用者](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 
 >
 
@@ -28,9 +28,7 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
->[!NOTE]
->
->**深入探討**
+>[!TIP]
 >
 >請參閱我們的開發人員檔案，以取得[ReST API](http://developers.marketo.com/documentation/rest/)的詳細資訊。 如果您需要[SOAP API](http://developers.marketo.com/documentation/soap/)，我們也提供&lt;a0/>。
 
@@ -48,11 +46,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. 輸入服務的&#x200B;**顯示名稱**。 選擇&#x200B;**僅API用戶** [先前建立的](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)。
+1. 輸入服務的&#x200B;**顯示名稱**。 選擇&#x200B;**僅API用戶** [先前建立的](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)。
 
    >[!NOTE]
-   >
-   >**提醒**
    >
    >請注意，我們已針對熱門網路研討會服務提供原生整合功能。
 
@@ -78,11 +74,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-10-3a42-3a24.png)
 
-1. 向負責建立連線的人員提供**客戶端Id**、**客戶機密碼**、**授權使用者**&#x200B;和&#x200B;**Token**。
+1. 將&#x200B;**客戶端ID**、**客戶機密碼**、**授權用戶**&#x200B;和&#x200B;**Token**&#x200B;提供給負責建立連接的人。
 
    ![](assets/image2014-9-19-10-3a42-3a38.png)
 
 >[!CAUTION]
 >
 >不要分享這些資訊；是你資料的後門。 保重！
-
