@@ -3,7 +3,7 @@ unique-page-id: 10098433
 description: 建立IP型API存取的允許清單——行銷人員檔案——產品檔案
 title: 建立IP型API存取的允許清單
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2016-2-25-9-3a12-3a48.png)
 
-1. 在「IP限制」區域，按一下左上角的「編輯IP限制」、「**」或「編輯IP限制」。**
+1. 在「IP限制」區域，按一下左上角的「編輯」，或按一下「編輯IP限制」。********
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
@@ -42,4 +42,3 @@ ht-degree: 0%
 1. 按一下&#x200B;**保存**。
 
    ![](assets/image2016-2-25-9-3a28-3a21.png)
-
