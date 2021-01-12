@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: 使用者登入記錄——行銷人員檔案——產品檔案
 title: 使用者登入記錄
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,9 @@ ht-degree: 0%
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. 從&#x200B;**Users**&#x200B;下拉式清單中選擇使用者。** **
+1. 從&#x200B;**Users**&#x200B;下拉式清單中選取使用者。
 
-   ** ![](assets/user-dropdown.jpg)
-
-   **
+   ![](assets/user-dropdown.jpg)
 
 1. 選中&#x200B;**僅失敗登錄**&#x200B;框，在搜索中只顯示失敗登錄。
 
@@ -69,10 +67,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [稽核記錄概述](audit-trail-overview.md)
-
-
+   >[稽核記錄概述](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
