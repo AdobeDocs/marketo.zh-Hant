@@ -3,9 +3,9 @@ unique-page-id: 11378468
 description: 稽核記錄篩選——行銷檔案——產品檔案
 title: 審計線索中的篩選
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >可能的搜索參陣列合有多種。 在此範例中，我們找到：*所有電子郵件——由任何人編輯——在前7天*。
+   >可能的搜索參陣列合有多種。 在此範例中，我們找到：_所有電子郵件——由任何人編輯——在前7天_。
 
 1. 按一下&#x200B;**Period**&#x200B;下拉式清單並選擇&#x200B;**Last 7 Days**。
 
@@ -57,12 +57,6 @@ ht-degree: 0%
    >
    >如果您已啟用工作區，您會看到所有工作區的稽核資料。 如果您套用工作區篩選，Marketo會在您每次使用稽核記錄時記住先前的工作區值。 資產層級的工作區權限會強制執行。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [審核跟蹤中的更改詳細資訊](change-details-in-audit-trail.md)
-
-
+   >[審核跟蹤中的更改詳細資訊](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
