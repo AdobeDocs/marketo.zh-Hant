@@ -3,9 +3,9 @@ unique-page-id: 15695874
 description: 將BrightTALK連接至Marketo - Marketo Docs —— 產品檔案
 title: 將BrightTALK連接至Marketo
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -31,8 +31,8 @@ ht-degree: 0%
 >
 >此時，您必須設定「僅限API使用者角色」和「API使用者」，以限制BrightTALK在您的Marketo例項中擁有的權限。 因為我們已經有這些步驟的文章，所以我們會將您連結到這些步驟。
 
-1. 建立[僅API用戶角色](http://docs.marketo.com/x/iwMk)。
-1. [使用您在步驟](http://docs.marketo.com/x/jwMk)4中建立的BrightTALK API角色，建立API使用者。
+1. 建立[僅API用戶角色](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)。
+1. [使用您在步驟](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)4中建立的BrightTALK API角色，建立API使用者。
 1. 返回「管理員」區域。
 
    ![](assets/one.png)
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 輸入您選擇的顯示名稱。 按一下「服務」下拉式清單並選擇「**自定義**」（**not**&#x200B;選擇「BrightTALK」）。
+1. 輸入您選擇的顯示名稱。 按一下「服務」下拉式清單並選擇「**自定義**」（_not_&#x200B;選擇「BrightTALK」）。
 
    ![](assets/four.png)
 
@@ -73,9 +73,8 @@ ht-degree: 0%
 
    ![](assets/ten.png)
 
-## BrightTALK {#steps-in-brighttalk-1}中的步驟
+## BrightTALK {#additional-steps-in-brighttalk}中的其他步驟
 
 1. 從步驟3返回BrightTALK連接器設定螢幕，並輸入從步驟12和14保存的憑據。
 
    認證完成後，您已正式將BrightTALK連線至Marketo。 下一步是確定要同步的[資料欄位。](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync)
-
