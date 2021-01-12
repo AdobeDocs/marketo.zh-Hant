@@ -3,9 +3,9 @@ unique-page-id: 14745982
 description: 將Workplace By Facebook新增為LaunchPoint服務——行銷人員檔案——產品檔案
 title: 將Workplace By Facebook新增為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Workplace整合包含兩種通知類型：
 
 >[!PREREQUISITES]
 >
->如果您尚未啟用「工作場所通知」，請[聯絡支援部門](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436)。
+>如果您尚未啟用「工作場所通知」，請聯絡[行銷人員支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 1. 前往&#x200B;**LaunchPoint**，然後在&#x200B;**New**&#x200B;下，按一下「New Service」（新服務）**。**
 
@@ -65,4 +65,3 @@ Workplace整合包含兩種通知類型：
    通知現在會開始張貼至您在步驟7中選取的Facebook群組。 它們看起來會像這樣：
 
    ![](assets/example.png)
-
