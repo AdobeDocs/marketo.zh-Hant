@@ -3,7 +3,7 @@ unique-page-id: 10100269
 description: 編輯自訂活動——行銷檔案——產品檔案
 title: 編輯自訂活動
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -44,4 +44,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >如果您的活動在編輯時是草稿，則仍為草稿。 如果已發佈，狀態會變更為「已發佈且含草稿」。
-
