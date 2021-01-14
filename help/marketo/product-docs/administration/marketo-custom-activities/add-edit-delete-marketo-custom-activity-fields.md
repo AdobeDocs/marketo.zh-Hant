@@ -3,7 +3,7 @@ unique-page-id: 10100275
 description: 新增／編輯／刪除行銷至自訂活動欄位——行銷至檔案——產品檔案
 title: 新增／編輯／刪除行銷至自訂活動欄位
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >不確定要選擇什麼？ 我們能搞定你！ 所有可用的資料類型皆定義於[本文](../../../product-docs/administration/field-management/custom-field-type-glossary.md)。
+   >不確定要選擇什麼？ 我們能搞定你！ 所有可用的資料類型皆定義於[本文](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)。
 
 1. 命名欄位。 Api名稱會自動填入。 完成後，按一下&#x200B;**保存**。
 
@@ -94,4 +94,3 @@ ht-degree: 0%
    ![](assets/thirteen.png)
 
    就是這麼簡單！
-
