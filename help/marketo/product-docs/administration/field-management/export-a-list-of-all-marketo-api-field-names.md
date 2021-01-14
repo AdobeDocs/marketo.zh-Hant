@@ -3,7 +3,7 @@ unique-page-id: 2360295
 description: 匯出所有行銷人員API欄位名稱清單——行銷人員檔案——產品檔案
 title: 匯出所有Marketo API欄位名稱清單
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -34,4 +34,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >MLM API名稱的字元限制為255。
-
