@@ -3,7 +3,7 @@ unique-page-id: 10094188
 description: 核准自訂物件——行銷人員檔案——產品檔案
 title: 批准自訂物件
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -33,16 +33,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >*一對多結構*&#x200B;中使用的自定義對象必須至少具有一個重複資料消除欄位、連結欄位、連結對象名和要批准的連結欄位名。
+   >_一對多結構_&#x200B;中使用的自定義對象必須至少具有一個重複資料消除欄位、連結欄位、連結對象名和要批准的連結欄位名。
    >
+   >在批准&#x200B;_多對多結構_**中使用的自訂物件時，不**&#x200B;需要連結欄位、連結物件名稱或連結欄位名稱（因為它們位於中介物件中）。
    >
-   >在批准&#x200B;*多對多結構***中使用的自訂物件時，不**&#x200B;需要連結欄位、連結物件名稱或連結欄位名稱（因為它們位於中介物件中）。
+   >用作&#x200B;_中間對象_&#x200B;的自定義對象需要連結欄位、連結對象名稱和連結欄位名稱，但&#x200B;**不需要重複資料消除欄位。**
    >
-   >
-   >用作&#x200B;*中間對象*&#x200B;的自定義對象需要連結欄位、連結對象名稱和連結欄位名稱，但&#x200B;**不需要重複資料消除欄位。**
-   >
-   >
-   >如需詳細資訊，請參閱[瞭解行銷商自訂物件](understanding-marketo-custom-objects.md)。
+   >如需詳細資訊，請參閱[瞭解行銷商自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)。
 
 就這樣！ 現在，您可以在篩選條件和觸發條件的限制中選取自訂物件，以便用於促銷活動。
 
@@ -61,4 +58,3 @@ ht-degree: 0%
 1. 預覽會顯示在草稿中變更的項目。 按一下&#x200B;**批准**。
 
    ![](assets/six-1.png)
-
