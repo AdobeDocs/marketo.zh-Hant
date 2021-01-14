@@ -3,7 +3,7 @@ unique-page-id: 2360247
 description: 變更電子郵件和標籤的預設值——行銷人員檔案——產品檔案
 title: 變更電子郵件和寄件者標籤的預設值
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
