@@ -3,7 +3,7 @@ unique-page-id: 2360291
 description: 欄位的區塊更新——行銷檔案——產品檔案
 title: 塊對欄位的更新
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >執行清單匯入時，只有在Marketto根據與&#x200B;**完全符合**&#x200B;的欄位名稱自動識別欄位（或如果已建立別名）時，才會顯示「匯入預覽」中被封鎖欄位的狀態。 如果從「行銷人員欄位」下拉式清單中手動選取欄位，則「匯入預覽」中不會顯示封鎖狀態，但仍會實作該欄位的更新封鎖。
-
+   >執行清單匯入時，只有在Marketto根據與&#x200B;_完全符合_&#x200B;的欄位名稱自動識別欄位（或如果已建立別名）時，才會顯示「匯入預覽」中被封鎖欄位的狀態。 如果從「行銷人員欄位」下拉式清單中手動選取欄位，則「匯入預覽」中不會顯示封鎖狀態，但仍會實作該欄位的更新封鎖。
