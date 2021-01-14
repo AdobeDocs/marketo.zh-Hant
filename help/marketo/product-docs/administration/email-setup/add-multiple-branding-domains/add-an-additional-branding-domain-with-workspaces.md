@@ -3,9 +3,9 @@ unique-page-id: 11377408
 description: 使用工作區——行銷人員檔案——產品檔案新增其他品牌網域
 title: 使用工作區新增其他品牌網域
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必須先[編輯您的預設品牌網域](edit-your-default-branding-domain.md)。
+>您必須先[編輯您的預設品牌網域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)。
 >
->您必須先將[一般追蹤連結](edit-your-default-branding-domain-with-workspaces.md)取代為品牌網域，才能新增其他品牌網域。
+>您必須先將[一般追蹤連結](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)取代為品牌網域，才能新增其他品牌網域。
 
-1. 前往**管理**，然後按一下&#x200B;**電子郵件**。
+1. 前往&#x200B;**Admin**，然後按一下&#x200B;**Email**。
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
-1. 按一下**新增**以新增其他品牌網域。
+1. 按一下&#x200B;**添加**&#x200B;以添加其他品牌域。
 
    ![](assets/branding-domains-add-workspaces.png)
 
@@ -40,4 +40,3 @@ ht-degree: 0%
 1. 選擇新的品牌域，然後按一下&#x200B;**保存**。
 
    ![](assets/image2016-8-12-10-3a52-3a44.png)
-
