@@ -3,7 +3,7 @@ unique-page-id: 2360293
 description: 重新命名欄位——行銷人員檔案——產品檔案
 title: 重新命名欄位
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
-1. 前往「管理員」並按一下「欄位管理」。
+1. 前往「管理員」，然後按一下「欄位管理」。****
 
    ![](assets/image2014-9-24-14-3a2-3a25.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/changefieldname.png)
 
-1. 重新命名欄位，然後按一下「儲存」。
+1. 更名欄位，然後按一下「保存」。****
 
    ![](assets/image2014-9-24-14-2-55.png)
 
@@ -42,4 +42,3 @@ ht-degree: 0%
 >[!CAUTION]
 >
 >如果您在Salesforce中重新命名API名稱，Marketo會建立全新欄位，並留下舊欄位！
-
