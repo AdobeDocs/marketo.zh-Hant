@@ -3,7 +3,7 @@ unique-page-id: 2360335
 description: 從不受信任的來源匯入清單期間的區塊欄位更新——行銷人員檔案——產品檔案
 title: 從不受信任的來源匯入清單期間的區塊欄位更新
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -41,10 +41,10 @@ ht-degree: 0%
 
 ## 運行不信任清單導入{#running-an-untrusted-list-import}
 
-1. 當執行清單匯入時，如果您希望在上一步驟中設定的所有欄位都安全，請務必選取「**不受信任**」。
+1. 運行清單導入時，如果希望在上一步中設定的所有欄位都安全，請務必選擇&#x200B;**不受信任的**。
 
    ![](assets/importpersondetails.jpg)
 
-有關導入清單的詳細說明，請參閱[導入人員清單](../../../getting-started/quick-wins/import-a-list-of-people.md)。
+有關導入清單的詳細說明，請參閱[導入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)。
 
 幹得好！ 現在，您已瞭解如何避免金鑰欄位受到不受信任的清單的影響。
