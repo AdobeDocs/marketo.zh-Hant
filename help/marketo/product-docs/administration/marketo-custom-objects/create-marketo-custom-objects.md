@@ -3,7 +3,7 @@ unique-page-id: 10093192
 description: 建立行銷人員自訂物件——行銷人員檔案——產品檔案
 title: 建立Marketo自訂物件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '710'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您可以設定自訂物件，以一對多或多對多的方式運作。 建立初始對象的方式相同，但在開始向對象添加欄位時，步驟不同。 如需詳細資訊，請參閱[瞭解行銷商自訂物件](understanding-marketo-custom-objects.md)。
+>您可以設定自訂物件，以一對多或多對多的方式運作。 建立初始對象的方式相同，但在開始向對象添加欄位時，步驟不同。 如需詳細資訊，請參閱[瞭解行銷商自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)。
 
 >[!NOTE]
 >
@@ -29,9 +29,7 @@ ht-degree: 0%
 
 1. 按一下&#x200B;**Admin**，在&#x200B;**資料庫管理**&#x200B;中選擇&#x200B;**Marketo Custom Objects**。
 
-   ** ![](assets/image2016-1-18-13-3a12-3a19.png)
-
-   **
+   ![](assets/image2016-1-18-13-3a12-3a19.png)
 
 1. 按一下「**新建自定義對象**」。
 
@@ -49,7 +47,7 @@ ht-degree: 0%
    >
    >在建立欄位時，您可以編輯這些欄位，但在保存這些欄位後，您只能編輯「複數名」欄位和&#x200B;**「在銷售線索中顯示」滑塊。**
 
-1. 如果要在「銷售線索資料庫」頁上查看自定義對象資料，請將「在銷售線索詳細資訊中顯示」**滑桿拉到顯示&#x200B;**Show**&#x200B;上。 按一下&#x200B;**保存**。
+1. 如果要在「銷售線索資料庫」頁上查看自定義對象資料，請將&#x200B;**「在銷售線索詳細資訊中顯示」滑塊拉到以顯示**「顯示」。 ****&#x200B;按一下&#x200B;**保存**。
 
    ![](assets/image2015-9-15-16-3a32-3a2.png)
 
@@ -57,11 +55,11 @@ ht-degree: 0%
 
    ![](assets/image2015-9-15-16-3a38-3a22.png)
 
-   下一步是將欄位添加到[中，以構建自定義對象](add-marketo-custom-object-fields.md)。
+   下一步是將欄位添加到[中，以構建自定義對象](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)。
 
    >[!NOTE]
    >
-   >您只能透過清單匯入或[API](http://developers.marketo.com/documentation/rest/)填入Marketon自訂物件。
+   >您只能透過清單匯入或[API](https://developers.marketo.com/documentation/rest/)填入Marketon自訂物件。
 
 ## 為多對多結構{#create-a-custom-object-for-a-many-to-many-structure}建立自定義對象
 
@@ -87,7 +85,7 @@ ht-degree: 0%
    >
    >在建立欄位時，您可以編輯這些欄位，但在保存這些欄位後，您只能編輯「複數名」欄位和&#x200B;**「在銷售線索中顯示」滑塊。**
 
-1. 如果要在「銷售線索資料庫」頁上查看自定義對象資料，請將「在銷售線索詳細資訊中顯示」**滑塊拉出以顯示「顯示」。 按一下&#x200B;**保存**。
+1. 如果要在「銷售線索資料庫」頁上查看自定義對象資料，請將&#x200B;**「在銷售線索詳細資訊中顯示」滑塊拉到以顯示**「顯示」。 ****&#x200B;按一下&#x200B;**保存**。
 
    ![](assets/image2016-1-14-13-3a42-3a56.png)
 
@@ -97,7 +95,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您只能透過清單匯入或[API](http://developers.marketo.com/documentation/rest/)填入Marketon自訂物件。
+   >您只能透過清單匯入或[API](https://developers.marketo.com/documentation/rest/)填入Marketon自訂物件。
 
 下一步是您建立中介物件（請參閱下面）。 但在此之前，您必須建立欄位以連結至它。
 
@@ -125,21 +123,17 @@ ht-degree: 0%
    >
    >您可以在建立欄位時編輯這些欄位，但儲存欄位後，您只能編輯「複數名稱」欄位和「在銷售線索中顯示詳細資料」滑桿。
 
-1. 拉出&#x200B;**Show in Lead Detail**&#x200B;滑桿，以顯示「Show if you want to view custom object data on the Lead Database」（如果要在「Lead資料庫」頁面上查看自定義對象資料）。 按一下&#x200B;**保存**。
+1. 如果要在「銷售線索資料庫」頁上查看自定義對象資料，請將&#x200B;**「在銷售線索詳細資訊中顯示」滑塊拉到以顯示**「顯示」。 ****&#x200B;按一下&#x200B;**保存**。
 
    ![](assets/image2016-1-14-14-3a12-3a49.png)
 
 1. 自訂物件資訊會顯示您輸入的內容。 請注意，它處於「草稿」狀態。
 
-   下一步是，您將[新增連結欄位](add-marketo-custom-object-link-fields.md)，將中介物件連接至人員／公司和自訂物件。
+   下一步是，您將[新增連結欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)，將中介物件連接至人員／公司和自訂物件。
 
 >[!MORELIKETHIS]
 >
->* [新增行銷至自訂物件欄位](add-marketo-custom-object-fields.md)
->* [新增行銷至自訂物件連結欄位](add-marketo-custom-object-link-fields.md)
->* [瞭解Marketo自訂物件](understanding-marketo-custom-objects.md)
-
->
-
-
+>* [新增行銷至自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [新增行銷至自訂物件連結欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [瞭解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
