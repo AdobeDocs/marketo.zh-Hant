@@ -3,7 +3,7 @@ unique-page-id: 5472615
 description: 瞭解系統管理欄位——行銷檔案——產品檔案
 title: 瞭解系統管理欄位
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 瞭解系統管理欄位{#understanding-system-managed-fields}
 
-您可能注意到，[person detail page](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)包含由Marketo建立的一系列不可編輯欄位。 這些資料來自各種來源，有無數的值可以顯示。
+您可能注意到，[person detail page](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)包含由Marketo建立的一系列不可編輯欄位。 這些資料來自各種來源，有無數的值可以顯示。
 
 ## 欄位類型{#field-types}
 
@@ -67,4 +67,3 @@ ht-degree: 0%
 | Munchkin API | 透過Marketo的Munchkin API成為人 |
 | 社交應用程式 | 透過社交小工具成為人 |
 | 活動合作夥伴 | 透過連結的網路研討會服務成為個人 |
-
