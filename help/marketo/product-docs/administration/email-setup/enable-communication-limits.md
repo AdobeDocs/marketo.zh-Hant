@@ -3,9 +3,9 @@ unique-page-id: 2360222
 description: 啟用通訊限制——行銷人員檔案——產品檔案
 title: 啟用通訊限制
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,12 @@ ht-degree: 0%
 1. 在&#x200B;**Admin**&#x200B;下，按一下&#x200B;**通信限制**。
 
    ![](assets/image2014-9-18-15-3a53-3a37.png)
-按一下「編輯」。
+
+1. 按一下&#x200B;**編輯**。
+
    ![](assets/image2014-9-18-15-3a53-3a47.png)
 
    >[!NOTE]
-   >
    >
    >「每日」是根據訂閱時區（午夜——午夜）中的日曆日。
 
@@ -48,7 +49,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >進一步瞭解[操作電子郵件](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational)是什麼。
+   >進一步瞭解[操作電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)是什麼。
 
 1. 按一下&#x200B;**保存**。
 
@@ -58,15 +59,12 @@ ht-degree: 0%
    >
    >**範例**
    >
-   >
    >上述設定表示在任何七天時段內，每天不會收到超過&#x200B;**1封電子郵件**&#x200B;或超過&#x200B;**5封。**
 
    >[!NOTE]
-   >
    >
    >通訊限制會自動套用至所有電子郵件和參與計畫。
 
 >[!MORELIKETHIS]
 >
->[將通訊限制套用至智慧型促銷活動](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
-
+>[將通訊限制套用至智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
