@@ -3,9 +3,9 @@ unique-page-id: 2951259
 description: 自訂欄位類型辭彙表——行銷檔案——產品檔案
 title: 自訂欄位類型辭彙表
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [在Marketo中建立自訂欄位](create-a-custom-field-in-marketo.md)
-
->
-
-
+>[在Marketo中建立自訂欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
->視欄位類型而定，filter/trigger [operators](https://docs.marketo.com/display/public/DOCS/Smart+List+Filter+Operators+Glossary)將不同。
+>視欄位類型而定，filter/trigger [operators](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)將不同。
 
 >[!NOTE]
 >
@@ -67,7 +63,7 @@ ht-degree: 0%
 
 **範例名稱：** 替代電子郵件——為您的人員保留替代電子郵件地址（無法實際傳送電子郵件至此欄位，例如預設電子郵件地址欄位，此欄位為特殊）
 
-**範例值：** [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#335d525e5673505c5e43525d4a1d505c5e)
+**範例值：** name@company.com
 
 **營運商**:is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
 
@@ -81,7 +77,7 @@ ht-degree: 0%
 
 ## 公式{#formula}
 
-**範例名稱：** 問候語——在解決方案中使用此特殊欄 [位，以根據性別取得](create-and-use-a-concatenated-string-formula-field.md) 正確的問候語
+**範例名稱：** 問候語——在解決方案中使用此特殊欄 [位，以根據性別取得](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) 正確的問候語
 
 **範例值：檢** 查連結的解決方案
 
