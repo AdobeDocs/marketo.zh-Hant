@@ -3,7 +3,7 @@ unique-page-id: 45417092
 description: 匯出用於欄位的資料——行銷人員檔案——產品檔案
 title: 匯出用於欄位的資料
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -42,4 +42,3 @@ ht-degree: 0%
    >[!TIP]
    >
    >每個相關資產都是可點按的連結，並會在Marketo中開啟。
-
