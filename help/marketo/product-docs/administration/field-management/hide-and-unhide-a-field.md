@@ -3,9 +3,9 @@ unique-page-id: 2360333
 description: 隱藏和取消隱藏欄位——行銷人員檔案——產品檔案
 title: 隱藏和取消隱藏欄位
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
    >若要隱藏欄位，它不得與任何其他資產（包括已封存的資產）相關聯。 在隱藏前，請務必從所有智慧型清單、流程步驟選擇、表單、電子郵件等移除欄位。
 
-   按一下「隱藏」以確認。
+1. 按一下&#x200B;**Hide**&#x200B;確認。
+
    ![](assets/image2014-9-18-13-3a10-3a36.png)
 
    幹得好！ 現在您知道如何在Marketo使用者介面中隱藏欄位。
@@ -48,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 
-1. 尋找並選取欄位，然後在&#x200B;**欄位動作**&#x200B;下按一下&#x200B;**`Unhide Field`**。
+1. 尋找並選取欄位。 在「欄位動作」下拉式清單中，按一下「取消隱藏欄位」。****
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
@@ -56,5 +55,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >需要執行大量隱藏／取消隱藏嗎？ 聯絡Marketo專業服務：[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4d3e283f3b242e283e0d202c3f26283922632e222063)
-
+   >需要執行大量隱藏／取消隱藏嗎？ 聯絡Marketo專業服務：services@marketo.com。
