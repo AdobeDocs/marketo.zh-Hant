@@ -3,7 +3,7 @@ unique-page-id: 10098479
 description: 建立自訂活動——行銷檔案——產品檔案
 title: 建立自訂活動
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -51,9 +51,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [瞭解自訂活動](understanding-custom-activities.md)
-
->
-
-
-
+>[瞭解自訂活動](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)
