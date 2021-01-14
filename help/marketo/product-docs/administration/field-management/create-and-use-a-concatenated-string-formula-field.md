@@ -3,7 +3,7 @@ unique-page-id: 2360337
 description: 建立和使用串連字串（公式）欄位——行銷人員檔案——產品檔案
 title: 建立和使用串連字串（公式）欄位
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   進一步瞭解流程步驟[的Token](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)。
+   進一步瞭解流程步驟[的Token](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)。
 
 1. 現在，您可以在電子郵件中新增公式欄位作為代號。
 
@@ -50,4 +50,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >公式欄位可用於登陸頁面、電子郵件和智慧型清單欄位；不導出。 含有公式欄位的電子郵件無法透過批次促銷活動傳送
-
