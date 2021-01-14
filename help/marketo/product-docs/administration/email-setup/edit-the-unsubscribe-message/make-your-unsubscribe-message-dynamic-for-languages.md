@@ -3,9 +3,9 @@ unique-page-id: 6848782
 description: 讓您的取消訂閱訊息在語言——行銷檔案——產品檔案中具動態性
 title: 讓您的取消訂閱訊息在語言上具動態性
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '495'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,19 @@ ht-degree: 0%
 >
 >我們為您設定了這個不錯的教學課程。 這是一個最佳實踐，但可以通過其他方式實現。
 
-1. 準備資料
-1. [建立名為「](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)首選語言」的自訂欄位。（如果您想要此欄位同步，請在CRM中設定）。
+## 準備資料{#prepare-your-data}
+
+1. [建立名為「](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 首選語言」的自訂欄位。（如果您想要此欄位同步，請在CRM中設定）。
 
    >[!TIP]
    >
-   >以後，當您[建立表單](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)以擷取語言偏好設定時，請使用此欄位。
+   >以後，當您[建立表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)以擷取語言偏好設定時，請使用此欄位。
 
-1. 建立區段
+## 建立區段{#create-segmentation}
+
 1. 轉至&#x200B;**Database**。
-** ![](assets/db.png)
 
-   **
+   ![](assets/db.png)
 
 1. 在&#x200B;**New**&#x200B;下拉式清單中，按一下&#x200B;**New Segmentation**。
 
@@ -64,16 +65,15 @@ ht-degree: 0%
 
    ![](assets/image2015-3-9-8-3a39-3a36.png)
 
-1. 建立程式碼片段
+## 建立程式碼片段{#create-a-snippet}
+
 1. 前往&#x200B;**Design Studio**。
 
    ![](assets/ds.png)
 
 1. 在&#x200B;**New**&#x200B;下拉式清單中，按一下「New Snippet」（新增程式碼片段）。****
 
-   ** ![](assets/ten.png)
-
-   **
+   ![](assets/ten.png)
 
 1. 為程式碼片段命名為&#x200B;**取消訂閱訊息**。 按一下&#x200B;**建立**。
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-9-8-3a41-3a47.png)
 
-1. 複製並貼上此Token:**`{{system.unsubscribeLink}}`**&#x200B;放入&#x200B;**連結URL**&#x200B;欄位。 按一下&#x200B;**插入**。
+1. 複製並貼上此Token:`{{system.unsubscribeLink}}`放入&#x200B;**連結URL**&#x200B;欄位。 按一下&#x200B;**插入**。
 
    ![](assets/image2015-3-9-8-3a43-3a17.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-9-8-3a45-3a43.png)
 
-1. 複製並貼上相同的Token:**`{{system.unsubscribeLink}}`**&#x200B;放入&#x200B;**連結URL**&#x200B;欄位。 按一下&#x200B;**插入**。
+1. 複製並貼上相同的Token:`{{system.unsubscribeLink}}`放入&#x200B;**連結URL**&#x200B;欄位。 按一下&#x200B;**插入**。
 
    ![](assets/image2015-3-9-8-3a47-3a4.png)
 
@@ -109,7 +109,8 @@ ht-degree: 0%
 
    太棒了。 快到了。
 
-1. 在電子郵件中使用程式碼片段
+## 在電子郵件{#use-snippet-in-an-email}中使用程式碼片段
+
 1. 在電子郵件編輯器中，按一下可編輯的元素。 然後按一下齒輪圖示並選取「取代為程式碼片段」(Replace with Snippet)**。**&#x200B;如果要選擇可編輯的代碼片段元素，請按一下齒輪表徵圖並選擇&#x200B;**編輯**。
 
    ![](assets/4.1.png)
@@ -134,27 +135,27 @@ ht-degree: 0%
    >
    >當然，您也可以編輯電子郵件的其他內容，以取得動態語言。 在您執行時，請在取消訂閱頁面上執行相同的技巧。
 
-1. 使用動態內容自訂您的取消訂閱頁面
+## 使用動態內容{#customizing-your-unsubscribe-page-with-dynamic-content}自訂取消訂閱頁面
 
-   如果您希望您的人員以他們偏好的語言來取消訂閱頁面，您可以在登陸頁面和確認頁面上使用動態內容。
+如果您希望您的人員以他們偏好的語言來取消訂閱頁面，您可以在登陸頁面和確認頁面上使用動態內容。
 
-   導覽至Design Studio。
+1. 導覽至Design Studio。
 
    ![](assets/ds.png)
 
-   在搜尋欄位中輸入「取消訂閱」。 您應該找到「取消訂閱」頁面。
+1. 在搜尋欄位中鍵入&#x200B;_取消訂閱_。 您應該找到「取消訂閱」頁面。
 
    ![](assets/image2015-3-9-8-3a51-3a53.png)
 
-   按一下「編輯草稿」。
+1. 按一下「編輯草稿&#x200B;**」。**
 
    ![](assets/image2015-3-9-8-3a52-3a23.png)
 
-   選取區段依據。
+1. 選擇&#x200B;**分段依據**。
 
    ![](assets/image2015-3-9-8-3a52-3a57.png)
 
-   尋找「偏好語言」區段。 按一下「儲存」。
+1. 尋找「偏好語言」區段。 按一下&#x200B;**保存**。
 
    ![](assets/image2015-3-9-8-3a53-3a54.png)
 
@@ -162,8 +163,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**深入探討**
-   >
-   >
-   >進一步瞭解[動態內容](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)以及您可以做的所有酷炫功能。
-
+   >進一步瞭解[動態內容](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)以及您可以做的所有酷炫功能。
