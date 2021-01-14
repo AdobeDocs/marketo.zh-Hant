@@ -3,9 +3,9 @@ unique-page-id: 11378713
 description: 觸發自訂物件變更——行銷檔案——產品檔案
 title: 觸發自訂物件變更
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >
 >
-請連絡[行銷人員支援](http://support.marketo.com)以啟用自訂物件變更觸發器。
+請連絡[行銷人員支援](https://nation.marketo.com/t5/Support/ct-p/Support)以啟用自訂物件變更觸發器。
 
 在智慧型促銷活動的智慧型清單中，您可以在將自訂物件新增至個人或公司時觸發流程動作。 您也可以建立智慧型清單，在自訂物件中使用&#x200B;*change*&#x200B;做為觸發器。 例如，當課程名稱更新時，使用它傳送電子郵件。
 
@@ -57,11 +57,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [建立智慧清單](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >    * [瞭解Marketo自訂物件](understanding-marketo-custom-objects.md)
-
+   >* [建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+   >* [瞭解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
