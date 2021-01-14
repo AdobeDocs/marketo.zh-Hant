@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: 瞭解行銷人員自訂物件——行銷人員檔案——產品檔案
 title: 瞭解Marketo自訂物件
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '679'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 使用自訂物件來追蹤您業務的特定量度。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
@@ -45,7 +43,7 @@ ht-degree: 0%
 
 ## 存取行銷人員自訂物件{#accessing-marketo-custom-objects}
 
-1. 若要建立或編輯Marketo自訂物件，請按一下**管理**，然後按一下&#x200B;**Marketo自訂物件**&#x200B;連結。
+1. 若要建立或編輯Marketo自訂物件，請按一下&#x200B;**Admin**，然後按一下&#x200B;**Marketo自訂物件**&#x200B;連結。
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
@@ -91,18 +89,14 @@ ht-degree: 0%
 
 自訂物件只能直接連結至單一記錄。 這表示當您的自訂物件類型依公司欄位連結時，如果您管理使用Marketo的REST API的公司，您應確保您的個人記錄與公司相關聯，或者使用CRM中的連絡人轉換，或使用externalCompanyId欄位。 對於未明確連結至公司記錄的個人記錄，使用公司連結的自訂物件會隨機連結至單一記錄，即使公司欄位的值已共用給許多人亦然。
 
-如需詳細資訊，請參閱[匯入自訂物件資料](import-custom-object-data.md)。
+如需詳細資訊，請參閱[匯入自訂物件資料](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)。
 
 >[!MORELIKETHIS]
 >
->* [建立Marketo自訂物件](create-marketo-custom-objects.md)
->* [批准自訂物件](approve-a-custom-object.md)
->* [編輯和刪除行銷人員自訂物件](edit-and-delete-a-marketo-custom-object.md)
->* [新增行銷至自訂物件欄位](add-marketo-custom-object-fields.md)
->* [編輯和刪除Marketo自訂物件欄位](edit-and-delete-marketo-custom-object-fields.md)
->* [匯入自訂物件資料](import-custom-object-data.md)
-
->
-
-
+>* [建立Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+>* [批准自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
+>* [編輯和刪除行銷人員自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [新增行銷至自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [編輯和刪除Marketo自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [匯入自訂物件資料](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
 
