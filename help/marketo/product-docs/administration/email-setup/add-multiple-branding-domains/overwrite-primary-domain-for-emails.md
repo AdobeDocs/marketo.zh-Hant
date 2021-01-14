@@ -3,7 +3,7 @@ unique-page-id: 11378051
 description: 覆寫電子郵件的主要網域——行銷人員檔案——產品檔案
 title: 覆寫電子郵件的主要網域
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >並非所有使用者都有權依電子郵件設定品牌化網域。 如果您未看到「品牌化網域」下拉式清單，請連絡您的管理員。
-
