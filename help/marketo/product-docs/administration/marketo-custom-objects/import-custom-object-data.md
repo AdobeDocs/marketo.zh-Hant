@@ -3,9 +3,9 @@ unique-page-id: 10099680
 description: 匯入自訂物件資料——行銷人員檔案——產品檔案
 title: 匯入自訂物件資料
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 匯入自訂物件資料{#import-custom-object-data}
 
-將自訂物件資料匯入資料庫十分簡單。 如果您正在公司中使用自訂物件，請參閱[搭配公司使用自訂物件](http://docs.marketo.com/display/DOCS/Understanding+Marketo+Custom+Objects#UnderstandingMarketoCustomObjects-customcompanyUsingCustomObjectswithCompanies)以取得詳細資訊。
+將自訂物件資料匯入資料庫十分簡單。 如果您正在公司中使用自訂物件，請參閱[搭配公司使用自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies)以取得詳細資訊。
 
 1. 在My Marketo中，轉至&#x200B;**Database**。
 
@@ -71,9 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [瞭解Marketo自訂物件](understanding-marketo-custom-objects.md)
-
->
-
-
-
+>[瞭解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
