@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: 新增行銷至自訂物件連結欄位——行銷至檔案——產品檔案
 title: 新增行銷至自訂物件連結欄位
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,6 @@ ht-degree: 0%
    >
    >如果您選擇銷售機會，您會在清單中看到Id、電子郵件地址和任何自訂欄位。
    >
-   >
    >如果您選擇公司，清單中會顯示Id和任何自訂欄位。
 
 1. 選擇要連接的連結欄位作為新欄位的父欄位。
@@ -81,7 +80,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-18-9-3a10-3a29.png)
 
-1. 在**欄位**頁籤中，按一下&#x200B;**新建欄位**。
+1. 在&#x200B;**欄位**&#x200B;頁籤中，按一下&#x200B;**新欄位**。
 
    ![](assets/image2016-1-18-9-3a31-3a43.png)
 
@@ -121,16 +120,10 @@ ht-degree: 0%
 
 ![](assets/image2016-1-14-15-3a57-3a59.png)
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相關文章**
->
->* [新增行銷至自訂物件欄位](add-marketo-custom-object-fields.md)
->* [編輯和刪除行銷人員自訂物件](edit-and-delete-a-marketo-custom-object.md)
->* [瞭解Marketo自訂物件](understanding-marketo-custom-objects.md)
->* [編輯和刪除Marketo自訂物件欄位](edit-and-delete-marketo-custom-object-fields.md)
-
->
-
-
+>* [新增行銷至自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [編輯和刪除行銷人員自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [瞭解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [編輯和刪除Marketo自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 
