@@ -3,9 +3,9 @@ unique-page-id: 2360331
 description: 變更行銷人員自訂欄位類型——行銷人員檔案——產品檔案
 title: 變更行銷人員自訂欄位的類型
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 以下是如何變更自訂欄位的欄位類型。
 
-1. 前往**管理**，然後按一下「欄位管理」。****
+1. 前往&#x200B;**Admin**，然後按一下「欄位管理」。****
 
    ![](assets/image2014-9-18-13-3a4-3a39.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-9-3a39-3a3.png)
 
-1. 閱讀警告，然後按一下**變更**以確認。
+1. 閱讀警告，然後按一下「變更&#x200B;**」以確認。**
 
    ![](assets/image2014-9-18-13-3a5-3a23.png)
 
@@ -43,13 +43,6 @@ ht-degree: 0%
    >
    >您看到的警告訊息會視您要從／變更為的欄位類型而有所不同。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [在Marketo中建立自訂欄位](create-a-custom-field-in-marketo.md)
-
-
-您的自訂欄位現在是不同的類型。 天哪！
+   >[在Marketo中建立自訂欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
