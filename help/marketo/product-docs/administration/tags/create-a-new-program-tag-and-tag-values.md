@@ -3,7 +3,7 @@ unique-page-id: 2360272
 description: 建立新的計畫標籤和標籤值——行銷檔案——產品檔案
 title: 建立新的程式標籤和標籤值
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
-您可以為程式建立自訂[標籤](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)，並指派值給標籤。
+您可以為程式建立自訂[標籤](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)，並指派值給標籤。
 
 >[!NOTE]
 >
