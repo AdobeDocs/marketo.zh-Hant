@@ -3,9 +3,9 @@ unique-page-id: 2360198
 description: 建立、刪除、編輯和變更使用者角色——行銷人員檔案——產品檔案
 title: 建立、刪除、編輯和更改用戶角色
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 建立角色{#create-a-role}
 
-1. 前往**管理員**，然後按一下「使用者與角色」**。**
+1. 前往&#x200B;**Admin**，然後按一下&#x200B;**使用者與角色**。
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. 轉到** 「角色」頁籤**，然後按一下&#x200B;**「新建角色」。**
+1. 轉到&#x200B;**角色頁籤** ，然後按一下&#x200B;**新角色**。
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 ## 刪除角色{#delete-a-role}
 
-1. 在「管理」下，** **按一下&#x200B;**「用戶和角色」**。
+1. 在&#x200B;**Admin**&#x200B;下，按一下&#x200B;**用戶和角色**。
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. 在「**角色**」頁籤下，選擇角色並按一下「刪除角色」。****
+1. 在&#x200B;**角色**&#x200B;頁籤下，選擇角色並按一下&#x200B;**刪除角色**。
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
@@ -61,11 +61,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
-1. 按一下「**角色**」頁籤。
+1. 按一下&#x200B;**角色**&#x200B;頁籤。
 
    ![](assets/image2014-9-16-13-3a34-3a22.png)
 
-1. 選擇要編輯的角色，然後按一下**編輯角色**。
+1. 選擇要編輯的角色，然後按一下&#x200B;**編輯角色**。
 
    ![](assets/image2014-9-16-13-3a34-3a37.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您想要更新帳戶電子郵件地址嗎？ [瞭解如何](http://docs.marketo.com/x/3wFI)。
+   >您想要更新帳戶電子郵件地址嗎？ [瞭解如何](/help/marketo/product-docs/administration/settings/edit-account-settings.md)。
 
 ## 更改用戶的角色{#change-a-users-role}
 
@@ -98,5 +98,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >如果您保留選取多個角色，Marketo會預設為限制最嚴格的權限。
-
-太棒了，現在你真的上場了！  （懂了嗎？）
