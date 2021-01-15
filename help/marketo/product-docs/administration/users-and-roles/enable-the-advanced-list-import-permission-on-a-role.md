@@ -3,7 +3,7 @@ unique-page-id: 2360211
 description: 啟用角色的進階清單匯入權限——行銷人員檔案——產品檔案
 title: 啟用角色的進階清單匯入權限
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a50-3a38.png)
 
-1. 在「**角色**」頁籤下，選擇要修改的角色，然後按一下「編輯角色」。****
+1. 在&#x200B;**角色**&#x200B;頁籤下，選擇要修改的角色，然後按一下&#x200B;**編輯角色**。
 
    ![](assets/image2014-9-17-11-3a51-3a49.png)
 
