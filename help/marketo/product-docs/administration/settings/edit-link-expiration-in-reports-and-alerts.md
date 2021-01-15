@@ -3,9 +3,9 @@ unique-page-id: 2360213
 description: 在報告與警報中編輯連結到期——行銷檔案——產品檔案
 title: 編輯報表和警報中的連結過期
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
 >請記住，這些僅適用於報表和警報中的連結，而不適用於行銷電子郵件。
-
