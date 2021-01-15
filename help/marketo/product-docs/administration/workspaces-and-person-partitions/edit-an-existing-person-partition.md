@@ -3,7 +3,7 @@ unique-page-id: 2360323
 description: 編輯現有人員分區——行銷檔案——產品檔案
 title: 編輯現有人員分區
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -21,11 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立人員分區](create-a-person-partition.md)
-
->
-
-
+>[建立人員分區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 1. 在&#x200B;**Admin**&#x200B;下，按一下&#x200B;**Workspaces &amp; Partitions**。
 
@@ -35,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/two-5.png)
 
-1. 輸入人員分區&#x200B;**名稱**、**工作區**它們所屬的分區，然後按一下&#x200B;**保存**。
+1. 輸入&#x200B;**Name**&#x200B;的人員分區、**Workspaces**&#x200B;它們所屬的分區，然後按一下&#x200B;**Save**。
 
    ![](assets/three-5.png)
 
@@ -43,9 +39,8 @@ ht-degree: 0%
 
    ![](assets/four-4.png)
 
-   就這樣。 看起來，這樣一個強大的功能應該是複雜的，但它不是。
+就這樣。 看起來，這樣一個強大的功能應該是複雜的，但它不是。
 
-   >[!CAUTION]
-   >
-   >測量兩次，剪一次。 您不想將分區分配給錯誤的工作區。
-
+>[!CAUTION]
+>
+>測量兩次，剪一次。 您不想將分區分配給錯誤的工作區。
