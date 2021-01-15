@@ -3,7 +3,7 @@ unique-page-id: 2359918
 description: 編輯著陸頁面設定——行銷檔案——產品檔案
 title: 編輯著陸頁面設定
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -32,7 +32,7 @@ ht-degree: 0%
    | 期限 | 定義 |
    |---|---|
    | 著陸頁面的網域名稱 | 這是您的CNAME。 CNAME是您為登陸頁面提供訪客之URL的第一部分。 例如，在`http://go.yourCompany.com`中，單字&quot;go&quot;是CNAME。 你可以有多個，但大多數人只是使用一個。 |
-   | 備援頁面 | 如果著陸頁面不存在或關閉，此為前往的位置。 進一步瞭解[備援頁面](set-a-fallback-page.md)。 |
+   | 備援頁面 | 如果著陸頁面不存在或關閉，此為前往的位置。 進一步瞭解[備援頁面](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)。 |
    | 首頁 | 輸入您的公司網站URL。 |
 
    ![](assets/three.png)
@@ -56,4 +56,3 @@ ht-degree: 0%
    ![](assets/six.png)
 
    幹得好！ 您的登陸頁面現在已具備正確的資訊，應立即開始運作。
-
