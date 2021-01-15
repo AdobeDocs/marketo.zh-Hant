@@ -3,7 +3,7 @@ unique-page-id: 2360307
 description: 啟用或停用Treasure Chest功能——行銷檔案——產品檔案
 title: 啟用或停用珍藏箱功能
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Treasure Chest提供有趣的實驗性功能，但並未完全受到支援。
 >
 >**需要管理員權限**
 
-1. 在「**管理員**」下，按一下「寶藏箱&#x200B;**」。**
+1. 在&#x200B;**Admin**&#x200B;下，按一下&#x200B;**Treasure Chest**。
 
    ![](assets/image2014-9-16-17-3a0-3a36.png)
 
@@ -33,6 +33,4 @@ Treasure Chest提供有趣的實驗性功能，但並未完全受到支援。
 
    >[!TIP]
    >
-   >
    >您可能需要先登出再返回Market，才能看到變更生效。
-
