@@ -3,9 +3,9 @@ unique-page-id: 2360185
 description: 變更密碼保全設定——行銷人員檔案——產品檔案
 title: 更改密碼安全設定
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**定義**
-   >
-   >
    >範本只是預先建立的設定。 標準是好的。 安全性最高。 「自訂」可讓您自訂。
 
    ![](assets/passwordstrength.png)
@@ -42,11 +39,11 @@ ht-degree: 0%
    >
    >在&#x200B;**Custom**&#x200B;中，選中這些框以指示用戶建立密碼時要包括哪些特性。
 
-1. 設定&#x200B;**Expiration**。** **此功能會自動要求使用者在一段時間後重設密碼。 這也包括管理員使用者。
+1. 設定&#x200B;**Expiration**。 這項功能會自動要求使用者在一段時間後重設密碼。 這也包括管理員使用者。
 
    >[!CAUTION]
    >
-   >現有使用者不會收到變更的通知。 請先將**過期**設為30天，以確保每個人都已更新至新設定，然後將此變更回原始的節奏。
+   >現有使用者不會收到變更的通知。 請先將「有效期&#x200B;**」設為30天，以確保每個人都已更新至新設定，然後將此變更回原始節奏。**
 
    ![](assets/expiration.png)
 
@@ -55,4 +52,3 @@ ht-degree: 0%
    ![](assets/inactivesession.png)
 
    安全是嚴肅的事。 我們支援你。
-
