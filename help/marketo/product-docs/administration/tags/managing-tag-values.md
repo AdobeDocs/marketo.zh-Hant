@@ -3,7 +3,7 @@ unique-page-id: 2360274
 description: 管理標籤值——行銷檔案——產品檔案
 title: 管理標籤值
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 管理標籤值{#managing-tag-values}
 
-[標](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 語用於描述程式。您可以視需要製作任意數量的影像，每個影像都具有獨特的值。 以下是如何管理這些價值觀。
+[標](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 語用於描述程式。您可以視需要製作任意數量的影像，每個影像都具有獨特的值。 以下是如何管理這些價值觀。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[建立新的程式標籤和標籤值](create-a-new-program-tag-and-tag-values.md)
+>[建立新的程式標籤和標籤值](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
 
 ## 添加標籤值{#adding-tag-values}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a24-3a55.png)
 
-1. 按一下**「新增」**，然後按&#x200B;**「新增標籤值」**。
+1. 按一下「**新增**」，然後按一下「新增標籤值&#x200B;**」。**
 
    ![](assets/image2014-9-24-12-3a25-3a23.png)
 
@@ -47,13 +47,13 @@ ht-degree: 0%
 
 1. 您應立即看到變更！
 
-![](assets/image2014-9-24-12-3a27-3a34.png)
+   ![](assets/image2014-9-24-12-3a27-3a34.png)
 
 ## 隱藏標籤值{#hiding-tag-values}
 
 舊程式可能會使用標籤。 您可以隱藏標籤類型來取代這些標籤，以供日後使用。
 
-1. 選擇** ****Tag**&#x200B;並選擇要隱藏的&#x200B;**Value**。
+1. 選擇&#x200B;**Tag**&#x200B;並選擇要隱藏的&#x200B;**Value**。
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
@@ -69,5 +69,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a29-3a58.png)
 
-   然後，您就可以取消隱藏您日後要使用的值。
-
+然後，您就可以取消隱藏您日後要使用的值。
