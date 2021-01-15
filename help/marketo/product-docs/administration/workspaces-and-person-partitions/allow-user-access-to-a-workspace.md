@@ -3,9 +3,9 @@ unique-page-id: 2360325
 description: 允許使用者存取工作區——行銷人員檔案——產品檔案
 title: 允許使用者存取工作區
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深入探討**
->
->進一步瞭解[workspaces](understanding-workspaces-and-person-partitions.md)。
+>進一步瞭解[workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
 
 1. 在「管理員」下，按一下「使用者與角色」。
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. 在「**用戶**」頁籤下，選擇用戶並按一下「編輯用戶」。****
+1. 在&#x200B;**Users**&#x200B;標籤下，選擇用戶，然後按一下&#x200B;**Edit User**。
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
@@ -45,5 +43,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a3-3a31.png)
 
-   太好了！ 現在，當他們登入時，將會看到您提供給他們存取的所有工作區。
-
+太好了！ 現在，當他們登入時，將會看到您提供給他們存取的所有工作區。
