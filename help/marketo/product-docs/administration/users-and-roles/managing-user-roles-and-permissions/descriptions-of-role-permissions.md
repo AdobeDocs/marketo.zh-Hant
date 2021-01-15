@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: 角色權限說明——行銷人員檔案——產品檔案
 title: 角色權限說明
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '1154'
+source-wordcount: '1144'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 可用權限{#available-permissions}
 
-當您[建立或編輯角色](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)時，您可以勾選適當的方塊，以選擇下列哪些權限允許該角色。
+當您[建立或編輯角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)時，您可以勾選適當的方塊，以選擇下列哪些權限允許該角色。
 
 ![](assets/createnewrole.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 * 存取渠道——僅讓使用者存取以修改渠道標籤，而非其他自訂標籤
 * 存取通訊限制——讓使用者存取，以在「管理」中啟用通訊限制
 * 存取CRM —— 讓使用者在管理員中存取CRM，例如Salesforce或Microsoft Dynamics
-* 存取[Data.com](http://Data.com) —— 讓使用者存取Data.com流量動作
+* 存取[Data.com](https://Data.com) —— 讓使用者存取Data.com流量動作
 * 存取電子郵件管理員——讓使用者存取電子郵件管理員以變更預設設定，例如取消訂閱和品牌網域
 * 存取事件合作夥伴——讓使用者存取管理員中的LaunchPoint
 * 存取欄位管理——讓使用者存取管理員中的欄位管理
@@ -105,14 +105,12 @@ ht-degree: 0%
 讓使用者存取Design Studio標籤和樹狀結構的檢視，但無法存取詳細資訊。
 
 * 存取電子郵件
-
    * 編輯電子郵件——授予使用者編輯、建立和複製電子郵件的權限
+      * 讓電子郵件運作——授予使用者使電子郵件運作的權限。 請參閱：[讓電子郵件正常運作](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
-      * 讓電子郵件運作——授予使用者使電子郵件運作的權限。 請參閱：[讓電子郵件正常運作](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
-   * 核准電子郵件——讓使用者核准電子郵件。
-   * 刪除電子郵件——讓使用者刪除電子郵件。
-   * 設定品牌網域——讓使用者使用品牌網域。 請參閱：[新增多個品牌網域](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
-
+      * 核准電子郵件——讓使用者核准電子郵件。
+      * 刪除電子郵件——讓使用者刪除電子郵件。
+      * 設定品牌網域——讓使用者使用品牌網域。 請參閱：[新增額外品牌網域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * 存取電子郵件範本
 
@@ -220,5 +218,3 @@ ht-degree: 0%
 
 * 特定工作區的管理員存取權（僅限在您啟用「工作區」時）
 * 在工作區之間移動資產（僅在您啟用了「工作區」時）
-
-存取行動應用程式
