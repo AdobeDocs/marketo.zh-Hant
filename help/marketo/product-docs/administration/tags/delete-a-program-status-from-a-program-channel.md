@@ -3,9 +3,9 @@ unique-page-id: 2360278
 description: 從計畫渠道——行銷人員文檔——產品文檔中刪除計畫狀態
 title: 從節目頻道刪除節目狀態
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-15-3a51-3a45.png)
 
-1. 按一下![—](assets/image2014-9-24-15-3a52-3a39.png)刪除狀態，然後按一下&#x200B;**SAVE**。
+1. 按一下![X表徵圖](assets/image2014-9-24-15-3a52-3a39.png)以刪除狀態，然後按一下&#x200B;**保存**。
 
    >[!TIP]
    >
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-15-3a57-3a53.png)
 
-幹得漂亮！ 如果需要，您也可以[刪除整個通道](delete-a-program-channel.md)。
+幹得漂亮！ 如果需要，您也可以[刪除整個通道](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)。
