@@ -3,9 +3,9 @@ unique-page-id: 2359904
 description: 選擇您的語言、地區和時區——行銷檔案——產品檔案
 title: 選擇您的語言、地區和時區
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ ht-degree: 0%
 
 ## 更改用戶語言、地區和時區{#change-user-language-locale-and-time-zone}
 
-1. 登入Marketto，並在您的名稱下選取「我的帳戶」。
+1. 登入Marketo，並在您的名稱下選取「我的帳戶」**。**
 
    ![](assets/myaccount.png)
 
-1. 在「我的帳戶」下，按一下「編輯位置設定」。
+1. 在「My Account（我的帳戶）」下，按一下「Edit Location Settings（編輯位置設定）」**。**
 
    ![](assets/image2014-9-9-11-3a9-3a47.png)
 
-1. 變更您的語言。
+1. 更改&#x200B;**Language**。
 
    ![](assets/image2014-9-9-11-3a10-3a4.png)
 
@@ -42,15 +42,15 @@ ht-degree: 0%
    >
    >您也可以選擇只變更您的語言，方法是按一下登入頁面頂端的語言下拉式清單。
 
-1. 變更您的地區。
+1. 更改&#x200B;**地區設定**。
 
    ![](assets/image2014-9-9-11-3a10-3a29.png)
 
-1. 變更時區。
+1. 更改&#x200B;**時區**。
 
    ![](assets/image2014-9-9-11-3a10-3a56.png)
 
-1. 按一下「儲存」。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-9-11-3a11-3a18.png)
 
