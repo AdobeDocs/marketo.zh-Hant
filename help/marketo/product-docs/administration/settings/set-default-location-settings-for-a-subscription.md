@@ -3,7 +3,7 @@ unique-page-id: 2359902
 description: 設定訂閱的預設位置設定——行銷檔案——產品檔案
 title: 設定訂閱的預設位置設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 ## 設定訂閱的預設位置設定{#set-default-location-settings-for-a-subscription-1}
 
-當管理員變更預設位置設定時，新建立的使用者會繼承這些設定。 使用者始終可以[在個別帳戶中變更其語言、地區和時區偏好設定](select-your-language-locale-and-time-zone.md)。
+當管理員變更預設位置設定時，新建立的使用者會繼承這些設定。 使用者始終可以[在個別帳戶中變更其語言、地區和時區偏好設定](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)。
 
-1. 在&#x200B;**Admin**&#x200B;下，** *按一下&#x200B;**Location**。
+1. 在&#x200B;**Admin**&#x200B;下，按一下&#x200B;**Location**。
 
    ![](assets/image2014-11-7-11-3a39-3a17.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[Salesforce.com](http://salesforce.com/)的Marketo Sales Insight支援法文、德文、日文、葡萄牙文和西班牙文。
+   >[Salesforce.com](https://salesforce.com/)的Marketo Sales Insight支援法文、德文、日文、葡萄牙文和西班牙文。
 
 ## 設定訂閱的預設貨幣設定{#set-the-default-currency-settings-for-a-subscription}
 
@@ -61,9 +61,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [選擇您的語言、地區和時區](select-your-language-locale-and-time-zone.md)
-
->
-
-
+>* [選擇您的語言、地區和時區](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
 
