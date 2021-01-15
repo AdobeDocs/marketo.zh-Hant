@@ -3,9 +3,9 @@ unique-page-id: 2360321
 description: 變更工作區名稱——行銷人員檔案——產品檔案
 title: 更改工作區的名稱
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[建立新工作區](create-a-new-workspace.md)
+>[建立新工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 使用者可以變更工作區的名稱。 很簡單。
 
 >[!NOTE]
 >
->**深入探討**
->
->首先瞭解[瞭解工作區和人員分區](understanding-workspaces-and-person-partitions.md)。
+>首先瞭解[瞭解工作區和人員分區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
 
-1. 在&#x200B;**Admin**&#x200B;下，按一下&#x200B;**工作區和分區。**
+1. 在&#x200B;**Admin**&#x200B;下，按一下&#x200B;**Workspaces &amp; Partitions.**
 
    ![](assets/image2014-9-17-11-3a8-3a28.png)
 
@@ -44,4 +42,3 @@ ht-degree: 0%
 1. 儲存後，您應該看到變更！
 
    ![](assets/image2014-9-17-11-3a9-3a9.png)
-
