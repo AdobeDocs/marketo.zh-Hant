@@ -3,7 +3,7 @@ unique-page-id: 2359920
 description: 設定備援頁面——行銷人員檔案——產品檔案
 title: 設定備援頁面
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
