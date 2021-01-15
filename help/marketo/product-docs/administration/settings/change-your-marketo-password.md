@@ -3,9 +3,9 @@ unique-page-id: 2359916
 description: 變更行銷人員密碼——行銷人員檔案——產品檔案
 title: 變更行銷人員密碼
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
-1. 輸入「舊密碼」和「新密碼」，然後在新密碼符合所有要求時按一下「儲存」。
+1. 輸入「舊密碼」和「新密碼」，然後在新密碼符合所有要求時按一下「保存」。****
 
    ![](assets/image2014-9-10-9-3a44-3a2.png)
 
@@ -31,5 +31,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >什麼是好密碼？ 長篇大論，包含許多字母、數字和符號，例如&quot; [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;。 只是，不是那個。 發揮創意，打造您自己的作品。
-
+   >什麼是好密碼？ 長篇大論，有很多字母、數字和符號，比如「M@rk3to!$ Gre@t」。 只是，不是那個。 發揮創意，打造您自己的作品。
