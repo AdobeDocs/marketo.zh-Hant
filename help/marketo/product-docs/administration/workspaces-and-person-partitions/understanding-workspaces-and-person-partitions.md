@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: 瞭解工作區和人員分區——行銷人員文檔——產品文檔
 title: 瞭解工作區和人員分區
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->工作區的設定可能很複雜。  請聯絡[行銷支援](http://support.marketo.com/)，以瞭解他們是否適合您。
+>工作區的設定可能很複雜。 請聯絡[行銷支援](https://nation.marketo.com/t5/Support/ct-p/Support)，以瞭解他們是否適合您。
 
 工作區是Marketo中個別的區域，可存放程式、登陸頁面、電子郵件等行銷資產。 可供多人使用。 每位使用者都可存取一或多個工作區。
 
@@ -36,9 +36,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深入探討**
->
->瞭解如何建立[建立新工作區](create-a-new-workspace.md)。
+>瞭解如何建立[建立新工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)。
 
 ## 跨工作區共用{#sharing-across-workspaces}
 
@@ -78,8 +76,8 @@ ht-degree: 0%
 * 著陸頁面範本
 * 型號
 * 智慧型宣傳
-* [智慧型清單](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
-* [細分](share-segmentations-across-workspaces-and-partitions.md)
+* [智慧型清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
+* [細分](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
 * 程式碼片段
 
 ## 跨工作區複製{#cloning-across-workspaces}
@@ -105,7 +103,7 @@ ht-degree: 0%
 
 ## 人員分區{#person-partitions}
 
-人員分區的作用類似於單獨的資料庫。 每個分區都有自己的人員，他們不執行重複資料消除或與其他分區混用。 如果您認為您的業務使用案例可能需要使用相同的電子郵件地址重複記錄，請聯絡[行銷人員支援](http://support.marketo.com)。
+人員分區的作用類似於單獨的資料庫。 每個分區都有自己的人員，他們不執行重複資料消除或與其他分區混用。 如果您認為您的業務使用案例可能需要使用相同的電子郵件地址重複記錄，請聯絡[行銷人員支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 您可以在以下配置中將人員分區分配給[workspaces](create-a-new-workspace.md):
 
@@ -115,15 +113,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**範例**
->
 >使用人員分區的原因：
 >
 >* 您的工作區不僅擁有不同的資產，而且不共用任何人
 >* 您需要其他商業理由的復本
-
->
-
 
 
 >[!CAUTION]
@@ -132,7 +125,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深入探討**
->
-> 瞭解如何[建立人員分區](create-a-person-partition.md)。
-
+>瞭解如何[建立人員分區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)。
