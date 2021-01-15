@@ -3,7 +3,7 @@ unique-page-id: 2360305
 description: 建立人員詳細資料頁面的自訂標籤——行銷人員檔案——產品檔案
 title: 為「人員詳細資訊」頁建立自定義標籤
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -35,10 +35,10 @@ ht-degree: 0%
    >
    >您有兩欄可使用。
 
-   如果您決定要移除欄位，請以滑鼠右鍵按一下您要移除的欄位，然後按一下「刪除」。
+   如果您決定要移除欄位，請以滑鼠右鍵按一下您要移除的欄位，然後按一下「刪除」。****
+
    ![](assets/image2014-9-16-16-3a43-3a56.png)
 
    太棒了！ 現在，當您載入人員的詳細資訊時，可以使用自訂版面來存取對您重要的資訊。
 
    ![](assets/six-1.png)
-
