@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: 建立方案通路——行銷檔案——產品檔案
 title: 建立方案渠道
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深入探討**
->
->進一步瞭解[programs](http://docs.marketo.com/display/docs/programs)，這是Marketo中最重要的元素。
+>進一步瞭解[programs](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)，這是Marketo中最重要的元素。
 
 1. 在&#x200B;**Admin**&#x200B;區段下，按一下&#x200B;**Tags**。
 
@@ -45,30 +43,23 @@ ht-degree: 0%
    >
    >**範例**
    >
-   >
    >渠道：廣告看板
    >
-   >    
-   >    
-   >    * 套用至：預設值
-   >    * 進展：會員，已參與（如果有疑問，這些工作正常）
-   >    * 成功：已參與
+   >* 套用至：預設值
+   >* 進展：會員，已參與（如果有疑問，這些工作正常）
+   >* 成功：已參與
 
-   >    
-   >    
+   >
    >渠道：政黨
    >
-   >    
-   >    
-   >    * 套用至：事件
-   >    * 進展：已邀請、已註冊、無展示及出席
-   >    * 成功：已參加
+   >* 套用至：事件
+   >* 進展：已邀請、已註冊、無展示及出席
+   >* 成功：已參加
 
-   >    
-   >    
+   >
    >查看現有渠道的「進度」，瞭解如何使用這些渠道。
 
-1. 讓我們以黨的渠道為例。 為新&#x200B;**Channel**&#x200B;命名，然後選擇將應用該&lt;a0/>的程式類型。
+1. 讓我們以黨的渠道為例。 為新&#x200B;**Channel**&#x200B;命名，然後選擇將應用該的程式類型。
 
    ![](assets/image2014-9-24-13-3a0-3a17.png)
 
@@ -113,10 +104,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >只有&#x200B;**行動登入狀態*******已註冊**&#x200B;和&#x200B;**已註冊**&#x200B;的人員才會出現在[行動登入應用程式](http://docs.marketo.com/display/docs/events)中。
+   >只有&#x200B;**已註冊**&#x200B;和&#x200B;**已註冊**&#x200B;的&#x200B;**行動登入狀態**&#x200B;的人員才會出現在[行動登入應用程式](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md)中。
 
    >[!TIP]
    >
@@ -127,4 +115,3 @@ ht-degree: 0%
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 
    幹得漂亮！ 當您製作此類的新程式時，此新頻道將是您的選擇之一。
-
