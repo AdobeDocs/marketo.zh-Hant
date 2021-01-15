@@ -3,9 +3,9 @@ unique-page-id: 10617187
 description: 瞭解隱私權設定——行銷人員檔案——產品檔案
 title: 瞭解隱私權設定
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Marketo為行銷人員提供一種方式，讓網站訪客同意追蹤他們。 
 
 網頁訪客可設定其瀏覽器，以防止任何網站進行追蹤，方法是選擇「不追蹤」(DNT)。 這會防止追蹤此特定瀏覽器和裝置。 請參閱瀏覽器的隱私權設定，以取得完整的詳細資訊。
 
-在Munchkin中，行銷人員可以[決定是否支援或忽略瀏覽器的DNT設定](edit-do-not-track-browser-support-settings.md)。
+在Munchkin中，行銷人員可以[決定是否支援或忽略瀏覽器的DNT設定](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)。
 
 在「網頁個人化」中，行銷人員可決定是要[支援或忽略瀏覽器的DNT設定](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)。
 
@@ -76,5 +76,4 @@ Marketo為行銷人員提供一種方式，讓網站訪客同意追蹤他們。 
 
 * 對於Web個人化(RTP)，請將此項新增至javascript:
 
-匿名IP:在呼叫rtp(&#39;send&#39;,&#39;view&#39;)之前；add rtp(&#39;set&#39;, &#39;settings&#39;, {&#39;annoymizeIP&#39; :true});
-
+`anonymize IP : before calling rtp('send','view'); add rtp('set', 'settings', {'anonymizeIP' : true});`
