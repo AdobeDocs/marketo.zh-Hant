@@ -3,7 +3,7 @@ unique-page-id: 2360217
 description: 變更Analytics的歸因設定——行銷人員檔案——產品檔案
 title: 變更Analytics的歸因設定
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以變更行銷人員將聯絡人與首次接觸和多次接觸歸因的商機、潛在客戶轉換度量，以及行銷影響的機會標幟的關聯方式。
 
-這些設定將影響[Program Opportunity Analysis](../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md) 、 [ Opportunity Analysis](../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)和Lead Analysis區域下的Revenue Explorer報告。 這也會影響Program Analyzer報告。
+這些設定將影響[Program Opportunity Analysis](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md) 、 [ Opportunity Analysis](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)和Lead Analysis區域下的Revenue Explorer報告。 這也會影響Program Analyzer報告。
 
 1. 在&#x200B;**Admin**&#x200B;區段下，按一下&#x200B;**收入週期分析**。
 
@@ -37,16 +37,12 @@ ht-degree: 0%
    >
    >**定義**
    >
-   >
    >**明確**:僅與角色聯繫（預設）。
    >
-   >
    >**混合**:具有角色的聯繫人（如果可用）。如果無可用，則會使用帳戶中的所有聯繫人。
-   >
    >
    >**隱含**:所有聯繫人（不論角色）。
 
 >[!CAUTION]
 >
->使用&#x200B;**Implicit**&#x200B;時，Marketo一律會檢查與帳戶相關的所有連絡人，不論其角色為何。 **Marketo強烈建議使用顯式模式。** 使用隱式可能會造成誤報；即，儘管對機會沒有實際影響，但對機會有功勞的人。謹慎使用隱含。
-
+>使用&#x200B;**Implicit**&#x200B;時，Marketo一律會檢查與帳戶相關的所有連絡人，不論其角色為何。 **Marketo強烈建議使用顯式模式**。使用隱式可能會造成誤報；即，儘管對機會沒有實際影響，但對機會有功勞的人。 謹慎使用隱含。
