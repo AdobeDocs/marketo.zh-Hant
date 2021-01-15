@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: 編輯工作區——行銷人員檔案——產品檔案
 title: 編輯工作區
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深入探討**
->
->使用[瞭解工作區和人員分區](understanding-workspaces-and-person-partitions.md)在工作區上刷新。
+>使用[瞭解工作區和人員分區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)在工作區上刷新。
 
 1. 在&#x200B;**Admin**&#x200B;下，按一下&#x200B;**Workspaces &amp; Partitions**。
 
@@ -37,25 +35,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >如果需要，可以[建立更多人員分區](create-a-person-partition.md)。
+   >如果需要，可以[建立更多人員分區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)。
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >**所有人員分區**** **複選框表示此工作區可以使用系統中的所有銷售機會分區。
+   >**所有人員分區**&#x200B;複選框表示此工作區可以使用系統中的所有銷售機會分區。
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >**主要人員分區**是預設分區，所有人員將被分配到該分區。
+   >**主要人員分區**&#x200B;用作預設分區，並且將分配所有人員。
 
-   如果您啟用多個品牌化網域，則可以變更為不同的主要品牌化網域。 按一下「儲存」。
+   如果您啟用多個品牌化網域，則可以變更為不同的主要品牌化網域。 按一下&#x200B;**保存**。
 
    ![](assets/four-6.png)
 
@@ -65,10 +57,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [建立新工作區](create-a-new-workspace.md)
->* [瞭解工作區和人員分區](understanding-workspaces-and-person-partitions.md)
-
->
-
-
+>* [建立新工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>* [瞭解工作區和人員分區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
 
