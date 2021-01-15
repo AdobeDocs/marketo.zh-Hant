@@ -3,7 +3,7 @@ unique-page-id: 10099785
 description: 編輯訂閱設定——行銷人員檔案——產品檔案
 title: 編輯訂閱設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -36,4 +36,3 @@ ht-degree: 0%
    ![](assets/image2016-5-24-10-3a40-3a6.png)
 
    再見！ 您的訂閱有新名稱。
-
