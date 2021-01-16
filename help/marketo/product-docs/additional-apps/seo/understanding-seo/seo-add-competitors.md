@@ -3,7 +3,7 @@ unique-page-id: 2949192
 description: SEO —— 新增競爭者——行銷人員檔案——產品檔案
 title: SEO —— 新增競爭者
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -43,6 +43,6 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >* [新增關鍵字](/help/marketo//product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
+   >* [新增關鍵字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
    >* [瞭解關鍵字（競爭者檢視）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 
