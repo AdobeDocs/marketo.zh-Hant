@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: 瞭解智慧型促銷活動——行銷檔案——產品檔案
 title: 瞭解智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 如果Marketo是一輛強大的汽車，那麼聰明的宣傳就是真正的引擎。 開始使用很簡單，但幾乎可以做任何您要求的事。
 
-智慧型促銷活動有3個主要區域：[智慧清單](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)、[流](http://docs.marketo.com/display/DOCS/Flow+Actions)和[調度](using-smart-campaigns/schedule-a-recurring-batch-campaign.md)頁籤。
+智慧型促銷活動有3個主要區域：[智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)、[流](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)和[調度](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)頁籤。
 
 ## 智慧清單{#smart-list}
 
@@ -53,11 +53,8 @@ ht-degree: 0%
 
 最後，當您執行智慧型促銷活動時，此功能會加以控制。 您甚至可以設定週期，讓它以重複排程執行。
 
-<br> 
-
 聰明的宣傳活動可以做很多事。 瞭解詳情後，您會發現Marketo中的一切都變得易於理解。
 
 >[!MORELIKETHIS]
 >
->* [建立新的智慧型促銷活動](creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
+>[建立新的智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
