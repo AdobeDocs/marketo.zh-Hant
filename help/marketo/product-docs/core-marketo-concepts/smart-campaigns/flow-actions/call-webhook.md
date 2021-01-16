@@ -3,9 +3,9 @@ unique-page-id: 1147023
 description: 致電Webhook —— 行銷人員檔案——產品檔案
 title: 呼叫Webhook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立網頁掛接](../../../../product-docs/administration/additional-integrations/create-a-webhook.md)
-
->
-
-
+>[建立網頁掛接](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
 
 ## 概述{#overview}
 
@@ -29,9 +25,7 @@ Webhook可讓您與協力廠商服務互動。 在智慧型促銷活動流程中
 
 >[!NOTE]
 >
->**深入探討**
->
->瞭解Webhooks[可為您帶來的許多精彩功能。](http://developers.marketo.com/documentation/webhooks/)
+>瞭解Webhooks](https://developers.marketo.com/documentation/webhooks/)可為您帶來的許多精彩功能。[
 
 ## 用法{#usage}
 
@@ -41,13 +35,6 @@ Webhook可讓您與協力廠商服務互動。 在智慧型促銷活動流程中
 
 就這樣！ 現在，每當訪客進入智慧型促銷活動流程時，就會呼叫您的網頁掛接。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相關文章**
->
->* [在智慧型促銷活動中使用網頁掛接](use-a-webhook-in-a-smart-campaign.md)
-
->
-
-
-
+>[在智慧型促銷活動中使用網頁掛接](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
