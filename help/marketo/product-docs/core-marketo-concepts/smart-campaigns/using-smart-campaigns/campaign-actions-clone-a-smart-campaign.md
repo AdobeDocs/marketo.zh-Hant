@@ -3,9 +3,9 @@ unique-page-id: 1146989
 description: 促銷活動動作——複製智慧型促銷活動——行銷人員檔案——產品檔案
 title: 促銷活動動作——複製智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-13-3a56-3a34.png)
 
-1. 選擇適當的**複製至**選項。 在此示例中，讓我們選擇&#x200B;**程式**。
+1. 選擇適當的&#x200B;**克隆到**&#x200B;選項。 在此示例中，讓我們選擇&#x200B;**程式**。
 
    ![](assets/image2014-9-22-13-3a56-3a56.png)
 
@@ -27,5 +27,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-13-3a57-3a9.png)
 
-   完了！ 不要努力，要聰明。
-
+完了！
