@@ -3,9 +3,9 @@ unique-page-id: 1147078
 description: 變更人員分區——行銷人員文檔——產品文檔
 title: 更改人員分區
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 概述{#overview}
 
-如果您使用[工作區和分區](http://docs.marketo.com/x/9QMk)，您將希望構建智慧促銷活動，將人員從一個分區移動到另一個分區。
+如果您使用[工作區和分區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)，您將希望構建智慧促銷活動，將人員從一個分區移動到另一個分區。
 
 ![](assets/one-3.png)
 
