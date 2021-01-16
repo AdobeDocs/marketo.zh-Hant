@@ -3,9 +3,9 @@ unique-page-id: 1146954
 description: 從清單中移除——行銷人員檔案——產品檔案
 title: 從清單中移除
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 概述{#overview}
 
-由於您能夠** [新增至清單](add-to-list.md)**，因此您還需要一種方式將人員從清單中移除。
+由於您能夠[「新增至清單」](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)，因此您也需要從清單中移除人員的方式。
 
 ![](assets/image2014-9-22-10-3a44-3a3.png)
 
@@ -25,5 +25,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-10-3a44-3a7.png)
 
-   就這樣！ 像派一樣簡單。
-
+就這樣！
