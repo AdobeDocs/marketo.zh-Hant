@@ -3,9 +3,9 @@ unique-page-id: 1146970
 description: 排程批次智慧型促銷活動以稍後執行——行銷檔案——產品檔案
 title: 排程批次智慧型促銷活動以稍後執行
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您也可以[在方案計畫視圖](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)中重新計畫批智慧型促銷活動。
+>您也可以[在方案計畫視圖](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)中重新計畫批智慧型促銷活動。
 
 1. 選擇您要執行的批次智慧型促銷活動，前往&#x200B;**排程**&#x200B;標籤，然後按一下&#x200B;**執行一次**。
 
@@ -41,10 +41,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [排程循環批次促銷活動](schedule-a-recurring-batch-campaign.md)
-
-
+   >[排程循環批次促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
