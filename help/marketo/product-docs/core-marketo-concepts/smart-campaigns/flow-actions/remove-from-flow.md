@@ -3,9 +3,9 @@ unique-page-id: 1147084
 description: 從流程中移除——行銷人員檔案——產品檔案
 title: 從流中移除
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
 >這項功能可用於智慧型促銷活動的流程步驟中。
-
