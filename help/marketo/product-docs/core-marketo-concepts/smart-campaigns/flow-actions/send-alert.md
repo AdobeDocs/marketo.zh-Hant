@@ -3,9 +3,9 @@ unique-page-id: 1146958
 description: 傳送警報——行銷人員檔案——產品檔案
 title: 傳送警報
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,6 @@ Marketo可傳送含個人資訊的電子郵件警報給任何人——銷售擁�
 
    >[!NOTE]
    >
-   >**提醒**
-   >
    >您的電子郵件警報必須包含所有標題資訊，並且處於&#x200B;**Approved**&#x200B;狀態。
 
 1. 您可以按一下預覽圖示，以確定您已選取正確的電子郵件。
@@ -36,8 +34,6 @@ Marketo可傳送含個人資訊的電子郵件警報給任何人——銷售擁�
    ![](assets/three-1.png)
 
    >[!NOTE]
-   >
-   >**提醒**
    >
    >請務必在電子郵件中使用&#x200B;**傳送警報資訊**&#x200B;代號。
 
@@ -57,5 +53,4 @@ Marketo可傳送含個人資訊的電子郵件警報給任何人——銷售擁�
 
 >[!MORELIKETHIS]
 >
->[建立電子郵件](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
+>[建立電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
