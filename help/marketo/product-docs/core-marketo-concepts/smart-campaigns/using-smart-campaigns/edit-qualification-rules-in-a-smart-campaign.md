@@ -3,9 +3,9 @@ unique-page-id: 1146974
 description: 在智慧型促銷活動中編輯資格規則——行銷檔案——產品檔案
 title: 在智慧型促銷活動中編輯資格規則
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -33,18 +33,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >預設不會將通訊限制套用至智慧型促銷活動。 瞭解如何[將通訊限制套用至智慧型促銷活動](apply-communication-limits-to-smart-campaign.md)。
+   >預設不會將通訊限制套用至智慧型促銷活動。 瞭解如何[將通訊限制套用至智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)。
 
    >[!NOTE]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [將通訊限制套用至智慧型促銷活動](apply-communication-limits-to-smart-campaign.md)
-
+   >[將通訊限制套用至智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
 任務完成！ 您現在知道如何在智慧型促銷活動中控制資格規則。
