@@ -3,9 +3,9 @@ unique-page-id: 1146931
 description: 建立新的智慧型促銷活動——行銷檔案——產品檔案
 title: 建立新的智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深入探討**
->
->智慧型宣傳非常酷。 進一步瞭解[這裡](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)。
+>智慧型宣傳非常酷。 進一步瞭解[這裡](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)。
 
 1. 前往&#x200B;**行銷活動**。
 
@@ -43,13 +41,8 @@ ht-degree: 0%
 
    酷！ 接下來，瞭解如何使用智慧型清單來定義哪些人要在智慧型促銷活動中執行。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [定義智慧型促銷活動的智慧型清單 |批次](define-smart-list-for-smart-campaign-batch.md)
-   >    * [定義智慧型促銷活動的智慧型清單 |觸發器](define-smart-list-for-smart-campaign-trigger.md)
-
+   >* [定義智慧型促銷活動的智慧型清單 |批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [定義智慧型促銷活動的智慧型清單 |觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 
