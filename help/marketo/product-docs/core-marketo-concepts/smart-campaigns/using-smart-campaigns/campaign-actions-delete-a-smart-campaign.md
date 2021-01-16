@@ -3,9 +3,9 @@ unique-page-id: 1147055
 description: 促銷活動動作——刪除智慧型促銷活動——行銷檔案——產品檔案
 title: 促銷活動動作——刪除智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >若要取消處理作用中的智慧型促銷活動而不將其完全刪除，請瞭解如何[中止智慧型促銷活動](abort-a-smart-campaign.md)。
+   >若要取消處理作用中的智慧型促銷活動而不將其完全刪除，請瞭解如何[中止智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)。
 
    ![](assets/image2014-9-22-16-3a41-3a55.png)
 
@@ -38,5 +38,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >執行&#x200B;**NOT**&#x200B;刪除流程步驟中包含人員的活動中智慧型促銷活動。 促銷活動仍可能執行。
-
-不錯！
