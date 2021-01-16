@@ -3,9 +3,9 @@ unique-page-id: 1146948
 description: 傳送電子郵件——行銷人員檔案——產品檔案
 title: 傳送電子郵件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 概述{#overview}
 
-**「傳送電子郵件**流程」步驟可用作促銷活動的一部分，或作為單一流程步驟，傳送電子郵件給您的人員。
+**傳送電子郵件**&#x200B;流程步驟可用作促銷活動的一部分，或用作單一流程步驟，以傳送電子郵件給您的人員。
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 
@@ -29,14 +29,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >如果您想在流程步驟中選取您的電子郵件，則必須獲得核准。
 
 1. 按一下預覽圖示，即可查看目前選取的電子郵件。
 
    ![](assets/image2014-9-22-10-3a8-3a22.png)
 
-   新的標籤／視窗將會開啟，您可以在其中看到電子郵件。
-
+新的標籤／視窗將會開啟，您可以在其中看到電子郵件。
