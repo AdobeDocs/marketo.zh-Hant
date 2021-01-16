@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: 行動智慧型促銷活動的觸發器和篩選——行銷檔案——產品檔案
 title: 行動智慧型促銷活動的觸發器和篩選器
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 有／有行動應用程式活動
 
-這些功能提供強大的方式來追蹤自訂行動活動。 您必須與您的開發人員合作，針對iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios)設定追蹤[的Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android)和[。
+這些功能提供強大的方式來追蹤自訂行動活動。 您必須與您的開發人員合作，針對iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios)設定追蹤[的Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android)和[。
 
 * 有行動應用程式活動——觸發器
 
@@ -132,12 +132,14 @@ ht-degree: 0%
 >在動作類型&#x200B;*Shopping*&#x200B;下，有一個非常具體的動作，其他限制條件會定義它：
 >
 >* 買了件襯衫
->  * 是紅的
->  * 花費30美元
->  * 花了20秒才買到
+   >   * 是紅的
+   >   * 花費30美元
+   >   * 花了20秒才買到
 
 
-以下是Marketo中篩選器的外觀：   ![](assets/image2015-8-17-13-3a16-3a12.png)
+以下是Marketo中篩選器的外觀：
+
+![](assets/image2015-8-17-13-3a16-3a12.png)
 
 >[!NOTE]
 >
@@ -192,6 +194,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [將約束添加到智慧清單過濾器](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [在智慧型清單中使用不活動篩選](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [將約束添加到智慧清單過濾器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
+>* [在智慧型清單中使用不活動篩選](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
 
