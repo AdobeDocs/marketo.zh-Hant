@@ -3,9 +3,9 @@ unique-page-id: 1146980
 description: 在流程步驟中使用新增選擇——行銷檔案——產品檔案
 title: 在流程步驟中使用新增選擇
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [新增流量步驟至智慧型促銷活動](add-a-flow-step-to-a-smart-campaign.md)
-
->
-
-
+>[新增流量步驟至智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 **新增** 您使用流程步驟的Choicelets，並在您選擇詳細資訊時說「這取決於」。
 
@@ -53,15 +49,10 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >只有第一個匹配選項才應用於流步驟。 瞭解如何[在流動動作中重新排序「新增選擇」。](reorder-add-choice-in-a-flow-step.md)
+   >只有第一個匹配選項才應用於流步驟。 瞭解如何[在流動動作中重新排序「新增選擇」。](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
 
-   >[!NOTE]
+   太好了！ 您現在可以建立單一智慧型促銷活動，其中包含流程步驟選擇，而不是為每個選擇建立多個智慧型促銷活動。
+
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [在流程步驟中重新排序「新增選擇」](reorder-add-choice-in-a-flow-step.md)
-
-
-太好了！ 您現在可以建立單一智慧型促銷活動，其中包含流程步驟選擇，而不是為每個選擇建立多個智慧型促銷活動。
+   >[重新排序流程步驟中的新增選擇](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
