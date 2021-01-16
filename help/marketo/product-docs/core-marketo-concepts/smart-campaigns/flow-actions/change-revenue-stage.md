@@ -3,7 +3,7 @@ unique-page-id: 1147080
 description: 變更收入階段——行銷人員檔案——產品檔案
 title: 變更收入階段
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -32,4 +32,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >資料倉庫會密切注意銷售線索在不同階段間移動的時間。 如果使用不當，可能會造成不良資料。
-
