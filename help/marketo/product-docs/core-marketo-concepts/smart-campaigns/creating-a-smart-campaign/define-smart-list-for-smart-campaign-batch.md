@@ -3,9 +3,9 @@ unique-page-id: 1146940
 description: 定義智慧型促銷活動的智慧型清單 |批次——行銷人員檔案——產品檔案
 title: 定義智慧型促銷活動的智慧型清單 |批次
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 智慧型清單是整個行銷人員定義要納入的「誰」（哪些人）的機制，不論是報表、清單或智慧型促銷活動。 以下是如何定義批次促銷活動的智慧清單。
 
-1. 選擇智慧型促銷活動，然後按一下&#x200B;**智慧型清單**。
+1. 選擇智慧型促銷活動，然後按一下「智慧型清單」**。**
 
    ![](assets/campaignchoose-hand.png)
 
@@ -28,9 +28,6 @@ ht-degree: 0%
    >只有篩選器的智慧型促銷活動會在&#x200B;**Batch**&#x200B;模式中執行。 它會根據篩選條件在資料庫中尋找符合資格的人員，並同時透過流程執行所有篩選條件。
 
    >[!NOTE]
-   >
-   >**提醒**
-   >
    >
    >您可以新增觸發器，讓智慧型促銷活動在即時事件的基礎上，一次在一個人上執行，這會將智慧型促銷活動置於&#x200B;**Trigger**&#x200B;模式。
 
@@ -48,17 +45,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >預設情況下，滿足「全部」智慧清單規則的人員是合格的。 您可以修改此項目以符合您的促銷活動需求。 如需詳細資訊，請參閱[複雜邏輯的智慧清單規則](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)。
+   >預設情況下，滿足「全部」智慧清單規則的人員是合格的。 您可以修改此項目以符合您的促銷活動需求。 如需詳細資訊，請參閱[複雜邏輯的智慧清單規則](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)。
 
-   若要一次觸發一個人的即時事件，請瞭解如何[定義智慧型促銷活動的智慧型清單 |觸發器](define-smart-list-for-smart-campaign-trigger.md)。
+   若要一次觸發一個人的即時事件，請瞭解如何[定義智慧型促銷活動的智慧型清單 |觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [定義智慧型促銷活動的智慧型清單 |觸發器](define-smart-list-for-smart-campaign-trigger.md)
-   >    * [新增流量步驟至智慧型促銷活動](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
+   >* [定義智慧型促銷活動的智慧型清單 |觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+   >* [新增流量步驟至智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
