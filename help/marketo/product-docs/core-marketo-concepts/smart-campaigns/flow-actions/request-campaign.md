@@ -3,7 +3,7 @@ unique-page-id: 2951703
 description: 要求促銷活動——行銷人員檔案——產品檔案
 title: 請求促銷活動
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您要將人員放入的促銷活動必須為作用中，且必須有「請求促銷活動[**」觸發器。](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
+>您要將人員放入的促銷活動必須為作用中，且&#x200B;**[「請求促銷活動」為](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**&#x200B;觸發器。
 
 1. 在&#x200B;**Database**&#x200B;中，查找並選擇所需的人員／人員。
 
@@ -44,4 +44,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >使用「請求促銷活動」**觸發器或篩選器，尋找受此流程步驟影響的人員。**
-
