@@ -3,7 +3,7 @@ unique-page-id: 1147001
 description: 使用標準智慧型清單規則邏輯——行銷檔案——產品檔案
 title: 使用標準智慧型清單規則邏輯
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -26,13 +26,20 @@ ht-degree: 0%
 ![](assets/image2014-9-22-14-3a12-3a57.png)
 
 上述智慧型清單的字詞如下：
-`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>`因此，如果某人填寫了&#x200B;**或**&#x200B;表單，則促銷活動會根據後續篩選的**all **或**any **評估該人，視使用的設定而定。
+
+```box
+IF person fills out My Form
+OR
+IF person visits My Page 
+AND 
+Industry is Marketing 
+AND 
+Country is USA 
+THEN follow the campaign's flow step(s)
+```
+
+因此，如果某人填寫了&#x200B;**或**&#x200B;表單，促銷活動就會根據後續篩選器的&#x200B;**all**&#x200B;或&#x200B;**any**&#x200B;來評估該人，視使用的設定而定。
 
 >[!MORELIKETHIS]
 >
->* [使用高級智慧清單規則邏輯](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
-
->
-
-
-
+>[使用高級智慧清單規則邏輯](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
