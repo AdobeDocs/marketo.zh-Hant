@@ -3,7 +3,7 @@ unique-page-id: 1147042
 description: 將資料附加至欄位——行銷人員檔案——產品檔案
 title: 附加資料至欄位
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立促銷活動](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
->
-
-
+>[建立促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
 1. 在&#x200B;**流**&#x200B;頁籤下，拖動&#x200B;**更改資料值**&#x200B;流步驟。
 
@@ -39,5 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-16-3a5-3a12.png)
 
-   就這樣！ 您可以取得創意，並在其中新增多個Token。
-
+就這樣！ 您可以取得創意，並在其中新增多個Token。
