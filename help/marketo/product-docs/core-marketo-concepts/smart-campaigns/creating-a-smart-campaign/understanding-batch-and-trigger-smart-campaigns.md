@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: 瞭解批次和觸發智慧型促銷活動——行銷檔案——產品檔案
 title: 瞭解批次和觸發智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -34,8 +34,7 @@ ht-degree: 0%
 **批次智慧型促銷活動**
 
 * 可以排程重複的時間，例如每日、每週和每月。 您也可以讓他們只執行一次。
-* 在[程式計畫視圖](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)中可見。\
-   *請注意，智慧型促銷活動中「等待」步驟後的任何項目都不會包含在檢視中。
+* 在[程式計畫視圖](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)中可見。 智慧型促銷活動中「等待」步驟後的任何項目都不會包含在檢視中。
 
 <br> 
 
@@ -60,11 +59,6 @@ ht-degree: 0%
 * 無法排程重複執行。 它們只能設定為活動或非活動。
 * 您可以設定多個觸發器。 不過，如果觸發任何觸發器，促銷活動動作就會執行。
 
-## 觀看建立觸發式電子郵件促銷活動的影片{#watch-a-video-on-creating-triggered-email-campaigns}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/6zNazwTgt2LNeCjPAt3W9K.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!TIP]
 >
->使用[活動記錄](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)來查看智慧型促銷活動中的逐步執行。 您可以在人員詳細資料頁面的最後一個標籤中找到活動記錄檔。
-
+>使用[活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)來查看智慧型促銷活動中的逐步執行。 您可以在人員詳細資料頁面的最後一個標籤中找到活動記錄檔。
