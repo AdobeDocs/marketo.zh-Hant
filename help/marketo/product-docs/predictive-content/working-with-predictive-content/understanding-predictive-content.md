@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: 瞭解預測性內容——行銷人員檔案——產品檔案
 title: 瞭解預測性內容
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >視購買日期而定，您的Marketo訂閱可能包含Marketo Predictive Content或Content`<sup>AI</sup>`。 對於使用預測性內容的使用者，Marketo會在2018年4月30日之前啟用「內容`<sup>AI</sup>`分析」功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo Content`<sup>AI</sup>`。
 
-在[核准預測性內容的標題](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)後，您就可在此處處理它。 「預測性內容」頁面會顯示您已針對預測性內容核准的所有標題。
+在[核准預測性內容的標題](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)後，您就可在此處處理它。 「預測性內容」頁面會顯示您已針對預測性內容核准的所有標題。
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
