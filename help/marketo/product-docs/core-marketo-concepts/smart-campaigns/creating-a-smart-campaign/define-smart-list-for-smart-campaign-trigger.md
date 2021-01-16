@@ -3,9 +3,9 @@ unique-page-id: 1146942
 description: 定義智慧型促銷活動的智慧型清單 |觸發器——行銷人員檔案——產品檔案
 title: 定義智慧型促銷活動的智慧型清單 |觸發器
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 透過新增觸發器，讓智慧型促銷活動根據即時事件一次在一個人上執行。
 
-1. 在智慧型促銷活動中，按一下「**智慧型清單**」標籤。
+1. 在智慧型促銷活動中，按一下「智慧型清單」標籤。****
 
    ![](assets/image2014-9-19-16-3a22-3a55.png)
 
@@ -47,16 +47,8 @@ ht-degree: 0%
    >
    >若有多個觸發器，當其中一個觸發器被啟動時，人員就會進入流程。****
 
-   [定義智慧型促銷活動的智慧型清單 |批次](define-smart-list-for-smart-campaign-batch.md)
+若要同時在一組人員上執行促銷活動，請瞭解如何[定義智慧型促銷活動的智慧型清單 | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)。
 
-   >[!NOTE]
-   >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [定義智慧型促銷活動的智慧型清單 |批次](define-smart-list-for-smart-campaign-batch.md)
-   >    * [新增流量步驟至智慧型促銷活動](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
-
-若要同時在一組人員上執行促銷活動，請學習如何。
+>[!MORELIKETHIS]
+>
+>[新增流量步驟至智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
