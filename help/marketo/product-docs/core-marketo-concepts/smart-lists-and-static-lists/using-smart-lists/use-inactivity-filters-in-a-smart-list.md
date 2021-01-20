@@ -3,9 +3,9 @@ unique-page-id: 7511477
 description: 在智慧型清單中使用閒置篩選——行銷人員檔案——產品檔案
 title: 在智慧型清單中使用不活動篩選
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,3 @@ ht-degree: 0%
 1. 選擇&#x200B;**是any**&#x200B;運算子。 這會找出所有在過去30天內未瀏覽過任何頁面的人。
 
    ![](assets/mysmartlist-people.jpg)
-
-   不是那麼容易嗎？
-
