@@ -3,9 +3,9 @@ unique-page-id: 557312
 description: 智慧型清單篩選器運算子辭彙表——行銷人員檔案——產品檔案
 title: 智慧清單過濾器運算子辭彙表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,8 @@ ht-degree: 0%
 
 # 智慧清單過濾器運算子辭彙表{#smart-list-filter-operators-glossary}
 
-運算子是[智慧型清單](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)的一部分，可協助您取得特定資訊。 它可讓您以直接的語言來描述您的篩選或觸發。 每種欄位類型的可用運算子都不同。\
+運算子是智慧型清單的一部分，可協助您獲得特定資訊。 它可讓您以直接的語言來描述您的篩選或觸發。 每種欄位類型的可用運算子都不同。
+
 以下是描述每組運算子的辭彙表。
 
 ## 日期欄位{#date-fields}
@@ -51,7 +52,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在過去的&#x200B;**does**&#x200B;中，您會加入您建立智慧型清單的日期（直到時間，而非之後）。
+>「過去」**does**&#x200B;包含您建立智慧型清單的日期（直到時間，而非之後）。
 
 >[!CAUTION]
 >
@@ -102,7 +103,7 @@ ht-degree: 0%
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">運算元</th> 
-   <th colspan="1" rowspan="1"><p>說明</p></th> 
+   <th colspan="1" rowspan="1">說明</th> 
   </tr> 
  </thead> 
  <tbody> 
