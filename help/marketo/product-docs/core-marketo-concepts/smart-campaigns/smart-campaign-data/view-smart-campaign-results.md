@@ -3,9 +3,9 @@ unique-page-id: 1146968
 description: 檢視智慧型促銷活動結果——行銷人員檔案——產品檔案
 title: 檢視智慧型促銷活動結果
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >按一下「檢視促銷活動成員[」，即可查看智慧型促銷活動所處理的人員清單。](view-smart-campaign-members.md)
+   >按一下「檢視促銷活動成員](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)」，即可查看智慧型促銷活動所處理的人員清單。[
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
    >[!TIP]
    >
-   >您也可以根據活動類型篩選結果。 瞭解如何[篩選智慧型促銷活動結果](filter-smart-campaign-results.md)。
+   >您也可以根據活動類型篩選結果。 瞭解如何[篩選智慧型促銷活動結果](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)。
 
 1. 按一下&#x200B;**ID**&#x200B;以檢視該特定活動的詳細資訊。
 
@@ -35,16 +35,8 @@ ht-degree: 0%
    >
    >通過按一下人員姓名查看人員詳細資訊。
 
-   [將智慧型促銷活動結果匯出至Excel](export-smart-campaign-results-to-excel.md)
+   深入瞭解結果，以瞭解您的促銷活動實際執行的動作，或只是將智慧型促銷活動結果匯出至Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md)。[
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [篩選智慧型促銷活動結果](filter-smart-campaign-results.md)
-   >    * [將智慧型促銷活動結果匯出至Excel](export-smart-campaign-results-to-excel.md)
-
-
-深入瞭解結果，以瞭解您的促銷活動實際做了哪些事，或只是。
+   >[篩選智慧型促銷活動結果](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
