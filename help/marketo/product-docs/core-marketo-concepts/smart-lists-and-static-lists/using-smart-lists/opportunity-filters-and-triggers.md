@@ -3,7 +3,7 @@ unique-page-id: 8159286
 description: 機會篩選與觸發器——行銷檔案——產品檔案
 title: 業務機會篩選器和觸發器
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -80,4 +80,3 @@ ht-degree: 0%
 要觸發業務機會自定義欄位，請使用&#x200B;**Opportunity is Updated**&#x200B;觸發器並選擇下拉式清單中的欄位：
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)
-
