@@ -3,9 +3,9 @@ unique-page-id: 1147062
 description: 在智慧型促銷活動中檢視被封鎖的人員——行銷人員檔案——產品檔案
 title: 在智慧型促銷活動中檢視被封鎖的人員
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Marketo資料庫中被封鎖的人員會標示為封鎖清單、未訂閱、暫�
 
    >[!NOTE]
    >
-   >達到通信限制的人也可能無法接收郵件。 瞭解如何在「管理」區段中編輯通訊限制[。](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
+   >達到通信限制的人也可能無法接收郵件。 瞭解如何在「管理」區段中編輯通訊限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)。[
 
    「已封鎖的人員」標籤會顯示可能未收到郵件的人員。
 
@@ -35,16 +35,12 @@ Marketo資料庫中被封鎖的人員會標示為封鎖清單、未訂閱、暫�
    >
    >營運電子郵件將會傳送給標示為未訂閱且行銷暫停的使用者。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [編輯資格規則](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
-   >    * [啟用通訊限制](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
-   >    * [檢視智慧型促銷活動成員](view-smart-campaign-members.md)
-   >    * [在智慧型促銷活動中檢視合格人員](view-qualified-people-in-a-smart-campaign.md)
+   >* [編輯資格規則](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
+   >* [啟用通訊限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
+   >* [檢視智慧型促銷活動成員](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+   >* [在智慧型促銷活動中檢視合格人員](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
 
 
 給你！ 您現在可以知道誰可能沒有收到郵件。
