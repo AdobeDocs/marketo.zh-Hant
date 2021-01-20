@@ -3,7 +3,7 @@ unique-page-id: 1147070
 description: 將智慧型促銷活動結果匯出至Excel —— 行銷人員檔案——產品檔案
 title: 將智慧型促銷活動結果匯出至Excel
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -24,4 +24,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >匯出限制為20,000列。 Excel檔案會儲存在瀏覽器的預設下載檔案夾中。
-
