@@ -3,7 +3,7 @@ unique-page-id: 7514027
 description: 將人員同步至Microsoft —— 行銷人員檔案——產品檔案
 title: 將人員同步至Microsoft
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >使用「將人員同步至Microsoft」流動動作（僅在觸發促銷活動中）時，銷售機會／連絡人會在Dynamics中即時建立。
-
