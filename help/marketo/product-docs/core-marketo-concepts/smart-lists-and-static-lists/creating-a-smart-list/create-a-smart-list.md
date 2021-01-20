@@ -3,9 +3,9 @@ unique-page-id: 557154
 description: 建立智慧型清單——行銷人員檔案——產品檔案
 title: 建立智慧清單
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,8 @@ ht-degree: 0%
    ![](assets/login-marketing-activities.png)
 
 1. 選擇要在中建立智慧清單的程式。
-1. ![這是個測試](assets/image2014-8-11-10-3a17-3a8.png)
+
+   ![](assets/image2014-8-11-10-3a17-3a8.png)
 
 1. 在&#x200B;**New**&#x200B;下，按一下&#x200B;**New Local Asset**。
 
@@ -34,13 +35,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 
-   >[!NOTE]
-   >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [尋找並新增篩選器至智慧型清單](find-and-add-filters-to-a-smart-list.md)
+   幹得好！ 現在，讓我們新增並定義一些篩選器。
 
-
-幹得好！ 現在，讓我們新增並定義一些篩選器。
+   >[!MORELIKETHIS]
+   >
+   >[尋找並新增篩選器至智慧型清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
