@@ -3,7 +3,7 @@ unique-page-id: 2949413
 description: 新增限制至智慧型清單篩選——行銷人員檔案——產品檔案
 title: 將約束添加到智慧清單過濾器
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 # 將約束添加到智慧清單過濾器{#add-a-constraint-to-a-smart-list-filter}
 
-在建立智慧型清單時，有些篩選器有稱為*constraints的進階選項。 *您可以將這些額外條件新增至篩選器和觸發器，以進一步縮小搜尋範圍。
+建立智慧型清單時，有些篩選器有稱為「約束」的進階選項。 這些是您可新增至篩選和觸發器的額外條件，可協助您進一步縮小搜尋範圍。
 
-在此示例中，讓我們將一些約束添加到** [資料值更改](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**篩選器中，以查找狀態從MQL更改為SQL的人。
+在此示例中，讓我們將一些約束添加到&#x200B;**[資料值已更改](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**&#x200B;篩選器中，以查找狀態從MQL更改為SQL的人員。
 
 >[!PREREQUISITES]
 >
->* [建立智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [在智慧型清單中使用「資料值變更」篩選](use-the-data-value-changed-filter-in-a-smart-list.md)
+>* [建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [在智慧型清單中使用「資料值變更」篩選](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
 
 >
 
@@ -51,4 +51,3 @@ ht-degree: 0%
    ![](assets/six.png)
 
 1. 幹得漂亮！ 按一下&#x200B;**People**&#x200B;頁籤可查看在過去30天中具有&#x200B;**Status**&#x200B;從&#x200B;**MQL**&#x200B;更改為&#x200B;**SQL**&#x200B;的所有人員。
-
