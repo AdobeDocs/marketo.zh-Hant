@@ -3,7 +3,7 @@ unique-page-id: 4720377
 description: 跨工作區參考清單或智慧型清單——行銷人員檔案——產品檔案
 title: 跨工作區參考清單或智慧型清單
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/four-3.png)
 
-1. 選擇要共用的**工作區**。 選擇&#x200B;**保存**。
+1. 選擇要與共用的&#x200B;**工作區**。 選擇&#x200B;**保存**。
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
@@ -50,4 +50,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >在「行銷活動」中，您只能共用頂層資料夾。 在資料庫中，您可以共用頂層資料夾以及向下一層。
-
