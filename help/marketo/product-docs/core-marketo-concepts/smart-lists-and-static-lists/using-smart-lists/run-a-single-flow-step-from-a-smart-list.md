@@ -3,7 +3,7 @@ unique-page-id: 557322
 description: 從智慧型清單——行銷人員檔案——產品檔案執行單一流程步驟
 title: 從智慧型清單執行單一流程步驟
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. 前往&#x200B;**行銷活動**。
 
@@ -35,7 +31,7 @@ ht-degree: 0%
    >
    >靜態清單和智慧清單都具有此功能。
 
-1. 按一下「**選擇全部**」。 您也可以使用** Ctrl/Cmd**，然後按一下以手動方式選取幾個記錄。
+1. 按一下「**選擇全部**」。 您也可以使用&#x200B;**Ctrl/Cmd**，然後按一下以手動方式選取幾個記錄。
 
    ![](assets/smartlist-selectallhand.png)
 
@@ -43,7 +39,7 @@ ht-degree: 0%
    >
    >如果結果跨多頁，按一下「全選&#x200B;**」將會選取所有頁面上的所有人。**
 
-1. 在&#x200B;**Person** **Actions**&#x200B;下，選擇您選擇的流程步驟。 在此示例中，我們將使用[更改資料值](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)。
+1. 在&#x200B;**Person** **Actions**&#x200B;下，選擇您選擇的流程步驟。 在此示例中，我們將使用[更改資料值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)。
 
    ![](assets/personactions-hands.png)
 
