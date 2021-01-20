@@ -3,7 +3,7 @@ unique-page-id: 1147031
 description: 從SFDC刪除人員——行銷人員文檔——產品文檔
 title: 從SFDC刪除人員
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -36,4 +36,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >如果您在Marketo中將&#x200B;**Delete**&#x200B;設為&#x200B;**true**，並將人員從Marketo和Salesforce中刪除，則他們將永遠消失。 這是無法復原的。
-
