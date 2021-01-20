@@ -3,7 +3,7 @@ unique-page-id: 1146966
 description: 在智慧型促銷活動中檢視合格人員——行銷人員檔案——產品檔案
 title: 在智慧型促銷活動中檢視合格人員
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -33,17 +33,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >合格人數也取決於智慧型促銷活動資格規則。 瞭解如何[編輯資格規則](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)。
+   >合格人數也取決於智慧型促銷活動資格規則。 瞭解如何[編輯資格規則](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)。
 
 真貼心！ 您可以使用這個清單來檢查哪些人在執行智慧型促銷活動之前可能會瀏覽流程。
 
 >[!MORELIKETHIS]
 >
->* [檢視智慧型促銷活動成員](view-smart-campaign-members.md)
->* [在智慧型促銷活動中檢視被封鎖的人員](view-blocked-people-in-a-smart-campaign.md)
->* [新增流量步驟至智慧型促銷活動](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
->
-
-
+>* [檢視智慧型促銷活動成員](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+>* [在智慧型促銷活動中檢視被封鎖的人員](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
+>* [新增流量步驟至智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
