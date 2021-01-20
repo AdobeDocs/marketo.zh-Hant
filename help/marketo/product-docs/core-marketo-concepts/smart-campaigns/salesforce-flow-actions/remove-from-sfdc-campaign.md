@@ -3,7 +3,7 @@ unique-page-id: 1147036
 description: 從SFDC促銷活動中刪除——行銷人員文檔——產品文檔
 title: 從SFDC促銷活動中移除
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 概述{#overview}
 
-就像您可以如何[添加到SFDC促銷活動](add-to-sfdc-campaign.md)和[更改SFDC促銷活動的狀態](change-status-in-sfdc-campaign.md)一樣，您也可以從Salesforce促銷活動中刪除人員或潛在客戶。
+就像您可以如何[添加到SFDC促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)和[更改SFDC促銷活動的狀態](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)一樣，您也可以從Salesforce促銷活動中刪除人員或潛在客戶。
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
