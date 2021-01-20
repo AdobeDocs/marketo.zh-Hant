@@ -3,7 +3,7 @@ unique-page-id: 1147068
 description: 篩選智慧型促銷活動結果——行銷人員檔案——產品檔案
 title: 篩選智慧型促銷活動結果
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [檢視智慧型促銷活動結果](view-smart-campaign-results.md)
-
->
-
-
+>[檢視智慧型促銷活動結果](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
 
 篩選智慧型促銷活動結果，以查看對您而言重要的特定活動。
 
@@ -51,9 +47,8 @@ ht-degree: 0%
 
    ![](assets/saveasfilter-hands.png)
 
-1. 自訂篩選器將套用至您的結果，現在可在下拉式清單中使用。 （您可能需要重新整理頁面才能在下拉式清單中查看頁面。）
+1. 自訂篩選器將套用至您的結果，現在可在下拉式清單中使用（您可能需要重新整理頁面才能在下拉式清單中查看）。
 
    ![](assets/customfilter-hands.png)
 
    這不酷嗎？ 您的自訂篩選現在可用於所有活動記錄檔。
-
