@@ -3,7 +3,7 @@ unique-page-id: 1146901
 description: 使用進階智慧型清單規則邏輯——行銷檔案——產品檔案
 title: 使用高級智慧清單規則邏輯
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [尋找並新增篩選器至智慧型清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [定義智慧清單篩選器](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
-
->
-
+>* [尋找並新增篩選器至智慧型清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [定義智慧清單篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
 
 >[!NOTE]
@@ -30,11 +27,11 @@ ht-degree: 0%
 
 ## 將邏輯添加到智慧清單{#add-logic-to-a-smart-list}
 
-根據預設，您的智慧型清單會找到符合&#x200B;**ALL**&#x200B;濾鏡（濾鏡1 *和* 2 *和* 3）的人員。 您可以變更規則邏輯，以尋找符合已定義篩選器（篩選器1 *或* 2 *或* 3）之&#x200B;**ANY**&#x200B;的訪客，或使用進階篩選器（篩選器1 *和* 2 *或*3）。
+根據預設，您的智慧型清單會找到符合&#x200B;**ALL**&#x200B;濾鏡（濾鏡1 _和_ 2 _和_ 3）的人員。 您可以變更規則邏輯，以尋找符合已定義篩選器（篩選器1 _或_ 2 _或_ 3）的&#x200B;**ANY**&#x200B;的人，或使用進階篩選器（篩選器1 _和_ 2 _或_ 3）。
 
-在此範例中，假設您想要在加州找到&#x200B;*和*，分數至少為50分&#x200B;*或*&#x200B;且狀態為「銷售合格」的人。
+在此範例中，假設您想要在加州找到&#x200B;_和_，分數至少為50分&#x200B;_或_&#x200B;且狀態為「銷售合格」的人。
 
-1. 從下拉式清單中選取「使用&#x200B;******進階****篩選器**」。
+1. 從下拉式清單中選取「使用進階篩選器&#x200B;**」。**
 
    ![](assets/one.png)
 
@@ -42,7 +39,7 @@ ht-degree: 0%
    >
    >使用&#x200B;**Advanced**&#x200B;篩選器可減少使用智慧清單成員篩選器建立智慧清單的需要。 這有助於優化效能。
 
-1. **Advanced** **filters**&#x200B;文字方塊將顯示&quot;and&quot;作為所有篩選器之間的預設值。
+1. **進階篩選器**&#x200B;文字方塊會顯示&quot;and&quot;，作為所有篩選器之間的預設值。
 
    ![](assets/two-2.png)
 
@@ -73,4 +70,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >如果您輸入無效的規則，您會看到規則下方顯示紅線。 捲動至文字上，以檢視相關的錯誤訊息。
-
