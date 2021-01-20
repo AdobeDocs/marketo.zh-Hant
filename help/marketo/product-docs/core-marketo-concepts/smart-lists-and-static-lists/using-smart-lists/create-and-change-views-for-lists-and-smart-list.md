@@ -3,7 +3,7 @@ unique-page-id: 557337
 description: 建立和變更清單和智慧型清單的檢視——行銷檔案——產品檔案
 title: 建立和更改清單和智慧清單的視圖
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -18,13 +18,14 @@ ht-degree: 0%
 ## 建立視圖{#create-a-view}
 
 1. 轉至清單或智慧清單，按一下&#x200B;**People**&#x200B;頁籤，然後按一下&#x200B;**View**&#x200B;下拉式清單中的&#x200B;**Create****View**。
-1. ![](assets/smartlist-createview.png)
+
+   ![](assets/smartlist-createview.png)
 
 1. 命名視圖並查找要添加或刪除的列。
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-   新增／移除您想要的欄，然後按一下「建立」。
+1. 新增／移除您想要的欄，然後按一下&#x200B;**Create**。
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
@@ -56,8 +57,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
-
-
 ## 刪除視圖{#delete-a-view}
 
 1. 從&#x200B;**View**&#x200B;下拉式清單中，為要刪除的檢視選擇&#x200B;**Edit**&#x200B;選項。
@@ -72,10 +71,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用內置／系統智慧清單](use-built-in-system-smart-lists.md)
->* [建立智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>* [使用內置／系統智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
+>* [建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
