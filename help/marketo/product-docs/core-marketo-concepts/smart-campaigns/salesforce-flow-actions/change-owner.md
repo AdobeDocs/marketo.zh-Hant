@@ -3,7 +3,7 @@ unique-page-id: 1147021
 description: 變更擁有者——行銷人員檔案——產品檔案
 title: 變更擁有者
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
    >1. 當連絡人同步至Salesforce時，Marketo只會建立重複的銷售機會&#x200B;****。 換言之，如果您使用&#x200B;**[將人員同步至SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**&#x200B;流程步驟與`AssignTo=<a lead queue>`,Marketo將在Salesforce中建立重複的銷售線索，並將其指派至銷售線索佇列。
       >
       >
-   2. 如果您嘗試在連絡人上使用&#x200B;**變更擁有者**&#x200B;流程步驟，Salesforce中將不會建立任何重複項目。
+   1. 如果您嘗試在連絡人上使用&#x200B;**變更擁有者**&#x200B;流程步驟，Salesforce中將不會建立任何重複項目。
 
 
    >[!NOTE]
