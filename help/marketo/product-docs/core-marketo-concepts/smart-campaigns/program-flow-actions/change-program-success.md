@@ -3,7 +3,7 @@ unique-page-id: 1147009
 description: 變更計畫成功——行銷人員檔案——產品檔案
 title: 變更計畫成功
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. 選擇&#x200B;**Success**&#x200B;或** Success Date**作為屬性。
+1. 選擇&#x200B;**Success**&#x200B;或&#x200B;**Success Date**&#x200B;作為屬性。
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
