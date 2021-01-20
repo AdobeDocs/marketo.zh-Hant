@@ -3,9 +3,9 @@ unique-page-id: 1147015
 description: 變更參與計畫串流——行銷人員檔案——產品檔案
 title: 變更參與計畫串流
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 概述{#overview}
 
-通常您會使用[串流轉換規則](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)來達成此目的，但如果您想要手動將人員從一個串流移至另一個串流，則需使用此流程步驟。
+通常您會使用[串流轉換規則](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)來達成此目的，但如果您想要手動將人員從一個串流移至另一個串流，則需使用此流程步驟。
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
@@ -29,9 +29,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a52-3a50.png)
 
-1. 然後選取您要新增人員的串流。
+1. 選取您要新增人員的串流。
 
    ![](assets/image2014-9-22-14-3a52-3a59.png)
 
-   就這樣！
-
+就這樣！
