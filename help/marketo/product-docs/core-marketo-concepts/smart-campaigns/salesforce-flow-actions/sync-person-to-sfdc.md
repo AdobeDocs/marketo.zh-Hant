@@ -3,7 +3,7 @@ unique-page-id: 1147027
 description: 將人員同步至SFDC —— 行銷人員文檔——產品文檔
 title: 將人員同步到SFDC
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -42,4 +42,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >Salesforce不允許將「連絡人」指派給銷售線索佇列。 在這種情況下，Marketo會在Salesforce中建立重複的「銷售機會」。
-
