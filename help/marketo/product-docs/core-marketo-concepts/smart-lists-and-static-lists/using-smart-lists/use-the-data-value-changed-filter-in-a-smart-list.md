@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: 在智慧型清單——行銷人員檔案——產品檔案中使用資料值變更的篩選
 title: 在智慧型清單中使用資料值變更的篩選
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. 前往**行銷活動**區域。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
    ![](assets/ma.png)
 
@@ -39,15 +35,4 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-此篩選器會尋找對狀態有變更（任何變更）的所有人。 如果您想要更花哨，請嘗試將約束添加到智慧清單過濾器[。](add-a-constraint-to-a-smart-list-filter.md)
-
->[!NOTE]
->
->**相關文章**
->
->* [將約束添加到智慧清單過濾器](add-a-constraint-to-a-smart-list-filter.md)
-
->
-
-
-
+此篩選器會尋找對狀態有變更（任何變更）的所有人。 如果您想要更花哨，請嘗試將約束添加到智慧清單過濾器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)。[
