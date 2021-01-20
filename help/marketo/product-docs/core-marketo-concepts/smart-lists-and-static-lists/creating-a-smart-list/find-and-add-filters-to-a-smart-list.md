@@ -3,7 +3,7 @@ unique-page-id: 557273
 description: 尋找並新增篩選器至智慧型清單——行銷人員檔案——產品檔案
 title: 尋找並新增篩選器至智慧型清單
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 查找過濾器並將其添加到智慧清單{#find-and-add-filters-to-a-smart-list}
 
-在[建立智慧型清單後，您需要新增和[定義](define-smart-list-filters.md)篩選器。 ](create-a-smart-list.md)以下是如何尋找和新增篩選器。
+在[建立智慧型清單後，您需要新增和[定義](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)篩選器。 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)以下是如何尋找和新增篩選器。
 
 在此範例中，讓我們尋找加州所有得分超過50的人。
 
@@ -41,10 +41,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [建立智慧清單](create-a-smart-list.md)
->* [定義智慧清單篩選器](define-smart-list-filters.md)
-
->
-
-
+>* [建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [定義智慧清單篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
