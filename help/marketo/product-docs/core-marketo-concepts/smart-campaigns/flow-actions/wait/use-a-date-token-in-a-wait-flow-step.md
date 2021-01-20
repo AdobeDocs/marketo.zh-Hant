@@ -3,9 +3,9 @@ unique-page-id: 1146997
 description: 在等待流程步驟中使用日期Token —— 行銷人員檔案——產品檔案
 title: 在等待流程步驟中使用日期Token
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -56,15 +56,12 @@ ht-degree: 0%
    >
    >您也可以使用`{{lead.`或`{{company.`代表整數欄位的Token，或`{{my.`數字類型的Token來指定天數。
 
-1. 按一下「儲存」。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
-   >
-   >* [在等待流程步驟中使用持續時間](use-a-duration-in-a-wait-flow-step.md)
-   >* [在等待流程步驟中使用特定日期](use-a-specific-date-in-a-wait-flow-step.md)
-
+   >* [在等待流程步驟中使用持續時間](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
+   >* [在等待流程步驟中使用特定日期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
 
