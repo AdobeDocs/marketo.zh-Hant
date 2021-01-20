@@ -3,7 +3,7 @@ unique-page-id: 1147029
 description: SFDC促銷活動中的更改狀態——行銷文檔——產品文檔
 title: 更改SFDC促銷活動中的狀態
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -31,7 +31,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. 然後，選擇要設定的&#x200B;**New****Status**，您就完成了！
+1. 然後，選擇要設定的&#x200B;**新狀態**，您就完成了！
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
-
