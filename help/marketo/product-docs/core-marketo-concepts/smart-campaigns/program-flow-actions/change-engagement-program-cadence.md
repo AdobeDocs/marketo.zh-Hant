@@ -3,7 +3,7 @@ unique-page-id: 1147013
 description: 變更參與計畫卡登——行銷人員檔案——產品檔案
 title: 變更參與計畫節目
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   如果您希望對方再次開始接收內容，可以將對方設回&#x200B;**Normal**。
-
+如果您希望對方再次開始接收內容，可以將對方設回&#x200B;**Normal**。
