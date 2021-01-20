@@ -3,7 +3,7 @@ unique-page-id: 1147011
 description: 新增至參與計畫——行銷人員檔案——產品檔案
 title: 新增至參與計畫
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -32,4 +32,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >您不能將人員添加到同一程式中的多個流。
-
