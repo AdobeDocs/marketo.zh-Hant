@@ -3,9 +3,9 @@ unique-page-id: 2949891
 description: 瞭解靜態清單——行銷檔案——產品檔案
 title: 瞭解靜態清單
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -28,15 +28,15 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->最常見的錯誤之一，就是認為只要「刪除人」，就可以從清單中移除人。 **這是錯的。** 刪除人員將從整個資料庫 **中刪除這些資料**，而不只是清單。
+>最常見的錯誤之一，就是認為只要「刪除人」，就可以從清單中移除人。 **這是錯的**。刪除該人員將從整個資料庫&#x200B;**中刪除它們，而不只是從清單中刪除。**
 
 ## 從清單{#ways-to-add-remove-people-from-a-list}中添加／刪除人員的方法
 
-1. 智慧型促銷活動流程步驟（[新增至清單](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)、[從清單中移除](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)）
+1. 智慧型促銷活動流程步驟（[新增至清單](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)、[從清單中移除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)）
 
-1. [單一動作流程步驟](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
+1. [單一動作流程步驟](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
 1. 將人們拖曳到樹狀結構的清單中
-1. [清單匯入](../../../../getting-started/quick-wins/import-a-list-of-people.md)
+1. [清單匯入](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 ## 靜態清單{#some-uses-of-a-static-list}的某些用途
 
@@ -48,5 +48,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[建立靜態清單](https://docs.marketo.com/x/ecKt)
-
+>[建立靜態清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
