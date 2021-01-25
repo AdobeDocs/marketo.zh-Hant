@@ -3,9 +3,9 @@ unique-page-id: 5472404
 description: 找出人員活動記錄——行銷檔案——產品檔案
 title: 查找人員的活動日誌
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 活動日誌是真相的終極來源。 這是一個人在Marketo旅程的完整故事。
 
-1. 轉到**資料庫**。
+1. 轉至&#x200B;**Database**。
 
    ![](assets/db-2.png)
 
@@ -35,10 +35,6 @@ ht-degree: 0%
 
    ![](assets/five-2.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
-   >
-   >
-   >進一步瞭解[篩選活動記錄以查看特定人員活動。](filter-activity-types-in-the-activity-log-of-a-person.md)
-
+   >進一步瞭解[篩選活動記錄以查看特定人員活動。](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)
