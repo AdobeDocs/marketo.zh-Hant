@@ -3,9 +3,9 @@ unique-page-id: 1147152
 description: 在計畫中仿製資產——行銷人員檔案——產品檔案
 title: 在程式中複製資產
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 在程式{#clone-an-asset-in-a-program}中克隆資產
 
-克隆程式克隆&#x200B;*everything*。 有時候，您只想複製一個資產。 這是方法。
+克隆程式克隆&#x200B;_everything_。 有時候，您只想複製一個資產。 這是方法。
 
 >[!NOTE]
 >
->您需要執行其他步驟來複製著陸頁面測試群組[。](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md)
+>您需要執行其他步驟來複製著陸頁面測試群組](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md)。[
 
 ## 複製本機資產{#clone-a-local-asset}
 
@@ -47,10 +47,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [克隆程式](clone-a-program.md)
-
-
+   >[克隆程式](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)
