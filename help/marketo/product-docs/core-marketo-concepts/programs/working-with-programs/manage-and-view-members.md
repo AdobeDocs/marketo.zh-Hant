@@ -3,9 +3,9 @@ unique-page-id: 1147122
 description: 管理和檢視會員——行銷檔案——產品檔案
 title: 管理和查看成員
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深入探討**
->
-> 深入瞭解[方案會籍](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)。
+>深入瞭解[方案會籍](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)。
 
 ## 搜索成員{#search-for-a-member}
 
@@ -41,21 +39,21 @@ ht-degree: 0%
 
 ## 管理成員網格{#manage-columns-in-the-members-grid}中的列
 
-* 拖放欄以變更其順序。 藍色箭頭對指示列將移至何處。
+拖放欄以變更其順序。 藍色箭頭對指示列將移至何處。
 
-   ![](assets/image2014-10-1-16-3a25-3a30.png)
+![](assets/image2014-10-1-16-3a25-3a30.png)
 
-* 以滑鼠右鍵按一下欄標題，以字母順序排序（遞增或遞減）。
+以滑鼠右鍵按一下欄標題，以字母順序排序（遞增或遞減）。
 
-   ![](assets/image2014-10-1-17-3a3-3a28.png)
+![](assets/image2014-10-1-17-3a3-3a28.png)
 
 ## 選擇在網格{#choose-which-columns-are-visible-in-the-grid}中顯示哪些列
 
-1. 按一下「**檢視**」下拉式清單，然後選取「建立檢視」。****
+1. 按一下&#x200B;**視圖**&#x200B;下拉式清單並選擇&#x200B;**建立視圖**。
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. 為您的自訂檢視命名。 選擇列標題。 按一下**添加&#x200B;**和**&#x200B;刪除**以移動列並建立視圖。
+1. 為您的自訂檢視命名。 選擇列標題。 按一下&#x200B;**添加**&#x200B;和&#x200B;**刪除**&#x200B;以移動列並建立視圖。
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -89,9 +87,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [建立方案績效報告](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
-
->
-
-
-
+>[建立方案績效報告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
