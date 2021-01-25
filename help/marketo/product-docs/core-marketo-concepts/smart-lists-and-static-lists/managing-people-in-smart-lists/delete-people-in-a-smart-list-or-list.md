@@ -3,7 +3,7 @@ unique-page-id: 1146897
 description: 刪除智慧型清單或清單中的人員——行銷人員檔案——產品檔案
 title: 刪除智慧型清單或清單中的人員
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -17,13 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. 前往&#x200B;**Marketing** **Activity**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/ma-1.png)
 
@@ -35,19 +31,19 @@ ht-degree: 0%
    >
    >刪除人員時，您不只是將他們從清單中刪除，而是將他們從資料庫中完全刪除。
 
-1. 按一下「**選擇** **全部**」。 您也可以使用Ctrl/Cmd並按一下，手動挑選幾個記錄。
+1. 按一下「**選擇全部**」。 您也可以使用Ctrl/Cmd並按一下，手動挑選幾個記錄。
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >如果結果跨多頁，按一下「選擇&#x200B;******所有**」將會選擇所有頁面上的所有人員。
+   >如果結果跨多頁，按一下「全選&#x200B;**」將會選取所有頁面上的所有人。**
 
-1. 若要完全移除Marketo中的人員，請按一下「刪除&#x200B;******Person**」。
+1. 若要完全移除Marketo中的人員，請按一下「刪除人員」。****
 
    ![](assets/four-1.png)
 
-1. 如果您也想從CRM中刪除記錄，請將&#x200B;**Remove****從****CRM**&#x200B;設定為&#x200B;**true**。
+1. 如果您也想從CRM中刪除記錄，請將&#x200B;**從CRM**&#x200B;移除至&#x200B;**true**。
 
    ![](assets/five.png)
 
@@ -59,7 +55,7 @@ ht-degree: 0%
    >
    >如果您的Marketo未系結至CRM，則選項會像螢幕擷取中一樣呈灰色顯示。
 
-1. 按一下&#x200B;**運行** **Now**。
+1. 按一下&#x200B;**立即運行**。
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
@@ -72,4 +68,3 @@ ht-degree: 0%
    >要查看成批刪除的結果，請在螢幕右上角的「單流操作」彈出框中按一下「查看結果」。 ****&#x200B;刪除時間可能會因多種因素而大不相同。
 
    這是絕佳的功能，使用時要小心！
-
