@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: 使用人員詳細資料頁面——行銷人員檔案——產品檔案
 title: 使用人員詳細資訊頁
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,15 @@ ht-degree: 0%
 
 ## Getting to Person Detail Page {#getting-to-person-detail-page}
 
-有許多方式可以開放特定的人。 以下列出一些範例。
+有許多方式可以開放特定的人。 例如：
 
->[!NOTE]
->
->**範例**
->
->* 從&#x200B;**Database**&#x200B;中，可以在「快速查找」中搜索
->* 任何智慧型&#x200B;**list**&#x200B;或list
->* **方** 案會員表
->* **在智慧型促銷** 活動中檢視促銷活動會籍
->* 部分&#x200B;**報告**
+* 從&#x200B;**Database**&#x200B;中，可以在「快速查找」中搜索
+* 任何智慧型&#x200B;**list**&#x200B;或list
+* **方** 案會員表
+* **在智慧型促銷** 活動中檢視促銷活動會籍
+* 部分&#x200B;**報告**
 
->
-
-
+   <br> 
 
 1. 按兩下任何人，或按一下左側的ID。
 
@@ -96,9 +90,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深入探討**
->
->有些欄位為&#x200B;*not*&#x200B;可編輯：
+>有些欄位為&#x200B;_not_&#x200B;可編輯：
 >
 >* 公司資訊
 >* SFDC聯繫人的機會
@@ -107,13 +99,8 @@ ht-degree: 0%
 
 >
 >
-進一步瞭解[系統管理欄位](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)。
+進一步瞭解[系統管理欄位](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md)。
 
 >[!MORELIKETHIS]
 >
->* [為「人員詳細資訊」頁建立自定義標籤](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-
->
-
-
-
+>[為「人員詳細資訊」頁建立自定義標籤](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
