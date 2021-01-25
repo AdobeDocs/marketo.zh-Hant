@@ -3,7 +3,7 @@ unique-page-id: 1147120
 description: 從試算表將會員匯入方案——行銷檔案——產品檔案
 title: 從試算表將成員匯入方案
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >將日期匯入日期欄位時，請使用下列格式：9/23/13（月／日/年）。
+   >將日期匯入日期欄位時，請使用下列格式：9/29/13（月／日/年）。
 
 ## 將您的CSV匯入Marketo {#import-your-csv-into-marketo}
 
@@ -65,9 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [管理和查看成員](manage-and-view-members.md)
-
->
-
-
-
+>[管理和查看成員](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
