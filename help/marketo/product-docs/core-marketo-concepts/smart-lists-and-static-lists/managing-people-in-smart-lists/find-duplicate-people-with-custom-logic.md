@@ -3,7 +3,7 @@ unique-page-id: 2952636
 description: 使用自訂邏輯尋找重複人員——行銷檔案——產品檔案
 title: 使用自訂邏輯尋找重複人員
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -17,21 +17,17 @@ Marketo有系統智慧清單，可比對其電子郵件地址以找出重複的�
 
 >[!PREREQUISITES]
 >
->* [建立智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. 前往「行銷活動」區域。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
 ![](assets/ma-2.png)
 
-1. 選擇智慧清單，按一下智慧清單頁籤。
+1. 選擇智慧清單，按一下&#x200B;**智慧清單**&#x200B;頁籤。
 
    ![](assets/two-4.png)
 
-1. 尋找並拖曳「複製欄位」篩選器至畫布。
+1. 尋找&#x200B;**複製欄位**&#x200B;篩選器並拖曳至畫布。
 
    ![](assets/three-4.png)
 
@@ -45,4 +41,3 @@ Marketo有系統智慧清單，可比對其電子郵件地址以找出重複的�
    ![](assets/four-2.png)
 
    完成！ 執行智慧型清單，在先前選取的欄位中尋找具有相同值的人。
-
