@@ -3,9 +3,9 @@ unique-page-id: 2952402
 description: 篩選人員活動記錄中的活動類型——行銷人員檔案——產品檔案
 title: 篩選人員活動日誌中的活動類型
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深入探討**
->
->進一步瞭解[活動日誌](locate-the-activity-log-for-a-person.md)。
+>進一步瞭解[活動日誌](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)。
 
 1. 轉至&#x200B;**人員詳細資訊**&#x200B;頁。 按一下&#x200B;**活動日誌**&#x200B;頁籤。
 
@@ -58,4 +56,3 @@ ht-degree: 0%
 1. 按一下「**保存的過濾器**」。 已儲存的篩選器列於下方。
 
    ![](assets/eight.png)
-
