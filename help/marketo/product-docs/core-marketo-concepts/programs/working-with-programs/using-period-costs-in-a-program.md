@@ -3,9 +3,9 @@ unique-page-id: 1147118
 description: 在計畫中使用期間成本——行銷文檔——產品文檔
 title: 在計畫中使用期間成本
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # 在方案中使用期間成本{#using-period-costs-in-a-program}
 
-[期間成本](understanding-period-costs.md)是您在計畫上花費的金額。 它可持續一個或多個月，用於報告投資報酬率。
-
->[!NOTE]
->
->**深入探討**
->
-> 進一步瞭解[收入週期分析](http://docs.marketo.com/display/docs/revenue+cycle+analytics)。
+[期間成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)是您在計畫上花費的金額。 它可持續一個或多個月，用於報告投資報酬率。
 
 ## 添加期間成本{#add-a-period-cost}
 
@@ -54,7 +48,8 @@ ht-degree: 0%
 ## 編輯期間成本{#edit-a-period-cost}
 
 1. 如果您花的錢比原先預計的多或少，則可編輯期間成本。
-1. 前往您方案的**設定**標籤。
+
+1. 轉到程式的&#x200B;**Setup**&#x200B;頁籤。
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
@@ -76,17 +71,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. 按一下**刪除**以確認。
+1. 按一下&#x200B;**Delete**&#x200B;確認。
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [瞭解期間成本](understanding-period-costs.md)
->* [收入週期分析](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
->* [按期間成本篩選方案報表](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
->
-
-
+>* [瞭解期間成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
+>* [按期間成本篩選方案報表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
