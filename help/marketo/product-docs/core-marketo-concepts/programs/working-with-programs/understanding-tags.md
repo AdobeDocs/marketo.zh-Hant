@@ -3,9 +3,9 @@ unique-page-id: 1147112
 description: 瞭解標籤——行銷檔案——產品檔案
 title: 瞭解標籤
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -23,16 +23,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您想要建立自訂標籤，請洽詢您的[行銷人員管理員](http://docs.marketo.com/display/DOCS/Create+Custom+Tags)。
+>如果您想要建立自訂標籤，請洽詢您的[行銷人員管理員](/help/marketo/product-docs/administration/tags/create-custom-tags.md)。
 
 >[!NOTE]
 >
 >**範例**
 >
 >* 標籤類型=程式所有者
-
->
-
 
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
@@ -47,38 +44,26 @@ ht-degree: 0%
 >
 >* 標籤值= Anna、Arun、Reza
 
->
-
-
 
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
 ## 通道{#channel}
 
-渠道用於報告[成員](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)在程式中的移動情況。 每個渠道都有一組晉升狀態和一個設定為相等成功的狀態。
+渠道用於報告[成員](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)在程式中的移動情況。 每個渠道都有一組晉升狀態和一個設定為相等成功的狀態。
 
 >[!NOTE]
 >
 >**範例**
 >
 >* 頻道= Roadshow
-   >
-   >
-* 晉升狀態=已邀請、已註冊、已參加、無顯示
+>* 晉升狀態=已邀請、已註冊、已參加、無顯示
 >* 成功=已參加
-
->
-
 
 
 ![](assets/image2015-2-5-16-3a57-3a59.png)
 
 >[!MORELIKETHIS]
 >
->* [建立自訂標籤](../../../../product-docs/administration/tags/create-custom-tags.md)
->* [建立方案渠道](../../../../product-docs/administration/tags/create-a-program-channel.md)
-
->
-
-
+>* [建立自訂標籤](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
+>* [建立方案渠道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
 
