@@ -3,7 +3,7 @@ unique-page-id: 557329
 description: 從清單或智慧型清單匯出人員至Excel —— 行銷人員檔案——產品檔案
 title: 從清單或智慧型清單將人員匯出至Excel
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -54,4 +54,3 @@ ht-degree: 0%
    >[!TIP]
    >
    >只要按清單的刷新按鈕，就可以撤消清單的快取。
-
