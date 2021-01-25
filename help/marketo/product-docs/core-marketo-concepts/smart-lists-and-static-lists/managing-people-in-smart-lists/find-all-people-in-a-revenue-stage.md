@@ -3,7 +3,7 @@ unique-page-id: 557331
 description: 在收入階段尋找所有人——行銷檔案——產品檔案
 title: 在收入階段中尋找所有人
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 ## 查找特定收入階段{#find-all-members-of-a-specific-revenue-stage}的所有成員
 
-1. 在智慧型清單中，按一下「智慧型清單」**標籤，尋找「收入階段」(**Revenue Stage)篩選器，並將它拖曳至畫布中。**
+1. 在智慧型清單中，按一下「智慧型清單」標籤，尋找「收入階段」篩選器，並將它拖曳至畫布中。********
 
    ![](assets/draginrevenuefilter.png)
 
@@ -44,4 +40,3 @@ ht-degree: 0%
    ![](assets/six.png)
 
    您可以從中選擇哪些成員受流程步驟的哪個方面的影響。 好玩！
-
