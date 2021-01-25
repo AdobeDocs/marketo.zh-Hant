@@ -3,9 +3,9 @@ unique-page-id: 1147126
 description: 使用計畫首頁標籤——行銷人員檔案——產品檔案
 title: 使用程式首頁頁籤
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ ht-degree: 0%
    >
    >這是您的預設檢視。 它提供有關「設定」、「計畫」、「結果」和「成員」程式狀態的資訊。
 
-   按一下加底線的元素以進行變更或檢視更多資訊。
+1. 按一下加底線的元素以進行變更或檢視更多資訊。
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-   按一下「摘要」底部的「匯出」以下載報表。
+1. 按一下「摘要」底部的&#x200B;**Export**&#x200B;以下載報表。
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
@@ -69,12 +69,6 @@ ht-degree: 0%
    >
    >**Historical** 表示曾參與過程式的任何人，而 **** Currentonly則包含目前在程式中的人員。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [瞭解方案會籍](understanding-program-membership.md)
-
-
+   >[瞭解方案會籍](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
