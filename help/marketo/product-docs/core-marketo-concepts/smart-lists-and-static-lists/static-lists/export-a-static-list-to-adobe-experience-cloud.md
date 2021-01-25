@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: 將靜態清單匯出至Adobe Experience Cloud —— 行銷人員檔案——產品檔案
 title: 將靜態清單匯出至Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[設定Adobe Experience Cloud觀眾共用](http://docs.marketo.com/x/D4GMAg)
+>[設定Adobe Experience Cloud觀眾共用](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
 ## 支援的目標應用程式{#supported-destination-applications}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **共用至Adobe Analytics**
 
-對於同時擁有Adobe Audience Manager和Adobe Analytics的客戶，此整合可讓觀眾從Market共用至您的Adobe Analytics報表套裝，但是Adobe Audience Manager中需要執行一些額外的設定步驟，以啟用此功能。 請參閱Adobe Audience Manager檔案，以取得如何設定此設定的詳細資訊：[https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](http://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html)。
+對於同時擁有Adobe Audience Manager和Adobe Analytics的客戶，此整合可讓觀眾從Market共用至您的Adobe Analytics報表套裝，但是Adobe Audience Manager中需要執行一些額外的設定步驟，以啟用此功能。 請參閱Adobe Audience Manager檔案，以取得如何設定此設定的詳細資訊：[https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html)。
 
 **Adobe Audience Manager客戶的特徵使用**
 
@@ -80,4 +80,4 @@ ht-degree: 0%
 
 當您的Marketo訂閱啟用Cookie同步時，Marketo的munchkin.js會嘗試擷取並儲存您在整合設定期間指定之Adobe IMS組織的Adobe ECID，並將這些ECID與對應的Marketo Cookie識別碼相符。 這可讓Marketo的匿名使用者個人檔案充份運用Adobe ECID。
 
-需要進一步步驟，將匿名用戶配置檔案與使用純文字檔案電子郵件標識的銷售線索配置檔案關聯。 具體說明如下：[https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](http://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People)。
+需要進一步步驟，將匿名用戶配置檔案與使用純文字檔案電子郵件標識的銷售線索配置檔案關聯。 具體說明如下：[https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People)。
