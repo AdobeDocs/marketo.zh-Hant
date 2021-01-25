@@ -3,9 +3,9 @@ unique-page-id: 11387513
 description: 建立靜態清單——行銷檔案——產品檔案
 title: 建立靜態清單
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-   您現在有空清單可供填入。 瞭解如何在[這裡新增人員](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList)。
+   您現在有空清單可供填入。 瞭解如何在[這裡新增人員](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list)。
 
    >[!NOTE]
    >
    >您可以視需要將人員加入清單中多次，但只會出現一次。 在您移除之前，人們會一直留在清單中。
-
