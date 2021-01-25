@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: 匯入方案——行銷人員檔案——產品檔案
 title: 匯入方案
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -21,16 +21,15 @@ ht-degree: 0%
 
    ![](assets/ma.png)
 
-1. 按一下「**新**」下拉式清單。 選擇&#x200B;**導入程式**。
+1. 按一下&#x200B;**新建**&#x200B;下拉清單。 選擇&#x200B;**導入程式**。
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >「程式導入」僅對啟用了「導入程式」權限的角色的用戶可用。 進一步瞭解[管理使用者角色和權限](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)。
+   >「程式導入」僅對啟用了「導入程式」權限的角色的用戶可用。 進一步瞭解[管理使用者角色和權限](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)。
    >
-   >
-   >若要將沙盒帳戶連線至您的即時訂閱，請聯絡[行銷人員支援](http://www.marketo.com/services/support/)。
+   >若要將沙盒帳戶連線至您的即時訂閱，請聯絡[行銷人員支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 1. 選取要匯入的Marketo **Subscription**&#x200B;和程式。 按一下&#x200B;**Next**。
 
@@ -42,7 +41,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >請確定已選取** ****使用預設衝突**&#x200B;規則。 當您將程式匯入具有相同名稱資產的例項時，需要衝突規則。
+   >請確定已選取「使用預設衝突&#x200B;**規則」。**&#x200B;當您將程式匯入具有相同名稱資產的例項時，需要衝突規則。
 
 1. 預覽詳細資料和&#x200B;**匯入**&#x200B;程式。
 
@@ -77,7 +76,7 @@ Marketo程式庫包含預先建立、經測試的程式，您可將它匯入您�
 1. **將新人員同步至CRM。** 將新人同步至CRM系統的促銷活動。它會指派人員狀態，以便被識別為不適合銷售。
 1. **使用活動適配器進行網路研討會。** 全套電子郵件——例如邀請函和提醒——加上包含表單和促銷活動的登陸頁面，讓人們在計畫中瀏覽。本計畫會取得註冊、出席等的更新資訊。 來自線上活動提供者，例如WebEx。
 1. **無事件適配器的網路研討會。** 與上面相同，但是使用手動程式記錄註冊、出席等。
-1. **天狼星決策計分計畫**。該程式支援標準的Sirius決策評分模型，包括內隱和顯式評分規則和矩陣人賦值。 檢視[此PDF](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)以取得詳細資訊。
+1. **天狼星決策計分計畫**。該程式支援標準的Sirius決策評分模型，包括內隱和顯式評分規則和矩陣人賦值。
 
 >[!CAUTION]
 >
@@ -87,24 +86,20 @@ Marketo程式庫包含預先建立、經測試的程式，您可將它匯入您�
 
 程式會使用外部資產，例如電子郵件範本、登陸頁面範本、影像、表單、Token和程式標籤。 您可以設定著陸頁面範本和程式標籤的處理方式，而Marketo會自動管理其餘的。
 
-**電子郵件範本：**電子郵件範本會自動匯入並建立，除非有相同名稱的範本。
+**電子郵件範本：** 電子郵件範本會自動匯入並建立，除非有同名範本。
 
-**著陸頁面範本：**著陸頁面範本會匯入至設計工作室。 您可以使用衝突規則來設定同名範本存在時的行為。 使用預設規則，如果有相同名稱的登陸頁面範本，則會附加一個數字。 例如，如果存在一個名為「標準範本」的著陸頁面範本，則會建立名為「標準範本1」的著陸頁面範本。
+**著陸頁面範本：著** 陸頁面範本會匯入設計工作室。您可以使用衝突規則來設定同名範本存在時的行為。 使用預設規則，如果有相同名稱的登陸頁面範本，則會附加一個數字。 例如，如果存在一個名為「標準範本」的著陸頁面範本，則會建立名為「標準範本1」的著陸頁面範本。
 
-**影像：**著陸頁面使用的影像會匯入設計工作室，除非有相同名稱的影像。
+**影像：** 著陸頁面使用的影像會匯入設計工作室，除非有相同名稱的影像。
 
-**Token:**在匯入程式期間，程式外的Token將會轉換為本機Token。
-
->[!CAUTION]
->
->程式匯入不支援影像類型我的Token。 如果匯入具有影像類型的程式，我的Token會匯入**no **token。
-
-**方案標籤：**您可以使用衝突規則來控制如何處理目標帳戶中不存在的程式標籤。 使用預設規則將建立程式標籤，或者您可以選擇忽略標籤。  **表格：**除非有相同名稱的表單，否則外部表單會自動匯入設計工作室。
+**Token：在** 匯入程式期間，在程式外生活的Token會轉換為本機Token。
 
 >[!CAUTION]
 >
->匯入程式時，會略過包含[動態內容](http://docs.marketo.com/x/yRAt)的登陸頁面／電子郵件。
+>程式匯入不支援影像類型我的Token。 如果匯入影像類型為我的Token的程式，**no** Token將會傳入。
 
-## 觀看影片{#watch-a-video}
+**程式標籤：** 您可以使用衝突規則來控制如何處理目標帳戶中不存在的程式標籤。使用預設規則將建立程式標籤，或者您可以選擇忽略標籤。 **表單：** 外部表單會自動匯入至設計工作室，除非有相同名稱的表單。
 
-`<iframe width="630" height="470" src="//play.vidyard.com/KgvZssZ9WRkZgDsY1yZfms.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+>[!CAUTION]
+>
+>匯入程式時，會略過包含[動態內容](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)的登陸頁面／電子郵件。
