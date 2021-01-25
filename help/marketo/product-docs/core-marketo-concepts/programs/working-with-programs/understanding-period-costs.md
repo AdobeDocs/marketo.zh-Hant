@@ -3,9 +3,9 @@ unique-page-id: 7504676
 description: 瞭解期間成本——行銷人員文檔——產品文檔
 title: 瞭解期間成本
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深入探討**
+>[瞭解計畫](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[瞭解計畫](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
->
->[瞭解方案會籍](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[瞭解方案會籍](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## 期間成本的計算方式{#how-period-costs-are-calculated}
 
@@ -63,18 +61,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >總之——沒有定義期間成本的月份將「向後」滾動到已定義的最後一個月。 如果沒有前期成本，則月份將「前滾」到已定義的下一個月。 如果尚未為&#x200B;*any*&#x200B;月定義期間成本，則RCE中的報告將不適用於該程式。
+   >總之——沒有定義期間成本的月份將「向後」滾動到已定義的最後一個月。 如果沒有前期成本，則月份將「前滾」到已定義的下一個月。 如果尚未為&#x200B;_any_&#x200B;月定義期間成本，則RCE中的報告將不適用於該程式。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [在計畫中使用期間成本](using-period-costs-in-a-program.md)
-   >    * [按期間成本篩選方案報表](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
+   >* [在計畫中使用期間成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   >* [按期間成本篩選方案報表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
