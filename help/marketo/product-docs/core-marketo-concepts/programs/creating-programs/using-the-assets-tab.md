@@ -3,9 +3,9 @@ unique-page-id: 1147124
 description: 使用資產標籤——行銷人員檔案——產品檔案
 title: 使用「資產」標籤
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 0%
 >
 >拖放以重新排列資產欄。
 
-非本端至您方案的資產如下所示： ![](assets/image2014-9-18-16-3a30-3a33.png)
+非本端至您方案的資產如下所示：
+
+![](assets/image2014-9-18-16-3a30-3a33.png)
 
 「資產」標籤是程式中所有內容和參考的絕佳小型儀表板。
