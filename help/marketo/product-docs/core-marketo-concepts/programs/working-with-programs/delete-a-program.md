@@ -3,7 +3,7 @@ unique-page-id: 1147148
 description: 刪除計畫——行銷人員檔案——產品檔案
 title: 刪除程式
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. 按一下「Program Actions（程式操作）」。 按一下「刪除」。
+1. 按一下&#x200B;**Program Actions**。 按一下&#x200B;**Delete**。
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. 選擇「全部刪除」選項。 查看刪除程式的副作用，然後按一下「刪除」確認。
+1. 選擇「全部刪除」選項。 查看刪除程式的副作用，然後按一下&#x200B;**Delete**&#x200B;確認。
 
 >[!TIP]
 >
@@ -43,9 +43,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. 按一下「**已使用****By**」，查看資產的使用位置。
+1. 按一下「使用者」**以查看資產的使用位置。**
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 
    一旦您知道資產的使用位置，請移至資產並取消核准／刪除。 然後再次嘗試刪除程式。
-
