@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: 方案會員自訂欄位——行銷檔案——產品檔案
 title: 方案會員自訂欄位
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >「方案成員」自定義欄位支援的類型包括：布林值、日期、日期時間、浮點、整數、字串、URL。 [進一步瞭解欄位類型](http://docs.marketo.com/x/Wwgt)。
+   >「方案成員」自定義欄位支援的類型包括：布林值、日期、日期時間、浮點、整數、字串、URL。 [進一步瞭解欄位類型](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)。
 
 ## 物件說明{#object-descriptions}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 ## 觸發器和篩選器{#triggers-and-filters}
 
-您可以透過[triggers](http://docs.marketo.com/x/PoAR)和／或[filters](http://docs.marketo.com/x/2YAI)，在智慧型清單中運用此程式特定資料。
+您可以透過[triggers](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)和／或[filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)，在智慧型清單中運用此程式特定資料。
 
 ![](assets/six.png)
 
@@ -68,10 +68,9 @@ ht-degree: 0%
 * Program Member對象最多可以有20個自定義欄位。 這些欄位可用於任何程式。
 * 刪除程式成員時，如果他們在其「程式成員」自定義欄位中有任何資料，則會從該欄位中刪除資料。
 * 要查看資料，請按一下程式中的「成員」頁籤並建立包含該欄位的自定義視圖。
-* 支援透過[list](http://docs.marketo.com/x/egAk)和[API](http://developers.marketo.com/)匯入和匯出。
+* 支援透過[list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)和[API](https://developers.marketo.com/)匯入和匯出。
 * 當您合併兩個人時，將會使用贏家的方案會員自訂欄位資料。 但如果成功者沒有，則會使用失敗者的值。
 
 >[!MORELIKETHIS]
 >
->[在Marketo中建立自訂欄位](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
-
+>[在Marketo中建立自訂欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
