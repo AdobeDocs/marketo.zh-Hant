@@ -3,7 +3,7 @@ unique-page-id: 8783561
 description: 傳送範例——行銷人員檔案——產品檔案
 title: 傳送範例
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -31,7 +31,8 @@ ht-degree: 0%
 
 ## 快速通道{#the-quick-way}
 
-1. 點選「電子郵件預覽」畫面上的紙本飛機圖示，即可直接從預覽傳送範例。\
+1. 點選「電子郵件預覽」畫面上的紙本飛機圖示，即可直接從預覽傳送範例。
+
    ![](assets/image2015-9-25-10-3a28-3a47.png)
 
 任務完成！
