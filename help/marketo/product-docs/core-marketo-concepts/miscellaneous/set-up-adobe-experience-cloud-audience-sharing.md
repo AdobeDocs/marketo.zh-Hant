@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: 設定Adobe Experience Cloud觀眾分享——行銷檔案——產品檔案
 title: 設定Adobe Experience Cloud觀眾共用
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. 輸入您的Adobe IMS組織ID（瞭解如何在[這裡](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)找到），然後按一下&#x200B;**確定**。
+1. 輸入您的Adobe IMS組織ID（瞭解如何在[這裡](https://docs.adobe.com/content/help/en/control-panel/using/faq.html)找到），然後按一下&#x200B;**確定**。
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ ht-degree: 0%
    >
    >出於安全考慮，您必須是您要對應至之Adobe組織的組織管理員。 如果您不是，動作就會失敗。
 
-1. 如果您&#x200B;*not*&#x200B;已登入，則新標籤／視窗中會出現快顯視窗。 登入您的Adobe組織（此動作會驗證組織存取權）。
+1. 如果您&#x200B;_not_&#x200B;已登入，則新標籤／視窗中會出現快顯視窗。 登入您的Adobe組織（此動作會驗證組織存取權）。
 
-   就這樣！ 您現在可以開始[共用觀眾資料](http://docs.marketo.com/x/ogI6Ag)。
-
+   就這樣！ 您現在可以開始[共用觀眾資料](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)。
