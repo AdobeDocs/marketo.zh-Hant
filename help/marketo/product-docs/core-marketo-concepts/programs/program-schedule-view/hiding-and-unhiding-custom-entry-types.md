@@ -3,7 +3,7 @@ unique-page-id: 1147247
 description: 隱藏和取消隱藏自訂登入類型——行銷人員檔案——產品檔案
 title: 隱藏和取消隱藏自定義條目類型
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 隱藏自訂項目類型{#hide-a-custom-entry-type}
 
-1. 前往&#x200B;**Admin**&#x200B;區段，然後按一下&#x200B;**Calendar****Entry****Types**。
+1. 前往&#x200B;**Admin**&#x200B;區段，然後按一下&#x200B;**Calendar Entry** **Types**。
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
@@ -38,4 +38,3 @@ ht-degree: 0%
    再見！ 您的自訂項目類型現在已取消隱藏。
 
    ![](assets/image2014-9-24-10-3a12-3a19.png)
-
