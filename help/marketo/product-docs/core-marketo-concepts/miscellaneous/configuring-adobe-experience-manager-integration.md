@@ -3,9 +3,9 @@ unique-page-id: 30081815
 description: 設定Adobe Experience Manager整合——行銷檔案——產品檔案
 title: 設定Adobe Experience Manager整合
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 在&#x200B;**允許的來源(Regexp)**&#x200B;文字方塊中，輸入&quot;https://&quot;。*\.marketo\.com&quot;（不含引號），然後按一下「儲存&#x200B;**」。**
+1. 在&#x200B;**允許的原點(Regexp)**&#x200B;文本框中，鍵入`https://.*\.marketo\.com`並按一下&#x200B;**保存**。
 
    ![](assets/five-psd.png)
 
@@ -75,5 +75,4 @@ ht-degree: 0%
 
    ![](assets/twelve.png)
 
-   你們都準備好了！ 您現在可以[將AEM資產匯入Marketo Sky的Design Studio](http://help.marketo.com/hc/en-us/articles/360036765993)。
-
+   你們都準備好了！ 您現在可以[將AEM資產匯入Marketo Sky的Design Studio](https://help.marketo.com/hc/en-us/articles/360036765993)。
