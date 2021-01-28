@@ -3,7 +3,7 @@ unique-page-id: 2953243
 description: 通知類型——行銷檔案——產品檔案
 title: 通知類型
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Facebook
 
 閒置觸發器促銷活動清除
 
-停用已觸發的智慧型促銷活動，而不會再收到任何活動。 進一步瞭解[自動觸發促銷活動清除](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
+停用已觸發的智慧型促銷活動，而不會再收到任何活動。 進一步瞭解[自動觸發促銷活動清除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
 
 LinkedIn
 
@@ -61,5 +61,4 @@ LinkedIn
 
 >[!NOTE]
 >
->我們的[開發人員檔案](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)中概述了您可能收到的部分錯誤碼。
-
+>我們的[開發人員檔案](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)中概述了您可能收到的部分錯誤碼。
