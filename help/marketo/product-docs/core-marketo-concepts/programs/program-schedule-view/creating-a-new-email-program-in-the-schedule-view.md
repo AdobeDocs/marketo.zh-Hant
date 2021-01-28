@@ -3,9 +3,9 @@ unique-page-id: 1147144
 description: 在「排程檢視——行銷人員檔案——產品檔案」中建立新的電子郵件方案
 title: 在「計畫」視圖中建立新電子郵件程式
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. 輸入名稱。 選擇&#x200B;**電子郵件** **程式**。
+1. 輸入名稱。 選擇&#x200B;**電子郵件程式**。
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,9 +35,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [設定您的電子郵件程](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 式，然後按一 **下「核准程式**」。
+1. [設定您的電子郵件程](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 式，然後按一 **下「核准程式**」。
 
    ![](assets/learnaboutthespeaker.png)
 
-   除了詳細的儀表板外，使用[email程式](http://docs.marketo.com/display/docs/email+programs)取代智慧型促銷活動的優點，在於能夠輕鬆實作[A/B測試](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。 享受！
-
+   除了詳細的儀表板外，使用[email程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)取代智慧型促銷活動的優點，在於能夠輕鬆實作[A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。 享受！
