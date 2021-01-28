@@ -3,9 +3,9 @@ unique-page-id: 1147306
 description: 依工作區篩選行銷行事歷——行銷檔案——產品檔案
 title: 依工作區篩選行銷行事歷
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [在行銷日曆中儲存篩選定義](saving-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[在行銷日曆中儲存篩選定義](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
