@@ -3,9 +3,9 @@ unique-page-id: 1147257
 description: 導覽行銷行事歷——行銷檔案——產品檔案
 title: 導覽行銷行事歷
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->請確定您有[行銷行事歷授權](issue-revoke-a-marketing-calendar-license.md) —— 否則「行銷行事歷」方塊不會顯示在「我的行銷人員」中。
+>請確定您有[行銷行事歷授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) —— 否則「行銷行事歷」方塊不會顯示在「我的行銷人員」中。
 
 1. 前往&#x200B;**行銷行事歷**。
 
@@ -39,9 +39,7 @@ ht-degree: 0%
 
 1. 按一下「**篩選」下拉式清單**。
 
-   「 ![](assets/image2014-9-26-10-3a29-3a6.png)
-
-   「
+   ![](assets/image2014-9-26-10-3a29-3a6.png)
 
 1. 選擇&#x200B;**議程**&#x200B;視圖。
 
@@ -67,9 +65,6 @@ ht-degree: 0%
 
 太棒了！ 這些是基本的。 您也可以使用篩選器自訂檢視。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相關文章**
->
->* [篩選行銷行事歷](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
-
+>[篩選行銷行事歷](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
