@@ -3,9 +3,9 @@ unique-page-id: 1147140
 description: 瞭解暫定／確認日期——行銷檔案——產品檔案
 title: 瞭解暫定／確認日期
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 暫定{#tentative}
 
-暫定日期傳達意圖。 把它想成日曆上的*penciling*什麼。 暫定項目將不運行——它們只是佔位符。
+暫定日期傳達意圖。 請將此視為日曆中的&#x200B;_penciling_&#x200B;內容。 暫定項目將不運行——它們只是佔位符。
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -29,11 +29,15 @@ ht-degree: 0%
 
 這就像核准資產一樣，因此您必須先完整設定項目，才能加以確認。 一旦鴨子排成一列，您就可以將試用標籤滑向右側，以確認參賽作品。
 
-![](assets/image2014-9-23-15-3a23-3a2.png)  ![](assets/image2014-9-23-15-3a23-3a8.png) ![](assets/image2014-9-23-15-3a23-3a12.png)
+![](assets/image2014-9-23-15-3a23-3a2.png)
+
+![](assets/image2014-9-23-15-3a23-3a8.png)
+
+![](assets/image2014-9-23-15-3a23-3a12.png)
 
 >[!NOTE]
 >
->為什麼狗？ 他是金毛獵犬。 他在取你的資料。
+>為什麼狗？ 他是獵狗。 他在取你的資料。
 
 ## 已確認{#confirmed}
 
