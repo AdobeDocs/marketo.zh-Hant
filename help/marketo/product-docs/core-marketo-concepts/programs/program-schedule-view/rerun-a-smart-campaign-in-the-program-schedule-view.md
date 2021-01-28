@@ -3,7 +3,7 @@ unique-page-id: 2953331
 description: 在「計畫排程檢視——行銷人員檔案——產品檔案」中重新執行「智慧型促銷活動」
 title: 在「方案計畫檢視」中重新執行智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -33,6 +33,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您也可以從[程式焦點](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)執行此操作。
+   >您也可以從[程式焦點](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)執行此操作。
 
 砰！ 就這樣，您已為該智慧型促銷活動排程另一個執行。 如果智慧型促銷活動包含傳送電子郵件步驟，您也會看到這些步驟！
