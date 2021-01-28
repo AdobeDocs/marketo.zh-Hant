@@ -3,9 +3,9 @@ unique-page-id: 1147249
 description: 使用全域覆蓋——行銷檔案——產品檔案
 title: 使用全域覆蓋
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必須擁有[行銷行事歷授權](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)才能運用此功能。
+>您必須擁有[行銷行事歷授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)才能運用此功能。
 
 ## 使用全域覆蓋{#use-the-global-overlay}
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## 使用儲存的篩選作為覆蓋{#use-a-saved-filter-as-an-overlay}
 
-如果您[已在「行銷行事歷」中儲存篩選器，則可在方案排程檢視中將它當做覆蓋使用。](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
+如果您[已在「行銷行事歷」中儲存篩選器，則可在方案排程檢視中將它當做覆蓋使用。](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
 
 1. 按一下「覆蓋」下拉式清單，並選取您的篩選定義。****
 
@@ -49,12 +49,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a16-3a31.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [在「方案排程檢視」中建立自訂覆蓋](creating-custom-overlays-in-program-schedule-view.md)
-
-
+   >[在「方案排程檢視」中建立自訂覆蓋](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
