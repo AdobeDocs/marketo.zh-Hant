@@ -3,7 +3,7 @@ unique-page-id: 7503971
 description: 建立簡報——行銷人員檔案——產品檔案
 title: 建立簡報
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
-1. 前往**日曆**。
+1. 前往&#x200B;**日曆**。
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -41,9 +41,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [自訂簡報](customize-a-presentation.md)
-
->
-
-
-
+>[自訂簡報](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
