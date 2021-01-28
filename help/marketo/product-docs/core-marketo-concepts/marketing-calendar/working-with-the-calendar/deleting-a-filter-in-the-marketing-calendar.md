@@ -3,9 +3,9 @@ unique-page-id: 1147302
 description: 刪除行銷行事歷——行銷檔案——產品檔案中的篩選
 title: 在行銷日曆中刪除篩選
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,3 @@ ht-degree: 0%
 1. 按一下&#x200B;**Delete**&#x200B;確認。
 
    ![](assets/image2014-9-24-11-3a27-3a42.png)
-
-   再見。
-
