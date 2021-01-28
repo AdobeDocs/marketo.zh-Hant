@@ -3,7 +3,7 @@ unique-page-id: 2949839
 description: 從平板電腦——行銷人員檔案——產品檔案，將人們納入您的活動
 title: 從平板電腦將人們存入您的活動
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -22,13 +22,11 @@ ht-degree: 0%
 >* 在Marketo中建立活動，並填入「已邀請」和「已註冊的人員」。
 >* 下載[Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en)或[iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)的平板電腦應用程式
 
->
-
-
 
 ## 簽入註冊的來賓{#check-in-registered-guests}
 
 1. 在iPad或Android平板裝置上點選應用程式圖示。
+
 1. 點選&#x200B;**登入**&#x200B;以啟動Marketo Event應用程式。
 
    ![](assets/1.jpg)
@@ -57,7 +55,9 @@ ht-degree: 0%
    >
    >iPad和Android上的程式相同，但畫面不同，項目可能位於不同的位置。 本文的功能包括iPad介面。 請比較本節中的Android畫面以供參考。
 
-   **iPad** ![](assets/image2016-4-15-11-3a55-3a11.png)
+   **iPad**
+
+   ![](assets/image2016-4-15-11-3a55-3a11.png)
 
    **Android**
 
@@ -111,7 +111,7 @@ ht-degree: 0%
 
 ## 反向檢入{#reverse-a-check-in}
 
-如果您在與Marketo *同步之前，以*&#x200B;錯誤方式登入某人，您可以反轉「已出席」狀態。
+如果您在與Marketo _同步之前，以_&#x200B;錯誤方式登入某人，您可以反轉「已出席」狀態。
 
 1. 點選清單中的名稱，然後在人員記錄中點選「還原」****。
 
@@ -146,6 +146,7 @@ Marketo Events應用程式會獨立運作，直到您將活動同步回Marketo D
 >同步後，您無法反轉應用程式的登入。
 
 1. 在平板電腦上，開啟應用程式並導覽至您的活動。
+
 1. 點選&#x200B;**Sync**。
 
    您的事件會在Marketo資料庫中使用新的登入來更新。 「同步」按鈕上的紅色計數器會清除，直到您簽入其他人。
@@ -170,4 +171,3 @@ Marketo Events應用程式會獨立運作，直到您將活動同步回Marketo D
 >[!NOTE]
 >
 >應用程式會在您閒置8小時後自動將您登出。
-
