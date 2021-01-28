@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: 瞭解行銷人員時刻——行銷人員檔案——產品檔案
 title: 瞭解行銷人員時刻
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ Marketo的力量現在掌握在您手中！ 直接從您的手機或iPad預覽�
 >
 >**可用性**
 >
->必須擁有「存取行動應用程式」權限。 請連絡您的行銷人員管理員以[更新您的角色](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)。
-
-## 介紹時刻{#introducing-moments}
-
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/IJfpzE8l73E" frameborder="0" allowfullscreen></iframe>`
+>必須擁有「存取行動應用程式」權限。 請連絡您的行銷人員管理員以[更新您的角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)。
 
 ## 串流{#streams}
 
@@ -35,13 +31,11 @@ Marketo的力量現在掌握在您手中！ 直接從您的手機或iPad預覽�
 >
 >**定義**
 >
->瞬間，任何剛剛跑過或即將跑過的東西都在這裡。
->
->我的最愛——您製作最愛的任何項目，都會在此處加入。
->
->稍後——在此處，任何比此時刻晚發生的事情都會發生。
->
->完成——您已完成執行或標示為完成的任何項目，都會前往此處。
+>* 瞬間：任何剛剛跑過或即將跑過的東西都會跑到這裡。
+>* 我的最愛：你最愛的東西都在這裡。
+>* 稍後：比這時晚發生的一切都在這裡。
+>* 完成：任何已完成執行或您標示為完成的項目，都會在這裡進行。
+
 
 好，既然我們已經解決了這個問題，讓我們在手機上一窺行銷人員時刻！
 
@@ -93,19 +87,12 @@ Marketo Monts會提供3張不同的卡片，以追蹤您電子郵件的進度：
 >* 傳送範例（僅限電子郵件）:在您寄出電子郵件之前，請讓其他人查看您的電子郵件外觀。
 >* 預覽電子郵件（僅限電子郵件）:提前查看您的電子郵件總是個好主意。
 
->
-
-
 
 ## 後續時刻{#later-moments}
 
 「稍後」區段顯示近期活動。
 
 1. 首先點選漢堡包選單。
-
-   >[!NOTE]
-   >
-   >根據《吉尼斯世界紀錄》，世界上最大的漢堡包重2014磅。[](http://www.guinnessworldrecords.com/world-records/largest-hamburger)
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
@@ -151,23 +138,19 @@ Analytics時刻卡片可顯示過去6個月電子郵件和事件的月繳型績�
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-準備好要進一步瞭解嗎？
-
->[!MORELIKETHIS]
->
->* [瞭解電子郵件計畫卡](understanding-email-program-cards.md)
->* [瞭解事件卡](understanding-event-cards.md)
->* [瞭解Analytics卡片](understanding-analytics-cards.md)
->* [瞭解智慧型促銷活動資訊卡](understanding-smart-campaign-cards.md)
-
->
-
-
-
 ## 支援的版本{#supported-versions}
 
 Marketo Monts支援下列作業系統版本：
 
 * Apple iOS 8.0和更新版本。
 * Android 4.1版及更新版本（基本上是Jellybean和更新版本）。
+
+準備好要進一步瞭解嗎？
+
+>[!MORELIKETHIS]
+>
+>* [瞭解電子郵件計畫卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [瞭解事件卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [瞭解Analytics卡片](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [瞭解智慧型促銷活動資訊卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
