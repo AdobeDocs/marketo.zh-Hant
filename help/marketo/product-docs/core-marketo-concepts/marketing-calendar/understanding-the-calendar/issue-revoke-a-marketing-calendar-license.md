@@ -3,9 +3,9 @@ unique-page-id: 1147255
 description: 核發／撤銷行銷行事歷授權——行銷檔案——產品檔案
 title: 核發／廢止行銷行事歷授權
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
-若要使用您的[行銷行事歷](http://docs.marketo.com/display/docs/marketing+calendar)授權，您必須向需要存取的使用者發放授權。 這是方法。
+若要使用您的[行銷行事歷](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)授權，您必須向需要存取的使用者發放授權。 這是方法。
 
 1. 前往&#x200B;**Admin**&#x200B;區段。
 
    ![](assets/adminhand.png)
 
-1. 按一下&#x200B;**Users &amp; Roles**。
+1. 按一下「**用戶和角色**」。
 
    ![](assets/2.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-   幹得漂亮！ 請參閱&#x200B;**Calendar**&#x200B;下方的綠色核取標籤？
+   幹得漂亮！ 請參閱「行事歷？」下方的綠色核取標籤
 
    ![](assets/5.png)
 
