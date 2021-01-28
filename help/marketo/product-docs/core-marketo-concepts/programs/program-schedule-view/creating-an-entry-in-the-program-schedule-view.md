@@ -3,7 +3,7 @@ unique-page-id: 1147102
 description: 在「計畫排程檢視——行銷人員檔案——產品檔案」中建立項目
 title: 在「方案計畫」視圖中建立條目
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. 為條目命名。 按**輸入**以確認姓名。
+1. 為條目命名。 按&#x200B;**Enter**&#x200B;確認名稱。
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >待辦事項是[自訂項目](create-custom-entry-types.md)。 您可以製作待辦項目和其他自訂項目，以協助追蹤非Marketo議程項目。
+   >待辦事項是[自訂項目](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)。 您可以製作待辦項目和其他自訂項目，以協助追蹤非Marketo議程項目。
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 您也可以從排程檢視建立[智慧型促銷活動](creating-a-batch-smart-campaign-in-the-program-schedule-view.md)或[電子郵件程式](creating-a-new-email-program-in-the-schedule-view.md)。
-
+> 您也可以從排程檢視建立[智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md)或[電子郵件程式](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md)。
