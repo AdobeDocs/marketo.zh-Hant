@@ -3,7 +3,7 @@ unique-page-id: 7504058
 description: 仿製簡報——行銷人員檔案——產品檔案
 title: 複製簡報
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
@@ -28,4 +28,3 @@ ht-degree: 0%
    ![](assets/image2015-3-20-16-3a14-3a44.png)
 
    太好了！ 您的簡報現已存在完整副本。
-
