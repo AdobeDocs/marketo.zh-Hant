@@ -3,7 +3,7 @@ unique-page-id: 7516639
 description: 授予使用者存取登入應用程式——行銷人員檔案——產品檔案的權限
 title: 授予使用者登入應用程式的存取權
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Marketo對事件登入應用程式有特殊的使用者角色。 以下說明如
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. 按一下**邀請新使用者**。
+1. 按一下「邀請新使用者」。****
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
