@@ -3,7 +3,7 @@ unique-page-id: 7514985
 description: 在「計畫計畫視圖——行銷人員文檔——產品文檔」中重新計畫批智慧型促銷活動
 title: 在「方案計畫視圖」中重新計畫批智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -19,7 +19,9 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-12-3a8-3a28.png)
 
-1. 拖放至您要執行促銷活動的新日期。![](assets/image2015-5-19-12-3a12-3a1.png)
+1. 拖放至您要執行促銷活動的新日期。
+
+![](assets/image2015-5-19-12-3a12-3a1.png)
 
 1. 太好了！ 智慧型促銷活動已重新排程。 時間也可從條目詳細資訊中的&#x200B;**Date**&#x200B;下拉清單進行更改。
 
@@ -27,5 +29,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[從計畫視圖重新計畫整個程式](rescheduling-an-entire-program-from-the-schedule-view.md)
-
+>[從計畫視圖重新計畫整個程式](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)
