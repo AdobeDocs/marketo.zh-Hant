@@ -3,9 +3,9 @@ unique-page-id: 1147243
 description: 方案計畫檢視登入類型——行銷檔案——產品檔案
 title: 方案計畫視圖條目類型
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 方案計畫視圖條目類型{#program-schedule-view-entry-types}
 
-有8種不同的內建項目類型將可見，並可用於方案計畫視圖。 您也可以在「管理」區段中建立自訂項目類型[。](create-custom-entry-types.md)
+有8種不同的內建項目類型將可見，並可用於方案計畫視圖。 您也可以在「管理」區段中建立自訂項目類型](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)。[
 
 <table> 
  <thead> 
@@ -57,12 +57,3 @@ ht-degree: 0%
   </tr> 
  </tbody> 
 </table>
-
->[!MORELIKETHIS]
->
->* [建立自訂登入類型](create-custom-entry-types.md)
-
->
-
-
-
