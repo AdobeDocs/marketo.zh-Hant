@@ -3,7 +3,7 @@ unique-page-id: 1147114
 description: 瞭解我的Token在計畫——行銷檔案——產品檔案
 title: 瞭解程式中的Token
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Token是一個變數，您可在電子郵件、登陸頁面和智慧型促銷活
  <tbody> 
   <tr> 
    <td>日曆檔案 <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>使用此Token將日曆事件檔案(.i<a href="../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md"></a>cs)<a href="../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">新增至您的電子郵件和登陸頁面。</a></td> 
+   <td>使用此Token將日曆事件檔案(.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a>新增至您的電子郵件和登陸頁面。<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md"></a></td> 
   </tr> 
   <tr> 
    <td><p>日期 <img alt="—" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
@@ -58,7 +58,7 @@ Token是一個變數，您可在電子郵件、登陸頁面和智慧型促銷活
   </tr> 
   <tr> 
    <td>分數 <img alt="—" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>在<a href="../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">變更分數流程步驟</a>中使用此Token。 </td> 
+   <td>在<a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">變更分數流程步驟</a>中使用此Token。 </td> 
   </tr> 
   <tr> 
    <td colspan="1">SFDC促銷活動 <img alt="—" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="—"></td> 
@@ -73,7 +73,7 @@ Token是一個變數，您可在電子郵件、登陸頁面和智慧型促銷活
 
 >[!CAUTION]
 >
->在Microsoft Dynamics或Salesforce上，從Sales Insight傳送電子郵件時，My Token無法解析；只會填入標準Token（銷售機會、公司等）。 不過，Token *的預設值將*&#x200B;運作。
+>在Microsoft Dynamics或Salesforce上，從Sales Insight傳送電子郵件時，My Token無法解析；只會填入標準Token（銷售機會、公司等）。 不過，Token _的預設值將_&#x200B;運作。
 
 ## 巢狀代號{#nesting-tokens}
 
