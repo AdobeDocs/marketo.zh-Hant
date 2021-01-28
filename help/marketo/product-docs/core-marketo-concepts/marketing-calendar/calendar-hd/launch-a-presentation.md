@@ -3,7 +3,7 @@ unique-page-id: 7504120
 description: 啟動簡報——行銷檔案——產品檔案
 title: 啟動簡報
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -23,11 +23,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立簡報](create-a-presentation.md)
->* [自訂簡報](customize-a-presentation.md)
-
->
-
+>* [建立簡報](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>* [自訂簡報](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
 
 
 >[!TIP]
@@ -44,5 +41,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您的簡報會在新標籤中啟動。 如果需要，請將標籤移至外部顯示器或電視以進行顯示，然後按一下&#x200B;**全螢幕**（或者，如果您使用Internet Explorer，請按鍵盤上的**F11 **）。
-
+   >您的簡報會在新標籤中啟動。 如果需要，請將標籤移至外部顯示器或電視以進行顯示，然後按一下鍵盤上的&#x200B;**全螢幕**（如果您使用Internet Explorer，請按&#x200B;**F11**）。
