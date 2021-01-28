@@ -3,9 +3,9 @@ unique-page-id: 1147237
 description: 依期間成本篩選計畫報表——行銷檔案——產品檔案
 title: 按期間成本篩選方案報表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 按期間成本{#filter-a-program-report-by-period-cost}篩選程式報表
 
-將您的[方案績效報告](create-a-program-performance-report.md)放在特定期間成本時間範圍內。
+將您的[方案績效報告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)放在特定期間成本時間範圍內。
 
-1. 前往&#x200B;**Marketing****Activity**（或&#x200B;**Analytics**）。
+1. 前往&#x200B;**行銷活動**（或&#x200B;**Analytics**）。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -37,17 +37,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [依方案篩選方案報表](filter-a-program-report-by-program.md)
-
-
-   >[!NOTE]
-   >
-   >**深入探討**
-   >
-   >
-   >瞭解[基本報表](http://docs.marketo.com/display/docs/basic+reporting)中的所有報表。
-
+   >[依方案篩選方案報表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)
