@@ -3,7 +3,7 @@ unique-page-id: 10093348
 description: 瞭解智慧型促銷活動資訊卡——行銷人員檔案——產品檔案
 title: 瞭解智慧型促銷活動資訊卡
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
@@ -26,6 +26,7 @@ ht-degree: 0%
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
 1. 詳細資訊卡可讓您存取智慧型清單篩選器、流量和電子郵件摘要的相關資訊。
+
 1. 點選&#x200B;**智慧型清單**。
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
@@ -66,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. 點選[傳送範例](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)或[預覽電子郵件](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)（如需詳細資訊，請按一下這些連結）。
+1. 點選[傳送範例](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)或[預覽電子郵件](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)（如需詳細資訊，請按一下這些連結）。
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -128,9 +129,9 @@ ht-degree: 0%
 
 和其他Marketo Monts卡片一樣，您可以點選任何Smart Campaign卡片或詳細資訊卡上的三個點，以：
 
-* [讓它成為您最愛的](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [完成標籤](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [分享](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [讓它成為您最愛的](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [完成標籤](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [分享](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 ![](assets/image2015-9-21-14-3a38-3a19.png)
 
