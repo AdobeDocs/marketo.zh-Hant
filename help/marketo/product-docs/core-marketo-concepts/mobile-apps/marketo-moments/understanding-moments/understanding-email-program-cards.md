@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: 瞭解電子郵件計畫卡——行銷人員檔案——產品檔案
 title: 瞭解電子郵件計畫卡
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 電子郵件程式卡{#email-program-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/n8JTSZI22Do" frameborder="0" allowfullscreen></iframe>` 當您點選任何「電子郵件方案」卡時，您可以：
+當您點選任何「電子郵件方案」卡時，您可以：
 
-* [讓電子郵件成為您最愛的](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [將電子郵件標示為完成](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [分享電子郵件時刻卡](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [讓電子郵件成為您最愛的](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [將電子郵件標示為完成](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [分享電子郵件時刻卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 在尚未傳送之電子郵件的電子郵件方案卡上，您會找到有關該電子郵件方案的狀態和對象的資訊。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. 點選**確認**以完成工作，或者如果您有其他想法，請點選&#x200B;**Never Mind**。
+1. 點選&#x200B;**確認**&#x200B;以完成工作，或點選&#x200B;**Never Mind**（如果您有其他想法）。
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -105,7 +105,8 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   這樣，在扣動扳機之前，您就知道您的電子郵件是完美的！\
+   這樣，在扣動扳機之前，您就知道您的電子郵件是完美的！
+
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 
    太棒了！
@@ -114,12 +115,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [瞭解行銷人員時刻](understanding-marketo-moments.md)
->* [瞭解事件卡](understanding-event-cards.md)
->* [瞭解Analytics卡片](understanding-analytics-cards.md)
->* [電子郵件方案](http://docs.marketo.com/display/docs/email+programs)
-
->
-
-
+>* [瞭解行銷人員時刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [瞭解事件卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [瞭解Analytics卡片](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 
