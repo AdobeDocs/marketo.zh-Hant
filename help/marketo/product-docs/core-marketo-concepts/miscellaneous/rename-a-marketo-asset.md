@@ -3,7 +3,7 @@ unique-page-id: 2952484
 description: 重新命名Marketo Asset - Marketo Docs —— 產品檔案
 title: 將行銷人員重新命名為資產
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -26,4 +26,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >您無法重新命名已上傳的檔案和影像，或目前在智慧型清單或智慧型促銷活動中參考的資產（在篩選器、觸發器、流程步驟等）。
-
