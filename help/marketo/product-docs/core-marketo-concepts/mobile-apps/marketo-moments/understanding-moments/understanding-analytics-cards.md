@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: 瞭解Analytics卡片——行銷人員檔案——產品檔案
 title: 瞭解Analytics卡片
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## Analytics卡片{#analytics-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/OA5yfBkaNck" frameborder="0" allowfullscreen></iframe>` 當您點選Analytics卡片時，可以：
+當您點選Analytics卡片時，可以：
 
-* [讓它成為您最愛的](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [標籤為完成](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [分享](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [讓它成為您最愛的](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [標籤為完成](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [分享](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 點選Analytics卡片以顯示：
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 獲取的銷售線索{#acquired-leads}
 
-**Acquired Leads **卡顯示新銷售機會數量的逐月趨勢報表。
+**已獲取的銷售線索**&#x200B;卡顯示新銷售線索數量的逐月趨勢報告。
 
 >[!NOTE]
 >
@@ -61,12 +61,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [瞭解行銷人員時刻](understanding-marketo-moments.md)
->* [瞭解事件卡](understanding-event-cards.md)
->* [瞭解電子郵件計畫卡](understanding-email-program-cards.md)
+>* [瞭解行銷人員時刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [瞭解事件卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [瞭解電子郵件計畫卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 
->
-
-
-
-有趣的事實：Ray Tomlinson在1971年向自己發送了第一封電子郵件。
