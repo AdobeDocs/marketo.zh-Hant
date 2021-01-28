@@ -3,7 +3,7 @@ unique-page-id: 7504437
 description: 將背景影像新增至簡報——行銷人員檔案——產品檔案
 title: 新增背景影像至簡報
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立簡報](create-a-presentation.md)
-
->
-
-
+>[建立簡報](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 1. 按一下右鍵演示並選擇&#x200B;**查看設定**。
 
@@ -31,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-14-3a36-3a52.png)
 
-1. 從右側樹狀結構拖放**背景影像**至畫布。
+1. 從右樹狀結構拖放&#x200B;**背景影像**&#x200B;至畫布。
 
    ![](assets/image2015-3-24-14-3a39-3a40.png)
 
@@ -48,4 +44,3 @@ ht-degree: 0%
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 
    就這樣！
-
