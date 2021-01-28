@@ -3,7 +3,7 @@ unique-page-id: 8782021
 description: 個人化行銷時刻——行銷檔案——產品檔案
 title: 個人化行銷時刻
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -22,4 +22,3 @@ ht-degree: 0%
 或者，停用&#x200B;**僅顯示我的瞬間**&#x200B;以檢視您有權存取的所有智慧型促銷活動和電子郵件程式。
 
 ![](assets/image2015-7-16-15-3a55-3a29.png)
-
