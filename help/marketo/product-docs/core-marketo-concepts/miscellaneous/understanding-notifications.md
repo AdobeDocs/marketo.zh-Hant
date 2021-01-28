@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: 瞭解通知——行銷人員檔案——產品檔案
 title: 瞭解通知
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 1. 選擇「通知類型」，然後輸入要傳送通知的電子郵件地址。
 
-![](assets/image2014-10-10-13-3a0-3a37.png)
+   ![](assets/image2014-10-10-13-3a0-3a37.png)
 
 >[!NOTE]
 >
@@ -44,4 +44,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >想要取消訂閱通知電子郵件嗎？ 沒問題。 只要按一下電子郵件底部的&#x200B;**取消訂閱通知**&#x200B;連結即可。
-
