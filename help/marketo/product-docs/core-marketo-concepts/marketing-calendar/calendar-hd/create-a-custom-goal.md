@@ -3,7 +3,7 @@ unique-page-id: 7504130
 description: 建立自訂目標——行銷人員檔案——產品檔案
 title: 建立自訂目標
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 目標是追蹤進度並激勵團隊的方式。 建立後，必須手動更新。
 
-與簡報一樣，目標也是[workspace](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)特定。
+與簡報一樣，目標也是[workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)特定。
 
 1. 前往&#x200B;**日曆**。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. 選擇**目標**頁籤。
+1. 選擇&#x200B;**目標**&#x200B;頁籤。
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
@@ -48,4 +48,3 @@ ht-degree: 0%
    您的自訂目標已建立！
 
    ![](assets/image2015-3-24-12-3a41-3a43.png)
-
