@@ -3,7 +3,7 @@ unique-page-id: 4720779
 description: 瞭解資料夾——行銷人員檔案——產品檔案
 title: 瞭解資料夾
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 瞭解資料夾{#understanding-folders}
 
-程式中的資料夾可用來組織您的智慧型促銷活動和資產。 這與[促銷活動資料夾](create-new-campaign-folder.md)不同。
+程式中的資料夾可用來組織您的智慧型促銷活動和資產。 這與[促銷活動資料夾](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)不同。
 
 ## 建立資料夾{#create-a-folder}
 
@@ -76,4 +76,3 @@ ht-degree: 0%
 * 使用中的資產即使在封存後仍能繼續運作
 * 您可以使用篩選器來選取要用於報表的已封存資產
 * 封存的資產不會停用。 如果您希望它們停止執行，也必須停用
-
