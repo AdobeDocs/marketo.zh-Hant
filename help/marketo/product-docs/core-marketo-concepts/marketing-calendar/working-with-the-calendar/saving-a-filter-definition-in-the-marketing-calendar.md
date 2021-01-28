@@ -3,9 +3,9 @@ unique-page-id: 1147296
 description: 將篩選定義儲存在行銷行事歷——行銷檔案——產品檔案
 title: 在行銷日曆中儲存篩選定義
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [篩選行銷行事歷](filtering-the-marketing-calendar.md)
-
->
-
-
+>[篩選行銷行事歷](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
 
 1. 定義篩選。
 
@@ -39,14 +35,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   如果您需要，您可以[將定義的副本](sharing-a-filter-definition-in-the-marketing-calendar.md)傳送給其他Marketo使用者。
+   如果您需要，您可以[將定義的副本](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)傳送給其他Marketo使用者。
 
    >[!NOTE]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [在行銷日曆中共用篩選定義](sharing-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[在行銷日曆中共用篩選定義](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)
