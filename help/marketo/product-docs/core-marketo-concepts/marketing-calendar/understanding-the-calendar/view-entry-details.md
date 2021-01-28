@@ -3,7 +3,7 @@ unique-page-id: 2953325
 description: 檢視登入詳細資訊——行銷人員檔案——產品檔案
 title: 檢視參加項目詳細資訊
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -23,10 +23,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-26-10-3a31-3a1.png)
 
-   `  
-`
-
 >[!TIP]
 >
 >嘗試以滑鼠右鍵按一下右側的詳細資訊。 您可以看到要導覽或彈出編輯器的功能表。 不錯吧？
-
