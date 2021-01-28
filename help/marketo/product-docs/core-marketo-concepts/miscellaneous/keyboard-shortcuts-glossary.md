@@ -3,7 +3,7 @@ unique-page-id: 1147318
 description: 鍵盤快速鍵辭彙表——行銷檔案——產品檔案
 title: 鍵盤快速鍵辭彙表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -44,4 +44,3 @@ ht-degree: 0%
 | ESC | 特寫快顯 |
 | 退貨／輸入 | 送出快顯視窗 |
 | Ctrl + Alt/Opt + H | 隱藏／取消隱藏表單編輯器中的欄位 |
-
