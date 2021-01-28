@@ -3,9 +3,9 @@ unique-page-id: 1147239
 description: 將計畫狀態欄新增至計畫報表——行銷人員檔案——產品檔案
 title: 將程式狀態列添加到程式報表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 將程式狀態列添加到程式報告{#add-program-status-columns-to-a-program-report}
 
-將有關程式狀態的統計資料添加到[程式效能報告](create-a-program-performance-report.md)。
+將有關程式狀態的統計資料添加到[程式效能報告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)。
 
 1. 前往行銷活動（或Analytics）。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/emailperformance.jpg)
 
-1. 按一下「設定」標籤，並拖曳至「頻道」標籤上。
+1. 按一下「**Setup**」標籤，並拖曳至「Channel」標籤上。
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
@@ -33,9 +33,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >若要顯示程式狀態欄，您的報表只能依&#x200B;*一個*&#x200B;頻道來篩選。
+   >若要顯示程式狀態欄，您的報表只能依&#x200B;_一個_&#x200B;頻道來篩選。
 
-1. 選中「顯示程式狀態列」(Show program status columns)選項。 按一下「套用」。
+1. 選中「顯示程式狀態列」(Show program status columns)選項。 按一下&#x200B;**Apply**。
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
@@ -45,19 +45,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您在程式中未看到每個狀態的欄，請確定您已選取要在報表中顯示[的欄。](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+>如果您在程式中未看到每個狀態的欄，請確定您已選取要在報表中顯示](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)的欄。[
 
 >[!MORELIKETHIS]
 >
->* [依標籤篩選程式報表](filter-a-program-report-by-tag.md)
-
->
-
-
-
->[!NOTE]
->
->**深入探討**
->
->進一步瞭解[基本報告](http://docs.marketo.com/display/docs/basic+reporting)。
-
+>[依標籤篩選程式報表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
