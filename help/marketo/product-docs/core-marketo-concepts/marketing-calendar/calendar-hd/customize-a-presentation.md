@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: 自訂簡報——行銷檔案——產品檔案
 title: 自訂簡報
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -23,18 +23,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立自訂](create-a-custom-goal.md) 目標或 [智慧清單目標](create-a-smart-list-goal.md)
+>* [建立自訂](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) 目標或 [智慧清單目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)
    >
    >
-* [建立簡報](create-a-presentation.md)
-
->
-
+* [建立簡報](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 
 ## 選擇視圖{#choosing-the-views}
 
-簡報會循環檢視您選擇的不同[篩選定義](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)。 視需要拉入任意數量的檢視，並自訂頻率。
+簡報會循環檢視您選擇的不同[篩選定義](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)。 視需要拉入任意數量的檢視，並自訂頻率。
 
 1. 從右側樹狀結構中，拖曳您要在簡報中旋轉的不同檢視。
 
@@ -42,7 +39,7 @@ ht-degree: 0%
 
 ## 新增目標{#add-a-goal}
 
-當簡報顯示您的團隊目標時，最棒的簡報。 只需拖曳至不同的[自訂目標](create-a-custom-goal.md)或[智慧清單目標](create-a-smart-list-goal.md)即可。 最多可以用10個。
+當簡報顯示您的團隊目標時，最棒的簡報。 只需拖曳至不同的[自訂目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md)或[智慧清單目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)即可。 最多可以用10個。
 
 1. 從右側樹狀結構拖曳您要在簡報中顯示的不同目標。
 
@@ -52,7 +49,7 @@ ht-degree: 0%
 
 在您提取簡報中想要的檢視後，請設定它在不同檢視之間旋轉的頻率。
 
-1. 按一下** 5分鐘**（這是預設節奏）。
+1. 按一下&#x200B;**5分鐘**（這是預設順序）。
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
@@ -76,7 +73,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->為簡報設定[背景影像](add-a-background-image-to-a-presentation.md)。 我們建議小貓或彩虹。
+>為簡報設定[背景影像](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)。 我們建議小貓或彩虹。
 
 ## 預覽簡報{#preview-a-presentation}
 
@@ -92,14 +89,8 @@ ht-degree: 0%
 
    不喜歡你看到的嗎？ 返回並使用不同的篩選定義來建立您喜歡的檢視。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相關文章**
->
->* [新增背景影像至簡報](add-a-background-image-to-a-presentation.md)
->* [啟動簡報](launch-a-presentation.md)
-
->
-
-
+>* [新增背景影像至簡報](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)
+>* [啟動簡報](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md)
 
