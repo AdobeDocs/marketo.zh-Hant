@@ -3,7 +3,7 @@ unique-page-id: 1147136
 description: 編輯計畫計畫檢視——行銷檔案——產品檔案中的項目
 title: 在程式計畫視圖中編輯條目
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -54,4 +54,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 > 已執行的智慧型促銷活動和電子郵件程式項目無法移至過去。
-
