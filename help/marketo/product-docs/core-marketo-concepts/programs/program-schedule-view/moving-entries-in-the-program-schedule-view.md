@@ -3,9 +3,9 @@ unique-page-id: 1147134
 description: 在「計畫計畫檢視——行銷人員檔案——產品檔案」中移動項目
 title: 在程式計畫視圖中移動條目
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a47-3a35.png)
 
-   沃夫！ 現在將重新排程您的參加項目。
+   現在將重新排程您的參加項目。
 
    ![](assets/image2014-9-18-17-3a49-3a19.png)
-
