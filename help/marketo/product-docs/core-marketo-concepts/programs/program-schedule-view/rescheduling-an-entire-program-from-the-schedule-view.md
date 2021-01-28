@@ -3,9 +3,9 @@ unique-page-id: 1147138
 description: 從「計畫視圖——行銷人員文檔——產品文檔」重新計畫整個計畫
 title: 從計畫視圖重新計畫整個程式
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. 選取「事件動作」下拉式清單。 選擇「重新計劃分錄」。
+1. 選取「事件動作」下拉式清單。 選擇&#x200B;**重新計畫條目**。
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. 按一下重新計畫。
+1. 按一下&#x200B;**重新計畫**。
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 
-1. 哇！ 然後，我們的資料擷取器會取消核准、重新計畫並重新核准您所有具有正確日期的資產！
+1. 然後，我們的資料擷取器會取消核准、重新計畫並重新核准您所有具有正確日期的資產！
 
    ![](assets/image2014-9-23-15-3a19-3a1.png)
 
@@ -43,5 +43,6 @@ ht-degree: 0%
 >
 >已執行的資產不會移動。
 
-瘋了！ 現在，一切都改了。 視需要調整任何特定日期。    ![](assets/image2014-9-23-15-3a19-3a58.png)
+現在，一切都改了。 視需要調整任何特定日期。
 
+![](assets/image2014-9-23-15-3a19-3a58.png)
