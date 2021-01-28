@@ -3,9 +3,9 @@ unique-page-id: 2953364
 description: 瞭解／啟用計畫焦點——行銷檔案——產品檔案
 title: 瞭解／啟用計畫焦點
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 瞭解／啟用程式焦點{#understand-enable-program-focus}
 
-「行銷行事歷」提供您對事物的全貌檢視，但也允許您進行一些互動。 您可以[建立](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)、[edit](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)、[delete](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)和[確認](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)條目。 若要與項目互動，您必須先著重於程式。
+「行銷行事歷」提供您對事物的全貌檢視，但也允許您進行一些互動。 您可以[建立](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)、[edit](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)、[delete](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)和[確認](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)條目。 若要與項目互動，您必須先著重於程式。
 
-1. 前往&#x200B;**Marketing** **Calendar**。
+1. 前往&#x200B;**行銷行事歷**。
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
@@ -39,12 +39,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [直接在行銷日曆中建立項目](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
->* [直接在行銷日曆中編輯項目](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
->* [直接在行銷日曆中刪除項目](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
->* [直接在行銷日曆中確認項目](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
+>* [直接在行銷日曆中建立項目](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
+>* [直接在行銷日曆中編輯項目](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
+>* [直接在行銷日曆中刪除項目](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
+>* [直接在行銷日曆中確認項目](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
 
