@@ -3,7 +3,7 @@ unique-page-id: 2953207
 description: 建立新的促銷活動資料夾——行銷人員檔案——產品檔案
 title: 建立新的促銷活動資料夾
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d4c7832c4f2b1dbc74bdbb2f3b52df905e0cb7d3
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. 可選：輸入&#x200B;**Description**，然後按一下** Create。**
+1. 可選：輸入&#x200B;**說明**，然後按一下&#x200B;**建立**。
 
    >[!TIP]
    >
@@ -43,14 +43,10 @@ ht-degree: 0%
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   現在，當[建立新程式](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)時，您會將此促銷活動資料夾視為選項。
+   現在，當[建立新程式](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)時，您會將此促銷活動資料夾視為選項。
 
 >[!MORELIKETHIS]
 >
->* [建立方案](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [建立新的智慧型促銷活動](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
->
-
-
+>* [建立方案](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [建立新的智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
