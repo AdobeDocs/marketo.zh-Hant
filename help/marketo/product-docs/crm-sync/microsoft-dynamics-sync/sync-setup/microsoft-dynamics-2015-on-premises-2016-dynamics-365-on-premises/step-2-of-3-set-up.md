@@ -3,7 +3,7 @@ unique-page-id: 7504739
 description: 安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟2（共3步）-行銷檔案——產品檔案
 title: 安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟2（共3步）
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這適用於Marketo 4.0.0.14版及更新版本。 對於舊版，所有使用者都必須具有同步使用者角色。 若要升級您的Marketo，請參閱[升級Microsoft Dynamics的Marketo解決方案](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)。
+>這適用於Marketo 4.0.0.14版及更新版本。 對於舊版，所有使用者都必須具有同步使用者角色。 若要升級您的Marketo，請參閱[升級Microsoft Dynamics的Marketo解決方案](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)。
 
 1. 在&#x200B;**Settings**&#x200B;下，按一下&#x200B;**Security**。
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
    ![](assets/configure4.png)
 
-1. 按一下「**發佈所有自定義**」。
+1. 按一下&#x200B;**發佈所有自定義**。
 
    ![](assets/publish-all-customizations1.png)
 
