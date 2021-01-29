@@ -3,7 +3,7 @@ unique-page-id: 10099389
 description: Microsoft Dynamics的Marketo Plugin版本- Marketo Docs —— 產品檔案
 title: Microsoft Dynamics專用的Marketo增效模組版本
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 3deb7e1c435368533222ddedf064d2d87fa75c5f
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 7%
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 當您第一次同步至Microsoft Dynamics時，請下載適用於Marketo的最新版本外掛程式。 Marketo會定期更新這些外掛程式，因此您可以返回相同位置下載新版本。
 
-[下載與Dynamics版](sync-setup/download-the-marketo-lead-management-solution.md) 本對應的最新外掛程式。
+[下載與Dynamics版](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 本對應的最新外掛程式。
 
 ![](assets/lead-management-solution.png)
 
@@ -102,5 +102,4 @@ ht-degree: 7%
 
 >[!MORELIKETHIS]
 >
->* [下載Marketo Lead管理解決方案](sync-setup/download-the-marketo-lead-management-solution.md)
-
+>[下載Marketo Lead管理解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
