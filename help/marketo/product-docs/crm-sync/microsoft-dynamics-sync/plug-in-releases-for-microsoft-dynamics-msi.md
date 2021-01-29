@@ -3,9 +3,9 @@ unique-page-id: 10099102
 description: Microsoft Dynamics MSI的增效模組版本——行銷檔案——產品檔案
 title: Microsoft Dynamics MSI的增效模組版本
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '203'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 當您第一次同步至Microsoft Dynamics時，請下載並安裝Marketo Sales Insight(MSI)的最新版本外掛程式。 Marketo會定期更新這些外掛程式，讓您回到相同位置下載新版本。
 
-請[下載與Dynamics版本對應的最新外掛程式](http://docs.marketo.com/x/LoJo)。
+請[下載與Dynamics版本對應的最新外掛程式](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 4%
 
 ## 更新您的MSI解決方案{#updating-your-msi-solution}
 
-1. 匯入解決方案的最新版本，而不是Dynamics CRM的現有版本(例如：如果您的Dynamics CRM有1.4版，而最新版是1.5版，您應匯入&#x200B;*over* 1.4版。
+1. 匯入解決方案的最新版本，而不是Dynamics CRM的現有版本(例如：如果您的Dynamics CRM有1.4版，而最新版是1.5版，您應匯入&#x200B;_over_ 1.4版。
 1. 您會看到下列快顯視窗。 選擇&#x200B;**Update**&#x200B;和&#x200B;**Overwrite customization**&#x200B;選項，然後按一下&#x200B;**Import**。
 
    ![](assets/one.png)
@@ -69,4 +69,3 @@ ht-degree: 4%
   </tr> 
  </tbody> 
 </table>
-
