@@ -3,7 +3,7 @@ unique-page-id: 10095429
 description: 修正動態驗證同步問題——行銷人員檔案——產品檔案
 title: 修正動態驗證同步問題
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 0%
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 按一下**設定**並選擇&#x200B;**解決方案。**
+1. 按一下&#x200B;**Settings**&#x200B;並選擇&#x200B;**Solutions.**
 
    ![](assets/eleven.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 按一下「**設定**」並選取「行銷設定」。****
+1. 按一下「**設定**」，然後選取「行銷人員設定」。****
 
    ![](assets/thirteen.png)
 
@@ -113,5 +113,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[驗證Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
-
+>[驗證Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
