@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: 驗證Microsoft Dynamics Sync —— 行銷檔案——產品檔案
 title: 驗證Microsoft Dynamics Sync
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->如果您的Dynamics Sync已啟用多因素驗證(MFA)，則必須停用它，Dynamics才能與Marketo正確同步。 如需詳細資訊，請聯絡[行銷支援](http://nation.marketo.com/community/support_solutions)。
+>如果您的Dynamics Sync已啟用多因素驗證(MFA)，則必須停用它，Dynamics才能與Marketo正確同步。 如需詳細資訊，請聯絡[行銷支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 ## 在Marketo {#run-validate-sync-in-marketo}中執行驗證同步
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. 如果您看到![—](assets/delete.png)，則該步驟會發生問題。 請參閱[修正動態驗證同步問題](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)以識別並修正問題。 然後重新執行同步驗證步驟，直到結果看起來與上述影像相同。
+1. 如果您看到![—](assets/delete.png)，則該步驟會發生問題。 請參閱[修正動態驗證同步問題](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)以識別並修正問題。 然後重新執行同步驗證步驟，直到結果看起來與上述影像相同。
 
    >[!CAUTION]
    >
@@ -53,5 +53,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[修正動態驗證同步問題](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
-
+>[修正動態驗證同步問題](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
