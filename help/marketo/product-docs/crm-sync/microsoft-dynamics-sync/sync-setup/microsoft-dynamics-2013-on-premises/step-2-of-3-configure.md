@@ -3,7 +3,7 @@ unique-page-id: 3571816
 description: 第2步（共3步）-為行銷人員設定同步使用者（2013年內部部署）-行銷人員檔案——產品檔案
 title: 步驟2（共3步）-為Marketo設定同步使用者（2013年內部部署）
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這適用於Marketo增效模組4.0.0.14版及更新版本。 對於舊版，所有使用者都必須具有同步使用者角色。 若要升級Marketo，請參閱[升級Microsoft Dynamics的Marketo解決方案](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)。
+>這適用於Marketo增效模組4.0.0.14版及更新版本。 對於舊版，所有使用者都必須具有同步使用者角色。 若要升級Marketo，請參閱[升級Microsoft Dynamics的Marketo解決方案](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)。
 
 1. 在&#x200B;**Settings**&#x200B;下，按一下&#x200B;**Administration**。
 
@@ -80,7 +80,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-11-11-3a15-3a32.png)
 
-1. 按一下「**發佈所有自定義**」。
+1. 按一下&#x200B;**發佈所有自定義**。
 
    ![](assets/publish-all-customizations1.png)
 
