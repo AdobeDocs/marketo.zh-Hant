@@ -3,7 +3,7 @@ unique-page-id: 3571846
 description: Microsoft Dynamics Sync —— 自訂實體同步——行銷檔案——產品檔案
 title: Microsoft Dynamics Sync —— 自訂實體同步
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->若要使用自訂物件，它必須與Dynamics中的[lead](microsoft-dynamics-sync-lead-sync.md)、[contact](microsoft-dynamics-sync-contact-sync.md)或[account](microsoft-dynamics-sync-account-sync.md)物件相關聯。
+>若要使用自訂物件，它必須與Dynamics中的[lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)、[contact](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)或[account](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)物件相關聯。
 
 >[!CAUTION]
 >
@@ -35,9 +35,11 @@ ht-degree: 0%
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. 安裝支援自訂實體同步的Microsoft Dynamics版本（2_0_0_2之後）。 請參閱[Marketo Plugin Releases for MIcrosoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
+1. 安裝支援自訂實體同步的Microsoft Dynamics版本（2_0_0_2之後）。 請參閱[Marketo Plugin Releases for MIcrosoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
+
 1. 為Marketo Sync使用者提供您計畫同步的任何實體的讀取存取權。
-1. 在「資料庫管理」下，按一下** Dynamics Entities Sync**連結。
+
+1. 在「資料庫管理」下，按一下&#x200B;**Dynamics Entities Sync**&#x200B;連結。
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
@@ -45,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. 清單同步後，選擇要同步的欄位和要用作智慧清單中[constraints](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)和／或觸發器的欄位。 完成後，按一下「啟用同步」。****
+1. 清單同步後，選擇要同步的欄位和要用作智慧清單中[constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)和／或觸發器的欄位。 完成後，按一下「啟用同步」。****
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
@@ -59,6 +61,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >實體名稱最多可包含** 33個字元**。
+   >實體名稱最多可包含&#x200B;**33個字元**。
 
 你好！
