@@ -3,7 +3,7 @@ unique-page-id: 10092977
 description: Microsoft Dynamics Sync篩選器——資格——行銷人員文檔——產品文檔
 title: Microsoft Dynamics Sync篩選器-Qualify
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -29,4 +29,3 @@ ht-degree: 0%
 >[!CAUTION]
 >
 >我們僅支援現成可用的Qualify轉換程式。
-
