@@ -3,23 +3,20 @@ unique-page-id: 7504744
 description: 安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟3（共3步）-行銷檔案——產品檔案
 title: 安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟3（共3步）
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
 
-# 安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟3（共3個步驟）{#install-marketo-for-dynamics-on-prem-and-on-prem-step-of}
+# 步驟3（共3步）:Connect Marketo Dynamics（2015 On-Prem和2016 365 On-Prem）{#step-of-connect-marketo-dynamics-on-premises-and-365}
 
 >[!PREREQUISITES]
 >
->* [安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟1（共3步）](step-1-of-3-install.md)
->* [安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟2（共3步）](step-2-of-3-set-up.md)
-
->
-
+>* [安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟1（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟2（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -54,11 +51,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Market中的使用者名稱必須符合CRM中同步使用者的使用者名稱。 格式可以是[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#8cf9ffe9fecce8e3e1ede5e2a2efe3e1)或DOMAIN\user。
+   >Market中的使用者名稱必須符合CRM中同步使用者的使用者名稱。 格式可以是user@domain.com或DOMAIN\user。
 
    >[!TIP]
    >
-   >不知道網址嗎？ 我們將向您展示如何在此處找到[Dynamics Organization Service URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
+   >不知道網址嗎？ 我們將向您展示如何在此處找到[Dynamics Organization Service URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
 
 ## 選擇要同步的欄位{#select-fields-to-sync}
 
