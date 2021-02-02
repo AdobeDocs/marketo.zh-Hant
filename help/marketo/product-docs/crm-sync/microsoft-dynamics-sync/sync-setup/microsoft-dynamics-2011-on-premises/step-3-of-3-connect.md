@@ -3,9 +3,9 @@ unique-page-id: 3571809
 description: 第3步（共3步）-將Microsoft Dynamics與Marketo（2011年內部部署）-行銷人員檔案——產品檔案
 title: 第3步（共3步）-將Microsoft Dynamics與Marketo連接（2011年內部部署）
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [步驟1（共3步）:安裝Marketo解決方案（2011年內部部署）](step-1-of-3-install.md)
->* [步驟2（共3步）:在Dynamics中設定Marketto同步使用者（2011年內部部署）](step-2-of-3-set-up.md)
+>* [步驟1（共3步）:安裝Marketo解決方案（2011年內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
+>* [步驟2（共3步）:在Dynamics中設定Marketto同步使用者（2011年內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -53,17 +53,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Market中的使用者名稱必須符合CRM中同步使用者的使用者名稱。 格式可以是[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#a0d5d3c5d2e0c4cfcdc1c9ce8ec3cfcd)或DOMAIN\user。
+   >Market中的使用者名稱必須符合CRM中同步使用者的使用者名稱。 格式可以是user@domain.com或DOMAIN\user。
 
    >[!TIP]
    >
-   >不知道網址嗎？ 我們將向您展示如何在此處找到[Dynamics Organization Service URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
+   >不知道網址嗎？ 我們將向您展示如何在此處找到[Dynamics Organization Service URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
 
 ## 選擇要同步的欄位{#select-fields-to-sync}
 
 現在，我們需要選取要同步的欄位。
 
-1. 按一下&#x200B;**在**&#x200B;步驟2中編輯&#x200B;**:選擇要同步的欄位。**
+1. 按一下「步驟2:選擇要同步的欄位。********
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
