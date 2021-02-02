@@ -3,7 +3,7 @@ unique-page-id: 10097584
 description: 同步狀態——行銷人員檔案——產品檔案
 title: 同步狀態
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. 按一下「Sync Status **（同步狀態&lt;a1/>）」頁籤。**
+1. 按一下「Sync Status **（同步狀態**）」頁籤。
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. 按一下**檢視：**下拉式清單** **並選擇**前一小時**以檢視總處理能力資訊。
+1. 按一下&#x200B;**查看：**&#x200B;下拉式清單並選擇&#x200B;**最後一小時**&#x200B;以查看吞吐量資訊。
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -55,5 +55,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [通知類型](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-
+>[通知類型](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
