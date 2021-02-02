@@ -3,7 +3,7 @@ unique-page-id: 4719297
 description: 啟用／停用自訂物件同步——行銷人員檔案——產品檔案
 title: 啟用／停用自訂物件同步
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -23,11 +23,9 @@ ht-degree: 0%
 
 1. 按一下&#x200B;**管理**。
 
-   ** ![](assets/one.png)
+   ![](assets/one.png)
 
-   **
-
-1. 在「資料庫管理」菜單中，按一下「Salesforce ****&#x200B;對象同步&#x200B;**」。**
+1. 在「資料庫管理」菜單中，按一下&#x200B;**Salesforce對象同步**。
 
    ![](assets/two-2.png)
 
@@ -57,9 +55,7 @@ ht-degree: 0%
 
 1. 再次按一下&#x200B;**啟用同步**。
 
-   ** ![](assets/image2014-12-10-10-3a15-3a40.png)
-
-   **
+   ![](assets/image2014-12-10-10-3a15-3a40.png)
 
 1. 返回&#x200B;**Salesforce**&#x200B;標籤，然後按一下「啟用同步」。****
 
@@ -71,7 +67,7 @@ ht-degree: 0%
 >
 >您無法在具有觸發器的智慧型促銷活動中使用自訂物件。
 
-1. 在您的智慧清單中，拖曳到&#x200B;**Has Opportunity**&#x200B;過濾器並設定為&#x200B;**true**。
+1. 在智慧清單中，拖動到&#x200B;**Has Opportunity**&#x200B;過濾器並設定為&#x200B;**true**。
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
@@ -83,9 +79,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [將自定義對象欄位添加／刪除為智慧清單／觸發器約束](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
-
->
-
-
-
+>[將自定義對象欄位添加／刪除為智慧清單／觸發器約束](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
