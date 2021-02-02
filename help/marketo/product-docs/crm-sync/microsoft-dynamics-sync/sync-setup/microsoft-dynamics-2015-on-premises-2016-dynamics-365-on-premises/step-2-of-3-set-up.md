@@ -3,27 +3,21 @@ unique-page-id: 7504739
 description: 安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟2（共3步）-行銷檔案——產品檔案
 title: 安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟2（共3步）
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
 
 
-# 步驟2（共3步）
-
-<!--Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 2 of 3-->
+# Step 2 of 3 Set Up Marketto for Dynamics（2015 On-Prem和2016 365 On-Prem）{#step-of-set-up-for-marketo-on-premises-and-365}
 
 完成上述步驟的出色工作。 讓我們繼續過去。
 
 >[!PREREQUISITES]
 >
->* [安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟1（共3步）](step-1-of-3-install.md)
-
->
-
-
+>[安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟1（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
 
 ## 分配同步用戶角色{#assign-sync-user-role}
 
@@ -31,7 +25,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這適用於Marketo 4.0.0.14版及更新版本。 對於舊版，所有使用者都必須具有同步使用者角色。 若要升級您的Marketo，請參閱[升級Microsoft Dynamics的Marketo解決方案](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)。
+>這適用於Marketo 4.0.0.14版及更新版本。 對於舊版，所有使用者都必須具有同步使用者角色。 若要升級您的Marketo，請參閱[升級Microsoft Dynamics的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)。
 
 1. 在&#x200B;**Settings**&#x200B;下，按一下&#x200B;**Security**。
 
@@ -55,7 +49,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您看不到角色，請返回至3](step-1-of-3-install.md)的[步驟1並匯入解決方案。
+   >如果您看不到角色，請返回至3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)的[步驟1並匯入解決方案。
 
    >[!NOTE]
    >
@@ -71,7 +65,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果Marketo Config遺失，請嘗試重新整理頁面。 如果問題持續存在，[會發佈Marketo Solution](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations)，或嘗試登出並重新登入。
+   >如果Marketo Config遺失，請嘗試重新整理頁面。 如果問題持續存在，[會發佈Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)，或嘗試登出並重新登入。
 
 1. 按一下&#x200B;**Default**。
 
@@ -91,12 +85,10 @@ ht-degree: 0%
 
 ## 繼續執行步驟3 {#before-proceeding-to-step}之前
 
-* 如果您想要限制同步的記錄數，[現在設定自訂同步篩選](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)。
-* 運行[驗證Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)進程。 它會驗證您的初始設定是否正確完成。
-* 在Microsoft Dynamics CRM中登入Marketo同步使用者。
+* 如果您想要限制同步的記錄數，[現在設定自訂同步篩選](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)。
+* 運行[驗證Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)進程。 它會驗證您的初始設定是否正確完成。
+* 登入Microsoft Dynamics CRM中的Marketo同步使用者。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相關文章**
->
->[安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟3（共3步）](step-3-of-3-connect.md)
+>[安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟3（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
