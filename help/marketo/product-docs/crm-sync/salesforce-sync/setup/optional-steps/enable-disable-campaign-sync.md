@@ -3,7 +3,7 @@ unique-page-id: 4719289
 description: 啟用／停用促銷活動同步——行銷人員檔案——產品檔案
 title: 啟用／停用促銷活動同步
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -15,15 +15,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->需要管理員權限。
+>**需要管理員權限**
 
 此選項可讓Market將其方案會籍和狀態與Salesforce促銷活動同步，反之亦然。
 
-1. 前往**管理員， **按一下&#x200B;**Salesforce。**
+1. 前往&#x200B;**Admin**，按一下&#x200B;**Salesforce**。
 
-   ** ![](assets/image2014-12-9-13-3a36-3a49.png)
-
-   **
+   ![](assets/image2014-12-9-13-3a36-3a49.png)
 
 1. 按一下「編輯同步設定」**。**
 
@@ -37,11 +35,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [SFDC同步：促銷活動同步](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
->* [設定預設銷售線索姓氏和公司值](set-default-person-last-name-and-company-name.md)
->* [自訂活動同步](customize-activities-sync.md)
-
->
-
-
+>* [SFDC同步：促銷活動同步](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+>* [設定預設銷售線索姓氏和公司值](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
+>* [自訂活動同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)
 
