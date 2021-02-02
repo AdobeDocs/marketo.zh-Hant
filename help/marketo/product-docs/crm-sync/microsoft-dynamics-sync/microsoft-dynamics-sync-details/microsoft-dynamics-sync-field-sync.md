@@ -3,9 +3,9 @@ unique-page-id: 3571838
 description: Microsoft Dynamics Sync -Field Sync - Marketo Docs —— 產品文檔
 title: Microsoft Dynamics Sync -Field Sync
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -31,21 +31,12 @@ Marketo to Dynamics sync功能強大。 以下是詳細資訊。
 
 ## 我在動力學(Dynamics)上建立了一個欄位。 我可以將它同步至Marketo嗎？{#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-是的，只要您的同步使用者在Dynamics中有存取權，您就可以[同步欄位](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)。
+是的，只要您的同步使用者在Dynamics中有存取權，您就可以[同步欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)。
 
 哪些欄位將與Marketo同步？
 
-您可以在設定期間選取要同步的欄位。[](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)
+您可以在設定期間選取要同步的欄位。[](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)
 
 ## 如果我需要在Marketo和Dynamics同步後新增自訂欄位，該怎麼辦？{#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
-您可以隨時新增欄位，並期待資料從Dynamics重新整理至Marketo。 如需詳細資訊，請參閱[使用與Microsoft Dynamics快速同步以取得新自訂欄位](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)。
-
->[!MORELIKETHIS]
->
->* [使用Quick Sync with Microsoft Dynamics，建立新的自訂欄位](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
-
->
-
-
-
+您可以隨時新增欄位，並期待資料從Dynamics重新整理至Marketo。 如需詳細資訊，請參閱[使用與Microsoft Dynamics快速同步以取得新自訂欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)。
