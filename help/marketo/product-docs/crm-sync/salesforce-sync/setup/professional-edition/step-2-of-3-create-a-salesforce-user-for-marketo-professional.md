@@ -3,9 +3,9 @@ unique-page-id: 3571797
 description: 第2步（共3步）-建立適用於行銷人員的Salesforce使用者（專業人員）-行銷人員檔案——產品檔案
 title: 第2步（共3步）-建立適用於行銷人員的Salesforce使用者（專業人員）
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [步驟1（共3步）:將行銷人員欄位新增至Salesforce（專業版）](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
-
->
-
-
+>[步驟1（共3步）:將行銷人員欄位新增至Salesforce（專業版）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
 在本文中，您將使用Salesforce頁面配置來自訂欄位權限，並建立Marketo-Salesforce同步使用者。
 
@@ -92,9 +88,6 @@ Salesforce Professional會使用「頁面版面」來設定欄位層級的協助
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >請確定&#x200B;**全天事件**&#x200B;欄位已新增至&#x200B;**事件頁面配置**。
 
 ## 建立同步用戶{#create-sync-user}
@@ -123,13 +116,6 @@ Marketo需要認證才能存取Salesforce。 使用以下步驟建立的專用�
 
 太棒了！ 現在，您擁有Marketo可用來連線至Salesforce的帳戶。 我們來吧。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相關文章**
->
->* [步驟3（共3步）:將行銷人員與Salesforce（專業版）連結](step-3-of-3-connect-marketo-and-salesforce-professional.md)
-
->
-
-
-
+>[步驟3（共3步）:將行銷人員與Salesforce（專業版）連結](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
