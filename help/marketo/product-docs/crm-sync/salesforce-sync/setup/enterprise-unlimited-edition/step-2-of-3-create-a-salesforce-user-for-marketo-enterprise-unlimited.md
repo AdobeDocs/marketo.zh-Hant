@@ -3,9 +3,9 @@ unique-page-id: 2360364
 description: 第2步（共3步）-建立適用於行銷人員的Salesforce使用者（企業版／不限數量）-行銷人員檔案——產品檔案
 title: 第2步（共3步）-建立適用於行銷人員的Salesforce使用者（企業版／不限數量）
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '420'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [步驟1（共3步）:將行銷人員欄位新增至Salesforce（企業版／無限製版）](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
-
->
-
-
+>[步驟1（共3步）:將行銷人員欄位新增至Salesforce（企業版／無限製版）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
 在本文中，您將在Salesforce設定檔中設定使用者權限，並建立Marketo-Salesforce整合帳戶。
 
@@ -100,10 +96,10 @@ ht-degree: 0%
 
 1. 在描述檔詳細資訊頁面中，前往&#x200B;**Field-Level Security**&#x200B;區段。 按一下&#x200B;**View**&#x200B;可編輯對象的輔助功能：
 
-   * `Lead`
-   * `Contact`
-   * `Account`
-   * `Opportunity`
+   * 銷售線索
+   * 聯絡人
+   * 帳戶
+   * 機會
 
    >[!TIP]
    >
@@ -115,18 +111,15 @@ ht-degree: 0%
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. 找出不需要的欄位，確定未勾選「**讀取存取&#x200B;**」和「編輯存取**」。**&#x200B;完成時，按一下「儲存」。****
+1. 找到不需要的欄位，確保&#x200B;**讀訪問**&#x200B;和&#x200B;**編輯訪問**&#x200B;未選中。 完成時，按一下「儲存」。****
 
    >[!NOTE]
-   >
-   >**提醒**
-   >
    >
    >僅編輯自訂欄位的協助功能。
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. 在禁用完所有不需要的欄位後，必須選中**讀訪問和編輯訪問**以查看以下對象欄位。 完成時，按一下「儲存」。****
+1. 在禁用所有不需要的欄位後，必須選中&#x200B;**讀取訪問和編輯訪問**&#x200B;以查看以下對象欄位。 完成時，按一下「儲存」。****
 
 <table> 
  <tbody> 
@@ -155,7 +148,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->建立專屬的Salesforce帳戶(例如[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#89e4e8fbe2ecfde6c9f0e6fcfbeae6e4f9e8e7f0a7eae6e4))，以區分Marketo和其他Salesforce使用者所做的變更。
+>建立專用的Salesforce帳戶(例如marketo@yourcompany.com)，以區分Marketo和其他Salesforce使用者所做的變更。
 
 1. 在導覽列中輸入「管理使用者」，然後按一下「**使用者**」。 按一下&#x200B;**New User**。
 
@@ -169,11 +162,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**相關文章**
->
->* [步驟3（共3步）:將行銷人員連線至Salesforce（企業版／無限製版）](step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
-
->
-
-
-
+>[步驟3（共3步）:將行銷人員連線至Salesforce（企業版／無限製版）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
