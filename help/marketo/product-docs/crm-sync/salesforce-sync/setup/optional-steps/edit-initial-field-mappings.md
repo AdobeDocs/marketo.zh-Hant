@@ -3,9 +3,9 @@ unique-page-id: 4719287
 description: 編輯初始欄位對應——行銷人員檔案——產品檔案
 title: 編輯初始欄位映射
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
 >此功能僅在初始同步至Salesforce之前才可存取！ 按下&#x200B;**Sync Now**&#x200B;按鈕後，將無法再執行此操作。
 
 在初始同步至Salesforce期間，Marketo會自動將具類似名稱的自訂欄位結合至Marketo側的單一欄位，以確保資料可與CRM中的Lead和Contact物件交換。 本文說明如何自訂這些對應。
@@ -25,7 +23,7 @@ ht-degree: 0%
 
 當您在「未映射欄位」檔案夾中看到欄位時，這表示它未對應至Salesforce中「銷售機會」或「連絡人」上的類似欄位。 你可以修正。
 
-1. 按一下「編輯對應」。
+1. 按一下&#x200B;**編輯映射**。
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
@@ -69,6 +67,4 @@ ht-degree: 0%
 
    * 所有映射更改都將重置！
    * 重設架構只會新增欄位，而不會移除（即使您在同步使用者中隱藏欄位）。
-
    ![](assets/image2014-12-9-13-3a32-3a8.png)
-
