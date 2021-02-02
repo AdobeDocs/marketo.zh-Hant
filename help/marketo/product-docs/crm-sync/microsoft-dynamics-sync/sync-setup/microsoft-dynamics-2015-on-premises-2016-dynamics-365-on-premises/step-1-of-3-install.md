@@ -3,17 +3,15 @@ unique-page-id: 7504736
 description: 安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟1（共3步）-行銷檔案——產品檔案
 title: 安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟1（共3步）
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
 
-# 步驟1（共3步）
-
-<!--Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 1 of 3-->
+# 步驟1（共3步）:設定Marketo的同步使用者（2015 On-Prem和2016 365 On-Prem）{#step-of-configure-sync-user-for-marketo-on-premises-and-365}
 
 您必須先在Dynamics中安裝Marketo解決方案，才能將Microsoft Dynamics 2015內部或2016(Dynamics 365)與Marketo同步。
 
@@ -23,9 +21,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->如果您使用Microsoft Dynamics On-Premise，則必須配置[Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)(IFD)和[ Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+(ADFS)。 注意：當您按一下連結時，IFD檔案會自動下載。
+>如果您使用Microsoft Dynamics On-Premise，則必須配置[Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)(IFD)和[ Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+(ADFS)。 注意：當您按一下連結時，IFD檔案會自動下載。
 >
->[開始之前，請先下載Marketo Lead](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 管理解決方案。
+>[開始之前，請先下載Marketo Lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 管理解決方案。
 
 >[!NOTE]
 >
@@ -45,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. 按一下&#x200B;**瀏覽**&#x200B;並選擇您下載的[解決方案。 ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)按一下&#x200B;**Next**。
+1. 按一下&#x200B;**瀏覽**&#x200B;並選擇您下載的[解決方案。 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)按一下&#x200B;**Next**。
 
    ![](assets/image2015-3-19-9-20-56.png)
 
@@ -95,9 +93,6 @@ ht-degree: 0%
    >
    >停用任何Marketo SDK訊息處理程式將導致安裝中斷！
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
-   >
-   >
-   >[安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟2（共3步）](step-2-of-3-set-up.md)
+   >[安裝Marketo for Dynamics 2015 On-Prem和2016 365 On-Prem步驟2（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
