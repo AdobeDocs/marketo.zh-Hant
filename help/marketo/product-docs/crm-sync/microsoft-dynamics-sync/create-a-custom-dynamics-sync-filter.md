@@ -3,9 +3,9 @@ unique-page-id: 9437903
 description: 建立自訂動態同步篩選——行銷檔案——產品檔案
 title: 建立自訂動態同步篩選
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Marketo會在自動背景同步期間尋找此欄位，並根據此邏輯判斷�
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. 按一下**Lead **旁邊的![](assets/image2015-8-10-21-3a44-3a23.png)並選擇&#x200B;**欄位**。 然後按一下「新增」。****
+1. 按一下&#x200B;**Lead**&#x200B;旁邊的![](assets/image2015-8-10-21-3a44-3a23.png) ，然後選擇&#x200B;**Fields**。 然後按一下「新增」。****
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
@@ -67,7 +67,7 @@ Marketo會在自動背景同步期間尋找此欄位，並根據此邏輯判斷�
 
    >[!NOTE]
    >
-   >為此欄位選擇任何顯示名稱，但「名稱」欄位必須恰好為&#x200B;**new_synctomkto**。 您必須使用&#x200B;**new**&#x200B;作為預設首碼。 如果您已變更預設值，請前往此處[重設自訂欄位名稱的預設首碼](create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)。 在建立新欄位後，您可以重新變更欄位。
+   >為此欄位選擇任何顯示名稱，但「名稱」欄位必須恰好為&#x200B;**new_synctomkto**。 您必須使用&#x200B;**new**&#x200B;作為預設首碼。 如果您已變更預設值，請前往此處[重設自訂欄位名稱的預設首碼](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)。 在建立新欄位後，您可以重新變更欄位。
 
    >[!NOTE]
    >
@@ -129,7 +129,7 @@ Marketo會在自動背景同步期間尋找此欄位，並根據此邏輯判斷�
 
    >[!TIP]
    >
-   >請參閱[電子郵件位址的自訂同步篩選規則](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)，以設定規則，僅同步具有電子郵件地址之人員的記錄。
+   >請參閱[電子郵件位址的自訂同步篩選規則](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)，以設定規則，僅同步具有電子郵件地址之人員的記錄。
 
 ## 同步篩選器詳細資訊{#sync-filter-details}
 
@@ -141,21 +141,15 @@ Marketo會在自動背景同步期間尋找此欄位，並根據此邏輯判斷�
 
    >[!TIP]
    >
-   >發生此情況時，**建立[StartSync]**&#x200B;操作會新增至Marketo Log。
+   >此時，`Create [StartSync]`操作會新增至Marketo Log。
 
 1. 停止同步操作
 
    當記錄將其SyncToMkto值從「是」變更為「否」時，Marketo會收到通知，以停止同步此記錄。 但是，該記錄並未刪除，而是會停止收到更新並變成過時。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相關文章**
->
->* [Microsoft Dynamics Sync篩選器：符合資格](create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
->* [Microsoft Dynamics Sync篩選器：合併](create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
->* [電子郵件地址的自訂同步篩選規則](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
-
->
-
-
+>* [Microsoft Dynamics Sync篩選器：符合資格](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
+>* [Microsoft Dynamics Sync篩選器：合併](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
+>* [電子郵件地址的自訂同步篩選規則](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
 
