@@ -3,7 +3,7 @@ unique-page-id: 2953384
 description: 為自訂實體啟用同步——行銷檔案——產品檔案
 title: 為自訂實體啟用同步
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -26,9 +26,10 @@ ht-degree: 0%
 1. 選擇&#x200B;**Microsoft Dynamics**，然後按一下&#x200B;**禁用同步**。
 
    您必須暫時停用全域同步，才能啟用或停用自訂實體。
+
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. 在「資料庫管理」下，按一下** Dynamics Entities Sync**連結。
+1. 在「資料庫管理」下，按一下&#x200B;**Dynamics Entities Sync**&#x200B;連結。
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
@@ -40,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
-1. 選擇要同步的欄位，或在智慧清單中作為[constraints](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)和／或觸發器使用。 完成後，按一下「啟用同步」。****
+1. 選擇要同步的欄位，或在智慧清單中作為[constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)和／或觸發器使用。 完成後，按一下「啟用同步」。****
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
