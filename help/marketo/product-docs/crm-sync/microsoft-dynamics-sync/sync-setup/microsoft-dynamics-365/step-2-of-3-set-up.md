@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: 第2步（共3步）-在Dynamics中設定Marketo Sync User - Marketo Docs —— 產品檔案
 title: 步驟2（共3步）-在Dynamics中設定Marketo同步使用者
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[步驟1（共3步）:安裝Marketo解決方案（線上）](step-1-of-3-install.md)
+>[步驟1（共3步）:安裝Marketo解決方案（線上）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
 
 ## 建立新用戶{#create-a-new-user}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 按一下** 「設定」**並選擇&#x200B;**「安全性」**。
+1. 按一下&#x200B;**Settings**&#x200B;並選擇&#x200B;**Security**。
 
    ![](assets/two.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這適用於Marketo 4.0.0.14版及更新版本。 對於舊版，所有使用者都必須具有同步使用者角色。 若要升級Marketo，請參閱[Upgrade Marketo Solution for Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)。
+>這適用於Marketo 4.0.0.14版及更新版本。 對於舊版，所有使用者都必須具有同步使用者角色。 若要升級Marketo，請參閱[Upgrade Marketo Solution for Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)。
 
 1. 返回「啟用的用戶」頁籤並刷新用戶清單。
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您在「設定」功能表中未看到「行銷人員設定」，請重新整理頁面。 ****&#x200B;如果無法運作，請嘗試再次[發佈Marketo Solution](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) [](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations)，或登出並重新登入。
+   >如果您在「設定」功能表中未看到「行銷人員設定」，請重新整理頁面。 ****&#x200B;如果無法運作，請嘗試再次[發佈Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)，或登出並重新登入。
 
 1. 按一下&#x200B;**Default**。
 
@@ -127,13 +127,10 @@ ht-degree: 0%
 
 ## 繼續執行步驟3 {#before-proceeding-to-step}之前
 
-    *如果您想要限制同步的記錄數，請立即[設定自訂同步篩選](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)。
-    *執行[驗證Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)程式。它會驗證您的初始設定是否正確完成。
+    *如果您想要限制同步的記錄數，請立即[設定自訂同步篩選](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)。
+    *執行[驗證Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)程式。它會驗證您的初始設定是否正確完成。
     *在Microsoft Dynamics CRM中登入Marketo同步使用者。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相關文章**
->
->
->[步驟3（共3步）:將Microsoft Dynamics與Marketo連結（線上）](step-3-of-3-connect.md)
+>[步驟3（共3步）:將Microsoft Dynamics與Marketo連結（線上）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
