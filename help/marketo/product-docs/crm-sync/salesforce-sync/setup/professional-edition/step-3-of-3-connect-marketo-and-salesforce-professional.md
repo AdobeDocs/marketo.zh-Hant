@@ -3,9 +3,9 @@ unique-page-id: 3571800
 description: 第3步（共3步）- Connect Marketo和Salesforce（專業版）- Marketo Docs —— 產品檔案
 title: 第3步（共3步）-將行銷人員與Salesforce（專業人員）連接
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [步驟1（共3步）:將行銷人員欄位新增至Salesforce（專業版）](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
->* [步驟2（共3步）:建立適用於行銷人員的Salesforce使用者（專業版）](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
-
->
-
+>* [步驟1（共3步）:將行銷人員欄位新增至Salesforce（專業版）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+>* [步驟2（共3步）:建立適用於行銷人員的Salesforce使用者（專業版）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
 
 
 ## 擷取同步使用者安全性Token {#retrieve-sync-user-security-token}
@@ -46,18 +43,15 @@ ht-degree: 0%
 
 ## 設定同步用戶憑據{#set-sync-user-credentials}
 
-1. 在Marketo中，前往&#x200B;**Admin**，選擇&#x200B;**CRM**，然後按一下「與[Salesforce.com](http://Salesforce.com)**同步」**
+1. 在Marketo中，前往&#x200B;**Admin**，選擇&#x200B;**CRM**，然後按一下「與[Salesforce.com](https://Salesforce.com)**同步」。**
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >請務必在按一下「同步欄位&#x200B;****」之前，先隱藏Marketo中不需要的所有欄位。 [](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)按一下「同步欄位」後，使用者可看見的所有欄位將會在Market中永久建立，且無法刪除。
+   >請務必在按一下「同步欄位&#x200B;****」之前，先隱藏Marketo中不需要的所有欄位。 [](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)按一下「同步欄位」後，使用者可看見的所有欄位將會在Market中永久建立，且無法刪除。
 
-1. 輸入在Salesforce設定第2部分([Professional](https://community.marketo.com/MarketoArticle?id=kA050000000LJ3QCAW)、[Enterprise](https://community.marketo.com/MarketoArticle?id=kA050000000LIwKCAW))中建立的Salesforce同步使用者憑證，然後按一下「同步欄位&#x200B;**」。**
+1. 輸入在Salesforce設定第2部分([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)、[Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)中建立的Salesforce同步使用者憑證，然後按一下「同步欄位&#x200B;**」。**
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
@@ -71,7 +65,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果您想要查看[映射並自定義它們](../../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)，這是您唯一這樣做的機會！ 按一下「開始Salesforce同步」後，就完成。
+   >如果您想要查看[映射並自定義它們](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)，這是您唯一這樣做的機會！ 按一下「開始Salesforce同步」後，就完成。
 
 ## 啟動Salesforce同步{#start-salesforce-sync}
 
@@ -83,7 +77,7 @@ ht-degree: 0%
    >
    >Marketo不會針對Salesforce同步或當您手動輸入銷售機會時自動消除重複資料。
 
-1. 按一下&#x200B;**START SYNC**。
+1. 按一下&#x200B;**開始同步**。
 
    ![](assets/image2014-12-9-9-3a53-3a32.png)
 
@@ -109,15 +103,8 @@ Marketo在「管理」區域中提供Salesforce同步的狀態訊息。 您可�
 
 哇，您剛剛完成Marketo最強大功能之一的設定，您就去！
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相關文章**
->
->* [在Salesforce AppExchange中安裝Marketo Sales Insight套件](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
->* [在Salesforce Professional Edition中設定Marketo Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
->* [可選步驟](http://docs.marketo.com/display/docs/optional+steps)
-
->
-
-
+>* [在Salesforce AppExchange中安裝Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [在Salesforce Professional Edition中設定Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 
