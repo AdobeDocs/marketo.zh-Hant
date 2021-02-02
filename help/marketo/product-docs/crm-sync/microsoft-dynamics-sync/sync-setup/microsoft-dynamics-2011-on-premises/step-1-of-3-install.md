@@ -3,9 +3,9 @@ unique-page-id: 3571805
 description: 第1步（共3步）-安裝Marketo解決方案（2011年內部部署）-行銷檔案——產品檔案
 title: 第1步（共3步）-安裝Marketo解決方案（2011年內部部署）
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必須配置[ Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)(IFD)和[ Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0、2.1或3.0(ADFS)。 **注意**:當您按一下連結時，IFD檔案會自動下載。
+>您必須配置[ Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)(IFD)和[ Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0、2.1或3.0(ADFS)。 **注意**:當您按一下連結時，IFD檔案會自動下載。
 >
->[開始之前，請先下載Marketo Lead](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 管理解決方案。
+>[開始之前，請先下載Marketo Lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 管理解決方案。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ ht-degree: 0%
 >
 >您需要CRM管理員權限才能執行此同步。
 
-1. 登入&#x200B;**Dynamics**，在左下角的選單中選取&#x200B;**Settings**。
+1. 登入&#x200B;**Dynamics**，在左下角的選單中選擇&#x200B;**Settings**。
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. 按一下&#x200B;**瀏覽**。 選擇您[downloaded](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)的Marketo Lead Management解決方案。 按一下&#x200B;**Next**。
+1. 按一下&#x200B;**瀏覽**。 選擇您[downloaded](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)的Marketo Lead Management解決方案。 按一下&#x200B;**Next**。
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -93,8 +93,6 @@ ht-degree: 0%
 >
 >停用任何Marketo SDK訊息處理程式將導致安裝中斷！
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相關文章**
->
->[步驟2（共3步）:在Dynamics中設定Marketto同步使用者（2011年內部部署）](step-2-of-3-set-up.md)
+>[步驟2（共3步）:在Dynamics中設定Marketto同步使用者（2011年內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
