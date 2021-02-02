@@ -3,7 +3,7 @@ unique-page-id: 10095389
 description: 在Microsoft Dynamics —— 行銷檔案——產品檔案中建立連絡人
 title: 在Microsoft Dynamics中建立連絡人
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 按一下「**人員操作**&#x200B;和&#x200B;**Microsoft,**」並選擇「將人員同步到Microsoft」。****
+1. 按一下「**人員操作**&#x200B;和&#x200B;**Microsoft**」，然後選擇「將人員同步到Microsoft **」。**
 
    ![](assets/two.png)
 
@@ -36,4 +36,3 @@ ht-degree: 0%
 1. 現在，在智慧型促銷活動篩選器中使用「同步為」限制時，您可以選取&#x200B;**Contact**。
 
    ![](assets/five.png)
-
