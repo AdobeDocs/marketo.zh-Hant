@@ -3,7 +3,7 @@ unique-page-id: 4719302
 description: 啟用非英文自訂物件同步——行銷檔案——產品檔案
 title: 啟用非英文自訂物件同步
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 周旋{#getting-around-it}
 
-1. 使用行銷人員登入Salesforce，以同步使用者。
+1. 使用行銷人員登入Salesforce以同步使用者。
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
@@ -61,7 +61,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
 >不要忘記最後一次刷新結構，以使用您的語言將對象拉回來。
-
