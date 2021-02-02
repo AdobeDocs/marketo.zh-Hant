@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 第3步（共3步）-將Microsoft Dynamics與Marketo（線上）連接- Marketo Docs —— 產品檔案
 title: 第3步（共3步）-將Microsoft Dynamics與Marketo連接（線上）
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [步驟1（共3步）:安裝Marketo解決方案（線上）](step-1-of-3-install.md)
+>* [步驟1（共3步）:安裝Marketo解決方案（線上）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
    >
    >
-* [步驟2（共3步）:在Dynamics中設定Marketto同步使用者](step-2-of-3-set-up.md)
-
->
-
+* [步驟2（共3步）:在Dynamics中設定Marketto同步使用者](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -58,7 +55,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Market中的使用者名稱必須符合CRM中同步使用者的使用者名稱。 格式可以是[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#bcc9cfd9cefcd8d3d1ddd5d292dfd3d1)或DOMAIN\user。
+   >Market中的使用者名稱必須符合CRM中同步使用者的使用者名稱。 格式可以是user@domain.com或DOMAIN\user。
 
 ## 選擇要同步的欄位{#select-fields-to-sync}
 
