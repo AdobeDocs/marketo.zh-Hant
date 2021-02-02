@@ -3,7 +3,7 @@ unique-page-id: 10095307
 description: 電子郵件地址的自訂同步篩選規則——行銷人員檔案——產品檔案
 title: 電子郵件地址的自訂同步篩選規則
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -21,4 +21,3 @@ ht-degree: 0%
 
 * 當連絡人的「公司名稱」(parentcustomerid)欄位更新時，檢查連絡人的「同步至Mkto」欄位是否正確。 如果是，請將帳戶上的「同步至Mkto」變更為&#x200B;**True**
 * 當業務機會的「潛在客戶」（客戶ID）欄位或「聯絡人」（括弧）欄位更新時，請檢查帳戶的「同步至Mkto」欄位是否正確，或連絡人的「同步至Mkto」欄位是否正確。 如果是，請將業務機會上的「同步到Mkto」更改為&#x200B;**True**
-
