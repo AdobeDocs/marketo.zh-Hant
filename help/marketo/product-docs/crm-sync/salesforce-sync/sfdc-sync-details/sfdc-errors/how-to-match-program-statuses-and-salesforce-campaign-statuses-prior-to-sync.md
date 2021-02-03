@@ -3,7 +3,7 @@ unique-page-id: 2360370
 description: 如何在同步前比對計畫狀態和Salesforce促銷活動狀態——行銷人員檔案——產品檔案
 title: 如何在同步前匹配方案狀態和Salesforce促銷活動狀態
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -27,5 +27,4 @@ ht-degree: 0%
 1. 您可以取消、修正狀態錯誤，並在錯誤修復後嘗試同步。 要修正狀態錯誤，請執行下列操作之一：
 
    * 登入Salesforce並移除或重新命名不相容的促銷活動成員狀態，以對應至與您的Marketo Program相關聯之渠道類型所使用的Marketo Program狀態。
-   * 修改Market中的「方案狀態」，以對應至您現有的Salesforce促銷活動成員狀態。 這是行銷人員管理功能。 有關詳細資訊，請參閱[建立程式通道](../../../../../product-docs/administration/tags/create-a-program-channel.md)。
-
+   * 修改Market中的「方案狀態」，以對應至您現有的Salesforce促銷活動成員狀態。 這是行銷人員管理功能。 有關詳細資訊，請參閱[建立程式通道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)。
