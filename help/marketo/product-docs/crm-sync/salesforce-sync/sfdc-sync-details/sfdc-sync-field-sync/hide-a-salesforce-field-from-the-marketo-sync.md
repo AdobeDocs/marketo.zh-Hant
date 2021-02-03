@@ -3,9 +3,9 @@ unique-page-id: 4719306
 description: 在行銷人員同步——行銷人員檔案——產品檔案中隱藏Salesforce欄位
 title: 在Marketon Sync中隱藏Salesforce欄位
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -49,12 +49,6 @@ ht-degree: 0%
 
    就這樣！ 下次同步完成後，您將不會再在Marketo中看到此欄位。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [隱藏和取消隱藏欄位](../../../../../product-docs/administration/field-management/hide-and-unhide-a-field.md)
-
-
+   >[隱藏和取消隱藏欄位](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)
