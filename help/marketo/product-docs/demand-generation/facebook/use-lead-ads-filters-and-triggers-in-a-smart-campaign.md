@@ -3,7 +3,7 @@ unique-page-id: 10095239
 description: 在智慧型促銷活動——行銷人員檔案——產品檔案中使用銷售機會廣告篩選器和觸發器
 title: 在智慧型促銷活動中使用銷售機會廣告篩選器和觸發器
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -22,4 +22,3 @@ ht-degree: 0%
 1. 新增限制以自訂。
 
    ![](assets/image2016-8-5-11-3a19-3a27.png)
-
