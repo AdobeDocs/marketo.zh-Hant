@@ -3,9 +3,9 @@ unique-page-id: 2949863
 description: 使用WebEx —— 行銷檔案——產品檔案建立活動
 title: 使用WebEx建立事件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '940'
+source-wordcount: '927'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [將WebEx新增為LaunchPoint服務](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [建立新的事件方案](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 設定適當的[流程動作](http://docs.marketo.com/display/DOCS/Flow+Actions)以追蹤參與
+>* 設定適當的[流程動作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)以追蹤參與
 
 
-首先在WebEx活動中心建立Webex活動。 Marketo只會針對您的整合使用特定設定和欄位，我們不久將會進行此作業。 您可能想要為WebEx配置的其他欄位在[WebEx事件中心使用手冊](http://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf)中說明。
+首先在WebEx活動中心建立Webex活動。 Marketo只會針對您的整合使用特定設定和欄位，我們不久將會進行此作業。 您可能想要為WebEx配置的其他欄位在[WebEx事件中心使用手冊](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf)中說明。
 
 ## 基本資訊{#basic-information}
 
@@ -140,7 +140,7 @@ Marketo可使用或檢視下列選項。 其他欄位僅位於WebEx中。
 
 ## 查看計畫{#viewing-the-schedule}
 
-在[程式計畫視圖](http://docs.marketo.com/display/docs/program+schedule+view)中，按一下事件的日曆條目。 您可以在畫面右側看到排程！
+在方案排程檢視中，按一下您事件的日曆項目。 您可以在畫面右側看到排程！
 
 ![](assets/image2015-5-14-16-3a21-3a41.png)
 
