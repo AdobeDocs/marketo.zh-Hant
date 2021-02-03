@@ -3,9 +3,9 @@ unique-page-id: 11382858
 description: 瞭解廣告網路整合——行銷檔案——產品檔案
 title: 瞭解廣告網路整合
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    * 例如，某人搜尋、查看並點按廣告，然後線上上填寫表格。 之後，他離線收到示範，成為CRM的商機。 廣告商就是在這裡找他的
 
-* 使用[Web Personalization](http://docs.marketo.com/display/docs/web+personalization)重新定位網站訪客，將其驅回您的網站
+* 使用[Web Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)重新定位網站訪客，將其驅回您的網站
 
    * 依區隔或垂直區隔個人化
 
@@ -44,19 +44,14 @@ ht-degree: 0%
 
 您可以使用整合來：
 
-* [將Google AdWords新增為LaunchPoint服務](../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-* [在Facebook中新增銷售機會至自訂對象](../../../product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-* [在Facebook中建立自訂對象](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [設定Facebook離線轉換](../../../product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-* [使用行銷人員清單或智慧清單作為LinkedIn觀眾區隔](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+* [將Google AdWords新增為LaunchPoint服務](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+* [在Facebook中新增銷售機會至自訂對象](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+* [在Facebook中建立自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [設定Facebook離線轉換](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+* [使用行銷人員清單或智慧清單作為LinkedIn觀眾區隔](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
 |  | 受眾資料 | 銷售線索提取 | 離線轉換 |
 |---|---|---|---|
 | ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
 | ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
 | ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |
-
-## 觀看影片{#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/y8xoFczdrKQzAfvnAkAUXH.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
