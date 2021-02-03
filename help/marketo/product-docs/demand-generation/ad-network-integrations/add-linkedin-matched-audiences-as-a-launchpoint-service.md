@@ -3,7 +3,7 @@ unique-page-id: 7504163
 description: 將LinkedIn符合的觀眾新增為LaunchPoint服務——行銷人員檔案——產品檔案
 title: 將LinkedIn符合的觀眾新增為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. 輸入&#x200B;**顯示名稱**，然後選擇&#x200B;**「LinkedIn符合的觀眾」**。 按一下&#x200B;**建立**。
+1. 輸入&#x200B;**顯示名稱**，然後選擇&#x200B;**LinkedIn Matched Audiences**。 按一下&#x200B;**建立**。
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
@@ -61,9 +61,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用行銷人員清單或智慧清單作為LinkedIn觀眾區隔](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
-
->
-
-
-
+>[使用行銷人員清單或智慧清單作為LinkedIn觀眾區隔](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
