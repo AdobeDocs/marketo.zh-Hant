@@ -3,7 +3,7 @@ unique-page-id: 4719312
 description: 新增／移除Picklist值——行銷人員檔案——產品檔案
 title: 添加／刪除選擇清單值
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 添加選擇清單值{#adding-picklist-values}
 
-1. 如果Salesforce中有附加值新增至挑選清單欄位類型，您會收到[通知](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)，指出這會影響哪些表單。
+1. 如果Salesforce中有附加值新增至挑選清單欄位類型，您會收到[通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)，指出這會影響哪些表單。
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. 前往表單編輯器，並將[附加值](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)新增至建議清單。
+1. 前往表單編輯器，並將[附加值](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)新增至建議清單。
 
 ## 刪除選擇清單值{#remove-picklist-values}
 
