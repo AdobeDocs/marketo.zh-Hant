@@ -3,7 +3,7 @@ unique-page-id: 2953473
 description: SFDC同步——活動同步——行銷文檔——產品文檔
 title: SFDC同步——活動同步
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -21,11 +21,11 @@ Marketo會在與銷售機會或聯絡人關聯的事件和工作上同步。
 
 ## 兩個系統之間如何保持活動詳細資訊的同步？{#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-同步是從Salesforce到Marketo的一種方式。 但是，您可以使用[建立工作](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)流程步驟或[自訂活動同步](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)至Salesforce，在Salesforce中建立工作。
+同步是從Salesforce到Marketo的一種方式。 但是，您可以使用[建立工作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)流程步驟或[自訂活動同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)至Salesforce，在Salesforce中建立工作。
 
 ## 我可以使用Marketo建立工作嗎？{#can-i-create-a-task-using-marketo}
 
-是的，您可以使用[建立任務流操作](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)。
+是的，您可以使用[建立任務流操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)。
 
 ## 與活動相關的觸發器／篩選器有哪些？{#what-are-the-triggers-filters-related-to-activity}
 
@@ -41,5 +41,4 @@ Marketo會在與銷售機會或聯絡人關聯的事件和工作上同步。
 
 >[!TIP]
 >
->不確定「非活動」的措辭？ 「非」是指不活動篩選。 請到這裡進一步瞭解這些功能：[在智慧型清單中使用不活動篩選](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
-
+>不確定「非活動」的措辭？ 「非」是指不活動篩選。 請到這裡進一步瞭解這些功能：[在智慧型清單中使用不活動篩選](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
