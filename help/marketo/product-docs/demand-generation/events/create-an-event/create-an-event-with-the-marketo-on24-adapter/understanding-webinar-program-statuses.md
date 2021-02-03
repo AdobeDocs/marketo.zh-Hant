@@ -3,7 +3,7 @@ unique-page-id: 10096681
 description: 瞭解網路研討會計畫狀態——行銷檔案——產品檔案
 title: 瞭解網路研討會計畫狀態
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -27,9 +27,9 @@ ht-degree: 0%
 
 **不在程式中** -使用此狀態將人員從事件中刪除。
 
-**已邀請** —— 使用此狀態將人員加入活動。
+**已邀請** -使用此狀態將人員新增至活動。
 
-**待核准** -使用此狀態來暫停傳送確認電子郵件給您的人員。如需詳細資訊，請參閱[ON24事件註冊更新](on24-event-registration-updates.md)中的「手動核准註冊者」。
+**待核准** -使用此狀態來暫停傳送確認電子郵件給您的人員。如需詳細資訊，請參閱[ON24事件註冊更新](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)中的「手動核准註冊者」。
 
 **等待列出** -使用此狀態讓部分人等待其他授權可用。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 >
 >如果發生註冊錯誤，您可以查看程式「成員」頁籤中的「狀態原因」列，為該人員獲取其他資訊。 修正錯誤後，您可以手動將使用者的程式狀態變更為Marketo中的「已註冊」。
 
-**參加**-在網路研討會結束時，ON24會傳回參加者清單。此狀態會自動提取至Marketo。
+**參加** -在網路研討會結束時，ON24會傳回參加者清單。此狀態會自動提取至Marketo。
 
 **參加隨選** -參加網路研討會封存版本的人員會收到此狀態。
 
@@ -55,9 +55,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [瞭解Marketo ON24適配器事件](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[瞭解Marketo ON24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
