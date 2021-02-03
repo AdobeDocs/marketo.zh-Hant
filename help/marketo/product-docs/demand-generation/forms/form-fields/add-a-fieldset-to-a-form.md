@@ -3,7 +3,7 @@ unique-page-id: 2359594
 description: 新增欄位集至表單——行銷檔案——產品檔案
 title: 新增欄位集至表單
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 欄位集很酷。 他們把一堆田地集合在一起。 你也可以一次控制整個街區！
 
-1. 前往&#x200B;**Marketing** **Activity**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 選擇表單並按一下「編輯」******「表單」**。
+1. 選擇表單並按一下「編輯表單」。****
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
@@ -43,5 +43,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以根據其他欄位動態隱藏／顯示整個欄位集。 瞭解[可見性規則](dynamically-toggle-visibility-of-a-form-field.md)。
-
+>您可以根據其他欄位動態隱藏／顯示整個欄位集。 瞭解[可見性規則](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)。
