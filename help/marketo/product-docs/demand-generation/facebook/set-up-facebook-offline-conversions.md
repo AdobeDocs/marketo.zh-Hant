@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: 設定Facebook離線轉換——行銷人員檔案——產品檔案
 title: 設定Facebook離線轉換
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 您必須[設定Facebook銷售線索廣告](set-up-facebook-lead-ads.md)。
->* 您必須在[收入週期建模器](http://docs.marketo.com/display/docs/revenue+cycle+models)中擁有已批准的模型。
-
->
-
+>* 您必須[設定Facebook銷售線索廣告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)。
+>* 您必須在[收入週期建模器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)中擁有已批准的模型。
 
 
 ## 管理配置{#admin-configuration}
@@ -34,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您尚未這麼做，請繼續[設定Facebook潛在客戶廣告](set-up-facebook-lead-ads.md)，然後再回到這裡。
+   >如果您尚未這麼做，請繼續[設定Facebook潛在客戶廣告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)，然後再回到這裡。
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
@@ -72,18 +69,16 @@ ht-degree: 0%
    >
    >目前，您有10個Facebook事件可將收入週期階段對應至：
    >
-   >    
-   >    
-   >    * 新增付款資訊
-   >    * 新增至購物車
-   >    * 添加到願望清單
-   >    * 註冊完成
-   >    * 已啟動結帳
-   >    * 人物
-   >    * 其他
-   >    * 購買
-   >    * 搜尋
-   >    * 內容檢視
+   >* 新增付款資訊
+   >* 新增至購物車
+   >* 添加到願望清單
+   >* 註冊完成
+   >* 已啟動結帳
+   >* 人物
+   >* 其他
+   >* 購買
+   >* 搜尋
+   >* 內容檢視
 
 
 1. 選取您要對應的舞台，然後從&#x200B;**Facebook轉換**&#x200B;下拉式清單中，選取您要對應的Facebook事件。 重複此步驟，將RCM中的所有階段映射到Facebook上的離線轉換階段。
@@ -108,13 +103,6 @@ ht-degree: 0%
    >
    >「離線轉換資料」每天會從Marketing多次傳送至Facebook。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相關文章**
->
->* [瞭解Facebook離線轉換](understanding-facebook-offline-conversions.md)
-
->
-
-
-
+>[瞭解Facebook離線轉換](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
