@@ -3,9 +3,9 @@ unique-page-id: 2359858
 description: 將影像和檔案新增至行銷人員——行銷人員檔案——產品檔案
 title: 將影像和檔案新增至Marketo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 一次新增多個影像和檔案很簡單。
 
-1. 前往&#x200B;**Design** **Studio**。
+1. 前往&#x200B;**Design Studio**。
 
    ![](assets/designstudio.png)
 
-1. 在&#x200B;**New**&#x200B;下，按一下** 「上傳映像」** **或** 「檔案」**。**
+1. 在&#x200B;**New**&#x200B;下，按一下&#x200B;**Upload Image**&#x200B;或&#x200B;**File**。
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
@@ -41,16 +41,14 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >若要在上傳前移除任何佇列的檔案，請按一下檔案名稱旁的x。
 
    >[!TIP]
    >
    >Marketo會在上傳前掃描所有檔案；將跳過感染病毒的檔案。
 
-   上載完成時，按一下「完成」。
+1. 上載完成時，按一下&#x200B;**完成**。
+
    ![](assets/image2014-9-15-18-3a8-3a34.png)
 
 1. 您的影像現在可用於促銷活動電子郵件和登陸頁面。
@@ -63,15 +61,6 @@ ht-degree: 0%
 >
 >雖然Marketo接受所有檔案類型以進行上傳，但僅能使用主要影像類型（JPG、PNG、GIF等） 將在我們的電子郵件編輯工作。
 
-## 觀看影片{#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/ZWBeQ5oiXRKG2QAP5E7g6Q.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!MORELIKETHIS]
 >
->* [使用資料夾組織您的影像和檔案](organize-your-images-and-files-using-folders.md)
-
->
-
-
-
+>[使用資料夾組織您的影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
