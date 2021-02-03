@@ -3,9 +3,9 @@ unique-page-id: 4720257
 description: 將Facebook自訂對象新增為LaunchPoint服務——行銷人員檔案——產品檔案
 title: 將Facebook自訂對象新增為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. 在相同的瀏覽器中開啟新標籤，並前往[www.facebook.com。](http://www.facebook.com./) 使用您要用於整合的帳戶登入Facebook。
+1. 在相同的瀏覽器中開啟新標籤，並前往[facebook.com](http://www.facebook.com/)。 使用您要用於整合的帳戶登入Facebook。
 
    >[!CAUTION]
    >
@@ -45,9 +45,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您&#x200B;*必須*&#x200B;使用Facebook Business Manager帳戶，才能讓「自訂對象」整合運作。 要瞭解如何設定Business Manager帳戶，請參閱[Facebook說明](https://www.facebook.com/business/help/1710077379203657)。
+   >您&#x200B;_必須_&#x200B;使用Facebook Business Manager帳戶，才能讓「自訂對象」整合運作。 要瞭解如何設定Business Manager帳戶，請參閱[Facebook說明](https://www.facebook.com/business/help/1710077379203657)。
 
-1. 如果出現提示，請按一下**確定**接受Marketo應用程式安裝至Facebook。
+1. 如果出現提示，請按一下&#x200B;**OK**&#x200B;接受Marketo應用程式安裝至Facebook。
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**基本匹配**&#x200B;僅使用電子郵件地址。**進階** 比對使用另外7個欄位，可提高比對率，以進行更多轉換。不過，如果貴公司的隱私權政策不允許共用其他欄位，或者您的資料未包含欄位，請選取「基本符合」。
+   >**基本** 匹配僅使用電子郵件地址。**進階** 比對使用另外7個欄位，可提高比對率，以進行更多轉換。不過，如果貴公司的隱私權政策不允許共用其他欄位，或者您的資料未包含欄位，請選取「基本符合」。
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -67,12 +67,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [在Facebook中建立自訂對象](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [在Facebook中建立自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
    >
-* [設定Facebook銷售線索廣告](../../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
-
->
-
-
+* [設定Facebook銷售線索廣告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
 
