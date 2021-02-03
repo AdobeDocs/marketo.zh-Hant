@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: 設定Facebook銷售線索廣告——行銷檔案——產品檔案
 title: 設定Facebook銷售線索廣告
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -19,9 +19,7 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >若要將Facebook銷售機會廣告新增至您的例項，請連絡您的客戶成功經理。
 
@@ -37,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. 在相同的瀏覽器中開啟新標籤，並前往[www.facebook.com。](http://www.facebook.com.) 使用您要用於整合的帳戶登入Facebook。
+1. 在相同的瀏覽器中開啟新標籤，並前往[facebook.com](http://www.facebook.com)。 使用您要用於整合的帳戶登入Facebook。
 
    >[!NOTE]
    >
@@ -49,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. 如果出現提示，請按一下「確定」，接受Marketo應用程式安裝至Facebook。****
+1. 如果出現提示，請按一下&#x200B;**OK**&#x200B;接受Marketo應用程式安裝至Facebook。
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -69,7 +67,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >透過修改映射，您可以自訂銷售機會廣告資料儲存在Marketo中的位置。 您也可以[從銷售線索廣告自訂問題](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)提取資料。
+   >透過修改映射，您可以自訂銷售機會廣告資料儲存在Marketo中的位置。 您也可以[從銷售線索廣告自訂問題](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)提取資料。
 
    >[!CAUTION]
    >
@@ -83,10 +81,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [在智慧型促銷活動中使用銷售機會廣告篩選器和觸發器](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
->* [將自訂欄位對應至Marketo](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-
->
-
-
+>* [在智慧型促銷活動中使用銷售機會廣告篩選器和觸發器](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+>* [將自訂欄位對應至Marketo](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
 
