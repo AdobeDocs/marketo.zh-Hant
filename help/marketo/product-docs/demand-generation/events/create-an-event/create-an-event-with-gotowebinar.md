@@ -3,9 +3,9 @@ unique-page-id: 2949874
 description: 使用Goto網路研討會——行銷人員檔案——產品檔案建立活動
 title: 使用Goto網路研討會建立活動
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '543'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ ht-degree: 0%
 >
 >* [將GoTo網路研討會新增為LaunchPoint服務](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [建立新的事件方案](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 設定適當的[流程動作](http://docs.marketo.com/display/DOCS/Flow+Actions)以追蹤參與
+>* 設定適當的[流程動作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)以追蹤參與
 
 
 在GoTo網路研討會中，先建立您的網路研討會。 Marketto會使用您建立GoTo網路研討會時的特定設定，而GoTo網路研討會則只會使用部分設定。
 
-在您建立Marketo活動並將GoTo網路研討會與之關聯後，系統將可以分享註冊和出席資訊。 如需建立GoTo網路研討會的協助，請參閱[GoTo網路研討會使用指南](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf)。
+在您建立Marketo活動並將GoTo網路研討會與之關聯後，系統將可以分享註冊和出席資訊。
 
 以下是Marketo使用的設定清單。
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 ## 日期和時間{#date-time}
 
-`Enter the following information for your webinar and it will be pulled into Marketo via the`適配器。如果您對此資訊進行任何變更，您必須按一下「事件動作&#x200B;**」下方的「從網路研討會提供者**&#x200B;重新整理」連結，讓Market看到變更。****
+為您的網路研討會輸入下列資訊，並透過介面卡將它提取至Marketo。 如果您對此資訊進行任何變更，您必須按一下「事件動作&#x200B;**」下方的「從網路研討會提供者**&#x200B;重新整理」連結，讓Market看到變更。****
 
 **開始日期** -輸入您的開始日期。這可在Marketo中檢視。
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您將在GoToWebanar中設定其他欄位，這些欄位不會影響整合。 請參閱[GoTo網路研討會使用指南](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf)以取得這些欄位的詳細資訊，因為本文將不涵蓋這些欄位。 如果您需要額外的GoToWebinar說明，請造訪其[說明網站](http://support.logmeininc.com/gotowebinar)。
+>如果您需要額外的GoToWebinar說明，請造訪其[說明網站](https://support.logmeininc.com/gotowebinar)。
 
 現在，讓我們跳進Marketo!
 
@@ -68,7 +68,7 @@ ht-degree: 0%
    >
    >所選事件的頻道類型必須為&#x200B;**網路研討會**。
 
-1. 從&#x200B;**Event** **Partner** List中選擇&#x200B;**GoToWebinar**。
+1. 從&#x200B;**活動合作夥伴**&#x200B;清單中選擇&#x200B;**GoToWebinar**。
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -112,7 +112,7 @@ ht-degree: 0%
 
 ## 查看計畫{#viewing-the-schedule}
 
-在[程式計畫視圖](http://docs.marketo.com/display/docs/program+schedule+view)中，按一下事件的日曆條目。 您可在畫面右側看到排程。
+在方案排程檢視中，按一下您事件的日曆項目。 您可在畫面右側看到排程。
 
 >[!NOTE]
 >
