@@ -3,7 +3,7 @@ unique-page-id: 12983101
 description: 將自訂欄位對應至Marketo - Marketo Docs —— 產品檔案
 title: 將自訂欄位對應至Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可能想要收集的資訊不僅限於Facebook商店的標準資訊，例如某人使用您的線上遞送服務的頻率。 您可以在Facebook潛在客戶廣告中建立自訂問題[來完成此作業。](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink)
 
-但是，**Marketo不會自動開始收集此資料**。** **為了讓Marketo開始擷取自訂欄位值，您&#x200B;**必須**&#x200B;將這些自訂欄位對應至Marketo中的欄位。
+但是，**Marketo不會自動開始收集此資料**。 為了讓Marketo開始擷取自訂欄位值，您&#x200B;**必須**&#x200B;將這些自訂欄位對應至Marketo中的欄位。
 
 以下是如何在管理員的LaunchPoint區域中設定此設定。
 
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 1. 這裡是您將自訂Facebook欄位對應至行銷人員欄位的位置。 按一下&#x200B;**添加。**
 
-   ** ![](assets/image2017-10-24-9-3a33-3a49.png)
-
-   **
+   ![](assets/image2017-10-24-9-3a33-3a49.png)
 
 1. 在新列中，輸入您的Facebook自訂欄位名稱。
 
@@ -59,9 +57,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您尚未在Market中有欄位將Facebook欄位對應至，請瞭解如何[建立自訂欄位](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)。
+   >如果您尚未在Market中有欄位將Facebook欄位對應至，請瞭解如何[建立自訂欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)。
 
 >[!CAUTION]
 >
 >您&#x200B;**必須**&#x200B;針對任何新的Facebook欄位執行此程式，以便Market收集資料。
-
