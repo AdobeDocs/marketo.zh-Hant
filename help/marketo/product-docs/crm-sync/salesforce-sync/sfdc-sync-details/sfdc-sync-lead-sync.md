@@ -3,7 +3,7 @@ unique-page-id: 2953455
 description: SFDC同步——銷售線索同步——行銷人員文檔——產品文檔
 title: SFDC同步——銷售線索同步
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Marketo贏。 這種資料衝突很少發生。
 
 ## 我是否可以使用Marketo在Salesforce中建立銷售機會？{#can-i-create-a-lead-in-salesforce-using-marketo}
 
-是的，請使用[將人員同步到SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)流操作。 如果銷售線索不存在，這會在Salesforce中建立銷售線索。
+是的，請使用[將人員同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)流操作。 如果銷售線索不存在，這會在Salesforce中建立銷售線索。
 
 ## 我是否可手動強制Marketing中的人員同步至Salesforce中的銷售線索？{#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
-是的，請使用「將人員同步到SFDC[流」操作，它將即時同步。](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
+是的，請使用「將人員同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)流」操作，它將即時同步。[
 
 ## 每個標準欄位是否都與Marketo同步？{#does-every-single-standard-field-sync-to-marketo}
 
