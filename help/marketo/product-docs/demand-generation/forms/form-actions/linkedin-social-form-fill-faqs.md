@@ -3,7 +3,7 @@ unique-page-id: 10098238
 description: LinkedIn Social表格填寫常見問答集——行銷人員檔案——產品檔案
 title: LinkedIn Social表格填寫常見問答集
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '558'
 ht-degree: 0%
@@ -17,7 +17,7 @@ LinkedIn修訂的API政策要求我們從產品中移除LinkedIn Social表單填
 
 ## 要知道的重要事項{#important-things-to-know}
 
-* 自2016年4月28日起，LinkedIn Social「表單填寫」按鈕不再是新增至Marketo的選項
+* 在2016年4月28日之後，LinkedIn Social的「表單填寫」按鈕不再是新增至Marketo的選項
 
 * 我們已從啟用LinkedIn Social「表單填寫」按鈕的所有表單中移除該按鈕
 
