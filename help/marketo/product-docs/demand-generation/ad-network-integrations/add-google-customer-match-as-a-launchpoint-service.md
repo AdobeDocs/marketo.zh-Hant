@@ -3,7 +3,7 @@ unique-page-id: 12980661
 description: 將Google客戶符合新增為LaunchPoint服務——行銷人員檔案——產品檔案
 title: 將Google客戶符合新增為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 選擇&#x200B;**新建**，然後選擇**新服務**。
+1. 選擇&#x200B;**新建** ，然後選擇&#x200B;**新建服務**。
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. 輸入**顯示名稱&#x200B;**，然後從**&#x200B;服務&#x200B;**下拉式清單中選擇** Google客戶符合**。 按一下&#x200B;**建立**。
+1. 輸入&#x200B;**顯示名稱**&#x200B;並從&#x200B;**服務**&#x200B;下拉式清單中選擇&#x200B;**Google客戶符合**。 按一下&#x200B;**建立**。
 
    ![](assets/chooseservice.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >為了讓Market在多個AdWords帳戶間傳送觀眾，您依下列步驟授權的Google使用者必須擁有這些帳戶的&#x200B;*all*&#x200B;存取權。
+   >為了讓Market在多個AdWords帳戶間傳送觀眾，您依下列步驟授權的Google使用者必須擁有這些帳戶的&#x200B;_all_&#x200B;存取權。
 
    ![](assets/chooseaccount.png)
 
@@ -56,4 +56,3 @@ ht-degree: 0%
    ![](assets/authorizesuccess.png)
 
    太棒了！ 您現在會在「已安裝服務」標籤中看到「Google符合的觀眾」列為LaunchPoint服務。
-
