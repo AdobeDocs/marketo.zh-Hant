@@ -3,7 +3,7 @@ unique-page-id: 2359620
 description: 變更提交按鈕樣式和顏色——行銷人員檔案——產品檔案
 title: 變更提交按鈕樣式和顏色
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 如果您發現標準的提交按鈕枯燥無味，或是需要更精美的項目，則可從各種現成可用的按鈕樣式中選擇。
 
-1. 前往&#x200B;**Marketing** **Activity**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 選擇表單並按一下「編輯」******「表單」**。
+1. 選擇表單並按一下「編輯表單」。****
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
@@ -62,4 +62,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >和許多圖形元素一樣，按鈕的外觀可能會因您使用的瀏覽器而異。
-
