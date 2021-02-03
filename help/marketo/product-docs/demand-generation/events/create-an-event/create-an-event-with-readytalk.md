@@ -3,9 +3,9 @@ unique-page-id: 2949870
 description: 使用ReadyTalk —— 行銷檔案——產品檔案建立活動
 title: 使用ReadyTalk建立事件
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [將ReadyTalk添加為LaunchPoint服務](/help/marketo/product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
 >* [建立新的事件方案](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 設定適當的[流程動作](http://docs.marketo.com/display/DOCS/Flow+Actions)以追蹤參與
+>* 設定適當的[流程動作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)以追蹤參與
 
 
-首先在ReadyTalk會議中心設定活動。 如果需要幫助，請查看[ReadyTalk資源中心。](https://www.readytalk.com/resources/readytalk)  選擇註冊類型時，請在 **會議前選擇預先註冊**。如果您在會議結束時選擇&#x200B;*註冊*,Marketo將&#x200B;**not**&#x200B;擷取您的人員的註冊狀態，並且只會在網路研討會結束後取得&#x200B;*的人員狀態。*
+首先在ReadyTalk會議中心設定活動。 如果需要幫助，請查看[ReadyTalk資源中心](https://www.readytalk.com/resources/readytalk)。 選擇註冊類型時，選擇&#x200B;**在會議之前預先註冊**。 如果您在會議結束時選擇&#x200B;_註冊_,Marketo將&#x200B;**not**&#x200B;擷取您的人員的註冊狀態，並且只會在網路研討會結束後取得&#x200B;_的人員狀態。_
 
 如果未勾選&#x200B;**透過電子郵件**&#x200B;通知我新註冊。
 
@@ -78,7 +78,7 @@ ht-degree: 0%
 
 ## 查看計畫{#viewing-the-schedule}
 
-在[程式計畫視圖](http://docs.marketo.com/display/docs/program+schedule+view)中，按一下事件的日曆條目。 您可以在畫面右側看到排程！
+在方案排程檢視中，按一下您事件的日曆項目。 您可以在畫面右側看到排程！
 
 ![](assets/image2015-5-18-12-9-58.png)
 
