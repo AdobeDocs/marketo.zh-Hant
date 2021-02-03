@@ -3,9 +3,9 @@ unique-page-id: 7515131
 description: SFDC同步——刪除銷售線索／聯繫人——行銷文檔——產品文檔
 title: SFDC同步——刪除銷售線索／聯繫人
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,7 @@ ht-degree: 0%
 以下是部分細節：
 
 * Marketo不會因為銷售機會已在Salesforce中刪除而自動刪除人員。 而是將欄位「SFDC已刪除」標誌設定為true。 您可以視需要觸發此欄位以在Marketo中刪除。
-* [刪除](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md) 人員流動操作。這會刪除MKTO中的人員，但您也可以選擇在`Salesforce`中刪除。
+* [刪除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md) 人員流動操作。這會刪除MKTO中的人員，但您也可以選擇在`Salesforce`中刪除。
 
-* [從](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md) SFDCflow操作刪除：這會刪除SFDC中的銷售線索，但您也可以選擇刪除Marketo中的人員。
-* 如果銷售線索在Salesforce中刪除（但在Marketo中未刪除），然後透過[與Salesforce](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)流動動作同步，則會在Salesforce中建立新的銷售線索。
-
-換句話說，它就像魔法一樣！
-
-![—](assets/image2015-5-20-15-3a3-3a27.png)
-
+* [從](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md) SFDCflow操作刪除：這會刪除SFDC中的銷售線索，但您也可以選擇刪除Marketo中的人員。
+* 如果銷售線索在Salesforce中刪除（但在Marketo中未刪除），然後透過[與Salesforce](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)流動動作同步，則會在Salesforce中建立新的銷售線索。
