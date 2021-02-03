@@ -3,9 +3,9 @@ unique-page-id: 2359644
 description: 顯示已知人員的自訂HTML表單——行銷人員檔案——產品檔案
 title: 顯示已知人員的自訂HTML表單
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 如果訪客是Cookie（過去提供電子郵件地址的已知人員），那麼為什麼要費心處理表格？ 只要給他們下載按鈕。 這是方法。
 
-1. 前往&#x200B;**Marketing** **Activity**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-5.png)
 
-1. 在「**Marketing****Activity**」下，選取您的表格，然後按一下「編輯&#x200B;**** Form **」。**
+1. 在「**行銷活動**」下方，選取您的表單，然後按一下「編輯表單&#x200B;**」。**
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. 在&#x200B;**Form****Settings**&#x200B;下，按一下&#x200B;**Settings**。
+1. 在「**表單設定**」下方，按一下「**設定**」。
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. 設定If **Known** **Visitor, Show**:至&#x200B;**Custom** **HTML**。
+1. 設定If **Known Visitor, Show**:至&#x200B;**自訂HTML**。
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. 按一下![—](assets/image2014-9-25-14-3a1-3a26.png)以編輯將顯示給已知人員的&#x200B;**Custom****HTML**。
+1. 按一下![—](assets/image2014-9-25-14-3a1-3a26.png)以編輯將顯示給已知人員的&#x200B;**自訂HTML**。
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -66,15 +66,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >請記得[核准表單變更所建立的著陸頁面草稿](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
+   >請記得[核准表單變更所建立的著陸頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
+
+   小菜一碟！ 查看如果回到相同的表格，人們會看到什麼：
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
    >[!TIP]
    >
    >您可以將按鈕的點按指向資產，方法是將表單後續頁面設定至檔案的URL。
-
-小菜一碟！ 查看如果回到相同的表格，人們會看到什麼：
