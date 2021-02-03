@@ -3,9 +3,9 @@ unique-page-id: 10096675
 description: 建立子促銷活動和本機資產——行銷檔案——產品檔案
 title: 建立子促銷活動和本機資產
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '667'
 ht-degree: 0%
 
 ---
@@ -44,15 +44,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
 >若要以此唯一URL填入確認電子郵件，請在電子郵件中使用下列Token:`{{member.webinar url}}`。 當您傳送確認URL時，此Token會自動解析為該人員的唯一確認URL。
 >
 >將您的確認電子郵件類型設為&#x200B;**Operational**，以確保註冊者會收到其確認資訊，即使他們已取消訂閱亦然。
 
 >[!TIP]
 >
->您可以設定ON24來傳送確認、提醒或追蹤電子郵件。 如需詳細資訊，請參閱[ON24說明網站](http://webcastelitehelp.on24.com)。
+>您可以設定ON24來傳送確認、提醒或追蹤電子郵件。 如需詳細資訊，請參閱[ON24說明網站](https://webcastelitehelp.on24.com)。
 
 ## 註冊子促銷活動要求{#registration-child-campaign-requirements}
 
@@ -97,16 +95,11 @@ ht-degree: 0%
 >
 >如果傳回的人員發生註冊錯誤，他們將不會收到電子郵件確認。
 
-下一步是[測試您的ON24事件整合](test-your-on24-event-integration.md)。
+下一步是[測試您的ON24事件整合](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)。
 
 >[!MORELIKETHIS]
 >
->* [瞭解Marketo ON24適配器事件](understanding-marketo-on24-adapter-events.md)
->* [ON24事件整合範例](example-on24-event-integration.md)
->* [瞭解網路研討會計畫狀態](understanding-webinar-program-statuses.md)
->* [測試您的ON24事件整合](test-your-on24-event-integration.md)
-
->
-
-
+>* [瞭解Marketo ON24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>* [ON24事件整合範例](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+>* [瞭解網路研討會計畫狀態](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 
