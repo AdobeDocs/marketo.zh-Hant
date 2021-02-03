@@ -3,9 +3,9 @@ unique-page-id: 2359673
 description: 新增工具提示指示至表單欄位——行銷人員檔案——產品檔案
 title: 新增工具提示指示至表單欄位
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 新增工具提示指示至表單欄位{#add-tooltip-instructions-to-a-form-field}
 
-[Hinsin](add-hint-text-to-a-form-field.md) 和說明可協助人們填寫表格。以下是如何新增工具提示指示。
+[Hinsin](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) 和說明可協助人們填寫表格。以下是如何新增工具提示指示。
 
 >[!NOTE]
 >
@@ -45,18 +45,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >不要忘記[核准表單變更所建立的著陸頁面草稿](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
+   >不要忘記[核准表單變更所建立的著陸頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
 太棒了！ 當訪客暫留在欄位上時，工具提示便會顯示。
-
->[!NOTE]
->
->**深入探討**
->
->您對[forms](http://docs.marketo.com/display/docs/forms)有許多功能。
-
