@@ -3,9 +3,9 @@ unique-page-id: 2359675
 description: 停用表單欄位的預先填寫——行銷檔案——產品檔案
 title: 停用表單欄位的預填
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >**預設啟** 用表單篩選。著陸頁面層級預先填滿設定和管理員層級預先填寫設定，高於表單層級設定：
 >
->表單&lt;著陸頁面&lt;管理員
+>表單>著陸頁面>管理
 
-1. 前往&#x200B;**Marketing** **Activity**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-7.png)
 
-1. 選擇表單並按一下「編輯」******「表單」**。
+1. 選擇表單並按一下「編輯表單」。****
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >在您自己的頁面上內嵌表格時，表格預填無法運作。 它只適用於Marketo登陸頁面。
 
-1. 選擇其中一個欄位，將&#x200B;**Form****Pre**-**fill**&#x200B;設定為&#x200B;**Disabled**。
+1. 選擇其中一個欄位，並將「表單預填充&#x200B;**」設定為「禁用**」。****
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -50,10 +50,3 @@ ht-degree: 0%
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
 幹得好！
-
->[!NOTE]
->
->**深入探討**
->
->想要進一步瞭解[forms](http://docs.marketo.com/display/docs/forms)嗎？
-
