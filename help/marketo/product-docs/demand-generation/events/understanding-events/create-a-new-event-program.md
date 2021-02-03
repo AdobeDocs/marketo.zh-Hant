@@ -3,9 +3,9 @@ unique-page-id: 2949844
 description: 建立新的活動計畫——行銷檔案——產品檔案
 title: 建立新的事件方案
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -27,17 +27,21 @@ ht-degree: 0%
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
-1. 選取**頻道。 **
+1. 選擇&#x200B;**通道**。
 
    >[!NOTE]
    >
-   >渠道會定義人員可以在程式中擁有的不同狀態。 請在這裡進一步瞭解[方案會籍](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)。
+   >渠道會定義人員可以在程式中擁有的不同狀態。 請在這裡進一步瞭解[方案會籍](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)。
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
 1. 按一下&#x200B;**建立**。
 
-   ![](assets/image2015-2-26-14-3a33-3a17.png) ![](assets/image2015-2-26-14-3a34-3a33.png)
+   ![](assets/image2015-2-26-14-3a33-3a17.png)
+
+   再見！ 您的新事件現在會顯示在樹狀結構中。
+
+   ![](assets/image2015-2-26-14-3a34-3a33.png)
 
 1. 若要排程您的事件，請選取「排程檢視」，然後在日曆中按一下它以開啟快顯視窗。 ****&#x200B;輸入日期和時間。
 
@@ -47,14 +51,10 @@ ht-degree: 0%
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-再見！ 您的新事件現在會顯示在樹狀結構中。 建立您的事件後，請建立[著陸頁面](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)、[forms](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)和[電子郵件](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)以邀請您的來賓！ 您還希望熟悉[程式計畫視圖](http://docs.marketo.com/display/docs/program+schedule+view)。
+建立您的事件後，請建立[著陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)、[forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)和[電子郵件](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)以邀請您的來賓！ 您還希望熟悉[程式計畫視圖](http://docs.marketo.com/display/docs/program+schedule+view)。
 
 >[!MORELIKETHIS]
 >
->* [行銷行事歷](http://docs.marketo.com/display/docs/marketing+calendar)
->* [在計畫中使用期間成本](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
-
->
-
-
+>* [行銷行事歷](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)
+>* [在計畫中使用期間成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
 
