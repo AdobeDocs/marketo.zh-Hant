@@ -3,9 +3,9 @@ unique-page-id: 2949857
 description: 編輯活動渠道——行銷檔案——產品檔案
 title: 編輯事件渠道
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->方案是一項特定的行銷計畫。 **channel**&#x200B;旨在做為傳送機制，例如網路研討會、商展或線上廣告。 您可能會在下拉式清單中看到不同的渠道選項，視您自己的例項中可用的項目而定。 您也可以[建立您自己的頻道。](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
+>方案是一項特定的行銷計畫。 **channel**&#x200B;旨在做為傳送機制，例如網路研討會、商展或線上廣告。 您可能會在下拉式清單中看到不同的渠道選項，視您自己的例項中可用的項目而定。 您也可以[建立您自己的頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)。
 
 ## 從「摘要」頁籤{#from-the-summary-tab}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/tradeshowchange.png)
 
-1. 按一下「保存」。****
+1. 按一下&#x200B;**保存**。
 
    ![](assets/2017-06-13-09-35-53.png)
 
