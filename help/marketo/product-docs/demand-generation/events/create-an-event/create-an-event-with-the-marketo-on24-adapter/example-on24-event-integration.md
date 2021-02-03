@@ -3,7 +3,7 @@ unique-page-id: 10096679
 description: 範例ON24事件整合——行銷檔案——產品檔案
 title: ON24事件整合範例
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. 選擇**事件**作為&#x200B;**程式類型**。
+1. 選擇&#x200B;**事件**&#x200B;作為&#x200B;**程式類型**。
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. 選擇**網路研討會**作為活動的**頻道**。
+1. 選擇&#x200B;**網路研討會**&#x200B;作為活動的&#x200B;**頻道**。
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
@@ -93,9 +93,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [瞭解Marketo ON24適配器事件](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[瞭解Marketo ON24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
