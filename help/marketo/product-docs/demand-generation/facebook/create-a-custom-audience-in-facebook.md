@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: 在Facebook —— 行銷檔案——產品檔案中建立自訂對象
 title: 在Facebook中建立自訂對象
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [在「管理」區段中將「Facebook自訂對](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 像」新增為LaunchPoint服務。
+>* [在「管理」區段中將「Facebook自訂對](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 像」新增為LaunchPoint服務。
 >* [在您的Facebook帳戶中接受Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) 的自訂對象條件。
 
 >
@@ -24,17 +24,17 @@ ht-degree: 0%
 
 >[!TIP]
 >
->進一步瞭解Facebook[中的自訂對象。](https://www.facebook.com/help/341425252616329)
+>進一步瞭解Facebook](https://www.facebook.com/help/341425252616329)中的自訂對象。[
 
 1. 尋找並選取智慧型或靜態清單，其中包含您要從中建立對象的潛在客源。
 
    ![](assets/1.png)
 
-1. 選擇&#x200B;**Leads**&#x200B;標籤，然後按一下底部的**透過廣告橋接傳送**圖示。
+1. 選擇&#x200B;**Leads**&#x200B;標籤，然後按一下底部的&#x200B;**通過廣告網橋發送**&#x200B;表徵圖。
 
    ![](assets/222.png)
 
-1. 選擇**Facebook **並按一下&#x200B;**Next**。
+1. 選擇&#x200B;**Facebook**，然後按一下&#x200B;**Next**。
 
    ![](assets/two.png)
 
@@ -72,10 +72,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**相關文章**
-   >
-   >    
-   >    
-   >    * [在Facebook中新增銷售機會至自訂對象](add-leads-to-a-custom-audience-in-facebook.md)
-
-
+   >[在Facebook中新增銷售機會至自訂對象](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
