@@ -3,9 +3,9 @@ unique-page-id: 2949962
 description: 動態切換表單欄位的可見性——行銷人員檔案——產品檔案
 title: 動態切換表單欄位的可見性
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [新增國家／地區選取清單至表單](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
-
->
+>* [新增國家／地區選取清單至表單](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
 
-
-Marketo表單最酷的功能之一，就是您可以動態隱藏／顯示表單欄位或[欄位集](add-a-fieldset-to-a-form.md)。
+Marketo表單最酷的功能之一，就是您可以動態隱藏／顯示表單欄位或[欄位集](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)。
 
 >[!NOTE]
 >
@@ -29,15 +26,15 @@ Marketo表單最酷的功能之一，就是您可以動態隱藏／顯示表單�
 >
 >在此範例中，讓我們隱藏&#x200B;**State**&#x200B;欄位，除非&#x200B;**Country**&#x200B;被選為&quot;United States&quot;。
 
-1. 前往&#x200B;**Marketing** **Activity**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-8.png)
 
-1. 選擇表單並按一下「編輯」******「表單」**。
+1. 選擇表單並按一下「編輯表單」。****
 
    ![](assets/editform-1.png)
 
-1. 選擇要動態隱藏／顯示的欄位，然後按一下&#x200B;**Visibility** **Rules**&#x200B;的連結。
+1. 選擇要動態隱藏／顯示的欄位，然後按一下&#x200B;**可見性規則**&#x200B;的連結。
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -63,17 +60,10 @@ Marketo表單最酷的功能之一，就是您可以動態隱藏／顯示表單�
 
    >[!NOTE]
    >
-   >我們先前將「國家／地區」轉換為挑選清單欄位類型，並且[新增所有國家／地區為值](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)。
+   >我們先前將「國家／地區」轉換為挑選清單欄位類型，並且[新增所有國家／地區為值](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)。
 
 1. 按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
 就這樣！ 現在，當人們填妥此表單並選取「國家／地區的美國」時，「州」欄位會動態顯示指定的選項。
-
->[!NOTE]
->
->**深入探討**
->
->想要進一步瞭解[forms](http://docs.marketo.com/display/docs/forms)嗎？
-
