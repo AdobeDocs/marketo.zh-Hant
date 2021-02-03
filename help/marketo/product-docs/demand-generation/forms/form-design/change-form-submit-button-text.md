@@ -3,7 +3,7 @@ unique-page-id: 2359649
 description: 變更表單提交按鈕文字——行銷人員檔案——產品檔案
 title: 變更表單提交按鈕文字
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 您可以迅速輕鬆地將表單按鈕從「提交」變更為任何其他字詞。 這是方法。
 
-1. 前往&#x200B;**Marketing** **Activity**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-4.png)
 
-1. 選擇表單並按一下「編輯」******「表單」**。
+1. 選擇表單並按一下「編輯表單」。****
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
@@ -42,4 +42,3 @@ ht-degree: 0%
    砰！
 
    ![](assets/image2014-9-15-12-3a44-3a7.png)
-
