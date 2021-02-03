@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: 發佈著陸頁面至Facebook —— 行銷人員檔案——產品檔案
 title: 將登陸頁面發佈至Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 您可以將登陸頁面發佈至Facebook，在對象已經出現的地方與他們見面，並產生更多流量到您的節目。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >SMB Spark、標準版和精選版。 企業版及個別授權的功能。
 
@@ -65,8 +63,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >若要從Facebook移除登陸頁面，請在Marketo中取消核准，並在出現提示時選取要移除Facebook標籤的選項。
-
