@@ -3,9 +3,9 @@ unique-page-id: 2949841
 description: 瞭解活動計畫——行銷人員檔案——產品檔案
 title: 瞭解活動計畫
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 瞭解事件程式{#understanding-event-programs}
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
@@ -32,26 +30,13 @@ ht-degree: 0%
 >* 商展
 >* 會議設定
 
->
 
-
-
-事件可自動連線至您的[網路研討會提供者](launchpoint-event-partners.md)，並與[iPad登入應用程式](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)同步。
-
-## 觀看影片{#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/rvsNpqTUpsPd7KxCovVVva.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+事件可自動連線至您的[網路研討會提供者](launchpoint-event-partners.md)，並與[iPad登入應用程式](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)同步。
 
 >[!MORELIKETHIS]
 >
->立即開始使用這些有用的連結：
->
->* [建立新的事件方案](create-a-new-event-program.md)
+>* [建立新的事件方案](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
    >
    >
-* [LaunchPoint活動合作夥伴](launchpoint-event-partners.md)
-
->
-
-
+* [LaunchPoint活動合作夥伴](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)
 
