@@ -3,7 +3,7 @@ unique-page-id: 2359667
 description: 將輸入遮色片套用至表單中的欄位——行銷人員檔案——產品檔案
 title: 將輸入遮色片套用至表單中的欄位
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 您可以使用輸入遮色片限制訪客的輸入。 例如，您可能希望訪客僅以特定格式輸入電話號碼。
 
-1. 前往&#x200B;**Marketing** **Activity**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-4.png)
 
-1. 選擇表單並按一下「編輯」******「表單」**。
+1. 選擇表單並按一下「編輯表單」。****
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. 選擇欄位，並確保&#x200B;**欄位** **類型**&#x200B;設定為&#x200B;**文本**。
+1. 選擇欄位，並確保&#x200B;**欄位類型**&#x200B;設定為&#x200B;**文本**。
 
    >[!NOTE]
    >
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. 按一下&#x200B;**掩碼** **輸入**&#x200B;連結。
+1. 按一下&#x200B;**掩碼輸入**&#x200B;連結。
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
