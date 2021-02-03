@@ -3,9 +3,9 @@ unique-page-id: 10096671
 description: 在Marketo - Marketo Docs —— 產品檔案中輸入您的ON24認證
 title: 在Marketo中輸入您的ON24認證
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,6 @@ ht-degree: 0%
 
    * **顯示名稱** -輸入要在Marketo中使用的名稱。如果您共用認證，此名稱可以是您的名稱或群組名稱。
    * **服務** -從下 **拉** 式選單中選擇On24。
-
    * **用戶端金鑰** -輸入您用於登入的ON24用戶端金鑰。用戶端金鑰是32位數字串，包含字母和數字的混合。
    * **用戶端ID**  —— 輸入您用於登入的4位數ON24用戶端ID。您可以直接從ON24帳戶管理員取得用戶端ID和用戶端金鑰。
 
@@ -67,13 +66,8 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-您的下一步是在ON24[中建立您的網路研討會活動。](create-your-webinar-event-in-on24.md)
+您的下一步是在ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)中建立您的網路研討會活動。[
 
 >[!MORELIKETHIS]
 >
->* [瞭解Marketo ON24適配器事件](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[瞭解Marketo ON24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
