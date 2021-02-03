@@ -3,7 +3,7 @@ unique-page-id: 7516241
 description: SFDC同步——銷售線索隊列——行銷文檔——產品文檔
 title: SFDC同步——銷售線索隊列
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -19,8 +19,8 @@ Marketo可讓您將人員新增至[Salesforce銷售機會佇列](https://help.sa
 
 您可以使用下列其中一個流程動作，將人員指派給Salesforce銷售線索佇列：
 
-* [將人員同步到SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-* [變更擁有者](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+* [將人員同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
+* [變更擁有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
 
 >[!NOTE]
 >
@@ -35,4 +35,3 @@ Marketo可讓您將人員新增至[Salesforce銷售機會佇列](https://help.sa
 * 銷售擁有者標題
 * 銷售人員電話號碼
 * 銷售擁有者電子郵件地址
-
