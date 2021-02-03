@@ -3,9 +3,9 @@ unique-page-id: 2359573
 description: 設定表單感謝頁面——行銷人員檔案——產品檔案
 title: 設定表單感謝頁面
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 編輯表單{#edit-form}
 
-1. 前往&#x200B;**Marketing** **Activity**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -25,17 +25,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. 在&#x200B;**Form****Settings**&#x200B;下，按一下&#x200B;**Settings**。
+1. 在「**表單設定**」下方，按一下「設定&#x200B;**a3/>」。**
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. 向下滾動到&#x200B;**Thank****You****Page**&#x200B;部分。
+1. 向下捲動至&#x200B;**感謝頁面**&#x200B;區段。
 
 ## 保持在頁面{#stay-on-page}上
 
 當表單提交後，「停留在頁面上」選項會將訪客保留在相同的頁面上。
 
-1. 選擇&#x200B;**保持****開啟******&#x200B;頁面&#x200B;**跟隨****向上****With**。
+1. 為&#x200B;**選擇**&#x200B;保持在頁面上&#x200B;**以跟進**。
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 「外部URL」設定可讓您將任何URL定義為後續頁面。 使用者提交表單後，就會將其導向至指定的URL。
 
-1. 選擇&#x200B;******************&lt;With**&#x200B;的External&lt;a1/>&lt;a3/>URL&lt;a3/>。
+1. 選擇&#x200B;********&#x200B;的「跟進」。
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
 您可以新增多個選項，並內建選項，以根據人們的回應來顯示不同的後續動作。
 
-1. 按一下&#x200B;**添加** **選擇**。
+1. 按一下&#x200B;**添加選擇**。
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. 為&#x200B;**Follow****Up****With**&#x200B;類型選擇適當的頁面。
+1. 為&#x200B;**「跟進**」類型選擇適當的頁面。
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -100,9 +100,6 @@ ht-degree: 0%
    ![](assets/image2014-9-15-17-3a39-3a3.png)
 
    >[!NOTE]
-   >
-   >**提醒**
-   >
    >
    >您必須事先建立／核准這些著陸頁面。
 
@@ -114,7 +111,7 @@ ht-degree: 0%
    >
    >您可以新增數種選擇。 但是，如果您新增太多，可能會影響表單的載入速度，因此只需新增所需項目。
 
-1. 瀏覽並設定&#x200B;**Choice** **2**。
+1. 瀏覽並設定&#x200B;**選擇2**。
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
@@ -143,3 +140,4 @@ ht-degree: 0%
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
 幹得好！
+
