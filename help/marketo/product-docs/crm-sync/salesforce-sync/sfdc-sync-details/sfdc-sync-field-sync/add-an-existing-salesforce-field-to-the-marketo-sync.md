@@ -3,7 +3,7 @@ unique-page-id: 4719308
 description: 將現有的Salesforce欄位新增至Marketo Sync - Marketo Docs —— 產品檔案
 title: 將現有的Salesforce欄位新增至Marketo Sync
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -48,4 +48,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    > 如果欄位在Salesforce中已有值，這些值在下次記錄更新之前不會同步至Marketo。
-
