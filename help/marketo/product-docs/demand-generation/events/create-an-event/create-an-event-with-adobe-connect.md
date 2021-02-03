@@ -3,7 +3,7 @@ unique-page-id: 2949865
 description: 使用Adobe Connect —— 行銷檔案——產品檔案建立活動
 title: 使用Adobe Connect建立活動
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -71,8 +71,8 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   > * [將Adobe Connect新增為LaunchPoint服務](../../../../product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-   > * [編輯事件渠道](../../../../product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
+   > * [將Adobe Connect新增為LaunchPoint服務](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   > * [編輯事件渠道](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
 
 
 註冊參加您網路研討會的人員，在「新狀態」設為「已註冊」時，會透過「變更計畫狀態」流程步驟推送至您的網路研討會提供者。 沒有其他狀態會把人推倒。 此外，請確定「變更計畫狀態」流程步驟#1和「傳送電子郵件流程」步驟#2。
