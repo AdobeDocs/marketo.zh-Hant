@@ -3,7 +3,7 @@ unique-page-id: 10096712
 description: 在ON24 —— 行銷檔案——產品檔案中建立您的網路研討會活動
 title: 在ON24中建立您的網路研討會活動
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -27,13 +27,8 @@ ht-degree: 0%
 * 即時事件開始——開始日期和時間。 這可在Marketo中檢視。
 * 即時結束時間——結束日期和時間。 這可在Marketo中檢視。
 
-您的下一步是在Marketo[中建立事件。](create-an-event-in-marketo.md)
+您的下一步是在Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)中建立事件。[
 
 >[!MORELIKETHIS]
 >
->* [瞭解Marketo ON24適配器事件](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[瞭解Marketo ON24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
