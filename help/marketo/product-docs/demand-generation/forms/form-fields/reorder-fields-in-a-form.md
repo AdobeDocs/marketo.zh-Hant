@@ -3,9 +3,9 @@ unique-page-id: 2359592
 description: 重新排序表單中的欄位——行銷檔案——產品檔案
 title: 重新排序表單中的欄位
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 在行銷表單上重新排序欄位很簡單。 這是方法。
 
-1. 前往&#x200B;**Marketing** **Activity**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選擇表單並按一下「編輯」******「表單」**。
+1. 選擇表單並按一下「編輯表單」。****
 
    ![](assets/editform.png)
 
@@ -32,10 +32,3 @@ ht-degree: 0%
 >您也可以將欄位拖放至彼此旁邊。 這可讓您建立欄！
 
 幹得好！ 你在狂轟濫炸。
-
->[!NOTE]
->
->**深入探討**
->
->想要進一步瞭解[forms](http://docs.marketo.com/display/docs/forms)嗎？
-
