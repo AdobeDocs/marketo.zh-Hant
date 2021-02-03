@@ -3,9 +3,9 @@ unique-page-id: 2359654
 description: 變更表單驗證／錯誤訊息的語言並提交按鈕——行銷人員檔案——產品檔案
 title: 變更表單驗證／錯誤訊息的語言並提交按鈕
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >這也會變更提交按鈕語言。
 
-1. 前往&#x200B;**Marketing** **Activity**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a47-3a46.png)
 
-1. 在「**表單設定」下，**&#x200B;按一下「設定」**。**
+1. 在「**表單設定**」下方，按一下「設定&#x200B;**a3/>」。**
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. 選擇所需的&#x200B;**Error** **Language**。
+1. 選擇所需的&#x200B;**錯誤語言**。
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
@@ -49,10 +49,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >請記得[核准表單變更所建立的著陸頁面](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)草稿。
+   >請記得[核准表單變更所建立的著陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)草稿。
 
    ![](assets/image2014-9-15-12-3a50-3a11.png)
 
