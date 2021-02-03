@@ -3,9 +3,9 @@ unique-page-id: 2359657
 description: 變更表單的地區設定——行銷檔案——產品檔案
 title: 更改表單的區域設定
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 在處理國際表單時，您會想要以正確的格式顯示日期／時間。 Marketto會自動為您執行此動作，您只需設定表單的地區設定，其他事由我們處理。
 
-1. 前往&#x200B;**Marketing** **Activity**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-7.png)
 
-1. 選擇表單並按一下「編輯」******「表單」**。
+1. 選擇表單並按一下「編輯表單」。****
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. 在&#x200B;**Form****Settings**&#x200B;下，按一下&#x200B;**Settings**。
+1. 在「**表單設定**」下方，按一下「設定&#x200B;**a3/>」。**
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. 按一下**「核准並關閉**」以套用並儲存變更。
+1. 按一下&#x200B;**批准並關閉**&#x200B;以應用和保存更改。
 
    >[!NOTE]
    >
@@ -45,13 +45,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >請記得[核准表單變更所建立的著陸頁面草稿](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
+   >請記得[核准表單變更所建立的著陸頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
 
-1. 
-1. 就這樣！ 人們可以看到日期／時間顯示在正確的地區設定中。
+   就這樣！ 人們可以看到日期／時間顯示在正確的地區設定中。
 
    ![](assets/image2014-9-15-12-3a53-3a59.png)
-
