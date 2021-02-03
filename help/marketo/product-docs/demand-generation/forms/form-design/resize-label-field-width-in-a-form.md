@@ -3,7 +3,7 @@ unique-page-id: 2359604
 description: 調整表單中的標籤／欄位寬度——行銷檔案——產品檔案
 title: 調整表單中標籤／欄位寬度的大小
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 拖放寬度{#drag-and-drop-the-width}
 
-1. 在[表單編輯器](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)中，選擇要調整大小的欄位。
+1. 在[表單編輯器](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)中，選擇要調整大小的欄位。
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
