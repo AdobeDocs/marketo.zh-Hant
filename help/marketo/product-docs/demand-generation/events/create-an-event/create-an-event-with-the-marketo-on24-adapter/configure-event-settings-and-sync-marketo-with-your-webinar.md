@@ -3,9 +3,9 @@ unique-page-id: 10096673
 description: 設定活動設定並將行銷人員同步至您的網路研討會——行銷人員檔案——產品檔案
 title: 設定活動設定並將Marketo與您的網路研討會同步
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -53,16 +53,8 @@ ht-degree: 0%
    >
    >如果更新ON24中的任何事件資訊，則必須按一下「事件操作」菜單中的「從網路研討會提供程式刷新」**，以查看填入的新資料。**
 
-   [建立子促銷活動和本機資產](create-child-campaigns-and-local-assets.md)
-
-現在，您可以繼續下一個步驟：.
+現在，您可以繼續下一個步驟：[建立子促銷活動和本機資產](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)。
 
 >[!MORELIKETHIS]
 >
->* [瞭解Marketo On24適配器事件](understanding-marketo-on24-adapter-events.md)
->* [建立子促銷活動和本機資產](create-child-campaigns-and-local-assets.md)
-
->
-
-
-
+>[瞭解Marketo On24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
