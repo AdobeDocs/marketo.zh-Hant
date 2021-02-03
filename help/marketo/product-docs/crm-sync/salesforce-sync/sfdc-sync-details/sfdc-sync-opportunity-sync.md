@@ -3,9 +3,9 @@ unique-page-id: 2953467
 description: SFDC同步——機會同步——行銷文檔——產品文檔
 title: SFDC同步——機會同步
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您在Marketo中為Salesforce](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)輸入的[憑證可用來同步資料。 只有這些認證有權存取的資料才會包含在內。
+>您在Marketo中為Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)輸入的[憑證可用來同步資料。 只有這些認證有權存取的資料才會包含在內。
 
 ## 我是否可以啟動Opportunity Sync?{#can-i-initiate-an-opportunity-sync}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## Market是否支援Opportunity Amount中的多種貨幣？{#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-不行，Marketo僅支援一種貨幣。 業務機會金額將與Salesforce同步，但貨幣將是您Marketo訂閱中的[預設貨幣](https://docs.marketo.com/display/DOCS/Set+Default+Location+Settings+for+a+Subscription#SetDefaultLocationSettingsforaSubscription-SettheDefaultCurrencySettingsforaSubscription)。
+不行，Marketo僅支援一種貨幣。 業務機會金額將與Salesforce同步，但貨幣將是您Marketo訂閱中的[預設貨幣](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription)。
 
 ## Market如何將機會和聯繫人關聯起來？{#how-does-marketo-associate-opportunities-and-contacts}
 
@@ -35,7 +35,7 @@ Marketo使用[Opportunity Contact Roles](https://help.salesforce.com/HTViewHelpD
 
 ## 我如何看到一個人的所有機會？{#how-can-i-see-all-the-opportunities-of-a-person}
 
-您可以在[人員詳細資訊](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)頁的&#x200B;**Opportunity Info**&#x200B;頁籤中查看業務機會清單。
+您可以在[人員詳細資訊](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)頁的&#x200B;**Opportunity Info**&#x200B;頁籤中查看業務機會清單。
 
 ## 哪些觸發器／篩選器與業務機會相關？{#what-are-the-triggers-filters-related-to-opportunity}
 
@@ -60,5 +60,3 @@ Marketo使用[Opportunity Contact Roles](https://help.salesforce.com/HTViewHelpD
 >檢查篩選器和觸發器的限制。 裡面有很多酷炫的細節。
 >
 >只要在Salesforce中在opportunity物件中建立新欄位，它就會自動變成限制！
-
-Marketo擁有全球最佳的Salesforce同步功能！
