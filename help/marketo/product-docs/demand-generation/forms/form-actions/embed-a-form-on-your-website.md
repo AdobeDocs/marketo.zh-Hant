@@ -3,9 +3,9 @@ unique-page-id: 2359641
 description: 在您的網站上內嵌表單——行銷人員檔案——產品檔案
 title: 在您的網站上內嵌表格
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo可讓您將我們的表單嵌入您自己的網站。 以下說明如何存取內嵌代碼。
 
-1. 前往&#x200B;**Marketing** **Activity**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,20 +23,17 @@ Marketo可讓您將我們的表單嵌入您自己的網站。 以下說明如何
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. 在&#x200B;**Form****Actions**&#x200B;下，按一下&#x200B;**Embed****Code**。
+1. 在&#x200B;**表單動作**&#x200B;下，按一下&#x200B;**內嵌代碼**。
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >必須批准&#x200B;**Embed** **Code**&#x200B;項目才能顯示／使用。
+   >表單必須核准，**內嵌代碼**&#x200B;項目才能顯示／使用。
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
    >[!CAUTION]
    >
-   >** [表單預填](../../../../product-docs/administration/settings/edit-landing-page-settings.md)**在您自己的頁面&#x200B;*或*&#x200B;行銷人員登陸頁面上使用表單內嵌代碼時無法運作。 表單預先填滿功能僅適用於透過「插入元素」選項在Marketo登陸頁面中使用表單時。
+   >**[在您](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)** 自己的頁面或Marketo登陸頁面上使用表單內嵌代碼時，表單 __ 預先篩選無法運作。表單預先填滿功能僅適用於透過「插入元素」選項在Marketo登陸頁面中使用表單時。
 
 1. 選擇／複製內嵌代碼，然後按一下&#x200B;**關閉**。
 
@@ -50,6 +47,6 @@ Marketo可讓您將我們的表單嵌入您自己的網站。 以下說明如何
 
 >[!NOTE]
 >
->如果您的開發人員想要自訂外觀或存取進階的API函式，請向他們顯示[ Forms 2.0 Developers Page](http://developers.marketo.com/documentation/websites/forms-2-0/)。
+>如果您的開發人員想要自訂外觀或存取進階的API函式，請向他們顯示[ Forms 2.0 Developers Page](https://developers.marketo.com/documentation/websites/forms-2-0/)。
 
-幹得好！ 您是否希望[內嵌代碼包含燈箱代碼](use-a-form-in-a-lightbox.md)? 這也很簡單！
+幹得好！ 您是否希望[內嵌代碼包含燈箱代碼](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? 這也很簡單！
