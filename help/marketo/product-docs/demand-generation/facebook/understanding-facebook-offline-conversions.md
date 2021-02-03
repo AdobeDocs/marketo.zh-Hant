@@ -3,7 +3,7 @@ unique-page-id: 11383945
 description: 瞭解Facebook離線轉換——行銷人員檔案——產品檔案
 title: 瞭解Facebook離線轉換
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
@@ -40,17 +40,12 @@ Facebook銷售機會廣告促銷活動會產生銷售機會，並將其傳送至
 >
 >若沒有離線轉換，廣告商可能會在廣告3上投入更多資金。 透過離線轉換資料，廣告商更可能投資於廣告1。
 
-您可以[設定Facebook離線轉換](set-up-facebook-offline-conversions.md)，將離線廣告效能傳送至Facebook。
+您可以[設定Facebook離線轉換](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)，將離線廣告效能傳送至Facebook。
 
-1. 請確定您的[Facebook LaunchPoint整合](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)為最新。
+1. 請確定您的[Facebook LaunchPoint整合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)為最新。
 1. 將收入週期模型中的階段對應至Facebook上的離線轉換階段。
 1. 當從Facebook銷售線索廣告產生Facebook銷售線索並達到對應階段時，Marketo會透過安全、自動化的API每天將離線轉換資料傳回Facebook數次。 資料會顯示在Facebook廣告管理員報表中。
 
 >[!MORELIKETHIS]
 >
->* [設定Facebook離線轉換](set-up-facebook-offline-conversions.md)
-
->
-
-
-
+>[設定Facebook離線轉換](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
