@@ -3,9 +3,9 @@ unique-page-id: 2359618
 description: 將豐富式文字新增至表單——行銷人員檔案——產品檔案
 title: 將豐富式文字新增至表格
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 在表單中使用Rich Text，在欄位之間新增指示或其他資訊。 看看。
 
-1. 前往&#x200B;**Marketing** **Activity**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 選擇表單並按一下「編輯」******「表單」**。
+1. 選擇表單並按一下「編輯表單」。****
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
@@ -55,10 +55,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a48-3a58.png)
 
->[!NOTE]
+>[!TIP]
 >
->**深入探討**
->
->進一步瞭解[forms](http://docs.marketo.com/display/docs/forms)。
-
-您是否知道您也可以[將可見性規則](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)新增至Rich Text區塊？
+>您是否知道您也可以[將可見性規則](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)新增至Rich Text區塊？
