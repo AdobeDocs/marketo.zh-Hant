@@ -3,9 +3,9 @@ unique-page-id: 2950555
 description: 編輯Facebook豐富型貼文設定——行銷檔案——產品檔案
 title: 編輯Facebook豐富型貼文設定
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,13 @@ ht-degree: 0%
 
 # 編輯Facebook豐富型貼文設定{#edit-facebook-rich-post-settings}
 
-當訪客[在Facebook上分享您](http://docs.marketo.com/display/docs/social)時，自訂貼文。
+當人們在Facebook上分享您時，自訂貼文。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
-Marketo [社交應用程式](http://docs.marketo.com/display/docs/social)可讓您的潛在客戶在社交網路（例如Facebook、Twitter等）上與其連線共用您的登陸頁面。 Facebook OpenGraph標籤（OG標籤）可讓您指定Facebook貼文中包含著陸頁面的資訊。
+Marketo [社交應用程式](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md)可讓您的潛在客戶在社交網路（例如Facebook、Twitter等）上與其連線共用您的登陸頁面。 Facebook OpenGraph標籤（OG標籤）可讓您指定Facebook貼文中包含著陸頁面的資訊。
 
 ## 選取豐富式貼文選項{#select-rich-post-options}
 
@@ -35,20 +33,19 @@ Marketo [社交應用程式](http://docs.marketo.com/display/docs/social)可讓�
 
    * 新增靜態內容：選擇此選項可手動輸入標題、標題和說明。
 
-      ![](assets/image2014-9-22-16-3a48-3a0.png)
+   ![](assets/image2014-9-22-16-3a48-3a0.png)
 
    * 新增動態內容：您的社交應用程式可以使用登陸頁面的`<TITLE>`、`<CAPTION>`和`<DESCRIPTION>`標籤來填入您的豐富貼文。
 
-      ![](assets/image2014-9-22-16-3a48-3a9.png)
+   ![](assets/image2014-9-22-16-3a48-3a9.png)
+
    >[!NOTE]
    >
-   >這些標籤應已存在於頁面來源中，但若要進一步控制，您可以[將特定Facebook OG標籤新增至著陸頁面](edit-facebook-rich-post-settings.md)。
+   >這些標籤應已存在於頁面來源中，但若要進一步控制，您可以將特定Facebook OG標籤新增至著陸頁面。
 
    * 不要新增多樣化內容：將登陸頁面的Facebook貼文限制為主要訊息和連結。
 
-      ![](assets/image2014-9-22-16-3a48-3a18.png)
-
-
+   ![](assets/image2014-9-22-16-3a48-3a18.png)
 
 ## 新增Facebook OG標籤至著陸頁面{#add-facebook-og-tags-to-a-landing-page}
 
@@ -60,7 +57,7 @@ Marketo [社交應用程式](http://docs.marketo.com/display/docs/social)可讓�
 
    **著陸頁面設計器**&#x200B;會在新視窗中開啟。
 
-1. 選擇&#x200B;**著陸頁面動作** > **編輯頁面中繼標籤****.**
+1. 選擇「**著陸頁面動作** > **編輯頁面中繼標籤**」。
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
