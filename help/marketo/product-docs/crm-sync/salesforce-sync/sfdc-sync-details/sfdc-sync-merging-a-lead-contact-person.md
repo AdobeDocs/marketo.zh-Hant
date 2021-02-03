@@ -1,11 +1,11 @@
 ---
 unique-page-id: 7515133
-description: SFDC同步——合併銷售線索／聯繫人／人員——行銷人員文檔——產品文檔
+description: SFDC同步——合併銷售線索／聯繫人／人員——行銷人員——產品文檔
 title: SFDC同步——合併銷售線索／聯繫人／人員
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**範例**
->
 >合併3個潛在客源（人），每10分，將產生1個潛在客源（人）,30分的結果。
 
 * 從「成功記錄」擷取衝突的欄位值。 （記錄=產生的線索或聯繫人）
@@ -32,7 +30,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深入探討**
->
->深入瞭解[在Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)中合併人員的更多資訊。
-
+>深入瞭解[在Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)中合併人員的更多資訊。
