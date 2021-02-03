@@ -3,9 +3,9 @@ unique-page-id: 4719304
 description: 隱含的Salesforce動作——行銷檔案——產品檔案
 title: 隱含的Salesforce動作
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 當執行Salesforce特定的流程步驟時，有時會自動執行額外的步驟。 以下是規則，您知道：
 
-當人員目前不在[Salesforce.com](http://Salesforce.com)*中時，這些規則將適用*。
+當人員目前不在[Salesforce.com](http://Salesforce.com)_中時，這些規則將適用_。
 
 <table> 
  <thead> 
@@ -50,6 +50,4 @@ ht-degree: 0%
 
 您可以使用&#x200B;**SFDC類型**&#x200B;過濾器過濾智慧清單中的SFDC記錄，並將運算子設定為「不空」。 所有SFDC記錄在此欄位中都有值。
 
-請記住，這些自動動作只有在銷售線索目前不在[Salesforce.com](http://Salesforce.com)時才會發生
-
-Salesforce同步很酷，對吧？
+請記住，這些自動動作只有在銷售線索目前不在[Salesforce.com](https://salesforce.com)時才會發生
