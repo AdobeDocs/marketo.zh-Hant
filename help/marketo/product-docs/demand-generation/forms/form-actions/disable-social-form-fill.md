@@ -3,9 +3,9 @@ unique-page-id: 10098242
 description: 停用社交表單填寫——行銷檔案——產品檔案
 title: 停用社交表單填寫
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 有時您不再希望網站訪客使用社交設定檔提交表單。 下面是如何禁用它。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >並非所有客戶都購買過此功能。
 
@@ -25,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities-10.png)
 
-1. 選擇表單，然後按一下「**編輯****表單**」。
+1. 選擇表單並按一下「編輯表單」。****
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
@@ -46,4 +44,3 @@ ht-degree: 0%
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
    這就是你要做的。
-
