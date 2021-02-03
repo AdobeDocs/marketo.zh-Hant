@@ -3,9 +3,9 @@ unique-page-id: 2359578
 description: 核准表單——行銷人員檔案——產品檔案
 title: 批准表單
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 以下說明如何核准現有的表格，以便開始使用。
 
-1. 前往&#x200B;**Marketing** **Activity**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   已核准並準備加入至著陸頁面[。](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
+   已核准並準備加入至著陸頁面[。](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
 
    >[!NOTE]
    >
@@ -47,10 +47,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [編輯表單](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)
-
->
-
+>* [編輯表單](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
 
 1. 按一下&#x200B;**完成**。
@@ -63,8 +60,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
->請記住，如果您在表單核准後編輯，則需要[核准著陸頁面](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)才能查看變更。
+>請記住，如果您在表單核准後編輯，則需要[核准著陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)才能查看變更。
 
 就這樣！ 輕鬆無比。
