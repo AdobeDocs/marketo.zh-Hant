@@ -3,7 +3,7 @@ unique-page-id: 2359398
 description: 建立表單——行銷檔案——產品檔案
 title: 建立表單
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->瞭解Marketo對[保證表單安全](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)所做的工作。
+>瞭解Marketo對[保證表單安全](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)所做的工作。
 
-1. 前往&#x200B;**Marketing** **Activity**。
+1. 前往&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -47,10 +47,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [選擇表單主題](select-a-form-theme.md)
->* [新增欄位集至表單](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
-
->
-
-
+>* [選擇表單主題](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
+>* [新增欄位集至表單](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
 
