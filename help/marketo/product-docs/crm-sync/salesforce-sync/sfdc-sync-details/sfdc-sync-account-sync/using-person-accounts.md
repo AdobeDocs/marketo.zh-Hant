@@ -3,7 +3,7 @@ unique-page-id: 4719316
 description: 使用人員帳戶——行銷人員檔案——產品檔案
 title: 使用人員帳戶
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight的**新增至Marketo Campaign **和**傳送電子郵件**選項目前不適用於個人帳戶。
+>Marketo Sales Insight的&#x200B;**新增至Marketo Campaign**&#x200B;和&#x200B;**傳送電子郵件**&#x200B;選項目前不適用於個人帳戶。
 
 ## 如何將機會關聯至個人帳戶？{#how-do-i-associate-opportunities-to-a-person-account}
 
