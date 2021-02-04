@@ -3,7 +3,7 @@ unique-page-id: 2359734
 description: 使用動態內容預覽著陸頁面——行銷檔案——產品檔案
 title: 使用動態內容預覽著陸頁面
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [在著陸頁面中使用動態內容](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
->* [預覽著陸頁面](preview-a-landing-page.md)
-
->
-
+>* [在著陸頁面中使用動態內容](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
+>* [預覽著陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
 
 1. 選取著陸頁面，然後按一下「預覽頁面」。****
