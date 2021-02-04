@@ -3,9 +3,9 @@ unique-page-id: 5472283
 description: 自訂自由格式登陸頁面的行動檢視——行銷人員檔案——產品檔案
 title: 自訂自由格式登陸頁面的行動裝置檢視
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [為自由格式登陸頁面新增行動裝置檢視](add-a-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
+>[為自由格式登陸頁面新增行動裝置檢視](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 自由格式登陸頁面的行動裝置檢視大部分是自動的，但您可以加以自訂。 這是方法。
 
@@ -49,11 +45,12 @@ ht-degree: 0%
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## 重要事項： {#important-things-to-know}
+## 重要事項：{#important-things-to-know}
 
 * 影像會展開至行動裝置的寬度。 如果您想要較小的影像，請拉入富格文字元素，然後從中新增影像。
 * 僅使用Forms 2.0表格。 它們回應速度快，而且會自動調整。
-* 只有一個範本元素可編輯，即BODY#bodyid(Mobile)。 您可以使用它來變更背景顏色。\
+* 只有一個範本元素可編輯，即BODY#bodyid(Mobile)。 您可以使用它來變更背景顏色。
+
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
 ## 從Mobile View {#hide-an-element-from-the-mobile-view}中隱藏元素
@@ -112,13 +109,6 @@ ht-degree: 0%
 
 玩得開心！
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相關文章**
->
->* [讓現有的自由格式著陸頁面範本與行動相容](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
-
->
-
-
-
+>[讓現有的自由格式著陸頁面範本與行動相容](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
