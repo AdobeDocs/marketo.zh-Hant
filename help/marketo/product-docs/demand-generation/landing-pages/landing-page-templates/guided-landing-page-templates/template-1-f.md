@@ -3,9 +3,9 @@ unique-page-id: 7516061
 description: 範本1-F —— 行銷檔案——產品檔案
 title: 範本1-F
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e89518f88c6a23c2bbf805863d5c1664d579d3e6
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板1-F {#template-f}
 
-[下載範本1-F](http://docs.marketo.com/download/attachments/7516061/template1-f.html?version=1&amp;modificationdate=1432856900000&amp;api=v2)
+按一下右鍵[下載模板1-F](https://docs.marketo.com/download/attachments/7516061/Template1-F.html?version=1&amp;modificationDate=1432856900000&amp;api=v2)
 
 ![](assets/image2015-5-29-9-3a9-3a19.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 三個主體部分（可選）
 * 頁尾（選用）
 
-**按一下下方以下載此範本：**
+**按一下下方的滑鼠右鍵以下載此範本：**
 
-[Template1-F.html](http://docs.marketo.com/download/attachments/7516061/template1-f.html?version=1&amp;modificationdate=1432856900000&amp;api=v2)
+[Template1-F.html](https://docs.marketo.com/download/attachments/7516061/Template1-F.html?version=1&amp;modificationDate=1432856900000&amp;api=v2)
