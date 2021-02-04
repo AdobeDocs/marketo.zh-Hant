@@ -3,9 +3,9 @@ unique-page-id: 2359746
 description: 使用CNAME自訂著陸頁面URL —— 行銷人員檔案——產品檔案
 title: 使用CNAME自訂著陸頁面URL
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -14,22 +14,26 @@ ht-degree: 0%
 # 使用CNAME {#customize-your-landing-page-urls-with-a-cname}自訂著陸頁面URL
 
 即使Marketo代管您的著陸頁面，URL仍可完全自訂。 沒有CNAME的情況：
-`<pre data-theme="Confluence">http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html</pre>`其外觀：
-`<pre data-theme="Confluence"> http://go.YourCompany.com/UnsubscribePage.html</pre>`
+
+`http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
+
+它的外觀：
+
+`http://go.YourCompany.com/UnsubscribePage.html`
 
 ## 選擇CNAME {#choose-a-cname}
 
 選擇要移至著陸頁面URL開頭的字詞。 它只是一個詞，應該比較短。 範例：
 
-* 走。 [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
-* 資訊。 [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
-* 頁面。 [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
+* go.YourCompany.com/NameOfPage.html
+* info.YourCompany.com/NameOfPage.html
+* pages.YourCompany.com/NameOfPage.html
 
-單字（加上[YourCompany.com](http://YourCompany.com)）稱為CNAME。 您稍後需要這個，請記下。
+這個單字（加上YourCompany.com）稱為CNAME。 你以後需要這個，記下來。
 
 ## 尋找您的帳戶字串{#find-your-account-string}
 
-1. 前往&#x200B;**Admin**&#x200B;區域，然後按一下&#x200B;**著陸頁面。**
+1. 前往&#x200B;**Admin**&#x200B;區域，然後按一下&#x200B;**Landing Pages**。
 
    ![](assets/image2014-9-18-16-3a2-3a45.png)
 
@@ -47,11 +51,11 @@ ht-degree: 0%
 
 請您的IT人員設定下列CNAME:（將字詞[CNAME]和[ACCOUNT STRING]取代為上一步驟的文字）。
 
-[CNAME]。[YourCompany.com](http://yourcompany.com/) >帳 [戶字串]。[mktoweb.com](http://mktoweb.com/)
+[CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
 ## 完成CNAME設定{#complete-cname-setup}
 
-1. 在您的IT建立CNAME後，請前往&#x200B;**Admin**，然後按一下&#x200B;**Landing** **Pages**。
+1. 在您的IT建立CNAME後，請前往&#x200B;**Admin**，然後按一下&#x200B;**著陸頁面**。
 
    ![](assets/image2014-9-18-17-3a15-3a11.png)
 
@@ -59,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a15-3a18.png)
 
-1. 在&#x200B;**域****名稱** **中為** **著陸** **頁面**&#x200B;輸入您的&#x200B;**備援** **頁面&lt;a113/>，輸入您的** Homepage **，然後按一下「儲存」**「a17/」。****
+1. 在「著陸頁面&#x200B;**網域名稱」中輸入您的CNAME，輸入**&#x200B;後援頁面&#x200B;**，輸入**&#x200B;首頁&#x200B;**，然後按一下**&#x200B;儲存&#x200B;**。**
 
    ![](assets/image2014-9-18-17-3a15-3a25.png)
 
