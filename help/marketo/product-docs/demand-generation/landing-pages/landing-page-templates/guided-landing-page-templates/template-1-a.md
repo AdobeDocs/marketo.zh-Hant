@@ -3,9 +3,9 @@ unique-page-id: 7515620
 description: 範本1-A —— 行銷檔案——產品檔案
 title: 範本1-A
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 7f1b281d918f8a8c68fc0a3605f88de717b3cf64
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板1-A {#template-a}
 
-[下載範本1-A](http://docs.marketo.com/download/attachments/7515620/template1-a.html?version=3&amp;modificationdate=1432834576000&amp;api=v2)
+按一下右鍵[下載模板1-A](https://docs.marketo.com/download/attachments/7515620/Template1-A.html?version=3&amp;modificationDate=1432834576000&amp;api=v2)
 
 ![](assets/image2015-5-28-10-3a1-3a40.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 三個主體部分（可選）
 * 頁尾（選用）
 
-**按一下下方以下載此範本：**
+**按一下下方的滑鼠右鍵以下載此範本：**
 
-[Template1-A.html](http://docs.marketo.com/download/attachments/7515620/template1-a.html?version=3&amp;modificationdate=1432834576000&amp;api=v2)
+[Template1-A.html](https://docs.marketo.com/download/attachments/7515620/Template1-A.html?version=3&amp;modificationDate=1432834576000&amp;api=v2)
