@@ -3,9 +3,9 @@ unique-page-id: 2359732
 description: 在自由格式登陸頁面——行銷人員檔案——產品檔案中使用動態內容
 title: 在自由格式著陸頁面中使用動態內容
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立區段](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [建立自由格式著陸頁面](create-a-free-form-landing-page.md)
->* [新增表單至自由表單登陸頁面](add-a-new-form-to-a-free-form-landing-page.md)
-
->
-
+>* [建立區段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [建立自由格式著陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [新增表單至自由表單登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 
 ## 新增區段{#add-segmentation}
@@ -31,19 +28,19 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities-2.png)
 
-   選取您的著陸頁面，然後按一下「編輯草稿」。
+1. 選取您的著陸頁面，然後按一下「編輯草稿」。****
 
    ![](assets/landingpageeditdraft-1.jpg)
 
-   按一下「區段依據」。
+1. 按一下「區段依據」。****
 
    ![](assets/image2014-9-17-12-3a8-3a46.png)
 
-   輸入區段名稱，然後按一下儲存。
+1. 輸入分段名稱，然後按一下「儲存」。****
 
    ![](assets/image2014-9-17-12-3a8-3a53.png)
 
-   您的區段及其區段會顯示在右側的「動態」下方。
+1. 您的區段及其區段會顯示在右側的「動態」下方。
 
    ![](assets/image2014-9-17-12-3a9-3a3.png)
 
@@ -53,11 +50,11 @@ ht-degree: 0%
 
 ## 使元素動態{#make-element-dynamic}
 
-1. 將動態內容元素從&#x200B;**Static**&#x200B;下方拖放至&#x200B;**Dynamic.**
+1. 將動態內容元素從&#x200B;**Static**&#x200B;下方拖放至&#x200B;**Dynamic**。
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. 您也可以從元素&#x200B;**「設定」中製作元素** Static **或** Dynamic **。**
+1. 您也可以從元素&#x200B;**Settings**&#x200B;中製作元素&#x200B;**Static**&#x200B;或&#x200B;**Dynamic**。
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
@@ -81,14 +78,8 @@ ht-degree: 0%
 
 瞧！ 您現在可以傳送目標內容。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相關文章**
->
->* [使用動態內容預覽著陸頁面](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [在電子郵件中使用動態內容](../../../../product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-
->
-
-
+>* [使用動態內容預覽著陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [在電子郵件中使用動態內容](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
 
