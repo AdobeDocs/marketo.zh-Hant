@@ -3,9 +3,9 @@ unique-page-id: 2359815
 description: 使用個人化URL匯出清單——行銷人員檔案——產品檔案
 title: 使用個人化URL匯出清單
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [為您的帳戶啟用個人化URL](enable-personalized-urls-for-your-account.md)
->* [啟用著陸頁面的個人化URL](enable-personalized-urls-for-a-landing-page.md)
-
->
+>* [為您的帳戶啟用個人化URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>* [啟用著陸頁面的個人化URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
 
-
-1. 選擇清單或智慧清單，按一下&#x200B;**Leads**&#x200B;頁籤以獲取結果，然後按一下Excel表徵圖。 INLINE請確定您有**Marketo唯一代碼**和&#x200B;**Marketo唯一名稱** [欄可見](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)。
+1. 選擇清單或智慧清單，按一下&#x200B;**Leads**&#x200B;頁籤以獲取結果，然後按一下Excel表徵圖。 INLINE請確定您有&#x200B;**Marketo Unique Code**&#x200B;和&#x200B;**Marketo Unique Name** [欄可見](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)。
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -46,11 +43,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 
-   你完蛋了！ 您現在有銷售機會和個人化URL的清單。
+   你完了！ 您現在有銷售機會和個人化URL的清單。
 
    ![](assets/image2014-9-18-13-3a37-3a36.png)
 
    >[!NOTE]
    >
    >如果有具有相同名字和姓氏的潛在客戶，系統會自動附加數字，以確保URL保持唯一。
-
