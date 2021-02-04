@@ -3,9 +3,9 @@ unique-page-id: 2359537
 description: 將程式碼片段新增至著陸頁面——行銷人員檔案——產品檔案
 title: 新增程式碼片段至著陸頁面
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立程式碼片段](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-
->
-
-
+>[建立程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 1. 選擇您的登陸頁面，然後按一下「編輯草稿」。****
 
@@ -41,6 +37,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您想要新增程式碼片段至引導式著陸頁面，請參閱[本文](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template)。
+   >如果您想要新增程式碼片段至引導式著陸頁面，請參閱[本文](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)。
 
 幹得漂亮！ 現在，您知道如何將程式碼片段新增至您的登陸頁面。
