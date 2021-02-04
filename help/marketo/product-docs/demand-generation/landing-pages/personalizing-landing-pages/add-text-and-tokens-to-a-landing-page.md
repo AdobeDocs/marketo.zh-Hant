@@ -3,9 +3,9 @@ unique-page-id: 2359530
 description: 將文字和Token新增至著陸頁面——行銷人員檔案——產品檔案
 title: 新增文字和Token至著陸頁面
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -74,4 +74,3 @@ Token是動態文字片段，可個人化您的登陸頁面。
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
    任務完成！ 您現在的登陸頁面上有Token。
-
