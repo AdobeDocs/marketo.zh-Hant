@@ -3,9 +3,9 @@ unique-page-id: 4720738
 description: 編輯行銷人員著陸頁面範本——行銷人員檔案——產品檔案
 title: 編輯行銷人員著陸頁面範本
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. 選擇要編輯的&#x200B;**Template**。 按一下**編輯草稿**。
+1. 選擇要編輯的&#x200B;**Template**。 按一下「編輯草稿&#x200B;**」。**
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
@@ -32,4 +32,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >當您編輯著陸頁面範本時，它會使用該範本建立任何著陸頁面資產的草稿。
-
