@@ -3,7 +3,7 @@ unique-page-id: 2953038
 description: 仿製著陸頁面測試群組——行銷檔案——產品檔案
 title: 仿製著陸頁面測試群組
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 
-1. 完成後，按一下「建立」。****
+1. 完成後，按一下&#x200B;**建立**。
 
    ![](assets/image2015-4-27-16-3a7-3a50.png)
 
@@ -44,4 +44,3 @@ ht-degree: 0%
    ![](assets/image2015-4-27-16-3a19-3a10.png)
 
    此群組現在會主動追蹤瀏覽和表單填寫，以便您查看哪個著陸頁面表現最佳。
-
