@@ -3,9 +3,9 @@ unique-page-id: 7515401
 description: 建立引導式著陸頁面範本——行銷檔案——產品檔案
 title: 建立引導式著陸頁面範本
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1269'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深潛：** 厭倦閱讀？[使用逐步指](https://youtu.be/3O7e4GdZKsM) 示觀看這個酷炫的影片。
+>厭倦讀書了？ [使用逐步指](https://youtu.be/3O7e4GdZKsM) 示觀看這個酷炫的影片。
 
 引導式著陸頁面範本有特殊語法。 使用此語法來指定可自訂的內容，以及內容最終會顯示在從範本建立的每個著陸頁面上的位置。 只有您指定為可編輯的區域或變數才可在「引導」著陸頁面編輯器中自訂。
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 文字{#text}
 
-如果您將地區定義為Rich Text，使用者將可使用Marketo的Rich Text Editor[編輯其內容。](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
+如果您將地區定義為Rich Text，使用者將可使用Marketo的Rich Text Editor](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)編輯其內容。[
 
 所需屬性：\
 **類別**:&quot;mktoText&quot;\
@@ -46,13 +46,13 @@ ht-degree: 0%
 
 範例：
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
 
 ### 影像{#image}
 
 您有兩個選項可用來定義可編輯的影像元素。 您可以使用`<div>`或`<img>`標籤，該標籤指定將影像插入的容器。
 
-## 選項1 —— 使用 <div> {#option-use-a-div}
+## 選項1 —— 使用`<div>` {#option-use-a-div}
 
 所需屬性：
 
