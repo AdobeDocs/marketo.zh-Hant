@@ -3,9 +3,9 @@ unique-page-id: 2950799
 description: Token概觀——行銷檔案——產品檔案
 title: 預付碼概觀
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 預付碼概述{#tokens-overview}
 
-Token是可用於Marketon的變數，可用於[智慧型促銷活動](http://docs.marketo.com/display/DOCS/Smart+Campaigns)流程步驟、[電子郵件](http://docs.marketo.com/display/DOCS/General)、[著陸頁面](http://docs.marketo.com/display/DOCS/Landing+Pages)、[程式碼片段](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)和[網頁促銷活動](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)。
+Token是可用於Marketing的變數，用於智慧型促銷活動流程步驟、電子郵件、著陸頁面、程式碼片段和網頁促銷活動。
 
 ## 瞭解預設值{#understanding-default-values}
 
@@ -154,9 +154,7 @@ Token是可用於Marketon的變數，可用於[智慧型促銷活動](http://doc
 ## 程式Token {#program-tokens}
 
 * `{{program.Name}}`
-
 * `{{program.Description}}`
-
 * `{{program.id}}`
 
 ## 我的代號{#my-tokens}
