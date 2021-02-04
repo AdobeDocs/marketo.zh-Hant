@@ -3,7 +3,7 @@ unique-page-id: 2359701
 description: 建立自由格式登陸頁面——行銷檔案——產品檔案
 title: 建立自由格式著陸頁面
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->著陸頁面模式由其範本定義。 [進一](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) 步瞭解自由格式和引導式登陸頁面範本。
+>著陸頁面模式由其範本定義。 [進一](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) 步瞭解自由格式和引導式登陸頁面範本。
 
 ## 在程式{#create-a-free-form-landing-page-in-a-program}中建立自由格式著陸頁面
 
@@ -55,11 +55,11 @@ ht-degree: 0%
 
 ## 在Design Studio {#create-a-free-form-landing-page-in-design-studio}中建立自由格式著陸頁面
 
-1. 前往&#x200B;**Design** **Studio**。
+1. 前往&#x200B;**Design Studio**。
 
    ![](assets/designstudio.png)
 
-1. 按一下「**新增**」，然後按一下「新增著陸頁面」。****
+1. 按一下「**新增**」，然後按一下「新增著陸頁面&#x200B;**」。**
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -74,4 +74,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >如果您不希望編輯器在按一下&#x200B;**Create**&#x200B;後立即開啟，請取消勾選「Open landing page editor for new page」（開啟新頁面的著陸頁面編輯器）。
-
