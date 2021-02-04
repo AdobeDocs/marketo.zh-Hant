@@ -3,7 +3,7 @@ unique-page-id: 2359730
 description: 新增自訂HTML至自由格式登陸頁面——行銷人員檔案——產品檔案
 title: 新增自訂HTML至自由格式著陸頁面
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -40,4 +40,3 @@ ht-degree: 0%
 >[!CAUTION]
 >
 >如果您的自訂HTML未轉換（例如不可見的JavaScript函式或CSS），請將元素放在令人難忘的位置，如左上角。 元素輪廓僅在按一下其區域時可見。
-
