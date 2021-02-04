@@ -3,9 +3,9 @@ unique-page-id: 2359826
 description: 重新導向URL路徑——行銷人員至檔案——產品檔案
 title: 重新導向URL路徑
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Marketo可讓您輕鬆將URL路徑重新導向至您選擇的任何頁面。 這
 >
 >**需要管理員權限**
 
-1. 在「**管理員」下，按一下「著陸頁面**」。****
+1. 在&#x200B;**Admin**&#x200B;下，按一下「著陸頁面」**。**
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. 按一下「**規則**」標籤，然後按一下「**新**和&#x200B;**新的重新導向規則**」。
+1. 按一下「**規則**」標籤，然後按一下「新增&#x200B;**和「新增重新導向規則**」。****
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
@@ -33,10 +33,7 @@ Marketo可讓您輕鬆將URL路徑重新導向至您選擇的任何頁面。 這
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >請記住，您只能將以Marketing開頭的URL重新導向至[CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)。
+   >請記住，您只能將以Marketing開頭的URL重新導向至[CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)。
 
 1. 在右側的第二個&#x200B;**原始URL**&#x200B;欄位中，輸入您要重新導向的URL路徑（或特定頁面）。
 
@@ -46,15 +43,10 @@ Marketo可讓您輕鬆將URL路徑重新導向至您選擇的任何頁面。 這
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   您也可以使用[ Marketo著陸頁面](https://docs.marketo.com/x/vAEk)作為目的地。
+   您也可以使用[ Marketo著陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)作為目的地。
 
-恭喜！  您已成功重新導向URL路徑。
+恭喜！ 您已成功重新導向URL路徑。
 
 >[!MORELIKETHIS]
 >
->* [將行銷人員重新導向至著陸頁面至其他頁面](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-
->
-
-
-
+>[將行銷人員重新導向至著陸頁面至其他頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
