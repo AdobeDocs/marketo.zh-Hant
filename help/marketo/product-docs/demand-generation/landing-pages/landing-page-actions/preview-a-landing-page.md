@@ -3,7 +3,7 @@ unique-page-id: 2359716
 description: 預覽著陸頁面——行銷人員檔案——產品檔案
 title: 預覽著陸頁面
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 預覽著陸頁面{#preview-a-landing-page-1}
 
-1. 選取著陸頁面，然後按一下「預覽」******「頁面」**。
+1. 選取著陸頁面，然後按一下「預覽頁面」。****
 
    ![](assets/image2014-9-16-16-3a21-3a10.png)
 
@@ -31,21 +31,21 @@ ht-degree: 0%
 
 ## 預覽著陸頁面草稿{#preview-a-landing-page-draft}
 
-1. 以滑鼠右鍵按一下已核准具有草稿版本的著陸頁面，然後按一下「預覽&#x200B;******草稿**」。
+1. 以滑鼠右鍵按一下已核准具有草稿版本的著陸頁面，然後按一下「預覽草稿」(Preview Draft)**。**
 
    ![](assets/image2014-9-17-10-3a9-3a56.png)
 
 ## 編輯{#preview-a-landing-page-draft-while-editing}時預覽著陸頁面草稿
 
-1. 選擇著陸頁面，然後按一下「編輯&#x200B;**** **草稿**」。
+1. 選取著陸頁面，然後按一下「編輯草稿」。****
 
    ![](assets/image2014-9-17-10-3a10-3a4.png)
 
-1. 在著陸頁面編輯器中工作期間，您可以按一下「預覽草稿」。****
+1. 在著陸頁面編輯器中工作期間，您可以按一下「預覽草稿」(Preview Draft)**。**
 
    ![](assets/image2015-5-21-15-3a48-3a59.png)
 
-1. 您可以按一下「編輯草稿」，快速返回編輯。****
+1. 按一下「編輯草稿」(Edit Draft)**，即可快速返回編輯。**
 
    ![](assets/image2014-9-17-10-3a10-3a20.png)
 
