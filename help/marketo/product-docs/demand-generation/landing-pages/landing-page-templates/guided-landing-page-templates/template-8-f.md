@@ -3,9 +3,9 @@ unique-page-id: 8783975
 description: 範本8-F —— 行銷檔案——產品檔案
 title: 範本8-F
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板8-F {#template-f}
 
-[下載範本8-F](http://docs.marketo.com/download/attachments/8783975/template-8f.html?version=1&amp;modificationdate=1482175174000&amp;api=v2)
+按一下右鍵[下載模板8-F](http://docs.marketo.com/download/attachments/8783975/template-8f.html?version=1&amp;modificationdate=1482175174000&amp;api=v2)
 
 ![](assets/image2015-7-29-14-3a45-3a45.png)
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 五個內文部分（選用）
 * 頁尾（可選）
 
-按一下下方以下載此範本：
+按一下下方的滑鼠右鍵以下載此範本：
 
 [Template8-F.html](http://docs.marketo.com/download/attachments/8783975/template-8f.html?version=1&amp;modificationdate=1482175174000&amp;api=v2)
