@@ -3,7 +3,7 @@ unique-page-id: 7515069
 description: 瞭解引導範本中的元素和變數——行銷檔案——產品檔案
 title: 瞭解引導範本中的元素和變數
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo Sweepstakes
 * ![—](assets/image2015-5-20-12-3a47-3a45.png)Marketo程式碼片段
 
-變數
+## 變數{#variables}
 
 變數是類似Token的屬性，可從引導式著陸頁面編輯器自訂，如下所示。
 
@@ -60,5 +60,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[建立引導式著陸頁面範本](create-a-guided-landing-page-template.md)
-
+>[建立引導式著陸頁面範本](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
