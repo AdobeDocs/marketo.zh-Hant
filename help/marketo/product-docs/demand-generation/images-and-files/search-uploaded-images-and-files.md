@@ -3,7 +3,7 @@ unique-page-id: 2359862
 description: 搜尋上傳的影像和檔案——行銷人員檔案——產品檔案
 title: 搜尋已上傳的影像和檔案
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -29,16 +29,12 @@ ht-degree: 0%
 
 >[!TIP]
 >
->要開始新搜索，請按一下&#x200B;**Quick****Find**&#x200B;框中的&#x200B;**x**。
+>要開始新搜索，請按一下&#x200B;**快速查找**&#x200B;框中的&#x200B;**x**。
 
-把腳踢開，你完了！
+把腳踢起來，你完了！
 
 >[!MORELIKETHIS]
 >
->* [取代已上傳的影像或檔案](replace-an-uploaded-image-or-file.md)
->* [使用資料夾組織您的影像和檔案](organize-your-images-and-files-using-folders.md)
-
->
-
-
+>* [取代已上傳的影像或檔案](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>* [使用資料夾組織您的影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
 
