@@ -3,19 +3,15 @@ unique-page-id: 5472348
 description: 讓現有的自由格式著陸頁面範本與行動相容——行銷人員檔案——產品檔案
 title: 讓現有的自由格式著陸頁面範本與行動相容
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
 
 # 讓現有自由格式著陸頁面範本行動相容{#make-an-existing-free-form-landing-page-template-mobile-compatible}
-
->[!NOTE]
->
->在[2015年1月版本](../../../../release-notes/2015/release-notes-january-2015.md)之前建立的著陸頁面範本必須升級為行動相容。
 
 這可在範本編輯器和著陸頁面編輯器兩處進行。
 
@@ -57,7 +53,9 @@ ht-degree: 0%
 
 問得好！ 您的範本必須有下列標籤：
 
-`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`  如果一切都看起來不錯，你會看到這個訊息。
+`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`
+
+如果一切都看起來不錯，你會看到這個訊息。
 
 ![](assets/image2015-1-22-20-3a41-3a31.png)
 
@@ -83,13 +81,4 @@ ht-degree: 0%
    >
    >啟動範本的行動版本，將會建立使用範本的任何著陸頁面草稿。
 
-太棒了！ 您現在可以自訂使用此範本的所有著陸頁面的行動檢視[。](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
-
->[!MORELIKETHIS]
->
->* [自訂自由格式登陸頁面的行動裝置檢視](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
-
+太棒了！ 您現在可以自訂使用此範本的所有著陸頁面的行動檢視[。](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
