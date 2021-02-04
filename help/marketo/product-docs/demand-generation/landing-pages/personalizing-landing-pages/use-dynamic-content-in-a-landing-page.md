@@ -3,9 +3,9 @@ unique-page-id: 2359532
 description: 在著陸頁面中使用動態內容——行銷檔案——產品檔案
 title: 在著陸頁面中使用動態內容
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立區段](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [建立自由格式著陸頁面](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [新增表單至自由表單登陸頁面](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
-
->
-
+>* [建立區段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [建立自由格式著陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [新增表單至自由表單登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 
 在登陸頁面中使用動態內容可讓使用者取得目標資訊。
@@ -81,14 +78,8 @@ ht-degree: 0%
 
 瞧！ 您現在可以傳送目標內容。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相關文章**
->
->* [使用動態內容預覽著陸頁面](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [在電子郵件中使用動態內容](../../../../product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-
->
-
-
+>* [使用動態內容預覽著陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [在電子郵件中使用動態內容](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
 
