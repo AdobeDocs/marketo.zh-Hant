@@ -3,9 +3,9 @@ unique-page-id: 2359710
 description: 核准、取消核准或刪除著陸頁面——行銷人員檔案——產品檔案
 title: 批准、取消批准或刪除著陸頁面
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以[一次批准多個頁面](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)，讓您的生活更輕鬆。
+   >您可以[一次批准多個頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)，讓您的生活更輕鬆。
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
@@ -31,12 +31,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >一旦核准後，您的著陸頁面圖示上會有綠色核取標籤。
 
-1. 取消核准著陸頁面
+## 取消核准著陸頁面{#unapprove-a-landing-page}
+
 1. 選擇著陸頁面，前往&#x200B;**著陸頁面動作**，然後按一下&#x200B;**取消核准**。
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
@@ -47,7 +45,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您未核准的登陸頁面不再發佈在Web上，不會產生其他活動。 未核准登陸頁面及其Facebook標籤的訪客將會看到「後援頁面」[。](../../../../product-docs/administration/settings/set-a-fallback-page.md)
+>您未核准的登陸頁面不再發佈在Web上，不會產生其他活動。 未核准登陸頁面及其Facebook標籤的訪客將會看到「後援頁面」[。](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)
 
 ## 刪除著陸頁面{#delete-a-landing-page}
 
