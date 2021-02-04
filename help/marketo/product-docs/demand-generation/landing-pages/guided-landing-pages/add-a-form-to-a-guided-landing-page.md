@@ -3,7 +3,7 @@ unique-page-id: 7515107
 description: 新增表單至引導式著陸頁面——行銷人員檔案——產品檔案
 title: 新增表單至引導式著陸頁面
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立引導式著陸頁面](create-a-guided-landing-page.md)
-
->
-
-
+>[建立引導式著陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
 1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
@@ -61,4 +57,4 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-現在只要關閉著陸頁面編輯器並核准著陸頁面草稿[即可。](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
+現在只要關閉著陸頁面編輯器並核准著陸頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)即可。[
