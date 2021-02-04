@@ -3,7 +3,7 @@ unique-page-id: 7515616
 description: 引導式著陸頁面範本——行銷檔案——產品檔案
 title: 引導式著陸頁面範本
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 引導式著陸頁面範本{#guided-landing-page-templates}
 
-瀏覽我們的範例範本集，以搭配[引導式著陸頁面編輯器](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)使用。 每個範本都完全自適應，並以引導架構為基礎。
+瀏覽我們的範例範本集，以搭配[引導式著陸頁面編輯器](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)使用。 每個範本都完全自適應，並以引導架構為基礎。
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ ht-degree: 0%
 | ![](assets/12c.jpg) | ![](assets/12d.jpg) | ![](assets/12e.jpg) |
 | [範本12-F](guided-landing-page-templates/template-12-f.md) | [範本13-C](guided-landing-page-templates/template-13-a.md) | [範本13-B](guided-landing-page-templates/template-13-b.md) |
 | ![](assets/12f.jpg) | ![](assets/13a.jpg) | ![](assets/13b.jpg) |
-| [範本13-C](guided-landing-page-templates/template-13-c.md) | [範本13-D](guided-landing-page-templates/template-13-d.md) | [範本13-E](guided-landing-page-templates/template-13-e.md) |
+| [範本13-A](guided-landing-page-templates/template-13-c.md) | [範本13-D](guided-landing-page-templates/template-13-d.md) | [範本13-E](guided-landing-page-templates/template-13-e.md) |
 | ![](assets/13c.jpg) | ![](assets/13d.jpg) | ![](assets/13e.jpg) |
 | [範本14-A](guided-landing-page-templates/template-14-a.md) | [範本14-B](guided-landing-page-templates/template-14-b.md) | [範本14-C](guided-landing-page-templates/template-14-c.md) |
 | ![](assets/14a.jpg) | ![](assets/14b.jpg) | ![](assets/14c.jpg) |
