@@ -3,7 +3,7 @@ unique-page-id: 7515027
 description: 將影像新增至引導式著陸頁面——行銷人員檔案——產品檔案
 title: 新增影像至引導式著陸頁面
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -31,11 +31,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >影像的大小取決於範本。 進一步瞭解[引導式著陸頁面範本](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)。
+   >影像的大小取決於範本。 進一步瞭解[引導式著陸頁面範本](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)。
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
    >[!TIP]
    >
    >目前不支援在編輯器中指定影像的連結。 請改用Rich Text元素。
-
