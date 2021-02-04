@@ -3,9 +3,9 @@ unique-page-id: 2359728
 description: 使用自由格式著陸頁面設計手冊——行銷檔案——產品檔案
 title: 使用自由格式著陸頁面設計手冊
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->參考線僅適用於&#x200B;**Free**-**form**&#x200B;著陸頁面編輯器。
+>參考線僅適用於&#x200B;**Free-form**&#x200B;著陸頁面編輯器。
 
 1. 選擇&#x200B;**著陸頁面**，然後按一下&#x200B;**編輯草稿**。
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. 按一下「**著陸頁面動作**」並選取「顯示參考線&#x200B;**」。**
+1. 按一下&#x200B;**著陸頁面操作**&#x200B;並選擇&#x200B;**顯示參考線**。
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 
@@ -36,4 +36,3 @@ ht-degree: 0%
    ![](assets/image2015-5-20-14-3a17-3a24.png)
 
    對齊物體在眼睛上很容易看到！
-
