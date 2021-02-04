@@ -3,9 +3,9 @@ unique-page-id: 9437574
 description: 範本12-A —— 行銷檔案——產品檔案
 title: 範本12-A
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板12-A {#template-a}
 
-[下載範本12-A](http://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
+按一下右鍵[下載模板12-A](http://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
 
 ![](assets/image2015-8-4-14-3a23-3a23.png)
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 6個主體部分（可選）
 * 頁尾（選用）
 
-按一下下方以下載此範本：
+按一下下方的滑鼠右鍵以下載此範本：
 
 [Template12-A.html](http://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
