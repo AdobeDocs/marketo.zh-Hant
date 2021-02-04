@@ -3,7 +3,7 @@ unique-page-id: 2359703
 description: 將影像新增至自由格式登陸頁面——行銷人員檔案——產品檔案
 title: 新增影像至自由格式著陸頁面
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [將影像和檔案新增至Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
-
->
-
-
+>[將影像和檔案新增至Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
 1. 選擇自由格式登錄頁，然後按一下&#x200B;**編輯** **草稿**。
 
@@ -40,4 +36,3 @@ ht-degree: 0%
    幹得好！ 您剛剛將影像新增至自由格式的登陸頁面。
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)
-
