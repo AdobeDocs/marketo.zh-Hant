@@ -3,9 +3,9 @@ unique-page-id: 2359742
 description: 篩選著陸頁面效能報告——行銷檔案——產品檔案
 title: 篩選著陸頁面效能報表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 篩選著陸頁面效能報表{#filter-a-landing-page-performance-report}
 
-將您的[著陸頁面效能報表](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)集中在您程式中的著陸頁面（本機資產）、Design Studio中的頁面（全域資產）或已封存的頁面上。
+將您的[著陸頁面效能報表](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)集中在您程式中的著陸頁面（本機資產）、Design Studio中的頁面（全域資產）或已封存的頁面上。
 
 1. 前往&#x200B;**Analytics**（或&#x200B;**行銷活動**）。
 
@@ -42,10 +42,3 @@ ht-degree: 0%
 1. 你完了！ 按一下&#x200B;**報表**&#x200B;標籤，查看您的篩選報表。
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)
-
->[!NOTE]
->
->**深入探討**
->
->瞭解[基本報告](http://docs.marketo.com/display/docs/basic+reporting)中的所有報告。
-
