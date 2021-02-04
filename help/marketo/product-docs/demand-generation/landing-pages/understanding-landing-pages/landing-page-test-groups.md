@@ -3,7 +3,7 @@ unique-page-id: 2949904
 description: 著陸頁面測試群組——行銷檔案——產品檔案
 title: 著陸頁面測試群組
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Market會追蹤測試群組內每個測試頁面上的頁面檢視次數和表�
 
 >[!PREREQUISITES]
 >
->[建立兩個或多個著陸頁面](../../../../getting-started/quick-wins/landing-page-with-a-form.md)，最好使用表單。
+>[建立兩個或多個著陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)，最好使用表單。
 
 1. 在Design Studio中，按一下「**新增**」。 在下拉式清單中，選擇「新增測試群組」**。**
 
@@ -27,10 +27,8 @@ Market會追蹤測試群組內每個測試頁面上的頁面檢視次數和表�
    >
    >建立測試群組的其他方式為：
    >
-   >    
-   >    
-   >    * 按一下右鍵樹中的登錄頁，然後選擇&#x200B;**轉換為測試組**
-   >    * 在程式中建立著陸頁面測試群組，方法是在&#x200B;**新增本機資產**&#x200B;選單中選擇&#x200B;**AB測試群組**
+   >* 按一下右鍵樹中的登錄頁，然後選擇&#x200B;**轉換為測試組**
+   >* 在程式中建立著陸頁面測試群組，方法是在&#x200B;**新增本機資產**&#x200B;選單中選擇&#x200B;**AB測試群組**
 
 
 1. 輸入名稱和可選說明。 選取您要測試的著陸頁面，然後按一下&#x200B;**Create**。
@@ -56,4 +54,3 @@ Market會追蹤測試群組內每個測試頁面上的頁面檢視次數和表�
    >[!TIP]
    >
    >如果您想要刪除測試群組，只需按一下「測試群組動作」**，然後選取「刪除測試群組」**。****
-
