@@ -3,9 +3,9 @@ unique-page-id: 5472314
 description: 在自由格式登陸頁面中新增影像連結——行銷人員檔案——產品檔案
 title: 在自由格式著陸頁面中新增影像連結
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [新增影像至自由格式著陸頁面](add-an-image-to-a-free-form-landing-page.md)
-
->
-
-
+>[新增影像至自由格式著陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 1. 按一下您要新增連結至的影像。
 
@@ -31,23 +27,12 @@ ht-degree: 0%
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. 將連結複製或輸入至**linkUrl **box。
+1. 將連結複製或輸入至&#x200B;**linkUrl**&#x200B;方塊。
 
    ![](assets/add-link.png)
 
-   恭喜！ 您現在已成功新增著陸頁面上影像的連結。 您現在可以[預覽頁面](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)以檢視其實際運作。
+   恭喜！ 您現在已成功新增著陸頁面上影像的連結。 您現在可以[預覽頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)以檢視其實際運作。
 
 >[!TIP]
 >
 >永遠測試您的頁面！
-
->[!NOTE]
->
->**相關文章**
->
->* [預覽著陸頁面](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
-
->
-
-
-
