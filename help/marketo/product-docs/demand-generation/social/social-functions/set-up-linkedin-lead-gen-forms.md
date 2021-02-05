@@ -3,9 +3,9 @@ unique-page-id: 12976798
 description: 設定LinkedIn Lead Gen Forms —— 行銷人員檔案——產品檔案
 title: 設定LinkedIn銷售機會開發表單
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. 為服務輸入&#x200B;**顯示名稱**，從下拉式清單中選擇**LinkedIn Lead Gen **服務，然後按一下&#x200B;**Next**。
+1. 為服務輸入&#x200B;**顯示名稱**，從下拉式清單中選擇&#x200B;**LinkedIn Lead Gen**&#x200B;服務，然後按一下&#x200B;**Next**。
 
    ![](assets/linkedin-lead-gen.png)
 
-1. Market to open a new tab in the same browser to [www.linkedin.com](http://www.linkedin.com). 使用您要用於整合的帳戶登入LinkedIn。
+1. Marketto在相同的瀏覽器中開啟新標籤至[linkedin.com](https://www.linkedin.com)。 使用您要用於整合的帳戶登入LinkedIn。
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
-1. 出現提示時，按一下「允許**」以接受Marketo應用程式安裝至LinkedIn。
+1. 出現提示時，按一下「允許&#x200B;****」接受Marketo應用程式安裝至LinkedIn。
 
    ![](assets/linkedin-marketo-allow.png)
 
@@ -85,9 +85,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [在智慧型促銷活動中使用LinkedIn銷售機會開發表單篩選器和觸發器](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
-
->
-
-
-
+>[在智慧型促銷活動中使用LinkedIn銷售機會開發表單篩選器和觸發器](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
