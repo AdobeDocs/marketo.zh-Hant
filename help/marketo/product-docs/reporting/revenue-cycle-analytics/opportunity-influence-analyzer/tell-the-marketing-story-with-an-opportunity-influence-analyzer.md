@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: 使用Opportunity Inflection Analyzer - Marketo Docs —— 產品文檔講述行銷故事
 title: 使用Opportunity Inflection Analyzer講述行銷故事
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -64,9 +64,8 @@ ht-degree: 0%
 
    按一下時間軸上更多的橘點，以填寫活動、計畫和有趣時刻的故事，這些事件、計畫和動人時刻都有助於創造並關閉機會。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >
    >    
