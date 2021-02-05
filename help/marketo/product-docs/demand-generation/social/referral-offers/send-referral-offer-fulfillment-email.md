@@ -3,9 +3,9 @@ unique-page-id: 2359785
 description: 傳送反向連結選件履約電子郵件——行銷人員檔案——產品檔案
 title: 傳送反向連結選件履約電子郵件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [在社交促銷中使用電子郵件](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
->* [建立反向連結選件](create-a-referral-offer.md)
-
->
-
+>* [在社交促銷中使用電子郵件](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+>* [建立反向連結選件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
 
 ## 設定履約傳送{#set-up-fulfillment-delivery}
@@ -30,11 +27,9 @@ ht-degree: 0%
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. 在&#x200B;**App Settings**&#x200B;下，選擇&#x200B;**Offer Details.**
+1. 在&#x200B;**App Settings**&#x200B;下，選擇&#x200B;**Offer Details**。
 
-   ** ![](assets/image2015-4-23-12-3a53-3a16.png)
-
-   **
+   ![](assets/image2015-4-23-12-3a53-3a16.png)
 
 1. 選擇&#x200B;**註冊電子郵件**。
 
@@ -46,10 +41,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**深入探討**
-   >
-   >
-   >進一步瞭解在社交促銷活動中使用電子郵件[。](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+   >進一步瞭解在社交促銷活動中使用電子郵件](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)。[
 
 1. 按一下&#x200B;**Fulfillment Delivery**&#x200B;下拉式清單，然後選擇&#x200B;**auto on goal**。
 
@@ -65,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. 按一下「依**篩選」選項，並選取「**目標**」。
+1. 按一下「Filter By **（篩選依據**）」選項，然後選擇「Goal **（目標**）」。
 
    >[!NOTE]
    >
