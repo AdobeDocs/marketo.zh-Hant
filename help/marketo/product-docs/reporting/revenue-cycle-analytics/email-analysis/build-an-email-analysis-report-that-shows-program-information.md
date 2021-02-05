@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: 建立顯示計畫資訊——行銷人員檔案——產品檔案的電子郵件分析報表
 title: 建立顯示方案資訊的電子郵件分析報表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 請依照下列步驟建立「電子郵件分析報表」，以顯示依方案管道分組的電子郵件資訊。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
