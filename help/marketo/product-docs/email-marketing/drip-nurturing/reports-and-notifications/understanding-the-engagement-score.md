@@ -3,7 +3,7 @@ unique-page-id: 2359890
 description: 瞭解參與分數——行銷人員檔案——產品檔案
 title: 瞭解參與分數
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 瞭解參與分數{#understanding-the-engagement-score}
 
-參與分數可讓您輕鬆瞭解參與計畫內容的成效。 分數範圍從0到100。 查看[參與儀表板](the-engagement-dashboard.md)，瞭解如何追蹤內容的效能。
+參與分數可讓您輕鬆瞭解參與計畫內容的成效。 分數範圍從0到100。 查看[參與儀表板](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md)，瞭解如何追蹤內容的效能。
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
@@ -33,9 +33,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [瞭解參與計畫](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
-
->
-
-
-
+>[瞭解參與計畫](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
