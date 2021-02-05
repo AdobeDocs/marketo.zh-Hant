@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: 銷售連線概觀——行銷人員檔案——產品檔案
 title: 銷售連接概述
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketo Sales Connect是一個全方位的銷售支援解決方案，具有多種功能，可幫助您在整個銷售週期中提高參與度。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的客戶成功經理。
 
