@@ -3,7 +3,7 @@ unique-page-id: 2359669
 description: 啟用和停用串流內容——行銷檔案——產品檔案
 title: 啟用和停用串流內容
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -45,7 +45,6 @@ ht-degree: 0%
 
    ![](assets/cloneasteam.jpg)
 
-1. 將滑鼠指標暫留在您要停用的內容上，按一下齒輪圖示，然後按一下「停用」。****
+1. 將滑鼠指標暫留在您要停用的內容上，按一下齒輪圖示，然後按一下「停用&#x200B;****」。
 
    ![](assets/image2014-9-15-16-3a34-3a25.png)
-
