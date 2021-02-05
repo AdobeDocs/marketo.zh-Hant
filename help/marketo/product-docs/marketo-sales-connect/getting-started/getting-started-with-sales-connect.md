@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: 銷售連線入門——行銷人員檔案——產品檔案
 title: Sales Connect快速入門
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 如果您不想看這些步驟，而是直接跳至[下面的「Video Instructions（視頻說明）」。](#video)
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的客戶成功經理。
 
