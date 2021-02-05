@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: 發行說明- 1998年8月——行銷檔案——產品檔案
 title: 發行說明- 19年8月
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ ht-degree: 0%
 * **入門：** 逐步逐步逐步逐步逐步逐步說明，透過引導新使用者進行執行個體設定，讓入門程式更輕鬆、更有效率。
 * **人員頁面配置增強功能：** 透過新人員頁面配置中的清單匯入和大量動作，管理您的人員和群組。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >以星號(![(star)](assets/star-yellow.svg))表示的功能是付費附加元件。 請連絡您的行銷人員以取得詳細資訊。
 
