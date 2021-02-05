@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: 參與儀表板——行銷人員檔案——產品檔案
 title: 參與儀表板
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # 參與控制面板{#the-engagement-dashboard}
 
-「參與儀表板」是查看[參與計畫](http://docs.marketo.com/display/docs/drip+nurturing)中內容如何執行的最簡單方式。
+「參與儀表板」是您查看參與計畫內容執行情況的最簡單方式。
 
 >[!NOTE]
 >
->參與分數會在每次投影片後72小時計算。 進一步瞭解[參與分數](understanding-the-engagement-score.md)。
+>參與分數會在每次投影片後72小時計算。 進一步瞭解[參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
 ## 檢視參與控制面板{#view-the-engagement-dashboard}
 
-選擇您的參與計畫，然後按一下「檢視>儀表板&#x200B;**」。**
+選擇您的參與計畫，然後按一下「檢視&#x200B;**** > **儀表板**」。
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->請參閱[參與串流效能報告](engagement-stream-performance-report.md)以取得更詳細的統計資料。
+>請參閱[參與串流效能報告](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)以取得更詳細的統計資料。
 
 ## 瞭解耗盡介面工具集{#understand-the-exhaustion-widget}
 
@@ -47,9 +47,7 @@ ht-degree: 0%
 
 顯示一段時間內的平均參與分數以及內容編輯的影響。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >此功能可做為附加元件，供使用Marketo Revenue Cycle Explorer的客戶使用。 如需詳細資訊，請連絡您的客戶成功經理。
 
@@ -69,11 +67,8 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-*Newestand* Oldestare是根 ** 據上次核准的時間。
+_Newestand_ Oldestare是根 __ 據上次核准的時間。
 
 >[!NOTE]
 >
->**深入探討**
->
->進一步瞭解[建立參與計畫](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)深入探討。
-
+>進一步瞭解[建立參與計畫](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)深入探討。
