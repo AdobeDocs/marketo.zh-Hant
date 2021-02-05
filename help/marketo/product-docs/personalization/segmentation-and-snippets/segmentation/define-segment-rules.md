@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: 定義區段規則——行銷檔案——產品檔案
 title: 定義區段規則
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ ht-degree: 0%
 >
 >「人員（草稿）」畫面會顯示所有符合會員資格且並非總是最終人員清單的人員。 核准您的區段以查看最終清單。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [核准區段](approve-a-segmentation.md)
 
