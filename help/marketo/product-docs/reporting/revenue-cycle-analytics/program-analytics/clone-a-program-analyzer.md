@@ -3,9 +3,9 @@ unique-page-id: 11383877
 description: 克隆程式分析器——行銷文檔——產品文檔
 title: 克隆程式分析器
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,8 @@ ht-degree: 0%
 
    ![](assets/image2016-10-31-16-3a17-3a11.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >    
    >    
