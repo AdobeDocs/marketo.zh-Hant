@@ -3,9 +3,9 @@ unique-page-id: 2360411
 description: 建立成功路徑分析程式——行銷人員檔案——產品檔案
 title: 建立成功路徑分析器
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 >
 >想要儲存您的報表嗎？ 按一下&#x200B;**Analyzer操作**&#x200B;下拉清單並選擇&#x200B;**另存為**。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用成功路徑分析器](using-the-success-path-analyzer.md)
 
