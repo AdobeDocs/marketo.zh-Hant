@@ -3,9 +3,9 @@ unique-page-id: 2359520
 description: 使用「日期／時間」 A/B測試——行銷人員檔案——產品檔案
 title: 使用「日期／時間」 A/B測試
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,8 @@ ht-degree: 0%
 
    [定義A/B測試成功者標準](define-the-a-b-test-winner-criteria.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >    
    >    
