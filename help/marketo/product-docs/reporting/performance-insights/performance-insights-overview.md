@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: 效能分析概觀——行銷人員檔案——產品檔案
 title: 效能分析概觀
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 行銷人員績效洞察可協助您最佳化通道組合，以發揮最大效益，並發現長期趨勢，以找出一致的贏取策略。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >並非所有客戶都有「績效洞察」功能。 如需詳細資訊，請連絡您的客戶成功經理。
 
