@@ -3,9 +3,9 @@ unique-page-id: 2360002
 description: 設定報表大小——行銷檔案——產品檔案
 title: 設定報表大小
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -41,12 +41,11 @@ ht-degree: 0%
 
    你完了！ 報告將遵守新限制。
 
-   >[!NOTE]
-   >
-   >**相關文章**
+   >[!MORELIKETHIS]
    >
    >
-   >現在，您可以使用新限制匯出報表[。](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
+   >
+   >現在，您可以使用新限制匯出報表](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)。[
 
    在[基本報表](http://docs.marketo.com/display/docs/basic+reporting)深入探討中，檢視設定報表的更多方法。
 
