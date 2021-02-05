@@ -3,9 +3,9 @@ unique-page-id: 4720917
 description: Facebook的個人化再行銷——行銷檔案——產品檔案
 title: Facebook中的個人化再行銷
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -130,9 +130,7 @@ ht-degree: 0%
 
 1. 您現在都已在Facebook中設定個人化的再行銷活動。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用網頁個人化資料重新鎖定目標](retargeting-with-web-personalization-data.md)
 >* [Google的個性化再營銷](personalized-remarketing-in-google.md)
