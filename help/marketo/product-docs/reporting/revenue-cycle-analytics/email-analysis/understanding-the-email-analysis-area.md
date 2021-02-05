@@ -3,9 +3,9 @@ unique-page-id: 4718651
 description: 瞭解電子郵件分析領域——行銷檔案——產品檔案
 title: 瞭解電子郵件分析區
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 「電子郵件分析區域」著重於電子郵件量度。 本文將介紹其中可用的所有報表。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >這適用於具有「選擇版」或[收入週期分析](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)增益集的使用者。 如需詳細資訊，請洽詢您的銷售代表。
 
