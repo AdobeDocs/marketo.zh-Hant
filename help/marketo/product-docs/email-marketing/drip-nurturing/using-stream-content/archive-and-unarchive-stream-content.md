@@ -3,9 +3,9 @@ unique-page-id: 2359930
 description: 封存和取消封存串流內容——行銷檔案——產品檔案
 title: 封存和取消封存串流內容
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 封存和取消封存串流內容{#archive-and-unarchive-stream-content}
 
-如果您不想再在串流中使用內容片段，您可以[remove](remove-stream-content.md)加以封存。 以下是如何封存內容。
+如果您不想再在串流中使用內容片段，您可以[remove](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)加以封存。 以下是如何封存內容。
 
 >[!TIP]
 >
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ## 取消封存串流內容{#unarchive-stream-content}
 
-1. 選擇您的參與計畫，並前往「串流」標籤。
+1. 選擇您的參與程式，並轉至&#x200B;**流**&#x200B;頁籤。
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. 按一下串流的齒輪圖示，然後按一下「顯示封存內容」。
+1. 按一下串流的齒輪圖示，然後按一下「顯示封存內容&#x200B;**」。**
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
@@ -46,4 +46,3 @@ ht-degree: 0%
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
    完美！ 現在，此內容可以優先化並啟動。
-
