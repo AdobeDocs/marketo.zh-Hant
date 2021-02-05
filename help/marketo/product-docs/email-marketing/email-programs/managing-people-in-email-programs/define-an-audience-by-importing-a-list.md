@@ -3,9 +3,9 @@ unique-page-id: 1900597
 description: 匯入清單——行銷人員檔案——產品檔案以定義觀眾
 title: 匯入清單以定義對象
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ ht-degree: 0%
 
 太棒了！ 現在，您應該選擇已有的電子郵件，或建立新的電子郵件，以傳送給這些人。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [選擇現有電子郵件](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [建立電子郵件方案的電子郵件](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
