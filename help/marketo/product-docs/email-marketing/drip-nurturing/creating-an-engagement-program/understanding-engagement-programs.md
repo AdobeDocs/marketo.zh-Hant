@@ -3,9 +3,9 @@ unique-page-id: 2359647
 description: 瞭解參與計畫——行銷人員檔案——產品檔案
 title: 瞭解參與計畫
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 ## 參與計畫{#engagement-program}
 
-**參與pr****ogram**&#x200B;是一種程式，可輕鬆完成複雜的培養。
+**參與計畫**&#x200B;是一種可輕鬆完成複雜培養的計畫。
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
-相關文章：
-
-* [建立參與計畫](create-an-engagement-program.md)
+>[!MORELIKETHIS]
+>
+>[建立參與計畫](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
 
 ## 串流{#stream}
 
@@ -35,10 +35,11 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
-相關文章：
+>[!MORELIKETHIS]
+>
+>* [新增串流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
+>* [複製串流](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
-* [新增串流](add-a-stream.md)
-* [複製串流](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
 ## 內容{#content}
 
@@ -46,13 +47,14 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
-相關文章：
+>[!MORELIKETHIS]
+>
+>* [新增內容至串流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [排定串流內容的優先順序](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
+>* [編輯串流內容的可用性](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
+>* [移除串流內容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
+>* [封存和取消封存串流內容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
-* [新增內容至串流](add-content-to-a-stream.md)
-* [排定串流內容的優先順序](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
-* [編輯串流內容的可用性](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
-* [移除串流內容](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
-* [封存和取消封存串流內容](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
 ## 鑄造{#cast}
 
@@ -66,21 +68,17 @@ ht-degree: 0%
 
 您可以設定&#x200B;**串流cadence**&#x200B;來決定何時進行轉換。 這是您排程內容以定期間隔發佈的方式。
 
-「 ![](assets/image2014-9-15-15-3a25-3a27.png)
+![](assets/image2014-9-15-15-3a25-3a27.png)
 
-「
-
-相關文章：
-
-* [設定串流節奏](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>[!MORELIKETHIS]
+>
+>[設定串流節奏](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
 ## 人員地序{#person-cadence}
 
 **person cadence**&#x200B;是一種狀態，定義其從參與計畫接收內容的能力。 您可以使用&#x200B;**變更參與程式Cadence**&#x200B;流程步驟，將此步驟變更為「暫停」或「正常」。
 
-「 ![](assets/image2014-9-15-15-3a25-3a55.png)
-
-「
+![](assets/image2014-9-15-15-3a25-3a55.png)
 
 ## 精疲力盡的{#exhausted}
 
@@ -90,11 +88,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [已累積內容的人](../../../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
-
->
-
-
+>[已累積內容的人](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
 ## 內容參與等級{#content-engagement-level}
 
@@ -102,9 +96,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [瞭解參與分數](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
-
->
-
-
-
+>[瞭解參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
