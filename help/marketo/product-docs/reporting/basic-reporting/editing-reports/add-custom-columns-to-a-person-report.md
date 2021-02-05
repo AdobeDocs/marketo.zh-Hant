@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: 新增自訂欄至人員報表——行銷人員檔案——產品檔案
 title: 新增自訂欄至人員報表
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -42,9 +42,8 @@ ht-degree: 0%
 
    ![](assets/five-1.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >
    >您也可以[將業務機會列添加到銷售線索報表](add-opportunity-columns-to-a-lead-report.md)。
