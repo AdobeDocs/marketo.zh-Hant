@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: 使用企業金鑰安裝Marketo Add-in for Outlook —— 行銷人員檔案——產品檔案
 title: 使用企業金鑰安裝Marketon Add-in for Outlook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ ht-degree: 0%
 
    就這樣！ 接下來，銷售代表將完成[註冊過程](authorize-the-marketo-outlook-plugin.md)。 您可以傳送指示的連結（請參閱&#x200B;**行銷人員相關文章**）。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >    
    >    
