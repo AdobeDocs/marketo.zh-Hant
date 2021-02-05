@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: 新增內容至串流——行銷人員檔案——產品檔案
 title: 新增內容至串流
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >智慧型促銷活動必須包含&#x200B;**參與計畫成員**&#x200B;篩選器，如此才能正常運作。
 
 **串流+圖示**
@@ -118,9 +115,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [將計畫新增至參與計畫串流](adding-a-program-to-an-engagement-program-stream.md)
-
->
-
-
-
+>[將計畫新增至參與計畫串流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
