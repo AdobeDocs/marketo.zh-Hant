@@ -3,7 +3,7 @@ unique-page-id: 10096409
 description: 避免傳送重複內容——行銷人員檔案——產品檔案
 title: 避免傳送重複內容
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
 | 從&#x200B;**different** CEE程式中的轉播觸發的預設程式中的促銷活動 | 預設方案的成員 | 否 |
 | 從&#x200B;**different** CEE程式中的轉播觸發的預設程式中的促銷活動 | 不是預設方案的成員 | 是 |
 | 使用智慧流的&#x200B;**不同的** CEE程式 | 兩個CEE計畫的成員 | 否 |
-
