@@ -3,9 +3,9 @@ unique-page-id: 2359947
 description: 在互動串流——行銷人員至檔案——產品檔案之間轉換人員
 title: 在參與串流之間轉換人員
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在參與串流之間轉換人員{#transition-people-between-engagement-streams}
 
-參與計畫可以有多個串流。 如果您[新增串流](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)，您會想要定義人們從一個串流移至另一個串流的方式。 這些稱為&#x200B;**過渡規則。**
+參與計畫可以有多個串流。 如果您[新增串流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)，您會想要定義人們從一個串流移至另一個串流的方式。 這些稱為&#x200B;**過渡規則。**
 
 1. 前往&#x200B;**行銷活動**。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/multistream.jpg)
 
-1. 按一下您要從其他串流拉進的串流的&#x200B;**轉換規則**，然後按一下**編輯轉換規則。**
+1. 按一下要從其他串流拉入的串流的&#x200B;**轉換規則**，然後按一下「編輯轉換規則&#x200B;**」。**
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
@@ -32,15 +32,12 @@ ht-degree: 0%
    >過渡規則被拉入流；一律定義您要提取的串流規則。
 
    轉場規則視窗開啟後，尋找並拖曳您的選擇觸發器。 在這種情況下，我們希望將人員加入Mid Stage（中級階段），以便將其加入機會。
-「 ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-   「
+   ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. 讓我們將運算元設為**是任何**，讓人員移居，以獲得任何新增的商機。
+1. 讓我們將運算子設為&#x200B;**是任何**，讓人員移至任何新增的商機。
 
-   「 ![](assets/image2014-9-15-18-3a11-3a14.png)
-
-   「
+   ![](assets/image2014-9-15-18-3a11-3a14.png)
 
    >[!TIP]
    >
@@ -52,11 +49,8 @@ ht-degree: 0%
 
    太好了！ 現在，您參與計畫中新增至機會的任何人，都會移至「中階段」串流。
 
-   「 ![](assets/image2014-9-15-18-3a11-3a29.png)
-
-   「
+   ![](assets/image2014-9-15-18-3a11-3a29.png)
 
    >[!NOTE]
    >
-   >上述步驟&#x200B;*do*&#x200B;也適用於暫停[的使用者。](http://docs.marketo.com/display/DOCS/Pause+People+in+an+Engagement+Program)
-
+   >上述步驟&#x200B;*do*&#x200B;也適用於暫停[的使用者。](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)
