@@ -3,9 +3,9 @@ unique-page-id: 2359987
 description: 訂閱基本報表——行銷檔案——產品檔案
 title: 訂閱基本報表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >
    >瞭解如何[集中管理所有報表訂閱](manage-report-subscriptions.md)。
