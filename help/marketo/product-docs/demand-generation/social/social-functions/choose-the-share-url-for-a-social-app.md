@@ -3,7 +3,7 @@ unique-page-id: 2359811
 description: 選擇社交應用程式——行銷人員檔案——產品檔案的分享URL
 title: 選擇社交應用程式的分享URL
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -35,21 +35,13 @@ ht-degree: 0%
    >
    >**定義**
    >
-   >
    >「分享貼文」可連結至三個位置：
    >
-   >    
-   >    
-   >    * **反向連結頁面**:包含應用程式的頁面。
-   >    * **其他著陸頁面**:與下拉式清單中的不同「行銷」著陸頁面。
-   >    * **外部URL**:非Marketo登陸頁面。
+   >* **反向連結頁面**:包含應用程式的頁面。
+   >* **其他著陸頁面**:與下拉式清單中的不同「行銷」著陸頁面。
+   >* **外部URL**:非Marketo登陸頁面。
 
 
 >[!MORELIKETHIS]
 >
->* [將您的隱私權政策新增至社交應用程式](add-your-privacy-policy-to-a-social-app.md)
-
->
-
-
-
+>[將您的隱私權政策新增至社交應用程式](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
