@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: 新增電子郵件冠軍／挑戰者——行銷人員檔案——產品檔案
 title: 新增電子郵件冠軍／挑戰者
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,8 @@ ht-degree: 0%
 
 1. 新視窗會開啟，並顯示不同的測試類型選項。 請閱讀下列相關文章以瞭解每篇文章。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >    
    >    
