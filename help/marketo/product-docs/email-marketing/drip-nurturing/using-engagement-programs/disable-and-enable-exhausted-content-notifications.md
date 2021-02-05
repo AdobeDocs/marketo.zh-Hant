@@ -3,7 +3,7 @@ unique-page-id: 2359877
 description: 停用並啟用用盡的內容通知——行銷人員檔案——產品檔案
 title: 停用並啟用用完的內容通知
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -27,9 +27,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. 選擇**Off **（或&#x200B;**On**），然後按一下&#x200B;**Save**。
+1. 選擇&#x200B;**Off**（或&#x200B;**On**），然後按一下&#x200B;**Save**。
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 
    超級！ 如果您啟用通知，您會在串流中看到內容，並收到電子郵件通知。
-
