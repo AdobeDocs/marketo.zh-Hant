@@ -3,9 +3,9 @@ unique-page-id: 2359455
 description: 排程您的電子郵件方案——行銷人員檔案——產品檔案
 title: 排程您的電子郵件方案
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ ht-degree: 0%
 
    那有多簡單？ 剩下的就是[批准電子郵件程式](approve-unapprove-an-email-program.md)，您就可以走了。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [計畫包含收件者時區的電子郵件程式](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [電子郵件計畫快速入門](head-start-for-email-programs.md)
