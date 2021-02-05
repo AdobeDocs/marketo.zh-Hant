@@ -3,7 +3,7 @@ unique-page-id: 2359955
 description: 參與流績效報告——行銷人員檔案——產品檔案
 title: 參與流績效報告
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -60,8 +60,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >
-   >「參與分數」雖未圖示，但是是此報表中的一欄。 如需參與分數的詳細資訊，請參閱[瞭解參與分數](understanding-the-engagement-score.md)。
+   >「參與分數」雖未圖示，但是是此報表中的一欄。 如需參與分數的詳細資訊，請參閱[瞭解參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
    幹得好！ 請注意，報表會依參與計劃分組。
-
