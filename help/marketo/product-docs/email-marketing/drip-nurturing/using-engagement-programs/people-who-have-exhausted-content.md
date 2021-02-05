@@ -3,7 +3,7 @@ unique-page-id: 2359953
 description: 內容枯竭的人員——行銷人員檔案——產品檔案
 title: 已累積內容的人
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -60,4 +60,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >此數字會在每次轉播後立即更新。
-
