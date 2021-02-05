@@ -3,9 +3,9 @@ unique-page-id: 37356593
 description: 使用合成窗口——行銷文檔——產品文檔中的模板
 title: 在合成窗口中使用模板
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,8 @@ ht-degree: 0%
    >
    >**依預** 設，位於此處的「收藏」。它包含最愛的電子郵件範本，而非類別。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >    
    >    
