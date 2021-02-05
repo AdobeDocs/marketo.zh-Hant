@@ -3,9 +3,9 @@ unique-page-id: 2360188
 description: 促銷活動電子郵件績效報告——行銷人員檔案——產品檔案
 title: 促銷活動電子郵件績效報表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,8 @@ ht-degree: 0%
    >
    >總的來說，我們試圖用常識記錄這些統計資料。 例如，如果有人點按了電子郵件中的連結，他們顯然會先開啟連結。 有關我們遵循的特定規則，請參閱[電子郵件績效報告](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >    
    >    
