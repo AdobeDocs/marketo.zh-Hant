@@ -3,7 +3,7 @@ unique-page-id: 2950547
 description: 設定社交應用程式的人員擷取——行銷人員檔案——產品檔案
 title: 設定社交應用程式的人員擷取
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 設定社交應用程式的人員擷取{#configure-person-capture-for-a-social-app}
 
-當您建立[反向連結選件](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)或[抽獎活動](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)時，您可以設定您要求的資訊以及您要求人員提供的資訊，以便參與。
+當您建立[反向連結選件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)或[抽獎活動](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)時，您可以設定您要求的資訊以及您要求人員提供的資訊，以便參與。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-10-3a57-3a57.png)
 
-1. 在社交應用程式編輯器中，前往&#x200B;**註冊流量** > **人員擷取。**
+1. 在社交應用程式編輯器中，前往&#x200B;**註冊流量** > **人員擷取**。
 
    ![](assets/three-1.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >無論如何，參與者仍會收到您選件寄送的&#x200B;[*營運*&#x200B;電子郵件](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)。
+   >無論如何，參與者仍會收到您選件寄送的&#x200B;[_營運_&#x200B;電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)。
 
 1. 在「查看和編輯」窗口中，按一下「顯示編輯」**，然後在共用提示中編輯消息。**
 
@@ -50,5 +50,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->現在，您可以[設定社交註冊流程](configure-social-sign-up-share-flow.md)，並編輯將張貼至每個社交網路的分享訊息。
-
+>現在，您可以[設定社交註冊流程](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)，並編輯將張貼至每個社交網路的分享訊息。
