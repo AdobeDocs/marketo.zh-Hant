@@ -3,9 +3,9 @@ unique-page-id: 37355534
 description: 發行說明- 2020年1月——行銷檔案——產品檔案
 title: 發行說明- 2020年1月
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '846'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 1月20日發行包含下列功能。 檢查您的Marketo版本，以取得功能。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >以星號(![(star)](assets/star-yellow.svg))表示的功能是付費附加元件。 請連絡您的行銷人員以吸引客戶代表，以瞭解更多資訊。
 
