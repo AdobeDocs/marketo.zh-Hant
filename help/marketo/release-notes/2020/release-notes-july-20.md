@@ -3,9 +3,9 @@ unique-page-id: 45416698
 description: 發行說明- 2007年7月——行銷檔案——產品檔案
 title: 發行說明- 2002年7月
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 7月20日發行包含下列功能。 檢查您的Marketo版本，以取得功能。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >請注意，視您目前的套件而定，含星號(![(star)](assets/star-yellow.svg))的項目可能需要購買附加值。 請連絡您的行銷人員以吸引客戶代表，以瞭解更多資訊。
 
