@@ -3,7 +3,7 @@ unique-page-id: 2359915
 description: 移除串流內容——行銷檔案——產品檔案
 title: 移除串流內容
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 移除串流內容{#remove-stream-content}
 
-您可以移除或封存內容。 與移除串流內容不同，[archiving](archive-and-unarchive-stream-content.md)會保留與內容相關的所有歷史記錄。 如果您不介意遺失某些內容的歷史統計資料，並想要移除它，請以下說明如何進行。
+您可以移除或封存內容。 與移除串流內容不同，[archiving](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)會保留與內容相關的所有歷史記錄。 如果您不介意遺失某些內容的歷史統計資料，並想要移除它，請以下說明如何進行。
 
 1. 前往&#x200B;**行銷活動**。
 
@@ -29,7 +29,6 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >只有在您不在乎歷史時，才能移除內容。 如果要保留歷史記錄，請改為[archive](archive-and-unarchive-stream-content.md)。
+   >只有在您不在乎歷史時，才能移除內容。 如果要保留歷史記錄，請改為[archive](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)。
 
    就這樣！ 現在您知道如何移除內容。
-
