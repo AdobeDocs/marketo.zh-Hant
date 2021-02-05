@@ -3,9 +3,9 @@ unique-page-id: 10092916
 description: 範本20-C —— 行銷檔案——產品檔案
 title: 範本20-C
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板20-C {#template-c}
 
-按一下右鍵[下載模板20-C](http://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&amp;modificationdate=1441750739000&amp;api=v2)
+[下載範本20-C](https://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&amp;modificationdate=1441750739000&amp;api=v2)
 
 ![](assets/template-20c.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 四個主體部分（可選）
 * 頁尾（選用）
 
-按一下下方的滑鼠右鍵以下載此範本：
+**按一下下方以下載此範本：**
 
-[Template20-C.html](http://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&amp;modificationdate=1441750739000&amp;api=v2)
+[Template20-C.html](https://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&amp;modificationdate=1441750739000&amp;api=v2)
