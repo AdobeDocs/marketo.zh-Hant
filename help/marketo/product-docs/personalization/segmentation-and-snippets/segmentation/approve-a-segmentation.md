@@ -3,9 +3,9 @@ unique-page-id: 2359457
 description: 核准區段——行銷人員檔案——產品檔案
 title: 核准區段
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 >
 >如果您在核准期間收到錯誤訊息，並需要協助降低區段的複雜性，請聯絡[行銷人員支援](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe)。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [在智慧型清單中使用區段篩選](use-segment-filters-in-a-smart-list.md)
 
