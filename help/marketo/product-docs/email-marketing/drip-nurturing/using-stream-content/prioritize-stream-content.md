@@ -3,7 +3,7 @@ unique-page-id: 2359834
 description: 排定串流內容的優先順序——行銷檔案——產品檔案
 title: 排定串流內容的優先順序
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -32,4 +32,3 @@ ht-degree: 0%
    >在轉播時，優先順序一律會從上到下讀取。
 
    就是這麼簡單！ 現在，您知道如何排定串流內容的優先順序。
-
