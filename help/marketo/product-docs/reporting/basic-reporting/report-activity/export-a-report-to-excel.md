@@ -3,9 +3,9 @@ unique-page-id: 2360020
 description: 將報表匯出至Excel —— 行銷人員檔案——產品檔案
 title: 將報表匯出至Excel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,8 @@ ht-degree: 0%
 
    就這樣！ 您的瀏覽器會提示您將Excel檔案儲存至系統。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >
    >如果下載的檔案太大，您可以[變更報表大小](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)。
