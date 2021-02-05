@@ -3,9 +3,9 @@ unique-page-id: 2359447
 description: 建立區段——行銷檔案——產品檔案
 title: 建立區段
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,8 @@ ht-degree: 0%
    >
    >您必須先定義區段規則，才能使用區段。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >    
    >    
