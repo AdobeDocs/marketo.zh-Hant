@@ -3,7 +3,7 @@ unique-page-id: 7504180
 description: 使用行銷人員清單或智慧清單作為LinkedIn觀眾區隔——行銷人員檔案——產品檔案
 title: 使用行銷人員清單或智慧清單作為LinkedIn觀眾區隔
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -17,13 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [將LinkedIn符合的觀眾新增為LaunchPoint服務](../../../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[將LinkedIn符合的觀眾新增為LaunchPoint服務](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
->
-
-
-
-1. 轉到**資料庫**。
+1. 轉至&#x200B;**Database**。
 
    ![](assets/db.png)
 
@@ -35,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. 按一下清單底部的** 「通過廣告橋發送」 **表徵圖![—](assets/image2015-4-20-18-3a18-3a41.png)。
+1. 按一下清單底部的&#x200B;**通過廣告橋發送**&#x200B;表徵圖![—](assets/image2015-4-20-18-3a18-3a41.png)。
 
    ![](assets/four-1.png)
 
@@ -43,7 +39,7 @@ ht-degree: 0%
    >
    >當使用廣告網路整合將觀眾傳送至LinkedIn時，Marketo只會傳送電子郵件位址。
 
-1. 選擇** LinkedIn**，然後按一下&#x200B;**Next**。
+1. 選擇&#x200B;**LinkedIn**&#x200B;並按一下&#x200B;**Next**。
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
@@ -67,6 +63,4 @@ ht-degree: 0%
    >
    >同步需要15分鐘。
 
-   [LinkedIn的行銷解決方案說明中心](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment)
-
-擊掌！ 您的資料現在會與LinkedIn的受眾連結。 如需將清單上傳至LinkedIn以用於帳戶和連絡人定位的詳細資訊，請造訪。
+擊掌！ 您的資料現在會與LinkedIn的受眾連結。 如需有關將清單上傳至LinkedIn以用於帳戶和連絡人定位的資訊，請造訪[LinkedIn的行銷解決方案說明中心](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment)。
