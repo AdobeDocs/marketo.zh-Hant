@@ -3,9 +3,9 @@ unique-page-id: 10097202
 description: 電子郵件計畫快速入門——行銷檔案——產品檔案
 title: 電子郵件計畫快速入門
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ ht-degree: 0%
 
 [進一](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) 步瞭解如何使用收件者時區排程電子郵件方案。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [排程您的電子郵件方案](schedule-your-email-program.md)
 >* [計畫包含收件者時區的電子郵件程式](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
