@@ -3,9 +3,9 @@ unique-page-id: 2359488
 description: 依區段分類的群組電子郵件報表——行銷檔案——產品檔案
 title: 依區段分組電子郵件報表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [篩選電子郵件報表中的資產](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
 
