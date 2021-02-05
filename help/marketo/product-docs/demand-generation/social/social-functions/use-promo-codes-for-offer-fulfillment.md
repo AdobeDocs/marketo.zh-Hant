@@ -3,7 +3,7 @@ unique-page-id: 2359819
 description: 使用促銷代碼進行選件履約——行銷檔案——產品檔案
 title: 使用促銷代碼進行選件履約
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. 在反向連結選件編輯器中，前往&#x200B;**應用程式設定**，然後前往&#x200B;**選件詳細資訊。**
+1. 在反向連結選件編輯器中，前往&#x200B;**應用程式設定**，然後前往&#x200B;**選件詳細資訊**。
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
@@ -39,7 +39,6 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >
    >促銷代碼檔案中的任何空白字元會視為該行代碼的一部分。 請特別小心避免每行結尾處出現尾隨空格。
 
 1. 上載完成時，會顯示已上載代碼的總數。
@@ -52,7 +51,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->只有擁有&#x200B;*存取獎項*&#x200B;權限的Marketo使用者才能存取此資訊。 請參閱[管理使用者角色和權限](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)。
+>只有擁有&#x200B;_存取獎項_&#x200B;權限的Marketo使用者才能存取此資訊。 請參閱[管理使用者角色和權限](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)。
 
 1. 前往&#x200B;**行銷活動**。
 
