@@ -3,9 +3,9 @@ unique-page-id: 2359968
 description: 變更報告時間範圍——行銷人員檔案——產品檔案
 title: 變更報告時間範圍
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,8 @@ ht-degree: 0%
    按一下&#x200B;**報表**&#x200B;標籤，查看所選時段的報表。\
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >
    >要按特定人員屬性縮小報表範圍，您可以[在具有智慧清單的報表中篩選人員](filter-people-in-a-report-with-a-smart-list.md)。
