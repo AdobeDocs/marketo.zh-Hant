@@ -3,9 +3,9 @@ unique-page-id: 2360418
 description: 依收入階段列出的人員報表——行銷檔案——產品檔案
 title: 按收入階段列出的人員報表
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 您可以建立報表，顯示您的[收入週期模型](http://docs.marketo.com/display/docs/revenue+cycle+models)人員所在的階段。 只要報表的指定日期範圍有人員餘額，報表就會包含指定模型中的任何階段。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >並非所有Marketo版本都包含此功能。 如需詳細資訊，請連絡您的客戶經理。
 
