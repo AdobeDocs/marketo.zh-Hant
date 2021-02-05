@@ -3,9 +3,9 @@ unique-page-id: 10097747
 description: 新增自訂度量至收入總管報表——行銷檔案——產品檔案
 title: 新增自訂度量至收入總管報表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,8 @@ ht-degree: 0%
 
    ![](assets/image2016-1-26-11-3a29-3a16.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >    
    >    
