@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: 網頁活動報告——行銷檔案——產品檔案
 title: 網頁活動報表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >若要瞭解哪些人瀏覽您的網站最多，請在[](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)「頁面檢視」欄中對報表[](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)排序，然後選擇「排序降序」。**
+   >若要瞭解哪些人瀏覽您的網站最多，請在&#x200B;*「頁面檢視」欄中對報表](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)[](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)排序，然後選擇「排序降序」。[*
 
    [Marketo會將匿名](../../../../product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 網站訪客新增至您的資料庫，而您可選擇在此報表中顯示。它提供了豐富的資訊，即使這些資訊是匿名的。\
    [您可以為「網頁](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 活動」報表選取的欄包括：
@@ -83,9 +83,8 @@ ht-degree: 0%
 >
 >讓您的業務代表驚艷！ [篩選](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)報表並 [訂閱它們](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**相關文章**
 >
 >* [已檢視的網頁、網頁活動報表](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
 >* [在Web報表中顯示人物或匿名訪客](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
