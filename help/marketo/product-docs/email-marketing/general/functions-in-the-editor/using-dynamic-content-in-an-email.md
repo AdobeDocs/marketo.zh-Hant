@@ -3,9 +3,9 @@ unique-page-id: 2950617
 description: 在電子郵件中使用動態內容——行銷檔案——產品檔案
 title: 在電子郵件中使用動態內容
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ ht-degree: 0%
 
 真貼心！ 現在，您可以傳送彈性的電子郵件給目標對象。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用動態內容預覽電子郵件](preview-an-email-with-dynamic-content.md)
 >* [在著陸頁面中使用動態內容](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
