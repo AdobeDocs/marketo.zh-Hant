@@ -3,9 +3,9 @@ unique-page-id: 2360012
 description: 依狀態列出的人員報表——行銷人員檔案——產品檔案
 title: 按狀態列出的人員報表
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ ht-degree: 0%
    >
    >按一下加號(+)以展開每個月，並查看每個人員狀態的特定數字。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >
    >[使用智慧型清單來篩選您對特](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) 定人員的報表。
