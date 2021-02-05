@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: 新增行動應用程式——行銷人員檔案——產品檔案
 title: 新增行動應用程式
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,8 @@ ht-degree: 0%
 
 應用程式通常從沙盒環境開始，執行初始開發和測試。 然後，開發人員會使用生產環境來建立客戶將會使用的最終應用程式。 您必須在新增行動應用程式時選取適當的通知憑證（請參閱下方的步驟4）。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
