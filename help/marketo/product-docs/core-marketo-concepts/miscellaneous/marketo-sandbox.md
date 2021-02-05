@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Marketo沙盒- Marketo Docs —— 產品檔案
 title: Marketo沙盒
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketo沙盒是在生產環境中實作之前，用於測試的額外例項。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的客戶成功經理。
 
