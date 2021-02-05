@@ -3,9 +3,9 @@ unique-page-id: 2359557
 description: 冠軍／挑戰者——主題系列——行銷文檔——產品文檔
 title: 冠軍／挑戰者——主題系列
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,8 @@ ht-degree: 0%
 
    進度！ 我們繼續。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >
    >[冠軍／挑戰者：定義冠軍標準](champion-challenger-define-champion-criteria.md)
