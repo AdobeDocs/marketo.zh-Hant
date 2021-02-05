@@ -3,9 +3,9 @@ unique-page-id: 2359466
 description: 使用動態內容編輯程式碼片段——行銷檔案——產品檔案
 title: 使用動態內容編輯片段
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ ht-degree: 0%
 
 不是那麼簡單嗎？ 您現在都可在「電子郵件」和「著陸頁面」上使用這些程式碼片段。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [將程式碼片段新增至電子郵件](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
 >* [新增程式碼片段至著陸頁面](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
