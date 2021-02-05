@@ -3,7 +3,7 @@ unique-page-id: 2359856
 description: 開啟和關閉參與計畫——行銷檔案——產品檔案
 title: 開啟和關閉參與計畫
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -35,5 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 
-   給你！ 您可以使用相同的步驟重新開啟它。
-
+給你！ 您可以使用相同的步驟重新開啟它。
