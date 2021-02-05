@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: 設定數位廣告宣傳的收入歸因——行銷檔案——產品檔案
 title: 設定數位廣告宣傳的收入歸因
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ ht-degree: 0%
 >* 建立或編輯表單，以將查詢字串與人員傳遞
 >* 請確定您有權存取某些「收入週期分析」功能，以報告您的廣告通道和促銷活動
 
->
-
-
 
 ## 建立預設程式{#create-a-default-program}
 
@@ -41,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. 如果已有程式，則可以[克隆它](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)。
+1. 如果已有程式，則可以[克隆它](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)。
 
    >[!TIP]
    >
@@ -53,15 +50,11 @@ ht-degree: 0%
    >
    >**範例**
    >
-   >
    >透過URL傳遞的查詢字串可協助Market得知某人在成為Marketo中的人時點選了哪個廣告促銷活動。
-   >
    >
    >您可以建立查詢字串方法，其中包含您要測量的所有變數。 Marketo會使用這些變數，將人員新增至不同的程式。
    >
-   >
    >例如，您可以使用Channel type_Channel_Asset_Region。 這看起來可能是：SP_FB_NewGuide_US。 **注意**:縮寫儲存空間。
-   >
    >
    >或者，將其設為Channel_Adsource_AssetName_Region_UniqueIdNumber。 這看起來可能是：Social-Paid_Facebook_NewGuide_NA_123。
 
@@ -95,7 +88,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >上述範例顯示**Converted, **，但這取決於您的狀態／成功值。
+   >上述範例顯示&#x200B;**Converted**，但這取決於您的狀態／成功值。
 
 1. 排程並啟動促銷活動。
 
@@ -112,21 +105,16 @@ ht-degree: 0%
    >
    >**範例**
    >
-   >
    >以下說明如何將您設定的所有資訊新增至實際URL。 項目以&amp;符號分隔：
    >
+   >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >[www.marketo.com?**source**=Social-Paid&amp;**comment**=Social-Paid_Facebook_NewGuide_NA&amp;**camp**=abc&amp;**k=**xyz](http://www.marketo.com?source=Social-Paid&amp;comment=Social-Paid_Facebook_NewGUide_NA&amp;camp=abc&amp;kk+xyz)
-   >
-   >    
-   >    
-   >    * **來** 源是用作渠道識別碼的人員來源
-   >    * **注** 意為每個程式建立的唯一標識符
-   >    * **在Facebook** 、LinkedIn或Google中促銷活動
-   >    * **將您** 要擷取的關鍵字或資產名稱kkis
+   >* **來** 源是用作渠道識別碼的人員來源
+   >* **注** 意為每個程式建立的唯一標識符
+   >* **在Facebook** 、LinkedIn或Google中促銷活動
+   >* **將您** 要擷取的關鍵字或資產名稱kkis
 
-   >    
-   >    
+   >
    >**這4個詞語必須全部為小寫，而且URL中不能有任何空格，才能擷取此資訊。**
 
 ## 最佳做法{#best-practices}
