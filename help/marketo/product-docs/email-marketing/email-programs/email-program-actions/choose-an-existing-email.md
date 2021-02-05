@@ -3,9 +3,9 @@ unique-page-id: 2359451
 description: 選擇現有的電子郵件——行銷人員檔案——產品檔案
 title: 選擇現有電子郵件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ ht-degree: 0%
 
 既然我們已經決定要傳送哪封電子郵件，我們可以設定A/B測試，或略過此測試，並排程電子郵件程式。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [新增A/B測試](email-test-a-b-test/add-an-a-b-test.md)
 >* [排程您的電子郵件方案](schedule-your-email-program.md)
