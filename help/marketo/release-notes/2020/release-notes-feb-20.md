@@ -3,9 +3,9 @@ unique-page-id: 37355826
 description: 發行說明- 2002年2月——行銷檔案——產品檔案
 title: 發行說明- 2002年2月
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 2002年2月發行包含下列功能。 檢查您的Marketo版本，以取得功能。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >以星號(![(star)](assets/star-yellow.svg))表示的功能是付費附加元件。 請連絡您的行銷人員以吸引客戶代表，以瞭解更多資訊。
 
