@@ -3,7 +3,7 @@ unique-page-id: 2359839
 description: 測試參與流——行銷人員檔案——產品檔案
 title: 測試參與串流
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 按一下** Program Actions**並選擇&#x200B;**測試流**。
+1. 按一下&#x200B;**程式操作**&#x200B;並選擇&#x200B;**測試流**。
 
    ![](assets/three.png)
 
-1. 從「**測試人員**」下拉式清單中選取您的人員。 請記住，內容會實際發佈，因此在選擇時請記住。
+1. 從&#x200B;**測試人員**&#x200B;下拉式清單中選擇您的人員。 請記住，內容會實際發佈，因此在選擇時請記住。
 
    ![](assets/four-rubix.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
    按一下「初始串流」，選取您要測試的串流，然後按一下「執行轉換」。
    ![](assets/five-rubiks.png)
 
-1. 當人員瀏覽您先前設定的[轉場規則](transition-people-between-engagement-streams.md)後，按一下「重新整理」圖示。
+1. 當人員瀏覽您先前設定的[轉場規則](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)後，按一下「重新整理」圖示。
 
    ![](assets/six-rubiks.png)
 
@@ -54,5 +54,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >除非您再按一下**Run Cast **，否則不會傳送任何其他內容。
-
+   >除非您按一下「再次執行廣播」**，否則不會傳送任何其他內容。**
