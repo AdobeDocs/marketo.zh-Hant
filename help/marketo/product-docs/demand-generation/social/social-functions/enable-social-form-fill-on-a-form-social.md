@@ -3,9 +3,9 @@ unique-page-id: 2359829
 description: 在表單(Social)-行銷人員檔案——產品檔案上啟用社交表單填寫
 title: 在表單上啟用社交表單填寫(Social)
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 允許您的訪客使用其社交網路填寫表單。 您會自動獲得額外資料，讓他們獲得更快的體驗。 這是方法。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
@@ -39,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >檢視如果人們使用社交按鈕，[資料行銷人員將擷取](manage-social-profile-data.md)的內容。
+   >檢視如果人們使用社交按鈕，[資料行銷人員將擷取](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)的內容。
 
 1. 按一下&#x200B;**完成**。
 
