@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: 促銷活動報表——行銷人員檔案——產品檔案
 title: 促銷活動報表
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,8 @@ ht-degree: 0%
    | 觸發（活動） | **行銷活動**&#x200B;標籤中目前觸發的促銷活動。 |
    | 觸發（非活動） | 在&#x200B;**行銷活動**&#x200B;標籤中，非作用中觸發的促銷活動。 |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >    
    >    
