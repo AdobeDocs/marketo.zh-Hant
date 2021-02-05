@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: 啟用內容建議列——行銷檔案——產品檔案
 title: 啟用內容建議列
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,6 @@ ht-degree: 0%
 * 在建議引擎中執行的內容越多，演算法就越能測試和瞭解哪些內容最有效。 我們建議從10到20個內容片段開始執行並啟用，並持續新增內容片段。
 * 您為建議啟用的內容片段應包含RTP Javascript標籤。 這有助於演算法追蹤並最佳化建議的內容。
 
->[!NOTE]
-**相關文章**
+>[!MORELIKETHIS]
 * [為網頁豐富式媒體啟用預測式內容](enable-predictive-content-for-web-rich-media.md)
 
