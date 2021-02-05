@@ -3,9 +3,9 @@ unique-page-id: 2949281
 description: 核發行銷人員電子郵件附加授權——行銷人員檔案——產品檔案
 title: 核發行銷人員電子郵件附加授權
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,8 @@ ht-degree: 0%
 * **[企業密鑰安裝](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)**:當銷售代表沒有公司筆記型電腦的管理員權限且無法安裝外掛程式、軟體等時，請使用此方法。上面。 在此情況下，行銷人員會向授權使用者清單發放授權。 接著，IT團隊會使用Enterprise Key將外掛程式遠端部署至所有授權使用者的電腦。 然後外掛程式使用者會授權它。
 * **[註冊代碼安裝](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)**:當銷售代表擁有公司筆記型電腦的管理員權限且可安裝外掛程式、軟體等時，請使用此方法。上面。 在此程式中，Marketo管理員會向授權使用者清單發出授權，並直接透過下載連結寄送註冊電子郵件給他們。 銷售代表會收到一封電子郵件，內含外掛程式下載連結和唯一的註冊URL。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
