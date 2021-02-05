@@ -3,9 +3,9 @@ unique-page-id: 2359837
 description: 社交活動的觸發器和篩選——行銷檔案——產品檔案
 title: 社交活動的觸發器和篩選器
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,15 @@ ht-degree: 0%
 
 Market中的社交應用程式有其專屬的特殊觸發器和篩選器。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
-1. 若要使用社交&#x200B;*觸發器*，請選取您的智慧型促銷活動，然後按一下「智慧型清單」標籤。 ****&#x200B;在右側，按一下+以展開&#x200B;**Triggers**，然後展開&#x200B;**Social**。
+1. 若要使用社交&#x200B;_觸發器_，請選取您的智慧型促銷活動，然後按一下「智慧型清單」標籤。 ****&#x200B;在右側，按一下+以展開&#x200B;**Triggers**，然後展開&#x200B;**Social**。
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. 若要使用社交&#x200B;*篩選器*，請按一下&#x200B;**+**&#x200B;以展開&#x200B;**篩選器**。
+1. 若要使用社交&#x200B;_篩選器_，請按一下&#x200B;**+**&#x200B;以展開&#x200B;**篩選器**。
 
    ![](assets/two-282-29.png)
 
@@ -44,9 +42,6 @@ Market中的社交應用程式有其專屬的特殊觸發器和篩選器。
    | 投票 |  | ![（勾號）](assets/check.svg) |  |  |  |
    | 贏得抽獎活動 |  |  |  |  | ![（勾號）](assets/check.svg) |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
-   >
-   >* [檢視社交績效](view-social-performance.md)
-
+   >[檢視社交績效](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)
