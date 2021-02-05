@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: 公司網路活動報告——行銷檔案——產品檔案
 title: 公司Web活動報表
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [在Web報表中顯示人物或匿名訪客](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
 
