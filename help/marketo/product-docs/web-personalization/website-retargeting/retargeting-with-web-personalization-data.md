@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: 使用網頁個人化資料重新鎖定目標——行銷檔案——產品檔案
 title: 使用網頁個人化資料重新鎖定目標
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # 使用Web個人化資料重新定位{#retargeting-with-web-personalization-data}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >「網站重新定位」現在位於「網頁個人化」方塊下。 如果您只購買「重新定位」功能，您會看到此圖格，並存取僅啟用&#x200B;**「重新定位」功能的「網頁個人化」產品。**&#x200B;這可讓您存取帳戶設定、重新定位頁面、區段和其他追蹤頁面。
 
