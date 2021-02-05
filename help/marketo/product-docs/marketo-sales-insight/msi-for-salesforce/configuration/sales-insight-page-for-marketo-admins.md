@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: 行銷人員的銷售分析頁面——行銷人員檔案——產品檔案
 title: Marketo管理員的銷售分析頁面
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,8 @@ Marketo管理員在Sales Insight中擁有特定權限。 瞭解它們的下列�
    >
    >如果您尚未擁有自訂分數欄位，請參閱以下說明如何建立[欄位](http://docs.marketo.com/x/3wMk)。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >
    >[星火](http://docs.marketo.com/x/qgU6Ag)
