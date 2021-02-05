@@ -3,7 +3,7 @@ unique-page-id: 2950573
 description: 設定反向連結選件的追蹤進度流程——行銷人員檔案——產品檔案
 title: 設定反向連結選件的追蹤進度流程
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 設定反向連結選件的追蹤進度流程{#configure-track-progress-flow-for-a-referral-offer}
 
-當您[建立反向連結選件](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)時，您可以設定提示，顯示參與者的獎勵進度。
+當您[建立反向連結選件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)時，您可以設定提示，顯示參與者的獎勵進度。
 
 1. 前往&#x200B;**行銷活動**。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. 在&#x200B;**檢視****&amp;****編輯**&#x200B;視窗中，編輯提示，提醒參與者登入他們用來註冊選件的相同社交網路。
+1. 在&#x200B;**檢視與編輯**&#x200B;視窗中，編輯提示，提醒參與者登入他們用來註冊選件的相同社交網路。
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
@@ -49,5 +49,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->接著，按一下「完成>核准並關閉」，並[發佈您的轉介選件](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)。****
-
+>接著，按一下「完成&#x200B;**** > **批准並關閉**」，並[發佈您的轉介選件](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)。
