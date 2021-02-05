@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Google的個人化再行銷——行銷檔案——產品檔案
 title: Google的個性化再營銷
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-15-18-3a47-3a21.png)
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用網頁個人化資料重新鎖定目標](retargeting-with-web-personalization-data.md)
 >* [Facebook中的個人化再行銷](personalized-remarketing-in-facebook.md)
