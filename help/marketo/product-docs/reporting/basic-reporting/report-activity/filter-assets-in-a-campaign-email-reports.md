@@ -3,9 +3,9 @@ unique-page-id: 2360227
 description: 篩選促銷活動電子郵件報表中的資產——行銷人員檔案——產品檔案
 title: 篩選促銷活動電子郵件報表中的資產
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -42,9 +42,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >    
    >    
