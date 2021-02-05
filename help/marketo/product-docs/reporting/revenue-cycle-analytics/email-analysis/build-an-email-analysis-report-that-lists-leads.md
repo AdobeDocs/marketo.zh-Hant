@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: 建立電子郵件分析報表，列出銷售線索——行銷人員檔案——產品檔案
 title: 建立列出銷售線索的電子郵件分析報表
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # 建立列出銷售線索的電子郵件分析報表{#build-an-email-analysis-report-that-lists-leads}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
