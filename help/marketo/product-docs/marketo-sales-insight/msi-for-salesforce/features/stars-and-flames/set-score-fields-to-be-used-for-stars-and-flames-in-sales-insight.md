@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: 設定分數欄位，以用於Sales Insight - Marketo Docs —— 產品檔案中的明星和火焰
 title: 設定Sales Insight中用於星光和火焰的分數欄位
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,8 @@ ht-degree: 0%
    >
    >重新計算銷售見解需要一些時間。 您稍後可以檢查您的CRM，看看明星和火焰。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >
    >[優先順序、緊急程度、相對分數和最佳賭注](priority-urgency-relative-score-and-best-bets.md)
