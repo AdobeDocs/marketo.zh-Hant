@@ -3,9 +3,9 @@ unique-page-id: 2360219
 description: 設定自訂DKIM簽名——行銷檔案——產品檔案
 title: 設定自訂DKIM簽名
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >
    >如果您以老式方式設定自訂DKIM簽名，該簽名會持續運作，而且應該會出現在這裡。
 
 1. 按一下&#x200B;**電子郵件**，然後按一下&#x200B;**DKIM**&#x200B;頁籤，最後按一下&#x200B;**添加域**。
@@ -37,7 +36,6 @@ ht-degree: 0%
 1. 輸入您在Marketo電子郵件中使用的網域作為寄件者位址，然後按一下「新增」。****
 
    >[!TIP]
-   >
    >
    >如果您在您的「寄件者位址」中使用不同的網域，我們會使用Market來共用DKIM簽名。
 
@@ -53,14 +51,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
    >如果確認失敗，而您的IT人員已正確建立記錄，則可能是DNS傳播的問題。 稍後再試。
 
    >[!CAUTION]
    >
-   >
    >修改／移除相應的DNS記錄將導致傳輸能力受損。 請務必先刪除Marketo中的項目，再進行DNS變更。
 
    這絕對有助於您提供電子郵件。 您應驗證記錄是否存在並正確無誤。
-
