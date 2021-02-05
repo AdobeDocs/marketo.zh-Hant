@@ -3,9 +3,9 @@ unique-page-id: 2360181
 description: 追蹤匿名活動與人員——行銷檔案——產品檔案
 title: 追蹤匿名活動與人員
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,8 @@ ht-degree: 0%
    >
    >當匿名記錄合併到新的或現有的人員記錄中時，自訂欄位值將&#x200B;**not**&#x200B;轉移。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >    
    >    
