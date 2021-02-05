@@ -3,9 +3,9 @@ unique-page-id: 4718672
 description: 使用收入模型轉場——行銷人員檔案——產品檔案
 title: 使用收入模型轉變
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -60,8 +60,6 @@ ht-degree: 0%
 
 幹得好！ 您已成功修改模型轉變。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[批准／取消批准收入模型](approve-unapprove-a-revenue-model.md)
