@@ -3,9 +3,9 @@ unique-page-id: 3571735
 description: 在Microsoft Dynamics 2011中安裝及設定Marketo Sales Insight —— 行銷人員檔案——產品檔案
 title: 在Microsoft Dynamics 2011中安裝及設定Marketo Sales Insight
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -158,9 +158,7 @@ Marketo Sales Insight是您銷售團隊的絕佳工具。 以下是如何在Micr
 
    恭喜。 您現在已釋放Marketon Sales Insight的力量。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[為銷售線索／聯繫人記錄設定星形和火焰](http://docs.marketo.com/x/BICMAg)
 
