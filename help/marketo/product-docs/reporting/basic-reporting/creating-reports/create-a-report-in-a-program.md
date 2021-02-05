@@ -3,9 +3,9 @@ unique-page-id: 2359963
 description: 在計畫——行銷檔案——產品檔案中建立報表
 title: 在方案中建立報表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,8 @@ ht-degree: 0%
    >
    >您最後可以很快得到許多報告。 請記得[刪除您不再需要的報表](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >
    >您可以[變更報告時間範圍](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)、[訂閱基本報告](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)、[將報告匯出至Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)、[以智慧清單](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)篩選報告中的人員，以及[更多](http://docs.marketo.com/display/docs/basic+reporting)。
