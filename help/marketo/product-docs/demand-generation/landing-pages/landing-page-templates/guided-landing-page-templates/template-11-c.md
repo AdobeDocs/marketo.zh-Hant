@@ -3,9 +3,9 @@ unique-page-id: 9437562
 description: 範本11-C —— 行銷檔案——產品檔案
 title: 範本11-C
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 模板11-C {#template-c}
 
-按一下右鍵[下載模板11-C](http://docs.marketo.com/download/attachments/9437562/template-11c.html?version=1&amp;modificationdate=1438211358000&amp;api=v2)
+[下載範本11-C](https://docs.marketo.com/download/attachments/9437562/template-11c.html?version=1&amp;modificationdate=1438211358000&amp;api=v2)
 
 ![](assets/image2015-8-4-14-3a3-3a44.png)
 
@@ -24,6 +24,6 @@ ht-degree: 0%
 * 四個主體部分（可選）
 * 具有表單的頁尾（可選）
 
-按一下下方的滑鼠右鍵以下載此範本：
+**按一下下方以下載此範本：**
 
-[Template11-C.html](http://docs.marketo.com/download/attachments/9437562/template-11c.html?version=1&amp;modificationdate=1438211358000&amp;api=v2)
+[Template11-C.html](https://docs.marketo.com/download/attachments/9437562/template-11c.html?version=1&amp;modificationdate=1438211358000&amp;api=v2)
