@@ -3,9 +3,9 @@ unique-page-id: 2950561
 description: 自訂事件的轉換指令碼——行銷人員檔案——產品檔案
 title: 自訂事件的轉換指令碼
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 檢索轉換指令碼{#retrieve-the-conversion-script}
 
-1. 在反向連結選件編輯器中，按一下「選件詳細資訊」，然後從履約目標下拉式清單中選擇「客戶JavaScript事件」。********
+1. 在反向連結選件編輯器中，按一下「選件詳細資訊」**，然後從履約目標下拉式清單中選取「客戶JavaScript事件」**。****
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
@@ -26,9 +26,6 @@ ht-degree: 0%
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
    >[!NOTE]
-   >
-   >**提醒**
-   >
    >
    >如果指令檔正在非Marketo網站上，請記得複製並貼上這兩個指令檔。
 
@@ -54,13 +51,13 @@ ht-degree: 0%
 
 `<pre><em><!-- Referral offer conversion script --></em> <script> cf_scripts.afterload(function (){ jQuery("#myButtonId").click(function (){ CF.insight.conversion(); }); }); </script></pre>` `<pre>`
 
-在此範例中，網頁上有一個ID為&quot;#myButtonId&quot;的按鈕。 按一下該按鈕後，會將該人員註冊為已完成目標。
+在此範例中，網頁上有一個ID為&quot;#myButtonId&quot;的按鈕。 按一下該按鈕時，會將該人員註冊為已完成目標。
 
 太棒了！ 您的網站現在正透過Marketo擷取自訂的社交促銷目標。
 
 >[!MORELIKETHIS]
 >
->* [指定反向連結選件的目標](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
->* [建立反向連結選件](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
->* [將Social部署在您的網站上](deploy-social-on-your-website.md)
+>* [指定反向連結選件的目標](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
+>* [建立反向連結選件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [將Social部署在您的網站上](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
