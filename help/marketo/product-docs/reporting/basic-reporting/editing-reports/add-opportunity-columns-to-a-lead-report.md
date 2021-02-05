@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: 將業務機會列添加到銷售機會報告——行銷人員文檔——產品文檔
 title: 將業務機會列添加到銷售線索報表
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >向右捲動以檢視更多欄。
 
-1. 要從報表[中添加或刪除列，請按一下任何列標題並選擇](select-report-columns.md)列&#x200B;**。**
+1. 要從報表](select-report-columns.md)中添加或刪除列，請按一下任何列標題並選擇&#x200B;**列**。[
 
    ![](assets/six.png)
 
@@ -66,9 +66,8 @@ ht-degree: 0%
    | 關閉天數 | 關閉機會的平均天數。 |
    | 銷售天數 | 銷售週期的平均長度(Days Entil Opportunity + Days to Close)。 |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >
    >瞭解如何[管理報表的大小](configure-report-size.md)。
