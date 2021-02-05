@@ -3,7 +3,7 @@ unique-page-id: 2359813
 description: 設定分享後提示——行銷檔案——產品檔案
 title: 配置共用後提示
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. 在社交應用程式編輯器中，前往「應用程式設定」*******，然後前往「進階選項」**。**
+1. 在社交應用程式編輯器中，前往「應用程式設定」****，然後前往「進階選項」**。**
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
@@ -57,4 +57,3 @@ ht-degree: 0%
 1. 編輯電子郵件地址的要求和行銷提示（如果您已包含）。
 
    ![](assets/image2015-4-21-12-3a52-3a49.png)
-
