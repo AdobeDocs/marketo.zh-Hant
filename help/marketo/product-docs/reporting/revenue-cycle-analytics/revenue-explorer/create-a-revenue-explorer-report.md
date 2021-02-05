@@ -3,9 +3,9 @@ unique-page-id: 7504047
 description: 建立收入總管報表——行銷檔案——產品檔案
 title: 建立收入總管報表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 「收入總管」報表可讓您追蹤行銷活動的投資報酬率。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
