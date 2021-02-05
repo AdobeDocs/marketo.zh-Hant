@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: 使用Adobe Experience Manager —— 行銷檔案——產品檔案匯入資產
 title: 使用Adobe Experience Manager匯入資產
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 「資產選擇器」可讓Marketon客戶存取、選擇AEM資產，並將其匯入Marketo的Design Studio。 **需要管理員權限**。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的客戶成功經理。
 
