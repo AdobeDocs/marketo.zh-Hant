@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: 瞭解行銷人員時刻——行銷人員檔案——產品檔案
 title: 瞭解行銷人員時刻
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketo的力量現在掌握在您手中！ 直接從您的手機或iPad預覽並重新排程電子郵件。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >必須擁有「存取行動應用程式」權限。 請連絡您的行銷人員管理員以[更新您的角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)。
 
