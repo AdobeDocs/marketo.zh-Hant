@@ -3,9 +3,9 @@ unique-page-id: 30082174
 description: MSC —— 行銷檔案——產品檔案中的有趣時刻
 title: MSC中的有趣時刻
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 透過Marketo Sales Connect與銷售團隊溝通的關鍵時刻，就是有趣的時刻。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >這些僅適用於[Marketo Sales Insight](http://docs.marketo.com/x/2Akt)和Marketo Sales Connect客戶。
 
