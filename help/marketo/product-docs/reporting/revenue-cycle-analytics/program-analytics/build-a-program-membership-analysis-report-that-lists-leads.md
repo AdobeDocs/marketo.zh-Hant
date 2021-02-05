@@ -3,9 +3,9 @@ unique-page-id: 2360405
 description: 建立列出銷售線索——行銷人員檔案——產品檔案的方案會籍分析報告
 title: 建立列出銷售線索的方案會員分析報表
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 請依照下列步驟建立方案會籍分析報表，以顯示所有方案會員名稱。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
