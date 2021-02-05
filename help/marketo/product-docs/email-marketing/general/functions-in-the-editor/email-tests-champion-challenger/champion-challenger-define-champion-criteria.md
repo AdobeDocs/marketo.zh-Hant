@@ -3,9 +3,9 @@ unique-page-id: 2359562
 description: 冠軍／挑戰者——定義冠軍標準——行銷文檔——產品文檔
 title: 冠軍／挑戰者——定義冠軍標準
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,8 @@ ht-degree: 0%
 
    太好了！ 現在是排程報表的時候了。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >    
    >    
