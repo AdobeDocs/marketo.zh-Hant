@@ -3,9 +3,9 @@ unique-page-id: 2359491
 description: 新增A/B測試——行銷檔案——產品檔案
 title: 新增A/B測試
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ ht-degree: 0%
    >
    >如果您的資料庫中有重複的記錄，這些記錄將同時收到&#x200B;**測試和成功電子郵件。**&#x200B;為防止這種情況發生，請確保在資料庫中[查找並合併重複的人員](http://docs.marketo.com/x/G4EI)。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用「主旨行」A/B測試](use-subject-line-a-b-testing.md)
 >* [使用「完整電子郵件」A/B測試](use-whole-email-a-b-testing.md)
