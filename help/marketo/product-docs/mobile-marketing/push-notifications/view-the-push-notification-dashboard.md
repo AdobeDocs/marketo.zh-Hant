@@ -3,9 +3,9 @@ unique-page-id: 10096523
 description: 檢視推播通知儀表板——行銷人員檔案——產品檔案
 title: 檢視推播通知控制面板
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,8 @@ ht-degree: 0%
    >
    >**Sent**&#x200B;量度反映的傳送次數可能比傳送推播通知給的確切人數多。 這是因為它是根據符合接收您推播的&#x200B;*裝置數*&#x200B;來計算。 例如，如果一個人有3個裝置，控制面板會註冊3個傳送，而非1個。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >    
    >    
