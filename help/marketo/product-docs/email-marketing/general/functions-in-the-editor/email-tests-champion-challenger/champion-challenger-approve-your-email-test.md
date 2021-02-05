@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: 冠軍／挑戰者——批准您的電子郵件測試——行銷人員檔案——產品檔案
 title: 冠軍／挑戰者——批准您的電子郵件測試
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,8 @@ ht-degree: 0%
 
    不是那麼容易嗎？ 一旦您收到一些報告，您就會想要宣佈冠軍。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >    
    >    
