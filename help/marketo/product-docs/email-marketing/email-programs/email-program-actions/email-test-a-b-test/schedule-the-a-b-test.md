@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: 排程A/B測試——行銷檔案——產品檔案
 title: 排程A/B測試
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,8 @@ ht-degree: 0%
 
    假設您已定義對象並選取電子郵件，則剩下的唯一步驟就是核准程式。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**相關文章**
    >
    >    
    >    
