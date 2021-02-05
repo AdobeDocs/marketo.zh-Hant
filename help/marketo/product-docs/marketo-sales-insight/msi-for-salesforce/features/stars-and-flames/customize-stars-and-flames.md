@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: 自訂明星與火焰——行銷檔案——產品檔案
 title: 自訂星光與火焰
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketo Sales Insight使用明星和火焰來優先列出銷售線索。 Marketo會自動決定誰能得到1-2-3顆星／火焰。 但是，您可以修改公式。 以下說明方法：
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
