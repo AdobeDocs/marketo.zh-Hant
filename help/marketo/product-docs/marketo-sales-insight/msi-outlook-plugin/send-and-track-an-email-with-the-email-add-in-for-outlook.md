@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: 使用Outlook電子郵件增益集——行銷人員檔案——產品檔案來傳送及追蹤電子郵件
 title: 使用Outlook的電子郵件增益集來傳送及追蹤電子郵件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 
 就是這麼簡單！ 即使此電子郵件是由銷售人員的Outlook傳送，仍會在Marketo中追蹤。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [在Marketo中記錄來自您銷售線索的入站郵件](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
 
