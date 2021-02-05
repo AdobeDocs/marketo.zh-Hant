@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: 將計畫有效性與計劃分析器——行銷人員文檔——產品文檔進行比較
 title: 比較方案分析器與方案有效性
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -90,9 +90,7 @@ ht-degree: 0%
 >
 >您可以快速比較一個頻道和另一個頻道的節目。 只需使用視窗頂端的&#x200B;**頻道篩選器**&#x200B;即可新增更多頻道。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用Program Analyzer瞭解計畫和渠道詳細資訊](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [比較渠道有效性與計劃分析器](compare-channel-effectiveness-with-the-program-analyzer.md)
