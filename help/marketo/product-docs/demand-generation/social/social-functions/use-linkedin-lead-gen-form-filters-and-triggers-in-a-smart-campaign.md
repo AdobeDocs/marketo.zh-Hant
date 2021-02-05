@@ -3,7 +3,7 @@ unique-page-id: 12976776
 description: 在智慧型促銷活動——行銷人員檔案——產品檔案中使用LinkedIn銷售機會開發表單篩選器和觸發器
 title: 在智慧型促銷活動中使用LinkedIn銷售機會開發表單篩選器和觸發器
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -26,4 +26,3 @@ ht-degree: 0%
 1. 添加約束以進一步限制結果。
 
    ![](assets/lead-gen-constraints.png)
-
