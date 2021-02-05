@@ -3,9 +3,9 @@ unique-page-id: 13795395
 description: 發行說明- 18年冬季——行銷檔案——產品檔案
 title: 發行說明- 18年冬季
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ Marketo運用我們的大資料架構來增加觸發促銷活動的吞吐量並�
 
 ## [行銷人員績效分析](../../product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >績效分析是一項附加產品。 如需報價，請連絡您的行銷人員客戶成功經理或客戶經理。
 
