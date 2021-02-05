@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: 比較渠道有效性與計劃分析器——行銷人員文檔——產品文檔
 title: 比較渠道有效性與計劃分析器
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,7 @@ ht-degree: 0%
 >
 >這些步驟中的範例會根據建立的管線來評估效能。 使用Y軸下拉式清單選擇其他衡量渠道成效的方式，例如新名稱、成員、每次成功的成本等。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [使用Program Analyzer瞭解計畫和渠道詳細資訊](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [比較方案分析器與方案有效性](compare-program-effectiveness-with-the-program-analyzer.md)
