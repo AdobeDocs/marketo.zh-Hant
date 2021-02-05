@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: 使用智慧型清單定義對象——行銷檔案——產品檔案
 title: 使用智慧型清單定義對象
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ ht-degree: 0%
 >
 >使用「對象」方塊上的![—](assets/image2014-10-23-16-3a32-3a36.png)按鈕，查看將收到電子郵件的人數。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [選擇現有電子郵件](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [建立電子郵件方案的電子郵件](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
