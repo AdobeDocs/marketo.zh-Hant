@@ -3,9 +3,9 @@ unique-page-id: 42762794
 description: 在Salesforce Classic —— 行銷檔案——產品檔案中使用大量動作
 title: 在Salesforce Classic中使用大量動作
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ ht-degree: 0%
 >
 >您也可以遵循相同的步驟，在「連絡人清單檢視」中使用大量動作。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >* [透過群組電子郵件傳送電子郵件](http://docs.marketo.com/x/KAQ6Ag)
 >* [使用選擇和傳送撰寫大量電子郵件](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
