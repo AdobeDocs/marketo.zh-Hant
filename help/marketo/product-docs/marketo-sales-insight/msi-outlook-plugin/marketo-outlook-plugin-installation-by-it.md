@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: IT人員安裝Marketo Outlook外掛程式- Marketo Docs —— 產品檔案
 title: IT部門安裝Marketo Outlook外掛程式
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ ht-degree: 0%
 
 如果您要嘗試不同的日誌記錄級別或用戶介面級別，請參閱[ Microsoft的交換機完整清單](https://support.microsoft.com/en-us/kb/227091)。
 
->[!NOTE]
->
->**相關文章**
+>[!MORELIKETHIS]
 >
 >[IT人員解除安裝Marketo Outlook外掛程式](marketo-outlook-plugin-uninstall-by-it.md)
 
