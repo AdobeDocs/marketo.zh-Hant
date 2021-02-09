@@ -3,9 +3,9 @@ unique-page-id: 2359520
 description: 使用「日期／時間」 A/B測試——行銷人員檔案——產品檔案
 title: 使用「日期／時間」 A/B測試
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,11 @@ ht-degree: 0%
 
 # 使用「日期／時間」 A/B測試{#use-date-time-a-b-testing}
 
-您可以輕鬆地A/B測試您的電子郵件。 一個測試是**日期／時間**測試。 這會測試在某天或某天傳送電子郵件的最佳時機。 這是如何設定的。
+您可以輕鬆地A/B測試您的電子郵件。 一個測試是&#x200B;**日期／時間**&#x200B;測試。 這會測試在某天或某天傳送電子郵件的最佳時機。 這是如何設定的。
 
 >[!PREREQUISITES]
 >
->* [新增A/B測試](add-an-a-b-test.md)
-
->
-
+>[新增A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 
 1. 在&#x200B;**Email**&#x200B;表徵圖下，按一下&#x200B;**添加A/B測試**。
@@ -57,16 +54,6 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >**建議您避免將樣本大小設為100%**。如果您使用靜態清單，將範例大小設為100%會傳送電子郵件給觀眾中的每個人，而得獎者則不會寄給任何人。 如果您使用&#x200B;**smart**&#x200B;清單，將範例大小設為100%會傳送電子郵件給當時的觀眾*。 *當電子郵件程式稍後再執行時，符合智慧型清單資格的新使用者也會收到電子郵件，因為他們現在已加入觀眾。
+   >**建議您避免將樣本大小設為100%**。如果您使用靜態清單，將範例大小設為100%會傳送電子郵件給觀眾中的每個人，而得獎者則不會寄給任何人。 如果您使用&#x200B;**smart**&#x200B;清單，將範例大小設為100%會傳送電子郵件給當時&#x200B;_的觀眾中的每個人。_&#x200B;當電子郵件程式在稍後再執行時，符合智慧型清單資格的新使用者也會收到電子郵件，因為他們現在已加入觀眾。
 
-   [定義A/B測試成功者標準](define-the-a-b-test-winner-criteria.md)
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [定義A/B測試成功者標準](define-the-a-b-test-winner-criteria.md)
-
-
-好了，我們離這一步更近了。 現在我們需要。
+   好了，我們離這一步更近了。 現在，我們需要[定義A/B測試成功者標準](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)。
