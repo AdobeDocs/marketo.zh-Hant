@@ -3,9 +3,9 @@ unique-page-id: 10098691
 description: 移動電子郵件——行銷人員至檔案——產品檔案
 title: 移動電子郵件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -40,4 +40,3 @@ ht-degree: 0%
    ![](assets/leadperformance2.jpg)
 
    真狡猾！
-
