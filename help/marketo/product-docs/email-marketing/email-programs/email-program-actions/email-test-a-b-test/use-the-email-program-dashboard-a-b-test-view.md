@@ -3,9 +3,9 @@ unique-page-id: 2359549
 description: 使用電子郵件計畫儀表板- A/B測試檢視——行銷人員檔案——產品檔案
 title: 使用電子郵件計畫儀表板- A/B測試視圖
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用Email Program Dashboard - A/B測試視圖{#use-the-email-program-dashboard-a-b-test-view}
 
-查看您的[電子郵件程式A/B test](http://docs.marketo.com/pages/viewpage.action?pageid=2359480)如何使用此儀表板執行。
+查看您的[電子郵件程式A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)如何使用此儀表板執行。
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -45,9 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用電子郵件計畫儀表板](../../../../../product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
-
->
-
-
-
+>[使用電子郵件計畫儀表板](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
