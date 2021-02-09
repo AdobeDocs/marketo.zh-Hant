@@ -3,9 +3,9 @@ unique-page-id: 12982903
 description: 排程電子郵件計畫及收件者時區——行銷人員檔案——產品檔案
 title: 計畫包含收件者時區的電子郵件程式
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -37,15 +37,12 @@ ht-degree: 0%
 >* **在收件者的時區提供下一天**:如果電子郵件排程在星期二上午9:00外出，則居住在已排程時間經過的時區的合格人員將於週三上午9:00收到 ** 電子郵件。
    >
    >
-* **使用程式的預設設定時間提供**:如果電子郵件排程在星期二上午9:00外出，則居住在已排程時間經過的時區的合格人員，會根據您的訂閱時區設定 *收到電子郵件*。因此，如果您的[s](../../../../../product-docs/administration/settings/select-your-language-locale-and-time-zone.md)[訂閱時區設定](../../../../../product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)設定為PDT America/Los Angeles，這些收件者仍會在星期二上午9:00（無論其所在時區的時間為何）收到電子郵件。
-
->
-
+* **使用程式的預設設定時間提供**:如果電子郵件排程在星期二上午9:00外出，則居住在已排程時間經過的時區的合格人員，會根據您的訂閱時區設定 _收到電子郵件_。因此，如果您的[訂閱時區設定](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)設定設為PDT America/Los Angeles，這些收件者仍會在星期二上午9:00（無論其所在時區的時間為何）收到電子郵件。
 
 
 >[!NOTE]
 >
->[進一](https://docs.marketo.com/display/DOCS/Understanding+Recipient+Time+Zone#UnderstandingRecipientTimeZone-CalculatingTimeZone) 步瞭解Marketo如何為收件者計算時區。
+>[進一](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) 步瞭解Marketo如何為收件者計算時區。
 
 讓我們更詳細地考慮這種情況。 假設您在舊金山，請在早上7:00排程電子郵件，以接收&#x200B;**9:00am**&#x200B;傳送。 在您的智慧清單中，有來自下列地區的人員：
 
@@ -68,15 +65,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->雖然程式會在15分鐘內開始傳送電子郵件的&#x200B;*程式*，但當時不會傳送&#x200B;*電子郵件。*&#x200B;收件者仍會收到您選擇的&#x200B;**時區設定**&#x200B;電子郵件。
+>雖然程式會在15分鐘內開始傳送電子郵件的&#x200B;_程式_，但當時不會傳送&#x200B;_電子郵件。_&#x200B;收件者仍會收到您選擇的&#x200B;**時區設定**&#x200B;電子郵件。
 
 ## 方案2:超過25小時{#scenario-more-than-hours}
 
 在第二種情況中，您核准啟用&#x200B;**收件者時區**&#x200B;且排程的傳送時間超過25小時的電子郵件程式。 在這種情況下，程式將在世界上最早&#x200B;**的**&#x200B;時區(UTC + 14:00)的預定時間開始運行。 全球每個時區都有符合您智慧型清單資格的人員，因此從最早的時區開始，我們可以在排程的日期／時間將電子郵件傳送給其各自時區的所有收件者。
 
-開始前行
+**開始前行**
 
-現在，讓我們討論[Head Start](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)如何與&#x200B;**Recipient Time Zone**&#x200B;搭配使用。 我們現有的Head Start功能要求計畫至少提前12小時完成。 那麼，這對收件者時區意味著什麼？ 請記住，啟用「收件者時區」後，我們會在最早時區(UTC +14:00)的排程時間開始執行電子郵件程式。 因此，要啟用&#x200B;**兩個**&#x200B;頭開始時區和接收者時區，電子郵件程式必須至少提前12小時（以UTC +14:00表示）計畫。****
+現在，讓我們討論[Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)如何與&#x200B;**Recipient Time Zone**&#x200B;搭配使用。 我們現有的Head Start功能要求計畫至少提前12小時完成。 那麼，這對收件者時區意味著什麼？ 請記住，啟用「收件者時區」後，我們會在最早時區(UTC +14:00)的排程時間開始執行電子郵件程式。 因此，要啟用&#x200B;**兩個**&#x200B;頭開始時區和接收者時區，電子郵件程式必須至少提前12小時（以UTC +14:00表示）計畫。****
 
 這表示如果您在美國／洛杉磯，並想要同時啟用「開始前」和「接收者時區」，則需要事先安排計畫&#x200B;**34小時**。 我們怎麼得到這個號碼的？
 
@@ -86,8 +83,8 @@ ht-degree: 0%
 
 簡而言之，使用「收件者時區」排程的電子郵件程式必須在排程的時間開始在最早的時區（亦即最早到達午夜的時區）執行，以便適應每個時區。 所以，如果您排程電子郵件程式……
 
-* **在25小時內 *傳* 送時間**，程式將在15分鐘內開始執行。已超過排程時間的收件者，將會根據您選擇的時區設定收到電子郵件。
-* **未來的發 ** *送時* 間超過25小時**，程式會在最早時區(UTC +14:00)的排程時間開始執行。
+* **在25小時內 _傳_ 送時間**，程式將在15分鐘內開始執行。已超過排程時間的收件者，將會根據您選擇的時區設定收到電子郵件。
+* **未來的發 _送時_ 間超過25小時**，程式會在最早時區(UTC +14:00)的排程時間開始執行。
 * **使用Head Start**，該程式在最早時區的預定時間前12小時開始處理(UTC +14:00)。
 
 >[!CAUTION]
@@ -96,11 +93,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [瞭解收件者時區](understanding-recipient-time-zone.md)
->* [電子郵件計畫快速入門](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
->* [中止傳送以收件者時區排程的電子郵件程式](abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
-
->
-
-
+>* [瞭解收件者時區](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [電子郵件計畫快速入門](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [中止傳送以收件者時區排程的電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
 
