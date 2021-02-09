@@ -3,9 +3,9 @@ unique-page-id: 12983291
 description: 瞭解收件者時區——行銷檔案——產品檔案
 title: 瞭解收件者時區
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 電子郵件程式{#email-programs}
 
-當[計畫電子郵件程式](schedule-email-programs-with-recipient-time-zone.md)時，有兩種主要方案：
+當[計畫電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)時，有兩種主要方案：
 
 1. 計畫在25小時內運行程式。
 1. 計畫在未來（即下週）運行25小時以上。
@@ -30,13 +30,13 @@ ht-degree: 0%
 
 ## 參與計畫{#engagement-programs}
 
-當您[排程參與程式串流](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)且「收件者時區」處於活動狀態時，程式轉播將在UTC +14:00的午夜開始執行。 我們要求您在未來至少安排25小時（24小時+開始促銷活動的時間）進行首次演出，因為人們可能符合全球每個時區的演出資格。 目前以UTC +14:00開始處理，保證我們會在排程的日期和時間傳送電子郵件給符合此類廣播資格的每個人。
+當您[排程參與程式串流](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)且「收件者時區」處於活動狀態時，程式轉播將在UTC +14:00的午夜開始執行。 我們要求您在未來至少安排25小時（24小時+開始促銷活動的時間）進行首次演出，因為人們可能符合全球每個時區的演出資格。 目前以UTC +14:00開始處理，保證我們會在排程的日期和時間傳送電子郵件給符合此類廣播資格的每個人。
 
 ## 計算時區{#calculating-time-zone}
 
 Marketo會根據人員的「城市」、「州」、「國家」或「郵遞區號」來計算時區。 如果我們無法根據這些值計算某人的時區，我們會回復到「推斷的城市」、「推斷的州」、「推斷的國家」和「推斷的郵遞區號」欄位。
 
-如果我們只有***國家／地區或&#x200B;****&#x200B;國家／地區可供使用：
+如果我們只有&#x200B;****&#x200B;國家或&#x200B;****&#x200B;國家／地區，則：
 
 * 對於三個或三個以下時區的國家，我們選擇中間時區。
 * 對於兩個時區的州，我們選擇兩個時區中較早的。
@@ -49,14 +49,10 @@ Marketo會根據人員的「城市」、「州」、「國家」或「郵遞區�
 
 >[!MORELIKETHIS]
 >
->* [計畫包含收件者時區的電子郵件程式](schedule-email-programs-with-recipient-time-zone.md)
->* [電子郵件計畫快速入門](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [計畫包含收件者時區的電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [電子郵件計畫快速入門](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 
    >
    >
-* [與收件者時區排程參與計畫](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
-
->
-
-
+* [與收件者時區排程參與計畫](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
 
