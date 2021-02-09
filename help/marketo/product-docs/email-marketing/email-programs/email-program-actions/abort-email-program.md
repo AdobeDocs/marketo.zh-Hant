@@ -3,9 +3,9 @@ unique-page-id: 7504840
 description: 中止電子郵件計畫——行銷人員檔案——產品檔案
 title: 中止電子郵件程式
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/dashboardleads.jpg)
 
-1. 按一下「中止**」以取得完整確認。
+1. 按一下&#x200B;**中止**&#x200B;以獲得完整確認。
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 
