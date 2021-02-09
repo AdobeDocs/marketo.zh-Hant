@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: 排程A/B測試——行銷檔案——產品檔案
 title: 排程A/B測試
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [新增A/B測試](add-an-a-b-test.md)
-
->
-
-
+>[新增A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 >[!NOTE]
 >
 >對於日期／時間測試，您只需在收到測試結果摘要時進行設定。
 
-1. 選取「傳送測試日期」。
+1. 選擇&#x200B;**傳送測試**&#x200B;日期。
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
@@ -43,9 +39,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >只有測試群組會收到測試變數。
 
    ![](assets/image2014-9-12-16-3a0-3a12.png)
@@ -55,6 +48,7 @@ ht-degree: 0%
    >如果您選擇手動宣告成功者，您將定義&#x200B;**報表傳送**&#x200B;日期／時間，而非&#x200B;**完成郵寄**&#x200B;日期／時間。
 
    超級！ 您已完成，只要檢閱摘要，然後按一下「關閉」即可。
+
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
    您會注意到&#x200B;**Schedule**&#x200B;圖格現在已更新。
@@ -69,9 +63,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [批准／取消批准電子郵件方案](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
-
-
+   >[批准／取消批准電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
