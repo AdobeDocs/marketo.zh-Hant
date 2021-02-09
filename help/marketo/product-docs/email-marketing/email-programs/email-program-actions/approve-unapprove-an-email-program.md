@@ -3,9 +3,9 @@ unique-page-id: 2359462
 description: 核准／取消核准電子郵件方案——行銷人員檔案——產品檔案
 title: 批准／取消批准電子郵件方案
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,18 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立電子郵件方案](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [透過匯入清單來定](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 義對象， [以智慧型清單定義對象](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [建立電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [使用智慧型存取者定](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 義對 [像匯入清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [選擇現有電](choose-an-existing-email.md) 子郵 [件或建立電子郵件方案](create-an-email-for-an-email-program.md)
+* [選擇現有電](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 子郵 [件或建立電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
    >
    >
-* [排程您的電子郵件方案](schedule-your-email-program.md)
-
->
-
+* [排程您的電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
 
 ## 批准您的電子郵件程式{#approve-your-email-program}
