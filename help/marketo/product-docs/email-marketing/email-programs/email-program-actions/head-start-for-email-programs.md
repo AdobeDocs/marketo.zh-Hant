@@ -3,9 +3,9 @@ unique-page-id: 10097202
 description: 電子郵件計畫快速入門——行銷檔案——產品檔案
 title: 電子郵件計畫快速入門
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立電子郵件方案](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-
->
-
-
+>[建立電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 當您選擇電子郵件程式的日期／時間時，會決定程式何時開始處理。 如果您希望電子郵件在選定時間啟動，Head Start會提前處理程式，為您提供此選項。
 
@@ -74,15 +70,11 @@ ht-degree: 0%
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[進一](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) 步瞭解如何使用收件者時區排程電子郵件方案。
+[進一](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) 步瞭解如何使用收件者時區排程電子郵件方案。
 
 >[!MORELIKETHIS]
 >
->* [排程您的電子郵件方案](schedule-your-email-program.md)
->* [計畫包含收件者時區的電子郵件程式](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [瞭解收件者時區](scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
-
->
-
-
+>* [排程您的電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [計畫包含收件者時區的電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [瞭解收件者時區](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 
