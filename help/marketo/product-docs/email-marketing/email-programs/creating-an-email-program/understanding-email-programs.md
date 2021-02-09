@@ -3,9 +3,9 @@ unique-page-id: 2953572
 description: 瞭解電子郵件方案——行銷人員檔案——產品檔案
 title: 瞭解電子郵件方案
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,10 @@ A/B測試可讓您證明哪些電子郵件最好。
 
 瞭解下列A/B測試：
 
-* [「主旨行」A/B測試](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
-* [「完整電子郵件」A/B測試](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
-* [「寄件者地址」A/B測試](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
-* [「日期／時間」 A/B測試](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
+* [「主旨行」A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
+* [「完整電子郵件」A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+* [「寄件者地址」A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+* [「日期／時間」 A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
 
 ![](assets/abtesthighlight.png)
 
@@ -40,7 +40,9 @@ A/B測試可讓您證明哪些電子郵件最好。
 >
 >有些人偏好使用電子郵件程式，而非透過智慧型促銷活動傳送電子郵件，因為程式的詳細報告資料板。
 
-享受你的勞動成果。 儀表板顯示電子郵件程式和A/B測試效能一覽。   ![](assets/image2015-4-27-11-3a38-3a41.png)
+享受你的勞動成果。 儀表板顯示電子郵件程式和A/B測試效能一覽。
+
+![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
 
@@ -62,7 +64,7 @@ A/B測試可讓您證明哪些電子郵件最好。
 
 >[!NOTE]
 >
->電子郵件程式不能嵌套在[參與程式](../../../../getting-started/quick-wins/drip-drip-nurture.md)中。 也無法重新傳送，一次只能執行一次測試。
+>電子郵件程式不能嵌套在[參與程式](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)中。 也無法重新傳送，一次只能執行一次測試。
 
 ## 排程設定{#schedule-settings}
 
@@ -70,14 +72,10 @@ A/B測試可讓您證明哪些電子郵件最好。
 
 >[!MORELIKETHIS]
 >
->* [建立電子郵件方案](create-an-email-program.md)
+>* [建立電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
    >
    >
-* [使用智慧型清單定義對象](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [建立電子郵件方案的電子郵件](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->* [排程您的電子郵件方案](../../../../product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
-
->
-
-
+* [使用智慧型清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [建立電子郵件方案的電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [排程您的電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
