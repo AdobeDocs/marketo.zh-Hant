@@ -3,7 +3,7 @@ unique-page-id: 14352406
 description: 建立子團隊——行銷檔案——產品檔案
 title: 建立子團隊
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -56,4 +56,3 @@ ht-degree: 0%
 1. 完成時，按一下「新增至團隊」。****
 
    ![](assets/nine.png)
-
