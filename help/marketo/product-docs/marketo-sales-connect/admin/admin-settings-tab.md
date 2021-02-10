@@ -3,9 +3,9 @@ unique-page-id: 14352404
 description: 管理設定標籤——行銷人員檔案——產品檔案
 title: 管理員設定標籤
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 如果您選取「覆寫我團隊的所有Salesforce同步設定」核取方塊，您會看到選項：僅允許透過BCC或僅透過API進行記錄。****
 
-如果選擇&#x200B;**API日誌**，則為Opportunity、Lead、Contacts `will be set for the entire team after you click **Save Changes**.`選擇的所有設定
+如果選擇&#x200B;**API日誌**，則在按一下&#x200B;**保存更改**&#x200B;後，將為整個團隊設定為Opportunity、Lead、Contact的所有設定。
 
 從這裡，您還可以在團隊間成批啟用Opportunity和Task Sync。
 
@@ -25,12 +25,14 @@ ht-degree: 0%
 >
 >大量啟用這些設定會在您團隊的Salesforce設定中使用大量的API呼叫。
 
-1 —— 啟用「設定我的團隊的設定」
+1. 啟用「設定我團隊的設定」。
 
-2 —— 啟用全團隊同步設定
+1. 啟用全團隊同步設定。
 
-3 —— 配置您希望電子郵件活動和最新MSE活動記錄到SFDC的方式
+1. 配置您希望將電子郵件活動和最新的MSE活動記錄到SFDC的方式。
 
-4 —— 啟用「同步銷售連接任務」是可選的
+1. 啟用「同步銷售連接任務」是可選的。
 
-(附註：MSE允許您在SFDC不跳過任務時跳過任務——因此您必須決定SFDC如何處理跳過的任務)
+>[!NOTE]
+>
+>MSC允許您在SFDC不跳過任務時跳過任務，因此您必須決定SFDC如何處理該跳過的任務。
