@@ -3,9 +3,9 @@ unique-page-id: 17727995
 description: 電子郵件CC —— 行銷人員檔案——產品檔案
 title: 電子郵件CC
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Email CC可讓透過Marketing傳送的指定電子郵件包含CC收件者。
 
-不論電子郵件的傳送方式（批次或觸發促銷活動）為何，所有Marketo電子郵件資產都可使用此功能。 CC收件者將會收到傳送給所選行銷人員之電子郵件的完整副本。 因此，任何參與活動（開啟、點按等） 將記錄至電子郵件「收件人」行中Marketo Person的活動記錄。 但是，傳送活動（傳送、傳送、硬彈回數等） *除了「軟反彈」* 以 **** 外，Marketo將不會註冊，因為Marketo無法區分Marketo Person和CC收件者的傳送事件。Marketo一次只會有10萬名用戶。 如果您的智慧型清單超過10萬份，而且每個人都必須獲得CC&#39;d，建議您將清單分開。
+不論電子郵件的傳送方式（批次或觸發促銷活動）為何，所有Marketo電子郵件資產都可使用此功能。 CC收件者將會收到傳送給所選行銷人員之電子郵件的完整副本。 因此，任何參與活動（開啟、點按等） 將記錄至電子郵件「收件人」行中Marketo Person的活動記錄。 但是，傳送活動（傳送、傳送、硬彈回數等） _除了「軟反彈」_ 以 **** 外，Marketo將不會註冊，因為Marketo無法區分Marketo Person和CC收件者的傳送事件。Marketo一次只會有10萬名用戶。 如果您的智慧型清單超過10萬份，而且每個人都必須獲得CC&#39;d，建議您將清單分開。
 
 >[!NOTE]
 >
@@ -57,10 +57,11 @@ Email CC可讓透過Marketing傳送的指定電子郵件包含CC收件者。
 
    >[!NOTE]
    >
-   >
    >如果CC欄位中有無效的電子郵件地址，則會略過該電子郵件地址。
 
-   為快速識別，「電子郵件摘要」檢視會顯示是否已選取「電子郵件CC」欄位。 ![](assets/eight.png)
+   為快速識別，「電子郵件摘要」檢視會顯示是否已選取「電子郵件CC」欄位。
+
+   ![](assets/eight.png)
 
    如果電子郵件已獲核准，但行銷人員管理員會在電子郵件傳送前停用一或多個CC欄位，則&#x200B;**這些人將不會收到電子郵件**。 在此情況下，「電子郵件摘要」檢視會將核准後但預先傳送的已停用欄位灰色化：
 
@@ -76,9 +77,8 @@ Email CC可讓透過Marketing傳送的指定電子郵件包含CC收件者。
 
 >[!TIP]
 >
->您可以在電子郵件中選擇[停用部分或全部追蹤連結](http://docs.marketo.com/x/IwAd)。
+>您可以在電子郵件中選擇[停用部分或全部追蹤連結](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)。
 
 * 執行電子郵件促銷活動後，「傳送電子郵件」活動將包含每個電子郵件收件者所包含之所有CC位址的清單。 如果因取消訂閱而略過任何CC位址，也會在活動中注明。
 * 取消訂閱連結和頁面在電子郵件中正常運作。 這可讓CC收件者在需要時成功取消訂閱（符合反垃圾訊息規定），此動作的記錄會儲存在Marketo資料庫中。
 * 在您的Marketo資料庫中列為未訂閱者的人，將&#x200B;**not**&#x200B;透過CC收到電子郵件。
-
