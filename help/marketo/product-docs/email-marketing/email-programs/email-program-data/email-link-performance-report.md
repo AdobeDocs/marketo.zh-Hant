@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: 電子郵件連結效能報告——行銷人員檔案——產品檔案
 title: 電子郵件連結效能報告
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 建立「電子郵件連結效能」報表，以查看您電子郵件中的連結效能。
 
-1. [在程式中建立報表，](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 並選取「 **電子郵件連** 結效能」作為報表類型。
+1. [在程式中建立報表，](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 並選取「 **電子郵件連** 結效能」作為報表類型。
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. 為報表設定適當的時間範圍。 按一下**儲存。 **
+1. 為報表設定適當的時間範圍。 按一下&#x200B;**保存**。
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[「電](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 子郵件連結效能」報表的可用欄包括：
+[「電](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 子郵件連結效能」報表的可用欄包括：
 
 <table> 
  <thead> 
@@ -74,20 +74,10 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您想確切知道個人的行為，可以從程式的「成員」頁籤開啟[「人員詳細資訊」](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)中的「活動日誌」頁。[](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)
+>如果您想確切知道個人的行為，可以從程式的「成員」頁籤開啟[「人員詳細資訊」](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)中的「活動日誌」頁。[](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)
 
 >[!MORELIKETHIS]
 >
->* [電子郵件績效報告](email-performance-report.md)
->* [篩選電子郵件報表中的資產](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
-
->
-
-
-
->[!NOTE]
->
->**深入探討**
->
->進一步瞭解[基本報告](http://docs.marketo.com/display/docs/basic+reporting)。
+>* [電子郵件績效報告](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+>* [篩選電子郵件報表中的資產](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
 
