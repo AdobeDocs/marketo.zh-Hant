@@ -3,7 +3,7 @@ unique-page-id: 1147342
 description: 核准電子郵件——行銷人員檔案——產品檔案
 title: 核准電子郵件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -19,8 +19,7 @@ ht-degree: 0%
 
 1. 尋找並選取您的電子郵件，按一下「電子郵件動作」下拉式清單，然後選取「核准」。********
 
-   ` ![](assets/one.png)  
-`
+   ![](assets/one.png)
 
 ## 直接在樹{#approve-it-directly-in-the-tree}中批准
 
