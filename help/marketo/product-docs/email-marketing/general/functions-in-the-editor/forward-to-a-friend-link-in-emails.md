@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: 轉寄至電子郵件中的朋友連結——行銷人員檔案——產品檔案
 title: 轉寄至電子郵件中的朋友連結
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
@@ -50,11 +50,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
    >請記得核准範本草稿以套用變更。
 
    現在，所有使用該範本的電子郵件都會有「轉寄給朋友」連結。 當電子郵件收件者按一下電子郵件時，他們會被帶到網路版的電子郵件，並顯示「轉送給朋友」方塊：
+
    ![](assets/f2afbox.png)
 
 ## 將連結新增至個別電子郵件{#add-the-link-to-an-individual-email}
@@ -85,7 +84,7 @@ ht-degree: 0%
 
    ![](assets/eight-1.png)
 
-1. 使用Ctrl/Cmd+V將&#x200B;**`{{system.forwardToFriendLink}}`** Token貼入&#x200B;**URL**&#x200B;方塊，然後按一下**插入**。
+1. 使用Ctrl/Cmd+V將&#x200B;**`{{system.forwardToFriendLink}}`** Token貼入&#x200B;**URL**&#x200B;方塊，然後按一下「插入」。****
 
    ![](assets/nine.png)
 
@@ -117,15 +116,13 @@ ht-degree: 0%
    >
    >**定義**
    >
-   >
    >對於「已轉寄給朋友的電子郵件」，人員ID是轉寄電子郵件的人員。
-   >
    >
    >對於「轉寄給朋友的電子郵件」，人員ID是收到電子郵件的人。
 
    ![](assets/sixteen.png)
 
-1. 若要依ID檢視人員，請將**人員ID**複製並貼至URL的結尾（此URL的開頭將視您的Marketo例項而定）:
+1. 若要依ID檢視人員，請將&#x200B;**人員ID**&#x200B;複製並貼至URL結尾（此URL的開頭將視您的Marketo例項而定）:
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
@@ -137,7 +134,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果接收前轉的朋友是未知的人，則會建立「前轉給朋友」的新人，其標示為該人的&#x200B;**來源**。\
+   >如果接收前轉的朋友是未知的人，則會建立「前轉給朋友」的新人，其標示為該人的&#x200B;**來源**。
    >如果電子郵件是程式的本機資產，程式會標示為該人員的&#x200B;**贏取程式**。
 
 ## 使用轉發活動{#trigger-or-filter-using-forwarding-activity}觸發或篩選
