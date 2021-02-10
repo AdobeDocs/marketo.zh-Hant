@@ -3,7 +3,7 @@ unique-page-id: 1900548
 description: 使用動態內容預覽電子郵件——行銷檔案——產品檔案
 title: 使用動態內容預覽電子郵件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -19,7 +19,8 @@ ht-degree: 0%
 
    ![](assets/one-3.png)
 
-   按一下「檢視方式」下拉式清單，並選取您要預覽的動態內容類型。
+1. 按一下「檢視方式」下拉式清單，並選取您要預覽的動態內容類型。
+
    ![](assets/two-3.png)
 
 1. 隨即出現新的下拉式清單。 按一下它，然後選擇特定內容。
