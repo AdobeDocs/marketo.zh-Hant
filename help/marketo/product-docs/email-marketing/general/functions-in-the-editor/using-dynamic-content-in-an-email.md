@@ -3,7 +3,7 @@ unique-page-id: 2950617
 description: 在電子郵件中使用動態內容——行銷檔案——產品檔案
 title: 在電子郵件中使用動態內容
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立區段](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
-
->
-
-
+>[建立區段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 使用電子郵件中的動態內容傳送潛在客戶的目標資訊。
 
@@ -39,9 +35,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您也可以讓電子郵件內的元素變為動態。 若要這麼做，請選取區域，按一下齒輪圖示，然後選取「建立動態」(**Make Dynamic)**（或[Replace with Snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)，視您所執行的動作而定）。
+   >您也可以讓電子郵件內的元素變為動態。 若要這麼做，請選取區域，按一下齒輪圖示，然後選取「建立動態」(**Make Dynamic)**（或[Replace with Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)，視您所執行的動作而定）。
 
-   輸入區段名稱，選取它，然後按一下儲存。
+1. 輸入分段名稱，選擇它，然後按一下&#x200B;**保存**。
 
    ![](assets/1.4.png)
 
@@ -75,10 +71,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用動態內容預覽電子郵件](preview-an-email-with-dynamic-content.md)
->* [在著陸頁面中使用動態內容](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
-
->
-
-
+>* [使用動態內容預覽電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
+>* [在著陸頁面中使用動態內容](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
 
