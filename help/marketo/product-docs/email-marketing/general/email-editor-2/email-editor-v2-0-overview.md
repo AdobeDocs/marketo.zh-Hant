@@ -3,9 +3,9 @@ unique-page-id: 11372299
 description: 電子郵件編輯器2.0版概觀——行銷檔案——產品檔案
 title: 電子郵件編輯器v2.0概觀
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 **電子郵件範本選擇器**
 
-當您建立新電子郵件時，會前往[電子郵件範本選擇器](email-template-picker-overview.md)。
+當您建立新電子郵件時，會前往[電子郵件範本選擇器](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)。
 
 ![](assets/starter-templates-1.png)
 
@@ -29,19 +29,19 @@ ht-degree: 0%
 
 **模組**
 
-在編輯器右邊的那些東西稱為模組。 瞭解如何將[模組新增至您的電子郵件](add-modules-to-your-email.md)。
+在編輯器右邊的那些東西稱為模組。 瞭解如何將[模組新增至您的電子郵件](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)。
 
 ![](assets/three-4.png)
 
 **文字版本**
 
-現在，在您電子郵件的HTML版本和文字版本之間切換，在底部是方便的標籤。 瞭解如何[編輯電子郵件的文字版本](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)。
+現在，在您電子郵件的HTML版本和文字版本之間切換，在底部是方便的標籤。 瞭解如何[編輯電子郵件的文字版本](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)。
 
 ![](assets/four-3.png)
 
 **電子郵件標題**
 
-想要更多設計空間嗎？ 在您完成[編輯後，電子郵件標題可以隱藏。 ](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)只要按一下此圖示……
+想要更多設計空間嗎？ 在您完成[編輯後，電子郵件標題可以隱藏。 ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)只要按一下此圖示……
 
 ![](assets/five-4.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ...但您也可以看到它在行動裝置上的外觀。 您也可以預覽文字版本！ 只要按一下右上角的「編輯草稿&#x200B;**」，即可繼續編輯。**
 
-[![](assets/preview3.png)](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
+![](assets/preview3.png)
 
 **電子郵件動作**
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->** [從Web擷取影像](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**的運作方式與Design Studio的相同。
+>**[從](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** Webworks擷取影像，就像在Design Studio中一樣。
 
 **停用「電子** 郵件設 **定」下的「開啟追蹤**」，您可以視需要停用開啟追蹤。
 
@@ -103,15 +103,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深入探討**
->
 >如果您想要深入探討，請查看此[實用視訊](https://nation.marketo.com/videos/1463)。
 
 >[!MORELIKETHIS]
 >
->* [電子郵件範本語法](email-template-syntax.md)
-
->
-
-
-
+>[電子郵件範本語法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
