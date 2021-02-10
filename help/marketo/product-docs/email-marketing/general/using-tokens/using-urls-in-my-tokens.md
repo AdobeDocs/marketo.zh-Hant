@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: 使用我的代號——行銷檔案——產品檔案中的URL
 title: 在我的Token中使用URL
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -72,4 +72,3 @@ ht-degree: 0%
    ![](assets/twelve.png)
 
    你完了！ 您的URL會在傳送後填入，而且由於您將http://置於Token前面，所以會產生可追蹤的連結。
-
