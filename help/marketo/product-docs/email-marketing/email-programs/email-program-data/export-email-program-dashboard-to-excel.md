@@ -3,9 +3,9 @@ unique-page-id: 2359598
 description: 將電子郵件程式儀表板匯出至Excel —— 行銷人員檔案——產品檔案
 title: 將電子郵件程式儀表板匯出至Excel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >如果您的電子郵件程式尚未開始，您將看不到控制面板，因為沒有資料可查看。
 
 1. 只要按一下Excel圖示，您的匯出就會開始。
@@ -35,10 +32,3 @@ ht-degree: 0%
    ![](assets/lifecycle.jpg)
 
    很簡單，對吧？
-
->[!NOTE]
->
->**深入探討**
->
->想進一步瞭解[電子郵件程式](http://docs.marketo.com/display/docs/email+programs)嗎？
-
