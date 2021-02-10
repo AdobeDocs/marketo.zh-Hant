@@ -3,9 +3,9 @@ unique-page-id: 2951167
 description: 檢視電子郵件方案結果——行銷人員檔案——產品檔案
 title: 檢視電子郵件方案結果
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -38,10 +38,3 @@ ht-degree: 0%
    給你！
 
    ![](assets/image2014-9-22-11-3a15-3a49.png)
-
->[!NOTE]
->
->**深入探討**
->
->想進一步瞭解[電子郵件程式](http://docs.marketo.com/display/docs/email+program+actions)嗎？
-
