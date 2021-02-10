@@ -3,7 +3,7 @@ unique-page-id: 2359584
 description: 冠軍／挑戰者——宣告冠軍——行銷檔案——產品檔案
 title: 冠軍／挑戰者——宣佈冠軍
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -17,8 +17,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [冠軍／挑戰者：核准您的電子郵件測試](champion-challenger-approve-your-email-test.md)
-
+>[冠軍／挑戰者：核准您的電子郵件測試](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
 1. 前往&#x200B;**行銷活動**。
 
@@ -44,7 +43,7 @@ ht-degree: 0%
    >
    >請注意，預設的&#x200B;**Declare Date**&#x200B;是明天，而非今天。
 
-   選擇時間並按一下&#x200B;**保存**。
+1. 選擇時間並按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 
