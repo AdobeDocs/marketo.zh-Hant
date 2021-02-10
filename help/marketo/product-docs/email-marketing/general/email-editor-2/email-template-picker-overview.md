@@ -3,9 +3,9 @@ unique-page-id: 10912237
 description: 電子郵件範本選擇器概觀——行銷人員檔案——產品檔案
 title: 電子郵件範本選擇器概述
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 電子郵件範本選擇器概述{#email-template-picker-overview}
 
-當您[建立電子郵件](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)時，您有數個可供選擇的免費範本。 您也可以建立自己的範本，並儲存以供日後使用。
+當您[建立電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)時，您有數個可供選擇的免費範本。 您也可以建立自己的範本，並儲存以供日後使用。
 
 ![](assets/starter-templates.png)
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/two-2.png)
 
-如果您的電子郵件至關重要，而您希望它規避通訊限制，請勾選此方塊，使[可運作。 ](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)**依預設** 會選取「在編輯器中開啟」，這表示您想要立即開始編輯新電子郵件。**創** 意，創作！
+如果您的電子郵件至關重要，而您希望它規避通訊限制，請勾選此方塊，使[可運作。 ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)**依預設** 會選取「在編輯器中開啟」，這表示您想要立即開始編輯新電子郵件。**創** 意，創作！
 
 ![](assets/three-2.png)
 
@@ -31,9 +31,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->所有客戶都可免費取得行銷人員的入門範本。 雖然這些應用程式會針對主要電子郵件用戶端（和行動裝置）持續更新並最佳化，但您應隨時評估它們是否符合您的需求。 Marketo的[電子郵件傳送功能工具](http://docs.marketo.com/display/DOCS/Email+Deliverability+Tool)可顯示不同電子郵件用戶端上範本的轉譯。 遺憾的是，Marketo無法在付費服務參與之外接受設計要求。
+>所有客戶都可免費取得行銷人員的入門範本。 雖然這些應用程式會針對主要電子郵件用戶端（和行動裝置）持續更新並最佳化，但您應隨時評估它們是否符合您的需求。 Marketo的[電子郵件傳送功能工具](/help/marketo/product-docs/email-marketing/deliverability/email-deliverability-tool.md)可顯示不同電子郵件用戶端上範本的轉譯。 遺憾的是，Marketo無法在付費服務參與之外接受設計要求。
 
-**我的** 範本包含您建立的所有範本。您也可能有資料夾。   ![](assets/five-2.png)
+**我的** 範本包含您建立的所有範本。您也可能有資料夾。
+
+![](assets/five-2.png)
 
 所有出現在Design Studio樹狀結構中「電子郵件」>「範本」下方的資料夾，都可在&#x200B;**「我的範本」**&#x200B;中使用。
 
@@ -67,10 +69,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [電子郵件範本語法](email-template-syntax.md)
->* [建立電子郵件](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
->
-
-
+>* [電子郵件範本語法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [建立電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
