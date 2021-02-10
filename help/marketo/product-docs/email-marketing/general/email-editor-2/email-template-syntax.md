@@ -3,9 +3,9 @@ unique-page-id: 11371040
 description: 電子郵件範本語法——行銷人員檔案——產品檔案
 title: 電子郵件範本語法
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2395'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Marketo電子郵件語法僅適用於範本和個別電子郵件；如果內嵌�
 
 ## 富格文本{#rich-text}
 
-如果您將地區定義為Rich Text，使用者將可使用Marketo的Rich Text Editor[編輯其內容。 ](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)在電子郵件範本中定義Rich Text元素有兩種方式：mktEditable和mktoText。 請記住，「豐富文字」元素永遠可以從電子郵件編輯器中轉換為程式碼片段。
+如果您將地區定義為Rich Text，使用者將可使用Marketo的Rich Text Editor](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)編輯其內容。 [在電子郵件範本中定義Rich Text元素有兩種方式：mktEditable和mktoText。 請記住，「豐富文字」元素永遠可以從電子郵件編輯器中轉換為程式碼片段。
 
 ### 選項1 - mktEditable {#option-mkteditable}
 
@@ -81,7 +81,7 @@ HTML元素內含class=&quot;mktoText&quot;的內容（如果提供）將用作Ri
 
 您有兩個選項可用來定義可編輯的影像元素。 您可以使用`<div>`（指定`<img>`將插入的容器）或`<img>`標籤。 如果您只想讓使用者選擇會傳回影像URL的影像（與DOM相反），請參閱下方章節中的「影像變數」。 以下兩個選項將插入HTML `<img>`元素。
 
-### 選項1 —— 使用\&lt;div\> {#option-use-a-div}
+### 選項1 —— 使用`<div>` {#option-use-a-div}
 
 必要屬性
 
@@ -128,7 +128,7 @@ HTML元素內含class=&quot;mktoText&quot;的內容（如果提供）將用作Ri
 
 ## 代碼片段{#snippets}
 
-如果您將地區定義為「程式碼片段」，一般使用者將可選擇要插入此地區的已核准[程式碼片段](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)。 雖然Rich Text元素可從電子郵件編輯器轉換為Snippets，但當您將地區明確定義為Snippet時，它無法轉換為Rich Text。 您可以使用`<div>`搭配class=&quot;mktoSnippet&quot;來指定「程式碼片段」區域
+如果您將地區定義為「程式碼片段」，一般使用者將可選擇要插入此地區的已核准[程式碼片段](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)。 雖然Rich Text元素可從電子郵件編輯器轉換為Snippets，但當您將地區明確定義為Snippet時，它無法轉換為Rich Text。 您可以使用`<div>`搭配class=&quot;mktoSnippet&quot;來指定「程式碼片段」區域
 
 必要屬性
 
@@ -351,8 +351,6 @@ HTML元素內含class=&quot;mktoText&quot;的內容（如果提供）將用作Ri
 * **mktoAddByDefault：決** 定此模組是否位於建立時使用此範本之新電子郵件的畫布中。預設為true（如果mktoActive為false，則會忽略此值）。
 
 >[!NOTE]
->
->**提醒**
 >
 >包含Marketo語法的類別值（例如mktoModule、mktoContainer、mktoText）會區分大小寫。 自訂屬性名稱（例如mktoimgwidth、mktoname）則否。
 
