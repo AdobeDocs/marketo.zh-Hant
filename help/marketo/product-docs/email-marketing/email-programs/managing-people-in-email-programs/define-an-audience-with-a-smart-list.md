@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: 使用智慧型清單定義對象——行銷檔案——產品檔案
 title: 使用智慧型清單定義對象
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -13,19 +13,13 @@ ht-degree: 0%
 
 # 使用智慧型清單定義對象{#define-an-audience-with-a-smart-list}
 
-在[建立電子郵件程式後，您會想告訴它要傳送電子郵件給誰。 ](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)您可以通過[導入人員清單或智慧清單來執行此操作。 ](define-an-audience-by-importing-a-list.md)以下是如何透過智慧型清單達成此目標。
+在[建立電子郵件程式後，您會想告訴它要傳送電子郵件給誰。 ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)您可以通過[導入人員清單或智慧清單來執行此操作。 ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)以下是如何透過智慧型清單達成此目標。
 
 >[!PREREQUISITES]
 >
->* [建立電子郵件方案](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-
->
-
-
+>[建立電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 >[!NOTE]
->
->**提醒**
 >
 >只有在未核准電子郵件方案時，才能定義您的觀眾。
 
@@ -49,18 +43,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-11-3a1-3a14.png)
 
-   >[!NOTE]
-   >
-   >**深入探討**
-   >
-   >
-   >查看[智慧型清單和靜態清單](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)，以進一步瞭解如何使用和定義篩選器。
-
 1. 完成添加和定義篩選器後，返回主程式頁籤。 您將瞭解有多少人符合資格。
 
    ![](assets/myemailprogram.jpg)
 
-   幹得漂亮！ 現在，您應該選擇[現有電子郵件](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)或[建立電子郵件](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)以傳送給這些人。
+   幹得漂亮！ 現在，您應該選擇[現有的電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)或[建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)以傳送給這些人。
 
 >[!NOTE]
 >
@@ -82,10 +69,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [選擇現有電子郵件](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [建立電子郵件方案的電子郵件](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
-
+>* [選擇現有電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [建立電子郵件方案的電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
