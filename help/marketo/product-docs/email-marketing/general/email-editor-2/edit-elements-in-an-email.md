@@ -3,9 +3,9 @@ unique-page-id: 1900558
 description: 編輯電子郵件中的元素——行銷人員檔案——產品檔案
 title: 編輯電子郵件中的元素
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
-   >您也可以新增影像、Token、表格和其他元素。 請參閱[使用Rich Text Editor](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)。
+   >您也可以新增影像、Token、表格和其他元素。 請參閱[使用Rich Text Editor](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)。
 
    >[!CAUTION]
    >
@@ -70,7 +67,9 @@ ht-degree: 0%
    >
    >如果您想要使用Marketo Token，請使用此選項。 請記住，當您使用Token時，影像在編輯器中會顯示損毀，但會在「預覽」模式和「傳送範例」電子郵件中呈現。
 
-   **交換** ![](assets/eight.png)
+   若要使用外部URL，請先貼入影像的URL。 變更尺寸以符合您的需求，並新增一些替代文字（選用）。 然後按&#x200B;**Swap**&#x200B;鍵。
+
+   ![](assets/eight.png)
 
    **我的電腦**
 
@@ -90,14 +89,15 @@ ht-degree: 0%
    >
    >如果您要取代影像，則需要勾選出「影像URL/名稱」下方的「覆寫現有的影像&#x200B;**」方塊。**
 
-   **設計**&#x200B;工作室若要從Design Studio插入影像，只要找到它……
+   **Design Studio**
+
+   若要從Design Studio插入影像，只要找到它……
 
    ![](assets/twelve.png)
 
-   **交換**
-   ![](assets/thirteen.png)
+   ...並插入。 變更尺寸以符合您的需求，變更Alt文字（可選），然後按&#x200B;**Swap**。
 
-若要使用外部URL，請先貼入影像的URL。 變更尺寸以符合您的需求，並新增一些替代文字（選用）。 然後按。               ...並插入。 變更尺寸以符合您的需求，變更替代文字（選用），然後按。
+   ![](assets/thirteen.png)
 
 ## 如何編輯程式碼片段元素{#how-to-edit-the-snippet-element}
 
