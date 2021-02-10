@@ -3,7 +3,7 @@ unique-page-id: 37355755
 description: 內容鎖定——行銷檔案——產品檔案
 title: 內容鎖定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -27,7 +27,6 @@ ht-degree: 0%
 
    ![](assets/two-4.png)
 
-1. 向下捲動至「內容鎖定」。 開啟其中一個滑桿會&#x200B;*停用*&#x200B;您的團隊成員建立／編輯範本和／或促銷活動的能力。
+1. 向下捲動至「內容鎖定」。 開啟其中一個滑桿會&#x200B;_停用_&#x200B;您的團隊成員建立／編輯範本和／或促銷活動的能力。
 
    ![](assets/three-4.png)
-
