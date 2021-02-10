@@ -3,9 +3,9 @@ unique-page-id: 1900554
 description: 編輯電子郵件的HTML —— 行銷檔案——產品檔案
 title: 編輯電子郵件的HTML
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -76,6 +76,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[電子郵件範本編輯器](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template)中也提供搜尋代碼。
+   >[電子郵件範本編輯器](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md)中也提供搜尋代碼。
 
 我們建議您繼續使用Marketo的內建功能來編輯電子郵件，但此程式碼編輯器可讓您視需要提供彈性。
