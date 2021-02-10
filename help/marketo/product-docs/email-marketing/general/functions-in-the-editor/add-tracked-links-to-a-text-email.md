@@ -3,7 +3,7 @@ unique-page-id: 1900589
 description: 新增追蹤連結至文字電子郵件——行銷人員檔案——產品檔案
 title: 新增追蹤的連結至文字電子郵件
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
