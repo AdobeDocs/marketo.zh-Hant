@@ -3,9 +3,9 @@ unique-page-id: 18317338
 description: 封鎖的網域——行銷檔案——產品檔案
 title: 封鎖的網域
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/one-3.png)
 
-1. 在「管理設定」下，按一下「一般」。****
+1. 在「管理設定」下，按一下「一般」****。
 
    ![](assets/two-3.png)
 
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >屬於[群組電子郵件](http://docs.marketo.com/x/KAQ6Ag)傳送的因傳送至封鎖的電子郵件網域而失敗的電子郵件，將會無訊息失敗，且不會出現在失敗的電子郵件資料夾中。
-
+   >屬於[群組電子郵件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)傳送的因傳送至封鎖的電子郵件網域而失敗的電子郵件，將會無訊息失敗，且不會出現在失敗的電子郵件資料夾中。
