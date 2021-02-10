@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: 銷售連線概觀——行銷人員檔案——產品檔案
 title: 銷售連接概述
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ Marketo Sales Connect是一個全方位的銷售支援解決方案，具有多�
 
 >[!AVAILABILITY]
 >
->
 >並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的客戶成功經理。
 
 ## 即時動態消息{#the-live-feed}
 
-銷售代表可檢視行銷和銷售內容的[即時參與](http://docs.marketo.com/x/d4TS)。
+銷售代表可檢視行銷和銷售內容的[即時參與](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)。
 
 ![](assets/engagement.jpg)
 
 ## 人員詳細資訊視圖{#person-detail-view}
 
-存取[詳細的人員統計資料](http://docs.marketo.com/x/e4TS)。
+存取[詳細的人員統計資料](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md)。
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -62,7 +61,7 @@ Marketo Sales Connect是一個全方位的銷售支援解決方案，具有多�
   </tr> 
   <tr> 
    <td colspan="1"><p>接收銷售電話</p></td> 
-   <td colspan="1"><p>銷售人員使用<a href="http://docs.marketo.com/x/NgDb" rel="nofollow">銷售電話</a>接到銷售人員的電話。</p></td> 
+   <td colspan="1"><p>銷售人員使用<a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">銷售電話</a>接到銷售人員的電話。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>新增至銷售促銷活動</p></td> 
@@ -81,7 +80,7 @@ Marketo Sales Connect是一個全方位的銷售支援解決方案，具有多�
 
 ## 共用行銷促銷活動{#share-marketing-campaigns}
 
-建立簡單的智慧型促銷活動，讓您的銷售使用者存取[Marketo促銷活動資料](http://docs.marketo.com/x/NwDh)。
+建立簡單的智慧型促銷活動，讓您的銷售使用者存取[Marketo促銷活動資料](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)。
 
 ![](assets/campaign-is-requested.jpg)
 
@@ -89,9 +88,4 @@ Marketo Sales Connect是一個全方位的銷售支援解決方案，具有多�
 
 >[!MORELIKETHIS]
 >
->* [Sales Connect快速入門](http://docs.marketo.com/x/coTS)
-
->
-
-
-
+>[Sales Connect快速入門](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
