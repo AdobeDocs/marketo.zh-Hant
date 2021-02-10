@@ -3,7 +3,7 @@ unique-page-id: 1900597
 description: 匯入清單——行銷人員檔案——產品檔案以定義觀眾
 title: 匯入清單以定義對象
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[建立電子郵件方案的電子郵件](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[建立電子郵件方案的電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-一旦您建立了電子郵件程式，您就會想告訴它要將電子郵件傳送給誰。 您可以通過[建立智慧清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)或通過導入清單來執行此操作。 以下說明如何匯入清單以達成此目的。
+一旦您建立了電子郵件程式，您就會想告訴它要將電子郵件傳送給誰。 您可以通過[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)或通過導入清單來執行此操作。 以下說明如何匯入清單以達成此目的。
 
 >[!NOTE]
 >
@@ -29,17 +29,20 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities-1.png)
 
-   選取您的電子郵件程式，然後按一下「對象」方塊下的「匯入清單」。
+1. 選取您的電子郵件程式，然後按一下「對象」方塊下的「匯入清單」。
+
    ![](assets/importlist.png)
 
-1. 清單導入窗口開啟，按一下&#x200B;**瀏覽**&#x200B;並選擇要導入的檔案。 在您選取人員清單後，按一下「下一步」。
-1. ![](assets/importlist1.png)
+1. 清單導入窗口開啟，按一下&#x200B;**瀏覽**&#x200B;並選擇要導入的檔案。 選擇人員清單後，按一下&#x200B;**Next**。
+
+   ![](assets/importlist1.png)
 
    >[!CAUTION]
    >
    >請確定清單是已編碼的UTF-8、UTF-16、Shift-JIS或EUC-JP，且檔案大小不超過50MB。
 
-   確認您檔案中的欄位已正確映射，然後按一下「下一步」。
+1. 驗證檔案中的欄位已正確映射，然後按一下&#x200B;**Next**。
+
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
    >[!TIP]
@@ -80,10 +83,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [選擇現有電子郵件](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [建立電子郵件方案的電子郵件](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
-
+>* [選擇現有電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [建立電子郵件方案的電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
