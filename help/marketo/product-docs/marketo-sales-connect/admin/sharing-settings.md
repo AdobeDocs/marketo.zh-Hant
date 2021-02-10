@@ -3,7 +3,7 @@ unique-page-id: 14746143
 description: 共用設定——行銷人員檔案——產品檔案
 title: 共用設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 設定您的分享設定{#configure-your-sharing-settings}
 
-1. 在[Web應用程式](http://toutapp.com/login)中，轉至「設定」頁。
+1. 在[Web應用程式](https://toutapp.com/login)中，轉至「設定」頁。
 
    ![](assets/one-2.png)
 
@@ -58,4 +58,3 @@ ht-degree: 0%
 1. 現在，您的團隊已經新增，您可以選擇只允許團隊管理員共用或該團隊中的所有使用者。 在此示例中，我們為SDR團隊中的所有用戶共用訪問權。
 
    ![](assets/eight-1.png)
-
