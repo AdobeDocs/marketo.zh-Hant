@@ -3,7 +3,7 @@ unique-page-id: 10912163
 description: 建立電子郵件——行銷人員檔案——產品檔案
 title: 建立電子郵件
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -67,4 +67,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[編輯您的電子郵件標題](edit-your-email-header.md)
+>[編輯您的電子郵件標題](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
