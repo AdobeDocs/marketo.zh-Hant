@@ -3,9 +3,9 @@ unique-page-id: 1900577
 description: 建立電子郵件指令碼Token —— 行銷檔案——產品檔案
 title: 建立電子郵件指令碼Token
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 建立電子郵件指令碼Token {#create-an-email-script-token}
 
-對於進階開發人員，您可以在電子郵件中使用[Velocity指令碼](http://velocity.apache.org/engine/1.7/user-guide.html)。 這是如何做到的。
+對於進階開發人員，您可以在電子郵件中使用[Velocity指令碼](https://velocity.apache.org/engine/1.7/user-guide.html)。 這是如何做到的。
 
 1. 前往&#x200B;**行銷活動**。
 
@@ -45,17 +45,14 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >如果您輸入Token自由格式，請確定檢查／啟用樹狀結構中所有對應的Token，否則這些Token將被視為純文字而無法運作。
 
 1. 以Velocity編寫您的指令碼。 以下是一些有用的資源：
 
-   * [行銷人員電子郵件指令碼檔案](http://developers.marketo.com/email-scripting/)
-   * [Velocity使用指南](http://velocity.apache.org/engine/devel/user-guide.html)
-   * [速度參考指南](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [Velocity工具Javadoc](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [行銷人員電子郵件指令碼檔案](https://developers.marketo.com/email-scripting/)
+   * [Velocity使用指南](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [速度參考指南](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [Velocity工具Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. 指令碼完成後，按一下&#x200B;**保存**。
 
@@ -69,9 +66,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [將電子郵件指令碼Token新增至您的電子郵件](add-an-email-script-token-to-your-email.md)
-
->
-
-
-
+>[將電子郵件指令碼Token新增至您的電子郵件](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
