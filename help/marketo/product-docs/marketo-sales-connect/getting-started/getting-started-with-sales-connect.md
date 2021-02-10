@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: 銷售連線入門——行銷人員檔案——產品檔案
 title: Sales Connect快速入門
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '635'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 0%
 如果您不想看這些步驟，而是直接跳至[下面的「Video Instructions（視頻說明）」。](#video)
 
 >[!AVAILABILITY]
->
 >
 >並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的客戶成功經理。
 
@@ -129,7 +128,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >您無法將具有相同電子郵件ID的Sales Connect帳戶布建至多個例項。 這表示，如果您想要有額外的Sales Connect帳戶來測試您的Marketo Sandbox執行個體，則需要在每個帳戶中使用不同的電子郵件ID。
-
-## 視訊指示{#video-instructions}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/w5RY7iMPpEfUYQ4Fp8WUKR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
