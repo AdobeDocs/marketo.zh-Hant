@@ -3,9 +3,9 @@ unique-page-id: 2952678
 description: 使用傳送警報資訊Token {{SP_Send_Alert_Info}} —— 行銷人員檔案——產品檔案
 title: 使用傳送警報資訊Token
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此Token僅在以[傳送警報](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)流程步驟傳送包含此Token的電子郵件時如預期運作。 當用於「傳送電子郵件」流程步驟時，它將無法運作。
+>此Token僅在以[傳送警報](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)流程步驟傳送包含此Token的電子郵件時如預期運作。 當用於「傳送電子郵件」流程步驟時，它將無法運作。
 
-範例警報：   ![](assets/image2014-9-25-15-3a17-3a58.png)
+範例警報：
+
+![](assets/image2014-9-25-15-3a17-3a58.png)
 
 >[!NOTE]
 >
->小心！ 警報中的URL有過期日期，因此請確定它們有支援這些類型的訊息的順序。 到期日由管理員[設定。](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
+>小心！ 警報中的URL有過期日期，因此請確定它們有支援這些類型的訊息的順序。 到期日由管理員](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)設定。[
 
 `{{SP_Send_Alert_Info}}`包含下列資訊：
 
@@ -59,8 +61,6 @@ ht-degree: 0%
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 
 >[!NOTE]
->
->**提醒**
 >
 >別忘了核准您的電子郵件。
 
