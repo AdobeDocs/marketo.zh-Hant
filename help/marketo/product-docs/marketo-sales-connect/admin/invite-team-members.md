@@ -3,7 +3,7 @@ unique-page-id: 14352402
 description: 邀請團隊成員——行銷人員檔案——產品檔案
 title: 邀請團隊成員
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -38,4 +38,3 @@ ht-degree: 0%
 1. 按一下&#x200B;**確定**。
 
    ![](assets/five.png)
-
