@@ -3,7 +3,7 @@ unique-page-id: 2359562
 description: 冠軍／挑戰者——定義冠軍標準——行銷文檔——產品文檔
 title: 冠軍／挑戰者——定義冠軍標準
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [新增電子郵件冠軍／挑戰者](add-an-email-champion-challenger.md)
-
->
-
-
+>[新增電子郵件冠軍／挑戰者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
 ## 標準冠軍標準{#standard-champion-criteria}
 
@@ -33,7 +29,7 @@ ht-degree: 0%
    >
    >我們將追蹤此量度，並透過電子郵件傳送含有資料的報表。
 
-1. 如果您選擇了預設&#x200B;**Champion Criteria**&#x200B;中的一個，請繼續前往[Champion/Challenger:設定報表警報](champion-challenger-configure-report-alerts.md)!
+1. 如果您選擇了預設&#x200B;**Champion Criteria**&#x200B;中的一個，請繼續前往[Champion/Challenger:設定報表警報](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
 
 ## 自訂冠軍標準{#custom-champion-criteria}
 
@@ -63,9 +59,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [冠軍／挑戰者：設定報表警報](champion-challenger-configure-report-alerts.md)
-
-
+   >[冠軍／挑戰者：設定報表警報](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
