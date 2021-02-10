@@ -3,7 +3,7 @@ unique-page-id: 1147360
 description: 將Token新增至電子郵件連結——行銷人員檔案——產品檔案
 title: 新增Token至電子郵件連結
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -39,9 +39,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [在我的Token中使用URL](using-urls-in-my-tokens.md)
-
->
-
-
-
+>[在我的Token中使用URL](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
