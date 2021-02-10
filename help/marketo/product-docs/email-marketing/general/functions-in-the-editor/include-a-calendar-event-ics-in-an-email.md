@@ -3,7 +3,7 @@ unique-page-id: 1900565
 description: 在電子郵件——行銷人員檔案——產品檔案中加入日曆事件(.ic)
 title: 在電子郵件中包含日曆事件(.ics)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立日曆事件(.ics)檔案](create-a-calendar-event-ics-file.md)
-
->
-
-
+>[建立日曆事件(.ics)檔案](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 1. 在編輯程式的電子郵件時，按一下您要讓Token移至的位置，然後按一下「插入Token」按鈕。
 
@@ -31,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-   按一下「儲存」。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/three-5.png)
 
