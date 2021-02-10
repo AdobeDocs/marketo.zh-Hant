@@ -3,7 +3,7 @@ unique-page-id: 1147356
 description: 瞭解電子郵件事件記錄——行銷人員檔案——產品檔案
 title: 瞭解電子郵件事件記錄
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -28,4 +28,3 @@ ht-degree: 0%
 >[!CAUTION]
 >
 >如果同一封電子郵件從相同促銷活動傳送兩次給同一人，則&#x200B;**Opened**&#x200B;事件最多將記錄1次。
-
