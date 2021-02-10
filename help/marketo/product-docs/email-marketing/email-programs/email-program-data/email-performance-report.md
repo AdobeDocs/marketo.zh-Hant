@@ -3,9 +3,9 @@ unique-page-id: 2359467
 description: 電子郵件績效報告——行銷人員檔案——產品檔案
 title: 電子郵件績效報告
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 若要查看您的電子郵件在傳送、開啟、點按等統計資料時的效能，請建立「電子郵件效能報表」。
 
-1. [在程式中建立報表，](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 並選取「電子郵 **件效** [能報表類型」](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
-1. [變更報表時間](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 範圍，然後按一下「報 **** 表」標籤。
+1. [在程式中建立報表，](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 並選取「電子郵 **件效** [能報表類型」](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+1. [變更報表時間](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 範圍，然後按一下「報 **** 表」標籤。
 1. 你在那！ 現在請瀏覽報表，瞭解您的電子郵件的執行方式。
 
    >[!NOTE]
@@ -31,10 +31,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >
-   >電子郵件績效報表包含所有人的活動，包括自電子郵件傳送以來已刪除的活動。 有時，您只想查看活動中人員的活動。 在這種情況下，您需要從報表中篩選已刪除的人。 使用&#x200B;**智慧型清單**&#x200B;標籤為報表建立智慧型清單](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)。 [如果您未在任何特定欄位上進行篩選，請將「電子郵件地址」篩選設為：**不為空**。
+   >電子郵件績效報表包含所有人的活動，包括自電子郵件傳送以來已刪除的活動。 有時，您只想查看活動中人員的活動。 在這種情況下，您需要從報表中篩選已刪除的人。 使用&#x200B;**智慧型清單**&#x200B;標籤為報表建立智慧型清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)。 [如果您未在任何特定欄位上進行篩選，請將「電子郵件地址」篩選設為：**不為空**。
 
-   [為「電子郵](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 件績效」報表選擇報表欄包括：
+   [為「電子郵](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 件績效」報表選擇報表欄包括：
 
    | 欄 | 說明 |
    |---|---|
@@ -50,13 +49,13 @@ ht-degree: 0%
 
 總的來說，我們試圖用常識記錄這些統計資料。 例如，如果某人點按了電子郵件中的連結，顯然會先開啟電子郵件。 我們遵循「電子郵件績效報告」的下列特定規則：
 
-* **規則1**:每個電子郵件活動記錄都設為下列其中一項，且僅設為一項： *已交付*、 *硬性已反彈*、軟 *性已反彈*&#x200B;或 *待定*。
+* **規則1**:每個電子郵件活動記錄都設為下列其中一項，且僅設為一項： _已交付_、 _硬性已反彈_、軟 _性已反彈_&#x200B;或 _待定_。
 
 * **規則2**:如果電子郵件記錄顯 *示「已開啟*」 *，則會計為「已*&#x200B;傳送」。
 
-* **第3條**:如果電子郵件記錄顯 *示「已點* 按的電子郵 *件或取消*&#x200B;訂閱 ** 」，則會計為「已傳 *送」和「已*&#x200B;開啟」。
+* **第3條**:如果電子郵件記錄顯 _示「已點_ 按的電子郵 _件或取消_&#x200B;訂閱 __ 」，則會計為「已傳 _送」和「已_&#x200B;開啟」。
 
-* **規則4**:如果電子郵件已 *開啟*，則會忽略彈回數。如果電子郵件未開啟，則&#x200B;*硬跳*&#x200B;優先於&#x200B;*軟跳*&#x200B;和&#x200B;*已遞送*。
+* **規則4**:如果電子郵件已 _開啟_，則會忽略彈回數。如果電子郵件未開啟，則&#x200B;_硬跳_&#x200B;優先於&#x200B;_軟跳_&#x200B;和&#x200B;_已遞送_。
 
 >[!NOTE]
 >
@@ -64,16 +63,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [篩選促銷活動電子郵件報表中的資產](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
->* [電子郵件連結效能報告](email-link-performance-report.md)
-
->
-
-
-
->[!NOTE]
->
->**深入探討**
->
->進一步瞭解[基本報告](http://docs.marketo.com/display/docs/basic+reporting)。
+>* [篩選促銷活動電子郵件報表中的資產](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [電子郵件連結效能報告](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 
