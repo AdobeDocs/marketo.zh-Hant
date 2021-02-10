@@ -3,7 +3,7 @@ unique-page-id: 2953419
 description: 使用Rich Text Editor - Marketo Docs —— 產品檔案
 title: 使用Rich Text編輯器
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Rich Text Editor(RTE)會出現在整個Marketo中，而且可在您想要新增�
 
 ## 編輯器設定{#editor-settings}
 
-根區塊元素設定會定義哪些標籤包覆您的內容。 依預設，電子郵件根區塊元素會利用 <p> 標籤。 您可以選擇依照下列步驟來變更。
+根區塊元素設定會定義哪些標籤包覆您的內容。 依預設，電子郵件根區塊元素會使用`<p>`標籤。 您可以選擇依照下列步驟來變更。
 
 >[!TIP]
 >
@@ -35,11 +35,11 @@ Rich Text Editor(RTE)會出現在整個Marketo中，而且可在您想要新增�
 
    ![](assets/three.png)
 
-1. 在&#x200B;**電子郵件／程式碼片段編輯器**&#x200B;下拉式清單中，選取 <div> 或「無」，然後按一下「保存」。**** <div> 在此示例中使用。
+1. 在&#x200B;**電子郵件／程式碼片段編輯器**&#x200B;下拉式清單中，選取`<div>`或「無」，然後按一下「儲存&#x200B;****」。 `<div>` 在此示例中使用。
 
    ![](assets/four.png)
 
-   如果您有 <div class="&ldquo;mktEditable&rdquo;"></div> 在「電子郵件範本」中，當您開啟區段並在編輯器中輸入「Text Goes Here」（文字移至此處）時，您會看到下列HTML來源行為：
+   如果您在「電子郵件範本」中有`<div class=“mktEditable”></div>`，當您在編輯器中開啟區段並輸入「Text Goes Here」時，會看到下列HTML來源行為：
 
 <table> 
  <tbody> 
@@ -62,7 +62,7 @@ Rich Text Editor(RTE)會出現在整個Marketo中，而且可在您想要新增�
 
 >[!NOTE]
 >
->根區塊元素一律為 <p> 富格文字程式Token。
+>rich-text program Token的根區塊元素一律為`<p>`。
 
 ## 功能{#features}
 
@@ -109,7 +109,7 @@ Rich Text Editor(RTE)會出現在整個Marketo中，而且可在您想要新增�
 
 ## 著陸頁面{#landing-pages}
 
-根區塊元素設定會定義哪些標籤包覆您的內容。 依預設，著陸頁面根區塊元素會使用 <div> 標籤。 您可以選擇依照下列步驟來變更。
+根區塊元素設定會定義哪些標籤包覆您的內容。 依預設，著陸頁面根區塊元素會使用`<div>`標籤。 您可以選擇依照下列步驟來變更。
 
 >[!TIP]
 >
@@ -127,9 +127,8 @@ Rich Text Editor(RTE)會出現在整個Marketo中，而且可在您想要新增�
 
    ![](assets/three.png)
 
-1. 在&#x200B;**著陸頁面編輯器**&#x200B;下拉式清單中，選取 <p> 或「無」，然後按一下「保存」。**** <p> 在此示例中使用。
+1. 在&#x200B;**著陸頁面編輯器**&#x200B;下拉式清單中，選取`<p>`或「無」，然後按一下「儲存&#x200B;**」。**`<p>` 在此示例中使用。
 
    ![](assets/five.png)
 
    就這樣！
-
