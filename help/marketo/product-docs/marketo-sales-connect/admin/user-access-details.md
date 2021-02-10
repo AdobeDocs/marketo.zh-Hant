@@ -3,9 +3,9 @@ unique-page-id: 14352623
 description: 使用者存取詳細資訊——行銷人員檔案——產品檔案
 title: 使用者存取詳細資訊
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 管理員使用者權限{#admin-user-permissions}
 
-管理員可以[檢視所有範本](http://docs.marketo.com/x/OYAXAQ)。
+管理員可以[檢視所有範本](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md)。
 
 ![](assets/templates.jpg)
 
-管理員可以[檢視所有促銷活動](http://docs.marketo.com/x/N4AXAQ)。
+管理員可以[檢視所有促銷活動](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)。
 
 ![](assets/campaigns.jpg)
 
-管理員可以[檢視所有電子郵件活動](http://docs.marketo.com/x/SYAXAQ)。
+管理員可以檢視所有電子郵件活動。
 
 ![](assets/email-activity.png)
 
@@ -70,4 +70,3 @@ ht-degree: 0%
    * 使用者可以在其管理員允許的類別中共用範本
    * 從團隊移除使用者時，其範本會取消與該團隊共用
    * 從團隊刪除使用者時，其範本會將擁有權轉讓給刪除使用者的主管理員
-
