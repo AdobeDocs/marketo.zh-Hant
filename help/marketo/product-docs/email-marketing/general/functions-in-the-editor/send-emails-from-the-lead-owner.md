@@ -3,7 +3,7 @@ unique-page-id: 1147340
 description: 從潛在客戶擁有者——行銷人員檔案——產品檔案傳送電子郵件
 title: 從潛在客戶擁有者傳送電子郵件
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -47,7 +47,8 @@ ht-degree: 0%
    >
    >請確定您已在名字代號和姓氏代號之間新增空格。
 
-   按一下「寄件者電子郵件」欄位（刪除任何現有的電子郵件地址），然後按一下「插入Token」按鈕。
+1. 按一下「寄件者電子郵件」欄位（刪除任何現有的電子郵件地址），然後按一下「插入Token」按鈕。
+
    ![](assets/eight.png)
 
 1. 開始鍵入&quot;`{{lead.Lead Owner`&quot;並選擇&#x200B;**`{{lead.Lead Owner Email Address}}`**&#x200B;代號。
@@ -61,4 +62,3 @@ ht-degree: 0%
 1. 請確定已填入&#x200B;**回覆**&#x200B;和&#x200B;**主旨**&#x200B;欄位，您就完成！
 
    ![](assets/eleven.png)
-
