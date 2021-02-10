@@ -3,7 +3,7 @@ unique-page-id: 1900556
 description: 建立純文字電子郵件——行銷人員檔案——產品檔案
 title: 建立僅限文字的電子郵件
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >不會在僅限文字的電子郵件中自動追蹤連結。 瞭解如何[將追蹤的連結新增至文字電子郵件](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)。
+   >不會在僅限文字的電子郵件中自動追蹤連結。 瞭解如何[將追蹤的連結新增至文字電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)。
 
    >[!TIP]
    >
