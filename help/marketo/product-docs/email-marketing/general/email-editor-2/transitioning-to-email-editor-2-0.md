@@ -3,7 +3,7 @@ unique-page-id: 11373011
 description: 轉換至Email Editor 2.0 —— 行銷人員至檔案——產品檔案
 title: 轉換至Email Editor 2.0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 轉換到電子郵件編輯器2.0 {#transitioning-to-email-editor}
 
-從[6月19日發行版本](../../../../release-notes/2016/release-notes-spring-16.md)起，所有行銷人員訂閱都已轉換為電子郵件編輯器2.0。[瞭解有關淘汰電子郵件編輯器1.0的更多資訊](https://nation.marketo.com/docs/DOC-7038)。
+從[6月19日發行版本](/help/marketo/release-notes/2016/release-notes-spring-16.md)起，所有行銷人員訂閱都已轉換為電子郵件編輯器2.0。[瞭解有關淘汰電子郵件編輯器1.0的更多資訊](https://nation.marketo.com/docs/DOC-7038)。
 
 您訂閱中的電子郵件和電子郵件範本應有版本號碼。 版本可在資產的摘要頁面中找到。
 
@@ -27,14 +27,11 @@ ht-degree: 0%
 如果您的訂閱在移至Email Editor 2.0之前有v1.0版電子郵件，您將會根據資產的目前狀態，體驗下列行為：
 
 **已核准** -按一下「編輯草稿」將建立已核准電子郵件的v2.0草稿。如果您接著核准v2.0草稿，則已核准的電子郵件狀態會變成v2.0，而且無法回復為v1.0。\
-**草稿** -按一下「編輯草稿」會自動將該草稿標示為v2.0。此時，將無法捨棄並回復到v1.0，因為沒有批准的資產版本。\
-**使用草稿** -按一下「編輯草稿」會自動將該草稿標示為v2.0。因此，也無法將草稿回復為v1.0。
+**草稿** -按一下「編輯草稿」會自動將該草稿標示為v2.0。此時，將無法捨棄並回復到v1.0，因為沒有批准的資產版本。**使用草稿** -按一下「編輯草稿」會自動將該草稿標示為v2.0。因此，也無法將草稿回復為v1.0。
 
 如果您的訂閱在移至Email Editor 2.0之前有v1.0的電子郵件範本，您會體驗到下列行為：
 
-**已核准** -按一下「編輯草稿」將建立現有電子郵件範本的v2.0草稿。\
-**草稿** -按一下「編輯草稿」會自動將該草稿標示為v2.0。此時，將無法捨棄並回復至v1.0，因為沒有批准的資產版本。\
-**使用草稿** -按一下「編輯草稿」會自動將該草稿標示為v2.0。因此，也無法將草稿回復為v1.0。
+**已核准** -按一下「編輯草稿」將建立現有電子郵件範本的v2.0草稿。**草稿** -按一下「編輯草稿」會自動將該草稿標示為v2.0。此時，將無法捨棄並回復至v1.0，因為沒有批准的資產版本。**使用草稿** -按一下「編輯草稿」會自動將該草稿標示為v2.0。因此，也無法將草稿回復為v1.0。
 
 如果您核准先前v1.0的電子郵件範本（在上述任何狀態），您會看到下列行為：
 
@@ -62,10 +59,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [電子郵件編輯器2.0概觀](email-editor-v2-0-overview.md)
->* [電子郵件範本語法](email-template-syntax.md)
-
->
-
-
+>* [電子郵件編輯器2.0概觀](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>* [電子郵件範本語法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
 
