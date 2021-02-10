@@ -3,9 +3,9 @@ unique-page-id: 11371065
 description: 將模組新增至您的電子郵件——行銷人員檔案——產品檔案
 title: 將模組添加到電子郵件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >大部份的Marketo Starter範本都包含模組。 您也可以[建立您自己的](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules)。
+   >大部份的Marketo Starter範本都包含模組。 您也可以[建立您自己的](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules)。
 
 1. 在電子郵件最右側，按一下&#x200B;**模組**。
 
@@ -67,5 +67,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[電子郵件範本語法](email-template-syntax.md)
-
+>[電子郵件範本語法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
