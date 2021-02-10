@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: 傳送範例電子郵件——行銷人員檔案——產品檔案
 title: 傳送範例電子郵件
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 傳送範例電子郵件{#send-a-sample-email}
 
-傳送電子郵件樣本既快速又簡單。 若要傳送動態內容電子郵件，請參閱[預覽包含動態內容的電子郵件](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)。
+傳送電子郵件樣本既快速又簡單。 若要傳送動態內容電子郵件，請參閱[預覽包含動態內容的電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)。
 
 >[!NOTE]
 >
@@ -33,9 +33,6 @@ ht-degree: 0%
    ![](assets/two.png)
 
    >[!NOTE]
-   >
-   >**提醒**
-   >
    >
    >若要輸入多個電子郵件地址，請使用逗號來分隔這些地址。
 
@@ -59,13 +56,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >觸發器欄位僅適用於使用[電子郵件指令碼](http://developers.marketo.com/documentation/velocity-script/)的用戶。
+   >觸發器欄位僅適用於使用[電子郵件指令碼](https://developers.marketo.com/documentation/velocity-script/)的用戶。
 
 ## 根據區段{#send-a-sample-email-based-on-a-segment}傳送範例電子郵件
 
 >[!PREREQUISITES]
 >
->[將區段套用至您的電子郵件](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email)。
+>[將區段套用至您的電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)。
 
 1. 尋找您的電子郵件，選取它，然後按一下「編輯草稿&#x200B;**」標籤。**
 
