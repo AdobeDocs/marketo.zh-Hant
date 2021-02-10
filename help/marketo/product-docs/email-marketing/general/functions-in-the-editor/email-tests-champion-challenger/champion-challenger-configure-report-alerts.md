@@ -3,7 +3,7 @@ unique-page-id: 2359567
 description: 冠軍／挑戰者——設定報表警報——行銷檔案——產品檔案
 title: 冠軍／挑戰者——設定報表警報
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Marketto會傳送電子郵件測試的進度報告給您。 以下是如何排�
 
 >[!PREREQUISITES]
 >
->* [冠軍／挑戰者：定義冠軍標準](champion-challenger-define-champion-criteria.md)
-
->
-
-
+>[冠軍／挑戰者：定義冠軍標準](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 1. 讓我們排程在星期五早上9點每週傳送一次報表。
 
@@ -47,9 +43,4 @@ Marketto會傳送電子郵件測試的進度報告給您。 以下是如何排�
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [冠軍／挑戰者：核准您的電子郵件測試](champion-challenger-approve-your-email-test.md)
-
-
+   >[冠軍／挑戰者：核准您的電子郵件測試](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
