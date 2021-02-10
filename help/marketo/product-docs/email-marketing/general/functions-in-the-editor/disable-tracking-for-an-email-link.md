@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: 停用電子郵件連結的追蹤——行銷檔案——產品檔案
 title: 停用電子郵件連結的追蹤
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 有時您不想在電子郵件中的連結上啟用&#x200B;**行銷追蹤URL**。 當目標頁面不支援URL參數且可能導致連結中斷時，這個功能會很有用。
 
-1. 選擇您的電子郵件，然後按一下「編輯&#x200B;**** **草稿**」。
+1. 選擇您的電子郵件，然後按一下「編輯草稿」。****
 
    ![](assets/one-7.png)
 
