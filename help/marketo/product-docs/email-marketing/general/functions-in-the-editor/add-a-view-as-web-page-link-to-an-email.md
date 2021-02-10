@@ -3,7 +3,7 @@ unique-page-id: 1900560
 description: 將「檢視為網頁」連結新增至電子郵件——行銷人員檔案——產品檔案
 title: 將「檢視為網頁」連結新增至電子郵件
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -39,4 +39,4 @@ ht-degree: 0%
 >
 >在您傳送電子郵件之前，您不會看到「檢視為網頁」連結。 傳送測試給您自己檢視。
 
-要更改預設文本，請參閱[編輯「以Web頁面形式查看」消息](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)。
+要更改預設文本，請參閱[編輯「以Web頁面形式查看」消息](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)。
