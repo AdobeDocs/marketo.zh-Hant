@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: 大量傳送選項——行銷人員檔案——產品檔案
 title: 大量傳送選項
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 大量傳送電子郵件是加速潛在客戶參與的絕佳方式。 Sales Connect提供兩種大量傳送電子郵件的方式：**群組電子郵件**&#x200B;和&#x200B;**選擇並傳送**。 群組電子郵件是快速傳送數百封電子郵件給目標群組的絕佳方式。 使用「選擇」和「傳送」表示電子郵件限制較低，但為使用者提供更多自訂機會。
 
-群組電子郵件與選擇和傳送
+**群組電子郵件與選擇和傳送**
 
 <table> 
  <colgroup> 
@@ -54,20 +54,16 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-使用群組電子郵件
+**使用群組電子郵件**
 
 您可以預覽清單中的每封電子郵件，以查看動態欄位是否填入正確，而且您可以大量編輯您要送出的範本。 但是，您無法進行獨特的「每位使用者」編輯。
 
-使用選擇和傳送
+**使用選擇和傳送**
 
 依預設，您將編輯所有收件者。 但您也可以選取每封個別的電子郵件，以便進行自訂編輯。 這對您想要採用更個人化方式的收件者而言，可以很好地新增一或多個獨特的自訂系列。
 
 >[!MORELIKETHIS]
 >
->* [使用選擇和傳送撰寫大量電子郵件](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
->* [透過群組電子郵件傳送電子郵件](http://docs.marketo.com/x/KAQ6Ag)
-
->
-
-
+>* [使用選擇和傳送撰寫大量電子郵件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [透過群組電子郵件傳送電子郵件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
 
