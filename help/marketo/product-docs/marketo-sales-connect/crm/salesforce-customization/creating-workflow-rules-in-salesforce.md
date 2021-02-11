@@ -3,7 +3,7 @@ unique-page-id: 14745823
 description: 在Salesforce - Marketo Docs —— 產品檔案中建立工作流程規則
 title: 在Salesforce中建立工作流程規則
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -101,4 +101,3 @@ ht-degree: 0%
    ![](assets/thirteen.png)
 
    在最後一個步驟後，您可以選擇複製「快速入門」區段中所列其他欄位的工作流程規則：設計、類型、來源、日期。 完成Contact對象中的四個工作流規則後，請對Lead對象重複相同的規則。
-
