@@ -3,9 +3,9 @@ unique-page-id: 14352476
 description: 任務活動類型欄位(SFDC)-行銷文檔——產品文檔
 title: 任務上的活動類型欄位(SFDC)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ ht-degree: 0%
 * 與Salesforce的連線
 * 未在「任務類型」選擇清單中選擇預設類型值
 * 「呼叫」、「回覆」和「電子郵件」必須都存在於「任務類型」選取清單下（大寫事項）
-* 沒有`Workflows`或`Triggers`對「類型」欄位的值執行操作
+* 沒有工作流或觸發器對「類型」欄位的值執行操作
 
 ## 設定{#setup}
 
 首先檢查您是否有正確的挑選清單值。 您將需要Salesforce管理員的協助，才能變更您的選取清單。
 
-1. 導覽至[Salesforce.com](http://Salesforce.com)，然後按一下右上角的「設定」。
+1. 導覽至[Salesforce.com](https://salesforce.com)，然後按一下右上角的「設定」。
 1. 按一下「自訂」。
 1. 按一下「活動」。
 1. 按一下「工作欄位」。
