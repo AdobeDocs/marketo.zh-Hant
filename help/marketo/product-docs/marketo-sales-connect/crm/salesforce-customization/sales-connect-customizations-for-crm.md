@@ -3,9 +3,9 @@ unique-page-id: 14745793
 description: CRM的銷售連線自訂——行銷人員檔案——產品檔案
 title: CRM的銷售連接定制
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '626'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # CRM的銷售連接定制{#sales-connect-customizations-for-crm}
 
-以下欄位和按鈕是由Salesforce CRM中的中繼資料API建立。 在建立欄位後，管理員必須在其CRM中設定頁面配置，才能公開這些版面。 您可在[這裡](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf)找到說明。
+以下欄位和按鈕是由Salesforce CRM中的中繼資料API建立。 在建立欄位後，管理員必須在其CRM中設定頁面配置，才能公開這些版面。 您可在[這裡](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf)找到說明。
 
 >[!NOTE]
 >
@@ -134,14 +134,8 @@ Marketo會偵測到新欄位的建立，然後只對&#x200B;**new**&#x200B;欄�
 
 ## 使用手冊{#user-guides}
 
-[Salesforce中的MSE自訂報表](http://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[Salesforce中的MSE自訂報表](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
-[Salesforce的MSE](http://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+[Salesforce的MSE](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 
-[Salesforce Lightning的MSE](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
-
-## 相關視訊{#related-videos}
-
-**如何在Salesforce中安裝自訂項目**
-`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` **在Salesforce中使用自訂項目的優點** 
-`<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+[Salesforce Lightning的MSE](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
