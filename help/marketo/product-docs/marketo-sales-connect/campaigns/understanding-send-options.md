@@ -3,7 +3,7 @@ unique-page-id: 14352621
 description: 瞭解傳送選項——行銷人員檔案——產品檔案
 title: 瞭解傳送選項
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 0%
@@ -59,4 +59,3 @@ ht-degree: 0%
 將此電子郵件串接至先前的電子郵件
 
 * 此傳送選項將是您先前電子郵件的「追蹤」，並會將先前的電子郵件內文附加至此電子郵件的底部。
-
