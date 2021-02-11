@@ -3,9 +3,9 @@ unique-page-id: 37356568
 description: 排程電子郵件——行銷人員檔案——產品檔案
 title: 排程電子郵件
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[命令中心概述](http://docs.marketo.com/x/kgDb)
-
+   >[命令中心概述](/help/marketo/product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
