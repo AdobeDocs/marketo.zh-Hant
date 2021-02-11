@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: 傳送追蹤的電子郵件——行銷人員檔案——產品檔案
 title: 傳送追蹤的電子郵件
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,8 @@ ht-degree: 0%
 >
 >在傳送追蹤的電子郵件之前，您必須先驗證身分並設定電子郵件傳送渠道。
 >
->* [驗證您的電子郵件地址](http://docs.marketo.com/x/ewPh)
->* 為[Outlook](http://docs.marketo.com/x/Z4AOAQ)或[Gmail](http://docs.marketo.com/x/kYMOAQ)設定傳送渠道
-
->
-
+>* [驗證您的電子郵件地址](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
+>* 為[Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md)或[Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)設定傳送渠道
 
 
 1. 建立您的電子郵件草稿（有多種方式可做到，在本範例中，我們在標題中選擇&#x200B;**合成**）。
@@ -54,17 +51,12 @@ ht-degree: 0%
    >
    >傳送電子郵件時，需要主旨行和收件者。 在新增主旨行和收件者後，我們會自動儲存您的草稿&#x200B;**。**
 
-1. 使用編輯器撰寫電子郵件。 完成時，按一下「傳送&#x200B;****」（或[排程](http://docs.marketo.com/x/GAQ6Ag)，如果您願意）。
+1. 使用編輯器撰寫電子郵件。 完成時，按一下「傳送&#x200B;****」（或[排程](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)，如果您願意）。
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [排程電子郵件](http://docs.marketo.com/x/GAQ6Ag)
-   >    * [動態欄位](http://docs.marketo.com/x/wwDb)
-   >    * [使用範本](http://docs.marketo.com/display/DOCS/Templates)
-
+   >* [排程電子郵件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
+   >* [範本](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
 
