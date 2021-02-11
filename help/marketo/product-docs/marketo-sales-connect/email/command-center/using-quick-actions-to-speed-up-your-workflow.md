@@ -3,9 +3,9 @@ unique-page-id: 37357306
 description: 使用快速動作加速您的工作流程——行銷人員檔案——產品檔案
 title: 使用快速動作加速您的工作流程
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ ht-degree: 0%
 
 **交付**
 
-| 封存 | 會將電子郵件新增至封存的資料夾，並停止所有停用檢視，然後按一下該電子郵件的追蹤。 |
+| 狀態 | 說明 |
 |---|---|
+| 封存 | 會將電子郵件新增至封存的資料夾，並停止所有停用檢視，然後按一下該電子郵件的追蹤。 |
 | 成功 | 會將電子郵件標示為成功，以便在範本分析中報告。 |
 
 **已封存**
@@ -84,13 +85,11 @@ ht-degree: 0%
 
 **後續動作**
 
-** ![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
+![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
 
-**
-
-| 傳送追蹤電子郵件 | 開啟合成視窗，並附加選取的內嵌電子郵件內文，以便傳送給收件者。 |
+| 函式 | 說明 |
 |---|---|
+| 傳送追蹤電子郵件 | 開啟合成視窗，並附加選取的內嵌電子郵件內文，以便傳送給收件者。 |
 | 撥打電話 | 開啟銷售電話，以呼叫電子郵件收件者。 |
 | 傳送InMail | 重新導向至LinkedIn，以傳送InMail訊息給該人。 |
 | 建立任務 | 開啟建立任務彈出窗口以建立提醒任務。 |
-
