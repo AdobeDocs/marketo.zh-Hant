@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Salesforce同步設定——行銷人員檔案——產品檔案
 title: Salesforce同步設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -86,12 +86,12 @@ ht-degree: 0%
 >
 >您需要有管理員權限才能設定此設定。
 
-1. 按一下&#x200B;**Setup *。* **
-1. 按一下&#x200B;**電子郵件管理&#x200B;*。* **
-1. 按一下「以電子郵件傳送至Salesforce **」。****
+1. 按一下&#x200B;**Setup**。
+1. 按一下&#x200B;**電子郵件管理**。
+1. 按一下「以電子郵件傳送至Salesforce **」。**
 1. 按一下&#x200B;**編輯**。
-1. 勾選「活動*」旁的方塊。*
-1. 按一下&#x200B;**保存&#x200B;*。* **
+1. 勾選「活動」旁的方塊。
+1. 按一下&#x200B;**保存**。
 
 ## 將銷售參與任務／提醒同步至Salesforce任務{#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
 
@@ -114,4 +114,3 @@ ht-degree: 0%
 1. 選擇所需的選項（預設會選取「不同步至Salesforce工作」）。
 
    ![](assets/eight.png)
-
