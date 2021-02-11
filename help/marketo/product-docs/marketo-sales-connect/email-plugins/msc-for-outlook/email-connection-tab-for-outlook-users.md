@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: Outlook使用者的「電子郵件連線」標籤——行銷人員檔案——產品檔案
 title: Outlook用戶的「電子郵件連接」頁籤
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/nine-a.png)
 
-   您可使用此連線來追蹤電子郵件，也可以使用[作為傳送渠道](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)。
+   您可以使用此連線來追蹤電子郵件，也可以當成傳送管道。
 
    >[!NOTE]
    >
@@ -97,8 +97,9 @@ ht-degree: 0%
 
    ![](assets/six-b.png)
 
-   | **Outlook Online** | 也稱為Office Online |
+   | 版本 | 說明 |
    |---|---|
+   | **Outlook Online** | 也稱為Office Online |
    | **Exchange現場** | 包括Exchange 2013和2016 |
 
 1. 輸入您的憑據，然後按一下&#x200B;**Connect**。
@@ -109,10 +110,8 @@ ht-degree: 0%
    >
    >如果您在「Exchange版本」下拉式清單中關閉Autodiscover，您將需要向IT部門詢問Exchange URL。
 
-   [作為傳送渠道](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)
+   您可以使用此連線來追蹤電子郵件，也可以當成傳送管道。
 
    >[!NOTE]
    >
    >使用Outlook做為傳送管道時，一次無法傳送超過300封大量電子郵件。
-
-您可使用此連線來追蹤電子郵件以及。
