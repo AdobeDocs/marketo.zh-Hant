@@ -3,7 +3,7 @@ unique-page-id: 13796471
 description: 即時動態消息概述——行銷人員檔案——產品檔案
 title: 即時動態消息概述
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -33,9 +33,6 @@ ht-degree: 0%
 >
 >* 如果您的收件者已登入某家公司的無線網路，而該公司的IT總部位於其他城市或國家，我們會記錄該位置，而非收件者的目前地區。
 >* 如果您的電子郵件是由「抄送／密件副本」欄位中的某人轉送或開啟，我們會嘗試準確顯示這些人的位置。
-
->
-
 
 
 ## 任務頁籤{#tasks-tab}
@@ -106,4 +103,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >如果您看到有人在即時動態消息中一遍又一遍地檢視您的電子郵件，他們可能會將電子郵件轉送給其他收件者。 如果您注意到這些檢視的位置開始變更，這很可能會發生。
-
