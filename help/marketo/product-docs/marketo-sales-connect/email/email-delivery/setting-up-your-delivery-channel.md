@@ -3,9 +3,9 @@ unique-page-id: 14746470
 description: 設定您的傳送渠道——行銷人員檔案——產品檔案
 title: 設定您的傳送渠道
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->除了設定SMTP伺服器外，您的[電子郵件標識還必須經過](http://docs.marketo.com/x/ewPh)驗證，才能發送電子郵件。
+>除了設定SMTP伺服器外，您的[電子郵件標識還必須經過](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)驗證，才能發送電子郵件。
 
 您可以選擇使用自訂SMTP伺服器、團隊SMTP伺服器或Gmail作為傳送管道來傳送電子郵件。 讓我們逐一檢視每個選項。
 
 ## 自定義SMTP {#custom-smtp}
 
-1. 登入[Web應用程式](http://toutapp.com/login)，按一下右上方的齒輪圖示，然後選擇「設定」****。
+1. 登入[Web應用程式](https://toutapp.com/login)，按一下右上方的齒輪圖示，然後選擇「設定」****。
 
    ![](assets/one.png)
 
@@ -63,15 +63,13 @@ ht-degree: 0%
    >
    >如果您的團隊管理員設定了團隊SMTP伺服器，它將自動僅應用於預設的電子郵件標識，並作為其他電子郵件標識的選項提供。
 
-   **觀看影片**`<iframe width="630" height="470" src="//play.vidyard.com/YWKSgZvBEjUU8FrXZ5hdYR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## 團隊SMTP伺服器{#team-smtp-server}
 
 >[!NOTE]
 >
 >**需要管理員權限**
 
-1. 登入[Web應用程式](http://toutapp.com/login)，按一下右上方的齒輪圖示，然後選擇「設定」****。
+1. 登入[Web應用程式](https://toutapp.com/login)，按一下右上方的齒輪圖示，然後選擇「設定」****。
 
    ![](assets/nine.png)
 
@@ -87,11 +85,9 @@ ht-degree: 0%
    >
    >團隊SMTP伺服器將是所有團隊成員預設電子郵件標識的預設傳送渠道。 此外，它也可作為所有其他電子郵件身分的傳送管道選項。
 
-   **觀看視訊**`<iframe width="630" height="470" src="//play.vidyard.com/Ky9EwGmLcgvsMpFq3H8Y6n.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## Gmail {#gmail}
 
-1. 登入[Web應用程式](http://toutapp.com/login)，按一下右上方的齒輪圖示，然後選擇「設定」****。
+1. 登入[Web應用程式](https://toutapp.com/login)，按一下右上方的齒輪圖示，然後選擇「設定」****。
 
    ![](assets/twelve.png)
 
@@ -108,6 +104,7 @@ ht-degree: 0%
    ![](assets/fifteen.png)
 
 1. 使用您的Google認證登入。
+
 1. 進入此螢幕時，按一下「允許」。****
 
    ![](assets/sixteen.png)
@@ -135,4 +132,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >如果您的團隊管理員設定了團隊SMTP伺服器，它將自動僅應用於預設的電子郵件標識，並作為其他電子郵件標識的選項提供。
-
