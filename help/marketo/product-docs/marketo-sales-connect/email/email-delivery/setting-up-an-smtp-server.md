@@ -3,9 +3,9 @@ unique-page-id: 14746594
 description: 設定SMTP伺服器——行銷文檔——產品文檔
 title: 設定SMTP伺服器
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '655'
 ht-degree: 0%
 
 ---
@@ -53,13 +53,17 @@ ht-degree: 0%
 * 變更使用者的O365密碼會導致連線中斷
 
 如果您使用Office365或Exchange Online，則可以使用一組標準憑據連接到SMTP伺服器。 請記住，Office365不是大量電子郵件傳送服務，不過這對於傳送一次性電子郵件非常有用。 在傳送大量電子郵件時，Office365可能會限制您的電子郵件，而這可能會導致傳送失敗。 要瞭解更多有關此資訊，請查看Microsoft在[上的文章，瞭解如何設定SMTP客戶端提交](http://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4)。
-`<blockquote>  <p>“You can only send from one email address unless your device can store login credentials for multiple Office 365 mailboxes. Office 365 imposes a limit of 30 messages sent per minute, and a limit of 10,000 recipients per day.”</p> </blockquote>`\
+
+「您只能從一個電子郵件地址傳送，除非您的裝置可以儲存多個Office 365郵箱的登入憑證。 Office 365規定每分鐘傳送30封訊息的限制，以及每天10,000封收件者的限制。」
+
 如果您決定使用Office365做為傳送管道，則需要輸入這些認證。 由於Office365使用使用者的電子郵件和密碼來連線，因此無法跨團隊使用相同的認證。
 
 Microsoft與大量傳送
 
-[按一](http://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#RecipientLimits) 下這裡，瞭解如何在Office365中大量傳送。 
-`<blockquote>  <p>“Exchange Online customers who need to send legitimate bulk commercial email (for example, customer newsletters) should use third-party providers that specialize in these services.”</p> </blockquote>`\
+[按一](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#RecipientLimits) 下這裡，瞭解如何在Office365中大量傳送。
+
+Exchange Online需要傳送合法大量商業電子郵件的客戶（例如，客戶電子報）應使用專門從事這些服務的第三方供應商。」
+
 **如果我的公司使用Gmail呢？**
 
 如果您的團隊想要使用Gmail作為Sales Connect的傳遞渠道，則不需要獲得任何SMTP憑證。 Sales Connect可讓使用者透過我們的OAuth整合，存取其Gmail傳送通道。 使用者可將Sales Connect帳戶與Gmail整合，以啟用此功能。
@@ -73,4 +77,3 @@ Microsoft與大量傳送
 如果您要連接到Office365，則憑證是基於電子郵件地址的。 這表示只有建立連線的電子郵件地址會經過驗證，才能透過該傳送管道傳送電子郵件，因此憑證應&#x200B;**不**&#x200B;共用。
 
 ![](assets/3.png)
-
