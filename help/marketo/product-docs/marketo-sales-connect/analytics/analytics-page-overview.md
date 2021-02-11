@@ -3,9 +3,9 @@ unique-page-id: 14352416
 description: Analytics頁面概觀——行銷檔案——產品檔案
 title: Analytics頁面概述
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 ## 這些數字意味著什麼？{#what-do-the-numbers-mean}
 
-`radials`中的數字會計算所有傳送電子郵件的事件總數。 如果這個數字有`single same email is viewed five times, it will add five views` 相同的想法會套用至在社交圈內計算的點按和回覆。
+半徑內的數字會計算所有傳送電子郵件的事件總數。 因此，如果同一封電子郵件被檢視了5次，則會在這個數字中增加5次檢視。 相同的想法會套用至在社交圈內計算的點按和回覆。
 
-我們保存在`table`中的所有統計資料，都會透過查看您電子郵件的獨特檢視、點按和回覆來計算。 如果`one email is viewed five times, we will count that as one view.`這就是您看到表格中數字與徑向表格中數字有很大差異的原因。
+我們儲存在表格中的所有統計資料都會透過查看您電子郵件的獨特檢視、點按和回覆來計算。 如果有5次檢視一封電子郵件，我們會將其視為一次檢視。 這就是為什麼你可能會看到表格中的數字和徑向數字有很大的差異。
 
 ## 分析頁籤{#analytic-tabs}
 
@@ -45,6 +45,6 @@ ht-degree: 0%
 
 內容標籤包含範本、內容和連結的統計資料。 您可以依每個人篩選，或依管理員建立的團隊篩選。
 
-如果您在主旨欄下看到藍色文字，表示範本為`shared`。 您可以按一下要擷取至該範本的藍色文字。 按一下&#x200B;**範本分析**&#x200B;以檢視其使用情形。
+如果您在主旨欄下看到藍色文字，表示範本已共用。 您可以按一下要擷取至該範本的藍色文字。 按一下&#x200B;**範本分析**&#x200B;以檢視其使用情形。
 
 當收件者按一下您電子郵件中的連結時，就會計入「內容點按次數」。
