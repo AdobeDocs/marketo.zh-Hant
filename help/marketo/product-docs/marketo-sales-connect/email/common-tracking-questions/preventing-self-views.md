@@ -3,7 +3,7 @@ unique-page-id: 14352540
 description: 防止自我檢視——行銷檔案——產品檔案
 title: 防止自我檢視
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Sales Connect會在您的瀏覽器中儲存Cookie，以防止在從Outlook網頁
 1. 在「Security（安全性）」下，按一下「Never **（從不）」單選按鈕。**
 
    ![](assets/mac-3.png)
-
