@@ -3,7 +3,7 @@ unique-page-id: 14746167
 description: 取消訂閱群組——行銷人員檔案——產品檔案
 title: 取消訂閱群組
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -24,6 +24,3 @@ ht-degree: 0%
 如果您是管理員，可前往取消訂閱群組以依「帳戶取消訂閱」進行篩選，並查看您的人員資料庫中收集到的所有取消訂閱。
 
 ![](assets/3.png)
-
-
-
