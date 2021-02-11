@@ -3,7 +3,7 @@ unique-page-id: 14352546
 description: 防止次要Gmail位址與Sales Connect - Marketo Docs —— 產品檔案整合
 title: 防止次要Gmail位址與Sales Connect整合
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Sales Connect透過Chrome瀏覽器中安裝的擴充功能與Gmail整合。 每�
 
 以其他Chrome使用者身分登入（建議）
 
-按一下[此連結](http://support.google.com/chrome/answer/2364824?hl=en)以閱讀如何建立其他Chrome設定檔。
+按一下[此連結](https://support.google.com/chrome/answer/2364824?hl=en)以閱讀如何建立其他Chrome設定檔。
 
 **專業**:以其他使用者身分登入，將會開啟新的Chrome例項。此例項是Chrome的全新視窗，您的舊擴充功能不會存在此視窗中。 它還保存了cookies，因此您不必每次都登入Gmail。
 
