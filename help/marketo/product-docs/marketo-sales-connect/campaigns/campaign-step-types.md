@@ -3,9 +3,9 @@ unique-page-id: 14746690
 description: 促銷活動步驟類型——行銷人員檔案——產品檔案
 title: 促銷活動步驟類型
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->瞭解有關[傳送選項](http://docs.marketo.com/x/7QDb)的詳細資訊。
+>瞭解有關[傳送選項](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md)的詳細資訊。
 
 ## 呼叫{#call}
 
@@ -50,4 +50,3 @@ ht-degree: 0%
 當上述選項不適用時，請使用自訂工作。 例如，您可以邀請同事透過電子郵件追蹤銷售線索。
 
 ![](assets/custom.png)
-
