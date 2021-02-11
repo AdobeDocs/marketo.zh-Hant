@@ -3,7 +3,7 @@ unique-page-id: 14352484
 description: 如何修正連線至Salesforce —— 行銷人員檔案——產品檔案時的「我們無法驗證您的請求」
 title: 如何修正連線至Salesforce時的「我們無法驗證您的請求」
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -31,4 +31,3 @@ ht-degree: 0%
 1. 選擇&#x200B;**管理應用程式**。
 1. 選擇「**連接的應用程式OAuth使用**」。
 1. 請確定Sales Connect旁邊顯示「塊」。 如果您看到「取消阻止」，請按一下按鈕以取消阻止Sales Connect對Salesforce的訪問。
-
