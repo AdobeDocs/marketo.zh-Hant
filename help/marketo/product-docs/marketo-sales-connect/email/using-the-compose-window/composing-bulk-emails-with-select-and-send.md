@@ -3,9 +3,9 @@ unique-page-id: 37356578
 description: 使用選擇和傳送功能撰寫大量電子郵件——行銷人員檔案——產品檔案
 title: 使用選擇和傳送撰寫大量電子郵件
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. 輸入主旨行，選取範本（或從頭撰寫電子郵件），然後傳送/[排程](http://docs.marketo.com/x/GAQ6Ag)電子郵件。
+1. 輸入主旨行，選取範本（或從頭撰寫電子郵件），然後傳送/[排程](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)電子郵件。
 
    ![](assets/four-2.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 **大量編輯**
 
-1. 請遵循[傳送電子郵件區段](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)中的步驟1-3。
+1. 請遵循[傳送電子郵件區段](#sending-emails)中的步驟1-3。
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >您可以按一下特定的電子郵件收件者，查看傳播至該電子郵件的變更。
 
-1. 按一下「傳送&#x200B;****（或[排程](http://docs.marketo.com/x/GAQ6Ag)）」，以透過您進行的大量電子郵件更新傳送給所有收件者。
+1. 按一下「傳送&#x200B;****（或[排程](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)）」，以透過您進行的大量電子郵件更新傳送給所有收件者。
 
    ![](assets/bulk-four.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 在自訂每封電子郵件之前完成大量更新，因為大量更新會覆寫大量合成側欄中每封電子郵件的變更。
 
-1. 遵循[傳送電子郵件區段中的步驟1-4。](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
+1. 請遵循[傳送電子郵件區段](#sending-emails)中的步驟1-4。
 
    >[!NOTE]
    >
@@ -89,17 +89,13 @@ ht-degree: 0%
    >
    >您可以按一下其他收件者，查看您對先前選取之收件者所做的變更未顯示。
 
-1. 按一下「傳送&#x200B;****（或[排程](http://docs.marketo.com/x/GAQ6Ag)）」，以透過您進行的大量電子郵件更新傳送給所有收件者。
+1. 按一下「傳送&#x200B;****（或[排程](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)）」，以透過您進行的大量電子郵件更新傳送給所有收件者。
 
    ![](assets/each-four.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [大量傳送選項](http://docs.marketo.com/x/HwQ6Ag)
-   >    * [在合成窗口中使用模板](http://docs.marketo.com/x/MQQ6Ag)
-   >    * [動態欄位](http://docs.marketo.com/x/wwDb)
-
+   >* [大量傳送選項](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+   >* [在合成窗口中使用模板](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+   >* [動態欄位](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
 
