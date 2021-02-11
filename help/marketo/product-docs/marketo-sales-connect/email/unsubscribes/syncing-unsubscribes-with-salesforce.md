@@ -3,9 +3,9 @@ unique-page-id: 14746188
 description: 將取消訂閱與Salesforce —— 行銷人員檔案——產品檔案同步
 title: 將取消訂閱與Salesforce同步
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 使用者可決定要將他們的未訂閱者與Marketo也可以同步的標準「電子郵件退出」欄位同步，或是與「Marketo銷售者退出」欄位同步，以便區分銷售者未訂閱者和行銷者未訂閱者。
 
-1. 前往[Web應用程式](http://toutapp.com/login)，按一下齒輪圖示並選取&#x200B;**設定**。
+1. 前往[Web應用程式](https://toutapp.com/login)，按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/one-1.png)
 
@@ -47,8 +47,9 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-   | **同步至Salesforce選擇退出欄位** | 依預設選取，只會更新「Salesforce選擇退出」欄位。 |
+   | 欄位 | 說明 |
    |---|---|
+   | **同步至Salesforce選擇退出欄位** | 依預設選取，只會更新「Salesforce選擇退出」欄位。 |
    | **同步至Marketo Sales Opt Out欄位** | 如果要將「銷售」和「行銷」取消訂閱分開，請選擇此選項以更新附加的[「行銷人員退出選項」欄位。](#msoo) |
 
 ## 在頁面佈局{#installing-the-opt-out-field-in-the-page-layout}中安裝退出欄位
@@ -57,7 +58,7 @@ ht-degree: 0%
 
 「退出電子郵件」是Salesforce中可從Salesforce安裝的標準欄位。 您必須是Salesforce管理員才能安裝它。
 
-1. 前往[Salesforce.com](http://Salesforce.com)並登入。
+1. 前往[Salesforce.com](https://salesforce.com)並登入。
 
    ![](assets/five-1.png)
 
