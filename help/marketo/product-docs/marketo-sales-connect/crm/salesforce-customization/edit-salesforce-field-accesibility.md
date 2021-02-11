@@ -3,7 +3,7 @@ unique-page-id: 14352472
 description: 編輯Salesforce Field Accessibility —— 行銷檔案——產品檔案
 title: 編輯Salesforce欄位可存取性
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -20,4 +20,3 @@ ht-degree: 0%
 * 與您的Salesforce管理員合作，以確保這些安全性設定不會干擾Sales Connect。
 
 * 如果您是Salesforce管理員，您可以在「安全性控制項」標籤下看到您的「欄位協助工具」。 Sales Connect將與之互動的主要欄位有：Account 、 Contacts 、 Opportunity 、 Lead和Task。
-
