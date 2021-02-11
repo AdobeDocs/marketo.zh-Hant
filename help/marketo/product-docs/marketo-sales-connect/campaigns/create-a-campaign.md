@@ -3,9 +3,9 @@ unique-page-id: 14352618
 description: 建立促銷活動——行銷檔案——產品檔案
 title: 建立促銷活動
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >按一下&#x200B;**類別**&#x200B;旁的** +**，建立新類別。
+   >按一下&#x200B;**類別**&#x200B;旁的&#x200B;**+**&#x200B;建立新類別。
 
 1. 您選擇的類別將被選取。 如果您改變主意，請按一下下拉式清單並選取其他下拉式清單。 完成後，按一下&#x200B;**繼續**。
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. 選擇：電子郵件、呼叫、InMail或自訂工作。 在此示例中，我們選擇[電子郵件](http://docs.marketo.com/display/DOCS/Campaign+Step+Types#CampaignStepTypes-Email)。
+1. 選擇：電子郵件、呼叫、InMail或自訂工作。 在此示例中，我們選擇[電子郵件](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email)。
 
    ![](assets/five-1.png)
 
@@ -54,11 +54,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >「天數」不是兩次動作間隔的天數，而是序列中的天數。 例如，如果您的促銷活動將持續7天，輸入&#39;3&#39;表示動作將在第3天（共7天）開始， **不會在第3天後開始。
+   >「天數」不是兩次動作間隔的天數，而是序列中的天數。 例如，如果您的促銷活動持續7天，輸入&#39;3&#39;表示動作將在第3天（共7天）開始，**not** 3天後開始。
 
 1. 請務必自訂排程和回覆選項，例如造訪促銷活動的&#x200B;**設定標籤**，以跳過週末（真是太棒了）。
 
    ![](assets/seven.png)
 
    現在是開始將人員新增至促銷活動的時候了！
-
