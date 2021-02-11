@@ -3,9 +3,9 @@ unique-page-id: 14352407
 description: 傳送渠道概觀——行銷人員檔案——產品檔案
 title: 傳送渠道概觀
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->只有當您從[Web應用程式](http://toutapp.com/login)傳送電子郵件時，才會有此資訊。 如果您在Gmail或Outlook中使用Sales Connect，您的電子郵件會透過這些電子郵件伺服器傳送。
+>只有當您從[Web應用程式](https://toutapp.com/login)傳送電子郵件時，才會有此資訊。 如果您在Gmail或Outlook中使用Sales Connect，您的電子郵件會透過這些電子郵件伺服器傳送。
 
 ## MSC電子郵件伺服器（預設）{#msc-email-servers-default}
 
 依預設，系統會選取此方法來傳送您的電子郵件。 MSC電子郵件伺服器是不使用Gmail或Outlook的使用者的絕佳選擇。 此外，由於它們是我們的伺服器，因此我們能夠接收任何有關彈回或交付失敗的錯誤消息，並在「對話」頁籤的「交付失敗」部分將其呈現給您。
 
-使用MSC伺服器的另一個好處是，當使用[電子郵件身份](https://help.toutapp.com/hc/en-us/articles/215371427)時，收件人將看到您建立的身份的電子郵件地址。
+使用MSC伺服器的另一個好處是，當使用[電子郵件身份](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)時，收件人將看到您建立的身份的電子郵件地址。
 
 當使用MSC伺服器時，您的收件者可能會看到「via toutapp.com」標籤。 這是他們的電子郵件客戶，讓他們知道電子郵件是使用Sales Connect傳送的。
 
@@ -48,4 +48,3 @@ ht-degree: 0%
 ## 自定義SMTP伺服器{#custom-smtp-server}
 
 為您自己的伺服器付費？ 使用Microsoft Exchange環境？ 這是您的選擇。 請參閱[這些有關設定的說明](http://docs.marketo.com/x/zYTS)。 與Gmail伺服器一樣，由於Sales Connect不直接管理您的伺服器，因此我們不會在Web應用程式中記錄跳回的電子郵件事件。
-
