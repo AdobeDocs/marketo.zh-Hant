@@ -3,9 +3,9 @@ unique-page-id: 37356593
 description: 使用合成窗口——行銷文檔——產品文檔中的模板
 title: 在合成窗口中使用模板
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -69,13 +69,4 @@ ht-degree: 0%
    >
    >**依預** 設，位於此處的「收藏」。它包含最愛的電子郵件範本，而非類別。
 
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [動態欄位](http://docs.marketo.com/x/wwDb)
-   >    * [使用範本](http://docs.marketo.com/display/DOCS/Templates)
-
-
-您選取的類別現在已固定。
+   您選取的類別現在已固定。
