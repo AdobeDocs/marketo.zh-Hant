@@ -3,9 +3,9 @@ unique-page-id: 14352520
 description: 如何傳送群組電子郵件——行銷人員檔案——產品檔案
 title: 如何傳送群組電子郵件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -19,30 +19,31 @@ ht-degree: 0%
 >
 >將電子郵件收件者分組，每個收件者都會收到自己的個人化訊息。 我們也會針對每個收件者提供個別的追蹤統計資料。
 
-按一下[這裡](http://docs.marketo.com/x/JITS)，以取得建立新連絡人群組的逐步指南（必要項目是傳送多個連絡人電子郵件給群組）。
+按一下[這裡](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)，以取得建立新連絡人群組的逐步指南（必要項目是傳送多個連絡人電子郵件給群組）。
 
 ## 向群組輸出電子郵件{#tout-an-email-to-a-group}
 
-1. 導覽至我們網頁應用程式上的[People](http://toutapp.com/next#relationships)頁面。
+1. 導覽至我們網頁應用程式上的[People](https://toutapp.com/login)頁面。
 
    >[!NOTE]
    >
    >如果您使用Gmail或Outlook外掛程式，則需要導覽至網頁應用程式，以傳送群組電子郵件。
 
 1. 選擇要以電子郵件傳送的群組。
+
 1. 按一下&#x200B;**電子郵件組**&#x200B;按鈕。
+
 1. 選擇電子郵件範本。
 
    >[!TIP]
    >
-   >群組的每個成員都會收到相同的電子郵件，因此請確定範本包含[動態欄位](http://docs.marketo.com/x/QITS)，以個人化每位收件者的訊息。
+   >群組的每個成員都會收到相同的電子郵件，因此請確定範本包含[動態欄位](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)，以個人化每位收件者的訊息。
 
 1. 按一下「預覽」，在傳送電子郵件前先檢閱電子郵件。****
 1. 當電子郵件準備就緒時，按一下「傳送&#x200B;**」。**
 
-現在，開啟您的Sales Connect [即時動態消息](http://toutapp.com/next#live)，當收件者開始使用您的電子郵件時，請留意。
+現在，開啟您的Sales Connect [即時動態消息](https://toutapp.com/login)，當收件者開始使用您的電子郵件時，請留意。
 
 >[!NOTE]
 >
 >群組電子郵件的收件者無法告知他們是大量傳送的一部分。
-
