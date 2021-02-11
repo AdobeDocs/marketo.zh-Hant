@@ -3,7 +3,7 @@ unique-page-id: 14352619
 description: 使用促銷活動中的工作——行銷檔案——產品檔案
 title: 在促銷活動中使用工作
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
