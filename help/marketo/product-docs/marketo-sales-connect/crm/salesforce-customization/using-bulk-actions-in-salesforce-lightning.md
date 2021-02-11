@@ -3,9 +3,9 @@ unique-page-id: 42762825
 description: 在Salesforce Lightning中使用大量動作——行銷檔案——產品檔案
 title: 在Salesforce Lightning中使用大量動作
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->更新至最新版的Sales Connect套件，並在銷售機會／聯絡人檢視中安裝大量動作按鈕。 [按一下這裡以取得指示](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)。
+>更新至最新版的Sales Connect套件，並在銷售機會／聯絡人檢視中安裝大量動作按鈕。 [按一下這裡以取得指示](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)。
 
 >[!NOTE]
 >
@@ -84,10 +84,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [透過群組電子郵件傳送電子郵件](http://docs.marketo.com/x/KAQ6Ag)
->* [使用選擇和傳送撰寫大量電子郵件](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
-
->
-
-
+>* [透過群組電子郵件傳送電子郵件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [使用選擇和傳送撰寫大量電子郵件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 
