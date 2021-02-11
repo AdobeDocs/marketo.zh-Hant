@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: 透過群組電子郵件傳送電子郵件——行銷人員檔案——產品檔案
 title: 透過群組電子郵件傳送電子郵件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,8 @@ ht-degree: 0%
 
 ## 編輯群組電子郵件{#editing-a-group-email}
 
-1. 使用[上述步驟1-3建立群組電子郵件。](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail)
+1. 使用[上述步驟1-3建立群組電子郵件。](#sending-a-group-email)
+
 1. 選擇範本，或填寫您的電子郵件。
 
    ![](assets/edit-two.png)
@@ -58,11 +59,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [大量傳送選項](http://docs.marketo.com/x/HwQ6Ag)
->* [在合成窗口中使用模板](http://docs.marketo.com/x/MQQ6Ag)
->* [動態欄位](http://docs.marketo.com/x/wwDb)
-
->
-
-
+>* [大量傳送選項](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+>* [在合成窗口中使用模板](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 
