@@ -3,9 +3,9 @@ unique-page-id: 27656223
 description: 為專業版客戶安裝Salesforce自訂——行銷檔案——產品檔案
 title: 為專業版客戶安裝Salesforce自訂
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,6 @@ ht-degree: 0%
 >
 >* 銷售連線管理員需要連接其Salesforce和Sales Connect帳戶。
 >* 使用的Salesforce例項需要有空間才能安裝十三個自訂活動欄位。
-
->
-
 
 
 ## 安裝{#installation}
@@ -40,7 +37,7 @@ ht-degree: 0%
    >
    >如果您已連線，您會看到綠色的「安裝」按鈕。 **不要** 按一下此按鈕，請改為繼續步驟4。
 
-1. 登入您所連接的Salesforce帳戶，然後按一下[此連結](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ)。
+1. 登入您所連接的Salesforce帳戶，然後按一下[此連結](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ)。
 1. 您將會被傳送至Sales Connect安裝頁面。
 
    ![](assets/install-package.png)
@@ -58,7 +55,8 @@ ht-degree: 0%
    >
    >Sales Engage是Sales Connect的先前名稱。
 
-   [Salesforce Classic的安裝指南](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+## 參考線{#guides}
 
-   [Salesforce Lightning的安裝指南](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Salesforce Classic的安裝指南](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
+[Salesforce Lightning的安裝指南](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
