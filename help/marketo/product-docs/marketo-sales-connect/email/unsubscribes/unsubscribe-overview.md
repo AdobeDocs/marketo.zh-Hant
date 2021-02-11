@@ -3,7 +3,7 @@ unique-page-id: 14746161
 description: 取消訂閱概觀——行銷人員檔案——產品檔案
 title: 取消訂閱概觀
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -20,4 +20,3 @@ ht-degree: 0%
 * 取消訂閱資訊儲存在PDF中
 * 取消訂閱可以手動完成：按一下「連結」、「Salesforce同步」和「彈回數」
 * 新的取消訂閱連結登陸頁面
-
