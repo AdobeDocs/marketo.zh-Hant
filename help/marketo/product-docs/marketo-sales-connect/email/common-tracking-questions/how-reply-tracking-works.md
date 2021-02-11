@@ -3,9 +3,9 @@ unique-page-id: 14352482
 description: 回覆追蹤的運作方式——行銷檔案——產品檔案
 title: 回覆追蹤的運作方式
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->**與電子郵件伺服器的連** 接： Sales Connect必須與您的收件箱連接，以便我們知道何時收到新的回復。您需要將Sales Connect帳戶[連接到Gmail](http://docs.marketo.com/x/kYMOAQ)。 如果您使用Outlook，我們需要與[exchange伺服器](http://toutapp.com/next#settings/exchange_settings)整合。
+>**與電子郵件伺服器的連** 接： Sales Connect必須與您的收件箱連接，以便我們知道何時收到新的回復。您需要將Sales Connect帳戶[連接到Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)。 如果您使用Outlook，我們需要與[exchange伺服器](https://toutapp.com/next#settings/exchange_settings)整合。
 
 如果Sales Connect無法追蹤潛在客戶對您電子郵件的回覆，將無法根據回覆偵測或記錄回覆至Salesforce的促銷活動。  我們指的是，任何電子郵件地址都能回覆？
 
-這表示，如果您以電子郵件傳送[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#783217162b16170f3830170d0b1d2b0c190a13561b1715)，而他以[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#c08aafae93aeafb78094a8a58ea9a7a8b4b397a1b4a3a8eea3afad)回覆，我們可以追蹤回覆。 此外，如果您以電子郵件傳送[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#450f2a2b162b2a32050d2a303620163124372e6b262a28)和CC [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#3e5f525f507e5b505d5153105d5153)，而Alan又將您回覆，它也會偵測回覆並結束促銷活動。
+這表示，如果您以電子郵件寄送flynn@flynnsarcade.com，而他以kevinf@flynnsarcade.com回覆，我們就可以追蹤回覆。 此外，如果您以電子郵件寄送flynn@flynnsarcade.com和CC alan@encom.com，而Alan又將您回信，它也會偵測回覆並結束促銷活動。
