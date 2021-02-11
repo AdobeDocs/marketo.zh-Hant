@@ -3,9 +3,9 @@ unique-page-id: 14745611
 description: 新增至行銷促銷活動——行銷檔案——產品檔案
 title: 新增至行銷促銷活動
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[讓促銷活動對銷售使用者可見](http://docs.marketo.com/x/NwDh)
+>[讓促銷活動對銷售使用者可見](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
 ## 將個人新增至促銷活動{#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
->為了從Sales Connect將人員新增至Marketo Campaign,Sales Connect必須擁有該人員的Marketo銷售線索ID。 [在這裡瞭解如何擷取Marketo ID](http://docs.marketo.com/x/CQXLAQ)。
+>為了從Sales Connect將人員新增至Marketo Campaign,Sales Connect必須擁有該人員的Marketo銷售線索ID。 [在這裡瞭解如何擷取Marketo ID](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)。
 
 1. 按一下&#x200B;**People**&#x200B;頁籤。
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >為了從Sales Connect將人員新增至Marketo Campaign,Sales Connect必須擁有該人員的Marketo銷售線索ID。 [在這裡瞭解如何擷取Marketo ID](http://docs.marketo.com/x/CQXLAQ)。
+   >為了從Sales Connect將人員新增至Marketo Campaign,Sales Connect必須擁有該人員的Marketo銷售線索ID。 [在這裡瞭解如何擷取Marketo ID](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)。
 
 1. 按一下「工作區」下拉式清單，然後選擇包含您要新增群組之促銷活動的工作區。
 
@@ -104,4 +104,3 @@ ht-degree: 0%
 1. 您會看到符合資格的聯絡人。 按一下&#x200B;**開始**&#x200B;以添加它們。
 
    ![](assets/nine.png)
-
