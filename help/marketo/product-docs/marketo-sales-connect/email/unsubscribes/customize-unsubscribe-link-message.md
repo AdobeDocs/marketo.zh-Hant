@@ -3,9 +3,9 @@ unique-page-id: 14746186
 description: 自訂取消訂閱連結訊息——行銷人員檔案——產品檔案
 title: 自訂取消訂閱連結訊息
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 自定義消息傳遞{#customize-messaging-for-yourself}
 
-1. 登入[Web應用程式](http://toutapp.com/login)，按一下右上方的齒輪圖示，然後選擇「設定」****。
+1. 登入[Web應用程式](https://toutapp.com/login)，按一下右上方的齒輪圖示，然後選擇「設定」****。
 
    ![](assets/one.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 為您的團隊設定取消訂閱消息{#set-unsubscribe-messaging-for-your-team}
 
-1. 登入[Web應用程式](http://toutapp.com/login)，按一下右上方的齒輪圖示，然後選擇「設定」****。
+1. 登入[Web應用程式](https://toutapp.com/login)，按一下右上方的齒輪圖示，然後選擇「設定」****。
 
    ![](assets/six.png)
 
@@ -62,4 +62,3 @@ ht-degree: 0%
 1. 選擇&#x200B;**I am setting the default messaging for my team**&#x200B;以使消息傳遞應用於所有用戶。
 
    ![](assets/eleven.png)
-
