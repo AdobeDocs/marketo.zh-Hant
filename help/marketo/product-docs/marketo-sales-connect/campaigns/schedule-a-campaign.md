@@ -3,7 +3,7 @@ unique-page-id: 14352612
 description: 排程促銷活動——行銷人員檔案——產品檔案
 title: 排程促銷活動
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 按一下&#x200B;**Next**&#x200B;後，您就可以預覽第一封電子郵件。
 
-再按一下**下一個**後，您會被帶到一個選項，供您選擇何時退出促銷活動。 您可以讓促銷活動立即開始，或排程稍後的時間開始促銷活動。
+再次按一下&#x200B;**Next**&#x200B;後，您會被帶到一個選項，供您選擇何時退出促銷活動。 您可以讓促銷活動立即開始，或排程稍後的時間開始促銷活動。
