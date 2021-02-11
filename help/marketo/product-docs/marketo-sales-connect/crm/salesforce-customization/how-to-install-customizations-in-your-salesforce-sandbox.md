@@ -3,9 +3,9 @@ unique-page-id: 15368208
 description: 如何在您的Salesforce沙盒——行銷人員檔案——產品檔案中安裝自訂
 title: 如何在Salesforce沙盒中安裝自訂
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[將Sales Connect連線至您的Salesforce沙盒](http://docs.marketo.com/x/DYDq)
+>[將Sales Connect連線至您的Salesforce沙盒](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
 1. 在Sales Connect中，按一下右上角的齒輪表徵圖，然後選擇&#x200B;**Settings**。
 
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-   接下來，您只需執行安裝自訂的步驟，就像在一般Salesforce帳戶中一樣。 請跳至此視訊[的1分鐘標籤，以取得其他資訊。](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce)
-
+   接下來，您只需執行安裝自訂的步驟，就像在一般Salesforce帳戶中一樣。
