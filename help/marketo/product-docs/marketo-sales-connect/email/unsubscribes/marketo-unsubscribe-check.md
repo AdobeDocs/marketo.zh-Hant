@@ -3,7 +3,7 @@ unique-page-id: 18317340
 description: Marketo取消訂閱檢查- Marketo Docs —— 產品檔案
 title: Marketo取消訂閱檢查
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -45,4 +45,3 @@ Marketo Unsubscribe Check會使用您團隊與Market的連線，防止電子郵�
 * 需要建立Market才能建立連線
 * 是全域設定
 * 封鎖從Web應用程式、電子郵件客戶端和Salesforce傳送的電子郵件
-
