@@ -3,7 +3,7 @@ unique-page-id: 14352622
 description: 略過週末——行銷人員檔案——產品檔案
 title: 略過週末
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 當自動化促銷活動時，您可能不希望您的電子郵件在星期六或星期日外傳。 如果沒有，您就可以略過週末。
 
-1. 在Sales Connect中，按一下「促銷活動」標籤。
+1. 在Sales Connect中，按一下&#x200B;**Campaigns**&#x200B;頁籤。
 
    ![](assets/one-2.png)
 
@@ -34,4 +34,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >若不略過週末，您的電子郵件會根據每週7天的例行計畫。
-
