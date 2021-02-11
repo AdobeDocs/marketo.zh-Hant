@@ -3,7 +3,7 @@ unique-page-id: 14352608
 description: 從促銷活動移除人員——行銷人員檔案——產品檔案
 title: 從促銷活動移除人員
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -72,4 +72,3 @@ ht-degree: 0%
 1. 按一下「動作」****，然後選擇「移除從促銷活動選取的項目」**。**
 
    ![](assets/four-b.png)
-
