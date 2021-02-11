@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: 如何將銷售連線連接至您的Salesforce沙盒——行銷人員檔案——產品檔案
 title: 如何將Sales Connect連接至您的Salesforce沙盒
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->當建立與沙盒的連線時，您的Sales Connect帳戶已無法連線至Salesforce。 如果是，請在遵循本文中的步驟之前，先確定您已斷開連接](http://docs.marketo.com/x/FoDq)。[
+>當建立與沙盒的連線時，您的Sales Connect帳戶已無法連線至Salesforce。 如果是，請在遵循本文中的步驟之前，先確定您已斷開連接](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)。[
 
 1. 在Sales Connect中，按一下右上角的齒輪表徵圖，然後選擇&#x200B;**Settings**。
 
@@ -43,5 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[如何在Salesforce沙盒中安裝自訂](http://docs.marketo.com/x/EIDq)
-
+>[如何在Salesforce沙盒中安裝自訂](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
