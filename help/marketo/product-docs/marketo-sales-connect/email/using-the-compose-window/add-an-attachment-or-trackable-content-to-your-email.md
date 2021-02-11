@@ -3,7 +3,7 @@ unique-page-id: 37356587
 description: 將附件或可追蹤的內容新增至您的電子郵件——行銷人員檔案——產品檔案
 title: 將附件或可追蹤的內容新增至電子郵件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -70,4 +70,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >當使用者檢視其追蹤內容時，即時動態消息會通知使用者。 使用者也可以在「分析」頁面的內容區段中看到效能最高的內容。
-
