@@ -3,9 +3,9 @@ unique-page-id: 14352538
 description: 測試電子郵件未顯示為已檢視——行銷檔案——產品檔案
 title: 測試未顯示為已檢視的電子郵件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,8 @@ ht-degree: 0%
 
 這裡是如何到達我們唯一展示自我追蹤的地方。
 
-1. 轉到[命令中心](http://toutapp.com/next#emails/command_center)。
-1. 在「已傳送」資料夾中尋找您自己寄送的電子郵件，並加以選取。
-1. 按一下&#x200B;**Details**&#x200B;按鈕。 您應該會看到自己的檢視出現在那裡。
+1. 轉到[命令中心](https://toutapp.com/)。
 
+1. 在「已傳送」資料夾中尋找您自己寄送的電子郵件，並加以選取。
+
+1. 按一下&#x200B;**Details**&#x200B;按鈕。 您應該會看到自己的檢視出現在那裡。
