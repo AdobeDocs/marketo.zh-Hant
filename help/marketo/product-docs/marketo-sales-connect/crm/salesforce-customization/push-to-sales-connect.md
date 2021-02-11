@@ -3,9 +3,9 @@ unique-page-id: 14352477
 description: 推送至銷售連線——行銷人員檔案——產品檔案
 title: 推送至Sales Connect
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ## 要求{#requirements}
 
-* `Salesforce Admin`安裝的Sales Connect [Salesforce套件](http://docs.marketo.com/x/C4PS)
+* 由Salesforce管理員安裝的Sales Connect Salesforce套件
 
-* `Push to Sales Connect`按鈕，列出查看依據  `Salesforce Admin`
+* 「推送至銷售連線」按鈕已安裝至清單檢視，由Salesforce管理員
 
 * 使用Sales Connect建立的Salesforce連線，適用於進行推播的使用者
 
@@ -30,11 +30,10 @@ ht-degree: 0%
 1. 按一下&#x200B;**Go**。
 1. 選擇要推送到成品的所有銷售線索／聯繫人。
 1. 選擇&#x200B;**推送至MSE**。
-1. 將出現一個新窗口，驗證您要推送的銷售線索／聯繫人數。 選擇&#x200B;**繼續到組**。 Sales Connect `will not push over`在Salesforce中標示為`Email Opt Out`或在Sales Connect中標示為`Unsubscribed`的任何連絡人。
+1. 將出現一個新窗口，驗證您要推送的銷售線索／聯繫人數。 選擇&#x200B;**繼續到組**。 Sales Connect不會推送任何標示為「在Salesforce中選擇退出電子郵件」或「在Sales Connect中取消訂閱」的連絡人。
 
    >[!NOTE]
    >
    >Sales Connect將添加名為&quot;SFDC-..&quot;的組 到[Web應用程式](http://toutapp.com/login)上的「關係」頁。
 
 1. 選擇&#x200B;**以電子郵件傳送整個群組**&#x200B;以傳送此群組電子郵件。
-
