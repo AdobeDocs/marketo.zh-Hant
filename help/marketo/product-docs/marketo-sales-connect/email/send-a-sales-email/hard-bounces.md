@@ -3,9 +3,9 @@ unique-page-id: 14352524
 description: 硬彈回數——行銷檔案——產品檔案
 title: 硬彈回數
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,9 @@ ht-degree: 0%
 
 ## 銷售聯繫如何處理硬反彈？{#how-does-sales-connect-handle-a-hard-bounce}
 
-- 如果電子郵件正在透過ToutApp伺服器，我們會管理硬彈回數。
+* 如果電子郵件正在透過ToutApp伺服器，我們會管理硬彈回數。
 
-- 如果電子郵件正在您自己的伺服器中傳輸，請咨詢您的SMTP提供程式。 在這種情況下，Sales Connect不會收到硬彈回的通知。
-
->[!NOTE]
->
->想要設定Sales Connect以通過您自己的SMTP提供程式嗎？ 只要前往[這裡](http://docs.marketo.com/x/zYTS)即可。
+* 如果電子郵件正在您自己的伺服器中傳輸，請咨詢您的SMTP提供程式。 在這種情況下，Sales Connect不會收到硬彈回的通知。
 
 ## 拒收電子郵件清單{#list-of-bounced-emails}
 
@@ -31,9 +27,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
 >只有當您透過ToutApp伺服器傳送電子郵件時，才會顯示遭拒的電子郵件。 如果您要透過自己的伺服器傳送，我們無法看到您的彈回。
 
 按一下電子郵件會提供更多有關其被拒絕原因的詳細資訊。
-
