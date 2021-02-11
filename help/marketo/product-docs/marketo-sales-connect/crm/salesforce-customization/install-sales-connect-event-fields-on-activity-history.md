@@ -3,7 +3,7 @@ unique-page-id: 14352475
 description: 在活動歷史記錄——行銷人員文檔——產品文檔中安裝Sales Connect事件欄位
 title: 在活動歷史記錄上安裝Sales Connect事件欄位
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -35,4 +35,3 @@ ht-degree: 0%
 1. 按一下&#x200B;**保存**。
 
    您的使用者現在可以在Salesforce中看到有關其電子郵件的重要資訊和更新！
-
