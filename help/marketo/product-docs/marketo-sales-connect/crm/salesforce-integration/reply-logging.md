@@ -3,9 +3,9 @@ unique-page-id: 14352480
 description: 回覆記錄(SFDC)-行銷檔案——產品檔案
 title: 回覆記錄(SFDC)
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -18,14 +18,13 @@ Sales Connect可讓您自動記錄潛在客戶對Salesforce的回覆。 可讓�
 ## 要求{#requirements}
 
 * 必須透過API記錄記錄來記錄電子郵件
-* 必須能夠[追蹤回覆](http://docs.marketo.com/x/BYPS)
+* 必須能夠[追蹤回覆](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md)
 * 必須與Salesforce連線
-* 必須有Salesforce [API呼叫](http://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm)可用
+* 必須有Salesforce [API呼叫](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm)可用
 
 ## 啟用回覆記錄{#enable-reply-logging}
 
-1. 若要啟用回覆記錄，您可以前往[Salesforce設定](http://docs.marketo.com/pages/assets/external-link.jspa)頁面。 一旦勾選API記錄，您就會看到選項來勾選*記錄回覆。\
-   *
+1. 若要啟用回覆記錄，您可以前往Salesforce設定頁面。 勾選API記錄後，您會看到選項，以勾選&#x200B;_記錄回覆_。
 
    >[!NOTE]
    >
@@ -35,7 +34,7 @@ Sales Connect可讓您自動記錄潛在客戶對Salesforce的回覆。 可讓�
 
 從Salesforce報表中取得有意義的資料非常重要。 讓「類型」欄位填入為「回覆」的功能可讓您透過報表取得該資料。 與您的`Salesforce admin`合作以取得此設定。
 
-1. 請至**Setup **> **Customize **> **Activity **> **Task Fields**。
+1. 轉至「**設定** > **自定義** > **活動** > **任務欄位**」。
 1. 按一下&#x200B;**類型**。
 1. 在「任務類型選擇清單值」下，按一下「新建」。****
 1. 在空白方塊中輸入「回覆」。 請務必將&#39;R&#39;大寫，然後按一下&#x200B;**Save**。
@@ -43,4 +42,3 @@ Sales Connect可讓您自動記錄潛在客戶對Salesforce的回覆。 可讓�
    >[!NOTE]
    >
    >您不需要在「類型」(Type)選擇清單下選擇「預設」(Default)。 Sales Connect將會看到此活動類型可用於您的Salesforce實例，並相應地在傳入活動中填入任務欄位。
-
