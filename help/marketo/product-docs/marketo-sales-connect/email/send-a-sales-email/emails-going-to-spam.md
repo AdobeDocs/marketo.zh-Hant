@@ -3,7 +3,7 @@ unique-page-id: 14352586
 description: 前往垃圾郵件的電子郵件——行銷人員檔案——產品檔案
 title: 傳送至垃圾訊息的電子郵件
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -18,6 +18,7 @@ ht-degree: 0%
 我們建議：
 
 1. 將您的電子郵件簡短且非正式，將範本貼為您以前寫過的電子郵件。
-1. 請確定您有完整的電子郵件簽名，並附上實體地址。
-1. 使用Google或Outlook傳送電子郵件，或設定SMTP透過您自己的伺服器傳送訊息。
 
+1. 請確定您有完整的電子郵件簽名，並附上實體地址。
+
+1. 使用Google或Outlook傳送電子郵件，或設定SMTP透過您自己的伺服器傳送訊息。
