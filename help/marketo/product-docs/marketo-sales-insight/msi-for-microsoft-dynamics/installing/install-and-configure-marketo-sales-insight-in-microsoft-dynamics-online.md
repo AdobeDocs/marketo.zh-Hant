@@ -3,9 +3,9 @@ unique-page-id: 37355602
 description: 在Microsoft Dynamics Online —— 行銷人員檔案——產品檔案中安裝及設定行銷人員銷售分析
 title: 在Microsoft Dynamics Online中安裝及設定Marketo Sales Insight
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Marketo Sales Insight是一套絕佳的工具，可讓您的銷售團隊透過�
 
 >[!PREREQUISITES]
 >
->完成[Marketo-Microsoft整合](http://docs.marketo.com/x/E4A2)。
+>完成您的Marketo-Microsoft整合。
 >
->[下載適用於](http://docs.marketo.com/x/LoJo) 您Microsoft Dynamics CRM版本的正確解決方案。
+>[下載適用於](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) 您Microsoft Dynamics CRM版本的正確解決方案。
 
 ## 匯入解決方案{#import-solution}
 
@@ -41,9 +41,6 @@ Marketo Sales Insight是一套絕佳的工具，可讓您的銷售團隊透過�
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >您應已安裝並設定Marketo解決方案，然後再繼續。
 
 1. 按一下&#x200B;**Import**。
@@ -55,6 +52,7 @@ Marketo Sales Insight是一套絕佳的工具，可讓您的銷售團隊透過�
    ![](assets/image2014-12-12-9-3a5-3a36-1.png)
 
 1. 在您的電腦上尋找並安裝您剛下載的解決方案。
+
 1. 按一下&#x200B;**Next**。
 
    ![](assets/seven.png)
@@ -89,7 +87,7 @@ Marketo Sales Insight是一套絕佳的工具，可讓您的銷售團隊透過�
 >
 >**需要管理員權限**
 
-1. 登入Marketto並前往**管理**區段。
+1. 登入Marketo並前往&#x200B;**Admin**&#x200B;區段。
 
    ![](assets/image2014-12-12-9-3a6-3a50-1.png)
 
@@ -107,17 +105,14 @@ Marketo Sales Insight是一套絕佳的工具，可讓您的銷售團隊透過�
 
    >[!NOTE]
    >
-   >*Lead和Contact*&#x200B;必須與Marketo同步下列欄位，Sales Insight才能運作：
+   >_Lead和Contact_&#x200B;必須與Marketo同步下列欄位，Sales Insight才能運作：
    >
-   >    
-   >    
-   >    * 優先順序
-   >    * 緊急
-   >    * 相對分數
+   >* 優先順序
+   >* 緊急
+   >* 相對分數
 
-   >    
-   >    
-   >如果這些欄位中有任何欄位遺失，您會在Marketo中看到錯誤訊息，其名稱為遺失欄位。 要修復此問題，請執行[此過程](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)。
+   >
+   >如果這些欄位中有任何欄位遺失，您會在Marketo中看到錯誤訊息，其名稱為遺失欄位。 要修復此問題，請執行[此過程](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)。
 
 1. 回到Microsoft Dynamics，請至&#x200B;**Settings**。
 
@@ -153,7 +148,7 @@ Marketo Sales Insight是一套絕佳的工具，可讓您的銷售團隊透過�
 
    ![](assets/enable-four.png)
 
-1. 這會&#x200B;*自動*&#x200B;選取先前停用的MSI欄位（緊急性、相對分數和優先順序）。 只需按一下「儲存」，即可開始同步資料。****
+1. 這會&#x200B;_自動_&#x200B;選取先前停用的MSI欄位（緊急性、相對分數和優先順序）。 只需按一下「儲存」，即可開始同步資料。****
 
    ![](assets/enable-five.png)
 
@@ -187,5 +182,4 @@ Marketo Sales Insight是一套絕佳的工具，可讓您的銷售團隊透過�
 
 >[!MORELIKETHIS]
 >
->[為銷售線索／聯繫人記錄設定星形和火焰](http://docs.marketo.com/x/BICMAg)
-
+>[為銷售線索／聯繫人記錄設定星形和火焰](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
