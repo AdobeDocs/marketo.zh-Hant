@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: 瞭解隱私權設定——行銷人員檔案——產品檔案
 title: 瞭解隱私權設定
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -72,7 +72,7 @@ Marketo為行銷人員提供一種方式，讓網站訪客同意追蹤他們。 
 
    >[!NOTE]
    >
-   >使用此參數需要啟用Munchkin V2。 若要啟用訂閱，請聯絡[行銷人員支援](http://nation.marketo.com/community/support_solutions)。
+   >使用此參數需要啟用Munchkin V2。 若要啟用訂閱，請聯絡[行銷人員支援](https://nation.marketo.com/community/support_solutions)。
 
 * 對於Web個人化(RTP)，請將此項新增至javascript:
 
