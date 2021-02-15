@@ -3,7 +3,7 @@ unique-page-id: 7512448
 description: 傳送SDK程式碼給開發人員——行銷人員檔案——產品檔案
 title: 傳送SDK程式碼給開發人員
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 您必須先讓開發人員設定並初始化Android和iOS平台的行動應用程式SDK，才能建立應用程式內訊息或推播通知。
 
-* [Android的指示](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
-* [iOS的指示](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
+* [Android的指示](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
+* [iOS的指示](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
 
 ## 傳送SDK程式碼給開發人員{#send-sdk-code-to-a-developer-1}
 
