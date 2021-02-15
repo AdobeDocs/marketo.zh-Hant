@@ -3,7 +3,7 @@ unique-page-id: 30081307
 description: 人員頁面欄——行銷人員檔案——產品檔案
 title: 人員頁面欄
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -131,4 +131,3 @@ ht-degree: 0%
   </tr> 
  </tbody> 
 </table>
-
