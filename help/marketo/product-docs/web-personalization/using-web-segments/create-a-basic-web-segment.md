@@ -3,7 +3,7 @@ unique-page-id: 4719344
 description: 建立基本網頁區段——行銷檔案——產品檔案
 title: 建立基本Web區段
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [網頁區段](http://docs.marketo.com/x/9QFI)
+>* [網頁區段](https://docs.marketo.com/x/9QFI)
 
 >
 
