@@ -3,7 +3,7 @@ unique-page-id: 14352541
 description: 首次將銷售連線工作與Salesforce同步——行銷人員檔案——產品檔案
 title: 首次將Sales Connect工作與Salesforce同步
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 - 當您按一下「儲存」進行工作同步時，就會開始同步。 這最初需要一些時間。
 
-- 在`last 24 hours`中更新或建立的任何提醒都將從SFDC提取到Sales Connect。 同步基於`due date`，所有這些任務都將在後端同步，但在命令中心，您只會看到今天和明天的任務。
+- 在過去24小時內更新或建立的任何提醒都將從SFDC提取到Sales Connect。 同步是基於到期日，所有這些任務都將在後端同步，但在命令中心中，您將只看到今天和明天的任務。
 
 - 如果以前已開啟同步，而您刪除了SFDC中的任何任務，則過去15天內刪除的任何任務都將從命令中心刪除。
 
@@ -27,5 +27,4 @@ ht-degree: 0%
 
 在初始同步後，您在Sales Connect中建立、編輯、完成或刪除的任何工作，都會同步至Salesforce中的工作清單。 任何在Salesforce中建立、編輯、完成或刪除的作業，都會在Sales Connect中更新您的工作清單。
 
-若要開啟此同步，只要勾選Web應用程式中[設定頁面](http://toutapp.com/next#settings/crm/salesforce/configure)的同步方塊即可。
-
+若要開啟此同步，只要勾選Web應用程式中[設定頁面](https://toutapp.com/login)的同步方塊即可。
