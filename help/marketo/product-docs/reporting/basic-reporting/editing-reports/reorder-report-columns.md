@@ -3,7 +3,7 @@ unique-page-id: 2359999
 description: 重新排序報表欄——行銷人員檔案——產品檔案
 title: 重新排序報表欄
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a50-3a37.png)
 
-   您可以重複這些步驟，直到欄以最適合您的順序顯示為止。
+   您可以重複這些步驟，直到欄以最適合您的順序顯示。
 
    >[!MORELIKETHIS]
    >
@@ -46,5 +46,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >瞭解在[Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)中使用報表的所有功能。
+   >瞭解在[Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting)中使用報表的所有功能。
 
