@@ -3,7 +3,7 @@ unique-page-id: 11385053
 description: 部署JavaScript for Content-AI —— 行銷檔案——產品檔案
 title: 部署Content-AI適用的JavaScript
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >複製「網頁個人化JavaScript」標籤，並貼為頁面標題中的第一個指令碼，位於`<head> </head>`標籤之間。 請參閱此處[實作指示的詳細說明](http://docs.marketo.com/display/docs/rtp+tag+implementation) [。](http://pages2.marketo.com/rtp-implementation.html)
+   >複製「網頁個人化JavaScript」標籤，並貼為頁面標題中的第一個指令碼，位於`<head> </head>`標籤之間。 請參閱此處[實作指示的詳細說明](https://docs.marketo.com/display/docs/rtp+tag+implementation) [。](https://pages2.marketo.com/rtp-implementation.html)
 
 1. 驗證標籤是否顯示在所有頁面上，包括著陸頁面和子網域。 請在`website’s`頁面上按一下滑鼠右鍵以檢查此項目。 前往Web瀏覽器中的「檢視頁面來源」**。**&#x200B;搜尋：「RTP」。
 1. 確認「標籤」切換為「**ON**」。
