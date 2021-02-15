@@ -3,7 +3,7 @@ unique-page-id: 1147025
 description: 在智慧型促銷活動——行銷檔案——產品檔案中使用網頁掛接
 title: 在智慧型促銷活動中使用網頁掛接
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在智慧型促銷活動中使用網頁掛接{#use-a-webhook-in-a-smart-campaign}
 
-若要使用[webhook](http://developers.marketo.com/documentation/webhooks/)，請將它新增至[智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)作為流量動作。
+若要使用[webhook](https://developers.marketo.com/documentation/webhooks/)，請將它新增至[智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)作為流量動作。
 
 >[!AVAILABILITY]
 >
