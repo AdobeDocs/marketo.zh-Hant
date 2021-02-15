@@ -3,7 +3,7 @@ unique-page-id: 11377488
 description: 使用企業金鑰安裝Marketo Add-in for Outlook —— 行銷人員檔案——產品檔案
 title: 使用企業金鑰安裝Marketon Add-in for Outlook
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您未看到「查看企業密鑰」按鈕，請與[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371)聯繫以啟用它。
+>如果您未看到「查看企業密鑰」按鈕，請與[`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371)聯繫以啟用它。
 
 1. 在My Marketo中，按一下「**管理**」，然後按一下「銷售分析」。****
 
