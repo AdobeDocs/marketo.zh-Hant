@@ -3,7 +3,7 @@ unique-page-id: 12979006
 description: 效能分析概觀——行銷人員檔案——產品檔案
 title: 效能分析概觀
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 績效分析概述{#performance-insights-overview}
 
-行銷人員績效洞察可協助您最佳化通道組合，以發揮最大效益，並發現長期趨勢，以找出一致的贏取策略。
+行銷人員績效洞察可協助您最佳化您的通道組合，以發揮最大效益，並發現長期趨勢，以找出一致的贏取策略。
 
 >[!AVAILABILITY]
 >
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 貢獻{#contribution}
 
-評估行銷對收入的[貢獻，這取決於客戶獲取、影響、轉化，甚至是客戶群的增長。](http://docs.marketo.com/x/QAvG)
+評估行銷對收入的[貢獻，這取決於客戶獲取、影響、轉化，甚至是客戶群的增長。](https://docs.marketo.com/x/QAvG)
 
 ![](assets/two.png)
 
@@ -38,13 +38,13 @@ ht-degree: 0%
 
 ## 趨勢{#trend}
 
-發現[長期趨勢](http://docs.marketo.com/x/QgvG)以找出一致的成功策略。
+發現[長期趨勢](https://docs.marketo.com/x/QgvG)以找出一致的成功策略。
 
 ![](assets/4.png)
 
 ## 設定{#settings}
 
-在「收入與管線」控制面板中，按一下「設定」[圖示以設定其他參數。](http://docs.marketo.com/x/pIDS)
+在「收入與管線」控制面板中，按一下「設定」[圖示以設定其他參數。](https://docs.marketo.com/x/pIDS)
 
 ![](assets/5.png)
 
