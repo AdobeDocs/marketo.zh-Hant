@@ -3,9 +3,9 @@ unique-page-id: 14352438
 description: 銷售電話概觀——行銷人員檔案——產品檔案
 title: 銷售電話概觀
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 **本地存在：** 您只需檢查「使用本地存在」並記錄第一次呼叫的呼叫。Sales Connect將記住您未來所有呼叫的設定。
 
-如果您希望Sales Connect在Salesforce中自動建立呼叫活動，請參閱[本文](http://docs.marketo.com/x/joLS)。
+如果您希望Sales Connect在Salesforce中自動建立呼叫活動，請參閱[本文](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)。
 
 ## 如何使用銷售電話撥打電話？{#how-do-i-make-a-call-with-sales-phone}
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 
 一旦您點擊或撥打電話，Sales Connect將從Salesforce提取您的潛在客戶／聯絡人的電話號碼。 如果Salesforce中未列出任何號碼，Sales Connect會提取帳戶記錄上的電話號碼。
 
-對於使用其他CRMS的團隊，Sales Connect將從Sales Connect中記錄的號碼中提取電話號碼。 此資料可透過[CSV上傳](http://docs.marketo.com/x/HIPS)輕鬆取得。
+對於使用其他CRMS的團隊，Sales Connect將從Sales Connect中記錄的號碼中提取電話號碼。 此資料可透過[CSV上傳](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)輕鬆取得。
 
 按一下大綠色&#x200B;**呼叫**&#x200B;按鈕。 然後，您的電話就會響起。 接電話後，Sales Connect會自動呼叫潛在客戶／聯絡人。
