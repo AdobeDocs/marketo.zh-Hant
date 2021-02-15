@@ -3,9 +3,9 @@ unique-page-id: 2953373
 description: 在Marketo Sales Insight - Marketo Docs —— 產品檔案中設定取消訂閱頁尾
 title: 在Marketo Sales Insight中設定取消訂閱頁尾
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ ht-degree: 0%
 >
 >**定義**
 >
->**銷售電** 子郵件是從Sales Insight傳送的電子郵件。（不包含從Marketo Outlook外掛程式傳送的內容）。
+>**銷** 售電子郵件是從Sales Insight傳送的電子郵件（不包括從Marketo Outlook外掛程式傳送的電子郵件）。
 
 1. 前往&#x200B;**Admin**&#x200B;區域。
 
    ![](assets/one-1.png)
 
-1. 按一下「**Sales Insight」、「**」，然後按一下「編輯設定」。****
+1. 按一下「**銷售分析**」，然後按一下「編輯設定&#x200B;**」。**
 
    ![](assets/two-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-   * **無模板**-由銷售用戶人工組成。
+   * **無模板** -由銷售用戶人工合成。
    * **標準電子郵件** -根據範本傳送的電子郵件。
    * **營運電子郵件** -忽略未訂閱、暫停行銷和通訊限制的電子郵件（無論傳送何種電子郵件）。
 
@@ -45,12 +45,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >**遵守取消訂閱設定：**即使已發佈的電子郵件「運作」，未訂閱的潛在客源也不會收到電子郵件
+   >**遵守取消訂閱設定**:即使已發佈的電子郵件「可運作」，未訂閱的潛在客戶也不會收到電子郵件
    >
-   >
-   >**忽略取消訂閱設定：取消** 訂閱的銷售機會將會收到電子郵件
+   >**忽略取消訂閱設定**:未訂閱的銷售機會將會收到電子郵件
 
-   進行您想要的變更，然後按一下「儲存」。
+1. 進行所需的更改，然後按一下&#x200B;**保存**。
 
    >[!TIP]
    >
@@ -59,10 +58,3 @@ ht-degree: 0%
    ![](assets/four-1.png)
 
 哇！ 有點複雜，但很靈活，對吧？
-
->[!NOTE]
->
->**深入探討**
->
->進一步瞭解[Marketo Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight)。
-
