@@ -3,7 +3,7 @@ unique-page-id: 4720257
 description: 將Facebook自訂對象新增為LaunchPoint服務——行銷人員檔案——產品檔案
 title: 將Facebook自訂對象新增為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. 在相同的瀏覽器中開啟新標籤，並前往[facebook.com](http://www.facebook.com/)。 使用您要用於整合的帳戶登入Facebook。
+1. 在相同的瀏覽器中開啟新標籤，並前往[facebook.com](https://www.facebook.com/)。 使用您要用於整合的帳戶登入Facebook。
 
    >[!CAUTION]
    >
