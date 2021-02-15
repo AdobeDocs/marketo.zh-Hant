@@ -3,7 +3,7 @@ unique-page-id: 4719398
 description: 建立新的對話方塊Web促銷活動——行銷檔案——產品檔案
 title: 建立新對話方塊Web促銷活動
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '760'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Web促銷活動是與特定群體相關的自訂反應。 反應可以是網站�
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. 選擇&#x200B;**Dialog** Web促銷活動類型。 在編輯器中設計和新增您的創意。 按一下「預覽」，查看網站促銷活動在您網站上的反應。****
+1. 選擇&#x200B;**Dialog** Web促銷活動類型。 在編輯器中設計和新增創意。 按一下「預覽」，查看網站促銷活動在您網站上的反應。****
 
    ![](assets/new-3.png)
 
@@ -41,7 +41,7 @@ Web促銷活動是與特定群體相關的自訂反應。 反應可以是網站�
  <tbody> 
   <tr> 
    <td colspan="1"><strong>顯示於</strong></td> 
-   <td colspan="1">可讓您自訂Web促銷活動的顯示時機和方式。<a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow"></a></td> 
+   <td colspan="1">可讓您自訂Web促銷活動的顯示時機和方式。<a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow"></a></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>對話框樣式</strong></td> 
