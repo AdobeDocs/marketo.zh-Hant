@@ -3,9 +3,9 @@ unique-page-id: 14352510
 description: 建議的範本——行銷檔案——產品檔案
 title: 建議的範本
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,9 @@ ht-degree: 0%
 Sales Connect的建議範本可協助您取得正確的訊息，同時節省時間。 這可讓您在傳送電子郵件時有更大的流量，並減少在為適當的人尋找適當電子郵件時的不確定性。
 
 1. 前往您的「範本」標籤。
+
 1. 選擇要推薦的模板，然後按一下&#x200B;**編輯**。
+
 1. 若要在範本上啟用「建議的範本」功能，請勾選&#x200B;**當**&#x200B;時的「自動建議此範本」。
 
 ## 全部與任何{#all-vs-any}
@@ -25,7 +27,7 @@ Sales Connect的建議範本可協助您取得正確的訊息，同時節省時�
 
 ## 設定條件{#setting-criteria}
 
-您的准則將設定要建議範本的條件。 最多可以設定3個條件。 首先，在範本中選取您要指向的[動態欄位](https://nation.marketo.com/hc/en-us/articles/203348440-What-Are-Dynamic-Fields-)。
+您的准則將設定要建議範本的條件。 最多可以設定3個條件。 首先，選取範本中您要指向的動態欄位。
 
 ## 條件{#conditions}
 
@@ -41,6 +43,6 @@ Sales Connect的建議範本可協助您取得正確的訊息，同時節省時�
 
 ## 建議的範本外觀為{#what-a-recommended-template-looks-like}
 
-現在已設定您的准則，請儲存範本。 從這裡開始，Sales Connect將發揮其魔力，為您呈現最佳範本。\
-既然您已對應了第一個範本，現在就該對應其他範本了。 瀏覽您最成功的範本，並提供建議。 也別忘了與您的團隊共用範本。 您針對任何範本的建議設定也會在您的團隊間共用。
+現在已設定您的准則，請儲存範本。 從這裡開始，Sales Connect將發揮其魔力，為您呈現最佳範本。
 
+既然您已對應了第一個範本，現在就該對應其他範本了。 瀏覽您最成功的範本，並提供建議。 也別忘了與您的團隊共用範本。 您針對任何範本的建議設定也會在您的團隊間共用。
