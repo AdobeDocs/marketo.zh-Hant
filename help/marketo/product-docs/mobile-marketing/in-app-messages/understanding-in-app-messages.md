@@ -3,7 +3,7 @@ unique-page-id: 10100397
 description: 瞭解應用程式內訊息——行銷人員檔案——產品檔案
 title: 瞭解應用程式內訊息
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -33,18 +33,18 @@ ht-degree: 0%
 
 ## 步驟2:建立應用程式內訊息{#step-create-an-in-app-message}
 
-您[使用線上編輯器建立應用程式內訊息](http://docs.marketo.com/display/docs/create+an+in-app+message)。
+您[使用線上編輯器建立應用程式內訊息](https://docs.marketo.com/display/docs/create+an+in-app+message)。
 
 ## 步驟3:傳送！{#step-send}
 
-您可以建立一個程式來發送消息[。](http://docs.marketo.com/display/docs/send+your+in-app+message)
+您可以建立一個程式來發送消息[。](https://docs.marketo.com/display/docs/send+your+in-app+message)
 
 你在路上。
 
 >[!MORELIKETHIS]
 >
->* [建立應用程式內訊息](http://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [建立應用程式內訊息](https://docs.marketo.com/display/docs/create+an+in-app+message)
    >
    >
-* [傳送您的應用程式內訊息](http://docs.marketo.com/display/docs/send+your+in-app+message)
+* [傳送您的應用程式內訊息](https://docs.marketo.com/display/docs/send+your+in-app+message)
 
