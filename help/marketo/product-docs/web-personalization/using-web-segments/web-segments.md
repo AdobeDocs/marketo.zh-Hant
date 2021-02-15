@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: 網頁區段——行銷檔案——產品檔案
 title: 網頁區段
 translation-type: tm+mt
-source-git-commit: e3f4eb27d30887ef53d6636a6bd2929bc8f43a88
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -108,23 +108,27 @@ ht-degree: 0%
 >1. 使用所有篩選器（1和2及3...）
 >1. 使用任何篩選器（1或2或3...）
 >1. 進階篩選器（使用和／或運算式）
->
->    進階篩選可讓您控制區段條件。 輸入由&quot;and&quot;和&quot;or&quot;分隔的篩選編號。
->
->    * 1和2和3
->    * 1或2或3
->
->    混合&quot;and&quot;和&quot;or&quot;需要括弧來釐清邏輯意圖。 例如，「1或2及3」必須以下列其中一種方式撰寫：
->
->    * 1和（2或3）
->    * （1和2）或3
->
->    對於更複雜的邏輯，例如，
->
->    * （1和2）或（3和4）
->    * 1和(2或（3和4）)
->
->    在插入、刪除或重新排序後，請檢查您的邏輯。
+
+   >
+   >    
+   進階篩選可讓您控制區段條件。 輸入由&quot;and&quot;和&quot;or&quot;分隔的篩選編號。
+   >
+   >    
+   * 1和2和3
+   >    * 1或2或3
+
+   >
+   混合&quot;and&quot;和&quot;or&quot;需要括弧來釐清邏輯意圖。 例如，「1或2及3」必須以下列其中一種方式撰寫：
+
+   * 1和（2或3）
+   * （1和2）或3
+
+   對於更複雜的邏輯，例如，
+
+   * （1和2）或（3和4）
+   * 1和(2或（3和4）)
+
+   在插入、刪除或重新排序後，請檢查您的邏輯。
 
 
 
@@ -192,7 +196,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->「命名帳戶清單」名稱旁方括弧中的數字用作「Web個人化[讀取API](http://developers.marketo.com/documentation/websites/rtp-js-api/)」清單的索引引用。
+>「命名帳戶清單」名稱旁方括弧中的數字用作「Web個人化[讀取API](https://developers.marketo.com/documentation/websites/rtp-js-api/)」清單的索引引用。
 
 **排除ISP**
 
@@ -216,7 +220,7 @@ Web Personalization與您的Marketo Database整合，讓您依據已知人員屬
 >
 >例如 「職稱等於CMO」和「分數小於或等於50」
 
-**Marketo Email** CampaignSegment透過訪客點按行銷人員電子郵件並到達網站的電子郵件反向連結，個人化行銷活動。依行銷人員方案名稱或行銷活動名稱細分，並繼續從電子郵件到網路的對話。 從下拉式清單中選取「+」以新增欄位。
+**Marketo Email** CampaignSegment透過來自訪客點按行銷人員電子郵件並到達網站的電子郵件反向連結，將行銷活動個人化。依行銷人員方案名稱或行銷活動名稱細分，並繼續從電子郵件到網路的對話。 從下拉式清單中選取「+」以新增欄位。
 
 ![](assets/image2015-5-27-17-3a20-3a34.png)
 
@@ -292,11 +296,11 @@ Web Personalization與您的Marketo Database整合，讓您依據已知人員屬
 
 **使用者內容API**
 
-Web Personalization API呼叫[在這裡詳細瞭解。](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Web Personalization API呼叫[在這裡詳細瞭解。](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
 >
->**使用萬用字** 元——當您想要包含任何包含其中某項內容的搜尋詞或URL時，例如「[google.com](http://google.com)」或「搜尋詞產品」，我們稱之為萬用字元，而且應在兩端加上星號（這個小傢伙）。因此，來自[google.com](http://google.com)的任何內容都應輸入為* [google.com](http://google.com)*
+>**使用萬用字** 元——當您想要包含任何包含其中某項內容的搜尋詞或URL時，例如「[google.com](https://google.com)」或「搜尋詞產品」，我們稱之為萬用字元，而且應在兩端加上星號（這個小傢伙）。因此，來自[google.com](https://google.com)的任何內容都應輸入為* [google.com](https://google.com)*
 
 ## 編輯區段{#edit-segments}
 
