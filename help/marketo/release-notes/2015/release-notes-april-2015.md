@@ -3,7 +3,7 @@ unique-page-id: 7511815
 description: 發行說明- 2015年4月——行銷檔案——產品檔案
 title: 發行說明- 2015年4月
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -29,9 +29,9 @@ ht-degree: 0%
 
 ## Marketo行動參與{#marketo-mobile-engagement}
 
-[Marketo行動互動](http://docs.marketo.com/display/docs/mobile+marketing)
+[Marketo行動互動](https://docs.marketo.com/display/docs/mobile+marketing)
 
-透過[行銷人員行動參與](http://docs.marketo.com/display/docs/mobile+marketing)，輕鬆提供吸引人的行動體驗。 建立高度個人化的宣傳活動，提供引人入勝的內容，毋需依賴應用程式開發團隊。 新的篩選器和觸發器可讓您透過推播通知在行動頻道上接聽和回應。
+透過[行銷人員行動參與](https://docs.marketo.com/display/docs/mobile+marketing)，輕鬆提供吸引人的行動體驗。 建立高度個人化的宣傳活動，提供引人入勝的內容，毋需依賴應用程式開發團隊。 新的篩選器和觸發器可讓您透過推播通知在行動頻道上接聽和回應。
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
@@ -51,8 +51,8 @@ ht-degree: 0%
 
 ## RTP —— 帳戶型行銷分析{#rtp-account-based-marketing-analytics}
 
-RTP - [帳戶型行銷分析](http://docs.marketo.com/pages/viewpage.action?pageid=7511515)
+RTP - [帳戶型行銷分析](https://docs.marketo.com/pages/viewpage.action?pageid=7511515)
 
-根據購買週期中的每個階段，使用您的「指名帳戶」清單的新效能圖表，立即查看您的「指名帳戶」清單的[效能。 ](http://docs.marketo.com/pages/viewpage.action?pageid=7511515)圖表會根據瀏覽次數和訪客狀態，顯示關鍵組織從瞭解到動作的瀏覽階段。
+根據購買週期中的每個階段，使用您的「指名帳戶」清單的新效能圖表，立即查看您的「指名帳戶」清單的[效能。 ](https://docs.marketo.com/pages/viewpage.action?pageid=7511515)圖表會根據瀏覽次數和訪客狀態，顯示關鍵組織從瞭解到動作的瀏覽階段。
 
 ![](https://lh3.googleusercontent.com/ZipQutmNTRxkWdr_zzdatg31w7xmQ0xkniez-qf2X784MO-0AoHfKE0ltYSeaHU73KxyZc3s0Oklfig_v6bpN7tKnrrX6hHcMs44RFgtUb1qOf_Y5uhKedyHi6tQv3KhUHaCmIc)
