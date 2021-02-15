@@ -3,7 +3,7 @@ unique-page-id: 12979008
 description: 績效洞察貢獻概觀——行銷人員檔案——產品檔案
 title: 績效分析貢獻概觀
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->瞭解[首次接觸和多次接觸](http://docs.marketo.com/display/DOCS/Understanding+Attribution)。
+>瞭解[首次接觸和多次接觸](https://docs.marketo.com/display/DOCS/Understanding+Attribution)。
 
 選擇您要查看量度的時段。 在此範例中，我們檢視的是本年度（年初至今）。   ![](assets/3-1.png)
 
