@@ -3,7 +3,7 @@ unique-page-id: 2360237
 description: 使用Opportunity Inflection Analyzer - Marketo Docs —— 產品文檔講述行銷故事
 title: 使用Opportunity Inflection Analyzer講述行銷故事
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '371'
 ht-degree: 0%
@@ -83,6 +83,6 @@ ht-degree: 0%
 
 
 
-   * [基本報告](http://docs.marketo.com/display/docs/basic+reporting)
+   * [基本報告](https://docs.marketo.com/display/docs/basic+reporting)
 
 
