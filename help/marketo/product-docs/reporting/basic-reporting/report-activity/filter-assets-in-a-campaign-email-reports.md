@@ -3,7 +3,7 @@ unique-page-id: 2360227
 description: 篩選促銷活動電子郵件報表中的資產——行銷人員檔案——產品檔案
 title: 篩選促銷活動電子郵件報表中的資產
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 篩選促銷活動電子郵件報表中的資產{#filter-assets-in-a-campaign-email-reports}
 
-將您的[促銷活動電子郵件績效](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)報告集中在您的程式（「本機資產」）中的特定[智慧型促銷活動](http://docs.marketo.com/display/docs/smart+campaigns)或已封存的促銷活動上。
+將您的[促銷活動電子郵件績效](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)報告集中在您的程式（「本機資產」）中的特定[智慧型促銷活動](https://docs.marketo.com/display/docs/smart+campaigns)或已封存的促銷活動上。
 
 1. 前往**Analytics **（或&#x200B;**行銷活動**）區域。
 
@@ -56,5 +56,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >瞭解[基本報表](http://docs.marketo.com/display/docs/basic+reporting)中的所有報表。
+   >瞭解[基本報表](https://docs.marketo.com/display/docs/basic+reporting)中的所有報表。
 
