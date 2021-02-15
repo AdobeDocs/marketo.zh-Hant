@@ -3,7 +3,7 @@ unique-page-id: 7512944
 description: 使用Google Chrome的Marketo Insights - Marketo Docs —— 產品檔案
 title: 使用Google Chrome的Marketo Insights
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [安裝Google Chrome的Marketo Insights](install-marketo-insights-for-google-chrome.md)
-
->
-
-
+>[安裝Google Chrome的Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
 ## 傳送含Marketon Insights的電子郵件{#send-an-email-with-marketo-insights}
 
@@ -41,11 +37,11 @@ ht-degree: 0%
    >
    >（可選）按一下雙箭頭以展開至全螢幕檢視。
 
-1. 如果您想要用已發佈的Marketo範本預先填入電子郵件，請按一下「更多選項&#x200B;**」，然後選取「載入Marketo範本」。******
+1. 如果您想要用已發佈的Marketo範本預先填入電子郵件，請按一下「更多選項」**，然後選取「載入Marketo範本」**。****
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. 選擇&#x200B;**可用模板**&#x200B;並按一下&#x200B;**確定。**
+1. 選擇&#x200B;**可用模板**&#x200B;並按一下&#x200B;**確定**。
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
@@ -75,10 +71,6 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [安裝Google Chrome的Marketo Insights](install-marketo-insights-for-google-chrome.md)
-   >    * [在Google Mail中查看人員和帳戶資訊和活動](view-person-and-account-information-and-activities-in-google-mail.md)
-
+   >* [安裝Google Chrome的Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+   >* [在Google Mail中查看人員和帳戶資訊和活動](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
 
