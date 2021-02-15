@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: 網頁個人化辭彙表——行銷檔案——產品檔案
 title: Web個人化辭彙表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Marketon Web Personalization的世界與語言見解。
 
 以下是在「網頁個人化」中使用萬用字元的三種方式。
 
-將頁面URL上結尾的所有訪客與定價相符(例如[www.marketo.com/pricing):](http://www.marketo.com/pricing):)
+將頁面URL上結尾的所有訪客與定價相符(例如[www.marketo.com/pricing):](https://www.marketo.com/pricing):)
 
 ![](assets/wildcard-example-1.png)
 
