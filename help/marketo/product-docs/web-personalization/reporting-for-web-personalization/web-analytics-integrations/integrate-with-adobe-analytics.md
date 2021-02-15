@@ -3,7 +3,7 @@ unique-page-id: 2949160
 description: 與Adobe Analytics整合——行銷檔案——產品檔案
 title: 與Adobe Analytics整合
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -64,8 +64,8 @@ Adobe Analytics可以根據組織、產業和RTP區段資料建立不同的行�
 
 1. 前往您AA帳戶中的&#x200B;**管理工具**。
 1. 選擇要與整合一起使用的&#x200B;**報表套裝**。
-1. 在&#x200B;**編輯設定下，**&#x200B;移至&#x200B;**轉換**&#x200B;並選取** [轉換變數](http://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**。\
-   選擇[轉換變數](http://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar)數字（我們建議）:
+1. 在&#x200B;**編輯設定下，**&#x200B;移至&#x200B;**轉換**&#x200B;並選取** [轉換變數](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**。\
+   選擇[轉換變數](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar)數字（我們建議）:
 
    1. 
 
@@ -82,7 +82,7 @@ Adobe Analytics可以根據組織、產業和RTP區段資料建立不同的行�
 
          1. 將「過期時間」欄位變更為「瀏覽」。****
 
-1. 在「**編輯設定&#x200B;**」下，移至「轉換** a2/>」，並選取「** [成功事件](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**」。**
+1. 在「**編輯設定&#x200B;**」下，移至「轉換** a2/>」，並選取「** [成功事件](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**」。**
 
 1. 選取自訂成功事件事件編號（我們建議）:
 
@@ -97,7 +97,7 @@ Adobe Analytics可以根據組織、產業和RTP區段資料建立不同的行�
 
 1. 選擇類型* *欄位為&#x200B;**計數器（無子關聯）**
 
-1. 在&#x200B;**編輯設定**&#x200B;下，轉至** [流量](http://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **並選擇** [流量變數](http://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**。
+1. 在&#x200B;**編輯設定**&#x200B;下，轉至** [流量](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **並選擇** [流量變數](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**。
 
    1. 選取流量變數屬性#（我們建議）:
 
@@ -183,13 +183,13 @@ AA中自訂報表和控制面板的範例包括：
 
 **建立RTP儀表板**
 
-建立名為&#x200B;**RTP儀表板**&#x200B;的新儀表板[。 ](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)此控制面板將協助您瞭解依垂直產業和RTP區段劃分的訪客。
+建立名為&#x200B;**RTP儀表板**&#x200B;的新儀表板[。 ](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)此控制面板將協助您瞭解依垂直產業和RTP區段劃分的訪客。
 
 1. 按一下「**控制面板」,**&#x200B;按一下**「新增控制面板」**
 
 1. 命名儀表板&#x200B;**RTP儀表板**
 1. 選擇&#x200B;**控制面板大小** 3 x 2、2 x 2
-1. 建立[reportlet](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3)並新增[內容至控制面板](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
+1. 建立[reportlet](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3)並新增[內容至控制面板](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
 
 新增產業報表至控制面板
 
