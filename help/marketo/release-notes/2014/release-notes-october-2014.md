@@ -3,7 +3,7 @@ unique-page-id: 2953334
 description: 發行說明- 2014年10月——行銷檔案——產品檔案
 title: 發行說明- 2014年10月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
 * 取得活動類型
 * 取得分頁Token
 
-在[developers.marketo.com](http://developers.marketo.com/documentation/rest/)發行後，將提供完整的詳細資訊。
+在[developers.marketo.com](https://developers.marketo.com/documentation/rest/)發行後，將提供完整的詳細資訊。
 
 ## MSI —— 向Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}發送電子郵件
 
@@ -70,5 +70,5 @@ ht-degree: 0%
 * 感興趣的產品
 * 他們看過哪些RTP促銷活動
 
-請造訪[developers.marketo.com](http://developers.marketo.com/documentation/websites/rtp-js-api/)以取得完整詳細資訊。
+請造訪[developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/)以取得完整詳細資訊。
 
