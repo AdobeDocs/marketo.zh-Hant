@@ -3,7 +3,7 @@ unique-page-id: 2951119
 description: 發行說明- 2012年4月——行銷檔案——產品檔案
 title: 發行說明- 2012年4月
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->如需其他版本，請參閱[發行說明](http://docs.marketo.com/display/docs/release+notes)深入探討。
+>如需其他版本，請參閱[發行說明](https://docs.marketo.com/display/docs/release+notes)深入探討。
 
 您是否一致地定位同一組銷售線索？ 如果是，請在智慧型清單中使用區段來定位潛在客戶。 使用分段功能，您的整個銷售機會資料庫都會進行分段，而且可以跨不同的程式重複使用，以維持一致性。 區段結果會快速提取，因為不需要智慧型清單在請求時執行。
 
