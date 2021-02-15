@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: 發行說明- 19年冬季——行銷檔案——產品檔案
 title: 發行說明- 19年冬季
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1112'
 ht-degree: 0%
@@ -40,11 +40,11 @@ Winter &#39;19版本包含下列功能。 檢查您的Marketo版本，以取得�
 * **資產API的多品牌網域支援：核** 準和仿製資產會在API和UI中產生相同的結果。
 * **資產API的電子郵件CC支援**:使用者透過API複製、核准和處理電子郵件時，會維持與UI設定的相同性。
 
-** [Munchkin v155(Beta)](http://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+** [Munchkin v155(Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **僅API模式**:使用者現在可決定追蹤其資料庫成員的時機和方式，允許單頁網頁應用程式在他們想要記錄網頁瀏覽時明確呼叫，而非依賴Marketo的自動追蹤。
 * **退出管理**:將退出Cookie網域與Munchkin追蹤Cookie網域相符，輕鬆管理退出。
-* **網域層級決策者參數**:雙字母網域(即&quot;  [website.io](http://website.io)&quot;)將自動在Marketo中追蹤，而不需額外的設定要求。
+* **網域層級決策者參數**:雙字母網域(即&quot;  [website.io](https://website.io)&quot;)將自動在Marketo中追蹤，而不需額外的設定要求。
 
 ## Marketo銷售人員參與{#marketo-sales-engage}
 
@@ -89,7 +89,7 @@ Winter &#39;19版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 **比齊布爾**
 
-* **自訂計算欄位**:使用任何「可比」屬性來建立可用於控制面板報告和區段的自訂欄位。
+* **自訂計算欄位**:使用任何Bizible屬性來建立可用於控制面板報告和區段的自訂欄位。
 
 * **SOC II II類認證**:新的安全性和隱私權認證以今年早些時候的I類認證為基礎。
 
@@ -103,10 +103,10 @@ Winter &#39;19版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 **更新的Android MME軟體開發套件(SDK)**
 
-我們已將適用於Android的SDK更新為更現代化、穩定且可擴充的架構，其中包含更多彈性和新的工程功能。 Android應用程式開發人員現在可以直接將Google的[Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/)(FCM)與這個新的SDK搭配使用。
+我們已將適用於Android的SDK更新為更現代化、穩定且可擴充的架構，其中包含更多彈性和新的工程功能。 Android應用程式開發人員現在可以直接將Google的[Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)(FCM)與這個新的SDK搭配使用。
 
-* [開發人員指示](http://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
-* [開發人員常見問答集](http://developers.marketo.com/mobile/installation/#android_fcm_faq)
+* [開發人員指示](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
+* [開發人員常見問答集](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >
