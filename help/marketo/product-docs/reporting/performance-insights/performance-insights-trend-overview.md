@@ -3,7 +3,7 @@ unique-page-id: 12979010
 description: 效能分析趨勢概觀——行銷人員檔案——產品檔案
 title: 效能分析趨勢概觀
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/2-1.png)
 
-選擇您要檢視效能的量度。 在此範例中，我們將檢視透過[首次接觸](http://docs.marketo.com/display/DOCS/Understanding+Attribution)贏得的商機。
+選擇您要檢視效能的量度。 在此範例中，我們將檢視透過[首次接觸](https://docs.marketo.com/display/DOCS/Understanding+Attribution)贏得的商機。
 
 ![](assets/3-2.png)
 
