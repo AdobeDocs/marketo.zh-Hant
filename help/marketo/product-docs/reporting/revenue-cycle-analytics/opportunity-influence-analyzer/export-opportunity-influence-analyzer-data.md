@@ -3,7 +3,7 @@ unique-page-id: 2360394
 description: Export Opportunity Inffect Analyzer Data - Marketo Docs —— 產品文檔
 title: 導出機會影響分析器資料
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 導出機會影響分析器資料{#export-opportunity-influence-analyzer-data}
 
-若要從[收入週期總管](http://docs.marketo.com/display/docs/revenue+cycle+analytics)報表接收更新，並共用這些報表，您可以將任何電子郵件地址訂閱至現有報表。
+若要從[收入週期總管](https://docs.marketo.com/display/docs/revenue+cycle+analytics)報表接收更新，並共用這些報表，您可以將任何電子郵件地址訂閱至現有報表。
 
 1. 前往&#x200B;**Analytics**&#x200B;並選擇&#x200B;**New********New** **Report** **Subscription**。
 
@@ -51,5 +51,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->在[收入週期總管](http://docs.marketo.com/display/docs/revenue+cycle+analytics)深入探討中，瞭解您可以運用Marketo的進階分析進行的更多工作。
+>在[收入週期總管](https://docs.marketo.com/display/docs/revenue+cycle+analytics)深入探討中，瞭解您可以運用Marketo的進階分析進行的更多工作。
 
