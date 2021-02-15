@@ -3,9 +3,9 @@ unique-page-id: 30081250
 description: 管理群組——行銷檔案——產品檔案
 title: 管理群組
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 建立群組{#create-a-group}
 
-1. 在「人員」頁面中，按一下「群組」旁的&#x200B;**加號**。
+1. 在「人員」頁面中，按一下「群組」旁的&#x200B;**+**。
 
    ![](assets/one-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >這將一次新增一個連絡人。 要同時添加多個聯繫人，請遵循[這些步驟](http://docs.marketo.com/x/VADb)。
+   >這將一次新增一個連絡人。 要同時添加多個聯繫人，請遵循[這些步驟](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)。
 
 1. 填寫聯繫人的資訊，然後按一下&#x200B;**建立**（或&#x200B;**建立並添加新**&#x200B;以添加其他）。
 
@@ -114,4 +114,3 @@ ht-degree: 0%
 1. 按一下&#x200B;**Delete**&#x200B;確認。
 
    ![](assets/seventeen.png)
-
