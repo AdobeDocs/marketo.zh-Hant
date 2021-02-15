@@ -3,9 +3,9 @@ unique-page-id: 7513865
 description: 在Microsoft Dynamics 2015中安裝及設定Marketo Sales Insight —— 行銷人員檔案——產品檔案
 title: 在Microsoft Dynamics 2015中安裝及設定Marketo Sales Insight
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Marketo Sales Insight是一套絕佳的工具，可讓您的銷售團隊透過�
 
 >[!PREREQUISITES]
 >
->完成[Marketo-Microsoft整合](http://docs.marketo.com/x/ZwBd)。
+>完成您的Marketo-Microsoft整合。
 >
->[下載適用於](http://docs.marketo.com/x/LoJo) 您Microsoft Dynamics CRM版本的正確解決方案。
+>[下載適用於](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) 您Microsoft Dynamics CRM版本的正確解決方案。
 
 ## 匯入解決方案{#import-solution}
 
@@ -38,9 +38,6 @@ Marketo Sales Insight是一套絕佳的工具，可讓您的銷售團隊透過�
    ![](assets/image2014-12-12-9-3a5-3a17.png)
 
    >[!NOTE]
-   >
-   >**提醒**
-   >
    >
    >您應已安裝並設定Marketo解決方案，然後再繼續。
 
@@ -84,7 +81,7 @@ Marketo Sales Insight是一套絕佳的工具，可讓您的銷售團隊透過�
 >
 >需要管理員權限。
 
-1. 登入Marketto並前往**管理**區段。
+1. 登入Marketo並前往&#x200B;**Admin**&#x200B;區段。
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
@@ -104,15 +101,12 @@ Marketo Sales Insight是一套絕佳的工具，可讓您的銷售團隊透過�
    >
    >*Lead和Contact*&#x200B;必須與Marketo同步下列欄位，Sales Insight才能運作：
    >
-   >    
-   >    
-   >    * 優先順序
-   >    * 緊急
-   >    * 相對分數
+   >* 優先順序
+   >* 緊急
+   >* 相對分數
 
-   >    
-   >    
-   >如果這些欄位中有任何欄位遺失，您會在Marketo中看到錯誤訊息，其名稱為遺失欄位。 要修復此問題，請執行[此過程](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)。
+   >
+   >如果這些欄位中有任何欄位遺失，您會在Marketo中看到錯誤訊息，其名稱為遺失欄位。 要修復此問題，請執行[此過程](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)。
 
 1. 回到Microsoft Dynamics，請至&#x200B;**Settings**。
 
@@ -162,5 +156,4 @@ Marketo Sales Insight是一套絕佳的工具，可讓您的銷售團隊透過�
 
 >[!MORELIKETHIS]
 >
->[為銷售線索／聯繫人記錄設定星形和火焰](http://docs.marketo.com/x/BICMAg)
-
+>[為銷售線索／聯繫人記錄設定星形和火焰](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
