@@ -3,7 +3,7 @@ unique-page-id: 2951046
 description: 發行說明- 2014年3月——行銷檔案——產品檔案
 title: 發行說明- 2014年3月
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -57,6 +57,6 @@ ht-degree: 0%
 
 ## Marketo開發人員部落格{#marketo-developer-blog}
 
-[Marketo Developer部落格](http://developers.marketo.com/blog/)專屬於支援現代行銷人員快速變遷需求的網頁開發人員和軟體工程師。 您可以訂閱有關新整合選項、API版本更新和一系列新操作說明文章的公告，這些文章包含與Marketo平台整合的程式碼範例和最佳實務。
+[Marketo Developer部落格](https://developers.marketo.com/blog/)專屬於支援現代行銷人員快速變遷需求的網頁開發人員和軟體工程師。 您可以訂閱有關新整合選項、API版本更新和一系列新操作說明文章的公告，這些文章包含與Marketo平台整合的程式碼範例和最佳實務。
 
-本系列中的[第一篇文章](http://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/)將引導您瞭解如何有效率地擷取儲存在Market中使用API的人員（客戶／連絡人／潛在客戶）的資訊。
+本系列中的[第一篇文章](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/)將引導您瞭解如何有效擷取儲存在Market中使用API的人員（客戶／連絡人／潛在客戶）的資訊。
