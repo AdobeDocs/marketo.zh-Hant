@@ -3,7 +3,7 @@ unique-page-id: 18874822
 description: 發行說明- 1996年6月——行銷檔案——產品檔案
 title: 發行說明- 19年6月
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->自2019年6月18日起，電子郵件1.0不再提供。 您可以在這裡[進一步瞭解Email 2.0和Email 1.0的取代。](http://nation.marketo.com/docs/DOC-7038)
+>自2019年6月18日起，電子郵件1.0不再提供。 您可以在這裡](https://nation.marketo.com/docs/DOC-7038)進一步瞭解Email 2.0和Email 1.0的取代。[
 
 ## 帳戶型行銷{#account-based-marketing}
 
