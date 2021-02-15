@@ -3,7 +3,7 @@ unique-page-id: 14745655
 description: 讓促銷活動對Sales Connect使用者可見- Marketo Docs —— 產品檔案
 title: 讓促銷活動對Sales Connect使用者可見
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -50,4 +50,3 @@ ht-degree: 0%
 1. 按一下「計畫&#x200B;****」標籤和「啟動&#x200B;**促銷活動」。**
 
    ![](assets/nine.png)
-
