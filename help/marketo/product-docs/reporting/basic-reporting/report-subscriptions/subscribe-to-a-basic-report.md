@@ -3,7 +3,7 @@ unique-page-id: 2359987
 description: 訂閱基本報表——行銷檔案——產品檔案
 title: 訂閱基本報表
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 訂閱基本報表{#subscribe-to-a-basic-report}
 
-若要接收[基本報表的自動更新或共用更新，您可以將任何電子郵件地址訂閱至現有報表。](http://docs.marketo.com/display/docs/basic+reporting)
+若要接收[基本報表的自動更新或共用更新，您可以將任何電子郵件地址訂閱至現有報表。](https://docs.marketo.com/display/docs/basic+reporting)
 
 >[!NOTE]
 >
->對於[收入週期瀏覽器](http://docs.marketo.com/display/docs/revenue+cycle+analytics)報表訂閱，請參閱[訂閱收入瀏覽器報表](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)。
+>對於[收入週期瀏覽器](https://docs.marketo.com/display/docs/revenue+cycle+analytics)報表訂閱，請參閱[訂閱收入瀏覽器報表](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)。
 
 1. 前往**行銷活動**區域。
 
@@ -58,5 +58,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >在[基本報表](http://docs.marketo.com/display/docs/basic+reporting)深入探討中，瞭解您還可以如何處理報表。
+   >在[基本報表](https://docs.marketo.com/display/docs/basic+reporting)深入探討中，瞭解您還可以如何處理報表。
 
