@@ -3,7 +3,7 @@ unique-page-id: 4719332
 description: 部署RTP JavaScript —— 行銷檔案——產品檔案
 title: 部署RTP JavaScript
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -45,5 +45,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [RTP標籤實現](http://docs.marketo.com/display/docs/rtp+tag+implementation)
+>* [RTP標籤實現](https://docs.marketo.com/display/docs/rtp+tag+implementation)
 
