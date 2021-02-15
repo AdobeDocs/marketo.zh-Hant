@@ -3,7 +3,7 @@ unique-page-id: 2949844
 description: 建立新的活動計畫——行銷檔案——產品檔案
 title: 建立新的事件方案
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-建立您的事件後，請建立[著陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)、[forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)和[電子郵件](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)以邀請您的來賓！ 您還希望熟悉[程式計畫視圖](http://docs.marketo.com/display/docs/program+schedule+view)。
+建立您的事件後，請建立[著陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)、[forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)和[電子郵件](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)以邀請您的來賓！ 您還希望熟悉[程式計畫視圖](https://docs.marketo.com/display/docs/program+schedule+view)。
 
 >[!MORELIKETHIS]
 >
