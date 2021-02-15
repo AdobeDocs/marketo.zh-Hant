@@ -3,7 +3,7 @@ unique-page-id: 14745825
 description: 銷售連線與GDPR合規性——行銷檔案——產品檔案
 title: 銷售聯繫與GDPR合規性
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1387'
 ht-degree: 0%
@@ -38,10 +38,11 @@ GDPR適用於歐盟內部或外部任何向歐盟和EEA內的資料主體行銷�
 
 行銷人員致力於建立個人化和人性化的客戶體驗，建立在信任的基礎之上，並謹慎提供。 雖然GDPR不使用這些條款，但是其目標是相同的——尊重客戶權利並贏得客戶信任。 為了建立並維持這種信任，行銷人員必須瞭解客戶想要參與的方式、時機及原因。 客戶偏好的尊重至關重要，不僅要作為法律要求，而且要作為以客戶為中心的參與實踐的基礎。
 
-行銷人員如何因應工作過程中經常使用之個人資料的收集、使用和安全性等更高的期望，是關鍵所在，而Marketo可協助達成這些期望。\
+行銷人員如何因應工作過程中經常使用之個人資料的收集、使用和安全性等更高的期望，是關鍵所在，而Marketo可協助達成這些期望。
+
 GDPR有兩個關鍵方面，行銷人員需要回顧過去、現在和未來的做法。 一是個人同意處理其個人資料，二是問責，即能夠證明GDPR原則的遵循。
 
-我們在電子書[GDPR和The Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/)中提供有關Marketo平台內同意與責任的廣泛資訊。 不過，在本文中，我們將特別著重於Marketo Sales Connect中的新功能，以協助您的組織遵守GDPR規則。
+我們在電子書[GDPR和The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/)中提供有關Marketo平台內同意與責任的廣泛資訊。 不過，在本文中，我們將特別著重於Marketo Sales Connect中的新功能，以協助您的組織遵守GDPR規則。
 
 ## Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}中的GDPR合規性
 
@@ -94,7 +95,8 @@ Marketo Sales Connect在人員詳細資料檢視中包含一張合規性卡，�
 ![](assets/6.png)
 
 如果為「授權類型」或「源類型」選擇了「其他」，則可輸入文本以說明「源類型」。
-** ![](assets/7.png)
+
+![](assets/7.png)
 
 Bulk Actions** Marketo Sales Connect還允許批量更新聯繫人的授權和源類型，從而節省了法規遵從性過程中的寶貴時間。
 
@@ -166,7 +168,9 @@ Bulk Actions** Marketo Sales Connect還允許批量更新聯繫人的授權和�
 >
 >這一次只能進行一次連絡。 目前沒有允許大量匯出連絡人的功能。
 
-要導出聯繫資訊，請按一下「人員詳細資訊視圖」頁首中的三個垂直點，然後選擇&#x200B;**導出**。 .CSV檔案將會自動下載。   ![](assets/thirteen.png)
+要導出聯繫資訊，請按一下「人員詳細資訊視圖」頁首中的三個垂直點，然後選擇&#x200B;**導出**。 .CSV檔案將會自動下載。
+
+![](assets/thirteen.png)
 
 >[!NOTE]
 >
@@ -185,4 +189,4 @@ GDPR中常常被誤解的一個領域是取消訂閱組織資料庫的聯絡人�
 
 Marketo是參與式經濟的強大力量和以客戶為中心的熱心倡導者，瞭解將隱私權和資料保護交由資料主體的重要性。 和其他資料保護法律一樣，GDPR合規性要求行銷人員和客戶都承諾遵守。 本文旨在協助您以適當方式使用Marketo，以支援貴組織的GDPR合規性。
 
-我們將繼續密切追蹤相關法規機構發佈的GDPR相關指引。 更新將張貼至我們的信任中心[trust.marketo.com](http://trust.marketo.com)。
+我們將繼續密切追蹤相關法規機構發佈的GDPR相關指引。 更新將張貼至我們的信任中心[trust.marketo.com](https://trust.marketo.com)。
