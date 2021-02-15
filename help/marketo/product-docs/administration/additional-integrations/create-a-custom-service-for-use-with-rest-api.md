@@ -3,7 +3,7 @@ unique-page-id: 2360350
 description: 建立自訂服務以搭配ReST API —— 行銷人員檔案——產品檔案
 title: 建立自訂服務以搭配ReST API使用
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->請參閱我們的開發人員檔案，以取得[ReST API](http://developers.marketo.com/documentation/rest/)的詳細資訊。 如果您需要[SOAP API](http://developers.marketo.com/documentation/soap/)，我們也提供&lt;a0/>。
+>請參閱我們的開發人員檔案，以取得[ReST API](https://developers.marketo.com/documentation/rest/)的詳細資訊。 如果您需要[SOAP API](https://developers.marketo.com/documentation/soap/)，我們也提供。
 
 >[!NOTE]
 >
