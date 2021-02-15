@@ -3,7 +3,7 @@ unique-page-id: 2949285
 description: 在Marketo - Marketo Docs —— 產品檔案中記錄來自您銷售線索的入站郵件
 title: 在Marketo中記錄來自您銷售線索的入站郵件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 7952f5069ed641e2b5ca329c69f4e3f237e2c43e
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -43,10 +43,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用Marketor Email Add-in for Outlook傳送及追蹤電子郵件](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [使用Marketo範本從Outlook傳送及追蹤](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [使用Marketor Email Add-in for Outlook傳送及追蹤電子郵件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [使用Marketo範本從Outlook傳送及追蹤](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
