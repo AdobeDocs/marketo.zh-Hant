@@ -3,7 +3,7 @@ unique-page-id: 2949281
 description: 核發行銷人員電子郵件附加授權——行銷人員檔案——產品檔案
 title: 核發行銷人員電子郵件附加授權
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >要遠程安裝插件，請取消選中該複選框，然後將[企業密鑰](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key)發送給您的IT團隊。
+   >要遠程安裝插件，請取消選中該複選框，然後將[企業密鑰](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key)發送給您的IT團隊。
    >
    >如果您的銷售代表擁有電腦的管理員存取權，請勾選方塊，您就完成！
 
