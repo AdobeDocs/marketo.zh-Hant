@@ -3,9 +3,9 @@ unique-page-id: 30081230
 description: 人員大量行動——行銷檔案——產品檔案
 title: 對人員的大量動作
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 授權{#authorization}
 
-遵循[GDPR](http://eugdpr.org/)，使用授權來指出您如何獲得與這些聯絡人接觸的權限。
+遵循[GDPR](https://eugdpr.org/)，使用授權來指出您如何獲得與這些聯絡人接觸的權限。
 
 ![](assets/authorization.png)
 
@@ -49,7 +49,6 @@ ht-degree: 0%
 
 ## 刪除{#delete}
 
-大量刪除聯繫人。 完整步驟可在[這裡](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts)找到。
+大量刪除聯繫人。 完整步驟可在[這裡](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)找到。
 
 ![](assets/delete.png)
-
