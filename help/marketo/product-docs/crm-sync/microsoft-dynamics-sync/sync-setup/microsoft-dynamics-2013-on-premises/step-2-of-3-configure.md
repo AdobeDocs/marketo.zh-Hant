@@ -3,7 +3,7 @@ unique-page-id: 3571816
 description: 第2步（共3步）-為行銷人員設定同步使用者（2013年內部部署）-行銷人員檔案——產品檔案
 title: 步驟2（共3步）-為Marketo設定同步使用者（2013年內部部署）
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-11-11-3a13-3a29.png)
 
-1. 您會在這裡看到使用者清單。 選擇您的專用Marketo Sync使用者，或聯絡您的[Active Directory Federation Services(AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [管理員以建立專用於Marketo的新使用者。](http://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
+1. 您會在這裡看到使用者清單。 選擇您的專用Marketo Sync使用者，或聯絡您的[Active Directory Federation Services(AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [管理員以建立專用於Marketo的新使用者。](https://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
