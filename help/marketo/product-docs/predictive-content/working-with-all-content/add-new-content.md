@@ -3,7 +3,7 @@ unique-page-id: 11384651
 description: 新增內容——行銷人員至檔案——產品檔案
 title: 新增內容
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -39,5 +39,5 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. 以下說明如何將它新增至[預測性內容](http://docs.marketo.com/x/Vbet)。
+1. 以下說明如何將它新增至[預測性內容](https://docs.marketo.com/x/Vbet)。
 
