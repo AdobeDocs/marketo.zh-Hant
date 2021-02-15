@@ -3,7 +3,7 @@ unique-page-id: 2360016
 description: 使用智慧型清單篩選報表中的人員——行銷人員檔案——產品檔案
 title: 使用智慧型清單篩選報表中的人員
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 * [人員績效](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [各狀態人物](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [依收入階段劃分的人員](http://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
+* [依收入階段劃分的人員](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
 * [電子郵件效能](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [電子郵件連結效能](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [參與流效能](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
@@ -55,5 +55,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >如需使用報表的更多方法，請參閱[基本報表](http://docs.marketo.com/display/docs/basic+reporting)深入探討。
+   >如需使用報表的更多方法，請參閱[基本報表](https://docs.marketo.com/display/docs/basic+reporting)深入探討。
 
