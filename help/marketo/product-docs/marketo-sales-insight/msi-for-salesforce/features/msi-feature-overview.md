@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: MSI功能概觀——行銷檔案——產品檔案
 title: MSI功能概觀
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ MSI Visualforce面板包含下列功能：
 
 * 標籤
 
-   * [前瞻分析資料板](http://docs.marketo.com/x/EoGMAg)
+   * [前瞻分析資料板](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
    * 有趣的時刻
    * Web活動
    * 電子郵件
@@ -170,7 +170,7 @@ Salesforce Classic:「銷售機會」和「連絡人」清單檢視中的「新�
 
 >[!MORELIKETHIS]
 >
->[Salesforce中的Marketo Sales Insight「設定」標籤](http://docs.marketo.com/x/UoCMAg)
+>[Salesforce中的Marketo Sales Insight「設定」標籤](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
 ## 銷售分析績效報表{#sales-insight-performance-reports}
 
