@@ -3,7 +3,7 @@ unique-page-id: 6849070
 description: 下載Microsoft Dynamics的Marketo Sales Insight解決方案- Marketo Docs —— 產品檔案
 title: 下載Microsoft Dynamics的Marketo Sales Insight解決方案
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
