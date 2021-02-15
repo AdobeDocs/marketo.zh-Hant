@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: 在Salesforce Enterprise中設定Marketo Sales Insight/Unlimited - Marketo Docs —— 產品檔案
 title: 在Salesforce Enterprise中設定Marketo Sales Insight/Unlimited
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '920'
+source-wordcount: '906'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [在您的Salesforce Enterprise/Unlimited Edition中設定Marketo欄位同步](http://docs.marketo.com/pages/viewpage.action?pageid=2360372)
->* [在Salesforce AppExchange中安裝Marketo Sales Insight套件](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
-
->
-
+>* [在您的Salesforce Enterprise/Unlimited Edition中設定Marketo欄位同步](https://docs.marketo.com/pages/viewpage.action?pageid=2360372)
+>* [在Salesforce AppExchange中安裝Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 
 >[!NOTE]
@@ -31,6 +28,7 @@ ht-degree: 0%
 ## 在Marketon中設定Sales Insight {#configure-sales-insight-in-marketo}
 
 1. 開啟新的瀏覽器視窗，從您的Marketo帳戶取得Marketo Sales Insight認證。
+
 1. 前往「管理員」區域並選取「銷售分析」**。**
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
@@ -85,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/login-admin.png)
 
-1. 按一下** Sales Insight**。
+1. 按一下&#x200B;**Sales Insight**。
 
    ![](assets/image2015-5-22-15-3a12-3a33.png)
 
@@ -135,7 +133,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. 按一下左側的**Visualforce頁面**。 將&#x200B;**Section**&#x200B;拖曳至「自訂連結」區段下的版面。
+1. 按一下左側的&#x200B;**Visualforce Pages**。 將&#x200B;**Section**&#x200B;拖曳至「自訂連結」區段下的版面。
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
@@ -163,7 +161,7 @@ ht-degree: 0%
    >
    >我們建議Accounts和Opportunity物件的高度為410像素。
 
-1. 按一下左側的**欄位**。 然後搜尋並拖曳&#x200B;**Engagement**&#x200B;標籤至&#x200B;**Marketo Sales Insight**&#x200B;版面。
+1. 按一下左側的&#x200B;**欄位**。 然後搜尋並拖曳&#x200B;**Engagement**&#x200B;標籤至&#x200B;**Marketo Sales Insight**&#x200B;版面。
 
    ![](assets/image2015-5-22-16-3a32-3a46.png)
 
@@ -195,11 +193,12 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-1. 完成後，按一下&#x200B;**保存**。
+1. 完成時，按一下「保存」。****
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
 1. 重複此過程，為&#x200B;**Contact**、**Account**&#x200B;和&#x200B;**Opportunity**&#x200B;添加Visualforce頁面部分和Sales Insight欄位。
+
 1. 重複步驟5-7，為Contact 、 Account和Opportunity添加Visualforce頁面部分。 然後，重複步驟8-10，為&#x200B;**Contact**&#x200B;添加Sales Insight欄位。 請務必在變更後儲存。
 
 ## 映射自定義人員欄位{#map-custom-person-fields}
@@ -216,15 +215,13 @@ ht-degree: 0%
 
 1. 按一下&#x200B;**映射銷售線索欄位**。
 
-   ** ![](assets/image2015-6-1-9-3a58-3a48.png)
-
-   **
+   ![](assets/image2015-6-1-9-3a58-3a48.png)
 
 1. 按一下右側的下拉式清單，顯示&#x200B;**Engagement**。
 
    ![](assets/image2015-6-1-10-3a9-3a53.png)
 
-1. 在清單中選取**Contact.Engagement **。
+1. 在清單中選擇&#x200B;**Contact.Engagement**。
 
    ![](assets/image2015-6-1-10-3a12-3a11.png)
 
@@ -267,21 +264,21 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-1. 完成時，按一下「**儲存**」。
+1. 完成時，按一下「儲存」。****
 
 ## Marketo Sales Insight設定{#marketo-sales-insight-config}
 
-1. 按一下**+ **，然後選取&#x200B;**Marketo Sales Insight Config**。
+1. 按一下&#x200B;**+**，然後選取&#x200B;**Marketo Sales Insight Config**。
 
    ![](assets/image2014-9-24-17-3a37-3a45.png)
 
-1. 勾選&#x200B;**啟用Marketo API**。 然後，填寫Marketo Admin](http://docs.marketo.com/display/DOCS/Configure+Marketo+Sales+Insight+in+Salesforce+Professional+Edition#ConfigureMarketoSalesInsightinSalesforceProfessionalEdition-SetupMarketoSalesInsight)中的[API設定資訊。 完成時，按一下「儲存變更」。
+1. 勾選&#x200B;**啟用Marketo API**。 然後，填寫Marketo Admin](#set-up-marketo-sales-insight)中的[API設定資訊。 完成後，按一下「保存更改」。****
 
    ![](assets/image2014-9-24-17-3a38-3a0.png)
 
    >[!NOTE]
    >
-   >如果診斷測試失敗，您可能需要[將更多欄位新增至頁面配置](http://nation.marketo.com/docs/DOC-1115)。
+   >如果診斷測試失敗，您可能需要[將更多欄位新增至頁面配置](https://nation.marketo.com/docs/DOC-1115)。
 
 就這樣！ 您應該能夠查看Lead 、 Contacts 、 Accounts和Opportunity的Marketo Sales Insight欄位。
 
@@ -294,18 +291,17 @@ ht-degree: 0%
 ## 存取Marketor Sales Insight {#access-marketo-sales-insight}
 
 1. 在Salesforce中，按一下標籤列結尾的&#x200B;**+**，然後按一下「Marketo Sales Insight設定」。****
+
 1. 選取&#x200B;**啟用Marketo API**&#x200B;核取方塊。
+
 1. 從Marketo的「銷售分析管理」頁面的「Soap API」面板複製認證，並貼到「Salesforce銷售分析設定」頁面的「Soap API」區段中。
+
 1. 從Marketo的「銷售分析管理」頁面的「Rest API」面板複製認證，並貼到「Salesforce Sales Insight設定」頁面的「Rest API」區段中。
 
    ![](assets/access-msi.png)
 
 >[!MORELIKETHIS]
 >
->* [優先順序、緊急程度、相對分數和最佳賭注](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [新增Market至Sales Insight標籤和按鈕至Salesforce](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
-
->
-
-
+>* [優先順序、緊急程度、相對分數和最佳賭注](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+>* [新增Market至Sales Insight標籤和按鈕至Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
 
