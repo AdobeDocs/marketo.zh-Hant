@@ -3,7 +3,7 @@ unique-page-id: 2360052
 description: 已檢視的網頁、網頁活動報表——行銷檔案——產品檔案
 title: 已檢視的網頁、網頁活動報表
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a54-3a8.png)
 
-1. 你在那！ 隨即開啟新視窗，顯示訪客瀏覽網站的頁面清單，以及瀏覽時間。
+1. 你在那！ 隨即開啟新視窗，顯示訪客瀏覽網站的頁面清單以及瀏覽時間。
 
    ![](assets/image2014-9-16-14-3a54-3a12.png)
 
@@ -38,5 +38,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >利用報告完成更多工作！ 請參閱[基本報告](http://docs.marketo.com/display/docs/basic+reporting)深入探討。
+   >利用報告完成更多工作！ 請參閱[基本報告](https://docs.marketo.com/display/docs/basic+reporting)深入探討。
 
