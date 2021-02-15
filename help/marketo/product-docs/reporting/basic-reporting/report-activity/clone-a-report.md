@@ -3,7 +3,7 @@ unique-page-id: 2360028
 description: 複製報表——行銷檔案——產品檔案
 title: 複製報表
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -41,5 +41,5 @@ ht-degree: 0%
    >    * [使用智慧型清單篩選報表中的人員](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
 
 
-   自訂報表的功能更多！ 請參閱[基本報告](http://docs.marketo.com/display/docs/basic+reporting)。
+   自訂報表的功能更多！ 請參閱[基本報告](https://docs.marketo.com/display/docs/basic+reporting)。
 
