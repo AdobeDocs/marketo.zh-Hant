@@ -3,7 +3,7 @@ unique-page-id: 2953338
 description: 從Microsoft Dynamics - Marketo Docs —— 產品檔案傳送行銷人員至銷售人員的電子郵件
 title: 從Microsoft Dynamics傳送行銷人員至銷售人員的電子郵件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以[以範本](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)形式發佈電子郵件，供您的銷售團隊使用。
+   >您可以[以範本](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)形式發佈電子郵件，供您的銷售團隊使用。
 
 1. 新增主旨、撰寫電子郵件，然後按一下「傳送電子郵件」。 ****（如果需要，請挑選範本。）
 
@@ -45,9 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [從Microsoft Dynamics新增銷售機會／連絡人至Marketo促銷活動](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
-
->
-
-
-
+>[從Microsoft Dynamics新增銷售機會／連絡人至Marketo促銷活動](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
