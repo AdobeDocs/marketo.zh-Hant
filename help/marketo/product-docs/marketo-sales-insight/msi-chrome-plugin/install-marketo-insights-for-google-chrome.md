@@ -3,9 +3,9 @@ unique-page-id: 1147326
 description: 安裝Google Chrome的Marketo Insights - Marketo Docs —— 產品檔案
 title: 安裝Google Chrome的Marketo Insights
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 7952f5069ed641e2b5ca329c69f4e3f237e2c43e
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
-1. 在Chrome中按一下Marketo標誌並選取**選項**。
+1. 在Chrome中按一下滑鼠右鍵，然後選取&#x200B;**選項**。
 
    ![](assets/two.png)
 
@@ -37,13 +37,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在行銷人員[i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) [向您提交行銷人員電子郵件附加授權](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [後，系統會在傳送的電子郵件中注明註冊代碼。](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **14天後過期。**
+   >在行銷人員[向您發出行銷人員電子郵件增益集授權](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [後，系統會在電子郵件中傳送註冊代碼。](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **14天後過期**。
 
-1. 按一下**允許**以允許離線存取。
+1. 按一下&#x200B;**允許**&#x200B;允許離線訪問。
 
    ![](assets/image2015-10-5-10-3a34-3a1.png)
 
 >[!MORELIKETHIS]
 >
->[使用Google Chrome的Marketo Insights](using-marketo-insights-for-google-chrome.md)
-
+>[使用Google Chrome的Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
