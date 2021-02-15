@@ -3,7 +3,7 @@ unique-page-id: 4720253
 description: 發行說明- 2014年12月——行銷檔案——產品檔案
 title: 發行說明- 2014年12月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ·合併銷售線索
 
-在[developers.marketo.com](http://developers.marketo.com/)發行後，將提供完整的詳細資訊
+在[developers.marketo.com](https://developers.marketo.com/)發行後，將提供完整的詳細資訊
 
 ## Munchkin Javascript相容性增強功能{#munchkin-javascript-compatibility-enhancements}
 
