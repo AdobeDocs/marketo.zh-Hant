@@ -3,7 +3,7 @@ unique-page-id: 1146999
 description: 精彩瞬間的代號——行銷檔案——產品檔案
 title: 有趣時刻的Token
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* 瞭解如何使用[有趣的力矩流步驟](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)。
->* 進一步瞭解[Token](http://docs.marketo.com/display/docs/tokens)。
+>* 進一步瞭解[Token](https://docs.marketo.com/display/docs/tokens)。
 
 >
 
