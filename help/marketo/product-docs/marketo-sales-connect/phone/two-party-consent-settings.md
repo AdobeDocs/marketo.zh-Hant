@@ -3,9 +3,9 @@ unique-page-id: 45416566
 description: 雙方同意設定——行銷人員檔案——產品檔案
 title: 雙方同意設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->在執行以下步驟之前，您必須先[啟用呼叫記錄。](http://docs.marketo.com/x/dAC1Ag)
+>在執行以下步驟之前，您必須先[啟用呼叫錄制](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md)。
 
 1. 按一下「設定」圖示，然後選取「設定」****。
 
@@ -50,4 +50,3 @@ ht-degree: 0%
 1. 按一下切換，讓選取的訊息在您錄制的呼叫開始時播放。
 
    ![](assets/seven.png)
-
