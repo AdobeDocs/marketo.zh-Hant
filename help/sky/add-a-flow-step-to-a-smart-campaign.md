@@ -2,7 +2,7 @@
 title: add-a-flow-step-to-a-smart-campaign
 description: 新增流量步驟至智慧型促銷活動
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 **深入探討**
 
-進一步瞭解不同的[流程步驟](http://docs.marketo.com/display/DOCS/Flow+Actions)。
+進一步瞭解不同的[流程步驟](https://docs.marketo.com/display/DOCS/Flow+Actions)。
 
 1. 按一下下拉式清單，然後選擇適當的選項。
 
