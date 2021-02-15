@@ -3,7 +3,7 @@ unique-page-id: 11382815
 description: IT人員安裝Marketo Outlook外掛程式- Marketo Docs —— 產品檔案
 title: IT部門安裝Marketo Outlook外掛程式
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[設定](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) 企業金鑰。
+>[設定](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) 企業金鑰。
 
 以「System」（系統）或具有要安裝的/i開關的管理用戶帳戶形式運行以下命令行。 `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
