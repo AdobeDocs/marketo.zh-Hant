@@ -3,7 +3,7 @@ unique-page-id: 2951117
 description: 發行說明- 2012年5月——行銷檔案——產品檔案
 title: 發行說明- 2012年5月
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->如需其他版本，請參閱[發行說明](http://docs.marketo.com/display/docs/release+notes)深入探討。
+>如需其他版本，請參閱[發行說明](https://docs.marketo.com/display/docs/release+notes)深入探討。
 
 ## 重新設計電子郵件績效報表{#email-performance-report-redesign}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 等待步驟增強功能{#wait-step-enhancements}
 
-使用新的「進階等待」屬性，您可以設定「智慧型促銷活動流量」動作中的等待步驟，以「等到」一週中的特定一天、下一工作日、特定日期或時間。 這些增強功能可確保您的培養型電子郵件在工作時間內送達收件箱！
+使用新的「進階等待」屬性，您可以設定「智慧型促銷活動流量」動作中的等待步驟，以「等待」一週中的特定一天、下一工作日、特定日期或時間。 這些增強功能可確保您的培養型電子郵件在工作時間內送達收件箱！
 
 ![](assets/image2014-9-23-10-3a14-3a13.png)
 
