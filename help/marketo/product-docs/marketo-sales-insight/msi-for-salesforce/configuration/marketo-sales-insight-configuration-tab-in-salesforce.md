@@ -3,7 +3,7 @@ unique-page-id: 42762322
 description: Salesforce中的Marketo Sales Insight設定標籤- Marketo Docs —— 產品檔案
 title: Salesforce中的Marketo Sales Insight「設定」標籤
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -58,4 +58,3 @@ ht-degree: 0%
 選擇這樣做將擦除SFDC中的所有配置，並且無法恢復這些配置。 您必須重新設定所有項目。
 
 ![](assets/three.png)
-
