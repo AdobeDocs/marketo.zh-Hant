@@ -3,7 +3,7 @@ unique-page-id: 2359994
 description: 選擇報表欄——行銷檔案——產品檔案
 title: 選擇報表欄
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -35,5 +35,5 @@ ht-degree: 0%
    >    * [對列排序報表](sort-report-on-columns.md)
 
 
-   利用報告完成更多工作！ 請參閱[基本報告](http://docs.marketo.com/display/docs/basic+reporting)。
+   利用報告完成更多工作！ 請參閱[基本報告](https://docs.marketo.com/display/docs/basic+reporting)。
 
