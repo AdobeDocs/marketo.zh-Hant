@@ -3,7 +3,7 @@ unique-page-id: 2951058
 description: 發行說明- 2013年8月——行銷檔案——產品檔案
 title: 發行說明- 2013年8月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 發行說明：2013年8月{#release-notes-august}
 
-2013年8月發行包含下列功能。 請檢查您的[Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing-1.php)是否提供功能。
+2013年8月發行包含下列功能。 請檢查您的[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing-1.php)是否提供功能。
 
 發行後，請務必查看社群中的[新發行](release-notes-december-2013.md)標籤，以取得每個新功能的詳細知識庫文章！
 
