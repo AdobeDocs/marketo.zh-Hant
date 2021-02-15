@@ -3,7 +3,7 @@ unique-page-id: 8783189
 description: 發行說明- 2015年7月——行銷檔案——產品檔案
 title: 發行說明- 2015年7月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 ## 富格文本編輯器更新{#rich-text-editor-update}
 
 更新文字編輯器，提供現代化的外觀和感覺，包括簡化的文字格式、影像編輯、連結插入和HTML編輯。 HTML編輯器現在提供最少的驗證，讓編輯程式碼的限制更少。
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` 此更新將在7月發行後數天內自動推出。之後，您就可以從&#x200B;**管理>電子郵件>編輯編輯器設定**&#x200B;在新版和舊版編輯器之間切換。 如果您注意到新版文字編輯器的問題，我們會想知道！ 請傳送簡短說明給[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd)。
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` 此更新將在7月發行後數天內自動推出。之後，您就可以從&#x200B;**管理>電子郵件>編輯編輯器設定**&#x200B;在新版和舊版編輯器之間切換。 如果您注意到新版文字編輯器的問題，我們會想知道！ 請傳送簡短說明給[`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd)。
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 **透過REST API存取公司物件**:REST API現在提供Marketo Company(亦即帳戶)物件。這表示您可以讀取、更新和刪除您在Marketo中建立的公司物件，並使用更新的銷售機會API將銷售機會與此類公司建立關聯。
 
-在公司API的參考指南中瞭解[more](http://developers.marketo.com/documentation/company-api/)。
+在公司API的參考指南中瞭解[more](https://developers.marketo.com/documentation/company-api/)。
 
 ## 存取電子郵件傳遞能力{#access-email-deliverability}
 
