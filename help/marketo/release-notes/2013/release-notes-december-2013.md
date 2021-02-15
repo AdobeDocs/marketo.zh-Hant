@@ -3,7 +3,7 @@ unique-page-id: 2951052
 description: 發行說明- 2013年12月——行銷檔案——產品檔案
 title: 發行說明- 2013年12月
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 發行說明：2013年12月{#release-notes-december}
 
-12月發行包含下列功能。 請檢查您的[Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php)是否提供功能。
+12月發行包含下列功能。 請檢查您的[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php)是否提供功能。
 
 發行後，請務必查看社群中的「新發行」標籤，以取得每個功能的詳細知識庫文章！
 
 ## 甜蜜的背景像片{#sweet-background-photos}
 
-我們已開始在應用程式中展現我們的創意天賦。 每季都會有新的藝術家出演。 為了開始我們，我們選擇了[Trey Ratcliff](http://stuckincustoms.smugmug.com/)。
+我們已開始在應用程式中展現我們的創意天賦。 每季都會有新的藝術家出演。 為了開始我們，我們選擇了[Trey Ratcliff](https://stuckincustoms.smugmug.com/)。
 
 ## 電子郵件程式{#email-program}
 
