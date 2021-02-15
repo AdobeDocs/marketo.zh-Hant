@@ -3,7 +3,7 @@ unique-page-id: 2360401
 description: 比較渠道有效性與計劃分析器——行銷人員文檔——產品文檔
 title: 比較渠道有效性與計劃分析器
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
@@ -93,4 +93,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->進一步瞭解[收入週期總管](http://docs.marketo.com/display/docs/revenue+cycle+analytics)中的進階分析。
+>進一步瞭解[收入週期總管](https://docs.marketo.com/display/docs/revenue+cycle+analytics)中的進階分析。
