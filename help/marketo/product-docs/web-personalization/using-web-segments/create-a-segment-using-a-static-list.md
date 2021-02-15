@@ -3,7 +3,7 @@ unique-page-id: 13795536
 description: 使用靜態清單建立區段——行銷檔案——產品檔案
 title: 使用靜態清單建立區段
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用靜態清單建立區段{#create-a-segment-using-a-static-list}
 
-根據訪客是否在您的行銷人員[靜態清單](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists)中，劃分已知網站訪客瀏覽您網站時的區段。
+根據訪客是否在您的行銷人員[靜態清單](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists)中，劃分已知網站訪客瀏覽您網站時的區段。
 
 1. 前往&#x200B;**區段**。
 
