@@ -3,7 +3,7 @@ unique-page-id: 2951042
 description: 發行說明- 2014年6月——行銷檔案——產品檔案
 title: 發行說明- 2014年6月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 ## 銷售線索ReST API {#lead-rest-api}
 
-透過我們新的ReST API，以程式設計方式建立、閱讀和更新客源。 若要開始使用ReST，您必須[在Marketo中建立自訂服務](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)。 然後前往[開發人員網站](http://developers.marketo.com/documentation/rest/)，以取得使用此API的詳細資訊。
+透過我們新的ReST API，以程式設計方式建立、閱讀和更新客源。 若要開始使用ReST，您必須[在Marketo中建立自訂服務](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)。 然後前往[開發人員網站](https://developers.marketo.com/documentation/rest/)，以取得使用此API的詳細資訊。
 
 ## Marketo Real-Time Personalization(RTP)Campaigns Page Update {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
-RTP促銷活動現在包含新的設計，提供縮圖檢視和促銷活動效能。 此外，您還可以根據日期或最佳效能，組織您的促銷活動[。](../../product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md)
+RTP促銷活動現在包含新的設計，提供縮圖檢視和促銷活動效能。 此外，您還可以根據日期或最佳效能，組織您的促銷活動](../../product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md)。[
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 
