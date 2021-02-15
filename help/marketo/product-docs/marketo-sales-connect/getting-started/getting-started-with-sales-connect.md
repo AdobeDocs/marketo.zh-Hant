@@ -3,7 +3,7 @@ unique-page-id: 13796466
 description: 銷售連線入門——行銷人員檔案——產品檔案
 title: Sales Connect快速入門
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 0%
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 將您的Sales Connect帳戶連接至Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-若要以管理員或非管理員身分將您的Sales Connect帳戶連接至您的Salesforce帳戶，請遵循本文[中的步驟。](http://docs.marketo.com/x/JwDb)
+若要以管理員或非管理員身分將您的Sales Connect帳戶連接至您的Salesforce帳戶，請遵循本文[中的步驟。](https://docs.marketo.com/x/JwDb)
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ ht-degree: 0%
 
 如果您的帳戶（先前來自ToutApp）上已有任何使用者，他們會顯示在Sales Connect「Marketo」區段的「團隊存取」標籤中。****
 
-您可以從此頁面將您的團隊布建為Marketo Sales Connect使用者。 如果您從未使用過ToutApp，或尚未邀請使用者，請依照本文[中的步驟進行。](http://docs.marketo.com/display/TOUT/Invite+Team+Members)
+您可以從此頁面將您的團隊布建為Marketo Sales Connect使用者。 如果您從未使用過ToutApp，或尚未邀請使用者，請依照本文[中的步驟進行。](https://docs.marketo.com/display/TOUT/Invite+Team+Members)
 
 >[!CAUTION]
 >
