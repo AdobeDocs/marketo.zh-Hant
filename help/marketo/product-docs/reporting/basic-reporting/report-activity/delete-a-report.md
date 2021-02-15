@@ -3,7 +3,7 @@ unique-page-id: 2360030
 description: 刪除報表——行銷人員檔案——產品檔案
 title: 刪除報表
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -30,5 +30,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >在[基本報告](http://docs.marketo.com/display/docs/basic+reporting)深入探討中瞭解您可以處理報告的所有其他事項。
+   >在[基本報告](https://docs.marketo.com/display/docs/basic+reporting)深入探討中瞭解您可以處理報告的所有其他事項。
 
