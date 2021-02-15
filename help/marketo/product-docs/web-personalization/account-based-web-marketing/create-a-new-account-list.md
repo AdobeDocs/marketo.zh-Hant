@@ -3,7 +3,7 @@ unique-page-id: 4720232
 description: 建立新帳戶清單——行銷人員檔案——產品檔案
 title: 建立新帳戶清單
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->本文僅適用舊版Web ABM客戶。 如果您在2016年9月之後取得Web ABM，請依照本文[中的步驟進行。](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList)
+>本文僅適用舊版Web ABM客戶。 如果您在2016年9月之後取得Web ABM，請依照本文[中的步驟進行。](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList)
 
 ## 建立新帳戶清單{#create-a-new-account-list-1}
 
@@ -94,5 +94,5 @@ CSV檔案將取代現有檔案。 在新檔案的處理完成之前，現有清�
 >[!MORELIKETHIS]
 >
 >* [使用帳戶清單建立區段](create-a-segment-using-an-account-list.md)
->* [檢視指名帳戶清單](http://docs.marketo.com/pages/viewpage.action?pageid=4720244)
+>* [檢視指名帳戶清單](https://docs.marketo.com/pages/viewpage.action?pageid=4720244)
 
