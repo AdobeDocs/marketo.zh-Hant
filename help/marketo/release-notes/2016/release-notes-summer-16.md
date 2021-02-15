@@ -3,7 +3,7 @@ unique-page-id: 11380218
 description: 發行說明- 16年夏季——行銷檔案——產品檔案
 title: 發行說明- 16年夏季
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '804'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 16年夏季版本包含下列功能。 檢查您的Marketo版本，以取得功能。 請按一下標題連結，以檢視每個功能的詳細文章。
 
-## [帳戶型行銷](http://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
+## [帳戶型行銷](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
 
 Marketo Account Based Marketing在一個統一的平台中提供所有基本功能：
 
@@ -29,7 +29,7 @@ Marketo Account Based Marketing在一個統一的平台中提供所有基本功�
 >
 >ABM是您Marketo訂閱的附加元件，請連絡您的銷售代表以實施它。
 
-## [稽核記錄](http://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
+## [稽核記錄](https://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
 
 稽核記錄提供您Marketo訂閱中所做變更的完整記錄。 它可讓使用者和管理員建立問責制，協助識別意外行為的原因，並提供安全性，讓您知道誰在做什麼和何時做什麼。 此資訊將可在任何時間點取得，並可用來回答下列問題：
 
@@ -39,7 +39,7 @@ Marketo Account Based Marketing在一個統一的平台中提供所有基本功�
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint整合](http://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketo-Vibes SMS LaunchPoint整合](https://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
 
 直接在Marketo中輕鬆建立SMS訊息。 使用您豐富的Marketo資料個人化並鎖定訊息目標，並使用SMS訊息儀表板輕鬆監控訊息效能。
 
@@ -72,7 +72,7 @@ Marketo Account Based Marketing在一個統一的平台中提供所有基本功�
 
 Token現在可用於插入影像體驗的「外部URL」區域！ 如果您已使用`{{my.tokens}}`指定影像，現在可以在電子郵件編輯器2.0中參考這些Token。請注意，在「電子郵件編輯器2.0」畫布中，影像仍會顯示損毀。 但是，您會在傳送電子郵件之前，先在預覽和傳送範例中看到它們。
 
-## [多個品牌網域](http://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
+## [多個品牌網域](https://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
 
 電子郵件追蹤連結只能以單一品牌網域加上品牌標示的日子已經一去不復返了。 您現在可以新增多個品牌網域，以激發消費者信心、建立更精簡的外觀以專注於品牌、改善電子郵件傳遞能力，並依每封電子郵件選擇要用於每個電子郵件追蹤連結的品牌網域。
 
@@ -100,11 +100,11 @@ Token現在可用於插入影像體驗的「外部URL」區域！ 如果您已�
 
 離線檢視內容分析和建議資料。
 
-## [電子郵件編輯器2.0的API支援](http://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [電子郵件編輯器2.0的API支援](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 先前僅與v1.0電子郵件和範本相容的預先存在的資產API現在已針對v2.0電子郵件資產啟用。
 
-## [Marketo開發人員網站](http://developers.marketo.com/) {#marketo-developers-site}
+## [Marketo開發人員網站](https://developers.marketo.com/) {#marketo-developers-site}
 
 全新改良！
 
