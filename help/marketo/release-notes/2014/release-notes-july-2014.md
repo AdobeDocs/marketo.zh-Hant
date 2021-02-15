@@ -3,7 +3,7 @@ unique-page-id: 2951040
 description: 發行說明- 2014年7月——行銷檔案——產品檔案
 title: 發行說明- 2014年7月
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Marketo Lead Management將會更新，提供現代化、時尚的新外觀和感
 
 ## ReST API {#list-operations-in-the-rest-api}中的清單操作
 
-我們已新增下列與ReST中清單作業相關的呼叫。 如需完整檔案，請參閱[developers.marketo.com](http://developers.marketo.com/documentation/rest/)。
+我們已新增下列與ReST中清單作業相關的呼叫。 如需完整檔案，請參閱[developers.marketo.com](https://developers.marketo.com/documentation/rest/)。
 
 * 依ID取得清單
 * 取得多個清單
@@ -78,7 +78,7 @@ Marketo Lead Management將會更新，提供現代化、時尚的新外觀和感
 
 ## RTP:JavaScript API增強功能{#rtp-javascript-api-enhancements}
 
-新的RTP API呼叫，以取得即時訪客資料，例如組織、產業、位置和區段代碼符合。 此外，將滑鼠指標暫留在「區段」頁面的區段名稱上，會顯示顯示區段代碼的工具提示。 如需完整說明檔案，請參閱我們的[開發人員網站](http://developers.marketo.com/documentation/websites/rtp-js-api/)。
+新的RTP API呼叫，以取得即時訪客資料，例如組織、產業、位置和區段代碼符合。 此外，將滑鼠指標暫留在「區段」頁面的區段名稱上，會顯示顯示區段代碼的工具提示。 如需完整說明檔案，請參閱我們的[開發人員網站](https://developers.marketo.com/documentation/websites/rtp-js-api/)。
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
