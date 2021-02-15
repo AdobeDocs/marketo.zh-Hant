@@ -3,7 +3,7 @@ unique-page-id: 2360014
 description: 人員績效報告——行銷人員檔案——產品檔案
 title: 人員績效報表
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -41,12 +41,12 @@ ht-degree: 0%
 
 >[!TIP]
 >
->請記住，報表可輕鬆建立[](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)、[configure](http://docs.marketo.com/display/docs/basic+reporting)和[delete](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)。 繼續並運用您可控制資料的多種方式，以瞭解專注關鍵資料的最佳方式。
+>請記住，報表可輕鬆建立[](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)、[configure](https://docs.marketo.com/display/docs/basic+reporting)和[delete](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)。 繼續並運用您可控制資料的多種方式，以瞭解專注關鍵資料的最佳方式。
 
 >[!NOTE]
 >
 >**深入探討**
 >
 >
->深入瞭解[基本報告](http://docs.marketo.com/display/docs/basic+reporting)。
+>深入瞭解[基本報告](https://docs.marketo.com/display/docs/basic+reporting)。
 
