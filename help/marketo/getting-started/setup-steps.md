@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: 設定步驟——行銷人員檔案——產品檔案
 title: 設定步驟
 translation-type: tm+mt
-source-git-commit: 0a4050545c5c956001c9c299cfbcf59e9cffd39c
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2143'
 ht-degree: 0%
@@ -330,7 +330,7 @@ include:mktomail.com
    >
    >這些自訂範本僅適用於Launch Pack客戶。
 
-   前往[Marketo範本設計與建置](http://pages2.marketo.com/CESubmit-URL-ForTemplates.html)表單。 填寫您的公司資訊。
+   前往[Marketo範本設計與建置](https://pages2.marketo.com/CESubmit-URL-ForTemplates.html)表單。 填寫您的公司資訊。
 
    ![](assets/image2014-9-12-11-3a4-3a55.png)
 
