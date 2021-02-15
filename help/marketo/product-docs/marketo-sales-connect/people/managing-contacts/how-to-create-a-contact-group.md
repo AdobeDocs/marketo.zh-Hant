@@ -3,9 +3,9 @@ unique-page-id: 14352517
 description: 如何建立連絡人群組——行銷人員檔案——產品檔案
 title: 如何建立連絡人群組
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Sales Connect可讓您建立連絡人群組，以便傳送個人化電子郵件給多位收件者。
 
-要建立組，只需選擇&#x200B;**N****ew組**。
+要建立組，只需選擇&#x200B;**新建組**。
 
-您可在此處透過CSV[手動[或](http://docs.marketo.com/x/IYTS)新增連絡人。](http://docs.marketo.com/x/VADb)
+您可在此處透過CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)手動](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)或[新增連絡人。[
 
-若要進一步瞭解傳送群組電子郵件，請按一下此處[。](http://docs.marketo.com/x/iADb)
+若要進一步瞭解傳送群組電子郵件，請按一下此處[。](/help/marketo/product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-a-group-email.md)
