@@ -3,7 +3,7 @@ unique-page-id: 10097199
 description: 發行說明- 16年冬季——行銷檔案——產品檔案
 title: 發行說明- 16年冬季
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
@@ -49,13 +49,13 @@ Winter &#39;16版本包含下列功能。 請按一下標題連結，以檢視�
 
 ## [行動行銷增強功能](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap支援：我** 們現在為您的行動應用程式提供PhoneGap支援。[進一步瞭解](http://developers.marketo.com/documentation/mobile/phonegap-plugin/)。
+**PhoneGap支援：我** 們現在為您的行動應用程式提供PhoneGap支援。[進一步瞭解](https://developers.marketo.com/documentation/mobile/phonegap-plugin/)。
 
 **支援沙盒應用程式**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [方案API](http://developers.marketo.com/documentation/programs/) {#program-api}
+## [方案API](https://developers.marketo.com/documentation/programs/) {#program-api}
 
 透過REST API建立、更新和復製程式。 這不包括在方案中建立或更新智慧型清單和智慧型促銷活動。
 
