@@ -3,7 +3,7 @@ unique-page-id: 7513771
 description: 登入與使用者管理——行銷檔案——產品檔案
 title: 登入與使用者管理
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. 輸入角色名稱並選擇權限。 按一下&#x200B;**建立**（此角色必須[應用於所有工作區](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)）。
+1. 輸入角色名稱並選擇權限。 按一下&#x200B;**建立**（此角色必須[應用於所有工作區](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)）。
 
    ![](assets/four.png)
 
