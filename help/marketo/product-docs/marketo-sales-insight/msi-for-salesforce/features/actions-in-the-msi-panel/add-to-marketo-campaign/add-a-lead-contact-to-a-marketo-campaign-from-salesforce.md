@@ -3,7 +3,7 @@ unique-page-id: 10099167
 description: 從Salesforce - Marketo Docs —— 產品檔案新增銷售線索／連絡人至Marketo促銷活動
 title: 從Salesforce將銷售機會／連絡人新增至Marketo促銷活動
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以在Salesforce中，輕鬆將潛在客戶或連絡人新增至Market，以建立智慧型促銷活動。 以下是如何運用潛在客源。
 
-1. 在Salesforce中，按一下「**銷售機會**」標籤。
+1. 在Salesforce中，按一下&#x200B;**Leads**&#x200B;標籤。
 
    ![](assets/image2016-3-22-9-3a18-3a36.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 在記錄中，向下捲動至Marketo Sales Insight區域，按一下&#x200B;**Actions**&#x200B;下拉式清單，選取&#x200B;**Add to Marketo Campaign,**，然後按一下&#x200B;**Go。**
+1. 在記錄中，向下捲動至Marketo Sales Insight區域，按一下&#x200B;**Actions**&#x200B;下拉式清單，選取&#x200B;**Add to Marketo Campaign**，然後按一下&#x200B;**Go**。
 
    ![](assets/four.png)
 
@@ -41,6 +41,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >若要讓促銷活動顯示在下拉式清單中，請在您設定促銷活動時，使用&#x200B;[**請求促銷活動**&#x200B;觸發器](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)，並以&#x200B;**銷售分析**&#x200B;為來源。
+   >若要讓促銷活動顯示在下拉式清單中，請在您設定促銷活動時，使用&#x200B;[**請求促銷活動**&#x200B;觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)，並以&#x200B;**銷售分析**&#x200B;為來源。
 
 就這樣！ 此人員會新增至您的Marketo促銷活動。
