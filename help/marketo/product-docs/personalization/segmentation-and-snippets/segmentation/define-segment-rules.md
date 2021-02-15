@@ -3,7 +3,7 @@ unique-page-id: 2359449
 description: 定義區段規則——行銷檔案——產品檔案
 title: 定義區段規則
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -48,7 +48,7 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >智慧型清單非常棒。 瞭解您可以使用[智慧型清單和靜態清單做的一切。](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)
+   >智慧型清單非常棒。 瞭解您可以使用[智慧型清單和靜態清單做的一切。](https://docs.marketo.com/display/docs/smart+lists+and+static+lists)
 
 1. 按一下&#x200B;**人員（草稿）**&#x200B;頁籤查看可能符合此段成員資格的人員。
 
@@ -63,7 +63,7 @@ ht-degree: 0%
    >您可以在區段中建立的區段總數，取決於所使用的篩選器數目和類型，以及區段邏輯的複雜程度。 雖然您可以使用標準欄位建立最多100個區段，但使用其他類型的篩選器會增加複雜性，而且您的區段可能無法核准。 例如：自訂欄位、清單成員、潛在客戶擁有者欄位和收入階段。
    >
    >
-   >如果您在核准期間收到錯誤訊息，並需要協助降低區段的複雜性，請聯絡[行銷人員支援](http://nation.marketo.com/t5/Support/ct-p/Support)。
+   >如果您在核准期間收到錯誤訊息，並需要協助降低區段的複雜性，請聯絡[行銷人員支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 1. 請查看控制面板，以快速概述圓形圖中的區段，以及套用的規則。
 
