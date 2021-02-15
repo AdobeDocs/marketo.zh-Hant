@@ -3,7 +3,7 @@ unique-page-id: 2359746
 description: 使用CNAME自訂著陸頁面URL —— 行銷人員檔案——產品檔案
 title: 使用CNAME自訂著陸頁面URL
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 即使Marketo代管您的著陸頁面，URL仍可完全自訂。 沒有CNAME的情況：
 
-`http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
+`https://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
 
 它的外觀：
 
-`http://go.YourCompany.com/UnsubscribePage.html`
+`https://go.YourCompany.com/UnsubscribePage.html`
 
 ## 選擇CNAME {#choose-a-cname}
 
