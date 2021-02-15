@@ -3,7 +3,7 @@ unique-page-id: 2360057
 description: 促銷活動報表——行銷人員檔案——產品檔案
 title: 促銷活動報表
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 促銷活動報表{#campaign-activity-report}
 
-瞭解您的[智慧型促銷活動](http://docs.marketo.com/display/docs/smart+campaigns)的執行情形。
+瞭解您的[智慧型促銷活動](https://docs.marketo.com/display/docs/smart+campaigns)的執行情形。
 
 1. [建立報表](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 並選取「促銷活 **動** [報表」類型](report-type-overview.md)。
 1. [設定報表的時間範圍，](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 然後按一下「報表 **** 」標籤。
@@ -54,5 +54,5 @@ ht-degree: 0%
    >    * [篩選促銷活動報表](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
 
 
-   請參閱[基本報表](http://docs.marketo.com/display/docs/basic+reporting)中的更多報表。
+   請參閱[基本報表](https://docs.marketo.com/display/docs/basic+reporting)中的更多報表。
 
