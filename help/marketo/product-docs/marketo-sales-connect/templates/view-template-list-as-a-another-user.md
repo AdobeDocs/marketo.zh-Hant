@@ -3,7 +3,7 @@ unique-page-id: 18317369
 description: 以其他使用者身分檢視範本清單——行銷人員檔案——產品檔案
 title: 以其他用戶身份查看模板清單
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -34,4 +34,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >您也可以使用篩選器或搜尋函式以及檢視方式來檢視與您最相關的項目。
-
