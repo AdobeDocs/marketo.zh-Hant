@@ -3,7 +3,7 @@ unique-page-id: 2360199
 description: 按屬性分組人員報表——行銷人員檔案——產品檔案
 title: 按屬性分組人員報表
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 按屬性{#group-person-reports-by-attribute}分組人員報表
 
-您可以依任何人員或公司屬性將[person reports](http://docs.marketo.com/display/docs/basic+reporting)分組。
+您可以依任何人員或公司屬性將[person reports](https://docs.marketo.com/display/docs/basic+reporting)分組。
 
 1. 前往「行銷活動」區域（或&#x200B;**Analytics**）。****
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >在[基本報表](http://docs.marketo.com/display/docs/basic+reporting)深入探討中，進一步瞭解人員報表和其他報表類型。
+   >在[基本報表](https://docs.marketo.com/display/docs/basic+reporting)深入探討中，進一步瞭解人員報表和其他報表類型。
 
    >[!MORELIKETHIS]
    >
