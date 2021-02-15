@@ -3,7 +3,7 @@ unique-page-id: 2360360
 description: 建立網頁掛接——行銷檔案——產品檔案
 title: 建立網頁掛接
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->從[webhooks](http://developers.marketo.com/documentation/webhooks/)深入探討進一步瞭解。
+>從[webhooks](https://developers.marketo.com/documentation/webhooks/)深入探討進一步瞭解。
