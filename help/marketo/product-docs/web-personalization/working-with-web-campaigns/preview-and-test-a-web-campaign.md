@@ -3,7 +3,7 @@ unique-page-id: 10092925
 description: 預覽並測試Web促銷活動——行銷檔案——產品檔案
 title: 預覽和測試Web促銷活動
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您也可以選擇安裝瀏覽器外掛程式（[Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj)或[Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)），以獲得最佳的預覽促銷活動體驗。 請參閱以下章節。
+   >您也可以選擇安裝瀏覽器外掛程式（[Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj)或[Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)），以獲得最佳的預覽促銷活動體驗。 請參閱以下章節。
 
 ## 使用瀏覽器外掛程式{#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}在建立頁面上預覽網頁促銷活動
 
@@ -92,7 +92,7 @@ ht-degree: 0%
 1. 完成促銷活動創意，然後按一下&#x200B;**Launch**。\
    ![](assets/click-launch.jpg)
 
-1. 前往您的網站，在URL結尾新增URL參數&quot;?sandbox=1&quot;。 範例：[www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
+1. 前往您的網站，在URL結尾新增URL參數&quot;?sandbox=1&quot;。 範例：[www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
 1. 查看您網站上的促銷活動反應。
 
 >[!NOTE]
