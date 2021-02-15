@@ -3,7 +3,7 @@ unique-page-id: 2359968
 description: 變更報告時間範圍——行銷人員檔案——產品檔案
 title: 變更報告時間範圍
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -57,5 +57,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >如需使用報表的更多方法，請參閱[基本報表](http://docs.marketo.com/display/docs/basic+reporting)深入探討。
+   >如需使用報表的更多方法，請參閱[基本報表](https://docs.marketo.com/display/docs/basic+reporting)深入探討。
 
