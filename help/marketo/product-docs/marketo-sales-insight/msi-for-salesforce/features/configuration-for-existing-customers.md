@@ -3,7 +3,7 @@ unique-page-id: 42762519
 description: 現有客戶的設定——行銷檔案——產品檔案
 title: 現有客戶的配置
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -22,6 +22,7 @@ ht-degree: 0%
 ## 在Marketon中設定Sales Insight {#configure-sales-insight-in-marketo}
 
 1. 在您的瀏覽器中開啟新標籤，從您的Marketo帳戶取得Marketo Sales Insights認證。
+
 1. 前往&#x200B;**Admin**&#x200B;區域。
 
    ![](assets/configure-1.png)
@@ -63,7 +64,7 @@ ht-degree: 0%
 ## 存取Marketor Sales Insight {#access-marketo-sales-insight}
 
 1. 從Marketo的「銷售分析管理」頁面的「其餘API」面板複製認證。 將它們貼至Salesforce的「Sales Insight設定」頁面的「其餘API」區段。
+
 1. 輸入API密碼。
 
    ![](assets/config.png)
-
