@@ -3,7 +3,7 @@ unique-page-id: 2949865
 description: 使用Adobe Connect —— 行銷檔案——產品檔案建立活動
 title: 使用Adobe Connect建立活動
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 >* [建立新的事件方案](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
 
-首先，請確定您已在Adobe Connect中建立會議或研討會。 如果您需要幫助，請參閱[Adobe Connect使用指南](http://help.adobe.com/en_US/connect/9.0/using/index.html)。 您在Adobe Connect中建立的會議和研討會必須建立在您在Marketo中輸入認證時所指定的資料夾下。 在您建立會議或研討會後，記下任何相關的物流資訊（如電話號碼），以便用於確認電子郵件和ICS檔案。
+首先，請確定您已在Adobe Connect中建立會議或研討會。 如果您需要幫助，請參閱[Adobe Connect使用指南](https://help.adobe.com/en_US/connect/9.0/using/index.html)。 您在Adobe Connect中建立的會議和研討會必須建立在您在Marketo中輸入認證時所指定的資料夾下。 在您建立會議或研討會後，記下任何相關的物流資訊（如電話號碼），以便用於確認電子郵件和ICS檔案。
 
 >[!NOTE]
 >
