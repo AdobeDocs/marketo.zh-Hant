@@ -3,7 +3,7 @@ unique-page-id: 2359474
 description: 編輯區段——行銷檔案——產品檔案
 title: 編輯區段
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## 編輯區段規則{#edit-segment-rules}
 
-1. 在您的草稿&#x200B;**區段**&#x200B;中，前往&#x200B;**智慧清單**。 套用類似於[定義區段規則](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules)的規則。
+1. 在您的草稿&#x200B;**區段**&#x200B;中，前往&#x200B;**智慧清單**。 套用類似於[定義區段規則](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules)的規則。
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
