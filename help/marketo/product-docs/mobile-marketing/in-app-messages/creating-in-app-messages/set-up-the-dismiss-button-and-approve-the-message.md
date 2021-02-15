@@ -3,7 +3,7 @@ unique-page-id: 10912178
 description: 設定「關閉」按鈕並核准訊息——行銷人員檔案——產品檔案
 title: 設定「關閉」按鈕並批准消息
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '366'
 ht-degree: 0%
@@ -71,12 +71,12 @@ ht-degree: 0%
 
 選擇太多，但現在您有了絕佳的應用程式內訊息，準備就緒！
 
-現在是[傳送訊息的時候了。](http://docs.marketo.com/display/docs/send+your+in-app+message)
+現在是[傳送訊息的時候了。](https://docs.marketo.com/display/docs/send+your+in-app+message)
 
 >[!MORELIKETHIS]
 >
 >* [瞭解應用程式內訊息](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [傳送您的應用程式內訊息](http://docs.marketo.com/display/docs/send+your+in-app+message)
+>* [傳送您的應用程式內訊息](https://docs.marketo.com/display/docs/send+your+in-app+message)
 >* [為您的應用程式內訊息選擇版面](choose-a-layout-for-your-in-app-message.md)
 
 >
