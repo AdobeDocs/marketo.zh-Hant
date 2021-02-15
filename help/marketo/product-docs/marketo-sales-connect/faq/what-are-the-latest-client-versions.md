@@ -3,7 +3,7 @@ unique-page-id: 14352422
 description: 什麼是最新的用戶端版本？ -行銷人員檔案——產品檔案
 title: 什麼是最新的用戶端版本？
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 5%
@@ -43,4 +43,3 @@ ht-degree: 5%
 >[!NOTE]
 >
 >我們目前未針對Chrome以外的任何瀏覽器最佳化。 這是我們的產品團隊所瞭解並希望在未來能夠解決的問題。
-
