@@ -3,7 +3,7 @@ unique-page-id: 12981050
 description: 鎖定銷售範本——行銷人員檔案——產品檔案
 title: 鎖定銷售模板
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -62,4 +62,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >依預設，此方塊會勾選並允許CRM使用者編輯電子郵件。
-
