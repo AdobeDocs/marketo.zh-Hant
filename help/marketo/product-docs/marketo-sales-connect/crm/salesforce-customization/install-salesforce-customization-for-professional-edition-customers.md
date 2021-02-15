@@ -3,7 +3,7 @@ unique-page-id: 27656223
 description: 為專業版客戶安裝Salesforce自訂——行銷檔案——產品檔案
 title: 為專業版客戶安裝Salesforce自訂
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -57,6 +57,6 @@ ht-degree: 0%
 
 ## 參考線{#guides}
 
-[Salesforce Classic的安裝指南](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+[Salesforce Classic的安裝指南](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
-[Salesforce Lightning的安裝指南](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Salesforce Lightning的安裝指南](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
