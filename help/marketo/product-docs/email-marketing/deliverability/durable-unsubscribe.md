@@ -3,7 +3,7 @@ unique-page-id: 10094576
 description: 持久取消訂閱——行銷檔案——產品檔案
 title: 持久取消訂閱
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%
@@ -51,11 +51,11 @@ Marketo已增強取消訂閱功能的行為，使其「持久」。 我們已新
 
 ## 重新訂閱{#re-subscribing}
 
-就像取消訂閱會導致所有擁有相同電子郵件地址的人取消訂閱一樣，重新訂閱實際上會重新訂閱每個擁有相同電子郵件地址的人。
+就像取消訂閱會導致所有擁有相同電子郵件地址的人取消訂閱一樣，重新訂閱實際上會以相同電子郵件地址重新訂閱每個人。
 
 ## 活動日誌{#activity-log}
 
-_updateLeadEmailStatus_&#x200B;和&#x200B;_resetLeadEmailStatus_&#x200B;的資料值變更定義可在[此社群文章](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688)中找到。
+_updateLeadEmailStatus_&#x200B;和&#x200B;_resetLeadEmailStatus_&#x200B;的資料值變更定義可在[此社群文章](https://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688)中找到。
 
 >[!MORELIKETHIS]
 >
