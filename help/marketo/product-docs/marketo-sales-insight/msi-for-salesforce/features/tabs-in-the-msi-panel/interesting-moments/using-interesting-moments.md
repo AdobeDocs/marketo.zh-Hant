@@ -3,7 +3,7 @@ unique-page-id: 2951640
 description: 使用有趣的時刻——行銷人員檔案——產品檔案
 title: 使用有趣的瞬間
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->這些僅適用於Marketo Sales Insight和[ Marketo Sales Connect](http://docs.marketo.com/x/fgTLAQ)客戶。
+>這些僅適用於Marketo Sales Insight和[ Marketo Sales Connect](https://docs.marketo.com/x/fgTLAQ)客戶。
 
 ## 什麼是有趣的時刻？ {#what-is-an-interesting-moment}
 
-這取決於你！ 您決定與您的銷售團隊相關的資訊。 您的銷售團隊可能想知道銷售線索的時機：
+這取決於你！ 您決定哪些資訊與您的銷售團隊相關。 您的銷售團隊可能想知道銷售線索的時機：
 
 * 瀏覽您網站的定價頁面
 * 按一下新產品公告電子郵件中的連結
@@ -71,6 +71,6 @@ ht-degree: 0%
 
 ## Salesforce1中有趣的時刻是什麼？{#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
-在您安裝或更新Salesforce1的Marketo Sales Insight後，潛在客戶的相關連結下會顯示有趣的時刻。
+在您安裝或更新Salesforce1的Marketo Sales Insight後，潛在客戶的相關連結下方會顯示有趣的時刻。
 
 ![](assets/seven.png)
