@@ -3,7 +3,7 @@ unique-page-id: 7512454
 description: 設定行動推播通知——行銷人員檔案——產品檔案
 title: 設定行動推播通知
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -99,7 +99,7 @@ ht-degree: 0%
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-不過，您應用程式的深層連結結構可能與上述範例不同。 您的開發人員有許多定義深層連結URI的選項，因此請要求您的開發人員傳送您想要使用之頁面的URI（連結）給您。 這將確保您在推送訊息中輸入的URI指向正確位置。 您的開發人員可在[這裡找到更多資訊](http://developers.marketo.com/mobile/enabling-deep-links-in-your-app/)。
+不過，您應用程式的深層連結結構可能與上述範例不同。 您的開發人員有許多定義深層連結URI的選項，因此請要求您的開發人員傳送您想要使用之頁面的URI（連結）給您。 這將確保您在推送訊息中輸入的URI指向正確位置。 您的開發人員可在[這裡找到更多資訊](https://developers.marketo.com/mobile/enabling-deep-links-in-your-app/)。
 
 >[!MORELIKETHIS]
 >
