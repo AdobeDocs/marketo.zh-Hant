@@ -3,7 +3,7 @@ unique-page-id: 12979012
 description: 效能分析的篩選——行銷檔案——產品檔案
 title: 效能分析中的篩選
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->目前，「自訂屬性」僅適用於已啟用[RCA](http://docs.marketo.com/x/lwIk)的客戶。
+>目前，「自訂屬性」僅適用於已啟用[RCA](https://docs.marketo.com/x/lwIk)的客戶。
 
 按一下類別可顯示多個子類別。
 
@@ -53,11 +53,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>ABM命名帳戶</strong></td> 
-   <td colspan="1">如果您使用Marketo ABM，則所有已命名帳戶都會同步至MPI，並透過「ABM已命名帳戶」篩選器顯示。 您可以選取一個已命名的帳戶，以篩選這些帳戶的結果。<a href="http://docs.marketo.com/x/eaCt" rel="nofollow">進一步瞭解ABM命名帳戶。</a></td> 
+   <td colspan="1">如果您使用Marketo ABM，則所有已命名帳戶都會同步至MPI，並透過「ABM已命名帳戶」篩選器顯示。 您可以選取一個已命名的帳戶，以篩選這些帳戶的結果。<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">進一步瞭解ABM命名帳戶。</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>自訂屬性</strong></td> 
-   <td colspan="1"><p>這些由您決定。 您為業務機會分析啟用的<a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">所有欄位都可以在「效能分析」中篩選。</a></p></td> 
+   <td colspan="1"><p>這些由您決定。 您為業務機會分析啟用的<a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">所有欄位都可以在「效能分析」中篩選。</a></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>投資期</strong></p></td> 
