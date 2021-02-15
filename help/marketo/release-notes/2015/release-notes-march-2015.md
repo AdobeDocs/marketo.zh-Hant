@@ -3,7 +3,7 @@ unique-page-id: 6095037
 description: 發行說明- 2015年3月——行銷檔案——產品檔案
 title: 發行說明- 2015年3月
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 日曆HD {#calendar-hd}
 
-[使用行事歷的新簡報模](http://docs.marketo.com/display/docs/calendar+hd) 式，顯示您團隊的行銷活動。這些對辦公室的電視或大螢幕都很好！ 根據智慧清單或自訂度量來設定和顯示目標。
+[使用行事歷的新簡報模](https://docs.marketo.com/display/docs/calendar+hd) 式，顯示您團隊的行銷活動。這些對辦公室的電視或大螢幕都很好！ 根據智慧清單或自訂度量來設定和顯示目標。
 
 >[!NOTE]
 >
@@ -33,13 +33,13 @@ ht-degree: 0%
 
 ## Revenue Explorer Redesign {#revenue-explorer-redesign}
 
-[Revenue ](http://docs.marketo.com/display/docs/revenue+explorer) Explorer擁有全新的外觀和感覺，以及全新的Sunburst圖表類型！我們將在4月的頭兩週推出。
+[Revenue ](https://docs.marketo.com/display/docs/revenue+explorer) Explorer擁有全新的外觀和感覺，以及全新的Sunburst圖表類型！我們將在4月的頭兩週推出。
 
 ## 新資產REST API {#new-asset-rest-apis}
 
-[新資產REST API](http://developers.marketo.com/)
+[新資產REST API](https://developers.marketo.com/)
 
-我們現在支援透過API](http://developers.marketo.com/documentation/asset-api)建立和編輯電子郵件、範本、我的Token、檔案和程式碼片段[!
+我們現在支援透過API](https://developers.marketo.com/documentation/asset-api)建立和編輯電子郵件、範本、我的Token、檔案和程式碼片段[!
 
 ## Microsoft Dynamics 2015 On Premise {#microsoft-dynamics-on-premise}
 
