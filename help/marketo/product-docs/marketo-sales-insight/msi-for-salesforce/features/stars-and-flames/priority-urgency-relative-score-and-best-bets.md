@@ -3,7 +3,7 @@ unique-page-id: 2950396
 description: 優先順序、緊急程度、相對分數和最佳押注——行銷人員檔案——產品檔案
 title: 優先順序、緊急程度、相對分數和最佳賭注
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 0%
@@ -57,5 +57,5 @@ Marketo Sales Insight會根據您的優先順序挑選最佳銷售機會和聯�
 
 >[!MORELIKETHIS]
 >
->* [Marketo Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight)
+>* [Marketo Sales Insight](https://docs.marketo.com/display/docs/marketo+sales+insight)
 
