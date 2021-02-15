@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: 發行說明- 17年春季版——行銷檔案——產品檔案
 title: 發行說明- 17年春季版
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 0%
@@ -45,11 +45,11 @@ Marketo與LinkedIn Lead Gen Forms的整合會自動擷取潛在客戶在Lead Gen
 
 Marketo ABM現在可讓您在指名帳戶上建立最多10個自訂欄位。 您可以將這些自訂欄位對應至CRM帳戶物件中的欄位，而Marketo ABM將會同步資料，讓您擴充ABM指名帳戶並協助推動行銷。
 
-**[在ABM上評分命名帳戶的百分位數](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+**[在ABM上評分命名帳戶的百分位數](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 「指名帳戶」的分數可能會大不相同。 Marketo ABM現在會自動計算每個分數的百分位數，因此您一目瞭然地就能看到每個指名帳戶在其他指名帳戶中的排名。
 
-** [ABM帳戶清單API](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+** [ABM帳戶清單API](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 運用豐富且強穩的ABM合作夥伴整合，以及增強的API支援命名帳戶清單。
 
