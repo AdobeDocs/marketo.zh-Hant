@@ -3,7 +3,7 @@ unique-page-id: 2949711
 description: 使用註冊碼——行銷人員檔案——產品檔案安裝Outlook的Marketo Email增益集
 title: 使用註冊碼安裝Outlook的Marketo Email增益集
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 下載安裝程式{#download-installer}
 
-1. 識別[Microsoft Outlook版本](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. 識別[Microsoft Outlook版本](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 1. 按一下連結，下載適合您Microsoft Outlook版本的安裝程式。
 
    >[!NOTE]
@@ -37,13 +37,13 @@ ht-degree: 0%
    | Outlook版本 | 32位元Outlook | 64位元Outlook |
    |---|---|---|
    | Outlook 2000 | 不支援 | 不適用 |
-   | 2003年展望 | [下載](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | 不適用 |
-   | 2007年展望 | [下載](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | 不適用 |
-   | 2010年展望 | [下載](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | 《2013年展望》 | [下載](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | 《2016年展望》 | [下載](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | 《2019年展望》 | [下載](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook O365（僅限Windows） | [下載](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | 2003年展望 | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | 不適用 |
+   | 2007年展望 | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | 不適用 |
+   | 2010年展望 | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | 《2013年展望》 | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | 《2016年展望》 | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | 《2019年展望》 | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook O365（僅限Windows） | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Mac版Outlook | 不支援 | 不支援 |
    | Outlook網頁應用程式 | 不支援 | 不支援 |
 
