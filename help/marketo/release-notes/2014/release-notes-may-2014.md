@@ -3,7 +3,7 @@ unique-page-id: 2951044
 description: 發行說明- 2014年5月——行銷檔案——產品檔案
 title: 發行說明- 2014年5月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 >
 >**範例**
 >
->[[[[http://www.marketo.com](http://www.marketo.com)]]
+>[[[[https://www.marketo.com](https://www.marketo.com)]]
 
 依預設，電子郵件文字版本中不會追蹤任何連結。 新增此新語法，以指出何時應將連結轉換為追蹤連結。 HTML連結的行為不會改變。  若要將追蹤的連結新增至您的電子郵件：
 
@@ -85,5 +85,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->請參閱舊版[Marketo發行說明](http://docs.marketo.com/display/docs/release+notes)
+>請參閱舊版[Marketo發行說明](https://docs.marketo.com/display/docs/release+notes)
 
