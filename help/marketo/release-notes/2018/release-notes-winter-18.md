@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: 發行說明- 18年冬季——行銷檔案——產品檔案
 title: 發行說明- 18年冬季
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -86,7 +86,7 @@ Web個人化現在可將內容個人化給已知的Web訪客，此訪客是行�
 
 ## 整合{#integration}
 
-** [啟用／停用促銷活動API](http://developers.marketo.com/rest-api/assets/campaigns/)**
+** [啟用／停用促銷活動API](https://developers.marketo.com/rest-api/assets/campaigns/)**
 
 此新API可讓您遠端啟用和停用觸發器促銷活動，因此您現在可以建立完全自動化的程式範本。 只需建立一次方案範本，然後自動製作仿製、行銷文宣更新，並立即啟動／排程智慧型宣傳。
 
@@ -94,7 +94,7 @@ Web個人化現在可將內容個人化給已知的Web訪客，此訪客是行�
 
 **取消訂閱更新**
 
-從2018年3月1日開始，從[ToutApp.com](http://ToutApp.com)（以及使用Salesforce中的「含Tout的電子郵件」按鈕）傳送的所有電子郵件，底部都會附加取消訂閱連結。
+從2018年3月1日開始，從[ToutApp.com](https://ToutApp.com)（以及使用Salesforce中的「含Tout的電子郵件」按鈕）傳送的所有電子郵件，底部都會附加取消訂閱連結。
 
 **即時動態消息更新**
 
