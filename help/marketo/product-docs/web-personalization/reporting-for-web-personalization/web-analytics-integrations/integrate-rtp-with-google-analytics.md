@@ -3,7 +3,7 @@ unique-page-id: 2949158
 description: 將RTP與Google Analytics整合——行銷檔案——產品檔案
 title: 將RTP與Google Analytics整合
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%
@@ -66,7 +66,7 @@ RTP B2B儀表板可協助您瞭解依垂直產業和RTP區段劃分的訪客。 
 
 ## 使用Google Analytics {#setting-up-rtp-with-google-analytics}設定RTP
 
-1. 將電子郵件[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b)新增為「讀取並分析」使用者至您的GA帳戶。 如需詳細資訊，請參閱[這裡](https://support.google.com/analytics/answer/2884495?hl=en)。
+1. 將電子郵件[`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b)新增為「讀取並分析」使用者至您的GA帳戶。 如需詳細資訊，請參閱[這裡](https://support.google.com/analytics/answer/2884495?hl=en)。
 1. 在您的RTP帳戶中。 前往&#x200B;**帳戶設定**。
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
