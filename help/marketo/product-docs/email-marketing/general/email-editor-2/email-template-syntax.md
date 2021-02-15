@@ -3,7 +3,7 @@ unique-page-id: 11371040
 description: 電子郵件範本語法——行銷人員檔案——產品檔案
 title: 電子郵件範本語法
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2395'
 ht-degree: 0%
@@ -106,7 +106,7 @@ HTML元素內含class=&quot;mktoText&quot;的內容（如果提供）將用作Ri
 
 範例：
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="http://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
+`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
 
 ### 選項2 —— 使用\&lt;img\> {#option-use-an-img}
 
@@ -322,7 +322,7 @@ HTML元素內含class=&quot;mktoText&quot;的內容（如果提供）將用作Ri
 
 示例聲明：
 
-`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="http://www.company.com/image.jpg"></pre>`
+`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg"></pre>`
 
 範例用法：
 
