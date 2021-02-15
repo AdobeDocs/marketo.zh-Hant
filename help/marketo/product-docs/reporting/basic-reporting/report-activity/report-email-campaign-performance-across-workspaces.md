@@ -3,7 +3,7 @@ unique-page-id: 2360055
 description: 報告電子郵件、跨工作區的促銷活動績效——行銷人員檔案——產品檔案
 title: 報告電子郵件，跨工作區的促銷活動績效
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -48,5 +48,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >瞭解[基本報表](http://docs.marketo.com/display/docs/basic+reporting)中的所有報表。
+   >瞭解[基本報表](https://docs.marketo.com/display/docs/basic+reporting)中的所有報表。
 
