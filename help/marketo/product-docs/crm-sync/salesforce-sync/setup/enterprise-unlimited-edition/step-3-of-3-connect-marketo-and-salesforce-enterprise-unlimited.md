@@ -3,7 +3,7 @@ unique-page-id: 2360366
 description: 第3步（共3步）- Connect Marketo和Salesforce（企業版／無限製版）-行銷人員檔案——產品檔案
 title: 第3步（共3步）-將行銷人員連線至Salesforce（企業版／無限製版）
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '405'
 ht-degree: 0%
@@ -39,11 +39,11 @@ ht-degree: 0%
 
    ![](assets/image2014-12-9-9-3a52-3a50.png)
 
-   安全性Token會以電子郵件寄送給您。
+   安全性Token將會以電子郵件寄送給您。
 
 ## 設定同步用戶憑據{#set-sync-user-credentials}
 
-1. 在Marketo中，前往&#x200B;**Admin**，選擇&#x200B;**CRM**，然後按一下「與[Salesforce.com](http://Salesforce.com)**同步」**
+1. 在Marketo中，前往&#x200B;**Admin**，選擇&#x200B;**CRM**，然後按一下「與[Salesforce.com](https://Salesforce.com)**同步」**
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
