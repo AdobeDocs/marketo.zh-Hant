@@ -3,7 +3,7 @@ unique-page-id: 14746432
 description: 將自訂欄位同步至效能分析——行銷人員檔案——產品檔案
 title: 將自訂欄位同步至效能分析
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -21,7 +21,7 @@ MPI收入和管道控制面板可以篩選自訂行銷欄位。 若要這麼做�
 
 >[!NOTE]
 >
->本文僅適用於&#x200B;**not**&#x200B;具有[RCA](http://docs.marketo.com/x/lwIk)的使用者。 如果您有RCA，請依照[本文](http://docs.marketo.com/x/FQQk)中的步驟進行。
+>本文僅適用於&#x200B;**not**&#x200B;具有[RCA](https://docs.marketo.com/x/lwIk)的使用者。 如果您有RCA，請依照[本文](https://docs.marketo.com/x/FQQk)中的步驟進行。
 
 1. 前往&#x200B;**Admin**&#x200B;區段。
 
