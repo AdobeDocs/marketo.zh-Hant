@@ -3,7 +3,7 @@ unique-page-id: 1147114
 description: 瞭解我的Token在計畫——行銷檔案——產品檔案
 title: 瞭解程式中的Token
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Token是一個變數，您可在電子郵件、登陸頁面和智慧型促銷活
   </tr> 
   <tr> 
    <td>電子郵件指令碼 <img alt="—" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>使用此Token，在電子郵件中執行Velocity指令碼。 進一步瞭解<a href="http://developers.marketo.com/documentation/email-scripting/" title="追蹤連結" rel="nofollow">此處</a>。 </td> 
+   <td>使用此Token，在電子郵件中執行Velocity指令碼。 進一步瞭解<a href="https://developers.marketo.com/documentation/email-scripting/" title="追蹤連結" rel="nofollow">此處</a>。 </td> 
   </tr> 
   <tr> 
    <td>編號<span> <img alt="—" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
