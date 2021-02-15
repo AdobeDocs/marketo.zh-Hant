@@ -3,7 +3,7 @@ unique-page-id: 11370952
 description: 發行說明- 16年春季版——行銷檔案——產品檔案
 title: 發行說明- 16年春季版
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Spring &#39;16版本包含下列功能。 請按一下標題連結，以檢視每個功能的詳細文章。
 
-## [電子郵件見解](http://docs.marketo.com/display/docs/email+insights) {#email-insights}
+## [電子郵件見解](https://docs.marketo.com/display/docs/email+insights) {#email-insights}
 
 「電子郵件洞察」是全新的歷史資料匯總電子郵件分析體驗— 作為Project Orion的一部分，重新設計了端對端，提供快如閃電的效能。 它提供全新的使用者介面設計，最佳化以符合電子郵件行銷人員的需求和工作流程。
 
@@ -53,11 +53,11 @@ Spring &#39;16版本包含下列功能。 請按一下標題連結，以檢視�
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [自訂活動](http://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
+## [自訂活動](https://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
 
 行銷人員現在可以透過「行銷人員自訂活動定義」建立器來定義及管理其自訂活動類型。 與Marketo Custom Object Modeler類似（並搭配使用），管理員現在可以擴充資料模型，以符合其確切的業務需求。 有關如何使用此功能的詳細資訊，請參閱[Marketo檔案網站](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities)。
 
-## [著陸頁面、著陸頁面範本和表單API](http://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
+## [著陸頁面、著陸頁面範本和表單API](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
 Marketo REST API現在支援對Marketo登陸頁面、登陸頁面範本和表單的控制。 使用者現在可以直接透過Marketo REST API建立、更新內容、核准和刪除這些資產。
 
