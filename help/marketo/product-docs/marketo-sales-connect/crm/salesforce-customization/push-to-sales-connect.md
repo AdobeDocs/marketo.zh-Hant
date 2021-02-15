@@ -3,7 +3,7 @@ unique-page-id: 14352477
 description: 推送至銷售連線——行銷人員檔案——產品檔案
 title: 推送至Sales Connect
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -34,6 +34,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Sales Connect將添加名為&quot;SFDC-..&quot;的組 到[Web應用程式](http://toutapp.com/login)上的「關係」頁。
+   >Sales Connect將添加名為&quot;SFDC-..&quot;的組 到[Web應用程式](https://toutapp.com/login)上的「關係」頁。
 
 1. 選擇&#x200B;**以電子郵件傳送整個群組**&#x200B;以傳送此群組電子郵件。
