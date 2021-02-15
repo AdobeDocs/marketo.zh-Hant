@@ -3,7 +3,7 @@ unique-page-id: 1147095
 description: 建立方案——行銷檔案——產品檔案
 title: 建立方案
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/leadlifecycle.jpg)
 
-1. 輸入&#x200B;**名稱**，在下拉式清單中選擇&#x200B;**[頻道](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)**，然後按一下「建立&#x200B;**a6/>」。**
+1. 輸入&#x200B;**名稱**，在下拉式清單中選擇&#x200B;**[頻道](https://docs.marketo.com/display/DOCS/Create+a+Program+Channel)**，然後按一下「建立&#x200B;**a6/>」。**
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
