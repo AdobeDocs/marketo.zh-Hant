@@ -3,7 +3,7 @@ unique-page-id: 2360356
 description: 將單一登入新增至入口網站——行銷人員檔案——產品檔案
 title: 將單一登入新增至入口網站
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 0%
@@ -30,9 +30,9 @@ Marketo可當成SAML服務提供者(SP)，並依賴外部身分提供者(IdP)來
 ## 如何傳送請求{#how-to-send-the-request}
 
 * 將SSO請求（即SAML回應）傳送至`https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* 作為SP的對象URL。 使用[http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* 如果您使用SPNameQualifier屬性，請將「主體」的NameID元素設定為[http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* 如果您要將多個Marketo訂閱聯合至相同的SSO提供者，則可針對每個Marketo子訂閱使用格式為`http://saml.marketo.com/sp/<munchkin_id>`的唯一SP URL
+* 作為SP的對象URL。 使用[https://saml.marketo.com/sp](https://saml.marketo.com/sp)
+* 如果您使用SPNameQualifier屬性，請將「主體」的NameID元素設定為[https://saml.marketo.com/sp](https://saml.marketo.com/sp)
+* 如果您要將多個Marketo訂閱聯合至相同的SSO提供者，則可針對每個Marketo子訂閱使用格式為`https://saml.marketo.com/sp/<munchkin_id>`的唯一SP URL
 
 >[!NOTE]
 >
