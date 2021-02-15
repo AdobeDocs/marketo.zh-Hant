@@ -3,7 +3,7 @@ unique-page-id: 14745959
 description: 發行說明- 18年春季版——行銷檔案——產品檔案
 title: 發行說明- 18年春季版
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -81,12 +81,12 @@ Spring &#39;18版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 傳送系統通知和有趣的時刻至Facebook工作場所。
 
-[靜態清單API](http://developers.marketo.com/rest-api/assets/static-lists/)
+[靜態清單API](https://developers.marketo.com/rest-api/assets/static-lists/)
 
 使用全新的雙向API，以便遠端建立、讀取、更新和刪除靜態清單，更輕鬆地管理Marketo與其他系統之間的清單，而不需在Marketo UI中採取任何動作。
 
 ## 隱私權增強功能{#privacy-enhancements}
 
-[網路追蹤隱私權](http://developers.marketo.com/javascript-api/lead-tracking/)
+[網路追蹤隱私權](https://developers.marketo.com/javascript-api/lead-tracking/)
 
 增強的Munchkin追蹤符合本地和國際的隱私權法規，將網站訪客的IP位址匿名化，並允許他們永久退出網頁追蹤。
