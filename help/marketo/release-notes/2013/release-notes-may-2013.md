@@ -3,7 +3,7 @@ unique-page-id: 2951097
 description: 發行說明- 2013年5月——行銷檔案——產品檔案
 title: 發行說明- 2013年5月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 發行說明：2013年5月{#release-notes-may}
 
-5月發行包含下列功能。 請檢查您的[Marketo](http://docs.marketo.com/display/docs/assets/pricing.php) [Edition](http://docs.marketo.com/display/docs/assets/pricing.php)是否有功能可用。
+5月發行包含下列功能。 請檢查您的[Marketo](https://docs.marketo.com/display/docs/assets/pricing.php) [Edition](https://docs.marketo.com/display/docs/assets/pricing.php)是否有功能可用。
 
 發行後，請務必查看社群中的[新發行](release-notes-december-2013.md)標籤，以取得每個功能的詳細知識庫文章！
 
