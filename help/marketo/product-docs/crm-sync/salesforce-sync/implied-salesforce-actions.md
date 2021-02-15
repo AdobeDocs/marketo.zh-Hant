@@ -3,7 +3,7 @@ unique-page-id: 4719304
 description: 隱含的Salesforce動作——行銷檔案——產品檔案
 title: 隱含的Salesforce動作
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 當執行Salesforce特定的流程步驟時，有時會自動執行額外的步驟。 以下是規則，您知道：
 
-當人員目前不在[Salesforce.com](http://Salesforce.com)_中時，這些規則將適用_。
+當人員目前不在[Salesforce.com](https://Salesforce.com)_中時，這些規則將適用_。
 
 <table> 
  <thead> 
