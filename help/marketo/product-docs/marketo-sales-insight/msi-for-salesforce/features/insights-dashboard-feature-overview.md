@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: 前瞻分析資料板功能概觀——行銷人員檔案——產品檔案
 title: 前瞻分析資料板功能概觀
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '1465'
+source-wordcount: '1460'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必須擁有最新的MSI SFDC軟體包和[configuration](http://docs.marketo.com/x/F4GMAg)。
+>您必須擁有最新的MSI SFDC軟體包和[configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md)。
 
 ![](assets/one.png)
 
@@ -172,4 +172,3 @@ ht-degree: 0%
 * 選取所有事件時，會顯示未來90天內排程的事件清單
 * 此區段中的活動詳細資料卡片具有預覽選項
 * 篩選條件包括「搜尋」、「僅顯示受邀事件」和「日期範圍」
-
