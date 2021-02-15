@@ -3,7 +3,7 @@ unique-page-id: 4720108
 description: 啟用內容建議列——行銷檔案——產品檔案
 title: 啟用內容建議列
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >在啟用預測性內容之前，您必須：
 >
->* [準備預測性內容](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [準備預測性內容](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [批准預測性內容的標題](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -46,7 +46,7 @@ ht-degree: 0%
    >**包含／排除顯示URL**
    >
    >    * 顯示URL應為網域的路徑
-   >    * 不包含http://或https://
+   >    * 不包含https://或https://
    >    * 使用*表示萬用字元
    * 使用分號作為分隔符
    * 範例：/contact_us*;*action=logout*
