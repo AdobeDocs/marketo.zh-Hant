@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: 發行說明- 17年冬季——行銷檔案——產品檔案
 title: 發行說明- 17年冬季
 translation-type: tm+mt
-source-git-commit: 8c4f0985e11ed85a9f696ac2ff89c089aa9184c3
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Winter &#39;17版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [自訂物件匯入API](http://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [自訂物件匯入API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
 此API提供更快速的介面，可將自訂物件同步至Marketo。 您可以將CSV、TSV或SSV試算表檔案匯入Marketto做為自訂物件。
 
@@ -37,7 +37,7 @@ Winter &#39;17版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [本地化](http://docs.marketo.com/display/docs/web+personalization) {#localization}
+## [本地化](https://docs.marketo.com/display/docs/web+personalization) {#localization}
 
 網頁個人化、預測式內容和電子郵件深入資訊應用程式現在提供日文、德文和西班牙文版。 您[選擇您的語言和地區](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)，以檢視這些語言的內容。
 
@@ -71,7 +71,7 @@ Winter &#39;17版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[預測式內容編輯器](http://docs.marketo.com/display/docs/edit+predictive+content)**
+**[預測式內容編輯器](https://docs.marketo.com/display/docs/edit+predictive+content)**
 
 改善的編輯體驗和版面配置可依來源分割內容準備： 電子郵件、豐富式媒體或建議列。
 
@@ -81,7 +81,7 @@ Winter &#39;17版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 影像URL和中繼資料現在會用於內容自動搜尋程式。
 
-## [SDK增強功能](http://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [SDK增強功能](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
 開發人員現在可透過新的SDK API呼叫，進一步控制推播通知的傳送，讓開發人員移除推播Token。
 
