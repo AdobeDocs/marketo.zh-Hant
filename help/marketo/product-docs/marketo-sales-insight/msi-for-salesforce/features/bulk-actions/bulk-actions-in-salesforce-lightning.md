@@ -3,7 +3,7 @@ unique-page-id: 37356282
 description: Salesforce Lightning中的大量動作——行銷檔案——產品檔案
 title: Salesforce Lightning中的大量動作
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -48,4 +48,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >重複相同的步驟，在「聯繫人」清單視圖中添加大量操作。
-
