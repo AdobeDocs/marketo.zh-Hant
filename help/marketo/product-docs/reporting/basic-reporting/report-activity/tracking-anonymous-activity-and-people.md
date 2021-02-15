@@ -3,7 +3,7 @@ unique-page-id: 2360181
 description: 追蹤匿名活動與人員——行銷檔案——產品檔案
 title: 追蹤匿名活動與人員
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -28,8 +28,8 @@ ht-degree: 0%
    當某人：
 
    * 按一下行銷人員中的[連結，以電子郵件傳送](../../../../product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)。
-   * 填寫[form](http://docs.marketo.com/display/docs/forms)的行銷工具。
-   * 使用Marketo的[REST API](http://developers.marketo.com/rest-api/lead-database/leads/)或[Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API（開發人員），將匿名活動與已知記錄建立關聯。
+   * 填寫[form](https://docs.marketo.com/display/docs/forms)的行銷工具。
+   * 使用Marketo的[REST API](https://developers.marketo.com/rest-api/lead-database/leads/)或[Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API（開發人員），將匿名活動與已知記錄建立關聯。
 
    資料庫中的一個名稱可能會與許多Cookie關聯，因為人們通常使用不同的裝置和瀏覽器來瀏覽您的網站。
 
@@ -50,5 +50,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >進一步瞭解[基本報告](http://docs.marketo.com/display/docs/basic+reporting)。
+   >進一步瞭解[基本報告](https://docs.marketo.com/display/docs/basic+reporting)。
 
