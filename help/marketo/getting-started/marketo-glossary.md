@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: 行銷人員辭彙表——行銷人員檔案——產品檔案
 title: Marketo辭彙表
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -446,7 +446,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## I {#k}
+## K {#k}
 
 <table> 
  <colgroup> 
@@ -456,7 +456,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>已知人員</strong></a></td> 
-   <td><p>Marketo <strong>database</strong>中的任何人員資料都視為已知人員資料。 有多種方式可讓某人輸入您的資料庫，包括：CRM同步、填寫表單、清單匯入／手動輸入、程式化（其餘API/合作夥伴整合）等。 網頁訪客最初是透過Marketo的<strong>Munchkin</strong>網路追蹤來<strong>cookie</strong>（且為匿名），然後在發生可識別動作時，將其對應至相應的已知人員記錄(例如，點選Marketo電子郵件中的追蹤連結、填入其電子郵件位址的表單，或手動透過Marketo associate leadAPI映射<a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a>和<a href="http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a>中</p></td> 
+   <td><p>Marketo <strong>database</strong>中的任何人員資料都視為已知人員資料。 有多種方式可讓某人輸入您的資料庫，包括：CRM同步、填寫表單、清單匯入／手動輸入、程式化（其餘API/合作夥伴整合）等。 網頁訪客最初是透過Marketo的<strong>Munchkin</strong>網路追蹤<strong>Cookie</strong>（且為匿名），然後在發生可識別動作時，將其對應至相應的已知人員記錄(例如，點選Marketo電子郵件中的追蹤連結、填入其電子郵件地址的表單，或透過Market手動對應至關聯的潛在客戶API<a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a>和<a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a>中</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -482,7 +482,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>銷售線索</strong></td> 
-   <td>在<strong>Marketo Engage</strong>中，lead是上一個術語（由<strong>person</strong>取代），用於描述您透過行銷活動參與的Marketo <strong>資料庫</strong>中的個人。 在您的<strong>CRM</strong>中，銷售線索可能代表與<strong>opportunity</strong>相關的不同概念（即與&lt;a2/&gt; opportunity&lt;a3/&gt;相關的個人），與Marketo的功能無關。</td> 
+   <td>在<strong>Marketo Engage</strong>中，lead是上一個術語（由<strong>person</strong>取代），用於描述您透過行銷活動參與的Marketo <strong>資料庫</strong>中的個人。 在您的<strong>CRM</strong>中，銷售線索可能代表與<strong>opportunity</strong>相關的不同概念（即與 opportunity相關的個人），與Marketo的功能無關。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>銷售線索資料庫</strong></td> 
@@ -555,7 +555,7 @@ ht-degree: 0%
    <td>也稱為MSD。 其中一個CRM Marketo與原生整合（請參閱<a href="#c"><strong>CRM</strong></a>）。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="http://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">蒙奇金</a></strong></td> 
+   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">蒙奇金</a></strong></td> 
    <td>Marketo的自訂JavaScript追蹤代碼。 它會追蹤所有造訪您網站的個人。 這包括匿名訪客（以及其IP位址和其他資訊）。 </td> 
   </tr> 
   <tr> 
@@ -759,7 +759,7 @@ ht-degree: 0%
    <td colspan="1"><p>一種驗證機制，用於識別允許在特定域中發送郵件的電子郵件伺服器。</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="http://docs.marketo.com/x/oA8t" rel="nofollow"><strong>智慧型促銷活動</strong></a></td> 
+   <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>智慧型促銷活動</strong></a></td> 
    <td colspan="1">Marketo中最重要的工具之一。 它們會根據您確定的標準執行您指定的動作。 （另請參閱<strong><a href="#b">批次促銷活動</a></strong>和<strong><a href="#t">觸發促銷活動</a></strong>）</td> 
   </tr> 
   <tr> 
