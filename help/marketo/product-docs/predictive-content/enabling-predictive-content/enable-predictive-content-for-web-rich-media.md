@@ -3,7 +3,7 @@ unique-page-id: 7514956
 description: 為網頁豐富式媒體啟用預測式內容——行銷檔案——產品檔案
 title: 為網頁豐富式媒體啟用預測式內容
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >在啟用預測性內容之前，您必須：
 >
->* [準備預測性內容](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [準備預測性內容](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [批准預測性內容的標題](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 >
@@ -42,9 +42,9 @@ ht-degree: 0%
 
 ## 自訂Javascript程式碼並將它內嵌至您的網站{#customize-the-javascript-code-and-embed-it-into-your-website}
 
-請參閱Marketo開發人員網站上的Rich Media Recommendation範本[檔案。](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)這將說明如何自訂網站的範本。
+請參閱Marketo開發人員網站上的Rich Media Recommendation範本[檔案。](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)這將說明如何自訂網站的範本。
 
-將JavaScript程式碼貼至您網站中範本的顯示位置。
+將JavaScript程式碼貼入您網站中您希望範本出現的位置。
 
 **範本範例**
 
@@ -62,5 +62,5 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [啟用內容建議列](enable-the-content-recommendation-bar.md)
->* [在電子郵件中啟用預測性內容](http://docs.marketo.com/x/vLit)
+>* [在電子郵件中啟用預測性內容](https://docs.marketo.com/x/vLit)
 
