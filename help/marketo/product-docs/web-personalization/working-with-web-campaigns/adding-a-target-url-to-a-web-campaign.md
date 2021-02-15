@@ -3,7 +3,7 @@ unique-page-id: 6094879
 description: 新增目標URL至Web促銷活動——行銷人員檔案——產品檔案
 title: 新增目標URL至Web促銷活動
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -58,7 +58,7 @@ ht-degree: 0%
 >
 >
 >* 對話方塊和介面工具集網頁促銷活動可使用任何頁面和萬用字元(*)選項。
-* 在進階使用案例中，「在區域中」網頁促銷活動可在URL路徑結尾使用萬用字元。 範例：[www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+* 在進階使用案例中，「在區域中」網頁促銷活動可在URL路徑結尾使用萬用字元。 範例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 * URL區分大小寫
 
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 1. 新增**促銷活動名稱**。 選擇&#x200B;**目標區段**。 新增&#x200B;**目標URL**。
 
    >[!NOTE]
-   「位於區域中」的目標URL必須定義特定URL或URL。 在進階使用案例中，「在區域中」網頁促銷活動可在URL路徑結尾使用萬用字元。 範例：[www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+   「位於區域中」的目標URL必須定義特定URL或URL。 在進階使用案例中，「在區域中」網頁促銷活動可在URL路徑結尾使用萬用字元。 範例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
