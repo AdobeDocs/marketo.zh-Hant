@@ -3,7 +3,7 @@ unique-page-id: 2359971
 description: 網頁活動報告——行銷檔案——產品檔案
 title: 網頁活動報表
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -94,4 +94,4 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->瞭解[基本報告](http://docs.marketo.com/display/docs/basic+reporting)中其他有趣的報告。
+>瞭解[基本報告](https://docs.marketo.com/display/docs/basic+reporting)中其他有趣的報告。
