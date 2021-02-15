@@ -3,7 +3,7 @@ unique-page-id: 4718651
 description: 瞭解電子郵件分析領域——行銷檔案——產品檔案
 title: 瞭解電子郵件分析區
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 >[!AVAILABILITY]
 >
 >
->這適用於具有「選擇版」或[收入週期分析](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)增益集的使用者。 如需詳細資訊，請洽詢您的銷售代表。
+>這適用於具有「選擇版」或[收入週期分析](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)增益集的使用者。 如需詳細資訊，請洽詢您的銷售代表。
 
 ## 電子郵件按一下活動熱網格{#email-click-activity-heat-grid}
 
