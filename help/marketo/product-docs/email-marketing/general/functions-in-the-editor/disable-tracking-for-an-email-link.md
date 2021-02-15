@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: 停用電子郵件連結的追蹤——行銷檔案——產品檔案
 title: 停用電子郵件連結的追蹤
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
    >[!TIP]
    >
    >想要停用電子郵件&#x200B;**template**中連結的點按追蹤嗎？ 使用下列格式：
-   >`<a class="mktNoTrack" href="http://www.mywebsite.com">This link does not have tracking</a>`\
+   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
    >如果您需要實作此內容的協助，請洽詢您的網頁開發人員。
 
 不錯！ 您現在已停用連結的追蹤。
