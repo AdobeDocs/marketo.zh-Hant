@@ -3,7 +3,7 @@ unique-page-id: 2359807
 description: 自訂抽獎活動樣式——行銷檔案——產品檔案
 title: 自訂抽獎活動樣式
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
    `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>`
 
    **輸入按鈕**的範例影像：
-   `<pre>background:url(http://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
+   `<pre>background:url(https://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
    >
