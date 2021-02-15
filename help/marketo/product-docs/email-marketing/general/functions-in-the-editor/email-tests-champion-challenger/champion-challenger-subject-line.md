@@ -3,7 +3,7 @@ unique-page-id: 2359557
 description: 冠軍／挑戰者——主題系列——行銷文檔——產品文檔
 title: 冠軍／挑戰者——主題系列
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -45,7 +45,7 @@ ht-degree: 0%
    >
    >在上述分發中，智慧型清單中指定的總受眾中，有10%會收到挑戰者主旨行的電子郵件，而90%會收到冠軍主旨行的電子郵件。 擁有多個挑戰者主題系列的電子郵件的分享率平均為10%。 當測試結束時，您可以手動宣告成功者。 從此以後，所有的未來使用者都會收到效能較佳的內容。
 
-   若要獲得統計信賴，請確定您選擇的百分比包含足夠的人員，以便您的測試有效。 別被不確定的結果所愚弄。 [統計信賴的資訊比您想要的更多](http://en.wikipedia.org/wiki/Confidence_interval)。
+   若要獲得統計信賴，請確定您選擇的百分比包含足夠的人員，以便您的測試有效。 別被不確定的結果所愚弄。 [統計信賴的資訊比您想要的更多](https://en.wikipedia.org/wiki/Confidence_interval)。
 
 1. 按一下&#x200B;**Next**。
 
