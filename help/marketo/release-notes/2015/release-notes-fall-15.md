@@ -3,7 +3,7 @@ unique-page-id: 10094114
 description: 發行說明- 2015年秋季版——行銷檔案——產品檔案
 title: 發行說明- 2015年秋季版
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1026'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Fall &#39;15發行包含下列功能。 請檢查您的Marketo Edition是否提�
 
 ## 行銷人員自訂物件{#marketo-custom-objects}
 
-[行銷人員自訂物件](http://docs.marketo.com/display/docs/marketo+custom+objects)
+[行銷人員自訂物件](https://docs.marketo.com/display/docs/marketo+custom+objects)
 
 從管理員UI輕鬆建立自訂物件。 我們目前支援在Marketo中建立1:N自訂物件，並將它連接至銷售機會或公司的能力。
 
@@ -121,14 +121,14 @@ RTP的「資產」頁面現在已分割為「內容分析」和「內容建議�
    ```
 
    ```
-   <v:fill type="tile" src="<a href="http://i.imgur.com/YJOX1PC.png" rel="nofollow">http://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
+   <v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
    ```
 
    ```
    </v:background>
    ```
 
-* 現在，任何內容都可插入有效的HTML註解（某些語法，如下所示，先前已移除）:
+* 現在，任何內容都可插入有效的HTML註解中（某些語法，如下所示，先前已移除）:
 
    ```
    <!--[if gte mso 9]> 
