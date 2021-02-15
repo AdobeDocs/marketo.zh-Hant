@@ -3,7 +3,7 @@ unique-page-id: 11384634
 description: 預測性內容摘要——行銷檔案——產品檔案
 title: 預測性內容摘要
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -55,8 +55,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用所有內容](http://docs.marketo.com/display/docs/working+with+all+content)
->* [使用預測性內容](http://docs.marketo.com/display/docs/working+with+predictive+content)
+>* [使用所有內容](https://docs.marketo.com/display/docs/working+with+all+content)
+>* [使用預測性內容](https://docs.marketo.com/display/docs/working+with+predictive+content)
 
 >
 
