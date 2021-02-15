@@ -3,7 +3,7 @@ unique-page-id: 11387674
 description: 行銷人員術語更新——行銷人員檔案——產品檔案
 title: Marketo術語的更新
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -139,11 +139,11 @@ Lead和Person **是相同的**。
 
 除了名稱變更外，它現在還包含4個不同的應用程式：
 
-| ** [Web個人化](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | 在主螢幕上有自己的圖格 |
+| ** [Web個人化](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | 在主螢幕上有自己的圖格 |
 |---|---|
-| ** [帳戶型網路行銷](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | 可透過Web Personalization圖格存取 |
-| ** [個人化重新定位](http://docs.marketo.com/display/DOCS/Website+Retargeting)** | 可透過Web Personalization圖格存取 |
-| ** [預測性內容](http://docs.marketo.com/display/DOCS/Predictive+Content)** | 在主螢幕上有自己的圖格 |
+| ** [帳戶型網路行銷](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | 可透過Web Personalization圖格存取 |
+| ** [個人化重新定位](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | 可透過Web Personalization圖格存取 |
+| ** [預測性內容](https://docs.marketo.com/display/DOCS/Predictive+Content)** | 在主螢幕上有自己的圖格 |
 
 >[!NOTE]
 >
