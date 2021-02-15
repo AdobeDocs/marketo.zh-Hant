@@ -3,7 +3,7 @@ unique-page-id: 11385020
 description: 啟用電子郵件中的預測性內容——行銷人員檔案——產品檔案
 title: 在電子郵件中啟用預測性內容
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 按一下您要預測的影像。 當齒輪圖示出現時，按一下它並選取「啟用內容」(Enable Content **)(「內容」(Content)`AI`**&#x200B;是「預測性內容」(Predictive Content)的先前名稱)。`AI`
+1. 按一下您要預測的影像。 當齒輪圖示出現時，按一下它並選取「啟用內容」(Enable Content `AI`**)(「內容」(Content)`AI`是「預測性內容」(Predictive Content)的先前名稱)。**
 
    ![](assets/three.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在收件者開啟電子郵件&#x200B;**_之前，不會選取影像。_**&#x200B;所以，您在預覽中看到的只是一個範例，並不一定是收件者看到的影像。
+   >在收件者開啟電子郵件&#x200B;_**之前，不會選取影像。**_&#x200B;所以，您在預覽中看到的只是一個範例，並不一定是收件者看到的影像。
 
 1. 預覽完電子郵件後，按一下「預覽動作」下拉式清單，然後選取「核准並關閉」。 ********&#x200B;或者，如果您還需要編輯，請按一下右側的「編輯草稿」。****
 
@@ -90,7 +90,7 @@ ht-degree: 0%
 **範例**
 
 ```example
-<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="http://www.marketo.com">  
+<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com">  
 <a><img style="border:10px solid red;"></a>  
 </div>
 ```
