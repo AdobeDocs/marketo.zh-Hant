@@ -3,7 +3,7 @@ unique-page-id: 2951124
 description: 發行說明- 2012年1月/2月——行銷檔案——產品檔案
 title: 發行說明- 2012年1月/2月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->如需其他版本，請參閱[發行說明](http://docs.marketo.com/display/docs/release+notes)深入探討。
+>如需其他版本，請參閱[發行說明](https://docs.marketo.com/display/docs/release+notes)深入探討。
 
 ## 進階動態內容{#advanced-dynamic-content}
 
