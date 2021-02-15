@@ -3,7 +3,7 @@ unique-page-id: 2360240
 description: 配置機會影響分析器——行銷文檔——產品文檔
 title: 配置Opportunity Effence Analyzer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如需其他分析器，請參閱[基本報表](http://docs.marketo.com/display/docs/basic+reporting)。
+>如需其他分析器，請參閱[基本報表](https://docs.marketo.com/display/docs/basic+reporting)。
 
 >[!MORELIKETHIS]
 >
