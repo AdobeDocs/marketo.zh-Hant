@@ -3,7 +3,7 @@ unique-page-id: 14746594
 description: 設定SMTP伺服器——行銷文檔——產品文檔
 title: 設定SMTP伺服器
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '655'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 **銷售連接如何與我的SMTP伺服器一起發送？**
 
-遵循[這些步驟](http://docs.marketo.com/x/ZgPh)。
+遵循[這些步驟](https://docs.marketo.com/x/ZgPh)。
 
 ![](assets/1.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 * 每位使用者都必須自行設定
 * 變更使用者的O365密碼會導致連線中斷
 
-如果您使用Office365或Exchange Online，則可以使用一組標準憑據連接到SMTP伺服器。 請記住，Office365不是大量電子郵件傳送服務，不過這對於傳送一次性電子郵件非常有用。 在傳送大量電子郵件時，Office365可能會限制您的電子郵件，而這可能會導致傳送失敗。 要瞭解更多有關此資訊，請查看Microsoft在[上的文章，瞭解如何設定SMTP客戶端提交](http://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4)。
+如果您使用Office365或Exchange Online，則可以使用一組標準憑據連接到SMTP伺服器。 請記住，Office365不是大量電子郵件傳送服務，不過這對於傳送一次性電子郵件非常有用。 在傳送大量電子郵件時，Office365可能會限制您的電子郵件，而這可能會導致傳送失敗。 要瞭解更多有關此資訊，請查看Microsoft在[上的文章，瞭解如何設定SMTP客戶端提交](https://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4)。
 
 「您只能從一個電子郵件地址傳送，除非您的裝置可以儲存多個Office 365郵箱的登入憑證。 Office 365規定每分鐘傳送30封訊息的限制，以及每天10,000封收件者的限制。」
 
