@@ -3,7 +3,7 @@ unique-page-id: 2360235
 description: 建立機會影響分析器——行銷檔案——產品檔案
 title: 建立機會影響分析器
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您收到警告，指出在時段內沒有活動，只需按一下&#x200B;**關閉**&#x200B;即可。 下一步再談。
+   >如果您收到警告，指出該時段內沒有活動，只需按一下「關閉」。 ****&#x200B;下一步再談。
 
 1. 在該帳戶中選擇業務機會。
 
@@ -75,5 +75,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->如需其他分析器，請參閱[基本報表](http://docs.marketo.com/display/docs/basic+reporting)。
+>如需其他分析器，請參閱[基本報表](https://docs.marketo.com/display/docs/basic+reporting)。
 
