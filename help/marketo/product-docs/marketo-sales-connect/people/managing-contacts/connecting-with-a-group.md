@@ -3,9 +3,9 @@ unique-page-id: 30081318
 description: 連線群組——行銷人員檔案——產品檔案
 title: 連接組
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可能會看到新增至Marketo促銷活動的選項。 [那是另一篇文章](http://docs.marketo.com/x/CwDh)。
+   >您可能會看到新增至Marketo促銷活動的選項。 [那是另一篇文章](/help/marketo/product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md)。
 
 1. 選擇促銷活動（您可以選取類別以縮小結果），然後按一下「下一步」****。
 
@@ -60,4 +60,3 @@ ht-degree: 0%
 1. 排程促銷活動，然後按一下「開始&#x200B;**」。**
 
    ![](assets/nine-1.png)
-
