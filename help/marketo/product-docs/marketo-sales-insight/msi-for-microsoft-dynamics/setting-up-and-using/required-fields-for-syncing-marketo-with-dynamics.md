@@ -3,9 +3,9 @@ unique-page-id: 11375827
 description: 將Marketo與Dynamics同步的必填欄位- Marketo Docs —— 產品檔案
 title: 將Marketto與Dynamics同步的必填欄位
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 以下是如何驗證和新增同步欄位。
 
-1. 前往「管理員」並按一下「Microsoft Dynamics」。
+1. 前往「管理員」，然後按一下「Microsoft Dynamics **」。**
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 按一下「欄位同步詳細資訊」上的「編輯」。
+1. 按一下欄位同步詳細資訊上的&#x200B;**編輯**。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-1. 按一下「儲存」。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2016-6-8-13-3a41-3a27.png)
 
@@ -57,5 +57,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[為銷售線索／聯繫人記錄設定星形和火焰](http://docs.marketo.com/x/BICMAg)
-
+>[為銷售線索／聯繫人記錄設定星形和火焰](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
