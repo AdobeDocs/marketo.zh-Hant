@@ -3,7 +3,7 @@ unique-page-id: 37357043
 description: 功能概觀——行銷檔案——產品檔案
 title: 功能概觀
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -73,4 +73,3 @@ ht-degree: 0%
 * 有趣的時刻
 * 狀態
 * 銷售機會摘要——包含訂閱IM的能力
-
