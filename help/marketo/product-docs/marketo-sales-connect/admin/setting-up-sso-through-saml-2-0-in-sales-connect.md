@@ -3,7 +3,7 @@ unique-page-id: 14352405
 description: 在Sales Connect —— 行銷人員檔案——產品檔案中透過SAML 2.0設定SSO
 title: 在Sales Connect中透過SAML 2.0設定SSO
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -31,6 +31,6 @@ ht-degree: 0%
 
 我們也需要您公司SSO帳戶的SSO位置，才能成為唯一網域。 例如，我們需要一個唯一的子網域，如`toutapp.pingidentity.com`或類似網域。 若沒有此類型的唯一識別碼，我們將無法從控制面板設定SAML。
 
-指派URL時，「單一登入」和「Okta」並不一律提供唯一識別碼。 如果您使用Okta或One Login，表示我們無法從控制面板按鈕設定一次登入。 我們仍能從[Web應用程式](http://toutapp.com/login)上的「單一登入」按鈕設定它。
+指派URL時，「單一登入」和「Okta」並不一律提供唯一識別碼。 如果您使用Okta或One Login，表示我們無法從控制面板按鈕設定一次登入。 我們仍能從[Web應用程式](https://toutapp.com/login)上的「單一登入」按鈕設定它。
 
 一旦我們取得該資訊，我們將與我們的工程團隊合作，為您的訂閱設定此資訊。
