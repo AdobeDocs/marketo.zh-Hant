@@ -3,7 +3,7 @@ unique-page-id: 14352503
 description: 共用範本——行銷檔案——產品檔案
 title: 共用範本
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -19,9 +19,8 @@ ht-degree: 0%
 
 ## 如何查找共用模板{#how-to-find-shared-templates}
 
-已共用給您的範本會顯示在「範本」頁面左側的**團隊範本**標題下。
+已與您共用的範本會顯示在「範本」頁面左側的&#x200B;**團隊範本**&#x200B;標題下。
 
 >[!NOTE]
 >
 >團隊僅適用於Premium使用者。
-
