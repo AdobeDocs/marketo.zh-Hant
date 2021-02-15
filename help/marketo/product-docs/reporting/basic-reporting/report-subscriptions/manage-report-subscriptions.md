@@ -3,7 +3,7 @@ unique-page-id: 2359991
 description: 管理報表訂閱——行銷人員檔案——產品檔案
 title: 管理報表訂閱
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   此頁面顯示帳戶中所有報表的訂閱，依[報表類型](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)分組。 這包括對基本報告](subscribe-to-a-basic-report.md)和[收入週期瀏覽器](http://docs.marketo.com/display/docs/revenue+cycle+analytics)報告的[訂閱。
+   此頁面顯示帳戶中所有報表的訂閱，依[報表類型](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)分組。 這包括對基本報告](subscribe-to-a-basic-report.md)和[收入週期瀏覽器](https://docs.marketo.com/display/docs/revenue+cycle+analytics)報告的[訂閱。
 
    >[!TIP]
    >
@@ -73,5 +73,5 @@ ht-degree: 0%
    >    * [訂閱收入總管報表](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
 
-   進一步瞭解[基本報告](http://docs.marketo.com/display/docs/basic+reporting)和[收入週期瀏覽器](http://docs.marketo.com/display/docs/revenue+cycle+analytics)深入探討。
+   進一步瞭解[基本報告](https://docs.marketo.com/display/docs/basic+reporting)和[收入週期瀏覽器](https://docs.marketo.com/display/docs/revenue+cycle+analytics)深入探討。
 
