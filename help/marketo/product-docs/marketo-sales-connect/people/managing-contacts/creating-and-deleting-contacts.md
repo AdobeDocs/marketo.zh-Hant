@@ -3,9 +3,9 @@ unique-page-id: 14352516
 description: 建立和刪除連絡人——行銷人員檔案——產品檔案
 title: 建立和刪除聯繫人
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >想一次新增多個連絡人嗎？ [按一](http://docs.marketo.com/x/VADb) 下這裡，瞭解如何透過CSV匯入連絡人。
+   >想一次新增多個連絡人嗎？ [按一](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) 下這裡，瞭解如何透過CSV匯入連絡人。
 
 ## 刪除聯繫人{#deleting-contacts}
 
@@ -37,10 +37,10 @@ ht-degree: 0%
    >
    >若要刪除多個連絡人，只需選取多個人。 其餘步驟將相同。
 
-1. 按一下資料（三個垂直點），然後選取「刪除」。
+1. 按一下資料（三個垂直點），然後選取&#x200B;**Delete**。
 
    ![](assets/four-2.png)
 
-1. 按一下「刪除連絡人」以確認。
+1. 按一下&#x200B;**刪除聯繫人**&#x200B;進行確認。
 
    ![](assets/five-2.png)
