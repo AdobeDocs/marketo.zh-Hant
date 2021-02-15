@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: 發行說明- 16年秋季版——行銷檔案——產品檔案
 title: 發行說明- 16年秋季
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '704'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Fall &#39;16發行包含下列功能。 檢查您的Marketo版本，以取得功能。 請按一下標題連結，以檢視每個功能的詳細文章。
 
-## [電子郵件中的預測性內容](http://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
+## [電子郵件中的預測性內容](https://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
 
 我們的預測式內容應用程式提供全新的使用者體驗，可透過我們的機器學習和預測式演算法，跨網路和電子郵件通道追蹤、管理和推薦您的內容。
 
@@ -45,7 +45,7 @@ Fall &#39;16發行包含下列功能。 檢查您的Marketo版本，以取得功
 >
 >請連絡行銷支援以啟用此功能。
 
-## [Marketo帳戶型行銷增強功能](http://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
+## [Marketo帳戶型行銷增強功能](https://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
 
 現在，您可以在「帳戶型行銷」(ABM)中將帳戶團隊指派給指名的帳戶，例如帳戶擁有者、銷售開發代表、業務開發代表和客戶成功經理。 您也可以建立帳戶擁有者專屬的帳戶清單，並傳送個人化的每週ABM報告給帳戶團隊。
 
@@ -53,7 +53,7 @@ Fall &#39;16發行包含下列功能。 檢查您的Marketo版本，以取得功
 
 **REST API**
 
-此版本也可讓您使用Marketo REST API在ABM中管理指名的帳戶屬性和帳戶分數。 有關API操作的詳細資訊，請造訪[行銷人員網站](http://developers.marketo.com/rest-api/lead-database/named-accounts)。
+此版本也可讓您使用Marketo REST API在ABM中管理指名的帳戶屬性和帳戶分數。 有關API操作的詳細資訊，請造訪[行銷人員網站](https://developers.marketo.com/rest-api/lead-database/named-accounts)。
 
 ## [稽核記錄增強功能](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -67,7 +67,7 @@ Fall &#39;16發行包含下列功能。 檢查您的Marketo版本，以取得功
 
 **編輯促銷活動限制**
 
-如果您無法執行促銷活動限制，為何要設定[促銷活動限制](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns)? 當您設定「促銷活動限制設定」以限制資料庫中可以透過單一促銷活動定位的人數時，您現在可以限制在計畫促銷活動時哪些使用者可以覆寫這些設定。
+如果您無法執行促銷活動限制，為何要設定[促銷活動限制](https://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns)? 當您設定「促銷活動限制設定」以限制資料庫中可以透過單一促銷活動定位的人數時，您現在可以限制哪些使用者在計畫促銷活動時可以覆寫這些設定。
 
 ## [行動推播通知的音效](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -88,11 +88,11 @@ Fall &#39;16發行包含下列功能。 檢查您的Marketo版本，以取得功
 
 Market Sales Insight現在與Salesforce Shield Encryption相容。 所有Sales Insight客戶應升級至此最新的受管理套件（1.4359.2版），此套件[可在Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)上取得。
 
-## [命名帳戶API](http://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [命名帳戶API](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
 在此版本中，Marketo ABM使用者可以透過命名帳戶API管理命名帳戶。 使用者可建立、更新和刪除指名帳戶，以及讀取和更新ABM指名帳戶分數。
 
-## [電子郵件編輯器2.0版API支援](http://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [電子郵件編輯器2.0版API支援](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
 使用Marketo REST API，以v2.0格式管理電子郵件的變數和模組。
 
