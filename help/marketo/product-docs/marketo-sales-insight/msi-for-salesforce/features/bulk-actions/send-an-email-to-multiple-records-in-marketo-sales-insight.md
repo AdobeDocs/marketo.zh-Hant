@@ -3,7 +3,7 @@ unique-page-id: 5472672
 description: 傳送電子郵件至Marketon Sales Insight - Marketo Docs —— 產品檔案中的多個記錄
 title: 傳送電子郵件至Marketo Sales Insight中的多個記錄
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -33,17 +33,16 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >沒看到按鈕嗎？ 請確定您已將[行銷人員按鈕新增至清單檢視](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)。
+   >沒看到按鈕嗎？ 請確定您已將[行銷人員按鈕新增至清單檢視](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)。
 
-1. 繼續撰寫您的電子郵件。 完成時，按一下「與Market一起傳送」**。
+1. 繼續撰寫您的電子郵件。 完成時，按一下「與Marketo一起傳送」。****
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >您可以[將電子郵件發佈至Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)並從這些電子郵件中選擇。
+   >您可以[將電子郵件發佈至Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)並從這些電子郵件中選擇。
 
    >[!NOTE]
    >
    >您一次最多可傳送200封行銷人員電子郵件。
-
