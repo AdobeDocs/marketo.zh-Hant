@@ -3,7 +3,7 @@ unique-page-id: 2359500
 description: 細分順序優先順序——行銷人員檔案——產品檔案
 title: 分段順序優先順序
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -49,5 +49,5 @@ ht-degree: 0%
 
 
 
-酷啊？ 您可將區段用於動態內容、[reporting](http://docs.marketo.com/display/docs/basic+reporting)，甚至在[智慧型清單](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)中。
+酷啊？ 您可將區段用於動態內容、[reporting](https://docs.marketo.com/display/docs/basic+reporting)，甚至在[智慧型清單](https://docs.marketo.com/display/docs/smart+lists+and+static+lists)中。
 
