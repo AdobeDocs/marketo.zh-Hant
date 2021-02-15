@@ -3,9 +3,9 @@ unique-page-id: 45416564
 description: 啟用通話錄制——行銷人員檔案——產品檔案
 title: 啟用呼叫錄制
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 如果您想讓銷售者能夠自行啟用或停用來電錄制功能，請按一下**所有團隊成員可選錄制功能。 **如果您希望自動記錄所有呼叫，請** 按一下「錄制所有呼叫」。**
+1. 如果您想讓銷售者能夠自行啟用或停用呼叫錄制功能，請按一下&#x200B;**所有團隊成員的選用錄制功能**。 如果要自動記錄所有呼叫，請按一下「記錄所有呼叫」。****
 
    ![](assets/four.png)
 
 >[!MORELIKETHIS]
 >
->[雙方同意設定](http://docs.marketo.com/x/dgC1Ag)
-
+>[雙方同意設定](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
