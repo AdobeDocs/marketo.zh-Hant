@@ -3,7 +3,7 @@ unique-page-id: 10100649
 description: 設定應用程式內訊息背景——行銷檔案——產品檔案
 title: 設定應用程式內訊息背景
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
@@ -75,7 +75,7 @@ ht-degree: 0%
    >    
    >    
    >    * [瞭解應用程式內訊息](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >    * [傳送應用程式內訊息](http://docs.marketo.com/pages/viewpage.action?pageid=10617378)
+   >    * [傳送應用程式內訊息](https://docs.marketo.com/pages/viewpage.action?pageid=10617378)
    >    * [為您的應用程式內訊息選擇版面](choose-a-layout-for-your-in-app-message.md)
 
 
