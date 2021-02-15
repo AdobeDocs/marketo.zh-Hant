@@ -3,7 +3,7 @@ unique-page-id: 14352468
 description: 透過CSV匯入連絡人——行銷人員檔案——產品檔案
 title: 透過CSV匯入連絡人
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -40,4 +40,3 @@ ht-degree: 0%
 1. 將CSV中的欄對應至Sales Connect中各自的欄位。 完成時，按一下「下一步」。****
 
    ![](assets/five.png)
-
