@@ -3,7 +3,7 @@ unique-page-id: 2359965
 description: 報表類型概述——行銷檔案——產品檔案
 title: 報表類型概述
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -47,7 +47,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">按收入階段列出的人員報表</a>  </strong></td> 
-   <td><a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">收入模型</a>的基本報表。 如需更深入的報告，請參閱<a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">收入週期分析</a>。</td> 
+   <td><a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">收入模型</a>的基本報表。 如需更深入的報告，請參閱<a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">收入週期分析</a>。</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">著陸頁面效能</a>  </strong></td> 
@@ -55,7 +55,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">計畫績效</a>  </strong></td> 
-   <td>基本計畫量度，例如成員和成功。 如需更深入的報告，請參閱<a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">收入週期分析</a>。</td> 
+   <td>基本計畫量度，例如成員和成功。 如需更深入的報告，請參閱<a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">收入週期分析</a>。</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">公司網路活動</a>  </strong></td> 
@@ -71,7 +71,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">參與流績效報告</a> </strong></td> 
-   <td><p>瞭解您的<a href="http://docs.marketo.com/display/docs/drip+nurturing">參與計畫</a>運作成效如何。</p></td> 
+   <td><p>瞭解您的<a href="https://docs.marketo.com/display/docs/drip+nurturing">參與計畫</a>運作成效如何。</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -89,5 +89,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->若要查看這些報表的所有功能，請參閱[基本報表](http://docs.marketo.com/display/docs/basic+reporting)深入探討。
+>若要查看這些報表的所有功能，請參閱[基本報表](https://docs.marketo.com/display/docs/basic+reporting)深入探討。
 
