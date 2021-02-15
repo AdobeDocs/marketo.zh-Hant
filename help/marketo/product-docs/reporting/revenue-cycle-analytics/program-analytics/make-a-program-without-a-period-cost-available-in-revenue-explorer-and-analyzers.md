@@ -3,7 +3,7 @@ unique-page-id: 2360389
 description: 在Revenue Explorer和Analyzers - Marketo Docs - Product Documentation中提供不含期間成本的計畫
 title: 在收入瀏覽器和分析器中提供不含期間成本的方案
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在收入瀏覽器和分析器中使用不含期間成本的程式{#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-方案期間成本允許您為方案定義「金額」和「時間」。 這顯示在[收入週期瀏覽器](http://docs.marketo.com/display/docs/revenue+cycle+analytics)和[分析器](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)中。
+方案期間成本允許您為方案定義「金額」和「時間」。 這顯示在[收入週期瀏覽器](https://docs.marketo.com/display/docs/revenue+cycle+analytics)和[分析器](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)中。
 
 >[!NOTE]
 >
