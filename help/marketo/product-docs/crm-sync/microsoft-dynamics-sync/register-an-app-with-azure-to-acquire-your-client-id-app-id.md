@@ -3,7 +3,7 @@ unique-page-id: 12983390
 description: 向Azure註冊應用程式以取得您的用戶端ID/應用程式ID —— 行銷人員檔案——產品檔案
 title: 向Azure註冊應用程式以取得您的用戶端ID/應用程式ID
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Azure Active Directory將您的內部目錄延伸至雲端，提供MS Dynamics 3
 
 ## 註冊新應用程式{#registering-a-new-app}
 
-1. [使用](http://manage.windowsazure.com/) 具有管理權限的帳戶登入Microsoft Azure管理入口網站。您也可以透過Office 365管理中心存取Microsoft Azure入口網站，方法是展開左側導覽窗格中的&#x200B;**Admin**&#x200B;項目，然後選取&#x200B;**Azure AD**。
+1. [使用](https://manage.windowsazure.com/) 具有管理權限的帳戶登入Microsoft Azure管理入口網站。您也可以透過Office 365管理中心存取Microsoft Azure入口網站，方法是展開左側導覽窗格中的&#x200B;**Admin**&#x200B;項目，然後選取&#x200B;**Azure AD**。
 
    >[!CAUTION]
    >
