@@ -3,7 +3,7 @@ unique-page-id: 10100434
 description: 選擇應用程式內訊息的版面——行銷人員檔案——產品檔案
 title: 為您的應用程式內訊息選擇版面
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -62,7 +62,7 @@ Marketo提供6種版面，以建立應用程式內訊息。
 
 >[!MORELIKETHIS]
 >
->* [建立應用程式內訊息](http://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [建立應用程式內訊息](https://docs.marketo.com/display/docs/create+an+in-app+message)
 >* [瞭解應用程式內訊息](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 
 >
