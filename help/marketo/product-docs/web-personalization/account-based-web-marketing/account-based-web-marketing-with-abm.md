@@ -3,7 +3,7 @@ unique-page-id: 11381689
 description: 使用ABM進行以帳戶為基礎的網路行銷——行銷檔案——產品檔案
 title: 使用ABM進行帳戶型網路行銷
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用ABM {#account-based-web-marketing-with-abm}進行帳戶型網路行銷
 
-Marketo已推出新的[以帳戶為基礎的行銷(ABM)應用程式。](http://docs.marketo.com/display/docs/account+based+marketing)
+Marketo已推出新的[以帳戶為基礎的行銷(ABM)應用程式。](https://docs.marketo.com/display/docs/account+based+marketing)
 
 當您使用Marketon Web Personalization和新的「以帳戶為基礎的行銷」(ABM)時：
 
