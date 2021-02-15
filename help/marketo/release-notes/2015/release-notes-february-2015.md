@@ -3,7 +3,7 @@ unique-page-id: 6094890
 description: 發行說明- 2015年2月——行銷檔案——產品檔案
 title: 發行說明- 2015年2月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 歡慶！ 現在，您可以使用拖放或樹狀結構中的「移動」功能，將智慧型促銷活動移入或移出程式。
 
-** [Dynamics 2015（線上）](http://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) **-支援！
+** [Dynamics 2015（線上）](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) **-支援！
 
 **HTTPS憑證變更**
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
 並將目前使用的安全性通訊協定（SHA-1和SSL）取代為更安全的版本(SHA-2（亦即SHA-2）。SHA-256)和TLS)，適用於下列網域：
 
-`·` [marketo.net](http://marketo.net) （加密的Munchkin流量）
+`·` [marketo.net](https://marketo.net) （加密的Munchkin流量）
 
-`·` [marketo.com](http://marketo.com) （主要SaaS應用程式）
+`·` [marketo.com](https://marketo.com) （主要SaaS應用程式）
 
-此版本發佈後不久即會發生。 在2015年12月之前，[mktoapi.com](http://mktoapi.com)網域將暫時支援SHA-1通訊協定，讓舊有系統和應用程式的擁有者更新其具備SHA-2相容性的系統。
+此版本發佈後不久即會發生。 在2015年12月之前，[mktoapi.com](https://mktoapi.com)網域將暫時支援SHA-1通訊協定，讓舊有系統和應用程式的擁有者更新其具備SHA-2相容性的系統。
 
 **安全蒙奇金**
 
