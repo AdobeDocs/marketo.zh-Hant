@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: 使用我的代號——行銷檔案——產品檔案中的URL
 title: 在我的Token中使用URL
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -23,13 +23,13 @@ ht-degree: 0%
 
    ![](assets/two-4.png)
 
-1. 為Token指定唯一名稱，輸入URL(不含http://)，然後按一下「儲存&#x200B;**」。**
+1. 為Token指定唯一名稱，輸入URL(不含https://)，然後按一下「儲存&#x200B;**」。**
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >若要確保您的電子郵件中會追蹤點按次數，請在Token值內輸入http://。****
+   >若要確保您的電子郵件中會追蹤點按次數，請在Token值內輸入https://。****
 
 1. 在您的計畫中選擇電子郵件。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/six-1.png)
 
-1. 在您電子郵件的任何位置，輸入「http://」（不需在後面留空格），然後按一下「插入Token」圖示。
+1. 在您電子郵件的任何位置，輸入「https://」（不需在後面留空格），然後按一下「插入Token」圖示。
 
    ![](assets/seven.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 選中http://和Token，然後按Ctrl/Cmd+X(Ctrl = Windows/Cmd = Mac)以剪下文字。
+1. 選中https://和Token，然後按Ctrl/Cmd+X(Ctrl = Windows/Cmd = Mac)以剪下文字。
 
    ![](assets/nine.png)
 
@@ -71,4 +71,4 @@ ht-degree: 0%
 
    ![](assets/twelve.png)
 
-   你完了！ 您的URL會在傳送後填入，而且由於您將http://置於Token前面，所以會產生可追蹤的連結。
+   你完了！ 您的URL會在傳送後填入，而且由於您將https://置於Token前面，所以會產生可追蹤的連結。
