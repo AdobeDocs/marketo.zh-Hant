@@ -3,7 +3,7 @@ unique-page-id: 14352436
 description: 銷售電話本地服務——行銷檔案——產品檔案
 title: 銷售電話本地服務
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 我們僅針對美國地區的電話提供所有銷售電話功能。
 
-**當我呼叫區域代碼時，本機存在號碼是否始終相同？ **
+**當我呼叫區域代碼時，本機存在號碼是否始終相同？**
 
 當您呼叫區域代碼時，數字可能永遠相同。
 
