@@ -3,7 +3,7 @@ unique-page-id: 15695874
 description: 將BrightTALK連接至Marketo - Marketo Docs —— 產品檔案
 title: 將BrightTALK連接至Marketo
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## BrightTALK {#steps-in-brighttalk}中的步驟
 
-1. 登入[business.brighttalk.com/demandcentral](http://business.brighttalk.com/demandcentral/login)，然後按一下&#x200B;**立即連線**。
+1. 登入[business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login)，然後按一下&#x200B;**立即連線**。
 1. 在「Advanced Marketo Connector」（進階行銷連接器）下，按一下「Connect」（連線）**。**
 1. 您將進入認證畫面，要求：用戶端ID、用戶端密碼、身分服務URL和余留服務URL。 若要取得此資訊，請登入Marketo。
 
@@ -77,4 +77,4 @@ ht-degree: 0%
 
 1. 從步驟3返回BrightTALK連接器設定螢幕，並輸入從步驟12和14保存的憑據。
 
-   認證完成後，您已正式將BrightTALK連線至Marketo。 下一步是確定要同步的[資料欄位。](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync)
+   認證完成後，您已正式將BrightTALK連線至Marketo。 下一步是確定要同步的[資料欄位。](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync)
