@@ -3,7 +3,7 @@ unique-page-id: 2359496
 description: 將內容新增至程式碼片段——行銷人員檔案——產品檔案
 title: 新增內容至程式碼片段
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可以將自己的影像或檔案新增至Marketo。 進一步瞭解[影像和檔案](http://docs.marketo.com/display/docs/images+and+files)。
+   >您可以將自己的影像或檔案新增至Marketo。 進一步瞭解[影像和檔案](https://docs.marketo.com/display/docs/images+and+files)。
 
 1. 選擇要使用的&#x200B;**Image** ，然後按一下&#x200B;**Insert**。
 
