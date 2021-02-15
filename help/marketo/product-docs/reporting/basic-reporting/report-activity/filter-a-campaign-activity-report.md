@@ -3,7 +3,7 @@ unique-page-id: 2360184
 description: 篩選促銷活動報表——行銷人員檔案——產品檔案
 title: 篩選促銷活動報表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 篩選促銷活動報表{#filter-a-campaign-activity-report}
 
-將您的[促銷活動報表](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)集中在特定的[智慧型促銷活動](http://docs.marketo.com/display/docs/smart+campaigns)上。
+將您的[促銷活動報表](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)集中在特定的[智慧型促銷活動](https://docs.marketo.com/display/docs/smart+campaigns)上。
 
 1. 前往&#x200B;**行銷活動**（或&#x200B;**Analytics**）並選取您的促銷活動報表。
 
@@ -47,5 +47,5 @@ ht-degree: 0%
 >
 >**深入探討**
 >
->瞭解[基本報表](http://docs.marketo.com/display/docs/basic+reporting)中的所有報表。
+>瞭解[基本報表](https://docs.marketo.com/display/docs/basic+reporting)中的所有報表。
 
