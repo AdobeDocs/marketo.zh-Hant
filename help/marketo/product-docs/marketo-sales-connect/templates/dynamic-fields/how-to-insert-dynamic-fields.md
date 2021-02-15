@@ -3,9 +3,9 @@ unique-page-id: 14352592
 description: 如何插入動態欄位——行銷檔案——產品檔案
 title: 如何插入動態欄位
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,12 @@ ht-degree: 0%
 
 >[!TIP]
 >
->「first_name」和「company」欄位是`only fields that will look to both Sales Connect and Salesforce.`。這表示，如果[網頁應用程式](http://toutapp.com/login)中不存在連絡人，我們會在Salesforce中尋找連絡人／銷售機會記錄，以找出相符的電子郵件地址。 然後，我們會使用該記錄中的資訊填入欄位。
+>&quot;first_name&quot;和&quot;company&quot;欄位是Sales Connect和Salesforce中唯一可尋找的欄位。 這表示，如果[Web應用程式](https://toutapp.com/login)中不存在連絡人，我們會在Salesforce中尋找連絡人／銷售機會記錄，以找出相符的電子郵件地址。 然後，我們會使用該記錄中的資訊填入欄位。
 
 ## 將動態欄位插入範本{#insert-a-dynamic-field-into-a-template}
 
 1. 在&#x200B;**範本與促銷活動**&#x200B;中，尋找您要編輯的範本，然後按一下&#x200B;**編輯範本**。
+
 1. 按一下「**輸出動態欄位**」。
 
    >[!NOTE]
