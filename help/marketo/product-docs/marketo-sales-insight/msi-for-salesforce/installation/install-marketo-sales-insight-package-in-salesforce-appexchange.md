@@ -3,7 +3,7 @@ unique-page-id: 7516390
 description: 在Salesforce AppExchange中安裝Marketo Sales Insight套件- Marketo Docs —— 產品檔案
 title: 在Salesforce AppExchange中安裝Marketo Sales Insight套件
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -23,11 +23,12 @@ ht-degree: 0%
 >
 >Marketo Sales Insight與Salesforce Platform(Shield)Encryption相容。
 
-1. 前往Marketon Sales Insight的[AppExchange頁面，然後按一下&#x200B;**立即取得**。](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)
+1. 前往Marketon Sales Insight的[AppExchange頁面，然後按一下&#x200B;**立即取得**。](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)
 
    ![](assets/one.png)
 
 1. 按一下「**登入AppExchange**」按鈕，然後使用您的Salesforce憑證登入。
+
 1. 輸入您所連線的Salesforce帳戶登入，然後按一下「在Production中安裝」。****
 
    ![](assets/three.png)
@@ -36,7 +37,7 @@ ht-degree: 0%
    >
    >如果您想先在沙盒中測試它，請選擇&#x200B;**「安裝在沙盒中」**。
 
-1. 閱讀並接受條款與條件，然後按一下**確認並安裝**。
+1. 閱讀並接受條款與條件，然後按一下「確認並安裝」。****
 
    ![](assets/four.png)
 
@@ -48,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 確認** Marketo Sales Insight**是否位於已安裝的套件中。
+1. 驗證&#x200B;**Marketo Sales Insight**&#x200B;是否在已安裝的包中。
 
    ![](assets/seven.png)
 
@@ -64,7 +65,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-27-16-3a15-3a58.png)
 
-1. 如果未部署物件，請按一下項目旁的**編輯**。
+1. 如果未部署對象，請按一下項目旁的&#x200B;**編輯**。
 
    ![](assets/image2014-9-24-17-3a23-3a45.png)
 
@@ -76,7 +77,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[在Salesforce Professional Edition中設定Marketo Sales Insight](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>[在Salesforce Professional Edition中設定Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >
->[在Salesforce Enterprise中設定Marketo Sales Insight/Unlimited](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
-
+>[在Salesforce Enterprise中設定Marketo Sales Insight/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
