@@ -3,7 +3,7 @@ unique-page-id: 14352407
 description: 傳送渠道概觀——行銷人員檔案——產品檔案
 title: 傳送渠道概觀
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->只有當您從[Web應用程式](https://toutapp.com/login)傳送電子郵件時，才會有此資訊。 如果您在Gmail或Outlook中使用Sales Connect，您的電子郵件會透過這些電子郵件伺服器傳送。
+>只有當您從[Web應用程式](https://toutapp.com/login)傳送電子郵件時，才會有這項資訊。 如果您在Gmail或Outlook中使用Sales Connect，您的電子郵件會透過這些電子郵件伺服器傳送。
 
 ## MSC電子郵件伺服器（預設）{#msc-email-servers-default}
 
@@ -47,4 +47,4 @@ ht-degree: 0%
 
 ## 自定義SMTP伺服器{#custom-smtp-server}
 
-為您自己的伺服器付費？ 使用Microsoft Exchange環境？ 這是您的選擇。 請參閱[這些有關設定的說明](http://docs.marketo.com/x/zYTS)。 與Gmail伺服器一樣，由於Sales Connect不直接管理您的伺服器，因此我們不會在Web應用程式中記錄跳回的電子郵件事件。
+為您自己的伺服器付費？ 使用Microsoft Exchange環境？ 這是您的選擇。 請參閱[這些有關設定的說明](https://docs.marketo.com/x/zYTS)。 與Gmail伺服器一樣，由於Sales Connect不直接管理您的伺服器，因此我們不會在Web應用程式中記錄跳回的電子郵件事件。
