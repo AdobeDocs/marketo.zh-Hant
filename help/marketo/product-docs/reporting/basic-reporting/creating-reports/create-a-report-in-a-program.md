@@ -3,7 +3,7 @@ unique-page-id: 2359963
 description: 在計畫——行銷檔案——產品檔案中建立報表
 title: 在方案中建立報表
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >請參閱[`Report Type Overview`](http://docs.marketo.com/display/DOCS/Report+Type+Overview)以取得每個項目的簡短說明。
+   >請參閱[`Report Type Overview`](https://docs.marketo.com/display/DOCS/Report+Type+Overview)以取得每個項目的簡短說明。
 
    為報表命名。
 
@@ -61,7 +61,7 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >依預設，報表會涵蓋您帳戶中所有程式的活動。 若要瞭解篩選報表的多種方式，請參閱[基本報表](http://docs.marketo.com/display/docs/basic+reporting)深入探討。
+   >依預設，報表會涵蓋您帳戶中所有程式的活動。 若要瞭解篩選報表的多種方式，請參閱[基本報表](https://docs.marketo.com/display/docs/basic+reporting)深入探討。
 
    >[!NOTE]
    >
@@ -74,5 +74,5 @@ ht-degree: 0%
    >
    >
    >
-   >您可以[變更報告時間範圍](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)、[訂閱基本報告](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)、[將報告匯出至Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)、[以智慧清單](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)篩選報告中的人員，以及[更多](http://docs.marketo.com/display/docs/basic+reporting)。
+   >您可以[變更報告時間範圍](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)、[訂閱基本報告](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)、[將報告匯出至Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)、[以智慧清單](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)篩選報告中的人員，以及[更多](https://docs.marketo.com/display/docs/basic+reporting)。
 
