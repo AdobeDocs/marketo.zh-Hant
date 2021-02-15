@@ -2,7 +2,7 @@
 title: my-token-email-script
 description: 我的Token電子郵件指令碼
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-對於進階開發人員，您可以透過設定電子郵件指令碼Token，在電子郵件中使用[Velocity指令碼](http://velocity.apache.org/engine/1.7/user-guide.html)。 這是如何做到的。
+對於進階開發人員，您可以透過設定電子郵件指令碼Token，在電子郵件中使用[Velocity指令碼](https://velocity.apache.org/engine/1.7/user-guide.html)。 這是如何做到的。
 
 1. 在程式或資料夾的[!UICONTROL My Tokens]標籤中，將&#x200B;**[!UICONTROL Email Script]**&#x200B;代號拖曳至[!UICONTROL Local Tokens]畫布。
 
@@ -34,10 +34,10 @@ ht-degree: 0%
 
 1. 以Velocity編寫您的指令碼。 以下是一些有用的資源可協助您：
 
-   * [行銷人員電子郵件指令碼檔案](http://developers.marketo.com/email-scripting/)
-   * [Velocity使用指南](http://velocity.apache.org/engine/devel/user-guide.html)
-   * [速度參考指南](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [VelocityTools 2.0檔案](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [行銷人員電子郵件指令碼檔案](https://developers.marketo.com/email-scripting/)
+   * [Velocity使用指南](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [速度參考指南](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [VelocityTools 2.0檔案](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. 完成指令碼後，按一下&#x200B;**[!UICONTROL Save]**。
 
