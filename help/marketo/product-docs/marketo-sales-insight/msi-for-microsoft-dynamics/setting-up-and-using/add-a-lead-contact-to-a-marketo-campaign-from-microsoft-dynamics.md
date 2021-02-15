@@ -3,9 +3,9 @@ unique-page-id: 2953342
 description: 從Microsoft Dynamics - Marketo Docs —— 產品檔案新增銷售線索／連絡人至Marketo促銷活動
 title: 從Microsoft Dynamics新增銷售機會／連絡人至Marketo促銷活動
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. 按一下** ...**並選取&#x200B;**新增至行銷活動**。
+1. 按一下&#x200B;**...**&#x200B;並選取「新增至行銷活動」**。**
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >設定促銷活動時，請使用&#x200B;[**請求促銷活動**&#x200B;觸發器](http://docs.marketo.com/pages/viewpage.action?pageId=7514898)，並以Sales Insight為來源。
+   >設定促銷活動時，請使用&#x200B;[**請求促銷活動**&#x200B;觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)，並以Sales Insight為來源。
 
 就這些！ 您現在可以直接從Dynamics直接掌握Market對智慧型宣傳的力量。
