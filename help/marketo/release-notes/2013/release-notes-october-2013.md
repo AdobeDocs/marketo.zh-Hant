@@ -3,7 +3,7 @@ unique-page-id: 2951054
 description: 發行說明- 2013年10月——行銷檔案——產品檔案
 title: 發行說明- 2013年10月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 發行說明：2013年10月{#release-notes-october}
 
-2013年10月發行包含下列功能。 檢查您的[Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php)是否提供功能。
+2013年10月發行包含下列功能。 檢查您的[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php)是否提供功能。
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.](http://templates.marketo.com) com展示電子郵件和登陸頁面範本（包括互動式行動電子郵件範本），您可從Marketo Program Library下載。我們將每月新增範本，並經常檢查！
+[Templates.marketo.](https://templates.marketo.com) com展示電子郵件和登陸頁面範本（包括互動式行動電子郵件範本），您可從Marketo Program Library下載。我們將每月新增範本，並經常檢查！
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.](http://developers.marketo.com) comis適用於想要與Marketo整合的開發人員。您可以參考不同的整合選項，包括Munchkin JavaScript API、SOAP API程式碼範例、Webhook和電子郵件指令碼。 [GitHub](https://github.com/Marketo/SOAP-API-Java-Client)也提供Java SDK。
+[Developers.marketo.](https://developers.marketo.com) comis適用於想要與Marketo整合的開發人員。您可以參考不同的整合選項，包括Munchkin JavaScript API、SOAP API程式碼範例、Webhook和電子郵件指令碼。 [GitHub](https://github.com/Marketo/SOAP-API-Java-Client)也提供Java SDK。
 
 ## 更新的BrightTALK事件適配器{#updated-brighttalk-event-adapter}
 
