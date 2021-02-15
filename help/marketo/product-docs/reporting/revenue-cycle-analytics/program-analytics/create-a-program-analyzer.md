@@ -3,7 +3,7 @@ unique-page-id: 2360399
 description: 建立Program Analyzer - Marketo Docs —— 產品檔案
 title: 建立程式分析器
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -79,4 +79,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->進一步瞭解[Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)和[Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics)。
+>進一步瞭解[Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting)和[Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics)。
