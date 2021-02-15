@@ -3,7 +3,7 @@ unique-page-id: 2951056
 description: 發行說明- 2013年9月——行銷檔案——產品檔案
 title: 發行說明- 2013年9月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '535'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 發行說明：2013年9月{#release-notes-september}
 
-9月發行包含下列功能。 請檢查您的[Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php)是否提供功能。
+9月發行包含下列功能。 請檢查您的[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php)是否提供功能。
 
 發行後，請務必查看社群中的[新發行](release-notes-december-2013.md)標籤，以取得每個功能的詳細知識庫文章！
 
@@ -77,4 +77,4 @@ ht-degree: 0%
 
 ## Cobalt用戶介面{#cobalt-user-interface}
 
-在接下來的幾個月中，應用程式的不同部分都將推出新主題。 本月，您可能會注意到更多新的藍色強制視窗。
+在接下來的幾個月中，應用程式的不同部分都將推出新的主題。 本月，您可能會注意到更多新的藍色強制視窗。
