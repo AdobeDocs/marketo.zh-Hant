@@ -3,7 +3,7 @@ unique-page-id: 2360188
 description: 促銷活動電子郵件績效報告——行銷人員檔案——產品檔案
 title: 促銷活動電子郵件績效報表
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 促銷活動電子郵件績效報表{#campaign-email-performance-report}
 
-若要查看依[smart campaign](http://docs.marketo.com/display/docs/smart+campaigns)分組的電子郵件績效統計資料，請執行「促銷活動電子郵件績效」報表。
+若要查看依[smart campaign](https://docs.marketo.com/display/docs/smart+campaigns)分組的電子郵件績效統計資料，請執行「促銷活動電子郵件績效」報表。
 
 1. [建立報表](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 並選取「促銷活 **動電子郵件** [績效」報表類型](report-type-overview.md)。
 1. [設定報表的時間範圍，](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 然後按一下「報表 **** 」標籤。
@@ -53,5 +53,5 @@ ht-degree: 0%
    >**深入探討**
    >
    >
-   >進一步瞭解[基本報表。](http://docs.marketo.com/display/docs/basic+reporting)
+   >進一步瞭解[基本報表。](https://docs.marketo.com/display/docs/basic+reporting)
 
