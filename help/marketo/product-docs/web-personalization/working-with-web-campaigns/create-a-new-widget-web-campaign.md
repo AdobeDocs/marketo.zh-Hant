@@ -3,7 +3,7 @@ unique-page-id: 4719402
 description: 建立新的Widget Web促銷活動——行銷檔案——產品檔案
 title: 建立新的Widget Web促銷活動
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Web促銷活動是與特定群體相關的自訂反應，可以是網站上的[�
   </tr> 
   <tr> 
    <td colspan="1"><strong>顯示於</strong></td> 
-   <td colspan="1">可讓您自訂Web促銷活動的顯示時機和方式。</a><a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow"></a></td> 
+   <td colspan="1">可讓您自訂Web促銷活動的顯示時機和方式。<a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow"></a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>製作動畫進／出</strong></td> 
