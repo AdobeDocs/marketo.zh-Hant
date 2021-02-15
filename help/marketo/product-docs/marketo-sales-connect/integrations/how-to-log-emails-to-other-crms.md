@@ -3,9 +3,9 @@ unique-page-id: 14352430
 description: 如何將電子郵件記錄至其他CRM —— 行銷人員檔案——產品檔案
 title: 如何將電子郵件記錄至其他CRM。
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## CRM。我們與{#crms-we-integrate-with}整合
 
-**`Almost every CRM`**:
+**幾乎每個CRM**:
 
-* 我們的`auto-BCC`* *功能幾乎可與所有CRM搭配使用。您隨Sales Connect傳送給潛在客戶的記錄電子郵件。 只要確定您選擇的CRM會提供您密件副本位址，以利用此優勢。
+* 我們的自動密件副本功能幾乎適用於所有CRM。您透過Sales Connect傳送給潛在客戶的記錄電子郵件。 只要確定您選擇的CRM會提供您密件副本位址，以利用此優勢。
 
-**`Salesforce`**:
+**Salesforce**:
 
 * 我們做了上面的事，還有更多！
 
@@ -34,4 +34,3 @@ ht-degree: 0%
 1. 按一下&#x200B;**保存** ，您的BCC地址將保存到Sales Connect。
 
    電子郵件現在會透過密件副本記錄至您的CRM。
-
