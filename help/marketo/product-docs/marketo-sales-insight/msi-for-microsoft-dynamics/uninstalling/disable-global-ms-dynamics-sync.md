@@ -3,9 +3,9 @@ unique-page-id: 37355596
 description: 停用全域MS Dynamics Sync —— 行銷檔案——產品檔案
 title: 禁用全局MS Dynamics Sync
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您的例項中未看到「停用同步」按鈕，請聯絡[行銷人員支援](http://nation.marketo.com/community/support_solutions)。
-
+   >如果您的例項中未看到「停用同步」按鈕，請聯絡[行銷人員支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
