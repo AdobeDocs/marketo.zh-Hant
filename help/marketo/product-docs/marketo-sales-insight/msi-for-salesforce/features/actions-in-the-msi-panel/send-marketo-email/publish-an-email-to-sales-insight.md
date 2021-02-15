@@ -3,7 +3,7 @@ unique-page-id: 2949718
 description: 發佈電子郵件至Sales Insight - Marketo Docs —— 產品檔案
 title: 發佈電子郵件至Sales Insight
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -43,9 +43,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[在Microsoft Dynamics](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) 或Salesforce上，從Sales Insight傳送電子郵件時，My Tokens將無法解決；只會填入標準Token（銷售機會、公司等）。不過，預付碼的預設值會運作。
+>[在Microsoft Dynamics](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) 或Salesforce上，從Sales Insight傳送電子郵件時，My Tokens將無法解決；只會填入標準Token（銷售機會、公司等）。不過，預付碼的預設值會運作。
 
 >[!TIP]
 >
->請勿忘記核准此電子郵件，讓變更生效。 瞭解如何[批准電子郵件](../../../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
-
+>請勿忘記核准此電子郵件，讓變更生效。 瞭解如何[批准電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
