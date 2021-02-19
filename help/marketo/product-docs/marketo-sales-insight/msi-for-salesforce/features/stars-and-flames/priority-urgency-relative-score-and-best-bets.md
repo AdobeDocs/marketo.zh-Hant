@@ -3,9 +3,9 @@ unique-page-id: 2950396
 description: 優先順序、緊急程度、相對分數和最佳押注——行銷人員檔案——產品檔案
 title: 優先順序、緊急程度、相對分數和最佳賭注
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Marketo Sales Insight會根據您的優先順序挑選最佳銷售機會和聯�
 
 >[!NOTE]
 >
->如果您的最佳賭注不符合您擁有的最佳潛在客源和聯絡人，請洽詢您公司中有權存取Marketo的人，以更新您的[計分規則](../../../../../getting-started/quick-wins/simple-scoring.md)。
+>如果您的最佳賭注不符合您擁有的最佳潛在客源和聯絡人，請洽詢您公司中有權存取Marketo的人，以更新您的[計分規則](/help/marketo/getting-started/quick-wins/simple-scoring.md)。
 
 ### 如何計算緊急程度和相對分數
 
@@ -54,8 +54,3 @@ Marketo Sales Insight會根據您的優先順序挑選最佳銷售機會和聯�
 >[!NOTE]
 >
 >「相對緊急度（火焰）」和「相對分數（星號）」計數是Marketo中的整數。 每個值的可能值為0-3。
-
->[!MORELIKETHIS]
->
->* [Marketo Sales Insight](https://docs.marketo.com/display/docs/marketo+sales+insight)
-
