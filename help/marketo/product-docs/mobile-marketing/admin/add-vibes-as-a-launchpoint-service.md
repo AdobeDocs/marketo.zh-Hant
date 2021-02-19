@@ -3,7 +3,7 @@ unique-page-id: 11378845
 description: 將Vibes新增為LaunchPoint服務——行銷人員檔案——產品檔案
 title: 將Vibe新增為LaunchPoint服務
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -42,4 +42,3 @@ ht-degree: 0%
    新的SMS服務現在會顯示在「已安裝服務」清單中。
 
    ![](assets/image2016-7-27-9-3a45-3a1.png)
-
