@@ -3,7 +3,7 @@ unique-page-id: 2949716
 description: 使用Outlook電子郵件增益集——行銷人員檔案——產品檔案來傳送及追蹤電子郵件
 title: 使用Outlook的電子郵件增益集來傳送及追蹤電子郵件
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->如果您尚未安裝[Marketo以電子郵件形式寄送Outlook的增益集。](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
+>如果您尚未安裝[Marketo以電子郵件形式寄送Outlook的增益集。](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
 
 1. 開啟Microsoft Outlook並建立新電子郵件。
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您想使用Marketo範本，請參閱[使用範本從Outlook傳送及追蹤](send-and-track-from-outlook-using-a-marketo-template.md)。
+   >如果您想使用Marketo範本，請參閱[使用範本從Outlook傳送及追蹤](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)。
 
 1. 檢視預覽，然後按一下「傳送&#x200B;**」。**
 
@@ -55,9 +55,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [在Marketo中記錄來自您銷售線索的入站郵件](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
-
->
-
-
-
+>[在Marketo中記錄來自您銷售線索的入站郵件](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
