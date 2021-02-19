@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: 精彩瞬間的代號——行銷檔案——產品檔案
 title: 有趣時刻的Token
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 瞭解如何使用[有趣的力矩流步驟](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)。
->* 進一步瞭解[Token](https://docs.marketo.com/display/docs/tokens)。
-
->
-
-
+>瞭解如何使用[有趣的力矩流步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)。
 
 ## 可用預付碼{#available-tokens}
 
-查看[Token Overview](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)，以查看您可放入有趣時刻的所有Token。
+查看[Token Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)，以查看您可放入有趣時刻的所有Token。
 
 ## 觸發Token {#trigger-tokens}
 
@@ -249,4 +244,3 @@ ht-degree: 0%
 >請隨時測試您的有趣時刻，以確保呈現您想要的方式。
 >
 >此外，請務必讓銷售人員感興趣，而不只是您。 ![（眨眼）](assets/wink.svg)>
-
