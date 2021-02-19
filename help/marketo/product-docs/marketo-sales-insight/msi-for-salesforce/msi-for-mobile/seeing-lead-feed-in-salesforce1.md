@@ -3,7 +3,7 @@ unique-page-id: 7512654
 description: 在Salesforce1中檢視銷售機會資訊源1 —— 行銷檔案——產品檔案
 title: 在Salesforce中查看銷售線索1
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -33,11 +33,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Salesforce中的有趣時刻1](interesting-moments-in-salesforce1.md)
->* [在Salesforce中傳送Marketon至電子郵件和促銷活動與監看清單動作1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Salesforce中的最佳選擇1](best-bets-in-salesforce1.md)
-
->
-
-
+>* [Salesforce中的有趣時刻1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [在Salesforce中傳送Marketon至電子郵件和促銷活動與監看清單動作1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Salesforce中的最佳選擇1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
 
