@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: 使用企業金鑰安裝Marketo Add-in for Outlook —— 行銷人員檔案——產品檔案
 title: 使用企業金鑰安裝Marketon Add-in for Outlook
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->管理員必須已核發[行銷人員電子郵件增益集授權](issue-a-marketo-email-add-in-license.md)。
+>管理員必須已核發[行銷人員電子郵件增益集授權](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)。
 
 >[!NOTE]
 >
->如果您未看到「查看企業密鑰」按鈕，請與[`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371)聯繫以啟用它。
+>如果您未看到「檢視企業金鑰」按鈕，請聯絡[行銷人員支援](https://nation.marketo.com/t5/Support/ct-p/Support)以啟用它。
 
-1. 在My Marketo中，按一下「**管理**」，然後按一下「銷售分析」。****
+1. 在My Marketo中，按一下&#x200B;**Admin**，然後按一下&#x200B;**Sales Insight**。
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 
@@ -35,17 +35,8 @@ ht-degree: 0%
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
-1. 複製Outlook企業授權金鑰，並連同[此連結](marketo-outlook-plugin-installation-by-it.md)貼到電子郵件中，然後將它傳送至您的IT部門進行遠端安裝。
+1. 複製Outlook企業授權金鑰，並連同[此連結](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)貼到電子郵件中，然後將它傳送至您的IT部門進行遠端安裝。
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   就這樣！ 接下來，銷售代表將完成[註冊過程](authorize-the-marketo-outlook-plugin.md)。 您可以傳送指示的連結（請參閱&#x200B;**行銷人員相關文章**）。
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [授權Marketo Outlook外掛程式](authorize-the-marketo-outlook-plugin.md)
-
-
+   就這樣！ 接下來，銷售代表將完成[註冊過程](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md)。
