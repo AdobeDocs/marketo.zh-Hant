@@ -3,7 +3,7 @@ unique-page-id: 11377552
 description: 指定Marketo Sales Insight外掛程式管理員- Marketo Docs —— 產品檔案
 title: 指定Marketo Sales Insight外掛程式管理員
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 當您邀請使用者在Outlook上設定MSI時，您可以指定要在傳送給使用者的電子郵件通知中顯示哪些連絡人。
 
-1. 在My Marketo中，按一下「**管理**」，然後按一下「銷售分析」。****
+1. 在My Marketo中，按一下&#x200B;**Admin**，然後按一下&#x200B;**Sales Insight**。
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
@@ -40,4 +40,3 @@ ht-degree: 0%
    ![](assets/image2016-8-25-11-3a33-3a33.png)
 
    完美！
-
