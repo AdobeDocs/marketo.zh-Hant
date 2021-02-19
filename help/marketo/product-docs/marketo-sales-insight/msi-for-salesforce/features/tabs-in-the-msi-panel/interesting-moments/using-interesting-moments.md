@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: 使用有趣的時刻——行銷人員檔案——產品檔案
 title: 使用有趣的瞬間
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->這些僅適用於Marketo Sales Insight和[ Marketo Sales Connect](https://docs.marketo.com/x/fgTLAQ)客戶。
+>這些僅適用於Marketo Sales Insight和[ Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)客戶。
 
-## 什麼是有趣的時刻？ {#what-is-an-interesting-moment}
+## 什麼是有趣的時刻？{#what-is-an-interesting-moment}
 
 這取決於你！ 您決定哪些資訊與您的銷售團隊相關。 您的銷售團隊可能想知道銷售線索的時機：
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 怎麼會更有趣？ {#how-can-this-get-even-more-interesting}
 
-代號！ 在說明欄位中新增銷售團隊，以提供您的銷售團隊更具體的資訊，例如潛在客戶開啟的電子郵件主旨行，或其寄送者。 查看在[有趣時刻的標籤](tokens-for-interesting-moments.md)辭彙表中可用的標籤。
+代號！ 在說明欄位中新增銷售團隊，以提供您的銷售團隊更具體的資訊，例如潛在客戶開啟的電子郵件主旨行，或其寄送者。 查看在[有趣時刻的標籤](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)辭彙表中可用的標籤。
 
 >[!TIP]
 >
@@ -59,13 +59,13 @@ ht-degree: 0%
 
 ## Marketo的有趣時刻是什麼？ {#what-does-an-interesting-moment-look-like-in-marketo}
 
-[lead的活動日誌](../../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)中將顯示有趣的時刻。
+[lead的活動日誌](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)中將顯示有趣的時刻。
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
 ## Salesforce中有趣的時刻是什麼？ {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-在[安裝Marketon Sales Insight App](../../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)後，銷售機會、連絡人、帳戶或業務機會頁面上會顯示有趣的時刻。 它們也會出現在銷售線索摘要、最佳押注和關注清單的Sales Insight儀表板中。
+在[安裝Marketon Sales Insight App](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)後，銷售機會、連絡人、帳戶或業務機會頁面上會顯示有趣的時刻。 它們也會出現在銷售線索摘要、最佳押注和關注清單的Sales Insight儀表板中。
 
 ![](assets/six.png)
 
