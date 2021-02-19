@@ -3,7 +3,7 @@ unique-page-id: 7511931
 description: 在Salesforce1 - Marketo Docs —— 產品檔案中傳送Marketo電子郵件和促銷活動與Watchlist動作
 title: 在Salesforce中傳送Marketon至電子郵件和促銷活動與監看清單動作1
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >哪些智慧型促銷活動出現？ 具有「請求促銷活動」觸發程式的。 瞭解如何使用「請求促銷活動](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)」來設定[觸發促銷活動。
+   >哪些智慧型促銷活動出現？ 具有「請求促銷活動」觸發程式的。 瞭解如何使用「請求促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)」來設定[觸發促銷活動。
 
 酷，現在您的銷售人員可以積極參與行銷工作。
 
@@ -39,4 +39,3 @@ ht-degree: 0%
 >
 >
 發揮創意。 銷售人員想要自動化哪些產品？ 問問他們，把它弄起來！
-
