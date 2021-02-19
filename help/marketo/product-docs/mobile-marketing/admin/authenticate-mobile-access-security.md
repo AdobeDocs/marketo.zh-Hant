@@ -3,7 +3,7 @@ unique-page-id: 10096158
 description: 驗證行動存取安全性——行銷人員檔案——產品檔案
 title: 驗證行動存取安全性
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >若要啟用此功能，請聯絡支援，並要求「Vespa安全模式」。
 
-1. 在Marketo中，選取**Admin **，然後按一下「行動應用程式與裝置」**。**
+1. 在Marketo中，選取&#x200B;**Admin**，然後按一下「行動應用程式與裝置」**。**
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -33,11 +33,10 @@ ht-degree: 0%
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. 勾選** 「啟用安全性**」核取方塊。 按一下&#x200B;**保存**。
+1. 選中&#x200B;**啟用安全**&#x200B;複選框。 按一下&#x200B;**保存**。
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 
 1. 「存取安全性」區域現在會顯示兩個新代碼。 請務必將這些內容傳送給您的IT部門。
 
    ![](assets/image2015-12-1-14-3a57-3a34.png)
-
