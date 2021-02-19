@@ -3,7 +3,7 @@ unique-page-id: 11377640
 description: 授權Marketo Outlook外掛程式- Marketo Docs —— 產品檔案
 title: 授權Marketo Outlook外掛程式
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -42,4 +42,3 @@ ht-degree: 0%
 1. 如果電子郵件地址未獲得授權，您會收到這封不太開心的電子郵件。 請連絡您的行銷人員管理員以解決問題。
 
    ![](assets/image2016-8-24-16-3a25-3a27.png)
-
