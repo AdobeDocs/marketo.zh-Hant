@@ -3,7 +3,7 @@ unique-page-id: 2949720
 description: 有趣的時刻概觀——行銷人員檔案——產品檔案
 title: 有趣的時刻總覽
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -33,10 +33,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用有趣的瞬間](using-interesting-moments.md)
->* [有趣時刻的Token](tokens-for-interesting-moments.md)
-
->
-
-
+>* [使用有趣的瞬間](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
+>* [有趣時刻的Token](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
 
