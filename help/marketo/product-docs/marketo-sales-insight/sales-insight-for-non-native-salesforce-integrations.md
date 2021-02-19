@@ -3,7 +3,7 @@ unique-page-id: 45417125
 description: 針對非原生Salesforce整合的Sales Insight —— 行銷檔案——產品檔案
 title: 針對非原生Salesforce整合的銷售分析
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '1269'
 ht-degree: 0%
@@ -22,9 +22,6 @@ ht-degree: 0%
 >* Marketo REST API [成功設定](https://developers.marketo.com/rest-api/)。 公開的CRUD API將是執行非原生同步的基礎。
 >* 請閱讀[此部落格文章](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)，以瞭解物件和關係。
 >* 設定Salesforce物件，以顯示18個字元不區分大小寫的全域唯一識別碼，而非15個字元區分大小寫的全域唯一識別碼。
-
->
-
 
 
 >[!NOTE]
@@ -62,7 +59,7 @@ ht-degree: 0%
 
 1. 將Salesforce帳戶同步至Marketo。
 
-   Salesforce帳戶需要升級Marketo Company。 *externalCompanyId*&#x200B;和&#x200B;*externalSalesPersonId*&#x200B;欄位是公司升級的授權欄位。
+   Salesforce帳戶需要升級Marketo Company。 _externalCompanyId_&#x200B;和&#x200B;_externalSalesPersonId_&#x200B;欄位是公司升級的授權欄位。
 
 <table> 
  <colgroup> 
@@ -94,7 +91,7 @@ ht-degree: 0%
 
 1. 將Salesforce銷售線索／聯絡人同步至Marketo。
 
-   您需要為Salesforce銷售線索／聯絡人插入Marketo Lead。 *externalPersonId*、*externalSalesPersonId*&#x200B;和&#x200B;*externalCompanyId*&#x200B;欄位是用於Lead的新增。
+   您需要為Salesforce銷售線索／聯絡人插入Marketo Lead。 _externalPersonId_、_externalSalesPersonId_&#x200B;和&#x200B;_externalCompanyId_&#x200B;欄位是用於Lead的新增。
 
 <table> 
  <colgroup> 
@@ -131,7 +128,7 @@ ht-degree: 0%
 
 1. 將Salesforce Opportunity與Marketo同步。
 
-   您需要為Salesforce Opportunity插入Marketo Opportunity。 *externalOpportunityId*、*externalCompanyId*&#x200B;和&#x200B;*externalSalesPersonId*&#x200B;欄位是Opportunity的增補功能。
+   您需要為Salesforce Opportunity插入Marketo Opportunity。 _externalOpportunityId_、_externalCompanyId_&#x200B;和&#x200B;_externalSalesPersonId_&#x200B;欄位是Opportunity的增補功能。
 
 <table> 
  <colgroup> 
@@ -168,7 +165,7 @@ Opportunity的API文檔：[`https://developers.marketo.com/rest-api/lead-databas
 
 1. 將Salesforce連絡人角色同步至Marketo。
 
-   然後，您可以透過Marketo Opportunity角色同步Salesforce Opportunity的Salesforce聯繫人角色。 Opportunity Role記錄要求&#x200B;*externalOpportunityId* 、 *role*&#x200B;和&#x200B;*leadId*&#x200B;欄位。
+   然後，您可以透過Marketo Opportunity角色同步Salesforce Opportunity的Salesforce聯繫人角色。 Opportunity Role記錄要求&#x200B;_externalOpportunityId_ 、 _role_&#x200B;和&#x200B;_leadId_&#x200B;欄位。
 
 <table> 
  <colgroup> 
@@ -207,7 +204,7 @@ Opportunity的API文檔：[`https://developers.marketo.com/rest-api/lead-databas
 
    在您的Salesforce物件正確同步至Marketo後，您就可以運用MSI功能。 MSI最後一個有趣的時刻／計分欄位將公開在REST API中，以取得銷售機會。 這些欄位是由MSI計算，且為唯讀。
 
-   Marketo Lead的「最後一個有趣的時刻／計分」欄位必須使用REST API Lead端點定期同步至Salesforce。 使用&#x200B;*externalPersonId*&#x200B;作為filterType，並將Salesforce Lead GUID傳入為filterValue，查詢此端點的Marketo Lead。
+   Marketo Lead的「最後一個有趣的時刻／計分」欄位必須使用REST API Lead端點定期同步至Salesforce。 使用&#x200B;_externalPersonId_&#x200B;作為filterType，並將Salesforce Lead GUID傳入為filterValue，查詢此端點的Marketo Lead。
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
@@ -264,7 +261,6 @@ Opportunity的API文檔：[`https://developers.marketo.com/rest-api/lead-databas
  </tbody> 
 </table>
 
-Lead REST API的檔案： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET)。
+Lead REST API的檔案：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET)。
 
 正確使用外部欄位是成功進行非原生同步的關鍵。 如果您在某些檢視中未看到資料，則可能會有特定欄位未正確同步。 例如，如果潛在客戶的活動和有趣的時刻在其帳戶下查看MSI介面工具集時未顯示，則潛在客戶的公司或帳戶可能未正確同步。 在指定外部欄位時執行此銷售線索的GET請求，將有助於您確認銷售線索是否正確同步。 此外，Marketing中外部銷售人員的電子郵件必須符合Salesforce中該使用者的電子郵件。 如果電子郵件不符，Salesforce的「行銷人員」索引標籤中可能不會顯示資料。
-
