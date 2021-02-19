@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: 設定分數欄位，以用於Sales Insight - Marketo Docs —— 產品檔案中的明星和火焰
 title: 設定Sales Insight中用於星光和火焰的分數欄位
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您尚未擁有自訂分數欄位，請參閱如何建立[](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)欄位。
+>如果您尚未擁有自訂分數欄位，請以下說明如何建立[](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)欄位。
 
 >[!NOTE]
 >
 >**定義**
 >
->* **星：**與其他銷售機會相比，星號代表總銷售機會分數。
+>* **星**:與其他銷售機會相比，星表代表總銷售機會分數。
 >* **火焰**:火焰代表了緊迫性——最近銷售線索的分數變化了多少。
 
 >
@@ -50,7 +50,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-   按一下「儲存」。
+1. 按一下&#x200B;**保存**。
+
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
    >[!NOTE]
@@ -59,7 +60,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[優先順序、緊急程度、相對分數和最佳賭注](priority-urgency-relative-score-and-best-bets.md)
-
+   >[優先順序、緊急程度、相對分數和最佳賭注](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
