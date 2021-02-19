@@ -3,7 +3,7 @@ unique-page-id: 4720314
 description: Sales Insight電子郵件績效報告——行銷檔案——產品檔案
 title: Sales Insight電子郵件績效報表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -64,4 +64,3 @@ ht-degree: 0%
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
    很酷吧？ 現在，您可以看到依銷售代表分組的電子郵件效能。
-
