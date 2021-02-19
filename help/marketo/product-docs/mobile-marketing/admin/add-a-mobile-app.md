@@ -3,7 +3,7 @@ unique-page-id: 7512252
 description: 新增行動應用程式——行銷人員檔案——產品檔案
 title: 新增行動應用程式
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 按一下**「行動應用程式與裝置」**。
+1. 按一下「**行動應用程式與裝置」**。
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-   按一下「新行動應用程式」。
+1. 按一下「新增行動應用程式」。****
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
@@ -46,10 +46,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [設定行動應用程式Android推播存取](configure-mobile-app-android-push-access.md)
->* [設定行動應用程式iOS推播存取](configure-mobile-app-ios-push-access.md)
-
->
-
-
+>* [設定行動應用程式Android推播存取](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+>* [設定行動應用程式iOS推播存取](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
 
