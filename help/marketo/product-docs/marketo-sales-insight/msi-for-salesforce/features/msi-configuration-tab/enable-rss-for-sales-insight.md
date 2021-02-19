@@ -3,7 +3,7 @@ unique-page-id: 11377005
 description: 啟用RSS for Sales Insight - Marketo Docs —— 產品文檔
 title: 啟用銷售分析的RSS
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/rss-settings-tab.png)
 
-   在「編輯設定」對話框中，選中&#x200B;**RSS feed**&#x200B;複選框，然後按一下&#x200B;**保存**。
+1. 在「編輯設定」對話框中，選中&#x200B;**RSS feed**&#x200B;複選框，然後按一下&#x200B;**保存**。
 
    ![](assets/rss-edit-settings-2-hands.png)
 
@@ -36,4 +36,3 @@ ht-degree: 0%
    ![](assets/rss-final-box.png)
 
    小菜一碟！
-
