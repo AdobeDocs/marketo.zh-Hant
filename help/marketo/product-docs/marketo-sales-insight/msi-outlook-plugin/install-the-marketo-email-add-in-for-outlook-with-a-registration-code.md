@@ -3,7 +3,7 @@ unique-page-id: 2949711
 description: 使用註冊碼——行銷人員檔案——產品檔案安裝Outlook的Marketo Email增益集
 title: 使用註冊碼安裝Outlook的Marketo Email增益集
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
@@ -19,15 +19,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 您必須[核發行銷人員電子郵件增益集授權](issue-a-marketo-email-add-in-license.md)。
-
->
-
-
+>您必須[核發行銷人員電子郵件增益集授權](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)。
 
 ## 下載安裝程式{#download-installer}
 
 1. 識別[Microsoft Outlook版本](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+
 1. 按一下連結，下載適合您Microsoft Outlook版本的安裝程式。
 
    >[!NOTE]
@@ -71,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. 填寫&#x200B;**名字**、**姓氏**、**電子郵件地址**，然後將電子郵件中的**註冊碼**複製並貼入表單，然後按一下&#x200B;**Next**。
+1. 填寫&#x200B;**名字**、**姓氏**、**電子郵件地址**，然後將電子郵件中的&#x200B;**註冊代碼**&#x200B;複製並貼入表單中，然後按一下&#x200B;**下一頁**。
 
    ![](assets/enter-your-information-hands.png)
 
@@ -79,7 +76,7 @@ ht-degree: 0%
    >
    >如果安裝失敗，請洽詢您的IT部門，以確保HTTPS流量未遭封鎖。 安裝程式需要開啟HTTPS流量。
 
-1. 按一下**「下一步」**以安裝在預設位置。
+1. 按一下&#x200B;**Next**&#x200B;以安裝在預設位置。
 
    ![](assets/select-installation-folder-hand.png)
 
@@ -105,10 +102,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用Marketor Email Add-in for Outlook傳送及追蹤電子郵件](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [使用Marketo範本從Outlook傳送及追蹤](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [使用Marketor Email Add-in for Outlook傳送及追蹤電子郵件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [使用Marketo範本從Outlook傳送及追蹤](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
