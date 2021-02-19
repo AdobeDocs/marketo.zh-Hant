@@ -3,7 +3,7 @@ unique-page-id: 2949279
 description: 升級您的行銷人員至電子郵件Outlook增益集——行銷人員檔案——產品檔案
 title: 升級您的行銷人員至Outlook電子郵件增益集
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -119,7 +119,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-   按一下「下一步」。
+1. 按一下&#x200B;**Next**。
+
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
    >[!NOTE]
@@ -138,7 +139,7 @@ ht-degree: 0%
    >
    >如果安裝失敗，請與您的IT部門合作，以確保HTTPS流量不會遭到封鎖。 安裝程式需要開啟HTTPS流量。
 
-   按一下「下一步」以安裝在預設位置。
+1. 按一下&#x200B;**Next**&#x200B;以安裝在預設位置。
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
@@ -156,10 +157,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用Marketor Email Add-in for Outlook傳送及追蹤電子郵件](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [使用Marketo範本從Outlook傳送及追蹤](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [使用Marketor Email Add-in for Outlook傳送及追蹤電子郵件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [使用Marketo範本從Outlook傳送及追蹤](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
