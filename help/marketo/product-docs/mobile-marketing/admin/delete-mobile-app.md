@@ -3,9 +3,9 @@ unique-page-id: 7512442
 description: 刪除行動應用程式——行銷人員檔案——產品檔案
 title: 刪除行動應用程式
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 刪除行動應用程式{#delete-mobile-app}
 
-1. 按一下「管理」。
+1. 按一下&#x200B;**管理**。
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 選取「行動應用程式」。
+1. 選擇&#x200B;**行動應用程式**。
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a22-3a11.png)
 
-1. 按一下「行動應用程式動作」，然後選取「刪除應用程式」。
+1. 按一下「行動應用程式動作」**並選取「刪除應用程式」**。****
 
    ![](assets/image2015-4-22-17-3a21-3a51.png)
 
-1. 按一下「刪除」進行確認。
+1. 按一下&#x200B;**Delete**&#x200B;進行確認。
 
    ![](assets/image2015-4-22-17-3a23-3a18.png)
 
