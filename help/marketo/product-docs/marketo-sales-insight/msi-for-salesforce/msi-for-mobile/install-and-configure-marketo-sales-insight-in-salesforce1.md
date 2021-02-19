@@ -3,9 +3,9 @@ unique-page-id: 7511512
 description: 在Salesforce1 - Marketo Docs —— 產品檔案中安裝及設定Marketo Sales Insight
 title: 在Salesforce中安裝及設定Marketo Sales Insight1
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -15,24 +15,22 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
->現有客戶，請[升級您的MSI套件](https://docs.marketo.com/x/_gU6Ag)，然後再繼續！
+>現有客戶，請[升級您的MSI套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)，然後再繼續！
 
 >[!PREREQUISITES]
 >
 >如果您有Salesforce Enterprise/Unlimited:
 >
->* [步驟1（共3步）:將行銷人員欄位新增至Salesforce（企業版／無限製版）](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [步驟2（共3步）:建立適用於行銷人員的Salesforce使用者（企業版／不限數量）](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
->* [步驟3（共3步）:將行銷人員連線至Salesforce（企業版／無限製版）](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
->* [在Salesforce Enterprise中設定Marketo Sales Insight/Unlimited](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [步驟1（共3步）:將行銷人員欄位新增至Salesforce（企業版／無限製版）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [步驟2（共3步）:建立適用於行銷人員的Salesforce使用者（企業版／不限數量）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [步驟3（共3步）:將行銷人員連線至Salesforce（企業版／無限製版）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>* [在Salesforce Enterprise中設定Marketo Sales Insight/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 >
 >
 如果您有Salesforce Professional:
 >
->* [在Salesforce Professional Edition中設定Marketo Sales Insight](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [在Salesforce Professional Edition中設定Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 
 >
 
@@ -42,7 +40,8 @@ ht-degree: 0%
 >
 >Salesforce1中的Marketo Sales Insight包括：最佳押注、潛在客戶宣傳、有趣時刻，以及新增至行銷活動。
 
-1. 啟用Salesforce1行動應用程式
+## 啟用Salesforce1行動應用程式{#enable-the-salesforce1-mobile-app}
+
 1. 按一下「**Setup**」，然後按一下「行動管理」。****
 
    ![](assets/image2015-4-21-15-3a29-3a22.png)
@@ -71,15 +70,16 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
-1. 選取**Marketo **和**將**新增至**已選取**功能表項目。
+1. 選擇&#x200B;**Marketo**&#x200B;和&#x200B;**將**&#x200B;添加到&#x200B;**Selected**&#x200B;菜單項。
 
    ![](assets/image2015-4-22-14-3a55-3a37.png)
 
-1. 選擇&#x200B;**Marketo**，將它移至所需區域**向上**，然後按一下「儲存&#x200B;**」。**
+1. 選擇&#x200B;**Marketo**，將&#x200B;**Up**&#x200B;移至所需區域，然後按一下「儲存&#x200B;**Save**」。
 
    ![](assets/image2015-4-22-17-3a20-3a56.png)
 
-1. 隱藏過期的行銷工具自訂物件
+## 隱藏過期的行銷工具自訂物件{#hide-outdated-marketo-custom-object}
+
 1. 按一下&#x200B;**Setup**。
 
    ![](assets/image2015-4-22-15-3a13-3a48.png)
@@ -92,28 +92,25 @@ ht-degree: 0%
 
    ![](assets/image2015-5-5-11-3a15-3a21.png)
 
-1. 按一下以**編輯**任何所需的描述檔。
+1. 按一下&#x200B;**edit**&#x200B;任何需要的配置檔案。
 
    ![](assets/image2015-5-5-13-3a51-3a36.png)
 
-1. 在&#x200B;**標籤設定**&#x200B;下，選取&#x200B;*first***Marketo**。
+1. 在&#x200B;**標籤設定**&#x200B;下，選取&#x200B;_first_**Marketo**。
 
-   ** ![](assets/image2015-5-5-13-3a55-3a36.png)
-
-   **
+   ![](assets/image2015-5-5-13-3a55-3a36.png)
 
 1. 選擇&#x200B;**標籤隱藏**。
 
-   ** ![](assets/image2015-5-5-14-3a2-3a29.png)
-
-   **
+   ![](assets/image2015-5-5-14-3a2-3a29.png)
 
    >[!NOTE]
    >
    >請確定隱藏所有所需描述檔的「行銷人員」索引標籤！
 
-1. 自訂標籤
-1. 按一下** +**。
+## 自訂標籤{#customize-tabs}
+
+1. 按一下&#x200B;**+**。
 
    ![](assets/image2015-4-22-17-3a14-3a49.png)
 
@@ -121,15 +118,16 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
-1. 選擇&#x200B;**Marketo**&#x200B;和**將它新增至「選取的標籤」。
+1. 選擇&#x200B;**Marketo**&#x200B;和&#x200B;**將**&#x200B;新增至「選取的標籤」。
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
-1. 選擇&#x200B;**Marketo**，將它移至所需區域**向上**，然後按一下「儲存&#x200B;**」。**
+1. 選擇&#x200B;**Marketo**，將&#x200B;**Up**&#x200B;移至所需區域，然後按一下「儲存&#x200B;**Save**」。
 
    ![](assets/image2015-4-22-18-3a29-3a47.png)
 
-1. 自訂頁面版面
+## 自訂頁面版面{#customize-page-layouts}
+
 1. 按一下&#x200B;**Setup**。
 
    ![](assets/image2015-4-22-17-3a26-3a56.png)
@@ -146,7 +144,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a44-3a0.png)
 
-1. 按一下「**Visualforce頁面&#x200B;**」，然後拖曳**「Lead Mobile **」至「行動卡」區段。
+1. 按一下「Visualforce Pages **」，然後拖曳「Lead Mobile**」至「Mobile Cards」區段。****
 
    ![](assets/image2015-4-22-17-3a49-3a37.png)
 
@@ -154,7 +152,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
-1. 按一下「**欄位**」，並將「**新增至Marketo促銷活動&#x200B;**」拖曳至「** Marketo Sales Insight **」區段。
+1. 按一下「**欄位**」，並將「新增至Marketo Campaign **」拖曳至「** Marketo Sales Insight **」區段。**
 
    ![](assets/configure-step-6.png)
 
@@ -170,11 +168,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Salesforce中的最佳選擇1](best-bets-in-salesforce1.md)
->* [Salesforce中的有趣時刻1](interesting-moments-in-salesforce1.md)
->* [在Salesforce中傳送Marketon至電子郵件和促銷活動與監看清單動作1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
-
->
-
-
+>* [Salesforce中的最佳選擇1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [Salesforce中的有趣時刻1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [在Salesforce中傳送Marketon至電子郵件和促銷活動與監看清單動作1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
 
