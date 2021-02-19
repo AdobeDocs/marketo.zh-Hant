@@ -3,9 +3,9 @@ unique-page-id: 7512445
 description: 驗證推播設定——行銷人員檔案——產品檔案
 title: 驗證推播設定
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -27,23 +27,20 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
-   選取所要的行動應用程式。
+1. 選取所要的行動應用程式。
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-   按一下「行動應用程式動作」，並選取「驗證推播設定」。
+1. 按一下「行動應用程式動作」**，並選取「驗證推播設定」**。****
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-   確認所要的平台已通過驗證，然後按一下「關閉」。
+1. 確認所要的平台已通過讀取驗證，然後按一下&#x200B;**關閉**。
 
-   ![](assets/image2015-4-22-18-3a52-3a38.png)   一切就緒！現在您可以開始傳送推播通知![(smile)](assets/smile.svg)
+   ![](assets/image2015-4-22-18-3a52-3a38.png)
+
+一切就緒！ 現在您可以開始傳送推播通知。
 
 >[!MORELIKETHIS]
 >
->* [建立推播通知](../../../product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
-
->
-
-
-
+>[建立推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
