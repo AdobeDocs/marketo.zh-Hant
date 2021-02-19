@@ -3,9 +3,9 @@ unique-page-id: 7512448
 description: 傳送SDK程式碼給開發人員——行銷人員檔案——產品檔案
 title: 傳送SDK程式碼給開發人員
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 你是這麼做的。
 
-1. 按一下「管理」。
+1. 按一下&#x200B;**管理**。
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 選取「行動應用程式」。
+1. 選擇&#x200B;**行動應用程式**。
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -42,9 +42,8 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. 輸入電子郵件地址，然後按一下&#x200B;**SEND**。
+1. 輸入電子郵件地址，然後按一下「傳送」。****
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 
    SDK程式碼現在會傳送給您的開發人員。
-
