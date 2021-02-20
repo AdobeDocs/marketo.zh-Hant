@@ -3,7 +3,7 @@ unique-page-id: 10096523
 description: 檢視推播通知儀表板——行銷人員檔案——產品檔案
 title: 檢視推播通知控制面板
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -33,14 +33,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Sent**&#x200B;量度反映的傳送次數可能比傳送推播通知給的確切人數多。 這是因為它是根據符合接收您推播的&#x200B;*裝置數*&#x200B;來計算。 例如，如果一個人有3個裝置，控制面板會註冊3個傳送，而非1個。
+   >_Sent_&#x200B;量度反映的傳送次數可能比傳送推播通知給的確切人數多。 這是因為它是根據符合接收您推播的&#x200B;*裝置數*&#x200B;來計算。 例如，如果一個人有3個裝置，控制面板會註冊3個傳送，而非1個。
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [瞭解推播通知](understanding-push-notifications.md)
-   >    * [傳送行動推播通知](send-a-mobile-push-notification.md)
-
+   >* [瞭解推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+   >* [傳送行動推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
 
