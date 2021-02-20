@@ -3,19 +3,15 @@ unique-page-id: 11385938
 description: 編輯電子郵件的預測性內容——行銷人員檔案——產品檔案
 title: 編輯電子郵件的預測性內容
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 
 # 編輯電子郵件的預測性內容{#edit-predictive-content-for-emails}
-
->[!NOTE]
->
->視購買日期而定，您的Marketo訂閱可能包含Marketo Predictive Content或Content`<sup>AI</sup>`。 對於使用預測性內容的使用者，Marketo會在2018年4月30日之前啟用「內容`<sup>AI</sup>`分析」功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo Content`<sup>AI</sup>`。
 
 以下說明如何設定電子郵件的預測性內容。
 
