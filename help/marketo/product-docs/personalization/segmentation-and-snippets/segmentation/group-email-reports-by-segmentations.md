@@ -3,9 +3,9 @@ unique-page-id: 2359488
 description: 依區段分類的群組電子郵件報表——行銷檔案——產品檔案
 title: 依區段分組電子郵件報表
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,11 @@ ht-degree: 0%
 
 # 依區段分組電子郵件報表{#group-email-reports-by-segmentations}
 
-分段不僅適用於動態內容。 您也可以將[電子郵件效能報表](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)依[區段](https://docs.marketo.com/display/docs/segmentation+and+snippets)分組。
+分段不僅適用於動態內容。 您也可以依區段將電子郵件績效報表分組。
 
 >[!PREREQUISITES]
 >
->* [核准區段](approve-a-segmentation.md)
-
->
-
-
+>[核准區段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
 1. 前往「行銷活動」區域（或&#x200B;**Analytics**）。****
 
@@ -35,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. 選擇一或兩個區段以用於分組報表。 按一下&#x200B;**APPLY**。
+1. 選擇一或兩個區段以用於分組報表。 按一下&#x200B;**Apply**。
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
@@ -43,15 +39,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
-1. 如果您使用兩個區段，則會針對每個&#x200B;*組合*&#x200B;區段顯示一列。
+1. 如果您使用兩個區段，則會針對每個&#x200B;_組合_&#x200B;區段顯示一列。
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
 >[!MORELIKETHIS]
 >
->* [篩選電子郵件報表中的資產](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
-
->
-
-
-
+>[篩選電子郵件報表中的資產](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
