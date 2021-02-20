@@ -3,7 +3,7 @@ unique-page-id: 2359514
 description: 仿製程式碼片段——行銷人員檔案——產品檔案
 title: 復製程式碼片段
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 復製程式碼片段，以建立可視需要修改的程式碼片段。
 
-1. 前往&#x200B;**Design Studio.**
+1. 前往&#x200B;**Design Studio**。
 
    ![](assets/image2014-9-16-10-3a32-3a36.png)
 
-1. 前往您的程式碼片段，然後在**程式碼片段動作**下，按一下&#x200B;**Clone**。
+1. 前往您的程式碼片段，然後在&#x200B;**程式碼片段動作**&#x200B;下，按一下&#x200B;**Clone**。
 
    ![](assets/image2014-9-16-10-3a32-3a44.png)
 
@@ -31,9 +31,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用動態內容編輯片段](edit-snippets-with-dynamic-content.md)
-
->
-
-
-
+>[使用動態內容編輯片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md)
