@@ -3,9 +3,9 @@ unique-page-id: 11385020
 description: 啟用電子郵件中的預測性內容——行銷人員檔案——產品檔案
 title: 在電子郵件中啟用預測性內容
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->啟用預測性內容之前。 您必須：
+>在啟用預測性內容之前，您必須：
 >
->* [準備預測性內容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
+>* **準備預測性內容**
+   >
+   >   
+   * [編輯電子郵件的預測性](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) 內容
+   >   * [編輯豐富式媒體的預測式](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) 內容
+   >   * [編輯建議列的預測性內容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [批准預測性內容的標題](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -37,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 按一下您要預測的影像。 當齒輪圖示出現時，按一下它並選取「啟用內容」(Enable Content `AI`**)(「內容」(Content)`AI`是「預測性內容」(Predictive Content)的先前名稱)。**
+1. 按一下您要預測的影像。 當齒輪圖示出現時，按一下它並選取「啟用ContentAI **」（ContentAI是「預測性內容」的前身名稱）。**
 
    ![](assets/three.png)
 
