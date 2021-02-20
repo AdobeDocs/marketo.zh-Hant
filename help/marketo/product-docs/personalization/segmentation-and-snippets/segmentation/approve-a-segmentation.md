@@ -3,9 +3,9 @@ unique-page-id: 2359457
 description: 核准區段——行銷人員檔案——產品檔案
 title: 核准區段
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立區段](create-a-segmentation.md)
->* [定義區段規則](define-segment-rules.md)
-
->
-
+>* [建立區段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [定義區段規則](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 
 1. 轉至&#x200B;**Database**。
@@ -55,13 +52,8 @@ ht-degree: 0%
 >
 >您可以在區段中建立的區段總數，取決於所使用的篩選器數目和類型，以及區段邏輯的複雜程度。 雖然您可以使用標準欄位建立最多100個區段，但使用其他類型的篩選器會增加複雜性，而且您的區段可能無法核准。 例如：自訂欄位、清單成員、潛在客戶擁有者欄位和收入階段。
 >
->如果您在核准期間收到錯誤訊息，並需要協助降低區段的複雜性，請聯絡[行銷人員支援](https://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe)。
+>如果您在核准期間收到錯誤訊息，並需要協助降低區段的複雜性，請聯絡[行銷人員支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 >[!MORELIKETHIS]
 >
->* [在智慧型清單中使用區段篩選](use-segment-filters-in-a-smart-list.md)
-
->
-
-
-
+>[在智慧型清單中使用區段篩選](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)
