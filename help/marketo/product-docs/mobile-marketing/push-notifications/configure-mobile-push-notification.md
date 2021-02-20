@@ -3,9 +3,9 @@ unique-page-id: 7512454
 description: 設定行動推播通知——行銷人員檔案——產品檔案
 title: 設定行動推播通知
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 設定行動推播通知{#configure-mobile-push-notification}
 
-1. 前往「行銷活動」區域。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a53-3a33.png)
 
-   如果您的推播訊息只套用至一個平台（例如iPhone的案例），則您可將其選取器滑入「停用」，以排除另一個平台。
+1. 如果您的推播訊息只套用至一個平台（例如iPhone的案例），則您可將其選取器滑入「停用」，以排除另一個平台。
 
    ![](assets/image2016-8-23-16-3a41-3a48.png)
 
-   按一下「下一步」。
+1. 按一下&#x200B;**Next**。
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
@@ -47,25 +47,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**定義**
-   >
-   >
-   >有三種類型**點選動作：**
-   >
+   >點選動作有三種類型：
    >
    >**啟動應用程式** -這 **會** 在點選通知時，對應用程式的首頁進行核准。**客** 戶會使用深層連結來開啟您應用程式或您擁有連結之任何其他應用程式的其他區域(如需詳細資訊，請 [參閱](#Deeplink) 深層連結URIsbelow)。
    >
-   >
    >**著陸頁面** -將您帶往指定的Marketo著陸頁面。
-   >
    >
    >**外部URL** -將您帶至非Marketo登陸頁面。
 
-   若要插入自訂點選動作的深層連結，請按一下「自訂」，然後在欄位中輸入[深層連結URI](#Deeplink)。
+1. 若要插入自訂點選動作的深層連結，請按一下「自訂」，然後在欄位中輸入[深層連結URI](#Deeplink)。
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
-   若要插入Token，請選取Token，輸入預設值，然後按一下「插入」。
+1. 若要插入Token，請選取Token，輸入預設值，然後按一下「插入」。
 
    >[!NOTE]
    >
@@ -77,15 +71,15 @@ ht-degree: 0%
    >
    >訊息和點選動作在兩個平台上看起來都相同。
 
-   僅適用於iOS，勾選核取方塊，讓應用程式在訊息送達時播放音效。 Android會自動播放音效。
+1. 僅適用於iOS，勾選核取方塊，讓應用程式在訊息送達時播放音效。 Android會自動播放音效。
 
    ![](assets/ios-tap-and-notification-hand.png)
 
-   預覽其他平台，然後按一下「完成」。
+1. 預覽其他平台，然後按一下「完成」**。**
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. 按一下&#x200B;**批准並關閉**。
+1. 按一下「核准並關閉」。****
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
@@ -103,9 +97,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [傳送行動推播通知](send-a-mobile-push-notification.md)
-
->
-
-
-
+>[傳送行動推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
