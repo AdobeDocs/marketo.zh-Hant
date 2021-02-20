@@ -3,19 +3,15 @@ unique-page-id: 11384663
 description: 取消核准預測性內容的標題——行銷檔案——產品檔案
 title: 取消核准預測性內容的標題
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 
 # 取消核准預測性內容的標題{#unapprove-a-title-for-predictive-content}
-
->[!NOTE]
->
->視購買日期而定，您的Marketo訂閱可能包含Marketo Predictive Content或Content`<sup>AI</sup>`。 對於使用預測性內容的使用者，Marketo會在2018年4月30日之前啟用「內容`<sup>AI</sup>`分析」功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo Content`<sup>AI</sup>`。
 
 您可以在「所有內容」頁面或「編輯內容」快顯視窗中，取消核准預測性內容的任何標題。
 
@@ -44,4 +40,3 @@ ht-degree: 0%
 無論您使用何種方法，「所有內容」頁面上的核准圖示都會消失，而標題會從「預測性內容」頁面消失。
 
 ![](assets/unapprove-content-no-icon.png)
-
