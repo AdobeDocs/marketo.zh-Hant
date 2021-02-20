@@ -3,19 +3,15 @@ unique-page-id: 11385942
 description: 編輯建議列的預測性內容——行銷檔案——產品檔案
 title: 編輯建議列的預測性內容
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
 
 # 編輯建議列{#edit-predictive-content-for-the-recommendation-bar}的預測性內容
-
->[!NOTE]
->
->視購買日期而定，您的Marketo訂閱可能包含Marketo Predictive Content或Content<sup>AI</sup>。 對於使用預測性內容的使用者，Marketo會在2018年4月30日之前啟用「內容」<sup>AI</sup>分析功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo Content<sup>AI</sup>。
 
 以下是如何設定建議列的預測性內容。
 
