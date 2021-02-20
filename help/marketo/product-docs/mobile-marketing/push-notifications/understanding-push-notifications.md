@@ -3,7 +3,7 @@ unique-page-id: 7511518
 description: 瞭解推播通知——行銷人員檔案——產品檔案
 title: 瞭解推播通知
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -25,15 +25,15 @@ Marketon行動參與可讓您建立、設定和傳送通知，就像建立電子
 
 ## 步驟1:管理員和開發人員執行初始設定{#step-admin-and-developer-perform-initial-setups}
 
-行銷人員管理與行動應用程式開發人員可合作設定您。 如需詳細資訊，請參閱[建立推播通知和應用程式內訊息之前。](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
+行銷人員管理與行動應用程式開發人員可合作設定您。 如需詳細資訊，請參閱[建立推播通知和應用程式內訊息之前。](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
 
 ## 步驟2:建立推播通知{#step-create-a-push-notification}
 
-[製作您](create-a-push-notification.md) 的訊息並預覽它在Android和iOS裝置上的顯示效果。
+[製作您](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) 的訊息並預覽它在Android和iOS裝置上的顯示效果。
 
 ## 步驟3:傳送！{#step-send}
 
-[推播通知可使用觸發](send-a-mobile-push-notification.md) 器和批次智慧型促銷活動來傳送。很酷吧？
+[推播通知可使用觸發](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) 器和批次智慧型促銷活動來傳送。很酷吧？
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
