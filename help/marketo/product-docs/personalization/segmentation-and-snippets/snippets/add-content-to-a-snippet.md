@@ -3,9 +3,9 @@ unique-page-id: 2359496
 description: 將內容新增至程式碼片段——行銷人員檔案——產品檔案
 title: 新增內容至程式碼片段
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[建立程式碼片段](create-a-snippet.md)
+>[建立程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 您可以新增Token、影像、檔案或豐富式文字至程式碼片段。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >您不能將任何[Marketo電子郵件語法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)嵌入程式碼片段；它&#x200B;**not**&#x200B;在電子郵件中運作。 程式碼片段應該只是內文內容(HTML + TEXT)。
 
-1. 前往&#x200B;**Design Studio.**
+1. 前往&#x200B;**Design Studio**。
 
    ![](assets/designstudio-2.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可以將自己的影像或檔案新增至Marketo。 進一步瞭解[影像和檔案](https://docs.marketo.com/display/docs/images+and+files)。
+   >您可以將自己的影像或檔案新增至Marketo。 進一步瞭解[影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)。
 
 1. 選擇要使用的&#x200B;**Image** ，然後按一下&#x200B;**Insert**。
 
@@ -87,6 +87,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [預覽程式碼片段](preview-a-snippet.md)
->* [核准程式碼片段](approve-a-snippet.md)
+>* [預覽程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
+>* [核准程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
 
