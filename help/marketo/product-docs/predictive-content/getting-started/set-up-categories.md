@@ -3,19 +3,15 @@ unique-page-id: 11385057
 description: 設定類別——行銷人員檔案——產品檔案
 title: 設定類別
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
 
 # 設定類別{#set-up-categories}
-
->[!NOTE]
->
->視購買日期而定，您的Marketo訂閱可能包含Marketo Predictive Content或Content`<sup>AI</sup>`。 對於使用預測性內容的使用者，Marketo會在2018年4月30日之前啟用「內容`<sup>AI</sup>`分析」功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo Content`<sup>AI</sup>`。
 
 在「預測性內容」中建立類別，將您在網路或電子郵件上的預測性結果分組。 例如，您只能使用部落格，或使用特定語言的內容。 它也可讓您搜尋及篩選頁面檢視。  類別會顯示在「所有內容」和「預測性內容」頁面上，以方便參考。
 
@@ -54,4 +50,3 @@ ht-degree: 0%
    ![](assets/save-new.png)
 
    很簡單。
-
