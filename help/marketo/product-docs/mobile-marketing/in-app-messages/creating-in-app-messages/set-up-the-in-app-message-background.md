@@ -3,9 +3,9 @@ unique-page-id: 10100649
 description: 設定應用程式內訊息背景——行銷檔案——產品檔案
 title: 設定應用程式內訊息背景
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -67,16 +67,11 @@ ht-degree: 0%
    >
    >若要點選背景動作，您可以為Apple和Android平台設定不同的動作。 例如，Apple和Android的深層連結處理方式不同。 如果您的訊息僅傳送至一個平台或另一個平台，請將另一個平台保留在預設設定中，或選取「無」****。
 
-   [設定「關閉」按鈕](set-up-the-dismiss-button-and-approve-the-message.md)
+   要完成該作業，您的最後一個步驟是[設定「關閉」按鈕](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md)。
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [瞭解應用程式內訊息](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >    * [傳送應用程式內訊息](https://docs.marketo.com/pages/viewpage.action?pageid=10617378)
-   >    * [為您的應用程式內訊息選擇版面](choose-a-layout-for-your-in-app-message.md)
+   >* [瞭解應用程式內訊息](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+   >* [傳送應用程式內訊息](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
+   >* [為您的應用程式內訊息選擇版面](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
-
-要完成這項工作，您的最後一步是。
