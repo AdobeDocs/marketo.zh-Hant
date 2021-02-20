@@ -3,9 +3,9 @@ unique-page-id: 2359500
 description: 細分順序優先順序——行銷人員檔案——產品檔案
 title: 分段順序優先順序
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立區段](create-a-segmentation.md)
->* [定義區段規則](define-segment-rules.md)
-
->
-
-
+>[建立區段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[定義區段規則](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 1. 轉至&#x200B;**Database**。
 
@@ -37,6 +33,7 @@ ht-degree: 0%
    >您只能編輯區段的草稿。
 
    您可以從此螢幕檢查或編輯區段的順序。
+
    ![](assets/image2014-9-16-10-3a12-3a3.png)
 
 >[!NOTE]
@@ -45,9 +42,5 @@ ht-degree: 0%
 >* 當某人符合兩個區段的資格時，他們將只屬於清單中的第一個區段。
 >* 如果某人不符合任何區段的資格，他們將成為預設區段的成員。
 
->
 
-
-
-酷啊？ 您可將區段用於動態內容、[reporting](https://docs.marketo.com/display/docs/basic+reporting)，甚至在[智慧型清單](https://docs.marketo.com/display/docs/smart+lists+and+static+lists)中。
-
+酷啊？ 您可以將區段用於動態內容、報告，甚至智慧型清單中。
