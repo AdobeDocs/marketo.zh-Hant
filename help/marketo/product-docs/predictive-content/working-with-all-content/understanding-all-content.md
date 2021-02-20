@@ -3,9 +3,9 @@ unique-page-id: 11384645
 description: 瞭解所有內容——行銷人員檔案——產品檔案
 title: 瞭解所有內容
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 # 瞭解所有內容{#understanding-all-content}
 
->[!NOTE]
->
->視購買日期而定，您的Marketo訂閱可能包含Marketo Predictive Content或Content`<sup>AI</sup>`。 對於使用預測性內容的使用者，Marketo會在2018年4月30日之前啟用「內容`<sup>AI</sup>`分析」功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo Content`<sup>AI</sup>`。
+「所有內容」頁面會顯示已手動搜尋或新增的所有內容。
 
-「所有內容」頁面會顯示已手動搜尋或新增的所有內容。   ![](assets/image2017-10-3-9-3a4-3a56.png)
+![](assets/image2017-10-3-9-3a4-3a56.png)
 
 頁面欄位包括：
 
@@ -52,12 +50,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [新增內容](add-new-content.md)
->* [刪除內容](delete-content.md)
->* [批准預測性內容的標題](approve-a-title-for-predictive-content.md)
->* [取消核准預測性內容的標題](unapprove-a-title-for-predictive-content.md)
-
->
-
-
+>* [新增內容](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
+>* [刪除內容](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
+>* [批准預測性內容的標題](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* [取消核准預測性內容的標題](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
 
