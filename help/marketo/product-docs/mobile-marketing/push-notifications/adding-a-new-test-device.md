@@ -3,7 +3,7 @@ unique-page-id: 8783146
 description: 新增測試裝置——行銷人員檔案——產品檔案
 title: 新增測試裝置
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -19,7 +19,8 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
-1. 按一下「**管理**」，然後按一下「**行動應用程式**」連結。\
+1. 按一下「**管理員**」，然後按一下「行動應用程式&#x200B;**」連結。**
+
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
 1. 按一下&#x200B;**測試設備**&#x200B;頁籤和&#x200B;**新測試設備**。
@@ -51,4 +52,3 @@ ht-degree: 0%
 1. 狀態更新顯示設備已添加。 恭喜！
 
    ![](assets/image2015-7-17-17-3a14-3a32.png)
-
