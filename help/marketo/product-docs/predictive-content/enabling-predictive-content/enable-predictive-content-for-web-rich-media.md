@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: 為網頁豐富式媒體啟用預測式內容——行銷檔案——產品檔案
 title: 為網頁豐富式媒體啟用預測式內容
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,14 @@ ht-degree: 0%
 >
 >在啟用預測性內容之前，您必須：
 >
->* [準備預測性內容](https://docs.marketo.com/display/docs/edit+predictive+content)
->* [批准預測性內容的標題](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
-
+>* **準備預測性內容**
+   >
+   >   
+   * [編輯電子郵件的預測性](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) 內容
+   >   * [編輯豐富式媒體的預測式](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) 內容
+   >   * [編輯建議列的預測性內容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
-
+>* [批准預測性內容的標題](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
 在您為Rich Media準備內容標題、說明和影像後，就可以啟用個別或多個內容片段。
@@ -58,9 +61,3 @@ ht-degree: 0%
 以下是Rich Media建議範本2的範例：
 
 ![](assets/image2015-12-20-10-3a35-3a12.png)
-
->[!MORELIKETHIS]
->
->* [啟用內容建議列](enable-the-content-recommendation-bar.md)
->* [在電子郵件中啟用預測性內容](https://docs.marketo.com/x/vLit)
-
