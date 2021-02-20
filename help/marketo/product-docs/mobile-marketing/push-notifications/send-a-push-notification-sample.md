@@ -3,7 +3,7 @@ unique-page-id: 8783141
 description: 傳送推播通知範例——行銷人員檔案——產品檔案
 title: 傳送推播通知範例
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
@@ -25,7 +25,8 @@ ht-degree: 0%
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   或者，從「推播通知」動作功能表，按一下「傳送範例」。****\
+   或者，從「推播通知」動作功能表，按一下「傳送範例」。****
+
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
    或者，在推播通知編輯器中，按一下「傳送範例」。****
@@ -36,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   或者，按一下「新增裝置&#x200B;**至[」新增測試裝置](adding-a-new-test-device.md)，將範例傳送至。**
+   或者，按一下「新增裝置&#x200B;**至[」新增測試裝置](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md)，將範例傳送至。**
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
@@ -46,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
-   或者，使用第二個選項，按一下「使用裝置掃描QR Code」(**Scan QR Code with device)，然後使用裝置掃描QR Code。 當狀態顯示連接時，按一下&#x200B;**Send**。
+   或者，使用第二個選項，按一下「使用裝置掃描QR Code」按鈕，然後使用裝置掃描QR Code。 ****&#x200B;當狀態顯示連接時，按一下&#x200B;**Send**。
 
    ![](assets/image2015-7-29-8-3a31-3a20.png)
 
@@ -54,19 +55,9 @@ ht-degree: 0%
    >
    >您是否已成功新增測試裝置，但未在&#x200B;**傳送至**&#x200B;欄位中看到它列出？ 請檢查這些以疑難排解：
    >
-   >    
-   >    
-   >    * 已針對與推播通知關聯的應用程式開啟推播通知。
-      >    
-      >    
+   >* 已針對與推播通知關聯的應用程式開啟推播通知。
       >
-      >    
-      >    
-      >    
-
-
-
-
+      >
    * 推播通知是為測試裝置的平台設定。 例如，如果您剛新增iPhone做為測試裝置，請確定iOS已啟用推播通知。
 
 
