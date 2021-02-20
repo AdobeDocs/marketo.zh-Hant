@@ -3,7 +3,7 @@ unique-page-id: 2359516
 description: 取消核准程式碼片段——行銷人員檔案——產品檔案
 title: 取消核准程式碼片段
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 未核准的程式碼片段無法用於電子郵件或登陸頁面。
 
-1. 前往&#x200B;**Design Studio.**
+1. 前往&#x200B;**Design Studio**。
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
@@ -30,4 +30,3 @@ ht-degree: 0%
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
 就這樣！ 您的程式碼片段現在處於草稿狀態，可供您進行變更或刪除。
-
