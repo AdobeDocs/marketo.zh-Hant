@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: 啟用內容建議列——行銷檔案——產品檔案
 title: 啟用內容建議列
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,13 @@ ht-degree: 0%
 >
 >在啟用預測性內容之前，您必須：
 >
->* [準備預測性內容](https://docs.marketo.com/display/docs/edit+predictive+content)
+>* **準備預測性內容**
+   >
+   >   
+   * [編輯電子郵件的預測性](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) 內容
+   >   * [編輯豐富式媒體的預測式](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) 內容
+   >   * [編輯建議列的預測性內容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [批准預測性內容的標題](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -45,9 +51,9 @@ ht-degree: 0%
    >
    >**包含／排除顯示URL**
    >
-   >    * 顯示URL應為網域的路徑
-   >    * 不包含https://或https://
-   >    * 使用*表示萬用字元
+   >* 顯示URL應為網域的路徑
+   >* 不包含https://或https://
+   >* 使用*表示萬用字元
    * 使用分號作為分隔符
    * 範例：/contact_us*;*action=logout*
    * 此欄位區分大小寫
@@ -61,5 +67,4 @@ ht-degree: 0%
 * 您為建議啟用的內容片段應包含RTP Javascript標籤。 這有助於演算法追蹤並最佳化建議的內容。
 
 >[!MORELIKETHIS]
-* [為網頁豐富式媒體啟用預測式內容](enable-predictive-content-for-web-rich-media.md)
-
+[為網頁豐富式媒體啟用預測式內容](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
