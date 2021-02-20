@@ -3,9 +3,9 @@ unique-page-id: 14745750
 description: 演算法目標設定——行銷檔案——產品檔案
 title: 演算法目標設定
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ ht-degree: 0%
 
    ![](assets/three-new.png)
 
-   | **`Clicks`** | 顯示最可能讓檢視內容的人按下內容的內容 |
+   | **點按次數** | 顯示最可能讓檢視內容的人按下內容的內容 |
    |---|---|
-   | **`Conversions`** | 顯示最有可能讓檢視內容的人提交表單的內容 |
+   | **轉換** | 顯示最有可能讓檢視內容的人提交表單的內容 |
 
 1. 完成時，按一下「保存」。****
 
    ![](assets/four.png)
-
