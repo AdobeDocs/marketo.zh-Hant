@@ -3,9 +3,9 @@ unique-page-id: 2359510
 description: 刪除區段——行銷人員檔案——產品檔案
 title: 刪除區段
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >您可以刪除或使用區段的資產或建立替代項目，以移除關聯。
 
-   未核准後，按一下「區段動作」並刪除區段。
+1. 未核准後，按一下「區段動作&#x200B;**」並刪除區段。**
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 
