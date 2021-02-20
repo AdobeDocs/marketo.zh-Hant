@@ -3,19 +3,15 @@ unique-page-id: 11384659
 description: 刪除內容——行銷人員檔案——產品檔案
 title: 刪除內容
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
 
 # 刪除內容{#delete-content}
-
->[!NOTE]
->
->視購買日期而定，您的Marketo訂閱可能包含Marketo Predictive Content或Content`<sup>AI</sup>`。 對於使用預測性內容的使用者，Marketo會在2018年4月30日之前啟用「內容`<sup>AI</sup>`分析」功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo Content`<sup>AI</sup>`。
 
 當您不再需要任何內容時，就可輕鬆將它移除。
 
@@ -28,4 +24,3 @@ ht-degree: 0%
    ![](assets/image2017-10-3-9-3a9-3a12.png)
 
    就這樣。
-
