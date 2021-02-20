@@ -3,7 +3,7 @@ unique-page-id: 10100642
 description: 建立應用程式內訊息文字——行銷檔案——產品檔案
 title: 建立應用程式內訊息文字
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >文字大小過大，可能會將內容推至最多三行可見文字。
 
-1. 選擇可選的文字樣式，以加強：**粗體**、*斜體*&#x200B;或底線。
+1. 選擇可選的文字樣式，以加強：**粗體**、_斜體_&#x200B;或底線。
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -77,14 +77,10 @@ ht-degree: 0%
 
    您對已核准之應用程式內訊息程式中使用的代號所做的任何變更，在程式暫停然後繼續之前，不會在應用程式內訊息中生效。
 
-你是金子。 接下來，您需要[設定您的應用程式內訊息按鈕](set-up-the-in-app-message-button.md)。
+你是金子。 接下來，您需要[設定您的應用程式內訊息按鈕](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)。
 
 >[!MORELIKETHIS]
 >
->* [瞭解應用程式內訊息](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [為您的應用程式內訊息選擇版面](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [瞭解應用程式內訊息](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [為您的應用程式內訊息選擇版面](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
