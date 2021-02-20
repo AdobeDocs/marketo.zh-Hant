@@ -3,9 +3,9 @@ unique-page-id: 2359474
 description: 編輯區段——行銷檔案——產品檔案
 title: 編輯區段
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. **狀態**變更為「已核准並含草稿」。 在您的區段中會建立**草稿*資料夾。
+1. **狀態**&#x200B;變更為「已核准並草稿」。 在您的區段中會建立&#x200B;**Draft**&#x200B;資料夾。
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >您只能編輯草稿的區段，而不能編輯已核准的區段。
 
-1. **新增區段**、**編輯**現有（重新命名或變更順序）或**刪除**任何區段。
+1. **新增區段**、 **** 編輯現有區段（重新命名或變更順序）或 **** 刪除任何區段。
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## 編輯區段規則{#edit-segment-rules}
 
-1. 在您的草稿&#x200B;**區段**&#x200B;中，前往&#x200B;**智慧清單**。 套用類似於[定義區段規則](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules)的規則。
+1. 在您的草稿&#x200B;**區段**&#x200B;中，前往&#x200B;**智慧清單**。 套用類似於[定義區段規則](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)的規則。
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
@@ -63,18 +63,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >請記得核准您的分段草稿。
 
 您可以自由嘗試動態內容中未使用的分段。
 
 >[!MORELIKETHIS]
 >
->* [刪除區段](delete-a-segmentation.md)
-
->
-
-
-
+>[刪除區段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
