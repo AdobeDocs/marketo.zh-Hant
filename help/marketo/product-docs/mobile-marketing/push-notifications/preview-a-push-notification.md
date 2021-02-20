@@ -3,7 +3,7 @@ unique-page-id: 10092730
 description: 預覽推播通知——行銷人員檔案——產品檔案
 title: 預覽推播通知
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-或者，在「推播通知」檢視頁面上，按一下「推播通知動作」，然後按一下「預覽」。 ********&#x200B;或者，按一下最右側的**預覽&#x200B;**。** **
+或者，在「推播通知」檢視頁面上，按一下「推播通知動作」，然後按一下「預覽」。 ********&#x200B;或者，按一下最右側的&#x200B;**預覽**。
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
@@ -67,10 +67,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [建立推播通知](create-a-push-notification.md)
->* [設定行動推播通知](configure-mobile-push-notification.md)
-
->
-
-
+>* [建立推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [設定行動推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 
