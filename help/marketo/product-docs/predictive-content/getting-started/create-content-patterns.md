@@ -3,9 +3,9 @@ unique-page-id: 11385579
 description: 建立內容模式——行銷檔案——產品檔案
 title: 建立內容模式
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,7 @@ ht-degree: 0%
 
 # 建立內容模式{#create-content-patterns}
 
->[!NOTE]
->
->視購買日期而定，您的Marketo訂閱可能包含Marketo Predictive Content或Content`<sup>AI</sup>`。 對於使用預測性內容的使用者，Marketo會在2018年4月30日之前啟用「內容`<sup>AI</sup>`分析」功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo Content`<sup>AI</sup>`。
-
-當您設定內容模式時，當網頁訪客點按與內容模式相關的HTML網頁時，就會自動發現內容。 它可用來將HTML頁面（部落格文章、新聞稿、新聞文章）新增至「所有內容」頁面。 當自動發現是以內容模式為基礎時，它會在網頁訪客檢視或點按頁面連結時，發現並追蹤與已定義URL模式相關的HTML頁面。 此內容片段（URL、頁面名稱和中繼資料，包括影像URL和說明）會新增至「所有內容」頁面，以準備預測性內容。 若要自動發現其他內容，例如PDF和內嵌視訊，您必須[啟用內容發現](enable-content-discovery.md)。
+當您設定內容模式時，當網頁訪客點按與內容模式相關的HTML網頁時，就會自動發現內容。 它可用來將HTML頁面（部落格文章、新聞稿、新聞文章）新增至「所有內容」頁面。 當自動發現是以內容模式為基礎時，它會在網頁訪客檢視或點按頁面連結時，發現並追蹤與已定義URL模式相關的HTML頁面。 此內容片段（URL、頁面名稱和中繼資料，包括影像URL和說明）會新增至「所有內容」頁面，以準備預測性內容。 若要自動發現其他內容，例如PDF和內嵌視訊，您必須[啟用內容發現](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)。
 
 1. 前往&#x200B;**內容設定**。
 
@@ -27,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/click-url-patterns-hand.png)
 
-1. 按一下**+ **以開啟您可輸入資訊的列。
+1. 按一下&#x200B;**+**&#x200B;以開啟您可輸入資訊的列。
 
    ![](assets/content-settings-create-patterns-hand.png)
 
@@ -37,9 +33,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >右側下拉式清單中的項目會反映您在[建立類別](set-up-categories.md)時所設定的類別。
+   >右側下拉式清單中的項目會反映您在[建立類別](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)時所設定的類別。
 
-1. 按一下**+ **以新增其他路徑。
+1. 按一下&#x200B;**+**&#x200B;添加其他路徑。
 
    ![](assets/url-patterns-add2.png)
 
@@ -49,16 +45,16 @@ ht-degree: 0%
 
 ## 內容模式規則{#content-pattern-rules}
 
-* 可以在表達式中的任意位置使用通配符(示例：*domain.com/**、*domain.com/*blog**
+* 可以在表達式中的任意位置使用通配符(示例：_domain.com/*_、_domain.com/*blog*_
 
-* 建議在運算式結尾使用/*以繼續模式搜尋(範例：*domain.com/blog/**&#x200B;會發現Blog資料夾中的所有貼文)
-* 內容模式不區分大小寫(範例：*domain.com/Blog/**&#x200B;會發現&#x200B;*domain.com/Blog*&#x200B;和&#x200B;*domain.com/blog*&#x200B;上的所有html頁面
+* 建議在運算式結尾使用/*以繼續模式搜尋(範例：_domain.com/blog/*_&#x200B;會發現Blog資料夾中的所有貼文)
+* 內容模式不區分大小寫(範例：_domain.com/Blog/*_&#x200B;會發現&#x200B;_domain.com/Blog_&#x200B;和&#x200B;_domain.com/blog_&#x200B;上的所有html頁面
 
 * 未發現URL參數（這可避免發現具有相同內容URL但參數不同的多個項目）
 
 ## 範例{#examples}
 
-對於&#x200B;*domain.com*:
+對於&#x200B;_domain.com_:
 
 <table> 
  <tbody> 
@@ -88,4 +84,3 @@ ht-degree: 0%
   </tr> 
  </tbody> 
 </table>
-
