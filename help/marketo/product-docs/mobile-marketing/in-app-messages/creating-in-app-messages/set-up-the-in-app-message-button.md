@@ -3,9 +3,9 @@ unique-page-id: 10100644
 description: 設定應用程式內訊息按鈕——行銷人員檔案——產品檔案
 title: 設定應用程式內訊息按鈕
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. 選擇字型樣式以加強：**粗體**、*斜體*&#x200B;或底線。
+1. 選擇字型樣式以加強：**粗體**、_斜體_&#x200B;或底線。
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
@@ -63,27 +63,18 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-16-3a47-3a54.png)
 
-   按一下每個平台的下拉式清單，然後選取點選動作。
+1. 按一下每個平台的下拉式清單，然後選取點選動作。
 
    ![](assets/image2016-5-6-16-3a49-3a40.png)
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >按鈕總是有點選動作，因此會自動選取「點選動作」核取方塊，並顯示預設訊息「關閉訊息」。
 
-   [設定應用程式內訊息的背景並關閉按鈕](set-up-the-in-app-message-background.md)
-
-快到了。 最後一步是。
+快到了。 您的最後一個步驟是[設定應用程式內訊息的背景，並關閉按鈕](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md)。
 
 >[!MORELIKETHIS]
 >
->* [瞭解應用程式內訊息](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [為您的應用程式內訊息選擇版面](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [瞭解應用程式內訊息](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [為您的應用程式內訊息選擇版面](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
