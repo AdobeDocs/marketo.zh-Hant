@@ -3,7 +3,7 @@ unique-page-id: 11379045
 description: 新增SMS —— 行銷檔案——產品檔案的流程步驟
 title: 新增簡訊的流程步驟
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -26,11 +26,8 @@ Marketo有三個流程步驟，您可在SMS智慧型促銷活動中使用：
 >* Marketo透過電話號碼去重複資料。 因此，如果多人擁有相同的電話號碼，則只有一人會收到訊息。
 >* Marketo不會傳送給被封鎖或暫停行銷的人員。
 
->
 
-
-
-如需有關設定流程步驟的一般資訊，請參閱[新增流程步驟至智慧型促銷活動](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)。
+如需有關設定流程步驟的一般資訊，請參閱[新增流程步驟至智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)。
 
 以下是使用SMS的基本功能。
 
@@ -50,6 +47,4 @@ Marketo有三個流程步驟，您可在SMS智慧型促銷活動中使用：
    >
    >「訪客清單」選擇器會對智慧型清單中已識別的對象做進一步的篩選，以僅定位屬於該「訪客」清單的訪客。
    >
-   >
    >**訂閱瀏覽清單**&#x200B;和&#x200B;**取消訂閱瀏覽清單**&#x200B;流有不同的要求。 對於&#x200B;**訂閱**，您必須選擇「訪客」清單和「訪客」贏取促銷活動。 對於&#x200B;**取消訂閱**，只需要Vibes清單。
-
