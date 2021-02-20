@@ -3,7 +3,7 @@ unique-page-id: 7512451
 description: 建立推播通知——行銷人員檔案——產品檔案
 title: 建立推播通知
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 建立推播通知{#create-a-push-notification}
 
-建立推播通知很簡單。 不過，在您開始之前，您必須先讓Marketon管理和行動應用程式開發人員設定您在執行時需要的部分項目。 如需詳細資訊，請參閱[瞭解推播通知](understanding-push-notifications.md)。
+建立推播通知很簡單。 不過，在您開始之前，您必須先讓Marketon管理和行動應用程式開發人員設定您在執行時需要的部分項目。 如需詳細資訊，請參閱[瞭解推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)。
 
 1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
@@ -35,5 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   真貼心！ 現在已建立推播通知，讓我們繼續[將它修飾為](configure-mobile-push-notification.md)。
-
+   真貼心！ 現在已建立推播通知，讓我們繼續[將它修飾為](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)。
