@@ -3,7 +3,7 @@ unique-page-id: 11378869
 description: 建立瀏覽式SMS訊息——行銷檔案——產品檔案
 title: 建立瀏覽式SMS訊息
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 以下是如何建立Vibes SMS訊息的方式。
 
-1. 前往「行銷活動」，按一下滑鼠右鍵即可啟動方案。
+1. 前往&#x200B;**行銷活動**&#x200B;並在程式上按一下滑鼠右鍵。
 
    ![](assets/mobile-right-click-hand.jpg)
 
