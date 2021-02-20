@@ -3,7 +3,7 @@ unique-page-id: 11370503
 description: 排程您的應用程式內訊息——行銷人員檔案——產品檔案
 title: 排程您的應用程式內訊息
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -31,4 +31,4 @@ ht-degree: 0%
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-放輕鬆！ 最後但同樣重要的是[Approval](approve-your-in-app-message.md)步驟。
+放輕鬆！ 最後但同樣重要的是[Approval](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md)步驟。
