@@ -3,19 +3,15 @@ unique-page-id: 11384665
 description: 瞭解預測性內容——行銷人員檔案——產品檔案
 title: 瞭解預測性內容
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
 
 # 瞭解預測性內容{#understanding-predictive-content}
-
->[!NOTE]
->
->視購買日期而定，您的Marketo訂閱可能包含Marketo Predictive Content或Content`<sup>AI</sup>`。 對於使用預測性內容的使用者，Marketo會在2018年4月30日之前啟用「內容`<sup>AI</sup>`分析」功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo Content`<sup>AI</sup>`。
 
 在[核准預測性內容的標題](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)後，您就可在此處處理它。 「預測性內容」頁面會顯示您已針對預測性內容核准的所有標題。
 
@@ -58,7 +54,7 @@ ht-degree: 0%
 
 ## 檢視預測性內容的表格資料{#view-table-data-for-predictive-content}
 
-在表格中，您可以從左至右檢視哪些來源已啟用預測性內容：建議列、電子郵件和多媒體。 啟用的來源以綠色顯示。 當您[編輯內容](https://docs.marketo.com/display/docs/edit+predictive+content)時，可啟用這些功能。
+在表格中，您可以從左至右檢視哪些來源已啟用預測性內容：建議列、電子郵件和多媒體。 啟用的來源以綠色顯示。 您可在編輯內容時啟用這些功能。
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -75,9 +71,3 @@ ht-degree: 0%
 >**直接轉換**:在同次瀏覽中點選建議內容並完成表單的訪客
 >
 >**已點按**:建議內容的點按總次數（包括所有三個來源）
-
->[!MORELIKETHIS]
->
->* [預測性內容](https://docs.marketo.com/display/docs/predictive+content)
->* [編輯預測性內容](https://docs.marketo.com/display/docs/edit+predictive+content)
-
