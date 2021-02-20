@@ -3,9 +3,9 @@ unique-page-id: 12981204
 description: 預測式內容分析概觀——行銷檔案——產品檔案
 title: 預測性內容分析概述
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 概述{#overview}
 
-在「摘要」頁面上，按一下「分析」。
+在「摘要」頁面上，按一下「**Analytics**」。
 
 ![](assets/one.png)
 
@@ -81,8 +81,6 @@ Analytics包含數個區段：依檢視次數排名最前的內容、依轉換�
 
 >[!NOTE]
 >
->**說明**
->
 >看到底部的表徵圖了嗎？ 從左到右分別是：檢視內容、匯出至CSV、核准內容。
 
 ## 內容{#content}
@@ -96,4 +94,3 @@ Analytics包含數個區段：依檢視次數排名最前的內容、依轉換�
 >[!NOTE]
 >
 >類似內容是以所選取的內容片段為基礎，並由關聯規則演算法計算。 結果代表訪客最有可能點按的內容片段，視所選片段和過去訪客的行為而定。 它不會考慮篩選或日期範圍。
-
