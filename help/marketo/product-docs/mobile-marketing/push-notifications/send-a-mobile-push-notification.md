@@ -3,7 +3,7 @@ unique-page-id: 7512457
 description: 傳送行動推播通知——行銷人員檔案——產品檔案
 title: 傳送行動推播通知
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立新的智慧型促銷活動](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
->* [建立推播通知](create-a-push-notification.md)
-
->
-
+>* [建立新的智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [建立推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
 
 1. 前往&#x200B;**行銷活動**&#x200B;區域。
@@ -32,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
-1. 定義智慧清單，然後按一下&#x200B;**FLOW。**
+1. 定義您的智慧型清單，然後按一下&#x200B;**Flow**。
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. 選取推播通知。 按一下&#x200B;**Schedule**
+1. 選取推播通知。 按一下&#x200B;**Schedule**。
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -44,11 +41,11 @@ ht-degree: 0%
    >
    >推播通知必須先經過核准，才會顯示在下拉式清單中。
 
-1. 按一下「運行一次」 ****
+1. 按一下「運行一次」。****
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. 選擇日期和時間。 按一下&#x200B;**SAVE.**
+1. 選擇日期和時間。 按一下&#x200B;**保存**。
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 
