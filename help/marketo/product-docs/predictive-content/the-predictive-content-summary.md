@@ -3,19 +3,15 @@ unique-page-id: 11384634
 description: 預測性內容摘要——行銷檔案——產品檔案
 title: 預測性內容摘要
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 
 # 預測性內容摘要{#the-predictive-content-summary}
-
->[!NOTE]
->
->視購買日期而定，您的Marketo訂閱可能包含Marketo Predictive Content或Content`<sup>AI</sup>`。 對於使用預測性內容的使用者，Marketo會在2018年4月30日之前啟用「內容`<sup>AI</sup>`分析」功能。 若要將這些功能保留在該日期之後，請連絡您的Marketo Customer Success Manager以升級至Marketo Content`<sup>AI</sup>`。
 
 「預測性內容摘要」會一覽顯示有關預測性內容的所需資訊，包括表格、圖形和目前數字。
 
@@ -52,13 +48,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >如果您按一下類別連結(上圖中的範例：leadgen、電子郵件等)。 它會開啟「所有內容」頁面，其中您點按的類別已新增至篩選，顯示該類別的內容分析。
-
->[!MORELIKETHIS]
->
->* [使用所有內容](https://docs.marketo.com/display/docs/working+with+all+content)
->* [使用預測性內容](https://docs.marketo.com/display/docs/working+with+predictive+content)
-
->
-
-
-
