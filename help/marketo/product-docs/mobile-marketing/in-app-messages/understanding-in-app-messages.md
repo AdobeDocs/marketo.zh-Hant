@@ -3,9 +3,9 @@ unique-page-id: 10100397
 description: 瞭解應用程式內訊息——行銷人員檔案——產品檔案
 title: 瞭解應用程式內訊息
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->範例1:「夏季銷售」促銷活動會在開啟應用程式時顯示。
+>**範例1**:「夏季銷售」促銷活動會在開啟應用程式時顯示。
 >
->範例2:在觀看醫療視頻時，安排醫生拜訪，並觸發40美元的優惠券。
+>**範例2**:在觀看醫療視頻時，安排醫生拜訪，並觸發40美元的優惠券。
 
 在您為行動應用程式建立和傳送應用程式內訊息之前，您需要您的行銷人員管理和行動應用程式開發人員來執行一些設定。  製作應用程式內訊息的程式有三個步驟：
 
@@ -33,18 +33,10 @@ ht-degree: 0%
 
 ## 步驟2:建立應用程式內訊息{#step-create-an-in-app-message}
 
-您[使用線上編輯器建立應用程式內訊息](https://docs.marketo.com/display/docs/create+an+in-app+message)。
+您[使用線上編輯器建立應用程式內訊息](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)。
 
 ## 步驟3:傳送！{#step-send}
 
-您可以建立一個程式來發送消息[。](https://docs.marketo.com/display/docs/send+your+in-app+message)
+您可以建立一個程式來發送消息[。](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
 
 你在路上。
-
->[!MORELIKETHIS]
->
->* [建立應用程式內訊息](https://docs.marketo.com/display/docs/create+an+in-app+message)
-   >
-   >
-* [傳送您的應用程式內訊息](https://docs.marketo.com/display/docs/send+your+in-app+message)
-
