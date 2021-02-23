@@ -3,7 +3,7 @@ unique-page-id: 2360035
 description: 深入探討人員績效報表——行銷人員檔案——產品檔案
 title: 深入分析人員績效報表
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 在&#x200B;**Drill-Down**&#x200B;彈出式選單中，選擇要向下鑽取的屬性。 然後按一下**下鑽**。
+1. 在&#x200B;**Drill-Down**&#x200B;彈出式選單中，選擇要向下鑽取的屬性。 然後，按一下&#x200B;**向下鑽取**。
 
    ![](assets/four.png)
 
@@ -42,4 +42,3 @@ ht-degree: 0%
 1. 若要儲存結果（選用），請按一下左下角的&#x200B;**Export**&#x200B;圖示。
 
    ![](assets/six.png)
-
