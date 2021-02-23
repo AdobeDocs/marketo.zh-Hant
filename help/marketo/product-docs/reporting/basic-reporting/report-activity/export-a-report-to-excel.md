@@ -3,9 +3,9 @@ unique-page-id: 2360020
 description: 將報表匯出至Excel —— 行銷人員檔案——產品檔案
 title: 將報表匯出至Excel
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -31,14 +31,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >如果下載的檔案太大，您可以[變更報表大小](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)。
-
-   >[!NOTE]
-   >
-   >**深入探討**
-   >
-   >
-   >在[基本報告](https://docs.marketo.com/display/docs/basic+reporting)深入探討中，瞭解您可以處理報告的所有其他有用功能。
-
+   >如果下載的檔案太大，您可以[變更報表大小](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)。
