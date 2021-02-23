@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: 促銷活動報表——行銷人員檔案——產品檔案
 title: 促銷活動報表
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # 促銷活動報表{#campaign-activity-report}
 
-瞭解您的[智慧型促銷活動](https://docs.marketo.com/display/docs/smart+campaigns)的執行情形。
+瞭解您的[智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)的執行情形。
 
-1. [建立報表](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 並選取「促銷活 **動** [報表」類型](report-type-overview.md)。
-1. [設定報表的時間範圍，](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 然後按一下「報表 **** 」標籤。
+1. [建立報表](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 並選取「促銷活 **動** [報表」類型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+
+1. [設定報表的時間範圍，](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 然後按一下「報表 **** 」標籤。
+
 1. 太好了！ 探索您的報表，以識別依促銷活動類型分組的最有效促銷活動。
 
-   「 ![](assets/image2014-9-16-16-3a8-3a45.png)
-
-   「
+   ![](assets/image2014-9-16-16-3a8-3a45.png)
 
    >[!TIP]
    >
-   >若要尋找處理最多人的促銷活動，例如，[在&#x200B;*「處理的總人數」*&#x200B;上對報表](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)排序，然後選擇&#x200B;**排序遞減**。
+   >若要尋找處理最多人的促銷活動，例如，[在&#x200B;_已處理的總人數_&#x200B;上排序您的報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)，然後選擇&#x200B;**排序遞減**。
 
-   按一下智慧型促銷活動的名稱以開啟它。  [您可以為「促銷活](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 動」報表選取的欄包括：
+   按一下智慧型促銷活動的名稱以開啟它。  [您可以為「促銷活](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 動」報表選取的欄包括：
 
    | 欄 | 說明 |
    |---|---|
@@ -48,11 +48,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [篩選促銷活動報表](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
-
-
-   請參閱[基本報表](https://docs.marketo.com/display/docs/basic+reporting)中的更多報表。
-
+   >[篩選促銷活動報表](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
