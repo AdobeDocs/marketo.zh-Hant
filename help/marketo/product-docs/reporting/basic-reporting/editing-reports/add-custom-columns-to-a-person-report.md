@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: 新增自訂欄至人員報表——行銷人員檔案——產品檔案
 title: 新增自訂欄至人員報表
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 新增自訂欄至人員報表{#add-custom-columns-to-a-person-report}
 
-您可以使用[智慧型清單](https://docs.marketo.com/display/docs/smart+lists+and+static+lists)做為自訂欄，進一步篩選[person reports](https://docs.marketo.com/display/docs/basic+reporting)中的量度。
+您可以使用[智慧型清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)做為自訂欄，進一步篩選人員報表中的量度。
 
 1. 前往「行銷活動」區域（或&#x200B;**Analytics**）。****
 
@@ -31,27 +31,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-   >[!NOTE]
-   >
-   >**深入探討**
-   >
-   >
-   >瞭解如何在[智慧型清單和靜態清單](https://docs.marketo.com/display/docs/smart+lists+and+static+lists)深入探討中建立和設定智慧型清單。
-
 1. 你做到了！ 按一下&#x200B;**報表**&#x200B;標籤，查看您的報表及新欄。
 
    ![](assets/five-1.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >您也可以[將業務機會列添加到銷售線索報表](add-opportunity-columns-to-a-lead-report.md)。
-
-   >[!NOTE]
-   >
-   >**深入探討**
-   >
-   >
-   >在[基本報表](https://docs.marketo.com/display/docs/basic+reporting)深入探討中，瞭解您可以處理報表的許多功能。
-
+   >您也可以[將業務機會列添加到銷售線索報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md)。
