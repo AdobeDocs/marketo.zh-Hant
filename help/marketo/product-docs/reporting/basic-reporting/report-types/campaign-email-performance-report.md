@@ -3,9 +3,9 @@ unique-page-id: 2360188
 description: 促銷活動電子郵件績效報告——行銷人員檔案——產品檔案
 title: 促銷活動電子郵件績效報表
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,12 @@ ht-degree: 0%
 
 # 促銷活動電子郵件績效報表{#campaign-email-performance-report}
 
-若要查看依[smart campaign](https://docs.marketo.com/display/docs/smart+campaigns)分組的電子郵件績效統計資料，請執行「促銷活動電子郵件績效」報表。
+若要查看依[smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)分組的電子郵件績效統計資料，請執行「促銷活動電子郵件績效」報表。
 
-1. [建立報表](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 並選取「促銷活 **動電子郵件** [績效」報表類型](report-type-overview.md)。
-1. [設定報表的時間範圍，](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 然後按一下「報表 **** 」標籤。
+1. [建立報表](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 並選取「促銷活 **動電子郵件** [績效」報表類型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+
+1. [設定報表的時間範圍，](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 然後按一下「報表 **** 」標籤。
+
 1. 現在請瀏覽報表，瞭解促銷活動中每封電子郵件的執行方式。
 
    ![](assets/image2014-9-16-16-3a19-3a59.png)
@@ -25,7 +27,7 @@ ht-degree: 0%
    >
    >按一下電子郵件名稱，在「電子郵件預覽器」中將其開啟。
 
-   [您可以為「促銷活](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)動電子郵件績效」報表選取的欄包括：
+   [您可以為「促銷活](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)動電子郵件績效」報表選取的欄包括：
 
    | 欄 | 說明 |
    |---|---|
@@ -37,21 +39,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >總的來說，我們試圖用常識記錄這些統計資料。 例如，如果有人點按了電子郵件中的連結，他們顯然會先開啟連結。 有關我們遵循的特定規則，請參閱[電子郵件績效報告](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)。
+   >總的來說，我們試圖用常識記錄這些統計資料。 例如，如果有人點按了電子郵件中的連結，他們顯然會先開啟連結。 有關我們遵循的特定規則，請參閱[電子郵件績效報告](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)。
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [篩選促銷活動電子郵件報表中的資產](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
-   >    * [電子郵件績效報告](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
-
-
-   >[!NOTE]
-   >
-   >**深入探討**
-   >
-   >
-   >進一步瞭解[基本報表。](https://docs.marketo.com/display/docs/basic+reporting)
+   >* [篩選促銷活動電子郵件報表中的資產](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+   >* [電子郵件績效報告](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 
