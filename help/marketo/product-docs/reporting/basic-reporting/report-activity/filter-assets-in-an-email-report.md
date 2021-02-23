@@ -3,9 +3,9 @@ unique-page-id: 2360225
 description: 篩選電子郵件報表中的資產——行銷檔案——產品檔案
 title: 篩選電子郵件報表中的資產
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 篩選電子郵件報表中的資產{#filter-assets-in-an-email-report}
 
-將[電子郵件效能](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)或[電子郵件連結效能](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)報告集中在您程式（「本機資產」）、Design Studio（「全域資產」）或已封存的電子郵件上。
+將[電子郵件效能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)或[電子郵件連結效能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)報告集中在您程式（「本機資產」）、Design Studio（「全域資產」）或已封存的電子郵件上。
 
 1. 前往&#x200B;**Analytics**（或&#x200B;**行銷活動**）區域。
 
@@ -45,15 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [篩選促銷活動電子郵件報表中的資產](filter-assets-in-a-campaign-email-reports.md)
-
->
-
-
-
->[!NOTE]
->
->**深入探討**
->
->瞭解[基本報表](https://docs.marketo.com/display/docs/basic+reporting)中的所有報表。
-
+>[篩選促銷活動電子郵件報表中的資產](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
