@@ -3,9 +3,9 @@ unique-page-id: 2360032
 description: 變更報告電子郵件——行銷人員檔案——產品檔案中URL的過期時間
 title: 變更報表電子郵件中URL的過期時間
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. 按一下「**編輯URL有效期**」按鈕。
+1. 按一下「編輯URL有效期&#x200B;**」按鈕。**
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
@@ -35,8 +35,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**提醒**
-   >
-   >
    >請記住，這些僅適用於報表和警報中的連結，而不適用於行銷電子郵件。
-
