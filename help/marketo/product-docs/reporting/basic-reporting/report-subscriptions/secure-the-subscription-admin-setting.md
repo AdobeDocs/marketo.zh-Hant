@@ -3,7 +3,7 @@ unique-page-id: 10095347
 description: 確保訂閱管理設定——行銷人員檔案——產品檔案
 title: 保護訂閱管理員設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -34,4 +34,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >當需要登入才能下載報表時，如果您沒有Marketo的存取權，您將不會收到智慧型清單報表電子郵件。 這適用於現有和未來的訂閱。
-
