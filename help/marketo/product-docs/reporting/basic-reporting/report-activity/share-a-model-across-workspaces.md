@@ -3,9 +3,9 @@ unique-page-id: 2360205
 description: 跨工作區分享模型——行銷檔案——產品檔案
 title: 跨工作區共用模型
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,10 @@ Marketo可讓您跨工作區共用模型。 這是方法。
 
    >[!NOTE]
    >
-   >
    >與其他工作區共用模型可讓這些使用者根據模型執行報表。
 
 1. 選擇要與共用資料夾的工作區，然後按一下&#x200B;**保存**。
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-就是這麼簡單！ 現在，來自其他工作區的人可以在共用模型中移動。 您可能想要在該工作區中運行人員分配，有關詳細資訊，請參閱[啟動收入週期模型](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS)。
+就是這麼簡單！ 現在，來自其他工作區的人可以在共用模型中移動。
