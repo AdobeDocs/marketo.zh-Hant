@@ -3,7 +3,7 @@ unique-page-id: 2951220
 description: 使用行動平台欄——行銷檔案——產品檔案建立人員績效報告
 title: 使用行動平台欄建立人員績效報表
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -106,4 +106,3 @@ ht-degree: 0%
    ![](assets/seventeen.png)
 
    很酷吧？ 幹得漂亮！
-
