@@ -3,7 +3,7 @@ unique-page-id: 7505310
 description: 訂閱智慧型清單——行銷人員檔案——產品檔案
 title: 訂閱智慧型清單
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -36,11 +36,11 @@ ht-degree: 0%
 
 ## 建立智慧清單預訂{#create-a-smart-list-subscription}
 
-1. 前往&#x200B;**資料庫**&#x200B;或&#x200B;**行銷活動**。
+1. 前往&#x200B;**Database**&#x200B;或&#x200B;**行銷活動**。
 
    ![](assets/db.png)
 
-1. 選擇要為其建立訂閱的智慧清單。 按一下「**列出操作**」並選擇** 「新建智慧清單訂閱」**。
+1. 選擇要為其建立訂閱的智慧清單。 按一下&#x200B;**列出操作**&#x200B;並選擇&#x200B;**新建智慧清單訂閱**。
 
    ![](assets/three.png)
 
@@ -50,11 +50,9 @@ ht-degree: 0%
 
 1. 按一下&#x200B;**Frequency**&#x200B;清單並選擇頻率。
 
-   ** ![](assets/image2015-9-14-13-3a21-3a21.png)
+   ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-   **
-
-1. 設定**結束傳送**日期。 您可以選擇&#x200B;**Never**&#x200B;或日曆日期。
+1. 設定&#x200B;**結束傳送**&#x200B;日期。 您可以選擇&#x200B;**Never**&#x200B;或日曆日期。
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
@@ -82,7 +80,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果[安全訂閱管理員](secure-the-subscription-admin-setting.md)設定設為&#x200B;**是**，則只有可存取Marketo例項的人員才能下載報表。
+>如果[安全訂閱管理員](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)設定設為&#x200B;**是**，則只有可存取Marketo例項的人員才能下載報表。
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -104,10 +102,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [編輯智慧清單訂閱](edit-a-smart-list-subscription.md)
->* [保護訂閱管理員設定](secure-the-subscription-admin-setting.md)
-
->
-
-
+>* [編輯智慧清單訂閱](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
+>* [保護訂閱管理員設定](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
 
