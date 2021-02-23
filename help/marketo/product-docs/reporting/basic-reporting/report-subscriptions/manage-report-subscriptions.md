@@ -3,9 +3,9 @@ unique-page-id: 2359991
 description: 管理報表訂閱——行銷人員檔案——產品檔案
 title: 管理報表訂閱
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   此頁面顯示帳戶中所有報表的訂閱，依[報表類型](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)分組。 這包括對基本報告](subscribe-to-a-basic-report.md)和[收入週期瀏覽器](https://docs.marketo.com/display/docs/revenue+cycle+analytics)報告的[訂閱。
+   此頁面顯示帳戶中所有報表的訂閱，依[報表類型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)分組。 這包括對基本報表](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)和收入週期總管報表的[訂閱。
 
    >[!TIP]
    >
@@ -39,11 +39,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >
-   >    
-   >    
-   >    * 在電子郵件地址之間使用逗號。
-   >    * 若要儲存您所做的編輯，請按一下訂閱清單外部的&#x200B;*區域。*
+   >* 在電子郵件地址之間使用逗號。
+   >* 若要儲存您所做的編輯，請按一下訂閱清單外部的&#x200B;_區域。_
 
 
    您也可以：
@@ -53,8 +50,6 @@ ht-degree: 0%
    * 按一下並編輯&#x200B;**摘要**&#x200B;欄位，以更改電子郵件中顯示的預覽行數。
    * 取消選取&#x200B;**Excel**&#x200B;核取方塊，傳送報表摘要，而不含試算表附件。
    * 按一下&#x200B;**Send**&#x200B;按鈕，立即傳送報表電子郵件。
-
-
 
 1. 要完全刪除預訂，請選擇該行並按一下&#x200B;**刪除預訂**。
 
@@ -66,12 +61,6 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [訂閱基本報表](subscribe-to-a-basic-report.md)
-   >    * [訂閱收入總管報表](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-
-
-   進一步瞭解[基本報告](https://docs.marketo.com/display/docs/basic+reporting)和[收入週期瀏覽器](https://docs.marketo.com/display/docs/revenue+cycle+analytics)深入探討。
+   >* [訂閱基本報表](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >* [訂閱收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
