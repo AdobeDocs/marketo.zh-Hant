@@ -3,7 +3,7 @@ unique-page-id: 10093041
 description: 編輯智慧型清單訂閱——行銷人員檔案——產品檔案
 title: 編輯智慧清單訂閱
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -52,4 +52,3 @@ ht-degree: 0%
 1. 拼圖的最後一塊是格式。 按一下&#x200B;**Format**&#x200B;列並選擇所需列。 CSV為預設值。
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)
-
