@@ -3,9 +3,9 @@ unique-page-id: 2359994
 description: 選擇報表欄——行銷檔案——產品檔案
 title: 選擇報表欄
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以選擇報表中包含和未包含的欄。
 
-1. 前往**Analytics **（或&#x200B;**行銷活動**）區域。
+1. 前往&#x200B;**Analytics**（或&#x200B;**行銷活動**）區域。
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -29,11 +29,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [對列排序報表](sort-report-on-columns.md)
-
-
-   利用報告完成更多工作！ 請參閱[基本報告](https://docs.marketo.com/display/docs/basic+reporting)。
-
+   >[對列排序報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
