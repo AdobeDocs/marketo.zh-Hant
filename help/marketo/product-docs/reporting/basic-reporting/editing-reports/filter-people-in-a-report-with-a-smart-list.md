@@ -3,9 +3,9 @@ unique-page-id: 2360016
 description: 使用智慧型清單篩選報表中的人員——行銷人員檔案——產品檔案
 title: 使用智慧型清單篩選報表中的人員
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -17,16 +17,16 @@ ht-degree: 0%
 
 您可以將智慧型清單與下列報表類型搭配使用：
 
-* [人員績效](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
-* [各狀態人物](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [依收入階段劃分的人員](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
-* [電子郵件效能](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
-* [電子郵件連結效能](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-* [參與流效能](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [促銷活動活動](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
-* [促銷活動電子郵件績效](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-* [公司網路活動](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
-* [網頁活動](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
+* [人員績效](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
+* [各狀態人物](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
+* [依收入階段劃分的人員](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
+* [電子郵件效能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+* [電子郵件連結效能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+* [參與流效能](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
+* [促銷活動活動](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
+* [促銷活動電子郵件績效](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+* [公司網路活動](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+* [網頁活動](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
 1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
@@ -49,11 +49,3 @@ ht-degree: 0%
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 
    太好了！ 現在，您的報表只會顯示符合智慧型清單的人員的資料。
-
-   >[!NOTE]
-   >
-   >**深入探討**
-   >
-   >
-   >如需使用報表的更多方法，請參閱[基本報表](https://docs.marketo.com/display/docs/basic+reporting)深入探討。
-
