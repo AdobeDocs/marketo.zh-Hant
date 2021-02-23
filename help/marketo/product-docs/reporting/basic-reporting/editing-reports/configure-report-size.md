@@ -3,9 +3,9 @@ unique-page-id: 2360002
 description: 設定報表大小——行銷檔案——產品檔案
 title: 設定報表大小
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 依預設，Marketo報表的上限為5,000列，但您可以變更該限制。
 
-1. 前往**行銷活動**區域。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-   按兩下&#x200B;**Export Rows Available**。
+1. 按兩下&#x200B;**Export Rows Available**。
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -43,9 +43,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >現在，您可以使用新限制匯出報表](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)。[
-
-   在[基本報表](https://docs.marketo.com/display/docs/basic+reporting)深入探討中，檢視設定報表的更多方法。
-
+   >您可以使用新限制來匯出報表](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)。[
