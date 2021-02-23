@@ -3,9 +3,9 @@ unique-page-id: 2359968
 description: 變更報告時間範圍——行銷人員檔案——產品檔案
 title: 變更報告時間範圍
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -48,14 +48,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >要按特定人員屬性縮小報表範圍，您可以[在具有智慧清單的報表中篩選人員](filter-people-in-a-report-with-a-smart-list.md)。
-
-   >[!NOTE]
-   >
-   >**深入探討**
-   >
-   >
-   >如需使用報表的更多方法，請參閱[基本報表](https://docs.marketo.com/display/docs/basic+reporting)深入探討。
-
+   >要按特定人員屬性縮小報表範圍，您可以[在具有智慧清單的報表中篩選人員](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)。
