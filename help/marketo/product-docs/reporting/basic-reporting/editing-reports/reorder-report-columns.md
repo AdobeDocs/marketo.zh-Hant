@@ -3,9 +3,9 @@ unique-page-id: 2359999
 description: 重新排序報表欄——行銷人員檔案——產品檔案
 title: 重新排序報表欄
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -35,16 +35,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [選擇報表欄](select-report-columns.md)
-
-
-   >[!NOTE]
-   >
-   >**深入探討**
-   >
-   >
-   >瞭解在[Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting)中使用報表的所有功能。
-
+   >[選擇報表欄](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
