@@ -3,9 +3,9 @@ unique-page-id: 2360028
 description: 複製報表——行銷檔案——產品檔案
 title: 複製報表
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. 選擇您的報表。 選擇&#x200B;**報告操作>克隆報告**。
+1. 選擇您的報表。 選擇&#x200B;**報告操作** > **克隆報告**。
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
@@ -35,11 +35,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [使用智慧型清單篩選報表中的人員](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
-
-
-   自訂報表的功能更多！ 請參閱[基本報告](https://docs.marketo.com/display/docs/basic+reporting)。
-
+   >[使用智慧型清單篩選報表中的人員](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
