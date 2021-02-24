@@ -3,7 +3,7 @@ unique-page-id: 4718687
 description: 批准／取消批准收入模型——行銷檔案——產品檔案
 title: 批准／取消批准收入模型
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->[在批准整個模型](approving-stages-and-assigning-leads-to-a-revenue-model.md) 之前，必須先批准各個階段並添加人員。
+>[在批准整個模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) 之前，必須先批准各個階段並添加人員。
 
 ## 批准{#approve}
 
@@ -66,4 +66,3 @@ ht-degree: 0%
 >[!CAUTION]
 >
 >取消批准模型會從模型中移除所有人員，並從資料庫中移除其模型中的歷史記錄。
-
