@@ -3,7 +3,7 @@ unique-page-id: 2951884
 description: 瞭解Revenue Explorer - Marketo Docs —— 產品文檔中的Opportunity Analysis
 title: 瞭解Revenue Explorer中的Opportunity Analysis
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 0%
@@ -25,13 +25,15 @@ Revenue Explorer中的Opportunity Analysis允許您更深入地檢查您的機�
 
    ![](assets/image2015-7-21-16-3a21-3a4.png)
 
-1. 營銷對已關閉和已贏機會的影響
-1. 此報表依數量和金額顯示有多少收入是由行銷所獲得及影響的。
+1. 行銷對商機的影響已關閉且成功。
+
+   此報表依數量和金額顯示有多少收入是由行銷所獲得及影響的。
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
 1. 由銷售線索來源關閉的業務機會
-1. 此報告將按銷售線索來源列出所有關閉的業務機會，並為您提供一個清楚的概覽，瞭解哪些來源有效以及哪些來源無效。
+
+   此報告將按銷售線索來源列出所有關閉的業務機會，並為您提供一個清楚的概覽，瞭解哪些來源有效以及哪些來源無效。
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
@@ -151,11 +153,7 @@ Opportunity Analysis使您能夠訪問所有與銷售線索、公司和業務機
 
 >[!MORELIKETHIS]
 >
->* [建立收入總管報表](create-a-revenue-explorer-report.md)
->* [新增欄位至收入總管報表](adding-fields-to-a-revenue-explorer-report.md)
->* [訂閱收入總管報表](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
+>* [建立收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [新增欄位至收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [訂閱收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
