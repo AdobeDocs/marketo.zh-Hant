@@ -3,7 +3,7 @@ unique-page-id: 2953444
 description: 定義期間成本——行銷人員文檔——產品文檔
 title: 定義期間成本
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## 編輯期間成本{#edit-a-period-cost}
 
-1. 按一下右鍵期間成本，然後從彈出式菜單中選擇**編輯**以開啟&#x200B;**編輯成本**&#x200B;對話框。
+1. 按一下右鍵期間成本，然後從彈出式菜單中選擇&#x200B;**編輯**&#x200B;以開啟&#x200B;**編輯成本**&#x200B;對話框。
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -63,11 +63,10 @@ ht-degree: 0%
 
 ## 刪除期間成本{#delete-a-period-cost}
 
-1. 按一下右鍵要刪除的期間成本，然後從彈出菜單中選擇**刪除**，以顯示**刪除成本**提示。
+1. 按一下右鍵要刪除的期間成本，然後從彈出菜單中選擇&#x200B;**Delete**&#x200B;以顯示&#x200B;**Delete Cost**&#x200B;提示。
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
 1. 按一下&#x200B;**刪除**&#x200B;可永久刪除期間成本，按一下&#x200B;**取消**&#x200B;可返回。
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)
-
