@@ -3,7 +3,7 @@ unique-page-id: 7504383
 description: 新增欄位至收入總管報表——行銷檔案——產品檔案
 title: 新增欄位至收入總管報表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -50,9 +50,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [刪除收入瀏覽器報表中的欄位](deleting-a-field-in-a-revenue-explorer-report.md)
-
->
-
-
-
+>[刪除收入瀏覽器報表中的欄位](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
