@@ -3,7 +3,7 @@ unique-page-id: 10099415
 description: 電子郵件見解快速圖表——行銷人員檔案——產品檔案
 title: 電子郵件見解快速圖表
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
@@ -78,4 +78,3 @@ ht-degree: 0%
    ![](assets/eleven.png)
 
    您的快速圖表現在已刪除。 說過很容易。
-
