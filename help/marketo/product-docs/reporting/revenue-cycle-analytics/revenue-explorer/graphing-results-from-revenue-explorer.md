@@ -3,7 +3,7 @@ unique-page-id: 10095084
 description: Revenue Explorer - Marketo Docs —— 產品檔案的繪圖結果
 title: 從收入總管繪製結果
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -76,4 +76,3 @@ ht-degree: 0%
 1. 要切換回表視圖，請按一下表按鈕。
 
    ![](assets/two-1.png)
-
