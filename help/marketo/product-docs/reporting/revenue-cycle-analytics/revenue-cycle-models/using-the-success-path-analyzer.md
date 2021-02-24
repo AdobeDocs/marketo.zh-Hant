@@ -3,7 +3,7 @@ unique-page-id: 3571886
 description: 使用成功路徑分析器——行銷檔案——產品檔案
 title: 使用成功路徑分析器
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 使用成功路徑分析器{#using-the-success-path-analyzer}
 
-使用成功路徑分析器來探索反映[收入週期模型](understanding-revenue-models.md)各階段人員流量（數量）和速度（以天數計）的具體細節。
+使用成功路徑分析器來探索反映[收入週期模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)各階段人員流量（數量）和速度（以天數計）的具體細節。
 
 >[!PREREQUISITES]
 >
->[建立成功路徑分析器](create-a-success-path-analyzer.md)
+>[建立成功路徑分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
 1. 前往&#x200B;**Analytics**&#x200B;並選取&#x200B;**成功路徑分析器**。
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. 對於具有SLA（服務級別協定）的階段，按一下&#x200B;**圖表操作** >**顯示到期的SLA** ，以顯示在指定時間範圍內未達到SLA目標的每個人員。
+1. 對於具有SLA（服務級別協定）的階段，按一下&#x200B;**圖表操作** > **顯示到期的SLA** ，以顯示在指定時間範圍內未達到SLA目標的每個人。
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
    以橙色顯示的人可能&#x200B;*或不*&#x200B;仍處於SLA階段。
 
-1. 按一下&#x200B;**圖表操作** >**顯示SLA過期時間**，以顯示在指定時段結束時仍處於SLA階段的所有SLA目標過期的人員。
+1. 按一下&#x200B;**圖表操作** > **顯示SLA過期**&#x200B;以顯示在指定時段結束時仍處於SLA階段的已過期SLA目標的所有人員。
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. 要打印圖表，請按一下*** ****圖表操作** > **打印圖表**。
+1. 要打印圖表，請按一下「圖表操作」**> 「**&#x200B;打印圖表」**。**
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 
