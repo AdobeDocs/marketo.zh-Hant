@@ -3,7 +3,7 @@ unique-page-id: 4718681
 description: 「收入建立工具——行銷檔案——產品檔案」中的「依帳戶開始追蹤」
 title: 在收入建立工具中依帳戶開始追蹤
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
-1. 若要建立新報表，請按一下「檔案&#x200B;****」，然後選取「新增&#x200B;**」，然後選取「報表**」。****
+1. 要建立新報告，請按一下&#x200B;**檔案**&#x200B;並選擇&#x200B;**新建**，然後選擇&#x200B;**報告**。
 
    ![](assets/image2015-4-29-16-3a38-3a44.png)
 
@@ -44,4 +44,3 @@ ht-degree: 0%
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 
 1. 您的報表現在應只顯示您依帳戶追蹤的階段。 請務必儲存報表，以便日後使用。 現在，您可以將此作為行銷成效的另一個衡量標準。
-
