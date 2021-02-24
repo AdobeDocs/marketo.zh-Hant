@@ -3,7 +3,7 @@ unique-page-id: 7504923
 description: 在收入模型中設定Google AdWords轉換，其中包含經理帳戶——行銷人員檔案——產品檔案
 title: 在收入模型中設定Google AdWords轉換，使用管理員帳戶
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '448'
 ht-degree: 0%
@@ -24,11 +24,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [將Google AdWords新增為Launchpoint服務及Manager帳戶](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
-
->
-
-
+>[將Google AdWords新增為Launchpoint服務及Manager帳戶](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
 ## 使用階段操作{#use-stage-action}
 
@@ -76,9 +72,7 @@ ht-degree: 0%
 
 1. 選擇&#x200B;**新建轉換**。
 
-   ** ![](assets/image2015-3-27-17-3a23-3a13.png)
-
-   **
+   ![](assets/image2015-3-27-17-3a23-3a13.png)
 
 1. 輸入&#x200B;**轉換名稱**。 按一下&#x200B;**保存**。
 
