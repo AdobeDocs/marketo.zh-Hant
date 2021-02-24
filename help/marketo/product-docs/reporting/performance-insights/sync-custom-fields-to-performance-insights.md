@@ -3,9 +3,9 @@ unique-page-id: 14746432
 description: 將自訂欄位同步至效能分析——行銷人員檔案——產品檔案
 title: 將自訂欄位同步至效能分析
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ MPI收入和管道控制面板可以篩選自訂行銷欄位。 若要這麼做�
 
 >[!NOTE]
 >
->本文僅適用於&#x200B;**not**&#x200B;具有[RCA](https://docs.marketo.com/x/lwIk)的使用者。 如果您有RCA，請依照[本文](https://docs.marketo.com/x/FQQk)中的步驟進行。
+>本文僅適用於&#x200B;**not**&#x200B;擁有收入週期分析的使用者。 如果您有RCA，請依照[本文](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md)中的步驟進行。
 
 1. 前往&#x200B;**Admin**&#x200B;區段。
 
@@ -50,4 +50,3 @@ MPI收入和管道控制面板可以篩選自訂行銷欄位。 若要這麼做�
    >[!NOTE]
    >
    >在啟用後，這些欄位將在第二天在MPI中可用。
-
