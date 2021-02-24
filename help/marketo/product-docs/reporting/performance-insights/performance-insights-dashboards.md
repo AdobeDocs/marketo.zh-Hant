@@ -3,9 +3,9 @@ unique-page-id: 13795534
 description: 效能分析資料板——行銷人員檔案——產品檔案
 title: 效能分析資料板
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,6 @@ ht-degree: 0%
 程式的目的，是與人或潛在客戶建立有意義的互動。 當某人達到達到該目標的狀態時，就會標籤成功。 它可以參加網路研討會、按一下電子郵件中的連結，或填寫網頁表格。 成功視程式管道而定。
 
 >[!NOTE]
->
->**範例**
 >
 >在網路研討會課程中，可能有多種狀態，例如：已邀請、已註冊及已參加。 「已邀請」或「已註冊」並不是有意義的互動，因為人們實際上不會觀看網路研討會。 在此案例中，參與者被視為成功。
 
@@ -108,4 +106,3 @@ ht-degree: 0%
   </tr> 
  </tbody> 
 </table>
-
