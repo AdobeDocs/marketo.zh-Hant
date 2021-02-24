@@ -3,9 +3,9 @@ unique-page-id: 12979858
 description: 效能分析常見問答集——行銷人員檔案——產品檔案
 title: 效能分析常見問答集
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '1404'
+source-wordcount: '1357'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,6 @@ ht-degree: 0%
 成功是Marketo中有意義互動的度量。 程式的目的，是與人或潛在客戶建立有意義的互動。 當某人達到達到該目標的狀態時，就會標籤成功。 它可以參加網路研討會、按一下電子郵件中的連結，或填寫網頁表格。 成功視程式管道而定。
 
 >[!NOTE]
->
->**範例**
 >
 >在網路研討會課程中，可能有多種狀態，例如：已邀請、已註冊及已參加。 「已邀請」或「已註冊」並不是有意義的互動，因為人們實際上不會觀看網路研討會。 在此案例中，參與者被視為成功。
 
@@ -41,7 +39,7 @@ MPI是銷售線索管理應用程式的獨立附加模組。 它不需要使用�
 
 >[!NOTE]
 >
->進一步瞭解如何設定分析行為[這裡](https://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings)。
+>進一步瞭解如何設定分析行為[這裡](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md)。
 
 ## 我正在執行多通道促銷活動，以推出新產品。 我要如何在一個位置檢視此促銷活動在所有不同通道的績效？{#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -58,8 +56,10 @@ MPI會計算您的所有機會是否都包含在分析中。 如果沒有，系�
 您也可能因為方案成本遺失而錯失了機會。 請檢閱您程式的Analytics行為。 它們可以是：
 
 1. 預設——預設行為是，只有在至少有一個期間成本（即使分配了零美元）時，程式才會包括在MPI中。
+
 1. 包含——此選項將確保程式在MPI中可用，無論您是否已包括期間成本。
-1. [Operational](https://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms)  —— 此選項導致程式不顯示在MPI中。
+
+1. [Operational](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs)  —— 此選項導致程式不顯示在MPI中。
 
 >[!NOTE]
 >
@@ -82,7 +82,7 @@ MPI會計算您的所有機會是否都包含在分析中。 如果沒有，系�
 
 ## 我想使用自訂的Salesforce Opportunity欄位來報告收入，而非標準的Salesforce Opportunity Amount欄位。 MPI是否允許我這樣做？{#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-是的。 [只要](https://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) 欄位類型是貨幣，Marketo Supportion就能將Marketo的Opportunity Amount欄位重新對應至自訂的Salesforce Opportunity欄位。由於MPI指向Marketo Opportunity金額欄位，因此MPI可以使用重新映射的自訂Salesforce欄位中的資料。
+是的。 [只要](https://nation.marketo.com/t5/Support/ct-p/Support) 欄位類型是貨幣，Marketo Supportion就能將Marketo的Opportunity Amount欄位重新對應至自訂的Salesforce Opportunity欄位。由於MPI指向Marketo Opportunity金額欄位，因此MPI可以使用重新映射的自訂Salesforce欄位中的資料。
 
 >[!NOTE]
 >
@@ -100,11 +100,11 @@ MPI旨在讓您從漏斗頂部到收入影響，衡量程式效能。 如果您�
 
 ## 我可以衡量MPI中基於帳戶的策略的成功嗎？{#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-是的。 MPI與[Marketo ABM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)整合，將ABM帳戶清單順暢地匯入MPI。 您可以使用「ABM帳戶清單」篩選器來選擇所需的ABM清單以篩選資料。
+是的。 MPI與[Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)整合，可順暢地將ABM帳戶清單導入MPI。 您可以使用「ABM帳戶清單」篩選器來選擇所需的ABM清單以篩選資料。
 
 ## 我購買MPI時是否可立即使用歸因？{#is-attribution-instantly-available-when-i-purchase-mpi}
 
-客戶購買MPI時，可使用Marketo Attribution功能。 但是，需要[正確設定](https://docs.marketo.com/x/mRPG)以確保機會和程式資料正確地流入MPI。
+客戶購買MPI時，可使用Marketo Attribution功能。 但是，需要[正確設定](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md)以確保機會和程式資料正確地流入MPI。
 
 ## 我要如何設定歸因？{#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -125,7 +125,7 @@ MPI旨在讓您從漏斗頂部到收入影響，衡量程式效能。 如果您�
 
 >[!TIP]
 >
->[本文](https://docs.marketo.com/x/mRPG)中詳細說明了所需的所有設定步驟。
+>[本文](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md)中詳細說明了所需的所有設定步驟。
 
 ## MPI和程式分析器之間有何區別？{#whats-the-difference-between-mpi-and-the-program-analyzer}
 
