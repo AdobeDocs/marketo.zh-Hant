@@ -3,7 +3,7 @@ unique-page-id: 13795492
 description: 效能分析設定——行銷人員檔案——產品檔案
 title: 效能分析設定
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -25,17 +25,35 @@ ht-degree: 0%
 
 **參與儀表板——貢獻與趨勢**
 
-| **成本期間** | 當您勾選此項目時，Performance Insights會將所有新名稱和成功匯總回設定為成本期間的月份。 |
-|---|---|
-| **活動期間** | 勾選此項時，Performance Insights會依活動日期匯總所有新名稱、成功案例和會籍，而不論方案成本期間為何。 |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>成本期間</strong></td> 
+   <td>當您勾選此項目時，Performance Insights會將所有新名稱和成功匯總回設定為成本期間的月份。</td> 
+  </tr> 
+  <tr> 
+   <td><strong>活動期間</strong></td> 
+   <td>勾選此項時，Performance Insights會依活動日期匯總所有新名稱、成功案例和會籍，而不論方案成本期間為何。</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 ## 上一期配置{#previous-period-configuration}
 
 **參與、管道、收入儀表板——僅貢獻**
 
-| **日曆期間** | 將上一個期間設定為：上一個日曆月、季或年。 |
-|---|---|
-| **YOY期間** | 將上一時段設定為上一年的相同月份或季度。 |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>日曆期間</strong></td> 
+   <td>將上一個期間設定為：上一個日曆月、季或年。</td> 
+  </tr> 
+  <tr> 
+   <td><strong>YOY期間</strong></td> 
+   <td>將上一時段設定為上一年的相同月份或季度。</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 ## 受行銷影響的機會{#marketing-influenced-opportunities}
 
@@ -54,7 +72,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-收入控制面板——貢獻與趨勢
+**收入控制面板——貢獻與趨勢**
 
 <table> 
  <tbody> 
@@ -73,7 +91,15 @@ ht-degree: 0%
 
 **Pipeline和收入儀表板——貢獻和趨勢**
 
-| **基於投資期** | 「投資成本」的計算方式，僅為投資期間篩選器所定義的每月方案成本之和。 |
-|---|---|
-| **基於計劃歸因** | 「歸因成本」是根據計畫成本的一部分，該部分成本是由在計畫中獲得或獲得成功的潛在客戶或聯繫人確定，並最終獲得成功的機會。 |
-
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>基於投資期</strong></td> 
+   <td>「投資成本」的計算方式，僅為投資期間篩選器所定義的每月方案成本之和。</td> 
+  </tr> 
+  <tr> 
+   <td><strong>基於計劃歸因</strong></td> 
+   <td>「歸因成本」是根據計畫成本的一部分，該部分成本是由在計畫中獲得或獲得成功的潛在客戶或聯繫人確定，並最終獲得成功的機會。</td> 
+  </tr> 
+ </tbody> 
+</table>
