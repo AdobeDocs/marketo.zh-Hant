@@ -3,7 +3,7 @@ unique-page-id: 4718672
 description: 使用收入模型轉場——行銷人員檔案——產品檔案
 title: 使用收入模型轉變
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[建立新的收入模型](create-a-new-revenue-model.md)
+>[建立新的收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
 當您建立模型並選取和組織庫存階段時，是時候設定轉場了。
 
@@ -29,7 +29,10 @@ ht-degree: 0%
    >
    >無法編輯「匿名的iOS」轉換規則。
 
-1. 將會為您選取的轉場開啟新的標籤。   ![](assets/three-1.png)
+1. 將會為您選取的轉場開啟新的標籤。
+
+   ![](assets/three-1.png)
+
 1. 轉場控制銷售機會在各階段之間的移動。 從右側拖曳您選擇的觸發器（或篩選器），然後隨處釋放至畫布上。 在此示例中，我們將選擇「填充出表單」(Fills Out Form)觸發器。
 
    >[!TIP]
@@ -62,4 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[批准／取消批准收入模型](approve-unapprove-a-revenue-model.md)
+>[批准／取消批准收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
