@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: 網頁活動報告——行銷檔案——產品檔案
 title: 網頁活動報表
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [將Munchkin追蹤程式碼新增至您的網站](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>* [將Munchkin追蹤程式碼新增至您的網站](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
 
-1. [建立報](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)表並選取**網頁活動報表**報 [表類型](report-type-overview.md)。
-1. 選擇[在報表中顯示已知或匿名人員](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)。
-1. [設定報表的時間範圍，](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 然後按一下「報表 **** 」標籤。
+1. [建立報](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)表並選取「網 **頁活動報表** [」報表類型](report-type-overview.md)。
+
+1. 選擇[在報表中顯示已知或匿名人員](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)。
+
+1. [設定報表的時間範圍，](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 然後按一下「報表 **** 」標籤。
+
 1. 你懂的！ 檢閱您的報表，以瞭解訪問您網站的訪客。
 
    ![](assets/image2017-3-29-9-3a21-3a36.png)
@@ -35,10 +38,10 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >若要瞭解哪些人瀏覽您的網站最多，請在&#x200B;*「頁面檢視」欄中對報表](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)[](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)排序，然後選擇「排序降序」。[*
+   >若要瞭解哪些人瀏覽您網站的次數最多，請[在&#x200B;_頁面檢視_&#x200B;欄中排序您的報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)，然後選擇排序遞減。
 
-   [Marketo會將匿名](../../../../product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 網站訪客新增至您的資料庫，而您可選擇在此報表中顯示。它提供了豐富的資訊，即使這些資訊是匿名的。\
-   [您可以為「網頁](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 活動」報表選取的欄包括：
+   [Marketo會將匿名](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 網站訪客新增至您的資料庫，而您可選擇在此報表中顯示。它提供了豐富的資訊，即使這些資訊是匿名的。\
+   [您可以為「網頁](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 活動」報表選取的欄包括：
 
 <table> 
  <thead> 
@@ -81,17 +84,10 @@ ht-degree: 0%
 
 >[!TIP]
 >
->讓您的業務代表驚艷！ [篩選](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)報表並 [訂閱它們](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
+>讓您的業務代表驚艷！ [篩選](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)報表並 [訂閱它們](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
 
 >[!MORELIKETHIS]
 >
->
->* [已檢視的網頁、網頁活動報表](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
->* [在Web報表中顯示人物或匿名訪客](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
+>* [已檢視的網頁、網頁活動報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
+>* [在Web報表中顯示人物或匿名訪客](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
 
-
->[!NOTE]
->
->**深入探討**
->
->瞭解[基本報告](https://docs.marketo.com/display/docs/basic+reporting)中其他有趣的報告。
