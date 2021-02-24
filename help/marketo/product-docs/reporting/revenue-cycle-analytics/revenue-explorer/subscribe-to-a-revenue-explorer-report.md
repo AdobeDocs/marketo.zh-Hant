@@ -3,9 +3,9 @@ unique-page-id: 2360397
 description: 訂閱收入總管報表——行銷檔案——產品檔案
 title: 訂閱收入總管報表
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 訂閱收入總管報表{#subscribe-to-a-revenue-explorer-report}
 
-若要從[收入週期總管](https://docs.marketo.com/display/docs/revenue+cycle+analytics)報表接收更新，並共用這些報表，您可以將任何電子郵件地址訂閱至現有報表。
+若要從「收入週期瀏覽器」報表接收更新並共用，您可以將任何電子郵件地址訂閱至現有報表。
 
-1. 前往&#x200B;**Analytics**&#x200B;並選取&#x200B;**新增>新報表訂閱。**
+1. 前往&#x200B;**Analytics**&#x200B;並選取&#x200B;**New** > **New Report Subscription**。
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >要訂閱在程式中建立的基本報告，請參閱[訂閱基本報告。](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >要訂閱在程式中建立的基本報告，請參閱[訂閱基本報告。](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. 對於&#x200B;**報表來源**，請選擇**收入總管**。
+1. 對於&#x200B;**報表來源**，選擇&#x200B;**收入總管**。
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 
@@ -45,11 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->瞭解如何[集中管理所有報表訂閱](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)。
-
->[!NOTE]
->
->**深入探討**
->
->在[收入週期總管](https://docs.marketo.com/display/docs/revenue+cycle+analytics)深入探討中，瞭解您可以運用Marketo的進階分析進行的更多工作。
-
+>瞭解如何[集中管理所有報表訂閱](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)。
