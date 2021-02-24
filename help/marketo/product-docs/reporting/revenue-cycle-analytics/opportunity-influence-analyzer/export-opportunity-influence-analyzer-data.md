@@ -3,9 +3,9 @@ unique-page-id: 2360394
 description: Export Opportunity Inffect Analyzer Data - Marketo Docs —— 產品文檔
 title: 導出機會影響分析器資料
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 導出機會影響分析器資料{#export-opportunity-influence-analyzer-data}
 
-若要從[收入週期總管](https://docs.marketo.com/display/docs/revenue+cycle+analytics)報表接收更新，並共用這些報表，您可以將任何電子郵件地址訂閱至現有報表。
+若要從「收入週期瀏覽器」報表接收更新並共用，您可以將任何電子郵件地址訂閱至現有報表。
 
-1. 前往&#x200B;**Analytics**&#x200B;並選擇&#x200B;**New********New** **Report** **Subscription**。
+1. 前往&#x200B;**Analytics**&#x200B;並選取&#x200B;**New** > **New Report Subscription**。
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >要訂閱在程式中建立的基本報告，請參閱[訂閱基本報告](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)。
+   >要訂閱在程式中建立的基本報告，請參閱[訂閱基本報告](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)。
 
 1. 對於「報表來源」，選擇「收入瀏覽器」。****
 
@@ -45,11 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->瞭解如何[集中管理所有報表訂閱](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)。
-
->[!NOTE]
->
->**深入探討**
->
->在[收入週期總管](https://docs.marketo.com/display/docs/revenue+cycle+analytics)深入探討中，瞭解您可以運用Marketo的進階分析進行的更多工作。
-
+>瞭解如何[集中管理所有報表訂閱](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)。
