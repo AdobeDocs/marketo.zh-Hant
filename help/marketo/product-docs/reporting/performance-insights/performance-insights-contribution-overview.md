@@ -3,9 +3,9 @@ unique-page-id: 12979008
 description: 績效洞察貢獻概觀——行銷人員檔案——產品檔案
 title: 績效分析貢獻概觀
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->瞭解[首次接觸和多次接觸](https://docs.marketo.com/display/DOCS/Understanding+Attribution)。
+>瞭解[首次接觸和多次接觸](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)。
 
-選擇您要查看量度的時段。 在此範例中，我們檢視的是本年度（年初至今）。   ![](assets/3-1.png)
+選擇您要查看量度的時段。 在此範例中，我們檢視的是本年度（年初至今）。
+
+![](assets/3-1.png)
 
 >[!NOTE]
 >
 >我們暫時移除了&quot;上一年&quot;的選項。 您仍可以選擇使用「自訂範圍」選項來檢視前一年的整個效能資料。
 
-度量會透過兩個圖表顯示：甜甜圈和酒吧。   ![](assets/four.png)
+度量會透過兩個圖表顯示：甜甜圈和酒吧。
+
+![](assets/four.png)
 
 甜甜圈圖顯示您選取量度的前10個色版。
 
@@ -45,7 +49,9 @@ ht-degree: 0%
 >
 >如果希望圖形中的條在捲動組時向上縮放，請選中&#x200B;**「縮放Y軸以適合**」複選框。
 
-將滑鼠移到橫條上，以檢視其他詳細資訊。   ![](assets/seven.png)
+將滑鼠移到橫條上，以檢視其他詳細資訊。
+
+![](assets/seven.png)
 
 在甜甜圈圖中選取一或多個渠道，與這些渠道關聯的所有程式都會出現在右側的長條圖中。 再按一下渠道以取消選取。
 
@@ -69,4 +75,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >按一下渠道旁的核取方塊，即可啟動／停用上述甜甜圈圖中的渠道。
-
