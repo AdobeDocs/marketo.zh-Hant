@@ -3,7 +3,7 @@ unique-page-id: 10099798
 description: 電子郵件分析篩選——行銷人員檔案——產品檔案
 title: 電子郵件見解中的篩選
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -63,7 +63,6 @@ ht-degree: 0%
 
 ## 帳戶型行銷{#account-based-marketing}
 
-如果您使用[以帳戶為基礎的行銷](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)，則會有專為您設計的篩選器。
+如果您使用[Target Account Management](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)，則會有專為您設計的篩選器。
 
 ![](assets/abm.png)
-
