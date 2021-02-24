@@ -3,7 +3,7 @@ unique-page-id: 7514151
 description: 歸因範例4 —— 行銷人員檔案——產品檔案
 title: 歸因範例4
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -48,17 +48,12 @@ ht-degree: 0%
 >1. 你不能比你掙的錢多
 >1. 你不能因為過去發生的事而自責
 
->
-
-
-
-<br> 
 
 請試用所有範例，您就是歸因專家！
 
 >[!MORELIKETHIS]
 >
->* [歸因範例1](attribution-example-1.md)
->* [歸因範例2](attribution-example-2.md)
->* [歸因範例3](attribution-example-3.md)
+>* [歸因範例1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [歸因範例2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [歸因範例3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
 
