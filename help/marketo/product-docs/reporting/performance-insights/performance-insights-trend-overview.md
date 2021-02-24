@@ -3,9 +3,9 @@ unique-page-id: 12979010
 description: 效能分析趨勢概觀——行銷人員檔案——產品檔案
 title: 效能分析趨勢概觀
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/2-1.png)
 
-選擇您要檢視效能的量度。 在此範例中，我們將檢視透過[首次接觸](https://docs.marketo.com/display/DOCS/Understanding+Attribution)贏得的商機。
+選擇您要檢視效能的量度。 在此範例中，我們將檢視透過[首次接觸](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)贏得的商機。
 
 ![](assets/3-2.png)
 
@@ -54,4 +54,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >按一下渠道旁的核取方塊，即可在甜甜圈圖中啟動／停用該渠道。
-
