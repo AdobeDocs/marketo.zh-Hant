@@ -3,7 +3,7 @@ unique-page-id: 5472402
 description: 編輯您核准的型號——行銷人員檔案——產品檔案
 title: 編輯已核准的模型
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 為當前處於選定狀態的銷售線索選擇新階段，或選擇「**無**」以從模型中刪除銷售線索。 完成後，按一下&#x200B;**Merge**。
+1. 為當前處於選定狀態的銷售線索選擇新階段，或選擇&#x200B;**無**&#x200B;從模型中刪除銷售線索。 完成後，按一下&#x200B;**Merge**。
 
    ![](assets/three.png)
 
@@ -59,5 +59,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[建立新的收入模型](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-
+>[建立新的收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
