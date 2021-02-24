@@ -3,7 +3,7 @@ unique-page-id: 4718675
 description: 變更舞台名稱——行銷人員檔案——產品檔案
 title: 更改舞台名稱
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -27,8 +27,8 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
-   按一下「關閉」。
+1. 按一下&#x200B;**關閉**。
+
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   看？ 放輕鬆！ 切記[批准您的型號](approve-unapprove-a-revenue-model.md)。
-
+   看？ 放輕鬆！ 切記[批准您的型號](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)。
