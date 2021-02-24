@@ -3,7 +3,7 @@ unique-page-id: 4718666
 description: 使用收入模型庫存階段——行銷檔案——產品檔案
 title: 使用收入模型庫存階段
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. 在&#x200B;**Analytics**&#x200B;區段中，選取您現有的模型，或[建立新的模型](create-a-new-revenue-model.md)。
+1. 在&#x200B;**Analytics**&#x200B;區段中，選取您現有的模型，或[建立新的模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)。
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
@@ -37,13 +37,13 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. 您可以自由編輯「名稱」、新增「說明」，並在新增舞台後調整「類型」。 您目前也可以選取「依帳戶開始追蹤」** [](start-tracking-by-account-in-the-revenue-modeler.md)**。
+1. 您可以自由編輯「名稱」、新增「說明」，並在新增舞台後調整「類型」。 您目前也可以選取「依帳戶開始追蹤」**[。](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)**
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## 編輯庫存階段{#edit-an-inventory-stage}
 
-當您選擇「庫存」圖示時，可以編輯&#x200B;**名稱**、添加&#x200B;**說明**&#x200B;或調整&#x200B;**類型**。 您也可以選擇[「開始依帳戶追蹤」](start-tracking-by-account-in-the-revenue-modeler.md)。
+當您選擇「庫存」圖示時，可以編輯&#x200B;**名稱**、添加&#x200B;**說明**&#x200B;或調整&#x200B;**類型**。 您也可以選擇[「開始依帳戶追蹤」](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)。
 
 1. 按一下「庫存」圖示。
 
