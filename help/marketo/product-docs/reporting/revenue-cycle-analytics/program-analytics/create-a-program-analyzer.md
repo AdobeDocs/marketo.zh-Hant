@@ -3,9 +3,9 @@ unique-page-id: 2360399
 description: 建立Program Analyzer - Marketo Docs —— 產品檔案
 title: 建立程式分析器
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
 >要從程式分析器獲得良好資料，請確保您的CRM聯繫人在業務機會中具有角色，並確保已完全設定Marketo程式，並定義[期間成本](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)、程式狀態和成功。
 
 >[!TIP]
 >
 >要使程式分析器中不顯示任何成本的程式，[將其期間成本](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)設定為$0。
 
-1. 按一下「分析」圖格。
+1. 按一下「**Analytics**」方塊。
 
    ![](assets/image2014-9-17-13-3a7-3a1.png)
 
-1. 按一下Program Analyzer表徵圖。
+1. 按一下&#x200B;**Program Analyzer**&#x200B;表徵圖。
 
    ![](assets/program-analyzer-icon-hand.png)
 
@@ -37,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-10-31-15-3a3-3a9.png)
 
-1. 按一下「設定」標籤，新增及自訂篩選。
+1. 按一下「**Setup**」標籤，新增和自訂篩選。
 
    ![](assets/image2016-10-31-15-3a25-3a57.png)
 
@@ -45,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2016-10-31-15-3a33-3a2.png)
 
-1. 選擇您要分析的時段，然後按一下「套用」。
+1. 選擇要分析的時段，然後按一下&#x200B;**應用**。
 
    ![](assets/image2016-10-31-15-3a30-3a32.png)
 
@@ -53,11 +51,11 @@ ht-degree: 0%
    >
    >要選擇特定範圍，請選擇&#x200B;**Custom**&#x200B;並使用&#x200B;**From**&#x200B;和&#x200B;**To**&#x200B;欄位。
 
-1. 如果要保存新的自定義分析器，請在Analyzer操作下拉式清單中選擇另存為。
+1. 如果要保存新的自定義分析器，請在Analyzer操作下拉式清單中選擇&#x200B;**另存為**。
 
    ![](assets/image2016-10-31-15-3a5-3a8.png)
 
-1. 使用「保存到」和「資料夾」下拉清單選擇要保存自定義分析器的位置。 命名新的自訂分析器。 說明是選用的。 按一下「儲存」。
+1. 使用「保存到」和「資料夾」下拉清單選擇要保存自定義分析器的位置。 命名新的自訂分析器。 說明是選用的。 按一下&#x200B;**保存**。
 
    ![](assets/image2016-10-31-15-3a7-3a19.png)
 
@@ -65,18 +63,14 @@ ht-degree: 0%
 
 ![](assets/november-custom-report.png)
 
->[!MORELIKETHIS]
->
->* [比較渠道有效性與計劃分析器](compare-channel-effectiveness-with-the-program-analyzer.md)
->* [比較方案分析器與方案有效性](compare-program-effectiveness-with-the-program-analyzer.md)
->* [使用Program Analyzer瞭解計畫和渠道詳細資訊](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [克隆程式分析器](clone-a-program-analyzer.md)
-
-
 >[!NOTE]
 >
 >您可在程式分析器中選擇的許多度量都可搭配首次接觸(FT)和多點接觸(MT)計算使用。 請務必瞭解FT和MT歸因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)之間的[差異。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->進一步瞭解[Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting)和[Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics)。
+>* [比較渠道有效性與計劃分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [比較方案分析器與方案有效性](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+>* [使用Program Analyzer瞭解計畫和渠道詳細資訊](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [克隆程式分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
+
