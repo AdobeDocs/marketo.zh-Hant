@@ -3,7 +3,7 @@ unique-page-id: 7514146
 description: 歸因範例2 —— 行銷人員檔案——產品檔案
 title: 歸因範例2
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 * 4月15日 | Joan是由（網路研討會）收購的
 * 4月22日 |(Opportunity 1)以$6,000建立
 * 4月24日 |(Opportunity 2)以$10,000建立
-* 4月25日 | Bill和Joan與**BOTH **Optys的角色關聯
+* 4月25日 | Bill和Joan與&#x200B;**BOTH** Optys的角色關聯
 * 4月29日 |（機會1）是Closed-Won
 
 | 方案名稱 | （商展） | （網路研討會） |
@@ -35,7 +35,7 @@ ht-degree: 0%
 >
 >**說明**
 >
->由於Bill和Joan都與**BOTH **opportunity的角色相關聯，因此系統（根據規則）會將信用平均分配給他們。
+>由於Bill和Joan都與&#x200B;**BOTH**&#x200B;業務機會的角色關聯，因此系統（根據規則）會平均分割這些機會的信用。
 >
 >為每個方案建立的管道（8 000美元）是可以作為信用提供的總額（16 000美元）的一半。
 
@@ -47,17 +47,12 @@ ht-degree: 0%
 >1. 你不能比你掙的錢多
 >1. 你不能因為過去發生的事而自責
 
->
-
-
-
-<br> 
 
 請試用所有範例，您就是歸因專家！
 
 >[!MORELIKETHIS]
 >
->* [歸因範例1](attribution-example-1.md)
->* [歸因範例3](attribution-example-3.md)
->* [歸因範例4](attribution-example-4.md)
+>* [歸因範例1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [歸因範例3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [歸因範例4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
