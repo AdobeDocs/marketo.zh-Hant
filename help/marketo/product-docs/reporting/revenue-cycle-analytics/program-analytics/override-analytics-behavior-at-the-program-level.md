@@ -3,9 +3,9 @@ unique-page-id: 2360421
 description: 覆寫方案層級的分析行為——行銷檔案——產品檔案
 title: 在方案層級覆寫分析行為
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 覆寫程式層級{#override-analytics-behavior-at-the-program-level}的分析行為
 
-您可以在管理層級設定[渠道](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)的分析行為，但也可以在程式層級覆寫它。 以下是方法：
+您可以在管理層級設定[渠道](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)的分析行為，但您也可以在程式層級覆寫它。 以下是方法：
 
-1. 前往「行銷活動」區域。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. 在「設定」標籤下，將「Analytics行為」拖曳至畫布中。
+1. 在&#x200B;**Setup**&#x200B;標籤下，將Analytics行為拖曳至畫布中。
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. 按一下「儲存」。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
@@ -51,7 +51,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**提醒**
->
 >這些變更將會在第二天生效，而且會提供或從收入瀏覽器和分析器中取出。
-
