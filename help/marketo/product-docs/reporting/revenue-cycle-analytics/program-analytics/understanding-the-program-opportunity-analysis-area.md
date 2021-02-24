@@ -3,7 +3,7 @@ unique-page-id: 2951877
 description: 瞭解計畫機會分析領域——行銷文檔——產品文檔
 title: 瞭解計畫機會分析領域
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Program Opportunity Analysis區域允許您分析單個Programs的有效性，或查看按Program Channel列出的總結結果。
 
-**您可以使用此分析區域回答的業務問題示例包括：**
+**使用此分析區域可回答的業務問題示例包括**:
 
 有多少機會與特定計畫相關，以及我們贏得了多少機會？
 
@@ -67,11 +67,11 @@ Program Opportunity Analysis區域允許您分析單個Programs的有效性，�
   </tr> 
   <tr> 
    <td>機會成本</td> 
-   <td><p>影響機會的計畫成本部分。 如果涉及多個銷售線索，成本可能會被分攤。</p></td> 
+   <td>影響機會的計畫成本部分。 如果涉及多個銷售線索，成本可能會被分攤。</td> 
   </tr> 
   <tr> 
    <td>建立的機會</td> 
-   <td><p>方案為影響創造機會而獲得的信用部分。 如果涉及多個線索，這可能只是一小部分。</p></td> 
+   <td>方案為影響創造機會而獲得的信用部分。 如果涉及多個線索，這可能只是一小部分。</td> 
   </tr> 
   <tr> 
    <td>贏得機會</td> 
@@ -79,28 +79,28 @@ Program Opportunity Analysis區域允許您分析單個Programs的有效性，�
   </tr> 
   <tr> 
    <td>已建立管線</td> 
-   <td><p>該方案為影響機會創造而收到的信用部分（以貨幣價值計）。 如果涉及多個線索，這可能只是一小部分。</p></td> 
+   <td>該方案為影響機會創造而收到的信用部分（以貨幣價值計）。 如果涉及多個線索，這可能只是一小部分。</td> 
   </tr> 
   <tr> 
    <td>已建立管線——仍然開啟</td> 
    <td>該方案為影響創造當前開放機會而收到的信用部分（以貨幣價值計）。 如果涉及多個線索，這可能只是一小部分。</td> 
   </tr> 
   <tr> 
-   <td><p>預期收入</p></td> 
+   <td>預期收入</td> 
    <td>該方案為影響機會創造而收到的信用部分（以貨幣價值計）。 預期收入是機會概率乘以機會值。 如果涉及多個線索，這可能只是一小部分。</td> 
   </tr> 
   <tr> 
-   <td><p>收入對投資</p></td> 
-   <td><p>這是程式為影響成功機會而收到的信用部分（以貨幣價值計）與程式成本之比。</p></td> 
+   <td>收入對投資</td> 
+   <td>這是程式為影響成功機會而收到的信用部分（以貨幣價值計）與程式成本之比。</td> 
   </tr> 
   <tr> 
    <td>贏取收入</td> 
-   <td><p>該計畫為影響贏得的機會而收到的信用部分（以貨幣價值計）。 如果涉及多個線索，這可能只是一小部分。</p></td> 
+   <td>該計畫為影響贏得的機會而收到的信用部分（以貨幣價值計）。 如果涉及多個線索，這可能只是一小部分。</td> 
   </tr> 
  </tbody> 
 </table>
 
-**(FT)=首次接觸歸因，用於鉛獲取量度；(MT)=多點觸控歸因，用於銷售機會成功的度量*
+_*(FT)=首次接觸歸因，用於鉛獲取量度；(MT)=多點觸控歸因，用於銷售機會成功的度量_
 
 以下是一種方案，說明當有兩個程式產生銷售機會，但這些銷售機會導致同一帳戶中出現一個銷售機會時，如何計算Opportunity Units。
 
@@ -165,19 +165,19 @@ Marketo在不重複計算各方案的機會的情況下，適當地提供信用�
  <tbody> 
   <tr> 
    <th>類別</th> 
-   <th><p>顯示標籤</p></th> 
+   <th>顯示標籤</th> 
   </tr> 
   <tr> 
    <td>機會屬性</td> 
-   <td><p>Opportunity Closed<br> Opportunity Name*<br> Opportunity Owner Name<br> Opportunity Stage<br> Opportunity Type</p></td> 
+   <td>Opportunity Closed<br> Opportunity Name*<br> Opportunity Owner Name<br> Opportunity Stage<br> Opportunity Type</td> 
   </tr> 
   <tr> 
    <td>機會時間範圍</td> 
-   <td><p>業務機會關閉年／季/月<br>業務機會建立年／季/月</p></td> 
+   <td>業務機會關閉年／季/月<br>業務機會建立年／季/月</td> 
   </tr> 
   <tr> 
    <td>方案屬性</td> 
-   <td><p>節目頻道<br>節目名稱</p></td> 
+   <td>節目頻道<br>節目名稱</td> 
   </tr> 
   <tr> 
    <td>計畫成本時間範圍</td> 
@@ -190,4 +190,4 @@ Marketo在不重複計算各方案的機會的情況下，適當地提供信用�
 
 >[!MORELIKETHIS]
 >
->[建立收入總管報表](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[建立收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
