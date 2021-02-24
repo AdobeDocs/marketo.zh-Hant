@@ -3,7 +3,7 @@ unique-page-id: 2360341
 description: 將自訂欄位同步至收入總管——行銷檔案——產品檔案
 title: 將自訂欄位同步至收入總管
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -48,4 +48,3 @@ ht-degree: 0%
    >啟用後，資料將於次日在收入週期分析中可用。
 
    幹得好！ 現在您知道如何將自訂欄位新增至RCA。
-
