@@ -3,7 +3,7 @@ unique-page-id: 7514009
 description: 瞭解計畫收入階段分析領域——行銷檔案——產品檔案
 title: 瞭解方案收入階段分析區域
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 此分析區域可讓您分析個別程式的效能，或依通道檢視摘要結果。 它可讓您深入瞭解產生的新名稱有多少已到達您收入週期模型中的特定成功路徑階段。
 
-**您可以使用此分析區域回答的業務問題示例包括：**
+**使用此分析區域可回答的業務問題示例包括**:
 
 在我的模型中，有多少個新名稱來自某個特定程式？
 
@@ -153,4 +153,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[建立收入總管報表](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[建立收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
