@@ -3,7 +3,7 @@ unique-page-id: 7504749
 description: 匯出收入總管報表——行銷人員檔案——產品檔案
 title: 匯出收入總管報表
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -23,11 +23,9 @@ ht-degree: 0%
    >
    >您可以將報表匯出為下列三種格式：
    >
-   >    
-   >    
-   >    * PDF
-   >    * Excel
-   >    * CSV
+   >* PDF
+   >* Excel
+   >* CSV
 
 
 1. 選擇所需的&#x200B;**頁面格式**&#x200B;和&#x200B;**方向**，然後按一下&#x200B;**導出**。
@@ -38,9 +36,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [訂閱收入總管報表](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
-
+>[訂閱收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
