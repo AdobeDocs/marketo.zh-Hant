@@ -3,7 +3,7 @@ unique-page-id: 2953144
 description: 進階計畫報告概述——行銷檔案——產品檔案
 title: 進階計畫報告概述
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -27,13 +27,13 @@ ht-degree: 0%
 
 ## 方案分析區域{#program-analysis-areas}
 
-* ** [計畫成本分析](understanding-the-program-cost-analysis-area.md) **-查看您所有計畫的投資報酬率。
+* **[計畫成本分析](understanding-the-program-cost-analysis-area.md)** -查看您所有計畫的投資報酬率。
 
-* ** [方案會籍分析](understanding-the-program-membership-analysis-area.md) **-依通道、參與率、成功標準等查看結果。
+* **[方案會籍分析](understanding-the-program-membership-analysis-area.md)** -依通路、參與率、成功標準等查看結果。
 
-* ** [計畫機會分析](understanding-the-program-opportunity-analysis-area.md) **-根據分發、收入和投資回報率生成的機會。
+* **[計畫機會分析](understanding-the-program-opportunity-analysis-area.md)** -根據分發、收入和投資報酬率生成的機會。
 
-* ** [方案收入階段分析](understanding-the-program-revenue-stage-analysis-area.md) **-已在收入週期模型中達到特定成功階段的新名稱。
+* **[方案收入階段分析](understanding-the-program-revenue-stage-analysis-area.md)** -在收入週期模型內達到特定成功階段的新名稱。
 
 ## 程式分析器{#program-analyzers}
 
