@@ -3,7 +3,7 @@ unique-page-id: 12981145
 description: 設定效能分析——行銷人員檔案——產品檔案
 title: 設定效能分析
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -45,14 +45,12 @@ ht-degree: 0%
    >
    >確保所有機會都已填入適當的欄位：
    >
-   >    
-   >    
-   >    * 機會金額
-   >    * 已關閉
-   >    * Is Won
-   >    * 建立日期（在您的情況下可能無法設定）
-   >    * 關閉日期（在您的情況下可能無法設定）
-   >    * 業務機會類型
+   >* 機會金額
+   >* 已關閉
+   >* Is Won
+   >* 建立日期（在您的情況下可能無法設定）
+   >* 關閉日期（在您的情況下可能無法設定）
+   >* 業務機會類型
 
 
 ## 程式設定{#program-setup}
@@ -121,4 +119,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >所做的變更並非即時。 變更生效前需要隔夜時間。
-
