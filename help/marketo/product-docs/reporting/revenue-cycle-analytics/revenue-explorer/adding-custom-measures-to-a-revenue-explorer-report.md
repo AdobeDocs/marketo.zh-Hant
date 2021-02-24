@@ -3,7 +3,7 @@ unique-page-id: 10097747
 description: 新增自訂度量至收入總管報表——行銷檔案——產品檔案
 title: 新增自訂度量至收入總管報表
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -21,7 +21,8 @@ ht-degree: 0%
 >
 >您的報表中至少需要一個量度，但它不一定是您用來定義自訂量度的量度之一。
 
-1. 提取報表所需的欄位。 如需詳細資訊，請參閱[新增欄位至收入總管報表](adding-fields-to-a-revenue-explorer-report.md)。
+1. 提取報表所需的欄位。 如需詳細資訊，請參閱[新增欄位至收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)。
+
 1. 按一下右鍵現有度量（藍色單元格），按一下&#x200B;**用戶定義度量**&#x200B;並選擇&#x200B;**計算度量**。
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
@@ -48,9 +49,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [新增欄位至收入總管報表](adding-fields-to-a-revenue-explorer-report.md)
-
-
+   >[新增欄位至收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
