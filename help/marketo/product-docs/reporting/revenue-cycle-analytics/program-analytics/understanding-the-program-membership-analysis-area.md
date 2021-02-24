@@ -3,7 +3,7 @@ unique-page-id: 4718640
 description: 瞭解方案會籍分析領域——行銷檔案——產品檔案
 title: 瞭解方案會員分析區
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -68,4 +68,3 @@ ht-degree: 0%
 | 成功百分比（總計） | 在計畫進展中成功的銷售線索百分比 |
 | 成功（新名稱） | 在方案進展中取得成功的新姓名總數 |
 | 成功（總計） | 在計畫進展中取得成功的潛在客戶總數 |
-
