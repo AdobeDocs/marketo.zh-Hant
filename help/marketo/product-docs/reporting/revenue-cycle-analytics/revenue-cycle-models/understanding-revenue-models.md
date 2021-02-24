@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: 瞭解收入模型——行銷檔案——產品檔案
 title: 瞭解收入模型
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,11 @@ Modeler就像一系列桶，裡面裝著水。 桶底有洞。
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-請注意，這些項目都是綠色背景。 這稱為&#x200B;**成功路徑**。 進一步瞭解成功路徑[這裡](understanding-revenue-model-success-path.md)。
+請注意，這些項目都是綠色背景。 這稱為&#x200B;**成功路徑**。 進一步瞭解成功路徑[這裡](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)。
 
 **階** 段是潛在客戶進度邁向目標的里程碑。
 
-**轉場**顯示為箭頭，它們控制銷售機會在各階段之間移動的方式。
+**傳遞** 顯示為箭頭，它們控制銷售線索在各階段之間移動的方式。
 
 >[!NOTE]
 >
@@ -85,27 +85,30 @@ Gate階段適用於您想要將潛在客戶篩選為數個選擇之一的情況�
 >
 >**範例**
 >
->轉場可由銷售線索**填寫表單來定義。 **
+>轉換可由填寫表單的銷售線索來定義。
 
-以下是一些可能很有希望的連結。 （或者希望有幫助）選吧！
+在快樂的成功路徑上新增舞台
 
->[!MORELIKETHIS]
->
->[建立新的收入模型](create-a-new-revenue-model.md)
->
->[使用收入模型庫存階段](using-revenue-model-inventory-stages.md)
->
->[使用收入模型門階段](using-revenue-model-gate-stages.md)
->
->[使用收入模型SLA階段](using-revenue-model-sla-stages.md)
-
-在快樂的成功路徑上新增舞台   ![](assets/image2015-6-12-10-3a10-3a26.png)
+![](assets/image2015-6-12-10-3a10-3a26.png)
 
 Lost是一個好的新增項目，但請注意它並非位於綠色路徑上。 這是因為，它不是「成功」。
 
 >[!MORELIKETHIS]
 >
->[報告您的收入模型](report-on-your-revenue-model.md)
->
->[批准／取消批准收入模型](approve-unapprove-a-revenue-model.md)
+>* [建立新的收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+   >
+   >
+* [使用收入模型庫存階段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+   >
+   >
+* [使用收入模型門階段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+   >
+   >
+* [使用收入模型SLA階段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+   >
+   >
+* [報告您的收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+   >
+   >
+* [批准／取消批准收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
 
