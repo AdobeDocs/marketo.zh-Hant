@@ -3,7 +3,7 @@ unique-page-id: 4718651
 description: 瞭解電子郵件分析領域——行銷檔案——產品檔案
 title: 瞭解電子郵件分析區
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -16,7 +16,6 @@ ht-degree: 0%
 「電子郵件分析區域」著重於電子郵件量度。 本文將介紹其中可用的所有報表。
 
 >[!AVAILABILITY]
->
 >
 >這適用於具有「選擇版」或[收入週期分析](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)增益集的使用者。 如需詳細資訊，請洽詢您的銷售代表。
 
@@ -61,4 +60,3 @@ ht-degree: 0%
 此報表顯示您傳送電子郵件的一週中的哪一天和一天中的某一時間。 包裝盒越綠色，在特定日期和時間內傳送的電子郵件就越多。 目前的篩選條件包含過去7天內傳送的所有電子郵件。 時間在CST。
 
 ![](assets/seven.png)
-
