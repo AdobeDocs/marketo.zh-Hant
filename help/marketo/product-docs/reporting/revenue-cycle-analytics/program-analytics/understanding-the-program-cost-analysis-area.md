@@ -3,7 +3,7 @@ unique-page-id: 4718636
 description: 瞭解計畫成本分析領域——行銷檔案——產品檔案
 title: 瞭解方案成本分析領域
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -58,7 +58,7 @@ ht-degree: 0%
    <th>說明</th> 
   </tr> 
   <tr> 
-   <td><p>%新名稱</p></td> 
+   <td>%新名稱</td> 
    <td>由方案獲得的銷售機會百分比</td> 
   </tr> 
   <tr> 
@@ -104,4 +104,3 @@ ht-degree: 0%
 | 成功百分比（總計） | 在計畫進展中成功的銷售線索百分比 |
 | 成功（新名稱） | 在方案進展中取得成功的新姓名總數 |
 | 成功（總計） | 在計畫進展中取得成功的潛在客戶總數 |
-
