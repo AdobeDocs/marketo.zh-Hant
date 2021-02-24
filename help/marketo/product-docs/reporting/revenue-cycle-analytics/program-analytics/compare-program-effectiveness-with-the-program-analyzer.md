@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: 將計畫有效性與計劃分析器——行銷人員文檔——產品文檔進行比較
 title: 比較方案分析器與方案有效性
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立程式分析器](create-a-program-analyzer.md)
+>[建立程式分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-
-1. 按一下「分析」。
+1. 按一下「**Analytics**」。
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
@@ -38,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >將程式篩選為僅一個頻道的快速方式是選取「檢視>依頻道&#x200B;**」，按一下該頻道的泡泡，然後在快顯對話方塊中按一下頻道名稱。**
+   >將程式篩選為僅一個頻道的快速方式是選取「檢視&#x200B;**** > **依頻道**」，按一下該頻道的泡泡，然後在快顯對話方塊中按一下頻道名稱。
 
 1. 使用「X軸」下拉式清單來選擇水準軸的量度。 我們從計畫成本開始。
 
@@ -92,10 +91,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用Program Analyzer瞭解計畫和渠道詳細資訊](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [比較渠道有效性與計劃分析器](compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [使用Program Analyzer瞭解計畫和渠道詳細資訊](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [比較渠道有效性與計劃分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
 
-
->[!NOTE]
->
->進一步瞭解[收入週期總管](https://docs.marketo.com/display/docs/revenue+cycle+analytics)中的進階分析。
