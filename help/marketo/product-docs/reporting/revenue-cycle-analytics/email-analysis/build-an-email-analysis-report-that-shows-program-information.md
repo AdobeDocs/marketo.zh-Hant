@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: 建立顯示計畫資訊——行銷人員檔案——產品檔案的電子郵件分析報表
 title: 建立顯示方案資訊的電子郵件分析報表
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,6 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
 1. 啟動&#x200B;**收入總管**。
@@ -28,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-19-3a42-3a32.png)
 
-1. 選擇** 「電子郵件分析」**區域，然後按一下&#x200B;**確定**。
+1. 選擇&#x200B;**電子郵件分析**&#x200B;區域，然後按一下&#x200B;**確定**。
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
@@ -44,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. 尋找並按兩下** Program Channel**黃點。
+1. 查找並按兩下&#x200B;**程式通道**&#x200B;黃點。
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
@@ -59,11 +58,3 @@ ht-degree: 0%
    幹得好！ 您應該有類似下列的報表：
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)
-
-   >[!NOTE]
-   >
-   >**深入探討**
-   >
-   >
-   >想要進一步瞭解[收入週期總管](https://docs.marketo.com/display/docs/revenue+cycle+analytics)?
-
