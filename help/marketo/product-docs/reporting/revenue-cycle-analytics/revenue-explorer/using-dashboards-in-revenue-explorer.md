@@ -3,7 +3,7 @@ unique-page-id: 10094959
 description: 在收入總管——行銷檔案——產品檔案中使用控制面板
 title: 在收入總管中使用控制面板
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 若要重新命名區段，請按一下它以選取它，在「標題」下輸入所要的名稱，然後按一下**「套用」**。 對每個部分重複。
+1. 若要重新命名區段，請按一下它以選取它，在「標題」(Title)下輸入所要的名稱，然後按一下「套用」(Apply)**。**&#x200B;對每個部分重複。
 
    ![](assets/ten.png)
 
@@ -92,4 +92,3 @@ ht-degree: 0%
 1. 選取您要刪除的控制面板，然後按一下「移至垃圾筒」。****
 
    ![](assets/fifteen.png)
-
