@@ -3,7 +3,7 @@ unique-page-id: 4718677
 description: 仿製行銷人員範例收入模型——行銷人員檔案——產品檔案
 title: 仿製行銷商以示收入模型
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Marketo有範例的收入建立工具，可協助您啟發靈感。 仿製這些
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. 選擇**收入週期建模器**資料夾，然後按一下&#x200B;**Marketo Examples**。
+1. 選擇&#x200B;**收入週期建模器**&#x200B;資料夾，然後按一下&#x200B;**Marketo Examples**。
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
@@ -27,12 +27,12 @@ Marketo有範例的收入建立工具，可協助您啟發靈感。 仿製這些
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-   從「模型操作」中，選擇「克隆模型」。
+1. 在「模型操作」中，選擇「克隆模型」。****
+
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. 輸入**名稱**，然後按一下&#x200B;**CLONE**。
+1. 輸入&#x200B;**名稱**，然後按一下&#x200B;**克隆**。
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 
    如果只是產生收入就這麼簡單！
-
