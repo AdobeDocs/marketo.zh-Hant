@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: 比較渠道有效性與計劃分析器——行銷人員文檔——產品文檔
 title: 比較渠道有效性與計劃分析器
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立程式分析器](create-a-program-analyzer.md)
+>[建立程式分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-
-1. 按一下&#x200B;**My Marketo中的** Analytics **。**
+1. 按一下&#x200B;**My Marketo**&#x200B;中的&#x200B;**Analytics**。
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. 選擇&#x200B;**程式分析器。**
+1. 選擇&#x200B;**程式分析器**。
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. 將視圖更改為&#x200B;**By** **Channel**。
+1. 將「View（視圖）」更改為「By Channel（按通道）」**。**
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
@@ -62,7 +61,7 @@ ht-degree: 0%
 
    我們看到網路研討會頻道會縮小，由&#x200B;**新名稱**&#x200B;測量。 我們可以得出結論，雖然它擁有許多會員，但在創造新客源方面，它比貿易展渠道的效率更低。
 
-1. 最後，使用「顏色」下拉式清單來新增第四個維度。 讓我們選擇&#x200B;**(FT)Revenue** **Won**。
+1. 最後，使用「顏色」下拉式清單來新增第四個維度。 我們選擇&#x200B;**(FT)Revenue Won**。
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -84,13 +83,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用Program Analyzer瞭解計畫和渠道詳細資訊](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [比較方案分析器與方案有效性](compare-program-effectiveness-with-the-program-analyzer.md)
+>* [使用Program Analyzer瞭解計畫和渠道詳細資訊](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [比較方案分析器與方案有效性](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
 
->
-
-
-
->[!NOTE]
->
->進一步瞭解[收入週期總管](https://docs.marketo.com/display/docs/revenue+cycle+analytics)中的進階分析。
