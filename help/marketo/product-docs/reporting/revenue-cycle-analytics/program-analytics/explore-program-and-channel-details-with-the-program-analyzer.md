@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: 使用Program Analyzer - Marketo Docs —— 產品文檔瞭解計畫和渠道詳細資訊
 title: 使用Program Analyzer瞭解計畫和渠道詳細資訊
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立程式分析器](create-a-program-analyzer.md)
-
+>[建立程式分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >
->
 >並非所有Marketo版本都包含此功能。 如需詳細資訊，請洽詢您的客戶經理。
 
-1. 按一下&#x200B;**Analytics**。
+1. 按一下「**Analytics**」。
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -56,7 +54,3 @@ ht-degree: 0%
 1. 若要開啟「收入週期總管」以更深入地挖掘統計資料，請在快顯對話方塊中按一下該數字。
 
    ![](assets/image2015-4-28-13-3a1-3a35.png)
-
-   >[!NOTE]
-   >
-   >進一步瞭解[Revenue Explorer](https://docs.marketo.com/display/docs/revenue+explorer)中的進階分析。
