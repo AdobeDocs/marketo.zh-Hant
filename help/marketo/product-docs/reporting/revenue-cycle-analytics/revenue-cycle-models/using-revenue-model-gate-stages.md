@@ -3,7 +3,7 @@ unique-page-id: 4718670
 description: 使用收入模型登入階段——行銷檔案——產品檔案
 title: 使用收入模型門階段
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. 選擇現有模型，或[建立新模型](create-a-new-revenue-model.md)。
+1. 選擇現有模型，或[建立新模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)。
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. 按一下「編輯」「******草稿」。**
+1. 按一下「編輯草稿&#x200B;**」。**
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. 編輯**名稱**並選擇&#x200B;**類型**。
+1. 編輯&#x200B;**名稱**&#x200B;並選擇&#x200B;**類型**。
 
    >[!NOTE]
    >
-   >此時選擇[「開始依帳戶追蹤」](start-tracking-by-account-in-the-revenue-modeler.md)，以深入瞭解帳戶在模型中進行時的效能。
+   >此時選擇[「開始依帳戶追蹤」](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)，以深入瞭解帳戶在模型中進行時的效能。
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 編輯門級{#edit-a-gate-stage}
 
-編輯「名稱」(Name)、「說明」(Description)，並調整「門」(Gate)舞台的「類型」(Type)。 您也可以選擇[「依帳戶開始追蹤」](start-tracking-by-account-in-the-revenue-modeler.md)。
+編輯「名稱」(Name)、「說明」(Description)，並調整「門」(Gate)舞台的「類型」(Type)。 您也可以選擇[「依帳戶開始追蹤」](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)。
 
 1. 按一下&#x200B;**Gate**&#x200B;階段表徵圖。
 
@@ -83,11 +83,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用收入模型庫存階段](using-revenue-model-inventory-stages.md)
->* [使用收入模型SLA階段](using-revenue-model-sla-stages.md)
->* [建立新的收入模型](create-a-new-revenue-model.md)。
-
->
-
-
+>* [使用收入模型庫存階段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [使用收入模型SLA階段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [建立新的收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)。
 
