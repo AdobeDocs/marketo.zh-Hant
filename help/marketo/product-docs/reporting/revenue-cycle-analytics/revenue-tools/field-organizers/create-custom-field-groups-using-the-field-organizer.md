@@ -3,7 +3,7 @@ unique-page-id: 10094404
 description: 使用Field Organizer - Marketo Docs —— 產品檔案建立自訂欄位群組
 title: 使用欄位管理器建立自訂欄位群組
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '992'
 ht-degree: 0%
@@ -88,7 +88,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >定義群組後，您可以透過Marketo Lead Management中的「收入週期分析」標籤，在Model Performance Analysis(Lead)中啟用自訂欄位群組以進行報告。
+   >定義群組後，您可以透過Marketo Lead Management中的「收入週期分析」標籤，在Model Performance Analysis(Leads)中啟用自訂欄位群組以進行報告。
 
 ## 建立自訂欄位群組——整數編輯器{#create-custom-field-group-integer-editor}
 
@@ -142,7 +142,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >定義群組後，您可以透過Marketo Lead Management中的「收入週期分析」標籤，在Model Performance Analysis(Lead)中啟用自訂欄位群組以進行報告。
+   >定義群組後，您可以透過Marketo Lead Management中的「收入週期分析」標籤，在Model Performance Analysis(Leads)中啟用自訂欄位群組以進行報告。
 
 ## 建立自訂欄位群組——日期編輯器{#create-custom-field-group-date-editor}
 
@@ -180,8 +180,8 @@ ht-degree: 0%
    >
    >您最多可以新增10個子群組來分類資料值。 每個「群組範圍」項目都建立在上一個項目之上。 如果您為最後建立的自訂子群組保留最後一個「群組範圍」項目空白，則不會設定結束日期值。
 
+   以下範例顯示2015年第1季到第3季的銷售機會項目。
+
    ![](assets/16.5.png)
 
    就這樣！ 幹得好。
-
-以下範例顯示2015年第1季到第3季的銷售機會項目。
