@@ -3,7 +3,7 @@ unique-page-id: 7504047
 description: 建立收入總管報表——行銷檔案——產品檔案
 title: 建立收入總管報表
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -17,10 +17,9 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->
 >並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
 
-1. 前往**收入總管**區域。
+1. 前往&#x200B;**收入總管**&#x200B;區域。
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
@@ -38,10 +37,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [新增欄位至收入總管報表](adding-fields-to-a-revenue-explorer-report.md)
->* [新增自訂度量至收入總管報表](adding-custom-measures-to-a-revenue-explorer-report.md)
-
->
-
-
-
+>[新增欄位至收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>[新增自訂度量至收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
