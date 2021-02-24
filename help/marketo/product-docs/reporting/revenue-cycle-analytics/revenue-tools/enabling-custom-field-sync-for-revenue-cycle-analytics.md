@@ -3,7 +3,7 @@ unique-page-id: 3571888
 description: 啟用收入週期分析的自訂欄位同步——行銷檔案——產品檔案
 title: 啟用收入週期分析的自訂欄位同步
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -40,4 +40,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >啟用欄位後，資料將於次日在收入週期分析中可用。
-
