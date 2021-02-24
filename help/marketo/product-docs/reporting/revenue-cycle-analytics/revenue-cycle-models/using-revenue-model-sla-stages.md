@@ -3,9 +3,9 @@ unique-page-id: 4718668
 description: 使用收入模型SLA階段——行銷文檔——產品文檔
 title: 使用收入模型SLA階段
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ SLA代表「服務級別協定」。 當存在定義的最大時間時，在前�
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. 在「分析」區段中，選取您現有的模型，或[建立新的模型](create-a-new-revenue-model.md)。
+1. 在「分析」區段中，選取您現有的模型，或[建立新的模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)。
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
@@ -37,13 +37,13 @@ SLA代表「服務級別協定」。 當存在定義的最大時間時，在前�
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. 您可以自由編輯&#x200B;**名稱**、新增&#x200B;**說明**，並在新增舞台後調整&#x200B;**類型**。 您目前也可以選取「依帳戶開始追蹤」** [](start-tracking-by-account-in-the-revenue-modeler.md)**。
+1. 您可以自由編輯&#x200B;**名稱**、新增&#x200B;**說明**，並在新增舞台後調整&#x200B;**類型**。 您目前也可以選取「依帳戶開始追蹤」**[。](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)**
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
 ## 編輯SLA階段{#edit-an-sla-stage}
 
-選擇SLA階段表徵圖時，可以編輯「名稱」、添加「說明」並調整「類型」。 您也可以選擇[「開始依帳戶追蹤」](start-tracking-by-account-in-the-revenue-modeler.md)。
+選擇SLA階段表徵圖時，可以編輯「名稱」、添加「說明」並調整「類型」。 您也可以選擇[「開始依帳戶追蹤」](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)。
 
 1. 按一下SLA階段表徵圖。
 
@@ -59,11 +59,10 @@ SLA代表「服務級別協定」。 當存在定義的最大時間時，在前�
 
 ## 刪除SLA階段{#delete-an-sla-stage}
 
-1. 您可以通過按一下右鍵或控制按一下SLA階段表徵圖來刪除SLA階段。
+1. 您可以通過按一下右鍵或按住Control按一下SLA階段表徵圖來刪除SLA階段。
 
    ![](assets/image2015-4-27-16-3a2-3a47.png)
 
 1. 您也可以按一下舞台來刪除舞台，然後在「舞台動作」下拉式清單中選取「刪除」。
 
    ![](assets/image2015-4-27-17-3a20-3a41.png)
-
