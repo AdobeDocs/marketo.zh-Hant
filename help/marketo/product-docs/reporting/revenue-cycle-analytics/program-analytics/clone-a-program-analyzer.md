@@ -3,7 +3,7 @@ unique-page-id: 11383877
 description: 克隆程式分析器——行銷文檔——產品文檔
 title: 克隆程式分析器
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 保存分析器後，可輕鬆克隆它以建立新分析器。 然後，如果需要任何變更，請進入並編輯新的變更。
 
-1. 按一下**Analytics **tile。
+1. 按一下「**Analytics**」方塊。
 
    ![](assets/2017-05-01-08-20-37.png)
 
@@ -41,9 +41,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [建立程式分析器](create-a-program-analyzer.md)
-
-
+   >[建立程式分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
