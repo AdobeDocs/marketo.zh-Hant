@@ -3,7 +3,7 @@ unique-page-id: 6095029
 description: 在「收入模型——行銷人員檔案——產品檔案」中設定Google AdWords轉換
 title: 在收入模型中設定Google AdWords轉換
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這是從Marketo到Google AdWords的推播整合。 轉換資料只會在您的Google AdWords入口網站中&#x200B;*顯示*，而不會在Marketo UI中顯示**。**
+>這是從Marketo到Google AdWords的推播整合。 轉換資料只會在您的Google AdWords入口網站中顯示&#x200B;__，而不會在Marketo UI _中顯示。_
 
-進一步瞭解[Google的離線轉換匯入功能](https://support.google.com/adwords/answer/2998031?hl=en)。  將AdWords離線轉換對應至收入模型中的一或多個階段。 有三種方法可執行對應：
+進一步瞭解[Google的離線轉換匯入功能](https://support.google.com/adwords/answer/2998031?hl=en)。 將AdWords離線轉換對應至收入模型中的一或多個階段。 有三種方法可執行對應：
 
 * AdWords轉換
 * 舞台動作
@@ -29,11 +29,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [將Google AdWords新增為LaunchPoint服務](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-
->
-
-
+>[將Google AdWords新增為LaunchPoint服務](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
 ## 使用AdWords轉換{#use-adwords-conversion}
 
