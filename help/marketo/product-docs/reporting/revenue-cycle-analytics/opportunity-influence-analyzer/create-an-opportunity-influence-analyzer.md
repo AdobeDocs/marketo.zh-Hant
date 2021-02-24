@@ -3,9 +3,9 @@ unique-page-id: 2360235
 description: 建立機會影響分析器——行銷檔案——產品檔案
 title: 建立機會影響分析器
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,6 @@ ht-degree: 0%
 使用Opportunity Influce Analyzer來顯示行銷對重要交易的貢獻。 在機會的生活中，查看您的計畫和活動成功案例以及有趣的時刻。
 
 >[!NOTE]
->
->**提醒**
 >
 >要從Opportunity Influction Analyzer獲得好的英特爾，請確保您的聯繫人與CRM中的機會相連。
 
@@ -64,16 +62,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用Opportunity Inflection Analyzer講述行銷故事](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [配置Opportunity Effence Analyzer](configure-an-opportunity-influence-analyzer.md)
-
->
-
-
-
->[!NOTE]
->
->**深入探討**
->
->如需其他分析器，請參閱[基本報表](https://docs.marketo.com/display/docs/basic+reporting)。
+>* [使用Opportunity Inflection Analyzer講述行銷故事](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [配置Opportunity Effence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
 
