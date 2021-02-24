@@ -3,9 +3,9 @@ unique-page-id: 12979012
 description: 效能分析的篩選——行銷檔案——產品檔案
 title: 效能分析中的篩選
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->目前，「自訂屬性」僅適用於已啟用[RCA](https://docs.marketo.com/x/lwIk)的客戶。
+>目前，「自訂屬性」僅適用於啟用「收入週期分析」的客戶。
 
 按一下類別可顯示多個子類別。
 
@@ -57,7 +57,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>自訂屬性</strong></td> 
-   <td colspan="1"><p>這些由您決定。 您為業務機會分析啟用的<a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">所有欄位都可以在「效能分析」中篩選。</a></p></td> 
+   <td colspan="1"><p>這些由您決定。 您為業務機會分析啟用的<a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">所有欄位都可以在「效能分析」中篩選。</a></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>投資期</strong></p></td> 
@@ -69,11 +69,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><p><strong>方案標籤</strong></p></td> 
-   <td><p>標籤用於描述程式。 您可以視需要製作任意數量的影像，每個影像都具有獨特的值。 <a href="https://docs.marketo.com/display/public/DOCS/Tags" rel="nofollow">在這裡瞭解如何使用程式標籤。</a></p></td> 
+   <td><p>標籤用於描述程式。 您可以視需要製作任意數量的影像，每個影像都具有獨特的值。 <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">在這裡瞭解如何使用程式標籤。</a></p></td> 
   </tr> 
   <tr> 
    <td><strong>工作區</strong></td> 
-   <td><p>工作區是Marketo中持有行銷資產的個別區域，例如：程式、登陸頁面、電子郵件等。 <a href="https://docs.marketo.com/display/public/DOCS/Understanding+Workspaces+and+Person+Partitions" rel="nofollow">在這裡進一步瞭解工作區。</a></p></td> 
+   <td><p>工作區是Marketo中持有行銷資產的個別區域，例如：程式、登陸頁面、電子郵件等。 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">在這裡進一步瞭解工作區。</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -81,4 +81,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >在「參與」控制面板中，只有程式標籤和工作區篩選器可用。
-
