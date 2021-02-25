@@ -3,7 +3,7 @@ unique-page-id: 17727499
 description: 網頁個人化中的工作區——行銷檔案——產品檔案
 title: Web個人化中的工作區
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -35,5 +35,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->使用者只能查看與他們有權存取的工作區相關聯的Web促銷活動和區段。 以下說明如何[讓使用者存取一或多個工作區](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)。
-
+>使用者只能查看與他們有權存取的工作區相關聯的Web促銷活動和區段。 以下說明如何[讓使用者存取一或多個工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)。
