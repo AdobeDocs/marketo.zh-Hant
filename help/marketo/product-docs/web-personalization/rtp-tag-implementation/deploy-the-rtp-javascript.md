@@ -3,9 +3,9 @@ unique-page-id: 4719332
 description: 部署RTP JavaScript —— 行銷檔案——產品檔案
 title: 部署RTP JavaScript
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. 在&#x200B;**域**&#x200B;和&#x200B;**域配置**&#x200B;中，找到相關域並按一下&#x200B;**生成標籤。**
+1. 在&#x200B;**域**&#x200B;和&#x200B;**域配置**&#x200B;中，找到相關域並按一下&#x200B;**生成標籤**。
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
@@ -42,8 +42,3 @@ ht-degree: 0%
    您現在已使用RTP標籤設定，並準備開始建立區段[和即時促銷活動！](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
 
 1. 驗證標籤是否位於所有頁面上。
-
->[!MORELIKETHIS]
->
->* [RTP標籤實現](https://docs.marketo.com/display/docs/rtp+tag+implementation)
-
