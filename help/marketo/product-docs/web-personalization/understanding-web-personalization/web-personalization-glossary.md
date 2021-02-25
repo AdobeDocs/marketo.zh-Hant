@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: 網頁個人化辭彙表——行銷檔案——產品檔案
 title: Web個人化辭彙表
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Marketon Web Personalization的世界與語言見解。
 | **ISP** | 網際網路服務供應商 |
 | **已知訪客** | 已填妥表單並將其詳細資訊（電子郵件地址）留在您網站或點選行銷人員電子郵件中連結的網頁訪客。 |
 | **帳戶清單** | 主要帳戶／組織名稱的清單。 也稱為帳戶型行銷(ABM)清單。 |
-| **區段** | 符合[「設定區段」頁面](../../../product-docs/web-personalization/using-web-segments/web-segments.md)中定義之指定條件的訪客集合。 |
+| **區段** | 符合[「設定區段」頁面](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)中定義之指定條件的訪客集合。 |
 | **分割測試** | 使用兩種或多種變體進行測試實驗，以測量結果的差異。 其目標是識別對網頁所做的變更，以增加或最大化感興趣的結果。 |
 | **萬用字元** | 字串之前或之後使用的萬用字元(*)，以取代字串中的任何其他字元。 請參閱下列範例。 |
 
@@ -42,4 +42,3 @@ Marketon Web Personalization的世界與語言見解。
 比對頁面URL上包含字詞備份的所有訪客(例如[https://www.marketo.com/backup/pricing.html):](https://www.marketo.com/backup/pricing.html):)
 
 ![](assets/wildcard-example-3.png)
-
