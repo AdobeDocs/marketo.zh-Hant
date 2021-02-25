@@ -3,7 +3,7 @@ unique-page-id: 10096420
 description: 銷售智慧——行銷人員檔案——產品檔案
 title: 銷售智慧
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -31,5 +31,4 @@ Marketo Web Personalization提供有關匿名和已知造訪您網站的網站�
 
 >[!MORELIKETHIS]
 >
->* [電子郵件報表](email-reports.md)
-
+>[電子郵件報表](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
