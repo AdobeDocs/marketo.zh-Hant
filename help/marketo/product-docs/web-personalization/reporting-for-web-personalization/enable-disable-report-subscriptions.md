@@ -3,7 +3,7 @@ unique-page-id: 2949162
 description: 啟用／停用報表訂閱——行銷人員檔案——產品檔案
 title: 啟用／停用報表訂閱
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -24,4 +24,3 @@ Web Personalization有幾份有用的報表，會透過電子郵件傳送。 以
    ![](assets/email-settings.png)
 
    就這樣！ 若要取消訂閱報表，只要取消勾選並按一下「儲存&#x200B;**」。**
-
