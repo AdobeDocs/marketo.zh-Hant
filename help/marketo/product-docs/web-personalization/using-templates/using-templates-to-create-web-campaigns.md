@@ -3,9 +3,9 @@ unique-page-id: 2949168
 description: 使用範本建立Web促銷活動——行銷檔案——產品檔案
 title: 使用範本建立Web促銷活動
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >針對所有裝置最佳化範本，並針對桌上型電腦和行動裝置提供瀏覽體驗。
 
-1. 前往「Web促銷活動」。
+1. 前往&#x200B;**Web促銷活動**。
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. 按一下「建立新的Web促銷活動」。
+1. 按一下「建立新的Web促銷活動」**。**
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -35,15 +35,13 @@ ht-degree: 0%
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. 按一下「範本」。
+1. 按一下&#x200B;**Templates**。
 
    ![](assets/templates.png)
 
 1. 選取適合您促銷活動的區域，以檢視並選取適合您的範本。
 
    >[!NOTE]
-   >
-   >**提醒**
    >
    >有一些酷炫的範本可供選擇，我們將來會新增更多範本。
 
@@ -57,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/customize-template.jpg)
 
-1. 按一下「儲存」。
+1. 按一下&#x200B;**保存**。
 
    ![](assets/click-save-hand.jpg)
 
@@ -65,9 +63,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [將促銷活動儲存為範本](save-your-campaign-as-a-template.md)
-
->
-
-
-
+>[將促銷活動儲存為範本](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
