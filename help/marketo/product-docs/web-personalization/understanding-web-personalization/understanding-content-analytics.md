@@ -3,7 +3,7 @@ unique-page-id: 10093159
 description: 瞭解內容分析——行銷檔案——產品檔案
 title: 瞭解內容分析
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -100,6 +100,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [啟用內容建議列](../../../product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
->* [為網頁豐富式媒體啟用預測式內容](../../../product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>* [啟用內容建議列](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+>* [為網頁豐富式媒體啟用預測式內容](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
