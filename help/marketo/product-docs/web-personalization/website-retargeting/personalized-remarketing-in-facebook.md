@@ -3,7 +3,7 @@ unique-page-id: 4720917
 description: Facebook的個人化再行銷——行銷檔案——產品檔案
 title: Facebook中的個人化再行銷
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -17,16 +17,14 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 完成[使用Web個人化資料重新定位](retargeting-with-web-personalization-data.md)設定
->* 檢視「自訂對象」和「再行銷」的[](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)[Facebook檔案](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)
-
->
-
+>* 完成[使用Web個人化資料重新定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)設定
+>* 檢視「自訂對象」和「再行銷」的[](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)[Facebook檔案。](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)
 
 
 ## 在Facebook中建立對象{#creating-an-audience-in-facebook}
 
 1. 在Facebook中，前往「廣告管理員」中的「對象」標籤[。](https://www.facebook.com/ads/audience_manager)
+
 1. 按一下「工具」**並選取「對象」**。****
 
    ![](assets/one-1.png)
@@ -39,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. 在「網站流量」清單中，選取**自訂組合**。
+1. 在「網站流量」清單中，選取「自訂組合」**。**
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
@@ -47,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. 在「事件」清單中，選擇**RTP Remarketing **並選擇參數。
+1. 在「事件」清單中，選擇&#x200B;**RTP Remarketing**&#x200B;並選擇參數。
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
@@ -132,10 +130,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用網頁個人化資料重新鎖定目標](retargeting-with-web-personalization-data.md)
->* [Google的個性化再營銷](personalized-remarketing-in-google.md)
-
->
-
-
+>* [使用網頁個人化資料重新鎖定目標](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Google的個性化再營銷](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 
