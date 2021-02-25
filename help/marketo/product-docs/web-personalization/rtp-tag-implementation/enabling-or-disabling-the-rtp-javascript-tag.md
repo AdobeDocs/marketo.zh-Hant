@@ -3,7 +3,7 @@ unique-page-id: 10097163
 description: 啟用或停用RTP JavaScript標籤——行銷檔案——產品檔案
 title: 啟用或禁用RTP JavaScript標籤
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -34,4 +34,3 @@ RTP JavaScript標籤控制Web Personalization是否追蹤Web活動，或在您�
 1. 要啟用RTP標籤，請在「域和域配置」的「標籤」下，選擇&#x200B;**On**&#x200B;切換。
 
    輕鬆。
-
