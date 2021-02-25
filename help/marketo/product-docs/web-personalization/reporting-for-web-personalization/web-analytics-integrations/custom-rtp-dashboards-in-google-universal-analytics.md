@@ -3,9 +3,9 @@ unique-page-id: 7504238
 description: Google Universal Analytics中的自訂RTP儀表板——行銷檔案——產品檔案
 title: Google Universal Analytics中的自訂RTP儀表板
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[將RTP與Google Universal Analytics整合](integrate-rtp-with-google-universal-analytics.md)
+>[將RTP與Google Universal Analytics整合](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-此貼文說明如何在Google Universal Analytics(GUA)中設定RTP儀表板。  從RTP傳送至GUA的資料可以設定為兩個獨立的自訂控制面板，稱為：
+此貼文說明如何在Google Universal Analytics(GUA)中設定RTP儀表板。 從RTP傳送至GUA的資料可以設定為兩個獨立的自訂控制面板，稱為：
 
 * RTP B2B
 * RTP參與
 
 ## 設定自訂控制面板{#setting-up-a-custom-dashboard}
 
-1. 登入Google Analytics。 按一下頂端功能表中的**Reporting **。 按一下「**控制面板**」和「**+新增自訂控制面板」。**
+1. 登入Google Analytics。 按一下頂部菜單中的&#x200B;**報告**。 按一下「**控制面板**&#x200B;和&#x200B;**+新自訂控制面板**」。
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
 1. 選擇&#x200B;**空白畫布**，新增&#x200B;**控制面板名稱**，然後按一下「建立控制面板&#x200B;**」。**
 
-1. 按一下「新增介面工具集」，以建立新介面工具集。****\
+1. 按一下「新增介面工具集」，以建立新介面工具集。****
+
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
 ## RTP B2B儀表板{#rtp-b-b-dashboard}
@@ -45,7 +46,7 @@ ht-degree: 0%
 * 區段
 * Firmographic向下切入
 
-1. 建立名為**RTP B2B Dashboard **的新控制面板，並定義下列Widget:
+1. 建立名為&#x200B;**RTP B2B儀表板**&#x200B;的新儀表板，並定義以下Widget:
 
 ![](assets/image2015-3-22-16-3a50-3a3.png)
 
@@ -54,7 +55,7 @@ ht-degree: 0%
   <tr> 
    <th> 
     <div>
-      欄1 —— 流量來源 
+      欄1 —— 流量來源
     </div></th> 
    <th> 
     <div> <strong>欄2 —— 區段</strong> 
@@ -151,11 +152,9 @@ ht-degree: 0%
 
 此控制面板可讓使用者分析其RTP促銷活動效能和建議引擎參與。 它提供平均值的比較 會話持續時間和每個會話的頁數介於：
 
-* 
-
-   * 未參與
-   * 參與（個人化促銷活動的曝光和點按）
-   * 點按建議引擎和主要建議內容
+* 未參與
+* 參與（個人化促銷活動的曝光和點按）
+* 點按建議引擎和主要建議內容
 
 建立名為&#x200B;**RTP參與儀表板**&#x200B;的新儀表板，並定義下列Widget:
 
@@ -265,7 +264,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[將RTP與Google Universal Analytics整合](integrate-rtp-with-google-universal-analytics.md)
+>[將RTP與Google Universal Analytics整合](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
 >
->[Google Universal Analytics中的自訂RTP報表](custom-rtp-reports-in-google-universal-analytics.md)
-
+>[Google Universal Analytics中的自訂RTP報表](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
