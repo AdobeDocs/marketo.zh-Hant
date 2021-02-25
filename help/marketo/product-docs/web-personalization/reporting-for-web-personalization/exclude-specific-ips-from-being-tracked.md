@@ -3,7 +3,7 @@ unique-page-id: 4719340
 description: 排除特定IP不受追蹤——行銷人員檔案——產品檔案
 title: 排除特定IP以不進行追蹤
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -42,4 +42,3 @@ ht-degree: 0%
    ![](assets/exclude-ips-after.png)
 
    你看到這有多簡單嗎？ 現在，您可以從新增的IP中排除所有資料，不論是個別或依範圍。
-
