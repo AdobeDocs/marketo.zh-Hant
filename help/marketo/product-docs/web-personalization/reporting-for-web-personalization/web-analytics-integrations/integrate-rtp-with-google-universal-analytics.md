@@ -3,9 +3,9 @@ unique-page-id: 4720125
 description: 將RTP與Google Universal Analytics整合——行銷檔案——產品檔案
 title: 將RTP與Google Universal Analytics整合
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -25,18 +25,15 @@ Google Universal Analytics搭配RTP的資料，讓您更瞭解B2B使用者如何
 
 >[!NOTE]
 >
->**`For Google Tag Manager Users Only`**
+>**僅限Google標籤管理員使用者**
 >
 >不需要進行編碼或特殊配置。 請確定您已完成下列檢查清單：
 >
->* `RTP dimensions are created in Google Universal Analytics`
+>* RTP維度是在Google Universal Analytics中建立
 >* [RTP標籤已正確安裝在Google標籤管理器中](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
->* `Google Universal Analytics Integration is enabled in the RTP's Account Settings`
+>* RTP的「帳戶設定」中啟用了Google Universal Analytics整合
 >* [Google Universal Analytics標籤已在Google標籤管理器中正確設定](https://support.google.com/tagmanager/answer/6107124?hl=en)
 >* [您的網站已正確安裝Google Tag Manager標籤](https://developers.google.com/tag-manager/quickstart)
-
->
-
 
 
 ## 在GUA {#set-up-custom-dimensions-in-gua}中設定自訂維度
@@ -46,8 +43,7 @@ Google Universal Analytics搭配RTP的資料，讓您更瞭解B2B使用者如何
    1. 前往&#x200B;**Admin**
    1. 選擇&#x200B;**帳戶。**
    1. 選擇&#x200B;**屬性。**
-   1. 選擇**自訂定義**和&#x200B;**自訂維度。**
-
+   1. 選擇&#x200B;**自訂定義**&#x200B;和&#x200B;**自訂維度**。
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. 新增自訂維度。 按一下「**+新建自訂維度**」
@@ -90,7 +86,7 @@ Google Universal Analytics搭配RTP的資料，讓您更瞭解B2B使用者如何
 >
 >**自訂維** 度名稱必須與上表中的定義完全相同（否則，GUA中的自訂RTP控制面板和報表無法正確顯示）
 
-1. 新增**名稱。 **將範圍選為&#x200B;**會話。** 按一下 **建立。**
+1. 添加&#x200B;**名稱**。 選擇範圍作為&#x200B;**會話**。 按一下&#x200B;**建立**。
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
@@ -106,8 +102,8 @@ Google Universal Analytics搭配RTP的資料，讓您更瞭解B2B使用者如何
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. 在「**帳戶設定**」下方，按一下「**網域」。**
-1. 在**Analytics下，**按一下&#x200B;**Google Universal Analytics**。
+1. 在「**帳戶設定**」下，按一下「**網域**」。
+1. 在「**Analytics**」下方，按一下「Google Universal Analytics **」。**
 1. 開啟&#x200B;****&#x200B;相關的自訂維度和事件，將此資料從RTP附加至Google Universal Analytics。
 1. 在GUA中輸入與索引編號對齊的維的&#x200B;**索引編號**。
 1. 按一下&#x200B;**保存**。
@@ -124,8 +120,7 @@ Google Universal Analytics搭配RTP的資料，讓您更瞭解B2B使用者如何
 
 1. 在Google Analytics中。 轉至&#x200B;**報告。**
 1. 按一下&#x200B;**儀表板。**
-1. 選擇**儀表板**（RTP B2B或RTP效能）
+1. 選擇&#x200B;**儀表板**（RTP B2B或RTP效能）
 1. 按一下「刪除控制面板」。****
 
 ![](assets/image2014-11-29-11-3a42-3a55.png)
-
