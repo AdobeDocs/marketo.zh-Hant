@@ -3,7 +3,7 @@ unique-page-id: 2949160
 description: 與Adobe Analytics整合——行銷檔案——產品檔案
 title: 與Adobe Analytics整合
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -64,40 +64,40 @@ Adobe Analytics可以根據組織、產業和RTP區段資料建立不同的行�
 
 1. 前往您AA帳戶中的&#x200B;**管理工具**。
 1. 選擇要與整合一起使用的&#x200B;**報表套裝**。
-1. 在&#x200B;**編輯設定下，**&#x200B;移至&#x200B;**轉換**&#x200B;並選取** [轉換變數](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**。\
+1. 在&#x200B;**編輯設定**&#x200B;下，轉至&#x200B;**轉換**&#x200B;並選擇&#x200B;**[轉換變數](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**。\
    選擇[轉換變數](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar)數字（我們建議）:
 
-   1. 
+   1. 業界自訂轉換的Evar # 20
+   1. 組織自訂轉換的Evar # 21
 
-      1. 業界自訂轉換的Evar # 20
-      1. 組織自訂轉換的Evar # 21
+   >[!NOTE]
+   >
+   >如果取得這些#，請選取其他可用編號。 將此編號與「RTP帳戶設定」中的插槽編號對齊。
 
-         >[!NOTE]
-         >
-         >如果取得這些#，請選取其他可用編號。 將此編號與「RTP帳戶設定」中的插槽編號對齊。
+   1. 將狀態更改為&#x200B;_Enabled_。
 
-      1. 將狀態變更為*啟用*
+      1. 將「名稱」更改為&#x200B;**Industry**&#x200B;和&#x200B;**Organization**。 （這是報表套裝中的顯示方式。）
 
-         1. 將「名稱」更改為&#x200B;**Industry**&#x200B;和&#x200B;**Organization**。 （這是報表套裝中的顯示方式。）
+      1. 將「過期時間」欄位變更為&#x200B;**Visit**。
 
-         1. 將「過期時間」欄位變更為「瀏覽」。****
 
-1. 在「**編輯設定&#x200B;**」下，移至「轉換** a2/>」，並選取「** [成功事件](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**」。**
+1. 在&#x200B;**編輯設定**&#x200B;下，轉至&#x200B;**轉換**&#x200B;並選擇&#x200B;**[成功事件](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**。
 
-1. 選取自訂成功事件事件編號（我們建議）:
+   1. 選取自訂成功事件事件編號（我們建議）:
 
-   1. event20 for RTP Campaigns
-   1. RTP段的event21
+      1. event20 for RTP Campaigns
+      1. RTP段的event21
 
       >[!NOTE]
       >
       >如果取得這些#，請選取其他可用編號。 將此編號與「RTP帳戶設定」中的插槽編號對齊。
 
-   1. 將兩個事件名稱更改為&#x200B;**RTP促銷活動**&#x200B;和&#x200B;**RTP段**。 此名稱將會出現在報表套裝中。
+      1. 將兩個事件名稱更改為&#x200B;**RTP促銷活動**&#x200B;和&#x200B;**RTP段**。 此名稱將會出現在報表套裝中。
+   1. 選擇「類型」欄位為&#x200B;**計數器（無子關聯）**
 
-1. 選擇類型* *欄位為&#x200B;**計數器（無子關聯）**
 
-1. 在&#x200B;**編輯設定**&#x200B;下，轉至** [流量](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **並選擇** [流量變數](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**。
+
+1. 在&#x200B;**編輯設定**&#x200B;下，轉至&#x200B;**[流量](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)**&#x200B;並選擇&#x200B;**[流量變數](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**。
 
    1. 選取流量變數屬性#（我們建議）:
 
@@ -106,13 +106,16 @@ Adobe Analytics可以根據組織、產業和RTP區段資料建立不同的行�
       1. 屬性編號25 —— 名稱：促銷活動組織
       1. 屬性編號26 —— 名稱：RTP Campaign產業
 
-         >[!NOTE]
-         >
-         >如果取得這些#，請選取其他可用編號。 將此編號與RTP帳戶設定中的插槽編號對齊)
+      >[!NOTE]
+      >
+      >如果取得這些#，請選取其他可用編號。 將此編號與RTP帳戶設定中的插槽編號對齊)
 
       1. 變更4個屬性名稱。 此名稱將會出現在報表套裝中。
-   1. 選擇「啟用」欄位至&#x200B;**Enabled**
-   1. 選擇路徑報表欄位至&#x200B;**啟用**
+   1. 選擇「啟用」欄位至&#x200B;**Enabled**。
+
+   1. 選擇路徑報告欄位至&#x200B;**Enabled**。
+
+
 
 
 ## 在Marketo Real-Time Personalization(RTP)中設定{#set-up-in-marketo-real-time-personalization-rtp}
@@ -123,9 +126,9 @@ Adobe Analytics可以根據組織、產業和RTP區段資料建立不同的行�
 
 1. 在「**帳戶設定**」下，按一下「**網域**」。
 1. 在「**Analytics」下方，按一下「** **Adobe Analytics**」。
-1. 開啟**On **轉換、自訂和流量變數切換。
+1. 開啟&#x200B;****&#x200B;轉換、自訂和流量變數切換。
 1. 指派轉換、事件和流量變數&#x200B;**槽號**，以符合AA中建立的槽號
-1. 按一下&#x200B;**SAVE**。
+1. 按一下&#x200B;**保存**。
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 
@@ -169,13 +172,11 @@ AA中自訂報表和控制面板的範例包括：
 * 依組織檢視的頁面
 * 依組織、產業、區段的行銷渠道績效
 
-**報表範例**
+**-報表範例-**
 
 **熱門產業報告**
 
-** ![](assets/top-industries-report.png)
-
-**
+![](assets/top-industries-report.png)
 
 **組織報表**
 
@@ -185,39 +186,47 @@ AA中自訂報表和控制面板的範例包括：
 
 建立名為&#x200B;**RTP儀表板**&#x200B;的新儀表板[。 ](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)此控制面板將協助您瞭解依垂直產業和RTP區段劃分的訪客。
 
-1. 按一下「**控制面板」,**&#x200B;按一下**「新增控制面板」**
+1. 按一下「**控制面板」，按一下「**&#x200B;新增控制面板」。****
 
-1. 命名儀表板&#x200B;**RTP儀表板**
-1. 選擇&#x200B;**控制面板大小** 3 x 2、2 x 2
-1. 建立[reportlet](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3)並新增[內容至控制面板](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
+1. 為儀表板&#x200B;**RTP儀表板**&#x200B;命名。
+
+1. 選擇&#x200B;**控制面板大小** 3 x 2、2 x 2。
+
+1. 建立[reportlet](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3)，並新增[內容至控制面板](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)。
 
 新增產業報表至控制面板
 
-1. 前往「自訂轉換&#x200B;****」，按一下「**產業**」
+1. 前往「自訂轉換」**，按一下「**&#x200B;產業&#x200B;**」。**
 
-1. 將圖形配置為&#x200B;**圓形圖**
-1. 按一下&#x200B;**儀表板**，新增&#x200B;**小報告**
+1. 將圖形配置為&#x200B;**圓形圖**。
 
-1. 將報表命名為&#x200B;**熱門產業**
-1. 位於儀表板&#x200B;**RTP儀表板**
+1. 按一下&#x200B;**儀表板**，新增&#x200B;**Reportlet**。
+
+1. 將報表命名為&#x200B;**Top Industries**。
+
+1. 放在儀表板&#x200B;**RTP儀表板**&#x200B;中。
+
 1. 建立&#x200B;**新建**。
 
 新增區段小報表至控制面板
 
-1. 前往**網站量度， **按一下&#x200B;**自訂事件，區段**
+1. 前往&#x200B;**網站量度**。 按一下「**自訂事件**、**區段**」。
 
-1. 將圖形配置為&#x200B;**垂直條**
-1. 按一下&#x200B;**儀表板**，新增&#x200B;**小報告**
+1. 將圖形配置為&#x200B;**垂直條**。
 
-1. 為報表命名&#x200B;**排名最前的區段**
-1. 位於儀表板&#x200B;**RTP儀表板**
-1. 建立&#x200B;**新建。**
+1. 按一下&#x200B;**儀表板**，新增&#x200B;**Reportlet**。
+
+1. 將報表命名為&#x200B;**最上層區段**。
+
+1. 放在儀表板&#x200B;**RTP儀表板**&#x200B;中。
+
+1. 建立&#x200B;**新建**。
 
 您的小報表會顯示在控制面板中。
 
 ## 在Adobe Analytics {#view-impressions-and-clicks-conversions-in-adobe-analytics}中檢視印象和點按（轉換）
 
-1. 按一下「自訂連結」。
+1. 按一下「自訂連結」。****
 
    ![](assets/sitecatalyst1-1.png)
 
@@ -227,4 +236,3 @@ AA中自訂報表和控制面板的範例包括：
 1. 搜尋轉換以檢視代表促銷活動點按次數的區段和促銷活動名稱。
 
    ![](assets/sitecatalyst2.png)
-
