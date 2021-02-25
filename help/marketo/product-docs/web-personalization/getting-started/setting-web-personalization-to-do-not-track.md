@@ -3,7 +3,7 @@ unique-page-id: 11382593
 description: 將Web個人化設為不追蹤——行銷檔案——產品檔案
 title: 將Web個人化設為不追蹤
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -27,11 +27,10 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-   當切換設為「開啟」時，「網頁個人化」將會遵守並支援瀏覽器的「不追蹤(DNT)」設定，不會追蹤任何網頁活動或在您的網站上執行任何促銷活動或內容建議。
+   當切換設為「開啟」時，「網頁個人化」會遵守並支援瀏覽器的「不追蹤(DNT)」設定，不會追蹤任何網頁活動或在您的網站上執行任何促銷活動或內容建議。
 
    >[!NOTE]
    >
    >將切換為「開啟」可能會影響Marketo在特定區域的價值和功能。
 
 1. 若要停用「遵守DNT」切換並忽略瀏覽器的「不執行追蹤(DNT)」設定，請在「遵守DNT」下選取「**關閉**」。
-
