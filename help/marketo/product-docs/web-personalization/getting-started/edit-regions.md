@@ -3,7 +3,7 @@ unique-page-id: 4720224
 description: 編輯地區——行銷檔案——產品檔案
 title: 編輯地區
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -28,4 +28,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >選擇美國時，會在頁面底部開啟所有要選擇的美國選項。
-
