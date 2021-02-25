@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: 使用網頁個人化資料重新鎖定目標——行銷檔案——產品檔案
 title: 使用網頁個人化資料重新鎖定目標
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,14 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->
->「網站重新定位」現在位於「網頁個人化」方塊下。 如果您只購買「重新定位」功能，您會看到此圖格，並存取僅啟用&#x200B;**「重新定位」功能的「網頁個人化」產品。**&#x200B;這可讓您存取帳戶設定、重新定位頁面、區段和其他追蹤頁面。
+>「網站重新定位」現在位於「網頁個人化」方塊下。 如果您只購買「重新定位」功能，您會看到此圖格，並存取僅&#x200B;****&#x200B;啟用「重新定位」功能的「網頁個人化」產品。 這可讓您存取帳戶設定、重新定位頁面、區段和其他追蹤頁面。
 
 再行銷的目標客戶是過去曾瀏覽過您網站的潛在客戶，他們會根據他們的身分和所做的事，以展示廣告為目標。 個人化的重新定位會根據產業、指名帳戶和已知人員資料，以相關廣告鎖定特定受眾。
 
 Web個人化目前會將資料附加至下列再行銷平台：
 
-* [Google](personalized-remarketing-in-google.md)
-* [Facebook](personalized-remarketing-in-facebook.md)
+* [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+* [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
 Web個人化會傳送下列資料至再行銷平台，以建立受眾並執行再行銷廣告促銷活動：
 
@@ -39,7 +38,7 @@ Web個人化會傳送下列資料至再行銷平台，以建立受眾並執行�
    <th><p>群組（企業、中小型企業）</p></th> 
   </tr> 
   <tr> 
-   <th><p>類別（財富500/1000，全球2000）</p></th> 
+   <th><p>類別（財富500/1000，全球2000年）</p></th> 
   </tr> 
   <tr> 
    <th><p>ABM清單（命名帳戶清單）</p></th> 
@@ -69,12 +68,11 @@ Web個人化會傳送下列資料至再行銷平台，以建立受眾並執行�
    >
    >您必須在您的網站上實作「Google重新定位標籤」。
    >
-   >
    >如果您已設定「與Web個人化」和「Google Analytics整合」，則不需要編輯此部分，因為它與「帳戶設定」下的設定相同。
 
    ![](assets/two.png)
 
-1. 啟動Facebook的設定。 按一下並展開Facebookaccordion，按一下**On **，將個別的「活動」和資料傳送至Facebook Audience Manager。 按一下&#x200B;**保存**。
+1. 啟動Facebook的設定。 按一下並展開Facebookaccordion，按一下&#x200B;**On**，將個別的事件和資料傳送至Facebook Audience Manager。 按一下&#x200B;**保存**。
 
    >[!NOTE]
    >
@@ -98,12 +96,6 @@ Web個人化會傳送下列資料至再行銷平台，以建立受眾並執行�
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. 按一下&#x200B;**SAVE**。
+1. 按一下&#x200B;**保存**。
 
    您現在已完成「網頁個人化」中的「重新定位設定」、登入您的重新定位平台，並根據此資料建立您的受眾，以及設定您的重新定位廣告促銷活動。
-
->[!MORELIKETHIS]
->
->* [Google的個性化再營銷](personalized-remarketing-in-google.md)
->* [Facebook中的個人化再行銷](personalized-remarketing-in-facebook.md)
-
