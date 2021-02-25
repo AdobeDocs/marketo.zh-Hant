@@ -3,9 +3,9 @@ unique-page-id: 13795536
 description: 使用靜態清單建立區段——行銷檔案——產品檔案
 title: 使用靜態清單建立區段
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用靜態清單建立區段{#create-a-segment-using-a-static-list}
 
-根據訪客是否在您的行銷人員[靜態清單](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists)中，劃分已知網站訪客瀏覽您網站時的區段。
+根據訪客是否在您的行銷人員[靜態清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)中，劃分已知網站訪客瀏覽您網站時的區段。
 
 1. 前往&#x200B;**區段**。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 在「已知銷售線索」中，將**靜態清單**拖曳到畫布。
+1. 在「已知銷售線索」中，將&#x200B;**靜態清單**&#x200B;拖動到畫布。
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ ht-degree: 0%
    >
    >和／或下拉式清單就是這個。 按一下它以選擇&#x200B;**和**、**或**&#x200B;或&#x200B;**和／或**。
 
-1. 按一下&#x200B;**儲存**&#x200B;以儲存區段，或按一下**儲存並定義促銷活動**以儲存並前往「促銷活動」頁面。
+1. 按一下&#x200B;**儲存**&#x200B;以儲存區段，或按一下&#x200B;**儲存並定義促銷活動**&#x200B;以儲存並前往「促銷活動」頁面。
 
    ![](assets/eight-1.png)
-
