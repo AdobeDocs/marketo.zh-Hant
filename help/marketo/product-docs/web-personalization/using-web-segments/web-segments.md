@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: 網頁區段——行銷檔案——產品檔案
 title: 網頁區段
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -54,7 +54,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-請參閱[如何建立和檢視區段標籤](label-your-segment.md)
+請參閱[如何建立和檢視區段標籤](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 **區段——右側面板**
 
@@ -108,23 +108,32 @@ ht-degree: 0%
 >1. 使用所有篩選器（1和2及3...）
 >1. 使用任何篩選器（1或2或3...）
 >1. 進階篩選器（使用和／或運算式）
->
->    進階篩選可讓您控制區段條件。 輸入由&quot;and&quot;和&quot;or&quot;分隔的篩選編號。
->
->    * 1和2和3
->    * 1或2或3
->
->    混合&quot;and&quot;和&quot;or&quot;需要括弧來釐清邏輯意圖。 例如，「1或2及3」必須以下列其中一種方式撰寫：
->
->    * 1和（2或3）
->    * （1和2）或3
->
->    對於更複雜的邏輯，例如，
->
->    * （1和2）或（3和4）
->    * 1和(2或（3和4）)
->
->    在插入、刪除或重新排序後，請檢查您的邏輯。
+
+   >
+   >    
+   進階篩選可讓您控制區段條件。 輸入由&quot;and&quot;和&quot;or&quot;分隔的篩選編號。
+   >
+   >    
+   * 1和2和3
+   >    * 1或2或3
+
+   >
+   >    混合&quot;and&quot;和&quot;or&quot;需要括弧來釐清邏輯意圖。 例如，「1或2及3」必須以下列其中一種方式撰寫：
+   >
+   >    
+   * 1和（2或3）
+   >    * （1和2）或3
+
+   >
+   >    對於更複雜的邏輯，例如，
+   >
+   >    
+   * （1和2）或（3和4）
+   >    * 1和(2或（3和4）)
+
+   >
+   >    在插入、刪除或重新排序後，請檢查您的邏輯。
+
 
 從右側欄將區段屬性拖放至左側的區段編輯器：
 
@@ -170,18 +179,18 @@ ht-degree: 0%
    * 企業——包括員工人數超過1,000人且收入超過2.5億美元的組織
    * 中小型企業——此領域僅包括中小型企業
 
-**命名帳戶**
+**-命名帳戶-**
 
 **組織**
 
 * **來自這些公司（特定名稱）**
 
    * 從「選擇要新增的公司」下拉式清單中，選取要定位的公司。
-   * 您可以輸入要定位的確切組織名稱。 *建議*always *使用「命名帳戶清單」，而不是手動輸入名稱以取得更佳的相符項目（請參閱下文）。*
+   * 您可以輸入要定位的確切組織名稱。 *建議使用&#x200B;_always_&#x200B;的「命名帳戶清單」，而不是手動輸入名稱，以取得更佳的相符項目（請參閱下文）。
 
 **指名帳戶清單**
 
-從[命名帳戶清單](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)中選擇以分段關鍵目標帳戶
+從[命名帳戶清單](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)中選擇，以劃分關鍵目標帳戶。
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
@@ -199,7 +208,7 @@ ht-degree: 0%
 
 Web Personalization與您的Marketo Database整合，讓您依據已知人員屬性和資料細分並個人化宣傳活動。
 
-選擇資料庫，然後從下拉清單中選擇人員資料欄位。 選取   **+**，從下拉式清單新增欄位。
+選擇資料庫，然後從下拉清單中選擇人員資料欄位。 選擇&#x200B;**+**&#x200B;以從下拉式清單中新增欄位。
 
 ![](assets/seven.png)
 
@@ -262,7 +271,7 @@ Web Personalization與您的Marketo Database整合，讓您依據已知人員屬
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **訪客類型**
+* **訪客類型**<br />
 
    **Mobile OS**  —— 從下拉式方塊中，從一或多個列出的行動作業系統中選取。選取的行動作業系統會顯示在下方。
 
@@ -319,8 +328,8 @@ Web Personalization API呼叫[在這裡詳細瞭解。](https://developers.marke
 太好了！ 既然您瞭解「區段」區段，讓我們來瞭解促銷活動。
 
 >[!MORELIKETHIS]
-* [建立基本Web區段](create-a-basic-web-segment.md)
-* [建立新對話方塊Web促銷活動](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [在區域網頁促銷活動中建立新功能](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [建立新的Widget Web促銷活動](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [建立基本Web區段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [建立新對話方塊Web促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [在區域網頁促銷活動中建立新功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [建立新的Widget Web促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
