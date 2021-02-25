@@ -3,7 +3,7 @@ unique-page-id: 4719350
 description: 從特定標籤檢視區段——行銷檔案——產品檔案
 title: 從特定標籤檢視區段
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
