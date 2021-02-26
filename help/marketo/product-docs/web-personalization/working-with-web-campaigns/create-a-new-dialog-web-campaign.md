@@ -3,9 +3,9 @@ unique-page-id: 4719398
 description: 建立新的對話方塊Web促銷活動——行銷檔案——產品檔案
 title: 建立新對話方塊Web促銷活動
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 建立網頁促銷活動，即時個人化您的網頁內容，並在適當的時間向適當的使用者提供適當的訊息。
 
-Web促銷活動是與特定群體相關的自訂反應。 反應可以是網站上的對話方塊、區域取代](create-a-new-in-zone-web-campaign.md)中的[、[介面工具集功能](create-a-new-widget-web-campaign.md)或電子郵件警報。
+Web促銷活動是與特定群體相關的自訂反應。 反應可以是網站上的對話方塊、區域取代](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的[、[介面工具集功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或電子郵件警報。
 
 1. 前往&#x200B;**Web促銷活動**。
 
@@ -41,7 +41,7 @@ Web促銷活動是與特定群體相關的自訂反應。 反應可以是網站�
  <tbody> 
   <tr> 
    <td colspan="1"><strong>顯示於</strong></td> 
-   <td colspan="1">可讓您自訂Web促銷活動的顯示時機和方式。<a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow"></a></td> 
+   <td colspan="1">可讓您自訂Web促銷活動的顯示時機和方式。<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow"></a></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>對話框樣式</strong></td> 
@@ -111,7 +111,7 @@ Web促銷活動是與特定群體相關的自訂反應。 反應可以是網站�
   </tr> 
   <tr> 
    <td colspan="1"><strong>Rich Text Editor</strong></td> 
-   <td colspan="1"><p>富格文本編輯器允許文本格式設定、連結和影像插入。 <a href="using-the-web-personalization-rich-text-editor.md">閱讀更多資訊</a>。</p></td> 
+   <td colspan="1"><p>富格文本編輯器允許文本格式設定、連結和影像插入。 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">閱讀更多資訊</a>。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>在網站上預覽</strong></td> 
@@ -128,17 +128,17 @@ Web促銷活動是與特定群體相關的自訂反應。 反應可以是網站�
 
 >[!TIP]
 >
->使用我們內建的[範本](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)或[儲存現有促銷活動](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)做為範本，以加速並簡化促銷活動建立程式。
+>使用我們內建的[範本](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)或[儲存現有促銷活動](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)做為範本，以加速並簡化促銷活動建立程式。
 
 ## 編輯Web促銷活動{#edit-a-web-campaign}
 
-1. 從&#x200B;**Web****促銷活動**&#x200B;頁面，按一下Web促銷活動上的&#x200B;**編輯**。
+1. 從「Web促銷活動」頁面，按一下「Web促銷活動」上的「編輯」。********
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->若要更輕鬆找到您想要的Web促銷活動，請使用[篩選功能](filter-web-campaigns.md)。
+>若要更輕鬆找到您想要的Web促銷活動，請使用[篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
 ## 預覽Web促銷活動{#preview-a-web-campaign}
 
@@ -148,11 +148,11 @@ Web促銷活動是與特定群體相關的自訂反應。 反應可以是網站�
 
 ## 複製Web促銷活動{#clone-a-web-campaign}
 
-請參閱[複製Web促銷活動](clone-a-web-campaign.md)。
+請參閱[複製Web促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)。
 
 ## 刪除Web促銷活動{#delete-a-web-campaign}
 
-1. 在&#x200B;**Web促銷活動**&#x200B;頁面中，按一下您要刪除之Web促銷活動上的**刪除**。
+1. 在&#x200B;**Web促銷活動**&#x200B;頁面中，按一下您要刪除之Web促銷活動上的&#x200B;**Delete**。
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
@@ -160,6 +160,6 @@ Web促銷活動是與特定群體相關的自訂反應。 反應可以是網站�
 
 >[!MORELIKETHIS]
 >
->* [在區域網頁促銷活動中建立新功能](create-a-new-in-zone-web-campaign.md)
->* [建立新的Widget Web促銷活動](create-a-new-widget-web-campaign.md)
+>* [在區域促銷活動中建立RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [建立RTP介面工具集促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
