@@ -3,7 +3,7 @@ unique-page-id: 2949154
 description: 標示您的網頁促銷活動——行銷檔案——產品檔案
 title: 為您的Web促銷活動加上標籤
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >若要更輕鬆找到您想要的促銷活動，請使用[篩選功能](filter-web-campaigns.md)。
+   >若要更輕鬆找到您想要的促銷活動，請使用[篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
 1. 選取您要以標籤標籤的促銷活動。
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
 1. 輸入所要的標籤名稱，然後按一下「建立新」。
 
->[!TIP]
->
->如果標籤已存在，請選取它，不要建立新標籤。
+   >[!TIP]
+   >
+   >如果標籤已存在，請選取它，不要建立新標籤。
 
-![](assets/web-campaigns-set-label.jpg)
+   ![](assets/web-campaigns-set-label.jpg)
 
 酷！ 您現在知道如何建立標籤並將標籤指派給促銷活動。
 
@@ -51,9 +51,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [標](create-a-new-in-zone-web-campaign.md) [簽區段](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
-
->
-
-
-
+>[標籤區段](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
