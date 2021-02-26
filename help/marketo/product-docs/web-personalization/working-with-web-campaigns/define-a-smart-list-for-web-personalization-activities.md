@@ -3,9 +3,9 @@ unique-page-id: 10097867
 description: 定義Web個人化活動的智慧型清單——行銷檔案——產品檔案
 title: 為Web個人化活動定義智慧清單
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**深入探討**
-   >
-   >
-   >智慧型清單可以做出令人驚艷的事。 進一步瞭解[智慧型清單深入探討](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)。
+   >智慧型清單可以做出令人驚艷的事。 進一步瞭解[智慧型清單深入探討](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)。
 
 1. 搜尋觸發器，然後將觸發器拖放至畫布上。
 
@@ -60,16 +57,11 @@ ht-degree: 0%
    >
    >如果有多個觸發器，當任一個觸發器被啟動時，人員會進入流程。
 
-   [定義智慧型促銷活動的智慧型清單 |批次](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   若要同時在一組人員上執行促銷活動，請瞭解如何[定義智慧型促銷活動的智慧型清單 | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)。
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [定義智慧型促銷活動的智慧型清單 |批次](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >    * [新增流量步驟至智慧型促銷活動](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >    * [定義預測性內容活動的智慧型清單](../../../product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
+   >* [定義智慧型促銷活動的智慧型清單 |批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [新增流量步驟至智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [定義預測性內容活動的智慧型清單](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
 
-
-若要同時在一組人員上執行促銷活動，請學習如何。
