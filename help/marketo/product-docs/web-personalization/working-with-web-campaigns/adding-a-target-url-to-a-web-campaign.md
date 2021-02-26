@@ -3,9 +3,9 @@ unique-page-id: 6094879
 description: 新增目標URL至Web促銷活動——行銷人員檔案——產品檔案
 title: 新增目標URL至Web促銷活動
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->
 >* 對話方塊和介面工具集網頁促銷活動可使用任何頁面和萬用字元(*)選項。
 * 在進階使用案例中，「在區域中」網頁促銷活動可在URL路徑結尾使用萬用字元。 範例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 * URL區分大小寫
@@ -72,7 +71,7 @@ ht-degree: 0%
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. 新增**促銷活動名稱**。 選擇&#x200B;**目標區段**。 新增&#x200B;**目標URL**。
+1. 新增&#x200B;**促銷活動名稱**。 選擇&#x200B;**目標區段**。 新增&#x200B;**目標URL**。
 
    >[!NOTE]
    「位於區域中」的目標URL必須定義特定URL或URL。 在進階使用案例中，「在區域中」網頁促銷活動可在URL路徑結尾使用萬用字元。 範例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
@@ -80,7 +79,7 @@ ht-degree: 0%
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
-* [建立新對話方塊Web促銷活動](create-a-new-dialog-web-campaign.md)
-* [在區域網頁促銷活動中建立新功能](create-a-new-in-zone-web-campaign.md)
-* [建立新的Widget Web促銷活動](create-a-new-widget-web-campaign.md)
+* [建立對話方塊促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [在區域促銷活動中建立RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [建立RTP介面工具集促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
