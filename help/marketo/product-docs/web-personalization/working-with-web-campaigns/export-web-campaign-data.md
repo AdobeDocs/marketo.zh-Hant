@@ -3,7 +3,7 @@ unique-page-id: 12615749
 description: 匯出Web促銷活動資料——行銷人員檔案——產品檔案
 title: 匯出Web促銷活動資料
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
 1. 檢視您的檔案，以檢視有用的統計資料。
 
    ![](assets/four-1.png)
-
