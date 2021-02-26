@@ -3,9 +3,9 @@ unique-page-id: 4719400
 description: 在區域網路促銷活動中建立新功能——行銷檔案——產品檔案
 title: 在區域網頁促銷活動中建立新功能
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '693'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在區域Web促銷活動中建立新促銷活動{#create-a-new-in-zone-web-campaign}
 
-網頁促銷活動是與特定區段相關的自訂反應，可以是您網站上的[對話方塊](create-a-new-dialog-web-campaign.md)、區域內取代、[介面工具集功能](create-a-new-widget-web-campaign.md)或電子郵件警報。 「在區域內」網頁促銷活動會以內容或圖形橫幅取代您網站中根據區域ID的元素。
+網頁促銷活動是與特定區段相關的自訂反應，可以是您網站上的[對話方塊](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、區域內取代、[介面工具集功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或電子郵件警報。 「在區域內」網頁促銷活動會以內容或圖形橫幅取代您網站中根據區域ID的元素。
 
 ## 建立區域內Web促銷活動{#create-an-in-zone-web-campaign}
 
@@ -31,14 +31,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**定義**
-   >
-   >
    >**什麼是區域ID?**
    >
-   >
-   >區域ID是您要在Onsite上找到「在區域內」網頁促銷活動的位置。 若要尋找「區域ID」，只要前往您的網站，選取您要以Web促銷活動取代的區域，然後按一下滑鼠右鍵即可。 在Chrome中，選項為「Inspect Element」（檢查元素），在其他瀏覽器中可能不同。
-   >
+   >區域ID是您要在Onsite上找到「在區域內」網頁促銷活動的位置。 若要尋找「區域ID」，只要前往您的網站，選取您要以Web促銷活動取代的區域，然後按一下滑鼠右鍵即可。 在Chrome中，選項是「Inspect元素」，在其他瀏覽器中可能不同。
    >
    >然後，您會想要尋找與網站此區段關聯的「id」，因為您正在檢查該元素，所以會反白顯示此區段。 例如，如果在Chrome中按一下滑鼠右鍵，反白顯示的文字會顯示`<div id="featured-slider">`，則「featured-slider」是您應在「zone id」區段中輸入的內容。 通常使用&quot;div id&quot;，但也可使用任何ID，例如h1 id、p id等。
 
@@ -68,7 +63,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong> Rich Text Editor  </strong></td> 
-   <td colspan="1">富格文本編輯器允許文本格式設定、連結和影像插入。 <a href="using-the-web-personalization-rich-text-editor.md">閱讀更多資訊</a> 。</td> 
+   <td colspan="1">富格文本編輯器允許文本格式設定、連結和影像插入。 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">閱讀更多資訊</a> 。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong> 在網站上預覽   </strong></td> 
@@ -85,11 +80,11 @@ ht-degree: 0%
 
 >[!TIP]
 >
->使用我們內建的[範本](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)或[儲存現有促銷活動](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)做為範本，以加速並簡化促銷活動建立程式。
+>使用我們內建的[範本](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)或[儲存現有促銷活動](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)做為範本，以加速並簡化促銷活動建立程式。
 
 >[!NOTE]
 >
->**想要A/B測試您的Web促銷活動嗎？** 您可以測試一或多個網頁促銷 [活動，以取得最佳結果](ab-test-your-web-campaign.md)。透過「自動調整」功能，平台會自動辨識效能較佳的促銷活動、繼續轉換率最高的促銷活動並暫停其他促銷活動。
+>**想要A/B測試您的Web促銷活動嗎？** 您可以測試一或多個網頁促銷 [活動，以取得最佳結果](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)。透過「自動調整」功能，平台會自動辨識效能較佳的促銷活動、繼續轉換率最高的促銷活動並暫停其他促銷活動。
 
 ## 編輯Web促銷活動{#edit-a-web-campaign}
 
@@ -99,21 +94,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->若要更輕鬆找到您想要的促銷活動，請使用[篩選功能](filter-web-campaigns.md)。
+>若要更輕鬆找到您想要的促銷活動，請使用[篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
 ## 預覽Web促銷活動{#preview-a-web-campaign}
 
-1. 在「網頁促銷活動」頁面中，按一下您要檢視之網頁促銷活動上的**預覽*。
+1. 在「Web促銷活動」頁面中，按一下您要檢視之Web促銷活動上的&#x200B;**預覽**。
 
    ![](assets/in-zone-web-campaign-preview.png)
 
 ## 複製Web促銷活動{#clone-a-web-campaign}
 
-請參閱[複製Web促銷活動](clone-a-web-campaign.md)。
+請參閱[複製Web促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)。
 
 ## 刪除Web促銷活動{#delete-a-web-campaign}
 
-1. 在「網頁促銷活動」頁面中，按一下您要刪除之促銷活動上的**刪除**。
+1. 在「Web促銷活動」頁面中，按一下您要刪除之促銷活動上的&#x200B;**Delete**。
 
    ![](assets/in-zone-web-campaign-delete.png)
 
@@ -121,6 +116,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [建立新的Widget Web促銷活動](create-a-new-widget-web-campaign.md)
->* [建立新對話方塊Web促銷活動](create-a-new-dialog-web-campaign.md)
+>* [建立新的Widget Web促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [建立新對話方塊Web促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 
