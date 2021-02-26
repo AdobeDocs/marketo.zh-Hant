@@ -3,9 +3,9 @@ unique-page-id: 4719179
 description: 使用Web個人化Rich Text Editor - Marketo Docs —— 產品檔案
 title: 使用Web個人化Rich Text Editor
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Web Token使用[來自行銷人員資料庫的](https://docs.marketo.com/display/DOCS/Manage+Person+Data)人員資料，該資料在「Web個人化」中的「帳戶設定>資料庫」下進行管理。 如果Web Token是尚未在「帳戶設定>資料庫」中的新資料庫欄位，則會自動新增此Token，而且最多需要24小時才能啟動。
+>Web Token使用[來自行銷人員資料庫的](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)人員資料，該資料在「Web個人化」中的「帳戶設定>資料庫」下進行管理。 如果Web Token是尚未在「帳戶設定>資料庫」中的新資料庫欄位，則會自動新增此Token，而且最多需要24小時才能啟動。
 
 >[!MORELIKETHIS]
 >
->[使用Rich Text編輯器](https://docs.marketo.com/display/docs/using+the+rich+text+editor#usingtherichtexteditor-features)
-
+>[使用Rich Text編輯器](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
