@@ -3,7 +3,7 @@ unique-page-id: 15695939
 description: 發行說明- 18年秋季版——行銷檔案——產品檔案
 title: 發行說明- 18年秋季
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '850'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Fall &#39;18發行包含下列功能。 檢查您的Marketo版本，以取得功
 
    * 改善的管理工作流程：管理員在透過「一般管理員設定」啟用團隊功能時，會發現工作流程更有效率。
 
-## Marketo Sky {#marketo-sky}
+## Marketo Sky{#marketo-sky}
 
 如需詳細資訊和更新，請查看我們的[Sky版本注意事項](https://help.marketo.com)。
 
@@ -55,7 +55,7 @@ Fall &#39;18發行包含下列功能。 檢查您的Marketo版本，以取得功
 * Design Studio首頁：建立新資產、拖放影像和檔案，以及管理所有現有資產。
 * Design Studio清單檢視：使用者現在可以檢視清單檢視格式的著陸頁面範本和電子郵件範本，以便在單一資產類型上快速導覽和大量動作。
 * Design Studio資產詳細資訊頁面：在單一位置檢視、組織和執行所有資產的大量動作，以節省時間並省下許多麻煩。
-* **Marketo Sky現已提供預設程式**:Marketo Sky現在支援預設程式，此為多功能程式樣式，可讓您建立任何想像得到的促銷活動。
+* **現在，Marketo Sky中提供預設程式**:Marketo Sky現在支援預設程式，此多功能程式樣式可讓您建立任何您能想像得到的促銷活動。
 * **電子郵件計畫——第1階段**:您現在可以在Sky中檢視電子郵件程式。檢視新設計，並[告訴我們您的想法](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html)。
 
 ## Analytics {#analytics}
@@ -74,7 +74,7 @@ Fall &#39;18發行包含下列功能。 檢查您的Marketo版本，以取得功
 
    * 客戶現在可以使用其公司的身分提供者和認證（符合企業安全性要求）登入Bizbile Web應用程式。
 
-**[行銷人員效能分析增強功能](../../product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[行銷人員效能分析增強功能](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **可用性增強功能**
 
@@ -88,7 +88,7 @@ Fall &#39;18發行包含下列功能。 檢查您的Marketo版本，以取得功
 
 ## 廣告網路{#ad-networks}
 
-**[重新整理Token](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
+**[重新整理Token](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
 我們已在重新定位和LinkedIn銷售機會開發表單解決方案中建置了重新整理Token，將存取時間延長至一年後，才需要重新驗證。
 
