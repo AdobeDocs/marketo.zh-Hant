@@ -3,7 +3,7 @@ unique-page-id: 8782266
 description: 排定網頁促銷活動的優先順序——行銷人員檔案——產品檔案
 title: 排定網頁促銷活動的優先順序
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >若要更輕鬆找到您想要的Web促銷活動，請使用[篩選功能](filter-web-campaigns.md)。
+   >若要更輕鬆找到您想要的Web促銷活動，請使用[篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
 1. 在「編輯促銷活動」頁面中，設定「優先順序分數」（9999 =最高優先順序1 =最低優先順序）。
 
