@@ -3,9 +3,9 @@ unique-page-id: 4719404
 description: AB測試您的Web促銷活動——行銷檔案——產品檔案
 title: AB測試您的Web促銷活動
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >若要更輕鬆找到您想要的促銷活動，請使用[篩選功能](filter-web-campaigns.md)。
+   >若要更輕鬆找到您想要的促銷活動，請使用[篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
 1. 選取您要A/B測試的第一個促銷活動。 按一下&#x200B;**編輯**。
 
@@ -39,30 +39,31 @@ ht-degree: 0%
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. 輸入&#x200B;**拆分測試組名稱** ，按一下&#x200B;**建立。**&#x200B;選&#x200B;**取自動調整。**
+1. 輸入&#x200B;**拆分測試組名稱**，按一下&#x200B;**建立**。 選擇&#x200B;**自動調整**。
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. **儲存&#x200B;**或**&#x200B;啟動**促銷活動。
+1. **儲存** 或啟 **** 動促銷活動。
 
    >[!TIP]
    >
    >選擇&#x200B;**自動調整**&#x200B;可讓Web個人化平台自動辨識執行成效較佳的分割測試促銷活動，並在暫停其他促銷活動時繼續執行最高轉換的促銷活動。
 
 1. 對第二個促銷活動重複上述程式。
+
 1. 選取您要A/B測試的第二個促銷活動。 按一下&#x200B;**編輯**。
 
-   ** ![](assets/image2016-11-4-13-3a51-3a39.png)
+   ![](assets/image2016-11-4-13-3a51-3a39.png)
 
-   **
-
-1. 在&#x200B;**設定促銷活動**&#x200B;頁面中，選擇&#x200B;**S****plit Testing**&#x200B;並從下拉式清單中選擇&#x200B;**群組**。 選擇** Auto-Tune**。
+1. 在&#x200B;**設定促銷活動**&#x200B;頁面中，選擇&#x200B;**分割測試**&#x200B;並從下拉式清單中選擇&#x200B;**群組**。 選擇&#x200B;**自動調整**。
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
-1. **儲存**或**啟動**促銷活動。
+1. **儲存** 或啟 **** 動促銷活動。
+
 1. 重複此程式以測試第三個或第四個促銷活動。
-1. 在&#x200B;**Web** **Campaigns**&#x200B;中，您可以看到由A/B圖示表示的分割測試促銷活動。
+
+1. 在&#x200B;**Web促銷活動**&#x200B;中，您可以看到由A/B圖示表示的分割測試促銷活動。
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 
@@ -73,17 +74,10 @@ ht-degree: 0%
 >1. 嘗試不同的內容片段（案例研究A與案例研究B），變更訊息與創意素材、顏色、大小或動作號召。
 >1. 最佳化並享受您的個人化內容！
 
->
-
-
 
 >[!MORELIKETHIS]
 >
->* [建立對話方塊促銷活動](create-a-new-dialog-web-campaign.md)
->* [在區域促銷活動中建立RTP](create-a-new-in-zone-web-campaign.md)
->* [建立RTP介面工具集促銷活動](create-a-new-widget-web-campaign.md)
-
->
-
-
+>* [建立對話方塊促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [在區域促銷活動中建立RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [建立RTP介面工具集促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
