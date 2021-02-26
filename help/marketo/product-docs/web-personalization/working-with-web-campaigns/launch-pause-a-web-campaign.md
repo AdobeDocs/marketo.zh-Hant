@@ -3,9 +3,9 @@ unique-page-id: 4719406
 description: 啟動／暫停Web促銷活動——行銷檔案——產品檔案
 title: 啟動／暫停Web促銷活動
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 啟動／暫停Web促銷活動{#launch-pause-a-web-campaign}
 
-Web促銷活動是與特定群體相關的自訂反應，可以是網站上的[對話方塊、區域取代](create-a-new-in-zone-web-campaign.md)中的[、介面工具集功能或電子郵件警報。](create-a-new-dialog-web-campaign.md)
+Web促銷活動是與特定群體相關的自訂反應，可以是網站上的[對話方塊、區域取代](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的[、介面工具集功能或電子郵件警報。](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 
 您可以從「網頁促銷活動」頁面或「設定網頁促銷活動」頁面，以兩種方式啟動或暫停網頁促銷活動。
 
@@ -25,7 +25,7 @@ Web促銷活動是與特定群體相關的自訂反應，可以是網站上的[�
 
    ![](assets/two-1.png)
 
-1. 如果促銷活動已啟動，請按一下「已啟動」，將促銷活動的狀態變更為「已暫停」、「已暫停」。****
+1. 如果促銷活動已啟動，請按一下「已啟動」，將促銷活動的狀態變更為「已暫停」，以暫停促銷活動。********
 
    ![](assets/image2014-11-26-17-3a26-3a38.png)
 
@@ -47,11 +47,7 @@ Web促銷活動是與特定群體相關的自訂反應，可以是網站上的[�
 
 >[!MORELIKETHIS]
 >
->* [建立新對話方塊Web促銷活動](create-a-new-dialog-web-campaign.md)
->* [在區域網頁促銷活動中建立新功能](create-a-new-in-zone-web-campaign.md)
->* [建立介面工具集網頁促銷活動](create-a-new-widget-web-campaign.md)
-
->
-
-
+>* [建立對話方塊促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [在區域促銷活動中建立RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [建立RTP介面工具集促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
