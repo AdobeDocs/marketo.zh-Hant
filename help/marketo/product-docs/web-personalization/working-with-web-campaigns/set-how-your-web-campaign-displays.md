@@ -3,7 +3,7 @@ unique-page-id: 12978906
 description: 設定Web促銷活動的顯示方式——行銷人員檔案——產品檔案
 title: 設定Web促銷活動的顯示方式
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 捲動{#scroll}
 
-1. 按一下「顯示於&#x200B;**」下拉式清單，然後選取「捲動** a3/>」。****
+1. 按一下「顯示於&#x200B;**」下拉式清單，然後選取「捲動」。******
 
    ![](assets/s1.png)
 
@@ -74,5 +74,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->想看看您選擇的特效未來會如何？ 透過[Web促銷活動預覽](preview-and-test-a-web-campaign.md)將其檢出。
-
+>想看看您選擇的特效未來會如何？ 透過[Web促銷活動預覽](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)將其檢出。
