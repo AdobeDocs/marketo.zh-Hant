@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: 將表格內嵌至Web Campaign —— 行銷檔案——產品檔案
 title: 將表單嵌入Web促銷活動
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 1. 以滑鼠右鍵按一下已核准的表格。 選擇&#x200B;**內嵌代碼**。
 
-   ** ![](assets/image2015-12-16-10-3a58-3a39.png)
-
-   **
+   ![](assets/image2015-12-16-10-3a58-3a39.png)
 
 1. 復製程式碼。
 
@@ -31,9 +29,7 @@ ht-degree: 0%
 
 1. 按一下「建立新促銷活動」**。**
 
-   ** ![](assets/create-new-web-campaign-hand-1.jpg)
-
-   **
+   ![](assets/create-new-web-campaign-hand-1.jpg)
 
 1. 在Rich Text Editor中，按一下HTML圖示。
 
@@ -44,6 +40,7 @@ ht-degree: 0%
    ![](assets/six-1.png)
 
 1. 表單不會顯示在編輯器檢視中，但您可以預覽它，以檢視它在促銷活動中的呈現方式。
+
 1. 按一下&#x200B;**Launch**&#x200B;以啟動促銷活動。
 
    >[!NOTE]
@@ -58,7 +55,7 @@ ht-degree: 0%
 * 在「設定促銷活動」中變更對話方塊或介面工具集顏色
 * 將CSS程式碼新增至指令碼
 
-若要編輯表單主題的CSS，請參閱[本文](../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)。
+若要編輯表單主題的CSS，請參閱[本文](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)。
 
 若要變更「設定促銷活動」中的對話方塊或介面工具集色彩：
 
@@ -86,11 +83,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [編輯表單主題的CSS](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
+>* [編輯表單主題的CSS](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [顯示不含後續著陸頁面的感謝訊息](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
-
->
-
-
+>* [Forms2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
 
