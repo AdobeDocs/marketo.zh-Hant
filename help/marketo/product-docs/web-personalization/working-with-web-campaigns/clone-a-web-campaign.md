@@ -3,9 +3,9 @@ unique-page-id: 10093157
 description: 仿製Web促銷活動——行銷檔案——產品檔案
 title: 複製Web促銷活動
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >若要更輕鬆找到您想要的Web促銷活動，請使用[篩選功能](filter-web-campaigns.md)。
+   >若要更輕鬆找到您想要的Web促銷活動，請使用[篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
 1. 對於Web促銷活動，按一下「複製」。****
 
@@ -39,11 +39,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [在區域網頁促銷活動中建立新功能](create-a-new-in-zone-web-campaign.md)
->* [建立新的Widget Web促銷活動](create-a-new-widget-web-campaign.md)
->* [建立新對話方塊Web促銷活動](create-a-new-dialog-web-campaign.md)
-
->
-
-
+>* [建立對話方塊促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [在區域促銷活動中建立RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [建立RTP介面工具集促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
