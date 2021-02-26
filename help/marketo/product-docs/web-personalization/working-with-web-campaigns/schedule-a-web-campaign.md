@@ -3,7 +3,7 @@ unique-page-id: 10097100
 description: 排程Web促銷活動——行銷檔案——產品檔案
 title: 排程Web促銷活動
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >若要更輕鬆找到您想要的促銷活動，請使用[篩選功能](filter-web-campaigns.md)。
+   >若要更輕鬆找到您想要的促銷活動，請使用[篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
 1. 開啟「促銷活動狀態」功能表，並選取「排程&#x200B;**」。**
 
@@ -59,11 +59,10 @@ ht-degree: 0%
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. 「促銷活動」頁面上的促銷活動狀態會變更為「**已排程**」，並會顯示時鐘／日曆圖示。 按一下此圖示可編輯促銷活動排程。
+1. 「促銷活動」頁面上的促銷活動狀態會變更為&#x200B;**Scheduled**，並顯示時鐘／日曆圖示。 按一下此圖示可編輯促銷活動排程。
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
    >即使促銷活動在選取的排程時間內執行，促銷活動狀態仍維持為&#x200B;**Scheduled**。 當排程結束日期已過時，促銷活動狀態會變更為&#x200B;**Paused**。
-
