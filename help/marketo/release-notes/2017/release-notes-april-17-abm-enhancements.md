@@ -3,7 +3,7 @@ unique-page-id: 12977326
 description: 發行說明- 4月17日ABM增強功能——行銷檔案——產品檔案
 title: 發行說明- 4月17日ABM增強功能
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Marketon ABM正在改變與CRM相關的行為。 今後，Marketon ABM在客戶�
 您現在可以根據「帳戶清單」輕鬆篩選您的已命名帳戶。
 
 ![](assets/named-account-filters.png)
-
