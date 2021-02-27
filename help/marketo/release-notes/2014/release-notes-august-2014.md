@@ -3,7 +3,7 @@ unique-page-id: 2950212
 description: 發行說明- 2014年8月——行銷檔案——產品檔案
 title: 發行說明- 2014年8月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 行銷行事歷授權{#marketing-calendar-licenses}
 
-在2014年9月5日之後，只有5位使用者可以免費存取行銷日曆。 請務必先將[發行／廢止行銷行事歷授權](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)給您選擇的使用者，然後才能取得無中斷的存取權。
+在2014年9月5日之後，只有5位使用者可以免費存取行銷日曆。 請務必先將[發行／廢止行銷行事歷授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)給您選擇的使用者，然後才能取得無中斷的存取權。
 
 ![—](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 從管理員{#export-users-and-roles-from-admin}匯出使用者和角色
 
-您現在可以從Marketo匯出[使用者和角色清單](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)。 您也可以包含「上次登入」時間戳記，以便隨匯出一起使用。
+您現在可以從Marketo匯出[使用者和角色清單](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)。 您也可以包含「上次登入」時間戳記，以便隨匯出一起使用。
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -96,4 +96,3 @@ ht-degree: 0%
 您現在可以在即時個人化中，從所有追蹤和報告中排除特定IP。
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)
-
