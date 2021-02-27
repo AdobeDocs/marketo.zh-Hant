@@ -3,21 +3,15 @@ unique-page-id: 2951117
 description: 發行說明- 2012年5月——行銷檔案——產品檔案
 title: 發行說明- 2012年5月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
 
 # 發行說明：2012年5月{#release-notes-may}
-
->[!NOTE]
->
->**深入探討**
->
->如需其他版本，請參閱[發行說明](https://docs.marketo.com/display/docs/release+notes)深入探討。
 
 ## 重新設計電子郵件績效報表{#email-performance-report-redesign}
 
@@ -47,7 +41,9 @@ ht-degree: 0%
 
 需要iOS 5.1或更新版本；僅限iPad。
 
-![](assets/image2014-9-23-10-3a14-3a46.png)圖3.事件登入首頁
+![](assets/image2014-9-23-10-3a14-3a46.png)
+
+圖3. 事件登入首頁
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
@@ -59,7 +55,7 @@ ht-degree: 0%
 
 ## 增強的網路研討會確認URL {#enhanced-webinar-confirmation-url}
 
-現已針對ON24和Adobe Connect提供！ 使用新`{{member.webinar URL}}`代號，在每個已註冊參與者的確認電子郵件中加入唯一的連結。 Adobe Connect增強功能也包含開啟／關閉Adobe帳戶資訊電子郵件的功能，電子郵件中包含使用者的登入ID和密碼。
+現已針對ON24和Adobe Connect推出！ 使用新`{{member.webinar URL}}`代號，在每個已註冊參與者的確認電子郵件中加入唯一的連結。 Adobe Connect的增強功能還包括開啟／關閉Adobe帳戶資訊電子郵件的功能，電子郵件中包含使用者的登入ID和密碼。
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -142,4 +138,3 @@ ht-degree: 0%
 ## 增強的銷售線索和聯繫人訂閱{#enhanced-lead-and-contact-subscribe}
 
 使用記錄詳細資料頁面上的新「訂閱」按鈕，隨時跟隨潛在客戶或聯絡。
-
