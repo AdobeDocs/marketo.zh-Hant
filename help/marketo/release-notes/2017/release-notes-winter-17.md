@@ -3,15 +3,15 @@ unique-page-id: 12255606
 description: 發行說明- 17年冬季——行銷檔案——產品檔案
 title: 發行說明- 17年冬季
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
 
-# 發行說明：冬季&#39;17 {#release-notes-winter}
+# 發行說明：冬季&#39;16 {#release-notes-winter}
 
 Winter &#39;17版本包含下列功能。 檢查您的Marketo版本，以取得功能。
 
@@ -37,7 +37,7 @@ Winter &#39;17版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [本地化](https://docs.marketo.com/display/docs/web+personalization) {#localization}
+## 本地化{#localization}
 
 網頁個人化、預測式內容和電子郵件深入資訊應用程式現在提供日文、德文和西班牙文版。 您[選擇您的語言和地區](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)，以檢視這些語言的內容。
 
@@ -71,7 +71,7 @@ Winter &#39;17版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[預測式內容編輯器](https://docs.marketo.com/display/docs/edit+predictive+content)**
+**預測式內容編輯器**
 
 改善的編輯體驗和版面配置可依來源分割內容準備： 電子郵件、豐富式媒體或建議列。
 
