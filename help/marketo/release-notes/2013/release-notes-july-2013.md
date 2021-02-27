@@ -3,9 +3,9 @@ unique-page-id: 2951093
 description: 發行說明- 2013年7月——行銷檔案——產品檔案
 title: 發行說明- 2013年7月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 發行說明：2013年7月{#release-notes-july}
 
-7月版本預計於7月26日星期五推出，其中包含下列功能。  請檢查您的[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php)是否提供功能。
-
-發行後，請務必查看社群中的[新發行](release-notes-december-2013.md)標籤，以取得每個功能的詳細說明文章！
+7月版本預計於7月26日星期五推出，其中包含下列功能。
 
 ## 控制面板{#exhausted-content-widget-on-the-dashboard}上已用盡的內容介面工具集
 
@@ -44,4 +42,3 @@ ht-degree: 0%
 ## 在WYSIWYG編輯器{#changes-to-spell-check-in-wysiwyg-editor}中對拼寫檢查的更改
 
 WYSIWYG編輯器用於拼字檢查的服務已中止。 我們從編輯器中移除「拼字檢查」按鈕，直到找到替代項目。
-
