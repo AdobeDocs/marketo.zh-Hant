@@ -3,9 +3,9 @@ unique-page-id: 2951058
 description: 發行說明- 2013年8月——行銷檔案——產品檔案
 title: 發行說明- 2013年8月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # 發行說明：2013年8月{#release-notes-august}
 
-2013年8月發行包含下列功能。 請檢查您的[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing-1.php)是否提供功能。
+2013年8月發行包含下列功能。
 
-發行後，請務必查看社群中的[新發行](release-notes-december-2013.md)標籤，以取得每個新功能的詳細知識庫文章！
+**純文字電子郵件**
 
-純文字電子郵件
-
-現在，您只能傳送電子郵件的[文字版本](../../product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)。 請記住，使用此選項時，連結不會被裝飾。
+現在，您只能傳送電子郵件的[文字版本](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)。 請記住，使用此選項時，連結不會被裝飾。
 
 ![](assets/image2014-9-22-16-3a34-3a15.png)
 
@@ -27,13 +25,13 @@ ht-degree: 0%
 
 ### 忽略用盡的內容{#ignore-exhausted-content}
 
-將參與程式配置為[忽略窮盡](../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)，包括隱藏任何通知。
+將參與程式配置為[忽略窮盡](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)，包括隱藏任何通知。
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## 參與串流測試{#engagement-stream-testing}
 
-使用[新測試功能](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md)來模擬轉播，並測試新新增的內容至即時串流。
+使用[新測試功能](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md)來模擬轉播，並測試新新增的內容至即時串流。
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
@@ -45,13 +43,13 @@ ht-degree: 0%
 
 ## &quot;View Email as Web Page&quot;和&quot;Unsubscribe&quot; System Token {#view-email-as-web-page-and-unsubscribe-system-tokens}
 
-運用這些[新的Token](../../product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)，以更精確地控制其在電子郵件中的位置。
+運用這些[新的Token](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)，以更精確地控制其在電子郵件中的位置。
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
 ## 自動觸發促銷活動清除{#automatic-trigger-campaign-cleanup}
 
-Marketo現在會定期通知您，並且[會自動停用過去6個月中未執行的觸發促銷活動](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
+Marketo現在會定期通知您，並且[會自動停用過去6個月中未執行的觸發促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
