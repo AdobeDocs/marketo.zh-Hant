@@ -3,9 +3,9 @@ unique-page-id: 2951056
 description: 發行說明- 2013年9月——行銷檔案——產品檔案
 title: 發行說明- 2013年9月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 發行說明：2013年9月{#release-notes-september}
 
-9月發行包含下列功能。 請檢查您的[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php)是否提供功能。
-
-發行後，請務必查看社群中的[新發行](release-notes-december-2013.md)標籤，以取得每個功能的詳細知識庫文章！
+9月發行包含下列功能。
 
 ## 較短的URL {#shorter-urls}
 
@@ -71,7 +69,7 @@ ht-degree: 0%
 
 ## 法文版和德文版的Sales Insight（僅限Salesforce）{#sales-insight-available-in-french-and-german-salesforce-only}
 
-從AppExchange下載最新版的Marketo Lead Management和Marketo Sales Insight，讓您的法國和德國銷售人員可以使用他們偏好的語言來查看Sales Insight內容。
+從AppExchange下載最新版的Marketo Lead Management和Marketo Sales Insight，讓您的法國和德國銷售人員以偏好的語言查看Sales Insight內容。
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 
