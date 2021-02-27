@@ -3,7 +3,7 @@ unique-page-id: 4720253
 description: 發行說明- 2014年12月——行銷檔案——產品檔案
 title: 發行說明- 2014年12月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 銷售分析報表{#sales-insight-reports}
 
-[Sales Insight Email Performance Report](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)可讓您透過電子郵件和銷售代表查看電子郵件量度。 它支援透過Salesforce、Microsoft Dynamics、Outlook外掛程式和Gmail外掛程式傳送的電子郵件。
+[Sales Insight Email Performance Report](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)可讓您透過電子郵件和銷售代表查看電子郵件量度。 它支援透過Salesforce、Microsoft Dynamics、Outlook外掛程式和Gmail外掛程式傳送的電子郵件。
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ## Facebook自訂對象{#facebook-custom-audiences}
 
-一旦您的行銷人員透過「管理員」>「Launchpoint」](../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)新增[Facebook後，您就可以輕鬆建立、更新或[以來自行銷人員的潛在客戶取代Facebook自訂對象，並設定靜態或智慧清單](../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任何靜態或智慧型清單的銷售線索格線底部尋找新的Facebook圖示。
+一旦您的行銷人員透過「管理員」>「Launchpoint」](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)新增[Facebook後，您就可以輕鬆建立、更新或[以來自行銷人員的潛在客戶取代Facebook自訂對象，並設定靜態或智慧清單](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任何靜態或智慧型清單的銷售線索格線底部尋找新的Facebook圖示。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## 改進跨工作區{#improved-cloning-across-workspaces}的克隆
 
-[將程式](../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) 複製到其他工作區從未如此簡單！按一下克隆時，選擇目標工作區。 不再複製到資料夾中，然後移動資料夾！
+[將程式](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) 複製到其他工作區從未如此簡單！按一下克隆時，選擇目標工作區。 不再複製到資料夾中，然後移動資料夾！
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 ## 參考智慧清單{#reference-smart-list}
 
-[建立智慧型清單或流程時，可參](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)考與其他工作區共用的智慧型清單。
+[建立智慧型清單或流程時，可參](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) 考與其他工作區共用的智慧型清單。
 
 ## 清單匯入改進{#list-import-improvements}
 
-[匯](../../getting-started/quick-wins/import-a-list-of-people.md) 入以UTF-16、Shift-JIS或EUC-JP編碼的檔案。我們繼續支援UTF-8編碼檔案。
+[匯](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 入以UTF-16、Shift-JIS或EUC-JP編碼的檔案。我們繼續支援UTF-8編碼檔案。
 
 ## 電子郵件指令碼中的連結追蹤{#link-tracking-in-email-scripting}
 
@@ -94,4 +94,3 @@ ht-degree: 0%
 我們新增了「在區域中滑動」促銷活動的「滑動」效果，讓您的個人化內容在頁面載入時能夠滑入。
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)
-
