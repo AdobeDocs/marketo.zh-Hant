@@ -3,9 +3,9 @@ unique-page-id: 11370952
 description: 發行說明- 16年春季版——行銷檔案——產品檔案
 title: 發行說明- 16年春季版
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 9dd108de97be01acf00d42be90b2661d153a4265
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Spring &#39;16版本包含下列功能。 請按一下標題連結，以檢視每個功能的詳細文章。
 
-## [電子郵件見解](https://docs.marketo.com/display/docs/email+insights) {#email-insights}
+## [電子郵件見解](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
 「電子郵件洞察」是全新的歷史資料匯總電子郵件分析體驗— 作為Project Orion的一部分，重新設計了端對端，提供快如閃電的效能。 它提供全新的使用者介面設計，最佳化以符合電子郵件行銷人員的需求和工作流程。
 
@@ -31,7 +31,7 @@ Spring &#39;16版本包含下列功能。 請按一下標題連結，以檢視�
 
 >[!NOTE]
 >
->電子郵件編輯器2.0（含範本選擇器）將於6月3日起逐步推出。 我們將於6月30日前完成推出。 與「電子郵件分析」不同，當您有存取權時，不會通知您。 若要瞭解您是否這麼做，請依照[本文](https://docs.marketo.com/pages/viewpage.action?pageId=11373011)中的步驟進行。
+>電子郵件編輯器2.0（含範本選擇器）將於6月3日起逐步推出。 我們將於6月30日前完成推出。 與「電子郵件分析」不同，當您有存取權時，不會通知您。 若要瞭解您是否這麼做，請依照[本文](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)中的步驟進行。
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -53,17 +53,13 @@ Spring &#39;16版本包含下列功能。 請按一下標題連結，以檢視�
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [自訂活動](https://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
-
-行銷人員現在可以透過「行銷人員自訂活動定義」建立器來定義及管理其自訂活動類型。 與Marketo Custom Object Modeler類似（並搭配使用），管理員現在可以擴充資料模型，以符合其確切的業務需求。 有關如何使用此功能的詳細資訊，請參閱[Marketo檔案網站](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities)。
-
 ## [著陸頁面、著陸頁面範本和表單API](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
 Marketo REST API現在支援對Marketo登陸頁面、登陸頁面範本和表單的控制。 使用者現在可以直接透過Marketo REST API建立、更新內容、核准和刪除這些資產。
 
 ## [API存取的IP允許清單](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-與Marketo使用者登入的IP允許清單功能類似，Marketo管理員現在可以設定IP位址的允許清單，以存取Marketo SOAP和REST API，從而封鎖來自非授權IP位址的存取。 這為您的Marketo例項提供了新增的安全層，並可確保API存取只能從您組織的網路進行。 有關如何設定此設定的詳細資訊，請參閱[Marketo檔案網站](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access)。
+與Marketo使用者登入的IP允許清單功能類似，Marketo管理員現在可以設定IP位址的允許清單，以存取Marketo SOAP和REST API，從而封鎖來自非授權IP位址的存取。 這為您的Marketo例項提供了新增的安全層，並可確保API存取只能從您組織的網路進行。 有關如何設定此設定的詳細資訊，請參閱[Marketo檔案網站](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)。
 
 ## [全新高速Microsoft Dynamics Sync連接器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -100,3 +96,7 @@ Marketo REST API現在支援對Marketo登陸頁面、登陸頁面範本和表單
 現在，您可以檢視所有已發佈自訂物件的記錄和欄位數。
 
 ![](assets/custom-objects-grid.png)
+
+## 自訂活動{#custom-activities}
+
+行銷人員現在可以透過「行銷人員自訂活動定義」建立器來定義及管理其自訂活動類型。 與Marketo Custom Object Modeler類似（並搭配使用），管理員現在可以擴充資料模型，以符合其確切的業務需求。 有關如何使用此功能的詳細資訊，請參閱[Marketo檔案網站](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)。
