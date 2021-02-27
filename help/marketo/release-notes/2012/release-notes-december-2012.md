@@ -3,7 +3,7 @@ unique-page-id: 2951107
 description: 發行說明- 2012年12月——行銷檔案——產品檔案
 title: 發行說明- 2012年12月
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## BrightTALK適配器{#brighttalk-adapter}
 
-Marketo BrightTALK適配器可讓您從即時或隨選網路廣播擷取出席資訊，直接匯入Marketo活動！
+Marketo BrightTALK適配器可讓您從即時或隨選網路廣播擷取出席資訊，直接匯入行銷人員活動！
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
@@ -70,7 +70,6 @@ Sales Insight現在可供Microsoft Dynamics客戶使用！
 
 您是否曾想知道哪些促銷活動使用特定的流量動作，例如「變更分數」或「請求促銷活動」? 或是使用特定篩選器的位置？ 新的「促銷活動偵測器」（可從「金庫」取得）可讓您識別這些促銷活動，以及有錯誤的作用中促銷活動和促銷活動。
 
-前往&#x200B;**管理員** > **財箱**&#x200B;啟用**促銷活動偵測器**。
+前往&#x200B;**管理員** > **財箱**&#x200B;以啟用&#x200B;**促銷活動偵測器**。
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)
-
