@@ -3,7 +3,7 @@ unique-page-id: 2951105
 description: 發行說明- 2013年1月——行銷檔案——產品檔案
 title: 發行說明- 2013年1月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -62,4 +62,3 @@ ht-degree: 0%
 「更改程式資料流」步驟允許您通過促銷活動手動更改方案成員的成功狀態和成功日期。 您可以使用此流程步驟來更正錯誤，或手動更改可能未如預期參與計畫的成員。
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)
-
