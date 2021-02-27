@@ -3,9 +3,9 @@ unique-page-id: 10094114
 description: 發行說明- 2015年秋季版——行銷檔案——產品檔案
 title: 發行說明- 2015年秋季版
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '1026'
+source-wordcount: '995'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Fall &#39;15發行包含下列功能。 請檢查您的Marketo Edition是否提�
 
 ## 訂閱智慧清單{#subscribe-to-a-smart-list}
 
-[訂閱智慧型清單](../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
+[訂閱智慧型清單](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
 「訂閱智慧型清單」可讓行銷人員匯出智慧型清單，並以電子郵件寄送給未使用Marketo的利益相關者，例如銷售或電話行銷團隊。
 
@@ -31,7 +31,7 @@ Fall &#39;15發行包含下列功能。 請檢查您的Marketo Edition是否提�
 
 ## 行銷人員自訂物件{#marketo-custom-objects}
 
-[行銷人員自訂物件](https://docs.marketo.com/display/docs/marketo+custom+objects)
+[行銷人員自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
 從管理員UI輕鬆建立自訂物件。 我們目前支援在Marketo中建立1:N自訂物件，並將它連接至銷售機會或公司的能力。
 
@@ -39,12 +39,11 @@ Fall &#39;15發行包含下列功能。 請檢查您的Marketo Edition是否提�
 >
 >Spark無法使用Marketo自訂物件。
 
-
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
 ## Google Chrome的Marketo Insights {#marketo-insights-for-google-chrome}
 
-[Google Chrome的Marketo Insights](../../product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Google Chrome的Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 我們很高興宣佈推出Google Mail Sales Insight擴充功能的更新！ 在[Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)中檢視。
 
@@ -58,15 +57,15 @@ Fall &#39;15發行包含下列功能。 請檢查您的Marketo Edition是否提�
 
 ## Marketo Mobile參與- Token、傳送範例和預覽{#marketo-mobile-engagement-tokens-send-sample-preview}
 
-* [Token](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
-* [傳送範例](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
-* [預覽](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
+* [Token](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
+* [傳送範例](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
+* [預覽](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-使用[Token](https://docs.marketo.com/pages/viewpage.action?pageId=7512454)輕鬆個人化推播通知。
+使用[Token](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)輕鬆個人化推播通知。
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-您也可以在將[預覽](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)或傳送[範例](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)推播通知，再將它部署至客戶。
+您也可以在將[預覽](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)或傳送[範例](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)推播通知，再將它部署至客戶。
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -74,7 +73,7 @@ Fall &#39;15發行包含下列功能。 請檢查您的Marketo Edition是否提�
 
 ## 瞬間的智慧型促銷活動{#smart-campaigns-in-moments}
 
-[瞬間智慧型宣傳](../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+[瞬間智慧型宣傳](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
 透過「智慧型促銷活動」傳送之「電子郵件」的統計資料現在可在「時刻」中取得。 此升級的其他功能包括：
 
@@ -85,9 +84,9 @@ Fall &#39;15發行包含下列功能。 請檢查您的Marketo Edition是否提�
 
 ![](assets/image2015-10-1-13-3a58-3a27.png)
 
-## RTP —— 內容分析和建議{#rtp-content-analytics-and-recommendations}
+## RTP —— 內容分析和Recommendations{#rtp-content-analytics-and-recommendations}
 
-[內容分](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 析與建議
+[內容分](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 析與Recommendations
 
 RTP內容分析顯示來自定期網站瀏覽和RTP內容建議引擎產生的瀏覽的網頁內容資產效能。
 
@@ -95,16 +94,16 @@ RTP內容分析顯示來自定期網站瀏覽和RTP內容建議引擎產生的�
 * 啟用RTP的預測式內容引擎中的內容，自動向適當的訪客推薦最佳內容，大幅提高您的內容消費
 * 深入探究每個內容資產，以檢視更深入的度量、圖形和效能
 
-RTP的「資產」頁面現在已分割為「內容分析」和「內容建議」。
+RTP的「資產」頁面現在分為「內容分析」和「內容Recommendations」。
 
 * **內容分析：顯** 示所有已發現和定義之網頁內容的檢視和直接潛在客戶，協助您分析效能最佳的內容
-* **內容建議**:顯示RTP建議內容及相關銷售機會歸因的曝光和點按次數。您也可以編輯並啟用本頁中[bar](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine)和[rich media](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine)建議的內容建議。
+* **內容Recommendations**:顯示RTP建議內容及相關銷售機會歸因的曝光和點按次數。您也可以編輯並啟用本頁中[bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)和[rich media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)建議的內容建議。
 
 * 自年初（2015年1月1日）起，這兩頁中的所有直接銷售線索資料都已追溯更新。
 
 ## RTP —— 克隆RTP促銷活動{#rtp-clone-an-rtp-campaign}
 
-[RTP —— 克隆RTP促銷活動](../../product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
+[RTP —— 克隆RTP促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
 
 仿製RTP促銷活動可讓建立更個人化的Web促銷活動更快更有效率。 使用RTP促銷活動頁面中的仿製功能來複製促銷活動設定並變更內容以進行分割測試最佳化，或複製具有相同內容的促銷活動並將其定位至不同的群體。 在數秒內建立促銷活動！
 
@@ -116,52 +115,35 @@ RTP的「資產」頁面現在已分割為「內容分析」和「內容建議�
 
 * HTML程式碼現在支援VML:
 
-   ```
-   <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
-   ```
-
-   ```
-   <v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
-   ```
-
-   ```
-   </v:background>
-   ```
+```
+<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+<v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
+</v:background>
+```
 
 * 現在，任何內容都可插入有效的HTML註解中（某些語法，如下所示，先前已移除）:
 
-   ```
-   <!--[if gte mso 9]> 
-   ```
+`<!--[if gte mso 9]> <![endif]-->`
 
-   ```
-   <![endif]-->
-   ```
-
-* 不要將空白表格儲存格貼入`**`
+* 不要將空白表格儲存格貼入`&nbsp;`
 
 * 將新增至HTML來源編輯器的「最大化／最小化」按鈕
 * 現在可在「表屬性」對話框中標識並顯示預先存在的表屬性
 * 現在預設會顯示兩列按鈕。
 * 編輯器現在會接受任何元素（即使已過時或非標準元素）:
 
-   ```
-   <myCustomElement>Hello World!</myCustomElement>
-   ```
+`<myCustomElement>Hello World!</myCustomElement>`
 
 * 編輯器現在會接受任何屬性（即使已過時或非標準屬性）:
 
-   ```
-   <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
-   ```
-
-   ```
-   <td background="someImage.png"> 
-   ```
+```
+<myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
+<td background="someImage.png"> 
+```
 
 ## Microsoft Dynamics —— 驗證同步{#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics —— 驗證同步](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[Microsoft Dynamics —— 驗證同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 這個新的管理工具會執行一系列檢查，以查看您的同步設定是否已正確設定。
 
