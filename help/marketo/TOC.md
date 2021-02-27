@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 行銷人員指南
 user-guide-description: 行銷人員產品檔案
 translation-type: tm+mt
-source-git-commit: 6b15e601b1c6e424d10f702f35233b499660611f
+source-git-commit: 8bde41ab77661487bc220c3c4ec52c9be3b09fd0
 workflow-type: tm+mt
-source-wordcount: '7828'
+source-wordcount: '7833'
 ht-degree: 0%
 
 ---
@@ -79,7 +79,7 @@ ht-degree: 0%
          + [ABM報告設定](product-docs/account-based-marketing/measure/abm-report-setup.md)
          + [ABM銷售報告](product-docs/account-based-marketing/measure/abm-sales-report.md)
          + [帳戶清單分析](product-docs/account-based-marketing/measure/account-list-insights.md)
-         + [RCA中的命名帳戶維](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
+         + [RCA中的指名帳戶Dimension](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
          + [指名帳戶分析](product-docs/account-based-marketing/measure/named-account-insights.md)
          + [使用角色](product-docs/account-based-marketing/using-personas.md)
    + 帳戶分析{#account-profiling}
@@ -90,7 +90,7 @@ ht-degree: 0%
       + SEO {#seo}
          + 瞭解SEO {#understanding-seo}
             + [瞭解搜尋引擎最佳化](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-            + [瞭解SEO儀表板：SEO建議](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+            + [瞭解SEO儀表板：徐Recommendations](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
             + [瞭解SEO儀表板：SEO快照](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
             + [SEO —— 新增網站／刪除網站](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
             + [SEO —— 新增競爭者](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
@@ -146,7 +146,7 @@ ht-degree: 0%
          + [將ON24新增為LaunchPoint服務](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
          + [將ReadyTalk添加為LaunchPoint服務](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [將單一登入新增至入口網站](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
-         + [將Slack添加為LaunchPoint服務](product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md)
+         + [將Slack新增為LaunchPoint服務](product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md)
          + [將WebEx新增為LaunchPoint服務](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [將Workplace By Facebook新增為LaunchPoint服務](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [將縮放新增為LaunchPoint服務](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
@@ -480,13 +480,13 @@ ht-degree: 0%
                + [傳送範例](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [分享時刻](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
          + 其他{#miscellaneous}
-            + [設定Adobe Experience Manager整合](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
+            + [配置Adobe Experience Manager整合](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
             + [建立新的促銷活動資料夾](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
             + [使用Adobe Experience Manager匯入資產](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
             + [鍵盤快速鍵辭彙表](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
             + [Marketo沙盒](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
             + [將行銷人員重新命名為資產](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-            + [設定Adobe Experience Cloud觀眾共用](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+            + [設定Adobe Experience Cloud觀眾分享](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
             + [瞭解資料夾](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
             + [瞭解通知](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
             + [通知類型](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
@@ -594,7 +594,7 @@ ht-degree: 0%
             + [LaunchPoint活動合作夥伴](product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)
             + [瞭解活動計畫](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
          + 建立事件{#create-an-event}
-            + [使用Adobe Connect建立活動](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
+            + [與Adobe Connect一起建立活動](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [使用Goto網路研討會建立活動](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [使用第3級Web會議建立活動](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [使用ReadyTalk建立事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
@@ -623,7 +623,7 @@ ht-degree: 0%
          + [測試Facebook銷售線索廣告以利與Marketo進行行動整合](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [瞭解Facebook離線轉換](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
          + [在智慧型促銷活動中使用銷售機會廣告篩選器和觸發器](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
-      + 表單{#forms}
+      + Forms{#forms}
          + 建立表單{#creating-a-form}
             + [建立表單](product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
             + [新增欄位至表單](product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
@@ -716,6 +716,7 @@ ht-degree: 0%
             + [編輯行銷人員著陸頁面範本](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
             + [讓現有的自由格式著陸頁面範本與行動相容](product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
             + [瞭解引導範本中的元素和變數](product-docs/demand-generation/landing-pages/landing-page-templates/understanding-elements-and-variables-in-guided-templates.md)
+            + [引導式著陸頁面範本清單](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md)
             + 引導式著陸頁面範本{#guided-landing-page-templates}
                + [範本1-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1-a.md)
                + [範本1-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1-b.md)
@@ -783,7 +784,7 @@ ht-degree: 0%
                + [範本12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [範本13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [範本13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [範本13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [範本13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [範本14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -866,7 +867,7 @@ ht-degree: 0%
             + [在表單上啟用社交表單填寫(Social)](product-docs/demand-generation/social/social-functions/enable-social-form-fill-on-a-form-social.md)
             + [管理社交設定檔資料](product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)
             + [設定社交分享需求](product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
-            + [設定LinkedIn銷售機會開發表單](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
+            + [設定LinkedIn Lead GenForms](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
             + [社交活動的觸發器和篩選器](product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)
             + [使用行銷人員清單或智慧清單作為LinkedIn觀眾區隔](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
             + [在社交促銷中使用電子郵件](product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
@@ -1020,7 +1021,7 @@ ht-degree: 0%
       + 開始使用{#getting-started}
          + [銷售連接概述](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Sales Connect快速入門](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
-         + [快速入門影片和教學課程](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
+         + [快速入門影片和Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + 電子郵件設定{#email-settings}
             + [新增身分](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
             + [新增您的電子郵件簽名](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
@@ -1273,7 +1274,7 @@ ht-degree: 0%
             + [更新Microsoft Dynamics的Marketon Sales Insight解決方案](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/update-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + 適用於Salesforce {#msi-for-salesforce}的MSI
          + 安裝{#installation}
-            + [在Salesforce AppExchange中安裝Marketo Sales Insight套件](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+            + [在SalesforceAppExchange中安裝Marketo Sales Insight套件](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + 配置{#configuration}
             + [在Salesforce Enterprise中設定Marketo Sales Insight/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [在Salesforce Professional Edition中設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
@@ -1329,8 +1330,8 @@ ht-degree: 0%
          + [指定Marketo Sales Insight外掛程式管理員](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
          + [升級您的行銷人員至Outlook電子郵件增益集](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
       + [針對非原生Salesforce整合的銷售分析](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
-   + Marketo Sky {#marketo-sky}
-      + [為Marketo Sky啟用角色](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
+   + Marketo Sky{#marketo-sky}
+      + [啟用角色進行Marketo Sky](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
    + 行動行銷{#mobile-marketing}
       + 管理員{#admin}
          + [新增行動應用程式](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
@@ -1473,7 +1474,7 @@ ht-degree: 0%
             + [已檢視的網頁、網頁活動報表](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + 電子郵件見解{#email-insights}
          + [電子郵件見解概觀](product-docs/reporting/email-insights/email-insights-overview.md)
-         + [電子郵件見解的自訂維度](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
+         + [電子郵件見解的自訂Dimension](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
          + [電子郵件見解分析概觀](product-docs/reporting/email-insights/email-insights-analytics-overview.md)
          + [電子郵件見解常見問答集](product-docs/reporting/email-insights/email-insights-faq.md)
          + [電子郵件見解快速圖表](product-docs/reporting/email-insights/email-insights-quick-charts.md)
@@ -1583,7 +1584,7 @@ ht-degree: 0%
          + [Marketo登陸頁面上的RTP實現](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-marketo-landing-pages.md)
          + [Wordpress企業中RTP的實現](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress-enterprise.md)
          + [在Wordpress中實現RTP](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress.md)
-         + [使用Adobe Tag Manager實作RTP](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
+         + [用Adobe Tag Manager實現RTP](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
          + [使用Google Tag Manager實現RTP](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
          + [使用Tealium Tag Manager實現RTP](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-tealium-tag-manager.md)
       + Web個人化報告{#reporting-for-web-personalization}
