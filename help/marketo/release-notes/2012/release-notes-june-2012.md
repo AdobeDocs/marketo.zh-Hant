@@ -3,21 +3,15 @@ unique-page-id: 2951114
 description: 發行說明- 2012年6月——行銷檔案——產品檔案
 title: 發行說明- 2012年6月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '667'
 ht-degree: 0%
 
 ---
 
 
 # 發行說明：2012年6月{#release-notes-june}
-
->[!NOTE]
->
->**深入探討**
->
->如需其他版本，請參閱[發行說明](https://docs.marketo.com/display/docs/release+notes)深入探討。
 
 ## Marketo銷售線索管理增強功能{#marketo-lead-management-enhancements}
 
