@@ -3,9 +3,9 @@ unique-page-id: 8783189
 description: 發行說明- 2015年7月——行銷檔案——產品檔案
 title: 發行說明- 2015年7月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 ## 富格文本編輯器更新{#rich-text-editor-update}
 
 更新文字編輯器，提供現代化的外觀和感覺，包括簡化的文字格式、影像編輯、連結插入和HTML編輯。 HTML編輯器現在提供最少的驗證，讓編輯程式碼的限制更少。
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` 此更新將在7月發行後數天內自動推出。之後，您就可以從&#x200B;**管理>電子郵件>編輯編輯器設定**&#x200B;在新版和舊版編輯器之間切換。 如果您注意到新版文字編輯器的問題，我們會想知道！ 請傳送簡短說明給[`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd)。
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` 此更新將在7月發行後數天內自動推出。之後，您就可以從&#x200B;**管理>電子郵件>編輯編輯器設定**&#x200B;在新版和舊版編輯器之間切換。
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -54,4 +54,4 @@ ht-degree: 0%
 
 ## 存取電子郵件傳遞能力{#access-email-deliverability}
 
-**存取電子郵件傳送功能工具：**此新權限可讓管理員授予使用者存取「電子郵件傳送」工具的權限。
+**存取電子郵件傳遞功能工具**:此新權限可讓管理員授予使用者存取「電子郵件傳送功能」工具的權限。
