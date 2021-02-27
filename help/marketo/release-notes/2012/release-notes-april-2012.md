@@ -3,9 +3,9 @@ unique-page-id: 2951119
 description: 發行說明- 2012年4月——行銷檔案——產品檔案
 title: 發行說明- 2012年4月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 發行說明：2012年4月{#release-notes-april}
 
 ## 區段篩選器和觸發器{#segmentation-filters-and-triggers}
-
->[!NOTE]
->
->**深入探討**
->
->如需其他版本，請參閱[發行說明](https://docs.marketo.com/display/docs/release+notes)深入探討。
 
 您是否一致地定位同一組銷售線索？ 如果是，請在智慧型清單中使用區段來定位潛在客戶。 使用分段功能，您的整個銷售機會資料庫都會進行分段，而且可以跨不同的程式重複使用，以維持一致性。 區段結果會快速提取，因為不需要智慧型清單在請求時執行。
 
@@ -30,9 +24,9 @@ ht-degree: 0%
 * 「請求促銷活動API」現在可讓您針對促銷活動的該特定執行傳送「我的代號」值——這對於透過API填入電子郵件內容特別有用
 * 新的「上傳至清單」和「排程促銷活動API」支援上述銷售機會和批次促銷活動的清單。
 
-## GoTo網路研討會和WebEx（Adobe Connect和ON24即將推出！）的更輕鬆確認電子郵件{#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
+## GoTo網路研討會和WebEx(Adobe Connect和ON24即將推出！)的更輕鬆確認電子郵件{#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
 
-我們已透過建立會員Token來簡化確認URL，其中顯示每個銷售機會的唯一註冊確認URL。 您不再需要使用不同的Token來建立此URL。 目前GoToWebinar和WebEx客戶可使用此軟體，而Adobe Connect和ON24將於我們的下一版中提供。
+我們已透過建立會員Token來簡化確認URL，其中顯示每個銷售機會的唯一註冊確認URL。 您不再需要使用不同的Token來建立此URL。 目前GoToWebinar和WebEx客戶可使用此功能，我們的下一版將提供Adobe Connect和ON24。
 
 ![](assets/image2014-9-23-10-3a4-3a18.png)
 
@@ -63,4 +57,3 @@ ht-degree: 0%
 可讓使用者定義其轉換規則的順序。
 
 ![](assets/image2014-9-23-10-3a5-3a17.png)
-
