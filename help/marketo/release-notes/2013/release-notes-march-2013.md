@@ -3,9 +3,9 @@ unique-page-id: 2951101
 description: 發行說明- 2013年3月——行銷檔案——產品檔案
 title: 發行說明- 2013年3月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # 發行說明：2013年3月{#release-notes-march}
 
-3月發行包含下列功能。 請檢查您的[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php)是否提供功能。
-
-發行後，請務必查看社群中的[新發行](release-notes-december-2013.md)標籤，以取得每個功能的詳細知識庫文章！
+3月發行包含下列功能。
 
 ## 行銷人員日曆檔案{#marketo-calendar-files}
 
-建立日曆檔案作為&#x200B;**我的Token**，以用於您的事件確認和提醒電子郵件。 此整合的日曆檔案(例如.ics檔案)將會呈現所有Token，包括My Token和`{{member.webinar URL}}` Token。
+建立日曆檔案作為&#x200B;**我的Token**，以用於您的事件確認和提醒電子郵件。 此整合的日曆檔案（例如。ics檔案）將會呈現所有Token，包括My Token和`{{member.webinar URL}}` Token。
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 
