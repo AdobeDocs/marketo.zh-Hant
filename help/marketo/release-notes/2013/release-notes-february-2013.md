@@ -3,7 +3,7 @@ unique-page-id: 2951103
 description: 發行說明- 2013年2月——行銷檔案——產品檔案
 title: 發行說明- 2013年2月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Webhook已增強，可逸出URL/裝載中的Token，也可透過剖析第三方�
 
 ## 即將推出：支援多種型號{#coming-soon-support-for-multiple-models}
 
-我們正在為支援多種營收週期模型奠定基礎，在未來版本中，在社群中為RCA投下了第一的一票。 在此版本中，您會注意到一些變更，包括[智慧型清單篩選器和在流程步驟中新增選擇](../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)，以支援選擇模型和舞台。 我們也將「銷售線索收入階段」和「銷售線索收入週期模型」欄位移出「智慧清單銷售線索」格線標籤。
+我們正在為支援多種營收週期模型奠定基礎，在未來版本中，在社群中為RCA投下了第一的一票。 在此版本中，您會注意到一些變更，包括[智慧型清單篩選器和在流程步驟中新增選擇](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)，以支援選擇模型和舞台。 我們也將「銷售線索收入階段」和「銷售線索收入週期模型」欄位移出「智慧清單銷售線索」格線標籤。
