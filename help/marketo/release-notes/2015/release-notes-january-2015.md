@@ -3,9 +3,9 @@ unique-page-id: 4720758
 description: 發行說明- 2015年1月——行銷檔案——產品檔案
 title: 發行說明- 2015年1月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ ht-degree: 0%
 
 ## 行銷自動化更新{#marketing-automation-updates}
 
-**Rick DeCosta的新像片！**
-
-Rick是SmartBear的Marketo客戶，擁有[令人難以置信的像片集](https://www.flickr.com/photos/rickdecosta)。 看看他們！
-
-## 行動友好型登陸頁面{#mobile-friendly-landing-pages}
+**適用於行動裝置的著陸頁面**
 
 您現在可以從著陸頁面編輯器中，為著陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)建立行動檢視。 [不論使用何種裝置，您都能有效傳遞訊息，並透過量身打造內容以方便在外出時使用，進而提升參與度。 此功能將在發行後的一週內逐步推出。
 
-`<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
+[-著陸頁面逐步影片-](https://youtu.be/aPQHlG2X6c0)
 
-**新的ReST API呼叫**
+**新的Rest API呼叫**
 
 對Lead &amp; Activity ReST API的三個新呼叫：
 
@@ -57,9 +53,9 @@ Rick是SmartBear的Marketo客戶，擁有[令人難以置信的像片集](https:
 
 ![](assets/image2015-1-14-11-3a12-3a16.png)
 
-更新的RTP標籤選項
+**更新的RTP標籤選項**
 
-[已更](https://docs.marketo.com/display/docs/rtp+tag+implementation) 新「Account Settings（帳戶設定）」下的RTP標籤，包括：
+「Account Settings（帳戶設定）」下的RTP標籤選項已更新為包括：
 
 1. CDN和非同步（建議的標籤）
 1. CDN與同步（高速）
