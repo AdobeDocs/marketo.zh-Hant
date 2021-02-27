@@ -3,9 +3,9 @@ unique-page-id: 2951122
 description: 發行說明- 2012年3月——行銷檔案——產品檔案
 title: 發行說明- 2012年3月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # 發行說明：2012年3月{#release-notes-march}
 
->[!NOTE]
->
->**深入探討**
->
->如需其他版本，請參閱[發行說明](https://docs.marketo.com/display/docs/release+notes)深入探討。
->
->## 解析我的Token {#resolve-my-tokens}>
+## 解析我的Token {#resolve-my-tokens}
 
 我的Token（程式Token）會在預覽電子郵件、傳送測試電子郵件，以及透過單一流量動作傳送本機電子郵件時解析。 您不再需要在程式中建立智慧型促銷活動來測試我的Token!
 
