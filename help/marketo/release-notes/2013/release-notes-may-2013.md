@@ -3,9 +3,9 @@ unique-page-id: 2951097
 description: 發行說明- 2013年5月——行銷檔案——產品檔案
 title: 發行說明- 2013年5月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 發行說明：2013年5月{#release-notes-may}
 
-5月發行包含下列功能。 請檢查您的[Marketo](https://docs.marketo.com/display/docs/assets/pricing.php) [Edition](https://docs.marketo.com/display/docs/assets/pricing.php)是否有功能可用。
-
-發行後，請務必查看社群中的[新發行](release-notes-december-2013.md)標籤，以取得每個功能的詳細知識庫文章！
+5月發行包含下列功能。
 
 ## 著陸頁面的日曆檔案{#calendar-files-for-landing-pages}
 
@@ -40,4 +38,3 @@ ht-degree: 0%
 變更晉升狀態現在為變更計畫狀態。 變更計畫資料現在變更計畫成功
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)
-
