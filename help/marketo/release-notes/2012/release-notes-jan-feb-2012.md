@@ -3,9 +3,9 @@ unique-page-id: 2951124
 description: 發行說明- 2012年1月/2月——行銷檔案——產品檔案
 title: 發行說明- 2012年1月/2月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 1月/2月發行包含下列功能。 檢查您的Marketo版本，以取得功能。 在發行後回來，取得詳細功能檔案的連結。
 
->[!NOTE]
->
->**深入探討**
->
->如需其他版本，請參閱[發行說明](https://docs.marketo.com/display/docs/release+notes)深入探討。
-
 ## 進階動態內容{#advanced-dynamic-content}
 
-*適用於Pro和Enterprise版本*
+_適用於Pro和Enterprise版本_
 
 使用進階的動態內容，您就可以建立與受眾相關的精彩電子郵件通訊和登陸頁面，而不需針對相同的訊息建立多個資產。 升級的預覽器可讓您在單一畫面中檢視每個獨特版本。
 
@@ -31,7 +25,7 @@ ht-degree: 0%
 
 ## 區段{#segmentation}
 
-*適用於Pro和Enterprise版本*
+_適用於Pro和Enterprise版本_
 
 區段是一組區段，是您行銷的目標群體。 區段由規則定義，規則由類似於智慧型清單的篩選條件所驅動。 您的區段可以根據人口統計資料（例如職稱或產業），或根據瀏覽或點按的網頁等行為。
 
@@ -39,7 +33,7 @@ ht-degree: 0%
 
 ## 代碼片段{#snippets}
 
-*適用於Pro和Enterprise版本*
+_適用於Pro和Enterprise版本_
 
 儲存可反複使用的豐富式內容，以建立靜態或動態電子郵件和登陸頁面。
 
@@ -47,7 +41,7 @@ ht-degree: 0%
 
 ## PURL {#purls}
 
-*適用於Pro和Enterprise版本*
+_適用於Pro和Enterprise版本_
 
 使用個人化URL(PURL)行銷人員現在可以建立特定於連絡人的URL，以針對直接郵件和電子郵件促銷活動，在多點觸控式行銷方案中推動個人化、可測量性和提升回應率。
 
@@ -105,4 +99,3 @@ ht-degree: 0%
 瞭解哪些程式獲得了快速移動器，從而洞察計畫的領先速度
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)
-
