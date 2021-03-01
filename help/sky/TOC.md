@@ -14,7 +14,7 @@ ht-degree: 0%
 ---
 
 
-# Marketo Sky Docs {#sky}
+# Marketo Sky文檔{#sky}
 
 + [首頁](home.md)
 + 開始使用{#getting-started}
