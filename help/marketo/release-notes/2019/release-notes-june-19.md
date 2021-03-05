@@ -3,9 +3,9 @@ unique-page-id: 18874822
 description: 發行說明- 1996年6月——行銷檔案——產品檔案
 title: 發行說明- 19年6月
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,6 @@ ht-degree: 0%
 ## Marketo Sales Connect {#marketo-sales-connect}
 
 * **Salesforce自訂中的大量動作**:使用Salesforce自訂功能，透過大量傳送電子郵件及新增聯絡人至促銷活動，將生產力提升到最大。
-* **選取、拖放**:透過將範本拖放至直覺式類別的功能，輕鬆組織您的Sales Connect實例。
 * **設定——管理員和非管理員的Salesforce頁面**:透過與Sales Connect連接的Salesforce例項以及My Email to Salesforce更新的清晰檢視，管理您的Sales Connect例項。管理員、非管理員和團隊寬同步的增強同步設定即將於未來幾個月推出。
 * **「設定——整合」頁**:一站式商店，可讓您完成所有整合，以充份運用我們的開放生態系統。
 * **設定——設定檔頁面**:檢視並更新您的帳戶詳細資訊、變更密碼，以及在這個新的設定檔頁面上檢查您實例的實施狀態。
