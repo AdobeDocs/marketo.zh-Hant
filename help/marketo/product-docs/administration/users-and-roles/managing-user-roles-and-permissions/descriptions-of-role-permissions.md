@@ -3,7 +3,7 @@ unique-page-id: 6848747
 description: 角色權限說明——行銷人員檔案——產品檔案
 title: 角色權限說明
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
 source-wordcount: '1144'
 ht-degree: 0%
@@ -86,7 +86,7 @@ ht-degree: 0%
 * 讀寫機會
 * 讀寫銷售人員
 
-存取分析
+## 存取Analytics {#access-analytics}
 
 為使用者提供Analytics標籤、電子郵件分析、報表和下列三個項目的存取權，除非未勾選這些項目。
 
@@ -94,11 +94,11 @@ ht-degree: 0%
 * 刪除報表——取消勾選會移除使用者刪除報表的能力
 * 匯出分析資料——取消核取會移除使用者匯出Analytics資料的能力
 
-## 存取日曆簡報{#access-calendar-presentations}
+## 訪問日曆Presentations{#access-calendar-presentations}
 
-讓使用者存取「行事歷」簡報——可在底部顯示「簡報」按鈕
+讓使用者存取「日曆」簡報——可在底部顯示「Presentations」按鈕。
 
-* 編輯日曆簡報——讓使用者在日曆中編輯簡報
+* 編輯日曆Presentations-讓使用者在日曆中編輯簡報
 
 ## 存取Design Studio {#access-design-studio}
 
