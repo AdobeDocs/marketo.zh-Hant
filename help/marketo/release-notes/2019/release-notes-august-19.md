@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: 發行說明- 1998年8月——行銷檔案——產品檔案
 title: 發行說明- 19年8月
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,6 @@ ht-degree: 0%
 
 **Marketo Sales Connect** ![（星級）](assets/star-yellow.svg)
 
-* **入門**:逐步逐步逐步逐步逐步執行，透過引導新使用者進行例項設定，讓上線更輕鬆、更有效率。
 * **人員頁面配置增強功能：** 透過新人員頁面配置中的清單匯入和大量動作，管理您的人員和群組。
 
 >[!AVAILABILITY]
