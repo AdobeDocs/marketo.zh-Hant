@@ -3,9 +3,9 @@ unique-page-id: 14746177
 description: 重新訂閱取消訂閱——行銷人員檔案——產品檔案
 title: 重新訂閱取消訂閱
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->在重新訂閱某人之前，您應能夠證明重新訂閱之授權已有明文規定，且符合所有適用法律。
+>在重新訂閱某人之前，您應能夠證明，重新訂閱之授權已有明文規定且符合所有適用法律。
 
 >[!NOTE]
 >
@@ -40,3 +40,7 @@ ht-degree: 0%
 1. 選擇選擇回訪者接收電子郵件的原因，然後按一下「移除取消訂閱」**。**
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>如果您已開啟取消訂閱同步，您也必須在Salesforce記錄中取消勾選退出方塊，否則夜間同步將重新訂閱Sales Connect中的人員，因為它會偵測到該人員在Salesforce中已選擇退出。 如果其中一個記錄選擇退出／取消訂閱，同步會將連結的記錄標籤為此類。
