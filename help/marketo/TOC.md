@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 行銷人員指南
 user-guide-description: 行銷人員產品檔案
 translation-type: tm+mt
-source-git-commit: 8bde41ab77661487bc220c3c4ec52c9be3b09fd0
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '7833'
+source-wordcount: '7857'
 ht-degree: 0%
 
 ---
@@ -210,6 +210,7 @@ ht-degree: 0%
          + [編輯和刪除Marketo自訂物件欄位](product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
          + [匯入自訂物件資料](product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
          + [觸發自訂物件變更](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
+         + [自訂物件中繼資料匯出](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + 設定{#settings}
          + [變更Analytics的歸因設定](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [變更行銷人員密碼](product-docs/administration/settings/change-your-marketo-password.md)
@@ -325,6 +326,7 @@ ht-degree: 0%
             + [更改計畫狀態](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
             + [變更計畫成功](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
          + Microsoft Dynamics Flow動作{#microsoft-dynamics-flow-actions}
+            + [從動態促銷活動新增或移除人員](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
             + [在Microsoft中更改所有者](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
             + [在Microsoft中建立任務](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
             + [將人員同步至Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
@@ -529,6 +531,8 @@ ht-degree: 0%
             + [Microsoft Dynamics Sync:機會同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
             + [Microsoft Dynamics Sync:使用者同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
             + [同步狀態](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
+            + [促銷活動同步概觀](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
+            + [啟用促銷活動同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
          + 自訂動態同步篩選詳細資訊{#custom-dynmaics-sync-filter-details}
             + [建立自訂動態同步篩選](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [電子郵件地址的自訂同步篩選規則](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
@@ -580,6 +584,7 @@ ht-degree: 0%
          + [添加／刪除選擇清單值](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
          + [啟用／停用Salesforce同步](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [隱含的Salesforce動作](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [Salesforce同步狀態](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
    + 需求開發{#demand-generation}
       + 廣告網路整合{#ad-network-integrations}
          + [將Facebook自訂對象新增為LaunchPoint服務](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
@@ -784,7 +789,7 @@ ht-degree: 0%
                + [範本12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [範本13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [範本13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [範本13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [範本13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [範本14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1645,10 +1650,11 @@ ht-degree: 0%
 + 發行說明{#release-notes}
    + [發行計畫](release-notes/release-schedule.md)
    + 2020 {#2020}
-      + [發行說明：20年2月](release-notes/2020/release-notes-feb-20.md)
       + [發行說明：1920年1月](release-notes/2020/release-notes-jan-20.md)
-      + [發行說明：20年7月](release-notes/2020/release-notes-july-20.md)
+      + [發行說明：20年2月](release-notes/2020/release-notes-feb-20.md)
       + [發行說明：1920年6月](release-notes/2020/release-notes-june-20.md)
+      + [發行說明：20年7月](release-notes/2020/release-notes-july-20.md)
+      + [發行說明：20年10月](release-notes/2020/release-notes-oct-20.md)
    + 2019 {#2019}
       + [發行說明：19年8月](release-notes/2019/release-notes-august-19.md)
       + [發行說明：1919年6月](release-notes/2019/release-notes-june-19.md)
