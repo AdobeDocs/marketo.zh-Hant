@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: 使用人員詳細資料頁面——行銷人員檔案——產品檔案
 title: 使用人員詳細資訊頁
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -59,6 +59,10 @@ ht-degree: 0%
 | Microsoft銷售線索欄位 | 內建Microsoft欄位。 |
 | 活動日誌 | 與該人相關的所有活動。 |
 
+>[!NOTE]
+>
+>您還可以看到通過API](http://developers.marketo.com/rest-api/lead-database/opportunities/)插入的與CRM不同步的實例的機會資訊[。
+
 ## 編輯欄位{#editing-a-field}
 
 許多欄位都可編輯。 若要更新人員的資訊，請輸入新值，然後按一下欄位外的以儲存。
@@ -92,10 +96,10 @@ ht-degree: 0%
 >
 >有些欄位為&#x200B;_not_&#x200B;可編輯：
 >
+>* 活動日誌
 >* 公司資訊
 >* SFDC聯繫人的機會
 >* 特定行銷專用欄位，例如「建立日期」和「原始來源類型」。
->* 活動日誌
 
 >
 >
