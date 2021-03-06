@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 行銷人員指南
 user-guide-description: 行銷人員產品檔案
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
-source-wordcount: '7857'
+source-wordcount: '7875'
 ht-degree: 0%
 
 ---
@@ -187,6 +187,7 @@ ht-degree: 0%
          + [自訂欄位類型辭彙表](product-docs/administration/field-management/custom-field-type-glossary.md)
          + [刪除Marketo中的自訂欄位](product-docs/administration/field-management/delete-a-custom-field-in-marketo.md)
          + [編輯清單導入的欄位別名](product-docs/administration/field-management/edit-field-aliases-for-list-import.md)
+         + [匯出所有物件中繼資料](product-docs/administration/field-management/export-all-object-metadata.md)
          + [匯出所有Marketo API欄位名稱清單](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [匯出用於欄位的資料](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [隱藏和取消隱藏欄位](product-docs/administration/field-management/hide-and-unhide-a-field.md)
@@ -246,6 +247,7 @@ ht-degree: 0%
          + [匯出使用者和角色清單](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [管理Marketo使用者](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [管理用戶角色和權限](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
+         + [匯出角色和權限](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [角色權限說明](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
          + [為片段啟用非草稿](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
       + 工作區和人員分區{#workspaces-and-person-partitions}
@@ -434,6 +436,7 @@ ht-degree: 0%
          + Token {#tokens}
             + [管理我的代號](product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
             + [瞭解程式中的Token](product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+            + [方案會員自訂欄位Token](product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)
       + 行銷行事歷{#marketing-calendar}
          + 瞭解日曆{#understanding-the-calendar}
             + [核發／廢止行銷行事歷授權](product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)
@@ -789,7 +792,7 @@ ht-degree: 0%
                + [範本12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [範本13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [範本13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [範本13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [範本13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [範本14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1027,6 +1030,7 @@ ht-degree: 0%
          + [銷售連接概述](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Sales Connect快速入門](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
          + [快速入門影片和Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
+         + [更改您的銷售連接密碼](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + 電子郵件設定{#email-settings}
             + [新增身分](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
             + [新增您的電子郵件簽名](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
