@@ -3,7 +3,7 @@ unique-page-id: 2360237
 description: 使用Opportunity Inflection Analyzer - Marketo Docs —— 產品文檔講述行銷故事
 title: 使用Opportunity Inflection Analyzer講述行銷故事
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    Opportunity Influce Analyzer直觀地呈現了該機會中涉及的交互以及程式和事件的成功。 讓我們來探索圖表：
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orange** dots代 [表](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) 機會中的有趣時刻（開啟的電子郵件、展會參展攤位造訪、白皮書下載等）。點數越大表示互動越多。
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orange** Dots代表機會中的有趣時刻（開啟的電子郵件、展會展位造訪、白皮書下載等）。點數越大表示互動越多。
 
    * ![-活頁](assets/image2014-10-3-13-3a44-3a9.png) **夾圖** 示表示程式成功。
 
