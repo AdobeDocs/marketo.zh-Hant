@@ -3,9 +3,9 @@ unique-page-id: 2359428
 description: 重新導向著陸頁面——行銷人員至檔案——產品檔案
 title: 重新導向著陸頁面
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,6 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 >* [具有表單的著陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 >* [使用CNAME自訂著陸頁面URL](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
 
