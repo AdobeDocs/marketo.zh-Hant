@@ -3,9 +3,9 @@ unique-page-id: 11379928
 description: 稽核記錄中的變更詳細資訊——行銷檔案——產品檔案
 title: 審核跟蹤中的更改詳細資訊
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '1889'
+source-wordcount: '1913'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
    <th colspan="1">變更詳細資訊</th> 
   </tr> 
   <tr> 
-   <td rowspan="15">預設計畫<br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="15"><strong>預設計畫</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>建立</td> 
    <td>通道類型"channel type"<br>或<br>從"program name"克隆</td> 
   </tr> 
@@ -91,7 +91,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
    <td>不適用</td> 
   </tr> 
   <tr> 
-   <td rowspan="18">電子郵件<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="19"><strong>電子郵件</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>建立</td> 
    <td>使用範本「範本名稱」<br>或<br>從「資產名稱」複製建立</td> 
   </tr> 
@@ -132,16 +132,20 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
    <td>編輯從範本"template_name"中中斷的電子郵件(注意：如果您直接編輯程式碼，就會在今天進行)</td> 
   </tr> 
   <tr> 
+   <td>編輯</td> 
+   <td>新說明「新說明」舊說明「舊說明」</td> 
+  </tr> 
+  <tr> 
+   <td>編輯</td> 
+   <td>編輯模組 <module name><attribute> 設為"value"</td> 
+  </tr> 
+  <tr> 
    <td>刪除</td> 
    <td>不適用</td> 
   </tr> 
   <tr> 
    <td>重新命名</td> 
    <td>新名稱「新名稱」、舊名「舊名」</td> 
-  </tr> 
-  <tr> 
-   <td>編輯</td> 
-   <td>新說明「新說明」舊說明「舊說明」</td> 
   </tr> 
   <tr> 
    <td>克隆</td> 
@@ -163,7 +167,6 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
    <td>草稿</td> 
    <td>電子郵件的起草是因為程式碼片段「程式碼片段名稱」已核准<br>或<br>電子郵件的起草是因為範本「範本名稱」已核准</td> 
   </tr> 
-  <tr> 
    <td rowspan="17">電子郵件方案</td> 
    <td>建立</td> 
    <td>通道類型"channel type"<br>或<br>從"program name"克隆</td> 
@@ -453,7 +456,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
    <td>已刪除標籤"token_name"</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">表單</td> 
+   <td rowspan="8">Forms</td> 
    <td>建立</td> 
    <td>即將推出。 進一步瞭解或從「表單名稱」複製</td> 
   </tr> 
@@ -486,7 +489,7 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
    <td>移至「Design studio」至資料夾「資料夾名稱」<br>或<br>移至「行銷活動」至「方案名稱」</td> 
   </tr> 
   <tr> 
-   <td>表單</td> 
+   <td>Forms</td> 
    <td>核准</td> 
    <td>由#個資產使用 </td> 
   </tr> 
@@ -506,6 +509,14 @@ Audit Trail提供許多深入資訊，讓您瞭解哪些人在您的Marketo訂�
   <tr> 
    <td>編輯</td> 
    <td>新說明「新說明」上一個「上一個說明」</td> 
+  </tr> 
+  <tr> 
+   <td>編輯</td> 
+   <td>已新增「影像」、已移除「影像」、已編輯的影像元件</td> 
+  </tr> 
+  <tr> 
+   <td>編輯</td> 
+   <td>已新增「Rich Text」、已移除「Rich Text」、已編輯的Rich Text元件</td> 
   </tr> 
   <tr> 
    <td>克隆</td> 
