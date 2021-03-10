@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 行銷人員指南
 user-guide-description: 行銷人員產品檔案
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '7875'
+source-wordcount: '7885'
 ht-degree: 0%
 
 ---
@@ -491,7 +491,8 @@ ht-degree: 0%
             + [鍵盤快速鍵辭彙表](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
             + [Marketo沙盒](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
             + [將行銷人員重新命名為資產](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-            + [設定Adobe Experience Cloud觀眾分享](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+            + [設定Adobe Experience Cloud觀眾分享](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
+            + [從Adobe Experience Cloud同步觀眾](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
             + [瞭解資料夾](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
             + [瞭解通知](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
             + [通知類型](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
@@ -1028,7 +1029,8 @@ ht-degree: 0%
    + Marketo Sales Connect {#marketo-sales-connect}
       + 開始使用{#getting-started}
          + [銷售連接概述](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Sales Connect快速入門](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Sales Connect快速入門](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
+         + [我的個人資料頁面](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
          + [快速入門影片和Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [更改您的銷售連接密碼](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + 電子郵件設定{#email-settings}
