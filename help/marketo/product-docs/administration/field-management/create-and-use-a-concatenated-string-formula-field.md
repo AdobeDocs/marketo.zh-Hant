@@ -3,9 +3,9 @@ unique-page-id: 2360337
 description: 建立和使用串連字串（公式）欄位——行銷人員檔案——產品檔案
 title: 建立和使用串連字串（公式）欄位
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -39,14 +39,16 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   進一步瞭解流程步驟[的Token](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)。
+   >[!TIP]
+   >
+   >進一步瞭解流程步驟[的Token](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)。
 
 1. 現在，您可以在電子郵件中新增公式欄位作為代號。
 
    ![](assets/seven.png)
 
-幹得好！ 現在，您有了一個聰明的領域，知道根據性別應包含哪些問候語。 玩得開心，盡情發揮創意。
-
 >[!NOTE]
 >
->公式欄位可用於登陸頁面、電子郵件和智慧型清單欄位；不導出。 含有公式欄位的電子郵件無法透過批次促銷活動傳送
+>公式欄位可用於著陸頁面、電子郵件和智慧型清單欄位（不匯出）。 含有公式欄位的電子郵件可以使用批次促銷活動傳送&#x200B;**not**。 請在此案例中使用[電子郵件指令碼Token](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)。
+
+幹得好！ 現在，您有了一個聰明的領域，知道根據性別應包含哪些問候語。 玩得開心，盡情發揮創意。
