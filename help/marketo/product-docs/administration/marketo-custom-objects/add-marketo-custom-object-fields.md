@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: 新增行銷至自訂物件欄位——行銷至檔案——產品檔案
 title: 新增行銷至自訂物件欄位
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >建立重複資料刪除欄位時，可以使用它刪除資料庫中的重複欄位。
+   >重複資料消除欄位可用於檢索、更新或刪除自定義對象。 每個自定義對象定義至少必須包含一個（且不超過三個）重複資料消除欄位。
 
 1. 新增您需要的任何其他欄位。
 
@@ -63,6 +63,6 @@ ht-degree: 0%
 >
 >* [新增行銷至自訂物件連結欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
 >* [編輯和刪除行銷人員自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [瞭解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 >* [編輯和刪除Marketo自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [瞭解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
