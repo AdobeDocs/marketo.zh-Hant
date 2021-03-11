@@ -3,9 +3,9 @@ unique-page-id: 45416698
 description: 發行說明- 2007年7月——行銷檔案——產品檔案
 title: 發行說明- 2002年7月
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,11 @@ ht-degree: 0%
 以下功能是非季度週期，將於未來數月內發佈。
 
 * **Forms社**:我們推出更強大的表單欄位語法驗證功能，並透過新的著陸頁面安全網域功能來封鎖常見的機器人模式。封鎖機器人模式可以減少垃圾訊息提交，並改善資料庫品質。
+
+>[!NOTE]
+>
+>增強表單欄位語法驗證的完整推出已推遲至2021年1月發行後。
+
 * **增加資產API URI大小限制**:在刪除&quot;_method&quot;參數之前，統一資源標識符(URI)大小限制從8KB增加到65KB。執行長查詢字串時，此大小限制的增加可讓資料更容易傳遞。 移除&quot;_method&quot;參數是即將進行的安全性升級的一部份。
 
 ## 銷售分析{#sales-insight}
