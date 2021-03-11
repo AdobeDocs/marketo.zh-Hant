@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: 行銷人員的銷售分析頁面——行銷人員檔案——產品檔案
 title: Marketo管理員的銷售分析頁面
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -85,4 +85,14 @@ Marketo管理員在Sales Insight中擁有特定權限。 瞭解它們的下列�
 
 **啟用RSS饋送：**
 
-啟用後，MSI使用者可以在RSS饋送中檢視其銷售機會饋送（除了Salesforce中的銷售機會饋送）。
+啟用後，MSI使用者可以在RSS饋送中檢視其銷售機會饋送（除了Salesforce中的銷售機會饋送）。 RSS饋送只有在停用「Token Expiration」功能時才能運作。
+
+**代號有效期：**
+
+「功能管理員」會控制「代號過期」。 若要啟用／停用此功能，請聯絡[行銷支援](https://nation.marketo.com/t5/Support/ct-p/Support)。 啟用後，所有Marketo Token都會在10分鐘內到期。 停用後，Marketo Token將不會過期。
+
+啟用「Token Expiration」（代號過期）之前產生的代號不會有驗證的過期時間，因此即使功能目前已啟用，這些代號也不會過期。
+
+啟用「Token Expiration」（代號過期）後產生的代號的過期時間為10分鐘，因此即使在停用功能後，這些代號仍將在10分鐘內到期。
+
+Token行為將根據產生時間（啟用／停用Token過期功能時，而非其目前功能狀態時）。
