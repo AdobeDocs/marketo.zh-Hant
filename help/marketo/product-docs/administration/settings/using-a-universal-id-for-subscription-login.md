@@ -3,9 +3,9 @@ unique-page-id: 10100311
 description: 使用通用ID進行訂閱登入——行銷檔案——產品檔案
 title: 使用通用ID進行訂閱登入
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
@@ -66,3 +66,10 @@ ht-degree: 0%
 ## 行動平台{#mobile-platform}
 
 使用通用ID的使用者可從上次登入的訂閱，在Marketo Moments和iPad事件登入應用程式中查看其資料。 您無法從行動平台本身變更訂閱。
+
+>[!MORELIKETHIS]
+>
+>* [將單一登入新增至入口網站](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
+>* [僅限使用者登入SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [邀請Marketo使用者使用兩個具有通用ID的例項](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+
