@@ -3,7 +3,7 @@ unique-page-id: 2360331
 description: 變更行銷人員自訂欄位類型——行銷人員檔案——產品檔案
 title: 變更行銷人員自訂欄位的類型
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >分數和公式欄位無法變更。
 
-   ![](assets/image2015-4-22-9-3a39-3a3.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
 1. 閱讀警告，然後按一下「變更&#x200B;**」以確認。**
 
