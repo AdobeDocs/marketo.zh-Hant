@@ -3,9 +3,9 @@ unique-page-id: 2952636
 description: 使用自訂邏輯尋找重複人員——行銷檔案——產品檔案
 title: 使用自訂邏輯尋找重複人員
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,10 @@ Marketo有系統智慧清單，可比對其電子郵件地址以找出重複的�
    * 完整名稱
    * 姓氏
    * 更新日期：
+
+   >[!NOTE]
+   >
+   >除「電子郵件地址」外，所有欄位都區分大小寫。 因此，在「全名」欄位中使用「john doe」會&#x200B;_not_&#x200B;傳回John Doe的結果。
 
    ![](assets/four-2.png)
 
