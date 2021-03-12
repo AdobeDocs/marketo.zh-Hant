@@ -1,19 +1,19 @@
 ---
 unique-page-id: 30081815
 description: 設定Adobe Experience Manager整合——行銷檔案——產品檔案
-title: 設定Adobe Experience Manager整合
+title: 配置Adobe Experience Manager整合
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
 
-# 設定Adobe Experience Manager整合{#configuring-adobe-experience-manager-integration}
+# 配置Adobe Experience Manager整合{#configuring-adobe-experience-manager-integration}
 
-設定AEM，讓您可以存取、選取AEM資產，並將其匯入Marketo的Design Studio。
+設AEM定，讓您存取、選取AEM資產並匯入Marketo的Design Studio。
 
 >[!NOTE]
 >
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/2a.png)
 
-1. 在您的瀏覽器中，搜尋（Windows上的ctrl+f、Mac上的cmd+f）「Adobe Granite跨原始資源共用政策」。
+1. 在您的瀏覽器中，搜尋（Windows上的ctrl+f、Mac上的cmd+f）「AdobeGranite跨原始資源共用原則」。
 
    ![](assets/three.png)
 
-1. 按一下右側的&#x200B;**+**&#x200B;符號。
+1. 按一下右側的&#x200B;**+**&#x200B;簽名。
 
    ![](assets/four.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 在「整合」下，選取&#x200B;**Adobe Experience Manager**。
+1. 在「整合」下，選擇&#x200B;**Adobe Experience Manager**。
 
    ![](assets/ten.png)
 
@@ -71,8 +71,8 @@ ht-degree: 0%
 
    ![](assets/eleven.png)
 
-1. 輸入您的AEM URL，然後按一下「**確定**」。
+1. 輸入AEMURL，然後按一下「確定」。****
 
    ![](assets/twelve.png)
 
-   你們都準備好了！ 您現在可以[將AEM資產匯入Marketo Sky的Design Studio](https://help.marketo.com/hc/en-us/articles/360036765993)。
+   你們都準備好了！ 您現在可以[將AEM資產匯入Design Studio中Marketo Sky](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio)。
