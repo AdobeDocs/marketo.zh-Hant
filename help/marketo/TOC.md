@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 行銷人員指南
 user-guide-description: 行銷人員產品檔案
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
 workflow-type: tm+mt
-source-wordcount: '7889'
+source-wordcount: '7923'
 ht-degree: 0%
 
 ---
@@ -171,6 +171,7 @@ ht-degree: 0%
             + [使用工作區編輯您的預設品牌網域](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)
             + [編輯您的預設品牌網域](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
             + [覆寫電子郵件的主要網域](product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md)
+         + [變更速度指令碼中的自訂物件擷取限制](product-docs/administration/email-setup/change-custom-object-retrieval-limits-in-velocity-scripting.md)
          + [變更電子郵件和寄件者標籤的預設值](product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)
          + [編輯取消訂閱訊息](product-docs/administration/email-setup/edit-the-unsubscribe-message.md)
          + [讓您的取消訂閱訊息在語言上具動態性](product-docs/administration/email-setup/edit-the-unsubscribe-message/make-your-unsubscribe-message-dynamic-for-languages.md)
@@ -327,6 +328,7 @@ ht-degree: 0%
             + [變更參與計畫串流](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
             + [更改計畫狀態](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
             + [變更計畫成功](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
+            + [更改方案成員資料](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)
          + Microsoft Dynamics Flow動作{#microsoft-dynamics-flow-actions}
             + [從動態促銷活動新增或移除人員](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
             + [在Microsoft中更改所有者](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
@@ -523,6 +525,9 @@ ht-degree: 0%
                + [步驟1（共3步）:安裝Marketo解決方案（線上）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
                + [步驟2（共3步）:在Dynamics中設定Marketto同步使用者](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
                + [步驟3（共3步）:將Microsoft Dynamics與Marketo連結（線上）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+            + 為Dynamics {#set-up-oauth-authentication-for-dynamics}設定OAuth驗證
+               + [授與用戶端ID和應用程式註冊的同意](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
+               + [設定Microsoft Dynamics CRM應用程式以進行預備](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
          + Microsoft Dynamics Sync詳細資訊{#microsoft-dynamics-sync-details}
             + [預設動態欄位映射](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics Sync:帳戶同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
