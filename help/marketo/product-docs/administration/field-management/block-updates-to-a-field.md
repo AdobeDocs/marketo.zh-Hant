@@ -3,9 +3,9 @@ unique-page-id: 2360291
 description: 欄位的區塊更新——行銷檔案——產品檔案
 title: 塊對欄位的更新
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,10 @@ ht-degree: 0%
 1. 查找欄位，選擇它，然後在&#x200B;**欄位操作**&#x200B;下，按一下&#x200B;**塊欄位更新**。
 
    ![](assets/two-1.png)
+
+   >[!NOTE]
+   >
+   >您也可以阻止[程式成員自定義欄位](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)的更新。
 
 1. 選擇要阻止的&#x200B;**輸入源** ，然後按一下&#x200B;**應用**。
 
