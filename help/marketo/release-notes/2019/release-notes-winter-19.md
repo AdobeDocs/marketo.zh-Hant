@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: 發行說明- 19年冬季——行銷檔案——產品檔案
 title: 發行說明- 19年冬季
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
@@ -81,7 +81,7 @@ Winter &#39;19版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 ## 帳戶型行銷{#account-based-marketing}
 
-**[基於ABM人格的細分與過濾](/help/marketo/product-docs/account-based-marketing/using-personas.md)**
+**[基於ABM人格的細分與過濾](/help/marketo/product-docs/target-account-management/using-personas.md)**
 
 針對指定帳戶中的特定角色個人化您的ABM宣傳。 「ABM角色」功能會根據銷售機會細分建立預設職銜，並允許設定其他角色細分。
 
