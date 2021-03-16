@@ -3,9 +3,9 @@ unique-page-id: 1147110
 description: 複製計畫——行銷人員檔案——產品檔案
 title: 克隆程式
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 0%
 
 # 克隆程式{#clone-a-program}
 
-您可以快速輕鬆地複製整個程式及其所有資產，而不需手動重建所有項目。 這是方法。
+快速輕鬆地複製整個程式及其所有資產，而不需手動重建所有項目。
 
-1. 查找並選擇要克隆的程式，然後在&#x200B;**Program Actions**&#x200B;下按一下&#x200B;**Clone.**
+>[!PREREQUISITES]
+>
+>在深入探討之前，請先瞭解[避免複製資產損毀的最佳實務](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729)。
+
+1. 查找並選擇要克隆的程式，然後在&#x200B;**Program Actions**&#x200B;下按一下&#x200B;**Clone**。
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
