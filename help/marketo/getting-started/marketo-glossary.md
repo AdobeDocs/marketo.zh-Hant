@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: 行銷人員辭彙表——行銷人員檔案——產品檔案
 title: Marketo辭彙表
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -36,7 +36,7 @@ ht-degree: 0%
    <td colspan="1">此術語可有不同的含義：<br>-您的Marketo實例本身可稱為您的Marketo帳戶。<br>-在 <strong>ABM</strong>，指 <strong>名</strong> 帳戶是使用者所認定的目標帳戶。<br>-在ABM中，CRM帳戶是從您連結的 <strong>CRM</strong> ( <strong>Salesforce</strong>、 <strong>MS </strong> Dynamicsor  <strong></strong>API中的帳戶)映射的帳戶。<br>-在您的CRM中，帳戶是與潛在客戶和聯絡人關聯的業務／公司。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md" rel="nofollow">帳戶型行銷</a> (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-based-marketing-overview.md" rel="nofollow">帳戶型行銷</a> (ABM)</strong></td> 
    <td colspan="1">附加功能可讓您以高度協調的方式鎖定並吸引重要帳戶。</td> 
   </tr> 
   <tr> 
@@ -48,7 +48,7 @@ ht-degree: 0%
    <td colspan="1">（舊稱AccountAI）在<strong>ABM</strong>中，使用您的理想客戶個人檔案(ICP)，您資料庫中的現有公司將會排名，而排名會新增為您帳戶的分數。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md" rel="nofollow">帳戶分數</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">帳戶分數</a></strong></td> 
    <td colspan="1">在<strong>ABM</strong>中，此分數是指派給帳戶的分數，可協助您判斷其參與程度。</td> 
   </tr> 
   <tr> 
@@ -482,7 +482,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>銷售線索</strong></td> 
-   <td>在<strong>Marketo Engage</strong>中，lead是上一個術語（由<strong>person</strong>取代），用於描述您透過行銷活動參與的Marketo <strong>資料庫</strong>中的個人。 在您的<strong>CRM</strong>中，銷售線索可能代表與<strong>opportunity</strong>相關的不同概念（即與 opportunity相關的個人），與Marketo的功能無關。</td> 
+   <td>在<strong>Marketo Engage</strong>中，前置詞是上一個術語（由<strong>person</strong>取代），用於描述您透過行銷活動參與的行銷人員至<strong>資料庫</strong>。 在您的<strong>CRM</strong>中，銷售線索可能代表與<strong>opportunity</strong>相關的不同概念（即與 opportunity相關的個人），與Marketo的功能無關。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>銷售線索資料庫</strong></td> 
@@ -527,8 +527,8 @@ ht-degree: 0%
    <td colspan="1">此欄位由<strong>user</strong>手動設定，讓行銷人員在<strong>資料庫</strong>中暫時取消郵件。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>行銷人員參與</strong></td> 
-   <td colspan="1">Adobe Experience Cloud內所有Marketo產品方案的總和的正式品牌名稱。</td> 
+   <td colspan="1"><strong>Marketo Engage</strong></td> 
+   <td colspan="1">Marketo在Adobe Experience Cloud內所有產品方案的總和的官方品牌名稱。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Lead Management(MLM)</strong></td> 
@@ -560,7 +560,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>我的行銷人員</strong></td> 
-   <td colspan="1">Marketto Engage的標準部分之一。 如同您的行銷人員「首頁」，顯示您可存取之行銷人員所有區段的圖格。</td> 
+   <td colspan="1">Marketo Engage的標準部分之一。 如同您的行銷人員「首頁」，顯示您可存取之行銷人員所有區段的圖格。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>我的預付碼</strong></a></td> 
@@ -651,7 +651,7 @@ ht-degree: 0%
    <td colspan="1">人員分區的作用類似於單獨的<strong>資料庫</strong>。 每個分區都有自己的人員，他們不執行重複資料消除或與其他分區混用。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/account-based-marketing/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
    <td colspan="1">在Marketo的<strong>帳戶型行銷</strong>中，角色是對象的子集，可進行更具體的定位。</td> 
   </tr> 
   <tr> 
