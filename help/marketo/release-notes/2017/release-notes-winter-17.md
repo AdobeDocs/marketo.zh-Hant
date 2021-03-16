@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: 發行說明- 17年冬季——行銷檔案——產品檔案
 title: 發行說明- 17年冬季
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 發行說明：冬季&#39;16 {#release-notes-winter}
+# 發行說明：冬季&#39;17 {#release-notes-winter}
 
 Winter &#39;17版本包含下列功能。 檢查您的Marketo版本，以取得功能。
 
@@ -45,7 +45,7 @@ Winter &#39;17版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 ## 帳戶型行銷增強功能{#account-based-marketing-enhancements}
 
-**[匯入命名帳戶](/help/marketo/product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)**
+**[匯入命名帳戶](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
 使用「命名帳戶匯入」選項，透過CSV上傳一次建立或更新多個記錄。
 
