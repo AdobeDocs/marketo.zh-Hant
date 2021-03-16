@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 行銷人員指南
 user-guide-description: 行銷人員產品檔案
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '7923'
+source-wordcount: '7949'
 ht-degree: 0%
 
 ---
@@ -44,48 +44,48 @@ ht-degree: 0%
       + [要檢閱的項目：核心技能](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [取得協助的方式](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 + 產品檔案{#product-docs}
-   + 帳戶型行銷{#account-based-marketing}
+   + 目標帳戶管理{#target-account-management}
       + 設定{#setup}
-         + [帳戶型行銷概觀](product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md)
-         + [ABM快速入門](product-docs/account-based-marketing/setup-abm/getting-started-with-abm.md)
-         + [核發授權](product-docs/account-based-marketing/setup-abm/issue-a-license.md)
-         + [權限](product-docs/account-based-marketing/setup-abm/permissions.md)
-         + [帳戶分數](product-docs/account-based-marketing/setup-abm/account-score.md)
-         + [帳戶團隊設定](product-docs/account-based-marketing/setup-abm/account-team-setup.md)
-         + [建立CRM搜尋的自訂欄位](product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md)
-         + [設定帳戶分析](product-docs/account-based-marketing/setup-abm/set-up-account-insight.md)
-         + [Account Insight外掛程式概觀](product-docs/account-based-marketing/setup-abm/account-insight-plug-in-overview.md)
-         + [邀請使用者存取帳戶分析](product-docs/account-based-marketing/setup-abm/invite-users-to-access-account-insight.md)
+         + [帳戶型行銷概觀](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
+         + [ABM快速入門](product-docs/target-account-management/setup-tam/getting-started-with-abm.md)
+         + [核發授權](product-docs/target-account-management/setup-tam/issue-a-license.md)
+         + [權限](product-docs/target-account-management/setup-tam/permissions.md)
+         + [帳戶分數](product-docs/target-account-management/setup-tam/account-score.md)
+         + [帳戶團隊設定](product-docs/target-account-management/setup-tam/account-team-setup.md)
+         + [建立CRM搜尋的自訂欄位](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
+         + [設定帳戶分析](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+         + [Account Insight外掛程式概觀](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
+         + [邀請使用者存取帳戶分析](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
       + 目標{#target}
          + 命名帳戶{#named-accounts}
-            + [命名帳戶概述](product-docs/account-based-marketing/target/named-accounts/named-account-overview.md)
-            + [匯入命名帳戶](product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)
-            + [將現有的命名帳戶新增至帳戶清單](product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
-            + [建立指名帳戶](product-docs/account-based-marketing/target/named-accounts/create-a-named-account.md)
-            + [新增人員至指名帳戶](product-docs/account-based-marketing/target/named-accounts/add-people-to-a-named-account.md)
-            + [Discover帳戶](product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
-            + [銷售機會與帳戶匹配](product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
-            + [在命名帳戶中篩選](product-docs/account-based-marketing/target/named-accounts/filtering-in-named-accounts.md)
-            + [刪除指名帳戶](product-docs/account-based-marketing/target/named-accounts/delete-a-named-account.md)
-            + [ABM等級](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)
-            + [建立階層](product-docs/account-based-marketing/target/named-accounts/create-a-hierarchy.md)
-         + [帳戶清單](product-docs/account-based-marketing/target/account-lists.md)
-         + [在LinkedIn上建立相符的對象](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
+            + [命名帳戶概述](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
+            + [匯入命名帳戶](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
+            + [將現有的命名帳戶新增至帳戶清單](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+            + [建立指名帳戶](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+            + [新增人員至指名帳戶](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+            + [Discover帳戶](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+            + [銷售機會與帳戶匹配](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+            + [在命名帳戶中篩選](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
+            + [刪除指名帳戶](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
+            + [ABM等級](product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)
+            + [建立階層](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
+         + [帳戶清單](product-docs/target-account-management/target/account-lists.md)
+         + [在LinkedIn上建立相符的對象](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
       + 參與{#engage}
-         + [帳戶篩選](product-docs/account-based-marketing/engage/account-filters.md)
-         + [帳戶觸發器](product-docs/account-based-marketing/engage/account-triggers.md)
+         + [帳戶篩選](product-docs/target-account-management/engage/account-filters.md)
+         + [帳戶觸發器](product-docs/target-account-management/engage/account-triggers.md)
       + 測量{#measure}
-         + [ABM主儀表板](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
-         + [ABM報告設定](product-docs/account-based-marketing/measure/abm-report-setup.md)
-         + [ABM銷售報告](product-docs/account-based-marketing/measure/abm-sales-report.md)
-         + [帳戶清單分析](product-docs/account-based-marketing/measure/account-list-insights.md)
-         + [RCA中的指名帳戶Dimension](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
-         + [指名帳戶分析](product-docs/account-based-marketing/measure/named-account-insights.md)
-         + [使用角色](product-docs/account-based-marketing/using-personas.md)
+         + [ABM主儀表板](product-docs/target-account-management/measure/abm-main-dashboard.md)
+         + [ABM報告設定](product-docs/target-account-management/measure/abm-report-setup.md)
+         + [ABM銷售報告](product-docs/target-account-management/measure/abm-sales-report.md)
+         + [帳戶清單分析](product-docs/target-account-management/measure/account-list-insights.md)
+         + [RCA中的指名帳戶Dimension](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
+         + [指名帳戶分析](product-docs/target-account-management/measure/named-account-insights.md)
+         + [使用角色](product-docs/target-account-management/using-personas.md)
    + 帳戶分析{#account-profiling}
-      + [設定帳戶分析](product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
-      + [帳戶分析排名和調整](product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)
-      + [新帳戶發現](product-docs/account-based-marketing/account-profiling/new-account-discovery.md)
+      + [設定帳戶分析](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+      + [帳戶分析排名和調整](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+      + [新帳戶發現](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + 其他應用程式{#additional-apps}
       + SEO {#seo}
          + 瞭解SEO {#understanding-seo}
@@ -527,7 +527,9 @@ ht-degree: 0%
                + [步驟3（共3步）:將Microsoft Dynamics與Marketo連結（線上）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
             + 為Dynamics {#set-up-oauth-authentication-for-dynamics}設定OAuth驗證
                + [授與用戶端ID和應用程式註冊的同意](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
+               + [設定Microsoft Dynamics CRM線上應用程式](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [設定Microsoft Dynamics CRM應用程式以進行預備](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
+               + [為Azure AD Federated設定MSD，並在On-prem、Tenant和Microsoft Online中設定AD FS](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
          + Microsoft Dynamics Sync詳細資訊{#microsoft-dynamics-sync-details}
             + [預設動態欄位映射](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics Sync:帳戶同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
@@ -594,6 +596,7 @@ ht-degree: 0%
          + [添加／刪除選擇清單值](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
          + [啟用／停用Salesforce同步](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [隱含的Salesforce動作](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [Salesforce同步錯誤](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce同步狀態](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
    + 需求開發{#demand-generation}
       + 廣告網路整合{#ad-network-integrations}
@@ -797,9 +800,9 @@ ht-degree: 0%
                + [範本12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [範本12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [範本12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [範本13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [範本13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [範本13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [範本13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [範本13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [範本14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
