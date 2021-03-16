@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: 發行說明- 18年冬季——行銷檔案——產品檔案
 title: 發行說明- 18年冬季
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Marketo運用我們的大資料架構來增加觸發促銷活動的吞吐量並�
 
 ## 帳戶型行銷增強功能{#account-based-marketing-enhancements}
 
-**[ABM等級](/help/marketo/product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
+**[ABM等級](/help/marketo/product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)**
 
 對於使用Salesforce或Microsoft Dynamics的ABM客戶，ABM現在會自動繼承（並顯示）CRM中建立的父子關係。 您可以在統計報表和促銷活動執行中使用這些關係。
 
