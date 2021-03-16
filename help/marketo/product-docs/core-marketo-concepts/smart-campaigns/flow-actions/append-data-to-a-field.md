@@ -3,9 +3,9 @@ unique-page-id: 1147042
 description: 將資料附加至欄位——行銷人員檔案——產品檔案
 title: 附加資料至欄位
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >[建立促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+
+>[!NOTE]
+>
+>以下步驟也適用於[更改程式成員資料](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)。
 
 1. 在&#x200B;**流**&#x200B;頁籤下，拖動&#x200B;**更改資料值**&#x200B;流步驟。
 
