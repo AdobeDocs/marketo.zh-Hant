@@ -3,9 +3,9 @@ unique-page-id: 11380732
 description: 帳戶篩選——行銷人員檔案——產品檔案
 title: 帳戶篩選
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 使用新的以帳戶為中心的篩選器，識別並吸引指名的帳戶及其中的角色。
 
-## ABM濾鏡{#abm-filters}
+## TAM篩選器{#tam-filters}
 
 1. 選擇您的智慧型促銷活動，然後按一下「智慧型清單」。****
 
@@ -45,25 +45,25 @@ ht-degree: 0%
 
 ## 指名帳戶{#member-of-named-account}的成員
 
-1. 選擇限定詞。 是指特定的指名帳戶，或是任何指名帳戶。
+首先，選擇限定詞。 **適** 用於特定指名帳戶，或 **任** 何指名帳戶。
 
-   ![](assets/six.png)
+![](assets/six.png)
 
-1. 按一下指名的帳戶下拉式清單。
+按一下指名的帳戶下拉式清單……
 
-   ![](assets/seven.png)
+![](assets/seven.png)
 
-1. 選擇您想要的命名帳戶。
+...並選擇您想要的命名帳戶。
 
-   ![](assets/eight.png)
+![](assets/eight.png)
 
-1. 如果您使用&quot;is any&quot;限定詞，您可能想利用[constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)來縮小搜尋結果。 加入您想要的數量！
+如果您使用&quot;is any&quot;限定詞，您可能想利用[constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)來縮小搜尋結果。 加入您想要的數量！
 
-   ![](assets/nine.png)
+![](assets/nine.png)
 
-1. 如果您只想要單一頂層帳戶的成員，請將「包含子項」設為false。 如果希望所有子帳戶的成員為true，請選擇true。
+如果您只想要單一頂層帳戶的成員，請將「包含子項」設為false。 如果希望所有子帳戶的成員為true，請選擇true。
 
-   ![](assets/ten.png)
+![](assets/ten.png)
 
 >[!MORELIKETHIS]
 >
