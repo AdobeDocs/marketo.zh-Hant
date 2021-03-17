@@ -3,7 +3,7 @@ unique-page-id: 12979282
 description: Account Insight外掛程式概觀- Marketo Docs —— 產品檔案
 title: Account Insight外掛程式概觀
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Account Insight外掛程式概觀{#account-insight-plug-in-overview}
 
-Account Insight是Chrome增效模組，可將可操作的ABM和帳戶見解呈現給您的銷售團隊，讓他們更有效率地與客戶互動。
+Account Insight是Chrome外掛程式，可將可操作的TAM和帳戶見解呈現給您的銷售團隊，讓他們更有效率地與客戶互動。
 
 >[!AVAILABILITY]
 >
->Account Insight適用於所有同時擁有ABM和Marketo Sales Insight的客戶。 對於只有ABM的客戶，Account Insight是以購買的附加元件形式提供。 每位客戶最多可獲得250個Account Insight授權。 如需詳細資訊，請連絡您的銷售代表。 沒有ABM的客戶無法使用它。
+>Account Insight會包含給所有同時擁有TAM和Marketo Sales Insight的客戶。 對於只擁有TAM的客戶，Account Insight是以購買的附加元件形式提供。 每位客戶最多可獲得250個Account Insight授權。 如需詳細資訊，請連絡您的銷售代表。 沒有TAM的客戶不能使用它。
 
 >[!CAUTION]
 >
