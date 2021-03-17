@@ -3,7 +3,7 @@ unique-page-id: 11380789
 description: RCA中的指名帳戶Dimension-行銷檔案——產品檔案
 title: RCA中的指名帳戶Dimension
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # RCA {#named-account-dimension-in-rca}中的命名帳戶Dimension
 
-使用「收入週期分析」中ABM特定的「命名帳戶」維度建立以收入為基礎的報表。
+使用「收入週期分析」中的TAM特定「命名帳戶」維度建立以收入為基礎的報表。
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->以下是「收入週期分析」中Marketo ABM的一些範例。
+>以下是Revenue Cycle Analytics中Marketo TAM的一些範例。
 
 指定帳戶中的管線加速
 
