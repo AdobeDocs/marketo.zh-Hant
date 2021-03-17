@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: 新客戶發現——行銷人員檔案——產品檔案
 title: 新帳戶發現
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 >
 >建議您在執行新帳戶搜尋前，按&#x200B;**更新現有帳戶**&#x200B;按鈕，以確保您正在檢視最新的資料。 此更新最多需要24小時。
 
-1. 在「我的行銷工具」中，按一下&#x200B;**ABM**。
+1. 在My Marketo中，按一下「**Target帳戶管理」**。
 
-   ![](assets/one-1.png)
+   ![](assets/new-account-discovery-1.png)
 
 1. 按一下&#x200B;**Account Profiling**&#x200B;頁籤。
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >「新帳戶」顯示ABM中尚未包含您帳戶的帳戶清單。 這些帳戶可能會根據您選取的篩選條件而成為新帳戶。
+   >「新帳戶」會顯示TAM中尚未包含您帳戶的帳戶清單。 這些帳戶可能會根據您選取的篩選條件而成為新帳戶。
 
 1. 選取所有適用的篩選條件（此部分可高度自訂，以下只是示範篩選的一個範例）。
 
