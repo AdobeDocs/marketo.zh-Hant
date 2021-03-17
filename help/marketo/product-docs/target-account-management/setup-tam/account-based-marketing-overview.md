@@ -3,7 +3,7 @@ unique-page-id: 11381917
 description: 帳戶型行銷概觀——行銷檔案——產品檔案
 title: 帳戶型行銷概觀
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Marketo Account Based Marketing也提供多種工具，讓跨通道的指定帳�
 
 我進去了！ 如何開始使用？
 
-我們以為你不會問！ ABM是您Marketo訂閱的附加元件，請連絡您的銷售代表以實施它。 一旦您取得此文章，請參閱以下文章：[開始使用ABM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-abm.md)。
+我們以為你不會問！ ABM是您Marketo訂閱的附加元件，請連絡您的銷售代表以實施它。 一旦您取得此文章，請參閱以下文章：[開始使用ABM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md)。
 
 >[!NOTE]
 >
