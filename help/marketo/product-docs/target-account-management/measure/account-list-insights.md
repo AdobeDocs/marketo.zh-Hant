@@ -3,7 +3,7 @@ unique-page-id: 11380787
 description: 帳戶清單分析——行銷人員檔案——產品檔案
 title: 帳戶清單分析
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo ABM會根據管道產生或帳戶參與分數，自動決定帳戶清單中最熱門的已命名帳戶。
+>Marketo TAM會根據管道產生或帳戶參與分數，自動決定帳戶清單中排名最前的已命名帳戶。
 
 ## 帳戶清單控制面板{#account-list-dashboard}
 
