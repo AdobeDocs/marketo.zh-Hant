@@ -3,7 +3,7 @@ unique-page-id: 11378814
 description: 帳戶清單——行銷人員檔案——產品檔案
 title: 帳戶清單
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在[Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)中建立智慧型清單和Web促銷活動時，在Marketo Account Based Marketing中建立的帳戶清單會自動可用。
+>在[Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)中建立智慧型清單和Web促銷活動時，在Marketo Target帳戶管理中建立的帳戶清單會自動可用。
 
 ## 建立新帳戶清單{#create-a-new-account-list}
 
