@@ -3,7 +3,7 @@ unique-page-id: 11378816
 description: 將人員新增至指名帳戶——行銷人員檔案——產品檔案
 title: 新增人員至指名帳戶
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 將人員新增至指名帳戶{#add-people-to-a-named-account}
 
-在ABM中，手動將人員添加到指定帳戶有三種不同的方法。
+在TAM中，有三種不同的方式可手動將人員新增至指定帳戶。
 
 ## 單流操作{#single-flow-action}
 
