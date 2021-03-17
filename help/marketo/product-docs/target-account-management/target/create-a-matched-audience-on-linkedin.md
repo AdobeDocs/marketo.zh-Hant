@@ -3,7 +3,7 @@ unique-page-id: 26837421
 description: 在LinkedIn —— 行銷檔案——產品檔案上建立相符的觀眾
 title: 在LinkedIn上建立相符的對象
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 在LinkedIn {#create-a-matched-audience-on-linkedin}上建立相符的對象
 
-從您的ABM帳戶清單中建立符合的LinkedIn廣告定位受眾。
+從您的TAM帳戶清單建立符合的LinkedIn廣告定位對象。
 
 >[!PREREQUISITES]
 >
 >[將LinkedIn符合的觀眾新增為LaunchPoint服務](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
-1. 在ABM中，按一下&#x200B;**帳戶清單**&#x200B;頁籤。
+1. 在TAM中，按一下&#x200B;**帳戶清單**&#x200B;頁籤。
 
    ![](assets/one-1.png)
 
