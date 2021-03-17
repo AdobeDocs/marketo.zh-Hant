@@ -3,9 +3,9 @@ unique-page-id: 11384433
 description: 帳戶團隊設定——行銷人員檔案——產品檔案
 title: 帳戶團隊設定
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
    ![](assets/one-3.png)
 
-1. 按一下&#x200B;**ABM**。
+1. 按一下「**目標帳戶管理**」。
 
-   ![](assets/two-3.png)
+   ![](assets/account-team-setup-2.png)
 
 1. 在「Account Team Members」（帳戶團隊成員）下，按一下「Edit」（編輯）**。**
 
@@ -45,10 +45,12 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果您進行更新，可能需要一些時間才能將更改反映在ABM中。
+   >如果您進行更新，變更可能需要一些時間才能反映在TAM中。
 
    >[!NOTE]
    >
-   >當具有不同帳戶擁有者的多個CRM帳戶合併至命名帳戶時，Marketo會挑選一個「帳戶擁有者」，並將其他帳戶擁有者新增為「帳戶共同擁有者」
-   >
-   >如果CRM的「角色」欄位稍後重新命名或刪除，Marketo ABM將停止同步更新的值，直到使用者手動更新ABM中的設定
+   >* 當具有不同帳戶擁有者的多個CRM帳戶合併至命名帳戶時，Marketo會挑選一個「帳戶擁有者」，並將其他帳戶擁有者新增為「帳戶共同擁有者」
+      >
+      >
+   * 如果CRM的「角色」欄位稍後重新命名或刪除，Marketo TAM將停止同步更新的值，直到使用者手動更新TAM中的設定
+
