@@ -3,7 +3,7 @@ unique-page-id: 17432598
 description: 設定帳戶分析——行銷人員檔案——產品檔案
 title: 設定帳戶分析
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 請依照下列步驟，開始使用「帳戶分析」。
 
-1. 在My Marketo中，開啟&#x200B;**以帳戶為基礎的行銷**。
+1. 在My Marketo中，開啟&#x200B;**Target帳戶管理**。
 
-   ![](assets/one.png)
+   ![](assets/setting-up-account-profiling-1.png)
 
-1. 按一下「帳戶分析」標籤。
+1. 按一下&#x200B;**Account Profiling**&#x200B;頁籤。
 
    ![](assets/two-1.png)
 
