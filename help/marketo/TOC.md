@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 行銷人員指南
 user-guide-description: 行銷人員產品檔案
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '7949'
+source-wordcount: '7952'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
    + 目標帳戶管理{#target-account-management}
       + 設定{#setup}
          + [帳戶型行銷概觀](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
-         + [ABM快速入門](product-docs/target-account-management/setup-tam/getting-started-with-abm.md)
+         + [TAM快速入門](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [核發授權](product-docs/target-account-management/setup-tam/issue-a-license.md)
          + [權限](product-docs/target-account-management/setup-tam/permissions.md)
          + [帳戶分數](product-docs/target-account-management/setup-tam/account-score.md)
@@ -67,17 +67,18 @@ ht-degree: 0%
             + [銷售機會與帳戶匹配](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
             + [在命名帳戶中篩選](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
             + [刪除指名帳戶](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
-            + [ABM等級](product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)
+            + [TAM階層](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
             + [建立階層](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
          + [帳戶清單](product-docs/target-account-management/target/account-lists.md)
+         + [帳戶智慧清單](product-docs/target-account-management/target/account-smart-lists.md)
          + [在LinkedIn上建立相符的對象](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
       + 參與{#engage}
          + [帳戶篩選](product-docs/target-account-management/engage/account-filters.md)
          + [帳戶觸發器](product-docs/target-account-management/engage/account-triggers.md)
       + 測量{#measure}
-         + [ABM主儀表板](product-docs/target-account-management/measure/abm-main-dashboard.md)
-         + [ABM報告設定](product-docs/target-account-management/measure/abm-report-setup.md)
-         + [ABM銷售報告](product-docs/target-account-management/measure/abm-sales-report.md)
+         + [TAM主儀表板](product-docs/target-account-management/measure/tam-main-dashboard.md)
+         + [TAM報表設定](product-docs/target-account-management/measure/tam-report-setup.md)
+         + [TAM銷售報告](product-docs/target-account-management/measure/tam-sales-report.md)
          + [帳戶清單分析](product-docs/target-account-management/measure/account-list-insights.md)
          + [RCA中的指名帳戶Dimension](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
          + [指名帳戶分析](product-docs/target-account-management/measure/named-account-insights.md)
@@ -800,9 +801,9 @@ ht-degree: 0%
                + [範本12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [範本12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [範本12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [範本13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [範本13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [範本13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [範本13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [範本13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [範本14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
