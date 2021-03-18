@@ -3,15 +3,17 @@ unique-page-id: 4720476
 description: 圖示辭彙表——行銷檔案——產品檔案
 title: 圖示辭彙表
 translation-type: tm+mt
-source-git-commit: 0ec525defbefe610f0bd1227b1c8f8e125d8e362
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '568'
 ht-degree: 0%
 
 ---
 
 
 # 表徵圖辭彙表{#icon-glossary}
+
+以下是Marketo Classic的圖示。 如果您已切換到新的Marketo Engage介面，您的表徵圖辭彙表[可在此處找到](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)。
 
 **一般圖示**
 
@@ -805,7 +807,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-12-3a48-3a22.png"> 
     </div></td> 
-   <td>表單——未核准</td> 
+   <td>Forms-未核准</td> 
   </tr> 
   <tr> 
    <td> 
