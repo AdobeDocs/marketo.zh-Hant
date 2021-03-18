@@ -3,9 +3,9 @@ unique-page-id: 11378869
 description: 建立瀏覽式SMS訊息——行銷檔案——產品檔案
 title: 建立瀏覽式SMS訊息
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,14 @@ ht-degree: 0%
 # 建立瀏覽器SMS消息{#create-a-vibes-sms-message}
 
 以下是如何建立Vibes SMS訊息的方式。
+
+>[!AVAILABILITY]
+>
+>此功能是您Marketo Engage帳戶的附加元件。 若要正確布建，必須透過Adobe購買。 如需詳細資訊，請連絡您的Adobe客戶成功經理。
+
+>[!NOTE]
+>
+>SMS文字訊息不符合HIPAA規範。
 
 1. 前往&#x200B;**行銷活動**&#x200B;並在程式上按一下滑鼠右鍵。
 
