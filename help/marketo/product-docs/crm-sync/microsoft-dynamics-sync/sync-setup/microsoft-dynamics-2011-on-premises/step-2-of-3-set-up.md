@@ -3,7 +3,7 @@ unique-page-id: 3571807
 description: 步驟2（共3步）-設定Marketo Sync User in Dynamics（2011年內部部署）- Marketo Docs —— 產品檔案
 title: 第2步（共3步）-設定Marketo在Dynamics中同步使用者（2011年內部部署）
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這適用於Marketo增效模組4.0.0.14版及更新版本。 對於舊版，所有使用者都必須具有同步使用者角色。 若要升級Marketo，請參閱[升級Microsoft Dynamics的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)。
+>這適用於Marketo增效模組4.0.0.14版及更新版本。 對於舊版，所有使用者都必須具有同步使用者角色。 若要升級Marketo，請參閱[升級Microsoft Dynamics的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)。
 
 1. 在左下角的菜單中，選擇&#x200B;**設定**。
 
