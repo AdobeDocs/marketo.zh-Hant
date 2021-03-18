@@ -3,10 +3,10 @@ unique-page-id: 10099389
 description: Microsoft Dynamics的Marketo Plugin版本- Marketo Docs —— 產品檔案
 title: Microsoft Dynamics專用的Marketo增效模組版本
 translation-type: tm+mt
-source-git-commit: 3deb7e1c435368533222ddedf064d2d87fa75c5f
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 7%
+source-wordcount: '401'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,15 @@ ht-degree: 7%
 
 ![](assets/lead-management-solution.png)
 
-下表顯示最新版本。
+## 更新動態解決方案{#updating-your-dynamics-solution}
+
+1. 匯入解決方案的最新版本，而不是Dynamics CRM的現有版本(例如：如果您的Dynamics CRM有1.4版，而最新版是1.5版，您應匯入&#x200B;_over_ 1.4版。
+
+1. 您會看到下列快顯視窗。 選擇「**更新**&#x200B;和&#x200B;**維護自定義**」，然後按一下「導入&#x200B;**」。**
+
+![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
+
+## 最新版本{#latest-versions}
 
 >[!NOTE]
 >
@@ -31,6 +39,11 @@ ht-degree: 7%
    <th colspan="1">版本</th> 
    <th colspan="1">發行日期</th> 
    <th>附註</th> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.0</td> 
+   <td colspan="1">10/16/20</td> 
+   <td colspan="1">新增對「與MS Dynamics進行促銷活動同步」的支援。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.24</td> 
