@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: 發行說明- 19年冬季——行銷檔案——產品檔案
 title: 發行說明- 19年冬季
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Winter &#39;19版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 >[!NOTE]
 >
->Microsoft正在推動所有線上客戶升級至最新版Microsoft Dynamics。 如果您要將Marketo實例與Dynamics Online整合，您將需要[在2019年1月31日&#x200B;**之前升級至最新版的Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)，以確保您的整合能繼續運作。**
+>Microsoft正在推動所有線上客戶升級至最新版Microsoft Dynamics。 如果您要將Marketo實例與Dynamics Online整合，您將需要[在2019年1月31日&#x200B;**之前升級至最新版的Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)，以確保您的整合能繼續運作。**
 
 >[!NOTE]
 >
