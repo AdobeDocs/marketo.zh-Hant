@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 行銷人員指南
 user-guide-description: 行銷人員產品檔案
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '7952'
+source-wordcount: '7967'
 ht-degree: 0%
 
 ---
@@ -507,7 +507,7 @@ ht-degree: 0%
          + [修正動態驗證同步問題](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + 同步設定{#sync-setup}
             + [下載Marketo Lead管理解決方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
-            + [升級Microsoft Dynamics的Marketo解決方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)
+            + [更新Microsoft Dynamics的Marketo解決方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [驗證Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [查看組織服務URL](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011內部部署{#microsoft-dynamics-2011-on-premises}
@@ -1036,6 +1036,11 @@ ht-degree: 0%
             + [使用傳送警報資訊Token](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [在我的Token中使用URL](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [電子郵件CC](product-docs/email-marketing/general/email-cc.md)
+   + Marketo Engage新一代體驗{#marketo-engage-next-generation-experience}
+      + [概觀](product-docs/marketo-engage-next-generation-experience/overview.md)
+      + [新圖示辭彙表](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+      + [移動資產](product-docs/marketo-engage-next-generation-experience/moving-assets.md)
+      + [使用全域搜尋](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + 開始使用{#getting-started}
          + [銷售連接概述](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -1292,7 +1297,7 @@ ht-degree: 0%
             + [禁用全局MS Dynamics Sync](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [從您的MS Dynamics Instance解除安裝MSI](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
          + 更新{#updating}
-            + [更新Microsoft Dynamics的Marketon Sales Insight解決方案](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/update-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [升級Microsoft Dynamics的Marketo Sales Insight解決方案](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + 適用於Salesforce {#msi-for-salesforce}的MSI
          + 安裝{#installation}
             + [在SalesforceAppExchange中安裝Marketo Sales Insight套件](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
@@ -1392,8 +1397,8 @@ ht-degree: 0%
          + [瞭解推播通知](product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
          + [檢視推播通知控制面板](product-docs/mobile-marketing/push-notifications/view-the-push-notification-dashboard.md)
       + 瀏覽SMS消息{#vibes-sms-messages}
-         + [新增簡訊的流程步驟](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [建立瀏覽式SMS訊息](product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
+         + [新增簡訊的流程步驟](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [SMS訊息儀表板](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
          + [在智慧型清單觸發器和篩選器中使用瀏覽式SMS訊息](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + 個人化{#personalization}
