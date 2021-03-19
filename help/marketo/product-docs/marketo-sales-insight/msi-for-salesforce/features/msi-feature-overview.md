@@ -3,7 +3,7 @@ unique-page-id: 37356893
 description: MSI功能概觀——行銷檔案——產品檔案
 title: MSI功能概觀
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
 workflow-type: tm+mt
 source-wordcount: '908'
 ht-degree: 0%
@@ -97,9 +97,14 @@ Visualforce頁面：
 
 * Sales Insight —— 開啟連絡人完整清單頁面
 
+動作：
+
+* 新增至Marketor Campaign
+* 傳送行銷人員至電子郵件
+* 從監視清單中添加／刪除
+
 「帳戶配置」頁面中的&#x200B;**not available**&#x200B;功能如下：
 
-* 動作：新增至Marketo促銷活動、傳送Marketo電子郵件、新增／從關注清單移除
 * 星與火焰
 
 ## 機會佈局{#opportunity-layout}
@@ -115,9 +120,14 @@ Visualforce頁面：
 * Sales Insight —— 開啟連絡人完整清單頁面
 * Marketo Opportunity Analysis —— 在Marketo中開啟Opportunity Influct Analyzer
 
+動作：
+
+* 新增至Marketor Campaign
+* 傳送行銷人員至電子郵件
+* 從監視清單中添加／刪除
+
 以下功能是「業務機會佈局」頁中&#x200B;**not available** :
 
-* 動作：新增至Marketo促銷活動、傳送Marketo電子郵件、新增／從關注清單移除
 * 星與火焰
 
 ## 銷售線索和聯繫人清單視圖（批量操作）{#lead-and-contact-list-view-bulk-actions}
