@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: 行銷人員辭彙表——行銷人員檔案——產品檔案
 title: Marketo辭彙表
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -36,7 +36,7 @@ ht-degree: 0%
    <td colspan="1">此術語可有不同的含義：<br>-您的Marketo實例本身可稱為您的Marketo帳戶。<br>-在 <strong>ABM</strong>，指 <strong>名</strong> 帳戶是使用者所認定的目標帳戶。<br>-在ABM中，CRM帳戶是從您連結的 <strong>CRM</strong> ( <strong>Salesforce</strong>、 <strong>MS </strong> Dynamicsor  <strong></strong>API中的帳戶)映射的帳戶。<br>-在您的CRM中，帳戶是與潛在客戶和聯絡人關聯的業務／公司。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-based-marketing-overview.md" rel="nofollow">帳戶型行銷</a> (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">帳戶型行銷</a> (ABM)</strong></td> 
    <td colspan="1">附加功能可讓您以高度協調的方式鎖定並吸引重要帳戶。</td> 
   </tr> 
   <tr> 
@@ -431,7 +431,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## I {#i}
+## K {#i}
 
 <table> 
  <colgroup> 
