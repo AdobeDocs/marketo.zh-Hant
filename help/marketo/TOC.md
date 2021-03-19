@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 行銷人員指南
 user-guide-description: 行銷人員產品檔案
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
 workflow-type: tm+mt
-source-wordcount: '7967'
+source-wordcount: '7971'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 0%
 + 產品檔案{#product-docs}
    + 目標帳戶管理{#target-account-management}
       + 設定{#setup}
-         + [帳戶型行銷概觀](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
+         + [目標帳戶管理概述](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [TAM快速入門](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [核發授權](product-docs/target-account-management/setup-tam/issue-a-license.md)
          + [權限](product-docs/target-account-management/setup-tam/permissions.md)
@@ -801,7 +801,7 @@ ht-degree: 0%
                + [範本12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [範本12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [範本12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [範本13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [範本13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [範本13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1322,6 +1322,7 @@ ht-degree: 0%
             + 語言支援{#language-support}
                + [在Salesforce中針對多語言支援準備銷售分析](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + 行銷標籤{#marketo-tab}
+               + [最佳下注](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [使用銷售線索摘要](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + MSI配置頁籤{#msi-configuration-tab}
                + [啟用銷售分析的RSS](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
@@ -1332,6 +1333,7 @@ ht-degree: 0%
                + [優先順序、緊急程度、相對分數和最佳賭注](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
                + [設定Sales Insight中用於星光和火焰的分數欄位](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
             + MSI面板{#tabs-in-the-msi-panel}中的標籤
+               + [電子郵件標籤](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
                + 有趣的時刻{#interesting-moments}
                   + [有趣的時刻總覽](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)
                   + [有趣時刻的Token](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
@@ -1594,7 +1596,7 @@ ht-degree: 0%
                + [使用欄位管理器建立自訂欄位群組](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
    + Web個人化{#web-personalization}
       + 帳戶型網路行銷{#account-based-web-marketing}
-         + [使用ABM進行帳戶型網路行銷](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md)
+         + [與TAM進行以帳戶為基礎的網路行銷](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [建立新帳戶清單](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [使用帳戶清單建立區段](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
       + 開始使用{#getting-started}
