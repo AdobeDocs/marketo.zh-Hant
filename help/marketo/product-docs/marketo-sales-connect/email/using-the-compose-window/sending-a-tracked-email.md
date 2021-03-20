@@ -3,7 +3,7 @@ unique-page-id: 37356565
 description: 傳送追蹤的電子郵件——行銷人員檔案——產品檔案
 title: 傳送追蹤的電子郵件
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 >在傳送追蹤的電子郵件之前，您必須先驗證身分並設定電子郵件傳送渠道。
 >
 >* [驗證您的電子郵件地址](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
->* 為[Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md)或[Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)設定傳送渠道
+>* 為[Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)或[Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)設定傳送渠道
 
 
 1. 建立您的電子郵件草稿（有多種方式可做到，在本範例中，我們在標題中選擇&#x200B;**合成**）。
