@@ -3,9 +3,9 @@ unique-page-id: 45417125
 description: 針對非原生Salesforce整合的Sales Insight —— 行銷檔案——產品檔案
 title: 針對非原生Salesforce整合的銷售分析
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1277'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 聯絡您的客戶成功經理，為您的行銷實例啟用「MSI非原生」功能。
->* 已設定MSI套件的Salesforce帳戶。
+>* 在您開始設定MSI之前，為您的Marketo例項啟用「MSI非原生」功能標幟（如果未啟用，請連絡您的客戶成功經理）。
+>* 設定[MSI套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)的Salesforce帳戶。
 >* Marketo REST API [成功設定](https://developers.marketo.com/rest-api/)。 公開的CRUD API將是執行非原生同步的基礎。
 >* 請閱讀[此部落格文章](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)，以瞭解物件和關係。
 >* 設定Salesforce物件，以顯示18個字元不區分大小寫的全域唯一識別碼，而非15個字元區分大小寫的全域唯一識別碼。
@@ -206,7 +206,7 @@ Opportunity的API文檔：[`https://developers.marketo.com/rest-api/lead-databas
 
    Marketo Lead的「最後一個有趣的時刻／計分」欄位必須使用REST API Lead端點定期同步至Salesforce。 使用&#x200B;_externalPersonId_&#x200B;作為filterType，並將Salesforce Lead GUID傳入為filterValue，查詢此端點的Marketo Lead。
 
-   | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
+   | GET/rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
 
    然後，您可以使用這些欄位的值，與Salesforce Lead/Contact物件同步。
@@ -263,4 +263,4 @@ Opportunity的API文檔：[`https://developers.marketo.com/rest-api/lead-databas
 
 Lead REST API的檔案：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET)。
 
-正確使用外部欄位是成功進行非原生同步的關鍵。 如果您在某些檢視中未看到資料，則可能會有特定欄位未正確同步。 例如，如果潛在客戶的活動和有趣的時刻在其帳戶下查看MSI介面工具集時未顯示，則潛在客戶的公司或帳戶可能未正確同步。 在指定外部欄位時執行此銷售線索的GET請求，將有助於您確認銷售線索是否正確同步。 此外，Marketing中外部銷售人員的電子郵件必須符合Salesforce中該使用者的電子郵件。 如果電子郵件不符，Salesforce的「行銷人員」索引標籤中可能不會顯示資料。
+正確使用外部欄位是成功進行非原生同步的關鍵。 如果您在某些檢視中未看到資料，則可能會有特定欄位未正確同步。 例如，如果潛在客戶的活動和有趣的時刻在其帳戶下查看MSI介面工具集時未顯示，則潛在客戶的公司或帳戶可能未正確同步。 在指定外部欄位時執行此銷售機會的GET請求，將有助於您確認銷售機會是否正確同步。 此外，Marketing中外部銷售人員的電子郵件必須符合Salesforce中該使用者的電子郵件。 如果電子郵件不符，Salesforce的「行銷人員」索引標籤中可能不會顯示資料。
