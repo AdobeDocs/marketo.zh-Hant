@@ -3,7 +3,7 @@ unique-page-id: 14352482
 description: 回覆追蹤的運作方式——行銷檔案——產品檔案
 title: 回覆追蹤的運作方式
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->**與電子郵件伺服器的連** 接： Sales Connect必須與您的收件箱連接，以便我們知道何時收到新的回復。您需要將Sales Connect帳戶[連接到Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)。 如果您使用Outlook，我們需要與[exchange伺服器](https://toutapp.com/next#settings/exchange_settings)整合。
+>**與電子郵件伺服器的連** 接： Sales Connect必須與您的收件箱連接，以便我們知道何時收到新的回復。您需要將Sales Connect帳戶[連接到Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)。 如果您使用Outlook，我們需要與[exchange伺服器](https://toutapp.com/next#settings/exchange_settings)整合。
 
 如果Sales Connect無法追蹤潛在客戶對您電子郵件的回覆，將無法根據回覆偵測或記錄回覆至Salesforce的促銷活動。  我們指的是，任何電子郵件地址都能回覆？
 
