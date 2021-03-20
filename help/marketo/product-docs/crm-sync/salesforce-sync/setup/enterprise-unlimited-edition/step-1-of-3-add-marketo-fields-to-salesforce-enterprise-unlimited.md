@@ -3,9 +3,9 @@ unique-page-id: 2360362
 description: 第1步（共3步）-將行銷人員欄位新增至Salesforce（企業版／不限數量）-行銷人員檔案——產品檔案
 title: 第1步（共3步）-將行銷欄位新增至Salesforce（企業版／無限製版）
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '731'
 ht-degree: 0%
 
 ---
@@ -265,10 +265,6 @@ Salesforce中銷售機會物件上的自訂欄位應對應至連絡人物件上�
 1. 完成時，按一下「保存」。****
 
    夠輕鬆的吧？
-
->[!NOTE]
->
->以下是整個程式](https://nation.marketo.com/videos/1475)的[視訊的連結，應該能清楚顯示！
 
 >[!MORELIKETHIS]
 >
