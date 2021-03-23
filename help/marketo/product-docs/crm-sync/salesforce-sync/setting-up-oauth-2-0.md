@@ -2,9 +2,9 @@
 description: 設定OAuth 2.0 —— 行銷檔案——產品檔案
 title: 設定OAuth 2.0
 translation-type: tm+mt
-source-git-commit: 2301452683880a621e6c8a999adc750027a885ce
+source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
 workflow-type: tm+mt
-source-wordcount: '14'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -12,4 +12,85 @@ ht-degree: 0%
 
 # 設定OAuth 2.0 {#setting-up-oauth-2-0}
 
-文字
+Salesforce使用OAuth通訊協定，讓應用程式的使用者透過REST API呼叫安全地存取（使用OAuth 2.0驗證應用程式）資料，而不需揭露登入憑證。 以下是要執行的步驟，以安全地將Marketo與Salesforce連接並同步化。
+
+## 設定連線的應用程式{#set-up-connected-app}
+
+1. 在Salesforce的「設定」下，在「平台工具」中，導覽至「應用程式」、「應用程式管理員」，然後按一下「新連線的應用程式」**。**
+
+   ![](assets/setting-up-oauth-2-1.png)
+
+1. 填寫詳細資訊，然後按一下「儲存」。****
+
+   ![](assets/setting-up-oauth-2-2.png)
+
+1. 按一下「啟用OAuth設定&#x200B;**」核取方塊。**&#x200B;在回呼URL中，輸入`https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect`。 選擇所有可用的OAuth示波器，然後按一下&#x200B;**添加**。
+
+   ![](assets/setting-up-oauth-2-3.png)
+
+1. 按一下&#x200B;**保存**。
+
+   ![](assets/setting-up-oauth-2-4.png)
+
+1. 按一下&#x200B;**繼續**。
+
+   ![](assets/setting-up-oauth-2-5.png)
+
+1. 複製消費者金鑰和消費者機密。
+
+   ![](assets/setting-up-oauth-2-6.png)
+
+>[!NOTE]
+>
+>儲存消費者金鑰和消費者密碼資訊，以供日後在Marketo中使用。
+
+## 設定行銷{#set-up-marketo}
+
+>[!PREREQUISITES]
+>
+>* 必須為Salesforce Sync使用者啟用API存取權（如果您是Salesforce Professional Edition使用者，該存取權預設不可用——請連絡您的Salesforce帳戶主管）。
+>* 必須在Salesforce中建立Marketo Sync使用者。
+>* 對於現有客戶，客戶的訂閱中啟用「啟用OAuth for SFDC同步」功能。
+>* 快顯封鎖程式已停用。
+>* 已建立連線的應用程式，我們提供消費者金鑰和消費者密碼供使用。
+
+
+1. 在「行銷管理」區段中，按一下&#x200B;**CRM**，然後按一下&#x200B;**與Salesforce**&#x200B;同步。
+
+   ![](assets/setting-up-oauth-2-7.png)
+
+1. 新增您先前記錄的使用者金鑰和使用者密碼資訊，然後按一下並&#x200B;**儲存**。
+
+   ![](assets/setting-up-oauth-2-8.png)
+
+1. 在「Marketo Salesforce」同步頁面上，按一下「使用Salesforce登入&#x200B;**」按鈕。**
+
+   ![](assets/setting-up-oauth-2-9.png)
+
+1. 將會顯示包含salesforce登入頁面的快顯視窗。 「Marketo同步使用者」憑證中的金鑰並登入。
+
+   ![](assets/setting-up-oauth-2-10.png)
+
+1. 輸入您透過電子郵件（由Salesforce傳送）收到的驗證碼，然後按一下「驗證」。****
+
+   ![](assets/setting-up-oauth-2-11.png)
+
+1. 成功驗證後，存取頁面會顯示要求存取。 按一下&#x200B;**允許**。
+
+   ![](assets/setting-up-oauth-2-12.png)
+
+1. 幾分鐘後，Marketo就會出現快顯視窗。 按一下&#x200B;**確認憑據**。
+
+   ![](assets/setting-up-oauth-2-13.png)
+
+1. 完成欄位同步後，按一下「啟動Salesforce同步」。****
+
+   ![](assets/setting-up-oauth-2-14.png)
+
+1. 按一下&#x200B;**開始同步**。
+
+   ![](assets/setting-up-oauth-2-15.png)
+
+您在Marketo和Salesforce之間的同步作業現在正在進行中。
+
+![](assets/setting-up-oauth-2-16.png)
