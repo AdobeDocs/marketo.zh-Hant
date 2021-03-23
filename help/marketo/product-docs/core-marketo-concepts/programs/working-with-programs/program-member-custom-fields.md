@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: 方案會員自訂欄位——行銷檔案——產品檔案
 title: 方案會員自訂欄位
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,11 @@ ht-degree: 0%
 
 # 方案成員自定義欄位{#program-member-custom-fields}
 
-方案成員自定義欄位允許您收集每個成員的方案特定資料。 它們可用於：Marketo表單、智慧型清單篩選和觸發器，以及智慧型促銷活動流量動作。 可在程式的「成員」(Members)頁籤中查看資料。
+方案會員自訂欄位可讓您收集每個會員的方案專屬資料。 它們可用於：Marketo表單、智慧型清單篩選和觸發器，以及智慧型促銷活動流量動作。 可在程式的「成員」(Members)頁籤中查看資料。
+
+>[!NOTE]
+>
+>「方案會員」自訂欄位目前未與「Salesforce促銷活動會員」欄位整合。
 
 ## 建立程式成員自定義欄位{#create-a-program-member-custom-field}
 
@@ -64,7 +68,6 @@ ht-degree: 0%
 
 * 方案會員自訂欄位僅適用於本機資產。 Design Studio不支援這些功能，因為無法將它與特定程式連結。
 * 您無法將包含「Program Member」自訂欄位的表單（或含表單的著陸頁面）複製／移動至Design Studio。
-* 「方案會員」自訂欄位不能用作Token。
 * Program Member對象最多可以有20個自定義欄位。 這些欄位可用於任何程式。
 * 刪除程式成員時，如果他們在其「程式成員」自定義欄位中有任何資料，則會從該欄位中刪除資料。
 * 要查看資料，請按一下程式中的「成員」頁籤並建立包含該欄位的自定義視圖。
