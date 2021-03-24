@@ -3,9 +3,9 @@ unique-page-id: 37357050
 description: 升級您的MSI套件——行銷人員檔案——產品檔案
 title: 升級您的MSI套件
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -26,3 +26,7 @@ ht-degree: 0%
 1. 您可以選擇「僅限管理員安裝」（並稍後提供特定設定檔的MSI存取權）、「針對所有使用者安裝」或「針對特定設定檔安裝」來升級套件。 在此範例中，我們選擇「僅限管理員」。 選擇後，按一下&#x200B;**Upgrade**。
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>建議您僅更新管理員的套件，然後[根據購買的MSI授權數目，提供特定使用者的存取權。 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)或者，您也可以為MSI使用者建立特定的Salesforce設定檔，並僅為這些使用者安裝或升級套件。
