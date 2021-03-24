@@ -3,9 +3,9 @@ unique-page-id: 14352402
 description: 邀請團隊成員——行銷人員檔案——產品檔案
 title: 邀請團隊成員
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 在「管理員設定」下，選取「團隊管理」**。**
+1. 在「管理員設定」下，選取「**使用者管理**」。
 
-   ![](assets/two.png)
+   ![](assets/invite-team-members-2.png)
 
-1. 按一下「邀請新使用者」。****
+1. 按一下「邀請使用者」。****
 
-   ![](assets/three.png)
+   ![](assets/invite-team-members-3.png)
 
 1. 輸入要添加的個人的電子郵件地址，然後按一下&#x200B;**Next**。
 
