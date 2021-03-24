@@ -3,7 +3,7 @@ unique-page-id: 14352623
 description: 使用者存取詳細資訊——行銷人員檔案——產品檔案
 title: 使用者存取詳細資訊
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 管理員可以檢視所有電子郵件活動。
 
-![](assets/email-activity.png)
+![](assets/user-access-details-3.png)
 
 管理員可以查看執行中促銷活動的所有人員。
 
