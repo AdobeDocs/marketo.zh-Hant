@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: 發行計畫——行銷人員檔案——產品檔案
 title: 發行計畫
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 * 進行中——我們正在開發並記錄內容，以便在指定日期發佈
 * 已出貨——發行完成
 
-發行日期可能會有所變更。
+_發行日期可能會有所變更_
 
 <table> 
  <colgroup> 
