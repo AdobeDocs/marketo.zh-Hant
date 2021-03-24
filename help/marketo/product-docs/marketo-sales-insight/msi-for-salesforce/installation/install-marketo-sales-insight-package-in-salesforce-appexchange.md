@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7516390
-description: 在Salesforce AppExchange中安裝Marketo Sales Insight套件- Marketo Docs —— 產品檔案
-title: 在Salesforce AppExchange中安裝Marketo Sales Insight套件
+description: 在SalesforceAppExchange中安裝Marketo Sales Insight套件- Marketo Docs —— 產品檔案
+title: 在SalesforceAppExchange中安裝Marketo Sales Insight套件
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
 
 
-# 在Salesforce AppExchange {#install-marketo-sales-insight-package-in-salesforce-appexchange}中安裝Marketo Sales Insight套件
+# 在SalesforceAppExchange{#install-marketo-sales-insight-package-in-salesforce-appexchange}中安裝Marketo Sales Insight套件
 
 您必須先在Salesforce訂閱中安裝Marketo Sales Insight應用程式，才能享受Sales Insight提供的一切好處。 這是方法。
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 >
 >Marketo Sales Insight與Salesforce Platform(Shield)Encryption相容。
 
-1. 前往Marketon Sales Insight的[AppExchange頁面，然後按一下&#x200B;**立即取得**。](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)
+1. 前往Marketo Sales Insight的[AppExchange頁面，然後按一下&#x200B;**立即取得**。](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)
 
    ![](assets/one.png)
 
-1. 按一下「**登入AppExchange**」按鈕，然後使用您的Salesforce憑證登入。
+1. 按一下「**登入AppExchange**」按鈕，然後使用您的Salesforce認證登入。
 
 1. 輸入您所連線的Salesforce帳戶登入，然後按一下「在Production中安裝」。****
 
@@ -77,6 +77,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[在Salesforce Professional Edition中設定Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
->
->[在Salesforce Enterprise中設定Marketo Sales Insight/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [在Salesforce Professional Edition中設定Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [在Salesforce Enterprise中設定Marketo Sales Insight/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [為您的團隊設定銷售分析](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+
