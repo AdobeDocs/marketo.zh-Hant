@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: 在Salesforce Enterprise中設定Marketo Sales Insight/Unlimited - Marketo Docs —— 產品檔案
 title: 在Salesforce Enterprise中設定Marketo Sales Insight/Unlimited
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [在您的Salesforce Enterprise/Unlimited Edition中設定Marketo欄位同步](https://docs.marketo.com/pages/viewpage.action?pageid=2360372)
->* [在Salesforce AppExchange中安裝Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [在SalesforceAppExchange中安裝Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 
 >[!NOTE]
@@ -304,4 +304,5 @@ ht-degree: 0%
 >
 >* [優先順序、緊急程度、相對分數和最佳賭注](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
 >* [新增Market至Sales Insight標籤和按鈕至Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
+>* [為您的團隊設定銷售分析](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
 
