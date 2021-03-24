@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Salesforce中的Marketo Sales Insight設定標籤- Marketo Docs —— 產品檔案
 title: Salesforce中的Marketo Sales Insight「設定」標籤
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,7 @@ ht-degree: 0%
 
 * 近期活動：能夠向使用者顯示邀請的事件、所有事件或完全隱藏此標籤
 * 近期促銷活動：可顯示所有電子郵件促銷活動或完全隱藏此標籤
+* 載入即將推出的促銷活動和事件：透過將事件和促銷活動標籤置於隨選「載入即將進行的項目」按鈕後，可減少使用者進行的Rest API呼叫次數
 * 標籤設定——預設會提供所有5個標籤。 依預設，所有5個標籤皆可使用。 您可以在Sales Insight面板中選擇標籤順序。 相同的訂單將適用於所有版面（銷售機會、聯絡人、帳戶、業務機會）
 
 ![](assets/two.png)
@@ -58,3 +59,7 @@ ht-degree: 0%
 選擇這樣做將擦除SFDC中的所有配置，並且無法恢復這些配置。 您必須重新設定所有項目。
 
 ![](assets/three.png)
+
+>[!MORELIKETHIS]
+>
+>[為您的團隊設定銷售分析](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
