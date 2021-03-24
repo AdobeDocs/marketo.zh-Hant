@@ -3,9 +3,9 @@ unique-page-id: 11385938
 description: 編輯電子郵件的預測性內容——行銷人員檔案——產品檔案
 title: 編輯電子郵件的預測性內容
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,10 @@ ht-degree: 0%
 1. 若要新增或編輯影像URL，請按一下「編輯影像」。****
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
+
+   >[!CAUTION]
+   >
+   >為確保最佳品質，您的影像必須為400x400像素或更小。
 
 1. 插入影像URL，然後按一下「新增&#x200B;**」。**
 
