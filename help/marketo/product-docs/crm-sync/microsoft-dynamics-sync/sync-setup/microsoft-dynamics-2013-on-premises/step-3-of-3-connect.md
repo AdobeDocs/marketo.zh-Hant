@@ -3,9 +3,9 @@ unique-page-id: 3571819
 description: 3步驟3 - Connect Marketo和Dynamics（2013年內部部署）- Marketo Docs —— 產品檔案
 title: 第3步（共3步）- Connect Marketo與Dynamics（2013年內部部署）
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Market中的使用者名稱必須符合CRM中同步使用者的使用者名稱。 格式可以是user@domain.com或DOMAIN\user。
+   >* Market中的使用者名稱必須符合CRM中同步使用者的使用者名稱。 格式可以是user@domain.com或DOMAIN\user。
+   >* 如果您不知道URL，請[學習如何在這裡找到](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
 
-   >[!TIP]
-   >
-   >不知道網址嗎？ 我們將向您展示如何在此處找到[Dynamics Organization Service URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
 
 ## 選擇要同步的欄位{#select-fields-to-sync}
 
@@ -70,6 +68,10 @@ ht-degree: 0%
 1. 選取您要同步至Marketo的欄位，以便預先選取這些欄位。 按一下&#x200B;**保存**。
 
    ![](assets/image2016-8-25-15-3a10-3a17.png)
+
+   >[!NOTE]
+   >
+   >Marketo儲存要同步之欄位的參考。 如果您刪除Dynamics中的欄位，我們建議您在[sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)下執行此動作。 然後，編輯並儲存[選擇要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)，以重新整理Marketo中的架構。
 
 ## 同步自訂篩選器的欄位{#sync-fields-for-a-custom-filter}
 
