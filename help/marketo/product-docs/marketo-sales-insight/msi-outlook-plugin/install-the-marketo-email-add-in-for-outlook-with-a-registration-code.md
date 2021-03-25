@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: 使用註冊碼——行銷人員檔案——產品檔案安裝Outlook的Marketo Email增益集
 title: 使用註冊碼安裝Outlook的Marketo Email增益集
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 0%
 >
 >您必須[核發行銷人員電子郵件增益集授權](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)。
 
+>[!NOTE]
+>
+>自10/1/20起，最新版Outlook外掛程式不再支援離線模式。 在10/1上安裝／升級後，此功能將生效。
+
 ## 下載安裝程式{#download-installer}
 
 1. 識別[Microsoft Outlook版本](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
@@ -29,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >下列連結目前僅適用於Chrome。 抱歉給您帶來不便。
+   >目前，以下連結僅能在Microsoft Edge中運作，或在Chrome中按一下滑鼠右鍵。 抱歉給您帶來不便。
 
    | Outlook版本 | 32位元Outlook | 64位元Outlook |
    |---|---|---|
@@ -40,9 +44,11 @@ ht-degree: 0%
    | 《2013年展望》 | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | 《2016年展望》 | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | 《2019年展望》 | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook O365（僅限Windows） | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Mac版Outlook | 不支援 | 不支援 |
    | Outlook網頁應用程式 | 不支援 | 不支援 |
+   | Office 365* | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+
+   *Office 365版本：僅限Windows用戶端（在Windows 10、Enterprise或Pro上）。
 
 ## 複製您的註冊代碼{#copy-your-registration-code}
 
