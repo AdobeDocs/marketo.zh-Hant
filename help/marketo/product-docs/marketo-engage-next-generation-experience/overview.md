@@ -2,9 +2,9 @@
 description: 概觀——行銷檔案——產品檔案
 title: 概觀
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '470'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 1%
 
 **樹**
 
-樹也升級了。 但目前，拖放功能不提供。 不過，您仍可以移動資產。 瞭解如何：[移動資產](/help/marketo/product-docs/marketo-engage-next-generation-experience/moving-assets.md)。
+樹也升級了。
 
 ![](assets/overview-4.png)
 
@@ -97,12 +97,12 @@ ht-degree: 1%
   <tr>
    <td>從樹狀結構拖放至參與串流</td> 
    <td><strong>X</strong></td> 
-   <td>hhhhhhhhhhhh</td> 
+   <td></td> 
   </tr>
   <tr>
    <td>在樹內拖放</td> 
    <td><strong>X</strong></td> 
-   <td></td> 
+   <td><strong>X</strong></td> 
   </tr>
   <tr>
    <td>依資產類型和狀態篩選</td> 
@@ -194,7 +194,7 @@ ht-degree: 1%
    <td>所有先前列出的超球項目</td> 
   </tr>
   <tr>
-   <td>1</td> 
+   <td>3</td> 
    <td>使用它提供您MEUE體驗的意見回饋</td> 
   </tr>
   <tr>
