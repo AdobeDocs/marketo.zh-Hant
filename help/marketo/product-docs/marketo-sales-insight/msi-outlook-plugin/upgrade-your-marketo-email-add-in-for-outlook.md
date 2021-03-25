@@ -3,9 +3,9 @@ unique-page-id: 2949279
 description: 升級您的行銷人員至電子郵件Outlook增益集——行銷人員檔案——產品檔案
 title: 升級您的行銷人員至Outlook電子郵件增益集
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 升級您的Marketor Email Add-In for Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
 
 當Outlook的Marketo Email增益集有新版本時，請依照下列指示進行升級。
+
+>[!NOTE]
+>
+>自10/1/20起，最新版Outlook外掛程式不再支援離線模式。 在10/1上安裝／升級後，此功能將生效。
 
 ## 下載安裝程式{#download-installer}
 
@@ -90,13 +94,6 @@ ht-degree: 0%
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Outlook O365（僅限Windows）</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
-  </tr> 
-  <tr> 
    <td>Mac版Outlook</td> 
    <td>不支援</td> 
    <td>不支援</td> 
@@ -110,10 +107,23 @@ ht-degree: 0%
    <td colspan="1">不支援</td> 
    <td colspan="1">不支援</td> 
   </tr> 
+  <tr> 
+   <td colspan="1">Office 365*</td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
+  </tr> 
  </tbody> 
 </table>
 
+*Office 365版本：僅限Windows用戶端（在Windows 10、Enterprise或Pro上）。
+
 ## 升級{#upgrade}
+
+1. 識別您的[Microsoft Outlook版本](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us)。
+
+1. 從上述清單中選擇您的版本。
 
 1. 執行安裝程式。
 
