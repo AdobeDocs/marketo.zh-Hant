@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: 適用於Outlook使用者的電子郵件連線——行銷人員檔案——產品檔案
 title: Outlook用戶的電子郵件連接
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,22 @@ ht-degree: 0%
 
    ![](assets/six-a.png)
 
-   | **Outlook Online** | 也稱為Office Online |
-   |---|---|
-   | **Exchange現場** | 包括Exchange 2013和2016 |
+   <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook Online</strong></td> 
+      <td>也稱為Exchange Online</td> 
+     </tr>
+     <tr>
+      <td><strong>Exchange現場</strong></td> 
+      <td>包括Exchange 2013和2016</td> 
+     </tr>
+    </tbody>
+   </table>
+
+   >[!NOTE]
+   >
+   >Marketo目前不支援Exchange Hybrid帳戶。
 
 1. 按一下&#x200B;**確定**。
 
@@ -67,7 +80,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >使用Outlook做為傳送管道時，一次無法傳送超過300封大量電子郵件。
+   >Outlook Online(Office365)會強制實施自己的發送限制。 [在這裡瞭解更多](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。
 
 ## 連接到Exchange內部部署{#connecting-to-exchange-on-premise}
 
@@ -97,10 +110,18 @@ ht-degree: 0%
 
    ![](assets/six-b.png)
 
-   | 版本 | 說明 |
-   |---|---|
-   | **Outlook Online** | 也稱為Office Online |
-   | **Exchange現場** | 包括Exchange 2013和2016 |
+   <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook Online</strong></td> 
+      <td>也稱為Exchange Online</td> 
+     </tr>
+     <tr>
+      <td><strong>Exchange現場</strong></td> 
+      <td>包括Exchange 2013和2016</td> 
+     </tr>
+    </tbody>
+   </table>
 
 1. 輸入您的憑據，然後按一下&#x200B;**Connect**。
 
@@ -114,4 +135,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >使用Outlook做為傳送管道時，一次無法傳送超過300封大量電子郵件。
+   >使用Exchange On-prem時，您的IT團隊將確定您的電子郵件發送限制。
