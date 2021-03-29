@@ -1,14 +1,12 @@
 ---
-cloud: experience-cloud
-product: adobe experience cloud
-sub-product: 天空
 archetype: end-user
 user-guide-title: '[!DNL Sky] 產品檔案'
+feature-set: Marketo Sky
 index: y
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e51d81dbf27bea8667ffafdcc356cf3f6b70c2b1
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---
