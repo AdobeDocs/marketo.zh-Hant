@@ -1,14 +1,14 @@
 ---
 title: 瞭解參與計畫
 description: 瞭解參與計畫
+exl-id: 15627752-8246-44fa-9293-2f97849635fc
 translation-type: tm+mt
-source-git-commit: 96839c20e8d6adf2dc87ae050decc73ecb5052e7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
 
 ---
-
 
 # 瞭解參與計畫
 
@@ -86,4 +86,4 @@ ht-degree: 0%
 
 ## 內容參與等級
 
-「內容參與程度」是Marketo將提供您內容的0到100分。 此數字由使用開啟、點按、取消訂閱、程式成功和其他因素的複雜公式決定。
+內容參與等級是Marketo將提供您內容的0到100分。 此數字由使用開啟、點按、取消訂閱、程式成功和其他因素的複雜公式決定。
