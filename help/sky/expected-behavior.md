@@ -1,14 +1,14 @@
 ---
 title: 期望行為
 description: 預期行為
+exl-id: 8f6d12e4-851c-43d8-a5cf-053887517aaa
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
-
 
 # 預期行為
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 對於預測性對象，您可以預期下列行為：
 
-* PA可在Marketo Sky和Marketo Classic體驗中存取。 具體功能的可用性如下：
+* PA提供Marketo Sky和Marketo Classic體驗。 具體功能的可用性如下：
    * 預測性篩選- [!DNL Sky/Classic]
    * 預計註冊- [!DNL Sky/Classic]
    * 潛在客源等級預測- [!DNL Sky/Classic]
