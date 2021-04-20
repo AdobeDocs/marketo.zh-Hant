@@ -1,14 +1,14 @@
 ---
 title: 本地資產計畫
 description: 方案中的本機資產
+exl-id: ea7326a8-3892-4bab-95e3-2ad9e1054e41
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # 方案中的本機資產
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 * [電子郵件方案](https://docs.marketo.com/display/DOCS/Email+Programs)
 * [電子郵件](https://docs.marketo.com/display/DOCS/Create+an+Email+for+an+Email+Program)
 * [著陸頁面](https://docs.marketo.com/display/DOCS/Landing+Pages)
-* [表單](https://docs.marketo.com/display/DOCS/Forms)
+* [Forms](https://docs.marketo.com/display/DOCS/Forms)
 
 >[!IMPORTANT]
 >
