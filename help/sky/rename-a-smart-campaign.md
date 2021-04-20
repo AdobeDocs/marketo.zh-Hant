@@ -1,14 +1,14 @@
 ---
 title: rename-a-smart-campaign
 description: 重新命名智慧型促銷活動
+exl-id: e22f6d7a-0ffd-4d11-a7d2-fec9aeb10545
 translation-type: tm+mt
-source-git-commit: c96e593938a653a9d5064e69da96c0107258bf87
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
-
 
 # 重新命名智慧型促銷活動
 
