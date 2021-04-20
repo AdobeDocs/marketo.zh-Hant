@@ -1,20 +1,20 @@
 ---
 title: 預測濾鏡
 description: 預測性篩選
+exl-id: cbfc2d5f-181d-4f07-b2c6-74c848708ef0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-
 # 預測性篩選
 
 <br> 
 
-Marketo在「預測性對象」中，在智慧型清單中提供一組以AI/ML為基礎的篩選。
+作為「預測性對象」的一部分，Marketo在智慧型清單中提供一組以AI/ML為基礎的篩選器。
 
 ![影像一](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-1.png)
 
