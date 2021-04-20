@@ -1,14 +1,14 @@
 ---
 title: activate-deactivate-a-trigger-smart-campaign
 description: 啟用／停用觸發器智慧型促銷活動
+exl-id: 5579aad6-42bf-41e2-8baa-a14da14702da
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
 
 ---
-
 
 # 啟用／停用觸發器智慧型促銷活動
 
