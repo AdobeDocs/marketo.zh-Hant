@@ -1,26 +1,26 @@
 ---
 title: importing-assets-with-adobe-experience-manager
 description: 使用Adobe Experience Manager匯入資產
+exl-id: f22be520-c1ea-4e7e-9fc4-cdbee34d27a4
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-
 # 使用Adobe Experience Manager匯入資產
 
 <br> 
 
-「資產選擇器」可讓[!DNL Marketo]客戶存取、選擇AEM資產，並將其匯入[!DNL Marketo's] [!UICONTROL Design Studio]。 您必須是管理員才能執行這些步驟。
+資產選擇器允許[!DNL Marketo]客戶存取、選取AEM資產並匯入至[!DNL Marketo's] [!UICONTROL Design Studio]。 您必須是管理員才能執行這些步驟。
 
 >[!NOTE]
 >[!DNL Adobe Experience Manager (AEM)] 是獨立產品，必須另行購買。 請連絡您的客戶成功經理以瞭解更多資訊。
 
 >[!IMPORTANT]
->請確定您已在[!DNL Marketo Classic]中執行[AEM Configuration](https://docs.marketo.com/x/FwPLAQ)。
+>請確定您已經執行了[!DNL Marketo Classic]AEM中的[Configuration](https://docs.marketo.com/x/FwPLAQ)。
 
 >[!CAUTION]
 >
@@ -62,4 +62,4 @@ ht-degree: 0%
 
 * [!DNL Marketo] 目前支 [!DNL Adobe Experience Manager] 援6.4和6.5版。
 * 您實例中的所有用戶都可以查看／訪問您導入的映像。
-* 影像不會自動更新。 如果您匯入至[!DNL Marketo] [!UICONTROL Design Studio]的影像已在AEM中更新，您必須手動將它重新匯入至[!DNL Marketo]。
+* 影像不會自動更新。 如果導入到[!DNL Marketo] [!UICONTROL Design Studio]的映像在中更新AEM，則必須手動將其重新導入到[!DNL Marketo]。
