@@ -1,14 +1,14 @@
 ---
 title: my-token-link
 description: 我的Token連結
+exl-id: c44081ae-c100-4fa2-b124-4f80d5c038b4
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
 
 ---
-
 
 # 我的代號：連結
 
