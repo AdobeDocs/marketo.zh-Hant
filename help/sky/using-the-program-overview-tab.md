@@ -1,14 +1,14 @@
 ---
 title: using-the-program-overview-tab
 description: 使用方案概述頁籤
+exl-id: 85193e27-5f49-4db9-88f5-99ec5f8bbec8
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
-
 
 # 使用方案概述頁籤
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![影像一](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-頁面底部有兩個區段：**[!UICONTROL Program Stats]**&#x200B;和&#x200B;**[!UICONTROL Used By]**。 **[!UICONTROL Program Stats]** 顯示有關程式效能的關鍵量度， **[!UICONTROL Used By]** 並是您在Marketo中使用程式的簡易方式。
+頁面底部有兩個區段：**[!UICONTROL Program Stats]**&#x200B;和&#x200B;**[!UICONTROL Used By]**。 **[!UICONTROL Program Stats]** 顯示有關計畫績效的關鍵指標， **[!UICONTROL Used By]** 並且是您在Marketo使用計畫的簡單方式。
 
 ![影像2](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
