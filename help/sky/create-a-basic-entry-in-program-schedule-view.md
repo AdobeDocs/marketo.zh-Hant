@@ -1,14 +1,14 @@
 ---
 title: create-a-basic-entry-in-program-schedule-view
 description: 在「方案計畫」視圖中建立基本條目
+exl-id: c4b089f0-aaaa-42e8-8eb9-8b53dbd6a2d5
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
 
 ---
-
 
 # 在「方案計畫」視圖中建立基本條目
 
