@@ -1,14 +1,14 @@
 ---
 title: campaign-folder-overview-tab
 description: 促銷活動資料夾概述標籤
+exl-id: 3098658d-1345-4974-a81c-1b639af02b62
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
-
 
 # 促銷活動資料夾：概述標籤
 
