@@ -1,14 +1,14 @@
 ---
 title: 優先順序流內容
 description: 排定串流內容的優先順序
+exl-id: b1113383-a907-4f8e-b846-1f750d50ec3e
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
-
 
 # 排定串流內容的優先順序
 
