@@ -1,14 +1,14 @@
 ---
 title: campaign-folder-my-tokens-tab
 description: 促銷活動資料夾我的Token標籤
+exl-id: 41ea3c52-4864-4148-ba3b-21cb6f8b6b66
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
-
 
 # 促銷活動資料夾：我的Token標籤
 
