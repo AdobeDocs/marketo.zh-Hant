@@ -1,14 +1,14 @@
 ---
 title: 瞭解目標跟蹤和預測註冊
 description: 瞭解目標追蹤和預計註冊
+exl-id: 65064cbd-2ed7-45d5-aab9-4fc865e2bed6
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '969'
 ht-degree: 0%
 
 ---
-
 
 # 瞭解目標追蹤和預計註冊
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在Marketo Classic中建立事件程式時，事件開始日期目前預設為事件建立日期。 由於預計註冊會考量事件開始日期之前的時間，因此如果開始日期和建立日期相同，這些數字可能不正確（除非有意設定）。
+>在Marketo Classic建立事件程式時，事件開始日期當前預設為事件建立日期。 由於預計註冊會考量事件開始日期之前的時間，因此如果開始日期和建立日期相同，這些數字可能不正確（除非有意設定）。
 
 ## 目標追蹤和預計註冊
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![影像5](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-5.png)
 
-## 建議
+## Recommendations
 
 在「報表」頁面的頂端，您可以根據您的進度尋找AI/ML導向的建議。 請定期回訪，以取得有用的提示和見解！
 
