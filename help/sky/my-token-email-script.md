@@ -1,14 +1,14 @@
 ---
 title: my-token-email-script
 description: 我的Token電子郵件指令碼
+exl-id: 8dd28274-578a-4184-b7bb-b46b59ebe410
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # 我的代號：電子郵件指令碼
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 1. 以Velocity編寫您的指令碼。 以下是一些有用的資源可協助您：
 
-   * [行銷人員電子郵件指令碼檔案](https://developers.marketo.com/email-scripting/)
+   * [Marketo開發人員電子郵件指令碼檔案](https://developers.marketo.com/email-scripting/)
    * [Velocity使用指南](https://velocity.apache.org/engine/devel/user-guide.html)
    * [速度參考指南](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [VelocityTools 2.0檔案](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
