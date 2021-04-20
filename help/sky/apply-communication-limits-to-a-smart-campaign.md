@@ -1,18 +1,18 @@
 ---
 title: apply-communication-limits-to-a-smart-campaign
 description: 將通訊限制套用至智慧型促銷活動
+exl-id: 8fef2150-c1bd-4411-9968-07c71e191784
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-
 # 將通訊限制套用至智慧型促銷活動
 
-每天給某人發多封電子郵件，或一週內發過多封，這不是個好主意。 幸運的是，Marketo有通訊限制可以幫助您。
+每天給某人發多封電子郵件，或一週內發過多封，這不是個好主意。 幸運的是，Marketo有通訊限制可以幫助。
 
 >[!IMPORTANT]
 >
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->當任何人超過設定的通訊限制時，Market會封鎖非營運性電子郵件（營運性電子郵件一律會傳送）。
+>當任何人超過設定的通訊限制時，Marketo會封鎖非營運性電子郵件（營運性電子郵件總是會傳送）。
 
 1. 選擇您的智慧型促銷活動，然後按一下&#x200B;**[!UICONTROL Schedule]**&#x200B;標籤。
 
