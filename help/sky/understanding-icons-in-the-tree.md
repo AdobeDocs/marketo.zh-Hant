@@ -1,14 +1,14 @@
 ---
 title: 瞭解樹中的圖示
 description: 瞭解樹中的表徵圖
+exl-id: e57a7dfd-da9c-4f8d-bf6e-4481d6ca8051
 translation-type: tm+mt
-source-git-commit: c96e593938a653a9d5064e69da96c0107258bf87
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
-
 
 # 瞭解樹中的表徵圖
 
