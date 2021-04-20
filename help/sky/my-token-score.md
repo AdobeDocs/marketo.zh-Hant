@@ -1,14 +1,14 @@
 ---
 title: my-token-score
 description: 我的代號分數
+exl-id: 3b5177a3-4805-4a98-9874-b5c01833a038
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
-
 
 # 我的代號：分數
 
