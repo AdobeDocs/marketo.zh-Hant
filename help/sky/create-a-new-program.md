@@ -1,14 +1,14 @@
 ---
 title: 建立新程式
 description: 建立新方案
+exl-id: 898d5c99-caeb-42e7-a798-9d289fa26c85
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
-
 
 # 建立新方案
 
