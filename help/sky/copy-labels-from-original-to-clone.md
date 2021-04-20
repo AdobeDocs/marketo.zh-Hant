@@ -1,14 +1,14 @@
 ---
 title: copy-labels-from-origin-to-clone
 description: 將標籤從原始複製到克隆
+exl-id: 30366a53-bdcf-45dc-8371-d510de60c432
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # 將標籤從原始複製到克隆
 
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這是您唯一可以將原始標籤複製到克隆資產的位置。 建立克隆資產後，您只能從父資產[複製標籤。](/help/sky/copy-labels-from-parent-to-child.md)
+>這是您唯一可以將原始標籤複製到克隆資產的位置。 建立克隆資產後，您只能從父資產](/help/sky/copy-labels-from-parent-to-child.md)複製標籤。[
