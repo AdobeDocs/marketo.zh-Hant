@@ -1,14 +1,14 @@
 ---
 title: 配置——樹
 description: 配置樹
+exl-id: 989f72dd-b89f-4bec-98fd-3b513643c9f3
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
-
 
 # 配置樹
 
