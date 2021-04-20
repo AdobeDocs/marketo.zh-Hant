@@ -1,14 +1,14 @@
 ---
 title: rename-a-stream
 description: 重新命名串流
+exl-id: 01d710bf-b1ea-455e-a17e-251794ab39db
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
-
 
 # 重新命名串流
 
