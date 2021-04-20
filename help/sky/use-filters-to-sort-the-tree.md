@@ -1,14 +1,14 @@
 ---
 title: use-filters-to-sort-the-tree
 description: 使用篩選器對樹進行排序
+exl-id: bdf6563b-85eb-49d5-8afa-09dcd22f1455
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
 
 ---
-
 
 # 使用篩選器對樹進行排序
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 您可以使用此功能來尋找在特定日期範圍內建立或修改的資產；例如，上週，過去三個月，等等。
 
-依預設，Marketo會載入過去6個月的所有內容。 若要變更此項，請從&#x200B;**[!UICONTROL Choose Date Range]**&#x200B;下拉式清單中選取範圍。 這些設定是嚴格的，也會在您下次登入Marketo時套用。
+依預設，Marketo會載入過去6個月的所有內容。 若要變更此項，請從&#x200B;**[!UICONTROL Choose Date Range]**&#x200B;下拉式清單中選取範圍。 這些設定是嚴格的，下次您登入Marketo時也會套用這些設定。
 
 ![影像2](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-2.png)
 
