@@ -1,20 +1,20 @@
 ---
 title: define-a-smart-list-for-a-batch-campaign
 description: 定義批次促銷活動的智慧型清單
+exl-id: 35130f40-cce5-4677-8eaf-f9d73c995ba3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
 
 ---
 
-
 # 定義批次促銷活動的智慧型清單
 
 <br> 
 
-智慧型清單是整個行銷人員定義要納入的「誰」（哪些人）的機制，不論是報表、清單或智慧型促銷活動。 以下是如何定義批次促銷活動的智慧清單。
+智慧型清單是整個Marketo的機制，可定義要包含的「誰」（哪些人），不論是報表、清單或智慧型促銷活動。 以下是如何定義批次促銷活動的智慧清單。
 
 1. 選擇智慧型促銷活動，然後按一下&#x200B;**[!UICONTROL Smart List]**。
 
