@@ -1,14 +1,14 @@
 ---
 title: my-token-text
 description: 我的Token文字
+exl-id: 20ca2e50-4e98-4d54-bb98-c676a8e36693
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
-
 
 # 我的代號：文字
 
