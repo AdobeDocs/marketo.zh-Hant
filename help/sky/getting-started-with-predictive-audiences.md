@@ -1,14 +1,14 @@
 ---
 title: 預測式觀眾快速入門
 description: 預測性觀眾快速入門
+exl-id: 18dd4bd3-4557-4c53-ae44-9cf8abce9f53
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
-
 
 # 預測性觀眾快速入門
 
