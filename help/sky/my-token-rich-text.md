@@ -1,14 +1,14 @@
 ---
 title: my-token-rich-text
 description: 我的Token Rich Text
+exl-id: eaf26cd0-6774-4a13-b5c6-1e501fa8154a
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
 
 ---
-
 
 # 我的代號：Rich Text
 
