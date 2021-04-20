@@ -1,18 +1,18 @@
 ---
 title: add-a-flow-step-to-a-smart-campaign
 description: 新增流量步驟至智慧型促銷活動
+exl-id: 4f8fbe72-0471-41e1-9ef6-156a21fadb6e
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
-
 # 新增流量步驟至智慧型促銷活動
 
-流程步驟會告訴Market，您希望對符合資格的一群人發生什麼。
+流程步驟告訴Marketo，您希望對符合資格的一群人產生什麼影響。
 
 ## 新增流程步驟
 
