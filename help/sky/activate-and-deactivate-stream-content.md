@@ -1,14 +1,14 @@
 ---
 title: activate-and-deactivate-stream-content
 description: 啟用和停用串流內容
+exl-id: 5f8c52d6-ea10-42dd-a2e3-e25f88f35e3d
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
-
 
 # 啟用和停用串流內容
 
