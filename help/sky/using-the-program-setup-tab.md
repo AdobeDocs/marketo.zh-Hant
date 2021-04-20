@@ -1,14 +1,14 @@
 ---
 title: using-the-program-setup-tab
 description: 使用「程式設定」頁籤
+exl-id: fe3c092f-aeb1-4450-9827-b4b8f6163196
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
 
 ---
-
 
 # 使用「程式設定」頁籤
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->瞭解如何在Marketo Classic[中建立程式標籤，並在下拉式清單中提供這些標籤選項。](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values)
+>瞭解如何在Marketo Classic](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values)中建立程式標籤，並在下拉式清單中提供這些標籤選項。[
 
 ## 添加期間成本
 
