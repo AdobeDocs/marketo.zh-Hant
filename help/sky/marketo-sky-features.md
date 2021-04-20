@@ -1,14 +1,14 @@
 ---
 title: marketo-sky-features
 description: Marketo Sky功能
+exl-id: 6e210eab-a96d-4f1e-918b-db8c095f906c
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Sky功能
 
@@ -25,12 +25,12 @@ ht-degree: 0%
 
 ## 個人化
 
-* 我的行銷工具集
+* 我的MarketoWidget
    * 即將到期
    * 導覽
-   * 行銷人員狀態
+   * Marketo地位
    * 社群部落格文章
-* 我的行銷人員個人化檢視
+* 我的Marketo個人化觀點
 
 ## 行銷活動
 
@@ -76,4 +76,4 @@ ht-degree: 0%
    * 電子郵件範本詳細資訊
    * 著陸頁面範本詳細資訊
 * 匯入影像
-   * Design Studio中的Adobe Experience Manager Asset Selector
+   * Adobe Experience ManagerDesign Studio中的資產選擇器
