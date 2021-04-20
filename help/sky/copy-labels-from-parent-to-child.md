@@ -1,14 +1,14 @@
 ---
 title: copy-labels-from-parent-to-child
 description: 將標籤從父代複製到子代
+exl-id: dab0f694-f42b-484d-8428-8ea6d2a00d92
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
-
 
 # 將標籤從父代複製到子代
 
