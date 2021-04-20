@@ -1,14 +1,14 @@
 ---
 title: my-token-calendar-file
 description: 我的代號行事歷檔案
+exl-id: af3c1419-65ab-462d-be04-2193b76f3982
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # 我的代號：日曆檔案
 
