@@ -1,14 +1,14 @@
 ---
 title: edit-qualification-rules-in-a-smart-campaign
 description: 在智慧型促銷活動中編輯資格規則
+exl-id: a76c1fbb-9f12-40be-bf88-4c194231f5a8
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
-
 
 # 在智慧型促銷活動中編輯資格規則
 
