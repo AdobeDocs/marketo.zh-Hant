@@ -1,14 +1,14 @@
 ---
 title: cancel-a-scheduled-batch-campaign-run
 description: 取消已排程的批次促銷活動執行
+exl-id: 65ad123e-cc07-45f5-b9b7-d2ac1cd4155f
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
-
 
 # 取消已排程的批次促銷活動執行
 
