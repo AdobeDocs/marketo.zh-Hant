@@ -1,14 +1,14 @@
 ---
 title: 瞭解——參與——分數
 description: 瞭解參與分數
+exl-id: 0f57ae16-0fff-4c0a-b3fa-484ef6ad56f5
 translation-type: tm+mt
-source-git-commit: 96839c20e8d6adf2dc87ae050decc73ecb5052e7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
-
 
 # 瞭解參與分數
 
