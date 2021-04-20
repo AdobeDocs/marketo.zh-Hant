@@ -1,20 +1,20 @@
 ---
 title: priority-override-for-trigger-campaigns
 description: 觸發促銷活動的優先順序覆寫
+exl-id: 4468868c-33d7-4b5e-b524-bfcc2785c8ce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
 
 ---
 
-
 # 觸發促銷活動的優先順序覆寫
 
 <br> 
 
-管理員可以覆寫Marketo決定的促銷活動優先順序，以設定更符合業務目標的優先順序。
+管理員可以覆寫Marketo決定的優先順序，以觸發促銷活動，以設定更符合業務目標的優先順序。
 
 >[!NOTE]
 >
@@ -74,7 +74,7 @@ ht-degree: 0%
 
    ![影像8](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
-## 在Marketo Classic中檢視促銷活動優先順序
+## 在Marketo Classic檢視促銷活動優先順序
 
 按一下觸發促銷活動中的&#x200B;**[!UICONTROL Schedule]**&#x200B;標籤，即可在[!DNL Classic]體驗中檢視促銷活動優先順序。
 
@@ -82,4 +82,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[!DNL Classic]體驗的優先順序為僅檢視。 變更或重設促銷活動優先順序只能透過Marketo Sky使用。
+>[!DNL Classic]體驗的優先順序為僅檢視。 變更或重設促銷活動優先順序只能透過Marketo Sky。
