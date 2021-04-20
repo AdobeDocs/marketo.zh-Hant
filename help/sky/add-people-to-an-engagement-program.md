@@ -1,14 +1,14 @@
 ---
 title: 新增人員加入參與計畫
 description: 將人員加入參與計畫
+exl-id: 9de84f38-06b1-4e66-ac35-8573e84d0e4a
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
-
 
 # 將人員加入參與計畫
 
