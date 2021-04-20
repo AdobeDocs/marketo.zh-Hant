@@ -1,14 +1,14 @@
 ---
 title: 使用——項目——項目——項目——流
 description: 在參與計畫串流中使用計畫
+exl-id: b75c926d-d545-4557-970f-c893818d9566
 translation-type: tm+mt
-source-git-commit: 73df78512226c6c57625a73f14ba8b00bea195bd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
 
 ---
-
 
 # 在參與計畫串流中使用計畫
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 精心設計的巢狀程式包含電子郵件、報告和智慧型促銷活動。 把這些放在一起是有道理的。
 
-您使用的電子郵件可以在程式、不同的程式，甚至Design Studio中存放。 它住在哪裡取決於你想如何使用它。
+您使用的電子郵件可以在程式、不同的程式中，甚至在Design Studio中播放。 它住在哪裡取決於你想如何使用它。
 
 使用電子郵件位置報告變更。 例如，如果電子郵件位於Design Studio中，在「電子郵件效能報表」中，所有量度都會顯示在一行中——不同的轉送會合併。 不過，在「參與串流績效報表」中，會個別顯示不同的傳送。
 
