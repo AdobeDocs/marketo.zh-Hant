@@ -1,14 +1,14 @@
 ---
 title: create-an-email-program-in-program-schedule-view
 description: 在「計畫計畫」視圖中建立電子郵件程式
+exl-id: f3538412-8ece-411c-a1ac-6c082088190a
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
-
 
 # 在「計畫計畫」視圖中建立電子郵件程式
 
