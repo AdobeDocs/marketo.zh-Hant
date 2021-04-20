@@ -1,14 +1,14 @@
 ---
 title: 設定——事件——目標
 description: 如何設定事件目標
+exl-id: ab0a32ff-8bec-4309-890a-18a69d0902d6
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
-
 
 # 設定事件目標
 
