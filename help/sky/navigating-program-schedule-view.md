@@ -1,14 +1,14 @@
 ---
 title: navigating-program-schedule-view
 description: 導航程式計畫視圖
+exl-id: b921f460-c0f1-49f3-8a6a-6c4c66a0606f
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
-
 
 # 導航程式計畫視圖
 
