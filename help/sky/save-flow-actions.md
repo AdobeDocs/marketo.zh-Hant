@@ -1,20 +1,20 @@
 ---
 title: save-flow-actions
 description: 儲存流量動作
+exl-id: a359466a-2484-4538-a0d7-29d9a5606786
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
-
 # 儲存流量動作
 
 <br> 
 
-流程步驟會告訴Market，您希望對符合資格的群組人員（您在智慧清單中選擇的人員）發生什麼。 儲存特定流程可節省時間。
+流程步驟告訴Marketo，您希望對符合資格的一組人（您在智慧清單中選擇的人）發生什麼。 儲存特定流程可節省時間。
 
 ## 保存流動操作
 
