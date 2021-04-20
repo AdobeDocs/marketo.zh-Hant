@@ -1,14 +1,14 @@
 ---
 title: define-a-smart-list-for-a-trigger-campaign
 description: 定義觸發器促銷活動的智慧型清單
+exl-id: d5231df9-2b5b-40cc-b4f3-a43100abdc1e
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
-
 
 # 定義觸發器促銷活動的智慧型清單
 
