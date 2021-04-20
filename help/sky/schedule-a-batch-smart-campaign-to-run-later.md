@@ -1,14 +1,14 @@
 ---
 title: schedule-a-batch-smart-campaign-to-run-later
 description: 排程批次智慧型促銷活動以稍後執行
+exl-id: 66730a0b-a0d2-45e6-ad66-e99b03ee89d2
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
-
 
 # 排程批次智慧型促銷活動以稍後執行
 
