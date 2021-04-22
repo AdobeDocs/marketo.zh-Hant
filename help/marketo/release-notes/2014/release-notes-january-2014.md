@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951050
-description: 發行說明- 2014年1月——行銷檔案——產品檔案
+description: 發行說明- 2014年1月-Marketo文檔——產品文檔
 title: 發行說明- 2014年1月
+exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：2014年1月{#release-notes-january}
 
-2014年1月發行包含下列功能。 請檢查您的[Marketo Edition](https://www.marketo.com/pricing/)是否提供功能。
+2014年1月發行包含下列功能。 請檢查您的[Marketo版](https://www.marketo.com/pricing/)是否有功能可用。
 
 ## Forms2.0 {#forms}
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 **輕鬆將Forms內嵌在您自己的登陸頁面上：**
 
-從置入Marketo登陸頁面的表單中擷取html程式碼，並將其拖放至iFrame的日子已一去不復返。 只要擷取內嵌代碼，並將它放在您想要表單呈現的登陸頁面上即可。 兩種模式——一般和燈箱——讓您在網站上使用Marketo表格時有更大的彈性。
+從放置在Marketo登陸頁面上的表單中擷取html程式碼，並將其放入iFrame的日子已經一去不復返了。 只要擷取內嵌代碼，並將它放在您想要表單呈現的登陸頁面上即可。 兩種模式——一般和燈箱——讓您在網站上使用Marketo表單時有更大的彈性。
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
