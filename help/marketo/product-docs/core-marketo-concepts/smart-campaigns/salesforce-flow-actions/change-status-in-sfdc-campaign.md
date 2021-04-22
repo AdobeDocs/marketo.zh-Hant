@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147029
-description: SFDC促銷活動中的更改狀態——行銷文檔——產品文檔
+description: SFDC促銷活動中的更改狀態-Marketo文檔——產品文檔
 title: 更改SFDC促銷活動中的狀態
+exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
-
 
 # 更改SFDC促銷活動中的狀態{#change-status-in-sfdc-campaign}
 
