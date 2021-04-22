@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949270
-description: SEO —— 使用競爭者KW趨勢報表——行銷檔案——產品檔案
+description: SEO —— 使用競爭者KW趨勢報告-Marketo文檔——產品文檔
 title: SEO —— 使用競爭者KW趨勢報表
+exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # SEO —— 使用競爭者KW趨勢報表{#seo-use-the-competitor-kw-trends-report}
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 >
 >您可以將此報表匯出至您的案頭。
 
-1. 按一下「匯出CSV」或「匯出PDF」。********
+1. 按一下「匯出CSV **」或「Export PDF**」。****
 
    ![](assets/image2014-9-18-14-3a9-3a49.png)
 
