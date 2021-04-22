@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2952402
-description: 篩選人員活動記錄中的活動類型——行銷人員檔案——產品檔案
+description: 篩選人員活動記錄中的活動類型-Marketo文檔——產品文檔
 title: 篩選人員活動日誌中的活動類型
+exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
-
 
 # 篩選{#filter-activity-types-in-the-activity-log-of-a-person}人員活動記錄中的活動類型
 
