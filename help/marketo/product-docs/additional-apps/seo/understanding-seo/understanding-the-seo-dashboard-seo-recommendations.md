@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949180
-description: 瞭解SEO儀表板-SEO建議——行銷人員檔案——產品檔案
-title: 瞭解SEO控制面板-SEO建議
+description: 瞭解SEO儀表板-SEORecommendations-Marketo文檔——產品文檔
+title: 瞭解SEO儀表板-SEORecommendations
+exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
-
-# 瞭解SEO儀表板：SEO建議{#understanding-the-seo-dashboard-seo-recommendations}
+# 瞭解SEO儀表板：SEORecommendations{#understanding-the-seo-dashboard-seo-recommendations}
 
 使用控制面板，以高階檢視關鍵字排名的趨勢，以及您的網站針對SEO最佳化的程度。
 
-您也可以瞭解如何使用「建議」區段來改善。 我們快進去！
+您也可以瞭解如何使用Recommendations區來改進。 我們快進去！
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
