@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951103
-description: 發行說明- 2013年2月——行銷檔案——產品檔案
+description: 發行說明- 2013年2月-Marketo文檔——產品文檔
 title: 發行說明- 2013年2月
+exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
 
 ---
-
 
 # 發行說明：2013年2月{#release-notes-february}
 
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 ## Apple Safari的官方支援{#official-support-for-apple-safari}
 
-Mac和Windows版Apple Safari的最新版本完全受支援，可與Marketo Lead Management搭配使用。 注意：iOS上的Safari不完全相容。
+Mac和Windows版Apple Safari的最新版本完全受支援，可與Marketo銷售機會管理搭配使用。 注意：iOS上的Safari不完全相容。
 
 ## Webhook增強功能{#webhooks-enhancements}
 
-Webhook已增強，可逸出URL/裝載中的Token，也可透過剖析第三方系統的XML/JSON回應（Spark SMB Edition中不提供）來更新Market以引導欄位。
+Webhook已增強，可逸出URL/裝載中的Token，也可透過剖析第三方系統的XML/JSON回應來更新Marketo銷售機會欄位（Spark SMB Edition中不提供）。
 
 ## 更新的SOAP API端點{#updated-soap-api-endpoint}
 
 首選的SOAP API端點已更新，如Admin -> SOAP API中所示。 請更新您的呼叫，以使用此新端點。 對舊端點的API呼叫已過時，但將繼續運作。 （Spark SMB Edition中不提供SOAP API）
 
-## Facebook標籤的行動支援{#mobile-support-for-facebook-tabs}
+## 行動支援Facebook標籤{#mobile-support-for-facebook-tabs}
 
-從Marketo發佈的Facebook標籤會偵測行動裝置，並將其路由至登陸頁面。 如此可確保使用者在不支援Facebook標籤的行動裝置上取得正確的內容（可在Spark、Standard、Select SMB Editions和Marketing Social Marketing中取得）。
+從Marketo發佈的facebook標籤會偵測行動裝置，並將其路由至登陸頁面。 如此可確保使用者在不支援Facebook標籤的行動裝置上取得正確的內容(可在Spark、Standard、Select SMB Editions和Marketo社交行銷中取得)。
 
 ## 即將推出：支援多種型號{#coming-soon-support-for-multiple-models}
 
