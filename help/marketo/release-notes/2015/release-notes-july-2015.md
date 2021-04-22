@@ -1,21 +1,21 @@
 ---
 unique-page-id: 8783189
-description: 發行說明- 2015年7月——行銷檔案——產品檔案
+description: 發行說明- 2015年7月-Marketo文檔——產品文檔
 title: 發行說明- 2015年7月
+exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：2015年7月{#release-notes-july}
 
-## Marketo Moments {#marketo-moments}
+## Marketo時刻{#marketo-moments}
 
-午餐時外出，但需要重新安排電子郵件嗎？ Marketo Moments應用程式可從App Store或Google Play取得，讓您透過iPhone、iPad或Android手機即時檢視電子郵件和活動宣傳的效能，以及未來的效果。
+午餐時外出，但需要重新安排電子郵件嗎？ 「Marketo時刻」應用程式可從App Store或Google Play取得，讓您透過iPhone、iPad或Android手機即時檢視電子郵件和活動宣傳的效能，以及未來的效果。
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ## 公司API {#company-api}
 
-**透過REST API存取公司物件**:REST API現在提供Marketo Company(亦即帳戶)物件。這表示您可以讀取、更新和刪除您在Marketo中建立的公司物件，並使用更新的銷售機會API將銷售機會與此類公司建立關聯。
+**透過REST API存取公司物件**:REST API現在提供Marketo公司(亦即帳戶)物件。這表示您可以讀取、更新和刪除您在Marketo建立的公司物件，並使用更新的銷售線索API將銷售線索與此類公司建立關聯。
 
 在公司API的參考指南中瞭解[more](https://developers.marketo.com/documentation/company-api/)。
 
