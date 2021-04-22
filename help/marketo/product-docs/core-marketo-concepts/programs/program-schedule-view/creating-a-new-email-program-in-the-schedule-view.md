@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147144
-description: 在「排程檢視——行銷人員檔案——產品檔案」中建立新的電子郵件方案
+description: 在「排程檢視-Marketo檔案——產品檔案」中建立新的電子郵件方案
 title: 在「計畫」視圖中建立新電子郵件程式
+exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
-
 
 # 在計畫視圖{#creating-a-new-email-program-in-the-schedule-view}中建立新電子郵件程式
 
