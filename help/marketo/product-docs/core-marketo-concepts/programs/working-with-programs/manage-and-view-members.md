@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147122
-description: 管理和檢視會員——行銷檔案——產品檔案
+description: 管理和查看成員-Marketo文檔——產品文檔
 title: 管理和查看成員
+exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
 
 ---
-
 
 # 管理和查看成員{#manage-and-view-members}
 
