@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095453
-description: 編輯和刪除行銷人員自訂物件欄位——行銷人員檔案——產品檔案
-title: 編輯和刪除Marketo自訂物件欄位
+description: 編輯和刪除Marketo定制對象欄位-Marketo文檔——產品文檔
+title: 編輯和刪除Marketo自定義對象欄位
+exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-
-# 編輯和刪除行銷人員自訂物件欄位{#edit-and-delete-marketo-custom-object-fields}
+# 編輯和刪除Marketo自定義對象欄位{#edit-and-delete-marketo-custom-object-fields}
 
 ## 編輯欄位{#edit-a-field}
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[新增行銷至自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+   >[新增Marketo自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
