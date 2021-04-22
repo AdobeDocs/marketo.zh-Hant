@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10094188
-description: 核准自訂物件——行銷人員檔案——產品檔案
+description: 批准自訂物件-Marketo檔案——產品檔案
 title: 批准自訂物件
+exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
 
 ---
-
 
 # 批准自訂物件{#approve-a-custom-object}
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >用作&#x200B;_中間對象_&#x200B;的自定義對象需要連結欄位、連結對象名稱和連結欄位名稱，但&#x200B;**不需要重複資料消除欄位。**
    >
-   >如需詳細資訊，請參閱[瞭解行銷商自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)。
+   >如需詳細資訊，請參閱[瞭解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)。
 
 就這樣！ 現在，您可以在篩選條件和觸發條件的限制中選取自訂物件，以便用於促銷活動。
 
