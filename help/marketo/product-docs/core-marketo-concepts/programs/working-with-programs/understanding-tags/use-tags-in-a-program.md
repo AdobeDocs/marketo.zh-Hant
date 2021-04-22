@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147150
-description: 在計畫中使用標籤——行銷檔案——產品檔案
+description: 在計畫中使用標籤-Marketo文檔——產品文檔
 title: 在程式中使用標籤
+exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # 在程式{#use-tags-in-a-program}中使用標籤
 
