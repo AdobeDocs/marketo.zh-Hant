@@ -1,18 +1,18 @@
 ---
-description: 設定Microsoft Dynamics CRM應用程式以進行上市——行銷檔案——產品檔案
+description: 設定Microsoft Dynamics CRM應用程式以進行預備-Marketo檔案——產品檔案
 title: 設定Microsoft Dynamics CRM應用程式以進行預備
+exl-id: 50d41d0a-0c3b-43b8-8117-d91903e74699
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-
 # 針對On-prem {#set-up-microsoft-dynamics-crm-app-for-on-prem}設定Microsoft Dynamics CRM應用程式
 
-Marketo中的用戶端ID/用戶端密碼設定可針對AD FS的隨選進行。 2016年或更新版本)。 若是舊版的On-prem，請聯絡[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)，以取得僅依據使用者ID和密碼而變更的驗證方法。
+在Marketo，客戶ID/客戶機密碼的設定可針對AD FS(ver)進行預備。 2016年或更新版本)。 若是舊版On-prem，請聯絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)，以取得僅依據使用者ID和密碼而變更的驗證方法。
 
 ## 設定Microsoft Dynamics CRM應用程式{#set-up-microsoft-dynamics-crm-app}
 
@@ -20,11 +20,11 @@ Marketo中的用戶端ID/用戶端密碼設定可針對AD FS的隨選進行。 2
 
 完成後，下一步是&#x200B;**將Dynamics CRM產生的用戶端Id和密碼輸入Marketo**。
 
-## 在Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}中輸入Dynamics CRM產生的用戶端Id和密碼
+## 將Dynamics CRM產生的用戶端Id和密碼輸入Marketo{#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
 
 下列步驟適用於線上和上一版。
 
-1. 在Marketo中，按一下&#x200B;**管理**。
+1. 在Marketo，按一下&#x200B;**管理**。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-on-prem-1.png)
 
