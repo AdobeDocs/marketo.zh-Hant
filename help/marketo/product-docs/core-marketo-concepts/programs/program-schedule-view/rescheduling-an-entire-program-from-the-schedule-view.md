@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147138
-description: 從「計畫視圖——行銷人員文檔——產品文檔」重新計畫整個計畫
+description: 從「計畫視圖-Marketo文檔——產品文檔」重新計畫整個計畫
 title: 從計畫視圖重新計畫整個程式
+exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # 從計畫視圖{#rescheduling-an-entire-program-from-the-schedule-view}重新計畫整個程式
 
