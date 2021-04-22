@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147093
-description: 瞭解計畫中的本地資產——行銷文檔——產品文檔
+description: 瞭解計畫中的本地資產-Marketo文檔——產品文檔
 title: 瞭解方案中的本地資產
+exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # 瞭解程式中的本地資產{#understanding-local-assets-in-a-program}
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 * [電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 * [推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
 * [著陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-* [表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
+* [Forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 * [測試群組](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
 * [社交按鈕](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
 * [Youtube影片](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md)
-* [民調問答](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
-* [轉介選件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-* [抽獎活動](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
+* [投票](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
+* [推薦人特賣優惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+* [抽獎](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
 * [瀏覽SMS訊息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
