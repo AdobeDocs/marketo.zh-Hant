@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720253
-description: 發行說明- 2014年12月——行銷檔案——產品檔案
+description: 發行說明- 2014年12月-Marketo文檔——產品文檔
 title: 發行說明- 2014年12月
+exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：2014年12月{#release-notes-december}
 
-2014年12月發行包含下列功能。 請檢查您的Marketo Edition是否提供功能。 在發行後，請務必回來尋找每個功能的詳細文章連結！
+2014年12月發行包含下列功能。 請查看您的Marketo版以瞭解功能的可用性。 在發行後，請務必回來尋找每個功能的詳細文章連結！
 
 ## 銷售分析報表{#sales-insight-reports}
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## Facebook自訂對象{#facebook-custom-audiences}
+## Facebook自訂觀眾{#facebook-custom-audiences}
 
-一旦您的行銷人員透過「管理員」>「Launchpoint」](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)新增[Facebook後，您就可以輕鬆建立、更新或[以來自行銷人員的潛在客戶取代Facebook自訂對象，並設定靜態或智慧清單](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任何靜態或智慧型清單的銷售線索格線底部尋找新的Facebook圖示。
+一旦您的Marketo管理員透過管理員> Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)新增[Facebook後，您就可以輕鬆建立、更新或以Marketo靜態或智慧型清單](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)中的潛在客戶取代Facebook自訂對象。 [在任何靜態或智慧型清單的導引格線底部尋找新的Facebook圖示。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
