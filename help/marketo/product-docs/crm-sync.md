@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953432
-description: CRM同步——行銷檔案——產品檔案
+description: CRM同步-Marketo文檔——產品文檔
 title: CRM同步
 translation-type: tm+mt
 source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
