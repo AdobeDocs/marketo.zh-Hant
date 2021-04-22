@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571822
-description: 第1步（共3步）-安裝Marketo解決方案（線上）- Marketo Docs —— 產品檔案
+description: 第1步（共3步）-安裝Marketo解決方案（線上）-Marketo文檔——產品文檔
 title: 第1步（共3步）-安裝Marketo解決方案（線上）
+exl-id: 593fc014-db38-42cc-8f9f-0dd8307751e8
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 0%
 
 ---
-
 
 # 步驟1（共3步）:安裝Marketo解決方案（線上）{#step-of-install-the-marketo-solution-online}
 
@@ -18,16 +18,16 @@ ht-degree: 0%
 >[!CAUTION]
 >
 >* 在初始同步完成之前，請勿啟用自訂實體同步。 初始同步完成後，您會收到電子郵件通知。
->* 如果您的Dynamics Sync已啟用多因素驗證(MFA)，則必須停用它，Dynamics才能與Marketo正確同步。 如需詳細資訊，請聯絡[行銷支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
+>* 如果您的Dynamics同步已啟用多因素驗證(MFA)，則必須停用它，Dynamics才能與Marketo正確同步。 如需詳細資訊，請聯絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 
 >[!NOTE]
 >
->將Market與CRM同步後，若不取代例項，就無法執行新同步。
+>將Marketo同步至CRM後，您無法在沒有取代例項的情況下執行新同步。
 
 >[!PREREQUISITES]
 >
->[下載Marketo Lead管理解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[下載Marketo銷售線索管理解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
 1. 登入&#x200B;**[Microsoft Office 365](https://login.microsoftonline.com/)**。
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. 按一下&#x200B;**選擇檔案。** 選擇您下載的Marketo Lead Management解決 [方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。按一下&#x200B;**Next**。
+1. 按一下&#x200B;**選擇檔案。** 選擇您下載的Marketo銷售線索管理解 [決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。按一下&#x200B;**Next**。
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -77,15 +77,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可能會看到一則訊息，指出「Marketo Lead Management已完成，但有警告」。 這完全是意料之中的。
+   >您可能會看到一則訊息，指出「Marketo銷售線索管理已完成並發出警告」。 這完全是意料之中的。
 
    ![](assets/image2015-3-13-9-3a54-3a39.png)
 
-1. Marketo Lead Management現在會顯示在解決方案清單中。
+1. Marketo領導管理公司現在會出現在解決方案清單中。
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. 選擇&#x200B;**Marketo Lead Management**，然後按一下&#x200B;**Publish All Customizations.**
+1. 選擇&#x200B;**Marketo銷售線索管理**&#x200B;並按一下&#x200B;**發佈所有定制。**
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
@@ -93,4 +93,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[步驟2（共3步）:在Dynamics中設定Marketto同步使用者](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+   >[步驟2（共3步）:在Dynamics中設定Marketo同步使用者](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
