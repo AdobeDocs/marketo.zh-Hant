@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146948
-description: 傳送電子郵件——行銷人員檔案——產品檔案
+description: 傳送電子郵件-Marketo檔案——產品檔案
 title: 傳送電子郵件
+exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # 傳送電子郵件{#send-email}
 
