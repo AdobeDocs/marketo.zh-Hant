@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2952636
-description: 使用自訂邏輯尋找重複人員——行銷檔案——產品檔案
+description: 使用自訂邏輯尋找重複人員-Marketo檔案——產品檔案
 title: 使用自訂邏輯尋找重複人員
+exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
 # 尋找具有自訂邏輯{#find-duplicate-people-with-custom-logic}的重複人員
 
-Marketo有系統智慧清單，可比對其電子郵件地址以找出重複的人。 如果您想使用其他欄位來尋找重複項目，請參閱以下說明。
+Marketo有一個系統智慧清單，通過匹配其電子郵件地址來查找重複的人。 如果您想使用其他欄位來尋找重複項目，請參閱以下說明。
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ Marketo有系統智慧清單，可比對其電子郵件地址以找出重複的�
 1. 從四個可用選項中選擇一個：
 
    * 電子郵件地址
-   * 完整名稱
+   * 全名
    * 姓氏
    * 更新日期：
 
@@ -44,4 +44,4 @@ Marketo有系統智慧清單，可比對其電子郵件地址以找出重複的�
 
    ![](assets/four-2.png)
 
-   完成！ 執行智慧型清單，在先前選取的欄位中尋找具有相同值的人。
+   完成! 執行智慧型清單，在先前選取的欄位中尋找具有相同值的人。
