@@ -1,14 +1,14 @@
 ---
-description: Salesforce同步錯誤——行銷人員檔案——產品檔案
+description: Salesforce同步錯誤-Marketo文檔——產品文檔
 title: Salesforce同步錯誤
+exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
-
 
 # Salesforce同步錯誤{#salesforce-sync-errors}
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->按一下記錄層級記錄會顯示相關物件的Marketo和Salesforce ID。 在某些情況下，記錄和工作層級錯誤上的訊息會直接來自Salesforce。 線上搜尋可能會提供其他詳細資訊。
+>按一下記錄層級記錄，會顯示相關物件的Marketo和Salesforce ID。 在某些情況下，記錄和工作層級錯誤上的訊息會直接來自Salesforce。 線上搜尋可能會提供其他詳細資訊。
 
 ## 篩選同步錯誤{#filter-sync-errors}
 
