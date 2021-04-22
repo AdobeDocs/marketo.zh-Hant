@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10100269
-description: 編輯自訂活動——行銷檔案——產品檔案
+description: 編輯自訂活動-Marketo文檔——產品文檔
 title: 編輯自訂活動
+exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
-
 
 # 編輯自訂活動{#edit-a-custom-activity}
 
