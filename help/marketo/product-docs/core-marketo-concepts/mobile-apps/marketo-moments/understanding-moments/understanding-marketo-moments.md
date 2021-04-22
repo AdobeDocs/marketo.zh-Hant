@@ -1,24 +1,24 @@
 ---
 unique-page-id: 8781845
-description: 瞭解行銷人員時刻——行銷人員檔案——產品檔案
-title: 瞭解行銷人員時刻
+description: 瞭解Marketo時刻-Marketo文檔——產品文檔
+title: 瞭解Marketo時刻
+exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
 
 ---
 
+# 瞭解Marketo時刻{#understanding-marketo-moments}
 
-# 瞭解行銷時刻{#understanding-marketo-moments}
-
-Marketo的力量現在掌握在您手中！ 直接從您的手機或iPad預覽並重新排程電子郵件。
+Marketo的力量現在掌握在你手中！ 直接從您的手機或iPad預覽並重新排程電子郵件。
 
 >[!AVAILABILITY]
 >
 >
->必須擁有「存取行動應用程式」權限。 請連絡您的行銷人員管理員以[更新您的角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)。
+>必須擁有「存取行動應用程式」權限。 請連絡您的Marketo管理員以[更新您的角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)。
 
 ## 串流{#streams}
 
@@ -36,11 +36,11 @@ Marketo的力量現在掌握在您手中！ 直接從您的手機或iPad預覽�
 >* 完成：任何已完成執行或您標示為完成的項目，都會在這裡進行。
 
 
-好，既然我們已經解決了這個問題，讓我們在手機上一窺行銷人員時刻！
+好了，既然我們已經有辦法了，讓我們在電話上一窺Marketo時刻！
 
 ## 三種卡{#three-kinds-of-cards}
 
-Marketo Monts會提供3張不同的卡片，以追蹤您電子郵件的進度：
+Marketo時刻會提供三張不同的卡片，以追蹤您電子郵件的進度：
 
 **On-Deck** -這封電子郵件即將推出。這是您預覽、傳送範例，甚至視需要取消範例的最後機會。
 
@@ -81,7 +81,7 @@ Marketo Monts會提供3張不同的卡片，以追蹤您電子郵件的進度：
 >**定義**
 >
 >* 我的最愛：如果您讓客戶最愛，就可輕鬆地關注最及時、最重要的內容。
->* 完成：Done讓它從您的Marketo Moments檢視中移除（但會保留在Marketo中，安全無虞）。
+>* 完成：Done讓您從Marketo時刻(Monts)的檢視中獲得它(但讓它保留在Marketo，安全無虞)。
 >* 分享：傳送影像以激勵或祝賀您的團隊。
 >* 傳送範例（僅限電子郵件）:在您寄出電子郵件之前，請讓其他人查看您的電子郵件外觀。
 >* 預覽電子郵件（僅限電子郵件）:提前查看您的電子郵件總是個好主意。
@@ -139,7 +139,7 @@ Analytics時刻卡片可顯示過去6個月電子郵件和事件的月繳型績�
 
 ## 支援的版本{#supported-versions}
 
-Marketo Monts支援下列作業系統版本：
+Marketo時刻支援以下作業系統版本：
 
 * Apple iOS 8.0和更新版本。
 * Android 4.1版及更新版本（基本上是Jellybean和更新版本）。
