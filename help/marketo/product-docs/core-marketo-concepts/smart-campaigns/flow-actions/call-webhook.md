@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147023
-description: 致電Webhook —— 行銷人員檔案——產品檔案
+description: 致電Webhook -Marketo文檔——產品文檔
 title: 呼叫Webhook
+exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
-
 
 # 呼叫Webhook {#call-webhook}
 
