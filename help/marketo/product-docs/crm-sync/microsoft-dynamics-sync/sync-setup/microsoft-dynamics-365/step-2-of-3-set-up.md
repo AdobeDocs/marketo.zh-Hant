@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571827
-description: 第2步（共3步）-在Dynamics中設定Marketo Sync User - Marketo Docs —— 產品檔案
-title: 步驟2（共3步）-在Dynamics中設定Marketo同步使用者
+description: 第2步（共3步）-在Dynamics中設定Marketo同步用戶-Marketo文檔——產品文檔
+title: 第2步（共3步）-在Dynamics中設定Marketo同步用戶
+exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 0%
 
 ---
 
-
-# 步驟2（共3步）:在Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}中設定Marketo同步使用者
+# 步驟2（共3步）:在Dynamics中設定Marketo同步用戶{#step-of-set-up-marketo-sync-user-in-dynamics}
 
 讓我們先建立使用者帳戶。
 
@@ -63,17 +63,17 @@ ht-degree: 0%
 
 ## 分配同步用戶角色{#assign-sync-user-role}
 
-將「Marketo同步使用者」角色僅指派給「Marketto同步使用者」。 您不需要將它指派給任何其他使用者。
+將「Marketo同步用戶」角色僅分配給Marketo同步用戶。 您不需要將它指派給任何其他使用者。
 
 >[!NOTE]
 >
->這適用於Marketo 4.0.0.14版及更新版本。 對於舊版，所有使用者都必須具有同步使用者角色。 若要升級Marketo，請參閱[Upgrade Marketo Solution for Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)。
+>這適用於Marketo4.0.0.14版及更新版本。 對於舊版，所有使用者都必須具有同步使用者角色。 要升級Marketo，請參閱[升級MarketoMicrosoft Dynamics解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)。
 
 1. 返回「啟用的用戶」頁籤並刷新用戶清單。
 
    ![](assets/ten.png)
 
-1. 將滑鼠指標暫留在新建立的Marketo Sync使用者旁，就會出現核取方塊。 按一下以選取它。
+1. 將滑鼠指標暫留在新建立的「Marketo同步」使用者旁，就會出現核取方塊。 按一下以選取它。
 
    ![](assets/eleven.png)
 
@@ -81,31 +81,31 @@ ht-degree: 0%
 
    ![](assets/twelve.png)
 
-1. 勾選「**Marketo Sync User**」，然後按一下「確定&#x200B;**OK**」。
+1. 選中&#x200B;**Marketo同步用戶** ，然後按一下&#x200B;**確定**。
 
    ![](assets/thirteen.png)
 
    >[!NOTE]
    >
-   >同步使用者在您的CRM中進行的任何更新，都會將&#x200B;**not**&#x200B;同步回行銷人員。
+   >同步使用者在您的CRM中進行的任何更新，都會將&#x200B;**not**&#x200B;同步回Marketo。
 
-## 設定Marketo解決方案{#configure-marketo-solution}
+## 配置Marketo解決方案{#configure-marketo-solution}
 
-快到了！ 我們只剩下通知Marketo Solution有關新使用者建立的資訊。
+快到了！ 我們只剩下了將新使用者建立資訊告知Marketo解決方案。
 
-1. 返回「進階設定」區段，然後按一下「設定」旁的![](assets/image2015-5-13-15-3a49-3a19.png)圖示，然後選取「行銷人員設定」**。**
+1. 返回「Advanced Settings（高級設定）」部分，然後按一下「Settings（設定）」旁的![](assets/image2015-5-13-15-3a49-3a19.png)表徵圖，然後選擇「**Marketo配置」。**
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >如果您在「設定」功能表中未看到「行銷人員設定」，請重新整理頁面。 ****&#x200B;如果無法運作，請嘗試再次[發佈Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)，或登出並重新登入。
+   >如果您在「設定」功能表中未看到「Marketo組態&#x200B;**」，請重新整理頁面。**&#x200B;如果無法運作，請嘗試再次[發佈Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)，或登出並重新登入。
 
 1. 按一下&#x200B;**Default**。
 
    ![](assets/fifteen.png)
 
-1. 按一下&#x200B;**Marketo User**&#x200B;欄位上的搜尋按鈕，並選取您建立的同步使用者。
+1. 按一下&#x200B;**Marketo用戶**&#x200B;欄位上的搜索按鈕，然後選擇您建立的同步用戶。
 
    ![](assets/sixteen.png)
 
@@ -129,8 +129,8 @@ ht-degree: 0%
 
     *如果您想要限制同步的記錄數，請立即[設定自訂同步篩選](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)。
     *執行[驗證Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)程式。它會驗證您的初始設定是否正確完成。
-    *在Microsoft Dynamics CRM中登入Marketo同步使用者。
+    *在Microsoft Dynamics CRM中登入「Marketo同步使用者」。
 
 >[!MORELIKETHIS]
 >
->[步驟3（共3步）:將Microsoft Dynamics與Marketo連結（線上）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+>[步驟3（共3步）:將Microsoft Dynamics與Marketo（線上）連接](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
