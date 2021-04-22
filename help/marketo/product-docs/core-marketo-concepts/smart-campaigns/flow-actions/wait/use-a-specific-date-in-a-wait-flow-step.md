@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146976
-description: 在等待流程步驟——行銷人員檔案——產品檔案中使用特定日期
+description: 在等待流程步驟中使用特定日期-Marketo文檔——產品文檔
 title: 在等待流程步驟中使用特定日期
+exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # 在等待流程步驟{#use-a-specific-date-in-a-wait-flow-step}中使用特定日期
 
