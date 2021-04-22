@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557322
-description: 從智慧型清單——行銷人員檔案——產品檔案執行單一流程步驟
+description: 從智慧型清單執行單一流程步驟-Marketo檔案——產品檔案
 title: 從智慧型清單執行單一流程步驟
+exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
 
 ---
-
 
 # 從智慧清單{#run-a-single-flow-step-from-a-smart-list}運行單流步驟
 
