@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951056
-description: 發行說明- 2013年9月——行銷檔案——產品檔案
+description: 發行說明- 2013年9月-Marketo文檔——產品文檔
 title: 發行說明- 2013年9月
+exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 0%
 
 ---
-
 
 # 發行說明：2013年9月{#release-notes-september}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >當我們切換至「簡短URL」時，在9月發行前寄出的電子郵件連結，將在此發行後90天到期。
 
-使用Marketing的資料自訂物件，或使用Velocity範本語言將條件式邏輯新增至電子郵件內容。
+使用Marketo自訂物件的資料，或使用Velocity範本語言將條件式邏輯新增至電子郵件內容。
 
 ![](assets/image2014-9-22-17-3a10-3a56.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## GoTo網路研討會的其他欄位同步{#additional-field-sync-for-gotowebinar}
 
-您可以將公司名稱和職稱從行銷表單同步到GoTo網路研討會。 若要啟用這些其他欄位，請前往「活動合作夥伴」並勾選「啟用其他欄位」。
+您可以將公司名稱和職稱從您的Marketo表單同步到GoToWebinar。 若要啟用這些其他欄位，請前往「活動合作夥伴」並勾選「啟用其他欄位」。
 
 ![](assets/image2014-9-22-17-3a11-3a53.png)
 
@@ -59,9 +59,9 @@ ht-degree: 0%
 
 ## 方案歸因設定{#program-attribution-settings}
 
-您可以變更行銷人員將首次接觸和多次接觸歸因度量的聯絡方式與機會聯繫起來，包括進行帳戶型歸因的能力。 這些設定將影響Program Opportunity Analysis區域和Opportunity Analysis區域下的Revenue Explorer報告中的歸因度量。 這也會影響Program Analyzer中的歸因度量。
+您可以變更Marketo系結首次接觸和多觸點歸因度量的聯絡方式和機會，包括進行帳戶型歸因的能力。 這些設定將影響Program Opportunity Analysis區域和Opportunity Analysis區域下的Revenue Explorer報告中的歸因度量。 這也會影響Program Analyzer中的歸因度量。
 
-您可以將計劃歸因設定變更為三種選擇之一。 變更此設定並不會修改任何Marketto或CRM資料；它只會變更報表的執行方式，而且可隨時加以還原。
+您可以將計劃歸因設定變更為三種選擇之一。 更改此設定不會修改任何Marketo或CRM資料；它只會變更報表的執行方式，而且可隨時加以還原。
 
 「顯式」設定將僅檢查具有角色的聯繫人（當前行為）。 隱含將檢查與帳戶關聯的所有聯繫人，無論角色為何。 我們強烈建議盡可能使用顯式模式。 使用隱性可能會產生誤報，即使對機會沒有真正影響，但對機會有評價的人。
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ## 法文版和德文版的Sales Insight（僅限Salesforce）{#sales-insight-available-in-french-and-german-salesforce-only}
 
-從AppExchange下載最新版的Marketo Lead Management和Marketo Sales Insight，讓您的法國和德國銷售人員以偏好的語言查看Sales Insight內容。
+從AppExchange下載最新版的Marketo銷售線索管理和Marketo銷售分析，讓您的法文和德文銷售人員可以使用他們偏好的語言查看銷售分析內容。
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 
