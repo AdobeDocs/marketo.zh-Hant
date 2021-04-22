@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147148
-description: 刪除計畫——行銷人員檔案——產品檔案
+description: 刪除計畫-Marketo文檔——產品文檔
 title: 刪除程式
+exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # 刪除程式{#delete-a-program}
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ![](assets/2017-05-05-15-04-15.png)
 
-完成。 就像這個程式從未存在過。
+完成. 就像這個程式從未存在過。
 
 ## 我為何無法刪除我的程式？{#why-cant-i-delete-my-program}
 
