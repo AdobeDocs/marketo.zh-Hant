@@ -1,14 +1,14 @@
 ---
-description: 促銷活動同步概觀——行銷人員檔案——產品檔案
+description: 促銷活動同步概觀-Marketo檔案——產品檔案
 title: 促銷活動同步概觀
+exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 translation-type: tm+mt
-source-git-commit: c68fe240d9447f9c217dcb258f0dae63c17d37f9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
-
 
 # 促銷活動同步概觀{#campaign-sync-overview}
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->更新至Marketo的Dynamics外掛程式最新版本。
+>更新至最新版的MarketoDynamics外掛程式。
 
 可使用以下流動操作：
 
@@ -25,14 +25,14 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**從Microsoft** Campaign移除只會移除使用Marketo中的流動動作新增的人員。
+>**從Microsoft** Campaign移除只會移除使用Marketo的流量動作新增的人員。
 
 還有兩個觸發因素：
 
 * 已新增至Microsoft Campaign
 * 從Microsoft Campaign移除
 
-觸發程式會根據Marketo Flow動作「新增至Microsoft促銷活動」和「從Microsoft促銷活動移除」執行。
+觸發程式將根據來自「新增至Microsoft促銷活動」和「從Microsoft促銷活動移除」的「Marketo流程動作」執行。
 
 >[!NOTE]
 >
