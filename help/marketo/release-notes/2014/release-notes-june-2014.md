@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2951042
-description: 發行說明- 2014年6月——行銷檔案——產品檔案
+description: 發行說明- 2014年6月-Marketo文檔——產品文檔
 title: 發行說明- 2014年6月
+exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：2014年6月{#release-notes-june}
 
-2014年6月發行包含下列功能。 請檢查您的Marketo Edition是否提供功能。
+2014年6月發行包含下列功能。 請查看您的Marketo版以瞭解功能的可用性。
 
 ## 更新的UI —— 即將推出！{#updated-ui-coming-soon}
 
-新的外觀和感覺，包括Marketo Lead Management的導覽功能即將推出！
+新的外觀和感覺，包括Marketo銷售線索管理的導覽即將推出！
 
 ## Sales Insight plugin for Outlook 2013 {#sales-insight-plugin-for-outlook}
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
 ## 銷售線索ReST API {#lead-rest-api}
 
-透過我們新的ReST API，以程式設計方式建立、閱讀和更新客源。 若要開始使用ReST，您必須[在Marketo中建立自訂服務](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)。 然後前往[開發人員網站](https://developers.marketo.com/documentation/rest/)，以取得使用此API的詳細資訊。
+透過我們新的ReST API，以程式設計方式建立、閱讀和更新客源。 要開始使用ReST，您需要[在Marketo建立自定義服務](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)。 然後前往[開發人員網站](https://developers.marketo.com/documentation/rest/)，以取得使用此API的詳細資訊。
 
-## Marketo Real-Time Personalization(RTP)Campaigns Page Update {#marketo-real-time-personalization-rtp-campaigns-page-update}
+## Marketo即時個人化(RTP)促銷活動頁面更新{#marketo-real-time-personalization-rtp-campaigns-page-update}
 
 RTP促銷活動現在包含新的設計，提供縮圖檢視和促銷活動效能。 此外，您還可以根據日期或最佳效能，組織您的促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md)。[
 
