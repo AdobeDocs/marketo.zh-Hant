@@ -1,15 +1,15 @@
 ---
 unique-page-id: 13795802
-description: 關閉銷售線索擁有者電子郵件通知——行銷人員檔案——產品檔案
+description: 關閉電子郵件通知給潛在客戶擁有者-Marketo文檔——產品文檔
 title: 關閉電子郵件通知給潛在客戶擁有者
+exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
-
 
 # 關閉電子郵件通知給銷售線索擁有者{#turn-off-email-notifications-to-lead-owner}
 
