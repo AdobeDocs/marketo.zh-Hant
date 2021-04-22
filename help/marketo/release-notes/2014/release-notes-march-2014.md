@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951046
-description: 發行說明- 2014年3月——行銷檔案——產品檔案
+description: 發行說明- 2014年3月-Marketo文檔——產品文檔
 title: 發行說明- 2014年3月
+exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：2014年3月{#release-notes-march}
 
-2014年3月發行包含下列功能。 請檢查您的Marketo Edition是否提供功能。 在發行後，請務必返回，尋找每個功能的知識庫文章連結。
+2014年3月發行包含下列功能。 請查看您的Marketo版以瞭解功能的可用性。 在發行後，請務必返回，尋找每個功能的知識庫文章連結。
 
 ## 電子郵件程式控制面板刷新按鈕{#email-program-dashboard-refresh-button}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 銷售機會轉換的混合和隱式選項{#hybrid-and-implicit-options-for-lead-conversion}
 
-您可以變更Marketing的方式，在Lead Analysis中連結Lead轉換量度的連絡人和機會。 您可以將[歸因設定](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md)變更為三種選擇之一。 變更此設定並不會修改任何Marketto或CRM資料；它只會變更報表的執行方式，而且可隨時加以還原。
+您可以在Lead Analysis中變更Marketo系結銷售機會轉換量度的聯絡方式和商機。 您可以將[歸因設定](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md)變更為三種選擇之一。 更改此設定不會修改任何Marketo或CRM資料；它只會變更報表的執行方式，而且可隨時加以還原。
 
 「顯式」設定將只將業務機會中具有角色的聯繫人視為已轉換的銷售線索（預設行為）。 隱式將將業務機會中與帳戶關聯的所有聯繫人視為已轉換的聯繫人，無論角色如何。 Hybrid會將具有角色的聯繫人視為已轉換的角色（如果可用）;如果沒有，我們會將帳戶中的所有聯繫人視為已轉換。
 
@@ -51,12 +51,12 @@ ht-degree: 0%
 
 ## 其他使用者語言{#additional-user-language}
 
-選擇[行銷應用程式語言](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)。 以您偏好的語言檢視Marketo Lead Management介面——現在支援日文。
+選擇[Marketo應用程式語言](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)。 以您慣用的語言檢視「Marketo銷售機會管理」介面，現在支援日文。
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 
 ## Marketo開發人員部落格{#marketo-developer-blog}
 
-[Marketo Developer部落格](https://developers.marketo.com/blog/)專屬於支援現代行銷人員快速變遷需求的網頁開發人員和軟體工程師。 您可以訂閱有關新整合選項、API版本更新和一系列新操作說明文章的公告，這些文章包含與Marketo平台整合的程式碼範例和最佳實務。
+[Marketo開發人員部落格](https://developers.marketo.com/blog/)專屬於支援現代行銷人員快速變遷需求的網頁開發人員和軟體工程師。 您可以訂閱有關新整合選項、API版本更新和一系列新操作說明文章的公告，其中包含與Marketo平台整合的程式碼範例和最佳實務。
 
-本系列中的[第一篇文章](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/)將引導您瞭解如何有效擷取儲存在Market中使用API的人員（客戶／連絡人／潛在客戶）的資訊。
+本系列的[第一篇文章](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/)將引導您瞭解如何使用API有效擷取儲存在Marketo的人員（客戶／聯絡人／潛在客戶）的資訊。
