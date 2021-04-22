@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2950212
-description: 發行說明- 2014年8月——行銷檔案——產品檔案
+description: 發行說明- 2014年8月-Marketo文檔——產品文檔
 title: 發行說明- 2014年8月
+exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：2014年8月{#release-notes-august}
 
-2014年8月發行包含下列功能。 檢查您的Marketo版本，以取得功能。 在發行後回來，取得詳細功能檔案的連結。
+2014年8月發行包含下列功能。 查看您的Marketo版功能是否可用。 在發行後回來，取得詳細功能檔案的連結。
 
 ## 行銷行事歷授權{#marketing-calendar-licenses}
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 從管理員{#export-users-and-roles-from-admin}匯出使用者和角色
 
-您現在可以從Marketo匯出[使用者和角色清單](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)。 您也可以包含「上次登入」時間戳記，以便隨匯出一起使用。
+您現在可以從Marketo匯出「使用者和角色清單」。 [](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)您也可以包含「上次登入」時間戳記，以便隨匯出一起使用。
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
