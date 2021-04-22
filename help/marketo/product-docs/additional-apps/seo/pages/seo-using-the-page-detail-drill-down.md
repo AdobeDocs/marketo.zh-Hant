@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949186
-description: SEO —— 使用頁面詳細資料下鑽——行銷人員檔案——產品檔案
+description: SEO —— 使用頁面詳細資料下鑽-Marketo文檔——產品文檔
 title: SEO —— 使用頁面詳細資料下鑽
+exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
 
 ---
-
 
 # SEO —— 使用頁面詳細資訊向下鑽取{#seo-using-the-page-detail-drill-down}
 
@@ -40,9 +40,9 @@ ht-degree: 0%
 | 入站連結總數 | 網站的傳入連結總數。 |
 | 傳入連結（唯一網域） | 至少有一個傳入網站連結的其他網站數目。 |
 | 對外連結 | 從此特定頁面前往其他網站的連結數。 |
-| Facebook分享 | 此頁面在Facebook上共用的次數。 |
-| Facebook按贊次數 | 此頁面分享在Facebook上被贊的次數。 |
-| Facebook點按次數 | 來自Facebook分享的點按次數。 |
+| Facebook股份 | 此頁面在Facebook共用的次數。 |
+| Facebook贊 | 此頁面分享在Facebook受到贊的次數。 |
+| Facebook點擊 | facebook分享的點按次數。 |
 
 ## 已針對{#keyword-s-that-page-is-optimized-for}最佳化頁面的關鍵字
 
