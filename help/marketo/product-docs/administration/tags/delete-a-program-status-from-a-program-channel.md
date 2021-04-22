@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360278
-description: 從計畫渠道——行銷人員文檔——產品文檔中刪除計畫狀態
+description: 從計畫渠道刪除計畫狀態-Marketo文檔——產品文檔
 title: 從節目頻道刪除節目狀態
+exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
-
 
 # 從程式通道{#delete-a-program-status-from-a-program-channel}刪除程式狀態
 
