@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360247
-description: 變更電子郵件和標籤的預設值——行銷人員檔案——產品檔案
+description: 變更電子郵件和標籤的預設值-Marketo檔案——產品檔案
 title: 變更電子郵件和寄件者標籤的預設值
+exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-
-# 更改「電子郵件的預設值」和「發件人標籤{#change-the-default-from-email-and-from-label}」
+# 變更電子郵件和寄件者標籤{#change-the-default-from-email-and-from-label}的預設值
 
 每位管理員使用者都能變更「寄自電子郵件&#x200B;**」和「寄自標籤**」的預設值，如此當他們建立新電子郵件時，就會使用這些預設值。****
 
