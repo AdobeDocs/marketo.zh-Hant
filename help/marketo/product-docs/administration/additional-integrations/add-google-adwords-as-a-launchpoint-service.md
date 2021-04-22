@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6095008
-description: 將Google AdWords新增為LaunchPoint服務——行銷人員檔案——產品檔案
+description: 將Google AdWords新增為LaunchPoint服務-Marketo檔案——產品檔案
 title: 將Google AdWords新增為LaunchPoint服務
+exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
-
 # 將Google AdWords新增為LaunchPoint服務{#add-google-adwords-as-a-launchpoint-service}
 
-將您的Google AdWords帳戶連結至Marketo，以自動將離線轉換資料從Marketo上傳至Google AdWords。 然後，在AdWords中新增自訂欄[後，您就可以從AdWords UI輕鬆看出哪些點按產生了合格的潛在客戶、機會和新客戶（或您想要追蹤的任何收入階段）。 ](https://support.google.com/adwords/answer/3073556)此資訊不會出現在Marketo UI中。
+將您的Google AdWords帳戶連結至Marketo，以自動從Marketo上傳離線轉換資料至Google AdWords。 然後，在AdWords中新增自訂欄[後，您就可以從AdWords UI輕鬆看出哪些點按產生了合格的潛在客戶、機會和新客戶（或您想要追蹤的任何收入階段）。 ](https://support.google.com/adwords/answer/3073556)此資訊不會出現在MarketoUI中。
 
 進一步瞭解[Google的離線轉換匯入功能](https://support.google.com/adwords/answer/2998031?hl=en)。
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. 將您的離線轉換從Marketing上傳至Google AdWords **Weekly**&#x200B;或&#x200B;**Daily**。
+1. 從Marketo上傳您的離線轉換至Google AdWords **Weekly**&#x200B;或&#x200B;**Daily**。
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
