@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147235
-description: 依標籤篩選計畫報表——行銷檔案——產品檔案
+description: 依標籤篩選計畫報表-Marketo檔案——產品檔案
 title: 依標籤篩選程式報表
+exl-id: 6517cceb-c809-487a-a40f-2b24f3f3510e
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 依標籤{#filter-a-program-report-by-tag}篩選程式報表
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/prospect2.jpg)
 
-1. 完成！ 按一下&#x200B;**報表**&#x200B;標籤，查看&#x200B;__&#x200B;符合報表中選取標籤的程式。
+1. 完成! 按一下&#x200B;**報表**&#x200B;標籤，查看&#x200B;__&#x200B;符合報表中選取標籤的程式。
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
