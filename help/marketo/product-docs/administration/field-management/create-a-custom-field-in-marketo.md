@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360287
-description: 在Marketo - Marketo Docs —— 產品檔案中建立自訂欄位
-title: 在Marketo中建立自訂欄位
+description: 在Marketo建立自訂欄位-Marketo檔案——產品檔案
+title: 在Marketo建立自訂欄位
+exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
+# 在Marketo建立自訂欄位{#create-a-custom-field-in-marketo}
 
-# 在Marketo {#create-a-custom-field-in-marketo}中建立自訂欄位
-
-如果您需要Market中的新自訂欄位來儲存／擷取資料，請以下說明如何建立資料。
+如果您需要Marketo的新自訂欄位來儲存／擷取資料，請以下說明如何建立一個欄位。
 
 1. 前往「管理員」，然後按一下「欄位管理」。****
 
@@ -21,13 +21,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您希望欄位與CRM保持同步，請在CRM中建立欄位，這些欄位將會自動在Marketo中建立。
+   >如果您希望欄位與CRM保持同步，請在CRM中建立欄位，這些欄位將自動在Marketo建立。
 
 1. 按一下「**新建自定義欄位**」。
 
    ![](assets/two.png)
 
-1. 選擇欄位類型。 這將改變Marketo中智慧型清單和表格的呈現方式。
+1. 選擇欄位類型。 這將改變它在Marketo的智慧清單和表格中的呈現方式。
 
    >[!TIP]
    >
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-13-3a47-3a42.png)
 
-1. 輸入您要在Marketo中顯示的名稱。 API名稱會自動產生。 您可加以調整，但設定後便無法重新命名。 完成時，按一下「建立」(Create)。****
+1. 按照您希望的名稱在Marketo中顯示，輸入該名稱。 API名稱會自動產生。 您可加以調整，但設定後便無法重新命名。 完成時，按一下「建立」(Create)。****
 
 >[!CAUTION]
 >
