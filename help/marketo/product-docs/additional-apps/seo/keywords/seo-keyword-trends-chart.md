@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949680
-description: SEO —— 關鍵字趨勢圖——行銷檔案——產品檔案
+description: SEO —— 關鍵字趨勢圖-Marketo文檔——產品文檔
 title: SEO —— 關鍵字趨勢圖
+exl-id: 093f713b-e9f1-48d6-b4d8-7c5ef349a2ae
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
 
 ---
-
 
 # SEO —— 關鍵字趨勢圖{#seo-keyword-trends-chart}
 
