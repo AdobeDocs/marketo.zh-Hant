@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359906
-description: 管理行銷人員使用者——行銷人員檔案——產品檔案
-title: 管理Marketo使用者
+description: 管理Marketo用戶-Marketo文檔——產品文檔
+title: 管理Marketo用戶
+exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-
-# 管理Marketo使用者{#managing-marketo-users}
+# 管理Marketo用戶{#managing-marketo-users}
 
 ## 建立用戶{#create-users}
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >到期日非常適合需要Marketing才能短暫存取的短期外部利益相關者或顧問。
+   >到期日對短期外部利益相關方或顧問非常適合，他們只需要短暫的Marketo訪問。
 
    >[!NOTE]
    >
@@ -115,7 +115,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->如果您是Market中唯一的管理員，請務必不要移除您自己的管理權限。
+>如果您是Marketo唯一的管理員，請務必不要移除您自己的管理員權限。
 
 >[!NOTE]
 >
