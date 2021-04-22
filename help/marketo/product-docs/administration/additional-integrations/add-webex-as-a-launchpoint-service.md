@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512272
-description: 將WebEx新增為LaunchPoint服務——行銷人員檔案——產品檔案
+description: 將WebEx新增為LaunchPoint服務-Marketo文檔——產品文檔
 title: 將WebEx新增為LaunchPoint服務
+exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-
 # 將WebEx添加為LaunchPoint服務{#add-webex-as-a-launchpoint-service}
 
-Market可管理您的WebEx網路研討會註冊和出席情況。
+Marketo管理您的WebEx網路研討會註冊和出席情況。
 
 >[!NOTE]
 >
@@ -57,4 +57,4 @@ Market可管理您的WebEx網路研討會註冊和出席情況。
 
 >[!MORELIKETHIS]
 >
->瞭解如何使用WebEx[建立事件。](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+>瞭解如何使用WebEx](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)建立事件。[
