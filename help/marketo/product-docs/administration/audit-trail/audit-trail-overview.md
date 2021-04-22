@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11377945
-description: 稽核記錄概述——行銷人員檔案——產品檔案
+description: 稽核記錄概述-Marketo檔案——產品檔案
 title: 稽核記錄概述
+exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
 
 ---
 
-
 # 稽核記錄概述{#audit-trail-overview}
 
-稽核記錄可讓您取得Marketo實例中所做變更的完整記錄（6個月）。
+稽核記錄可讓您取得在Marketo實例中所做變更的完整記錄（6個月）。
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 什麼是審計線索{#what-is-audit-trail}
 
-稽核記錄可即時擷取Marketo訂閱中發生之動作和事件的完整清單。 它包含自助式方式，可存取6個月的資料記錄，以協助回答下列問題：
+稽核記錄即時擷取在Marketo訂閱中發生之動作和事件的完整清單。 它包含自助式方式，可存取6個月的資料記錄，以協助回答下列問題：
 
 此資產或設定發生了什麼情況，誰上次更新？
 
@@ -33,10 +33,10 @@ X使用者最近做了什麼？
 
 ## 我們審計的{#what-we-audit}
 
-Marketo會稽核[建立、編輯和刪除](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)動作：
+Marketo將審核[建立、編輯和刪除](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)操作：
 
 * 設計工作室資產
-* 所有Marketo程式
+* 所有Marketo計畫
 * 智慧型宣傳
 * 清單（智慧／靜態）
 * 使用者（管理員）
@@ -46,7 +46,7 @@ Marketo會稽核[建立、編輯和刪除](/help/marketo/product-docs/administra
 
 >[!NOTE]
 >
->Marketo是&#x200B;_not_&#x200B;目前在Web Personalization、Predictive Content或Sales Insight中所做的審核變更。
+>Marketo是&#x200B;_not_&#x200B;目前在Web個人化、預測性內容或銷售分析中所做的審核更改。
 
 ## 稽核記錄元件{#audit-trail-components}
 
@@ -78,7 +78,7 @@ Marketo會稽核[建立、編輯和刪除](/help/marketo/product-docs/administra
 >
 >**定義**
 >
->**未知：在** 稽核記錄中，您可能會看到使用者的名稱和電子郵件列為「未知」。當您在CRM中變更選取清單值時，就會發生此情況。 這些值會顯示在Marketo表單和登陸頁面中。 在CRM端執行此更新時，會自動繪製參照表單的著陸頁面。 在稽核記錄中，我們會擷取著陸頁面已起草，但使用者名稱和電子郵件會顯示為「未知」，因為我們無法從CRM端擷取使用者資訊。
+>**未知：在** 稽核記錄中，您可能會看到使用者的名稱和電子郵件列為「未知」。當您在CRM中變更選取清單值時，就會發生此情況。 這些值會出現在Marketo表單和登陸頁面中。 在CRM端執行此更新時，會自動繪製參照表單的著陸頁面。 在稽核記錄中，我們會擷取著陸頁面已起草，但使用者名稱和電子郵件會顯示為「未知」，因為我們無法從CRM端擷取使用者資訊。
 
 >[!MORELIKETHIS]
 >
