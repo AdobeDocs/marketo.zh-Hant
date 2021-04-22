@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147245
-description: 建立自訂登入類型——行銷檔案——產品檔案
+description: 建立自訂登入類型-Marketo檔案——產品檔案
 title: 建立自訂登入類型
+exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-
 # 建立自定義條目類型{#create-custom-entry-types}
 
-您可以建立自定義條目類型，以便在「程式計畫視圖」中使用。 這可讓您追蹤影響您方案的所有非行銷人員議程項目。
+您可以建立自定義條目類型，以便在「程式計畫視圖」中使用。 這可讓您追蹤所有影響您方案的非Marketo議程項目。
 
 1. 前往&#x200B;**Admin**&#x200B;區段，然後按一下&#x200B;**Tags**。
 
