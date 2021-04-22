@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359418
-description: 匯入人員清單——行銷人員檔案——產品檔案
+description: 匯入人員清單-Marketo檔案——產品檔案
 title: 匯入人員清單
+exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
 
 ---
-
 
 # 匯入人員清單{#import-a-list-of-people}
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 >
 >事件程式在特定日期發生。 進一步瞭解&#x200B;[**Events**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)。
 
-## 步驟3:將試算表匯入Marketo {#step-import-your-spreadsheet-into-marketo}
+## 步驟3:將試算表匯入Marketo{#step-import-your-spreadsheet-into-marketo}
 
 1. 在&#x200B;**My Tradeshow Program**&#x200B;中，按一下&#x200B;**New**，然後選取&#x200B;**New Local Asset**。
 
@@ -104,7 +104,7 @@ ht-degree: 0%
    > * 略過活動記錄
 
 
-1. 將「清單欄」欄位對應至其各自的「行銷人員欄位」，然後按一下「下一步」。****
+1. 將「清單列」欄位映射到各自的「Marketo欄位」，然後按一下「下一步」。****
 
    ![](assets/image2014-9-24-12-3a24-3a49.png)
 
@@ -114,7 +114,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果有任何欄位您不想匯入，請在「行銷人員欄位」下拉式選單中選取「忽略&#x200B;****」。
+   >如果有任何您不想匯入的欄位，請在「Marketo欄位」下拉式選單中選取「忽略&#x200B;****」。
 
 1. 為&#x200B;**贏取計畫**&#x200B;選擇&#x200B;**我的商展計畫**，然後按一下&#x200B;**匯入**。
 
