@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355826
-description: 發行說明- 2002年2月——行銷檔案——產品檔案
+description: 發行說明- 2002年2月-Marketo文檔——產品文檔
 title: 發行說明- 2002年2月
+exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：Feb &#39;20 {#release-notes-feb}
 
-2002年2月發行包含下列功能。 檢查您的Marketo版本，以取得功能。
+2002年2月發行包含下列功能。 查看您的Marketo版功能是否可用。
 
 >[!AVAILABILITY]
 >
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ## 公告{#announcements}
 
-* **Marketo Engage成功中心**:我們將於2020年2月推出行銷成功中心。成功中心是產品內協助中心，可讓您直接從您的Marketo Engage實例搜尋產品檔案和社群、啟動操作指南、存取採用內容（例如Marketo University和同儕最佳實務影片）等。 **注意**:這項功能將在澳新銀行推出為beta版，並將於本季度晚些時候推出至北美地區。
+* **Marketo Engage成功中心**:我們將於2020年2月推出Marketo成功中心。成功中心是產品內協助中心，可讓您直接從您的Marketo Engage實例搜尋產品檔案和社群、啟動操作指南、存取採用內容(例如Marketo大學和同儕最佳實務影片)等。 **注意**:這項功能將在澳新銀行推出為beta版，並將於本季度晚些時候推出至北美地區。
 
 ## 淘汰{#deprecations}
 
