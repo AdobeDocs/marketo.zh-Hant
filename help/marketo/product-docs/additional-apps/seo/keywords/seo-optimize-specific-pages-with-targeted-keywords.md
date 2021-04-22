@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949212
-description: SEO —— 使用目標關鍵字——行銷檔案——產品檔案最佳化特定頁面
+description: SEO —— 使用目標關鍵字最佳化特定頁面-Marketo文檔——產品文檔
 title: SEO —— 使用目標關鍵字最佳化特定頁面
+exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # SEO —— 使用定位關鍵字{#seo-optimize-specific-pages-with-targeted-keywords}最佳化特定頁面
 
