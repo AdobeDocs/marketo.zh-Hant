@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360346
-description: 編輯清單匯入的欄位別名——行銷人員檔案——產品檔案
+description: 編輯清單導入的欄位別名-Marketo文檔——產品文檔
 title: 編輯清單導入的欄位別名
+exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
-
 
 # 編輯清單導入的欄位別名{#edit-field-aliases-for-list-import}
 
