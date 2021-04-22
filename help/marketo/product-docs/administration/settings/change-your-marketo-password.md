@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359916
-description: 變更行銷人員密碼——行銷人員檔案——產品檔案
-title: 變更行銷人員密碼
+description: 更改您的Marketo密碼-Marketo文檔——產品文檔
+title: 更改您的Marketo密碼
+exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
+# 更改您的Marketo密碼{#change-your-marketo-password}
 
-# 變更行銷人員密碼{#change-your-marketo-password}
+透過這些簡單步驟變更您的Marketo密碼。
 
-透過這些簡單步驟，變更您的Marketo密碼。
-
-1. 任何Marketo使用者都可以按一下其名稱和&#x200B;**我的帳戶**。
+1. 任何Marketo用戶都可以按一下其名稱和&#x200B;**我的帳戶**。
 
    ![](assets/image2015-11-10-10-3a40-3a8.png)
 
