@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147013
-description: 變更參與計畫卡登——行銷人員檔案——產品檔案
+description: 變更參與計畫課程-Marketo檔案——產品檔案
 title: 變更參與計畫節目
+exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-
 # 變更參與計畫節目{#change-engagement-program-cadence}
 
 1. 概觀
 
-   一旦某個人被參與計畫培養，您就可以暫時暫停使用此流程步驟為該人提供的培養。
+   一旦某個人被參與計畫培養，您就可以使用此流程步驟暫時暫停該人的培養。
 
    ![](assets/image2014-9-22-14-3a48-3a53.png)
 
