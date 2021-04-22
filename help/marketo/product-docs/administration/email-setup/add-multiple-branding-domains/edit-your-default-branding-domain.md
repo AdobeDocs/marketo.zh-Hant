@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377392
-description: 編輯您的預設品牌網域——行銷檔案——產品檔案
+description: 編輯您的預設品牌網域-Marketo檔案——產品檔案
 title: 編輯您的預設品牌網域
+exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # 編輯您的預設品牌網域{#edit-your-default-branding-domain}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->在Marketo中新增品牌網域之前，請務必[在DNS中設定CNAME。](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md)
+>在Marketo新增品牌網域之前，請務必[在DNS中設定CNAME。](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md)
 
 1. 前往&#x200B;**Admin**，然後按一下&#x200B;**Email**。
 
