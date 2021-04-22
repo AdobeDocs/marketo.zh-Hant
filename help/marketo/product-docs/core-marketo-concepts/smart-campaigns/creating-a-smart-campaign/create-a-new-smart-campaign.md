@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146931
-description: 建立新的智慧型促銷活動——行銷檔案——產品檔案
+description: 建立新的智慧型宣傳-Marketo檔案——產品檔案
 title: 建立新的智慧型促銷活動
+exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-
 # 建立新的智慧型促銷活動{#create-a-new-smart-campaign}
 
-智慧型促銷活動是Marketo中最重要的工具。 他們可以觸發一個人並執行動作，或統計數百萬人並執行一系列流程步驟。
+智慧型宣傳是Marketo最重要的工具。 他們可以觸發一個人並執行動作，或統計數百萬人並執行一系列流程步驟。
 
 >[!NOTE]
 >
