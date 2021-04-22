@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11380986
-description: 編輯工作區——行銷人員檔案——產品檔案
+description: 編輯工作區-Marketo文檔——產品文檔
 title: 編輯工作區
+exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
-
 
 # 編輯工作區{#edit-a-workspace}
 
