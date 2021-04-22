@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783555
-description: 建立我的最愛——行銷人員檔案——產品檔案
+description: 建立我的最愛-Marketo檔案——產品檔案
 title: 建立我的最愛
+exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%
 
 ---
-
 
 # 建立收藏夾{#creating-a-favorite}
 
