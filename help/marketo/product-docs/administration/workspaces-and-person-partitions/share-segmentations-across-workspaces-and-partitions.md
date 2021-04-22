@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7515767
-description: 跨工作區和分區共用區段——行銷檔案——產品檔案
+description: 跨工作區和分區共用細分-Marketo文檔——產品文檔
 title: 跨工作區和分區共用區段
+exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
 
 ---
-
 
 # 跨工作區和分區共用分區{#share-segmentations-across-workspaces-and-partitions}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 什麼是細分？{#whats-a-segmentation}
 
-Marketo擅長挑選適合的人來參與計畫或智慧型宣傳。 不過，若是較永久的角色，您應使用區段。 他們需要在Marketo中使用進階的動態內容。
+Marketo非常擅長挑選適合的人來參與計畫或明智的宣傳活動。 不過，若是較永久的角色，您應使用區段。 他們需要在Marketo使用進階的動態內容。
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Marketo擅長挑選適合的人來參與計畫或智慧型宣傳。 不過，若
 
 ## 規則與提示{#rules-tips}
 
-* 每個Marketo訂閱最多可包含20個跨多個工作區的「總計」（每個工作區&#x200B;**不是20個**）區段。
+* 每份Marketo訂閱最多可包含20個跨多個工作區的「總計」區段（每個工作區&#x200B;**不是20個**）。
 * 您只能與您有權存取的工作區共用區段。
 * 請務必建立並使用&#x200B;**預設工作區，該工作區可以查看所有分區**。
 
@@ -82,6 +82,6 @@ Marketo擅長挑選適合的人來參與計畫或智慧型宣傳。 不過，若
 
    >[!NOTE]
    >
-   >此對話方塊會顯示您有權檢視的工作區，這就是為什麼Marketo建議從可檢視所有工作區和分區的預設工作區建立和共用區段。
+   >該對話框顯示您有權查看的工作區，這就是為什麼Marketo建議從可查看所有工作區和分區的預設工作區建立和共用分段。
 
 原始資料夾在資料庫樹中顯示，其中帶有一個箭頭，指示它已與其他工作區共用。 在共用工作區中，資料夾會顯示鎖定，以指出資料夾的內容已從其他工作區共用，且為唯讀。
