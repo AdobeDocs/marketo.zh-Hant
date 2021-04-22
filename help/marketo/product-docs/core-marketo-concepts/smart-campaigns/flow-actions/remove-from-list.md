@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146954
-description: 從清單中移除——行銷人員檔案——產品檔案
+description: 從清單中移除-Marketo文檔——產品文檔
 title: 從清單中移除
+exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
 
 ---
-
 
 # 從清單{#remove-from-list}中刪除
 
