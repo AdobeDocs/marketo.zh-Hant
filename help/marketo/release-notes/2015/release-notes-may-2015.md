@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7514821
-description: 發行說明- 2015年5月——行銷檔案——產品檔案
+description: 發行說明- 2015年5月-Marketo文檔——產品文檔
 title: 發行說明- 2015年5月
+exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：2015年5月{#release-notes-may}
 
-2015年5月發行包含下列功能。 請檢查您的Marketo Edition是否提供功能。 在發行後，請務必回來尋找每個功能的詳細文章連結！
+2015年5月發行包含下列功能。 請查看您的Marketo版以瞭解功能的可用性。 在發行後，請務必回來尋找每個功能的詳細文章連結！
 
 ## 完全自適應的著陸頁面
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 電子郵件傳遞能力{#email-deliverability}
 
-Marketo現在會對您新增的網域執行每週自動SPF和DKIM檢查。 檢查您的通知，隨時掌握最新資訊。
+Marketo現在將對您新增的網域執行每週自動SPF和DKIM檢查。 檢查您的通知，隨時掌握最新資訊。
 
 ## 電子郵件模板行為更改{#email-template-behavior-change}
 
