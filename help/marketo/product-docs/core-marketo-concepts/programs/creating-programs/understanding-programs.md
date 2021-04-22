@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147089
-description: 瞭解程式——行銷人員檔案——產品檔案
+description: 瞭解計畫-Marketo文檔——產品文檔
 title: 瞭解計畫
+exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
-
 
 # 瞭解程式{#understanding-programs}
 
