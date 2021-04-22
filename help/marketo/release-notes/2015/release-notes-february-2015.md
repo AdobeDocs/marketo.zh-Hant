@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6094890
-description: 發行說明- 2015年2月——行銷檔案——產品檔案
+description: 發行說明- 2015年2月-Marketo文檔——產品文檔
 title: 發行說明- 2015年2月
+exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：2015年2月{#release-notes-february}
 
-2015年2月發行包含下列功能。 請檢查您的Marketo Edition是否提供功能。 在發行後，請務必回來尋找每個功能的詳細文章連結。 滾筒……
+2015年2月發行包含下列功能。 請查看您的Marketo版以瞭解功能的可用性。 在發行後，請務必回來尋找每個功能的詳細文章連結。 滾筒……
 
 ## 行銷自動化增強功能{#marketing-automation-enhancements}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 **HTTPS憑證變更**
 
-為保護客戶資料和SaaS服務的機密性和完整性，Marketto遵循SaaS業界最佳實務
+為保護客戶資料和SaaS服務的機密性和完整性，Marketo遵循SaaS業界最佳實務
 
 並將目前使用的安全性通訊協定（SHA-1和SSL）取代為更安全的版本(SHA-2（亦即SHA-2）。SHA-256)和TLS)，適用於下列網域：
 
