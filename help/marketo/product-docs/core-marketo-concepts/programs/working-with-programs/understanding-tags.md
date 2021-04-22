@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147112
-description: 瞭解標籤——行銷檔案——產品檔案
+description: 瞭解標籤-Marketo文檔——產品文檔
 title: 瞭解標籤
+exl-id: af74aec2-096f-489f-adf8-388da3867fae
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-
 # 瞭解標籤{#understanding-tags}
 
-您可能已經知道，程式就像Marketo中的建置區塊。 利用標籤和頻道將協助您篩選資料以用於報告。
+你可能已經知道，程式就像是Marketo的構造塊。 利用標籤和頻道將協助您篩選資料以用於報告。
 
 標籤用於描述程式。 您可以視需要製作任意數量的影像，每個影像都具有獨特的值。 通路可識別方案中的傳送機制，例如網路研討會、贊助或線上廣告。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您想要建立自訂標籤，請洽詢您的[行銷人員管理員](/help/marketo/product-docs/administration/tags/create-custom-tags.md)。
+>如果您想要建立自訂標籤，請洽詢您的[Marketo管理員](/help/marketo/product-docs/administration/tags/create-custom-tags.md)。
 
 >[!NOTE]
 >
