@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949184
-description: SEO —— 瞭解頁面——行銷檔案——產品檔案
+description: SEO —— 瞭解頁面-Marketo文檔——產品文檔
 title: SEO —— 瞭解頁面
+exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # SEO —— 瞭解頁面{#seo-understanding-pages}
 
