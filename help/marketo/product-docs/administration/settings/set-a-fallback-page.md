@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359920
-description: 設定備援頁面——行銷人員檔案——產品檔案
+description: 設定備援頁面-Marketo檔案——產品檔案
 title: 設定備援頁面
+exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
 
 ---
-
 
 # 設定備援頁面{#set-a-fallback-page}
 
