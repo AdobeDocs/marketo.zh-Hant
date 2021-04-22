@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557273
-description: 尋找並新增篩選器至智慧型清單——行銷人員檔案——產品檔案
+description: 尋找並新增篩選器至智慧型清單-Marketo檔案——產品檔案
 title: 尋找並新增篩選器至智慧型清單
+exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
-
 
 # 查找過濾器並將其添加到智慧清單{#find-and-add-filters-to-a-smart-list}
 
