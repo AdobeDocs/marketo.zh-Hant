@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360253
-description: 編輯「檢視為網頁」訊息——行銷人員檔案——產品檔案
+description: 編輯「以網頁形式檢視」訊息-Marketo檔案——產品檔案
 title: 編輯「以網頁形式檢視」訊息
+exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # 編輯「View as Web Page」（以Web頁面檢視）消息{#edit-the-view-as-web-page-message}
 
