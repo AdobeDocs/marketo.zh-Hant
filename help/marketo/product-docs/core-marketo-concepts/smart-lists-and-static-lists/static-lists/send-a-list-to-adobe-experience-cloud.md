@@ -1,21 +1,21 @@
 ---
 unique-page-id: 37356194
-description: 傳送清單至Adobe Experience Cloud-行銷人員檔案——產品檔案
+description: 傳送清單至Adobe Experience Cloud-Marketo檔案——產品檔案
 title: 傳送清單至Adobe Experience Cloud
+exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '787'
 ht-degree: 0%
 
 ---
 
-
 # 將清單發送到Adobe Experience Cloud{#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
 >
->Marketo例項的HIPAA適用部署無法使用此功能。
+>Marketo實例的HIPAA就緒部署無法使用此功能。
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 靜態清單就是靜態的。 除非您手動進行變更，否則不會對Adobe Experience Cloud的清單進行任何變更。
 
-1. 在Marketo中，尋找並選取您要匯出的清單。
+1. 在Marketo，尋找並選取您要匯出的清單。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
@@ -60,9 +60,9 @@ ht-degree: 0%
 
 ## 如何傳送同步清單{#how-to-send-a-synced-list}
 
-同步清單表示，只要您在Marketo中更新清單，這項變更就會自動同步至Adobe Experience Cloud的觀眾。
+同步清單表示，只要您更新Marketo的清單，這項變更就會自動同步至Adobe Experience Cloud的觀眾。
 
-1. 在Marketo中，尋找並選取您要同步的清單。
+1. 在Marketo，尋找並選取您要同步的清單。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
 
@@ -86,7 +86,7 @@ ht-degree: 0%
 
 您可以隨時停止同步清單。
 
-1. 在Marketo中，尋找並選取您要停止同步的清單。
+1. 在Marketo，尋找並選取您要停止同步的清單。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
 
@@ -106,28 +106,28 @@ ht-degree: 0%
 
 **與Adobe Analytics分享**
 
-對於同時擁有Adobe Audience Manager和Adobe Analytics的客戶，此整合可讓受眾從Marketing分享至您的Adobe Analytics報表套裝，但是，在Adobe Audience Manager還需要執行一些額外的設定步驟，以啟用此功能。 請參閱Adobe Audience Manager的檔案，以取得如何設定此設定的詳細資訊：[https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html)。
+對於同時擁有Adobe Audience Manager和Adobe Analytics的客戶，此整合可讓觀眾從Marketo分享到您的Adobe Analytics報表套裝，但是，在Adobe Audience Manager還需要執行一些額外的設定步驟，以啟用此功能。 請參閱Adobe Audience Manager的檔案，以取得如何設定此設定的詳細資訊：[https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html)。
 
 **Adobe Audience Manager客戶的特徵使用**
 
-當您在Marketo中起始清單匯出時，您會注意到您的Adobe Audience Manager實例中反映的下列變更：
+在Marketo啟動清單匯出時，您會注意到Adobe Audience Manager實例中反映的下列變更：
 
 * 對於匯出清單中的所有Lead,Marketo會使用Leads的雜湊電子郵件作為跨裝置識別碼來編寫特徵。 特徵的名稱將符合您在匯出期間指定的目標對象名稱。
-* 對於Marketo已設法符合匯出清單中銷售機會的所有ECID,Marketo會使用ECID裝置識別碼來編寫特徵。 特徵的名稱將符合您在匯出期間指定的目標對象名稱。
-* Marketo也會在您的Audience Manager例項中，以ECID特性作為唯一的分段標準來建立區段。 區段的名稱將符合您在匯出期間指定的目標對象名稱。
+* 對於Marketo已設法與匯出清單中的Lead相符的所有ECID,Marketo會使用ECID裝置識別碼來編寫特徵。 特徵的名稱將符合您在匯出期間指定的目標對象名稱。
+* Marketo也會在您的Audience Manager例項中，以ECID特性為唯一的分段標準建立區段。 區段的名稱將符合您在匯出期間指定的目標對象名稱。
 
 ## 常見問答{#faq}
 
-**為什麼Marketo中的清單大小與Adobe中的清單大小不同？**
+**為什麼Marketo的名單大小和Adobe的不同？**
 
-在Hood中，對象整合的運作方式是將Marketo Munchkin Cookie與對應的AdobeECID Cookie同步。 Marketo只能分享Marketo為之同步ECID之潛在客源的會籍資料。 為獲得最佳結果，建議您在所有想要追蹤以用於行銷目的的頁面上，同時載入Adobe的munchkin.js追蹤指令碼及其visitor.js追蹤代碼。
+在The Hoode之下，觀眾整合的運作方式是同步Marketo·蒙奇金Cookie和對應的AdobeECID Cookie。 Marketo只能分享Marketo為之同步ECID之潛在客源的會籍資料。 為獲得最佳結果，建議您在所有想要追蹤的頁面上，同時載入Marketo的munchkin.js追蹤指令碼以及Adobe的visitor.js追蹤程式碼，以利行銷。
 
 **Cookie如何同步？**
 
-當您的Marketo訂閱啟用Cookie同步時，Marketo的munchkin.js會嘗試擷取並儲存您在整合設定期間指定之AdobeIMS組織的AdobeECID，並將這些ECID與對應的Marketo Cookie識別碼相符。 這可讓Marketo的匿名使用者個人檔案更豐富地使用AdobeECID。
+當您的Marketo訂閱啟用Cookie同步時，Marketo的munchkin.js將嘗試擷取並儲存您在整合設定期間指定之AdobeIMS組織的AdobeECID，並將這些ECID與對應的MarketoCookie識別碼相符。 這可讓Marketo的匿名使用者個人檔案更豐富地使用AdobeECID。
 
 需要進一步步驟，將匿名用戶配置檔案與使用純文字檔案電子郵件標識的銷售線索配置檔案關聯。 這裡描述的[是如何運作的](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)。
 
 **共用哪些資訊？**
 
-此整合只會分享從Marketo到Adobe的清單會籍資訊（例如，瞭解Lead X是清單Y的成員）。 不會透過此整合將其他「銷售機會屬性」共用給Adobe。
+此整合僅將清單會員資訊從Marketo分享給Adobe（例如，瞭解Lead X是清單Y的成員）。 不會透過此整合將其他「銷售機會屬性」共用給Adobe。
