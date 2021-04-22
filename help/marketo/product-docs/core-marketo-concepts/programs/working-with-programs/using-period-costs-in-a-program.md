@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147118
-description: 在計畫中使用期間成本——行銷文檔——產品文檔
+description: 在計畫中使用期間成本-Marketo文檔——產品文檔
 title: 在計畫中使用期間成本
+exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
-
 
 # 在方案中使用期間成本{#using-period-costs-in-a-program}
 
