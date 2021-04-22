@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951095
-description: 發行說明- 2013年6月——行銷檔案——產品檔案
+description: 發行說明- 2013年6月-Marketo文檔——產品文檔
 title: 發行說明- 2013年6月
+exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # 發行說明：2013年6月{#release-notes-june}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 其他使用者語言{#additional-user-languages}
 
-以您偏好的語言檢視Marketo Lead Management介面——現在支援西班牙文和葡萄牙文。
+以您偏好的語言檢視「Marketo銷售機會管理」介面，現在支援西班牙文和葡萄牙文。
 
 ![](assets/image2014-9-22-16-3a25-3a54.png)
 
