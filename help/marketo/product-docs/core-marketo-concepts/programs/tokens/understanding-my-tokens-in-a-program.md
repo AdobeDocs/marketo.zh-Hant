@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147114
-description: 瞭解我的Token在計畫——行銷檔案——產品檔案
+description: 瞭解我的代號在計畫-Marketo文檔——產品文檔
 title: 瞭解程式中的Token
+exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
 
 ---
-
 
 # 瞭解程式中的My Token {#understanding-my-tokens-in-a-program}
 
@@ -62,7 +62,7 @@ Token是一個變數，您可在電子郵件、登陸頁面和智慧型促銷活
   </tr> 
   <tr> 
    <td colspan="1">SFDC促銷活動 <img alt="—" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="—"></td> 
-   <td colspan="1">使用此代號可讓成為Marketo Program一部分的銷售機會也能新增至新增的任何SFDC促銷活動。</td> 
+   <td colspan="1">使用此代號可讓成為Marketo計劃一部分的銷售機會也添加到添加的任何SFDC促銷活動中。</td> 
   </tr> 
   <tr> 
    <td>文字 <img alt="—" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
