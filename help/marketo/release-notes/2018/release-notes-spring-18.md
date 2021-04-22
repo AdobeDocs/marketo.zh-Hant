@@ -1,31 +1,31 @@
 ---
 unique-page-id: 14745959
-description: 發行說明- 18年春季版——行銷檔案——產品檔案
+description: 發行說明- 18年春季版-Marketo文檔——產品文檔
 title: 發行說明- 18年春季版
+exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：彈簧&#39;18 {#release-notes-spring}
 
-Spring &#39;18版本包含下列功能。 檢查您的Marketo版本，以取得功能。
+Spring &#39;18版本包含下列功能。 查看您的Marketo版功能是否可用。
 
 請按一下標題連結，以檢視每個功能的詳細文章。 注意：此版本包含的部分功能沒有相關文章。 如果主題有多個子標題，則會將連結放在此處。
 
-## Marketo Sales Engage、Launch和ToutApp更新{#marketo-sales-engage-launch-and-toutapp-updates}
+## Marketo銷售人員參與、啟動和輸出應用程式更新{#marketo-sales-engage-launch-and-toutapp-updates}
 
-* [行銷人員與銷售人員互動](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [Marketo銷售人員](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * [啟動](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * ToutApp更新
 
 >[!AVAILABILITY]
 >
->「銷售參與」是附加產品。 如需報價，請連絡您的行銷人員客戶成功經理或客戶經理。
+>「銷售參與」是附加產品。 如需報價，請連絡您的Marketo客戶成功經理或客戶經理。
 
 運用智慧、內容、播放簿和分析功能，讓銷售人員將更多潛在客戶轉化為銷售機會，進而提升銷售管道和營收。 「銷售互動」為銷售和行銷提供統一的平台，讓客戶在整個客戶歷程中都能參與，並透過客戶觸點的共同檢視，提供更好的協調。
 
@@ -79,11 +79,11 @@ Spring &#39;18版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 [Facebook工作場所整合](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
 
-傳送系統通知和有趣的時刻至Facebook工作場所。
+傳送系統通知和有趣的時刻到Facebook工作場所。
 
 [靜態清單API](https://developers.marketo.com/rest-api/assets/static-lists/)
 
-使用全新的雙向API，以便遠端建立、讀取、更新和刪除靜態清單，更輕鬆地管理Marketo與其他系統之間的清單，而不需在Marketo UI中採取任何動作。
+使用全新的雙向API，讓您在Marketo和其他系統之間輕鬆管理清單，以便遠端建立、讀取、更新和刪除靜態清單，而不需在MarketoUI中採取任何動作。
 
 ## 隱私權增強功能{#privacy-enhancements}
 
