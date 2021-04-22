@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147116
-description: 管理我的Token —— 行銷檔案——產品檔案
+description: 管理我的代號-Marketo文檔——產品文檔
 title: 管理我的代號
+exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-
 # 管理我的代號{#managing-my-tokens}
 
-使用預付碼可簡化您在Marketo中的工作。 您可以在流程步驟、網頁勾選、電子郵件和登陸頁面中使用[我的Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)（自訂Token）。 這裡是如何製作它們。
+使用預付碼可以簡化您在Marketo的工作。 您可以在流程步驟、網頁勾選、電子郵件和登陸頁面中使用[我的Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)（自訂Token）。 這裡是如何製作它們。
 
 >[!TIP]
 >
