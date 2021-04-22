@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146935
-description: 啟動觸發智慧型促銷活動 |計畫標籤——行銷人員檔案——產品檔案
+description: 啟動觸發智慧型促銷活動 |計畫標籤-Marketo文檔——產品文檔
 title: 啟動觸發智慧型促銷活動 |計畫標籤
+exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # 啟動觸發智慧型促銷活動 |計畫標籤{#activate-a-trigger-smart-campaign-schedule-tab}
 
