@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146989
-description: 促銷活動動作——複製智慧型促銷活動——行銷人員檔案——產品檔案
+description: 促銷活動動作——複製智慧型促銷活動-Marketo檔案——產品檔案
 title: 促銷活動動作——複製智慧型促銷活動
+exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # 促銷活動動作：複製智慧型促銷活動{#campaign-actions-clone-a-smart-campaign}
 
