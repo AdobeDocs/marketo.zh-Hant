@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2951040
-description: 發行說明- 2014年7月——行銷檔案——產品檔案
+description: 發行說明- 2014年7月-Marketo文檔——產品文檔
 title: 發行說明- 2014年7月
+exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：2014年7月{#release-notes-july}
 
-2014年7月發行包含下列功能。 請檢查您的Marketo Edition是否提供功能。 在發行後回來，取得詳細功能檔案的連結。
+2014年7月發行包含下列功能。 請查看您的Marketo版以瞭解功能的可用性。 在發行後回來，取得詳細功能檔案的連結。
 
 ## 行銷行事歷{#marketing-calendar}
 
-查看您所有的活動、電子郵件，以及各種程式。 [此新產](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) 品將免費提供給擁有10名或以下「行銷人員銷售機會管理」或「對話」使用者的客戶。
+查看您所有的活動、電子郵件，以及各種程式。 [此新產](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) 品將免費提供給擁有10名或以下「Marketo銷售機會管理」或「對話」使用者的客戶。
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
-Marketo Lead Management將會更新，提供現代化、時尚的新外觀和感覺，並包含更新的導覽功能。
+Marketo銷售線索管理部門將更新其新的外觀和感覺，既現代又時尚，並包含更新的導覽功能。
 
 ## 日期運算子{#date-operators}
 
@@ -56,7 +56,7 @@ Marketo Lead Management將會更新，提供現代化、時尚的新外觀和感
 
 ## 快速清單匯入{#fast-list-import}
 
-在&#x200B;**快50x**&#x200B;上，您的檔案會放大顯示Marketo! 舊的「正常」和「針對新銷售機會最佳化」匯入選項已更換為「預設（快速匯入）」。
+在&#x200B;**速度快50x**&#x200B;上，您的檔案會放大到Marketo! 舊的「正常」和「針對新銷售機會最佳化」匯入選項已更換為「預設（快速匯入）」。
 
 「略過新銷售機會和更新」選項保持不變。
 
