@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11387674
-description: 行銷人員術語更新——行銷人員檔案——產品檔案
-title: Marketo術語的更新
+description: Marketo術語更新-Marketo文檔——產品文檔
+title: Marketo術語更新
 translation-type: tm+mt
 source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
