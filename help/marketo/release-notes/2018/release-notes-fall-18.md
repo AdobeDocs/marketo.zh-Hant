@@ -1,19 +1,19 @@
 ---
 unique-page-id: 15695939
-description: 發行說明- 18年秋季版——行銷檔案——產品檔案
+description: 發行說明- 18年秋季-Marketo文檔——產品文檔
 title: 發行說明- 18年秋季
+exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '850'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：秋季&#39;18 {#release-notes-fall}
 
-Fall &#39;18發行包含下列功能。 檢查您的Marketo版本，以取得功能。
+Fall &#39;18發行包含下列功能。 查看您的Marketo版功能是否可用。
 
 請按一下標題連結，檢視每個功能的詳細文章（如果有的話）。
 
@@ -30,7 +30,7 @@ Fall &#39;18發行包含下列功能。 檢查您的Marketo版本，以取得功
 * **擴充支援：Microsoft Office**
 
    * Outlook作為傳送渠道：行銷人員現在可以運用Outlook進行電子郵件參與，以提高傳遞率和回應追蹤。
-   * Office 365電子郵件支援改進：Marketo銷售人員參與直接可在Outlook for Mac、Outlook for Windows和Outlook Web Application for Office 365電子郵件用戶端中取得，讓所有Office使用者都能更容易接觸行銷銷售人員。
+   * Office 365電子郵件支援改進：Marketo銷售人員直接在Outlook for Mac、Outlook for Windows，以及Outlook Web Application for Office 365電子郵件客戶中取得，讓所有Office使用者都能輕鬆使用Marketo銷售人員服務。
 
 * **改善管理員和使用者登入體驗**
 
@@ -74,7 +74,7 @@ Fall &#39;18發行包含下列功能。 檢查您的Marketo版本，以取得功
 
    * 客戶現在可以使用其公司的身分提供者和認證（符合企業安全性要求）登入Bizbile Web應用程式。
 
-**[行銷人員效能分析增強功能](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Marketo績效分析增強功能](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **可用性增強功能**
 
@@ -90,13 +90,13 @@ Fall &#39;18發行包含下列功能。 檢查您的Marketo版本，以取得功
 
 **[重新整理Token](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
-我們已在重新定位和LinkedIn銷售機會開發表單解決方案中建置了重新整理Token，將存取時間延長至一年後，才需要重新驗證。
+我們已在重新定位和LinkedIn銷售機會開發表單解決方案中建置了重新整理Token，將存取時間延長至需要重新驗證之前的一年。
 
 ## API {#api}
 
 **銷售線索映射REST API**
 
-Marketo現在支援在銷售機會API上使用電子郵件處理欄位（包括「黑名單」、「暫停行銷」、「暫停電子郵件」和「相對緊急性」）。
+Marketo現在支援在Lead API上使用電子郵件處理欄位（包括「黑名單」、「暫停行銷」、「暫停電子郵件」和「相對緊急性」）。
 
 >[!NOTE]
 >
@@ -104,4 +104,4 @@ Marketo現在支援在銷售機會API上使用電子郵件處理欄位（包括�
 
 >[!NOTE]
 >
->Marketo也正在升級與身分和驗證相關的程式庫。 當升級正在進行時，如果您有開啟的作業階段，您可能會發現間歇性錯誤。 如果您遇到問題，請登出並返回您的訂閱。
+>Marketo還在升級與身份和身份驗證相關的圖書館。 當升級正在進行時，如果您有開啟的作業階段，您可能會發現間歇性錯誤。 如果您遇到問題，請登出並返回您的訂閱。
