@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360360
-description: 建立網頁掛接——行銷檔案——產品檔案
+description: 建立網頁掛接-Marketo檔案——產品檔案
 title: 建立網頁掛接
+exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
-
 
 # 建立Webhook {#create-a-webhook}
 
@@ -35,9 +35,9 @@ ht-degree: 0%
    >
    >這通常包括以URL參數或在POST範本中輸入您的協力廠商服務認證。
 
-   * **URL**:輸入您用來將請求張貼至Web服務的URL。若要在您的請求中插入Token，例如人員的電子郵件地址(**`{{lead.Email Address}}`**)，請按一下「插入Token」（插入Token）**。**
+   * **URL**:輸入您用來POST您對web service的要求的URL。若要在您的請求中插入Token，例如人員的電子郵件地址(**`{{lead.Email Address}}`**)，請按一下「插入Token」（插入Token）**。**
 
-   * **範本**:如果要在POST正文中傳輸資訊，請輸入模板。使用任何支援HTTP POST的資料格式，包括XML、JSON或SOAP。 若要在範本中插入Token，請按一下「插入Token **」。**
+   * **範本**:如果要在POST正文中傳輸資訊，請輸入模板。使用任何支援HTTPPOST的資料格式，包括XML、JSON或SOAP。 若要在範本中插入Token，請按一下「插入Token **」。**
 
    * **請求代號編碼**:如果Token值包含特殊字元（例如&amp;符號、&#39;&amp;&#39;），請指出您請求的格式(**** JSON或 **Form/Url**)。
 
