@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953471
-description: SFDC同步——自訂物件同步——行銷檔案——產品檔案
+description: SFDC同步——自定義對象同步-Marketo文檔——產品文檔
 title: SFDC同步——自定義對象同步
+exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
 
 ---
-
 
 # SFDC同步：自訂物件同步{#sfdc-sync-custom-object-sync}
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >自訂物件必須有唯一的名稱。 Marketo不支援兩個名稱相同的不同自訂物件。
+   >自訂物件必須有唯一的名稱。 Marketo不支援兩個同名的不同自訂物件。
 
 1. 按一下&#x200B;**啟用同步**。
 
