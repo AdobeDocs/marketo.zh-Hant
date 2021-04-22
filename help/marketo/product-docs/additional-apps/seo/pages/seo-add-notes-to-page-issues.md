@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949220
-description: SEO —— 將附註新增至頁面問題——行銷檔案——產品檔案
+description: SEO —— 將附註加入頁面問題-Marketo檔案——產品檔案
 title: SEO —— 新增附註至頁面問題
+exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
-
 
 # SEO —— 將附註新增至頁面問題{#seo-add-notes-to-page-issues}
 
