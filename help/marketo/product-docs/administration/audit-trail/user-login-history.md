@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377958
-description: 使用者登入記錄——行銷人員檔案——產品檔案
+description: 用戶登錄歷史記錄-Marketo文檔——產品文檔
 title: 使用者登入記錄
+exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
 
 ---
-
 
 # 用戶登錄歷史記錄{#user-login-history}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 * 登入時間和日期
 * 使用者名稱和電子郵件地址
-* 角色
+* 職位
 * 工作區
 * IP位址
 
