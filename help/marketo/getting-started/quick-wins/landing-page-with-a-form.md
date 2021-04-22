@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359412
-description: 包含表單的著陸頁面——行銷檔案——產品檔案
+description: 包含表單的登錄頁-Marketo文檔——產品文檔
 title: 具有表單的著陸頁面
+exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
 
 ---
-
 
 # 表單{#landing-page-with-a-form}的著陸頁面
 
