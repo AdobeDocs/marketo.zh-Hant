@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147102
-description: 在「計畫排程檢視——行銷人員檔案——產品檔案」中建立項目
+description: 在「計畫時間表」視圖中建立條目-Marketo文檔——產品文檔
 title: 在「方案計畫」視圖中建立條目
+exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # 在程式計畫視圖{#creating-an-entry-in-the-program-schedule-view}中建立條目
 
