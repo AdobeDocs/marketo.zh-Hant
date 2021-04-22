@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147243
-description: 方案計畫檢視登入類型——行銷檔案——產品檔案
+description: 計畫時間表查看條目類型-Marketo文檔——產品文檔
 title: 方案計畫視圖條目類型
+exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # 方案計畫視圖條目類型{#program-schedule-view-entry-types}
 
