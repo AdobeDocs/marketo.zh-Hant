@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359900
-description: 最低系統需求——行銷人員檔案——產品檔案
+description: 最低系統需求-Marketo文檔——產品文檔
 title: 最低系統需求
+exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
-
 # 最低系統需求{#minimum-system-requirements}
 
-如果您想知道登入和使用Marketo所需的資訊，請參閱以下資訊。
+如果您想知道登入和使用Marketo需要什麼，請看您正在尋找的資訊。
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您的IT團隊使用allowlist限制Web存取，請要求他們新增`*.marketo.com`以允許所有Marketor資源和Web Sockets。
+>如果您的IT團隊使用allowlist限制Web訪問，請要求他們添加`*.marketo.com`以允許所有Marketo資源和Web套接字。
