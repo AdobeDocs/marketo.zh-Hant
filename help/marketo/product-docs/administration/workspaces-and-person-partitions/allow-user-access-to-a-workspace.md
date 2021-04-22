@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360325
-description: 允許使用者存取工作區——行銷人員檔案——產品檔案
+description: 允許用戶訪問工作區-Marketo文檔——產品文檔
 title: 允許使用者存取工作區
+exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # 允許用戶訪問工作區{#allow-user-access-to-a-workspace}
 
