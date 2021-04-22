@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146940
-description: 定義智慧型促銷活動的智慧型清單 |批次——行銷人員檔案——產品檔案
+description: 定義智慧型促銷活動的智慧型清單 |批次-Marketo文檔——產品文檔
 title: 定義智慧型促銷活動的智慧型清單 |批次
+exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
-
 # 定義智慧型促銷活動的智慧型清單 |批{#define-smart-list-for-smart-campaign-batch}
 
-智慧型清單是整個行銷人員定義要納入的「誰」（哪些人）的機制，不論是報表、清單或智慧型促銷活動。 以下是如何定義批次促銷活動的智慧清單。
+智慧型清單是整個Marketo的機制，可定義要包含的「誰」（哪些人），不論是報表、清單或智慧型促銷活動。 以下是如何定義批次促銷活動的智慧清單。
 
 1. 選擇智慧型促銷活動，然後按一下「智慧型清單」**。**
 
