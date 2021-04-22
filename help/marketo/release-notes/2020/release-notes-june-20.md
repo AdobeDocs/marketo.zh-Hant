@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37357276
-description: 發行說明- 2006年6月——行銷檔案——產品檔案
+description: 發行說明- 2006年6月-Marketo文檔——產品文檔
 title: 發行說明- 2002年6月
+exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1073'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：6月20日{#release-notes-june}
 
-6月20日發行包含下列功能。 檢查您的Marketo版本，以取得功能。
+6月20日發行包含下列功能。 查看您的Marketo版功能是否可用。
 
 >[!AVAILABILITY]
 >
