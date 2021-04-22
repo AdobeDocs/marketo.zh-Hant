@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953334
-description: 發行說明- 2014年10月——行銷檔案——產品檔案
+description: 發行說明- 2014年10月-Marketo文檔——產品文檔
 title: 發行說明- 2014年10月
+exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：2014年10月{#release-notes-october}
 
-檢查您的Marketo版本，以取得功能。 檔案將在發行時提供。
+查看您的Marketo版功能是否可用。 檔案將在發行時提供。
 
 ## 行銷行事歷中的方案重點{#program-focus-in-marketing-calendar}
 
@@ -32,15 +32,15 @@ ht-degree: 0%
 
 在[developers.marketo.com](https://developers.marketo.com/documentation/rest/)發行後，將提供完整的詳細資訊。
 
-## MSI —— 向Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}發送電子郵件
+## MSI —— 發送Marketo電子郵件給Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
 [從Microsoft Dynamics傳送及追](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) 蹤銷售電子郵件給潛在客戶和聯絡人。
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
-## MSI —— 新增至Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}的行銷活動
+## MSI —— 添加到Marketo的Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}促銷活動
 
-[直接從Microsoft Dynamics，將銷售機會和連絡人新](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) 增至Marketo智慧型促銷活動。行銷可以選擇哪些Marketo促銷活動可供銷售。
+[直接在Microsoft Dynamics中將客源和聯絡人](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) 新增至Marketo智慧型宣傳。行銷人員可以選擇哪些Marketo促銷活動可供銷售。
 
 ## Microsoft Dynamics Sync {#custom-entity-support-for-microsoft-dynamics-sync}的自訂實體支援
 
