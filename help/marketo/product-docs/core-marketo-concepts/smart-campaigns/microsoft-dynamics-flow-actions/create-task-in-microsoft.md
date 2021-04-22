@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37356429
-description: 在Microsoft —— 行銷檔案——產品檔案中建立工作
+description: 在Microsoft -Marketo文檔——產品文檔中建立任務
 title: 在Microsoft中建立任務
+exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
-
 
 # 在Microsoft {#create-task-in-microsoft}中建立任務
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->當Marketo Sync使用者建立工作時，**到期日**&#x200B;是在Microsoft中建立工作的必填欄位。 如果未輸入值，Marketo預設會輸入5天。
+>當「Marketo同步用戶」建立任務時，**Due In**&#x200B;是在Microsoft中建立任務的必填欄位。 如果未輸入值，Marketo將預設輸入5天。
 
 自訂所有欄位，以您想要的方式建立工作。
 
