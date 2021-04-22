@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719287
-description: 編輯初始欄位對應——行銷人員檔案——產品檔案
+description: 編輯初始欄位映射-Marketo文檔——產品文檔
 title: 編輯初始欄位映射
+exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # 編輯初始欄位映射{#edit-initial-field-mappings}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >此功能僅在初始同步至Salesforce之前才可存取！ 按下&#x200B;**Sync Now**&#x200B;按鈕後，將無法再執行此操作。
 
-在初始同步至Salesforce期間，Marketo會自動將具類似名稱的自訂欄位結合至Marketo側的單一欄位，以確保資料可與CRM中的Lead和Contact物件交換。 本文說明如何自訂這些對應。
+在初始同步至Salesforce期間，Marketo會自動將類似命名的自訂欄位結合至Marketo一方的單一欄位，以確保資料可與CRM中的Lead和Contact物件交換。 本文說明如何自訂這些對應。
 
 ## 映射未映射欄位{#map-unmapped-fields}
 
