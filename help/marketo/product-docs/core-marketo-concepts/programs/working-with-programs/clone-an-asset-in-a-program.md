@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147152
-description: 在計畫中仿製資產——行銷人員檔案——產品檔案
+description: 在計畫中克隆資產-Marketo文檔——產品文檔
 title: 在程式中複製資產
+exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
-
 
 # 在程式{#clone-an-asset-in-a-program}中克隆資產
 
