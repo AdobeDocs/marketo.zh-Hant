@@ -1,19 +1,19 @@
 ---
 unique-page-id: 5472404
-description: 找出人員活動記錄——行銷檔案——產品檔案
+description: 找到人員活動日誌-Marketo文檔——產品文檔
 title: 查找人員的活動日誌
+exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-
 # 找到{#locate-the-activity-log-for-a-person}人員的活動日誌
 
-活動日誌是真相的終極來源。 這是一個人在Marketo旅程的完整故事。
+活動日誌是真相的終極來源。 這是一個人在Marketo旅行的完整故事。
 
 1. 轉至&#x200B;**Database**。
 
