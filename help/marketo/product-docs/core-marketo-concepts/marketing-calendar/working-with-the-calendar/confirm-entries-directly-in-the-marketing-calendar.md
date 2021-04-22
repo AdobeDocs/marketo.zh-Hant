@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953362
-description: 直接在行銷行事歷——行銷檔案——產品檔案中確認項目
+description: 直接在行銷行事歷中確認項目-Marketo檔案——產品檔案
 title: 直接在行銷日曆中確認項目
+exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # 直接在行銷日曆中確認項目{#confirm-entries-directly-in-the-marketing-calendar}
 
