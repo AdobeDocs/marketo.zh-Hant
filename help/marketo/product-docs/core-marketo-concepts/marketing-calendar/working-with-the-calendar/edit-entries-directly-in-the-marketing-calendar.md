@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953352
-description: 直接在行銷行事歷——行銷檔案——產品檔案中編輯項目
+description: 直接在行銷行事歷-Marketo檔案——產品檔案中編輯項目
 title: 直接在行銷日曆中編輯項目
+exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
-
 
 # 直接在行銷行事歷中編輯項目{#edit-entries-directly-in-the-marketing-calendar}
 
