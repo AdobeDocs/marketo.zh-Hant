@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355534
-description: 發行說明- 2020年1月——行銷檔案——產品檔案
+description: 發行說明- 2020年1月-Marketo文檔——產品文檔
 title: 發行說明- 2020年1月
+exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：2020年1月{#release-notes-jan}
 
-1月20日發行包含下列功能。 檢查您的Marketo版本，以取得功能。
+1月20日發行包含下列功能。 查看您的Marketo版功能是否可用。
 
 >[!AVAILABILITY]
 >
@@ -32,7 +32,7 @@ ht-degree: 0%
 >目前，FirefoxAEM僅完全支援「資產選擇器」。 Safari不支援此功能，而且可能無法在最新版Chrome（80版）中運作，視您的SameSite Cookie設定而定。
 
 * **Microsoft Dynamics —— 即時同步銷售線索至CRM**:即時同步Marketo Engage與Microsoft Dynamics之間的客源與聯絡人。使用「將人員同步至Microsoft」流程動作，建立潛在客戶或連絡人，並立即在Microsoft Dynamics中查看他們。
-* **LinkedIn銷售機會Forms附加欄位映射**:從LinkedIn銷售線索源Forms擷取銷售線索資料，為銷售和行銷觸點建立更相關的體驗。提取隱藏欄位、同意欄位，測試引導欄位進入Marketo Engage。
+* **linkedIn首發Forms附加現場測繪**:從LinkedIn銷售線索源Forms獲取銷售線索資料，為銷售和營銷觸點建立更相關的體驗。提取隱藏欄位、同意欄位，測試引導欄位進入Marketo Engage。
 * **電子郵件範本相依性API**:取得依賴電子郵件範本的資產清單，以瞭解潛在變更範圍，並加快範本的變更和刪除速度。
 * **多執行個體管理增強功能**:使用訂閱的可捲動和字母順序下拉式選單，快速導覽至您需要的例項。
 
