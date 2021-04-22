@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12255606
-description: 發行說明- 17年冬季——行銷檔案——產品檔案
+description: 發行說明- 17年冬季-Marketo文檔——產品文檔
 title: 發行說明- 17年冬季
+exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：冬季&#39;17 {#release-notes-winter}
 
-Winter &#39;17版本包含下列功能。 檢查您的Marketo版本，以取得功能。
+Winter &#39;17版本包含下列功能。 查看您的Marketo版功能是否可用。
 
 請按一下標題連結，以檢視每個功能的詳細文章。
 
@@ -21,7 +21,7 @@ Winter &#39;17版本包含下列功能。 檢查您的Marketo版本，以取得�
 >
 >如果主題有多個子標題，則會將連結放在此處。
 
-## [Facebook自訂對象的進階比對](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## [facebook自訂觀眾的進階比對](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
 「基本符合」僅使用電子郵件地址，但新的「進階符合」則使用額外的7個欄位，提高了比對率，以便進行更多轉換。
 
@@ -29,7 +29,7 @@ Winter &#39;17版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 ## [自訂物件匯入API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
-此API提供更快速的介面，可將自訂物件同步至Marketo。 您可以將CSV、TSV或SSV試算表檔案匯入Marketto做為自訂物件。
+此API提供更快速的介面，可將自訂物件同步至Marketo。 您可以將CSV、TSV或SSV試算表檔案匯入Marketo做為自訂物件。
 
 ## [Web個人化促銷活動匯出](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
@@ -93,6 +93,6 @@ Winter &#39;17版本包含下列功能。 檢查您的Marketo版本，以取得�
 
 自2017年8月1日起，仍使用舊版Rich Text Editor和Form Editor 1.0的客戶將會自動轉換為新體驗。
 
-## [Marketo Activity API](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
+## [Marketo活動API](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 
-Marketo的活動API即將發生重大變更。 準備好了嗎？
+Marketo的活動API將發生重大變化。 準備好了嗎？
