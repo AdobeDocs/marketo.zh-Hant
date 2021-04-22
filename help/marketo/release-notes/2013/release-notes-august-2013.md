@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951058
-description: 發行說明- 2013年8月——行銷檔案——產品檔案
+description: 發行說明- 2013年8月-Marketo文檔——產品文檔
 title: 發行說明- 2013年8月
+exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
 
 ---
-
 
 # 發行說明：2013年8月{#release-notes-august}
 
@@ -49,11 +49,11 @@ ht-degree: 0%
 
 ## 自動觸發促銷活動清除{#automatic-trigger-campaign-cleanup}
 
-Marketo現在會定期通知您，並且[會自動停用過去6個月中未執行的觸發促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
+Marketo現在會定期通知您，並且[會自動停用過去6個月未執行的觸發促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
-## Marketo Financial Management增強功能{#marketo-financial-management-enhancement}
+## Marketo財務管理增強{#marketo-financial-management-enhancement}
 
 ### 方案成本更新{#program-cost-update}
 
@@ -61,4 +61,4 @@ Marketo現在會定期通知您，並且[會自動停用過去6個月中未執�
 
 ### Cobalt用戶介面{#cobalt-user-interface}
 
-我們將繼續推出新的Cobalt介面。 這個專案將讓Marketo的一切變得快如閃電！ 升級將持續到本年度的其餘時間。
+我們將繼續推出新的Cobalt介面。 這個項目將讓Marketo的一切都變得快如閃電！ 升級將持續到本年度的其餘時間。
