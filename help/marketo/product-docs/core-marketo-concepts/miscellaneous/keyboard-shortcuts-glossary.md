@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147318
-description: 鍵盤快速鍵辭彙表——行銷檔案——產品檔案
+description: 鍵盤快速鍵辭彙表-Marketo文檔——產品文檔
 title: 鍵盤快速鍵辭彙表
+exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # 鍵盤快速鍵辭彙表{#keyboard-shortcuts-glossary}
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 | Alt/Opt + L | 資料庫 |
 | Alt/Opt + M | 行銷活動 |
 | 選擇+ N | 管理員 |
-| 選擇+ O | 我的行銷人員 |
+| 選擇+ O | 我的Marketo |
 | Alt/Opt + S | 下拉式超級球功能表 |
 
 ## 日曆／計畫視圖導航： {#calendar-schedule-view-navigation}
