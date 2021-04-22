@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949678
-description: SEO —— 從清單新增／移除關鍵字——行銷檔案——產品檔案
+description: SEO —— 從清單新增／移除關鍵字-Marketo檔案——產品檔案
 title: SEO —— 從清單新增／移除關鍵字
+exl-id: c03416b6-796b-4255-8f19-2087b215be05
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # SEO —— 從清單{#seo-add-remove-keywords-from-a-list}新增／移除關鍵字
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
-1. 按一下清單，關鍵字便會新增。
+1. 按一下清單，即會新增關鍵字。
 
    ![](assets/image2014-9-18-11-3a48-3a47.png)
 
