@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10100311
-description: 使用通用ID進行訂閱登入——行銷檔案——產品檔案
+description: 使用通用ID進行訂閱登入-Marketo檔案——產品檔案
 title: 使用通用ID進行訂閱登入
+exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 0%
 
 ---
-
 
 # 使用通用ID進行訂閱登入{#using-a-universal-id-for-subscription-login}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 設定通用ID {#setting-up-a-universal-id}
 
-您的行銷人員必須從每個個別例項，邀請您使用相同登入方式加入您的每個不同訂閱。 Marketto無法自動合併您現有的登入。 啟用Universal ID後，**您的Marketo例項最多30分鐘將無法使用**。 如果您的使用者群較大，可能會比較長。
+您的Marketo管理員必須從每個個別的例項邀請您使用相同的登入，加入您的每個不同訂閱。 Marketo無法自動合併您現有的登入。 啟用Universal ID後，您的Marketo例項最多30分鐘內將無法使用&#x200B;**。**&#x200B;如果您的使用者群較大，可能會比較長。
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 登入{#logging-in}
 
-當您登入以接受使用通用ID的第二個訂閱邀請時，您會看到「選擇登入」登入頁面。 您必須勾選核取方塊才能接受條款與條件。 在您接受後，您將會看到任何後續登入的正常重設頁面，而非此頁面。 接受條款與條件後，即可讓Marketer將您的基本個人檔案資料（例如名字、姓氏和電子郵件地址）散發至您托管訂閱之不同位置的資料中心。
+當您登入以接受使用通用ID的第二個訂閱邀請時，您會看到「選擇登入」登入頁面。 您必須勾選核取方塊才能接受條款與條件。 在您接受後，您將會看到任何後續登入的正常重設頁面，而非此頁面。 接受條款與條件後，您即允許Marketo將您的基本個人檔案資料（例如名字、姓氏和電子郵件地址）分發至您托管訂閱之不同位置的資料中心。
 
 ![](assets/new-login-reduced-hands-name.png)
 
@@ -43,13 +43,13 @@ ht-degree: 0%
 
 ## 密碼{#passwords}
 
-使用適用於多個訂閱的通用ID,Marketo會自動實施最嚴格的密碼政策。 例如，如果某些訂閱需要最小密碼長度，而其他訂閱則不需要，則所有訂閱都會強制執行最小長度。
+有了適用於多個訂閱的Universal ID,Marketo會自動執行最嚴格的密碼政策。 例如，如果某些訂閱需要最小密碼長度，而其他訂閱則不需要，則所有訂閱都會強制執行最小長度。
 
 使用適用於多個訂閱的通用ID時，只有您可以變更密碼。
 
 >[!NOTE]
 >
->如果目前訂閱的密碼不符合第二個受邀訂閱的密碼政策，Marketo會要求想要使用Universal ID的使用者重設密碼。
+>Marketo會要求使用Universal ID的使用者若目前訂閱的密碼不符合第二份訂閱的密碼政策，則重設密碼。
 
 ## 在預訂之間切換{#switching-between-subscriptions}
 
@@ -65,11 +65,11 @@ ht-degree: 0%
 
 ## 行動平台{#mobile-platform}
 
-使用通用ID的使用者可從上次登入的訂閱，在Marketo Moments和iPad事件登入應用程式中查看其資料。 您無法從行動平台本身變更訂閱。
+使用通用ID的使用者可在「Marketo時刻」和iPad事件登入應用程式中，從他們上次登入的訂閱中看到其資料。 您無法從行動平台本身變更訂閱。
 
 >[!MORELIKETHIS]
 >
 >* [將單一登入新增至入口網站](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
 >* [僅限使用者登入SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [邀請Marketo使用者使用兩個具有通用ID的例項](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [邀請Marketo用戶使用兩個具有通用ID的實例](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
