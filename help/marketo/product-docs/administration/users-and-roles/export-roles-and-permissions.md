@@ -1,14 +1,14 @@
 ---
-description: 匯出角色和權限——行銷人員檔案——產品檔案
+description: 匯出角色和權限-Marketo檔案——產品檔案
 title: 匯出角色和權限
+exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
-
 
 # 導出角色和權限{#export-roles-and-permissions}
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >需要管理員權限
 
-1. 在我的行銷工具中，按一下&#x200B;**管理**。
+1. 在「我的Marketo」中，按一下&#x200B;**管理**。
 
    ![](assets/export-roles-and-permissions-1.png)
 
