@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147019
-description: 轉換人員——行銷人員——檔案——產品檔案
+description: 轉換人員-Marketo文檔——產品文檔
 title: 轉換人員
+exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
-
 
 # 轉換人員{#convert-person}
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >將Marketing中的人員轉換為Salesforce中的人員，將產生新帳戶和商機。 如果您不想要重複的帳戶，請使用Salesforce進行轉換。
+   >在Marketo轉換人員將會在Salesforce中產生新的帳戶和機會。 如果您不想要重複的帳戶，請使用Salesforce進行轉換。
 
 1. 選擇是否要將&#x200B;**通知**&#x200B;發送給所有者。
 
