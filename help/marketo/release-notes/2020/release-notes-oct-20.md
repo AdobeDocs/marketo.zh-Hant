@@ -1,19 +1,19 @@
 ---
 unique-page-id: 45416698
-description: 發行說明- 10月20日——行銷檔案——產品檔案
+description: 發行說明- 10月20日-Marketo文檔——產品文檔
 title: 發行說明- 2002年10月
+exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：10月20日{#release-notes-oct}
 
-1920年10月發行包含下列功能。 檢查您的Marketo版本，以取得功能。
+1920年10月發行包含下列功能。 查看您的Marketo版功能是否可用。
 
 >[!AVAILABILITY]
 >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 網站行銷{#website-marketing}
 
-* **內嵌表單代碼自動化**:透過內嵌在Marketo以外托管之安全登陸頁面中的Marketo Engage表單，獲取更多潛在客戶。表單內嵌程式碼會自動更新以包含登陸頁面網域名稱，並免除網頁開發人員的手動工作。 程式碼連結中的自訂網域可改善網站導覽體驗和表單使用率。
+* **內嵌表單代碼自動化**:透過內嵌在Marketo境外托管之安全登陸頁面中的Marketo Engage表單，獲取更多客源。表單內嵌程式碼會自動更新以包含登陸頁面網域名稱，並免除網頁開發人員的手動工作。 程式碼連結中的自訂網域可改善網站導覽體驗和表單使用率。
 
 ## Experience Cloud整合{#experience-cloud-integration}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 付費媒體定位{#paid-media-targeting}
 
-* **Facebook銷售線索廣告整合**:Facebook表單追蹤參數現在可以透過Facebook潛在客戶廣告的LaunchPoint服務加以擷取。這些隱藏欄位現在可以對應至Marketto欄位，讓行銷人員儲存並處理重要的促銷活動追蹤資料。
+* **Facebook線索廣告整合**:Facebook表單追蹤參數現在可透過Facebook銷售機會廣告的LaunchPoint服務擷取。這些隱藏欄位現在可以對應至Marketo欄位，讓行銷人員儲存並處理重要的促銷活動追蹤資料。
 
 ## 管理{#administration}
 
