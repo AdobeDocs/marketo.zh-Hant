@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146944
-description: 將流程步驟新增至智慧型促銷活動——行銷人員檔案——產品檔案
+description: 將流程步驟新增至智慧型促銷活動-Marketo檔案——產品檔案
 title: 新增流量步驟至智慧型促銷活動
+exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
-
 # 新增流量步驟至智慧型促銷活動{#add-a-flow-step-to-a-smart-campaign}
 
-流程步驟會告訴Market，您希望對符合資格的一群人發生什麼。 這些是您的指示，智慧型促銷活動將完成您的競標！
+流程步驟告訴Marketo，您希望對符合資格的一群人產生什麼影響。 這些是您的指示，智慧型促銷活動將完成您的競標！
 
 1. 前往&#x200B;**行銷活動**。
 
