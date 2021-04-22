@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949228
-description: SEO —— 取得傳入連結建議——行銷檔案——產品檔案
+description: SEO —— 取得傳入連結建議-Marketo檔案——產品檔案
 title: SEO —— 取得傳入連結建議
+exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-
 # SEO —— 獲取入站連結建議{#seo-get-inbound-link-suggestions}
 
-Marketo可建議哪些傳入連結對您的[離頁最佳化](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)有價值。
+Marketo可以建議哪些傳入連結對您的[離頁最佳化](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)很有用。
 
 1. 轉至&#x200B;**入站連結**&#x200B;部分。
 
