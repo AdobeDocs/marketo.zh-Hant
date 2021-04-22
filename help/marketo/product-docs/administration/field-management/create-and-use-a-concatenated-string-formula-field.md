@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360337
-description: 建立和使用串連字串（公式）欄位——行銷人員檔案——產品檔案
+description: 建立和使用串連字串（公式）欄位-Marketo檔案——產品檔案
 title: 建立和使用串連字串（公式）欄位
+exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 translation-type: tm+mt
-source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-
 # 建立和使用串連字串（公式）欄位{#create-and-use-a-concatenated-string-formula-field}
 
-您可以合併多個欄位的值，或使用「行銷人員公式」欄位建立條件值。
+您可以結合多個欄位的值，或使用「Marketo公式」欄位建立條件值。
 
 1. 前往&#x200B;**Admin**，然後按一下「欄位管理」。****
 
