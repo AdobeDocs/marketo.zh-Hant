@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949273
-description: SEO —— 使用關鍵字趨勢報表——行銷檔案——產品檔案
+description: SEO —— 使用關鍵字趨勢報表-Marketo文檔——產品文檔
 title: SEO —— 使用關鍵字趨勢報表
+exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
 
 ---
-
 
 # SEO —— 使用關鍵字趨勢報表{#seo-use-the-keyword-trends-report}
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 >
 >您可以將此報表匯出至您的案頭。
 
-1. 按一下「匯出CSV」或「匯出PDF」。
+1. 按一下「匯出CSV」或「Export PDF」。
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
@@ -63,4 +63,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >[使用競爭KW排名趨勢報表](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
-
