@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10094647
-description: 設定預設自訂欄位首碼——行銷檔案——產品檔案
+description: 設定預設自訂欄位首碼-Marketo檔案——產品檔案
 title: 設定預設自訂欄位首碼
+exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
 # 設定預設自訂欄位首碼{#set-a-default-custom-field-prefix}
 
-您自訂欄位的預設Microsoft Dynamics首碼必須為&#x200B;**new**,Marketo專屬欄位才能正確同步。 以下是如何變更預設首碼。
+自訂欄位的預設Microsoft Dynamics首碼必須為&#x200B;**new**,Marketo專屬欄位才能正確同步。 以下是如何變更預設首碼。
 
 1. 轉至「設定」並選擇「**自定義」。**
 
