@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512270
-description: 將Adobe Connect新增為LaunchPoint服務——行銷人員檔案——產品檔案
+description: 將Adobe Connect加入LaunchPoint服務-Marketo文檔——產品文檔
 title: 將Adobe Connect新增為LaunchPoint服務
+exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
+# 將Adobe Connect添加為LaunchPoint服務{#add-adobe-connect-as-a-launchpoint-service}
 
-# 將Adobe Connect新增為LaunchPoint服務{#add-adobe-connect-as-a-launchpoint-service}
-
-Market來管理您的Adobe Connect網路研討會註冊和出席情況。
+Marketo管理您的Adobe Connect網路研討會註冊與出席情況。
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ Market來管理您的Adobe Connect網路研討會註冊和出席情況。
 
 >[!NOTE]
 >
->此步驟需要現有的Adobe Connect訂閱和管理權限。 現有下列設定：用戶名、密碼、參與者密碼和會議資料夾URL。
+>此步驟需要現有的Adobe Connect訂閱和行政權。 現有下列設定：用戶名、密碼、參與者密碼和會議資料夾URL。
 
 >[!NOTE]
 >
->目前不支援Adobe Connect現場服務。
+>Adobe Connect現場服務目前不受支援。
 
 1. 前往&#x200B;**Admin**，然後按一下&#x200B;**LaunchPoint**。
 
@@ -35,7 +35,7 @@ Market來管理您的Adobe Connect網路研討會註冊和出席情況。
 
    ![](assets/image2015-4-22-11-3a40-3a19.png)
 
-1. 輸入&#x200B;**顯示名稱**。 在&#x200B;**Service**&#x200B;下，選擇Adobe Connect。
+1. 輸入&#x200B;**顯示名稱**。 在&#x200B;**Service**&#x200B;下，選擇「Adobe Connect」。
 
    ![](assets/new-service-adobe-connect.png)
 
@@ -53,7 +53,7 @@ Market來管理您的Adobe Connect網路研討會註冊和出席情況。
 
    >[!NOTE]
    >
-   >您登入Adobe Connect帳戶後，請選取「**研討會**」標籤。 不需深入探究任何特定研討會，請將瀏覽器列的URL複製至&#x200B;**會議資料夾URL**&#x200B;設定。
+   >登入您的Adobe Connect帳戶後，請選擇&#x200B;**研討會**&#x200B;標籤。 不需深入探究任何特定研討會，請將瀏覽器列的URL複製至&#x200B;**會議資料夾URL**&#x200B;設定。
 
 您的Adobe Connect服務現在與Marketo同步！
 
@@ -61,4 +61,4 @@ Market來管理您的Adobe Connect網路研討會註冊和出席情況。
 
 >[!MORELIKETHIS]
 >
->瞭解如何使用Adobe Connect[建立事件。](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
+>瞭解如何使用Adobe Connect建立事件。[](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
