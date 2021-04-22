@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557331
-description: 在收入階段尋找所有人——行銷檔案——產品檔案
+description: 在收入階段尋找所有人-Marketo檔案——產品檔案
 title: 在收入階段中尋找所有人
+exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # 在收入階段{#find-all-people-in-a-revenue-stage}中尋找所有人
 
