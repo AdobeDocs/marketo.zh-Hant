@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147237
-description: 依期間成本篩選計畫報表——行銷檔案——產品檔案
+description: 按期間成本篩選計畫報表-Marketo文檔——產品文檔
 title: 按期間成本篩選方案報表
+exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
-
 
 # 按期間成本{#filter-a-program-report-by-period-cost}篩選程式報表
 
