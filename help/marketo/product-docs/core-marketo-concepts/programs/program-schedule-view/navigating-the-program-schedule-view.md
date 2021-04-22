@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147100
-description: 導覽計畫排程檢視——行銷人員檔案——產品檔案
+description: 導覽計畫排程檢視-Marketo檔案——產品檔案
 title: 導航程式計畫視圖
+exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 
 ---
-
 
 # 導航程式計畫視圖{#navigating-the-program-schedule-view}
 
