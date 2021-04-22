@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949243
-description: SEO —— 從關鍵字檢視新增／移除欄——行銷人員檔案——產品檔案
+description: SEO —— 從關鍵字檢視新增／移除欄-Marketo檔案——產品檔案
 title: SEO —— 從關鍵字檢視新增／移除欄
+exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
-
 
 # SEO —— 從關鍵字檢視{#seo-add-remove-columns-from-your-keywords-view}新增／移除欄
 
