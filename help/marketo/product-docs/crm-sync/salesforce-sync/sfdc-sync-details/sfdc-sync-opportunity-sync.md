@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953467
-description: SFDC同步——機會同步——行銷文檔——產品文檔
+description: SFDC同步——機會同步-Marketo文檔——產品文檔
 title: SFDC同步——機會同步
+exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
-
 
 # SFDC同步：機會同步{#sfdc-sync-opportunity-sync}
 
@@ -19,19 +19,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您在Marketo中為Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)輸入的[憑證可用來同步資料。 只有這些認證有權存取的資料才會包含在內。
+>您在Marketo為Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)輸入的[憑證可用來同步資料。 只有這些認證有權存取的資料才會包含在內。
 
 ## 我是否可以啟動Opportunity Sync?{#can-i-initiate-an-opportunity-sync}
 
 不行。Salesforce中任何商機的變更都會自動同步至Marketo。
 
-## Market是否支援Opportunity Amount中的多種貨幣？{#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
+## Marketo是否支援Opportunity Amount中的多種貨幣？{#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-不行，Marketo僅支援一種貨幣。 業務機會金額將與Salesforce同步，但貨幣將是您Marketo訂閱中的[預設貨幣](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription)。
+不，Marketo只支援一種貨幣。 業務機會金額將與Salesforce同步，但貨幣將是您的Marketo訂閱中的[預設貨幣](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription)。
 
-## Market如何將機會和聯繫人關聯起來？{#how-does-marketo-associate-opportunities-and-contacts}
+## Marketo如何聯繫機會和聯繫？{#how-does-marketo-associate-opportunities-and-contacts}
 
-Marketo使用[Opportunity Contact Roles](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm)將Opportunity和Contact關聯起來。 未分配任何聯繫人角色的業務機會將同步到Marketo，但不屬於任何人。 例如，該人員將不符合Has Opportunity篩選條件。
+Marketo使用[Opportunity Contact Roles](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm)聯繫機會和聯繫人。 未分配任何聯繫人角色的機會將同步到Marketo，但不屬於任何人。 例如，該人員將不符合Has Opportunity篩選條件。
 
 ## 我如何看到一個人的所有機會？{#how-can-i-see-all-the-opportunities-of-a-person}
 
