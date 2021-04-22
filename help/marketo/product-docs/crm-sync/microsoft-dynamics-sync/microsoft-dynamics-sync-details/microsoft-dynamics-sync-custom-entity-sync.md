@@ -1,19 +1,19 @@
 ---
 unique-page-id: 3571846
-description: Microsoft Dynamics Sync —— 自訂實體同步——行銷檔案——產品檔案
+description: Microsoft Dynamics Sync —— 自訂實體同步-Marketo文檔——產品文檔
 title: Microsoft Dynamics Sync —— 自訂實體同步
+exl-id: 1e175bd4-509f-4c1f-a41d-456629e4a8fb
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-
 # Microsoft Dynamics Sync:自訂實體同步{#microsoft-dynamics-sync-custom-entity-sync}
 
-如果您需要啟用初始自訂實體同步，讓Dynamics中的資料在Marketo中可用，請以下說明如何進行。
+如果您需要啟用初始自訂實體同步，讓Dynamics的資料在Marketo可用，請以下說明如何進行。
 
 >[!NOTE]
 >
@@ -35,9 +35,9 @@ ht-degree: 0%
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. 安裝支援自訂實體同步的Microsoft Dynamics版本（2_0_0_2之後）。 請參閱[Marketo Plugin Releases for MIcrosoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
+1. 安裝支援自訂實體同步的Microsoft Dynamics版本（2_0_0_2之後）。 請參閱[MarketoPlugin Releases for MIcrosoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
 
-1. 為Marketo Sync使用者提供您計畫同步的任何實體的讀取存取權。
+1. 為「Marketo同步用戶」授予您計畫同步的任何實體的讀權限。
 
 1. 在「資料庫管理」下，按一下&#x200B;**Dynamics Entities Sync**&#x200B;連結。
 
