@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147025
-description: 在智慧型促銷活動——行銷檔案——產品檔案中使用網頁掛接
+description: 在智慧型促銷活動中使用網頁掛接-Marketo檔案——產品檔案
 title: 在智慧型促銷活動中使用網頁掛接
+exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
-
 
 # 在智慧型促銷活動中使用網頁掛接{#use-a-webhook-in-a-smart-campaign}
 
