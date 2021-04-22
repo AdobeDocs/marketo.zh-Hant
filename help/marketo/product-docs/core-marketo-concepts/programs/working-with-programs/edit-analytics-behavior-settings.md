@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953405
-description: 編輯Analytics行為設定——行銷檔案——產品檔案
+description: 編輯分析行為設定-Marketo檔案——產品檔案
 title: 編輯Analytics行為設定
+exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # 編輯Analytics行為設定{#edit-analytics-behavior-settings}
 
