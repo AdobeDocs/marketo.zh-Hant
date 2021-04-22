@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11384018
-description: 發行說明- 16年秋季版——行銷檔案——產品檔案
+description: 發行說明- 16年秋季-Marketo文檔——產品文檔
 title: 發行說明- 16年秋季
+exl-id: da935951-162e-426c-acf2-12c55ff706b4
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：秋季&#39;16 {#release-notes-fall}
 
-Fall &#39;16發行包含下列功能。 檢查您的Marketo版本，以取得功能。 請按一下標題連結，以檢視每個功能的詳細文章。
+Fall &#39;16發行包含下列功能。 查看您的Marketo版功能是否可用。 請按一下標題連結，以檢視每個功能的詳細文章。
 
 ## 電子郵件中的預測性內容{#predictive-content-in-email}
 
@@ -31,7 +31,7 @@ Fall &#39;16發行包含下列功能。 檢查您的Marketo版本，以取得功
 
 ## [Facebook離線轉換](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
-透過Facebook離線轉換整合，Marketo中的轉換資料（針對銷售機會廣告）會自動傳回Facebook，讓您的廣告團隊能夠更好地最佳化其廣告支出。 在此Facebook廣告管理員報表中，會反白顯示離線轉換。
+透過Facebook離線轉換整合，Marketo（針對銷售機會）的轉換資料會自動傳回Facebook，讓您的廣告團隊能夠更好地最佳化其廣告支出。 在此Facebook廣告管理員報表中，會反白顯示離線轉換。
 
 ![](assets/facebook.png)
 
@@ -43,7 +43,7 @@ Fall &#39;16發行包含下列功能。 檢查您的Marketo版本，以取得功
 
 >[!NOTE]
 >
->請連絡行銷支援以啟用此功能。
+>請聯絡Marketo支援以啟用此功能。
 
 ## Marketo帳戶型行銷增強功能{#marketo-account-based-marketing-enhancements}
 
@@ -53,11 +53,11 @@ Fall &#39;16發行包含下列功能。 檢查您的Marketo版本，以取得功
 
 **REST API**
 
-此版本也可讓您使用Marketo REST API在ABM中管理指名的帳戶屬性和帳戶分數。 有關API操作的詳細資訊，請造訪[行銷人員網站](https://developers.marketo.com/rest-api/lead-database/named-accounts)。
+此版本也可讓您使用MarketoREST API在ABM中管理指名的帳戶屬性和帳戶分數。 有關API操作的詳細資訊，請訪問[Marketo開發人員網站](https://developers.marketo.com/rest-api/lead-database/named-accounts)。
 
 ## [稽核記錄增強功能](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
-稽核記錄提供您Marketo訂閱中所做變更的完整記錄。 我們新增了程式的其他追蹤功能，並呈現智慧型促銷活動、智慧型清單以及使用者和角色所做變更的重要變更細節。
+稽核記錄提供您在Marketo訂閱中所做變更的完整記錄。 我們新增了程式的其他追蹤功能，並呈現智慧型促銷活動、智慧型清單以及使用者和角色所做變更的重要變更細節。
 
 ## [新權限](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
 
@@ -87,12 +87,12 @@ Market Sales Insight現在與Salesforce Shield Encryption相容。 所有Sales I
 
 ## [命名帳戶API](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
-在此版本中，Marketo ABM使用者可以透過命名帳戶API管理命名帳戶。 使用者可建立、更新和刪除指名帳戶，以及讀取和更新ABM指名帳戶分數。
+在此版本中，MarketoABM用戶可以通過命名帳戶API管理命名帳戶。 使用者可建立、更新和刪除指名帳戶，以及讀取和更新ABM指名帳戶分數。
 
 ## [電子郵件編輯器2.0版API支援](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
-使用Marketo REST API，以v2.0格式管理電子郵件的變數和模組。
+使用MarketoREST API，以v2.0格式管理電子郵件的變數和模組。
 
-## [Marketing對Salesforce同步的變更](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
+## [對MarketoSalesforce同步的變更](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Marketo與Salesforce的整合不斷改進，以改善Marketo欄位與Salesforce同步的方式。 現在，您不必同步可能或可能不需要的大型欄位群組，而可以選擇您要包含的欄位。 請參閱我們的檔案，以取得更多資訊：[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840)。
+Marketo的Salesforce整合不斷改進，以改善Marketo欄位與Salesforce同步的方式。 現在，您不必同步可能或可能不需要的大型欄位群組，而可以選擇您要包含的欄位。 請參閱我們的檔案，以取得更多資訊：[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840)。
