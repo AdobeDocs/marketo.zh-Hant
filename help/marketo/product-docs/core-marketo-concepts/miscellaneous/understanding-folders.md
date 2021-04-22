@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720779
-description: 瞭解資料夾——行銷人員檔案——產品檔案
+description: 瞭解資料夾-Marketo文檔——產品文檔
 title: 瞭解資料夾
+exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
 
 ---
-
 
 # 瞭解資料夾{#understanding-folders}
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## 封存資料夾{#archive-a-folder}
 
-在Market中，您可以將現有的資料夾轉換為封存資料夾。 Marketing Activitys、Database和Design Studio中存在封存檔案夾。
+在Marketo，您可以將現有資料夾轉換為「存檔」資料夾。 Marketing Activitys、Database和Design Studio中存在封存檔案夾。
 
 ![](assets/image2015-4-20-19-3a3-3a46.png)
 
