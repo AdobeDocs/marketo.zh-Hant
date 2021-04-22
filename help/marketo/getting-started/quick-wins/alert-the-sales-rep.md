@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359424
-description: 提醒銷售代表——行銷人員文檔——產品文檔
+description: 提醒銷售代表-Marketo文檔——產品文檔
 title: 提醒銷售代表
+exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 0%
 
 ---
-
 
 # 提醒銷售代表{#alert-the-sales-rep}
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 ## 步驟2:建立警報觸發器促銷活動{#step-create-an-alert-trigger-campaign}
 
-1. 選擇「我的程式」(**My Program)**&#x200B;先前建立的，然後在&#x200B;**「新建」(New)**&#x200B;下，按一下「新建智慧促銷活動」(New Smart Campaign)**。**
+1. 選擇「我的程式」(**My Program)**&#x200B;先前建立的，然後在&#x200B;**New**&#x200B;下按一下「New Smart Campaign」（新建智慧促銷活動）**。**
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
@@ -97,7 +97,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-13-3a15-3a10.png)
 
-1. 選擇&#x200B;**My Alert Email**&#x200B;之前建立的&#x200B;**將&lt;a2/>Send To**&#x200B;保留為&#x200B;**Sales Owner**。
+1. 選擇&#x200B;**My Alert Email**&#x200B;之前建立的&#x200B;**將Send To**&#x200B;保留為&#x200B;**Sales Owner**。
 
    ![](assets/eighteen-1.png)
 
@@ -135,7 +135,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >按一下Market中的&#x200B;**人員資訊**&#x200B;標籤，以檢視連絡資訊。
+   >按一下Marketo的&#x200B;**人員資訊**&#x200B;頁籤查看聯繫資訊。
 
 ## 任務完成！{#mission-complete}
 
