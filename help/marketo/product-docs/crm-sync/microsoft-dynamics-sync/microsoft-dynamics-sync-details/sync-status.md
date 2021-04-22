@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10097584
-description: 同步狀態——行銷人員檔案——產品檔案
+description: 同步狀態-Marketo文檔——產品文檔
 title: 同步狀態
+exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
-
 
 # 同步狀態{#sync-status}
 
