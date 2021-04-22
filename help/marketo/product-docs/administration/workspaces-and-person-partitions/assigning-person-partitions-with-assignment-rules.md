@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360327
-description: 使用分配規則分配人員分區——行銷人員文檔——產品文檔
+description: 使用分配規則分配人員分區-Marketo文檔——產品文檔
 title: 使用分配規則分配人員分區
+exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # 使用分配規則{#assigning-person-partitions-with-assignment-rules}分配人員分區
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->只有從CRM和透過SOAP API在Marketto中建立的人員，才會套用指派規則。
+>只有在Marketo從您的CRM和透過SOAP API建立的人員，才會套用指派規則。
 
 1. 在「管理」下，按一下「工作區與分區」。
 
