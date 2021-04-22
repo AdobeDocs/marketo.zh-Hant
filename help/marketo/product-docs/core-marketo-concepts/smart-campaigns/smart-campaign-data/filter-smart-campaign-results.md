@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147068
-description: 篩選智慧型促銷活動結果——行銷人員檔案——產品檔案
+description: 篩選智慧型促銷活動結果-Marketo檔案——產品檔案
 title: 篩選智慧型促銷活動結果
+exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # 篩選智慧型促銷活動結果{#filter-smart-campaign-results}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/saveasfilter-hands.png)
 
-1. 自訂篩選器將套用至您的結果，現在可在下拉式清單中使用（您可能需要重新整理頁面才能在下拉式清單中查看）。
+1. 自訂篩選器將套用至您的結果，現在可在下拉式清單中使用（您可能必須重新整理頁面，才能在下拉式清單中檢視它）。
 
    ![](assets/customfilter-hands.png)
 
