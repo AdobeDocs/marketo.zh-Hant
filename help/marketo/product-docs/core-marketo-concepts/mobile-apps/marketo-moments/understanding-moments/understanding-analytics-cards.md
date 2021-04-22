@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8781988
-description: 瞭解Analytics卡片——行銷人員檔案——產品檔案
+description: 瞭解Analytics卡-Marketo文檔——產品文檔
 title: 瞭解Analytics卡片
+exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
 
 ---
 
-
 # 瞭解Analytics卡片{#understanding-analytics-cards}
 
-在每個月初，Marketo Monts會提供3種不同的報表卡：已獲取的銷售線索、新銷售線索和取消訂閱。 每張圖顯示您每月的績效和6個月期間的趨勢。
+在每個月初，「Marketo時刻」提供3種不同的報表卡：已獲取的銷售線索、新銷售線索和取消訂閱。 每張圖顯示您每月的績效和6個月期間的趨勢。
 
 ## Analytics卡片{#analytics-cards}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [瞭解行銷人員時刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [瞭解Marketo時刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [瞭解事件卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [瞭解電子郵件計畫卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 
