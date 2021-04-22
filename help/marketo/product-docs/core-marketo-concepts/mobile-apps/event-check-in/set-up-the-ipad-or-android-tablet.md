@@ -1,51 +1,51 @@
 ---
 unique-page-id: 10099363
-description: 設定iPad或Android平板裝置——行銷檔案——產品檔案
+description: 設定iPad或Android平板電腦-Marketo檔案——產品檔案
 title: 設定iPad或Android平板電腦
+exl-id: ccfd48dc-ca8d-442f-87fd-f16b34d1a76c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
 
 ---
 
-
 # 設定iPad或Android平板電腦{#set-up-the-ipad-or-android-tablet}
 
-為了在活動日獲得流暢的體驗，請準備您的iPad或Android平板電腦，並在活動前測試Marketo Events應用程式。
+為了在活動日獲得流暢的體驗，請準備您的iPad或Android平板電腦，並在活動前測試Marketo事件應用程式。
 
-在Marketo中建立事件後，當您登入時，事件會載入至Marketo Events iPad或Android應用程式，如果：
+當您在Marketo建立事件後，事件會在您登入時載入Marketo事件iPad或Android應用程式，如果是：
 
 * 帳戶可存取您的資料庫
-* 事件排程在時段中的日期，該日期是從目前日期的前一週開始，直到一週之後結束
+* 事件排程在時段中的日期，該日期在目前日期的前一週開始，並在後一週結束
 * 活動是在適當的頻道（例如Roadshow）中建立的
 
 >[!NOTE]
 >
 >您必須連線至網際網路才能下載應用程式。
 
-## 下載並安裝Marketo Events iPad應用程式{#download-and-install-the-marketo-events-ipad-app}
+## 下載並安裝Marketo事件iPad應用程式{#download-and-install-the-marketo-events-ipad-app}
 
-如果您的iPad尚未安裝Marketo Events應用程式，請以下說明如何取得。
+如果您的iPad尚未安裝Marketo事件應用程式，請看如何取得。
 
 1. 開啟您的iPad並啟動App Store。
 
    ![](assets/image2016-4-14-15-3a52-3a19.png)
 
-1. 在搜尋方塊中，輸入&#x200B;**Marketo**，並在「建議」中，點選&#x200B;**marketo events**。
+1. 在搜尋方塊中輸入&#x200B;**Marketo**，在「建議」中，點選&#x200B;**marketo events**。
 
    ![](assets/image2016-4-14-16-3a0-3a3.png)
 
 1. 請依照程式，在您的iPad上下載並安裝應用程式。
 
-## 下載並安裝Marketo Events Android應用程式{#download-and-install-the-marketo-events-android-app}
+## 下載並安裝Marketo事件Android應用程式{#download-and-install-the-marketo-events-android-app}
 
-如果您的Android平板電腦尚未安裝Marketo Events應用程式，請看如何取得。
+如果您的Android平板電腦尚未安裝Marketo事件應用程式，請看如何取得。
 
 1. 開啟您的平板電腦，然後點選&#x200B;**Google Play商店**&#x200B;應用程式。
-1. 在「搜尋」方塊中，輸入&#x200B;**Marketo**，然後點選&#x200B;**Return**。
-1. 在搜尋結果中，點選&#x200B;**Marketo Events**&#x200B;應用程式。
+1. 在「搜索」框中，輸入&#x200B;**Marketo**&#x200B;並點選&#x200B;**返回**。
+1. 在搜尋結果中，點選&#x200B;**Marketo事件**&#x200B;應用程式。
 
    ![](assets/image2016-4-15-14-3a42-3a11.png)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
 1. 在應用程式中，[檢查](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)中的測試銷售線索。
 1. 點選&#x200B;**Sync**&#x200B;圖示以同步應用程式。
-1. 在Marketo中，開啟您的事件，然後按一下&#x200B;**成員**。
+1. 在Marketo，開啟事件並按一下&#x200B;**成員**。
 
    ![](assets/image2016-4-15-15-3a32-3a42.png)
 
