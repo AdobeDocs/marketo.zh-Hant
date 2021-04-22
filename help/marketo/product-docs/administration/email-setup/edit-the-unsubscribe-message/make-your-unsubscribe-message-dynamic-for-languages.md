@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6848782
-description: 讓您的取消訂閱訊息在語言——行銷檔案——產品檔案中具動態性
+description: 讓您的取消訂閱訊息動態顯示語言-Marketo檔案——產品檔案
 title: 讓您的取消訂閱訊息在語言上具動態性
+exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 0%
 
 ---
-
 
 # 讓取消訂閱訊息在語言上變得動態{#make-your-unsubscribe-message-dynamic-for-languages}
 
