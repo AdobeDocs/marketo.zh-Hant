@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7503973
-description: 自訂簡報——行銷檔案——產品檔案
+description: 自訂簡報-Marketo檔案——產品檔案
 title: 自訂簡報
+exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
 
 ---
-
 
 # 自訂簡報{#customize-a-presentation}
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## 選擇視圖{#choosing-the-views}
 
-簡報會循環檢視您選擇的不同[篩選定義](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)。 視需要拉入任意數量的檢視，並自訂頻率。
+Presentations循環查看您選擇的不同[篩選器定義](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)。 視需要拉入任意數量的檢視，並自訂頻率。
 
 1. 從右側樹狀結構中，拖曳您要在簡報中旋轉的不同檢視。
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## 新增目標{#add-a-goal}
 
-當簡報顯示您的團隊目標時，最棒的簡報。 只需拖曳至不同的[自訂目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md)或[智慧清單目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)即可。 最多可以用10個。
+Presentations是最棒的，當他們展示你的團隊進球時。 只需拖曳至不同的[自訂目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md)或[智慧清單目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)即可。 最多可以用10個。
 
 1. 從右側樹狀結構拖曳您要在簡報中顯示的不同目標。
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >通過選中&#x200B;**禁用旋轉**&#x200B;來顯示一個靜態視圖。
+   >選中&#x200B;**禁用旋轉**&#x200B;以顯示一個靜態視圖。
 
    ![](assets/image2015-3-18-13-3a22-3a18.png)
 
