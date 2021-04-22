@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719071
-description: 編輯帳戶設定——行銷人員檔案——產品檔案
+description: 編輯帳戶設定-Marketo檔案——產品檔案
 title: 編輯帳戶設定
+exl-id: 770841b8-dbaa-4bb6-bcc0-5ea07e8f7b6c
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
 
 ---
-
 
 # 編輯帳戶設定{#edit-account-settings}
 
