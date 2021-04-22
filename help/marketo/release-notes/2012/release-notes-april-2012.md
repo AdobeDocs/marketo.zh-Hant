@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951119
-description: 發行說明- 2012年4月——行銷檔案——產品檔案
+description: 發行說明- 2012年4月-Marketo文檔——產品文檔
 title: 發行說明- 2012年4月
+exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 0%
 
 ---
-
 
 # 發行說明：2012年4月{#release-notes-april}
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## 只要按一下，就能上傳多個影像和檔案！{#upload-multiple-images-and-files-with-a-single-click}
 
-將影像和檔案匯入Marketo時，可節省時間並提高效率！ 如果您使用Firefox或Google Chrome，則可以同時選取多個檔案並上傳所有檔案。 雖然您可以上傳的檔案數目沒有限制，但每個檔案的個別大小限制是50MB。
+將影像和檔案匯入Marketo省時省力，更有效率！ 如果您使用Firefox或Google Chrome，則可以同時選取多個檔案並上傳所有檔案。 雖然您可以上傳的檔案數目沒有限制，但每個檔案的個別大小限制是50MB。
 
 注意：目前，由於瀏覽器的限制，Internet Explorer不支援此功能。
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 如果您未將訂閱與Salesforce同步，您會注意到所有參照Salesforce的資料夾和流程動作都已移除。
 
-## Marketo Revenue Cycle Analytics {#marketo-revenue-cycle-analytics}
+## Marketo收入週期分析{#marketo-revenue-cycle-analytics}
 
 **收入週期建模器中的增強門級**
 
