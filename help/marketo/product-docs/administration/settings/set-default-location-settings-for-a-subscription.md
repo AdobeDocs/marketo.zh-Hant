@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359902
-description: 設定訂閱的預設位置設定——行銷檔案——產品檔案
+description: 設定訂閱的預設位置設定-Marketo檔案——產品檔案
 title: 設定訂閱的預設位置設定
+exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
-
 
 # 設定訂閱的預設位置設定{#set-default-location-settings-for-a-subscription}
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[Salesforce.com](https://salesforce.com/)的Marketo Sales Insight支援法文、德文、日文、葡萄牙文和西班牙文。
+   >Marketo[Salesforce.com](https://salesforce.com/)的Sales Insight支援法文、德文、日文、葡萄牙文和西班牙文。
 
 ## 設定訂閱的預設貨幣設定{#set-the-default-currency-settings-for-a-subscription}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/image2014-11-7-15-3a58-3a21.png)
 
-   恭喜！ 您已變更訂閱的位置設定。
+   恭喜您！您已變更訂閱的位置設定。
 
 >[!MORELIKETHIS]
 >
