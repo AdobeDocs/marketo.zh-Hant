@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360321
-description: 變更工作區名稱——行銷人員檔案——產品檔案
+description: 變更工作區名稱-Marketo檔案——產品檔案
 title: 更改工作區的名稱
+exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
-
 
 # 更改工作區的名稱{#change-the-name-of-a-workspace}
 
