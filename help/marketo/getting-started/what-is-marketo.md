@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949467
-description: 什麼是Marketo? -行銷人員檔案——產品檔案
+description: 什麼是Marketo? -Marketo文檔——產品文檔
 title: 什麼是Marketo?
+exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
-
 
 # 什麼是Marketo?{#what-is-marketo}
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## 我的天啊！ 我需要學習這些嗎？{#holy-cow-do-i-need-to-learn-all-that}
 
-不，完全不。 Marketo易於入門，將隨您而發展。 您可以隨著時間加入片段。
+不，完全不。 Marketo易於入門，將與您一起發展。 您可以隨著時間加入片段。
 
 ## 我需要進行任何設定嗎？{#do-i-need-to-do-any-setup}
 
