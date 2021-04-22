@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146956
-description: 有趣的時刻——行銷人員檔案——產品檔案
+description: 有趣的時刻-Marketo文檔——產品文檔
 title: 有趣的時刻
+exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-
 # 有趣的時刻{#interesting-moment}
 
 ## 概述{#overview}
 
-如果您有Marketo Sales Insight，則可使用&#x200B;**Interest Moment**&#x200B;流程步驟，讓銷售團隊能夠洞悉您的員工所從事的酷炫工作。
+如果您有Marketo銷售分析，您可以使用&#x200B;**有趣時刻**&#x200B;流程步驟，讓銷售團隊能夠洞悉您的員工正在做的酷炫事。
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
