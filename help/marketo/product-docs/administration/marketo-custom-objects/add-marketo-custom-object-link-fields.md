@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097613
-description: 新增行銷至自訂物件連結欄位——行銷至檔案——產品檔案
-title: 新增行銷至自訂物件連結欄位
+description: 新增Marketo自訂物件連結欄位-Marketo檔案——產品檔案
+title: 新增Marketo自訂物件連結欄位
+exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
 
 ---
 
-
-# 新增行銷至自訂物件連結欄位{#add-marketo-custom-object-link-fields}
+# 新增Marketo自訂物件連結欄位{#add-marketo-custom-object-link-fields}
 
 建立自定義對象時，必須提供連結欄位，以將自定義對象記錄連接到正確的父記錄。
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 以下說明如何在一對多結構的自訂物件中建立連結欄位。
 
-1. 按一下&#x200B;**管理員**，在&#x200B;**資料庫管理**&#x200B;中，選擇&#x200B;**行銷商定制對象**。
+1. 按一下&#x200B;**Admin**，在&#x200B;**資料庫管理**&#x200B;中，選擇&#x200B;**Marketo自定義對象**。
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -72,7 +72,7 @@ ht-degree: 0%
 >
 >您必須已經建立了中間對象和要連結到的任何自定義對象。
 
-1. 按一下&#x200B;**管理員**，在&#x200B;**資料庫管理**&#x200B;中，選擇&#x200B;**行銷商定制對象**。
+1. 按一下&#x200B;**Admin**，在&#x200B;**資料庫管理**&#x200B;中，選擇&#x200B;**Marketo自定義對象**。
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
@@ -122,8 +122,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [新增行銷至自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [編輯和刪除行銷人員自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [新增Marketo自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [編輯和刪除Marketo自定義對象](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
 >* [瞭解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
->* [編輯和刪除Marketo自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [編輯和刪除Marketo自定義對象欄位](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 
