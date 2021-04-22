@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6848705
-description: 最佳實務——如何組織您的計畫——行銷檔案——產品檔案
+description: 最佳實務——如何組織您的計畫-Marketo檔案——產品檔案
 title: 最佳實務——如何組織您的計畫
+exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 0%
 
 ---
-
 
 # 最佳實務：如何組織程式{#best-practice-how-to-organize-your-programs}
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ## 命名方案{#naming-schemes}
 
-命名很重要，因為Marketo的功能都使用通用語言來溝通。 對於程式，您應為其命名為唯一。 **沒有兩個程式可以具有相同的名稱**。最佳實務是使用下列格式：
+命名至關重要，因為Marketo的功能都使用通用語言進行溝通。 對於程式，您應為其命名為唯一。 **沒有兩個程式可以具有相同的名稱**。最佳實務是使用下列格式：
 
 [Program ] [TypeYYYY]-[MM]-Optional [DDBrief Description的縮] [寫]
 
@@ -113,7 +113,7 @@ Token會使用資料夾和程式作為工具，來設定要用於登陸頁面、
 
 ## 克隆{#cloning}
 
-Marketo最酷的功能之一，就是能夠復製程式。 這表示您可以設定程式「範本」，其中包含您想要的所有智慧型促銷活動和電子郵件。 事先設定，然後複製以供您下次的行銷計畫使用。
+Marketo最酷的功能之一是克隆程式。 這表示您可以設定程式「範本」，其中包含您想要的所有智慧型促銷活動和電子郵件。 事先設定，然後複製以供您下次的行銷計畫使用。
 
 >[!TIP]
 >
@@ -123,4 +123,4 @@ Marketo最酷的功能之一，就是能夠復製程式。 這表示您可以設
 
 ## 摘要{#summary}
 
-如你所見，Marketo公司的權力很大。 我們在這裡介紹了基本概念，但請考慮Marketo Experts的某些[附加服務，以便進行微調並為成功做好準備。](https://www.marketo.com/services/)
+如你所見，在Marketo，權力很大。 我們在這裡介紹了基本概念，但請考慮Marketo專家的一些[附加服務，以便進行微調並為成功做好準備。](https://www.marketo.com/services/)
