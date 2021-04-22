@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719294
-description: 自訂活動同步——行銷檔案——產品檔案
+description: 自訂活動同步-Marketo文檔——產品文檔
 title: 自訂活動同步
+exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
 
 ---
 
-
 # 自訂活動同步{#customize-activities-sync}
 
-如果您不使用Marketo Sales Insight,Marketo可針對特定事件建立Salesforce活動歷史記錄。 以下是如何啟用它們。
+如果您不使用「Marketo銷售分析」,Marketo可以為某些事件建立「Salesforce活動歷史記錄」。 以下是如何啟用它們。
 
 1. 前往&#x200B;**Admin**。
 
@@ -23,13 +23,13 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 勾選您希望Market推送至Salesforce之活動旁的方塊，然後按一下「儲存」****。
+1. 勾選您要Marketo推送至Salesforce之活動旁的方塊，然後按一下「儲存」。****
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >啟用後，Marketo將推出3個月的活動記錄。 根據資料量，_完成_&#x200B;可能需要數天。 在初始「活動」推播期間發生的更新可能會延遲到初始「活動」同步完成後。
+   >一旦啟用，Marketo將推出3個月的活動歷史。 根據資料量，_完成_&#x200B;可能需要數天。 在初始「活動」推播期間發生的更新可能會延遲到初始「活動」同步完成後。
 
 <table> 
  <colgroup> 
@@ -45,7 +45,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td>填寫表格</td> 
-   <td>填寫任何行銷表單</td> 
+   <td>填寫任何Marketo表格</td> 
   </tr> 
   <tr> 
    <td>新增至清單</td> 
@@ -65,7 +65,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>已點按電子郵件中的連結</td> 
-   <td>按一下Marketto所傳送之電子郵件中的連結</td> 
+   <td>按一下Marketo寄送之電子郵件中的連結</td> 
   </tr> 
   <tr> 
    <td>已從清單中移除</td> 
@@ -77,15 +77,15 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>銷售電子郵件已傳送</td> 
-   <td>透過Marketon Sales Insight傳送電子郵件</td> 
+   <td>是透過Marketo銷售分析寄送電子郵件</td> 
   </tr> 
   <tr> 
    <td>已開啟銷售電子郵件</td> 
-   <td>開啟透過Marketon Sales Insight傳送的電子郵件</td> 
+   <td>開啟透過Marketo銷售分析傳送的電子郵件</td> 
   </tr> 
   <tr> 
    <td>按一下銷售電子郵件中的連結</td> 
-   <td>按一下透過Marketo Sales Insight傳送之電子郵件中的連結</td> 
+   <td>按一下透過Marketo銷售分析所傳送之電子郵件中的連結</td> 
   </tr> 
   <tr> 
    <td>收到銷售電子郵件</td> 
@@ -100,4 +100,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您想要將更多Marketo資訊匯入Salesforce，請查看我們的[ Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)產品。
+>如果您想要將更多Marketo資訊匯入Salesforce，請查看我們的[Marketo銷售分析](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)產品。
