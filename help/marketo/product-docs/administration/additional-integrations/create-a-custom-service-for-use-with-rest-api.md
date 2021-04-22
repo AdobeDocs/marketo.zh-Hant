@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360350
-description: 建立自訂服務以搭配ReST API —— 行銷人員檔案——產品檔案
+description: 建立自訂服務以搭配ReST API -Marketo檔案——產品檔案
 title: 建立自訂服務以搭配ReST API使用
+exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-
 # 建立自訂服務以搭配ReST API {#create-a-custom-service-for-use-with-rest-api}使用
 
-如果您想要透過ReST API與Marketo整合，您將想要建立自訂服務。 這是方法。
+如果您想要透過ReST API與Marketo整合，您會想要建立自訂服務。 這是方法。
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您有Spark等級的Marketo，就無法建立自訂服務。
+>如果您有Marketo的Spark等級，就無法建立自訂服務。
 
 ## 建立自訂服務{#create-custom-service}
 
