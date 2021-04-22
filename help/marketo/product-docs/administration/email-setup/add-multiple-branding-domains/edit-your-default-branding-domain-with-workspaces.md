@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377406
-description: 使用工作區——行銷人員檔案——產品檔案編輯您的預設品牌網域
+description: 使用工作區-Marketo文檔——產品文檔編輯預設品牌域
 title: 使用工作區編輯您的預設品牌網域
+exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # 使用Workspaces {#edit-your-default-branding-domain-with-workspaces}編輯預設品牌域
 
