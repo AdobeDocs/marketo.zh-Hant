@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7503971
-description: 建立簡報——行銷人員檔案——產品檔案
+description: 建立簡報-Marketo檔案——產品檔案
 title: 建立簡報
+exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-
 # 建立簡報{#create-a-presentation}
 
-建立簡報，在HDTV上投射您團隊的日曆檢視和目標。 簡報是工作區專屬的。
+建立簡報，在HDTV上投射您團隊的日曆檢視和目標。 Presentations是特定於工作區。
 
 >[!AVAILABILITY]
 >
