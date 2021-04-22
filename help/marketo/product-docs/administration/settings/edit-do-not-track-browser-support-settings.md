@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6095047
-description: 編輯「不追蹤」瀏覽器支援設定——行銷人員檔案——產品檔案
+description: 編輯「不追蹤」瀏覽器支援設定-Marketo檔案——產品檔案
 title: 編輯「不追蹤」瀏覽器支援設定
+exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
-
 
 # 編輯「不追蹤」瀏覽器支援設定{#edit-do-not-track-browser-support-settings}
 
