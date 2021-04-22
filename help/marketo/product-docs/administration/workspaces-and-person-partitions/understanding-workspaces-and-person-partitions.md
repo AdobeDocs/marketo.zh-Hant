@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360309
-description: 瞭解工作區和人員分區——行銷人員文檔——產品文檔
+description: 瞭解工作區和人員分區-Marketo文檔——產品文檔
 title: 瞭解工作區和人員分區
+exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
 
 ---
-
 
 # 瞭解工作區和人員分區{#understanding-workspaces-and-person-partitions}
 
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->工作區的設定可能很複雜。 請聯絡[行銷支援](https://nation.marketo.com/t5/Support/ct-p/Support)，以瞭解他們是否適合您。
+>工作區的設定可能很複雜。 請聯絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)以瞭解這些服務是否適合您。
 
-工作區是Marketo中個別的區域，可存放程式、登陸頁面、電子郵件等行銷資產。 可供多人使用。 每位使用者都可存取一或多個工作區。
+工作區是Marketo地區個別的區域，可存放程式、登陸頁面、電子郵件等行銷資產。 可供多人使用。 每位使用者都可存取一或多個工作區。
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ ht-degree: 0%
 >您使用工作區的一些原因：
 >
 >* 地理位置：歐洲、亞洲和北美行銷部門各有工作區
->* 業務單位：Quicken、Quickbooks和TurboTax各取得工作區
+>* 業務單位：Quicken、Quickbooks和TurboTax各有一個工作區
 
 >
 >
@@ -87,7 +87,7 @@ ht-degree: 0%
 * 計畫
 * 電子郵件
 * 著陸頁面
-* 表單
+* Forms
 
 >[!NOTE]
 >
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 ## 人員分區{#person-partitions}
 
-人員分區的作用類似於單獨的資料庫。 每個分區都有自己的人員，他們不執行重複資料消除或與其他分區混用。 如果您認為您的業務使用案例可能需要使用相同的電子郵件地址重複記錄，請聯絡[行銷人員支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
+人員分區的作用類似於單獨的資料庫。 每個分區都有自己的人員，他們不執行重複資料消除或與其他分區混用。 如果您認為您的業務使用案例可能需要使用相同的電子郵件地址重複記錄，請與[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)聯繫。
 
 您可以在以下配置中將人員分區分配給[workspaces](create-a-new-workspace.md):
 
