@@ -1,19 +1,19 @@
 ---
 unique-page-id: 30081815
-description: 設定Adobe Experience Manager整合——行銷檔案——產品檔案
+description: 配置Adobe Experience Manager整合-Marketo文檔——產品文檔
 title: 配置Adobe Experience Manager整合
+exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-
 # 配置Adobe Experience Manager整合{#configuring-adobe-experience-manager-integration}
 
-設AEM定，讓您存取、選取AEM資產並匯入Marketo的Design Studio。
+設定AEM，讓您存取、選取資產並匯AEM入Marketo的Design Studio。
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 在Marketo Classic中，按一下&#x200B;**管理**。
+1. 在Marketo Classic，按一下&#x200B;**管理**。
 
    ![](assets/nine.png)
 
