@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147036
-description: 從SFDC促銷活動中刪除——行銷人員文檔——產品文檔
+description: 從SFDC促銷活動中刪除-Marketo文檔——產品文檔
 title: 從SFDC促銷活動中移除
+exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
-
 
 # 從SFDC促銷活動{#remove-from-sfdc-campaign}移除
 
