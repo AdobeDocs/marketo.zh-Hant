@@ -1,14 +1,14 @@
 ---
-description: 為Azure AD Federated設定MSD，並預裝AD FS、租用戶和Microsoft Online —— 行銷文檔——產品文檔
+description: 為Azure AD Federated設定MSD，並預裝AD FS、租用戶和Microsoft Online -Marketo文檔——產品文檔
 title: 為Azure AD Federated設定MSD，並在On-prem、Tenant和Microsoft Online中設定AD FS
+exl-id: b6c10048-d27e-4135-beef-232deddc2984
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
 
 ---
-
 
 # 為Azure AD Federated設定MSD，並在{#set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online}上使用AD FS On-prem 、 Tenant和Microsoft Online
 
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 1. 導覽至https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration。
 
-1. 請遵循所有步驟。 在步驟3中，輸入相關的應用程式名稱（例如「Marketo Integration」）。 在「受支援的帳戶類型」下，選取「僅限此組織目錄中的帳戶」。
+1. 請遵循所有步驟。 在步驟3中，輸入相關應用程式名稱(例如「Marketo整合」)。 在「受支援的帳戶類型」下，選取「僅限此組織目錄中的帳戶」。
 
-1. 記下應用程式ID(ClientId)。 您稍後必須在Marketo中加入。
+1. 記下應用程式ID(ClientId)。 你以後得進去Marketo。
 
 1. 依照本文[中的步驟，授與管理員同意。](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
 
@@ -40,15 +40,15 @@ ht-degree: 0%
 
    ![](assets/set-up-msd-for-azure-ad-federated-4.png)
 
-Marketo會使用grant_type資源擁有者密碼認證(ROPC)，以OAuth驗證Azure AD。 此方案需要為特定應用程式建立「主領域搜索」策略。 使用此策略，Azure AD會將驗證請求重新導向至聯合服務。 必須在AD Connect中為此啟用口令散列同步。 如需詳細資訊，請參閱[OAuth with ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc)和[設定應用程式的hrd原則](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application)。
+Marketo使用grant_type資源擁有者密碼憑證(ROPC)向OAuth驗證Azure廣告。 此方案需要為特定應用程式建立「主領域搜索」策略。 使用此策略，Azure AD會將驗證請求重新導向至聯合服務。 必須在AD Connect中為此啟用口令散列同步。 如需詳細資訊，請參閱[OAuth with ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc)和[設定應用程式的hrd原則](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application)。
 
 其他參考[可在此處找到](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20astle%20includes%20federated,are%20federated%20to%20Azure%20AD。)。
 
-完成時，您應該&#x200B;**將Dynamics CRM產生的用戶端Id和密碼輸入Marketo**。
+完成後，您應將&#x200B;**輸入Dynamics CRM產生的用戶端Id和密碼至Marketo**。
 
-## 在Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}中輸入Dynamics CRM產生的用戶端Id和密碼
+## 將Dynamics CRM產生的用戶端Id和密碼輸入Marketo{#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
 
-1. 在Marketo中，按一下&#x200B;**管理**。
+1. 在Marketo，按一下&#x200B;**管理**。
 
    ![](assets/set-up-msd-for-azure-ad-federated-5.png)
 
