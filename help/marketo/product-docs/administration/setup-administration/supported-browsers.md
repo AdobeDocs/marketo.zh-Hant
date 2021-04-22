@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359893
-description: 支援的瀏覽器——行銷檔案——產品檔案
+description: 支援的瀏覽器-Marketo檔案——產品檔案
 title: 支援的瀏覽器
+exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
-
 
 # 支援的瀏覽器{#supported-browsers}
 
