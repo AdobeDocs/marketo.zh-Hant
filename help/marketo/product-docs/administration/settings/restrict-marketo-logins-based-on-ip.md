@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360297
-description: 根據IP限制行銷人員登入——行銷人員檔案——產品檔案
-title: 基於IP限制行銷人員登入
+description: 根據IP限制Marketo登入-Marketo文檔——產品文檔
+title: 基於IP限制Marketo登錄
+exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
+# 根據IP {#restrict-marketo-logins-based-on-ip}限制Marketo登錄
 
-# 根據IP {#restrict-marketo-logins-based-on-ip}限制行銷人員登入
-
-您可以限制或啟用使用者根據其IP位址存取Marketo。 這是方法。
+您可以限制或讓使用者根據其IP位址存取Marketo。 這是方法。
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ ht-degree: 0%
    >**定義**
    >
    >* **允許的IP位址**:新增允許的IP位址是包含性的。它將包含所有指定的IP位址，並排除其他所有IP位址。
-   >* **塊IP地址**:防止特定IP存取Marketo。
+   >* **塊IP地址**:阻止特定IP訪問Marketo。
    >* **停用IP限制**:勾選此項將會停止任何／所有限制規則運作。請將它用於測試用途。
 
 
