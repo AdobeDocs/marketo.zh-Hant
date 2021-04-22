@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099389
-description: Microsoft Dynamics的Marketo Plugin版本- Marketo Docs —— 產品檔案
-title: Microsoft Dynamics專用的Marketo增效模組版本
+description: MarketoMicrosoft Dynamics增效模組版本-Marketo檔案——產品檔案
+title: MarketoMicrosoft Dynamics增效模組版本
+exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 6%
 
 ---
 
+# MarketoMicrosoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}增效模組版本
 
-# Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}專用的Marketo增效模組版本
-
-當您第一次同步至Microsoft Dynamics時，請下載適用於Marketo的最新版本外掛程式。 Marketo會定期更新這些外掛程式，因此您可以返回相同位置下載新版本。
+當您第一次同步至Microsoft Dynamics時，請下載最新版本的Marketo外掛程式。 Marketo會定期更新這些外掛程式，讓您回到相同的位置下載新版本。
 
 [下載與Dynamics版](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 本對應的最新外掛程式。
 
@@ -53,7 +53,7 @@ ht-degree: 6%
   <tr> 
    <td colspan="1">4.0.0.23</td> 
    <td colspan="1">2018年6月27日</td> 
-   <td colspan="1">錯誤修正：嘗試安裝Marketo Solutions for Dynamics 2013時發生商業程式錯誤。</td> 
+   <td colspan="1">錯誤修正：嘗試安裝MarketoDynamics 2013解決方案時發生業務流程錯誤。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.22</td> 
@@ -93,7 +93,7 @@ ht-degree: 6%
   <tr> 
    <td colspan="1">4.0.0.15</td> 
    <td colspan="1">3/3/16</td> 
-   <td colspan="1">錯誤修正：客戶無法在CRM中建立銷售機會，因為登入使用者沒有Marketo Config權限。</td> 
+   <td colspan="1">錯誤修正：客戶無法在CRM中建立銷售機會，因為登入使用者沒有Marketo設定權限。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.14</td> 
@@ -103,16 +103,16 @@ ht-degree: 6%
   <tr> 
    <td colspan="1">4.0.0.13</td> 
    <td colspan="1">12/30/15</td> 
-   <td>錯誤修正：Dynamics中的更新無法同步至Marketo以取得步驟和影像。</td> 
+   <td>錯誤修正：Dynamics的更新無法與Marketo同步，以取得步驟和影像。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.12</td> 
    <td colspan="1">11/12/15</td> 
-   <td colspan="1">錯誤修正：當同步篩選設定為false時，銷售機會記錄會同步至Marketo。</td> 
+   <td colspan="1">錯誤修正：同步篩選器設為false時，銷售線索記錄正在同步至Marketo。</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!MORELIKETHIS]
 >
->[下載Marketo Lead管理解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[下載Marketo銷售線索管理解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
