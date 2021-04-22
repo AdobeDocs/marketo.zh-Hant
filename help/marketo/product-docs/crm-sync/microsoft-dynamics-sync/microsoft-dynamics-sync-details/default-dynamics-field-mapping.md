@@ -1,18 +1,18 @@
 ---
-description: 預設動態欄位對應——行銷人員至檔案——產品檔案
+description: 預設動態欄位對應-Marketo檔案——產品檔案
 title: 預設動態欄位映射
+exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '528'
-ht-degree: 1%
+ht-degree: 16%
 
 ---
 
-
 # 預設動態欄位映射{#default-dynamics-field-mapping}
 
-當您最初將Marketo帳戶與Microsoft同步時，Marketo會自動在您的內建Dynamics和Marketo欄位之間建立這些關聯。  Marketo也會同步您的Lead、Accounts、Opportunity和Contacts上的自訂欄位。
+當您最初將Marketo帳戶與Microsoft同步時，Marketo會自動在您的內建Dynamics欄位和Marketo欄位之間建立這些關聯。  Marketo還將同步您的Lead、Accounts、Opportunity和Contacts上的自定義欄位。
 
 ## 銷售線索欄位{#lead-fields}
 
@@ -24,7 +24,7 @@ ht-degree: 1%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Marketo Field</th> 
+   <th>Marketo田</th> 
    <th>MS Dynamics Field</th> 
    <th>MS Dynamics API名稱</th> 
   </tr> 
@@ -34,8 +34,8 @@ ht-degree: 1%
    <td>createdon</td> 
   </tr> 
   <tr> 
-   <td>問候語</td> 
-   <td>問候語</td> 
+   <td>稱謂</td> 
+   <td>稱謂</td> 
    <td>問候語</td> 
   </tr> 
   <tr> 
@@ -94,7 +94,7 @@ ht-degree: 1%
    <td>address1_stateorprovince</td> 
   </tr> 
   <tr> 
-   <td>國家／地區</td> 
+   <td>國家</td> 
    <td>國家／地區</td> 
    <td>address1_country</td> 
   </tr> 
@@ -105,7 +105,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>人員來源</td> 
-   <td>銷售線索來源</td> 
+   <td>潛在客戶來源</td> 
    <td>引導原始碼</td> 
   </tr> 
   <tr> 
@@ -124,12 +124,12 @@ ht-degree: 1%
    <td>描述</td> 
   </tr> 
   <tr> 
-   <td>不要呼叫</td> 
+   <td>請勿來電</td> 
    <td>不允許電話呼叫</td> 
    <td>donotphone</td> 
   </tr> 
   <tr> 
-   <td>取消訂閱</td> 
+   <td>退訂</td> 
    <td>不大量傳送電子郵件</td> 
    <td>donotbulkemail</td> 
   </tr> 
@@ -191,7 +191,7 @@ ht-degree: 1%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Marketo Field</th> 
+   <th>Marketo球場</th> 
    <th>MS Dynamics Field</th> 
    <th>MS Dynamics API名稱</th> 
   </tr> 
@@ -201,8 +201,8 @@ ht-degree: 1%
    <td>createdon</td> 
   </tr> 
   <tr> 
-   <td>問候語</td> 
-   <td>問候語</td> 
+   <td>稱謂</td> 
+   <td>稱謂</td> 
    <td>問候語</td> 
   </tr> 
   <tr> 
@@ -255,7 +255,7 @@ ht-degree: 1%
    <td>address1_stateorprovince</td> 
   </tr> 
   <tr> 
-   <td>國家／地區</td> 
+   <td>國家</td> 
    <td>地址1:國家／地區</td> 
    <td>address1_country</td> 
    <tr> 
@@ -274,12 +274,12 @@ ht-degree: 1%
    <td>statuscode</td> 
   </tr> 
    <tr> 
-   <td>不要呼叫</td> 
+   <td>請勿來電</td> 
    <td>不允許電話呼叫</td> 
    <td>donotphone</td> 
   </tr> 
   <tr> 
-   <td>取消訂閱</td> 
+   <td>退訂</td> 
    <td>不大量傳送電子郵件</td> 
    <td>donotbulkemail</td> 
   </tr> 
@@ -321,7 +321,7 @@ ht-degree: 1%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Marketo Field</th> 
+   <th>Marketo田</th> 
    <th>MS Dynamics Field</th> 
    <th>MS Dynamics API名稱</th> 
   </tr> 
@@ -331,17 +331,17 @@ ht-degree: 1%
    <td>accountid</td> 
   </tr> 
   <tr> 
-   <td>帳單地址</td> 
+   <td>帳單寄送地址</td> 
    <td>地址1:街1</td> 
    <td>address1_line1</td> 
   </tr> 
   <tr> 
-   <td>帳單城市</td> 
+   <td>帳單寄送城市</td> 
    <td>地址1:城市</td> 
    <td>address1_city</td> 
   </tr> 
   <tr> 
-   <td>帳單國家／地區</td> 
+   <td>帳單寄送國家</td> 
    <td>地址1:國家／地區</td> 
    <td>address1_country</td> 
   </tr> 
@@ -361,8 +361,8 @@ ht-degree: 1%
    <td>address1_line3</td> 
   </tr> 
   <tr> 
-   <td>主手機</td> 
-   <td>主手機</td> 
+   <td>主要電話</td> 
+   <td>主要電話</td> 
    <td>電話1</td> 
   </tr> 
   <tr> 
@@ -381,8 +381,8 @@ ht-degree: 1%
    <td>statecode</td> 
   </tr> 
   <tr> 
-   <td>年收入</td> 
-   <td>年收入</td> 
+   <td>年營業額</td> 
+   <td>年營業額</td> 
    <td>收入</td> 
   </tr> 
   <tr> 
@@ -391,13 +391,13 @@ ht-degree: 1%
    <td>描述</td> 
   </tr> 
   <tr> 
-   <td>產業</td> 
-   <td>產業</td> 
+   <td>行業</td> 
+   <td>行業</td> 
    <td>業界程式碼</td> 
   </tr> 
   <tr> 
-   <td>SIC代碼</td> 
-   <td>SIC代碼</td> 
+   <td>標準產業分類（SIC）代碼</td> 
+   <td>標準產業分類（SIC）代碼</td> 
    <td>sic</td> 
   </tr> 
   <tr> 
@@ -408,9 +408,9 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## Marketo中的Microsoft相關系統欄位（只讀）{#microsoft-related-system-fields-in-marketo}
+## Marketo（只讀）{#microsoft-related-system-fields-in-marketo}中的Microsoft相關系統欄位
 
-這些欄位是在Marketo中建立，但客戶無法調整。
+這些欄位是在Marketo建立，但客戶無法調整。
 
 <table> 
  <colgroup> 
@@ -419,16 +419,16 @@ ht-degree: 1%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Marketo Field</th> 
+   <th>Marketo球場</th> 
    <th>說明</th> 
   </tr> 
   <tr> 
    <td>Microsoft類型</td> 
-   <td>潛在客戶或聯絡人。 如果空白，則銷售線索僅作為Marketto中的人員存在</td> 
+   <td>潛在客戶或聯絡人。 如果空，則銷售線索僅作為人存在於Marketo</td> 
   </tr> 
   <tr> 
    <td>Microsoft建立日期</td> 
-   <td>在MS Dynamics中建立的日期（可以與在Marketto中建立的日期不同）</td> 
+   <td>在MS Dynamics中建立的日期(可與在Marketo建立的日期不同)</td> 
   </tr> 
   <tr> 
    <td>已刪除Microsoft</td> 
