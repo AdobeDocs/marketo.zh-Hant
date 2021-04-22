@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951097
-description: 發行說明- 2013年5月——行銷檔案——產品檔案
+description: 發行說明- 2013年5月-Marketo文檔——產品文檔
 title: 發行說明- 2013年5月
+exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
-
 
 # 發行說明：2013年5月{#release-notes-may}
 
