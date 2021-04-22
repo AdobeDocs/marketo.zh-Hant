@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11372975
-description: 步驟1（共3步）-將行銷人員欄位新增至Salesforce（專業版）-行銷人員檔案——產品檔案
-title: 第1步（共3步）-將行銷人員欄位新增至Salesforce（專業版）
+description: 步驟1（共3步）-將Marketo欄位新增至Salesforce（專業版）-Marketo檔案——產品檔案
+title: 步驟1（共3步）-將Marketo欄位新增至Salesforce（專業版）
+exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 0%
 
 ---
 
-
-# 步驟1（共3步）:將行銷人員欄位新增至Salesforce（專業版）{#step-of-add-marketo-fields-to-salesforce-professional}
+# 步驟1（共3步）:將Marketo欄位新增至Salesforce（專業版）{#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
 >
@@ -23,9 +23,9 @@ Marketo使用一組欄位來擷取特定類型的行銷相關資訊。 如果您
 1. 在銷售機會和聯絡人之間映射這些自訂欄位，以便在Salesforce中轉換時，值會延續。
 1. 如有必要，您可以建立其他欄位（請參閱下表）。
 
-所有這些自訂欄位都是選填的，不是同步Marketo和Salesforce的必要欄位。 建議您為「分數」、「贏取計畫」和「贏取日期」建立欄位，這是最佳實務。
+所有這些自訂欄位都是選用欄位，不需要同步Marketo和Salesforce。 建議您為「分數」、「贏取計畫」和「贏取日期」建立欄位，這是最佳實務。
 
-## 將行銷人員欄位新增至Salesforce {#add-marketo-fields-to-salesforce}
+## 將Marketo欄位新增至Salesforce {#add-marketo-fields-to-salesforce}
 
 在上述Salesforce中，新增三個自訂欄位至銷售機會和連絡人物件。 如果您想要新增更多，請參閱本節結尾的可用欄位表格。
 
@@ -185,7 +185,7 @@ Marketo使用一組欄位來擷取特定類型的行銷相關資訊。 如果您
    <td>長度255</td> 
   </tr> 
   <tr> 
-   <td>推斷的公司</td> 
+   <td>推斷公司</td> 
    <td>mkto71_Intermited_Company</td> 
    <td>文字</td> 
    <td>長度255</td> 
@@ -254,8 +254,8 @@ Salesforce中銷售機會物件上的自訂欄位應對應至連絡人物件上�
 
 >[!NOTE]
 >
->以下是整個程式的[視訊，應該能清楚說明！](https://nation.marketo.com/videos/1475)
+>以下是整個程式的[視頻，應該能夠清晰顯示！](https://nation.marketo.com/videos/1475)
 
 >[!MORELIKETHIS]
 >
->[步驟2（共3步）:建立適用於行銷人員的Salesforce使用者（專業版）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+>[步驟2（共3步）:為Marketo（專業）建立Salesforce使用者](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
