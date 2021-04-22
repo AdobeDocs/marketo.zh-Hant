@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10097199
-description: 發行說明- 16年冬季——行銷檔案——產品檔案
+description: 發行說明- Winter '16 -Marketo文檔——產品文檔
 title: 發行說明- 16年冬季
+exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
 
 ---
-
 
 # 發行說明：冬季&#39;16 {#release-notes-winter}
 
@@ -27,7 +27,7 @@ Winter &#39;16版本包含下列功能。 請按一下標題連結，以檢視�
 
 ## [Microsoft Edge瀏覽器](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-我們已將Microsoft Edge新增至Marketo支援的[瀏覽器清單](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)。
+我們已將Microsoft Edge新增至Marketo支援的[瀏覽器清單中。](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
@@ -75,9 +75,9 @@ Winter &#39;16版本包含下列功能。 請按一下標題連結，以檢視�
 
 ![](assets/image2016-1-11-12-3a59-3a59.png)
 
-## [Facebook銷售線索廣告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
+## [Facebook領先廣告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook銷售](https://www.facebook.com/business/a/lead-ads) 機會廣告是企業在Facebook上執行銷售機會開發促銷活動的更直接方式。人們填寫表格以表示對產品或服務的興趣，讓企業可以跟進。 Marketo與Facebook銷售機會廣告的整合會自動擷取銷售機會在銷售機會廣告表單中提供的資訊。 然後，使用新的「填出Facebook銷售線索廣告」觸發器，可自動追蹤動作和通知。
+[Facebook領](https://www.facebook.com/business/a/lead-ads) 導廣告是企業在Facebook開展潛在客戶開發活動的更直接方式。人們填寫表格以表示對產品或服務的興趣，讓企業可以跟進。 Marketo與Facebook銷售線索廣告的整合會自動擷取銷售線索在銷售線索廣告表單中提供的資訊。 然後，使用新的「填出Facebook銷售線索廣告」觸發器，自動執行後續動作和通知。
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
