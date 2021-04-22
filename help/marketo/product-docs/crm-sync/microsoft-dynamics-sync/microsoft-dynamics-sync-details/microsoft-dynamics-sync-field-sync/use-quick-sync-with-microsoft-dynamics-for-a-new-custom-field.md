@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10098379
-description: 使用Quick Sync with Microsoft Dynamics，以取得新的自訂欄位——行銷人員檔案——產品檔案
+description: 使用與Microsoft Dynamics的快速同步功能建立新的自訂欄位-Marketo檔案——產品檔案
 title: 使用Quick Sync with Microsoft Dynamics，建立新的自訂欄位
+exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
 
 ---
-
 
 # 將「快速同步」與Microsoft Dynamics用於新的自定義欄位{#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 以下是如何使用「快速同步」重新同步新欄位。
 
-1. 在Marketo中，按一下&#x200B;**管理**。
+1. 在Marketo，按一下&#x200B;**管理**。
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 
 ## 修正不同步欄位{#fixing-out-of-sync-fields}
 
-在「動態」和「行銷」欄位不同步的罕見情況下，有一種快速且簡單的方式可重新同步它們。
+在「動態」和「Marketo」欄位不同步的罕見情況下，有一種快速且簡單的方法可重新同步它們。
 
 1. 取消選擇該欄位，然後按一下「保存」。****
 
