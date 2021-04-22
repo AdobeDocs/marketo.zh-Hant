@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949204
-description: SEO —— 新增關鍵字——行銷檔案——產品檔案
+description: SEO —— 新增關鍵字-Marketo檔案——產品檔案
 title: SEO —— 新增關鍵字
+exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
-
 
 # SEO —— 新增關鍵字{#seo-add-keywords}
 
