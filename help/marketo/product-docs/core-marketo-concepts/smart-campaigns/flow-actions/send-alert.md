@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146958
-description: 傳送警報——行銷人員檔案——產品檔案
+description: 發送警報-Marketo文檔——產品文檔
 title: 傳送警報
+exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-
 # 發送警報{#send-alert}
 
 ## 概述{#overview}
 
-Marketo可傳送含個人資訊的電子郵件警報給任何人——銷售擁有者、合作夥伴或其他人。 使用&#x200B;**發送警報**&#x200B;流步驟。
+Marketo可以向任何人（銷售負責人、合作夥伴或其他人）發送包含個人資訊的電子郵件警報。 使用&#x200B;**發送警報**&#x200B;流步驟。
 
 ![](assets/one-1.png)
 
