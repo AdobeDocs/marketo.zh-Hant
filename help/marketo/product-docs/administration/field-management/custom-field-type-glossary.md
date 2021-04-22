@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2951259
-description: 自訂欄位類型辭彙表——行銷檔案——產品檔案
+description: 自訂欄位類型辭彙表-Marketo文檔——產品檔案
 title: 自訂欄位類型辭彙表
+exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '583'
 ht-degree: 0%
 
 ---
 
-
 # 自定義欄位類型辭彙表{#custom-field-type-glossary}
 
-當您在Market中建立自訂欄位時，您會有可供選擇的類型清單。
+當您在Marketo建立自訂欄位時，您有可選擇的類型清單。
 
 >[!PREREQUISITES]
 >
->[在Marketo中建立自訂欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[在Marketo建立自訂欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 **營運商**:is, is not is betwen, prest, power, in future, in time frame, after, after, on, of, on, of, of, of, of fer, in expty
 
-## 電子郵件{#email}
+## 電子郵件 {#email}
 
 **範例名稱：** 替代電子郵件——為您的人員保留替代電子郵件地址（無法實際傳送電子郵件至此欄位，例如預設電子郵件地址欄位，此欄位為特殊）
 
@@ -97,7 +97,7 @@ ht-degree: 0%
 
 **營運商**:is, is not, between, greater, less than, allyst, ald mots, is empty, not empty
 
-## 電話{#phone}
+## 電話 {#phone}
 
 **範例名稱：** 替代電話——為您的人員儲存額外的電話號碼
 
