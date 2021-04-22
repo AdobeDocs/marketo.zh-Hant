@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146962
-description: 變更分數——行銷人員檔案——產品檔案
+description: 變更分數-Marketo文檔——產品文檔
 title: 變更分數
+exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # 變更分數{#change-score}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以建立多個分數欄位。 如需詳細資訊，請參閱Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)中的「建立自訂欄位」。[
+   >您可以建立多個分數欄位。 如需詳細資訊，請參閱Marketo的[建立自訂欄位。](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 1. 輸入您要的分數變更。
 
