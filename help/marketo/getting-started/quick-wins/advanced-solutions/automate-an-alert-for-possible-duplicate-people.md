@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7513680
-description: 自動提醒可能重複的人員——行銷人員檔案——產品檔案
+description: 自動提醒可能重複的人員-Marketo文檔——產品文檔
 title: 自動提醒可能重複的人員
+exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # 自動發出可能重複的人員警報{#automate-an-alert-for-possible-duplicate-people}
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
-就這樣！ 每當在Marketo中建立現有全名的新人時，就會觸發此智慧型促銷活動。
+就這樣！ 每次在Marketo建立現有全名新人員時，都會觸發此智慧型促銷活動。
 
 >[!MORELIKETHIS]
 >
