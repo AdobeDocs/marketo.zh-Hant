@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10100275
-description: 新增／編輯／刪除行銷至自訂活動欄位——行銷至檔案——產品檔案
-title: 新增／編輯／刪除行銷至自訂活動欄位
+description: 新增／編輯／刪除Marketo自訂活動欄位-Marketo檔案——產品檔案
+title: 新增／編輯／刪除Marketo自訂活動欄位
+exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
 
 ---
 
-
-# 新增／編輯／刪除行銷至自訂活動欄位{#add-edit-delete-marketo-custom-activity-fields}
+# 新增／編輯／刪除Marketo自訂活動欄位{#add-edit-delete-marketo-custom-activity-fields}
 
 您可能需要新增、變更或甚至移除自訂活動欄位。 這是方法。
 
 ## 新增自訂活動欄位{#add-a-custom-activity-field}
 
-1. 在「行銷自訂活動」中，按一下「**欄位**」。
+1. 在「Marketo自訂活動」中，按一下「**欄位**」。
 
    ![](assets/one-3.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ## 編輯自訂活動欄位{#edit-a-custom-activity-field}
 
-1. 在「行銷自訂活動」中，按一下「**欄位**」。
+1. 在「Marketo自訂活動」中，按一下「**欄位**」。
 
    ![](assets/one-3.png)
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 
 ## 刪除自訂活動欄位{#delete-a-custom-activity-field}
 
-1. 在「行銷自訂活動」中，按一下「**欄位**」。
+1. 在「Marketo自訂活動」中，按一下「**欄位**」。
 
    ![](assets/one-3.png)
 
