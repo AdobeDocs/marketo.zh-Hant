@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146974
-description: 在智慧型促銷活動中編輯資格規則——行銷檔案——產品檔案
+description: 在智慧型促銷活動中編輯資格規則-Marketo檔案——產品檔案
 title: 在智慧型促銷活動中編輯資格規則
+exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
 
 ---
-
 
 # 在智慧型促銷活動中編輯資格規則{#edit-qualification-rules-in-a-smart-campaign}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >當您每天設定一次規則時，Market會將規則轉換為小時。 例如，如果您將規則設定為每天一次，而某人在週日晚上10點符合資格，則必須等到週一晚上10點才能再符合資格。 當使用周或月時，此邏輯也適用。 一個月一律計為30天。
+   >當您每天設定一次規則時，Marketo會將規則轉換為數小時。 例如，如果您將規則設定為每天一次，而某人在週日晚上10點符合資格，則必須等到週一晚上10點才能再符合資格。 當使用周或月時，此邏輯也適用。 一個月一律計為30天。
 
    >[!NOTE]
    >
