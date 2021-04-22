@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949190
-description: SEO —— 搜尋引擎的挑選地區／國家／地區——行銷人員檔案——產品檔案
+description: SEO —— 搜尋引擎的挑選地區／國家-Marketo文檔——產品文檔
 title: SEO —— 搜尋引擎的挑選地區／國家
+exl-id: dc53415c-eb11-41f9-b992-172a32359cef
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
-
 
 # SEO —— 搜尋引擎的挑選地區／國家{#seo-pick-region-country-for-your-search-engine}
 
@@ -42,5 +42,5 @@ SEO管理員將能夠為您想要取得關鍵字排名資訊的搜尋引擎選�
 >[!MORELIKETHIS]
 >
 >* [瞭解控制面板：SEO快照](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
->* [瞭解控制面板：SEO建議](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>* [瞭解控制面板：徐Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
 
