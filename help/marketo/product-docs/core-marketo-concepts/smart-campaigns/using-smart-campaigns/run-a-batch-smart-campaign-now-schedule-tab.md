@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146933
-description: 立即執行批次智慧型促銷活動 |計畫標籤——行銷人員檔案——產品檔案
+description: 立即執行批次智慧型促銷活動 |計畫標籤-Marketo文檔——產品文檔
 title: 立即執行批次智慧型促銷活動 |計畫標籤
+exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # 立即執行批次智慧型促銷活動 |計畫標籤{#run-a-batch-smart-campaign-now-schedule-tab}
 
