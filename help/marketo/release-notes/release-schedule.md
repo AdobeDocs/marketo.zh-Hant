@@ -1,19 +1,19 @@
 ---
 unique-page-id: 5472490
-description: 發行計畫——行銷人員檔案——產品檔案
+description: 發行計畫-Marketo文檔——產品文檔
 title: 發行計畫
+exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
-
 # 發行計畫{#release-schedule}
 
-**發行**:Marketo使用每季主要的發行排程。每個版本注意事項一經推出，就會連結在下表中。
+**發行**:Marketo採用季度主要發行計畫。每個版本注意事項一經推出，就會連結在下表中。
 
 **發行日期**:推出通常從發行周的星期三開始，大部分的升級將於星期五晚上進行。系統會傳送電子郵件，內含特定日期和發行詳細資訊。 列出的日期是星期五更新。
 
