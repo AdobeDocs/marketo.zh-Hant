@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512276
-description: 將ON24新增為LaunchPoint服務——行銷人員檔案——產品檔案
+description: 將ON24新增為LaunchPoint服務-Marketo文檔——產品文檔
 title: 將ON24新增為LaunchPoint服務
+exl-id: 562d6091-8a24-4625-b728-ada52d869f0c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-
 # 將ON24添加為LaunchPoint服務{#add-on-as-a-launchpoint-service}
 
-Market負責管理您的ON24網路研討會註冊和出席情況。
+Marketo管理您的ON24網路研討會註冊和出席情況。
 
 >[!NOTE]
 >
@@ -45,4 +45,4 @@ Market負責管理您的ON24網路研討會註冊和出席情況。
 
 >[!MORELIKETHIS]
 >
->瞭解如何在ON24[中建立您的網路研討會活動。](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
+>瞭解如何在ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)中建立您的網路研討會活動。[
