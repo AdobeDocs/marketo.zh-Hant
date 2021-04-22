@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359428
-description: 重新導向著陸頁面——行銷人員至檔案——產品檔案
+description: 重新導向著陸頁面-Marketo檔案——產品檔案
 title: 重新導向著陸頁面
+exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # 重新導向著陸頁面{#redirect-a-landing-page}
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
 ## 步驟2:定義重新導向規則{#step-define-the-redirect-rule}
 
-1. 按一下前一個&#x200B;**原始URL**&#x200B;下拉式清單，然後選取您的Marketo CNAME。
+1. 按一下第一個&#x200B;**原始URL**&#x200B;下拉式清單，然後選取您的MarketoCNAME。
 
    ![](assets/image2014-9-24-13-3a30-3a33.png)
 
    >[!NOTE]
    >
-   >請記住，您只能將以Marketing開頭的著陸頁面重新導向至[CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)。
+   >請記住，您只能重新導向以Marketo[CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)開頭的著陸頁面。
 
 1. 按一下第二個&#x200B;**原始URL**&#x200B;下拉式清單，並選取您要重新導向的著陸頁面。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## 任務完成{#mission-complete}
 
-恭喜！ 您已成功重新導向著陸頁面。
+恭喜您！您已成功重新導向著陸頁面。
 
 <br> 
 
