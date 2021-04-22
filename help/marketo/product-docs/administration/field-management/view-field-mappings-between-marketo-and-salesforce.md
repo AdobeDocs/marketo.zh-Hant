@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360344
-description: 檢視Marketo和Salesforce之間的欄位對應- Marketo Docs —— 產品檔案
-title: 檢視Marketo和Salesforce之間的欄位對應
+description: 檢視Marketo與Salesforce之間的欄位對應-Marketo檔案——產品檔案
+title: 檢視Marketo與Salesforce之間的欄位對應
+exl-id: a60835ec-da8f-4141-af54-0160e2531581
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
+# 檢視Marketo與Salesforce {#view-field-mappings-between-marketo-and-salesforce}之間的欄位對應
 
-# 檢視Marketo和Salesforce之間的欄位對應{#view-field-mappings-between-marketo-and-salesforce}
-
-您可能想要知道特定行銷人員欄位所系結的Salesforce欄位。 這是如何實現的。
+您可能想知道特定Marketo欄位所系結的Salesforce欄位。 這是如何實現的。
 
 >[!NOTE]
 >
@@ -31,4 +31,4 @@ ht-degree: 0%
 >
 >這會顯示Salesforce API名稱，而非標籤名稱。
 
-幹得好！ 您現在知道如何找出您的Marketo欄位所系結的Salesforce欄位。
+幹得好！ 您現在知道如何瞭解您的Marketo欄位所系結的Salesforce欄位。
