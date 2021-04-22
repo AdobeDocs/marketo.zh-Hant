@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147051
-description: 智慧型促銷活動檢查清單——行銷人員檔案——產品檔案
+description: 智慧型促銷活動檢查清單-Marketo檔案——產品檔案
 title: 智慧型促銷活動檢查清單
+exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
 
 ---
-
 
 # 智慧型促銷活動檢查清單{#smart-campaign-checklist}
 
