@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12980785
-description: 發行說明- 8月17日ABM增強功能——行銷檔案——產品檔案
+description: 發行說明- 8月17日ABM增強功能-Marketo文檔——產品文檔
 title: 發行說明- 8月17日ABM增強功能
+exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：8月17日ABM增強功能{#release-notes-august-abm-enhancements}
 
-8月17日的ABM增強版包含下列功能。 檢查您的Marketo版本，以取得功能。
+8月17日的ABM增強版包含下列功能。 查看您的Marketo版功能是否可用。
 
 請按一下標題連結，以檢視每個功能的詳細文章。
 
