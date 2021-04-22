@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146942
-description: 定義智慧型促銷活動的智慧型清單 |觸發器——行銷人員檔案——產品檔案
+description: 定義智慧型促銷活動的智慧型清單 |觸發器-Marketo文檔——產品文檔
 title: 定義智慧型促銷活動的智慧型清單 |觸發器
+exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
-
 
 # 定義智慧型促銷活動的智慧型清單 |觸發器{#define-smart-list-for-smart-campaign-trigger}
 
