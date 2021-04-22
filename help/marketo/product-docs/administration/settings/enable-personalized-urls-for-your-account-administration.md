@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360215
-description: 為您的帳戶啟用個人化URL（管理）-行銷人員檔案——產品檔案
+description: 為您的帳戶啟用個人化URL（管理）-Marketo文檔——產品文檔
 title: 為您的帳戶啟用個人化URL（管理）
+exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # 為您的帳戶啟用個人化URL（管理）{#enable-personalized-urls-for-your-account-administration}
 
