@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147239
-description: 將計畫狀態欄新增至計畫報表——行銷人員檔案——產品檔案
+description: 將計畫狀態列添加到計畫報告-Marketo文檔——產品文檔
 title: 將程式狀態列添加到程式報表
+exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # 將程式狀態列添加到程式報告{#add-program-status-columns-to-a-program-report}
 
