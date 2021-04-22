@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11387513
-description: 建立靜態清單——行銷檔案——產品檔案
+description: 建立靜態清單-Marketo檔案——產品檔案
 title: 建立靜態清單
+exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
-
 
 # 建立靜態清單{#create-a-static-list}
 
