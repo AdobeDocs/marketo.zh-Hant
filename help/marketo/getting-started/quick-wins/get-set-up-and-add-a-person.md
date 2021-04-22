@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359351
-description: 設定並新增人員——行銷人員——產品檔案
+description: 設定並新增人員-Marketo檔案——產品檔案
 title: 設定並新增人員
+exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-
 # 設定並添加{#get-set-up-and-add-a-person}人員
 
 在開始執行任務之前，有幾件事要做。
 
-## 步驟1:登入Marketo {#step-log-in-to-marketo}
+## 步驟1:登入Marketo{#step-log-in-to-marketo}
 
 1. [登入](https://app.marketo.com) Marketing以取得您透過電子郵件收到的認證。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## 步驟3:將自己添加為{#step-add-yourself-as-a-person}
 
-在Marketo中以個人身分加入您，以便您稍後能夠傳送測試電子郵件給自己。
+在Marketo加入自己，以便日後能寄出測驗電子郵件給自己。
 
 1. 轉至&#x200B;**Database**&#x200B;區域。
 
