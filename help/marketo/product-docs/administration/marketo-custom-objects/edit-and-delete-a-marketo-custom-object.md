@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093690
-description: 編輯和刪除行銷人員自訂物件——行銷人員檔案——產品檔案
-title: 編輯和刪除行銷人員自訂物件
+description: 編輯和刪除Marketo自訂物件-Marketo檔案——產品檔案
+title: 編輯和刪除Marketo自定義對象
+exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-
-# 編輯和刪除行銷人員自訂物件{#edit-and-delete-a-marketo-custom-object}
+# 編輯和刪除Marketo自定義對象{#edit-and-delete-a-marketo-custom-object}
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 使用「自訂物件動作」功能表可編輯或刪除自訂物件。
 
-1. 按一下&#x200B;**管理員**，在&#x200B;**資料庫管理**&#x200B;中，選擇&#x200B;**行銷商定制對象**。
+1. 按一下&#x200B;**Admin**，在&#x200B;**資料庫管理**&#x200B;中，選擇&#x200B;**Marketo自定義對象**。
 
    ![](assets/image2016-1-18-13-3a31-3a51.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 >
 >刪除自訂物件後，便無法復原。
 
-1. 按一下&#x200B;**管理員**，在&#x200B;**資料庫管理**&#x200B;中，選擇&#x200B;**行銷商定制對象**。
+1. 按一下&#x200B;**Admin**，在&#x200B;**資料庫管理**&#x200B;中，選擇&#x200B;**Marketo自定義對象**。
 
    ![](assets/image2016-1-18-13-3a36-3a0.png)
 
