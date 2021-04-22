@@ -1,31 +1,31 @@
 ---
 unique-page-id: 10099360
-description: 準備您的活動——行銷人員檔案——產品檔案
+description: 為您的活動做好準備-Marketo文檔——產品文檔
 title: 為您的活動做好準備
+exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-
 # 準備事件{#prepare-for-your-event}
 
 您必須做幾件事，才能為活動做好準備。
 
-## 建立新行銷人員角色{#create-a-new-marketo-role}
+## 建立新的Marketo角色{#create-a-new-marketo-role}
 
-Marketo對事件登入應用程式有特殊的使用者角色。 [建立適用於iPad或](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) Android使用者的新Marketo行銷程式，並具有存取行動應用程式的權限。
+Marketo對活動登入應用程式有特殊的使用者角色。 [為iPad或Android使用者](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 建立新的Marketo行動應用程式，並擁有存取行動應用程式的權限。
 
 ## 邀請新的平板電腦使用者加入事件{#invite-new-tablet-users-to-the-event}
 
 [邀請新的平板電腦使用者加入](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 該活動，並指派新的角色。
 
-## 建立新的行銷活動計畫{#create-a-new-marketo-event-program}
+## 建立新的Marketo事件計畫{#create-a-new-marketo-event-program}
 
-[建立新的Marketo活動](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) 計畫，以擷取您人員在不同階段的進度狀態，並精確測量行銷活動的投資報酬率。
+[建立新的Marketo活](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) 動計畫，以掌握員工在不同階段的進度狀況，並準確衡量行銷活動的投資報酬率。
 
 ## 指定事件日期{#specify-the-event-dates}
 
@@ -47,7 +47,7 @@ Marketo對事件登入應用程式有特殊的使用者角色。 [建立適用�
 
 現在您知道&#x200B;*when*，是時候新增&#x200B;*who*&#x200B;了。
 
-1. 如果您已有人員清單，在My Marketo中，按一下「**資料庫**」方塊。
+1. 如果您已經有人員清單，在「我的Marketo」中，按一下&#x200B;**資料庫**&#x200B;表徵圖。
 
    ![](assets/db.png)
 
