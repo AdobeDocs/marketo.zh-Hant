@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360243
-description: 啟用智慧型促銷活動的人員限制——行銷檔案——產品檔案
+description: 啟用智慧型促銷活動的人員限制-Marketo文檔——產品文檔
 title: 為智慧型促銷活動啟用人員限制
+exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
-
 # 啟用智慧型促銷活動的人員限制{#enable-person-restrictions-for-smart-campaigns}
 
-Market中有一項功能可限制符合智慧型促銷活動資格的&#x200B;_上限_&#x200B;人數。 這樣可避免意外以電子郵件寄送整個資料庫。
+Marketo有一項功能，可限制符合智慧型促銷活動資格的人數上限&#x200B;_。_&#x200B;這樣可避免意外以電子郵件寄送整個資料庫。
 
 >[!NOTE]
 >
