@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360315
-description: 建立人員分區——行銷檔案——產品檔案
+description: 建立人員分區-Marketo文檔——產品文檔
 title: 建立人員分區
+exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # 建立人員分區{#create-a-person-partition}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->人員分區可能很複雜。 請連絡[行銷支援](https://nation.marketo.com/t5/Support/ct-p/Support)以取得設定協助。
+>人員分區可能很複雜。 請聯絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)以取得設定協助。
 
 1. 在「管理」下，選擇&#x200B;**工作區和分區**。
 
