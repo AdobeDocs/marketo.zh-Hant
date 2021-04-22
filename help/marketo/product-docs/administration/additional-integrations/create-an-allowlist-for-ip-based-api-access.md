@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10098433
-description: 建立IP型API存取的允許清單——行銷人員檔案——產品檔案
+description: 建立IP型API存取的允許清單-Marketo檔案——產品檔案
 title: 建立IP型API存取的允許清單
+exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
-
 
 # 為基於IP的API訪問建立允許清單{#create-an-allowlist-for-ip-based-api-access}
 
