@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512278
-description: 將ReadyTalk新增為LaunchPoint服務——行銷人員檔案——產品檔案
+description: 將ReadyTalk添加為LaunchPoint服務-Marketo文檔——產品文檔
 title: 將ReadyTalk添加為LaunchPoint服務
+exl-id: 936735b5-913e-43ee-bdc2-d65ef37d93a3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-
 # 將ReadyTalk添加為LaunchPoint服務{#add-readytalk-as-a-launchpoint-service}
 
-行銷人員可管理您的ReadyTalk網路研討會註冊和出席情況。
+Marketo管理您的ReadyTalk網路研討會註冊和出席情況。
 
 >[!NOTE]
 >
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->瞭解如何使用ReadyTalk[建立事件。](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
+>瞭解如何使用ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)建立事件。[
