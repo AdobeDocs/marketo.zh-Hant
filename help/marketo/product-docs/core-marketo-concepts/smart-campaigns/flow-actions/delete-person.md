@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147082
-description: 刪除人員——行銷人員檔案——產品檔案
+description: 刪除人員-Marketo文檔——產品文檔
 title: 刪除人員
+exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # 刪除人員{#delete-person}
 
@@ -31,10 +31,10 @@ ht-degree: 0%
 
 ![](assets/two-4.png)
 
-您可以從Market刪除CRM中，也可以不從CRM中刪除，例如：
+您可以從Marketo刪除，而不是從CRM刪除，例如：
 
 ![](assets/three-3.png)
 
 >[!NOTE]
 >
->從您的CRM **移除人員只適用於Salesforce**。 如果您從Marketo刪除人員，並選擇在Salesforce中保留他們，則當他們的Salesforce記錄有更新時，就會在Marketo中重新建立他們。
+>從您的CRM **移除人員只適用於Salesforce**。 如果您從Marketo刪除人員並選擇將他們保留在Salesforce中，則如果他們的Salesforce記錄有更新，就會在Marketo重新建立。
