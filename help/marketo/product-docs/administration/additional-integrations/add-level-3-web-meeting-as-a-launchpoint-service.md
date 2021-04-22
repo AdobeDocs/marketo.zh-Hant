@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512292
-description: 將第3級Web會議新增為LaunchPoint服務——行銷人員檔案——產品檔案
+description: 將第3級Web會議新增為LaunchPoint服務-Marketo文檔——產品文檔
 title: 將第3級Web會議新增為LaunchPoint服務
+exl-id: f419b019-33bb-446d-baf5-55393770a703
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-
 # 將第3級Web會議添加為LaunchPoint服務{#add-level-web-meeting-as-a-launchpoint-service}
 
-Market來管理您的Level 3 Web會議註冊和出席情況。
+Marketo管理您的Level 3 Web會議註冊和出席情況。
 
 >[!NOTE]
 >
@@ -39,10 +39,10 @@ Market來管理您的Level 3 Web會議註冊和出席情況。
 
    ![](assets/image2015-4-23-10-3a10-3a26.png)
 
-您的3級Web會議帳戶現在與Marketo同步！
+您的Level 3 Web會議帳戶現在與Marketo同步！
 
 ![](assets/level-3-web-meeting.png)
 
 >[!MORELIKETHIS]
 >
->瞭解如何使用3級Web Meeting[建立事件。](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
+>瞭解如何使用3級Web Meeting](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)建立事件。[
