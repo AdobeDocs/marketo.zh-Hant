@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147027
-description: 將人員同步至SFDC —— 行銷人員文檔——產品文檔
+description: 將人員同步到SFDC -Marketo文檔——產品文檔
 title: 將人員同步到SFDC
+exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
-
 
 # 將人員同步到SFDC {#sync-person-to-sfdc}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 概述{#overview}
 
-此流程步驟會將行銷人員建立的人員插入您的Salesforce CRM。
+此流程步驟會將由Marketo建立的人員插入您的Salesforce CRM中，作為客源。
 
 ![](assets/sync-person-to-sfdc.png)
 
