@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360291
-description: 欄位的區塊更新——行銷檔案——產品檔案
+description: 欄位的區塊更新-Marketo檔案——產品檔案
 title: 塊對欄位的更新
+exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # 對欄位{#block-updates-to-a-field}的塊更新
 
@@ -37,4 +37,4 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >執行清單匯入時，只有在Marketto根據與&#x200B;_完全符合_&#x200B;的欄位名稱自動識別欄位（或如果已建立別名）時，才會顯示「匯入預覽」中被封鎖欄位的狀態。 如果從「行銷人員欄位」下拉式清單中手動選取欄位，則「匯入預覽」中不會顯示封鎖狀態，但仍會實作該欄位的更新封鎖。
+   >執行清單匯入時，「匯入預覽」中被封鎖的欄位狀態只有在Marketo根據與&#x200B;_完全符合_&#x200B;的欄位名稱自動識別欄位（或如果已建立別名）時，才會顯示。 如果從「Marketo欄位」下拉式清單中手動選擇欄位，則「導入預覽」中不會顯示被阻止狀態，但該欄位的更新阻止仍將實施。
