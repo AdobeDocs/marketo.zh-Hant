@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147060
-description: 取消已排程的循環批次促銷活動執行——行銷檔案——產品檔案
+description: 取消計畫的循環批次促銷活動執行-Marketo檔案——產品檔案
 title: 取消已排程的循環批次促銷活動執行
+exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # 取消已排程的循環批次促銷活動執行{#cancel-a-scheduled-recurring-batch-campaign-run}
 
