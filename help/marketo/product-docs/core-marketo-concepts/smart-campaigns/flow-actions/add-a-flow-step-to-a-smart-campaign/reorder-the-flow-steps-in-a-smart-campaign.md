@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146985
-description: 重新排序智慧型促銷活動——行銷檔案——產品檔案中的流程步驟
+description: 在智慧型促銷活動中重新排序流程步驟-Marketo檔案——產品檔案
 title: 在智慧型促銷活動中重新排序流程步驟
+exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
-
 
 # 在智慧型促銷活動中重新排序流程步驟{#reorder-the-flow-steps-in-a-smart-campaign}
 
