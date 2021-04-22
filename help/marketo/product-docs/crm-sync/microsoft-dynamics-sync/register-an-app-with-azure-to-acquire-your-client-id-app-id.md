@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12983390
-description: 向Azure註冊應用程式以取得您的用戶端ID/應用程式ID —— 行銷人員檔案——產品檔案
+description: 向Azure註冊應用程式以取得您的用戶端ID/應用程式ID -Marketo檔案——產品檔案
 title: 向Azure註冊應用程式以取得您的用戶端ID/應用程式ID
+exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
 
 ---
-
 
 # 向Azure註冊應用程式以取得您的用戶端ID/應用程式ID {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
@@ -87,4 +87,3 @@ Azure Active Directory將您的內部目錄延伸至雲端，提供MS Dynamics 3
    你完了！
 
    ![](assets/fifteen.png)
-
