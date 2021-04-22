@@ -1,27 +1,27 @@
 ---
 unique-page-id: 6848922
-description: 下載Marketo Lead Management解決方案- Marketo Docs —— 產品檔案
-title: 下載Marketo Lead管理解決方案
+description: 下載Marketo銷售線索管理解決方案-Marketo文檔——產品文檔
+title: 下載Marketo銷售線索管理解決方案
+exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-
-# 下載Marketo Lead Management Solution {#download-the-marketo-lead-management-solution}
+# 下載Marketo銷售線索管理解決方案{#download-the-marketo-lead-management-solution}
 
 >[!NOTE]
 >
 >**需要管理員權限**
 
-您將需要下載Marketo Solution並安裝至Microsoft Dynamics帳戶，才能開始同步。
+您需要下載並將Marketo解決方案安裝到您的Microsoft Dynamics帳戶中，才能開始同步。
 
 >[!CAUTION]
 >
->在&#x200B;_執行任何升級之前，您必須先下載最新的Marketo Solution_。
+>在執行任何升級之前，您必須先下載最新的Marketo解決方案&#x200B;_。_
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-11-13-3a9-3a7.png)
 
-1. 選擇&#x200B;**下載行銷商解決方案**。
+1. 選擇&#x200B;**下載Marketo解決方案**。
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
