@@ -1,15 +1,15 @@
 ---
 unique-page-id: 5472615
-description: 瞭解系統管理欄位——行銷檔案——產品檔案
+description: 瞭解系統管理欄位-Marketo文檔——產品文檔
 title: 瞭解系統管理欄位
+exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '522'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 瞭解系統管理欄位{#understanding-system-managed-fields}
 
@@ -27,13 +27,13 @@ ht-degree: 0%
 | 註冊源類型 | 活動最初成為人員的位置(例如：清單匯入、網頁瀏覽) |
 | 註冊來源資訊 | 該位置的具體資訊(範例：清單名稱，網頁的URL) |
 | 匿名IP | 指出人員的IP位址 |
-| 推斷的公司 | Marketo對個人公司的最佳猜測（基於IP） |
-| 推斷城市 | Marketto對個人城市的最佳猜測 |
-| 推斷的州區 | Marketo對個人所在州或地區的最佳猜測（依據IP） |
-| 推斷的郵遞區號 | Marketo對個人郵遞區號的最佳猜測（以IP為基礎） |
-| 推斷國家 | Marketo對個人國家的最佳猜測 |
-| 推斷的都市區 | Marketo對人口大都市區的最佳猜測 |
-| 推斷的電話區號 | Marketo對個人區號的最佳猜測（以IP為基礎） |
+| 推斷公司 | Marketo對該人的公司的最佳猜測（基於IP） |
+| 推斷城市 | Marketo對城市的最佳猜測 |
+| 推斷的州區 | Marketo對該人所在州或地區的最佳猜測（基於IP） |
+| 推斷的郵遞區號 | Marketo人郵遞區號的最佳猜測（以IP為基礎） |
+| 推斷國家 | Marketo人國的最佳猜測 |
+| 推斷的都市區 | Marketo人口大都市圈的最佳猜測（以IP為基礎） |
+| 推斷的電話區號 | Marketo人員區號的最佳猜測（以IP為基礎） |
 
 ## 原始源類型和註冊源類型的可能值{#possible-values-for-original-and-registration-source-type}
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 | 銷售電子郵件 | Person是透過Sales Insight電子郵件增益集傳送電子郵件給 |
 | 人物 | Person是以個人身分從Salesforce同步 |
 | 聯絡人 | 人員與Salesforce同步為聯絡人 |
-| Munchkin API | Marketo的Munchkin API發現了Porsen |
+| Munchkin API | Marketo的門奇金API發現了這個人 |
 | 社交應用程式 | 人被社交小工具發現 |
 | 網站服務API | Person是由web service API發現的 |
 | 活動合作夥伴 | 透過同步的網路研討會服務發現此人 |
