@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783561
-description: 傳送範例——行銷人員檔案——產品檔案
+description: 傳送範例-Marketo檔案——產品檔案
 title: 傳送範例
+exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
-
 
 # 傳送範例{#sending-a-sample}
 
