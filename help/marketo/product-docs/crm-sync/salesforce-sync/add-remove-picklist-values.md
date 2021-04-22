@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719312
-description: 新增／移除Picklist值——行銷人員檔案——產品檔案
+description: 新增／移除挑選清單值-Marketo檔案——產品檔案
 title: 添加／刪除選擇清單值
+exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
-
 # 添加／刪除選擇清單值{#add-remove-picklist-values}
 
-以下是在Salesforce中新增和移除挑選清單值的一些相關資訊。
+以下是在Salesforce中新增和移除選取清單值的一些相關資訊。
 
 ## 添加選擇清單值{#adding-picklist-values}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果Salesforce中的銷售機會欄位和連絡人欄位有不同的值，Marketo中將可使用通用值。
+>如果Salesforce中的銷售機會欄位和連絡人欄位有不同的值，則通用值將可用於Marketo。
 
 如果Salesforce中的銷售機會欄位和連絡人欄位有不同的值：
 
