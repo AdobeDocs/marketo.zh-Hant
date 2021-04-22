@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360311
-description: 建立新工作區——行銷檔案——產品檔案
+description: 建立新工作區-Marketo檔案——產品檔案
 title: 建立新工作區
+exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
-
 
 # 建立新工作區{#create-a-new-workspace}
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->若要進一步瞭解Workspace最佳實務，請聯絡[行銷專業服務](mailto:services@marketo.com)。
+>若要進一步瞭解工作區最佳實務，請聯絡[Marketo專業服務](mailto:services@marketo.com)。
 
 1. 在&#x200B;**Admin**&#x200B;下，按一下&#x200B;**Workspaces &amp; Partitions**。
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo在建立時，會在工作區中植入範例資產。 語言允許這些系統初始對象使用非英語語言。
+   >建立後，Marketo將在工作區中植入樣本資產。 語言允許這些系統初始對象使用非英語語言。
 
    ![](assets/five.png)
 
