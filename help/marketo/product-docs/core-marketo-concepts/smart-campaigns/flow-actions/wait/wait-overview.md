@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146950
-description: 等待——行銷人員檔案——產品檔案
+description: 等待-Marketo文檔——產品文檔
 title: 等待
+exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # 等待{#wait}
 
