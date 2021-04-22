@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783557
-description: 標籤完成——行銷檔案——產品檔案
+description: 完成標籤-Marketo文檔——產品文檔
 title: 標籤完成
+exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
 
 ---
-
 
 # 標籤完成{#marking-it-done}
 
