@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951107
-description: 發行說明- 2012年12月——行銷檔案——產品檔案
+description: 發行說明- 2012年12月-Marketo文檔——產品文檔
 title: 發行說明- 2012年12月
+exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
 
 ---
-
 
 # 發行說明：2012年12月{#release-notes-december}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 精細管理權限{#granular-admin-permissions}
 
-我們的最新版本可讓您透過控制每個角色在行銷管理員區域中存取不同功能的權限，來進一步存取和控制管理員角色。 當您建立新角色時，您可以指派角色可存取的特定管理功能。
+我們的最新版本可讓您透過控制每個角色在「Marketo管理員」區域的不同功能的存取權，更好地存取和控制管理員角色。 當您建立新角色時，您可以指派角色可存取的特定管理功能。
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
@@ -39,17 +39,17 @@ ht-degree: 0%
 
 ## BrightTALK適配器{#brighttalk-adapter}
 
-Marketo BrightTALK適配器可讓您從即時或隨選網路廣播擷取出席資訊，直接匯入行銷人員活動！
+MarketoBrightTALK適配器使您能夠從即時或按需網路廣播中直接捕獲出席資訊，並進入Marketo活動！
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
-## Marketo Sales Insight for Microsoft Dynamics {#marketo-sales-insight-for-microsoft-dynamics}
+## MarketoSales Insight for Microsoft Dynamics {#marketo-sales-insight-for-microsoft-dynamics}
 
 Sales Insight現在可供Microsoft Dynamics客戶使用！
 
 ## Dynamics Opportunity Sync {#dynamics-opportunity-sync}
 
-同步Marketo和Microsoft Dynamics之間的機會資料。
+同步Marketo與Microsoft Dynamics之間的機會資料。
 
 ## 行銷影響的機會報告* {#marketing-influenced-opportunities-report}
 
