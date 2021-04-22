@@ -1,18 +1,18 @@
 ---
-description: 設定OAuth 2.0 —— 行銷檔案——產品檔案
+description: 設定OAuth 2.0 -Marketo檔案——產品檔案
 title: 設定OAuth 2.0
+exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-
 # 設定OAuth 2.0 {#setting-up-oauth-2-0}
 
-Salesforce使用OAuth通訊協定，讓應用程式的使用者透過REST API呼叫安全地存取（使用OAuth 2.0驗證應用程式）資料，而不需揭露登入憑證。 以下是要執行的步驟，以安全地將Marketo與Salesforce連接並同步化。
+Salesforce使用OAuth通訊協定，讓應用程式的使用者透過REST API呼叫安全地存取（使用OAuth 2.0驗證應用程式）資料，而不需揭露登入憑證。 以下是要執行的步驟，以安全地連接Marketo與Salesforce並同步化。
 
 ## 設定連線的應用程式{#set-up-connected-app}
 
@@ -42,20 +42,20 @@ Salesforce使用OAuth通訊協定，讓應用程式的使用者透過REST API呼
 
 >[!NOTE]
 >
->儲存消費者金鑰和消費者密碼資訊，以供日後在Marketo中使用。
+>儲存消費者金鑰和消費者機密資訊，以供日後在Marketo使用。
 
-## 設定行銷{#set-up-marketo}
+## 設定Marketo{#set-up-marketo}
 
 >[!PREREQUISITES]
 >
 >* 必須為Salesforce Sync使用者啟用API存取權（如果您是Salesforce Professional Edition使用者，該存取權預設不可用——請連絡您的Salesforce帳戶主管）。
->* 必須在Salesforce中建立Marketo Sync使用者。
+>* Marketo同步使用者必須在Salesforce中建立。
 >* 對於現有客戶，客戶的訂閱中啟用「啟用OAuth for SFDC同步」功能。
 >* 快顯封鎖程式已停用。
 >* 已建立連線的應用程式，我們提供消費者金鑰和消費者密碼供使用。
 
 
-1. 在「行銷管理」區段中，按一下&#x200B;**CRM**，然後按一下&#x200B;**與Salesforce**&#x200B;同步。
+1. 在「Marketo管理員」區段中，按一下&#x200B;**CRM**，然後按一下&#x200B;**與Salesforce**&#x200B;同步。
 
    ![](assets/setting-up-oauth-2-7.png)
 
@@ -63,11 +63,11 @@ Salesforce使用OAuth通訊協定，讓應用程式的使用者透過REST API呼
 
    ![](assets/setting-up-oauth-2-8.png)
 
-1. 在「Marketo Salesforce」同步頁面上，按一下「使用Salesforce登入&#x200B;**」按鈕。**
+1. 在「MarketoSalesforce同步」頁面上，按一下「使用Salesforce登入&#x200B;**」按鈕。**
 
    ![](assets/setting-up-oauth-2-9.png)
 
-1. 將會顯示包含salesforce登入頁面的快顯視窗。 「Marketo同步使用者」憑證中的金鑰並登入。
+1. 將會顯示包含salesforce登入頁面的快顯視窗。 您的「Marketo同步用戶」憑證中的密鑰並登錄。
 
    ![](assets/setting-up-oauth-2-10.png)
 
@@ -79,7 +79,7 @@ Salesforce使用OAuth通訊協定，讓應用程式的使用者透過REST API呼
 
    ![](assets/setting-up-oauth-2-12.png)
 
-1. 幾分鐘後，Marketo就會出現快顯視窗。 按一下&#x200B;**確認憑據**。
+1. 幾分鐘後，Marketo將出現快顯視窗。 按一下&#x200B;**確認憑據**。
 
    ![](assets/setting-up-oauth-2-13.png)
 
@@ -91,6 +91,6 @@ Salesforce使用OAuth通訊協定，讓應用程式的使用者透過REST API呼
 
    ![](assets/setting-up-oauth-2-15.png)
 
-您在Marketo和Salesforce之間的同步作業現在正在進行中。
+您在Marketo和Salesforce之間的同步現在正在進行中。
 
 ![](assets/setting-up-oauth-2-16.png)
