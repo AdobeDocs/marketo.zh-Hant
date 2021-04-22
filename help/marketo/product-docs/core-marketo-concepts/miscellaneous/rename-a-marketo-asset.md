@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2952484
-description: 重新命名Marketo Asset - Marketo Docs —— 產品檔案
-title: 將行銷人員重新命名為資產
+description: 重新命名Marketo資產-Marketo文檔——產品文檔
+title: 重新命名Marketo資產
+exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-
-# 將行銷人員資產重新命名為{#rename-a-marketo-asset}
+# 更名Marketo資產{#rename-a-marketo-asset}
 
 檔案夾、程式和本機資產都可輕鬆重新命名。
 
