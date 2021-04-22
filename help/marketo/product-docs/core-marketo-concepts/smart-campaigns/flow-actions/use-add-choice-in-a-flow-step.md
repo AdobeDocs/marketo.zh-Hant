@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146980
-description: 在流程步驟中使用新增選擇——行銷檔案——產品檔案
+description: 在流程步驟中使用新增選擇-Marketo文檔——產品文檔
 title: 在流程步驟中使用新增選擇
+exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # 在流程步驟{#use-add-choice-in-a-flow-step}中使用添加選擇
 
