@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359414
-description: 簡單計分——行銷檔案——產品檔案
+description: 簡單計分-Marketo文檔——產品文檔
 title: 簡易計分
+exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 0%
 
 ---
-
 
 # 簡單計分{#simple-scoring}
 
@@ -127,6 +127,6 @@ ht-degree: 0%
 
 ![](assets/twenty.png)
 
-**恭喜！** 您已建立計分促銷活動。[◄使命2:具有表單的著陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+**恭喜您！** 您已建立計分促銷活動。[◄使命2:具有表單的著陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 [任務4:電子郵件自動回應►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
