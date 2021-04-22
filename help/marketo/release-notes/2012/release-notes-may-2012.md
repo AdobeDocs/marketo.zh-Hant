@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951117
-description: 發行說明- 2012年5月——行銷檔案——產品檔案
+description: 發行說明- 2012年5月-Marketo文檔——產品文檔
 title: 發行說明- 2012年5月
+exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
-
 
 # 發行說明：2012年5月{#release-notes-may}
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## iPad適用的新事件登入應用程式{#new-event-check-in-app-for-ipad}
 
-使用我們的全新iPad應用程式簡化您的活動登入程式！ 事件登入應用程式會與您的Marketo Program同步，讓您輕鬆將註冊者登入活動，並即時新增銷售機會。
+使用我們的全新iPad應用程式簡化您的活動登入程式！ 事件登入應用程式會與您的Marketo計畫同步，讓您輕鬆將註冊者登入活動，並即時新增銷售機會。
 
 需要iOS 5.1或更新版本；僅限iPad。
 
@@ -81,9 +81,9 @@ ht-degree: 0%
 
 圖9. 在著陸頁面上編輯表單預填設定
 
-## Marketto Treasure Chest {#marketo-treasure-chest}
+## Marketo寶箱{#marketo-treasure-chest}
 
-取用Marketo Engineers開發的實驗性功能，以增強您的使用體驗。 此版本包含「電子郵件還原」功能，以及在您的登陸頁面上輸入註解並與其他使用者協作的功能。
+取用Marketo工程師開發的實驗性功能，以增強您的使用體驗。 此版本包含「電子郵件還原」功能，以及在您的登陸頁面上輸入註解並與其他使用者協作的功能。
 
 ![](assets/image2014-9-23-10-3a16-3a51.png)\
 
@@ -91,13 +91,13 @@ ht-degree: 0%
 
 ## Microsoft Dynamics® CRM整合{#microsoft-dynamics-crm-integration}
 
-使用我們全新的預建整合，在Marketo和Microsoft Dynamics CRM之間同步帳戶、連絡人和潛在客戶！
+使用我們新的預建整合，在Marketo和Microsoft Dynamics CRM之間同步帳戶、聯絡人和潛在客戶！
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
 圖11. Microsoft Dynamics組態
 
-## Marketo Sales Insight增強功能{#marketo-sales-insight-enhancements}
+## Marketo銷售分析增強功能{#marketo-sales-insight-enhancements}
 
 **取消訂閱頁尾選項**
 
@@ -109,7 +109,7 @@ ht-degree: 0%
 
 ## 銷售電子郵件模板的資料夾{#folders-for-sales-email-templates}
 
-您現在可以將與Marketo Sales Insight共用的電子郵件範本組織到指定的資料夾中，讓您的銷售代表更容易找到正確的電子郵件。
+您現在可以將與MarketoSales Insight共用的電子郵件範本組織到指定的資料夾中，讓您的銷售代表更容易找到正確的電子郵件。
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
@@ -117,7 +117,7 @@ ht-degree: 0%
 
 ## 從Sales Insight {#access-opportunity-analyzer-from-sales-insight}訪問Opportunity Analyzer
 
-從Marketing到Sales Insight直接存取Opportunity Analyzer，讓您的銷售代表瞭解哪些行銷活動推動了參與。 注意。 需要Revenue Cycle Analytics授權。
+使用Marketo銷售分析的Opportunity Analyzer直接訪問，為您的銷售代表提供哪些行銷活動正在推動參與的見解。 注意。 需要Revenue Cycle Analytics授權。
 
 ## 聯繫人狀態{#custom-field-for-contact-status}的自定義欄位
 
