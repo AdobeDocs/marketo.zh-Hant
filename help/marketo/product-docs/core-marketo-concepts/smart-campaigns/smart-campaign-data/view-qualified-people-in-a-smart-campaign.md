@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146966
-description: 在智慧型促銷活動中檢視合格人員——行銷人員檔案——產品檔案
+description: 在智慧型宣傳中檢視合格人員-Marketo檔案——產品檔案
 title: 在智慧型促銷活動中檢視合格人員
+exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # 在智慧型促銷活動中檢視合格人員{#view-qualified-people-in-a-smart-campaign}
 
