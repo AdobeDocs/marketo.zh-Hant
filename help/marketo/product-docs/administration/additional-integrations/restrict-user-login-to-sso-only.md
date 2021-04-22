@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360358
-description: 僅限使用者登入SSO —— 行銷人員檔案——產品檔案
+description: 僅限SSO使用者登入-Marketo檔案——產品檔案
 title: 僅限使用者登入SSO
+exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
 
 ---
-
 
 # 僅限SSO用戶登錄{#restrict-user-login-to-sso-only}
 
@@ -49,5 +49,5 @@ ht-degree: 0%
 >
 >* [將單一登入新增至入口網站](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
 >* [使用通用ID進行訂閱登入](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [邀請Marketo使用者使用兩個具有通用ID的例項](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [邀請Marketo用戶使用兩個具有通用ID的實例](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
