@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571813
-description: 第1步（共3步）-在Dynamics（2013年內部部署）中安裝Marketo解決方案——行銷檔案——產品檔案
+description: 第1步（共3步）-在Dynamics中安裝Marketo解決方案（2013年內部部署）-Marketo文檔——產品文檔
 title: 第1步（共3步）-在Dynamics中安裝Marketo解決方案（2013年內部部署）
+exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # 步驟1（共3步）:在Dynamics中安裝Marketo解決方案（2013年內部部署）{#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->將Market與CRM同步後，若不取代例項，就無法執行新同步。
+>將Marketo同步至CRM後，您無法在沒有取代例項的情況下執行新同步。
 
 >[!PREREQUISITES]
 >
 >您必須配置[ Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)(IFD)和[ Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0、2.1或3.0(ADFS)。 注意：當您按一下連結時，IFD檔案會自動下載。
 >
->[開始之前，請先下](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 載Marketo Solution。
+>[開始之前先下](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 載Marketo解決方案。
 
 >[!NOTE]
 >
@@ -75,15 +75,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可能會看到一則訊息，指出「Marketo Lead Management已完成，但有警告」。 這完全是意料之中的。
+   >您可能會看到一則訊息，指出「Marketo銷售線索管理已完成並發出警告」。 這完全是意料之中的。
 
    ![](assets/image2014-12-11-10-3a41-3a14.png)
 
-1. Marketo Lead Management現在會顯示在&#x200B;**所有解決方案**&#x200B;頁面上。
+1. Marketo銷售機會管理現在會顯示在&#x200B;**所有解決方案**&#x200B;頁面上。
 
    ![](assets/image2015-3-26-10-3a1-3a21.png)
 
-1. 選取Marketo解決方案，然後按一下「發佈所有自訂項目&#x200B;**」。**
+1. 選擇Marketo解決方案，然後按一下「發佈所有定制」。****
 
    ![](assets/image2014-12-11-10-3a41-3a32.png)
 
@@ -91,8 +91,8 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->停用任何Marketo SDK訊息處理程式將導致安裝中斷！
+>停用任何MarketoSDK傳訊程式將導致安裝中斷！
 
 >[!MORELIKETHIS]
 >
->[步驟2（共3步）:為Marketo設定同步使用者（2013年內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
+>[步驟2（共3步）:為Marketo配置同步用戶（2013年內部）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
