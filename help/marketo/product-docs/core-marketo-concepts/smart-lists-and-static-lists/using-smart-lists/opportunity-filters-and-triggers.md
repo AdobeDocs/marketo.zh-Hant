@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8159286
-description: 機會篩選與觸發器——行銷檔案——產品檔案
+description: 機會篩選和觸發器-Marketo文檔——產品文檔
 title: 業務機會篩選器和觸發器
+exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
 
 ---
-
 
 # Opportunity Filters和觸發器{#opportunity-filters-and-triggers}
 
