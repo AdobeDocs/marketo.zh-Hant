@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571805
-description: 第1步（共3步）-安裝Marketo解決方案（2011年內部部署）-行銷檔案——產品檔案
+description: 第1步（共3步）-安裝Marketo解決方案（2011年內部部署）-Marketo文檔——產品文檔
 title: 第1步（共3步）-安裝Marketo解決方案（2011年內部部署）
+exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
-
 
 # 步驟1（共3步）:安裝Marketo解決方案（2011年內部部署）{#step-of-install-the-marketo-solution-on-premises}
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->將Market與CRM同步後，若不取代例項，就無法執行新同步。
+>將Marketo同步至CRM後，您無法在沒有取代例項的情況下執行新同步。
 
 >[!PREREQUISITES]
 >
 >您必須配置[ Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)(IFD)和[ Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0、2.1或3.0(ADFS)。 **注意**:當您按一下連結時，IFD檔案會自動下載。
 >
->[開始之前，請先下載Marketo Lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 管理解決方案。
+>[開始之前，請先下載Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 銷售機會管理解決方案。
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. 按一下&#x200B;**瀏覽**。 選擇您[downloaded](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)的Marketo Lead Management解決方案。 按一下&#x200B;**Next**。
+1. 按一下&#x200B;**瀏覽**。 選擇您[downloaded](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)的Marketo銷售線索管理解決方案。 按一下&#x200B;**Next**。
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -75,15 +75,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可能會看到一則訊息，指出「Marketo Lead Management已完成，但有警告」。 這完全是意料之中的。
+   >您可能會看到一則訊息，指出「Marketo銷售線索管理已完成並發出警告」。 這完全是意料之中的。
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. Marketo Lead Management現在會顯示在&#x200B;**所有解決方案**&#x200B;頁面上。
+1. Marketo銷售機會管理現在會顯示在&#x200B;**所有解決方案**&#x200B;頁面上。
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. 選擇「Marketto Lead Management」，然後按一下「**發佈所有自訂項目」。**
+1. 選擇「Marketo銷售線索管理」，然後按一下「發佈所有定制」。****
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 
@@ -91,8 +91,8 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->停用任何Marketo SDK訊息處理程式將導致安裝中斷！
+>停用任何MarketoSDK傳訊程式將導致安裝中斷！
 
 >[!MORELIKETHIS]
 >
->[步驟2（共3步）:在Dynamics中設定Marketto同步使用者（2011年內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+>[步驟2（共3步）:在Dynamics中設定Marketo同步使用者（2011年內部）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
