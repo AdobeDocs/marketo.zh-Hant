@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360276
-description: 隱藏／取消隱藏計畫渠道——行銷檔案——產品檔案
+description: 隱藏／取消隱藏計畫渠道-Marketo文檔——產品文檔
 title: 隱藏／取消隱藏程式頻道
+exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # 隱藏／取消隱藏程式通道{#hide-unhide-a-program-channel}
 
@@ -40,4 +40,3 @@ ht-degree: 0%
 1. 勾選「顯示隱藏」核取方塊，以取消隱藏「程式頻道」。
 
    ![](assets/image2014-9-24-15-3a47-3a24.png)
-
