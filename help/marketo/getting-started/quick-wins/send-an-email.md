@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359410
-description: 傳送電子郵件——行銷人員檔案——產品檔案
+description: 傳送電子郵件-Marketo檔案——產品檔案
 title: 傳送電子郵件
+exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
 
 ---
 
-
 # 傳送電子郵件{#send-an-email}
 
-這是每個人都想做的第一件事。 我們從Marketo寄電子郵件吧！
+這是每個人都想做的第一件事。 我們從Marketo發郵件吧！
 
 >[!PREREQUISITES]
 >
