@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10100272
-description: 發佈自訂活動——行銷人員檔案——產品檔案
+description: 發佈自訂活動-Marketo文檔——產品文檔
 title: 發佈自訂活動
+exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
-
 
 # 發佈自訂活動{#publish-a-custom-activity}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/one-2.png)
 
-1. 在&#x200B;**資料庫管理**&#x200B;中，按一下&#x200B;**行銷人員自訂活動**。
+1. 在&#x200B;**資料庫管理**&#x200B;中，按一下&#x200B;**Marketo定制活動**。
 
    ![](assets/two-2.png)
 
