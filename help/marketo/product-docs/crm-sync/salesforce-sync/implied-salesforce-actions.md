@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719304
-description: 隱含的Salesforce動作——行銷檔案——產品檔案
+description: 隱含的Salesforce動作-Marketo檔案——產品檔案
 title: 隱含的Salesforce動作
+exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # 隱含的Salesforce動作{#implied-salesforce-actions}
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 <table> 
  <thead> 
   <tr> 
-   <th>行銷人員流程步驟</th> 
+   <th>Marketo流程步驟</th> 
    <th>自動動作</th> 
   </tr> 
  </thead> 
