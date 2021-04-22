@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147257
-description: 導覽行銷行事歷——行銷檔案——產品檔案
+description: 導覽行銷行事歷-Marketo檔案——產品檔案
 title: 導覽行銷行事歷
+exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # 導覽行銷行事歷{#navigating-the-marketing-calendar}
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->請確定您有[行銷行事歷授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) —— 否則「行銷行事歷」方塊不會顯示在「我的行銷人員」中。
+>請確定您有[行銷日曆授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) —— 否則「行銷日曆」圖格不會顯示在「我的Marketo」中。
 
 1. 前往&#x200B;**行銷行事歷**。
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. 這是您對Marketo實例中排程資產的鳥瞰圖。
+1. 這是您在Marketo實例中排程的資產的概覽。
 
    ![](assets/image2014-9-15-16-3a44-3a22.png)
 
