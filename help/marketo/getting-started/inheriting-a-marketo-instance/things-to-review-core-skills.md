@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7516607
-description: 要檢閱的事項——核心技能——行銷人員檔案——產品檔案
+description: 要檢閱的事項——核心技能-Marketo文檔——產品文檔
 title: 要檢閱的事項——核心技能
+exl-id: 37dfb6e7-b850-45fe-bbf4-15eb58a7bc1d
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
-
 
 # 要檢閱的項目：核心技能{#things-to-review-core-skills}
 
