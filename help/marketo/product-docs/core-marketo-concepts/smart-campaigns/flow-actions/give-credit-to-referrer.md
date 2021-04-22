@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147040
-description: 給予反向連結評分——行銷檔案——產品檔案
+description: 給予反向連結評分-Marketo檔案——產品檔案
 title: 給予反向連結評分
+exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 給予反向連結評分{#give-credit-to-referrer}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 當執行[反向連結選件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)或[抽獎活動](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)時，您可以使用不同的方法為反向連結提供評價：
 
-* 反向連結瀏覽
+* 推薦造訪
 * 反向註冊
 * **智慧型清單觸發器**
 * 自訂JavaScript事件
