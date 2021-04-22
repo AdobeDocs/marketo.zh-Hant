@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360274
-description: 管理標籤值——行銷檔案——產品檔案
+description: 管理標籤值-Marketo文檔——產品文檔
 title: 管理標籤值
+exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
-
 
 # 管理標籤值{#managing-tag-values}
 
