@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147049
-description: 重新命名智慧型促銷活動——行銷人員檔案——產品檔案
+description: 重新命名智慧型促銷活動-Marketo檔案——產品檔案
 title: 重新命名智慧型促銷活動
+exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # 重新命名智慧型促銷活動{#rename-a-smart-campaign}
 
