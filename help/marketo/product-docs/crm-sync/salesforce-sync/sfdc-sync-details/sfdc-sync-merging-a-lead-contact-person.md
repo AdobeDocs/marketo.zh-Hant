@@ -1,22 +1,22 @@
 ---
 unique-page-id: 7515133
-description: SFDC同步——合併銷售線索／聯繫人／人員——行銷人員——產品文檔
+description: SFDC同步——合併潛在客戶／聯繫人／人員-Marketo文檔——產品文檔
 title: SFDC同步——合併銷售線索／聯繫人／人員
+exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
-
 # SFDC同步：合併銷售線索／聯繫人／人員{#sfdc-sync-merging-a-lead-contact-person}
 
 有時最好只列出規則。 接下來：
 
-* 當您在&#x200B;**Salesforce**&#x200B;中合併兩個銷售機會時，一般同步會告訴Marketo，而銷售機會會自動合併為Marketo中的人員。
-* 在&#x200B;**Marketo**&#x200B;中合併兩個人實際上會叫用與在Salesforce中合併他們作為銷售線索相同的程式。 它仍會自動運作。
+* 當您在&#x200B;**Salesforce**&#x200B;中合併兩個銷售機會時，一般同步會告訴Marketo，銷售機會會自動合併為Marketo的人員。
+* 在&#x200B;**Marketo**&#x200B;中合併兩個人實際上會叫用與在Salesforce中合併他們作為銷售線索相同的流程。 它仍會自動運作。
 * 將&#x200B;**銷售線索（人員）合併到聯繫人**&#x200B;的運作方式相同。 最後雙方都有單一接觸。
 * 合併時，預設分數會相加。
 
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->深入瞭解[在Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)中合併人員的更多資訊。
+>深入探討[Marketo人合併的更多資訊。](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)
