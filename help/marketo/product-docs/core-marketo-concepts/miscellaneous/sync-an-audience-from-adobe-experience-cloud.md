@@ -1,20 +1,20 @@
 ---
-description: 從Adobe Experience Cloud同步觀眾——行銷人員檔案——產品檔案
+description: 同步來自Adobe Experience Cloud的觀眾-Marketo文檔——產品文檔
 title: 從Adobe Experience Cloud同步觀眾
+exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 translation-type: tm+mt
-source-git-commit: 05c2e89222f9316241a3929642998bddb02ff7a5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-
 # 從Adobe Experience Cloud同步觀眾{#sync-an-audience-from-adobe-experience-cloud}
 
 >[!NOTE]
 >
->Marketo例項的HIPAA適用部署無法使用此整合。
+>Marketo實例的HIPAA就緒部署無法使用此整合。
 
 >[!PREREQUISITES]
 >
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 如何同步對象{#how-to-sync-an-audience}
 
-1. 在My Marketo中，按一下&#x200B;**Database**&#x200B;表徵圖。
+1. 在「我的Marketo」中，按一下&#x200B;**Database**&#x200B;表徵圖。
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
@@ -50,13 +50,13 @@ ht-degree: 0%
 
 **Cookie如何同步？**
 
-當您的Marketo訂閱啟用Cookie同步時，Marketo的munchkin.js會嘗試擷取並儲存您在整合設定期間指定之AdobeIMS組織的AdobeECID，並將這些ECID與對應的Marketo Cookie識別碼相符。 這可讓Marketo的匿名使用者個人檔案更豐富地使用AdobeECID。
+當您的Marketo訂閱啟用Cookie同步時，Marketo的munchkin.js將嘗試擷取並儲存您在整合設定期間指定之AdobeIMS組織的AdobeECID，並將這些ECID與對應的MarketoCookie識別碼相符。 這可讓Marketo的匿名使用者個人檔案更豐富地使用AdobeECID。
 
 需要進一步步驟，將匿名用戶配置檔案與使用純文字檔案電子郵件標識的銷售線索配置檔案關聯。 此處說明[的運作方式。](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
 
-**為什麼Marketo中的清單大小與Adobe中的清單大小不同？**
+**為什麼Marketo的名單大小和Adobe的不同？**
 
-如果我們無法將ECID Cookie ID系結至Marketo中的已知人員，使用者也不會同步。
+如果我們無法將ECID Cookie ID系結至Marketo的已知人員，則使用者也不會同步。
 
 **這是一次性同步嗎？**
 
