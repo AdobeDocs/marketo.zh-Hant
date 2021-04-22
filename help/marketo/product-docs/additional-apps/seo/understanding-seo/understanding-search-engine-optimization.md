@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949176
-description: 瞭解搜尋引擎最佳化——行銷檔案——產品檔案
+description: 瞭解搜尋引擎最佳化-Marketo檔案——產品檔案
 title: 瞭解搜尋引擎最佳化
+exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
 
 ---
 
-
 # 瞭解搜尋引擎最佳化{#understanding-search-engine-optimization}
 
-搜尋引擎最佳化(SEO)是最佳實務的集合，可協助您讓使用搜尋引擎的使用者看到您的頁面。 Marketo的SEO應用程式將協助您改善。
+搜尋引擎最佳化(SEO)是最佳實務的集合，可協助您讓使用搜尋引擎的使用者看到您的頁面。 Marketo的SEO應用程式將幫助您改進。
 
 首先，您應使用這個方便的辭彙表來學習基本知識。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 (範例：極簡主義女式跑鞋尺碼9)
 
-**最佳化分數**:「最佳化分數」是專屬的行銷人員，可測量網站上所有頁面的分數，分數範圍為1到100。它以數十種最佳實務為基礎。 分數為70分或以上表示網站已最佳化。
+**最佳化分數**:「最佳化分數」是專屬的Marketo分數，會以1到100的分數測量您網站上的所有頁面。它以數十種最佳實務為基礎。 分數為70分或以上表示網站已最佳化。
 
 **頁面最佳化**:可直接在網站本身採取的措施，以改善其在搜尋引擎結果頁面中的位置。
 
