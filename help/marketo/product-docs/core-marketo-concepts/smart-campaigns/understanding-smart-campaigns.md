@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953120
-description: 瞭解智慧型促銷活動——行銷檔案——產品檔案
+description: 瞭解智慧型宣傳-Marketo文檔——產品文檔
 title: 瞭解智慧型促銷活動
+exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-
 # 瞭解智慧型促銷活動{#understanding-smart-campaigns}
 
 ![](assets/image2014-12-24-11-3a37-3a0.png)
 
-如果Marketo是一輛強大的汽車，那麼聰明的宣傳就是真正的引擎。 開始使用很簡單，但幾乎可以做任何您要求的事。
+如果Marketo是一輛強大的汽車，那麼聰明的宣傳活動就是真正的引擎。 開始使用很簡單，但幾乎可以做任何您要求的事。
 
 智慧型促銷活動有3個主要區域：[智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)、[流](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)和[調度](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)頁籤。
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 最後，當您執行智慧型促銷活動時，此功能會加以控制。 您甚至可以設定週期，讓它以重複排程執行。
 
-聰明的宣傳活動可以做很多事。 瞭解詳情後，您會發現Marketo中的一切都變得易於理解。
+聰明的宣傳活動可以做很多事。 掌握它，你會發現Marketo的一切都變得更容易理解。
 
 >[!MORELIKETHIS]
 >
