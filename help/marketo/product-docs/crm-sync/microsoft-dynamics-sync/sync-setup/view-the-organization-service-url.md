@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504770
-description: 檢視組織服務URL —— 行銷檔案——產品檔案
+description: 檢視組織服務URL -Marketo檔案——產品檔案
 title: 查看組織服務URL
+exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # 查看組織服務URL {#view-the-organization-service-url}
 
