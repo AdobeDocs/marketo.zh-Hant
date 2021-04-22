@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147129
-description: 建立計畫績效報告——行銷檔案——產品檔案
+description: 建立計畫績效報告-Marketo文檔——產品文檔
 title: 建立方案績效報告
+exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
 
 ---
-
 
 # 建立程式效能報告{#create-a-program-performance-report}
 
