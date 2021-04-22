@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512289
-description: 將GoTo網路研討會新增為LaunchPoint服務——行銷人員檔案——產品檔案
+description: 將GoToWebinar新增為LaunchPoint服務-Marketo檔案——產品檔案
 title: 將GoTo網路研討會新增為LaunchPoint服務
+exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-
 # 將GoToWebar新增為LaunchPoint服務{#add-gotowebinar-as-a-launchpoint-service}
 
-Market來管理您的GoTo網路研討會註冊和出席情況。
+Marketo管理您的GoTo網路研討會註冊和出席情況。
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ Market來管理您的GoTo網路研討會註冊和出席情況。
 
    >[!NOTE]
    >
-   >如果您要將行銷人員的公司名稱和職稱同步至GoTo網路研討會，請選取「啟用其他欄位&#x200B;**」方塊。**
+   >如果要將公司名稱和職銜從Marketo表單同步到GoToWebanar，請選擇&#x200B;**啟用其他欄位**&#x200B;框。
 
 1. 在「GoToWebinar登入」快顯視窗中，輸入您的&#x200B;**GoToWebinar**&#x200B;電子郵件和密碼，然後按一下「登入」**。**
 
@@ -55,14 +55,14 @@ Market來管理您的GoTo網路研討會註冊和出席情況。
 
    ![](assets/image2015-4-22-15-3a57-3a43.png)
 
-1. 太好了！ 您的&#x200B;**GoToWebinar**&#x200B;帳戶現在會與Marketo同步。
+1. 太好了！ 您的&#x200B;**GoToWebinar**&#x200B;帳戶現在與Marketo同步。
 
    ![](assets/goto-webinar.png)
 
 >[!CAUTION]
 >
->當您在GoTo網路研討會中更新密碼時，也必須在Marketo中更新密碼。
+>當您在GoTo網路研討會中更新密碼時，也必須在Marketo更新密碼。
 
 >[!MORELIKETHIS]
 >
->瞭解如何使用GotoWebanar[建立活動。](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
+>瞭解如何使用GotoWebanar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)建立活動。[
