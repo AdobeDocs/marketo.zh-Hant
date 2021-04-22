@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360207
-description: 建立僅限API的使用者——行銷人員檔案——產品檔案
+description: 建立僅限API的使用者-Marketo檔案——產品檔案
 title: 建立僅限API的使用者
+exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-
 # 建立僅限API的使用者{#create-an-api-only-user}
 
-如果您想要透過[REST API](https://developers.marketo.com/documentation/rest/)與Marketo整合，則需要建立僅限API的使用者。 這是方法。
+如果您想要透過[REST API](https://developers.marketo.com/documentation/rest/)與Marketo整合，則必須建立僅限API的使用者。 這是方法。
 
 >[!PREREQUISITES]
 >
