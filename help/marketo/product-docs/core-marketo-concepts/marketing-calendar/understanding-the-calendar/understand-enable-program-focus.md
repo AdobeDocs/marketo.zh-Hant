@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953364
-description: 瞭解／啟用計畫焦點——行銷檔案——產品檔案
+description: 瞭解／啟用計畫重點-Marketo文檔——產品文檔
 title: 瞭解／啟用計畫焦點
+exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # 瞭解／啟用程式焦點{#understand-enable-program-focus}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >將焦點放在程式上，可讓您只與屬於程式的項目互動，並建立新的項目，供其儲存。
+   >專注於程式可讓您只與屬於它的項目互動，並建立新項目，供它儲存。
 
 1. 完成後，請放開重點，與其他程式／項目互動。
 
