@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7514027
-description: 將人員同步至Microsoft —— 行銷人員檔案——產品檔案
+description: 將人員同步到Microsoft -Marketo文檔——產品文檔
 title: 將人員同步至Microsoft
+exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
 
 ---
-
 
 # 將人員同步到Microsoft {#sync-person-to-microsoft}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 概述{#overview}
 
-此流程步驟會將行銷人員建立至您的Dynamics CRM。
+此流程步驟會將Marketo建立的人員插入您的Dynamics CRM。
 
 ![](assets/one.png)
 
