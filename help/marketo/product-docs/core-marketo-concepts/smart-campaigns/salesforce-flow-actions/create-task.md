@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147017
-description: 建立工作——行銷人員檔案——產品檔案
+description: 建立任務-Marketo文檔——產品文檔
 title: 建立任務
+exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # 建立任務{#create-task}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->當Marketo Sync使用者建立工作時，**到期日**&#x200B;是在Salesforce中建立工作的必填欄位。 如果沒有值，Marketo預設會輸入5天。
+>當「Marketo同步用戶」建立任務時，**Due In**&#x200B;是在Salesforce中建立任務的必填欄位。 如果沒有值，Marketo預設會輸入5天。
 
 依預設，流程步驟會如下所示：
 
