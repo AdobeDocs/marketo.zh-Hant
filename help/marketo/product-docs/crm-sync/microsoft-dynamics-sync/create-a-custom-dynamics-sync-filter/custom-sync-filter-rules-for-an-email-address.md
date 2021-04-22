@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10095307
-description: 電子郵件地址的自訂同步篩選規則——行銷人員檔案——產品檔案
+description: 電子郵件地址的自訂同步篩選規則-Marketo檔案——產品檔案
 title: 電子郵件地址的自訂同步篩選規則
+exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
 
 ---
 
-
 # 電子郵件地址{#custom-sync-filter-rules-for-an-email-address}的自訂同步篩選規則
 
 為避免同步沒有電子郵件地址的記錄，請遵循這些規則。
 
-* 當銷售線索的電子郵件地址欄位更新時建立OR時，檢查銷售線索是否有電子郵件地址，如果有，請將「同步至Mkto」變更為&#x200B;**True**。 否則，請變更為&#x200B;**False**
+* 當銷售線索的電子郵件地址欄位更新時建立OR時，檢查銷售線索是否有電子郵件地址，如果有，請將「同步至Mkto」變更為「**True**」。 否則，請變更為&#x200B;**False**
 
 * 當建立連絡人或更新連絡人的電子郵件地址欄位時，檢查連絡人是否有電子郵件地址，如果有，請將「同步至Mkto」變更為「**True**」，並在「帳戶記錄」中將「同步至Mkto」變更為「**True**」。 否則，請變更為&#x200B;**False**
 
