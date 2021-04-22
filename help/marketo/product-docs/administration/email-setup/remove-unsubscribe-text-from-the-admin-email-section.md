@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360245
-description: 從「管理員電子郵件區段——行銷人員檔案——產品檔案」移除取消訂閱文字
+description: 從「管理員電子郵件」區段移除取消訂閱文字-Marketo檔案——產品檔案
 title: 從「管理員電子郵件」區段移除取消訂閱文字
+exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 
 ---
-
 
 # 從「管理員電子郵件」區段{#remove-unsubscribe-text-from-the-admin-email-section}移除取消訂閱文字
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-26-13-3a53-3a15.png)
 
-1. 按一下「保存更改」**。**
+1. 按一下&#x200B;**保存更改**。
 
    ![](assets/image2016-8-26-13-3a59-3a40.png)
 
