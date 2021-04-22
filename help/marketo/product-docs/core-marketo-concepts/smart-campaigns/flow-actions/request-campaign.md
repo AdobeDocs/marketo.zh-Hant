@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951703
-description: 要求促銷活動——行銷人員檔案——產品檔案
+description: 請求促銷活動-Marketo文檔——產品文檔
 title: 請求促銷活動
+exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
-
 
 # 請求促銷活動{#request-campaign}
 
