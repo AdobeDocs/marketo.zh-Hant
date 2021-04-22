@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512524
-description: 智慧型清單的最佳實務——行銷檔案——產品檔案
+description: 智慧型清單的最佳實務-Marketo檔案——產品檔案
 title: 智慧型清單的最佳實務
+exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
 
 ---
-
 
 # 智慧清單的最佳實踐{#best-practices-for-smart-lists}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >**每個客戶都不同。** 資料庫越大，處理越多。您儲存的活動越多，搜尋活動所需的時間就越長。
 >
->如果您遇到速度緩慢的問題，請嘗試以下提示。 如果問題持續存在，請聯絡[行銷支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
+>如果您遇到速度緩慢的問題，請嘗試以下提示。 如果問題仍然存在，請與[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)聯繫。
 
 1. **限制歷史記** 錄——歷史記錄篩選器(例如活動篩選器)是資源最密集、最耗時的操作之一。如果您必須使用這些資料，請盡量將日期範圍限制為最短，如此可減少可搜尋的資料集。
 1. **限制嵌套智慧清單-** 建立新智慧清單時，請限制使用的「智慧清單成員」篩選器的數量。這稱為巢狀智慧型清單，而參考的每個智慧型清單都會增加處理時間。 請改為參考靜態清單或使用[segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)。
@@ -36,4 +36,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Marketo可以以多種方式使用，而某些技巧對您和您的業務更有幫助。 請考慮[行銷專業服務](https://pages2.marketo.com/72-hour-survival-guide.html)，讓您的投資蒸蒸日上。
+>Marketo可以用於多種方式，而某些技術對您和您的業務來說更好。 請考慮[Marketo專業服務](https://pages2.marketo.com/72-hour-survival-guide.html)，讓您的投資蒸蒸日上。
