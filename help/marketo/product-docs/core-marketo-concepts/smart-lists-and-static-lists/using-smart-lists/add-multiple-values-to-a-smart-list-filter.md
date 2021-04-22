@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360496
-description: 將多個值新增至智慧型清單篩選——行銷人員檔案——產品檔案
+description: 將多個值添加到智慧清單篩選器-Marketo文檔——產品文檔
 title: 將多個值添加到智慧清單過濾器
+exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
-
 
 # 將多個值添加到智慧清單過濾器{#add-multiple-values-to-a-smart-list-filter}
 
