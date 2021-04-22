@@ -1,19 +1,19 @@
 ---
 unique-page-id: 17728028
-description: 將縮放新增為LaunchPoint服務——行銷人員檔案——產品檔案
+description: 將縮放新增為LaunchPoint服務-Marketo檔案——產品檔案
 title: 將縮放新增為LaunchPoint服務
+exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-
 # 將縮放新增為LaunchPoint服務{#add-zoom-as-a-launchpoint-service}
 
-Market來管理您的縮放註冊和出席率。
+Marketo管理您的縮放註冊和出席率。
 
 >[!NOTE]
 >
@@ -47,12 +47,12 @@ Market來管理您的縮放註冊和出席率。
 
    ![](assets/create-1.png)
 
-   太好了！ 您的縮放帳戶現在會與Marketo同步，並可在LaunchPoint區中找到。
+   太好了！ 您的縮放帳戶現在與Marketo同步，可在LaunchPoint區找到。
 
 >[!CAUTION]
 >
->當您在縮放中更新密碼時，也必須在Marketo中更新密碼。
+>當您在縮放中更新密碼時，也必須在Marketo更新密碼。
 
 >[!MORELIKETHIS]
 >
->瞭解如何使用Zoom[建立事件。](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
+>瞭解如何使用Zoom](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)建立事件。[
