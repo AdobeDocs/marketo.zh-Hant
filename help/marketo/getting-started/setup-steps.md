@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949469
-description: 設定步驟——行銷人員檔案——產品檔案
+description: 設定步驟-Marketo檔案——產品檔案
 title: 設定步驟
+exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '2004'
 ht-degree: 0%
 
 ---
 
-
 # 設定步驟{#setup-steps}
 
-**馬克托歡迎你！**
+**Marketo歡迎你！**
 
-在您投入使用Marketo之前，您需要先完成幾個步驟。
+在開始使用Marketo之前，您需要先完成幾個步驟。
 
 這些步驟包括：
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您的公司是&#x200B;**新進行Marketo**，則只需執行這些步驟。 否則，可能已完成設定。
+>如果您的公司是&#x200B;**新來Marketo的**，則只需執行這些步驟。 否則，可能已完成設定。
 
 有些步驟需要IT團隊的協助。
 
@@ -36,11 +36,11 @@ ht-degree: 0%
 
 ## 登入並建立其他Marketo使用者{#log-in-and-create-additional-marketo-users}
 
-1. 使用您透過電子郵件收到的認證登入Marketo [here](https://app.marketo.com/)。
+1. 使用您透過電子郵件收到的認證登入Marketo[此處](https://app.marketo.com/)。
 
    ![](assets/new-login-screen-hand.jpg)
 
-恭喜！ 您現在已進入Marketo，可以開始探索。 您可能會想邀請行銷團隊的同事加入您。 您可以新增使用者來完成此作業。
+恭喜您！您現在已在Marketo，可以開始探索。 您可能會想邀請行銷團隊的同事加入您。 您可以新增使用者來完成此作業。
 
 前往&#x200B;**Admin**&#x200B;區域。
 
@@ -76,7 +76,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->到期日對短期外部利益相關者或顧問非常適合，他們只需要Market才能短暫存取。
+>到期日對短期外部利益相關方或顧問非常適合，他們只需要短暫的Marketo訪問。
 
 >[!NOTE]
 >
@@ -100,17 +100,17 @@ ht-degree: 0%
 
 ## 設定您的授權支援聯繫人{#set-up-your-authorized-support-contacts}
 
-您可能已收到Marketo Support寄來的電子郵件，指出您是貴公司的Marketo Customer Support管理員。 如果是，您可以為團隊設定&#x200B;**授權支援聯繫人**。 只有授權的支援聯絡人才能直接透過[行銷支援入口網站](https://support.marketo.com)與行銷客戶支援聯絡。
+您可能收到Marketo支援寄來的電子郵件，指出您是貴公司的Marketo客戶支援管理員。 如果是，您可以為團隊設定&#x200B;**授權支援聯繫人**。 只有授權的支援聯繫人才能直接通過[Marketo支援門戶](https://support.marketo.com)聯繫Marketo客戶支援。
 
 >[!NOTE]
 >
->您可以建立的支援連絡人數，由您購買的套件決定。 此限制是在您從行銷人員寄至支援的電子郵件中指定。
+>您可以建立的支援連絡人數，由您購買的套件決定。 此限制是在您從Marketo支援部門寄出的電子郵件中指定。
 
-授權支援連絡檔案已移至Marketo社群。 請參閱[本文](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341)。
+授權支援聯絡檔案已移至Marketo社區。 請參閱[本文](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341)。
 
 >[!NOTE]
 >
->只有登入Marketo社群的人員才會出現在清單中。 如果您找不到該人，請確定他們先登入社群。
+>只有登入Marketo社區的人才會出現在清單中。 如果您找不到該人，請確定他們先登入社群。
 
 ## 使用CNAME {#customize-your-landing-page-urls-with-a-cname}自訂著陸頁面URL
 
@@ -148,7 +148,7 @@ ht-degree: 0%
 
 這是`[AccountString]`。 保存。 您需要在步驟5中將它提供給IT部門。
 
-設定您的網域設定，讓登陸頁面使用您公司的網域，而非Marketo的網域（其所在位置）。
+設定您的網域設定，讓登陸頁面使用您公司的網域，而非Marketo的網域（其所在地）。
 
 ## 確保電子郵件傳遞能力{#ensure-email-deliverability}
 
@@ -158,11 +158,11 @@ ht-degree: 0%
 
 您可以採取數種措施來確保電子郵件能觸及到盡可能多的人。
 
-    1.**品牌化您的追蹤連結**。 您可以選擇CNAME，在您從Marketo寄送的電子郵件中所包含的連結中，使用您自己的網域（而非Marketo）。 這可強化您的網域品牌，並提高您與收件者的信任和傳遞能力。
-    1.**將Marketo新增至您的公司電子郵件允許清單。**在傳送電子郵件給實際使用者之前，先將測試電子郵件傳送至您的測試帳戶是常見的最佳做法。 借由允許Marketto，您可以防止這些測試電子郵件遭到封鎖或標幟為垃圾訊息。
-    1.**設定SPF和DKIM。**這些技術可確保您的收件者確信您的行銷人員電子郵件並非垃圾郵件。 為協助防止收件者的垃圾訊息篩選器拒絕您的Marketo電子郵件，請依照下列步驟執行[設定SPF和DKIM以取得您的電子郵件傳送能力](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)。
+    1.**品牌化您的追蹤連結**。 您可以選擇CNAME，在您從Marketo寄送的電子郵件所包含的連結中，使用您自己的網域(而非Marketo網域)。 這可強化您的網域品牌，並提高您與收件者的信任和傳遞能力。
+    1.**將Marketo加入您的公司電子郵件允許清單。**在傳送電子郵件給實際使用者之前，先將測試電子郵件傳送至您的測試帳戶是常見的最佳做法。 借由允許Marketo加入，您可以防止這些測試電子郵件遭到封鎖或標示為垃圾訊息。
+    1.**設定SPF和DKIM。**這些技術可確保您的收件者，您的Marketo電子郵件不是垃圾郵件。 為協助防止收件者的垃圾郵件篩選器拒絕您的Marketo電子郵件，請依照下列步驟執行[設定SPF和DKIM以取得您的電子郵件傳送能力](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)。
     1.**為您的網域設定MX記錄。** MX記錄可讓您接收寄送電子郵件至網域的郵件，以處理回覆和自動回覆者。 如果您是從公司網域傳送，則可能已設定此設定。 若未設定，您通常可設定為對應至您公司網域的MX記錄。
-    1.**建議的起始位址設定。**您必須在所有電子郵件促銷活動的「寄件者位址」中使用有效、現有且有效的電子郵件網域。 設定公司網域的子網域，而非從公司網域傳送，可能會有好處。 如此可確保您公司mailstream的問題不會影響您的Marketo mailstream，反之亦然。 此外，從something@nonexistentdomain.com傳送郵件會導致篩選或封鎖電子郵件。 發件人地址中使用的任何域都必須具有有效且有效的postmaster@和upuse@帳戶。
+    1.**建議的起始位址設定。**您必須在所有電子郵件促銷活動的「寄件者位址」中使用有效、現有且有效的電子郵件網域。 設定公司網域的子網域，而非從公司網域傳送，可能會有好處。 如此可確保您公司郵件串流的問題不會影響您的Marketo郵件串流，反之亦然。 此外，從something@nonexistentdomain.com傳送郵件會導致篩選或封鎖電子郵件。 發件人地址中使用的任何域都必須具有有效且有效的postmaster@和upuse@帳戶。
     如果您使用Google Apps代管公司電子郵件，將無法在您的網域下建立ubuse@或postmaster@電子郵件。為瞭解決這個問題，您需要建立名為「濫用」和「郵遞員」的組。 屬於這些群組成員的使用者將會收到傳送至這些位址的電子郵件(例如postmaster@domain.com)。 有關建立群組的詳細說明，請參閱[此處](https://support.google.com/a/answer/33343#adminconsole)。
 
 選擇電子郵件追蹤連結的CNAME（從您在步驟3中選擇的著陸頁面CNAME中選擇&#x200B;_different_&#x200B;的CNAME）。 例如：
@@ -177,7 +177,7 @@ ht-degree: 0%
 >
 >電子郵件和著陸頁面CNAME必須不同。 此外，請避免CNAME（例如「track」或「link」）。 它通常被標幟為垃圾訊息
 
-若要尋找您的行銷人員追蹤連結，請前往&#x200B;**管理員**&#x200B;區域。
+若要尋找您的Marketo追蹤連結，請前往&#x200B;**Admin**&#x200B;區域。
 
 ![](assets/admin.png)
 
@@ -225,7 +225,7 @@ ht-degree: 0%
 
 `2)` 若是我們的電子郵件追蹤連結，請新增 **[EmailTrackingCNAME的DNS項目(CNAME)]**。**[CompanyDomain]**.com，指向 **[MktoTrackingLink]**。
 
-`3)` 允許Marketto。
+`3)` 允許Marketo。
 
     *如果我們在「電子郵件允許清單」中使用IP位址，請新增下列IP:
     199.15.212.0/22
@@ -244,14 +244,14 @@ ht-degree: 0%
     
     103.237.104.0/2294.236.119.0/26
 
-注意：如果您想要提供特定於您環境的IP清單，請聯絡行銷支援。
+注意：如果您想要提供特定於您環境的IP清單，請聯絡Marketo支援。
 
     *如果我們的反垃圾郵件系統使用「發件人」域，請添加以下內容：
 
 **`[FromDomain1]`**
 **`[FromDomain2]`**
 
-`4)` 我們需要設定SPF和DKIM，才能授權Marketo代表我們傳送已簽署的電子郵件。
+`4)` 我們需要設立SPF和DKIM，讓Marketo有權代表我們傳送已簽署的電子郵件。
 
 `a.` 要設定SPF，請在DNS條目中添加以下行：
 
@@ -272,9 +272,9 @@ include:mktomail.com
 
 `[`請依照此處 **** 的指示，復 **** 制您所設定的每 **** 個DKIMDomaina的HostRecord和 [TXTValue](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)。在您的IT人員完成此步驟後，請記得確認&#x200B;**管理>電子郵件> DKIM**&#x200B;中的每個域。`]`
 
-`5)` 我們需要確保我們的FROM網域 **[FromDomain1]**、 **[FromDomain2]**.....你能確認一下嗎？ 如果沒有，請設定以對應至我們的公司網域MX記錄。 這將確保我們能夠處理對我們Marketo郵件的回覆／自動回覆者。
+`5)` 我們需要確保我們的FROM網域 **[FromDomain1]**、 **[FromDomain2]**.....你能確認一下嗎？ 如果沒有，請設定以對應至我們的公司網域MX記錄。 這將確保我們能夠處理對Marketo郵件的回覆／回覆者。
 
-請告知我您何時完成這些步驟，以便我能與Marketo一起完成設定程式。
+請告訴我您何時完成這些步驟，以便我能與Marketo完成設定程式。
 
 謝謝！ 你是最棒的！
 
@@ -284,9 +284,9 @@ include:mktomail.com
 
 `---------------------------------------------`
 
-將電子郵件傳送給IT人員。 我們瞭解IT部門完成這些任務可能需要一些時間。 您可以繼續執行步驟7，但請記住，您必須退回步驟6，才能完成行銷人員設定。
+將電子郵件傳送給IT人員。 我們瞭解IT部門完成這些任務可能需要一些時間。 您可以繼續執行步驟7，但請記住，您必須返回步驟6以完成您的Marketo設定。
 
-## 在IT完成{#complete-your-marketo-setup-after-it-finishes}後完成行銷設定
+## 在IT完成{#complete-your-marketo-setup-after-it-finishes}後完成您的Marketo設定
 
 IT人員完成工作後，請依照下列步驟新增您的登陸頁面和電子郵件CNAME，並啟動DKIM簽署。
 
@@ -324,7 +324,7 @@ IT人員完成工作後，請依照下列步驟新增您的登陸頁面和電子
 
 ## 整合您的CRM {#integrate-your-crm}
 
-這可能是您設定中最令人興奮的步驟——是時候讓Market充實您儲存在CRM中的所有潛在客戶和連絡人了！
+這可能是您設定中最令人興奮的步驟——是時候將您儲存在CRM中的所有潛在客戶和聯絡人填滿Marketo了！
 
 根據您公司使用的CRM，從下列選擇。
 
@@ -347,4 +347,4 @@ Marketo有自訂追蹤JavaScript（稱為Munchkin），您可用來追蹤任何�
 >
 >新增追蹤程式碼需要使用HTML的經驗。
 
-您的所有設定步驟都結束。 只剩下投入使用Marketo!
+您的所有設定步驟都結束。 只剩下一件事，就是潛入，利用Marketo!
