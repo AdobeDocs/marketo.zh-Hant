@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360333
-description: 隱藏和取消隱藏欄位——行銷人員檔案——產品檔案
+description: 隱藏和取消隱藏欄位-Marketo檔案——產品檔案
 title: 隱藏和取消隱藏欄位
+exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-
 # 隱藏和取消隱藏欄位{#hide-and-unhide-a-field}
 
-如果您不再在Marketo中使用欄位，則可在UI中隱藏欄位，以便不再顯示在應用程式中。
+如果您不再在Marketo使用欄位，則可在UI中隱藏欄位，以便不再在應用程式中顯示。
 
 ## 隱藏欄位{#hide-a-field}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
-   幹得好！ 現在您知道如何取消隱藏欄位，並讓欄位在Marketo使用者介面中再次顯示。
+   幹得好！ 現在您知道如何取消隱藏欄位，並讓欄位在Marketo的使用者介面中再次顯示。
 
    >[!TIP]
    >
