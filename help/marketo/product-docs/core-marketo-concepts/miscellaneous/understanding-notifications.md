@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2952292
-description: 瞭解通知——行銷人員檔案——產品檔案
+description: 瞭解通知-Marketo文檔——產品文檔
 title: 瞭解通知
+exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
-
 
 # 瞭解通知{#understanding-notifications}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 概述{#overview}
 
-1. 新通知會顯示在Marketo的右上方。
+1. 新通知會出現在Marketo的右上方。
 
    ![](assets/image2014-10-10-11-3a32-3a48.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在某些情況下，通知會提供「查看完整清單」連結，以下載逗號分隔值(CSV)檔案，例如Microsoft Dynamics Sync Errors檔案。 Marketo會將這些CSV檔案保留30天。 如果您在30天後嘗試下載檔案，將會出現404錯誤。
+>在某些情況下，通知會提供「查看完整清單」連結，以下載逗號分隔值(CSV)檔案，例如Microsoft Dynamics Sync Errors檔案。 Marketo會將這些CSV檔案保存30天。 如果您在30天後嘗試下載檔案，將會出現404錯誤。
 
 >[!TIP]
 >
