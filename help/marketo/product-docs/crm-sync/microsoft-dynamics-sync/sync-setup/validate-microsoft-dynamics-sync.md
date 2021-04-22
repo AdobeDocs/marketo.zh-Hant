@@ -1,25 +1,25 @@
 ---
 unique-page-id: 8783322
-description: 驗證Microsoft Dynamics Sync —— 行銷檔案——產品檔案
+description: 驗證Microsoft Dynamics Sync -Marketo文檔——產品文檔
 title: 驗證Microsoft Dynamics Sync
+exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
-
 # 驗證Microsoft Dynamics Sync {#validate-microsoft-dynamics-sync}
 
 >[!CAUTION]
 >
->如果您的Dynamics Sync已啟用多因素驗證(MFA)，則必須停用它，Dynamics才能與Marketo正確同步。 如需詳細資訊，請聯絡[行銷支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
+>如果您的Dynamics同步已啟用多因素驗證(MFA)，則必須停用它，Dynamics才能與Marketo正確同步。 如需詳細資訊，請聯絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
-## 在Marketo {#run-validate-sync-in-marketo}中執行驗證同步
+## 在Marketo運行驗證同步{#run-validate-sync-in-marketo}
 
-請務必執行「驗證同步」工具，以確保您的Microsoft Dynamics Sync with Marketo已正確設定，然後再進行最終連線。 此程式會產生七個設定步驟的檢查清單，以找出問題所在。 驗證這些動作是否正確可節省許多時間。
+運行「驗證同步」工具非常重要，以確保與Marketo的Microsoft Dynamics Sync已正確設定，然後才能在它們之間建立最終連接。 此程式會產生七個設定步驟的檢查清單，以找出問題所在。 驗證這些動作是否正確可節省許多時間。
 
 1. 按一下「整合」區域中的&#x200B;**Admin**&#x200B;標籤和&#x200B;**Microsoft Dynamics**&#x200B;連結。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >我們目前不支援Marketo Dynamics Sync的沙盒重新整理。 如果您需要重新整理Dynamics CRM沙盒，將需要新的Marketo沙盒。 如需詳細資訊，請連絡您的客戶成功經理。
+   >我們目前不支援Marketo動態同步的沙盒重新整理。 如果您需要重新整理Dynamics CRM沙盒，則需要新的Marketo沙盒。 如需詳細資訊，請連絡您的客戶成功經理。
 
 >[!MORELIKETHIS]
 >
