@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949178
-description: 瞭解SEO儀表板-SEO快照——行銷文檔——產品文檔
+description: 瞭解SEO儀表板-SEO快照-Marketo文檔——產品文檔
 title: 瞭解SEO儀表板-SEO快照
+exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
 
 ---
-
 
 # 瞭解SEO儀表板：SEO快照{#understanding-the-seo-dashboard-seo-snapshot}
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## 平均頁面最佳化分數{#average-page-optimization-score}
 
-「平均頁面最佳化分數」是專屬的行銷人員，可測量您網站上所有頁面的分數，分數範圍為1到100。
+「平均頁面最佳化分數」是專屬的Marketo分數，以1到100的分數測量您網站上的所有頁面。
 
 它以數十種最佳實務為基礎。 分數為70分或以上表示網站已最佳化。
 
@@ -59,8 +59,8 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-輕鬆吧？ 現在，讓我們來看看此控制面板的「建議」區段。
+輕鬆吧？ 現在，讓我們來看看這個儀表板的Recommendations區。
 
 >[!MORELIKETHIS]
 >
->[瞭解控制面板：SEO建議](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>[瞭解控制面板：徐Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
