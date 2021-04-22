@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360307
-description: 啟用或停用Treasure Chest功能——行銷檔案——產品檔案
+description: 啟用或停用Treasure Chest功能-Marketo檔案——產品檔案
 title: 啟用或停用珍藏箱功能
+exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # 啟用或停用珍藏箱功能{#enable-or-disable-treasure-chest-features}
 
@@ -33,4 +33,4 @@ Treasure Chest提供有趣的實驗性功能，但並未完全受到支援。
 
    >[!TIP]
    >
-   >您可能需要先登出再返回Market，才能看到變更生效。
+   >您可能需要先登出再返回Marketo，才能看到變更生效。
