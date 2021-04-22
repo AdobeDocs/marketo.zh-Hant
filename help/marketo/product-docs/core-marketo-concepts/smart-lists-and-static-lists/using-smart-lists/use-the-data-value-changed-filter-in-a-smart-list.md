@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557324
-description: 在智慧型清單——行銷人員檔案——產品檔案中使用資料值變更的篩選
+description: 使用智慧型清單中的資料值變更篩選-Marketo檔案——產品檔案
 title: 在智慧型清單中使用資料值變更的篩選
+exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-
 # 在智慧清單{#use-the-data-value-changed-filter-in-a-smart-list}中使用資料值更改過濾器
 
-值在您的Marketo資料庫中不斷變更和更新。 有時候，您不想尋找特定值，而是想尋找價值有所改變的人。 這是方法。
+值在Marketo資料庫中不斷變化和更新。 有時候，您不想尋找特定值，而是想尋找價值有所改變的人。 這是方法。
 
 >[!PREREQUISITES]
 >
