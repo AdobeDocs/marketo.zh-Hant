@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146960
-description: 變更資料價值——行銷人員檔案——產品檔案
+description: 更改資料值-Marketo文檔——產品文檔
 title: 變更資料值
+exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-
 # 更改資料值{#change-data-value}
 
 ## 概述{#overview}
 
-您可以使用Market來更新欄位的值。 為此，您將使用&#x200B;**更改資料值**&#x200B;流操作。
+您可以使用Marketo來更新欄位的值。 為此，您將使用&#x200B;**更改資料值**&#x200B;流操作。
 
 ![](assets/image2014-9-22-11-3a15-3a34.png)
 
