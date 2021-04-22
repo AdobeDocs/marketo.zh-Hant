@@ -1,28 +1,28 @@
 ---
-description: 啟用促銷活動同步——行銷人員檔案——產品檔案
+description: 啟用促銷活動同步-Marketo文檔——產品文檔
 title: 啟用促銷活動同步
+exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-
 # 啟用促銷活動同步{#enable-campaign-sync}
 
-此選項可讓Market從MS Dynamics Campaign新增和移除成員。
+此選項允許Marketo從MS Dynamics Campaign中添加和刪除成員。
 
 >[!PREREQUISITES]
 >
->更新至Marketo的Dynamics外掛程式最新版本。
+>更新至最新版的MarketoDynamics外掛程式。
 
 >[!NOTE]
 >
 >**需要管理員權限**
 
-1. 在我的行銷工具中，按一下&#x200B;**管理**。
+1. 在「我的Marketo」中，按一下&#x200B;**管理**。
 
    ![](assets/enable-campaign-sync-1.png)
 
