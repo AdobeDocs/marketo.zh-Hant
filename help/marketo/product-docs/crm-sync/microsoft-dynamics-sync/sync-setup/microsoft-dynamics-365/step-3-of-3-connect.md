@@ -1,24 +1,24 @@
 ---
 unique-page-id: 3571830
-description: 第3步（共3步）-將Microsoft Dynamics與Marketo（線上）連接- Marketo Docs —— 產品檔案
-title: 第3步（共3步）-將Microsoft Dynamics與Marketo連接（線上）
+description: 第3步（共3步）-將Microsoft Dynamics與Marketo（線上）連接-Marketo文檔——產品文檔
+title: 第3步（共3步）-將Microsoft Dynamics與Marketo（線上）連接
+exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
 
 ---
 
-
-# 步驟3（共3步）:將Microsoft Dynamics與Marketo連接（線上）{#step-of-connect-microsoft-dynamics-with-marketo-online}
+# 步驟3（共3步）:將Microsoft Dynamics與Marketo（線上）連接{#step-of-connect-microsoft-dynamics-with-marketo-online}
 
 這是同步的最後一步。 快到了！
 
 >[!PREREQUISITES]
 >
 >* [步驟1（共3步）:安裝Marketo解決方案（線上）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
->* [步驟2（共3步）:在Dynamics中設定Marketto同步使用者](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+>* [步驟2（共3步）:在Dynamics中設定Marketo同步使用者](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -53,8 +53,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* 如果您的Marketo在2020年10月之前已布建，則「用戶端ID」和「密碼」是選填欄位。 否則，就是強制性的。 獲取此資訊將取決於您使用的MSD版本。
-   >* Market中的使用者名稱必須符合CRM中同步使用者的使用者名稱。 格式可以是`user@domain.com`或DOMAIN\user。
+   >* 如果您的Marketo是在2020年10月之前布建，則「用戶端ID」和「密碼」是選填欄位。 否則，就是強制性的。 獲取此資訊將取決於您使用的MSD版本。
+   >* Marketo的使用者名稱必須符合CRM中同步使用者的使用者名稱。 格式可以是`user@domain.com`或DOMAIN\user。
    >* 如果您不知道URL，請[學習如何在這裡找到](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
 
 
@@ -64,13 +64,13 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. 選取您要同步至Marketo的欄位，以便預先選取這些欄位。 按一下&#x200B;**保存**。
+1. 選擇您要同步至Marketo的欄位，以便預先選取欄位。 按一下&#x200B;**保存**。
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
 >[!NOTE]
 >
->Marketo儲存要同步之欄位的參考。 如果您刪除Dynamics中的欄位，我們建議您在[sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)下執行此動作。 然後，編輯並儲存[選擇要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)，以重新整理Marketo中的架構。
+>Marketo儲存要同步的欄位參考。 如果您刪除Dynamics中的欄位，我們建議您在[sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)下執行此動作。 然後，通過編輯和保存[選擇要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)來刷新Marketo的模式。
 
 ## 同步自訂篩選器的欄位{#sync-fields-for-a-custom-filter}
 
@@ -96,7 +96,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketo不會針對Microsoft Dynamics同步或當您手動輸入人員或潛在客戶時自動消除重複資料。
+   >Marketo不會針對Microsoft Dynamics同步或手動輸入人員或銷售線索時自動消除重複資料。
 
 1. 閱讀快顯視窗中的所有內容，輸入您的電子郵件地址，然後按一下「開始同步」**。**
 
