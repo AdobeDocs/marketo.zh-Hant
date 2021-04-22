@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557318
-description: 重新整理清單或智慧型清單——行銷檔案——產品檔案
+description: 刷新清單或智慧清單-Marketo文檔——產品文檔
 title: 刷新清單或智慧清單
+exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
-
 
 # 刷新清單或智慧清單{#refresh-a-list-or-smart-list}
 
