@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359422
-description: 個人化電子郵件——行銷人員檔案——產品檔案
+description: 個人化電子郵件-Marketo文檔——產品文檔
 title: 個人化電子郵件
+exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
 
 ---
-
 
 # 個人化電子郵件{#personalize-an-email}
 
