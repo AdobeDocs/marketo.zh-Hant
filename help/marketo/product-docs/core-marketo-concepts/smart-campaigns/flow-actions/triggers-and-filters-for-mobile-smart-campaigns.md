@@ -1,15 +1,15 @@
 ---
 unique-page-id: 9437991
-description: 行動智慧型促銷活動的觸發器和篩選——行銷檔案——產品檔案
+description: 行動智慧型宣傳的觸發器和篩選-Marketo檔案——產品檔案
 title: 行動智慧型促銷活動的觸發器和篩選器
+exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
 
 ---
-
 
 # 行動智慧型促銷活動的觸發器和篩選器{#triggers-and-filters-for-mobile-smart-campaigns}
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此篩選器會發現目前和之前安裝的版本，因為Marketo不會追蹤應用程式解除安裝。
+>此篩選器會找出目前和之前安裝的版本，因為Marketo不追蹤應用程式解除安裝。
 
 **限制**:裝置類型、平台、行動應用程式、行動應用程式版本、裝置類型、安裝來源、已啟用推播，以及地區設定
 
@@ -137,7 +137,7 @@ ht-degree: 0%
    >   * 花了20秒才買到
 
 
-以下是Marketo中篩選器的外觀：
+以下是Marketo的濾鏡外觀：
 
 ![](assets/image2015-8-17-13-3a16-3a12.png)
 
@@ -182,7 +182,7 @@ ht-degree: 0%
 >
 >使用「未點選推播通知」不活動篩選器，尋找最近未點選傳送給他們的推播通知的訪客，以便您透過電子郵件追蹤。
 
-**已傳送推播** 通知此活動僅能做為篩選器。
+**已傳送推播** 通知此活動僅可做為篩選。
 
 * 已傳送推播通知——篩選
 
