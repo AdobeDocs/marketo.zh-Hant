@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8781911
-description: 瞭解電子郵件計畫卡——行銷人員檔案——產品檔案
+description: 瞭解電子郵件計畫卡-Marketo文檔——產品文檔
 title: 瞭解電子郵件計畫卡
+exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
-
 # 瞭解電子郵件程式卡{#understanding-email-program-cards}
 
-使用Marketo Monts從您的手機或iPad檢視您的電子郵件程式。
+使用「Marketo時刻」，從手機或iPad檢視您的電子郵件程式。
 
 ## 電子郵件程式卡{#email-program-cards}
 
@@ -115,7 +115,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [瞭解行銷人員時刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [瞭解Marketo時刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [瞭解事件卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [瞭解Analytics卡片](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 
