@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147124
-description: 使用資產標籤——行銷人員檔案——產品檔案
+description: 使用資產標籤-Marketo文檔——產品文檔
 title: 使用「資產」標籤
+exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
-
 
 # 使用資產標籤{#using-the-assets-tab}
 
