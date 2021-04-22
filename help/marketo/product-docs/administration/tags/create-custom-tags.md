@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950660
-description: 建立自訂標籤——行銷檔案——產品檔案
+description: 建立自訂標籤-Marketo檔案——產品檔案
 title: 建立自訂標籤
+exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
-
 
 # 建立自訂標籤{#create-custom-tags}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >選擇&#x200B;**所有程式的必需**&#x200B;以在建立新程式時添加此標籤。
+   >選擇&#x200B;**所有程式**&#x200B;必需，以便在任何時候建立新程式時添加此標籤。
 
 1. 按一下&#x200B;**建立**&#x200B;保存。
 
