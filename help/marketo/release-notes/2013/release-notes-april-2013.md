@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951099
-description: 發行說明- 2013年4月——行銷檔案——產品檔案
+description: 發行說明- 2013年4月-Marketo文檔——產品文檔
 title: 發行說明- 2013年4月
+exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
-
 
 # 發行說明：2013年4月{#release-notes-april}
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ## 包裝盒整合{#box-integration}
 
-將Marketto與您的Box帳戶連接，以輕鬆將檔案複製到設計工作室。
+將Marketo與您的Box帳戶連接，輕鬆將檔案複製至設計工作室。
 
 ![](assets/image2014-9-22-15-3a47-3a56.png)
 
 ## Gmail Plugin {#gmail-plugin}
 
-如果您使用Marketo Sales Insight和Gmail，您可以透過Chrome商店安裝我們的新Gmail外掛程式。 此外掛程式可讓您使用Marketo記錄訊息、載入Marketo電子郵件範本，以及使用Marketo追蹤功能傳送訊息。
+如果您使用Marketo銷售分析以及Gmail，您可以透過Chrome商店安裝我們的新Gmail外掛程式。 此外掛程式可讓您使用Marketo來記錄訊息、載入Marketo電子郵件範本，以及使用Marketo追蹤功能來傳送訊息。
 
 ![](assets/image2014-9-22-15-3a48-3a57.png)
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 ## ON24增強{#on-enhancement}
 
-職稱和公司名稱將會從您的行銷人員註冊表單同步至ON24。
+職稱和公司名稱將從您的Marketo註冊表單同步到ON24。
