@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377408
-description: 使用工作區——行銷人員檔案——產品檔案新增其他品牌網域
+description: 使用工作區新增額外的品牌網域-Marketo檔案——產品檔案
 title: 使用工作區新增其他品牌網域
+exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
-
 
 # 新增具有{#add-an-additional-branding-domain-with-workspaces}工作區的其他品牌網域
 
