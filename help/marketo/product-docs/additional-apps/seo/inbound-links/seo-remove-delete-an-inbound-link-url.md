@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949253
-description: SEO —— 移除／刪除傳入連結URL —— 行銷人員檔案——產品檔案
+description: SEO —— 移除／刪除入站連結URL -Marketo文檔——產品文檔
 title: SEO —— 移除／刪除傳入連結URL
+exl-id: 102a483f-0bbd-4bac-8e63-278024d32cbf
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
-
 
 # SEO —— 移除／刪除入站連結URL {#seo-remove-delete-an-inbound-link-url}
 
