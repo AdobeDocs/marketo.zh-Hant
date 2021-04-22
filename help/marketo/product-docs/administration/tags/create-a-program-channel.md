@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950682
-description: 建立方案通路——行銷檔案——產品檔案
+description: 建立方案通路-Marketo檔案——產品檔案
 title: 建立方案渠道
+exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%
 
 ---
-
 
 # 建立程式通道{#create-a-program-channel}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->進一步瞭解[programs](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)，這是Marketo中最重要的元素。
+>進一步瞭解[programs](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)，這是Marketo最重要的元素。
 
 1. 在&#x200B;**Admin**&#x200B;區段下，按一下&#x200B;**Tags**。
 
