@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719297
-description: 啟用／停用自訂物件同步——行銷人員檔案——產品檔案
+description: 啟用／停用自訂物件同步-Marketo檔案——產品檔案
 title: 啟用／停用自訂物件同步
+exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
-
 
 # 啟用／禁用自定義對象同步{#enable-disable-custom-object-sync}
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Marketo只有在自訂物件與Salesforce中的Lead、Contact或Account物件有直接關係時，才能同步該物件。
+   >Marketo只能在自訂物件與Salesforce中的Lead、Contact或Account物件有直接關係時，才能同步該物件。
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
