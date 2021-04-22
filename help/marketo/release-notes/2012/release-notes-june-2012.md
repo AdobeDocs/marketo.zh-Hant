@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951114
-description: 發行說明- 2012年6月——行銷檔案——產品檔案
+description: 發行說明- 2012年6月-Marketo文檔——產品文檔
 title: 發行說明- 2012年6月
+exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 0%
 
 ---
-
 
 # 發行說明：2012年6月{#release-notes-june}
 
@@ -25,9 +25,9 @@ ht-degree: 0%
 
 ## 導入欄位映射{#import-field-mapping}
 
-我們讓將清單匯入Market變得更輕鬆！ 在匯入程式中，您可以將Marketo欄位的名稱對應至匯入檔案中的欄標題名稱。 此外，在「管理」中，您可以設定對應至Marketo中欄位名稱的別名，確保您的使用者每次都選取正確的欄位。
+我們讓將清單匯入Marketo變得容易多了！ 在導入過程中，可以將Marketo欄位的名稱映射到導入檔案中的列標題名稱。 此外，在「管理」中，您可以設定對應至Marketo之欄位名稱的別名，確保您的使用者每次都選擇正確的欄位。
 
-當您繼續匯入和對應欄位時，Marketo會在匯入期間記住並顯示對應，以方便使用。 為了讓生活更輕鬆，您可以按一下「範例值」標題，查看填入欄位中的不同值。 這有助於確保每次映射正確的欄位！
+在您繼續匯入和對應欄位時，Marketo會記住並顯示匯入期間的對應，以方便使用。 為了讓生活更輕鬆，您可以按一下「範例值」標題，查看填入欄位中的不同值。 這有助於確保每次映射正確的欄位！
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 提醒：電子郵件績效報告升級正在進行中！
 
-## Marketon Revenue Cycle Analytics增強功能{#marketo-revenue-cycle-analytics-enhancements}
+## Marketo收入週期分析增強功能{#marketo-revenue-cycle-analytics-enhancements}
 
 ### Program Opportunity Analysis中的新度量{#new-metrics-in-program-opportunity-analysis}
 
