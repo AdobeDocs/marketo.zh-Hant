@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360213
-description: 在報告與警報中編輯連結到期——行銷檔案——產品檔案
+description: 在報告和警報中編輯連結過期-Marketo文檔——產品文檔
 title: 編輯報表和警報中的連結過期
+exl-id: 9be08798-c413-451b-9b67-893042668061
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
-
 
 # 編輯報表和警報中的連結過期{#edit-link-expiration-in-reports-and-alerts}
 
