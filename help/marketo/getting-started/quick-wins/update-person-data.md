@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359426
-description: 更新人員資料——行銷人員檔案——產品檔案
+description: 更新人員資料-Marketo檔案——產品檔案
 title: 更新人員資料
+exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
-
 
 # 更新人員資料{#update-person-data}
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >在Marketo中有許多方式可更新人員資料。 請參閱[匯入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)和[變更資料值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)。
+   >在Marketo，人員資料的更新方式有很多。 請參閱[匯入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)和[變更資料值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)。
 
 ## 更新人員資料{#update-the-person-data}
 
