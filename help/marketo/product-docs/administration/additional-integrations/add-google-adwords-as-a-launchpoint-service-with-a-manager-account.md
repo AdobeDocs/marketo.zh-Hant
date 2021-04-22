@@ -1,21 +1,21 @@
 ---
 unique-page-id: 7504893
-description: 將Google AdWords新增為Launchpoint服務，其中包含經理帳戶——行銷人員檔案——產品檔案
+description: 將Google AdWords新增為Launchpoint服務，並提供經理帳戶-Marketo檔案——產品檔案
 title: 將Google AdWords新增為Launchpoint服務及Manager帳戶
+exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 0%
 
 ---
 
-
 # 將Google AdWords新增為Launchpoint服務，並包含Manager帳戶{#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-將您的Google AdWords帳戶連結至Marketo，以自動將離線轉換資料從Marketo上傳至Google AdWords。 然後，在AdWords中新增自訂欄[後，您就可以從AdWords UI輕鬆看出哪些點按產生了合格的潛在客戶、機會和新客戶（或您想要追蹤的任何收入階段）。 ](https://support.google.com/adwords/answer/3073556)此資訊不會出現在Marketo UI中。
+將您的Google AdWords帳戶連結至Marketo，以自動從Marketo上傳離線轉換資料至Google AdWords。 然後，在AdWords中新增自訂欄[後，您就可以從AdWords UI輕鬆看出哪些點按產生了合格的潛在客戶、機會和新客戶（或您想要追蹤的任何收入階段）。 ](https://support.google.com/adwords/answer/3073556)此資訊不會出現在MarketoUI中。
 
-如果您有多個Google Adwords帳戶，您可以使用[Google AdWords管理員帳戶](https://www.google.com/adwords/manager-accounts/)（先前稱為My Client Center），將其與Marketo整合。
+如果您有多個Google Adwords帳戶，您可以使用[Google AdWords管理員帳戶](https://www.google.com/adwords/manager-accounts/)（先前稱為My Client Center）來整合這些帳戶與Marketo。
 
 進一步瞭解[Google的離線轉換匯入功能](https://support.google.com/adwords/answer/2998031?hl=en)。
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. 將您的離線轉換從Marketing上傳至Google AdWords **Weekly**&#x200B;或&#x200B;**Daily**。
+1. 從Marketo上傳您的離線轉換至Google AdWords **Weekly**&#x200B;或&#x200B;**Daily**。
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
