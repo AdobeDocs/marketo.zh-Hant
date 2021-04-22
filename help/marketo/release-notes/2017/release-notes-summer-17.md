@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12980993
-description: 發行說明- 17年夏季——行銷檔案——產品檔案
+description: 發行說明- 17年夏季-Marketo文檔——產品文檔
 title: 發行說明- 17年夏季
+exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：17年夏天{#release-notes-summer}
 
-17年夏季版本包含下列功能。 檢查您的Marketo版本，以取得功能。
+17年夏季版本包含下列功能。 查看您的Marketo版功能是否可用。
 
 請按一下標題連結，以檢視每個功能的詳細文章。 注意：此版本包含的部分功能沒有相關文章。 如果主題有多個子標題，則會將連結放在此處。
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 **[ABM與LeanData整合](https://docs.marketo.com/x/pKmt)**
 
-LeanData整合現在允許在Marketo中進行銷售機會對帳戶比對。 在記錄的銷售和行銷系統中，擁有與帳戶相關的相同銷售線索，讓行銷和銷售保持一致。 更有彈性的選項可讓行銷和銷售營運對銷售線索對帳戶的比對規則有更大的控制力，以達到所需的精確度。
+LeanData整合現在允許在Marketo進行銷售線索對帳戶比對。 在記錄的銷售和行銷系統中，擁有與帳戶相關的相同銷售線索，讓行銷和銷售保持一致。 更有彈性的選項可讓行銷和銷售營運對銷售線索對帳戶的比對規則有更大的控制力，以達到所需的精確度。
 
 ## Web個人化增強功能{#web-personalization-enhancements}
 
@@ -63,7 +63,7 @@ LeanData整合現在允許在Marketo中進行銷售機會對帳戶比對。 在�
 
 **電子郵件見解增強功能**
 
-透過準備和分享資料的新方式，讓您的「電子郵件見解」體驗獲得更多。 您現在可以將「電子郵件分析」結果下載到Microsoft Excel和PowerPoint，以便在Marketo以外處理資料。
+透過準備和分享資料的新方式，讓您的「電子郵件見解」體驗獲得更多。 您現在可以將「電子郵件見解」結果下載到Microsoft Excel和PowerPoint中，以便處理Marketo以外的資料。
 
 ## 同盟身份配置支援{#federated-identity-configuration-support}
 
