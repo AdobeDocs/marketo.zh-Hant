@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10095429
-description: 修正動態驗證同步問題——行銷人員檔案——產品檔案
+description: 修正動態驗證同步問題-Marketo文檔——產品文檔
 title: 修正動態驗證同步問題
+exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 0%
 
 ---
-
 
 # 修正動態驗證同步問題{#fix-dynamics-validation-sync-issues}
 
@@ -43,9 +43,9 @@ ht-degree: 0%
 
 如果您有![—](assets/delete.png)，請確認您的Microsoft Dynamics使用者名稱和密碼有效。
 
-## 同步使用者已指派給Marketto同步使用者角色{#sync-user-is-assigned-to-the-marketo-sync-user-role}
+## 同步用戶被分配給Marketo同步用戶角色{#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
-如果您在此處有![—](assets/delete.png)，則需要驗證Microsoft Dynamics中是否已勾選「Marketo Sync使用者」角色。 請參閱MIcrosoft Dynamics安裝文檔的步驟2。
+如果您在此處有![—](assets/delete.png)，則需要驗證是否已在Microsoft Dynamics中選中「Marketo同步用戶」角色。 請參閱MIcrosoft Dynamics安裝文檔的步驟2。
 
 1. 在Dynamics中，按一下「設定」表徵圖，然後選擇&#x200B;**「高級設定」**。
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 確認已勾選「Marketto同步使用者」角色。 如果沒有，請選中它並按一下&#x200B;**確定。**
+1. 驗證是否已選中「Marketo同步用戶」角色。 如果沒有，請選中它並按一下&#x200B;**確定。**
 
    ![](assets/image2015-9-24-9-3a59-3a21.png)
 
@@ -91,15 +91,15 @@ ht-degree: 0%
 
 如果您有![—](assets/delete.png)，請確認所有預設步驟皆未停用。 所有步驟在安裝時都會自動啟用，但可在自訂時停用。
 
-## 同步使用者會指派給Marketo解決方案{#sync-user-is-assigned-to-the-marketo-solution}
+## 將同步用戶分配給Marketo解決方案{#sync-user-is-assigned-to-the-marketo-solution}
 
-如果您在此處有![—](assets/delete.png)，請確定Microsoft Dynamics中的「Marketo預設值」頁面上已指派「同步」使用者。
+如果您在此處有![—](assets/delete.png)，請確保在Microsoft Dynamics的「Marketo預設」頁面上分配了同步用戶。
 
 1. 在Dynamics中，按一下「設定」表徵圖，然後選擇&#x200B;**「高級設定」**。
 
    ![](assets/one.png)
 
-1. 按一下「**設定**」，然後選取「行銷人員設定」。****
+1. 按一下&#x200B;**Settings**&#x200B;並選擇&#x200B;**Marketo配置**。
 
    ![](assets/thirteen.png)
 
@@ -109,7 +109,7 @@ ht-degree: 0%
 
 ## 同步用戶與用戶名和密碼{#sync-user-matches-username-and-password}匹配
 
-如果您在此處有![—](assets/delete.png)，請務必在Microsoft Dynamics中「Marketo設定預設」設定步驟的「Marketo使用者」欄位中指派適當的同步使用者。
+如果您在此處有![—](assets/delete.png)，請務必在Microsoft Dynamics的「Marketo配置預設設定」步驟的「Marketo用戶」欄位中指定正確的同步用戶。
 
 >[!MORELIKETHIS]
 >
