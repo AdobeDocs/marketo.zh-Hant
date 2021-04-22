@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949202
-description: SEO —— 取得建議的關鍵字——行銷檔案——產品檔案
+description: SEO —— 取得建議的關鍵字-Marketo文檔——產品文檔
 title: SEO —— 取得建議的關鍵字
+exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
-
 # SEO —— 取得建議的關鍵字{#seo-get-suggested-keywords}
 
-Marketo SEO可建議您應追蹤的關鍵字。 我們可以根據關鍵字或網站的URL提供建議。 快去！
+Marketo搜尋引擎最佳化(SEO)可建議您應追蹤的關鍵字。 我們可以根據關鍵字或網站的URL提供建議。 快去！
 
 ## 使用關鍵字{#get-keyword-suggestions-using-a-keyword}取得關鍵字建議
 
