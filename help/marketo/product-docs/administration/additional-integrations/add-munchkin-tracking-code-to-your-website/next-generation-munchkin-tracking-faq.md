@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10096583
-description: 新一代Munchkin追蹤常見問答集——行銷檔案——產品檔案
+description: 新一代Munchkin追蹤常見問答集-Marketo文檔——產品文檔
 title: 新一代Munchkin追蹤常見問答集
+exl-id: 283189ac-c817-479a-b896-91233980608c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '733'
 ht-degree: 0%
 
 ---
-
 
 # 新一代Munchkin追蹤常見問答集{#next-generation-munchkin-tracking-faq}
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 >
 >此變更不會影響網頁個人化（即時個人化）。 它會持續識別匿名和已知的網頁訪客，並即時為這些訪客個人化內容。
 
-## 為什麼Market要從智慧型清單中移除「匿名」篩選？{#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
+## 為什麼Marketo會從智慧型清單中移除「匿名」篩選器？{#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
 我們改變了匿名人士與智慧型宣傳互動的方式。 以前，他們像知名人士一樣，通過聰明的宣傳。 「匿名」篩選器可用來指定只有已知或只有匿名人士會在促銷活動中流動。
 
-有了Munchkin V2，我們將繼續追蹤所有匿名活動；但是，您無法再將篩選套用至匿名人員。 在轉換時（當人員在Marketo中得知時），當該人員匿名時發生的所有活動都會附加至人員活動記錄，而此時，這些活動會在符合資格的促銷活動中流動。
+有了Munchkin V2，我們將繼續追蹤所有匿名活動；但是，您無法再將篩選套用至匿名人員。 在轉換時(當該人在Marketo得知時)，當該人匿名時發生的所有活動都會附加至人員活動記錄，而此時，這些活動會流入他們符合的促銷活動。
 
 如果您已在智慧型清單中使用此篩選器（例如，在智慧型促銷活動或報表中），則不會自動從智慧型清單中移除。 請參閱下方以取得詳細資訊。
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 1. 如果智慧型清單的篩選條件為「匿名=假」，則不會發生任何事。 我們只管忽略它。
 1. 如果智慧型清單的篩選條件為「匿名=真」，則此促銷活動將失敗，您會收到通知。
 
-## 我使用Marketo已有一段時間了。 我要如何得知哪些促銷活動使用「匿名」篩選？{#ive-been-using-marketo-for-a-while-how-do-i-know-which-of-my-campaigns-use-the-is-anonymous-filter}
+## 我用Marketo有段時間了。 我要如何得知哪些促銷活動使用「匿名」篩選？{#ive-been-using-marketo-for-a-while-how-do-i-know-which-of-my-campaigns-use-the-is-anonymous-filter}
 
 在進行此項變更之前，我們會以「匿名」篩選條件，將數個每週通知傳送至您的「通知」收件匣，並列出智慧型清單、智慧型促銷活動和報表。 這些功能可協助您識別目前使用此篩選器的位置。
 
@@ -80,7 +80,7 @@ ht-degree: 0%
 
 [匿名銷售機會升級概觀](https://nation.marketo.com/docs/DOC-2937)
 
-[匿名銷售機會升級——行銷人員內部對UI的變更](https://nation.marketo.com/docs/DOC-2938)
+[匿名銷售機會升級-MarketoUI內的更改](https://nation.marketo.com/docs/DOC-2938)
 
 [匿名銷售線索升級——需要客戶行動](https://nation.marketo.com/docs/DOC-2939)
 
@@ -94,4 +94,4 @@ ht-degree: 0%
 
 ## 我還有更多問題！ 我要如何讓他們回答？{#i-have-more-questions-how-do-i-get-them-answered}
 
-請到[社群](https://nation.marketo.com/welcome)。 您也可以聯絡[行銷支援](https://nation.marketo.com/t5/Support/ct-p/Support)。 他們會很樂意回答你的問題。
+請到[社群](https://nation.marketo.com/welcome)。 您也可以聯繫[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)。 他們會很樂意回答你的問題。
