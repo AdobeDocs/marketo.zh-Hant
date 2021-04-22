@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504120
-description: 啟動簡報——行銷檔案——產品檔案
+description: 啟動演示-Marketo文檔——產品文檔
 title: 啟動簡報
+exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
-
 
 # 啟動演示{#launch-a-presentation}
 
