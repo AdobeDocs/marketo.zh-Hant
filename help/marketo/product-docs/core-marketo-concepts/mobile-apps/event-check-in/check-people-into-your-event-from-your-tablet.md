@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2949839
-description: 從平板電腦——行銷人員檔案——產品檔案，將人們納入您的活動
+description: 從平板電腦-Marketo文檔——產品文檔，將人們納入您的活動
 title: 從平板電腦將人們存入您的活動
+exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
 
 ---
 
-
 # 從平板電腦將人員存入您的事件{#check-people-into-your-event-from-your-tablet}
 
-當人們在您的活動中出現時，您可以在應用程式中找到他們的資訊。 登入後，當您同步至Marketo時，他們會升級為「已參與」狀態。
+當人們在您的活動中出現時，您可以在應用程式中找到他們的資訊。 登入後，當您同步至Marketo時，他們會升級為「已出席」狀態。
 
 應用程式在iPad和Android上的運作都相同，但是版面配置和設計差異很小。
 
 >[!PREREQUISITES]
 >
->* 在Marketo中建立活動，並填入「已邀請」和「已註冊的人員」。
+>* 在Marketo建立活動，並填入「已邀請」和「已註冊的人員」。
 >* 下載[Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en)或[iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)的平板電腦應用程式
 
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 1. 在iPad或Android平板裝置上點選應用程式圖示。
 
-1. 點選&#x200B;**登入**&#x200B;以啟動Marketo Event應用程式。
+1. 點選&#x200B;**登入**&#x200B;以啟動「Marketo事件」應用程式。
 
    ![](assets/1.jpg)
 
-1. 輸入您的行銷人員使用者名稱和密碼，然後按一下&#x200B;**登入**。
+1. 輸入您的Marketo用戶名和密碼，然後按一下&#x200B;**登錄**。
 
    >[!NOTE]
    >
@@ -83,7 +83,7 @@ ht-degree: 0%
 
 ## 在平板電腦上建立新人{#create-a-new-person-on-the-tablet}
 
-您可以手動新增Marketo資料庫中並非現有人員的來賓。 當您與Marketo同步時，系統會自動將它們登入並新增至您的資料庫。
+您可以手動在Marketo資料庫中添加不是現有人員的來賓。 當您與Marketo同步時，系統會自動將它們簽入並添加到您的資料庫中。
 
 1. 按一下&#x200B;**添加**。
 
@@ -107,11 +107,11 @@ ht-degree: 0%
    >
    >連按兩下電子郵件地址。 其他欄位稍後可以更正，但電子郵件地址是聯絡訪客的主要方法。
 
-新人員已註冊為已登入您的活動，並會在您同步至Marketo時，新人員將新增至狀態為「已參與」的Marketo資料庫。
+新人員已註冊為已登入您的活動，並將在您同步至Marketo時以「已出席」狀態新增至Marketo資料庫。
 
 ## 反向檢入{#reverse-a-check-in}
 
-如果您在與Marketo _同步之前，以_&#x200B;錯誤方式登入某人，您可以反轉「已出席」狀態。
+如果您在與Marketo同步之前誤簽入某人&#x200B;_，則可以撤消「已出席」狀態。_
 
 1. 點選清單中的名稱，然後在人員記錄中點選「還原」****。
 
@@ -137,9 +137,9 @@ ht-degree: 0%
 
 當您將應用程式與Marketo同步時，資訊將會更新。
 
-## 將應用程式與Marketo同步至{#sync-the-app-with-marketo}
+## 將應用程式與Marketo同步{#sync-the-app-with-marketo}
 
-Marketo Events應用程式會獨立運作，直到您將活動同步回Marketo Database為止。 最好在上次登入後盡快同步。 您的平板電腦必須連線至網際網路。
+「Marketo事件」應用程式會獨立運作，直到您將活動同步回「Marketo資料庫」為止。 最好在上次登入後盡快同步。 您的平板電腦必須連線至網際網路。
 
 >[!CAUTION]
 >
@@ -149,9 +149,9 @@ Marketo Events應用程式會獨立運作，直到您將活動同步回Marketo D
 
 1. 點選&#x200B;**Sync**。
 
-   您的事件會在Marketo資料庫中使用新的登入來更新。 「同步」按鈕上的紅色計數器會清除，直到您簽入其他人。
+   您的事件會在Marketo資料庫中使用新的登入功能更新。 「同步」按鈕上的紅色計數器會清除，直到您簽入其他人。
 
-   出於安全原因，您應在完成同步後結束Marketo Events應用程式。
+   出於安全原因，您應該在完成同步後結束「Marketo事件」應用程式。
 
 ## 使用有限Internet訪問{#working-with-limited-internet-access}
 
@@ -162,7 +162,7 @@ Marketo Events應用程式會獨立運作，直到您將活動同步回Marketo D
 * 選擇事件
 * 將應用程式與Marketo同步
 
-如果您擔心會場的網際網路存取，可能會想要登入Marketo Events應用程式，並事先在網際網路存取能力強的位置選取您的活動。 如此一來，您仍可離線使用應用程式。 然後，當您重新取得網際網路連線時，立即同步至Marketo資料庫。
+如果您擔心會場的網際網路連線，您可能想要登入「Marketo事件」應用程式，並在網際網路連線強大的位置事先選取您的活動。 如此一來，您仍可離線使用應用程式。 然後，當您重新連接網際網路時，立即同步至Marketo資料庫。
 
 >[!TIP]
 >
