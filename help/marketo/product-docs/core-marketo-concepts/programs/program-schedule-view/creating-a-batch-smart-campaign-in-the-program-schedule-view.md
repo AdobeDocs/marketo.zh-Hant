@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147142
-description: 在「計畫排程檢視——行銷人員檔案——產品檔案」中建立批次智慧型促銷活動
+description: 在計畫計畫時間表視圖-Marketo文檔——產品文檔中建立批智慧促銷活動
 title: 在方案計畫視圖中建立批智慧型促銷活動
+exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
-
 
 # 在方案計畫視圖{#creating-a-batch-smart-campaign-in-the-program-schedule-view}中建立批智慧型促銷活動
 
