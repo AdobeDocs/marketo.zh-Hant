@@ -1,23 +1,23 @@
 ---
 unique-page-id: 11380218
-description: 發行說明- 16年夏季——行銷檔案——產品檔案
+description: 發行說明- 16年夏季-Marketo文檔——產品文檔
 title: 發行說明- 16年夏季
+exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：16年夏天{#release-notes-summer}
 
-16年夏季版本包含下列功能。 檢查您的Marketo版本，以取得功能。 請按一下標題連結，以檢視每個功能的詳細文章。
+16年夏季版本包含下列功能。 查看您的Marketo版功能是否可用。 請按一下標題連結，以檢視每個功能的詳細文章。
 
 ## [帳戶型行銷](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
 
-Marketo Account Based Marketing在一個統一的平台中提供所有基本功能：
+Marketo基於客戶的營銷在一個統一的平台中提供所有基本功能：
 
 * **Target**  —— 帳戶發現、銷售線索到帳戶匹配和命名帳戶清單
 * **參與** -帳戶型個人化、跨通道參與和帳戶專屬工作流程
@@ -27,11 +27,11 @@ Marketo Account Based Marketing在一個統一的平台中提供所有基本功�
 
 >[!NOTE]
 >
->ABM是您Marketo訂閱的附加元件，請連絡您的銷售代表以實施它。
+>ABM是您Marketo訂閱的附加元件，請連絡您的銷售代表以建置它。
 
 ## [稽核記錄](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
 
-稽核記錄提供您Marketo訂閱中所做變更的完整記錄。 它可讓使用者和管理員建立問責制，協助識別意外行為的原因，並提供安全性，讓您知道誰在做什麼和何時做什麼。 此資訊將可在任何時間點取得，並可用來回答下列問題：
+稽核記錄提供您在Marketo訂閱中所做變更的完整記錄。 它可讓使用者和管理員建立問責制，協助識別意外行為的原因，並提供安全性，讓您知道誰在做什麼和何時做什麼。 此資訊將可在任何時間點取得，並可用來回答下列問題：
 
 * 此資產或設定發生了什麼情況，誰上次更新？
 * X使用者最近做了什麼？
@@ -41,7 +41,7 @@ Marketo Account Based Marketing在一個統一的平台中提供所有基本功�
 
 ## [Marketo-Vibes SMS LaunchPoint整合](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
-直接在Marketo中輕鬆建立SMS訊息。 使用您豐富的Marketo資料個人化並鎖定訊息目標，並使用SMS訊息儀表板輕鬆監控訊息效能。
+直接在Marketo輕鬆建立簡訊。 使用您豐富的Marketo資料個人化並鎖定您的訊息，並使用SMS訊息儀表板輕鬆監控其效能。
 
 >[!NOTE]
 >
@@ -86,7 +86,7 @@ Token現在可用於插入影像體驗的「外部URL」區域！ 如果您已�
 
 ## [企業金鑰](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-要求銷售團隊中的每個人安裝我們的Sales Insight Plugin for Outlook可能很麻煩。 我們已引入新方式，使用企業金鑰遠端安裝Outlook增效模組。 將您在「管理員」的「Marketo Sales Insight」區段中找到的獨特金鑰傳送給IT團隊，讓他們完成其他工作。
+要求銷售團隊中的每個人安裝我們的Sales Insight Plugin for Outlook可能很麻煩。 我們已引入新方式，使用企業金鑰遠端安裝Outlook增效模組。 將您在「管理員」的「Marketo銷售分析」區段中找到的獨特金鑰傳送給IT團隊，讓他們完成其餘工作。
 
 ![](assets/enterprise-key.png)
 
@@ -104,12 +104,12 @@ Token現在可用於插入影像體驗的「外部URL」區域！ 如果您已�
 
 先前僅與v1.0電子郵件和範本相容的預先存在的資產API現在已針對v2.0電子郵件資產啟用。
 
-## [Marketo開發人員網站](https://developers.marketo.com/) {#marketo-developers-site}
+## [Marketo開發商網站](https://developers.marketo.com/) {#marketo-developers-site}
 
 全新改良！
 
 ## [隱私權設定](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-行銷人員可使用隱私權設定來決定是否使用Munchkin和Web個人化功能來追蹤訪客。 追蹤層級是使用瀏覽器的「不追蹤」設定、選擇退出Cookie或非特定IP來控制。 這些方法可能會影響Marketo在特定領域的價值和功能，但如果行銷人員未變更任何項目，Marketo的功能將維持不變。
+行銷人員可使用隱私權設定來決定是否使用Munchkin和Web個人化功能來追蹤訪客。 追蹤層級是使用瀏覽器的「不追蹤」設定、選擇退出Cookie或非特定IP來控制。 這些方法可能會影響Marketo在特定領域的價值和功能，但如果行銷人員未變更任何內容，Marketo的功能將維持不變。
 
-此功能將在六週內逐步發佈給客戶。 如果您需要，請立即聯絡行銷人員支援。
+此功能將在六週內逐步發佈給客戶。 如果您需要，請立即聯絡Marketo支援。
