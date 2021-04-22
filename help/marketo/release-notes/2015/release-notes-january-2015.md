@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720758
-description: 發行說明- 2015年1月——行銷檔案——產品檔案
+description: 發行說明- 2015年1月-Marketo文檔——產品文檔
 title: 發行說明- 2015年1月
+exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：2015年1月{#release-notes-january}
 
-2015年1月發行包含下列功能。 請檢查您的Marketo Edition是否提供功能。 在發行後，請務必回來尋找每個功能的詳細文章連結！
+2015年1月發行包含下列功能。 請查看您的Marketo版以瞭解功能的可用性。 在發行後，請務必回來尋找每個功能的詳細文章連結！
 
 ## 行銷自動化更新{#marketing-automation-updates}
 
