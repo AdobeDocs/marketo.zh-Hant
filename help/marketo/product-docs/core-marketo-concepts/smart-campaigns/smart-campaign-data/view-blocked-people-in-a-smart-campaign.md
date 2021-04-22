@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147062
-description: 在智慧型促銷活動中檢視被封鎖的人員——行銷人員檔案——產品檔案
+description: 在智慧型促銷活動中檢視被封鎖的人員-Marketo檔案——產品檔案
 title: 在智慧型促銷活動中檢視被封鎖的人員
+exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-
 # 在智慧型促銷活動中檢視已封鎖的訪客{#view-blocked-people-in-a-smart-campaign}
 
-Marketo資料庫中被封鎖的人員會標示為封鎖清單、未訂閱、暫停行銷及／或有無效或空白的電子郵件。
+在Marketo資料庫中被屏蔽的人被標籤為被屏蔽、被取消訂閱、被暫停營銷和／或電子郵件無效或空。
 
 >[!NOTE]
 >
