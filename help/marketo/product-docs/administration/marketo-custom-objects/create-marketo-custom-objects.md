@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10093192
-description: 建立行銷人員自訂物件——行銷人員檔案——產品檔案
+description: 建立Marketo自訂物件-Marketo檔案——產品檔案
 title: 建立Marketo自訂物件
+exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '710'
 ht-degree: 0%
 
 ---
 
+# 建立Marketo自定義對象{#create-marketo-custom-objects}
 
-# 建立行銷人員自訂物件{#create-marketo-custom-objects}
-
-使用Market中的自訂物件來追蹤您業務的特定量度。 從汽車到課程，一切皆有可能——不論您想在Market中建立何種模型，以進行宣傳活動。
+使用Marketo的自訂物件來追蹤您業務的特定量度。 從汽車到課程，一切皆有可能——不論您想在Marketo做什麼樣的模特，來進行宣傳活動。
 
 >[!NOTE]
 >
->您可以設定自訂物件，以一對多或多對多的方式運作。 建立初始對象的方式相同，但在開始向對象添加欄位時，步驟不同。 如需詳細資訊，請參閱[瞭解行銷商自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)。
+>您可以設定自訂物件，以一對多或多對多的方式運作。 建立初始對象的方式相同，但在開始向對象添加欄位時，步驟不同。 如需詳細資訊，請參閱[瞭解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 此範例顯示Car自訂物件，用於一對多結構。 之後，您將建立課程自訂物件和中介物件，以用於多對多結構。
 
-1. 按一下&#x200B;**Admin**，在&#x200B;**資料庫管理**&#x200B;中選擇&#x200B;**Marketo Custom Objects**。
+1. 按一下&#x200B;**Admin**，在&#x200B;**資料庫管理**&#x200B;中選擇&#x200B;**Marketo自定義對象**。
 
    ![](assets/image2016-1-18-13-3a12-3a19.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >「行銷人員自訂物件」標籤會在右側顯示所有自訂物件，以及任何已核准物件的詳細資訊，包括記錄數和最近更新的欄位。
+   >「Marketo自訂物件」標籤會在右側顯示所有自訂物件，以及任何已核准物件的詳細資訊，包括記錄數和最近更新的欄位。
 
 1. 輸入顯示名稱。 API名稱和複數名稱會自動填入。 輸入說明（可選）。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您只能透過清單匯入或[API](https://developers.marketo.com/documentation/rest/)填入Marketon自訂物件。
+   >您只能透過清單匯入或[API](https://developers.marketo.com/documentation/rest/)填入「Marketo自訂物件」。
 
 ## 為多對多結構{#create-a-custom-object-for-a-many-to-many-structure}建立自定義對象
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 >
 >對於多對多關係，您不需要在自訂物件中建立連結。 相反地，您將新增兩個連結至中介物件（請參閱下方）。
 
-1. 按一下&#x200B;**Admin**，在&#x200B;**資料庫管理**&#x200B;中選擇&#x200B;**Marketo Custom Objects**。
+1. 按一下&#x200B;**Admin**，在&#x200B;**資料庫管理**&#x200B;中選擇&#x200B;**Marketo自定義對象**。
 
    ![](assets/image2016-1-18-13-3a16-3a25.png)
 
@@ -95,7 +95,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您只能透過清單匯入或[API](https://developers.marketo.com/documentation/rest/)填入Marketon自訂物件。
+   >您只能透過清單匯入或[API](https://developers.marketo.com/documentation/rest/)填入「Marketo自訂物件」。
 
 下一步是您建立中介物件（請參閱下面）。 但在此之前，您必須建立欄位以連結至它。
 
@@ -107,7 +107,7 @@ ht-degree: 0%
 >
 >您不需要為一對多自訂物件結構建立中介物件。
 
-1. 按一下&#x200B;**管理員**，在&#x200B;**資料庫管理**&#x200B;中，選擇&#x200B;**行銷商定制對象**。
+1. 按一下&#x200B;**Admin**，在&#x200B;**資料庫管理**&#x200B;中，選擇&#x200B;**Marketo自定義對象**。
 
    ![](assets/image2016-1-18-13-3a17-3a40.png)
 
@@ -133,7 +133,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [新增行銷至自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [新增行銷至自訂物件連結欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [新增Marketo自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [新增Marketo自訂物件連結欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
 >* [瞭解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
