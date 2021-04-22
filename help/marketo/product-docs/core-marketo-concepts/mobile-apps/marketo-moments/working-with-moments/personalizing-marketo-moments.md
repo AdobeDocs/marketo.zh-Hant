@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8782021
-description: 個人化行銷時刻——行銷檔案——產品檔案
-title: 個人化行銷時刻
+description: 個人化Marketo時刻-Marketo文檔——產品文檔
+title: 個人化Marketo時刻
+exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-
-# 個人化行銷時刻{#personalizing-marketo-moments}
+# 個人化Marketo時刻{#personalizing-marketo-moments}
 
 當您有許多行銷計畫和智慧型宣傳活動進行時，看到一切都太好了，但您可能只想專注在自己的工作上。
 
