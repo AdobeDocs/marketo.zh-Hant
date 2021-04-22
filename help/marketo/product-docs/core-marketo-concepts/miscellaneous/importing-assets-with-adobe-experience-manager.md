@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355768
-description: 使用Adobe Experience Manager —— 行銷檔案——產品檔案匯入資產
+description: 使用Adobe Experience Manager匯入資產-Marketo文檔——產品文檔
 title: 使用Adobe Experience Manager匯入資產
+exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
 
 ---
 
+# 匯入具有Adobe Experience Manager{#importing-assets-with-adobe-experience-manager}的資產
 
-# 使用Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}匯入資產
-
-「資產選擇器」可讓Marketon客戶存取、選擇AEM資產，並將其匯入Marketo的Design Studio。 **需要管理員權限**。
+「資產選擇器」可讓Marketo客戶存取、選擇AEM資產並匯入Marketo的Design Studio。 **需要管理員權限**。
 
 >[!AVAILABILITY]
 >
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->請確定您已執行[AEM Configuration](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)。
+>請確定您已經執行了[AEM Configuration](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)。
 
 >[!CAUTION]
 >
@@ -62,8 +62,8 @@ ht-degree: 0%
 
 ## 注意事項{#things-to-note}
 
-Marketo目前支援Adobe Experience Manager 6.4和6.5版。
+Marketo目前支援Adobe Experience Manager6.4和6.5版。
 
 您實例中的所有用戶都可以查看／訪問您導入的映像。
 
-影像不會自動更新。 如果您匯入Marketo Design Studio的影像在AEM中已更新，您必須手動將其重新匯入Marketo。
+影像不會自動更新。 如果導入到MarketoDesign Studio的映像在中更新AEM，則必須手動將其重新導入Marketo。
