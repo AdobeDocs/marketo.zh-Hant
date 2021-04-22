@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953331
-description: 在「計畫排程檢視——行銷人員檔案——產品檔案」中重新執行「智慧型促銷活動」
+description: 在「計畫時間表視圖-Marketo文檔——產品文檔」中重新運行智慧促銷活動
 title: 在「方案計畫檢視」中重新執行智慧型促銷活動
+exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # 在計畫計畫視圖{#rerun-a-smart-campaign-in-the-program-schedule-view}中重新運行智慧促銷活動
 
