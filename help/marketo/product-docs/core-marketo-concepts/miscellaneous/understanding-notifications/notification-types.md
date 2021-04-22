@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953243
-description: 通知類型——行銷檔案——產品檔案
+description: 通知類型-Marketo文檔——產品文檔
 title: 通知類型
+exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
-
 
 # 通知類型{#notification-types}
 
@@ -43,7 +43,7 @@ CRM同步通知會提醒您CRM同步發現的重大問題，例如權限不正�
 
 Facebook
 
-如果您嘗試在未接受服務條款的情況下將潛在客戶傳送至Facebook，或是在移除Marketo應用程式後嘗試將潛在客戶傳送至Facebook。
+如果您嘗試在未接受服務條款的情況下將潛在客源傳送至Facebook，或在移除Marketo應用程式後嘗試將潛在客源傳送至Facebook。
 
 閒置觸發器促銷活動清除
 
@@ -51,7 +51,7 @@ Facebook
 
 LinkedIn
 
-當Marketo嘗試三次後無法建立新對象、登入或推送電子郵件至LinkedIn時。
+當Marketo在三次嘗試後無法建立新對象、登入或推送電子郵件至LinkedIn時。
 
 ![](assets/linkedin.png)
 
