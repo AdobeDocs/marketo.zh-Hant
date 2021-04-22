@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7504128
-description: 建立智慧型清單目標——行銷人員檔案——產品檔案
+description: 建立智慧型清單目標-Marketo檔案——產品檔案
 title: 建立智慧清單目標
+exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-
 # 建立智慧清單目標{#create-a-smart-list-goal}
 
-目標是追蹤進度並激勵團隊的方式。 它們可與智慧型清單結合，以追蹤Marketo中的各種事物。 此外，在您設定好智慧型清單目標後，當它用於簡報時，每2小時就會自動更新一次。
+目標是追蹤進度並激勵團隊的方式。 它們可以與智慧清單相結合，來追蹤Marketo的各種事物。 此外，在您設定好智慧型清單目標後，當它用於簡報時，每2小時就會自動更新一次。
 
 與簡報一樣，目標也是[workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)特定。
 
