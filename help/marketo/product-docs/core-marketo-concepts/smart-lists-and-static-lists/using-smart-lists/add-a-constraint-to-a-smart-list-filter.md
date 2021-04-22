@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949413
-description: 新增限制至智慧型清單篩選——行銷人員檔案——產品檔案
+description: 將約束添加到智慧清單過濾器-Marketo文檔——產品文檔
 title: 將約束添加到智慧清單過濾器
+exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # 將約束添加到智慧清單過濾器{#add-a-constraint-to-a-smart-list-filter}
 
