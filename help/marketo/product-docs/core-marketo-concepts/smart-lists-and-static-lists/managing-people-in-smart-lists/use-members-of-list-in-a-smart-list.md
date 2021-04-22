@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953173
-description: 在智慧型清單中使用清單成員——行銷檔案——產品檔案
+description: 在智慧型清單中使用清單成員-Marketo檔案——產品檔案
 title: 在智慧清單中使用清單成員
+exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
-
 
 # 在智慧清單中使用清單成員{#use-members-of-list-in-a-smart-list}
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 
    ![](assets/memberoflist.png)
 
-   完成！ 在此範例中，智慧型清單現在只會定位該清單的成員，並根據您包含的任何其他規則來評估這些成員。
+   完成! 在此範例中，智慧型清單現在只會定位該清單的成員，並根據您包含的任何其他規則來評估這些成員。
