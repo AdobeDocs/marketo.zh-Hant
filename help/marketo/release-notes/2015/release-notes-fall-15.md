@@ -1,61 +1,61 @@
 ---
 unique-page-id: 10094114
-description: 發行說明- 2015年秋季版——行銷檔案——產品檔案
+description: 發行說明- 2015年秋季版-Marketo文檔——產品文檔
 title: 發行說明- 2015年秋季版
+exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '995'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：2015年秋季{#release-notes-fall}
 
-Fall &#39;15發行包含下列功能。 請檢查您的Marketo Edition是否提供功能。
+Fall &#39;15發行包含下列功能。 請查看您的Marketo版以瞭解功能的可用性。
 
 ## 訂閱智慧清單{#subscribe-to-a-smart-list}
 
 [訂閱智慧型清單](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
-「訂閱智慧型清單」可讓行銷人員匯出智慧型清單，並以電子郵件寄送給未使用Marketo的利益相關者，例如銷售或電話行銷團隊。
+訂閱智慧型清單可讓行銷人員匯出智慧型清單，並以電子郵件寄送給非使用Marketo的利益相關者，例如銷售或電話行銷團隊。
 
 匯出可以排程為每日、每週或每月，可以有結束傳送日期，並可自訂以共用有限的欄數。
 
 ![](assets/image2015-10-1-17-3a12-3a50.png)
 
-您可以在智慧型清單上建立多個訂閱。 每個訂閱、跨工作區、每個行銷實例都限制100個訂閱，每個訂閱100K個銷售機會。
+您可以在智慧型清單上建立多個訂閱。 每個訂閱、跨工作區、每個Marketo例項都限制100個訂閱，每個訂閱100K個潛在客源。
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
-## 行銷人員自訂物件{#marketo-custom-objects}
+## Marketo自訂物件{#marketo-custom-objects}
 
-[行銷人員自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+[Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
-從管理員UI輕鬆建立自訂物件。 我們目前支援在Marketo中建立1:N自訂物件，並將它連接至銷售機會或公司的能力。
+從管理員UI輕鬆建立自訂物件。 我們目前支援在Marketo建立1:N自訂物件，並將它連接至銷售機會或公司的能力。
 
 >[!NOTE]
 >
->Spark無法使用Marketo自訂物件。
+>Marketo自訂物件不適用於Spark。
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Google Chrome的Marketo Insights {#marketo-insights-for-google-chrome}
+## MarketoGoogle Chrome的見解{#marketo-insights-for-google-chrome}
 
-[Google Chrome的Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[MarketoGoogle Chrome的見解](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 我們很高興宣佈推出Google Mail Sales Insight擴充功能的更新！ 在[Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)中檢視。
 
 此更新包含許多新功能：
 
-* 在進行互動之前，銷售人員可以直接在Google Mail中查看其潛在客戶的相關資訊，包括職稱、Twitter個人檔案、公司資訊、像片等。
+* 在進行互動之前，銷售人員可以直接在Google Mail中查看其潛在客戶的相關資訊，包括職稱、twitter個人檔案、公司資訊、像片等。
 * 銷售人員可即時查看潛在客源透過不同通道參與的內容，例如開啟或點選的電子郵件、線上或親自參與的活動、瀏覽的網頁、下載的電子書等。
-* 透過Google Mail傳送的電子郵件會記錄在Marketo中，並即時追蹤。 這可讓銷售人員瞭解潛在客戶何時查看其電子郵件，以便在適當的時間追蹤。 Marketo Sales Insight for Google Mail也讓銷售人員能夠輕鬆運用行銷所建立的範本，以傳送精美的邀請函、優惠和其他類型的內容。
+* 透過Google Mail傳送的電子郵件會記錄在Marketo，並即時追蹤。 這可讓銷售人員瞭解潛在客戶何時查看其電子郵件，以便在適當的時間追蹤。 MarketoSales Insight for Google Mail也讓銷售人員能夠輕鬆運用行銷所建立的範本，以傳送精美的邀請函、優惠和其他類型的內容。
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Marketo Mobile參與- Token、傳送範例和預覽{#marketo-mobile-engagement-tokens-send-sample-preview}
+## Marketo行動參與- Token、傳送範例和預覽{#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [Token](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [傳送範例](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
