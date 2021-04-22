@@ -1,14 +1,14 @@
 ---
-description: Salesforce同步狀態——行銷人員檔案——產品檔案
+description: Salesforce同步狀態-Marketo文檔——產品文檔
 title: Salesforce同步狀態
+exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 translation-type: tm+mt
-source-git-commit: 98af67caaf485535ba2177aa661a503990e8698d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '552'
 ht-degree: 0%
 
 ---
-
 
 # Salesforce同步狀態{#salesforce-sync-status}
 
@@ -195,7 +195,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1">提取轉換</td> 
    <td colspan="1">人員（銷售機會）*</td> 
-   <td colspan="1">從SFDC向Marketo提取轉換操作。 件數（數字）是將銷售線索轉換為聯繫人的銷售線索</td> 
+   <td colspan="1">將轉換操作從SFDC拉到Marketo。 件數（數字）是將銷售線索轉換為聯繫人的銷售線索</td> 
    <td colspan="1">更新、失敗項目或已跳過</td>
   </tr> 
   <tr> 
@@ -207,7 +207,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1">提取更新</td> 
    <td colspan="1">Task 、 Person(Lead)、Person(Lead)Queue 、 Contact 、 Event 、 Opportunity 、 Account 、 Account Type 、 Campaign Members 、 Custom Objects 、 Campaign 、 Campaign Member Status 、 Persontity 、 Opportunity Contact Role</td> 
-   <td colspan="1">SFDC中的更新或新記錄與Marketo同步，將事件作為活動提取</td> 
+   <td colspan="1">SFDC中與Marketo同步的更新或新記錄，將事件作為活動提取</td> 
    <td colspan="1">新建、更新、失敗項目或已跳過</td>
   </tr>  
   <tr> 
@@ -231,7 +231,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1">與程式同步</td> 
    <td colspan="1">促銷活動</td> 
-   <td colspan="1">Syncs Marketo計畫與SFDC促銷活動同步</td> 
+   <td colspan="1">將Marketo計畫與SFDC宣傳同步</td> 
    <td colspan="1">新增、更新、失敗或跳過</td>
   </tr> 
   <tr> 
