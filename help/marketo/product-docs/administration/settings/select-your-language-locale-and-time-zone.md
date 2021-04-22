@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359904
-description: 選擇您的語言、地區和時區——行銷檔案——產品檔案
+description: 選擇您的語言、地區和時區-Marketo文檔——產品文檔
 title: 選擇您的語言、地區和時區
+exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
-
 
 # 選擇您的語言、地區和時區{#select-your-language-locale-and-time-zone}
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 更改用戶語言、地區和時區{#change-user-language-locale-and-time-zone}
 
-1. 登入Marketo，並在您的名稱下選取「我的帳戶」**。**
+1. 登入Marketo，在您的名稱下選擇&#x200B;**我的帳戶**。
 
    ![](assets/myaccount.png)
 
