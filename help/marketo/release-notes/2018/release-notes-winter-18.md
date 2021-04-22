@@ -1,41 +1,41 @@
 ---
 unique-page-id: 13795395
-description: 發行說明- 18年冬季——行銷檔案——產品檔案
+description: 發行說明- 18年冬季-Marketo文檔——產品文檔
 title: 發行說明- 18年冬季
+exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 translation-type: tm+mt
-source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：冬季&#39;18 {#release-notes-winter}
 
-Winter &#39;18版本包含下列功能。 檢查您的Marketo版本，以取得功能。
+Winter &#39;18版本包含下列功能。 查看您的Marketo版功能是否可用。
 
 請按一下標題連結，以檢視每個功能的詳細文章。 **注意**:此版本包含的部分功能沒有相關文章。如果主題有多個子標題，則會將連結放在此處。
 
 ## 促銷活動效能和總處理能力增強{#campaign-performance-and-throughput-enhancements}
 
-Marketo運用我們的大資料架構來增加觸發促銷活動的吞吐量並改善網頁活動處理，讓您更快速地回應觀眾的動作。
+Marketo運用我們的大資料架構來提高觸發促銷活動的處理能力並改善網頁活動處理，讓您更快速地回應觀眾的動作。
 
-## Marketon的Salesforce CRM整合增強功能{#enhancements-to-marketo-s-salesforce-crm-integration}
+## MarketoSalesforce CRM整合的增強功能{#enhancements-to-marketo-s-salesforce-crm-integration}
 
 我們對Salesforce CRM整合有兩項增強功能：
 
-* [特定CRM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) 同步失敗的行銷人員管理員通知（認證已過期、已達API限制等）
+* [Marketo管](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) 理員通知，以取得某些CRM同步失敗（認證已過期，已達API限制等）
 
 * [能夠在銷售線索分配時關](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) 閉對銷售線索所有者的電子郵件通知
 
 這些改進將於2018年推出。
 
-## [行銷人員績效分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
+## [Marketo績效洞察](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
 >[!AVAILABILITY]
 >
->績效分析是一項附加產品。 如需報價，請連絡您的行銷人員客戶成功經理或客戶經理。
+>績效分析是一項附加產品。 如需報價，請連絡您的Marketo客戶成功經理或客戶經理。
 
 透過歸因分析、互動式視覺化和詳細的資料表，瞭解您的促銷活動和通道對商業成果有何影響。
 
@@ -63,17 +63,17 @@ Marketo運用我們的大資料架構來增加觸發促銷活動的吞吐量並�
 
 **[Google客戶符合整合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-透過此項整合，您可以將Marketo對象傳送至Google，以利用Google AdWords進行定位，並跨YouTube、Search和Gmail重新定位對象。
+透過這項整合，您可以將Marketo受眾傳送至Google，以利用Google AdWords進行定位，並重新鎖定YouTube、Search和Gmail的受眾。
 
-**[LinkedIn符合的觀眾API增強功能](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[linkedIn符合觀眾API增強功能](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
-我們新的LinkedIn API現在可讓您跨多個LinkedIn Campaign Manager帳戶重新定位Marketo資料庫中的人員。
+我們新的LinkedInAPI現在可讓您跨多個LinkedIn促銷活動管理員帳戶，重新定位Marketo資料庫中的人員。
 
 ## Web個人化{#web-personalization}
 
 **日文網頁個人化資料來源**
 
-Marketo為Web Personalization新增了額外的日文資料來源，以改善來自日本的訪客的網頁訪客識別（反向IP查閱）和個人化。 組織名稱將以日文顯示。
+Marketo為Web個人化新增了日文資料來源，以改善來自日本的訪客的網頁訪客識別（反向IP查閱）和個人化。 組織名稱將以日文顯示。
 
 **[使用靜態清單建立網頁區段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
