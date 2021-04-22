@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147034
-description: 添加到SFDC Campaign —— 行銷人員文檔——產品文檔
+description: 添加到SFDC促銷活動-Marketo文檔——產品文檔
 title: 添加到SFDC促銷活動
+exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
 
 ---
-
 
 # 添加到SFDC促銷活動{#add-to-sfdc-campaign}
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    >如果您在「促銷活動」清單中看不到Salesforce促銷活動：
    >
    >  1. 請確定[促銷活動同步已啟用](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)。
-   >  1. 確認您的[Marketo Sync使用者](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)是Salesforce中的[Marketing使用者](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)。
+   >  1. 確認您的[Marketo同步使用者](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)是Salesforce中的[行銷使用者](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)。
 
 
    >[!TIP]
