@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10100266
-description: 瞭解自訂活動——行銷檔案——產品檔案
+description: 瞭解自訂活動-Marketo文檔——產品文檔
 title: 瞭解自訂活動
+exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
 
 ---
-
 
 # 瞭解自訂活動{#understanding-custom-activities}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 **自訂活動**
 
-自訂活動可協助您追蹤與行銷人員表單、電子郵件或登陸頁面無關的活動。 想追蹤有人何時存了支票？ 使用自訂活動。 想要在有人參加網路研討會時密切留意嗎？ 使用自訂活動。
+自訂活動可協助您追蹤與Marketo表單、電子郵件或登陸頁面無關的活動。 想追蹤有人何時存了支票？ 使用自訂活動。 想要在有人參加網路研討會時密切留意嗎？ 使用自訂活動。
 
 >[!NOTE]
 >
