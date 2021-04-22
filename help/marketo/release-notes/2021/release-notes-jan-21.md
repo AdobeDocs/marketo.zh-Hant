@@ -1,18 +1,18 @@
 ---
-description: 發行說明- 2021年1月——行銷檔案——產品檔案
+description: 發行說明- 2021年1月-Marketo文檔——產品文檔
 title: 發行說明- 2021年1月
+exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：2021年1月{#release-notes-jan-21}
 
-1月21日發行包含下列功能。 檢查您的Marketo版本，以取得功能。
+1月21日發行包含下列功能。 查看您的Marketo版功能是否可用。
 
 >[!AVAILABILITY]
 >
@@ -29,12 +29,12 @@ ht-degree: 0%
 ## 多通道個人化{#multi-channel-personalization}
 
 * **[Adobe Experience Cloud觀眾同步階段3](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**:現有的Adobe Experience Cloud(AEC)觀眾同步功能現在支援從Marketo Engage到其他AEC應用程式的連續、雙向B2B觀眾同步，包括Adobe Experience Platform(AEP)方案，例如即時客戶資料平台和Adobe Experience Platform啟動。當客源新增並移除至您的受眾細分時，Marketo Engage將自動同步您所連線之AEC應用程式中更新的受眾。 運用它，在AEC技術團隊中運用Adobe的多通道協調、重新定位目標、抑制受眾、個人化和報告使用案例。
-* **[持續同步至Google、Facebook和LinkedIn的觀眾](/help/marketo/product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)**:可以在靜態清單上啟用與廣告網路的連續自動同步，隨著清單成員資格的改變更新廣告網路而無需用戶干預。
+* **[Continuous Audience Sync to Google、Facebook和LinkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)**:可以在靜態清單上啟用與廣告網路的連續自動同步，隨著清單成員資格的改變更新廣告網路而無需用戶干預。
 * **[方案成員自訂欄位的代號](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)**:我們擴充了方案會員的自訂欄位功能，以支援Token架構。行銷人員可將方案會員的自訂欄位Token插入電子郵件、登陸頁面、SMS訊息、推播通知和網頁勾點。 在促銷活動流程動作中使用新的Token來變更資料值、建立工作或有趣的時刻。
 
 ## 著陸頁面與Forms{#landing-pages-and-forms}
 
-* **表單API**:從非行銷人員表單中提取銷售線索資訊或觸發培育宣傳活動。非行銷人員表單可透過REST API與Marketo Engage整合。 新API提供模擬Marketo Engage表單提交與所有相關功能的能力。
+* **表單API**:從非Marketo表單提取資料時，可獲取銷售線索資訊或觸發培育宣傳活動。非Marketo表單可透過REST API與Marketo Engage整合。 新API提供模擬Marketo Engage表單提交與所有相關功能的能力。
 * **著陸頁面API**:使用全新的著陸頁面預覽API，簡化整合式應用程式的編輯和翻譯工作流程。協力廠商現在可以轉換完全個人化的登陸頁面預覽，而不需登入Marketo Engage。  「著陸頁面預覽API」可在協力廠商整合應用程式中啟用端對端編輯和本地化工作流程。
 
 ## 電子郵件行銷{#email-marketing}
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## Salesforce CRM整合{#salesforce-crm-integration}
 
-* [Salesforce CRM驗證](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md):OAuth 2.0通訊協定可用於同步Marketo Engage與Salesforce CRM之間的作業。對於新訂閱者，預設會啟用此選項。 目前的訂閱者可聯絡行銷人員支援部門要求此功能。
+* [Salesforce CRM驗證](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md):OAuth 2.0通訊協定可用於同步Marketo Engage與Salesforce CRM之間的作業。對於新訂閱者，預設會啟用此選項。 目前的訂閱者可聯絡Marketo支援部門以要求這項功能。
 * [Salesforce CRM同步儀表板](/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md):管理員可從儀表板快速檢閱Salesforce CRM同步狀態。同步效能報表的時間間隔已從2小時增加為5天。
 * **中繼資料匯出**:增強功能可支援機會物件屬性、命名帳戶、方案會員的標準欄位和自訂欄位。
 
