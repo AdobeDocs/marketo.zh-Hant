@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360198
-description: 建立、刪除、編輯和變更使用者角色——行銷人員檔案——產品檔案
+description: 建立、刪除、編輯和更改用戶角色-Marketo文檔——產品文檔
 title: 建立、刪除、編輯和更改用戶角色
+exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
 
-
 # 建立、刪除、編輯和更改用戶角色{#create-delete-edit-and-change-a-user-role}
 
-**** Rolesgroup of permissions.**授** 權您在Marketo做事。您會為用戶分配&#x200B;**角色**。 像派一樣簡單。
+**** Rolesgroup of permissions.**許** 可你在Marketo做事。您會為用戶分配&#x200B;**角色**。 像派一樣簡單。
 
 >[!NOTE]
 >
@@ -97,4 +97,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您保留選取多個角色，Marketo會預設為限制最嚴格的權限。
+>如果您保留選取多個角色，Marketo將預設為限制最嚴格的權限。
