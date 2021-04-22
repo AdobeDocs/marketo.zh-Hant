@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378713
-description: 觸發自訂物件變更——行銷檔案——產品檔案
+description: 觸發自訂物件變更-Marketo檔案——產品檔案
 title: 觸發自訂物件變更
+exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # 觸發自訂物件變更{#trigger-off-custom-object-changes}
 
@@ -18,12 +18,12 @@ ht-degree: 0%
 >此功能僅提供：
 >
 >* 適用於Orion基礎架構的客戶
->* 僅供Marketo自訂物件使用，而非透過原生Salesforce或Microsoft Dynamics整合同步的自訂物件
+>* 僅用於Marketo自訂物件，而非透過原生Salesforce或Microsoft Dynamics整合同步的自訂物件
 >* 作為觸發器，而非篩選器
 
 >
 >
-請連絡[行銷人員支援](https://nation.marketo.com/t5/Support/ct-p/Support)以啟用自訂物件變更觸發器。
+請聯絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)以啟用自訂物件變更觸發器。
 
 在智慧型促銷活動的智慧型清單中，您可以在將自訂物件新增至個人或公司時觸發流程動作。 您也可以建立智慧型清單，在自訂物件中使用&#x200B;*change*&#x200B;做為觸發器。 例如，當課程名稱更新時，使用它傳送電子郵件。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 >
 >更改自定義對象記錄時，不會建立活動日誌條目。
 
-1. 在Marketo中，前往&#x200B;**行銷活動。**
+1. 在Marketo，前往&#x200B;**行銷活動。**
 
    ![](assets/image2016-7-25-15-3a49-3a52.png)
 
