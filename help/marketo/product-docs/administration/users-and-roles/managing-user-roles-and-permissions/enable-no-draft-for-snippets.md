@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10095636
-description: 為程式碼片段啟用非草稿——行銷檔案——產品檔案
+description: 啟用代碼片段無草稿-Marketo文檔——產品文檔
 title: 為片段啟用非草稿
+exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
-
 
 # 為代碼片段{#enable-no-draft-for-snippets}啟用非草稿
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 * 已核准的資產可取得程式碼片段更新，並持續獲得核准
 
-* 草稿會取得程式碼片段更新，並保持草稿模式
+* 草稿會取得程式碼片段更新並維持在草稿模式
 
 所有管理員角色都會自動啟用非草稿。 然後管理員就可以針對任何其他角色啟用此功能。
 
