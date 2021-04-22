@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951044
-description: 發行說明- 2014年5月——行銷檔案——產品檔案
+description: 發行說明- 2014年5月-Marketo文檔——產品文檔
 title: 發行說明- 2014年5月
+exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：2014年5月{#release-notes-may}
 
-2014年5月發行包含下列功能。 請檢查您的Marketo Edition是否提供功能。 在發行後，請務必回來尋找每個功能的詳細知識庫文章的連結！
+2014年5月發行包含下列功能。 請查看您的Marketo版以瞭解功能的可用性。 在發行後，請務必回來尋找每個功能的詳細知識庫文章的連結！
 
 ## 刪除工作區{#delete-workspace}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 文字電子郵件中的連結追蹤{#link-tracking-in-text-emails}
 
-[在電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) 的文字版本中，加上URL的雙方括弧，以指出何時應將連結轉換為重新導向的Market，以追蹤連結
+[在電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) 的文字版本中加上URL的雙方括弧，以指出何時應將連結轉換為重新導向的Marketo追蹤連結
 
 >[!NOTE]
 >
