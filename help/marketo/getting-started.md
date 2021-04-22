@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147226
-description: 快速入門——行銷檔案——產品檔案
+description: 快速入門-Marketo文檔——產品文檔
 title: 快速入門
+exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 7%
 
 ---
 
-
 # 開始使用{#getting-started}
 
-## 步驟1什麼是行銷工具{#what-is-marketo}
+## 步驟1什麼是Marketo{#what-is-marketo}
 
-你問馬克特什麼？ 問得好！
+你問的是Marketo? 問得好！
 
-[瞭解Marketo](/help/marketo/getting-started/what-is-marketo.md)
+[學習Marketo](/help/marketo/getting-started/what-is-marketo.md)
 
 ## 步驟2設定{#get-set-up}
 
@@ -27,7 +27,7 @@ ht-degree: 7%
 
 ## 步驟3取得一些快速贏家{#get-some-quick-wins}
 
-完成這些任務，以瞭解Marketo的核心功能。
+完成這些任務，瞭解Marketo的核心功能。
 
 [![](/help/marketo/getting-started/assets/getting-started-1.png) 1.設定並新增人員](https://docs.marketo.com/pages/viewpage.action?pageId=2359351)
 
