@@ -1,15 +1,15 @@
 ---
 unique-page-id: 9438139
-description: 將人員添加到塊清單——行銷文檔——產品文檔
+description: 將人員添加到塊清單-Marketo文檔——產品文檔
 title: 將人員添加到塊清單
+exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # 將人添加到塊清單{#add-person-to-blocklist}
 
