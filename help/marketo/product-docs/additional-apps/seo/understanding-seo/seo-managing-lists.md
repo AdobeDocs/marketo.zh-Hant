@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949232
-description: SEO —— 管理清單——行銷檔案——產品檔案
+description: SEO —— 管理清單-Marketo文檔——產品文檔
 title: SEO —— 管理清單
+exl-id: 6b78f8be-fc42-4431-a9c7-703612ec448f
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
-
 
 # SEO —— 管理清單{#seo-managing-lists}
 
