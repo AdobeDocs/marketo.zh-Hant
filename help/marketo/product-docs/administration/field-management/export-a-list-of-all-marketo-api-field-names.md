@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360295
-description: 匯出所有行銷人員API欄位名稱清單——行銷人員檔案——產品檔案
-title: 匯出所有Marketo API欄位名稱清單
+description: 匯出所有MarketoAPI欄位名稱清單-Marketo檔案——產品檔案
+title: 匯出所有MarketoAPI欄位名稱清單
+exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
-# 匯出所有行銷人員API欄位名稱清單{#export-a-list-of-all-marketo-api-field-names}
+# 匯出所有MarketoAPI欄位名稱清單{#export-a-list-of-all-marketo-api-field-names}
 
 如果您使用我們的SOAP API或Munchkin API，您將需要所有欄位及其API名稱的清單。 下面是如何獲得這份名單。
 
