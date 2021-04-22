@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10093348
-description: 瞭解智慧型促銷活動資訊卡——行銷人員檔案——產品檔案
+description: 瞭解智慧型促銷活動資訊卡-Marketo檔案——產品檔案
 title: 瞭解智慧型促銷活動資訊卡
+exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
 
 ---
 
-
 # 瞭解智慧型促銷活動資訊卡{#understanding-smart-campaign-cards}
 
-使用Marketo Monts從智慧型手機或iPad檢視每個智慧型宣傳的執行。 Marketo Moments智慧型宣傳卡代表單一促銷活動執行；每次智慧型促銷活動執行時，都會顯示新卡片。 智慧型宣傳卡在左上角標有燈泡。
+使用「Marketo時刻」，從智慧型手機或iPad檢視您每次智慧型宣傳活動。 「Marketo時刻」智慧型宣傳卡代表單次宣傳；每次智慧型促銷活動執行時，都會顯示新卡片。 智慧型宣傳卡在左上角標有燈泡。
 
-對於已排程但尚未執行的未來智慧型促銷活動，Marketo Monts卡尚未顯示任何促銷活動統計資料。 它們會出現在未來的版本中。
+對於已排程但尚未執行的未來智慧型促銷活動，「Marketo時刻」卡尚未顯示任何促銷活動統計資料。 它們會出現在未來的版本中。
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
@@ -127,7 +127,7 @@ ht-degree: 0%
 
 ## 其他智慧型促銷活動動作{#other-smart-campaign-actions}
 
-和其他Marketo Monts卡片一樣，您可以點選任何Smart Campaign卡片或詳細資訊卡上的三個點，以：
+和其他Marketo時刻卡一樣，您可以點選任何Smart Campaign卡片或詳細資料卡上的三個點，以：
 
 * [讓它成為您最愛的](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
 * [完成標籤](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
