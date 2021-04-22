@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147247
-description: 隱藏和取消隱藏自訂登入類型——行銷人員檔案——產品檔案
+description: 隱藏和取消隱藏自訂登入類型-Marketo文檔——產品文檔
 title: 隱藏和取消隱藏自定義條目類型
+exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # 隱藏和取消隱藏自定義條目類型{#hiding-and-unhiding-custom-entry-types}
 
