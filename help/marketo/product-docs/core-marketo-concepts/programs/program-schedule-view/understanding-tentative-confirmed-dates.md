@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147140
-description: 瞭解暫定／確認日期——行銷檔案——產品檔案
+description: 瞭解暫定／確認日期-Marketo文檔——產品文檔
 title: 瞭解暫定／確認日期
+exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
-
 
 # 瞭解暫定／確認日期{#understanding-tentative-confirmed-dates}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 完成{#finished}
 
-已完成的項目已運行。 它們只能是過去（顯然）。 一旦某個條目已運行且為&#x200B;**Finished**，您便無法移動它或使其處於試探狀態。 （不會改變現實，也不會破壞時間流連續體。）
+已完成的項目已運行。 它們只能是過去（顯然）。 一旦某個條目已運行且為&#x200B;**Finished**，您就不能移動它或使其處於試探狀態。 （不會改變現實，也不會破壞時間流連續體。）
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
