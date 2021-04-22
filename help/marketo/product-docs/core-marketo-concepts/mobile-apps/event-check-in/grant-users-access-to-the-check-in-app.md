@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516639
-description: 授予使用者存取登入應用程式——行銷人員檔案——產品檔案的權限
+description: 授予使用者存取登入應用程式的權限-Marketo檔案——產品檔案
 title: 授予使用者登入應用程式的存取權
+exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
 
 ---
 
-
 # 授予使用者存取登入應用程式的權限{#grant-users-access-to-the-check-in-app}
 
-Marketo對事件登入應用程式有特殊的使用者角色。 以下說明如何建立具有使用應用程式權限的新角色。
+Marketo對活動登入應用程式有特殊的使用者角色。 以下說明如何建立具有使用應用程式權限的新角色。
 
 ## 建立行動裝置的新使用者角色{#create-a-new-user-role-for-mobile}
 
