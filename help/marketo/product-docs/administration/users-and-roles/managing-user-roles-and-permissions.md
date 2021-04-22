@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2359909
-description: 管理使用者角色和權限——行銷人員檔案——產品檔案
+description: 管理用戶角色和權限-Marketo文檔——產品文檔
 title: 管理用戶角色和權限
+exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 0%
 
 ---
 
-
 # 管理用戶角色和權限{#managing-user-roles-and-permissions}
 
 設定、建立和編輯使用者角色，並指派給使用者。 這可讓您控制每個Marketo使用者可存取的區域和功能。
 
-例如，行銷使用者通常需要跨應用程式廣泛存取，以建立、修改和部署電子郵件、登陸頁面和程式。 另一方面，網頁設計人員幾乎將所有時間都花在Design Studio上，以建立用於電子郵件和登陸頁面的資產。 雖然公司領導者在Analytics領域廣泛運用Marketo的報表，但他們可能不需要自行建立或驅動資產或程式。
+例如，行銷使用者通常需要跨應用程式廣泛存取，以建立、修改和部署電子郵件、登陸頁面和程式。 另一方面，網頁設計人員幾乎將所有時間都花在Design Studio上，以建立用於電子郵件和登陸頁面的資產。 雖然公司領導人在Analytics領域廣泛運用Marketo的報告，但他們可能不需要自行建立或驅動資產或程式。
 
 >[!NOTE]
 >
 >**需要管理員權限**
 
-Marketo提供數個內建角色，其存取權等級不同：
+Marketo提供多種內置角色，具有不同級別的訪問權：
 
 * **管理** -應用程式的所有部分，包括「管理」區段
 * **標準使用者** -應用程式的所有部分，除「管理」區段外
