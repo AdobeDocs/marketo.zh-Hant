@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359918
-description: 編輯著陸頁面設定——行銷檔案——產品檔案
+description: 編輯著陸頁面設定-Marketo檔案——產品檔案
 title: 編輯著陸頁面設定
+exl-id: 019b4651-3a66-46f9-8722-66af30194380
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
 
 ---
-
 
 # 編輯著陸頁面設定{#edit-landing-page-settings}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 如果您想要防止惡意網站看似托管您的內容，請勾選「不允許Marketo頁面內嵌於外部網頁&#x200B;**」核取方塊。**
+1. 如果您想要防止惡意網站看似托管您的內容，請勾選「不允許將Marketo頁面嵌入外部網頁&#x200B;**」核取方塊。**
 
    ![](assets/five.png)
 
