@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719310
-description: 啟用／停用Salesforce同步——行銷檔案——產品檔案
+description: 啟用／停用Salesforce同步-Marketo檔案——產品檔案
 title: 啟用／停用Salesforce同步
+exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # 啟用／停用Salesforce同步{#enable-disable-the-salesforce-sync}
 
