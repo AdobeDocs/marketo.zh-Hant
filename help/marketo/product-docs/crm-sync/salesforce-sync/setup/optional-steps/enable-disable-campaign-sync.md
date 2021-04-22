@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719289
-description: 啟用／停用促銷活動同步——行銷人員檔案——產品檔案
+description: 啟用／停用促銷活動同步-Marketo檔案——產品檔案
 title: 啟用／停用促銷活動同步
+exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # 啟用／停用促銷活動同步{#enable-disable-campaign-sync}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理員權限**
 
-此選項可讓Market將其方案會籍和狀態與Salesforce促銷活動同步，反之亦然。
+此選項可讓Marketo將其方案會籍和狀態與Salesforce促銷活動同步，反之亦然。
 
 1. 前往&#x200B;**Admin**，按一下&#x200B;**Salesforce**。
 
