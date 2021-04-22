@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557312
-description: 智慧型清單篩選器運算子辭彙表——行銷人員檔案——產品檔案
+description: 智慧型清單篩選器運算子辭彙表-Marketo檔案——產品檔案
 title: 智慧清單過濾器運算子辭彙表
+exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '602'
 ht-degree: 0%
 
 ---
-
 
 # 智慧清單過濾器運算子辭彙表{#smart-list-filter-operators-glossary}
 
@@ -146,4 +146,4 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-如您所見，這些營運商讓您輕鬆地使用流利的語言來說話！
+如您所見，這些營運商讓Marketo話的流利性很好！
