@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146901
-description: 使用進階智慧型清單規則邏輯——行銷檔案——產品檔案
+description: 使用高級智慧清單規則邏輯-Marketo文檔——產品文檔
 title: 使用高級智慧清單規則邏輯
+exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
 
 ---
-
 
 # 使用高級智慧清單規則邏輯{#using-advanced-smart-list-rule-logic}
 
