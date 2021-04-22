@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147074
-description: 自動觸發促銷活動清理——行銷人員檔案——產品檔案
+description: 自動觸發促銷活動清理-Marketo文檔——產品文檔
 title: 自動觸發促銷活動清除
+exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
 
 ---
 
-
 # 自動觸發促銷活動清除{#automatic-trigger-campaign-cleanup}
 
-Marketo提供優質／免費服務，以停用已無法再獲得活動的觸發智慧型促銷活動。 這可加快系統整體效能並節省時間。
+Marketo有一套免費的優質服務，可停用已觸發的智慧型促銷活動，而且不再能取得活動。 這可加快系統整體效能並節省時間。
 
 ## 怎麼了？{#what-happens}
 
-每季一次，Marketo將會發現智慧型促銷活動，其休眠（無人）達6個月或更長時間，並停用它們。
+每季一次，Marketo會發現有些聰明的宣傳活動停止（沒有人）6個月或更長時間，並停用它們。
 
 ## 你先通知我好嗎？{#will-you-notify-me-first}
 
