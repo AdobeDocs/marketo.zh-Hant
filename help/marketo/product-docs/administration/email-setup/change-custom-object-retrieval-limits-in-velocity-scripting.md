@@ -1,14 +1,14 @@
 ---
-description: 變更Velocity指令碼——行銷人員檔案——產品檔案中的自訂物件擷取限制
+description: 變更Velocity指令碼中的自訂物件擷取限制-Marketo檔案——產品檔案
 title: 變更速度指令碼中的自訂物件擷取限制
+exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
 
 ---
-
 
 # 在Velocity指令碼中變更自訂物件擷取限制{#change-custom-object-retrieval-limits-in-velocity-scripting}
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 什麼是Velocity {#what-is-velocity}
 
-[Apache Velocity](https://velocity.apache.org/)是以Java為基礎的語言，專為範本化和編寫HTML內容指令碼而設計。Marketo可讓您透過使用[指令碼Token](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)，在電子郵件中使用它。 除了其他功能，這可讓您存取儲存在自訂物件中的資料。
+[Apache Velocity](https://velocity.apache.org/)是以Java為基礎的語言，專為範本化和編寫HTML內容指令碼而設計。Marketo允許透過使用[指令碼Token](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)，在電子郵件中使用。 除了其他功能，這可讓您存取儲存在自訂物件中的資料。
 
 您可以參考直接連接至Lead或Contact的父項和子項自訂物件，但不能參考第三層自訂物件。 對於每個自訂物件，每位人員／連絡人有10個最近更新的記錄可在執行時期使用，並依序從最近更新(0)到最舊更新(9)。
 
