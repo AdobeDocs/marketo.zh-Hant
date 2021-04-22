@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360189
-description: 使用CNAME（管理）-行銷人員檔案——產品檔案自訂著陸頁面URL
+description: 使用CNAME（管理）自訂著陸頁面URL -Marketo檔案——產品檔案
 title: 使用CNAME（管理）自訂著陸頁面URL
+exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
-
 # 使用CNAME（管理）{#customize-your-landing-page-urls-with-a-cname-administration}自訂著陸頁面URL
 
-即使Marketo代管您的著陸頁面，URL仍應為您的公司自訂。
+即使Marketo代管著陸頁面，URL仍應為您的公司自訂。
 
 >[!NOTE]
 >
@@ -73,6 +73,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 
-如果您的Marketing登陸頁面無法使用，則會將人員重新導向至您的後援頁面。
+如果您的Marketo登陸頁面無法使用，您的後援頁面會重新導向訪客。
 
 幹得好！ 您的登陸頁面現在會與您的公司網域一起加上品牌。
