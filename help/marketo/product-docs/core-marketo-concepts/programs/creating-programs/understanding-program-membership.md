@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147091
-description: 瞭解方案會籍——行銷人員檔案——產品檔案
+description: 瞭解方案會員-Marketo文檔——產品文檔
 title: 瞭解方案會籍
+exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
 
 ---
-
 
 # 瞭解方案會員{#understanding-program-membership}
 
@@ -33,8 +33,8 @@ ht-degree: 0%
 
 1. 您使用[change program status](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)流步驟。
 1. 有人會註冊或參加與事件程式](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)同步的[網路研討會。
-1. 使用Marketo iPad登入應用程式[建立人員。](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
-1. 將人員添加到SFDC促銷活動，該促銷活動與程式[同步。](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+1. 使用MarketoiPad登入應用程式](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)建立人員。[
+1. 將人員添加到SFDC促銷活動，該促銷活動與程式](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)同步。[
 
 >[!NOTE]
 >
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ## 收購計畫{#acquisition-program}
 
-當新名稱以方案會員身分進入系統時，Marketo會自動將該方案設定為「贏取」。 這可建立[首次接觸歸因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)的評分。
+當新名稱以方案會員身分進入系統時，Marketo會自動將該方案設為「贏取」。 這可建立[首次接觸歸因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)的評分。
 
 >[!MORELIKETHIS]
 >
