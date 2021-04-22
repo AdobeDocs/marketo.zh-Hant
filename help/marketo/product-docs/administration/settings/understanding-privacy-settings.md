@@ -1,28 +1,28 @@
 ---
 unique-page-id: 10617187
-description: 瞭解隱私權設定——行銷人員檔案——產品檔案
+description: 瞭解隱私權設定-Marketo檔案——產品檔案
 title: 瞭解隱私權設定
+exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
 
 ---
 
-
 # 瞭解隱私權設定{#understanding-privacy-settings}
 
 ## 概述{#overview}
 
-Marketo為行銷人員提供一種方式，讓網站訪客同意追蹤他們。 有兩種選擇退出的方式，或者您可以選擇由匿名IP追蹤。
+Marketo為行銷人員提供方式，讓網站訪客同意追蹤他們。 有兩種選擇退出的方式，或者您可以選擇由匿名IP追蹤。
 
 * 網頁訪客在其瀏覽器中選取「不追蹤」(DNT)功能（行銷人員接受網頁訪客對「不追蹤」的要求）
 * 網站訪客會使用網站上行銷人員提供的退出Cookie
 
 或者，行銷人員可以追蹤使用者，但使用匿名IP。
 
-這些方法可能會影響Marketo在特定領域的價值和功能。 不過，如果行銷人員&#x200B;*未*&#x200B;變更Marketo的設定，Marketo功能將維持不變。
+這些方法可能會影響Marketo在特定領域的價值和功能。 不過，如果行銷人員&#x200B;*未*&#x200B;變更Marketo組態中的任何項目，Marketo功能將維持不變。
 
 ## 不追蹤{#browser-settings-for-do-not-track}的瀏覽器設定
 
@@ -62,7 +62,7 @@ Marketo為行銷人員提供一種方式，讓網站訪客同意追蹤他們。 
 
 ## 選擇加入{#opt-in}
 
-行銷人員可讓使用者在電子郵件、表單、登陸頁面和其他方式中使用Marketo的功能來選擇加入。
+行銷人員可讓使用者在電子郵件、表單、登陸頁面和其他方法中使用Marketo的功能來選擇加入。
 
 ## 使用匿名IP {#tracking-using-an-anonymized-ip}進行追蹤
 
@@ -72,7 +72,7 @@ Marketo為行銷人員提供一種方式，讓網站訪客同意追蹤他們。 
 
    >[!NOTE]
    >
-   >使用此參數需要啟用Munchkin V2。 若要啟用訂閱，請聯絡[行銷人員支援](https://nation.marketo.com/community/support_solutions)。
+   >使用此參數需要啟用Munchkin V2。 若要啟用訂閱，請聯絡[Marketo支援](https://nation.marketo.com/community/support_solutions)。
 
 * 對於Web個人化(RTP)，請將此項新增至javascript:
 
