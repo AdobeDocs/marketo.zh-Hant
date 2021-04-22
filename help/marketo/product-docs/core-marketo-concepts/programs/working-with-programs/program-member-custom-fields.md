@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355569
-description: 方案會員自訂欄位——行銷檔案——產品檔案
+description: 方案會員自訂欄位-Marketo檔案——產品檔案
 title: 方案會員自訂欄位
+exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 0%
 
 ---
 
-
 # 方案成員自定義欄位{#program-member-custom-fields}
 
-方案會員自訂欄位可讓您收集每個會員的方案專屬資料。 它們可用於：Marketo表單、智慧型清單篩選和觸發器，以及智慧型促銷活動流量動作。 可在程式的「成員」(Members)頁籤中查看資料。
+方案會員自訂欄位可讓您收集每個會員的方案專屬資料。 它們可用於：Marketo表單、智慧型清單篩選器和觸發器，以及智慧型促銷活動流量動作。 可在程式的「成員」(Members)頁籤中查看資料。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 建立程式成員自定義欄位{#create-a-program-member-custom-field}
 
-1. 在Marketo中，按一下&#x200B;**管理**。
+1. 在Marketo，按一下&#x200B;**管理**。
 
    ![](assets/one.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 |---|---|
 | 公司 | 與人員關聯的公司名稱。 |
 | 機會 | 機會可以與個人或帳戶關聯，作為潛在的未來銷售。 他們通常透過CRM或API進入Marketo。 |
-| 人物 | 您透過行銷宣傳參與的Marketo資料庫中的個人。 |
+| 人物 | 您在Marketo資料庫中透過行銷宣傳參與的個人。 |
 | 方案會員 | 同為方案成員的人員 |
 
 ## 觸發器和篩選器{#triggers-and-filters}
@@ -76,4 +76,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[在Marketo中建立自訂欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[在Marketo建立自訂欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
