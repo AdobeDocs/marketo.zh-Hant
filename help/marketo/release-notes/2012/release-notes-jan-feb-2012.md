@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951124
-description: 發行說明- 2012年1月/2月——行銷檔案——產品檔案
+description: 發行說明- 2012年1月/2月-Marketo文檔——產品文檔
 title: 發行說明- 2012年1月/2月
+exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：2012年1月/2月{#release-notes-jan-feb}
 
-1月/2月發行包含下列功能。 檢查您的Marketo版本，以取得功能。 在發行後回來，取得詳細功能檔案的連結。
+1月/2月發行包含下列功能。 查看您的Marketo版功能是否可用。 在發行後回來，取得詳細功能檔案的連結。
 
 ## 進階動態內容{#advanced-dynamic-content}
 
@@ -55,7 +55,7 @@ _適用於Pro和Enterprise版本_
 
 ## 單一登入{#single-sign-on}
 
-組織現在可支援使用SAML 2.0從公司入口網站進行單一登入，順暢地登入Marketo應用程式。
+企業組織現在可以支援使用SAML 2.0從公司入口網站單一登入，順暢地登入Marketo應用程式。
 
 ## 更新的電子郵件和著陸頁面編輯器{#updated-email-and-landing-page-editors}
 
