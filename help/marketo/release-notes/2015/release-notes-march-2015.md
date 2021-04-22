@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6095037
-description: 發行說明- 2015年3月——行銷檔案——產品檔案
+description: 發行說明- 2015年3月-Marketo文檔——產品文檔
 title: 發行說明- 2015年3月
+exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：2015年3月{#release-notes-march}
 
-2015年3月發行包含下列功能。 請檢查您的Marketo Edition是否提供功能。 在發行後，請務必回來尋找每個功能的詳細文章連結。
+2015年3月發行包含下列功能。 請查看您的Marketo版以瞭解功能的可用性。 在發行後，請務必回來尋找每個功能的詳細文章連結。
 
 ## 日曆HD {#calendar-hd}
 
@@ -49,8 +49,8 @@ Revenue Explorer提供全新的外觀和感覺，以及全新的Sunburst圖表�
 
 ## RTP —— 使用Lead Data的個人化Web參與{#rtp-personalized-web-engagement-with-lead-data}
 
-運用您在Marketing中擁有的[銷售機會資料欄位](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)來建立即時細分和個人化內容促銷活動。 管理RTP中的銷售機會資料欄位，並添加／刪除相關的銷售機會欄位。
+運用您在Marketo銷售機會資料庫中的[銷售機會資料欄位](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)，建立即時細分和個人化內容促銷活動。 管理RTP中的銷售機會資料欄位，並添加／刪除相關的銷售機會欄位。
 
 ## RTP —— 通過電子郵件或方案宣傳名稱個人化Web內容{#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-從電子郵件到網路，跨通道與您的客源保持對話。 [根據Marketo行銷活動中使用的電子郵](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) 件促銷活動或程式名稱，個人化傳入內容。
+從電子郵件到網路，跨通道與您的客源保持對話。 [根據Marketo行銷活動中使用的電子郵件](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) 促銷活動或程式名稱，個人化傳入內容。
