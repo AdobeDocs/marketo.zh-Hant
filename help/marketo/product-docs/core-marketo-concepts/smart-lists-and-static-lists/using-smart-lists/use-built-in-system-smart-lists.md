@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557275
-description: 使用內建／系統智慧型清單——行銷檔案——產品檔案
+description: 使用內置／系統智慧清單-Marketo文檔——產品文檔
 title: 使用內置／系統智慧清單
+exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
-
 # 使用內置／系統智慧清單{#use-built-in-system-smart-lists}
 
-Marketo有一些非常實用的內建智慧型清單。 我們去看看！
+Marketo有一些非常有用的內置智慧清單。 我們去看看！
 
 >[!NOTE]
 >
@@ -39,12 +39,12 @@ Marketo有一些非常實用的內建智慧型清單。 我們去看看！
 
 | 清單名稱 | 說明 |
 |---|---|
-| 所有人 | Marketo資料庫中的所有人 |
+| 所有人 | Marketo資料庫里的所有人 |
 | 未訂閱的人員 | 這些人只能收到操作電子郵件；這通常由人自己控制。 |
 | 暫停行銷 | 這些人只能收到操作電子郵件；這通常由您（即行銷人員）控制。 |
 | 區塊清單 | 這些人根本不會收到任何電子郵件。 |
 | 已拒絕的電子郵件地址 | 電子郵件地址無法傳遞或拒絕您電子郵件的人員。 |
-| 可能的重複項 | 可能在Marketo資料庫中複製的人員。 |
+| 可能的重複項 | 可能在Marketo資料庫中複製的人。 |
 
 >[!NOTE]
 >
