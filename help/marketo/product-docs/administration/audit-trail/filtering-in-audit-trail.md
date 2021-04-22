@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378468
-description: 稽核記錄篩選——行銷檔案——產品檔案
+description: 稽核記錄中的篩選-Marketo檔案——產品檔案
 title: 審計線索中的篩選
+exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # 在審核跟蹤中篩選{#filtering-in-audit-trail}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您已啟用工作區，您會看到所有工作區的稽核資料。 如果您套用工作區篩選，Marketo會在您每次使用稽核記錄時記住先前的工作區值。 資產層級的工作區權限會強制執行。
+   >如果您已啟用工作區，您會看到所有工作區的稽核資料。 如果您套用工作區篩選，Marketo會在每次使用稽核記錄時記住先前的工作區值。 資產層級的工作區權限會強制執行。
 
    >[!MORELIKETHIS]
    >
