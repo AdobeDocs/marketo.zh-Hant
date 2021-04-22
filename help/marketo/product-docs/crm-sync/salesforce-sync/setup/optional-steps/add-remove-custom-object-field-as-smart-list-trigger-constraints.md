@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719300
-description: 新增／移除自訂物件欄位為智慧型清單／觸發器限制——行銷人員檔案——產品檔案
+description: 新增／移除自訂物件欄位為智慧型清單／觸發器限制-Marketo檔案——產品檔案
 title: 將自定義對象欄位添加／刪除為智慧清單／觸發器約束
+exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-
 # 將自定義對象欄位添加／刪除為智慧清單／觸發器約束{#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo提供對Salesforce自訂物件同步的精細控制。 這可讓您在自訂物件篩選條件中選取可用作限制的欄位，並將它們用作智慧型促銷活動的觸發器。
+Marketo提供Salesforce自訂物件同步的精細控制。 這可讓您在自訂物件篩選條件中選取可用作限制的欄位，並將它們用作智慧型促銷活動的觸發器。
 
 >[!NOTE]
 >
