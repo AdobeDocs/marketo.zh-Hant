@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720377
-description: 跨工作區參考清單或智慧型清單——行銷人員檔案——產品檔案
+description: 跨工作區參考清單或智慧型清單-Marketo檔案——產品檔案
 title: 跨工作區參考清單或智慧型清單
+exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # 跨工作區參考清單或智慧清單{#reference-a-list-or-smart-list-across-workspaces}
 
