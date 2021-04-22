@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360364
-description: 第2步（共3步）-建立適用於行銷人員的Salesforce使用者（企業版／不限數量）-行銷人員檔案——產品檔案
-title: 第2步（共3步）-建立適用於行銷人員的Salesforce使用者（企業版／不限數量）
+description: 第2步（共3步）-建立適用於Marketo的Salesforce使用者（企業版／不限數量）-Marketo檔案——產品檔案
+title: 第2步（共3步）-建立適用於Marketo的Salesforce使用者（企業版／無限製版）
+exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 0%
 
 ---
 
-
-# 步驟2（共3步）:建立適用於Marketo的Salesforce使用者（企業版／無限製版）{#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# 步驟2（共3步）:為Marketo建立Salesforce使用者（企業版／無限製版）{#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[步驟1（共3步）:將行銷人員欄位新增至Salesforce（企業版／無限製版）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>[步驟1（共3步）:將Marketo欄位新增至Salesforce（企業版／無限製版）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
 在本文中，您將在Salesforce設定檔中設定使用者權限，並建立Marketo-Salesforce整合帳戶。
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. 選擇&#x200B;**標準使用者**，將描述檔命名為&quot;Marketo-Salesforce Sync&quot;，然後按一下&#x200B;**儲存**。
+1. 選擇「**標準用戶**」，將配置檔案命名為「Marketo-Salesforce同步」，然後按一下「保存」。****
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
@@ -92,7 +92,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >此步驟可防止您不需要的欄位在Marketo中顯示，如此可減少雜亂並加速同步。
+   >此步驟可防止您不需要的欄位在Marketo顯示，如此可減少雜亂並加速同步。
 
 1. 在描述檔詳細資訊頁面中，前往&#x200B;**Field-Level Security**&#x200B;區段。 按一下&#x200B;**View**&#x200B;可編輯對象的輔助功能：
 
@@ -148,7 +148,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->建立專用的Salesforce帳戶(例如marketo@yourcompany.com)，以區分Marketo和其他Salesforce使用者所做的變更。
+>建立專屬的Salesforce帳戶(例如marketo@yourcompany.com)，以區分Marketo和其他Salesforce使用者所做的變更。
 
 1. 在導覽列中輸入「管理使用者」，然後按一下「**使用者**」。 按一下&#x200B;**New User**。
 
@@ -162,4 +162,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[步驟3（共3步）:將行銷人員連線至Salesforce（企業版／無限製版）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>[步驟3（共3步）:連接Marketo和Salesforce（企業版／無限製版）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
