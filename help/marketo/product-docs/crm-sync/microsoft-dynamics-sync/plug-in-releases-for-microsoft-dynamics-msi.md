@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099102
-description: Microsoft Dynamics MSI的增效模組版本——行銷檔案——產品檔案
+description: Microsoft Dynamics MSI增效模組版本-Marketo檔案——產品檔案
 title: Microsoft Dynamics MSI的增效模組版本
+exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 4%
 
 ---
 
-
 # Microsoft Dynamics MSI的增效模組版本{#plug-in-releases-for-microsoft-dynamics-msi}
 
-當您第一次同步至Microsoft Dynamics時，請下載並安裝Marketo Sales Insight(MSI)的最新版本外掛程式。 Marketo會定期更新這些外掛程式，讓您回到相同位置下載新版本。
+當您第一次同步至Microsoft Dynamics時，請下載並安裝Marketo銷售分析(MSI)的最新版本外掛程式。 Marketo會定期更新這些外掛程式，讓您回到相同位置下載新版本。
 
 請[下載與Dynamics版本對應的最新外掛程式](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。
 
