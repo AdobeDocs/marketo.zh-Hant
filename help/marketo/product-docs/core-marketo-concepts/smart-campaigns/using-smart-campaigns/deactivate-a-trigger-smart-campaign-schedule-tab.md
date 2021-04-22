@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146991
-description: 停用觸發器智慧型促銷活動 |計畫標籤——行銷人員檔案——產品檔案
+description: 停用觸發器智慧型促銷活動 |計畫標籤-Marketo文檔——產品文檔
 title: 停用觸發器智慧型促銷活動 |計畫標籤
+exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
-
 
 # 停用觸發器智慧型促銷活動 |計畫標籤{#deactivate-a-trigger-smart-campaign-schedule-tab}
 
