@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6094949
-description: 移動智慧型促銷活動——行銷人員檔案——產品檔案
+description: 移動智慧型促銷活動-Marketo文檔——產品文檔
 title: 移動智慧型促銷活動
+exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # 移動智慧型促銷活動{#move-a-smart-campaign}
 
