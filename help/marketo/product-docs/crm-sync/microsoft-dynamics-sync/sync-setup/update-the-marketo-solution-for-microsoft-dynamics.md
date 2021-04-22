@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6849029
-description: 升級Microsoft Dynamics的行銷人員解決方案——行銷人員檔案——產品檔案
-title: 升級Microsoft Dynamics的Marketo解決方案
+description: 升級MarketoMicrosoft Dynamics解決方案-Marketo文檔——產品文檔
+title: 升級MarketoMicrosoft Dynamics解決方案
+exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-
-# 更新Microsoft Dynamics的Marketo解決方案{#update-the-marketo-solution-for-microsoft-dynamics}
+# 更新MarketoMicrosoft Dynamics解決方案{#update-the-marketo-solution-for-microsoft-dynamics}
 
 當新的Microsoft Dynamics解決方案發行時，您可以從帳戶的「管理」區域下載升級。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->您必須先下載最新的Marketo Solution _，然後再執行任何升級。_
+>在執行任何升級之前，您必須先下載最新的Marketo解決方案&#x200B;_。_
 
 1. 前往&#x200B;**Admin**&#x200B;區域。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. 選擇&#x200B;**下載行銷商解決方案**。
+1. 選擇&#x200B;**下載Marketo解決方案**。
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
