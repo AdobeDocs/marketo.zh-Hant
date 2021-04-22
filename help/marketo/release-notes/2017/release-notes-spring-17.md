@@ -1,27 +1,27 @@
 ---
 unique-page-id: 12977439
-description: 發行說明- 17年春季版——行銷檔案——產品檔案
+description: 發行說明- 17年春季版-Marketo文檔——產品文檔
 title: 發行說明- 17年春季版
+exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 0%
 
 ---
 
-
 # 發行說明：Spring &#39;17 {#release-notes-spring}
 
-Spring &#39;17版本包含下列功能。 檢查您的Marketo版本，以取得功能。
+Spring &#39;17版本包含下列功能。 查看您的Marketo版功能是否可用。
 
 請按一下標題連結，以檢視每個功能的詳細文章。 **注意**:如果主題有多個子標題，則會將連結放在此處。
 
-## [LinkedIn領導一代Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [linkedIn少將Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[LinkedIn銷售機](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) 會開發表單是企業在LinkedIn上執行銷售機會開發活動的更直接方式。人們可填寫表格以表達對產品或服務的興趣，讓企業可擷取人員的詳細資料並將其同步至Marketo，在Marketo中可進行自動化的後續程式和銷售線索傳送活動。
+[linkedIn首](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) 席執行官Form是企業在LinkedIn開展潛在客戶開發活動的更直接方式。人們可以填寫表格來表達對產品或服務的興趣，讓企業能夠擷取人員的詳細資料並將其同步至Marketo，在那裡可以進行自動化的後續程式和銷售線索傳送活動。
 
-Marketo與LinkedIn Lead GenForms的整合會自動擷取銷售線索在Lead Gen表單中提供的資訊。 然後，使用新的&#x200B;**填寫LinkedIn銷售機會開發表單**&#x200B;觸發器和篩選器，可自動執行後續動作和通知。
+Marketo與LinkedIn牽頭代Forms的整合將自動捕獲線索在Lead Gen表單中提供的資訊。 然後，使用新的&#x200B;**填寫LinkedIn銷售線索來源表單**&#x200B;觸發器和篩選器，可自動執行後續動作和通知。
 
 ![](assets/release-notes-image.png)
 
@@ -37,17 +37,17 @@ Marketo與LinkedIn Lead GenForms的整合會自動擷取銷售線索在Lead Gen�
 
 ## [適用於人員和活動的大量擷取API](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
 
-輕鬆將大量人員和活動資料從Marketing傳輸至您的外部系統。
+輕鬆將大量人員和活動資料從Marketo傳輸到您的外部系統。
 
 ## ABM增強功能{#abm-enhancements}
 
 **[ABM命名帳戶上的自訂欄位](https://docs.marketo.com/x/1wnG)**
 
-Marketo ABM現在可讓您在指名帳戶上建立最多10個自訂欄位。 您可以將這些自訂欄位對應至CRM帳戶物件中的欄位，而Marketo ABM將會同步資料，讓您擴充ABM指名帳戶並協助推動行銷。
+MarketoABM現在可讓您在您的指名帳戶上建立最多10個自訂欄位。 您可以將這些自訂欄位對應至CRM帳戶物件中的欄位，而MarketoABM將會同步資料，讓您擴充ABM指名帳戶並協助推動行銷。
 
 **[ABM命名帳戶的百分位數分數](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
-「指名帳戶」的分數可能會大不相同。 Marketo ABM現在會自動計算每個分數的百分位數，因此您一目瞭然地就能看到每個指名帳戶在其他指名帳戶中的排名。
+「指名帳戶」的分數可能會大不相同。 MarketoABM現在會自動計算每個分數的百分位數，讓您一目瞭然地看到每個指名帳戶在其他指名帳戶中的排名。
 
 **[ABM帳戶清單API](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
@@ -89,13 +89,13 @@ Marketo ABM現在可讓您在指名帳戶上建立最多10個自訂欄位。 您
 
 **[本地化](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
-Web個人化現在提供所有市場支援的語言（英文、日文、德文、西班牙文、法文和葡萄牙文）。
+Web個人化現在提供所有Marketo支援的語言（英文、日文、德文、西班牙文、法文和葡萄牙文）。
 
 ## 預測性增強功能{#predictive-enhancements}
 
 **[本地化](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
-預測式內容現在提供所有市場支援語言（英文、日文、德文、西班牙文、法文和葡萄牙文）。
+預測式內容現在提供所有Marketo支援的語言（英文、日文、德文、西班牙文、法文和葡萄牙文）。
 
 ## [淘汰舊版Rich Text Editor和Form Editor 1.0](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
 
