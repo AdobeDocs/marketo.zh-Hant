@@ -5,9 +5,9 @@ user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: 316e194d9803b435dbf1fbc4dd6d931c4448778d
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '8002'
+source-wordcount: '8003'
 ht-degree: 0%
 
 ---
@@ -600,7 +600,7 @@ ht-degree: 0%
          + [隱含的Salesforce動作](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Salesforce同步錯誤](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce同步狀態](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
-         + [設定OAuth 2.0](product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md)
+         + [使用OAuth 2.0登入](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
    + 需求開發{#demand-generation}
       + 廣告網路整合{#ad-network-integrations}
          + [瞭解廣告網路整合](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
@@ -804,7 +804,7 @@ ht-degree: 0%
                + [範本12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [範本12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [範本12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [範本13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [範本13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [範本13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [範本13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
