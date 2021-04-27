@@ -4,9 +4,9 @@ description: 第3步（共3步）-連接Marketo和Salesforce（企業／不限�
 title: 第3步（共3步）-連接Marketo和Salesforce（企業版／無限製版）
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -51,13 +51,13 @@ ht-degree: 0%
    >
    >在按一下「同步欄位」之前，請務必在Marketo隱藏您不需要的所有欄位（在同步用戶中）。 [](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)****&#x200B;在您按一下「同步欄位」後，使用者可看見的所有欄位都將永久建立在Marketo，而且無法刪除。
 
-1. 輸入在Salesforce設定第2部分([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)、[Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md))中建立的Salesforce同步使用者憑證，然後按一下「同步欄位&#x200B;**」。**
+1. 輸入在Salesforce設定第2部分（[Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)或[Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)）中建立的Salesforce同步使用者認證，然後按一下「同步欄位」**(只有當您將Marketo沙盒同步至Salesforce沙盒時，才勾選「沙盒」)。******
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
-   >[!NOTE]
+   >[!CAUTION]
    >
-   >如果您要將Marketo沙盒同步至Salesforce沙盒，請勾選&#x200B;**沙盒**。
+   >如果您看到「登入Salesforce」按鈕，而非「使用者名稱／密碼/Token」欄位，您的Marketo訂閱就會啟用OAuth。 請[參閱本文](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)。 當同步開始使用一組憑證時，**就不會切換Salesforce憑證或訂閱**。 如果您想使用基本驗證，請聯絡您的客戶成功經理。
 
 1. 閱讀警告，然後按一下「確認認證&#x200B;**」。**
 
