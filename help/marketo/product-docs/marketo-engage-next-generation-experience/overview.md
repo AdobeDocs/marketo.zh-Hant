@@ -1,22 +1,22 @@
 ---
-description: 概觀——行銷檔案——產品檔案
+description: 概述-Marketo文檔——產品文檔
 title: 概觀
+exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '463'
 ht-degree: 1%
 
 ---
 
-
 # 概述{#overview}
 
-歡迎使用新一代的Marketo Engage體驗，此全新介面提供增強的可用性，以及跨Marketo平台的全新外觀和感覺。
+歡迎使用新一代的Marketo Engage體驗，此全新介面可增強可用性，並提供跨Marketo平台的全新外觀和感覺。
 
 >[!PREREQUISITES]
 >
->如果您的IT團隊使用allowlist限制Web存取，請要求他們新增下列網域（包括星號）以允許所有Marketo資源和Web Sockets:
+>如果您的IT團隊使用allowlist限制Web存取，請要求他們新增下列網域（包括星號），以允許所有Marketo資源和Web Sockets:
 >
 >* *.marketo.com
 >* *.marketodesigner.com
@@ -41,17 +41,11 @@ ht-degree: 1%
 
 新的介面功能已改善並擴充圖示。 請在這裡瞭解它們：[新圖示辭彙表](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)。
 
-![](assets/overview-3.png)
-
-**樹**
-
-樹也升級了。
-
-![](assets/overview-4.png)
+![](assets/overview-new-icons.png)
 
 **全域導覽**
 
-再見超級球。 您現在可以快速存取所有主要行銷區域。
+再見超級球。 您現在可以快速存取所有主要的Marketo區域。
 
 ![](assets/overview-5.png)
 
@@ -65,7 +59,7 @@ ht-degree: 1%
 
 有許多新樹功能可供使用。
 
-**Marketo Classic與新市場**
+**Marketo Classic對新Marketo**
 
 <table> 
  <tbody>
@@ -186,7 +180,7 @@ ht-degree: 1%
 <table> 
  <tbody>
   <tr>
-   <td>3</td> 
+   <td>1</td> 
    <td>不再有超級球下拉</td> 
   </tr>
   <tr>
@@ -194,7 +188,7 @@ ht-degree: 1%
    <td>所有先前列出的超球項目</td> 
   </tr>
   <tr>
-   <td>3</td> 
+   <td>1</td> 
    <td>使用它提供您MEUE體驗的意見回饋</td> 
   </tr>
   <tr>
@@ -210,7 +204,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->在My Marketo中，以往生活在超級球下拉式清單中的所有項目，都仍然可當成拼貼使用。
+>過去生活在超級球下拉式清單中的所有項目，仍可在您的「我的Marketo」中以拼貼的形式提供。
 
 >[!TIP]
 >
