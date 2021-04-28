@@ -5,9 +5,9 @@ user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
 workflow-type: tm+mt
-source-wordcount: '8003'
+source-wordcount: '8006'
 ht-degree: 0%
 
 ---
@@ -1679,6 +1679,7 @@ ht-degree: 0%
    + [發行計畫](release-notes/release-schedule.md)
    + 2021 {#2021}
       + [發行說明：1921年1月](release-notes/2021/release-notes-jan-21.md)
+      + [發行說明：1921年5月](release-notes/2021/release-notes-may-21.md)
    + 2020 {#2020}
       + [發行說明：1920年1月](release-notes/2020/release-notes-jan-20.md)
       + [發行說明：20年2月](release-notes/2020/release-notes-feb-20.md)
