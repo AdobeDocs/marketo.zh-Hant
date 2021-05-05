@@ -5,9 +5,9 @@ user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
+source-git-commit: 21934ae633cf3d81ab763decfcaa353deabb8c18
 workflow-type: tm+mt
-source-wordcount: '8006'
+source-wordcount: '8009'
 ht-degree: 0%
 
 ---
@@ -306,6 +306,7 @@ ht-degree: 0%
             + [轉換人員](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)
             + [刪除流程步驟](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
             + [刪除人員](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
+            + [執行促銷活動](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
             + [給予反向連結評分](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [有趣的時刻](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [從流中移除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
@@ -1341,7 +1342,7 @@ ht-degree: 0%
                + [電子郵件標籤](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
                + 有趣的時刻{#interesting-moments}
                   + [有趣的時刻總覽](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)
-                  + [有趣時刻的Token](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+                  + [觸發Token以找出有趣的時刻](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
                   + [使用有趣的瞬間](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
          + 適用於行動裝置的MSI {#msi-for-mobile}
             + [Salesforce中的最佳選擇1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
