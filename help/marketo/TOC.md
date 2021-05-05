@@ -5,9 +5,9 @@ user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: 21934ae633cf3d81ab763decfcaa353deabb8c18
+source-git-commit: 35ab8d353a2518a1603cb508a6f8c0ea650483e4
 workflow-type: tm+mt
-source-wordcount: '8009'
+source-wordcount: '8024'
 ht-degree: 0%
 
 ---
@@ -179,6 +179,7 @@ ht-degree: 0%
          + [編輯「以網頁形式檢視」訊息](product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
          + [啟用通訊限制](product-docs/administration/email-setup/enable-communication-limits.md)
          + [為智慧型促銷活動啟用人員限制](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
+         + [篩選電子郵件機器人活動](product-docs/administration/email-setup/filtering-email-bot-activity.md)
          + [從「管理員->電子郵件」區段移除取消訂閱文字](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + 欄位管理{#field-management}
          + [從不受信任的來源匯入清單期間的區塊欄位更新](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
@@ -194,6 +195,7 @@ ht-degree: 0%
          + [匯出用於欄位的資料](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [隱藏和取消隱藏欄位](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [HTML編碼電子郵件中的Token](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
+         + [將欄位標示為敏感](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
          + [重新命名欄位](product-docs/administration/field-management/rename-a-field.md)
          + [瞭解系統管理欄位](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [檢視Marketo與Salesforce之間的欄位對應](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -227,6 +229,7 @@ ht-degree: 0%
          + [編輯訂閱設定](product-docs/administration/settings/edit-subscription-settings.md)
          + [啟用或停用珍藏箱功能](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [為您的帳戶啟用個人化URL（管理）](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+         + [如何阻止垃圾郵件表單提交](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [基於IP限制Marketo登錄](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [選擇您的語言、地區和時區](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [設定備援頁面](product-docs/administration/settings/set-a-fallback-page.md)
