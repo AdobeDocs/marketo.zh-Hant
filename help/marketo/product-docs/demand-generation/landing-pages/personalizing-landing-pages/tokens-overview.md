@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2950799
-description: Token概觀——行銷檔案——產品檔案
+description: 預付碼概述-Marketo文檔——產品文檔
 title: 預付碼概觀
+exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
-
 # 預付碼概述{#tokens-overview}
 
-Token是可用於Marketing的變數，用於智慧型促銷活動流程步驟、電子郵件、著陸頁面、程式碼片段和網頁促銷活動。
+Token是可用於Marketo智慧型促銷活動流程步驟、電子郵件、登陸頁面、程式碼片段和網頁促銷活動的變數。
 
 ## 瞭解預設值{#understanding-default-values}
 
@@ -27,11 +27,11 @@ Token是可用於Marketing的變數，用於智慧型促銷活動流程步驟、
 
 >[!CAUTION]
 >
->使用Marketo的電子郵件編輯器時，Token無法在前置標題中運作。 若要在前標中使用Token，它必須透過您在電子郵件範本中的HTML。
+>使用Marketo的電子郵件編輯器時，代號無法在前標中運作。 若要在前標中使用Token，它必須透過您在電子郵件範本中的HTML。
 
 >[!NOTE]
 >
->這份清單並非完整無遺。 您也會針對Marketo中的每個自訂欄位建立Token。
+>這份清單並非完整無遺。 您也會針對您在Marketo的每個自訂欄位建立Token。
 
 ## 人員代號{#person-tokens}
 
@@ -149,7 +149,7 @@ Token是可用於Marketing的變數，用於智慧型促銷活動流程步驟、
 
 >[!NOTE]
 >
->根據智慧型促銷活動中使用的觸發器，尋找[標籤的詳細資訊，以瞭解有趣的時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)。
+>根據智慧型促銷活動中使用的觸發器，尋找[標籤的詳細資訊，以瞭解有趣的時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)。
 
 ## 程式Token {#program-tokens}
 
@@ -163,7 +163,7 @@ Token是可用於Marketing的變數，用於智慧型促銷活動流程步驟、
 
 ## 成員Token {#member-token}
 
-會員代號可用來插入整合服務合作夥伴的唯一值。 會員代號的常見用途是讓網路研討會與會者使用獨特的URL。 每個人都有一個唯一URL，可存取網路研討會，可使用`{{member.webinar url}}`代號來插入。 `{{member.webinar url}}`代號會自動解析服務提供者產生的個人唯一確認URL。
+會員代號可用來插入整合服務合作夥伴的唯一值。 會員代號的常見用途是讓網路研討會與會者使用獨特的URL。 每個人都有一個唯一URL，可存取網路研討會，並可使用`{{member.webinar url}}`代號來插入。 `{{member.webinar url}}`代號會自動解析服務提供者產生的個人唯一確認URL。
 
 * `{{member.webinar url}}`
 
