@@ -4,7 +4,7 @@ description: 圖示辭彙表-Marketo文檔——產品文檔
 title: 圖示辭彙表
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: 609e0d95820fc84eca341916f0767d0d94c4e2ef
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 **一般圖示**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -144,7 +144,7 @@ ht-degree: 0%
 
 ## 管理員圖示{#admin-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>表徵圖</th> 
@@ -316,7 +316,7 @@ ht-degree: 0%
 
 ### 行銷活動圖示{#marketing-activities-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>表徵圖</th> 
@@ -684,7 +684,7 @@ ht-degree: 0%
 
 ### Design Studio圖示{#design-studio-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>表徵圖</th> 
@@ -870,7 +870,7 @@ ht-degree: 0%
 
 ### Analytics圖示{#analytics-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>表徵圖</th> 
@@ -979,7 +979,7 @@ ht-degree: 0%
 
 ### 我的Token圖示{#my-tokens-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>表徵圖</th> 
@@ -1046,7 +1046,7 @@ ht-degree: 0%
 
 ### 促銷活動功能表{#campaign-menus}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>表徵圖</th> 
@@ -1120,7 +1120,7 @@ ht-degree: 0%
 
 ### 資料庫表徵圖{#database-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>表徵圖</th> 
