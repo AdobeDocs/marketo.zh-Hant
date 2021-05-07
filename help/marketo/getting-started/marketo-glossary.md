@@ -4,9 +4,9 @@ description: Marketo辭彙表-Marketo文檔——產品文檔
 title: Marketo辭彙表
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '4225'
+source-wordcount: '4231'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">帳戶分數</a></strong></td> 
-   <td colspan="1">在<strong>ABM</strong>中，此分數是指派給帳戶的分數，可協助您判斷其參與程度。</td> 
+   <td colspan="1">在<strong>TAM</strong>中，此分數是指派給帳戶的分數，可協助您判斷其參與程度。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>收購日期</strong></td> 
@@ -62,6 +62,10 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>廣告網路整合 </strong></a></td> 
    <td colspan="1">（先前稱為廣告橋接）將Marketo獨特的受眾資料與您的付費媒體系統連接起來，以便您執行更具針對性、個人化的數位廣告宣傳。</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1"><strong>AdobeMarketo Engage</strong></td> 
+   <td colspan="1">Marketo在Adobe Experience Cloud內所有產品方案的總和的官方品牌名稱。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" rel="nofollow">警報</a></strong></td> 
@@ -242,7 +246,7 @@ ht-degree: 0%
     <div> 
      <p><strong> 資料庫</strong></p> 
     </div></td> 
-   <td><strong>Marketo Engage</strong>的核心部分之一。 資料庫是所有<strong>person</strong>記錄的所在位置。</td> 
+   <td><strong>AdobeMarketo Engage</strong>的核心部分之一。 資料庫是所有<strong>person</strong>記錄的所在位置。</td> 
   </tr> 
   <tr> 
    <td><strong>重複資料消除</strong></td> 
@@ -269,7 +273,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>Design Studio</strong></td> 
-   <td colspan="1"><strong>Marketo Engage</strong>的核心部分之一。 Design Studio是<strong>assets</strong>的首頁，例如：<strong>著陸頁面</strong>、表單、<strong>電子郵件</strong>、<strong>片段</strong>和影像／檔案。</td> 
+   <td colspan="1"><strong>AdobeMarketo Engage</strong>的核心部分之一。 Design Studio是<strong>assets</strong>的首頁，例如：<strong>著陸頁面</strong>、表單、<strong>電子郵件</strong>、<strong>片段</strong>和影像／檔案。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Docs</strong></td> 
@@ -482,7 +486,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>銷售線索</strong></td> 
-   <td>在<strong>Marketo Engage</strong>中，前置詞是上一個詞語（由<strong>person</strong>取代），用於描述您透過行銷活動參與的Marketo<strong>資料庫</strong>中的個人。 在您的<strong>CRM</strong>中，銷售機會可代表與<strong>opportunity</strong>相關的不同概念（即與 opportunity相關的個人），與Marketo的功能無關。</td> 
+   <td>在<strong>AdobeMarketo Engage</strong>中，前置詞是上一個詞語（由<strong>person</strong>取代），用於描述Marketo<strong>資料庫</strong>中您透過行銷活動參與的個人。 在您的<strong>CRM</strong>中，銷售機會可代表與<strong>opportunity</strong>相關的不同概念（即與 opportunity相關的個人），與Marketo的功能無關。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>銷售線索資料庫</strong></td> 
@@ -512,7 +516,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><strong>行銷活動</strong></td> 
-   <td><p>Marketo Engage的核心部分之一。 您的<strong>campaign</strong>協調就是在這裡進行的。 您的所有<strong>程式</strong>、促銷活動和<strong>促銷活動資料夾</strong>（以及其<strong>本機資產</strong>）都位於此處。</p></td> 
+   <td><p>AdobeMarketo Engage的核心部分之一。 您的<strong>campaign</strong>協調就是在這裡進行的。 您的所有<strong>程式</strong>、促銷活動和<strong>促銷活動資料夾</strong>（以及其<strong>本機資產</strong>）都位於此處。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>行銷自動化</strong></a></td> 
@@ -525,10 +529,6 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>暫停行銷</strong></a></td> 
    <td colspan="1">此欄位由<strong>user</strong>手動設定，使其Marketo<strong>資料庫</strong>中的某個人暫時不郵件。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Marketo Engage</strong></td> 
-   <td colspan="1">Marketo在Adobe Experience Cloud內所有產品方案的總和的官方品牌名稱。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo主管(MLM)</strong></td> 
@@ -560,7 +560,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>我的Marketo</strong></td> 
-   <td colspan="1">Marketo Engage的標準部分之一。 您可以像您的Marketo「首頁」一樣，顯示您可存取的Marketo所有區段的圖格。</td> 
+   <td colspan="1">AdobeMarketo Engage的標準部分之一。 您可以像您的Marketo「首頁」一樣，顯示您可存取的Marketo所有區段的圖格。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>我的預付碼</strong></a></td> 
