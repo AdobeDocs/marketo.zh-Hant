@@ -2,9 +2,9 @@
 description: 執行促銷活動-Marketo文檔——產品文檔
 title: 執行促銷活動
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # 執行促銷活動{#execute-campaign}
 
 可執行促銷活動和其他促銷活動一樣，包含智慧型清單、流量和排程。 與其他促銷活動不同，您實際上不會排程或啟動它。 只能由其他促銷活動透過「執行促銷活動」流程步驟呼叫。 可執行促銷活動中的流程步驟會與父促銷活動串連執行（與請求促銷活動不同，請求促銷活動會在個別的觸發促銷活動中並行執行）。
+
+>[!NOTE]
+>
+>這項功能將於5月11日星期二晚上為所有Marketo實例啟用。
 
 >[!NOTE]
 >
