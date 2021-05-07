@@ -4,7 +4,7 @@ description: 發行說明- 2007年7月-Marketo文檔——產品文檔
 title: 發行說明- 2002年7月
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->請注意，視您目前的套件而定，含星號(![(star)](assets/star-yellow.svg))的項目可能需要購買附加值。 請連絡您的Marketo Engage代表以瞭解更多資訊。
+>請注意，視您目前的套件而定，含星號(![(star)](assets/yellow-star.png))的項目可能需要購買附加值。 請連絡您的Marketo Engage代表以瞭解更多資訊。
 
 **_季_** 度發行以下功能將於2020年7 **月31日發行**。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 帳戶型行銷{#account-based-marketing}
 
-![（星號）](assets/star-yellow.svg)
+![（星號）](assets/yellow-star.png)
 
 * **更新帳戶分析的UI**:在「帳戶分析」中，透過單一畫面中簡化的步驟，簡化目標帳戶清單的建立程式。
 
@@ -47,13 +47,13 @@ ht-degree: 0%
 
 ## 銷售分析{#sales-insight}
 
-![（星號）](assets/star-yellow.svg)
+![（星號）](assets/yellow-star.png)
 
 * **[針對非原生Salesforce CRM整合](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) （測試版）的客戶啟用銷售洞察**:具有非原生Salesforce CRM整合的Marketo Engage客戶現在可以使用Sales Insight來協助其銷售團隊瞭解、排定優先順序，並與最具吸引力的客戶和機會互動，以實現智慧銷售和更快的交易。
 
 ## 銷售連接{#sales-connect}
 
-![（星號）](assets/star-yellow.svg)
+![（星號）](assets/yellow-star.png)
 
 * **[增強銷售電話的雙方同意：管](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** 理員現在更能控制電話錄制組態。[您可以](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) 確信您符合雙方同意法，啟用通話記錄。自動記錄通話的通知，並啟用通話前要播放的音訊片段。
 
