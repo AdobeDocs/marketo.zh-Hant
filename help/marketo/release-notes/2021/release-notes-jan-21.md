@@ -3,7 +3,7 @@ description: 發行說明- 2021年1月-Marketo文檔——產品文檔
 title: 發行說明- 2021年1月
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->以星號(![(star)](assets/star-yellow.svg))表示的功能是付費附加元件。 請連絡您的Marketo Engage代表以瞭解更多資訊。
+>以星號(![(star)](assets/yellow-star.png))表示的功能是付費附加元件。 請連絡您的Marketo Engage代表以瞭解更多資訊。
 
 **_每季發行_**
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## 銷售分析{#sales-insight}
 
-![（星號）](assets/star-yellow.svg)
+![（星號）](assets/yellow-star.png)
 
 * **[增強的測試電子郵件工作流程(Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**:透過增強的Sales Insight測試電子郵件工作流程，提高銷售團隊的效率。銷售者可先將測試電子郵件傳送至所選的電子郵件地址，再將大量電子郵件傳送給最多200位收件者。
 * **[電子郵件狀態分析(Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**:當使用者嘗試在傳送電子郵件之前，先傳送電子郵件至無效的電子郵件ID或未訂閱的電子郵件地址時，會看到警告訊息。 您可以在Sales Insight的電子郵件標籤中查看電子郵件傳送狀態。
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 ## 銷售連接{#sales-connect}
 
-![（星號）](assets/star-yellow.svg)
+![（星號）](assets/yellow-star.png)
 
 * **電子郵件連線限制(BETA)**:使用Sales Connect的電子郵件連線限制功能，改善您的電子郵件傳遞能力並擴大您的一對一銷售通訊。我們的全新調節技術會自動管理電子郵件傳送時間，為Exchange和Gmail使用者建立順暢的體驗。 減少或免除使用協力廠商大量電子郵件傳送應用程式。
 * **電子郵件連線彈回數追蹤**:透過新的電子郵件反彈報表，深入瞭解銷售機會品質和電子郵件範本效能。Exchange和Gmail使用者可能會選擇收到反彈通知，這些通知會統計至即時動態消息、電子郵件資料夾、範本分析和促銷活動分析。
