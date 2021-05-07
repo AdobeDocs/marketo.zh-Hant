@@ -4,7 +4,7 @@ description: 觸發Token以獲得有趣的時刻-Marketo檔案——產品檔案
 title: 觸發Token以找出有趣的時刻
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
+source-git-commit: c49a81a65a41bf850f12015a93bbe73e18b9e1f6
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%
@@ -804,7 +804,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果它沒有勾選![(tick)](assets/)，則會在有意思的時刻傳回空字串（無）。
+>如果它沒有勾選![(tick)](assets/check.png)，則會在有意思的時刻傳回空字串（無）。
 
 *觸發器&#x200B;**瀏覽網頁**&#x200B;包含一些額外的Token:
 
