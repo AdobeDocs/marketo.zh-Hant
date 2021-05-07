@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360423
-description: 在收入週期模型中尋找所有潛在客戶——行銷檔案——產品檔案
+description: 在收入週期模型中查找所有銷售線索-Marketo文檔——產品文檔
 title: 在收入週期模型中查找所有銷售線索
+exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # 查找收入週期模型中的所有銷售線索{#find-all-leads-in-a-revenue-cycle-model}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您不需要兩種篩選條件，只要選擇所需的篩選條件即可。 我們只是向你們展示，要徹底。 ![（微笑）](assets/smile.svg)
+   >您不需要兩種篩選條件，只要選擇所需的篩選條件即可。 我們只是向你們展示，要徹底。
 
    >[!CAUTION]
    >
