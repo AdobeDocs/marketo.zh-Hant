@@ -1,25 +1,27 @@
 ---
 unique-page-id: 2359675
-description: 停用表單欄位的預先填寫——行銷檔案——產品檔案
+description: 停用表單欄位的預先填寫-Marketo檔案——產品檔案
 title: 停用表單欄位的預填
+exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-
 # 停用表單欄位{#disable-pre-fill-for-a-form-field}的預填
 
-已知網頁訪客(Cookie)時，Marketo表格會預先填入欄位中的資訊。 如果你想關掉它，請看如何做。
+已知Web訪客(Cookie)時，Marketo表單會預先填入欄位中的資訊。 如果你想關掉它，請看如何做。
 
 >[!NOTE]
 >
 >**預設啟** 用表單篩選。著陸頁面層級預先填滿設定和管理員層級預先填寫設定，高於表單層級設定：
 >
 >表單>著陸頁面>管理
+
+## 如何禁用預填充{#how-to-disable-pre-fill}
 
 1. 前往&#x200B;**行銷活動**。
 
@@ -49,4 +51,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
-幹得好！
+## 敏感欄位{#sensitive-fields}
+
+當您[將欄位標示為sensitive](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md)，而無法預先填入其值時，您會在「預先填入」選項中看到這一點。
+
+![](assets/disable-pre-fill.png)
