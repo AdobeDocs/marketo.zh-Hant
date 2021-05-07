@@ -4,9 +4,9 @@ description: 發行說明- 2006年6月-Marketo文檔——產品文檔
 title: 發行說明- 2002年6月
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '1073'
+source-wordcount: '1071'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->由星號(![(star)](assets/star-yellow.svg))表示的特徵可以是付費附加元件。 請連絡您的Marketo Engage代表以瞭解更多資訊。
+>以星號(![](assets/yellow-star.png))表示的功能是付費附加元件。 請連絡您的Marketo Engage代表以瞭解更多資訊。
 
 **_每季_** 發行以下功能將於2020年6 **月5日發行**。
 
 ## 核心Marketo Engage{#core-marketo-engage}
 
-* **[預測性觀眾](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![（星級）](assets/star-yellow.svg):全新的「智慧型清單」和「智慧型促銷活動」篩選器由Adobe Sensei提供支援，可讓您為電子郵件、活動和網路研討會行銷計畫建立人工智慧型受眾細分。使用人工智慧協助您根據潛在客源註冊活動、參加活動或取消訂閱的可能性來劃分受眾。 根據過去的計畫建立相似的受眾，以有效複製先前的成功。 運用預測性目標追蹤來達成轉換目標，並取得如何針對活動計畫調整受眾細分的建議。
-* **批次電子郵件大幅** ![（星型）](assets/star-yellow.svg):增強我們的電子郵件行銷功能，讓您每小時傳送最多3百萬封批次電子郵件。我們已重新架構我們的批次促銷活動和電子郵件報表處理，以增強電子郵件程式和批次電子郵件促銷活動的效能。 如此可縮短傳送的前置時間，並改善完成時間。 設定您傳送的電子郵件，就像平常一樣，不會增加複雜性。 此增強功能可做為產品附加元件使用，其中也包含Delivery Services Launch Pack、電子郵件傳送工具和多個專用IP位址。
+* **[預測性觀眾](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![（星級）](assets/yellow-star.png):全新的「智慧型清單」和「智慧型促銷活動」篩選器由Adobe Sensei提供支援，可讓您為電子郵件、活動和網路研討會行銷計畫建立人工智慧型受眾細分。使用人工智慧協助您根據潛在客源註冊活動、參加活動或取消訂閱的可能性來劃分受眾。 根據過去的計畫建立相似的受眾，以有效複製先前的成功。 運用預測性目標追蹤來達成轉換目標，並取得如何針對活動計畫調整受眾細分的建議。
+* **批次電子郵件大幅** ![（星型）](assets/yellow-star.png):增強我們的電子郵件行銷功能，讓您每小時傳送最多3百萬封批次電子郵件。我們已重新架構我們的批次促銷活動和電子郵件報表處理，以增強電子郵件程式和批次電子郵件促銷活動的效能。 如此可縮短傳送的前置時間，並改善完成時間。 設定您傳送的電子郵件，就像平常一樣，不會增加複雜性。 此增強功能可做為產品附加元件使用，其中也包含Delivery Services Launch Pack、電子郵件傳送工具和多個專用IP位址。
 * **[與Adobe Experience Cloud(AEC)的受眾整合](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**:全新的Adobe Experience Cloud(AEC)整合，可讓您將已知客源的靜態清單與多個AEC應用程式同步，以增強現有的方案、解除新的使用案例，並協調多通道宣傳。這一整合包括Adobe Analytics,Adobe Target,Adobe Experience Manager,Adobe Audience Manager和Adobe Advertising Cloud.
 * **[方案成員自定義欄位](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**:擷取並運用方案會員的自訂欄位。在您的Marketo Engage表單中使用這些新欄位、在方案的成員清單中檢視這些欄位、在智慧型清單篩選器和觸發器中運用這些欄位，並將它們加入新的智慧型促銷活動流程動作，以增強自動化和更精細的個人化。 您也可以透過UI和API匯入和匯出這些檔案。 增強我們的自訂資料物件和欄位功能。
 * **說明方案會員**:擷取方案會員中繼資料，讓您能夠使用REST API匯入和匯出方案會員自訂欄位資料。增強我們的API。
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 帳戶型行銷{#account-based-marketing}
 
-![（星號）](assets/star-yellow.svg)
+![（星號）](assets/yellow-star.png)
 
 * **新帳戶發現已正式推出**
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## Bizible {#bizible}
 
-![（星號）](assets/star-yellow.svg)
+![（星號）](assets/yellow-star.png)
 
 * **Marketo Engage方案整合**:直接從Marketo Engage擷取計畫資料，在Bizible的歸因歷程中建立觸點，以適當地為電子郵件和參與計畫提供信用。增強我們的Marketo Engage整合。
 * **Marketo Engage活動整合(BETA)**:將Marketo Engage活動資料直接匯入Bizible，以建立客戶歷程和所有歸因模型的觸點。範例包括銷售機會分數變更、有趣時刻、電子郵件點按或任何自訂活動。 增強我們的Marketo Engage整合。
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## 銷售分析{#sales-insight}
 
-![（星號）](assets/star-yellow.svg)
+![（星號）](assets/yellow-star.png)
 
 * **[Salesforce CRM的前瞻分析資料板](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**:我們重新構思Sales Insight功能，並對即將到來的行銷活動和宣傳活動有新的洞察力，讓銷售者能夠根據客戶和潛在客戶的需求和興趣，提出更符合客戶和潛在客戶的建議。銷售者也可以在時間軸中檢視「連絡人」和「帳戶活動」，並輕鬆存取其他活動詳細資訊。 有關如何升級軟體包[的詳細資訊，請參閱](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md)。
 
