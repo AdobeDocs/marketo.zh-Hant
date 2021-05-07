@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378869
-description: 建立瀏覽式SMS訊息——行銷檔案——產品檔案
+description: 建立瀏覽式SMS訊息-Marketo檔案——產品檔案
 title: 建立瀏覽式SMS訊息
+exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
-
 
 # 建立瀏覽器SMS消息{#create-a-vibes-sms-message}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能是您Marketo Engage帳戶的附加元件。 若要正確布建，必須透過Adobe購買。 如需詳細資訊，請連絡您的Adobe客戶成功經理。
+>此功能是您AdobeMarketo Engage帳戶的附加元件。 若要正確布建，必須透過Adobe購買。 如需詳細資訊，請連絡您的Adobe客戶成功經理。
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/full-message-link-hand.jpg)
 
-1. 選取連結類型。 Marketo Landing Page為預設值。 如果執行此動作，您必須從下拉式清單中選取著陸頁面，然後按一下「插入」。****
+1. 選取連結類型。 Marketo著陸頁面為預設值。 如果執行此動作，您必須從下拉式清單中選取著陸頁面，然後按一下「插入」。****
 
    ![](assets/insert-link-real-hands.jpg)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Market to顯示品牌追蹤網域的連結預覽。 如果清除mkt_tok連結核取方塊，連結即會變更。 同時清除「追蹤連結」核取方塊，URL將縮短至其基本長度(例如www.mygooglepage.com)。
+   >Marketo顯示品牌化追蹤網域的連結預覽。 如果清除mkt_tok連結核取方塊，連結即會變更。 同時清除「追蹤連結」核取方塊，URL將縮短至其基本長度(例如www.mygooglepage.com)。
 
    ![](assets/image2016-7-27-16-3a20-3a16.png)
 
