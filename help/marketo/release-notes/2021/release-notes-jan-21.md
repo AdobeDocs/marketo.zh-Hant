@@ -3,7 +3,7 @@ description: 發行說明- 2021年1月-Marketo文檔——產品文檔
 title: 發行說明- 2021年1月
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->以星號(![(star)](assets/yellow-star.png))表示的功能是付費附加元件。 請連絡您的Marketo Engage代表以瞭解更多資訊。
+>由星號(![(star)](assets/yellow-star.png))表示的特徵是付費附加項。 請連絡您的Marketo Engage代表以瞭解更多資訊。
 
 **_每季發行_**
 
