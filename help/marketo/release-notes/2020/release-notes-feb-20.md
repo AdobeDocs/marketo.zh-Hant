@@ -4,7 +4,7 @@ description: 發行說明- 2002年2月-Marketo文檔——產品文檔
 title: 發行說明- 2002年2月
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->以星號(![(star)](assets/star-yellow.svg))表示的功能是付費附加元件。 請連絡您的Marketo Engage代表以瞭解更多資訊。
+>以星號(![(star)](assets/yellow-star.png))表示的功能是付費附加元件。 請連絡您的Marketo Engage代表以瞭解更多資訊。
 
 **_季_** 度發行2020年2月21日發 **行下列功能**。
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Bizible {#bizible}
 
-![（星號）](assets/star-yellow.svg)
+![（星號）](assets/yellow-star.png)
 
 * **帳戶型劃分**:分析「帳戶」層級的歸因，並能夠根據「帳戶」屬性為Discover展示板建立區段和篩選器。使用這些區段深入探討您以帳戶為基礎的行銷績效。
 * **儲存篩選**:儲存每位使用者專屬的控制面板特定篩選，以快速且一致地分析控制面板。
