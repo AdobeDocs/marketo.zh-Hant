@@ -4,9 +4,9 @@ description: 觸發Token以獲得有趣的時刻-Marketo檔案——產品檔案
 title: 觸發Token以找出有趣的時刻
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -68,10 +68,10 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>電子郵件中的點按連結</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -85,12 +85,12 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>電子郵件彈回數硬</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -102,12 +102,12 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>電子郵件彈回數軟體</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -119,10 +119,10 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>電子郵件已傳送</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -136,10 +136,10 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>開啟電子郵件</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -153,8 +153,8 @@ ht-degree: 0%
   </tr> 
     <tr> 
    <td>已轉發給朋友的電子郵件</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -170,8 +170,8 @@ ht-degree: 0%
   </tr> 
     <tr> 
    <td>轉寄給朋友的電子郵件</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -180,21 +180,21 @@ ht-degree: 0%
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td>
+   <td><img src="assets/check.png" alt="check"></td>
   </tr> 
   <tr> 
    <td>取消訂閱電子郵件</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -244,16 +244,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>銷售電子郵件中的點按連結</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -261,16 +261,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>已寄送銷售電子郵件</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -278,16 +278,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>開啟銷售電子郵件</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -295,8 +295,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>銷售電子郵件彈回數</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -312,16 +312,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>收到銷售電子郵件</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -329,8 +329,8 @@ ht-degree: 0%
   </tr> 
     <tr> 
    <td>業務機會已更新</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -346,8 +346,8 @@ ht-degree: 0%
   </tr> 
     <tr> 
    <td>擁有者變更</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -363,8 +363,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>人員已轉換</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -380,8 +380,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>從SFDC刪除人員</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -397,8 +397,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>人員與SFDC同步</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -414,8 +414,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>從Opportunity中刪除</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -431,8 +431,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>從SFDC促銷活動中移除</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -448,8 +448,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>活動已記錄</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -465,8 +465,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>活動已更新</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -482,8 +482,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>添加到Opportunity</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -499,8 +499,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>新增至SFDC促銷活動</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -573,16 +573,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>銷售電子郵件中的點按連結</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -590,16 +590,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>已寄送銷售電子郵件</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -607,16 +607,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>開啟銷售電子郵件</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -624,8 +624,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>銷售電子郵件彈回數</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -641,16 +641,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>收到銷售電子郵件</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -658,8 +658,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>已新增至Sales Campaign</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -676,8 +676,8 @@ ht-degree: 0%
   <tr>
    <td>擁有者變更</td> 
    <td>已從Sales Campaign中移除</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -693,8 +693,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>收到銷售電話</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -750,14 +750,14 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>填寫表單</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -767,34 +767,34 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>瀏覽網頁</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
   </tr> 
   <tr> 
    <td>在網頁上點按連結</td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（勾號）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
@@ -804,7 +804,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果它沒有勾選![(tick)](assets/check.svg)，則會在有意思的時刻傳回空字串（無）。
+>如果它沒有勾選![(tick)](assets/)，則會在有意思的時刻傳回空字串（無）。
 
 *觸發器&#x200B;**瀏覽網頁**&#x200B;包含一些額外的Token:
 
@@ -816,4 +816,4 @@ ht-degree: 0%
 >
 >請隨時測試您的有趣時刻，以確保呈現您想要的方式。
 >
->此外，請務必讓銷售人員感興趣，而不只是您。 ![（眨眼）](assets/wink.svg)>
+>此外，請務必讓銷售人員感興趣，而不只是您！
