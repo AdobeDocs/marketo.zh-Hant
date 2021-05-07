@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378814
-description: 帳戶智慧型清單——行銷人員檔案——產品檔案
+description: 帳戶智慧清單-Marketo文檔——產品文檔
 title: 帳戶智慧清單
+exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 0%
 
 ---
-
 
 # 帳戶智慧清單{#account-smart-lists}
 
@@ -17,11 +17,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此功能是在Open Beta版中提供的，適用對象是同時啟用TAM和Marketo Next-Gen使用者體驗的任何人。 如果您想要參加測試版，請聯絡您的CSM。
+>在5月11日星期二晚上，所有符合資格的Marketo實例都將啟用此功能。
+
+>[!NOTE]
+>
+>此功能僅適用於同時啟用了TAM和AdobeMarketo Engage下一代用戶體驗的用戶。
 
 ## 建立帳戶智慧清單{#create-an-account-smart-list}
 
-1. 在Marketo中，前往&#x200B;**行銷活動**。
+1. 在Marketo，請至&#x200B;**行銷活動**。
 
    ![](assets/account-smart-lists-1.png)
 
@@ -87,7 +91,7 @@ ht-degree: 0%
 
 **克隆**:製作帳戶智慧型清單的副本。
 
-**傳送至廣告網路**:將清單以新的相符對象傳送至LinkedIn。
+**傳送至廣告網路**:將清單以新的「符合對象」傳送至LinkedIn。
 
 您也可以使用&#x200B;_帳戶智慧清單的人員成員_&#x200B;篩選器，在標準智慧型促銷活動／清單中參考您的帳戶智慧清單。
 
@@ -101,4 +105,4 @@ ht-degree: 0%
 >
 >**定義**
 >
->**帳戶智慧清單的人員成員**:在本例中，「會員」一詞是指帳戶本身，因此「會員」系指這些帳戶中的實際人員（行銷人員記錄）。
+>**帳戶智慧清單的人員成員**:在本例中，「會員」一詞是指帳戶本身，因此「會員」是指這些帳戶中的實際人員(Marketo記錄)。
