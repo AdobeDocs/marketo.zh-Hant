@@ -2,9 +2,9 @@
 description: 將欄位標示為敏感-Marketo檔案——產品檔案
 title: 將欄位標示為敏感
 translation-type: tm+mt
-source-git-commit: 35ab8d353a2518a1603cb508a6f8c0ea650483e4
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # 將欄位標示為敏感{#mark-a-field-as-sensitive}
 
 身為Marketo管理員，您可以將特定欄位標示為「敏感」，因此其值永遠不會預先填入表單，從而保護使用者的敏感資料。
+
+>[!NOTE]
+>
+>這項功能將於5月11日星期二晚上為所有Marketo實例啟用。
 
 1. 按一下&#x200B;**管理**。
 
