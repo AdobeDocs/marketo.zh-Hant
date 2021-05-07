@@ -4,9 +4,9 @@ description: 發行說明- 10月20日-Marketo文檔——產品文檔
 title: 發行說明- 2002年10月
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->由星號(![(star)](assets/star-yellow.svg))表示的特徵可以是付費附加元件。 請連絡您的Marketo Engage代表以瞭解更多資訊。
+>以星號(![](assets/yellow-star.png))表示的功能是付費附加元件。 請連絡您的Marketo Engage代表以瞭解更多資訊。
 
 **_每季_** 發行以下功能將於2020年10 **月16日發行**。
 
 ## 目標帳戶管理{#target-account-management}
 
-![（星號）](assets/star-yellow.svg)
+![（星號）](assets/yellow-star.png)
 
 * **帳戶智慧清單（測試版）**:使用全新的「帳戶智慧清單」功能，強化您的ABM策略。動態識別具有所需帳戶和人員屬性的帳戶，以執行跨通道促銷活動，並及時傳送警報給銷售人員，以更快完成交易。 注意：這僅適用於已登錄至[新一代用戶體驗](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205)的Target帳戶管理客戶。
 
 ## 電子郵件行銷{#email-marketing}
 
-* **批次電子郵 ![件增效（星型）](assets/star-yellow.svg)**:以每小時5百萬封批次電子郵件的總處理能力，傳送更多電子郵件。龐大的電子郵件傳送功能選項讓您不必在電子郵件批次之間等待——準時且依您的排程傳送所有電子郵件。
+* **批次電子郵 ![件增效（星型）](assets/yellow-star.png)**:以每小時5百萬封批次電子郵件的總處理能力，傳送更多電子郵件。龐大的電子郵件傳送功能選項讓您不必在電子郵件批次之間等待——準時且依您的排程傳送所有電子郵件。
 
 ## 網站行銷{#website-marketing}
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 ## 銷售分析{#sales-insight}
 
-![（星號）](assets/star-yellow.svg)
+![（星號）](assets/yellow-star.png)
 
 * **API最佳化和新的治理組態選項**:透過增強的API最佳化和新增的管理功能，改善Sales Insight的使用體驗。設定設定可讓管理員定義如何將促銷活動和事件載入Sales Insight控制面板。 彈性的日曆活動顯示選項可減少API使用，並改善整體體驗。
 
