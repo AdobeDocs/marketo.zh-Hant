@@ -2,7 +2,7 @@
 description: 發行說明- 2021年5月-Marketo文檔——產品文檔
 title: 發行說明- 2021年5月
 translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '1510'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->以星形![](assets/star.png)表示的功能是付費附加元件。 請連絡您的Marketo Engage代表以瞭解更多資訊。
+>以星號(![](assets/yellow-star.png))表示的功能是付費附加元件。 請連絡您的Marketo Engage代表以瞭解更多資訊。
 
 **_每季發行_**
 
@@ -24,14 +24,15 @@ ht-degree: 0%
 >[!NOTE]
 >
 >這三項功能將於5月11日星期二晚上推出：
+>
+>* **帳戶智慧清單**
+>* **執行促銷活動流程步驟**
+>* **過濾掉電子郵件機器人活動**
 
-* **帳戶智慧清單**
-* **執行促銷活動流程步驟**
-* **過濾掉電子郵件機器人活動**
 
 ## 帳戶型體驗{#Account-based-eaperiences}
 
-* **帳戶智慧清單（一般可用性）** ![](assets/star.png):在跨通道行銷活動中動態識別並符合所需帳戶和人員屬性的帳戶，以鎖定目標客戶，並及時傳送警報給銷售人員，以更快完成交易。這項新功能可讓以帳戶為基礎的行銷策略自動化。 「帳戶智慧清單」適用於具有「目標帳戶管理」的客戶，這些「目標帳戶管理」是新一代的使用者體驗。
+* **帳戶智慧清單（一般可用性）** ![](assets/yellow-star.png):在跨通道行銷活動中動態識別並符合所需帳戶和人員屬性的帳戶，以鎖定目標客戶，並及時傳送警報給銷售人員，以更快完成交易。這項新功能可讓以帳戶為基礎的行銷策略自動化。 「帳戶智慧清單」適用於具有「目標帳戶管理」的客戶，這些「目標帳戶管理」是新一代的使用者體驗。
 
 ## 新一代用戶體驗{#next-generation-user-experience}
 
@@ -83,12 +84,12 @@ Bulk和Lead API的數項重要更新，包括能夠大量匯出自訂物件資�
 
 ## Bizible {#bizible}
 
-![](assets/star.png)
+![](assets/yellow-star.png)
 
 * **與LinkedIn首發Forms（Beta版）整合**:透過Bizible Premium歸因解決方案，深入洞察您的LinkedIn通道支出和投資報酬率。透過與LinkedIn的Forms領導將軍的最新整合，Bizible獲得對LinkedIn平台內提交表單的洞察力。 這些表單填寫會與來自您CRM（客戶關係管理）或AdobeMarketo Engage例項的潛在客戶相符，以便他們符合歸因資格，並可依據您的其他行銷活動進行追蹤。
 
 ## 公告{#announcements}
 
-* **Marketo產品文檔交換平台**:我們很高興宣佈，Marketo產品檔案將於5月7日（星期五）加入Adobe Experience League。您仍可使用URL:docs.marketo.com，如果您有任何現有的文章加上書籤，將會重新導向您。 目前所有的產品檔案都將在新平台上提供，並計畫在今年晚些時候提供增強功能。
+* **Marketo產品文檔交換平台**:我們很高興宣佈，Marketo產品檔案將於5月7日（星期五）加入Adobe Experience League。您仍可使用URL:docs.marketo.com，如果您有任何現有的文章已建立書籤，將會重新導向您。 目前所有的產品檔案都將在新平台上提供，並計畫在今年晚些時候提供增強功能。
 
 * **採用Adobe識別系統的簡化使用者管理和單一登入**:自2021年7月起，新AdobeMarketo Engage客戶將會使用Adobe使用者認證。將目前客戶移轉至整合式識別系統的作業將於2022年年中完成，而且在另行通知前，客戶無需採取任何行動。 單一登入可讓IT/安全管理員管理多個AdobeMarketo Engage產品例項以及其他Experience Cloud解決方案，並透過共用主控台來設定SSO（Shared Services組織）。 管理員可透過共同的Admin Console，輕鬆管理使用者群組和使用者權益。
