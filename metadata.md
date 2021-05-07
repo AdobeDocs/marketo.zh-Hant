@@ -5,11 +5,11 @@ product: marketo
 type: Documentation
 mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/marketo.zh-Hant
-index: false
+index: true
 translation-type: tm+mt
-source-git-commit: e51d81dbf27bea8667ffafdcc356cf3f6b70c2b1
+source-git-commit: 77c1a3ddf700fd86da0f439c4a67ae4ed33a49df
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
