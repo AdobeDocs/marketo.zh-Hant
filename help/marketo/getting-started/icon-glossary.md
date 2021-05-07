@@ -4,16 +4,16 @@ description: 圖示辭彙表-Marketo文檔——產品文檔
 title: 圖示辭彙表
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: 609e0d95820fc84eca341916f0767d0d94c4e2ef
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
 
 # 表徵圖辭彙表{#icon-glossary}
 
-以下是Marketo Classic的圖示。 如果您已切換到新的Marketo Engage介面，您的表徵圖辭彙表[可在此處找到](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)。
+以下是Marketo Classic的圖示。 如果您已切換到新的AdobeMarketo Engage介面，您的表徵圖辭彙表[可在此處找到](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)。
 
 **一般圖示**
 
