@@ -4,7 +4,7 @@ description: 發行說明- 2020年1月-Marketo文檔——產品文檔
 title: 發行說明- 2020年1月
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->以星號(![(star)](assets/star-yellow.svg))表示的功能是付費附加元件。 請連絡您的Marketo Engage代表以瞭解更多資訊。
+>以星號(![(star)](assets/yellow-star.png))表示的功能是付費附加元件。 請連絡您的Marketo Engage代表以瞭解更多資訊。
 
 **_每季發行_**
 
@@ -38,9 +38,9 @@ ht-degree: 0%
 
 ## 帳戶型行銷{#account-based-marketing}
 
-![（星號）](assets/star-yellow.svg)
+![（星號）](assets/yellow-star.png)
 
-* **[新客戶發現(BETA)](https://docs.marketo.com/x/WQA6Ag) ![（星型）](assets/star-yellow.svg)**:使用「帳戶分析」根據人工智慧支援的理想客戶分析模型，發現ABM策略的新目標帳戶。檢視、選擇和匯入建議的新帳戶，以及其以AI為基礎的符合與意圖資料指標，這些指標在您的Marketo Engage銷售線索和ABM目標帳戶資料庫中尚不存在。 立即可供符合資格的客戶分析客戶使用。
+* **[新客戶發現(BETA)](https://docs.marketo.com/x/WQA6Ag) ![（星型）](assets/yellow-star.png)**:使用「帳戶分析」根據人工智慧支援的理想客戶分析模型，發現ABM策略的新目標帳戶。檢視、選擇和匯入建議的新帳戶，以及其以AI為基礎的符合與意圖資料指標，這些指標在您的Marketo Engage銷售線索和ABM目標帳戶資料庫中尚不存在。 立即可供符合資格的客戶分析客戶使用。
 
 <br> 
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ## Bizible {#bizible}
 
-![（星號）](assets/star-yellow.svg)
+![（星號）](assets/yellow-star.png)
 
 * **Marketo Engage銷售線索整合**:將銷售和行銷整合在一起，以統一檢視Bizible和Marketo Engage的銷售機會。透過此更新，Marketo Engage現在可以用作額外的銷售機會資料來源，因此您不再需要等待銷售機會與CRM同步，即可報告銷售機會產生。
 * **Discover增強功能**:利用客戶意見所開發的增強功能，從Bizbile的Discover展示板獲得更多資訊，例如從拼貼和屬性深入分析交易記錄、新增基本記錄計數和對應的每次成本量度，以及新增／移除多個控制面板的控制面板篩選。登入時，您也會直接進入預設控制面板。
