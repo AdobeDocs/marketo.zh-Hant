@@ -4,7 +4,7 @@ description: 觸發Token以獲得有趣的時刻-Marketo檔案——產品檔案
 title: 觸發Token以找出有趣的時刻
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: c49a81a65a41bf850f12015a93bbe73e18b9e1f6
+source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 **電子郵件觸發程式**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -207,7 +207,7 @@ ht-degree: 0%
 
 **Salesforce觸發器**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -536,7 +536,7 @@ ht-degree: 0%
 
 **Sales Connect觸發器**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -713,7 +713,7 @@ ht-degree: 0%
 
 **其他**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
