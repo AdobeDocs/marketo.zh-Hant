@@ -4,7 +4,7 @@ user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
 translation-type: tm+mt
-source-git-commit: 77c1a3ddf700fd86da0f439c4a67ae4ed33a49df
+source-git-commit: ab9d2cbb58c32335d70d3c1fc6a75db37426018c
 workflow-type: tm+mt
 source-wordcount: '8024'
 ht-degree: 0%
@@ -807,7 +807,7 @@ ht-degree: 0%
                + [範本12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [範本12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [範本12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [範本13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [範本13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [範本13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [範本13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1050,8 +1050,8 @@ ht-degree: 0%
    + Marketo銷售聯繫{#marketo-sales-connect}
       + 開始使用{#getting-started}
          + [銷售連接概述](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Sales Connect快速入門](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
-         + [我的個人資料頁面](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Sales Connect快速入門](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [我的個人資料頁面](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
          + [快速入門影片和Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [更改您的銷售連接密碼](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + 電子郵件設定{#email-settings}
