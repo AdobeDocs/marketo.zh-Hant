@@ -1,13 +1,13 @@
 ---
 cloud: Experience Cloud
-solution: Marketo Engage
+solution: Marketo Engage,Marketo
 product: marketo
 type: Documentation
 mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/marketo.zh-Hant
 index: true
 translation-type: tm+mt
-source-git-commit: 77c1a3ddf700fd86da0f439c4a67ae4ed33a49df
+source-git-commit: ba649b4ca33d5fe7e4c48c626a0e06c1505fbc3c
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
