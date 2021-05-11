@@ -2,9 +2,9 @@
 description: 發行說明- 2021年5月-Marketo文檔——產品文檔
 title: 發行說明- 2021年5月
 translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
-source-wordcount: '1510'
+source-wordcount: '1557'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,10 @@ Bulk和Lead API的數項重要更新，包括能夠大量匯出自訂物件資�
 
 ## 公告{#announcements}
 
-* **Marketo產品文檔交換平台**:我們很高興宣佈，Marketo產品檔案將於5月7日（星期五）加入Adobe Experience League。您仍可使用URL:docs.marketo.com，如果您有任何現有的文章已建立書籤，將會重新導向您。 目前所有的產品檔案都將在新平台上提供，並計畫在今年晚些時候提供增強功能。
+* **Marketo產品文檔交換平台**:我們很高興宣佈，Marketo產品檔案已於5月7日（星期五）起加入Adobe Experience League。您仍可使用URL:docs.marketo.com，如果您有任何現有的文章加上書籤，將會重新導向您。 所有產品檔案都可在新平台上使用，並計畫在今年晚些時候提供增強功能。
 
 * **採用Adobe識別系統的簡化使用者管理和單一登入**:自2021年7月起，新AdobeMarketo Engage客戶將會使用Adobe使用者認證。將目前客戶移轉至整合式識別系統的作業將於2022年年中完成，而且在另行通知前，客戶無需採取任何行動。 單一登入可讓IT/安全管理員管理多個AdobeMarketo Engage產品例項以及其他Experience Cloud解決方案，並透過共用主控台來設定SSO（Shared Services組織）。 管理員可透過共同的Admin Console，輕鬆管理使用者群組和使用者權益。
+
+**_產品發行網路研討會_**
+
+想要進一步瞭解這些功能和增強功能嗎？ 請務必[立即註冊](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html)，於5月13日上午9:00 PT / 12:00 PM ET加入我們，與我們的產品團隊進行即時網路研討會，以深入探討這些創新。
