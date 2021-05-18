@@ -1,19 +1,18 @@
 ---
 unique-page-id: 13796464
-description: 銷售連線概觀——行銷人員檔案——產品檔案
+description: 銷售連線概述-Marketo文檔——產品文檔
 title: 銷售連接概述
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
+source-git-commit: b52765f3549615aa68789dfbd8376044bcd02b3f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-
 # 銷售連接概述{#sales-connect-overview}
 
-Marketo Sales Connect是一個全方位的銷售支援解決方案，具有多種功能，可幫助您在整個銷售週期中提高參與度。
+Marketo銷售連線是一個全方位的銷售支援解決方案，具有多種功能，可幫助您在整個銷售週期中提高參與度。
 
 >[!AVAILABILITY]
 >
@@ -31,7 +30,7 @@ Marketo Sales Connect是一個全方位的銷售支援解決方案，具有多�
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## 請參閱行銷活動記錄中的結果{#see-results-in-your-marketo-activity-log}
+## 請參閱您的Marketo活動日誌{#see-results-in-your-marketo-activity-log}中的結果
 
 瞭解您的潛在客戶如何參與您的銷售工作。
 
@@ -73,7 +72,7 @@ Marketo Sales Connect是一個全方位的銷售支援解決方案，具有多�
   </tr> 
   <tr> 
    <td colspan="1"><p>有趣的時刻</p></td> 
-   <td colspan="1"><p>Lead在Marketo中產生了一個有趣的時刻。</p></td> 
+   <td colspan="1"><p>Lead在Marketo產生了一個有趣的時刻。</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -87,5 +86,5 @@ Marketo Sales Connect是一個全方位的銷售支援解決方案，具有多�
 準備好開始了嗎？ 如需設定指示，請按一下以下連結。
 
 >[!MORELIKETHIS]
+[設定Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)>
 >
->[Sales Connect快速入門](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
