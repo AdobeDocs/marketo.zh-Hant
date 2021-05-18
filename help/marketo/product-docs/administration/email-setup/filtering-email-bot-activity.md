@@ -1,10 +1,9 @@
 ---
 description: 篩選電子郵件機器人活動-Marketo文檔——產品文檔
 title: 篩選電子郵件機器人活動
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -12,10 +11,6 @@ ht-degree: 0%
 # 篩選電子郵件機器人活動{#filtering-email-bot-activity}
 
 有時候，電子郵件機器人活動會錯誤地膨脹電子郵件的開啟次數和點按資料。 這裡是如何解決的。
-
->[!NOTE]
->
->這項功能將於5月11日星期二晚上為所有Marketo實例啟用。
 
 >[!NOTE]
 >
