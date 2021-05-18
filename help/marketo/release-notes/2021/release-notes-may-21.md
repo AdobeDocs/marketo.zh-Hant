@@ -1,10 +1,9 @@
 ---
 description: 發行說明- 2021年5月-Marketo文檔——產品文檔
 title: 發行說明- 2021年5月
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -20,15 +19,6 @@ ht-degree: 0%
 **_每季發行_**
 
 **2021年5月7日將發佈下列功能。**
-
->[!NOTE]
->
->這三項功能將於5月11日星期二晚上推出：
->
->* **帳戶智慧清單**
->* **執行促銷活動流程步驟**
->* **過濾掉電子郵件機器人活動**
-
 
 ## 帳戶型體驗{#Account-based-eaperiences}
 
@@ -82,13 +72,13 @@ Bulk和Lead API的數項重要更新，包括能夠大量匯出自訂物件資�
 
 * **依銷售線索ID搜尋**:通過銷售線索資料庫或靜態清單中的AdobeMarketo Engage銷售線索ID快速訪問銷售線索記錄搜索。在「快速查找」窗口中，只需鍵入具有相應編號的`[id]`，則將顯示銷售線索資訊。 使用者可以快速檢視銷售機會、公司或商機詳細資訊。
 
-## Bizible {#bizible}
+## 比齊布爾 {#bizible}
 
 ![](assets/yellow-star.png)
 
 * **與LinkedIn首發Forms（Beta版）整合**:透過Bizible Premium歸因解決方案，深入洞察您的LinkedIn通道支出和投資報酬率。透過與LinkedIn的Forms領導將軍的最新整合，Bizible獲得對LinkedIn平台內提交表單的洞察力。 這些表單填寫會與來自您CRM（客戶關係管理）或AdobeMarketo Engage例項的潛在客戶相符，以便他們符合歸因資格，並可依據您的其他行銷活動進行追蹤。
 
-## 公告{#announcements}
+## 公告 {#announcements}
 
 * **Marketo產品文檔交換平台**:我們很高興宣佈，Marketo產品檔案已於5月7日（星期五）起加入Adobe Experience League。您仍可使用URL:docs.marketo.com，如果您有任何現有的文章加上書籤，將會重新導向您。 所有產品檔案都可在新平台上使用，並計畫在今年晚些時候提供增強功能。
 
