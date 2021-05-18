@@ -3,16 +3,15 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '8023'
+source-wordcount: '8038'
 ht-degree: 0%
 
 ---
 
 
-# Marketo指南{#using}
+# Marketo指南 {#using}
 
 + [首頁](home.md)
 + 開始使用Marketo{#getting-started-with-marketo}
@@ -38,7 +37,7 @@ ht-degree: 0%
       + [重新導向著陸頁面](getting-started/quick-wins/redirect-a-landing-page.md)
       + [自動提醒可能重複的人員](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + 繼承Marketo實例{#inheriting-a-marketo-instance}
-      + [救命！我繼承了現有的Marketo實例](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
+      + [說明! 我繼承了Marketo現有案例](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [要檢出的項目](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [要檢閱的項目：核心技能](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [取得協助的方式](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
@@ -1050,7 +1049,8 @@ ht-degree: 0%
    + Marketo銷售聯繫{#marketo-sales-connect}
       + 開始使用{#getting-started}
          + [銷售連接概述](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Sales Connect快速入門](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [訪問新的Sales Connect實例](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
+         + [設定Sales Connect](product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)
          + [我的個人資料頁面](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
          + [快速入門影片和Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [更改您的銷售連接密碼](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
@@ -1203,7 +1203,7 @@ ht-degree: 0%
          + [內容與檔案附件常見問答集](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales Connect是否有iPhone或Android應用程式？](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
          + [如何允許在我的伺服器上連接銷售資料？](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
-         + [我被鎖在賬戶外。我該做什麼？](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+         + [我被鎖在賬戶外。 我該怎麼辦？](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Sales Connect是否與Salesforce Lightning相容？](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [什麼是最新的用戶端版本？](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
          + [Sales Connect服務條款為何？](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
@@ -1214,6 +1214,8 @@ ht-degree: 0%
       + 整合{#integrations}
          + [如何將電子郵件記錄至其他CRM。](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo{#marketo}
+         + [手動設定您的Marketo連接](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+         + [授予使用者存取權](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [MSC中的有趣時刻](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [讓促銷活動對Sales Connect使用者可見](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
       + 人物{#people}
