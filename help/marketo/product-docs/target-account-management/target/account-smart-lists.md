@@ -3,10 +3,9 @@ unique-page-id: 11378814
 description: 帳戶智慧清單-Marketo文檔——產品文檔
 title: 帳戶智慧清單
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -14,10 +13,6 @@ ht-degree: 0%
 # 帳戶智慧清單{#account-smart-lists}
 
 以下說明如何快速精確地識別高價值客戶。
-
->[!NOTE]
->
->在5月11日星期二晚上，所有符合資格的Marketo實例都將啟用此功能。
 
 >[!NOTE]
 >
