@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '8038'
+source-wordcount: '8037'
 ht-degree: 0%
 
 ---
@@ -808,7 +808,7 @@ ht-degree: 0%
                + [範本12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [範本13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [範本13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [範本13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [範本13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [範本13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [範本14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1214,7 +1214,7 @@ ht-degree: 0%
       + 整合{#integrations}
          + [如何將電子郵件記錄至其他CRM。](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo{#marketo}
-         + [手動設定您的Marketo連接](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+         + [設定您的Marketo連接](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [授予使用者存取權](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [MSC中的有趣時刻](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [讓促銷活動對Sales Connect使用者可見](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
