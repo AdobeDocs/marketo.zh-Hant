@@ -1,9 +1,9 @@
 ---
 description: 設定銷售連接-Marketo文檔——產品文檔
 title: 設定Sales Connect
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -12,9 +12,13 @@ ht-degree: 0%
 
 本文檔將引導您完成設定新Sales Connect實例的初始步驟。 其中有些步驟需要以Marketo管理員、Salesforce管理員和Sales Connect管理員的身分存取。 請依照以下指南完成您的例項設定。
 
+>[!NOTE]
+>
+>**需要管理員權限。**
+
 ## 訪問您的新Marketo銷售聯繫帳戶{#accessing-your-new-marketo-sales-connect-account}
 
-如果您已購買Marketo銷售連線，則會從Marketo的管理區布建您的例項存取權。 按一下這裡，瞭解Marketo管理員如何布建新執行個體的存取權。
+如果您已購買Marketo銷售連線，則會從Marketo的管理區布建您的例項存取權。 [按一](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) 下這裡，瞭解Marketo管理員如何布建新執行個體的存取權。
 
 ![](assets/set-up-sales-connect-1.png)
 
