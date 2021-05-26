@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+source-git-commit: 08afc55a09ac6577b4f8c0a64a1c0150b7d09a49
 workflow-type: tm+mt
 source-wordcount: '8040'
 ht-degree: 0%
@@ -81,10 +81,10 @@ ht-degree: 0%
          + [RCA中的指定帳戶Dimension](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
          + [指定帳戶分析](product-docs/target-account-management/measure/named-account-insights.md)
          + [使用角色](product-docs/target-account-management/using-personas.md)
-   + 帳戶分析{#account-profiling}
-      + [設定帳戶分析](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
-      + [帳戶分析排名和調整](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
-      + [新帳戶發現](product-docs/target-account-management/account-profiling/new-account-discovery.md)
+      + 帳戶分析{#account-profiling}
+         + [設定帳戶分析](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+         + [帳戶分析排名和調整](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+         + [新帳戶發現](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + 其他應用程式{#additional-apps}
       + SEO {#seo}
          + 了解SEO {#understanding-seo}
@@ -808,7 +808,7 @@ ht-degree: 0%
                + [模板12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [模板13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [模板13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [模板13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [模板13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [模板13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [模板14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
