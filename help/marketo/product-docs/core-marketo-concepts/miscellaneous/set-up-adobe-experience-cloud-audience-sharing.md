@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: 設定Adobe Experience Cloud受眾共用 — Marketo檔案 — 產品檔案
 title: 設定Adobe Experience Cloud受眾共用
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 760e39e662f361831eed63d424b74dc90bbfd2e2
+source-git-commit: c225facfb3fce2d9e03ca1db5aa1ce0fee4f686c
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. 輸入您的AdobeIMS組織ID（了解如何在[此處](https://docs.adobe.com/content/help/en/control-panel/using/faq.html)找到），然後按一下&#x200B;**確定**。
+1. 輸入您的AdobeIMS組織ID（了解如何在[此處](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)找到），然後按一下&#x200B;**確定**。
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
