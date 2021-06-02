@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 1c08cbd1bb7f7b3b7b6b12bb21a6eb35ee43c0e1
+source-git-commit: 3c4300d1d574ab779b32f7550dc2df2e5d3afe07
 workflow-type: tm+mt
-source-wordcount: '8028'
+source-wordcount: '8023'
 ht-degree: 0%
 
 ---
@@ -1051,7 +1051,6 @@ ht-degree: 0%
          + [訪問新Sales Connect實例](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
          + [Sales Connect管理員快速入門手冊](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
          + [管理您的設定檔](product-docs/marketo-sales-connect/getting-started/manage-your-profile.md)
-         + [快速入門影片和Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [更改您的銷售連接密碼](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + 電子郵件設定{#email-settings}
             + [新增身分](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
