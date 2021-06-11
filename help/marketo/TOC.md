@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: bcb477061434bbd8f80bde108ba1a13e7764113a
+source-git-commit: 2c4291548a19df230fa347f1a93f49ea02360419
 workflow-type: tm+mt
 source-wordcount: '8031'
 ht-degree: 0%
@@ -622,6 +622,8 @@ ht-degree: 0%
             + [使用Goto網路研討會建立活動](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [建立具有第3級Web會議的事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [使用ReadyTalk建立事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
+            + [使用WebEx建立事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+            + [使用縮放建立事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + 使用Marketo ON24適配器{#create-an-event-with-the-marketo-on24-adapter}建立事件
                + [使用Marketo ON24適配器建立事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [設定事件設定並將Marketo與您的網路研討會同步](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
@@ -634,8 +636,6 @@ ht-degree: 0%
                + [測試您的ON24事件整合](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
                + [了解Marketo On24轉接器事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
                + [了解網路研討會計畫狀態](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
-            + [使用WebEx建立事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-            + [使用縮放建立事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
       + Facebook {#facebook}
          + [在Facebook中新增銷售機會至自訂對象](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [在Facebook中建立自訂對象](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
