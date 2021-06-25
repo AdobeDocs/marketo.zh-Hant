@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 2c4291548a19df230fa347f1a93f49ea02360419
+source-git-commit: abdbe8a7bd48af62b68ff51c24ffcf9d19469a80
 workflow-type: tm+mt
-source-wordcount: '8031'
+source-wordcount: '8043'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 0%
             + [建立階層](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
          + [帳戶清單](product-docs/target-account-management/target/account-lists.md)
          + [帳戶智慧清單](product-docs/target-account-management/target/account-smart-lists.md)
-         + [在LinkedIn上建立相符的對象](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
+         + [在LinkedIn上建立符合帳戶的對象](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
       + 參與{#engage}
          + [帳戶篩選器](product-docs/target-account-management/engage/account-filters.md)
          + [帳戶觸發器](product-docs/target-account-management/engage/account-triggers.md)
@@ -392,6 +392,7 @@ ht-degree: 0%
          + 靜態清單{#static-lists}
             + [建立靜態清單](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [傳送清單至Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
+            + [推送Adobe Experience Cloud區段至Marketo靜態清單](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list.md)
             + [了解靜態清單](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + 程式{#programs}
          + 建立程式{#creating-programs}
@@ -1310,6 +1311,7 @@ ht-degree: 0%
          + 配置{#configuration}
             + [在Salesforce Enterprise/Unlimited中設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [在Salesforce Professional Edition中設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+            + [現有客戶的設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Marketo Salesforce中的Sales Insight設定索引標籤](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [適用於Marketo管理員的Sales Insight頁面](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [為您的團隊設定Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
@@ -1325,7 +1327,6 @@ ht-degree: 0%
                + [將Marketo Sales Insight標籤和按鈕添加到Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Salesforce閃電中的批量操作](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [在Marketo Sales Insight中傳送電子郵件至多筆記錄](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
-               + [現有客戶的設定](product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md)
                + [前瞻分析控制面板功能概觀](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + 語言支援{#language-support}
                + [在Salesforce中為多語言支援準備銷售分析](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
