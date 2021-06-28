@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: 在Salesforce Enterprise/Unlimited - Marketo檔案 — 產品檔案中設定Marketo Sales Insight
 title: 在Salesforce Enterprise/Unlimited中設定Marketo Sales Insight
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: fbd8640d55a9a38936d060086f361b2281add47f
+source-git-commit: 2e0590d576e5f3ff5ae5e49854a33f04f74a6616
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '824'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,7 @@ ht-degree: 0%
 
 ## 在Marketo中設定Sales Insight {#configure-sales-insight-in-marketo}
 
-1. 開啟新的瀏覽器視窗，從您的Marketo帳戶取得Marketo Sales Insight認證。
-
-1. 前往「管理員」區域，然後選取&#x200B;**Sales Insight**。
+1. 在Marketo中獲取您的MSI憑據。 前往「管理員」區域，然後選取&#x200B;**Sales Insight**。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
 
@@ -48,6 +46,9 @@ ht-degree: 0%
 1. 您會看到確認快顯視窗。 按一下&#x200B;**確定**。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5.png)
+
+   >[!TIP]
+   把窗戶保持開啟。 稍後在Salesforce中需要此資訊。
 
 ## 在Salesforce中設定Sales Insight {#configure-sales-insight-in-salesforce}
 
@@ -71,50 +72,10 @@ ht-degree: 0%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. 輸入遠端網站名稱（可以是&quot;MarketoRestAPI&quot;）。 輸入遠端網站URL，這是您來自Marketo中Rest API設定面板的API URL。 按一下「**儲存**」。 您現在已為Rest API建立遠端網站設定。
-
-## 設定Marketo Sales Insight {#set-up-marketo-sales-insight}
-
-1. 登入您的Marketo例項，然後按一下&#x200B;**Admin**。
-
-   ![](assets/login-admin.png)
-
-1. 按一下&#x200B;**Sales Insight**。
-
-   ![](assets/image2015-5-22-15-3a12-3a33.png)
-
-1. 按一下「**編輯API配置**」。
-
-   ![](assets/image2015-5-22-15-3a15-3a0.png)
-
-1. 輸入&#x200B;**API密鑰**，然後按一下&#x200B;**保存**。
-
-   >[!CAUTION]
-   請勿在API密鑰中使用&amp;符號。
-
-   ![](assets/image2015-5-27-16-3a36-3a56.png)
-
-   >[!TIP]
-   把窗戶保持開啟。 您稍後將在Salesforce中需要此資訊。
-
-1. 返回Salesforce，按一下&#x200B;**Setup**。
-
-   ![](assets/image2015-5-22-14-3a40-3a39.png)
-
-1. 搜索&quot;remote site&quot;，然後按一下&#x200B;**安全控制**&#x200B;下的&#x200B;**遠程站點設定**。
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. 按一下「**新建遠程站點**」。
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. 輸入&#x200B;**遠程站點名稱**&#x200B;和&#x200B;**遠程站點URL**，然後按一下&#x200B;**保存**。
-
-   ![](assets/remote-site.png)
+1. 輸入遠端網站名稱（可以是&quot;MarketoAPI&quot;）。 輸入遠端網站URL，這是您來自Marketo中Rest API設定面板的API URL。 按一下「**儲存**」。 您現在已為Rest API建立遠端網站設定。
 
    >[!NOTE]
-   您可以選擇您的&#x200B;**遠端網站名稱**（此處使用MarketoAPI）。 您可以在步驟4的「編輯API設定」對話方塊的「Marketo主機」欄位中，找到&#x200B;**遠端網站URL**。
+   __ 您選擇您 **的遠端網站名稱** （此處使用的是MarketoAPI）。您可以在「在Marketo中設定銷售分析」區段的步驟3，於「編輯API設定」對話方塊的「Marketo主機」欄位中，找到&#x200B;**遠端網站URL**。
 
 ## 自訂頁面配置 {#customize-page-layouts}
 
