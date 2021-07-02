@@ -2,9 +2,9 @@
 description: 推送Adobe Experience Cloud區段至Marketo靜態清單 — Marketo檔案 — 產品檔案
 title: 推送Adobe Experience Cloud區段至Marketo靜態清單
 hidefromtoc: true
-source-git-commit: f437495fbe004177f01c57729d97d2fec1f79509
+source-git-commit: 48ae62b56cf44f9e7874ed9134325e77c08bcaaf
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -79,12 +79,19 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-12.png)
 
-1. 選擇包含識別使用者之電子郵件地址的相關欄位。 完成後，按一下「**選擇**」。
+1. 選擇「**選擇屬性**」或「**選擇身份命名空間**」單選按鈕（在此示例中，我們選擇屬性）。
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-13.png)
 
+   >[!NOTE]
+   >
+   >如果您選擇了「**選擇身份命名空間**」，則在進行選擇後，跳到步驟15。
+
+1. 選擇包含識別使用者之電子郵件地址的相關欄位。 完成後，按一下「**選擇**」。
+
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-14.png)
 
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
 
    >[!NOTE]
    >
@@ -92,19 +99,19 @@ ht-degree: 0%
 
 1. 按一下對應圖示。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
 
 1. 選擇目標欄位，然後按一下&#x200B;**選擇**。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
 
 1. 按一下&#x200B;**Next**。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
 
 1. _在Marketo_&#x200B;中建立靜態清單，或尋找並選取您已建立的清單。從URL結尾複製對應ID。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
 
    >[!NOTE]
    >
@@ -112,8 +119,8 @@ ht-degree: 0%
 
 1. 回到Adobe Experience Platform，輸入您剛複製的ID。 選擇您的開始日期。 人員會持續同步，直到選擇的結束日期為止。 若為無限同步，請將結束日期留空。 完成後，按一下&#x200B;**Next**。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
 
 1. 確認您的更改，然後按一下&#x200B;**Finish**。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-21.png)
