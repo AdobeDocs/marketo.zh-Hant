@@ -3,14 +3,14 @@ unique-page-id: 5472490
 description: 發行排程 — Marketo檔案 — 產品檔案
 title: 發行排程
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 05a174096a6ecab0791799db0af9291e1aa61c08
+source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-# 發行計畫{#release-schedule}
+# 發行排程 {#release-schedule}
 
 **發行**:Marketo使用每季主要發行排程。每個發行說明一旦推出，就會在下表中連結。
 
@@ -48,7 +48,7 @@ _發行日期可能會有所變更_
   </tr> 
   <tr> 
    <td colspan="1">』21年8月</td> 
-   <td colspan="1">2021年8月13日</td> 
+   <td colspan="1">2021年8月20日</td> 
    <td colspan="1">進行中</td> 
   </tr> 
   <tr> 
