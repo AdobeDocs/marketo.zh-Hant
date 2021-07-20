@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: abdbe8a7bd48af62b68ff51c24ffcf9d19469a80
+source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
 workflow-type: tm+mt
-source-wordcount: '8043'
+source-wordcount: '8045'
 ht-degree: 0%
 
 ---
@@ -588,7 +588,7 @@ ht-degree: 0%
             + [SFDC同步：聯繫人同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
             + [SFDC同步：在Salesforce中將銷售機會轉換為聯繫人](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
             + [SFDC同步：自訂物件同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-            + [SFDC同步：刪除銷售機會/聯繫人](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
+            + [SFDC同步：刪除銷售機會/連絡人](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
             + [SFDC同步：欄位同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
             + [將現有的Salesforce欄位新增至Marketo同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/add-an-existing-salesforce-field-to-the-marketo-sync.md)
             + [預設Salesforce欄位映射](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/default-salesforce-field-mapping.md)
@@ -1681,6 +1681,7 @@ ht-degree: 0%
          + [從特定標籤檢視Web促銷活動](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + 發行說明{#release-notes}
    + [發行排程](release-notes/release-schedule.md)
+   + [最新發行](release-notes/current.md)
    + 2021年{#2021}
       + [發行說明：』21年1月](release-notes/2021/release-notes-jan-21.md)
       + [發行說明：』21年5月](release-notes/2021/release-notes-may-21.md)
