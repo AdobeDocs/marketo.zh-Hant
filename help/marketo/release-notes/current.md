@@ -1,16 +1,16 @@
 ---
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
-source-git-commit: f7750809ede818f9ce9562b161327d9b6c7b4973
+source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
 workflow-type: tm+mt
-source-wordcount: '1064'
+source-wordcount: '1065'
 ht-degree: 0%
 
 ---
 
 # 發行說明：2021年8月 {#release-notes-aug-21}
 
-』21年8月發行包含下列功能。 查看您的Marketo版本以了解功能可用性。
+』21年8月發行包含下列功能。 查看您的Marketo Engage版本以了解功能可用性。
 
 >[!AVAILABILITY]
 >
