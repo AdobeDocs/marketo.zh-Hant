@@ -1,9 +1,9 @@
 ---
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
-source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
+source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
@@ -77,9 +77,9 @@ ht-degree: 0%
 
 ## Bizible與Adobe Experience Cloud整合 {#bizible-integration-with-adobe-experience-cloud}
 
-本節包含已完成AdobeIdentity Management系統(IMS)移轉的Bizible使用者的新功能。 如果您已移轉，您會在「Adobe ID」標籤下的「Bizible Settings」中看到新的Adobe ID。 所有帳戶都應在2021年底前移轉。
+本節包含已完成AdobeIdentity Management系統(IMS)移轉的Bizible使用者的新功能。 如果您已移轉，您會在「Adobe ID」標籤下的「Bizible Settings」中看到新的Adobe ID。 所有帳戶應在2021年底前移轉。
 
-* **Bizible整合與AdobePrivacy Service**:Bizible與AdobePrivacy Service的整合可集中Adobe Experience Cloud應用程式對重要資料隱私權法規（例如GDPR）的遵循。您現在可以善用此服務並集中管理所有隱私權要求，以便在應用程式間反映傳入Bizible和其他Adobe產品的變更要求。
+* **Bizible與AdobePrivacy Service整合** （2021年9月推出）:Bizible與AdobePrivacy Service的整合可集中Adobe Experience Cloud應用程式對重要資料隱私權法規（例如GDPR）的遵循。您現在可以善用此服務並集中管理所有隱私權要求，以便在應用程式間反映傳入Bizible和其他Adobe產品的變更要求。
 
 * **Adobe統一殼層上的Bizible**:Bizible採用AdobeUnified Shell為用戶提供了新功能，這些功能將出現在Bizible應用程式標頭欄中，並包括更好地訪問支援資源和應用程式切換。AdobeUnified Shell可協助在Bizible與其他Adobe Experience Cloud應用程式之間建立一致的體驗。
 
