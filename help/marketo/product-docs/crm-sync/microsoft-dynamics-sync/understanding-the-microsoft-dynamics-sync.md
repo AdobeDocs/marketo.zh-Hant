@@ -1,48 +1,49 @@
 ---
 unique-page-id: 10098625
-description: 瞭解Microsoft Dynamics Sync -Marketo文檔——產品文檔
-title: 瞭解Microsoft Dynamics Sync
+description: 了解Microsoft Dynamics Sync - Marketo檔案 — 產品檔案
+title: 了解Microsoft Dynamics同步
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 80651a7d3d416f27ef13184b11757943c98bd781
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
-# 瞭解Microsoft Dynamics Sync {#understanding-the-microsoft-dynamics-sync}
+# 了解Microsoft Dynamics同步 {#understanding-the-microsoft-dynamics-sync}
 
-Marketo和微軟動力攜手合作。 我們讓您的銷售和行銷資料保持同步。
+Marketo和Microsoft Dynamics攜手合作。 我們會保持您的銷售和行銷資料同步。
 
 >[!NOTE]
 >
 >Marketo目前僅支援與Java 7相容的SSL憑證。
 
-## 同步如何運作{#how-sync-works}
+>[!CAUTION]
+>
+>我們目前不支援Marketo Dynamics Sync的沙箱重新整理。 如果您需要重新整理Dynamics CRM沙箱，則需要新的Marketo沙箱。 如需詳細資訊，請連絡您的客戶成功經理。
 
-Marketo每天都會持續同步資料與Microsoft Dynamics。 它是使用背景同步，分批完成，而不是即時完成。
+## 同步如何運作 {#how-sync-works}
+
+Marketo會每天持續同步資料與Microsoft Dynamics。 這是使用背景同步完成的，分批完成，而非即時完成。
 
 >[!NOTE]
 >
->訂閱中的首次同步需要數分鐘到數小時，視您的資料庫大小而定。 Marketo從Dynamics複製整個資料庫。 之後，每次同步通常需要數秒或數分鐘，而且只同步已變更的資料。
+>訂閱中的第一次同步需要幾分鐘到幾小時，具體取決於資料庫的大小。 Marketo會從Dynamics複製整個資料庫。 之後，每次同步通常需要數秒或數分鐘，且只會同步已變更的資料。
 
-Marketo和Dynamics之間的同步對於潛在客戶和聯繫人是雙向的。 如果您在Marketo或Dynamics中進行變更，您的更新將反映在這兩種系統中。 從Dynamics到Marketo，所有其他欄位（例如帳戶和機會）都只能以單一方式同步。
+Marketo和Dynamics之間的同步是雙向的銷售機會和聯繫人。 如果您在Marketo或Dynamics中進行變更，則兩個系統都會反映您的更新。 所有其他欄位（例如帳戶和機會）只會從Dynamics同步至Marketo。
 
-## Marketo與Microsoft Dynamics之間有何同步？{#what-is-synced-between-marketo-and-microsoft-dynamics}
+## Marketo和Microsoft Dynamics之間同步的項目為何？ {#what-is-synced-between-marketo-and-microsoft-dynamics}
 
-* [銷售線索](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
-* [聯絡人](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
+* [銷售機會](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
+* [聯繫人](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
 * [帳戶](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
 * [使用者](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
-* 團隊（系統使用者群組）
+* 團隊（SystemUsers組）
 * [機會](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [自訂實體](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
 
+您在Marketo中輸入的[憑證，用於同步資料。](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+
 >[!NOTE]
 >
->您在Marketo輸入的Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)憑據用於同步資料。[
-
->[!CAUTION]
->
->我們目前不支援Marketo動態同步的沙盒重新整理。 如果您需要重新整理Dynamics CRM沙盒，則需要新的Marketo沙盒。 如需詳細資訊，請連絡您的客戶成功經理。
+>如果源實例與Microsoft Dynamics整合，則不支援實例複製。
