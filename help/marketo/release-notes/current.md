@@ -1,9 +1,9 @@
 ---
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
-source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
+source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '974'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ ht-degree: 0%
 下列功能將於2021年8月20日發行&#x200B;****。
 
 ## Adobe Experience Platform整合 {#adobe-experience-platform-integration}
-
-* **用於共用受眾至Marketo Engage的原生Adobe Experience Platform Connector**:透過原生目的地連接器，針對在Adobe Experience Cloud中建立的受眾區段，在Marketo Engage中啟用多管道行銷活動協調。連接器使用電子郵件地址來比對Adobe Experience Platform設定檔，以Marketo Engage潛在客戶設定檔，進而在應用程式之間產生高度精確的區段共用。 靜態Marketo Engage清單會自動建立，讓行銷人員透過高度個人化的訊息觸及目標對象或起始工作流程。 運用客戶和機會內容以及Experience Platform中更完整和即時的資料，啟用人員受眾。
 
 * **Marketo Engage使用者透過Adobe身分驗證**:自2021年9月起，將使用Adobe ID使用者認證，上線具有企業套件的新Marketo Engage使用者。到2022年年中，目前的使用者才會移轉至整合身分系統，在進一步通知前，不需要採取任何動作。 Adobe身分使用者驗證可讓IT/安全管理員管理多個Marketo Engage產品例項以及其他Experience Cloud解決方案，以及透過通用主控台設定SSO。 管理員可以方便地在一個位置管理使用者群組和使用者權益。
 
