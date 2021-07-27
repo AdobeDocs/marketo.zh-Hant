@@ -1,44 +1,43 @@
 ---
 unique-page-id: 1147114
-description: 方案會員自訂欄位Token -Marketo檔案——產品檔案
-title: 方案會員自訂欄位Token
+description: 方案成員自訂欄位代號 — Marketo檔案 — 產品檔案
+title: 程式成員自定義欄位令牌
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 方案成員自定義欄位標籤{#program-member-custom-field-tokens}
+# 程式成員自定義欄位令牌 {#program-member-custom-field-tokens}
 
-## 方案成員自訂欄位{#token-support-for-program-member-custom-fields}的Token支援
+## 方案成員自定義欄位的令牌支援 {#token-support-for-program-member-custom-fields}
 
-在「方案會員自訂欄位」功能的背面，Token架構中對「方案會員自訂欄位」的支援正在擴充。
+在方案成員自定義欄位功能的背面，正在擴展對令牌框架中方案成員自定義欄位的支援。
 
-PMCF Token將在Token系列的成員網域下受支援。
+PMCF代號將支援在代號系列的成員網域下。
 
-「會員代號」用於「方案會員」範圍內的欄位。 自目前狀態起，會員Token也可用來插入整合服務合作夥伴的唯一值。 `{{member.webinar url}}` Token會自動解析服務提供者產生的個人唯一確認URL。{{member.registration code}}會解析為服務供應商提供的註冊代碼。
+成員令牌用於方案成員範圍內的欄位。 自當前狀態起，成員令牌還用於插入來自整合服務合作夥伴的唯一值。 `{{member.webinar url}}` token會自動解析服務提供者產生之人員的唯一確認URL。{{member.registration code}}解析為服務提供程式提供的註冊代碼。
 
 >[!NOTE]
 >
->* 方案成員自定義欄位只能用於方案的上下文。
->* 方案成員自訂欄位Token無法用於：電子郵件指令碼、電子郵件預先標題、等待步驟中的日期標籤或程式碼片段。
->* 「會員代號」不支援「方案會員狀態」。
+>* 方案成員自定義欄位只能在方案的上下文中使用。
+>* 程式成員自定義欄位令牌不能用於：電子郵件預先標題、等待步驟中的日期代號或片段。
+>* 成員令牌不支援程式成員狀態。
 
 
-## 在資產{#using-program-member-custom-field-tokens-in-assets}中使用方案成員自訂欄位Token
+## 在資產中使用方案成員自訂欄位代號 {#using-program-member-custom-field-tokens-in-assets}
 
-您可以將「方案會員自訂欄位Token」插入電子郵件、著陸頁面、簡訊、推播通知和網頁勾點。
+您可以將方案成員自訂欄位Token插入電子郵件、登陸頁面、簡訊、推播通知和Webhook中。
 
 **電子郵件**
 
-1. 選擇所需的電子郵件，然後按一下「編輯草稿」。****
+1. 選取所需的電子郵件，然後按一下「編輯草稿」**。**
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
-1. 按一下「插入Token」圖示。
+1. 按一下「插入代號」圖示。
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
@@ -46,33 +45,33 @@ PMCF Token將在Token系列的成員網域下受支援。
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下「**儲存**」。
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
 >[!NOTE]
 >
->不要忘記核准您的電子郵件。
+>別忘了核准您的電子郵件。
 
-**著陸頁面**
+**登錄頁面**
 
-1. 選擇您的著陸頁面，然後按一下「編輯草稿&#x200B;**」。**
+1. 選取您的登錄頁面，然後按一下「**編輯草稿**」。
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
    >[!NOTE]
    >
-   >著陸頁面設計工具會在新視窗中開啟。
+   >登錄頁面設計器會在新視窗中開啟。
 
-1. 連按兩下您要新增Token的Rich Text方塊。
+1. 連按兩下您要新增代號的RTF方塊。
 
    ![](assets/program-member-custom-field-tokens-6.png)
 
-1. 按一下您要將Token放在的位置，然後按一下「插入Token」圖示。
+1. 按一下您要讓Token成為的位置，然後按一下「插入Token」圖示。
 
    ![](assets/program-member-custom-field-tokens-7.png)
 
-1. 尋找並選取所需的Token。
+1. 尋找並選取所需的代號。
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
@@ -80,13 +79,13 @@ PMCF Token將在Token系列的成員網域下受支援。
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下「**儲存**」。
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
 **簡訊**
 
-1. 選擇所需的SMS，然後按一下「編輯草稿」。****
+1. 選取所需的簡訊，然後按一下「編輯草稿」**。**
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
@@ -94,29 +93,29 @@ PMCF Token將在Token系列的成員網域下受支援。
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. 尋找並選取所需的方案會員自訂欄位Token。 輸入預設值，然後按一下「插入」。
+1. 查找並選擇所需的程式成員自定義欄位標籤。 輸入預設值，然後按一下「插入」。
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. 按一下「SMS動作」下拉式清單，然後選取「核准並關閉」**。**
+1. 按一下「SMS動作」下拉式清單，然後選取&#x200B;**核准並關閉**。
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
 **推播通知**
 
-1. 選取所要的推播通知，然後按一下「編輯草稿」。****
+1. 選取所需的推播通知，然後按一下「編輯草稿」**。**
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. 按一下「推播通知」。****
+1. 按一下「**推播通知**」。
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. 按一下編輯器中的訊息，然後按一下`{{`按鈕以取得Token選擇器。
+1. 按一下編輯器中的訊息，然後按一下`{{`按鈕以取得Token選取器。
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. 尋找並選取所需的方案會員自訂欄位Token。 輸入預設值，然後按一下&#x200B;**插入**。
+1. 查找並選擇所需的程式成員自定義欄位標籤。 輸入預設值，然後按一下&#x200B;**插入**。
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
@@ -126,14 +125,14 @@ PMCF Token將在Token系列的成員網域下受支援。
 
 >[!NOTE]
 >
->如果方案會員的「方案會員自訂欄位」沒有值，則Token會以預設值取代（如果已提供）。
+>如果程式成員的程式成員自定義欄位沒有值，則如果已提供該令牌，則該令牌將替換為預設值。
 
-## 在促銷活動中使用方案成員自訂欄位Token {#using-program-member-custom-field-tokens-in-campaigns}
+## 在促銷活動中使用方案成員自訂欄位代號 {#using-program-member-custom-field-tokens-in-campaigns}
 
-方案成員自訂欄位Token可用於：
+程式成員自定義欄位令牌可用於：
 
 * 建立任務
 * 在Microsoft中建立任務
 * 有趣的時刻
-* 更改資料值流動操作
+* 變更資料值流動動作
 * Webhook
