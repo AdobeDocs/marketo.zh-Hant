@@ -1,9 +1,9 @@
 ---
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
-source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
+source-git-commit: c4dcf9a69dfb25a689175be6f1ff01d9dc21ad27
 workflow-type: tm+mt
-source-wordcount: '974'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,11 @@ ht-degree: 0%
 
 ![（星號）](assets/yellow-star.png)
 
-* **電子郵件連線限制(GA)**:利用Sales Connect的電子郵件連線限制，改善電子郵件傳遞能力並擴展個人化銷售通訊。這項新技術可自動管理電子郵件傳送時間，為Exchange和Gmail使用者建立順暢的體驗。 減少或消除第三方批量電子郵件發送應用程式的使用，並信心十足地從Sales Connect發送您的所有電子郵件。
+* **電子郵件連線限制（測試版）**:利用Sales Connect的電子郵件連線限制，改善電子郵件傳遞能力並擴展個人化銷售通訊。這項新技術可自動管理電子郵件傳送時間，為Exchange和Gmail使用者建立順暢的體驗。 減少或消除第三方批量電子郵件發送應用程式的使用，並信心十足地從Sales Connect發送您的所有電子郵件。
+
+>[!NOTE]
+>
+>現在，測試版已提供電子郵件限制功能。 [更多詳情](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)。
 
 * **增強銷售活動分析**:根據您銷售團隊的先前活動，擷取並啟用個人化參與。新屬性（如「銷售呼叫記錄連結」、「銷售促銷活動名稱」和「銷售電子郵件主體」）可用於Marketo Engage智慧清單。  這些活動可透過「Marketo EngageREST API」或「大量匯出」來匯出和報告，並可在篩選器和觸發器上使用，作為智慧清單的其他限制。
 
