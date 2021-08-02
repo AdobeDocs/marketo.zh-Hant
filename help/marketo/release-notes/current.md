@@ -1,9 +1,9 @@
 ---
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
-source-git-commit: 47b1a8fe0adfd3b26b3fad7821b45e9a0b6f61bf
+source-git-commit: 45d489ed52f6a114514c79c234ff30567f4aff96
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '942'
 ht-degree: 0%
 
 ---
@@ -36,11 +36,9 @@ ht-degree: 0%
 
 * **自訂欄位中繼資料API**:簡化合作夥伴整合Marketo Engage中自訂欄位的建立和管理。自動在銷售機會物件上建立新欄位，並立即同時在多個Marketo Engage例項中更新欄位。
 
-* **增強篩選**:有數個API現在支援更多篩選功能，例如將日期範圍篩選器新增至電子郵件資產和方案成員欄位。
-
 * **提交表單API**:當一個電子郵件地址在兩個或多個Lead記錄中重複時，我們會更新「上次更新」記錄，而非完全略過。提供與Forms 2.0 API同等的支援。
 
-* **電子郵件API**:擷取冠軍或挑戰者電子郵件資產。
+* **電子郵件API**:擷取冠軍或挑戰者電子郵件資產。使用日期範圍篩選器擷取電子郵件資產。
 
 **_整季推出_**
 
