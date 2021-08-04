@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
+source-git-commit: bc62f6e43259791fff47f2dbb32cb22a665db1a8
 workflow-type: tm+mt
-source-wordcount: '8048'
+source-wordcount: '8052'
 ht-degree: 0%
 
 ---
@@ -134,6 +134,7 @@ ht-degree: 0%
          + [最低系統需求](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [蒙奇金](product-docs/administration/setup-administration/munchkin.md)
          + [受支援的瀏覽器](product-docs/administration/setup-administration/supported-browsers.md)
+         + [全域表單驗證規則](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + 其他整合{#additional-integrations}
          + [將Adobe Connect新增為LaunchPoint服務](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
          + [使用管理員帳戶將Google AdWords新增為Launchpoint Service](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
