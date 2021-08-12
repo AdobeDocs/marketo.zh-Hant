@@ -3,16 +3,16 @@ description: 自訂活動中繼資料匯出 — Marketo檔案 — 產品檔案
 title: 自訂活動中繼資料匯出
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # 自訂活動中繼資料匯出 {#custom-activity-metadata-export}
 
-如果您使用的是我們的SOAP API或Munchkin API，則可匯出自訂活動中繼資料結構。 這裡是怎麼弄到的。
+請依照下列步驟，匯出您的自訂活動中繼資料結構。
 
 1. 在「我的Marketo」中，按一下&#x200B;**管理**。
 
