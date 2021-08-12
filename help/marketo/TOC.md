@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: bc62f6e43259791fff47f2dbb32cb22a665db1a8
+source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
 workflow-type: tm+mt
-source-wordcount: '8052'
+source-wordcount: '8064'
 ht-degree: 0%
 
 ---
@@ -204,6 +204,7 @@ ht-degree: 0%
          + [建立自訂活動](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [編輯自訂活動](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
          + [發佈自訂活動](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
+         + [自訂活動中繼資料匯出](product-docs/administration/marketo-custom-objects/custom-activity-metadata-export.md)
       + Marketo自訂物件{#marketo-custom-objects}
          + [了解Marketo自訂物件](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
          + [新增Marketo自訂物件欄位](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
@@ -1219,6 +1220,8 @@ ht-degree: 0%
          + [授予使用者存取權](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Sales Connect中的有趣時刻](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [讓Sales Connect用戶可以看到促銷活動](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [銷售活動辭匯表](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
+         + [銷售活動觸發器和篩選器](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + 人員{#people}
          + [人員詳細資訊視圖](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Sales Connect與GDPR法規遵循](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
