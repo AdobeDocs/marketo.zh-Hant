@@ -3,10 +3,10 @@ description: 銷售活動字彙表 — Marketo檔案 — 產品檔案
 title: 銷售活動辭匯表
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 3%
+source-wordcount: '416'
+ht-degree: 2%
 
 ---
 
@@ -60,7 +60,7 @@ ht-degree: 3%
  <tr>
   <td>範本ID</td>
  </tr>
- <tr>
+<tr>
   <th rowspan="2">收到銷售電子郵件</th>
   <td>接收者</td>
  </tr>
@@ -150,6 +150,74 @@ ht-degree: 3%
   <th>說明</th>
  </tr>
  <tbody> 
+ <tr> 
+   <td><strong>詳細資料</strong></td> 
+   <td>退信錯誤消息詳細資訊。</td> 
+  </tr> 
+  <tr> 
+   <td><strong>電子郵件</strong></td> 
+   <td>跳出的電子郵件地址。</td> 
+  </tr> 
+  <tr> 
+   <td><strong>連結</strong></td> 
+   <td>已點按的URL。</td> 
+  </tr> 
+  <tr> 
+   <td><strong>接收者</strong></td> 
+   <td>傳送電子郵件之人員的電子郵件地址。</td> 
+  </tr>
+  <tr> 
+   <td><strong>應答銷售電話的人</strong></td> 
+   <td>接聽電話的人員姓名。</td> 
+  </tr>
+  <tr> 
+   <td><strong>銷售呼叫持續時間</strong></td> 
+   <td>呼叫長度（以秒為單位）。</td> 
+  </tr>
+  <tr> 
+   <td><strong>銷售呼叫由</strong></td> 
+   <td>進行呼叫的銷售人員的電子郵件地址。</td> 
+  </tr>
+  <tr> 
+   <td><strong>銷售呼叫記錄URL</strong></td> 
+   <td>呼叫記錄的URL。</td> 
+  </tr>
+  <tr> 
+   <td><strong>銷售呼叫狀態</strong></td> 
+   <td>將儲存呼叫的最終呼叫狀態，其中包括：已完成，無應答，已取消，失敗。</td> 
+  </tr>
+  <tr> 
+   <td><strong>銷售呼叫主體</strong></td> 
+   <td>呼叫撥號器中銷售用戶選擇的結果。</td> 
+  </tr>
+  <tr> 
+   <td><strong>銷售促銷活動ID</strong></td> 
+   <td>Sales Connect中Sales Campaign資產的唯一ID。</td> 
+  </tr>
+  <tr> 
+   <td><strong>銷售促銷活動名稱</strong></td> 
+   <td>銷售促銷活動的名稱。</td> 
+  </tr>
+  <tr> 
+   <td><strong>銷售促銷活動URL</strong></td> 
+   <td>銷售活動的銷售連接URL。</td> 
+  </tr>
+  <tr> 
+   <td><strong>銷售電子郵件主題</strong></td> 
+   <td>電子郵件的主旨行。</td> 
+  </tr>
+  <tr> 
+   <td><strong>已呼叫銷售電話號碼</strong></td> 
+   <td>由銷售部呼叫的電話號碼。</td> 
+  </tr>
+  <tr> 
+   <td><strong>銷售模板名稱</strong></td> 
+   <td>Sales Connect中的電子郵件模板名稱。</td> 
+  </tr>
+  <tr> 
+   <td><strong>銷售模板URL</strong></td> 
+   <td>電子郵件模板的Sales Connect URL。</td> 
+  </tr>
   <tr> 
    <td><strong>發送者</strong></td>
    <td>傳送電子郵件之人員的電子郵件地址。</td> 
@@ -162,18 +230,6 @@ ht-degree: 3%
    <td><strong>範本ID</strong></td> 
    <td>當源為Tout時，模板ID將是Marketo Sales Connect模板ID。 使用此功能可鎖定特定範本，而非多個範本中可能存在的主旨行。
 </td> 
-  </tr> 
-  <tr> 
-   <td><strong>接收者</strong></td> 
-   <td>傳送電子郵件之人員的電子郵件地址。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>詳細資料</strong></td> 
-   <td>退信錯誤消息詳細資訊。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>電子郵件</strong></td> 
-   <td>跳出的電子郵件地址。</td> 
   </tr> 
  </tbody> 
 </table>
