@@ -1,9 +1,7 @@
 ---
 description: 銷售活動觸發器和篩選器 — Marketo檔案 — 產品檔案
 title: 銷售活動觸發器和篩選器
-hide: true
-hidefromtoc: true
-source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
