@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
+source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 0%
@@ -493,18 +493,18 @@ ht-degree: 0%
                + [預覽電子郵件](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)
                + [傳送範例](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [分享時機](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
-         + 其他{#miscellaneous}
-            + [設定Adobe Experience Manager整合](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
-            + [建立新的促銷活動資料夾](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
-            + [使用Adobe Experience Manager匯入資產](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
-            + [鍵盤快速鍵字表](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
-            + [Marketo沙箱](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
-            + [重新命名Marketo資產](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-            + [設定Adobe Experience Cloud受眾共用](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
-            + [從Adobe Experience Cloud同步受眾](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
-            + [了解資料夾](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
-            + [了解通知](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
-            + [通知類型](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + 其他{#miscellaneous}
+         + [設定Adobe Experience Manager整合](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
+         + [建立新的促銷活動資料夾](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
+         + [使用Adobe Experience Manager匯入資產](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
+         + [鍵盤快速鍵字表](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
+         + [Marketo沙箱](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
+         + [重新命名Marketo資產](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
+         + [設定Adobe Experience Cloud受眾共用](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
+         + [從Adobe Experience Cloud同步受眾](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [了解資料夾](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
+         + [了解通知](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
+         + [通知類型](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
    + CRM同步{#crm-sync}
       + Microsoft Dynamics同步{#microsoft-dynamics}
          + [了解Microsoft Dynamics同步](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
