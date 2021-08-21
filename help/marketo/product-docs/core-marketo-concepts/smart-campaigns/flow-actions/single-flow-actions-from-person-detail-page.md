@@ -1,7 +1,9 @@
 ---
 description: 來自人員詳細資料頁面的單一流量動作 — Marketo檔案 — 產品檔案
 title: 「人員詳細資料」頁面中的單一流量動作
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+hide: true
+hidefromtoc: true
+source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
