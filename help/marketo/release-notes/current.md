@@ -1,9 +1,9 @@
 ---
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+source-git-commit: c2acfbe3770a74e4c1e7acc3893dbe57af01d621
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,9 @@ ht-degree: 0%
 
 * **「人員詳細資料」頁面中的「單一流量動作** 」（8月30日前推出）:使用「流程操作」菜單，從人員詳細資訊頁對個人執行流操作，如發送電子郵件、更改人員所有者或任何其他智慧促銷活動操作，而不切換到資料庫網格視圖。
 
-* **自訂活動匯出**:中繼資料匯出現在支援所有物件和個別中繼資料，可用來共用、分析和設計您的訂閱資料模型。
+* **[自訂活動匯出](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**:中繼資料匯出現在支援所有物件和個別中繼資料，可用來共用、分析和設計您的訂閱資料模型。
 
 ## API增強功能 {#api-enhancements}
-
-* **自訂欄位中繼資料API**:簡化合作夥伴整合Marketo Engage中自訂欄位的建立和管理。自動在銷售機會物件上建立新欄位，並立即同時在多個Marketo Engage例項中更新欄位。
 
 * **提交表單API**:當一個電子郵件地址在兩個或多個Lead記錄中重複時，我們會更新「上次更新」記錄，而非完全略過。提供與Forms 2.0 API同等的支援。
 
