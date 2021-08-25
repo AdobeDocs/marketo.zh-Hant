@@ -1,7 +1,7 @@
 ---
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
-source-git-commit: 256e089a418f67ab46249a18fe82e1e1f6d7bfb9
+source-git-commit: 6f9b5a591a315fd6ff036cd5d51dbb432bd31733
 workflow-type: tm+mt
 source-wordcount: '904'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 * **可執行的促銷活動巢狀**:可執行的促銷活動現在也可以呼叫其他可執行的促銷活動，讓您最多巢狀內嵌至三個層級。這可以進一步整合常見的操作流程，並改進Smart Campaign管理。
 
-* **「人員詳細資料」頁面中的「單一流量動作** 」（8月30日前推出）:使用「流程操作」菜單，從人員詳細資訊頁對個人執行流操作，如發送電子郵件、更改人員所有者或任何其他智慧促銷活動操作，而不切換到資料庫網格視圖。
+* **「人員詳細資料」頁面中的「單一流量動作** 」（9月9日前推出）:使用「流程操作」菜單，從人員詳細資訊頁對個人執行流操作，如發送電子郵件、更改人員所有者或任何其他智慧促銷活動操作，而不切換到資料庫網格視圖。
 
 * **[自訂活動匯出](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**:中繼資料匯出現在支援所有物件和個別中繼資料，可用來共用、分析和設計您的訂閱資料模型。
 
