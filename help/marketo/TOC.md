@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: d5a4178567b4ab8814158e655fed8e60e2af98cb
+source-git-commit: f6d0d38b777e07f0a5139b22c3da38aaebc699fc
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 0%
@@ -585,7 +585,7 @@ ht-degree: 0%
             + SFDC同步詳細資訊{#sfdc-sync-details}
                + [如何在同步之前匹配方案狀態和Salesforce促銷活動狀態](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
                + [SFDC同步：帳戶同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
-               + [使用人員帳戶](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync/using-person-accounts.md)
+               + [使用人員帳戶](product-docs/crm-sync/salesforce-sync/setup/sfdc-sync-details/sfdc-sync-account-sync/using-person-accounts.md)
                + [SFDC同步：活動同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
                + [SFDC同步：促銷活動同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
                + [SFDC同步：聯繫人同步](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
