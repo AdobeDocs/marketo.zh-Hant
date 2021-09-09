@@ -1,56 +1,35 @@
 ---
 unique-page-id: 6094949
-description: 移動智慧型促銷活動-Marketo文檔——產品文檔
+description: 移動智慧型行銷活動 — Marketo檔案 — 產品檔案
 title: 移動智慧型促銷活動
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 361a736fdf28a2e929cc781ba8eec27c6e1fbf30
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# 移動智慧型促銷活動{#move-a-smart-campaign}
+# 移動智慧型促銷活動 {#move-a-smart-campaign}
 
-使用樹狀結構中的拖放或移動功能，在不同的程式或資料夾之間移動智慧型促銷活動。
-
-## 使用拖放{#use-drag-and-drop}
+使用拖放或樹狀結構中的移動功能，在不同方案或資料夾之間移動智慧型促銷活動。 智慧型促銷活動的規則不會變更，只會巢狀內嵌在不同的位置。
 
 1. 前往&#x200B;**行銷活動**。
 
-   ![](assets/login-marketing-activities-2.png)
+   ![](assets/move-a-smart-campaign-1.png)
 
-1. 選取智慧型促銷活動，並將它拖放至新的程式。
+1. 找到您要移動的智慧型促銷活動，按一下滑鼠右鍵並選取&#x200B;**Move**。
 
-   ![](assets/rockclimbing-tabfix.jpg)
+   ![](assets/move-a-smart-campaign-2.png)
 
-   太棒了！ 這個聰明的宣傳活動現在已進入新的計畫。 這也適用於資料夾。
+1. 選擇&#x200B;**To**（目標）、**Program**&#x200B;和可選&#x200B;**Folder**。 選擇&#x200B;**移動**。
+
+   ![](assets/move-a-smart-campaign-3.png)
 
    >[!NOTE]
    >
-   >智慧型促銷活動的規則不會變更——只會巢狀內嵌在不同的位置。
+   >在此範例中，我們將智慧型促銷活動移至其他方案，但您也可以將其移至促銷活動資料夾。
 
-## 使用移動功能{#use-the-move-feature}
+幹得好！ 已移動「智慧促銷活動」。
 
-智慧型促銷活動也可使用樹狀結構中的移動功能來移動。
-
-1. 以滑鼠右鍵按一下智慧型促銷活動。 選擇&#x200B;**移動**。
-
-   ![](assets/rockclimbing2.jpg)
-
-1. 選擇移至&#x200B;**Program**&#x200B;或&#x200B;**Folder**。
-
-   ![](assets/image2015-2-25-13-3a34-3a20.png)
-
-1. 選取要移動的智慧型促銷活動的特定位置。
-
-   ![](assets/image2015-2-25-13-3a36-3a4.png)
-
-1. 按一下&#x200B;**移動**。
-
-   ![](assets/image2015-2-25-13-3a37-3a44.png)
-
-   擊掌！ 此智慧型促銷活動已移動。
-
-   ![](assets/image2015-2-25-13-39-51-copy-281-29.png)
+![](assets/move-a-smart-campaign-4.png)
