@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 24aa698604c4480bd4c588bd7156e0d70556143b
+source-git-commit: 88cae185159fea877c1af80ee1010f5ae58c1269
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '8089'
 ht-degree: 0%
 
 ---
@@ -218,6 +218,9 @@ ht-degree: 0%
          + [自訂物件中繼資料匯出](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + 具有Adobe標識的Marketo {#marketo-with-adobe-identity}
          + [概述](product-docs/administration/marketo-with-adobe-identity/overview.md)
+         + [管理設定](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
+         + [新增或移除產品管理員](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
+         + [新增或移除使用者](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
       + 設定{#settings}
          + [變更Analytics的歸因設定](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [變更Marketo密碼](product-docs/administration/settings/change-your-marketo-password.md)
