@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: 發行排程 — Marketo檔案 — 產品檔案
 title: 發行排程
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 7ee95e3511f42f6c6ecf24b95fb3bbb3e9f55752
+source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 **發行**:Marketo使用每季主要發行排程。每個發行說明一旦推出，就會在下表中連結。
 
-**發行日期**:推出通常從發行周的星期三開始，大部分的升級會在星期五晚上進行。系統會傳送電子郵件，內含特定日期和發行詳細資訊。 所列日期為星期五更新。
+**發行日期**:推出通常從發行周的星期二開始，大部分升級將於星期五晚上進行。系統會傳送電子郵件，內含特定日期和發行詳細資訊。 所列日期為星期五更新。
 
 **進度**:
 

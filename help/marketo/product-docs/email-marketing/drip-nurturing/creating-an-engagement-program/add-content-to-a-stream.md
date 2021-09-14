@@ -1,118 +1,55 @@
 ---
 unique-page-id: 2359659
-description: 新增內容至串流——行銷人員檔案——產品檔案
-title: 新增內容至串流
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: 新增內容至資料流 — Marketo檔案 — 產品檔案
+title: 新增內容至資料流
+exl-id: b2db9f49-2baa-4d42-9755-480390a91041
+source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
+# 新增內容至資料流 {#add-content-to-a-stream}
 
-# 新增內容至串流{#add-content-to-a-stream}
-
-建立參與計畫後，您需要將內容新增至串流。 您可以將電子郵件或程式新增至串流。
-
-## 新增電子郵件至串流{#add-an-email-to-a-stream}
+建立參與方案後，您需要將內容新增至資料流。 您可以新增電子郵件或程式至資料流。
 
 1. 前往&#x200B;**行銷活動**。
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/add-content-to-a-stream-1.png)
 
-1. 選擇您的參與程式，並轉至&#x200B;**流**&#x200B;頁籤。
+1. 選取您的參與方案，然後前往&#x200B;**串流**&#x200B;標籤。
 
-   ![](assets/streamstab.jpg)
+   ![](assets/add-content-to-a-stream-2.png)
 
-   您可以以三種不同的方式新增第一封電子郵件：
+   您可以以兩種不同的方式新增內容：
 
 **新增內容按鈕**
 
-1. 按一下&#x200B;**添加內容**&#x200B;按鈕。
+1. 按一下&#x200B;**新增內容**&#x200B;按鈕。
 
-   ![](assets/addcontentbutton.jpg)
+   ![](assets/add-content-to-a-stream-3.png)
 
-1. 將&#x200B;**Type**&#x200B;設為&#x200B;**Email**，然後選取您要新增的電子郵件。
+1. 選擇&#x200B;**Email** _或_ **Program**，然後選擇要添加的電子郵件或方案/智慧促銷活動。
 
-   ![](assets/image2014-9-15-15-3a44-3a58.png)
+   ![](assets/add-content-to-a-stream-4.png)
 
    >[!TIP]
    >
-   >本項目計畫的本端電子郵件將會排在最上方。
+   >此參與計畫的本地電子郵件將在頂部排序。
 
-**串流+圖示**
+**+圖示**
 
-1. 按一下串流&#x200B;**+**&#x200B;圖示，將&#x200B;**Type**&#x200B;保留為&#x200B;**電子郵件**，並選取您要新增的電子郵件。
+1. 按一下&#x200B;**+**&#x200B;圖示，選擇&#x200B;**Email** _或_ **Program**，然後選取您要新增的電子郵件或方案/智慧促銷活動。
 
-   ![](assets/image2014-9-15-15-3a45-3a25.png)
-
-**拖放**
-
-1. 只需將電子郵件從樹狀結構拖曳至串流中即可。
-
-   ![](assets/dragstreamcontent.jpg)
-
-## 將程式添加到流{#add-a-program-to-a-stream}
-
-1. 前往&#x200B;**行銷活動**。
-
-   ![](assets/login-marketing-activities-1.png)
-
-1. 選擇您的參與程式，並轉至&#x200B;**流**&#x200B;頁籤。
-
-   ![](assets/streamstab.jpg)
-
-   您可以透過三種不同的方式，將程式新增至您的串流：
-
-**新增內容按鈕**
-
-1. 按一下「新增內容」。****
-
-   ![](assets/image2014-9-15-15-3a45-3a51.png)
-
-1. 將&#x200B;**Type**&#x200B;更改為Program。
-
-   ![](assets/image2014-9-15-15-3a46-3a0.png)
-
-1. 查找並選擇程式。
-
-   ![](assets/image2014-9-15-15-3a46-3a11.png)
-
-1. 現在，在您希望人們瀏覽的程式中選擇聰明的促銷活動。
-
-   ![](assets/image2014-9-15-15-3a46-3a17.png)
+   ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >智慧型促銷活動必須包含&#x200B;**參與計畫成員**&#x200B;篩選器，如此才能正常運作。
+   >智慧型促銷活動必須包含&#x200B;**參與方案成員**&#x200B;篩選器，才能正常運作。
 
-**串流+圖示**
-
-1. 按一下串流&#x200B;**+**&#x200B;圖示，然後將&#x200B;**Type**&#x200B;變更為Program。
-
-   ![](assets/image2014-9-15-15-3a46-3a43.png)
-
-1. 尋找並選取您的方案。
-
-   ![](assets/image2014-9-15-15-3a46-3a49.png)
-
-1. 選擇您要處理人員的智慧型促銷活動。
-
-   ![](assets/image2014-9-15-15-3a46-3a54.png)
-
-**拖放**
-
-1. 從樹狀結構將您選擇的程式拖放至串流中。
-
-   ![](assets/streamcadence.jpg)
-
-1. 現在，只要挑選您希望人們流暢的智慧型宣傳。
-
-   ![](assets/image2014-9-15-15-3a47-3a8.png)
-
-幹得好！ 您現在知道將內容新增至程式串流的不同方式。 添加您所需的數量，以便培養。 如需詳細資訊，請參閱下方的相關文章。
+幹得好！ 您現在知道如何將內容新增至程式資料流。 盡量多地培養你。 如需詳細資訊，請參閱下方的相關文章。
 
 >[!MORELIKETHIS]
 >
->[將計畫新增至參與計畫串流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
+>[將方案新增至參與方案串流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
