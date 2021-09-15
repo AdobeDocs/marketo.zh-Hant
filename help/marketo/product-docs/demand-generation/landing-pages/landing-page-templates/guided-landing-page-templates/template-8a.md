@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783960
-description: 範本8A - Marketo檔案 — 產品檔案
-title: 模板8A
+description: 範本8-A - Marketo檔案 — 產品檔案
+title: 模板8-A
 exl-id: d73f9f29-7309-4525-a5fe-171ba67151ac
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-# 模板8A {#template-8a}
+# 模板8-A {#template-a}
 
-[下載範本8A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html)
+[下載範本8-A](https://docs.marketo.com/download/attachments/8783960/template-8a.html?version=1&amp;modificationdate=1482174907000&amp;api=v2)
 
 ![](assets/image2015-7-29-9-3a53-3a6.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **按一下以下載此範本：**
 
-[範本8A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html)
+[Template8-A.html](https://docs.marketo.com/download/attachments/8783960/template-8a.html?version=1&amp;modificationdate=1482174907000&amp;api=v2)

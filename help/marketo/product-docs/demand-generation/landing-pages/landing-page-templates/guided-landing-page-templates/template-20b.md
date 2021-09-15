@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092913
-description: 範本20B - Marketo檔案 — 產品檔案
-title: 模板20B
+description: 範本20-B - Marketo檔案 — 產品檔案
+title: 模板20-B
 exl-id: 53a993ae-934d-47b0-98c1-f4e88d4f1b1e
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# 模板20B {#template-20b}
+# 模板20-B {#template-b}
 
-[下載模板20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
+[下載範本20-B](https://docs.marketo.com/download/attachments/10092913/template-20b.html?version=1&amp;modificationdate=1441750700000&amp;api=v2)
 
 ![](assets/template-20b.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **按一下以下載此範本：**
 
-[範本20B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
+[Template20-B.html](https://docs.marketo.com/download/attachments/10092913/template-20b.html?version=1&amp;modificationdate=1441750700000&amp;api=v2)

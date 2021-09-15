@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8159309
-description: 範本3A - Marketo檔案 — 產品檔案
-title: 範本3A
+description: 範本3-A - Marketo檔案 — 產品檔案
+title: 模板3-A
 exl-id: ec664f4b-b82d-408b-8657-d41056a9eb16
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# 範本3A {#template-3a}
+# 模板3-A {#template-a}
 
-[下載範本3A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
+[下載範本3-A](https://docs.marketo.com/download/attachments/8159309/template3-a.html?version=1&amp;modificationdate=1434057345000&amp;api=v2)
 
 ![](assets/image2015-6-12-9-3a2-3a8.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **按一下以下載此範本：**
 
-[範本3A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
+[Template3-A.html](https://docs.marketo.com/download/attachments/8159309/template3-a.html?version=1&amp;modificationdate=1434057345000&amp;api=v2)

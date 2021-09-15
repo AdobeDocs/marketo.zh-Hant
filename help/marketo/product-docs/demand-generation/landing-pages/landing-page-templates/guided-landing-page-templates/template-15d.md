@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437825
-description: 範本15D - Marketo檔案 — 產品檔案
-title: 模板15D
+description: 範本15-D - Marketo檔案 — 產品檔案
+title: 模板15-D
 exl-id: 424e4bb8-e223-42b3-a26d-ec9ea167e862
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# 模板15D {#template-15d}
+# 模板15-D {#template-d}
 
-[下載模板15D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15d.html)
+[下載模板15-D](https://docs.marketo.com/download/attachments/9437825/template-15d.html?version=1&amp;modificationdate=1438980509000&amp;api=v2)
 
 ![](assets/image2015-8-13-13-3a56-3a26.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **按一下以下載此範本：**
 
-[模板15D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15d.html)
+[Template15-D.html](https://docs.marketo.com/download/attachments/9437825/template-15d.html?version=1&amp;modificationdate=1438980509000&amp;api=v2)

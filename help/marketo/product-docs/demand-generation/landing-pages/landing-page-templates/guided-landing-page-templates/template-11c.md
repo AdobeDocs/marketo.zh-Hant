@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437562
-description: 範本11C - Marketo檔案 — 產品檔案
-title: 模板11C
+description: 範本11-C - Marketo檔案 — 產品檔案
+title: 模板11-C
 exl-id: 7398604e-5a38-4630-b28e-31dc16cfcec3
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# 模板11C {#template-11c}
+# 模板11-C {#template-c}
 
-[下載模板11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
+[下載模板11-C](https://docs.marketo.com/download/attachments/9437562/template-11c.html?version=1&amp;modificationdate=1438211358000&amp;api=v2)
 
 ![](assets/image2015-8-4-14-3a3-3a44.png)
 
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 **按一下以下載此範本：**
 
-[範本11C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
+[Template11-C.html](https://docs.marketo.com/download/attachments/9437562/template-11c.html?version=1&amp;modificationdate=1438211358000&amp;api=v2)

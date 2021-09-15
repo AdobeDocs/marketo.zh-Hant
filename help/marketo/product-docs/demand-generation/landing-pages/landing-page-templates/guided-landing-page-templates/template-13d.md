@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437795
-description: 範本13D - Marketo檔案 — 產品檔案
-title: 模板13D
+description: 範本13-D - Marketo檔案 — 產品檔案
+title: 模板13-D
 exl-id: 5f889a36-31d1-4a98-a91c-7c1b21b148d6
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# 模板13D {#template-13d}
+# 模板13-D {#template-d}
 
-[下載模板13D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html)
+[下載模板13-D](https://docs.marketo.com/download/attachments/9437795/template-13d.html?version=1&amp;modificationdate=1438980073000&amp;api=v2)
 
 ![](assets/image2015-8-11-14-3a17-3a5.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **按一下以下載此範本：**
 
-[模板13D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html)
+[Template13-D.html](https://docs.marketo.com/download/attachments/9437795/template-13d.html?version=1&amp;modificationdate=1438980073000&amp;api=v2)
