@@ -3,7 +3,7 @@ description: 設定 — Marketo檔案 — 產品檔案
 title: 設定
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: ab594ddb7c416f7b6c98e2b4d3640a2db6208e69
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -22,7 +22,7 @@ PICC
 
 PICC（全動話）
 
-## 樣式頁簽{#style tab}
+## 樣式標籤 {#style-tab}
 
 **樣式**
 
