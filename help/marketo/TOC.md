@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 296dce8edf65115f9c10a79c4f1981b57739f713
+source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
 workflow-type: tm+mt
-source-wordcount: '8089'
+source-wordcount: '8096'
 ht-degree: 0%
 
 ---
@@ -619,6 +619,10 @@ ht-degree: 0%
          + [將Google Customer Match新增為LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [將LinkedIn相符的對象新增為LaunchPoint服務](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [傳送清單至廣告網路](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+      + 動態聊天{#dynamic-chat}
+         + [動態聊天概述](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [對話方塊](product-docs/demand-generation/dynamic-chat/dialogues.md)
+         + [設定](product-docs/demand-generation/dynamic-chat/configuration.md)
       + 事件{#events}
          + 了解事件{#understanding-events}
             + [向事件程式添加成員](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
