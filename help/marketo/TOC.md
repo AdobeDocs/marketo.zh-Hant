@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: abb4d95da5ba9d9a342b482287c89a4987eb4251
 workflow-type: tm+mt
-source-wordcount: '8096'
+source-wordcount: '8090'
 ht-degree: 0%
 
 ---
@@ -146,7 +146,6 @@ ht-degree: 0%
          + [將ON24新增為LaunchPoint服務](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
          + [將ReadyTalk添加為LaunchPoint服務](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [將單一登入新增至入口網站](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
-         + [將Slack新增為LaunchPoint服務](product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md)
          + [將WebEx添加為LaunchPoint服務](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [新增Workplace by Facebook as a LaunchPoint Service](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [將縮放新增為LaunchPoint服務](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
