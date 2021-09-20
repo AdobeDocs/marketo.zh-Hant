@@ -3,9 +3,9 @@ description: 對話方塊 — Marketo檔案 — 產品檔案
 title: 對話方塊
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: 1a1d4cb7e013253ce7189150486ba03ea02d877d
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -95,7 +95,7 @@ PICC
 
 資訊捕獲：收集資訊時使用。 要選擇的三個欄位是「電子郵件地址」、「電話號碼」和「文字」（這可讓訪客自行撰寫訊息）。
 
-約會計畫程式：為訪客提供可用日期的日曆，以排程後續作業。 日曆可用性反映了[行](help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing)中的下一個代理。
+約會計畫程式：為訪客提供可用日期的日曆，以排程後續作業。 日曆可用性反映了[行](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing)中的下一個代理。
 
 目標：這是訪客唯一看不到的卡片。 您可以決定在哪個時間點在特定聊天內達成目標(例如：如果收集訪客的電子郵件是您的目標，請將「目標」卡放在資料流中的「資訊擷取」之後。)
 
