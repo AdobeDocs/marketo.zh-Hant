@@ -3,9 +3,9 @@ description: Dynamic Chat概述 — Marketo檔案 — 產品檔案
 title: 動態聊天概述
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 簡介文本
 
+>[!NOTE]
+>
+>動態聊天正在推出，所有訂閱都可依DATE存取。
+
 ## 設定動態聊天 {#access-dynamic-chat}
 
-文字
+請依照下列步驟進行初始設定。
 
 1. 在「我的Marketo」中，按一下「動態聊天&#x200B;**」表徵圖。**
 
@@ -24,7 +28,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您的Marketo管理員尚未為您開啟圖磚，您也可以[在此處](https://experience.adobe.com/dynamic-chat/)存取動態聊天。
+   >如果你沒看見……請聯絡您的Marketo管理員)。
 
 1. 如果您先前曾使用Adobe ID存取應用程式，系統會直接將您帶至動態聊天。 否則，請[設定您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)。
 
@@ -32,19 +36,19 @@ ht-degree: 0%
 
 1. 若要連線您的Marketo執行個體，請選取&#x200B;**整合**。
 
-PICC
+   PICC
 
 1. 按一下？在此處插入文本？。
 
-PICC
+   PICC
 
->[!NOTE]
->
->同步可能需要5分鐘到8小時的時間，具體取決於資料庫的大小。 平均同步時間為60分鐘。
+   >[!NOTE]
+   >
+   >同步可能需要5分鐘到8小時的時間，具體取決於資料庫的大小。 平均同步時間為60分鐘。
 
 ## 整合 {#integrations}
 
-整合是您在存取動態聊天時要造訪的第一個標籤。 您可在此同步Marketo訂閱，以利用資料庫資料識別網站/聊天訪客（[請參閱上述步驟3](#access-dynamic-chat)）。
+整合是您在存取動態聊天時要造訪的第一個標籤。 您可在此同步Marketo訂閱，以利用Marketo資料庫資料識別網站/聊天訪客（[請參閱上述步驟3](#access-dynamic-chat)）。
 
 ## 對話方塊 {#dialogues}
 

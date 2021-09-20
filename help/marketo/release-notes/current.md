@@ -1,9 +1,10 @@
 ---
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
-source-git-commit: 6f9b5a591a315fd6ff036cd5d51dbb432bd31733
+exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '904'
+source-wordcount: '903'
 ht-degree: 0%
 
 ---
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 ## 體驗自動化 {#experience-automation}
 
-* **Marketo Engage使用者透過Adobe身分驗證**:自2021年9月起，將使用Adobe ID使用者認證，上線具有企業套件的新Marketo Engage使用者。到2022年年中，目前的使用者才會移轉至整合身分系統，在進一步通知前，不需要採取任何動作。 Adobe身分使用者驗證可讓IT/安全管理員管理多個Marketo Engage產品例項以及其他Experience Cloud解決方案，以及透過通用主控台設定SSO。 管理員可以方便地在一個位置管理使用者群組和使用者權益。
+* **Marketo Engage使用者透過Adobe身分驗證**:很快，將會使用Adobe ID使用者認證，上線具有企業套件的新Marketo Engage使用者。到2022年年中，目前的使用者才會移轉至整合身分系統，在進一步通知前，不需要採取任何動作。 Adobe身分使用者驗證可讓IT/安全管理員管理多個Marketo Engage產品例項以及其他Experience Cloud解決方案，以及透過通用主控台設定SSO。 管理員可以方便地在一個位置管理使用者群組和使用者權益。
 
 * **可執行的促銷活動巢狀**:可執行的促銷活動現在也可以呼叫其他可執行的促銷活動，讓您最多巢狀內嵌至三個層級。這可以進一步整合常見的操作流程，並改進Smart Campaign管理。
 

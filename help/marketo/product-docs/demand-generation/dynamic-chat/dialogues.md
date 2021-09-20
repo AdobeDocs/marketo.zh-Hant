@@ -3,9 +3,9 @@ description: 對話方塊 — Marketo檔案 — 產品檔案
 title: 對話方塊
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ PICC
 
 與Marketo智慧清單類似，受眾條件屬性可讓您定義目標受眾。
 
-有數個屬性可供選擇。 在此示例中，我們選擇了Lead State _is_ California，而公司大小&#x200B;_大於_ 50。
+有數個屬性可供選擇。 在此範例中，我們鎖定在加州，在有超過50名員工的公司工作的所有已知銷售機會。
 
 1. 抓取「銷售機會狀態」屬性並將其拖曳至右側。
 
@@ -58,6 +58,10 @@ PICC
 
 PICC
 
+如何捕獲ANON線索
+
+注意 — 可能提到推斷的工作/顯示方式和使用案例，銷售機會電子郵件為空白
+
 ## 新增群組 {#add-groups}
 
 您也可以選擇將屬性分組，以備您想要擁有所有特定屬性以及其他屬性的「任何」時使用。
@@ -77,4 +81,24 @@ PICC
 
 >[!NOTE]
 >
->使用星號可當作全包王牌。 因此， `https://*.website.com`會將對話方塊放在網站的每個頁面上，包括子網域(例如：support.website.com)。 而`https://website.com/folder/*`會將對話方塊放在後續資料夾中的每個HTML頁面上(例如：在此案例中，假設資料夾為「sports」，因此：website.com/sports/baseball.html、website.com/sports/football.html等)。
+>使用星號可當作全包王牌。 因此， `https://*.website.com`會將對話方塊放在網站的每個頁面上，包括子網域(例如：`support.website.com`)。 而`https://website.com/folder/*`會將對話方塊放在後續資料夾中的每個HTML頁面上(例如：在此案例中，假設資料夾為「sports」，因此：website.com/sports/baseball.html、website.com/sports/football.html等)。
+
+## 串流設計工具 {#stream-designer}
+
+流設計器包含可添加的不同資訊卡，以形成聊天對話。
+
+表格
+
+訊息：當您想要做陳述而不需要回應時使用(例如：「嗨！ 使用代碼SAVE25，所有項目今天都可節省25%。」)
+
+問題：當您想要詢問多選題時使用，您會提供可用的回應(例如：你對哪種車感興趣？ 回應= SUV、小型車、卡車等)
+
+資訊捕獲：收集資訊時使用。 要選擇的三個欄位是「電子郵件地址」、「電話號碼」和「文字」（這可讓訪客自行撰寫訊息）。
+
+約會計畫程式：為訪客提供可用日期的日曆，以排程後續作業。 日曆可用性反映了[行](help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing)中的下一個代理。
+
+目標：這是訪客唯一看不到的卡片。 您可以決定在哪個時間點在特定聊天內達成目標(例如：如果收集訪客的電子郵件是您的目標，請將「目標」卡放在資料流中的「資訊擷取」之後。)
+
+可能的專屬區段
+
+顯示下面的示例

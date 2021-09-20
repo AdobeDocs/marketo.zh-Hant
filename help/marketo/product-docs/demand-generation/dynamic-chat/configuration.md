@@ -3,9 +3,9 @@ description: 設定 — Marketo檔案 — 產品檔案
 title: 設定
 hide: true
 hidefromtoc: true
-source-git-commit: ab594ddb7c416f7b6c98e2b4d3640a2db6208e69
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ PICC
 
 **代理設定**
 
-在「代理設定」中，指派專屬於chatbot的名稱（名稱會顯示在頂端）。 您也可以判斷回應延遲（以秒為單位），並變更您的聊天頭像。
+在「代理設定」中，您可以將標籤新增至您的動話方塊(例如：「Adobe機器人」)，會顯示在頂端。 您也可以判斷回應延遲（以秒為單位），並變更您的聊天頭像。
 
 設定名稱的PICC
 
