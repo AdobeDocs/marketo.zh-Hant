@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092893
-description: 範本19-B - Marketo檔案 — 產品檔案
-title: 模板19-B
+description: 範本19B - Marketo檔案 — 產品檔案
+title: 模板19B
 exl-id: 8224c9ad-b732-4a75-9966-446980db55ef
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 模板19-B {#template-b}
+# 模板19B {#template-19b}
 
-[下載範本19-B](https://docs.marketo.com/download/attachments/10092893/template-19b.html?version=1&amp;modificationdate=1441750370000&amp;api=v2)
+[下載模板19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
 
 ![](assets/image2015-9-16-16-3a49-3a50.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **按一下以下載此範本：**
 
-[Template19-B.html](https://docs.marketo.com/download/attachments/10092893/template-19b.html?version=1&amp;modificationdate=1441750370000&amp;api=v2)
+[模板19B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)

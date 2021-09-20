@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783987
-description: 範本9-C - Marketo檔案 — 產品檔案
-title: 模板9-C
+description: 範本9C - Marketo檔案 — 產品檔案
+title: 模板9C
 exl-id: 60c7b740-1b96-4ff1-92ba-05e573d513d1
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# 模板9-C {#template-c}
+# 模板9C {#template-9c}
 
-[下載模板9-C](https://docs.marketo.com/download/attachments/8783987/template-9c.html?version=2&amp;modificationdate=1438210724000&amp;api=v2)
+[下載模板9C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)
 
 ![](assets/image2015-7-28-15-3a35-3a30.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **按一下以下載此範本：**
 
-[Template9-C.html](https://docs.marketo.com/download/attachments/8783987/template-9c.html?version=2&amp;modificationdate=1438210724000&amp;api=v2)
+[模板9C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)

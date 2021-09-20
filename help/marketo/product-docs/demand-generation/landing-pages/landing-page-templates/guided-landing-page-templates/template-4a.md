@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8162237
-description: 範本4-A - Marketo檔案 — 產品檔案
-title: 模板4-A
+description: 範本4A - Marketo檔案 — 產品檔案
+title: 範本4A
 exl-id: a20817e4-dbdd-4f08-9b4e-602da6b75d70
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 模板4-A {#template-a}
+# 範本4A {#template-4a}
 
-[下載範本4-A](https://docs.marketo.com/download/attachments/8162237/template-4a.html?version=1&amp;modificationdate=1435255108000&amp;api=v2)
+[下載範本4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
 
 ![](assets/image2015-6-29-16-3a2-3a6.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **按一下以下載此範本：**
 
-[Template4-A.html](https://docs.marketo.com/download/attachments/8162237/template-4a.html?version=1&amp;modificationdate=1435255108000&amp;api=v2)
+[範本4A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)

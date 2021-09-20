@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783969
-description: 範本8-D - Marketo檔案 — 產品檔案
-title: 模板8-D
+description: 範本8D - Marketo檔案 — 產品檔案
+title: 模板8D
 exl-id: 09c22a82-fc20-4b6e-b60b-714dccaae175
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 模板8-D {#template-d}
+# 模板8D {#template-8d}
 
-[下載模板8-D](https://docs.marketo.com/download/attachments/8783969/template-8d.html?version=1&amp;modificationdate=1482175093000&amp;api=v2)
+[下載模板8D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html)
 
 ![](assets/image2015-7-29-14-3a28-3a56.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **按一下以下載此範本：**
 
-[Template8-D.html](https://docs.marketo.com/download/attachments/8783969/template-8d.html?version=1&amp;modificationdate=1482175093000&amp;api=v2)
+[範本8D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html)

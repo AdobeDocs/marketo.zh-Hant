@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8162246
-description: 範本6-A - Marketo檔案 — 產品檔案
-title: 模板6-A
+description: 範本6A - Marketo檔案 — 產品檔案
+title: 範本6A
 exl-id: 7bfc6301-f012-4865-a592-6dc5f60469d3
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# 模板6-A {#template-a}
+# 範本6A {#template-6a}
 
-[下載範本6-A](https://docs.marketo.com/download/attachments/8162246/template-6a.html?version=1&amp;modificationdate=1437692839000&amp;api=v2)
+[下載範本6A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
 
 ![](assets/image2015-6-29-16-3a14-3a11.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **按一下以下載此範本：**
 
-[Template6-A.html](https://docs.marketo.com/download/attachments/8162246/template-6a.html?version=1&amp;modificationdate=1437692839000&amp;api=v2)
+[範本5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)

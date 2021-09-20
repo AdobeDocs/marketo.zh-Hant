@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783929
-description: 範本6-B - Marketo檔案 — 產品檔案
-title: 模板6-B
+description: 範本6B - Marketo檔案 — 產品檔案
+title: 模板6B
 exl-id: dea92a6b-d2ba-4b64-86e5-5a4366e164fd
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 模板6-B {#template-b}
+# 模板6B {#template-6b}
 
-[下載範本6-B](https://docs.marketo.com/download/attachments/8783929/template-6b.html?version=1&amp;modificationdate=1437693110000&amp;api=v2)
+[下載範本6B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)
 
 ![](assets/image2015-7-29-11-3a33-3a2.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **按一下以下載此範本：**
 
-[Template6-B.html](https://docs.marketo.com/download/attachments/8783929/template-6b.html?version=1&amp;modificationdate=1437693110000&amp;api=v2)
+[範本6B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)

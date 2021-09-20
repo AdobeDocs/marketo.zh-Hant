@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437807
-description: 範本14-C - Marketo檔案 — 產品檔案
-title: 模板14-C
+description: 範本14C - Marketo檔案 — 產品檔案
+title: 模板14C
 exl-id: d8a66bbc-9795-42d3-81fc-d70039856f92
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 模板14-C {#template-c}
+# 模板14C {#template-14c}
 
-[下載模板14-C](https://docs.marketo.com/download/attachments/9437807/template-14c.html?version=1&amp;modificationdate=1438980264000&amp;api=v2)
+[下載模板14C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)
 
 ![](assets/image2015-8-11-17-3a23-3a54.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **按一下以下載此範本：**
 
-[Template14-C.html](https://docs.marketo.com/download/attachments/9437807/template-14c.html?version=1&amp;modificationdate=1438980264000&amp;api=v2)
+[範本14C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)

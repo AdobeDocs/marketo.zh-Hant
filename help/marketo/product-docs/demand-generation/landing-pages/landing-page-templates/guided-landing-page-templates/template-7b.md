@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783944
-description: 範本7-B - Marketo檔案 — 產品檔案
-title: 模板7-B
+description: 範本7B - Marketo檔案 — 產品檔案
+title: 模板7B
 exl-id: 80df3bd3-878a-4de1-a804-98ec062c533c
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 模板7-B {#template-b}
+# 模板7B {#template-7b}
 
-[下載範本7-B](https://docs.marketo.com/download/attachments/8783944/template-7b.html?version=1&amp;modificationdate=1437693320000&amp;api=v2)
+[下載模板7B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html)
 
 ![](assets/image2015-7-29-15-3a13-3a3.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **按一下以下載此範本：**
 
-[Template7-B.html](https://docs.marketo.com/download/attachments/8783944/template-7b.html?version=1&amp;modificationdate=1437693320000&amp;api=v2)
+[範本7B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html)

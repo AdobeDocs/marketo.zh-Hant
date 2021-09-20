@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437586
-description: 範本12-E - Marketo檔案 — 產品檔案
-title: 模板12-E
+description: 範本12E - Marketo檔案 — 產品檔案
+title: 模板12E
 exl-id: fc330e23-9247-4565-a607-0c10d3ef89c6
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 模板12-E {#template-e}
+# 模板12E {#template-12e}
 
-[下載範本12-E](https://docs.marketo.com/download/attachments/9437586/template-12e.html?version=1&amp;modificationdate=1438211652000&amp;api=v2)
+[下載模板12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
 
 ![](assets/image2015-8-4-14-3a45-3a47.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **按一下以下載此範本：**
 
-[Template12-E.html](https://docs.marketo.com/download/attachments/9437586/template-12e.html?version=1&amp;modificationdate=1438211652000&amp;api=v2)
+[範本12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)

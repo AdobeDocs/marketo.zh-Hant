@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8784002
-description: 範本10-B - Marketo檔案 — 產品檔案
-title: 模板10-B
+description: 範本10B - Marketo檔案 — 產品檔案
+title: 模板10B
 exl-id: 6c99a6cd-6c6f-45a3-aed0-b7a0c198dffe
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# 模板10-B {#template-b}
+# 模板10B {#template-10b}
 
-[下載範本10-B](https://docs.marketo.com/download/attachments/8784002/template-10b.html?version=2&amp;modificationdate=1438210889000&amp;api=v2)
+[下載範本10B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html)
 
 ![](assets/image2015-7-27-10-3a48-3a23.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **按一下以下載此範本：**
 
-[Template10-B.html](https://docs.marketo.com/download/attachments/8784002/template-10b.html?version=2&amp;modificationdate=1438210889000&amp;api=v2)
+[範本10B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html)
