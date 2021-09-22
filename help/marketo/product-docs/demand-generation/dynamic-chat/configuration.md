@@ -3,9 +3,9 @@ description: 設定 — Marketo檔案 — 產品檔案
 title: 設定
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ PICC（全動話）
 
 **樣式**
 
-樣式可讓您挑選所需的顏色、動話方塊錨點位置/邊框間距，以及字型類型/大小。
+您將在此處定義將顯示對話方塊的聊天機器人的外觀和風格，包括：顏色、字型、機器人介面工具集的放置，以及聊天機器人的名稱/頭像。
 
 每個類別的顏色由[十六進位顏色值](https://color.adobe.com/create/color-wheel)(例如，白色= #ffffff、紅色= #bf1932等)決定。
 
@@ -50,13 +50,13 @@ PICC
 
 ## 隱私權標籤 {#privacy-tab}
 
-按一下&#x200B;**Privacy**&#x200B;標籤以新增/編輯您網站的隱私權原則的URL。
+按一下&#x200B;**Privacy**&#x200B;標籤以新增/編輯您網站的隱私權原則的URL（選用）。
 
 PICC
 
 ## 「安裝」頁簽 {#installation-tab}
 
-按一下&#x200B;**Installation**&#x200B;標籤，以抓取網站開發團隊需要放置的指令碼。
+若要讓聊天機器人顯示在您的網站上，您必須先安裝動態聊天JavaScript程式碼片段。 按一下此標籤可尋找/複製必要的程式碼。 如果您不熟悉此操作，請聯繫您的Web團隊或IT部門尋求幫助。
 
 PICC
 

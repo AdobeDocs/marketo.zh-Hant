@@ -2,9 +2,9 @@
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '909'
 ht-degree: 0%
 
 ---
@@ -81,4 +81,4 @@ ht-degree: 0%
 
 ## 公告 {#announcements}
 
-* **訂閱通用ID設定的更新**:為支援現有使用者即將推出的Marketo Engage與Adobe身分整合，所有Marketo Engage訂閱將透過啟用通用ID支援統一。
+* **訂閱通用ID設定的更新**:為支援現有使用者即將推出的Marketo Engage與Adobe身分整合，所有Marketo Engage訂閱將透過啟用通用ID支援統一。如需詳細資訊，請前往](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)。[
