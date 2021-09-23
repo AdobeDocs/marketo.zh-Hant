@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
 workflow-type: tm+mt
-source-wordcount: '8097'
+source-wordcount: '8099'
 ht-degree: 0%
 
 ---
@@ -1697,75 +1697,76 @@ ht-degree: 0%
 + 發行說明{#release-notes}
    + [發行排程](release-notes/release-schedule.md)
    + [最新發行](release-notes/current.md)
-   + 2021年{#2021}
-      + [發行說明：』21年1月](release-notes/2021/release-notes-jan-21.md)
-      + [發行說明：』21年5月](release-notes/2021/release-notes-may-21.md)
-   + 2020年{#2020}
-      + [發行說明：』20年1月](release-notes/2020/release-notes-jan-20.md)
-      + [發行說明：』20年2月](release-notes/2020/release-notes-feb-20.md)
-      + [發行說明：』20年6月](release-notes/2020/release-notes-june-20.md)
-      + [發行說明：』20年7月](release-notes/2020/release-notes-july-20.md)
-      + [發行說明：』20年10月](release-notes/2020/release-notes-oct-20.md)
-   + 2019 {#2019}
-      + [發行說明：』19年8月](release-notes/2019/release-notes-august-19.md)
-      + [發行說明：』19年6月](release-notes/2019/release-notes-june-19.md)
-      + [發行說明：』19年春](release-notes/2019/release-notes-spring-19.md)
-      + [發行說明：』19年冬季](release-notes/2019/release-notes-winter-19.md)
-   + 2018年{#2018}
-      + [發行說明：』18年秋季](release-notes/2018/release-notes-fall-18.md)
-      + [發行說明：』18年春](release-notes/2018/release-notes-spring-18.md)
-      + [發行說明：』18年冬季](release-notes/2018/release-notes-winter-18.md)
-   + 2017年{#2017}
-      + [發行說明：』17年4月增強ABM](release-notes/2017/release-notes-april-17-abm-enhancements.md)
-      + [發行說明：』17年8月ABM增強功能](release-notes/2017/release-notes-august-17-abm-enhancements.md)
-      + [發行說明：』17年秋季](release-notes/2017/release-notes-fall-17.md)
-      + [發行說明：』17年春](release-notes/2017/release-notes-spring-17.md)
-      + [發行說明：』17年夏季](release-notes/2017/release-notes-summer-17.md)
-      + [發行說明：』17年冬季](release-notes/2017/release-notes-winter-17.md)
-   + 2016年{#2016}
-      + [發行說明：』16年秋季](release-notes/2016/release-notes-fall-16.md)
-      + [發行說明：』16年春](release-notes/2016/release-notes-spring-16.md)
-      + [發行說明：』16年夏季](release-notes/2016/release-notes-summer-16.md)
-      + [發行說明：』16年冬季](release-notes/2016/release-notes-winter-16.md)
-   + 2015年{#2015}
-      + [發行說明：2015年4月](release-notes/2015/release-notes-april-2015.md)
-      + [發行說明：』15年秋季](release-notes/2015/release-notes-fall-15.md)
-      + [發行說明：2015年2月](release-notes/2015/release-notes-february-2015.md)
-      + [發行說明：2015年1月](release-notes/2015/release-notes-january-2015.md)
-      + [發行說明：2015年7月](release-notes/2015/release-notes-july-2015.md)
-      + [發行說明：2015年6月](release-notes/2015/release-notes-june-2015.md)
-      + [發行說明：2015年3月](release-notes/2015/release-notes-march-2015.md)
-      + [發行說明：2015年5月](release-notes/2015/release-notes-may-2015.md)
-   + 2014年{#2014}
-      + [發行說明：2014年8月](release-notes/2014/release-notes-august-2014.md)
-      + [發行說明：2014年12月](release-notes/2014/release-notes-december-2014.md)
-      + [發行說明：2014年2月](release-notes/2014/release-notes-february-2014.md)
-      + [發行說明：2014年1月](release-notes/2014/release-notes-january-2014.md)
-      + [發行說明：2014年7月](release-notes/2014/release-notes-july-2014.md)
-      + [發行說明：2014年6月](release-notes/2014/release-notes-june-2014.md)
-      + [發行說明：2014年3月](release-notes/2014/release-notes-march-2014.md)
-      + [發行說明：2014年5月](release-notes/2014/release-notes-may-2014.md)
-      + [發行說明：2014年10月](release-notes/2014/release-notes-october-2014.md)
-   + 2013年{#2013}
-      + [發行說明：2013年4月](release-notes/2013/release-notes-april-2013.md)
-      + [發行說明：2013年8月](release-notes/2013/release-notes-august-2013.md)
-      + [發行說明：2013年12月](release-notes/2013/release-notes-december-2013.md)
-      + [發行說明：2013年2月](release-notes/2013/release-notes-february-2013.md)
-      + [發行說明：2013年1月](release-notes/2013/release-notes-january-2013.md)
-      + [發行說明：2013年7月](release-notes/2013/release-notes-july-2013.md)
-      + [發行說明：2013年6月](release-notes/2013/release-notes-june-2013.md)
-      + [發行說明：2013年3月](release-notes/2013/release-notes-march-2013.md)
-      + [發行說明：2013年5月](release-notes/2013/release-notes-may-2013.md)
-      + [發行說明：2013年10月](release-notes/2013/release-notes-october-2013.md)
-      + [發行說明：2013年9月](release-notes/2013/release-notes-september-2013.md)
-   + 2012年{#2012}
-      + [發行說明：2012年4月](release-notes/2012/release-notes-april-2012.md)
-      + [發行說明：2012年12月](release-notes/2012/release-notes-december-2012.md)
-      + [發行說明：2012年1月/2月](release-notes/2012/release-notes-jan-feb-2012.md)
-      + [發行說明：2012年6月](release-notes/2012/release-notes-june-2012.md)
-      + [發行說明：2012年3月](release-notes/2012/release-notes-march-2012.md)
-      + [發行說明：2012年5月](release-notes/2012/release-notes-may-2012.md)
-      + [發行說明：2012年10月](release-notes/2012/release-notes-october-2012.md)
-      + [發行說明：2012年9月](release-notes/2012/release-notes-september-2012.md)
-   + [2010-2011](release-notes/2010-2011.md)
-   + [2007-2009](release-notes/2007-2009.md)
+   + 上一版{#previous-releases}
+      + 2021年{#2021}
+         + [發行說明：』21年1月](previous-releases/release-notes/2021/release-notes-jan-21.md)
+         + [發行說明：』21年5月](previous-releases/release-notes/2021/release-notes-may-21.md)
+      + 2020年{#2020}
+         + [發行說明：』20年1月](previous-releases/release-notes/2020/release-notes-jan-20.md)
+         + [發行說明：』20年2月](previous-releases/release-notes/2020/release-notes-feb-20.md)
+         + [發行說明：』20年6月](previous-releases/release-notes/2020/release-notes-june-20.md)
+         + [發行說明：』20年7月](previous-releases/release-notes/2020/release-notes-july-20.md)
+         + [發行說明：』20年10月](previous-releases/release-notes/2020/release-notes-oct-20.md)
+      + 2019 {#2019}
+         + [發行說明：』19年8月](previous-releases/release-notes/2019/release-notes-august-19.md)
+         + [發行說明：』19年6月](previous-releases/release-notes/2019/release-notes-june-19.md)
+         + [發行說明：』19年春](previous-releases/release-notes/2019/release-notes-spring-19.md)
+         + [發行說明：』19年冬季](previous-releases/release-notes/2019/release-notes-winter-19.md)
+      + 2018年{#2018}
+         + [發行說明：』18年秋季](previous-releases/release-notes/2018/release-notes-fall-18.md)
+         + [發行說明：』18年春](previous-releases/release-notes/2018/release-notes-spring-18.md)
+         + [發行說明：』18年冬季](previous-releases/release-notes/2018/release-notes-winter-18.md)
+      + 2017年{#2017}
+         + [發行說明：』17年4月增強ABM](previous-releases/release-notes/2017/release-notes-april-17-abm-enhancements.md)
+         + [發行說明：』17年8月ABM增強功能](previous-releases/release-notes/2017/release-notes-august-17-abm-enhancements.md)
+         + [發行說明：』17年秋季](previous-releases/release-notes/2017/release-notes-fall-17.md)
+         + [發行說明：』17年春](previous-releases/release-notes/2017/release-notes-spring-17.md)
+         + [發行說明：』17年夏季](previous-releases/release-notes/2017/release-notes-summer-17.md)
+         + [發行說明：』17年冬季](previous-releases/release-notes/2017/release-notes-winter-17.md)
+      + 2016年{#2016}
+         + [發行說明：』16年秋季](previous-releases/release-notes/2016/release-notes-fall-16.md)
+         + [發行說明：』16年春](previous-releases/release-notes/2016/release-notes-spring-16.md)
+         + [發行說明：』16年夏季](previous-releases/release-notes/2016/release-notes-summer-16.md)
+         + [發行說明：』16年冬季](previous-releases/release-notes/2016/release-notes-winter-16.md)
+      + 2015年{#2015}
+         + [發行說明：2015年4月](previous-releases/release-notes/2015/release-notes-april-2015.md)
+         + [發行說明：』15年秋季](previous-releases/release-notes/2015/release-notes-fall-15.md)
+         + [發行說明：2015年2月](previous-releases/release-notes/2015/release-notes-february-2015.md)
+         + [發行說明：2015年1月](previous-releases/release-notes/2015/release-notes-january-2015.md)
+         + [發行說明：2015年7月](previous-releases/release-notes/2015/release-notes-july-2015.md)
+         + [發行說明：2015年6月](previous-releases/release-notes/2015/release-notes-june-2015.md)
+         + [發行說明：2015年3月](previous-releases/release-notes/2015/release-notes-march-2015.md)
+         + [發行說明：2015年5月](previous-releases/release-notes/2015/release-notes-may-2015.md)
+      + 2014年{#2014}
+         + [發行說明：2014年8月](previous-releases/release-notes/2014/release-notes-august-2014.md)
+         + [發行說明：2014年12月](previous-releases/release-notes/2014/release-notes-december-2014.md)
+         + [發行說明：2014年2月](previous-releases/release-notes/2014/release-notes-february-2014.md)
+         + [發行說明：2014年1月](previous-releases/release-notes/2014/release-notes-january-2014.md)
+         + [發行說明：2014年7月](previous-releases/release-notes/2014/release-notes-july-2014.md)
+         + [發行說明：2014年6月](previous-releases/release-notes/2014/release-notes-june-2014.md)
+         + [發行說明：2014年3月](previous-releases/release-notes/2014/release-notes-march-2014.md)
+         + [發行說明：2014年5月](previous-releases/release-notes/2014/release-notes-may-2014.md)
+         + [發行說明：2014年10月](previous-releases/release-notes/2014/release-notes-october-2014.md)
+      + 2013年{#2013}
+         + [發行說明：2013年4月](previous-releases/release-notes/2013/release-notes-april-2013.md)
+         + [發行說明：2013年8月](previous-releases/release-notes/2013/release-notes-august-2013.md)
+         + [發行說明：2013年12月](previous-releases/release-notes/2013/release-notes-december-2013.md)
+         + [發行說明：2013年2月](previous-releases/release-notes/2013/release-notes-february-2013.md)
+         + [發行說明：2013年1月](previous-releases/release-notes/2013/release-notes-january-2013.md)
+         + [發行說明：2013年7月](previous-releases/release-notes/2013/release-notes-july-2013.md)
+         + [發行說明：2013年6月](previous-releases/release-notes/2013/release-notes-june-2013.md)
+         + [發行說明：2013年3月](previous-releases/release-notes/2013/release-notes-march-2013.md)
+         + [發行說明：2013年5月](previous-releases/release-notes/2013/release-notes-may-2013.md)
+         + [發行說明：2013年10月](previous-releases/release-notes/2013/release-notes-october-2013.md)
+         + [發行說明：2013年9月](previous-releases/release-notes/2013/release-notes-september-2013.md)
+      + 2012年{#2012}
+         + [發行說明：2012年4月](previous-releases/release-notes/2012/release-notes-april-2012.md)
+         + [發行說明：2012年12月](previous-releases/release-notes/2012/release-notes-december-2012.md)
+         + [發行說明：2012年1月/2月](previous-releases/release-notes/2012/release-notes-jan-feb-2012.md)
+         + [發行說明：2012年6月](previous-releases/release-notes/2012/release-notes-june-2012.md)
+         + [發行說明：2012年3月](previous-releases/release-notes/2012/release-notes-march-2012.md)
+         + [發行說明：2012年5月](previous-releases/release-notes/2012/release-notes-may-2012.md)
+         + [發行說明：2012年10月](previous-releases/release-notes/2012/release-notes-october-2012.md)
+         + [發行說明：2012年9月](previous-releases/release-notes/2012/release-notes-september-2012.md)
+      + [2010-2011](previous-releases/release-notes/2010-2011.md)
+      + [2007-2009](previous-releases/release-notes/2007-2009.md)
