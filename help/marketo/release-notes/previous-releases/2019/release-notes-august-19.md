@@ -3,7 +3,7 @@ unique-page-id: 27656786
 description: 發行說明 — 2019年8月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2019年8月
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 76cea113ddff730e1ad30d0e1fea801053ba4d98
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## 核心Marketo Engage {#core-marketo-engage}
 
-* **可延伸網路研討會架構**:Marketo的全新現成網路研討會架構(於』19年冬季發行說明中推出，可順 [暢地將資料從網路](/help/marketo/release-notes/2019/release-notes-winter-19.md) 研討會提供者傳遞至Marketo，反之亦然。這個新架構現在提供「事件」和「縮放」。
+* **可延伸網路研討會架構**:Marketo的全新現成網路研討會架構（於』19年冬季發行說明中推出）可節省時間，將資料從網路研討會提供者順暢地傳遞至Marketo，反之亦然。這個新架構現在提供「事件」和「縮放」。
 * **智慧型促銷活動API更新**:在整合CRUD（建立、讀取、更新、刪除）介面時，管理智慧型促銷活動生命週期功能。
 * **更新電子郵件標題API變更**:「更新電子郵件標題API」不再要求電子郵件附加範本以更新標題欄位，例如主旨行。
 
