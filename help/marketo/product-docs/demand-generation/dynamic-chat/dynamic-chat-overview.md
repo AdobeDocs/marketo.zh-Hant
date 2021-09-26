@@ -3,9 +3,9 @@ description: Dynamic Chat概述 — Marketo檔案 — 產品檔案
 title: 動態聊天概述
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -78,17 +78,9 @@ PICC?
 
  — 有沒有？ 洛爾……
 
-**可以使用CSS來設定章節樣式嗎？**
-
-目前無法使用CSS來設定章節。
-
-**我可以使用自訂字型選項嗎？**
-
-目前僅提供預設字型選項。
-
 **動態聊天是否允許即時聊天？**
 
-不，只有預先決定的回應。
+不會，它只會使用預先決定的回應。
 
 **您是否支援AI/NLP功能？**
 

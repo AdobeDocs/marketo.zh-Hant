@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: ff87419faf7a8cbe59ce781b892083475476ce61
+source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
 workflow-type: tm+mt
 source-wordcount: '8099'
 ht-degree: 0%
@@ -399,7 +399,7 @@ ht-degree: 0%
          + 靜態清單{#static-lists}
             + [建立靜態清單](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [傳送清單至Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
-            + [推送Adobe Experience Cloud區段至Marketo靜態清單](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list.md)
+            + [推送Adobe Experience Platform區段至Marketo靜態清單](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)
             + [了解靜態清單](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + 程式{#programs}
          + 建立程式{#creating-programs}
