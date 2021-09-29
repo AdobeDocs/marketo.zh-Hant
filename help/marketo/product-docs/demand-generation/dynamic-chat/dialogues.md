@@ -3,9 +3,9 @@ description: 對話方塊 — Marketo檔案 — 產品檔案
 title: 對話方塊
 hide: true
 hidefromtoc: true
-source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
+source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '752'
 ht-degree: 0%
 
 ---
@@ -139,7 +139,9 @@ ht-degree: 0%
 
 **建立資料流**
 
-要建立的許多&#x200B;_資料流組合。_&#x200B;在此範例中，我們會提出問題並準備。
+要建立的許多&#x200B;_資料流組合。_&#x200B;在此範例中，我們會詢問是或否問題，並準備一些回應。
+
+範例
 
 ## 報表 {#reports}
 
