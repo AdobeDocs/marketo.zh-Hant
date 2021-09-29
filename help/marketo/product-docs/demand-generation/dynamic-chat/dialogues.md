@@ -3,9 +3,9 @@ description: 對話方塊 — Marketo檔案 — 產品檔案
 title: 對話方塊
 hide: true
 hidefromtoc: true
-source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->優先順序層級決定對話方塊出現在清單上的位置(例如：優先順序1表示它將處於最高位)。
+>優先順序決定當訪客同時符合多個對話方塊的資格時，將向訪客顯示哪個對話方塊。
 
 ## 對象條件 {#audience-criteria}
 

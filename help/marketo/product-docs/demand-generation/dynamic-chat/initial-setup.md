@@ -3,9 +3,9 @@ description: 初始設定 — Marketo檔案 — 產品檔案
 title: 初始設定
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 在Marketo中新增權限 {#add-permissions-in-marketo}
 
-在Admin Console中新增使用者後，您必須在Marketo中授與權限。
+在中Admin Console中新增使用者後，您必須在Marketo中授與權限，才能讓使用者存取Marketo中的動態聊天快速鍵。
 
 1. 在Marketo中，按一下&#x200B;**管理**。
 
@@ -46,4 +46,4 @@ ht-degree: 0%
 >
 >請務必依照上述順序執行步驟。 如果先有人獲得Marketo的權限，他們會看到「動態聊天」圖磚，但沒有使用者存取權。
 
-下一步是[訪問動態聊天](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)。
+下一步是將[Dynamic Chat連接到Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)。
