@@ -3,16 +3,18 @@ description: 初始設定 — Marketo檔案 — 產品檔案
 title: 初始設定
 hide: true
 hidefromtoc: true
-source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
+source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
 # 初始設定 {#initial-setup}
 
-簡介文本
+## 存取Admin Console {#access-admin-console}
+
+請依照下列步驟設定動態聊天。
 
 >[!NOTE]
 >
@@ -20,16 +22,28 @@ ht-degree: 0%
 
 1. 為您的Marketo執行個體啟用動態聊天后，指定的系統管理員將會收到歡迎電子郵件。 在該電子郵件中，按一下&#x200B;**開始**。
 
-   PICC
+   ![](assets/initial-setup-1.png)
 
 1. 如果您先前曾使用Adobe ID存取應用程式，系統會將您直接帶往Adobe Admin Console。 否則，請[設定您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)。
 
-   PICC
+   ![](assets/initial-setup-2.png)
 
-1. 新增使用者（後續步驟）
+## 新增使用者 {#add-users}
 
-第二個動作步驟 — 在Marketo中 — 在Admin Console中新增使用者後，使用者會返回Marketo（使用者和角色），並為所有代理新增DC權限[COMMING LATE OCT，沒有螢幕擷取]
+1. 登入Admin Console後，下一步是新增使用者。 我們將此進程[記錄在這裡](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user)。
 
->[!NOTE]
+## 在Marketo中新增權限 {#add-permissions-in-marketo}
+
+在Admin Console中新增使用者後，您必須在Marketo中授與權限。
+
+1. 在Marketo中，按一下&#x200B;**管理**。
+
+1. 尋找所需使用者，然後按兩下。
+
+1. 添加&#x200B;**訪問動態聊天**，然後按一下&#x200B;**保存**。
+
+>[!IMPORTANT]
 >
->請務必依所列順序執行步驟。 如果先有人獲得Marketo的權限，他們會看到「動態聊天」圖磚，但沒有使用者存取權。
+>請務必依照上述順序執行步驟。 如果先有人獲得Marketo的權限，他們會看到「動態聊天」圖磚，但沒有使用者存取權。
+
+下一步是[訪問動態聊天](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)。

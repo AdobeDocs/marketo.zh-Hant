@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
+source-git-commit: 3a3002c7669ea084ea1a953d182bbaa4fcf93167
 workflow-type: tm+mt
-source-wordcount: '8099'
+source-wordcount: '8102'
 ht-degree: 0%
 
 ---
@@ -620,10 +620,11 @@ ht-degree: 0%
          + [傳送清單至廣告網路](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + 動態聊天{#dynamic-chat}
          + [動態聊天概述](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
-         + [對話方塊](product-docs/demand-generation/dynamic-chat/dialogues.md)
-         + [設定](product-docs/demand-generation/dynamic-chat/configuration.md)
-         + [添加或刪除聊天用戶](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [初始設定](product-docs/demand-generation/dynamic-chat/initial-setup.md)
+         + [訪問動態聊天](product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)
+         + [添加或刪除聊天用戶](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
+         + [設定](product-docs/demand-generation/dynamic-chat/configuration.md)
+         + [對話方塊](product-docs/demand-generation/dynamic-chat/dialogues.md)
       + 事件{#events}
          + 了解事件{#understanding-events}
             + [向事件程式添加成員](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)

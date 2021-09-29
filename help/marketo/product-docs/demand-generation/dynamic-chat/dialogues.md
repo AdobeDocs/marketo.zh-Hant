@@ -3,9 +3,9 @@ description: 對話方塊 — Marketo檔案 — 產品檔案
 title: 對話方塊
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ PICC
 
 >[!NOTE]
 >
->說明優先順序層級
+>優先順序層級決定對話方塊在清單上的顯示位置(例如：priority = 1表示會排在最上方)。
 
 ## 對象條件 {#audience-criteria}
 
@@ -114,3 +114,7 @@ PICC
 可能的專屬區段
 
 顯示下面的示例
+
+## 報表 {#reports}
+
+文字

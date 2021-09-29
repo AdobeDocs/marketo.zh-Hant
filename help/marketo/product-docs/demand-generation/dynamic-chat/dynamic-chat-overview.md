@@ -3,9 +3,9 @@ description: Dynamic Chat概述 — Marketo檔案 — 產品檔案
 title: 動態聊天概述
 hide: true
 hidefromtoc: true
-source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
+source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -18,37 +18,9 @@ ht-degree: 0%
 >
 >Dynamic Chat目前正在推出，所有訂閱由於依DATE擁有存取權，
 
-## 設定動態聊天 {#access-dynamic-chat}
-
-新增圖磚後……請依照下列步驟開始使用。
-
-1. 在「我的Marketo」中，按一下「動態聊天&#x200B;**」表徵圖。**
-
-   PICC
-
-   >[!NOTE]
-   >
-   >如果你沒看見……請聯絡您的Marketo管理員)。
-
-1. 如果您先前曾使用Adobe ID存取應用程式，系統會直接將您帶至動態聊天。 否則，請[設定您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)。
-
-   PICC
-
-1. 若要連線您的Marketo執行個體，請選取&#x200B;**整合**。
-
-   PICC
-
-1. 按一下？在此處插入文本？。
-
-   PICC
-
-   >[!NOTE]
-   >
-   >同步可能需要5分鐘到8小時的時間，具體取決於資料庫的大小。 平均同步時間為60分鐘。
-
 ## 整合 {#integrations}
 
-整合是您在存取動態聊天時要造訪的第一個標籤。 您可在此同步Marketo訂閱，以利用Marketo資料庫資料識別網站/聊天訪客（[請參閱上述步驟3](#access-dynamic-chat)）。
+Dynamic Chat的一個關鍵元件是其與Marketo訂閱原生介面的功能。 若要充分運用這項整合的完整功能，您必須先啟動資料同步。 完成初始的[一次同步](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)最多需要24小時。
 
 ## 對話方塊 {#dialogues}
 
@@ -68,23 +40,27 @@ ht-degree: 0%
 
 這是網站訪客透過各種對話方塊排程的所有約會。 在此，您將找到預訂約會的主管的電子郵件地址、他們與哪個座席預訂約會、計畫約會的時間以及會議是否已發生。
 
-PICC?
-
 ## 路由 {#routing}
 
 在這裡，您可以看到所有已連接其日曆的座席的清單，以及將向網站訪客顯示的順序。會議會按循序方式進行，因此，如果您有五個座席和三個座席參加了最後一次會議，則四座座席將得到下一個，然後是五座，然後返回一座座席。
 
 ## 常見問題集 {#faq}
 
- — 有沒有？ 洛爾……
-
 **動態聊天是否允許即時聊天？**
 
 不會，它只會使用預先決定的回應。
 
+**如何鎖定匿名的線索？**
+
+在對話方塊中，您需要使用&#x200B;_Lead Email is Empty_&#x200B;屬性。
+
 **您是否支援AI/NLP功能？**
 
 我們不支援AI/NLP功能。
+
+**資料儲存多久以用於報告？**
+
+90天。
 
 **Dynamic Chat除了英文以外還提供任何語言嗎？**
 
