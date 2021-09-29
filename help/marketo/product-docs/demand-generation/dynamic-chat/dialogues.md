@@ -3,16 +3,16 @@ description: 對話方塊 — Marketo檔案 — 產品檔案
 title: 對話方塊
 hide: true
 hidefromtoc: true
-source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
+source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
 
 # 對話方塊 {#dialogues}
 
-對話是您將設定的個別聊天對話。 了解如何以視覺化方式自訂頁面、決定其上顯示的頁面，以及決定說明的內容以及看見者。
+對話是個別的聊天對話。 了解如何以視覺化方式自訂頁面、決定其上顯示的頁面，以及決定說明的內容以及看見者。
 
 ## 建立新對話方塊 {#create-a-new-dialogue}
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->優先順序層級決定對話方塊出現在清單上的位置(例如：priority = 1表示會排在最上方)。
+>優先順序層級決定對話方塊出現在清單上的位置(例如：優先順序1表示它將處於最高位)。
 
 ## 對象條件 {#audience-criteria}
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >解釋。
+   >當有人造訪您的網站時，[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)會將其加入系統。 我們在一個特殊資料庫中查找他們的IP，並推斷出各種好的資訊……
 
 1. __ Isis預設設定。在「選取值」欄位中，輸入NY（您也可以按一下下拉式清單，然後從清單中選取）。
 
@@ -137,8 +137,38 @@ ht-degree: 0%
  </tr>
 </table>
 
-顯示下面的示例
+**建立資料流**
+
+要建立的許多&#x200B;_資料流組合。_&#x200B;在此範例中，我們會提出問題並準備。
 
 ## 報表 {#reports}
 
-文字
+在「報表」標籤中，檢視過去90天的資料。 每個類別的定義如下。
+
+<table>
+ <tr>
+  <td><strong>觸發總計</strong></td>
+  <td>每次訪客符合/顯示對話方塊時增加。
+</td>
+ </tr>
+ <tr>
+  <td><strong>參與</strong></td>
+  <td>每次訪客點按動作機器人錨點以開啟對話方塊時增量。</td>
+ </tr>
+ <tr>
+  <td><strong>已完成</strong></td>
+  <td>每次訪客到達對話方塊中任何分支的結尾時增加。</td>
+ </tr>
+ <tr>
+  <td><strong>已捕獲的銷售機會</strong></td>
+  <td>每次訪客在對話方塊流程中提供有效電子郵件地址時增加。</td>
+ </tr>
+ <tr>
+  <td><strong>已預訂的會議</strong></td>
+  <td>每次訪客透過動作機器人成功排程約會時增加。</td>
+ </tr>
+ <tr>
+  <td><strong>已達目標</strong></td>
+  <td>在任何對話方塊流程中，每當訪客達到目標時增加。</td>
+ </tr>
+</table>
