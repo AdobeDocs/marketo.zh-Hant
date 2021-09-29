@@ -3,7 +3,7 @@ description: Dynamic Chat概述 — Marketo檔案 — 產品檔案
 title: 動態聊天概述
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: afc7c8352b4470bfc367f3d16836fb14d55b8821
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## 整合 {#integrations}
 
-Dynamic Chat的一個關鍵元件是其與Marketo訂閱原生介面的功能。 若要充分運用這項整合的完整功能，您必須先啟動資料同步。 根據Marketo資料庫的大小，初始資料[一次同步](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)最多可能需要24小時才能完成。 平均同步時間不到2小時。
+Dynamic Chat的一個關鍵元件是其與Marketo訂閱原生介面的功能。 若要充分運用這項整合的完整功能，您必須先啟動資料同步。 根據Marketo資料庫的大小，初始資料[一次同步](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)最多可能需要24小時才能完成。 平均同步時間不到2小時。
 
 已同步下列項目：
 
