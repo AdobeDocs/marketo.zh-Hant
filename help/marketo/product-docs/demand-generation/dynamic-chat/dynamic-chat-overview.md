@@ -3,9 +3,9 @@ description: Dynamic Chat概述 — Marketo檔案 — 產品檔案
 title: 動態聊天概述
 hide: true
 hidefromtoc: true
-source-git-commit: afc7c8352b4470bfc367f3d16836fb14d55b8821
+source-git-commit: b6f0b24ef1e9cece06f44ae11d432291b8ac0425
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->動態聊天正在逐步推出，所有訂閱都將在2022年春季前擁有存取權。 如需詳細資訊，請連絡您的客戶成功經理。
+>Dynamic Chat正在逐步推出，目前可用性有限。 本頁將隨正式發行(GA)詳細資訊的提供而更新。
 
 ## 整合 {#integrations}
 
