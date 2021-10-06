@@ -3,7 +3,7 @@ unique-page-id: 4720476
 description: 傳統圖示字彙表 — Marketo檔案 — 產品檔案
 title: 傳統表徵圖辭匯表
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: b76fbbafb96fc0d946dfd88d3dada9a0dccffbc4
 workflow-type: tm+mt
 source-wordcount: '562'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 傳統表徵圖辭匯表 {#classic-icon-glossary}
 
-以下是Marketo Classic的舊表徵圖。 新表徵圖辭匯表可以是[，可在此處找到](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)。
+以下是Marketo Classic的舊表徵圖。 新表徵圖辭匯表可以是[，可在此處找到](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md)。
 
 **常規表徵圖**
 
