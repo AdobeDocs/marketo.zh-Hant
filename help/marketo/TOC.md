@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
 workflow-type: tm+mt
-source-wordcount: '8104'
+source-wordcount: '8101'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
    + [快速入門](getting-started.md)
    + [什麼是AdobeMarketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
    + [Marketo字彙表](getting-started/marketo-glossary.md)
-   + [圖示字彙表](getting-started/icon-glossary.md)
+   + [傳統表徵圖辭匯表](getting-started/classic-icon-glossary.md)
    + 設定{#setup}
       + [設定步驟](getting-started/setup-steps.md)
       + [設定檢查清單](getting-started/setup-steps/setup-checklist.md)
@@ -137,7 +137,7 @@ ht-degree: 0%
          + [全域表單驗證規則](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + 其他整合{#additional-integrations}
          + [將Adobe Connect新增為LaunchPoint服務](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-         + [使用管理員帳戶將Google AdWords新增為Launchpoint Service](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
+         + [以Manager帳戶將Google AdWords新增為Launchpoint服務](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
          + [將Google AdWords新增為LaunchPoint服務](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
          + [將GoTo網路研討會新增為LaunchPoint服務](product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
          + [將第3級Web會議添加為LaunchPoint服務](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
@@ -192,7 +192,7 @@ ht-degree: 0%
          + [匯出所有Marketo API欄位名稱的清單](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [資料用於欄位的匯出](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [隱藏和取消隱藏欄位](product-docs/administration/field-management/hide-and-unhide-a-field.md)
-         + [HTML將電子郵件中的代號編碼](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
+         + [HTML將電子郵件中的Token編碼](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [將欄位標示為敏感](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
          + [重新命名欄位](product-docs/administration/field-management/rename-a-field.md)
          + [了解系統管理欄位](product-docs/administration/field-management/understanding-system-managed-fields.md)
@@ -341,9 +341,9 @@ ht-degree: 0%
             + [更改計畫成員資料](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)
          + Microsoft Dynamics流操作{#microsoft-dynamics-flow-actions}
             + [從Dynamics促銷活動中新增或移除人員](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
-            + [在Microsoft中更改所有者](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
+            + [變更擁有者(在Microsoft)](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
             + [在Microsoft中建立任務](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
-            + [將人員同步到Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
+            + [將人員同步至Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
          + Salesforce流操作{#salesforce-flow-actions}
             + [添加到SFDC促銷活動](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)
             + [更改所有者](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
@@ -513,17 +513,17 @@ ht-degree: 0%
       + Microsoft Dynamics同步{#microsoft-dynamics}
          + [了解Microsoft Dynamics同步](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
          + [Marketo Dynamics外掛程式版本](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
-         + [Microsoft Dynamics MSI的插件版本](product-docs/crm-sync/microsoft-dynamics-sync/plug-in-releases-for-microsoft-dynamics-msi.md)
+         + [Microsoft Dynamics MSI的外掛程式發行](product-docs/crm-sync/microsoft-dynamics-sync/plug-in-releases-for-microsoft-dynamics-msi.md)
          + [修正Dynamics驗證同步問題](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + 同步設定{#sync-setup}
             + [下載Marketo銷售機會管理解決方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
-            + [更新Microsoft Dynamics的Marketo解決方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
+            + [更新適用於Microsoft Dynamics的Marketo解決方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [驗證Microsoft Dynamics同步](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [查看組織服務URL](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011內部部署{#microsoft-dynamics-2011-on-premises}
                + [第1步（共3步）:安裝Marketo解決方案（2011年內部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
                + [第2步（共3步）:在Dynamics中設定Marketo同步使用者（2011年內部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
-               + [第3步（共3步）:將Microsoft Dynamics與Marketo連接（2011內部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
+               + [第3步（共3步）:將Microsoft Dynamics與Marketo連線（2011年內部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 2013內部部署{#microsoft-dynamics-2013-on-premises}
                + [第1步（共3步）:在Dynamics（2013內部部署）中安裝Marketo解決方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
                + [第2步（共3步）:為Marketo配置同步用戶（2013年內部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
@@ -535,12 +535,12 @@ ht-degree: 0%
             + Microsoft Dynamics 365 {#microsoft-dynamics-365}
                + [第1步（共3步）:安裝Marketo解決方案（線上）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
                + [第2步（共3步）:在Dynamics中設定Marketo同步使用者](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
-               + [第3步（共3步）:將Microsoft Dynamics與Marketo連接（線上）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+               + [第3步（共3步）:將Microsoft Dynamics與Marketo連線（線上）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
             + 設定Dynamics {#set-up-oauth-authentication-for-dynamics}的OAuth驗證
                + [授予用戶端Id和應用程式註冊的同意](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
-               + [設定Microsoft Dynamics CRM應用程式以聯機](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
+               + [設定Microsoft Dynamics CRM應用程式以進行線上](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [為內部部署設定Microsoft Dynamics CRM應用程式](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
-               + [為Azure AD Federated設定MSD，並預裝AD FS、租戶和Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
+               + [為Azure AD Federated設定MSD，並預裝AD FS、租用戶和Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
          + Microsoft Dynamics同步詳細資訊{#microsoft-dynamics-sync-details}
             + [預設動態欄位映射](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics同步：帳戶同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
@@ -548,7 +548,7 @@ ht-degree: 0%
             + [Microsoft Dynamics同步：自訂實體同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
             + [為自訂實體啟用同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md)
             + [Microsoft Dynamics同步：欄位同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync.md)
-            + [對新自定義欄位使用與Microsoft Dynamics的快速同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
+            + [對新的自訂欄位使用與Microsoft Dynamics的快速同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
             + [在Dynamics中刪除欄位之前編輯要同步的欄位](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)
             + [Microsoft Dynamics同步：銷售機會同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
             + [在Microsoft Dynamics中建立連絡人](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md)
@@ -615,7 +615,7 @@ ht-degree: 0%
       + 廣告網路整合{#ad-network-integrations}
          + [了解廣告網路整合](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [將Facebook自訂對象新增為LaunchPoint服務](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
-         + [將Google Customer Match新增為LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
+         + [將Google客戶比對新增為LaunchPoint服務](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [將LinkedIn相符的對象新增為LaunchPoint服務](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [傳送清單至廣告網路](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + 動態聊天{#dynamic-chat}
@@ -1059,7 +1059,7 @@ ht-degree: 0%
          + [Email CC](product-docs/email-marketing/general/email-cc.md)
    + Marketo Engage新一代體驗{#marketo-engage-next-generation-experience}
       + [概述](product-docs/marketo-engage-next-generation-experience/overview.md)
-      + [新增圖示字彙表](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+      + [圖示字彙表](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
       + [使用全域搜尋](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + 入門{#getting-started}
@@ -1075,7 +1075,6 @@ ht-degree: 0%
             + [驗證您的電子郵件](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
       + 管理員{#admin}
          + [其他管理員](product-docs/marketo-sales-connect/admin/additional-admins.md)
-         + [管理設定標籤](product-docs/marketo-sales-connect/admin/admin-settings-tab.md)
          + [阻止的域](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [內容鎖定](product-docs/marketo-sales-connect/admin/content-lockdown.md)
          + [建立子團隊](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
@@ -1300,7 +1299,7 @@ ht-degree: 0%
          + [在Marketo中記錄來自您銷售機會的傳入郵件](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome外掛程式{#msi-chrome-plugin}
          + [安裝Google Chrome適用的Marketo Insights](product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
-         + [使用Google Chrome適用的Marketo Insights](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+         + [使用Marketo Insights for Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
          + [在Google Mail中檢視人員和帳戶資訊與活動](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
       + Microsoft Dynamics的MSI {#msi-for-microsoft-dynamics}
          + [功能概述](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/feature-overview.md)
@@ -1310,7 +1309,7 @@ ht-degree: 0%
             + [在Microsoft Dynamics 2013中安裝及設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
             + [在Microsoft Dynamics 2015中安裝及設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
             + [在Microsoft Dynamics 365中安裝及設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md)
-            + [在Microsoft Dynamics Online中安裝和配置Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
+            + [在Microsoft Dynamics Online中安裝和設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
          + 設定和使用{#setting-up-and-using}
             + [從Microsoft Dynamics將銷售機會/連絡人新增至Marketo促銷活動](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
             + [將Marketo與Dynamics同步的必填欄位](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)

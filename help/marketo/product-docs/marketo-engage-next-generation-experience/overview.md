@@ -2,10 +2,10 @@
 description: 概述 — Marketo檔案 — 產品檔案
 title: 概述
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
+source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '491'
+ht-degree: 1%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 **表徵圖**
 
-新的介面功能改進和擴展了影像。 請前往這裡了解這些項目：[新圖示字彙表](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)。
+新的介面功能改進和擴展了影像。 請前往這裡了解這些項目：[圖示字彙表](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md)。
 
 ![](assets/overview-new-icons.png)
 
@@ -183,7 +183,7 @@ ht-degree: 0%
 <table> 
  <tbody>
   <tr>
-   <td>3</td> 
+   <td>1</td> 
    <td>不再有超級球下降</td> 
   </tr>
   <tr>
