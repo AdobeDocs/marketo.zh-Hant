@@ -3,7 +3,7 @@ description: 新增或移除聊天使用者 — Marketo檔案 — 產品檔案
 title: 添加或刪除聊天用戶
 hide: true
 hidefromtoc: true
-source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
+source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您有多個Marketo訂閱，請在下一個步驟之前選取所需的訂閱)。
+   >如果您有多個Marketo訂閱，請在下一個步驟之前選取所需的訂閱。
 
 1. 按一下&#x200B;**使用者**&#x200B;標籤。
 

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
 workflow-type: tm+mt
-source-wordcount: '8101'
+source-wordcount: '8029'
 ht-degree: 0%
 
 ---
@@ -1169,23 +1169,9 @@ ht-degree: 0%
             + [電子郵件連線限制](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
             + [設定自訂傳送通道](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + 發送銷售電子郵件{#send-a-sales-email}
-            + [新增範本或促銷活動](product-docs/marketo-sales-connect/email/send-a-sales-email/add-a-template-or-campaign.md)
-            + [從Gmail新增電子郵件至Salesforce](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-from-gmail.md)
-            + [在電子郵件用戶端中將電子郵件新增至Salesforce](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-in-email-client.md)
-            + [新增內容](product-docs/marketo-sales-connect/email/send-a-sales-email/adding-content.md)
-            + [驗證失敗錯誤](product-docs/marketo-sales-connect/email/send-a-sales-email/authentication-unsuccessful-error.md)
             + [促銷活動已結束](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [電子郵件中的抄送或密件副本](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [標示為垃圾郵件的電子郵件](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
-            + [所選電子郵件和電子郵件組](product-docs/marketo-sales-connect/email/send-a-sales-email/email-selected-and-email-group.md)
-            + [傳至垃圾郵件的電子郵件](product-docs/marketo-sales-connect/email/send-a-sales-email/emails-going-to-spam.md)
-            + [從Gmail或Outlook傳送時發生錯誤](product-docs/marketo-sales-connect/email/send-a-sales-email/error-when-sending-from-gmail-or-outlook.md)
-            + [從Web應用程式發送時出錯](product-docs/marketo-sales-connect/email/send-a-sales-email/error-when-sending-from-the-web-application.md)
-            + [硬跳出數](product-docs/marketo-sales-connect/email/send-a-sales-email/hard-bounces.md)
-            + [如何排程電子郵件](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-schedule-an-email.md)
-            + [如何傳送群組電子郵件](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-a-group-email.md)
-            + [如何從Sales Engage發送電子郵件](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-an-email-from-sales-engage.md)
-            + [傳送至草稿的已排程電子郵件](product-docs/marketo-sales-connect/email/send-a-sales-email/scheduled-emails-going-to-drafts.md)
             + [在電子郵件中傳送檔案附件](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
             + [傳送失敗中的限制錯誤訊息](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-error-message-in-a-failed-delivery.md)
             + [限制錯誤](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-errors.md)
