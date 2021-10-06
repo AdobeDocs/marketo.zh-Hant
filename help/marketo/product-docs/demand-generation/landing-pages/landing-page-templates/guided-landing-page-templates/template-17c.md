@@ -3,16 +3,16 @@ unique-page-id: 9438197
 description: 範本17C - Marketo檔案 — 產品檔案
 title: 模板17C
 exl-id: d9d1079d-2adf-4b6e-befc-42e913ce8b2c
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # 模板17C {#template-17c}
 
-[下載模板17C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
+按一下右鍵[下載模板17C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
 
 ![](assets/image2015-8-17-17-3a6-3a47.png)
 
@@ -25,6 +25,6 @@ ht-degree: 0%
 * 6個內文部分（可選）
 * 頁尾（選用）
 
-**按一下以下載此範本：**
+**按一下右鍵以下載此模板：**
 
 [範本17C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)

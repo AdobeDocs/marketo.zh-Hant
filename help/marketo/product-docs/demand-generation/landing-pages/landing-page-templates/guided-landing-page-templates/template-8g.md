@@ -3,16 +3,16 @@ unique-page-id: 8783978
 description: 範本8G - Marketo檔案 — 產品檔案
 title: 模板8G
 exl-id: d34d7d73-ccca-4083-a9da-f8b5630ed581
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # 模板8G {#template-8g}
 
-[下載範本8G](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)
+按一下右鍵[下載模板8G](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)
 
 ![](assets/image2015-7-29-14-3a58-3a16.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 5個內文部分（可選）
 * 頁尾（可選）
 
-**按一下以下載此範本：**
+**按一下右鍵以下載此模板：**
 
 [範本8G.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)

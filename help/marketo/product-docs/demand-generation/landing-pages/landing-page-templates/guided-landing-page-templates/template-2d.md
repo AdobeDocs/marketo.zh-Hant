@@ -3,16 +3,16 @@ unique-page-id: 7516478
 description: 範本2D - Marketo檔案 — 產品檔案
 title: 模板2D
 exl-id: 365cc108-ed50-4229-b267-9688ed31056e
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 # 模板2D {#template-2d}
 
-[下載模板2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
+按一下右鍵[下載模板2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 包含文字和民調問答的內文區段（選用）
 * 頁尾（選用）
 
-**按一下以下載此範本：**
+**按一下右鍵以下載此模板：**
 
 [範本2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)

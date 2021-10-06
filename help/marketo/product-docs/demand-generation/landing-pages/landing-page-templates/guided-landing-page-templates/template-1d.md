@@ -3,16 +3,16 @@ unique-page-id: 7516002
 description: 範本1D - Marketo檔案 — 產品檔案
 title: 模板1D
 exl-id: ae46a81e-fd40-459c-937e-cdc58add7838
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # 模板1D {#template-1d}
 
-[下載模板1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
+按一下右鍵[下載模板1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
 
 ![](assets/image2015-5-28-13-3a36-3a44.png)
 
@@ -25,6 +25,6 @@ ht-degree: 0%
 * 三個內文部分（可選）
 * 頁尾（選用）
 
-**按一下以下載此範本：**
+**按一下右鍵以下載此模板：**
 
 [Template1 1D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)

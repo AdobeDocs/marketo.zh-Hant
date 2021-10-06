@@ -3,16 +3,16 @@ unique-page-id: 10092896
 description: 範本19C - Marketo檔案 — 產品檔案
 title: 模板19C
 exl-id: 9f518caf-2270-46d8-b9ce-3b11b10af338
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 # 模板19C {#template-19c}
 
-[下載模板19C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
+按一下右鍵[下載模板19C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
 
 ![](assets/image2015-9-16-16-3a52-3a26.png)
 
@@ -25,6 +25,6 @@ ht-degree: 0%
 * 5個內文部分（可選）
 * 頁尾（選用）
 
-**按一下以下載此範本：**
+**按一下右鍵以下載此模板：**
 
 [模板19C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)

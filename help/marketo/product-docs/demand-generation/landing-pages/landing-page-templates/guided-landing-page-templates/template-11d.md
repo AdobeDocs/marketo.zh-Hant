@@ -3,16 +3,16 @@ unique-page-id: 9437565
 description: 範本11D - Marketo檔案 — 產品檔案
 title: 模板11D
 exl-id: ca4ab098-6fc6-48a6-b2b2-0e1f075ea168
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # 模板11D {#template-11d}
 
-[下載模板11D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)
+按一下右鍵[下載模板11D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)
 
 ![](assets/template-11d.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 7個內文部分（可選）
 * 頁尾（選用）
 
-**按一下以下載此範本：**
+**按一下右鍵以下載此模板：**
 
 [模板11D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)

@@ -3,16 +3,16 @@ unique-page-id: 7516467
 description: 範本2A - Marketo檔案 — 產品檔案
 title: 範本2A
 exl-id: dcffaab5-8944-425b-aac3-2906ce3718b1
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
 # 範本2A {#template-2a}
 
-[下載範本2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
+按一下右鍵[下載模板2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
 
 ![](assets/image2015-6-2-15-3a17-3a17.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 一個內文部分（可選）
 * 頁尾（選用）
 
-**按一下以下載此範本：**
+**按一下右鍵以下載此模板：**
 
 [範本2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)

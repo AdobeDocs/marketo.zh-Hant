@@ -3,16 +3,16 @@ unique-page-id: 7516470
 description: 範本2B - Marketo檔案 — 產品檔案
 title: 模板2B
 exl-id: 8ccf9758-e1c4-41e2-8266-44f69f3a9c67
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 # 模板2B {#template-2b}
 
-[下載範本2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
+按一下右鍵[下載模板2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 包含影片和文字的內文區段（選用）
 * 頁尾（選用）
 
-**按一下以下載此範本：**
+**按一下右鍵以下載此模板：**
 
 [範本2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
