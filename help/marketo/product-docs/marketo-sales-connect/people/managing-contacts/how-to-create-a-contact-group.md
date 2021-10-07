@@ -1,22 +1,19 @@
 ---
 unique-page-id: 14352517
-description: 如何建立連絡人群組——行銷人員檔案——產品檔案
-title: 如何建立連絡人群組
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: 如何建立連絡人群組 — Marketo檔案 — 產品檔案
+title: 如何建立聯繫人組
+exl-id: 19113c15-bd28-4030-8d84-afa93303197d
+source-git-commit: 2671ec00fcc032ab926f4a4cbb5559d94c0711a0
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
+# 如何建立聯繫人組 {#how-to-create-a-contact-group}
 
-# 如何建立聯繫人組{#how-to-create-a-contact-group}
-
-Sales Connect可讓您建立連絡人群組，以便傳送個人化電子郵件給多位收件者。
+Sales Connect允許您建立聯繫人組，以便向多個收件人發送個性化電子郵件。
 
 要建立組，只需選擇&#x200B;**新建組**。
 
-您可在此處透過CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)手動](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)或[新增連絡人。[
-
-若要進一步瞭解傳送群組電子郵件，請按一下此處[。](/help/marketo/product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-a-group-email.md)
+從這裡，您可以通過CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)手動](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)或[添加聯繫人。[
