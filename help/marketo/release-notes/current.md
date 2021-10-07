@@ -2,7 +2,7 @@
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
+source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
 workflow-type: tm+mt
 source-wordcount: '962'
 ht-degree: 0%
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 **新電子郵件、Web活動、匿名Web活動控制面板**:我們新增了新的銷售控制面板，以通知銷售者其銷售機會和聯絡人最近的電子郵件和網路活動。透過新的篩選功能，控制面板現在可提供帳戶或特定帳戶完整清單的電子郵件開啟、點按和網頁造訪的深入分析。 Marketo Engage追蹤所有Web活動，並為銷售人員提供關鍵資訊，將匿名流量轉化為銷售機會。 銷售商可以更快速地個人化參與，並將銷售機會轉化為銷售，因為他們更了解銷售機會行為，並且根據所有接觸點的相關性採取行動。
 
-**Salesforce CRM的Sales Insight**
+**Salesforce的Sales Insight**
 
 **客戶和機會級最佳賭注**:Sales Insight現在允許銷售代表查看他們擁有的帳戶或業務機會上的所有聯繫人的最佳下注，即使該聯繫人被分配給其他團隊成員也是如此。這使帳戶和業務機會所有者能夠完全了解相關聯繫人的活動，並幫助他們根據對帳戶或業務機會的更全面的視圖採取行動。
 
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 ## 公告 {#announcements}
 
-**關聯銷售機會淘汰/Munchkin Beta 161更新**:2021年9月7日，161版Munchkin開始向啟用Munchkin Beta的10%訂閱提供支援，其後在9月16日為50%訂閱提供支援，在9月30日為100%訂閱提供支援。此變更會影響Marketo Engage登錄頁面，以及提供給外部登錄頁面的檔案munchkin-beta.js版本，這些頁面是從已推出最新版本的訂閱載入的。 此版本完全取代了Munchkin關聯銷售機會方法，該功能允許將人員的資料提交到Marketo Engage訂閱，並允許將相關的Web瀏覽歷史記錄與已知人員記錄關聯。 正在移除關聯銷售機會，以改用更現代且安全的替代方案，例如Forms JS API、表單提交API和關聯銷售機會REST API。 [進一步了解此淘汰內容](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)。
+**關聯銷售機會淘汰/Munchkin Beta 161更新**:2021年9月7日，161版Munchkin開始向啟用Munchkin Beta的10%訂閱提供支援，其後在9月16日為50%訂閱提供支援，在9月30日為100%訂閱提供支援。此變更會影響Marketo Engage登錄頁面，以及提供給外部登錄頁面的檔案munchkin-beta.js版本，這些頁面是從已推出最新版本的訂閱載入的。 此版本完全取代了Munchkin關聯銷售機會方法，該功能允許將人員的資料提交到Marketo Engage訂閱，並允許將相關的Web瀏覽歷史記錄與已知人員記錄關聯。 正在移除關聯銷售機會，以改用更現代且安全的替代方案，例如Forms JS API、表單提交API和關聯銷售機會REST API。 [請前往這裡，深入了解此功能的淘汰內容](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)。
