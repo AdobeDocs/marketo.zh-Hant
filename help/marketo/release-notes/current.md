@@ -2,16 +2,16 @@
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
 workflow-type: tm+mt
-source-wordcount: '909'
+source-wordcount: '962'
 ht-degree: 0%
 
 ---
 
-# 發行說明：2021年8月 {#release-notes-aug-21}
+# 發行說明：2021年10月 {#release-notes-oct-21}
 
-』21年8月發行包含下列功能。 查看您的Marketo Engage版本以了解功能可用性。
+』21年10月發行包含下列功能。 查看您的Marketo Engage版本以了解功能可用性。
 
 >[!AVAILABILITY]
 >
@@ -19,23 +19,21 @@ ht-degree: 0%
 
 **_每季發行_**
 
-下列功能將於2021年8月20日發行&#x200B;****。
+下列功能將於2021年10月22日發行&#x200B;****。
+
+## 人工智慧驅動的創新 {#ai-driven-innovation}
+
+**預測對象增強功能**:您現在可以更清楚掌握影響事件和電子郵件程式中使用之AI支援預測模型之AI預測的最上層行為。您可以檢閱導致事件註冊和出席率較高的促銷活動成員行為，以及導致取消訂閱的原因。 AI支援的相似型號現在可用於Marketo Engage的所有方案類型。
+
+## 新一代體驗 {#next-gen-experience}
+
+**選擇您自己的體驗**:在處理Marketo Engage表單詳細資訊或登錄頁面清單檢視時，透過新的切換功能，輕鬆切換至您偏好的體驗，而不會遺失內容、資產變更或偏好設定。此外，新的登錄頁面清單檢視還能運用新的篩選器及執行大量動作的能力，強化您的體驗。
+
+**有效搜尋**:全域搜尋的協助工具改善項目包括更新的鍵盤導覽和標籤說明、新的結果捲動功能，以及更可見的套用篩選器。已增強移動模組，以支援鍵盤快速鍵。 透過全域導覽列中的新任務通知匣，監視新體驗背景中執行之任務的狀態。 托盤會擷取從表單詳細資訊和登錄頁面清單的新體驗檢視中起始之工作的通知，包括變更登錄頁面的狀態，以及使用新體驗的一般大量動作。
 
 ## 體驗自動化 {#experience-automation}
 
-* **Marketo Engage使用者透過Adobe身分驗證**:很快，將會使用Adobe ID使用者認證，上線具有企業套件的新Marketo Engage使用者。到2022年年中，目前的使用者才會移轉至整合身分系統，在進一步通知前，不需要採取任何動作。 Adobe身分使用者驗證可讓IT/安全管理員管理多個Marketo Engage產品例項以及其他Experience Cloud解決方案，以及透過通用主控台設定SSO。 管理員可以方便地在一個位置管理使用者群組和使用者權益。
-
-* **可執行的促銷活動巢狀**:可執行的促銷活動現在也可以呼叫其他可執行的促銷活動，讓您最多巢狀內嵌至三個層級。這可以進一步整合常見的操作流程，並改進Smart Campaign管理。
-
-* **「人員詳細資料」頁面中的「單一流量動作** 」（9月9日前推出）:使用「流程操作」菜單，從人員詳細資訊頁對個人執行流操作，如發送電子郵件、更改人員所有者或任何其他智慧促銷活動操作，而不切換到資料庫網格視圖。
-
-* **[自訂活動匯出](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**:中繼資料匯出現在支援所有物件和個別中繼資料，可用來共用、分析和設計您的訂閱資料模型。
-
-## API增強功能 {#api-enhancements}
-
-* **提交表單API**:當一個電子郵件地址在兩個或多個Lead記錄中重複時，我們會更新「上次更新」記錄，而非完全略過。提供與Forms 2.0 API同等的支援。
-
-* **電子郵件API**:擷取冠軍或挑戰者電子郵件資產。使用日期範圍篩選器擷取電子郵件資產。
+**提交表單API計畫成員自定義欄位支援**:「提交表單API」端點已升級，可支援方案成員自訂欄位，讓自訂表單整合可收集方案專屬資料。
 
 **_整季推出_**
 
@@ -45,40 +43,32 @@ ht-degree: 0%
 
 ![（星號）](assets/yellow-star.png)
 
-* **增強Salesforce CRM使用者對銷售機會、連絡人、帳戶和商機活動的可見度**:在較長的銷售週期中與潛在客戶的接洽會更加了解，因為Sales Insight中的參與記錄數量增加。有趣的時刻、Web活動、電子郵件和分數頁簽在Lead、Contact、Account和Opportunity對象中顯示多達400個活動。
+**Microsoft Dynamics 365銷售分析**
+
+**最佳增強功能**:Sales Insight中的「最佳下注」頁簽為銷售人員提供最熱門聯繫人的即時視圖，以及按質量和緊急性優先的銷售線索。我們增加了銷售代表採取行動的能力，例如：直接從「最佳下注」頁面檢閱人員的分數、傳送電子郵件或將潛在客戶新增至指定的Marketo Engage促銷活動，借此提高效率並加快回應時間。
+
+**新電子郵件、Web活動、匿名Web活動控制面板**:我們新增了新的銷售控制面板，以通知銷售者其銷售機會和聯絡人最近的電子郵件和網路活動。透過新的篩選功能，控制面板現在可提供帳戶或特定帳戶完整清單的電子郵件開啟、點按和網頁造訪的深入分析。 Marketo Engage追蹤所有Web活動，並為銷售人員提供關鍵資訊，將匿名流量轉化為銷售機會。 銷售商可以更快速地個人化參與，並將銷售機會轉化為銷售，因為他們更了解銷售機會行為，並且根據所有接觸點的相關性採取行動。
+
+**Salesforce CRM的Sales Insight**
+
+**客戶和機會級最佳賭注**:Sales Insight現在允許銷售代表查看他們擁有的帳戶或業務機會上的所有聯繫人的最佳下注，即使該聯繫人被分配給其他團隊成員也是如此。這使帳戶和業務機會所有者能夠完全了解相關聯繫人的活動，並幫助他們根據對帳戶或業務機會的更全面的視圖採取行動。
 
 ## Sales Connect {#sales-connect}
 
 ![（星號）](assets/yellow-star.png)
 
-* **電子郵件連線限制（測試版）**:利用Sales Connect的電子郵件連線限制，改善電子郵件傳遞能力並擴展個人化銷售通訊。這項新技術可自動管理電子郵件傳送時間，為Exchange和Gmail使用者建立順暢的體驗。 減少或消除第三方批量電子郵件發送應用程式的使用，並信心十足地從Sales Connect發送您的所有電子郵件。
+**電子郵件連線限制(GA)**:利用Sales Connect的電子郵件連線限制，改善電子郵件傳遞能力並擴展個人化銷售通訊。這項創新技術可自動管理電子郵件傳送時間，為Exchange和Gmail使用者創造順暢的體驗。 減少或消除第三方批量電子郵件發送應用程式的使用，並信心十足地從Sales Connect發送您的所有電子郵件。
 
->[!NOTE]
->
->現在，測試版已提供電子郵件限制功能。 [更多詳情](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)。
+**增強銷售活動分析**:新的電子郵件回覆追蹤活動「銷售電子郵件已回覆」會追蹤收件者與自動與Marketo Engage同步之電子郵件的互動。此外，「來源」屬性已從「Tout」更新為「銷售應用程式」。 此活動可透過「Marketo EngageREST API」或「大量匯出」來匯出和報告，並可在篩選器和觸發器上使用，作為智慧清單的其他限制，在智慧型促銷活動中擴展個人化選項。
 
-* **增強銷售活動分析**:根據您銷售團隊的先前活動，擷取並啟用個人化參與。新屬性（如「銷售呼叫記錄連結」、「銷售促銷活動名稱」和「銷售電子郵件主體」）可用於Marketo Engage智慧清單。  這些活動可透過「Marketo EngageREST API」或「大量匯出」來匯出和報告，並可在篩選器和觸發器上使用，作為智慧清單的其他限制。
+**簡化的使用者體驗**:此更新引入了基於Adobe頻譜設計系統的Sales Connect的新字型、顏色、按鈕和模型。透過這些更新，我們提供更有效率的體驗，讓銷售者在有需要時專注於所需內容。
 
 ## Bizible {#bizible}
 
 ![](assets/yellow-star.png)
 
-* **Bizible LinkedIn Lead Gen Forms整合**:行銷人員現在可以針對LinkedIn透過其Lead Gen Forms廣告單位擷取表單填入時發生的轉換，執行收入歸因。然後，這些見解便可用來最佳化表單效能和付費媒體投資。 linkedIn Lead Gen Forms是LinkedIn增長最快的付費媒體產品之一，此新功能包含在我們與Bizible的現有LinkedIn Ads整合中。 
- 
-* **改良的Velocity控制面板**:我們新增了新的速度量度和控制面板篩選器，以提供更深入的分析。此控制面板供行銷人員用來了解各階段的銷售機會和商機速度，以及不同行銷和銷售互動形式的效率。
-
-* **新的同類群組瀑布歷程控制面板**:這可讓行銷人員透過經典的「需求瀑布圖」階段集來檢視所選同類群組的進展，進而快速了解轉換率，並逐階段隱含階段轉換因果關係。
-
-## Bizible與Adobe Experience Cloud整合 {#bizible-integration-with-adobe-experience-cloud}
-
-本節包含已完成AdobeIdentity Management系統(IMS)移轉的Bizible使用者的新功能。 如果您已移轉，您會在「Adobe ID」標籤下的「Bizible Settings」中看到新的Adobe ID。 所有帳戶應在2021年底前移轉。
-
-* **Bizible與AdobePrivacy Service整合** （2021年9月推出）:Bizible與AdobePrivacy Service的整合可集中Adobe Experience Cloud應用程式對重要資料隱私權法規（例如GDPR）的遵循。您現在可以善用此服務並集中管理所有隱私權要求，以便在應用程式間反映傳入Bizible和其他Adobe產品的變更要求。
-
-* **Adobe統一殼層上的Bizible**:Bizible採用AdobeUnified Shell為用戶提供了新功能，這些功能將出現在Bizible應用程式標頭欄中，並包括更好地訪問支援資源和應用程式切換。AdobeUnified Shell可協助在Bizible與其他Adobe Experience Cloud應用程式之間建立一致的體驗。
-
-* **Bizible網域所有權與自我管理**:Bizible使用者可運用Adobe Admin Console來管理他們希望Bizible追蹤的網域。這為先前的手動程式提供自助服務，並提供如何跨Adobe Experience Cloud應用程式管理網域擁有權和追蹤的一致體驗。
+**與AdobePrivacy Service(GA)整合Bizible**:與AdobePrivacy Service的Bizible整合可集中遵循重要資料隱私權法規，例如跨Adobe Experience Cloud應用程式的GDPR（一般資料隱私權法規）或CCPA（加州消費者隱私保護法案）。您現在可以利用此服務，透過Adobe的Privacy Service集中管理所有隱私權要求，以便在應用程式間反映傳入Bizible和其他Adobe產品的變更要求。
 
 ## 公告 {#announcements}
 
-* **訂閱通用ID設定的更新**:為支援現有使用者即將推出的Marketo Engage與Adobe身分整合，所有Marketo Engage訂閱將透過啟用通用ID支援統一。如需詳細資訊，請前往](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)。[
+**關聯銷售機會淘汰/Munchkin Beta 161更新**:2021年9月7日，161版Munchkin開始向啟用Munchkin Beta的10%訂閱提供支援，其後在9月16日為50%訂閱提供支援，在9月30日為100%訂閱提供支援。此變更會影響Marketo Engage登錄頁面，以及提供給外部登錄頁面的檔案munchkin-beta.js版本，這些頁面是從已推出最新版本的訂閱載入的。 此版本完全取代了Munchkin關聯銷售機會方法，該功能允許將人員的資料提交到Marketo Engage訂閱，並允許將相關的Web瀏覽歷史記錄與已知人員記錄關聯。 正在移除關聯銷售機會，以改用更現代且安全的替代方案，例如Forms JS API、表單提交API和關聯銷售機會REST API。 [進一步了解此淘汰內容](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)。
