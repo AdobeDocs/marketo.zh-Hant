@@ -2,9 +2,9 @@
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 6ba2020db432f0b520a63630fcd93c34c7c7611a
+source-git-commit: 669c86e2df2fbf061aa3db15c5c484a331a2b099
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1016'
 ht-degree: 0%
 
 ---
@@ -75,4 +75,4 @@ ht-degree: 0%
 
 **關聯銷售機會淘汰/Munchkin Beta 161更新**:2021年9月7日，161版Munchkin開始向啟用Munchkin Beta的10%訂閱提供支援，其後在9月16日為50%訂閱提供支援，在9月30日為100%訂閱提供支援。此變更會影響Marketo Engage登錄頁面，以及提供給外部登錄頁面的檔案munchkin-beta.js版本，這些頁面是從已推出最新版本的訂閱載入的。 此版本完全取代了Munchkin關聯銷售機會方法，該功能允許將人員的資料提交到Marketo Engage訂閱，並允許將相關的Web瀏覽歷史記錄與已知人員記錄關聯。 正在移除關聯銷售機會，以改用更現代且安全的替代方案，例如Forms JS API、表單提交API和關聯銷售機會REST API。 [請前往這裡，深入了解此功能的淘汰內容](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)。
 
-想要進一步了解這些功能和增強功能嗎？ 請務必在2021年10月28日上午9:00 PT /中午12:00 ET註冊[以加入我們，與我們的產品團隊一起參加線上講座，以深入探討這些創新。](https://engage.marketo.com/October_Release_Webinar_RegistrationPage.html)
+想要進一步了解這些功能和增強功能嗎？ 請務必在2021年10月28日上午9:00 PT /中午12:00 ET註冊[以加入我們，與我們的產品團隊一起參加線上講座，以深入探討這些創新。](https://engage.marketo.com/October_Release_RegistrationPage.html)
