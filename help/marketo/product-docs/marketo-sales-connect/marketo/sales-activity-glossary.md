@@ -1,10 +1,11 @@
 ---
 description: 銷售活動字彙表 — Marketo檔案 — 產品檔案
 title: 銷售活動辭匯表
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
+source-git-commit: 9677c26004a567bb53fef452304665eb73855568
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 2%
+source-wordcount: '480'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +27,7 @@ ht-degree: 2%
   <th>屬性</th>
  </tr>
  <tr>
-  <th rowspan="3">發送銷售電子郵件</th>
+  <th rowspan="9">發送銷售電子郵件</th>
   <td>發送者</td>
  </tr>
  <tr>
@@ -36,7 +37,25 @@ ht-degree: 2%
   <td>範本ID</td>
  </tr>
  <tr>
-  <th rowspan="3">開啟銷售電子郵件</th>
+  <td>銷售模板URL</td>
+ </tr>
+ <tr>
+  <td>銷售促銷活動URL</td>
+ </tr>
+ <tr>
+  <td>銷售模板名稱</td>
+ </tr>
+ <tr>
+  <td>電子郵件主旨</td>
+ </tr>
+ <tr>
+  <td>銷售促銷活動名稱</td>
+ </tr>
+ <tr>
+  <td>Marketo銷售人員ID</td>
+ </tr>
+ <tr>
+  <th rowspan="9">開啟銷售電子郵件</th>
   <td>發送者</td>
  </tr>
  <tr>
@@ -46,7 +65,25 @@ ht-degree: 2%
   <td>範本ID</td>
  </tr>
  <tr>
-  <th rowspan="4">已點擊銷售電子郵件</th>
+  <td>銷售模板URL</td>
+ </tr>
+ <tr>
+  <td>銷售促銷活動URL</td>
+ </tr>
+ <tr>
+  <td>銷售模板名稱</td>
+ </tr>
+ <tr>
+  <td>電子郵件主旨</td>
+ </tr>
+ <tr>
+  <td>銷售促銷活動名稱</td>
+ </tr>
+ <tr>
+  <td>Marketo銷售人員ID</td>
+ </tr>
+ <tr>
+  <th rowspan="10">已點擊銷售電子郵件</th>
   <td>連結</td>
  </tr>
  <tr>
@@ -58,28 +95,36 @@ ht-degree: 2%
  <tr>
   <td>範本ID</td>
  </tr>
+ <tr>
+  <td>銷售模板URL</td>
+ </tr>
+ <tr>
+  <td>銷售促銷活動URL</td>
+ </tr>
+ <tr>
+  <td>銷售模板名稱</td>
+ </tr>
+ <tr>
+  <td>電子郵件主旨</td>
+ </tr>
+ <tr>
+  <td>銷售促銷活動名稱</td>
+ </tr>
+ <tr>
+  <td>Marketo銷售人員ID</td>
+ </tr>
 <tr>
-  <th rowspan="2">收到銷售電子郵件</th>
+  <th rowspan="3">收到銷售電子郵件</th>
   <td>接收者</td>
  </tr>
  <tr>
   <td>來源</td>
  </tr>
  <tr>
-  <th rowspan="4">已退回銷售電子郵件</th>
-  <td>詳細資料</td>
+  <td>人員ID(MSC)</td>
  </tr>
  <tr>
-  <td>範本ID</td>
- </tr>
- <tr>
-  <td>電子郵件</td>
- </tr>
- <tr>
-  <td>發送者</td>
- </tr>
- <tr>
-  <th rowspan="7">已接收銷售呼叫</th>
+  <th rowspan="11">已接收銷售呼叫</th>
   <td>銷售呼叫由</td>
  </tr>
  <tr>
@@ -99,6 +144,18 @@ ht-degree: 2%
  </tr>
  <tr>
   <td>來源</td>
+ </tr>
+ <tr>
+  <td>銷售呼叫持續時間</td>
+ </tr>
+ <tr>
+  <td>銷售呼叫記錄URL</td>
+ </tr>
+  <tr>
+  <td>應答銷售電話的人</td>
+ </tr>
+ <tr>
+  <td>Marketo銷售人員ID(MSC)</td>
  </tr>
  <tr>
   <th rowspan="6">添加到銷售活動</th>
