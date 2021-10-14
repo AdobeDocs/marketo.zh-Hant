@@ -2,9 +2,9 @@
 description: 銷售活動字彙表 — Marketo檔案 — 產品檔案
 title: 銷售活動辭匯表
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 9677c26004a567bb53fef452304665eb73855568
+source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---
@@ -121,7 +121,7 @@ ht-degree: 1%
   <td>來源</td>
  </tr>
  <tr>
-  <td>人員ID(MSC)</td>
+  <td>Marketo銷售人員ID</td>
  </tr>
  <tr>
   <th rowspan="11">已接收銷售呼叫</th>
@@ -155,7 +155,7 @@ ht-degree: 1%
   <td>應答銷售電話的人</td>
  </tr>
  <tr>
-  <td>Marketo銷售人員ID(MSC)</td>
+  <td>Marketo銷售人員ID</td>
  </tr>
  <tr>
   <th rowspan="6">添加到銷售活動</th>
@@ -216,6 +216,10 @@ ht-degree: 1%
   <tr> 
    <td><strong>連結</strong></td> 
    <td>已點按的URL。</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Marketo銷售人員ID</strong></td> 
+   <td>Sales Connect中人員記錄的唯一ID。</td> 
   </tr> 
   <tr> 
    <td><strong>接收者</strong></td> 
