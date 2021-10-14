@@ -3,10 +3,10 @@ unique-page-id: 5472490
 description: 發行排程 — Marketo檔案 — 產品檔案
 title: 發行排程
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 64ff6900a761b9df796a9a7f417cca1ddc628cce
+source-git-commit: 214a968579052d93952bdbdd6e00bfe057ca7dac
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 0%
+source-wordcount: '136'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 **發行日期**:推出通常從發行周的星期二開始，大部分升級將於星期五晚上進行。系統會傳送電子郵件，內含特定日期和發行詳細資訊。 所列日期為星期五更新。
 
-**進度**:
+**狀態**:
 
 * 按計畫 — 我們計畫在指定日期發佈每季功能和增強功能
 * 進行中 — 我們正在開發和記錄內容，以便在指定日期發行
@@ -34,27 +34,32 @@ _發行日期可能會有所變更_
   <tr> 
    <th width="250px">發行</th> 
    <th width="250px">發行日期</th> 
-   <th width="250px">進度</th> 
+   <th width="250px">狀態</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/release-notes/previous-releases/2021/release-notes-jan-21.md">』21年1月</a></td> 
-   <td colspan="1">2021年1月15日</td> 
-   <td colspan="1">已發運</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><a href="/help/marketo/release-notes/previous-releases/2021/release-notes-may-21.md">』21年5月</a></td> 
-   <td colspan="1">2021年5月7日</td> 
-   <td colspan="1">已發運</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><a href="/help/marketo/release-notes/current.md">』21年8月</a></td> 
-   <td colspan="1">2021年8月20日</td> 
-   <td colspan="1">已發運</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">』21年10月</td> 
+   <td colspan="1"><a href="/help/marketo/release-notes/current.md">』21年10月</a></td> 
    <td colspan="1">2021年10月22日</td> 
    <td colspan="1">進行中</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">』22年1月</td> 
+   <td colspan="1">2022年1月21日</td> 
+   <td colspan="1">按計畫</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">』22年5月</td> 
+   <td colspan="1">2022年5月6日</td> 
+   <td colspan="1">按計畫</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">』22年8月</td> 
+   <td colspan="1">2022年8月19日</td> 
+   <td colspan="1">按計畫</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">』22年10月</td> 
+   <td colspan="1">2022年10月14日</td> 
+   <td colspan="1">按計畫</td> 
   </tr> 
  </tbody> 
 </table>
