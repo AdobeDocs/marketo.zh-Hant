@@ -3,9 +3,9 @@ description: 對話方塊 — Marketo檔案 — 產品檔案
 title: 對話方塊
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -34,13 +34,13 @@ ht-degree: 0%
 
 ## 對象條件 {#audience-criteria}
 
-與Marketo智慧清單類似，受眾條件屬性可讓您定義目標受眾。 您可以使用推斷、銷售機會或公司屬性（或其組合）來鎖定已知或未知的銷售機會。
+與Marketo智慧清單類似，受眾條件屬性可讓您定義目標受眾。 您可以使用推斷、人員或公司屬性（或其組合）來鎖定已知或未知的人。
 
-**已知銷售機會**
+**已知人員**
 
-有許多&#x200B;_屬性組合可供選擇。_&#x200B;在此範例中，我們鎖定加州所有在員工超過50名的公司工作的&#x200B;**已知銷售機會**。
+有許多&#x200B;_屬性組合可供選擇。_&#x200B;在此範例中，我們鎖定加州所有在員工超過50名的公司工作的&#x200B;**已知人員**。
 
-1. 抓取&#x200B;**Lead State**&#x200B;屬性，並將其拖曳至右側。
+1. 抓取&#x200B;**人員狀態**&#x200B;屬性並將其拖曳至右側。
 
    ![](assets/dialogues-4.png)
 
@@ -64,11 +64,11 @@ ht-degree: 0%
 
    ![](assets/dialogues-8.png)
 
-**匿名銷售機會**
+**匿名人員**
 
-有一種簡單的方法可以明確定位尚未在資料庫中的潛在客戶。 在此範例中，我們鎖定位於紐約地區的所有&#x200B;**匿名銷售機會**。
+有一種簡單的方法可以專門定位尚未在資料庫中的人員。 在此範例中，我們鎖定位於紐約地區的所有&#x200B;**匿名人員**。
 
-1. 抓取&#x200B;**Lead Email**&#x200B;屬性並將其拖曳至右側。
+1. 抓取&#x200B;**人員電子郵件**&#x200B;屬性並將其拖曳至右側。
 
    ![](assets/dialogues-9.png)
 
@@ -131,17 +131,17 @@ ht-degree: 0%
  </tr>
  <tr>
   <td><strong>約會排程器</strong></td>
-  <td>為訪客提供可用日期的日曆，以排程後續作業。 日曆可用性反映[下一個代理程式行](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing)。</td>
+  <td>為訪客提供可用日期的日曆，以排程後續作業。 日曆可用性反映了<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">行</a>中的下一個代理。</td>
  </tr>
  <tr>
   <td><strong>目標</strong></td>
-  <td>這是訪客唯一看不到的卡片。 您可以決定在哪個時間點在特定聊天內達成目標(例如：如果收集訪客的電子郵件是您的目標，請將「目標」卡放在資料流中的「資訊擷取」之後)。</td>
+  <td>這是訪客唯一看不到的卡片。 您可以決定在哪個時間點在特定聊天內達成目標(例如：如果收集訪客的電子郵件是您的目標，請將「目標」卡片緊接在資料流中的「資訊擷取」之後)。</td>
  </tr>
 </table>
 
 **建立資料流**
 
-要建立的許多&#x200B;_資料流組合。_&#x200B;讓我們看看本文](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)中的一個範例[。
+可能有&#x200B;_許多_&#x200B;可能的資料流組合。 讓我們看看本文](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)中的一個範例[。
 
 ## 報表 {#reports}
 
@@ -162,7 +162,7 @@ ht-degree: 0%
   <td>每次訪客到達對話方塊中任何分支的結尾時增加。</td>
  </tr>
  <tr>
-  <td><strong>已捕獲的銷售機會</strong></td>
+  <td><strong>被俘人員</strong></td>
   <td>每次訪客在對話方塊流程中提供有效電子郵件地址時增加。</td>
  </tr>
  <tr>
@@ -174,3 +174,7 @@ ht-degree: 0%
   <td>在任何對話方塊流程中，每當訪客達到目標時增加。</td>
  </tr>
 </table>
+
+>[!MORELIKETHIS]
+>
+>[建立資料流](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)

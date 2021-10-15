@@ -3,7 +3,7 @@ description: 將Dynamic Chat連線至Marketo - Marketo檔案 — 產品檔案
 title: 將Dynamic Chat連接到Marketo
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -32,8 +32,10 @@ ht-degree: 0%
 
    PICC（獲取全新子項時螢幕截圖）
 
-   >[!NOTE]
-   >
-   >同步可能需要5分鐘到8小時的時間，具體取決於資料庫的大小。 平均同步時間為60分鐘。 驗證時間範圍
+>[!NOTE]
+>
+>同步可能需要5分鐘到8小時的時間，具體取決於資料庫的大小。 平均同步時間為60分鐘。 驗證時間範圍
 
-相關文章
+>[!MORELIKETHIS]
+>
+>[初始設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)

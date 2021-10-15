@@ -3,18 +3,18 @@ description: 建立資料流 — Marketo檔案 — 產品檔案
 title: 建立資料流
 hide: true
 hidefromtoc: true
-source-git-commit: d6eac90310a86082361196067a4a835d10b75f24
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
 # 建立資料流 {#create-a-stream}
 
-要建立的許多&#x200B;_資料流組合。_&#x200B;以下是行銷人員詢問網站訪客是否有任何問題的範例。 如果是，訪客可以排程約會。 若否，訪客可選擇加入郵件清單以供未來通信之用。 目標是排程約會或收集訪客的電子郵件。
+您可以建立許多&#x200B;_資料流組合。_&#x200B;以下範例為行銷人員詢問網站訪客是否有任何產品問題。 如果是，訪客可以排程約會。 若否，訪客可選擇加入郵件清單以供未來通信之用。 目標是排程約會或收集訪客的電子郵件。
 
-1. 在[建立對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)後，按一下「串流設計器」標籤。
+1. 在[建立對話框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)後，按一下&#x200B;**流設計器**&#x200B;頁簽。
 
    ![](assets/create-a-stream-1.png)
 
@@ -84,8 +84,8 @@ ht-degree: 0%
      <td>訪客看到的訊息會提示他們提供資訊。</td>
     </tr>
     <tr>
-     <td><strong>可協助訪客查看要輸入的內容的範例文字。</strong></td>
-     <td>文字</td>
+     <td><strong>預留位置</strong></td>
+     <td>可協助訪客查看要輸入的內容的範例文字。</td>
     </tr>
     <tr>
      <td><strong>將回應對應至屬性</strong></td>
@@ -116,3 +116,7 @@ ht-degree: 0%
 >[!NOTE]
 >
 >按一下「發佈」之前，請務必確認您已輸入[目標URL](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target)。
+
+>[!MORELIKETHIS]
+>
+>[對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md)
