@@ -2,9 +2,9 @@
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 669c86e2df2fbf061aa3db15c5c484a331a2b099
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1178'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,10 @@ ht-degree: 0%
 **_整季推出_**
 
 下列功能屬於非季度週期，將在未來數月內發行。
+
+**用於共用受眾至Marketo Engage的原生Adobe Experience Platform Connector**:透過原生目的地連接器，為在Adobe Experience Platform中建立的受眾區段在Marketo Engage中啟用多管道行銷活動協調。連接器使用電子郵件地址或ECID來比對Adobe Experience Platform設定檔，以Marketo Engage人員記錄，進而在應用程式之間共用區段。 Marketo Engage靜態清單會自動填入，讓行銷人員能透過高度個人化的訊息觸及目標對象或起始工作流程。 運用其帳戶和機會內容以及Experience Platform中更完整的即時統一設定檔，以啟用人員對象。
+
+**Adobe Experience Platform Marketo資料來源連接器**:Adobe Experience Platform和Marketo Engage的使用者將能利用Marketo Source Connector，將資料從Marketo匯入AEP。您可以在AEP中串流來自Marketo的資料（及其變更），讓兩個產品的資料保持一致。 可透過「來源」目錄(列於「Adobe應用程式」下)查看Marketo連接器。
 
 ## Sales Insight {#sales-insight}
 

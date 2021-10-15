@@ -3,9 +3,9 @@ description: 對話方塊 — Marketo檔案 — 產品檔案
 title: 對話方塊
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/dialogues-4.png)
 
-1. __ Isis預設設定。在「選擇值」欄位中，鍵入CA（您也可以按一下下拉式清單並從清單中選擇）。
+1. __ 預設設定ISIS。在「選擇值」欄位中，鍵入CA（您也可以按一下下拉式清單並從清單中選擇）。
 
    ![](assets/dialogues-5.png)
 
@@ -82,17 +82,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >當有人造訪您的網站時，[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)會將其加入系統。 我們在一個特殊資料庫中查找他們的IP，並推斷出各種好的資訊……
+   >當有人造訪您的網站時，[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)會將其加入系統。 我們在一個特殊的資料庫中查找他們的IP，並推斷出各種好的資訊。
 
-1. __ Isis預設設定。在「選取值」欄位中，輸入NY（您也可以按一下下拉式清單，然後從清單中選取）。
+1. __ 預設設定ISIS。在「選取值」欄位中，輸入NY（您也可以按一下下拉式清單，然後從清單中選取）。
 
    ![](assets/dialogues-12.png)
 
 ## 新增群組 {#add-groups}
 
-您也可以選擇將屬性分組，以備您想要擁有所有特定屬性以及其他屬性的「任何」時使用。
+您也可以選擇將屬性分組，以備您想擁有所有特定屬性以及其他屬性的「全部或任何」時使用。 您可以新增多個群組。
 
-完成此操作
+![](assets/dialogues-13.png)
+
+![](assets/dialogues-14.png)
 
 ## 目標 {#target}
 
@@ -107,7 +109,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->使用星號可當作全包王牌。 因此， `https://*.website.com`會將對話方塊放在網站的每個頁面上，包括子網域(例如：`support.website.com`)。 而`https://website.com/folder/*`會將對話方塊放在後續資料夾中的每個HTML頁面上(例如：在此案例中，假設資料夾為「sports」，因此：website.com/sports/baseball.html、website.com/sports/football.html等)。
+>使用星號可當作全包王牌。 因此， `https://*.website.com`會將對話方塊放在網站的每個頁面上，包括子網域(例如：`support.website.com`)。 而`https://website.com/folder/*`會將對話方塊放在後續資料夾中每個HTML頁面上(例如：在此案例中，假設資料夾為「sports」，因此：website.com/sports/baseball.html、website.com/sports/football.html等)。
 
 ## 串流設計工具 {#stream-designer}
 
@@ -139,9 +141,7 @@ ht-degree: 0%
 
 **建立資料流**
 
-要建立的許多&#x200B;_資料流組合。_&#x200B;在此範例中，我們會詢問是或否問題，並準備一些回應。
-
-範例
+要建立的許多&#x200B;_資料流組合。_&#x200B;讓我們看看本文](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)中的一個範例[。
 
 ## 報表 {#reports}
 

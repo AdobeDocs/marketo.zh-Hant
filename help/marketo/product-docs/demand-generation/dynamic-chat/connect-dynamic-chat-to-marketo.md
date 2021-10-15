@@ -3,9 +3,9 @@ description: 將Dynamic Chat連線至Marketo - Marketo檔案 — 產品檔案
 title: 將Dynamic Chat連接到Marketo
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,9 @@ ht-degree: 0%
 
 1. 如果您先前曾使用Adobe ID存取應用程式，系統會直接將您帶至動態聊天。 否則，請[設定您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)。
 
-   PICC（左側導覽固定時的螢幕截圖）
-
 1. 若要連線您的Marketo執行個體，請選取&#x200B;**整合**。
 
-   ![](assets/connect-dynamic-chat-to-marketo-3.png)
+   ![](assets/connect-dynamic-chat-to-marketo-2.png)
 
 1. 在Marketo卡上，按一下&#x200B;**啟動同步**。
 
