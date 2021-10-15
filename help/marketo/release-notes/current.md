@@ -2,9 +2,9 @@
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 376b9e69e117bfca269719483e79c45e33a2ed42
 workflow-type: tm+mt
-source-wordcount: '1178'
+source-wordcount: '1119'
 ht-degree: 0%
 
 ---
@@ -62,8 +62,6 @@ ht-degree: 0%
 ## Sales Connect {#sales-connect}
 
 ![（星號）](assets/yellow-star.png)
-
-**電子郵件連線限制(GA)**:利用Sales Connect的電子郵件連線限制，改善電子郵件傳遞能力並擴展個人化銷售通訊。這項創新技術可自動管理電子郵件傳送時間，為Exchange和Gmail使用者創造順暢的體驗。 減少或消除第三方批量電子郵件發送應用程式的使用，並信心十足地從Sales Connect發送您的所有電子郵件。
 
 **增強銷售活動分析**:新的電子郵件回覆追蹤活動「銷售電子郵件已回覆」會追蹤收件者與自動與Marketo Engage同步之電子郵件的互動。此外，「來源」屬性已從「Tout」更新為「銷售應用程式」。 此活動可透過「Marketo EngageREST API」或「大量匯出」來匯出和報告，並可在篩選器和觸發器上使用，作為智慧清單的其他限制，在智慧型促銷活動中擴展個人化選項。
 
