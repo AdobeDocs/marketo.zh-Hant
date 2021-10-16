@@ -3,9 +3,9 @@ description: 對話方塊 — Marketo檔案 — 產品檔案
 title: 對話方塊
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: de2c73003aa1d817fbaf1d6ed5e180e68fc64b72
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -63,6 +63,8 @@ ht-degree: 0%
 1. 輸入50，然後按一下畫面上的其他位置以儲存。
 
    ![](assets/dialogues-8.png)
+
+就這樣！
 
 **匿名人員**
 
