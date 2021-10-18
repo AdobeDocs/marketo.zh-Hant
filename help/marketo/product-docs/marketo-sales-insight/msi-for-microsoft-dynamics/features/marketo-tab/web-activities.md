@@ -3,9 +3,9 @@ description: 網頁活動 — Marketo檔案 — 產品檔案
 title: 網站活動
 hide: true
 hidefromtoc: true
-source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 「Web活動」頁簽顯示您的銷售機會/聯繫人的Web活動。
 參考頁面造訪計數和個別帳戶，檢閱您潛在客戶的最新Web活動。 您可以篩選結果以限制為指定的頁數。
 
-PICC
+![](assets/web-activities-1.png)
 
 ## 匿名Web活動 {#anonymous-web-activities}
 
-「匿名Web活動」頁簽顯示所有&#x200B;**anonymous**&#x200B;網頁訪客Web活動。 檢閱引用頁面造訪計數的最新網頁活動。
+「匿名Web活動」頁簽顯示 **匿名** 網頁訪客網站活動。 檢閱引用頁面造訪計數的最新網頁活動。

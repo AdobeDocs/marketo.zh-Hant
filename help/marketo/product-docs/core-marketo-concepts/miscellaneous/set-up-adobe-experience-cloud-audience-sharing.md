@@ -3,42 +3,42 @@ unique-page-id: 42762511
 description: 設定Adobe Experience Cloud受眾共用 — Marketo檔案 — 產品檔案
 title: 設定Adobe Experience Cloud受眾共用
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: c225facfb3fce2d9e03ca1db5aa1ce0fee4f686c
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-# 設定Adobe Experience Cloud受眾共用{#set-up-adobe-experience-cloud-audience-sharing}
+# 設定Adobe Experience Cloud受眾共用 {#set-up-adobe-experience-cloud-audience-sharing}
 
-若要與您的Adobe應用程式共用受眾資料，您必須先在Marketo中輸入您的AdobeIMS組織憑證。 這是方法。
+若要與您的Adobe應用程式共用受眾資料，您必須先在Marketo中輸入您的Adobe IMS組織憑證。 這是方法。
 
 >[!NOTE]
 >
 >Marketo實例的HIPAA就緒部署無法使用此整合。
 
-1. 在Marketo中，按一下&#x200B;**管理**。
+1. 在Marketo中，按一下 **管理**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-1.png)
 
-1. 在「整合」下，按一下「**Adobe組織對應**」。
+1. 在整合下方，按一下 **Adobe組織對應**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-2.png)
 
-1. 按一下「**編輯**」。
+1. 按一下 **編輯**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. 輸入您的AdobeIMS組織ID（了解如何在[此處](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)找到），然後按一下&#x200B;**確定**。
+1. 輸入您的Adobe IMS組織ID(了解如何尋找 [此處](https://experienceleague.adobe.com/docs/control-panel/using/faq.html))，然後按一下 **確定**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
-1. 按一下&#x200B;**確認**。
+1. 按一下 **確認**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-5.png)
 
-1. 按一下&#x200B;**關閉**。
+1. 按一下 **關閉**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 
@@ -46,6 +46,6 @@ ht-degree: 0%
    >
    >基於安全考量，您必須是要對應之Adobe組織的組織管理員。 若非如此，動作將會失敗。
 
-1. 如果您已登入&#x200B;_not_，則新索引標籤/視窗中會出現快顯視窗。 登入您的Adobe組織（此動作會驗證組織存取權）。
+1. 如果你 _not_ 已登入，新索引標籤/視窗中會出現快顯視窗。 登入您的Adobe組織（此動作會驗證組織存取權）。
 
-就這樣！ 您現在可以[共用受眾資料](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)以從Adobe Experience Cloud同步受眾](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)或[。
+就這樣！ 您現在可以 [共用受眾資料](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md) 或 [同步對象](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md) 從Adobe Experience Cloud。
