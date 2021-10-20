@@ -2,7 +2,7 @@
 title: 模型健康與資料有效性
 description: 模型健康與資料有效性
 exl-id: b14ec648-be1c-467b-b41d-2c53d74e25ea
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 41a51afde7942d6973a01636810bc5862d023e99
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->標示為(+)的行為對預測有正面影響（反之亦然）。
+>以(+)標示的行為對預測有積極影響（反之亦然）。
 
 下面是如何評估模型健康度。
 

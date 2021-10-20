@@ -2,9 +2,9 @@
 title: 預測篩選
 description: 預測性篩選
 exl-id: cbfc2d5f-181d-4f07-b2c6-74c848708ef0
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 41a51afde7942d6973a01636810bc5862d023e99
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 ## 參加的可能性
 
-此篩選器可用來有效縮小您的對象。 這可協助您鎖定並邀請最有可能 **出席** 您的網路研討會或活動。 請注意，您的「[!UICONTROL Likelihood to attend program]「 」將是您目前的事件方案。
+此篩選器可用來有效縮小您的對象。 這可協助您鎖定並邀請最有可能 **出席** 您的網路研討會或活動。 請注意，您的「參加計畫的可能性」將是您目前的事件計畫。
 
 ![影像二](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## 註冊的可能性
 
-類似於 [!UICONTROL _參加的可能性_] 篩選，使用此篩選來縮小對象範圍，並鎖定可能性較高的潛在客戶 **註冊** 網路研討會或活動。
+類似於 _參加的可能性_ 篩選，使用此篩選來縮小對象範圍，並鎖定可能性較高的潛在客戶 **註冊** 網路研討會或活動。
 
 ![第三圖](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 
