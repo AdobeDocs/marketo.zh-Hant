@@ -3,9 +3,9 @@ description: 設定MSI檢視 — Marketo檔案 — 產品檔案
 title: 設定MSI視圖
 hide: true
 hidefromtoc: true
-source-git-commit: f4930d1747f1ca893d7494afc3dcbeb8c6398e93
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 1. 在Dynamics中，按一下齒輪圖示並選取 **進階設定** 從下拉式清單中。
 
-1. 在畫面左上角，按一下 **設定**. 在「自定義」下，選擇「自定義」。
+1. 在畫面左上角，按一下 **設定**. 在「自定義」下選擇 **自訂**.
 
 1. 按一下 **自訂系統**.
 

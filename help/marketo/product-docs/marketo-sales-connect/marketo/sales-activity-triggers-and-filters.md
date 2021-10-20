@@ -1,9 +1,10 @@
 ---
 description: 銷售活動觸發器和篩選器 — Marketo檔案 — 產品檔案
 title: 銷售活動觸發器和篩選器
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -18,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. 在&#x200B;**智慧清單**&#x200B;頁簽中，搜索「Sales Connect」。
+1. 在 **智慧清單** 頁簽，搜索「銷售應用」。
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
-1. 選取所需的篩選器或觸發器。
+1. 選取並拖曳至所需的篩選器或觸發器。
 
    ![](assets/sales-activity-triggers-and-filters-3.png)
 
@@ -32,4 +33,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->有關活動、約束和定義的完整清單，請查看[銷售活動辭匯表](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)。
+>如需活動、限制和定義的完整清單，請查看我們的 [銷售活動辭匯表](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).
