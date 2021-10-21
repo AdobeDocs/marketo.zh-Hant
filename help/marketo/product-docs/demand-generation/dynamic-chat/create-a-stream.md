@@ -3,7 +3,7 @@ description: 建立資料流 — Marketo檔案 — 產品檔案
 title: 建立資料流
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 1022d3eaf4ee4a1686c5d8ae3168ee0197776289
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # 建立資料流 {#create-a-stream}
 
-您可以建立許多&#x200B;_資料流組合。_&#x200B;以下範例為行銷人員詢問網站訪客是否有任何產品問題。 如果是，訪客可以排程約會。 若否，訪客可選擇加入郵件清單以供未來通信之用。 目標是排程約會或收集訪客的電子郵件。
+有 _many_ 您可以建立的資料流組合。 以下範例為行銷人員詢問網站訪客是否有任何產品問題。 如果是，訪客可以排程約會。 若否，訪客可選擇加入郵件清單以供未來通信之用。 目標是排程約會或收集訪客的電子郵件。
 
-1. 在[建立對話框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)後，按一下&#x200B;**流設計器**&#x200B;頁簽。
+1. 在 [建立對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)，按一下 **串流設計工具** 標籤。
 
    ![](assets/create-a-stream-1.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
    >
    >Poke預設設為開啟，這會在聊天圖示旁顯示開頭問題，訪客不必按一下它即可檢視。
 
-1. 輸入您的用戶響應，然後按一下&#x200B;**Save**。
+1. 輸入您的使用者回應，然後按一下 **儲存**.
 
    ![](assets/create-a-stream-4.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/create-a-stream-5.png)
 
-1. 在右側的列中，按一下「**儲存**」。
+1. 在右側的欄中，按一下 **儲存**.
 
    ![](assets/create-a-stream-6.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    ![](assets/create-a-stream-7.png)
 
-1. 為目標命名（或選擇現有目標），然後按一下「**儲存**」。
+1. 為目標命名（或選擇現有目標），然後按一下 **儲存**.
 
    ![](assets/create-a-stream-8.png)
 
@@ -54,23 +54,23 @@ ht-degree: 0%
 
    ![](assets/create-a-stream-9.png)
 
-1. 輸入您的回應，並為訪客新增回應選擇。 完成後，按一下「**儲存**」。
+1. 輸入您的回應，並為訪客新增回應選擇。 按一下 **儲存** 時才能使用。
 
    ![](assets/create-a-stream-10.png)
 
    >[!NOTE]
    >
-   >您可以按一下「**新增回應**」以新增更多回應。
+   >您可以按一下 **新增回應**.
 
 1. 在「是」回應下方，拖曳至「資訊擷取」卡片上，以便收集訪客的電子郵件。
 
    ![](assets/create-a-stream-11.png)
 
-1. 按一下&#x200B;**Type**&#x200B;下拉式清單，然後選取&#x200B;**Email**。
+1. 按一下 **類型** 下拉式清單並選取 **電子郵件**.
 
    ![](assets/create-a-stream-12.png)
 
-1. 輸入聊天機器人訊息和預留位置。 確認屬性已對應至Marketo中的適當欄位，然後按一下「**儲存**」。
+1. 輸入聊天機器人訊息和預留位置。 確認屬性已對應至Marketo中的適當欄位，然後按一下 **儲存**.
 
    ![](assets/create-a-stream-13.png)
 
@@ -97,7 +97,7 @@ ht-degree: 0%
 
    ![](assets/create-a-stream-14.png)
 
-1. 為目標命名（或選擇現有目標），然後按一下「**儲存**」。
+1. 為目標命名（或選擇現有目標），然後按一下 **儲存**.
 
    ![](assets/create-a-stream-15.png)
 
@@ -105,17 +105,17 @@ ht-degree: 0%
 
    ![](assets/create-a-stream-16.png)
 
-1. 輸入您的消息，然後按一下&#x200B;**Save**。
+1. 輸入您的訊息，然後按一下 **儲存**.
 
    ![](assets/create-a-stream-17.png)
 
-1. 要激活對話框時，請按一下&#x200B;**Publish**。
+1. 要激活對話框時，按一下 **發佈**.
 
    ![](assets/create-a-stream-18.png)
 
 >[!NOTE]
 >
->按一下「發佈」之前，請務必確認您已輸入[目標URL](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target)。
+>按一下「發佈」之前，請記得確定您已 [輸入目標URL](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
 
 >[!MORELIKETHIS]
 >
