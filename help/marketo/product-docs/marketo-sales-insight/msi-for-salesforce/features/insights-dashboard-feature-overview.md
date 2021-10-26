@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: 前瞻分析控制面板功能概述 — Marketo檔案 — 產品檔案
 title: 前瞻分析控制面板功能概觀
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 6679e1e0bdb53d3f330c15415a5fbe38f61d28d2
+source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
 workflow-type: tm+mt
-source-wordcount: '1460'
+source-wordcount: '1503'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必須擁有最新的MSI SFDC包和[configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)。
+>您必須擁有最新的MSI SFDC包和 [配置](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
@@ -155,7 +155,7 @@ ht-degree: 0%
 * 每週摘要列會顯示該周的有趣時刻、電子郵件和網路活動。 每個圖示都可點按，並可作為篩選器來顯示特定活動
 * 預設視圖：這是目前檢視的活動清單
 
-**即將推出的電子郵件促銷活動** 和事件電子郵件促銷活動標籤：
+**近期的電子郵件行銷活動和事件** 電子郵件行銷活動標籤：
 
 * 包括屬於電子郵件方案或預設方案，且已在未來90天內排程的促銷活動
 * 不特定於連絡人/銷售機會(亦即，促銷活動清單是Marketo例項中排程之所有電子郵件促銷活動的一般清單)。 所有銷售機會、聯絡人、帳戶和銷售機會面板的促銷活動清單將相同
@@ -171,3 +171,7 @@ ht-degree: 0%
 * 選取所有事件會顯示未來90天內排程的事件清單
 * 此區段中的活動詳細資訊卡有預覽選項
 * 篩選條件包括「搜尋」、「僅顯示受邀事件」和「日期範圍」
+
+>[!NOTE]
+>
+>如果您的Account或Opportunity有800多個聯繫人，則儀表板將不顯示任何資料。 不過，您可以前往個別聯絡人，查看其見解和參與度。 如果您的帳戶有800個以上的聯繫人，則將禁用「顯示帳戶級別活動」。

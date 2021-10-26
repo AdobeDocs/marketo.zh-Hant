@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
 workflow-type: tm+mt
 source-wordcount: '7972'
 ht-degree: 0%
@@ -1308,6 +1308,7 @@ ht-degree: 0%
             + [為您的團隊設定Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + 功能 {#features}
             + [MSI功能概述](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
+            + [前瞻分析控制面板功能概觀](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + MSI面板中的操作 {#actions-in-the-msi-panel}
                + [從Salesforce將銷售機會/連絡人新增至Marketo促銷活動](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/add-to-marketo-campaign/add-a-lead-contact-to-a-marketo-campaign-from-salesforce.md)
                + [在Marketo Sales Insight中設定取消訂閱頁尾](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
@@ -1318,7 +1319,6 @@ ht-degree: 0%
                + [將Marketo Sales Insight標籤和按鈕添加到Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Salesforce閃電中的批量操作](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [在Marketo Sales Insight中傳送電子郵件至多筆記錄](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
-               + [前瞻分析控制面板功能概觀](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + 語言支援 {#language-support}
                + [在Salesforce中為多語言支援準備銷售分析](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Marketo標籤 {#marketo-tab}
