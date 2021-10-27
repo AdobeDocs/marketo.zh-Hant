@@ -3,9 +3,9 @@ description: 新增或移除聊天使用者 — Marketo檔案 — 產品檔案
 title: 添加或刪除聊天用戶
 hide: true
 hidefromtoc: true
-source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ## 添加聊天用戶 {#add-a-chat-user}
 
-1. 登入[Adobe Admin Console](https://adminconsole.adobe.com/)。
+1. 登入 [Adobe Admin Console](https://adminconsole.adobe.com/).
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. 按一下「**動態聊天**」。
+1. 按一下 **動態聊天**.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -28,11 +28,11 @@ ht-degree: 0%
    >
    >如果您有多個Marketo訂閱，請在下一個步驟之前選取所需的訂閱。
 
-1. 按一下&#x200B;**使用者**&#x200B;標籤。
+1. 按一下 **使用者** 標籤。
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. 按一下&#x200B;**添加用戶**&#x200B;按鈕。
+1. 按一下 **添加用戶** 按鈕。
 
    ![](assets/add-or-remove-chat-users-4.png)
 
@@ -40,45 +40,63 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-chat-users-5.png)
 
-1. 按一下&#x200B;**+**&#x200B;圖示並選取所需的產品設定檔。
+1. 按一下 **+** 圖示並選取所需的產品設定檔。
 
    ![](assets/add-or-remove-chat-users-6.png)
 
-1. 按一下「**儲存**」。
+1. 按一下 **儲存**.
 
    ![](assets/add-or-remove-chat-users-7.png)
 
-然後，使用者會收到電子郵件以登入Marketo。
+## 將動態聊天存取新增至Marketo角色 {#add-dynamic-chat-access-to-marketo-role}
 
-## 刪除聊天用戶 {#remove-a-chat-user}
+如果新增的聊天使用者的Marketo角色尚未擁有動態聊天權限，以下說明如何新增。
 
-1. 登入[Adobe Admin Console](https://adminconsole.adobe.com/)。
+1. 在Marketo中，按一下 **管理** 選取 **使用者與角色**.
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. 按一下「**動態聊天**」。
+1. 按一下 **角色** 標籤。
 
    ![](assets/add-or-remove-chat-users-9.png)
+
+1. 從清單中，選擇要修改的角色，然後按一下 **編輯角色**.
+
+   ![](assets/add-or-remove-chat-users-10.png)
+
+1. 選擇 **訪問動態聊天** 按一下 **儲存**.
+
+   ![](assets/add-or-remove-chat-users-11.png)
+
+## 刪除聊天用戶 {#remove-a-chat-user}
+
+1. 登入 [Adobe Admin Console](https://adminconsole.adobe.com/).
+
+   ![](assets/add-or-remove-chat-users-12.png)
+
+1. 按一下 **動態聊天**.
+
+   ![](assets/add-or-remove-chat-users-13.png)
 
    >[!NOTE]
    >
    >如果您有多個Marketo訂閱，請在下一個步驟之前選取所需的訂閱)。
 
-1. 按一下&#x200B;**使用者**&#x200B;標籤。
+1. 按一下 **使用者** 標籤。
 
-   ![](assets/add-or-remove-chat-users-10.png)
+   ![](assets/add-or-remove-chat-users-14.png)
 
 1. 選擇要刪除的用戶。
 
-   ![](assets/add-or-remove-chat-users-11.png)
+   ![](assets/add-or-remove-chat-users-15.png)
 
-1. 按一下&#x200B;**刪除用戶**&#x200B;按鈕。
+1. 按一下 **刪除用戶** 按鈕。
 
-   ![](assets/add-or-remove-chat-users-12.png)
+   ![](assets/add-or-remove-chat-users-16.png)
 
-1. 按一下&#x200B;**刪除用戶**&#x200B;進行確認。
+1. 按一下 **刪除用戶** 確認。
 
-   ![](assets/add-or-remove-chat-users-13.png)
+   ![](assets/add-or-remove-chat-users-17.png)
 
 >[!MORELIKETHIS]
 >

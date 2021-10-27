@@ -3,9 +3,9 @@ description: Dynamic Chat概述 — Marketo檔案 — 產品檔案
 title: 動態聊天概述
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## 整合 {#integrations}
 
-Dynamic Chat的一個關鍵元件是其與Marketo訂閱原生介面的功能。 若要充分運用這項整合的完整功能，您必須先啟動資料同步。 根據Marketo資料庫的大小，初始資料[一次同步](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)最多可能需要24小時才能完成。 平均同步時間不到2小時。
+Dynamic Chat的一個關鍵元件是其與Marketo訂閱原生介面的功能。 若要充分運用這項整合的完整功能，您必須先啟動資料同步。 視您的Marketo資料庫大小而定，初始資料可能需要24小時， [一次性同步](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) 完成。
 
 已同步下列項目：
 
@@ -30,11 +30,11 @@ Dynamic Chat的一個關鍵元件是其與Marketo訂閱原生介面的功能。 
 
 ## 對話方塊 {#dialogues}
 
-對話方塊代表單一聊天參與。 您可以將其想像成容器，內含您與網站訪客進行有趣的聊天對話所需的所有內容。 在每個對話框中，可以指定希望對話框顯示在哪個頁面上、希望向誰顯示對話框，以及對話框本身的內容和流。 此外，您還可以找到量度，以了解對話方塊的執行成效。 [深入了解對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md)。
+對話方塊代表單一聊天參與。 您可以將其想像成容器，內含您與網站訪客進行有趣的聊天對話所需的所有內容。 在每個對話框中，可以指定希望對話框顯示在哪個頁面上、希望向誰顯示對話框，以及對話框本身的內容和流。 此外，您還可以找到量度，以了解對話方塊的執行成效。 [深入了解對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
 
 ## 設定 {#configuration}
 
-在「配置」頁簽中，自定義各種對話框的外觀和風格。 變更字型、顏色、回應時間等！ [深入了解設定](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md)。
+在「配置」頁簽中，自定義各種對話框的外觀和風格。 變更字型、顏色、回應時間等！ [進一步了解配置](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md).
 
 ## 日曆 {#calendar}
 
@@ -58,7 +58,7 @@ Dynamic Chat的一個關鍵元件是其與Marketo訂閱原生介面的功能。 
 
 **如何鎖定匿名人員？**
 
-在對話方塊中，您需要使用&#x200B;_「人員電子郵件為空_」屬性。
+在對話方塊中，您需要使用 _人員電子郵件為空_ 屬性。
 
 **您是否支援AI/NLP功能？**
 
