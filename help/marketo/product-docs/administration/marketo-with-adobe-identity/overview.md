@@ -3,9 +3,9 @@ description: 概述 — Marketo檔案 — 產品檔案
 title: 概述
 hide: true
 hidefromtoc: true
-source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
+source-git-commit: 6047665cf94a4b212734667feeb5fce911ffdebb
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -53,23 +53,23 @@ AdobeIdentity Management系統包含三個元件。
 
 **API用戶端支援是否有任何變更？**
 
-是。 已上線至Adobe IMS的使用者無法使用現有的Marketo使用者管理API。 他們會使用[IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html)。
+是。 已上線至Adobe IMS的使用者無法使用現有的Marketo使用者管理API。 他們會使用 [IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html).
 
 **我們要聯繫誰以尋求支援？**
 
-您可以依照聯絡[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)的標準程式操作。
+您需遵循標準程式聯絡 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support).
 
 **Marketo使用者角色（在工作區內）是否在Adobe Admin Console中管理？**
 
 不。 使用者角色管理（在工作區內）已在Marketo中完成。
 
-**我是Marketo管理員，無法存取Admin Console。如何獲得訪問權？**
+**我是Marketo管理員，無法存取Admin Console。 如何取得存取權？**
 
-任何系統或產品管理員只要能存取貴組織的Admin Console，就能授予您存取權。 如果您不確定組織中誰在主控台中擁有管理員權限，請聯絡[Adobe客戶服務](https://helpx.adobe.com/contact.html)。
+任何系統或產品管理員只要能存取貴組織的Admin Console，就能授予您存取權。 如果您不確定組織中的誰在主控台中擁有管理員權限，請聯絡 [Adobe客戶服務](https://helpx.adobe.com/contact.html).
 
 **管理員如何將使用者新增至Marketo Sales Connect?**
 
-雖然AC for Sales Connect中將有一張產品卡，但不應使用AC來添加/管理用戶。 以下連結可讓管理員透過Marketo Sales Connect管理使用者：[https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management)。
+雖然AC for Sales Connect中將有一張產品卡，但不應使用AC來添加/管理用戶。 以下連結可讓管理員透過Marketo Sales Connect管理使用者： [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management).
 
 **我可以在何處進一步了解Adobe Admin Console?**
 
@@ -77,7 +77,7 @@ AdobeIdentity Management系統包含三個元件。
 
 **我是否仍會前往Marketo的「管理員」區段進行帳戶變更？**
 
-否，您需要導覽至[account.adobe.com](https://account.adobe.com)。
+否，您需要導覽至 [account.adobe.com](https://account.adobe.com).
 
 **這如何與Marketo的Universal ID搭配運作？**
 
@@ -85,7 +85,7 @@ AdobeIdentity Management系統包含三個元件。
 
 **這適用於SSO嗎？**
 
-是。 Marketo與Adobe IMS的整合支援通用ID使用者和SSO。 SSO現在由Adobe IMS驅動，並在Adobe Admin Console的組織層級設定。 [如需詳細資訊，請參閱](https://helpx.adobe.com/enterprise/using/set-up-identity.html)。
+是。 Marketo與Adobe IMS的整合支援通用ID使用者和SSO。 SSO現在由Adobe IMS驅動，並在Adobe Admin Console的組織層級設定。 [如需詳細資訊，請前往這裡](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
 
 **裝置授權如何運作？**
 
@@ -97,10 +97,11 @@ Adobe IMS目前不支援任何類似Marketo裝置授權功能的功能。
 
 **若為Adobe IMS，我們可以選擇使用Adobe ID、Enterprise ID或Federated ID?**
 
-是，您可以決定要取得組織支援的身分類型。 更多資訊[此處](https://helpx.adobe.com/enterprise/using/identity.html)和[此處](https://helpx.adobe.com/enterprise/using/set-up-identity.html)。
+是，您可以決定要取得組織支援的身分類型。 更多資訊 [此處](https://helpx.adobe.com/enterprise/using/identity.html) 和 [此處](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
 
 >[!MORELIKETHIS]
 >
 >* [管理設定](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
 >* [新增或移除產品管理員](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
 >* [新增或移除使用者](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
+
