@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: 設定並新增人員 — Marketo檔案 — 產品檔案
 title: 設定並新增人員
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,10 @@ ht-degree: 0%
 1. 輸入您的名字和姓氏、電子郵件地址和公司名稱，然後按一下 **建立** 把自己當個人。
 
    ![](assets/eight.png)
+
+   >[!CAUTION]
+   >
+   >Marketo **not** 支援包含emoji的電子郵件地址。
 
 1. 要查看您的人員，請開啟左側菜單中的「系統智慧清單」，然後按一下「所有人員」。
 
