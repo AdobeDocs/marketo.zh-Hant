@@ -2,10 +2,10 @@
 description: 銷售活動字彙表 — Marketo檔案 — 產品檔案
 title: 銷售活動辭匯表
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -283,7 +283,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td><strong>來源</strong></td> 
-   <td>活動來源。 將設定為「Tout」（銷售連接）活動。</td> 
+   <td>活動來源。 將在』22年1月版本之前，設為Sales Connect活動的「Tout」。 將是』22年1月發行後Sales Connect活動的「銷售應用程式」。</td>
   </tr> 
   <tr> 
    <td><strong>範本ID</strong></td> 
