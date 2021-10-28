@@ -2,10 +2,10 @@
 description: 銷售活動字彙表 — Marketo檔案 — 產品檔案
 title: 銷售活動辭匯表
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
+source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '520'
+ht-degree: 1%
 
 ---
 
@@ -263,7 +263,7 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td><strong>銷售電子郵件主題</strong></td> 
-   <td>電子郵件的主旨行。</td> 
+   <td>電子郵件的主旨行，後面接著唯一ID(例如：我的主旨行(MSC-12345678)</td> 
   </tr>
   <tr> 
    <td><strong>已呼叫銷售電話號碼</strong></td> 
@@ -283,7 +283,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>來源</strong></td> 
-   <td>活動來源。 將在』22年1月版本之前，設為Sales Connect活動的「Tout」。 將是』22年1月發行後Sales Connect活動的「銷售應用程式」。</td>
+   <td>活動來源。 將在』21年10月發行之前設為Sales Connect活動的「Tout」。 將是2021年10月發行後Sales Connect活動的「銷售應用程式」。</td>
   </tr> 
   <tr> 
    <td><strong>範本ID</strong></td> 

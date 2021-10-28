@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
+source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
 workflow-type: tm+mt
-source-wordcount: '7972'
+source-wordcount: '7974'
 ht-degree: 0%
 
 ---
@@ -410,16 +410,16 @@ ht-degree: 0%
             + [使用資產標籤](product-docs/core-marketo-concepts/programs/creating-programs/using-the-assets-tab.md)
             + [使用方案首頁頁簽](product-docs/core-marketo-concepts/programs/creating-programs/using-the-program-home-tab.md)
          + 使用方案 {#working-with-programs}
-            + [最佳實務：如何組織計畫](product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md)
-            + [復製程式](product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)
-            + [復製程式中的資產](product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md)
+            + [Best Practice: How to Organize your Programs](product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md)
+            + [Clone a Program](product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)
+            + [Clone an Asset in a Program](product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md)
             + [刪除方案](product-docs/core-marketo-concepts/programs/working-with-programs/delete-a-program.md)
-            + [編輯Analytics行為設定](product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md)
-            + [匯入方案](product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)
+            + [Edit Analytics Behavior Settings](product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md)
+            + [Import a Program](product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)
             + [將電子錶格中的成員導入程式](product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md)
-            + [管理和查看成員](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
-            + [方案成員自定義欄位](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
-            + [將SFDC促銷活動與計畫同步](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
+            + [Manage and View Members](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
+            + [Program Member Custom Fields](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
+            + [Sync an SFDC Campaign with a Program](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
             + [了解期間成本](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
             + [了解標籤](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
             + [在方案中使用標籤](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
@@ -427,7 +427,7 @@ ht-degree: 0%
          + 計畫績效報告 {#program-performance-report}
             + [建立方案績效報告](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [將程式狀態列添加到程式報告](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
-            + [按期間成本篩選方案報表](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
+            + [Filter a Program Report by Period Cost](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
             + [按方案篩選方案報告](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)
             + [依標籤篩選方案報表](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
          + 方案計畫視圖 {#program-schedule-view}
@@ -439,15 +439,15 @@ ht-degree: 0%
             + [編輯程式計畫視圖中的條目](product-docs/core-marketo-concepts/programs/program-schedule-view/editing-entries-in-the-program-schedule-view.md)
             + [隱藏和取消隱藏自訂項目類型](product-docs/core-marketo-concepts/programs/program-schedule-view/hiding-and-unhiding-custom-entry-types.md)
             + [移動程式計畫視圖中的條目](product-docs/core-marketo-concepts/programs/program-schedule-view/moving-entries-in-the-program-schedule-view.md)
-            + [導航程式計畫視圖](product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)
-            + [方案計畫查看條目類型](product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)
+            + [Navigating the Program Schedule View](product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)
+            + [Program Schedule View Entry Types](product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)
             + [在方案排程檢視中重新執行智慧型促銷活動](product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md)
             + [在方案計畫視圖中重新計畫批智慧型促銷活動](product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)
             + [從計畫視圖重新計畫整個程式](product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)
             + [了解暫定/確認日期](product-docs/core-marketo-concepts/programs/program-schedule-view/understanding-tentative-confirmed-dates.md)
             + [使用全域覆蓋](product-docs/core-marketo-concepts/programs/program-schedule-view/using-a-global-overlay.md)
          + 代號 {#tokens}
-            + [管理我的代號](product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
+            + [Managing My Tokens](product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
             + [了解程式中的代號](product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
             + [程式成員自定義欄位令牌](product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)
       + 行銷行事歷 {#marketing-calendar}
@@ -865,15 +865,15 @@ ht-degree: 0%
                + [模板20E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20e.md)
          + 個人化登錄頁面 {#personalizing-landing-pages}
             + [將程式碼片段新增至登陸頁面](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
-            + [新增其他登錄頁面CNAME](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
+            + [Add Additional Landing Page CNAMEs](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
             + [新增SSL至您的登錄頁面](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md)
-            + [新增文字和代號至登陸頁面](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
-            + [為登錄頁面啟用個人化URL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
+            + [Add Text and Tokens to a Landing Page](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
+            + [Enable Personalized URLs for a Landing Page](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
             + [為您的帳戶啟用個人化URL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
-            + [匯出包含個人化URL的清單](product-docs/demand-generation/landing-pages/personalizing-landing-pages/export-a-list-with-personalized-urls.md)
-            + [在登錄頁面中包含日曆事件ICS檔案](product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
-            + [重新導向URL路徑](product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)
-            + [Token概述](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
+            + [Export a List with Personalized URLs](product-docs/demand-generation/landing-pages/personalizing-landing-pages/export-a-list-with-personalized-urls.md)
+            + [Include a Calendar Event ICS File in a Landing Page](product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
+            + [Redirect a URL Path](product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)
+            + [Tokens Overview](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
             + [在登錄頁面中使用動態內容](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
             + [使用URL產生器](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
       + 社交 {#social}
@@ -1062,6 +1062,7 @@ ht-degree: 0%
       + [概述](product-docs/marketo-engage-next-generation-experience/overview.md)
       + [圖示字彙表](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
       + [使用全域搜尋](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
+      + [切換開關](product-docs/marketo-engage-next-generation-experience/toggle-switch.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + 快速入門 {#getting-started}
          + [Sales Connect概述](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -1547,15 +1548,15 @@ ht-degree: 0%
          + 收入週期模型 {#revenue-cycle-models}
             + [核准/取消核准收入模型](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
             + [編輯已核准的模型](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model/editing-your-approved-model.md)
-            + [批准階段和分配銷售線索至收入模型](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md)
+            + [Approving Stages and Assigning Leads to a Revenue Model](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md)
             + [更改舞台名稱](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/changing-the-name-of-a-stage.md)
             + [複製Marketo範例收入模型](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/cloning-a-marketo-example-revenue-model.md)
             + [建立新的收入模型](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-            + [建立成功路徑分析器](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
+            + [Create a Success Path Analyzer](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
             + [為模型效能分析（銷售機會）啟用自定義欄位組](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/enable-custom-field-groups-for-model-performance-analysis-leads.md)
             + [在收入週期模型中查找所有銷售線索](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)
             + [合併收入建模器中的兩個階段](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
-            + [報告您的收入模型](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+            + [Report on Your Revenue Model](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
             + [在收入模型中使用經理帳戶設定Google AdWords轉換](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
             + [在收入模型中設定Google AdWords轉換](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
             + [在收入建模器中依帳戶開始追蹤](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
