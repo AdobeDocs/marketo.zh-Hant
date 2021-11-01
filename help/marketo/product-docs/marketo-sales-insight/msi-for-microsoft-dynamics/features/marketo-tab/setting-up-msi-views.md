@@ -1,11 +1,9 @@
 ---
 description: 設定MSI檢視 — Marketo檔案 — 產品檔案
 title: 設定MSI視圖
-hide: true
-hidefromtoc: true
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 8227648ce67bf0f9f8b3b2fea7445850d8e154d5
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
