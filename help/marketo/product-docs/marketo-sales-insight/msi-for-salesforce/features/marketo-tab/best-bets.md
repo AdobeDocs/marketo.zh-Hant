@@ -2,9 +2,9 @@
 description: 最佳選擇 — Marketo檔案 — 產品檔案
 title: 最佳下注
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -46,3 +46,7 @@ ht-degree: 0%
 * 添加到監視清單
 
 ![](assets/best-bets-1.png)
+
+>[!NOTE]
+>
+>聯繫人/銷售線索必須位於預設分區中，才能添加到監視清單中。
