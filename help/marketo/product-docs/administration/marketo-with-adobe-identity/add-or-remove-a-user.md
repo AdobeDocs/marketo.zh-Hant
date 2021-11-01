@@ -3,9 +3,9 @@ description: 新增或移除使用者 — Marketo檔案 — 產品檔案
 title: 新增或移除使用者
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ## 新增使用者 {#add-a-user}
 
-1. 登入[Adobe Admin Console](https://adminconsole.adobe.com/)。
+1. 登入 [Adobe Admin Console](https://adminconsole.adobe.com/).
 
    ![](assets/add-or-remove-a-user-1.png)
 
-1. 按一下&#x200B;**Marketo Engage**。
+1. 按一下 **Marketo Engage**.
 
    ![](assets/add-or-remove-a-user-2.png)
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. 按一下&#x200B;**使用者**&#x200B;標籤。
+1. 按一下 **使用者** 標籤。
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. 按一下&#x200B;**添加用戶**&#x200B;按鈕。
+1. 按一下 **添加用戶** 按鈕。
 
    ![](assets/add-or-remove-a-user-5.png)
 
@@ -38,23 +38,27 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-6.png)
 
-1. 按一下&#x200B;**+**&#x200B;圖示並選取所需的產品設定檔。
+1. 按一下 **+** 圖示並選取所需的產品設定檔。
 
    ![](assets/add-or-remove-a-user-7.png)
 
-1. 按一下「**儲存**」。
+1. 按一下 **儲存**.
 
    ![](assets/add-or-remove-a-user-8.png)
 
 然後，使用者會收到電子郵件以登入Marketo。
 
+>[!NOTE]
+>
+>透過Adobe Admin Console將使用者新增至Marketo Engage時，訂閱的「預設」工作區會授予該使用者「標準使用者」角色。 如果需要調整使用者在工作區中的角色，這會在Marketo Engage中完成， [如下所述](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+
 ## 移除使用者 {#remove-a-user}
 
-1. 登入[Adobe Admin Console](https://adminconsole.adobe.com/)。
+1. 登入 [Adobe Admin Console](https://adminconsole.adobe.com/).
 
    ![](assets/add-or-remove-a-user-9.png)
 
-1. 按一下&#x200B;**Marketo Engage**。
+1. 按一下 **Marketo Engage**.
 
    ![](assets/add-or-remove-a-user-10.png)
 
@@ -62,17 +66,19 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. 按一下&#x200B;**使用者**&#x200B;標籤。
+1. 按一下 **使用者** 標籤。
 
    ![](assets/add-or-remove-a-user-12.png)
 
-1. 選擇要刪除的用戶，然後按一下&#x200B;**Remove**&#x200B;按鈕。
+1. 選取您要移除的使用者，然後按一下 **移除** 按鈕。
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. 按一下&#x200B;**刪除用戶**&#x200B;進行確認。
+1. 按一下 **刪除用戶** 確認。
 
    ![](assets/add-or-remove-a-user-14.png)
+
+然後，使用者會收到電子郵件，通知他們不再擁有產品管理員的Marketo Engage存取權。
 
 >[!MORELIKETHIS]
 >
