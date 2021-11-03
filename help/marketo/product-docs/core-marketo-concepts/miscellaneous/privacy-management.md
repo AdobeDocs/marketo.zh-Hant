@@ -1,9 +1,9 @@
 ---
 description: 隱私權管理 — Marketo檔案 — 產品檔案
 title: 隱私權管理
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ Marketo Engage的功能可協助您遵守下列法規：
 * 此 **存取權限** 是資料主體有權從資料控制方取得關於其個人資料是否正在處理、處理地點及用途的確認。 資料控制方應免費提供電子格式的個人資料副本。
 * 也稱為資料擦除， **被遺忘權** （刪除要求）為資料主體賦予權利，讓資料控制方得以清除其個人資料、停止進一步散發資料，並可能讓第三方停止處理資料。
 
-若要了解如何建立存取和刪除請求，以及我們如何處理這些請求，請參閱 [實施步驟](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
+若要了解如何建立存取/刪除請求，以及我們如何處理這些請求，請參閱 [這篇文章](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
