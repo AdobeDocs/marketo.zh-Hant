@@ -1,9 +1,9 @@
 ---
 description: 隱私權要求 — Marketo檔案 — 產品檔案
 title: 隱私權要求
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 17e68ea00647dbfd98fde94827eb300804944511
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -41,16 +41,16 @@ b.您要行事之人員的電子郵件地址
 &quot;companyContexts&quot;:
 
 * &quot;namespace&quot;: **imsOrgID**
-* &quot;value&quot;: <Your IMS Org ID Value>
+* &quot;value&quot;: `<Your IMS Org ID Value>`
 
 &quot;users&quot;:
 
-* &quot;key&quot;: <Your Request Tracking Key>   （可選）
+* &quot;key&quot;: `<Your Request Tracking Key>`   （可選）
 * &quot;action&quot;:heer **存取** 或 **刪除**
 * &quot;userIDs&quot;:
    * &quot;namespace&quot;: **電子郵件**
    * &quot;type&quot;: **標準**
-   * &quot;value&quot;: &lt;data subject=&quot;&quot; s=&quot;&quot; email=&quot;&quot; address=&quot;&quot;>
+   * &quot;value&quot;: `<Data Subject’s Email Address>`
 
 &quot;include&quot;:
 
