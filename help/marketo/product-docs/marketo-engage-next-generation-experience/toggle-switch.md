@@ -1,11 +1,9 @@
 ---
 description: 切換 — Marketo檔案 — 產品檔案
 title: 切換開關
-hide: true
-hidefromtoc: true
-source-git-commit: ff492d23f2660a66adfa392cf4fdfd8cb19d126a
+source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -20,35 +18,33 @@ ht-degree: 0%
 
 ## 登錄頁面清單檢視 {#landing-page-list-view}
 
-在Marketo中，選取 **Design Studio**.
+下一代「著陸頁面」清單檢視提供搜尋篩選條件，以及執行大量「著陸頁面」動作的功能。
 
-![](assets/toggle-switch-1.png)
+1. 在Marketo中，選取 **Design Studio**.
 
-選擇 **登錄頁面**.
+   ![](assets/toggle-switch-1.png)
 
-![](assets/toggle-switch-2.png)
+1. 選擇 **登錄頁面**.
 
-在頁面右下方，按一下 **新體驗** 切換。
+   ![](assets/toggle-switch-2.png)
 
-![](assets/toggle-switch-3.png)
+1. 在頁面右下方，按一下 **新體驗** 切換。
+
+   ![](assets/toggle-switch-3.png)
 
 新體驗將載入。
 
 ![](assets/toggle-switch-4.png)
 
->[!NOTE]
->
->新的「著陸頁面」清單檢視提供搜尋篩選條件，以及執行大量「著陸頁面」動作的功能。
-
 ## 表單詳細資訊頁面 {#form-details-page}
 
-在Marketo中，尋找並選取您的表單。
+1. 在Marketo中，尋找並選取您的表單。
 
-![](assets/toggle-switch-5.png)
+   ![](assets/toggle-switch-5.png)
 
-在頁面右下方，按一下 **新體驗** 切換。
+1. 在頁面右下方，按一下 **新體驗** 切換。
 
-![](assets/toggle-switch-6.png)
+   ![](assets/toggle-switch-6.png)
 
 新體驗將載入。
 
@@ -58,10 +54,10 @@ ht-degree: 0%
 
 您可以選擇針對所有可用功能（目前和即將提供）啟用Marketo的下一代介面。
 
-在當前具有切換開關的區域中(在本示例中，我們位於 [表單詳細資訊頁面](#form-details-page))，按一下頁面右下角的齒輪圖示。
+1. 在當前具有切換開關的區域中(在本示例中，我們位於 [表單詳細資訊頁面](#form-details-page))，按一下頁面右下角的齒輪圖示。
 
-![](assets/toggle-switch-8.png)
+   ![](assets/toggle-switch-8.png)
 
-選擇 **啟用所有可用功能** 按一下 **確定**.
+1. 選擇 **啟用所有可用功能** 按一下 **確定**.
 
-![](assets/toggle-switch-9.png)
+   ![](assets/toggle-switch-9.png)
