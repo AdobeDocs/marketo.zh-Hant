@@ -1,9 +1,9 @@
 ---
 description: 隱私權要求 — Marketo檔案 — 產品檔案
 title: 隱私權要求
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: 9d7fd72f4db90ad41cf24011960b2a5a3af7e456
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 
 本檔案概述如何管理個別資料隱私權請求，您可透過Privacy ServiceUI和 **Privacy ServiceAPI**.
 
+>[!NOTE]
+>
+>透過Privacy ServiceUI或API提交以供Marketo Engage的隱私權要求，僅適用於擁有Marketo Engage+ RT-CDP、B2B和B2P版本的使用者。
+
 您可以透過兩種方式提交個別請求，以從Marketo Engage中存取和刪除消費者資料：
 
 * 透過 [Privacy ServiceUI](https://privacyui.cloud.adobe.io/). 請參閱本檔案 [此處](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_ui_tutorial.md).
@@ -19,13 +23,11 @@ ht-degree: 0%
 
 此 [Privacy Service](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) 支援兩種請求：資料存取和資料刪除。
 
-注意：透過Privacy ServiceUI或API提交的Marketo Engage請求，僅適用於擁有Marketo Engage+ RT-CDP、B2B和B2P版本的客戶。
-
 讓我們來看看您如何建立存取和刪除請求。
 
 ## 傳送請求以進行Marketo Engage的必要設定 {#required-setup-to-send-requests-for-marketo-engage}
 
-若要請求存取和刪除Marketo Engage資料，您必須：
+若要請求存取和刪除資料以進行Marketo Engage，您必須：
 
 1. 識別下列項目：
 
@@ -45,7 +47,6 @@ b.您要行事之人員的電子郵件地址
 
 &quot;users&quot;:
 
-* &quot;key&quot;: `<Your Request Tracking Key>`   （可選）
 * &quot;action&quot;:heer **存取** 或 **刪除**
 * &quot;userIDs&quot;:
    * &quot;namespace&quot;: **電子郵件**
@@ -58,7 +59,7 @@ b.您要行事之人員的電子郵件地址
 
 &quot;regulation&quot;:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd**，或 **nzpa**  （適用於請求的隱私權法規）
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra**，或 **nzpa_nzl**  （適用於請求的隱私權法規）
 
 ## 範例一：GDPR刪除請求 {#gdpr-delete-request}
 
@@ -74,7 +75,6 @@ JSON要求
   ],
   "users": [
     {
-      "key": "AAGDPRO1", 
       "action": [
         "delete"
       ],
@@ -105,7 +105,6 @@ JSON回應
       "jobId": "997b01e3-9568-402c-904b-b4e60a437875",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "delete"
           ],
@@ -139,7 +138,6 @@ JSON要求
   ],
   "users": [
     {
-      "key": "AAGDPRO1",
       "action": [
         "access"
       ],
@@ -170,7 +168,6 @@ JSON回應
       "jobId": " 3115e42d-011b-47ab-a2b0-ed4356af4d3e",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "access"
           ],
