@@ -1,7 +1,7 @@
 ---
 description: 隱私權要求 — Marketo檔案 — 產品檔案
 title: 隱私權要求
-source-git-commit: 9d7fd72f4db90ad41cf24011960b2a5a3af7e456
+source-git-commit: da290279eb6daa9ee96baed54482482ec6640301
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%
@@ -111,7 +111,7 @@ JSON回應
           "userIDs": [
             {
               "namespace": "email",
-              "value": " john.doe@adobe.com",
+              "value": "john.doe@adobe.com",
               "type": "standard",
               "namespaceId": 6,
               "isDeletedClientSide": false
@@ -165,7 +165,7 @@ JSON回應
   "totalRecords": 1,
   "jobs": [
     {
-      "jobId": " 3115e42d-011b-47ab-a2b0-ed4356af4d3e",
+      "jobId": "3115e42d-011b-47ab-a2b0-ed4356af4d3e",
       "customer": {
         "user": {
           "action": [
@@ -174,7 +174,7 @@ JSON回應
           "userIDs": [
             {
               "namespace": "email",
-              "value": " john.doe@adobe.com",
+              "value": "john.doe@adobe.com",
               "type": "standard",
               "namespaceId": 6,
               "isDeletedClientSide": false
