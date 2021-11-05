@@ -1,7 +1,7 @@
 ---
 description: 隱私權管理 — Marketo檔案 — 產品檔案
 title: 隱私權管理
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: d33de522f07c4e95b93040dc3e8ffeec258a9ba2
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
@@ -14,7 +14,7 @@ Marketo Engage提供一套工具，協助您遵守隱私權法規。
 
 >[!NOTE]
 >
->透過Privacy ServiceUI或API提交的Marketo Engage請求，僅適用於擁有Marketo Engage+ RT-CDP、B2B和B2P版本的客戶。
+>透過Privacy ServiceUI或API提交以供Marketo Engage的隱私權要求，僅適用於擁有Marketo Engage+ RT-CDP、B2B和B2P版本的使用者。
 
 ## 隱私權管理法規 {#regulations-on-privacy-management}
 
