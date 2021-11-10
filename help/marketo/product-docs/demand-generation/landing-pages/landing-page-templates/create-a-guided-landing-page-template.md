@@ -3,7 +3,7 @@ unique-page-id: 7515401
 description: 建立引導式登錄頁面範本 — Marketo檔案 — 產品檔案
 title: 建立引導式登錄頁面範本
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
-source-git-commit: f098742d384770983206b47cd9b5535fd6ab056f
+source-git-commit: c309b69198c6f61d7475c6d3a6b1672e045b9b4a
 workflow-type: tm+mt
 source-wordcount: '1254'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 `<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
 
-### 影像 {#image}
+## 影像 {#image}
 
 定義可編輯的影像元素有兩個選項。 您可以使用 `<div>`，指定要插入影像的容器或 `<img>` 標籤。
 
