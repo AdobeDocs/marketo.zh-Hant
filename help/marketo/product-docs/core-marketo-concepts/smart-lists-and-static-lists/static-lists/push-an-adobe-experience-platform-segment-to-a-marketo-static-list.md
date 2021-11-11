@@ -1,23 +1,22 @@
 ---
 description: 推送Adobe Experience Platform區段至Marketo靜態清單 — Marketo檔案 — 產品檔案
 title: 推送Adobe Experience Platform區段至Marketo靜態清單
-hidefromtoc: true
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
+source-git-commit: 5d26aff392d5749941ad93e351c454249662cd72
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
 
 # 推送Adobe Experience Platform區段至Marketo靜態清單 {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
 
-This feature allows you to push segments located in your Adobe Experience Platform over to Marketo in the form of a static list.
+此功能可讓您以靜態清單的形式，將位於Adobe Experience Platform中的區段推送至Marketo。
 
 >[!PREREQUISITES]
 >
->* [Create an API User](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) in Marketo.
->* 然後，前往 **管理** > **Launchpoint**. 查找剛建立的角色的名稱，然後按一下 **檢視詳細資料**. Copy and save the info in **Client ID** and **Client Secret**, as you&#39;ll need it for this feature.
+>* [建立API使用者](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) 在Marketo。
+>* 然後，前往 **管理** > **Launchpoint**. 查找剛建立的角色的名稱，然後按一下 **檢視詳細資料**. 複製資訊並儲存於 **用戶端ID** 和 **用戶端密碼**，因為您會需要它才能使用此功能。
 
 
 1. 登入 [Adobe Experience Platform](https://experience.adobe.com/).
@@ -28,7 +27,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-2.png)
 
-1. In the left nav, click **Destinations**.
+1. 在左側導覽列中，按一下 **目的地**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-3.png)
 
@@ -42,7 +41,6 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
 1. 按一下 **配置新目標**.
 
-   PICC
 
 1. 在「帳戶類型」下，按一下 **新帳戶** 選項按鈕。 輸入您的Marketo憑證，然後按一下 **連接到目標**.
 
@@ -76,7 +74,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
    >
    >區段對靜態清單為1:1。 若您在此處選擇多個區段，您必須在「區段排程」索引標籤中將每個區段對應至指定的靜態清單。
 
-1. Click **Add New Mapping**.
+1. 按一下 **新增對應**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-11.png)
 
@@ -124,9 +122,9 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    >[!NOTE]
    >
-   >身分識別可用於在Marketo中尋找相符項目。 If a match is found, the person is added to the static List. If a match is not found, those people are dropped (i.e., not created in Marketo).
+   >身分識別可用於在Marketo中尋找相符項目。 如果找到相符項目，則會將人員新增至靜態清單。 如果找不到相符項目，系統會捨棄這些人員(亦即，不會在Marketo中建立)。
 
-1. _在Marketo_、建立靜態清單，或尋找並選取您已建立的清單。 Copy the mapping ID from the end of the URL.
+1. _在Marketo_、建立靜態清單，或尋找並選取您已建立的清單。 從URL結尾複製對應ID。
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-20.png)
 
@@ -138,6 +136,6 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-21.png)
 
-1. Confirm your changes and click **Finish**.
+1. 確認您的變更，然後按一下 **完成**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-22.png)
