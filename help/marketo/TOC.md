@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
-source-wordcount: '7981'
+source-wordcount: '8041'
 ht-degree: 0%
 
 ---
@@ -301,7 +301,7 @@ ht-degree: 0%
             + [使用「請求促銷活動」設定銷售的觸發智慧型促銷活動](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
             + [使用標準智慧清單規則邏輯](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
          + 流量動作 {#flow-actions}
-            + [新增流程步驟至智慧型促銷活動](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+            + [新增流量步驟至智慧型促銷活動](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
             + [重新排序智慧促銷活動中的流程步驟](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
             + [添加到清單](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
             + [將資料附加至欄位](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
@@ -690,7 +690,7 @@ ht-degree: 0%
             + [在網站上內嵌表單](product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md)
             + [啟用表單上的社交表單填寫](product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)
             + [linkedIn Social表單填寫常見問題集](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
-            + [顯示已知人員的自訂HTML表單](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
+            + [顯示已知人員的自定義HTML表單](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
             + [在燈箱中使用表單](product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)
          + 表單設計 {#form-design}
             + [更改表單標籤位置](product-docs/demand-generation/forms/form-design/change-form-label-position.md)
@@ -1218,7 +1218,7 @@ ht-degree: 0%
          + [設定您的Marketo連線](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [授予使用者存取權](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Sales Connect中的有趣時刻](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
-         + [讓Sales Connect用戶可以看到促銷活動](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [讓Sales Connect使用者可看見促銷活動](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [銷售活動辭匯表](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [銷售活動觸發器和篩選器](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + 人員 {#people}
@@ -1269,6 +1269,25 @@ ht-degree: 0%
             + [我的動態欄位沒有填滿](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [在動態欄位中參考自己](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
+      + 動作 {#actions}
+         + 管理 {#admin}
+            + [阻止的域](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
+            + [內容鎖定](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
+            + [建立團隊](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [如何設定自訂網域追蹤](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
+            + [邀請使用者和管理員](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+            + [共用設定](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+         + 電子郵件 {#email}
+            + 指揮中心 {#command-center}
+               + [進階搜尋概述](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
+               + [為團隊成員分配任務](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
+               + [命令中心概述](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
+               + [電子郵件欄和電子郵件頁面配置](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
+               + [命令中心中的快速操作](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+         + 電子郵件設定 {#email-settings}
+            + [驗證您的電子郵件](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + 傳送銷售電子郵件 {#send-a-sales-email}
+            + [電子郵件追蹤概述](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + 使用MSI {#using-msi}
          + [在Marketo中記錄來自您銷售機會的傳入郵件](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome外掛程式 {#msi-chrome-plugin}
@@ -1622,7 +1641,7 @@ ht-degree: 0%
       + 網站個人化報表 {#reporting-for-web-personalization}
          + [電子郵件報表](product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
          + [啟用/停用報表訂閱](product-docs/web-personalization/reporting-for-web-personalization/enable-disable-report-subscriptions.md)
-         + [排除特定IP不予追蹤](product-docs/web-personalization/reporting-for-web-personalization/exclude-specific-ips-from-being-tracked.md)
+         + [排除特定IP以不受追蹤](product-docs/web-personalization/reporting-for-web-personalization/exclude-specific-ips-from-being-tracked.md)
          + [銷售情報](product-docs/web-personalization/reporting-for-web-personalization/sales-intelligence.md)
          + [了解摘要報表](product-docs/web-personalization/reporting-for-web-personalization/understanding-the-summary-report.md)
          + 網站分析整合 {#web-analytics-integrations}
