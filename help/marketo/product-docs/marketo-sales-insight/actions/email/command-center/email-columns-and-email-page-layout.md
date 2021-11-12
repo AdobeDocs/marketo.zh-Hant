@@ -1,11 +1,11 @@
 ---
-description: null
-title: null
+description: 電子郵件欄和電子郵件頁面配置 — Marketo檔案 — 產品檔案
+title: 電子郵件欄和電子郵件頁面配置
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: 8dccd250f5006b70f07b8179134b1db688380260
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
