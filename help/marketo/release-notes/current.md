@@ -2,9 +2,9 @@
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+source-git-commit: 2712a21b7457ef51a9112074465c54e8f7954fa9
 workflow-type: tm+mt
-source-wordcount: '1088'
+source-wordcount: '1116'
 ht-degree: 0%
 
 ---
@@ -76,6 +76,8 @@ ht-degree: 0%
 ## 公告 {#announcements}
 
 **關聯銷售機會淘汰/Munchkin Beta 161更新**:2021年9月7日，161版Munchkin開始向啟用Munchkin Beta的10%訂閱提供支援，其後在9月16日為50%訂閱提供支援，在9月30日為100%訂閱提供支援。 此變更會影響Marketo Engage登錄頁面，以及提供給外部登錄頁面的檔案munchkin-beta.js版本，這些頁面是從已推出最新版本的訂閱載入的。 此版本完全取代了Munchkin關聯銷售機會方法，該功能允許將人員的資料提交到Marketo Engage訂閱，並允許將相關的Web瀏覽歷史記錄與已知人員記錄關聯。 正在移除關聯銷售機會，以改用更現代且安全的替代方案，例如Forms JS API、表單提交API和關聯銷售機會REST API。 [請前往這裡進一步了解此功能的淘汰內容](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+
+**Sales Connect更新**:Sales Connect中最近的UI變更導致Salesforce中的某些模式被切斷。 若要修正此問題，請執行 [套件更新](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
 **_產品發行網路研討會_**
 
