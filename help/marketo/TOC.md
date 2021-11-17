@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 179e1ff62f5f76de1d3c9b47687956dc50ee66e4
+source-git-commit: fbdcd6c777778137d0d37ccf27857e3a7655f501
 workflow-type: tm+mt
-source-wordcount: '8047'
+source-wordcount: '8050'
 ht-degree: 0%
 
 ---
@@ -1277,6 +1277,7 @@ ht-degree: 0%
             + [如何設定自訂網域追蹤](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [邀請使用者和管理員](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [共用設定](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+            + [使用者存取詳細資訊](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + 電子郵件 {#email}
             + 指揮中心 {#command-center}
                + [進階搜尋概述](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
