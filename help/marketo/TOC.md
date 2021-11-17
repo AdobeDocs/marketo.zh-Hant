@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+source-git-commit: 179e1ff62f5f76de1d3c9b47687956dc50ee66e4
 workflow-type: tm+mt
-source-wordcount: '8041'
+source-wordcount: '8047'
 ht-degree: 0%
 
 ---
@@ -1273,7 +1273,7 @@ ht-degree: 0%
          + 管理 {#admin}
             + [阻止的域](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [內容鎖定](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
-            + [建立團隊](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [建立團隊](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [如何設定自訂網域追蹤](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [邀請使用者和管理員](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [共用設定](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
@@ -1286,6 +1286,8 @@ ht-degree: 0%
                + [命令中心中的快速操作](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
          + 電子郵件設定 {#email-settings}
             + [驗證您的電子郵件](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + Marketo {#marketo}
+            + [將Marketo存取權授與使用者](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + 傳送銷售電子郵件 {#send-a-sales-email}
             + [電子郵件追蹤概述](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + 使用MSI {#using-msi}
