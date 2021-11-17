@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: fbdcd6c777778137d0d37ccf27857e3a7655f501
+source-git-commit: 07984499064e42b9b4f1cb21881a78dd687d9858
 workflow-type: tm+mt
-source-wordcount: '8050'
+source-wordcount: '8057'
 ht-degree: 0%
 
 ---
@@ -1285,6 +1285,9 @@ ht-degree: 0%
                + [命令中心概述](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
                + [電子郵件欄和電子郵件頁面配置](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
                + [命令中心中的快速操作](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+            + 取消訂閱數 {#unsubscribes}
+               + [取消訂閱概述](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
+               + [自訂取消訂閱連結訊息](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
          + 電子郵件設定 {#email-settings}
             + [驗證您的電子郵件](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
          + Marketo {#marketo}
