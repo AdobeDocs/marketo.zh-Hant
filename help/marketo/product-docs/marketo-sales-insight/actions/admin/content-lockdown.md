@@ -3,9 +3,9 @@ description: 內容鎖定 — Marketo檔案 — 產品檔案
 title: 內容鎖定
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >使用者仍可在傳送或啟動行銷活動時編輯電子郵件的內容。
 
-1. 在 [網頁應用程式](https://toutapp.com/login)，按一下齒輪圖示並選取 **設定**.
+1. 按一下齒輪圖示並選取 **設定**.
 
    ![](assets/content-lockdown-1.png)
 
