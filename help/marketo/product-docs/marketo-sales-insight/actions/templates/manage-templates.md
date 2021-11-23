@@ -3,9 +3,9 @@ description: 管理範本 — Marketo檔案 — 產品檔案
 title: '管理範本 '
 hide: true
 hidefromtoc: true
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,31 @@ ht-degree: 0%
 >[!TIP]
 >
 >請一律直接在範本中輸入文字，或從純文字編輯器（例如記事本或TextEdit）複製。 從RTF編輯器（例如MS Word）複製和貼上可能會造成格式不正確。
+
+## 查看模板詳細資訊 {#view-template-details}
+
+「範本詳細資料」區域包含多個標籤。
+
+![](assets/manage-templates-4a.png)
+
+<table>
+ <tr>
+  <td><strong>範本</strong></td>
+  <td>檢閱並進行編輯、設定條件以讓範本成為建議的範本、新增附註</td>
+ </tr>
+ <tr>
+  <td><strong>Analytics</strong></td>
+  <td>檢閱範本的參與分析。 執行篩選的搜尋。</td>
+ </tr>
+ <tr>
+  <td><strong>電子郵件</strong></td>
+  <td>檢視使用此範本傳送的所有電子郵件。 執行篩選的搜尋。</td>
+ </tr>
+ <tr>
+  <td><strong>行銷活動</strong></td>
+  <td>查看範本正在使用的促銷活動。</td>
+ </tr>
+</table>
 
 ## 共用範本 {#share-a-template}
 
@@ -92,9 +117,17 @@ ht-degree: 0%
 
 存檔模板，使銷售內容保持井然有序和重點突出，而不會丟失任何模板資料。
 
-勾選範本旁的方塊，然後按一下 **封存**.
+1. 勾選您要封存的範本旁的方塊。
 
-PICC
+   ![](assets/manage-templates-14.png)
+
+1. 按一下 **封存**.
+
+   ![](assets/manage-templates-15.png)
+
+1. 按一下 **封存** 確認。
+
+   ![](assets/manage-templates-16.png)
 
 >[!NOTE]
 >
@@ -110,14 +143,14 @@ PICC
 >
 >刪除範本也會刪除與其相關聯的所有追蹤和分析。
 
-1. 選取您要移除的範本。
+1. 勾選您要刪除之範本旁的方塊。
 
-PICC
+   ![](assets/manage-templates-17.png)
 
-1. 按一下右上方的功能表下拉式清單，然後按一下 **刪除**.
+1. 按一下 **刪除**.
 
-PICC
+   ![](assets/manage-templates-18.png)
 
 1. 按一下 **刪除** 確認。
 
-PICC
+   ![](assets/manage-templates-19.png)
