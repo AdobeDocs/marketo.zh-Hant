@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: MSI功能概述 — Marketo檔案 — 產品檔案
 title: MSI功能概述
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
-source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '926'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ MSI Visualforce面板包含下列功能：
 * 緊急
 * 緊急值
 * 在Marketo中檢視 — 按一下此欄位，開啟Marketo中銷售機會的不可編輯檢視。 包括：銷售機會資訊、公司資訊、 SFDC銷售機會資訊、 SFDC自定義欄位、活動日誌
-* MSI聯繫人ID — 向此欄位添加Salesforce聯繫人，並在銷售機會佈局中包括「銷售機會聯繫人橋」面板，以查看該聯繫人的MSI面板
+* MSI聯繫人ID — 將Salesforce聯繫人添加到此欄位，並在銷售機會佈局中包括「銷售機會聯繫人橋」面板，以查看該聯繫人的MSI面板
 
 ## 連絡人版面 {#contact-layout}
 
@@ -65,7 +65,7 @@ MSI Visualforce面板包含下列功能：
 
 * 聯繫人 — 包括按一下超級「轉到完整清單」的選項，您將被發送到Salesforce中的新頁簽，MSI面板將顯示在完整頁佈局中
 * 聯繫人完整清單 — 不包含「轉到完整清單」選項
-* 聯繫行動 — 在Salesforce行動應用程式中可見
+* 連絡行動 — 在Salesforce行動應用程式中可見
 * 新增至Marketo Campaign連絡人頁面 — 新增至Marketo Campaign功能可在此面板中使用
 
 欄位：
@@ -195,4 +195,7 @@ Marketo Sales Insight是依語言儲存。 因此，如果希望它適用於多�
 
 >[!NOTE]
 >
->聯繫人/銷售線索必須位於預設分區中，才能添加到監視清單中。
+>* 聯繫人/銷售線索必須位於預設分區中，才能添加到監視清單中。
+>
+>* MSI Salesforce包不支援具有相依欄位的自定義視圖。
+
