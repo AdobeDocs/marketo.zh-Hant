@@ -3,22 +3,22 @@ description: 命令中心概述 — Marketo檔案 — 產品檔案
 title: 命令中心概述
 hide: true
 hidefromtoc: true
-source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 命令中心概述 {#command-center-overview}
 
-命令中心是一個統一的視圖，可幫助您確定下一步，同時確保不漏掉任何內容。
+命令中心是一個統一的視圖，可幫助您確定下一步，同時確保不會有任何內容漏過裂縫。
 
 ## 管理電子郵件 {#manage-emails}
 
 您可以在命令中心的電子郵件區段管理所有電子郵件活動。 將其視為您的電子郵件寄件匣，以檢閱從Sales Connect傳送的電子郵件。 管理您排程的電子郵件、查看誰在與您的電子郵件互動、檢查傳送的電子郵件是否有任何問題，以及執行其他操作。
 
-PICC
+![](assets/command-center-overview-1.png)
 
 電子郵件區段可讓您以鳥瞰的方式檢視所有電子郵件，並透過主索引標籤和子索引標籤簡化組織，這些標籤和子索引標籤可做為資料夾，讓您的電子郵件根據其狀態自動儲存。
 
@@ -52,7 +52,7 @@ PICC
   <td>這是當電子郵件處於傳送動作時進入的中間狀態。 電子郵件只應持續幾分鐘。</td>
  </tr>
  <tr>
-  <th rowspan="3">未傳遞</th>
+  <th rowspan="3">未傳送</th>
   <td>失敗</td>
   <td>無法傳送的電子郵件。
 </td>
@@ -73,7 +73,7 @@ PICC
 
 任務部分是您管理和完成任務的一站式服務。 在此，您可以無縫地管理任務，以提高工作效率，並將精力集中在最相關的項目上。
 
-PICC
+![](assets/command-center-overview-2.png)
 
 ## 參與前景的後續行動 {#follow-up-with-engaged-prospects}
 
