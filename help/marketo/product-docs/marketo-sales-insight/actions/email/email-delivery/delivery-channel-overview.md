@@ -3,9 +3,9 @@ description: 傳遞管道概觀 — Marketo檔案 — 產品檔案
 title: 傳遞通道概述
 hide: true
 hidefromtoc: true
-source-git-commit: 3b7cc0c855221f6fd0fba6dca08ccbe361ca9758
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Marketo Sales可為您提供多種傳送電子郵件的選項。 本文將檢閱
 
 ## 建議：透過Email Connection的Gmail或Exchange {#recommended-gmail-or-exchange-via-email-connection}
 
-Marketo Sales可透過我們的電子郵件連線服務，簡化設定並增強傳遞能力。 電子郵件連線可讓每位使用者連線至 [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) 或 [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) 帳戶至Marketo銷售人員，以作為所有Marketo銷售電子郵件的傳送管道。
+Marketo Sales可透過我們的電子郵件連線服務簡化設定並增強傳遞能力。 電子郵件連線可讓每位使用者連線至 [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) 或 [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) 帳戶至Marketo銷售人員，以作為所有Marketo銷售電子郵件的傳送管道。
 
 與其他傳送管道選項相比，使用Gmail或Exchange有一些明顯的優點：
 
@@ -45,6 +45,12 @@ Marketo Sales提供了連接第三方SMTP伺服器以用作銷售團隊首選的
 Marketo銷售伺服器僅適用於某些舊版ToutApp客戶。 這些客戶會在其電子郵件設定中看到可用的Marketo銷售伺服器。 所有非舊版客戶將不視Marketo Sales為選項，應將其Gmail或Outlook帳戶連線至Marketo Sales，以解鎖傳遞管道。
 
 Marketo銷售伺服器不支援DKIM和SPF驗證方法，這可能降低傳遞率。 因此，我們建議所有客戶連線至Gmail或Outlook，以獲得最佳的傳遞能力。
+
+## MSC伺服器（舊版） {#msc-servers-legacy}
+
+MSC伺服器僅適用於某些舊版ToutApp客戶。 這些客戶將在其電子郵件設定中看到MSC伺服器可用。 所有非舊版客戶將不會將MSC視為選項，應將其Gmail或Outlook帳戶連接至Sales Connect，以解鎖傳送通道。
+
+MSC伺服器不支援DKIM和SPF驗證方法，這會降低傳遞率。 因此，我們建議所有客戶連線至Gmail或Outlook，以獲得最佳的傳遞能力。
 
 ## Marketo伺服器 {#marketo-servers}
 
