@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
+source-git-commit: 74b5928ab8e8b7cb39261fdedce51f6aad7c400f
 workflow-type: tm+mt
 source-wordcount: '8097'
 ht-degree: 0%
@@ -1295,9 +1295,9 @@ ht-degree: 0%
                + [Marketo取消訂閱檢查](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [將取消訂閱與Salesforce同步](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
          + 電子郵件傳送 {#email-delivery}
-            + [傳遞通道概述](product-docs/marketo-sales-insight/actions/email-settings/delivery-channel-overview.md)
-            + [電子郵件連線限制](product-docs/marketo-sales-insight/actions/email-settings/delivery-channel-overview.md)
-            + [設定自訂傳送通道](product-docs/marketo-sales-insight/actions/email-settings/setting-up-a-custom-delivery-channel.md)
+            + [傳遞通道概述](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
+            + [電子郵件連線限制](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
+            + [設定自訂傳送通道](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
          + 電子郵件設定 {#email-settings}
             + [驗證您的電子郵件](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
          + Marketo {#marketo}
