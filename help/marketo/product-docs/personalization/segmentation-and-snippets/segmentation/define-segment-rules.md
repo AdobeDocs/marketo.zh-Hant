@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: 定義區段規則 — Marketo檔案 — 產品檔案
 title: 定義區段規則
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >我們建議 _針對_ 定義區段規則時使用「帳戶」欄位，因為這可能會造成活動記錄問題。
+   >「帳戶」欄位的活動記錄行為可能會影響資格。 因此，在定義區段規則時，我們建議不要使用「帳戶」欄位。
 
 1. 按一下 **人員（草稿）** 頁簽來查看可能符合此段成員資格的人員。
 
