@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 972ff493506538fa7b36e91a608a6000adb06f42
+source-git-commit: fdc494a8b3002e851bbe76dcd69c58e6d5a00ee6
 workflow-type: tm+mt
-source-wordcount: '8097'
+source-wordcount: '8101'
 ht-degree: 0%
 
 ---
@@ -1270,6 +1270,10 @@ ht-degree: 0%
             + [在動態欄位中參考自己](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
       + 動作 {#actions}
+         + 快速入門 {#getting-started}
+            + 電子郵件設定 {#email-settings}
+               + [驗證您的電子郵件](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
+            + [阻止的域](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
          + 管理 {#admin}
             + [阻止的域](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [內容鎖定](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1294,12 +1298,10 @@ ht-degree: 0%
                + [自訂取消訂閱連結訊息](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Marketo取消訂閱檢查](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [將取消訂閱與Salesforce同步](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
-         + 電子郵件傳送 {#email-delivery}
-            + [傳遞通道概述](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
-            + [電子郵件連線限制](product-docs/marketo-sales-insight/actions/email-delivery/email-connection-throttling.md)
-            + [設定自訂傳送通道](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
-         + 電子郵件設定 {#email-settings}
-            + [驗證您的電子郵件](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+            + 電子郵件傳送 {#email-delivery}
+               + [傳遞通道概述](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
+               + [電子郵件連線限制](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
+               + [設定自訂傳送通道](product-docs/marketo-sales-insight/actions/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + Marketo {#marketo}
             + [將Marketo存取權授與使用者](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + 傳送銷售電子郵件 {#send-a-sales-email}
