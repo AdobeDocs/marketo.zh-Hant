@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 97e6f8d4fd2efc71d82666a3b458b1736fe7abde
+source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
 workflow-type: tm+mt
-source-wordcount: '8099'
+source-wordcount: '8119'
 ht-degree: 0%
 
 ---
@@ -1273,6 +1273,9 @@ ht-degree: 0%
          + 快速入門 {#getting-started}
             + 電子郵件設定 {#email-settings}
                + [驗證您的電子郵件](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
+               + [新增或更新您的電子郵件簽名](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
+               + [新增身分](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
+            + [更改您的Marketo銷售密碼](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
          + 管理 {#admin}
             + [阻止的域](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [內容鎖定](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1281,6 +1284,8 @@ ht-degree: 0%
             + [邀請使用者和管理員](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [共用設定](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [使用者存取詳細資訊](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+         + 行銷活動 {#campaigns}
+            + [促銷活動已結束](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Salesforce整合 {#salesforce-integration}
                + [將您的Marketo銷售帳戶連接到Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
@@ -1300,7 +1305,7 @@ ht-degree: 0%
             + 電子郵件傳送 {#email-delivery}
                + [傳遞通道概述](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [電子郵件連線限制](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
-               + [設定自訂傳送通道](product-docs/marketo-sales-insight/actions/email/email-delivery/setting-up-a-custom-delivery-channel.md)
+               + [為您的團隊設定自訂傳送通道](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
          + Marketo {#marketo}
             + [將Marketo存取權授與使用者](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + 傳送銷售電子郵件 {#send-a-sales-email}
