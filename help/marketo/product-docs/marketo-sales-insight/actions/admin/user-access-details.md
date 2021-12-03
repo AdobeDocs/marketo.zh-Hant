@@ -3,9 +3,9 @@ description: 使用者存取詳細資料 — Marketo檔案 — 產品檔案
 title: 使用者存取詳細資訊
 hide: true
 hidefromtoc: true
-source-git-commit: fbdcd6c777778137d0d37ccf27857e3a7655f501
+source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ![](assets/user-access-details-4.png)
 
-所有人員記錄都可在「每個人」組中訪問。
+管理員可透過「檢視方式」下拉式清單查看使用者促銷活動和促銷活動類別。
 
 ![](assets/user-access-details-5.png)
 
@@ -46,18 +46,12 @@ ht-degree: 0%
    * 使用者只能深入鑽研所屬的團隊
    * 使用者可以查看自己的分析
 
-* 「關係」頁：
+* 人員頁面：
 
    * 使用者可與所有人共用群組
    * 使用者只能與其所屬的團隊共用群組
+   * 使用者可看見您動作資料庫中的所有人
    * 刪除用戶後，其共用聯繫人會將所有權轉移給刪除該用戶的主管理員
-
-* 銷售節點 — 下一步和即時資訊源：
-
-   * 使用者可檢視「每個人」檢視
-   * 使用者可依其所屬的團隊來篩選
-   * 使用者可與每個人共用貼文
-   * 使用者只能與所屬團隊共用貼文
 
 * 團隊管理頁：
 
