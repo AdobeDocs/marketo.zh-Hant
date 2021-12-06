@@ -3,9 +3,9 @@ description: 透過群組電子郵件傳送電子郵件 — Marketo檔案 — �
 title: 透過群組電子郵件傳送電子郵件
 hide: true
 hidefromtoc: true
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+source-git-commit: 7462371066d983d9d7f483e8bf26bd3e666e495e
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,19 +18,19 @@ ht-degree: 0%
 
 1. 按一下 **人員** 標籤。
 
-   ![](assets/one-3.png)
+   PICC
 
 1. 選取您要傳送電子郵件的群組。
 
-   ![](assets/two-3.png)
+   PICC
 
 1. 按一下「群組動作」按鈕並選取 **電子郵件群組**.
 
-   ![](assets/three-3.png)
+   PICC
 
 1. 填寫您的電子郵件（或選取範本）並傳送（或排程）。
 
-   ![](assets/four-3.png)
+   PICC
 
 ## 編輯群組電子郵件 {#editing-a-group-email}
 
@@ -38,19 +38,19 @@ ht-degree: 0%
 
 1. 選擇範本，或填寫您的電子郵件。
 
-   ![](assets/edit-two.png)
+   PICC
 
 1. 完成電子郵件後，您現在可以預覽清單中的每個電子郵件，查看動態欄位是否正確填入。
 
-   ![](assets/edit-three.png)
+   PICC
 
 1. 選擇所需的收件者。
 
-   ![](assets/edit-four.png)
+   PICC
 
 1. 按一下 **預覽動態欄位**，並在右側檢視預覽。
 
-   ![](assets/edit-five.png)
+   PICC
 
    >[!NOTE]
    >
