@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
 workflow-type: tm+mt
-source-wordcount: '8147'
+source-wordcount: '8159'
 ht-degree: 0%
 
 ---
@@ -1233,10 +1233,13 @@ ht-degree: 0%
             + [人員頁面欄](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
       + 電話 {#phone}
          + [呼叫未記錄到Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
+         + [呼叫結果](product-docs/marketo-sales-connect/phone/call-outcomes.md)
+         + [呼叫原因](product-docs/marketo-sales-connect/phone/call-reasons.md)
          + [未登錄到活動歷史記錄](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [未登錄Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [啟用呼叫記錄](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
          + [如何在銷售電話中自定義通話結果](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
+         + [將呼叫原因和呼叫結果記錄到Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
          + [銷售電話國際電話](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [銷售電話本地存在](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
          + [銷售電話概述](product-docs/marketo-sales-connect/phone/sales-phone-overview.md)
