@@ -3,7 +3,8 @@ description: 將Marketo存取權授予使用者 — Marketo檔案 — 產品檔�
 title: 將Marketo存取權授與使用者
 hide: true
 hidefromtoc: true
-source-git-commit: 179e1ff62f5f76de1d3c9b47687956dc50ee66e4
+exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
