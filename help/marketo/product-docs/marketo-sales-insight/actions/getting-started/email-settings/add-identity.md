@@ -3,7 +3,8 @@ description: 新增身分 — Marketo檔案 — 產品檔案
 title: 新增身分
 hide: true
 hidefromtoc: true
-source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
+exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
