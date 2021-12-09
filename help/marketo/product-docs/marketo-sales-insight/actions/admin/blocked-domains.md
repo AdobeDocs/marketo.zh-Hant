@@ -3,9 +3,10 @@ description: 封鎖的網域 — Marketo檔案 — 產品檔案
 title: 阻止的域
 hide: true
 hidefromtoc: true
-source-git-commit: 2501fe0c168219379c7d9429a5ff4505ea61d267
+exl-id: 004ba212-485e-4412-be75-7de13505d9b0
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -18,15 +19,15 @@ ht-degree: 0%
 >
 >**需要管理權限**
 
-1. 在Web應用程式中，按一下齒輪表徵圖，然後選擇&#x200B;**Settings**。
+1. 在Web應用程式中，按一下齒輪圖示並選取 **設定**.
 
    ![](assets/blocked-domains-1.png)
 
-1. 在「管理設定」下，按一下&#x200B;**一般**。
+1. 在「管理設定」下，按一下 **一般**.
 
    ![](assets/blocked-domains-2.png)
 
-1. 輸入要阻止的域，然後按一下&#x200B;**塊域**。
+1. 輸入要阻止的域，然後按一下 **塊域**.
 
    ![](assets/blocked-domains-3.png)
 
