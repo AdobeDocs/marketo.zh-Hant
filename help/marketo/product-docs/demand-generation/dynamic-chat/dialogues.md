@@ -3,7 +3,8 @@ description: 對話方塊 — Marketo檔案 — 產品檔案
 title: 對話方塊
 hide: true
 hidefromtoc: true
-source-git-commit: de2c73003aa1d817fbaf1d6ed5e180e68fc64b72
+exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 0%
@@ -16,15 +17,15 @@ ht-degree: 0%
 
 ## 建立新對話方塊 {#create-a-new-dialogue}
 
-1. 按一下&#x200B;**對話框**。
+1. 按一下 **對話方塊**.
 
    ![](assets/dialogues-1.png)
 
-1. 按一下&#x200B;**新建**&#x200B;按鈕。
+1. 按一下 **新建** 按鈕。
 
    ![](assets/dialogues-2.png)
 
-1. 輸入名稱（說明為可選），設定優先順序級別，然後按一下&#x200B;**Save**。
+1. 輸入名稱（說明為可選），設定優先順序級別，然後按一下 **儲存**.
 
    ![](assets/dialogues-3.png)
 
@@ -38,25 +39,25 @@ ht-degree: 0%
 
 **已知人員**
 
-有許多&#x200B;_屬性組合可供選擇。_&#x200B;在此範例中，我們鎖定加州所有在員工超過50名的公司工作的&#x200B;**已知人員**。
+有 _many_ 要選擇的屬性組合。 在此範例中，我們鎖定所有 **已知人** 在有50多名員工的公司工作。
 
-1. 抓取&#x200B;**人員狀態**&#x200B;屬性並將其拖曳至右側。
+1. 抓住 **人員狀態** 屬性並拖曳至右側。
 
    ![](assets/dialogues-4.png)
 
-1. __ 預設設定ISIS。在「選擇值」欄位中，鍵入CA（您也可以按一下下拉式清單並從清單中選擇）。
+1. _是_ 預設為。 在「選擇值」欄位中，鍵入CA（您也可以按一下下拉式清單並從清單中選擇）。
 
    ![](assets/dialogues-5.png)
 
-1. 抓取&#x200B;**公司大小**&#x200B;屬性，並將其拖曳至顯示&#x200B;_的位置，將屬性拖曳至此處_。
+1. 抓住 **公司規模** 屬性，並拖曳到顯示的位置 _拖放屬性至此_.
 
    ![](assets/dialogues-6.png)
 
    >[!NOTE]
    >
-   >您也可以按一下屬性的&#x200B;**+**&#x200B;圖示來選擇屬性。
+   >您也可以按一下屬性，以選擇屬性 **+** 表徵圖。
 
-1. 按一下運算子下拉式清單，然後選取&#x200B;**大於**。
+1. 按一下運算子下拉式清單，然後選取 **大於**.
 
    ![](assets/dialogues-7.png)
 
@@ -68,25 +69,25 @@ ht-degree: 0%
 
 **匿名人員**
 
-有一種簡單的方法可以專門定位尚未在資料庫中的人員。 在此範例中，我們鎖定位於紐約地區的所有&#x200B;**匿名人員**。
+有一種簡單的方法可以專門定位尚未在資料庫中的人員。 在此範例中，我們會鎖定所有 **匿名人員** 位於紐約地區。
 
-1. 抓取&#x200B;**人員電子郵件**&#x200B;屬性並將其拖曳至右側。
+1. 抓住 **人員電子郵件** 屬性並拖曳至右側。
 
    ![](assets/dialogues-9.png)
 
-1. 按一下運算子下拉式清單，然後選取&#x200B;**Is Empty**。
+1. 按一下運算子下拉式清單，然後選取 **空白**.
 
    ![](assets/dialogues-10.png)
 
-1. 抓取&#x200B;**推斷狀態**&#x200B;屬性，並將其拖曳至顯示&#x200B;_的位置，將屬性拖曳至此處_。
+1. 抓住 **推斷狀態** 屬性，並拖曳到顯示的位置 _拖放屬性至此_.
 
    ![](assets/dialogues-11.png)
 
    >[!NOTE]
    >
-   >當有人造訪您的網站時，[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)會將其加入系統。 我們在一個特殊的資料庫中查找他們的IP，並推斷出各種好的資訊。
+   >當有人瀏覽您的網站時， [蒙奇金](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 將它們加入系統。 我們在一個特殊的資料庫中查找他們的IP，並推斷出各種好的資訊。
 
-1. __ 預設設定ISIS。在「選取值」欄位中，輸入NY（您也可以按一下下拉式清單，然後從清單中選取）。
+1. _是_ 預設為。 在「選取值」欄位中，輸入NY（您也可以按一下下拉式清單，然後從清單中選取）。
 
    ![](assets/dialogues-12.png)
 
@@ -111,7 +112,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->使用星號可當作全包王牌。 因此， `https://*.website.com`會將對話方塊放在網站的每個頁面上，包括子網域(例如：`support.website.com`)。 而`https://website.com/folder/*`會將對話方塊放在後續資料夾中每個HTML頁面上(例如：在此案例中，假設資料夾為「sports」，因此：website.com/sports/baseball.html、website.com/sports/football.html等)。
+>使用星號可當作全包王牌。 So `https://*.website.com` 會將對話方塊放在網站的每個頁面上，包括子網域(例如： `support.website.com`)。 和 `https://website.com/folder/*` 會將對話方塊放在後續資料夾的每個HTML頁面上(例如：在此案例中，假設資料夾為「sports」，因此：website.com/sports/baseball.html、website.com/sports/football.html等)。
 
 ## 串流設計工具 {#stream-designer}
 
@@ -133,7 +134,7 @@ ht-degree: 0%
  </tr>
  <tr>
   <td><strong>約會排程器</strong></td>
-  <td>為訪客提供可用日期的日曆，以排程後續作業。 日曆可用性反映了<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">行</a>中的下一個代理。</td>
+  <td>為訪客提供可用日期的日曆，以排程後續作業。 日曆可用性反映 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">下一個代理排隊</a>.</td>
  </tr>
  <tr>
   <td><strong>目標</strong></td>
@@ -143,7 +144,7 @@ ht-degree: 0%
 
 **建立資料流**
 
-可能有&#x200B;_許多_&#x200B;可能的資料流組合。 讓我們看看本文](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)中的一個範例[。
+有 _many_ 可能的資料流組合。 讓我們看一個例子 [本文](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## 報表 {#reports}
 
