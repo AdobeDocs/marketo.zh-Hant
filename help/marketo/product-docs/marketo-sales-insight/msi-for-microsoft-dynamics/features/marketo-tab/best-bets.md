@@ -1,7 +1,8 @@
 ---
 description: 最佳選擇 — Marketo檔案 — 產品檔案
 title: 最佳下注
-source-git-commit: 8227648ce67bf0f9f8b3b2fea7445850d8e154d5
+exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
