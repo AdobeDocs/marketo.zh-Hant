@@ -3,9 +3,10 @@ description: 命令中心概述 — Marketo檔案 — 產品檔案
 title: 命令中心概述
 hide: true
 hidefromtoc: true
-source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
+exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
