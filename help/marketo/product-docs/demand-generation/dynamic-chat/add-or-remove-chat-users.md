@@ -3,7 +3,8 @@ description: 新增或移除聊天使用者 — Marketo檔案 — 產品檔案
 title: 添加或刪除聊天用戶
 hide: true
 hidefromtoc: true
-source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
+exl-id: b616030c-a9fe-48d7-902c-40621307bfec
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
