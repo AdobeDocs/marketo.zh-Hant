@@ -3,7 +3,8 @@ description: 指派工作給團隊成員 — Marketo檔案 — 產品檔案
 title: 為團隊成員分配任務
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
