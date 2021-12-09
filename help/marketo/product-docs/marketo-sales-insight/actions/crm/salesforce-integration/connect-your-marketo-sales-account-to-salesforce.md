@@ -3,7 +3,8 @@ description: 將您的Marketo銷售帳戶連結至Salesforce - Marketo檔案 —
 title: 將您的Marketo銷售帳戶連接到Salesforce
 hide: true
 hidefromtoc: true
-source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
+exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
