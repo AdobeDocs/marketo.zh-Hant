@@ -3,7 +3,8 @@ description: 設定 — Marketo檔案 — 產品檔案
 title: 設定
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 了解如何自訂聊天機器人對話方塊視窗的外觀與風格。
 
-若要開始使用，請按一下&#x200B;**Configuration**。
+若要開始，請按一下 **設定**.
 
 ![](assets/configuration-1.png)
 
@@ -28,7 +29,7 @@ ht-degree: 0%
 
 您將在此處定義將顯示對話方塊的聊天機器人的外觀和風格，包括：顏色、字型、機器人介面工具集的放置，以及聊天機器人的名稱/頭像。
 
-每個類別的顏色由[十六進位顏色值](https://color.adobe.com/create/color-wheel)(例如，白色= #ffffff、紅色= #bf1932等)決定。
+每個類別的顏色由 [十六進位顏色值](https://color.adobe.com/create/color-wheel) (例如，白色= #ffffff、紅色= #bf1932等)。
 
 ![](assets/configuration-3.png)
 
@@ -42,13 +43,13 @@ ht-degree: 0%
 
 ![](assets/configuration-5.png)
 
-完成更改後，請記得按一下&#x200B;**Save**。
+完成更改後，請記得按一下 **儲存**.
 
 ![](assets/configuration-6.png)
 
 ## 隱私權標籤 {#privacy-tab}
 
-按一下&#x200B;**Privacy**&#x200B;標籤以新增/編輯您網站的隱私權原則的URL（選用）。
+按一下 **隱私權** 頁簽來新增/編輯網站隱私權原則的URL（選用）。
 
 ![](assets/configuration-7.png)
 
