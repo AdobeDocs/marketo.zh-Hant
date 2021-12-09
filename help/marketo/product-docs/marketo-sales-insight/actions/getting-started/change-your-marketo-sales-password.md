@@ -3,7 +3,8 @@ description: 變更Marketo銷售密碼 — Marketo檔案 — 產品檔案
 title: 更改您的Marketo銷售密碼
 hide: true
 hidefromtoc: true
-source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
+exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
