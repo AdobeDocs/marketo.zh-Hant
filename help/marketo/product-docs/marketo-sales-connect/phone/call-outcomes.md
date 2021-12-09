@@ -3,9 +3,10 @@ description: 通話結果 — Marketo檔案 — 產品檔案
 title: 呼叫結果
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
+source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -22,41 +23,41 @@ ht-degree: 0%
 
 1. 按一下齒輪圖示並選取 **設定**.
 
-PICC
+   ![](assets/call-outcomes-1.png)
 
 1. 在「管理設定」下，選取 **撥號器**.
 
-PICC
+   ![](assets/call-outcomes-2.png)
 
 1. 選擇 **啟用呼叫結果**.
 
-PICC
+   ![](assets/call-outcomes-3.png)
 
 1. 選擇所需的呼叫結果要求。
 
-PICC
+   ![](assets/call-outcomes-4.png)
 
 ## 建立呼叫結果 {#create-call-outcomes}
 
 1. 按一下齒輪圖示並選取 **設定**.
 
-PICC
+   ![](assets/call-outcomes-5.png)
 
 1. 在「管理設定」下，選取 **撥號器**.
 
-PICC
+   ![](assets/call-outcomes-6.png)
 
 1. 按一下 **管理呼叫結果**.
 
-PICC
+   ![](assets/call-outcomes-7.png)
 
 1. 在文本欄位中輸入所需的呼叫結果名稱。
 
-PICC
+   ![](assets/call-outcomes-8.png)
 
 1. 按一下「已應答」(Answered)下拉清單，然後選擇結果類型（在本示例中，我們選擇「已應答」）。 然後按一下 **新增**.
 
-PICC
+   ![](assets/call-outcomes-9.png)
 
 ## 選擇呼叫結果 {#choose-a-call-outcome}
 
@@ -90,3 +91,4 @@ PICC
 >
 >* [將呼叫原因和呼叫結果記錄到Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [呼叫原因](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
+
