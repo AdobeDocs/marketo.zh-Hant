@@ -3,7 +3,8 @@ description: 建立資料流 — Marketo檔案 — 產品檔案
 title: 建立資料流
 hide: true
 hidefromtoc: true
-source-git-commit: 1022d3eaf4ee4a1686c5d8ae3168ee0197776289
+exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
