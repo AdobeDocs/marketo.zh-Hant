@@ -3,7 +3,8 @@ description: 進階搜尋概述 — Marketo檔案 — 產品檔案
 title: 進階搜尋概述
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
@@ -114,7 +115,7 @@ _**狀態：待定**_
  </tr>
 </table>
 
-_**狀態：未傳遞**_
+_**狀態：未傳送**_
 
 ![](assets/advanced-search-overview-12.png)
 
