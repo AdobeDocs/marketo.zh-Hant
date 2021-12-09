@@ -3,7 +3,8 @@ description: 電子郵件追蹤概述 — Marketo檔案 — 產品檔案
 title: 電子郵件追蹤概述
 hide: true
 hidefromtoc: true
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '510'
 ht-degree: 0%
