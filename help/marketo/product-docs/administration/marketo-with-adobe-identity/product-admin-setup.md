@@ -3,7 +3,8 @@ description: 產品管理員設定 — Marketo檔案 — 產品檔案
 title: 產品管理設定
 hide: true
 hidefromtoc: true
-source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
+exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
