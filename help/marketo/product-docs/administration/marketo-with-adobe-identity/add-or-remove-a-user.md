@@ -3,7 +3,8 @@ description: 新增或移除使用者 — Marketo檔案 — 產品檔案
 title: 新增或移除使用者
 hide: true
 hidefromtoc: true
-source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
+exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
