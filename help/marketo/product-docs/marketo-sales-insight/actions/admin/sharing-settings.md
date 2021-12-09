@@ -3,7 +3,8 @@ description: 共用設定 — Marketo檔案 — 產品檔案
 title: 共用設定
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
