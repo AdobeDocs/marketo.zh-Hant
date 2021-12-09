@@ -3,7 +3,8 @@ description: Marketo取消訂閱檢查 — Marketo檔案 — 產品檔案
 title: Marketo取消訂閱檢查
 hide: true
 hidefromtoc: true
-source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
+exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
