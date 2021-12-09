@@ -3,9 +3,10 @@ description: 呼叫原因 — Marketo檔案 — 產品檔案
 title: 呼叫原因
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
+source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -22,41 +23,37 @@ ht-degree: 0%
 
 1. 按一下齒輪圖示並選取 **設定**.
 
-PICC
+   ![](assets/call-reasons-1.png)
 
 1. 在「管理設定」下，選取 **撥號器**.
 
-PICC
+   ![](assets/call-reasons-2.png)
 
 1. 選擇 **啟用呼叫原因**.
 
-PICC
+   ![](assets/call-reasons-3.png)
 
-1. 選擇「空白」
+1. 選擇所需的呼叫原因要求。
 
-如果您希望允許用戶完成呼叫而不需要登錄呼叫，請選擇「允許用戶完成呼叫而不選擇呼叫原因」，或選擇「要求用戶在登錄呼叫之前選擇呼叫原因」以要求
+   ![](assets/call-reasons-4.png)
 
 ## 建立呼叫原因 {#create-call}
 
 1. 按一下齒輪圖示並選取 **設定**.
 
-PICC
+   ![](assets/call-reasons-5.png)
 
 1. 在「管理設定」下，選取 **撥號器**.
 
-PICC
+   ![](assets/call-reasons-6.png)
 
 1. 按一下 **管理呼叫原因**.
 
-PICC
+   ![](assets/call-reasons-7.png)
 
-1. 在文本欄位中輸入所需的呼叫原因名稱。
+1. 在文本欄位中輸入所需的呼叫原因名稱，然後按一下 **新增**.
 
-PICC
-
-1. 按一下 **新增**.
-
-PICC
+   ![](assets/call-reasons-8.png)
 
 ## 選擇呼叫原因 {#select-a-call-reason}
 
@@ -64,27 +61,27 @@ PICC
 
 1. 按一下呼叫按鈕以啟動撥號器。
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. 在撥號器中輸入呼叫資訊。
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. 按一下呼叫。
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. 選取最能說明呼叫的呼叫原因。
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. 結束呼叫。
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. 記錄呼叫。
 
-PICC
+   ![](assets/call-reasons-.png)
 
 >[!MORELIKETHIS]
 >
