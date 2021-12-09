@@ -3,7 +3,8 @@ description: 內容鎖定 — Marketo檔案 — 產品檔案
 title: 內容鎖定
 hide: true
 hidefromtoc: true
-source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
+exl-id: 3f17a862-321a-4bbb-8693-117a7fb6a65c
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
