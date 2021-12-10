@@ -4,9 +4,9 @@ title: 呼叫原因
 hide: true
 hidefromtoc: true
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
-source-git-commit: b8fcbc13925e3a292add3e9148ddefcfca3344b4
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -61,27 +61,23 @@ ht-degree: 0%
 
 1. 按一下呼叫按鈕以啟動撥號器。
 
-   PICC
+   ![](assets/call-reasons-9.png)
 
-1. 在撥號器中輸入呼叫資訊。
+1. 在撥號器中輸入呼叫資訊，然後按一下 **呼叫**.
 
-   PICC
-
-1. 按一下呼叫。
-
-   PICC
+   ![](assets/call-reasons-10.png)
 
 1. 選取最能說明呼叫的呼叫原因。
 
-   PICC
+   ![](assets/call-reasons-11.png)
 
 1. 結束呼叫。
 
-   PICC
+   ![](assets/call-reasons-12.png)
 
 1. 記錄呼叫。
 
-   PICC
+   ![](assets/call-reasons-13.png)
 
 >[!MORELIKETHIS]
 >
