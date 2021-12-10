@@ -4,9 +4,9 @@ title: 將呼叫原因和呼叫結果記錄到Salesforce
 hide: true
 hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -66,6 +66,10 @@ ht-degree: 0%
 
 ### 在Salesforce Classic中，將「自訂活動」欄位新增至「工作頁面配置」 {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
 
+>[!NOTE]
+>
+>如果您沒有在上述步驟9中選取所需的頁面配置，則只需遵循這些步驟。
+
 1. 在Salesforce中，按一下 **設定**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
@@ -82,79 +86,75 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
-1. 將欄位拖放到「任務」頁面佈局。
+1. 將欄位拖放到「任務」頁面佈局的所需區段。
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
 1. 按一下 **儲存**.
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
 ## Salesforce閃電 {#salesforce-lightning}
 
 ### 在Salesforce Lightning中建立自訂活動欄位 {#create-custom-activity-field-in-salesforce-lightning}
 
-1. 在Salesforce中，按一下右上方的齒輪圖示。
+1. 在Salesforce中，按一下右上方的齒輪圖示並選取 **設定**.
 
-PICC
-
-1. 按一下 **設定**.
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
 1. 按一下 **物件管理員**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. 在「快速查找」框中輸入「活動」，然後按一下「活動」標籤以開啟對象的設定。
+1. 在「快速查找」框中鍵入「活動」。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. 在左側，按一下 **欄位與關係**.
+1. 按一下 **活動** 標籤。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
+
+1. 按一下 **欄位與關係**.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
 1. 按一下 **新增**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
 ## 在Salesforce Lightning中將「自訂活動」欄位新增至「任務」頁面配置 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. 在Salesforce中，按一下右上方的齒輪圖示。
+1. 在Salesforce中，按一下右上方的齒輪圖示並選取 **設定**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. 按一下 **設定**.
+1. 按一下 **物件管理員**.
 
-PICC
-
-1. 轉至設定。?????????
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
 1. 在「快速查找」框中鍵入「任務」。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. 按一下「任務」。
+1. 按一下 **任務** 標籤。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. 按一下「頁面配置」。
+1. 按一下 **頁面配置**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
 1. 按一下pn要添加此欄位的任務頁面佈局。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-27.png)
 
-1. 將欄位拖放到「任務」頁面佈局。
+1. 將欄位拖放到「任務」頁面佈局的所需區段。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. 按一下「儲存」 。
+1. 按一下 **儲存**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 
 >[!MORELIKETHIS]
 >
