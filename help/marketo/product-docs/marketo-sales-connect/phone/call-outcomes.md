@@ -4,9 +4,9 @@ title: 呼叫結果
 hide: true
 hidefromtoc: true
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -65,27 +65,23 @@ ht-degree: 0%
 
 1. 按一下呼叫按鈕以啟動撥號器。
 
-PICC
+   ![](assets/call-outcomes-10.png)
 
-1. 在撥號器中輸入呼叫資訊。
+1. 在撥號器中輸入呼叫資訊，然後按一下 **呼叫**.
 
-PICC
-
-1. 按一下呼叫。
-
-PICC
+   ![](assets/call-outcomes-11.png)
 
 1. 選取最能說明呼叫的呼叫結果。
 
-PICC
+   ![](assets/call-outcomes-12.png)
 
 1. 結束呼叫。
 
-PICC
+   ![](assets/call-outcomes-13.png)
 
 1. 記錄呼叫。
 
-PICC
+   ![](assets/call-outcomes-14.png)
 
 >[!MORELIKETHIS]
 >
