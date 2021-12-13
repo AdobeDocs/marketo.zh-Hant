@@ -3,7 +3,7 @@ description: 設定Salesforce活動詳細資訊自訂 — Marketo檔案 — 產�
 title: 配置Salesforce活動詳細資訊定制
 hide: true
 hidefromtoc: true
-source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
+source-git-commit: 137acd3ace0da73bcdfebcf7f4f2723bb03c7c39
 workflow-type: tm+mt
 source-wordcount: '573'
 ht-degree: 0%
@@ -85,7 +85,7 @@ ht-degree: 0%
  </tr>
 </table>
 
-## 配置Salesforce活動詳細資訊定制 {#configure-salesforce-activity-detail-customization}
+## 配置Salesforce活動詳細資訊定制 {#configuring-salesforce-activity-detail-customization}
 
 >[!NOTE]
 >
