@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
 workflow-type: tm+mt
-source-wordcount: '8159'
+source-wordcount: '8174'
 ht-degree: 0%
 
 ---
@@ -1124,6 +1124,7 @@ ht-degree: 0%
             + [在Salesforce Classic中使用大量動作](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
             + [在Salesforce Lightning中使用大量動作](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
          + Salesforce整合 {#salesforce-integration}
+            + [配置Salesforce活動詳細資訊定制](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [將您的Sales Connect帳戶連接到Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
             + [斷開Salesforce與Sales Connect帳戶的連接](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
             + [如何修正連線至Salesforce時的「We Unable Unable To Authenticate Your Request」](product-docs/marketo-sales-connect/crm/salesforce-integration/how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1246,6 +1247,8 @@ ht-degree: 0%
          + [與您的團隊共用通話錄制](product-docs/marketo-sales-connect/phone/share-call-recordings-with-your-team.md)
          + [雙方同意設定](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
       + 工作 {#tasks}
+         + [建立和分配提醒任務](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
+         + [與Salesforce的提醒任務同步](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [首次將銷售連接任務與Salesforce同步](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + 範本 {#templates}
          + [將自動取消訂閱新增至範本](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
