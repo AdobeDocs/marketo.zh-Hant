@@ -3,7 +3,8 @@ description: 建立和指派提醒工作 — Marketo檔案 — 產品檔案
 title: 建立和分配提醒任務
 hide: true
 hidefromtoc: true
-source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
+exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
+source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
