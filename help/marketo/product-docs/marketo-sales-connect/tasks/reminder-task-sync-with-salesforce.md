@@ -3,7 +3,8 @@ description: 與Salesforce同步的提醒任務 — Marketo檔案 — 產品檔�
 title: 與Salesforce的提醒任務同步
 hide: true
 hidefromtoc: true
-source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
+exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
+source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
 workflow-type: tm+mt
 source-wordcount: '501'
 ht-degree: 0%
