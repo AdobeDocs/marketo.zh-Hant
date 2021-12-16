@@ -2,9 +2,9 @@
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 6033a1bfbdce1b617181415c4f7394074c64595f
+source-git-commit: 82c75d52caf3a0320cd3e8534b3b0870cf12d660
 workflow-type: tm+mt
-source-wordcount: '948'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 下列功能將於 **2022年1月21日**.
 
-## 新一代體驗 {#next-generation-experience}
+## 新一代體驗 {#next-generation-experience}
 
 * **新一代體驗中的更新畫面**:我們在新一代體驗中提供更多經過更新的畫面，提供可透過切換開關存取的更新設計和可用性增強功能：
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 下列功能屬於非季度週期，將在未來數月內發行。
 
-## AEPMarketo Engage目標連接器 — 建立新的遺漏銷售機會 {#aep-marketo-engage-destination-connector}
+## AEPMarketo Engage目的地連接器 — 建立新銷售機會 {#aep-marketo-engage-destination-connector}
 
 同時使用Adobe Experience Platform(AEP)的Marketo Engage可透過AEP目的地連接器，將新人員記錄從AEP推送至Marketo Engage，進而將其資料庫發揮到最大。 將受眾區段從AEP傳送至Marketo Engage時，區段內尚未存在於Marketo Engage資料庫中的人員會自動新增至區段。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ![（星號）](assets/yellow-star.png)
 
-* **Salesforce CRM的Sales Insight**
+**Salesforce CRM的Sales Insight**
 
 * **新類型欄以獲得最佳結果**:賣家將能透過標示為「類型」的新欄，更快速地獲得深入分析，以區分「最佳下注」頁面上的銷售機會和聯絡人。
 
@@ -85,6 +85,8 @@ ht-degree: 0%
 
 * **不再使用表單端點**:不支援的程式化表單POST到leadCapture/save2端點將被Marketo Engage表單拒絕。 [按一下這裡](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) 了解更多。
 
-* **電子郵件驗證**:自此版本後，Marketo Engage訂閱將開始有「僅限非API」使用者驗證電子郵件地址。 通過電子郵件驗證啟用訂閱時，已驗證的目錄服務用戶將自動驗證其電子郵件。 使用「在邀請使用者對話方塊中登入」功能的使用者，或訂閱者若訂閱中有與多位使用者相關聯的單一電子郵件，將會延遲電子郵件驗證，並與3月終止此功能的時間一致。
+* **電子郵件驗證**:自此版本後，Marketo Engage訂閱將開始有「僅限非API」使用者驗證電子郵件地址。 通過電子郵件驗證啟用訂閱時，已驗證的目錄服務用戶將自動驗證其電子郵件。 使用「在邀請使用者對話方塊中登入」功能的使用者，或訂閱者若訂閱中有與多位使用者相關聯的單一電子郵件，將會延遲電子郵件驗證，並與3月終止此功能的時間一致。
 
 * **在「邀請用戶」對話框中登錄**:3月時，將不再使用現有的「在邀請使用者對話方塊中登入」選用功能。 「在邀請使用者對話方塊中登入」功能遭到通用ID功能覆寫，這是即將推出的Identity Management系統整合所需的功能，已於2021年8月在所有訂閱上啟用。 經過淘汰後，Marketo Engage將強制所有使用者ID（登入）以符合使用者的電子郵件地址，且只允許一個使用者在訂閱內的每個電子郵件地址相關聯。
+
+**Marketo Engage網域 — Sales Insight設定**:對於未布建SSL憑證和https://的Marketo Engage網域，呼叫會失敗並出現SSL交握錯誤。 因此，這些領域將被淘汰。 因此，如果Sales Insight使用者的配置較舊，指向其中任何一個網域，則其銷售機會、聯繫人、帳戶、銷售機會面板或Marketo全域頁面可能會遇到系統註解錯誤。 建議您更新 [Marketo Engage配置](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) 在Salesforce中遇到此錯誤。 您只需更新檔案「Marketo Sales Insight Config」區段中強調顯示的Marketo Engage憑證。
