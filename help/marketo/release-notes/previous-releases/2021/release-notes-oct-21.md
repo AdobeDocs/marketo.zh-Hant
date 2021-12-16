@@ -1,7 +1,8 @@
 ---
 description: 發行說明 — 2021年10月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2021年10月
-source-git-commit: 4c49c49ca479d176a0a268c2efc8952e9ecc866f
+exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
+source-git-commit: 9186e15ea99052ef83a877ac336979acff5e692d
 workflow-type: tm+mt
 source-wordcount: '1116'
 ht-degree: 0%
