@@ -1,8 +1,8 @@
 ---
 solution: Marketo Sky
-user-guide-title: Sky產品檔案
+user-guide-title: Marketo Sky檔案
 feature-set: Marketo Sky
-source-git-commit: 76feca10cfd99acb79dfd883ee7dd4e37a3175a7
+source-git-commit: dcbe5f6c0061474e614a731eefca329db314df9e
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 0%
