@@ -2,9 +2,9 @@
 description: 推送Adobe Experience Platform區段至Marketo靜態清單 — Marketo檔案 — 產品檔案
 title: 推送Adobe Experience Platform區段至Marketo靜態清單
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 5d26aff392d5749941ad93e351c454249662cd72
+source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >區段對靜態清單為1:1。 若您在此處選擇多個區段，您必須在「區段排程」索引標籤中將每個區段對應至指定的靜態清單。
+   >若您在此處選擇多個區段，您必須在「區段排程」索引標籤中將每個區段對應至指定的靜態清單。
 
 1. 按一下 **新增對應**.
 
