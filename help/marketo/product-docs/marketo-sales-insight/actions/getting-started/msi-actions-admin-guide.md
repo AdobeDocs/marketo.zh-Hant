@@ -3,7 +3,7 @@ description: MSI操作管理指南 — Marketo文檔 — 產品文檔
 title: MSI操作管理指南
 hide: true
 hidefromtoc: true
-source-git-commit: 23873e440f194f75a39532d650cc3e18e3baf98c
+source-git-commit: 9ee07611ffae25fea4bffa3124927083bf187ddd
 workflow-type: tm+mt
 source-wordcount: '509'
 ht-degree: 0%
@@ -125,7 +125,7 @@ PICC
 
 Marketo和Salesforce中的人員記錄會同步至您的Marketo銷售應用程式帳戶。
 
-## 邀請單個用戶執行MSI操作 {#invite-individual users-to-msi-actions}
+## 邀請單個用戶執行MSI操作 {#invite-individual-users-to-msi-actions}
 
 1. 在您的Marketo Sales帳戶中，按一下齒輪圖示並選取 **設定**.
 
