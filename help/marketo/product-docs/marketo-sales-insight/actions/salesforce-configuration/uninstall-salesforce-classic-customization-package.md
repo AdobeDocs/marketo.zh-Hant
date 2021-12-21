@@ -3,8 +3,7 @@ description: 解除安裝Salesforce Classic自訂套件 — Marketo檔案 — �
 title: 解除安裝Salesforce Classic自訂套件
 hide: true
 hidefromtoc: true
-exl-id: 1216d313-28b7-4505-8378-a16a475c707c
-source-git-commit: 9186e15ea99052ef83a877ac336979acff5e692d
+source-git-commit: e60daa48971bfbd579550aed09a8f4232fae2116
 workflow-type: tm+mt
 source-wordcount: '1187'
 ht-degree: 0%
