@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: c4db281bc1b92bdd3ecc3c8b0aaf7e2f21d1f987
+source-git-commit: 23873e440f194f75a39532d650cc3e18e3baf98c
 workflow-type: tm+mt
-source-wordcount: '8205'
+source-wordcount: '8209'
 ht-degree: 0%
 
 ---
@@ -1277,6 +1277,7 @@ ht-degree: 0%
       + 動作 {#actions}
          + 快速入門 {#getting-started}
             + [《MSI操作使用手冊》](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
+            + [MSI操作管理指南](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
             + [更改您的Marketo銷售密碼](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + 電子郵件設定 {#email-settings}
                + [驗證您的電子郵件](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
