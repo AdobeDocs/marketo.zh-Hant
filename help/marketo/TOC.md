@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: c1a51dba1e76d21367a95147ed82b0aa75d11022
+source-git-commit: c4db281bc1b92bdd3ecc3c8b0aaf7e2f21d1f987
 workflow-type: tm+mt
 source-wordcount: '8205'
 ht-degree: 0%
@@ -1308,7 +1308,7 @@ ht-degree: 0%
                + [傳遞通道概述](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [電子郵件連線限制](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [為您的團隊設定自訂傳送通道](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
-            + Salesforce配置 {#email-delivery}
+            + Salesforce配置 {#salesforce-configuration}
                + [Salesforce中的MSI操作配置](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
                + [解除安裝Salesforce Classic自訂套件](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
                + [解除安裝Salesforce Lightning自訂套件](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
