@@ -3,16 +3,16 @@ unique-page-id: 10098625
 description: 了解Microsoft Dynamics Sync - Marketo檔案 — 產品檔案
 title: 了解Microsoft Dynamics同步
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 80651a7d3d416f27ef13184b11757943c98bd781
+source-git-commit: 297ff02ba2c1173cabfecdef283e97c87c922480
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 了解Microsoft Dynamics同步 {#understanding-the-microsoft-dynamics-sync}
 
-Marketo和Microsoft Dynamics攜手合作。 我們會保持您的銷售和行銷資料同步。
+Marketo和Microsoft動態。 我們會保持您的銷售和行銷資料同步。
 
 >[!NOTE]
 >
@@ -40,10 +40,10 @@ Marketo和Dynamics之間的同步是雙向的銷售機會和聯繫人。 如果�
 * [使用者](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
 * 團隊（SystemUsers組）
 * [機會](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
-* [自訂實體](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
+* [自訂實體](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-您在Marketo中輸入的[憑證，用於同步資料。](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+此 [在Marketo for Dynamics中輸入的憑據](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) 用於同步資料。
 
 >[!NOTE]
 >
->如果源實例與Microsoft Dynamics整合，則不支援實例複製。
+>如果來源例項已與Microsoft Dynamics整合，則不支援例項複製。
