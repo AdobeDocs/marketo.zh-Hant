@@ -3,9 +3,9 @@ description: MSI操作管理指南 — Marketo文檔 — 產品文檔
 title: MSI操作管理指南
 hide: true
 hidefromtoc: true
-source-git-commit: 9ee07611ffae25fea4bffa3124927083bf187ddd
+source-git-commit: 55a677339f03b11ac3c2bdf58fdb83fdbd1cd4b8
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -57,11 +57,11 @@ ht-degree: 0%
 
 1. 在Marketo中，按一下 **管理**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-1.png)
 
 1. 按一下 **Sales Insight**，然後 **動作設定**. 從要邀請的Marketo管理員清單中選取，然後按一下 **傳送邀請**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-2.png)
 
 使用者會收到電子郵件，內含存取帳戶的步驟。
 
@@ -73,19 +73,19 @@ PICC
 
 1. 在您的Marketo Sales帳戶中，按一下齒輪圖示並選取 **設定**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-3.png)
 
 1. 在「管理設定」下，按一下 **Salesforce**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-4.png)
 
 1. 在「連線與自訂」標籤中，按一下 **Connect**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-5.png)
 
 1. 按一下 **確定**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-6.png)
 
 如果您已登入Salesforce，您將會連線。 如果沒有，系統會要求您登入。
 
@@ -93,13 +93,15 @@ PICC
 
 1. 在您的Marketo Sales帳戶中，按一下齒輪圖示並選取 **設定**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-7.png)
 
 1. 在「管理設定」下，按一下 **Marketo**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-8.png)
 
 1. 按一下 **connect**. 然後您的帳戶就會連線。
+
+   ![](assets/msi-actions-admin-guide-9.png)
 
 >[!NOTE]
 >
@@ -107,21 +109,21 @@ PICC
 
 ## 啟動資料同步 {#initiate-data-sync}
 
-1. 在Marketo中，按一下「管理」。
+1. 在Marketo中，按一下 **管理**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-10.png)
 
-1. 按一下「銷售分析」，然後按一下「動作設定」。
+1. 按一下「銷售分析」。
 
-PICC
+   ![](assets/msi-actions-admin-guide-11.png)
 
-1. 在「動作欄位同步」卡片中，按一下 **同步**.
+1. 按一下「動作設定」標籤。 在「動作欄位同步」卡片中，按一下 **同步**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-12.png)
 
 1. 您會看到將同步的欄位預覽。 按一下 **開始同步**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-13.png)
 
 Marketo和Salesforce中的人員記錄會同步至您的Marketo銷售應用程式帳戶。
 
@@ -129,17 +131,19 @@ Marketo和Salesforce中的人員記錄會同步至您的Marketo銷售應用程�
 
 1. 在您的Marketo Sales帳戶中，按一下齒輪圖示並選取 **設定**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-14.png)
 
 1. 在「管理設定」下，選取 **使用者管理**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-15.png)
 
 1. 按一下 **動作** 選取 **邀請使用者**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-16.png)
 
 1. 輸入電子郵件地址，然後按一下 **邀請**.
+
+   ![](assets/msi-actions-admin-guide-17.png)
 
 >[!NOTE]
 >
@@ -151,23 +155,23 @@ PICC
 
 1. 在您的Marketo Sales帳戶中，按一下齒輪圖示並選取 **設定**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-18.png)
 
 1. 在「管理設定」下，選取 **使用者管理**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-19.png)
 
 1. 按一下 **動作** 選取 **透過CSV邀請使用者**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-20.png)
 
 1. 瀏覽您電腦上的CSV，選取它，然後按一下 **下一個**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-21.png)
 
 1. 確認欄位已正確對應，然後按一下 **邀請**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-22.png)
 
 在傳送邀請後，您會收到確認訊息。
 
