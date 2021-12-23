@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
 workflow-type: tm+mt
-source-wordcount: '8206'
+source-wordcount: '8230'
 ht-degree: 0%
 
 ---
@@ -523,17 +523,10 @@ ht-degree: 0%
             + [更新適用於Microsoft Dynamics的Marketo解決方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [驗證Microsoft Dynamics同步](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [查看組織服務URL](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
-            + 連線至舊版 {#connecting-to-legacy-versions}
-               + [第1步（共3步）:安裝Marketo解決方案（2011年內部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
-               + [第2步（共3步）:在Dynamics中設定Marketo同步使用者（2011年內部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
-               + [第3步（共3步）:將Microsoft Dynamics與Marketo連線（2011年內部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
-               + [第1步（共3步）:在Dynamics（2013內部部署）中安裝Marketo解決方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
-               + [第2步（共3步）:為Marketo配置同步用戶（2013年內部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
-               + [第3步（共3步）:連接Marketo和Dynamics（2013年內部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
-            + Microsoft Dynamics 2015內部部署/2016 Dynamics 365內部部署 {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
-               + [第1步（共3步）:安裝Marketo解決方案 — 2015內部部署/ 2016 Dynamics 365內部部署](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
-               + [第2步（共3步）:在Dynamics 2015內部部署/ 2016 Dynamics 365內部部署中設定Marketo同步用戶](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
-               + [第3步（共3步）:連接Marketo和Dynamics 2015內部部署/ 2016 Dynamics 365內部部署](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
+            + Microsoft Dynamics 2016/Dynamics 365內部部署  {#microsoft-dynamics-2016-dynamics-365-on-premises}
+               + [第1步（共3步）:安裝Marketo解決方案 — 2015內部部署/ 2016 Dynamics 365內部部署](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+               + [第2步（共3步）:在Dynamics 2015內部部署/ 2016 Dynamics 365內部部署中設定Marketo同步用戶](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+               + [第3步（共3步）:連接Marketo和Dynamics 2015內部部署/ 2016 Dynamics 365內部部署](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 365 {#microsoft-dynamics-365}
                + [第1步（共3步）:安裝Marketo解決方案（線上）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
                + [第2步（共3步）:在Dynamics中設定Marketo同步使用者](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
@@ -543,6 +536,16 @@ ht-degree: 0%
                + [設定Microsoft Dynamics CRM應用程式以進行線上](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [為內部部署設定Microsoft Dynamics CRM應用程式](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
                + [為Azure AD Federated設定MSD，並預裝AD FS、租用戶和Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
+            + 連線至舊版 {#connecting-to-legacy-versions}
+               + [第1步（共3步）:安裝Marketo解決方案（2011年內部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
+               + [第2步（共3步）:在Dynamics中設定Marketo同步使用者（2011年內部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+               + [第3步（共3步）:將Microsoft Dynamics與Marketo連線（2011年內部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
+               + [第1步（共3步）:在Dynamics（2013內部部署）中安裝Marketo解決方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
+               + [第2步（共3步）:為Marketo配置同步用戶（2013年內部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
+               + [第3步（共3步）:連接Marketo和Dynamics（2013年內部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
+               + [第1步（共3步）:在Dynamics（2015年內部部署）中安裝Marketo解決方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
+               + [第2步（共3步）:設定Marketo的同步使用者（2015年內部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
+               + [第3步（共3步）:連接Marketo和Dynamics（2015年內部部署）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md)
          + Microsoft Dynamics同步詳細資訊 {#microsoft-dynamics-sync-details}
             + [預設動態欄位映射](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics同步：帳戶同步](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
