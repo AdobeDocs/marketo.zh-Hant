@@ -3,7 +3,7 @@ unique-page-id: 3571816
 description: 第2步（共3步） — 為Marketo配置同步用戶（2013年內部部署） — Marketo文檔 — 產品文檔
 title: 第2步（共3步） — 為Marketo配置同步用戶（2013年內部部署）
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[第1步（共3步）:在Dynamics（2013內部部署）中安裝Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
+>[第1步（共3步）:在Dynamics（2013內部部署）中安裝Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
 
 ## 分配同步用戶角色 {#assign-sync-user-role}
 

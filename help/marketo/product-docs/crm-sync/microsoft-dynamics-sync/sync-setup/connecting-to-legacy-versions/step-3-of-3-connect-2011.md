@@ -3,7 +3,7 @@ unique-page-id: 3571809
 description: 第3步 — 將Microsoft Dynamics與Marketo連結（2011年內部部署） — Marketo檔案 — 產品檔案
 title: 第3步 — 將Microsoft Dynamics與Marketo連接（2011年內部部署）
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 0%
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [第1步（共3步）:安裝Marketo解決方案（2011年內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
->* [第2步（共3步）:在Dynamics中設定Marketo同步使用者（2011年內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+>* [第1步（共3步）:安裝Marketo解決方案（2011年內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
+>* [第2步（共3步）:在Dynamics中設定Marketo同步使用者（2011年內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
 
 
 >[!NOTE]
