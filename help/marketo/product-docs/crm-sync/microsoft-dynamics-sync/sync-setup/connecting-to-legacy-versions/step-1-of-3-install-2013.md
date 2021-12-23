@@ -3,7 +3,7 @@ unique-page-id: 3571813
 description: 第1步（共3步） — 在Dynamics中安裝Marketo解決方案（2013年內部部署） — Marketo檔案 — 產品檔案
 title: 第1步（共3步） — 在Dynamics（2013年內部部署）中安裝Marketo解決方案
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -94,4 +94,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[第2步（共3步）:為Marketo配置同步用戶（2013年內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
+>[第2步（共3步）:為Marketo配置同步用戶（2013年內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
