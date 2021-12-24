@@ -1,16 +1,14 @@
 ---
-unique-page-id: 7504736
-description: 安裝Microsoft適用的Marketo Dynamics 2016/Dynamics 365內部部署1（共3個） — Marketo檔案 — 產品檔案
-title: 安裝Marketo for Microsoft Dynamics 2016/Dynamics 365內部部署步驟1（共3步）
-exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
-source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
+description: Install Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises 1 of 3 - Marketo Docs - Product Documentation
+title: Install Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 1 of 3
+source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
 
 ---
 
-# 第1步（共3步）:為Marketo配置同步用戶（2016年內部部署/Dynamics 365內部部署） {#step-of-configure-sync-user-for-marketo-on-premises-2016}
+# Step 1 of 3: Configure Sync User for Marketo (2016 On-Prem /Dynamics 365 On-Premises) {#step-of-configure-sync-user-for-marketo-on-premises-2016}
 
 您必須先在Dynamics中安裝Microsoft解決方案，才能將Dynamics 2015內部部署或2016(Dynamics 365)與Marketo同步。
 
@@ -20,7 +18,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->如果您使用Microsoft Dynamics On-Premise，您必須 [面向Internet的部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD)與 [Active Directory聯合身份驗證服務](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+(ADFS)已配置。 注意：當您按一下連結時，IFD文檔會自動下載。
+>如果您使用Microsoft Dynamics On-Premise，您必須 [面向Internet的部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD)與 [Active Directory聯合身份驗證服務](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+(ADFS)已配置。 Note: The IFD document downloads automatically when you click the link.
 >
 >[下載Marketo銷售機會管理解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 開始之前。
 
@@ -30,7 +28,7 @@ ht-degree: 0%
 >
 >您需要CRM管理員權限才能執行此同步。
 
-1. 登入 **動態。** 按一下 **Microsoft Dynamics CRM** 下拉式功能表，然後選取 **設定**.
+1. Log in to **Dynamics.** 按一下 **Microsoft Dynamics CRM** 下拉式功能表，然後選取 **設定**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 
@@ -38,11 +36,11 @@ ht-degree: 0%
 
    ![](assets/image2015-3-19-8-33-3.png)
 
-1. 按一下 **匯入**.
+1. Click **Import**.
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. 按一下 **瀏覽** 並選擇您的解決方案 [已下載](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). 按一下 **下一個**.
+1. 按一下 **瀏覽** 並選擇您的解決方案 [已下載](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Click **Next**.
 
    ![](assets/image2015-3-19-9-20-56.png)
 
@@ -66,15 +64,15 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您必須啟用瀏覽器上的快顯視窗，才能完成安裝程式。
+   >You will need to enable pop-ups on your browser to complete the installation process.
 
    ![](assets/image2015-3-11-11-34-9.png)
 
-1. 下載記錄檔（如果需要），然後按一下 **關閉**.
+1. Download a log file (if you want) and click **Close**.
 
    >[!NOTE]
    >
-   >您可能會看到一則訊息，指出「Marketo銷售機會管理已完成並出現警告」。 這是完全預期的。
+   >您可能會看到一則訊息，指出「Marketo銷售機會管理已完成並出現警告」。 This is fully expected.
 
    ![](assets/image2015-3-13-9-54-39.png)
 
@@ -82,11 +80,11 @@ ht-degree: 0%
 
    ![](assets/image2015-3-19-8-40-38.png)
 
-1. 選取Marketo解決方案，然後按一下 **發佈所有自訂**.
+1. Select the Marketo solution and click **Publish All Customizations**.
 
    ![](assets/image2015-3-19-8-41-21.png)
 
-   五！ 安裝已完成。
+   五！ The installation is finished.
 
    >[!CAUTION]
    >
@@ -94,4 +92,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[安裝Dynamics 2015內部部署和2016 365內部部署的Marketo步驟2（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises/step-2-of-3-set-up.md)
+   >[安裝Dynamics 2015內部部署和2016 365內部部署的Marketo步驟2（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)

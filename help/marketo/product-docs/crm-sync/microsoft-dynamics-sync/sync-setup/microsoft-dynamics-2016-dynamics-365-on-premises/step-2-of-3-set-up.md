@@ -1,22 +1,20 @@
 ---
-unique-page-id: 7504739
-description: 安裝Marketo for Microsoft Dynamics 2016/Dynamics 365內部部署步驟2（共3個） — Marketo檔案 — 產品檔案
-title: Install Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 2 of 3
-exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
-source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
+description: Install Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 2 of 3 - Marketo Docs - Product Documentation
+title: 安裝Marketo for Microsoft Dynamics 2016/Dynamics 365內部部署步驟2（共3步）
+source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
 
 ---
 
-# Step 2 of 3 Set up Marketo for Dynamics (2016 On-Prem/Dynamics 365 On-Premises){#step-of-set-up-for-marketo-on-premises-2016}
+# 設定Dynamics Marketo的第2步（2016年內部部署/Dynamics 365內部部署）{#step-of-set-up-for-marketo-on-premises-2016}
 
-Great job completing the previous steps. 讓我們繼續過去。
+完成前述步驟非常好。 讓我們繼續過去。
 
 >[!PREREQUISITES]
 >
->[Install Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>[安裝Marketo for Microsoft Dynamics 2016/Dynamics 365內部部署步驟1（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
 
 ## 分配同步用戶角色 {#assign-sync-user-role}
 
@@ -28,7 +26,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. 您不需要將
 
 >[!IMPORTANT]
 >
->The language setting of the Sync User [should be set to English](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
+>同步用戶的語言設定 [應設為英文](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
 
 1. 在 **設定**，按一下 **安全性**.
 
@@ -38,7 +36,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. 您不需要將
 
    ![](assets/assign2.png)
 
-1. 您會在此處看到使用者清單。 選取專屬的Marketo Sync使用者，或聯絡您的 [Active Directory聯合身份驗證服務](https://msdn.microsoft.com/en-us/library/bb897402.aspx)(ADFS)管理員，為Marketo建立專用使用者。
+1. You will see a list of users here. 選取專屬的Marketo Sync使用者，或聯絡您的 [Active Directory聯合身份驗證服務](https://msdn.microsoft.com/en-us/library/bb897402.aspx)(ADFS)管理員，為Marketo建立專用使用者。
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
@@ -60,21 +58,21 @@ Assign the Marketo Sync User role only to the Marketo sync user. 您不需要將
 
 ## 設定Marketo解決方案 {#configure-marketo-solution}
 
-快完成了！ 我們只有最後幾段配置，然後再轉到下一篇文章。
+Almost done! We just have a few last pieces of configuration before moving onto the next article.
 
-1. 在 **設定**，按一下 **Marketo設定**.
+1. Under **Settings**, click **Marketo Config**.
 
    ![](assets/configure1.png)
 
    >[!NOTE]
    >
-   >如果缺少Marketo設定，請嘗試重新整理頁面。 如果問題持續存在， [發佈Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md) 或嘗試登出再登入。
+   >If Marketo Config is missing, try refreshing the page. 如果問題持續存在， [發佈Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md) 或嘗試登出再登入。
 
-1. 按一下 **預設**.
+1. Click **Default**.
 
    ![](assets/configure2.png)
 
-1. 按一下 **Marketo使用者** 欄位，然後選取同步使用者。
+1. Click the **Marketo User** field and select the sync user.
 
    ![](assets/configure3.png)
 
@@ -88,8 +86,8 @@ Assign the Marketo Sync User role only to the Marketo sync user. 您不需要將
 
 ## Before Proceeding to Step 3 {#before-proceeding-to-step}
 
-* 如果要限制同步的記錄數， [設定自訂同步篩選器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) 現在。
-* 執行 [驗證Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) 程式。 它會驗證您的初始設定是否正確執行。
+* If you want to restrict the number of records you sync, [set up a custom sync filter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) now.
+* 執行 [驗證Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) 程式。 It verifies that your initial setups were done correctly.
 * Log in to the Marketo Sync User in Microsoft Dynamics CRM.
 
 >[!MORELIKETHIS]
