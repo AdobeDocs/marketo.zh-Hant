@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
+source-git-commit: a3a212fac76d1a622b520edf531df6c52869978e
 workflow-type: tm+mt
-source-wordcount: '8230'
+source-wordcount: '8234'
 ht-degree: 0%
 
 ---
@@ -59,16 +59,16 @@ ht-degree: 0%
             + [命名帳戶概述](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [導入命名帳戶](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
             + [將現有的指定帳戶新增至帳戶清單](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
-            + [建立指定帳戶](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
-            + [將人員新增至指定帳戶](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
-            + [Discover帳戶](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+            + [Create a Named Account](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+            + [Add People to a Named Account](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+            + [Discover Accounts](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
             + [導致帳戶匹配](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
-            + [在指定帳戶中進行篩選](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
+            + [Filtering in Named Accounts](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
             + [刪除指定帳戶](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
             + [TAM階層](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
             + [建立階層](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
          + [帳戶清單](product-docs/target-account-management/target/account-lists.md)
-         + [帳戶智慧清單](product-docs/target-account-management/target/account-smart-lists.md)
+         + [Account Smart Lists](product-docs/target-account-management/target/account-smart-lists.md)
          + [在LinkedIn上建立符合帳戶的對象](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
       + 參與 {#engage}
          + [帳戶篩選器](product-docs/target-account-management/engage/account-filters.md)
@@ -269,15 +269,15 @@ ht-degree: 0%
          + [建立新工作區](product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
          + [建立人員分區](product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
          + [刪除工作區](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
-         + [編輯工作區](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
-         + [編輯現有的人員分區](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
-         + [在工作區和分區間共用區段](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
+         + [Edit a Workspace](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
+         + [Edit an Existing Person Partition](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
+         + [Share Segmentations Across Workspaces and Partitions](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
    + 核心Marketo概念 {#core-marketo-concepts}
       + 智慧型行銷活動 {#smart-campaigns}
          + [了解智慧型行銷活動](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
-         + 建立智慧型行銷活動 {#creating-a-smart-campaign}
+         + Creating a Smart Campaign {#creating-a-smart-campaign}
             + [了解批次和觸發智慧型促銷活動](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
-            + [建立新的智慧型促銷活動](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+            + [Create a New Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
             + [定義智慧促銷活動的智慧清單 |批](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
             + [定義智慧促銷活動的智慧清單 |觸發](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
             + [智慧型行銷活動檢查清單](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md)
@@ -285,9 +285,9 @@ ht-degree: 0%
             + [中止智慧型促銷活動](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)
             + [啟動觸發程式智慧型行銷活動 |計畫頁簽](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/activate-a-trigger-smart-campaign-schedule-tab.md)
             + [將通訊限制套用至智慧行銷活動](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
-            + [自動觸發促銷活動清除](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)
-            + [促銷活動動作：複製智慧型促銷活動](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-clone-a-smart-campaign.md)
-            + [促銷活動動作：刪除智慧型促銷活動](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-delete-a-smart-campaign.md)
+            + [Automatic Trigger Campaign Cleanup](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)
+            + [Campaign Actions: Clone a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-clone-a-smart-campaign.md)
+            + [Campaign Actions: Delete a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-delete-a-smart-campaign.md)
             + [取消已排程的批次促銷活動執行](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
             + [取消排程的循環批次促銷活動執行](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run.md)
             + [停用觸發程式智慧型促銷活動 |計畫頁簽](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/deactivate-a-trigger-smart-campaign-schedule-tab.md)
@@ -300,7 +300,7 @@ ht-degree: 0%
             + [排程循環批次促銷活動](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
             + [使用「請求促銷活動」設定銷售的觸發智慧型促銷活動](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
             + [使用標準智慧清單規則邏輯](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
-         + 流量動作 {#flow-actions}
+         + Flow Actions {#flow-actions}
             + [新增流量步驟至智慧型促銷活動](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
             + [重新排序智慧促銷活動中的流程步驟](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
             + [添加到清單](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
@@ -726,7 +726,7 @@ ht-degree: 0%
             + [核准、取消核准或刪除登錄頁面](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [登錄頁面效能報表](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
             + [登錄頁面測試群組](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
-            + [了解自由格式與引導式登錄頁面](product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
+            + [Understanding Free-form vs Guided Landing Pages](product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
          + 自由格式登錄頁面 {#free-form-landing-pages}
             + [新增自由格式登陸頁面影像的連結](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-a-free-form-landing-page-image.md)
             + [在自由格式登陸頁面中新增影像連結](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-an-image-in-a-free-form-landing-page.md)
@@ -939,7 +939,7 @@ ht-degree: 0%
          + 建立參與方案 {#creating-an-engagement-program}
             + [新增資料流](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
             + [新增內容至資料流](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
-            + [將人員新增至參與計畫](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.md)
+            + [Add People to an Engagement Program](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.md)
             + [將方案新增至參與方案串流](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
             + [建立參與方案](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
             + [了解參與計畫](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
@@ -949,8 +949,8 @@ ht-degree: 0%
             + [重新命名資料流](product-docs/email-marketing/drip-nurturing/engagement-program-streams/rename-a-stream.md)
             + [設定資料流順序](product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
             + [與收件者時區排程參與方案](product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
-            + [測試參與資料流](product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md)
-            + [在參與資料流之間轉換人員](product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)
+            + [Test an Engagement Stream](product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md)
+            + [Transition People Between Engagement Streams](product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)
          + 使用參與計畫 {#using-engagement-programs}
             + [避免傳送重複內容](product-docs/email-marketing/drip-nurturing/using-engagement-programs/avoid-sending-duplicate-content.md)
             + [停用並啟用用盡的內容通知](product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)
@@ -1276,6 +1276,7 @@ ht-degree: 0%
             + [在動態欄位中參考自己](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
       + 動作 {#actions}
+         + [MSI操作功能概述](product-docs/marketo-sales-insight/actions/msi-actions-feature-overview.md)
          + 快速入門 {#getting-started}
             + [《MSI操作使用手冊》](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
             + [MSI操作管理指南](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
@@ -1311,10 +1312,6 @@ ht-degree: 0%
                + [傳遞通道概述](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [電子郵件連線限制](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [為您的團隊設定自訂傳送通道](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
-            + Salesforce配置 {#salesforce-configuration}
-               + [Salesforce中的MSI操作配置](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
-               + [解除安裝Salesforce Classic自訂套件](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-               + [解除安裝Salesforce Lightning自訂套件](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
             + 取消訂閱數 {#unsubscribes}
                + [取消訂閱概述](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [自訂取消訂閱連結訊息](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1326,6 +1323,10 @@ ht-degree: 0%
                + [大量電子郵件選項](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + [使用選擇和發送合成大量電子郵件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [透過群組電子郵件傳送電子郵件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
+         + Salesforce配置 {#salesforce-configuration}
+            + [Salesforce中的MSI操作配置](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
+            + [解除安裝Salesforce Classic自訂套件](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+            + [解除安裝Salesforce Lightning自訂套件](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + Marketo {#marketo}
             + [將Marketo存取權授與使用者](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + 傳送銷售電子郵件 {#send-a-sales-email}
@@ -1357,14 +1358,14 @@ ht-degree: 0%
          + 設定和使用 {#setting-up-and-using}
             + [從Microsoft Dynamics將銷售機會/連絡人新增至Marketo促銷活動](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
             + [將Marketo與Dynamics同步的必填欄位](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
-            + [從Microsoft Dynamics傳送Marketo銷售電子郵件](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
+            + [Send a Marketo Sales Email from Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
             + [設定線索/聯繫記錄的星光和火焰](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
          + 解除安裝 {#uninstalling}
             + [禁用全局MS Dynamics同步](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [從MS Dynamics實例卸載MSI](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
-         + 更新 {#updating}
-            + [升級Microsoft Dynamics的Marketo Sales Insight解決方案](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
-      + Salesforce的MSI {#msi-for-salesforce}
+         + Updating {#updating}
+            + [Upgrade the Marketo Sales Insight Solution for Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+      + MSI for Salesforce {#msi-for-salesforce}
          + 安裝 {#installation}
             + [在SalesforceAppExchange中安裝Marketo Sales Insight套件](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + 設定 {#configuration}
@@ -1372,7 +1373,7 @@ ht-degree: 0%
             + [在Salesforce Professional Edition中設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [現有客戶的設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Marketo Salesforce中的Sales Insight設定索引標籤](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
-            + [適用於Marketo管理員的Sales Insight頁面](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
+            + [Sales Insight Page for Marketo Admins](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [為您的團隊設定Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + 功能 {#features}
             + [MSI功能概述](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
@@ -1388,17 +1389,17 @@ ht-degree: 0%
                + [Salesforce閃電中的批量操作](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [在Marketo Sales Insight中傳送電子郵件至多筆記錄](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + 語言支援 {#language-support}
-               + [在Salesforce中為多語言支援準備銷售分析](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
+               + [Prepare Sales Insight for Multi-Lingual Support in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Marketo標籤 {#marketo-tab}
                + [最佳下注](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [使用銷售機會摘要](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + MSI配置頁簽 {#msi-configuration-tab}
                + [啟用RSS for Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
             + 效能報表 {#performance-reports}
-               + [Sales Insight電子郵件績效報表](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
+               + [Sales Insight Email Performance Report](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
             + 星與火 {#stars-and-flames}
                + [自定義星光和火焰](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
-               + [優先順序、緊急程度、相對分數和最佳賭注](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+               + [Priority, Urgency, Relative Score, and Best Bets](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
                + [設定要用於Sales Insight中的星光和火焰的分數欄位](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
             + MSI面板中的頁簽 {#tabs-in-the-msi-panel}
                + [電子郵件標籤](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
