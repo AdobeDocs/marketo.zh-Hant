@@ -1,9 +1,9 @@
 ---
 description: 第4步（共4步） — 使用資源擁有者密碼控制連線連線Marketo解決方案 — Marketo檔案 — 產品檔案
 title: 第4步（共4步） — 將Marketo解決方案與資源擁有者密碼控制連線連線
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [第1步，共4步：安裝具有資源擁有者密碼控制連線的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-3-install.md)
->* [第2步，共4步：使用資源擁有者密碼控制連線設定Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-3-set-up.md)
+>* [第1步，共4步：安裝具有資源擁有者密碼控制連線的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
+>* [第2步，共4步：使用資源擁有者密碼控制連線設定Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
 >* [第3步，共4步：在MS Dynamics上設定客戶端應用](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
 
 

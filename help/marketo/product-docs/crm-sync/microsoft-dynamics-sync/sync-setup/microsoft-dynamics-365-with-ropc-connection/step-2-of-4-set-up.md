@@ -1,9 +1,7 @@
 ---
-unique-page-id: 3571827
 description: 第2步（共3步） — 使用資源擁有者密碼控制連線設定Marketo解決方案 — Marketo檔案 — 產品檔案
 title: 第2步（共3步） — 使用資源擁有者密碼控制連線設定Marketo解決方案
-exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -136,4 +134,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[第3步（共3步）:將Marketo解決方案與資源擁有者密碼控制連線連線](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-3-connect.md)
+>[第3步，共4步：將Marketo解決方案與資源擁有者密碼控制連線連線](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-connect.md)
