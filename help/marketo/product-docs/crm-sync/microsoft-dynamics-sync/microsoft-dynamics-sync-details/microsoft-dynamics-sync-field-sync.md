@@ -3,7 +3,7 @@ unique-page-id: 3571838
 description: Microsoft Dynamics Sync — 欄位同步 — Marketo檔案 — 產品檔案
 title: Microsoft Dynamics同步 — 欄位同步
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -30,11 +30,11 @@ Marketo到Dynamics同步功能超強。 詳情如下。
 
 ## 我在Dynamics中建立了一個欄位。 我可以將它同步至Marketo嗎？ {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-是的，你可以 [同步欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) 只要您的同步使用者在Dynamics中有權存取它，
+是的，你可以 [同步欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) 只要您的同步使用者在Dynamics中有權存取它，
 
 ## 哪些欄位會同步至Marketo? {#what-fields-will-sync-to-marketo}
 
-您可以 [選取要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) 進行設定。
+您可以 [選取要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) 進行設定。
 
 ## 如果在同步Marketo和Dynamics後需要新增自訂欄位，該怎麼辦？ {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 

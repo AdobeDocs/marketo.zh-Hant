@@ -3,7 +3,7 @@ unique-page-id: 3571833
 description: Microsoft Dynamics Sync — 連絡人同步 — Marketo檔案 — 產品檔案
 title: Microsoft Dynamics同步 — 聯繫人同步
 exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 ## 哪些欄位會同步至Marketo? {#what-fields-will-sync-to-marketo}
 
-您可以 [選取要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) 進行設定。 但Marketo只會同步您的Dynamics同步使用者有權存取的欄位。
+您可以 [選取要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) 進行設定。 但Marketo只會同步您的Dynamics同步使用者有權存取的欄位。
 
 ## Marketo會遵守Dynamics驗證規則嗎？ {#will-marketo-respect-the-dynamics-validation-rules}
 

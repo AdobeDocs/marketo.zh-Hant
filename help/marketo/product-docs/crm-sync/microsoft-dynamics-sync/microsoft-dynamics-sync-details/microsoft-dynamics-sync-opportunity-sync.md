@@ -3,7 +3,7 @@ unique-page-id: 3571844
 description: Microsoft Dynamics Sync - Opportunity Sync - Marketo檔案 — 產品檔案
 title: Microsoft Dynamics同步 — Opportunity同步
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -24,4 +24,4 @@ Marketo到Dynamics同步功能超強。 以下是機會同步的所有詳細資�
 
 ## 哪些欄位會同步至Marketo? {#what-fields-will-sync-to-marketo}
 
-您可以 [選取要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) 進行設定。
+您可以 [選取要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) 進行設定。
