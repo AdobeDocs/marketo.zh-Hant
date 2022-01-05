@@ -3,7 +3,7 @@ description: 第3步（共4步） — 在MS Dynamics上設定用戶端應用程�
 title: 第3步（共4步） — 在MS Dynamics上設定用戶端應用程式
 source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
