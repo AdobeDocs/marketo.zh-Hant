@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: a3a212fac76d1a622b520edf531df6c52869978e
+source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
 workflow-type: tm+mt
-source-wordcount: '8234'
+source-wordcount: '8287'
 ht-degree: 0%
 
 ---
@@ -59,16 +59,16 @@ ht-degree: 0%
             + [命名帳戶概述](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [導入命名帳戶](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
             + [將現有的指定帳戶新增至帳戶清單](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
-            + [Create a Named Account](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
-            + [Add People to a Named Account](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
-            + [Discover Accounts](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
-            + [導致帳戶匹配](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
-            + [Filtering in Named Accounts](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
+            + [建立指定帳戶](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+            + [將人員新增至指定帳戶](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+            + [Discover帳戶](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+            + [Lead to Account Matching](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+            + [在指定帳戶中進行篩選](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
             + [刪除指定帳戶](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
             + [TAM階層](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
             + [建立階層](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
          + [帳戶清單](product-docs/target-account-management/target/account-lists.md)
-         + [Account Smart Lists](product-docs/target-account-management/target/account-smart-lists.md)
+         + [帳戶智慧清單](product-docs/target-account-management/target/account-smart-lists.md)
          + [在LinkedIn上建立符合帳戶的對象](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
       + 參與 {#engage}
          + [帳戶篩選器](product-docs/target-account-management/engage/account-filters.md)
@@ -269,15 +269,15 @@ ht-degree: 0%
          + [建立新工作區](product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
          + [建立人員分區](product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
          + [刪除工作區](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
-         + [Edit a Workspace](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
-         + [Edit an Existing Person Partition](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
-         + [Share Segmentations Across Workspaces and Partitions](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
+         + [編輯工作區](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
+         + [編輯現有的人員分區](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
+         + [在工作區和分區間共用區段](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
    + 核心Marketo概念 {#core-marketo-concepts}
       + 智慧型行銷活動 {#smart-campaigns}
          + [了解智慧型行銷活動](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
-         + Creating a Smart Campaign {#creating-a-smart-campaign}
-            + [了解批次和觸發智慧型促銷活動](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
-            + [Create a New Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+         + 建立智慧型行銷活動 {#creating-a-smart-campaign}
+            + [Understanding Batch and Trigger Smart Campaigns](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
+            + [建立新的智慧型促銷活動](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
             + [定義智慧促銷活動的智慧清單 |批](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
             + [定義智慧促銷活動的智慧清單 |觸發](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
             + [智慧型行銷活動檢查清單](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md)
@@ -285,9 +285,9 @@ ht-degree: 0%
             + [中止智慧型促銷活動](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)
             + [啟動觸發程式智慧型行銷活動 |計畫頁簽](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/activate-a-trigger-smart-campaign-schedule-tab.md)
             + [將通訊限制套用至智慧行銷活動](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
-            + [Automatic Trigger Campaign Cleanup](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)
-            + [Campaign Actions: Clone a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-clone-a-smart-campaign.md)
-            + [Campaign Actions: Delete a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-delete-a-smart-campaign.md)
+            + [自動觸發促銷活動清除](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)
+            + [促銷活動動作：複製智慧型促銷活動](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-clone-a-smart-campaign.md)
+            + [促銷活動動作：刪除智慧型促銷活動](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-delete-a-smart-campaign.md)
             + [取消已排程的批次促銷活動執行](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
             + [取消排程的循環批次促銷活動執行](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run.md)
             + [停用觸發程式智慧型促銷活動 |計畫頁簽](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/deactivate-a-trigger-smart-campaign-schedule-tab.md)
@@ -301,10 +301,10 @@ ht-degree: 0%
             + [使用「請求促銷活動」設定銷售的觸發智慧型促銷活動](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
             + [使用標準智慧清單規則邏輯](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
          + Flow Actions {#flow-actions}
-            + [新增流量步驟至智慧型促銷活動](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+            + [Add a Flow Step to a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
             + [重新排序智慧促銷活動中的流程步驟](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
-            + [添加到清單](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
-            + [將資料附加至欄位](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
+            + [Add to List](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
+            + [Append Data to a Field](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
             + [呼叫Webhook](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)
             + [變更資料值](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
             + [清除欄位值](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md)
@@ -520,6 +520,7 @@ ht-degree: 0%
          + [修正Dynamics驗證同步問題](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + 同步設定 {#sync-setup}
             + [下載Marketo銷售機會管理解決方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+            + [授予用戶端Id和應用程式註冊的同意](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md)
             + [更新適用於Microsoft Dynamics的Marketo解決方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [驗證Microsoft Dynamics同步](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [查看組織服務URL](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
@@ -527,12 +528,16 @@ ht-degree: 0%
                + [第1步（共3步）:安裝Marketo解決方案 — 2015內部部署/ 2016 Dynamics 365內部部署](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [第2步（共3步）:在Dynamics 2015內部部署/ 2016 Dynamics 365內部部署中設定Marketo同步用戶](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [第3步（共3步）:連接Marketo和Dynamics 2015內部部署/ 2016 Dynamics 365內部部署](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 365 {#microsoft-dynamics-365}
-               + [第1步（共3步）:安裝Marketo解決方案（線上）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
-               + [第2步（共3步）:在Dynamics中設定Marketo同步使用者](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
-               + [第3步（共3步）:將Microsoft Dynamics與Marketo連線（線上）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+            + Microsoft Dynamics 365，搭配ROPC連線{#microsoft-dynamics-365-with-ropc-connection}
+               + [第1步，共4步：安裝Marketo Solution with ROPC Connection](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
+               + [第2步，共4步：使用ROPC連線設定Marketo解決方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
+               + [第3步，共4步：在MS Dynamics上設定客戶端應用](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
+               + [第4步，共4步：使用ROPC連線連接Marketo解決方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
+            + Microsoft Dynamics 365，具S2S連線{#microsoft-dynamics-365-with-s2s-connection}
+               + [第1步（共3步）:安裝具S2S連線的Marketo解決方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+               + [第2步（共3步）:使用S2S連線設定Marketo解決方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+               + [第3步（共3步）:將Marketo解決方案與S2S連線連線](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
             + 設定Dynamics的OAuth驗證 {#set-up-oauth-authentication-for-dynamics}
-               + [授予用戶端Id和應用程式註冊的同意](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
                + [設定Microsoft Dynamics CRM應用程式以進行線上](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [為內部部署設定Microsoft Dynamics CRM應用程式](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
                + [為Azure AD Federated設定MSD，並預裝AD FS、租用戶和Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
@@ -723,10 +728,10 @@ ht-degree: 0%
          + [從方塊上傳影像和檔案](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
       + 登錄頁面 {#landing-pages}
          + 了解登錄頁面 {#understanding-landing-pages}
-            + [核准、取消核准或刪除登錄頁面](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
+            + [Approve, Unapprove, or Delete a Landing Page](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [登錄頁面效能報表](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
             + [登錄頁面測試群組](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
-            + [Understanding Free-form vs Guided Landing Pages](product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
+            + [了解自由格式與引導式登錄頁面](product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
          + 自由格式登錄頁面 {#free-form-landing-pages}
             + [新增自由格式登陸頁面影像的連結](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-a-free-form-landing-page-image.md)
             + [在自由格式登陸頁面中新增影像連結](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-an-image-in-a-free-form-landing-page.md)
@@ -935,11 +940,11 @@ ht-degree: 0%
          + [共用和專用IP地址](product-docs/email-marketing/deliverability/shared-and-dedicated-ip-addresses.md)
          + [了解取消訂閱](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [使用您的專用IP位址來傳送電子郵件](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
-      + 滴灌 {#drip-nurturing}
+      + Drip Nurturing {#drip-nurturing}
          + 建立參與方案 {#creating-an-engagement-program}
-            + [新增資料流](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
+            + [Add a Stream](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
             + [新增內容至資料流](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
-            + [Add People to an Engagement Program](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.md)
+            + [將人員新增至參與計畫](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.md)
             + [將方案新增至參與方案串流](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
             + [建立參與方案](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
             + [了解參與計畫](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
@@ -949,8 +954,8 @@ ht-degree: 0%
             + [重新命名資料流](product-docs/email-marketing/drip-nurturing/engagement-program-streams/rename-a-stream.md)
             + [設定資料流順序](product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
             + [與收件者時區排程參與方案](product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
-            + [Test an Engagement Stream](product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md)
-            + [Transition People Between Engagement Streams](product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)
+            + [測試參與資料流](product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md)
+            + [在參與資料流之間轉換人員](product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)
          + 使用參與計畫 {#using-engagement-programs}
             + [避免傳送重複內容](product-docs/email-marketing/drip-nurturing/using-engagement-programs/avoid-sending-duplicate-content.md)
             + [停用並啟用用盡的內容通知](product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)
@@ -1363,9 +1368,9 @@ ht-degree: 0%
          + 解除安裝 {#uninstalling}
             + [禁用全局MS Dynamics同步](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [從MS Dynamics實例卸載MSI](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
-         + Updating {#updating}
-            + [Upgrade the Marketo Sales Insight Solution for Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
-      + MSI for Salesforce {#msi-for-salesforce}
+         + 更新 {#updating}
+            + [升級Microsoft Dynamics的Marketo Sales Insight解決方案](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+      + Salesforce的MSI {#msi-for-salesforce}
          + 安裝 {#installation}
             + [在SalesforceAppExchange中安裝Marketo Sales Insight套件](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + 設定 {#configuration}
@@ -1373,7 +1378,7 @@ ht-degree: 0%
             + [在Salesforce Professional Edition中設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [現有客戶的設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Marketo Salesforce中的Sales Insight設定索引標籤](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
-            + [Sales Insight Page for Marketo Admins](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
+            + [適用於Marketo管理員的Sales Insight頁面](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [為您的團隊設定Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + 功能 {#features}
             + [MSI功能概述](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
@@ -1386,20 +1391,20 @@ ht-degree: 0%
                + [傳送測試電子郵件](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + 大量動作 {#bulk-actions}
                + [將Marketo Sales Insight標籤和按鈕添加到Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
-               + [Salesforce閃電中的批量操作](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
+               + [Bulk Actions in Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [在Marketo Sales Insight中傳送電子郵件至多筆記錄](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + 語言支援 {#language-support}
-               + [Prepare Sales Insight for Multi-Lingual Support in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
+               + [在Salesforce中為多語言支援準備銷售分析](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Marketo標籤 {#marketo-tab}
                + [最佳下注](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [使用銷售機會摘要](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
-            + MSI配置頁簽 {#msi-configuration-tab}
-               + [啟用RSS for Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
+            + MSI Configuration Tab {#msi-configuration-tab}
+               + [Enable RSS for Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
             + 效能報表 {#performance-reports}
-               + [Sales Insight Email Performance Report](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
+               + [Sales Insight電子郵件績效報表](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
             + 星與火 {#stars-and-flames}
                + [自定義星光和火焰](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
-               + [Priority, Urgency, Relative Score, and Best Bets](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+               + [優先順序、緊急程度、相對分數和最佳賭注](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
                + [設定要用於Sales Insight中的星光和火焰的分數欄位](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
             + MSI面板中的頁簽 {#tabs-in-the-msi-panel}
                + [電子郵件標籤](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
@@ -1811,7 +1816,7 @@ ht-degree: 0%
          + [發行說明：2012年12月](release-notes/previous-releases/2012/release-notes-december-2012.md)
          + [發行說明：2012年1月/2月](release-notes/previous-releases/2012/release-notes-jan-feb-2012.md)
          + [發行說明：2012年6月](release-notes/previous-releases/2012/release-notes-june-2012.md)
-         + [發行說明：2012年3月](release-notes/previous-releases/2012/release-notes-march-2012.md)
+         + [Release Notes: March 2012](release-notes/previous-releases/2012/release-notes-march-2012.md)
          + [發行說明：2012年5月](release-notes/previous-releases/2012/release-notes-may-2012.md)
          + [發行說明：2012年10月](release-notes/previous-releases/2012/release-notes-october-2012.md)
          + [發行說明：2012年9月](release-notes/previous-releases/2012/release-notes-september-2012.md)
