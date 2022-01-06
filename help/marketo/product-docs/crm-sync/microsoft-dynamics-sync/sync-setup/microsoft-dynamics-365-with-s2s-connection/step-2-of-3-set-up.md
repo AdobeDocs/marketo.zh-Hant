@@ -3,98 +3,86 @@ unique-page-id: 3571827
 description: 第2步（共3步） — 使用S2S連線設定Marketo解決方案 — Marketo檔案 — 產品檔案
 title: 第2步（共3步） — 使用S2S連線設定Marketo解決方案
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
+source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 第2步（共3步）:在Dynamics中設定Marketo同步使用者 {#step-of-set-up-marketo-sync-user-in-dynamics}
-
-讓我們透過建立使用者帳戶開始使用。
+# 第2步（共3步）:在具有S2S連線的Dynamics中設定Marketo同步使用者{#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
 
 >[!PREREQUISITES]
 >
 >[第1步（共3步）:安裝具S2S連線的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
 
-## 建立新使用者 {#create-a-new-user}
+## 在Azure AD中建立客戶端應用程式 {#create-client-application-in-azure-ad}
 
-1. 登入Dynamics。 按一下「設定」圖示並選取 **進階設定**.
+1. 導覽至 [這篇Microsoft文章](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration).
 
-   ![](assets/one.png)
+1. 請遵循所有步驟。 在步驟3中，輸入相關的應用程式名稱(例如「Marketo整合」)。 在「支援的帳戶類型」下，選擇 **僅此組織目錄中的帳戶**.
 
-1. 按一下 **設定** 選取 **安全性**.
+1. 記下應用程式ID(ClientId)和租用戶ID。 你以後要進Marketo。
 
-   ![](assets/two.png)
+1. 依照下列步驟授與管理員同意 [本文](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md).
 
-1. 按一下 **使用者**.
+1. 按一下「 」，在管理中心產生用戶端密碼 **憑證與機密**.
 
-   ![](assets/three.png)
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-1.png)
 
-1. 按一下 **新增。**
+1. 按一下 **新用戶端密碼** 按鈕。
 
-   ![](assets/four.png)
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-2.png)
 
-1. 按一下 **添加和許可用戶** 在新視窗中。
+1. 輸入客戶端密碼說明，然後按一下 **新增**.
 
-   ![](assets/five.png)
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-3.png)
 
-1. 隨即開啟新索引標籤。 按一下 **管理** 頁面頂端。
+>[!CAUTION]
+>
+>請務必記下「用戶端密碼」值（請見下方螢幕擷取畫面），因為您稍後會需要它。 它只顯示一次，您將無法再擷取它。
 
-   ![](assets/six.png)
+![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-4.png)
 
-1. 另一個新索引標籤隨即開啟。 按一下 **新增使用者**.
+1. 請依照下列連結中的步驟操作： [在Microsoft中設定應用程式使用者](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation). 為應用程式使用者授予權限時，將其指派給「Marketo同步使用者角色」。
 
-   ![](assets/seven.png)
+## Azure AD Federated與AD FS內部部署 {#azure-ad-federated-with-ad-fs-on-prem}
 
-1. 輸入所有資訊。 完成後，按一下 **新增**.
+Federated Azure AD到ADFS Onprem需要為特定應用程式建立家庭領域發現策略。 使用此策略，Azure AD將驗證請求重定向到聯合身份驗證服務。 必須在AD Connect中為此啟用密碼哈希同步。 如需詳細資訊，請參閱 [OAuth與ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) 和 [為應用程式設定hrd策略](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-   ![](assets/eight.png)
-
-   >[!NOTE]
-   >
-   >此名稱必須是專用的同步用戶，而不是現有CRM用戶的帳戶。 它不需要是實際的電子郵件地址。
-
-1. 輸入要接收新用戶憑據的電子郵件，然後按一下 **傳送電子郵件並關閉**.
-
-   ![](assets/nine.png)
+其他參考 [可在此處找到](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=此%20report%20ass%20includes%20federated,are%20federated%20to%20Azure%20AD。).
 
 ## 分配同步用戶角色 {#assign-sync-user-role}
 
-僅將Marketo同步使用者角色指派給Marketo同步使用者。 您不需要將其指派給任何其他使用者。
+1. 僅將Marketo同步使用者角色指派給Marketo同步使用者。
 
 >[!NOTE]
 >
->這適用於Marketo 4.0.0.14版和更新版本。 對於較舊版本，所有使用者都必須具有同步使用者角色。 若要升級Marketo，請參閱 [升級Marketo Dynamics適用的Microsoft解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+>這適用於Marketo 4.0.0.14版和更新版本。 對於較舊版本，所有使用者都必須具有同步使用者角色。 若要升級您的Marketo解決方案， [請參閱這篇文章](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
->[!IMPORTANT]
->
->同步用戶的語言設定 [應設為英文](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
+1. 返回「應用程式用戶」頁簽並刷新用戶清單。
 
-1. 返回「已啟用的用戶」頁簽並刷新用戶清單。
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-5.png)
 
-   ![](assets/ten.png)
+1. 將滑鼠指標暫留在新建立的「應用程式」使用者旁，便會顯示核取方塊。 按一下以選取。
 
-1. 將滑鼠指標暫留在新建立的Marketo同步使用者旁，畫面就會顯示核取方塊。 按一下以選取。
-
-   ![](assets/eleven.png)
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-6.png)
 
 1. 按一下 **管理角色**.
 
-   ![](assets/twelve.png)
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-7.png)
 
 1. 檢查 **Marketo同步使用者** 按一下 **確定**.
 
-   ![](assets/thirteen.png)
-
-   >[!NOTE]
-   >
-   >同步使用者在您的CRM中進行的任何更新都將 **not** 同步回Marketo。
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-8.png)
 
 ## 設定Marketo解決方案 {#configure-marketo-solution}
 
 快到了！ 我們只需將新使用者建立的相關資訊告知Marketo解決方案即可。
+
+>[!IMPORTANT]
+>
+>如果您從基本驗證升級為OAuth，您需要聯絡 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support) 以取得更新其他參數的協助。 啟用此功能將暫時停止同步，直到輸入新憑據並重新啟用同步為止。 如果您想要回復成舊的驗證模式，則可停用此功能（直到2022年4月）。
 
 1. 返回「進階設定」區段，然後按一下 ![](assets/image2015-5-13-15-3a49-3a19.png) 表徵圖，然後選擇 **Marketo設定**.
 
@@ -130,9 +118,9 @@ ht-degree: 0%
 
 ## 繼續執行步驟3之前 {#before-proceeding-to-step}
 
-    *如果要限制同步的記錄數，請立即[設定自訂同步篩選器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)。
-    *執行[驗證Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)程式。 它會驗證您的初始設定是否正確執行。
-    *在Microsoft Dynamics CRM中登入Marketo同步使用者。
+* 如果要限制同步的記錄數， [設定自訂同步篩選器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) 現在。
+* 執行 [驗證Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) 程式。 它會驗證您的初始設定是否正確執行。
+* 登入Microsoft Dynamics CRM中的Marketo同步使用者。
 
 >[!MORELIKETHIS]
 >

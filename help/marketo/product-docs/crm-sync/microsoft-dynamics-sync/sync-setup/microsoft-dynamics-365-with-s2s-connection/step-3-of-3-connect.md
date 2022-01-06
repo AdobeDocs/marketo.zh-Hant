@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 第3步（共3步） — 將Marketo解決方案與S2S連線連線 — Marketo檔案 — 產品檔案
 title: 第3步（共3步） — 使用S2S連線連接Marketo解決方案
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
+source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >**需要管理權限**
+
+>[!NOTE]
+>
+>在輸入新憑據之前，您可以 [在此處驗證](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
 
 ## 輸入Dynamics同步用戶資訊 {#enter-dynamics-sync-user-information}
 
@@ -44,18 +48,15 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >請確定您的憑證正確，因為提交後，我們無法還原後續的架構變更。 如果儲存的憑證不正確，您必須取得新的Marketo訂閱。
+   >請確定您的組織URL正確，因為提交後，我們無法回復後續的結構變更。 如果使用錯誤的組織URL，您必須取得新的Marketo訂閱。 如果您不知道URL, [在這裡了解如何找到](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-1. 輸入 **使用者名稱**, **密碼**，和Microsoft Dynamics **URL**. 按一下 **儲存** 時才能使用。
+1. 輸入 **使用者名稱**, **密碼**, **用戶端ID**, **用戶端密碼**，和Microsoft Dynamics **URL**. 按一下 **儲存** 時才能使用。
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >* 如果您的Marketo是在2020年10月之前布建，用戶端ID和密碼為選用欄位。 否則，它們是強制性的。 獲取此資訊取決於您使用的MSD版本。
-   >* Marketo中的使用者名稱必須符合CRM中同步使用者的使用者名稱。 格式可為 `user@domain.com` 或域\用戶。
-   >* 如果您不知道URL, [在這裡了解如何找到](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
-
+   >Marketo中的使用者名稱必須符合CRM中同步使用者的使用者名稱。 格式可為 `user@domain.com` 或域\用戶。
 
 ## 選擇要同步的欄位 {#select-fields-to-sync}
 
