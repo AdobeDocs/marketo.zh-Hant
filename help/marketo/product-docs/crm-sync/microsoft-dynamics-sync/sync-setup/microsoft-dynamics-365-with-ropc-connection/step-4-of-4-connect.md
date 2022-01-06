@@ -2,7 +2,7 @@
 description: 第4步（共4步） — 使用資源擁有者密碼控制連線連線Marketo解決方案 — Marketo檔案 — 產品檔案
 title: 第4步（共4步） — 將Marketo解決方案與資源擁有者密碼控制連線連線
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
+source-git-commit: f72f195e53d63e37ef2ed53980b9bffc59391430
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 第4步，共4步：將Marketo解決方案與資源擁有者密碼控制連線連線 {#step-4-of-4-connect-the-marketo-solution-ropc}
 
-這是同步的最後一步。 快到了！
+這是同步的最後一步。 你快到了！
 
 >[!PREREQUISITES]
 >
