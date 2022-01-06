@@ -1,9 +1,10 @@
 ---
 description: 第4步（共4步） — 使用資源擁有者密碼控制連線連線Marketo解決方案 — Marketo檔案 — 產品檔案
 title: 第4步（共4步） — 將Marketo解決方案與資源擁有者密碼控制連線連線
-source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
+exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
+source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -22,6 +23,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >**需要管理權限**
+
+>[!IMPORTANT]
+>
+>如果您從基本驗證升級為OAuth，您需要聯絡 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support) 以取得更新其他參數的協助。 啟用此功能將暫時停止同步，直到輸入新憑據並重新啟用同步為止。 如果您想要回復成舊的驗證模式，則可停用此功能（直到2022年4月）。
 
 ## 輸入Dynamics同步用戶資訊 {#enter-dynamics-sync-user-information}
 
@@ -43,18 +48,19 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >請確定您的憑證正確，因為提交後，我們無法還原後續的架構變更。 如果儲存的憑證不正確，您必須取得新的Marketo訂閱。
-
-1. 輸入 **使用者名稱**, **密碼**，和Microsoft Dynamics **URL**. 按一下 **儲存** 時才能使用。
-
-   ![](assets/five-1.png)
+   >請確定您的組織URL正確，因為提交後，我們無法回復後續的結構變更。 如果使用錯誤的組織URL，您必須取得新的Marketo訂閱。 如果您不知道URL, [在這裡了解如何找到](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
    >[!NOTE]
    >
-   >* 如果您的Marketo是在2020年10月之前布建，用戶端ID和密碼為選用欄位。 否則，它們是強制性的。 獲取此資訊取決於您使用的MSD版本。
-   >* Marketo中的使用者名稱必須符合CRM中同步使用者的使用者名稱。 格式可為 `user@domain.com` 或域\用戶。
-   >* 如果您不知道URL, [在這裡了解如何找到](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+   >在輸入新憑據之前，您可以 [在此處驗證](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
 
+1. 輸入 **使用者名稱**, **密碼**, **用戶端ID**, **用戶端密碼**，和Microsoft Dynamics **URL**. 按一下 **儲存** 時才能使用。
+
+   ![](assets/step-4-of-4-connect-the-marketo-solution-ropc-5.png)
+
+   >[!NOTE]
+   >
+   >Marketo中的使用者名稱必須符合CRM中同步使用者的使用者名稱。 格式可為 `user@domain.com` 或域\用戶。
 
 ## 選擇要同步的欄位 {#select-fields-to-sync}
 
