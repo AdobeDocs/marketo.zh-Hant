@@ -2,7 +2,7 @@
 description: 第4步（共4步） — 使用資源擁有者密碼控制連線連線Marketo解決方案 — Marketo檔案 — 產品檔案
 title: 第4步（共4步） — 將Marketo解決方案與資源擁有者密碼控制連線連線
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: f72f195e53d63e37ef2ed53980b9bffc59391430
+source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 1. 輸入 **使用者名稱**, **密碼**, **用戶端ID**, **用戶端密碼**，和Microsoft Dynamics **URL**. 按一下 **儲存** 時才能使用。
 
-   ![](assets/step-4-of-4-connect-the-marketo-solution-ropc-5.png)
+   ![](assets/step-4-of-4-connect-ropc-5.png)
 
    >[!NOTE]
    >
