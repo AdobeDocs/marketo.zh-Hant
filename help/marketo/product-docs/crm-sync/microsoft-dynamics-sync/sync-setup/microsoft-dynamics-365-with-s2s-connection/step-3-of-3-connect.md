@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 第3步（共3步） — 將Marketo解決方案與S2S連線連線 — Marketo檔案 — 產品檔案
 title: 第3步（共3步） — 使用S2S連線連接Marketo解決方案
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
+source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >**需要管理權限**
+
+>[!IMPORTANT]
+>
+>如果您從基本驗證升級為OAuth，您需要聯絡 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support) 以取得更新其他參數的協助。 啟用此功能將暫時停止同步，直到輸入新憑據並重新啟用同步為止。 如果您想要回復成舊的驗證模式，則可停用此功能（直到2022年4月）。
 
 >[!NOTE]
 >
