@@ -2,9 +2,9 @@
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: b700993d0fc9a7703e8e812ca3d6adee1e1e6d9b
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1028'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ ht-degree: 0%
 
    * Design Studio中的登錄頁面資產詳細資訊
    * 行銷活動中的登陸頁面資產詳細資料
-   * Design Studio中的電子郵件清單檢視（包括新的大量動作）
 
 * **新一代體驗切換開關的管理控制**:管理員可以選取哪些使用者類型可以存取切換開關，以在新一代體驗中檢視畫面。
 

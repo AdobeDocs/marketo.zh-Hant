@@ -1,23 +1,23 @@
 ---
 unique-page-id: 3571830
-description: 第3步（共3步） — 將Marketo解決方案與S2S連線連線 — Marketo檔案 — 產品檔案
-title: 第3步（共3步） — 使用S2S連線連接Marketo解決方案
+description: 第3步（共3步） — 將Marketo解決方案與伺服器連線 — Marketo檔案 — 產品檔案
+title: 第3步（共3步） — 將Marketo解決方案與伺服器連線
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
 
-# 第3步（共3步）:將Marketo解決方案與S2S連線連線 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
+# 第3步（共3步）:將Marketo解決方案與伺服器連線連線 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
 這是同步的最後一步。 快到了！
 
 >[!PREREQUISITES]
 >
->* [第1步（共3步）:安裝具S2S連線的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
->* [第2步（共3步）:使用S2S連線設定Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+>* [第1步（共3步）:安裝具有伺服器對伺服器連線的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>* [第2步（共3步）:設定Marketo解決方案，使用伺服器對伺服器連線](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 
 
 >[!NOTE]

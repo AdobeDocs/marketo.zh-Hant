@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '8250'
+source-wordcount: '8252'
 ht-degree: 0%
 
 ---
@@ -253,6 +253,7 @@ ht-degree: 0%
          + [僅建立API使用者角色](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [僅建立API使用者](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [建立、刪除、編輯和更改用戶角色](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
+         + [電子郵件驗證](product-docs/administration/users-and-roles/email-verification.md)
          + [啟用角色的高級清單導入權限](product-docs/administration/users-and-roles/enable-the-advanced-list-import-permission-on-a-role.md)
          + [匯出使用者和角色清單](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [管理Marketo使用者](product-docs/administration/users-and-roles/managing-marketo-users.md)

@@ -1,20 +1,20 @@
 ---
 unique-page-id: 3571827
-description: 第2步（共3步） — 使用S2S連線設定Marketo解決方案 — Marketo檔案 — 產品檔案
-title: 第2步（共3步） — 使用S2S連線設定Marketo解決方案
+description: 第2步（共3步） — 使用伺服器對伺服器連線設定Marketo解決方案 — Marketo檔案 — 產品檔案
+title: 第2步（共3步） — 使用伺服器對伺服器連線設定Marketo解決方案
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
 
-# 第2步（共3步）:在具有S2S連線的Dynamics中設定Marketo同步使用者{#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
+# 第2步（共3步）:使用伺服器對伺服器連線設定Marketo解決方案 {#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
 
 >[!PREREQUISITES]
 >
->[第1步（共3步）:安裝具S2S連線的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>[第1步（共3步）:安裝具有伺服器對伺服器連線的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
 
 ## 在Azure AD中建立客戶端應用程式 {#create-client-application-in-azure-ad}
 
@@ -124,4 +124,4 @@ Federated Azure AD到ADFS Onprem需要為特定應用程式建立家庭領域發
 
 >[!MORELIKETHIS]
 >
->[第3步（共3步）:將Marketo解決方案與S2S連線連線](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>[第3步（共3步）:將Marketo解決方案與伺服器連線連線](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)

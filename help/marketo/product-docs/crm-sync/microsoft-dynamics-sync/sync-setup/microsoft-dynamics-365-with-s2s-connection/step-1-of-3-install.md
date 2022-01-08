@@ -1,14 +1,15 @@
 ---
-description: 第1步（共3步） — 安裝具有S2S連線的Marketo解決方案 — Marketo檔案 — 產品檔案
-title: 第1步（共3步） — 安裝具有S2S連線的Marketo解決方案
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+description: 第1步（共3步） — 安裝具有伺服器對伺服器連線的Marketo解決方案 — Marketo檔案 — 產品檔案
+title: 第1步（共3步） — 安裝具有伺服器對伺服器連線的Marketo解決方案
+exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
-# 第1步（共3步）:安裝具S2S連線的Marketo解決方案 {#step-1-of-3-install-the-marketo-solution-s2s}
+# 第1步（共3步）:安裝具有伺服器對伺服器連線的Marketo解決方案 {#step-1-of-3-install-the-marketo-solution-s2s}
 
 您必須先在Dynamics中安裝Microsoft解決方案，才能同步Marketo Dynamics 365和Marketo。 **需要Dynamics管理員權限。**
 
