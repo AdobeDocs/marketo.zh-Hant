@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 921c3279b53bc18ac753b1e3f0672a70fe11abe7
 workflow-type: tm+mt
-source-wordcount: '8252'
+source-wordcount: '8255'
 ht-degree: 0%
 
 ---
@@ -42,49 +42,6 @@ ht-degree: 0%
       + [要查看的內容：核心技能](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [取得協助的方式](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 + 產品檔案 {#product-docs}
-   + 目標帳戶管理 {#target-account-management}
-      + 設定 {#setup}
-         + [Target帳戶管理概述](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
-         + [TAM快速入門](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
-         + [核發授權](product-docs/target-account-management/setup-tam/issue-a-license.md)
-         + [權限](product-docs/target-account-management/setup-tam/permissions.md)
-         + [帳戶分數](product-docs/target-account-management/setup-tam/account-score.md)
-         + [帳戶團隊設定](product-docs/target-account-management/setup-tam/account-team-setup.md)
-         + [為CRM發現建立自定義欄位](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
-         + [設定帳戶分析](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
-         + [Account Insight外掛程式概述](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
-         + [邀請使用者存取帳戶分析](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + 目標 {#target}
-         + 已命名帳戶 {#named-accounts}
-            + [命名帳戶概述](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
-            + [導入命名帳戶](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
-            + [將現有的指定帳戶新增至帳戶清單](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
-            + [建立指定帳戶](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
-            + [將人員新增至指定帳戶](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
-            + [Discover帳戶](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
-            + [導致帳戶匹配](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
-            + [在指定帳戶中進行篩選](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
-            + [刪除指定帳戶](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
-            + [TAM階層](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
-            + [建立階層](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
-         + [帳戶清單](product-docs/target-account-management/target/account-lists.md)
-         + [帳戶智慧清單](product-docs/target-account-management/target/account-smart-lists.md)
-         + [在LinkedIn上建立符合帳戶的對象](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
-      + 參與 {#engage}
-         + [帳戶篩選器](product-docs/target-account-management/engage/account-filters.md)
-         + [帳戶觸發器](product-docs/target-account-management/engage/account-triggers.md)
-      + 測量 {#measure}
-         + [TAM主儀表板](product-docs/target-account-management/measure/tam-main-dashboard.md)
-         + [TAM報表設定](product-docs/target-account-management/measure/tam-report-setup.md)
-         + [TAM銷售報告](product-docs/target-account-management/measure/tam-sales-report.md)
-         + [帳戶清單分析](product-docs/target-account-management/measure/account-list-insights.md)
-         + [RCA中的指定帳戶Dimension](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
-         + [指定帳戶分析](product-docs/target-account-management/measure/named-account-insights.md)
-         + [使用角色](product-docs/target-account-management/using-personas.md)
-      + 帳戶分析 {#account-profiling}
-         + [設定帳戶分析](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
-         + [帳戶分析排名和調整](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
-         + [新帳戶發現](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + 其他應用程式 {#additional-apps}
       + SEO {#seo}
          + 了解SEO {#understanding-seo}
@@ -235,6 +192,7 @@ ht-degree: 0%
          + [啟用或禁用財寶箱功能](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [為您的帳戶啟用個人化URL（管理）](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
          + [如何阻止垃圾郵件表單提交](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
+         + [登陸頁面標題](product-docs/administration/settings/landing-page-headers.md)
          + [根據IP限制Marketo登入](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [選擇您的語言、地區和時區](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [設定後援頁面](product-docs/administration/settings/set-a-fallback-page.md)
@@ -1665,6 +1623,49 @@ ht-degree: 0%
             + 現場組織者 {#field-organizers}
                + [使用現場組織者](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
                + [使用「欄位管理器」建立自訂欄位群組](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
+   + 目標帳戶管理 {#target-account-management}
+      + 設定 {#setup}
+         + [Target帳戶管理概述](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
+         + [TAM快速入門](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
+         + [核發授權](product-docs/target-account-management/setup-tam/issue-a-license.md)
+         + [權限](product-docs/target-account-management/setup-tam/permissions.md)
+         + [帳戶分數](product-docs/target-account-management/setup-tam/account-score.md)
+         + [帳戶團隊設定](product-docs/target-account-management/setup-tam/account-team-setup.md)
+         + [為CRM發現建立自定義欄位](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
+         + [設定帳戶分析](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+         + [Account Insight外掛程式概述](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
+         + [邀請使用者存取帳戶分析](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
+      + 目標 {#target}
+         + 已命名帳戶 {#named-accounts}
+            + [命名帳戶概述](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
+            + [導入命名帳戶](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
+            + [將現有的指定帳戶新增至帳戶清單](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+            + [建立指定帳戶](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+            + [將人員新增至指定帳戶](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+            + [Discover帳戶](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+            + [導致帳戶匹配](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+            + [在指定帳戶中進行篩選](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
+            + [刪除指定帳戶](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
+            + [TAM階層](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
+            + [建立階層](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
+         + [帳戶清單](product-docs/target-account-management/target/account-lists.md)
+         + [帳戶智慧清單](product-docs/target-account-management/target/account-smart-lists.md)
+         + [在LinkedIn上建立符合帳戶的對象](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
+      + 參與 {#engage}
+         + [帳戶篩選器](product-docs/target-account-management/engage/account-filters.md)
+         + [帳戶觸發器](product-docs/target-account-management/engage/account-triggers.md)
+      + 測量 {#measure}
+         + [TAM主儀表板](product-docs/target-account-management/measure/tam-main-dashboard.md)
+         + [TAM報表設定](product-docs/target-account-management/measure/tam-report-setup.md)
+         + [TAM銷售報告](product-docs/target-account-management/measure/tam-sales-report.md)
+         + [帳戶清單分析](product-docs/target-account-management/measure/account-list-insights.md)
+         + [RCA中的指定帳戶Dimension](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
+         + [指定帳戶分析](product-docs/target-account-management/measure/named-account-insights.md)
+         + [使用角色](product-docs/target-account-management/using-personas.md)
+      + 帳戶分析 {#account-profiling}
+         + [設定帳戶分析](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+         + [帳戶分析排名和調整](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+         + [新帳戶發現](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + 網頁個人化 {#web-personalization}
       + 帳戶型網路行銷 {#account-based-web-marketing}
          + [與TAM的以帳戶為基礎的Web行銷](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
