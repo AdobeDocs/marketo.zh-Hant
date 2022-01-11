@@ -2,9 +2,9 @@
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,6 @@ ht-degree: 0%
 
    * Design Studio中的登錄頁面資產詳細資訊
    * 行銷活動中的登陸頁面資產詳細資料
-
-* **新一代體驗切換開關的管理控制**:管理員可以選取哪些使用者類型可以存取切換開關，以在新一代體驗中檢視畫面。
 
 ## Microsoft Dynamics整合 {#microsoft-dynamics-integration}
 

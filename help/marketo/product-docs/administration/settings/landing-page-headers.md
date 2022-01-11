@@ -3,7 +3,8 @@ description: 登陸頁面標題 — Marketo檔案 — 產品檔案
 title: 登陸頁面標題
 hide: true
 hidefromtoc: true
-source-git-commit: 921c3279b53bc18ac753b1e3f0672a70fe11abe7
+exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
+source-git-commit: 7950fb6ef4a0f653b3125ec381c652056bd47327
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%

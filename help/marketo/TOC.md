@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 921c3279b53bc18ac753b1e3f0672a70fe11abe7
+source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
 workflow-type: tm+mt
-source-wordcount: '8255'
+source-wordcount: '8259'
 ht-degree: 0%
 
 ---
@@ -191,6 +191,7 @@ ht-degree: 0%
          + [編輯訂閱設定](product-docs/administration/settings/edit-subscription-settings.md)
          + [啟用或禁用財寶箱功能](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [為您的帳戶啟用個人化URL（管理）](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+         + [全域表單驗證規則](product-docs/administration/settings/global-form-validation-rules.md)
          + [如何阻止垃圾郵件表單提交](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [登陸頁面標題](product-docs/administration/settings/landing-page-headers.md)
          + [根據IP限制Marketo登入](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
