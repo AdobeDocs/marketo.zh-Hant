@@ -4,16 +4,22 @@ title: 配置Salesforce活動詳細資訊定制
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '589'
 ht-degree: 0%
 
 ---
 
 # 配置Salesforce活動詳細資訊定制 {#configure-salesforce-activity-detail-customization}
 
-「活動詳細資訊定制」允許管理員配置將在將Sales Connect活動/提醒任務同步到Salesforce時登錄到「Salesforce任務 — 主題欄位」的資訊。
+>[!PREREQUISITES]
+>
+>* Salesforce與Marketo Sales Connect [必須已連接](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* 透過API記錄電子郵件活動 [必須啟用](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+
+
+「活動詳細資訊定制」允許管理員配置當將Sales Connect活動/提醒任務同步到Salesforce時，將登錄到「Salesforce任務 — 主題」欄位的資訊。
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
