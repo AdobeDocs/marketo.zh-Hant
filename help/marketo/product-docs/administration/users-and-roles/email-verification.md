@@ -4,7 +4,7 @@ title: 電子郵件驗證
 hide: true
 hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: c6eb6c099104bf0dccba36a7cc8a85dc03bdc9d3
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -34,4 +34,3 @@ AdobeMarketo Engage訂閱僅需要所有非API使用者驗證其電子郵件地�
 ![](assets/email-verification-3.png)
 
 要驗證未驗證的用戶，只需選擇其記錄並按一下 **驗證電子郵件** 按鈕。
-

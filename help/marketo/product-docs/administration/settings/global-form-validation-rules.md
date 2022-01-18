@@ -4,9 +4,9 @@ title: 全域表單驗證規則
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -33,15 +33,15 @@ ht-degree: 0%
 
 1. 連按兩下您要授予權限的角色。
 
-   PICC
+   ![](assets/global-form-validation-rules-4.png)
 
 1. 按一下 **+** 登入「存取管理員」旁。
 
-   PICC
+   ![](assets/global-form-validation-rules-5.png)
 
 1. 向下捲動並選取 **存取表單驗證規則** 按一下 **儲存**.
 
-   PICC
+   ![](assets/global-form-validation-rules-6.png)
 
 ## 建立新的表單驗證規則 {#create-new-form-validation-rule}
 

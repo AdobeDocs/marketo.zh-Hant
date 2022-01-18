@@ -3,9 +3,9 @@ unique-page-id: 37357043
 description: 功能概述 — Marketo檔案 — 產品檔案
 title: 功能概述
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
-source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '195'
 ht-degree: 2%
 
 ---
@@ -64,7 +64,15 @@ ht-degree: 2%
 * 新增至Marketo Campaign
 * 傳送Marketo電子郵件
 
-## Marketo最佳下注頁面  {#marketo-best-bets-page}
+## Marketo帳戶配置中的「銷售分析」面板 {#marketo-sales-insight-panel-in-account-layout}
+
+* 星與火焰
+* 有趣的時刻
+* 網路活動
+* 分數
+* 電子郵件（開啟並按一下）
+
+## Marketo最佳下注頁面 {#marketo-best-bets-page}
 
 * 優先順序（星光與火焰）
 * 名稱（超連結至銷售機會/聯繫人頁面）
