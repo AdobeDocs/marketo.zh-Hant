@@ -1,146 +1,136 @@
 ---
-description: 推播原地 — Marketo檔案 — 產品檔案
-title: 推送原地複製
+description: 推送克隆 — Marketo文檔 — 產品文檔
+title: 推送克隆
 hide: true
 hidefromtoc: true
-source-git-commit: c6eb6c099104bf0dccba36a7cc8a85dc03bdc9d3
+source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 推送原地複製 {#push-clone}
+# 推送克隆 {#push-clone}
 
-此功能可讓您以靜態清單的形式，將位於Adobe Experience Platform中的區段推送至Marketo。
+此功能允許您以靜態清單的形式將位於Adobe Experience Platform的段推送到Marketo。
 
 >[!PREREQUISITES]
 >
->* [建立API使用者](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) 在Marketo。
->* 然後，前往 **管理** > **Launchpoint**. 查找剛建立的角色的名稱，然後按一下 **檢視詳細資料**. 複製資訊並儲存於 **用戶端ID** 和 **用戶端密碼**，因為您會需要它才能使用此功能。
+>* [建立API用戶](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) 在Marketo。
+>* 然後，轉到 **管理** > **朗奇波因特**。 查找您剛建立的角色的名稱，然後按一下 **查看詳細資訊**。 複製並保存資訊 **客戶端ID** 和 **客戶端密碼**，因為您需要它。
 
 
-1. 登入 [Adobe Experience Platform](https://experience.adobe.com/).
+1. 登錄到 [Adobe Experience Platform](https://experience.adobe.com/)。
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-1.png)
+   ![](assets/push-an-adobe-experience-platform-segment-1.png)
 
-1. 按一下網格表徵圖並選擇 **Experience Platform**.
+1. 按一下網格表徵圖並選擇 **Experience Platform**。
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-2.png)
+   ![](assets/push-an-adobe-experience-platform-segment-2.png)
 
-1. 在左側導覽列中，按一下 **目的地**.
+1. 在左導航中，按一下 **目標**。
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-3.png)
+   ![](assets/push-an-adobe-experience-platform-segment-3.png)
 
-1. 按一下 **目錄**.
+1. 按一下 **目錄**。
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-4.png)
+   ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. 查找Marketo Engage表徵圖，然後按一下 **啟用區段**.
+1. 查找Marketo Engage磁貼，然後按一下 **激活段**。
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-5.png)
+   ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
-1. 按一下 **配置新目標**.
+1. 按一下 **配置新目標**。
+
+   ![](assets/push-an-adobe-experience-platform-segment-6.png)
 
 
-1. 在「帳戶類型」下，選擇「現有帳戶」或 **新帳戶** 選項按鈕(在此示例中，我們選擇 **新帳戶**)。 輸入您的Marketo憑證。
+1. 在「帳戶類型」下，選擇「現有帳戶」或「新建帳戶」單選按鈕(在本例中，我們選擇 **現有帳戶**)。 按一下「選擇帳戶」表徵圖。
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-6.png)
+   ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
-   >[!NOTE]
-   >
-   >前往 **管理** > **蒙奇金** (登入後，它也會是Marketo URL的一部分)。 您應遵循本文頂端的必要條件，擁有的用戶端ID/密碼。
+1. 選擇目標帳戶並按一下 **選擇**。
 
-1. 在「人員建立」下，選擇「僅匹配現有人員」或「匹配現有人員並在Marketo中建立遺漏的人員」。 在這個選項中，我們選擇了後者。
+   ![](assets/push-an-adobe-experience-platform-segment-8.png)
+
+接下來，你必須選擇是僅匹配現有的Marketo人，還是匹配現有的Marketo人，並在Marketo創造失蹤的人。 下面是概述如何執行每個操作的部分。
+
+## 匹配Marketo現有人創造Marketo失蹤人口 {#match-existing-marketo-people-create-missing-people}
+
+執行上面步驟1-8後……
+
+1. 輸入目標 **名稱** 和可選說明。 按一下「人員建立」(Person Creation)下拉框並選擇 **匹配Marketo現有人創造Marketo失蹤人口**。
+
+   ![](assets/push-an-adobe-experience-platform-segment-9.png)
+
+1. 此部分是可選的。 按一下 **建立** 跳過。
+
+   ![](assets/push-an-adobe-experience-platform-segment-10.png)
+
+1. 選擇您建立的目標，然後按一下 **下一個**。
+
+   ![](assets/push-an-adobe-experience-platform-segment-11.png)
+
+1. 選擇要發送到Marketo的段，然後按一下 **下一個**。
+
+   ![](assets/push-an-adobe-experience-platform-segment-12.png)
+
+1. 按一下 **添加新映射**。
+
+   ![](assets/push-an-adobe-experience-platform-segment-13.png)
+
+1. 按一下映射表徵圖。
+
+   ![](assets/push-an-adobe-experience-platform-segment-14.png)
+
+1. 通過選擇映射名 **名字** 按一下 **選擇**。
+
+   ![](assets/push-an-adobe-experience-platform-segment-15.png)
+
+1. 通過按一下 **添加新映射** 重複步驟7兩次，選擇lastName，然後選擇companyName。
+
+   ![](assets/push-an-adobe-experience-platform-segment-16.png)
+
+1. 現在是繪製電子郵件地址的時候了。 按一下 **添加新映射** 的雙曲餘切值。
+
+   ![](assets/push-an-adobe-experience-platform-segment-17.png)
+
+1. 按一下映射表徵圖。
+
+   ![](assets/push-an-adobe-experience-platform-segment-18.png)
+
+1. 按一下「選擇標識名稱空間」單選按鈕，選擇  **電子郵件**，然後按一下 **選擇**。
+
+   ![](assets/push-an-adobe-experience-platform-segment-19.png)
+
+1. 現在是時候選擇源欄位了。 對於電子郵件，按一下游標表徵圖。
+
+   ![](assets/push-an-adobe-experience-platform-segment-20.png)
+
+1. 按一下「選擇標識名稱空間」單選按鈕，查找並選擇 **電子郵件**，然後按一下 **選擇**。
+
+   ![](assets/push-an-adobe-experience-platform-segment-21.png)
+
+莫里
+
+## 僅匹配現有Marketo人 {#match-existing-marketo-people-only}
+
+>[!NOTE]
+>
+>身份被用來在Marketo尋找火柴。 如果找到匹配項，則會將該人員添加到靜態清單中。 如果找不到匹配項，則會刪除這些人(即，不在Marketo建立)。
+
+1. _在Marketo_、建立靜態清單，或查找並選擇已建立的清單。 從URL的末尾複製映射ID。
 
 PICC
 
-1. 「已連線」應會顯示在您的憑證下方。 按一下 **下一個** 在右上角。
+>[!NOTE]
+>
+>要獲得最佳結果，請確保您在Marketo引用的清單為空。
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-7.png)
+1. 回到Adobe Experience Platform，輸入您剛複製的ID。 選擇您的開始日期。 人員將連續同步，直到選定的結束日期。 對於不確定的同步，將結束日期留空。 按一下 **下一個** 完成。
 
-1. 輸入 **名稱** 和 _可選_ 說明。 按一下 **建立目的地**.
+PICC
 
-   >[!NOTE]
-   >
-   >從「行銷動作」中選擇某個項目也是選用。 Marketo目前不會運用這些資訊，但可能很快就會。
+1. 確認更改並按一下 **完成**。
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-8.png)
-
-1. 按一下 **下一個**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-9.png)
-
-1. 選擇您想要的區段，然後按一下 **下一個**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-10.png)
-
-   >[!NOTE]
-   >
-   >若您在此處選擇多個區段，您必須在「區段排程」索引標籤中將每個區段對應至指定的靜態清單。
-
-1. 按一下 **新增對應**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-11.png)
-
-1. 按一下游標表徵圖。
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-12.png)
-
-1. 選擇 **選擇屬性** 或 **選擇身份命名空間** 選項按鈕（在此示例中，我們選擇「屬性」）。
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-13.png)
-
-   >[!NOTE]
-   >
-   >如果您選擇 **選擇身份命名空間**，在進行選取後，跳至步驟15。
-
-1. 選擇包含識別使用者之電子郵件地址的相關欄位。 按一下 **選擇** 時才能使用。
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-14.png)
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-15.png)
-
-   >[!NOTE]
-   >
-   >我們選取的範例看起來可能與您選取的範例大不相同。
-
-1. 按一下對應圖示。
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-16.png)
-
-1. 選擇 **選擇身份命名空間**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-17.png)
-
-   >[!IMPORTANT]
-   >
-   >對應屬性為選用。 將電子郵件和/或ECID與 **身分命名空間** 標籤是確保人員在Marketo中相符的最重要動作。 對應電子郵件將確保最高的匹配率。
-
-1. 在ECID或電子郵件之間選擇。 在這個例子中，我們 **電子郵件**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-18.png)
-
-1. 按一下 **下一個**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-19.png)
-
-   >[!NOTE]
-   >
-   >身分識別可用於在Marketo中尋找相符項目。 如果找到相符項目，則會將人員新增至靜態清單。 如果找不到相符項目，系統會捨棄這些人員(亦即，不會在Marketo中建立)。
-
-1. _在Marketo_、建立靜態清單，或尋找並選取您已建立的清單。 從URL結尾複製對應ID。
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-20.png)
-
-   >[!NOTE]
-   >
-   >為獲得最佳結果，請確定您在Marketo中參考的清單為空白。
-
-1. 回到Adobe Experience Platform，輸入您剛複製的ID。 選擇您的開始日期。 人員會持續同步，直到選擇的結束日期為止。 若為無限同步，請將結束日期留空。 按一下 **下一個** 時才能使用。
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-21.png)
-
-1. 確認您的變更，然後按一下 **完成**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-22.png)
+PICC
