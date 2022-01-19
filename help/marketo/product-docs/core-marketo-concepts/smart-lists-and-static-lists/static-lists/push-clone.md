@@ -3,9 +3,9 @@ description: 推送克隆 — Marketo文檔 — 產品文檔
 title: 推送克隆
 hide: true
 hidefromtoc: true
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 0%
 >
 >* [建立API用戶](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) 在Marketo。
 >* 然後，轉到 **管理** > **朗奇波因特**。 查找您剛建立的角色的名稱，然後按一下 **查看詳細資訊**。 複製並保存資訊 **客戶端ID** 和 **客戶端密碼**，因為您需要它。
+>* 在Marketo，建立靜態清單，或查找並選擇已建立的清單。 你需要它的身份證。
 
 
 1. 登錄到 [Adobe Experience Platform](https://experience.adobe.com/)。
@@ -53,15 +54,13 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-接下來，你必須選擇是僅匹配現有的Marketo人，還是匹配現有的Marketo人，並在Marketo創造失蹤的人。 下面是概述如何執行每個操作的部分。
-
-## 匹配Marketo現有人創造Marketo失蹤人口 {#match-existing-marketo-people-create-missing-people}
-
-執行上面步驟1-8後……
-
-1. 輸入目標 **名稱** 和可選說明。 按一下「人員建立」(Person Creation)下拉框並選擇 **匹配Marketo現有人創造Marketo失蹤人口**。
+1. 輸入目標 **名稱** 和可選說明。 按一下「人員建立」下拉框並選擇「匹配現有Marketo人員並建立Marketo中的失蹤人員」 _或_ 「只匹配現有Marketo人。」 在這個例子中，我們選擇前者。
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
+
+   >[!NOTE]
+   >
+   >如果選擇「僅匹配現有Marketo人員」，則只需映射電子郵件和/或ECID，因此您可以跳過步驟13-16。
 
 1. 此部分是可選的。 按一下 **建立** 跳過。
 
@@ -87,7 +86,7 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
 
-1. 通過按一下 **添加新映射** 重複步驟7兩次，選擇lastName，然後選擇companyName。
+1. 按一下以映射姓氏和公司名稱 **添加新映射** 重複步驟15兩次，選擇 **姓氏** 然後 **公司名稱**。
 
    ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
@@ -111,26 +110,34 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-21.png)
 
-莫里
+1. 要選擇「公司名稱」源欄位，請按一下其行中的游標表徵圖。
 
-## 僅匹配現有Marketo人 {#match-existing-marketo-people-only}
+   ![](assets/push-an-adobe-experience-platform-segment-22.png)
 
->[!NOTE]
->
->身份被用來在Marketo尋找火柴。 如果找到匹配項，則會將該人員添加到靜態清單中。 如果找不到匹配項，則會刪除這些人(即，不在Marketo建立)。
+1. 選中「選擇屬性」單選按鈕。 搜索「公司」並選擇 **公司名稱**，然後按一下 **選擇**。
 
-1. _在Marketo_、建立靜態清單，或查找並選擇已建立的清單。 從URL的末尾複製映射ID。
+   ![](assets/push-an-adobe-experience-platform-segment-23.png)
 
-PICC
+1. 通過按一下每個名稱的游標表徵圖並重複步驟23，選擇 **姓氏** 然後 **名字**。
 
->[!NOTE]
->
->要獲得最佳結果，請確保您在Marketo引用的清單為空。
+   ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
-1. 回到Adobe Experience Platform，輸入您剛複製的ID。 選擇您的開始日期。 人員將連續同步，直到選定的結束日期。 對於不確定的同步，將結束日期留空。 按一下 **下一個** 完成。
+1. 按一下 **下一個**。
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. 確認更改並按一下 **完成**。
+1. 你現在需要你的名單ID。 按一下瀏覽器中開啟Marketo靜態清單的頁籤（或開啟新頁籤並選擇所需的靜態清單）。
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+1. 突出顯示並複製URL末尾的清單ID。
+
+   ![](assets/push-an-adobe-experience-platform-segment-27.png)
+
+1. 貼上剛複製的ID（映射ID），然後按一下 **下一個**。
+
+   ![](assets/push-an-adobe-experience-platform-segment-28.png)
+
+1. 按一下 **完成**。
+
+   ![](assets/push-an-adobe-experience-platform-segment-29.png)
