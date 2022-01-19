@@ -3,9 +3,9 @@ description: 推送克隆 — Marketo文檔 — 產品文檔
 title: 推送克隆
 hide: true
 hidefromtoc: true
-source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
+source-git-commit: 58b9589e5364584c3b2f41dc1a32496a18574429
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '567'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,10 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
+   >[!NOTE]
+   >
+   >如果您選擇「新帳戶」，則可以通過轉到 **管理** > **蒙奇金** (它也是登錄後的MarketoURL的一部分)。 客戶端ID/密碼您應從本文頂部的先決條件中獲得。
+
 1. 選擇目標帳戶並按一下 **選擇**。
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
@@ -73,6 +77,10 @@ ht-degree: 0%
 1. 選擇要發送到Marketo的段，然後按一下 **下一個**。
 
    ![](assets/push-an-adobe-experience-platform-segment-12.png)
+
+   >[!NOTE]
+   >
+   >如果在此處選擇多個段，則必須將每個段映射到「段調度」頁籤中的指定靜態清單。
 
 1. 按一下 **添加新映射**。
 
@@ -102,6 +110,10 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
+   >[!IMPORTANT]
+   >
+   >從映射 **標識命名空間** tab是確保在Marketo相配的最重要的事情。 映射電子郵件將確保最高匹配率。
+
 1. 現在是時候選擇源欄位了。 對於電子郵件，按一下游標表徵圖。
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
@@ -129,6 +141,10 @@ ht-degree: 0%
 1. 你現在需要你的名單ID。 按一下瀏覽器中開啟Marketo靜態清單的頁籤（或開啟新頁籤並選擇所需的靜態清單）。
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+   >[!NOTE]
+   >
+   >為獲得最佳結果，請使用空Marketo Engage清單。
 
 1. 突出顯示並複製URL末尾的清單ID。
 
