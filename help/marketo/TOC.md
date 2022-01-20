@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: 655728b5c60f0215c973b87d581fc0c45eb25c88
+source-git-commit: 879500ff3ab464ab56b4cbd779a3021706055790
 workflow-type: tm+mt
-source-wordcount: '8261'
+source-wordcount: '8255'
 ht-degree: 0%
 
 ---
@@ -91,7 +91,6 @@ ht-degree: 0%
          + [最低系統要求](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [蒙奇金](product-docs/administration/setup-administration/munchkin.md)
          + [支援的瀏覽器](product-docs/administration/setup-administration/supported-browsers.md)
-         + [全局表單驗證規則](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + 其他整合 {#additional-integrations}
          + [將Adobe Connect添加為LaunchPoint服務](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
          + [將GoogleAdWords添加為Manager帳戶的Launchpoint服務](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
@@ -361,7 +360,6 @@ ht-degree: 0%
             + [建立靜態清單](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [將清單發送到Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
             + [將Adobe Experience Platform段推入Marketo靜態清單](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)
-            + [推送克隆](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-clone.md)
             + [瞭解靜態清單](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + 程式 {#programs}
          + 建立程式 {#creating-programs}
