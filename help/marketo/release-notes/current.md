@@ -1,93 +1,93 @@
 ---
-description: 最新發行說明 — Marketo檔案 — 產品檔案
-title: 最新發行說明
+description: 當前發行說明 — Marketo文檔 — 產品文檔
+title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '1039'
+source-wordcount: '1055'
 ht-degree: 0%
 
 ---
 
 # 發行說明：2022年1月 {#release-notes-jan-22}
 
-』22年1月發行版本包含下列功能。 查看您的AdobeMarketo Engage版，了解功能是否可用。
+2022年1月的發行版包含以下功能。 檢查您的AdobeMarketo Engage版以瞭解功能可用性。
 
 >[!AVAILABILITY]
 >
->以星號表示的特徵(![星星](assets/yellow-star.png))是付費附加元件。 請連絡您的Marketo Engage代表以了解更多資訊。
+>用星表示的特徵(![星](assets/yellow-star.png))是付費附加項。 請聯繫您的Marketo Engage代表以瞭解詳細資訊。
 
-**_每季發行_**
+**_季度發佈_**
 
-下列功能將於 **2022年1月21日**.
+以下功能將開始在 **2022年1月21日**，並在下週分階段部署每個功能（除非另有指定）。
 
 ## 新一代體驗 {#next-generation-experience}
 
-* **新一代體驗中的更新畫面**:我們在新一代體驗中提供更多經過更新的畫面，提供可透過切換開關存取的更新設計和可用性增強功能：
+* **新一代體驗中的更新螢幕**:我們將提供新一代體驗中的更多刷新螢幕，提供可通過切換開關進行的更新設計和可用性增強：
 
-   * Design Studio中的登錄頁面資產詳細資訊
-   * 行銷活動中的登陸頁面資產詳細資料
+   * Design Studio中的登錄頁資產詳細資訊
+   * 市場營銷活動中的登錄頁資產詳細資訊
 
-## Microsoft Dynamics整合 {#microsoft-dynamics-integration}
+## Microsoft動力學整合 {#microsoft-dynamics-integration}
 
-* **同步多選選項集欄位類型通常可用**:從Microsoft Dynamics同步多選選項集欄位類型，以在智慧清單和智慧促銷活動中運用，以鎖定更精細的對象。 範例包括：感興趣的主題/產品、偏好的通訊模式等。 此新同步功能適用於Microsoft Dynamics 9.X版（包括Dynamics 365 Online）。
+* **多選選項集欄位類型的同步通常可用**:從MicrosoftDynamics同步多選選項集欄位類型，以便在智慧清單和智慧市場活動中利用，以針對更細粒度的受眾。 示例包括：主題/產品、首選的通信模式等。 此新同步適用於MicrosoftDynamics 9.X版（包括Dynamics 365線上版）。
 
-* **Microsoft Dynamics 365 Online的伺服器對伺服器驗證**:為了提高安全性，我們現在將支援伺服器對伺服器(S2S)，作為Azure Active Directory上Marketo Engage同步用戶的額外身份驗證模式，以非互動式訪問Microsoft Dynamics 365 Online。 這可讓您採用多重驗證，因為所有驗證和登入都將以OAuth為基礎（僅限用戶端ID和用戶端密碼）。
+* **用於MicrosoftDynamics 365線上的伺服器到伺服器身份驗證**:為了提高安全性，我們現在將支援伺服器到伺服器(S2S)，作為Azure Active Directory上Marketo Engage同步用戶的附加身份驗證模式，以便對MicrosoftDynamics 365 Online進行非互動式訪問。 這允許您使用多重身份驗證，因為所有身份驗證和登錄都將基於OAuth（僅客戶端ID和客戶端機密）。
 
 >[!NOTE]
 >
->S2S模式以應用程式用戶（而非授權用戶）為基礎，這樣可節省額外許可證的使用。
+>S2S模式基於應用程式用戶而不是授權用戶，這樣可節省額外許可證的使用。
 
 ## 管理 {#administration}
 
-* **表單驗證規則**:維護資料庫的運行狀況，並能夠阻止有問題或不需要的電子郵件域提交Marketo Engage表。 「全域表單驗證規則」面板可讓管理員定義封鎖清單，或啟用預先定義的自由消費者網域清單，以封鎖表單。
+* **表單驗證規則**:通過阻止有問題或不希望的電子郵件域提交Marketo Engage表，維護資料庫的運行狀況。 「全局表單驗證規則」面板允許管理員定義阻止清單或啟用預定義的自由使用者域清單以阻止表單。
 
-* **登錄頁面標題安全性**:管理員可以在其登陸頁面網域上管理嚴格的傳輸安全性和X-Frame選項標題，以強制執行強大的安全性要求。
+* **登錄頁標題安全性**:管理員可以在其登錄頁域上管理嚴格傳輸安全性和X-Frame選項標題，以強制執行強大的安全要求。
 
-**_整季推出_**
+**_在整個季度發佈_**
 
-下列功能屬於非季度週期，將在未來數月內發行。
+以下功能處於非季度週期，將在未來幾個月中發佈。
 
-## AEPMarketo Engage目的地連接器 — 建立新銷售機會 {#aep-marketo-engage-destination-connector}
+## AEPMarketo Engage目標連接器 — 建立新銷售線索 {#aep-marketo-engage-destination-connector}
 
-同時使用Adobe Experience Platform(AEP)的Marketo Engage可透過AEP目的地連接器，將新人員記錄從AEP推送至Marketo Engage，進而將其資料庫發揮到最大。 將受眾區段從AEP傳送至Marketo Engage時，區段內尚未存在於Marketo Engage資料庫中的人員會自動新增至區段。
+Marketo Engage也使用Adobe Experience Platform(AEP)的客戶可以通過AEP目標連接器將新人記錄從AEP推送到Marketo Engage中，從而最大限度地提高其資料庫的利用率。 在將受眾段從AEP發送到Marketo Engage時，該段中不在Marketo Engage資料庫中的人員將自動添加到該段中。
 
-## Sales Insight {#sales-insight}
-
-![（星號）](assets/yellow-star.png)
-
-**Salesforce CRM的Sales Insight**
-
-* **新類型欄以獲得最佳結果**:賣家將能透過標示為「類型」的新欄，更快速地獲得深入分析，以區分「最佳下注」頁面上的銷售機會和聯絡人。
-
-* **Salesforce平台API更新**:為因應Salesforce淘汰的Salesforce Platform API 21.0版到30.0版，Sales Insight套件已使用最新API更新。
-
-* **更新品牌**:所有Sales Insight頁面都會更新，以與Adobe品牌一致。
-
-**Microsoft Dynamics的Sales Insight**
-
-* **更新帳戶配置**:銷售者可以取得最熱門活動的集體檢視，例如：帳戶內所有連絡人的電子郵件活動、網路活動、有趣時刻和分數變更。
-
-## Sales Connect {#sales-connect}
+## 銷售洞察 {#sales-insight}
 
 ![（星號）](assets/yellow-star.png)
 
-* **呼叫結果和理由**:使用全新、可完全自定義的呼叫結果和呼叫原因選項，更詳細地了解和跟蹤銷售團隊的出站工作。 除了這些新欄位，我們還推出新的管理，以在銷售商進行呼叫時強制執行呼叫原因和結果選擇，啟用或停用呼叫原因和結果的新管理，以及新的「呼叫原因」和「呼叫結果Salesforce活動」自訂欄位，用於將資料記錄到Salesforce。 [按一下這裡](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812) 了解更多。
+**Sales Insight for Salesforce CRM**
 
-* **Salesforce活動詳細資訊定制**:當銷售活動從Sales Connect記錄到Salesforce時，通過自定義添加到Salesforce任務主題欄位的資訊，在Salesforce中捕獲更多銷售活動和任務資料。 [按一下這裡](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819) 了解更多。
+* **用於最佳匹配的新類型列**:賣家將通過標有「類型」的新專欄獲得更快的洞察力，以在「最佳賭注」頁面上區分銷售線索和聯繫人。
+
+* **Salesforce平台API更新**:為響應Salesforce退出Salesforce平台API版本21.0到30.0,Sales Insight包已使用最新API進行更新。
+
+* **更新的品牌**:正在更新所有Sales Insight頁面，以與Adobe品牌相協調。
+
+**Microsoft動力的銷售洞察**
+
+* **已更新的帳戶佈局**:賣家可以集體瞭解頂級活動，例如：電子郵件活動、Web活動、有趣時刻以及帳戶內所有聯繫人的評分更改。
+
+## 銷售連接 {#sales-connect}
+
+![（星號）](assets/yellow-star.png)
+
+* **呼叫結果和原因**:通過全新、完全可定製的呼叫結果和呼叫原因選項，更詳細地瞭解和跟蹤銷售團隊的出站工作。 除了這些新欄位外，我們還引入新的管理機制，在銷售商進行呼叫時強制執行呼叫原因和結果選擇，啟用或禁用呼叫原因和結果的新治理機制，以及新的呼叫原因和呼叫結果Salesforce活動自定義欄位，用於將資料記錄到Salesforce。 [按一下這裡](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812) 來瞭解更多資訊。
+
+* **Salesforce活動詳細資訊自定義**:通過自定義當銷售活動從Sales Connect記錄到Salesforce時將哪些資訊添加到Salesforce任務主題欄位，在Salesforce中捕獲更多銷售活動和任務資料。 [按一下這裡](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819) 來瞭解更多資訊。
 
 ## 公告 {#announcements}
 
-* **Marketo Sky日落設定**:3月11日起，我們將不再提供Marketo Sky，因為我們將資源集中於提供新一代的使用者體驗。 為了持續存取目前Marketo Sky所獨有的功能，我們將於3月將資產過期和智慧型促銷活動優先順序覆寫納入主流體驗。
+* **Marketo Sky日落**:3月11日，Marketo Sky將不再可用，因為我們將資源集中在提供下一代用戶體驗上。 為了保持對目前Marketo Sky獨有功能的訪問，我們將在3月份將資產到期和智慧市場活動優先順序改寫納入主流體驗。
 
-* **不再使用表單端點**:不支援的程式化表單POST到leadCapture/save2端點將被Marketo Engage表單拒絕。 [按一下這裡](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) 了解更多。
+* **表單終結點棄用**:不支援的寫程式表單POST到leadCapture/save2終結點，將被Marketo Engage表單拒絕。 [按一下這裡](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) 來瞭解更多資訊。
 
-* **電子郵件驗證**:自此版本後，Marketo Engage訂閱將開始有「僅限非API」使用者驗證電子郵件地址。 通過電子郵件驗證啟用訂閱時，已驗證的目錄服務用戶將自動驗證其電子郵件。 使用「在邀請使用者對話方塊中登入」功能的使用者，或訂閱者若訂閱中有與多位使用者相關聯的單一電子郵件，將會延遲電子郵件驗證，並與3月終止此功能的時間一致。
+* **電子郵件驗證**:從此版本後開始，Marketo Engage訂閱將開始讓「非API」用戶驗證電子郵件地址。 當使用「電子郵件驗證」啟用訂閱時，經目錄服務驗證的用戶將自動驗證其電子郵件。 使用「登錄邀請用戶對話框」功能的用戶或訂閱中具有與訂閱內的多個用戶關聯的單個電子郵件的用戶的電子郵件驗證將延遲，並與該功能在3月棄用的時間一致。
 
-* **在「邀請用戶」對話框中登錄**:3月時，將不再使用現有的「在邀請使用者對話方塊中登入」選用功能。 「在邀請使用者對話方塊中登入」功能遭到通用ID功能覆寫，這是即將推出的Identity Management系統整合所需的功能，已於2021年8月在所有訂閱上啟用。 經過淘汰後，Marketo Engage只會強制一個使用者與訂閱內的每個電子郵件地址相關聯。
+* **在「邀請用戶」對話框中登錄**:3月，現有的可選功能「登錄邀請用戶對話框」將被棄用。 「登錄邀請用戶對話」功能被通用ID功能覆蓋，該功能是即將Adobe的Identity Management系統整合所必需的，於2021年8月在所有訂閱上啟用。 由於出現棄用，Marketo Engage將只強制一個用戶在訂閱內按電子郵件地址關聯。
 
-**Marketo Engage網域 — Sales Insight設定**:對於未布建SSL憑證和https://的Marketo Engage網域，呼叫會失敗並出現SSL交握錯誤。 因此，這些領域將被淘汰。 因此，如果Sales Insight使用者的配置較舊，指向其中任何一個網域，則其銷售機會、聯繫人、帳戶、銷售機會面板或Marketo全域頁面可能會遇到系統註解錯誤。 建議您更新 [Marketo Engage配置](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) 在Salesforce中遇到此錯誤。 您只需更新檔案「Marketo Sales Insight Config」區段中強調顯示的Marketo Engage憑證。
+**Marketo Engage域 — Sales Insight配置**:對於未設定SSL證書的Marketo Engage域和https://，調用將失敗，並出現SSL握手錯誤。 因此，這些域將會落日。 因此，指向這些域中任何一個的較舊配置的Sales Insight用戶在其Lead 、 Contact 、 Account 、 Opportunity Panels或MarketoGlobal頁面上可能會遇到系統標注錯誤。 我們建議您更新 [Marketo Engage配置](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) 在Salesforce中。 您只需更新文檔「Marketo銷售洞察力配置」部分中突出顯示的Marketo Engage憑據。
 
-**_產品發行網路研討會_**
+**_產品發佈網路研討會_**
 
-於2022年1月27日上午9:00（太平洋時區）/中午12:00（東部時間）加入我們 [線上講座](https://engage.marketo.com/2022_January_Release_Webinar_RegistrationPage.html) 由我們的產品團隊代管，讓您了解如何使用所有最新的產品創新。
+2022年1月27日，美國東部時間上午9:00/下午12:00 [即時網路研討會](https://engage.marketo.com/2022_January_Release_Webinar_RegistrationPage.html) 由我們的產品團隊主持，您可以在此學習如何使用所有最新的產品創新。
