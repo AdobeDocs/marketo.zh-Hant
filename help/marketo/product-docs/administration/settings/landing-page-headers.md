@@ -1,8 +1,10 @@
 ---
 description: 登錄頁標題 — Marketo文檔 — 產品文檔
 title: 登錄頁標題
+hide: true
+hidefromtoc: true
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
-source-git-commit: 05129f546cf2ba0df5c608485adf73c26d4b4f1e
+source-git-commit: 18a74b9e2860765ea0b8d3bd61419e7738b287fc
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
