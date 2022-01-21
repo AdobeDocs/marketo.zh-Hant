@@ -1,9 +1,10 @@
 ---
 description: 將批量操作按鈕添加到Salesforce經典 — Marketo文檔 — 產品文檔
 title: 將批量操作按鈕添加到Salesforce經典
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
+source-git-commit: a268bd275f1aeb2aff7c3f7f90a8fd557a1c408d
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
