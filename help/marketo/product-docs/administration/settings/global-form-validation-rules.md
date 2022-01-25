@@ -4,9 +4,9 @@ title: 全局表單驗證規則
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 0354267afa8e11dbe7ac3b56bc8a4c2886c84676
+source-git-commit: dcec5ef3856706d770a68228ae2b4c17cc47dfc0
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Engage提供了定義的免費使用者電子郵件域的塊清單，當使用我們預載入的「使用者電子郵件域塊清單」規則時，這些域將被阻止。 [在此處查看該清單](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv)。
+>Marketo Engage有一個定義的免費使用者電子郵件域的阻止清單，當使用我們預載入的「使用者電子郵件域阻止清單」規則時，這些阻止清單將被阻止。 [在此處查看該清單](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv)。
