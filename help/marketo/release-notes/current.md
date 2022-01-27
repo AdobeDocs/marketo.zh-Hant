@@ -2,7 +2,7 @@
 description: 當前發行說明 — Marketo文檔 — 產品文檔
 title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e2b050a0da8aa819a764aeb5dd905220451e2e59
+source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
 workflow-type: tm+mt
 source-wordcount: '1067'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 **_季度發佈_**
 
-以下功能將開始在 **2022年1月21日**，並在下週分階段部署每個功能（除非另有指定）。
+以下功能將開始在 **2022年1月21日**，在接下來的幾週內（除非另有指定）分階段部署每項功能。
 
 ## 新一代體驗 {#next-generation-experience}
 
