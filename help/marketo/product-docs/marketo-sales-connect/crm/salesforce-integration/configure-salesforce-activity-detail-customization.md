@@ -4,9 +4,9 @@ title: 配置Salesforce活動詳細資訊自定義
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '675'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,10 @@ ht-degree: 0%
 
 
 Activity Detail Customization允許管理員配置在將Sales Connect活動/提醒任務同步到Salesforce時將登錄到Salesforce Task - Subject Field的資訊。
+
+>[!NOTE]
+>
+>如果您使用的是Sales Connect中提醒任務的主題欄位，則對該主題欄位所做的更新將反映在相應Salesforce任務的主題欄位中 `{{activity_subject}}` 「活動詳細資訊自定義」中的「動態」欄位。
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -46,6 +50,10 @@ Activity Detail Customization允許管理員配置在將Sales Connect活動/提�
 * 管理員可以使用唯一標識符（如「Mkto_sales」）為主題欄位添加標籤，因此可以從Sales Connect中輕鬆識別活動，並與其他電子郵件活動、呼叫活動和任務區別開來。
 * 減少對自定義活動欄位的需求。 Salesforce強制限制自定義活動欄位的數量，這可以限制報表中可用的資料。 通過使用活動動態欄位將關鍵資料添加到主題行，您可以減少在Salesforce實例中建立的自定義活動欄位的數量。
 * 活動和任務的主題欄位將遵循由Sales Connect Admin定義的一致模式。
+
+>[!NOTE]
+>
+>如果您將電子郵件回復作為活動記錄到Salesforce，則它們將不使用Salesforce Activity Detail Customization設定。 而是以「回復：電子郵件主題。」
 
 ## 支援的活動動態欄位 {#activity-dynamic-fields-supported}
 
