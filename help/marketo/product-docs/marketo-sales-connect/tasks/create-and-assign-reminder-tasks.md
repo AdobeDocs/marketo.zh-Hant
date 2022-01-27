@@ -1,56 +1,52 @@
 ---
-description: 建立和指派提醒工作 — Marketo檔案 — 產品檔案
+description: 建立和分配提醒任務 — Marketo文檔 — 產品文檔
 title: 建立和分配提醒任務
 hide: true
 hidefromtoc: true
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
 # 建立和分配提醒任務 {#create-and-assign-reminder-tasks}
 
-提醒任務是您與客戶和潛在客戶接洽的絕佳途徑。 要建立任務，請執行以下步驟。
+提醒任務是您與客戶和潛在客戶接洽的最佳方式。 要建立任務，請執行以下步驟。
 
-1. 按一下 **指揮中心**.
+1. 按一下 **命令中心**。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. 按一下 **工作**.
+1. 預設情況下將開啟任務。 按一下 **添加任務**。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-2.png)
 
-1. 按一下 **添加任務**.
+1. 從電子郵件、呼叫、InMail或自定義任務中選擇任務類型。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-3.png)
 
-1. 從「電子郵件」、「呼叫」、「InMail」或「自定義任務」中選擇任務類型。
+1. 給任務一個名稱。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-4.png)
 
-1. 為任務命名。
+1. 選擇將任務保留為您自己，或選擇另一個用戶將任務分配給您。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-5.png)
 
-1. 選擇將任務自己分配，或選擇其他用戶將任務分配給。
+1. 使用此提醒任務添加您正在跟蹤的人。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-6.png)
 
-1. 使用此提醒任務添加您正在跟蹤的人員。
+1. 選擇任務到期日。
 
-PICC
-
-1. 選擇任務的到期日。
-
-PICC
+   ![](assets/create-and-assign-reminder-tasks-7.png)
 
 1. 選擇任務的優先順序。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. 在完成任務時添加您想要的任務的任何詳細資訊，如呼叫通話記錄、InMail郵件模板，甚至關於人員的備注。
+1. 添加在完成任務時希望您能夠獲得的任務的詳細資訊，如呼叫通話備注、InMail郵件模板，甚至有關人員的備注。 按一下 **建立** 完成。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-9.png)
