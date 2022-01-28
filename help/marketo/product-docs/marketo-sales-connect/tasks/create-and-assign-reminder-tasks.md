@@ -1,12 +1,10 @@
 ---
 description: 建立和分配提醒任務 — Marketo文檔 — 產品文檔
 title: 建立和分配提醒任務
-hide: true
-hidefromtoc: true
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
-source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
+source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

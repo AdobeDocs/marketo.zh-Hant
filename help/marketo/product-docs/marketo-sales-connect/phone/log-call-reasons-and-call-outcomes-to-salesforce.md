@@ -1,10 +1,8 @@
 ---
 description: 將呼叫原因和呼叫結果記錄到Salesforce -Marketo文檔 — 產品文檔
 title: 將呼叫原因和呼叫結果記錄到Salesforce
-hide: true
-hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: c71661553ecee07d3f9d7c7e2e1bab240da54d1d
+source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -122,7 +120,7 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
-## 在Salesforce Lightning中將自定義活動欄位添加到任務頁佈局 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
+### 在Salesforce Lightning中將自定義活動欄位添加到任務頁佈局 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
 1. 在Salesforce中，按一下右上角的齒輪表徵圖，然後選擇 **設定**。
 
