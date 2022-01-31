@@ -2,9 +2,9 @@
 description: 配置Salesforce活動詳細資訊自定義 — Marketo文檔 — 產品文檔
 title: 配置Salesforce活動詳細資訊自定義
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+source-git-commit: 4967f6260f084c9382271aa10d15bb0f7e083e8d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,9 @@ Activity Detail Customization允許管理員配置在將Sales Connect活動/提�
 
 >[!NOTE]
 >
->如果您使用的是Sales Connect中提醒任務的主題欄位，則對該主題欄位所做的更新將反映在相應Salesforce任務的主題欄位中 `{{activity_subject}}` 「活動詳細資訊自定義」中的「動態」欄位。
+>* 如果您使用的是Sales Connect中提醒任務的主題欄位，則對該主題欄位所做的更新將反映在相應Salesforce任務的主題欄位中 `{{activity_subject}}` 「活動詳細資訊自定義」中的「動態」欄位。
+>* 將資訊記錄到Salesforce主題欄位時不支援換行。 更新銷售任務主題時，「活動詳細資訊自定義」編輯器中的任何換行符都將被刪除。
+
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
