@@ -2,7 +2,7 @@
 description: 當前發行說明 — Marketo文檔 — 產品文檔
 title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
+source-git-commit: 87410bcdc5f9ebb3b85765efe9fd852df4611ce6
 workflow-type: tm+mt
 source-wordcount: '1067'
 ht-degree: 0%
@@ -40,9 +40,9 @@ ht-degree: 0%
 
 ## 管理 {#administration}
 
-* **表單驗證規則**:通過阻止有問題或不希望的電子郵件域提交Marketo Engage表，維護資料庫的運行狀況。 「全局表單驗證規則」面板允許管理員定義阻止清單或啟用預定義的自由使用者域清單以阻止表單。
+* **[表單驗證規則](/help/marketo/product-docs/administration/settings/global-form-validation-rules.md)**:通過阻止有問題或不希望的電子郵件域提交Marketo Engage表，維護資料庫的運行狀況。 「全局表單驗證規則」面板允許管理員定義阻止清單或啟用預定義的自由使用者域清單以阻止表單。
 
-* **登錄頁標題安全性**:管理員可以在其登錄頁域上管理嚴格傳輸安全性和X-Frame選項標題，以強制執行強大的安全要求。
+* **[登錄頁標題安全性](/help/marketo/product-docs/administration/settings/landing-page-headers.md)**:管理員可以在其登錄頁域上管理嚴格傳輸安全性和X-Frame選項標題，以強制執行強大的安全要求。
 
 **_在整個季度發佈_**
 
