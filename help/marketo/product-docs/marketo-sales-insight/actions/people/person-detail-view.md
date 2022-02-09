@@ -3,9 +3,9 @@ description: 人員詳細資訊視圖 — Marketo文檔 — 產品文檔
 title: 人員詳細資訊視圖
 hide: true
 hidefromtoc: true
-source-git-commit: 9ca5128dd2a6b68e644cfe8cc781d840f9429945
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,21 @@ ht-degree: 0%
 
 1. 要訪問人員詳細資訊視圖，請按一下 **人物** 頁籤。
 
-PICC
+   ![](assets/person-detail-view-1.png)
 
 1. 選擇所需人員。
 
-PICC
+   ![](assets/person-detail-view-2.png)
 
->[!TIP]
->
->幾乎在任何您看到人員姓名的地方，您都可以按一下該姓名並進入其「人員詳細資訊視圖」。
+   >[!TIP]
+   >
+   >幾乎在任何您看到人員姓名的地方，您都可以按一下該姓名並進入其「人員詳細資訊視圖」。
 
 ## 關於頁籤 {#about-tab}
 
 包括此人的所有聯繫資訊。
 
-PICC
+![](assets/person-detail-view-3.png)
 
 **聯繫卡**
 
