@@ -3,7 +3,7 @@ description: Sales Insight Actions和GDPR Compliance -Marketo文檔 — 產品�
 title: Sales Insight Actions和GDPR Compliance
 hide: true
 hidefromtoc: true
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 95eef55e3bbf24f1511fcbb3091a5b657653d672
 workflow-type: tm+mt
 source-wordcount: '1396'
 ht-degree: 0%
@@ -101,7 +101,7 @@ Sales Insight Actions還允許批量更新聯繫人的授權和來源類型，�
 
 從「人員」頁面選擇一個或多個聯繫人時，右側會出現一個dota（三點菜單）。 按一下它，您將看到「授權」和「源」是選項。 您可以同時設定多個聯繫人的授權或來源。
 
-![](assets/sales-insight-actions-and-gdpr-compliance-5.jpg)
+![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
 按一下「授權」模式時，將出現一個彈出窗口，其中包含與符合性卡中的選項相匹配的下拉清單選項。
 
