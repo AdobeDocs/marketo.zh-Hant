@@ -3,7 +3,8 @@ description: 從Salesforce自動登錄 — Marketo文檔 — 產品文檔
 title: 從Salesforce自動登錄
 hide: true
 hidefromtoc: true
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+exl-id: 3b788af5-6204-40f8-af79-74729de45744
+source-git-commit: 984a6dbd19d88db942d9d10bde4880a79feabcc7
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
