@@ -4,9 +4,9 @@ title: 操作資料同步常見問題
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
+source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
 workflow-type: tm+mt
-source-wordcount: '1033'
+source-wordcount: '1045'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Sales Insight Actions的資料統一欄位同步使系統能夠將人員資訊�
 
 通過查看現有的標準責任人欄位，您可以查看潛在顧客/聯繫人是否在Salesforce中擁有銷售責任人。
 
-銷售所有者不必是Marketo同步用戶或任何特定的Salesforce或銷售用戶。 只要標準所有者欄位中列有用戶，我們將包括要同步到銷售活動的潛在顧客/聯繫人，並將其包括在要同步到該潛在顧客的同步欄位的任何更新中。
+銷售所有者不必是Marketo同步用戶或任何特定的Salesforce或銷售用戶。 我們只需在Salesforce中列出的潛在顧客所有者和聯繫人所有者欄位中列出一個用戶，這樣我們就可以將其標識為銷售顧客，並將其同步到Sales Insight Actions中。 在Sales Insight Actions中，還將檢測並更新與同步的欄位的任何更新。
 
 ## Sales Insight Smart Grid中顯示的活動資料從何處獲得來源？ {#where-does-the-activity-data-get-sourced-from}
 
