@@ -4,9 +4,9 @@ title: 操作資料同步常見問題
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 8ded6cac96f17c81a8d37cbe51c39ad565ac828e
 workflow-type: tm+mt
-source-wordcount: '1045'
+source-wordcount: '1044'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sales Insight Actions的資料統一欄位同步使系統能夠將人員資訊從您的Marketo Engage資料庫拉入您的Sales Insight Actions資料庫。
 
-這可以在Sales Insight Actions Web應用中提供最新的人員資料，並允許系統為Marketo的相應人員記錄和Salesforce中的潛在客戶/聯繫人/帳戶/機會記錄收集唯一的ID，以便記錄可以被正確引用以記錄資料。
+這可以在Sales Insight Actions Web應用中提供最新的人員資料，並允許系統為Marketo的相應人員記錄和Salesforce中的線索/聯繫人/帳戶/機會記錄收集唯一的ID，以便記錄可以被正確引用以記錄資料。
 
 可以從Marketo Engage的「管理」部分的「Sales Insight Actions Config」（Sales Insight操作配置）頁籤啟用此同步。 有關詳細資訊，請簽出 [啟動資料同步](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync)。
 
