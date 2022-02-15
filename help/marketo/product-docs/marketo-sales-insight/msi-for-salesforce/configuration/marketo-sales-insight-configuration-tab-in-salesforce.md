@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: MarketoSales Force中的Sales Insight配置頁籤 — Marketo文檔 — 產品文檔
 title: MarketoSales Insight配置頁籤（在Salesforce中）
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 2d6df5b08cb4ae6459d10bdc7a1d2ab09a96fb9d
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '600'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,10 @@ ht-degree: 0%
 選擇這樣做將擦除SFDC中的所有配置，並且無法恢復這些配置。 您必須重新配置所有內容。
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+
+>[!IMPORTANT]
+>
+>除非您使用Sales Insights Actions功能，否則不要選中「啟用MSI操作」複選框。
 
 >[!MORELIKETHIS]
 >
