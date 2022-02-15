@@ -3,7 +3,7 @@ unique-page-id: 2949841
 description: 瞭解事件計畫 — Marketo文檔 — 產品文檔
 title: 瞭解事件程式
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 66baa78d3e32140526d8d66beba493e02937a2c2
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
 >* 會議
 
 
-事件可以自動連接到 [網路研討會提供者](launchpoint-event-partners.md) 與 [iPad簽入應用](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)。
+事件可以自動連接到 [網路研討會提供者](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) 與 [iPad簽入應用](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)。
 
 >[!MORELIKETHIS]
 >

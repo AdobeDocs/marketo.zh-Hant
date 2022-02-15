@@ -3,7 +3,7 @@ unique-page-id: 1147091
 description: 瞭解計畫成員資格 — Marketo文檔 — 產品文檔
 title: 瞭解計畫成員資格
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 66baa78d3e32140526d8d66beba493e02937a2c2
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
    1. 人員將自動擁有晉升中的第一個狀態。
 
 1. 使用 [更改程式狀態](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 的子菜單。
-1. 註冊或參加 [網路研討會與活動計畫同步](/help/marketo/product-docs/demand-generation/events/events/launchpoint-event-partners.md)。
+1. 註冊或參加 [網路研討會與活動計畫同步](/help/marketo/product-docs/demand-generation/events/events/event-partners.md)。
 1. 人是 [使用MarketoiPad簽入應用程式建立](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)。
 1. 將人員添加到SFDC市場活動， [同步到程式](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)。
 
