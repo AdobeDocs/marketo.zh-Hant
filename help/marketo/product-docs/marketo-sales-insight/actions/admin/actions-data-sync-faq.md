@@ -4,9 +4,9 @@ title: 操作資料同步常見問題
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 984a6dbd19d88db942d9d10bde4880a79feabcc7
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '1030'
+source-wordcount: '1033'
 ht-degree: 0%
 
 ---
@@ -120,4 +120,5 @@ Sales Insight Actions允許管理員配置哪些銷售活動記錄到Salesforce�
 >* [Marketo取消訂閱支票](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Salesforce同步設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [提醒任務與Salesforce同步](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+>* [啟動資料同步](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync)
 

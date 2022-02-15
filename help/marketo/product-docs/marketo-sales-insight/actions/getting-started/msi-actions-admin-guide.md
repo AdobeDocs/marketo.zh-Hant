@@ -4,9 +4,9 @@ title: MSI操作管理指南
 hide: true
 hidefromtoc: true
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -110,15 +110,17 @@ ht-degree: 0%
 
 ## 啟動資料同步 {#initiate-data-sync}
 
+Sales Insight Actions的資料統一欄位同步使系統能夠將人員資訊從您的Marketo Engage資料庫拉入您的Sales Insight Actions資料庫，使您的人員資料保持最新，並確保活動記錄在Marketo和Salesforce的正確記錄中。
+
 1. 在Marketo，按一下 **管理**。
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. 按一下Sales Insight。
+1. 按一下 **銷售洞察**。
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. 按一下「操作配置」(Actions Config)頁籤。 在「操作欄位同步」卡中，按一下 **同步**。
+1. 按一下 **操作配置** 頁籤。 在「操作欄位同步」卡中，按一下 **同步**。
 
    ![](assets/msi-actions-admin-guide-12.png)
 
@@ -127,6 +129,10 @@ ht-degree: 0%
    ![](assets/msi-actions-admin-guide-13.png)
 
 Marketo和Salesforce中存在的人員記錄將同步到您的Marketo銷售應用帳戶。
+
+>[!NOTE]
+>
+>要瞭解有關Sales Insight Actions、Marketo和Salesforce之間人員和活動資料如何同步的更多資訊， [按一下這裡](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md)。
 
 ## 邀請單個用戶執行MSI操作 {#invite-individual-users-to-msi-actions}
 

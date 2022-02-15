@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: 88bbace33ed01a0c2632751b67b4a38a59222394
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '8282'
+source-wordcount: '8281'
 ht-degree: 0%
 
 ---
@@ -595,7 +595,7 @@ ht-degree: 0%
             + [向事件程式添加成員](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
             + [建立新事件程式](product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
             + [編輯事件通道](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
-            + [LaunchPoint活動合作夥伴](product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)
+            + [活動合作夥伴](product-docs/demand-generation/events/understanding-events/event-partners.md)
             + [瞭解事件程式](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
          + 建立事件 {#create-an-event}
             + [與Adobe Connect一起建立活動](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
