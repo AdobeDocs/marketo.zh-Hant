@@ -2,9 +2,9 @@
 description: 將Adobe Experience Platform分區推入Marketo靜態清單 — Marketo文檔 — 產品文檔
 title: 將Adobe Experience Platform段推入Marketo靜態清單
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 05129f546cf2ba0df5c608485adf73c26d4b4f1e
+source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
+>* [編輯API角色](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role) 確保它有 **讀寫人員** 權限（在「訪問API」下拉清單中找到）。
 >* [建立API用戶](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) 在Marketo。
 >* 轉到 **管理** > **朗奇波因特**。 查找您剛建立的角色的名稱，然後按一下 **查看詳細資訊**。 複製並保存資訊 **客戶端ID** 和 **客戶端密碼**，因為在步驟7中可能需要它。
 >* 在Marketo，建立靜態清單，或查找並選擇已建立的清單。 你需要它的身份證。
@@ -36,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. 查找Marketo Engage磁貼，然後按一下 **激活段**。
+1. 查找Marketo Engage磁貼，然後按一下 **激活**。
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
@@ -79,7 +80,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果在此處選擇多個段，則必須將每個段映射到「段調度」頁籤中的指定靜態清單。
+   >如果選擇多個段，則必須將每個段映射到「段調度」頁籤中的指定靜態清單。
+
+   >[!IMPORTANT]
+   >
+   >首次將段激活到Marketo目的地後，在Marketo目的地激活之前，該段中已存在的回填配置檔案可能需要 **最多24小時**。 今後，任何時間配置檔案都會添加到段中，它們會立即添加到Marketo。
 
 1. 按一下 **添加新映射**。
 
