@@ -1,10 +1,8 @@
 ---
 description: 動態聊天概述 — Marketo文檔 — 產品文檔
 title: 動態聊天概述
-hide: true
-hidefromtoc: true
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 9ab6640ae30bd5ad653b5936a01ec3b0e19d595b
+source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 0%

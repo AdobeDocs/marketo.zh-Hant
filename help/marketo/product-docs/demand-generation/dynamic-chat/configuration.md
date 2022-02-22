@@ -1,64 +1,62 @@
 ---
-description: 設定 — Marketo檔案 — 產品檔案
-title: 設定
-hide: true
-hidefromtoc: true
+description: 配置 — Marketo文檔 — 產品文檔
+title: 配置
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
-# 設定 {#configuration}
+# 配置 {#configuration}
 
-了解如何自訂聊天機器人對話方塊視窗的外觀與風格。
+瞭解如何自定義聊天機對話框窗口的外觀。
 
-若要開始，請按一下 **設定**.
+要開始，請按一下 **配置**。
 
 ![](assets/configuration-1.png)
 
-有數種不同的自訂選項。
+有幾種不同的自定義選項。
 
 ![](assets/configuration-2.png)
 
-## 樣式標籤 {#style-tab}
+## 樣式頁籤 {#style-tab}
 
 **樣式**
 
-您將在此處定義將顯示對話方塊的聊天機器人的外觀和風格，包括：顏色、字型、機器人介面工具集的放置，以及聊天機器人的名稱/頭像。
+您將在此處定義對話框的顯示外觀，包括：顏色、字型、bot小部件的位置以及chatbot的名稱/虛擬形象。
 
 每個類別的顏色由 [十六進位顏色值](https://color.adobe.com/create/color-wheel) (例如，白色= #ffffff、紅色= #bf1932等)。
 
 ![](assets/configuration-3.png)
 
-錨點可讓您的網站訪客開啟/關閉動話方塊。 您可以選擇要讓該圖示顯示在右下方還是左下方。 您也可以增加/減少填補（圖示與網頁底部之間的空間量）。
+錨點允許站點訪問者開啟/關閉聊天框。 您可以選擇希望該表徵圖出現在右下角還是左下角。 還可以增加/減少填充（表徵圖與網頁底部之間的空間量）。
 
 ![](assets/configuration-4.png)
 
 **代理設定**
 
-在「代理設定」中，您可以將標籤新增至您的動話方塊(例如：「Adobe機器人」)，會顯示在頂端。 您也可以判斷回應延遲（以秒為單位），並變更您的聊天頭像。
+在「代理設定」中，可以向您的聊天框添加標籤(例如：&quot;Adobe機器人&quot;)。 您還可以確定響應延遲（秒），並更改聊天虛擬形象。
 
 ![](assets/configuration-5.png)
 
-完成更改後，請記得按一下 **儲存**.
+完成更改後，請記住按一下 **保存**。
 
 ![](assets/configuration-6.png)
 
-## 隱私權標籤 {#privacy-tab}
+## 隱私頁籤 {#privacy-tab}
 
-按一下 **隱私權** 頁簽來新增/編輯網站隱私權原則的URL（選用）。
+按一下 **隱私** 頁籤，以添加/編輯站點隱私策略的URL（可選）。
 
 ![](assets/configuration-7.png)
 
-## 「安裝」頁簽 {#installation-tab}
+## 安裝頁籤 {#installation-tab}
 
-若要讓聊天機器人顯示在您的網站上，您必須先安裝動態聊天JavaScript程式碼片段。 按一下此標籤可尋找/複製必要的程式碼。 如果您不熟悉此操作，請聯繫您的Web團隊或IT部門尋求幫助。
+要使聊天機在您的網站上顯示，您首先需要安裝動態聊天JavaScript代碼段。 按一下此頁籤查找/複製所需代碼。 如果您不熟悉此操作，請聯繫您的Web團隊或IT部門以獲得幫助。
 
 ![](assets/configuration-8.png)
 
 >[!NOTE]
 >
->Marketo支援未設定來協助疑難排解HTML。 如需HTML協助，請洽詢網頁開發人員。
+>Marketo支援未設定為幫助診斷HTML。 有關HTML幫助，請咨詢Web開發人員。
