@@ -1,10 +1,10 @@
 ---
 description: Salesforce中的MSI操作配置 — Marketo文檔 — 產品文檔
-title: MSI Actions Configuration in Salesforce
+title: Salesforce中的MSI操作配置
 hide: true
 hidefromtoc: true
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 84e3c4d525c5bde9e3ebd17d2f29ad42578777ff
+source-git-commit: ea7a5892f121873483909ff7ad3067423710371a
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [安裝]() 或 [升級]() Salesforce實例中的Sales Insight包安裝/升級到 [MSI操作包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) 在Salesforce實例中。
->* [在Salesforce Enterprise/Unlimited中配置MarketoSales Insight]()
+>* [安裝](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) 或 [升級](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) Salesforce實例中的Sales Insight包
+>* [在Salesforce Enterprise/Unlimited中配置MarketoSales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 
 ## 在Salesforce中添加新遠程站點 {#add-new-remote-site-in-salesforce}
 
-1. In Salesforce, click **Setup**.
+1. 在Salesforce中，按一下 **設定**。
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
@@ -32,19 +32,19 @@ ht-degree: 0%
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
-1. 輸入遠程站點名稱（它可能類似於「MarketoSalesInsight」）。 Enter the Remote Site URL (https://ims-na1-stg1.adobelogin.com) and click **Save**.
+1. 輸入遠程站點名稱（它可能類似於「MarketoSalesInsight」）。 輸入遠程站點URL(https://ims-na1-stg1.adobelogin.com)，然後按一下 **保存**。
 
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
 ## 在CRM中啟用MSI操作 {#enabling-msi-actions-across-the-crm}
 
-1. In Salesforce, click the **Marketo Sales Insight Config** tab.
+1. 在Salesforce中，按一下 **MarketoSales Insight配置** 頁籤。
 
    ![](assets/msi-actions-configuration-in-salesforce-5.png)
 
    >[!NOTE]
    >
-   >If you don&#39;t see &quot;Marketo Sales Insight Config&quot; in your top bar, click the **+** sign and find it under All Tabs.
+   >如果您在頂欄中未看到「Marketo銷售洞察力配置」，請按一下 **+** 在「All Tabs（所有頁籤）」下簽名並查找。
 
 1. 選擇 **啟用MSI操作** 複選框。
 
@@ -60,11 +60,11 @@ ht-degree: 0%
 
 1. 按一下 **保存** 完成。
 
-This will automatically enable all MSI Actions features outlined in the feature overview article.
+這將自動啟用功能概述文章中概述的所有MSI操作功能。
 
 >[!NOTE]
 >
->You can disable all MSI Actions features by simply unchecking the “Enable MSI Actions” checkbox.
+>只需取消選中「啟用MSI操作」複選框，即可禁用所有MSI操作功能。
 
 ## MSI-Actions治理 {#msi-actions-governance}
 
@@ -78,4 +78,4 @@ This will automatically enable all MSI Actions features outlined in the feature 
 
 >[!NOTE]
 >
->Governance settings are applicable to all MSI users.
+>治理設定適用於所有MSI用戶。
