@@ -3,9 +3,9 @@ description: 本地資產到期 — Marketo文檔 — 產品文檔
 title: 本地資產到期
 hide: true
 hidefromtoc: true
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: 4a931057a2732a645b267d82a4bacf2a85bff13a
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ ht-degree: 0%
 
 1. 在 [!UICONTROL 管理] 的 **[!UICONTROL 用戶和角色]**。
 
-   ![](assets/local-asset-expiration-2.png)
+   ![](assets/local-asset-expiration-1.png)
 
 1. 按一下 **[!UICONTROL 角色]** 頁籤，選擇要授予訪問權限的用戶，然後按一下 **[!UICONTROL 編輯角色]**。
 
-   ![](assets/local-asset-expiration-3.png)
+   ![](assets/local-asset-expiration-2.png)
 
 1. 下 [!UICONTROL 訪問市場營銷活動]選中 **[!UICONTROL 計畫資產到期]**。 按一下 **[!UICONTROL 保存]**。
 
-   ![](assets/local-asset-expiration-.png)
+PICC
 
 ## 設定到期日期 {#set-an-expiration-date}
 
