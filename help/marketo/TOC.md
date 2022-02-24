@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
+source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
 workflow-type: tm+mt
-source-wordcount: '8285'
+source-wordcount: '8293'
 ht-degree: 0%
 
 ---
@@ -252,6 +252,7 @@ ht-degree: 0%
             + [編輯智慧市場活動中的資格規則](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
             + [移動智慧市場活動](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)
             + [覆蓋智慧市場活動中的人員限制](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
+            + [觸發市場活動的優先順序改寫](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/priority-override-for-trigger-campaigns.md)
             + [更名智慧市場活動](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/rename-a-smart-campaign.md)
             + [立即運行批智慧市場活動 |計畫頁籤](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/run-a-batch-smart-campaign-now-schedule-tab.md)
             + [計畫批智慧市場活動以後運行](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
@@ -377,6 +378,7 @@ ht-degree: 0%
             + [編輯分析行為設定](product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md)
             + [導入程式](product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)
             + [將成員從電子錶格導入程式](product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md)
+            + [本地資產到期](product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.md)
             + [管理和查看成員](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
             + [程式成員自定義欄位](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
             + [將SFDC市場活動與程式同步](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
