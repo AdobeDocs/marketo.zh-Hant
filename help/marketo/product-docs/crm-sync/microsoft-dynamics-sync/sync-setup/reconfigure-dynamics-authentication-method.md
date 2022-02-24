@@ -2,9 +2,9 @@
 description: Reconfigure Dynamics Authentication方法 — Marketo文檔 — 產品文檔
 title: 重新配置Dynamics身份驗證方法
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: d86a8699838158631f210ea2f7acdfb88061b649
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,10 @@ ht-degree: 0%
 
 1. 按一下 **確認** 的雙曲餘切值。
 
+   ![](assets/reconfigure-dynamics-authentication-method-8.png)
+
 1. 按一下 **確定**。
 
    >[!IMPORTANT]
    >
-   >切記重新啟用同步！
+   >系統需要15分鐘才能接受新的身份驗證模式。 請等待15分鐘，從交換機開始，然後重新啟用同步。

@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: 修復Dynamics驗證同步問題 — Marketo文檔 — 產品文檔
 title: 修復Dynamics驗證同步問題
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ## 同步用戶已分配給Marketo同步用戶角色 {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
-如果你有 ![x](assets/delete.png) 這裡，可能是以下兩個原因之一。
+如果你有 ![x](assets/delete.png) 這裡，它可能是下面三個問題之一。
 
 **選項一 — 驗證Marketo同步用戶角色是否已在MicrosoftDynamics中選中**:
 
@@ -75,6 +75,10 @@ ht-degree: 0%
 **選項二 — 確認授權同意**:
 
 1. 查看 [授予客戶端ID和應用程式註冊的許可](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md) 確認應用具有調用API的管理員許可。
+
+**選項三 — 同步用戶**:
+
+1. 驗證同步用戶是否已添加到Marketo配置。
 
 ## Marketo解決方案已正確安裝 {#marketo-solution-is-properly-installed}
 

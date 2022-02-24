@@ -3,7 +3,7 @@ description: 觸發活動的優先順序覆蓋 — Marketo文檔 — 產品文�
 title: 觸發市場活動的優先順序改寫
 hide: true
 hidefromtoc: true
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 授予優先順序覆蓋訪問權限 {#grant-priority-override-access}
 
->[!CAUTION]
+>[!NOTE]
 >
 >只有管理員或具有管理員職責的用戶才應具有市場活動優先順序覆蓋訪問權限。
 
