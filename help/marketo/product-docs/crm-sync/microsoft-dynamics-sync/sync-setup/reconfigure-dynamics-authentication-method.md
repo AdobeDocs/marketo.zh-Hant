@@ -2,7 +2,7 @@
 description: Reconfigure Dynamics Authentication方法 — Marketo文檔 — 產品文檔
 title: 重新配置Dynamics身份驗證方法
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
+source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -16,6 +16,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >使用以下任一文章中所需的身份驗證方法在MicrosoftDynamics和Active Directory(Azure AD/ADFS)中設定應用程式：
+>
 >* [第2步（共3步）:設定Marketo解決方案，使用伺服器到伺服器連接](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 >* [第2步（共4步）:設定具有資源所有者密碼控制連接的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
 

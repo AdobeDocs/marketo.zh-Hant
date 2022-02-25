@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
 workflow-type: tm+mt
-source-wordcount: '8293'
+source-wordcount: '8320'
 ht-degree: 0%
 
 ---
@@ -1401,6 +1401,13 @@ ht-degree: 0%
       + [針對非本地Salesforce整合的Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [啟用角色以進行Marketo Sky](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
+      + [預期行為](product-docs/marketo-sky/expected-behavior.md)
+      + [預測訪問群體入門](product-docs/marketo-sky/getting-started-with-predictive-audiences.md)
+      + [模型健康與資料有效性](product-docs/marketo-sky/model-health-and-data-validity.md)
+      + [預測篩選器](product-docs/marketo-sky/predictive-filters.md)
+      + [設定事件上限](product-docs/marketo-sky/setting-an-event-cap.md)
+      + [設定事件目標](product-docs/marketo-sky/setting-event-goals.md)
+      + [瞭解目標跟蹤和預計註冊](product-docs/marketo-sky/understanding-goal-tracking-and-projected-registrations.md)
    + 移動營銷 {#mobile-marketing}
       + 管理 {#admin}
          + [添加移動應用](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
