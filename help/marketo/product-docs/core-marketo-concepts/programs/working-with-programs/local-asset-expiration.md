@@ -3,9 +3,9 @@ description: 本地資產到期 — Marketo文檔 — 產品文檔
 title: 本地資產到期
 hide: true
 hidefromtoc: true
-source-git-commit: 4a931057a2732a645b267d82a4bacf2a85bff13a
+source-git-commit: 8baa8bc8ed897314945964deed5f867866a79f8c
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,9 @@ ht-degree: 0%
 
    ![](assets/local-asset-expiration-2.png)
 
-1. 下 [!UICONTROL 訪問市場營銷活動]選中 **[!UICONTROL 計畫資產到期]**。 按一下 **[!UICONTROL 保存]**。
+1. 下 [!UICONTROL 訪問市場營銷活動]選中 **[!UICONTROL 計畫本地資產到期]** 按一下 **[!UICONTROL 保存]**。
 
-PICC
+   ![](assets/local-asset-expiration-3.png)
 
 ## 設定到期日期 {#set-an-expiration-date}
 
@@ -56,6 +56,7 @@ PICC
 >
 >* 要編輯現有到期日期，只需檢查資產並按一下 **[!UICONTROL 設定到期]**。
 >* 資產一旦過期，將不再顯示在到期網格中。 網格將僅顯示已發佈的登錄頁、活動觸發市場活動和經常性批市場活動。
+>* 如果將資產移至其他程式，則將刪除計畫到期日。
 
 
 ## 刪除到期日期 {#remove-an-expiration-date}
