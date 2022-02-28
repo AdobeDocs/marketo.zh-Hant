@@ -2,9 +2,9 @@
 description: 當前發行說明 — Marketo文檔 — 產品文檔
 title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+source-git-commit: c3b03dd3662ccd470bdf6480df8e5b3a88d1ae3b
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -64,6 +64,12 @@ ht-degree: 0%
 ![（星號）](assets/yellow-star.png)
 
 * **BI模板**:Bizible現在將為Tableau和Power BI提供可下載、基本的報告工件和示例報告，以便能夠快速開發定制報告，這些報告適合您的特定業務需求。
+
+## 銷售連接 {#sales-connect}
+
+![（星號）](assets/yellow-star.png)
+
+* **電子郵件連接限制(GA)**:電子郵件連接限制允許銷售連接管理員在將Gmail或Exchange用作您的傳遞渠道時配置電子郵件的發送速率，以便將電子郵件移交給傳遞渠道提供商的速率不超過強制限制。
 
 ## 公告 {#announcements}
 
