@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+source-git-commit: 9cbf22e3cecd707641a87482b95eb3d43d3a8f78
 workflow-type: tm+mt
-source-wordcount: '8320'
+source-wordcount: '8334'
 ht-degree: 0%
 
 ---
@@ -109,14 +109,14 @@ ht-degree: 0%
          + [將BrightTALK連接到Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
          + [建立用於ReST API的自定義服務](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
          + [建立網頁掛接](product-docs/administration/additional-integrations/create-a-webhook.md)
-         + [為基於IP的API訪問建立允許清單](product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
+         + [Create an Allowlist for IP-Based API Access](product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
          + [下載GoogleAdwords活動日誌](product-docs/administration/additional-integrations/download-googleadwords-activity-log.md)
-         + [僅限用戶登錄SSO](product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
-      + 審核跟蹤 {#audit-trail}
+         + [Restrict User Login to SSO Only](product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+      + Audit Trail {#audit-trail}
          + [審核跟蹤概覽](product-docs/administration/audit-trail/audit-trail-overview.md)
          + [更改審計線索中的詳細資訊](product-docs/administration/audit-trail/change-details-in-audit-trail.md)
          + [啟用審核跟蹤](product-docs/administration/audit-trail/enable-audit-trail.md)
-         + [審核跟蹤中的篩選](product-docs/administration/audit-trail/filtering-in-audit-trail.md)
+         + [Filtering in Audit Trail](product-docs/administration/audit-trail/filtering-in-audit-trail.md)
          + [用戶登錄歷史記錄](product-docs/administration/audit-trail/user-login-history.md)
       + 電子郵件設定 {#email-setup}
          + 添加多個品牌推廣域 {#add-multiple-branding-domains}
@@ -352,7 +352,7 @@ ht-degree: 0%
             + [查找收入階段的所有人員](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-all-people-in-a-revenue-stage.md)
             + [查找並合併重複人員](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)
             + [查找具有自定義邏輯的重複人員](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md)
-            + [查找人員的活動日誌](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)
+            + [Locate the Activity Log for a Person](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)
             + [理解匿名活動與人](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)
             + [在智慧清單中使用清單成員](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/use-members-of-list-in-a-smart-list.md)
             + [在清單或智慧清單中使用快速查找](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/use-quick-find-in-a-list-or-smart-list.md)
@@ -783,7 +783,7 @@ ht-degree: 0%
                + [模板11C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11c.md)
                + [模板11D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11d.md)
                + [模板11E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11e.md)
-               + [模板11F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11f.md)
+               + [Template 11F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11f.md)
                + [模板12A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12a.md)
                + [模板12B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12b.md)
                + [模板12C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12c.md)
@@ -793,7 +793,7 @@ ht-degree: 0%
                + [模板13A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13a.md)
                + [模板13B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13b.md)
                + [模板13C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13c.md)
-               + [模板13D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13d.md)
+               + [Template 13D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13d.md)
                + [模板13E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13e.md)
                + [模板14A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14a.md)
                + [模板14B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14b.md)
@@ -1214,10 +1214,10 @@ ht-degree: 0%
          + [提醒任務與Salesforce同步](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [首次將Sales Connect Tasks與Salesforce同步](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + 模板 {#templates}
-         + [將自動取消訂閱添加到模板](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
+         + [Add Auto-Unsubscribes to a Template](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
          + [添加超連結文本](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
          + [存檔模板](product-docs/marketo-sales-connect/templates/archive-templates.md)
-         + [建立新類別](product-docs/marketo-sales-connect/templates/create-a-new-category.md)
+         + [Create a New Category](product-docs/marketo-sales-connect/templates/create-a-new-category.md)
          + [建立新模板](product-docs/marketo-sales-connect/templates/create-a-new-template.md)
          + [自定義模板視圖](product-docs/marketo-sales-connect/templates/customize-template-view.md)
          + [刪除模板類別](product-docs/marketo-sales-connect/templates/delete-a-template-category.md)
@@ -1295,6 +1295,10 @@ ht-degree: 0%
          + 人物 {#people}
             + [人員詳細資訊視圖](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight Actions和GDPR Compliance](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
+               + 管理聯繫人 {#managing-contacts}
+                  + [對人員的批量操作](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
+                  + [建立和刪除聯繫人](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
+                  + [通過CSV導入聯繫人](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
          + Salesforce配置 {#salesforce-configuration}
             + [Salesforce中的MSI操作配置](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [卸載Salesforce經典自定義程式包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
@@ -1435,16 +1439,16 @@ ht-degree: 0%
             + [計畫應用內消息](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)
             + [選擇您的應用內消息](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)
             + [設定應用內消息受眾](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md)
-      + 推送通知 {#push-notifications}
-         + [添加新Test設備](product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md)
+      + Push Notifications {#push-notifications}
+         + [Adding a New Test Device](product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md)
          + [配置移動推送通知](product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
          + [建立推送通知](product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
          + [刪除移動推送通知](product-docs/mobile-marketing/push-notifications/delete-mobile-push-notification.md)
          + [編輯移動推送通知](product-docs/mobile-marketing/push-notifications/edit-mobile-push-notification.md)
          + [預覽推送通知](product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
-         + [發送移動推送通知](product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
+         + [Send a Mobile Push Notification](product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
          + [發送推送通知示例](product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
-         + [瞭解推送通知](product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+         + [Understanding Push Notifications](product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
          + [查看推送通知儀表板](product-docs/mobile-marketing/push-notifications/view-the-push-notification-dashboard.md)
       + 查看SMS消息 {#vibes-sms-messages}
          + [建立Vibes SMS消息](product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
@@ -1452,7 +1456,7 @@ ht-degree: 0%
          + [SMS消息儀表板](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
          + [在智慧清單觸發器和篩選器中使用Vibes SMS消息](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + 個性化 {#personalization}
-      + 分段和片段 {#segmentation-and-snippets}
+      + Segmentation and Snippets {#segmentation-and-snippets}
          + 分段 {#segmentation}
             + [批准分段](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
             + [建立分段](product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
