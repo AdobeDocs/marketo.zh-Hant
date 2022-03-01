@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: 第2步（共3步） — 設定「Marketo解決方案」，使用伺服器到伺服器連接 — Marketo文檔 — 產品文檔
 title: 第2步（共3步） — 設定具有伺服器到伺服器連接的Marketo解決方案
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '643'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,9 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >向應用程式用戶授予權限時，請確保將其分配給「Marketo同步用戶角色」。
+   >* 向應用程式用戶授予權限時，請確保將其分配給「Marketo同步用戶角色」。
+   >* 從中記錄應用程式用戶的電子郵件地址 [查看詳細資訊選項](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) 在電源平台上。 在Marketo內設定與MS Dynamics的連接時，此電子郵件地址將用作用戶名。
+
 
 ## Azure AD Federated with AD FS On-prem {#azure-ad-federated-with-ad-fs-on-prem}
 
