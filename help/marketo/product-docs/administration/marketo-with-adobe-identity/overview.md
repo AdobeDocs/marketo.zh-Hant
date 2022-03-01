@@ -2,9 +2,9 @@
 description: 概述 — Marketo文檔 — 產品文檔
 title: 概述
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Marketo支援將無法提供有關Adobe IMS遷移的任何更新。 您的客戶成功經理將在未來幾個月內與預計時間表聯繫。
 
-## 配置檔案級別
+## 配置檔案級別 {#profile-levels}
 
 AdobeMarketo Engage訂閱登入AdobeIdentity Management系統支援各種配置檔案。 以下是與此整合相關的用戶配置檔案類型。
 
@@ -42,7 +42,7 @@ AdobeMarketo Engage訂閱登入AdobeIdentity Management系統支援各種配置�
  </tr>
 </table>
 
-## 常見問題
+## 常見問題 {#faq}
 
 **什麼是Adobe身份？**
 
