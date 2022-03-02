@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: 在Salesforce Enterprise/Unlimited -Marketo文檔 — 產品文檔中配置Marketo銷售洞察
 title: 在Salesforce Enterprise/Unlimited中配置MarketoSales Insight
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 84ac037a041398bdb1a056c3ab2fcf0d516f0097
+source-git-commit: 6ef1ff6f417cc3118e0c573896e1d232a5b97e70
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '877'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [在SalesforceAppExchange中安裝MarketoSales Insight軟體包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
-
+>[在SalesforceAppExchange中安裝MarketoSales Insight軟體包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
 >
@@ -119,34 +118,52 @@ ht-degree: 0%
    >
    >我們建議Accounts和Opportunity對象的高度為410像素。
 
-1. 按一下 **欄位** 左邊。 然後搜索並拖動 **參與** 標籤 **Marketo銷售洞察** 的下界。
+1. 按一下 **欄位** 左邊。 然後搜索並拖動 **緊急** 標籤 **Marketo銷售洞察** 的下界。
 
-   ![](assets/image2015-5-22-16-3a32-3a46.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-18.png)
 
 1. 對這些欄位重複上述步驟。
 
    <table> 
     <tbody> 
      <tr> 
-      <td colspan="1">參與</td> 
+      <td>最後一個有趣的時刻</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>相對分數值</p></td> 
+      <td>最後有趣的時刻日期</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>緊急值</p></td> 
+      <td>《最後一個有趣的時刻》</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>最後有趣的時刻日期</p></td> 
+      <td>最後有趣的時刻源</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>《最後一個有趣的時刻》</p></td> 
+      <td>最後有趣的時刻類型</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>最後有趣的時刻源</p></td> 
+      <td>上次按銷售額列出的Marketo活動</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>最後有趣的時刻類型</p></td> 
+      <td>上次按銷售額列出的Marketo項目</td> 
+     </tr> 
+     <tr> 
+      <td>MSI聯繫人ID</td> 
+     </tr> 
+     <tr> 
+      <td>相對分數</td> 
+     </tr> 
+     <tr> 
+      <td>相對分數值</td> 
+     </tr> 
+     <tr> 
+      <td>緊急</td> 
+     </tr> 
+     <tr> 
+      <td>緊急值</td> 
+     </tr> 
+     <tr> 
+      <td>在Marketo</td> 
      </tr> 
     </tbody> 
    </table>
@@ -155,9 +172,53 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. 重複此過程，為添加VisualForce頁面部分和Sales Insight欄位 **聯繫人**。 **帳戶** 和 **機會**。
+1. 重複步驟5-7，以添加VisualForce頁面部分和Sales Insight欄位 **聯繫人**。 **帳戶** 和 **機會**。
 
-1. 重複步驟5-7，為Contact 、 Account和Opportunity添加Visualforce頁面部分。 然後，重複步驟8-10以添加Sales Insight欄位 **聯繫人**。 請確保更改後保存。
+1. 重複步驟8-10，從下面的清單中添加Sales Insight欄位 **聯繫人**。 確保保存任何更改。
+
+<table> 
+    <tbody> 
+     <tr> 
+      <td>最後一個有趣的時刻</td> 
+     </tr> 
+     <tr> 
+      <td>最後有趣的時刻日期</td> 
+     </tr> 
+     <tr> 
+      <td>《最後一個有趣的時刻》</td> 
+     </tr> 
+     <tr> 
+      <td>最後有趣的時刻源</td> 
+     </tr> 
+     <tr> 
+      <td>最後有趣的時刻類型</td> 
+     </tr> 
+     <tr> 
+      <td>上次按銷售額列出的Marketo活動</td> 
+     </tr> 
+     <tr> 
+      <td>上次按銷售額列出的Marketo項目</td> 
+     </tr> 
+     <tr> 
+      <td>MKTO線索得分</td> 
+     </tr> 
+     <tr> 
+      <td>相對分數</td> 
+     </tr> 
+     <tr> 
+      <td>相對分數值</td> 
+     </tr> 
+     <tr> 
+      <td>Sales Insight — 開啟聯繫人完整清單頁</td> 
+     </tr> 
+     <tr> 
+      <td>緊急</td> 
+     </tr> 
+     <tr> 
+      <td>緊急值</td> 
+     </tr> 
+    </tbody> 
+   </table>
 
 ## 映射自定義人員欄位 {#map-custom-person-fields}
 
