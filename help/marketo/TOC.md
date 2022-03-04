@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: 9a4dcb4a307928887000ce199b061d3e01192719
+source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
 workflow-type: tm+mt
-source-wordcount: '8334'
+source-wordcount: '8382'
 ht-degree: 0%
 
 ---
@@ -1229,7 +1229,7 @@ ht-degree: 0%
          + [共用模板](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [模板項目](product-docs/marketo-sales-connect/templates/template-engagement.md)
          + [使用HTML](product-docs/marketo-sales-connect/templates/using-html.md)
-         + [以其他用戶身份查看模板清單](product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md)
+         + [以其他用戶身份查看模板清單](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
          + 動態欄位 {#dynamic-fields}
             + [建立自定義動態欄位](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
             + [動態欄位辭彙表](product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md)
@@ -1260,6 +1260,8 @@ ht-degree: 0%
             + [登錄管理設定](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [共用設定](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [用戶訪問詳細資訊](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+         + 分析 {#analytics}
+            + [模板項目](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + 市場活動 {#campaigns}
             + [活動已結束](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
@@ -1290,6 +1292,11 @@ ht-degree: 0%
                + [使用選擇和發送合成批量電子郵件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [通過組電子郵件發送電子郵件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [在合成窗口中使用模板](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + 常見問題 {#faq}
+            + [我是否可以使用抄送/密件抄送跟蹤多個收件人？](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+            + [我如何防止自我觀點？](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
+            + [位置跟蹤是如何工作的？](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
+            + [Sales Insight操作如何處理電子郵件消除重複？](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
          + Marketo {#marketo}
             + [授予Marketo對用戶的訪問權限](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + 人物 {#people}
@@ -1299,6 +1306,8 @@ ht-degree: 0%
                + [對人員的批量操作](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [建立和刪除聯繫人](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
                + [通過CSV導入聯繫人](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
+               + [管理組](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
+               + [人員頁列](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Salesforce配置 {#salesforce-configuration}
             + [Salesforce中的MSI操作配置](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [卸載Salesforce經典自定義程式包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
@@ -1308,8 +1317,12 @@ ht-degree: 0%
          + 任務 {#tasks}
             + [提醒任務與Salesforce同步](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + 模板 {#templates}
+            + [添加超連結文本](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [管理模板](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [管理模板類別](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
+            + [推薦模板](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
+            + [使用HTML](product-docs/marketo-sales-insight/actions/templates/using-html.md)
+            + [以其他用戶身份查看模板清單](product-docs/marketo-sales-insight/actions/templates/view-template-list-as-another-user.md)
       + 使用MSI {#using-msi}
          + [在Marketo記錄來自您的潛在客戶的入站郵件](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome插件 {#msi-chrome-plugin}
