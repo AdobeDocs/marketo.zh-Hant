@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '8382'
+source-wordcount: '8394'
 ht-degree: 0%
 
 ---
@@ -1263,6 +1263,7 @@ ht-degree: 0%
          + 分析 {#analytics}
             + [模板項目](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + 市場活動 {#campaigns}
+            + [添加到市場營銷活動](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [活動已結束](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Salesforce整合 {#salesforce-integration}
@@ -1299,6 +1300,7 @@ ht-degree: 0%
             + [Sales Insight操作如何處理電子郵件消除重複？](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
          + Marketo {#marketo}
             + [授予Marketo對用戶的訪問權限](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+            + [使市場活動對Sales Connect用戶可見](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + 人物 {#people}
             + [人員詳細資訊視圖](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight Actions和GDPR Compliance](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)

@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: 第2步（共3步） — 設定「Marketo解決方案」，使用伺服器到伺服器連接 — Marketo文檔 — 產品文檔
 title: 第2步（共3步） — 設定具有伺服器到伺服器連接的Marketo解決方案
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '589'
 ht-degree: 0%
 
 ---
@@ -64,10 +64,6 @@ ht-degree: 0%
 
 快到了！ 我們只剩下了通知Marketo解決方案部門有關新用戶建立的資訊。
 
->[!IMPORTANT]
->
->如果要從「基本身份驗證」升級到OAuth，則需要聯繫 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support) 的子菜單。 對預設同步用戶執行配置更改將暫時停止同步，直到輸入新憑據並重新啟用同步。 如果您要恢復到舊的身份驗證方法，Marketo支援可以禁用該功能（2022年4月之前）。
-
 1. 返回「高級設定」部分，然後按一下 ![](assets/image2015-5-13-15-3a49-3a19.png) 表徵圖，然後選擇 **Marketo配置**。
 
    ![](assets/fourteen.png)
@@ -99,6 +95,10 @@ ht-degree: 0%
 1. 按一下 **發佈所有自定義項** 按鈕
 
    ![](assets/nineteen.png)
+
+   >[!NOTE]
+   >
+   >如果要從「基本身份驗證」升級到OAuth，則可以使用 [這篇文章](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) 重新配置身份驗證。
 
 ## 繼續步驟3之前 {#before-proceeding-to-step}
 
