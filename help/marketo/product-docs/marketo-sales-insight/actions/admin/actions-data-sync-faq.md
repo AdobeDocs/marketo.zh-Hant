@@ -4,7 +4,7 @@ title: 操作資料同步常見問題
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 8ded6cac96f17c81a8d37cbe51c39ad565ac828e
+source-git-commit: 649bac859280bc4b83ce082684ad1e2d81dc3561
 workflow-type: tm+mt
 source-wordcount: '1044'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Sales Insight Actions的資料統一欄位同步使系統能夠將人員資訊�
 
 這可以在Sales Insight Actions Web應用中提供最新的人員資料，並允許系統為Marketo的相應人員記錄和Salesforce中的線索/聯繫人/帳戶/機會記錄收集唯一的ID，以便記錄可以被正確引用以記錄資料。
 
-可以從Marketo Engage的「管理」部分的「Sales Insight Actions Config」（Sales Insight操作配置）頁籤啟用此同步。 有關詳細資訊，請簽出 [啟動資料同步](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync)。
+可以從Marketo Engage的「管理」部分的「Sales Insight Actions Config」（Sales Insight操作配置）頁籤啟用此同步。 有關詳細資訊，請簽出 [啟動資料同步](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md#initiate-data-sync)。
 
 ![](assets/actions-data-sync-faq-1.png)
 
@@ -120,5 +120,5 @@ Sales Insight Actions允許管理員配置哪些銷售活動記錄到Salesforce�
 >* [Marketo取消訂閱支票](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Salesforce同步設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [提醒任務與Salesforce同步](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
->* [啟動資料同步](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync)
+>* [啟動資料同步](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md#initiate-data-sync)
 
