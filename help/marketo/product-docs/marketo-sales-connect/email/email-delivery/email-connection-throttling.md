@@ -1,87 +1,82 @@
 ---
-description: 電子郵件連線限制——行銷人員檔案——產品檔案
+description: 電子郵件連接限制 — Marketo文檔 — 產品文檔
 title: 電子郵件連接限制
-translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
+source-git-commit: 01748a560f41d5366862e75a3dd5349cf8b908bc
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
 
+# 電子郵件連接限制 {#email-connection-throttling}
 
-# 電子郵件連接調節{#email-connection-throttling}
+將您的Sales Connect帳戶整合到Exchange或Gmail電子郵件提供商中，可簡化設定並優化1:1銷售通信的電子郵件傳送能力。 然而，為了保持系統健康和賬戶安全，Gmail和Exchange強制實施電子郵件發送限制。 供應商可酌情決定增加或減少該等限額。
 
-整合您的Sales Connect帳戶，以透過Exchange或Gmail電子郵件提供者傳送，提供簡化的設定，並最佳化1:1銷售通訊的電子郵件傳送能力。 不過，為了保持系統健康和安全，Gmail和Exchange強制實施電子郵件發送限制。 供應商可自行決定增加或減少這些限制。
+## 電子郵件連接限制(Beta) {#email-connection-throttling-beta}
 
-## 電子郵件連接調節（測試版）{#email-connection-throttling-beta}
+電子郵件連接限制允許銷售連接管理員在將Gmail或Exchange用作您的傳遞渠道時配置電子郵件的發送速率，以便將電子郵件移交給傳遞渠道提供商的速率不超過強制限制。
 
->[!AVAILABILITY]
->
->此功能目前在測試版中。 若要加入此測試版，請連絡您的客戶成功經理。
+當持續超過限制時，有時會被視為來自傳遞渠道提供商的可疑行為，導致電子郵件失敗，有時甚至會禁用帳戶。
 
-Email Connection Throttling允許Sales Connect管理員在使用Gmail或Exchange作為您的傳送渠道時，設定電子郵件的傳送速率，以便將電子郵件傳送給傳送渠道供應商的速率不會超過強制限制。
+**注釋/亮點**
 
-當持續超過限制時，有時會被視為來自傳送渠道供應商的可疑行為，導致電子郵件失敗，有時甚至會停用帳戶。
+* 用戶連接到Gmail或Exchange後自動啟用
+* 如果希望根據建議增加或減少設定以滿足您的需要，可以自定義
+* 只限制通過Gmail或Exchange發送的電子郵件，不限制自定義傳遞渠道
+* 「電子郵件連接」限制將分別將每個用戶的電子郵件排隊，因為每個用戶都與其電子郵件提供商有各自的連接
 
-**附註／重點說明**
+**配置電子郵件連接限制設定**
 
-* 使用者連線至Gmail或Exchange時自動啟用
-* 如果您想要根據需求增加或減少建議的設定，可自訂
-* 只限制透過Gmail或Exchange傳送的電子郵件，不會限制自訂傳送管道
-* 「電子郵件連線」調節功能會將每位個別使用者的電子郵件分別排入佇列，因為每位使用者都與其電子郵件供應商有各自的連線
-
-**配置電子郵件連接調節設定**
-
-1. 按一下齒輪表徵圖並選擇「**設定**」。
+1. 按一下齒輪表徵圖並選擇 **設定**。
 
    ![](assets/email-connection-throttling-1.png)
 
-1. 按一下&#x200B;**常規**。
+1. 按一下 **常規**。
 
    ![](assets/email-connection-throttling-2.png)
 
-1. 在「電子郵件連線限制」卡中，輸入所要的電子郵件批次大小，這些電子郵件將傳送給電子郵件通路供應商。
+1. 在「電子郵件連接限制」卡中，輸入要發送到電子郵件渠道提供商的電子郵件批量大小。
 
    ![](assets/email-connection-throttling-3.png)
 
-1. 設定每個批發送前要等待的時間。 在此範例中，我們每45秒選擇25封電子郵件。
+1. 設定發送每個批之前等待的時間。 在此示例中，我們每45秒選擇25封電子郵件。
 
    ![](assets/email-connection-throttling-4.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下 **保存**。
 
    ![](assets/email-connection-throttling-5.png)
 
-在保存這些更改後，所有用戶將分批將電子郵件發送到其連接的Gmail或Exchange帳戶，以便發送。
+保存更改後，所有用戶都將其電子郵件批量發送到其連接的Gmail或Exchange帳戶以進行傳遞。
 
-## 電子郵件提供者限制{#email-provider-limits}
+## 電子郵件提供程式限制 {#email-provider-limits}
 
-**Outlook 365**
+**展望365**
 
-企業／企業
+企業/企業
 
 * 每天10,000
 * 每分鐘30人
-* 每封電子郵件有500位收件者
+* 每封電子郵件500個收件人
 
-如需詳細資訊[，請參閱](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits)。
+詳細資訊 [可在此處找到](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits)。
 
 **Gmail**
 
-* 每天2000人（500人適用於試用版和標幟帳戶）
+* 每天2000人（500人用於試用和標籤帳戶）
 * 每秒2封電子郵件（API限制）
-* 每封訊息2,000位收件者（外部收件者最多500位）
+* 每封郵件2,000個收件人（外部收件人最多500個）
 
-如需詳細資訊[，請參閱](https://support.google.com/a/answer/166852?hl=en)。
+詳細資訊 [可在此處找到](https://support.google.com/a/answer/166852?hl=en)。
 
-**Microsoft Exchange Server(2010、2013)**
+**MicrosoftExchange Server(2010、2013)**
 
-限制由組織的IT部門設定，因為伺服器由組織托管。 如需詳細資訊，請洽詢網路或系統管理員。
+限制由組織的IT部門設定，因為伺服器由組織托管。 如需其他資訊，請聯繫網路或系統管理員。
 
 >[!MORELIKETHIS]
 >
->* [傳送渠道概觀](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
->* [Gmail使用者的電子郵件連線](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [交付渠道概述](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
+>* [Gmail用戶的電子郵件連接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 >* [Outlook用戶的電子郵件連接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 
