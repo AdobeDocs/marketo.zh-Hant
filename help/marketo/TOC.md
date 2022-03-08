@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
+source-git-commit: 625f4bb873f3d06a977020ca108fc8962574ceac
 workflow-type: tm+mt
-source-wordcount: '8394'
+source-wordcount: '8396'
 ht-degree: 0%
 
 ---
@@ -1238,9 +1238,9 @@ ht-degree: 0%
             + [在動態欄位中引用自己](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo銷售洞察 {#marketo-sales-insight}
       + 操作 {#actions}
-         + [MSI操作功能概述](product-docs/marketo-sales-insight/actions/msi-actions-feature-overview.md)
+         + [Sales Insight操作功能概述](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + 入門 {#getting-started}
-            + [《 MSI操作用戶入門指南》](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
+            + [《 Sales Insight Actions User Onboarding Guide》](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [MSI操作管理指南](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
             + [更改您的Marketo銷售密碼](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + 電子郵件設定 {#email-settings}
