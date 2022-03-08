@@ -2,9 +2,9 @@
 description: 電子郵件連接限制 — Marketo文檔 — 產品文檔
 title: 電子郵件連接限制
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
-source-git-commit: 01748a560f41d5366862e75a3dd5349cf8b908bc
+source-git-commit: ad7b222c2da937474565729a09a559fbcd722280
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 將您的Sales Connect帳戶整合到Exchange或Gmail電子郵件提供商中，可簡化設定並優化1:1銷售通信的電子郵件傳送能力。 然而，為了保持系統健康和賬戶安全，Gmail和Exchange強制實施電子郵件發送限制。 供應商可酌情決定增加或減少該等限額。
 
-## 電子郵件連接限制(Beta) {#email-connection-throttling-beta}
+## 概述 {#overview}
 
 電子郵件連接限制允許銷售連接管理員在將Gmail或Exchange用作您的傳遞渠道時配置電子郵件的發送速率，以便將電子郵件移交給傳遞渠道提供商的速率不超過強制限制。
 
