@@ -3,7 +3,7 @@ unique-page-id: 2360213
 description: 編輯報告和警報中的連結過期 — Marketo文檔 — 產品文檔
 title: 編輯報表和警報中的連結過期
 exl-id: 9be08798-c413-451b-9b67-893042668061
-source-git-commit: 2db5e81e60e81c8039ba05ce385cf696bbc00854
+source-git-commit: 349309beb754ecd5fcfb26bbda67cda97cc4b29f
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -32,4 +32,4 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->此設定僅適用於報表中的連結( [下載報告](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) 連結)和警報。 它不適用於營銷電子郵件。
+>此設定僅適用於報表和警報中的連結。 是的 **不** 應用於通過電子郵件發送的 [下載報告](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) 連結或營銷電子郵件。
