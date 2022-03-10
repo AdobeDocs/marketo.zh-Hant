@@ -2,9 +2,9 @@
 description: 動態聊天概述 — Marketo文檔 — 產品文檔
 title: 動態聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: 59b0946cde42a19d802c136ea25dd8c1fe4437cd
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '552'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->訪問 [此頁](https://dcweb.z20.web.core.windows.net/) 查看教程視頻以及動態聊天的錄制演示。
+>訪問 [此頁](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) 查看動態聊天的教程視頻。
 
 ## 整合 {#integrations}
 
