@@ -2,9 +2,9 @@
 description: 概述 — Marketo文檔 — 產品文檔
 title: 概述
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
+source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '977'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ AdobeMarketo Engage訂閱登入AdobeIdentity Management系統支援各種配置�
  <tr>
   <td><strong>Adobe Admin Console產品管理</strong></td>
   <td>負責在Adobe Admin Console授權用戶購買Marketo Engage產品。 被授予在Adobe Admin Console的角色。</td>
+ </tr>
+ <tr>
+  <td><strong>Adobe Admin Console產品配置檔案管理</strong></td>
+  <td>管理分配給該管理員的產品配置檔案說明和所有相關管理功能。</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage產品管理</strong></td>
