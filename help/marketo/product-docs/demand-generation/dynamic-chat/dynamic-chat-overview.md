@@ -2,9 +2,9 @@
 description: 動態聊天概述 — Marketo文檔 — 產品文檔
 title: 動態聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 59b0946cde42a19d802c136ea25dd8c1fe4437cd
+source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '735'
 ht-degree: 0%
 
 ---
@@ -74,3 +74,71 @@ ht-degree: 0%
 **「動態聊天」除了提供英語以外，還提供任何語言嗎？**
 
 現在不行。
+
+## 動態聊天中的限制 {#limits-in-dynamic-chat}
+
+<table>
+  <th>參數</th>
+  <th>說明</th>
+  <th>限制</th>
+ <tr>
+  <td>對話框總數</td>
+  <td>對話總數（已發佈和草稿）</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>已發佈對話框</td>
+  <td>保存的已發佈對話框數</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>每個對話框的目標URL</td>
+  <td>可添加到單個對話框的目標URL數</td>
+  <td>20</td>
+ </tr>
+ <tr>
+  <td>每個對話框的屬性</td>
+  <td>可添加到單個對話框的受眾標準的屬性數</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>組</td>
+  <td>可添加到單個對話框的組數</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>每個組的屬性</td>
+  <td>可添加到組的屬性數</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>卡</td>
+  <td>每個對話框可添加到畫布的卡數</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>匿名潛在客戶資料保留期</td>
+  <td>匿名潛在顧客資訊將保留多長時間而不進行任何接洽</td>
+  <td>90天</td>
+ </tr>
+ <tr>
+  <td>目標活動保留期</td>
+  <td>保留時間目標活動資料的量</td>
+  <td>24個月</td>
+ </tr>
+ <tr>
+  <td>文檔活動保留期</td>
+  <td>保留文檔活動資料的時間量</td>
+  <td>24個月</td>
+ </tr>
+ <tr>
+  <td>對話框活動保留期</td>
+  <td>保留與對話活動資料交互的時間量</td>
+  <td>90天</td>
+ </tr>
+ <tr>
+  <td>會議預訂活動保留期</td>
+  <td>會議預訂活動的時間量將儲存在動態聊天中</td>
+  <td>24個月</td>
+ </tr>
+</table>
