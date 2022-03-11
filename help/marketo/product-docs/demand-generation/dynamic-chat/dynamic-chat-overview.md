@@ -2,9 +2,9 @@
 description: 動態聊天概述 — Marketo文檔 — 產品文檔
 title: 動態聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
+source-git-commit: f08c85f59113a91d3ce020a11199b7fc4ed58857
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,10 @@ ht-degree: 0%
 
 ## 常見問題 {#faq}
 
+**資料儲存多長時間用於報告？**
+
+90天(請參閱限制的完整清單 [下](#limits-in-dynamic-chat))。
+
 **動態聊天是否允許即時聊天？**
 
 不，它只利用預先確定的響應。
@@ -66,10 +70,6 @@ ht-degree: 0%
 **是否支援AI/NLP功能？**
 
 我們不支援AI/NLP功能。
-
-**資料儲存多長時間用於報告？**
-
-90天。
 
 **「動態聊天」除了提供英語以外，還提供任何語言嗎？**
 
