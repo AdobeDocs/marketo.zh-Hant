@@ -3,9 +3,10 @@ description: 添加到營銷活動 — Marketo文檔 — 產品文檔
 title: 添加到市場營銷活動
 hide: true
 hidefromtoc: true
-source-git-commit: 6b59150eaebcd4424d3e347cb2379b9111255e4f
+exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
+source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -24,23 +25,23 @@ ht-degree: 0%
 
 1. 按一下 **人物** 頁籤。
 
-PICC
+   ![](assets/add-to-marketing-campaign-1.png)
 
 1. 查找要添加的聯繫人。
 
-PICC
+   ![](assets/add-to-marketing-campaign-2.png)
 
-1. 按一下複選框以選擇您的聯繫人。
+1. 按一下複選框以選擇您的聯繫人，然後按一下 **將選定內容添加到市場活動**。
 
-PICC
+   ![](assets/add-to-marketing-campaign-3.png)
 
-1. 按一下 **將選定內容添加到市場活動**。
+1. 站到此處
 
-PICC
+   ![](assets/add-to-marketing-campaign-4.png)
 
 1. 由於您要添加到市場營銷活動，請跳過選擇「自」地址。 但是，您可以選擇添加更多聯繫人。 如果選擇，請按一下「個人」，然後在中鍵入它們。 按一下 **下一個** 完成。
 
-PICC
+   ![](assets/add-to-marketing-campaign-5.png)
 
 1. 按一下 **營銷活動**。
 
