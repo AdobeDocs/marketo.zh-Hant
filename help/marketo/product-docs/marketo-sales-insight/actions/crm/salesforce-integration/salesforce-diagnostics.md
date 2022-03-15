@@ -3,9 +3,9 @@ description: Salesforce診斷 — Marketo文檔 — 產品文檔
 title: Salesforce診斷
 hide: true
 hidefromtoc: true
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1445'
 ht-degree: 0%
 
 ---
@@ -131,7 +131,7 @@ ht-degree: 0%
 
 **錯誤：** INVALID_FIELD_FOR_INSERT_UPDATE\
 **類別：** 訪問/驗證\
-**消息：** 無法建立/更新欄位：ToutApp__Tout_Last_Rexpled_c。請檢查此欄位的安全設定。
+**消息：** 無法建立/更新欄位：MSE_Rexpled__c。請檢查此欄位的安全設定。
 **正在發生的事情：** 用戶沒有對執行最近活動日誌記錄事務所需的Sales Insight Actions自定義欄位的寫權限。 團隊可能已安裝包，但尚未為用戶啟用正確的欄位。\
 **故障排除步驟：** Salesforce管理員需要授予對自定義欄位的訪問權限或關閉最近活動日誌記錄。
 
