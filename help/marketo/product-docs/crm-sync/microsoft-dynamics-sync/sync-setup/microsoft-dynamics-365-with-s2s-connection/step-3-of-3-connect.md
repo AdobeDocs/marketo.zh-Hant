@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 第3步（共3步） — 將Marketo解決方案與伺服器連接 — Marketo文檔 — 產品文檔
 title: 第3步（共3步） — 將Marketo解決方案與伺服器連接連接
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
+source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ ht-degree: 0%
    >
    >請確保您的組織URL正確，因為我們無法在提交後還原後續架構更改。 如果使用的組織URL不正確，則必須獲得新的Marketo訂閱。 如果你不知道URL, [瞭解如何在此處查找](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
 
-1. 輸入 **用戶名**。 **密碼**。 **客戶端ID**。 **客戶端密碼**、Microsoft動力 **URL**。 按一下 **保存** 完成。
+1. 輸入Dynamics同步用戶資訊，然後按一下 **保存** 完成。
 
    ![](assets/step-3-of-3-connect-s2s-5.png)
 
