@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '8449'
+source-wordcount: '8456'
 ht-degree: 0%
 
 ---
@@ -1321,6 +1321,9 @@ ht-degree: 0%
                + [通過CSV導入聯繫人](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
                + [管理組](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [人員頁列](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
+         + 電話 {#phone}
+            + [啟用呼叫錄制](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
+            + [雙方同意設定](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
          + Salesforce配置 {#salesforce-configuration}
             + [Salesforce中的Sales Insight Actions配置](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
             + [卸載Salesforce經典自定義程式包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)

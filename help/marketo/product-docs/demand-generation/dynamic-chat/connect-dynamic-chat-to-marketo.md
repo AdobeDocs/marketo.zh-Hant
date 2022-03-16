@@ -2,9 +2,9 @@
 description: 將動態聊天連接到Marketo-Marketo文檔 — 產品文檔
 title: 將動態聊天連接到Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,18 @@ ht-degree: 0%
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
+1. 選擇最多50個標準或自定義欄位以同步到動態聊天。 按一下 **下一個** 完成。
+
+   ![](assets/connect-dynamic-chat-to-marketo-4.png)
+
+   >[!CAUTION]
+   >
+   >此時，屬性選擇 **不能** 在初始同步後更改。 完成同步後，您只能返回並添加更多內容（如果選擇的數量少於50）。
+
+1. 確保您有正確的選擇(提醒：無法在同步後刪除屬性，因此按一下 **編輯選擇** 如果需要更改此步驟中的任何內容)。 按一下 **確認** 完成啟動同步。
+
+   ![](assets/connect-dynamic-chat-to-marketo-5.png)
+
 >[!NOTE]
 >
 >同步可能需要2到24小時的任意時間完成，具體取決於資料庫的大小。
@@ -43,19 +55,19 @@ ht-degree: 0%
 
 1. 從首頁右下角複製組織ID, _減_ &quot;@AdobeOrg&quot;
 
-   ![](assets/connect-dynamic-chat-to-marketo-4.png)
+   ![](assets/connect-dynamic-chat-to-marketo-6.png)
 
 1. 在Marketo，轉到 **管理** 選擇 **Adobe組織映射**。
 
-   ![](assets/connect-dynamic-chat-to-marketo-5.png)
+   ![](assets/connect-dynamic-chat-to-marketo-7.png)
 
 1. 按一下 **編輯**。
 
-   ![](assets/connect-dynamic-chat-to-marketo-6.png)
+   ![](assets/connect-dynamic-chat-to-marketo-8.png)
 
 1. 貼上在步驟2中複製的組織ID並按一下 **確定**。
 
-   ![](assets/connect-dynamic-chat-to-marketo-7.png)
+   ![](assets/connect-dynamic-chat-to-marketo-9.png)
 
 >[!MORELIKETHIS]
 >

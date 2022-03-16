@@ -2,9 +2,9 @@
 description: 對話 — Marketo文檔 — 產品文檔
 title: 對話框
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/dialogues-2.png)
 
-1. 輸入名稱（說明為可選），設定優先順序，然後按一下 **保存**。
+1. 選擇空白對話框或預填充模板之一。 輸入名稱（說明為可選），更改優先順序（可選），然後按一下 **建立**。
 
    ![](assets/dialogues-3.png)
 
