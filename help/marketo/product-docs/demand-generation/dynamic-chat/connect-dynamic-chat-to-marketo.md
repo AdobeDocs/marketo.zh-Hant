@@ -2,9 +2,9 @@
 description: 將動態聊天連接到Marketo-Marketo文檔 — 產品文檔
 title: 將動態聊天連接到Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: 6658aa559890f2a0524eb0bb8207fbfae68f1753
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
-1. 選擇最多50個標準或自定義欄位以同步到動態聊天。 按一下 **下一個** 完成。
+1. 從您的Marketo實例中最多選擇50個標準或自定義欄位以同步到動態聊天，以用於受眾目標、資料映射和個性化。 按一下 **下一個** 完成。
 
    ![](assets/connect-dynamic-chat-to-marketo-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >此時，屬性選擇 **不能** 在初始同步後更改。 完成同步後，您只能返回並添加更多內容（如果選擇的數量少於50）。
 
-1. 確保您有正確的選擇(提醒：無法在同步後刪除屬性，因此按一下 **編輯選擇** 如果需要更改此步驟中的任何內容)。 按一下 **確認** 完成啟動同步。
+1. 複查您的選擇(提醒：無法在同步後刪除屬性，因此按一下 **編輯選擇** 如果需要更改此步驟中的任何內容)。 按一下 **確認** 完成啟動同步。
 
    ![](assets/connect-dynamic-chat-to-marketo-5.png)
 
