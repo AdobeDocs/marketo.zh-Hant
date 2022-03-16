@@ -2,9 +2,9 @@
 description: 建立流 — Marketo文檔 — 產品文檔
 title: 建立流
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: d2ac03bd01e1dd6998d47aac82383b64ffdd3ee7
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -110,7 +110,7 @@ ht-degree: 0%
 
    ![](assets/create-a-stream-17.png)
 
-1. 要預覽對話框，請按一下右側的預覽表徵圖。
+1. 選擇 **預覽** 切換以預覽對話框。
 
    ![](assets/create-a-stream-18.png)
 
