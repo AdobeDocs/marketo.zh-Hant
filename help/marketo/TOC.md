@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
 workflow-type: tm+mt
-source-wordcount: '8456'
+source-wordcount: '8458'
 ht-degree: 0%
 
 ---
@@ -1323,6 +1323,7 @@ ht-degree: 0%
                + [人員頁列](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + 電話 {#phone}
             + [啟用呼叫錄制](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
+            + [本地存在](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [雙方同意設定](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
          + Salesforce配置 {#salesforce-configuration}
             + [Salesforce中的Sales Insight Actions配置](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)

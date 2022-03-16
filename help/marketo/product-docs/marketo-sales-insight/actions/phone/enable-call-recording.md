@@ -3,9 +3,10 @@ description: 啟用呼叫錄音 — Marketo文檔 — 產品文檔
 title: 啟用呼叫錄制
 hide: true
 hidefromtoc: true
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
+source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
