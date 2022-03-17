@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
+source-git-commit: a0cfc190e00ea6f8a9f5ef717566651423638b7d
 workflow-type: tm+mt
-source-wordcount: '8458'
+source-wordcount: '8475'
 ht-degree: 0%
 
 ---
@@ -1312,6 +1312,9 @@ ht-degree: 0%
          + Marketo {#marketo}
             + [授予Marketo對用戶的訪問權限](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [使市場活動對Sales Connect用戶可見](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+            + [銷售活動觸發器和篩選器](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
+            + [Sales Insight操作活動辭彙表](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
+            + [設定您的Marketo連接](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
          + 人物 {#people}
             + [人員詳細資訊視圖](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight Actions和GDPR Compliance](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
@@ -1323,6 +1326,7 @@ ht-degree: 0%
                + [人員頁列](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + 電話 {#phone}
             + [啟用呼叫錄制](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
+            + [國際電話](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [本地存在](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [雙方同意設定](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
          + Salesforce配置 {#salesforce-configuration}
