@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: a0cfc190e00ea6f8a9f5ef717566651423638b7d
+source-git-commit: e42b1f7e32ab0b70a344cad17c3d25e9d8129124
 workflow-type: tm+mt
-source-wordcount: '8475'
+source-wordcount: '8573'
 ht-degree: 0%
 
 ---
@@ -1303,11 +1303,22 @@ ht-degree: 0%
                + [通過組電子郵件發送電子郵件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [在合成窗口中使用模板](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + 常見問題 {#faq}
+            + [是否可以恢復已刪除的聯繫人或組？](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [我是否可以使用抄送/密件抄送跟蹤多個收件人？](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+            + [內容和檔案附件常見問題](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
+            + [Sales Insight Actions是否有iPhone或Android應用？](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
+            + [如何允許在我的伺服器上列出Sales Insight操作？](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [在連接到Salesforce時，如何修復「我們無法驗證您的請求」？](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [我如何防止自我觀點？](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [位置跟蹤是如何工作的？](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
             + [Sales Insight操作如何處理電子郵件消除重複？](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
+            + [我被鎖在賬戶外。 我該怎麼辦？](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+            + [Sales Insight Actions是否與Salesforce Lightning相容？](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
+            + [什麼是最新客戶端版本？](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
+            + [什麼是Sales Insight Actions服務條款？](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
+            + [為什麼我的任何聯繫人都沒有被推至Sales Insight操作？](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [為什麼不能刪除聯繫人？](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
+            + [為什麼我的所有聯繫人都沒有被推至Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [為什麼跟蹤活動未在Salesforce活動中顯示？](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Marketo {#marketo}
             + [授予Marketo對用戶的訪問權限](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
