@@ -4,9 +4,9 @@ title: 授予Marketo對用戶的訪問權限
 hide: true
 hidefromtoc: true
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
-source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
+source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -49,4 +49,4 @@ ht-degree: 0%
 
    ![](assets/grant-marketo-access-to-users-6.png)
 
-您可以從「團隊管理」(Team Management)頁面添加更多用戶，然後按照上述步驟進行連接。
+您可以從「團隊管理」(Team Management)頁面添加其他用戶，然後按照上述步驟進行連接。
