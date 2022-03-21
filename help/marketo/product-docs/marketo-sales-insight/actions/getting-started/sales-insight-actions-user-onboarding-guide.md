@@ -1,10 +1,8 @@
 ---
 description: Sales Insight Actions用戶入門指南 — Marketo文檔 — 產品文檔
 title: 《 Sales Insight Actions User Onboarding Guide》
-hide: true
-hidefromtoc: true
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
-source-git-commit: d50176e43732a1ce827db46fa2d0fd630c129243
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 0%

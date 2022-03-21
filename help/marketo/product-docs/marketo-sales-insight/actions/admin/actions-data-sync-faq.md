@@ -1,10 +1,8 @@
 ---
 description: 操作資料同步常見問題 — Marketo文檔 — 產品文檔
 title: 操作資料同步常見問題
-hide: true
-hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 649bac859280bc4b83ce082684ad1e2d81dc3561
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '1044'
 ht-degree: 0%

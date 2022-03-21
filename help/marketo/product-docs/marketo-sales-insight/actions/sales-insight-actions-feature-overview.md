@@ -1,10 +1,8 @@
 ---
 description: Sales Insight Actions功能概述 — Marketo文檔 — 產品文檔
 title: Sales Insight操作功能概述
-hide: true
-hidefromtoc: true
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: d50176e43732a1ce827db46fa2d0fd630c129243
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 0%

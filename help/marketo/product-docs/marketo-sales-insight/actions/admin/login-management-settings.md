@@ -1,10 +1,8 @@
 ---
 description: 登錄管理設定 — Marketo文檔 — 產品文檔
 title: 登錄管理設定
-hide: true
-hidefromtoc: true
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
-source-git-commit: 984a6dbd19d88db942d9d10bde4880a79feabcc7
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
