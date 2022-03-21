@@ -2,9 +2,9 @@
 description: Sales Insight Actions功能概述 — Marketo文檔 — 產品文檔
 title: Sales Insight操作功能概述
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '1316'
+source-wordcount: '1336'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Sales Insight操作功能概述 {#msi-actions-feature-overview}
 
 使用Sales Insight Actions在單個工作流中使用市場營銷支援的智慧和參與工具來加快發現客戶的工作。
+
+>[!AVAILABILITY]
+>
+>此功能當前處於有限的正式啟動狀態。 請聯繫您的客戶成功經理或電子郵件 `sales-insights(at)adobe(dot)com` 請求訪問。
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -21,7 +25,7 @@ ht-degree: 0%
 
 * 發送銷售電子郵件
    * 銷售電子郵件具有查看、按一下和回復跟蹤（設定交付渠道時）
-   * 包括電子郵件個性化、自定義簽名和附件
+   * 包括電子郵件Personalization、自定義簽名和附件
    * 模板共用和報告
    * 團隊共用、群電子郵件和抄送/密件抄送功能
    * 銷售電子郵件活動將記錄在Marketo人員記錄中
