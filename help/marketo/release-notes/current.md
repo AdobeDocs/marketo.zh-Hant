@@ -2,9 +2,9 @@
 description: 當前發行說明 — Marketo文檔 — 產品文檔
 title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c3b03dd3662ccd470bdf6480df8e5b3a88d1ae3b
+source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '803'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 ## 跨通道業務流程 {#cross-channel-orchestration}
 
-* **動態聊天**:通過主動、有趣和1:1的個性化對話，將銷售線索和客戶作為目標，最大限度地利用您網站上的所有機會。 動態聊天使Marketo Engage用戶能夠開始利用聊天作為B2B營銷和銷售使用案例的整合跨渠道體驗的關鍵部分。 功能包括：直接在聊天中預訂會議、引導路由、入門模板、拖放對話建立等。 動態聊天包含在所有Marketo Engage包中，並將於今年向所有Marketo Engage用戶推出。
+* **動態聊天**:通過主動、有趣和1:1的個性化對話，將銷售線索和客戶作為目標，最大限度地利用您網站上的所有機會。 [動態聊天](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target=&quot;_blank&quot;}允許Marketo Engage用戶開始利用聊天作為B2B市場營銷和銷售使用案例的跨渠道整合體驗的關鍵部分。 功能包括：直接在聊天中預訂會議、引導路由、入門模板、拖放對話建立等。 動態聊天包含在所有Marketo Engage包中，並將於今年向所有Marketo Engage用戶推出。
 
-* **電子郵件Bot活動篩選增強**:作為對先前發佈的電子郵件Bot活動篩選功能的增強，您現在可以選擇登錄已標識為bot的日誌記錄活動。 然後，您可以根據已標識為由bot執行的活動來篩選和觸發操作。
+* **電子郵件Bot活動篩選增強**:作為對先前發佈的 [電子郵件Bot活動篩選](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}功能，您現在可以選擇登錄已標識為bot的日誌記錄活動。 然後，您可以根據已標識為由bot執行的活動來篩選和觸發操作。
 
 ## 新一代體驗 {#next-generation-experience}
 
@@ -54,6 +54,7 @@ ht-degree: 0%
 * **批量自定義對象導出已更新的At篩選器**:允許商家以寫程式方式同步自定義對象
 * **公開電子郵件程式的開頭設定**:允許營銷人員通過API配置具有提前啟動功能的電子郵件程式
 * **選擇性程式標籤更新**:使營銷人員能夠推送選擇性標籤更新，而無需同時推送所有標籤
+* **批量活動提取操作結果欄位**:允許營銷人員標識跳過或失敗的活動
 
 **_在整個季度發佈_**
 
