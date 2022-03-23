@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: 1f874dc388143db427c2792a7fe5755d682d6fa4
+source-git-commit: 2e9bedc9141e2a50899e0d7e3c8407ca5ed2a2f9
 workflow-type: tm+mt
-source-wordcount: '8609'
+source-wordcount: '8608'
 ht-degree: 0%
 
 ---
@@ -595,7 +595,7 @@ ht-degree: 0%
             + [對話框概述](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [建立對話框](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [受眾標準](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
-            + [建立流](product-docs/demand-generation/dynamic-chat/dialogues/create-a-stream.md)
+            + [流設計器](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
             + [報告](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + 事件 {#events}
          + 瞭解事件 {#understanding-events}
@@ -1796,7 +1796,7 @@ ht-degree: 0%
       + 網站重定目標 {#website-retargeting}
          + [facebook的個性化再營銷](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Google的個性化再營銷](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
-         + [使用WebPersonalization資料重定目標](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+         + [使用Web個性化資料重定目標](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + 使用Web活動 {#working-with-web-campaigns}
          + [ABTest您的Web活動](product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)
          + [將目標URL添加到Web市場活動](product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)
