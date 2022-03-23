@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: 2f86e4df7dec01ece6ef820674f84fd1ae8ebaf2
+source-git-commit: 1f874dc388143db427c2792a7fe5755d682d6fa4
 workflow-type: tm+mt
-source-wordcount: '8601'
+source-wordcount: '8609'
 ht-degree: 0%
 
 ---
@@ -591,8 +591,12 @@ ht-degree: 0%
          + [將動態聊天連接到Marketo](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
          + [添加或刪除聊天用戶](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [配置](product-docs/demand-generation/dynamic-chat/configuration.md)
-         + [對話框](product-docs/demand-generation/dynamic-chat/dialogues.md)
-         + [建立流](product-docs/demand-generation/dynamic-chat/create-a-stream.md)
+         + 對話框 {#dialogues}
+            + [對話框概述](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
+            + [建立對話框](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
+            + [受眾標準](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
+            + [建立流](product-docs/demand-generation/dynamic-chat/dialogues/create-a-stream.md)
+            + [報告](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + 事件 {#events}
          + 瞭解事件 {#understanding-events}
             + [向事件程式添加成員](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
@@ -1792,7 +1796,7 @@ ht-degree: 0%
       + 網站重定目標 {#website-retargeting}
          + [facebook的個性化再營銷](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Google的個性化再營銷](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
-         + [使用Web個性化資料重定目標](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+         + [使用WebPersonalization資料重定目標](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + 使用Web活動 {#working-with-web-campaigns}
          + [ABTest您的Web活動](product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)
          + [將目標URL添加到Web市場活動](product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)
