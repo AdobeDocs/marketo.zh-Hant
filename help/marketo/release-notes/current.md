@@ -2,9 +2,9 @@
 description: 當前發行說明 — Marketo文檔 — 產品文檔
 title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
+source-git-commit: c0699a888c6763f164e197395883c1c435fb782c
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,6 @@ ht-degree: 0%
 
 * **新一代體驗中的更新螢幕**:我們將提供新一代體驗中的更多刷新螢幕，提供可通過切換開關進行的更新設計和可用性增強：
 
-   * Design Studio中的「電子郵件清單」視圖（包括新的批量操作）
    * Design Studio中的「表單清單」視圖（包括新的批量操作）
 
 * **導入程式工作流更新**:導入程式工作流正在以新一代體驗提供，同時還更新了設計和可用性增強功能。 這將是自動更改，不使用切換開關。
