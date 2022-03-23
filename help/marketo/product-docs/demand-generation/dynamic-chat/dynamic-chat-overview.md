@@ -2,9 +2,9 @@
 description: 動態聊天概述 — Marketo文檔 — 產品文檔
 title: 動態聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: f08c85f59113a91d3ce020a11199b7fc4ed58857
+source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '744'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 對話框 {#dialogues}
 
-對話框代表單個聊天項目。 將它想像成一個容器，其中包含您需要的所有內容，以便與網站訪問者進行有趣的聊天對話。 在每個對話框中，可以指定希望對話框顯示在哪個頁面上，希望該對話框顯示到誰，以及該對話框本身的內容和流。 此外，您還可以找到度量，以查看對話框的效能。 [瞭解有關對話框的詳細資訊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md)。
+對話框代表單個聊天項目。 將它想像成一個容器，其中包含您需要的所有內容，以便與網站訪問者進行有趣的聊天對話。 在每個對話框中，可以指定希望對話框顯示在哪個頁面上，希望該對話框顯示到誰，以及該對話框本身的內容和流。 此外，您還可以找到度量，以查看對話框的效能。 [瞭解有關對話框的詳細資訊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}。
 
 ## 配置 {#configuration}
 
