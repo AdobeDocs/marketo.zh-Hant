@@ -1,10 +1,8 @@
 ---
 description: 用戶訪問詳細資訊 — Marketo文檔 — 產品文檔
 title: 用戶訪問詳細資訊
-hide: true
-hidefromtoc: true
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
-source-git-commit: 2f86e4df7dec01ece6ef820674f84fd1ae8ebaf2
+source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
