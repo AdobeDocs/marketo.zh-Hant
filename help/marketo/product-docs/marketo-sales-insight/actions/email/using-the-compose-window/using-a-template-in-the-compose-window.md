@@ -1,10 +1,8 @@
 ---
 description: 使用合成窗口中的模板 — Marketo文檔 — 產品文檔
 title: 在合成窗口中使用模板
-hide: true
-hidefromtoc: true
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
-source-git-commit: cb9d933f282070ee30b4b843a9f7b922b2faabcb
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%

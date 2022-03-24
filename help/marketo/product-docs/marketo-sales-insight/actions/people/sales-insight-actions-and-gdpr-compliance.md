@@ -1,11 +1,10 @@
 ---
 description: Sales Insight Actions和GDPR Compliance -Marketo文檔 — 產品文檔
 title: Sales Insight Actions和GDPR Compliance
-hide: true
-hidefromtoc: true
-source-git-commit: 95eef55e3bbf24f1511fcbb3091a5b657653d672
+exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
-source-wordcount: '1396'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

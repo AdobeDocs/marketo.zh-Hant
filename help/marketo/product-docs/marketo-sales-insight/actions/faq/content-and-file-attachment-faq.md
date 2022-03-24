@@ -1,9 +1,8 @@
 ---
 description: 內容和檔案附件常見問題 — Marketo文檔 — 產品文檔
 title: 內容和檔案附件常見問題
-hide: true
-hidefromtoc: true
-source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
+exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%

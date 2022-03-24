@@ -1,10 +1,8 @@
 ---
 description: Salesforce同步設定 — Marketo文檔 — 產品文檔
 title: Salesforce同步設定
-hide: true
-hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 0%

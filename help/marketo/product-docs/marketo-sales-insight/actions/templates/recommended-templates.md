@@ -1,9 +1,8 @@
 ---
 description: 推薦模板 — Marketo文檔 — 產品文檔
 title: 推薦模板
-hide: true
-hidefromtoc: true
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%

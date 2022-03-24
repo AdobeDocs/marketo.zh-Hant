@@ -1,9 +1,8 @@
 ---
 description: 為什麼跟蹤活動未在Salesforce活動中顯示？ -Marketo文檔 — 產品文檔
 title: 為什麼跟蹤活動未在Salesforce活動中顯示？
-hide: true
-hidefromtoc: true
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+exl-id: 119b41a2-b691-48f8-9399-efcd5b47d942
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%

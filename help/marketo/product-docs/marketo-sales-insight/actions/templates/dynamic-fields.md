@@ -1,11 +1,10 @@
 ---
 description: 動態欄位 — Marketo文檔 — 產品文檔
 title: 動態欄位
-hide: true
-hidefromtoc: true
-source-git-commit: a0b10255513c13b7100b667513e3e61fc3788a15
+exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

@@ -1,9 +1,8 @@
 ---
 description: 如何允許在我的伺服器上列出Sales Insight操作？ -Marketo文檔 — 產品文檔
 title: 如何允許在我的伺服器上列出Sales Insight操作？
-hide: true
-hidefromtoc: true
-source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
+exl-id: 55ec5552-d71c-4f86-a8c8-44d6d9cb2c0b
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%

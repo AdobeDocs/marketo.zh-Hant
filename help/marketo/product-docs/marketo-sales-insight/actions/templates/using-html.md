@@ -1,9 +1,8 @@
 ---
 description: 使用HTML-Marketo文檔 — 產品文檔
 title: 使用HTML
-hide: true
-hidefromtoc: true
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%

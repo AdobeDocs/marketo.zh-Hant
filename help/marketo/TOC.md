@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: 2e9bedc9141e2a50899e0d7e3c8407ca5ed2a2f9
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
-source-wordcount: '8608'
+source-wordcount: '8609'
 ht-degree: 0%
 
 ---
@@ -1279,7 +1279,7 @@ ht-degree: 0%
                + [文檔](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
             + Salesforce整合 {#salesforce-integration}
                + [配置Salesforce活動詳細資訊自定義](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
-               + [將您的Marketo銷售帳戶連接到Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
+               + [將您的Sales Insight Actions帳戶連接到Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
                + [從Sales Insight操作斷開Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [回復日誌記錄](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce診斷](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)

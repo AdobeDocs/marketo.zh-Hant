@@ -1,95 +1,93 @@
 ---
-description: 將附件或可追蹤內容新增至電子郵件 — Marketo檔案 — 產品檔案
-title: 將附件或可追蹤內容新增至電子郵件
-hide: true
-hidefromtoc: true
+description: 將附件或可跟蹤內容添加到您的電子郵件 — Marketo文檔 — 產品文檔
+title: 將附件或可跟蹤內容添加到電子郵件
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 將附件或可追蹤內容新增至電子郵件 {#add-an-attachment-or-trackable-content-to-your-email}
+# 將附件或可跟蹤內容添加到電子郵件 {#add-an-attachment-or-trackable-content-to-your-email}
 
-透過Marketo Sales傳送電子郵件時，您可以選擇新增檔案作為附件，或將檔案設為可下載（且可追蹤）的連結。
+通過Marketo銷售部發送電子郵件時，您可以選擇將檔案添加為附件，或將檔案設定為可下載（且可跟蹤）連結。
 
 >[!NOTE]
 >
->通常，超過20MB的任何檔案都太大，無法傳送。 您可以透過電子郵件傳送的附件大小，會依您使用的電子郵件傳送通道而有所不同。
+>通常，超過20MB的任何檔案都太大，無法傳送。 您可以通過電子郵件發送的附件的大小取決於您使用的電子郵件傳遞渠道。
 
-## 新增附件 {#add-an-attachment}
+## 添加附件 {#add-an-attachment}
 
-1. 建立電子郵件草稿(有多種方法可執行此作業，在此範例中，我們選擇 **撰寫** 中)。
+1. 建立您的電子郵件草稿(有多種方法可以執行此操作，在本示例中，我們選擇 **合成** )的正平方根。
 
    ![](assets/add-an-attachment-or-trackable-content-1.png)
 
-1. 填入「收件人」欄位並輸入主旨。
+1. 填寫「收件人」欄位並輸入主題。
 
    ![](assets/add-an-attachment-or-trackable-content-2.png)
 
-1. 按一下附件圖示。
+1. 按一下附件表徵圖。
 
    ![](assets/add-an-attachment-or-trackable-content-3.png)
 
-1. 選取要附加的檔案，然後按一下 **插入**.
+1. 選擇要附加的檔案，然後按一下 **插入**。
 
    ![](assets/add-an-attachment-or-trackable-content-4.png)
 
    >[!NOTE]
    >
-   >如果您需要上傳檔案，請按一下 **上傳內容** 按鈕。
+   >如果需要上載檔案，請按一下 **上載內容** 按鈕。
 
-   附件會顯示在您的電子郵件底部。
+   附件顯示在電子郵件的底部。
 
    ![](assets/add-an-attachment-or-trackable-content-5.png)
 
-## 新增可追蹤內容 {#add-trackable-content}
+## 添加可跟蹤內容 {#add-trackable-content}
 
-1. 建立您的電子郵件草稿（有多種方法可執行此作業，在此範例中，我們選擇「撰寫」視窗）。
+1. 建立電子郵件草稿（有多種方法可以執行此操作，在本示例中，我們選擇了「合成」窗口）。
 
    ![](assets/add-an-attachment-or-trackable-content-6.png)
 
-1. 填入「收件人」欄位並輸入主旨。
+1. 填寫「收件人」欄位並輸入主題。
 
    ![](assets/add-an-attachment-or-trackable-content-7.png)
 
-1. 按一下電子郵件中您希望可追蹤內容顯示的位置，然後按一下附件圖示。
+1. 按一下要顯示可跟蹤內容的電子郵件中的位置，然後按一下附件表徵圖。
 
    ![](assets/add-an-attachment-or-trackable-content-8.png)
 
-1. 選取要新增的內容，按一下 **內容已追蹤** 滑桿，然後按一下 **插入**.
+1. 選擇要添加的內容，按一下 **內容已跟蹤** 滑塊，然後按一下 **插入**。
 
    ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
-   >如果您需要上傳檔案，請按一下 **上傳內容** 按鈕。
+   >如果需要上載檔案，請按一下 **上載內容** 按鈕。
 
-   內容會以連結的形式顯示在電子郵件中。 收件者可以按一下連結來下載內容。
+   內容將作為電子郵件中的連結顯示。 收件人可以按一下該連結下載內容。
 
    ![](assets/add-an-attachment-or-trackable-content-10.png)
 
    >[!NOTE]
    >
-   >當使用者檢視其追蹤內容時，即時動態消息會通知使用者。 使用者也可以在Analytics頁面的內容區段中看到效能最高的內容。
+   >用戶在查看其跟蹤的內容時將在即時源中收到通知。 用戶還可以在分析頁的內容部分中看到效能最高的內容。
 
-## 可追蹤的內容更新 {#trackable-content-updates}
+## 可跟蹤的內容更新 {#trackable-content-updates}
 
-**可追蹤的內容檢視器**
+**可跟蹤的內容查看器**
 
-當銷售機會點按您電子郵件中的可追蹤內容時，會開啟內容檢視器。
+當潛在顧客按一下您電子郵件中可跟蹤的內容時，它將開啟內容查看器。
 
 ![](assets/add-an-attachment-or-trackable-content-11.png)
 
-在內容檢視器內，銷售機會可以執行下列動作。
+在內容查看器中，潛在用戶可以執行以下操作。
 
-* 下載檔案
+* 下載文檔
 
 ![](assets/add-an-attachment-or-trackable-content-12.png)
 
-* 翻頁
+* 在文檔中翻頁
 
 ![](assets/add-an-attachment-or-trackable-content-13.png)
 
@@ -97,10 +95,10 @@ ht-degree: 0%
 
 ![](assets/add-an-attachment-or-trackable-content-14.png)
 
-**即時摘要中可追蹤的內容事件**
+**即時源中可跟蹤的內容事件**
 
-當銷售機會點按我們檔案的連結時，您會看到點按事件。 您可以按一下該連結來檢視內容。 只要您已登入瀏覽器的「動作」帳戶，我們就不會將這些點按計為事件。
+當潛在顧客按一下我們文檔的連結時，您將看到按一下事件。 您可以按一下該連結查看內容。 只要您登錄到瀏覽器中的「操作」帳戶，我們就不會將這些按一下計為事件。
 
 ![](assets/add-an-attachment-or-trackable-content-15.png)
 
-每次銷售機會進入檔案上的其他頁面時，您就會在即時摘要中收到一個顯示檔案名稱的已檢視事件。
+每次潛在顧客進入文檔上的另一頁時，您都會在即時訂閱源中收到一個顯示文檔名稱的查看事件。
