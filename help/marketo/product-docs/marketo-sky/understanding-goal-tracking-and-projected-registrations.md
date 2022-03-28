@@ -3,7 +3,8 @@ description: 瞭解目標跟蹤和預計註冊 — Marketo文檔 — 產品文�
 title: 瞭解目標跟蹤和預計註冊
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 22d7ef98-2988-4188-99dd-5558a78492e3
+source-git-commit: b609a268f08a7eef47d32c77a054a7d120339186
 workflow-type: tm+mt
 source-wordcount: '986'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 瞭解目標跟蹤和預計註冊 {#understanding-goal-tracking-and-projected-registrations}
 
-之後 [設定事件目標](/help/marketo/product-docs/marketo-sky/setting-event-goals.md) 並通過 [智慧競選](/help/sky/create-a-smart-campaign.md)下面是如何追蹤你的目標進度，理解Marketo的預測。
+之後 [設定事件目標](/help/marketo/product-docs/marketo-sky/setting-event-goals.md) 並通過 [智慧競選](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)下面是如何追蹤你的目標進度，理解Marketo的預測。
 
 >[!NOTE]
 >
