@@ -79,6 +79,10 @@ https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales
 https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.html?lang=en,https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html?lang=en
 https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dialogues.html?lang=en,https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.html?lang=en
 https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/create-a-stream.html?lang=en,https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.html?lang=en
+<<<<<<< HEAD
+https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.html?lang=en,https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.html?lang=en
+https://experienceleague.adobe.com/docs/marketo/sky/home.html,https://experienceleague.adobe.com/docs/marketo/using/home.html
+=======
 https://experienceleague.adobe.com/docs/marketo/sky/home.html,https://experienceleague.adobe.com/docs/marketo/using/home.html
 https://experienceleague.adobe.com/docs/marketo/sky/getting-started/marketo-sky-features.html,https://experienceleague.adobe.com/docs/marketo/using/home.html
 https://experienceleague.adobe.com/docs/marketo/sky/getting-started/how-to-enable-roles-for-marketo-sky.html,https://experienceleague.adobe.com/docs/marketo/using/home.html
@@ -172,3 +176,4 @@ https://experienceleague.adobe.com/docs/marketo/sky/smart-lists-and-static-lists
 https://experienceleague.adobe.com/docs/marketo/sky/tree/configuring-the-tree.html,https://experienceleague.adobe.com/docs/marketo/using/home.html
 https://experienceleague.adobe.com/docs/marketo/sky/tree/understanding-icons-in-the-tree.html,https://experienceleague.adobe.com/docs/marketo/using/home.html
 https://experienceleague.adobe.com/docs/marketo/sky/tree/use-filters-to-sort-the-tree.html,https://experienceleague.adobe.com/docs/marketo/using/home.html
+>>>>>>> 0db921aab73b824fe66ce7aa2e48514a8d4237a2
