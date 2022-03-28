@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: 導入計畫 — Marketo文檔 — 產品文檔
 title: 導入程式
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: a64c499f6972e94adfecbe164d86f7db1b1447aa
+source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 1. 轉到 **市場營銷活動。**
 
-   ![](assets/ma.png)
+   ![](assets/import-a-program-1.png)
 
 1. 按一下 **新建** 下拉。 選擇 **導入程式**。
 
-   ![](assets/image2014-9-17-12-3a15-3a4.png)
+   ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
@@ -32,23 +32,23 @@ ht-degree: 0%
 
 1. 選擇Marketo **訂閱** 和導入程式。 按一下 **下一個**。
 
-   ![](assets/image2014-9-17-12-3a20-3a13.png)
+   ![](assets/import-a-program-3.png)
 
 1. 指定 **市場活動資料夾** 的下界。 按一下 **下一個。**
 
-   ![](assets/image2014-9-17-12-3a20-3a44.png)
+   ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
    >確保 **使用預設衝突** 選項。 將程式導入到具有相同名稱資產的實例時，需要衝突規則。
 
+1. 選擇所需的衝突詳細資訊，然後按一下 **下一個**。
+
+   ![](assets/import-a-program-5.png)
+
 1. 預覽詳細資訊和 **導入** 程式。
 
-   ![](assets/image2014-9-17-12-3a21-3a36.png)
-
-   對話框顯示程式導入進度。
-
-   ![](assets/image2014-9-17-12-3a21-3a51.png)
+   ![](assets/import-a-program-6.png)
 
 導入完成後，您將收到電子郵件確認。
 
@@ -67,7 +67,7 @@ Marketo計畫庫包含可導入訂閱的預構建、經測試的程式。 可用
 1. **有趣的時刻。** 為您的銷售團隊創造有趣的時刻，使其保持循環。
 1. **帶自動響應程式的登錄頁。** 使用可下載內容來吸引新人並培養他們。 包括登錄頁和表單。
 1. **生命週期2。** 使用評分將人員從符合市場營銷條件的新人員移動。
-1. **移動電子郵件模板。** 針對iPhone和Android測試的響應性電子郵件模板。 Android、MS Outlook、Exchange和Gmail和Yahoo！等第三方應用的某些版本 郵件移動應用不支援響應模板所需的CSS。 我們建議您在發送電子郵件之前test。
+1. **Mobile電子郵件模板。** 針對iPhone和Android測試的響應性電子郵件模板。 Android、MS Outlook、Exchange和Gmail和Yahoo！等第三方應用的某些版本 郵件移動應用不支援響應模板所需的CSS。 我們建議您在發送電子郵件之前test。
 1. **程式導入抽獎。** 為嘗試程式庫的人提供抽獎計畫！ 只需批准電子郵件和登錄頁並激活智慧活動即可。 然後查看已批准的登錄頁，填寫表單，您就已輸入！
 1. **銷售可用市場活動。** 為您的銷售代表提供了從CRM中的Dashboard執行Marketo智慧營銷活動的方法。
 1. **評分 — Spark版。** 在單個評分欄位中捕獲的人口統計和行為評分。 包括20多個與評分相關的活動。
