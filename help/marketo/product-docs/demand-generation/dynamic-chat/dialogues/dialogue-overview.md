@@ -2,7 +2,7 @@
 description: 對話框概述 — Marketo文檔 — 產品文檔
 title: 對話框概述
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 1f874dc388143db427c2792a7fe5755d682d6fa4
+source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -28,3 +28,5 @@ ht-degree: 0%
 ## 報告 {#reports}
 
 的 [報告](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)對話框的{target=&quot;_blank&quot;}部分將能夠查看有關對話框執行情況的度量。
+
+![](assets/dialogue-overview-3.png)
