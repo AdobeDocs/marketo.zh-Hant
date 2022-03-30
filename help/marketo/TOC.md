@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
 workflow-type: tm+mt
-source-wordcount: '8609'
+source-wordcount: '8616'
 ht-degree: 0%
 
 ---
@@ -1457,6 +1457,7 @@ ht-degree: 0%
          + [使用Marketo模板從Outlook發送和跟蹤](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
          + [指定MarketoSales Insight插件管理員](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
          + [升級您的MarketoOutlook電子郵件載入項](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
+      + [針對非本機MS Dynamics整合的Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
       + [針對非本地Salesforce整合的Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [啟用角色以進行Marketo Sky](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
@@ -1796,7 +1797,7 @@ ht-degree: 0%
       + 網站重定目標 {#website-retargeting}
          + [facebook的個性化再營銷](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Google的個性化再營銷](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
-         + [使用Web個性化資料重定目標](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+         + [使用WebPersonalization資料重定目標](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + 使用Web活動 {#working-with-web-campaigns}
          + [ABTest您的Web活動](product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)
          + [將目標URL添加到Web市場活動](product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)
