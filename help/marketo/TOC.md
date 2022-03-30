@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '8616'
+source-wordcount: '8637'
 ht-degree: 0%
 
 ---
@@ -1273,6 +1273,10 @@ ht-degree: 0%
          + 市場活動 {#campaigns}
             + [添加到市場營銷活動](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [活動已結束](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
+            + [建立銷售活動](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
+            + [銷售活動設定](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
+            + [電子郵件步驟的銷售活動發送選項](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
+            + [銷售活動步驟類型和提醒任務](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [以其他用戶身份查看市場活動清單](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Salesforce自定義 {#salesforce-customization}

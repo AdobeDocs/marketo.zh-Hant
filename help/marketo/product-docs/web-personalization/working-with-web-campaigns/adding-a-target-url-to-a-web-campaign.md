@@ -1,31 +1,30 @@
 ---
 unique-page-id: 6094879
-description: 新增目標URL至Web促銷活動——行銷人員檔案——產品檔案
-title: 新增目標URL至Web促銷活動
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: 將目標URL添加到Web活動 — Marketo文檔 — 產品文檔
+title: 將目標URL添加到Web市場活動
+exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
+# 將目標URL添加到Web市場活動 {#adding-a-target-url-to-a-web-campaign}
 
-# 新增目標URL至Web促銷活動{#adding-a-target-url-to-a-web-campaign}
+目標URL位於「設定市場活動」頁下，並定義Web市場活動將出現在的特定URL或URL。
 
-目標URL位於「設定促銷活動」頁面下方，並定義Web促銷活動將出現的特定URL或URL。
+## 為對話框或小部件Web市場活動添加目標URL {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-## 新增對話或介面工具集網頁促銷活動的目標URL {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
-
-1. 前往&#x200B;**Web促銷活動**。
+1. 轉到 **Web市場活動**。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. 選擇&#x200B;**建立新的Web促銷活動**。
+1. 選擇 **建立新Web市場活動**。
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. 新增&#x200B;**促銷活動名稱**。 選擇&#x200B;**目標區段**。 新增&#x200B;**目標URL**。
+1. 添加 **市場活動名稱**。 選擇 **目標段**。 添加 **目標URL**。
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -38,48 +37,48 @@ ht-degree: 0%
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>任何頁面</strong></td> 
-   <td colspan="1" rowspan="1"><p>允許促銷活動顯示在任何頁面上。</p></td> 
+   <td colspan="1" rowspan="1"><strong>任意頁</strong></td> 
+   <td colspan="1" rowspan="1"><p>允許市場活動顯示在任何頁面上。</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>相符時包含URL參數</strong></p></td> 
-   <td colspan="1" rowspan="1">新增URL參數，以比對並顯示包含此參數之URL上的促銷活動。 例如 campaign=cpc</td> 
+   <td colspan="1" rowspan="1"><p><strong>匹配時包括URL參數</strong></p></td> 
+   <td colspan="1" rowspan="1">添加URL參數以匹配和顯示包括此參數的URL上的市場活動。 例如 戰役</td> 
   </tr> 
  </tbody> 
 </table>
 
-## 將多個URL新增至目標URL {#adding-multiple-urls-to-target-url}
+## 向目標URL添加多個URL {#adding-multiple-urls-to-target-url}
 
-按一下加號表徵圖(![—](assets/image2015-2-18-8-3a40-3a59.png))將開啟「多值輸入」對話框以添加多個URL。 每行新增一個URL。
+按一下加號表徵圖(![—](assets/image2015-2-18-8-3a40-3a59.png))將開啟「多值項」對話框以添加多個URL。 每行添加一個URL。
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 
 >[!NOTE]
 >
->* 對話方塊和介面工具集網頁促銷活動可使用任何頁面和萬用字元(*)選項。
-* 在進階使用案例中，「在區域中」網頁促銷活動可在URL路徑結尾使用萬用字元。 範例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
+>* 對話框和小部件Web活動可以使用任何頁面和通配符(*)選項。
+* 在高級使用情形中，「區域中」Web活動可以在URL路徑末尾使用通配符。 示例： [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 * URL區分大小寫
 
 
-## 新增區域內Web促銷活動的目標URL {#adding-a-target-url-for-in-zone-web-campaigns}
+## 添加區域Web市場活動的目標URL {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. 前往&#x200B;**Web** **促銷活動**。
+1. 轉到 **Web** **市場活動**。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. 選擇&#x200B;**建立新的Web促銷活動**。
+1. 選擇 **建立新Web市場活動**。
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. 新增&#x200B;**促銷活動名稱**。 選擇&#x200B;**目標區段**。 新增&#x200B;**目標URL**。
+1. 添加 **市場活動名稱**。 選擇 **目標段**。 添加 **目標URL**。
 
    >[!NOTE]
-   「位於區域中」的目標URL必須定義特定URL或URL。 在進階使用案例中，「在區域中」網頁促銷活動可在URL路徑結尾使用萬用字元。 範例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
+   具有「在區域中」的目標URL必須定義特定URL或URL。 在高級使用情形中，「區域中」Web活動可以在URL路徑末尾使用通配符。 示例： [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
-* [建立對話方塊促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [在區域促銷活動中建立RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [建立RTP介面工具集促銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [建立對話市場活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [在區域市場活動中建立RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [建立RTP小部件市場活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 

@@ -3,9 +3,9 @@ description: 建立銷售活動 — Marketo文檔 — 產品文檔
 title: 建立銷售活動
 hide: true
 hidefromtoc: true
-source-git-commit: e1eaabc8fc943291b026ab8e9919e5705e5c9046
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* 瞭解銷售活動發送電子郵件步驟的發送選項
+>* [電子郵件步驟的銷售活動發送選項](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;
 >* [銷售活動步驟類型和提醒任務](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;
->* 銷售活動設定
+>* [銷售活動設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;
 

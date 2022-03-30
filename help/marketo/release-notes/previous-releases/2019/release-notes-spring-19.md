@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: 發行說明 — 2019年春季 — Marketo文檔 — 產品文檔
 title: 發行說明 — 2019年春季
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 * **等待列出：** 新程式/事件狀態，用於在您希望 [讓他們暫停](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 直到空缺開始。 這適用於與Marketo Classic的活動計畫相關的渠道，以及與Marketo Sky的網路研討會計畫相關的活動和活動。 預設情況下，Waitlisted的步驟值與Registered相同。
 * **[自定義通信限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**:管理員現在可以設定自定義的每日或每週通信限制。
-* **[智慧市場活動資產API](https://developers.marketo.com/rest-api/assets/campaigns/)**:通過按更新的日期和ID進行智慧活動記錄檢索，豐富了您在Marketo以外的分析。
+* **[智慧市場活動資產API](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**:通過按更新的日期和ID進行智慧活動記錄檢索，豐富了您在Marketo以外的分析。
 * **電子郵件的HTTPS跟蹤連結：** 對於已購買「用於跟蹤連結的安全域」的客戶，現在可以在電子郵件中以HTTPS的形式顯示標籤跟蹤連結。
 * **電子郵件可傳遞性PowerPack更新**:能夠標籤和評論特定test結果，通過URL與利益相關方共用結果，並跟蹤更改以在利益相關方編輯內容時查看電子郵件的演變。
 

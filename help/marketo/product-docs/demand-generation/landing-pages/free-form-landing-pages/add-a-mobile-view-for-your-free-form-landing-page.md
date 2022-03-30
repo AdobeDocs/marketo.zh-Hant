@@ -1,52 +1,51 @@
 ---
 unique-page-id: 4720856
-description: 為自由格式登陸頁面新增行動檢視——行銷人員檔案——產品檔案
-title: 為自由格式登陸頁面新增行動裝置檢視
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 為自由表單登錄頁添加Mobile視圖 — Marketo文檔 — 產品文檔
+title: 為自由表單登錄頁添加移動視圖
+exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
+# 為自由表單登錄頁添加移動視圖 {#add-a-mobile-view-for-your-free-form-landing-page}
 
-# 為自由格式登陸頁面新增行動檢視{#add-a-mobile-view-for-your-free-form-landing-page}
-
-在智慧型手機上，讓自由格式的登陸頁面看起來更棒，這很簡單。
+在智慧手機上，您的自由格式登錄頁看起來很美。
 
 >[!NOTE]
 >
->行動裝置檢視適用於寬度為480像素（或更低）的螢幕。 換句話說，智慧型手機。 以下是裝置解析度](https://mydevice.io/devices/)的更多資訊。[
+>移動視圖在寬480px（或更低）的螢幕上工作。 換句話說，智慧手機。 這裡還有 [設備解析度資訊](https://www.mydevice.io/)。
 
-1. 前往&#x200B;**行銷活動**。
+1. 轉到 **營銷活動**。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 選擇自由格式登陸頁面。
+1. 選擇自由格式登錄頁。
 
    ![](assets/choose-landing-page.jpg)
 
-1. 按一下「編輯草稿&#x200B;**」。**
+1. 按一下 **編輯草稿**。
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. 按一下&#x200B;**Mobile**&#x200B;頁籤。
+1. 按一下 **移動** 頁籤。
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
-1. 按一下&#x200B;**激活**。
+1. 按一下 **激活**。
 
    ![](assets/image2015-1-22-15-3a48-3a47.png)
 
    >[!CAUTION]
    >
-   >自由格式範本可能需要升級。 如果您看到該訊息，請快速閱讀有關如何讓現有的自由格式著陸頁面範本與行動相容的](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)。[
+   >可能需要升級自由表單模板。 如果您看到該消息，請快速閱讀有關如何 [使現有自由格式登錄頁模板可移動相容](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)。
 
-1. 太好了！ 您現在已啟動著陸頁面的行動版本。 按一下&#x200B;**關閉**。
+1. 太好了！ 您現在已激活登錄頁的移動版本。 按一下 **關閉**。
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
-   您現在可以自訂您的行動裝置檢視](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)。[
+   你現在可以 [自定義移動視圖](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)。
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)
