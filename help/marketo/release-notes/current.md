@@ -2,7 +2,7 @@
 description: 當前發行說明 — Marketo文檔 — 產品文檔
 title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
 workflow-type: tm+mt
 source-wordcount: '800'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 本機CRM整合 {#native-crm-integration}
 
-**本機Veeva CRM整合（有限可用性）**:通過本機整合在Veeva VRM和Marketo Engage之間同步活動，提高與醫療保健專業人員的接觸。 這一整合使營銷人員能夠為醫療保健專業人員創造更個性化和無縫的跨渠道體驗。 如果您有興趣參與，請與您的客戶成功經理聯繫。
+**本機Veeva CRM整合（有限可用性）**:通過本機整合在Veeva CRM和Marketo Engage之間同步活動，改善與醫療保健專業人員的接觸。 這一整合使營銷人員能夠為醫療保健專業人員創造更個性化和無縫的跨渠道體驗。 如果您有興趣參與，請與您的客戶成功經理聯繫。
 
 ## 跨通道業務流程 {#cross-channel-orchestration}
 
