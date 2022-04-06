@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
 workflow-type: tm+mt
-source-wordcount: '8637'
+source-wordcount: '8649'
 ht-degree: 0%
 
 ---
@@ -1406,11 +1406,13 @@ ht-degree: 0%
          + 配置 {#configuration}
             + [將批量操作按鈕添加到Salesforce經典](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [將「Marketo」頁籤添加到Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+            + [添加Sales Insight權限集](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
             + [Salesforce Lightning中的批量操作](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
             + [在Salesforce Enterprise/Unlimited中配置MarketoSales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [在Salesforce專業版中配置MarketoSales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [現有客戶的配置](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [MarketoSales Insight配置頁籤（在Salesforce中）](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [刪除Sales Insight訪問](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
             + [Marketo管理員的Sales Insight頁](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [為團隊設定Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + 功能 {#features}
@@ -1801,7 +1803,7 @@ ht-degree: 0%
       + 網站重定目標 {#website-retargeting}
          + [facebook的個性化再營銷](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Google的個性化再營銷](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
-         + [使用WebPersonalization資料重定目標](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+         + [使用Web個性化資料重定目標](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + 使用Web活動 {#working-with-web-campaigns}
          + [ABTest您的Web活動](product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)
          + [將目標URL添加到Web市場活動](product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)
@@ -1831,8 +1833,9 @@ ht-degree: 0%
    + 以前版本 {#previous-releases}
       + 2022 {#2022}
          + [發行說明：2022年1月](release-notes/previous-releases/2022/release-notes-jan-22.md)
+         + [發行說明：2022年3月](release-notes/previous-releases/2022/release-notes-mar-22.md)
       + 2021 {#2021}
-         + [發行說明：2001年1月](release-notes/previous-releases/2021/release-notes-jan-21.md)
+         + [發行說明：2021年1月](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [發行說明：2021年5月](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [發行說明：2021年8月](release-notes/previous-releases/2021/release-notes-aug-21.md)
          + [發行說明：1921年10月](release-notes/previous-releases/2021/release-notes-oct-21.md)
