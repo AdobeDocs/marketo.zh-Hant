@@ -1,12 +1,10 @@
 ---
 description: 流程步驟服務 — Marketo文檔 — 產品文檔
 title: 流步驟服務
-hide: true
-hidefromtoc: true
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 99ad4c68b8ab635f6eb6f7f0f53cb67ee3efc51c
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
-source-wordcount: '1325'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,17 +13,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此預發行功能目前僅適用於註冊在自助流程步驟測試計畫中的帳戶。
+>自助服務流步驟當前處於開放測試版中。 您可以在「管理員」>「財寶箱」菜單中為訂閱啟用它。
 
-自助流步驟是一個框架和一組功能，用於創作、發佈和將Web服務整合到AdobeMarketo Engage智慧市場活動中。 本指南適用於Marketo Engage希望安裝和使用已建立和發佈的服務的最終用戶。 有關創作和發佈您自己的服務的資訊，請參閱 [服務提供商介面的GitHub儲存庫](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface)。 可以找到概念驗證查找表實現 [這裡](https://github.com/adobe/mkto-flow-lookup)。
+自助流步驟是一個框架和一組功能，用於創作、發佈和將Web服務整合到AdobeMarketo Engage智慧市場活動中。 本指南適用於Marketo Engage希望安裝和使用已建立和發佈的服務的最終用戶。 有關創作和發佈您自己的服務的資訊，請參閱 [服務提供商介面的GitHub儲存庫](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}。 可以找到概念驗證查找表實現 [這裡](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}。
 
 ## 預發佈限制和警告 {#pre-release-restrictions-and-warnings}
 
-此功能當前處於關閉的beta中，並且對使用有一些限制。
-
-* 此功能只能用於Marketo Engage的沙盒實例
-* 自2021年第4季度發佈以來，自定義和第三方流程步驟與可執行市場活動不相容。 該計畫於2022年第二季度修復
-* Marketo SkyUI在啟用此功能的實例上根本不應使用
+此功能當前處於開放測試版中，只應用於Marketo Engage的沙盒實例，直到您的服務經過完全測試。
 
 ## 登記和管理服務 {#onboarding-and-managing-services}
 

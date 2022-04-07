@@ -1,105 +1,104 @@
 ---
 unique-page-id: 10096675
-description: 建立子促銷活動和本機資產——行銷檔案——產品檔案
-title: 建立子促銷活動和本機資產
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: 建立子市場活動和本地資產 — Marketo文檔 — 產品文檔
+title: 建立子市場活動和本地資產
+exl-id: 272105e1-43d6-455c-a533-aae65e859384
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
-source-wordcount: '667'
-ht-degree: 0%
+source-wordcount: '668'
+ht-degree: 1%
 
 ---
 
+# 建立子市場活動和本地資產 {#create-child-campaigns-and-local-assets}
 
-# 建立子促銷活動和本機資產{#create-child-campaigns-and-local-assets}
+使用Design Studio建立子市場活動和本地資產。
 
-使用Design Studio建立您的子促銷活動和本機資產。
+## 登錄頁和窗體 {#landing-page-and-form}
 
-## 著陸頁面和表單{#landing-page-and-form}
-
-為確保人員已正確註冊ON24，您的行銷表單中必須包含下列欄位：
+為確保人員在ON24中正確註冊，您的Marketo表格中必須包含以下欄位：
 
 * 名字
 * 姓氏
 * 電子郵件地址
 
-您也可以將下列欄位推送至ON24:
+也可將以下欄位推入ON24:
 
 * 公司名稱
 * 職稱
 
-在註冊促銷活動中加入適當的流程步驟後，人們就會被推送至ON24並標示為已註冊。 您可以新增其他欄位至表單，資訊將會在Marketo中擷取為人員詳細資料記錄的一部分。
+在註冊活動中添加適當的流程步驟，將人員推至ON24並標籤為註冊。 您可以向表單中添加其他欄位，資訊將作為人員詳細資訊記錄的一部分在Marketo捕獲。
 
 >[!CAUTION]
 >
->若要成功整合，您必須使用Marketo表單來註冊您的人員參加活動，或使用適當的API整合來建立非Marketo表單，以將註冊資料推送至Marketo。
+>要成功整合，您必須使用Marketo表單為活動註冊人員，或使用適當的API整合將註冊資料推送到Marketo的非Marketo表單。
 
-## 電子郵件和URL Token {#emails-and-url-tokens}
+## 電子郵件和URL令牌 {#emails-and-url-tokens}
 
-使用Marketo建立邀請、確認、追蹤及感謝電子郵件。
+使用Marketo建立邀請、確認、後續和感謝電子郵件。
 
-## 行銷人員確認電子郵件和URL Token {#marketo-confirmation-email-and-url-token}
+## Marketo確認電子郵件和URL令牌 {#marketo-confirmation-email-and-url-token}
 
-使用Market來傳送您活動的確認電子郵件。 當某人註冊時，他或她會收到用來輸入事件的唯一URL。
+使用Marketo發送活動確認電子郵件。 當人員註冊時，他或她收到用於輸入事件的唯一URL。
 
 >[!NOTE]
 >
->若要以此唯一URL填入確認電子郵件，請在電子郵件中使用下列Token:`{{member.webinar url}}`。 當您傳送確認URL時，此Token會自動解析為該人員的唯一確認URL。
+>要使用此唯一URL填充確認電子郵件，請在電子郵件中使用以下標籤： `{{member.webinar url}}`。 當您發送確認URL時，此標籤將自動解析為該人的唯一確認URL。
 >
->將您的確認電子郵件類型設為&#x200B;**Operational**，以確保註冊者會收到其確認資訊，即使他們已取消訂閱亦然。
+>將確認電子郵件的類型設定為 **操作** 確保註冊人收到確認資訊，即使他們未獲得訂閱。
 
 >[!TIP]
 >
->您可以設定ON24來傳送確認、提醒或追蹤電子郵件。 如需詳細資訊，請參閱[ON24說明網站](https://webcastelitehelp.on24.com)。
+>您可以配置ON24以發送確認、提醒或後續電子郵件。 查看 [ON24幫助站點](https://www.on24.com/live-webcast-elite/) 的子菜單。
 
-## 註冊子促銷活動要求{#registration-child-campaign-requirements}
+## 註冊子市場活動要求 {#registration-child-campaign-requirements}
 
-事件包含一或多個子促銷活動，這些促銷活動都可搭配運作，讓使用者在程式狀態間移動，並讓您追蹤事件的效能。
+事件包含一個或多個子市場活動，所有這些活動都一起工作，以便將人員通過計畫狀態轉移，並讓您跟蹤事件的績效。
 
-子促銷活動的範例包括邀請促銷活動、註冊促銷活動和後續促銷活動。
-
->[!CAUTION]
->
->要使適配器完成其工作，您必須建立註冊促銷活動。 此促銷活動必須由填寫表單的人員觸發，而第一個步驟必須將人員的程式狀態變更為&#x200B;**Registered**。 然後，促銷活動會傳送確認電子郵件。 如需詳細資訊，請參閱本文的其餘部分。
-
-**註冊／確認（觸發促銷活動）**
-
-* 智慧型清單
-* 根據&#x200B;**填寫表單**&#x200B;觸發。 請務必使用&#x200B;**新增約束**&#x200B;加入表單所在的著陸頁面，尤其是當多個著陸頁面使用相同的表單時。
+子市場活動的示例包括邀請市場活動、註冊市場活動和後續市場活動。
 
 >[!CAUTION]
 >
->您必須使用Marketor表單來註冊您的人員參加活動，或使用適當的API整合來註冊非Marketor表單，以將註冊資料推送至Marketo。 這對於活動合作夥伴整合的成功至關重要。
+>要使適配器完成其工作，必須建立註冊市場活動。 此市場活動必須由填寫表單的人員觸發，並且第一步必須將人員的方案狀態更改為 **已註冊**。 然後，市場活動會發送確認電子郵件。 有關詳細資訊，請參閱本文的其餘部分。
+
+**註冊/確認（觸發市場活動）**
+
+* 智慧清單
+* 基於 **填出窗體**。 請確保包括表單使用時使用的登錄頁 **添加約束**，尤其是當多個登錄頁使用相同的窗體時。
+
+>[!CAUTION]
+>
+>您必須使用Marketo表單為活動註冊人員，或使用適當的API整合的非Marketo表單將註冊資料推送到Marketo。 這對於您的活動合作夥伴整合的成功至關重要。
 
 >[!NOTE]
 >
->如果您在非Marketo登陸頁面上使用Marketo表單，則觸發器會是&#x200B;**使用表單名稱填寫表單**。
+>如果您在非Marketo登錄頁上使用Marketo表格，您的觸發器 **填寫窗體** 的下界。
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
-**流量**
+**流**
 
-* **更改計畫狀態** -設定為網路研討會->註冊。
+* **更改程式狀態**  — 設定為網路研討會 — >已註冊。
 
-設定子促銷活動時，此流量步驟是FIRST FLOW STEP的必要步驟。 當某人的計畫狀態變更為「已註冊」時，Marketo會將註冊資訊推送至ON24。 沒有其他狀態會把人推倒。
+在設定子市場活動時，此流步驟作為「第一流步驟」是必需的。 當某人的程式狀態變為「已註冊」時，Marketo將註冊資訊推送到ON24。 沒有其他狀態會把人推倒。
 
-* **傳送電子郵件** -確認電子郵件。將此電子郵件設為&#x200B;**Operational**，讓已註冊的未訂閱者仍然會收到。
+* **發送電子郵件**  — 確認電子郵件。 將此電子郵件設定為 **操作** 讓那些註冊的未註冊人仍然能收到。
 
-**傳送電子郵件**&#x200B;流程步驟必須是第二個步驟。 確認電子郵件包含`{{member.webinar url}}`，其中填入從ON24傳回至Marketo的資訊。
+的 **發送電子郵件** 流步驟MUST是第二步。 確認電子郵件包含 `{{member.webinar url}}`，其中填充了從ON24發回Marketo的資訊。
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->這些流程步驟的順序很重要，因為Marketo中執行動作的順序。 **更改程式狀態**&#x200B;步驟將該人發送到ON24進行註冊並生成唯一URL。 發生此情況後，您就可以使用`{{member.webinar URL}}`代號傳送包含此唯一URL的確認電子郵件。
+>這些流步驟的順序很重要，因為在Marketo執行操作的順序。 的 **更改程式狀態** 步驟將人員發送到ON24進行註冊，並生成唯一URL。 在發生此情況後，您可以使用 `{{member.webinar URL}}` 標籤。
 >
->如果傳回的人員發生註冊錯誤，他們將不會收到電子郵件確認。
+>如果返回人員時出現註冊錯誤，則他們將不會收到電子郵件確認。
 
-下一步是[測試您的ON24事件整合](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)。
+下一步是 [test您的ON24事件整合](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)。
 
 >[!MORELIKETHIS]
 >
->* [瞭解Marketo ON24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
->* [ON24事件整合範例](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+>* [瞭解MarketoON24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>* [ON24事件整合示例](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
 >* [瞭解網路研討會計畫狀態](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 
