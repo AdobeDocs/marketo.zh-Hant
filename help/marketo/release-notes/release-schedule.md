@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: 發佈計畫 — Marketo文檔 — 產品文檔
 title: 發佈計畫
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 07d141c67ac12f865397f6ff926accd8835ad368
+source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '135'
 ht-degree: 1%
 
 ---
@@ -42,14 +42,14 @@ _發放日期可能更改_
    <td>已發運</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">2022年3月</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-mar-22.md">2022年3月</a></td>
    <td>2022年3月11日</td>
-   <td>正在進行</td>
+   <td>已發運</td>
   </tr>
   <tr> 
-   <td>2022年5月</td>
+   <td><a href="/help/marketo/release-notes/current.md">2022年5月</a></td>
    <td>2022年5月6日</td>
-   <td>按計畫</td>
+   <td>正在進行</td>
   </tr>
   <tr> 
    <td>2022年6月</td>
