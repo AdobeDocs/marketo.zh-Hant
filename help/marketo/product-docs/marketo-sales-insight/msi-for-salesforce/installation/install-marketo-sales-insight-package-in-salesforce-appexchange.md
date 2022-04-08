@@ -3,9 +3,9 @@ unique-page-id: 7516390
 description: 在SalesforceAppExchange中安裝MarketoSales Insight軟體包 — Marketo文檔 — 產品文檔
 title: 在SalesforceAppExchange中安裝MarketoSales Insight軟體包
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -78,5 +78,5 @@ ht-degree: 0%
 >
 >* [在Salesforce專業版中配置MarketoSales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >* [在Salesforce Enterprise/Unlimited中配置MarketoSales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
->* [為團隊設定Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+>* [將Sales Insight訪問權添加到配置檔案](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;
 

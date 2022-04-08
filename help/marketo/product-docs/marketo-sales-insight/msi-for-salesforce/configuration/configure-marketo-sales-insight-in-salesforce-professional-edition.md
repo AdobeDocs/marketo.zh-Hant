@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: 在Salesforce專業版中配置Marketo銷售洞察力 — Marketo文檔 — 產品文檔
 title: 在Salesforce專業版中配置MarketoSales Insight
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: 84ac037a041398bdb1a056c3ab2fcf0d516f0097
+source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '902'
 ht-degree: 0%
 
 ---
@@ -304,5 +304,5 @@ Marketo人員欄位需要映射到Salesforce聯繫人欄位，以確保轉換正
 >
 >* [優先順序、緊急性、相對分數和最佳匹配](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
 >* [將「Marketo」頁籤添加到Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
->* [為團隊設定Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+>* [將Sales Insight訪問權添加到配置檔案](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;
 

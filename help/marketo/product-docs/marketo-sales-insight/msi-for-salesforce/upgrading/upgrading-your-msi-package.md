@@ -1,32 +1,31 @@
 ---
 unique-page-id: 37357050
-description: 升級您的MSI套件——行銷人員檔案——產品檔案
-title: 升級您的MSI套件
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+description: 升級MSI包 — Marketo文檔 — 產品文檔
+title: 升級MSI包
+exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
+source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
+# 升級MSI包 {#upgrading-your-msi-package}
 
-# 升級您的MSI包{#upgrading-your-msi-package}
+1. 導航到 [此頁面在appexchange中](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target=&quot;_blank&quot;}。
 
-1. 導覽至appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)中的[此頁面。
+1. 從步驟一頁的右上角登錄到Salesforce實例(連接到Marketo實例的實例可以是沙箱或生產)。 您必須具有管理員權限才能在Salesforce中安裝/升級托管包。
 
-1. 從步驟一的頁面右上角登入您的Salesforce例項（連線至您Marketo例項的例項可以是沙盒或生產）。 您必須擁有管理員權限，才能在Salesforce中安裝／升級受管理的套件。
-
-1. 按一下&#x200B;**立即獲取**&#x200B;按鈕。 系統會要求您選擇要安裝的位置。 由於您已有舊版MSI，因此您將可選擇升級。 根據您在步驟一中登入的帳戶選擇選項。
+1. 按一下 **立即獲取** 按鈕 系統將要求您選擇要安裝的位置。 您將獲得升級選項，因為您已擁有以前版本的MSI。 根據您在步驟一期間登錄的帳戶選擇選項。
 
    >[!TIP]
    >
-   >建議您在升級生產執行個體之前，先在沙盒執行個體上進行測試。
+   >建議您在升級生產實例之前在沙盒實例上test此項。
 
-1. 您可以選擇「僅限管理員安裝」（並稍後提供特定設定檔的MSI存取權）、「針對所有使用者安裝」或「針對特定設定檔安裝」來升級套件。 在此範例中，我們選擇「僅限管理員」。 選擇後，按一下&#x200B;**Upgrade**。
+1. 您可以通過選擇「僅安裝管理員」（並稍後提供對特定配置式的MSI訪問）、「為所有用戶安裝」或「為特定配置式安裝」來升級包。 在此示例中，我們選擇「僅管理員」。 選擇後，按一下 **升級**。
 
    ![](assets/four.png)
 
 >[!NOTE]
 >
->建議您僅更新管理員的套件，然後[根據購買的MSI授權數目，提供特定使用者的存取權。 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)或者，您也可以為MSI使用者建立特定的Salesforce設定檔，並僅為這些使用者安裝或升級套件。
+>建議您僅更新管理員的包，然後 [提供對特定用戶的訪問](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}，基於購買的MSI座位數。 或者，您可以為MSI用戶建立特定的Salesforce配置檔案，並僅為這些用戶安裝或升級包。
