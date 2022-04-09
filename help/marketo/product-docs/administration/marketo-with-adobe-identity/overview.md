@@ -2,9 +2,9 @@
 description: 概述 — Marketo文檔 — 產品文檔
 title: 概述
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
+source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '1016'
 ht-degree: 0%
 
 ---
@@ -77,6 +77,10 @@ AdobeIdentity Management系統由三部分組成。
 **如果我們與IMS整合，我們將聯繫誰以獲得支援？**
 
 您將按照標準程式聯繫 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
+
+**如果我使用Adobe標識訪問其他Adobe應用程式，我是否可以使用它訪問Marketo?**
+
+即使您有其他Adobe產品，在將訂閱遷移到IMS之前，您也無法使用Adobe標識訪問Marketo。
 
 **Marketo用戶角色（在工作區內）是否在Adobe Admin Console管理？**
 
