@@ -2,9 +2,9 @@
 description: 刪除Sales Insight Access -Marketo文檔 — 產品文檔
 title: 刪除Sales Insight訪問
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -68,8 +68,8 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-* Apex類訪問：159個帶有&quot;mkto_si&quot;的頂點類
-* VisualForce頁面訪問：64使用&quot;mkto_si&quot;的VisualForce頁面
+* Apex類訪問：以&quot;mkto_si&quot;開頭的159個頂點類
+* VisualForce頁面訪問：64以&quot;mkto_si&quot;開頭的Visualforce頁面
 * 自定義設定定義：mkto_si.Marketo設定和mkto_si.用戶首選項
 
 ## 刪除對Sales Insight的訪問 {#removing-access-to-sales-insight}

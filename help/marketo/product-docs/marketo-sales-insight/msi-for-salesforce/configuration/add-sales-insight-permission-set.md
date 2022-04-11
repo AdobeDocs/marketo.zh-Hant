@@ -2,7 +2,7 @@
 description: 添加Sales Insight權限集 — Marketo文檔 — 產品文檔
 title: 添加Sales Insight權限集
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
-source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
@@ -76,8 +76,8 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-* Apex類訪問：159個帶有&quot;mkto_si&quot;的頂點類
-* VisualForce頁面訪問：64使用&quot;mkto_si&quot;的VisualForce頁面
+* Apex類訪問：以&quot;mkto_si&quot;開頭的159個頂點類
+* VisualForce頁面訪問：64以&quot;mkto_si&quot;開頭的Visualforce頁面
 * 自定義設定定義：mkto_si.Marketo設定和mkto_si.用戶首選項
 
 ## 將Marketo應用權限集添加到用戶 {#adding-marketo-app-permission-set-to-users}
