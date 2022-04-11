@@ -3,7 +3,7 @@ unique-page-id: 13796475
 description: 人員詳細資訊視圖 — Marketo文檔 — 產品文檔
 title: 人員詳細資訊視圖
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
-source-git-commit: e1b0e19dc292d867bc9639177592681fb9e8866d
+source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 1. 要訪問人員詳細資訊視圖，請按一下 **人物** 頁籤。
 
-   ![](assets/people-tab.png)
+   ![](assets/person-detail-view-1.png)
 
 1. 按一下所需人員。
 
-   ![](assets/select-contact.png)
+   ![](assets/person-detail-view-2.png)
 
    >[!TIP]
    >
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 包括此人的所有聯繫資訊。
 
-![](assets/about.jpg)
+![](assets/person-detail-view-3.png)
 
 **聯繫卡**
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 瞭解此人如何參與您的外聯活動。
 
-![](assets/engagement.jpg)
+![](assets/person-detail-view-4.png)
 
 **銷售連接活動**
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 顯示您的外聯歷史記錄。 包括電子郵件、活動和呼叫。
 
-![](assets/history.jpg)
+![](assets/person-detail-view-5.png)
 
 **銷售活動**
 
@@ -95,7 +95,7 @@ ht-degree: 0%
 
 管理與此人關聯的任務。
 
-![](assets/tasks.jpg)
+![](assets/person-detail-view-6.png)
 
 您可以執行的操作：
 

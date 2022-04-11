@@ -1,22 +1,22 @@
 ---
 unique-page-id: 14352621
-description: 瞭解發送選項 — Marketo文檔 — 產品文檔
-title: 瞭解發送選項
+description: 瞭解銷售活動發送電子郵件步驟選項 — Marketo文檔 — 產品文檔
+title: 瞭解銷售活動發送電子郵件步驟的發送選項
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
 
-# 瞭解發送選項 {#understanding-send-options}
+# 瞭解銷售活動發送電子郵件步驟的發送選項 {#understanding-sales-campaign-send-options-for-email-steps}
 
-在建立市場活動時，您有幾個選項可瞭解如何在Sales Connect中建立電子郵件步驟。 此外，根據您的電子郵件在您的活動中所處位置，您的選項也會有所不同。
+在建立市場活動時，您有幾個選項，用於說明如何在Sales Insight Actions中建立電子郵件步驟。 此外，根據您的電子郵件在您的活動中所處位置，您的選項也會有所不同。
 
 如果這是您在「市場活動」中的第一步和第一天，您將有以下選項：
 
-![](assets/image2019-10-25-10-43-19.png)
+![](assets/understanding-sales-campaign-send-options-for-email-steps-1.png)
 
 我將選擇何時發送此電子郵件
 
@@ -58,3 +58,9 @@ ht-degree: 0%
 將此電子郵件線程化到上一電子郵件
 
 * 此發送選項將是您以前的電子郵件的「後續」，並會將以前的電子郵件正文附加到此電子郵件的底部。
+
+>[!MORELIKETHIS]
+>
+>[建立銷售活動](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;
+>[銷售活動步驟類型和提醒任務](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;
+>[銷售活動設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;
