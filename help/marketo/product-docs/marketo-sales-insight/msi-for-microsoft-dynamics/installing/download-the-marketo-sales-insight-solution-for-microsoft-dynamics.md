@@ -1,42 +1,45 @@
 ---
 unique-page-id: 6849070
-description: 下載Microsoft Dynamics的Marketo Sales Insight解決方案- Marketo Docs —— 產品檔案
-title: 下載Microsoft Dynamics的Marketo Sales Insight解決方案
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: 下載MarketoMicrosoftDynamics銷售洞察解決方案 — Marketo文檔 — 產品文檔
+title: 下載MarketoMicrosoftDynamics銷售洞察解決方案
+exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
+source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# 下載Microsoft Dynamics的Marketo Sales Insight Solution {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# 下載MarketoMicrosoftDynamics銷售洞察解決方案 {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 >[!NOTE]
 >
->**需要管理員權限**
+>**需要管理權限**
 
-您需要將Marketo Solution for Sales Insight下載並安裝至您的Microsoft Dynamics帳戶，才能開始同步。
+>[!IMPORTANT]
+>
+>此頁上的插件用於那些使用Marketo的本機CRM同步解決方案同步到Dynamics的Marketo Engage的用戶。 對於那些具有自定義同步並購買了Marketo銷售洞察器的客戶， [包在此](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}。
 
-1. 前往&#x200B;**Admin**&#x200B;區域。
+您需要下載並在您的MicrosoftDynamics帳戶中安裝MarketoSolution for Sales Insight，以便開始同步。
+
+1. 轉到 **管理** 的子菜單。
 
    ![](assets/mainnavhand.png)
 
-1. 按一下&#x200B;**CRM**。
+1. 按一下 **CRM**。
 
    ![](assets/image2015-3-11-13-3a7-3a11.png)
 
-1. 選擇&#x200B;**Microsoft**。
+1. 選擇 **Microsoft**。
 
    ![](assets/image2016-5-3.png)
 
-1. 選擇&#x200B;**下載行銷商解決方案**。
+1. 選擇 **下載Marketo解決方案**。
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
-1. 為您的Microsoft Dynamics版本選擇適當的解決方案。
+1. 為您的MicrosoftDynamics版本選擇適當的解決方案。
 
    ![](assets/msd-online.png)
 
-太好了！ 解決方案的zip檔案將會下載到您的裝置。
+太好了！ 解決方案的zip檔案將下載到您的設備。
