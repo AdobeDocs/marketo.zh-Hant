@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: 540bb61b9accf199e2be841086a6204064762861
+source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
 workflow-type: tm+mt
-source-wordcount: '8656'
+source-wordcount: '8654'
 ht-degree: 0%
 
 ---
@@ -468,7 +468,7 @@ ht-degree: 0%
          + [隱私管理](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [隱私請求](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [更名Marketo資產](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [設定Adobe Experience Cloud觀眾共用](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [設定Adobe組織映射](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
          + [同步來自Adobe Experience Cloud的受眾](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [瞭解資料夾](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [瞭解通知](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)

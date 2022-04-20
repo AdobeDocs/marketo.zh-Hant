@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: 將清單發送到Adobe Experience Cloud-Marketo文檔 — 產品文檔
 title: 將清單發送到Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
-source-git-commit: a82a2dd0a9c3a27b9b6bf3b352cd81d59932a31b
+source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '768'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[設定Adobe Experience Cloud觀眾共用](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+>[設定Adobe組織映射](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
 
 ## 支援的目標應用程式 {#supported-destination-applications}
 
