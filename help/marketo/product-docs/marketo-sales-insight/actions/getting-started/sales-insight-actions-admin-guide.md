@@ -2,9 +2,9 @@
 description: Sales Insight Actions管理指南 — Marketo文檔 — 產品文檔
 title: 《 Sales Insight操作管理指南》
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: fc94cd3b62b0afd8122c56773d420f385d30dabd
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -109,6 +109,10 @@ ht-degree: 0%
 ## 啟動資料同步 {#initiate-data-sync}
 
 Sales Insight Actions的資料統一欄位同步使系統能夠將人員資訊從您的Marketo Engage資料庫拉入您的Sales Insight Actions資料庫，使您的人員資料保持最新，並確保活動記錄在Marketo和Salesforce的正確記錄中。
+
+>[!CAUTION]
+>
+>啟動資料同步後，應 **不** 刪除Sales Insight Actions實例上的原始用戶。 這是第一個邀請發送給的用戶。
 
 1. 在Marketo，按一下 **管理**。
 
