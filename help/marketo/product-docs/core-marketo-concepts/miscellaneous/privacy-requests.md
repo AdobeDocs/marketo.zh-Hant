@@ -1,70 +1,70 @@
 ---
-description: 隱私權要求 — Marketo檔案 — 產品檔案
-title: 隱私權要求
+description: 隱私請求 — Marketo文檔 — 產品文檔
+title: 隱私請求
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 12b82fdb24b20fde01082ddefe3d78429857f0bc
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
 
-# 隱私權要求 {#privacy-requests}
+# 隱私請求 {#privacy-requests}
 
-本檔案概述如何管理個別資料隱私權請求，您可透過Privacy ServiceUI和 **Privacy ServiceAPI**.
+本文檔概述了如何管理可通過Privacy ServiceUI和 **Privacy ServiceAPI**。
 
 >[!NOTE]
 >
->透過Privacy ServiceUI或API提交以供Marketo Engage的隱私權要求，僅適用於擁有Marketo Engage+ RT-CDP、B2B和B2P版本的使用者。
+>通過Privacy ServiceUI或API提交的隱私請求用於Marketo Engage，僅適用於具有Marketo Engage+ RT-CDP、B2B和B2P版本的用戶。
 
-您可以透過兩種方式提交個別請求，以從Marketo Engage中存取和刪除消費者資料：
+您可以通過兩種方式提交單個請求，以從Marketo Engage中訪問和刪除使用者資料：
 
-* 透過 [Privacy ServiceUI](https://privacyui.cloud.adobe.io/). 請參閱本檔案 [此處](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_ui_tutorial.md).
-* 透過 **Privacy ServiceAPI**. 請參閱本檔案 [此處](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_api_tutorial.md) 和API參考 [此處](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
+* 通過 [Privacy ServiceUI](https://privacyui.cloud.adobe.io/)。 請參閱文檔 [這裡](https://developer.adobe.com/experience-platform-apis/references/privacy-service/)。
+* 通過 **Privacy ServiceAPI**。 請參閱文檔 [這裡](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) 和API引用 [這裡](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml)。
 
-此 [Privacy Service](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) 支援兩種請求：資料存取和資料刪除。
+的 [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) 支援兩種類型的請求：資料存取和資料刪除。
 
-讓我們來看看您如何建立存取和刪除請求。
+讓我們看看如何建立訪問和刪除請求。
 
-## 傳送請求以進行Marketo Engage的必要設定 {#required-setup-to-send-requests-for-marketo-engage}
+## 發送請求以進行Marketo Engage所需的設定 {#required-setup-to-send-requests-for-marketo-engage}
 
-若要請求存取和刪除資料以進行Marketo Engage，您必須：
+要請求訪問和刪除資料以進行Marketo Engage，您必須：
 
-1. 識別下列項目：
+1. 確定以下內容：
 
    a.IMS組織ID<br/>
-b.您要行事之人員的電子郵件地址
+b.要執行操作的人員的電子郵件地址
 
-   IMS組織ID是24個字元的英數字串，並附加@AdobeOrg。 如果您的行銷團隊或內部Adobe系統管理員不知道您組織的IMS組織ID，請透過gdprsupport@adobe.com聯絡Adobe客戶服務。 您需要IMS組織ID才能將請求提交至隱私權API。
+   IMS組織ID是附加有@AdobeOrg的24個字元的字母數字字串。 如果您的營銷團隊或內部Adobe系統管理員不知道您組織的IMS組織ID，請通過gdprsupport@adobe.com聯繫Adobe客戶服務。 您需要IMS組織ID將請求提交到隱私API。
 
-1. 在Privacy Service中，您可以提交存取和刪除請求以Marketo Engage，並檢查現有請求的狀態。
+1. 在Privacy Service中，您可以將訪問和刪除請求提交到Marketo Engage，並檢查現有請求的狀態。
 
-## Marketo EngageJSON請求中的必填欄位值 {#required-field-values-in-marketo-engage-json-requests}
+## Marketo EngageJSON請求中的必需欄位值 {#required-field-values-in-marketo-engage-json-requests}
 
 &quot;companyContexts&quot;:
 
-* &quot;namespace&quot;: **imsOrgID**
-* &quot;value&quot;: `<Your IMS Org ID Value>`
+* &quot;命名空間&quot;: **ims組織ID**
+* &quot;值&quot;: `<Your IMS Org ID Value>`
 
-&quot;users&quot;:
+&quot;用戶&quot;:
 
-* &quot;action&quot;:heer **存取** 或 **刪除**
+* &quot;操作&quot;:或 **訪問** 或 **刪除**
 * &quot;userIDs&quot;:
-   * &quot;namespace&quot;: **電子郵件**
-   * &quot;type&quot;: **標準**
-   * &quot;value&quot;: `<Data Subject’s Email Address>`
+   * &quot;命名空間&quot;: **電子郵件**
+   * &quot;類型&quot;: **標準**
+   * &quot;值&quot;: `<Data Subject’s Email Address>`
 
-&quot;include&quot;:
+&quot;包括&quot;:
 
-* **marketo** (適用於請求的Adobe產品)
+* **市場** (即適用於請求的Adobe產品)
 
-&quot;regulation&quot;:
+&quot;規章&quot;:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra**，或 **nzpa_nzl**  （適用於請求的隱私權法規）
+* **日當**。 **ccpa**。 **PDPA**。 **lgpd_bra**&#x200B;或 **nzpa_nzl**  （即適用於請求的隱私法規）
 
-## 範例一：GDPR刪除請求 {#gdpr-delete-request}
+## 示例一：GDPR刪除請求 {#gdpr-delete-request}
 
-JSON要求
+JSON請求
 
 ```text
 {
@@ -95,7 +95,7 @@ JSON要求
 }
 ```
 
-JSON回應
+JSON響應
 
 ```text
 {
@@ -125,9 +125,9 @@ JSON回應
 }
 ```
 
-## 範例二：CCPA存取要求 {#ccpa-access-request}
+## 示例二：CCPA訪問請求 {#ccpa-access-request}
 
-JSON要求
+JSON請求
 
 ```text
 {
@@ -158,7 +158,7 @@ JSON要求
 }
 ```
 
-JSON回應
+JSON響應
 
 ```text
 {
@@ -190,4 +190,4 @@ JSON回應
 
 >[!MORELIKETHIS]
 >
->[隱私權管理](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
+>[隱私管理](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
