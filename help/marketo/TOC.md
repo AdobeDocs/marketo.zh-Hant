@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
+source-git-commit: e4653006bbdf750752bb6b1343796d7acde6cd04
 workflow-type: tm+mt
-source-wordcount: '8654'
+source-wordcount: '8658'
 ht-degree: 0%
 
 ---
@@ -188,6 +188,7 @@ ht-degree: 0%
          + [編輯「不跟蹤」瀏覽器支援設定](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [編輯登錄頁設定](product-docs/administration/settings/edit-landing-page-settings.md)
          + [編輯報表和警報中的連結過期](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
+         + [電子郵件跟蹤連結標頭](product-docs/administration/settings/email-tracking-link-headers.md)
          + [編輯訂閱設定](product-docs/administration/settings/edit-subscription-settings.md)
          + [啟用或禁用「財寶箱」功能](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [為帳戶啟用個性化URL（管理）](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
