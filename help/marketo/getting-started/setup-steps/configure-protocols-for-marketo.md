@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: 配置Marketo協定 — Marketo文檔 — 產品文檔
 title: 配置Marketo協定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: abfd29468bee24644353df497e1f80e0c05b6b2f
+source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '1018'
 ht-degree: 1%
 
 ---
@@ -18,16 +18,14 @@ ht-degree: 1%
 
 您的營銷團隊正在使用Marketo建立品牌營銷活動登錄頁和電子郵件。 為確保這些登錄頁和電子郵件能夠正常工作，他們需要IT部門提供一些幫助。 請設定以下協定，並提供營銷小組應通過電子郵件向您發送的資訊。
 
-This article should be shared with the IT department of the company wishing to implement these protocols.
+本文應與希望實施這些協定的公司的IT部門分享。
 
 >[!NOTE]
 >
 >如果您的IT團隊使用允許清單限制Web訪問，請要求他們添加以下域（包括星號）以允許所有Marketo資源和Web套接字：
 
 * `*.marketo.com`
-
 * `*.marketodesigner.com`
-
 * `*.mktoweb.com`
 
 ## 步驟1:為登錄頁和電子郵件建立DNS記錄 {#step-create-dns-records-for-landing-pages-and-email}
@@ -57,22 +55,25 @@ This article should be shared with the IT department of the company wishing to i
 
 完成此過程後通知您的營銷團隊。
 
+`4` **聯繫人 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;}以啟動設定SSL證書的過程。**
+
+此過程最多需要3個工作日才能完成。
+
 ## 步驟2:允許清單MarketoIP {#step-allowlist-marketo-ips}
 
-When your Marketing group uses Marketo to send test emails (a best practice before sending out email blasts), the test emails are sometimes blocked by anti-spam systems that rely on sender IP addresses to verify that the email is valid. 要確保這些test電子郵件到達，請將Marketo添加到您的允許清單。
+當您的營銷組使用Marketo發送test電子郵件（在發送電子郵件爆炸之前的最佳做法）時，test電子郵件有時會被反垃圾郵件系統阻止，這些系統依賴發送方IP地址來驗證電子郵件是否有效。 要確保這些test電子郵件到達，請將Marketo添加到您的允許清單。
 
-Add these IP addresses to your corporate allowlist:
+將以下IP地址添加到公司允許清單：
 
 199.15.212.0/22\
-192.28.144.0/20
-192.28.160.0/19\
+192.28.144.0/20 192.28.160.0/19\
 185.28.196.0/22\
 130.248.172.0/24\
 130.248.173.0/24\
 103.237.104.0/22\
 94.236.119.0/26
 
-某些反垃圾郵件系統使用電子郵件返迴路徑欄位而不是IP地址進行分配。 在這些情況下，最佳方法是允許列出「*.mktomail.com」，因為Marketo使用多個郵箱子域。 其他反垃圾郵件系統允許基於發件人地址列出。 在這些情況下，請確保包括您的市場營銷組用於與人員/線索通信的所有發送（「發件人」）域。
+某些反垃圾郵件系統使用電子郵件返迴路徑欄位而不是IP地址進行分配。 在這些情況下，最好的方法是允許&#42;.mktomail.com」，因為Marketo使用多個郵箱子域。 其他反垃圾郵件系統允許基於發件人地址列出。 在這些情況下，請確保包括您的市場營銷組用於與人員/線索通信的所有發送（「發件人」）域。
 
 >[!NOTE]
 >

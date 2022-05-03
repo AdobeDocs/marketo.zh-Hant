@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: 計畫成員自定義欄位 — Marketo文檔 — 產品文檔
 title: 程式成員自定義欄位
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
+source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >程式成員自定義欄位支援的類型有：boolean 、 date 、 datetime 、 float 、 integer 、 string 、 URL。 [瞭解有關欄位類型的詳細資訊](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)。
+   >程式成員自定義欄位支援的類型有：boolean 、 date 、 datetime 、 float 、 integer 、 string 、 URL。 [瞭解有關欄位類型的詳細資訊](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target=&quot;_blank&quot;}。
 
 ## 對象說明 {#object-descriptions}
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## 觸發器和篩選器 {#triggers-and-filters}
 
-您可以通過以下方式在智慧清單中利用此特定於程式的資料： [觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md) 和/或 [篩選](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)。
+您可以通過以下方式在智慧清單中利用此特定於程式的資料： [觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target=&quot;_blank&quot;和/或 [篩選](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target=&quot;_blank&quot;}。
 
 ![](assets/six.png)
 
@@ -70,10 +70,11 @@ ht-degree: 0%
 * 程式成員對象最多可包含20個自定義欄位。 這些欄位可用於任何程式。
 * 刪除程式的成員時，如果他們在「程式成員」自定義欄位中有任何資料，則會從該欄位中清除資料。
 * 要查看資料，請按一下程式中的「成員」頁籤，然後建立包含該欄位的自定義視圖。
-* 通過 [清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 和 [API](https://developers.marketo.com/) 。 僅導出程式成員清單上的工作，而不是靜態清單。
+* 通過 [清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;和 [API](https://developers.marketo.com/)支援{target=&quot;_blank&quot;}。 僅導出程式成員清單上的工作，而不是靜態清單。
 * 合併兩個人時，將使用獲獎者的「計畫成員」自定義欄位資料。 但如果贏家沒有，那麼輸家的價值將被利用。
-* 更改類型為 **不** 在「程式成員資訊」欄位上允許。
+* 「程式成員資訊」欄位不允許更改類型。
+* 程式成員自定義欄位不支援「包含」智慧清單約束。
 
 >[!MORELIKETHIS]
 >
->[在Marketo建立自定義欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[在Marketo建立自定義欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;
