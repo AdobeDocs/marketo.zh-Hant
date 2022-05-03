@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: e4653006bbdf750752bb6b1343796d7acde6cd04
+source-git-commit: 93e6bb881e10cda26b3a33569dc67627d628a178
 workflow-type: tm+mt
-source-wordcount: '8658'
+source-wordcount: '8728'
 ht-degree: 0%
 
 ---
@@ -579,6 +579,19 @@ ht-degree: 0%
          + [Salesforce同步錯誤](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce同步狀態](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [使用人員帳戶](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
+      + Veeva CRM同步 {#veeva-crm-sync}
+         + [瞭解Veeva CRM同步](product-docs/crm-sync/salesforce-sync/understanding-the-veeva-crm-sync.md)
+         + 設定 {#setup}
+            + [第1步（共3步）:將Marketo欄位添加到Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
+            + [第2步（共3步）:建立Veeva CRM用戶以進行Marketo Engage](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
+            + [第3步（共3步）:連接Marketo Engage和銷售人員（專業人員）](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-salesforce.md)
+         + 同步詳細資訊 {#sync-details}
+            + [添加/刪除自定義對象欄位作為智慧清單/觸發器約束](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+            + [預設Veeva欄位映射](product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md)
+            + [啟用/禁用自定義對象同步](product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md)
+            + [人員帳戶同步](product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync.md)
+            + [同步呼叫和呼叫密鑰消息](product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md)
+            + [Veva CRM自定義對象同步](product-docs/crm-sync/veeva-crm-sync/sync-details/veeva-crm-custom-object-sync.md)
    + 需求生成 {#demand-generation}
       + 廣告網路整合 {#ad-network-integrations}
          + [瞭解廣告網路整合](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
