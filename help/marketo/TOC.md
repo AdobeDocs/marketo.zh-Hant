@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: 93e6bb881e10cda26b3a33569dc67627d628a178
+source-git-commit: 1380d3ab2a4316a154cf16015d9bf19d65f0185f
 workflow-type: tm+mt
 source-wordcount: '8728'
 ht-degree: 0%
@@ -580,7 +580,7 @@ ht-degree: 0%
          + [Salesforce同步狀態](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [使用人員帳戶](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
       + Veeva CRM同步 {#veeva-crm-sync}
-         + [瞭解Veeva CRM同步](product-docs/crm-sync/salesforce-sync/understanding-the-veeva-crm-sync.md)
+         + [瞭解Veeva CRM同步](product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md)
          + 設定 {#setup}
             + [第1步（共3步）:將Marketo欄位添加到Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
             + [第2步（共3步）:建立Veeva CRM用戶以進行Marketo Engage](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
