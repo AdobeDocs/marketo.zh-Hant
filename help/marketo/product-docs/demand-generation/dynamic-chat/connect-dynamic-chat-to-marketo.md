@@ -2,9 +2,9 @@
 description: 將動態聊天連接到Marketo-Marketo文檔 — 產品文檔
 title: 將動態聊天連接到Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: 9b49c9f0ee03ab72672f46618fb24eed174bf835
+source-git-commit: c36b9206494c14a52937fa787a37601eaf6f4bd4
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,10 @@ ht-degree: 0%
 ## 連結您的Adobe組織和Marketo {#link-your-adobe-org-and-marketo}
 
 接下來，是時候把Adobe和Marketo聯繫起來了。
+
+>[!IMPORTANT]
+>
+>建立此映射的Marketo Engage用戶的電子郵件地址還必須具有對正在連接的Adobe組織的訪問權限。
 
 1. 登錄到 [experience.adobe.com](https://experience.adobe.com)。
 

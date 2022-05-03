@@ -3,7 +3,8 @@ description: 電子郵件跟蹤連結標頭 — Marketo文檔 — 產品文檔
 title: 電子郵件跟蹤連結標頭
 hide: true
 hidefromtoc: true
-source-git-commit: e4653006bbdf750752bb6b1343796d7acde6cd04
+exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
+source-git-commit: dcca897dc5014a2179fe35a031ba2f9e5b2dbaf4
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
