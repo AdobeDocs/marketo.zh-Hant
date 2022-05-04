@@ -1,12 +1,10 @@
 ---
 description: 電子郵件跟蹤連結標頭 — Marketo文檔 — 產品文檔
 title: 電子郵件跟蹤連結標頭
-hide: true
-hidefromtoc: true
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
-source-git-commit: dcca897dc5014a2179fe35a031ba2f9e5b2dbaf4
+source-git-commit: e9a41359a4a03f323312b61ab5afc820140b6fee
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -30,7 +28,7 @@ ht-degree: 0%
 <table>
  <tr>
   <td><strong>嚴格傳輸 — 安全</strong></td>
-  <td>使用此選項可確保始終通過HTTPS提供到登錄頁的連接（應僅為登錄頁受SSL保護的訂閱設定）</td>
+  <td>使用此選項可確保跟蹤連結始終通過HTTPS提供（應僅為具有由SSL保護的跟蹤連結的訂閱設定）</td>
  </tr>
 </table>
 
