@@ -2,20 +2,28 @@
 description: 篩選電子郵件Bot活動 — Marketo文檔 — 產品文檔
 title: 篩選電子郵件Bot活動
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: a64c499f6972e94adfecbe164d86f7db1b1447aa
+source-git-commit: 2ef4b0b2a541c8b6a67bd654fda45956601661bd
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 篩選電子郵件Bot活動 {#filtering-email-bot-activity}
 
-有時，電子郵件僵屍活動會錯誤地開啟電子郵件並按一下資料。 這是如何解決的。
+有時，電子郵件僵屍活動會錯誤地開啟電子郵件並按一下資料。 按照以下步驟修復此問題。
 
->[!NOTE]
->
->使用 [IAB/ABC國際蜘蛛和機器人清單](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/)，所有與清單中任何內容匹配的IP或用戶代理開啟/按一下活動都將被標識為bot活動，並且不會登錄Marketo。
+我們使用三種不同的方法來確認bot活動：
+
+* 匹配 [互動式廣告局bot清單](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;:與IAB UA/IP（用戶代理/IP地址）清單中的任何內容相匹配的活動將標籤為bot。
+* 與隱藏連結UA/IP匹配：我們會向所有電子郵件添加一個隱藏連結，並捕獲來自這些電子郵件的UA/IP點擊。 與這些UA/IP匹配的活動將標籤為bot。
+* 與鄰近模式匹配：當同時發生兩個以上的活動時（不到兩秒），它們被標識為bot。
+
+根據電子郵件連結按一下和電子郵件開啟活動，新屬性將填充以下值：
+
+* 被標識為bot的活動將「Bot Activity」（Bot活動）作為「True」，「Bot Activity Pattern」（Bot活動模式）作為已標識的模式/方法
+* 被標識為非bot的活動將「Bot Activity」（Bot活動）設定為「False」（假），「Bot Activity Pattern」（Bot活動模式）設定為「N/A」(N/A)
+* 在引入這些屬性之前發生的活動將「Bot Activity」(Bot Activity)作為「 」（空），「Bot Activity Pattern 」(Bot Activity Pattern)作為「 」（空）)
 
 1. 按一下 **管理**。
 
@@ -29,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 按一下滑塊以啟用 **篩選Bot活動**。
+1. 按一下 **啟用Bot活動標識** 按鈕。
 
    ![](assets/filtering-email-bot-activity-4.png)
 
@@ -37,8 +45,8 @@ ht-degree: 0%
 >
 >您可以單獨選擇是否記錄bot活動。 如果您選擇不這樣做，您可能會看到電子郵件中的一滴資訊開啟，並在過濾掉假號時按一下。
 
-**可選步驟**:要禁用該功能，只需取消選擇滑塊。 如果禁用，則「過去90天的Bot活動」資料會 **不** 重置。
+**可選步驟**:要禁用該功能，只需取消選擇滑塊。 如果禁用，則資料 **不** 重置。
 
 >[!TIP]
 >
->通過「Is Bot Activity」布爾值(yes/no)或適用的篩選器/觸發器約束，利用智慧清單中的bot活動資料。
+>通過「Clicked Link in E-mail」和「Open E-mail」過濾器中的「Is Bot Activity」布爾值（是/否）和「Bot Activity Pattern」，以及「Clicks Link in E-mail」和「Open E-mail」觸發器，利用智慧清單中的bot活動資料。
