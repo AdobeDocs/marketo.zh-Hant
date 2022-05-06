@@ -2,9 +2,9 @@
 description: 當前發行說明 — Marketo文檔 — 產品文檔
 title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
+source-git-commit: 374f7c1bcb8c30dd914eb126c09a71c6b7ae4f90
 workflow-type: tm+mt
-source-wordcount: '800'
+source-wordcount: '851'
 ht-degree: 0%
 
 ---
@@ -64,6 +64,8 @@ ht-degree: 0%
 **電子郵件驗證和唯一性**:從4月開始，電子郵件驗證將開始實施。 此時，Marketo Engage用戶電子郵件地址將需要驗證和唯一性（這不適用於僅API用戶）。 當使用「電子郵件驗證」啟用訂閱時，經目錄服務驗證的用戶將自動驗證其電子郵件。
 
 使用「登錄邀請用戶對話框」功能或具有與多個用戶關聯的單個電子郵件的訂閱的電子郵件驗證將與五月份的版本一致。 與多個用戶關聯的單個電子郵件的訂閱將啟用「電子郵件驗證」，並將要求這些用戶解決衝突並為每個用戶使用唯一的電子郵件。 啟用「登錄邀請用戶對話框」功能後，通過此功能邀請的用戶將需要具有唯一的電子郵件地址。 對於通過此功能邀請的僅API用戶，電子郵件地址不必唯一。
+
+**存檔資料夾行為更改**:在此版本中，在「存檔」資料夾中建立新資產的功能將不再可以從樹上下文菜單中獲得。 用於建立新資產的菜單選項將隱藏於所有資產中。 [在此處瞭解更多資訊](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}。
 
 **_產品發佈網路研討會_**
 
