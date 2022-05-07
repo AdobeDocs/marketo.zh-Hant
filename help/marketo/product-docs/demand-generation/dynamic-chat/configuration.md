@@ -2,9 +2,9 @@
 description: 配置 — Marketo文檔 — 產品文檔
 title: 配置
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,15 @@ ht-degree: 0%
 要使聊天機在您的網站上顯示，您首先需要安裝動態聊天JavaScript代碼段。 按一下此頁籤查找/複製所需代碼。 如果您不熟悉此操作，請聯繫您的Web團隊或IT部門以獲得幫助。
 
 ![](assets/configuration-8.png)
+
+>[!TIP]
+>
+>如果您的站點使用內容安全策略，則可能需要將以下URL白名單列出，以便查看機器人能夠按預期工作：
+>
+>* `*.adoberesources.net`
+>* `*.adobe.io`
+>* `*.typekit.net`
+
 
 >[!NOTE]
 >
