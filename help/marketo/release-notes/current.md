@@ -2,9 +2,9 @@
 description: 當前發行說明 — Marketo文檔 — 產品文檔
 title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 374f7c1bcb8c30dd914eb126c09a71c6b7ae4f90
+source-git-commit: e489ab3e5e4f1d6628db525e53207d229b50a92b
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 本機CRM整合 {#native-crm-integration}
 
-**本機Veeva CRM整合（有限可用性）**:通過本機整合在Veeva CRM和Marketo Engage之間同步活動，改善與醫療保健專業人員的接觸。 這一整合使營銷人員能夠為醫療保健專業人員創造更個性化和無縫的跨渠道體驗。 如果您有興趣參與，請與您的客戶成功經理聯繫。
+**[本機Veeva CRM整合](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;}（可用性有限）**:通過本機整合在Veeva CRM和Marketo Engage之間同步活動，改善與醫療保健專業人員的接觸。 這一整合使營銷人員能夠為醫療保健專業人員創造更個性化和無縫的跨渠道體驗。 如果您有興趣參與，請與您的客戶成功經理聯繫。
 
 ## 跨通道業務流程 {#cross-channel-orchestration}
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
 **排除動態聊天的URL**:控制「動態聊天」顯示的網頁中哪些網頁，能夠將特定URL排除在目標條件之外。
 
-**電子郵件Bot活動篩選增強**:除現有IAB清單匹配標識外，還能夠根據隱藏的連結用戶代理或IP和鄰近模式來標識bot行為，從而繼續保護資料庫的健康。 查看允許您瞭解每種類型所標識的bot活動數的bot活動統計。
+**[電子郵件Bot活動篩選增強](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;**:除現有IAB清單匹配標識外，還能夠根據隱藏的連結用戶代理或IP和鄰近模式來標識bot行為，從而繼續保護資料庫的健康。 查看允許您瞭解每種類型所標識的bot活動數的bot活動統計。
 
-**電子郵件跟蹤連結的STS標題**:通過應用安全傳輸安全報頭來確保跟蹤鏈路的通信始終安全，來滿足安全最佳實踐。
+**[電子郵件跟蹤連結的STS標題](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;**:通過應用安全傳輸安全報頭來確保跟蹤鏈路的通信始終安全，來滿足安全最佳實踐。
 
 ## 新一代體驗 {#next-generation-experience}
 
