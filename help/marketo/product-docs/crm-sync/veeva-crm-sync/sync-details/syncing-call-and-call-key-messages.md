@@ -2,16 +2,16 @@
 description: 同步呼叫和呼叫密鑰消息 — Marketo文檔 — 產品文檔
 title: 同步呼叫和呼叫密鑰消息
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
 
 # 同步呼叫和呼叫密鑰消息 {#syncing-call-and-call-key-messages}
 
-預設情況下，Veeva CRM中的調用和調用密鑰消息對象將同步到Marketo Engage。 Marketo根據呼叫日期同步最多6個月的資料。
+預設情況下，Veeva CRM中的調用和調用密鑰消息對象將同步到Marketo Engage。 Marketo根據呼叫建立日期同步最多6個月的資料。
 
 >[!NOTE]
 >
@@ -90,13 +90,6 @@ ht-degree: 0%
       <td>首次保存或提交呼叫的日期。 如果未提供date或datetime欄位，則通過觸發器將此欄位設定為當前日期。</td>
       <td>調用_日期_vod_c</td>
       <td>日期</td>
-    </tr>
-    <tr>
-      <td>呼叫</td>
-      <td>詳細產品</td>
-      <td>用於顯示呼叫的詳細產品清單的幫助器欄位。 產品名稱應由雙空格分隔，並按優先順序從左到右排列。 此欄位不控制處理，並包含該欄位以使相關清單和報告更便於用戶使用。</td>
-      <td>Detailed_Products_vod_c</td>
-      <td>文本區域(255)</td>
     </tr>
     <tr>
       <td>呼叫</td>

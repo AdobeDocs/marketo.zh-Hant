@@ -2,7 +2,7 @@
 description: 第1步（共3步） — 將Marketo欄位添加到Veeva CRM -Marketo文檔 — 產品文檔
 title: 第1步（共3步） — 將Marketo欄位添加到Veeva CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Marketo Engage使用一組欄位來捕獲某些類型的市場營銷相關資訊
 
 ## 將Marketo欄位添加到Veeva CRM {#add-marketo-fields-to-veeva-crm}
 
-在上面列出的Veeva CRM中的潛在客戶和聯繫人對象上添加三個自定義欄位。 如果要添加更多內容，請參閱本節末尾的可用欄位表。
+在上面列出的Veeva CRM中的潛在客戶和聯繫人對象上添加自定義欄位。 如果要添加更多內容，請參閱本節末尾的可用欄位表。
 
 對「分數」欄位執行以下步驟以添加它。
 
@@ -112,7 +112,7 @@ Marketo Engage使用一組欄位來捕獲某些類型的市場營銷相關資訊
 
 >[!NOTE]
 >
->通過將欄位添加到Contact對象，這些欄位也添加到Person Account帳戶。
+>通過將欄位添加到Contact對象中，這些欄位也添加到Person Account對象中。
 
 可選：對下表中的任何附加自定義欄位使用上述過程。
 

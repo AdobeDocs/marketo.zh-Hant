@@ -2,9 +2,9 @@
 description: 人員客戶同步常見問題 — Marketo文檔 — 產品文檔
 title: 人員帳戶同步常見問題
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo Engage將整個資料庫與Veeva同步，以便記錄的「人員帳戶�
 
 >[!NOTE]
 >
->預設的Veeva帳戶是Professionals。
+>我們只將「專業」層帳戶同步為人員帳戶。
 
 **什麼是個人帳戶？**
 
@@ -49,7 +49,7 @@ Marketo Engage將整個資料庫與Veeva同步，以便記錄的「人員帳戶�
 
 **是否與Veeva CRM同步的記錄的潛在客戶或聯繫人類型？**
 
-Veeva CRM只真正處理Person Account對象，還有Business Accounts。 傳統的CRM類型的Lead 、 Contacts和Opportunity在傳統的Veeva CRM系統中並沒有真正使用。 這些內容可能在Veeva CRM中建立，同步可能會將它們帶入Marketo，但是使用此連接器不受正式支援。
+Veeva CRM只真正處理Person Account對象，還有Business Accounts。 傳統的CRM類型的Lead 、 Contacts和Opportunity在傳統的Veeva CRM系統中並沒有真正使用。 這些可能是在Veeva CRM中建立的，但是官方不支援使用此連接器。
 
 **我能把一個人變成Marketo的聯繫人嗎？**
 
