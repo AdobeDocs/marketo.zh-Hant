@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: 設定Adobe組織映射 — Marketo文檔 — 產品文檔
 title: 設定Adobe組織映射
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: db91b204ab13d47e500b1942ca14a3b1f010749c
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Marketo實例的HIPAA就緒部署無法使用此整合。
+
+>[!CAUTION]
+>
+>對於已掛接到Adobe業務平台和Identity Management系統的客戶，與訂閱關聯的組織ID將已填充，並且是只讀欄位。
 
 1. 在Marketo，按一下 **管理**。
 
