@@ -3,9 +3,9 @@ unique-page-id: 12983390
 description: 在Azure中註冊應用以獲取您的客戶端ID/應用ID -Marketo文檔 — 產品文檔
 title: 向Azure註冊應用以獲取您的客戶端ID/應用ID
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Azure Active Directory將您的本地目錄擴展到雲中，為MS Dynamics 365 
 
 ## 註冊新應用 {#registering-a-new-app}
 
-1. [登錄](https://azure.microsoft.com/en-us/account/) 使用具有管理權限的帳戶到MicrosoftAzure管理門戶。 您還可以通過Office 365管理中心通過擴展 **管理** 左導航窗格中的項，並選擇 **Azure AD**。
+1. [登錄](https://login.microsoftonline.com/){target=&quot;_blank&quot;}，使用具有管理權限的帳戶進入MicrosoftAzure管理門戶。 您還可以通過Office 365管理中心通過擴展 **管理** 左導航窗格中的項，並選擇 **Azure AD**。
 
    >[!CAUTION]
    >
@@ -24,10 +24,10 @@ Azure Active Directory將您的本地目錄擴展到雲中，為MS Dynamics 365 
 
    >[!NOTE]
    >
-   >如果您沒有Azure帳戶，您可以 [註冊](https://azure.microsoft.com/en-us/free/) 一個。 請參閱Microsoft的文檔或聯繫您的Microsoft代表以瞭解更多資訊。 建立Azure帳戶後，您可以使用下面介紹的過程註冊一個或多個應用。
+   >如果您沒有Azure帳戶，您可以 [註冊](https://azure.microsoft.com/en-us/free/){target=&quot;_blank&quot;}。 請參閱Microsoft的文檔或聯繫您的Microsoft代表以瞭解更多資訊。 建立Azure帳戶後，您可以使用下面介紹的過程註冊一個或多個應用。
    >
    >
-   >如果你有Azure帳戶，但你的Office 365訂閱(含MicrosoftDynamics 365)在你的Azure訂閱中不可用，請遵循 [這些說明](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription) 把兩個賬戶關聯起來。
+   >如果你有Azure帳戶，但你的Office 365訂閱(含MicrosoftDynamics 365)在你的Azure訂閱中不可用，請遵循 [這些說明](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target=&quot;_blank&quot;}以關聯兩個帳戶。
 
 1. 查找並按一下 **Azure Active Directory** 的下界。
 

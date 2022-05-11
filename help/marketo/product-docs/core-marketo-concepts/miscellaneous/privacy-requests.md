@@ -2,9 +2,9 @@
 description: 隱私請求 — Marketo文檔 — 產品文檔
 title: 隱私請求
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 12b82fdb24b20fde01082ddefe3d78429857f0bc
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 您可以通過兩種方式提交單個請求，以從Marketo Engage中訪問和刪除使用者資料：
 
-* 通過 [Privacy ServiceUI](https://privacyui.cloud.adobe.io/)。 請參閱文檔 [這裡](https://developer.adobe.com/experience-platform-apis/references/privacy-service/)。
-* 通過 **Privacy ServiceAPI**。 請參閱文檔 [這裡](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) 和API引用 [這裡](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml)。
+* 通過 [Privacy ServiceUI](https://privacyui.cloud.adobe.io/)。 請參閱文檔 [這裡](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;}。
+* 通過 **Privacy ServiceAPI**。 請參閱文檔 [這裡](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;}和API資訊 [這裡](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}。
 
-的 [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) 支援兩種類型的請求：資料存取和資料刪除。
+的 [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;支援兩種類型的請求：資料存取和資料刪除。
 
 讓我們看看如何建立訪問和刪除請求。
 
