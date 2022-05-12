@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: 設定Adobe組織映射 — Marketo文檔 — 產品文檔
 title: 設定Adobe組織映射
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
+source-git-commit: bbe5f4a1502ab79d0081807ea6aab196ae75360a
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,9 @@ ht-degree: 0%
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >出於安全原因，您必須是要映射到的Adobe組織的組織管理員。 如果你沒有，那麼行動將失敗。
+   >出於安全原因，您必須是要映射到的Adobe組織的組織管理員。 如果你沒有，那麼行動將失敗。 此外，Adobe用戶和Marketo用戶登錄時必須使用相同的電子郵件地址。
 
 1. 如果你 _不_ 已登錄，彈出窗口將出現在新的頁籤/窗口中。 登錄到Adobe組織（此操作驗證組織訪問權限）。
 
