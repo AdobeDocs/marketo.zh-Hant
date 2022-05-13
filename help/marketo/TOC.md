@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: d3fb9a9aa70f491afd880d16500b8e93eb9d087f
 workflow-type: tm+mt
 source-wordcount: '8743'
 ht-degree: 0%
@@ -1278,7 +1278,7 @@ ht-degree: 0%
             + [建立團隊](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [如何設定自定義域跟蹤](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [邀請用戶和管理員](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
-            + [將銷售活動屬性記錄到Salesforce](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
+            + [登錄管理設定](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [共用設定](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [用戶訪問詳細資訊](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + 分析 {#analytics}
@@ -1307,7 +1307,7 @@ ht-degree: 0%
                + [Salesforce診斷](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Salesforce同步設定](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
             + Salesforce配置 {#salesforce-configuration}
-               + [登錄管理設定](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md)
+               + [將銷售活動屬性記錄到Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Salesforce中的Sales Insight Actions配置](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [卸載Salesforce經典自定義程式包](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
                + [卸載Salesforce Lightning自定義程式包](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
