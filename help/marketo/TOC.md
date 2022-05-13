@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: d3fb9a9aa70f491afd880d16500b8e93eb9d087f
+source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
 workflow-type: tm+mt
-source-wordcount: '8743'
+source-wordcount: '8761'
 ht-degree: 0%
 
 ---
@@ -475,6 +475,11 @@ ht-degree: 0%
          + [瞭解資料夾](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [瞭解通知](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [通知類型](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + 預測受眾 {#predictive-audiences}
+         + [預測訪問群體入門](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
+         + [模型和見解](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
+         + [預測篩選器](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
+         + [瞭解目標跟蹤和預計註冊](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
    + CRM同步 {#crm-sync}
       + Microsoft動力同步 {#microsoft-dynamics}
          + [瞭解Microsoft動態同步](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
