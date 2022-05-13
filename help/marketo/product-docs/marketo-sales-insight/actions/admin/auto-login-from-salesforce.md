@@ -2,7 +2,7 @@
 description: 從Salesforce自動登錄 — Marketo文檔 — 產品文檔
 title: 從Salesforce自動登錄
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 要使用自動登錄：
 
-* [登錄管理設定](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) 必須設定為「僅限Salesforce」
+* [登錄管理設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md) 必須設定為「僅限Salesforce」
 
 * 必須已邀請用戶使用Sales Insight操作
 

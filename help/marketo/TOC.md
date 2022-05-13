@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
+source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
 workflow-type: tm+mt
 source-wordcount: '8743'
 ht-degree: 0%
@@ -607,13 +607,13 @@ ht-degree: 0%
          + [初始設定](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [將動態聊天連接到Marketo](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
          + [添加或刪除聊天用戶](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
-         + [配置](product-docs/demand-generation/dynamic-chat/configuration.md)
+         + [設定](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [動態聊天活動](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + 對話框 {#dialogues}
+         + 對話 {#dialogues}
             + [對話框概述](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [建立對話框](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
-            + [受眾標準](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
-            + [流設計器](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
+            + [對象條件](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
+            + [流程設計工具](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
             + [報告](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + 事件 {#events}
          + 瞭解事件 {#understanding-events}
@@ -1235,7 +1235,7 @@ ht-degree: 0%
          + [建立和分配提醒任務](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
          + [提醒任務與Salesforce同步](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [首次將Sales Connect Tasks與Salesforce同步](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
-      + 模板 {#templates}
+      + 範本 {#templates}
          + [將自動取消訂閱添加到模板](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
          + [添加超連結文本](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
          + [存檔模板](product-docs/marketo-sales-connect/templates/archive-templates.md)
@@ -1279,7 +1279,6 @@ ht-degree: 0%
             + [如何設定自定義域跟蹤](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [邀請用戶和管理員](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [將銷售活動屬性記錄到Salesforce](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
-            + [登錄管理設定](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [共用設定](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [用戶訪問詳細資訊](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + 分析 {#analytics}
@@ -1307,6 +1306,11 @@ ht-degree: 0%
                + [回復日誌記錄](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce診斷](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Salesforce同步設定](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+            + Salesforce配置 {#salesforce-configuration}
+               + [登錄管理設定](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md)
+               + [Salesforce中的Sales Insight Actions配置](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [卸載Salesforce經典自定義程式包](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+               + [卸載Salesforce Lightning自定義程式包](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + 電子郵件 {#email}
             + 命令中心 {#command-center}
                + [高級搜索概述](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1372,15 +1376,11 @@ ht-degree: 0%
             + [國際電話](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [本地存在](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [雙方同意設定](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
-         + Salesforce配置 {#salesforce-configuration}
-            + [Salesforce中的Sales Insight Actions配置](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
-            + [卸載Salesforce經典自定義程式包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-            + [卸載Salesforce Lightning自定義程式包](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + 發送銷售電子郵件 {#send-a-sales-email}
             + [電子郵件跟蹤概述](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + 任務 {#tasks}
             + [提醒任務與Salesforce同步](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
-         + 模板 {#templates}
+         + 範本 {#templates}
             + [添加超連結文本](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [動態欄位](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
             + [管理模板](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
@@ -1422,7 +1422,7 @@ ht-degree: 0%
       + Salesforce的MSI {#msi-for-salesforce}
          + 安裝 {#installation}
             + [在SalesforceAppExchange中安裝MarketoSales Insight軟體包](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
-         + 配置 {#configuration}
+         + 設定 {#configuration}
             + [在Salesforce Enterprise/Unlimited中配置MarketoSales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [在Salesforce專業版中配置MarketoSales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [現有客戶的配置](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
