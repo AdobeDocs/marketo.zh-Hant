@@ -2,9 +2,9 @@
 description: Sales Insight Actions管理指南 — Marketo文檔 — 產品文檔
 title: 《 Sales Insight操作管理指南》
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: fc94cd3b62b0afd8122c56773d420f385d30dabd
+source-git-commit: 451b5cd8e11045de56ebf57c2b2312813d5d5668
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '595'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 向客戶成功經理確認已為您的Marketo帳戶啟用MSI操作(如果您沒有CSM，請 [聯繫Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support))。
+>* 向客戶成功經理確認已為您的Marketo帳戶啟用MSI操作(如果您沒有CSM，請聯繫 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;})。
 >* 必須設定您的Marketo/Salesforce同步。
 
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->不會通過Marketo添加其他用戶，而是通過「銷售帳戶用戶管理」頁添加。 [按一下這裡](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) 瞭解有關添加其他用戶的詳細資訊。
+>不會通過Marketo添加其他用戶，而是通過「銷售帳戶用戶管理」頁添加。 [按一下這裡](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target=&quot;_blank&quot;}以瞭解有關添加其他用戶的詳細資訊。
 
 ## 將Marketo銷售帳戶連接到Salesforce {#connect-marketo-sales-account-to-salesforce}
 
@@ -134,7 +134,7 @@ Marketo和Salesforce中存在的人員記錄將同步到您的Marketo銷售應�
 
 >[!NOTE]
 >
->要瞭解有關Sales Insight Actions、Marketo和Salesforce之間人員和活動資料如何同步的更多資訊， [按一下這裡](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md)。
+>要瞭解有關Sales Insight Actions、Marketo和Salesforce之間人員和活動資料如何同步的更多資訊， [按一下這裡](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md){target=&quot;_blank&quot;}。
 
 ## 邀請單個用戶執行MSI操作 {#invite-individual-users-to-msi-actions}
 
@@ -186,4 +186,4 @@ Marketo和Salesforce中存在的人員記錄將同步到您的Marketo銷售應�
 
 >[!NOTE]
 >
->完成此操作後，您可以升級現有MSI包或安裝新包並轉到 [在Salesforce中配置MSI操作](/help/marketo/product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)。
+>完成此操作後，您可以升級現有MSI包或安裝新包並轉到 [在Salesforce中配置MSI操作](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md){target=&quot;_blank&quot;}。
