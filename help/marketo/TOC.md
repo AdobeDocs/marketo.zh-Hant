@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
+source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
 workflow-type: tm+mt
-source-wordcount: '8761'
+source-wordcount: '8766'
 ht-degree: 0%
 
 ---
@@ -1268,8 +1268,9 @@ ht-degree: 0%
          + [Sales Insight操作功能概述](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + 入門 {#getting-started}
             + [《 Sales Insight Actions User Onboarding Guide》](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-            + [MSI操作管理指南](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md)
+            + [《 Sales Insight Actions管理員安裝指南》](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [更改您的Marketo銷售密碼](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
+            + [產品使用限制](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
             + 電子郵件設定 {#email-settings}
                + [驗證您的電子郵件](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [添加或更新您的電子郵件簽名](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
