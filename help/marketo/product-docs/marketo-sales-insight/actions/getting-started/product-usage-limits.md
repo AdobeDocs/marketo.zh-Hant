@@ -1,14 +1,16 @@
 ---
 description: 產品使用限制 — Marketo文檔 — 產品文檔
 title: 產品使用限制
-source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
+source-git-commit: 4dd0d703347ed878f73ddc574d063a6746089887
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 14%
+source-wordcount: '186'
+ht-degree: 13%
 
 ---
 
 # 產品使用限制 {#product-usage-limits}
+
+Sales Insight Actions中提供的擴展的銷售參與功能的使用限制如下：
 
 <table>
   <th>功能</th>
