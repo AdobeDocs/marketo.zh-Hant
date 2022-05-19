@@ -2,10 +2,10 @@
 description: 動態聊天概述 — Marketo文檔 — 產品文檔
 title: 動態聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
 workflow-type: tm+mt
-source-wordcount: '744'
-ht-degree: 0%
+source-wordcount: '780'
+ht-degree: 1%
 
 ---
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 * 公司欄位資料
 * 活動資料
 
-## 對話框 {#dialogues}
+## 對話 {#dialogues}
 
 對話框代表單個聊天項目。 將它想像成一個容器，其中包含您需要的所有內容，以便與網站訪問者進行有趣的聊天對話。 在每個對話框中，可以指定希望對話框顯示在哪個頁面上，希望該對話框顯示到誰，以及該對話框本身的內容和流。 此外，您還可以找到度量，以查看對話框的效能。 [瞭解有關對話框的詳細資訊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}。
 
-## 配置 {#configuration}
+## 設定 {#configuration}
 
 在「配置」頁籤中，自定義各種對話框的外觀。 更改字型、顏色、響應時間等！ [瞭解有關配置的詳細資訊](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md)。
 
@@ -54,6 +54,10 @@ ht-degree: 0%
 您可以在此處查看連接日曆的所有代理的清單，以及向網站訪問者顯示這些代理的順序。 會議按循規蹈矩，所以如果你有五個探員和三號探員參加了最後一次會議，四號探員會得到下一個，然後是五號探員，然後是一號探員。
 
 ## 常見問題 {#faq}
+
+**我是否可以在公司網站上的任何位置安裝動態聊天，或者它僅在Marketo登錄頁上工作？**
+
+Dynamic Chat JavaScript代碼段可以安裝在任何網站和Marketo登錄頁上。
 
 **資料儲存多長時間用於報告？**
 
