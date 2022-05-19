@@ -2,9 +2,9 @@
 description: 針對非本機MS Dynamics整合的Sales Insight -Marketo文檔 — 產品文檔
 title: 針對非本機MS Dynamics整合的Sales Insight
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
-source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
+source-git-commit: 3a62fe40856b9b3f2eab61e22eaa38e1b9c44d7e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1442'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >* 在開始設定MSI之前，為您的Marketo實例啟用的「MSI非本機」功能(如果未啟用，並且您已購買該功能，請聯繫 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} — 如果您尚未購買此功能，請與客戶成功經理聯繫)。
 >* 下載 [用於自定義同步的MSI包](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}。
->* MS Dynamics訂閱，帶MSI安裝程式([按預先](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md){target=&quot;_blank&quot;, [Dynamics聯機](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target=&quot;_blank&quot;})。
+>* 具有MSI安裝程式的MS Dynamics訂閱(我們僅支援 [Dynamics聯機](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target=&quot;_blank&quot;})。
 >* MarketoREST API [已成功設定](https://developers.marketo.com/rest-api/){target=&quot;_blank&quot;}。 外露的CRUD API將是執行非本機同步的基礎。
 >* 閱讀 [此部落格帖子](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target=&quot;_blank&quot;}，以便瞭解對象和關係。
 
