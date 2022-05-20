@@ -2,9 +2,9 @@
 description: 動態聊天概述 — Marketo文檔 — 產品文檔
 title: 動態聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
+source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '896'
 ht-degree: 1%
 
 ---
@@ -67,17 +67,39 @@ Dynamic Chat JavaScript代碼段可以安裝在任何網站和Marketo登錄頁�
 
 不，它只利用預先確定的響應。
 
-**我怎麼能瞄準匿名人？**
+**「動態聊天」是否支援除英語以外的任何語言？**
 
-在對話框中，您需要使用 _人員電子郵件為空_ 屬性。
+是的。 動態聊天支援以下語言：法語、德語、日語、西班牙語、義大利語、巴西葡萄牙語、韓語、簡體中文和繁體中文。 在 [下面](#changing-the-language)。
 
 **是否支援AI/NLP功能？**
 
 我們不支援AI/NLP功能。
 
-**「動態聊天」除了提供英語以外，還提供任何語言嗎？**
+**我怎麼能瞄準匿名人？**
 
-現在不行。
+在對話框中，您需要使用 _人員電子郵件為空_ 屬性。
+
+## 更改語言 {#changing-the-language}
+
+按照以下步驟更改動態聊天語言。
+
+1. 在Experience Cloud帳戶中，按一下「設定」表徵圖，然後選擇 **首選項**。
+
+   ![](assets/dynamic-chat-overview-1.png)
+
+1. 按一下電子郵件地址下的當前語言。
+
+   ![](assets/dynamic-chat-overview-2.png)
+
+1. 選擇新語言（第二種語言是可選語言），然後按一下 **保存**。
+
+   ![](assets/dynamic-chat-overview-3.png)
+
+   >[!IMPORTANT]
+   >
+   >有幾十種語言可供選擇，但動態聊天僅支援以下語言：英語、法語、德語、日語、西班牙語、義大利語、巴西葡萄牙語、韓語、簡體中文和繁體中文。
+
+當您更新語言時，應用本身中的所有內容都會更改，但您個人填寫的詞除外（如流響應）。
 
 ## 動態聊天中的限制 {#limits-in-dynamic-chat}
 
