@@ -4,7 +4,7 @@ title: 預測訪問群體入門
 hide: true
 hidefromtoc: true
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -36,4 +36,3 @@ AI/ML模型的效能取決於訂閱中的資料。 模型使用得越頻繁，�
 1. 將該功能添加到實例後，導航到 **[!UICONTROL 預測受眾]** 的 **[!UICONTROL 管理]** Marketo。
 
 1. 檢查 **[!UICONTROL 啟用預測受眾]** 的子菜單。 請注意，完成設定所有進程可能需要24小時。
-
