@@ -2,9 +2,9 @@
 description: 受眾標準 — Marketo文檔 — 產品文檔
 title: 對象條件
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 17f56a01096b1cc48a9df7a717145a00ef491dbd
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '499'
 ht-degree: 1%
 
 ---
@@ -13,9 +13,31 @@ ht-degree: 1%
 
 與「Marketo智慧清單」類似，「受眾條件」屬性允許您定義目標受眾。 您可以使用推斷、人或公司屬性（或其組合）來瞄準已知或未知的人。
 
+## 事件 {#events}
+
+![](assets/audience-criteria-0.png)
+
+活動允許您根據訪問者滾動的次數或訪問者在您的頁面/站點上的時間來確定訪問者的目標。 在下面的示例中，我們針對在特定頁面上訪問超過20秒的訪問者。
+
+1. 抓住 **頁上時間** 將事件拖到右邊。
+
+   ![](assets/audience-criteria-0a.png)
+
+1. 將「大於」時間設定為20秒。
+
+   ![](assets/audience-criteria-0b.png)
+
+1. 在 [目標](#target) 的子菜單。
+
+   ![](assets/audience-criteria-0c.png)
+
+## 屬性 {#attributes}
+
+![](assets/audience-criteria-0d.png)
+
 **已知人物**
 
-有 _許多_ 要選擇的屬性組合。 在此示例中，我們針對所有 **有名人** 在一家員工超過50人的公司工作。
+有 _許多_ 要選擇的屬性組合。 在下面的示例中，我們針對 **有名人** 在一家員工超過50人的公司工作。
 
 1. 抓住 **人員狀態** 將其拖到右側。
 
