@@ -1,15 +1,15 @@
 ---
 description: 流設計器 — Marketo文檔 — 產品文檔
-title: 流設計器
+title: 流程設計工具
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 3883f31e59e4ba2dccf53961068fea7d5f805192
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 流設計器 {#stream-designer}
+# 流程設計工具 {#stream-designer}
 
 有 _許多_ 可以建立的流組合。 本文包含一個示例，在該示例中，商家詢問站點訪問者是否有任何產品問題。 如果是，訪問者可以安排預約。 如果否，則允許訪問者加入郵件清單以供將來通信。 目標是安排約會或收集訪問者的電子郵件。
 
@@ -28,11 +28,15 @@ ht-degree: 0%
   <td>當您想問多選題時使用，您將提供其可用回答(例如：你對哪種車感興趣？ 響應= SUV、緊湊型、卡車等)。</td>
  </tr>
  <tr>
-  <td><strong>資訊捕獲</strong></td>
+  <td><strong>文件</strong></td>
+  <td>允許您將PDF文檔嵌入對話框並跟蹤訪問者的文檔參與活動（如果已下載文檔，則查看了多少頁，和/或使用的任何搜索詞）。</td>
+ </tr>
+ <tr>
+  <td><strong>資訊擷取</strong></td>
   <td>在要收集資訊時使用。 要選擇的三個欄位是「電子郵件地址」、「電話號碼」和「文本」（允許訪問者自行寫郵件）。</td>
  </tr>
  <tr>
-  <td><strong>約會計畫程式</strong></td>
+  <td><strong>約會排程器</strong></td>
   <td>為訪問者提供可用日期日曆，以安排後續活動。 日曆可用性反映 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">下一個聯機代理</a>。</td>
  </tr>
  <tr>
@@ -109,15 +113,15 @@ ht-degree: 0%
      <td>要捕獲的資訊類型：電話，簡訊，電子郵件。</td>
     </tr>
     <tr>
-     <td><strong>查特博特消息</strong></td>
+     <td><strong>聊天機器人訊息</strong></td>
      <td>訪問者看到的消息提示他們提供資訊。</td>
     </tr>
     <tr>
-     <td><strong>佔位符</strong></td>
+     <td><strong>預留位置</strong></td>
      <td>幫助訪問者查看要輸入的內容的示例文本。</td>
     </tr>
     <tr>
-     <td><strong>將響應映射到屬性</strong></td>
+     <td><strong>將回應對應到屬性</strong></td>
      <td>允許您將訪問者的響應同步到您的Marketo訂閱中其人員記錄中的相應欄位。</td>
     </tr>
    </table>
