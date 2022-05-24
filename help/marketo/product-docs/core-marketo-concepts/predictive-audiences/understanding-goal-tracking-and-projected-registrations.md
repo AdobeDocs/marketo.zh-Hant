@@ -4,16 +4,16 @@ title: 瞭解目標跟蹤和預計註冊
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '963'
 ht-degree: 0%
 
 ---
 
 # 瞭解目標跟蹤和預計註冊 {#understanding-goal-tracking-and-projected-registrations}
 
-之後 [設定事件目標](/help/sky/setting-event-goals.md) 並通過 [智慧競選](/help/sky/create-a-smart-campaign.md)下面是如何追蹤你的目標進度，理解Marketo的預測。
+下面是如何追蹤你的目標進度並理解Marketo的預測。
 
 >[!NOTE]
 >
