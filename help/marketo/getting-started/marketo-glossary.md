@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Marketo辭彙表 — Marketo文檔 — 產品文檔
 title: Marketo辭彙表
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 3559dff22a294545440790c712e80b853340b66d
 workflow-type: tm+mt
-source-wordcount: '4205'
+source-wordcount: '4196'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>帳戶清單</strong></td> 
-   <td>主要帳戶/組織名稱清單。 也稱為基於帳戶的市場營銷(<strong>反彈道導彈</strong>)。</td> 
+   <td>主要帳戶/組織名稱清單。 也稱為Account-Based Marketing(<strong>反彈道導彈</strong>)。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>帳戶分析</strong></td> 
@@ -47,7 +47,7 @@ ht-degree: 0%
    <td colspan="1">在 <strong>譚</strong>，它是分配給帳戶的分數，可幫助您確定其參與級別。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>收購日期</strong></td> 
+   <td colspan="1"><strong>獲取日期</strong></td> 
    <td colspan="1">在Marketo知道人的日期。 此日期與 <strong>購置計畫</strong> 那個人。</td> 
   </tr> 
   <tr> 
@@ -59,7 +59,7 @@ ht-degree: 0%
    <td colspan="1">（以前叫Ad Bridge）將Marketo獨特的受眾資料與付費媒體系統相連的一種方法，這樣您就可以運行更具針對性、個性化的數字廣告活動。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>AdobeMarketo Engage</strong></td> 
+   <td colspan="1"><strong>Adobe Marketo Engage</strong></td> 
    <td colspan="1">Marketo在Adobe Experience Cloud內所有產品的總和的官方品牌名稱。</td> 
   </tr> 
   <tr> 
@@ -171,7 +171,7 @@ ht-degree: 0%
    <td>訪問者在站點上的活動和URL路徑，以及訪問每頁的時間。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>克隆</strong></td> 
+   <td colspan="1"><strong>原地複製</strong></td> 
    <td colspan="1">在Marketo，您可以在實例中複製幾種不同類型的實體。 可以克隆 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">方案</a>的 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">程式內的資產</a>的 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">流</a>。</td> 
   </tr> 
   <tr> 
@@ -241,7 +241,7 @@ ht-degree: 0%
     <div> 
      <p><strong> 資料庫</strong></p> 
     </div></td> 
-   <td>其中一個核心部分 <strong>AdobeMarketo Engage</strong>。 資料庫是所有 <strong>人</strong> 記錄。</td> 
+   <td>其中一個核心部分 <strong>Adobe Marketo Engage</strong>。 資料庫是所有 <strong>人</strong> 記錄。</td> 
   </tr> 
   <tr> 
    <td><strong>重複資料消除</strong></td> 
@@ -268,11 +268,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>設計工作室</strong></td> 
-   <td colspan="1">其中一個核心部分 <strong>AdobeMarketo Engage</strong>。 Design Studio是您的家 <strong>資產</strong>，例如： <strong>登錄頁</strong>，或 <strong>電子郵件</strong>。 <strong>片段</strong>和映像/檔案。</td> 
+   <td colspan="1">其中一個核心部分 <strong>Adobe Marketo Engage</strong>。 Design Studio是您的家 <strong>資產</strong>，例如： <strong>登錄頁</strong>，或 <strong>電子郵件</strong>。 <strong>片段</strong>和映像/檔案。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>文檔</strong></td> 
-   <td colspan="1">文檔簡稱，文檔是幫助文章，供客戶更好地瞭解產品。 Marketo有幾種不同類型的文檔：產品文檔（您當前所在的站點）, <a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a> 文檔， <a href="https://developers.marketo.com/" rel="nofollow">開發人員</a> 文檔和 <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">支援</a> 文檔。</td> 
+   <td colspan="1">文檔簡稱，文檔是幫助文章，供客戶更好地瞭解產品。 Marketo有幾種不同類型的文檔：產品文檔（您當前所在的站點）, <a href="https://developers.marketo.com/" rel="nofollow">開發人員</a> 文檔和 <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">支援</a> 文檔。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>基於域的消息驗證、報告和一致性(DMARC)</strong></td> 
@@ -481,7 +481,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>線索</strong></td> 
-   <td>在 <strong>AdobeMarketo Engage</strong>, lead是上一個術語(替換為 <strong>人</strong>)用來描述你的Marketo <strong>資料庫</strong> 你通過營銷活動參與其中。 在 <strong>CRM</strong>，線索可代表不同的概念(即與 <strong>機會</strong>)獨立於Marketo的功能。</td> 
+   <td>在 <strong>Adobe Marketo Engage</strong>, lead是上一個術語(替換為 <strong>人</strong>)用來描述你的Marketo <strong>資料庫</strong> 你通過營銷活動參與其中。 在 <strong>CRM</strong>，線索可代表不同的概念(即與 <strong>機會</strong>)獨立於Marketo的功能。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>潛在客戶資料庫</strong></td> 
@@ -511,7 +511,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><strong>營銷活動</strong></td> 
-   <td><p>AdobeMarketo Engage的核心部分之一。 這裡 <strong>活動</strong> 進行協調。 所有 <strong>方案</strong>、活動和 <strong>活動資料夾</strong> (以及 <strong>本地資產</strong>)住這裡。</p></td> 
+   <td><p>是Adobe Marketo Engage的核心部分之一。 這裡 <strong>活動</strong> 進行協調。 所有 <strong>方案</strong>、活動和 <strong>活動資料夾</strong> (以及 <strong>本地資產</strong>)住這裡。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>營銷自動化</strong></a></td> 
@@ -522,7 +522,7 @@ ht-degree: 0%
    <td colspan="1">在培養一部分受眾後，一些人可能會成為營銷合格的線索，這意味著他們表現出符合您成功標準的行為和特徵，以便被轉給您的銷售組織進行跟進。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>市場營銷已暫停</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>行銷活動已暫停</strong></a></td> 
    <td colspan="1">此欄位由 <strong>用戶</strong> 在他們的Marketo <strong>資料庫</strong> 暫時無法發送。</td> 
   </tr> 
   <tr> 
@@ -555,7 +555,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>我的Marketo</strong></td> 
-   <td colspan="1">AdobeMarketo Engage的標準部分之一。 充當您的Marketo「首頁」，顯示您有權訪問的Marketo所有部分的磁貼。</td> 
+   <td colspan="1">是Adobe Marketo Engage的標準區之一。 充當您的Marketo「首頁」，顯示您有權訪問的Marketo所有部分的磁貼。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>我的令牌</strong></a></td> 
@@ -715,7 +715,7 @@ ht-degree: 0%
    <td colspan="1">用於 <strong>收入週期分析(RCA)</strong> 使用一系列階段，允許您跟蹤 <strong>鉛</strong> 在您嘗試轉換它們時，都會出現。</td> 
   </tr> 
   <tr> 
-   <td><strong>職位</strong></td> 
+   <td><strong>角色</strong></td> 
    <td>分配給用戶的標題，該用戶將一組權限分組在一起（例如，管理員、市場營銷用戶）。</td> 
   </tr> 
   <tr> 

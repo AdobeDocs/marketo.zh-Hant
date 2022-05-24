@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
+source-git-commit: 3559dff22a294545440790c712e80b853340b66d
 workflow-type: tm+mt
-source-wordcount: '8766'
+source-wordcount: '8770'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 + [首頁](home.md)
 + Marketo入門 {#getting-started-with-marketo}
    + [入門](getting-started.md)
-   + [什麼是AdobeMarketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
+   + [什麼是Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
    + [Marketo辭彙表](getting-started/marketo-glossary.md)
    + [經典表徵圖辭彙表](getting-started/classic-icon-glossary.md)
    + 設定 {#setup}
@@ -619,6 +619,7 @@ ht-degree: 0%
             + [建立對話框](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [對象條件](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
             + [流程設計工具](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
+            + [使用文檔卡](product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md)
             + [報告](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + 事件 {#events}
          + 瞭解事件 {#understanding-events}
