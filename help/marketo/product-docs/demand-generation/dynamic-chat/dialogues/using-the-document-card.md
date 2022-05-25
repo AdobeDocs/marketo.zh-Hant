@@ -1,11 +1,10 @@
 ---
 description: 使用文檔卡 — Marketo文檔 — 產品文檔
 title: 使用文檔卡
-hide: true
-hidefromtoc: true
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
+source-git-commit: 3df0369a963bd9c918fdeb819d503584c27cd5f1
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -28,15 +27,19 @@ ht-degree: 0%
 
    ![](assets/using-the-document-card-3.png)
 
+   >[!IMPORTANT]
+   >
+   >您需要使用將托管聊天機器人的域（例如，如果您在mycompany.com上托管聊天機器人，請確保在步驟4中輸入該域）。
+
 1. 按一下 **複製** 複製您的客戶端ID。
 
    ![](assets/using-the-document-card-4.png)
 
-1. 返回動態聊天，按一下 **整合**。 按一下「Adobe PDF嵌入API」下的dota並選擇 **編輯配置**。
+1. 返回動態聊天，按一下 **整合**。 在Adobe PDF嵌入API卡中，按一下 **激活**。
 
    ![](assets/using-the-document-card-5.png)
 
-1. 貼上客戶端ID並按一下 **更新**。
+1. 貼上客戶端ID並按一下 **保存**。
 
    ![](assets/using-the-document-card-6.png)
 
