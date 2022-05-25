@@ -4,9 +4,9 @@ title: 瞭解目標跟蹤和預計註冊
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '982'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 瞭解目標跟蹤和預計註冊 {#understanding-goal-tracking-and-projected-registrations}
 
 下面是如何追蹤你的目標進度並理解Marketo的預測。
+
+>[!PREREQUISITES]
+>
+>要訪問這些功能中的大部分，請確保 [下一代切換](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}用於事件程式。
 
 >[!NOTE]
 >

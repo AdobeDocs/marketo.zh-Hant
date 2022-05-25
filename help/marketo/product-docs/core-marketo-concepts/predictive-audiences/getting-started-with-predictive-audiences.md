@@ -1,12 +1,10 @@
 ---
 description: 預測受眾入門 — Marketo文檔 — 產品文檔
 title: 預測訪問群體入門
-hide: true
-hidefromtoc: true
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -21,7 +19,7 @@ PA包括以下功能：
 * [預測篩選器](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target=&quot;_blank&quot;
 * [模型及影響因素](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target=&quot;_blank&quot;
 * 基於AI/ML的洞察力
-* [目標跟蹤和預計註冊](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;}（目標跟蹤僅適用於為事件程式啟用下一代切換的用戶 — 要訪問此切換，請與CSM聯繫並請求預測受眾）
+* 目標跟蹤和預計註冊 — （目標跟蹤僅對為事件程式啟用下一代切換的用戶可用，以訪問此切換，與CSM聯繫並請求預測受眾）
 
 >[!NOTE]
 >
