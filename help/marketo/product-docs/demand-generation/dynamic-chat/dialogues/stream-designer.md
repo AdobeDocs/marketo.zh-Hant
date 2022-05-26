@@ -2,16 +2,20 @@
 description: 流設計器 — Marketo文檔 — 產品文檔
 title: 流程設計工具
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 3883f31e59e4ba2dccf53961068fea7d5f805192
+source-git-commit: f08484455baaf073bb42ae8a62a9dcc6fc7fd48f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '756'
+ht-degree: 2%
 
 ---
 
 # 流程設計工具 {#stream-designer}
 
-有 _許多_ 可以建立的流組合。 本文包含一個示例，在該示例中，商家詢問站點訪問者是否有任何產品問題。 如果是，訪問者可以安排預約。 如果否，則允許訪問者加入郵件清單以供將來通信。 目標是安排約會或收集訪問者的電子郵件。
+有 _許多_ 流組合是可能的。 本文包含一個示例，在該示例中，商家詢問站點訪問者是否有任何產品問題。 如果是，訪問者可以安排預約。 如果否，則允許訪問者加入郵件清單以供將來通信。 酒店還提供免費PDF。 最終目標是安排預約或收集訪問者的電子郵件。
+
+>[!PREREQUISITES]
+>
+>在使用文檔卡之前，必須先 [設定](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target=&quot;_blank&quot;}。
 
 ## 流設計卡 {#stream-designer-cards}
 
@@ -49,47 +53,51 @@ ht-degree: 0%
 
 1. 等你 [已建立對話框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}，按一下 **流設計器** 頁籤。
 
-   ![](assets/create-a-stream-1.png)
+   ![](assets/stream-designer-1.png)
 
 1. 拖放問題卡。
 
-   ![](assets/create-a-stream-2.png)
+   ![](assets/stream-designer-2.png)
 
 1. 在查博回應下，你想問什麼。
 
-   ![](assets/create-a-stream-3.png)
+   ![](assets/stream-designer-3.png)
 
    >[!NOTE]
    >
-   >預設情況下，Poke設定為on ，即在聊天表徵圖旁顯示開題，而訪問者不必按一下它即可查看。
+   >預設情況下，Poke設定為on ，即在聊天表徵圖旁顯示開題，而訪問者不必按一下它即可查看。 Poke僅在對話中的第一張卡上可用。
 
 1. 輸入用戶響應，然後按一下 **保存**。
 
-   ![](assets/create-a-stream-4.png)
+   ![](assets/stream-designer-4.png)
+
+   >[!NOTE]
+   >
+   >**編輯儲存的值** 對於希望在資料庫中儲存與查看機中訪問者在查看卡中映射屬性時所顯示的值不同的用戶，這是可選步驟(例如：訪問者看到「搜索引擎優化」，將該值儲存為「SEO」。)
 
 1. 對於「是」，我們要安排約會，因此在該選項下方拖動到約會計畫程式卡上。
 
-   ![](assets/create-a-stream-5.png)
+   ![](assets/stream-designer-5.png)
 
 1. 在右側的列中，按一下 **保存**。
 
-   ![](assets/create-a-stream-6.png)
+   ![](assets/stream-designer-6.png)
 
 1. 因為這是目標，請將目標卡拖到約會計畫程式下面。
 
-   ![](assets/create-a-stream-7.png)
+   ![](assets/stream-designer-7.png)
 
 1. 命名目標（或選擇現有目標），然後按一下 **保存**。
 
-   ![](assets/create-a-stream-8.png)
+   ![](assets/stream-designer-8.png)
 
 1. 對於「否」，我們希望查看他們是否會加入郵件清單，因此，在該選項下面，將其拖動到另一問號卡上。
 
-   ![](assets/create-a-stream-9.png)
+   ![](assets/stream-designer-9.png)
 
 1. 輸入您的響應，並為訪問者添加響應選項。 按一下 **保存** 完成。
 
-   ![](assets/create-a-stream-10.png)
+   ![](assets/stream-designer-10.png)
 
    >[!NOTE]
    >
@@ -97,15 +105,15 @@ ht-degree: 0%
 
 1. 在「Yes（是）」響應下，拖動「Info Capture（資訊捕獲）」卡，以便收集訪問者的電子郵件。
 
-   ![](assets/create-a-stream-11.png)
+   ![](assets/stream-designer-11.png)
 
 1. 按一下 **類型** 下拉並選擇 **電子郵件**。
 
-   ![](assets/create-a-stream-12.png)
+   ![](assets/stream-designer-12.png)
 
 1. 輸入聊天器消息和佔位符。 確保屬性映射到Marketo的相應欄位，然後按一下 **保存**。
 
-   ![](assets/create-a-stream-13.png)
+   ![](assets/stream-designer-13.png)
 
    <table>
     <tr>
@@ -128,27 +136,27 @@ ht-degree: 0%
 
 1. 由於收集其電子郵件是一個目標，請將目標卡拖到「資訊捕獲」下。
 
-   ![](assets/create-a-stream-14.png)
+   ![](assets/stream-designer-14.png)
 
 1. 命名目標（或選擇現有目標），然後按一下 **保存**。
 
-   ![](assets/create-a-stream-15.png)
+   ![](assets/stream-designer-15.png)
 
-1. 如果他們說「否」，請記住添加一個響應。 將留言卡拖到該選項下面。
+1. 如果他們說「否」，請記住添加一個響應。 一個選項是將留言卡拖到下面，然後說「反正謝謝」。 但在本例中，我們將為他們提供一個免費PDF文檔。
 
-   ![](assets/create-a-stream-16.png)
+   ![](assets/stream-designer-16.png)
 
-1. 輸入您的消息，然後按一下 **保存**。
+1. 在此示例中，我們將建立新文檔。 給它一個名稱，輸入您已托管的PDF的URL，然後按一下 **保存**。
 
-   ![](assets/create-a-stream-17.png)
+   ![](assets/stream-designer-17.png)
 
 1. 選擇 **預覽** 切換以預覽對話框。
 
-   ![](assets/create-a-stream-18.png)
+   ![](assets/stream-designer-18.png)
 
 1. 準備好激活對話框後，按一下 **發佈**。
 
-   ![](assets/create-a-stream-19.png)
+   ![](assets/stream-designer-19.png)
 
 >[!NOTE]
 >
@@ -159,4 +167,5 @@ ht-degree: 0%
 >* [建立對話框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;
 >* [受眾標準](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;
 >* [報告](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;
+>* [使用文檔卡](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target=&quot;_blank&quot;
 
