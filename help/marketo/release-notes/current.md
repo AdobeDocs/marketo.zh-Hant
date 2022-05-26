@@ -2,9 +2,9 @@
 description: 當前發行說明 — Marketo文檔 — 產品文檔
 title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 375af5ec7293acd0cdf352c8aa0a7a3973b248be
+source-git-commit: f7bb22572ed1a79fe8afe4a1066a2cc172a43f23
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '644'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,12 @@ ht-degree: 0%
 ![（星號）](assets/yellow-star.png)
 
 * **Salesforce中的Sales Insight權限集**:管理員可以通過Sales Insight Salesforce包的一部分Marketo應用權限集，為用戶級別上的有限人員集提供Sales Insight訪問權限，而不是配置檔案級別。
+
+* **我的Marketo磁貼更新 — Sales Insight操作**:Marketo管理員（以及他們指定的用戶）現在可以通過位於「我的Marketo」頁面上的新Sales Insight Actions磁貼快速導航到其Sales Insight Actions實例。
+
+## 銷售連接 {#sales-connect}
+
+* **Salesforce API更新**:在Salesforce Summer &#39;22發行版中，Salesforce將不再支援API舊版21 -30。 在此Marketo Engage版本中，所有使用舊版API版本的Sales Connect請求都已更新，以保留在受支援的版本內。 有關Salesforce API報廢計畫的完整詳細資訊，請按一下 [這裡](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}。
 
 ## API增強 {#api-enhancements}
 
