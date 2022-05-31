@@ -1,9 +1,8 @@
 ---
 description: 快速指南 — Marketo文檔 — 產品文檔
 title: 快速指南
-hide: true
-hidefromtoc: true
-source-git-commit: f33af70109b0491138aff8aa0416f3f919e7d20c
+exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
+source-git-commit: 4dbf9afa79533034c040fa6fe9756e0fa7c0fbcd
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
