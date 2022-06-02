@@ -2,9 +2,9 @@
 description: 當前發行說明 — Marketo文檔 — 產品文檔
 title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f7bb22572ed1a79fe8afe4a1066a2cc172a43f23
+source-git-commit: 40e88a573079b87b3af9a653d8e0b64b5b7522bc
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 ## 公告 {#announcements}
 
-* **Forms棄用 — Forms1.0、引導捕獲/保存終結點和表單的無指令碼版本**:對Forms1.0資產的支援將完全從Marketo Engage中取消。 所有Forms1.0現有資產將停止運作。 Marketo Engage表單需要JavaScript載入到登錄頁和網站上。
+* **Forms棄用 — Forms1.0、引導捕獲/保存終結點和表單的無指令碼版本**:2022年10月將完全取消對Forms1.0資產的支援。 所有Forms1.0現有資產將停止運作。 Marketo Engage表單需要JavaScript載入到登錄頁和網站上。
 
 **_產品發佈網路研討會_**
 
