@@ -1,12 +1,10 @@
 ---
 description: 瞭解目標跟蹤和預計註冊 — Marketo文檔 — 產品文檔
 title: 瞭解目標跟蹤和預計註冊
-hide: true
-hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
+source-git-commit: c3a17d5d938c91103173999d27e8bc9e75137e29
 workflow-type: tm+mt
-source-wordcount: '982'
+source-wordcount: '988'
 ht-degree: 0%
 
 ---
@@ -27,23 +25,27 @@ ht-degree: 0%
 
 1. 您可以在 **[!UICONTROL 報告]** 頁籤。 在這個具體例子中，到目前為止有150名註冊成員，而目標是200(75%)。
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
 你也會看到 **[!UICONTROL 預計]** 。 將滑鼠懸停在「資訊」表徵圖上，查看此數字按「似然」段的細分。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
 >[!NOTE]
 >
 >「已出席」和「較高」圖表將一直為空，直到事件發生之日。
 
+如果尚未啟用切換開關，請在Marketo類UI中顯示它：
+
+![](assets/understanding-goal-tracking-and-projected-registrations-3.png)
+
 1. 按一下「圖表」切換以按註冊可能性切換到成員的細分。 您將看到每個段的當前註冊百分比，與過去程式中該段的平均百分比相比。
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
 所有成員（已註冊且尚未註冊）均根據其註冊可能性進行分類。 將滑鼠懸停在資訊表徵圖上，查看如何定義這些可能性類別。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
@@ -62,19 +64,19 @@ PICC
 * 從事件建立到事件啟動的持續時間
 * 事件持續時間
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
 ## Recommendations
 
 在「報告」頁面頂部，您可以根據您的進度找到AI/ML驅動的建議。 定期回訪，瞭解有用的提示和見解！
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## 人員級預測
 
 按一下 **[!UICONTROL 成員]** 頁籤。 懸停在 **[!UICONTROL 註冊可能性]** 或 **[!UICONTROL 考勤可能性]** 欄，以查看確切的百分比和分類。 然後，您可以對特定類別中的成員（例如，「不太可能」類別中的所有成員進行註冊）採取措施，並特別針對他們以潛在地提高註冊號。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
 >[!NOTE]
 >
@@ -110,7 +112,7 @@ PICC
 
 三。 如果預計註冊數小於目標數，則您必須邀請更多人。 現在，你可以看到一些洞察力，告訴你在過去的課程中，閾值是什麼。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-9.png)
 
 四。 您可以建立具有該閾值的新智慧市場活動以邀請更多人。
 
@@ -124,7 +126,7 @@ v.如果您想要瞭解投影數顯示的原因，可以在任意時間點切換
 
 **藍色條：** 該部門中所有人員的登記百分比。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
 例如，假設100人有可能註冊超過50%，而註冊的100人中有60人。 很有可能有60%的轉換率。 這樣，所有添加到程式的成員都獲得註冊值的可能性，然後將它們放入段中，並根據每個段轉換率中註冊的人數計算它們。
 
@@ -134,10 +136,10 @@ PICC
 
 您可以為事件程式建立新的晉升狀態，但我們將這些狀態映射為標準狀態。 考慮將某人從被邀請轉到被提醒的情況，這比註冊要高。 此人還將被視為已註冊並顯示在目標跟蹤中。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-11.png)
 
 **問：如何計算預計登記？**
 
 答：參見下面。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-12.png)
