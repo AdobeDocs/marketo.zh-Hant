@@ -3,9 +3,9 @@ description: 計畫成員自定義欄位 — Marketo文檔 — 產品文檔
 title: 程式成員自定義欄位
 hide: true
 hidefromtoc: true
-source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+source-git-commit: 09e9ee74c32f81fdc826454266d3e16826a09eae
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '348'
 ht-degree: 4%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 4%
 >
 >程式成員對象最多可包含20個自定義欄位。 這些欄位可用於任何程式。
 
-## 將Salesforce欄位映射到程式成員欄位 {#map-salesforce-fields-to-program-member-fields}
+## 將Salesforce欄位映射到程式成員自定義欄位 {#map-salesforce-fields-to-program-member-custom-fields}
 
 1. 在Marketo，按一下 **管理**。
 
@@ -60,7 +60,7 @@ ht-degree: 4%
    >
    >如果更名或更改Salesforce中某個欄位的資料類型，我們將刪除該欄位與Program Member Custom Field的任何映射。 但是，你可以在審閱後用新欄位重新映射它。
 
-## 將Salesforce欄位取消映射到程式成員欄位 {#unmap-salesforce-fields-to-program-member-fields}
+## 從程式成員自定義欄位取消映射Salesforce欄位 {#unmap-salesforce-fields-from-program-member-custom-fields}
 
 如果要釋放某個欄位以替換它，或僅進行一般更改，則必須先執行取消映射。 這是方法。
 
@@ -88,7 +88,7 @@ ht-degree: 4%
 
    ![](assets/program-member-custom-field-sync-11.png)
 
-## 資料類型映射 {#datatype-mapping}
+## 資料類型映射 {#data-type-mapping}
 
 <table>
   <colgroup>
@@ -98,7 +98,7 @@ ht-degree: 4%
   <tbody>
     <tr>
       <th>SFDC資料類型</th>
-      <th>程式成員欄位資料類型</th>
+      <th>程式成員自定義欄位資料類型</th>
     </tr>
     <tr>
       <td>文字</td>
