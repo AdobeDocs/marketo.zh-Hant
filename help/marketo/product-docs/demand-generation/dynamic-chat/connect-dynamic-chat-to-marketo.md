@@ -2,16 +2,16 @@
 description: 將動態聊天連接到Marketo-Marketo文檔 — 產品文檔
 title: 將動態聊天連接到Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: c36b9206494c14a52937fa787a37601eaf6f4bd4
+source-git-commit: 1a3c22db02bb7c26380d58c816baef4b40a357ac
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
 # 將動態聊天連接到Marketo {#connect-dynamic-chat-to-marketo}
 
-在您完成 [初始設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)，是時候執行一次同步，將動態聊天連接到您的Marketo訂閱。
+在您完成 [初始設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target=&quot;_blank&quot;}，現在是時候執行一次同步，將動態聊天連接到您的Marketo訂閱。
 
 1. 在「我的Marketo」中，按一下 **動態聊天** 平鋪。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
    >
    >如果看不到磁貼，請聯繫您的Marketo管理員。
 
-1. 如果您以前曾與Adobe ID聯繫過應用程式，您將直接轉到動態聊天。 如果沒有， [設定你的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)。
+1. 如果您以前曾與Adobe ID聯繫過應用程式，您將直接轉到動態聊天。 如果沒有， [設定你的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}。
 
 1. 要連接您的Marketo實例，請選擇 **整合**。
 
@@ -47,32 +47,6 @@ ht-degree: 0%
 >
 >同步可能需要2到24小時的任意時間完成，具體取決於資料庫的大小。
 
-## 連結您的Adobe組織和Marketo {#link-your-adobe-org-and-marketo}
-
-接下來，是時候把Adobe和Marketo聯繫起來了。
-
->[!IMPORTANT]
->
->建立此映射的Marketo Engage用戶的電子郵件地址還必須具有對正在連接的Adobe組織的訪問權限。
-
-1. 登錄到 [experience.adobe.com](https://experience.adobe.com)。
-
-1. 在Experience Cloud中的任何位置按一下螢幕，然後按ctrl+i。在 **分配的組織** 頁籤，突出顯示並複製組織ID(_減_ 「@AdobeOrg」)。 按 **關閉** 完成。
-
-   ![](assets/connect-dynamic-chat-to-marketo-6.png)
-
-1. 在Marketo，轉到 **管理** 選擇 **Adobe組織映射**。
-
-   ![](assets/connect-dynamic-chat-to-marketo-7.png)
-
-1. 按一下 **編輯**。
-
-   ![](assets/connect-dynamic-chat-to-marketo-8.png)
-
-1. 貼上在步驟2中複製的組織ID並按一下 **確定**。
-
-   ![](assets/connect-dynamic-chat-to-marketo-9.png)
-
 >[!MORELIKETHIS]
 >
->[初始設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)
+>[初始設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target=&quot;_blank&quot;
