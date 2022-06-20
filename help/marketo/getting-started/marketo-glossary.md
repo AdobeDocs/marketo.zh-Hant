@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Marketo辭彙表 — Marketo文檔 — 產品文檔
 title: Marketo辭彙表
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 164669e6649927e570974af227c2b1af75ad73d3
 workflow-type: tm+mt
-source-wordcount: '4196'
+source-wordcount: '4203'
 ht-degree: 0%
 
 ---
@@ -28,19 +28,15 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>帳戶</strong></td> 
-   <td colspan="1">這個詞可以有不同的含義：<br> — 您的Marketo實例本身可以稱為您的Marketo帳戶。<br> — 輸入 <strong>反彈道導彈</strong>的 <strong>指定帳戶</strong> 是用戶確定要追蹤的目標帳戶。<br> — 在ABM中，CRM帳戶是從連結中映射的帳戶 <strong>CRM</strong> （帳戶） <strong>Salesforce</strong>。 <strong>MS動態</strong> 或 <strong>API</strong>)。<br> — 在您的CRM中，客戶是與潛在客戶和聯繫人關聯的業務/公司。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">基於客戶的市場營銷</a> （反彈道導彈）</strong></td> 
-   <td colspan="1">附加功能，允許您以高度協調的方式瞄準和接洽關鍵客戶。</td> 
+   <td colspan="1">這個詞可以有不同的含義：<br> — 您的Marketo實例本身可以稱為您的Marketo帳戶。<br> — 輸入 <strong>譚</strong>的 <strong>指定帳戶</strong> 是用戶確定要追蹤的目標帳戶。<br> — 在TAM中，CRM帳戶是從連結的帳戶映射的帳戶 <strong>CRM</strong> （帳戶） <strong>Salesforce</strong>。 <strong>MS動態</strong> 或 <strong>API</strong>)。<br> — 在您的CRM中，客戶是與潛在客戶和聯繫人關聯的業務/公司。</td> 
   </tr> 
   <tr> 
    <td><strong>帳戶清單</strong></td> 
-   <td>主要帳戶/組織名稱清單。 也稱為Account-Based Marketing(<strong>反彈道導彈</strong>)。</td> 
+   <td>主要帳戶/組織名稱清單。 也稱為目標帳戶管理(<strong>譚</strong>)。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>帳戶分析</strong></td> 
-   <td colspan="1">（前稱AccountAI） <strong>反彈道導彈</strong>，使用理想客戶配置檔案(ICP)，將對資料庫中的現有公司進行排名，並將排名作為分數添加到您的帳戶中。</td> 
+   <td colspan="1">（前稱AccountAI） <strong>譚</strong>，使用理想客戶配置檔案(ICP)，將對資料庫中的現有公司進行排名，並將排名作為分數添加到您的帳戶中。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">帳戶分數</a></strong></td> 
@@ -374,7 +370,7 @@ ht-degree: 0%
    <td colspan="1">當ISP將收件人的投訴轉發給發送電子郵件的組織時。</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md" rel="nofollow"><strong>篩選</strong></a></td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md" rel="nofollow"><strong>篩選器</strong></a></td> 
    <td>用於 <strong>智慧清單</strong> 這樣，您就可以縮小受眾（例如，資料庫中居住在加利福尼亞的所有人）。 篩選器可同時用於 <strong>批</strong> 和 <strong>觸發市場活動</strong>。</td> 
   </tr> 
   <tr> 
@@ -481,7 +477,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>線索</strong></td> 
-   <td>在 <strong>Adobe Marketo Engage</strong>, lead是上一個術語(替換為 <strong>人</strong>)用來描述你的Marketo <strong>資料庫</strong> 你通過營銷活動參與其中。 在 <strong>CRM</strong>，線索可代表不同的概念(即與 <strong>機會</strong>)獨立於Marketo的功能。</td> 
+   <td>在 <strong>Adobe Marketo Engage</strong>, lead是上一個術語(替換為 <strong>人</strong>)用來描述你的Marketo <strong>資料庫</strong> 通過營銷活動來參與。 在 <strong>CRM</strong>，線索可代表不同的概念(即與 <strong>機會</strong>)獨立於Marketo的功能。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>潛在客戶資料庫</strong></td> 
@@ -574,7 +570,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><strong>指定帳戶</strong></td> 
-   <td><p>在 <strong>反彈道導彈</strong>，用戶確定的帳戶是要追蹤的目標帳戶。</p></td> 
+   <td><p>在 <strong>譚</strong>，用戶確定的帳戶是要追蹤的目標帳戶。</p></td> 
   </tr> 
   <tr> 
    <td><strong>培養計畫</strong></td> 
@@ -647,7 +643,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>人物</strong></a></td> 
-   <td colspan="1">在Marketo <strong>基於客戶的市場營銷</strong>,personas是受眾的子集，允許進行更具體的定位。</td> 
+   <td colspan="1">在Marketo <strong>目標帳戶管理</strong>,personas是受眾的子集，允許進行更具體的定位。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>投票</strong></a></td> 
@@ -742,7 +738,7 @@ ht-degree: 0%
    <td colspan="1">test <strong>電子郵件</strong> 您發送給您自己（和/或他人），在將其發送給您的客戶之前，先查看其外觀。 您還可以使用示例來test <strong>動態內容</strong>。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" rel="nofollow">段</a></strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" rel="nofollow">區段</a></strong></td> 
    <td>分段內的類別(請參見 <strong>分段</strong>)。</td> 
   </tr> 
   <tr> 
@@ -807,7 +803,11 @@ ht-degree: 0%
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">標籤</a></strong></td> 
    <td>用於描述的標識符 <strong>方案</strong>。</td> 
-  </tr> 
+  </tr>
+  <tr> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">目標帳戶管理</a> (TAM)</strong></td> 
+   <td colspan="1">（以前基於客戶的營銷/ABM）附加功能，允許您以高度協調的方式瞄準和接洽關鍵客戶。</td> 
+  </tr>
   <tr> 
    <td><strong>模板</strong></td> 
    <td>安 <strong>電子郵件</strong> 或 <strong>登錄頁</strong> 用於建立其他電子郵件或登錄頁的起點。</td> 
