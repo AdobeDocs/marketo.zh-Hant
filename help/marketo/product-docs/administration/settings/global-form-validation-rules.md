@@ -2,7 +2,7 @@
 description: 全局表單驗證規則 — Marketo文檔 — 產品文檔
 title: 全局表單驗證規則
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 7749bd1fec7a7c1974efdb8de046eed4f34aefc4
+source-git-commit: c91fa08bcb833a4c8a65055fd2471d7bc03a4e71
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
