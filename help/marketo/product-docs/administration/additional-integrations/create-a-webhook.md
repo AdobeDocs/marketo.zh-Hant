@@ -1,52 +1,53 @@
 ---
 unique-page-id: 2360360
-description: 建立網頁掛接-Marketo檔案——產品檔案
+description: 建立網頁掛接 — Marketo文檔 — 產品文檔
 title: 建立網頁掛接
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 建立Webhook {#create-a-webhook}
+# 建立網頁掛接 {#create-a-webhook}
 
-使用網頁勾點，運用協力廠商的Web服務來傳送文字訊息、擴充人員資料等。
+使用Webhooks利用第三方Web服務發送文本消息、擴展人員資料等。
 
 >[!AVAILABILITY]
 >
->並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
+>並非所有客戶都購買了此功能。 請與銷售代表聯繫以瞭解詳細資訊。
 
-1. 前往&#x200B;**Admin**，然後按一下&#x200B;**Webhooks**。
+1. 轉到 **管理** 按一下 **網鈎**。
 
    ![](assets/image2014-9-24-14-3a52-3a57.png)
 
-1. 按一下「**新建Webhook**」。
+1. 按一下 **新建Webhook**。
 
    ![](assets/image2014-9-24-14-3a53-3a9.png)
 
-1. 命名並設定您的網頁掛接。
+1. 命名並配置網路掛接。
 
    ![](assets/image2014-9-24-14-3a53-3a19.png)
 
    >[!NOTE]
    >
-   >這通常包括以URL參數或在POST範本中輸入您的協力廠商服務認證。
+   >這通常包括將第三方服務憑據作為URL參數輸入，或在POST模板中輸入。
 
-   * **URL**:輸入您用來POST您對web service的要求的URL。若要在您的請求中插入Token，例如人員的電子郵件地址(**`{{lead.Email Address}}`**)，請按一下「插入Token」（插入Token）**。**
+   * **URL**:輸入在請求Web服務時使用的URL。 插入令牌，如人員的電子郵件地址(**`{{lead.Email Address}}`**)，在您的請求中，按一下 **插入標籤**。
 
-   * **範本**:如果要在POST正文中傳輸資訊，請輸入模板。使用任何支援HTTPPOST的資料格式，包括XML、JSON或SOAP。 若要在範本中插入Token，請按一下「插入Token **」。**
+   * **模板**:如果要在POST正文中傳輸資訊，請輸入模板。 使用支援HTTPPOST的任何資料格式，包括XML、JSON或SOAP。 要在模板中插入令牌，請按一下 **插入標籤**。
 
-   * **請求代號編碼**:如果Token值包含特殊字元（例如&amp;符號、&#39;&amp;&#39;），請指出您請求的格式(**** JSON或 **Form/Url**)。
+   * **請求令牌編碼**:如果令牌值包含特殊字元（如「&amp;」和符號），請指示請求的格式(**JSON** 或 **窗體/URL**)。
 
-   * **回應類型**:選取您從服務(**** JSON或 **XML**)收到的回應格式。
+   * **響應類型**:選擇從服務接收的響應的格式(**JSON** 或 **XML**)。
 
-   按一下「建立」。
+   * **請求類型**:選擇要使用的HTTP方法(DELETE、GET、PATCH、POST、PUT)
+
+   按一下 **建立**。
 
    ![](assets/image2014-9-24-14-3a53-3a35.png)
 
 >[!NOTE]
 >
->從[webhooks](https://developers.marketo.com/documentation/webhooks/)深入探討進一步瞭解。
+>在 [網鈎](https://developers.marketo.com/documentation/webhooks/) 深潛。

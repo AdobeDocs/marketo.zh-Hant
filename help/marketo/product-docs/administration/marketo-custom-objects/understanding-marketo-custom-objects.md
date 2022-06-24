@@ -1,102 +1,101 @@
 ---
 unique-page-id: 10093188
-description: 瞭解Marketo自訂物件-Marketo檔案——產品檔案
-title: 瞭解Marketo自訂物件
+description: 瞭解Marketo自定義對象 — Marketo文檔 — 產品文檔
+title: 瞭解Marketo自定義對象
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
 workflow-type: tm+mt
 source-wordcount: '679'
 ht-degree: 0%
 
 ---
 
-# 瞭解Marketo自定義對象{#understanding-marketo-custom-objects}
+# 瞭解Marketo自定義對象 {#understanding-marketo-custom-objects}
 
-使用自訂物件來追蹤您業務的特定量度。
+使用自定義對象跟蹤特定於您的業務的度量。
 
 >[!AVAILABILITY]
 >
->並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
+>並非所有客戶都購買了此功能。 請與銷售代表聯繫以瞭解詳細資訊。
 
-在智慧型促銷活動中使用自訂物件做為篩選和觸發器。 例如：
+將自定義對象用作智慧市場活動中的篩選器和觸發器。 例如：
 
-* **篩選**:僅傳送電子郵件給特定汽車品牌的擁有者
-* **觸發器**:當自訂物件新增至個人或公司時，傳送電子郵件。
+* **篩選**:僅向特定汽車品牌的所有者發送電子郵件
+* **觸發器**:將自定義對象添加到個人或公司時發送電子郵件。
 
-您可以在一對多或多對多關係中設定自訂物件。 例如：
+您可以在一對多或多對多關係中設定自定義對象。 例如：
 
-* **一對多**:一個人擁有幾輛汽車
-* **多對多**:從課程目錄註冊多個課程的學生
+* **一對多**:一個人擁有幾輛車
+* **多對多**:從課程目錄中註冊多個課程的多個學生
 
-一對多結構使用單一連結欄位將自訂物件連接至個人或公司。
+一對多結構使用單個連結欄位將自定義對象連接到個人或公司。
 
-多對多自訂物件使用兩個連結欄位，這是中間物件的一部分。 一個「連結」欄位會連接至人員或公司，另一個欄位則會連接至自訂物件，例如課程目錄。 此中介物件可包含其他自訂欄位，例如課程等級或出勤日期，進一步定義連線的性質。
+多對多自定義對象使用兩個連結欄位，這是中間對象的一部分。 一個「連結」欄位連接到個人或公司，另一個欄位連接到自定義對象，如課程目錄。 此中介對象可以包含附加的自定義欄位，如課程等級或考勤日期，這進一步定義了連接的性質。
 
 >[!TIP]
 >
->在使用者介面中使用逗號分隔值(CSV)匯入自訂物件，以測試和驗證資料範例。 然後，使用API上傳您的所有檔案。
+>在用戶介面中使用逗號分隔值(CSV)導入自定義對象以test和驗證資料示例。 然後，使用API上載所有檔案。
 
 >[!CAUTION]
 >
->您無法還原自訂物件，因此在刪除物件之前，請務必不再需要這些物件。
+>無法還原自定義對象，因此在刪除這些對象之前，請確保不再需要它們。
 
-## 訪問Marketo自定義對象{#accessing-marketo-custom-objects}
+## 訪問Marketo自定義對象 {#accessing-marketo-custom-objects}
 
-1. 若要建立或編輯Marketo自訂物件，請按一下&#x200B;**管理**，然後按一下&#x200B;**Marketo自訂物件**&#x200B;連結。
+1. 要建立或編輯Marketo自定義對象，請按一下 **管理** 然後 **Marketo自定義對象** 的子菜單。
 
-   ![](assets/image2016-5-18-16-3a59-3a30.png)
+   ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. 「Marketo自訂物件」會在右側列出您的所有自訂物件，但主格線中只會列出已核准的物件。
+1. 「Marketo自定義對象」顯示右側列出了所有自定義對象，但只列出了主網格中已批准的對象。
 
-   ![](assets/image2016-6-10-15-3a14-3a18.png)
+   ![](assets/understanding-marketo-custom-objects-2.png)
 
 1. 網格顯示對象名稱、記錄數、欄位數和最近更新的日期。
 
    >[!TIP]
    >
-   >Marketo會自動更新這些欄位，但您可以按一下「記錄」欄中的圖示，重新整理顯示畫面。
+   >Marketo會自動更新這些欄位，但您可以通過按一下「記錄」列中的表徵圖來刷新顯示。
 
-1. 按一下右側的物件名稱，以開啟詳細資訊頁面。
+1. 按一下右側的對象名稱以開啟詳細資訊頁面。
 
-   ![](assets/image2016-6-10-15-3a15-3a29.png)
+   ![](assets/understanding-marketo-custom-objects-3.png)
 
-## 查看與{#view-custom-objects-associated-to-a-person}人員關聯的自定義對象
+## 查看與人員關聯的自定義對象 {#view-custom-objects-associated-to-a-person}
 
-在您建立自訂物件結構後，當您上傳特定自訂物件資料時，自訂物件會使用自訂物件中的連結欄位，自動與資料庫中的人員建立關聯。 您可以從人員詳細資料頁面的「自訂物件」索引標籤中檢視資訊。
+建立自定義對象結構後，在上載特定的自定義對象資料時，自定義對象將自動使用自定義對象中的連結欄位與資料庫中的人員相關聯。 您可以從人員詳細資訊頁面的「自定義對象」頁籤中查看資訊。
 
-1. 轉至&#x200B;**Database**。
+1. 轉到 **資料庫**。
 
-   ![](assets/db.png)
+   ![](assets/understanding-marketo-custom-objects-4.png)
 
-1. 開啟資料庫，然後按一下&#x200B;**People**&#x200B;頁籤。 連按兩下您與自訂物件關聯之人員的記錄。
+1. 開啟資料庫，然後按一下 **人物** 頁籤。 按兩下您與自定義對象關聯的人員的記錄。
 
-   ![](assets/five.png)
+   ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. 在人員詳細資訊頁面上，按一下&#x200B;**自定義對象**&#x200B;頁籤。 從下拉式清單中選取物件。
+1. 在人員詳細資訊頁面上，按一下 **自定義對象** 頁籤。 從下拉清單中選擇對象。
 
-   ![](assets/six.png)
+   ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. 現在，您可以檢視與該人員相關聯之該類型所有自訂物件的清單。
+1. 現在，您可以查看與該人員關聯的該類型的所有自定義對象的清單。
 
-   ![](assets/seven.png)
+   ![](assets/understanding-marketo-custom-objects-7.png)
 
-## 搭配公司使用自訂物件{#using-custom-objects-with-companies}
+## 將自定義對象與公司一起使用 {#using-custom-objects-with-companies}
 
-如果您從CRM同步公司，或者您使用API明確建立公司，連結至公司的自訂物件最能運作。 我們也建議您使用「公司ID」作為連結欄位。
+如果您從CRM中同步公司，或者您使用API顯式建立公司，則連結到公司的自定義對象最有效。 我們還建議您使用公司ID作為連結欄位。
 
-如果您在Marketo有多人是CRM或僅限Marketo的記錄，連結至公司的自訂物件將不會關聯至多個個別記錄。 這是因為，只有當公司與CRM同步或您使用API明確建立公司時，才支援在其下有多人的公司。
+如果您在Marketo有多個人員，這些人員是CRM或僅Marketo記錄中的記錄，則連結到公司的自定義對象將不會與多個單個記錄關聯。 這是因為只有當公司從CRM向下同步或您使用API顯式建立公司時，才支援在其下面具有多個人員的公司。
 
-自訂物件只能直接連結至單一記錄。 這表示當您的自訂物件類型依公司欄位連結時，如果您使用Marketo的REST API來管理公司，您應確保您的個人記錄與公司相關聯，要麼在CRM中使用連絡人轉換，要麼使用externalCompanyId欄位。 對於未明確連結至公司記錄的個人記錄，使用公司連結的自訂物件會隨機連結至單一記錄，即使公司欄位的值已共用給許多人亦然。
+自定義對象只能直接連結到單個記錄。 這意味著，當您的自定義對象類型按公司欄位連結時，如果您使用Marketo的REST API管理公司，則應確保您的人員記錄與公司關聯，或者使用CRM中的聯繫人轉換，或者使用externalCompanyId欄位。 對於未明確連結到公司記錄的人員記錄，使用公司連結的自定義對象將隨機連結到單個記錄，即使公司欄位的值在多個人之間共用。
 
-如需詳細資訊，請參閱[匯入自訂物件資料](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)。
+請參閱 [導入自定義對象資料](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) 的子菜單。
 
 >[!MORELIKETHIS]
 >
->* [建立Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
->* [批准自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
+>* [建立Marketo自定義對象](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+>* [批准自定義對象](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
 >* [編輯和刪除Marketo自定義對象](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [新增Marketo自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [添加Marketo自定義對象欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
 >* [編輯和刪除Marketo自定義對象欄位](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
->* [匯入自訂物件資料](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
+>* [導入自定義對象資料](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
 
