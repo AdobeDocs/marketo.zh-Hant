@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: 配置Marketo協定 — Marketo文檔 — 產品文檔
 title: 配置Marketo協定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1020'
 ht-degree: 1%
 
 ---
@@ -99,7 +99,7 @@ ht-degree: 1%
 
    `[DKIMDomain2]`:主機記錄為 `[HostRecord2]` TXT值為 `[TXTValue2]`。
 
-   在以下操作之後，複製您設定的每個DKIMDomain的HostRecord和TXTValue [說明](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)。 在IT人員完成此步驟後，不要忘記在「管理」>「電子郵件」>「DKIM」中驗證每個域。
+   在以下操作之後，複製您設定的每個DKIMDomain的HostRecord和TXTValue [說明](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target=&quot;_blank&quot;}。 在IT人員完成此步驟後，不要忘記在「管理」>「電子郵件」>「DKIM」中驗證每個域。
 
 ## 第4步：設定域的MX記錄 {#step-set-up-mx-records-for-your-domain}
 

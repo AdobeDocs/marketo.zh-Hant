@@ -1,37 +1,37 @@
 ---
 unique-page-id: 2949467
-description: 什麼是AdobeMarketo Engage? - Marketo檔案 — 產品檔案
-title: 什麼是AdobeMarketo Engage?
+description: 什麼是Adobe Marketo Engage? -Marketo文檔 — 產品文檔
+title: 什麼是Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: da8b6723589e1478bfa3dc69d74d27cddf1311c7
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# 什麼是AdobeMarketo Engage? {#what-is-adobe-marketo-engage}
+# 什麼是Adobe Marketo Engage? {#what-is-adobe-marketo-engage}
 
-AdobeMarketo Engage(有時稱為Marketo Engage，甚至只是Marketo)是行銷自動化軟體。 行銷自動化可讓您簡化、自動化和衡量行銷工作和工作流程，以提高營運效率並更快增加收入。
+Adobe Marketo Engage(有時被稱為Marketo Engage，甚至只是Marketo)是營銷自動化軟體。 市場營銷自動化使您能夠優化、自動化和衡量營銷任務和工作流，以便您能夠提高運營效率並更快地增加收入。
 
-## 我可以在Marketo Engage中做什麼？ {#what-can-i-do-in-marketo-engage}
+## 我能在Marketo Engage做什麼？ {#what-can-i-do-in-marketo-engage}
 
-Marketo Engage有許多絕佳功能可協助您達成行銷目標。 比如……
+Marketo Engage擁有大量強大功能，可幫助您實現營銷目標。 像……
 
-* 表單編輯器
-* 登錄頁面編輯器
-* 引導式登錄頁面範本
+* 窗體編輯器
+* 登錄頁編輯器
+* 引導登錄頁模板
 * 電子郵件編輯器
 * 郵件爆炸工具
-* 區段
+* 分段
 * 預測內容
 * 網路研討會整合
-* 行動行銷
+* 移動營銷
 * 與您的CRM（Salesforce或Dynamics）同步
 * 網站整合
-* 工作流程引擎
-* 人員分數
-* 面向銷售代表的In-CRM Dashboard
+* 工作流引擎
+* 人員評分
+* 面向銷售代表的In-CRM儀表板
 * 程式分析
 * 目標帳戶管理
 
@@ -39,14 +39,14 @@ Marketo Engage有許多絕佳功能可協助您達成行銷目標。 比如…�
 
 ## 我需要學習這些嗎？ {#do-i-need-to-learn-all-of-that}
 
-你沒有！ 開始使用Marketo Engage很容易，而且會隨您而改變。 您可以隨時學習，也可以使用符合您需求的片段。
+你不！ 從Marketo Engage開始很容易，它會隨你而發展。 如果你願意，你可以學到一切，或者只是使用符合你需要的零件。
 
-## 我需要進行任何設定嗎？ {#do-i-need-to-do-any-setup}
+## 我需要做任何設定嗎？ {#do-i-need-to-do-any-setup}
 
-是的，我們製作了[要做的事物清單](/help/marketo/getting-started/setup-steps/setup-checklist.md)。
+是的，我們 [要做的事情清單](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;}。
 
-## 我必須等到設定完成才能學習嗎？ {#do-i-have-to-wait-until-setup-is-finished-to-learn}
+## 是否必須等到安裝完成才能學習？ {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-不！ 我們做了一堆簡單的教學課程。 [快來這裡](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)。他們需要一個小時。 你隨時都可以開始。
+不！ 我們做了很多簡單的教程。 [從此處開始](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}。 他們應該花一個小時。 你可以隨時開始。
 
-歡迎Marketo Engage! 我們很高興你來了。
+歡迎來Marketo Engage! 我們很高興你來了。

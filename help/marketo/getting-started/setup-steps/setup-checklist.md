@@ -1,54 +1,53 @@
 ---
 unique-page-id: 2949471
-description: 設定檢查清單-Marketo檔案——產品檔案
-title: 設定檢查清單
+description: 設定核對表 — Marketo文檔 — 產品文檔
+title: 設定核對清單
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 設定檢查清單{#setup-checklist}
+# 設定核對清單 {#setup-checklist}
 
-Marketo歡迎你！ 您可以自由使用下列檢查清單作為視覺化的待辦事項清單，以開始進行工作。 有關詳細資訊，請參閱[設定步驟](/help/marketo/getting-started/setup-steps.md)。
+歡迎使用 Marketo! 您可以隨意使用以下清單作為可視待辦事項清單，以便開始工作。 有關詳細資訊，請參閱 [設定步驟](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}。
 
-## 登入Marketo並建立其他使用者{#log-in-to-marketo-and-create-additional-users}
+## 登錄到Marketo並建立其他用戶 {#log-in-to-marketo-and-create-additional-users}
 
-1. 登入Marketo
-1. 建立其他使用者
+1. 登錄Marketo
+1. 建立其他用戶
 
-## 設定授權支援聯繫人{#set-up-an-authorized-support-contact}
+## 設定授權支援聯繫人 {#set-up-an-authorized-support-contact}
 
-1. 設定授權支援聯絡人
-1. 自訂著陸頁面URL
-1. 選取著陸頁面CNAME
-1. 要求IT為您的著陸頁面CNAME建立DNS記錄
-1. 完成IT後，請在Marketo設定您的登陸頁面網域名稱
+1. 設定授權支援聯繫人
+1. 自定義登錄頁URL
+1. 選擇登錄頁CNAME
+1. 請IT人員為登錄頁CNAME建立DNS記錄
+1. 完成IT後，在Marketo設定登錄頁域名
 
-## 確保電子郵件傳遞能力{#ensure-email-deliverability}
+## 確保電子郵件傳輸能力 {#ensure-email-deliverability}
 
-1. 為品牌化追蹤連結選擇電子郵件CNAME
-1. 要求IT為您的電子郵件CNAME設定DNS記錄
-1. 要求IT允許Marketo
-1. 在「管理」區域中設定DKIM和SPF
-1. 為`[FromDomain1]`設定MX
-1. 當IT完成電子郵件CNAME時，請在Marketo設定您的電子郵件CNAME
+1. 為標籤跟蹤連結選擇電子郵件CNAME
+1. 請IT人員為您的電子郵件CNAME設定DNS記錄
+1. 請IT部門允許Marketo
+1. 在「管理」區域設定DKIM和SPF
+1. 設定MX `[FromDomain1]`
+1. 完成電子郵件CNAME後，請在Marketo設定您的電子郵件CNAME
 
-## 提交著陸頁面和電子郵件範本的URL {#submit-a-url-for-landing-page-and-email-templates}
+## 提交登錄頁和電子郵件模板的URL {#submit-a-url-for-landing-page-and-email-templates}
 
-1. 填寫表格以提交新範本的URL
+1. 填寫表單以提交新模板的URL
 
-## CRM同步{#crm-sync}
+## CRM同步 {#crm-sync}
 
-1. 與您的CRM管理員合作，將所有CRM連絡人同步至Marketo
+1. 與您的CRM管理員協作，將所有CRM聯繫人同步到Marketo
 
-## 新增追蹤代碼至您的網站{#add-tracking-code-to-your-website}
+## 將跟蹤代碼添加到網站 {#add-tracking-code-to-your-website}
 
-1. 與網頁開發人員合作，將追蹤程式碼新增至您的網站
+1. 與Web開發人員合作，將跟蹤代碼添加到您的網站
 
 >[!MORELIKETHIS]
 >
->[設定步驟](/help/marketo/getting-started/setup-steps.md)
+>[設定步驟](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;
