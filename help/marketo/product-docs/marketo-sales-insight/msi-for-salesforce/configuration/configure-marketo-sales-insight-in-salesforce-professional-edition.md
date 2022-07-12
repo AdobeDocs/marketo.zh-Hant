@@ -3,7 +3,7 @@ unique-page-id: 3571743
 description: 在Salesforce專業版中配置Marketo銷售洞察力 — Marketo文檔 — 產品文檔
 title: 在Salesforce專業版中配置MarketoSales Insight
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: bb172e59e96cca3e8997615a2f1367ecccf700ed
+source-git-commit: 86c32e5f7eab00a1963b9d00057af4820cddfe78
 workflow-type: tm+mt
 source-wordcount: '912'
 ht-degree: 0%
@@ -196,7 +196,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-1. 舔 **保存** 的子菜單。
+1. 按一下 **保存** 的子菜單。
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
