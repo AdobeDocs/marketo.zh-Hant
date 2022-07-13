@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: 在Salesforce專業版中配置Marketo銷售洞察力 — Marketo文檔 — 產品文檔
 title: 在Salesforce專業版中配置MarketoSales Insight
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: 86c32e5f7eab00a1963b9d00057af4820cddfe78
+source-git-commit: a59b6b2505c6e5a83c6137a1925aa4e60e56eac8
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '906'
 ht-degree: 0%
 
 ---
@@ -295,8 +295,6 @@ Marketo人員欄位需要映射到Salesforce聯繫人欄位，以確保轉換正
 ## 訪問Marketo銷售洞察 {#access-marketo-sales-insight}
 
 1. 在Salesforce中，按一下 **+** 按一下 **MarketoSales Insight配置**。
-
-1. 選擇 **啟用MarketoAPI** 複選框。
 
 1. 從Marketo的「Sales Insight管理」頁中的「Soap API」面板複製憑據，並將它們貼上到Salesforce Sales Insight「配置」頁的「Soap API」部分。
 
