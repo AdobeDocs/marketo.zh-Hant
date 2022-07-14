@@ -2,9 +2,9 @@
 description: 當前發行說明 — Marketo文檔 — 產品文檔
 title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 46aff8058cb97743bee1bd5ff5ddf0ddbbb663a5
+source-git-commit: c63bbd44863d0145726a1240a6858e517799bf5c
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,13 @@ ht-degree: 0%
 * **動態聊天的高級對話框報告**:使用針對項目和轉換指標的全新資料可視化功能，更詳細地查看動態聊天活動的績效。
 
 * **動態聊天的未使用Marketo Engage屬性未同步**:取消同步動態聊天訂閱中未使用的Marketo Engage屬性，幫助您簡化資料清潔，並允許根據需要同步其他屬性。
+
+## 新一代體驗
+
+**新建切換開關視圖**:下面的視圖現在可在「新一代體驗」中找到：
+
+* [電子郵件詳細資訊視圖](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-details-view){target=&quot;_blank&quot;
+* [電子郵件清單視圖](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-list-view){target=&quot;_blank&quot;
 
 ## 體驗自動化 {#experience-automation}
 
