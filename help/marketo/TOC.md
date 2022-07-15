@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
 workflow-type: tm+mt
-source-wordcount: '8780'
+source-wordcount: '8787'
 ht-degree: 0%
 
 ---
@@ -173,7 +173,7 @@ ht-degree: 0%
          + [自定義對象元資料導出](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Marketo與Adobe {#marketo-with-adobe-identity}
          + [快速指南](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
-         + [概述](product-docs/administration/marketo-with-adobe-identity/overview.md)
+         + [總覽](product-docs/administration/marketo-with-adobe-identity/overview.md)
          + [管理設定](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [產品管理設定](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [為Adobe IMS啟用的訂閱添加僅API用戶](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
@@ -202,7 +202,7 @@ ht-degree: 0%
          + [設定訂閱的預設位置設定](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [瞭解隱私設定](product-docs/administration/settings/understanding-privacy-settings.md)
          + [使用通用ID進行訂閱登錄](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
-      + 標籤 {#tags}
+      + 標記 {#tags}
          + [建立新程式標籤和標籤值](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
          + [建立節目頻道](product-docs/administration/tags/create-a-program-channel.md)
          + [建立自定義標籤](product-docs/administration/tags/create-custom-tags.md)
@@ -630,6 +630,8 @@ ht-degree: 0%
             + [編輯事件通道](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
             + [活動合作夥伴](product-docs/demand-generation/events/understanding-events/event-partners.md)
             + [瞭解事件程式](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
+            + [設定事件上限](product-docs/demand-generation/events/understanding-events/setting-an-event-cap.md)
+            + [設定事件目標](product-docs/demand-generation/events/understanding-events/setting-event-goals.md)
          + 建立事件 {#create-an-event}
             + [與Adobe Connect一起建立活動](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [使用GotoWebinar建立活動](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
@@ -873,7 +875,7 @@ ht-degree: 0%
             + [令牌概述](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
             + [在登錄頁中使用動態內容](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
             + [使用URL生成器](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
-      + 社會 {#social}
+      + 社交 {#social}
          + 配置社交操作 {#configuring-social-actions}
             + [配置共用後提示](product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)
             + [為社交應用配置人員捕獲](product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md)
@@ -917,7 +919,7 @@ ht-degree: 0%
             + [自定義抽獎樣式](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
             + [發佈抽獎](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [選擇抽獎者](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
-   + 電子郵件營銷 {#email-marketing}
+   + 電子郵件行銷 {#email-marketing}
       + 可交付性 {#deliverability}
          + [持久取消訂閱](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [電子郵件傳送能力電源包：如何導入種子清單](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seedlist.md)
@@ -1056,7 +1058,7 @@ ht-degree: 0%
             + [在我的令牌中使用URL](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [電子郵件抄送](product-docs/email-marketing/general/email-cc.md)
    + Marketo Engage新一代體驗 {#marketo-engage-next-generation-experience}
-      + [概述](product-docs/marketo-engage-next-generation-experience/overview.md)
+      + [總覽](product-docs/marketo-engage-next-generation-experience/overview.md)
       + [表徵圖辭彙表](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
       + [使用全局搜索](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
       + [切換開關](product-docs/marketo-engage-next-generation-experience/toggle-switch.md)
@@ -1081,7 +1083,7 @@ ht-degree: 0%
          + [通過SAML 2.0在銷售連接中設定SSO](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [共用設定](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [用戶訪問詳細資訊](product-docs/marketo-sales-connect/admin/user-access-details.md)
-      + 分析 {#analytics}
+      + Analytics {#analytics}
          + [分析頁概述](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [瞭解內容頁籤](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
          + [瞭解我頁籤](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
@@ -1215,7 +1217,7 @@ ht-degree: 0%
          + [使市場活動對Sales Connect用戶可見](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [銷售活動辭彙表](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [銷售活動觸發器和篩選器](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
-      + 人物 {#people}
+      + 人員 {#people}
          + [人員詳細資訊視圖](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [銷售連接和GDPR法規遵從性](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + 管理聯繫人 {#managing-contacts}
@@ -1267,7 +1269,7 @@ ht-degree: 0%
             + [我的動態欄位未填寫](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [在動態欄位中引用自己](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo銷售洞察 {#marketo-sales-insight}
-      + 操作 {#actions}
+      + 動作 {#actions}
          + [Sales Insight操作功能概述](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + 入門 {#getting-started}
             + [《 Sales Insight Actions User Onboarding Guide》](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
@@ -1371,7 +1373,7 @@ ht-degree: 0%
             + [銷售活動觸發器和篩選器](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Sales Insight操作活動辭彙表](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [設定您的Marketo連接](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
-         + 人物 {#people}
+         + 人員 {#people}
             + [人員詳細資訊視圖](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight Actions和GDPR Compliance](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
             + 管理聯繫人 {#managing-contacts}
@@ -1426,7 +1428,7 @@ ht-degree: 0%
          + 正在卸載 {#uninstalling}
             + [禁用全局MS Dynamics同步](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [從MS Dynamics實例卸載MSI](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
-         + 更新 {#updating}
+         + 正在更新 {#updating}
             + [升級MarketoMicrosoftDynamics銷售洞察解決方案](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + Salesforce的MSI {#msi-for-salesforce}
          + 安裝 {#installation}
@@ -1545,7 +1547,7 @@ ht-degree: 0%
          + [為SMS添加流步驟](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [SMS消息儀表板](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
          + [在智慧清單觸發器和篩選器中使用Vibes SMS消息](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
-   + 個性化 {#personalization}
+   + 個人化 {#personalization}
       + 分段和片段 {#segmentation-and-snippets}
          + 分段 {#segmentation}
             + [批准分段](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
