@@ -2,9 +2,9 @@
 description: 篩選電子郵件Bot活動 — Marketo文檔 — 產品文檔
 title: 篩選電子郵件Bot活動
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 2ef4b0b2a541c8b6a67bd654fda45956601661bd
+source-git-commit: 524e185e255503ac44bb73303091a59b2d60242a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 0%
 我們使用三種不同的方法來確認bot活動：
 
 * 匹配 [互動式廣告局bot清單](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;:與IAB UA/IP（用戶代理/IP地址）清單中的任何內容相匹配的活動將標籤為bot。
-* 與隱藏連結UA/IP匹配：我們會向所有電子郵件添加一個隱藏連結，並捕獲來自這些電子郵件的UA/IP點擊。 與這些UA/IP匹配的活動將標籤為bot。
 * 與鄰近模式匹配：當同時發生兩個以上的活動時（不到兩秒），它們被標識為bot。
 
 根據電子郵件連結按一下和電子郵件開啟活動，新屬性將填充以下值：
@@ -37,15 +36,15 @@ ht-degree: 0%
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 按一下 **啟用Bot活動標識** 按鈕。
+1. 選擇 **與IAB清單匹配**。 **與鄰近陣列匹配**，或兩者兼有。
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->您可以單獨選擇是否記錄bot活動。 如果您選擇不這樣做，您可能會看到電子郵件中的一滴資訊開啟，並在過濾掉假號時按一下。
+>您可以選擇對bot活動進行篩選 **或** 已記錄。 如果選擇篩選，則可能會看到電子郵件中的一個刪除，並在清除假活動時按一下
 
-**可選步驟**:要禁用該功能，只需取消選擇滑塊。 如果禁用，則資料 **不** 重置。
+**可選步驟**:要禁用此功能，只需取消選擇滑塊。 如果禁用，則資料不會重置。
 
 >[!TIP]
 >
