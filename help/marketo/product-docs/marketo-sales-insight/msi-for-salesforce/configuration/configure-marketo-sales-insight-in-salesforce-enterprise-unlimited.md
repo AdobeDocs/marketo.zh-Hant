@@ -3,7 +3,7 @@ unique-page-id: 2360368
 description: 在Salesforce Enterprise/Unlimited -Marketo文檔 — 產品文檔中配置Marketo銷售洞察
 title: 在Salesforce Enterprise/Unlimited中配置MarketoSales Insight
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
+source-git-commit: 6879a542e17d7694ba42494867707ebc93b791d3
 workflow-type: tm+mt
 source-wordcount: '863'
 ht-degree: 0%
@@ -299,7 +299,7 @@ Marketo人員欄位需要映射到Salesforce聯繫人欄位，以確保轉換正
 
 1. 從中的「剩餘API」面板複製憑據 [Marketo的「銷售洞察力管理」頁](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;}，然後將它們貼上到Salesforce Sales Insight Configuration頁的Rest API部分。
 
-   ![](assets/access-msi.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
 就這樣！ 您應該能夠看到Lead 、 Contacts 、 Accounts和Opportunity的MarketoSales Insight欄位。
 
