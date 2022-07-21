@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: 在Salesforce專業版中配置Marketo銷售洞察力 — Marketo文檔 — 產品文檔
 title: 在Salesforce專業版中配置MarketoSales Insight
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: a59b6b2505c6e5a83c6137a1925aa4e60e56eac8
+source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >* 在Salesforce專業版中安裝Marketo。
 >
->* [在SalesforceAppExchange中安裝MarketoSales Insight軟體包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [在SalesforceAppExchange中安裝MarketoSales Insight軟體包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target=&quot;_blank&quot;
 
 
 >[!NOTE]
@@ -270,41 +270,29 @@ Marketo人員欄位需要映射到Salesforce聯繫人欄位，以確保轉換正
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
-## MarketoSales Insight配置 {#marketo-sales-insight-config}
+## MarketoSales Insight配置頁籤 {#marketo-sales-insight-configuration-tab}
 
-1. 按一下 **+** ，然後選擇 **MarketoSales Insight配置**。
+1. 在Salesforce中，按一下 **+** 按一下 **MarketoSales Insight配置**。
 
-   ![](assets/image2014-9-24-17-3a37-3a45.png)
+1. 從中的Soap API面板複製憑據 [Marketo的「銷售洞察力管理」頁](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;}，並將它們貼上到Salesforce Sales Insight Configuration頁的Soap API部分。
 
-1. 檢查 **啟用MarketoAPI**。 然後填寫 [Marketo管理中的API配置資訊](#set-up-marketo-sales-insight)。 按一下 **保存更改** 等你做完。
+1. 從中的「剩餘API」面板複製憑據 [Marketo的「銷售洞察力管理」頁](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;}，然後將它們貼上到Salesforce Sales Insight Configuration頁的Rest API部分。
 
-   ![](assets/image2014-9-24-17-3a38-3a0.png)
-
-   >[!NOTE]
-   >
-   >如果診斷test失敗，您可能需要 [將更多欄位添加到頁面佈局](https://nation.marketo.com/docs/DOC-1115)。
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
 就這樣！ 您應該能夠看到Lead 、 Contacts 、 Accounts和Opportunity的MarketoSales Insight欄位。
 
-![](assets/twenty-six-1.png)
+>[!NOTE]
+>
+>如果診斷test失敗，您可能需要 [將更多欄位添加到頁面佈局](https://nation.marketo.com/docs/DOC-1115){target=&quot;_blank&quot;}。
 
 >[!NOTE]
 >
 >對於客戶，Sales Insight將包括所有電子郵件，但只包括最近的有趣時刻、 Web活動和分數更改。
 
-## 訪問Marketo銷售洞察 {#access-marketo-sales-insight}
-
-1. 在Salesforce中，按一下 **+** 按一下 **MarketoSales Insight配置**。
-
-1. 從Marketo的「Sales Insight管理」頁中的「Soap API」面板複製憑據，並將它們貼上到Salesforce Sales Insight「配置」頁的「Soap API」部分。
-
-1. 從Marketo的「Sales Insight管理」頁中的「Rest API」面板複製憑據，並將它們貼上到Salesforce Sales Insight「配置」頁的「Rest API」部分。
-
-   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
-
 >[!MORELIKETHIS]
 >
->* [優先順序、緊急性、相對分數和最佳匹配](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [將「Marketo」頁籤添加到Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+>* [優先順序、緊急性、相對分數和最佳匹配](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md){target=&quot;_blank&quot;
+>* [將「Marketo」頁籤添加到Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target=&quot;_blank&quot;
 >* [將Sales Insight訪問權添加到配置檔案](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;
 

@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: 在Salesforce Enterprise/Unlimited -Marketo文檔 — 產品文檔中配置Marketo銷售洞察
 title: 在Salesforce Enterprise/Unlimited中配置MarketoSales Insight
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: bb172e59e96cca3e8997615a2f1367ecccf700ed
+source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '863'
 ht-degree: 0%
 
 ---
@@ -289,39 +289,27 @@ Marketo人員欄位需要映射到Salesforce聯繫人欄位，以確保轉換正
 
 1. 按一下 **保存** 等你完事了。
 
-## MarketoSales Insight配置 {#marketo-sales-insight-config}
-
-1. 按一下 **+** ，然後選擇 **MarketoSales Insight配置**。
-
-   ![](assets/image2014-9-24-17-3a37-3a45.png)
-
-1. 檢查 **啟用MarketoAPI**。 然後填寫 [Marketo管理中的API配置資訊](#set-up-marketo-sales-insight)。 按一下 **保存更改** 等你完事了。
-
-   ![](assets/image2014-9-24-17-3a38-3a0.png)
-
-   >[!NOTE]
-   >
-   >如果診斷test失敗，您可能需要 [將更多欄位添加到頁面佈局](https://nation.marketo.com/docs/DOC-1115)。
-
-就這樣！ 您應該能夠看到Lead 、 Contacts 、 Accounts和Opportunity的MarketoSales Insight欄位。
-
-![](assets/twenty-six.png)
-
->[!NOTE]
->
->對於客戶，Sales Insight將包括所有電子郵件，但只包括最近的有趣時刻、 Web活動和分數更改。
-
-## 訪問Marketo銷售洞察 {#access-marketo-sales-insight}
+## MarketoSales Insight配置頁籤 {#marketo-sales-insight-configuration-tab}
 
 1. 在Salesforce中，按一下 **+** 按一下 **MarketoSales Insight配置**。
 
 1. 選擇 **啟用MarketoAPI** 複選框。
 
-1. 從Marketo的「Sales Insight管理」頁中的「Soap API」面板複製憑據，並將它們貼上到Salesforce Sales Insight「配置」頁的「Soap API」部分。
+1. 從中的Soap API面板複製憑據 [Marketo的「銷售洞察力管理」頁](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;}，並將它們貼上到Salesforce Sales Insight Configuration頁的Soap API部分。
 
-1. 從Marketo的「Sales Insight管理」頁中的「Rest API」面板複製憑據，並將它們貼上到Salesforce Sales Insight「配置」頁的「Rest API」部分。
+1. 從中的「剩餘API」面板複製憑據 [Marketo的「銷售洞察力管理」頁](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;}，然後將它們貼上到Salesforce Sales Insight Configuration頁的Rest API部分。
 
    ![](assets/access-msi.png)
+
+就這樣！ 您應該能夠看到Lead 、 Contacts 、 Accounts和Opportunity的MarketoSales Insight欄位。
+
+>[!NOTE]
+>
+>如果診斷test失敗，您可能需要 [將更多欄位添加到頁面佈局](https://nation.marketo.com/docs/DOC-1115){target=&quot;_blank&quot;}。
+
+>[!NOTE]
+>
+>對於客戶，Sales Insight將包括所有電子郵件，但只包括最近的有趣時刻、 Web活動和分數更改。
 
 >[!MORELIKETHIS]
 >
