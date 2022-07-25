@@ -3,9 +3,10 @@ description: 設定事件上限 — Marketo文檔 — 產品文檔
 title: 設定事件上限
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -20,6 +21,10 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >在設定事件上限之前，程式中必須至少有兩個已批准的登錄頁（註冊頁和註冊完整頁）。
+
+>[!NOTE]
+>
+>要釋放事件中的空間，必須刪除程式成員（您可以通過將其狀態更新為「不在程式中」來執行此操作）。
 
 1. 選擇您的事件程式。
 

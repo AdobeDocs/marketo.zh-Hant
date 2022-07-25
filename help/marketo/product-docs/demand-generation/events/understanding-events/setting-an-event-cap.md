@@ -4,9 +4,9 @@ title: 設定事件上限
 hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
-source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >在設定事件上限之前，程式中必須至少有兩個已批准的登錄頁（註冊頁和註冊完整頁）。
+
+>[!NOTE]
+>
+>要釋放事件中的空間，必須刪除程式成員（您可以通過將其狀態更新為「不在程式中」來執行此操作）。
 
 1. 選擇您的事件程式。
 

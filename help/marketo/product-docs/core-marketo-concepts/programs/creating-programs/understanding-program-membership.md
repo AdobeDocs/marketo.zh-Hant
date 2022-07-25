@@ -3,9 +3,9 @@ unique-page-id: 1147091
 description: 瞭解計畫成員資格 — Marketo文檔 — 產品文檔
 title: 瞭解計畫成員資格
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: f6212795eec123265c6b6628da9974e97f9f7caf
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo現在在所有訂閱中都對語言進行標準化，因此您可能會在您的訂閱中看到線索/線索，在docs.marketo.com中看到個人/人員。 這些術語意味著同樣的事；不影響文章的說明。 還有一些其他的變化。 [瞭解更多資訊](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)。
+>Marketo現在在所有訂閱中對語言進行標準化，因此您可能會在您的訂閱中看到線索/線索，在我們的文檔中看到個人/人員。 這些術語意味著同樣的事；不影響文章的說明。 還有一些其他的變化。 [了解更多](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
 
 >[!NOTE]
 >

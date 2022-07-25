@@ -2,9 +2,9 @@
 description: 篩選電子郵件Bot活動 — Marketo文檔 — 產品文檔
 title: 篩選電子郵件Bot活動
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 524e185e255503ac44bb73303091a59b2d60242a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您可以選擇對bot活動進行篩選 **或** 已記錄。 如果選擇篩選，則可能會看到電子郵件中的一個刪除，並在清除假活動時按一下
+>* 您可以選擇對bot活動進行篩選 **或** 已記錄。 如果您選擇過濾，您可能會看到電子郵件中的刪除，並在清除假活動時按一下。
+>
+>* 此時只有「Log Bot Activity」可用於「Match with Proximity Pattern」。
+
 
 **可選步驟**:要禁用此功能，只需取消選擇滑塊。 如果禁用，則資料不會重置。
 
