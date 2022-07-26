@@ -2,9 +2,9 @@
 description: 當前發行說明 — Marketo文檔 — 產品文檔
 title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,11 @@ ht-degree: 0%
 * **Adobe品牌**:為編輯和個人細節頁面提供新的Adobe Experience Cloud品牌形象和感覺。
 
 * **在移動對話框中顯示目標資料夾的資料夾層次結構**:查看每個資料夾的資料夾層次結構可以更輕鬆地移動資產，並降低將資產放在錯誤資料夾中的可能性。
+
+* **新一代體驗中的更新螢幕**:我們將提供新一代體驗中的更多刷新螢幕，提供可通過切換開關進行的更新設計和可用性增強：
+
+   * 「映像和檔案」詳細資訊
+   * 代碼段詳細資訊
 
 >[!NOTE]
 >
