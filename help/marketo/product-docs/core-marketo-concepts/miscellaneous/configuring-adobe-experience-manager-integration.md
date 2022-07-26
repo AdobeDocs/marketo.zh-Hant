@@ -2,10 +2,12 @@
 unique-page-id: 30081815
 description: 配置Adobe Experience Manager整合 — Marketo文檔 — 產品文檔
 title: 配置Adobe Experience Manager整合
+hide: true
+hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
+source-git-commit: 3105fb33fb457d4dfb63081b80d4d1def717ad34
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -18,9 +20,12 @@ ht-degree: 0%
 >
 >**需要管理權限**
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->目前，此功能僅在Firefox中完全受支援。 Safari中不支援此功能，並且根據您的SameSite Cookie設定，它可能無法在最新版本的Chrome中使用。
+>* 此整合僅適用於AEM Cloud Service實施的AEM本地實施，不支援。
+>
+>* 目前，此功能僅在Firefox中完全受支援。 Safari中不支援此功能，並且根據您的SameSite Cookie設定，它可能無法在最新版本的Chrome中使用。
+
 
 1. 導航到Adobe Experience Manager（URL特定於您的公司）。
 
