@@ -1,58 +1,61 @@
 ---
 unique-page-id: 17728401
-description: 適用於Gmail使用者的電子郵件連線——行銷檔案——產品檔案
-title: Gmail使用者的電子郵件連線
-translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+description: Gmail用戶的電子郵件連接 — Marketo文檔 — 產品文檔
+title: Gmail用戶的電子郵件連接
+exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
+source-git-commit: 84da081b1484daf0c6c7e5ae4799c4c0b549d0e3
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
+# Gmail用戶的電子郵件連接 {#email-connection-for-gmail-users}
 
-# Gmail使用者的電子郵件連線{#email-connection-for-gmail-users}
+連接到Gmail意味著你將收到回復跟蹤、訪問Gmail傳遞渠道、安排Gmail郵件時間以及發送合規性。
 
-連接Gmail意味著您將會收到回復跟蹤、訪問Gmail發送通道、在Gmail中排程電子郵件併發送合規性。
+>[!CAUTION]
+>
+>如果你 [使用濾鏡](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target=&quot;_blank&quot;}或Gmail帳戶中的規則，可自動將電子郵件標籤為已讀，這可能導致回復跟蹤問題。 我們建議禁用在使用Gmail回復跟蹤時自動將電子郵件標籤為已讀的任何規則。
 
-1. 在Sales Connect中，按一下齒輪表徵圖並選擇&#x200B;**Settings**。
+1. 在「銷售連接」中，按一下齒輪表徵圖並選擇 **設定**。
 
    ![](assets/one.png)
 
-1. 在「My Account（我的帳戶）」下，選擇「Email Settings（電子郵件設定）」**。**
+1. 在「我的帳戶」下，選擇 **電子郵件設定**。
 
    ![](assets/two.png)
 
-1. 按一下&#x200B;**電子郵件連接**&#x200B;頁籤。
+1. 按一下 **電子郵件連接** 頁籤。
 
    ![](assets/three.png)
 
-1. 按一下&#x200B;**開始**。
+1. 按一下 **開始**。
 
    ![](assets/four.png)
 
-1. 選擇&#x200B;**I use Gmail to send emails**，然後按一下&#x200B;**Next**。
+1. 選擇 **我使用Gmail發送電子郵件** 按一下 **下一個**。
 
    ![](assets/five.png)
 
-1. 按一下&#x200B;**確定**。
+1. 按一下 **確定**。
 
    ![](assets/six.png)
 
-1. 如果您已登入Gmail，請選擇您要連線的帳戶。 如果沒有，請輸入您的Gmail地址，然後按一下「下一步」。 ****&#x200B;在此範例中，我們尚未登入。
+1. 如果您已登錄到Gmail，請選擇要連接的帳戶。 否則，輸入您的Gmail地址，然後按一下 **下一個**。 在此示例中，我們尚未登錄。
 
    ![](assets/seven.png)
 
-1. 輸入密碼，然後按一下&#x200B;**Next**。
+1. 輸入密碼並按一下 **下一個**。
 
    ![](assets/eight.png)
 
-1. 按一下&#x200B;**允許**。
+1. 按一下 **允許**。
 
    ![](assets/nine.png)
 
-   您可以使用此連線來追蹤電子郵件，也可以當成傳送管道。
+   您可以使用此連接跟蹤電子郵件，也可以作為傳遞渠道。
 
 >[!NOTE]
 >
->Gmail自行實施了發送限制。 [在這裡瞭解更多](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。
+>Gmail自行實施了發送限制。 [在此處瞭解更多資訊](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。
