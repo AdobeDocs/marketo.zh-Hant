@@ -2,9 +2,9 @@
 description: 將Adobe Experience Platform分區推入Marketo靜態清單 — Marketo文檔 — 產品文檔
 title: 將Adobe Experience Platform段推入Marketo靜態清單
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
+source-git-commit: 7f312f97b9515f72aa314509dfaa12b146ad7dc4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '666'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. 輸入目標 **名稱** 和可選說明。 按一下「人員建立」下拉框並選擇「匹配現有Marketo人員並建立Marketo中的失蹤人員」 _或_ 「只匹配現有Marketo人。」 在這個例子中，我們選擇前者。
+1. 輸入目標 **名稱** 和可選說明。 按一下「人員建立」下拉框並選擇「匹配現有Marketo人員並建立Marketo中的失蹤人員」 _或_ 「只匹配現有Marketo人。」 在這個例子中，我們選擇前者。 您也可以選擇工作區，或只是使用預設值。
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
@@ -94,9 +94,13 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. 通過選擇映射名 **名字** 按一下 **選擇**。
+1. 選擇所需的屬性，然後按一下 **選擇**。 在此示例中，我們選擇的是名、姓和電子郵件地址。
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
+
+   >[!NOTE]
+   >
+   >您可以將屬性從Experience Platform映射到您的組織在Marketo Engage中有權訪問的任何屬性。 使用 [描述API請求](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target=&quot;_blank&quot;}，用於檢索您的組織有權訪問的屬性欄位。
 
 1. 按一下以映射姓氏和公司名稱 **添加新映射** 重複步驟15兩次，選擇 **姓氏** 然後 **公司名稱**。
 
@@ -142,22 +146,6 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. 你現在需要你的名單ID。 按一下瀏覽器中開啟Marketo靜態清單的頁籤（或開啟新頁籤並選擇所需的靜態清單）。
+1. 查看更改並按一下 **完成**。
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
-
-   >[!NOTE]
-   >
-   >為獲得最佳結果，請使用空Marketo Engage清單。
-
-1. 突出顯示並複製URL末尾的清單ID。
-
-   ![](assets/push-an-adobe-experience-platform-segment-27.png)
-
-1. 貼上剛複製的ID（映射ID），然後按一下 **下一個**。
-
-   ![](assets/push-an-adobe-experience-platform-segment-28.png)
-
-1. 按一下 **完成**。
-
-   ![](assets/push-an-adobe-experience-platform-segment-29.png)
