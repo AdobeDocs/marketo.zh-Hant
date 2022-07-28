@@ -3,9 +3,9 @@ description: 動態聊天整合 — Marketo文檔 — 產品文檔
 title: 動態聊天整合
 hide: true
 hidefromtoc: true
-source-git-commit: ea2ee32a4c8805154f17717d515bb994dbfbe982
+source-git-commit: 237417bcb254baf93e4e5e307bd607c2c5455ef5
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '316'
 ht-degree: 3%
 
 ---
@@ -23,6 +23,8 @@ ht-degree: 3%
 
 ## MarketoSales Insight配置頁籤 {#marketo-sales-insight-configuration-tab}
 
+按照以下步驟啟用動態聊天整合。
+
 1. 登錄到Salesforce帳戶，按一下頁籤欄末尾的+，然後按一下 **MarketoSales Insight配置**。
 
 1. 按一下以展開「Visualforce Panel（VisualForce面板）」。
@@ -35,7 +37,7 @@ ht-degree: 3%
 
 ## 功能概述 {#feature-overview}
 
-Sales Insight用戶可以利用以下動態聊天活動。
+Sales Insight用戶可以利用以下動態聊天活動……
 
 已參與對話：當訪問者按一下聊天機並參與對話框時，登錄Marketo並填充到Sales Insight中。
 
