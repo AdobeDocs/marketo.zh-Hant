@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: Performance Insights概述 — Marketo文檔 — 產品文檔
 title: Performance Insights概述
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
-source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
+source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Performance Insights概述 {#performance-insights-overview}
 
 MarketoPerformance Insights可幫助您優化渠道組合以實現最大效率，並發現長期趨勢以發現一致的獲勝策略。
+
+>[!AVAILABILITY]
+>
+>並非所有客戶都購買了此功能。 請聯繫您的客戶成功經理以瞭解詳細資訊。
 
 Performance Insights從（最多）前24個月載入資料。 這包括當前的年初至今資料以及上一年的資料。例如，在2019年1月31日，MPI將從當月開始載入資料，從2018年開始，每個月載入資料。 2019年12月31日，MPI將在2019年和2018年每月載入資料。
 

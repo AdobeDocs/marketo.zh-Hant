@@ -2,9 +2,9 @@
 description: 動態聊天概述 — Marketo文檔 — 產品文檔
 title: 動態聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '951'
 ht-degree: 1%
 
 ---
@@ -69,7 +69,7 @@ Dynamic Chat JavaScript代碼段可以安裝在任何網站和Marketo登錄頁�
 
 **「動態聊天」是否支援除英語以外的任何語言？**
 
-是的。 動態聊天支援以下語言：法語、德語、日語、西班牙語、義大利語、巴西葡萄牙語、韓語、簡體中文和繁體中文。 在 [下面](#changing-the-language)。
+是. 動態聊天支援以下語言：法語、德語、日語、西班牙語、義大利語、巴西葡萄牙語、韓語、簡體中文和繁體中文。 在 [下面](#changing-the-language)。
 
 **是否支援AI/NLP功能？**
 
@@ -170,5 +170,15 @@ Dynamic Chat JavaScript代碼段可以安裝在任何網站和Marketo登錄頁�
   <td>會議預訂活動保留期</td>
   <td>會議預訂活動的時間量將儲存在動態聊天中</td>
   <td>24個月</td>
+ </tr>
+ <tr>
+  <td>參與的對話</td>
+  <td>Web訪問者每天可參與的聊天對話數</td>
+  <td>零點一萬</td>
+ </tr>
+ <tr>
+  <td>觸發的對話</td>
+  <td>每天可顯示給Web訪問者的聊天會話數</td>
+  <td>2萬5千</td>
  </tr>
 </table>
