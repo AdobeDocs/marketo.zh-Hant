@@ -2,7 +2,7 @@
 description: 初始設定 — Marketo文檔 — 產品文檔
 title: 初始設定
 exl-id: 72c20e8f-879d-4490-a87f-3d8e2ba1f263
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -31,4 +31,4 @@ ht-degree: 0%
 
 1. 登錄到Admin Console後，下一步是添加用戶。 我們有這個過程 [此處](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user)。
 
-接下來，是時候 [將動態聊天連接到Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)。
+接下來，是時候 [將動態聊天連接到Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)。

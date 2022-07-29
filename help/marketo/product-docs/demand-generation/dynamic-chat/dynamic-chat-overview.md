@@ -2,10 +2,10 @@
 description: 動態聊天概述 — Marketo文檔 — 產品文檔
 title: 動態聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
+source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 ## 整合 {#integrations}
 
-動態聊天的一個關鍵元件是它能夠與您的Marketo訂閱進行本機介面。 為了充分利用此整合的全部功能，您首先需要啟動資料同步。 根據Marketo資料庫的大小，初始資料可能需要24小時， [一次同步](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) 完成。
+動態聊天的一個關鍵元件是它能夠與您的Marketo訂閱進行本機介面。 為了充分利用此整合的全部功能，您首先需要啟動資料同步。 根據Marketo資料庫的大小，初始資料可能需要24小時， [一次同步](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) 完成。
 
 正在同步以下內容：
 
