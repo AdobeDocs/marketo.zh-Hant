@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: 定義A/BTest優勝者標準 — Marketo文檔 — 產品文檔
 title: 定義A/BTest贏家標準
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
-source-git-commit: acea096990b834654b47c40b601ef2418069b9b5
+source-git-commit: 67ae4605d541a475b42a5094a5588c469a9d975d
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-15-3a53-3a11.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >Marketo將僅允許從此電子郵件程式發送電子郵件的人使用觸發器。 無需添加「已發送電子郵件」篩選器。
+   >Marketo只允許通過此電子郵件程式發送電子郵件的人使用觸發器/篩選器，因此無需添加「已發送電子郵件」篩選器。 此外，在使用與電子郵件相關的觸發器/過濾器時，請確保使用「is any」作為操作員。
 
 1. 按一下 **關閉**。
 

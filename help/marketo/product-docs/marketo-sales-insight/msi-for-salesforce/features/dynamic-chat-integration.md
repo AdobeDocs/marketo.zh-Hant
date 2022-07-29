@@ -3,7 +3,8 @@ description: 動態聊天整合 — Marketo文檔 — 產品文檔
 title: 動態聊天整合
 hide: true
 hidefromtoc: true
-source-git-commit: 237417bcb254baf93e4e5e307bd607c2c5455ef5
+exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
+source-git-commit: b8f2308d3b1a252a8fe10ba0a26d4c5aa07c4756
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 3%
