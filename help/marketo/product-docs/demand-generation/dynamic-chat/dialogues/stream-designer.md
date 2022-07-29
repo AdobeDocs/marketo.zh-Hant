@@ -2,7 +2,7 @@
 description: 流設計器 — Marketo文檔 — 產品文檔
 title: 流程設計工具
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: f08484455baaf073bb42ae8a62a9dcc6fc7fd48f
+source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 2%
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->在使用文檔卡之前，必須先 [設定](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target=&quot;_blank&quot;}。
+>在使用文檔卡之前，必須先 [設定](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target=&quot;_blank&quot;}。
 
 ## 流設計卡 {#stream-designer-cards}
 
