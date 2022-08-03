@@ -2,7 +2,7 @@
 description: 當前發行說明 — Marketo文檔 — 產品文檔
 title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >用星表示的特徵(![星](assets/yellow-star.png))是付費附加項。 請聯繫您的Marketo Engage代表以瞭解詳細資訊。
 
-以下功能將開始在 **2022年8月19日**，在隨後的幾週內分階段部署剩餘功能（除非另有說明）。 版本功能和準確日期可能會更改。
+以下功能將開始在 **2022年8月26日**，在隨後的幾週內分階段部署剩餘功能（除非另有說明）。 版本功能和準確日期可能會更改。
 
 ## 跨通道業務流程 {#cross-channel-orchestration}
 
@@ -64,8 +64,14 @@ ht-degree: 0%
 
 * **批量程式成員提取API的新篩選功能**:按程式成員身份狀態、updatedAt、cadence或已用盡的內容篩選以細化提取的資料集。
 
+## 銷售洞察 {#sales-insight}
+
+![（星號）](assets/yellow-star.png)
+
+* **Sales Insight與動態聊天整合**:在Sales Insight面板中查看動態聊天中的活動，並在您的潛在客戶工作中利用此新資料點。
+
 ## 公告 {#announcements}
 
 **_產品發佈網路研討會_**
 
-在2022年8月24日上午9:00 AM PT / 12:00 PM ET, [即時網路研討會](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html)由我們的產品團隊托管的{target=&quot;_blank&quot;}，您可以在其中學習如何使用所有最新的產品創新。
+在2022年8月24日上午9:00 AM PT / 12:00 PM ET（東部時間中午12:00）與我們一起， [即時網路研討會](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html)由我們的產品團隊托管的{target=&quot;_blank&quot;}，您可以在其中學習如何使用所有最新的產品創新。

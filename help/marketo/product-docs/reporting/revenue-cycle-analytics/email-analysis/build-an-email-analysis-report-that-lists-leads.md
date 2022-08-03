@@ -3,7 +3,7 @@ unique-page-id: 2360407
 description: 構建列出銷售線索的電子郵件分析報告 — Marketo文檔 — 產品文檔
 title: 生成列出銷售線索的電子郵件分析報告
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # 生成列出銷售線索的電子郵件分析報告 {#build-an-email-analysis-report-that-lists-leads}
 
+按照這些步驟建立「電子郵件分析」報告，該報告將向您顯示已發送特定電子郵件的每個潛在顧客，此報告還將包括「按一下」和「開啟」狀態。
+
 >[!AVAILABILITY]
 >
 >並非所有客戶都購買了此功能。 請聯繫您的客戶成功經理以瞭解詳細資訊。
-
-按照這些步驟建立「電子郵件分析」報告，該報告將向您顯示已發送特定電子郵件的每個潛在顧客，此報告還將包括「按一下」和「開啟」狀態。
 
 >[!NOTE]
 >
