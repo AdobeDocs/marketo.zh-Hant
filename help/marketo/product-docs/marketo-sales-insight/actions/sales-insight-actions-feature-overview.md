@@ -2,9 +2,9 @@
 description: Sales Insight Actions功能概述 — Marketo文檔 — 產品文檔
 title: Sales Insight操作功能概述
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: d36fc031675cea2edad63462e7df21f229c49821
+source-git-commit: da20d39c53f0e1731506585c6be886b5c509e81b
 workflow-type: tm+mt
-source-wordcount: '1337'
+source-wordcount: '1356'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 >此功能目前正在分階段推出。 請聯繫您的客戶成功經理或電子郵件 `sales-insights(at)adobe(dot)com` 請求訪問。
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
+
+>[!NOTE]
+>
+>有關Sales Insight Actions的視頻概述， [按一下這裡](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target=&quot;_blank&quot;}。
 
 ## 銷售線索佈局和聯繫人佈局 {#lead-layout-and-contact-layout}
 
