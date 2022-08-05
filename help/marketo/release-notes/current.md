@@ -2,9 +2,9 @@
 description: 當前發行說明 — Marketo文檔 — 產品文檔
 title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
+source-git-commit: 87e5bab3f668509bd791a0ec1ff0e2174eadda09
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -35,8 +35,8 @@ ht-degree: 0%
 
 * **新一代體驗中的更新螢幕**:我們將提供新一代體驗中的更多刷新螢幕，提供可通過切換開關進行的更新設計和可用性增強：
 
-   * 「映像和檔案」詳細資訊
    * 代碼段詳細資訊
+   * 「映像和檔案」詳細資訊
 
 >[!NOTE]
 >
