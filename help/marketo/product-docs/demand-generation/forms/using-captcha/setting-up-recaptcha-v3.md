@@ -4,9 +4,9 @@ title: 設定reCAPTCHA v3
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+source-git-commit: 24942664d613fa2851bad7a0dd3862027deacf37
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 1. 登錄/註冊Google帳戶。
 
-1. 按一下「建立（+號）」按鈕以建立新鍵。
+1. 按一下「建立」按鈕（+號）以建立新鍵。
 
 1. 建立標籤以標識要用於Marketo Engage的密鑰。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->使站點密鑰和密鑰便於Marketo Engage配置。
+>使站點密鑰和密鑰在Marketo Engage配置中保持方便。
 
 ## 在Marketo Engage中設定驗證碼 {#setting-up-captcha-in-marketo-engage}
 
