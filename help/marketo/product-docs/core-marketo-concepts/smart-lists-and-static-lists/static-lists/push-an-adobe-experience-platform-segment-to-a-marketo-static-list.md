@@ -2,9 +2,9 @@
 description: 將Adobe Experience Platform分區推入Marketo靜態清單 — Marketo文檔 — 產品文檔
 title: 將Adobe Experience Platform段推入Marketo靜態清單
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 7f312f97b9515f72aa314509dfaa12b146ad7dc4
+source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. 輸入目標 **名稱** 和可選說明。 按一下「人員建立」下拉框並選擇「匹配現有Marketo人員並建立Marketo中的失蹤人員」 _或_ 「只匹配現有Marketo人。」 在這個例子中，我們選擇前者。 您也可以選擇工作區，或只是使用預設值。
+1. 輸入目標 **名稱** 和可選說明。 按一下「人員建立」下拉框並選擇「匹配現有Marketo人員並建立Marketo中的失蹤人員」 _或_ 「僅匹配現有Marketo人員」（在本例中，我們選擇前者）。 您還必須選擇 **工作區**。
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
