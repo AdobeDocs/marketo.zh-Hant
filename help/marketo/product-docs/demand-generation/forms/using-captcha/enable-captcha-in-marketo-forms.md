@@ -4,9 +4,9 @@ title: 在MarketoForms啟用驗證碼
 hide: true
 hidefromtoc: true
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+source-git-commit: cdc8d5f3322b9d19d50f9f4bd8156b7e3a627977
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -38,3 +38,7 @@ ht-degree: 0%
 1. 按一下 **批准和關閉**。
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
+
+>[!NOTE]
+>
+>對此清單的更改可能需要幾分鐘才能從Google傳播。
