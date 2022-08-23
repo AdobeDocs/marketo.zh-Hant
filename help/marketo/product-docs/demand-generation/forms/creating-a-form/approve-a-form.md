@@ -1,65 +1,57 @@
 ---
 unique-page-id: 2359578
-description: 核准表單——行銷人員檔案——產品檔案
+description: 批准表單 — Marketo文檔 — 產品文檔
 title: 批准表單
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
+# 批准表單 {#approve-a-form}
 
-# 批准表單{#approve-a-form}
+若要將表單添加到登錄頁中，必須批准該表單。 這是如何做到的。
 
-若要將表單新增至其中一個著陸頁面，必須核准表單。 這是如何做到的。
+## 批准表單 {#approve-a-form-1}
 
-## 批准表單{#approve-a-form-1}
+下面是如何批准已準備就緒的現有表單。
 
-以下說明如何核准現有的表格，以便開始使用。
-
-1. 前往&#x200B;**行銷活動**。
+1. 轉到 **營銷活動**。
 
    ![](assets/login-marketing-activities-7.png)
 
-1. 尋找並選取表格。
+1. 查找並選擇窗體。
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. 在&#x200B;**表單動作**&#x200B;下，按一下&#x200B;**批准**。
+1. 下 **窗體操作**&#x200B;按一下 **批准**。
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
-1. 注意到綠色的勾號嗎？
+1. 注意到綠色複選標籤了嗎？
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   已核准並準備加入至著陸頁面[。](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
+   它已經批准並準備 [添加到登錄頁](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
 
    >[!NOTE]
    >
-   >在核准後所做的變更，最多需要4分鐘才能更新內嵌表單。
+   >批准後所做的更改可能需要幾分鐘才能更新嵌入式表單。
 
-## 從編輯器{#approve-a-form-from-the-editor}批准表單
+## 從編輯器批准表單 {#approve-a-form-from-the-editor}
 
-如果您要變更表單，可以直接從編輯器核准頁面。
+如果要對表單進行更改，則可以直接從編輯器中批准該頁面。
 
 >[!PREREQUISITES]
 >
->* [編輯表單](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
+>[編輯窗體](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
-
-1. 按一下&#x200B;**完成**。
+1. 按一下 **完成**。
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. 按一下「核准並關閉」。****
+1. 按一下 **批准和關閉**。
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)
-
->[!NOTE]
->
->請記住，如果您在表單核准後編輯，則需要[核准著陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)才能查看變更。
-
-就這樣！ 輕鬆無比。

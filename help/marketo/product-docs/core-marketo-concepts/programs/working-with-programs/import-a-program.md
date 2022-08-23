@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: 導入計畫 — Marketo文檔 — 產品文檔
 title: 導入程式
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 程式可以從一個Marketo訂閱導入到另一個訂閱。 例如，您可以在沙盒中建立程式，然後將其導入到您的即時訂閱中。 此外，您還可以從Marketo程式庫導入預構建的程式。
 
-## 導入程式 {#import-a-program-1}
+## 導入程式 {#importing-a-program}
 
 1. 轉到 **市場營銷活動。**
 
@@ -46,11 +46,15 @@ ht-degree: 0%
 
    ![](assets/import-a-program-5.png)
 
+   >[!NOTE]
+   >
+   >將使用自定義流步驟或從流步驟服務派生的智慧清單規則的程式導入到具有多個相容服務提供商的目標實例中，系統會提示導入用戶將步驟或規則分配給目標實例中正確的服務提供商。
+
 1. 預覽詳細資訊和 **導入** 程式。
 
    ![](assets/import-a-program-6.png)
 
-導入完成後，您將收到電子郵件確認。
+導入完成後，您將收到一封電子郵件確認。
 
 >[!NOTE]
 >
@@ -67,7 +71,7 @@ Marketo計畫庫包含可導入訂閱的預構建、經測試的程式。 可用
 1. **有趣的時刻。** 為您的銷售團隊創造有趣的時刻，使其保持循環。
 1. **帶自動響應程式的登錄頁。** 使用可下載內容來吸引新人並培養他們。 包括登錄頁和表單。
 1. **生命週期2。** 使用評分將人員從符合市場營銷條件的新人員移動。
-1. **Mobile電子郵件模板。** 針對iPhone和Android測試的響應性電子郵件模板。 Android、MS Outlook、Exchange和Gmail和Yahoo！等第三方應用的某些版本 郵件移動應用不支援響應模板所需的CSS。 我們建議您在發送電子郵件之前test。
+1. **移動電子郵件模板。** 針對iPhone和Android測試的響應性電子郵件模板。 Android、MS Outlook、Exchange和Gmail和Yahoo！等第三方應用的某些版本 郵件移動應用不支援響應模板所需的CSS。 我們建議您在發送電子郵件之前test。
 1. **程式導入抽獎。** 為嘗試程式庫的人提供抽獎計畫！ 只需批准電子郵件和登錄頁並激活智慧活動即可。 然後查看已批准的登錄頁，填寫表單，您就已輸入！
 1. **銷售可用市場活動。** 為您的銷售代表提供了從CRM中的Dashboard執行Marketo智慧營銷活動的方法。
 1. **評分 — Spark版。** 在單個評分欄位中捕獲的人口統計和行為評分。 包括20多個與評分相關的活動。
