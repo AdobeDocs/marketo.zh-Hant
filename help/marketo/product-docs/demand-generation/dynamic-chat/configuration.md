@@ -1,15 +1,15 @@
 ---
 description: 配置 — Marketo文檔 — 產品文檔
-title: 配置
+title: 設定
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
+source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 0%
+source-wordcount: '296'
+ht-degree: 1%
 
 ---
 
-# 配置 {#configuration}
+# 設定 {#configuration}
 
 瞭解如何自定義聊天機對話框窗口的外觀。
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
 ![](assets/configuration-4.png)
 
-**代理設定**
+**專員設定**
 
-在「代理設定」中，可以向您的聊天框添加標籤(例如：&quot;Adobe機器人&quot;)。 您還可以確定響應延遲（秒），並更改聊天虛擬形象。
+在「代理設定」中，可以向您的聊天框添加標籤(例如：&quot;Adobe機器人&quot;)。 您還可以確定響應延遲（秒），並更改聊天虛擬形象。 要上載您自己的虛擬形象影像，請按一下 **+** 按鈕
 
 ![](assets/configuration-5.png)
 
