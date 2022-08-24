@@ -3,7 +3,7 @@ unique-page-id: 10097447
 description: 資料庫儀表板 — Marketo文檔 — 產品文檔
 title: 資料庫儀表板
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: 1de5fe50189da04ccdbcdcd017e294e5b8cba1af
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -30,6 +30,6 @@ ht-degree: 0%
 >
 >想獲取有關您的人員的更具體或更及時的資訊嗎？ 嘗試 [人員績效報告](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)。
 
-**人員總數：** 列出的工作區中的全時人員數。
+**人員總數：** 列出的工作區的全時人員數。
 
 **有價人員：** 列出的工作區的全時人員數， _減去以下_:沒有電子郵件地址的人、電子郵件被硬性反彈的人、被屏蔽的人、未訂閱的人、目前被暫停營銷的人。
