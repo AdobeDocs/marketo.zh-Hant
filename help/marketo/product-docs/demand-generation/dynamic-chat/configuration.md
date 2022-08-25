@@ -2,9 +2,9 @@
 description: 配置 — Marketo文檔 — 產品文檔
 title: 設定
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -40,6 +40,10 @@ ht-degree: 1%
 在「代理設定」中，可以向您的聊天框添加標籤(例如：&quot;Adobe機器人&quot;)。 您還可以確定響應延遲（秒），並更改聊天虛擬形象。 要上載您自己的虛擬形象影像，請按一下 **+** 按鈕
 
 ![](assets/configuration-5.png)
+
+>[!NOTE]
+>
+>自定義頭像應是小於256kb的方形影像，小於200x200像素。 支援的檔案類型包括：.jpg、.png、.gif、.webp、.svg。
 
 完成更改後，請記住按一下 **保存**。
 
