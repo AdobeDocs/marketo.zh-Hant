@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: 設定核對表 — Marketo文檔 — 產品文檔
 title: 設定核對清單
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # 設定核對清單 {#setup-checklist}
 
-歡迎使用 Marketo! 您可以隨意使用以下清單作為可視待辦事項清單，以便開始工作。 有關詳細資訊，請參閱 [設定步驟](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}。
+歡迎使用 Marketo! 您可以隨意使用以下清單作為可視待辦事項清單，以便開始工作。 有關詳細資訊，請參閱 [設定步驟](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}。
 
 ## 登錄到Marketo並建立其他用戶 {#log-in-to-marketo-and-create-additional-users}
 
@@ -50,4 +50,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[設定步驟](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;
+>[設定步驟](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;
