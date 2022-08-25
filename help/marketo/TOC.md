@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品文檔
 feature-set: Marketo Engage
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
 workflow-type: tm+mt
 source-wordcount: '8807'
 ht-degree: 0%
@@ -20,9 +20,9 @@ ht-degree: 0%
    + [Marketo辭彙表](getting-started/marketo-glossary.md)
    + [經典表徵圖辭彙表](getting-started/classic-icon-glossary.md)
    + 設定 {#setup}
-      + [設定步驟](getting-started/setup-steps.md)
-      + [設定核對清單](getting-started/setup-steps/setup-checklist.md)
-      + [配置Marketo協定](getting-started/setup-steps/configure-protocols-for-marketo.md)
+      + [設定步驟](getting-started/setup/setup-steps.md)
+      + [設定核對清單](getting-started/setup/setup-checklist.md)
+      + [配置Marketo協定](getting-started/setup/configure-protocols-for-marketo.md)
    + 快速獲勝 {#quick-wins}
       + [設定並添加人員](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [發送電子郵件](getting-started/quick-wins/send-an-email.md)
