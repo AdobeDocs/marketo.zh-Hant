@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: 設定步驟 — Marketo文檔 — 產品文檔
 title: 設定步驟
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
+source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
 workflow-type: tm+mt
 source-wordcount: '2002'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果 [打印出核對表](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;}，您可以在完成項目時將其簽出。
+>如果 [打印出核對表](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}，您可以在完成項目時將其簽出。
 
 ## 登錄並建立其他Marketo用戶 {#log-in-and-create-additional-marketo-users}
 

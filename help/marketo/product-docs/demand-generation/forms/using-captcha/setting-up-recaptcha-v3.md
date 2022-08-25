@@ -4,9 +4,9 @@ title: 設定reCAPTCHA v3
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ ReCAPTCHA v3是一種無摩擦的體驗，它根據提交內容的可疑程度�
 
 >[!IMPORTANT]
 >
->按照這些步驟和 [啟用第一個Marketo窗體中的驗證碼](help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;}，請確保立即test表單，因為reCAPTCHA安裝程式中的任何錯誤配置都會破壞表單。
+>按照這些步驟和 [啟用第一個Marketo窗體中的驗證碼](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;}，請確保立即test表單，因為reCAPTCHA安裝程式中的任何錯誤配置都會破壞表單。
 
 1. 在Marketo，按一下 **管理**。
 
