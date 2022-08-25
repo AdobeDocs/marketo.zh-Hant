@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: 設定步驟 — Marketo文檔 — 產品文檔
 title: 設定步驟
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
 source-wordcount: '2002'
 ht-degree: 0%
@@ -199,7 +199,7 @@ ht-degree: 0%
 
 一旦收集了所有必要的資訊，您就可以向IT部門發送請求。 您可以將下面的文本用作模板，用您自己的資訊替換粗體文本。
 
-[包括指向此文章的連結](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md)。
+[包括指向此文章的連結](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)。
 
 將此文本貼上到電子郵件中，並替換帶粗體的佔位符：
 

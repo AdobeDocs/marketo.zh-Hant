@@ -1,38 +1,37 @@
 ---
 unique-page-id: 11377392
-description: 編輯您的預設品牌網域-Marketo檔案——產品檔案
-title: 編輯您的預設品牌網域
+description: 編輯預設品牌推廣域 — Marketo文檔 — 產品文檔
+title: 編輯預設品牌推廣域
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# 編輯您的預設品牌網域{#edit-your-default-branding-domain}
+# 編輯預設品牌推廣域 {#edit-your-default-branding-domain}
 
-編輯預設品牌網域是使用品牌網域的第一步。
+編輯預設品牌域是處理品牌域的第一步。
 
 >[!PREREQUISITES]
 >
->在Marketo新增品牌網域之前，請務必[在DNS中設定CNAME。](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md)
+>確保 [在DNS中設定CNAME](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md) 在Marketo添加品牌域名之前。
 
-1. 前往&#x200B;**Admin**，然後按一下&#x200B;**Email**。
+1. 轉到 **管理** 按一下 **電子郵件**。
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
-1. 在「品牌網域」(Branding Domains)表格中，選取一般網域，然後按一下「編輯」(Edit)，將其變更為您公司的品牌網域。
+1. 在「品牌推廣域」(Branding Domains)表格中，選擇通用域，然後按一下「編輯」(Edit)將其更改為公司的品牌域。
 
    ![](assets/edit-branding-domain.png)
 
    >[!NOTE]
    >
-   >您必須先編輯一般網域，才能新增其他網域。
+   >在首次編輯通用域之前，不能添加其他域。
 
 1. 輸入預設域的名稱，然後按一下「保存」。
 
-   ![](assets/edit-branding-domain-hands.png)e
+   ![](assets/edit-branding-domain-hands.png)如
 
-現在，您可以[新增您需要的任何其他品牌網域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)。
+現在，你可以 [添加任何附加品牌域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) 你需要。

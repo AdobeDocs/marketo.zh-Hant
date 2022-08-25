@@ -3,7 +3,7 @@ unique-page-id: 2949467
 description: 什麼是Adobe Marketo Engage? -Marketo文檔 — 產品文檔
 title: 什麼是Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Marketo Engage擁有大量強大功能，可幫助您實現營銷目標。 像�
 
 ## 我需要做任何設定嗎？ {#do-i-need-to-do-any-setup}
 
-是的，我們 [要做的事情清單](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;}。
+是的，我們 [要做的事情清單](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}。
 
 ## 是否必須等到安裝完成才能學習？ {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
