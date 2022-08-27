@@ -3,7 +3,7 @@ unique-page-id: 2359410
 description: 發送電子郵件 — Marketo文檔 — 產品文檔
 title: 發送電子郵件
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: b084acfdc58448e01fa6e19a03e6c3e1ea70a97b
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 0%
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 1. 轉到 **營銷活動** 的子菜單。
 
-   ![](assets/one-1.png)
+   ![](assets/send-an-email-1.png)
 
 1. 選擇 **學習** 的子菜單。 按一下 **新建** 下拉並選擇 **新程式**。
 
-   ![](assets/two-1.png)
+   ![](assets/send-an-email-2.png)
 
 1. 輸入 **名稱** 選擇 **電子郵件** 為 **程式類型。**
 
@@ -34,29 +34,29 @@ ht-degree: 0%
    >
    >在程式名的末尾添加您的首字母，使其唯一。
 
-   ![](assets/three.png)
+   ![](assets/send-an-email-3.png)
 
 1. 下 **頻道**&#x200B;選中 **電子郵件發送** 按一下 **建立**。
 
-   ![](assets/image2015-3-2-16-3a25-3a18.png)
+   ![](assets/send-an-email-4.png)
 
 ## 定義受眾 {#define-your-audience}
 
 1. 按一下 **編輯智慧清單** 的子菜單。
 
-   ![](assets/five.png)
+   ![](assets/send-an-email-5.png)
 
-1. 查找電子郵件地址篩選器並將其拖到畫布中。
+1. 查找電子郵件地址篩選器並將其拖到畫布上。
 
-   ![](assets/six.png)
+   ![](assets/send-an-email-6.png)
 
    >[!TIP]
    >
-   >使用 **搜索** 在「篩選器」清單頂部查找篩選器。
+   >使用 **搜索** 函式。
 
 1. 查找並選擇您的電子郵件地址。
 
-   ![](assets/seven-1.png)
+   ![](assets/send-an-email-7.png)
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 1. 返回主程式頁籤，然後按一下刷新表徵圖 **人員**。
 
-   ![](assets/refresh-icon.png)
+   ![](assets/send-an-email-8.png)
 
    你應該看到人數增加到1。 是你！
 
@@ -76,15 +76,15 @@ ht-degree: 0%
 
 1. 在「Email tile（電子郵件磁貼）」下按一下 **新建電子郵件**。
 
-   ![](assets/image2014-9-8-15-3a10-3a47.png)
+   ![](assets/send-an-email-9.png)
 
 1. 輸入 **名稱**，選擇 **模板**，然後按一下 **建立**。
 
-   ![](assets/ten-1.png)
+   ![](assets/send-an-email-10.png)
 
 1. 將會開啟電子郵件編輯器窗口。 輸入50個或更少（建議）的主題。
 
-   ![](assets/eleven.png)
+   ![](assets/send-an-email-11.png)
 
    >[!NOTE]
    >
@@ -92,19 +92,15 @@ ht-degree: 0%
 
 1. 選擇要編輯的區域，按一下右側的齒輪表徵圖，然後選擇 **編輯** （也可以按兩下要編輯的可編輯部分）。
 
-   ![](assets/twelve.png)
+   ![](assets/send-an-email-12.png)
 
 1. 輸入所需內容，然後按一下 **保存**。
 
-   ![](assets/thirteen.png)
+   ![](assets/send-an-email-13.png)
 
-1. 更改將自動保存。 關閉編輯器頁籤/窗口。
+1. 按一下 **電子郵件操作** 下拉並選擇 **批准和關閉**。
 
-   ![](assets/fourteen.png)
-
-1. 按一下 **電子郵件操作** 下拉並選擇 **批准**。
-
-   ![](assets/fifteen.png)
+   ![](assets/send-an-email-14.png)
 
    >[!TIP]
    >
@@ -112,15 +108,19 @@ ht-degree: 0%
 
 1. 在左樹中選擇「Email Program（電子郵件程式）」。
 
-   ![](assets/sixteen.png)
+   ![](assets/send-an-email-15.png)
 
 1. 在「計畫」磁貼下，將電子郵件的啟動日設定為 **今天。**
 
-   ![](assets/image2014-9-8-15-3a13-3a11.png)
+   ![](assets/send-an-email-16.png)
+
+   >[!NOTE]
+   >
+   >瞭解有關 [收件人時區](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target=&quot;_blank&quot;和 [開頭](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target=&quot;_blank&quot;}。
 
 1. 選擇將來至少15分鐘的時間。
 
-   ![](assets/image2014-9-8-15-3a13-3a25.png)
+   ![](assets/send-an-email-17.png)
 
    >[!TIP]
    >
@@ -128,7 +128,7 @@ ht-degree: 0%
 
 1. 按一下 **批准程式** 在「批准」磁貼下，您完成了！
 
-   ![](assets/image2014-9-8-15-3a13-3a34.png)
+   ![](assets/send-an-email-18.png)
 
 您應在計畫的日/時間後不久接收電子郵件。
 
