@@ -1,9 +1,10 @@
 ---
 description: 發行說明 — 2022年6月 — Marketo文檔 — 產品文檔
 title: 發行說明 — 2022年6月
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '649'
 ht-degree: 0%
 
 ---
@@ -75,4 +76,4 @@ ht-degree: 0%
 
 **_產品發佈網路研討會_**
 
-在2022年8月24日上午9:00 AM PT / 12:00 PM ET, [即時網路研討會](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html)由我們的產品團隊托管的{target=&quot;_blank&quot;}，您可以在其中學習如何使用所有最新的產品創新。
+[2022年6月和8月Marketo Engage發佈網路研討會](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;

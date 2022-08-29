@@ -1,16 +1,17 @@
 ---
 description: 發行說明 — 2022年3月 — Marketo文檔 — 產品文檔
 title: 發行說明 — 2022年3月
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+exl-id: 91826d56-a38e-44af-b798-17bfc016c311
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '771'
 ht-degree: 0%
 
 ---
 
 # 發行說明：2022年3月 {#release-notes-mar-22}
 
-以下功能包含在2004年3月的發行版中。 檢查您的AdobeMarketo Engage版以瞭解功能可用性。
+以下功能包含在2004年3月的發行版中。 查看您的Adobe Marketo Engage版功能的可用性。
 
 >[!AVAILABILITY]
 >
@@ -58,7 +59,7 @@ ht-degree: 0%
 
 以下功能處於非季度週期，將在未來幾個月中發佈。
 
-## 比齊布爾 {#bizible}
+## Bizible {#bizible}
 
 ![（星號）](assets/yellow-star.png)
 
@@ -76,4 +77,4 @@ ht-degree: 0%
 
 **_產品發佈網路研討會_**
 
-2022年5月11日，上午9:00 PT /下午12:00 PM, [即時網路研討會](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html) 由我們的產品團隊主持，您可以在此學習如何使用所有最新的產品創新。
+[2022年3月和5月Marketo Engage發佈網路研討會](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;

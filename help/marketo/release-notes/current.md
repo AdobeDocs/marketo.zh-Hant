@@ -2,9 +2,9 @@
 description: 當前發行說明 — Marketo文檔 — 產品文檔
 title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 87e5bab3f668509bd791a0ec1ff0e2174eadda09
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -74,4 +74,4 @@ ht-degree: 0%
 
 **_產品發佈網路研討會_**
 
-在2022年8月24日上午9:00 AM PT / 12:00 PM ET（東部時間中午12:00）與我們一起， [即時網路研討會](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html)由我們的產品團隊托管的{target=&quot;_blank&quot;}，您可以在其中學習如何使用所有最新的產品創新。
+[2022年6月和8月Marketo Engage發佈網路研討會](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;
