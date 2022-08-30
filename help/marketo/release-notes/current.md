@@ -2,9 +2,9 @@
 description: 當前發行說明 — Marketo文檔 — 產品文檔
 title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 * **[同時啟用/禁用動態聊天的所有發佈對話框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;**:在「配置」頁面中，按按鈕一次全局啟用/禁用所有已發佈的對話框。
 
-* **動態聊天的自定義化身**:上傳自定義聊天機器人虛擬形象，以便它可個性化到您的品牌。
+* **[動態聊天的自定義化身](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target=&quot;_blank&quot;**:上傳自定義聊天機器人虛擬形象，以便它可個性化到您的品牌。
 
 * **動態聊天的聊天記錄**:查看每次對話的聊天記錄，以更深入地瞭解每個Web訪問者對什麼感興趣。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 * **在移動對話框中顯示目標資料夾的資料夾層次結構**:查看每個資料夾的資料夾層次結構可以更輕鬆地移動資產，並降低將資產放在錯誤資料夾中的可能性。
 
-* **新一代體驗中的更新螢幕**:我們將提供新一代體驗中的更多刷新螢幕，提供可通過切換開關進行的更新設計和可用性增強：
+* **[新一代體驗中的更新螢幕](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;**:我們將提供新一代體驗中的更多刷新螢幕，提供可通過切換開關進行的更新設計和可用性增強：
 
    * 代碼段詳細資訊
    * 「映像和檔案」詳細資訊
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ## 體驗自動化 {#experience-automation}
 
-* **自助服務流程步驟 — 程式導入增強**:改進了對使用自定義流步驟導入程式的支援，在此步驟中，您現在可以使用同一服務提供商的多個實例並導入具有與這些服務提供商相容的流步驟的程式。
+* **[自助服務流程步驟 — 程式導入增強](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target=&quot;_blank&quot;**:改進了對使用自定義流步驟導入程式的支援，在此步驟中，您現在可以使用同一服務提供商的多個實例並導入具有與這些服務提供商相容的流步驟的程式。
 
 * **Munchkin — 擴展的鏈路跟蹤**:擴展對跟蹤的支援 `tel` 和 `mailto` 與Munchkin連結以跟蹤擴展的Web行為集。
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 ![（星號）](assets/yellow-star.png)
 
-* **Sales Insight與動態聊天整合**:在Sales Insight面板中查看動態聊天中的活動，並在您的潛在客戶工作中利用此新資料點。
+* **[Sales Insight與動態聊天整合](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;**:在Sales Insight面板中查看動態聊天中的活動，並在您的潛在客戶工作中利用此新資料點。
 
 ## 公告 {#announcements}
 

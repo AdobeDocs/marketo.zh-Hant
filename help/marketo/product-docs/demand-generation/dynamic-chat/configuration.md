@@ -2,10 +2,10 @@
 description: 配置 — Marketo文檔 — 產品文檔
 title: 設定
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 ## 樣式頁籤 {#style-tab}
 
-**樣式**
+### 樣式 {#style}
 
 您將在此處定義對話框的顯示外觀，包括：顏色、字型、bot小部件的位置以及chatbot的名稱/虛擬形象。
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
 ![](assets/configuration-4.png)
 
-**專員設定**
+### 專員設定 {#agent-settings}
 
 在「代理設定」中，可以向您的聊天框添加標籤(例如：&quot;Adobe機器人&quot;)。 您還可以確定響應延遲（秒），並更改聊天虛擬形象。 要上載您自己的虛擬形象影像，請按一下 **+** 按鈕
 
