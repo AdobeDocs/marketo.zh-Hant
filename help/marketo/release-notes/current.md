@@ -2,9 +2,9 @@
 description: 當前發行說明 — Marketo文檔 — 產品文檔
 title: 當前發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '558'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 跨通道業務流程 {#cross-channel-orchestration}
 
-* **同時啟用/禁用動態聊天的所有發佈對話框**:在「配置」頁面中，按按鈕一次全局啟用/禁用所有已發佈的對話框。
+* **[同時啟用/禁用動態聊天的所有發佈對話框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;**:在「配置」頁面中，按按鈕一次全局啟用/禁用所有已發佈的對話框。
 
 * **動態聊天的自定義化身**:上傳自定義聊天機器人虛擬形象，以便它可個性化到您的品牌。
 
