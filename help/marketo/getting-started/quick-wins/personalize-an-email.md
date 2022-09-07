@@ -1,112 +1,108 @@
 ---
 unique-page-id: 2359422
-description: 個性化電子郵件 — Marketo文檔 — 產品文檔
-title: 個性化電子郵件
+description: 個人化電子郵件 — Marketo檔案 — 產品檔案
+title: 個人化電子郵件
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 8aa2f3069c0168f57ac00dfc7270484a9045584c
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
 
-# 個性化電子郵件 {#personalize-an-email}
+# 個人化電子郵件 {#personalize-an-email}
 
-## 任務：通過添加資料令牌，將您的電子郵件變為個人電子郵件 {#mission-make-your-emails-personal-by-adding-data-tokens}
+## 任務：新增資料代號，讓您的電子郵件成為個人電子郵件 {#mission-make-your-emails-personal-by-adding-data-tokens}
 
 >[!PREREQUISITES]
 >
->* [設定並添加人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;
->* [發送電子郵件爆炸](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;
->* [滴水，滴水，撫育](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;
+>* [設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [傳送電子郵件爆炸](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}
+>* [滴水，滴水，撫育](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;}
 
 
-## 步驟1:選擇要個性化的電子郵件 {#step-select-an-email-to-personalize}
+## 步驟1:選取要個人化的電子郵件 {#step-select-an-email-to-personalize}
 
-1. 選擇在 [上一場速勝](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;，然後按一下 **編輯草稿**。
+1. 選取 [上一次快速成功](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;}，按一下 **建立草稿**.
 
-   ![](assets/one-4.png)
+   ![](assets/personalize-an-email-1.png)
 
    >[!NOTE]
    >
-   >這將建立電子郵件的草稿副本。 您必須批准要生效的更改的草稿。
+   >這會以草稿形式建立電子郵件副本。 請記得核准草稿，變更才會上線。
 
-如果尚未啟用彈出窗口阻止程式，電子郵件編輯器將在新的頁籤/窗口中開啟。 否則，按一下 **編輯草稿** 兩次。
+如果您尚未啟用快顯封鎖程式，電子郵件編輯器將會在新索引標籤/視窗中開啟。 否則，按一下 **建立草稿** 兩次。
 
-## 步驟2:將銷售人員設定為發件人 {#step-make-the-salesperson-the-sender}
+## 步驟2:將銷售人員設為寄件者 {#step-make-the-salesperson-the-sender}
 
-1. 選擇 **從** 欄位，突出顯示和 **刪除** 當前名稱。
+1. 選取 **從** 欄位、突出顯示和 **刪除** 目前的名稱。
 
-   ![](assets/two-5.png)
+   ![](assets/personalize-an-email-2.png)
 
-1. 按一下 **令牌** 表徵圖 **從** 的子菜單。
+1. 按一下 **代號** 表徵圖 **從** 欄位。
 
-   ![](assets/three-4.png)
+   ![](assets/personalize-an-email-3.png)
 
-1. 查找並選擇 **`{{lead.Lead Owner First Name}}`** 標籤。
+1. 尋找並選取 **`{{lead.Lead Owner First Name}}`** 代號。
 
-   ![](assets/four-3.png)
+   ![](assets/personalize-an-email-4.png)
 
-1. 鍵入公司名稱，並為 **預設值** 以確保在銷售代表的名字不可用時顯示某些內容。 按一下 **插入**。
+1. 輸入您的公司名稱，並加上破折號 **預設值** 以確保在銷售代表的名字不可用時顯示某些內容。 按一下 **插入**.
 
-   ![](assets/five-4.png)
+   ![](assets/personalize-an-email-5.png)
 
-1. 按下 **從** 欄位，確保游標在您剛剛插入的標籤後閃爍一個空格。 然後按一下 **令牌** 的子菜單。
+1. 點擊 **從** 欄位，確保游標在剛插入的令牌後閃爍一個空格。 然後按一下 **代號** 圖示。
 
-   ![](assets/six-4.png)
+   ![](assets/personalize-an-email-6.png)
 
-1. 查找並選擇 **`{{lead.Lead Owner Last Name}}`** 標籤。
+1. 尋找並選取 **`{{lead.Lead Owner Last Name}}`** 代號。
 
-   ![](assets/seven-5.png)
+   ![](assets/personalize-an-email-7.png)
 
-1. 鍵入「銷售」 **預設值** 按一下 **插入**。
+1. 鍵入「Sales」 **預設值** 按一下 **插入**.
 
-   ![](assets/eight-3.png)
+   ![](assets/personalize-an-email-8.png)
 
-## 第3步：將Lead的名稱添加到電子郵件 {#step-add-the-leads-name-to-the-email}
+## 步驟3:將銷售機會名稱新增至電子郵件 {#step-add-the-leads-name-to-the-email}
 
-1. 選擇頂部可編輯部分，按一下齒輪表徵圖並選擇 **編輯**。
+1. 選取頂端可編輯的區段，按一下齒輪圖示並選取 **編輯**.
 
-   ![](assets/nine-2.png)
+   ![](assets/personalize-an-email-9.png)
 
-1. 在「Hello」後添加空格，將游標置於逗號前，然後按一下 **插入標籤** 表徵圖
+1. 在&quot;Hello&quot;後面添加一個空格，並將游標放在逗號前面，然後按一下 **插入代號** 表徵圖。
 
-   ![](assets/ten-4.png)
+   ![](assets/personalize-an-email-10.png)
 
-1. 查找並選擇 **`{{lead.First Name}}`** 標籤。
+1. 尋找並選取 **`{{lead.First Name}}`** 代號。
 
-   ![](assets/eleven-4.png)
+   ![](assets/personalize-an-email-11.png)
 
-1. 在中輸入「朋友」（或您想要的任何標籤） **預設值** 按一下 **插入**。
+1. 在 **預設值** 欄位，按一下 **插入**.
 
-   ![](assets/twelve-3.png)
+   ![](assets/personalize-an-email-12.png)
 
    >[!TIP]
    >
-   >始終包含令牌的預設值；這可確保在丟失部分個人資訊時，在電子郵件中顯示預設值。
+   >一律包含代號的預設值；這可確保在缺少部分個人資訊時，在電子郵件中顯示預設值。
 
-1. 按一下 **保存**。
+1. 按一下 **儲存**.
 
-   ![](assets/thirteen-3.png)
+   ![](assets/personalize-an-email-13.png)
 
-1. 關閉電子郵件編輯器頁籤/窗口。
+1. 在 **電子郵件動作** 選取 **核准並關閉**.
 
-   ![](assets/fourteen-3.png)
-
-1. 下 **電子郵件操作**&#x200B;選中 **批准草稿**。
-
-   ![](assets/fifteen-3.png)
+   ![](assets/personalize-an-email-14.png)
 
 >[!TIP]
 >
->需要快速複習一下如何自己發送電子郵件嗎？ 請參閱 [發送電子郵件爆炸](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}。
+>需要快速重新整理一下如何傳送電子郵件給您自己嗎？ 請參閱 [傳送電子郵件爆炸](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}。
 
 ### 任務完成 {#mission-complete}
 
-恭喜，您已個性化了您的電子郵件！
+恭喜，您的電子郵件已個性化！
 
 <br> 
 
 [◄任務6:滴水，滴水，撫育](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
-[任務8:通知銷售代表►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[任務8:提醒銷售代表►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
