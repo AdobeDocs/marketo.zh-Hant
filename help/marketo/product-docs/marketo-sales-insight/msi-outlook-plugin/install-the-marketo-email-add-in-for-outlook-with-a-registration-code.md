@@ -3,10 +3,10 @@ unique-page-id: 2949711
 description: 使用註冊代碼安裝Marketo Email Add-in for Outlook - Marketo Docs — 產品檔案
 title: 使用註冊代碼安裝Outlook的Marketo Email Add-in
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
-source-git-commit: 0dec1dc142a7296ce9d5db91493f654dbe7ee99a
+source-git-commit: 268a7f1ca441661e1d943a8d6abce7bdcf308a98
 workflow-type: tm+mt
-source-wordcount: '471'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 4%
 
 >[!IMPORTANT]
 >
->Windows用戶資料夾包含非英文字元的PC上不支援安裝。 此資料夾由Windows在 <System Root>\Users\（基於Windows用戶名），如果Windows用戶名為非英文名稱，則可能包含非英文字元。 請與IT團隊合作，確認您是否遇到安裝問題。
+>Windows用戶資料夾包含非英文字元的PC上不支援安裝。 此資料夾由Windows在 `<System Root>\Users\` 根據Windows用戶名，如果Windows用戶名為非英文名稱，則可能包含非英文字元。 請與IT團隊合作，確認您是否遇到安裝問題。
 
 >[!NOTE]
 >
