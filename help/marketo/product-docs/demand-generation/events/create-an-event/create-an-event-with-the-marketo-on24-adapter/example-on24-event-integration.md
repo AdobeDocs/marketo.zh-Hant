@@ -1,96 +1,99 @@
 ---
 unique-page-id: 10096679
-description: 範例ON24事件整合——行銷檔案——產品檔案
+description: ON24事件整合範例 — Marketo檔案 — 產品檔案
 title: ON24事件整合範例
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
 
+# ON24事件整合範例 {#example-on-event-integration}
 
-# ON24事件整合示例{#example-on-event-integration}
+>[!IMPORTANT]
+>
+>自2022年8月起，ON24不再支援新的Marketo整合。 本文中的資訊僅適用於現有用戶。
 
-以下是ON24網路研討會的範例活動，包括促銷活動。 建立活動時，請務必先測試促銷活動，然後再執行。
+以下是ON24網路研討會的範例活動，包括促銷活動。 建立事件時，請務必先測試促銷活動，再執行。
 
-## 在行銷活動中建立新事件{#create-a-new-event-in-marketing-activities}
+## 在行銷活動中建立新事件 {#create-a-new-event-in-marketing-activities}
 
-1. 選擇「**新建** > **新程式**」。
+1. 選擇 **新增** > **新計畫**.
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. 選擇事件將存在的&#x200B;**促銷活動資料夾**。
+1. 選取 **促銷活動資料夾** 活動的所在位置。
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
-1. 輸入事件的&#x200B;**名稱**。
+1. 輸入 **名稱** 的URL區段。
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. 選擇&#x200B;**事件**&#x200B;作為&#x200B;**程式類型**。
+1. 選擇 **事件** 作為 **程式類型**.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. 選擇&#x200B;**網路研討會**&#x200B;作為活動的&#x200B;**頻道**。
+1. 選擇 **網路研討會** 作為 **管道** 的URL區段。
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
-1. 按一下&#x200B;**建立**。
+1. 按一下 **建立**.
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 
-## 邀請（批次促銷活動）{#invite-batch-campaign}
+## 邀請（批次促銷活動）  {#invite-batch-campaign}
 
-* **智慧型清單** -定義您要邀請誰參加該活動。
+* **智慧清單**  — 定義您要邀請誰參加活動。
 * **流量**
 
-   * 傳送電子郵件——如果這是本機資產電子郵件，則會有下列命名慣例：EventName.EmailName。 您也可以使用全域電子郵件。
-   * 變更進度狀態——設為「網路研討會>已邀請」。
+   * 傳送電子郵件 — 如果這是本機資產電子郵件，則會有下列命名慣例：EventName.EmailName。 您也可以使用全域電子郵件。
+   * 變更進展狀態 — 設為網路研討會>受邀。
 
-* **排程** -設定傳送邀請的日期。
+* **排程**  — 設定要傳送邀請的日期。
 
-## 註冊／確認（觸發促銷活動）{#registration-confirmation-trigger-campaign}
+## 註冊/確認（觸發促銷活動） {#registration-confirmation-trigger-campaign}
 
-* **智慧型清單**
+* **智慧清單**
 
-   * 根據&#x200B;**填寫表單**&#x200B;觸發促銷活動。 請務必使用&#x200B;**新增約束**&#x200B;加入表單所在的著陸頁面，尤其是當表單用於多個著陸頁面時。
+   * 根據觸發促銷活動 **填寫表單**. 請務必包含表單所在的登錄頁面，方法是使用 **添加約束**，尤其是如果表單用於多個登陸頁面時。
 
 >[!CAUTION]
 >
->您必須使用Marketor表單來註冊活動的人員，或使用適當的API整合來註冊非Marketo表單，以將註冊資料推送至Marketo。 這對於您的活動合作夥伴整合的成功至關重要。 **注意**:如果您在非Marketo登陸頁面上使用Marketo表單，則觸發器會是「填 **滿** 表單名稱」。
+>您必須使用Marketo表單來註冊事件的人員，或使用非Marketo表單來搭配適當的API整合，將註冊資料推送至Marketo。 這對於事件合作夥伴整合的成功至關重要。 **注意**:如果您在非Marketo登陸頁面上使用Marketo表單，您的觸發器將會是 **填寫表單** 表單名稱。
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 
 * **流量**
 
-   * **變更進展狀態** -設為「網路研討會>已註冊」。**注意**:設定子促銷活動時，需要此流程步驟。當個人的晉升狀態變更為&#x200B;**Registered**&#x200B;時，Marketo會將註冊資訊推送至ON24。
+   * **更改晉升狀態**  — 設為網路研討會>註冊。 **注意**:設定子促銷活動時，需要執行此流程步驟。 當人員的晉升狀態變更為 **已註冊**,Marketo會將註冊資訊推送至ON24。
 
-   * **傳送電子郵件** -確認電子郵件(設為 **** Operational，而已註冊的取消訂閱者仍會收到此電子郵件)。
+   * **傳送電子郵件**  — 確認電子郵件(設為 **操作** 讓已註冊的未訂閱者仍然能收到。)
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 
-**注意**:如果傳回的人員發生註冊錯誤，他們將不會收到電子郵件確認。
+**注意**:如果人員因註冊錯誤而傳回，他們將不會收到電子郵件確認。
 
-## 提醒（批次促銷活動）{#reminder-batch-campaign}
+## 提醒（批次促銷活動） {#reminder-batch-campaign}
 
-* **智慧清單** -使用Program **成員進** 行過濾，並將狀態設定為「已注 **冊」**。
+* **智慧清單**  — 使用篩選 **方案成員** 並將狀態設為 **已註冊**.
 
-* **流量** -傳送電子郵件（提醒電子郵件）。
+* **流量**  — 傳送電子郵件（提醒電子郵件）。
 
-**注意**:您可以使用類似的促銷活動，將不同 ** 的後續電子郵件傳送給受邀但尚未註冊的人。
+**注意**:您可以使用類似的促銷活動來傳送 *不同* 後續電子郵件給受邀但尚未註冊的人。
 
-## 後續促銷活動（批次或觸發促銷活動）{#follow-up-campaign-batch-or-trigger-campaign}
+## 後續促銷活動（批次或觸發促銷活動） {#follow-up-campaign-batch-or-trigger-campaign}
 
-* **智慧清單** -根據程式狀態的更改觸發。
+* **智慧清單**  — 根據程式狀態的更改觸發。
 
 ![](assets/image2015-12-22-15-3a57-3a25.png)
 
-* **流量** -傳送電子郵件。根據計畫狀態使用選項來傳送不同的電子郵件。
+* **流量**  — 傳送電子郵件。 根據計畫狀態使用選項發送不同的電子郵件。
 
 ![](assets/ten.png)
 
 >[!MORELIKETHIS]
 >
->[瞭解Marketo ON24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[了解Marketo ON24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)

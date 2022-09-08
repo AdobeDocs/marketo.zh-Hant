@@ -1,58 +1,61 @@
 ---
 unique-page-id: 10096681
-description: 瞭解網路研討會計畫狀態——行銷檔案——產品檔案
-title: 瞭解網路研討會計畫狀態
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: 了解網路研討會計畫狀態 — Marketo檔案 — 產品檔案
+title: 了解網路研討會計畫狀態
+exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
 
+# 了解網路研討會計畫狀態 {#understanding-webinar-program-statuses}
 
-# 瞭解網路研討會計畫狀態{#understanding-webinar-program-statuses}
+>[!IMPORTANT]
+>
+>自2022年8月起，ON24不再支援新的Marketo整合。 本文中的資訊僅適用於現有用戶。
 
-方案狀態表示人員作為事件成員所經過的不同事件狀態。 它們與渠道類型相關聯。 Marketo有內建的頻道類型，稱為&#x200B;**網路研討會**。 狀態可用於批次和觸發促銷活動。
+方案狀態代表人員作為事件成員進行的不同事件狀態。 它們與管道類型相關聯。 Marketo的內建管道類型稱為 **網路研討會**. 狀態可用於批次和觸發促銷活動。
 
-人們以線性方式在程式狀態間移動，而不會回到狀態。 例如，狀態為&#x200B;**Aptended**&#x200B;的人無法返回&#x200B;**Registered**。
+人們會以線性方式移動程式狀態，而不會回到狀態。 例如，狀態為 **已出席** 無法移回 **已註冊**.
 
-以下是與網路研討會頻道相關的方案狀態簡要說明。
+以下是與網路研討會頻道相關聯之節目狀態的簡短說明。
 
 >[!TIP]
 >
->若要手動更新狀態，請在&#x200B;**事件動作**&#x200B;下拉式清單中按一下&#x200B;**從網路研討會提供者**&#x200B;重新整理。
+>若要手動更新狀態，請按一下  **從網路研討會提供者重新整理** 在 **事件動作** 下拉式清單。
 
 ![](assets/image2015-12-17-13-3a52-3a39.png)
 
-**不在程式中** -使用此狀態將人員從事件中刪除。
+**不在程式中**  — 使用此狀態可從事件中移除人員。
 
-**已邀請** -使用此狀態將人員新增至活動。
+**受邀**  — 使用此狀態將人員添加到事件中。
 
-**待核准** -使用此狀態來暫停傳送確認電子郵件給您的人員。如需詳細資訊，請參閱[ON24事件註冊更新](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)中的「手動核准註冊者」。
+**待批准**  — 使用此狀態可延遲向您的人員發送確認電子郵件。 請參閱以下主題中的「手動核准註冊者」： [ON24事件註冊更新](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) 以取得更多資訊。
 
-**等待列出** -使用此狀態讓部分人等待其他授權可用。
+**已列出等待**  — 使用此狀態讓一些人等待，直到其他座位可用。
 
-**已拒絕** -使用此狀態來拒絕人員註冊您的事件。
+**已拒絕**  — 使用此狀態拒絕將人員註冊到您的事件。
 
-**已註冊** -當您使用ON24整合時，此狀態會將人員推送至ON24。當ON24回應人員已成功註冊時，會更新人員的狀態。
+**已註冊**  — 當您使用ON24整合時，此狀態會將人員推送至ON24。 當ON24回應人員已成功註冊時，會更新該人員的狀態。
 
-**註冊錯誤** -此狀態反映使用者嘗試註冊事件時遇到錯誤。
-
->[!NOTE]
->
->如果發生註冊錯誤，您可以查看程式「成員」頁籤中的「狀態原因」列，為該人員獲取其他資訊。 修正錯誤後，您可以手動將使用者的程式狀態變更為Marketo中的「已註冊」。
-
-**參加** -在網路研討會結束時，ON24會傳回參加者清單。此狀態會自動提取至Marketo。
-
-**參加隨選** -參加網路研討會封存版本的人員會收到此狀態。
-
-**無顯示** -在網路研討會結束時及從ON24提取出席資料後，已註冊但未參加者的狀態會更新為「無顯示」。ON24需要30分鐘到3小時的時間，才能準備最終的出席資訊，並將它發佈在Marketo中。
+**註冊錯誤**  — 此狀態反映使用者嘗試註冊事件時遇到錯誤。
 
 >[!NOTE]
 >
->為了讓Marketo提取「無顯示」狀態，人員必須已在Marketo *中註冊。*&#x200B;我們無法擷取來自On24資料饋送的「否顯示」。
+>如果發生註冊錯誤，您可以查看方案的「成員」頁簽中的「狀態原因」列，以獲取該人員的其他資訊。 修正錯誤後，您可以手動將使用者的程式狀態變更為「已在Marketo中註冊」。
+
+**已出席**  — 網路研討會結束時，ON24會返回參加者的清單。 此狀態會自動提取至Marketo。
+
+**隨選出席**  — 參加網路研討會封存版本的人會獲得此狀態。
+
+**無顯示**  — 網路研討會結束時，從ON24提取出席資料後，註冊但未參加的人的狀態將更新為「無節目」。 ON24可能需要30分鐘到3小時，才能準備最終的出席資訊並在Marketo中提供。
+
+>[!NOTE]
+>
+>若要讓Marketo提取「無顯示」狀態，人員必須已註冊 *在Marketo*. 無法擷取來自On24資料摘要的「否顯示」。
 
 >[!MORELIKETHIS]
 >
->[瞭解Marketo ON24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[了解Marketo ON24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)

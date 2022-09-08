@@ -1,34 +1,37 @@
 ---
 unique-page-id: 10096712
-description: 在ON24 —— 行銷檔案——產品檔案中建立您的網路研討會活動
-title: 在ON24中建立您的網路研討會活動
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: 在ON24 - Marketo檔案 — 產品檔案中建立網路研討會活動
+title: 在ON24中建立網路研討會活動
+exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
+# 在ON24中建立網路研討會活動 {#create-your-webinar-event-in-on}
 
-# 在ON24 {#create-your-webinar-event-in-on}中建立您的網路研討會活動
+>[!IMPORTANT]
+>
+>自2022年8月起，ON24不再支援新的Marketo整合。 本文中的資訊僅適用於現有用戶。
 
-在ON24中建立網路研討會後，您可以建立Marketo活動，並將它與ON24網路研討會建立關聯。 這可讓系統共用註冊和考勤資訊。 記下URL和其他資訊，以便用於確認電子郵件和ICS檔案。
+在ON24中建立網路研討會後，您可以建立Marketo活動，並將其與ON24網路研討會建立關聯。 這允許系統共用註冊和考勤資訊。 記下URL和其他資訊，以便用於確認電子郵件和ICS檔案。
 
-在建立ON24網路研討會時，Marketo和其他僅供ON24使用的網路研討會會有一些特定設定。 Marketto使用下列設定：
+建立ON24網路研討會時，Marketo和其他僅由ON24使用的設定。 Marketo使用下列設定：
 
 **標題與說明**
 
-* 活動標題——網路研討會的名稱。 這可在Marketo中檢視。
-* 活動摘要（可選）-網路研討會的說明。 這可在Marketo中檢視。
+* 活動標題 — 網路研討會的名稱。 您可在Marketo中檢視此內容。
+* 活動摘要（選用） — 網路研討會的說明。 您可在Marketo中檢視此內容。
 
 **日期和時間**
 
-* 即時事件開始——開始日期和時間。 這可在Marketo中檢視。
-* 即時結束時間——結束日期和時間。 這可在Marketo中檢視。
+* 即時事件開始 — 開始日期和時間。 您可在Marketo中檢視此內容。
+* 即時結束時間 — 完成日期和時間。 您可在Marketo中檢視此內容。
 
-您的下一步是在Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)中建立事件。[
+下一步是 [在Marketo中建立事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md).
 
 >[!MORELIKETHIS]
 >
->[瞭解Marketo ON24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[了解Marketo ON24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
