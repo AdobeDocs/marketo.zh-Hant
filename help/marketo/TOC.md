@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
 workflow-type: tm+mt
-source-wordcount: '8795'
+source-wordcount: '8801'
 ht-degree: 0%
 
 ---
@@ -172,7 +172,7 @@ ht-degree: 0%
          + [自訂物件中繼資料匯出](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Marketo與Adobe身分 {#marketo-with-adobe-identity}
          + [快速指南](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
-         + [總覽](product-docs/administration/marketo-with-adobe-identity/overview.md)
+         + [AdobeIdentity Management概述](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [管理設定](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [產品管理設定](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [僅為Adobe IMS啟用訂閱新增API使用者](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
@@ -1870,6 +1870,7 @@ ht-degree: 0%
          + [發行說明：』22年3月](release-notes/previous-releases/2022/release-notes-mar-22.md)
          + [發行說明：』22年5月](release-notes/previous-releases/2022/release-notes-may-22.md)
          + [發行說明：』22年6月](release-notes/previous-releases/2022/release-notes-june-22.md)
+         + [發行說明：』22年8月](release-notes/previous-releases/2022/release-notes-aug-22.md)
       + 2021年 {#2021}
          + [發行說明：』21年1月](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [發行說明：』21年5月](release-notes/previous-releases/2021/release-notes-may-21.md)
