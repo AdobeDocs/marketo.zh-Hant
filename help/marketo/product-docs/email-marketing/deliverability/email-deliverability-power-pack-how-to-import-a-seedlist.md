@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: Email Deliverability Power Pack — 如何匯入種子清單 — Marketo檔案 — 產品檔案
 title: 電子郵件傳遞能力Power Pack — 如何匯入種子清單
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
+source-git-commit: 8ff6198abb9cae9cc150b2c267b0a8658acffae2
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -24,25 +24,25 @@ ht-degree: 0%
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. 按一下 **收件箱線人**.
+1. 珠峰應用程式將開啟。 在左側導覽列中，按一下 **飛行中** 選取 **收件匣位置**.
 
-   ![](assets/two-1.png)
+   ![](assets/email-deliverability-power-pack-2.png)
 
-1. 按一下 **獲取種子清單**.
+1. 按一下 **管理種子清單** 標籤。
 
-   ![](assets/three-1.png)
+   ![](assets/email-deliverability-power-pack-3.png)
 
-1. 按一下 **匯出清單**.
+1. 按一下「動作」下拉式清單，然後選取 **每行下載一個**.
 
-   ![](assets/four.png)
+   ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >選擇 **最佳化清單** 如果你想250ok [最佳化清單](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) 為了你。 選擇 **自訂清單** 如果要選擇要包括的種子清單區域。
+   >如果您希望Everest為您最佳化清單，請使用種子清單優化程式（位於頁面頂端）。
 
 1. 匯出後，清單會在瀏覽器的下載資料夾中顯示為.txt檔案。 擷取它，然後 [匯入](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 以靜態清單的形式傳入您的Marketo例項。
 
-   ![](assets/five.png)
+   ![](assets/email-deliverability-power-pack-5.png)
 
    >[!TIP]
    >
@@ -50,7 +50,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >每月收到的收件箱線人活動數量有限。 要看看你有多少，看看你的250ok **帳戶設定**. 要獲取更多資訊，請聯繫您的Marketo銷售代表。
+   >每月收件匣位置促銷活動數量有限。 若要查看您收到的數量，請查看Everest中「帳戶設定>訂閱」下方的「訂閱」區段。 要獲取更多資訊，請聯繫您的Marketo銷售代表。
 
 ## 取得新種子清單 {#acquiring-new-seedlists}
 
