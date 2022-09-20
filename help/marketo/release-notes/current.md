@@ -2,9 +2,9 @@
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 4794c44db57b41f6d9358f7e6cc24a41dda68550
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,12 @@ ht-degree: 0%
 ## API增強功能 {#api-enhancements}
 
 * **批量導入：銷售人員協會**:與Lead REST API平價，以便在大量銷售機會匯入程式期間將銷售機會與Salespers建立關聯，降低複雜性和所需的API呼叫數。
+
+## Sales Insight {#sales-insight}
+
+![（星號）](assets/yellow-star.png)
+
+* **[Sales Insight與動態聊天的整合](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**:Insights Dashboard現在包含智慧格線中的動態聊天活動，以及每週摘要和詳細資訊卡。
 
 ## 公告 {#announcements}
 
