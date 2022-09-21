@@ -3,18 +3,14 @@ unique-page-id: 10096673
 description: 設定事件設定並將Marketo與您的網路研討會同步 — Marketo檔案 — 產品檔案
 title: 設定事件設定並將Marketo與您的網路研討會同步
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 設定事件設定並將Marketo與您的網路研討會同步 {#configure-event-settings-and-sync-marketo-with-your-webinar}
-
->[!IMPORTANT]
->
->自2022年8月起，ON24不再支援新的Marketo整合。 本文中的資訊僅適用於現有用戶。
 
 請依照下列步驟來設定Marketo事件設定，並連線Marketo和ON24。
 
@@ -56,8 +52,8 @@ ht-degree: 0%
    >
    >如果更新ON24中的任何事件資訊，必須按一下 **從網路研討會提供者重新整理** 在「事件動作」功能表中，查看新資料填入。
 
-現在您可以繼續下一步： [建立子行銷活動和本機資產](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md).
+現在您可以繼續下一步： [建立子行銷活動和本機資產](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target=&quot;_blank&quot;}。
 
 >[!MORELIKETHIS]
 >
->[了解Marketo On24轉接器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[了解Marketo On24轉接器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

@@ -3,18 +3,14 @@ unique-page-id: 10096679
 description: ON24事件整合範例 — Marketo檔案 — 產品檔案
 title: ON24事件整合範例
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # ON24事件整合範例 {#example-on-event-integration}
-
->[!IMPORTANT]
->
->自2022年8月起，ON24不再支援新的Marketo整合。 本文中的資訊僅適用於現有用戶。
 
 以下是ON24網路研討會的範例活動，包括促銷活動。 建立事件時，請務必先測試促銷活動，再執行。
 
@@ -96,4 +92,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[了解Marketo ON24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[了解Marketo ON24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

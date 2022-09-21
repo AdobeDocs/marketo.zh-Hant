@@ -3,18 +3,14 @@ unique-page-id: 10096681
 description: 了解網路研討會計畫狀態 — Marketo檔案 — 產品檔案
 title: 了解網路研討會計畫狀態
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 了解網路研討會計畫狀態 {#understanding-webinar-program-statuses}
-
->[!IMPORTANT]
->
->自2022年8月起，ON24不再支援新的Marketo整合。 本文中的資訊僅適用於現有用戶。
 
 方案狀態代表人員作為事件成員進行的不同事件狀態。 它們與管道類型相關聯。 Marketo的內建管道類型稱為 **網路研討會**. 狀態可用於批次和觸發促銷活動。
 
@@ -32,7 +28,7 @@ ht-degree: 0%
 
 **受邀**  — 使用此狀態將人員添加到事件中。
 
-**待批准**  — 使用此狀態可延遲向您的人員發送確認電子郵件。 請參閱以下主題中的「手動核准註冊者」： [ON24事件註冊更新](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) 以取得更多資訊。
+**待批准**  — 使用此狀態可延遲向您的人員發送確認電子郵件。 請參閱以下主題中的「手動核准註冊者」： [ON24事件註冊更新](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target=&quot;_blank&quot;}以取得詳細資訊。
 
 **已列出等待**  — 使用此狀態讓一些人等待，直到其他座位可用。
 
@@ -58,4 +54,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[了解Marketo ON24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[了解Marketo ON24適配器事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
