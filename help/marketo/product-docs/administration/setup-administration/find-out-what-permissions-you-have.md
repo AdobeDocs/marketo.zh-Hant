@@ -1,30 +1,29 @@
 ---
 unique-page-id: 2359898
-description: 瞭解您擁有哪些權限-Marketo文檔——產品文檔
-title: 瞭解您擁有哪些權限
+description: 了解您擁有的權限 — Marketo檔案 — 產品檔案
+title: 了解您擁有的權限
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 瞭解您擁有的{#find-out-what-permissions-you-have}權限
+# 了解您擁有的權限 {#find-out-what-permissions-you-have}
 
-如果您想知道您在Marketo有哪些權限，或沒有哪些權限，您有一個簡單的方法可以瞭解。
+如果您想知道在Marketo中有什麼權限或沒有什麼權限，有一個簡單的方法可供您了解。
 
-1. 前往&#x200B;**行銷活動**。
+1. 前往 **行銷活動**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/find-out-what-permissions-you-have-1.png)
 
-1. 按一下&#x200B;**完全訪問**&#x200B;查看您擁有的權限。
+1. 按一下 **完全存取** 來查看您擁有的權限。
 
-   ![](assets/image2014-9-8-17-3a45-3a13.png)
+   ![](assets/find-out-what-permissions-you-have-2.png)
 
 您會看到權限已列出。
 
-![](assets/image2014-9-8-17-3a45-3a23.png)
+![](assets/find-out-what-permissions-you-have-3.png)
 
-如果您需要為您啟用的任何權限，請與您的Marketo管理員聯絡。
+如果您需要為您啟用的任何權限，請洽詢您的Marketo管理員。
