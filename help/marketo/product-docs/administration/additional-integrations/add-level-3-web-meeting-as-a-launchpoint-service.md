@@ -1,48 +1,51 @@
 ---
 unique-page-id: 7512292
-description: 將第3級Web會議新增為LaunchPoint服務-Marketo文檔——產品文檔
-title: 將第3級Web會議新增為LaunchPoint服務
+description: 將第3層Web會議新增為LaunchPoint服務 — Marketo檔案 — 產品檔案
+title: 將第3級Web會議添加為LaunchPoint服務
 exl-id: f419b019-33bb-446d-baf5-55393770a703
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
-# 將第3級Web會議添加為LaunchPoint服務{#add-level-web-meeting-as-a-launchpoint-service}
+# 將第3級Web會議添加為LaunchPoint服務 {#add-level-three-web-meeting-as-a-launchpoint-service}
 
-Marketo管理您的Level 3 Web會議註冊和出席情況。
-
->[!NOTE]
->
->**需要管理員權限**
+Marketo管理您的第3級Web會議註冊和出席情況。
 
 >[!NOTE]
 >
->此步驟需要現有的第3級Web會議訂閱和管理權限。 手邊有您的存取號碼、存取碼和密碼。
+>**需要管理權限**
 
-1. 前往&#x200B;**Admin**&#x200B;並選取&#x200B;**LaunchPoint**。
+>[!NOTE]
+>
+>此步驟需要對第3級Web會議和管理權限的現有訂閱。 手邊有您的訪問號、訪問碼和密碼。
 
-   ![](assets/image2015-4-23-10-3a5-3a12.png)
+1. 前往 **管理** 的上界。
 
-1. 選擇&#x200B;**新建** ，然後選擇&#x200B;**新建服務**。
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-1.png)
 
-   ![](assets/level-3-web-meeting-new-service.png)
+1. 按一下 **LaunchPoint**.
 
-1. 輸入&#x200B;**顯示名稱**。 在&#x200B;**Service**&#x200B;下，選擇&#x200B;**Level 3 Web Meeting**。
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-2.png)
 
-   ![](assets/new-service-level-3.png)
+1. 選擇 **新增** 然後 **新服務**.
 
-1. 輸入&#x200B;**訪問編號**、**訪問代碼**&#x200B;和&#x200B;**密碼**，然後按一下&#x200B;**建立**。
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-3.png)
 
-   ![](assets/image2015-4-23-10-3a10-3a26.png)
+1. 輸入 **顯示名稱**. 在 **服務**，選取 **第3級網路會議**.
 
-您的Level 3 Web會議帳戶現在與Marketo同步！
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-4.png)
 
-![](assets/level-3-web-meeting.png)
+1. 輸入 **訪問次數**, **存取代碼**，和 **密碼**，然後按一下 **建立**.
+
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-5.png)
+
+您的第3級Web會議帳戶現在已與Marketo同步！
+
+![](assets/add-level-three-web-meeting-as-a-launchpoint-service-6.png)
 
 >[!MORELIKETHIS]
 >
->瞭解如何使用3級Web Meeting](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)建立事件。[
+>了解如何 [使用第3級Web會議建立事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target=&quot;_blank&quot;}。
