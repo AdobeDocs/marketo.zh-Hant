@@ -2,9 +2,9 @@
 description: 在Marketo Forms中啟用驗證碼 — Marketo檔案 — 產品檔案
 title: 在Marketo Forms中啟用驗證碼
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
-source-git-commit: b848b836274d92d503e1a06cd4f7377ca57bc93e
+source-git-commit: 04d6f37f924d14824c69f2c0caba3ef21ff0a124
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Google在啟用驗證碼的表單中新增了標準化文字，包括隱私權政策和服務條款的連結。
+>標準化文字(包括Google隱私權政策和服務條款的連結)將新增至您啟用驗證碼的表單。
 
 >[!MORELIKETHIS]
 >
