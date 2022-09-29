@@ -2,7 +2,7 @@
 description: 設定reCAPTCHA v3 - Marketo檔案 — 產品檔案
 title: 設定reCAPTCHA v3
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: b848b836274d92d503e1a06cd4f7377ca57bc93e
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -88,3 +88,7 @@ ReCAPTCHA v3是無摩擦的體驗，可根據提交內容的可疑程度對其�
 1. 插入密鑰和站點密鑰。 按一下 **儲存** 時才能使用。
 
    ![](assets/setting-up-recaptcha-v3-8.png)
+
+>[!MORELIKETHIS]
+>
+>[在Marketo Forms中啟用驗證碼](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)
