@@ -1,31 +1,31 @@
 ---
-description: 動態聊天概述 — Marketo文檔 — 產品文檔
+description: Dynamic Chat概述 — Marketo檔案 — 產品檔案
 title: 動態聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '953'
+ht-degree: 1%
 
 ---
 
 # 動態聊天概述 {#dynamic-chat-overview}
 
-動態聊天允許您利用易於使用的介面來針對訪問您網站的人和帳戶。 收集相關內容，如姓名、聯繫資訊和自由文本。 站點訪問者還可以預訂與銷售團隊的會議。 動態聊天活動和項目資料可用於向Marketo程式添加成員並觸發跨渠道活動。
+動態聊天功能可讓您利用簡單易用的介面，將目標同時鎖定在造訪您網站的人員和帳戶。 收集相關內容，例如姓名、聯繫資訊和自由文本。 網站訪客也可以預訂與您的銷售團隊的會議。 動態聊天活動和參與資料可用來新增成員至Marketo方案並觸發跨通道活動。
 
 >[!NOTE]
 >
->動態聊天正在逐步推出，目前可用性有限。 此頁面將隨著通用性(GA)詳細資訊的出現而更新。
+>Dynamic Chat正在逐步推出，目前可用性有限。 本頁將隨正式發行(GA)詳細資訊的提供而更新。
 
 >[!TIP]
 >
->訪問 [此頁](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) 查看動態聊天的教程視頻。
+>瀏覽 [本頁](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) 觀看動態聊天的教學課程影片。
 
 ## 整合 {#integrations}
 
-動態聊天的一個關鍵元件是它能夠與您的Marketo訂閱進行本機介面。 為了充分利用此整合的全部功能，您首先需要啟動資料同步。 根據Marketo資料庫的大小，初始資料可能需要24小時， [一次同步](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) 完成。
+Dynamic Chat的一個關鍵元件是其與Marketo訂閱原生介面的功能。 若要充分運用這項整合的完整功能，您必須先啟動資料同步。 視您的Marketo資料庫大小而定，初始資料可能需要24小時， [一次性同步](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) 完成。
 
-正在同步以下內容：
+已同步下列項目：
 
 * 人員欄位資料
 * 公司欄位資料
@@ -33,79 +33,79 @@ ht-degree: 0%
 
 ## 對話 {#dialogues}
 
-對話框代表單個聊天項目。 將它想像成一個容器，其中包含您需要的所有內容，以便與網站訪問者進行有趣的聊天對話。 在每個對話框中，可以指定希望對話框顯示在哪個頁面上，希望該對話框顯示到誰，以及該對話框本身的內容和流。 此外，您還可以找到度量，以查看對話框的效能。 [瞭解有關對話框的詳細資訊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}。
+對話方塊代表單一聊天參與。 您可以將其想像成容器，內含您與網站訪客進行有趣的聊天對話所需的所有內容。 在每個對話框中，可以指定希望對話框顯示在哪個頁面上、希望向誰顯示對話框，以及對話框本身的內容和流。 此外，您還可以找到量度，以了解對話方塊的執行成效。 [深入了解對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}。
 
 ## 設定 {#configuration}
 
-在「配置」頁籤中，自定義各種對話框的外觀。 更改字型、顏色、響應時間等！ [瞭解有關配置的詳細資訊](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target=&quot;_blank&quot;}。
+在「配置」頁簽中，自定義各種對話框的外觀和風格。 變更字型、顏色、回應時間等！ [進一步了解配置](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target=&quot;_blank&quot;}。
 
 ## 日曆 {#calendar}
 
-在「日曆」頁籤中，連接您（Outlook或Gmail）的日曆，以便在聊天室中安排約會。 用戶的日曆連接到動態聊天后，該用戶將被添加到隊列，其日曆將可供網站訪問者安排約會。
+在「日曆」標籤中，連接您的（Outlook或Gmail）日曆，以用於查特機器人的約會排程。 當用戶的日曆連接到動態聊天后，該用戶將被添加到隊列中，其日曆將可供網站訪客安排約會。
 
-您還可以自定義邀請的正文，當訪問者在用戶日曆上安排約會時，這些邀請將發送給訪問者。
+您也可以自訂在訪客在使用者日曆上排程約會時，傳送給訪客的邀請內文。
 
 ## 會議 {#meetings}
 
-在此，您將通過各種對話框看到網站訪問者安排的所有約會。 在此，您將找到預訂約會的人員的電子郵件地址、他們預訂約會的座席、安排約會的時間以及會議是否已經召開。
+這是網站訪客透過各種對話方塊排程的所有約會。 在此，您將找到預訂約會的人員的電子郵件地址、預訂約會的座席、計畫約會的時間以及計畫會議時間是否已過。
 
 ## 路由 {#routing}
 
-您可以在此處查看連接日曆的所有代理的清單，以及向網站訪問者顯示這些代理的順序。 會議按循規蹈矩，所以如果你有五個探員和三號探員參加了最後一次會議，四號探員會得到下一個，然後是五號探員，然後是一號探員。
+您可以在此處查看已連接其日曆的所有座席的清單，以及向網站訪客顯示這些座席的順序。 會議按循規蹈矩，因此，如果你有五名代理和三號探員參加了最後一次會議，四號探員會得到下一次會議，然後五號探員會回到一號探員。
 
-## 常見問題 {#faq}
+## 常見問題集 {#faq}
 
-**我是否可以在公司網站上的任何位置安裝動態聊天，或者它僅在Marketo登錄頁上工作？**
+**我可以在公司網站上的任何地方安裝動態聊天嗎？還是只能在Marketo登陸頁面上運作？**
 
-Dynamic Chat JavaScript代碼段可以安裝在任何網站和Marketo登錄頁上。
+Dynamic Chat JavaScript程式碼片段可安裝在任何網站和Marketo登陸頁面上。
 
-**資料儲存多長時間用於報告？**
+**資料儲存多久以用於報告？**
 
-90天(請參閱限制的完整清單 [下](#limits-in-dynamic-chat))。
+90天(請參閱完整限制清單 [low](#limits-in-dynamic-chat))。
 
 **動態聊天是否允許即時聊天？**
 
-不，它只利用預先確定的響應。
+不會，它只會使用預先決定的回應。
 
-**「動態聊天」是否支援除英語以外的任何語言？**
+**Dynamic Chat是否支援英語以外的任何語言？**
 
-是. 動態聊天支援以下語言：法語、德語、日語、西班牙語、義大利語、巴西葡萄牙語、韓語、簡體中文和繁體中文。 在 [下面](#changing-the-language)。
+是. 動態聊天支援下列語言：法文、德文、日文、西班牙文、義大利文、巴西葡萄牙文、韓文、簡體中文和繁體中文。 了解更多 [下文](#changing-the-language).
 
-**是否支援AI/NLP功能？**
+**您是否支援AI/NLP功能？**
 
 我們不支援AI/NLP功能。
 
-**我怎麼能瞄準匿名人？**
+**如何鎖定匿名人員？**
 
-在對話框中，您需要使用 _人員電子郵件為空_ 屬性。
+在對話方塊中，您需要使用 _人員電子郵件為空_ 屬性。
 
-## 更改語言 {#changing-the-language}
+## 變更語言 {#changing-the-language}
 
-按照以下步驟更改動態聊天語言。
+請依照下列步驟變更您的動態聊天語言。
 
 >[!IMPORTANT]
 >
->在配置檔案級別更改您的語言將更改 _全部_ Experience Cloud應用程式，而不只是動態聊天。
+>在設定檔層級變更您的語言將會變更 _all_ Experience Cloud應用程式，而不只是動態聊天。
 
-1. 在Experience Cloud帳戶中，按一下「設定」表徵圖，然後選擇 **首選項**。
+1. 在您的Experience Cloud帳戶中，按一下設定圖示並選擇 **偏好設定**.
 
    ![](assets/dynamic-chat-overview-1.png)
 
-1. 按一下電子郵件地址下的當前語言。
+1. 按一下您電子郵件地址下方的目前語言。
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. 選擇新語言（第二種語言是可選語言），然後按一下 **保存**。
+1. 選擇您的新語言（第二種語言為選用語言），然後按一下 **儲存**.
 
    ![](assets/dynamic-chat-overview-3.png)
 
    >[!NOTE]
    >
-   >有幾十種語言可供選擇，但是動態聊天僅支援以下語言：英語、法語、德語、日語、西班牙語、義大利語、巴西葡萄牙語、韓語、簡體中文和繁體中文。
+   >有幾十種語言可供選擇，但Dynamic Chat僅支援下列語言：英文、法文、德文、日文、西班牙文、義大利文、巴西葡萄牙文、韓文、簡體中文和繁體中文。
 
-當您更新語言時，應用本身中的所有內容都會更改，但您個人填寫的詞除外（如流響應）。
+當您更新語言時，應用程式本身中的所有項目都會變更，除了您個人填入的字詞（例如串流回應）。
 
-## 動態聊天中的限制 {#limits-in-dynamic-chat}
+## 動態聊天的限制 {#limits-in-dynamic-chat}
 
 <table>
   <th>參數</th>
@@ -113,26 +113,26 @@ Dynamic Chat JavaScript代碼段可以安裝在任何網站和Marketo登錄頁�
   <th>限制</th>
  <tr>
   <td>對話框總數</td>
-  <td>對話總數（已發佈和草稿）</td>
+  <td>對話（已發佈和草稿）總數</td>
   <td>500</td>
  </tr>
  <tr>
-  <td>已發佈對話框</td>
-  <td>保存的已發佈對話框數</td>
+  <td>已發佈的對話方塊</td>
+  <td>已保存的已發佈對話框數</td>
   <td>100</td>
  </tr>
  <tr>
-  <td>每個對話框的目標URL</td>
-  <td>可添加到單個對話框的目標URL數</td>
+  <td>每個對話方塊的Target URL</td>
+  <td>可新增至單一對話方塊的Target URL數量</td>
   <td>20</td>
  </tr>
  <tr>
   <td>每個對話框的屬性</td>
-  <td>可添加到單個對話框的受眾標準的屬性數</td>
+  <td>可新增至單一對話方塊對象條件的屬性數量</td>
   <td>100</td>
  </tr>
  <tr>
-  <td>組</td>
+  <td>群組</td>
   <td>可添加到單個對話框的組數</td>
   <td>10</td>
  </tr>
@@ -142,18 +142,18 @@ Dynamic Chat JavaScript代碼段可以安裝在任何網站和Marketo登錄頁�
   <td>10</td>
  </tr>
  <tr>
-  <td>卡</td>
-  <td>每個對話框可添加到畫布的卡數</td>
+  <td>卡片</td>
+  <td>每個對話方塊可新增至畫布的卡片數</td>
   <td>500</td>
  </tr>
  <tr>
-  <td>匿名潛在客戶資料保留期</td>
-  <td>匿名潛在顧客資訊將保留多長時間而不進行任何接洽</td>
+  <td>匿名銷售機會資料保留期</td>
+  <td>將保留無任何參與的匿名銷售機會資訊的持續時間</td>
   <td>90天</td>
  </tr>
  <tr>
   <td>目標活動保留期</td>
-  <td>保留時間目標活動資料的量</td>
+  <td>保留目標活動資料的時間量</td>
   <td>24個月</td>
  </tr>
  <tr>
@@ -162,23 +162,23 @@ Dynamic Chat JavaScript代碼段可以安裝在任何網站和Marketo登錄頁�
   <td>24個月</td>
  </tr>
  <tr>
-  <td>對話框活動保留期</td>
-  <td>保留與對話活動資料交互的時間量</td>
+  <td>與對話活動保留期互動</td>
+  <td>保留與Dialog活動資料互動的時間量</td>
   <td>90天</td>
  </tr>
  <tr>
   <td>會議預訂活動保留期</td>
-  <td>會議預訂活動的時間量將儲存在動態聊天中</td>
+  <td>會議預訂活動將儲存在動態聊天中的時間量</td>
   <td>24個月</td>
  </tr>
  <tr>
   <td>參與的對話</td>
-  <td>Web訪問者每天可參與的聊天對話數</td>
+  <td>網站訪客每天可參與的聊天對話數</td>
   <td>零點一萬</td>
  </tr>
  <tr>
   <td>觸發的對話</td>
-  <td>每天可顯示給Web訪問者的聊天會話數</td>
+  <td>每天可向Web訪客顯示的聊天對話數</td>
   <td>2萬5千</td>
  </tr>
 </table>
