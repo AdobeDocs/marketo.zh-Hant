@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 7edaf40bebec891ac106bcbbaba1fd513d1f642c
+source-git-commit: 75c86cb5005aa4de9892649d071e48b8d41eff02
 workflow-type: tm+mt
-source-wordcount: '8802'
+source-wordcount: '8807'
 ht-degree: 0%
 
 ---
@@ -615,6 +615,10 @@ ht-degree: 0%
          + [設定](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [查特機器人行為](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [動態聊天活動](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + 約會計畫 {#appointment-scheduling}
+            + [日曆](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
+            + [會議](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
+            + [路由](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + 整合 {#integrations}
             + [將Dynamic Chat連接到Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [使用文檔卡](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
