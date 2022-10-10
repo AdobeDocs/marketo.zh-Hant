@@ -2,9 +2,9 @@
 description: Dynamic Chat概述 — Marketo檔案 — 產品檔案
 title: 動態聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
+source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
 workflow-type: tm+mt
-source-wordcount: '919'
+source-wordcount: '845'
 ht-degree: 1%
 
 ---
@@ -41,17 +41,15 @@ Dynamic Chat的一個關鍵元件是其與Marketo訂閱原生介面的功能。 
 
 ## 日曆 {#calendar}
 
-在「日曆」標籤中，連接您的（Outlook或Gmail）日曆，以用於查特機器人的約會排程。 當用戶的日曆連接到動態聊天后，該用戶將被添加到隊列中，其日曆將可供網站訪客安排約會。
-
-您也可以自訂在訪客在使用者日曆上排程約會時，傳送給訪客的邀請內文。
+連接您的Outlook或Gmail日曆，以用於動產中的約會排程。 [進一步了解日曆](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target=&quot;_blank&quot;}
 
 ## 會議 {#meetings}
 
-這是網站訪客透過各種對話方塊排程的所有約會。 在此，您將找到預訂約會的人員的電子郵件地址、預訂約會的座席、計畫約會的時間以及計畫會議時間是否已過。
+這是網站訪客透過各種對話方塊排程的所有約會。 [進一步了解會議](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target=&quot;_blank&quot;}
 
 ## 路由 {#routing}
 
-您可以在此處查看已連接其日曆的所有座席的清單，以及向網站訪客顯示這些座席的順序。
+您可以在此處查看已連接其日曆的所有座席的清單，向網站訪客顯示這些座席的順序，以及建立自定義路由規則。 [進一步了解路由](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target=&quot;_blank&quot;}
 
 ## 常見問題集 {#faq}
 

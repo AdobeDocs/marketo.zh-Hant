@@ -1,9 +1,7 @@
 ---
 description: Routing - Marketo檔案 — 產品檔案
 title: 路由
-hide: true
-hidefromtoc: true
-source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
+source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 1%
