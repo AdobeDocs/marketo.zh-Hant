@@ -2,9 +2,9 @@
 description: Dynamic Chat概述 — Marketo檔案 — 產品檔案
 title: 動態聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
+source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '919'
 ht-degree: 1%
 
 ---
@@ -51,7 +51,7 @@ Dynamic Chat的一個關鍵元件是其與Marketo訂閱原生介面的功能。 
 
 ## 路由 {#routing}
 
-您可以在此處查看已連接其日曆的所有座席的清單，以及向網站訪客顯示這些座席的順序。 會議按循規蹈矩，因此，如果你有五名代理和三號探員參加了最後一次會議，四號探員會得到下一次會議，然後五號探員會回到一號探員。
+您可以在此處查看已連接其日曆的所有座席的清單，以及向網站訪客顯示這些座席的順序。
 
 ## 常見問題集 {#faq}
 
