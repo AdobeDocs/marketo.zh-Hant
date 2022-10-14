@@ -3,10 +3,10 @@ unique-page-id: 4720433
 description: 設定Marketo的通訊協定 — Marketo檔案 — 產品檔案
 title: 設定Marketo的通訊協定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: ed29cc13d2ced85e639e8b1c6fe228e2bca82ffd
+source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 1%
+source-wordcount: '1046'
+ht-degree: 2%
 
 ---
 
@@ -123,7 +123,7 @@ Marketo Engage [Salesforce CRM同步](/help/marketo/product-docs/crm-sync/salesf
 
 **Marketo Engage傳出IP位址區塊**
 
-下表涵蓋進行傳出呼叫的所有Marketo Engage伺服器。 如果要配置任何IP允許清單、伺服器、防火牆、訪問控制清單、安全組或第三方服務以接收來自Marketo Engage的傳出連接，請使用此清單。
+下表涵蓋進行傳出呼叫的所有Marketo Engage伺服器。 如果要配置任何IP允許清單、伺服器、防火牆、訪問控制清單、安全組或第三方服務來接收來自Marketo Engage的傳出連接，請使用下面的清單。
 
 <table>
  <tbody>
@@ -156,3 +156,48 @@ Marketo Engage [Salesforce CRM同步](/help/marketo/product-docs/crm-sync/salesf
   </tr>
  </tbody>
 </table>
+
+<table>
+ <tbody>
+  <tr>
+   <th>個別IP位址</th>
+  </tr>
+  <tr>
+   <td>54.212.167.17</td>
+  </tr>
+   <tr>
+   <td>44.235.171.179</td>
+  </tr>
+   <tr>
+   <td>35.165.244.220</td>
+  </tr>
+   <tr>
+   <td>52.20.211.99</td>
+  </tr>
+   <tr>
+   <td>54.237.141.197</td>
+  </tr>
+  <tr>
+   <td>54.160.246.246</td>
+  </tr>
+   <tr>
+   <td>18.200.201.81</td>
+  </tr>
+  <tr>
+   <td>34.247.24.245</td>
+  </tr>
+   <tr>
+   <td>54.220.138.65</td>
+  </tr>
+  <tr>
+   <td>13.237.155.207</td>
+  </tr>
+   <tr>
+   <td>13.55.192.247</td>
+  </tr>
+  <tr>
+   <td>52.64.109.86</td>
+  </tr>
+ </tbody>
+</table>
+
