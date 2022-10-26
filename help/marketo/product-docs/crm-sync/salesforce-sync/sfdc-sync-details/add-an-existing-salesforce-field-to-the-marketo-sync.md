@@ -3,7 +3,7 @@ unique-page-id: 4719308
 description: 將現有的Salesforce欄位新增至Marketo同步 — Marketo檔案 — 產品檔案
 title: 將現有的Salesforce欄位新增至Marketo同步
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
-source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
+source-git-commit: 81bc90bcccc8073511c9f331471c0cda9f4147cb
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -18,29 +18,29 @@ ht-degree: 0%
 
 通常，Salesforce中的新自訂欄位會自動同步至Marketo。 否則，Marketo同步使用者可能看不到這些欄位。 這就是你如何解決的。
 
-1. 按一下您的名稱，然後選擇&#x200B;**Setup**。
+1. 按一下您的名稱，然後選取 **設定**.
 
-   ![](assets/image2015-6-30-14-3a20-3a6.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-1.png)
 
-1. 在左搜索欄中輸入&#x200B;**profile**，然後按一下&#x200B;**Manage Users**&#x200B;下的&#x200B;**Profiles**。
+1. 輸入 **設定檔** 在左側搜尋列中，按一下 **設定檔** 在 **管理使用者**.
 
-   ![](assets/image2015-6-30-14-3a20-3a52.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-2.png)
 
 1. 按一下同步使用者的設定檔。
 
-   ![](assets/image2015-6-30-14-3a23-3a41.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-3.png)
 
-1. 在&#x200B;**欄位級安全性**&#x200B;區段下，按一下包含欄位的對象旁的&#x200B;**視圖**。
+1. 在 **欄位層級安全性** ，按一下 **檢視** 在包含欄位的物件旁。
 
-   ![](assets/image2015-6-30-14-3a23-3a59.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-4.png)
 
-1. 按一下「**編輯**」。
+1. 按一下 **編輯**.
 
-   ![](assets/image2015-6-30-14-3a24-3a28.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-5.png)
 
-1. 勾選您要新增至同步的欄位的&#x200B;**Visible**&#x200B;核取方塊，然後按一下&#x200B;**Save**。
+1. 檢查 **可見** 要添加到同步的欄位的複選框，然後按一下 **儲存**.
 
-   ![](assets/image2015-6-30-14-3a24-3a49.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-6.png)
 
    真貼心！ 在下一個同步週期中，Marketo將看到該欄位並啟動魔術。
 
