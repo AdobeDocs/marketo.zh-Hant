@@ -3,7 +3,7 @@ unique-page-id: 42762511
 description: 設定Adobe組織對應 — Marketo檔案 — 產品檔案
 title: 設定Adobe組織對應
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 492f21f090dc2478271172cf7db470e16f202366
+source-git-commit: 22f46fedc90d064bd7fbe6f7d5e4621de0b83718
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -52,4 +52,4 @@ ht-degree: 0%
 
 1. 如果你 _not_ 已登入，新索引標籤/視窗中會出現快顯視窗。 登入您的Adobe組織（此動作會驗證組織存取權）。
 
-就這樣！ 您現在可以 [共用受眾資料](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;} [同步對象](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)來自Adobe Experience Cloud的{target=&quot;_blank&quot;}。
+就這樣！ 您現在可以 [共用受眾資料](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;}設為或 [同步對象](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)來自Adobe Experience Cloud的{target=&quot;_blank&quot;}。
