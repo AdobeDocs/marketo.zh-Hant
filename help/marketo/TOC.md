@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
+source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
 workflow-type: tm+mt
-source-wordcount: '8809'
+source-wordcount: '8831'
 ht-degree: 0%
 
 ---
@@ -232,6 +232,11 @@ ht-degree: 0%
          + [編輯工作區](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
          + [編輯現有的人員分區](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
          + [在工作區和分區間共用區段](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
+   + Adobe Experience Cloud整合 {#adobe-experience-cloud-integrations}
+      + [Adobe Experience Cloud整合概述](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
+      + [設定Adobe組織對應](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
+      + [從Adobe Experience Cloud同步受眾](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
+      + [使用Adobe Experience Manager匯入資產](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
    + 核心Marketo概念 {#core-marketo-concepts}
       + 智慧型行銷活動 {#smart-campaigns}
          + [了解智慧型行銷活動](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -471,7 +476,6 @@ ht-degree: 0%
          + [隱私權管理](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [隱私權要求](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [重新命名Marketo資產](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [設定Adobe組織對應](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
          + [從Adobe Experience Cloud同步受眾](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [了解資料夾](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [了解通知](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)

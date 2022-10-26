@@ -28,23 +28,23 @@ ht-degree: 0%
 
 1. 按一下 **Design Studio**.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-1.png)
+   ![](assets/one-1.png)
 
 1. 按一下「新增」下拉式清單，然後選取 **從Adobe Experience Manager匯入**.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-2.png)
+   ![](assets/two-1.png)
 
 1. 選擇要將影像保存到的資料夾。
 
-   ![](assets/importing-assets-with-adobe-experience-manager-3.png)
+   ![](assets/three-1.png)
 
 1. 登入Adobe Experience Manager（如果尚未登入）。
 
-   ![](assets/importing-assets-with-adobe-experience-manager-4.png)
+   ![](assets/four-1.png)
 
 1. 選擇您的資料夾。 然後按一下縮圖以選取您想要的影像（您最多可以選擇10個）。 按一下 **選擇** 時才能使用。
 
-   ![](assets/importing-assets-with-adobe-experience-manager-5.png)
+   ![](assets/five.png)
 
    >[!NOTE]
    >
@@ -52,11 +52,11 @@ ht-degree: 0%
 
 1. 按一下 **匯入** 來完成此程式。
 
-   ![](assets/importing-assets-with-adobe-experience-manager-6.png)
+   ![](assets/six-1.png)
 
    就這樣！ 按一下 **關閉** 返回Design Studio。
 
-   ![](assets/importing-assets-with-adobe-experience-manager-7.png)
+   ![](assets/seven-1.png)
 
 ## 注意事項 {#things-to-note}
 
