@@ -2,9 +2,9 @@
 description: 從Adobe Experience Cloud同步受眾 — Marketo檔案 — 產品檔案
 title: 從Adobe Experience Cloud同步受眾
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 492f21f090dc2478271172cf7db470e16f202366
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[設定Adobe組織對應](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
+>[設定Adobe組織對應](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}
 
 ## 如何同步受眾 {#how-to-sync-an-audience}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 當您的Marketo訂閱啟用Cookie同步時，Marketo的munchkin.js會嘗試在整合設定期間為您指定的Adobe IMS組織擷取並儲存AdobeECID，並將這些ECID與對應的Marketo Cookie識別碼相符。 這可讓Marketo的匿名使用者設定檔更加豐富AdobeECID。
 
-還需要執行進一步步驟來將匿名用戶配置檔案與銷售機會配置檔案關聯，銷售機會配置檔案是使用純文字電子郵件標識的。 其運作方式 [此處說明](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+還需要執行進一步步驟來將匿名用戶配置檔案與銷售機會配置檔案關聯，銷售機會配置檔案是使用純文字電子郵件標識的。 其運作方式 [此處說明](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target=&quot;_blank&quot;}。
 
 **Marketo中的清單大小為何與Adobe中的不同？**
 
