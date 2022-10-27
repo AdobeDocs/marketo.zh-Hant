@@ -2,9 +2,9 @@
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4794c44db57b41f6d9358f7e6cc24a41dda68550
+source-git-commit: 538622707eec53e9a137e9aed7ec448d379efe43
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -49,8 +49,6 @@ ht-degree: 0%
 ## 行銷資料環境 {#marketing-data-environment}
 
 * **AdobePrivacy Service整合**:與Privacy Service協調，以自動遵循Experience Cloud產品中的資料隱私權法規。 目前，此服務僅適用於已上線至的Marketo Engage客戶 [AdobeIdentity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target=&quot;_blank&quot;}系統。
-
-* **程式成員自定義欄位同步**:能夠雙向同步為程式成員捕獲的可擴展欄位(例如，在事件註冊期間（如食物、會話、軌道等）的參與者偏好
 
 ## API增強功能 {#api-enhancements}
 
