@@ -1,11 +1,9 @@
 ---
 description: Adobe Experience Cloud整合概述 — Marketo檔案 — 產品檔案
 title: Adobe Experience Cloud整合概述
-hide: true
-hidefromtoc: true
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 653ff34c57c6c47544402e58e39042f014b496fa
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -16,7 +14,7 @@ Adobe提供強大的需求行銷解決方案，從跨Adobe Experience Cloud產�
 
 >[!NOTE]
 >
->整合(包括Audience Manager、B2B CDP Marketo Connector和Dynamic Chat)可能需要在Marketo Engage中對應IMS組織。 [在這裡了解如何設定Adobe組織對應](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}。
+>整合(包括Audience Manager、B2B CDP Marketo Connector和Dynamic Chat)可能需要在Marketo Engage中對應IMS組織。 [了解如何設定Adobe組織對應](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}。
 
 ## Adobe Experience Cloud整合 {#adobe-experience-cloud-integrations}
 
