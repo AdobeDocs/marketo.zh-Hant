@@ -1,9 +1,9 @@
 ---
 description: 報表概述 — Marketo檔案 — 產品檔案
 title: 報表概述
-source-git-commit: 79f09e37378a232fd4a254131f4eccb730ab263e
+source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -52,10 +52,6 @@ _(先前稱為Revenue Cycle Explorer/AdvancedReport Builder)_
 * 圖形形式、熱圖和分佈曲線的可視化
 
 ## 進階Journey Analytics {#advanced-journey-analytics}
-
->[!AVAILABILITY]
->
->並非所有客戶都購買過進階BI Analytics和進階Journey Analytics模組。 如需詳細資訊，請連絡您的客戶成功經理。
 
 收入週期模型：為您整個收入漏斗的所有階段建立模型，以及它們在這些階段之間的轉換方式，從您第一次與銷售機會進行整個互動，直到銷售機會成為贏得的客戶。
 
