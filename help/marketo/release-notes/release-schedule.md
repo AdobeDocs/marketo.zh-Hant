@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: 發行排程 — Marketo檔案 — 產品檔案
 title: 發行排程
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 18a09eb1d41d76b35072f45d0bdb3c66908a6335
+source-git-commit: 8f620f5eca32bd9f58c95f02678be4914acfa158
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '140'
 ht-degree: 1%
 
 ---
@@ -37,33 +37,39 @@ _發行日期可能會有所變更_
    <th width="250px">狀態</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-jan-22.md">』22年1月</a></td>
-   <td>2022年1月21日</td>
-   <td>已發運</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-mar-22.md">』22年3月</a></td>
-   <td>2022年3月11日</td>
-   <td>已發運</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-may-22.md">』22年5月</a></td>
-   <td>2022年5月6日</td>
-   <td>已發運</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-june-22.md">』22年6月</td>
-   <td>2022年6月24日</td>
-   <td>已發運</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-aug-22.md">』22年8月</td>
-   <td>2022年8月26日</td>
-   <td>已發運</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/current.md">』22年10月</td>
    <td>2022年10月14日</td>
+   <td>已發運</td>
+  </tr>
+  <tr> 
+   <td>』23年1月</td>
+   <td>2023年1月20日</td>
+   <td>按計畫</td>
+  </tr>
+  <tr> 
+   <td>』23年3月</td>
+   <td>2023年3月24日</td>
+   <td>按計畫</td>
+  </tr>
+  <tr> 
+   <td>』23年5月</td>
+   <td>2023年5月19日</td>
+   <td>按計畫</td>
+  </tr>
+  <tr> 
+   <td>』23年7月</td>
+   <td>2023年7月21日</td>
+   <td>按計畫</td>
+  </tr>
+  <tr>
+   <td>』23年9月</td>
+   <td>2023年9月8日</td>
+   <td>按計畫</td>
+  </tr>
+
+<tr>
+   <td>』23年10月</td>
+   <td>2023年10月20日</td>
    <td>按計畫</td>
   </tr>
  </tbody>
