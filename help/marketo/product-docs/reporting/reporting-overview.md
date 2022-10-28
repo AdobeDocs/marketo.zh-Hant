@@ -3,7 +3,7 @@ description: 報表概述 — Marketo檔案 — 產品檔案
 title: 報表概述
 hide: true
 hidefromtoc: true
-source-git-commit: 4190e80d67d5d694c66e10a30978b08038151701
+source-git-commit: fe5d940b9f5e2cec919a52377226d46f708b8a01
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
@@ -59,13 +59,13 @@ _(先前稱為Revenue Cycle Explorer/AdvancedReport Builder)_
 >
 >並非所有客戶都購買過進階BI Analytics和進階Journey Analytics模組。 如需詳細資訊，請連絡您的客戶成功經理。
 
-收入週期模型 — 為整個收入漏斗的所有階段建立模型，以及它們在這些階段之間的轉換方式，從您第一次與銷售機會進行整個互動，直到銷售機會成為贏得的客戶為止。
+收入週期模型：為您整個收入漏斗的所有階段建立模型，以及它們在這些階段之間的轉換方式，從您第一次與銷售機會進行整個互動，直到銷售機會成為贏得的客戶。
 
-成功路徑分析器 — 取得收入週期模型中速度和流量的視覺表示法。 成功路徑分析器需要您建立收入週期模型。
+成功路徑分析器：取得收入週期模型中速度和流量的視覺表示法。 成功路徑分析器需要您建立收入週期模型。
 
-Program Analyzer — 快速確定是否成功的程式，並適當集中您的資源。 使用程式分析器來仔細檢查和比較每個成本和按程式或通道的詳細回報。
+程式分析器：快速確定是否成功的程式，並適當集中您的資源。 使用程式分析器來仔細檢查和比較每個成本和按程式或通道的詳細回報。
 
-Opportunity Influence Analyzer — 通過衡量生成機會的計畫和關鍵參與的影響來證明Marketing的貢獻。
+Opportunity Influce Analyzer:衡量產生商機的方案和重要參與的影響，以證明行銷的貢獻。
 
 >[!NOTE]
 >
