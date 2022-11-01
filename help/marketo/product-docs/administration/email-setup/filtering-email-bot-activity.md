@@ -2,9 +2,9 @@
 description: 篩選電子郵件機器人活動 — Marketo檔案 — 產品檔案
 title: 篩選電子郵件機器人活動
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 32e635cf2c37f078737103653c706ad7b1afb515
+source-git-commit: f5a4fa76510cc70fe5b4746d58c6e0d4daf93a72
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,11 @@ ht-degree: 0%
 我們使用三種不同的方法來確認機器人活動：
 
 * 符合 [Interactive Advertising Bureau機器人清單](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;}:與IAB UA/IP（使用者代理/IP位址）清單上任何項目相符的活動，會標示為機器人。
-* 與鄰近地區模式匹配：同時發生兩個以上活動時（在一秒以下），即會識別為機器人。
+* 與鄰近地區模式匹配：同時發生兩個以上活動時（在一秒以下），即會識別為機器人。 比較期間考慮的屬性包括：
+   * 銷售機會ID（應相同）
+   * 電子郵件資產（應相同）
+   * 連結點擊或電子郵件開啟
+   * 時間差（應小於一秒）
 
 針對電子郵件連結點擊和電子郵件開啟活動，新屬性將會填入下列值：
 
