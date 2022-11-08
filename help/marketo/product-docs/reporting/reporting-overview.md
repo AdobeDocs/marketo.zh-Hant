@@ -1,13 +1,13 @@
 ---
 description: 報表概述 — Marketo檔案 — 產品檔案
 title: 報表概述
-source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
+exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
+source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
-
 
 # 報表概述 {#reporting-overview}
 
@@ -64,8 +64,3 @@ Opportunity Influce Analyzer:衡量產生商機的方案和重要參與的影響
 >[!NOTE]
 >
 >具有進階BI Analytics報表的模型效能分析（公司）和模型效能分析（銷售機會）取決於在進階Journey Analytics產品中建立的收入週期模型。
-
-
-
-
-

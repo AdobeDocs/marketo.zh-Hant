@@ -3,7 +3,8 @@ description: 實務發行說明 — Marketo檔案 — 產品檔案
 title: 實務發行說明
 hide: true
 hidefromtoc: true
-source-git-commit: f57bb27c1b33e1c47c69f68c3719a35ee3f2d82e
+exl-id: e1004c31-8b8c-4bc7-845f-4e06644a3273
+source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
 workflow-type: tm+mt
 source-wordcount: '602'
 ht-degree: 2%

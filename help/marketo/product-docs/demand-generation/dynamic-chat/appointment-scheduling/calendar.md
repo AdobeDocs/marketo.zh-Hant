@@ -1,7 +1,8 @@
 ---
 description: 行事歷 — Marketo檔案 — 產品檔案
 title: 日曆
-source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
+exl-id: 351241e4-15b3-4547-83fe-a8ec1d89c1b0
+source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
