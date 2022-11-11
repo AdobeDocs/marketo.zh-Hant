@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 917cb879bcff0f37533a43e9bb62119986581f65
+source-git-commit: 8a2429eb077b3bddafb3d8c7b96ecdca2eefba34
 workflow-type: tm+mt
-source-wordcount: '8816'
+source-wordcount: '8813'
 ht-degree: 0%
 
 ---
@@ -931,7 +931,6 @@ ht-degree: 0%
       + 傳遞能力 {#deliverability}
          + [持久取消訂閱](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [電子郵件傳遞能力Power Pack:如何匯入種子清單](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
-         + [電子郵件傳遞工具](product-docs/email-marketing/deliverability/email-deliverability-tool.md)
          + [電子郵件中的硬跳出數和軟跳出數](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
          + [設定自訂DKIM簽名](product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)
          + [設定SPF和DKIM以傳遞電子郵件](product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)
