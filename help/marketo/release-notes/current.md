@@ -2,7 +2,7 @@
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 3%
@@ -22,6 +22,8 @@ ht-degree: 3%
 下列功能屬於標準發行週期，並將於 **2022年10月14日**，並在後續幾週分階段推出其餘功能。 發行功能和日期可能會有所變更。 請檢查下方的每個功能的狀態。
 
 ### 新一代體驗 {#next-generation-experience}
+
+</br>
 
 * **新一代體驗中的更新畫面**:我們在新一代體驗中提供更多經過更新的畫面，提供可透過切換開關存取的更新設計和可用性增強功能：
 
@@ -70,6 +72,8 @@ ht-degree: 3%
 
 ### 行銷資料環境 {#marketing-data-environment}
 
+</br>
+
 * **AdobePrivacy Service整合**:與Privacy Service協調，以自動遵循Experience Cloud產品中的資料隱私權法規。 目前，此服務僅適用於已上線至AdobeIdentity Management系統的Marketo Engage客戶。
 
 <table> 
@@ -86,6 +90,8 @@ ht-degree: 3%
 
 ### API增強功能 {#api-enhancements}
 
+</br>
+
 * **批量導入：銷售人員協會**:與Lead REST API平價，以便在大量銷售機會匯入程式期間將銷售機會與Salespers建立關聯，降低複雜性和所需的API呼叫數。
 
 <table> 
@@ -101,6 +107,8 @@ ht-degree: 3%
 </table>
 
 ### Sales Insight {#sales-insight}
+
+</br>
 
 ![（星號）](assets/yellow-star.png)
 

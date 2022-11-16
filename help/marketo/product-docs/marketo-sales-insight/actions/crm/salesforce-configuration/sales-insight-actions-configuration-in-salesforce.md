@@ -1,10 +1,10 @@
 ---
-description: Salesforce -Marketo文檔 — 產品文檔中的Sales Insight Actions配置
+description: Salesforce中的Sales Insight Actions設定 — Marketo檔案 — 產品檔案
 title: Salesforce中的Sales Insight Actions配置
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -13,38 +13,44 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [安裝](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) 或 [升級](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) Salesforce實例中的Sales Insight包
->* [在Salesforce Enterprise/Unlimited中配置MarketoSales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [安裝](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) 或 [升級](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) Salesforce例項中的Sales Insight Package
+>* [在Salesforce Enterprise/Unlimited中設定Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 
 ## 在Salesforce中添加新遠程站點 {#add-new-remote-site-in-salesforce}
 
-1. 在Salesforce中，按一下 **設定**。
+1. 在Salesforce中，按一下 **設定**.
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. 搜索「遠程站點」並選擇 **遠程站點設定**。
+1. 搜索「遠程站點」並選擇 **遠程站點設定**.
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
-1. 按一下 **新建遠程站點**。
+1. 按一下 **新遠程站點**.
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
-1. 輸入遠程站點名稱（它可能類似於「MarketoSalesInsight」）。 輸入遠程站點URL(https://ims-na1-stg1.adobelogin.com)，然後按一下 **保存**。
+1. 輸入遠端網站名稱（可以是「MarketoSalesInsight1」之類的名稱）。 輸入遠程站點URL `https://ims-na1.adobelogin.com` 按一下 **儲存**.
 
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
-## 在CRM中啟用Sales Insight操作 {#enabling-sales-insight-actions-across-the-crm}
+1. 按一下 **新遠程站點** 。
 
-1. 在Salesforce中，按一下 **MarketoSales Insight配置** 頁籤。
+   ![](assets/msi-actions-configuration-in-salesforce-4a.png)
+
+1. 輸入遠端網站名稱（可以是「MarketoSalesInsight2」之類的名稱）。 輸入遠程站點URL `https://mkto-sales-connect.adobe.io` 按一下 **儲存**.
+
+## 在整個CRM中啟用Sales Insight Actions {#enabling-sales-insight-actions-across-the-crm}
+
+1. 在Salesforce中，按一下 **Marketo Sales Insight設定** 標籤。
 
    ![](assets/msi-actions-configuration-in-salesforce-5.png)
 
    >[!NOTE]
    >
-   >如果您在頂欄中未看到「Marketo銷售洞察力配置」，請按一下 **+** 在「All Tabs（所有頁籤）」下簽名並查找。
+   >如果頂端列中未顯示「Marketo Sales Insight Config」，請按一下 **+** 在「所有標籤」下簽名並查找它。
 
-1. 選擇 **啟用MSI操作** 複選框。
+1. 選取 **啟用MSI操作** 核取方塊。
 
    ![](assets/msi-actions-configuration-in-salesforce-6.png)
 
@@ -54,19 +60,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您的API密鑰不方便使用，您可以按照中的步驟找到它 [這篇文章](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)。
+   >如果您的API密鑰不方便，可依照 [這篇文章](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md).
 
-1. 按一下 **保存** 完成。
+1. 按一下 **儲存** 時才能使用。
 
 這將自動啟用功能概述文章中概述的所有MSI操作功能。
 
 >[!NOTE]
 >
->只需取消選中「啟用MSI操作」複選框，即可禁用所有MSI操作功能。
+>只要取消勾選「啟用MSI操作」複選框，即可禁用所有MSI操作功能。
 
-## MSI-Actions治理 {#msi-actions-governance}
+## MSI-Actions控管 {#msi-actions-governance}
 
-1. 您可以禁用「銷售市場活動」和/或「即將到來的」部分中的「任務」標籤。 這將適用於銷售線索、聯繫人、客戶和機會小組。
+1. 您可以在近期區段中停用「銷售促銷活動」和/或「任務」標籤。 這將適用於銷售機會、聯絡人、帳戶和商機面板。
 
    ![](assets/msi-actions-configuration-in-salesforce-8.png)
 
@@ -76,4 +82,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->治理設定適用於所有MSI用戶。
+>控管設定適用於所有MSI用戶。
