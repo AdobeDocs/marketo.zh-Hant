@@ -3,10 +3,10 @@ unique-page-id: 1147226
 description: 快速入門 — Marketo檔案 — 產品檔案
 title: 快速入門
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
+source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 10%
+source-wordcount: '139'
+ht-degree: 12%
 
 ---
 
@@ -17,10 +17,6 @@ ht-degree: 10%
 你問Marketo Engage是什麼？ 好問題！
 
 [學習Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
-
-## 可用的定價層 {#what-pricing-tiers-are-available}
-
-查看 [Marketo Engage定價與包裝頁面](https://www.marketo.com/solutions/pricing/){target=&quot;_blank&quot;}以取得詳細資訊。
 
 ## 設定 {#get-set-up}
 
