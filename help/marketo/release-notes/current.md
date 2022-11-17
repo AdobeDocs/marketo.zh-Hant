@@ -2,9 +2,9 @@
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
+source-git-commit: f656901c3a25e043e59411857190f4711036637d
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '629'
 ht-degree: 3%
 
 ---
@@ -20,6 +20,24 @@ ht-degree: 3%
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
 下列功能屬於標準發行週期，並將於 **2022年10月14日**，並在後續幾週分階段推出其餘功能。 發行功能和日期可能會有所變更。 請檢查下方的每個功能的狀態。
+
+### 行銷資料環境 {#marketing-data-environment}
+
+</br>
+
+* **程式成員自定義欄位同步**:能夠雙向同步為程式成員捕獲的可擴展欄位(例如，在事件註冊期間（如食物、會話、軌道等）的參與者偏好
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
 
 ### 新一代體驗 {#next-generation-experience}
 
