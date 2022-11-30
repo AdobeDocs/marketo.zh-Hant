@@ -2,7 +2,7 @@
 description: Salesforce中的Sales Insight Actions設定 — Marketo檔案 — 產品檔案
 title: Salesforce中的Sales Insight Actions配置
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -19,14 +19,14 @@ ht-degree: 0%
 
 ## 在Salesforce中添加新遠程站點 {#add-new-remote-site-in-salesforce}
 
-1. 在Salesforce中，按一下 **設定**.
+1. 在Salesforce中，按一下 **設定**.
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. 搜索「遠程站點」並選擇 **遠程站點設定**.
+1. 搜索「遠程站點」並選擇 **遠程站點設定**.
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
-1. 按一下 **新遠程站點**.
+1. 按一下 **新遠程站點**.
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/msi-actions-configuration-in-salesforce-4a.png)
 
-1. 輸入遠端網站名稱（可以是「MarketoSalesInsight2」之類的名稱）。 輸入遠程站點URL `https://mkto-sales-connect.adobe.io` 按一下 **儲存**.
+1. 輸入遠端網站名稱（可以是「MarketoSalesInsight2」之類的名稱）。 輸入遠程站點URL `https://mkto-sales-connect.adobe.io` 按一下 **儲存**.
 
 ## 在整個CRM中啟用Sales Insight Actions {#enabling-sales-insight-actions-across-the-crm}
 

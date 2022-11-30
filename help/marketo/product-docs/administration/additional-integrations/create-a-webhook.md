@@ -1,53 +1,57 @@
 ---
 unique-page-id: 2360360
-description: 建立網頁掛接 — Marketo文檔 — 產品文檔
-title: 建立網頁掛接
+description: 建立Webhook - Marketo檔案 — 產品檔案
+title: 建立網頁連結
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 25a574719eb6c064d33b6a1cebafe2668ed1330d
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
-# 建立網頁掛接 {#create-a-webhook}
+# 建立網頁連結 {#create-a-webhook}
 
-使用Webhooks利用第三方Web服務發送文本消息、擴展人員資料等。
+使用Webhook來利用協力廠商Web服務來傳送文字訊息、擴展人員資料等。
 
 >[!AVAILABILITY]
 >
->並非所有客戶都購買了此功能。 請與銷售代表聯繫以瞭解詳細資訊。
+>並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的銷售代表。
 
-1. 轉到 **管理** 按一下 **網鈎**。
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-24-14-3a52-3a57.png)
+   ![](assets/create-a-webhook-1.png)
 
-1. 按一下 **新建Webhook**。
+1. 按一下 **Webhook**.
 
-   ![](assets/image2014-9-24-14-3a53-3a9.png)
+   ![](assets/create-a-webhook-2.png)
 
-1. 命名並配置網路掛接。
+1. 按一下 **全新Webhook**.
 
-   ![](assets/image2014-9-24-14-3a53-3a19.png)
+   ![](assets/create-a-webhook-3.png)
+
+1. 命名並設定您的網頁連結。
+
+   ![](assets/create-a-webhook-4.png)
 
    >[!NOTE]
    >
-   >這通常包括將第三方服務憑據作為URL參數輸入，或在POST模板中輸入。
+   >這通常包括以URL參數或POST範本的形式輸入您的協力廠商服務憑證。
 
-   * **URL**:輸入在請求Web服務時使用的URL。 插入令牌，如人員的電子郵件地址(**`{{lead.Email Address}}`**)，在您的請求中，按一下 **插入標籤**。
+   * **URL**:輸入您在向Web服務提出的請求中使用的URL。 插入代號，例如人員的電子郵件地址(**`{{lead.Email Address}}`**)，在您的請求中，按一下 **插入代號**.
 
-   * **模板**:如果要在POST正文中傳輸資訊，請輸入模板。 使用支援HTTPPOST的任何資料格式，包括XML、JSON或SOAP。 要在模板中插入令牌，請按一下 **插入標籤**。
+   * **範本**:如果要在POST正文中傳輸資訊，請輸入模板。 使用支援HTTPPOST的任何資料格式，包括XML、JSON或SOAP。 若要在範本中插入代號，請按一下 **插入代號**.
 
-   * **請求令牌編碼**:如果令牌值包含特殊字元（如「&amp;」和符號），請指示請求的格式(**JSON** 或 **窗體/URL**)。
+   * **請求權杖編碼**:如果代號值包含特殊字元（例如&amp;），請指出請求的格式(**JSON** 或 **表單/URL**)。
 
-   * **響應類型**:選擇從服務接收的響應的格式(**JSON** 或 **XML**)。
+   * **回應類型**:選取您從服務收到的回應格式(**JSON** 或 **XML**)。
 
-   * **請求類型**:選擇要使用的HTTP方法(DELETE、GET、PATCH、POST、PUT)。
+   * **請求類型**:選取要使用的HTTP方法(DELETE、GET、PATCH、POST、PUT)。
 
-   按一下 **建立**。
+1. 按一下 **建立**.
 
-   ![](assets/image2014-9-24-14-3a53-3a35.png)
+   ![](assets/create-a-webhook-5.png)
 
 >[!NOTE]
 >
->在 [網鈎](https://developers.marketo.com/documentation/webhooks/) 深潛。
+>了解更多 [webhook](https://developers.marketo.com/documentation/webhooks/) 深潛。

@@ -3,9 +3,9 @@ unique-page-id: 2360358
 description: 僅限使用者登入SSO - Marketo檔案 — 產品檔案
 title: 僅限用戶登錄到SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,21 @@ ht-degree: 0%
 >
 >**需要管理權限**
 
-1. 前往 **管理** 按一下 **登入設定**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-24-14-3a44-3a40.png)
+   ![](assets/restrict-user-login-to-sso-only-1.png)
+
+1. 按一下 **登入設定**.
+
+   ![](assets/restrict-user-login-to-sso-only-2.png)
 
 1. 按一下 **編輯安全設定**.
 
-   ![](assets/image2014-9-24-14-3a44-3a53.png)
+   ![](assets/restrict-user-login-to-sso-only-3.png)
 
 1. 展開進階設定，勾選 **需要SSO**，然後按一下 **儲存**.
 
-![](assets/image2014-9-24-14-3a45-3a6.png)
+![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >
