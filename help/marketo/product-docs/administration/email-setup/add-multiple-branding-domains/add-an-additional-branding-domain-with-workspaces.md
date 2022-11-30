@@ -1,42 +1,45 @@
 ---
 unique-page-id: 11377408
-description: 使用工作區新增額外的品牌網域-Marketo檔案——產品檔案
+description: 使用工作區新增其他品牌化網域 — Marketo檔案 — 產品檔案
 title: 使用工作區新增其他品牌網域
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-# 新增具有{#add-an-additional-branding-domain-with-workspaces}工作區的其他品牌網域
+# 使用工作區新增其他品牌網域 {#add-an-additional-branding-domain-with-workspaces}
 
 如果您有工作區，則可新增其他品牌網域。
 
 >[!PREREQUISITES]
 >
->您必須先[編輯您的預設品牌網域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)。
+>您必須 [編輯預設品牌域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) 第一個。
 >
->您必須先將[一般追蹤連結](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)取代為品牌網域，才能新增其他品牌網域。
+>您必須先 [取代一般追蹤連結](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) 名稱網域，再新增其他品牌網域。
 
-1. 前往&#x200B;**Admin**，然後按一下&#x200B;**Email**。
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2016-6-29-16-3a42-3a20.png)
+   ![](assets/add-an-additional-branding-domain-with-workspaces-1.png)
 
-1. 按一下&#x200B;**添加**&#x200B;以添加其他品牌域。
+1. 按一下 **電子郵件**.
 
-   ![](assets/branding-domains-add-workspaces.png)
+   ![](assets/add-an-additional-branding-domain-with-workspaces-2.png)
 
-1. 輸入新的品牌網域。 按一下&#x200B;**Next**。
+1. 按一下 **新增** 添加其他品牌域。
 
-   ![](assets/new-branding-domain-8-31.png)
+   ![](assets/add-an-additional-branding-domain-with-workspaces-3.png)
+
+1. 輸入新的品牌域。 按一下 **下一個**.
+
+   ![](assets/add-an-additional-branding-domain-with-workspaces-4.png)
 
    >[!NOTE]
    >
-   >您可以選擇將此作為一個或多個工作區的主域，而所有現有未傳送的電子郵件都設為「預設」，且所有新建立的電子郵件都預設為主域。 您可以依每封電子郵件覆寫此資訊。
+   >您可以選擇將此作為一個或多個工作區的主域，並且所有現有未發送的電子郵件均設為「預設」，所有新建立的電子郵件將預設為主域。 您可以根據每封電子郵件覆寫。
 
-1. 選擇新的品牌域，然後按一下&#x200B;**保存**。
+1. 選取新的品牌網域，然後按一下 **儲存**.
 
-   ![](assets/image2016-8-12-10-3a52-3a44.png)
+   ![](assets/add-an-additional-branding-domain-with-workspaces-5.png)
