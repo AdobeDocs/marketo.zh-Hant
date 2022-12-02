@@ -2,7 +2,7 @@
 description: 切換 — Marketo檔案 — 產品檔案
 title: 切換開關
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 3f3846fbb3b7e279e8eb2350f5d493fbb1da6304
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 切換開關 {#toggle-switch}
 
-切換開關可讓您在Marketo的傳統介面與下一代Marketo Engage體驗之間切換。 它適用於以下所有強調的區域。
+切換開關可讓您在Marketo的傳統介面與現代UX之間切換。 它適用於以下所有強調的區域。
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 啟用功能 {#enable-for-features}
 
-您可以選擇手動為個別功能或所有可用功能（目前和即將推出）啟用Marketo的下一代介面。
+您可以選擇手動啟用Marketo Engage現代版UX，以實現個別功能或所有可用功能（最新和即將推出）。
 
 在目前有切換開關的區域（在此範例中，我們位於「電子郵件清單檢視」中）中，只需按一下頁面右下角的切換開關即可。
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ## 可用功能 {#available-features}
 
-Marketo的下一代介面目前提供下列功能（每個版本都新增了新功能）:
+現代版UX目前提供下列功能（每個版本都新增了新功能）:
 
 * 電子郵件詳細資訊檢視
 * 電子郵件清單檢視
