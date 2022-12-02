@@ -2,9 +2,9 @@
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 3bc69f05fc72d6fd03f00410fa174829feb90e48
+source-git-commit: 82fa4560d60fe782856fadf207f5ecd9602d2944
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '628'
 ht-degree: 3%
 
 ---
@@ -33,8 +33,8 @@ ht-degree: 3%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已發運</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">程式成員自定義欄位同步</a></td>
   </tr>
   </tbody>
 </table>
