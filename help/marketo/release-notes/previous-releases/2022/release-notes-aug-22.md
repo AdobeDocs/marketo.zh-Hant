@@ -2,7 +2,7 @@
 description: 發行說明 — 2022年8月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2022年8月
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 * **在「移動」對話框中顯示目標資料夾的資料夾層次結構**:檢視每個資料夾的資料夾階層可讓移動資產更輕鬆，並降低將資產放入錯誤資料夾的可能性。
 
-* **[新一代體驗中的更新畫面](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**:我們在新一代體驗中提供更多經過更新的畫面，提供可透過切換開關存取的更新設計和可用性增強功能：
+* **[新一代體驗中的更新畫面](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;}**:我們在新一代體驗中提供更多經過更新的畫面，提供可透過切換開關存取的更新設計和可用性增強功能：
 
    * 程式碼片段詳細資訊
    * 「影像和檔案」詳細資訊

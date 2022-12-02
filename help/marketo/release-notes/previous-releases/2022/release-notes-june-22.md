@@ -1,8 +1,8 @@
 ---
-description: 發行說明 — 2022年6月 — Marketo文檔 — 產品文檔
+description: 發行說明 — 2022年6月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2022年6月
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '649'
 ht-degree: 0%
@@ -11,69 +11,69 @@ ht-degree: 0%
 
 # 發行說明：2022年6月 {#release-notes-june-22}
 
-在下面，您將找到6月22日發行版中包含的所有功能。 查看您的Adobe Marketo Engage版功能的可用性。
+以下是』22年6月版本包含的所有功能。 查看您的Adobe Marketo Engage版本以了解功能可用性。
 
 >[!AVAILABILITY]
 >
->用星表示的特徵(![星](assets/yellow-star.png))是付費附加項。 請聯繫您的Marketo Engage代表以瞭解詳細資訊。
+>以星號表示的特徵(![星星](assets/yellow-star.png))是付費附加元件。 請連絡您的Marketo Engage代表以了解更多資訊。
 
-以下功能將開始在 **2022年6月24日**，在隨後的幾週內分階段部署剩餘功能（除非另有說明）。
+下列功能將於 **2022年6月24日**，並在後續數週分階段推出剩餘功能（除非另有指定）。
 
-## 營銷資料環境 {#marketing-data-environment}
+## 行銷資料環境 {#marketing-data-environment}
 
-* **公開自定義對象的CreatedAt/UpdatedAt欄位**:使您能夠在「人員詳細資訊」螢幕中檢查這些欄位，以獲得更多的洞察力。
+* **公開自訂物件的CreatedAt/UpdatedAt欄位**:讓您能夠在「人員詳細資訊」畫面中檢查這些欄位，以獲得更多深入分析。
 
-## 跨通道業務流程 {#cross-channel-orchestration}
+## 跨管道協調 {#cross-channel-orchestration}
 
-* **改進的流設計器動態聊天可用性**:直接從流設計器畫布添加卡，無需拖放。 動態聊天介面也已改進，以提供對單個卡中內容的更好的可視性。
+* **改善動態聊天的串流設計器可用性**:直接從串流設計工具畫布新增卡片，不需要拖放。 動態聊天介面也經過改良，可提供更清楚的個別資訊卡內容可見度。
 
-* **動態聊天的高級約會路由規則**:動態聊天為目標約會路由提供了更多選項。 根據Marketo Engage屬性指定應路由哪些代理約會，確保將銷售線索路由到相應的代理。
+* **動態聊天的高級約會路由規則**:動態聊天為目標約會傳送提供更多選項。 根據Marketo Engage屬性指定應路由哪些代理約會，以確保將銷售機會路由到相應的代理。
 
-* **動態聊天的高級對話框報告**:使用針對項目和轉換指標的全新資料可視化功能，更詳細地查看動態聊天活動的績效。
+* **動態聊天的進階對話方塊報告**:使用參與和轉換量度的全新資料視覺效果，更詳細地檢視動態聊天促銷活動的效能。
 
-* **動態聊天的未使用Marketo Engage屬性未同步**:取消同步動態聊天訂閱中未使用的Marketo Engage屬性，幫助您簡化資料清潔，並允許根據需要同步其他屬性。
+* **取消同步動態聊天未使用的Marketo Engage屬性**:未使用的動態聊天訂閱會取消同步Marketo Engage屬性，協助您加速資料清潔度，並視需要同步替代屬性。
 
 ## 新一代體驗
 
-**新建切換開關視圖**:下面的視圖現在可在「新一代體驗」中找到：
+**新切換開關視圖**:下列檢視現已可在新一代體驗中使用：
 
-* [電子郵件詳細資訊視圖](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-details-view){target=&quot;_blank&quot;
-* [電子郵件清單視圖](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-list-view){target=&quot;_blank&quot;
+* [電子郵件詳細資訊檢視](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
+* [電子郵件清單檢視](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
 
 ## 體驗自動化 {#experience-automation}
 
-* **全局表單域驗證規則排除**:從全局表單驗證規則中排除特定表單，以便訂閱中心和其他關鍵業務工作流可以接受所有值。
+* **全域表單欄位驗證規則排除**:從全域表單驗證規則中排除特定表單，讓訂閱中心和其他業務關鍵工作流程可以接受所有值。
 
-* **自助流步驟**:通過編寫自定義流步驟以便在智慧市場活動中使用，擴展Marketo Engage與堆棧其餘部分之間的連接。 Marketo Engage用戶和合作夥伴都可以利用此功能，允許在「觸發」、「批處理」和「可執行」市場活動中使用外部Web服務，而Webhooks只能在「觸發」市場活動中使用。
+* **自助流程步驟**:借由編寫可在智慧行銷活動中使用的自訂流程步驟，擴展Marketo Engage與堆疊其餘部分之間的連線。 Marketo Engage使用者和合作夥伴都可運用此功能，在觸發、批次和可執行促銷活動中使用外部Web服務，而Webhook僅能用於觸發促銷活動。
 
-* **Munchkin協定不可知鏈路跟蹤**:擴展對跟蹤的支援 `tel` 和 `mailto` 與Munchkin連結以跟蹤擴展的Web行為集。
+* **Munchkin協定無關連結追蹤**:延伸對追蹤的支援 `tel` 和 `mailto` 與Munchkin的連結，以追蹤擴充的網路行為集。
 
-* **用於Webhooks的其他HTTP方法**:將PUT、PATCH和DELETE指定為與Web服務交互的請求類型。
+* **用於Webhook的其他HTTP方法**:將PUT、PATCH和DELETE指定為與網站服務互動的請求類型。
 
-## 銷售洞察 {#sales-insight}
-
-![（星號）](assets/yellow-star.png)
-
-* **Salesforce中的Sales Insight權限集**:管理員可以通過Sales Insight Salesforce包的一部分Marketo應用權限集，為用戶級別上的有限人員集提供Sales Insight訪問權限，而不是配置檔案級別。
-
-* **我的Marketo磁貼更新 — Sales Insight操作**:Marketo管理員（以及他們指定的用戶）現在可以通過位於「我的Marketo」頁面上的新Sales Insight Actions磁貼快速導航到其Sales Insight Actions實例。
-
-## 銷售連接 {#sales-connect}
+## Sales Insight {#sales-insight}
 
 ![（星號）](assets/yellow-star.png)
 
-* **Salesforce API更新**:在Salesforce Summer &#39;22發行版中，Salesforce將不再支援API舊版21 -30。 在此Marketo Engage版本中，所有使用舊版API版本的Sales Connect請求都已更新，以保留在受支援的版本內。 有關Salesforce API報廢計畫的完整詳細資訊，請按一下 [這裡](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}。
+* **Salesforce中設定的Sales Insight權限**:管理員可以透過Marketo應用程式權限集（Sales Insight Salesforce套件的一部分），在使用者層級（而非設定檔層級）為有限的一組人員提供Sales Insight存取權。
 
-## API增強 {#api-enhancements}
+* **我的Marketo磁貼更新 — 銷售分析操作**:Marketo管理員（及其指定的使用者）現在可以透過「我的Marketo」頁面上新的「銷售分析動作」方塊，快速導覽至其「銷售分析動作」例項。
 
-* **批量程式成員提取API的新篩選功能**:按程式成員身份狀態、updatedAt、cadence或已用盡的內容篩選以細化提取的資料集。
+## Sales Connect {#sales-connect}
 
-* **批量程式成員提取API改進**:在建立作業期間指定最多10個程式以提高吞吐量。
+![（星號）](assets/yellow-star.png)
+
+* **Salesforce API更新**:隨著Salesforce Summer 22版本推出，Salesforce將不再支援API舊版21 -30。 在此Marketo Engage版本中，使用舊版API的所有Sales Connect請求均已更新，以保持在支援的版本內。 如需Salesforce API報廢計畫的完整詳細資訊，請按一下 [此處](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}。
+
+## API增強功能 {#api-enhancements}
+
+* **Bulk Program Member Extract API的新篩選功能**:依方案成員資格狀態、updatedAt、順序或用盡的內容篩選，以精簡擷取的資料集。
+
+* **大量計畫成員提取API改進**:在建立工作期間指定最多10個程式，以提高吞吐量。
 
 ## 公告 {#announcements}
 
-* **Forms棄用 — Forms1.0、引導捕獲/保存終結點和表單的無指令碼版本**:到2022年10月，對Forms1.0資產的支助將完全取消Marketo Engage。 所有Forms1.0現有資產將停止運作。 Marketo Engage表單需要JavaScript載入到登錄頁和網站上。
+* **Forms淘汰 — Forms 1.0、Lead Capture/save端點，以及無指令碼的表單版本**:Forms 1.0資產的支援將於2022年10月前完全從Marketo Engage中移除。 所有現有的Forms 1.0資產將停止運作。 Marketo Engage表單需要JavaScript才能在登錄頁面和網站上載入。
 
-**_產品發佈網路研討會_**
+**_產品發行網路研討會_**
 
-[2022年6月和8月Marketo Engage發佈網路研討會](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;
+[2022年6月和8月Marketo Engage發行網路研討會](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}

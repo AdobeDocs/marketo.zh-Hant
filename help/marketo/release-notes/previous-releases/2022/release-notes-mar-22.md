@@ -1,8 +1,8 @@
 ---
-description: 發行說明 — 2022年3月 — Marketo文檔 — 產品文檔
+description: 發行說明 — 2022年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2022年3月
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '771'
 ht-degree: 0%
@@ -11,70 +11,70 @@ ht-degree: 0%
 
 # 發行說明：2022年3月 {#release-notes-mar-22}
 
-以下功能包含在2004年3月的發行版中。 查看您的Adobe Marketo Engage版功能的可用性。
+』22年3月發行包含下列功能。 查看您的Adobe Marketo Engage版本以了解功能可用性。
 
 >[!AVAILABILITY]
 >
->用星表示的特徵(![星](assets/yellow-star.png))是付費附加項。 請聯繫您的Marketo Engage代表以瞭解詳細資訊。
+>以星號表示的特徵(![星星](assets/yellow-star.png))是付費附加元件。 請連絡您的Marketo Engage代表以了解更多資訊。
 
-**_季度發佈_**
+**_每季發行_**
 
-以下功能將開始在 **2022年3月11日**，在接下來的幾週內（除非另有指定）分階段部署每項功能。
+下列功能將於 **2022年3月11日**，並在接下來的幾週分階段推出每項功能（除非另有指定）。
 
-## 跨通道業務流程 {#cross-channel-orchestration}
+## 跨管道協調 {#cross-channel-orchestration}
 
-* **動態聊天**:通過主動、有趣和1:1的個性化對話，將銷售線索和客戶作為目標，最大限度地利用您網站上的所有機會。 [動態聊天](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target=&quot;_blank&quot;}允許Marketo Engage用戶開始利用聊天作為B2B市場營銷和銷售使用案例的跨渠道整合體驗的關鍵部分。 功能包括：直接在聊天中預訂會議、引導路由、入門模板、拖放對話建立等。 動態聊天包含在所有Marketo Engage包中，並將於今年向所有Marketo Engage用戶推出。
+* **動態聊天**:透過主動、吸引和1:1的個人化對話，鎖定潛在客戶和客戶，最大限度地發揮您網站上的所有商機。 [動態聊天](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target=&quot;_blank&quot;}可讓Marketo Engage使用者開始將聊天作為B2B行銷和銷售使用案例整合式跨管道體驗的關鍵部分。 功能包括：可直接在聊天室中預訂會議、銷售機會路由、入門模板、拖放式對話建立等。 動態聊天包含在所有Marketo Engage包中，並將於今年推出給所有Marketo Engage用戶。
 
-* **電子郵件Bot活動篩選增強**:作為對先前發佈的 [電子郵件Bot活動篩選](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}功能，您現在可以選擇登錄已標識為bot的日誌記錄活動。 然後，您可以根據已標識為由bot執行的活動來篩選和觸發操作。
+* **電子郵件機器人活動篩選增強功能**:作為對先前發行 [電子郵件機器人活動篩選](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}功能，您現在可以選擇加入已識別為機器人的記錄活動。 然後，您可以根據識別為由機器人執行的活動來篩選及觸發動作。
 
-## 新一代體驗 {#next-generation-experience}
+## 新一代體驗 {#modern-ux}
 
-* **新一代體驗中的更新螢幕**:我們將提供新一代體驗中的更多刷新螢幕，提供可通過切換開關進行的更新設計和可用性增強：
+* **新一代體驗中的更新畫面**:我們在新一代體驗中提供更多經過更新的畫面，提供可透過切換開關存取的更新設計和可用性增強功能：
 
-   * Design Studio中的「表單清單」視圖（包括新的批量操作）
+   * Design Studio中的表單清單檢視（包括新的大量動作）
 
-* **導入程式工作流更新**:導入程式工作流正在以新一代體驗提供，同時還更新了設計和可用性增強功能。 這將是自動更改，不使用切換開關。
+* **導入程式工作流更新**:新一代體驗中將提供匯入方案工作流程，其中包含更新的設計和可用性增強功能。 這將是自動更改，無需切換開關。
 
-* **新一代體驗切換交換機的管理控制**:管理新一代體驗的推廣，以便管理員能夠選擇哪些用戶類型可以訪問切換開關的用戶。
+* **新一代體驗切換開關的管理控制**:以適合使用者的方式管理新一代體驗的推出，讓管理員能夠選取哪些使用者類型可以存取切換開關。
 
 ## 體驗自動化 {#experience-automation}
 
-* **自助服務流步驟(Beta)**:通過編寫自定義流步驟以便在智慧市場活動中使用，擴展Marketo Engage與堆棧其餘部分之間的連接。 Marketo用戶和合作夥伴都可以利用此功能，允許在批處理和可執行活動中使用外部Web服務，而Webhook只能用於觸發活動。
+* **自助服務流程步驟（測試版）**:借由編寫可在智慧行銷活動中使用的自訂流程步驟，擴展Marketo Engage與堆疊其餘部分之間的連線。 Marketo使用者和合作夥伴都可運用此功能，在批次和可執行的促銷活動中使用外部Web服務，而WebHook只能用於觸發促銷活動。
 
-* **資產到期**:保持對時間敏感型資產和市場活動的控制，並能夠在「傳統」用戶體驗中的指定日期和時間安排其自動停用。
+* **資產過期**:維護對您具時效性的資產和促銷活動的控制，並在傳統使用者體驗中，排程在指定日期和時間自動停用。
 
-* **智慧市場活動優先順序覆蓋**:確保高優先順序觸發的智慧市場活動能夠覆蓋標準市場活動優先順序等級，從而盡快執行。 低優先順序觸發的智慧市場活動也可以降低優先順序，以釋放處理資源用於其他高優先順序任務。
+* **智慧型促銷活動優先順序覆寫**:確保高優先順序觸發的智慧型促銷活動能夠覆寫標準促銷活動優先順序排名，盡快執行。 優先順序較低的觸發智慧型促銷活動也可以降低優先順序，以釋放處理資源以供其他高優先順序工作使用。
 
-## API增強 {#api-enhancements}
+## API增強功能 {#api-enhancements}
 
-* **返回禁用開啟的電子郵件跟蹤狀態**:允許通過API讀取電子郵件的開啟跟蹤狀態
-* **從電子郵件中檢索動態內容主題行**:使營銷人員能夠在BI工具中執行動態主題行分析
-* **程式成員自定義欄位CRUD**:允許商家以寫程式方式建立程式成員自定義欄位
-* **批量自定義對象導出已更新的At篩選器**:允許商家以寫程式方式同步自定義對象
-* **公開電子郵件程式的開頭設定**:允許營銷人員通過API配置具有提前啟動功能的電子郵件程式
-* **選擇性程式標籤更新**:使營銷人員能夠推送選擇性標籤更新，而無需同時推送所有標籤
-* **批量活動提取操作結果欄位**:允許營銷人員標識跳過或失敗的活動
+* **傳回停用開啟電子郵件追蹤狀態**:允許透過API讀取電子郵件的開啟追蹤狀態
+* **從電子郵件擷取動態內容主旨行**:可讓行銷人員在BI工具中執行動態主旨行分析
+* **方案成員自定義欄位CRUD**:可讓行銷人員以程式設計方式建立方案成員的自訂欄位
+* **已更新批量自定義對象導出At篩選器**:可讓行銷人員以程式設計方式同步自訂物件
+* **公開電子郵件程式的開頭設定**:可讓行銷人員透過API以搶先的方式設定電子郵件程式
+* **選擇性程式標籤更新**:可讓行銷人員推播選擇性標籤更新，而不需同時推播所有標籤
+* **「批量活動提取」actionResult欄位**:可讓行銷人員識別已略過或失敗的活動
 
-**_在整個季度發佈_**
+**_整季推出_**
 
-以下功能處於非季度週期，將在未來幾個月中發佈。
+下列功能屬於非季度週期，將在未來數月內發行。
 
 ## Bizible {#bizible}
 
 ![（星號）](assets/yellow-star.png)
 
-* **BI模板**:Bizible現在將為Tableau和Power BI提供可下載、基本的報告工件和示例報告，以便能夠快速開發定制報告，這些報告適合您的特定業務需求。
+* **BI範本**:Bizible現在將提供可下載、基本的報表成品和範例報表，供Tableau和Power BI快速開發符合您特定業務需求的自訂報表。
 
-## 銷售連接 {#sales-connect}
+## Sales Connect {#sales-connect}
 
 ![（星號）](assets/yellow-star.png)
 
-* **電子郵件連接限制(GA)**:電子郵件連接限制允許銷售連接管理員在將Gmail或Exchange用作您的傳遞渠道時配置電子郵件的發送速率，以便將電子郵件移交給傳遞渠道提供商的速率不超過強制限制。
+* **電子郵件連線限制(GA)**:「電子郵件連線限制」可讓Sales Connect管理員在使用Gmail或Exchange作為您的傳送管道時，設定電子郵件的傳送率，如此一來，將電子郵件傳遞至傳送管道提供者的速度，就不會超過強制的限制。
 
 ## 公告 {#announcements}
 
-* **Marketo Sky棄用**:在3月，Marketo Sky將不再可用，因為我們將資源集中在提供下一代用戶體驗上。 為了保持對目前Marketo Sky所獨有的功能的訪問權限，我們將「資產到期」和「智慧市場活動優先順序改寫」引入「經典」體驗。 [按一下這裡](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) 來瞭解更多資訊。
+* **Marketo Sky淘汰**:今年3月，我們將不再提供Marketo Sky，因為我們將資源主要用於提供新一代的使用者體驗。 為了持續存取目前Marketo Sky所獨有的功能，我們將資產過期和智慧促銷活動優先順序覆寫帶入傳統體驗。 [按一下這裡](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) 了解更多。
 
-**_產品發佈網路研討會_**
+**_產品發行網路研討會_**
 
-[2022年3月和5月Marketo Engage發佈網路研討會](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;
+[2022年3月和5月Marketo Engage發行網路研討會](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}

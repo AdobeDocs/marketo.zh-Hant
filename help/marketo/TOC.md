@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo指南
 user-guide-description: Marketo產品檔案
 feature-set: Marketo Engage
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
-source-wordcount: '8811'
+source-wordcount: '8810'
 ht-degree: 0%
 
 ---
@@ -1064,11 +1064,11 @@ ht-degree: 0%
             + [使用傳送警報資訊Token](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [在我的代號中使用URL](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [Email CC](product-docs/email-marketing/general/email-cc.md)
-   + Marketo Engage新一代體驗 {#marketo-engage-next-generation-experience}
-      + [總覽](product-docs/marketo-engage-next-generation-experience/overview.md)
-      + [圖示字彙表](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
-      + [使用全域搜尋](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
-      + [切換開關](product-docs/marketo-engage-next-generation-experience/toggle-switch.md)
+   + Marketo Engage現代UX {#marketo-engage-modern-ux}
+      + [總覽](product-docs/marketo-engage-modern-ux/overview.md)
+      + [圖示字彙表](product-docs/marketo-engage-modern-ux/icon-glossary.md)
+      + [使用全域搜尋](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
+      + [切換開關](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + 快速入門 {#getting-started}
          + [Sales Connect概述](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)

@@ -1,18 +1,18 @@
 ---
 unique-page-id: 4720476
-description: 經典表徵圖辭彙表 — Marketo文檔 — 產品文檔
-title: 經典表徵圖辭彙表
+description: 傳統圖示字彙表 — Marketo檔案 — 產品檔案
+title: 傳統表徵圖辭匯表
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '564'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
-# 經典表徵圖辭彙表 {#classic-icon-glossary}
+# 傳統表徵圖辭匯表 {#classic-icon-glossary}
 
-下面是Marketo Classic的舊表徵圖。 新表徵圖辭彙表可以 [此處](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md){target=&quot;_blank&quot;}。
+以下是Marketo Classic的舊表徵圖。 新圖示字彙表可以是 [此處找到](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target=&quot;_blank&quot;}。
 
 **常規表徵圖**
 
@@ -23,7 +23,7 @@ ht-degree: 4%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>表徵圖</th> 
+   <th>圖示</th> 
    <th width="500px">名稱</th> 
   </tr> 
   <tr> 
@@ -38,7 +38,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/open-icon.png" > 
     </div></td> 
-   <td>新建資料夾</td> 
+   <td>建立新資料夾</td> 
   </tr> 
   <tr> 
    <td> 
@@ -59,56 +59,56 @@ ht-degree: 4%
     <div> 
      <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
-   <td colspan="1">與其他工作區共用的源資料夾</td> 
+   <td colspan="1">您與其他工作區共用的來源資料夾</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">從另一個工作區共用的目標資料夾 <br>（掛鎖表示無法編輯）</td> 
+   <td colspan="1">從其他工作區共用的目標資料夾 <br>（掛鎖表示無法進行編輯）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a23-3a11.png"> 
     </div></td> 
-   <td>存檔資料夾或轉換為存檔資料夾（對於任何資料夾和存檔程式，都可以顯示此資訊）</td> 
+   <td>存檔資料夾或轉換為存檔資料夾（可以顯示在任何資料夾和存檔程式中）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a35-3a59.png"> 
     </div></td> 
-   <td>成功!（通常顯示為程式成功、成功運行或活動）</td> 
+   <td>成功!（常顯示為程式成功、成功運行或活動）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-10-3a34-3a57.png"> 
     </div></td> 
-   <td>篩選器、視圖、全部查看</td> 
+   <td>篩選、檢視、檢視全部</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
     </div></td> 
-   <td colspan="1">觸發器</td> 
+   <td colspan="1">觸發</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-10-3a37-3a40.png"> 
     </div></td> 
-   <td>社區</td> 
+   <td>社群</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-10-3a38-3a59.png"> 
     </div></td> 
-   <td>歷史</td> 
+   <td>記錄</td> 
   </tr> 
   <tr> 
    <td> 
@@ -141,12 +141,12 @@ ht-degree: 4%
  </tbody> 
 </table>
 
-## 管理員表徵圖 {#admin-icons}
+## 管理員圖示 {#admin-icons}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>表徵圖</th> 
+   <th>圖示</th> 
    <th width="500px">名稱</th> 
   </tr> 
   <tr> 
@@ -154,7 +154,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-8-15-3a58-3a8.png"> 
     </div></td> 
-   <td>工作區和分區</td> 
+   <td>工作區與分區</td> 
   </tr> 
   <tr> 
    <td> 
@@ -168,21 +168,21 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-9-10-3a56-3a28.png"> 
     </div></td> 
-   <td>安全性/註銷</td> 
+   <td>安全性/登出</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-16-3a25-3a7.png"> 
     </div></td> 
-   <td>用戶和角色</td> 
+   <td>使用者與角色</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-16-3a30-3a56.png"> 
     </div></td> 
-   <td>登錄設定</td> 
+   <td>登入設定</td> 
   </tr> 
   <tr> 
    <td> 
@@ -196,7 +196,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-8-16-3a36-3a19.png"> 
     </div></td> 
-   <td>智慧營銷</td> 
+   <td>智慧型行銷活動</td> 
   </tr> 
   <tr> 
    <td> 
@@ -210,7 +210,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-8-16-3a40-3a3.png"> 
     </div></td> 
-   <td>通信限制</td> 
+   <td>通訊限制</td> 
   </tr> 
   <tr> 
    <td> 
@@ -238,14 +238,14 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-8-17-3a53-3a28.png"> 
     </div></td> 
-   <td>銷售洞察</td> 
+   <td>Sales Insight</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-18-3a23-3a38.png"> 
     </div></td> 
-   <td>登錄頁</td> 
+   <td>登錄頁面</td> 
   </tr> 
   <tr> 
    <td> 
@@ -259,21 +259,21 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-8-18-3a26-3a58.png"> 
     </div></td> 
-   <td>Web服務</td> 
+   <td>網站服務</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-18-3a28-3a16.png"> 
     </div></td> 
-   <td>啟動點</td> 
+   <td>LaunchPoint</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-18-3a44-3a51.png"> 
     </div></td> 
-   <td>網鈎</td> 
+   <td>Webhook</td> 
   </tr> 
   <tr> 
    <td> 
@@ -308,17 +308,17 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-9-8-3a46-3a19.png"> 
     </div></td> 
-   <td>通知 — 重要的系統範圍警報</td> 
+   <td>通知 — 系統範圍的重要警報</td> 
   </tr> 
  </tbody> 
 </table>
 
-### 市場營銷活動表徵圖 {#marketing-activities-icons}
+### 行銷活動圖示 {#marketing-activities-icons}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>表徵圖</th> 
+   <th>圖示</th> 
    <th width="500px">名稱</th> 
   </tr> 
   <tr> 
@@ -326,14 +326,14 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2014-12-18-16-3a45-3a45.png"> 
     </div></td> 
-   <td>事件程式</td> 
+   <td>事件方案</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a9-3a4.png"> 
     </div></td> 
-   <td>程式 — 預設類型</td> 
+   <td>方案 — 預設類型</td> 
   </tr> 
   <tr> 
    <td> 
@@ -354,91 +354,91 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2014-12-23-11-3a38-3a16.png"> 
     </div></td> 
-   <td>添加到項目計畫</td> 
+   <td>添加到參與計畫</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2014-12-23-11-3a40-3a19.png"> 
     </div></td> 
-   <td>更改訂約會節奏（暫停，正常）</td> 
+   <td>變更參與順序（暫停，正常）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2014-12-23-11-3a42-3a5.png"> 
     </div></td> 
-   <td>更改項目流</td> 
+   <td>變更參與資料流</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a11-3a29.png"> 
     </div></td> 
-   <td>智慧市場活動 — 活動和觸發</td> 
+   <td>智慧型促銷活動 — 作用中和觸發</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td>請求的智慧市場活動(由Sales Insight或MarketoFlow Action)</td> 
+   <td>請求的智慧型促銷活動(由Sales Insight或Marketo Flow Action)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a14-3a24.png"> 
     </div></td> 
-   <td>智慧市場活動 — 批處理（之前已執行）</td> 
+   <td>智慧型促銷活動 — 批次（先前已執行）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a43-3a30.png"> 
     </div></td> 
-   <td>智慧市場活動 — 非活動或從未執行</td> 
+   <td>智慧型促銷活動 — 非使用中或從未執行</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-11-3a1-3a29.png"> 
     </div></td> 
-   <td>無效市場活動</td> 
+   <td>無效的促銷活動</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>電子郵件程式 <br>（紅色標籤向下=電子郵件尚未發送）</td> 
+   <td>電子郵件方案 <br>（紅色標幟下限=尚未傳送電子郵件）</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img alt="—" src="assets/hs-icon.png" title="—"> 
     </div></td> 
-   <td colspan="1">使用「開始」計畫電子郵件程式</td> 
+   <td colspan="1">以Head Start排程的電子郵件計畫</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a51-3a1.png"> 
     </div></td> 
-   <td>智慧市場活動 — 計畫批（複選標籤表示之前已執行）</td> 
+   <td>智慧型促銷活動 — 排程批次（勾號表示之前已執行）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-11-3a6-3a26.png"> 
     </div></td> 
-   <td>計畫批市場活動</td> 
+   <td>排程的批次促銷活動</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-14-3a25-3a43.png"> 
     </div></td> 
-   <td>流操作</td> 
+   <td>流量動作</td> 
   </tr> 
   <tr> 
    <td> 
@@ -452,42 +452,42 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-9-14-3a39-3a56.png"> 
     </div></td> 
-   <td>窗體</td> 
+   <td>表單</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-14-3a40-3a19.png"> 
     </div></td> 
-   <td>克隆窗體</td> 
+   <td>複製表單</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-14-3a41-3a0.png"> 
     </div></td> 
-   <td>編輯窗體</td> 
+   <td>編輯表單</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-14-3a41-3a30.png"> 
     </div></td> 
-   <td>表單已批准</td> 
+   <td>已核准表單</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-14-3a42-3a29.png"> 
     </div></td> 
-   <td>社會</td> 
+   <td>社交</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-14-3a43-3a17.png"> 
     </div></td> 
-   <td>社交按鈕操作</td> 
+   <td>社交按鈕動作</td> 
   </tr> 
   <tr> 
    <td> 
@@ -522,14 +522,14 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-9-14-3a53-3a0.png"> 
     </div></td> 
-   <td>嵌入代碼</td> 
+   <td>內嵌程式碼</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-14-3a53-3a40.png"> 
     </div></td> 
-   <td>YouTube視頻操作</td> 
+   <td>Youtube影片動作</td> 
   </tr> 
   <tr> 
    <td> 
@@ -550,7 +550,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-9-14-3a56-3a46.png"> 
     </div></td> 
-   <td>批准</td> 
+   <td>核准</td> 
   </tr> 
   <tr> 
    <td> 
@@ -571,7 +571,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-9-15-3a15-3a42.png"> 
     </div></td> 
-   <td>抽獎行動</td> 
+   <td>抽獎活動</td> 
   </tr> 
   <tr> 
    <td> 
@@ -592,7 +592,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-9-15-3a17-3a53.png"> 
     </div></td> 
-   <td>批准</td> 
+   <td>核准</td> 
   </tr> 
   <tr> 
    <td> 
@@ -613,7 +613,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-9-15-3a20-3a13.png"> 
     </div></td> 
-   <td>選擇優勝者</td> 
+   <td>挑選贏家</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -648,14 +648,14 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-14-13-3a3-3a42.png"> 
     </div></td> 
-   <td colspan="1">取消批准</td> 
+   <td colspan="1">取消核准</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a3-3a49.png"> 
     </div></td> 
-   <td colspan="1">發送示例</td> 
+   <td colspan="1">傳送範例</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -669,24 +669,24 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-14-13-3a4-3a4.png"> 
     </div></td> 
-   <td colspan="1">新建Test</td> 
+   <td colspan="1">新測試</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a4-3a16.png"> 
     </div></td> 
-   <td colspan="1">可交付性工具</td> 
+   <td colspan="1">傳遞能力工具</td> 
   </tr> 
  </tbody> 
 </table>
 
-### 設計工作室表徵圖 {#design-studio-icons}
+### Design Studio表徵圖 {#design-studio-icons}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>表徵圖</th> 
+   <th>圖示</th> 
    <th width="500px">名稱</th> 
   </tr> 
   <tr> 
@@ -694,7 +694,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-5-12-3a31-3a47.png"> 
     </div></td> 
-   <td>登錄頁。 登錄頁操作</td> 
+   <td>登陸頁面。 登錄頁面動作</td> 
   </tr> 
   <tr> 
    <td> 
@@ -715,42 +715,42 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-12-10-3a57-3a25.png"> 
     </div></td> 
-   <td>取消批准</td> 
+   <td>取消核准</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-10-3a59-3a48.png"> 
     </div></td> 
-   <td>發佈到Facebook</td> 
+   <td>發佈至Facebook</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a0-3a49.png"> 
     </div></td> 
-   <td>轉換為Test組</td> 
+   <td>轉換為測試組</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a7-3a6.png"> 
     </div></td> 
-   <td>克隆登錄頁</td> 
+   <td>原地複製登陸頁面</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a8-3a54.png"> 
     </div></td> 
-   <td>刪除登錄頁</td> 
+   <td>刪除登錄頁面</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a10-3a10.png"> 
     </div></td> 
-   <td>URL工具/URL生成器</td> 
+   <td>URL工具/URL產生器</td> 
   </tr> 
   <tr> 
    <td> 
@@ -764,115 +764,115 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-12-11-3a15-3a18.png"> 
     </div></td> 
-   <td>啟用個性化URL</td> 
+   <td>啟用個人化URL</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a38-3a15.png"> 
     </div></td> 
-   <td>登錄頁 — 已批准</td> 
+   <td>登錄頁面 — 已核准</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a41-3a12.png"> 
     </div></td> 
-   <td>登錄頁/電子郵件模板 — 未批准</td> 
+   <td>登錄頁面/電子郵件範本 — 未核准</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a43-3a21.png"> 
     </div></td> 
-   <td>登錄頁/電子郵件模板 — 已批准</td> 
+   <td>登錄頁面/電子郵件範本 — 已核准</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a45-3a13.png"> 
     </div></td> 
-   <td>電子郵件 — 未批准或草稿</td> 
+   <td>電子郵件 — 未核准或草稿</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a46-3a24.png"> 
     </div></td> 
-   <td>電子郵件已批准</td> 
+   <td>已核准電子郵件</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a48-3a22.png"> 
     </div></td> 
-   <td>Forms — 未批准</td> 
+   <td>Forms — 未核准</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a52-3a44.png"> 
     </div></td> 
-   <td>模板 — 已批准並具有草稿</td> 
+   <td>模板 — 使用草稿批准</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a53-3a55.png"> 
     </div></td> 
-   <td>已批准資產的草稿（在批准草稿前不可活動）</td> 
+   <td>已核准資產的草稿（在核准草稿前不會上線）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-13-3a6-3a44.png"> 
     </div></td> 
-   <td>映像和檔案</td> 
+   <td>影像和檔案</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-13-3a11-3a50.png"> 
     </div></td> 
-   <td>代碼段 — 未批准或草稿</td> 
+   <td>程式碼片段 — 未核准或草稿</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-13-3a29-3a18.png"> 
     </div></td> 
-   <td>代碼段 — 已批准</td> 
+   <td>程式碼片段 — 已核准</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a40.png"> 
     </div></td> 
-   <td colspan="1">新建</td> 
+   <td colspan="1">最新</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a47.png"> 
     </div></td> 
-   <td colspan="1">從Web中獲取影像</td> 
+   <td colspan="1">從Web抓取影像</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a53.png"> 
     </div></td> 
-   <td colspan="1">上載影像或檔案</td> 
+   <td colspan="1">上傳影像或檔案</td> 
   </tr> 
  </tbody> 
 </table>
 
-### 分析表徵圖 {#analytics-icons}
+### Analytics圖示 {#analytics-icons}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>表徵圖</th> 
+   <th>圖示</th> 
    <th width="500px">名稱</th> 
   </tr> 
   <tr> 
@@ -908,21 +908,21 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-9-12-3a55-3a23.png"> 
     </div></td> 
-   <td>報告操作</td> 
+   <td>報表動作</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-12-3a55-3a51.png"> 
     </div></td> 
-   <td>報告</td> 
+   <td>報表</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-12-3a56-3a29.png"> 
     </div></td> 
-   <td>新建報表訂閱</td> 
+   <td>新報表訂閱</td> 
   </tr> 
   <tr> 
    <td> 
@@ -936,14 +936,14 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-9-12-3a58-3a53.png"> 
     </div></td> 
-   <td>查看限定線索</td> 
+   <td>查看合格銷售機會</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-15-3a46-3a10.png"> 
     </div></td> 
-   <td>有趣時刻概述</td> 
+   <td>有趣的時刻概述</td> 
   </tr> 
   <tr> 
    <td> 
@@ -964,14 +964,14 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-9-13-3a43-3a15.png"> 
     </div></td> 
-   <td>分組線索依據</td> 
+   <td>組銷售機會依據</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-13-3a45-3a48.png"> 
     </div></td> 
-   <td>自定義列</td> 
+   <td>自訂欄</td> 
   </tr> 
  </tbody> 
 </table>
@@ -981,7 +981,7 @@ ht-degree: 4%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>表徵圖</th> 
+   <th>圖示</th> 
    <th width="500px">名稱</th> 
   </tr> 
   <tr> 
@@ -996,7 +996,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-5-14-3a20-3a45.png"> 
     </div></td> 
-   <td>富格文本（不是登錄頁）</td> 
+   <td>RTF（非登錄頁面）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1010,14 +1010,14 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
-   <td>Salesforce（也適用於所有與SFDC相關的項目）</td> 
+   <td>Salesforce（也適用於所有SFDC相關項目）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-15-3a44-3a30.png"> 
     </div></td> 
-   <td>將智慧市場活動安排為運行一次</td> 
+   <td>排程智慧型促銷活動以執行一次</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1031,24 +1031,24 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-5-15-3a47-3a48.png"> 
     </div></td> 
-   <td>刷新（通常為運行計數、報告、智慧清單）</td> 
+   <td>重新整理（通常為執行計數、報表、智慧清單）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a1-3a29.png"> 
     </div></td> 
-   <td>查看智慧成員（以前限定的和當前的）</td> 
+   <td>查看智慧成員（先前限定的和當前的）</td> 
   </tr> 
  </tbody> 
 </table>
 
-### 市場活動菜單 {#campaign-menus}
+### 促銷活動功能表 {#campaign-menus}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>表徵圖</th> 
+   <th>圖示</th> 
    <th width="500px">名稱</th> 
   </tr> 
   <tr> 
@@ -1056,7 +1056,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-5-15-3a18-3a8.png"> 
     </div></td> 
-   <td>計畫市場活動的重複（多次運行）</td> 
+   <td>排程促銷活動的週期（多次執行）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1077,28 +1077,28 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
-   <td>Salesforce（也適用於所有與SFDC相關的項目）</td> 
+   <td>Salesforce（也適用於所有SFDC相關項目）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-14-3a33-3a11.png"> 
     </div></td> 
-   <td>僅文本</td> 
+   <td>僅文字</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a33-3a51.png"> 
     </div></td> 
-   <td>相對分數（在所有計分流操作中也可見）</td> 
+   <td>相對分數（也顯示在所有計分流程動作上）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a34-3a22.png"> 
     </div></td> 
-   <td>相對緊急性</td> 
+   <td>相對緊急</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1122,7 +1122,7 @@ ht-degree: 4%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>表徵圖</th> 
+   <th>圖示</th> 
    <th width="500px">名稱</th> 
   </tr> 
   <tr> 
@@ -1144,21 +1144,21 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-5-16-3a37-3a48.png"> 
     </div></td> 
-   <td>分段或分段 — 未批准</td> 
+   <td>區段或區段 — 未核准</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a39-3a5.png"> 
     </div></td> 
-   <td>分段或分段 — 批准或草稿</td> 
+   <td>區段或區段 — 核准或草稿</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a40-3a49.png"> 
     </div></td> 
-   <td>分段或分段 — 批准</td> 
+   <td>區段或區段 — 已核准</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1186,21 +1186,21 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-14-13-3a9-3a33.png"> 
     </div></td> 
-   <td colspan="1">新建</td> 
+   <td colspan="1">最新</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a9-3a39.png"> 
     </div></td> 
-   <td colspan="1">新分段</td> 
+   <td colspan="1">新細分</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a9-3a47.png"> 
     </div></td> 
-   <td colspan="1">導入</td> 
+   <td colspan="1">匯入</td> 
   </tr> 
  </tbody> 
 </table>
