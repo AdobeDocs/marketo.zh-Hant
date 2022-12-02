@@ -2,7 +2,7 @@
 description: 最新發行說明 — Marketo檔案 — 產品檔案
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9d729864f8e5ea4efbab1b827778a1ff608e7296
+source-git-commit: 7048b87084fcc5be7336ad8146f07c891ec70826
 workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 3%
@@ -53,7 +53,7 @@ ht-degree: 3%
   </tbody>
 </table>
 
-### 新一代體驗 {#next-generation-experience}
+### 新一代體驗 {#modern-ux}
 
 </br>
 
@@ -69,7 +69,7 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>已發運</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">切換開關</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切換開關</a></td>
   </tr>
   </tbody>
 </table>
@@ -205,3 +205,4 @@ ht-degree: 3%
 * **Forms 1.0**:Forms 1.0的淘汰將於10月發行完成。 Forms 1.0資產將無法再將資料提交至Marketo Engage，且若嘗試，將會傳回錯誤。
 
 * **無指令碼Forms**:當瀏覽器中停用Javascript時，Forms將無法繼續運作。 表單提交作業需要啟用Javascript。
+
