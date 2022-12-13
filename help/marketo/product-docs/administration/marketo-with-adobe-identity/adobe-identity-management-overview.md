@@ -2,9 +2,9 @@
 description: AdobeIdentity Management概述 — Marketo檔案 — 產品檔案
 title: AdobeIdentity Management概述
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1068'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 如果您在2022年2月15日起有新的Adobe Marketo Engage帳戶（新帳戶，而非現有帳戶的新執行個體），該帳戶可能會與AdobeIdentity Management系統整合，視購買的產品套件而定。 若要了解您是否擁有，請連絡您的Marketo管理員或帳戶的客戶成功經理。
 
-現有Marketo訂閱將於今年晚些時候移轉至AdobeIdentity Management System。
+現有Marketo訂閱將於2023年下半年開始移轉至AdobeIdentity Management系統。
 
 >[!NOTE]
 >
