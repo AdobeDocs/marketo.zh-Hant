@@ -3,10 +3,10 @@ description: Temp - Marketo檔案 — 產品檔案
 title: 臨時
 hide: true
 hidefromtoc: true
-source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
+source-git-commit: 506b4d26cfceffe5e30b55d2dffe497640c1ba2c
 workflow-type: tm+mt
-source-wordcount: '555'
-ht-degree: 12%
+source-wordcount: '523'
+ht-degree: 13%
 
 ---
 
@@ -71,14 +71,11 @@ ht-degree: 12%
   </tbody>
 </table>
 
-### 新一代體驗 {#modern-ux}
+### 標題 {#title}
 
 </br>
 
-* **現代UX中的更新畫面**:我們在新一代體驗中提供更多經過更新的畫面，提供可透過切換開關存取的更新設計和可用性增強功能：
-
-   * 登錄頁面範本詳細資訊
-   * 電子郵件範本清單
+* **標題**:描述
 
 <table> 
   <tr> 
