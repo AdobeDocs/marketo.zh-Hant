@@ -1,11 +1,11 @@
 ---
-description: 最新發行說明 — Marketo檔案 — 產品檔案
+description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: 4d79b7d40b2ec1defbb6f07333e2a5e96c4e5186
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 8%
+source-wordcount: '618'
+ht-degree: 10%
 
 ---
 
@@ -113,6 +113,10 @@ ht-degree: 8%
 ## 敏捷發行功能
 
 下列功能會遵循Agile格式，並在標準發行日期前後的不同日期發行。 請檢查下方的每個功能的狀態。
+
+### 動態聊天 {#dynamic-chat}
+
+</br>
 
 * **在動態聊天的資訊擷取卡中定義選取清單**:為協助確保資料清潔度，您可以為資訊擷取卡定義選擇清單，讓訪客只能從預先定義的選項清單中選取。
 
