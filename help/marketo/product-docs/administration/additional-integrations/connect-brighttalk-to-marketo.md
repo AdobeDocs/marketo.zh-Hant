@@ -6,7 +6,7 @@ exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 0%
    >
    >切記不要在下拉式清單中選取BrightTALK。 我們正在移除此欄位，選取此欄位可能會對您的Marketo/BrightTALK整合造成重大問題。
 
-1. 輸入您選擇的說明。 按一下「僅API用戶」下拉清單，然後選擇在步驟5中建立的BrightTALK API用戶。 按一下 **建立**.
+1. 輸入您選擇的說明。 按一下「僅API用戶」下拉清單，然後選擇在步驟5中建立的BrightTALK API用戶。 按一下 **建立**。
 
    ![](assets/connect-brighttalk-to-marketo-5.png)
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
    ![](assets/connect-brighttalk-to-marketo-6.png)
 
-1. 複製（並儲存） **用戶端ID** 和 **用戶端密碼**. 按一下 **關閉**.
+1. 複製（並儲存） **用戶端ID** 和 **用戶端密碼**. 按一下 **關閉**。
 
    ![](assets/connect-brighttalk-to-marketo-7.png)
 

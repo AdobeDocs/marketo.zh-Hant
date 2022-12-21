@@ -16,7 +16,6 @@ ht-degree: 0%
 >
 >* [將Facebook自訂對象新增為LaunchPoint服務](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) （在「管理」區段中）。
 >* [接受Facebook的自訂對象條款](https://www.facebook.com/ads/manage/customaudiences/tos.php) 在Facebook帳戶內。
-
 >
 
 

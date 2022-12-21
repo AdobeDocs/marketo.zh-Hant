@@ -1,29 +1,28 @@
 ---
 unique-page-id: 37356590
-description: 將最亮點內容新增至您的電子郵件——行銷人員檔案——產品檔案
-title: 將反白顯示內容新增至電子郵件
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: 新增最高位置內容至您的電子郵件 — Marketo檔案 — 產品檔案
+title: 新增最高位置內容至您的電子郵件
+exl-id: a069d29a-46b6-4347-b474-df17b7595436
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
+# 新增最高位置內容至您的電子郵件 {#adding-highspot-content-to-your-email}
 
-# 將反白顯示內容新增至您的電子郵件{#adding-highspot-content-to-your-email}
+如果您是Highspot客戶，您可以輕鬆地將Highspot內容插入Sales Connect電子郵件中。
 
-如果您是Highspot客戶，可以輕鬆將Highspot內容插入Sales Connect電子郵件中。
-
-1. 建立您的電子郵件草稿（有多種方式可做到，在本範例中，我們在標題中選擇&#x200B;**合成**）。
+1. 建立電子郵件草稿(有多種方法可執行此作業，在此範例中，我們選擇 **撰寫** 中)。
 
    ![](assets/one-5.png)
 
-1. 填入「收件者」欄位並輸入主旨。
+1. 填入「收件人」欄位並輸入主旨。
 
    ![](assets/two-5.png)
 
-1. 按一下您要插入「反白顯示」內容的電子郵件位置。 按一下箭頭下拉式清單（在附件表徵圖旁），然後選擇&#x200B;**Highspot**。
+1. 按一下電子郵件中要插入「亮點」內容的位置。 按一下箭頭下拉式清單（附件圖示旁），然後選取 **高光點**.
 
    ![](assets/three-5.png)
 
@@ -31,14 +30,14 @@ ht-degree: 0%
 
    ![](assets/four-5.png)
 
-1. 選擇您想要的內容，然後按一下「新增內容」按鈕。****
+1. 選取您想要的內容，然後按一下 **新增內容** 按鈕。
 
    ![](assets/five-3.png)
 
    >[!NOTE]
    >
-   >如果您未看到要列出的內容，請使用頂端的搜尋列。
+   >如果您沒有看到要列出的內容，請使用頂端的搜尋列。
 
    ![](assets/six.png)
 
-內容會以連結的形式出現在您的電子郵件中。 收件者可以按一下連結來檢視／下載內容。
+內容會以連結的形式顯示在電子郵件中。 收件者可以按一下連結來檢視/下載內容。

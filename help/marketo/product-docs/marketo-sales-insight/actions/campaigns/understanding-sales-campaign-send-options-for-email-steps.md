@@ -1,6 +1,6 @@
 ---
-description: 瞭解銷售活動發送電子郵件步驟選項 — Marketo文檔 — 產品文檔
-title: 瞭解銷售活動發送電子郵件步驟的發送選項
+description: 了解電子郵件步驟的Sales Campaign傳送選項 — Marketo檔案 — 產品檔案
+title: 了解電子郵件步驟的Sales Campaign傳送選項
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
 source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
@@ -9,61 +9,61 @@ ht-degree: 0%
 
 ---
 
-# 瞭解銷售活動發送電子郵件步驟的發送選項 {#understanding-sales-campaign-send-options-for-email-steps}
+# 了解電子郵件步驟的Sales Campaign傳送選項 {#understanding-sales-campaign-send-options-for-email-steps}
 
-在建立銷售市場活動時，您有幾個選項可以說明如何在Sales Insight Actions中建立電子郵件步驟。 此外，根據您的電子郵件在銷售活動中的位置，您的選項也會有所不同。
+當您建立銷售促銷活動時，有幾個選項可讓您了解如何在「銷售分析動作」中建立電子郵件步驟。 而且，根據您的電子郵件在您的銷售活動中的位置，您的選項也不同。
 
-## 第一步發送選項 {#first-step-send-options}
+## 第一步傳送選項 {#first-step-send-options}
 
-如果這是您在銷售活動中的第一步和第一天，您將擁有以下選項：
+如果這是您在銷售活動中的第一步和第一天，您將有以下選項：
 
 ![](assets/understanding-sales-campaign-send-options-for-email-steps-1.png)
 
-我將選擇何時發送此電子郵件
+我會選擇何時發送此電子郵件
 
-* 此選項允許您在通過添加人員啟動銷售活動時，為銷售活動中的第一封電子郵件選擇「發送時間」。
+* 此選項可讓您在您透過新增人員來啟動銷售促銷活動時，為銷售促銷活動中的第一封電子郵件選擇「傳送時間」。
 
-在以下時間發送此電子郵件
+請在下列時間傳送此電子郵件
 
-* 當您通過添加人員來啟動銷售活動時，我們將安排此時的電子郵件。
-* 在啟動銷售活動時，您始終可以選擇新的「發送時間」。
+* 當您通過添加人員來啟動銷售活動時，我們將安排此時間的電子郵件。
+* 您隨時可以選擇在開始促銷活動時選擇新的「在時傳送」。
 
-建立任務；我將親自發送此電子郵件
+建立任務；我會自己寄這封電子郵件
 
-* 此選項將建立一個電子郵件任務（並同步到Salesforce），您可以在方便時發送該任務。
-* 一旦您做出此選擇，當您啟動銷售活動時，我們將在指揮中心和即時源中為您排隊這些任務。 然後，您可以個性化併發送（或安排）每封電子郵件，然後才會將其發出。
+* 此選項將建立一個電子郵件任務（並同步到Salesforce），方便您發送。
+* 在您進行此選擇後，當您開始銷售活動時，我們將在命令中心和即時資訊源中為您排隊這些任務。 然後，您就可以個人化並傳送（或排程）每封電子郵件，再傳出。
 
-   * 如果在Web應用程式中開啟此任務，它將開啟一個包含您聯繫人的電子郵件地址、電子郵件的主題行和您選擇的模板的合成窗口。
-   * 如果您在Gmail或Outlook中開啟此任務，它將開啟本機合成窗口並動態填充您聯繫人的電子郵件地址、電子郵件的主題行和您選擇的模板。
+   * 如果您在我們的Web應用程式中開啟此任務，它將開啟一個撰寫窗口，其中包含您的聯繫人的電子郵件地址、電子郵件的主旨行以及您選擇的模板。
+   * 如果您在Gmail或Outlook中開啟此工作，將會開啟原生撰寫視窗，並動態填入連絡人的電子郵件地址、電子郵件的主旨行，以及您選取的範本。
 
-## 後續步驟發送選項 {#subsequent-step-send-options}
+## 後續步驟傳送選項 {#subsequent-step-send-options}
 
-對於銷售活動中的任何後續日期/步驟，您將具有以下選項：
+對於您的Sales Campaign中的任何後續天數/步驟，您將有以下選項：
 
-與此銷售活動中的上一封電子郵件同時發送此電子郵件
+與此銷售活動中的前一封電子郵件同時發送此電子郵件
 
-* 此選項將在直接發送電子郵件的同時發送該電子郵件。
-* 它仍會在與之關聯的當天發送。
+* 此選項會與直接在前面的電子郵件同時傳送電子郵件。
+* 它仍會在與關聯的當天傳送。
 
-在以下時間發送此電子郵件
+請在下列時間傳送此電子郵件
 
-* 當您通過添加人員來啟動銷售活動時，我們將安排此時的電子郵件。
-* 在啟動銷售活動時，您始終可以選擇新的「發送時間」。
+* 當您通過添加人員來啟動銷售活動時，我們將安排此時間的電子郵件。
+* 您隨時可以選擇在開始促銷活動時選擇新的「在時傳送」。
 
-建立任務；我將親自發送此電子郵件
+建立任務；我會自己寄這封電子郵件
 
-* 此選項將建立一個電子郵件任務（並同步到Salesforce），您可以在方便時發送該任務。
-* 一旦您做出此選擇，當您啟動銷售活動時， Sales Insight Actions將在Command Center和Live Feed中為您排隊這些任務。 然後，您可以個性化併發送（或安排）每封電子郵件，然後才會將其發出。
+* 此選項將建立一個電子郵件任務（並同步到Salesforce），方便您發送。
+* 在您進行此選擇後，當您啟動銷售活動時， Sales Insight Actions將在命令中心和即時摘要中將這些任務排隊。 然後，您就可以個人化並傳送（或排程）每封電子郵件，再傳出。
 
-   * 如果在Web應用程式中開啟此任務，它將開啟一個包含您聯繫人的電子郵件地址、電子郵件的主題行和您選擇的模板的合成窗口。
-   * 如果您在Gmail或Outlook中開啟此任務，它將開啟本機合成窗口並動態填充您聯繫人的電子郵件地址、電子郵件的主題行和您選擇的模板。
+   * 如果您在我們的Web應用程式中開啟此任務，它將開啟一個撰寫窗口，其中包含您的聯繫人的電子郵件地址、電子郵件的主旨行以及您選擇的模板。
+   * 如果您在Gmail或Outlook中開啟此工作，將會開啟原生撰寫視窗，並動態填入連絡人的電子郵件地址、電子郵件的主旨行，以及您選取的範本。
 
-將此電子郵件線程化到上一電子郵件
+將此電子郵件線程化到上一個電子郵件
 
-* 此發送選項將是您以前的電子郵件的「後續」，並會將以前的電子郵件正文附加到此電子郵件的底部。
+* 此傳送選項將是您先前電子郵件的「後續」，並會將先前的電子郵件內文附加至此電子郵件的底部。
 
 >[!MORELIKETHIS]
 >
->[建立銷售活動](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;
->[銷售活動步驟類型和提醒任務](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;
->[銷售活動設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;
+>[建立銷售促銷活動](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
+>[Sales Campaign步驟類型和提醒任務](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
+>[銷售活動設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}

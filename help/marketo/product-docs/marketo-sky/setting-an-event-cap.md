@@ -1,51 +1,51 @@
 ---
-description: 設定事件上限 — Marketo文檔 — 產品文檔
+description: 設定事件上限 — Marketo檔案 — 產品檔案
 title: 設定事件上限
 hide: true
 hidefromtoc: true
 exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
 source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
 # 設定事件上限 {#setting-an-event-cap}
 
-使用事件上限限制可以註冊您的活動的人員數量。
+以事件上限限制可註冊您事件的人員人數。
 
 >[!NOTE]
 >
->並非所有客戶都購買了此功能。 請聯繫您的客戶成功經理以瞭解詳細資訊。
+>並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的客戶成功經理。
 
 >[!IMPORTANT]
->在設定事件上限之前，程式中必須至少有兩個已批准的登錄頁（註冊頁和註冊完整頁）。
+>程式中必須至少有兩個已核准的登錄頁面（註冊頁面和註冊完整頁面），您才能設定事件上限。
 
 >[!NOTE]
 >
->要釋放事件中的空間，必須刪除程式成員（您可以通過將其狀態更新為「不在程式中」來執行此操作）。
+>要釋放事件中的空間，必須刪除程式成員（通過將其狀態更新為「不在程式中」即可執行此操作）。
 
-1. 選擇您的事件程式。
+1. 選取您的事件方案。
 
-   ![影像1](assets/setting-an-event-cap-1.png)
+   ![影像一](assets/setting-an-event-cap-1.png)
 
-1. 在概述中，查找 [!UICONTROL 事件上限] 按一下 **[!UICONTROL 未設定]**。
+1. 在概述中，尋找 [!UICONTROL Event Cap] 按一下 **[!UICONTROL Not Set]**.
 
    ![影像二](assets/setting-an-event-cap-2.png)
 
-1. 輸入您希望能夠為您的活動註冊的人員的最大數量，然後按一下 **[!UICONTROL 下一個]**。
+1. 輸入您要能夠為事件註冊的人數上限，然後按一下 **[!UICONTROL Next]**.
 
-   ![影像三](assets/setting-an-event-cap-3.png)
+   ![第三圖](assets/setting-an-event-cap-3.png)
 
-1. 按一下 [!UICONTROL 註冊頁] 下拉並選擇將用作註冊頁的登錄頁。
+1. 按一下 [!UICONTROL Registration Page] 下拉式清單，並選取將作為您註冊頁面的登錄頁面。
 
-   ![影像4](assets/setting-an-event-cap-4.png)
+   ![影像四](assets/setting-an-event-cap-4.png)
 
-1. 按一下 **[!UICONTROL 註冊全頁]** 下拉並選擇將用作註冊全頁的登錄頁。 按一下 **[!UICONTROL 設定和啟用]** 完成。
+1. 按一下 **[!UICONTROL Registration Full Page]** 下拉式清單，並選取將作為註冊完整頁面的登錄頁面。 按一下 **[!UICONTROL Set and Enable]** 時才能使用。
 
-   ![影像五](assets/setting-an-event-cap-5.png)
+   ![第五圖](assets/setting-an-event-cap-5.png)
 
-   你都準備好了。 如果您決定要編輯事件上限詳細資訊，請按一下旁邊的藍色文本 [!UICONTROL 事件上限] 從第3步開始重複。
+   你都準備好了。 如果您決定要編輯事件上限詳細資料，請按一下旁邊的藍色文字 [!UICONTROL Event Cap] 並從上的步驟3重複。
 
-   ![圖6](assets/setting-an-event-cap-6.png)
+   ![第六圖](assets/setting-an-event-cap-6.png)

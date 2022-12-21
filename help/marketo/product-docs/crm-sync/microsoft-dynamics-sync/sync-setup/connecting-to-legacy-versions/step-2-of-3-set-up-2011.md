@@ -5,7 +5,7 @@ title: 第2步（共3步） — 在Dynamics中設定Marketo同步使用者（201
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 source-git-commit: eac7e219f1babc22dce30717fea4cecb93e1cce7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---

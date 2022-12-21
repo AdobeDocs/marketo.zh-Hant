@@ -1,38 +1,37 @@
 ---
 unique-page-id: 11377005
-description: 啟用RSS for Sales Insight - Marketo Docs —— 產品文檔
-title: 啟用銷售分析的RSS
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: 啟用RSS for Sales Insight - Marketo檔案 — 產品檔案
+title: 啟用RSS for Sales Insight
+exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-
-# 為Sales Insight {#enable-rss-for-sales-insight}啟用RSS
+# 啟用RSS for Sales Insight {#enable-rss-for-sales-insight}
 
 >[!NOTE]
 >
->**需要管理員權限**
+>**需要管理權限**
 
-如果Marketo使用者不僅想在Salesforce中檢視其銷售機會饋送，也想在RSS饋送中檢視，行銷人員必須先啟用它。 很簡單。
+如果Marketo使用者不僅想在Salesforce中檢視其銷售機會饋送，還想在RSS饋送中檢視，Marketo管理員必須先啟用它。 很簡單。
 
-1. 在My Marketo中，按一下&#x200B;**Admin**，然後按一下&#x200B;**Sales Insight**。
+1. 在「我的Marketo」中，按一下 **管理** 然後 **Sales Insight**.
 
    ![](assets/set-up-rss-1-hands.png)
 
-1. 在「設定」中，按一下「編輯」。 ****&#x200B;請注意，RSS饋送會顯示為&#x200B;**Disabled**。
+1. 在「設定」上，按一下 **編輯**. 請注意，RSS饋送顯示為 **已停用**.
 
    ![](assets/rss-settings-tab.png)
 
-1. 在「編輯設定」對話框中，選中&#x200B;**RSS feed**&#x200B;複選框，然後按一下&#x200B;**保存**。
+1. 在「編輯設定」對話方塊中，核取 **RSS源** 核取方塊和按一下 **儲存**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
-   RSS饋送現在顯示為&#x200B;**Enabled**。
+   RSS饋送現在顯示為 **已啟用**.
 
    ![](assets/rss-final-box.png)
 
-   小菜一碟！
+   蛋糕！

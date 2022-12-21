@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14352422
-description: 什麼是最新的用戶端版本？ -行銷人員檔案——產品檔案
-title: 什麼是最新的用戶端版本？
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+description: 最新的客戶端版本是什麼？ - Marketo檔案 — 產品檔案
+title: 最新的客戶端版本是什麼？
+exl-id: 00f3537e-358d-4540-b569-085674c360a4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 7%
 
 ---
 
-
-# 什麼是最新的用戶端版本？{#what-are-the-latest-client-versions}
+# 最新的客戶端版本是什麼？ {#what-are-the-latest-client-versions}
 
 以下是所有Sales Connect客戶端的最新版本。
 
@@ -19,14 +18,14 @@ ht-degree: 7%
  <tbody> 
   <tr> 
    <td><strong>Gmail</strong></td> 
-   <td>八點六點三三</td> 
+   <td>8.6.33</td> 
   </tr> 
   <tr> 
-   <td><strong>Chrome</strong></td> 
-   <td>八點六點三三</td> 
+   <td><strong>鉻黃</strong></td> 
+   <td>8.6.33</td> 
   </tr> 
   <tr> 
-   <td><strong>Outlook Windows</strong></td> 
+   <td><strong>Outlook窗口</strong></td> 
    <td>2.1.3</td> 
   </tr> 
   <tr> 
@@ -42,4 +41,4 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->我們目前未針對Chrome以外的任何瀏覽器最佳化。 這是我們的產品團隊所瞭解並希望在未來能夠解決的問題。
+>我們目前未針對Chrome以外的任何瀏覽器進行最佳化。 這是我們的產品團隊所了解並希望在未來解決的問題。

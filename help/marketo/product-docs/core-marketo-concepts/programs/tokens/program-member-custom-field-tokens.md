@@ -5,7 +5,7 @@ title: 程式成員自定義欄位令牌
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '435'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 PMCF代號將支援在代號系列的成員網域下。
 
-成員令牌用於方案成員範圍內的欄位。 自當前狀態起，成員令牌還用於插入來自整合服務合作夥伴的唯一值。 `{{member.webinar url}}` token會自動解析服務提供者產生之人員的唯一確認URL。{{member.registration code}}解析為服務提供程式提供的註冊代碼。
+成員令牌用於方案成員範圍內的欄位。 自當前狀態起，成員令牌還用於插入來自整合服務合作夥伴的唯一值。 `{{member.webinar url}}` token會自動解析服務提供者產生之人員的唯一確認URL。 {{member.registration code}} 解析到服務提供商提供的註冊代碼。
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ PMCF代號將支援在代號系列的成員網域下。
 
 **電子郵件**
 
-1. 選取所需的電子郵件，然後按一下「編輯草稿」**。**
+1. 選取所需的電子郵件，然後按一下 **編輯草稿**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -41,11 +41,11 @@ PMCF代號將支援在代號系列的成員網域下。
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. 查找並選擇所需的程式成員自定義欄位標籤，輸入預設值，然後按一下&#x200B;**插入**。
+1. 查找並選擇所需的程式成員自定義欄位標籤，輸入預設值，然後按一下 **插入**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. 按一下「**儲存**」。
+1. 按一下 **儲存**.
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -55,7 +55,7 @@ PMCF代號將支援在代號系列的成員網域下。
 
 **登錄頁面**
 
-1. 選取您的登錄頁面，然後按一下「**編輯草稿**」。
+1. 選取您的登錄頁面，然後按一下 **編輯草稿**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,21 +75,21 @@ PMCF代號將支援在代號系列的成員網域下。
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. 輸入預設值，然後按一下&#x200B;**插入**。
+1. 輸入預設值，然後按一下 **插入**.
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. 按一下「**儲存**」。
+1. 按一下 **儲存**.
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
 **簡訊**
 
-1. 選取所需的簡訊，然後按一下「編輯草稿」**。**
+1. 選取所需的簡訊，然後按一下 **編輯草稿**.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. 按一下&#x200B;**`{{ Token`**&#x200B;按鈕。
+1. 按一下 **`{{ Token`** 按鈕。
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -97,29 +97,29 @@ PMCF代號將支援在代號系列的成員網域下。
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. 按一下「SMS動作」下拉式清單，然後選取&#x200B;**核准並關閉**。
+1. 按一下「簡訊動作」下拉式清單，然後選取 **核准並關閉**.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
 **推播通知**
 
-1. 選取所需的推播通知，然後按一下「編輯草稿」**。**
+1. 選取所需的推播通知，然後按一下 **編輯草稿**.
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. 按一下「**推播通知**」。
+1. 按一下 **推播通知**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. 按一下編輯器中的訊息，然後按一下`{{`按鈕以取得Token選取器。
+1. 按一下編輯器中的訊息，然後按一下 `{{` 按鈕來取得Token選取器。
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. 查找並選擇所需的程式成員自定義欄位標籤。 輸入預設值，然後按一下&#x200B;**插入**。
+1. 查找並選擇所需的程式成員自定義欄位標籤。 輸入預設值，然後按一下 **插入**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. 按一下&#x200B;**完成**&#x200B;以保存並退出（或按一下&#x200B;**下一步**&#x200B;以首先查看）。
+1. 按一下 **完成** 儲存並結束(或 **下一個** 先檢閱)。
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

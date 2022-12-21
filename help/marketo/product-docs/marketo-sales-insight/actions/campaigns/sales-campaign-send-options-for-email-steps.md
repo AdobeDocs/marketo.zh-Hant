@@ -1,15 +1,16 @@
 ---
-description: 銷售活動電子郵件步驟發送選項 — Marketo文檔 — 產品文檔
-title: 電子郵件步驟的銷售活動發送選項
+description: 電子郵件步驟的Sales Campaign傳送選項 — Marketo檔案 — 產品檔案
+title: 電子郵件步驟的Sales Campaign傳送選項
 hide: true
 hidefromtoc: true
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+exl-id: c8a21eff-3cab-4555-88d7-94bc4fce9365
+source-git-commit: 9193b1c0c051a16efb6a34f870a694bab309f72b
 workflow-type: tm+mt
 source-wordcount: '26'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 電子郵件步驟的銷售活動發送選項 {#sales-campaign-send-options-for-email-steps}
+# 電子郵件步驟的Sales Campaign傳送選項 {#sales-campaign-send-options-for-email-steps}
 
-文本
+文字

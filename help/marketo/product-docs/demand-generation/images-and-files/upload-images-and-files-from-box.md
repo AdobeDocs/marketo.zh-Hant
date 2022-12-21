@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359868
-description: 從包裝盒上傳影像和檔案——行銷人員檔案——產品檔案
+description: 從方塊上傳影像和檔案 — Marketo檔案 — 產品檔案
 title: 從方塊上傳影像和檔案
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 08596026-ce25-4076-957a-d069aa44b85a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
+# 從方塊上傳影像和檔案 {#upload-images-and-files-from-box}
 
-# 從方塊{#upload-images-and-files-from-box}上傳影像和檔案
+您可以從Box上傳檔案，以用於登錄頁面和電子郵件。
 
-您可以從Box上傳檔案，以便用於登陸頁面和電子郵件。
-
-1. 前往&#x200B;**Design Studio**。
+1. 前往 **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
-1. 前往&#x200B;**影像和檔案**。 按一下「檔案動作&#x200B;**」，然後選取「從Web擷取影像」。******
+1. 前往 **影像和檔案**. 按一下 **檔案動作** 選取 **從Web抓取影像**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
-1. 按一下&#x200B;**Box**。
+1. 按一下 **框**.
 
    ![](assets/image2014-9-16-12-3a50-3a56.png)
 
@@ -31,16 +30,16 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-12-3a51-3a10.png)
 
-1. 允許Market存取您的Box帳戶。
+1. 允許Marketo存取您的Box帳戶。
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. 選擇要儲存檔案的位置。 然後，選擇要上傳的&#x200B;**Box**&#x200B;資料夾。 按一下&#x200B;**Next**。
+1. 選擇要保存檔案的位置。 然後選取 **框** 要上傳的資料夾。 按一下 **下一個**.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 
-1. 選取您要上傳的檔案。 按一下&#x200B;**Import**。
+1. 選取要上傳的檔案。 按一下 **匯入**.
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 
-您的檔案現在已準備好可用於您的登陸頁面和電子郵件！
+您的檔案現在已準備好用於登錄頁面和電子郵件！

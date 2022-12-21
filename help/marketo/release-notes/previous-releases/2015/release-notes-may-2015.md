@@ -34,11 +34,11 @@ Marketo現在會對您新增的網域執行每週自動SPF和DKIM檢查。 檢�
 
 ## 電子郵件範本行為變更 {#email-template-behavior-change}
 
-自此版本起，現在允許使用有效的HTML留言，且在建立新電子郵件時不會移除。
+自此版本起，現在允許使用有效的HTML留言，且在建立新電子郵件時不會移除留言。
 
 ## RTP:拖放區段編輯器 {#rtp-drag-and-drop-segment-editor}
 
-RTP:[拖放區段編輯器](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
+RTP: [拖放區段編輯器](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 將條件拖放至區段產生器、定義值，您便可建立即時區段。
 

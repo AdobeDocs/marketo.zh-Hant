@@ -5,7 +5,7 @@ title: MSI功能概述
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '937'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ MSI Visualforce面板包含下列功能：
 * Lead Mobile — 在Salesforce行動應用程式中可見
 * Lead Contact Bridge — 顯示您在MSI Contact ID欄位中添加的聯繫人的MSI面板
 
-欄位：
+欄位:
 
 * 最後一個有趣的時刻
 * 最後一個有趣的時刻
@@ -68,7 +68,7 @@ MSI Visualforce面板包含下列功能：
 * 連絡行動 — 在Salesforce行動應用程式中可見
 * 新增至Marketo Campaign連絡人頁面 — 新增至Marketo Campaign功能可在此面板中使用
 
-欄位：
+欄位:
 
 * 最後一個有趣的時刻
 * 最後一個有趣的時刻
@@ -92,11 +92,11 @@ MSI Visualforce面板包含下列功能：
 * 帳戶完整清單 — 不包含「轉到完整清單」選項
 * 帳戶移動 — 在Salesforce行動應用程式中可見
 
-欄位：
+欄位:
 
 * Sales Insight — 開啟聯繫人完整清單頁面
 
-動作：
+動作:
 
 * 新增至Marketo Campaign
 * 傳送Marketo電子郵件
@@ -114,12 +114,12 @@ MSI Visualforce面板包含下列功能：
 * Opportunity Full List — 不包括「轉到Full List」選項
 * Opportunity Mobile — 在Salesforce移動應用程式中可見
 
-欄位：
+欄位:
 
 * Sales Insight — 開啟聯繫人完整清單頁面
 * Marketo Opportunity Analysis — 在Marketo中開啟Opportunity Influce Analyzer
 
-動作：
+動作:
 
 * 新增至Marketo Campaign
 * 傳送Marketo電子郵件

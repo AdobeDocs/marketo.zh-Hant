@@ -1,23 +1,23 @@
 ---
-description: Sales Insight Actions活動辭彙表 — Marketo文檔 — 產品文檔
-title: Sales Insight操作活動辭彙表
+description: Sales Insight Actions活動字彙表 — Marketo檔案 — 產品檔案
+title: Sales Insight Actions活動辭匯表
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '541'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Sales Insight操作活動辭彙表 {#sales-insight-actions-activity-glossary}
+# Sales Insight Actions活動辭匯表 {#sales-insight-actions-activity-glossary}
 
-在Sales Insight Actions中，當賣家：向銷售活動添加銷售線索、向他們發送銷售電子郵件或撥打出站銷售電話，該線索將記錄在Marketo活動歷史記錄下。 此外，當潛在客戶參與電子郵件、開啟、按一下和回復時，它也會被記錄。
+在Sales Insight Actions中，當賣家：新增銷售機會至銷售促銷活動、傳送銷售電子郵件或進行外站銷售呼叫，該銷售機會將記錄在該銷售機會的Marketo活動記錄下。 此外，當銷售機會與電子郵件、開啟、點按和回覆互動時，也會記錄該銷售機會。
 
-以下活動將從Sales Insight Actions記錄到Marketo。
+下列活動將從Sales Insight Actions記錄至Marketo。
 
 >[!NOTE]
 >
->這些活動和屬性可從我們的REST和批量API中使用。
+>這些活動和屬性可供我們的REST和大量API使用。
 
 ## 活動 {#activities}
 
@@ -34,22 +34,22 @@ ht-degree: 1%
   <td>來源</td>
  </tr>
  <tr>
-  <td>模板ID</td>
+  <td>範本ID</td>
  </tr>
  <tr>
   <td>銷售模板URL</td>
  </tr>
  <tr>
-  <td>銷售活動URL</td>
+  <td>銷售促銷活動URL</td>
  </tr>
  <tr>
   <td>銷售模板名稱</td>
  </tr>
  <tr>
-  <td>電子郵件主題</td>
+  <td>電子郵件主旨</td>
  </tr>
  <tr>
-  <td>銷售活動名稱</td>
+  <td>銷售促銷活動名稱</td>
  </tr>
  <tr>
   <td>Marketo銷售人員ID</td>
@@ -62,28 +62,28 @@ ht-degree: 1%
   <td>來源</td>
  </tr>
  <tr>
-  <td>模板ID</td>
+  <td>範本ID</td>
  </tr>
  <tr>
   <td>銷售模板URL</td>
  </tr>
  <tr>
-  <td>銷售活動URL</td>
+  <td>銷售促銷活動URL</td>
  </tr>
  <tr>
   <td>銷售模板名稱</td>
  </tr>
  <tr>
-  <td>電子郵件主題</td>
+  <td>電子郵件主旨</td>
  </tr>
  <tr>
-  <td>銷售活動名稱</td>
+  <td>銷售促銷活動名稱</td>
  </tr>
  <tr>
   <td>Marketo銷售人員ID</td>
  </tr>
  <tr>
-  <th rowspan="10">已按一下銷售電子郵件</th>
+  <th rowspan="10">已點擊銷售電子郵件</th>
   <td>連結</td>
  </tr>
  <tr>
@@ -93,28 +93,28 @@ ht-degree: 1%
   <td>來源</td>
  </tr>
  <tr>
-  <td>模板ID</td>
+  <td>範本ID</td>
  </tr>
  <tr>
   <td>銷售模板URL</td>
  </tr>
  <tr>
-  <td>銷售活動URL</td>
+  <td>銷售促銷活動URL</td>
  </tr>
  <tr>
   <td>銷售模板名稱</td>
  </tr>
  <tr>
-  <td>電子郵件主題</td>
+  <td>電子郵件主旨</td>
  </tr>
  <tr>
-  <td>銷售活動名稱</td>
+  <td>銷售促銷活動名稱</td>
  </tr>
  <tr>
   <td>Marketo銷售人員ID</td>
  </tr>
 <tr>
-  <th rowspan="3">已回復銷售電子郵件</th>
+  <th rowspan="3">已回覆銷售電子郵件</th>
   <td>接收者</td>
  </tr>
  <tr>
@@ -131,16 +131,16 @@ ht-degree: 1%
   <td>銷售呼叫狀態</td>
  </tr>
  <tr>
-  <td>銷售呼叫主題</td>
+  <td>銷售呼叫主體</td>
  </tr>
  <tr>
-  <td>銷售活動名稱</td>
+  <td>銷售促銷活動名稱</td>
  </tr>
  <tr>
-  <td>銷售活動URL</td>
+  <td>銷售促銷活動URL</td>
  </tr>
  <tr>
-  <td>已呼叫的銷售電話號碼</td>
+  <td>已呼叫銷售電話號碼</td>
  </tr>
  <tr>
   <td>來源</td>
@@ -149,23 +149,23 @@ ht-degree: 1%
   <td>銷售呼叫持續時間</td>
  </tr>
  <tr>
-  <td>銷售呼叫錄制URL</td>
+  <td>銷售呼叫記錄URL</td>
  </tr>
   <tr>
-  <td>銷售呼叫應答者</td>
+  <td>應答銷售電話的人</td>
  </tr>
  <tr>
   <td>Marketo銷售人員ID</td>
  </tr>
  <tr>
   <th rowspan="6">添加到銷售活動</th>
-  <td>銷售活動名稱</td>
+  <td>銷售促銷活動名稱</td>
  </tr>
  <tr>
   <td>銷售呼叫狀態</td>
  </tr>
  <tr>
-  <td>銷售活動URL</td>
+  <td>銷售促銷活動URL</td>
  </tr>
  <tr>
   <td>發送者</td>
@@ -174,17 +174,17 @@ ht-degree: 1%
   <td>來源</td>
  </tr>
  <tr>
-  <td>銷售活動ID</td>
+  <td>銷售促銷活動ID</td>
  </tr>
  <tr>
-  <th rowspan="6">從銷售活動中刪除</th>
-  <td>銷售活動名稱</td>
+  <th rowspan="6">從Sales Campaign中刪除</th>
+  <td>銷售促銷活動名稱</td>
  </tr>
  <tr>
   <td>銷售呼叫狀態</td>
  </tr>
  <tr>
-  <td>銷售活動URL</td>
+  <td>銷售促銷活動URL</td>
  </tr>
  <tr>
   <td>發送者</td>
@@ -193,7 +193,7 @@ ht-degree: 1%
   <td>來源</td>
  </tr>
  <tr>
-  <td>銷售活動ID</td>
+  <td>銷售促銷活動ID</td>
  </tr>
 </table>
 
@@ -206,88 +206,88 @@ ht-degree: 1%
  </tr>
  <tbody> 
  <tr> 
-   <td><strong>詳細資訊</strong></td> 
-   <td>退回錯誤消息詳細資訊。</td> 
+   <td><strong>詳細資料</strong></td> 
+   <td>退信錯誤消息詳細資訊。</td> 
   </tr> 
   <tr> 
    <td><strong>電子郵件</strong></td> 
-   <td>已跳轉的電子郵件地址。</td> 
+   <td>跳出的電子郵件地址。</td> 
   </tr> 
   <tr> 
    <td><strong>連結</strong></td> 
-   <td>已按一下的URL。</td> 
+   <td>已點按的URL。</td> 
   </tr> 
   <tr> 
    <td><strong>Marketo銷售人員ID</strong></td> 
-   <td>Sales Insight Actions中人員記錄的唯一ID。</td> 
+   <td>「銷售分析動作」中人員記錄的唯一ID。</td> 
   </tr> 
   <tr> 
    <td><strong>接收者</strong></td> 
-   <td>發送電子郵件的人員的電子郵件地址。</td> 
+   <td>傳送電子郵件之人員的電子郵件地址。</td> 
   </tr>
   <tr> 
-   <td><strong>銷售呼叫應答者</strong></td> 
-   <td>應答呼叫的人員的姓名。</td> 
+   <td><strong>應答銷售電話的人</strong></td> 
+   <td>接聽電話的人員姓名。</td> 
   </tr>
   <tr> 
    <td><strong>銷售呼叫持續時間</strong></td> 
-   <td>呼叫長度（秒）。</td> 
+   <td>呼叫長度（以秒為單位）。</td> 
   </tr>
   <tr> 
    <td><strong>銷售呼叫由</strong></td> 
-   <td>撥打電話的銷售人員的電子郵件地址。</td> 
+   <td>進行呼叫的銷售人員的電子郵件地址。</td> 
   </tr>
   <tr> 
-   <td><strong>銷售呼叫錄制URL</strong></td> 
-   <td>呼叫錄制的URL。</td> 
+   <td><strong>銷售呼叫記錄URL</strong></td> 
+   <td>呼叫記錄的URL。</td> 
   </tr>
   <tr> 
    <td><strong>銷售呼叫狀態</strong></td> 
-   <td>將保存呼叫的最終呼叫狀態，包括：已完成，無應答，已取消，失敗。</td> 
+   <td>將儲存呼叫的最終呼叫狀態，其中包括：已完成，無應答，已取消，失敗。</td> 
   </tr>
   <tr> 
-   <td><strong>銷售呼叫主題</strong></td> 
-   <td>撥號器中銷售用戶選擇的呼叫結果。</td> 
+   <td><strong>銷售呼叫主體</strong></td> 
+   <td>呼叫撥號器中銷售用戶選擇的結果。</td> 
   </tr>
   <tr> 
-   <td><strong>銷售活動ID</strong></td> 
+   <td><strong>銷售促銷活動ID</strong></td> 
    <td>Sales Insight Actions中Sales Campaign資產的唯一ID。</td> 
   </tr>
   <tr> 
-   <td><strong>銷售活動名稱</strong></td> 
-   <td>銷售活動的名稱。</td> 
+   <td><strong>銷售促銷活動名稱</strong></td> 
+   <td>銷售促銷活動的名稱。</td> 
   </tr>
   <tr> 
-   <td><strong>銷售活動URL</strong></td> 
-   <td>銷售活動的Sales Insight活動URL。</td> 
+   <td><strong>銷售促銷活動URL</strong></td> 
+   <td>銷售促銷活動的銷售分析操作URL。</td> 
   </tr>
   <tr> 
    <td><strong>銷售電子郵件主題</strong></td> 
-   <td>電子郵件主題行，後跟唯一ID(例如：我的主題行(SIA-12345678)</td> 
+   <td>電子郵件的主旨行，後面接著唯一ID(例如：我的主題行(SIA-12345678)</td> 
   </tr>
   <tr> 
-   <td><strong>已呼叫的銷售電話號碼</strong></td> 
-   <td>由Sales調用的電話號碼。</td> 
+   <td><strong>已呼叫銷售電話號碼</strong></td> 
+   <td>由銷售部呼叫的電話號碼。</td> 
   </tr>
   <tr> 
    <td><strong>銷售模板名稱</strong></td> 
-   <td>Sales Insight Actions中電子郵件模板的名稱。</td> 
+   <td>Sales Insight Actions中的電子郵件模板名稱。</td> 
   </tr>
   <tr> 
    <td><strong>銷售模板URL</strong></td> 
-   <td>電子郵件模板的Sales Insight Actions URL。</td> 
+   <td>電子郵件範本的Sales Insight Actions URL。</td> 
   </tr>
   <tr> 
    <td><strong>發送者</strong></td>
-   <td>發送電子郵件的人員的電子郵件地址。</td> 
+   <td>傳送電子郵件之人員的電子郵件地址。</td> 
   </tr> 
   <tr> 
    <td><strong>來源</strong></td> 
-   <td>活動的來源。 將在10月21日發行前設定為Sales Insight Actions活動的「Tout」。 在10月21日發佈後，將是Sales Insight Actions活動的「Sales App」。</td>
+   <td>活動來源。 在』21年10月發行之前，將會設為「銷售分析動作」活動的「輸出」。 在』21年10月發行後，將是「銷售分析動作」活動的「銷售應用程式」。</td>
   </tr> 
   <tr> 
-   <td><strong>模板ID</strong></td> 
-   <td>當源為Tout時，模板ID將是MarketoSales Insight Actions模板ID。 使用此選項可以針對特定模板，而不是可能存在於多個模板中的主題行。
+   <td><strong>範本ID</strong></td> 
+   <td>當來源輸出時，範本ID將會是Marketo Sales Insight Actions範本ID。 使用此功能可鎖定特定範本，而非多個範本中可能存在的主旨行。
 </td> 
   </tr> 
  </tbody> 

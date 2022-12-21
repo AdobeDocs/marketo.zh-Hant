@@ -1,36 +1,36 @@
 ---
-description: 預測受眾入門 — Marketo文檔 — 產品文檔
-title: 預測訪問群體入門
+description: 預測受眾快速入門 — Marketo檔案 — 產品檔案
+title: 預測受眾快速入門
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
-# 預測訪問群體入門 {#getting-started-with-predictive-audiences}
+# 預測受眾快速入門 {#getting-started-with-predictive-audiences}
 
-預測性受眾(PA)利用人工智慧和機器學習，使您能夠更有效地瞄準受眾並採取主動步驟來實現您的市場營銷目標。
+預測對象(PA)利用AI和機器學習，讓您更有效地鎖定對象，並採取主動步驟來達成您的行銷目標。
 
-PA包括以下功能：
+PA包含下列功能：
 
-* 事件計畫中每個潛在顧客的註冊和考勤可能性值
-* [預測篩選器](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target=&quot;_blank&quot;
-* [模型及影響因素](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target=&quot;_blank&quot;
-* 基於AI/ML的洞察力
-* 目標跟蹤和預計註冊 — （目標跟蹤僅對為事件程式啟用下一代切換的用戶可用，以訪問此切換，與CSM聯繫並請求預測受眾）
+* 事件程式中每個銷售機會的註冊和考勤可能性值
+* [預測性篩選](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target=&quot;_blank&quot;}
+* [模型與影響因素](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target=&quot;_blank&quot;}
+* AI/ML型深入分析
+* 目標追蹤和預計註冊 — （「目標追蹤」僅適用於為事件程式啟用下一代切換開關的使用者 — 若要存取此切換開關，請聯絡CSM並要求預測對象）
 
 >[!NOTE]
 >
->目標跟蹤和預計註冊僅適用於那些為「事件程式」啟用了下一代切換的用戶。
+>目標追蹤和預計註冊僅適用於為事件方案啟用下一代切換的使用者。
 
-AI/ML模型的效能取決於訂閱中的資料。 模型使用得越頻繁，它對您的特定訂閱資料和業務的調整就越多。
+AI/ML模型的效能取決於訂閱中的資料。 模型使用頻率越高，對您特定訂閱資料和業務的調整程度就越高。
 
 ## 可用性
 
-預測性受眾將自動包括並激活，用於使用優質或最終定價捆綁包的實例。 要瞭解有關訪問此功能的詳細資訊，請與客戶成功經理聯繫。
+預測對象會自動納入並啟用，以利用Prime或Ultimate定價套件組合執行個體。 若要進一步了解如何存取此功能，請連絡您的客戶成功經理。
 
-1. 將該功能添加到實例後，導航到 **[!UICONTROL 預測受眾]** 的 **[!UICONTROL 管理]** Marketo。
+1. 將功能新增至您的執行個體後，請導覽至 **[!UICONTROL Predictive Audiences]** 頁面 **[!UICONTROL Admin]** Marketo地區。
 
-1. 檢查 **[!UICONTROL 啟用預測受眾]** 的子菜單。 請注意，完成設定所有進程可能需要24小時。
+1. 檢查 **[!UICONTROL Enable Predictive Audiences]** 來啟用功能。 請注意，完成設定所有流程可能需要24小時。

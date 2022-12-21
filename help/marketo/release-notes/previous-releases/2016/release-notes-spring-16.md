@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->電子郵件編輯器2.0（含範本選擇器）將於6月3日起逐步推出。 我們將在6月30日前完成推出。 與「電子郵件分析」不同，當您有存取權時，將不會收到通知。 若要查看是否確實如此，請依照[本文](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)中的步驟操作。
+>電子郵件編輯器2.0（含範本選擇器）將於6月3日起逐步推出。 我們將在6月30日前完成推出。 與「電子郵件分析」不同，當您有存取權時，將不會收到通知。 若要查看是否確實如此，請依照 [這篇文章](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ## [無草稿片段](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
-每次更新程式碼片段時，您必須重新核准所有內容的日子已過去！ 若使用非草稿，所有使用程式碼片段的電子郵件和登錄頁面都會取得程式碼片段更新並維持其先前的狀態。 每次核准程式碼片段時，您都可以選擇執行「非草稿」並更新所有內容，或建立草稿。 由你決定！ 「無草稿」將可供所有客戶使用，並由管理員的新權限控制。
+每次更新程式碼片段時，您必須重新核准所有內容的日子已過去！ 若使用非草稿，所有使用程式碼片段的電子郵件和登錄頁面都將取得程式碼片段更新並維持其先前的狀態。 每次核准程式碼片段時，您都可以選擇執行「非草稿」並更新所有內容，或建立草稿。 由你決定！ 「無草稿」將可供所有客戶使用，並由管理員的新權限控制。
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
@@ -58,15 +58,15 @@ Marketo REST API現在支援控制Marketo登陸頁面、登陸頁面範本和表
 
 ## [API存取權限清單](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-與Marketo使用者登入的IP允許清單功能類似，Marketo管理員現在可以設定可存取Marketo SOAP和REST API的IP位址允許清單，借此封鎖非授權IP位址的存取。 這可為您的Marketo執行個體提供新增的安全層級，並確保API存取只能從組織的網路進行。 有關如何設定的詳細資訊，請參閱[Marketo檔案網站](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)。
+與Marketo使用者登入的IP允許清單功能類似，Marketo管理員現在可以設定可存取Marketo SOAP和REST API的IP位址允許清單，借此封鎖非授權IP位址的存取。 這可為您的Marketo執行個體提供新增的安全層級，並確保API存取只能從組織的網路進行。 有關如何設定此設定的詳細資訊，請參閱 [Marketo檔案網站](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
-## [全新高速Microsoft Dynamics同步連接器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
+## [全新高速Microsoft Dynamics Sync連接器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
 新的高速動態介面構建在Orion體系結構之上，在初始同步時速度快20倍，在增量同步時速度快5倍。 所有新客戶將於發行日期上線至此連接器，我們將在夏季發行時間範圍內逐步推出此連接器給現有客戶。
 
-**重新整理新欄位的資料**:現在，您可以在任何時間點啟用新的同步欄位，該欄位的所有資料值將從Dynamics CRM重新整理至Marketo。不再擔心在初始設定期間必須選取所有欄位。 如果您停用現有的同步欄位，並稍後重新啟用，該欄位的所有資料值將會從Dynamics CRM重新整理至Marketo。
+**重新整理新欄位的資料**:現在，您可以在任何時間點啟用新的同步欄位，該欄位的所有資料值將從Dynamics CRM重新整理至Marketo。 不再擔心在初始設定期間必須選取所有欄位。 如果您停用現有的同步欄位，並稍後重新啟用，該欄位的所有資料值將會從Dynamics CRM重新整理至Marketo。
 
-**以聯繫人身份同步銷售機會**:「將銷售線索同步到Microsoft流」操作有一個新選項可以作為銷售線索或聯繫人同步。
+**以聯繫方式同步銷售機會**:「同步銷售機會至Microsoft」流程動作有新選項可同步為銷售機會或聯絡人。
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
@@ -76,7 +76,7 @@ Marketo REST API現在支援控制Marketo登陸頁面、登陸頁面範本和表
 
 **Microsoft Dynamics 2016**:Connector已完全通過Dynamics 2016線上版和內部部署版本的認證。
 
-**外掛程式更新現在已記錄：** 請參閱外 [掛程式更新檔案文章](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
+**外掛程式更新現已記錄在案：** 請參閱 [外掛程式更新檔案文章](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 
 ## [易記執行個體名稱](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
@@ -98,4 +98,4 @@ Marketo REST API現在支援控制Marketo登陸頁面、登陸頁面範本和表
 
 ## 自訂活動 {#custom-activities}
 
-Marketo管理員現在可以透過「Marketo自訂活動定義」建立器來定義及管理其自訂活動類型。 與Marketo自訂物件建模器類似（並結合），管理員現在可以擴充資料模型，以符合其確切的業務需求。 有關如何使用此功能的詳細資訊，請參閱[Marketo檔案網站](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)。
+Marketo管理員現在可以透過「Marketo自訂活動定義」建立器來定義及管理其自訂活動類型。 與Marketo自訂物件建模器類似（並結合），管理員現在可以擴充資料模型，以符合其確切的業務需求。 有關如何使用此功能的詳細資訊，請參閱 [Marketo檔案網站](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 3571830
-description: 第3步（共3步） — 將Marketo解決方案與伺服器連接 — Marketo文檔 — 產品文檔
-title: 第3步（共3步） — 將Marketo解決方案與伺服器連接連接
+description: 第3步（共3步） — 將Marketo解決方案與伺服器連線 — Marketo檔案 — 產品檔案
+title: 第3步（共3步） — 將Marketo解決方案與伺服器連線
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
 workflow-type: tm+mt
@@ -10,14 +10,14 @@ ht-degree: 0%
 
 ---
 
-# 第3步（共3步）:將Marketo解決方案與伺服器連接連接 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
+# 第3步（共3步）:將Marketo解決方案與伺服器連線連線 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
 這是同步的最後一步。 快到了！
 
 >[!PREREQUISITES]
 >
->* [第1步（共3步）:安裝Marketo解決方案，使用伺服器到伺服器連接](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
->* [第2步（共3步）:設定具有伺服器到伺服器連接的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+>* [第1步（共3步）:安裝具有伺服器對伺服器連線的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>* [第2步（共3步）:設定Marketo解決方案，使用伺服器對伺服器連線](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -26,88 +26,88 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->如果要從「基本身份驗證」升級到OAuth，則需要聯繫 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support) 的子菜單。 啟用此功能將暫時停止同步，直到輸入新憑據並重新啟用同步。 如果要恢復到舊的身份驗證模式，可以禁用該功能（直到2022年4月）。
+>如果您從基本驗證升級為OAuth，您需要聯絡 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support) 以取得更新其他參數的協助。 啟用此功能將暫時停止同步，直到輸入新憑據並重新啟用同步為止。 如果您想要回復成舊的驗證模式，則可停用此功能（直到2022年4月）。
 
 >[!NOTE]
 >
->在輸入新憑據之前，您可以 [在此處驗證](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)。
+>在輸入新憑據之前，您可以 [在此處驗證](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
 
 ## 輸入Dynamics同步用戶資訊 {#enter-dynamics-sync-user-information}
 
-1. 登錄到Marketo，然後按一下 **管理**。
+1. 登入Marketo，然後按一下 **管理**.
 
    ![](assets/login-admin.png)
 
-1. 按一下 **CRM**。
+1. 按一下 **CRM**.
 
    ![](assets/image2015-3-16-9-3a47-3a34.png)
 
-1. 選擇 **Microsoft**。
+1. 選擇 **Microsoft**.
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. 按一下 **編輯** 在 **步驟1:輸入憑據**。
+1. 按一下 **編輯** in **步驟1:輸入憑據**.
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
    >[!CAUTION]
    >
-   >請確保您的組織URL正確，因為我們無法在提交後還原後續架構更改。 如果使用的組織URL不正確，則必須獲得新的Marketo訂閱。 如果你不知道URL, [瞭解如何在此處查找](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
+   >請確定您的組織URL正確，因為提交後，我們無法回復後續的結構變更。 如果使用錯誤的組織URL，您必須取得新的Marketo訂閱。 如果您不知道URL, [在這裡了解如何找到](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-1. 輸入Dynamics同步用戶資訊，然後按一下 **保存** 完成。
+1. 輸入Dynamics Sync User資訊，然後按一下 **儲存** 時才能使用。
 
    ![](assets/step-3-of-3-connect-s2s-5.png)
 
    >[!NOTE]
    >
-   >Marketo的用戶名必須與 [電子郵件地址](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) 的子目錄。 格式可以是 `user@domain.com` 或域\用戶。
+   >Marketo中的使用者名稱必須符合 [電子郵件地址](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) CRM中的應用程式使用者。 格式可為 `user@domain.com` 或域\用戶。
 
 ## 選擇要同步的欄位 {#select-fields-to-sync}
 
-1. 按一下 **編輯** 在 **步驟2:選擇要同步的欄位**。
+1. 按一下 **編輯** in **步驟2:選擇要同步的欄位**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. 選擇要同步到Marketo的欄位，以便預選這些欄位。 按一下 **保存**。
+1. 選取您要同步至Marketo的欄位，以便預先選取這些欄位。 按一下 **儲存**.
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
 >[!NOTE]
 >
->Marketo儲存要同步的欄位的引用。 如果刪除Dynamics中的欄位，建議使用 [已禁用](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)。 然後通過編輯和保存在Marketo的架構 [選擇要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)。
+>Marketo會儲存要同步之欄位的參考。 如果您刪除Dynamics中的欄位，建議您使用 [已禁用同步](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). 然後編輯並儲存Marketo中的結構，以重新整理 [選擇要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
-## 自定義篩選器的同步欄位 {#sync-fields-for-a-custom-filter}
+## 同步自訂篩選器的欄位 {#sync-fields-for-a-custom-filter}
 
-如果已建立自定義篩選器，請確保進入並選擇要與Marketo同步的新欄位。
+如果您已建立自訂篩選器，請務必前往並選取要與Marketo同步的新欄位。
 
-1. 轉到「管理」並選擇 **Microsoft動力**。
+1. 前往「管理」並選取 **Microsoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 按一下 **編輯** 欄位同步詳細資訊。
+1. 按一下 **編輯** 在欄位同步詳細資訊上。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 向下滾動到欄位並檢查。 實際名稱必須為new_synctomkto，但「顯示名稱」可以是任何內容。 按一下 **保存**。
+1. 向下捲動至欄位並加以檢查。 實際名稱必須為new_synctomkto，但「顯示名稱」可以是任何值。 按一下 **儲存**.
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 
 ## 啟用同步 {#enable-sync}
 
-1. 按一下 **編輯** 在 **第3步：啟用同步**。
+1. 按一下 **編輯** in **步驟3:啟用同步**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
    >[!CAUTION]
    >
-   >Marketo不會針對MicrosoftDynamics同步或您手動輸入人員或線索時自動執行重複資料消除。
+   >Marketo不會針對Microsoft Dynamics同步或當您手動輸入人員或銷售機會時自動消除重複資料。
 
-1. 閱讀彈出窗口中的所有內容，輸入您的電子郵件地址，然後按一下 **啟動同步**。
+1. 閱讀快顯視窗中的所有內容，輸入您的電子郵件地址，然後按一下 **開始同步**.
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. 第一次同步可能需要幾個小時。 完成後，您將收到電子郵件通知。
+1. 第一次同步可能需要數小時。 完成後，您會收到電子郵件通知。
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
 
-幹得漂亮！
+幹得好！

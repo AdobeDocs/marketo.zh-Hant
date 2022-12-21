@@ -1,7 +1,7 @@
 ---
 audience: end-user
-user-guide-title: Marketo指南
-user-guide-description: Marketo產品檔案
+user-guide-title: Marketo 指南
+user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
 source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Marketo指南 {#using}
+# Marketo 指南 {#using}
 
 + [首頁](home.md)
 + 開始使用Marketo {#getting-started-with-marketo}
@@ -82,7 +82,7 @@ ht-degree: 0%
             + [SEO — 取得傳入連結建議](product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
             + [SEO — 移除/刪除入站連結URL](product-docs/additional-apps/seo/inbound-links/seo-remove-delete-an-inbound-link-url.md)
             + [SEO — 了解入站連結](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
-         + 報告 {#reports}
+         + 報表 {#reports}
             + [SEO — 使用競爭者KW趨勢報表](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO — 使用關鍵字趨勢報表](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
    + 管理 {#administration}
@@ -628,7 +628,7 @@ ht-degree: 0%
             + [建立對話方塊](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [對象條件](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
             + [流程設計工具](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
-            + [報告](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
+            + [報表](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + 事件 {#events}
          + 了解事件 {#understanding-events}
             + [向事件程式添加成員](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)

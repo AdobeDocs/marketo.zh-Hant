@@ -1,17 +1,18 @@
 ---
-description: 瞭解「我」頁籤 — Marketo文檔 — 產品文檔
-title: 瞭解我頁籤
+description: 了解我標籤 — Marketo檔案 — 產品檔案
+title: 了解我標籤
 hide: true
 hidefromtoc: true
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+exl-id: 7663f2f3-5266-4ef0-a719-f6630cc0f427
+source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
-# 瞭解我頁籤 {#understanding-the-me-tab}
+# 了解我標籤 {#understanding-the-me-tab}
 
-在「我」(Me)頁籤中，我們向您顯示已發送的電子郵件數量，以及使用帶有電子郵件活動的模板發送的電子郵件數量。
+在「我」索引標籤中，我們會顯示已傳送的電子郵件數，以及使用範本透過電子郵件傳送活動所傳送的電子郵件數。
 
-我們還向您顯示您嘗試與您接觸的時間最多的人員清單，以及按跟蹤事件總數（視圖/點擊/回復）排序的您最引人入勝的電子郵件清單。 一次性電子郵件能讓你訂婚很多嗎？ 使其成為模板！
+我們也會向您顯示嘗試與您互動的最常花費時間的清單，以及依追蹤事件總數（檢視/點按/回覆）排序的最吸引人電子郵件清單。 一次性電子郵件能獲得很高的參與度嗎？ 使其成為模板！

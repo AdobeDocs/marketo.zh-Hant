@@ -1,24 +1,23 @@
 ---
 unique-page-id: 14352548
-description: 如何從Gmail - Marketo Docs —— 產品檔案解除安裝Sales Connect
-title: 如何從Gmail卸載Sales Connect
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: 如何從Gmail解除安裝Sales Connect - Marketo檔案 — 產品檔案
+title: 如何從Gmail解除安裝Sales Connect
+exl-id: 36032005-651f-43c8-a92a-0968b52ccb86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
+# 如何從Gmail解除安裝Sales Connect {#how-to-uninstall-sales-connect-from-gmail}
 
-# 如何從Gmail {#how-to-uninstall-sales-connect-from-gmail}卸載Sales Connect
+Sales Connect外掛程式（適用於Gmail）會透過瀏覽器擴充功能執行。 您需要移除此項，才能刪除Gmail中的Sales Connect。
 
-Gmail專用的Sales Connect外掛程式可透過瀏覽器擴充功能執行。 您必須移除它，才能刪除Gmail中的Sales Connect。
+1. 在 **鉻黃**，按一下瀏覽器視窗右上角的三行。
 
-1. 在&#x200B;**Chrome**&#x200B;中，按一下瀏覽器視窗右上角的三行。
+1. 按一下 **更多工具**.
 
-1. 按一下&#x200B;**更多工具**。
+1. 按一下 **擴充功能**.
 
-1. 按一下&#x200B;**擴展**。
-
-1. 按一下&#x200B;**ToutApp for Chrome**&#x200B;旁的垃圾桶圖示。
+1. 按一下旁邊的垃圾桶圖示 **Chrome適用的ToutApp**.

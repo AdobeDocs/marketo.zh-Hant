@@ -16,7 +16,7 @@ ht-degree: 0%
 
 **僅文字電子郵件**
 
-現在您只能傳送電子郵件的[文字版本](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)。 請記住，使用此選項時不會裝飾連結。
+現在您可以傳送 [只有文本版本](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) 電子郵件。 請記住，使用此選項時不會裝飾連結。
 
 ![](assets/image2014-9-22-16-3a34-3a15.png)
 
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 ### 忽略用盡的內容 {#ignore-exhausted-content}
 
-將參與程式設定為[忽略耗盡](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)，包括隱藏任何通知。
+將參與方案設定為 [忽略耗盡](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)，包括隱藏任何通知。
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## 參與資料流測試 {#engagement-stream-testing}
 
-使用[新測試功能](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md)來模擬轉播，並測試新新增的內容至即時資料流。
+使用 [新測試功能](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) 來模擬轉播，並測試新新增的內容至即時資料流。
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
@@ -42,13 +42,13 @@ ht-degree: 0%
 
 ## 「以網頁形式查看電子郵件」和「取消訂閱」系統令牌 {#view-email-as-web-page-and-unsubscribe-system-tokens}
 
-利用這些[新代號](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)來進一步控制其在電子郵件中的放置位置。
+利用這些 [新代號](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) 提供對其電子郵件版位的更大控制。
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
 ## 自動觸發促銷活動清除 {#automatic-trigger-campaign-cleanup}
 
-Marketo現在會定期通知您，並且[自動停用過去6個月未執行的觸發促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
+Marketo現在會定期通知您 [自動停用觸發器促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) 但在過去6個月裡，這些都沒有出現。
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 

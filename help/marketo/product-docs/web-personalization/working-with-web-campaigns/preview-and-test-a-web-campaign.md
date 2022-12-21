@@ -20,25 +20,25 @@ ht-degree: 0%
 
 ## 在建立頁面上預覽網頁促銷活動 {#preview-a-web-campaign-on-the-creation-page}
 
-1. 前往&#x200B;**Web促銷活動**。
+1. 前往 **網路行銷活動**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. 按一下「**建立新網站促銷活動**」或圖示以編輯現有促銷活動。
+1. 按一下 **建立新的Web促銷活動** 或圖示來編輯現有的促銷活動。
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. 在「在網站上預覽」中，新增頁面URL並按一下「**預覽**」。 隨即開啟新視窗/標籤，顯示促銷活動預覽。
+1. 在「在網站上預覽」中，新增頁面URL並按一下 **預覽**. 隨即開啟新視窗/標籤，顯示促銷活動預覽。
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >按一下&#x200B;**共用**&#x200B;以開啟具有促銷活動預覽之固定URL的電子郵件。
+   >按一下 **共用** 以開啟具有促銷活動預覽之固定URL的電子郵件。
 
    >[!NOTE]
    >
-   >您也可以選擇安裝瀏覽器外掛程式（[Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj)或[Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)），以獲得預覽促銷活動的最佳體驗。 請參閱下節。
+   >您也可以選擇安裝瀏覽器外掛程式( [鉻黃](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) 或 [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi))，以獲得預覽促銷活動的最佳體驗。 請參閱下節。
 
 ## 使用瀏覽器外掛程式在建立頁面上預覽網頁促銷活動 {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -48,15 +48,15 @@ ht-degree: 0%
 
    ![](assets/4-1.png)
 
-1. 將開啟新窗口/頁簽。 按一下「**新增至Chrome**」。
+1. 將開啟新窗口/頁簽。 按一下 **新增至Chrome**.
 
    ![](assets/five.png)
 
-1. 按一下「**新增擴充功能**」。
+1. 按一下 **新增擴充功能**.
 
    ![](assets/six.png)
 
-1. 回Marketo。 新增頁面URL，然後按一下&#x200B;**預覽**。
+1. 回Marketo。 新增頁面URL，然後按一下 **預覽**.
 
    ![](assets/seven.png)
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 ## 在「網頁促銷活動」頁面上預覽網頁促銷活動 {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. 查看Web促銷活動清單時，只要選擇促銷活動並按一下&#x200B;**預覽**&#x200B;圖示。
+1. 查看Web促銷活動清單時，只要選擇促銷活動，然後按一下 **預覽** 表徵圖。
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -76,17 +76,17 @@ ht-degree: 0%
 
 建立沙箱區段和促銷活動。
 
-1. 前往&#x200B;**區段**。
+1. 前往 **區段**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. 按一下「**新建**」。
+1. 按一下 **新建**.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. 為區段命名。
 
-1. 在「行為」下，將「包含頁面」拖曳至畫布上。 新增值*sandbox=1*。 按一下「**儲存並定義促銷活動**」。
+1. 在「行為」下，將「包含頁面」拖曳至畫布上。 新增值 &#42;sandbox=1&#42;. 按一下 **儲存並定義促銷活動**.
 
    ![](assets/segment.png)
 
@@ -94,11 +94,11 @@ ht-degree: 0%
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. 完成促銷活動創意，然後按一下&#x200B;**Launch**。
+1. 完成促銷活動創意內容，然後按一下 **Launch**.
 
    ![](assets/click-launch.jpg)
 
-1. 前往您的網站，在URL結尾新增URL參數&quot;?sandbox=1&quot;。 範例：`www.marketo.com?sandbox=1`。
+1. 前往您的網站，在URL結尾新增URL參數&quot;?sandbox=1&quot;。 範例： `www.marketo.com?sandbox=1`.
 
 1. 查看您網站上的促銷活動反應。
 
@@ -108,4 +108,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->無法預覽重新導向促銷活動。 測試這些規則的唯一方法是使用沙箱區段（依特定頁面來鎖定目標 — *sandbox=redirect*）
+>無法預覽重新導向促銷活動。 測試這些區段的唯一方法是使用沙箱區段(依特定頁面來鎖定目標 —  &#42;sandbox=redirect&#42;)

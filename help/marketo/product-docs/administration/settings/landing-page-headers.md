@@ -1,6 +1,6 @@
 ---
-description: 登錄頁標題 — Marketo文檔 — 產品文檔
-title: 登錄頁標題
+description: 登陸頁面標題 — Marketo檔案 — 產品檔案
+title: 登陸頁面標題
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 source-git-commit: a3acf82afa894160b20dff76fdd5132a234dfbd3
 workflow-type: tm+mt
@@ -9,37 +9,37 @@ ht-degree: 0%
 
 ---
 
-# 登錄頁標題 {#landing-page-headers}
+# 登陸頁面標題 {#landing-page-headers}
 
-按照以下步驟自定義登錄頁域上的某些HTTP標頭。
+請依照下列步驟，在您的登陸頁面網域上自訂部分HTTP標題。
 
-1. 在Marketo，按一下 **管理**。
+1. 在Marketo中，按一下 **管理**.
 
    ![](assets/landing-page-headers-1.png)
 
-1. 按一下 **登錄頁**。
+1. 按一下 **登錄頁面**.
 
    ![](assets/landing-page-headers-2.png)
 
-1. 按一下 **編輯** 登錄頁HTTP標頭旁邊。
+1. 按一下 **編輯** 在「登陸頁面HTTP標題」旁。
 
    ![](assets/landing-page-headers-3.png)
 
-1. 選擇所需設定並按一下 **保存** 完成。
+1. 選擇您想要的設定，然後按一下 **儲存** 時才能使用。
 
    ![](assets/landing-page-headers-4.png)
 
 <table>
  <tr>
-  <td><strong>嚴格傳輸 — 安全</strong></td>
-  <td>使用此選項可確保始終通過HTTPS提供到登錄頁的連接（應僅為登錄頁受SSL保護的訂閱設定）</td>
+  <td><strong>嚴格傳輸安全</strong></td>
+  <td>使用此功能可保證連線至登錄頁面一律會透過HTTPS提供（僅應針對使用SSL安全之登錄頁面的訂閱設定）</td>
  </tr>
  <tr>
-  <td><strong>X幀選項</strong></td>
-  <td>用於定義Marketo Engage托管資產是否可嵌入到外部網頁中</td>
+  <td><strong>X-Frame-Options</strong></td>
+  <td>可讓您定義Marketo Engage托管資產是否可內嵌於外部網頁</td>
  </tr>
 </table>
 
 >[!CAUTION]
 >
->與您的IT團隊一起查看這些設定以確定您組織的策略應設定為什麼非常重要。 不正確的設定可能會阻止某些訪問者訪問您的登錄頁。
+>請務必與IT團隊一起檢閱這些設定，以決定您組織的原則應設定為什麼。 不正確的設定可能會使部分訪客無法存取您的登錄頁面。

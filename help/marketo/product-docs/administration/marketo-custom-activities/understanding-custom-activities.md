@@ -1,9 +1,8 @@
 ---
 unique-page-id: 10100266
-description: 瞭解自訂活動-Marketo文檔——產品文檔
-title: 瞭解自訂活動
+description: 了解自訂活動 — Marketo檔案 — 產品檔案
+title: 了解自訂活動
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '261'
@@ -11,30 +10,30 @@ ht-degree: 0%
 
 ---
 
-# 瞭解自訂活動{#understanding-custom-activities}
+# 了解自訂活動 {#understanding-custom-activities}
 
-追蹤人員使用自訂活動對您的業務採取的特定動作。
+透過自訂活動追蹤人員對您的業務採取的特定動作。
 
-**什麼是活動**
+**活動**
 
-人員可以透過幾種方式與您的組織互動。 他們可能會造訪您公司的網站、參加您的其中一個商展，或是在您寄送的電子郵件中按一下連結。 這些動作是活動，無論他們採取什麼動作，Marketo都會擷取它，讓您的行銷團隊更能瞭解如何即時傳送相關的通訊。
+有數種方式可讓人員與您的組織互動。 他們可能會訪問您公司的網站、參加您的其中一個展會，或者在您發送給他們的電子郵件中按一下連結。 這些動作為活動，無論採取什麼動作，Marketo都會擷取它，讓您的行銷團隊更清楚了解如何及時傳送這些動作及相關的通訊。
 
 **自訂活動**
 
-自訂活動可協助您追蹤與Marketo表單、電子郵件或登陸頁面無關的活動。 想追蹤有人何時存了支票？ 使用自訂活動。 想要在有人參加網路研討會時密切留意嗎？ 使用自訂活動。
+自訂活動可協助您追蹤與Marketo表單、電子郵件或登錄頁面無關的活動。 想追蹤何時有人存了支票？ 使用自訂活動。 想要在有人參加網路研討會時隨時查看？ 使用自訂活動。
 
 >[!NOTE]
 >
->自訂活動與自訂物件不同。 當值可以變更時，請使用自訂物件(例如「汽車顏色」從藍色變成紅色)。 在追蹤發生的時刻時使用自訂活動，其詳細資料無法變更(即「購買的車」)。
+>自訂活動與自訂物件不同。 值可以變更時，請使用自訂物件(例如「汽車顏色」從藍色變成紅色)。 在追蹤發生的時刻時使用自訂活動，且其詳細資料無法變更(即「已購車」)。
 
-**欄** 位您可以新 [增](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) 您要與活動關聯的其他欄位。與主要欄位一樣，這些欄位可用作智慧型清單中的篩選條件。
+**欄位** 您可以新增 [其他欄位](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) 您想要與活動建立關聯。 與主要欄位一樣，它們也可作為智慧清單中的篩選條件。
 
 **快速入門**
 
-自訂活動的功能與標準活動類似。 但是，設定這些變數是兩個部分的程式。
+自訂活動的功能與標準活動類似。 但是，設定這些參數是兩個步驟的過程。
 
-步驟1:[在您的Marketo帳戶中建立自訂活動](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
+步驟1: [建立自訂活動](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) 在Marketo帳戶中
 
-步驟2:然後，您組織中使用我們API的員工就可以開始實施。 如需詳細資訊，請參閱：[自訂活動API](https://developers.marketo.com/documentation/rest/add-custom-activities/)
+步驟2:您組織中使用我們API的員工即可開始實作。 如需詳細資訊，請參閱： [自訂活動API](https://developers.marketo.com/documentation/rest/add-custom-activities/)
 
-玩得開心！
+玩得開心點！

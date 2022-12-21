@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板8G {#template-8g}
 
-按一下右鍵[下載模板8G](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)
+按一下右鍵以 [下載模板8G](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)
 
 ![](assets/image2015-7-29-14-3a58-3a16.png)
 

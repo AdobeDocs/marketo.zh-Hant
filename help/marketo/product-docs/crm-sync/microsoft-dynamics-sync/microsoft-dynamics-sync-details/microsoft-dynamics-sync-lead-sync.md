@@ -44,4 +44,4 @@ Marketo到Dynamics同步功能超強。 詳情如下：
 
 ## Marketo會遵守Dynamics驗證規則嗎？ {#will-marketo-respect-the-dynamics-validation-rules}
 
-是。 如果資料格式錯誤或缺少必要欄位資訊，同步將會失敗。 如果發生此情況，Marketo會將結果記錄在人員的活動記錄中。
+是. 如果資料格式錯誤或缺少必要欄位資訊，同步將會失敗。 如果發生此情況，Marketo會將結果記錄在人員的活動記錄中。

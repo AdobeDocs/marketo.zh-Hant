@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## [是匿名篩選器](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-已為智慧清單移除「匿名」篩選器。 如需詳細資訊，請參閱[新一代Munchkin追蹤常見問題集](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)檔案。 此變更不會影響Web個人化(RTP),RTP會繼續識別匿名和已知的Web訪客，並對這些訪客即時個人化內容。
+已為智慧清單移除「匿名」篩選器。 請參閱 [新一代Munchkin追蹤常見問題集](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) 檔案以取得詳細資訊。 此變更不會影響Web個人化(RTP),RTP會繼續識別匿名和已知的Web訪客，並對這些訪客即時個人化內容。
 
 ## [資料庫儀表板](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md) {#database-dashboard}
 
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
-## [Microsoft Edge瀏覽器](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
+## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-已將Microsoft Edge新增至Marketo支援的[瀏覽器清單](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)。
+我們已將Microsoft Edge新增至 [瀏覽器清單](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) 受Marketo支援。
 
-## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
+## [Microsoft2016年展望](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-[現已支援Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) 。
+[Microsoft2016年展望](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) 現已支援。
 
 ## [電子郵件計劃開始](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ## [行動行銷增強功能](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap支援：** 我們現在為您的行動應用程式提供PhoneGap支援。[更多詳情](https://developers.marketo.com/documentation/mobile/phonegap-plugin/)。
+**PhoneGap支援：** 我們現在為您的行動應用程式提供PhoneGap支援。 [了解更多](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **支援沙箱應用程式**:
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ## [Microsoft Dynamics增強功能](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-**[同步狀態](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**:制定同步過程的當前吞吐量和積壓。按對象的插入和更新次數劃分。
+**[同步狀態](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**:制定同步過程的當前吞吐量和積壓。 按對象的插入和更新次數劃分。
 
 ![](assets/pending-backog-cropped.png)
 
@@ -76,7 +76,7 @@ ht-degree: 0%
 
 ## [Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook銷](https://www.facebook.com/business/a/lead-ads) 售機會廣告是企業在Facebook上執行銷售機會開發行銷活動的更直接方式。人們會填寫表格來表達對產品或服務的興趣，讓企業可以跟進。 Marketo與Facebook Lead Ads的整合會自動擷取銷售機會在Lead Ads表單中提供的資訊。 之後，您就可以使用新的「填出Facebook銷售機會廣告」觸發器，自動執行後續動作和通知。
+[Facebook銷售機會廣告](https://www.facebook.com/business/a/lead-ads) 是企業在Facebook上執行銷售機會開發行銷活動的更直接方式。 人們會填寫表格來表達對產品或服務的興趣，讓企業可以跟進。 Marketo與Facebook Lead Ads的整合會自動擷取銷售機會在Lead Ads表單中提供的資訊。 之後，您就可以使用新的「填出Facebook銷售機會廣告」觸發器，自動執行後續動作和通知。
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 

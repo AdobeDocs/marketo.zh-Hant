@@ -1,69 +1,69 @@
 ---
-description: 配置 — Marketo文檔 — 產品文檔
+description: 設定 — Marketo檔案 — 產品檔案
 title: 設定
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
 source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '319'
+ht-degree: 1%
 
 ---
 
 # 設定 {#configuration}
 
-瞭解如何自定義聊天機對話框窗口的外觀。
+了解如何自訂聊天機器人對話方塊視窗的外觀與風格。
 
-要開始，請按一下 **配置**。
+若要開始，請按一下 **設定**.
 
 ![](assets/configuration-1.png)
 
-有幾種不同的自定義選項。
+有數種不同的自訂選項。
 
 ![](assets/configuration-2.png)
 
-## 樣式頁籤 {#style-tab}
+## 樣式標籤 {#style-tab}
 
 ### 樣式 {#style}
 
-您將在此處定義對話框的顯示外觀，包括：顏色、字型、bot小部件的位置以及chatbot的名稱/虛擬形象。
+您將在此處定義將顯示對話方塊的聊天機器人的外觀和風格，包括：顏色、字型、機器人介面工具集的放置，以及聊天機器人的名稱/頭像。
 
 每個類別的顏色由 [十六進位顏色值](https://color.adobe.com/create/color-wheel) (例如，白色= #ffffff、紅色= #bf1932等)。
 
 ![](assets/configuration-3.png)
 
-錨點允許站點訪問者開啟/關閉聊天框。 您可以選擇希望該表徵圖出現在右下角還是左下角。 還可以增加/減少填充（表徵圖與網頁底部之間的空間量）。
+錨點可讓您的網站訪客開啟/關閉動話方塊。 您可以選擇要讓該圖示顯示在右下方還是左下方。 您也可以增加/減少填補（圖示與網頁底部之間的空間量）。
 
 ![](assets/configuration-4.png)
 
 ### 專員設定 {#agent-settings}
 
-在「代理設定」中，可以向您的聊天框添加標籤(例如：&quot;Adobe機器人&quot;)。 您還可以確定響應延遲（秒），並更改聊天虛擬形象。 要上載您自己的虛擬形象影像，請按一下 **+** 按鈕
+在「代理設定」中，您可以將標籤新增至您的動話方塊(例如：「Adobe機器人」)，會顯示在頂端。 您也可以判斷回應延遲（以秒為單位），並變更您的聊天頭像。 若要上傳您自己的頭像影像，請按一下 **+** 按鈕。
 
 ![](assets/configuration-5.png)
 
 >[!NOTE]
 >
->自定義頭像應是小於256kb的方形影像，小於200x200像素。 支援的檔案類型包括：.jpg、.png、.gif、.webp、.svg。
+>自訂變身應為小於256kb和小於200x200px的方形影像。 支援的檔案類型包括：.jpg、.png、.gif、.webp、.svg。
 
-完成更改後，請記住按一下 **保存**。
+完成更改後，請記得按一下 **儲存**.
 
 ![](assets/configuration-6.png)
 
-## 隱私頁籤 {#privacy-tab}
+## 隱私權標籤 {#privacy-tab}
 
-按一下 **隱私** 頁籤，以添加/編輯站點隱私策略的URL（可選）。
+按一下 **隱私權** 頁簽來新增/編輯網站隱私權原則的URL（選用）。
 
 ![](assets/configuration-7.png)
 
-## 安裝頁籤 {#installation-tab}
+## 「安裝」頁簽 {#installation-tab}
 
-要使聊天機在您的網站上顯示，您首先需要安裝動態聊天JavaScript代碼段。 按一下此頁籤查找/複製所需代碼。 如果您不熟悉此操作，請聯繫您的Web團隊或IT部門以獲得幫助。
+若要讓聊天機器人顯示在您的網站上，您必須先安裝動態聊天JavaScript程式碼片段。 按一下此標籤可尋找/複製必要的程式碼。 如果您不熟悉此操作，請聯繫您的Web團隊或IT部門尋求幫助。
 
 ![](assets/configuration-8.png)
 
 >[!TIP]
 >
->如果您的站點使用內容安全策略，則可能需要將以下URL白名單列出，以便查看機器人能夠按預期工作：
+>若您的網站使用內容安全性原則，您可能需要將下列URL加入白名單，才能讓chatbot如預期般運作：
 >
 >* `*.adoberesources.net`
 >* `*.adobe.io`
@@ -72,4 +72,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo支援未設定為幫助診斷HTML。 有關HTML幫助，請咨詢Web開發人員。
+>Marketo支援未設定來協助疑難排解HTML。 如需HTML協助，請洽詢網頁開發人員。

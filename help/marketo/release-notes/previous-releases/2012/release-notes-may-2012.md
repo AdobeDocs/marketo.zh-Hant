@@ -34,11 +34,11 @@ ht-degree: 0%
 
 圖2. 封存電子郵件篩選的範例
 
-## iPad適用的新事件簽入應用程式 {#new-event-check-in-app-for-ipad}
+## 適用於iPad的新事件簽入應用程式 {#new-event-check-in-app-for-ipad}
 
-使用全新iPad應用程式簡化事件簽入程式！ 事件簽入應用程式會與您的Marketo程式同步，讓您輕鬆將註冊者簽入事件，並即時新增銷售機會。
+使用我們新的iPad應用程式簡化事件簽入程式！ 事件簽入應用程式會與您的Marketo程式同步，讓您輕鬆將註冊者簽入事件，並即時新增銷售機會。
 
-需要iOS 5.1或更新版本；僅限iPad。
+需要iOS 5.1或更新版本；僅iPad。
 
 ![](assets/image2014-9-23-10-3a14-3a46.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ## 增強網路研討會確認URL {#enhanced-webinar-confirmation-url}
 
-現已推出ON24和Adobe Connect! 使用新的`{{member.webinar URL}}`令牌，在每個已註冊參與者的確認電子郵件中包含唯一連結。 Adobe Connect增強功能也包含開啟/關閉Adobe帳戶資訊電子郵件的功能，電子郵件包含使用者的登入ID和密碼。
+現已推出ON24和Adobe Connect! 在確認電子郵件中包含每個已註冊參與者的唯一連結(使用 `{{member.webinar URL}}` 代號。 Adobe Connect增強功能也包含開啟/關閉Adobe帳戶資訊電子郵件的功能，電子郵件包含使用者的登入ID和密碼。
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -90,11 +90,11 @@ ht-degree: 0%
 
 ## Microsoft Dynamics® CRM整合 {#microsoft-dynamics-crm-integration}
 
-使用我們新的預先構建整合，在Marketo和Microsoft Dynamics CRM線上同步帳戶、聯繫人和銷售機會！
+使用我們新的預先建立整合，在Marketo和Microsoft Dynamics CRM線上同步帳戶、連絡人和銷售機會！
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
-圖11. Microsoft Dynamics配置
+圖11. Microsoft Dynamics設定
 
 ## Marketo Sales Insight增強功能 {#marketo-sales-insight-enhancements}
 
@@ -116,7 +116,7 @@ ht-degree: 0%
 
 ## 從Sales Insight訪問Opportunity Analyzer {#access-opportunity-analyzer-from-sales-insight}
 
-使用從Marketo Sales Insight直接訪問Opportunity Analyzer ，為您的銷售代表提供關於哪些營銷活動正在推動參與的深入分析。 注意。 需要Revenue Cycle Analytics授權。
+使用從Marketo Sales Insight直接訪問Opportunity Analyzer ，為您的銷售代表提供關於哪些營銷活動正在推動參與的深入分析。 備註. 需要Revenue Cycle Analytics授權。
 
 ## 聯繫人狀態的自定義欄位 {#custom-field-for-contact-status}
 

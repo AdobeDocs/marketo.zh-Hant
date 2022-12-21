@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147066
-description: 在智慧型促銷活動中覆寫人員限制-Marketo檔案——產品檔案
+description: 在智慧型行銷活動中覆寫人員限制 — Marketo檔案 — 產品檔案
 title: 在智慧型促銷活動中覆寫人員限制
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '138'
@@ -11,27 +10,27 @@ ht-degree: 0%
 
 ---
 
-# 在智慧型促銷活動中覆寫人員限制{#override-person-restrictions-in-a-smart-campaign}
+# 在智慧型促銷活動中覆寫人員限制 {#override-person-restrictions-in-a-smart-campaign}
 
-Marketo可讓您設定最多人數，讓您符合智慧型宣傳的資格；這有助於您避免意外以電子郵件寄送整個資料庫。 如果您想要&#x200B;_override_&#x200B;此限制，請參閱以下說明。
+Marketo可讓您設定符合智慧型行銷活動資格的人數上限；這可協助您避免意外傳送電子郵件給整個資料庫。 如果您想 _覆寫_ 這個限制，這是方法。
 
 >[!PREREQUISITES]
 >
->請務必在「Marketo管理員」中為智慧型促銷活動](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)啟用人員限制。[
+>一定要 [啟用智慧型行銷活動的人員限制](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) 在Marketo Admin中。
 
-1. 在「行銷活動」中，前往您的智慧型促銷活動，然後按一下「排程&#x200B;**」。**
+1. 在行銷活動中，前往您的智慧型行銷活動，然後按一下 **排程**.
 
    ![](assets/one.png)
 
-1. 在智慧型促銷活動設定中，按一下「編輯」**。**
+1. 在「智慧促銷活動設定」中，按一下 **編輯**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >預設限制是「管理」中設定的限制。
+   >預設限制為「管理」中設定的限制。
 
-1. 輸入新限制，然後按一下「保存」。****
+1. 輸入新限制，然後按一下 **儲存。**
 
    ![](assets/three.png)
 
@@ -39,4 +38,4 @@ Marketo可讓您設定最多人數，讓您符合智慧型宣傳的資格；這�
 
    >[!CAUTION]
    >
-   >請小心這項功能，以免意外包含太多人。
+   >請小心此功能，以免意外納入太多人員。

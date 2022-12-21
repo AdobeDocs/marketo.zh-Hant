@@ -14,13 +14,13 @@ ht-degree: 0%
 
 』17年春季版包含下列功能。 查看您的Marketo版本以了解功能可用性。
 
-請按一下標題連結，以檢視每項功能的詳細文章。 **注意**:如果主題有多個子標題，則連結會放在該處。
+請按一下標題連結，以檢視每項功能的詳細文章。 **附註**:如果主題有多個子標題，則連結會放在該處。
 
 ## [linkedIn引領Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[linkedIn Lead Gen ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Form是企業在LinkedIn上執行銷售機會開發行銷活動的更直接方式。人們可以填寫表單來表達對產品或服務的興趣，使企業能夠捕獲人員的詳細資訊並將其同步到Marketo，在那裡可以執行自動化的後續流程和銷售線索傳送活動。
+[linkedIn引領Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) 是企業在LinkedIn上執行銷售機會開發行銷活動的更直接方式。 人們可以填寫表單來表達對產品或服務的興趣，使企業能夠捕獲人員的詳細資訊並將其同步到Marketo，在那裡可以執行自動化的後續流程和銷售線索傳送活動。
 
-Marketo與LinkedIn Lead Gen Forms的整合會自動擷取銷售機會在Lead Gen表單中提供的資訊。 然後，可使用新的&#x200B;**填出LinkedIn銷售機會代表表單**&#x200B;觸發和篩選器，自動執行後續動作和通知。
+Marketo與LinkedIn Lead Gen Forms的整合會自動擷取銷售機會在Lead Gen表單中提供的資訊。 之後，您就可以使用新的 **填寫LinkedIn Lead Gen表** 觸發並篩選。
 
 ![](assets/release-notes-image.png)
 

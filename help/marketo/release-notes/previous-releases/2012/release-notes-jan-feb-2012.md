@@ -71,7 +71,7 @@ _適用於Pro和Enterprise版本_
 * Mozilla Firefox 9.0
 * Google Chrome 16
 * Microsoft Internet Explorer 8和9
-* **注意**:不再支援Internet Explorer 7
+* **附註**:不再支援Internet Explorer 7
 
 ## 方案管理 {#program-management}
 

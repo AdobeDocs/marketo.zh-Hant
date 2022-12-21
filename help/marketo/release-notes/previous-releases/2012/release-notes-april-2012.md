@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 只需按一下即可上傳多個影像和檔案！ {#upload-multiple-images-and-files-with-a-single-click}
 
-將影像和檔案匯入Marketo時節省時間並提高效率！ 如果您使用Firefox或Google Chrome，則可以多選檔案並一次上傳所有檔案。 雖然您可上傳的檔案數量沒有限制，但每個檔案的個別大小限制為50MB。
+將影像和檔案匯入Marketo時節省時間並提高效率！ 如果您使用Firefox或Google Chrome，則可以多選檔案並一次上傳全部。 雖然您可上傳的檔案數量沒有限制，但每個檔案的個別大小限制為50MB。
 
 注意：目前，由於瀏覽器的限制，Internet Explorer不支援此功能。
 

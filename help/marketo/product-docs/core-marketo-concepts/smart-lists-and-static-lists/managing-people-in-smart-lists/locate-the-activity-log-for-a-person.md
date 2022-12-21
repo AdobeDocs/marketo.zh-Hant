@@ -14,19 +14,19 @@ ht-degree: 0%
 
 活動記錄是真相的最終來源。 這是一個人在Marketo旅行的完整故事。
 
-1. 轉至&#x200B;**Database**。
+1. 前往 **資料庫**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. 選擇&#x200B;**所有人**。
+1. 選擇 **所有人**.
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. 按一下&#x200B;**People**&#x200B;標籤。 選擇人員&#x200B;**Id**&#x200B;數字。
+1. 按一下 **人員** 標籤。 選擇人員 **Id** 數字。
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. 按一下「**活動日誌**」。
+1. 按一下 **活動記錄**.
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 
@@ -48,4 +48,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >深入了解[篩選活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)以查看特定人員活動。
+   >深入了解 [篩選活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) 查看特定人員活動。

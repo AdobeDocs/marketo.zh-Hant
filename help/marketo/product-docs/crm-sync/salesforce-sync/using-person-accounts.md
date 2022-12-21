@@ -32,15 +32,15 @@ ht-degree: 0%
 
 ## 如何區分業務帳戶和人員帳戶？ {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-在智慧清單中使用&#x200B;**是人員帳戶**&#x200B;篩選器，將人員帳戶與標準業務帳戶分開。
+使用 **是人員帳戶** 在智慧清單中進行篩選，將人員帳戶與標準業務帳戶分開。
 
 ## 我的人員帳戶資訊在Marketo Sales Insight中顯示於何處？ {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-與人員帳戶相關的活動顯示在&#x200B;**Account**&#x200B;面板中。
+與人員帳戶相關的活動顯示在 **帳戶** 中。
 
 >[!NOTE]
 >
->Marketo Sales Insight的&#x200B;**新增至Marketo促銷活動**&#x200B;和&#x200B;**傳送電子郵件**&#x200B;選項目前不適用於人員帳戶。
+>Marketo Sales Insight的 **新增至Marketo Campaign** 和 **傳送電子郵件** 當前無法用於人員帳戶的選項。
 
 ## 如何將機會與人員帳戶關聯？ {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -48,4 +48,4 @@ Marketo取決於機會聯繫人角色，以確定要將該機會關聯到哪個�
 
 ## 我應將哪個電子郵件欄位用於人員帳戶？ {#which-email-field-should-i-use-for-person-accounts}
 
-人員帳戶有兩個電子郵件欄位。 使用表單中的&#x200B;**電子郵件地址**&#x200B;欄位（非&#x200B;**人員電子郵件地址**），確保Marketo的重複資料消除和其他電子郵件處理正常運作。
+人員帳戶有兩個電子郵件欄位。 使用 **電子郵件地址** 欄位(而非 **人員電子郵件地址**)，以確保Marketo的重複資料刪除和其他電子郵件處理正常運作。

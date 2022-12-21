@@ -42,7 +42,7 @@ LeanData整合現在可在Marketo中進行銷售機會對帳戶比對。 通過�
 
 **[促銷活動預覽增強功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-行銷從業人員現在可以確保在&#x200B;*啟動之前，其Web促銷活動在所有裝置上都看起來很棒。*&#x200B;透過這些增強功能，了解您的網頁行銷活動在案頭、行動裝置和平板電腦上的呈現方式。 Chrome新外掛程式也提供更一致且精確的預覽。
+行銷從業人員現在可確保其Web行銷活動在任何裝置上都看起來絕佳 *befor* 啟動它們。 透過這些增強功能，了解您的網頁行銷活動在案頭、行動裝置和平板電腦上的呈現方式。 Chrome新外掛程式也提供更一致且精確的預覽。
 
 **[介面工具集促銷活動增強功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
@@ -62,8 +62,8 @@ LeanData整合現在可在Marketo中進行銷售機會對帳戶比對。 通過�
 
 **電子郵件前瞻分析增強功能**
 
-透過新方式準備和共用資料，讓您的電子郵件深入分析體驗發揮更大效益。 您現在可以將「電子郵件分析」結果下載至Microsoft Excel和PowerPoint，以處理Marketo以外的資料。
+透過新方式準備和共用資料，讓您的電子郵件深入分析體驗發揮更大效益。 您現在可以將「電子郵件前瞻分析」結果下載至Microsoft Excel和PowerPoint，以處理Marketo以外的資料。
 
 ## 同盟身分設定支援 {#federated-identity-configuration-support}
 
-將身份驗證(Active Directory)保留在防火牆的內部部署之後，同時繼續在雲中使用Microsoft Dynamics CRM。
+將驗證(Active Directory)保留在防火牆的內部部署之後，同時繼續在雲中使用Microsoft Dynamics CRM。

@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359858
-description: 將影像和檔案新增至行銷人員——行銷人員檔案——產品檔案
-title: 將影像和檔案新增至Marketo
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: 新增影像和檔案至Marketo - Marketo檔案 — 產品檔案
+title: 新增影像和檔案至Marketo
+exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
+# 新增影像和檔案至Marketo {#add-images-and-files-to-marketo}
 
-# 將影像和檔案新增至Marketo {#add-images-and-files-to-marketo}
+一次添加多個影像和檔案很容易。
 
-一次新增多個影像和檔案很簡單。
-
-1. 前往&#x200B;**Design Studio**。
+1. 前往 **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. 在&#x200B;**New**&#x200B;下，按一下&#x200B;**Upload Image**&#x200B;或&#x200B;**File**。
+1. 在 **新增**，按一下 **上傳影像** 或 **檔案**.
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
-1. 選擇要儲存影像或檔案的資料夾，然後按一下&#x200B;**瀏覽**。
+1. 選擇要儲存影像或檔案的資料夾，然後按一下 **瀏覽**.
 
    ![](assets/image2014-9-15-18-3a6-3a21.png)
 
@@ -31,11 +30,11 @@ ht-degree: 0%
    >
    >每個檔案的最大大小為100MB。
 
-1. 若要新增多個影像和檔案，請瀏覽至您電腦上的正確資料夾，按&#x200B;**Ctrl/Cmd**&#x200B;並按一下您要新增的每個檔案，然後按一下&#x200B;**開啟**。
+1. 要添加多個影像和檔案，請瀏覽到電腦上的正確資料夾，按 **Ctrl/Cmd** 並按一下您要新增的每個檔案，然後按一下 **開啟**.
 
    ![](assets/image2014-9-15-18-3a6-3a58.png)
 
-1. 展開&#x200B;**File Details**&#x200B;以確認您選擇了正確的映像，然後按一下&#x200B;**Upload**。
+1. 展開 **檔案詳細資訊** 要驗證您選擇的映像是否正確，請按一下 **上傳**.
 
    ![](assets/image2014-9-15-18-3a7-3a22.png)
 
@@ -45,22 +44,22 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Marketo會在上傳前掃描所有檔案；將跳過感染病毒的檔案。
+   >Marketo會先掃描所有檔案，再上傳；將跳過感染病毒的檔案。
 
-1. 上載完成時，按一下&#x200B;**完成**。
+1. 上傳完成時，按一下 **完成**.
 
    ![](assets/image2014-9-15-18-3a8-3a34.png)
 
-1. 您的影像現在可用於促銷活動電子郵件和登陸頁面。
+1. 您的影像現在可用於行銷活動電子郵件和登錄頁面。
 
    ![](assets/image2014-9-15-18-3a8-3a45.png)
 
-幹得漂亮！
+幹得好！
 
 >[!NOTE]
 >
->雖然Marketo接受所有檔案類型以進行上傳，但僅能使用主要影像類型（JPG、PNG、GIF等） 將在我們的電子郵件編輯工作。
+>雖然Marketo接受所有要上傳的檔案類型，但只有主要影像類型(JPG、PNG、GIF等) 在電子郵件編輯器中運作。
 
 >[!MORELIKETHIS]
 >
->[使用資料夾組織您的影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
+>[使用資料夾組織影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)

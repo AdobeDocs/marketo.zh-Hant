@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 範本4A {#template-4a}
 
-按一下右鍵[下載模板4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
+按一下右鍵以 [下載範本4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
 
 ![](assets/image2015-6-29-16-3a2-3a6.png)
 

@@ -1,43 +1,44 @@
 ---
-description: 從Sales Insight Actions -Marketo文檔 — 產品文檔中斷開Salesforce
-title: 從Sales Insight操作斷開Salesforce
+description: 將Salesforce與Sales Insight Actions - Marketo檔案 — 產品檔案斷開連接
+title: 斷開Salesforce與Sales Insight操作的連接
 hide: true
 hidefromtoc: true
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
+source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# 從Sales Insight操作斷開Salesforce {#disconnect-salesforce-from-sales-insight-actions}
+# 斷開Salesforce與Sales Insight操作的連接 {#disconnect-salesforce-from-sales-insight-actions}
 
-有時，您可能需要從Sales Insight Actions帳戶中斷開Salesforce帳戶。 這是方法。
+有時您可能需要將Salesforce帳戶與Sales Insight Actions帳戶斷開連接。 這是方法。
 
-## 如何以管理員身份斷開與Salesforce的連接 {#how-to-disconnect-from-salesforce-as-an-admin}
+## 如何以管理員身分與Salesforce斷開連線 {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. 在Sales Insight Actions中，按一下右上角的齒輪表徵圖，然後選擇 **設定**。
+1. 在Sales Insight Actions中，按一下右上角的齒輪圖示並選取 **設定**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-1.png)
 
-1. 在「Admin Settings（管理設定）」下，按一下 **Salesforce**。
+1. 在「管理設定」下，按一下 **Salesforce**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
-1. 在「連接和自定義」頁籤中，按一下 **斷開**。
+1. 在「連線與自訂」標籤中，按一下 **斷開連接**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
-## 如何以非管理員身份從Salesforce斷開連接 {#how-to-disconnect-from-salesforce-as-a-non-admin}
+## 如何以非管理員身分從Salesforce中斷連線 {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. 在Sales Insight Actions中，按一下右上角的齒輪表徵圖，然後選擇 **設定**。
+1. 在Sales Insight Actions中，按一下右上角的齒輪圖示並選取 **設定**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
-1. 在「我的帳戶」下，選擇 **Salesforce**。
+1. 在「我的帳戶」下，選擇 **Salesforce**.
 
 PICC
 
-1. 在「連接和自定義」頁籤中，按一下 **斷開**。
+1. 在「連線與自訂」標籤中，按一下 **斷開連接**.
 
 PICC

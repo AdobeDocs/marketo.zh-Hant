@@ -14,8 +14,8 @@ ht-degree: 0%
 ---
 
 
-# 用於內部使用的元資料
+# 供內部使用的中繼資料
 
-metadata.md檔案包括傳遞到回購協定中的使用手冊TOC.md檔案的回購級元資料。 如果要更改任何使用手冊的metadata.md內容，請在任何TOC.md檔案中進行更改。
+metadata.md檔案包含存放庫層級中繼資料，這些中繼資料會傳遞至存放庫中的使用手冊TOC.md檔案。 如果您想要變更任何使用手冊的metadata.md內容，請在任何TOC.md檔案中變更。
 
-請參閱 [元資料](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en) 的 **解決方案**。 **產品**, **類型**。
+請參閱 [中繼資料](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en) 的有效值清單 **解決方案**, **產品**，和 **type**.

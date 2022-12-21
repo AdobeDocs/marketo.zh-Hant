@@ -1,5 +1,5 @@
 ---
-description: 更改您的Marketo銷售密碼 — Marketo文檔 — 產品文檔
+description: 變更Marketo銷售密碼 — Marketo檔案 — 產品檔案
 title: 更改您的Marketo銷售密碼
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 ## 登錄時更改密碼 {#change-your-password-while-signed-in}
 
-1. 按一下齒輪表徵圖並選擇 **設定**。
+1. 按一下齒輪圖示並選取 **設定**.
 
    ![](assets/change-your-marketo-sales-password-1.png)
 
-1. 預設情況下將開啟「我的概要檔案」頁。 在帳戶詳細資訊下，選擇 **更改密碼** 複選框。
+1. 「我的配置檔案」頁預設會開啟。 在「帳戶詳細資訊」下，選取 **更改密碼** 核取方塊。
 
    ![](assets/change-your-marketo-sales-password-2.png)
 
-1. 輸入當前密碼。 然後輸入新的，然後重新鍵入，確保它們匹配。 按一下 **保存** 完成。
+1. 輸入您當前的密碼。 然後輸入新的，並重新輸入，以確保兩者相符。 按一下 **儲存** 時才能使用。
 
    ![](assets/change-your-marketo-sales-password-3.png)
 
@@ -31,34 +31,34 @@ ht-degree: 0%
 >
 >密碼必須：
 >
->* 至少包含九個字元
+>* 至少包含9個字元
 >* 使用混合大小寫（UPPER和LOWER）
 >* 包括數字
->* 包括特殊字元
+>* 包含特殊字元
 
 
 ## 註銷時更改密碼 {#change-your-password-while-signed-out}
 
-1. 導航到 [Sales Connect登錄](https://toutapp.com/login) 的子菜單。 輸入您的電子郵件地址，然後按一下 **登錄**。
+1. 導覽至 [Sales Connect登錄](https://toutapp.com/login) 頁面。 輸入您的電子郵件地址，然後按一下 **登入**.
 
    ![](assets/change-your-marketo-sales-password-4.png)
 
-1. 按一下 **忘記密碼**。
+1. 按一下 **忘記密碼**.
 
    ![](assets/change-your-marketo-sales-password-5.png)
 
-1. 輸入與帳戶關聯的電子郵件地址，然後按一下 **發送重置電子郵件**。
+1. 輸入與帳戶相關聯的電子郵件地址，然後按一下 **傳送重設電子郵件**.
 
    ![](assets/change-your-marketo-sales-password-6.png)
 
-1. 我們將發送電子郵件以驗證帳戶所有者是否要更改密碼。 按一下 **重置密碼**。
+1. 我們會傳送電子郵件，確認帳戶擁有者想要變更密碼。 按一下 **重設密碼**.
 
    ![](assets/change-your-marketo-sales-password-7.png)
 
    >[!NOTE]
    >
-   >請確保也檢查您的垃圾郵件資料夾，因為此電子郵件有時會最終到達該資料夾。
+   >請務必也檢查您的垃圾郵件資料夾，因為此電子郵件有時會結束。
 
-1. 輸入並確認新密碼。 按一下 **設定密碼** 完成。
+1. 輸入並確認您的新密碼。 按一下 **設定密碼** 時才能使用。
 
    ![](assets/change-your-marketo-sales-password-8.png)

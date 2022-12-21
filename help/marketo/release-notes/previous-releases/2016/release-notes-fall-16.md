@@ -52,7 +52,7 @@ ht-degree: 0%
 
 **REST API**
 
-此版本也可讓您使用Marketo REST API在ABM中管理指名的帳戶屬性和帳戶分數。 如需API操作的詳細資訊，請造訪[Marketo開發人員網站](https://developers.marketo.com/rest-api/lead-database/named-accounts)。
+此版本也可讓您使用Marketo REST API在ABM中管理指名的帳戶屬性和帳戶分數。 如需有關API操作的詳細資訊，請造訪 [Marketo開發人員網站](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [稽核軌跡增強功能](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 **編輯促銷活動限制**
 
-如果您無法強制執行，為何要設定[促銷活動限制](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)? 當您設定「促銷活動限制設定」以限制資料庫中可以以單一促銷活動定位的人數時，您現在可以限制哪些使用者可以在排程促銷活動時覆寫這些設定。
+為何設定 [行銷活動限制](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) 如果你不能強制執行？ 當您設定「促銷活動限制設定」以限制資料庫中可以以單一促銷活動定位的人數時，您現在可以限制哪些使用者可以在排程促銷活動時覆寫這些設定。
 
 ## [行動推播通知的音效](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 
 ## [與Salesforce加密相容的Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight現在與Salesforce Shield Encryption相容。 所有Sales Insight客戶應升級到此最新的受管理軟體包（1.4359.2版），該軟體包[可在Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)上獲得。
+Market Sales Insight現在與Salesforce Shield Encryption相容。 所有Sales Insight客戶應升級到這個最新的受管理套件（1.4359.2版），即 [可在Appexchange上取得](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
 ## [指定帳戶API](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
@@ -94,4 +94,4 @@ Market Sales Insight現在與Salesforce Shield Encryption相容。 所有Sales I
 
 ## [變更Marketo Salesforce同步](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Marketo的Salesforce整合正在改善Marketo欄位與Salesforce同步的方式。 現在，您不必同步可能或可能不需要的大型欄位群組，而是可以挑選並選擇要包含的欄位。 如需詳細資訊，請前往這裡查看我們的檔案：[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840)。
+Marketo的Salesforce整合正在改善Marketo欄位與Salesforce同步的方式。 現在，您不必同步可能或可能不需要的大型欄位群組，而是可以挑選並選擇要包含的欄位。 如需詳細資訊，請前往這裡查看我們的檔案： [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板3D {#template-3d}
 
-按一下右鍵[下載模板3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+按一下右鍵以 [下載模板3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板13D {#template-13d}
 
-按一下右鍵[下載模板13D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html)
+按一下右鍵以 [下載模板13D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html)
 
 ![](assets/image2015-8-11-14-3a17-3a5.png)
 

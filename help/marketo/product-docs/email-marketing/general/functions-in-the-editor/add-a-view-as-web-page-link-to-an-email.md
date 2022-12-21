@@ -1,42 +1,41 @@
 ---
 unique-page-id: 1900560
-description: 將「檢視為網頁」連結新增至電子郵件——行銷人員檔案——產品檔案
-title: 將「檢視為網頁」連結新增至電子郵件
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: 將檢視新增至電子郵件的網頁連結 — Marketo檔案 — 產品檔案
+title: 將檢視新增為電子郵件的網頁連結
+exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
+# 將檢視新增為電子郵件的網頁連結 {#add-a-view-as-web-page-link-to-an-email}
 
-# 將「檢視為網頁」連結新增至電子郵件{#add-a-view-as-web-page-link-to-an-email}
-
-電子郵件的功能有限（CSS有限，沒有JavaScript或表格）。 使用「檢視為網頁」提供在瀏覽器中顯示電子郵件的連結。 這會使用Munchkin將收件者Cookie化。
+電子郵件的功能有限（CSS有限，沒有JavaScript或表單）。 使用「檢視為網頁」提供在瀏覽器中顯示電子郵件的連結。 這會使用Munchkin對收件者進行Cookie。
 
 >[!NOTE]
 >
->建立新電子郵件時，「檢視為網頁」未啟用。 如果您啟用並複製電子郵件，則會複製此設定。
+>建立新電子郵件時，未啟用「以網頁形式檢視」。 如果您啟用並複製電子郵件，則會複製此設定。
 
-1. 選擇您的電子郵件，然後按一下「編輯草稿」。****
+1. 選取您的電子郵件，然後按一下 **編輯草稿**.
 
    ![](assets/one-5.png)
 
-1. 在電子郵件編輯器中，按一下&#x200B;**電子郵件設定**。
+1. 在電子郵件編輯器中，按一下 **電子郵件設定**.
 
    ![](assets/two-5.png)
 
-1. 選中「Include View as Web Page **（包括視圖為Web頁）」框，然後按一下「Save**（保存&#x200B;**）」。**
+1. 檢查 **將檢視包含為網頁** 框，按一下 **儲存**.
 
    ![](assets/three-4.png)
 
-以下是其外觀範例：
+以下是其外觀的範例：
 
 ![](assets/four-3.png)
 
 >[!TIP]
 >
->在您傳送電子郵件之前，您不會看到「檢視為網頁」連結。 傳送測試給您自己檢視。
+>在您傳送電子郵件之前，不會看到「以網頁形式檢視」連結。 傳送測試給您自己以檢視。
 
-要更改預設文本，請參閱[編輯「以Web頁面形式查看」消息](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)。
+若要變更預設文字，請參閱 [編輯「以網頁形式檢視」訊息](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).

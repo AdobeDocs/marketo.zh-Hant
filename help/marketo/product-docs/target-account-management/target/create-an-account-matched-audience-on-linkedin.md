@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # 在LinkedIn上建立符合帳戶的對象 {#create-an-account-matched-audience-on-linkedin}
 
-從您的TAM帳戶清單中建立[LinkedIn廣告鎖定目標](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting)的帳戶相符對象。 linkedIn會將清單與其系統中的帳戶相符，而您可以根據該帳戶清單建立LinkedIn對象，以便在LinkedIn管道中啟用。 這可讓行銷人員鎖定資料庫內或資料庫外的人員。
+從您的TAM帳戶清單建立符合帳戶的對象 [linkedIn廣告鎖定](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). linkedIn會將清單與其系統中的帳戶相符，而您可以根據該帳戶清單建立LinkedIn對象，以便在LinkedIn管道中啟用。 這可讓行銷人員鎖定資料庫內或資料庫外的人員。
 
 >[!PREREQUISITES]
-[將LinkedIn相符的對象新增為LaunchPoint服務](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)>
 >
+>[將LinkedIn相符的對象新增為LaunchPoint服務](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
-1. 在TAM中，按一下&#x200B;**帳戶清單**&#x200B;標籤。
+1. 在TAM中，按一下 **帳戶清單** 標籤。
 
    ![](assets/create-a-matched-audience-on-linkedin-1.png)
 
@@ -26,27 +26,28 @@ ht-degree: 0%
 
    ![](assets/create-a-matched-audience-on-linkedin-2.png)
 
-1. 按一下&#x200B;**帳戶清單動作**&#x200B;下拉式清單，然後選取&#x200B;**透過AdBridge**&#x200B;傳送。
+1. 按一下 **帳戶清單動作** 下拉式清單並選取 **透過AdBridge傳送**.
 
    ![](assets/create-a-matched-audience-on-linkedin-3.png)
 
-1. 選擇&#x200B;**LinkedIn**&#x200B;並按一下&#x200B;**Next**。
+1. 選擇 **linkedIn** 按一下 **下一個**.
 
    ![](assets/create-a-matched-audience-on-linkedin-4.png)
 
-1. 按一下&#x200B;**Audience**&#x200B;下拉式清單。 您可以選取現有對象或建立新對象。 在此範例中，我們將建立新對象（如果您選取現有對象，請跳至步驟7）。
+1. 按一下 **對象** 下拉式清單。 您可以選取現有對象或建立新對象。 在此範例中，我們將建立新對象（如果您選取現有對象，請跳至步驟7）。
 
    ![](assets/create-a-matched-audience-on-linkedin-5.png)
 
-1. 按一下&#x200B;**廣告帳戶**&#x200B;下拉式清單，然後選取目標廣告帳戶。
+1. 按一下 **廣告帳戶** 下拉式清單，然後選取目標廣告帳戶。
 
    ![](assets/create-a-matched-audience-on-linkedin-6.png)
 
-1. 為您的對象命名，然後按一下&#x200B;**Update**。
+1. 為對象命名，然後按一下 **更新**.
 
    ![](assets/create-a-matched-audience-on-linkedin-7.png)
 
 就這樣。 您的帳戶清單已推送至LinkedIn
 
 >[!MORELIKETHIS]
-[使用Marketo清單或智慧清單作為LinkedIn對象區段](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>
+>[使用Marketo清單或智慧清單作為LinkedIn對象區段](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)

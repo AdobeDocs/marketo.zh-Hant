@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504736
-description: Install Marketo for Microsoft Dynamics 2015 On-Premises Step 1 of 3 - Marketo Docs - Product Documentation
+description: 安裝Marketo for Microsoft Dynamics 2015內部部署步驟1（共3個） — Marketo檔案 — 產品檔案
 title: 安裝Marketo for Microsoft Dynamics 2015內部部署步驟1（共3個）
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
@@ -10,25 +10,25 @@ ht-degree: 0%
 
 ---
 
-# Step 1 of 3: Configure Sync User for Marketo (2015 On-Prem) {#step-of-configure-sync-user-for-marketo-on-premises-2015}
+# 第1步（共3步）:設定Marketo的同步使用者（2015年上線） {#step-of-configure-sync-user-for-marketo-on-premises-2015}
 
 您必須先在Dynamics中安裝Microsoft解決方案，才能將Marketo Dynamics 2015內部部署與Marketo同步。
 
 >[!NOTE]
 >
->After you sync Marketo to a CRM, you cannot sync a new CRM to the existing Marketo instance.
+>將Marketo同步至CRM後，無法將新CRM同步至現有的Marketo例項。
 
 >[!PREREQUISITES]
 >
->If you&#39;re using Microsoft Dynamics On-Premise, you must have [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) configured. Note: The IFD document downloads automatically when you click the link.
+>如果您使用Microsoft Dynamics On-Premise，您必須 [面向Internet的部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD)與 [Active Directory聯合身份驗證服務](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+(ADFS)已配置。 注意：當您按一下連結時，IFD文檔會自動下載。
 >
->[Download the Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) before you start.
+>[下載Marketo銷售機會管理解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 開始之前。
 
 >[!NOTE]
 >
->**Dynamics Admin Permissions required.**
+>**需要Dynamics管理員權限。**
 >
->You need CRM administrator privileges to perform this sync.
+>您需要CRM管理員權限才能執行此同步。
 
 1. 登入 **動態。** 按一下 **Microsoft Dynamics CRM** 下拉式功能表，然後選取 **設定**.
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/step6.png)
 
-1. Back on the Solution Information page, click **Next**.
+1. 返回「解決方案資訊」頁面，按一下 **下一個**.
 
    ![](assets/image2015-3-19-9-21-50.png)
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >You may see a message saying &quot;Marketo Lead Management completed with warning&quot;. 這是完全預期的。
+   >您可能會看到一則訊息，指出「Marketo銷售機會管理已完成並出現警告」。 這是完全預期的。
 
    ![](assets/image2015-3-13-9-54-39.png)
 

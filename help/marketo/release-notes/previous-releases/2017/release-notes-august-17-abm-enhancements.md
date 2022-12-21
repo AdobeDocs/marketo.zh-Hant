@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ## 帳戶分析 {#account-insight}
 
-**[Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** 是Google Chrome外掛程式，可向您的銷售團隊顯示可操作的ABM和帳戶分析，讓他們能與行銷密切合作，以有效吸引客戶。銷售團隊將能洞察為每個指定帳戶產生的資料和深入分析。 這包括帳戶分數百分比、其指定帳戶的優先清單、這些帳戶中的參與人員，以及帳戶中最近活動的即時活動資料流。
+**[帳戶分析](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** 是Google Chrome外掛程式，可向您的銷售團隊顯示可操作的ABM和帳戶分析，讓他們能與行銷密切合作，以有效吸引客戶。 銷售團隊將能洞察為每個指定帳戶產生的資料和深入分析。 這包括帳戶分數百分比、其指定帳戶的優先清單、這些帳戶中的參與人員，以及帳戶中最近活動的即時活動資料流。
 
 ![](assets/image001.png) ![](assets/image002.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 
 ## [動態帳戶清單](/help/marketo/product-docs/target-account-management/target/account-lists.md) {#dynamic-account-lists}
 
-我們正在添加在ABM中建立帳戶清單的新方法。 除了現有帳戶清單，您現在可以建立從公開CRM帳戶檢視產生的動態帳戶清單。 「CRM帳戶檢視」是一組規則，在顯示帳戶時可作為篩選器。 例如，您可以使用它查找行業為Healthcare _且_&#x200B;收入超過$1億的帳戶。
+我們正在添加在ABM中建立帳戶清單的新方法。 除了現有帳戶清單，您現在可以建立從公開CRM帳戶檢視產生的動態帳戶清單。 「CRM帳戶檢視」是一組規則，在顯示帳戶時可作為篩選器。 例如，您可以使用它查找「行業」為「醫療保健」的帳戶 _和_ 收入超過1億美元。
 
 ![](assets/dynamic-account-list-menu-5b14-5d-copy.png)

@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >此功能將於4月28日星期二發行。
 
-新的[Analytics首頁](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)可讓您快速存取所有可用報表類型的臨機報表。
+新 [Analytics首頁](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) 可讓您在各種可用報表類型中，快速存取執行臨機報表。
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 [linkedIn Lead Accelerator整合](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-將您的領先培養策略擴展到付費展示和社交廣告。 [具有LinkedIn銷售機會加速器的廣告網路整合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)可讓您根據任何智慧或靜態清單的成員，安全地在LinkedIn中建立受眾區段。 接著，即可以一系列相關廣告來培育LinkedIn受眾區段內的成員。
+將您的領先培養策略擴展到付費展示和社交廣告。 此 [廣告網路整合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) 使用LinkedIn Lead Accelerator，您可以根據任何智慧或靜態清單的成員，安全地在LinkedIn中建立對象區段。 接著，即可以一系列相關廣告來培育LinkedIn受眾區段內的成員。
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
@@ -50,8 +50,8 @@ ht-degree: 0%
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 
-## RTP — 帳戶型行銷分析 {#rtp-account-based-marketing-analytics}
+## RTP - Account-Based Marketing Analytics {#rtp-account-based-marketing-analytics}
 
-**RTP — 帳戶型行銷分析**
+**RTP - Account-Based Marketing Analytics**
 
 根據購買週期中的每個階段，使用指定帳戶清單的新效能圖表，即時顯示關鍵指定帳戶清單的效能。 圖形會根據瀏覽次數和訪客狀態，顯示關鍵組織從從認知到動作的瀏覽階段。

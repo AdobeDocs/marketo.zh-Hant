@@ -1,47 +1,46 @@
 ---
 unique-page-id: 2359549
-description: 使用電子郵件計畫儀表板- A/B測試檢視——行銷人員檔案——產品檔案
-title: 使用電子郵件計畫儀表板- A/B測試視圖
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: 使用電子郵件方案控制面板 — A/B測試檢視 — Marketo檔案 — 產品檔案
+title: 使用電子郵件方案控制面板 — A/B測試檢視
+exl-id: c261bb05-db22-4f54-a30c-58963843584f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
+# 使用電子郵件方案控制面板 — A/B測試檢視 {#use-the-email-program-dashboard-a-b-test-view}
 
-# 使用Email Program Dashboard - A/B測試視圖{#use-the-email-program-dashboard-a-b-test-view}
-
-查看您的[電子郵件程式A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)如何使用此儀表板執行。
+查看您的 [電子郵件方案A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) 正在此控制面板中執行。
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
-## 傳送測試{#send-test}
+## 傳送測試 {#send-test}
 
-您可在此檢視依變數的傳遞總數和劃分。
+您可以在此處查看傳送的總計，以及依變體劃分。
 
 ![](assets/image2014-9-12-16-3a16-3a2.png)
 
-## 按一下{#clicks}
+## 點按次數 {#clicks}
 
-在這裡，您可以看到每個變體的點按次數。
+您可以在這裡查看每個變體有多少點按。
 
 ![](assets/image2014-9-12-16-3a16-3a20.png)
 
-## 按一下以開啟{#click-to-open}
+## 按一下以開啟 {#click-to-open}
 
-此圖表顯示開啟比率的點按。 （#點按次數/ #開啟）。
+此圖表顯示按一下以開啟比率。 （#點按/ #開啟）。
 
 ![](assets/image2014-9-12-16-3a16-3a36.png)
 
-## 摘要{#summary}
+## 摘要 {#summary}
 
-您可以在這裡看到各種變數的點按次數和取消訂閱的劃分，以方便比較。
+您可以在此查看點按和取消訂閱的劃分（依變數），以方便比較。
 
 ![](assets/image2014-9-12-16-3a16-3a45.png)
 
-儀表板不錯，你不覺得嗎？
+很酷的儀表板，你不覺得嗎？
 
 >[!MORELIKETHIS]
 >

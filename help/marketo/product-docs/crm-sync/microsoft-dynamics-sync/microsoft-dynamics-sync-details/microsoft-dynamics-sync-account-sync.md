@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 我可以使用Marketo建立帳戶嗎？ {#can-i-create-an-account-using-marketo}
 
-不。 Marketo無法在Dynamics中建立帳戶。
+否. Marketo無法在Dynamics中建立帳戶。
 
 ## 哪些欄位會同步至Marketo? {#which-fields-will-sync-to-marketo}
 

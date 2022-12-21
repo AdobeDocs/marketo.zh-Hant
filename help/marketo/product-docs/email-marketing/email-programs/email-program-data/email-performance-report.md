@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359467
-description: 電子郵件績效報告——行銷人員檔案——產品檔案
-title: 電子郵件績效報告
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: 電子郵件效能報表 — Marketo檔案 — 產品檔案
+title: 電子郵件效能報表
+exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 0%
 
 ---
 
+# 電子郵件效能報表 {#email-performance-report}
 
-# 電子郵件績效報告{#email-performance-report}
+若要查看您的電子郵件透過傳送、開啟、點按等統計資料的執行狀況，請建立「電子郵件效能報表」。
 
-若要查看您的電子郵件在傳送、開啟、點按等統計資料時的效能，請建立「電子郵件效能報表」。
-
-1. [在程式中建立報表，](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 並選取「電子郵 **件效** [能報表類型」](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
-1. [變更報表時間](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 範圍，然後按一下「報 **** 表」標籤。
-1. 你在那！ 現在請瀏覽報表，瞭解您的電子郵件的執行方式。
+1. [在方案中建立報表](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ，然後選取 **電子郵件效能** [報表類型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [變更報表時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 並按一下 **報表** 標籤。
+1. 你在那！ 現在，請探索報表，了解您的電子郵件的執行方式。
 
    >[!NOTE]
    >
@@ -27,42 +26,42 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >按一下電子郵件名稱，在「電子郵件預覽器」中將其開啟。
+   >按一下電子郵件的名稱，以在「電子郵件預覽器」中開啟它。
 
    >[!NOTE]
    >
-   >電子郵件績效報表包含所有人的活動，包括自電子郵件傳送以來已刪除的活動。 有時，您只想查看活動中人員的活動。 在這種情況下，您需要從報表中篩選已刪除的人。 使用&#x200B;**智慧型清單**&#x200B;標籤為報表建立智慧型清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)。 [如果您未在任何特定欄位上進行篩選，請將「電子郵件地址」篩選設為：**不為空**。
+   >電子郵件效能報表包含所有人員的活動，包括自電子郵件傳送以來已刪除的活動。 有時候，您只想查看作用中人員的活動。 在此情況下，您需要從報表中篩選已刪除的人員。 使用 **智慧清單** 標籤 [建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ，即可取得Advertising Cloud的說明。 如果您未篩選任何特定欄位，請將「電子郵件地址」篩選設為： **非空白**.
 
-   [為「電子郵](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 件績效」報表選擇報表欄包括：
+   [選取報表欄](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 對於「電子郵件效能」報表，包括：
 
    | 欄 | 說明 |
    |---|---|
-   | 硬性反彈 | 由於電子郵件地址不存在等永久條件，電子郵件被拒絕。 |
-   | 軟反彈 | 電子郵件因為暫時狀況而遭拒，例如伺服器關閉或收件匣已滿。 |
-   | 待定 | 此數字的計算方式是從「已傳送」總數中減去「已傳送」、「已彈回」和「已軟彈回」的電子郵件數。 |
-   | 已點按連結 | 按一下電子郵件中連結的電子郵件收件者數。 |
-   | 取消訂閱 | 按一下電子郵件中&#x200B;**取消訂閱**&#x200B;連結並填寫表單的電子郵件收件者數目。 |
+   | 硬跳出 | 由於永久條件（例如不存在的電子郵件地址），電子郵件被拒絕。 |
+   | 軟跳出 | 由於臨時條件（如伺服器關閉或收件匣完整），電子郵件遭拒。 |
+   | 待處理 | 此數字的計算方式為從「已傳送」總數減去「已傳送」、「已退信」和「已軟退信」的電子郵件數量。 |
+   | 已點按連結 | 按一下電子郵件中連結的電子郵件收件者數目。 |
+   | 退訂 | 已點按 **取消訂閱** 在電子郵件中連結，並填寫表單。 |
 
    >[!NOTE]
    >
-   >取消訂閱連結和電子郵件中被點按的電子郵件地址不會在報表的「點按連結」下註冊。
+   >在報表的「已點按連結」底下不會註冊取消訂閱連結和電子郵件地址，只要點按電子郵件即可。
 
-總的來說，我們試圖用常識記錄這些統計資料。 例如，如果某人點按了電子郵件中的連結，顯然會先開啟電子郵件。 我們遵循「電子郵件績效報告」的下列特定規則：
+一般來說，我們試圖用常識來記錄這些統計資料。 例如，如果有人按一下電子郵件中的連結，顯然是先開啟電子郵件。 我們在「電子郵件效能報表」中遵循下列特定規則：
 
-* **規則1**:每個電子郵件活動記錄都設為下列其中一項，且僅設為一項： _已交付_、 _硬性已反彈_、軟 _性已反彈_&#x200B;或 _待定_。
+* **規則1**:每個電子郵件活動記錄都設為下列其中一個，且僅為一個： _傳遞_, _硬跳出_, _軟跳出_，或 _待定_.
 
-* **規則2**:如果電子郵件記錄顯 *示「已開啟*」 *，則會計為「已*&#x200B;傳送」。
+* **規則2**:如果電子郵件記錄顯示 *已開啟*，則會計為 *傳遞*.
 
-* **第3條**:如果電子郵件記錄顯 _示「已點_ 按的電子郵 _件或取消_&#x200B;訂閱 __ 」，則會計為「已傳 _送」和「已_&#x200B;開啟」。
+* **規則3**:如果電子郵件記錄顯示 _已點按電子郵件_ 或 _已取消訂閱_，則會計為 _傳遞_ 和 _已開啟_.
 
-* **規則4**:如果電子郵件已 _開啟_，則會忽略彈回數。如果電子郵件未開啟，則&#x200B;_硬跳_&#x200B;優先於&#x200B;_軟跳_&#x200B;和&#x200B;_已遞送_。
+* **規則4**:如果電子郵件為 _已開啟_，則會忽略彈回數。 如果電子郵件尚未開啟， _硬跳出_ 優先於 _軟跳出_ 和 _傳遞_.
 
 >[!NOTE]
 >
->從相同促銷活動傳送至相同人員的多個促銷活動只會計算一次。
+>從相同促銷活動傳送至相同人員的多個訊息只會計算一次。
 
 >[!MORELIKETHIS]
 >
->* [篩選促銷活動電子郵件報表中的資產](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
->* [電子郵件連結效能報告](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+>* [篩選行銷活動電子郵件報表中的資產](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [電子郵件連結效能報表](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 

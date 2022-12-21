@@ -1,25 +1,24 @@
 ---
 unique-page-id: 14352503
-description: 共用範本——行銷檔案——產品檔案
+description: 共用範本 — Marketo檔案 — 產品檔案
 title: 共用範本
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 9640c9a6-00fc-4a7d-8366-f04f2b2483e4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
+# 共用範本 {#shared-templates}
 
-# 共用範本{#shared-templates}
+## 如何共用範本 {#how-to-share-a-template}
 
-## 如何共用範本{#how-to-share-a-template}
+如果您使用我們的其中一個團隊帳戶，預設情況下所有範本仍為私人帳戶。 按一下綠色 **共用** 按鈕，與團隊的其他成員共用。
 
-如果您使用我們的團隊帳戶，所有範本依預設仍為私人。 按一下範本上方的綠色&#x200B;**共用**&#x200B;按鈕，與團隊的其他人共用。
+## 如何尋找共用範本  {#how-to-find-shared-templates}
 
-## 如何查找共用模板{#how-to-find-shared-templates}
-
-已與您共用的範本會顯示在「範本」頁面左側的&#x200B;**團隊範本**&#x200B;標題下。
+已共用給您的範本會顯示在 **團隊範本** 頁首。
 
 >[!NOTE]
 >

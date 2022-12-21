@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板3C {#template-3c}
 
-按一下右鍵[下載模板3C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
+按一下右鍵以 [下載模板3C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
 
 ![](assets/image2015-6-15-11-3a20-3a37.png)
 

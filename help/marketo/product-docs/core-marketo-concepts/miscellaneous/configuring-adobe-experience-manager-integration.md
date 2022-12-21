@@ -1,7 +1,7 @@
 ---
 unique-page-id: 30081815
-description: 配置Adobe Experience Manager整合 — Marketo文檔 — 產品文檔
-title: 配置Adobe Experience Manager整合
+description: 設定Adobe Experience Manager整合 — Marketo檔案 — 產品檔案
+title: 設定Adobe Experience Manager整合
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# 配置Adobe Experience Manager整合 {#configuring-adobe-experience-manager-integration}
+# 設定Adobe Experience Manager整合 {#configuring-adobe-experience-manager-integration}
 
-配AEM置，以便您能夠訪問、選擇資AEM產並將其導入MarketoDesign Studio。
+設定AEM，以便存取、選取AEM資產，並將其匯入Marketo的Design Studio。
 
 >[!NOTE]
 >
@@ -22,24 +22,24 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->* 此整合僅適用於AEM Cloud Service實施的AEM本地實施，不支援。
+>* 此整合僅適用於AEM的內部部署實作，不支援AEM Cloud Service實作。
 >
->* 目前，此功能僅在Firefox中完全受支援。 Safari中不支援此功能，並且根據您的SameSite Cookie設定，它可能無法在最新版本的Chrome中使用。
+>* 目前，此功能僅完全支援Firefox。 Safari不支援，且視您的SameSite Cookie設定而定，在最新版Chrome中可能無法運作。
 
 
-1. 導航到Adobe Experience Manager（URL特定於您的公司）。
+1. 導覽至Adobe Experience Manager（URL是貴公司專屬的）。
 
    ![](assets/one.png)
 
-1. 您可以使用Adobe登錄或在本地登錄。 在此示例中，我們將在本地登錄。
+1. 您可以使用Adobe登入，或在本機登入。 在此範例中，我們會在本機登入。
 
    ![](assets/two.png)
 
-1. 在 **工具**&#x200B;按一下 **操作** 選擇 **Web控制台**。
+1. 在 **工具**，按一下 **操作** 選取 **Web主控台**.
 
    ![](assets/2a.png)
 
-1. 在瀏覽器中，搜索(Windows上的ctrl+f,Mac上的cmd+f)「Adobe花崗岩跨源資源共用策略」。
+1. 在瀏覽器中，搜尋(Windows上的ctrl+f、Mac上的cmd+f)「AdobeGranite跨原始資源共用原則」。
 
    ![](assets/three.png)
 
@@ -47,15 +47,15 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 在 **允許的源(Regexp)** 文本框，鍵入 `https://.*\.marketo\.com` 按一下 **保存**。
+1. 在 **允許的原始項(Regexp)** 文本框，鍵入 `https://.*\.marketo\.com` 按一下 **儲存**.
 
    ![](assets/five-psd.png)
 
-1. 在頁面頂部的標題中，按一下 **Web控制台** 選擇 **系統資訊**。
+1. 在頁面頂端的標題中，按一下 **Web主控台** 選取 **系統資訊**.
 
    ![](assets/six.png)
 
-1. 在「伺服器資訊」下，按一下 **重新啟動** 按鈕
+1. 在「伺服器資訊」下，按一下 **重新啟動** 按鈕。
 
    ![](assets/seven.png)
 
@@ -63,20 +63,20 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 在Marketo Classic，按一下 **管理**。
+1. 在Marketo Classic中，按一下 **管理**.
 
    ![](assets/nine.png)
 
-1. 在整合下，選擇 **Adobe Experience Manager**。
+1. 在「整合」下，選取 **Adobe Experience Manager**.
 
    ![](assets/ten.png)
 
-1. 按一下 **編輯**。
+1. 按一下 **編輯**.
 
    ![](assets/eleven.png)
 
-1. 輸入AEMURL並按一下 **確定**。
+1. 輸入您的AEM URL，然後按一下 **確定**.
 
    ![](assets/twelve.png)
 
-   你都準備好了！ 你現在可以 [將資AEM產導入Design Studio inMarketo Sky](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio)。
+   你都準備好了！ 您現在可以 [將AEM資產匯入Design Studio,Marketo Sky](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio).

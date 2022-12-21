@@ -1,22 +1,21 @@
 ---
 unique-page-id: 14352514
-description: Sales Connect如何處理電子郵件去重複化——行銷檔案——產品檔案
+description: Sales Connect如何處理電子郵件去重複化 — Marketo檔案 — 產品檔案
 title: Sales Connect如何處理電子郵件去重複化
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
+# Sales Connect如何處理電子郵件去重複化 {#how-sales-connect-handles-email-de-duping}
 
-# Sales Connect如何處理電子郵件去重複化{#how-sales-connect-handles-email-de-duping}
+當你 [上傳CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) 檔案放入Sales Connect中後，我們會在匯入之前，在CSV中合併所有類似的聯絡人。
 
-當您將[上傳CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)檔案至Sales Connect時，我們會在匯入之前，將所有類似的連絡人合併為CSV。
+我們是根據類似電子郵件地址執行此操作。 因此，如果有兩個相同的電子郵件地址，我們會將它們合併為一個聯絡人。
 
-我們根據類似的電子郵件地址來執行此動作。 因此，如果有兩個相同的電子郵件地址，我們會將它們合併為一個聯絡人。
+如果您稍後嘗試手動新增/上傳相同的連絡人，我們不會合併該連絡人。
 
-如果您稍後嘗試手動新增／上傳相同的連絡人，我們將不會合併該連絡人。
-
-如果您嘗試新增資料庫中已有的連絡人，我們會禁止您新增。
+如果您嘗試添加資料庫中已有的聯繫人，我們將阻止您添加該聯繫人。

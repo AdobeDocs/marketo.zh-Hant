@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2949285
-description: 在Marketo - Marketo Docs —— 產品檔案中記錄來自您銷售線索的入站郵件
-title: 在Marketo中記錄來自您銷售線索的入站郵件
-translation-type: tm+mt
-source-git-commit: 7952f5069ed641e2b5ca329c69f4e3f237e2c43e
+description: 在Marketo - Marketo檔案 — 產品檔案中記錄來自您銷售機會的傳入郵件
+title: 在Marketo中記錄來自您銷售機會的傳入郵件
+exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
+# 在Marketo中記錄來自您銷售機會的傳入郵件 {#log-inbound-mail-from-your-leads-in-marketo}
 
-# 在Marketo {#log-inbound-mail-from-your-leads-in-marketo}中記錄Leads的入站郵件
+您可以使用Marketo電子郵件增益集，直接在Outlook中記錄潛在客戶的回覆。
 
-您可以直接在Outlook中使用Marketo Email增益集，從您的潛在客源記錄回覆。
-
-## 從主Outlook應用程式{#from-the-main-outlook-application}
+## 從主Outlook應用程式 {#from-the-main-outlook-application}
 
 1. 選取您要記錄的電子郵件，然後按一下「使用Marketo記錄」。
 
@@ -23,15 +22,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您也可以在訊息上按一下滑鼠右鍵，然後按一下「使用Marketo記錄」**。**
+>您也可以以滑鼠右鍵按一下訊息，然後按一下 **使用Marketo登入**.
 
-您應該會看到確認。
+您應該會看到確認訊息。
 
 ![](assets/image2014-9-23-17-3a13-3a39.png)
 
-## 從電子郵件本身{#from-the-email-itself}
+## 從電子郵件本身 {#from-the-email-itself}
 
-如果您已開啟電子郵件，只需按一下此處的「使用Marketo記錄」按鈕即可。
+如果您已開啟電子郵件，只需按一下該處的「使用Marketo記錄」按鈕即可。
 
 ![](assets/image2014-9-23-17-3a14-3a14.png)
 
@@ -39,10 +38,10 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-17-3a14-3a29.png)
 
-記錄您的潛在客戶的回覆，以將其新增至Marketo的歷史記錄。
+記錄您的主管回覆，將其新增至其Marketo的歷史記錄。
 
 >[!MORELIKETHIS]
 >
->* [使用Marketor Email Add-in for Outlook傳送及追蹤電子郵件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [使用Outlook的Marketo電子郵件增益集傳送及追蹤電子郵件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [使用Marketo範本從Outlook傳送及追蹤](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 

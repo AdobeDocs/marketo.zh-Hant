@@ -1,42 +1,41 @@
 ---
 unique-page-id: 1147354
-description: 讓電子郵件運作——行銷檔案——產品檔案
-title: 讓電子郵件運作
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: 使電子郵件可運作 — Marketo檔案 — 產品檔案
+title: 讓電子郵件可運作
+exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
+# 讓電子郵件可運作 {#make-an-email-operational}
 
-# 使電子郵件正常運行{#make-an-email-operational}
-
-營運電子郵件會忽略「取消訂閱」和「暫停行銷」狀態。 不論如何，他們都會派。
+操作電子郵件會忽略「取消訂閱」和「行銷暫停」狀態。 他們不管派什麼。
 
 >[!NOTE]
 >
->營運電子郵件不受通訊限制。
+>操作電子郵件不受通信限制。
 
-1. 尋找您的電子郵件，選取它，然後按一下「編輯草稿」。****
+1. 找到您的電子郵件，選取它，然後按一下 **編輯草稿**.
 
 ![](assets/one-1.png)
 
 >[!NOTE]
 >
->您只應針對重要電子郵件和自動回應者使用營運電子郵件。 它們不適用於行銷電子郵件。
+>您只應對重要電子郵件和自動回應者使用操作電子郵件。 這不適用於行銷電子郵件。
 
-1. 編輯器開啟後，按一下&#x200B;**電子郵件設定**。
+1. 編輯器開啟後，按一下 **電子郵件設定**.
 
    ![](assets/two-1.png)
 
-1. 檢查&#x200B;**Operational Email** ，然後按一下&#x200B;**Save**。
+1. 檢查 **操作電子郵件** 按一下 **儲存**.
 
    ![](assets/three.png)
 
 >[!CAUTION]
 >
->營運電子郵件並非設計用於參與計畫。 因此，參與計畫會忽略電子郵件的運作狀態。 在與他們合作時，請記住這一點。
+>操作電子郵件的設計不用於參與計畫。 因此，參與計畫將忽略電子郵件的操作狀態。 請在與他們合作時記住這一點。
 
-請勿忘記核准此電子郵件，讓變更生效。 瞭解如何[核准電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
+請別忘記核准此電子郵件，讓變更生效。 了解如何  [核准電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).

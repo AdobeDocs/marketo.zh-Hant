@@ -1,6 +1,6 @@
 ---
-description: 連接到Salesforce -Marketo文檔 — 產品文檔時，如何修復「We We Unable to Authenticate Your Request」
-title: 連接到Salesforce時如何修復「我們無法驗證您的請求」
+description: 連線至Salesforce - Marketo檔案 — 產品檔案時，如何修正「我們無法驗證您的請求」
+title: 如何修正連接到Salesforce時「我們無法驗證您的請求」
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
@@ -9,23 +9,23 @@ ht-degree: 0%
 
 ---
 
-# 連接到Salesforce時如何修復「我們無法驗證您的請求」 {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
+# 如何修正連接到Salesforce時「我們無法驗證您的請求」 {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
-如果您在嘗試將Sales Insight Actions連接到Salesforce時收到錯誤消息「We wae we cannot authenticate your request」，則可能會限制您對Salesforce API的訪問。 請咨詢您的Salesforce管理員，確保已部署以下內容。
+如果您在嘗試將Sales Insight Actions連結至Salesforce時收到「We un aunable to authenticate your request」錯誤訊息，則您對Salesforce的API的存取權可能會受到限制。 請洽詢您的Salesforce管理員，確認有下列項目。
 
-## 在用戶權限中啟用API {#enable-api-in-user-permissions}
+## 在使用者權限中啟用API {#enable-api-in-user-permissions}
 
 1. 讓Salesforce管理員登錄到SFDC。
-1. 選擇 **設定**。
-1. 選擇 **管理用戶**。
-1. 選擇 **配置檔案**。
-1. 查找ToutApp用戶所在的配置檔案，然後按一下 **編輯**。
-1. 向下滾動到 **管理權限** 確保 **已啟用API** 的子菜單。
+1. 選擇 **設定**.
+1. 選擇 **管理使用者**.
+1. 選擇 **設定檔**.
+1. 查找ToutApp用戶所在的配置檔案，然後按一下 **編輯**.
+1. 向下捲動至 **管理權限** 確保 **啟用API** 已勾選。
 
-## 檢查Salesforce是否阻止Sales Insight活動連接 {#check-if-salesforce-is-blocking-sales-insight-actions-from-connecting}
+## 檢查Salesforce是否阻止Sales Insight操作連接 {#check-if-salesforce-is-blocking-sales-insight-actions-from-connecting}
 
-1. 讓Salesforce Admin登錄到SFDC。
-1. 選擇 **設定**。
-1. 選擇 **管理應用**。
-1. 選擇 **已連接的應用OAuth用法**。
-1. 確保Sales Insight Actions旁邊顯示「Block」。 如果看到「取消阻止」，請按一下按鈕以取消阻止Sales Insight Actions對Salesforce的訪問。
+1. 讓Salesforce管理員登錄到SFDC。
+1. 選擇 **設定**.
+1. 選擇 **管理應用程式**.
+1. 選擇 **連線應用程式OAuth使用狀況**.
+1. 請確定「銷售分析動作」旁顯示「區塊」。 如果您看到「解除封鎖」，請按一下按鈕以解除封鎖Salesforce的Sales Insight Actions存取權。

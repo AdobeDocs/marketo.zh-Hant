@@ -1,9 +1,10 @@
 ---
-description: 將電子郵件記錄到外部源 — Marketo文檔 — 產品文檔
+description: 將電子郵件記錄至外部來源 — Marketo檔案 — 產品檔案
 title: 將電子郵件記錄到外部源
 hide: true
 hidefromtoc: true
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+exl-id: 1092fe8f-f16a-48d1-810e-04d62e3fbed2
+source-git-commit: f77a076c243c25f3bff98a82751f51c464712795
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -12,24 +13,24 @@ ht-degree: 0%
 
 # 將電子郵件記錄到外部源 {#log-emails-to-an-external-source}
 
-如果您的CRM為您提供了密件抄送地址，則可以使用「其他」CRM部分設定電子郵件記錄。 一旦設定配置，您發送的電子郵件將自動記錄到您的CRM中。
+如果您的CRM提供密件副本地址，您可以使用「其他」CRM區段來設定電子郵件記錄。 設定完成後，您傳送的電子郵件會自動記錄到您的CRM。
 
 ## CRM。我們與 {#crms-we-integrate-with}
 
 **幾乎每個CRM**:
 
-* 我們的自動密件抄送功能可與幾乎所有CRM配合使用。您通過Sales Insight Actions向您的銷售線索發送的記錄電子郵件。 只需確保您選擇的CRM為您提供一個BCC地址，以便利用此優勢。
+* 我們的自動密件副本功能幾乎可與所有CRM搭配使用。您隨銷售分析動作傳送的電子郵件記錄給您的銷售機會。 只要確定您選擇的CRM會提供密件副本地址，以利用此功能。
 
 **Salesforce**:
 
-* 我們做了上面的事！
+* 我們做上面的事！
 
-## 如何連接到其他CRM。 {#how-to-connect-to-other-crms}
+## 如何連線至其他CRM。 {#how-to-connect-to-other-crms}
 
-1. 按一下 **設定**。
-1. 按一下 **CRM**。
-1. 按一下 **連接** 的下界。
-1. 按一下 **配置**，然後將您的密件抄送地址貼上到「電子郵件」到「密件抄送」下。
-1. 按一下 **保存** 您的密件抄送地址將保存到Sales Insight Actions中。
+1. 按一下 **設定**.
+1. 按一下 **CRM**.
+1. 按一下 **Connect** 在其他CRM下。
+1. 按一下 **設定**，然後將您的密件副本地址貼到電子郵件至密件副本下方。
+1. 按一下 **儲存** 而您的密件副本地址將儲存至Sales Insight Actions。
 
-電子郵件現在將通過密件抄送記錄到您的CRM。
+電子郵件現在會透過密件副本記錄至您的CRM。

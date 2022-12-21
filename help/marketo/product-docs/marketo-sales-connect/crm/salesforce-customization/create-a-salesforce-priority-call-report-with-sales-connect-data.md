@@ -1,22 +1,21 @@
 ---
 unique-page-id: 14352470
-description: 使用Sales Connect資料建立Salesforce優先呼叫報表——行銷人員檔案——產品檔案
-title: 使用Sales Connect資料建立Salesforce優先呼叫報表
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: 使用Sales Connect資料建立Salesforce優先呼叫報告 — Marketo檔案 — 產品檔案
+title: 使用Sales Connect資料建立Salesforce優先呼叫報告
+exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
+# 使用Sales Connect資料建立Salesforce優先呼叫報告 {#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
-# 使用Sales Connect資料{#create-a-salesforce-priority-call-report-with-sales-connect-data}建立Salesforce優先順序呼叫報告
+了解如何使用Sales Connect電子郵件參與資料建立Salesforce報告/呼叫清單，以專注於勢頭強大的人員或商機。
 
-瞭解如何使用Sales Connect電子郵件參與資料建立Salesforce報表／來電清單，以專注於有發展勢頭的人或機會。
-
-1. 轉到SFDC報告頁籤。
-1. 建立具有「工作與事件」的報表。
-1. 設定您的篩選並選擇日期範圍。
-1. 在欄位搜尋中輸入「Marketo Sales」，將Sales Connect資料拖曳至欄位。 在您新增Sales Connect資料後，請新增「電話號碼」欄，以便您對此報表採取動作，並將它當做呼叫清單。
-1. 執行報表並依「銷售連線追蹤的事件」排序。 這會讓電子郵件上最活躍的人群泡泡。 請確定您要麼已與這些頂尖人員一起規劃後續步驟，要麼將他們作為當天的優先順序。 很可能會出現高增長勢頭。
+1. 轉到SFDC報告頁簽。
+1. 使用「任務和事件」建立報表。
+1. 設定您的篩選器並選擇日期範圍。
+1. 在欄位搜尋中輸入「Marketo Sales」，將Sales Connect資料拖曳至欄。 添加Sales Connect資料後，請為「電話號碼」添加一列，以便您可以在此報告上執行操作，並將其用作呼叫清單。
+1. 運行報表，並按「銷售連接事件跟蹤」進行排序。 這會將電子郵件中活動最活躍的人數反升至泡泡。 請確定您已與這些最高層人員一起規劃後續步驟，或將他們列為當天的優先事項。 數量很可能很大，這種勢頭很有可能。

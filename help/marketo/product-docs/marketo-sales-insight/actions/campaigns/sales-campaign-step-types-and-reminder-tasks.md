@@ -1,6 +1,6 @@
 ---
-description: 銷售活動步驟類型和提醒任務 — Marketo文檔 — 產品文檔
-title: 銷售活動步驟類型和提醒任務
+description: Sales Campaign步驟類型和提醒工作 — Marketo檔案 — 產品檔案
+title: Sales Campaign步驟類型和提醒任務
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
@@ -9,60 +9,60 @@ ht-degree: 0%
 
 ---
 
-# 銷售活動步驟類型和提醒任務 {#sales-campaign-step-types-and-reminder-tasks}
+# Sales Campaign步驟類型和提醒任務 {#sales-campaign-step-types-and-reminder-tasks}
 
-## 銷售活動步驟類型 {#sales-campaign-step-types}
+## 銷售促銷活動步驟類型 {#sales-campaign-step-types}
 
-在向銷售活動添加步驟時，您有四個選項。
+將步驟新增至您的銷售促銷活動時，您有四個選項。
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-1.png)
 
 ### 電子郵件 {#email}
 
-撰寫新電子郵件，或使用預先存在的模板。
+撰寫新電子郵件，或使用預先存在的範本。
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-2.png)
 
-| **使用模板** | 選擇一個先前存在的模板 |
+| **使用範本** | 選取其中一個預先存在的範本 |
 |---|---|
-| **另存為模板** | 將您剛撰寫的電子郵件另存為新模板 |
-| **添加內容** | 將檔案上載到我們的伺服器，並接收可以在電子郵件中跟蹤的URL（指向內容） |
-| **附加檔案** | 將電腦中的檔案附加到電子郵件（23MB大小限制） |
+| **另存為範本** | 將您剛撰寫的電子郵件儲存為新範本 |
+| **新增內容** | 將檔案上傳至我們的伺服器，並接收可在您的電子郵件中追蹤的URL（指向內容） |
+| **附加檔案** | 將檔案從電腦附加到電子郵件（23MB大小限制） |
 
 >[!TIP]
 >
->瞭解有關您的 [發送選項](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}。
+>了解您 [傳送選項](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}。
 
 ### 呼叫 {#call}
 
-設定提醒，以便通過電話跟蹤聯繫人。 您還可以保存要在呼叫期間用作通話軌道的備注。
+設定提醒以通過電話跟蹤聯繫人。 您也可以儲存附註，以在呼叫期間作為通話追蹤使用。
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-3.png)
 
-### 郵件 {#inmail}
+### InMail {#inmail}
 
-多渠道跟蹤是連接線索的絕佳方式。 使用InMail任務，您可以設定一個提醒，以通過LinkedIn聯繫。
+對多個通道進行跟蹤是連接銷售線索的絕佳方式。 有了InMail任務，您可以設定提醒以透過LinkedIn聯絡。
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-4.png)
 
-### 自定義任務 {#custom-task}
+### 自訂任務 {#custom-task}
 
-如果上述選項不適用，則利用自定義任務。 例如，您可以通過電子郵件邀請同事跟進銷售線索。
+如果上述選項不適用，請利用自訂任務。 例如，您可以邀請同事透過電子郵件追蹤銷售機會。
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-5.png)
 
-## 在銷售市場活動中使用提醒任務 {#using-reminder-tasks-in-sales-campaigns}
+## 在Sales Campaigns中使用提醒任務 {#using-reminder-tasks-in-sales-campaigns}
 
-在將銷售活動發送給聯繫人時，任務是一個功能強大的工具，尤其是如果您的銷售流程是多渠道/接觸。
+將銷售活動發送給聯繫人時，任務是功能強大的工具，尤其是如果您的銷售流程是多渠道/接觸時。
 
-發送電子郵件的任務和呼叫聯繫人的任務是銷售市場活動中任務最常見的用途。
+在Sales Campaigns中，發送電子郵件和呼叫聯繫人的任務是最常見的用法。
 
-如果「Task to Inmail」是工作流的一部分，您還可以將「Task to Inmail」設定為LinkedIn的聯繫人。 您還可以執行自定義任務，提醒您邀請他們參加快樂時光、詢問他們的慈善活動或在第5場比賽後登記等。
+如果您的工作流程包含「郵件任務」，也可以將「郵件傳送任務」設為LinkedIn上的聯絡人。 您也可以做自訂工作，提醒您邀請他們來到快樂的時光、詢問他們的慈善活動，或在第5場比賽後登記等。
 
 >[!NOTE]
 >
->有關銷售市場活動中的任務的最重要的一點是，您必須完成該任務才能觸發下一步。
+>Sales Campaigns中Tasks最重要的一點是，您必須完成該任務才能觸發下一步。
 
 >[!MORELIKETHIS]
 >
->[建立銷售活動](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;
+>[建立銷售促銷活動](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}

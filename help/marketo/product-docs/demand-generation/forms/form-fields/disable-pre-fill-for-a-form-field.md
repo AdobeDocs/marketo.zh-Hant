@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2359675
-description: 停用表單欄位的預先填寫-Marketo檔案——產品檔案
+description: 停用表單欄位的預填 — Marketo檔案 — 產品檔案
 title: 停用表單欄位的預填
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
-translation-type: tm+mt
 source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
 source-wordcount: '169'
@@ -11,48 +10,48 @@ ht-degree: 0%
 
 ---
 
-# 停用表單欄位{#disable-pre-fill-for-a-form-field}的預填
+# 停用表單欄位的預填 {#disable-pre-fill-for-a-form-field}
 
-已知Web訪客(Cookie)時，Marketo表單會預先填入欄位中的資訊。 如果你想關掉它，請看如何做。
+已知網頁訪客(Cookie)時，Marketo表單會依預設以其資訊預先填入欄位。 如果你想關掉它，這是怎麼做的。
 
 >[!NOTE]
 >
->**預設啟** 用表單篩選。著陸頁面層級預先填滿設定和管理員層級預先填寫設定，高於表單層級設定：
+>**表單預填** 預設為啟用。 登陸頁面層級預填設定和管理層級預填設定高於表單層級設定：
 >
->表單>著陸頁面>管理
+>表單>登陸頁面>管理
 
-## 如何禁用預填充{#how-to-disable-pre-fill}
+## 如何停用預填 {#how-to-disable-pre-fill}
 
-1. 前往&#x200B;**行銷活動**。
+1. 前往 **行銷活動**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. 選擇表單並按一下「編輯表單」。****
+1. 選取您的表單並按一下 **編輯表單**.
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
    >[!CAUTION]
    >
-   >在您自己的頁面上內嵌表格時，表格預填無法運作。 它只適用於Marketo登陸頁面。
+   >將表單嵌入到您自己的頁面時，表單預填無法運作。 它只適用於Marketo登陸頁面。
 
-1. 選擇其中一個欄位，並將「表單預填充&#x200B;**」設定為「禁用**」。****
+1. 選取其中一個欄位並設定 **表單預填** to **已停用**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
    >[!TIP]
    >
-   >您也可以在登陸頁面層級或管理層級停用表單預先填寫。
+   >您也可以在登陸頁面層級或管理層級停用表單預填。
 
-1. 按一下&#x200B;**完成**。
+1. 按一下 **完成**.
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
-1. 按一下「核准並關閉」。****
+1. 按一下 **核准並關閉**.
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
-## 敏感欄位{#sensitive-fields}
+## 敏感欄位 {#sensitive-fields}
 
-當您[將欄位標示為sensitive](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md)，而無法預先填入其值時，您會在「預先填入」選項中看到這一點。
+當您 [將欄位標示為敏感欄位](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md)，防止其值預先填入表單中，您會在「預填」選項中看到這個資訊。
 
 ![](assets/disable-pre-fill.png)

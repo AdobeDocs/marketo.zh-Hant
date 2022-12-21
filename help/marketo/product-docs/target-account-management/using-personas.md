@@ -1,63 +1,62 @@
 ---
 unique-page-id: 17727818
-description: 使用角色——行銷人員檔案——產品檔案
+description: 使用角色 — Marketo檔案 — 產品檔案
 title: 使用角色
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
+# 使用角色 {#using-personas}
 
-# 使用角色{#using-personas}
+角色是劃分ABM受眾和向特定人員群體行銷的絕佳方式。
 
-角色是將ABM受眾和市場細分給特定人群的絕佳方法。
+## 添加角色 {#add-a-persona}
 
-## 添加角色{#add-a-persona}
-
-1. 在「我的行銷人員」中，按一下「**管理員**」。
+1. 在「我的Marketo」中，按一下 **管理**.
 
    ![](assets/one.png)
 
-1. 在樹中，選擇&#x200B;**目標帳戶管理**。
+1. 在樹中，選擇 **目標帳戶管理**.
 
    ![](assets/using-personas-2.png)
 
-1. 按一下&#x200B;**編輯**。
+1. 按一下 **編輯**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >預設情況下，「職稱」角色包含在內。 無法修改或刪除。
+   >預設會包含「職稱」角色。 無法修改或刪除。
 
-1. 要添加其他角色，請按一下&#x200B;**+Add**。
+1. 若要新增其他角色，請按一下 **+添加**.
 
    ![](assets/four.png)
 
-1. 為您的角色指定名稱，並在下拉式清單中選取對應欄位。 您最多可新增兩個角色。 完成時，按一下「保存」。****
+1. 為您的角色命名，然後在下拉式清單中選取對應欄位。 您最多可以新增兩個其他角色。 按一下 **儲存** 時才能使用。
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >在建立個人檔案時，只有已同步至您Marketto例項的「挑選清單」類型的Salesforce自訂欄位可在人物檔案欄位下拉式清單中使用。
+   >建立角色時，「角色」欄位下拉式清單中只有已同步至您Marketo例項的「選擇清單」類型的Salesforce自訂欄位。
 
-## 查看您的角色{#view-your-personas}
+## 檢視您的角色 {#view-your-personas}
 
-造訪特定指名帳戶，以檢視您的角色。
+瀏覽特定指定帳戶以檢視您的角色。
 
-1. 選取所要的「命名帳戶」。
+1. 選擇所需的指定帳戶。
 
    ![](assets/one-a.png)
 
-1. 按一下&#x200B;**角色**&#x200B;頁籤。
+1. 按一下 **角色** 標籤。
 
    ![](assets/two-a.png)
 
-1. 列出您的所有角色。 按一下數字即可查看人員清單。
+1. 所有角色都列在清單中。 按一下數字可查看人員清單。
 
    ![](assets/three-a.png)
 
@@ -65,8 +64,8 @@ ht-degree: 0%
    >
    >「標題角色」中的X可當成萬用字元。 例如，「CXO」將包括CEO、CFO等。
 
-## 角色篩選器{#persona-filters}
+## 角色篩選器 {#persona-filters}
 
-1. 在智慧型清單中使用人格篩選器，將其行銷給特定人群。
+1. 在智慧清單中使用角色篩選器，以向特定群組人員行銷。
 
 ![](assets/one-b.png)

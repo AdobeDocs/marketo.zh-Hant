@@ -1,7 +1,8 @@
 ---
 description: 執行Campaign - Marketo檔案 — 產品檔案
 title: 執行促銷活動
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 在需要運行單獨的流時，您也可以使用它們，但在後續流步驟選擇中需要依賴該流的結果（即，如果這樣，則執行）。
 
-執行促銷活動是[要求促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)時的一項改進，因為它可以串聯或並行執行，而後者只能並行執行。
+執行促銷活動是 [要求促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)，因為它可以串聯或並行執行，而後者只能並行執行。
 
 >[!NOTE]
 >
@@ -30,17 +31,17 @@ ht-degree: 0%
 
 ## 如何建立可執行的促銷活動 {#how-to-create-an-executable-campaign}
 
-1. 以滑鼠右鍵按一下所需的方案，然後選取&#x200B;**新的智慧型促銷活動**。
+1. 按一下右鍵所需的程式並選擇 **新智慧型行銷活動**.
 
    ![](assets/execute-campaign-1.png)
 
-1. 為其命名，選擇&#x200B;**Executable**&#x200B;複選框，然後按一下&#x200B;**Create**。
+1. 請為其命名，選取 **執行檔** 核取方塊，然後按一下 **建立**.
 
    ![](assets/execute-campaign-2.png)
 
 1. 與任何其他智慧型促銷活動一樣，定義智慧清單和流量。
 
-您也可以複製現有的智慧型促銷活動。 如果複製現有的可執行促銷活動，則在命名後，您仍須選取&#x200B;**可執行**&#x200B;核取方塊。
+您也可以複製現有的智慧型促銷活動。 如果複製現有的執行檔促銷活動，您仍須選取 **執行檔** 命名後核取方塊。
 
 >[!NOTE]
 >
@@ -54,28 +55,28 @@ ht-degree: 0%
 * 促銷活動代號
 * 程式代號
 * 成員令牌
-* [觸發代號](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) （如果從觸發促銷活動呼叫）
+* [觸發Token](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) （如果從觸發促銷活動呼叫）
 
 **API互動**
 
-在API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch)中使用排程或請求促銷活動[時，這兩者都可讓您傳遞我的代號的值，而覆寫您在呼叫的促銷活動中為這些代號設定的值。 如果該促銷活動接著執行另一個促銷活動並將「使用父內容」設為「True」，則會使用透過API傳遞的值，而非應用程式中設定的值。
+使用排程或請求促銷活動時 [在API中](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch)，都可讓您傳遞「我的代號」的值，而覆寫您呼叫之促銷活動中為這些代號設定的值。 如果該促銷活動接著執行另一個促銷活動並將「使用父內容」設為「True」，則會使用透過API傳遞的值，而非應用程式中設定的值。
 
 ## 注意事項 {#things-to-note}
 
 * 智慧清單會篩選不符合資格的任何人。 如果人員符合資格，則產生的「已執行促銷活動」活動記錄會將其列為「合格：TRUE」（若不是，則為FALSE）
 * 套用排程促銷活動資格規則（「排程」標籤下的「智慧促銷活動設定」）
 * 無法跨工作區呼叫可執行的促銷活動
-* 如果您使用[從流中刪除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)以執行檔促銷活動為目標的流動動作，則會同時鎖定子項和父項
+* 如果您使用 [從流中刪除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) 以執行檔促銷活動為目標的流程動作，會將目標同時鎖定於子項和父項
 * 善用代號繼承 — 例如，如果您有由多個不同資產觸發的單一通用計分流程，則您可以在子促銷活動和父促銷活動中定義預設的「我的代號」分數，以便您能覆寫父促銷活動的子分數促銷活動值（請參閱下方的視覺範例）
 * 可執行的促銷活動可調用至深達三個層級（例如，父促銷活動>子促銷活動>子促銷活動>子促銷活動）
 
 >[!CAUTION]
 >
->請勿讓執行檔促銷活動的智慧清單失效，否則&#x200B;**沒有人**&#x200B;會符合此清單的資格。 最佳作法是建立個別的智慧清單資產、完整定義資產，並確認資產有效。 然後，在可執行促銷活動中使用「智慧清單成員」篩選器，以便交換智慧清單定義。
+>請勿讓執行檔促銷活動的智慧清單失效，否則 **無人** 會符合。 最佳作法是建立個別的智慧清單資產、完整定義資產，並確認資產有效。 然後，在可執行促銷活動中使用「智慧清單成員」篩選器，以便交換智慧清單定義。
 
 ## 代號繼承範例 {#token-inheritance-example}
 
-以下是一個可執行促銷活動和兩個上層促銷活動中代號繼承的視覺範例：一個將令牌上下文設定為&#x200B;**True**，另一個設定為&#x200B;**False**。
+以下是一個可執行促銷活動和兩個上層促銷活動中代號繼承的視覺範例：將令牌上下文設定為 **True**，另一個 **False**.
 
 具有標籤化變更分數的子促銷活動。
 
@@ -87,7 +88,7 @@ ht-degree: 0%
 
 **範例一 — True**
 
-在第一個上層促銷活動的「執行促銷活動」流程步驟中，「使用上層促銷活動代號內容」設為&#x200B;**True**。
+在第一個上層促銷活動的「執行促銷活動」流程步驟中，「使用上層促銷活動代號內容」設為 **True**.
 
 ![](assets/execute-campaign-5.png)
 
@@ -101,7 +102,7 @@ ht-degree: 0%
 
 **範例二：False**
 
-在第二個上層促銷活動的「執行促銷活動」篩選器中，「使用上層促銷活動代號內容」設為&#x200B;**False**。
+在第二個上層促銷活動的「執行促銷活動」篩選器中，「使用上層促銷活動代號內容」設為 **False**.
 
 ![](assets/execute-campaign-8.png)
 

@@ -1,24 +1,23 @@
 ---
 unique-page-id: 14352545
-description: Gmail —— 行銷檔案——產品檔案中發生意外錯誤
-title: Gmail中發生意外錯誤
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Gmail中發生未預期的錯誤 — Marketo檔案 — 產品檔案
+title: Gmail中出現意外錯誤
+exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
+# Gmail中出現意外錯誤 {#unexpected-error-in-gmail}
 
-# Gmail {#unexpected-error-in-gmail}中出現意外錯誤
+如果您嘗試傳送電子郵件時，在Gmail中收到「未預期的錯誤」，則可能需要對Gmail連線執行重設。
 
-如果您嘗試傳送電子郵件時在Gmail中收到「未預期的錯誤」，您可能需要對Gmail連線執行重設。
+1. 前往 **設定** > **電子郵件追蹤** > **管理**.
 
-1. 前往「**設定** > **電子郵件追蹤** > **管理**」。
+1. 按一下 **斷開與Gmail的連接**.
 
-1. 按一下「**斷開與Gmail的連接」。**
+1. 斷開連接後，按一下 **連線至Google**.
 
-1. 斷開連接後，按一下&#x200B;**連接到Google**。
-
-   重新連線後，請返回Gmail並重新整理您的頁面，再次嘗試傳送電子郵件。 如果仍然無效，請[將票證](https://nation.marketo.com/t5/Support/ct-p/Support)提交給我們的支援團隊。
+   重新連線後，請返回Gmail並重新整理頁面，然後再次嘗試傳送電子郵件。 如果仍然沒用，請 [提交票證](https://nation.marketo.com/t5/Support/ct-p/Support) 支援團隊。

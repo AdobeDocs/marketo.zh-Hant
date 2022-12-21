@@ -1,40 +1,37 @@
 ---
 unique-page-id: 8782266
-description: 排定網頁促銷活動的優先順序——行銷人員檔案——產品檔案
-title: 排定網頁促銷活動的優先順序
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: 排定網頁行銷活動的優先順序 — Marketo檔案 — 產品檔案
+title: 排定Web促銷活動的優先順序
+exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
+# 排定Web促銷活動的優先順序 {#prioritizing-web-campaigns}
 
-# 排定Web促銷活動的優先順序{#prioritizing-web-campaigns}
-
-設定「優先分數」，在兩個或兩個以上網頁促銷活動重疊時，排定您網頁促銷活動的優先順序。
+設定優先順序分數，以在兩個或多個網頁促銷活動重疊時排定網頁促銷活動的優先順序。
 
 >[!NOTE]
 >
 >**重疊的促銷活動**
 >
->當發生下列情況時，會發生網頁促銷活動重疊：
+>下列情況下會發生網路促銷活動重疊：
 >
->* 兩個或兩個以上的Widget和／或對話促銷活動會在同一頁面上同時回應
->* 具有相同區域ID的兩個或多個「在區域中」會在同一網頁上同時回應
+>* 兩個或多個Widget和/或Dialog促銷活動會在相同頁面上同時回應
+>* 具有相同區域ID的兩個或兩個以上區域會在同一網頁上同時回應
+>
+>「區域內」促銷活動和（介面工具集或對話方塊）促銷活動可在相同頁面上回應。
 
->
->
-「在區域中」促銷活動和（介面工具集或對話方塊）促銷活動可以在相同頁面上做出反應。
-
-1. 前往「Web促銷活動」。
+1. 前往「網頁行銷活動」。
 
    ![](assets/web-campaigns-hand-6.jpg)
 
    >[!NOTE]
    >
-   >若要更輕鬆找到您想要的Web促銷活動，請使用[篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
+   >若要更輕鬆找到您想要的網頁行銷活動，請使用 [篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. 在「編輯促銷活動」頁面中，設定「優先順序分數」（9999 =最高優先順序1 =最低優先順序）。
 
@@ -42,7 +39,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >我們建議您僅在促銷活動有可能重疊時使用促銷活動優先順序分數，其中一個促銷活動的重要性較高。 您不必為每個促銷活動設定優先順序。
+   >我們建議您僅在潛在促銷活動重疊，且其中一個促銷活動的重要性較高時，才使用促銷活動優先順序分數。 您不必為每個促銷活動設定優先順序。
 
 1. 儲存或啟動促銷活動。
 

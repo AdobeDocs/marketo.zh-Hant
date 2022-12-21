@@ -1,7 +1,7 @@
 ---
 unique-page-id: 42762322
-description: MarketoSales Force中的Sales Insight配置頁籤 — Marketo文檔 — 產品文檔
-title: MarketoSales Insight配置頁籤（在Salesforce中）
+description: Marketo Salesforce中的Sales Insight設定標籤 — Marketo檔案 — 產品檔案
+title: Marketo Salesforce中的Sales Insight設定索引標籤
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
@@ -10,61 +10,61 @@ ht-degree: 0%
 
 ---
 
-# MarketoSales Insight配置頁籤（在Salesforce中） {#marketo-sales-insight-configuration-tab-in-salesforce}
+# Marketo Salesforce中的Sales Insight設定索引標籤 {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## 操作設定 {#operational-settings}
 
-您需要設定此設定，以便開始在SFDC中使用Sales Insight。
+您需要設定此設定，才能開始在SFDC中使用Sales Insight。
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-1.png)
 
 * MSI同時使用Soap和Rest API
-* 您的Marketo帳戶中的Sales Insight頁面將有兩個相應的面板，其中包含您可以在此處複製和貼上的Soap和Rest API憑據
-* Soap和Rest API有單獨的超時時間，您可以根據組織的需要設定這些超時時間。 允許的最長時間為120秒
-* 禁用Insights儀表板：您可以刪除Rest API憑據，並且只能使用Soap API。 這樣做將禁用所有MSI視力面板中的Insights Dashboard頁籤
+* Marketo帳戶中的「銷售分析」頁面有兩個對應的面板，具有您可以複製並貼到此處的Soap和Rest API憑證
+* Soap和Rest API有不同的逾時時間，您可以根據組織的需求加以設定。 允許的最長時間為120秒
+* 停用前瞻分析控制面板：您可以移除Rest API憑證，且只使用Soap API。 這麼做會停用所有MSI視覺效果面板中的「前瞻分析控制面板」標籤
 
 ## MSI配置 {#msi-configuration}
 
 配置適用於所有MSI用戶，並且不特定於配置檔案。
 
-**VisualForce頁面設定**
+**視覺效果頁面設定**
 
-* 啟用操作下拉清單：
-   * 能夠隱藏在潛在客戶和聯繫MSI佈局中的下拉清單中發送Marketo電子郵件
-   * 能夠隱藏「添加到Marketo市場活動」選項，使其不在銷售線索和聯繫MSI佈局中下拉
-* 即將發生的事件：能夠向用戶顯示邀請的事件、所有事件或完全隱藏此頁籤
-* 即將推出的活動：能夠顯示所有電子郵件活動或完全隱藏此頁籤
-* 載入即將進行的市場活動和事件：通過將事件和市場活動標籤置於按需「載入即將到來的項目」按鈕後，減少用戶調用的剩餘API數
-* 頁籤設定：預設情況下，所有五個頁籤都可用。 您可以在「銷售透視」面板中選擇標籤的順序。 同一訂單將適用於所有佈局（銷售線索、聯繫人、客戶、業務機會）
+* 啟用「動作」下拉式清單：
+   * 能夠隱藏Lead和Contact MSI Layout中的Send Marketo電子郵件下拉清單
+   * 能夠隱藏「Lead」和「Contact MSI Layout」中的「Add to Marketo Campaign」選項下拉清單
+* 近期活動：可向使用者顯示受邀事件、所有事件，或完全隱藏此索引標籤
+* 近期行銷活動：可顯示所有電子郵件促銷活動或完全隱藏此索引標籤
+* 載入即將進行的促銷活動和事件：將事件和行銷活動索引標籤放在隨選「載入即將進行的項目」按鈕後面，以減少使用者呼叫的Rest API次數
+* 標籤設定：預設會提供這五個索引標籤。 您可以在「銷售分析」面板中選擇標籤的順序。 同一訂單將適用於所有佈局（銷售機會、聯繫人、帳戶、銷售機會）
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-2.png)
 
-**Marketo全局頁籤**
+**Marketo全域標籤**
 
-* 已啟用RSS源：啟用後，MSI用戶可以在RSS源中查看其Lead Feed（除Salesforce中的Lead Feed外）。 RSS源只有在禁用「令牌過期」功能時才能運行。 此設定在您的MarketoSales Insight Admin頁中控制。
+* 啟用RSS源：啟用後，MSI用戶可以在RSS源中查看其銷售機會饋送（除了Salesforce中的銷售機會饋送之外）。 RSS饋送只能在停用「代號過期」功能時運作。 您可在Marketo Sales Insight管理頁面中控制此設定。
 * 最佳調試模式
-* 預設隱藏：您在此處選擇的選項是當您按一下「隱藏」表徵圖時，在Marketo的「最佳匹配」頁籤中隱藏最佳匹配的天數
-* 聯繫人狀態欄位：您在此處選擇的選項是在Marketo「最佳匹配」頁籤的「狀態標題」列中填充的值
-* 即時源設定：選擇只顯示Live Feed(在Lead、Contact、Account和Opportunity面板以及全球Marketo頁中)、Lead Feed(在Marketo全球頁中)或Live和Lead Feed
-* 頁籤設定：預設情況下，所有五個頁籤都可用。 可以選擇Marketo全局頁中的頁籤順序
+* 預設隱藏：您在此處選擇的選項，是當您按一下「隱藏」圖示時，在Marketo的「最佳下注」標籤中隱藏的最佳下注天數
+* 聯繫人狀態欄位：您在此選擇的選項，會是Marketo中「最佳下注」標籤中「狀態標題」欄中填入的值
+* 即時摘要設定：選擇只顯示Live Feed(在Lead、Contact、Account和Opportunity面板以及Global Marketo頁面中)、 Lead Feed(在Marketo Global Page中)或Live和Lead Feed
+* 標籤設定：預設會提供這五個索引標籤。 您可以在Marketo全域頁面中選擇索引標籤的順序
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-3.png)
 
 **限制**
 
-* 預設情況下，「活動」(Interest Moment, Web Activity, E-mail)設定為1000。 預設情況下，電子郵件市場活動和事件設定為200
-* 如果您注意到組織上存在超時問題，您可以降低限制
+* 活動（有趣的時刻、網頁活動、電子郵件）預設為1000。 電子郵件促銷活動和事件預設為200
+* 如果您發現組織上出現逾時問題，可以降低限制
 
-**操作設定**
+**動作設定**
 
-* 發送Marketo電子郵件：啟用此功能將使所有Sales Insight用戶都能夠訪問Lead 、 Contact 、 Account 、 Opportunity面板和Best Bets頁籤（批量操作和內聯接洽）中發送電子郵件
-* 添加到Marketo市場活動：啟用此功能將使所有Sales Insight用戶都可以訪問Lead 、 Contact 、 Account 、 Opportunity面板和Best Bets頁籤（批量操作和內聯參與）中的市場活動
+* 傳送Marketo電子郵件：啟用此功能，所有Sales Insight用戶都可以從Lead 、 Contact 、 Account 、 Opportunity面板和Best Bets頁簽（批量操作和內聯參與）中發送電子郵件
+* 新增至Marketo Campaign:啟用此功能，所有Sales Insight用戶都可以從Lead 、 Contact 、 Account 、 Opportunity面板和Best Bets頁簽（批量操作和內聯參與）添加到促銷活動
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-4.png)
 
-## 重置Marketo銷售洞察 {#reset-marketo-sales-insight}
+## 重設Marketo Sales Insight {#reset-marketo-sales-insight}
 
-選擇這樣做將擦除SFDC中的所有配置，並且無法恢復這些配置。 您必須重新配置所有內容。
+選擇這樣做將擦去SFDC中的所有配置，並且它們無法恢復。 您必須重新配置所有內容。
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
 
@@ -74,4 +74,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[將Sales Insight訪問權添加到配置檔案](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;
+>[將Sales Insight存取權新增至設定檔](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}

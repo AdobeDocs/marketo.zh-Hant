@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->這些變數僅適用於[Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)和Marketo Sales Connect客戶。
+>這些功能適用於 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) 和Marketo Sales Connect客戶。
 
 ## 什麼是有趣的時刻？ {#what-is-an-interesting-moment}
 
@@ -28,19 +28,19 @@ ht-degree: 0%
 
 ## 如何創造有趣的時刻？ {#how-do-i-create-an-interesting-moment}
 
-1. 選擇[智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)，如果觸發，最好選擇您的銷售團隊會感興趣的促銷活動。
+1. 選擇 [智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)，若觸發，您的銷售團隊最好會覺得有趣。
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. 拖曳至&#x200B;**有趣的時刻**&#x200B;流量步驟。
+1. 拖曳至 **有趣的時刻** 流程步驟。
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. 選擇&#x200B;**類型**（電子郵件、里程碑或Web）。
+1. 選取 **type** （電子郵件、里程碑或網頁）。
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. 在&#x200B;**Description**&#x200B;欄位中向您的銷售團隊寫入消息，以說明此操作重要的原因。
+1. 在 **說明** 欄位，說明此動作為何重要。
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ## 在Marketo，什麼是有趣的時刻？  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-有趣的時刻會顯示在[銷售機會的活動日誌](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)中。
+有趣的時刻會顯示在 [銷售機會的活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 

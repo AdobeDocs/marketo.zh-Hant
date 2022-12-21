@@ -1,39 +1,38 @@
 ---
 unique-page-id: 2359968
-description: 變更報告時間範圍——行銷人員檔案——產品檔案
-title: 變更報告時間範圍
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: 變更報表時間範圍 — Marketo檔案 — 產品檔案
+title: 變更報表時間範圍
+exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
+# 變更報表時間範圍 {#change-a-report-time-frame}
 
-# 變更報告時間範圍{#change-a-report-time-frame}
+變更報表涵蓋的時段，以著重於特定活動時間。
 
-變更報表涵蓋的時段，以專注於特定活動時間。
-
-1. 前往「行銷活動」區域（或&#x200B;**Analytics**）。****
+1. 前往 **行銷活動** (或 **Analytics**)區域。
 
    ![](assets/image2017-3-27-9-3a15-3a9.png)
 
-1. 從導航樹中選擇您的報告，然後按一下&#x200B;**Setup**&#x200B;頁籤。
+1. 從導覽樹中選取您的報表，然後按一下 **設定** 標籤。
 
    ![](assets/image2017-3-27-9-3a57-3a56.png)
 
-1. 連按兩下時間範圍欄位，依報表類型區分標示：
+1. 連按兩下時間範圍欄位，依報表類型而定，標示方式有所不同：
 
-   * **人員建立時間**，當面報告
-   * **在電子郵件報表中**，傳送日期
+   * **建立於**，在人員報表中
+   * **傳送日期**，在電子郵件報表中
    * **活動日期**，在所有其他報表中
 
    ![](assets/image2017-3-27-9-3a58-3a23.png)
 
    >[!NOTE]
    >
-   >**建立的** 人員是指在資料庫中知道該人員的那一刻。
+   >**建立於** 是指在您的資料庫中得知該人的那一刻。
 
 1. 從下拉式選單中選擇適當的時間範圍。
 
@@ -41,11 +40,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >要設定特定日期，請從下拉菜單中選擇&#x200B;**Custom**，然後在&#x200B;**From**&#x200B;和&#x200B;**To**&#x200B;日曆欄位中輸入日期。
+   >若要設定特定日期，請選取 **自訂** ，並在 **從** 和 **結束日期** 日曆欄位。
 
-   按一下&#x200B;**報表**&#x200B;標籤，查看所選時段的報表。\
+   按一下 **報表** 頁簽，查看所選時間範圍的報表。\
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]
    >
-   >要按特定人員屬性縮小報表範圍，您可以[在具有智慧清單的報表中篩選人員](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)。
+   >若要依特定人員屬性來縮小報表範圍，您可以 [使用智慧清單篩選報表中的人員](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).

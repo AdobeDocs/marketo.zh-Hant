@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## 本地化 {#localization}
 
-網頁個人化、預測內容和電子郵件前瞻分析應用程式現在提供日文、德文和西班牙文版。 您[選擇您的語言和區域設定](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)以使用這些語言查看您的內容。
+網頁個人化、預測內容和電子郵件前瞻分析應用程式現在提供日文、德文和西班牙文版。 您 [選擇您的語言和地區](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) 來檢視這些語言的內容。
 
 ![](assets/japanese-web-personalization.png)
 

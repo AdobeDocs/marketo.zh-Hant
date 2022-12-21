@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7504744
 description: 安裝Marketo for Microsoft Dynamics 2015內部部署步驟3（共3個） — Marketo檔案 — 產品檔案
-title: Install Marketo for Microsoft Dynamics 2015 On-Premises Step 3 of 3
+title: 安裝Marketo for Microsoft Dynamics 2015內部部署步驟3（共3個）
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
 workflow-type: tm+mt
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Install Marketo for Microsoft Dynamics 2015 On-Premises Step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
->* [Install Marketo for Microsoft Dynamics 2015 On-Premises Step 2 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
+>* [安裝Marketo for Microsoft Dynamics 2015內部部署步驟1（共3個）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
+>* [安裝Marketo for Microsoft Dynamics 2015內部部署步驟2（共3個）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
 
 
 >[!NOTE]
@@ -28,11 +28,11 @@ ht-degree: 0%
 
    ![](assets/login-admin.png)
 
-1. Click **CRM**.
+1. 按一下 **CRM**.
 
    ![](assets/image2015-3-16-9-47-34.png)
 
-1. Select **Microsoft**.
+1. 選擇 **Microsoft**.
 
    ![](assets/image2015-3-16-9-50-6.png)
 
@@ -42,16 +42,16 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >請確定您的憑證正確，因為提交後，我們無法還原後續的架構變更。 If incorrect credentials are saved, you’ll have to obtain a new Marketo subscription.
+   >請確定您的憑證正確，因為提交後，我們無法還原後續的架構變更。 如果儲存的憑證不正確，您必須取得新的Marketo訂閱。
 
-1. Enter the **Username**, **Password** a Microsoft Dynamics **URL**, and a **Client Id/Secret**. 按一下 **儲存** 時才能使用。
+1. 輸入 **使用者名稱**, **密碼** a Microsoft Dynamics **URL**&#x200B;和 **用戶端Id/密碼**. 按一下 **儲存** 時才能使用。
 
    ![](assets/step-3-of-3-5.png)
 
    >[!NOTE]
    >
-   >* If your Marketo was provisioned prior to October 2020, Client ID and Secret are optional fields. Otherwise, they&#39;re mandatory. 獲取此資訊取決於您使用的MSD版本。
-   >* Marketo中的使用者名稱必須符合CRM中同步使用者的使用者名稱。 The format can be `user@domain.com` or DOMAIN\user.
+   >* 如果您的Marketo是在2020年10月之前布建，用戶端ID和密碼為選用欄位。 否則，它們是強制性的。 獲取此資訊取決於您使用的MSD版本。
+   >* Marketo中的使用者名稱必須符合CRM中同步使用者的使用者名稱。 格式可為 `user@domain.com` 或域\用戶。
    >* 如果您不知道URL, [在這裡了解如何找到](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-51-28.png)
 
-1. Select the fields that you want to sync to Marketo, so they will be pre-selected. 按一下 **儲存**.
+1. 選取您要同步至Marketo的欄位，以便預先選取這些欄位。 按一下 **儲存**.
 
    ![](assets/image2016-8-25-15-3a14-3a28.png)
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Click **Edit** on Field Sync Details.
+1. 按一下 **編輯** 在欄位同步詳細資訊上。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -97,7 +97,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketo will not automatically de-dupe against a Microsoft Dynamics sync, or when you manually enter people.
+   >Marketo不會針對Microsoft Dynamics同步或當您手動輸入人員時自動去除重複資料。
 
 1. 閱讀快顯視窗中的所有內容，輸入您的電子郵件，然後按一下 **開始同步**.
 

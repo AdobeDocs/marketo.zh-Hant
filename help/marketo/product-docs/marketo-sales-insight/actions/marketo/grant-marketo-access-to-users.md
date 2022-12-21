@@ -1,6 +1,6 @@
 ---
-description: 授予Marketo用戶訪問權限 — Marketo文檔 — 產品文檔
-title: 授予Marketo對用戶的訪問權限
+description: 將Marketo存取權授予使用者 — Marketo檔案 — 產品檔案
+title: 將Marketo存取權授與使用者
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
@@ -9,42 +9,42 @@ ht-degree: 0%
 
 ---
 
-# 授予Marketo對用戶的訪問權限 {#grant-marketo-access-to-users}
+# 將Marketo存取權授與使用者 {#grant-marketo-access-to-users}
 
-按照本文中的步驟，授予您的Sales Insight Actions用戶訪問Marketo連接的權限。 這將釋放諸如即時訂閱源中的有趣時刻和市場營銷活動訪問等功能。
+請依照本文所述步驟，授予您的Sales Insight Actions使用者對Marketo連線的存取權。 這可解鎖即時摘要中的「有趣時刻」等功能，並存取行銷活動。
 
-您需要邀請用戶 [Sales Insight操作](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) 在「Marketo」>「團隊訪問」頁（在「Sales Insight操作」中）中可見之前，將授予對Marketo連接的訪問權限。
+您需要邀請使用者加入 [Sales Insight動作](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) 在「Marketo >團隊存取」頁面（位於「銷售分析動作」）中顯示前，系統會授予Marketo連線的存取權。
 
 >[!CAUTION]
 >
->在將Sales Insight Actions與Marketo連接後，請等待10分鐘，然後再執行這些步驟。
+>將Sales Insight Actions與Marketo連接後，請等待10分鐘再執行這些步驟。
 
-1. 按一下齒輪表徵圖並選擇 **設定**。
+1. 按一下齒輪圖示並選取 **設定**.
 
    ![](assets/grant-marketo-access-to-users-1.png)
 
-1. 在「Admin Settings（管理設定）」下，按一下 **Marketo**。
+1. 在「管理設定」下，按一下 **Marketo**.
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. 按一下 **用戶訪問** 頁籤。 選擇一個或多個用戶，然後按一下 **連接**。
+1. 按一下 **使用者存取** 標籤。 選取一或多個使用者，然後按一下 **Connect**.
 
    ![](assets/grant-marketo-access-to-users-3.png)
 
    >[!NOTE]
    >
-   >在授予用戶訪問權限時，您只能執行一次工作區分配。 設定後，您必須斷開用戶的連接才能更改它。
+   >在授予用戶訪問權限時，只能執行一次工作區分配。 設定後，您必須斷開使用者連線才能加以變更。
 
-1. 如果您的Marketo訂閱啟用了工作區，則您將能夠將工作區批量分配給每個用戶或一組用戶。 如果未選擇工作區，我們將將其分配到「預設Marketo」工作區。
+1. 如果您的Marketo訂閱已啟用工作區，您將能夠大量指派工作區給每個使用者或一組使用者。 如果未選取任何工作區，我們會將其指派給預設Marketo工作區。
 
    ![](assets/grant-marketo-access-to-users-4.png)
 
-   **可選步驟**:按一下「工作區」(Workspace)下拉框並選擇所需的工作區。
+   **可選步驟**:按一下「工作區」下拉式清單，然後選取您想要的工作區。
 
    ![](assets/grant-marketo-access-to-users-5.png)
 
-1. 按一下 **連接**。
+1. 按一下 **Connect**.
 
    ![](assets/grant-marketo-access-to-users-6.png)
 
-您可以從「團隊管理」(Team Management)頁面添加其他用戶，然後按照上述步驟進行連接。
+您可以從「團隊管理」頁面新增其他使用者，並依照上述步驟連線他們。

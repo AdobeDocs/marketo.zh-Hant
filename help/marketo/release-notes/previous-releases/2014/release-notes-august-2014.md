@@ -16,9 +16,9 @@ ht-degree: 0%
 
 ## 行銷行事歷授權 {#marketing-calendar-licenses}
 
-在2014年9月5日之後，只有5位使用者可以免費存取行銷行事歷。 請務必先向您選擇的使用者[發出/撤銷行銷日曆授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)，然後才能取得不間斷的存取。
+在2014年9月5日之後，只有5位使用者可以免費存取行銷行事歷。 一定要 [發出/撤銷行銷日曆授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) 之前傳送給您選擇的使用者，以取得無中斷的存取權。
 
-![—](assets/image2014-9-16-9-3a45-3a52.png)
+![--](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## 新使用者權限 {#new-user-permissions}
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 從管理員匯出使用者和角色 {#export-users-and-roles-from-admin}
 
-您現在可以從Marketo [匯出使用者和角色清單](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)。 您也可以包含「上次登入」時間戳記，以便匯出內容。
+您現在可以 [匯出使用者和角色清單](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) 從Marketo。 您也可以包含「上次登入」時間戳記，以便匯出內容。
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 

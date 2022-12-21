@@ -29,7 +29,7 @@ ht-degree: 0%
 * **擴展支援：Microsoft Office**
 
    * Outlook作為傳遞通道：行銷人員現在可以運用Outlook進行電子郵件參與，提高傳遞率和回應追蹤。
-   * Office 365電子郵件支援改進：Marketo Sales Engage可直接在Outlook for Mac、Outlook for Windows和Outlook Web Application for Office 365電子郵件客戶端中使用，使Marketo Sales Engage更容易供所有Office用戶使用。
+   * Office 365電子郵件支援改進：Marketo Sales Engage可直接在Outlook for Mac、Outlook for Windows和Outlook Web Application for Office 365電子郵件客戶端中使用，使所有Office用戶都能更方便地使用Marketo Sales Engage。
 
 * **改善管理員和使用者登入體驗**
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Marketo Sky {#marketo-sky}
 
-如需更多詳細資訊和更新，請查看[Sky發行說明](https://help.marketo.com)。
+如需更多詳細資訊和更新，請查看 [Sky發行說明](https://help.marketo.com).
 
 * **設計系統更新**
 
@@ -54,8 +54,8 @@ ht-degree: 0%
 * Design Studio首頁：建立新資產、拖放影像和檔案，以及管理所有現有資產。
 * Design Studio清單視圖：使用者現在能以清單檢視格式檢視登錄頁面範本和電子郵件範本，以便快速導覽及在單一資產類型執行大量動作。
 * Design Studio資產詳細資訊頁：在單一位置檢視、組織和執行所有資產的大量動作，以節省時間並省下麻煩。
-* **現在提供預設方案，Marketo Sky**:Marketo Sky現在支援預設方案，此多功能方案樣式可讓您建立任何您能想像的行銷活動。
-* **電子郵件計畫 — 第1階段**:您現在可以在Sky中檢視電子郵件程式。查看新設計，並[告知我們您的想法](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html)。
+* **預設程式現在可在Marketo Sky中使用**:Marketo Sky現在支援預設方案，此多功能方案樣式可讓您建立任何您能想像的行銷活動。
+* **電子郵件計畫 — 第1階段**:您現在可以在Sky中檢視電子郵件程式。 看看新設計 [告訴我們你的想法](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
 ## Analytics {#analytics}
 

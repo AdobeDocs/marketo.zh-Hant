@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->以星號表示的特徵(![](assets/yellow-star.png))是付費附加元件。 請連絡您的AdobeMarketo Engage代表以了解更多資訊。
+>以星號表示的特徵(![](assets/yellow-star.png))是付費附加元件。 請連絡您的Adobe Marketo Engage代表以了解更多資訊。
 
 **_每季發行_**
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->現在，測試版已提供電子郵件限制功能。 [深入了解](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+>現在，測試版已提供電子郵件限制功能。 [了解更多](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 * **增強銷售活動分析**:根據您銷售團隊的先前活動，擷取並啟用個人化參與。 新屬性（如「銷售呼叫記錄連結」、「銷售促銷活動名稱」和「銷售電子郵件主體」）可用於Marketo Engage智慧清單。  這些活動可透過「Marketo EngageREST API」或「大量匯出」來匯出和報告，並可在篩選器和觸發器上使用，作為智慧清單的其他限制。
 

@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ## Marketo時刻 {#marketo-moments}
 
-午餐時外出，但需要重新安排一封電子郵件嗎？ App Store或Google Play提供的Marketo Moments應用程式可讓您即時查看電子郵件和活動行銷活動的成效，以及未來iPhone、iPad或Android手機的成效。
+午餐時外出，但需要重新安排一封電子郵件嗎？ App Store或Google Play提供的Marketo Moments應用程式可讓您即時查看電子郵件和事件促銷活動的成效，以及未來將如何透過iPhone、iPad或Android手機執行。
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
 ## RTF編輯器更新 {#rich-text-editor-update}
 
 以現代化外觀更新文字編輯器，包括簡化的文字格式、影像編輯、連結插入和HTML編輯。 HTML編輯器現在提供最低驗證，讓程式碼編輯限制較少。
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` 此更新將在7月版本發行後的數天內自動推出。之後，您就可以從&#x200B;**管理員>電子郵件>編輯編輯器設定**&#x200B;在新版和舊版編輯器之間切換。
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` 此更新將在7月版本發行後的數天內自動推出。 之後，您就可以在編輯器的新版本和舊版之間切換 **「管理員>電子郵件>編輯編輯器設定」**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -47,9 +47,9 @@ ht-degree: 0%
 
 ## 公司API {#company-api}
 
-**透過REST API存取公司物件**:REST API現在提供Marketo公司（亦即帳戶）物件的存取權。這表示您可以讀取、更新和刪除在Marketo中建立的公司對象，並使用更新的銷售機會API將銷售機會與這些公司關聯。
+**透過REST API存取公司物件**:REST API現在提供Marketo公司（亦即帳戶）物件的存取權。 這表示您可以讀取、更新和刪除在Marketo中建立的公司對象，並使用更新的銷售機會API將銷售機會與這些公司關聯。
 
-在公司API的參考指南中了解[更多](https://developers.marketo.com/documentation/company-api/)。
+學習 [更多](https://developers.marketo.com/documentation/company-api/) 請參閱公司API的參考指南。
 
 ## 存取電子郵件傳遞 {#access-email-deliverability}
 

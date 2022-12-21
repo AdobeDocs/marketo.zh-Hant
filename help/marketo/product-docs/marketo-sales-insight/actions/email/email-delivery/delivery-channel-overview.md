@@ -1,64 +1,64 @@
 ---
-description: 交付渠道概述 — Marketo文檔 — 產品文檔
-title: 交付渠道概述
+description: 傳遞管道概觀 — Marketo檔案 — 產品檔案
+title: 傳遞通道概述
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
 
-# 交付渠道概述 {#delivery-channel-overview}
+# 傳遞通道概述 {#delivery-channel-overview}
 
-Marketo銷售部為您提供多種電子郵件發送選項。 本文將回顧您可以利用的交付渠道、如何選擇這些渠道以及何時選擇它們。
+Marketo Sales可為您提供多種傳送電子郵件的選項。 本文將檢閱您可運用的傳送管道、如何選取管道，以及何時選取管道。
 
-## 建議：通過電子郵件連接Gmail或Exchange {#recommended-gmail-or-exchange-via-email-connection}
+## 建議：透過Email Connection的Gmail或Exchange {#recommended-gmail-or-exchange-via-email-connection}
 
-Marketo銷售人員通過我們的電子郵件連接服務實現了簡化的設定和增強的交付能力。 電子郵件連接允許每個用戶連接到其 [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) 或 [交換](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) 客戶到Marketo銷售部，作為所有Marketo銷售電子郵件的交付渠道。
+Marketo Sales可透過我們的電子郵件連線服務，簡化設定並增強傳遞能力。 電子郵件連線可讓每位使用者連線至 [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) 或 [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) 帳戶至Marketo銷售人員，以作為所有Marketo銷售電子郵件的傳送管道。
 
-利用Gmail或Exchange與其他遞送渠道選項相比，具有一些獨特的優勢：
+與其他傳送管道選項相比，使用Gmail或Exchange有一些明顯的優點：
 
-* 這是一個久經考驗的交付渠道，擁有良好的聲譽，有助於保持高交付能力。
-* IT團隊已配置和管理SPF和DKIM等身份驗證方法，因此沒有其他設定。
-* 在給定電子郵件網路內發送電子郵件（即以Exchange用戶身份向通過Exchange接收電子郵件的公司發送電子郵件）有助於進一步提高可交付性。
+* 這是經過驗證的傳遞渠道，其信譽卓著，有助於保持高傳遞能力。
+* IT團隊已設定並管理SPF和DKIM等驗證方法，因此沒有其他設定。
+* 在指定的電子郵件網路內傳送電子郵件（即以Exchange使用者身分傳送電子郵件給透過Exchange接收電子郵件的公司），有助於進一步提高傳遞能力。
 
-必須注意的是，這些傳送渠道有自己的傳送限制，由Microsoft和Google執行。 為了克服這一問題，我們使用限制機制來幫助用戶保持在這些限制範圍內。 瞭解有關 [此處的電子郵件限制](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)。
+請務必注意，這些傳送管道有各自的傳送限制，由Microsoft和Google強制執行。 為了克服這種情況，我們利用節流機制來幫助用戶保持在這些限制內。 深入了解 [此處提供電子郵件限制](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 >[!NOTE]
 >
->預設情況下，O365插件將始終使用您的交換傳遞渠道，而Gmail插件將始終利用您的Gmail傳遞渠道來傳遞插件中的電子郵件。
+>依預設，O365外掛程式將一律使用您的交換傳送管道，而Gmail外掛程式將一律利用您的Gmail傳送管道，從外掛程式傳送電子郵件。
 
-**彈跳跟蹤**:Marketo銷售人員可以通過檢測發送到發件人收件箱的彈回郵件來檢測Exchange Online或Gmail用戶的回報。 這些退貨通知將匯總到用戶的模板分析、市場活動分析和即時訂閱源通知中。 Exchange On-Prem客戶不支援彈跳跟蹤。
+**跳出追蹤**:Marketo Sales可偵測傳送至寄件者收件匣的退信，以偵測Exchange Online或Gmail使用者的退信。 這些退信通知將統計至範本分析、行銷活動分析和使用者的即時摘要通知。 Exchange內部客戶不支援退信追蹤。
 
-## 通過SMTP的自定義傳遞通道 {#custom-delivery-channel-via-smtp}
+## 透過SMTP的自訂傳送通道 {#custom-delivery-channel-via-smtp}
 
-Marketo銷售人員提供了連接第三方SMTP伺服器以用作銷售團隊首選的交付渠道的附加選項。
+Marketo Sales提供了連接第三方SMTP伺服器以用作銷售團隊首選的傳送渠道的其他選項。
 
-對於以電子郵件量為首要優先順序的銷售團隊而言，利用第三方SMTP提供商是一個絕佳選擇。 SMTP提供程式（如Sendgrid和Sparkpost）已經過優化，可滿足批量電子郵件傳遞的需要，並可以擴展以滿足那些希望部署大量電子郵件的需要。
+對於以電子郵件數量為第一優先順序的銷售團隊來說，使用第三方SMTP提供者是絕佳的選擇。 SMTP提供程式（如Sendgrid和Sparkpost）經過優化，可滿足批量電子郵件傳送的需求，並可擴展以滿足那些希望部署大量電子郵件的提供者的需求。
 
-此外，第三方SMTP提供商提供了大量功能來幫助支援您團隊的可交付性需求（如電子郵件交付報告和專用IP地址），因此對於那些希望對其銷售電子郵件交付渠道進行更細的控制和查看的人來說，這是一個絕佳的選擇。
+此外，第三方SMTP提供者提供大量功能，以協助支援您團隊的傳遞需求（例如電子郵件傳送報告和專用的IP位址），因此對於那些想要獲得更精細控制並了解其銷售電子郵件傳送管道的人，這是絕佳的選擇。
 
 ## Marketo銷售伺服器（舊版） {#marketo-sales-servers-legacy}
 
-Marketo銷售伺服器僅適用於一些舊式ToutApp客戶。 這些客戶將在其電子郵件設定中看到Marketo銷售伺服器。 所有非傳統客戶都不會將Marketo銷售視為一種選擇，應將他們的Gmail或Outlook帳戶連接到Marketo銷售，以解鎖交付渠道。
+Marketo銷售伺服器僅適用於某些舊版ToutApp客戶。 這些客戶會在其電子郵件設定中看到可用的Marketo銷售伺服器。 所有非舊版客戶將不視Marketo Sales為選項，應將其Gmail或Outlook帳戶連線至Marketo Sales，以解鎖傳遞管道。
 
-Marketo銷售伺服器不支援DKIM和SPF身份驗證方法，這會降低傳輸率。 因此，我們建議所有客戶都連接到Gmail或Outlook，以獲得最佳的可交付性。
+Marketo銷售伺服器不支援DKIM和SPF驗證方法，這可能降低傳遞率。 因此，我們建議所有客戶連線至Gmail或Outlook，以獲得最佳的傳遞能力。
 
 ## MSC伺服器（舊版） {#msc-servers-legacy}
 
-MSC伺服器僅適用於某些舊式ToutApp客戶。 這些客戶將在電子郵件設定中看到MSC伺服器可用。 所有非傳統客戶將不會將MSC視為一個選項，應將其Gmail或Outlook帳戶連接到Sales Connect以解鎖傳遞渠道。
+MSC伺服器僅適用於某些舊版ToutApp客戶。 這些客戶將在其電子郵件設定中看到MSC伺服器可用。 所有非舊版客戶將不會將MSC視為選項，應將其Gmail或Outlook帳戶連接至Sales Connect，以解鎖傳送通道。
 
-MSC伺服器不支援DKIM和SPF認證方法，這會降低傳輸率。 因此，我們建議所有客戶都連接到Gmail或Outlook，以獲得最佳的可交付性。
+MSC伺服器不支援DKIM和SPF驗證方法，這會降低傳遞率。 因此，我們建議所有客戶連線至Gmail或Outlook，以獲得最佳的傳遞能力。
 
 ## Marketo伺服器 {#marketo-servers}
 
-Marketo電子郵件伺服器不與Marketo銷售部整合。 Marketo伺服器經過優化，可以批量交付，以滿足營銷人員的需求。 但是，Gmail和Exchange在1:1銷售通信中的成功率更高，因此我們建議將這些伺服器用於您的銷售通信。
+Marketo電子郵件伺服器未與Marketo銷售整合。 Marketo伺服器已針對大量傳送進行最佳化，以便根據行銷人員的需求進行擴充。 不過，Gmail和Exchange在1:1銷售通訊方面的成功率較高，因此我們建議將這些伺服器用於您的銷售通訊。
 
 >[!MORELIKETHIS]
 >
->* [Gmail用戶的電子郵件連接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [Gmail使用者的電子郵件連線](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 >* [Outlook用戶的電子郵件連接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
->* [設定自定義交付渠道](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
->* [電子郵件連接限制](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
+>* [設定自訂傳送通道](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
+>* [電子郵件連線限制](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
 

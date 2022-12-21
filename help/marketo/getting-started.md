@@ -69,7 +69,7 @@ ht-degree: 12%
       <a href="getting-started/quick-wins/email-auto-response.md">
        <img alt="匯入" src="getting-started/assets/getting-started-5.png" />
        </a>
-    <div><a href="getting-started/quick-wins/email-auto-response.md">5。 電子郵件自動回應</a>
+    <div><a href="getting-started/quick-wins/email-auto-response.md">5. 電子郵件自動回應</a>
     </div>
     <br>
   </td>

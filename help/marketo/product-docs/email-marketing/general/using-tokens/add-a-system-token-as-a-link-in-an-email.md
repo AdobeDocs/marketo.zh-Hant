@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# 在電子郵件{#add-a-system-token-as-a-link-in-an-email}中新增系統代號作為連結
+# 新增系統代號作為電子郵件中的連結 {#add-a-system-token-as-a-link-in-an-email}
 
 您可以使用這些系統代號來自訂特殊連結在電子郵件中的位置。
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->除非在錨點連結內，否則這些Token將&#x200B;**不可點按**。 此外，它們也可以&#x200B;**不**&#x200B;嵌入到我的代號中。
+>這些代號將 **not** 除非在錨點連結內，否則可供點按。 此外，他們可以 **not** 嵌入到我的令牌中。
 
 以下說明如何將其新增至電子郵件：
 
-1. 尋找並選取您的電子郵件，然後按一下「編輯草稿」**。**
+1. 尋找並選取您的電子郵件，然後按一下 **編輯草稿**.
 
    ![](assets/one-1.png)
 
@@ -34,28 +34,28 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 反白顯示要轉換為具有標籤的連結的文本，然後按一下&#x200B;**插入/編輯連結**&#x200B;按鈕。
+1. 反白顯示您要轉換為具有代號的連結，然後按一下 **插入/編輯連結** 按鈕。
 
    ![](assets/three-1.png)
 
-1. 在連結URL中輸入代號，然後按一下&#x200B;**插入**。
+1. 在連結URL中輸入代號，然後按一下 **插入**.
 
    ![](assets/four-1.png)
 
    >[!TIP]
    >
-   >複製/貼上您想要的代號：**`{{system.forwardToFriendLink}}`**&#x200B;或&#x200B;**`{{system.unsubscribeLink}}`**&#x200B;或&#x200B;**`{{system.viewAsWebpageLink}}`**
+   >複製/貼上您想要的代號： **`{{system.forwardToFriendLink}}`** 或 **`{{system.unsubscribeLink}}`** 或 **`{{system.viewAsWebpageLink}}`**
 
-1. 按一下「**儲存**」。
+1. 按一下 **儲存**.
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 
 >[!IMPORTANT]
 >
->如果您使用此方法來新增「viewAsWebpageLink」系統代號，則可以&#x200B;**不**&#x200B;使用代號來覆寫它。 請改為使用[將檢視新增為網頁連結至電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)方法，讓您使用代號覆寫「viewAsWebPageLink」。
+>如果您使用此方法來新增「viewAsWebpageLink」系統代號，您可以 **not** 使用Token覆寫。 請改用 [將檢視新增為電子郵件的網頁連結](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) 可讓您使用Token覆寫「viewAsWebPageLink」的方法。
 
 >[!NOTE]
 >
->完成時，別忘了[核准您的電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
+>別忘了 [核准電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) 時才能使用。
 
 幹得好！ 現在您知道如何將系統代號新增為電子郵件中的連結。

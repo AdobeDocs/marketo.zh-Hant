@@ -16,19 +16,19 @@ ht-degree: 0%
 
 ## 以成功標準作為參與分數 {#engagement-score-as-winning-criteria}
 
-[使用參與計](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) 分器來判斷A/B分割測試或Champion/Challenger測試中的成功變體。測試必須至少執行24小時，才能獲得足夠的參與分數。
+[使用參與分數](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) 來判斷A/B分割測試或Champion/Challenger測試中的成功變體。 測試必須至少執行24小時，才能獲得足夠的參與分數。
 
 ![](assets/image2014-9-22-10-3a46-3a49.png)
 
 ## 電子郵件計畫結果頁簽 {#email-program-results-tab}
 
-[查看為](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md) 電子郵件程式記錄的結果和活動。
+[查看結果](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md) 和為電子郵件程式記錄的活動。
 
 ![](assets/image2014-9-22-10-3a47-3a19.png)
 
 ## 被阻止郵寄的人員/線索 {#people-leads-blocked-from-mailing}
 
-[按一下封鎖的郵件編號](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 的人員/銷售機會，查看因取消訂閱、黑名單、電子郵件地址無效或空白或行銷暫停而將收不到電子郵件的人員。
+[按一下阻止郵寄的人員/線索](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 號碼可查看因取消訂閱、黑名單、電子郵件地址無效或空白或行銷暫停而未收到電子郵件的使用者。
 
 ![](assets/image2014-9-22-10-3a47-3a42.png)
 
@@ -38,13 +38,13 @@ ht-degree: 0%
 
 ## 參與資料流績效報表中的參與分數 {#engagement-score-in-engagement-stream-performance-report}
 
-我們已將「參與分數」新增至[「參與資料流績效報表」](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)，協助您了解參與計畫中的內容有何成效。
+我們將參與分數新增至 [參與資料流績效報表](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) 可協助您了解參與計畫中的內容有何成效。
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
 ## 電子郵件分析中的方案詳細資訊 {#program-details-in-email-analysis}
 
-[現在，您可以依方案名稱、管道和標籤來分組電子郵件量度](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)。當電子郵件是方案的本機資產時，方案名稱會新增至「電子郵件名稱」欄位。 新的「方案名稱」欄位會顯示傳送電子郵件之智慧行銷活動的方案名稱。 如果電子郵件是不同方案的本機資產，則可能與「電子郵件名稱」欄位中的方案不同。
+[現在，您可以依方案名稱、管道和標籤來分組電子郵件量度](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md). 當電子郵件是方案的本機資產時，方案名稱會新增至「電子郵件名稱」欄位。 新的「方案名稱」欄位會顯示傳送電子郵件之智慧行銷活動的方案名稱。 如果電子郵件是不同方案的本機資產，則可能與「電子郵件名稱」欄位中的方案不同。
 
 ![](assets/image2014-9-22-10-3a50-3a57.png)
 
@@ -60,6 +60,6 @@ ht-degree: 0%
 
 ## Forms 2.0增強功能 {#forms-enhancements}
 
-此版本已提供Forms 2.0多項「生命品質」更新。 除了對內嵌表單啟用漸進式設定檔外，我們還進行了工作流程和UX變更，讓您更輕鬆地使用編輯器中更進階的功能，[包括可見性規則](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)、進階感謝頁面和隱藏欄位。
+此版本已提供Forms 2.0多項「生命品質」更新。 除了對內嵌表單啟用漸進式分析外，我們還進行了工作流程和UX變更，讓您更輕鬆地使用編輯器中更進階的功能。 [包括可見性規則](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)、進階感謝頁面和隱藏欄位。
 
 ![](assets/image2014-9-22-10-3a51-3a54.png)

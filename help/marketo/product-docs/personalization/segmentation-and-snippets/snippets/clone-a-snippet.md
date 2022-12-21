@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359514
-description: 仿製程式碼片段——行銷人員檔案——產品檔案
+description: 原地復製程式碼片段 — Marketo檔案 — 產品檔案
 title: 復製程式碼片段
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
+# 復製程式碼片段 {#clone-a-snippet}
 
-# 複製代碼片段{#clone-a-snippet}
+復製程式碼片段，以建立可視需要修改的程式碼片段副本。
 
-復製程式碼片段，以建立可視需要修改的程式碼片段。
-
-1. 前往&#x200B;**Design Studio**。
+1. 前往 **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a32-3a36.png)
 
-1. 前往您的程式碼片段，然後在&#x200B;**程式碼片段動作**&#x200B;下，按一下&#x200B;**Clone**。
+1. 前往您的程式碼片段，然後在 **程式碼片段動作**，按一下 **原地複製**.
 
    ![](assets/image2014-9-16-10-3a32-3a44.png)
 
-1. 輸入程式碼片段詳細資訊，然後按一下&#x200B;**Clone**。
+1. 輸入程式碼片段詳細資訊，然後按一下 **原地複製**.
 
    ![](assets/image2014-9-16-10-3a32-3a53.png)
 

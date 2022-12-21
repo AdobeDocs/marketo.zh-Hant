@@ -1,147 +1,148 @@
 ---
-description: 產品使用限制 — Marketo文檔 — 產品文檔
-title: 產品使用限制
-source-git-commit: 4dd0d703347ed878f73ddc574d063a6746089887
+description: 產品使用限制 — Marketo檔案 — 產品檔案
+title: 產品使用量限制
+exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
+source-git-commit: b27cf5eae178b5b3da27e0c15c98eb3c3470cd5f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 13%
 
 ---
 
-# 產品使用限制 {#product-usage-limits}
+# 產品使用量限制 {#product-usage-limits}
 
-Sales Insight Actions中提供的擴展的銷售參與功能的使用限制如下：
+對於「銷售分析操作」中可用的擴展銷售參與功能，已設定以下限制。
 
 <table>
   <th>功能</th>
-  <th>比率</th>
+  <th>評比</th>
   <th>限制</th>
  <tr>
   <td>銷售電子郵件發送</td>
-  <td>每用戶/每天</td>
-  <td>零點一萬</td>
+  <td>每位使用者/每日</td>
+  <td>1,000</td>
  </tr>
  <tr>
-  <td>批量銷售電子郵件</td>
-  <td>發送</td>
+  <td>大量銷售電子郵件</td>
+  <td>每次傳送</td>
   <td>200</td>
  </tr>
  <tr>
-  <td>電子郵件模板</td>
-  <td>每個實例</td>
-  <td>零點二萬</td>
+  <td>電子郵件範本</td>
+  <td>每個執行個體</td>
+  <td>2,000</td>
  </tr>
  <tr>
-  <td>電子郵件模板類別</td>
-  <td>每個實例</td>
+  <td>電子郵件範本類別</td>
+  <td>每個執行個體</td>
   <td>500</td>
  </tr>
  <tr>
-  <td>電子郵件保存的搜索</td>
-  <td>用戶</td>
+  <td>電子郵件儲存的搜尋</td>
+  <td>每位使用者</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>市場活動類別</td>
-  <td>每個實例</td>
+  <td>促銷活動類別</td>
+  <td>每個執行個體</td>
   <td>500</td>
  </tr>
  <tr>
-  <td>市場活動啟動</td>
-  <td>每用戶/每天</td>
+  <td>促銷活動啟動</td>
+  <td>每位使用者/每日</td>
   <td>200</td>
  </tr>
  <tr>
-  <td>運行市場活動</td>
-  <td>每用戶/每天</td>
+  <td>行銷活動執行中</td>
+  <td>每位使用者/每日</td>
   <td>200</td>
  </tr>
  <tr>
-  <td>批量市場活動</td>
+  <td>大量促銷活動</td>
   <td>每次啟動</td>
   <td>200</td>
  </tr>
  <tr>
-  <td>市場活動</td>
-  <td>每個實例</td>
+  <td>行銷活動</td>
+  <td>每個執行個體</td>
   <td>500</td>
  </tr>
   <td>呼叫</td>
-  <td>每用戶/每月（跨實例共用）</td>
+  <td>每位使用者/每月（跨例項共用）</td>
   <td>50分鐘</td>
  </tr>
  <tr>
   <td>呼叫錄制</td>
-  <td>每用戶/每月（跨實例共用）</td>
+  <td>每位使用者/每月（跨例項共用）</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>組</td>
-  <td>用戶</td>
+  <td>群組</td>
+  <td>每位使用者</td>
   <td>50</td>
  </tr>
  <tr>
   <td>已上載附件</td>
-  <td>用戶</td>
+  <td>每位使用者</td>
   <td>25</td>
  </tr>
  <tr>
-  <td>用戶席位</td>
-  <td>每個實例</td>
+  <td>使用者座位</td>
+  <td>每個執行個體</td>
   <td>100</td>
  </tr>
  <tr>
   <td>團隊</td>
-  <td>每個實例</td>
+  <td>每個執行個體</td>
   <td>20</td>
  </tr>
  <tr>
   <td>呼叫結果</td>
-  <td>每個實例</td>
+  <td>每個執行個體</td>
   <td>15</td>
  </tr>
  <tr>
   <td>呼叫原因</td>
-  <td>每個實例</td>
+  <td>每個執行個體</td>
   <td>15</td>
  </tr>
  <tr>
-  <td>電話錄音通知</td>
-  <td>每個實例</td>
+  <td>通話錄音通知</td>
+  <td>每個執行個體</td>
   <td>5</td>
  </tr>
  <tr>
   <td>從Marketo同步的欄位</td>
-  <td>每個實例</td>
+  <td>每個執行個體</td>
   <td>13</td>
  </tr>
-  <td>電子郵件標識</td>
-  <td>用戶</td>
+  <td>電子郵件身分</td>
+  <td>每位使用者</td>
   <td>2</td>
  </tr>
  <tr>
   <td>團隊SMTP伺服器連接</td>
-  <td>每個實例</td>
+  <td>每個執行個體</td>
   <td>1</td>
  </tr>
  <tr>
   <td>團隊取消訂閱消息</td>
-  <td>每個實例</td>
+  <td>每個執行個體</td>
   <td>1</td>
  </tr>
  <tr>
-  <td>Marketo連接</td>
-  <td>每個實例</td>
+  <td>Marketo連線</td>
+  <td>每個執行個體</td>
   <td>1</td>
  </tr>
  <tr>
   <td>SFDC連接</td>
-  <td>用戶</td>
+  <td>每位使用者</td>
   <td>1</td>
  </tr>
  <tr>
-  <td>自定義域</td>
-  <td>每個實例</td>
+  <td>自訂網域</td>
+  <td>每個執行個體</td>
   <td>1</td>
  </tr>
 </table>

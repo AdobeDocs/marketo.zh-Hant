@@ -1,33 +1,33 @@
 ---
-description: 將銷售活動屬性記錄到Salesforce -Marketo文檔 — 產品文檔
+description: 將銷售活動屬性記錄至Salesforce - Marketo檔案 — 產品檔案
 title: 將銷售活動屬性記錄到Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
 source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
 workflow-type: tm+mt
 source-wordcount: '363'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
 # 將銷售活動屬性記錄到Salesforce {#logging-sales-activity-attributes-to-salesforce}
 
-Salesforce管理員可以手動將自定義活動欄位添加到Salesforce。
+Salesforce管理員可以手動將自訂活動欄位新增至Salesforce。
 
-1. 在Salesforce帳戶中，按一下 **設定**。
+1. 在您的Salesforce帳戶中，按一下 **設定**.
 
-1. 在快速搜索欄位中搜索「活動自定義欄位」，然後按一下。
+1. 在快速搜尋欄位中搜尋「活動自訂欄位」，然後按一下。
 
-1. 按一下 **新建**。
+1. 按一下 **新增**.
 
-1. 根據下表選擇與要添加的欄位對應的資料類型，然後按一下 **下一個**。
+1. 根據下表選擇要添加的欄位對應的資料類型，然後按一下 **下一個**.
 
 1. 輸入與要添加的欄位對應的欄位名稱和標籤。
 
-下表中各列的說明：
+下表中各欄的說明：
 
-* **欄位標籤**:UI中顯示的欄位名稱（可以自定義此名稱，以提高團隊的可讀性）
-* **欄位名稱**:欄位的技術名稱（確保輸入的欄位名稱與下表中的欄位名稱匹配）
-* **API名稱**:API欄位的技術名稱（確保輸入的API名稱與下表中的API名稱匹配）
+* **欄位標籤**:UI中顯示的欄位名稱（此名稱可由您的團隊自訂，以改善可讀性）
+* **欄位名稱**:欄位的技術名稱（請確定您輸入的欄位名稱與下表中的欄位名稱相符）
+* **API名稱**:API欄位的技術名稱（請確定您輸入的API名稱與下表中的API名稱相符）
 * **資料類型**:欄位類型
 * **大小**:文本欄位的大小
 
@@ -41,8 +41,8 @@ Salesforce管理員可以手動將自定義活動欄位添加到Salesforce。
  </tr>
   <tr>
   <td>呼叫結果</td>
-  <td>mktosales_call_outce</td>
-  <td>mktosales_call_outce__c</td>
+  <td>mktosales_call_ouptue</td>
+  <td>mktosales_call_oupte__c</td>
   <td>文字</td>
   <td>50</td>
  </tr>
@@ -56,12 +56,12 @@ Salesforce管理員可以手動將自定義活動欄位添加到Salesforce。
  <tr>
   <td>Marketo銷售呼叫本地存在ID</td>
   <td>MSE_Call_Local_Presence_ID</td>
-  <td>MSE_Call_Local_Presence_ID_c</td>
+  <td>MSE_Call_Local_Presence_ID__c</td>
   <td>文字</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Marketo銷售呼叫錄制URL</td>
+  <td>Marketo銷售呼叫記錄URL</td>
   <td>MSE_Call_Recording</td>
   <td>MSE_Call_Recording__c</td>
   <td>URL</td>
@@ -69,62 +69,62 @@ Salesforce管理員可以手動將自定義活動欄位添加到Salesforce。
  </tr>
  <tr>
   <td>Marketo銷售活動</td>
-  <td>MSE_市場活動</td>
-  <td>MSE_Campign_c</td>
+  <td>MSE_Campaign</td>
+  <td>MSE_Campaign__c</td>
   <td>文字</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Marketo銷售活動當前步驟</td>
-  <td>MSE_Current_Campign_Step</td>
-  <td>MSE_Current_Campaign_Step_c</td>
+  <td>Marketo促銷活動目前步驟</td>
+  <td>MSE_Current_Campaign_Step</td>
+  <td>MSE_Current_Campaign_Step__c</td>
   <td>文字</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Marketo銷售活動URL</td>
+  <td>Marketo銷售促銷活動URL</td>
   <td>MSE_Campaign_Details_Link</td>
-  <td>MSE_Campaig_Details_Link_c</td>
+  <td>MSE_Campaign_Details_Link__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo銷售電子郵件附件已查看</td>
+  <td>Marketo已查看銷售電子郵件附件</td>
   <td>MSE_Presentation_Viewed</td>
   <td>MSE_Presentation_Viewed__c</td>
-  <td>複選框</td>
+  <td>核取方塊</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo銷售電子郵件已按一下</td>
-  <td>已按一下MSE_</td>
+  <td>Marketo銷售電子郵件已點按</td>
+  <td>MSE_Clicked</td>
   <td>MSE_Clicked__c</td>
-  <td>複選框</td>
+  <td>核取方塊</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo銷售電子郵件已回復</td>
-  <td>MSE_Rexpled</td>
-  <td>MSE_Rexpled__c</td>
-  <td>複選框</td>
+  <td>Marketo銷售電子郵件已回覆</td>
+  <td>MSE_Respled</td>
+  <td>MSE_Respled__c</td>
+  <td>核取方塊</td>
   <td></td>
  </tr>
  <tr>
   <td>Marketo銷售電子郵件狀態</td>
-  <td>MSE_E-mail_Status</td>
-  <td>MSE_E-mail_Status__c</td>
+  <td>MSE_Email_Status</td>
+  <td>MSE_Email_Status__c</td>
   <td>文字</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo銷售電子郵件模板</td>
-  <td>MSE_模板</td>
-  <td>MSE_Template_c</td>
+  <td>Marketo銷售電子郵件範本</td>
+  <td>MSE_Template</td>
+  <td>MSE_Template__c</td>
   <td>文字</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Marketo銷售電子郵件模板URL</td>
+  <td>Marketo銷售電子郵件範本URL</td>
   <td>MSE_Template_Details</td>
   <td>MSE_Template_Details__c</td>
   <td>URL</td>
@@ -132,16 +132,16 @@ Salesforce管理員可以手動將自定義活動欄位添加到Salesforce。
  </tr>
  <tr>
   <td>Marketo銷售電子郵件URL</td>
-  <td>MSE_詳細資訊</td>
+  <td>MSE_Details</td>
   <td>MSE_Details__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo銷售電子郵件已查看</td>
-  <td>已查看MSE_</td>
-  <td>MSE_已查看__c</td>
-  <td>複選框</td>
+  <td>Marketo已檢視銷售電子郵件</td>
+  <td>MSE_Viewed</td>
+  <td>MSE_Viewed__c</td>
+  <td>核取方塊</td>
   <td></td>
  </tr>
 </table>

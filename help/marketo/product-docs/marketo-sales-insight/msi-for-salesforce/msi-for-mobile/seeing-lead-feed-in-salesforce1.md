@@ -1,21 +1,20 @@
 ---
 unique-page-id: 7512654
-description: 在Salesforce1中檢視銷售機會資訊源1 —— 行銷檔案——產品檔案
-title: 在Salesforce中查看銷售線索1
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: 在Salesforce1 - Marketo檔案 — 產品檔案中查看銷售機會摘要
+title: 在Salesforce1中查看銷售機會摘要
+exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
+# 在Salesforce1中查看銷售機會摘要 {#seeing-lead-feed-in-salesforce}
 
-# 在Salesforce1 {#seeing-lead-feed-in-salesforce}中查看銷售機會饋送
+銷售機會摘要是您銷售機會完成之最新有趣事件清單。
 
-「銷售線索摘要」是您銷售線索所執行之最新有趣事件清單。
-
-1. 前往Salesforce1的&#x200B;**Marketo**&#x200B;區域。
+1. 前往 **Marketo** 區域。
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,17 +22,17 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. 點選&#x200B;**Lead Feed**。
+1. 點選 **銷售機會摘要**.
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
-   完美！ 現在，您已知道如何進入您的銷售機會摘要！
+   完美！ 現在您知道如何取得銷售機會！
 
    ![](assets/image2015-4-23-17-3a20-3a12.png)
 
 >[!MORELIKETHIS]
 >
->* [Salesforce中的有趣時刻1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [在Salesforce中傳送Marketon至電子郵件和促銷活動與監看清單動作1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Salesforce中的最佳選擇1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [Salesforce1中的有趣時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [在Salesforce1中傳送Marketo電子郵件和促銷活動與觀看清單動作](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Salesforce中最佳策略1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
 

@@ -1,27 +1,26 @@
 ---
 unique-page-id: 10097202
-description: 電子郵件計畫快速入門——行銷檔案——產品檔案
-title: 電子郵件計畫快速入門
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: 電子郵件計畫搶灘 — Marketo檔案 — 產品檔案
+title: 電子郵件計畫搶灘
+exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
 
-
-# 電子郵件程式快速入門{#head-start-for-email-programs}
+# 電子郵件計畫搶灘 {#head-start-for-email-programs}
 
 >[!PREREQUISITES]
 >
 >[建立電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
-當您選擇電子郵件程式的日期／時間時，會決定程式何時開始處理。 如果您希望電子郵件在選定時間啟動，Head Start會提前處理程式，為您提供此選項。
+當您選擇電子郵件方案的日期/時間時，會決定方案何時開始處理。 如果您希望電子郵件在選取的時間啟動，「開始」會提前處理程式，以提供此選項。
 
-## 標準頭開始{#standard-head-start}
+## 標準頭開始 {#standard-head-start}
 
-1. 按一下「行銷活動」**。**
+1. 按一下 **行銷活動**.
 
    ![](assets/one-1.png)
 
@@ -31,50 +30,50 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Head Start不能用於A/B測試。
+   >Head Start無法與A/B測試搭配使用。
 
-1. 在「排程」方塊中，排程您的電子郵件，然後選取「開始前」方塊。****
+1. 在「排程」方塊中，排程您的電子郵件，然後選取 **開始** 框。
 
    ![](assets/three-1.png)
 
-   在選擇「開始前」後，該程式將在預定時間前大約12小時開始處理。 一旦處理開始，程式即被鎖定。
+   選擇「開始前」後，程式將在計畫時間前大約12小時開始處理。 處理開始後，程式即會鎖定。
 
    >[!CAUTION]
    >
-   >在程式鎖定後取消訂閱的觀眾，仍會收到電子郵件。 我們建議您調整取消訂閱通知，以反映取消訂閱可能需要1-2個工作天才能處理。
+   >在程式鎖定後取消訂閱的對象仍會收到電子郵件。 建議您調整取消訂閱通知，以反映取消訂閱可能需要1至2個工作天的時間才能處理。
 
-1. 按一下&#x200B;**批准程式**。
+1. 按一下 **核准方案**.
 
    ![](assets/four-1.png)
 
-   方案核准後，您在「核准」方塊上會看到四種不同的狀態。
+   方案核准後，您可能會在「核准」方塊上看到四種不同的狀態。
 
-   * **等待運行：** 程式獲得批准後。
-   * **處理已開始，等待運行：處** 理正在進行中。
-   * **處理完成，等待執行：處** 理完成，電子郵件現在等待排程的啟動時間。
-   * **完成：程** 式完成。
+   * **等待運行：** 在方案通過後。
+   * **處理已開始，等待運行：** 正在處理。
+   * **處理已完成，等待運行：** 處理已完成，電子郵件現在正等待排程的啟動時間。
+   * **已完成：** 程式已完成。
 
    >[!TIP]
    >
-   >想要在程式鎖定後取消，但電子郵件傳送之前取消？ 沒問題！ 只要按一下「核准」方塊右下方的「中止程式」(Abort Program)。****
+   >在程式鎖定後但在電子郵件發送前要取消嗎？ 沒問題！ 只需按一下 **中止程式** 在「批准」表徵圖的右下側。
 
    >[!NOTE]
    >
-   >如果您在電子郵件程式排程執行時間前不到12小時取消核准，但是改變心意，則必須選擇新的日期／時間，這至少比您核準時提前12小時。
+   >如果您在排程執行時間前不到12小時取消核准電子郵件程式，但之後又改變主意，則需要選取新日期/時間，在核準時至少要提前12小時。
 
-## 從收件者時區{#head-start-with-recipient-time-zone}開始
+## 從收件者時區開始 {#head-start-with-recipient-time-zone}
 
-我們現有的Head Start功能要求計畫至少提前12小時完成。 這對收件者時區意味著什麼？ 請記住，當「收件者時區」處於活動狀態時，我們會在最早時區的午夜(UTC +14:00)開始運行電子郵件程式。 因此，要啟用&#x200B;**兩個**&#x200B;頭開始時區和接收時區，需要在最早時區之前至少安排&#x200B;**12小時(UTC +14:00**)。
+我們現有的「搶先」功能要求該計畫至少提前12小時安排。 這對收件者時區有何意義？ 回想一下，當「收件者時區」處於作用中狀態時，我們會在最早時區的午夜(UTC +14:00)開始執行電子郵件程式。 所以，為了 **both** 頭開始和收件者時區，需要排程方案 **比最早時區提前至少12小時(UTC +14:00)**.)
 
-這表示如果您在美國／洛杉磯，並想要同時啟用「開始前」和「接收者時區」，則需要事先安排計畫&#x200B;**34小時**。 我們怎麼得到這個號碼的？
+這表示，如果您在美國/洛杉磯，且想同時啟用「搶先」和「收件者時區」，則需要排程方案 **34小時** 事先。 我們怎麼得到這個號碼的？
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[進一](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) 步瞭解如何使用收件者時區排程電子郵件方案。
+[深入了解](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) 關於如何使用收件者時區排程電子郵件方案的資訊。
 
 >[!MORELIKETHIS]
 >
 >* [排程您的電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
->* [計畫包含收件者時區的電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [瞭解收件者時區](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [使用收件者時區排程電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [了解收件者時區](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 

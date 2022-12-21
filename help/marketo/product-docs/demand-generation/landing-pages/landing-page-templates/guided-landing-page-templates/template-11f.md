@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板11F {#template-11f}
 
-按一下右鍵[下載模板11F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)
+按一下右鍵以 [下載範本11F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)
 
 ![](assets/image2015-8-4-13-3a57-3a13.png)
 

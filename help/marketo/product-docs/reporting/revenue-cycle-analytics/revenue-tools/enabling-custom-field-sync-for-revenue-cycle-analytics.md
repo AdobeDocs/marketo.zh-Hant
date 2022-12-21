@@ -1,37 +1,36 @@
 ---
 unique-page-id: 3571888
-description: 啟用收入週期分析的自訂欄位同步——行銷檔案——產品檔案
+description: 啟用收入週期分析的自訂欄位同步 — Marketo檔案 — 產品檔案
 title: 啟用收入週期分析的自訂欄位同步
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
+# 啟用收入週期分析的自訂欄位同步 {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
-# 啟用收入週期分析的自訂欄位同步{#enabling-custom-field-sync-for-revenue-cycle-analytics}
+下列步驟可讓您利用RCA報表中的自訂欄位。
 
-以下步驟將允許您利用RCA報告中的自定義欄位。
-
-1. 按一下&#x200B;**管理**。
+1. 按一下 **管理**.
 
    ![](assets/one.png)
 
-1. 按一下「收入週期分析」，然後按一下「自訂欄位同步」。********
+1. 按一下 **收入週期分析**，然後 **自訂欄位同步**.
 
    ![](assets/two.png)
 
-1. 選擇&#x200B;**欄位名** ，然後按一下&#x200B;**編輯同步選項**。
+1. 選取 **欄位名稱**，然後按一下 **編輯同步選項**.
 
    ![](assets/three.png)
 
-1. 在同步狀態下，選擇&#x200B;**啟用**，然後按一下&#x200B;**保存**。
+1. 在同步狀態下，選擇 **已啟用**，然後按一下 **儲存**.
 
    ![](assets/four.png)
 
-1. 綠色勾選可讓您知道欄位已設定為同步。
+1. 綠色檢查可讓您知道欄位已設定為同步。
 
    ![](assets/five.png)
 
@@ -39,4 +38,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >啟用欄位後，資料將於次日在收入週期分析中可用。
+   >欄位啟用後，資料將於隔天於收入週期分析中使用。

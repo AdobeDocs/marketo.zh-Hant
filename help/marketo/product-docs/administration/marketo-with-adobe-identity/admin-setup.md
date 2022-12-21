@@ -1,5 +1,5 @@
 ---
-description: 管理設定 — Marketo文檔 — 產品文檔
+description: 管理設定 — Marketo檔案 — 產品檔案
 title: 管理設定
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
@@ -11,46 +11,46 @@ ht-degree: 0%
 
 # 管理設定 {#admin-setup}
 
-將您添加為Adobe系統管理員，以在Adobe組織中Marketo Engage後，您需要執行一些步驟來完成初始設定。
+將您新增為Adobe系統管理員以Marketo EngageAdobe組織後，您必須執行一些步驟才能完成初始設定。
 
 ## 初始設定 {#initial-setup}
 
-1. 將您添加為指定的系統管理員以進行Marketo Engage（在新組織或已建立的組織中）後，您將收到一封歡迎電子郵件。 在該電子郵件中，按一下 **開始**。
+1. 將您新增為Marketo Engage的指定系統管理員（在新或已建立的組織中）後，您會收到歡迎電子郵件。 在該電子郵件中，按一下 **開始使用**.
 
    ![](assets/admin-setup-1.png)
 
-1. 如果您以前曾訪問過Adobe ID的應用程式，您將被直接帶到Adobe Admin Console。 如果沒有， [設定你的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}。
+1. 如果您先前曾使用Adobe ID存取應用程式，系統會將您直接帶往Adobe Admin Console。 如果沒有， [設定您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}。
 
    ![](assets/admin-setup-2.png)
 
-## 建立產品配置檔案 {#create-a-product-profile}
+## 建立產品設定檔 {#create-a-product-profile}
 
-系統管理員訪問Admin Console後，該建立產品配置檔案了。 這就是您的用戶/管理員訪問Marketo Engage的方式。
+系統管理員存取Admin Console後，就該建立產品設定檔了。 這是您的使用者/管理員存取Marketo Engage的方式。
 
-1. 在「概述」頁的「產品和服務」下，按一下 **Marketo Engage**。
+1. 在概述頁面的產品與服務底下，按一下 **Marketo Engage**.
 
    ![](assets/admin-setup-3.png)
 
-1. 選擇所需的訂閱。 如果您只有一個，請跳至下一步。
+1. 選擇所需的訂閱。 如果您只有一個，請跳至下一個步驟。
 
    ![](assets/admin-setup-4.png)
 
    >[!NOTE]
    >
-   >如果您確實有多個訂閱，則必須對每個訂閱都執行這些步驟。
+   >如果您有多個訂閱，則必須對每個訂閱執行這些步驟。
 
-1. 按一下 **新建配置檔案** 按鈕
+1. 按一下 **新設定檔** 按鈕。
 
    ![](assets/admin-setup-5.png)
 
-1. 為產品配置檔案指定名稱（顯示名稱和說明是可選的），然後按一下 **保存**。
+1. 為產品設定檔命名（「顯示名稱」和「說明」為選用項目），然後按一下 **儲存**.
 
    ![](assets/admin-setup-6.png)
 
 >[!NOTE]
 >
->如果您設定了多個產品配置檔案，則用戶對Marketo的訪問權限將相同，而不管他們添加到哪個配置檔案。
+>如果您設定多個產品設定檔，無論使用者新增到哪個設定檔，使用者都可以擁有相同的Marketo存取權。
 
 >[!MORELIKETHIS]
 >
->[添加或刪除產品管理員](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target=&quot;_blank&quot;
+>[新增或移除產品管理員](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target=&quot;_blank&quot;}

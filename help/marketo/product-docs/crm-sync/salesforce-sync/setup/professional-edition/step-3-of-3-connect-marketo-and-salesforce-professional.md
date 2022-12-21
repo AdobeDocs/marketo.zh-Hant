@@ -26,15 +26,15 @@ ht-degree: 0%
 >
 >如果您已擁有安全令牌，請直接繼續設定同步用戶憑據和kudo以準備！
 
-1. 使用Marketo同步用戶登錄Salesforce，按一下同步用戶的名稱，然後按一下&#x200B;**我的設定**。
+1. 使用Marketo同步使用者登入Salesforce，按一下同步使用者的名稱，然後 **我的設定**.
 
    ![](assets/image2015-5-21-14-3a11-3a17.png)
 
-1. 在導覽列中，輸入「reset」，然後按一下&#x200B;**「重設我的安全權杖」**。
+1. 在導覽列中，輸入「reset」並按一下 **重設我的安全令牌**.
 
    ![](assets/image2014-12-9-9-3a52-3a42.png)
 
-1. 按一下「**重設安全令牌**」。
+1. 按一下 **重設安全令牌**.
 
    ![](assets/image2015-5-21-14-3a13-3a5.png)
 
@@ -42,33 +42,33 @@ ht-degree: 0%
 
 ## 設定同步用戶憑據 {#set-sync-user-credentials}
 
-1. 在Marketo中，前往&#x200B;**Admin**，選取&#x200B;**CRM**，然後按一下「與[Salesforce.com](https://Salesforce.com)**同步」。**
+1. 在Marketo中，前往 **管理**，選取 **CRM**，然後按一下 **與同步 [Salesforce.com](https://Salesforce.com)**.
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
    >[!NOTE]
    >
-   >在按一下&#x200B;**同步欄位**&#x200B;之前，請務必在Marketo中隱藏您不需要的所有欄位。 [](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)按一下「同步欄位」後，使用者可看見的所有欄位都會在Marketo中建立，且無法刪除。
+   >一定要 [隱藏所有不需要的欄位](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) 在Marketo中按一下 **同步欄位**. 按一下「同步欄位」後，使用者可看見的所有欄位都會在Marketo中建立，且無法刪除。
 
-1. 輸入在Salesforce配置的第2部分([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)、[Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)中建立的Salesforce同步用戶憑據，然後按一下&#x200B;**Sync Fields**。
+1. 輸入在Salesforce配置的第2部分中建立的Salesforce同步用戶憑據([專業](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [企業](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) 按一下 **同步欄位**.
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
    >[!NOTE]
    >
-   >如果您正在將Marketo沙箱同步至Salesforce沙箱，請檢查&#x200B;**沙箱**。
+   >檢查 **沙箱** 如果您正在將Marketo沙箱同步至Salesforce沙箱。
 
-1. 閱讀警告，然後按一下&#x200B;**確認憑據**。
+1. 閱讀警告，然後按一下 **確認憑證**.
 
    ![](assets/image2014-12-9-9-3a53-3a16.png)
 
    >[!CAUTION]
    >
-   >如果您想查看[對應並自訂](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)，這是您唯一的機會！ 按一下「啟動Salesforce同步」後，即可完成。
+   >如果您想查看 [映射和自定義](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)，這是你唯一的機會！ 按一下「啟動Salesforce同步」後，即可完成。
 
 ## 啟動Salesforce同步 {#start-salesforce-sync}
 
-1. 按一下&#x200B;**啟動Salesforce同步**&#x200B;以開始持續的Marketo-Salesforce同步。
+1. 按一下 **啟動Salesforce同步** 開始持續的Marketo-Salesforce同步。
 
    ![](assets/image2014-12-9-9-3a53-3a24.png)
 
@@ -76,7 +76,7 @@ ht-degree: 0%
    >
    >Marketo不會針對Salesforce同步或當您手動輸入銷售機會時自動消除重複資料。
 
-1. 按一下&#x200B;**開始同步**。
+1. 按一下 **開始同步**.
 
    ![](assets/image2014-12-9-9-3a53-3a32.png)
 
@@ -88,11 +88,11 @@ ht-degree: 0%
 
 Marketo會在「管理」區域中提供Salesforce同步的狀態訊息。 您可以依照下列步驟來驗證同步是否正確運作。
 
-1. 在Marketo中，按一下&#x200B;**Admin**，然後按一下&#x200B;**Salesforce**。
+1. 在Marketo中，按一下 **管理**，然後 **Salesforce**.
 
    ![](assets/image2014-12-9-9-3a53-3a40.png)
 
-1. 同步狀態顯示在右上角。 它將顯示三條消息之一：**上次同步**、**正在同步**&#x200B;或&#x200B;**失敗**。
+1. 同步狀態顯示在右上角。 它將顯示三條消息之一： **上次同步**, **正在同步**，或 **失敗**.
 
    ![](assets/image2014-12-9-9-3a53-3a50.png)
 

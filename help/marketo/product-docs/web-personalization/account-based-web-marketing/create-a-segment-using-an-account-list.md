@@ -1,17 +1,16 @@
 ---
 unique-page-id: 4720236
-description: 使用帳戶清單建立區段——行銷檔案——產品檔案
+description: 使用帳戶清單建立區段 — Marketo檔案 — 產品檔案
 title: 使用帳戶清單建立區段
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-
-# 使用帳戶清單{#create-a-segment-using-an-account-list}建立區段
+# 使用帳戶清單建立區段 {#create-a-segment-using-an-account-list}
 
 以下說明如何使用帳戶清單建立區段。
 
@@ -19,28 +18,28 @@ ht-degree: 0%
 >
 >[建立新帳戶清單](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
-1. 前往&#x200B;**區段**。
+1. 前往 **區段**.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. 按一下&#x200B;**新建**。
+1. 按一下 **新建**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. 輸入區段的名稱。 從&#x200B;**Firmographics**&#x200B;區段拖放&#x200B;**帳戶清單**。
+1. 輸入區段的名稱。 拖放 **帳戶清單** 從 **Firmographics** 區段。
 
    ![](assets/set-segment-hands.jpg)
 
-1. 從您已上傳的已命名帳戶清單中選取帳戶清單。 「帳戶清單名稱」旁方括弧的數字是「清單供API參考」的ID。
+1. 從您上傳的已命名帳戶清單中選取帳戶清單。 「帳戶清單名稱」旁方括弧中的數字是API參考清單的ID。
 
    ![](assets/select-list-for-segment-hands.jpg)
 
    >[!NOTE]
    >
-   >帳戶清單會從ABM同步到Web個人化，以便用於區段。 從下拉式清單中選取它們。 同步最多需要5分鐘。 只有在「帳戶清單」中有一或多個「已命名帳戶」時，才會同步。
+   >帳戶清單會從ABM同步至Web個人化，以用於分段。 從下拉式清單中選取它們。 同步最多需要5分鐘。 只有在帳戶清單中有一或多個指定帳戶時，才會同步。
 
-1. 按一下&#x200B;**儲存**，或按一下&#x200B;**儲存並定義促銷活動**&#x200B;以前往「促銷活動」頁面。
+1. 按一下 **儲存**，或按一下 **儲存並定義促銷活動** 前往「促銷活動」頁面。
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-恭喜！ 您現在已設定以帳戶清單為目標的區段。
+恭喜您！您現在已設定以「帳戶清單」為目標的區段。

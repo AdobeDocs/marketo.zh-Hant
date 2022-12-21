@@ -25,7 +25,7 @@ ht-degree: 2%
 
 ![](assets/dialogue-overview-2.png)
 
-## 報告 {#reports}
+## 報表 {#reports}
 
 此 [報表](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)對話方塊的{target=&quot;_blank&quot;}區段可讓您查看對話方塊執行狀況的相關量度。
 

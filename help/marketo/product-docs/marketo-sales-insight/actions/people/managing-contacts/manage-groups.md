@@ -1,6 +1,6 @@
 ---
-description: 管理組 — Marketo文檔 — 產品文檔
-title: 管理組
+description: 管理群組 — Marketo檔案 — 產品檔案
+title: 管理群組
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
@@ -9,11 +9,11 @@ ht-degree: 0%
 
 ---
 
-# 管理組 {#manage-groups}
+# 管理群組 {#manage-groups}
 
-瞭解如何在Sales Insight Actions中管理組。
+了解如何在Sales Insight Actions中管理您的群組。
 
-## 組類型 {#group-types}
+## 群組類型 {#group-types}
 
 <table> 
  <colgroup> 
@@ -22,55 +22,55 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>組</th> 
+   <th>群組</th> 
    <th>說明</th> 
   </tr> 
   <tr> 
    <td>所有人</td> 
-   <td>所有用戶中對您可見的所有聯繫人。</td> 
+   <td>您可看見之所有使用者的所有聯絡人。</td> 
   </tr> 
   <tr> 
-   <td>動態組</td> 
-   <td>我的聯繫人：你所有的聯繫人。<br>取消訂閱：已拒絕接收信件的聯繫人。</td> 
+   <td>動態群組</td> 
+   <td>我的聯繫人：你擁有的所有聯繫人。<br>取消訂閱：已選擇退出的聯繫人接收通信。</td> 
   </tr> 
   <tr> 
-   <td>我的組</td> 
+   <td>我的群組</td> 
    <td>已建立的組。 它們可以包含您的聯繫人或已與您共用的聯繫人。</td> 
   </tr> 
   <tr> 
-   <td>團隊組</td> 
-   <td>已與和/或您共用的組。 它們可以包含你的隊友的聯繫人，或者你與他們共用的聯繫人。</td> 
+   <td>團隊群組</td> 
+   <td>已與和/或您共用的群組。 他們可以包含你的隊友的聯繫人，或者你與他們共用的聯繫人。</td> 
   </tr> 
  </tbody> 
 </table>
 
-## 建立組 {#create-a-group}
+## 建立群組 {#create-a-group}
 
-1. 在「人員」頁中，按一下 **+** 清單中。
+1. 在「人員」頁面中，按一下 **+** 在組旁邊。
 
    ![](assets/manage-groups-1.png)
 
-1. 命名您的組並按一下 **建立**。
+1. 為您的群組命名，然後按一下 **建立**.
 
    ![](assets/manage-groups-2.png)
 
    就這樣！
 
-## 將聯繫人添加到組 {#add-contacts-to-a-group}
+## 向組添加聯繫人 {#add-contacts-to-a-group}
 
-1. 在「人員」頁中，查找並選擇要向其中添加人員的組。
+1. 在「人員」頁面中，尋找並選取您要新增人員的群組。
 
    ![](assets/manage-groups-3.png)
 
-1. 按一下 **組操作** 選擇 **建立聯繫人並添加到組**。
+1. 按一下 **群組動作** 選取 **建立聯繫人並添加到組**.
 
    ![](assets/manage-groups-4.png)
 
    >[!NOTE]
    >
-   >這將一次添加一個聯繫人。 要同時添加多個聯繫人，請遵循 [這些步驟](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)。
+   >這一次會新增一個連絡人。 要同時添加多個聯繫人，請遵循 [這些步驟](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
 
-1. 填寫聯繫人資訊，然後按一下 **建立** 或 **新建和添加** )。
+1. 填寫聯繫人的資訊，然後按一下 **建立** (或 **建立和新增** 新增其他)。
 
    ![](assets/manage-groups-5.png)
 
@@ -78,61 +78,61 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可能必須點擊刷新才能查看添加的任何新聯繫人。
+   >您可能必須點擊重新整理才能看到任何新的聯絡人。
 
-## 共用組 {#share-a-group}
+## 共用群組 {#share-a-group}
 
-1. 在「人員」頁中，查找並選擇要共用的組。
+1. 在「人物」頁面中，尋找並選取您要共用的群組。
 
    ![](assets/manage-groups-6.png)
 
-1. 按一下渡渡河（三個垂直點）並選擇 **共用**。
+1. 按一下資料（三個垂直的點）並選取 **共用**.
 
    ![](assets/manage-groups-7.png)
 
-1. 按一下下拉清單，選擇要與其共用組的團隊，然後按一下 **共用**。
+1. 按一下下拉式清單，選擇您要共用群組的團隊，然後按一下 **共用**.
 
    ![](assets/manage-groups-8.png)
 
-   你仍然擁有這個群，但它現在將出現在 _團隊組_。
+   您仍然擁有該群組，但現在會顯示於 _團隊群組_.
 
-## 取消共用組 {#unshare-a-group}
+## 取消共用群組 {#unshare-a-group}
 
-1. 在「人員」頁中，查找並選擇要取消共用的組。
+1. 在「人物」頁面中，尋找並選取您要取消共用的群組。
 
    ![](assets/manage-groups-9.png)
 
-1. 按一下渡渡河（三個垂直點）並選擇 **共用**。
+1. 按一下資料（三個垂直的點）並選取 **共用**.
 
    ![](assets/manage-groups-10.png)
 
-1. 按一下 **X** 在與共用組的團隊旁邊，按一下「從模式中取出」(out of the modal)。
+1. 按一下 **X** 在您共用群組的團隊旁，按一下強制回應視窗中的。
 
    ![](assets/manage-groups-11.png)
 
-   該組現在未共用。
+   此群組現在會取消共用。
 
-## 更名組 {#rename-a-group}
+## 重新命名群組 {#rename-a-group}
 
 1. 在「人員」頁中，查找並選擇要更名的組。
 
    ![](assets/manage-groups-12.png)
 
-1. 按一下渡渡河（三個垂直點）並選擇 **編輯**。
+1. 按一下資料（三個垂直的點）並選取 **編輯**.
 
    ![](assets/manage-groups-13.png)
 
-1. 鍵入新名稱，然後按一下 **保存**。
+1. 輸入新名稱，然後按一下 **儲存**.
 
    ![](assets/manage-groups-14.png)
 
-## 刪除組 {#delete-a-group}
+## 刪除群組 {#delete-a-group}
 
-1. 在「人員」頁中，查找並選擇要刪除的組。
+1. 在「人物」頁面中，尋找並選取您要刪除的群組。
 
    ![](assets/manage-groups-15.png)
 
-1. 按一下渡渡河（三個垂直點）並選擇 **刪除**。
+1. 按一下資料（三個垂直的點）並選取 **刪除**.
 
    ![](assets/manage-groups-16.png)
 

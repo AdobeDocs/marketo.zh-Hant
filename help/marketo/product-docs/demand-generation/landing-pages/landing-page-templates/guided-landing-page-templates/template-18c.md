@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板18C {#template-18c}
 
-按一下右鍵[下載模板18C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)
+按一下右鍵以 [下載模板18C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)
 
 ![](assets/image2015-8-17-18-3a13-3a28.png)
 

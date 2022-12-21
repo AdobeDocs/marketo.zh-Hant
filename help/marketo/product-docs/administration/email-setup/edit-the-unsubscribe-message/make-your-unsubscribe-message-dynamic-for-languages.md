@@ -6,7 +6,7 @@ exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 0%
    >
    >預設區段為英文。
 
-1. 繼續新增區段，直到所有語言都顯示完為止。 按一下 **建立**.
+1. 繼續新增區段，直到所有語言都顯示完為止。 按一下 **建立**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-4.png)
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
-1. 為程式碼片段命名 **取消訂閱消息**. 按一下 **建立**.
+1. 為程式碼片段命名 **取消訂閱消息**. 按一下 **建立**。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-11.png)
 

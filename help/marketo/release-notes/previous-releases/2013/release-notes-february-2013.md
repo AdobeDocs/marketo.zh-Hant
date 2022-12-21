@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## Apple Safari官方支援 {#official-support-for-apple-safari}
 
-Apple Safari for Mac和Windows的最新版本完全支援搭配Marketo銷售機會管理使用。 注意：iOS上的Safari不完全相容。
+完全支援最新版Apple Safari for Mac和Windows搭配Marketo Lead Management使用。 注意：iOS上的Safari不完全相容。
 
 ## Webhook增強功能 {#webhooks-enhancements}
 
@@ -32,4 +32,4 @@ Apple Safari for Mac和Windows的最新版本完全支援搭配Marketo銷售機�
 
 ## 即將推出：支援多種模型 {#coming-soon-support-for-multiple-models}
 
-我們正在為支援多個收入週期模型奠定基礎，在社群中為RCA投#1了意見，並在未來的版本中推出。 在此版本中，您會注意到一些變更，包括[智慧清單篩選器和在流程步驟中新增選擇](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)以支援選取模型和階段。 我們還將「銷售機會收入階段」和「銷售機會收入週期模型」欄位從「智慧清單銷售機會」網格頁簽中移出。
+我們正在為支援多個收入週期模型奠定基礎，在社群中為RCA投#1了意見，並在未來的版本中推出。 在此版本中，您會注意到一些變更，包括 [智慧清單篩選器和在流程步驟中新增選擇](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) 支援選擇模型和舞台。 我們還將「銷售機會收入階段」和「銷售機會收入週期模型」欄位從「智慧清單銷售機會」網格頁簽中移出。

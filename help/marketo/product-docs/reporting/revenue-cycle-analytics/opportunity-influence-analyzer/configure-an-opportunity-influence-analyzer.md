@@ -1,52 +1,51 @@
 ---
 unique-page-id: 2360240
-description: 配置機會影響分析器——行銷文檔——產品文檔
-title: 配置Opportunity Effence Analyzer
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: 配置Opportunity Influence Analyzer - Marketo文檔 — 產品文檔
+title: 配置Opportunity Influce Analyzer
+exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
+# 配置Opportunity Influce Analyzer {#configure-an-opportunity-influence-analyzer}
 
-# 配置Opportunity Inflection Analyzer {#configure-an-opportunity-influence-analyzer}
-
-在[建立Opportunity Inffect Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)後，您可以配置包含的[有趣時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)的類型。
+一旦您 [建立Opportunity Influce Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)，您可以設定 [有趣的時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) 包含。
 
 >[!PREREQUISITES]
 >
->[建立機會影響分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[建立Opportunity Influce Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. 按一下「**Analytics**」。
+1. 按一下 **Analytics**.
 
    ![](assets/login-to-analytics.png)
 
-1. 前往Analytics並選取您的Opportunity Inflection Analyzer。
+1. 前往Analytics，然後選取您的Opportunity Influence Analyzer。
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   如果分析器圖形中有太多有趣的時刻，您可以通過在&#x200B;**Settings**&#x200B;面板中取消選擇人，或通過減少有趣的時刻類型來減少這些時刻。
+   如果分析器圖表中有太多有趣的時刻，您可以取消選取 **設定** 或者減少有趣的時刻。
 
-1. 若要設定要包含哪些類型的有趣時刻，請前往「設定」標籤，並拖曳「有趣時刻」篩選器。
+1. 要配置要包括的有趣時刻類型，請轉到「設定」頁簽，並拖動「有趣時刻」篩選器。
 
    ![](assets/image2014-9-17-12-3a29-3a10.png)
 
-1. 選擇顯示「全部」、「無」或「部分」。
+1. 選擇「全部」、「無」或「部分」。
 
    ![](assets/image2014-9-17-12-3a29-3a18.png)
 
-1. 如果選擇「某些」，則可以選擇要包括的類型。
+1. 如果選擇「部分」，則可以選擇要包括的類型。
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
-1. 按一下您想要的每種有趣時刻。 然後，按一下「保存」(Save)**。**
+1. 按一下您想要的每種有趣時刻。 然後按一下 **儲存**.
 
-1. 按一下主頁籤，查看只包含選定類型的有趣時刻的機會歷史記錄。
+1. 按一下首頁簽，查看只包含選定類型的有趣時刻的商機歷史記錄。
 
    ![](assets/image2014-9-17-12-3a29-3a58.png)
 
 >[!MORELIKETHIS]
 >
->[使用Opportunity Inflection Analyzer講述行銷故事](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>[使用Opportunity Influce Analyzer講述行銷故事](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)

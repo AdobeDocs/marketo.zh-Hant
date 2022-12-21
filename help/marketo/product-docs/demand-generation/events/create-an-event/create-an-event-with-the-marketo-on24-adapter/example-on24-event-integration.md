@@ -5,7 +5,7 @@ title: ON24事件整合範例
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
-1. 按一下 **建立**.
+1. 按一下 **建立**。
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 

@@ -1,114 +1,108 @@
 ---
 unique-page-id: 4718654
-description: 瞭解收入模型——行銷檔案——產品檔案
-title: 瞭解收入模型
-translation-type: tm+mt
-source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
+description: 了解收入模型 — Marketo檔案 — 產品檔案
+title: 了解收入模型
+exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 0%
 
 ---
 
+# 了解收入模型 {#understanding-revenue-models}
 
-# 瞭解收入模型{#understanding-revenue-models}
+收入週期模型將行銷提升至下一個層級。 它們可為您整個收入漏斗的所有階段建立模型 — 從您第一次與銷售機會進行全方位互動，直到銷售機會成為贏得的客戶為止。
 
-收入週期模型將行銷提升到新的層次。 它們可模擬整個收入漏斗的所有階段——從您第一次與潛在客戶互動到成為成功客戶。
+## 心理模型（如何思考這件事） {#mental-model-how-to-think-about-this-thing}
 
-## 心智模型（如何思考這個問題）{#mental-model-how-to-think-about-this-thing}
-
-Modeler就像一系列桶，裡面裝著水。 桶底有洞。
+建模器就像一系列桶里裝著水。 桶底有洞。
 
 ![](assets/image2015-6-12-10-3a14-3a4.png)
 
-建模者將測量每天水桶中的水量（引導）和洞中的水量。 （可能有多個孔）
+建模器將測量每天有多少水（鉛）流入桶中，有多少水從洞中流出。 （可以有多個孔）
 
-建模器會在任何指定時間測量時段中的銷售線索數量。 這叫做舞台平衡。
+建模器會測量任何指定時間桶中的銷售線索數量。 這叫做階段平衡。
 
 >[!TIP]
 >
->對於那些更有財務頭腦的人來說，你可以把這些階段看成每天結束時資金流入和流出平衡的賬戶。
+>對於那些在財務上更有頭腦的人，你可以把這些階段看作是資金在每天結束時流入流出並保持平衡的賬戶。
 
-模型通常適用於熟悉智慧型宣傳和計畫並希望將其分析提升到新層次的客戶。
+模型通常適用於熟悉智慧型行銷活動和方案，且想將其分析提升到新層級的客戶。
 
-## 從新型號{#starting-with-a-new-model}開始
+## 從新模型開始 {#starting-with-a-new-model}
 
-依預設，新模型會從六個收入階段開始。 這個模型本身其實很好，但是可以深度自訂。
+依預設，新模型會從六個收入階段開始。 這個模型本身其實很好，但是可以深度定制。
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-請注意，這些項目都是綠色背景。 這稱為&#x200B;**成功路徑**。 進一步瞭解成功路徑[這裡](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)。
+請注意，它們都位於綠色背景中。 這稱為 **成功路徑**. 深入了解成功路徑 [此處](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
-**階** 段是潛在客戶進度邁向目標的里程碑。
+**階段** 是實現其目標的領導進程的里程碑。
 
-**傳遞** 顯示為箭頭，它們控制銷售線索在各階段之間移動的方式。
+**轉變** 會顯示為箭頭，並控制引線在各階段之間移動的方式。
 
 >[!NOTE]
 >
->「匿名舞台」很特別。 您的網站訪客都是這些人，但您不確定他們是誰。 不能修改此階段。
+>匿名舞台很特別。 所有瀏覽您網站的人，但您不確定他們是誰。 無法修改此階段。
 
-## 自訂{#customization}
+## 自訂 {#customization}
 
-每家公司都不同。 可通過從右上方拖動將內容添加到模型中。
+每家公司都不同。 您可以從右上方拖曳，將項目新增至模型。
 
 ![](assets/image2015-6-12-9-3a45-3a36.png)
 
-## 庫存階段{#inventory-stage}
+## 庫存階段 {#inventory-stage}
 
-這看起來像一個盒子，是最基本的階段。 Analytics將追蹤此階段的流入、流出及平衡。
+這看起來像一個盒子，是最基本的階段。 Analytics會追蹤此階段的流入、流出及平衡情況。
 
-## SLA階段{#sla-stage}
+## SLA階段 {#sla-stage}
 
-這是&#x200B;**服務級別協定**&#x200B;階段的簡稱。 此處的目的是，您要強制執行時間限制的某些階段。
-
->[!NOTE]
->
->**範例**
->
->當銷售線索填寫「聯繫我」表單，而您向銷售代表發送警報時，您可能需要72小時的SLA。 您將能夠追蹤違規情事，並因為銷售代表不與外界溝通，而責備他們。
-
-## 門級{#gate-stage}
-
-Gate階段適用於您想要將潛在客戶篩選為數個選擇之一的情況。 這是進階選項。 新手應該避開大門。
+這是 **服務級別協定** 舞台。 其目的是，您需要強制執行時間限制的某些階段。
 
 >[!NOTE]
 >
 >**範例**
 >
->門可用於&#x200B;**命名帳戶清單**&#x200B;的一部分的銷售線索，以將其與正常流程分開。
+>當銷售機會填寫「聯繫我」表單，並向銷售代表發送警報時，您可能需要72小時的SLA。 您將能夠跟蹤違規情況，並因為將一個良好的線索單獨隔離而向銷售代表發送警告。
 
-## 轉變{#transitions}
+## 門階段 {#gate-stage}
 
-使用智慧型促銷活動來明確銷售機會從一個階段移至另一個階段的確切方式，並確保銷售機會不會被困在任何階段。 請務必使用觸發篩選器來轉換（這是評估的方式）。
+Gate階段適用於想要將銷售機會篩選為數個選項之一的情況。 這是進階選項。 初學者應該避開大門。
 
 >[!NOTE]
 >
 >**範例**
 >
->轉換可由填寫表單的銷售線索來定義。
+>門可用於屬於 **名稱帳戶清單** 將其與正常過程分開。
 
-在快樂的成功路徑上新增舞台
+## 轉變 {#transitions}
+
+使用智慧型行銷活動明確說明銷售機會如何從一個階段移至另一個階段，並確保銷售機會不會卡在任何階段。 請務必對轉變使用觸發篩選器（這是評估的方式）。
+
+>[!NOTE]
+>
+>**範例**
+>
+>轉變可由填寫表單的銷售機會來定義。
+
+為快樂的成功路徑添加階段
 
 ![](assets/image2015-6-12-10-3a10-3a26.png)
 
-Lost是一個好的新增項目，但請注意它並非位於綠色路徑上。 這是因為，它不是「成功」。
+「遺失」是個不錯的新增項目，但請注意，它並非位於綠色路徑上。 這是因為，這不是「成功」。
 
 >[!MORELIKETHIS]
 >
 >* [建立新的收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-   >
-   >
-* [使用收入模型庫存階段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
-   >
-   >
-* [使用收入模型門階段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
-   >
-   >
-* [使用收入模型SLA階段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
-   >
-   >
-* [報告您的收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
-   >
-   >
-* [批准／取消批准收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+>
+>* [使用收入模型庫存階段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>
+>* [使用收入模型入口階段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+>
+>* [使用收入模型SLA階段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>
+>* [報告您的收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+>
+>* [核准/取消核准收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
 

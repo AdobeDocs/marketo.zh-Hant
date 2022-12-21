@@ -46,7 +46,7 @@ ht-degree: 0%
 
 ## 社交設定檔 {#social-profiles}
 
-您現在可以在潛在客戶共用內容或使用其社交設定檔填寫表單時，收集其相關資訊。 這包括Facebook、LinkedIn和Twitter的控制項、擁有的朋友人數等。
+您現在可以在潛在客戶共用內容或使用其社交設定檔填寫表單時，收集其相關資訊。 這包括Facebook、LinkedIn和Twitter的控點、擁有的朋友人數，以及更多。
 
 ## 收入總管報表訂閱 {#revenue-explorer-report-subscriptions}
 

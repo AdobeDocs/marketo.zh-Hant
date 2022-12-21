@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.com](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) 會展示電子郵件和登錄頁面範本（包括回應式行動電子郵件範本），您可從Marketo方案庫下載。我們每月新增範本，並經常回訪！
+[Templates.marketo.com](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) 展示電子郵件和登錄頁面範本（包括回應式行動電子郵件範本），您可從Marketo方案庫下載。 我們每月新增範本，並經常回訪！
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.](https://developers.marketo.com) com適用於想要將整合建置至Marketo的開發人員。您可以參考不同的整合選項，包括Munchkin JavaScript API、SOAP API程式碼範例、Webhook和電子郵件指令碼。 [GitHub](https://github.com/Marketo/SOAP-API-Java-Client)也提供Java SDK。
+[Developers.marketo.com](https://developers.marketo.com) 適用於想要建置整合至Marketo的開發人員。 您可以參考不同的整合選項，包括Munchkin JavaScript API、SOAP API程式碼範例、Webhook和電子郵件指令碼。 Java SDK也可在 [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## 更新的BrightTALK事件適配器 {#updated-brighttalk-event-adapter}
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 ## Android平板電腦事件簽入應用程式 {#android-tablet-event-check-in-app}
 
-使用我們新的[Android型檢查，在[Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en)上可用的app](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)中檢查登入者。
+使用我們的新 [應用程式中的Android檢查](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) 可於 [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).

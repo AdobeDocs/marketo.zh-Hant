@@ -1,6 +1,6 @@
 ---
-description: 為什麼跟蹤活動未在Salesforce活動中顯示？ -Marketo文檔 — 產品文檔
-title: 為什麼跟蹤活動未在Salesforce活動中顯示？
+description: 為什麼追蹤活動沒有顯示在Salesforce活動中？ - Marketo檔案 — 產品檔案
+title: 為什麼追蹤活動沒有顯示在Salesforce活動中？
 exl-id: 119b41a2-b691-48f8-9399-efcd5b47d942
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
@@ -9,8 +9,8 @@ ht-degree: 0%
 
 ---
 
-# 為什麼跟蹤活動未在Salesforce活動中顯示？ {#why-is-tracking-activity-not-showing-in-salesforce-activity}
+# 為什麼追蹤活動沒有顯示在Salesforce活動中？ {#why-is-tracking-activity-not-showing-in-salesforce-activity}
 
-如果未顯示跟蹤活動，請確保Sales Insight Actions提供的自定義活動欄位在Salesforce中可見/可編輯。 如果已安裝欄位但未填充，則可能存在「欄位級別安全性」，阻止資訊填充。 請與您的Salesforce管理員聯繫。
+如果未顯示追蹤活動，請確定Sales Insight Actions提供的自訂活動欄位在Salesforce中可見/可編輯。 如果您已安裝欄位，但欄位未填入，則可能會有欄位層級安全性導致資訊無法填入。 請洽詢您的Salesforce管理員。
 
-瞭解有關 [欄位級安全性](https://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) 在Salesforce中。
+深入了解 [欄位層級安全性](https://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) 在Salesforce。

@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >請注意，我們已針對熱門網路研討會服務提供原生整合。
 
-1. 按一下 **建立**.
+1. 按一下 **建立**。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 

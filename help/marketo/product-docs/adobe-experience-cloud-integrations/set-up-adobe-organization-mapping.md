@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-5.png)
 
-1. 按一下 **關閉**.
+1. 按一下 **關閉**。
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 

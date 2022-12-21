@@ -1,9 +1,8 @@
 ---
 unique-page-id: 4719304
-description: 隱含的Salesforce動作-Marketo檔案——產品檔案
+description: 隱含的Salesforce動作 — Marketo檔案 — 產品檔案
 title: 隱含的Salesforce動作
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
@@ -11,16 +10,16 @@ ht-degree: 0%
 
 ---
 
-# 隱含的Salesforce動作{#implied-salesforce-actions}
+# 隱含的Salesforce動作 {#implied-salesforce-actions}
 
-當執行Salesforce特定的流程步驟時，有時會自動執行額外的步驟。 以下是規則，您知道：
+當Salesforce特定的流程步驟運行時，有時會自動執行額外的步驟。 規則如下：
 
-當人員目前不在[Salesforce.com](https://Salesforce.com)_中時，這些規則將適用_。
+這些規則將適用 _當該人目前不在 [Salesforce.com](https://Salesforce.com)_ 作為聯繫人或領導。
 
 <table> 
  <thead> 
   <tr> 
-   <th>Marketo流程步驟</th> 
+   <th>Marketo流量步驟</th> 
    <th>自動動作</th> 
   </tr> 
  </thead> 
@@ -34,7 +33,7 @@ ht-degree: 0%
    <td>將人員同步到SFDC<br>添加到SFDC促銷活動</td> 
   </tr> 
   <tr> 
-   <td>變更擁有者</td> 
+   <td>更改所有者</td> 
    <td><p>將人員同步到SFDC</p></td> 
   </tr> 
   <tr> 
@@ -48,6 +47,6 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-您可以使用&#x200B;**SFDC類型**&#x200B;過濾器過濾智慧清單中的SFDC記錄，並將運算子設定為「不空」。 所有SFDC記錄在此欄位中都有值。
+您可以使用 **SFDC類型** 將運算子設為「非空白」的篩選。 此欄位中的所有SFDC記錄都有值。
 
-請記住，這些自動動作只有在銷售線索目前不在[Salesforce.com](https://salesforce.com)時才會發生
+請記住，這些自動動作只有在銷售機會目前不在 [Salesforce.com](https://salesforce.com)

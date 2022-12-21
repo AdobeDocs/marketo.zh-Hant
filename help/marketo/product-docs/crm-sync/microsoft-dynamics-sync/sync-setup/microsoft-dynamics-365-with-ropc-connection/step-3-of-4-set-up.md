@@ -1,9 +1,10 @@
 ---
 description: 第3步（共4步） — 在MS Dynamics上設定用戶端應用程式 — Marketo檔案 — 產品檔案
 title: 第3步（共4步） — 在MS Dynamics上設定用戶端應用程式
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
+source-git-commit: 0b9a1f50d8828acf019c5c4f82021d327f396fca
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -47,6 +48,12 @@ ht-degree: 0%
 Federated Azure AD到ADFS Onprem需要為特定應用程式建立家庭領域發現策略。 使用此策略，Azure AD將驗證請求重定向到聯合身份驗證服務。 必須在AD Connect中為此啟用密碼哈希同步。 如需詳細資訊，請參閱 [OAuth與ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) 和 [為應用程式設定hrd策略](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
 其他參考 [可在此處找到](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=此%20report%20ass%20includes%20federated,are%20federated%20to%20Azure%20AD。).
+
+## 繼續執行步驟4之前 {#before-proceeding-to-step-4}
+
+* 如果要限制同步的記錄數， [設定自訂同步篩選器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) 現在。
+* 執行 [驗證Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) 程式。 它會驗證您的初始設定是否正確執行。
+* 登入Microsoft Dynamics CRM中的Marketo同步使用者。
 
 >[!MORELIKETHIS]
 >

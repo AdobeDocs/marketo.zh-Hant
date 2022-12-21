@@ -1,39 +1,38 @@
 ---
 unique-page-id: 14352477
-description: 推送至銷售連線——行銷人員檔案——產品檔案
+description: 推送至銷售連線 — Marketo檔案 — 產品檔案
 title: 推送至Sales Connect
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
+# 推送至Sales Connect {#push-to-sales-connect}
 
-# 推送至銷售連線{#push-to-sales-connect}
+我們的「按到輸出」按鈕將在Salesforce中取得您的銷售機會/聯繫人的清單，並將他們推入Sales Connect中的組。 然後，您就可以快速傳送可自訂的群組電子郵件，並附上「輸出」追蹤。
 
-我們的「推送至成品」按鈕會在Salesforce中列出您的潛在客戶／聯絡人，並將它們推入Sales Connect的群組。 然後，您就可以快速傳送附有Tout追蹤的可自訂群組電子郵件。
+## 需求 {#requirements}
 
-## 要求{#requirements}
+* 由Salesforce管理員安裝的Sales Connect Salesforce包
 
-* 由Salesforce管理員安裝的Sales Connect Salesforce套件
+* 按到Sales Connect按鈕，安裝該按鈕，以便由Salesforce管理員進行清單視圖
 
-* 「推送至銷售連線」按鈕已安裝至清單檢視，由Salesforce管理員
+* 使用Sales Connect建立的Salesforce連接，用於進行推播的用戶
 
-* 使用Sales Connect建立的Salesforce連線，適用於進行推播的使用者
+## 作法 {#how-to}
 
-## 如何{#how-to}
-
-1. 按一下Salesforce中的&#x200B;**Lead/Contact**&#x200B;標籤。
-1. 切換至「執行」按鈕旁的「推送至銷售連線」清單檢視。
-1. 按一下&#x200B;**Go**。
-1. 選擇要推送到成品的所有銷售線索／聯繫人。
-1. 選擇&#x200B;**推送至MSE**。
-1. 將出現一個新窗口，驗證您要推送的銷售線索／聯繫人數。 選擇&#x200B;**繼續到組**。 Sales Connect不會推送任何標示為「在Salesforce中選擇退出電子郵件」或「在Sales Connect中取消訂閱」的連絡人。
+1. 按一下 **銷售機會/聯繫人** 標籤。
+1. 切換到「執行」按鈕旁要「推送至銷售連接」的「清單視圖」。
+1. 按一下 **開始**.
+1. 選擇要推送到輸出的所有銷售機會/聯繫人。
+1. 選擇 **推送至MSE**.
+1. 將出現一個新窗口，驗證您要推送的銷售機會/聯繫人的數量。 選擇 **繼續到組**. Sales Connect不會推送任何在Salesforce中標示為「電子郵件選擇退出」或在Sales Connect中取消訂閱的聯絡人。
 
    >[!NOTE]
    >
-   >Sales Connect將添加名為&quot;SFDC-..&quot;的組 到[Web應用程式](https://toutapp.com/login)上的「關係」頁。
+   >Sales Connect將添加名為「SFDC-..」的組 到 [網頁應用程式](https://toutapp.com/login).
 
-1. 選擇&#x200B;**以電子郵件傳送整個群組**&#x200B;以傳送此群組電子郵件。
+1. 選擇 **電子郵件整個群組** 發送此組電子郵件。

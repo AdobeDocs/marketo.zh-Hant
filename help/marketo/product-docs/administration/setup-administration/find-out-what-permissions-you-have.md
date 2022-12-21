@@ -5,7 +5,7 @@ title: 了解您擁有的權限
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---

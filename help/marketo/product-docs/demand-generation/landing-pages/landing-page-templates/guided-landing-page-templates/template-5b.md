@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板5B {#template-5b}
 
-按一下右鍵[下載模板5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+按一下右鍵以 [下載範本5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
 
 ![](assets/template-5b.png)
 

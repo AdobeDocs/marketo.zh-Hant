@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板9D {#template-9d}
 
-按一下右鍵[下載模板9D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
+按一下右鍵以 [下載模板9D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
 
 ![](assets/image2015-7-28-15-3a54-3a21.png)
 

@@ -1,29 +1,28 @@
 ---
 unique-page-id: 37355758
-description: 新增會員至活動計畫——行銷人員檔案——產品檔案
+description: 新增成員至事件方案 — Marketo檔案 — 產品檔案
 title: 向事件程式添加成員
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
+# 向事件程式添加成員 {#adding-members-to-an-event-program}
 
-# 向事件程式{#adding-members-to-an-event-program}添加成員
-
-本文僅適用於使用「事件上限」或「事件目標」的使用者。
+本文僅適用於使用事件上限或事件目標的使用者。
 
 >[!CAUTION]
 >
->將人員清單直接匯入「事件程式」，將無法將這些記錄計入「目標追蹤」報表和「事件上限進展」報表中的實際註冊。 請依照下列指示，確保記錄已計入。
+>將人員清單直接匯入「事件方案」將防止這些記錄計入「目標追蹤」報表和「事件上限進展」報表中的實際註冊。 請依照下列指示，確保記錄經過計算。
 
-1. 建立並[將人員添加到靜態清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)。
+1. 建立和 [將人員新增至靜態清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
 
-1. [建立智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)。
+1. [建立智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
-1. 在您在步驟2中建立的智慧型促銷活動的智慧型清單中，尋找並新增&#x200B;**清單成員**&#x200B;篩選。
+1. 在您於步驟二建立的智慧型促銷活動的智慧清單中，尋找並新增 **清單成員** 篩選。
 
    ![](assets/three.png)
 
@@ -31,11 +30,11 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 在流中，查找並添加&#x200B;**更改程式狀態**&#x200B;流步驟。
+1. 在「流量」中，尋找並新增 **更改程式狀態** 流程步驟。
 
    ![](assets/five.png)
 
-1. 尋找並選取您的活動計畫。
+1. 查找並選擇您的事件方案。
 
    ![](assets/six.png)
 
@@ -43,12 +42,12 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 在「排程」標籤中，按一下「執行一次」。****
+1. 在「排程」標籤中，按一下 **執行一次**.
 
    ![](assets/eight.png)
 
-1. 選擇&#x200B;**立即運行**&#x200B;並按一下&#x200B;**運行**。
+1. 選擇 **立即運行** 按一下 **執行**.
 
    ![](assets/nine.png)
 
-1. 在智慧型促銷活動執行後，會員會新增至程式，並將計入「目標追蹤」和「事件上限進度」計算。
+1. 智慧型促銷活動執行後，會將成員新增至方案，並計入目標追蹤和事件上限進度計算。

@@ -4,7 +4,7 @@ title: 自訂物件中繼資料匯出
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 source-git-commit: a7fc7701326c51c802d4c632385d1de355646ad0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---

@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ## Microsoft Dynamics On Premise {#microsoft-dynamics-on-premise}
 
-我們現在支援內部部署的Microsoft Dynamics 2011，並面向網際網路部署。
+現在，我們提供面向網際網路的部署，支援內部部署的Microsoft Dynamics 2011。
 
 ## 網鈎（財箱） {#webhooks-treasure-chest}
 

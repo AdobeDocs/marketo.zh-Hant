@@ -1,64 +1,63 @@
 ---
 unique-page-id: 7504163
-description: 將LinkedIn符合的觀眾新增為LaunchPoint服務——行銷人員檔案——產品檔案
-title: 將LinkedIn符合的觀眾新增為LaunchPoint服務
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: 將LinkedIn相符的對象新增為LaunchPoint服務 — Marketo檔案 — 產品檔案
+title: 將LinkedIn相符的對象新增為LaunchPoint服務
+exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# 將LinkedIn符合的觀眾新增為LaunchPoint服務{#add-linkedin-matched-audiences-as-a-launchpoint-service}
+# 將LinkedIn相符的對象新增為LaunchPoint服務 {#add-linkedin-matched-audiences-as-a-launchpoint-service}
 
 >[!NOTE]
 >
->**需要管理員權限**
+>**需要管理權限**
 
-將您的Marketo帳戶連結至LinkedIn符合的觀眾，以使用Marketo靜態清單或智慧清單作為LinkedIn觀眾區隔。
+將Marketo帳戶與LinkedIn相符對象連結，以使用Marketo靜態清單或智慧清單作為LinkedIn對象區段。
 
-1. 前往&#x200B;**Admin**&#x200B;區段。
+1. 前往 **管理** 區段。
 
    ![](assets/admin.png)
 
-1. 選擇&#x200B;**Launchpoint**。
+1. 選擇 **Launchpoint**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 選擇&#x200B;**新建**&#x200B;和&#x200B;**新建服務**。
+1. 選擇 **新增** 和 **新服務**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. 輸入&#x200B;**顯示名稱**，然後選擇&#x200B;**LinkedIn Matched Audiences**。 按一下&#x200B;**建立**。
+1. 輸入 **顯示名稱** 選擇 **linkedIn相符的對象**. 按一下 **建立**。
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. 若要連線LinkedIn帳戶，請按一下「授權&#x200B;**」。**
+1. 若要連線LinkedIn帳戶，請按一下 **授權**.
 
    ![](assets/authorizeaccount.png)
 
    >[!CAUTION]
    >
-   >為了讓Market能夠跨多個LinkedIn廣告帳戶傳送觀眾，您依下列步驟授權的LinkedIn使用者必須在其促銷活動管理員中擁有這些廣告帳戶的&#x200B;*all*&#x200B;存取權。
+   >為了讓Marketo跨多個LinkedIn廣告帳戶傳送對象，您在下列步驟中授權的LinkedIn使用者必須具備 *all* 在其促銷活動管理員中。
 
-1. LinkedIn會在新標籤中開啟。 從這裡，登入您的LinkedIn帳戶。
+1. linkedIn會在新標籤中開啟。 從這裡登入您的LinkedIn帳戶。
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
-1. 檢閱要求的權限，然後按一下「允許」。****
+1. 檢閱請求的權限，然後按一下 **允許**.
 
    ![](assets/li-permissions.png)
 
-1. 您的LinkedIn帳戶現在已連線至Marketo。 按一下&#x200B;**建立**。
+1. 您的LinkedIn帳戶現已連線至Marketo。 按一下 **建立**。
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   太棒了！ 您現在會在「已安裝服務」標籤中看到「LinkedIn符合的觀眾」列為LaunchPoint服務。
+   太棒了！ 您現在會在「已安裝服務」標籤中看到LinkedIn符合對象列為LaunchPoint服務。
 
    ![](assets/bartholomew2.png)
 
 >[!MORELIKETHIS]
 >
->[使用行銷人員清單或智慧清單作為LinkedIn觀眾區隔](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[使用Marketo清單或智慧清單作為LinkedIn對象區段](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)

@@ -1,64 +1,63 @@
 ---
 unique-page-id: 11381917
-description: Target帳戶管理——行銷檔案——產品檔案
+description: Target帳戶管理 — Marketo檔案 — 產品檔案
 title: 目標帳戶管理
-translation-type: tm+mt
-source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
+exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
+# 目標帳戶管理 {#target-account-management-overview}
 
-# 目標帳戶管理{#target-account-management-overview}
-
-行銷人員，符合Target帳戶管理。 目標帳戶管理，滿足行銷人員的需求。
+行銷人員，符合目標客戶管理。 目標客戶管理，與行銷人員會面。
 
 ![](assets/photo-collage.png)
 
 什麼是Marketo Target帳戶管理？
 
-Marketo Target帳戶管理將銷售和行銷團隊整合在一起，以高度協調的方式鎖定和吸引關鍵帳戶，縮小以帳戶為中心的策略、執行和成功之間的差距——全都在單一平台中完成。
+Marketo Target客戶管理將銷售和行銷團隊集合在一起，以高度協調的方式鎖定及參與重要帳戶，縮小以帳戶為中心的策略、執行與成功之間的差距 — 所有這一切都在單一平台中。
 
-為何使用Marketor Target帳戶管理？
+為何使用Marketo Target帳戶管理？
 
-行銷人員可將TAM和銷售機會管理統一在單一解決方案中，讓行銷人員輕鬆針對客戶和銷售機會執行個人化促銷活動。 您還可以從與關鍵決策者和交易影響者接觸中獲益。
+Marketo將TAM與銷售機會管理整合在一個解決方案中，讓行銷人員可輕鬆針對客戶執行個人化行銷活動，並達成一個動作。 您還可以從聯繫關鍵決策者和交易影響者中受益。
 
 Marketo TAM包含三個元件：
 
 **1)目標**
 
 * 帳戶發現
-* 銷售機會與帳戶匹配
-* 命名帳戶清單
+* 銷售機會對帳
+* 指定帳戶清單
 
 **2)參與**
 
 * 帳戶型個人化
-* 跨通道參與
-* 帳戶專屬的工作流程
+* Cross-Channel Engagement
+* 帳戶專屬工作流程
 
-**3)計量**
+**3)措施**
 
-* 帳戶和清單層級分析
+* 帳戶和清單層級的深入分析
 * 帳戶參與分數
-* Pipeline與收入影響
+* 管道和收入影響
 
-Marketo Account Based Marketing也提供多種工具，讓跨通道的指定帳戶體驗個人化。
+Marketo帳戶型行銷也提供各種工具，以個人化各管道的指定帳戶體驗。
 
-* 電子郵件與著陸頁面個人化
-* Web個人化
+* 電子郵件和登錄頁面個人化
+* 網頁個人化
 * URL [個人化](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
-* 廣告[個人化](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* 廣告 [個人化](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 * [個人化](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 再行銷
 
-我進去了！ 如何開始使用？
+我進去了！ 如何開始？
 
-我們以為你不會問！ TAM是您Marketo訂閱的附加元件，請連絡您的銷售代表以實施它。 一旦您取得此文章，請參閱以下文章：[TAM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md)快速入門。
+我們以為你不會問的！ TAM是您Marketo訂閱的附加元件，因此請連絡您的銷售代表以進行實作。 取得此檔案後，請查看本文： [TAM快速入門](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
 
 >[!NOTE]
 >
->Marketo TAM中管理的指名帳戶可直接從Web TAM存取，以滿足Web個人化需求。 進一步瞭解[此處](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)。
+>可根據Web個人化需求，直接從Web TAM存取在Marketo TAM中管理的指定帳戶。 深入了解 [此處](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md).
 
-歡迎使用Marketo TAM，體驗針對性行銷！
+歡迎使用Marketo TAM，並享受目標式行銷！

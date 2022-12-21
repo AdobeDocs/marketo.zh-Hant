@@ -6,7 +6,7 @@ exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -81,7 +81,7 @@ ht-degree: 0%
    >
    >在Marketo和AdWords中使用一致的歸因模型，可提供最精確的資料。
 
-1. 按一下 **建立**.
+1. 按一下 **建立**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-11.png)
 

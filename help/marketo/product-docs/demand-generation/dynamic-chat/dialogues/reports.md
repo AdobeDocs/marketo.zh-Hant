@@ -1,48 +1,49 @@
 ---
-description: 報告 — Marketo文檔 — 產品文檔
-title: 報告
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+description: 報表 — Marketo檔案 — 產品檔案
+title: 報表
+exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
+source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '122'
+ht-degree: 8%
 
 ---
 
-# 報告 {#reports}
+# 報表 {#reports}
 
-在「報告」頁籤中，查看過去90天的資料。 每個類別定義如下。
+在「報表」標籤中，檢視過去90天的資料。 每個類別的定義如下。
 
 <table>
  <tr>
-  <td><strong>觸發總數</strong></td>
-  <td>每次訪問者符合/顯示對話框時遞增。
+  <td><strong>總計已觸發</strong></td>
+  <td>每次訪客符合/顯示對話方塊時增加。
 </td>
  </tr>
  <tr>
-  <td><strong>已訂</strong></td>
-  <td>每次訪問者按一下聊天機定位點以開啟對話框時遞增。</td>
+  <td><strong>已參與</strong></td>
+  <td>每次訪客點按動作機器人錨點以開啟對話方塊時增量。</td>
  </tr>
  <tr>
   <td><strong>已完成</strong></td>
-  <td>每次訪問者到達對話框中任何分支的末尾時遞增。</td>
+  <td>每次訪客到達對話方塊中任何分支的結尾時增加。</td>
  </tr>
  <tr>
-  <td><strong>已捕獲人員</strong></td>
-  <td>每次訪問者在對話框流中提供有效電子郵件地址時遞增。</td>
+  <td><strong>被俘人員</strong></td>
+  <td>每次訪客在對話方塊流程中提供有效電子郵件地址時增加。</td>
  </tr>
  <tr>
   <td><strong>已預訂的會議</strong></td>
-  <td>每次訪問者通過聊天機成功安排約會時遞增。</td>
+  <td>每次訪客透過動作機器人成功排程約會時增加。</td>
  </tr>
  <tr>
-  <td><strong>已達目標</strong></td>
-  <td>每次訪問者在任何對話框流中到達目標時遞增。</td>
+  <td><strong>已達到的目標</strong></td>
+  <td>在任何對話方塊流程中，每當訪客達到目標時增加。</td>
  </tr>
 </table>
 
 >[!MORELIKETHIS]
 >
->* [建立對話框](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;
->* [流設計器](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;
->* [受眾標準](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;
+>* [建立對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
+>* [串流設計工具](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
+>* [對象條件](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
 

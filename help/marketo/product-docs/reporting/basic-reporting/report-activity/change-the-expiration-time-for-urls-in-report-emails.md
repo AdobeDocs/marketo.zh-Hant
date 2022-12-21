@@ -1,38 +1,37 @@
 ---
 unique-page-id: 2360032
-description: 變更報告電子郵件——行銷人員檔案——產品檔案中URL的過期時間
-title: 變更報表電子郵件中URL的過期時間
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: 變更報表電子郵件中URL的到期時間 — Marketo檔案 — 產品檔案
+title: 變更報表電子郵件中URL的到期時間
+exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-
-# 變更報表電子郵件中URL的過期時間{#change-the-expiration-time-for-urls-in-report-emails}
+# 變更報表電子郵件中URL的到期時間 {#change-the-expiration-time-for-urls-in-report-emails}
 
 >[!NOTE]
 >
->**需要管理員權限**
+>**需要管理權限**
 
-報表訂閱電子郵件中的連結會在三天後到期。 若要變更這些連結的到期時間，請依照下列步驟進行。
+報表訂閱電子郵件中的連結會在三天後過期。 若要變更這些連結的到期時間，請遵循下列步驟。
 
-1. 在&#x200B;**Admin**&#x200B;下，按一下&#x200B;**登錄設定**。
+1. 在 **管理**，按一下 **登入設定**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. 按一下「編輯URL有效期&#x200B;**」按鈕。**
+1. 按一下 **編輯URL過期** 按鈕。
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. 從下拉式選單中選取連結過期的天數。 按一下&#x200B;**保存**。
+1. 從下拉式功能表中選取連結過期的天數。 按一下 **儲存**.
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 
-   酷，您已編輯過電子郵件連結過期設定。
+   不錯，您已編輯電子郵件連結過期設定。
 
    >[!NOTE]
    >
-   >請記住，這些僅適用於報表和警報中的連結，而不適用於行銷電子郵件。
+   >請記住，這些僅適用於報表和警報中的連結，不適用於行銷電子郵件。

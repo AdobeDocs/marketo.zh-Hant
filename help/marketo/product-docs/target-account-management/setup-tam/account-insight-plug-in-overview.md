@@ -20,7 +20,7 @@ Account Insight是Chrome外掛程式，可向您的銷售團隊顯示可操作�
 
 >[!CAUTION]
 >
->若訂閱已啟用[SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)（單一登入）,Account Insight外掛程式將無法運作。
+>Account Insight外掛程式在具有 [僅SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) （單一登入）已啟用。
 
 >[!CAUTION]
 >
@@ -70,7 +70,7 @@ Account Insight是Chrome外掛程式，可向您的銷售團隊顯示可操作�
 
 ![](assets/af1.png)
 
-按一下&#x200B;**Filter**&#x200B;下拉式清單，依不同活動類型篩選。
+按一下 **篩選** 下拉式清單，依不同活動類型篩選。
 
 ![](assets/af2.png)
 
@@ -81,5 +81,5 @@ Account Insight是Chrome外掛程式，可向您的銷售團隊顯示可操作�
 真酷！
 
 >[!MORELIKETHIS]
-[設定帳戶分析](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)>
 >
+>[設定帳戶分析](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)

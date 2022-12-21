@@ -5,8 +5,8 @@ title: 使用註冊代碼安裝Outlook的Marketo Email Add-in
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 source-git-commit: 268a7f1ca441661e1d943a8d6abce7bdcf308a98
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '470'
+ht-degree: 4%
 
 ---
 

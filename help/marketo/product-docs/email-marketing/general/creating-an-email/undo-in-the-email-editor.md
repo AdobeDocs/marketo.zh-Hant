@@ -1,32 +1,31 @@
 ---
 unique-page-id: 1900567
-description: 在電子郵件編輯器——行銷檔案——產品檔案中還原
+description: 在電子郵件編輯器中還原 — Marketo檔案 — 產品檔案
 title: 在電子郵件編輯器中還原
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 5542defb-84cd-49a7-b2d0-5cd7e4df95d7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
+# 在電子郵件編輯器中還原 {#undo-in-the-email-editor}
 
-# 在電子郵件編輯器{#undo-in-the-email-editor}中還原
-
-1. 要撤消更改，請按一下向左箭頭。
+1. 要撤消更改，請按一下左箭頭。
 
 ![](assets/one-2.png)
 
 >[!TIP]
 >
->還原最多可返回50個變更。
+>還原最多可回復50項變更。
 
-1. 要重做更改，請按一下向右箭頭。
+1. 要重做更改，請按一下右箭頭。
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >編輯文字時無法復原。 完成後，您可以還原從第一次編輯到儲存的所有變更。
+   >編輯文字時無法還原。 完成後，您可以還原第一次編輯以儲存的所有變更。
 
-   不錯！ 現在，您可以像專業人員一樣還原和重做。
+   不錯！ 現在您可以像Pro一樣還原和重做。

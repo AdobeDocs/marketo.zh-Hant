@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板19D {#template-19d}
 
-按一下右鍵[下載模板19D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html)
+按一下右鍵以 [下載模板19D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html)
 
 ![](assets/image2015-9-16-17-3a1-3a31.png)
 

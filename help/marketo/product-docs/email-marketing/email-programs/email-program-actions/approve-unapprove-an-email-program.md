@@ -1,51 +1,47 @@
 ---
 unique-page-id: 2359462
-description: 核准／取消核准電子郵件方案——行銷人員檔案——產品檔案
-title: 批准／取消批准電子郵件方案
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: 核准/取消核准電子郵件方案 — Marketo檔案 — 產品檔案
+title: 核准/取消核准電子郵件方案
+exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-
-# 批准／取消批准電子郵件程式{#approve-unapprove-an-email-program}
+# 核准/取消核准電子郵件方案 {#approve-unapprove-an-email-program}
 
 >[!PREREQUISITES]
 >
 >* [建立電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [使用智慧型存取者定](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 義對 [像匯入清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-
-   >
-   >
-* [選擇現有電](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 子郵 [件或建立電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-   >
-   >
-* [排程您的電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [使用智慧清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 或 [匯入清單以定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>
+>* [選擇現有電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 或 [為電子郵件方案建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>
+>* [排程您的電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
 
-## 批准您的電子郵件程式{#approve-your-email-program}
+## 核准您的電子郵件方案 {#approve-your-email-program}
 
-既然您的計畫已準備就緒，最後一步就是核准。 以下是方法：
+現在您的計畫已準備就緒，最後一步就是核准。 方法如下：
 
-1. 前往&#x200B;**行銷活動**。
+1. 前往 **行銷活動**.
 
    ![](assets/login-marketing-activities-2.png)
 
-   選擇您的電子郵件方案。
+   選取您的電子郵件方案。
    ![](assets/selectemailprogram-2.jpg)
 
    >[!CAUTION]
    >
-   >如果您不核准電子郵件方案，電子郵件將不會送出。
+   >如果您未核准電子郵件方案，電子郵件將不會傳出。
 
-1. 在&#x200B;**Approval**&#x200B;表徵圖下，按一下&#x200B;**Approve Program**。
+1. 在 **核准** 按一下並繼續 **核准方案**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
-1. 如果我們發現問題，我們會通知您——請修正問題並再次嘗試核准。
+1. 如果發現問題，我們會通知您 — 請修正問題，然後再次嘗試核准。
 
    ![](assets/image2014-9-12-13-3a43-3a44.png)
 
@@ -53,20 +49,20 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-13-3a43-3a56.png)
 
-## 取消核准您的電子郵件程式{#unapprove-your-email-program}
+## 取消核准您的電子郵件方案 {#unapprove-your-email-program}
 
-如果您改變主意，並決定不要外出，則可取消核准電子郵件程式。
+如果您改變主意，決定不要退出，可以取消核准電子郵件程式。
 
-1. 前往&#x200B;**行銷活動**。
+1. 前往 **行銷活動**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 選擇您的電子郵件方案。
+1. 選取您的電子郵件方案。
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. 在&#x200B;**Approval**&#x200B;方塊下，只要按一下&#x200B;**Unapprove Program**&#x200B;即可。
+1. 在 **核准** 拼貼，只需按一下 **取消核准方案**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 
-完成，完成！ 您的電子郵件在您再次核准之前不會傳出。
+完成！ 在您再次核准之前，您的電子郵件不會傳出。

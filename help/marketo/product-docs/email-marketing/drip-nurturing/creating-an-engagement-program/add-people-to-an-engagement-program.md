@@ -1,24 +1,23 @@
 ---
 unique-page-id: 2359782
-description: 將人員加入參與計畫——行銷人員檔案——產品檔案
-title: 將人員加入參與計畫
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: 將人員新增至參與計畫 — Marketo檔案 — 產品檔案
+title: 將人員新增至參與計畫
+exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
+# 將人員新增至參與計畫 {#add-people-to-an-engagement-program}
 
-# 將人員新增至參與計畫{#add-people-to-an-engagement-program}
+人們可以以幾種方式成為參與計畫的成員：
 
-有幾種方式可以讓人們成為參與計畫的成員：
-
-* [新增至參與計畫](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
-* [變更參與計畫](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) Cadenceflow步驟
-* [變更參與計畫串流](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) 步驟
-* [更改程式狀態](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 流步驟
-* 如果某人填寫參與計畫的本地表單
-* 將成員導入項目群(通過項目群中的「成員」(Members)頁籤)
-* 如果您使用Salesforce做為CRM，並將Salesforce促銷活動系結至您的參與計畫，則在CRM端將某人新增至Salesforce促銷活動，也會使其成為參與計畫的成員。
+* [添加到參與計畫](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
+* [更改參與計畫順序](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) 流程步驟
+* [更改參與計畫流](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) 流程步驟
+* [更改程式狀態](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 流程步驟
+* 如果某人填寫了本地的表單，以便參與項目
+* 將成員導入參與程式（通過程式內的「成員」頁簽）
+* 如果您使用Salesforce作為CRM，且將Salesforce促銷活動系結至您的參與方案，則在CRM端新增某人至Salesforce促銷活動，也會讓他們成為參與方案的成員。

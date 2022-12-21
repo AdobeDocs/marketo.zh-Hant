@@ -22,31 +22,31 @@ ht-degree: 0%
 
 1. 在瀏覽器中開啟新標籤，從您的Marketo帳戶取得Marketo Sales Insights認證。
 
-1. 前往&#x200B;**Admin**&#x200B;區域。
+1. 前往 **管理** 的上界。
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. 按一下&#x200B;**Sales Insight**。
+1. 按一下 **Sales Insight**.
 
    ![](assets/configuration-for-existing-customers-2.png)
 
-1. 按一下&#x200B;**View**&#x200B;以填入Rest API憑證。
+1. 按一下 **檢視** 填入Rest API憑證。
 
    ![](assets/configuration-for-existing-customers-3.png)
 
-1. 您會看到確認快顯視窗。 按一下&#x200B;**確定**。
+1. 您會看到確認快顯視窗。 按一下 **確定**.
 
 ## 在Salesforce中設定Sales Insight {#configure-sales-insight-in-salesforce}
 
-1. 在Salesforce中，按一下&#x200B;**Setup**。
+1. 在Salesforce中，按一下 **設定**.
 
    ![](assets/configuration-for-existing-customers-4.png)
 
-1. 搜索並選擇&#x200B;**遠程站點設定**。
+1. 搜尋並選取 **遠程站點設定**.
 
    ![](assets/configuration-for-existing-customers-5.png)
 
-1. 按一下「**新建遠程站點**」。
+1. 按一下 **新遠程站點**.
 
    ![](assets/configuration-for-existing-customers-6.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/configuration-for-existing-customers-7.png)
 
-1. 按一下「**儲存**」。
+1. 按一下 **儲存**.
 
    ![](assets/configuration-for-existing-customers-8.png)
 

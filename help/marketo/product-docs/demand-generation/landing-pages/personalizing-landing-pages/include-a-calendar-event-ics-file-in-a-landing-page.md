@@ -1,48 +1,47 @@
 ---
 unique-page-id: 2359540
-description: 將日曆事件ICS檔案加入登陸頁面——行銷人員檔案——產品檔案
-title: 在登陸頁面中包含日曆事件ICS檔案
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 在登錄頁面中加入日曆事件ICS檔案 — Marketo檔案 — 產品檔案
+title: 在登錄頁面中包含日曆事件ICS檔案
+exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
+# 在登錄頁面中包含日曆事件ICS檔案 {#include-a-calendar-event-ics-file-in-a-landing-page}
 
-# 在著陸頁面{#include-a-calendar-event-ics-file-in-a-landing-page}中包含日曆事件ICS檔案
-
-**日曆檔案**&#x200B;代號可讓您新增日曆事件(.ics)連結至您的Marketo登陸頁面。
+A **日曆檔案** token可讓您將日曆事件(.ics)連結新增至Marketo登陸頁面。
 
 >[!PREREQUISITES]
 >
 >* [建立日曆事件(.ics)檔案](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 
-1. 在著陸頁面編輯器中，按一下&#x200B;**{...}**&#x200B;以插入Token。
+1. 在登錄頁面編輯器中，按一下 **{...}** 來插入代號。
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
-1. 選擇&#x200B;**日曆檔案**&#x200B;標籤並按一下&#x200B;**插入**。
+1. 選取 **日曆檔案** 代號，按一下 **插入**.
 
    >[!CAUTION]
    >
-   >著陸頁面不支援下列Token:
+   >登錄頁面不支援下列Token:
    >
-   >* member.webar URL
+   >* member.webinar URL
 
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下 **儲存**.
 
-   人們將看到如下的著陸頁面：
+   人們會看到如下所示的登陸頁面：
 
    ![](assets/image2015-1-6-16-3a42-3a51.png)
 
-真貼心！ 現在一切都該好起來了。 請務必進行測試。
+真貼心！ 現在一切都應該很好。 一定要測試。
 
 >[!MORELIKETHIS]
 >
->[在電子郵件中包含日曆事件(.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>[在電子郵件中加入日曆事件(.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)

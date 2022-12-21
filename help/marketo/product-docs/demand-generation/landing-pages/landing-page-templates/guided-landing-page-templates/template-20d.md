@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板20D {#template-20d}
 
-按一下右鍵[下載模板20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
+按一下右鍵以 [下載模板20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
 
 ![](assets/template-20d.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **按一下右鍵以下載此模板：**
 
-[範本20D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
+[模板20D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)

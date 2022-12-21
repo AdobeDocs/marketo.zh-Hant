@@ -1,9 +1,8 @@
 ---
 unique-page-id: 10095389
-description: 在Microsoft Dynamics -Marketo文檔——產品文檔中建立聯繫人
+description: 在Microsoft Dynamics - Marketo檔案 — 產品檔案中建立連絡人
 title: 在Microsoft Dynamics中建立連絡人
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
@@ -11,28 +10,28 @@ ht-degree: 0%
 
 ---
 
-# 在Microsoft Dynamics {#create-a-contact-in-microsoft-dynamics}中建立連絡人
+# 在Microsoft Dynamics中建立連絡人 {#create-a-contact-in-microsoft-dynamics}
 
-1. 選擇您要在Dynamics中作為聯繫人建立的僅限Marketo的人員（Microsoft類型為空）。
+1. 選取您要在Dynamics中建立為連絡人的Marketo專用人員(Microsoft類型為空)。
 
    ![](assets/one.png)
 
-1. 按一下「**人員操作**&#x200B;和&#x200B;**Microsoft**」，然後選擇「將人員同步到Microsoft **」。**
+1. 按一下 **人員動作** 和 **Microsoft**，然後選取 **將人員同步至Microsoft**.
 
    ![](assets/two.png)
 
-1. 按一下「同步為」(**Sync As)**&#x200B;並選擇「聯繫」(**Contact)**。 按一下&#x200B;**立即運行**。
+1. 按一下 **同步為** 選取 **連絡人**. 按一下 **立即運行**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >使用「將人員同步至Microsoft」流動動作（僅在觸發促銷活動中）時，銷售機會／連絡人會在Dynamics中即時建立。
+   >使用「將人員同步至Microsoft」流量動作時（僅限於觸發促銷活動中），銷售機會/連絡人將在Dynamics中即時建立。
 
-1. Marketo將Dynamics中的銷售線索記錄限定為與Dynamics中任何帳戶無關的聯繫人。
+1. Marketo會將Dynamics中的銷售機會記錄限定為與Dynamics中任何帳戶無關聯的連絡人。
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. 現在，在智慧型促銷活動篩選器中使用「同步為」限制時，您可以選取&#x200B;**Contact**。
+1. 現在，您可以選取 **連絡人** 在智慧型促銷活動篩選器中使用「同步為」限制時。
 
    ![](assets/five.png)

@@ -172,11 +172,11 @@ Dynamic Chat JavaScript程式碼片段可安裝在任何網站和Marketo登陸�
  <tr>
   <td>參與的對話</td>
   <td>網站訪客每天可參與的聊天對話數</td>
-  <td>零點一萬</td>
+  <td>1,000</td>
  </tr>
  <tr>
   <td>觸發的對話</td>
   <td>每天可向Web訪客顯示的聊天對話數</td>
-  <td>2萬5千</td>
+  <td>25,000</td>
  </tr>
 </table>

@@ -5,7 +5,7 @@ title: 第1步（共3步） — 安裝Marketo解決方案（2011年內部部署�
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 source-git-commit: eac7e219f1babc22dce30717fea4cecb93e1cce7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-2-11-3a43-3a51.png)
 
-1. 按一下 **關閉**.
+1. 按一下 **關閉**。
 
    >[!NOTE]
    >

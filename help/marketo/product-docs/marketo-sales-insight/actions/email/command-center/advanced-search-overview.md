@@ -1,25 +1,25 @@
 ---
-description: 高級搜索概述 — Marketo文檔 — 產品文檔
-title: 高級搜索概述
+description: 進階搜尋概述 — Marketo檔案 — 產品檔案
+title: 進階搜尋概述
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 高級搜索概述 {#advanced-search-overview}
+# 進階搜尋概述 {#advanced-search-overview}
 
-通過利用高級搜索到查看、按一下或答復電子郵件的目標潛在客戶，您可以建立您最投入的潛在客戶的目標清單。
+利用進階搜尋來鎖定已檢視、點按或回覆電子郵件的潛在客戶，您可以建立最參與潛在客戶的目標清單。
 
-## 如何訪問高級搜索 {#how-to-access-advanced-search}
+## 如何存取進階搜尋 {#how-to-access-advanced-search}
 
-1. 在Web應用程式中，按一下 **命令中心**。
+1. 在Web應用程式中，按一下 **指揮中心**.
 
    ![](assets/advanced-search-overview-1.png)
 
-1. 按一下 **電子郵件**。
+1. 按一下 **電子郵件**.
 
    ![](assets/advanced-search-overview-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/advanced-search-overview-3.png)
 
-1. 按一下「高級搜索」。
+1. 按一下「進階搜尋」 。
 
    ![](assets/advanced-search-overview-4.png)
 
@@ -35,64 +35,64 @@ ht-degree: 0%
 
 **日期**
 
-選擇搜索的日期範圍。 根據您選擇的電子郵件狀態（「已發送」、「未交付」、「待定」）更新預設日期。
+選擇搜尋的日期範圍。 預設日期會根據您選擇的電子郵件狀態（已傳送、未傳送、待定）而更新。
 
 ![](assets/advanced-search-overview-5.png)
 
 **誰**
 
-按電子郵件收件人/發件人在「Who」部分進行篩選。
+在「人員」區段中依電子郵件收件者/寄件者篩選。
 
 ![](assets/advanced-search-overview-6.png)
 
 <table>
  <tr>
-  <td><strong>下拉</strong></td>
+  <td><strong>下拉式清單</strong></td>
   <td><strong>說明</strong></td>
  </tr>
  <tr>
-  <td><strong>查看方式</strong></td>
-  <td>按Sales Connect實例中的特定發件人篩選（此選項僅對管理員可用）。</td>
+  <td><strong>檢視方式</strong></td>
+  <td>按Sales Connect實例中的特定發件人進行篩選（此選項僅供管理員使用）。</td>
  </tr>
  <tr>
   <td><strong>按組</strong></td>
-  <td>按特定收件人組篩選電子郵件。</td>
+  <td>依特定收件者群組篩選電子郵件。</td>
  </tr>
  <tr>
   <td><strong>按人員</strong></td>
-  <td>按特定收件人篩選。</td>
+  <td>依特定收件者篩選。</td>
  </tr>
 </table>
 
 **當**
 
-按建立日期、交付日期、失敗日期或計畫日期選擇。 可用選項會根據您選擇的電子郵件狀態（「已發送」、「未交付」、「待定」）而更改。
+按建立日期、傳送日期、失敗日期或排程日期選擇。 可用選項會根據您選擇的電子郵件狀態（已傳送、未傳送、待定）而變更。
 
 ![](assets/advanced-search-overview-7.png)
 
-**市場活動**
+**行銷活動**
 
-按活動參與篩選電子郵件。
+依促銷活動參與率篩選電子郵件。
 
 ![](assets/advanced-search-overview-8.png)
 
 **狀態**
 
-有三種電子郵件狀態可供選擇。 類型/活動選項根據選定的狀態而更改。
+有三種電子郵件狀態可供選擇。 類型/活動選項會根據選取的狀態而變更。
 
 ![](assets/advanced-search-overview-9.png)
 
-_**狀態：已發送**_
+_**狀態：已傳送**_
 
 ![](assets/advanced-search-overview-10.png)
 
-按您發送的電子郵件活動篩選。 您可以選擇視圖/無視圖、按一下/無按一下和/或回復/無回復。
+依您傳送的電子郵件活動進行篩選。 您可以選擇檢視/無檢視、點按/無點按，及/或回覆/無回覆。
 
 _**狀態：待定**_
 
 ![](assets/advanced-search-overview-11.png)
 
-按所有待處理電子郵件進行篩選。
+依所有待審電子郵件篩選。
 
 <table>
  <tr>
@@ -100,24 +100,24 @@ _**狀態：待定**_
   <td><strong>說明</strong></td>
  </tr>
  <tr>
-  <td><strong>計畫</strong></td>
-  <td>已從合成窗口（Salesforce或Web App）、電子郵件插件或市場活動中安排的電子郵件。</td>
+  <td><strong>已排程</strong></td>
+  <td>已從撰寫視窗（Salesforce或Web應用程式）、電子郵件外掛程式或行銷活動排程的電子郵件。</td>
  </tr>
  <tr>
   <td><strong>草稿</strong></td>
-  <td>當前處於草稿狀態的電子郵件。 電子郵件需要主題行和收件人才能保存為草稿。</td>
+  <td>目前處於草稿狀態的電子郵件。 電子郵件需要主旨行和收件者，才能儲存為草稿。</td>
  </tr>
  <tr>
-  <td><strong>正在進行</strong></td>
-  <td>正在發送的電子郵件。 電子郵件不應在幾秒鐘內處於此狀態。</td>
+  <td><strong>進行中</strong></td>
+  <td>正在傳送的電子郵件。 電子郵件不應在此狀態中停留超過幾秒鐘。</td>
  </tr>
 </table>
 
-_**狀態：未交付**_
+_**狀態：未傳送**_
 
 ![](assets/advanced-search-overview-12.png)
 
-通過從未發送的電子郵件進行過濾。
+根據從未傳送的電子郵件進行篩選。
 
 <table>
  <tr>
@@ -125,31 +125,31 @@ _**狀態：未交付**_
   <td><strong>說明</strong></td>
  </tr>
  <tr>
-  <td><strong>失敗</strong></td>
-  <td>當電子郵件無法從Sales Connect發送時(常見原因包括：正在向未訂閱/已阻止的聯繫人發送電子郵件，或在動態欄位中出現問題時)。</td>
+  <td><strong>已失敗</strong></td>
+  <td>從Sales Connect發送電子郵件失敗時(常見原因包括：傳送給取消訂閱/封鎖之聯絡人的電子郵件，或填入動態欄位時發生問題)。</td>
  </tr>
  <tr>
-  <td><strong>已跳轉</strong></td>
-  <td>當電子郵件被收件人的伺服器拒絕時，它被標籤為已退回。 此處僅顯示通過Sales Connect伺服器發送的電子郵件。</td>
+  <td><strong>已跳出</strong></td>
+  <td>收件者的伺服器拒絕電子郵件時，該電子郵件會標示為已退信。 此處僅顯示通過Sales Connect伺服器發送的電子郵件。</td>
  </tr>
  <tr>
   <td><strong>垃圾郵件</strong></td>
-  <td>收件人將電子郵件標籤為垃圾郵件（未經請求的電子郵件的常用術語）時。 此處僅顯示通過Sales Connect伺服器發送的電子郵件。</td>
+  <td>收件者將電子郵件標示為垃圾訊息時（未經請求之電子郵件的常用辭彙）。 此處僅顯示通過Sales Connect伺服器發送的電子郵件。</td>
  </tr>
 </table>
 
-## 保存的搜索 {#saved-searches}
+## 已儲存的搜尋 {#saved-searches}
 
-下面是如何建立保存的搜索。
+以下說明如何建立儲存的搜尋。
 
-1. 所有篩選器都到位後，按一下 **將篩選器另存為**。
+1. 所有篩選器都就緒後，按一下 **將篩選器另存為**.
 
    ![](assets/advanced-search-overview-13.png)
 
-1. 為搜索指定名稱，然後按一下 **保存**。
+1. 為您的搜索命名，然後按一下 **儲存**.
 
    ![](assets/advanced-search-overview-14.png)
 
-您保存的搜索將位於左側的提要欄中。
+您儲存的搜尋會顯示在左側邊欄。
 
 ![](assets/advanced-search-overview-15.png)

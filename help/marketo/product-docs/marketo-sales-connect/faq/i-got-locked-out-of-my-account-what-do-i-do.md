@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352494
-description: 我被鎖在賬戶外。 我該怎麼辦？ -Marketo文檔 — 產品文檔
-title: 我被鎖在賬戶外。 我該怎麼辦？
+description: 我被鎖出了賬戶。 我該做什麼？ - Marketo檔案 — 產品檔案
+title: 我被鎖出了賬戶。 我該做什麼？
 exl-id: ee6b61f8-24d5-4520-a111-00ece2ba02bc
 source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
 workflow-type: tm+mt
@@ -10,6 +10,6 @@ ht-degree: 0%
 
 ---
 
-# 我被鎖在賬戶外。 我該怎麼辦？ {#i-got-locked-out-of-my-account-what-do-i-do}
+# 我被鎖出了賬戶。 我該做什麼？ {#i-got-locked-out-of-my-account-what-do-i-do}
 
-如果超過嘗試登錄的次數，則會將您鎖定在帳戶之外。 請聯繫 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support#) 幫助解鎖。
+如果超過登入嘗試次數，則會將您鎖定在帳戶之外。 請聯繫 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support#) 來協助解鎖。

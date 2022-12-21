@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2360317
-description: 將人員分區分配給工作區-Marketo文檔——產品文檔
+description: 將人員分區指派至工作區 — Marketo檔案 — 產品檔案
 title: 將人員分區分配給工作區
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
@@ -11,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# 將人員分區分配給工作區{#assign-person-partitions-to-workspaces}
+# 將人員分區分配給工作區 {#assign-person-partitions-to-workspaces}
 
-以下是如何編輯人員分區／工作區分配的方法：
+以下說明如何編輯人員分區/工作區分配：
 
 >[!NOTE]
 >
->**需要管理員權限**
+>**需要管理權限**
 
 >[!PREREQUISITES]
 >
@@ -25,13 +24,13 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->工作區和人員分區可能很複雜。 請聯絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)以取得設定的協助。
+>工作區和人員分區可能很複雜。 請聯繫  [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support) 以獲得設定幫助。
 
-1. 在「管理」下，按一下&#x200B;**工作區和分區**。
+1. 在「管理」下，按一下 **工作區與分區**.
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
-1. 選擇您的工作區，然後按一下「編輯工作區」(Edit Workspace)**。**
+1. 選取您的工作區，然後按一下 **編輯工作區**.
 
    ![](assets/two-3.png)
 
@@ -43,9 +42,9 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-   主要人員分區是將輸入所有人員的預設設定。 使用[流步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)或[分配規則](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md)來移動人員。
+   主要人員分區是將輸入所有人員的預設值。 使用 [流程步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) 或 [指派規則](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) 來轉移人。
 
-1. 按一下&#x200B;**保存**。
+1. 按一下 **儲存**.
 
    ![](assets/four-3.png)
 
@@ -53,8 +52,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a14-3a53.png)
 
-恭喜您！您已成功編輯您的工作區！
+恭喜您！您已成功編輯工作區！
 
 >[!MORELIKETHIS]
 >
->[瞭解工作區和人員分區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
+>[了解工作區和人員分區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).

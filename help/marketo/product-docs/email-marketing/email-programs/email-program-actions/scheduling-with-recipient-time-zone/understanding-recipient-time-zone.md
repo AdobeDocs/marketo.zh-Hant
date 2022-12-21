@@ -16,31 +16,31 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->收件者時區目前只能&#x200B;**搭配電子郵件內容運作。**&#x200B;預設參與計畫將無法運作。
+>收件者時區目前可運作 **僅限** 和電子郵件內容。 預設參與計畫將無法運作。
 
 ## 電子郵件方案 {#email-programs}
 
-[排程電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)時有兩個主要案例：
+有兩種主要情況： [排程電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md):
 
 1. 將程式排程在接下來的25小時內執行。
 1. 將計畫安排在未來運行超過25小時（即下週）。
 
-為了適應每個時區，與收件者時區一起排程的電子郵件程式會在午夜在全球&#x200B;**first/earlist**&#x200B;時區中開始執行(UTC +14:00)。
+為了適應每個時區，與收件者時區一起排程的電子郵件程式會在 **first/earlist** 世界時區（世界協調時+14:00）。
 
 ## 參與計畫 {#engagement-programs}
 
-當您[排程參與節目流](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)且收件者時區處於作用中狀態時，節目轉播將在午夜(UTC +14:00)開始執行。 我們要求您在未來至少安排25小時（24小時+一些時間以開始促銷活動）的首次演出，因為人們可能有資格在全球的每個時區參加。 現在以UTC +14:00開始處理，保證我們會針對符合此轉播資格的每個人，於排程日期和時間傳送電子郵件。
+當您 [排程參與方案串流](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) 且收件者時區處於作用中狀態，程式轉播將在午夜(UTC +14:00)開始執行。 我們要求您在未來至少安排25小時（24小時+一些時間開始促銷活動）的首次演出，因為人們可能有資格在全球的每個時區參加。 現在以UTC +14:00開始處理，保證我們會針對符合此轉播資格的每個人，於排程日期和時間傳送電子郵件。
 
 ## 計算時區 {#calculating-time-zone}
 
 Marketo會根據人員的「城市」、「州」、「國家」或「郵遞區號」來計算時區。 如果我們無法根據這些值計算某人的時區，我們會回復到「推斷的城市」、「推斷的州」、「推斷的國家」和「推斷的郵遞區號」欄位。
 
-若我們的&#x200B;**僅**&#x200B;國家/地區或&#x200B;**僅**&#x200B;狀態可用：
+如果我們 **僅限** 國家/地區或 **僅限** 可用狀態：
 
 * 對於時區數為三或三以下的國家，我們選取中時區。
 * 對於具有兩個時區的州，我們會選取兩者中較早的。
 
-如果我們仍無法從這些欄位的任何組合中判斷某人的時區，我們將&#x200B;**not**&#x200B;指派時區，且會根據您的Marketo訂閱時區傳送電子郵件。 因此，如果您的程式計畫在太平洋夏令時間上午9:00，則沒有分配時區的人員將在太平洋夏令時間上午9:00發送電子郵件。
+如果我們仍無法從這些欄位的任何組合中判斷某個使用者的時區，我們會 **not** 指派時區，系統會根據您的Marketo訂閱時區傳送電子郵件。 因此，如果您的程式計畫在太平洋夏令時間上午9:00，則沒有分配時區的人員將在太平洋夏令時間上午9:00發送電子郵件。
 
 >[!NOTE]
 >

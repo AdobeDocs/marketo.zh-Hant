@@ -54,7 +54,7 @@ Marketo Sales Insight是您銷售團隊的絕佳工具。 以下是如何在Micr
 
    ![](assets/image2015-5-4-11-3a0-3a58.png)
 
-1. 按一下 **關閉**.
+1. 按一下 **關閉**。
 
    ![](assets/crmhand.png)
 

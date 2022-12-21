@@ -1,47 +1,47 @@
 ---
-description: 設定事件目標 — Marketo文檔 — 產品文檔
+description: 設定事件目標 — Marketo檔案 — 產品檔案
 title: 設定事件目標
 hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 # 設定事件目標 {#setting-event-goals}
 
-為事件指定特定目標並查看其執行情況。
+為事件指定特定目標，並查看其執行方式。
 
 >[!IMPORTANT]
->並非所有客戶都可以訪問此功能。 請聯繫您的客戶成功經理以瞭解詳細資訊。
+>並非所有客戶都能存取此功能。 如需詳細資訊，請連絡您的客戶成功經理。
 
-1. 建立事件程式。
+1. 建立事件方案。
 
    ![](assets/setting-event-goals-1.png)
 
-1. 選擇 [!UICONTROL 市場活動資料夾]，將活動 [!UICONTROL 名稱]，選擇 [!UICONTROL 程式類型] 和 [!UICONTROL 頻道]。 按一下 **[!UICONTROL 建立]** 完成。
+1. 選擇 [!UICONTROL Campaign Folder]，將活動設為 [!UICONTROL Name]，請選取 [!UICONTROL Program Type] 和 [!UICONTROL Channel]. 按一下 **[!UICONTROL Create]** 時才能使用。
 
    ![](assets/setting-event-goals-2.png)
 
-1. 在您的活動中，按一下 **[!UICONTROL 報告]** 頁籤。
+1. 在您的活動中，按一下 **[!UICONTROL Reports]** 標籤。
 
    ![](assets/setting-event-goals-3.png)
 
-1. 輸入目標 [!UICONTROL 已註冊] 按一下 **[!UICONTROL 設定目標]**。 輸入數字並按Enter鍵。
+1. 輸入 [!UICONTROL Registered] 按一下 **[!UICONTROL Set a goal]**. 在中輸入數字，然後按Enter。
 
    ![](assets/setting-event-goals-4.png)
 
    ![](assets/setting-event-goals-5.png)
 
-1. 重複相同步驟 [!UICONTROL 已出席]。
+1. 對 [!UICONTROL Attended].
 
    ![](assets/setting-event-goals-6.png)
 
 >[!NOTE]
 >
->無法在事件啟動後為其設定目標。
+>事件啟動後，您無法設定事件的目標。
 
-就這樣！ 按一下 [!UICONTROL 報告] 頁籤。
+就這樣！ 按一下 [!UICONTROL Reports] 標籤。

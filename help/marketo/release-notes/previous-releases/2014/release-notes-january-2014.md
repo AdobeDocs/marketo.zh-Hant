@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 發行說明：2014年1月 {#release-notes-january}
 
-2014年1月發行包含下列功能。 請檢查您的[Marketo版](https://www.marketo.com/pricing/)以取得功能可用性。
+2014年1月發行包含下列功能。 請檢查 [Marketo版](https://www.marketo.com/pricing/) 功能可用性。
 
 ## Forms 2.0 {#forms}
 
@@ -40,12 +40,12 @@ ht-degree: 0%
 
 ## 電子郵件程式的通訊限制 {#communication-limits-for-email-program}
 
-[設定電子郵件程式的](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) 通訊限制，以確保您不會過度通訊至您的資料庫。如果某人超過所定義的限制，她將不會收到電子郵件。
+[設定電子郵件程式的通訊限制](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) 以確保不會與資料庫進行過度通信。 如果某人超過所定義的限制，她將不會收到電子郵件。
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## 方案成員分析中的其他欄位 {#additional-fields-in-program-membership-analysis}
 
-現在，您可以依銷售機會和公司屬性，新增並分組您的[方案成員資格分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)量度。 例如，您可以新增「產業」欄位，查看方案成員和成功的分割。
+現在您可以新增及分組 [方案成員分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) 依銷售機會和公司屬性的量度。 例如，您可以新增「產業」欄位，查看方案成員和成功的分割。
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

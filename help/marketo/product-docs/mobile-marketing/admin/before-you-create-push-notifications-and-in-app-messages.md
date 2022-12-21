@@ -1,46 +1,44 @@
 ---
 unique-page-id: 11376159
-description: 在您建立推播通知和應用程式內訊息之前——行銷人員檔案——產品檔案
+description: 建立推播通知和應用程式內訊息之前 — Marketo檔案 — 產品檔案
 title: 建立推播通知和應用程式內訊息之前
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
+# 建立推播通知和應用程式內訊息之前 {#before-you-create-push-notifications-and-in-app-messages}
 
-# 建立推播通知和應用程式內訊息之前{#before-you-create-push-notifications-and-in-app-messages}
+建立推播通知和應用程式內訊息並不難，但您必須先準備好所有內容，才能開始使用。 Marketo管理員和行動應用程式開發人員應依照下列步驟準備必要的整合。
 
-建立推播通知和應用程式內訊息並不困難，但您必須先準備好一切，才能開始。 行銷人員和行動應用程式開發人員應依照下列步驟來準備必要的整合。
+1. 首先，Marketo管理員 [新增行動應用程式](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md).
 
-1. 首先，行銷人員管理員[會新增行動應用程式](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md)。
+1. Marketo管理員 [傳送程式碼片段給開發人員](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md).
 
-1. 然後，行銷人員管理員[會傳送程式碼片段給開發人員](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)。
+1. 開發人員下載SDK，並包含程式碼片段和其他方法， [Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/) 或 [iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/).
 
-1. 開發人員會下載SDK，並包含[Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)或[iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)的程式碼片段和其他方法。
+1. 依預設，應用程式開啟時會觸發應用程式內訊息。 如果您想要觸發其他事件的訊息，例如在檢視特定頁面或按下特定按鈕時，開發人員需要將自訂事件新增至程式碼(請參閱 [應用程式內訊息的自訂事件](#CustomEvents) )。
 
-1. 依預設，應用程式開啟時會觸發應用程式內訊息。 如果您想要觸發其他事件的訊息，例如在檢視特定頁面或推送特定按鈕時，開發人員需要將自訂事件新增至程式碼（請參閱下方的[應用程式內訊息的自訂事件](#CustomEvents)）。
+1. 開發人員 [產生Android的伺服器API金鑰和專案編號](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/) 或 [iOS的認證與密碼](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/) 並傳送給Marketo管理員。
 
-1. 開發人員[會產生Android](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/)或[的伺服器API金鑰和專案編號，並傳送給行銷人員。](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/)
-
-1. 行銷人員管理員使用伺服器API金鑰(Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)或使用憑證(iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)設定推播通知存取[。[
+1. Marketo管理員會設定推播通知存取 [(Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) 或 [與憑證(iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md).
 
 >[!TIP]
 >
->行銷人員管理員可輕鬆檢查您的推播設定是否經過驗證。 只要前往[這裡](/help/marketo/product-docs/mobile-marketing/admin/verify-push-configuration.md)即可。
+>Marketo管理員可輕鬆檢查是否已驗證您的推送設定。 快走 [此處](/help/marketo/product-docs/mobile-marketing/admin/verify-push-configuration.md).
 
-## 應用程式內訊息的自訂事件{#custom-events-for-in-app-messages}
+## 應用程式內訊息的自訂事件 {#custom-events-for-in-app-messages}
 
-對於應用程式內傳訊，預設會將顯示觸發器設為&#x200B;**App Open**。 如果您想要使用任何自訂事件來觸發應用程式內訊息的顯示（例如，**「點按新增至購物車」**、**「檢視設定頁面」**），請建立所需事件清單，並將它提供給您的行動應用程式開發人員。 然後，開發人員會將自訂事件新增至程式碼。 在核准後，在設定您的觀眾時，會以顯示觸發器的形式顯示。 **注意**:自訂事件編碼核准程式可能需要一些時間才能完成。
+若為應用程式內訊息，顯示觸發器會設為 **應用程式開啟** 依預設。 如果您想要使用任何自訂事件來觸發應用程式內訊息的顯示(例如 **按一下「新增至購物車」**, **檢視設定頁面**)、建立所需事件的清單，並提供給您的行動應用程式開發人員。 開發人員接著會將自訂事件新增至程式碼中。 核准後，在設定您的對象時，它們會顯示為顯示觸發器。 **注意**:自訂事件編碼核准程式可能需要一些時間才能完成。
 
-完成應用程式內訊息和推播通知的所有準備後，就該開始了！
+完成應用程式內訊息和推播通知的所有準備工作後，該開始了！
 
 >[!MORELIKETHIS]
 >
 >* [建立應用程式內訊息](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)
-   >
-   >
-* [建立推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>
+>* [建立推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 

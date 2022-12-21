@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 模板8C {#template-8c}
 
-按一下右鍵[下載模板8C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)
+按一下右鍵以 [下載模板8C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)
 
 ![](assets/image2015-7-29-14-3a12-3a24.png)
 

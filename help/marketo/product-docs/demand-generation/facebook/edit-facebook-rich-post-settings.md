@@ -1,63 +1,62 @@
 ---
 unique-page-id: 2950555
-description: 編輯Facebook豐富型貼文設定——行銷檔案——產品檔案
-title: 編輯Facebook豐富型貼文設定
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: 編輯Facebook豐富貼文設定 — Marketo檔案 — 產品檔案
+title: 編輯Facebook豐富貼文設定
+exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
+# 編輯Facebook豐富貼文設定 {#edit-facebook-rich-post-settings}
 
-# 編輯Facebook豐富型貼文設定{#edit-facebook-rich-post-settings}
-
-當人們在Facebook上分享您時，自訂貼文。
+當使用者在Facebook上分享您時自訂貼文。
 
 >[!AVAILABILITY]
 >
->並非所有客戶都購買過此功能。 如需詳細資訊，請洽詢您的銷售代表。
+>並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的銷售代表。
 
-Marketo [社交應用程式](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md)可讓您的潛在客戶在社交網路（例如Facebook、Twitter等）上與其連線共用您的登陸頁面。 Facebook OpenGraph標籤（OG標籤）可讓您指定Facebook貼文中包含著陸頁面的資訊。
+Marketo [社交應用](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) 可讓您的潛在客戶與其在社交網路(例如Facebook、Twitter等)上的連線共用您的登錄頁面。 Facebook OpenGraph標籤（OG標籤）可讓您指定要將來自登陸頁面的資訊納入Facebook貼文中。
 
-## 選取豐富式貼文選項{#select-rich-post-options}
+## 選取豐富貼文選項 {#select-rich-post-options}
 
-您可以指定要在來自著陸頁面的分享所產生的Facebook豐富型貼文中使用的頁面資訊類型。
+您可以指定要在Facebook豐富貼文中使用的頁面資訊類型，這些豐富貼文是由您從登陸頁面分享產生的。
 
-1. 在編輯器中為您的&#x200B;**YouTube**&#x200B;影片或社交按鈕選擇&#x200B;**Facebook訊息**。
+1. 選擇 **Facebook訊息** 在 **YouTube** 影片或社交按鈕。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
-1. 從下列選項中選取您的Facebook訊息。
+1. 從下列選項中選取Facebook訊息。
 
    * 新增靜態內容：選擇此選項可手動輸入標題、標題和說明。
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * 新增動態內容：您的社交應用程式可以使用登陸頁面的`<TITLE>`、`<CAPTION>`和`<DESCRIPTION>`標籤來填入您的豐富貼文。
+   * 新增動態內容：您的社交應用程式可使用登陸頁面 `<TITLE>`, `<CAPTION>`，和 `<DESCRIPTION>` 標籤來填入您的豐富貼文。
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 
    >[!NOTE]
    >
-   >這些標籤應已存在於頁面來源中，但若要進一步控制，您可以將特定Facebook OG標籤新增至著陸頁面。
+   >這些標籤應已存在於頁面來源中，但如需更多控制，您可以將特定Facebook OG標籤新增至您的登錄頁面。
 
-   * 不要新增多樣化內容：將登陸頁面的Facebook貼文限制為主要訊息和連結。
+   * 請勿新增豐富內容：將Facebook貼文從您的登錄頁面限制為僅限主要訊息和連結。
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
-## 新增Facebook OG標籤至著陸頁面{#add-facebook-og-tags-to-a-landing-page}
+## 新增Facebook OG標籤至登陸頁面 {#add-facebook-og-tags-to-a-landing-page}
 
-若要控制來自著陸頁面的Facebook分享中將包含的頁面元素，您可以將標題、標題和說明的Facebook OG(Open Graph)標籤新增至著陸頁面。
+若要從您的登陸頁面控制Facebook共用中將包含的頁面元素，您可以將標題、註解和說明的Facebook OG(Open Graph)標籤新增至您的登陸頁面。
 
-1. 開啟包含&#x200B;**YouTube影片**&#x200B;或社交按鈕的著陸頁面。
+1. 開啟包含您 **YouTube影片** 或社交按鈕。
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   **著陸頁面設計器**&#x200B;會在新視窗中開啟。
+   此 **登錄頁面設計工具** 在新視窗中開啟。
 
-1. 選擇「**著陸頁面動作** > **編輯頁面中繼標籤**」。
+1. 選擇 **登錄頁面動作** > **編輯頁面中繼標籤**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
@@ -73,4 +72,4 @@ Marketo [社交應用程式](/help/marketo/product-docs/demand-generation/social
 
 >[!NOTE]
 >
->新增OG標籤時，請務必使用正確的HTML語法。
+>新增OG標籤時，請留意使用正確的HTML語法。

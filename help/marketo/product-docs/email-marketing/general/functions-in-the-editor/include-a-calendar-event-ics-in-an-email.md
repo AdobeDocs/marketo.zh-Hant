@@ -1,19 +1,18 @@
 ---
 unique-page-id: 1900565
-description: 在電子郵件——行銷人員檔案——產品檔案中加入日曆事件(.ic)
-title: 在電子郵件中包含日曆事件(.ics)
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: 在電子郵件中加入日曆事件(.ics)- Marketo檔案 — 產品檔案
+title: 在電子郵件中加入日曆事件(.ics)
+exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
+# 在電子郵件中加入日曆事件(.ics) {#include-a-calendar-event-ics-in-an-email}
 
-# 在電子郵件{#include-a-calendar-event-ics-in-an-email}中包含日曆事件(.ics)
-
-日曆檔案Token可讓您新增日曆事件(.ics)連結至您的Marketo電子郵件。
+日曆檔案代號可讓您將日曆事件(.ics)連結新增至Marketo電子郵件。
 
 >[!PREREQUISITES]
 >
@@ -23,16 +22,16 @@ ht-degree: 0%
 
 ![](assets/one-6.png)
 
-1. 選擇日曆檔案標籤，然後按一下&#x200B;**插入**。
+1. 選取日曆檔案代號，然後按一下 **插入**.
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下 **儲存**.
 
    ![](assets/three-5.png)
 
-   您的收件者將會收到類似電子郵件。
+   您的收件者會收到如下所示的電子郵件。
 
    ![](assets/image2014-9-11-16-3a53-3a48.png)
 
-任務完成！
+任務完成了！

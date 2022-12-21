@@ -1,99 +1,98 @@
 ---
 unique-page-id: 2359647
-description: 瞭解參與計畫——行銷人員檔案——產品檔案
-title: 瞭解參與計畫
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: 了解參與計畫 — Marketo檔案 — 產品檔案
+title: 了解參與計畫
+exl-id: dd573749-5ae6-4794-a340-b5139c316cce
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
+# 了解參與計畫 {#understanding-engagement-programs}
 
-# 瞭解參與計畫{#understanding-engagement-programs}
-
-參與計畫旨在以系統化方式向新人展示內容，以向新人行銷。
+參與計畫旨在以系統的方式向新人呈現內容，以向他們行銷。
 
 >[!NOTE]
 >
->每個訂閱限制為100個&#x200B;**active**&#x200B;參與方案。
+>上限為100 **活動** 每個訂閱的參與計畫。
 
-## 參與計畫{#engagement-program}
+## 參與計畫 {#engagement-program}
 
-**參與計畫**&#x200B;是一種可輕鬆完成複雜培養的計畫。
+安 **參與計畫** 是一種可以輕鬆完成複雜培養的程式。
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
 >[!MORELIKETHIS]
 >
->[建立參與計畫](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
+>[建立參與方案](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
 
-## 串流{#stream}
+## 資料流 {#stream}
 
-**stream**&#x200B;是一個優先化內容池，參與計畫將用來培養人們。
+A **流** 是一組優先的內容，參與計畫將用來培養人。
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
 >[!MORELIKETHIS]
 >
->* [新增串流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
->* [複製串流](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
+>* [新增資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
+>* [複製資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
 
-## 內容{#content}
+## 內容 {#content}
 
-您可以將&#x200B;**內容**&#x200B;新增至參與程式串流，包括電子郵件和程式。 電子郵件將在轉播時傳送給其他人。
+有兩種類型 **內容** 您可以將新增至參與計畫資料流，即電子郵件和計畫。 電子郵件會在轉播時傳送給人員。
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
 >[!MORELIKETHIS]
 >
->* [新增內容至串流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
->* [排定串流內容的優先順序](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
->* [編輯串流內容的可用性](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
+>* [新增內容至資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [排定資料流內容的優先順序](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
+>* [編輯資料流內容的可用性](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
 >* [移除串流內容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
->* [封存和取消封存串流內容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
+>* [封存和取消封存資料流內容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
 
-## 鑄造{#cast}
+## Cast {#cast}
 
-**cast**&#x200B;是從參與計畫傳送電子郵件的事件。
+A **鑄造** 是從參與計畫傳送電子郵件的事件。
 
 >[!NOTE]
 >
->「參與計畫」並非設計用於營運電子郵件。
+>參與計畫的設計不適用於操作電子郵件。
 
-## 串流節奏{#stream-cadence}
+## 串流順序 {#stream-cadence}
 
-您可以設定&#x200B;**串流cadence**&#x200B;來決定何時進行轉換。 這是您排程內容以定期間隔發佈的方式。
+您可以設定 **資料流頻率**. 這是您排程內容以定期間傳出的方式。
 
 ![](assets/image2014-9-15-15-3a25-3a27.png)
 
 >[!MORELIKETHIS]
 >
->[設定串流節奏](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>[設定資料流順序](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
-## 人員地序{#person-cadence}
+## 人員順序 {#person-cadence}
 
-**person cadence**&#x200B;是一種狀態，定義其從參與計畫接收內容的能力。 您可以使用&#x200B;**變更參與程式Cadence**&#x200B;流程步驟，將此步驟變更為「暫停」或「正常」。
+A **人與人** 是一種狀態，定義其從參與計畫接收內容的能力。 您可以使用 **更改參與計畫順序** 將此變更為「暫停」或「正常」的流程步驟。
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
-## 精疲力盡的{#exhausted}
+## 累死了 {#exhausted}
 
-當某人收到串流中的每一條內容後，我們稱該人&#x200B;**已累**。
+一旦某人收到資料流中的每一段內容，我們就稱該人為 **累死了**.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
 >[!MORELIKETHIS]
 >
->[已累積內容的人](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
+>[已耗盡內容的人](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
-## 內容參與等級{#content-engagement-level}
+## 內容參與層級 {#content-engagement-level}
 
-「內容參與程度」是Marketo將提供您內容的0到100分。 此數字由使用開啟、點按、取消訂閱、程式成功和其他因素的複雜公式決定。
+內容參與層級是Marketo將提供您內容的0到100分。 此數字由複雜的公式決定，公式使用開啟、點按、取消訂閱、程式成功和其他因素。
 
 >[!MORELIKETHIS]
 >
->[瞭解參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
+>[了解參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)

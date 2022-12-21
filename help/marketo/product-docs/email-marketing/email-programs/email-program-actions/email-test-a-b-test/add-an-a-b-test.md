@@ -1,56 +1,53 @@
 ---
 unique-page-id: 2359491
-description: 新增A/B測試——行銷檔案——產品檔案
+description: 新增A/B測試 — Marketo檔案 — 產品檔案
 title: 新增A/B測試
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
-
-# 新增A/B測試{#add-an-a-b-test}
+# 新增A/B測試 {#add-an-a-b-test}
 
 >[!PREREQUISITES]
 >
 >* [建立電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [使用智慧型存取者定](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 義對 [像匯入清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-
-   >
-   >
-* [選擇現有電](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 子郵 [件或建立電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [使用智慧清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 或 [匯入清單以定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>
+>* [選擇現有電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 或 [為電子郵件方案建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 
-測試是最佳化電子郵件以提升參與度的絕佳方式。 以下是如何開始使用。
+測試是最佳化電子郵件以提升參與度的絕佳方式。 這是如何開始的。
 
-1. 前往&#x200B;**行銷活動**。
+1. 前往 **行銷活動**.
 
    ![](assets/login-marketing-activities.png)
 
-1. 選擇您的電子郵件方案。
+1. 選取您的電子郵件方案。
 
    ![](assets/selectemailprogram.jpg)
 
-1. 在&#x200B;**Email**&#x200B;表徵圖下，按一下&#x200B;**添加A/B測試**。
+1. 在 **電子郵件** 拼貼，按一下 **新增A/B測試**.
 
    ![](assets/image2014-9-12-14-3a39-3a29.png)
 
    >[!NOTE]
    >
-   >新增A/B測試時，所選取的電子郵件將無法再用於任何其他程式。
+   >新增A/B測試時，所選電子郵件將不再可用於任何其他程式。
 
-1. 新視窗將會開啟，並顯示不同的&#x200B;**測試類型**&#x200B;以供選擇。 請探索下列其中一個相關文章以繼續。
+1. 新視窗會以不同的格式開啟 **測試類型** 來選擇。 請詳閱以下其中一篇相關文章，以繼續。
 
    >[!CAUTION]
    >
-   >如果您的資料庫中有重複的記錄，這些記錄將同時收到&#x200B;**測試和成功電子郵件。**&#x200B;為防止這種情況發生，請確保在資料庫中[查找並合併重複的人員](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)。
+   >如果您的資料庫中有重複記錄，則這些記錄將接收 **both** 測試和成功電子郵件。 為避免發生此情況，請確定您 [查找和合併重複人員](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) 在資料庫中。
 
 >[!MORELIKETHIS]
 >
 >* [使用「主旨行」A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
->* [使用「完整電子郵件」A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+>* [使用「整封電子郵件」A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
 >* [使用「寄件者地址」A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
->* [使用「日期／時間」 A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
+>* [使用「日期/時間」A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
 

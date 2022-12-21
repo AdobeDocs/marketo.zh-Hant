@@ -5,7 +5,7 @@ exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 source-git-commit: 3e0823976e8b837fcb2fdbbf03f26da48cbd74b7
 workflow-type: tm+mt
 source-wordcount: '269'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/set-up-the-on24-integration-with-marketo-3.png)
 
-1. 輸入角色名稱。 開啟 **存取API** 菜單中，並選擇「讀寫自定義對象」和「讀寫人員」。 按一下 **建立**.
+1. 輸入角色名稱。 開啟 **存取API** 菜單中，並選擇「讀寫自定義對象」和「讀寫人員」。 按一下 **建立**。
 
    ![](assets/set-up-the-on24-integration-with-marketo-4.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. 選擇顯示名稱。 按一下 **服務** 下拉式清單並選取 **自訂**. 輸入說明。 按一下「僅限API使用者」下拉式清單，然後選取您建立的使用者 [在上述步驟中](#create-a-new-user). 按一下 **建立**.
+1. 選擇顯示名稱。 按一下 **服務** 下拉式清單並選取 **自訂**. 輸入說明。 按一下「僅限API使用者」下拉式清單，然後選取您建立的使用者 [在上述步驟中](#create-a-new-user). 按一下 **建立**。
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 

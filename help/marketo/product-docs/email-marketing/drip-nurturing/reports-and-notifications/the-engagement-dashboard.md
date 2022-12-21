@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359685
-description: 項目儀表板 — Marketo文檔 — 產品文檔
-title: 項目儀表板
+description: 參與控制面板 — Marketo檔案 — 產品檔案
+title: 參與控制面板
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
 workflow-type: tm+mt
@@ -10,64 +10,64 @@ ht-degree: 0%
 
 ---
 
-# 項目儀表板 {#the-engagement-dashboard}
+# 參與控制面板 {#the-engagement-dashboard}
 
-「項目控制板」是查看項目計畫中內容如何執行的最簡單方法。
+「參與控制面板」是查看參與計畫內容執行情況的最簡單方式。
 
 >[!NOTE]
 >
->項目分數包括您前三次投票的資料。 每次鑄造後72小時計算新的一個。 瞭解有關 [項目評分](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
+>參與分數包含您最近三次轉播的資料。 每次轉播後72小時會計算新的一個。 深入了解 [參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
-## 查看項目儀表板 {#view-the-engagement-dashboard}
+## 檢視參與控制面板 {#view-the-engagement-dashboard}
 
-選擇您的訂約計畫並按一下 **視圖** > **儀表板**。
+選取您的參與方案，然後按一下 **檢視** > **控制面板**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->查看 [項目流效能報告](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) 的子菜單。
+>查看 [參與資料流績效報告](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) 以取得更詳細的統計資料。
 
-## 瞭解窮盡小部件 {#understand-the-exhaustion-widget}
+## 了解耗盡Widget {#understand-the-exhaustion-widget}
 
-此小部件可幫助您預測潛在客戶何時耗盡所有內容。 在每次演出後立即計算耗盡分數。 以下示例顯示，在1個鑄造中，195個銷售線索將耗盡所有內容。
+此介面工具集可協助您預測銷售機會何時耗盡所有內容。 在每次投放後立即計算耗盡分數。 以下範例顯示，在1個投影中，195個銷售機會將耗盡所有內容。
 
 ![](assets/image2014-9-15-16-3a45-3a10.png)
 
 >[!NOTE]
 >
->您必須進入「設定」頁籤，並確保已用盡的內容通知 **開** 表徵圖。 如果它們關閉，圖表將看起來不同。
+>您必須前往「設定」標籤，確認「已用盡的內容通知」為 **開啟** ，查看上圖。 如果關閉，圖表會看起來不同。
 
 >[!CAUTION]
 >
->&quot;精疲力盡&quot;的人在下一個演員中不會收到任何通信。
+>「筋疲力盡」的人在下一場中不會收到任何通信。
 
-## 瞭解隨時間推移的項目小部件 {#understand-the-engagement-over-time-widget}
+## 了解隨時間推移的參與度Widget {#understand-the-engagement-over-time-widget}
 
-顯示一段時間內的平均項目分數以及內容編輯的影響。
+顯示一段時間內的平均參與分數，以及內容編輯的影響。
 
 >[!AVAILABILITY]
 >
->此功能可作為使用Marketo收入週期瀏覽器的客戶的附加功能。 請聯繫您的客戶成功經理以瞭解更多詳細資訊。
+>此功能是使用Marketo收入週期總管的客戶的附加元件。 如需詳細資訊，請連絡您的客戶成功經理。
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 
-要顯示單個內容而不是平均內容，請按一下齒輪表徵圖，然後選擇該內容。
+若要顯示單一內容（而非平均內容），請按一下齒輪圖示，然後選取該內容。
 
 ![](assets/image2014-9-15-16-3a46-3a45.png)
 
-## 瞭解最高項目小部件 {#understand-the-highest-engagement-widget}
+## 了解最高參與Widget {#understand-the-highest-engagement-widget}
 
-按最高項目分數排序的所有內容的清單。
+所有內容的清單，依最高參與分數排序。
 
 ![](assets/image2014-9-15-16-3a46-3a54.png)
 
-要更改排序，請按一下齒輪表徵圖，然後選擇排序順序。
+若要變更排序，請按一下齒輪圖示，然後選取排序順序。
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-_最新_ 和 _最舊_ 基於上次批准的時間。
+_最新_ 和 _最舊_ 是根據上次核准的時間。
 
 >[!NOTE]
 >
->在 [建立項目計畫](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) 深潛。
+>了解更多 [建立參與方案](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) 深潛。

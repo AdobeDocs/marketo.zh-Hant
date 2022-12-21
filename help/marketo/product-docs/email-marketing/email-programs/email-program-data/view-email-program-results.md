@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2951167
-description: 檢視電子郵件方案結果——行銷人員檔案——產品檔案
-title: 檢視電子郵件方案結果
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: 檢視電子郵件方案結果 — Marketo檔案 — 產品檔案
+title: 查看電子郵件計畫結果
+exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
+# 查看電子郵件計畫結果 {#view-email-program-results}
 
-# 查看電子郵件程式結果{#view-email-program-results}
+就像智慧行銷活動中的「結果」索引標籤一樣，您也可以在電子郵件方案中看到相同的資訊。
 
-就像智慧型促銷活動中的「結果」索引標籤一樣，您可以在電子郵件程式中看到相同的資訊。
-
-1. 前往&#x200B;**行銷活動**。
+1. 前往 **行銷活動**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -25,13 +24,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果電子郵件程式已執行，您將直接進入電子郵件程式儀表板。
+   >如果電子郵件程式已執行，您將直接帶至電子郵件程式控制面板。
 
-1. 在&#x200B;**View**&#x200B;下，選擇&#x200B;**控制面板**。
+1. 在 **檢視**，選取 **控制面板**.
 
    ![](assets/controlpanelview.jpg)
 
-1. 在&#x200B;**Audience**&#x200B;方塊下，按一下&#x200B;**檢視結果**。
+1. 在 **對象** 拼貼，按一下 **查看結果**.
 
    ![](assets/audiencetile.jpg)
 
