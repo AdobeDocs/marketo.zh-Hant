@@ -3,16 +3,22 @@ unique-page-id: 2953188
 description: 推斷篩選器 — Marketo檔案 — 產品檔案
 title: 推斷的篩選器
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: c045e9008bf0e9d145ac67866a1e0d7cb6e26069
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
 # 推斷的篩選器 {#inferred-filters}
 
-當有人瀏覽您的網站時， [蒙奇金](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 將它們加入系統。 我們在一個特殊的資料庫中查找他們的IP，並推斷出各種好的資訊。 看看。
+當有人瀏覽您的網站時， [蒙奇金](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 將它們加入系統。 我們在一個特殊的資料庫中查找他們的IP，並推斷出各種好的資訊。
+
+>[!NOTE]
+>
+>為確保推斷的欄位值保持最新，我們會定期更新用於IP地址查閱的資料庫。 資料庫更新可引入新的推斷欄位值，您可能需要將這些值添加到智慧清單篩選器定義中。
+>
+>資料庫更新可能發生在 [Marketo Engage產品發行](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}。 更新發生時， [Marketo Engage發行說明](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;}將包含對推斷欄位值所做任何變更的說明。
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
