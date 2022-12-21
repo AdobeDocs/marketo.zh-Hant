@@ -136,7 +136,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>編輯</td> 
-   <td>編輯模組 <module name><attribute> 設為"value"</td> 
+   <td>編輯模組 <code>"<module name>" <attribute></code> 設為"value"</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
