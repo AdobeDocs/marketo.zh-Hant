@@ -4,7 +4,7 @@ title: 模型與深入分析
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 下面是如何評估模型健康度。
 
-導覽至 **[!UICONTROL Models and Data Health]** 一節 **[!UICONTROL Predictive Audiences]** 在 **[!UICONTROL Admin]** Marketo Engage。 在此，您會看到所有模型及其狀態。
+導覽至 **[!UICONTROL 模型與資料健康度]** 一節 **[!UICONTROL 預測對象]** 在 **[!UICONTROL 管理]** Marketo Engage。 在此，您會看到所有模型及其狀態。
 
 ![影像一](assets/models-and-insights-1.png)
 

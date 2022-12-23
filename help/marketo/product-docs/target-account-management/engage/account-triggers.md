@@ -5,7 +5,7 @@ title: 帳戶觸發器
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 使用帳戶層級觸發器，在不同通路（例如電子郵件、網頁、廣告）上監聽重要帳戶層級行為活動並採取行動。
 
-選取您的智慧型行銷活動，然後按一下 **[!UICONTROL Smart List]**.
+選取您的智慧型行銷活動，然後按一下 **[!UICONTROL 智慧清單]**.
 
 ![](assets/one-1.png)
 

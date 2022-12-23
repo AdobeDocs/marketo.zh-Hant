@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: 29c586d1-6c7d-4892-9c71-354af1552076
 source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 這兩個篩選器可協助您透過鎖定其他類似其他方案或智慧清單成員的潛在客戶，來擴展目前的對象。 「相似對象」篩選器會考量50多個因素，包括銷售機會屬性、電子郵件活動、網路活動和參與。
 
-按一下 **[!UICONTROL Add Constraint]** ，選擇所選程式的成員的成功標準。
+按一下 **[!UICONTROL 添加約束]** ，選擇所選程式的成員的成功標準。
 
 按一下程式下拉式清單旁的+圖示，即可輕鬆將多個程式/智慧清單新增至一個篩選器。
 

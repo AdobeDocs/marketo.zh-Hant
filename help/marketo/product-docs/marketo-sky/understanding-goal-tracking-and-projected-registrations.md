@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: 22d7ef98-2988-4188-99dd-5558a78492e3
 source-git-commit: b609a268f08a7eef47d32c77a054a7d120339186
 workflow-type: tm+mt
-source-wordcount: '978'
+source-wordcount: '986'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 目標跟蹤和預計註冊 {#goal-tracking-and-projected-registrations}
 
-1. 您可以在 **[!UICONTROL Reports]** 頁簽。 在這個具體例子中，迄今有150名註冊成員，而目標是200(75%)。
+1. 您可以在 **[!UICONTROL 報表]** 頁簽。 在這個具體例子中，迄今有150名註冊成員，而目標是200(75%)。
 
    ![影像一](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
-您也會看到您的 **[!UICONTROL Projected]** 註冊。 將滑鼠指標暫留在資訊圖示上，即可依「似然」區段查看此數字的劃分。
+您也會看到您的 **[!UICONTROL 預計]** 註冊。 將滑鼠指標暫留在資訊圖示上，即可依「似然」區段查看此數字的劃分。
 
 ![影像二](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 ## 人員層級預測 {#person-level-predictions}
 
-按一下 **[!UICONTROL Members]** 頁簽，查看所有程式成員。 暫留在 **[!UICONTROL Registration Likelihood]** 或 **[!UICONTROL Attendance Likelihood]** 列以查看確切的百分比和分類。 然後，您可以對特定類別的成員（例如，「不太可能」類別中的每個成員進行註冊）採取操作，並具體地將其定位為可能增加註冊次數。
+按一下 **[!UICONTROL 成員]** 頁簽，查看所有程式成員。 暫留在 **[!UICONTROL 註冊可能性]** 或 **[!UICONTROL 考勤機率]** 列以查看確切的百分比和分類。 然後，您可以對特定類別的成員（例如，「不太可能」類別中的每個成員進行註冊）採取操作，並具體地將其定位為可能增加註冊次數。
 
 ![影像七](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
@@ -102,7 +102,7 @@ ht-degree: 0%
 
 我。您建立方案，然後智慧行銷活動使用「大於X」的預測性篩選，這會產生特定數量的人員（例如1000），而您執行行銷活動。
 
-ii. 24小時後， [!UICONTROL Reports] 標籤中，您可以查看根據註冊當前受邀人員值的可能性而計算的預計註冊。
+ii. 24小時後， [!UICONTROL 報表] 標籤中，您可以查看根據註冊當前受邀人員值的可能性而計算的預計註冊。
 
 三。 如果預計的註冊數小於目標數，則您必須邀請更多人。 此時，您會看到的深入分析可告訴您過去程式中適用的臨界值。
 

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2951884
-description: 了解Revenue Explorer中的Opportunity Analysis - Marketo Docs — 產品檔案
+description: 了解Revenue Explorer中的Opportunity Analysis - Marketo檔案 — 產品檔案
 title: 了解Revenue Explorer中的Opportunity Analysis
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432

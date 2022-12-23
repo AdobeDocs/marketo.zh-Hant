@@ -15,7 +15,7 @@ Marketo Sales可為您提供多種傳送電子郵件的選項。 本文將檢閱
 
 ## 建議：透過Email Connection的Gmail或Exchange {#recommended-gmail-or-exchange-via-email-connection}
 
-Marketo Sales可透過我們的電子郵件連線服務，簡化設定並增強傳遞能力。 電子郵件連線可讓每位使用者連線至 [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) 或 [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) 帳戶至Marketo銷售人員，以作為所有Marketo銷售電子郵件的傳送管道。
+Marketo Sales可透過我們的電子郵件連線服務簡化設定並增強傳遞能力。 電子郵件連線可讓每位使用者連線至 [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) 或 [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) 帳戶至Marketo銷售人員，以作為所有Marketo銷售電子郵件的傳送管道。
 
 與其他傳送管道選項相比，使用Gmail或Exchange有一些明顯的優點：
 

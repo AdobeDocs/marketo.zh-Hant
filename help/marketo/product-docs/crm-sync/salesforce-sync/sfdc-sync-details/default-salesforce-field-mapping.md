@@ -12,7 +12,7 @@ ht-degree: 39%
 
 # 預設Salesforce欄位映射 {#default-salesforce-field-mapping}
 
-當您初次將Marketo帳戶與Salesforce同步時，Marketo會自動在您內建的Salesforce和Marketo欄位之間建立這些關聯。 Marketo還將同步您在Lead、Accounts、Opportunity和Contacts上的自定義欄位。
+當您初次將Marketo帳戶與Salesforce同步時，Marketo會自動在您內建的Salesforce和Marketo欄位之間建立這些關聯。 Marketo還將同步您的Lead、Accounts、Opportunity和Contacts上的自定義欄位。
 
 ## 銷售機會欄位 {#lead-fields}
 
@@ -78,7 +78,7 @@ ht-degree: 39%
 |---|---|
 | 年收入 | 年收入 |
 | 帳單城市 | 帳單城市 |
-| 帳單國家/地區 | 帳單國家/地區 |
+| 帳單國家 | 帳單國家 |
 | 帳單郵遞區號 | 帳單郵遞區號 |
 | 帳單州/省 | 帳單州別 |
 | 帳單街 | 帳單地址 |

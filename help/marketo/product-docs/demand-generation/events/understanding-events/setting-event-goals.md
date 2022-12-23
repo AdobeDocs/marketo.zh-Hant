@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -22,21 +22,21 @@ ht-degree: 0%
 
    ![](assets/setting-event-goals-1.png)
 
-1. 選擇 [!UICONTROL Campaign Folder]，將活動設為 [!UICONTROL Name]，請選取 [!UICONTROL Program Type] 和 [!UICONTROL Channel]. 按一下 **[!UICONTROL Create]** 時才能使用。
+1. 選擇 [!UICONTROL 促銷活動資料夾]，將活動設為 [!UICONTROL 名稱]，請選取 [!UICONTROL 程式類型] 和 [!UICONTROL 管道]. 按一下 **[!UICONTROL 建立]** 時才能使用。
 
    ![](assets/setting-event-goals-2.png)
 
-1. 在您的活動中，按一下 **[!UICONTROL Reports]** 標籤。
+1. 在您的活動中，按一下 **[!UICONTROL 報表]** 標籤。
 
    ![](assets/setting-event-goals-3.png)
 
-1. 輸入 [!UICONTROL Registered] 按一下 **[!UICONTROL Set a goal]**. 在中輸入數字，然後按Enter。
+1. 輸入 [!UICONTROL 已註冊] 按一下 **[!UICONTROL 設定目標]**. 在中輸入數字，然後按Enter。
 
    ![](assets/setting-event-goals-4.png)
 
    ![](assets/setting-event-goals-5.png)
 
-1. 對 [!UICONTROL Attended].
+1. 對 [!UICONTROL 已出席].
 
    ![](assets/setting-event-goals-6.png)
 
@@ -44,4 +44,4 @@ ht-degree: 0%
 >
 >事件啟動後，您無法設定事件的目標。
 
-就這樣！ 按一下 [!UICONTROL Reports] 標籤。
+就這樣！ 按一下 [!UICONTROL 報表] 標籤。

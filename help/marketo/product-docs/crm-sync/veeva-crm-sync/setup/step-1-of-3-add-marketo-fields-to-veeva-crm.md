@@ -137,7 +137,7 @@ Marketo Engage使用一組欄位來擷取特定類型的行銷相關資訊。 �
    <td>長255</td>
   </tr>
   <tr>
-   <td>推斷的國家/地區</td>
+   <td>推斷的國家</td>
    <td>mkto71_Exterified_Country</td>
    <td>文字</td>
    <td>長255</td>

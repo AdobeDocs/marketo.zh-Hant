@@ -4,7 +4,7 @@ title: 預測性篩選
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 這兩個篩選器可協助您透過鎖定其他類似其他方案或智慧清單成員的潛在客戶，來擴展目前的對象。 「相似對象」篩選器會考量50多個因素，包括銷售機會屬性、電子郵件活動、網路活動和參與。
 
-按一下 **[!UICONTROL Add Constraint]** ，選擇所選程式的成員的成功標準。
+按一下 **[!UICONTROL 添加約束]** ，選擇所選程式的成員的成功標準。
 
 按一下 **+** 表徵圖可輕鬆將多個程式/智慧清單添加到一個篩選器中。
 

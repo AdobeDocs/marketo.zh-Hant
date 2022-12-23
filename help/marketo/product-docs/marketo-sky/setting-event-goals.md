@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: bc581336-e78b-4e0e-bdff-b62e1bd99fba
 source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -22,12 +22,12 @@ ht-degree: 0%
 
    ![影像一](assets/setting-event-goals-1.png)
 
-1. 將活動設為 [!UICONTROL Name]，請選取 [!UICONTROL Destination] 資料夾和 [!UICONTROL Channel].
+1. 將活動設為 [!UICONTROL 名稱]，請選取 [!UICONTROL 目的地] 資料夾和 [!UICONTROL 管道].
 
    ![影像二](assets/setting-event-goals-2.png)
 
-1. 輸入 [!UICONTROL Registered] 和 [!UICONTROL Attended]，然後按一下 **[!UICONTROL Create]** ([!UICONTROL Description] 和 [!UICONTROL Labels] 為選用)。
+1. 輸入 [!UICONTROL 已註冊] 和 [!UICONTROL 已出席]，然後按一下 **[!UICONTROL 建立]** ([!UICONTROL 說明] 和 [!UICONTROL 標籤] 為選用)。
 
    ![第三圖](assets/setting-event-goals-3.png)
 
-就這樣！ 按一下 [!UICONTROL Reports] 標籤。
+就這樣！ 按一下 [!UICONTROL 報表] 標籤。

@@ -502,7 +502,7 @@ ht-degree: 17%
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>帳單國家/地區</td>
+      <td>帳單國家</td>
       <td>地址1:國家/地區</td>
       <td>address1_country</td>
     </tr>

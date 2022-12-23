@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: fdb4ae1c-a638-4aa3-aa09-1993760b8be5
 source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 下面是如何評估模型健康度。
 
-導覽至 **[!UICONTROL Models and Data Health]** 一節 **[!UICONTROL Predictive Audiences]** 在 **[!UICONTROL Admin]** Marketo Classic地區。 在此，您會看到所有模型及其狀態。
+導覽至 **[!UICONTROL 模型與資料健康度]** 一節 **[!UICONTROL 預測對象]** 在 **[!UICONTROL 管理]** Marketo Classic地區。 在此，您會看到所有模型及其狀態。
 
 ![影像一](assets/model-health-and-data-validity-1.png)
 

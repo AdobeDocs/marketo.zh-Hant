@@ -4,7 +4,7 @@ title: 觸發促銷活動的優先順序覆寫
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -27,25 +27,25 @@ ht-degree: 0%
 >
 >只有管理員或具有管理員職責的使用者才應具有促銷活動優先順序覆寫存取權。
 
-1. 在 [!UICONTROL Admin] 按一下 **[!UICONTROL Users & Roles]**.
+1. 在 [!UICONTROL 管理] 按一下 **[!UICONTROL 使用者與角色]**.
 
    ![](assets/priority-override-for-trigger-campaigns-1.png)
 
-1. 按一下 **[!UICONTROL Roles]** 頁簽，選擇要授予訪問權限的用戶，然後按一下 **[!UICONTROL Edit Role]**.
+1. 按一下 **[!UICONTROL 角色]** 頁簽，選擇要授予訪問權限的用戶，然後按一下 **[!UICONTROL 編輯角色]**.
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. 在 [!UICONTROL Access Marketing Activities]，選取 **[!UICONTROL Edit Trigger Campaign Priority]**. 按一下 **[!UICONTROL Save]**.
+1. 在 [!UICONTROL 存取行銷活動]，選取 **[!UICONTROL 編輯觸發程式促銷活動優先順序]**. 按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
 ## 覆蓋優先順序 {#override-priority}
 
-1. 找出您的觸發程式促銷活動。 按一下右鍵並選擇 **[!UICONTROL Override Campaign Priority]**.
+1. 找出您的觸發程式促銷活動。 按一下右鍵並選擇 **[!UICONTROL 覆寫促銷活動優先順序]**.
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 
-1. 按一下 **[!UICONTROL Override Campaign Priority]** 滑桿啟用。 選擇新的優先順序級別，然後按一下 **[!UICONTROL Confirm]**.
+1. 按一下 **[!UICONTROL 覆寫促銷活動優先順序]** 滑桿啟用。 選擇新的優先順序級別，然後按一下 **[!UICONTROL 確認]**.
 
    ![](assets/priority-override-for-trigger-campaigns-5.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* 您可以在 [!UICONTROL Campaign Queue] 在 [!UICONTROL Marketing Activities]. 若要提高執行率，建議將促銷活動優先順序設定為高於其預設值的一個層級。
+>* 您可以在 [!UICONTROL 促銷活動佇列] 在 [!UICONTROL 行銷活動]. 若要提高執行率，建議將促銷活動優先順序設定為高於其預設值的一個層級。
 >* 使用者集優先順序僅適用於符合促銷活動資格的新使用者；已在佇列中的人員將不會受到影響。
 >* 優先順序覆寫會擷取 [稽核軌跡](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).
 

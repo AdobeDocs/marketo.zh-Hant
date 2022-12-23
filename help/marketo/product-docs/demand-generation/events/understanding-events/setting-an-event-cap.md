@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -30,22 +30,22 @@ ht-degree: 0%
 
    ![](assets/setting-an-event-cap-1.png)
 
-1. 在概述中，尋找 [!UICONTROL Event Cap] 按一下 **[!UICONTROL Not Set]**.
+1. 在概述中，尋找 [!UICONTROL 事件上限] 按一下 **[!UICONTROL 未設定]**.
 
    ![](assets/setting-an-event-cap-2.png)
 
-1. 輸入您要能夠為事件註冊的人數上限，然後按一下 **[!UICONTROL Next]**.
+1. 輸入您要能夠為事件註冊的人數上限，然後按一下 **[!UICONTROL 下一個]**.
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. 按一下 [!UICONTROL Registration Page] 下拉式清單，並選取將作為您註冊頁面的登錄頁面。
+1. 按一下 [!UICONTROL 註冊頁面] 下拉式清單，並選取將作為您註冊頁面的登錄頁面。
 
    ![](assets/setting-an-event-cap-4.png)
 
-1. 按一下 **[!UICONTROL Registration Full Page]** 下拉式清單，並選取將作為註冊完整頁面的登錄頁面。 按一下 **[!UICONTROL Set and Enable]** 時才能使用。
+1. 按一下 **[!UICONTROL 註冊全頁]** 下拉式清單，並選取將作為註冊完整頁面的登錄頁面。 按一下 **[!UICONTROL 設定和啟用]** 時才能使用。
 
    ![](assets/setting-an-event-cap-5.png)
 
-   你都準備好了。 如果您決定要編輯事件上限詳細資料，請按一下旁邊的藍色文字 [!UICONTROL Event Cap].
+   你都準備好了。 如果您決定要編輯事件上限詳細資料，請按一下旁邊的藍色文字 [!UICONTROL 事件上限].
 
    ![](assets/setting-an-event-cap-6.png)
