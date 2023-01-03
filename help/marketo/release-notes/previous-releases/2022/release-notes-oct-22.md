@@ -1,9 +1,9 @@
 ---
 description: 發行說明 — 2022年10月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2022年10月
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: ea0512aedc41694dfd12801a45a1969a7561debc
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '634'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 </br>
 
-* **程式成員自定義欄位同步**:能夠雙向同步為程式成員捕獲的可擴展欄位(例如，在事件註冊期間（如食物、會話、軌道等）的參與者偏好
+* **程式成員自定義欄位同步**:能夠雙向同步為程式成員捕獲的可擴展欄位(例如，在事件註冊期間（如食物、會話、軌道等）的參與者偏好 與Salesforce中的Campaign成員欄位。
 
 <table> 
   <tr> 
