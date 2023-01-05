@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: 方案成員自訂欄位 — Marketo檔案 — 產品檔案
 title: 方案成員自定義欄位
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
+source-git-commit: 10f7bf5b8b3fd91e98550ab281e5ddda87b1c30b
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '432'
 ht-degree: 1%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 1%
 # 方案成員自定義欄位 {#program-member-custom-fields}
 
 方案成員自定義欄位允許您收集每個成員的方案特定資料。 這些變數可用於：Marketo表單、智慧清單篩選器和觸發器，以及智慧促銷活動流程動作。 可在程式的「成員」(Members)頁簽中查看資料。
-
->[!NOTE]
->
->方案成員自定義欄位目前與Salesforce促銷活動成員欄位沒有整合。
 
 ## 建立方案成員自定義欄位 {#create-a-program-member-custom-field}
 
@@ -67,6 +63,7 @@ ht-degree: 1%
 
 * 方案成員自訂欄位僅適用於本機資產。 Design Studio不支援這些參數，因為無法將其與特定程式連結。
 * 無法將包含程式成員自定義欄位的表單（或具有表單的登錄頁）克隆/移動到Design Studio。
+* [您可以同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;}方案成員自訂欄位及促銷活動成員自訂欄位。
 * 程式成員對象最多可以有20個自定義欄位。 這些欄位可供任何方案使用。
 * 刪除程式的成員時，如果程式成員的「程式成員」自定義欄位中有任何資料，則會從該欄位刪除該資料。
 * 要查看資料，請按一下程式中的「成員」頁簽，並建立包含所述欄位的自定義視圖。
@@ -77,4 +74,7 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[在Marketo中建立自訂欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>* [在Marketo中建立自訂欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>
+>* [程式成員自定義欄位同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;}
+
