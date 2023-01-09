@@ -2,9 +2,9 @@
 description: 串流設計工具 — Marketo檔案 — 產品檔案
 title: 流程設計工具
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: e0f0a89076beaa1be0340e908a59459389b89baa
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '866'
 ht-degree: 2%
 
 ---
@@ -89,6 +89,10 @@ ht-degree: 2%
 1. 在「查特博特回應」下，回答您想問的問題。
 
    ![](assets/stream-designer-8.png)
+
+   >[!TIP]
+   >
+   >您可以使用代號來個人化已知聊天訪客的體驗(例如：Hello `{{lead.leadFirstName:""}}`)。 只需按一下右側的大括弧圖示並進行選取即可。 如果您希望匿名訪客看到通用內容，請在引號之間新增預設值(例如：Hello `{{lead.leadFirstName:"there"}}`)。
 
    >[!NOTE]
    >
