@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: 在Facebook中建立自訂對象 — Marketo檔案 — 產品檔案
 title: 在Facebook中建立自訂對象
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
+source-git-commit: 070a90a1eaeef94b20e735e21cc6a56175b2bad6
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,10 @@ ht-degree: 0%
 1. 按一下 **對象** 下拉式清單並選取 **+新受眾**.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
+
+   >[!IMPORTANT]
+   >
+   >facebook API可讓每個Facebook廣告帳戶最多允許500個自訂對象。
 
 1. 輸入 **對象名稱**. 按一下 **更新**.
 
