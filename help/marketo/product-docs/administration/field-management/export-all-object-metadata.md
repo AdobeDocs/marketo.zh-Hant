@@ -2,10 +2,10 @@
 description: 匯出所有物件中繼資料 — Marketo檔案 — 產品檔案
 title: 匯出所有物件中繼資料
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,11 +28,11 @@ ht-degree: 2%
 
 ## 匯出物件中繼資料 {#export-object-metadata}
 
-1. 在「我的Marketo」中，按一下 **管理**.
+1. 前往 **管理** 的上界。
 
    ![](assets/export-all-object-metadata-1.png)
 
-1. 選擇 **欄位管理**.
+1. 按一下 **欄位管理**.
 
    ![](assets/export-all-object-metadata-2.png)
 

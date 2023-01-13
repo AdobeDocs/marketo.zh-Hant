@@ -3,9 +3,9 @@ unique-page-id: 2360344
 description: 檢視Marketo與Salesforce之間的欄位對應 — Marketo檔案 — 產品檔案
 title: 檢視Marketo和Salesforce之間的欄位對應
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,13 +18,17 @@ ht-degree: 0%
 >
 >**需要管理權限**
 
-1. 前往 **管理** 按一下 **欄位管理**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-19-9-3a54-3a26.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
+
+1. 按一下 **欄位管理**.
+
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
 1. 找到您想要查看的欄位，然後按一下 **+** 展開對應。
 
-   ![](assets/image2014-9-19-9-3a54-3a34.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-3.png)
 
 >[!NOTE]
 >

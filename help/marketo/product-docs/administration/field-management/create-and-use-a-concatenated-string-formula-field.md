@@ -3,9 +3,9 @@ unique-page-id: 2360337
 description: 建立和使用串連字串（公式）欄位 — Marketo檔案 — 產品檔案
 title: 建立和使用串連字串（公式）欄位
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -14,29 +14,33 @@ ht-degree: 0%
 
 您可以結合多個欄位的值，或使用Marketo公式欄位建立條件值。
 
-1. 前往 **管理** 按一下 **欄位管理**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-19-9-3a44-3a58.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
+
+1. 按一下 **欄位管理**.
+
+   ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
 1. 按一下 **新自訂欄位**.
 
-   ![](assets/image2014-9-19-9-3a45-3a8.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
 1. 選擇 **公式** 針對 **類型**.
 
-   ![](assets/image2014-9-19-9-3a45-3a17.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
 1. 輸入 **名稱** ，然後按一下 **建立**.
 
-   ![](assets/image2014-9-19-9-3a46-3a0.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
 1. 查找並選擇公式欄位，然後按一下 **編輯規則**.
 
-   ![](assets/image2014-9-19-9-3a46-3a13.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
 1. 新增兩個選項，並像下方的螢幕擷取一樣加以定義。
 
-   ![](assets/image2014-9-19-9-3a46-3a25.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-7.png)
 
    >[!TIP]
    >
@@ -44,7 +48,7 @@ ht-degree: 0%
 
 1. 現在，您可以將公式欄位新增為電子郵件中的代號。
 
-   ![](assets/seven.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-8.png)
 
 >[!NOTE]
 >
