@@ -1,10 +1,10 @@
 ---
 description: 發行說明 — 2022年10月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2022年10月
-source-git-commit: ea0512aedc41694dfd12801a45a1969a7561debc
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '634'
-ht-degree: 3%
+source-wordcount: '601'
+ht-degree: 2%
 
 ---
 
@@ -172,20 +172,6 @@ ht-degree: 3%
 </table>
 
 * **支援動態聊天的其他資料類型**:三種新的資料類型（布林值、整數、浮點數）可讓您在動態聊天中運用更多現有的Marketo Engage欄位，以執行例如根據分數進行定位或詢問訪客是/否問題。
-
-<table> 
-  <tr> 
-   <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>即將推出</i></td>
-   <td>不適用</td>
-  </tr>
-  </tbody>
-</table>
-
-* **動態聊天的排程會議通知**:銷售代表會收到有關已排程會議的自動電子郵件通知，以及訪客聊天機器人互動的任何相關資訊。
 
 <table> 
   <tr> 

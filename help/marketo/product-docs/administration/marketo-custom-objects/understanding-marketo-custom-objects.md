@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: 了解Marketo自訂物件 — Marketo檔案 — 產品檔案
 title: 了解Marketo自訂物件
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '672'
 ht-degree: 0%
 
 ---
@@ -42,15 +42,21 @@ ht-degree: 0%
 
 ## 存取Marketo自訂物件 {#accessing-marketo-custom-objects}
 
-1. 若要建立或編輯Marketo自訂物件，請按一下 **管理** 然後 **Marketo自訂物件** 連結。
+1. 前往 **管理** 的上界。
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. 「Marketo自訂物件」顯示會在右側列出所有自訂物件，但主格線中只會列出已核准的物件。
+1. 按一下 **Marketo自訂物件**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
-1. 格線會顯示物件名稱、記錄數、欄位數，以及最新更新的日期。
+1. 「Marketo自訂物件」顯示會在右側列出所有自訂物件，但主格線中只會列出已核准的物件。
+
+   ![](assets/understanding-marketo-custom-objects-3.png)
+
+   >[!NOTE]
+   >
+   >格線會顯示物件名稱、記錄數、欄位數，以及最新更新的日期。
 
    >[!TIP]
    >
@@ -58,7 +64,7 @@ ht-degree: 0%
 
 1. 按一下右側的物件名稱，以開啟詳細資訊頁面。
 
-   ![](assets/understanding-marketo-custom-objects-3.png)
+   ![](assets/understanding-marketo-custom-objects-4.png)
 
 ## 查看與人員關聯的自定義對象 {#view-custom-objects-associated-to-a-person}
 
@@ -66,19 +72,19 @@ ht-degree: 0%
 
 1. 前往 **資料庫**.
 
-   ![](assets/understanding-marketo-custom-objects-4.png)
+   ![](assets/understanding-marketo-custom-objects-5.png)
 
 1. 開啟資料庫，然後按一下 **人員** 標籤。 按兩下與自定義對象關聯的人員的記錄。
 
-   ![](assets/understanding-marketo-custom-objects-5.png)
+   ![](assets/understanding-marketo-custom-objects-6.png)
 
 1. 在人員詳細資訊頁面上，按一下 **自訂物件** 標籤。 從下拉式清單中選取物件。
 
-   ![](assets/understanding-marketo-custom-objects-6.png)
+   ![](assets/understanding-marketo-custom-objects-7.png)
 
 1. 現在，您可以檢視與該人員相關聯的該類型所有自訂物件清單。
 
-   ![](assets/understanding-marketo-custom-objects-7.png)
+   ![](assets/understanding-marketo-custom-objects-8.png)
 
 ## 搭配公司使用自訂物件 {#using-custom-objects-with-companies}
 

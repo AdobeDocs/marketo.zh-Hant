@@ -3,9 +3,9 @@ unique-page-id: 10098479
 description: 建立自訂活動 — Marketo檔案 — 產品檔案
 title: 建立自訂活動
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,21 @@ ht-degree: 0%
 >
 >大部分的訂閱都有10種自訂活動類型的分配限制。
 
-1. 按一下 **管理**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/one.png)
+   ![](assets/create-a-custom-activity-1.png)
 
-1. 在 **資料庫管理** 按一下 **自訂活動**.
+1. 按一下 **Marketo自訂活動**.
 
-   ![](assets/two.png)
+   ![](assets/create-a-custom-activity-2.png)
 
 1. 按一下 **新自訂活動**.
 
-   ![](assets/three.png)
+   ![](assets/create-a-custom-activity-3.png)
 
 1. 輸入名稱和可選說明，然後按一下 **下一個**. API名稱會自動填入，但可自訂。
 
-   ![](assets/four.png)
+   ![](assets/create-a-custom-activity-4.png)
 
    >[!CAUTION]
    >
@@ -40,13 +40,11 @@ ht-degree: 0%
 
 1. 定義 **篩選** 和 **觸發** 按一下 **下一個**.
 
-   ![](assets/five.png)
+   ![](assets/create-a-custom-activity-5.png)
 
 1. 為主要欄位指定摘要自訂活動的名稱。
 
-   ![](assets/six.png)
-
-   就這樣！
+   ![](assets/create-a-custom-activity-6.png)
 
 >[!MORELIKETHIS]
 >
