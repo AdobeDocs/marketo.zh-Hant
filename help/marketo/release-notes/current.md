@@ -2,10 +2,10 @@
 description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 8cb8f1d564ccfba5c3861370c7624069a08be712
+source-git-commit: 591dff8db13e22eb129f6e30ecb90f3b7238652b
 workflow-type: tm+mt
-source-wordcount: '667'
-ht-degree: 9%
+source-wordcount: '635'
+ht-degree: 8%
 
 ---
 
@@ -175,20 +175,6 @@ ht-degree: 9%
 </table>
 
 * **動態聊天的排程會議電子郵件通知**:在座席日曆上預訂會議時，座席會收到有關預訂的電子郵件通知，包括訪客動態聊天參與的詳細資訊。
-
-<table> 
-  <tr> 
-   <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **動態聊天的對話方塊參與報表**:提供一段時間內的對話方塊參與檢視，包括依訪客類型和參與類型篩選的能力。
 
 <table> 
   <tr> 
