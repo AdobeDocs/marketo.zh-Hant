@@ -3,9 +3,9 @@ unique-page-id: 10094188
 description: 核准自訂物件 — Marketo檔案 — 產品檔案
 title: 核准自訂物件
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,25 @@ ht-degree: 0%
 
 您已建立全新的自訂物件。 以下是如何核准。
 
-1. 在「管理」中，按一下 **Marketo自訂物件** 並選擇處於「繪製」狀態的對象。
+1. 前往 **管理** 的上界。
 
-   ![](assets/one.png)
+   ![](assets/approve-a-custom-object-1.png)
+
+1. 按一下 **Marketo自訂物件**.
+
+   ![](assets/approve-a-custom-object-2.png)
+
+1. 選取處於「草稿」狀態的物件。
+
+   ![](assets/approve-a-custom-object-3.png)
 
 1. 按一下 **自訂物件動作** 下拉式清單並選取 **核准物件**.
 
-   ![](assets/two.png)
+   ![](assets/approve-a-custom-object-4.png)
 
 1. 狀態變更為「已核准」。
 
-   ![](assets/three.png)
+   ![](assets/approve-a-custom-object-5.png)
 
    >[!NOTE]
    >
@@ -48,12 +56,12 @@ ht-degree: 0%
 
 1. 當您編輯已核准的自訂物件時，它會收到「已核准」狀態的草稿。
 
-   ![](assets/four.png)
+   ![](assets/approve-a-custom-object-6.png)
 
 1. 準備好核准草稿時，請按一下 **自訂物件動作** 下拉式清單並選取 **核准物件**.
 
-   ![](assets/five-1.png)
+   ![](assets/approve-a-custom-object-7.png)
 
 1. 預覽會顯示在草稿中變更的項目。 按一下 **核准**.
 
-   ![](assets/six-1.png)
+   ![](assets/approve-a-custom-object-8.png)

@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: 新增Marketo自訂物件欄位 — Marketo檔案 — 產品檔案
 title: 新增Marketo自訂物件欄位
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -16,17 +16,21 @@ ht-degree: 0%
 
 欄位會定義自訂物件所使用的特定資訊。 連結欄位有特殊工作，可用來連結自訂物件，且會包含在 [獨立文章](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. 按一下 **管理**，在 **資料庫管理**，選取 **Marketo自訂物件**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2016-1-18-9-3a2-3a6.png)
+   ![](assets/add-marketo-custom-object-fields-1.png)
+
+1. 按一下 **Marketo自訂物件**.
+
+   ![](assets/add-marketo-custom-object-fields-2.png)
 
 1. 選取您要在右側新增欄位的物件。
 
-   ![](assets/image2016-1-18-9-3a5-3a3.png)
+   ![](assets/add-marketo-custom-object-fields-3.png)
 
 1. 在 **欄位** 按一下 **新欄位**.
 
-   ![](assets/image2015-9-15-16-3a53-3a40.png)
+   ![](assets/add-marketo-custom-object-fields-4.png)
 
    >[!NOTE]
    >
@@ -34,7 +38,7 @@ ht-degree: 0%
 
 1. 輸入顯示名稱和說明。
 
-   ![](assets/image2015-10-5-11-3a35-3a48.png)
+   ![](assets/add-marketo-custom-object-fields-5.png)
 
    >[!NOTE]
    >
@@ -42,11 +46,11 @@ ht-degree: 0%
 
 1. 現在，從清單中選擇適當的資料類型。
 
-   ![](assets/image2015-10-5-11-3a37-3a24.png)
+   ![](assets/add-marketo-custom-object-fields-6.png)
 
 1. 如果要將新欄位用作唯一標識符，請將重複資料消除滑塊拉過。 按一下 **儲存** 完成。
 
-   ![](assets/image2015-10-5-11-3a40-3a12.png)
+   ![](assets/add-marketo-custom-object-fields-7.png)
 
    >[!TIP]
    >
