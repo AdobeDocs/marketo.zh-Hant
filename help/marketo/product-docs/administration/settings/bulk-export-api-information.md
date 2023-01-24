@@ -1,18 +1,16 @@
 ---
 description: 大量匯出API資訊 — Marketo檔案 — 產品檔案
 title: 大量匯出API資訊
-hide: true
-hidefromtoc: true
-source-git-commit: 6cee35eaa7eaf1a55188720a0d11d4ae0059c223
+source-git-commit: 9705e47415edbdeb19cc0e0b78ddcb4723301f20
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
 # 大量匯出API資訊 {#bulk-export-api-information}
 
-了解如何檢查 [大量擷取API](https://developers.marketo.com/rest-api/bulk-extract/)過去七天，您的Marketo Engage例項已佔用{target=&quot;_blank&quot;}容量。
+了解如何檢查 [大量擷取API](https://developers.marketo.com/rest-api/bulk-extract/){target="_blank"} 過去七天來，您的Marketo Engage例項已使用容量。
 
 >[!NOTE]
 >
