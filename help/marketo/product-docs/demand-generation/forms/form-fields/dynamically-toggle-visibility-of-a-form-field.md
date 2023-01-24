@@ -3,9 +3,9 @@ unique-page-id: 2949962
 description: 動態切換表單欄位的可見性 — Marketo檔案 — 產品檔案
 title: 動態切換表單欄位的可見性
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0aa754bb3fb9057aaec87dc41743711fb15f8d62
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -66,3 +66,9 @@ Marketo表單最酷的一項功能，是您可以動態隱藏/顯示表單欄位
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
 就這樣！ 現在，當人們填寫此表單並選擇「國家/地區的美國」時，「州」欄位將動態顯示並指定選項。
+
+>[!IMPORTANT]
+>
+>透過使用的自訂指令碼設定/更新欄位值時，表單欄位行為將可順暢運作 [API函式](https://developers.marketo.com/javascript-api/forms/){target="_blank"} 在Forms 2.0中。
+>
+>如果欄位值是由Forms 2.0 JavaScript API以外的外部指令碼修改，條件欄位可能無法如預期運作。
