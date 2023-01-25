@@ -2,9 +2,9 @@
 description: 執行Campaign - Marketo檔案 — 產品檔案
 title: 執行促銷活動
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '708'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 在需要運行單獨的流時，您也可以使用它們，但在後續流步驟選擇中需要依賴該流的結果（即，如果這樣，則執行）。
 
-執行促銷活動是 [要求促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)，因為它可以串聯或並行執行，而後者只能並行執行。
+執行促銷活動是 [要求促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)，因為它可以串聯執行，而後者只會並行執行。
 
 >[!NOTE]
 >
