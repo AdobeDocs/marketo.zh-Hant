@@ -2,9 +2,9 @@
 description: 概述 — Marketo檔案 — 產品檔案
 title: 概觀
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
+source-git-commit: d019a6a4aa3f246ba330b527f0f0719d99565006
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '479'
 ht-degree: 1%
 
 ---
@@ -208,4 +208,4 @@ ht-degree: 1%
 >
 >在樹狀結構中使用搜尋只會產生您所在區段的結果（例如行銷活動）。 如果您想要搜尋整個例項，請使用全域搜尋。
 
-享受全新的Marketo Engage體驗，並務必分享您的意見！
+享受全新的Marketo Engage體驗！
