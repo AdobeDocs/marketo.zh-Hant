@@ -1,15 +1,15 @@
 ---
 description: 概述 — Marketo檔案 — 產品檔案
-title: 總覽
+title: 概觀
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 2%
+source-wordcount: '486'
+ht-degree: 1%
 
 ---
 
-# 總覽 {#overview}
+# 概觀 {#overview}
 
 歡迎使用Adobe Marketo Engage Modern UX（使用者體驗），此更新介面可提供增強的可用性，以及整個Marketo Engage平台的全新外觀和風格。
 
@@ -30,8 +30,6 @@ ht-degree: 2%
 
 這次參觀會帶你了解所有需要了解的！
 
-![](assets/overview-2.png)
-
 ## 新增功能 {#whats-new}
 
 現代UX中有許多新功能，所有這些功能都旨在大幅改善您的行銷體驗。
@@ -40,7 +38,7 @@ ht-degree: 2%
 
 新的介面功能改進和擴展了影像。 請前往這裡了解這些項目： [圖示字彙表](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
 
-![](assets/overview-new-icons.png)
+![](assets/overview-2.png)
 
 **全域導覽**
 
@@ -191,15 +189,12 @@ ht-degree: 2%
    <td>列出的所有以前的超球項</td> 
   </tr>
   <tr>
-   <td>3</td> 
-   <td>使用此功能提供您體驗的相關意見</td> 
-  </tr>
   <tr>
-   <td>4</td> 
+   <td>3</td> 
    <td>如果您有多個訂閱，請按一下子名稱即可輕鬆切換至另一個訂閱</td> 
   </tr>
   <tr>
-   <td>5</td> 
+   <td>4</td> 
    <td>全域搜尋 — 您現在可以從這裡搜尋整個例項</td> 
   </tr>
  </tbody>
