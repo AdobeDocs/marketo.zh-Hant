@@ -3,7 +3,7 @@ unique-page-id: 9437903
 description: 建立自訂Dynamics同步篩選 — Marketo檔案 — 產品檔案
 title: 建立自訂Dynamics同步篩選器
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: ed4699ea4a94c787b8af109599f2a0c50591b956
 workflow-type: tm+mt
 source-wordcount: '785'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 不想將Dynamics CRM中的所有項目同步至Marketo嗎？ 別擔心！ Marketo可讓您設定同步篩選器，並僅同步部分記錄。
 
-## 總覽 {#overview}
+## 概觀 {#overview}
 
 要設定Dynamics同步篩選器，請執行以下操作：
 
