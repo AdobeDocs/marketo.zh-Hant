@@ -2,9 +2,9 @@
 description: 切換 — Marketo檔案 — 產品檔案
 title: 切換開關
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 3f3846fbb3b7e279e8eb2350f5d493fbb1da6304
+source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -68,5 +68,9 @@ ht-degree: 0%
 * 登錄頁面詳細資料檢視
 * 登錄頁面清單檢視
 * 登錄頁面範本詳細資訊
+* 登錄頁面範本清單
 * 程式碼片段詳細資料檢視
+* 程式碼片段清單檢視
+
+
 
