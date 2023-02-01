@@ -2,7 +2,7 @@
 description: 切換 — Marketo檔案 — 產品檔案
 title: 切換開關
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
+source-git-commit: f7e685b5386cddde508382d6598a63855bfd6cbf
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ## 可用功能 {#available-features}
 
-現代版UX目前提供下列功能（每個版本都新增了新功能）:
+現代版UX目前提供下列功能（每個版本都新增功能）:
 
 * 電子郵件詳細資訊檢視
 * 電子郵件清單檢視
