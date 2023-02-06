@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+source-git-commit: 3cc2fbff42aec23a96ccb09b3c14a90c7e8d39b9
 workflow-type: tm+mt
-source-wordcount: '8833'
+source-wordcount: '8827'
 ht-degree: 0%
 
 ---
@@ -1675,7 +1675,6 @@ ht-degree: 0%
          + [績效分析設定](product-docs/reporting/performance-insights/performance-insights-settings.md)
          + [績效分析趨勢概觀](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
          + [設定績效分析](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
-         + [將自訂欄位同步至效能分析](product-docs/reporting/performance-insights/sync-custom-fields-to-performance-insights.md)
       + 收入週期分析 {#revenue-cycle-analytics}
          + 電子郵件分析 {#email-analysis}
             + [建立列出銷售機會的電子郵件分析報表](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-lists-leads.md)
