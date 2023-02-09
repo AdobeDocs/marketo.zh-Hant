@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: 帳戶智慧清單 — Marketo檔案 — 產品檔案
 title: 帳戶智慧清單
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
+source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,10 @@ ht-degree: 0%
    ![](assets/account-smart-lists-7.png)
 
    ![](assets/account-smart-lists-8.png)
+
+   >[!NOTE]
+   >
+   >在您的 [帳戶分析排名和調整](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) 會顯示為自訂帳戶屬性，以便在您的帳戶智慧清單中使用。 此自訂屬性資料是根據建立/更新帳戶設定檔模型的時間。
 
 1. 選擇您的相符人員篩選器。 在這個例子中，我們 _加州_.
 
