@@ -1,7 +1,7 @@
 ---
 description: Campaign檢查工具 — Marketo檔案 — 產品檔案
 title: 促銷活動檢查工具
-source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
+source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 使用「促銷活動偵測器」，在單一位置檢視/搜尋所有智慧型促銷活動。
 
-## 啟用促銷活動檢查工具 {#activate-campaign-inspector}
+## 啟用促銷活動檢查器 {#enable-campaign-inspector}
 
 1. 前往 **管理** 的上界。
 
