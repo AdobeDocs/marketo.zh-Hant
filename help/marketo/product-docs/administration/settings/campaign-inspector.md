@@ -1,9 +1,9 @@
 ---
 description: Campaign檢查工具 — Marketo檔案 — 產品檔案
 title: 促銷活動檢查工具
-source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
+source-git-commit: beeba258be336d33cc30a6938e626d703cd409c6
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,10 @@ ht-degree: 0%
 1. 選取 **已啟用** 核取方塊和按一下 **儲存**.
 
    ![](assets/campaign-inspector-4.png)
+
+   >[!NOTE]
+   >
+   >需要在樹狀結構中選取所需的工作區，才能在啟用「促銷活動偵測器」索引標籤後查看它。
 
 ## 使用促銷活動檢查工具 {#using-campaign-inspector}
 
