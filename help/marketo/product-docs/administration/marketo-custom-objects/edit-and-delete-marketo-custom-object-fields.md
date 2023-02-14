@@ -3,7 +3,7 @@ unique-page-id: 10095453
 description: 編輯和刪除Marketo自訂物件欄位 — Marketo檔案 — 產品檔案
 title: 編輯和刪除Marketo自訂物件欄位
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 1. 按一下自訂物件和您要編輯的欄位。
 
-   ![](assets/image2015-10-2-10-3a55-3a1.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
 1. 在欄位標籤上，按一下 **欄位動作** 和 **編輯欄位**.
 
-   ![](assets/image2015-10-2-10-3a53-3a26.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
 1. 進行變更，然後按一下 **儲存**.
 
-   ![](assets/image2015-10-2-10-3a58-3a56.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-3.png)
 
    >[!NOTE]
    >
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 1. 變更會顯示在「欄位」清單中。
 
-   ![](assets/image2015-10-2-11-3a1-3a13.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-4.png)
 
 ## 刪除欄位 {#delete-a-field}
 
@@ -42,15 +42,15 @@ ht-degree: 0%
 
 1. 在欄位標籤上，按一下 **欄位動作** 和 **刪除欄位**.
 
-   ![](assets/image2015-10-2-11-3a11-3a20.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
    提取觸發器之前，請確定您確實要刪除欄位！ 按一下 **刪除**.
 
-   ![](assets/image2015-10-2-11-3a14-3a5.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
    沒了！
 
-   ![](assets/image2015-10-2-11-3a15-3a48.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 
    >[!NOTE]
    >

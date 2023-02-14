@@ -3,7 +3,7 @@ unique-page-id: 10099680
 description: 匯入自訂物件資料 — Marketo檔案 — 產品檔案
 title: 匯入自訂物件資料
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -16,23 +16,23 @@ ht-degree: 0%
 
 1. 在我的Marketo中，前往 **資料庫**.
 
-   ![](assets/db-1.png)
+   ![](assets/import-custom-object-data-1.png)
 
 1. 按一下 **新增** 選取 **匯入自訂物件資料**.
 
-   ![](assets/image2016-4-7-10-6-54.png)
+   ![](assets/import-custom-object-data-2.png)
 
 1. 按一下 **瀏覽** 來尋找資料檔案。 選取檔案格式（此範例中為逗號分隔值）。
 
-   ![](assets/image2016-4-13-14-3a21-3a53.png)
+   ![](assets/import-custom-object-data-3.png)
 
 1. 選取自訂物件。
 
-   ![](assets/image2016-4-13-14-3a24-3a54.png)
+   ![](assets/import-custom-object-data-4.png)
 
 1. 從下拉清單中選擇重複資料消除模式。 按一下 **下一個**.
 
-   ![](assets/image2016-4-13-14-3a28-3a7.png)
+   ![](assets/import-custom-object-data-5.png)
 
    >[!NOTE]
    >
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 1. 將每欄對應至Marketo欄位，從下拉式清單中選取欄位。
 
-   ![](assets/image2016-4-13-14-3a36-3a57.png)
+   ![](assets/import-custom-object-data-6.png)
 
    >[!NOTE]
    >
@@ -48,11 +48,11 @@ ht-degree: 0%
 
 1. 按一下 **下一個**.
 
-   ![](assets/image2016-4-13-14-3a38-3a41.png)
+   ![](assets/import-custom-object-data-7.png)
 
 1. 按一下 **匯入**.
 
-   ![](assets/image2016-4-7-13-3a15-3a9.png)
+   ![](assets/import-custom-object-data-8.png)
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 1. 在畫面的右上角，您會在匯入執行時看到通知，並在匯入完成時看到最終結果。
 
-   ![](assets/image2016-4-13-14-3a41-3a1.png)
+   ![](assets/import-custom-object-data-9.png)
 
    耶！
 

@@ -3,9 +3,9 @@ unique-page-id: 10093192
 description: 建立Marketo自訂物件 — Marketo檔案 — 產品檔案
 title: 建立Marketo自訂物件
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,17 @@ ht-degree: 0%
 
 此範例顯示用於一對多結構的Car自訂物件。 之後，您將建立一個課程自定義對象和一個中間對象，以用於多對多結構。
 
-1. 按一下 **管理**，在 **資料庫管理** 選取 **Marketo自訂物件**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2016-1-18-13-3a12-3a19.png)
+   ![](assets/create-marketo-custom-objects-1.png)
+
+1. 按一下 **Marketo自訂物件**.
+
+   ![](assets/create-marketo-custom-objects-2.png)
 
 1. 按一下 **新自訂物件**.
 
-   ![](assets/image2016-5-18-16-3a28-3a4.png)
+   ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
@@ -40,19 +44,19 @@ ht-degree: 0%
 
 1. 輸入顯示名稱。 API名稱和複數名稱會自動填入。 輸入說明（可選）。
 
-   ![](assets/image2015-9-15-16-3a29-3a17.png)
+   ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
    >建立這些欄位時，您可以編輯這些欄位，但儲存後，您只能編輯「複數名稱」欄位和 **顯示在銷售線索詳細資訊中** 滑桿。
 
-1. 提取 **顯示在銷售線索詳細資訊中** 滑過以顯示 **顯示** 如果要在「銷售機會資料庫」頁上查看自定義對象資料。 按一下 **儲存**.
+1. 提取 **顯示在銷售線索詳細資訊中** 滑過以顯示 **顯示** 如果要在「資料庫」頁上查看自定義對象資料。 按一下 **儲存**.
 
-   ![](assets/image2015-9-15-16-3a32-3a2.png)
+   ![](assets/create-marketo-custom-objects-5.png)
 
 1. 自訂物件資訊會顯示您輸入的內容。 注意它處於草稿狀態。
 
-   ![](assets/image2015-9-15-16-3a38-3a22.png)
+   ![](assets/create-marketo-custom-objects-6.png)
 
    下一步是將欄位新增至 [建置自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
@@ -68,29 +72,33 @@ ht-degree: 0%
 >
 >對於多對多關係，您不需要在自訂物件中建立連結。 相反地，您會新增兩個連結至中繼物件（請參閱下方）。
 
-1. 按一下 **管理**，在 **資料庫管理** 選取 **Marketo自訂物件**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2016-1-18-13-3a16-3a25.png)
+   ![](assets/create-marketo-custom-objects-7.png)
+
+1. 按一下 **Marketo自訂物件**.
+
+   ![](assets/create-marketo-custom-objects-8.png)
 
 1. 按一下 **新自訂物件**.
 
-   ![](assets/image2016-5-18-16-3a32-3a42.png)
+   ![](assets/create-marketo-custom-objects-9.png)
 
 1. 輸入顯示名稱。 API名稱和複數名稱會自動填入。 輸入說明（可選）。
 
-   ![](assets/image2016-1-14-13-3a38-3a46.png)
+   ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
    >建立這些欄位時，您可以編輯這些欄位，但儲存後，您只能編輯「複數名稱」欄位和 **顯示在銷售線索詳細資訊中** 滑桿。
 
-1. 提取 **顯示在銷售線索詳細資訊中** 滑過以顯示 **顯示** 如果要在「銷售機會資料庫」頁上查看自定義對象資料。 按一下 **儲存**.
+1. 提取 **顯示在銷售線索詳細資訊中** 滑過以顯示 **顯示** 如果要在「資料庫」頁上查看自定義對象資料。 按一下 **儲存**.
 
-   ![](assets/image2016-1-14-13-3a42-3a56.png)
+   ![](assets/create-marketo-custom-objects-11.png)
 
 1. 自訂物件資訊會顯示您輸入的內容。 注意它處於草稿狀態。
 
-   ![](assets/image2016-1-18-8-3a38-3a58.png)
+   ![](assets/create-marketo-custom-objects-12.png)
 
    >[!NOTE]
    >
@@ -106,25 +114,29 @@ ht-degree: 0%
 >
 >您不需要為一對多自訂物件結構建立中介物件。
 
-1. 按一下 **管理**，在 **資料庫管理**，選取 **Marketo自訂物件**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2016-1-18-13-3a17-3a40.png)
+   ![](assets/create-marketo-custom-objects-13.png)
+
+1. 按一下 **Marketo自訂物件**.
+
+   ![](assets/create-marketo-custom-objects-14.png)
 
 1. 按一下 **新自訂物件**.
 
-   ![](assets/image2016-5-18-16-3a33-3a16.png)
+   ![](assets/create-marketo-custom-objects-15.png)
 
 1. 輸入顯示名稱。 API名稱和複數名稱會自動填入。 輸入說明（可選）。
 
-   ![](assets/image2016-1-14-14-3a10-3a44.png)
+   ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
    >在建立這些欄位時，您可以編輯這些欄位，但在儲存後，您只能編輯「複數名稱」欄位和「顯示在銷售機會詳細資訊」滑桿。
 
-1. 提取 **顯示在銷售線索詳細資訊中** 滑過以顯示 **顯示** 如果要在「銷售機會資料庫」頁上查看自定義對象資料。 按一下 **儲存**.
+1. 提取 **顯示在銷售線索詳細資訊中** 滑過以顯示 **顯示** 如果要在「資料庫」頁上查看自定義對象資料。 按一下 **儲存**.
 
-   ![](assets/image2016-1-14-14-3a12-3a49.png)
+   ![](assets/create-marketo-custom-objects-17.png)
 
 1. 自訂物件資訊會顯示您輸入的內容。 注意它處於草稿狀態。
 

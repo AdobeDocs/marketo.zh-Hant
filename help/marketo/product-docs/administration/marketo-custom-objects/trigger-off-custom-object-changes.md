@@ -3,7 +3,7 @@ unique-page-id: 11378713
 description: 觸發自訂物件變更 — Marketo檔案 — 產品檔案
 title: 觸發自訂物件變更
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -30,27 +30,27 @@ ht-degree: 0%
 
 1. 在Marketo中，前往 **行銷活動。**
 
-   ![](assets/image2016-7-25-15-3a49-3a52.png)
+   ![](assets/trigger-off-custom-object-changes-1.png)
 
 1. 建立或開啟現有的智慧型促銷活動，然後選取「智慧清單」。
 
-   ![](assets/image2016-7-25-16-3a9-3a19.png)
+   ![](assets/trigger-off-custom-object-changes-2.png)
 
 1. 搜尋您需要的觸發器，並將其拖曳至畫布上。
 
-   ![](assets/image2016-7-25-16-3a16-3a43.png)
+   ![](assets/trigger-off-custom-object-changes-3.png)
 
 1. 選取觸發器屬性。
 
-   ![](assets/image2016-7-25-16-3a21-3a42.png)
+   ![](assets/trigger-off-custom-object-changes-4.png)
 
 1. （可選）設定約束。
 
-   ![](assets/image2016-9-6-14-3a25-3a22.png)
+   ![](assets/trigger-off-custom-object-changes-5.png)
 
 1. 你在這。 變更會自動儲存。
 
-   ![](assets/image2016-9-6-14-3a25-3a54.png)
+   ![](assets/trigger-off-custom-object-changes-6.png)
 
    >[!NOTE]
    >
