@@ -3,9 +3,9 @@ unique-page-id: 2360217
 description: 變更Analytics的歸因設定 — Marketo檔案 — 產品檔案
 title: 變更Analytics的歸因設定
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,17 @@ ht-degree: 0%
 
 這些設定會影響 [計畫機會分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [機會分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)、和銷售機會分析區域。 這也會影響Program Analyzer報表。
 
-1. 在 **管理** ，按一下 **收入週期分析**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-24-11-3a55-3a19.png)
+   ![](assets/change-attribution-settings-for-analytics-1.png)
+
+1. 按一下 **收入週期分析**.
+
+   ![](assets/change-attribution-settings-for-analytics-2.png)
 
 1. 按一下 **編輯** 連結 **歸因**.
 
-   ![](assets/image2014-9-24-11-3a56-3a33.png)
+   ![](assets/change-attribution-settings-for-analytics-3.png)
 
    >[!TIP]
    >
@@ -30,7 +34,7 @@ ht-degree: 0%
 
 1. 選取選項，然後按一下 **儲存**.
 
-   ![](assets/image2014-9-24-11-3a57-3a39.png)
+   ![](assets/change-attribution-settings-for-analytics-4.png)
 
    >[!NOTE]
    >

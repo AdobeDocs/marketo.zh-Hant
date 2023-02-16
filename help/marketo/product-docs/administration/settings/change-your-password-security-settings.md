@@ -3,9 +3,9 @@ unique-page-id: 2360185
 description: 變更密碼安全設定 — Marketo檔案 — 產品檔案
 title: 更改密碼安全設定
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,25 @@ ht-degree: 0%
 >
 >**需要管理權限**
 
-1. 在 **管理**，按一下 **登入設定**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-16-12-3a41-3a40.png)
+   ![](assets/change-your-password-security-settings-1.png)
+
+1. 按一下 **登入設定**.
+
+   ![](assets/change-your-password-security-settings-2.png)
 
 1. 在 **安全設定**，按一下 **編輯**.
 
-   ![](assets/passwordsettings-hand.png)
+   ![](assets/change-your-password-security-settings-3.png)
 
 1. 選取 **範本**. 如需進階選項，請按一下 **進階** 下拉式清單。
+
+   ![](assets/change-your-password-security-settings-4.png)
 
    >[!NOTE]
    >
    >範本只是預先建立的設定。 標準是好的。 高安全性是最強的。 「自訂」可讓您自行建立。
-
-   ![](assets/passwordstrength.png)
 
    >[!TIP]
    >
@@ -40,14 +44,12 @@ ht-degree: 0%
 
 1. 設定 **過期**. 此功能會自動要求使用者在一段時間後重設密碼。 這也包括管理員使用者。
 
+   ![](assets/change-your-password-security-settings-5.png)
+
    >[!CAUTION]
    >
    >系統不會通知現有使用者變更。 設定 **過期** 請先變更為30天，以確保每個人都已更新至新設定，然後將此變更回原始順序。
 
-   ![](assets/expiration.png)
-
 1. 設定 **非作用中工作階段逾時**. 這會決定使用者在非作用中的時間長度，之後才必須重新登入Marketo。
 
-   ![](assets/inactivesession.png)
-
-   安全是嚴肅的事。 我們支援你。
+   ![](assets/change-your-password-security-settings-6.png)

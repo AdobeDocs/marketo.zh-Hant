@@ -3,7 +3,7 @@ unique-page-id: 6095047
 description: 編輯「不追蹤」瀏覽器支援設定 — Marketo檔案 — 產品檔案
 title: 編輯「不追蹤」瀏覽器支援設定
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -24,23 +24,23 @@ ht-degree: 0%
 
 1. 按一下 **管理**.
 
-   ![](assets/one.png)
+   ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
 1. 按一下 **蒙奇金**.
 
-   ![](assets/two.png)
+   ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
 1. 在 **人員追蹤**，按一下 **編輯**.
 
-   ![](assets/three-2.png)
+   ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
 1. 選擇 **支援** 按一下 **儲存**.
 
-   ![](assets/four-1.png)
+   ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
    儲存變更後，您會看到更新。
 
-   ![](assets/five-1.png)
+   ![](assets/edit-do-not-track-browser-support-settings-5.png)
 
    >[!NOTE]
    >

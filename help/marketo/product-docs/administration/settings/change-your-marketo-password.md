@@ -3,9 +3,9 @@ unique-page-id: 2359916
 description: 變更Marketo密碼 — Marketo檔案 — 產品檔案
 title: 變更Marketo密碼
 exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -14,20 +14,22 @@ ht-degree: 0%
 
 透過這些簡單步驟變更Marketo密碼。
 
-1. 任何Marketo使用者都可以按一下其名稱， **我的帳戶**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2015-11-10-10-3a40-3a8.png)
+   ![](assets/change-your-marketo-password-1.png)
 
-1. 管理員也可以按一下 **管理** 然後 **更改密碼** 更改其管理員密碼。
+1. 按一下 **我的帳戶**.
 
-   ![](assets/image2014-9-10-9-3a43-3a47.png)
+   ![](assets/change-your-marketo-password-2.png)
 
-1. 輸入「Old Password（舊密碼）」和「New Password（新密碼）」 ，然後按一下 **儲存** 當新密碼滿足所有要求時。
+1. 按一下 **更改密碼**.
 
-   ![](assets/image2014-9-10-9-3a44-3a2.png)
+   ![](assets/change-your-marketo-password-3.png)
 
-   保密！ 保持安全！
+1. 輸入「Old Password（舊密碼）」和「New Password（新密碼）」 ，然後按一下 **儲存**.
 
-   >[!TIP]
+   ![](assets/change-your-marketo-password-4.png)
+
+   >[!NOTE]
    >
-   >什麼是好密碼？ 有很多字母、數字和符號的東西，比如「M@rk3to!$ Gre@t」。 除了那個。 有創意，自己做。
+   >進行更新時，請注意密碼要求。
