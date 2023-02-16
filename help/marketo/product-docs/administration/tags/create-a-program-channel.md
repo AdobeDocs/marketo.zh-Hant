@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: 建立方案管道 — Marketo檔案 — 產品檔案
 title: 建立方案管道
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,13 @@ ht-degree: 0%
 >
 >深入了解 [方案](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)，是Marketo中最重要的元素。
 
-1. 在 **管理** ，按一下 **標籤**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-24-12-3a57-3a27.png)
+   ![](assets/create-a-program-channel-1.png)
+
+1. 按一下 **標籤**.
+
+   ![](assets/create-a-program-channel-2.png)
 
    >[!NOTE]
    >
@@ -32,11 +36,11 @@ ht-degree: 0%
 
 1. 按一下 **+** 登入 **管道** 以展開並查看現有管道。
 
-   ![](assets/image2014-9-24-12-3a58-3a33.png)
+   ![](assets/create-a-program-channel-3.png)
 
 1. 在 **新增**，按一下 **新頻道**.
 
-   ![](assets/image2014-9-24-12-3a58-3a53.png)
+   ![](assets/create-a-program-channel-4.png)
 
    >[!NOTE]
    >
@@ -60,7 +64,7 @@ ht-degree: 0%
 
 1. 讓我們以「派對」頻道範例為例。 為新 **管道** 並選擇要應用的程式類型。
 
-   ![](assets/image2014-9-24-13-3a0-3a17.png)
+   ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
@@ -70,12 +74,13 @@ ht-degree: 0%
    >
    >使用「活動與網路研討會」時，將會鎖定系統對應（如網路研討會整合所要求）且無法編輯。
 
-   輸入前兩個程式的狀態名稱，然後按一下「添加步驟」。
-   ![](assets/image2014-9-24-15-3a37-3a0.png)
+1. 輸入前兩個程式的狀態名稱，然後按一下 **新增步驟**.
+
+   ![](assets/create-a-program-channel-6.png)
 
 1. 輸入另一個程式 **狀態** 和 **步驟** 數字，然後按一下 **新增步驟**.
 
-   ![](assets/image2014-9-24-15-3a37-3a30.png)
+   ![](assets/create-a-program-channel-7.png)
 
    >[!TIP]
    >
@@ -83,7 +88,7 @@ ht-degree: 0%
 
 1. 輸入最後一個程式 **狀態** 和 **步驟** 數字。
 
-   ![](assets/image2014-9-24-15-3a39-3a15.png)
+   ![](assets/create-a-program-channel-8.png)
 
    >[!NOTE]
    >
@@ -91,11 +96,11 @@ ht-degree: 0%
 
 1. 選擇 **行動簽入狀態** for **已註冊**.
 
-   ![](assets/image2014-9-24-15-3a39-3a43.png)
+   ![](assets/create-a-program-channel-9.png)
 
 1. 選擇 **行動簽入狀態** for **已出席**.
 
-   ![](assets/image2014-9-24-15-3a40-3a21.png)
+   ![](assets/create-a-program-channel-10.png)
 
    >[!NOTE]
    >
@@ -111,6 +116,6 @@ ht-degree: 0%
 
 1. 選取 **成功** 程式狀態，然後按一下 **建立**.
 
-   ![](assets/image2014-9-24-15-3a42-3a54.png)
+   ![](assets/create-a-program-channel-11.png)
 
    幹得好！ 當您製作此類型的新程式時，此新管道將是其中一個選擇。
