@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo字彙表 — Marketo檔案 — 產品檔案
 title: Marketo字彙表
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
+source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 0%
@@ -159,7 +159,7 @@ ht-degree: 0%
    <td>已開啟且已點按電子郵件中連結的電子郵件百分比。 此度量電子郵件的相關性和內容，方法是取不重複點按次數除以不重複開啟次數，然後乘以100將其顯示為百分比。</td> 
   </tr> 
   <tr> 
-   <td><strong>點按次數</strong></td> 
+   <td><strong>點按</strong></td> 
    <td>依預設，電子郵件中的連結內嵌了追蹤功能，可讓您查看誰點按了哪個連結、總共點按了多少個連結，等等。</td> 
   </tr> 
   <tr> 
@@ -171,7 +171,7 @@ ht-degree: 0%
    <td colspan="1">在Marketo中，您可以複製執行個體中數種不同類型的實體。 您可以複製 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">方案</a>, <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">方案內的資產</a>, <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">流</a>、等。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">URL的前部。 該單字（加上YourCompany.com）稱為CNAME(例如 <em>資訊</em>.YourCompany.com/)。</td> 
   </tr> 
   <tr> 
