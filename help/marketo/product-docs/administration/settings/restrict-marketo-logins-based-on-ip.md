@@ -3,9 +3,9 @@ unique-page-id: 2360297
 description: 根據IP限制Marketo登入 — Marketo檔案 — 產品檔案
 title: 根據IP限制Marketo登入
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,17 @@ ht-degree: 0%
 >
 >本文中的資訊僅適用於login.marketo.com的直接登入。 目前無法對單一登入(SSO)登入強制實施IP限制。
 
-1. 在 **管理**，按一下 **登入設定**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-16-12-3a57-3a56.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-1.png)
+
+1. 按一下 **登入設定**.
+
+   ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
 1. 按一下 **編輯IP限制**.
 
-   ![](assets/image2014-9-16-12-3a58-3a13.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
 1. 選擇是否 **允許** 或 **區塊** 特定地址，輸入地址，然後按一下 **儲存**.
 
@@ -45,6 +49,6 @@ ht-degree: 0%
    >
    >您可以新增多個限制，但只能是「全部允許」或「全部封鎖」。 您不能混合匹配允許和阻止的。
 
-   ![](assets/image2014-9-16-13-3a9-3a40.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-4.png)
 
    做得好，您的行銷資料比以往更安全了！

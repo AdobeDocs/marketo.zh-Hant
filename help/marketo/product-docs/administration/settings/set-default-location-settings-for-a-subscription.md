@@ -3,9 +3,9 @@ unique-page-id: 2359902
 description: 設定訂閱的預設位置設定 — Marketo檔案 — 產品檔案
 title: 設定訂閱的預設位置設定
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -22,23 +22,27 @@ ht-degree: 0%
 
 管理員變更預設位置設定時，新建立的使用者會繼承這些設定。 使用者可以一律 [更改其語言、地區和時區首選項](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) 個人賬戶中。
 
-1. 在 **管理**，按一下 **位置**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-11-7-11-3a39-3a17.png)
+   ![](assets/set-default-location-settings-for-a-subscription-1.png)
+
+1. 按一下 **位置**.
+
+   ![](assets/set-default-location-settings-for-a-subscription-2.png)
 
 1. 按一下 **編輯**.
 
-   ![](assets/image2014-11-7-11-3a40-3a39.png)
+   ![](assets/set-default-location-settings-for-a-subscription-3.png)
 
    此訂閱是以英文建立的。 假設您在倫敦，想要變更預設地區和時區。 地區設定決定數字、日期和時間的格式。
 
 1. 選取 **地區** 並將 **英文** （英國）。
 
-   ![](assets/image2014-11-7-11-3a51-3a26.png)
+   ![](assets/set-default-location-settings-for-a-subscription-4.png)
 
 1. 最後，選擇適當的 **時區**.
 
-   ![](assets/image2014-11-7-14-3a42-3a34.png)
+   ![](assets/set-default-location-settings-for-a-subscription-5.png)
 
    >[!NOTE]
    >
@@ -50,11 +54,11 @@ ht-degree: 0%
 
 1. 按一下 **編輯** （在訂閱貨幣設定中）。
 
-   ![](assets/image2014-11-7-15-3a50-3a33.png)
+   ![](assets/set-default-location-settings-for-a-subscription-6.png)
 
 1. 選取您選擇的貨幣格式，然後按一下 **儲存**.
 
-   ![](assets/image2014-11-7-15-3a58-3a21.png)
+   ![](assets/set-default-location-settings-for-a-subscription-7.png)
 
    恭喜您！您已變更訂閱的位置設定。
 

@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: 了解隱私權設定 — Marketo檔案 — 產品檔案
 title: 了解隱私權設定
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 了解隱私權設定 {#understanding-privacy-settings}
 
-## 總覽 {#overview}
+## 概觀 {#overview}
 
 Marketo可讓行銷人員取得網站訪客追蹤同意的方式。 有兩種方式可選擇退出，或者您可以選擇由匿名IP追蹤。
 
@@ -43,17 +43,17 @@ Marketo可讓行銷人員取得網站訪客追蹤同意的方式。 有兩種方
 
 這是一個網頁，其中在選擇退出連結中帶有「？marketo_opt_out=true」參數的按鈕。
 
-![](assets/opt-out-1.png)
+![](assets/understanding-privacy-settings-1.png)
 
 您可以建立並發佈登錄頁面，作為點按您具有&quot;?marketo_opt_out=true&quot;參數的連結時的後續頁面。
 
-![](assets/opt-out-2.png)
+![](assets/understanding-privacy-settings-2.png)
 
 按一下連結時，Marketo會新增以下的Cookie: **mkto_opt_out** 瀏覽器，此瀏覽器會針對使用上述參數點按連結的網站訪客，停用Munchkin追蹤。
 
 若要驗證Cookie是否可以種植，請確認您是Cookie銷售線索，然後按一下連結。 然後檢查您的瀏覽器Cookie，確認 **mkto_opt_out** 已新增cookie。
 
-![](assets/opt-out-3.png)
+![](assets/understanding-privacy-settings-3.png)
 
 >[!NOTE]
 >

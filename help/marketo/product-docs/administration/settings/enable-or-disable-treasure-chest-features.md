@@ -3,9 +3,9 @@ unique-page-id: 2360307
 description: 啟用或停用Treasure Chest功能 — Marketo檔案 — 產品檔案
 title: 啟用或禁用財寶箱功能
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,21 @@ ht-degree: 0%
 >
 >**需要管理權限**
 
-1. 在 **管理** 按一下 **寶箱**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-16-17-3a0-3a36.png)
+   ![](assets/enable-or-disable-treasure-chest-features-1.png)
+
+1. 按一下 **寶箱**.
+
+   ![](assets/enable-or-disable-treasure-chest-features-2.png)
 
 1. 按一下 **編輯** 針對要啟用或停用的功能。
 
-   ![](assets/image2014-9-16-16-3a53-3a42.png)
+   ![](assets/enable-or-disable-treasure-chest-features-3.png)
 
 1. 檢查 **已啟用** 框以啟用，或取消選中以禁用，然後按一下 **儲存**.
 
-   ![](assets/image2014-9-16-16-3a53-3a53.png)
+   ![](assets/enable-or-disable-treasure-chest-features-4.png)
 
    >[!TIP]
    >
