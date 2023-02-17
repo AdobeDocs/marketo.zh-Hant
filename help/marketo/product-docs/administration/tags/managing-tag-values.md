@@ -3,9 +3,9 @@ unique-page-id: 2360274
 description: 管理標籤值 — Marketo檔案 — 產品檔案
 title: 管理標籤值
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -24,29 +24,33 @@ ht-degree: 0%
 
 ## 新增標籤值 {#adding-tag-values}
 
-1. 在 **管理**，按一下 **標籤**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-24-12-3a24-3a55.png)
+   ![](assets/managing-tag-values-1.png)
+
+1. 按一下 **標籤**.
+
+   ![](assets/managing-tag-values-2.png)
 
 1. 按一下 **新增**，然後 **新標籤值**.
 
-   ![](assets/image2014-9-24-12-3a25-3a23.png)
+   ![](assets/managing-tag-values-3.png)
 
 1. 選取 **標籤類型**.
 
-   ![](assets/image2014-9-24-12-3a26-3a2.png)
+   ![](assets/managing-tag-values-4.png)
 
 1. 輸入 **值** 按一下 **新增其他**. 您可以新增任意數量的值。
 
-   ![](assets/image2014-9-24-12-3a26-3a27.png)
+   ![](assets/managing-tag-values-5.png)
 
 1. 新增剩餘值，然後按一下 **建立**.
 
-   ![](assets/image2014-9-24-12-3a26-3a55.png)
+   ![](assets/managing-tag-values-6.png)
 
 1. 您應立即看到變更！
 
-   ![](assets/image2014-9-24-12-3a27-3a34.png)
+   ![](assets/managing-tag-values-7.png)
 
 ## 隱藏標籤值 {#hiding-tag-values}
 
@@ -54,11 +58,11 @@ ht-degree: 0%
 
 1. 選取 **標籤** ，然後選取 **值** 你想藏起來。
 
-   ![](assets/image2014-9-24-12-3a28-3a25.png)
+   ![](assets/managing-tag-values-8.png)
 
 1. 在 **標籤動作**，選取 **隱藏**.
 
-   ![](assets/image2014-9-24-12-3a29-3a4.png)
+   ![](assets/managing-tag-values-9.png)
 
 ## 顯示隱藏值 {#show-hidden-values}
 
@@ -66,6 +70,6 @@ ht-degree: 0%
 
 1. 選擇「顯示隱藏」框。 勾選後，您就會看到隱藏值。
 
-   ![](assets/image2014-9-24-12-3a29-3a58.png)
+   ![](assets/managing-tag-values-10.png)
 
 接著，您就可以取消隱藏您未來要使用的值。

@@ -3,9 +3,9 @@ unique-page-id: 2360276
 description: 隱藏/取消隱藏程式管道 — Marketo檔案 — 產品檔案
 title: 隱藏/取消隱藏程式通道
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,21 @@ ht-degree: 0%
 
 ## 隱藏節目頻道 {#hide-a-program-channel}
 
-1. 在 **管理**，按一下 **標籤**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-24-15-3a45-3a7.png)
+   ![](assets/hide-unhide-a-program-channel-1.png)
+
+1. 按一下 **標籤**.
+
+   ![](assets/hide-unhide-a-program-channel-2.png)
 
 1. 按一下 **管道** 下拉式清單中選取 **管道** 藏起來。
 
-   ![](assets/image2014-9-24-15-3a45-3a41.png)
+   ![](assets/hide-unhide-a-program-channel-3.png)
 
 1. 在 **標籤動作**，按一下 **隱藏**.
 
-   ![](assets/image2014-9-24-15-3a46-3a22.png)
+   ![](assets/hide-unhide-a-program-channel-4.png)
 
 快點，快點！
 
@@ -38,4 +42,4 @@ ht-degree: 0%
 
 1. 勾選「顯示隱藏」核取方塊，取消隱藏程式通道。
 
-   ![](assets/image2014-9-24-15-3a47-3a24.png)
+   ![](assets/hide-unhide-a-program-channel-5.png)
