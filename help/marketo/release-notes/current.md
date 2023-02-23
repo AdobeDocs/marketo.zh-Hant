@@ -2,16 +2,16 @@
 description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: 130102aefb0b6c12dc0ea87fdf6fef682e90b44c
 workflow-type: tm+mt
-source-wordcount: '630'
-ht-degree: 5%
+source-wordcount: '623'
+ht-degree: 9%
 
 ---
 
-# 發行說明：2023年1月 {#release-notes-jan-23}
+# 發行說明：2023年3月 {#release-notes-mar-23}
 
-以下是』23年1月版本包含的所有功能。 查看您的Adobe Marketo Engage版本以了解功能可用性。
+以下是』23年3月版本包含的所有功能。 查看您的Adobe Marketo Engage版本以了解功能可用性。
 
 >[!AVAILABILITY]
 >
@@ -19,16 +19,13 @@ ht-degree: 5%
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於 **2023年1月20日**，並在後續幾週分階段推出其餘功能。 發行功能和日期可能會有所變更。 請檢查下方的每個功能的狀態。
+下列功能屬於標準發行週期，並將於 **2023年3月24日**，並在後續幾週分階段推出其餘功能。 發行功能和日期可能會有所變更。 請檢查下方的每個功能的狀態。
 
 ### Marketo Engage現代UX {#modern-ux}
 
 </br>
 
-* **現代UX中的更新畫面**:在現代UX（舊稱新一代體驗）中，我們提供更新後的螢幕，提供可透過切換開關存取的更新設計和可用性增強功能：
-
-   * 程式碼片段清單檢視
-   * 登錄頁面範本清單
+* **增強元件用於登錄頁面範本詳細資料和表單詳細資料的功能**:「由UI使用的新增」標籤提供「登錄頁面範本詳細資訊」和「表單詳細資訊」的其他資訊，包括已使用所選資產之資產的詳細資訊。 透過搜尋、排序和篩選功能，對資產的長清單執行分析。
 
    <table> 
   <tr> 
@@ -36,13 +33,13 @@ ht-degree: 5%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已發運</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切換開關</a></td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
   </tr>
   </tbody>
 </table>
 
-* **增強元件用於電子郵件範本詳細資料和程式碼片段詳細資料的功能**:「新增供UI使用」索引標籤提供每個「供使用」資產的其他資訊，例如上次修改時間及修改者。 您可以透過搜尋、排序和篩選功能輕鬆執行分析。 將從「電子郵件範本」和「程式碼片段」資產開始，整合這個新的UI元件。
+* **從登陸頁面移除切換開關和傳統體驗**:淘汰切換開關和登錄頁面的傳統體驗將可協助您完全採用新體驗。 新體驗可讓您完全運用這些資產所提供的功能，而不需依賴舊體驗，或不斷在兩個體驗之間切換。
 
 <table> 
   <tr> 
@@ -56,29 +53,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-### 行銷影響分析 {#marketing-impact-analytics}
-
-</br>
-
-* **重新設計的報表資產模型**:現代UX中報表設定模組的新設計，提供更新的外觀和風格，並改善協助工具。
-
-<table> 
-  <tr> 
-   <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
-  </tr>
-  <tr> 
-   <td>已發運</td>
-   <td>不適用</td>
-  </tr>
-  </tbody>
-</table>
-
-### Marketo Measure {#marketo-measure}
-
-</br>
-
-* **Marketo Measure Ultimate**:為具有多個CRM和/或Marketo Engage例項及多種來源資料需求的企業啟用完整的B2B歸因。 此外，也提供B2B歸因解決方案，供Adobe透過共用AEP資料執行RT-CDP。
+* **樹節點效能改進**:那些樹節點數量很多的節點將顯著提高效能。
 
 <table> 
   <tr> 
@@ -96,7 +71,7 @@ ht-degree: 5%
 
 </br>
 
-* **新增大量匯出API資訊以增強「網站服務」標籤**:您現在可以檢視訂閱的每日容量分配，並檢視過去7天中已使用的每日容量分配量。
+* **升級Marketo Facebook整合以使用Facebook Graph API更新**:隨著Facebook最近升級至Facebook Graph API v15，現在已限制為特定廣告帳戶建立500個自訂對象。
 
 <table> 
   <tr> 
@@ -104,8 +79,8 @@ ht-degree: 5%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已發運</td>
-   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">大量匯出API資訊</a></td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
   </tr>
   </tbody>
 </table>
@@ -118,7 +93,7 @@ ht-degree: 5%
 
 </br>
 
-* **在動態聊天的資訊擷取卡中定義選取清單**:為協助確保資料清潔度，您可以為資訊擷取卡定義選擇清單，讓訪客只能從預先定義的選項清單中選取。
+* **動態聊天的對話方塊參與報表**:提供一段時間內對話方塊參與的檢視，包括可依訪客類型和參與類型進行篩選，以提供使用者更清楚的可見度。
 
 <table> 
   <tr> 
@@ -126,13 +101,13 @@ ht-degree: 5%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已發運</td>
-   <td>不適用</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
   </tr>
   </tbody>
 </table>
 
-* **動態聊天會議確認中的個人化**:座席可以使用Marketo Engage人和公司欄位個人化會議預訂電子郵件確認，以便更好地與訪客互動(例如：在自動會議預訂通知電子郵件中以名字迎接訪客)。
+* **動態聊天的角色和權限**:將角色和權限引入動態聊天，讓管理員可將應用程式不同區域的可見性和使用限制在選定的使用者類型。
 
 <table> 
   <tr> 
@@ -140,13 +115,13 @@ ht-degree: 5%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已發運</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">日曆</a></td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
   </tr>
   </tbody>
 </table>
 
-* **在流設計器中搜索**:在串流設計工具中輕鬆搜尋內容，以快速找出串流中所有卡片/節點的內容(例如：搜尋&quot;SEO&quot;，並反白顯示包含該字串的所有節點)。
+* **Chat作為動態聊天的程式通道**:建立新的「聊天」節目頻道，以追蹤動態聊天所取得人員的節目進度。 例如，行銷人員有一個與動態聊天對話方塊相關聯的程式來擷取新銷售機會。 他們現在可以將該程式指派給「聊天」管道，以便追蹤銷售機會何時成為程式的成員，以及何時成功。
 
 <table> 
   <tr> 
@@ -154,13 +129,13 @@ ht-degree: 5%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已發運</td>
-   <td>不適用</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
   </tr>
   </tbody>
 </table>
 
-* **動態聊天的聊天機器人日期/時間選擇器**:Web訪客可以使用日曆選擇器來選擇日期和時間，而不是手動輸入日期。
+* **動態聊天的推斷屬性**:確保推斷的IP資料（城市、州、國家等） 會寫入動態聊天獲取的新人的人員記錄。
 
 <table> 
   <tr> 
@@ -168,13 +143,13 @@ ht-degree: 5%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已發運</td>
-   <td>不適用</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
   </tr>
   </tbody>
 </table>
 
-* **動態聊天的排程會議電子郵件通知**:在座席日曆上預訂會議時，座席會收到有關預訂的電子郵件通知，包括訪客動態聊天參與的詳細資訊。
+* **動態聊天的其他語言支援**:您現在可以從9種支援的語言中選擇，以在中顯示靜態的動態聊天內容。
 
 <table> 
   <tr> 
@@ -182,14 +157,26 @@ ht-degree: 5%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已發運</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">會議</a></td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **動態聊天流設計器預覽中的跳到節點**:從預覽面板直接跳至串流設計器中的節點。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
   </tr>
   </tbody>
 </table>
 
 ## 公告 {#announcements}
 
-* **Marketo REST API變更**:2022年10月版本中，我們對Marketo REST API回應訊息進行了微幅變更。 請看這個 [Marketo國家郵報](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} 以取得更多詳細資訊。
-
-* **_產品發行網路研討會_**: [2022年10月和2023年1月Marketo Engage發行網路研討會](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_產品發行網路研討會_**:在2023年5月17日上午9:00 PT /中午12:00 ET加入我們 [線上講座](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} 由我們的產品團隊代管，您可以在這裡學習如何使用』23年3月和5月版本中提供的所有最新產品創新。
