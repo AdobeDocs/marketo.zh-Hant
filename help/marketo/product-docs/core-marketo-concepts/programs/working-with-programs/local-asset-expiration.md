@@ -2,7 +2,7 @@
 description: 本機資產過期 — Marketo檔案 — 產品檔案
 title: 本機資產過期
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
-source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
+source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/local-asset-expiration-6.png)
 
-1. 設定時間。 您必須安排至少20分鐘的時間（別忘了輸入上午/下午）。 按一下 **[!UICONTROL 確認]** 時才能使用。
+1. 設定時間。 您必須安排至少15分鐘的時間（別忘了輸入上午/下午）。 按一下 **[!UICONTROL 確認]** 時才能使用。
 
    ![](assets/local-asset-expiration-7.png)
 

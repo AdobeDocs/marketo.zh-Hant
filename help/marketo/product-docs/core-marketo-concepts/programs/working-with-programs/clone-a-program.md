@@ -3,9 +3,9 @@ unique-page-id: 1147110
 description: 原地複製計畫 — Marketo檔案 — 產品檔案
 title: 復製程式
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # 復製程式 {#clone-a-program}
 
 快速輕鬆地複製整個程式及其所有資產，而不是手動重建所有內容。
-
->[!PREREQUISITES]
->
->在潛水前，先了解 [避免複製資產中損毀的最佳作法](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729).
 
 1. 查找並選擇要克隆的程式，然後在 **計畫操作** 按一下 **原地複製**.
 
