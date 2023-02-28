@@ -3,9 +3,9 @@ unique-page-id: 2359906
 description: 管理Marketo使用者 — Marketo檔案 — 產品檔案
 title: 管理Marketo使用者
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -14,25 +14,29 @@ ht-degree: 0%
 
 ## 建立使用者 {#create-users}
 
-1. 前往 **管理** 按一下 **使用者與角色**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-9-11-3a34-3a58.png)
+   ![](assets/managing-marketo-users-1.png)
+
+1. 按一下 **使用者與角色**.
+
+   ![](assets/managing-marketo-users-2.png)
 
 1. 按一下 **邀請新用戶**.
 
-   ![](assets/image2014-9-9-11-3a35-3a15.png)
+   ![](assets/managing-marketo-users-3.png)
 
 1. 輸入 **電子郵件地址**, **名字**，和 **姓氏**.
 
-   ![](assets/image2016-5-24-9-3a45-3a30.png)
+   ![](assets/managing-marketo-users-4.png)
 
 1. （可選）輸入邀請的原因，並在 **存取過期** 欄位。
 
-   ![](assets/image2016-6-29-15-3a52-3a18.png)
+   ![](assets/managing-marketo-users-5.png)
 
 1. 按一下 **下一個**.
 
-   ![](assets/image2016-5-24-9-3a58-3a10.png)
+   ![](assets/managing-marketo-users-6.png)
 
    >[!TIP]
    >
@@ -44,17 +48,17 @@ ht-degree: 0%
 
 1. 選取 **角色** 按一下 **下一個**.
 
-   ![](assets/image2016-5-24-10-3a1-3a33.png)
+   ![](assets/managing-marketo-users-7.png)
 
 1. 視需要編輯邀請訊息。 按一下 **傳送**.
 
-   ![](assets/image2016-5-24-10-3a3-3a56.png)
+   ![](assets/managing-marketo-users-8.png)
 
    >[!NOTE]
    >
    >電子郵件/登入必須是唯一的；如果您已在沙箱例項中使用過，則需要在生產環境中使用不同的例項，反之亦然。
 
-   ![](assets/image2016-5-24-10-3a21-3a57.png)
+   ![](assets/managing-marketo-users-9.png)
 
    >[!NOTE]
    >
@@ -64,35 +68,41 @@ ht-degree: 0%
 
 ## 刪除使用者 {#delete-users}
 
-1. 前往「管理」 ，然後按一下 **使用者與角色**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-9-11-3a36-3a21.png)
+   ![](assets/managing-marketo-users-10.png)
+
+1. 按一下 **使用者與角色**.
+
+   ![](assets/managing-marketo-users-11.png)
 
 1. 選擇要刪除的用戶，然後按一下 **刪除用戶**.
 
-   ![](assets/image2014-9-9-11-3a36-3a36.png)
+   ![](assets/managing-marketo-users-12.png)
 
 1. 按一下以確認 **確定**.
 
-   ![](assets/image2014-9-9-11-3a36-3a51.png)
+   ![](assets/managing-marketo-users-13.png)
 
 ## 重置用戶密碼 {#reset-user-passwords}
 
-1. 前往「管理」 ，然後按一下 **使用者與角色**.
+1. 前往「管理員」區域。
 
-   ![](assets/image2014-9-9-11-3a41-3a0.png)
+   ![](assets/managing-marketo-users-14.png)
+
+1. 按一下 **使用者與角色**.
+
+   ![](assets/managing-marketo-users-15.png)
 
 1. 選取使用者，然後按一下 **重設密碼**.
 
-   ![](assets/image2014-9-9-11-3a41-3a19.png)
+   ![](assets/managing-marketo-users-16.png)
 
 1. 按一下 **關閉** 關閉提示。
 
-   ![](assets/image2014-9-9-11-3a41-3a50.png)
+   ![](assets/managing-marketo-users-17.png)
 
 使用者會收到包含密碼重設指示的電子郵件。
-
-![](assets/image2014-9-9-11-3a45-3a53.png)
 
 >[!TIP]
 >
@@ -100,17 +110,21 @@ ht-degree: 0%
 
 ## 變更權限和編輯使用者資訊 {#change-permissions-and-edit-user-information}
 
-1. 前往 **管理** 按一下 **使用者與角色。**
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-9-11-3a37-3a5.png)
+   ![](assets/managing-marketo-users-18.png)
+
+1. 按一下 **使用者與角色**.
+
+   ![](assets/managing-marketo-users-19.png)
 
 1. 選取使用者，然後按一下 **編輯用戶**.
 
-   ![](assets/image2014-9-9-11-3a37-3a16.png)
+   ![](assets/managing-marketo-users-20.png)
 
 1. 您可以編輯用戶資訊並更改相關角色。 按一下 **儲存**.
 
-   ![](assets/image2014-9-9-11-3a37-3a31.png)
+   ![](assets/managing-marketo-users-21.png)
 
 >[!CAUTION]
 >

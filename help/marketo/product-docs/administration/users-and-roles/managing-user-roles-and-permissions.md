@@ -3,9 +3,9 @@ unique-page-id: 2359909
 description: 管理使用者角色和權限 — Marketo檔案 — 產品檔案
 title: 管理使用者角色和權限
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -38,17 +38,21 @@ Marketo提供數種內建角色，具有不同的存取層級：
 
 您可以在 [首次建立使用者](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) 或 [編輯現有用戶](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. 若要編輯現有使用者，請前往 **管理** 按一下 **使用者與角色**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-9-18-3a7-3a32.png)
+   ![](assets/managing-user-roles-and-permissions-1.png)
+
+1. 按一下 **使用者與角色**.
+
+   ![](assets/managing-user-roles-and-permissions-2.png)
 
 1. 從清單中，選擇要編輯的用戶，然後按一下 **編輯用戶**.
 
-   ![](assets/image2014-9-9-18-3a7-3a42.png)
+   ![](assets/managing-user-roles-and-permissions-3.png)
 
 1. 在 **角色**，根據使用者需要的權限，選取您要指派給使用者的角色，然後按一下 **儲存**.
 
-   ![](assets/image2014-9-9-18-3a7-3a57.png)
+   ![](assets/managing-user-roles-and-permissions-4.png)
 
    >[!NOTE]
    >
@@ -58,41 +62,49 @@ Marketo提供數種內建角色，具有不同的存取層級：
 
 有時，您的組織的員工具有非常特定的角色，需要自訂權限組合。
 
-1. 若要建立新的使用者角色，請前往「管理員」 ，然後按一下 **使用者與角色**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-9-18-3a8-3a12.png)
+   ![](assets/managing-user-roles-and-permissions-5.png)
+
+1. 按一下 **使用者與角色**.
+
+   ![](assets/managing-user-roles-and-permissions-6.png)
 
 1. 按一下 **角色** 標籤。
 
-   ![](assets/image2014-9-9-18-3a8-3a22.png)
+   ![](assets/managing-user-roles-and-permissions-7.png)
 
 1. 按一下 **新角色**.
 
-   ![](assets/image2014-9-9-18-3a8-3a38.png)
+   ![](assets/managing-user-roles-and-permissions-8.png)
 
 1. 輸入 **角色名稱**, **說明** （可選），並選取此角色中的使用者需要的權限。
 
-   ![](assets/image2014-9-9-18-3a9-3a3.png)
+   ![](assets/managing-user-roles-and-permissions-9.png)
 
 ## 編輯角色 {#edit-a-role}
 
 如果需要更改與現有角色關聯的權限，可以編輯該角色。
 
-1. 前往 **管理** 按一下 **使用者與角色**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-9-18-3a9-3a15.png)
+   ![](assets/managing-user-roles-and-permissions-10.png)
+
+1. 按一下 **使用者與角色**.
+
+   ![](assets/managing-user-roles-and-permissions-11.png)
 
 1. 按一下 **角色** 標籤。
 
-   ![](assets/image2014-9-9-18-3a9-3a26.png)
+   ![](assets/managing-user-roles-and-permissions-12.png)
 
 1. 從清單中，選擇要修改的角色，然後按一下 **編輯角色**.
 
-   ![](assets/image2014-9-9-18-3a9-3a40.png)
+   ![](assets/managing-user-roles-and-permissions-13.png)
 
 1. 變更 **角色名稱** 和 **說明** 如有必要，請更改相關的選項 **權限**.
 
-   ![](assets/image2014-9-9-18-3a10-3a3.png)
+   ![](assets/managing-user-roles-and-permissions-14.png)
 
    >[!NOTE]
    >
@@ -102,18 +114,22 @@ Marketo提供數種內建角色，具有不同的存取層級：
 
 如果角色變得不必要，您可以刪除它。
 
-1. 前往「管理」 ，然後按一下 **使用者與角色**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-9-18-3a10-3a15.png)
+   ![](assets/managing-user-roles-and-permissions-15.png)
+
+1. 按一下 **使用者與角色**.
+
+   ![](assets/managing-user-roles-and-permissions-16.png)
 
 1. 按一下 **角色** 標籤。
 
-   ![](assets/image2014-9-9-18-3a10-3a27.png)
+   ![](assets/managing-user-roles-and-permissions-17.png)
 
 1. 從清單中，選擇要刪除的角色，然後按一下 **刪除角色**.
 
-   ![](assets/image2014-9-9-18-3a10-3a39.png)
+   ![](assets/managing-user-roles-and-permissions-18.png)
 
 1. 按一下 **刪除** 確認。
 
-   ![](assets/image2014-9-9-18-3a10-3a50.png)
+   ![](assets/managing-user-roles-and-permissions-19.png)
