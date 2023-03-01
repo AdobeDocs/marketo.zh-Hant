@@ -3,9 +3,9 @@ unique-page-id: 7512524
 description: 智慧清單最佳作法 — Marketo檔案 — 產品檔案
 title: 智慧清單最佳作法
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f9394067e74868ace9896cfe087fa624e5eda62c
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,10 @@ ht-degree: 0%
 >
 >**每個客戶都不同。** 資料庫越大，處理的次數就越多。 儲存的活動越多，搜尋所需時間就越長。
 >
->如果您遇到速度慢的問題，請嘗試以下提示。 如果問題持續存在，請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support).
+>如果您遇到速度慢的問題，請嘗試以下提示。 如果問題持續存在，請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. **限制歷史記錄 —** 歷史記錄篩選器（即活動篩選器）是耗用大量資源且耗時的作業。 如果您必須使用這些欄位，請嘗試將日期範圍限制為盡可能短，這會減少可搜尋的資料集。
-1. **限制嵌套智慧清單 —** 建立新智慧清單時，請限制所使用的「智慧清單成員」篩選器的數量。 這稱為巢狀智慧清單，所參考的每個智慧清單都會增加處理時間。 請改為參考靜態清單或使用 [細分](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+1. **限制歷史記錄 —** 歷史記錄篩選器（即活動篩選器）是耗用大量資源且耗時的作業。 如果您必須使用這些欄位，請嘗試將日期範圍限制為盡可能短，這會減少可搜尋的資料集。 此外，日期範圍不會取代保留期。 例如：如果您要查詢的活動有90天的保留期，而您選擇「過去100天」，則只會傳回過去90天的結果。 活動保留期 [可在此處找到](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}.
+1. **限制嵌套智慧清單 —** 建立新智慧清單時，請限制所使用的「智慧清單成員」篩選器的數量。 這稱為巢狀智慧清單，所參考的每個智慧清單都會增加處理時間。 請改為參考靜態清單或使用 [細分](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md){target="_blank"}.
 1. **使用正運算子而非負運算子 —** 雖然「不」篩選器可供使用，但它們必須搜尋您例項中的整個資料集，而這可能非常耗時。 正「is」篩選器可運用更有效的搜尋演算法。
 1. **避免「包含」 —** 如果您只有部分資料，則「開頭為」限定符產生的結果會比「包含」快得多。 「Is」的執行速度會更快。 請避免搭配多值使用「包含」；兩人一起可能進一步拖慢競選的步伐。
 1. **單獨使用隨機抽樣 —** 「隨機範例」是特殊的篩選器。 單獨使用它，將您的人員列入預製清單。 然後使用「清單成員」，讓您的智慧清單變得超級快。 隨機範例將 **NOT** 使用嵌套的智慧清單。 如果「智慧清單成員」篩選器的參考智慧清單是「隨機範例」篩選器，則該篩選器將無法運作。
@@ -35,4 +35,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Marketo可以以多種方式使用，而某些技巧對您和您的業務來說更好。 考慮 [Marketo專業服務](https://pages2.marketo.com/72-hour-survival-guide.html) 讓你的投資大放異彩。
+>Marketo可以以多種方式使用，而某些技巧對您和您的業務來說更好。 考慮 [Marketo專業服務](https://pages2.marketo.com/72-hour-survival-guide.html){target="_blank"} 讓你的投資大放異彩。
