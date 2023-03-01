@@ -3,7 +3,7 @@ unique-page-id: 10095644
 description: 使用非草稿即可核准程式碼片段 — Marketo檔案 — 產品檔案
 title: 以非草稿方式核准程式碼片段
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[為片段啟用非草稿](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
+>[為片段啟用非草稿](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)

@@ -3,7 +3,7 @@ unique-page-id: 11370952
 description: 發行說明 — 16年春季版 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2016年春季
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '799'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 ![](assets/pasted-image-at-2016-05-24-09-45-am.png)
 
-## [無草稿片段](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md) {#no-draft-snippets}
+## [無草稿片段](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
 每次更新程式碼片段時，您必須重新核准所有內容的日子已過去！ 若使用非草稿，所有使用程式碼片段的電子郵件和登錄頁面都將取得程式碼片段更新並維持其先前的狀態。 每次核准程式碼片段時，您都可以選擇執行「非草稿」並更新所有內容，或建立草稿。 由你決定！ 「無草稿」將可供所有客戶使用，並由管理員的新權限控制。
 

@@ -3,7 +3,7 @@ unique-page-id: 2359909
 description: 管理使用者角色和權限 — Marketo檔案 — 產品檔案
 title: 管理使用者角色和權限
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Marketo提供數種內建角色，具有不同的存取層級：
 
    >[!NOTE]
    >
-   >若要了解每個角色，請參閱  [角色權限說明](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
+   >若要了解每個角色，請參閱 [角色權限說明](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md).
 
 ## 建立新角色 {#create-a-new-role}
 

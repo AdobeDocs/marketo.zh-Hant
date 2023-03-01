@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: 發行說明 — 16年秋季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2016年秋季
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## [Facebook離線轉換](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
-透過Facebook離線轉換整合，Marketo中的轉換資料（針對銷售機會廣告銷售機會）會自動傳回至Facebook，讓您的廣告團隊能夠更妥善地最佳化其廣告支出。 在此Facebook Ad Manager報表中，會反白顯示離線轉換。
+透過Facebook離線轉換整合，Marketo中的轉換資料（針對銷售機會廣告）會自動傳回至Facebook，讓您的廣告團隊能更妥善地最佳化其廣告支出。 在此Facebook Ad Manager報表中，會反白顯示離線轉換。
 
 ![](assets/facebook.png)
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 稽核軌跡提供您在Marketo訂閱中所做變更的完整記錄。 我們已新增方案的其他追蹤功能，並呈現智慧型行銷活動、智慧清單以及使用者和角色所做變更的重要變更詳細資料。
 
-## [新權限](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
+## [新權限](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
 
 **讓電子郵件可運作**
 
