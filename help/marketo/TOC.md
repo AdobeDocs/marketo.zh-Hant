@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 130102aefb0b6c12dc0ea87fdf6fef682e90b44c
+source-git-commit: b95557cc3b83870c67a3292824a31a64e5ec0bc8
 workflow-type: tm+mt
 source-wordcount: '8831'
 ht-degree: 0%
@@ -220,8 +220,8 @@ ht-degree: 0%
          + [管理Marketo使用者](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [管理使用者角色和權限](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [匯出角色和權限](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
-         + [角色權限說明](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
-         + [為片段啟用非草稿](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
+         + [角色權限說明](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
+         + [為片段啟用非草稿](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + 工作區和人員分區 {#workspaces-and-person-partitions}
          + [了解工作區和人員分區](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
          + [允許使用者存取工作區](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
