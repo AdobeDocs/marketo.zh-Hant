@@ -3,9 +3,9 @@ unique-page-id: 2360325
 description: 允許使用者存取工作區 — Marketo檔案 — 產品檔案
 title: 允許使用者存取工作區
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -22,24 +22,27 @@ ht-degree: 0%
 >
 >深入了解 [工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. 在「管理員」下，按一下「使用者和角色」 。
+1. 前往 **管理** 的上界。
 
-![](assets/image2014-9-17-11-3a2-3a32.png)
+   ![](assets/allow-user-access-to-a-workspace-1.png)
+
+1. 按一下 **使用者與角色**.
+
+   ![](assets/allow-user-access-to-a-workspace-2.png)
 
 1. 在 **使用者** 頁簽，選擇用戶並按一下 **編輯用戶**.
 
-   ![](assets/image2014-9-17-11-3a2-3a46.png)
+   ![](assets/allow-user-access-to-a-workspace-3.png)
 
 1. 選取 **角色和工作區** 您希望使用者擁有的存取權。
+
+   ![](assets/allow-user-access-to-a-workspace-4.png)
 
    >[!NOTE]
    >
    >您可以讓使用者擁有對工作區的任何存取組合。
 
-   ![](assets/image2014-9-17-11-3a3-3a16.png)
+儲存變更後，您應該會看到更新！
 
-1. 儲存變更後，您應該會看到更新！
+![](assets/allow-user-access-to-a-workspace-5.png)
 
-   ![](assets/image2014-9-17-11-3a3-3a31.png)
-
-太棒了！ 現在，當他們登入時，他們會看到您提供給他們存取的所有工作區。

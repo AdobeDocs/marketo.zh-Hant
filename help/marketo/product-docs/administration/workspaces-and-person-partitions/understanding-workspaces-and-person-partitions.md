@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: 了解工作區與人員分區 — Marketo檔案 — 產品檔案
 title: 了解工作區和人員分區
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
@@ -43,25 +43,29 @@ ht-degree: 0%
 >
 >包含您資產的父資料夾是唯一可共用的資料夾，而非子資料夾。
 
-1. 建立新資料夾。
+1. 按一下「資料庫」。
 
-   ![](assets/one.png)
+   ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. 為要共用的資料夾命名。
+1. 以滑鼠右鍵按一下「細分」資料夾，然後按一下 **新資料夾**.
 
-   ![](assets/two.png)
+   ![](assets/understanding-workspaces-and-person-partitions-2.png)
+
+1. 為資料夾命名，然後按一下 **建立**.
+
+   ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
 1. 將您要共用的資產移至資料夾。
 
-   ![](assets/three.png)
+   ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
 1. 以滑鼠右鍵按一下資料夾並選取 **共用資料夾**.
 
-   ![](assets/four.png)
+   ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
 1. 選擇要與共用資料夾的工作區，然後按一下 **儲存**. 「共用資料夾」(Share Folder)對話框將僅顯示您有權查看的工作區。
 
-   ![](assets/image2015-5-27-11-3a6-3a40.png)
+   ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
    >[!NOTE]
    >
