@@ -3,7 +3,7 @@ unique-page-id: 7515767
 description: 跨工作區和分區共用區段 — Marketo檔案 — 產品檔案
 title: 在工作區和分區間共用區段
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d4d87d2a03bc0966a6e77d97cb68a2c38a3c676
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
@@ -77,7 +77,7 @@ Marketo擅長挑選適合的人來參與項目或明智的宣傳活動。 不過
 
 1. 選取要共用資料夾的工作區。 按一下 **儲存**.
 
-   ![](assets/image2015-5-27-11-3a6-3a40.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions.png)
 
    >[!NOTE]
    >
