@@ -3,7 +3,7 @@ unique-page-id: 2360325
 description: 允許使用者存取工作區 — Marketo檔案 — 產品檔案
 title: 允許使用者存取工作區
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: a45732d3c09e7e3ca9e1a85c66aa7087c01eaa6f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -42,7 +42,7 @@ ht-degree: 0%
    >
    >您可以讓使用者擁有對工作區的任何存取組合。
 
-儲存變更後，您應該會看到更新！
+儲存變更後，您應該會看到更新。
 
 ![](assets/allow-user-access-to-a-workspace-5.png)
 
