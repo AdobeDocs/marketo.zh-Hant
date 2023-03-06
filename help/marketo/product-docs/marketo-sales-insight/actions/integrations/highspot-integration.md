@@ -3,9 +3,9 @@ description: Highspot整合 — Marketo檔案 — 產品檔案
 title: 高光點整合
 hide: true
 hidefromtoc: true
-source-git-commit: 342034eeca4ba0084824b833f14d8e8c3b65d6e3
+source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,21 @@ ht-degree: 0%
 >
 >您必須擁有管理員權限，才能為Sales Insight Actions實例啟用Highspot。
 
-1. 選取設定
+1. 按一下齒輪圖示並選取 **設定**.
 
-PICC
+   ![](assets/highspot-integration-1.png)
 
-1. 在側欄中選取一般設定
+1. 在 **管理設定**，選取 **一般**.
 
-PICC
+   ![](assets/highspot-integration-2.png)
 
-1. 捲動至整合卡並啟用Highspot
+1. 捲動至 **整合** 卡片，然後按一下滑桿以啟用Highspot。
 
-PICC
+   ![](assets/highspot-integration-3.png)
 
-1. 現在，使用者在撰寫視窗、範本編輯器和行銷活動電子郵件編輯器上選取內容上傳按鈕時，會看到選取「高點」的選項。
+現在，使用者在撰寫視窗、範本編輯器和行銷活動電子郵件編輯器上選取內容上傳按鈕時，會看到選取「高點」的選項。
 
-PICC
+![](assets/highspot-integration-4.png)
 
 ## 透過電子郵件存取最高位置內容和共用內容 {#accessing-highspot-content}
 
