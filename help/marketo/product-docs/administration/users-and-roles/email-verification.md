@@ -1,10 +1,8 @@
 ---
 description: 電子郵件驗證 — Marketo檔案 — 產品檔案
 title: 電子郵件驗證
-hide: true
-hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: e76a79927666cf4b197b8acd2e60a3756cc6f2b0
+source-git-commit: 342034eeca4ba0084824b833f14d8e8c3b65d6e3
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
