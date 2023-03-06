@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 303df236491f9574532c8b59289f89f505671acb
+source-git-commit: b507bee5e41aff140d4ed9f9a2c842398feb8306
 workflow-type: tm+mt
-source-wordcount: '8835'
+source-wordcount: '8829'
 ht-degree: 0%
 
 ---
@@ -1201,7 +1201,6 @@ ht-degree: 0%
             + [取消訂閱概述](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
          + 使用撰寫視窗 {#using-the-compose-window}
             + [將附件或可追蹤內容新增至電子郵件](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
-            + [新增最高位置內容至您的電子郵件](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [大量傳送選項](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
             + [使用選擇和發送合成大量電子郵件](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
             + [排程電子郵件](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
