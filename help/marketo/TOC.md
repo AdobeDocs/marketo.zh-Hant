@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
+source-git-commit: 303df236491f9574532c8b59289f89f505671acb
 workflow-type: tm+mt
-source-wordcount: '8836'
+source-wordcount: '8835'
 ht-degree: 0%
 
 ---
@@ -239,6 +239,7 @@ ht-degree: 0%
       + [設定Adobe組織對應](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [從Adobe Experience Cloud同步受眾](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [使用Adobe Experience Manager匯入資產](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
+      + [統一殼層概述](product-docs/adobe-experience-cloud-integrations/unified-shell-overview.md)
    + 核心Marketo概念 {#core-marketo-concepts}
       + 智慧型行銷活動 {#smart-campaigns}
          + [了解智慧型行銷活動](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -1377,7 +1378,7 @@ ht-degree: 0%
             + [為什麼我的所有聯繫人都沒有被推向「銷售分析」操作？](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [為什麼追蹤活動沒有顯示在Salesforce活動中？](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + 整合 {#integrations}
-            + [將電子郵件記錄到外部源](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
+            + [高光點整合](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
          + Marketo {#marketo}
             + [將Marketo存取權授與使用者](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [銷售分析動作中的有趣時刻](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
