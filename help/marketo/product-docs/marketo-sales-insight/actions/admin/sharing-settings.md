@@ -2,9 +2,9 @@
 description: 共用設定 — Marketo檔案 — 產品檔案
 title: 共用設定
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+source-git-commit: bc481a80629ded19f3a8ff159540244c7cd73302
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 限制使用者可共用的項目和可共用的類別，以更妥善地管理範本。
 
-首次建立Sales Connect帳戶時，將啟用「共用設定」。 這可讓您的帳戶管理員在開啟閘門之前，先建立並組織範本類別，並讓使用者將內容共用至您的團隊類別。
+首次建立Sales Insight Actions帳戶時，會啟用「共用設定」。 這可讓您的帳戶管理員在開啟閘門之前，先建立並組織範本類別，並讓使用者將內容共用至您的團隊類別。
 
 啟用「共用設定」時，除非向團隊或每個人提供共用權限，否則只有管理員才能共用至類別。 停用「共用設定」後，即無限制，所有使用者都可以共用至任何範本類別。
 
