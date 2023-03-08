@@ -2,9 +2,9 @@
 description: 建立Sales Campaign - Marketo檔案 — 產品檔案
 title: 建立銷售促銷活動
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
-source-git-commit: 56101a81c392a3e3214426112976cca960359bf8
+source-git-commit: ac5d9c431a524164ce6f0cc076e9801ee52fd899
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. 當你 [完成電子郵件](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target=&quot;_blank&quot;}，按一下 **新增**.
+1. 當你 [完成電子郵件](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}，按一下 **新增**.
 
    ![](assets/create-a-sales-campaign-6.png)
 
@@ -65,7 +65,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [電子郵件步驟的Sales Campaign傳送選項](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}
->* [Sales Campaign步驟類型和提醒任務](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
->* [銷售活動設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}
+>* [Sales Campaign步驟類型和提醒任務](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* [銷售活動設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
 

@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Sales Connect概述 — Marketo檔案 — 產品檔案
 title: Sales Connect概述
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+source-git-commit: ac5d9c431a524164ce6f0cc076e9801ee52fd899
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -44,19 +44,19 @@ Marketo Sales Connect是一個多方面的銷售支援解決方案，具有多�
   </tr> 
   <tr> 
    <td><p>發送銷售電子郵件</p></td> 
-   <td><p>使用者從MSE傳送銷售電子郵件。</p></td> 
+   <td><p>用戶從Sales Connect發送了銷售電子郵件。</p></td> 
   </tr> 
   <tr> 
    <td><p>開啟銷售電子郵件</p></td> 
-   <td><p>銷售機會開啟了從MSE發送的銷售電子郵件。</p></td> 
+   <td><p>Lead開啟了從Sales Connect發送的銷售電子郵件。</p></td> 
   </tr> 
   <tr> 
    <td><p>按一下銷售電子郵件</p></td> 
-   <td><p>銷售主管按一下MSE寄出的銷售電子郵件中的連結。</p></td> 
+   <td><p>銷售線索點擊了從Sales Connect發送的銷售電子郵件中的連結。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>接收銷售電子郵件</p></td> 
-   <td colspan="1"><p>Lead收到來自MSE的電子郵件。</p></td> 
+   <td colspan="1"><p>Lead從Sales Connect收到了一封電子郵件。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>接收銷售電話</p></td> 
@@ -64,7 +64,7 @@ Marketo Sales Connect是一個多方面的銷售支援解決方案，具有多�
   </tr> 
   <tr> 
    <td colspan="1"><p>添加到銷售活動</p></td> 
-   <td colspan="1"><p>銷售機會已新增至以MSE建立的銷售促銷活動（在「促銷活動」頁面中）。</p></td> 
+   <td colspan="1"><p>銷售機會已新增至在Sales Connect中建立的銷售促銷活動（在「促銷活動」頁面中）。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>從Sales Campaign中移除</p></td> 
