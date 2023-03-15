@@ -2,7 +2,7 @@
 description: Chatbot行為 — Marketo檔案 — 產品檔案
 title: 查特機器人行為
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
+source-git-commit: af8896e8675ae3ded689583fb5a348aff95cba83
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -52,7 +52,7 @@ ht-degree: 0%
         <p>V1訪問WP1</p>
       </td>
       <td>
-        <p>D1將解析為V1 </p>
+        <p>D1將解析為V1</p>
       </td>
       <td>D1的觸發計數將增加1</td>
     </tr>
@@ -131,7 +131,7 @@ ht-degree: 0%
       <td>
         <p>D1僅針對WP1,WP2</p>
         <p>V1首次訪問WP1</p>
-        <p>D1上的V1點按次數，但未回應 </p>
+        <p>D1上的V1點按次數，但未回應</p>
         <p>V1訪問WP2</p>
       </td>
       <td>
@@ -181,7 +181,7 @@ ht-degree: 0%
         <p>D1僅針對WP1</p>
         <p>D2僅針對WP2</p>
         <p>V1首次訪問WP1</p>
-        <p>D1上的V1點按次數，但未回應 </p>
+        <p>D1上的V1點按次數，但未回應</p>
         <p>V1訪問WP2</p>
       </td>
       <td>D1將在WP1上解析<br/>
@@ -212,7 +212,7 @@ ht-degree: 0%
         <p>V1首次訪問WP1</p>
         <p>D1上的V1點擊並完成D1</p>
         <p>V1訪問WP2</p>
-        <p>D2上的V1點按會提供第一個回應 </p>
+        <p>D2上的V1點按會提供第一個回應</p>
       </td>
       <td>D1將在WP1上和完成後解析<br/>D2將在WP2上解析</td>
       <td>
@@ -255,7 +255,7 @@ ht-degree: 0%
       <td>
         <p>D1僅針對WP1</p>
         <p>V1首次訪問WP1</p>
-        <p>D1的V1 </p>
+        <p>D1的V1</p>
         <p>D1未發佈</p>
         <p>V1刷新WP1</p>
       </td>
@@ -300,7 +300,7 @@ ht-degree: 0%
       </td>
       <td>
         <p>D1的觸發計數將增加1</p>
-        <p>D1的參與計數將增加1 </p>
+        <p>D1的參與計數將增加1</p>
         <p>重新整理後，舊的D1會顯示，因此不會變更觸發計數</p>
       </td>
     </tr>
@@ -325,7 +325,7 @@ ht-degree: 0%
     <tr>
       <td>
         <p>D1針對WP1，優先順序為1</p>
-        <p>D2針對WP1，優先順序為2 </p>
+        <p>D2針對WP1，優先順序為2</p>
         <p>V1首次訪問WP1</p>
         <p>D1上的V1點擊並完成D1</p>
         <p>V1刷新WP1並參見D2<br/>D2上的V1點擊並完成D2</p>
