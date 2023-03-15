@@ -3,9 +3,9 @@ description: Unified Shell概述 — Marketo檔案 — 產品檔案
 title: 統一殼層概述
 hide: true
 hidefromtoc: true
-source-git-commit: bc481a80629ded19f3a8ff159540244c7cd73302
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '355'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ PICC
 
 如果您收到上述錯誤，請 [聯絡支援](https://nation.marketo.com/t5/support/ct-p/Support) 以求協助。
 
-以下是Marketo的變更：
+《史蒂芬的筆記》
 
 您可透過Experience Cloud/IMS登入。
 
@@ -84,4 +84,4 @@ PICC
 
 我Marketo的歷史樹要走了
 
-書籤目前無法運作。 我們不需要立即將其發出，但如果您要從Bizible的文檔中複製任何文本，請將其刪除（其書籤可用）。
+無書籤

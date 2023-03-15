@@ -1,9 +1,9 @@
 ---
 description: 發行說明 — 2023年1月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2023年1月
-source-git-commit: 5ffbe1b9c7571cae520a2088f05cfeef5a0cc20e
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '637'
 ht-degree: 3%
 
 ---
@@ -86,7 +86,7 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>已發運</td>
-   <td><i>即將推出</i></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

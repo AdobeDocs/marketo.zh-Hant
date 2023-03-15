@@ -2,7 +2,7 @@
 description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d744ef8f0798bfef540f49e2a6890eaa307569c4
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 8%
@@ -19,7 +19,7 @@ ht-degree: 8%
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於 **2023年3月24日**，並在後續幾週分階段推出其餘功能。 發行功能和日期可能會有所變更。 請檢查下方的每個功能的狀態。
+下列功能屬於標準發行週期，並將於 **2023年3月31日**，並在後續幾週分階段推出其餘功能。 發行功能和日期可能會有所變更。 請檢查下方的每個功能的狀態。
 
 ### Marketo Engage現代UX {#modern-ux}
 

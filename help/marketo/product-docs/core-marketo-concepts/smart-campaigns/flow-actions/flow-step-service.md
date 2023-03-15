@@ -2,16 +2,16 @@
 description: 流程步驟服務 — Marketo檔案 — 產品檔案
 title: 流程步驟服務
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 5d95a77e5c836bf76d82f0db72781727b2743720
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '1243'
+source-wordcount: '1220'
 ht-degree: 0%
 
 ---
 
 # 流程步驟服務 {#flow-step-service}
 
-自助流程步驟是一個架構和一組功能，用於編寫、發佈網站服務，以及將網站服務整合至Adobe Marketo Engage智慧型行銷活動。 本指南適用於Marketo Engage想要安裝和使用已建立和發佈之服務的使用者。 有關編寫和發佈您自己的服務的資訊，請參閱 [服務提供者介面的GitHub存放庫](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}。 可找到概念驗證查閱表格實作 [此處](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}。
+自助流程步驟是一個架構和一組功能，用於編寫、發佈網站服務，以及將網站服務整合至Adobe Marketo Engage智慧型行銷活動。 本指南適用於Marketo Engage想要安裝和使用已建立和發佈之服務的使用者。 有關編寫和發佈您自己的服務的資訊，請參閱 [服務提供者介面的GitHub存放庫](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## 入門和管理服務 {#onboarding-and-managing-services}
 
@@ -28,10 +28,6 @@ ht-degree: 0%
 ## 輸入服務憑據 {#enter-service-credentials}
 
 若要存取正在安裝的服務，Marketo必須具備有效的API憑證。 服務提供商應向您提供這些憑據。 服務有三個不同的驗證選項，因此您可能會看到三種不同的憑據提示之一： **API金鑰** 只有一個輸入欄位， **基本驗證** 它需要用戶名和密碼，並且可能還需要名為Realm的欄位，以及 **OAuth2** 使用 _客戶端憑據_ 格蘭特，這要求 _用戶端ID_ 和 _用戶端密碼_.
-
->[!NOTE]
->
->OAuth2要到3月11日發行版本才可用。
 
 儲存憑證時，Marketo會嘗試呼叫服務的狀態端點，以驗證其有效性。 如果提供的憑證無效，您會看到指出此情況的錯誤。
 
