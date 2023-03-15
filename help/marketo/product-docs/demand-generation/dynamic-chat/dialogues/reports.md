@@ -2,10 +2,10 @@
 description: 報表 — Marketo檔案 — 產品檔案
 title: 報表
 exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
-source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
+source-git-commit: dd3844ad0d32f8ffab2d611f437b1e8522fb9988
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 8%
+source-wordcount: '120'
+ht-degree: 11%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 8%
  </tr>
  <tr>
   <td><strong>已參與</strong></td>
-  <td>每次訪客點按動作機器人錨點以開啟對話方塊時增量。</td>
+  <td>當訪客與對話方塊中至少一個卡片互動時增加（例如「問題」、「資訊擷取」等）</td>
  </tr>
  <tr>
   <td><strong>已完成</strong></td>
@@ -43,7 +43,7 @@ ht-degree: 8%
 
 >[!MORELIKETHIS]
 >
->* [建立對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [串流設計工具](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
->* [對象條件](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
+>* [建立對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
+>* [流程設計工具](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
+>* [對象條件](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 
