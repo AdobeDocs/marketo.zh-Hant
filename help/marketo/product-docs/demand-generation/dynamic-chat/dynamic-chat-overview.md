@@ -2,10 +2,10 @@
 description: Dynamic Chat概述 — Marketo檔案 — 產品檔案
 title: 動態聊天概述
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
+source-git-commit: 5cd5873132e38d7adea02739da39aebeb3979124
 workflow-type: tm+mt
-source-wordcount: '845'
-ht-degree: 1%
+source-wordcount: '857'
+ht-degree: 2%
 
 ---
 
@@ -33,23 +33,23 @@ Dynamic Chat的一個關鍵元件是其與Marketo訂閱原生介面的功能。 
 
 ## 對話 {#dialogues}
 
-對話方塊代表單一聊天參與。 您可以將其想像成容器，內含您與網站訪客進行有趣的聊天對話所需的所有內容。 在每個對話框中，可以指定希望對話框顯示在哪個頁面上、希望向誰顯示對話框，以及對話框本身的內容和流。 此外，您還可以找到量度，以了解對話方塊的執行成效。 [深入了解對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}。
+對話方塊代表單一聊天參與。 您可以將其想像成容器，內含您與網站訪客進行有趣的聊天對話所需的所有內容。 在每個對話框中，可以指定希望對話框顯示在哪個頁面上、希望向誰顯示對話框，以及對話框本身的內容和流。 此外，您還可以找到量度，以了解對話方塊的執行成效。 [深入了解對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
 
 ## 設定 {#configuration}
 
-在「配置」頁簽中，自定義各種對話框的外觀和風格。 變更字型、顏色、回應時間等！ [進一步了解配置](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target=&quot;_blank&quot;}。
+在「配置」頁簽中，自定義各種對話框的外觀和風格。 變更字型、顏色、回應時間等！ [進一步了解配置](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}.
 
 ## 日曆 {#calendar}
 
-連接您的Outlook或Gmail日曆，以用於動產中的約會排程。 [進一步了解日曆](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target=&quot;_blank&quot;}
+連接您的Outlook或Gmail日曆，以用於動產中的約會排程。 [進一步了解日曆](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
 
 ## 會議 {#meetings}
 
-這是網站訪客透過各種對話方塊排程的所有約會。 [進一步了解會議](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target=&quot;_blank&quot;}
+這是網站訪客透過各種對話方塊排程的所有約會。 [進一步了解會議](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
 
 ## 路由 {#routing}
 
-您可以在此處查看已連接其日曆的所有座席的清單，向網站訪客顯示這些座席的順序，以及建立自定義路由規則。 [進一步了解路由](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target=&quot;_blank&quot;}
+您可以在此處查看已連接其日曆的所有座席的清單，向網站訪客顯示這些座席的順序，以及建立自定義路由規則。 [進一步了解路由](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
 
 ## 常見問題集 {#faq}
 
@@ -111,8 +111,18 @@ Dynamic Chat JavaScript程式碼片段可安裝在任何網站和Marketo登陸�
   <th>限制</th>
  <tr>
   <td>對話框總數</td>
-  <td>對話（已發佈和草稿）總數</td>
+  <td>對話次數（已發佈和草稿）</td>
   <td>500</td>
+ </tr>
+ <tr>
+  <td>日曆總計</td>
+  <td>連接的日曆數</td>
+  <td>25</td>
+ </tr>
+ <tr>
+  <td>使用者總數（管理員和行銷使用者）</td>
+  <td>每個動態聊天實例允許的合併用戶數</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>已發佈的對話方塊</td>
@@ -171,12 +181,12 @@ Dynamic Chat JavaScript程式碼片段可安裝在任何網站和Marketo登陸�
  </tr>
  <tr>
   <td>參與的對話</td>
-  <td>網站訪客每天可參與的聊天對話數</td>
-  <td>1,000</td>
+  <td>每月網站訪客可參與的聊天對話數</td>
+  <td>250</td>
  </tr>
  <tr>
   <td>觸發的對話</td>
-  <td>每天可向Web訪客顯示的聊天對話數</td>
+  <td>每月可向Web訪客顯示的聊天對話數</td>
   <td>25,000</td>
  </tr>
 </table>
