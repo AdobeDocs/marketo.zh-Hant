@@ -3,9 +3,9 @@ unique-page-id: 10100275
 description: 新增/編輯/刪除Marketo自訂活動欄位 — Marketo檔案 — 產品檔案
 title: 新增/編輯/刪除Marketo自訂活動欄位
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 6283a9fda6c8577dacfbd3782cda41058fbf67a2
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -86,7 +86,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果自訂活動從未發佈，您只能編輯「Api名稱」或將欄位變更為「主要」。 如果活動已發佈，則您只能編輯欄位的名稱和可選說明。
+   >如果自訂活動從未發佈，您只能編輯「Api名稱」或將欄位變更為「主要」。
 
    >[!NOTE]
    >
