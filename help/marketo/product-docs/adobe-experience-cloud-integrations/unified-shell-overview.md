@@ -3,7 +3,7 @@ description: Unified Shell概述 — Marketo檔案 — 產品檔案
 title: 統一殼層概述
 hide: true
 hidefromtoc: true
-source-git-commit: b4f0831ae98dd12a61d7ea5359586ca0b1a0971c
+source-git-commit: b6ec2e1dfa04cb19f92b18117219763a8aa774dc
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Unified Shell會協調Adobe Experience Cloud應用程式和服務的「殼層」
 
 如果您尚未登入Adobe Experience Cloud產品，請直接登入 [!DNL Marketo Engage] 此處： [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
-若您 _為_ 已登入Adobe Experience Cloud產品，只要按一下功能表圖示並選取 **[!DNL Marketo Measure]**.
+若您 _為_ 已登入Adobe Experience Cloud產品，只要按一下功能表圖示並選取 **[!DNL Marketo Engage]**.
 
 ![](assets/unified-shell-overview-1.png)
 
