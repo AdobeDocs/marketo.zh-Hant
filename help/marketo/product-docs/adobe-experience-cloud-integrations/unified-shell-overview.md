@@ -3,9 +3,9 @@ description: Unified Shell概述 — Marketo檔案 — 產品檔案
 title: 統一殼層概述
 hide: true
 hidefromtoc: true
-source-git-commit: b6ec2e1dfa04cb19f92b18117219763a8aa774dc
+source-git-commit: 427b79a584a003204f344ed9c219489c25abfc59
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Unified Shell會協調Adobe Experience Cloud應用程式和服務的「殼層」
 
 **整合式說明中心**
 
-搜尋支援文章、提交票證、提供意見反應，全部來自 [!DNL Marketo Engage] 應用程式。
+從中存取各種可用的說明資源 [!DNL Marketo Engage] 應用程式。
 
 ![](assets/unified-shell-overview-2.png)
 
@@ -52,7 +52,7 @@ Unified Shell會協調Adobe Experience Cloud應用程式和服務的「殼層」
 
 **Adobe設定**
 
-按一下您的設定檔圖示以變更您的語言或其他Adobe範圍的偏好設定。 您也可以 [!DNL Marketo Engage]按一下 **我的設定**.
+按一下您的設定檔圖示以變更您的語言或其他Adobe範圍的偏好設定。
 
 ![](assets/unified-shell-overview-5.png)
 
@@ -65,3 +65,7 @@ Unified Shell會協調Adobe Experience Cloud應用程式和服務的「殼層」
 **使用者歷史記錄、全域搜尋、Marketo通知和任務匣移至何處？**
 
 這些功能已從頂端導覽列移至「統一殼層」中左側的新列。
+
+![](assets/unified-shell-overview-6.png)
+
+![](assets/unified-shell-overview-7.png)
