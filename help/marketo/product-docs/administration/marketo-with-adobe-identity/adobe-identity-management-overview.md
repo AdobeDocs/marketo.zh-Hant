@@ -2,9 +2,9 @@
 description: AdobeIdentity Management概述 — Marketo檔案 — 產品檔案
 title: AdobeIdentity Management概述
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
+source-git-commit: 05377b78181d002926623268d1fdca40c7b80f46
 workflow-type: tm+mt
-source-wordcount: '1068'
+source-wordcount: '1098'
 ht-degree: 0%
 
 ---
@@ -122,6 +122,10 @@ Adobe IMS目前不支援任何類似Marketo裝置授權功能的功能。
 **若為Adobe IMS，我們可以選擇使用Adobe ID、Enterprise ID或Federated ID?**
 
 是，您可以決定要取得組織支援的身分類型。 如需詳細資訊，請前往： [身分概述](https://helpx.adobe.com/enterprise/using/identity.html) 和此處： [設定身分](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+
+**Adobe Admin Console支援哪些產品卡？**
+
+支援的產品卡包括：Marketo Engage、Marketo Measure、Marketo動態聊天、Marketo Sales Connect和Marketo Sales Insight Actions。
 
 >[!MORELIKETHIS]
 >
