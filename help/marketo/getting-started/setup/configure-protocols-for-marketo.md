@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: 設定Marketo的通訊協定 — Marketo檔案 — 產品檔案
 title: 設定Marketo的通訊協定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
+source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1021'
 ht-degree: 2%
 
 ---
@@ -20,13 +20,12 @@ ht-degree: 2%
 
 本文應與希望執行這些協定的公司的IT部門分享。
 
->[!NOTE]
->
->如果您的IT團隊使用允許清單限制Web存取，請要求他們新增下列網域（包括星號）以允許所有Marketo資源和網路通訊端：
+如果您的IT團隊使用允許清單限制Web存取，請要求他們新增下列網域（包括星號）以允許所有Marketo資源和網路通訊端：
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
 * `*.mktoweb.com`
+* `*.experience.adobe.com`
 
 ## 步驟1:建立登錄頁面和電子郵件的DNS記錄 {#step-create-dns-records-for-landing-pages-and-email}
 
@@ -40,7 +39,7 @@ ht-degree: 2%
 
 * 別名：輸入 `[YourLandingPageCNAME]` （由行銷提供）
 * 類型：CNAME
-* 指向：輸入 `[MarketoAccountString].mktoweb.com` （由行銷提供）
+* 指向：輸入 `[MunchkinID].mktoweb.com` （由行銷提供）
 
 `2` **新增CNAME以用於電子郵件追蹤連結**
 
@@ -59,7 +58,7 @@ ht-degree: 2%
 
 完成此程式後，通知您的行銷團隊。
 
-`4` **連絡人 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;}以開始布建SSL憑證的程式。**
+`4` **連絡人 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 以開始布建SSL憑證的程式。**
 
 此程式最多需要3個工作天才能完成。
 
@@ -104,7 +103,7 @@ ht-degree: 2%
 
    `[DKIMDomain2]`:主機記錄為 `[HostRecord2]` 而TXT值為 `[TXTValue2]`.
 
-   複製您遵循 [說明](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target=&quot;_blank&quot;}。 在IT人員完成此步驟後，別忘了在「管理員>電子郵件> DKIM」中驗證每個網域。
+   複製您遵循 [說明](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. 在IT人員完成此步驟後，別忘了在「管理員>電子郵件> DKIM」中驗證每個網域。
 
 ## 步驟4:為域設定MX記錄 {#step-set-up-mx-records-for-your-domain}
 
@@ -116,11 +115,11 @@ MX記錄允許您接收發送到要發送電子郵件的域的郵件，以處理
 
 **Webhook**
 
-Marketo Engage [Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target=&quot;_blank&quot;}是外站整合機制。 當 [呼叫Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target=&quot;_blank&quot;}流量動作會在智慧型促銷活動中執行，會對外部Web服務發出HTTP要求。 如果Web服務發佈者在外部Web服務所在網路的防火牆上使用允許清單，則發佈者必須將下面列出的IP地址塊添加到允許清單中。
+Marketo Engage [Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} 流程動作會在智慧型行銷活動中執行，對外部web服務發出HTTP要求。 如果Web服務發佈者在外部Web服務所在網路的防火牆上使用允許清單，則發佈者必須將下面列出的IP地址塊添加到允許清單中。
 
 **CRM同步**
 
-Marketo Engage [Salesforce CRM同步](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target=&quot;_blank&quot;}和 [Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target=&quot;_blank&quot;}是整合機制，會對您的CRM廠商發佈的API提出傳出HTTP要求。 您必須確保IT組織不會封鎖下列任何IP位址區塊，以免存取您的CRM廠商API。
+Marketo Engage [Salesforce CRM同步](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} 是整合機制，會對您CRM廠商發佈的API發出傳出HTTP請求。 您必須確保IT組織不會封鎖下列任何IP位址區塊，以免存取您的CRM廠商API。
 
 **Marketo Engage傳出IP位址區塊**
 
