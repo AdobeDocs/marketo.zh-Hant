@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 0864f784d193bfc6dd7a087c9f89ce59bdff710c
+source-git-commit: c53002db5778ce06031a0727c85b1b30aca172e0
 workflow-type: tm+mt
-source-wordcount: '8843'
+source-wordcount: '8849'
 ht-degree: 0%
 
 ---
@@ -622,7 +622,7 @@ ht-degree: 0%
          + [查特機器人行為](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [動態聊天活動](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + 約會計畫 {#appointment-scheduling}
-            + [日曆](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
+            + [行事曆](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
             + [會議](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
             + [路由](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + 整合 {#integrations}
@@ -1287,6 +1287,7 @@ ht-degree: 0%
          + [Sales Insight Actions功能概述](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + 快速入門 {#getting-started}
             + [Sales Insight Actions使用手冊](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
+            + [Sales Insight Actions用戶入門檢查清單](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
             + [Sales Insight Actions管理設定指南](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [更改您的Marketo銷售密碼](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + [產品使用量限制](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)

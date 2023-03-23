@@ -3,7 +3,7 @@ unique-page-id: 7515620
 description: 範本1A - Marketo檔案 — 產品檔案
 title: 範本1A
 exl-id: e2dd3c0a-405b-414a-bdbc-bd1cb85d6d13
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+source-git-commit: c53002db5778ce06031a0727c85b1b30aca172e0
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
