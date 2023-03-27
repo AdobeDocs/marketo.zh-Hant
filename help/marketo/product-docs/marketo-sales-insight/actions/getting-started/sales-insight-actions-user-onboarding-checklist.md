@@ -1,9 +1,7 @@
 ---
 description: Sales Insight Actions使用者入門檢查清單 — Marketo檔案 — 產品檔案
 title: Sales Insight Actions用戶入門檢查清單
-hide: true
-hidefromtoc: true
-source-git-commit: e524fc6c2209e17f849f40fe4d09b691f3e26799
+source-git-commit: 2cd051026db63b4748a0ca128f8493ab7775217b
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
