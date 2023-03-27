@@ -2,7 +2,7 @@
 description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: 945ac03e37cd88cbfff89f17056db78107ebb138
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 8%
@@ -27,7 +27,7 @@ ht-degree: 8%
 
 * **增強元件用於登錄頁面範本詳細資料和表單詳細資料的功能**:「由UI使用的新增」標籤提供「登錄頁面範本詳細資訊」和「表單詳細資訊」的其他資訊，包括已使用所選資產之資產的詳細資訊。 透過搜尋、排序和篩選功能，對資產的長清單執行分析。
 
-   <table> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -67,7 +67,7 @@ ht-degree: 8%
   </tbody>
 </table>
 
-### API增強功能 {#api-enhancements}
+### 整合更新 {#integration-updates}
 
 </br>
 
