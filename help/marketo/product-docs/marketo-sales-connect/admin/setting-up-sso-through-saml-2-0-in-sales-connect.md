@@ -3,9 +3,9 @@ unique-page-id: 14352405
 description: 在Sales Connect - Marketo檔案 — 產品檔案中透過SAML 2.0設定SSO
 title: 在Sales Connect中通過SAML 2.0設定SSO
 exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這僅適用於 **Marketo Sales Connect** 客戶。 如果您沒有Sales Connect，但想要了解更多資訊，請聯繫您的客戶成功經理。
+>這僅適用於 **Marketo Sales Connect** 使用者。 如果您沒有Sales Connect，但想了解更多資訊，請聯繫Adobe客戶團隊（您的客戶經理）。
 
 ## 需求 {#requirements}
 

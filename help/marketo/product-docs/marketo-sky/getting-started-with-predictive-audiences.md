@@ -4,9 +4,9 @@ title: 預測受眾快速入門
 hide: true
 hidefromtoc: true
 exl-id: d39afacc-30e0-4b7c-9b78-18fa95505553
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -26,10 +26,10 @@ AI/ML模型的效能取決於訂閱中的資料。 模型使用頻率越高，�
 
 ## 可用性 {#availability}
 
-預測對象會自動納入並啟用，以利用Prime或Ultimate定價套件組合執行個體。 若要進一步了解如何存取此功能，請連絡您的客戶成功經理。
+預測對象會自動納入並啟用，以利用Prime或Ultimate定價套件組合執行個體。 若要進一步了解如何存取此功能，請連絡Adobe客戶團隊（您的客戶經理）。
 
 1. 將功能新增至您的執行個體後，請導覽至 **[!UICONTROL 預測對象]** 頁面 **[!UICONTROL 管理]** 區域 [!DNL Marketo Classic].
 
-1. 檢查 **[!UICONTROL 啟用預測對象]** 來啟用功能。 請注意，所有程式完成設定可能需要24小時。
+1. 檢查 **[!UICONTROL 啟用預測對象]** 來啟用功能。 請注意，所有程式完成設定可能需要24小時。
 
    ![影像一](assets/getting-started-with-predictive-audiences-1.png)

@@ -2,9 +2,9 @@
 description: 自訂物件中繼資料匯出 — Marketo檔案 — 產品檔案
 title: 自訂物件中繼資料匯出
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
-source-git-commit: a7fc7701326c51c802d4c632385d1de355646ad0
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的客戶成功經理。
+>並非所有客戶都購買過此功能。 如需詳細資訊，請聯絡Adobe帳戶團隊（您的客戶經理）。
 
 1. 在「我的Marketo」中，按一下 **管理**.
 

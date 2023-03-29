@@ -3,9 +3,9 @@ unique-page-id: 11378869
 description: 建立瀏覽器SMS訊息 — Marketo檔案 — 產品檔案
 title: 建立瀏覽器SMS訊息
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能是您Adobe Marketo Engage帳戶的附加元件。 為了正確布建，必須透過Adobe購買。 如需詳細資訊，請連絡您的Adobe客戶成功經理。
+>此功能是您Adobe Marketo Engage帳戶的附加元件。 為了正確布建，必須透過Adobe購買。 如需詳細資訊，請聯絡Adobe帳戶團隊（您的客戶經理）。
 
 >[!NOTE]
 >

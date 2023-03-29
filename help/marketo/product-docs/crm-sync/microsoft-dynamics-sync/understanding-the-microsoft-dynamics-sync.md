@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: 了解Microsoft Dynamics Sync - Marketo檔案 — 產品檔案
 title: 了解Microsoft Dynamics同步
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Marketo和Microsoft動態。 我們會保持您的銷售和行銷資料同步。
 
 >[!CAUTION]
 >
->我們目前不支援Marketo Dynamics Sync的沙箱重新整理。 如果您需要重新整理Dynamics CRM沙箱，則需要新的Marketo沙箱。 如需詳細資訊，請連絡您的客戶成功經理。
+>我們目前不支援Marketo Dynamics Sync的沙箱重新整理。 如果您需要重新整理Dynamics CRM沙箱，則需要新的Marketo沙箱。 如需詳細資訊，請連絡Adobe客戶團隊（您的客戶經理）。
 
 ## 同步如何運作 {#how-sync-works}
 

@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: 發行說明 — 18年春季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2018年春季
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->Sales Engage是附加產品。 如需報價，請連絡您的Marketo客戶成功經理或客戶經理。
+>Sales Engage是附加產品。 如需報價，請連絡您的Marketo客戶經理或客戶經理。
 
 利用智慧、內容、播放簿和分析增強銷售能力，將更多銷售機會轉化為銷售機會，借此促進更多管道和收入。 Sales Engage為銷售和行銷提供了一個統一的平台，以便在整個客戶歷程中進行參與，並通過共用的客戶接觸點視圖實現更好的協調。
 

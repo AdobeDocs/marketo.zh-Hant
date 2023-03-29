@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: 尋找及合併重複人員 — Marketo檔案 — 產品檔案
 title: 查找和合併重複人員
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,6 @@ Marketo會在新人員進入系統時自動去重複化。 不過，您的CRM最
 
 ## 大量合併 {#bulk-merging}
 
-如果手動合併重複項目過多，請連絡您的客戶成功經理，討論您的選項。
+如果手動合併重複項目太多，請連絡Adobe客戶團隊（您的客戶經理）以討論您的選項。
 
-超級！ 如果您連接到CRM，記錄將根據以下規則合併到該處。
+如果您已連線至CRM，記錄會根據下列規則合併。

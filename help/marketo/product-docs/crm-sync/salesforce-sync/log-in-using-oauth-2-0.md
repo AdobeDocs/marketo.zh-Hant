@@ -2,9 +2,9 @@
 description: 使用OAuth 2.0登入 — Marketo檔案 — 產品檔案
 title: 使用OAuth 2.0登入
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
-source-git-commit: c15753e0f2af199af8fd7e8bfe0924a915a39814
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,7 @@ Salesforce使用OAuth通訊協定，讓應用程式的使用者不必透露登�
 
    >[!CAUTION]
    >
-   >如果您看到的是「使用者名稱/密碼/代號」欄位，而不是「使用Salesforce登入」按鈕，表示您的Marketo訂閱已啟用基本驗證。 請參閱 [使用基本驗證設定Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). 一旦使用一組憑據開始同步，Salesforce憑據或訂閱便不會切換。 如果您想使用Oauth 2.0，請洽詢您的客戶成功經理。
+   >如果您看到的是「使用者名稱/密碼/代號」欄位，而不是「使用Salesforce登入」按鈕，表示您的Marketo訂閱已啟用基本驗證。 請參閱 [使用基本驗證設定Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). 一旦使用一組憑據開始同步，Salesforce憑據或訂閱便不會切換。 如果您想使用Oauth 2.0，請洽詢Adobe帳戶團隊（您的帳戶管理員）。
 
 1. 將顯示帶有salesforce登入頁面的快顯視窗。 「Marketo同步使用者」憑證中的金鑰並登入。
 

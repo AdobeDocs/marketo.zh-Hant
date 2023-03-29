@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Sales Connect概述 — Marketo檔案 — 產品檔案
 title: Sales Connect概述
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
-source-git-commit: ac5d9c431a524164ce6f0cc076e9801ee52fd899
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Marketo Sales Connect是一個多方面的銷售支援解決方案，具有多�
 
 >[!AVAILABILITY]
 >
->並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的客戶成功經理。
+>並非所有人都購買過此功能。 如需詳細資訊，請聯絡Adobe帳戶團隊（您的客戶經理）。
 
 ## 即時摘要 {#the-live-feed}
 

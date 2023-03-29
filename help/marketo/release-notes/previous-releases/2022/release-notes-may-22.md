@@ -2,9 +2,9 @@
 description: 發行說明 — 2022年5月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2022年5月
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '826'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 原生CRM整合 {#native-crm-integration}
 
-**[原生Veeva CRM整合](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;}（可用性有限）**:透過原生整合將活動同步到Veva CRM與Marketo Engage之間，改善與醫療保健專業人員的互動。 此整合可讓行銷人員為醫療保健專業人員建立更個人化且順暢的跨管道體驗。 如果您有興趣參與，請連絡您的客戶成功經理。
+**[原生Veeva CRM整合](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} （可用性有限）**:透過原生整合將活動同步到Veva CRM與Marketo Engage之間，改善與醫療保健專業人員的互動。 此整合可讓行銷人員為醫療保健專業人員建立更個人化且順暢的跨管道體驗。 如果您有興趣參與，請連絡Adobe客戶團隊（您的客戶經理）。
 
 ## 跨管道協調 {#cross-channel-orchestration}
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
 **排除動態聊天的URL**:控制顯示哪些網頁動態聊天，並能將特定URL排除在目標定位條件之外。
 
-**[電子郵件機器人活動篩選增強功能](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}**:除了現有的IAB清單比對識別外，還能根據隱藏的連結使用者代理或IP與鄰近地區模式，持續保護資料庫的健全狀態。 檢視機器人活動統計資料，以便您了解針對每種類型識別的機器人活動數量。
+**[電子郵件機器人活動篩選增強功能](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}**:除了現有的IAB清單比對識別外，還能根據隱藏的連結使用者代理或IP與鄰近地區模式，持續保護資料庫的健全狀態。 檢視機器人活動統計資料，以便您了解針對每種類型識別的機器人活動數量。
 
-**[電子郵件追蹤連結的STS標題](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**:符合安全性最佳實務，並能套用安全傳輸安全標頭，以確保對追蹤連結的流量一律安全。
+**[電子郵件追蹤連結的STS標題](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**:符合安全性最佳實務，並能套用安全傳輸安全標頭，以確保對追蹤連結的流量一律安全。
 
 ## 新一代體驗 {#modern-ux}
 
@@ -65,8 +65,8 @@ ht-degree: 0%
 
 使用「在邀請使用者對話方塊中登入」功能，或有單一電子郵件與多位使用者相關聯的訂閱，電子郵件驗證將會與5月發行版本一致。 若訂閱中有與多個使用者相關聯的單一電子郵件，將會啟用「電子郵件驗證」功能，並要求這些使用者解決衝突，並為每位使用者使用獨特的電子郵件。 啟用「在邀請使用者對話方塊中登入」功能時，透過此功能邀請的使用者將需要有唯一的電子郵件地址。 針對透過此功能邀請的僅限API使用者，電子郵件地址不需要唯一。
 
-**封存資料夾行為變更**:在此版本中，樹狀內容功能表將不再提供在封存資料夾中建立新資產的功能。 用於建立新資產的功能表選項會針對所有資產而隱藏。 [如需詳細資訊，請前往這裡](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}。
+**封存資料夾行為變更**:在此版本中，樹狀內容功能表將不再提供在封存資料夾中建立新資產的功能。 用於建立新資產的功能表選項會針對所有資產而隱藏。 [如需詳細資訊，請前往這裡](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
 
 **_產品發行網路研討會_**
 
-[2022年3月和5月Marketo Engage發行網路研討會](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
+[2022年3月和5月Marketo Engage發行網路研討會](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}

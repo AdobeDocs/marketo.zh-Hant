@@ -2,7 +2,7 @@
 description: 電子郵件連線限制 — Marketo檔案 — 產品檔案
 title: 電子郵件連線限制
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能目前仍在測試版發行中。 若要加入此測試版，請連絡您的客戶成功經理。
+>此功能目前仍在測試中。 若要加入，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 「電子郵件連線限制」可讓Sales Connect管理員在使用Gmail或Exchange作為您的傳送管道時，設定電子郵件的傳送率，如此一來，將電子郵件傳遞至傳送管道提供者的速度，就不會超過強制的限制。
 

@@ -3,22 +3,22 @@ unique-page-id: 6095008
 description: 新增Google AdWords as a LaunchPoint服務 — Marketo檔案 — 產品檔案
 title: 將Google AdWords新增為LaunchPoint服務
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '318'
 ht-degree: 1%
 
 ---
 
 # 將Google AdWords新增為LaunchPoint服務 {#add-google-adwords-as-a-launchpoint-service}
 
-將您的Google AdWords帳戶連結至Marketo，以自動將離線轉換資料從Marketo上傳至Google AdWords。 然後，從AdWords UI中，您將可輕鬆查看哪些點按在您之後產生了合格銷售機會、機會和新客戶（或您要追蹤的任何收入階段） [新增自訂欄](https://support.google.com/adwords/answer/3073556)AdWords中的{target=&quot;_blank&quot;}。 此資訊不會顯示在Marketo UI中。
+將您的Google AdWords帳戶連結至Marketo，以自動將離線轉換資料從Marketo上傳至Google AdWords。 然後，從AdWords UI中，您將可輕鬆查看哪些點按在您之後產生了合格銷售機會、機會和新客戶（或您要追蹤的任何收入階段） [新增自訂欄](https://support.google.com/adwords/answer/3073556){target="_blank"} 在AdWords中。 此資訊不會顯示在Marketo UI中。
 
-深入了解 [Google離線轉換匯入功能](https://support.google.com/adwords/answer/2998031?hl=en){target=&quot;_blank&quot;}。
+深入了解 [Google離線轉換匯入功能](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的客戶成功經理。
+>並非所有客戶都購買過此功能。 如需詳細資訊，請聯絡Adobe帳戶團隊（您的客戶經理）。
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->您也可以整合 [Google AdWords as a Launchpoint服務，具有經理帳戶](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target=&quot;_blank&quot;}。
+>您也可以整合 [Google AdWords as a Launchpoint服務，具有經理帳戶](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
 
 1. 前往 **管理** 區段。
 
@@ -87,10 +87,10 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >[自動標籤](https://support.google.com/adwords/answer/1752125?hl=en)必須選取{target=&quot;_blank&quot;}，此功能才能運作。 必須在AdWords內停用。
+   >[自動標籤](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} 必須選取此功能才能運作。 必須在AdWords內停用。
 
 太棒了！ 現在請參閱下方的相關文章，了解如何將AdWords離線轉換對應至收入模型中。
 
 >[!MORELIKETHIS]
 >
->[在收入模型中設定Google AdWords轉換](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target=&quot;_blank&quot;}
+>[在收入模型中設定Google AdWords轉換](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}

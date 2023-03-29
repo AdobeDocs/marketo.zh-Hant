@@ -2,9 +2,9 @@
 description: 報表概述 — Marketo檔案 — 產品檔案
 title: 報表概述
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ Marketo針對不同需求提供各種報表模組。
 
 ## 基本報表 {#basic-reporting}
 
-您可以設定 [基本報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)程式內或Analytics區域中的{target=&quot;_blank&quot;}。 基本報表由不同類型的現成報表組成，可彈性地篩選、排序和調整時間範圍。
+您可以設定 [基本報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} 或Analytics區域中。 基本報表由不同類型的現成報表組成，可彈性地篩選、排序和調整時間範圍。
 
 ## 電子郵件分析 {#email-insights}
 
-使用Analytics和傳送來取得 [強大的洞察力](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target=&quot;_blank&quot;})。
+使用Analytics和傳送來取得 [強大的洞察力](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} 在來自歷史資料的電子郵件上。
 
 ## 績效分析 {#performance-insights}
 
-[績效分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target=&quot;_blank&quot;}涵蓋參與、管道和產生收入的管道效能和方案效能。
+[績效分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} 涵蓋參與、管道和產生收入的管道效能和方案效能。
 
 ## 進階BI分析報表 {#advanced-bi-analytics-reporting}
 
@@ -31,7 +31,7 @@ _(先前稱為Revenue Cycle Explorer/AdvancedReport Builder)_
 
 >[!AVAILABILITY]
 >
->並非所有客戶都購買過進階BI Analytics和進階Journey Analytics模組。 如需詳細資訊，請連絡您的客戶成功經理。
+>並非所有人都購買過進階BI Analytics和進階Journey Analytics模組。 請連絡Adobe帳戶團隊（您的客戶經理）以取得詳細資訊。
 
 追蹤行銷計畫的投資報酬率。 分析電子郵件、人員、計畫、機會、模型效能分析（公司）和模型效能分析（銷售機會）。 BI Explorer可讓您在分析區域內建立自訂報表，並使用您的資料建立圖形、圖表、樞紐和控制面板。
 

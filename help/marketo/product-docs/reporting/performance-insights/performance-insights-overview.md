@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: 效能分析概述 — Marketo檔案 — 產品檔案
 title: 績效分析概覽
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
-source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Marketo效能分析可協助您最佳化管道組合，以發揮最大效益，�
 
 >[!AVAILABILITY]
 >
->並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的客戶成功經理。
+>並非所有人都購買過此功能。 如需詳細資訊，請聯絡Adobe帳戶團隊（您的客戶經理）。
 
 「效能分析」會載入前24個月的資料。 這包括本年度至今的資料，以及前一年的資料。例如，在2019年1月31日，MPI將載入該月的資料，從2018年起每月載入一次。 2019年12月31日，MPI將每月載入2019年和2018年的資料。
 

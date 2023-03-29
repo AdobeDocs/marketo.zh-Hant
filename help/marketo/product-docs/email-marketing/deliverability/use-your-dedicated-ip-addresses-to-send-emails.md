@@ -3,9 +3,9 @@ unique-page-id: 1900587
 description: 使用您的專屬IP位址來傳送電子郵件 — Marketo檔案 — 產品檔案
 title: 使用您的專用IP位址來傳送電子郵件
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->專用IP是附加產品。 並非所有人都有資格將專屬IP新增至其程式。 您每月需要傳送超過100,000封電子郵件，並擁有穩定的行銷活動頻度，才能維護專屬的IP。 如需如何將專用IP新增至Marketo程式的詳細資訊，請洽詢您的CSM。
+>專用IP是附加產品。 並非所有人都有資格將專屬IP新增至其程式。 您每月需要傳送超過100,000封電子郵件，並擁有穩定的行銷活動頻度，才能維護專屬的IP。 請洽詢Adobe客戶團隊（您的客戶經理），以取得如何將專用IP新增至Marketo計畫的詳細資訊。
 >
 >如果您每月傳送少於100,000封電子郵件，且/或促銷活動量可變，且/或是季節性寄件者，您將無法維護專用的IP。 Marketo會為遵循嚴格最佳實務的客戶維持個別的受信任IP共用池。 如果有興趣，請填 [這份問卷](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) 以套用至Marketo的受信任IP程式。
 

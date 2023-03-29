@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: 建立可顯示方案資訊的電子郵件分析報表 — Marketo檔案 — 產品檔案
 title: 建立顯示方案資訊的電子郵件分析報表
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的客戶成功經理。
+>並非所有人都購買過此功能。 如需詳細資訊，請聯絡Adobe帳戶團隊（您的客戶經理）。
 
 1. Launch **收入總管**.
 

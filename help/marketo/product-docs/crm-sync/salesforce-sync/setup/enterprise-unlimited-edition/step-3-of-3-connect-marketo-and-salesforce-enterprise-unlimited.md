@@ -3,9 +3,9 @@ unique-page-id: 2360366
 description: 第3步（共3步） — 連接Marketo和Salesforce（企業版/無限製版） — Marketo檔案 — 產品檔案
 title: 第3步（共3步） — 連接Marketo和Salesforce（企業版/不限數量）
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
-source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果您看到「登入Salesforce」按鈕（而非「使用者名稱/密碼/代號」欄位），表示您的Marketo訂閱已針對OAuth啟用。 請 [請參閱本文章](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). 一旦開始使用一組憑據， **沒有切換Salesforce憑據或訂閱**. 如果您想使用基本驗證，請洽詢您的客戶成功經理。
+   >如果您看到「登入Salesforce」按鈕（而非「使用者名稱/密碼/代號」欄位），表示您的Marketo訂閱已針對OAuth啟用。 請 [請參閱本文章](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). 一旦開始使用一組憑據， **沒有切換Salesforce憑據或訂閱**. 如果您想使用基本驗證，請聯絡Adobe帳戶團隊（您的帳戶管理員）。
 
 1. 閱讀警告，然後按一下 **確認憑證**.
 

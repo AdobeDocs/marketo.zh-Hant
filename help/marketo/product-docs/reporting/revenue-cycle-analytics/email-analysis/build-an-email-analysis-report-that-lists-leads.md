@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: 建立列出銷售機會的電子郵件分析報表 — Marketo檔案 — 產品檔案
 title: 建立列出銷售機會的電子郵件分析報表
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的客戶成功經理。
+>並非所有人都購買過此功能。 如需詳細資訊，請聯絡Adobe帳戶團隊（您的客戶經理）。
 
 >[!NOTE]
 >

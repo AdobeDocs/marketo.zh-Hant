@@ -3,9 +3,9 @@ unique-page-id: 11379622
 description: 設定Facebook銷售機會廣告 — Marketo檔案 — 產品檔案
 title: 設定Facebook銷售機會廣告
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->若要將Facebook銷售機會廣告新增至您的執行個體，請連絡您的客戶成功經理。
+>若要將Facebook銷售機會廣告新增至您的執行個體，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 1. 前往Marketo **管理**.
 

@@ -2,9 +2,9 @@
 description: 非原生MS Dynamics整合的Sales Insight - Marketo檔案 — 產品檔案
 title: 非原生MS Dynamics整合的Sales Insight
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
-source-git-commit: 3a62fe40856b9b3f2eab61e22eaa38e1b9c44d7e
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '1442'
+source-wordcount: '1413'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 在開始設定MSI之前，為您的Marketo實例啟用了「MSI非本地」功能(如果沒有，並且您已購買了該功能，請聯繫 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} — 如果您尚未購買此功能，請連絡您的客戶成功經理)。
->* 下載 [用於自定義同步的MSI包](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}。
->* MSI安裝程式的MS Dynamics訂閱(我們僅支援 [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target=&quot;_blank&quot;})。
->* Marketo REST API [已成功設定](https://developers.marketo.com/rest-api/){target=&quot;_blank&quot;}。 公開的CRUD API將是執行非原生同步的基礎。
->* 閱讀 [此部落格貼文](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target=&quot;_blank&quot;}，以了解物件和關係。
+>* 在開始設定MSI之前，為您的Marketo實例啟用了「MSI非本地」功能。 如果尚未購買，而您已購買功能，請聯絡 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. 如果您尚未購買此功能，請連絡Adobe帳戶團隊（您的客戶經理）。
+>* 下載 [用於自定義同步的MSI包](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+>* MSI安裝程式的MS Dynamics訂閱(我們僅支援 [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} 此時)。
+>* Marketo REST API [已成功設定](https://developers.marketo.com/rest-api/){target="_blank"}. 公開的CRUD API將是執行非原生同步的基礎。
+>* 閱讀 [此部落格貼文](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} 以便了解對象和關係。
 
 
 ## MSI的非本機同步成功需要以下條件 {#successful-non-native-sync-for-msi-requires-the-following}
@@ -48,8 +48,8 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * 銷售人員的API檔案： [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/){target=&quot;_blank&quot;}
-   * 用於同步銷售人員的API檔案： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST){target=&quot;_blank&quot;}
+   * 銷售人員的API檔案： [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/){target="_blank"}
+   * 用於同步銷售人員的API檔案： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. 將MS Dynamics帳戶同步至Marketo。
 
@@ -80,8 +80,8 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * 適用於公司的API檔案： [https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/){target=&quot;_blank&quot;}
-   * 同步公司的API檔案： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST){target=&quot;_blank&quot;}
+   * 適用於公司的API檔案： [https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/){target="_blank"}
+   * 同步公司的API檔案： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST){target="_blank"}
 
 1. 將MS Dynamics銷售線索/聯繫人同步到Marketo。
 
@@ -117,8 +117,8 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * 銷售機會的API檔案： [https://developers.marketo.com/rest-api/lead-database/leads/](https://developers.marketo.com/rest-api/lead-database/leads/){target=&quot;_blank&quot;}
-   * 同步銷售機會的API檔案： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST){target=&quot;_blank&quot;}
+   * 銷售機會的API檔案： [https://developers.marketo.com/rest-api/lead-database/leads/](https://developers.marketo.com/rest-api/lead-database/leads/){target="_blank"}
+   * 同步銷售機會的API檔案： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST){target="_blank"}
 
 1. 將MS Dynamics Opportunities同步到Marketo。
 
@@ -154,8 +154,8 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * Opportunity的API文檔： [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target=&quot;_blank&quot;}
-   * 用於同步商機的API文檔： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST){target=&quot;_blank&quot;}
+   * Opportunity的API文檔： [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
+   * 用於同步商機的API文檔： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 將MS Dynamics聯繫人角色同步到Marketo。
 
@@ -191,8 +191,8 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * Opportunity的API文檔： [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target=&quot;_blank&quot;}
-   * 用於同步商機的API文檔： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST){target=&quot;_blank&quot;}
+   * Opportunity的API文檔： [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
+   * 用於同步商機的API文檔： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 將上一個有趣的時刻/MSI計分欄位同步到MS Dynamics。
 
@@ -255,5 +255,5 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * Lead REST API的檔案： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target=&quot;_blank&quot;}。
+   * Lead REST API的檔案： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target="_blank"}.
    正確使用外部欄位是成功進行非原生同步的關鍵。 如果您在某些檢視中看不到資料，可能會有特定欄位未正確同步。 例如，如果銷售機會的活動和有趣的時刻在其帳戶下查看MSI小工具時未顯示，則銷售機會的公司或帳戶可能未正確同步。 在指定外部欄位時執行此銷售機會的GET請求將有助於您驗證銷售機會是否正確同步。 此外，Marketo中外部銷售人員的電子郵件必須符合MS Dynamics中該使用者的電子郵件。 如果電子郵件不相符，資料可能不會顯示在MS Dynamics的「Marketo」標籤中。

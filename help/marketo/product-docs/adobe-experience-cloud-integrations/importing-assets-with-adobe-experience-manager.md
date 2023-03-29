@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: 使用Adobe Experience Manager匯入資產 — Marketo檔案 — 產品檔案
 title: 使用Adobe Experience Manager匯入資產
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的客戶成功經理。
+>並非所有人都購買過此功能。 如需詳細資訊，請聯絡Adobe帳戶團隊（您的客戶經理）。
 
 >[!PREREQUISITES]
 >

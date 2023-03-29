@@ -4,9 +4,9 @@ title: 設定事件上限
 hide: true
 hidefromtoc: true
 exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
-source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的客戶成功經理。
+>並非所有人都購買過此功能。 如需詳細資訊，請聯絡Adobe帳戶團隊（您的客戶經理）。
 
 >[!IMPORTANT]
 >程式中必須至少有兩個已核准的登錄頁面（註冊頁面和註冊完整頁面），您才能設定事件上限。

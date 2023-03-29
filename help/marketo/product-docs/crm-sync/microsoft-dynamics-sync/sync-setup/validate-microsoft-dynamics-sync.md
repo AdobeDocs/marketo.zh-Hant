@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: 驗證Microsoft Dynamics同步 — Marketo檔案 — 產品檔案
 title: 驗證Microsoft Dynamics同步
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >我們目前不支援Marketo Dynamics Sync的沙箱重新整理。 如果您需要重新整理Dynamics CRM沙箱，則需要新的Marketo沙箱。 如需詳細資訊，請連絡您的客戶成功經理。
+   >我們目前不支援Marketo Dynamics Sync的沙箱重新整理。 如果您需要重新整理Dynamics CRM沙箱，則需要新的Marketo沙箱。 如需詳細資訊，請連絡Adobe客戶團隊（您的客戶經理）。
 
 >[!MORELIKETHIS]
 >

@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: 參與控制面板 — Marketo檔案 — 產品檔案
 title: 參與控制面板
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能是使用Marketo收入週期總管的客戶的附加元件。 如需詳細資訊，請連絡您的客戶成功經理。
+>此功能是使用Marketo收入週期總管的客戶的附加元件。 如需詳細資訊，請連絡Adobe客戶團隊（您的客戶經理）。
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 

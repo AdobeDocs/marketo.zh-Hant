@@ -3,9 +3,9 @@ unique-page-id: 13795395
 description: 發行說明 — 18年冬季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2018年冬季
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '598'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Marketo善用我們的大資料架構，提高觸發式行銷活動的吞吐量�
 
 >[!AVAILABILITY]
 >
->績效分析是一項附加產品。 如需報價，請連絡您的Marketo客戶成功經理或客戶經理。
+>績效分析是一項附加產品。 如需報價，請連絡您的Marketo客戶經理或客戶經理。
 
 透過歸因分析、互動式視覺效果和詳細資料表格，探索行銷活動和管道對業務結果有何影響。
 

@@ -3,24 +3,24 @@ unique-page-id: 7504893
 description: 使用經理帳戶新增Google AdWords as a Launchpoint服務 — Marketo檔案 — 產品檔案
 title: 以Manager帳戶將Google AdWords新增為Launchpoint服務
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '359'
 ht-degree: 1%
 
 ---
 
 # 以Manager帳戶將Google AdWords新增為Launchpoint服務 {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-將您的Google AdWords帳戶連結至Marketo，以自動將離線轉換資料從Marketo上傳至Google AdWords。 然後，從AdWords UI中，您將可輕鬆查看哪些點按在您之後產生了合格銷售機會、機會和新客戶（或您要追蹤的任何收入階段）  [新增自訂欄](https://support.google.com/adwords/answer/3073556)AdWords中的{target=&quot;_blank&quot;}。 此資訊不會顯示在Marketo UI中。
+將您的Google AdWords帳戶連結至Marketo，以自動將離線轉換資料從Marketo上傳至Google AdWords。 然後，從AdWords UI中，您將可輕鬆查看哪些點按在您之後產生了合格銷售機會、機會和新客戶（或您要追蹤的任何收入階段）  [新增自訂欄](https://support.google.com/adwords/answer/3073556){target="_blank"} 在AdWords中。 此資訊不會顯示在Marketo UI中。
 
-如果您有多個Google Adwords帳戶，則可使用 [Google AdWords管理員帳戶](https://www.google.com/adwords/manager-accounts/){target=&quot;_blank&quot;}（先前稱為My Client Center），以將其與Marketo整合。
+如果您有多個Google Adwords帳戶，則可使用 [Google AdWords管理員帳戶](https://www.google.com/adwords/manager-accounts/){target="_blank"} （舊稱「My Client Center」），將其與Marketo整合。
 
-深入了解 [Google離線轉換匯入功能](https://support.google.com/adwords/answer/2998031?hl=en){target=&quot;_blank&quot;}。
+深入了解 [Google離線轉換匯入功能](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的客戶成功經理。
+>並非所有客戶都購買過此功能。 如需詳細資訊，請聯絡Adobe帳戶團隊（您的客戶經理）。
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->您也可以整合 [獨立的Google AdWords帳戶作為Launchpoint服務](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target=&quot;_blank&quot;}。
+>您也可以整合 [獨立的Google AdWords帳戶作為Launchpoint服務](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
 
 1. 前往 **管理** 區段。
 
@@ -81,7 +81,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >[自動標籤](https://support.google.com/adwords/answer/1752125?hl=en)必須選取{target=&quot;_blank&quot;}，此功能才能運作。 必須在AdWords內啟動。
+   >[自動標籤](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} 必須選取此功能才能運作。 必須在AdWords內啟動。
 
 1. 按一下 **下一個**.
 
@@ -95,4 +95,4 @@ ht-degree: 1%
 
    >[!MORELIKETHIS]
    >
-   >[在收入模型中使用經理帳戶設定Google AdWords轉換](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target=&quot;_blank&quot;}
+   >[在收入模型中使用經理帳戶設定Google AdWords轉換](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
