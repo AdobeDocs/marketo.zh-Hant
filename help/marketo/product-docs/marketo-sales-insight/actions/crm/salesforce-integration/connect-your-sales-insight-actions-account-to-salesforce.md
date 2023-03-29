@@ -1,10 +1,8 @@
 ---
 description: 將您的Sales Insight Actions帳戶連結至Salesforce - Marketo檔案 — 產品檔案
 title: 將Sales Insight Actions帳戶連接到Salesforce
-hide: true
-hidefromtoc: true
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
-source-git-commit: 238e2049ecb70c8fdc6d0d9c2fae8b7b99fcc17f
+source-git-commit: b490b10c5544defaad50163fa29bfd0c2ca0d902
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
