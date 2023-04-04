@@ -2,10 +2,10 @@
 description: 篩選電子郵件機器人活動 — Marketo檔案 — 產品檔案
 title: 篩選電子郵件機器人活動
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: f5a4fa76510cc70fe5b4746d58c6e0d4daf93a72
+source-git-commit: 792db38ec0891d4a6de5a8d0bd746bd7bb429edb
 workflow-type: tm+mt
-source-wordcount: '317'
-ht-degree: 0%
+source-wordcount: '416'
+ht-degree: 3%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 我們使用三種不同的方法來確認機器人活動：
 
-* 符合 [Interactive Advertising Bureau機器人清單](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;}:與IAB UA/IP（使用者代理/IP位址）清單上任何項目相符的活動，會標示為機器人。
+* 符合 [Interactive Advertising Bureau機器人清單](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}:與IAB UA/IP（使用者代理/IP位址）清單上任何項目相符的活動，會標示為機器人。
 * 與鄰近地區模式匹配：同時發生兩個以上活動時（在一秒以下），即會識別為機器人。 比較期間考慮的屬性包括：
    * 銷售機會ID（應相同）
    * 電子郵件資產（應相同）
@@ -53,3 +53,28 @@ ht-degree: 0%
 >[!TIP]
 >
 >透過「已點按電子郵件中的連結」和「開啟電子郵件」篩選器中的「是/否」布林值（是/否）和「機器人活動模式」，以及「點按電子郵件中的連結」和「開啟電子郵件」觸發器，在智慧清單中運用機器人活動資料。
+
+## IP封鎖名單 {#ip-blocklist}
+
+我們已編譯IP位址清單，這些位址會產生數百萬個假參與，因為從下列任何IP收到的參與都會自動篩選掉，而不會新增至您的Marketo Engage執行個體。 這可能會減少電子郵件開啟、點按和其他相關活動。 以下清單可定期更新。
+
+* 209.222.82.126
+* 209.222.82.127
+* 209.222.82.128
+* 209.222.82.129
+* 209.222.82.138
+* 209.222.82.139
+* 209.222.82.140
+* 209.222.82.141
+* 209.222.82.228
+* 209.222.82.229
+* 209.222.82.230
+* 209.222.82.231
+* 209.222.82.232
+* 209.222.82.233
+* 209.222.82.234
+* 209.222.82.235
+
+>[!NOTE]
+>
+>在將每個IP地址添加到此清單之前，我們會仔細分析和仔細檢查該地址，確保僅阻止最關鍵和有害的IP。
