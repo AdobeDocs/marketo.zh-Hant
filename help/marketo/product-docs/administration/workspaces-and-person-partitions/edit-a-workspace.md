@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: 編輯工作區 — Marketo檔案 — 產品檔案
 title: 編輯工作區
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,17 @@ ht-degree: 0%
 >
 >在工作區上使用 [了解工作區和人員分區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. 在 **管理**，按一下 **工作區與分區**.
+1. 前往 **管理** 的上界。
 
-   ![](assets/image2014-9-17-11-3a59-3a11-1.png)
+   ![](assets/edit-a-workspace-1.png)
+
+1. 按一下 **工作區與分區**.
+
+   ![](assets/edit-a-workspace-2.png)
 
 1. 選擇要編輯的工作區，然後按一下 **編輯工作區**.
 
-   ![](assets/two-7.png)
+   ![](assets/edit-a-workspace-3.png)
 
 1. 您可以選擇不同的銷售機會分區，並從下拉式清單中選擇不同的主要人員分區。
 
@@ -36,7 +40,7 @@ ht-degree: 0%
    >
    >您可以 [建立更多人員分區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) 如果你需要。
 
-   ![](assets/three-7.png)
+   ![](assets/edit-a-workspace-4.png)
 
    >[!NOTE]
    >
@@ -48,7 +52,7 @@ ht-degree: 0%
 
    如果您啟用了多個品牌域，則可以更改為不同的主品牌域。 按一下 **儲存**.
 
-   ![](assets/four-6.png)
+   ![](assets/edit-a-workspace-5.png)
 
    >[!NOTE]
    >

@@ -3,10 +3,10 @@ unique-page-id: 2953120
 description: 了解智慧型行銷活動 — Marketo檔案 — 產品檔案
 title: 了解智慧型行銷活動
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
-source-git-commit: 381e243a39b8249e88f06eeb1dcfc4863e3a497c
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 1%
 
 如果Marketo是一輛強大的汽車，那麼智慧的宣傳就是真正的引擎。 開始使用很簡單，但幾乎可以做任何你要求的事情。
 
-智慧型行銷活動有3個主要領域：此 [智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [流量](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target=&quot;_blank&quot;}和 [排程](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target=&quot;_blank&quot;}標籤。
+智慧型行銷活動有3個主要領域：此 [智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} 標籤。
 
 ## 智慧清單 {#smart-list}
 
-智慧清單是您如何定義要透過智慧行銷活動鎖定的對象。 它有篩選器和觸發器。
+智慧清單是定義 _誰_ 您想要使用智慧型行銷活動來鎖定目標。 它有篩選器和觸發器。
 
 <table> 
  <tbody> 
@@ -42,7 +42,7 @@ ht-degree: 1%
 
 您可以以多種方式結合篩選器，並搭配觸發器使用篩選器。 這是一個強大的工具 — 用它做實驗。
 
-## 流量 {#flow}
+## 流程 {#flow}
 
 流程包括您希望智慧型促銷活動執行的步驟，包括等待步驟和分割選擇。
 
@@ -58,4 +58,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[建立新的智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target=&quot;_blank&quot;}
+>[建立新的智慧型促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}

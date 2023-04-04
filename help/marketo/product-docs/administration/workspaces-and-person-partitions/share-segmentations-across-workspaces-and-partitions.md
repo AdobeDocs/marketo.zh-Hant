@@ -3,9 +3,9 @@ unique-page-id: 7515767
 description: 跨工作區和分區共用區段 — Marketo檔案 — 產品檔案
 title: 在工作區和分區間共用區段
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 4d4d87d2a03bc0966a6e77d97cb68a2c38a3c676
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -49,35 +49,35 @@ Marketo擅長挑選適合的人來參與項目或明智的宣傳活動。 不過
 
 ## 範例案例 {#example-scenarios}
 
-![](assets/image2015-5-27-16-3a26-3a25.png)
+![](assets/share-segmentations-across-workspaces-and-partitions-1.png)
 
-![](assets/image2015-5-27-16-3a26-3a48.png)
+![](assets/share-segmentations-across-workspaces-and-partitions-2.png)
 
 ## 共用區段 {#share-a-segmentation}
 
 1. 前往 **資料庫**.
 
-   ![](assets/image2017-3-29-8-3a15-3a40.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
 1. 按一下右鍵 **區段** 選取 **新資料夾**.
 
-   ![](assets/image2017-3-29-8-3a40-3a31.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. 為您要在各工作區間共用的資料夾命名(範例：共用區段)。
+1. 為您要在各工作區間共用的資料夾命名(範例：共用區段)，然後按一下 **建立**.
 
-   ![](assets/image2017-3-29-8-3a40-3a45.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
 1. 將您要共用的區段移至資料夾。
 
-   ![](assets/image2017-3-29-8-3a41-3a3.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
 1. 以滑鼠右鍵按一下資料夾並選取 **共用資料夾**.
 
-   ![](assets/image2017-3-29-8-3a41-3a19.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
 1. 選取要共用資料夾的工作區。 按一下 **儲存**.
 
-   ![](assets/share-segmentations-across-workspaces-and-partitions.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 
    >[!NOTE]
    >

@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: 了解批次和觸發智慧型行銷活動 — Marketo檔案 — 產品檔案
 title: 了解批次和觸發智慧型促銷活動
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ ht-degree: 0%
 
 批次智慧型促銷活動在智慧型清單區段內只會有篩選器（亦即沒有觸發器）。
 
-![](assets/batch-filter.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
 按一下 **排程** 標籤會確認智慧型促銷活動已設為「批次」。
 
-![](assets/batch-c4.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **批次智慧型促銷活動**
 
@@ -47,11 +47,11 @@ ht-degree: 0%
 
 如果智慧型促銷活動在智慧型清單區段內使用至少一個觸發器，則模式會自動設為觸發。
 
-![](assets/trigger.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
 按一下 **排程** 標籤會確認智慧型促銷活動已設為「已觸發」。
 
-![](assets/trigger2.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **觸發智慧型行銷活動**
 
