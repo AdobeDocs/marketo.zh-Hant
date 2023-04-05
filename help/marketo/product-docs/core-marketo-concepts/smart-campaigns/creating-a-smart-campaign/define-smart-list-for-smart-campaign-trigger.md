@@ -3,24 +3,24 @@ unique-page-id: 1146942
 description: 定義智慧促銷活動的智慧清單 |觸發器 — Marketo檔案 — 產品檔案
 title: 定義智慧促銷活動的智慧清單 |觸發
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-source-git-commit: a15a4b9bccb069b51186aac7b913008d15aa645e
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # 定義智慧促銷活動的智慧清單 |觸發 {#define-smart-list-for-smart-campaign-trigger}
 
-透過新增觸發器，根據即時事件，一次在一個人上執行智慧型促銷活動。
+透過新增觸發器，讓智慧型促銷活動根據即時事件一次在一個人上執行。
 
-1. 在您的智慧型行銷活動中，按一下 **智慧清單** 標籤。
+1. 在您的智慧行銷活動中，按一下 **智慧清單** 標籤。
 
-   ![](assets/image2014-9-19-16-3a22-3a55.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
-1. 搜尋觸發器，然後將觸發器拖放至畫布。
+1. 搜尋所需觸發器，並將其拖放至畫布。
 
-   ![](assets/image2014-9-19-16-3a23-3a24.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-2.png)
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 1. 按一下下拉式清單，然後選擇運算子。
 
-   ![](assets/image2014-9-19-16-3a23-3a29.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-3.png)
 
    >[!CAUTION]
    >
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 1. 定義觸發器。
 
-   ![](assets/image2014-9-19-16-3a24-3a36.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-4.png)
 
    >[!NOTE]
    >

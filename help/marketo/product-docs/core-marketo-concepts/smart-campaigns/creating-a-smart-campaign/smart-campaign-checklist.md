@@ -3,9 +3,9 @@ unique-page-id: 1147051
 description: 智慧型行銷活動檢查清單 — Marketo檔案 — 產品檔案
 title: 智慧型行銷活動檢查清單
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 在您的智慧行銷活動中，按一下 **智慧清單**. 修正錯誤，移除您看到的任何紅色曲線。
 
-![](assets/image2014-9-22-16-3a9-3a13.png)
+![](assets/smart-campaign-checklist-1.png)
 
 >[!TIP]
 >
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 在您的智慧行銷活動中，按一下 **流量**. 修正錯誤，移除您看到的任何紅色曲線。
 
-![](assets/image2014-9-22-16-3a10-3a49.png)
+![](assets/smart-campaign-checklist-2.png)
 
 >[!TIP]
 >
@@ -42,24 +42,24 @@ ht-degree: 0%
 
 ## 查看「計畫」頁簽 {#review-the-schedule-tab}
 
-在 **排程** 標籤，核取 **智慧** **清單** **狀態** 以解決智慧型行銷活動中需要修正的任何錯誤。
+在 **排程** 標籤，核取 **智慧** **清單** **狀態** 以解決智慧型促銷活動中需要修正的任何錯誤。
 
-![](assets/three.png)
+![](assets/smart-campaign-checklist-3.png)
 
 ## 檢查人員限制 {#check-person-restrictions-limit}
 
 在 **排程** 標籤，確定合格人員的數量未超過人員限制限制。
 
-![](assets/four.png)
+![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->如果需要，您可以  [在智慧型行銷活動中覆寫人員限制](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>如果需要，您可以 [覆寫智慧型促銷活動中的人員限制](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
 >**提醒**
 >
->如果您的智慧行銷活動仍然失敗，請了解如何 [了解通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 找出問題出在哪裡，如何解決。
+>如果您的Smart Campaign仍然失敗，請了解如何 [了解通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 找出問題出在哪裡，如何解決。
 
-幹得好！ 在執行智慧行銷活動之前，請先保持此檢查清單的便利性。
+幹得好！ 在執行智慧行銷活動之前，請先保留此檢查清單。
