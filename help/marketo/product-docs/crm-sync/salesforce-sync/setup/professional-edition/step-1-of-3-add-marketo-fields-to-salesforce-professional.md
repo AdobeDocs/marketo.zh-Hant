@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: 第1步（共3步） — 將Marketo欄位新增至Salesforce（專業版） — Marketo檔案 — 產品檔案
 title: 第1步（共3步） — 將Marketo欄位添加到Salesforce（專業版）
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
+source-git-commit: e84b8e03ce87f8aa0f16d2b0f22ee992e4151a55
 workflow-type: tm+mt
-source-wordcount: '798'
+source-wordcount: '782'
 ht-degree: 5%
 
 ---
@@ -251,13 +251,10 @@ Salesforce中潛在客戶物件上的自訂欄位應對應至聯繫人物件上�
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. 對您建立的任何其他欄位重複上述步驟。
+
 1. 完成後，按一下「儲存」 。
 
 夠輕鬆的，對吧？
-
->[!NOTE]
->
->這是 [整個過程的視頻](https://nation.marketo.com/videos/1475) 這應該能夠清楚！
 
 >[!MORELIKETHIS]
 >
