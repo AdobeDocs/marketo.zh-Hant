@@ -3,7 +3,7 @@ unique-page-id: 1146991
 description: 停用觸發程式智慧型促銷活動 |排程標籤 — Marketo檔案 — 產品檔案
 title: 停用觸發程式智慧型促銷活動 |計畫頁簽
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 1. 尋找並選取您作用中的觸發程式促銷活動。
 
-   ![](assets/selectprogram-hands.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 
 1. 在「排程」標籤下，按一下 **停用**.
 
-   ![](assets/deactivateprogram-hands.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
 1. 按一下以確認 **停用**.
 
-   ![](assets/image2014-9-22-13-3a59-3a6.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-3.png)
 
 >[!NOTE]
 >
