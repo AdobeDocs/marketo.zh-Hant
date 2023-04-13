@@ -3,9 +3,9 @@ unique-page-id: 4720710
 description: 設定電子郵件傳遞的SPF和DKIM - Marketo檔案 — 產品檔案
 title: 設定SPF和DKIM以傳遞電子郵件
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
-source-git-commit: de32becbfe74c2a88c53de8af8be4ee022782114
+source-git-commit: c69d04702a5191f2809cc308e48acfeab7edfc7f
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -46,12 +46,11 @@ DKIM是驗證通訊協定，電子郵件接收者用來判斷電子郵件訊息�
 
 **如何設定DKIM?**
 
-請參閱 [設定自訂DKIM簽名](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md).
+請參閱 [設定自訂DKIM簽名](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [了解SPF及其運作方式的更多資訊](http://www.open-spf.org/Introduction/)
->* [Marketo的電子郵件傳遞工具](https://www.marketo.com/software/email-marketing/email-deliverability/)
->* [我的SPF設定正確嗎？](https://www.kitterman.com/spf/validate.html)
->* [我使用正確的語法嗎？](http://www.open-spf.org/SPF_Record_Syntax/)
+>* [了解SPF及其運作方式的更多資訊](http://www.open-spf.org/Introduction/){target="_blank"}
+>* [我的SPF設定正確嗎？](https://www.kitterman.com/spf/validate.html){target="_blank"}
+>* [我使用正確的語法嗎？](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}
 
