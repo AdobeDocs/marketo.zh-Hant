@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
 workflow-type: tm+mt
-source-wordcount: '8868'
+source-wordcount: '8863'
 ht-degree: 0%
 
 ---
@@ -694,7 +694,7 @@ ht-degree: 0%
             + [將國家/地區選擇清單添加到表單](product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
             + [將RTF新增至表單](product-docs/demand-generation/forms/form-actions/add-rich-text-to-a-form.md)
             + [更改表單的地區](product-docs/demand-generation/forms/form-actions/change-a-forms-locale.md)
-            + [更改表單驗證/錯誤消息和提交按鈕的語言](product-docs/demand-generation/forms/form-actions/change-the-language-of-form-validation-error-messages-and-submit-button.md)
+            + [變更表單語言](product-docs/demand-generation/forms/form-actions/change-the-language-of-a-form.md)
             + [配置表單漸進效能分析](product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md)
             + [定義單選欄位或表單中選定欄位的值](product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.md)
             + [刪除表單](product-docs/demand-generation/forms/form-actions/delete-a-form.md)
