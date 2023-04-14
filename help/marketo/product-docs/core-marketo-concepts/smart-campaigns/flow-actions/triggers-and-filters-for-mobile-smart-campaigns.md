@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: 行動智慧行銷活動的觸發器和篩選器 — Marketo檔案 — 產品檔案
 title: 行動智慧型行銷活動的觸發器和篩選器
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -28,13 +28,13 @@ ht-degree: 0%
 
 搜尋 **行動應用程式** 列出所有行動應用程式觸發器和篩選器。
 
-![](assets/image2015-8-12-17-3a25-3a18.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
 ## 限制 {#constraints}
 
 使用觸發器和篩選器的限制來進一步排序資料。
 
-![](assets/image2015-8-17-12-3a6-3a33.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-2.png)
 
 除「已傳送推播通知」外，所有觸發器和篩選器都包含以下兩個標準限制：
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 **限制**:裝置類型、平台、行動應用程式、行動應用程式版本、裝置類型、安裝來源、已啟用推送，且地區設定
 
-![](assets/image2015-8-21-13-3a33-3a54.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
 >[!TIP]
 >
@@ -86,7 +86,7 @@ ht-degree: 0%
 
 **限制**:裝置類型、平台、應用程式版本、地區設定和安裝來源
 
-![](assets/image2015-8-17-13-3a11-3a3.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
 已開啟行動應用程式
 
@@ -98,7 +98,7 @@ ht-degree: 0%
 
 **限制**:裝置類型與平台
 
-![](assets/image2015-8-17-13-3a13-3a55.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 有/有行動應用程式活動
 
@@ -138,7 +138,7 @@ ht-degree: 0%
 
 以下是Marketo中篩選器的外觀：
 
-![](assets/image2015-8-17-13-3a16-3a12.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
 
 >[!NOTE]
 >
@@ -163,7 +163,7 @@ ht-degree: 0%
 
 **限制**:裝置類型、平台和工作階段長度（秒）
 
-![](assets/image2015-8-17-13-3a18-3a34.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
 點選/點選推播通知
 
@@ -175,7 +175,7 @@ ht-degree: 0%
 
 **限制**:裝置類型、平台、行動應用程式版本、推播通知和平台版本
 
-![](assets/image2015-8-21-14-3a2-3a24.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
 >[!TIP]
 >
@@ -189,7 +189,7 @@ ht-degree: 0%
 
 **限制**:推播通知和行動應用程式
 
-![](assets/image2015-8-21-14-3a3-3a50.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
