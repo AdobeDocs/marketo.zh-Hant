@@ -3,9 +3,9 @@ unique-page-id: 9437991
 description: 行動智慧行銷活動的觸發器和篩選器 — Marketo檔案 — 產品檔案
 title: 行動智慧型行銷活動的觸發器和篩選器
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '823'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 0%
 >
 >篩選器會找出目前和之前的安裝，因為Marketo不會追蹤應用程式的卸載。
 
-**限制**:裝置類型、平台、行動應用程式、行動應用程式版本、裝置類型、安裝來源、已啟用推送，且地區設定
+**限制**  — 裝置類型、平台、行動應用程式、行動應用程式版本、裝置類型、安裝來源、已啟用推送，且地區設定
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -84,7 +84,7 @@ ht-degree: 0%
 
 * 未安裝行動應用程式 — 閒置篩選器
 
-**限制**:裝置類型、平台、應用程式版本、地區設定和安裝來源
+**限制**  — 設備類型、平台、應用程式版本、區域設定和安裝源
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -96,7 +96,7 @@ ht-degree: 0%
 
 * 未開啟行動應用程式 — 閒置篩選器
 
-**限制**:裝置類型與平台
+**限制**  — 裝置類型和平台
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
@@ -110,7 +110,7 @@ ht-degree: 0%
 
 * 沒有行動應用程式活動 — 閒置篩選器
 
-**限制**:裝置類型和平台，再加上5個額外類型：
+**限制**  — 裝置類型、平台、行動應用程式版本、地區、平台版本，加上五個額外版本：
 
 * 動作 — 自訂行動活動
 
@@ -161,7 +161,7 @@ ht-degree: 0%
 
 * 沒有行動應用程式工作階段 — 閒置篩選
 
-**限制**:裝置類型、平台和工作階段長度（秒）
+**限制**  — 裝置類型、平台和工作階段長度（秒）
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
@@ -173,7 +173,7 @@ ht-degree: 0%
 
 * 未點選推播通知 — 閒置篩選
 
-**限制**:裝置類型、平台、行動應用程式版本、推播通知和平台版本
+**限制**  — 裝置類型、平台、行動應用程式版本、推播通知和平台版本
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 * 未傳送推播通知 — 閒置篩選器
 
-**限制**:推播通知和行動應用程式
+**限制**  — 推播通知和行動應用程式
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
