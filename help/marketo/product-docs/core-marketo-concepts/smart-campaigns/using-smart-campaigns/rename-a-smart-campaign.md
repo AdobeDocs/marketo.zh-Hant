@@ -3,7 +3,7 @@ unique-page-id: 1147049
 description: 重新命名智慧型行銷活動 — Marketo檔案 — 產品檔案
 title: 重新命名智慧型促銷活動
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -16,19 +16,19 @@ ht-degree: 0%
 
 1. 前往 **行銷活動**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/rename-a-smart-campaign-1.png)
 
 1. 選取您的智慧型促銷活動，然後按一下其名稱。
 
-   ![](assets/renamecampaign-hands.png)
+   ![](assets/rename-a-smart-campaign-2.png)
 
    >[!TIP]
    >
-   >方案內的智慧型行銷活動名稱一律會轉譯為「ProgramName.CampaignName」格式。
+   >方案內的智慧型行銷活動名稱一律轉譯為「ProgramName.CampaignName」格式。
 
 1. 輸入新的智慧型促銷活動名稱，然後按一下 **儲存**.
 
-   ![](assets/rename-cursorandhand.png)
+   ![](assets/rename-a-smart-campaign-3.png)
 
    >[!NOTE]
    >
