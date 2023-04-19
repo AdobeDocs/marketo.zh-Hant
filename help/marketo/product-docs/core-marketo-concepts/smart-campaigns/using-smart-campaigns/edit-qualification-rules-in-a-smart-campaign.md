@@ -3,7 +3,7 @@ unique-page-id: 1146974
 description: 在智慧型行銷活動中編輯資格規則 — Marketo檔案 — 產品檔案
 title: 在智慧型行銷活動中編輯資格規則
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 1. 在您的智慧型行銷活動中，按一下 **排程** 標籤，然後 **編輯設定**.
 
-   ![](assets/programeditsettings-hands.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 1. 選擇透過智慧行銷活動流程執行人員的頻率： **僅一次**, **每次都**，或 **每天**/**周**/**月份**.
 
-   ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
