@@ -3,7 +3,7 @@ unique-page-id: 1146933
 description: 立即執行批次智慧型促銷活動 |排程標籤 — Marketo檔案 — 產品檔案
 title: 立即執行批次智慧型促銷活動 |計畫頁簽
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 1. 選取批次智慧型促銷活動，前往 **排程** 按一下 **執行一次**.
 
-   ![](assets/runcampaignnow-hands.png)
+   ![](assets/run-a-batch-smart-campaign-now-schedule-tab-1.png)
 
 1. 請確定 **立即運行** 已選取，請按一下 **執行**.
 
-   ![](assets/image2014-9-19-15-3a57-3a4.png)
+   ![](assets/run-a-batch-smart-campaign-now-schedule-tab-2.png)
 
 1. 按一下以確認 **執行** 再來一次。
 
-   ![](assets/image2014-9-19-15-3a57-3a19.png)
+   ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 
    小菜一碟！ 您也可以 [排程稍後執行](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md) 如果你願意的話。
 
