@@ -1,10 +1,11 @@
 ---
 description: 發行說明 — 2023年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2023年3月
-source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
+exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
+source-git-commit: 9eef992dbaf5561df7732ae6edae848d48803a3c
 workflow-type: tm+mt
-source-wordcount: '617'
-ht-degree: 6%
+source-wordcount: '615'
+ht-degree: 5%
 
 ---
 
@@ -46,8 +47,8 @@ ht-degree: 6%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已發運</td>
+   <td>不適用</td>
   </tr>
   </tbody>
 </table>
@@ -60,8 +61,8 @@ ht-degree: 6%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已發運</td>
+   <td>不適用</td>
   </tr>
   </tbody>
 </table>
