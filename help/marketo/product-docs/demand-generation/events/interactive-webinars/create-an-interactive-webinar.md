@@ -4,16 +4,16 @@ title: 建立互動式網路研討會
 hide: true
 hidefromtoc: true
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
-source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
+source-git-commit: 9eef992dbaf5561df7732ae6edae848d48803a3c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
 # 建立互動式網路研討會 {#create-an-interactive-webinar}
 
-簡介。
+透過幾個簡單的步驟建立互動式網路研討會。
 
 1. 前往 **行銷活動**.
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-2.png)
 
-1. 為事件命名。 在方案類型下，選擇 **事件**.
+1. 為方案命名。 在方案類型下，選擇 **事件**.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
@@ -43,8 +43,8 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-6.png)
 
-1. 排程網路研討會的日期/時間。
+1. 排程網路研討會的日期/時間，然後按一下 **建立**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-1. 文字
+您的互動式網路研討會已建立。 現在該 [設計](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
