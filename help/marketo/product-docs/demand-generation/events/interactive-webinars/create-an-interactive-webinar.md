@@ -4,7 +4,7 @@ title: 建立互動式網路研討會
 hide: true
 hidefromtoc: true
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
-source-git-commit: 9eef992dbaf5561df7732ae6edae848d48803a3c
+source-git-commit: db68d63b6502822d4948485865edb26d10104a14
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -48,3 +48,5 @@ ht-degree: 0%
    ![](assets/create-an-interactive-webinar-7.png)
 
 您的互動式網路研討會已建立。 現在該 [設計](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
+
+![](assets/create-an-interactive-webinar-8.png)
