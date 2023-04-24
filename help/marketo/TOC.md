@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: db68d63b6502822d4948485865edb26d10104a14
+source-git-commit: cf6a0800737758d99a9ab07ffd783900332e3c32
 workflow-type: tm+mt
-source-wordcount: '8866'
+source-wordcount: '8876'
 ht-degree: 0%
 
 ---
@@ -397,6 +397,9 @@ ht-degree: 0%
             + [了解標籤](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
             + [在方案中使用標籤](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
             + [在方案中使用期間成本](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+         + 方案庫 {#program-library}
+            + [程式導入庫概述](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
+            + [同意管理計畫範本](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-template.md)
          + 計畫績效報告 {#program-performance-report}
             + [建立方案績效報告](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [將程式狀態列添加到程式報告](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
