@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: 發行排程 - Marketo 文件 - 產品文件
 title: 發行排程
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
+source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 5%
@@ -53,7 +53,7 @@ _發行日期可能會有所變更_
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">』23年5月</a></td>
-   <td>2023年5月19日</td>
+   <td>2023年5月12日</td>
    <td>按計畫</td>
   </tr>
   <tr> 
