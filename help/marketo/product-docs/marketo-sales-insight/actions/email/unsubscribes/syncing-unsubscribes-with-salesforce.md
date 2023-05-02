@@ -2,7 +2,7 @@
 description: 將取消訂閱與Salesforce同步 — Marketo檔案 — 產品檔案
 title: 將取消訂閱與Salesforce同步
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 27ca6c3efc5d49729ca4473853688be9cc8cdbc9
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 **取消訂閱同步**
 
-啟用取消訂閱同步後（下面的步驟3），您將開啟夜間同步。 同步在晚上8:00 PST左右發生一次。 它會雙向同步MSE/ToutApp中的所有取消訂閱，與Salesforce中的「退出」欄位。
+啟用取消訂閱同步後（下面的步驟3），您將開啟夜間同步。 同步在晚上8:00 PST左右發生一次。 它會透過Salesforce中的「退出」欄位，雙向同步Marketo Sales中的所有取消訂閱。
 
 ## 將「取消訂閱同步」配置為Salesforce {#configure-unsubscribe-sync-to-salesforce}
 
