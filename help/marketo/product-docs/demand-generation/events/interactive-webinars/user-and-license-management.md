@@ -4,16 +4,16 @@ title: 使用者和授權管理
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
 # 使用者和授權管理 {#user-and-license-management}
 
-簡介。
+了解如何新增和移除使用者，以及檢視您目前的授權。
 
 ## 新增使用者 {#add-a-user}
 
