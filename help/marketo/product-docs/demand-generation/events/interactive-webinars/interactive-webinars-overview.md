@@ -4,16 +4,18 @@ title: 互動式網路研討會概述
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 1%
+source-wordcount: '212'
+ht-degree: 0%
 
 ---
 
 # 互動式網路研討會概述 {#interactive-webinars-overview}
 
 深入了解用於建立空白、有效網路研討會的原生Marketo Engage工具。
+
+Adobe Connect網路研討會是供多名使用者參加的即時互動式線上會議。 此房間是一個永久的線上虛擬空間，您可用來舉辦網路研討會。 它包含各種顯示面板(pod)和配置。 有幾種預先構建的會議室佈局，或者您可以建立並使用其他自定義佈局來滿足您的需求。 會議室可讓與會者共用電腦螢幕或檔案、聊天、廣播音頻和視頻，並參與互動式線上活動。
 
 _什麼是互動式網路研討會_
 

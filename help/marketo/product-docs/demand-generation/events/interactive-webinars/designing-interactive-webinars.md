@@ -4,16 +4,16 @@ title: 設計互動式網路研討會
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 設計互動式網路研討會 {#designing-interactive-webinars}
 
-簡介。
+根據您的喜好設計您的網路研討會。
 
 1. 選取您的事件，然後按一下 **設計網路研討會**.
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >房間是一個線上空間，你將用來舉行會議。
+   >房間是用來舉行會議的線上空間。
 
 1. 選擇範本。
 
@@ -51,23 +51,16 @@ ht-degree: 0%
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. 文字
+1. 有關會議室和模板的詳細資訊，請查看 [本Adobe說明文章](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
-https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings??????
+1. 完成網路研討會的設計時，請按一下 **退出室**.
 
+   ![](assets/designing-interactive-webinars-9.png)
 
-房間：（已從Connect文檔中獲取此資訊，以精確）來源：https://helpx.adobe.com/in/adobe-connect/using/meeting-basics.html
+## 設計元素 {#design-elements}
 
-Adobe Connect網路研討會是供多名使用者參加的即時互動式線上會議。 此房間是一個永久的線上虛擬空間，您可用來舉辦網路研討會。 它包含各種顯示面板(pod)和配置。 有幾種預先構建的會議室佈局，或者您可以建立並使用其他自定義佈局來滿足您的需求。 會議室可讓與會者共用電腦螢幕或檔案、聊天、廣播音頻和視頻，並參與互動式線上活動。
+**範本**:範本是根據要傳送的網路研討會目標，提供給會議室的結構。 例如，如果您想要排程產品展示網路研討會，螢幕共用是展示示範的必要元件。 此範本可確保在設定網路研討會室期間，有效交付特定類型的網路研討會所需的基本元件已就緒。
 
-範本:
+**版面**:版面配置是指將多個必要元件排列在特定範本中，以確保網路研討會成功的各種方式。 單一範本可以有多個版面供您選擇。 網路研討會的基本元件在各範本內維持不變。 您選擇的安排最適合您或提供網路研討會的演示者的風格/需求。
 
-範本是根據檔案室中傳送的網路研討會目標，提供給檔案室的結構。 例如，如果行銷人員想要排程產品展示網路研討會，則螢幕共用是展示示範的必要元件。 此範本可確保在設定網路研討會室期間，有效交付特定類型的網路研討會所需的基本元件已就緒。
-
-配置：
-
-配置是指將多個必要元件排列在特定範本中，以確保網路研討會成功的各種方式。 單一範本可有多種配置供行銷人員選擇。 網路研討會的基本元件在各範本內維持不變。 行銷人員選取的安排最適合行銷人員或傳送網路研討會的簡報者的需求和風格。
-
-Pod:
-
-Pod是指範本內的元件，可協助您在網路研討會期間執行特定活動。 例如，設定和傳送民調問答，以擷取一個活動中可由民調問答Pod履行的參與者回應。 同樣，與參與者聊天以傳達訊息或與他們隨意互動，也可能是透過聊天窗格傳送的活動。 「連接」中提供了多個其他Pod，如「共用」、「注釋」、「視頻」、「聊天」、「與會者清單」、「檔案」、「Web連結」、「輪詢」和「問答」。
+**Pod**:Pod是指範本內的元件，可在網路研討會期間執行特定活動。 例如，設定和傳送民調問答，以擷取一個活動中參與者的回應，而該活動可由民調問答Pod履行。 同樣，與參與者聊天以傳達訊息或與其隨意互動，可能是透過聊天窗格傳送的活動。 還有多個其他Pod可用，例如共用、備注、視頻、聊天、與會者清單、檔案、Web連結、民調問答以及問答。

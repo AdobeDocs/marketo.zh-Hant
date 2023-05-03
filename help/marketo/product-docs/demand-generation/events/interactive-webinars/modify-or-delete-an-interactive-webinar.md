@@ -4,9 +4,9 @@ title: 修改或刪除互動式網路研討會
 hide: true
 hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,25 @@ ht-degree: 0%
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. 文字
+1. 房間會裝的。 如果要更改檔案室，請從「檔案室」下拉清單中選擇一個檔案室。 若要更新範本，請按一下 **使用室**.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
-???對於Nilesh — 不被帶到網路研討會已在的房間是正常的嗎？ 如果沒有，最佳實務是什麼？
+>[!NOTE]
+>
+>更改您的檔案室是可選的，不需要更新模板。
+
+1. 按一下 **立即調整網路研討會**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-3.png)
+
+1. 選取您的音訊/視訊偏好設定，然後按一下 **進入房間**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-4.png)
+
+1. 完成修改後，按一下 **退出室**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
 ## 重新排程互動式網路研討會 {#reschedule-an-interactive-webinar}
 
@@ -58,6 +72,10 @@ PICC
 1. 按一下 **下一個**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
+
+   >[!NOTE]
+   >
+   >您目前只能將複製的互動式網路研討會儲存為互動式網路研討會。 將複製的網路研討會儲存為合作夥伴網路研討會（例如Zoom、ON24等） 即將推出。
 
 1. 選擇您複製的網路研討會的設定，然後按一下 **原地複製**.
 

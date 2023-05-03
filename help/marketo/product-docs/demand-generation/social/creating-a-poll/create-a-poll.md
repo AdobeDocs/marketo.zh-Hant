@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: 建立民調問答 — Marketo檔案 — 產品檔案
 title: 建立民調問答
 exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
-source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # 建立民調問答 {#create-a-poll}
 
 讓參與投票的人參與投票，並在社交網路上與朋友分享。 您可以將其新增至登錄頁面、網站和Facebook等位置。
-
->[!AVAILABILITY]
->
->並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的銷售代表。
 
 >[!PREREQUISITES]
 >
