@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: cf6a0800737758d99a9ab07ffd783900332e3c32
+source-git-commit: b7a18b7cb2d39f569cbc22cc06ac58951ad1fee7
 workflow-type: tm+mt
-source-wordcount: '8876'
+source-wordcount: '8884'
 ht-degree: 0%
 
 ---
@@ -484,6 +484,10 @@ ht-degree: 0%
          + [了解資料夾](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [了解通知](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [通知類型](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + 不是歷程 {#not-journeys}
+         + [名稱概述](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
+         + [名稱標籤](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
+         + [設定標籤](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
       + 預測對象 {#predictive-audiences}
          + [預測受眾快速入門](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [模型與深入分析](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
