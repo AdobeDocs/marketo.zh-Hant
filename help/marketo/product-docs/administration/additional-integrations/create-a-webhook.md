@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: 建立Webhook - Marketo檔案 — 產品檔案
 title: 建立網頁連結
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: a498dcc5dc95bd7f732481d30db021485cf052c0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    * **URL**:輸入您在向Web服務提出的請求中使用的URL。 插入代號，例如人員的電子郵件地址(**`{{lead.Email Address}}`**)，在您的請求中，按一下 **插入代號**.
 
-   * **範本**:如果要在POST正文中傳輸資訊，請輸入模板。 使用支援HTTPPOST的任何資料格式，包括XML、JSON或SOAP。 若要在範本中插入代號，請按一下 **插入代號**.
+   * **範本**:如果您想要在要求內文中傳送資訊，請透過裝載範本輸入。 允許使用以下請求類型的模板：POST、DELETE、PATCH或PUT。 您可以使用JSON或XML等資料格式。 若要在範本中插入代號，請按一下 **插入代號**.
 
    * **請求權杖編碼**:如果代號值包含特殊字元（例如&amp;），請指出請求的格式(**JSON** 或 **表單/URL**)。
 
