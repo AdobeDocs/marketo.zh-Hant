@@ -4,20 +4,20 @@ title: 互動式網路研討會概述
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
 
 # 互動式網路研討會概述 {#interactive-webinars-overview}
 
-互動式網路研討會功能可讓您以Marketo Engage建立、排程、促銷和傳送網路研討會，而無需使用其他工具或整合。
+互動式網路研討會功能是我們內建的Marketo Engage網路研討會平台。 不需要其他工具或整合。
 
 ## 什麼是互動式網路研討會？ {#what-is-interactive-webinars}
 
-互動式網路研討會是可供多位使用者參加的即時互動式線上會議。 當您 [建立互動式網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}，有幾個預建的會議室佈局可供使用，您可以自定義所有佈局。 您也可以建立和使用其他自訂配置。 與會者可以共用電腦螢幕/檔案、彼此聊天、廣播音頻和視頻，以及參與互動式線上活動。
+互動式網路研討會提供原生且順暢的體驗，供您在Marketo Engage內建立、管理和傳送事件，以增強現有的活動和網路研討會體驗。 當您 [建立互動式網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}，您可以選擇多種預構建的會議室佈局，所有佈局都可自定義（您也可以建立並使用其他自定義佈局）。 與會者可以共用電腦螢幕/檔案、彼此聊天、廣播音頻和視頻，以及參與互動式線上活動。
 
 互動式網路研討會提供 [三個不同的授權](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}，各具功能和能力。
 

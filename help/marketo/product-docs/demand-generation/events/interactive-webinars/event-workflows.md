@@ -4,9 +4,9 @@ title: 事件工作流程
 hide: true
 hidefromtoc: true
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果網路研討會尚未完成，或資料因任何原因未收到，則「控制面板」標籤將無法使用。
+>如果網路研討會尚未完成，或資料因任何原因未收到，將無法使用「控制面板」標籤。
 
 ## 控制面板小工具 {#dashboard-widgets}
 
