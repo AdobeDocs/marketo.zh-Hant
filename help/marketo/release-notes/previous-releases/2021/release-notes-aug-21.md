@@ -2,9 +2,9 @@
 description: 發行說明 — 2021年8月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2021年8月
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '925'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->現在，測試版已提供電子郵件限制功能。 [了解更多](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+>現在，測試版已提供電子郵件限制功能。 [深入了解](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 * **增強銷售活動分析**:根據您銷售團隊的先前活動，擷取並啟用個人化參與。 新屬性（如「銷售呼叫記錄連結」、「銷售促銷活動名稱」和「銷售電子郵件主體」）可用於Marketo Engage智慧清單。  這些活動可透過「Marketo EngageREST API」或「大量匯出」來匯出和報告，並可在篩選器和觸發器上使用，作為智慧清單的其他限制。
 
@@ -63,7 +63,8 @@ ht-degree: 0%
 
 ![](assets/yellow-star.png)
 
-* **Bizible LinkedIn Lead Gen Forms整合**:行銷人員現在可以針對LinkedIn透過其Lead Gen Forms廣告單位擷取表單填入時發生的轉換，執行收入歸因。 然後，這些見解便可用來最佳化表單效能和付費媒體投資。 linkedIn Lead Gen Forms是LinkedIn增長最快的付費媒體產品之一，此新功能包含在我們與Bizible的現有LinkedIn Ads整合中。   
+* **Bizible LinkedIn Lead Gen Forms整合**:行銷人員現在可以針對LinkedIn透過其Lead Gen Forms廣告單位擷取表單填入時發生的轉換，執行收入歸因。 然後，這些見解便可用來最佳化表單效能和付費媒體投資。 linkedIn Lead Gen Forms是LinkedIn增長最快的付費媒體產品之一，此新功能包含在我們與Bizible的現有LinkedIn Ads整合中。
+
 * **改進的Velocity儀表板**:我們新增了新的速度量度和控制面板篩選器，以提供更深入的分析。 此控制面板供行銷人員用來了解各階段的銷售機會和商機速度，以及不同行銷和銷售互動形式的效率。
 
 * **新的同類群組瀑布歷程控制面板**:這可讓行銷人員透過經典的「需求瀑布圖」階段集來檢視所選同類群組的進展，進而快速了解轉換率，並逐階段隱含階段轉換因果關係。
@@ -74,7 +75,7 @@ ht-degree: 0%
 
 * **Bizible整合與AdobePrivacy Service** （2021年9月推出）:Bizible與AdobePrivacy Service的整合可集中Adobe Experience Cloud應用程式對重要資料隱私權法規（例如GDPR）的遵循。 您現在可以善用此服務並集中管理所有隱私權要求，以便在應用程式間反映傳入Bizible和其他Adobe產品的變更要求。
 
-* **Bizible on Unified Shell(Adobe統一外殼)**:Bizible採用AdobeUnified Shell為用戶提供了新功能，這些功能將出現在Bizible應用程式標頭欄中，並包括更好地訪問支援資源和應用程式切換。 AdobeUnified Shell可協助在Bizible與其他Adobe Experience Cloud應用程式之間建立一致的體驗。
+* **Adobe Experience Cloud介面上的Bizible**:Bizible採用的Adobe Experience Cloud Interface為使用者提供新功能，這些功能將出現在Bizible應用程式標題列中，並包括更好地訪問支援資源和應用程式切換。 Experience Cloud介面可協助您在Bizible與其他Adobe Experience Cloud應用程式之間建立一致的體驗。
 
 * **Bizible網域所有權與自我管理**:Bizible使用者可運用Adobe Admin Console來管理他們希望Bizible追蹤的網域。 這為先前的手動程式提供自助服務，並提供如何跨Adobe Experience Cloud應用程式管理網域擁有權和追蹤的一致體驗。
 

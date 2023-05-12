@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: b7a18b7cb2d39f569cbc22cc06ac58951ad1fee7
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '8884'
+source-wordcount: '8886'
 ht-degree: 0%
 
 ---
@@ -239,7 +239,7 @@ ht-degree: 0%
       + [設定Adobe組織對應](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [從Adobe Experience Cloud同步受眾](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [使用Adobe Experience Manager匯入資產](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [統一殼層概述](product-docs/adobe-experience-cloud-integrations/unified-shell-overview.md)
+      + [Adobe Experience Cloud介面概述](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + 核心Marketo概念 {#core-marketo-concepts}
       + 智慧型行銷活動 {#smart-campaigns}
          + [了解智慧型行銷活動](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
