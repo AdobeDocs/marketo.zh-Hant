@@ -3,9 +3,9 @@ unique-page-id: 2949467
 description: 什麼是Adobe Marketo Engage? - Marketo檔案 — 產品檔案
 title: 什麼是Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: e6b585657b61f1d327cc6083bb3c4de44a130b3a
+source-git-commit: a433eb0496bc919f4e19361fbe68512b19f03879
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,9 @@ Marketo Engage有許多絕佳功能可協助您達成行銷目標。 比如…�
 
 不！ 我們做了一堆簡單的教學課程。 [從這裡開始](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}. 他們需要一個小時。 你隨時都可以開始。
 
-## 是否有涵蓋限制的項目清單，例如我可以在一週內傳送多少封電子郵件？ {#list-of-limits}
+## 是否有涵蓋限制的項目清單，例如一週內可傳送多少封電子郵件？ {#list-of-limits}
 
-有。 我們概述的靜態限制（和其他參數） [本文](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+有。 列出靜態限制（及其他參數） [本文](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Marketo會保留我的資料多久？ {#data-retention-policy}
 
