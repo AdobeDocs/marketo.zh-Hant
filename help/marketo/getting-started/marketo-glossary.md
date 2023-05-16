@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo字彙表 — Marketo檔案 — 產品檔案
 title: Marketo字彙表
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>帳戶</strong></td> 
-   <td colspan="1">這個術語可能有不同的含義：<br> — 您的Marketo執行個體本身可稱為您的Marketo帳戶。<br>-In <strong>TAM</strong>, <strong>指定帳戶</strong> 是使用者所判斷的帳戶，是他們想追蹤的目標帳戶。<br> — 在TAM中，CRM帳戶是從您連結的 <strong>CRM</strong> （帳戶） <strong>Salesforce</strong>, <strong>MS Dynamics</strong> 或 <strong>API</strong>)。<br> — 在您的CRM中，帳戶是與潛在客戶和聯繫人關聯的業務/公司。</td> 
+   <td colspan="1">這個術語可能有不同的含義：<br> — 您的Marketo執行個體本身可稱為您的Marketo帳戶。<br>-In <strong>TAM</strong>, <strong>指定帳戶</strong> 是使用者所判斷的帳戶，是他們想追蹤的目標帳戶。<br> — 在TAM中，CRM帳戶是從您連結的 <strong>CRM</strong> （帳戶） <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> 或 <strong>API</strong>)。<br> — 在您的CRM中，帳戶是與潛在客戶和聯繫人關聯的業務/公司。</td> 
   </tr> 
   <tr> 
    <td><strong>帳戶清單</strong></td> 
@@ -159,7 +159,7 @@ ht-degree: 0%
    <td>已開啟且已點按電子郵件中連結的電子郵件百分比。 此度量電子郵件的相關性和內容，方法是取不重複點按次數除以不重複開啟次數，然後乘以100將其顯示為百分比。</td> 
   </tr> 
   <tr> 
-   <td><strong>點按</strong></td> 
+   <td><strong>點擊次數</strong></td> 
    <td>依預設，電子郵件中的連結內嵌了追蹤功能，可讓您查看誰點按了哪個連結、總共點按了多少個連結，等等。</td> 
   </tr> 
   <tr> 
@@ -374,7 +374,7 @@ ht-degree: 0%
    <td>用於 <strong>智慧清單</strong> 這可讓您縮小對象範圍（例如，您資料庫中居住在加州的每個人）。 篩選器可同時用於 <strong>批次</strong> 和 <strong>觸發促銷活動</strong>.</td> 
   </tr> 
   <tr> 
-   <td><strong>流量</strong></td> 
+   <td><strong>流程</strong></td> 
    <td><p>a <strong>智慧型行銷活動</strong> 會透過 <strong>智慧清單</strong>. 流由一或多個 <strong>流程步驟</strong>.</p></td> 
   </tr> 
   <tr> 
