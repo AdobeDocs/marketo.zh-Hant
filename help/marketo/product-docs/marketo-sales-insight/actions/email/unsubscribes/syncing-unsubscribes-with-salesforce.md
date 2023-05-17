@@ -2,9 +2,9 @@
 description: 將取消訂閱與Salesforce同步 — Marketo檔案 — 產品檔案
 title: 將取消訂閱與Salesforce同步
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: 27ca6c3efc5d49729ca4473853688be9cc8cdbc9
+source-git-commit: f174cba33e18812ac08adf177302d997bbe60c4c
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,6 @@ ht-degree: 0%
 
 ## Marketo銷售選擇退出 {#marketo-sales-opt-out}
 
-「Marketo銷售選擇退出」欄位是自訂欄位，可供已安裝Marketo銷售自訂的使用者使用。
+「Marketo銷售選擇退出」欄位是自訂欄位，可供已安裝Marketo Sales Insight套件的使用者使用 [從AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
-在您成功將Marketo銷售自訂安裝至Salesforce後，您就會看到可用的Marketo銷售選擇退出欄位。
+一旦您成功從AppExchange將Marketo Sales Insight套件安裝至Salesforce，您就會看到可用的Marketo Sales Opt Out欄位。
