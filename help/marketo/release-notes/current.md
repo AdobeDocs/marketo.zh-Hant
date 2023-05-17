@@ -2,9 +2,9 @@
 description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
+source-git-commit: 88316009757720d9ea9987bb88d7a33cbfc25c02
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '424'
 ht-degree: 6%
 
 ---
@@ -65,7 +65,7 @@ ht-degree: 6%
 
 互動式網路研討會提供原生且順暢的體驗，供行銷人員在Marketo Engage內建立、管理和傳送事件，以增強現有的活動和網路研討會體驗。 根據活動類型自訂網路研討會，甚至視需要新增簡報者。 透過Adobe Connect功能（例如即時投票、聊天、問答工作階段、網頁連結點按、檔案下載等）取得豐富的參與分析。 直接以Marketo Engage擷取網路研討會記錄，並透過豐富的控制面板量度評估其效能。
 
-註冊資訊即將推出
+您可以要求 [可在此提前存取此功能](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 
