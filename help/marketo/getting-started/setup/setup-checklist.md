@@ -1,53 +1,53 @@
 ---
 unique-page-id: 2949471
-description: 設定檢查清單 — Marketo檔案 — 產品檔案
-title: 設定檢查清單
+description: 設定核對表 — Marketo文檔 — 產品文檔
+title: 設定核對清單
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '204'
 ht-degree: 1%
 
 ---
 
-# 設定檢查清單 {#setup-checklist}
+# 設定核對清單 {#setup-checklist}
 
-歡迎使用 Marketo! 您可以使用下列檢查清單作為視覺化的待辦事項清單，以開始使用。 詳細資訊位於 [設定步驟](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}。
+歡迎使用 Marketo! 您可以隨意使用以下清單作為可視待辦事項清單，以便開始工作。 有關詳細資訊，請參閱 [設定步驟](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}。
 
-## 登入Marketo並建立其他使用者 {#log-in-to-marketo-and-create-additional-users}
+## 登錄到Marketo並建立其他用戶 {#log-in-to-marketo-and-create-additional-users}
 
-1. 登入Marketo
-1. 建立其他使用者
+1. 登錄Marketo
+1. 建立其他用戶
 
 ## 設定授權支援聯繫人 {#set-up-an-authorized-support-contact}
 
 1. 設定授權支援聯繫人
-1. 自訂登錄頁面URL
-1. 選取登錄頁面CNAME
-1. 要求IT為您的登陸頁面CNAME建立DNS記錄
-1. 完成IT後，請在Marketo中設定您的登錄頁面網域名稱
+1. 自定義登錄頁URL
+1. 選擇登錄頁CNAME
+1. 請IT人員為登錄頁CNAME建立DNS記錄
+1. 完成IT後，在Marketo設定登錄頁域名
 
-## 確保電子郵件傳遞 {#ensure-email-deliverability}
+## 確保電子郵件傳輸能力 {#ensure-email-deliverability}
 
-1. 為品牌追蹤連結選取電子郵件CNAME
-1. 請IT為您的電子郵件CNAME設定DNS記錄
-1. 請IT允許列出Marketo
-1. 在管理區域中設定DKIM和SPF
-1. 為 `[FromDomain1]`
-1. 使用電子郵件CNAME完成時，請在Marketo中設定您的電子郵件CNAME
+1. 為標籤跟蹤連結選擇電子郵件CNAME
+1. 請IT人員為您的電子郵件CNAME設定DNS記錄
+1. 請IT部門允許Marketo
+1. 在 [!UICONTROL 管理] 面積
+1. 設定MX `[FromDomain1]`
+1. 完成電子郵件CNAME後，請在Marketo設定您的電子郵件CNAME
 
-## 提交登錄頁面的URL和電子郵件範本 {#submit-a-url-for-landing-page-and-email-templates}
+## 提交登錄頁和電子郵件模板的URL {#submit-a-url-for-landing-page-and-email-templates}
 
-1. 填寫表單以提交新範本的URL
+1. 填寫表單以提交新模板的URL
 
 ## CRM同步 {#crm-sync}
 
-1. 與您的CRM管理員合作，將所有CRM連絡人同步至Marketo
+1. 與您的CRM管理員協作，將所有CRM聯繫人同步到Marketo
 
-## 新增追蹤代碼至您的網站 {#add-tracking-code-to-your-website}
+## 將跟蹤代碼添加到網站 {#add-tracking-code-to-your-website}
 
-1. 與網頁開發人員合作，將追蹤程式碼新增至您的網站
+1. 與Web開發人員合作，將跟蹤代碼添加到您的網站
 
 >[!MORELIKETHIS]
 >
->[設定步驟](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
+>[設定步驟](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
