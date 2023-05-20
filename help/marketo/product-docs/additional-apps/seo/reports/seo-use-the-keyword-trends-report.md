@@ -1,63 +1,63 @@
 ---
 unique-page-id: 2949273
-description: SEO — 使用關鍵字趨勢報表 — Marketo檔案 — 產品檔案
-title: SEO — 使用關鍵字趨勢報表
+description: SEO — 使用關鍵字趨勢報告 — Marketo文檔 — 產品文檔
+title: SEO — 使用關鍵字趨勢報告
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-# SEO — 使用關鍵字趨勢報表 {#seo-use-the-keyword-trends-report}
+# SEO — 使用關鍵字趨勢報告 {#seo-use-the-keyword-trends-report}
 
-在此報告中，您可了解關鍵字在一段時間內的排名方式。
+在此報告中，您可以看到如何隨著時間的推移對關鍵字進行排序。
 
-## 載入報表 {#load-report}
+## 載入報告 {#load-report}
 
-1. 前往 **報表**.
+1. 轉到 **[!UICONTROL 報告]**。
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. 按一下 **關鍵字排名趨勢**.
+1. 按一下 **[!UICONTROL 關鍵字排名趨勢]**。
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
-   這裡：
+   這裡是：
 
    ![](assets/image2014-9-18-14-3a13-3a22.png)
 
-   說明的報表項目：
+   描述的報表項：
 
-   | 項目 | 說明 |
+   | 物料 | 說明 |
    |---|---|
-   | 關鍵字 | 您追蹤的關鍵字數。 |
-   | 排名URL | 您網站上的URL數，在您設定的範圍內排名。 |
-   | 平均 排名 | 在您設定的範圍內的關鍵字平均排名。 |
-   | 平均 搜尋 | 在您設定的範圍內(過去30天內，在Google美國搜尋上)發生的這些關鍵字的平均搜尋次數 |
+   | [!UICONTROL 關鍵字] | 正在跟蹤的關鍵字數。 |
+   | [!UICONTROL 排名URL] | 您所設定範圍內網站排名的URL數。 |
+   | [!UICONTROL 平均 秩] | 在您設定的範圍內的關鍵字的平均等級。 |
+   | [!UICONTROL 平均 搜索] | 在您設定的範圍（過去30天）中，在Google美國搜索中對這些關鍵字進行的平均搜索數 |
 
 ## 篩選資料 {#filtering-data}
 
-1. 按一下下拉式清單，然後選取您需要的時段。
+1. 按一下下拉框並選擇所需的時段。
 
    ![](assets/image2014-9-18-14-3a13-3a40.png)
 
-1. 按一下「排名」下拉式清單，選擇您要檢視關鍵字的排名範圍。
+1. 按一下「排名」(Rank)下拉清單以選擇要查看關鍵字的排名範圍。
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
-## 匯出資料 {#exporting-data}
+## 導出資料 {#exporting-data}
 
 >[!TIP]
 >
->您可以將此報告匯出至案頭。
+>您可以將此報告導出到案頭。
 
-1. 按一下「匯出CSV」或「Export PDF」。
+1. 按一下 **[!UICONTROL 導出CSV]** 或 **[!UICONTROL Export PDF]**。
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
-   幹得好！ 您也可以在關鍵字排名中查看與競爭者的比較情形。
+   幹得好！ 您還可以在關鍵字排名中查看與競爭對手的比較方式。
 
    >[!NOTE]
    >

@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2949262
-description: SEO — 移除/刪除頁面 — Marketo檔案 — 產品檔案
-title: SEO — 移除/刪除頁面
+description: SEO — 刪除/刪除頁面 — Marketo文檔 — 產品文檔
+title: SEO — 刪除/刪除頁面
 exl-id: 4e42d01f-a3cf-4545-b476-54de195fa7f8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# SEO — 移除/刪除頁面 {#seo-remove-delete-a-page}
+# SEO — 刪除/刪除頁面 {#seo-remove-delete-a-page}
 
-要刪除頁面嗎？ 沒汗，這是辦法。
+是否要刪除頁面？ 沒汗了，就這樣。
 
-1. 前往 **頁面** 區段。
+1. 轉到 **[!UICONTROL 頁面]** 的子菜單。
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
-1. 在「頁面」標籤上，暫留在您要移除的頁面上，按一下 **刪除**，然後按一下 **移除**.
+1. 在 [!UICONTROL 頁面] 頁籤，將滑鼠懸停在要刪除的頁面上，按一下 **[!UICONTROL 刪除]**，然後按一下 **[!UICONTROL 刪除]**。
 
    ![](assets/image2014-9-18-13-3a58-3a39.png)
 
-一塊蛋糕。 此頁面現在會從您的清單中永久移除。
+此頁面現在已從清單中永久刪除。
