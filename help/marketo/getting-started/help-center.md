@@ -3,7 +3,7 @@ description: 幫助中心 — Marketo文檔 — 產品文檔
 title: 支援中心
 hide: true
 hidefromtoc: true
-source-git-commit: 2ea00108eaaab147fcf1a2c81a1f245b0766ebe4
+source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 3%
@@ -20,7 +20,7 @@ Marketo Engage中的幫助中心是獲得幫助的集中場所。 除了與各�
 
 ![](assets/help-center-1.png)
 
-**參考線**
+### 參考線 {#guides}
 
 參考線是熱門功能的快速漫遊。
 
@@ -46,7 +46,7 @@ Marketo Engage中的幫助中心是獲得幫助的集中場所。 除了與各�
 >
 >通過按一下 **消除**。
 
-**新增功能**
+### 新增功能 {#whats-new}
 
 「What is New（新建內容）」頁籤包含Marketo Engage最新版本的完整詳細資訊。
 
@@ -56,7 +56,7 @@ Marketo Engage中的幫助中心是獲得幫助的集中場所。 除了與各�
 >
 >按一下底部的箭頭表徵圖以Experience League查看頁面。
 
-**資源**
+### 資源 {#resources}
 
 「資源」(Resources)頁籤可讓您快速而直接地訪問各種方法，以獲得有關Marketo Engage實例的其他幫助。
 
