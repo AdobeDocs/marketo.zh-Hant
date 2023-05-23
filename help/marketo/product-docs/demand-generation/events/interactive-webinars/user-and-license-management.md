@@ -1,76 +1,74 @@
 ---
-description: 使用者與授權管理 — Marketo檔案 — 產品檔案
-title: 使用者和授權管理
-hide: true
-hidefromtoc: true
+description: 用戶和許可證管理 — Marketo文檔 — 產品文檔
+title: 用戶和許可證管理
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
+source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
-# 使用者和授權管理 {#user-and-license-management}
+# 用戶和許可證管理 {#user-and-license-management}
 
-了解如何新增和移除使用者，以及檢視您目前的授權。
+瞭解如何添加和刪除用戶以及查看當前許可證。
 
-## 新增使用者 {#add-a-user}
+## 添加用戶 {#add-a-user}
 
-1. 前往 **管理** 的上界。
+1. 轉到 **管理** 的子菜單。
 
    ![](assets/user-and-license-management-1.png)
 
-1. 按一下 **互動式網路研討會**.
+1. 按一下 **互動式網路研討會**。
 
    ![](assets/user-and-license-management-2.png)
 
-1. 按一下 **添加/刪除用戶**.
+1. 按一下 **添加/刪除用戶**。
 
    ![](assets/user-and-license-management-3.png)
 
-1. 按一下「可用使用者」下拉式清單，選取您要新增的使用者，然後按一下 **確定**.
+1. 按一下「可用用戶」(Available Users)下拉清單，選擇要添加的用戶，然後按一下 **確定**。
 
    ![](assets/user-and-license-management-4.png)
 
-## 移除使用者 {#remove-a-user}
+## 刪除用戶 {#remove-a-user}
 
-1. 前往 **管理** 的上界。
+1. 轉到 **管理** 的子菜單。
 
    ![](assets/user-and-license-management-5.png)
 
-1. 按一下 **互動式網路研討會**.
+1. 按一下 **互動式網路研討會**。
 
    ![](assets/user-and-license-management-6.png)
 
-1. 按一下 **添加/刪除用戶**.
+1. 按一下 **添加/刪除用戶**。
 
    ![](assets/user-and-license-management-7.png)
 
-1. 選中要刪除的用戶，然後按鍵盤上的Delete鍵。 按一下 **確定** 時才能使用。
+1. 選中要刪除的用戶，然後按鍵盤上的刪除鍵。 按一下 **確定** 完成。
 
    ![](assets/user-and-license-management-8.png)
 
-## 授權使用 {#license-usage}
+## 許可證使用 {#license-usage}
 
-互動式網路研討會提供建立Adobe Connect活動的特定授權。 每次新增授權時，都會出現新的授權使用方塊。 Marketo管理員可依照下列步驟檢視（非編輯）授權。 請連絡Adobe客戶團隊（您的客戶經理）以取得其他授權。
+互動式網路研討會提供建立Adobe Connect活動的特定許可證。 每次添加許可證時，都會出現新的許可證使用框。 Marketo管理員可以按照以下步驟查看（不編輯）許可證。 聯繫Adobe客戶團隊（您的客戶經理）以獲取其他許可證。
 
-1. 前往 **管理** 的上界。
+1. 轉到 **管理** 的子菜單。
 
    ![](assets/user-and-license-management-9.png)
 
-1. 按一下 **互動式網路研討會**.
+1. 按一下 **互動式網路研討會**。
 
    ![](assets/user-and-license-management-10.png)
 
-1. 向下捲動至「License Usage（許可證使用）」卡。
+1. 向下滾動到許可證使用卡。
 
    ![](assets/user-and-license-management-11.png)
 
 <table> 
   <tr> 
    <td><b>開始日期</b></td>
-   <td>許可的開始日期。</td>
+   <td>許可證開始的日期。</td>
   </tr>
   <tr> 
    <td><b>到期日</b></td>
@@ -78,33 +76,33 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td><b>類型</b></td>
-   <td>購買的授權類型。 可用的類型有三種：共用事件許可證、共用室許可證、其他儲存許可證。</td>
+   <td>購買的許可證類型。 有三種類型可用：共用事件許可證、共用檔案室許可證、其他儲存許可證。</td>
   </tr>
   <tr> 
    <td><b>事件容量</b></td>
-   <td>可在事件中容納的參與者人數上限。</td>
+   <td>可在活動中容納的參與者的最大數量。</td>
   </tr>
   <tr> 
-   <td><b>事件總計</b></td>
-   <td>已使用此授權布建的事件總數。</td>
+   <td><b>事件總數</b></td>
+   <td>使用此許可證設定的事件總數。</td>
   </tr>
   <tr> 
-   <td><b>使用的事件</b></td>
+   <td><b>已使用的事件</b></td>
    <td>已完成事件的總數。</td>
   </tr>
   <tr> 
    <td><b>儲存容量</b></td>
-   <td>可用於儲存記錄、抵押物、hero images、文檔和其他資產的儲存量。</td>
+   <td>可用於儲存錄音、抵押物、hero images、文檔和其他資產的儲存量。</td>
   </tr>
   </tbody>
 </table>
 
-**注意事項**
+**要注意的事項**
 
-* 「其他儲存許可證」類型只提供儲存，因此每個欄位中的值 _bess_ 儲存容量將僅列為「 — 」。
+* 「其他儲存許可證」類型只提供儲存，因此每個欄位中的值 _除_ 儲存容量將僅列為「 — 」。
 
-* 「共用室許可證」類型具有不限數量的事件，而「其他儲存許可證」僅提供儲存，因此這些許可證的「事件總數」欄位將僅列為「 — 」。
+* 「Shared Room License」類型具有無限制的事件，「Additional Storage License」僅提供儲存，因此這些許可證的「Total Events」欄位將僅列為「 — 」。
 
-* 每次建立事件時，都會從其各自的許可證（除非是共用室許可證）計算為「已使用」。 如果「共用事件許可證」和「共用室許可證」具有相同容量，則將優先選擇「共用事件許可證」。 如果尚未傳送事件，並且在排程時間之前刪除了事件程式，則會從已使用的事件中減去事件來補充事件計數。
+* 每次建立事件時，它都會從各自的許可證中被計算為「已使用」（除非它是共用房許可證）。 如果「共用事件許可證」和「共用室許可證」都具有相同容量，則將優先選擇「共用事件許可證」。 如果事件尚未傳送，並且在計畫時間之前刪除了事件程式，則通過從「已消耗事件」中減去事件來補充事件計數。
 
-* 授權一經用盡，其圖磚會保留在「管理員」區段的「互動式網路研討會」畫面中，「事件總數」和「使用的事件數」具有相同的值。 只有當授權過期時，才會從畫面中移除。
+* 許可證用完後，其磁貼將保留在「管理」部分的「互動式網路研討會」螢幕上，「總事件」和「已使用事件」具有相同的值。 只有在許可證過期時，才會將其從螢幕中刪除。
