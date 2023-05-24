@@ -1,24 +1,24 @@
 ---
 unique-page-id: 6095008
-description: 新增Google AdWords as a LaunchPoint服務 — Marketo檔案 — 產品檔案
-title: 將Google AdWords新增為LaunchPoint服務
+description: '"添加 [!DNL Google AdWords] 作為 [!DNL LaunchPoint] 服務 — Marketo文檔 — 產品文檔」'
+title: "添加 [!DNL Google AdWords] 作為 [!DNL LaunchPoint] 服務"
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '286'
 ht-degree: 1%
 
 ---
 
-# 將Google AdWords新增為LaunchPoint服務 {#add-google-adwords-as-a-launchpoint-service}
+# 添加 [!DNL Google AdWords] 作為 [!DNL LaunchPoint] 服務 {#add-google-adwords-as-a-launchpoint-service}
 
-將您的Google AdWords帳戶連結至Marketo，以自動將離線轉換資料從Marketo上傳至Google AdWords。 然後，從AdWords UI中，您將可輕鬆查看哪些點按在您之後產生了合格銷售機會、機會和新客戶（或您要追蹤的任何收入階段） [新增自訂欄](https://support.google.com/adwords/answer/3073556){target="_blank"} 在AdWords中。 此資訊不會顯示在Marketo UI中。
+連結 [!DNL Google AdWords] 帳戶到Marketo自動將離線轉換資料從Marketo上載到 [!DNL Google AdWords]。 然後，從 [!DNL AdWords] UI，您將能夠輕鬆地在您之後看到哪些點擊導致了合格的銷售線索、銷售機會和新客戶（或您要跟蹤的任何收入階段） [添加自定義列](https://support.google.com/adwords/answer/3073556){target="_blank"} 在 [!DNL AdWords]。 此資訊未出現在MarketoUI中。
 
-深入了解 [Google離線轉換匯入功能](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
+瞭解有關 [Google離線轉換導入功能](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}。
 
 >[!AVAILABILITY]
 >
->並非所有客戶都購買過此功能。 如需詳細資訊，請聯絡Adobe帳戶團隊（您的客戶經理）。
+>並非所有客戶都購買了此功能。 請聯繫Adobe客戶團隊（您的客戶經理）以瞭解詳細資訊。
 
 >[!NOTE]
 >
@@ -26,71 +26,71 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->您也可以整合 [Google AdWords as a Launchpoint服務，具有經理帳戶](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
+>您還可以整合 [[!DNL Google AdWords] as a [!DNL Launchpoint] 與經理帳戶的服務](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}。
 
-1. 前往 **管理** 區段。
+1. 轉到 **[!UICONTROL 管理]** 的子菜單。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-1.png)
 
-1. 選擇 **LaunchPoint**.
+1. 選擇 **[!UICONTROL 啟動點]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-2.png)
 
-1. 選擇 **新增** 和 **新服務**.
+1. 選擇 **[!UICONTROL 新建]** 和 **[!UICONTROL 新服務]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-3.png)
 
-1. 輸入顯示名稱並選取 **Google AdWords**.
+1. 輸入 [!UICONTROL 顯示名稱] 選擇 **[!UICONTROL Google廣告詞]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-4.png)
 
-1. 選擇 **授權Marketo**.
+1. 選擇 **[!UICONTROL 授權Marketo]**。
 
    >[!NOTE]
    >
-   >請務必登出您的個人Gmail帳戶，並啟用快顯視窗。
+   >確保註銷您的個人 [!DNL Gmail] 帳戶並啟用彈出窗口。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-5.png)
 
-1. 選取與Google AdWords相關聯的帳戶。
+1. 選擇與關聯的帳戶 [!DNL Google AdWords]。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-6.png)
 
-1. 選擇 **接受**.
+1. 選擇 **[!UICONTROL 接受]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-7.png)
 
-1. 狀態會顯示為 **成功**. 選擇 **下一個**.
+1. 狀態將顯示為 **[!UICONTROL 成功]**。 選擇 **[!UICONTROL 下一個]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-8.png)
 
-1. 將離線轉換從Marketo上傳至Google AdWords **每週** 或 **每日**.
+1. 將離線轉換從Marketo上傳到 [!DNL Google AdWords] **[!UICONTROL 每週]** 或 **[!UICONTROL 每日]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-9.png)
 
-1. 屬性轉換至 **首次點按** 或 **上次點按**.
+1. 屬性轉換到 **[!UICONTROL 首次按一下]** 或 **[!UICONTROL 上次按一下]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-10.png)
 
    | 類型 | 定義 |
    |---|---|
-   | 首次點按 | 離線轉換會歸因於使用者在過去90天內點按的第一個AdWords廣告 |
-   | 上次點按 | 離線轉換會歸因於使用者點按的最後一個AdWords廣告 |
+   | [!UICONTROL 首次按一下] | 離線轉換將歸屬於第一個 [!DNL AdWords] 一個人在過去90天裡 |
+   | [!UICONTROL 上次按一下] | 離線轉換將歸屬於最後一個 [!DNL AdWords] 一個人點擊 |
 
    >[!NOTE]
    >
-   >在Marketo和AdWords中使用一致的歸因模型，可提供最精確的資料。
+   >在Marketo和 [!DNL AdWords] 提供最準確的資料。
 
-1. 按一下 **建立**。
+1. 按一下 **[!UICONTROL 建立]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-11.png)
 
    >[!NOTE]
    >
-   >[自動標籤](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} 必須選取此功能才能運作。 必須在AdWords內停用。
+   >[自動標籤](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} 必須選擇此功能才能正常工作。 必須在內部完成停用 [!DNL AdWords]。
 
-太棒了！ 現在請參閱下方的相關文章，了解如何將AdWords離線轉換對應至收入模型中。
+太好了！ 現在，請參閱下面的相關文章以瞭解如何映射 [!DNL AdWords] 收入模型中的離線轉換。
 
 >[!MORELIKETHIS]
 >
->[在收入模型中設定Google AdWords轉換](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}
+>[設定 [!DNL Google AdWords] 收入模型中的轉換](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}
