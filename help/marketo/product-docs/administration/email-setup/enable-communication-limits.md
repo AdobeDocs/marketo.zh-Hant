@@ -1,60 +1,60 @@
 ---
 unique-page-id: 2360222
 description: 啟用通訊限制 — Marketo檔案 — 產品檔案
-title: 啟用通信限制
+title: 啟用通訊限制
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
-source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
-# 啟用通信限制 {#enable-communication-limits}
+# 啟用通訊限制 {#enable-communication-limits}
 
-不要和你的人過度交流非常重要。 設定通訊限制有助於防止您的組織傳送太多電子郵件。
+切勿與員工過度溝通。 設定通訊限制將有助於防止您的組織傳送過多電子郵件。
 
 >[!NOTE]
 >
->**需要管理權限**
+>**需要管理員許可權**
 
-1. 前往 **管理** 的上界。
+1. 前往 **[!UICONTROL 管理員]** 區域。
 
    ![](assets/enable-communication-limits-1.png)
 
-1. 按一下 **通訊限制**.
+1. 按一下 **[!UICONTROL 通訊限制]**.
 
    ![](assets/enable-communication-limits-2.png)
 
-1. 按一下 **編輯**.
+1. 按一下 **[!UICONTROL 編輯]**.
 
    ![](assets/enable-communication-limits-3.png)
 
    >[!NOTE]
    >
-   >每日是根據訂閱時區（午夜 — 午夜）中的日曆日。
+   >[!UICONTROL 每天] 是以訂閱時區的行事曆日為基礎（午夜 — 午夜）。
 
-1. 按一下 **每日** 下拉式清單並選取所需的限制。 在本例中，我們選擇1。
+1. 按一下 **[!UICONTROL 每天]** 下拉式清單，並選取所需的限制。 在此範例中，我們選擇1。
 
    ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
-   >您也可以選擇 **自訂** 如果預設集選項皆不適用，請依序選取。
+   >您也可以選擇 **[!UICONTROL 自訂]** 如果您的預設集選項都無法運作。
 
-1. 按一下 **每7天** 下拉式清單並選取所需的限制。 在本例中，我們選5個。
+1. 按一下 **[!UICONTROL 每7天]** 下拉式清單，並選取所需的限制。 在此範例中，我們選取5。
 
    ![](assets/enable-communication-limits-5.png)
 
-1. 選擇 **封鎖非操作電子郵件**.
+1. 選取 **[!UICONTROL 封鎖非營運電子郵件]**.
 
    ![](assets/enable-communication-limits-6.png)
 
    >[!NOTE]
    >
-   >深入了解 [操作電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) 。
+   >進一步瞭解內容 [營運電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) 是。
 
-1. 按一下 **儲存**.
+1. 按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/enable-communication-limits-7.png)
 
@@ -62,12 +62,12 @@ ht-degree: 0%
    >
    >**範例**
    >
-   >上述設定表示人們的接收量不會超過 **每天1封電子郵件** 大於 **7天內5天**.
+   >上述設定表示使用者不會收到超過 **每天1封電子郵件** 或大於 **任何七天期間為5**.
 
    >[!NOTE]
    >
-   >通訊限制會自動套用至所有電子郵件和參與計畫。
+   >通訊限制會自動套用至所有電子郵件和參與程式。
 
 >[!MORELIKETHIS]
 >
->[將通訊限制套用至智慧行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+>[將通訊限制套用至Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)

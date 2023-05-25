@@ -2,10 +2,10 @@
 description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 6%
+source-wordcount: '418'
+ht-degree: 5%
 
 ---
 
@@ -47,8 +47,8 @@ ht-degree: 6%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/help-center.html">支援中心</a></td>
   </tr>
   </tbody>
 </table>
@@ -73,8 +73,8 @@ ht-degree: 6%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>轉出已開始</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">互動式網路研討會概觀</a></td>
   </tr>
   </tbody>
 </table>
