@@ -1,61 +1,61 @@
 ---
 unique-page-id: 17728028
-description: 新增Zoom as a LaunchPoint Service - Marketo檔案 — 產品檔案
-title: 將縮放新增為LaunchPoint服務
+description: '"新增 [!DNL Zoom] as a [!DNL LaunchPoint] 服務 — Marketo檔案 — 產品檔案」'
+title: '"新增 [!DNL Zoom] as a [!DNL LaunchPoint] 服務」'
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-# 將縮放新增為LaunchPoint服務 {#add-zoom-as-a-launchpoint-service}
+# 新增 [!DNL Zoom] as a [!DNL LaunchPoint] 服務 {#add-zoom-as-a-launchpoint-service}
 
-Marketo會管理您的縮放註冊和出勤。
-
->[!NOTE]
->
->**需要管理權限**
+Marketo管理您的 [!DNL Zoom] 註冊與出席。
 
 >[!NOTE]
 >
->此步驟需要現有的縮放和管理權限訂閱。 請使用您用來登入的電子郵件和密碼，以手動縮放。
+>**需要管理員許可權**
 
-1. 前往 **管理** 的上界。
+>[!NOTE]
+>
+>的現有訂閱 [!DNL Zoom] 此步驟需要和管理許可權。 擁有您用來登入的電子郵件和密碼 [!DNL Zoom] 庫存量。
+
+1. 前往 **[!UICONTROL 管理員]** 區域。
 
    ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 
-1. 按一下 **LaunchPoint**.
+1. 按一下 **[!UICONTROL 啟動點]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-2.png)
 
-1. 選擇 **新增** 然後 **新服務**.
+1. 選取 **[!UICONTROL 新增]** 然後 **[!UICONTROL 新服務]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-3.png)
 
-1. 輸入 **顯示名稱**. 在 **服務**，選取 **縮放**.
+1. 輸入 **[!UICONTROL 顯示名稱]**. 下 **[!UICONTROL 服務]**，選取 **[!UICONTROL 縮放]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-4.png)
 
-1. 按一下 **登入縮放**.
+1. 按一下 **[!UICONTROL 登入縮放]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-5.png)
 
-1. 在「縮放」登錄窗口中，輸入您的縮放憑據，然後按一下 **登入**.
+1. 在 [!DNL Zoom] 登入視窗，輸入您的 [!DNL Zoom] 認證，然後按一下 **[!UICONTROL 登入]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-6.png)
 
-1. 窗口關閉後，按一下 **建立**.
+1. 視窗關閉後，按一下 **[!UICONTROL 建立]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-7.png)
 
-   太棒了！ 您的Zoom帳戶現在會與Marketo同步，可在LaunchPoint區域中找到。
+您的 [!DNL Zoom] 帳戶現已與Marketo同步，且可在以下網址找到： [!UICONTROL 啟動點] 區域。
 
 >[!CAUTION]
 >
->當您以縮放方式更新密碼時，也必須在Marketo中更新密碼。
+>當您在Zoom中更新密碼時，也必須在Marketo中更新密碼。
 
 >[!MORELIKETHIS]
 >
->了解如何 [使用縮放建立事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
+>瞭解如何 [建立事件，使用 [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
