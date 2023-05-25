@@ -1,57 +1,57 @@
 ---
 unique-page-id: 2360360
-description: 建立Webhook - Marketo檔案 — 產品檔案
-title: 建立網頁連結
+description: 建立 [!DNL Webhook] - Marketo檔案 — 產品檔案
+title: 建立 [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: a498dcc5dc95bd7f732481d30db021485cf052c0
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
 
-# 建立網頁連結 {#create-a-webhook}
+# 建立 [!DNL Webhook] {#create-a-webhook}
 
-使用Webhook來利用協力廠商Web服務來傳送文字訊息、擴展人員資料等。
+使用 [!DNL Webhooks] 善用協力廠商網站服務來傳送文字訊息、擴充個人資料等。
 
 >[!AVAILABILITY]
 >
->並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的銷售代表。
+>並非所有客戶都已購買此功能。 如需詳細資訊，請聯絡您的銷售代表。
 
-1. 前往 **管理** 的上界。
+1. 前往 **[!UICONTROL 管理員]** 區域。
 
    ![](assets/create-a-webhook-1.png)
 
-1. 按一下 **Webhook**.
+1. 按一下 **[!UICONTROL Webhook]**.
 
    ![](assets/create-a-webhook-2.png)
 
-1. 按一下 **全新Webhook**.
+1. 按一下 **[!UICONTROL 新Webhook]**.
 
    ![](assets/create-a-webhook-3.png)
 
-1. 命名並設定您的網頁連結。
+1. 命名並設定您的 [!DNL Webhook].
 
    ![](assets/create-a-webhook-4.png)
 
    >[!NOTE]
    >
-   >這通常包括以URL參數或POST範本的形式輸入您的協力廠商服務憑證。
+   >這通常包括以URL引數或POST範本的形式輸入您的協力廠商服務認證。
 
-   * **URL**:輸入您在向Web服務提出的請求中使用的URL。 插入代號，例如人員的電子郵件地址(**`{{lead.Email Address}}`**)，在您的請求中，按一下 **插入代號**.
+   * **[!UICONTROL URL]**：輸入您在向Web服務提出請求時使用的URL。 若要插入Token，例如人員的電子郵件地址(**`{{lead.Email Address}}`**)，在您的請求中，按一下 **[!UICONTROL 插入Token]**.
 
-   * **範本**:如果您想要在要求內文中傳送資訊，請透過裝載範本輸入。 允許使用以下請求類型的模板：POST、DELETE、PATCH或PUT。 您可以使用JSON或XML等資料格式。 若要在範本中插入代號，請按一下 **插入代號**.
+   * **[!UICONTROL 範本]**：如果您想要在要求內文中傳輸資訊，請透過裝載範本輸入。 允許用於以下請求型別的範本：POST、DELETE、PATCH或PUT。 您可以使用JSON或XML等資料格式。 若要在範本中插入權杖，請按一下 **[!UICONTROL 插入Token]**.
 
-   * **請求權杖編碼**:如果代號值包含特殊字元（例如&amp;），請指出請求的格式(**JSON** 或 **表單/URL**)。
+   * **[!UICONTROL 請求權杖編碼]**：如果代號值包含特殊字元（例如&amp;符號、&#39;&amp;&#39;），請指出要求的格式(**JSON** 或 **表單/URL**)。
 
-   * **回應類型**:選取您從服務收到的回應格式(**JSON** 或 **XML**)。
+   * **[!UICONTROL 回應型別]**：選取您從服務收到的回應格式(**JSON** 或 **XML**)。
 
-   * **請求類型**:選取要使用的HTTP方法(DELETE、GET、PATCH、POST、PUT)。
+   * **[!UICONTROL 請求型別]**：選取要使用的HTTP方法(DELETE、GET、PATCH、POST、PUT)。
 
-1. 按一下 **建立**。
+1. 按一下 **[!UICONTROL 建立]**。
 
    ![](assets/create-a-webhook-5.png)
 
 >[!NOTE]
 >
->了解更多 [webhook](https://developers.marketo.com/documentation/webhooks/) 深潛。
+>進一步瞭解 [[!DNL Webhooks]](https://developers.marketo.com/documentation/webhooks/){target="_blank"} 深入研究。

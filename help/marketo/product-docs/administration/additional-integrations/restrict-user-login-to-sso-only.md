@@ -1,18 +1,18 @@
 ---
 unique-page-id: 2360358
-description: 僅限使用者登入SSO - Marketo檔案 — 產品檔案
-title: 僅限用戶登錄到SSO
+description: 限制使用者僅以SSO登入 — Marketo檔案 — 產品檔案
+title: 僅限使用者登入至SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
 
-# 僅限用戶登錄到SSO {#restrict-user-login-to-sso-only}
+# 僅限使用者登入至SSO {#restrict-user-login-to-sso-only}
 
-如果你 [使用SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) 並且要確保用戶無法繞過SSO安全，請按照以下說明操作。
+如果您是 [使用SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) 並且想要確保使用者無法略過SSO安全性，請遵循這些指示。
 
 >[!IMPORTANT]
 >
@@ -20,41 +20,41 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理權限**
+>**需要管理員許可權**
 
-1. 前往 **管理** 的上界。
+1. 前往 **[!UICONTROL 管理員]** 區域。
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 
-1. 按一下 **登入設定**.
+1. 按一下 **[!UICONTROL 登入設定]s**.
 
    ![](assets/restrict-user-login-to-sso-only-2.png)
 
-1. 按一下 **編輯安全設定**.
+1. 按一下 **[!UICONTROL 編輯安全性設定]**.
 
    ![](assets/restrict-user-login-to-sso-only-3.png)
 
-1. 展開進階設定，勾選 **需要SSO**，然後按一下 **儲存**.
+1. 展開 **[!UICONTROL 進階]** 設定，檢查 **[!UICONTROL 需要SSO]**，然後按一下 **[!UICONTROL 儲存]**.
 
 ![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >
->最佳實務是邀請使用者並接受邀請。 _之後_ 接受邀請後，管理員應將邀請設為「需要SSO」。
+>最佳實務是邀請使用者並接受邀請。 _晚於_ 邀請被接受，管理員應將其設為&quot;[!UICONTROL 需要SSO].」
 
 >[!TIP]
 >
->如果您選取 **需要SSO**，您可以排除 [使用者角色](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) 通過檢查 **略過單一登入** 選項。 這可讓使用者正常登入。 例如，管理員使用者可能仍需透過登入畫面登入Marketo。
+>如果您選取 **[!UICONTROL 需要SSO]**，您可以排除 [使用者角色](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) 以檢查此限制 **[!UICONTROL 略過單一登入]** 選項。 這可讓使用者正常登入。 例如，管理員使用者可能仍需要透過登入畫面登入Marketo。
 
 >[!CAUTION]
 >
->新使用者受邀時，會收到邀請電子郵件。 但若 **需要SSO** 選取，則不會收到這些電子郵件，除非這些電子郵件已指派給已設為的角色 **略過單一登入**.
+>邀請新使用者時，他們會收到邀請電子郵件。 但是，如果 **[!UICONTROL 需要SSO]** ，則他們不會收到這些電子郵件，除非他們被指派給設定的角色 **[!UICONTROL 略過單一登入]**.
 
-就這樣！ 現在，所有使用者（具有略過單一登入權限的使用者除外）將僅限使用SSO登入。
+完成了！ 現在，所有使用者（具有略過單一登入許可權的使用者除外）將限製為僅使用SSO登入。
 
 >[!MORELIKETHIS]
 >
->* [將單一登入新增至入口網站](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [使用通用ID登入訂閱](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [邀請Marketo使用者加入兩個具有通用ID的例項](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [新增單一登入至入口網站](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
+>* [使用通用ID進行訂閱登入](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
+>* [使用通用ID邀請Marketo使用者使用兩個執行個體](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
