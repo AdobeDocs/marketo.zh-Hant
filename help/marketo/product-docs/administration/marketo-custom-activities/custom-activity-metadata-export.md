@@ -2,7 +2,7 @@
 description: 自訂活動中繼資料匯出 — Marketo檔案 — 產品檔案
 title: 自訂活動中繼資料匯出
 exl-id: 7dba5cf0-6394-4bb7-b9e1-5db156e6d888
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 # 自訂活動中繼資料匯出 {#custom-activity-metadata-export}
 
-請依照下列步驟，匯出您的自訂活動中繼資料結構。
+請依照下列步驟匯出您的自訂活動中繼資料結構。
 
-1. 在「我的Marketo」中，按一下 **管理**.
+1. 在「我的Marketo」中，按一下 **[!UICONTROL 管理員]**.
 
    ![](assets/custom-activity-metadata-export-1.png)
 
-1. 按一下 **Marketo自訂活動**.
+1. 按一下 **[!UICONTROL Marketo自訂活動]**.
 
    ![](assets/custom-activity-metadata-export-2.png)
 
@@ -25,12 +25,12 @@ ht-degree: 0%
 
    ![](assets/custom-activity-metadata-export-3.png)
 
-1. 按一下 **自訂活動動作** 下拉式清單並選取 **匯出活動**.
+1. 按一下 **[!UICONTROL 自訂活動動作]** 下拉式清單並選取 **[!UICONTROL 匯出活動]**.
 
    ![](assets/custom-activity-metadata-export-4.png)
 
 >[!NOTE]
 >
->「自訂活動」必須處於「已核准」狀態才能匯出。
+>自訂活動必須處於已核准狀態才能匯出。
 
-您現在有一個試算表，內含自訂活動的結構描述，橫跨三個標籤。
+您現在有一個試算表，內含三個標籤中的自訂活動結構。
