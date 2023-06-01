@@ -3,7 +3,7 @@ unique-page-id: 10097613
 description: 新增Marketo自訂物件連結欄位 — Marketo檔案 — 產品檔案
 title: 新增Marketo自訂物件連結欄位
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -12,20 +12,20 @@ ht-degree: 0%
 
 # 新增Marketo自訂物件連結欄位 {#add-marketo-custom-object-link-fields}
 
-建立自定義對象時，必須提供連結欄位，以將自定義對象記錄連接到正確的父記錄。
+建立自訂物件時，您必須提供連結欄位，以將自訂物件記錄連線到正確的父記錄。
 
-* 若為一對多自訂結構，請使用自訂物件中的連結欄位，將其連結至人員或公司。
-* 對於多對多結構，您使用兩個連結欄位，從單獨建立的中介物件（這也是自訂物件的類型）連接。 一個連結會連線至資料庫中的人員或公司，另一個則連線至自訂物件。 在這種情況下，連結欄位不位於自訂物件本身。
+* 對於一對多自訂結構，使用自訂物件中的連結欄位來將其連線到個人或公司。
+* 對於多對多的結構，您使用兩個連結欄位，從單獨建立的中介物件（這也是自訂物件的型別）連線。 一個連結會連線至資料庫中的人員或公司，另一個連結則連線至自訂物件。 在此情況下，連結欄位並不位於自訂物件本身中。
 
-## 為一對多結構建立連結欄位 {#create-a-link-field-for-a-one-to-many-structure}
+## 建立一對多結構的連結欄位 {#create-a-link-field-for-a-one-to-many-structure}
 
 以下說明如何在一對多結構的自訂物件中建立連結欄位。
 
-1. 前往 **管理** 的上界。
+1. 前往 **[!UICONTROL 管理員]** 區域。
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
-1. 按一下 **Marketo自訂物件**.
+1. 按一下 **[!UICONTROL Marketo自訂物件]**.
 
    ![](assets/add-marketo-custom-object-link-fields-2.png)
 
@@ -33,37 +33,37 @@ ht-degree: 0%
 
    ![](assets/add-marketo-custom-object-link-fields-3.png)
 
-1. 在 **欄位** 按一下 **新欄位**.
+1. 在 **[!UICONTROL 欄位]** 標籤，按一下 **[!UICONTROL 新增欄位]**.
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
-1. 為連結欄位命名並新增選用說明。 請務必選取「連結」資料類型。
+1. 為連結欄位命名並新增選用欄位 [!UICONTROL 說明]. 請務必選取 [!UICONTROL 連結] 資料型別。
 
    ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
-   >在批准自定義對象後，您將無法返回並建立、編輯或刪除連結或重複資料刪除欄位。
+   >您將無法返回並建立、編輯或刪除 [!UICONTROL 連結] 或 [!UICONTROL 重複資料刪除欄位] 在核准自訂物件後。
 
-1. 選擇連結對象是銷售機會（人員）還是公司。
+1. 選取是否 [!UICONTROL 連結物件] 針對 [!UICONTROL 銷售機會] （人員）或 [!UICONTROL 公司].
 
    ![](assets/add-marketo-custom-object-link-fields-6.png)
 
    >[!NOTE]
    >
-   >如果您選擇銷售機會，您會在清單中看到Id、電子郵件地址和任何自訂欄位。
+   >如果您選擇 [!UICONTROL 銷售機會]，您會在清單中看到ID、電子郵件地址及任何自訂欄位。
    >
-   >如果您選擇公司，清單中會顯示Id和任何自訂欄位。
+   >如果您選擇 [!UICONTROL 公司]，您會在清單中看到ID及任何自訂欄位。
 
-1. 選取要連線的連結欄位，作為新欄位的父欄位。
+1. 選取 [!UICONTROL 連結欄位] 您想要以新欄位的父項身份連線到。
 
    ![](assets/add-marketo-custom-object-link-fields-7.png)
 
    >[!NOTE]
    >
-   >連結欄位中僅支援字串欄位類型。
+   >連結欄位僅支援字串欄位型別。
 
-1. 按一下 **儲存。**
+1. 按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/add-marketo-custom-object-link-fields-8.png)
 
@@ -73,57 +73,57 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必須已建立中間對象以及要連結到的任何自定義對象。
+>您必須已建立中介物件以及要連結至該中介物件的任何自訂物件。
 
-1. 前往 **管理** 的上界。
+1. 前往 **[!UICONTROL 管理員]** 區域。
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 
-1. 按一下 **Marketo自訂物件**.
+1. 按一下 **[!UICONTROL Marketo自訂物件]**.
 
    ![](assets/add-marketo-custom-object-link-fields-10.png)
 
-1. 選擇要添加欄位的中間對象。
+1. 選取您要新增欄位的中介物件。
 
    ![](assets/add-marketo-custom-object-link-fields-11.png)
 
-1. 在 **欄位** 按一下 **新欄位**.
+1. 在 **[!UICONTROL 欄位]** 標籤，按一下 **[!UICONTROL 新增欄位]**.
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. 您需要建立兩個連結欄位。 一次建立一個。 首先，為資料庫清單成員的欄位命名（例如leadID）。 新增選用說明。 請務必選取連結資料類型。
+1. 您需要建立兩個連結欄位。 逐一建立一個。 首先，為資料庫清單成員的欄位命名（例如leadID）。 新增選用專案 [!UICONTROL 說明]. 請務必選取 [!UICONTROL 連結] [!UICONTROL 資料型別].
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
-   >在批准自定義對象後，您將無法返回並建立、編輯或刪除連結或重複資料刪除欄位。
+   >您將無法返回並建立、編輯或刪除 [!UICONTROL 連結] 或 [!UICONTROL 重複資料刪除欄位] 在核准自訂物件後。
 
-1. 從資料庫中選擇連結對象，在此例中為Lead。
+1. 選取 [!UICONTROL 連結物件] 從您的資料庫；在此案例中， [!UICONTROL 銷售機會].
 
    ![](assets/add-marketo-custom-object-link-fields-14.png)
 
-1. 選取您要連線的連結欄位，在此例中為Id。
+1. 選取 [!UICONTROL 連結欄位] 在此情況下，您想要連線至 [!UICONTROL Id].
 
    ![](assets/add-marketo-custom-object-link-fields-15.png)
 
    >[!NOTE]
    >
-   >連結欄位中僅支援字串欄位類型。
+   >中僅支援字串欄位型別 [!UICONTROL 連結欄位].
 
-1. 按一下 **儲存。**
+1. 按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/add-marketo-custom-object-link-fields-16.png)
 
-1. 在本示例courseID中，對自定義對象的第二個連結重複此過程。 連結對象名稱將是課程，連結欄位將是課程ID。 由於您已建立並批准課程自定義對象，因此下拉菜單中提供了這些選擇。
+1. 對自訂物件的第二個連結（在此範例中為courseID）重複此程式。 此 [!UICONTROL 連結物件] 名稱將是course，而 [!UICONTROL 連結欄位] 將為courseID。 由於您已建立並核准課程自訂物件，因此這些選取專案可在下拉式功能表中使用。
 
    ![](assets/add-marketo-custom-object-link-fields-17.png)
 
-1. 建立要在中間對象中使用的任何其他欄位，如enrollmentID或grade。
+1. 建立您要在中介物件中使用的任何其他欄位，例如enrollmentID或等級。
 
 ## 使用自訂物件 {#using-custom-objects}
 
-下一步是在智慧型行銷活動的篩選器中使用這些自訂物件。 透過多對多關係，您可以選取多個人員/公司和多個自訂物件。 在下列範例中，資料庫中符合這些條件的任何人都會列出。 coursename欄位來自課程自定義對象，註冊級別來自中間對象。
+下一步是在您的智慧行銷活動中，在篩選器中使用這些自訂物件。 透過多對多關係，您可以選取多個人員/公司和多個自訂物件。 在下列範例中，資料庫中符合這些條件的任何人都會列出。 coursename欄位來自課程自訂物件，而註冊評分來自中繼物件。
 
 ![](assets/add-marketo-custom-object-link-fields-18.png)
 
@@ -131,6 +131,6 @@ ht-degree: 0%
 >
 >* [新增Marketo自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
 >* [編輯和刪除Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [了解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [瞭解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 >* [編輯和刪除Marketo自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 

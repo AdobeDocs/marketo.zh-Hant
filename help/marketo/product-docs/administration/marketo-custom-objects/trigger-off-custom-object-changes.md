@@ -3,9 +3,9 @@ unique-page-id: 11378713
 description: 觸發自訂物件變更 — Marketo檔案 — 產品檔案
 title: 觸發自訂物件變更
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -14,25 +14,25 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此功能僅可用：
+>此功能僅適用於：
 >
->* 針對Orion基礎架構的客戶
->* 僅供Marketo自訂物件使用，不能透過原生Salesforce或Microsoft Dynamics整合同步的自訂物件
+>* 對於位於以下位置的客戶： [!DNL Orion] 基礎結構
+>* 僅適用於Marketo自訂物件，而非透過原生物件同步的自訂物件 [!DNL Salesforce] 或 [!DNL Microsoft Dynamics] 整合
 >* 作為觸發器，而非篩選器
 >
->請聯繫 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support) 啟用「自訂物件變更觸發器」。
+>請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support) 啟用自訂物件變更觸發程式。
 
-在智慧型促銷活動的智慧清單中，當自訂物件新增至人員或公司時，您可以觸發流量動作。 您也可以建立使用 *變更* 在自訂物件中作為觸發器。 例如，使用它可在課程名稱更新時發送電子郵件。
+在智慧行銷活動的智慧清單中，當自訂物件新增到人員或公司時，您可以觸發流量動作。 您也可以建立使用 *變更* 在自訂物件中作為觸發器。 例如，使用它可在課程名稱更新時傳送電子郵件。
 
 >[!NOTE]
 >
->更改自定義對象記錄時不會建立活動日誌條目。
+>自訂物件記錄變更時，不會建立活動記錄專案。
 
-1. 在Marketo中，前往 **行銷活動。**
+1. 在Marketo Engage中，前往 **[!UICONTROL 行銷活動]**.
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
-1. 建立或開啟現有的智慧型促銷活動，然後選取「智慧清單」。
+1. 建立或開啟現有的Smart Campaign，然後選取「智慧列示」。
 
    ![](assets/trigger-off-custom-object-changes-2.png)
 
@@ -40,20 +40,20 @@ ht-degree: 0%
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. 選取觸發器屬性。
+1. 選取 [!UICONTROL 觸發器屬性].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 
-1. （可選）設定約束。
+1. 選擇性地設定限制。
 
    ![](assets/trigger-off-custom-object-changes-5.png)
 
-1. 你在這。 變更會自動儲存。
+1. 而你就在那兒。 變更會自動儲存。
 
    ![](assets/trigger-off-custom-object-changes-6.png)
 
    >[!NOTE]
    >
    >* [建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >* [了解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+   >* [瞭解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 

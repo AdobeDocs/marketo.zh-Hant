@@ -2,7 +2,7 @@
 description: 自訂物件中繼資料匯出 — Marketo檔案 — 產品檔案
 title: 自訂物件中繼資料匯出
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -11,17 +11,17 @@ ht-degree: 0%
 
 # 自訂物件中繼資料匯出 {#custom-object-metadata-export}
 
-如果您使用的是我們的SOAP API或Munchkin API，則可匯出自訂物件中繼資料結構。 這裡是怎麼弄到的。
+如果您使用我們的SOAP API或Munchkin API，可以匯出自訂物件中繼資料結構。 以下說明如何取得。
 
 >[!AVAILABILITY]
 >
->並非所有客戶都購買過此功能。 如需詳細資訊，請聯絡Adobe帳戶團隊（您的客戶經理）。
+>並非所有客戶都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-1. 在「我的Marketo」中，按一下 **管理**.
+1. 前往 **[!UICONTROL 管理員]** 區域。
 
    ![](assets/custom-object-metadata-export-1.png)
 
-1. 按一下 **Marketo自訂物件**.
+1. 按一下 **[!UICONTROL Marketo自訂物件]**.
 
    ![](assets/custom-object-metadata-export-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/custom-object-metadata-export-3.png)
 
-1. 按一下 **自訂物件動作** 下拉式清單並選取 **導出對象**.
+1. 按一下 **[!UICONTROL 自訂物件動作]** 下拉式清單並選取 **[!UICONTROL 匯出物件]**.
 
    ![](assets/custom-object-metadata-export-4.png)
 

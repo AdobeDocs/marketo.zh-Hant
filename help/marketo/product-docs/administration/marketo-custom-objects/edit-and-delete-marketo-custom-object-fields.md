@@ -3,7 +3,7 @@ unique-page-id: 10095453
 description: 編輯和刪除Marketo自訂物件欄位 — Marketo檔案 — 產品檔案
 title: 編輯和刪除Marketo自訂物件欄位
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -20,11 +20,11 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. 在欄位標籤上，按一下 **欄位動作** 和 **編輯欄位**.
+1. 在 [!UICONTROL 欄位] 標籤，按一下 **[!UICONTROL 欄位動作]** 和 **[!UICONTROL 編輯欄位]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
-1. 進行變更，然後按一下 **儲存**.
+1. 進行變更並按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-3.png)
 
@@ -40,18 +40,18 @@ ht-degree: 0%
 
 當您不再需要自訂物件中的欄位時，可以將其刪除。
 
-1. 在欄位標籤上，按一下 **欄位動作** 和 **刪除欄位**.
+1. 在欄位索引標籤中，按一下 **[!UICONTROL 欄位動作]** 和 **[!UICONTROL 刪除欄位]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-   提取觸發器之前，請確定您確實要刪除欄位！ 按一下 **刪除**.
+1. 在提取觸發程式之前，請確定您確定要刪除欄位！ 按一下 **[!UICONTROL 刪除]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
-   沒了！
+它不見了！
 
-   ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
+![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 
-   >[!NOTE]
-   >
-   >[新增Marketo自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>[!NOTE]
+>
+>[新增Marketo自訂物件欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
