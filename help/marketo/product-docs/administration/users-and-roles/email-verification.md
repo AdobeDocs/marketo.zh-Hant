@@ -2,9 +2,9 @@
 description: 電子郵件驗證 — Marketo檔案 — 產品檔案
 title: 電子郵件驗證
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: e104a8bd41d61451202ba089512dc688680292ce
+source-git-commit: 247e032254757789efddeef17bc589ba0ac85d49
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Adobe Marketo Engage訂閱需要所有非API的使用者(包括Marketo Engage管
 
 ## 驗證電子郵件 {#verification-email}
 
-受邀使用者將收到以下電子郵件：
+當訂閱的電子郵件驗證已啟動，或是管理員/使用者觸發時，使用者會收到以下電子郵件：
 
 ![](assets/email-verification-1.png)
 
