@@ -2,33 +2,50 @@
 description: 電子郵件驗證 — Marketo檔案 — 產品檔案
 title: 電子郵件驗證
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: c45b3ab94b806b53768891613f15b8e9b694a440
+source-git-commit: 44cca5ebad831cc39babac87ac9ebbf53df6c795
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
 # 電子郵件驗證 {#email-verification}
 
-Adobe Marketo Engage訂閱僅需要所有非API使用者，包括Marketo Engage管理員，才能驗證其電子郵件地址。 未獲派管理員角色或已獲派具有「略過SSO」權限之角色的單一登入(SSO)使用者，在透過「電子郵件驗證」功能啟用訂閱時，會自動進行電子郵件驗證。
+Adobe Marketo Engage訂閱需要所有非API的使用者(包括Marketo Engage管理員)驗證其電子郵件地址。 未指派管理員角色或已指派具有「略過SSO」許可權之角色的Single Sign-on (SSO)使用者，在透過電子郵件驗證功能啟用其訂閱時，將會自動驗證其電子郵件。
 
-**使用者邀請**
+## 使用者邀請 {#user-invite}
 
-當管理員邀請使用者時，當該使用者按一下邀請連結後，就會自動驗證該使用者。 系統會自動驗證未指派管理員角色的SSO使用者。
+當管理員邀請使用者時，該使用者在按一下邀請連結後就會自動驗證。 系統會自動驗證未指派管理員角色的SSO使用者。
 
-**變更電子郵件地址**
+## 變更電子郵件地址 {#changing-an-email-address}
 
-使用者的電子郵件地址變更後，即會無法驗證。 系統會傳送電子郵件給他們，讓他們重新驗證。 使用者可以按一下「 」，手動重新傳送該電子郵件 **重發驗證**.
+當使用者的電子郵件地址變更時，它將變為未驗證。 系統會傳送電子郵件給他們，讓他們重新驗證。 使用者可以按一下「 」，手動重新傳送該電子郵件 **重新傳送驗證**.
 
 ![](assets/email-verification-1.png)
 
 ![](assets/email-verification-2.png)
 
-**使用者和角色**
+## 使用者和角色 {#users-and-roles}
 
-在「管理員>使用者和角色」中，「電子郵件狀態」欄會顯示每位使用者的驗證狀態。
+在 **管理員** > **使用者和角色**，電子郵件狀態列會顯示每個使用者的驗證狀態。
 
 ![](assets/email-verification-3.png)
 
-要向未驗證的用戶重新發送驗證電子郵件，只需選擇其記錄並按一下 **驗證電子郵件** 按鈕。
+## 多個使用者登入ID {#multiple-user-login-ids}
+
+一個電子郵件地址只能關聯一個使用者帳戶。 如果有多個使用者帳戶與單一電子郵件地址相關聯，則Marketo Engage需要解決衝突，並顯示與電子郵件地址相關聯的所有使用者登入，以及三個解決方法選項：<p>
+`1` 使用目前的電子郵件作為目前的使用者登入ID<p>
+`2` 使用新電子郵件作為目前的使用者登入ID<p>
+`3` 延遲決定至下一次登入
+
+![](assets/email-verification-4.png)
+
+## 驗證電子郵件 {#verification-email}
+
+受邀使用者將收到以下電子郵件：
+
+![](assets/email-verification-5.png)
+
+>[!NOTE]
+>
+>若要將驗證電子郵件重新傳送給未驗證的使用者，只要選取其記錄並按一下 **驗證電子郵件** 按鈕。
