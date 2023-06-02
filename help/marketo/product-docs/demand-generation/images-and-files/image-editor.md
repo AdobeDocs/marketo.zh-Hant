@@ -1,31 +1,29 @@
 ---
 description: 影像編輯器 — Marketo檔案 — 產品檔案
 title: 影像編輯器
-hide: true
-hidefromtoc: true
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+source-git-commit: 178100fd0e30ed45632c80c3e9d288c6ff2a3a76
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-# 影像編輯器
+# 影像編輯器 {#image-editor}
 
 影像編輯器可讓您以Marketo Engage快速輕鬆編輯影像。
 
 1. 前往 **[!UICONTROL Design Studio]**.
 
-PICC
+   ![](assets/image-editor-1.png)
 
-1. 找到您的影像([!UICONTROL 最近的Design Studio Assets] 或 [!UICONTROL 影像和檔案])，然後按一下其檔案名稱。
+1. 找到並選取您的影像。
 
-PICC
+   ![](assets/image-editor-2.png)
 
 1. 按一下 **[!UICONTROL 編輯影像]** 按鈕。
 
-PICC
+   ![](assets/image-editor-3.png)
 
 1. 從頂端工具列中的各種功能中選擇。 按一下 **[!UICONTROL 儲存]** 完成時。
 
-PICC
+   ![](assets/image-editor-4.png)
