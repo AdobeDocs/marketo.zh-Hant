@@ -1,19 +1,24 @@
 ---
-description: Sales Insight Actions使用者入門檢查清單 — Marketo檔案 — 產品檔案
-title: Sales Insight Actions用戶入門檢查清單
-source-git-commit: 6e474bd49491744115a284342690f5140409590b
+description: 銷售分析動作使用者入門檢查清單 — Marketo檔案 — 產品檔案
+title: 銷售分析動作使用者入門檢查清單
+exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
-# Sales Insight Actions用戶入門檢查清單 {#sales-insight-actions-user-onboarding-checklist}
+# 銷售分析動作使用者入門檢查清單 {#sales-insight-actions-user-onboarding-checklist}
 
-如果您想尋找有關如何開始使用Marketo Sales Insight Actions的資源，請 [下載入門檢查清單](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx).
+如果您正在尋找有關如何開始使用Marketo Sales Insight Actions的資源，請 [下載入門檢查清單](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx).
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions是以Web為基礎的應用程式，可透過 [Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 有時稱為「Marketo銷售」，或簡稱為「動作」。
 
 [![](assets/sales-insight-actions-user-onboarding-checklist-1.png)](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx)
 
 <br/>
 
-檢查清單將幫助您和您的團隊協調新Sales Insight Actions實例的激活、配置和上線。 您需要在Marketo、Salesforce和Marketo Sales Insight Actions中進行更新，才能完成設定，因此請務必與每個系統的管理員協調。
+此檢查清單可協助您和您的團隊協調啟動、設定和上線新的Sales Insight Actions執行個體。 您必須在Marketo、Salesforce和Marketo Sales Insight Actions中進行更新，才能完成設定，因此請務必與每個系統的管理員協調。

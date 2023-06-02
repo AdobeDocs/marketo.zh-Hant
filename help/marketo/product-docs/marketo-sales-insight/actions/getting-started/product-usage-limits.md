@@ -1,30 +1,34 @@
 ---
-description: 產品使用限制 — Marketo檔案 — 產品檔案
+description: 產品使用量限制 — Marketo檔案 — 產品檔案
 title: 產品使用量限制
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
-source-git-commit: 679f003e615544679b7f98dd93e2e4f23ec83ee5
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 14%
+source-wordcount: '231'
+ht-degree: 12%
 
 ---
 
 # 產品使用量限制 {#product-usage-limits}
 
-對於「銷售分析操作」中可用的擴展銷售參與功能，已設定以下限制。
+在下方，您會找到Sales Insight Actions中可用之擴充銷售參與功能的使用限制。
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions是以Web為基礎的應用程式，可透過 [Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 有時稱為「Marketo銷售」，或簡稱為「動作」。
 
 <table>
   <th>功能</th>
   <th>評比</th>
   <th>限制</th>
  <tr>
-  <td>Marketo人員資料庫同步</td>
+  <td>Marketo個人資料庫同步</td>
   <td>進行中</td>
   <td>1,500,000人</td>
  </tr>
  <tr>
-  <td>銷售電子郵件發送</td>
-  <td>每位使用者/每日</td>
+  <td>銷售電子郵件傳送</td>
+  <td>每使用者/每日</td>
   <td>1,000</td>
  </tr>
  <tr>
@@ -43,27 +47,27 @@ ht-degree: 14%
   <td>500</td>
  </tr>
  <tr>
-  <td>電子郵件儲存的搜尋</td>
-  <td>每位使用者</td>
+  <td>以電子郵件傳送儲存的搜尋</td>
+  <td>每個使用者</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>促銷活動類別</td>
+  <td>行銷活動類別</td>
   <td>每個執行個體</td>
   <td>500</td>
  </tr>
  <tr>
-  <td>促銷活動啟動</td>
-  <td>每位使用者/每日</td>
+  <td>行銷活動啟動</td>
+  <td>每使用者/每日</td>
   <td>200</td>
  </tr>
  <tr>
   <td>行銷活動執行中</td>
-  <td>每位使用者/每日</td>
+  <td>每使用者/每日</td>
   <td>200</td>
  </tr>
  <tr>
-  <td>大量促銷活動</td>
+  <td>大量行銷活動</td>
   <td>每次啟動</td>
   <td>200</td>
  </tr>
@@ -73,31 +77,31 @@ ht-degree: 14%
   <td>500</td>
  </tr>
   <td>呼叫</td>
-  <td>每位使用者/每月（跨例項共用）</td>
+  <td>每個使用者/每月（跨執行個體共用）</td>
   <td>50分鐘</td>
  </tr>
  <tr>
-  <td>呼叫錄制</td>
-  <td>每位使用者/每月（跨例項共用）</td>
+  <td>通話錄製</td>
+  <td>每個使用者/每月（跨執行個體共用）</td>
   <td>50</td>
  </tr>
  <tr>
   <td>群組</td>
-  <td>每位使用者</td>
+  <td>每個使用者</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>每組人員</td>
-  <td>每組</td>
+  <td>每個群組的使用者</td>
+  <td>每群組</td>
   <td>200</td>
  </tr>
  <tr>
-  <td>已上載附件</td>
-  <td>每位使用者</td>
+  <td>附件已上傳</td>
+  <td>每個使用者</td>
   <td>25</td>
  </tr>
  <tr>
-  <td>使用者座位</td>
+  <td>使用者名額</td>
   <td>每個執行個體</td>
   <td>100</td>
  </tr>
@@ -112,12 +116,12 @@ ht-degree: 14%
   <td>15</td>
  </tr>
  <tr>
-  <td>呼叫原因</td>
+  <td>來電原因</td>
   <td>每個執行個體</td>
   <td>15</td>
  </tr>
  <tr>
-  <td>通話錄音通知</td>
+  <td>通話錄製通知</td>
   <td>每個執行個體</td>
   <td>5</td>
  </tr>
@@ -127,16 +131,16 @@ ht-degree: 14%
   <td>13</td>
  </tr>
   <td>電子郵件身分</td>
-  <td>每位使用者</td>
+  <td>每個使用者</td>
   <td>2</td>
  </tr>
  <tr>
-  <td>團隊SMTP伺服器連接</td>
+  <td>Team SMTP伺服器連線</td>
   <td>每個執行個體</td>
   <td>1</td>
  </tr>
  <tr>
-  <td>團隊取消訂閱消息</td>
+  <td>團隊取消訂閱傳訊</td>
   <td>每個執行個體</td>
   <td>1</td>
  </tr>
@@ -146,8 +150,8 @@ ht-degree: 14%
   <td>1</td>
  </tr>
  <tr>
-  <td>SFDC連接</td>
-  <td>每位使用者</td>
+  <td>SFDC連線</td>
+  <td>每個使用者</td>
   <td>1</td>
  </tr>
  <tr>
