@@ -2,10 +2,10 @@
 description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+source-git-commit: 159c0aee929327fc1e1f22d0de3abb7380935d86
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 5%
+source-wordcount: '368'
+ht-degree: 3%
 
 ---
 
@@ -33,8 +33,8 @@ ht-degree: 5%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud介面概觀</a></td>
   </tr>
   </tbody>
 </table>
@@ -75,24 +75,6 @@ ht-degree: 5%
   <tr> 
    <td>轉出已開始</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">互動式網路研討會概觀</a></td>
-  </tr>
-  </tbody>
-</table>
-
-### Dynamic Chat {#dynamic-chat}
-
-</br>
-
-* **Dynamic Chat聊天來源**：「聊天」現在作為新人員記錄和活動的來源提供。 此來源可用於協助使用者篩選智慧清單/行銷活動中的活動。 也可以封鎖來源，不讓欄位更新。
-
-<table> 
-  <tr> 
-   <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
   </tr>
   </tbody>
 </table>
