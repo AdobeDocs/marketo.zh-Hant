@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 4959a5780ae89f7b715485e9106aa275f2b155a1
+source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
 workflow-type: tm+mt
-source-wordcount: '8900'
+source-wordcount: '8904'
 ht-degree: 0%
 
 ---
@@ -1310,7 +1310,6 @@ ht-degree: 0%
                + [新增或更新您的電子郵件簽名](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [新增身分](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
          + 管理員 {#admin}
-            + [動作資料同步常見問題集](product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md)
             + [從Salesforce自動登入](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [封鎖的網域](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [連線新管理員至Marketo](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
@@ -1320,6 +1319,7 @@ ht-degree: 0%
             + [邀請使用者和管理員](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [登入管理設定](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [共用設定](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+            + [與Marketo和Salesforce同步銷售動作資料](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [使用者存取細節](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Analytics {#analytics}
             + [Analytics頁面概觀](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
