@@ -2,7 +2,7 @@
 description: Sales Insight Actions管理員設定指南 — Marketo檔案 — 產品檔案
 title: Sales Insight Actions管理員設定指南
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+source-git-commit: 7249a7e7cd1879d35fedef0a6e3568fbc2872ef9
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 0%
@@ -138,7 +138,7 @@ Marketo和Salesforce中存在的個人記錄將同步至您的Marketo Sales Apps
 
 >[!NOTE]
 >
->若要進一步瞭解人員與活動資料如何在Sales Insight Actions、Marketo和Salesforce之間同步， [按一下這裡](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md){target="_blank"}.
+>若要進一步瞭解人員與活動資料如何在Sales Insight Actions、Marketo和Salesforce之間同步， [按一下這裡](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
 
 ## 邀請個別使用者加入MSI動作 {#invite-individual-users-to-msi-actions}
 
