@@ -1,7 +1,7 @@
 ---
 description: 欄位提示 — Marketo檔案 — 產品檔案
 title: 欄位提示
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 `{{! Add sentence that references their industry and role}}`
 
-在傳送電子郵件之前，使用者需要以自己的個人化取代此文字。
+<p>在傳送電子郵件之前，使用者需要以自己的個人化取代此文字。
 
 >[!NOTE]
 >
