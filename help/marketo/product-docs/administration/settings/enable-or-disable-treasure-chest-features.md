@@ -1,39 +1,39 @@
 ---
 unique-page-id: 2360307
 description: 啟用或停用Treasure Chest功能 — Marketo檔案 — 產品檔案
-title: 啟用或禁用財寶箱功能
+title: 啟用或停用「寶藏箱」功能
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-# 啟用或禁用財寶箱功能 {#enable-or-disable-treasure-chest-features}
+# 啟用或停用「寶藏箱」功能 {#enable-or-disable-treasure-chest-features}
 
-「金銀箱」有一些有趣的實驗功能，但並未完全支援。
+Treasure Chest提供尚未完全支援的有趣實驗功能。
 
 >[!NOTE]
 >
->**需要管理權限**
+>**需要管理員許可權**
 
-1. 前往 **管理** 的上界。
+1. 前往 **[!UICONTROL 管理員]** 區域。
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 
-1. 按一下 **寶箱**.
+1. 按一下 **[!UICONTROL 寶箱]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-2.png)
 
-1. 按一下 **編輯** 針對要啟用或停用的功能。
+1. 按一下 **[!UICONTROL 編輯]** 您想要啟用或停用的功能。
 
    ![](assets/enable-or-disable-treasure-chest-features-3.png)
 
-1. 檢查 **已啟用** 框以啟用，或取消選中以禁用，然後按一下 **儲存**.
+1. 檢查 **[!UICONTROL 已啟用]** 核取方塊以啟用，或取消核取以停用，然後按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-4.png)
 
    >[!TIP]
    >
-   >您可能需要先登出再返回Marketo，變更才會生效。
+   >您可能需要登出然後再重新登入Marketo，變更才會生效。

@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: 尋找及合併重複人員 — Marketo檔案 — 產品檔案
 title: 尋找並合併重複人員
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 780071242a608706e06f3026150c43441a29faa5
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->尋找及合併重複專案將使用下列專案： [內建/系統智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>尋找及合併重複專案將使用下列專案： [內建/系統智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您也可以 [使用自訂邏輯尋找重複的人員](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
+   >您也可以 [使用自訂邏輯尋找重複的人員](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
 
 ## 手動合併人員 {#merge-people-manually}
 
@@ -72,18 +72,16 @@ ht-degree: 0%
 
 ## Salesforce中的效果 {#effect-in-salesforce}
 
-如果您有Salesforce整合，有一些關於Salesforce中合併銷售機會的效果的附註。
+如果您有Salesforce整合，有一些關於在Salesforce中合併銷售機會的效果的附註。
 
 * 僅合併潛在客戶或僅合併聯絡人時，會根據一般Salesforce規則合併。
 * 當合併銷售線索與聯絡人時，所有銷售線索都會先轉換為聯絡人，再依據一般Salesforce規則合併。
 
 有關合併Lead或Contact時Salesforce行為的詳細資訊，請檢視以下Salesforce檔案：
 
-* [合併重複的銷售機會](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
-* [合併重複的連絡人](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
+* [合併重複的銷售機會](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
+* [合併重複的連絡人](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
 
 ## 大量合併 {#bulk-merging}
 
 如果您有太多要手動合併的重複專案，請聯絡Adobe客戶團隊（您的客戶經理）以討論您的選項。
-
-如果您已連線至CRM，記錄會根據下列規則在那裡合併。
