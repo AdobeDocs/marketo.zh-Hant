@@ -1,44 +1,44 @@
 ---
 unique-page-id: 2950682
 description: 建立方案管道 — Marketo檔案 — 產品檔案
-title: 建立方案管道
+title: 建立方案頻道
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
-source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 0%
 
 ---
 
-# 建立方案管道 {#create-a-program-channel}
+# 建立方案頻道 {#create-a-program-channel}
 
-方案是一項特定的行銷計畫。 管道的用途為傳送機制，例如網路研討會、贊助或線上廣告。
-
->[!NOTE]
->
->**需要管理權限**
+計畫是一種特定的行銷計畫。 此管道旨在作為傳遞機制，例如網路研討會、贊助或線上廣告。
 
 >[!NOTE]
 >
->深入了解 [方案](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)，是Marketo中最重要的元素。
+>**需要管理員許可權**
 
-1. 前往 **管理** 的上界。
+>[!NOTE]
+>
+>進一步瞭解 [計畫](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)是Marketo中最重要的元素。
+
+1. 前往 **[!UICONTROL 管理員]** 區域。
 
    ![](assets/create-a-program-channel-1.png)
 
-1. 按一下 **標籤**.
+1. 按一下 **[!UICONTROL 標籤]**.
 
    ![](assets/create-a-program-channel-2.png)
 
    >[!NOTE]
    >
-   >為什麼要標籤？ 管道是描述程式的方式，就像其他標籤一樣。 該頻道有特殊的額外功能。
+   >為何標籤？ 管道是描述節目的一種方式，就像其他標籤一樣。 此頻道僅提供特殊的額外功能。
 
-1. 按一下 **+** 登入 **管道** 以展開並查看現有管道。
+1. 按一下 **+** 在「 」旁簽名 [!UICONTROL 頻道] 以展開並檢視現有管道。
 
    ![](assets/create-a-program-channel-3.png)
 
-1. 在 **新增**，按一下 **新頻道**.
+1. 下 **[!UICONTROL 新增]**，按一下 **[!UICONTROL 新增頻道]**.
 
    ![](assets/create-a-program-channel-4.png)
 
@@ -46,76 +46,74 @@ ht-degree: 0%
    >
    >**範例**
    >
-   >管道：廣告牌
+   >頻道：廣告牌
    >
    >* 套用至：預設
-   >* 晉升：成員，已聘用（如果有疑問，這些工作正常）
+   >* 進度：成員、參與（如有疑問，這些工作正常）
    >* 成功：參與
-
    >
-   >管道：派對
+   >管道：合作對象
    >
    >* 套用至：事件
-   >* 晉升：邀請、註冊、不展示和參加
+   >* 進度：已邀請、已註冊、無節目和已出席
    >* 成功：已出席
-
    >
-   >查看現有管道的「進度」，了解如何使用這些管道。
+   >檢視現有管道的進度，瞭解如何使用它們。
 
-1. 讓我們以「派對」頻道範例為例。 為新 **管道** 並選擇要應用的程式類型。
+1. 以派對頻道為例。 為您的新專案命名 **頻道** 並選取要套用的程式型別。
 
    ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
-   >申請什麼？ 有幾種方案。 將通道與正確類型匹配。 如果有疑問，請選擇 **預設**.
+   >套用至什麼？ 有數種型別的計畫。 將頻道與正確的型別配對。 如有疑問，請選擇 **[!UICONTROL 預設]**.
 
    >[!NOTE]
    >
-   >使用「活動與網路研討會」時，將會鎖定系統對應（如網路研討會整合所要求）且無法編輯。
+   >使用&quot;[!UICONTROL 網路研討會活動]「 」系統對應將會鎖定（根據網路研討會整合的要求）且無法編輯。
 
-1. 輸入前兩個程式的狀態名稱，然後按一下 **新增步驟**.
+1. 輸入前兩個程式狀態名稱，然後按一下 **[!UICONTROL 新增步驟]**.
 
    ![](assets/create-a-program-channel-6.png)
 
-1. 輸入另一個程式 **狀態** 和 **步驟** 數字，然後按一下 **新增步驟**.
+1. 輸入其他計畫 **[!UICONTROL 狀態]** 和 **[!UICONTROL 步驟]** 數字，然後按一下 **[!UICONTROL 新增步驟]**.
 
    ![](assets/create-a-program-channel-7.png)
 
    >[!TIP]
    >
-   >此 **步驟** 編號用於排序節目狀態。 請記住，人們不能在這些進步步驟上倒退。 它們只能將狀態變更為較高或等於值的狀態。 當狀態是要來回切換而非進行時，請使用等值。
+   >此 **[!UICONTROL 步驟]** 編號用於排序程式狀態。 請記住，人們不能在這些漸進步驟中後退。 他們只能將狀態變更為更高或相等的值狀態。 當狀態要來回切換而不是進度時，請使用相等值。
 
-1. 輸入最後一個程式 **狀態** 和 **步驟** 數字。
+1. 輸入最後一個程式 **[!UICONTROL 狀態]** 和 **[!UICONTROL 步驟]** 數字。
 
    ![](assets/create-a-program-channel-8.png)
 
    >[!NOTE]
    >
-   >使用「事件」類型時，需要「已註冊」、「等待列出」和「已出席」狀態的系統映射。 因此，無法隱藏這些狀態。
+   >使用型別&quot;[!UICONTROL 事件]，」需要系統對應至「已註冊」、「輪候」和「已參加」狀態。 因此，這些狀態無法隱藏。
 
-1. 選擇 **行動簽入狀態** for **已註冊**.
+1. 選取 **[!UICONTROL 行動簽到狀態]** 的 **[!UICONTROL 已註冊]**.
 
    ![](assets/create-a-program-channel-9.png)
 
-1. 選擇 **行動簽入狀態** for **已出席**.
+1. 選取 **[!UICONTROL 行動簽到狀態]** 的 **[!UICONTROL 已出席]**.
 
    ![](assets/create-a-program-channel-10.png)
 
    >[!NOTE]
    >
-   >**行動簽入狀態**** **選項僅在管道適用於事件節目時才可用。
+   >**[!UICONTROL 行動簽到狀態]** 只有在頻道將用於事件計畫時，選項才可用。
 
    >[!NOTE]
    >
-   >只有 **行動簽入狀態** of **已註冊** 和 **已出席** 將顯示在 [行動簽入應用](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
+   >僅限擁有下列身分的人員： **[!UICONTROL 行動簽到狀態]** 之 **[!UICONTROL 已註冊]** 和 **[!UICONTROL 已出席]** 將顯示在 [行動簽入應用程式](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
 
    >[!TIP]
    >
-   >如果行動簽入應用程式中建立了新人員，則會在事件程式中將其設為「已註冊」。 如果某人已簽入應用程式上的事件，則該事件將設為「已參加事件」程式。
+   >如果在行動簽入應用程式中建立新人員，事件程式中會將其設為「已註冊」。 如果有人在應用程式上簽入事件，事件程式中的該人會設定為已參加。
 
-1. 選取 **成功** 程式狀態，然後按一下 **建立**.
+1. 選取 **[!UICONTROL 成功]** 程式狀態，然後按一下 **[!UICONTROL 建立]**.
 
    ![](assets/create-a-program-channel-11.png)
 
-   幹得好！ 當您製作此類型的新程式時，此新管道將是其中一個選擇。
+   幹得漂亮！ 當您製作該型別的新節目時，此新頻道將是選項之一。

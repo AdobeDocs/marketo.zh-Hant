@@ -1,135 +1,135 @@
 ---
 unique-page-id: 2359909
-description: 管理使用者角色和權限 — Marketo檔案 — 產品檔案
-title: 管理使用者角色和權限
+description: 管理使用者角色和許可權 — Marketo檔案 — 產品檔案
+title: 管理使用者角色和許可權
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 0%
 
 ---
 
-# 管理使用者角色和權限 {#managing-user-roles-and-permissions}
+# 管理使用者角色和許可權 {#managing-user-roles-and-permissions}
 
-設定、建立和編輯使用者角色，並將其指派給使用者。 這可讓您控制每個Marketo使用者都可存取的區域和功能。
+設定、建立及編輯使用者角色，並將其指派給使用者。 這可讓您控制每個Marketo使用者有權存取的區域和功能。
 
-例如，行銷使用者通常需要跨應用程式的廣泛存取權，才能建立、修改和部署電子郵件、登錄頁面和程式。 另一方面，網頁設計人員幾乎所有時間都在Design Studio中，建立資產以用於電子郵件和登錄頁面。 雖然公司領導人在Analytics領域廣泛使用Marketo的報表，但他們可能不需要自行建立或驅動資產或程式。
+例如，行銷使用者通常需要跨應用程式的廣泛存取權，才能建立、修改和部署電子郵件、登入頁面和方案。 另一方面，網頁設計人員幾乎將所有時間都花在Design Studio中，建立資產以用於電子郵件和登陸頁面。 雖然公司領導在Analytics區域廣泛使用Marketo的報告，但可能不需要自行建立或推動資產或計畫。
 
 >[!NOTE]
 >
->**需要管理權限**
+>**需要管理員許可權**
 
-Marketo提供數種內建角色，具有不同的存取層級：
+Marketo提供數個內建角色，具有不同的存取層級：
 
-* **管理**  — 應用程式的所有部分，包括「管理員」部分
-* **標準使用者**  — 應用程式的所有部分，「管理員」部分除外
-* **行銷使用者**  — 應用程式的所有部分，「管理員」部分除外
+* **管理員**  — 應用程式的所有部分，包括管理員區段
+* **標準使用者**  — 應用程式的所有部分，但「管理員」區段除外
+* **行銷使用者**  — 應用程式的所有部分，但「管理員」區段除外
 * **網頁設計工具**  — 僅Design Studio
 * **Analytics使用者**  — 僅限Analytics區段
 
-您無法編輯管理員和標準使用者角色，但可以編輯其他角色。 您也可以建立新的自訂角色，以符合您公司中的特定組織結構。
+您無法編輯管理員和標準使用者角色，但可以編輯其他角色。 您也可以建立新的自訂角色，以符合公司中的特定組織結構。
 
-## Marketo與Adobe身分 {#marketo-with-adobe-identity}
+## 具有Adobe身分識別的Marketo {#marketo-with-adobe-identity}
 
-如果您使用Marketo搭配Adobe身分識別，描述檔說明清單 [可在此處找到](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
+如果您使用Marketo搭配Adobe身分識別，設定檔說明清單 [可在此處找到](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
 
-## 將角色指派給使用者 {#assign-roles-to-a-user}
+## 指派角色給使用者 {#assign-roles-to-a-user}
 
-您可以在 [首次建立使用者](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) 或 [編輯現有用戶](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
+您可以在以下情況下將角色指派給使用者： [第一次建立使用者](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) 或依據 [編輯現有使用者](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. 前往 **管理** 的上界。
+1. 前往 **[!UICONTROL 管理員]** 區域。
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
-1. 按一下 **使用者與角色**.
+1. 按一下 **[!UICONTROL 使用者和角色]**.
 
    ![](assets/managing-user-roles-and-permissions-2.png)
 
-1. 從清單中，選擇要編輯的用戶，然後按一下 **編輯用戶**.
+1. 從清單中選取您要編輯的使用者，然後按一下 **[!UICONTROL 編輯使用者]**.
 
    ![](assets/managing-user-roles-and-permissions-3.png)
 
-1. 在 **角色**，根據使用者需要的權限，選取您要指派給使用者的角色，然後按一下 **儲存**.
+1. 下 **[!UICONTROL 角色]**，根據使用者需要的許可權，選取您要指派給使用者的角色，然後按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/managing-user-roles-and-permissions-4.png)
 
    >[!NOTE]
    >
-   >若要了解每個角色，請參閱 [角色權限說明](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md).
+   >若要瞭解每個角色，請參閱 [角色許可權說明](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md).
 
 ## 建立新角色 {#create-a-new-role}
 
-有時，您的組織的員工具有非常特定的角色，需要自訂權限組合。
+有時候，您的組織會有員工擔任非常特定的角色，而這些角色需要自訂的許可權組合。
 
-1. 前往 **管理** 的上界。
+1. 前往 **[!UICONTROL 管理員]** 區域。
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
-1. 按一下 **使用者與角色**.
+1. 按一下 **[!UICONTROL 使用者和角色]**.
 
    ![](assets/managing-user-roles-and-permissions-6.png)
 
-1. 按一下 **角色** 標籤。
+1. 按一下 **[!UICONTROL 角色]** 標籤。
 
    ![](assets/managing-user-roles-and-permissions-7.png)
 
-1. 按一下 **新角色**.
+1. 按一下 **[!UICONTROL 新角色]**.
 
    ![](assets/managing-user-roles-and-permissions-8.png)
 
-1. 輸入 **角色名稱**, **說明** （可選），並選取此角色中的使用者需要的權限。
+1. 輸入 **[!UICONTROL 角色名稱]**， a **[!UICONTROL 說明]** （選用），並選取此角色的使用者所需的許可權。
 
    ![](assets/managing-user-roles-and-permissions-9.png)
 
 ## 編輯角色 {#edit-a-role}
 
-如果需要更改與現有角色關聯的權限，可以編輯該角色。
+如果您需要變更與現有角色相關聯的許可權，可以編輯角色。
 
-1. 前往 **管理** 的上界。
+1. 前往 **[!UICONTROL 管理員]** 區域。
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
-1. 按一下 **使用者與角色**.
+1. 按一下 **[!UICONTROL 使用者和角色]**.
 
    ![](assets/managing-user-roles-and-permissions-11.png)
 
-1. 按一下 **角色** 標籤。
+1. 按一下 **[!UICONTROL 角色]** 標籤。
 
    ![](assets/managing-user-roles-and-permissions-12.png)
 
-1. 從清單中，選擇要修改的角色，然後按一下 **編輯角色**.
+1. 從清單中選取您要修改的角色，然後按一下 **[!UICONTROL 編輯角色]**.
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. 變更 **角色名稱** 和 **說明** 如有必要，請更改相關的選項 **權限**.
+1. 變更 **[!UICONTROL 角色名稱]** 和 **[!UICONTROL 說明]** 如有必要，請變更關聯專案的選取範圍 **[!UICONTROL 許可權]**.
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 
    >[!NOTE]
    >
-   >擁有您所編輯角色的使用者在登出並再次登入後，會收到修改的權限。
+   >擁有您編輯之角色的使用者在登出並重新登入後，將會收到修改過的許可權。
 
 ## 刪除角色 {#delete-a-role}
 
-如果角色變得不必要，您可以刪除它。
+如果不需要角色，您可以將其刪除。
 
-1. 前往 **管理** 的上界。
+1. 前往 **[!UICONTROL 管理員]** 區域。
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 
-1. 按一下 **使用者與角色**.
+1. 按一下 **[!UICONTROL 使用者和角色]**.
 
    ![](assets/managing-user-roles-and-permissions-16.png)
 
-1. 按一下 **角色** 標籤。
+1. 按一下 **[!UICONTROL 角色]** 標籤。
 
    ![](assets/managing-user-roles-and-permissions-17.png)
 
-1. 從清單中，選擇要刪除的角色，然後按一下 **刪除角色**.
+1. 從清單中選取要刪除的角色，然後按一下 **[!UICONTROL 刪除角色]**.
 
    ![](assets/managing-user-roles-and-permissions-18.png)
 
-1. 按一下 **刪除** 確認。
+1. 按一下 **[!UICONTROL 刪除]** 以確認。
 
    ![](assets/managing-user-roles-and-permissions-19.png)

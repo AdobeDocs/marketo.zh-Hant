@@ -3,54 +3,54 @@ unique-page-id: 11380986
 description: 編輯工作區 — Marketo檔案 — 產品檔案
 title: 編輯工作區
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 # 編輯工作區 {#edit-a-workspace}
 
-有時您需要在工作區中進行變更。 很簡單。
+有時您需要在Workspace中進行變更。 這很容易。
 
 >[!NOTE]
 >
->**需要管理權限**
+>**需要管理員許可權**
 
 >[!NOTE]
 >
->在工作區上使用 [了解工作區和人員分區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>使用將工作區上的內容向上筆刷 [瞭解工作區和人員資料分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
-1. 前往 **管理** 的上界。
+1. 前往 **[!UICONTROL 管理員]** 區域。
 
    ![](assets/edit-a-workspace-1.png)
 
-1. 按一下 **工作區與分區**.
+1. 按一下 **[!UICONTROL 工作區與分割區]**.
 
    ![](assets/edit-a-workspace-2.png)
 
-1. 選擇要編輯的工作區，然後按一下 **編輯工作區**.
+1. 選取您要編輯的工作區並按一下 **[!UICONTROL 編輯工作區]**.
 
    ![](assets/edit-a-workspace-3.png)
 
-1. 您可以選擇不同的銷售機會分區，並從下拉式清單中選擇不同的主要人員分區。
+1. 您可以選取不同的潛在客戶分割區，並從下拉式選單中選擇不同的主要人員分割區。
 
    >[!NOTE]
    >
-   >您可以 [建立更多人員分區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) 如果你需要。
+   >您可以 [建立更多人員資料分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} 如果您有需要。
 
    ![](assets/edit-a-workspace-4.png)
 
    >[!NOTE]
    >
-   >此 **所有人員分區** 核取方塊表示此工作區可使用系統中的所有潛在客戶分區。
+   >此 **[!UICONTROL 所有人員資料分割]** 核取方塊表示此工作區可以使用系統中的所有銷售機會分割區。
 
    >[!NOTE]
    >
-   >此 **主要人員分區** 作為預設值，是所有人員的指派位置。
+   >此 **[!UICONTROL 主要人員分割]** 會作為預設值，且是指派所有人員的位置。
 
-   如果您啟用了多個品牌域，則可以更改為不同的主品牌域。 按一下 **儲存**.
+   如果您啟用多個品牌領域，您可以變更為不同的主要品牌領域。 按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/edit-a-workspace-5.png)
 
@@ -60,6 +60,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [建立新工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
->* [了解工作區和人員分區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
-
+>* [建立新工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
+>* [瞭解工作區和人員資料分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}

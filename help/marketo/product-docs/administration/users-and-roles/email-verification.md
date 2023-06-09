@@ -2,7 +2,7 @@
 description: 電子郵件驗證 — Marketo檔案 — 產品檔案
 title: 電子郵件驗證
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 0%
@@ -29,11 +29,11 @@ Marketo Engage正在繼續推出電子郵件驗證，以準備將客戶移轉至
 
 >[!NOTE]
 >
->若要將驗證電子郵件重新傳送給未驗證的使用者，只要選取其記錄並按一下 **驗證電子郵件** 按鈕。
+>若要將驗證電子郵件重新傳送給未驗證的使用者，只要選取其記錄並按一下 **[!UICONTROL 驗證電子郵件]** 按鈕。
 
 ## 變更電子郵件地址 {#changing-an-email-address}
 
-當使用者的電子郵件地址變更時，它將變為未驗證。 系統會傳送電子郵件給他們，讓他們重新驗證。 使用者可以按一下「 」，手動重新傳送該電子郵件 **重新傳送驗證**.
+當使用者的電子郵件地址變更時，它將變為未驗證。 系統會傳送電子郵件給他們，讓他們重新驗證。 使用者可以按一下「 」，手動重新傳送該電子郵件 **[!UICONTROL 重新傳送驗證]**.
 
 ![](assets/email-verification-2.png)
 
@@ -41,7 +41,7 @@ Marketo Engage正在繼續推出電子郵件驗證，以準備將客戶移轉至
 
 ## 使用者和角色 {#users-and-roles}
 
-在 **管理員** > **使用者和角色**，電子郵件狀態列會顯示每個使用者的驗證狀態。
+在 **[!UICONTROL 管理員]** > **[!UICONTROL 使用者和角色]**，電子郵件狀態列會顯示每個使用者的驗證狀態。
 
 ![](assets/email-verification-4.png)
 

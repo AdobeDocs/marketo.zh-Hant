@@ -1,43 +1,43 @@
 ---
 unique-page-id: 2360323
-description: 編輯現有的人員分區 — Marketo檔案 — 產品檔案
-title: 編輯現有的人員分區
+description: 編輯現有人員分割 — Marketo檔案 — 產品檔案
+title: 編輯現有的人員分割
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-# 編輯現有的人員分區 {#edit-an-existing-person-partition}
+# 編輯現有的人員分割 {#edit-an-existing-person-partition}
 
-人員分區就像有第二（或第三）個資料庫。 分區可連接到一個或多個工作區。 下面介紹如何編輯分區詳細資訊。
+個人資料分割就像擁有第二個（或第三個）資料庫。 分割區可以連結至一或多個工作區。 以下說明如何編輯分割區詳細資訊。
 
 >[!NOTE]
 >
->**需要管理權限**
+>**需要管理員許可權**
 
 >[!PREREQUISITES]
 >
->[建立人員分區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
+>[建立個人資料分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. 前往 **管理** 的上界。
+1. 前往 **[!UICONTROL 管理員]** 區域。
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
-1. 按一下 **工作區與分區**.
+1. 按一下 **[!UICONTROL 工作區與分割區]**.
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. 在 **人員分區** 頁簽，選擇要編輯的人員分區，然後按一下 **編輯人員分區**.
+1. 在 **[!UICONTROL 個人資料分割]** 索引標籤中，選取您要編輯的人員分割，然後按一下 **[!UICONTROL 編輯人員分割]**.
 
    ![](assets/edit-an-existing-person-partition-3.png)
 
-1. 輸入人員分區 **名稱**, **工作區** 屬於，然後按一下 **儲存**.
+1. 輸入人員分割 **[!UICONTROL 名稱]**，則 **[!UICONTROL 工作區]** 它們屬於，然後按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/edit-an-existing-person-partition-4.png)
 
-1. 儲存變更後，您應該會看到更新！
+儲存變更後，應該會看到更新！
 
-   ![](assets/edit-an-existing-person-partition-5.png)
+![](assets/edit-an-existing-person-partition-5.png)

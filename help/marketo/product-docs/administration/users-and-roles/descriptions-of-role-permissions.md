@@ -1,115 +1,115 @@
 ---
 unique-page-id: 6848747
-description: 角色權限說明 — Marketo檔案 — 產品檔案
-title: 角色權限說明
+description: 角色許可權說明 — Marketo檔案 — 產品檔案
+title: 角色許可權說明
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '1143'
+source-wordcount: '1137'
 ht-degree: 0%
 
 ---
 
-# 角色權限說明 {#descriptions-of-role-permissions}
+# 角色許可權說明 {#descriptions-of-role-permissions}
 
-以下是您可指派給角色的所有可用權限清單。 權限通常與Marketo內的特定功能區域相關聯，可協助您控制不同使用者可存取的區域和功能。
+以下是您可以指派給角色的所有可用許可權清單。 許可權通常與Marketo中的特定功能區域相關聯，並可協助您控制不同使用者有權存取的區域和功能。
 
-關於權限的其他資訊：
+關於許可權的其他資訊：
 
-* 「存取」權限會提供角色權限，供您檢視，有時也可編輯應用程式的該部分。
-* 若要讓角色有權存取子權限（「建立」、「刪除」等），該角色必須具有應用程式該部分的「存取」權限。 例如，如果您想要授予某人編輯促銷活動的權限，則他們必須擁有存取行銷活動的整體權限。
-* 您可能會看到沒有權限使用的動作或資產。 不過，如果您嘗試存取，將會看到一則訊息，警告您有限存取權。
+* 「存取」許可權會授予角色檢視和編輯應用程式該部分的許可權。
+* 若要讓角色擁有子許可權（「建立」、「刪除」等）的存取權，該角色必須擁有該部分應用程式的「存取權」許可權。 例如，如果您想要授與某人「編輯促銷活動」的許可權，該人員必須擁有存取行銷活動的整體許可權。
+* 您可能會看到您沒有許可權使用的動作或資產。 不過，如果您嘗試存取這些檔案，將會看到一則訊息，警告您存取許可權受限。
 
-## 可用權限 {#available-permissions}
+## 可用許可權 {#available-permissions}
 
-當您 [建立或編輯角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)，您可以核取適當的方塊，以選取下列哪些權限可允許該角色。
+當您 [建立或編輯角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)，您可以核取適當的方塊，選取下列哪些許可權可允許該角色。
 
 ![](assets/descriptions-of-role-permissions-1.png)
 
 ## 存取管理員  {#access-admin}
 
-在「管理員」的「我的帳戶」區段中檢視並變更設定。
+在「管理員」的「我的帳戶」區段中檢視設定並進行變更。
 
 * 存取稽核軌跡 — 讓使用者同時存取資產稽核軌跡和管理員稽核軌跡
-* 存取管道 — 讓使用者只能存取修改管道標籤，而非其他自訂標籤
-* 存取通訊限制 — 授予使用者存取權，以在管理員中啟用通訊限制
-* 存取CRM — 讓使用者在管理員中存取CRM，例如Salesforce或Microsoft Dynamics
-* 存取 [Data.com](https://Data.com)  — 讓使用者存取Data.com流量動作
-* 存取電子郵件管理員 — 讓使用者存取電子郵件管理員，以變更預設設定，例如取消訂閱和品牌化網域
-* 存取事件合作夥伴 — 讓使用者在管理中存取LaunchPoint
-* 存取欄位管理 — 讓使用者存取管理中的欄位管理
-* 存取檔案上傳 — 讓使用者能將影像和檔案上傳至Design Studio
-* 存取登錄頁面 — 讓使用者存取「管理員」中的登錄頁面
-* 存取位置 — 讓使用者存取「管理員」中的「位置」，以設定預設語言、地區、時區和貨幣
-* 存取登入記錄 — 讓使用者存取稽核軌跡中的使用者登入記錄
-* 存取登入設定 — 為使用者提供安全性、IP限制和智慧清單報表設定之管理員中的登入設定存取權
-* 存取Marketo自訂活動 — 讓使用者存取「管理」中的Marketo自訂活動
-* 存取Marketo自訂物件 — 讓使用者存取「管理員」中的Marketo自訂物件
-* 存取Munchkin - GI可讓使用者在「管理」中存取Munchkin，以設定追蹤程式碼、人員追蹤和啟用API設定
-* 存取收入週期分析 — 讓使用者存取「管理員」中的「收入週期分析」，以設定同步摘要和歸因
+* 存取頻道 — 僅授予使用者修改頻道標籤的存取權，不包括其他自訂標籤
+* 存取通訊限制 — 讓使用者有權在「管理員」中啟用通訊限制
+* 存取CRM — 讓使用者能夠存取CRM，例如 [!DNL Salesforce] 或 [!DNL Microsoft Dynamics]，在管理員中
+* 存取 [[!DNL Data.com]](https://Data.com)  — 讓使用者存取Data.com流程動作
+* 存取電子郵件管理員 — 讓使用者透過電子郵件管理員變更預設設定，例如取消訂閱和品牌化網域
+* 存取事件合作夥伴 — 讓使用者在管理員中存取LaunchPoint
+* 存取欄位管理 — 讓使用者能存取管理員中的欄位管理
+* 存取檔案上傳 — 讓使用者能夠將影像和檔案上傳到Design Studio
+* 存取登陸頁面 — 讓使用者能在Admin中存取登陸頁面
+* 存取位置 — 可讓使用者存取管理員中的位置，以設定預設語言、地區設定、時區和貨幣
+* 存取登入歷史記錄 — 讓使用者可存取稽核軌跡中的使用者登入歷史記錄
+* 存取登入設定 — 讓使用者可存取「管理員」中的「登入設定」，以取得安全性、IP限制和智慧列示報表設定
+* 存取Marketo自訂活動 — 讓使用者能在「管理員」中存取Marketo自訂活動
+* 存取Marketo自訂物件 — 讓使用者能在「管理員」中存取Marketo自訂物件
+* 存取 [!DNL Munchkin]  — 使用者存取許可權： [!DNL Munchkin] 用於設定追蹤代碼、人員追蹤及啟用API設定
+* 存取Revenue Cycle Analytics — 讓使用者能存取Admin中的Revenue Cycle Analytics，以設定同步摘要和歸因
 * 存取角色 — 提供使用者管理和編輯角色的存取權，但不提供使用者
-* 存取Sales Insight — 讓使用者可在Admin中管理Sales Insight，以設定狀態、API設定、人員分數及其他設定
-* 存取單一登入 — 讓使用者可在管理中管理單一登入、啟用SAML及使用SAML設定和重新導向頁面URL
-* 存取智慧型行銷活動 — 讓使用者存取管理中的智慧型行銷活動，以限制合格人員的限制
-* 存取SOAP API — 讓使用者可在「管理員」的「網站服務」中存取管理SOAP API
-* 存取標籤 — 讓使用者存取管道標籤以外的所有自訂標籤
-* 訪問Treasure Chest — 讓用戶訪問管理員中Treasure Chest的實驗功能
-* 存取使用者 — 讓使用者可在管理員中編輯及管理使用者（但非角色）
-* 存取Webhook — 為使用者提供「管理」中的Webhook，以設定詳細資訊和回應對應
-* 存取工作區和分區 — 讓使用者存取「管理員」中的「工作區和分區」
+* 存取Sales Insight — 讓使用者有權在Admin中管理Sales Insight，以設定Status、API設定、人員評分和其他設定
+* 存取單一登入 — 讓使用者能在「管理員」中管理單一登入，以啟用SAML及使用SAML設定和重新導向頁面URL
+* 存取Smart Campaign — 讓使用者可存取Admin中的Smart Campaign，以限制合格人員的限制
+* 存取SOAP API — 讓使用者能在Admin中管理網站服務中的SOAP API
+* 存取標籤 — 讓使用者可存取所有自訂標籤，但通道標籤除外
+* 存取Treasure Check — 讓使用者在Admin中存取Treasure Check的實驗功能
+* 存取使用者 — 提供使用者在「管理員」中編輯和管理使用者（而非角色）的存取權
+* 存取Webhook — 為使用者提供Admin中的Webhook，用於設定詳細資訊和回應對應
+* 存取工作區和分割區 — 讓使用者能在Admin中建立、編輯和刪除工作區和分割區
 
-## 存取API  {#access-api}
+## Access API  {#access-api}
 
-為使用者提供 **僅限API** **角色** 存取下列的個別API。
+為使用者提供 **僅限API** **角色** 存取下列個別API。
 
 * 核准資產
-* 執行促銷活動
+* 執行行銷活動
 * 唯讀活動
 * 唯讀活動中繼資料
 * 唯讀資產
-* 唯讀促銷活動
+* 唯讀行銷活動
 * 唯讀公司
-* 只讀自定義對象
+* 唯讀自訂物件
 * 唯讀人員
-* 唯讀指定帳戶
-* 只讀機會
-* 只讀銷售人員
+* 唯讀具名帳戶
+* 唯讀機會
+* 唯讀銷售人員
 * 讀寫活動
-* 讀寫活動元資料
+* 讀寫活動中繼資料
 * 讀寫資產
 * 讀寫行銷活動
 * 讀寫公司
-* 讀寫自定義對象
+* 讀寫自訂物件
 * 讀寫人員
-* 讀寫命名帳戶
+* 讀寫具名帳戶
 * 讀寫機會
 * 讀寫銷售人員
 
 ## 存取Analytics {#access-analytics}
 
-除非取消勾選，否則可讓使用者存取Analytics標籤、電子郵件深入分析、報表，以及下列三個項目。
+讓使用者能存取Analytics標籤、電子郵件分析、報表及以下三個專案（未勾選者除外）。
 
-* 存取收入總管 — 取消勾選會移除使用者對收入總管的存取權
-* 刪除報表 — 取消勾選會移除使用者刪除報表的能力
-* 匯出Analytics資料 — 取消勾選會移除使用者匯出Analytics資料的功能
+* 存取Revenue Explorer — 取消核取會移除使用者對Revenue Explorer的存取權
+* 刪除報告 — 取消核取將移除使用者刪除報告的能力
+* 匯出Analytics資料 — 取消勾選會移除使用者匯出Analytics資料的能力
 
-## 存取日曆Presentations {#access-calendar-presentations}
+## 存取行事曆Presentations {#access-calendar-presentations}
 
-讓使用者存取日曆簡報 — 可在底部顯示Presentations按鈕。
+讓使用者能存取「行事曆」簡報 — 在底部顯示Presentations按鈕。
 
-* 編輯日曆Presentations — 讓使用者在日曆中編輯簡報
+* 編輯行事曆Presentations — 讓使用者能在行事曆中編輯簡報
 
-## Access Design Studio {#access-design-studio}
+## 存取Design Studio {#access-design-studio}
 
-允許用戶訪問Design Studio頁簽和樹的視圖，但不能訪問詳細資訊。
+可讓使用者存取Design Studio索引標籤和樹狀結構的檢視，但不能存取詳細資訊。
 
 * 存取電子郵件
-   * 編輯電子郵件 — 授予使用者編輯、建立和複製電子郵件的權限
-      * 讓電子郵件可運作 — 授予使用者使電子郵件可運作的權限。 請參閱： [讓電子郵件可運作](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+   * 編輯電子郵件 — 授予使用者編輯、建立和複製電子郵件的許可權
+      * 讓電子郵件運作正常 — 授予使用者讓電子郵件運作正常的許可權。 請參閱： [讓電子郵件運作正常](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * 核准電子郵件 — 讓使用者核准電子郵件。
-      * 刪除電子郵件 — 讓使用者刪除電子郵件。
-      * 設定品牌域 — 使用戶能夠使用品牌域。 請參閱： [添加附加品牌域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
+      * 刪除電子郵件 — 讓使用者能夠刪除電子郵件。
+      * 設定品牌領域 — 讓使用者能夠使用品牌領域。 請參閱： [新增其他品牌領域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * 存取電子郵件範本
 
@@ -128,23 +128,23 @@ ht-degree: 0%
    * 刪除影像
    * 上傳影像
 
-* 存取登錄頁面
+* 存取登陸頁面
 
-   * 核准登錄頁面
-   * 刪除登錄頁面
-   * 編輯登錄頁面 — 編輯、建立和原地複製登錄頁面
+   * 核准登陸頁面
+   * 刪除登陸頁面
+   * 編輯登陸頁面 — 編輯、建立和複製登陸頁面
 
-* 存取登錄頁面範本
+* 存取登入頁面範本
 
-   * 核准登錄頁面範本
-   * 刪除登錄頁面範本
-   * 編輯登錄頁面範本 — 編輯、建立和複製登錄頁面範本
+   * 核准登入頁面範本
+   * 刪除登入頁面範本
+   * 編輯登入頁面範本 — 編輯、建立和複製登入頁面範本
 
-* 存取程式碼片段
+* 存取代碼片段
 
-   * 核准程式碼片段
-   * 刪除程式碼片段
-   * 編輯程式碼片段
+   * 核准代碼片段
+   * 刪除代碼片段
+   * 編輯代碼片段
 
 * 存取社交應用程式
 
@@ -152,26 +152,26 @@ ht-degree: 0%
    * 刪除社交應用程式
    * 編輯社交應用程式
 
-## 訪問資料庫 {#access-database}
+## 存取資料庫 {#access-database}
 
-查看資料庫以及查看和編輯智慧/靜態清單。
+檢視資料庫以及檢視和編輯智慧/靜態清單。
 
 * 存取區段
 
-   * 核准區段
-   * 刪除區段
-   * 編輯區段
+   * 核准分段
+   * 刪除分段
+   * 編輯分段
 
 * 刪除人員
 * 刪除清單
-* 編輯人員 — 防止手動編輯和運行單個流程步驟；您仍然可以針對人員執行行銷活動來編輯人員
-* 導出人員 — 從資料庫清單中導出電子錶格
+* 編輯人員 — 防止手動編輯和執行單一流程步驟；您仍然可以透過執行行銷活動來編輯人員
+* Export Person — 從資料庫清單匯出含有的試算表
 * 匯入自訂物件
 * 匯入清單
 * 合併人員
-* 執行單一流程動作 — 讓使用者執行 **變更資料值** 從資料庫對人員執行流程步驟
+* 執行單一流程動作 — 讓使用者執行 **變更資料值** 對資料庫中的人員執行流程步驟
 
-* 查看業務機會資料 — 隱藏人員詳細資訊頁上的業務機會資訊
+* 檢視機會資料 — 隱藏個人詳細資訊頁面上的機會資訊
 
 ## 存取行銷活動 {#access-marketing-activities}
 
@@ -189,31 +189,31 @@ ht-degree: 0%
    * 刪除推播通知
    * 編輯推播通知
 
-* 訪問獎
-* 啟動觸發程式促銷活動
+* 存取獎勵
+* 啟動觸發程式行銷活動
 * 核准電子郵件方案
-* 複製行銷資產
+* 原地複製行銷資產
 * 刪除行銷資產
-* 編輯促銷活動限制
+* 編輯行銷活動限制
 * 編輯行銷資產
-* 導入程式
+* 匯入計畫
 * 清單匯入
-* 排程批次促銷活動
+* 排程批次行銷活動
 
 存取SEO
 
 * 管理SEO
 * 標準SEO
 
-## 鎖定目標和個人化 {#targeting-and-personalization}
+## 目標定位和個人化 {#targeting-and-personalization}
 
-* 管理Web個人化
-* CRE促銷活動編輯器
-* CRE促銷活動啟動器
-* Web促銷活動編輯器
-* Web促銷活動啟動器
+* 管理Web Personalization
+* CRE行銷活動編輯器
+* CRE Campaign啟動器
+* 網站行銷活動編輯器
+* Web Campaign啟動器
 
 工作區管理
 
-* 特定工作區的管理員存取權（僅限在您已啟用工作區時）
-* 在工作區之間移動資產（僅限在您啟用了工作區時）
+* 特定工作區的管理員存取權（僅限已啟用工作區時）
+* 在工作區之間移動資產（僅在啟用工作區時）
