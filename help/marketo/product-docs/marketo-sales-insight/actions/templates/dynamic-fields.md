@@ -2,9 +2,9 @@
 description: 動態欄位 — Marketo檔案 — 產品檔案
 title: 動態欄位
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: 6d4a093d0ce0158028177cc4a4088526ccf79f9d
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -37,13 +37,13 @@ ht-degree: 0%
 
 將動態欄位新增至電子郵件範本時，您可以新增一個預設值，如果沒有其他可用的值，動態欄位將解析成該值。
 
-若要這麼做，請在動態欄位標籤後新增「|」，然後新增「default：」。 然後，如果找不到其他值，則新增您希望欄位解析為的值。
+若要這麼做，請在動態欄位標籤後新增「|」，然後新增「default：」（兩者不含引號）。 然後，如果找不到其他值，請新增您想要欄位解析為的值（用引號括住）。
 
 **範例：**
 
-`{{first name | default: loyal customer}}`
+`{{first name | default: "loyal customer"}}`
 
-`{{sfdc_contact_account_name | default: your company}}`
+`{{sfdc_contact_account_name | default: "your company"}}`
 
 ## 動態欄位字彙表 {#dynamic-fields-glossary}
 
