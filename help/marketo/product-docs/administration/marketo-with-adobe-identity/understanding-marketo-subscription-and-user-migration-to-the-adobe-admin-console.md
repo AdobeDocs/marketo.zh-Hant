@@ -1,15 +1,16 @@
 ---
-description: 了解Marketo訂閱與使用者移轉至Adobe Admin Console - Marketo檔案 — 產品檔案
-title: 了解Marketo訂閱和使用者移轉至Adobe Admin Console
+description: 瞭解Marketo訂閱和使用者移轉至Adobe Admin Console - Marketo檔案 — 產品檔案
+title: 瞭解Marketo訂閱和使用者移轉至Adobe Admin Console
 hide: true
 hidefromtoc: true
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
+source-git-commit: 53ce63735f7d950b3da51a6a3b3f626d1fedca47
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%
 
 ---
 
-# 了解Marketo訂閱和使用者移轉至Adobe Admin Console {#understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console}
+# 瞭解Marketo訂閱和使用者移轉至Adobe Admin Console {#understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console}
 
-即將推出
+即將推出。
