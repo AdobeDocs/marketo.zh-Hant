@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
 workflow-type: tm+mt
-source-wordcount: '8911'
+source-wordcount: '8920'
 ht-degree: 0%
 
 ---
@@ -1351,6 +1351,7 @@ ht-degree: 0%
                + [Salesforce中的Sales Insight動作設定](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [從Salesforce Classic解除安裝Marketo Sales Connect](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
                + [從Salesforce Lightning解除安裝Marketo Sales Connect](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
+               + [將活動記錄到Salesforce時更新活動型別欄位](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
          + 電子郵件 {#email}
             + 指揮中心 {#command-center}
                + [進階搜尋概觀](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
