@@ -2,7 +2,7 @@
 description: Sales Insight Actions管理員設定指南 — Marketo檔案 — 產品檔案
 title: Sales Insight Actions管理員設定指南
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 7249a7e7cd1879d35fedef0a6e3568fbc2872ef9
+source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 0%
@@ -19,7 +19,6 @@ ht-degree: 0%
 >
 >* 向Adobe帳戶團隊（您的帳戶管理員）確認已為您的Marketo Engage帳戶啟用MSI動作(如果您沒有帳戶管理員，請聯絡 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"})。
 >* 必須設定您的Marketo/Salesforce同步處理。
-
 
 <table>
  <tr>
@@ -190,4 +189,4 @@ Marketo和Salesforce中存在的個人記錄將同步至您的Marketo Sales Apps
 
 >[!NOTE]
 >
->完成此操作後，您可以升級現有的MSI套件或安裝新的MSI套件並移至 [在Salesforce中設定MSI動作](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
+>完成此操作後，您可以升級現有的MSI套件或安裝新的MSI套件並移至 [在Salesforce中設定MSI動作](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
