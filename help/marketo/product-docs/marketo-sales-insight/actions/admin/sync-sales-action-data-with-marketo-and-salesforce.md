@@ -2,9 +2,9 @@
 description: 將銷售動作資料與Marketo和Salesforce同步 — Marketo檔案 — 產品檔案
 title: 與Marketo和Salesforce同步銷售動作資料
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '1062'
+source-wordcount: '1064'
 ht-degree: 1%
 
 ---
@@ -112,13 +112,12 @@ Sales Insight Actions可讓管理員設定哪些銷售活動記錄到Salesforce�
 
 ![](assets/actions-data-sync-faq-6.png)
 
-上圖顯示哪些資訊記錄到Salesforce。 電子郵件和呼叫之類的活動會記錄到Salesforce中的 [單向同步](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [取消訂閱](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) 和 [提醒任務](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) 會透過雙向同步功能保持最新狀態。 這些資料同步中的每一項都可以從Sales Insight Actions網頁應用程式介面設定。
+上圖顯示哪些資訊記錄到Salesforce。 電子郵件和呼叫之類的活動會記錄到Salesforce中的 [單向同步](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md). [取消訂閱](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) 和 [提醒任務](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) 會透過雙向同步功能保持最新狀態。 這些資料同步中的每一項都可以從Sales Insight Actions網頁應用程式介面設定。
 
 >[!MORELIKETHIS]
 >
 >* [正在與Salesforce同步取消訂閱](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
 >* [Marketo取消訂閱檢查](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
->* [Salesforce同步設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [將銷售活動同步至Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 >* [提醒任務與Salesforce同步](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [啟動資料同步](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
-
