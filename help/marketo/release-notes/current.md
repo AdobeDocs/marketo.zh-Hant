@@ -2,16 +2,16 @@
 description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 159c0aee929327fc1e1f22d0de3abb7380935d86
+source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 3%
+source-wordcount: '643'
+ht-degree: 2%
 
 ---
 
-# 發行說明： 2023年5月 {#release-notes-may-23}
+# 發行說明： 2023年7月 {#release-notes-july-23}
 
-下方提供2023年5月發行版本包含的所有功能。 檢視您的Adobe Marketo Engage版本，瞭解是否有功能可用。
+下方提供2023年7月發行版本包含的所有功能。 檢視您的Adobe Marketo Engage版本，瞭解是否有功能可用。
 
 >[!AVAILABILITY]
 >
@@ -19,13 +19,11 @@ ht-degree: 3%
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於以下日期開始發行 **2023年5月12日**，在接下來的幾週內分階段推出剩餘的功能。 發行功能和日期可能會有所變更。 請檢視每個功能下方的狀態。
-
-### Marketo Engage新式UX {#modern-ux}
+下列功能屬於標準發行週期，並將於以下日期開始發行 **2023年7月21日**，在接下來的幾週內分階段推出剩餘的功能。 發行功能和日期可能會有所變更。 請檢視每個功能下方的狀態。
 
 </br>
 
-* **Adobe Experience Cloud介面**：使Marketo Engage與Experience Cloud一致，在單一使用者工作階段中跨多個Experience Cloud解決方案建立一致的導覽體驗。
+* **參與畫布**：參與畫布是視覺工具，可讓您建立並組織可重複使用的行銷活動。 此結構完全回溯相容，因此只要按一下按鈕，即可在此新結構中檢視所有現有行銷活動。 畫布可以下載和共用。
 
 <table> 
   <tr> 
@@ -33,22 +31,8 @@ ht-degree: 3%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已送出</td>
-   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud介面概觀</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Marketo Engage說明中心**：說明中心為Marketo Engage使用者提供可在產品內尋找說明資源的中心位置。 此外，「說明中心」讓使用者能夠啟用產品內指南，以說明如何運用重要功能。
-
-<table> 
-  <tr> 
-   <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
-  </tr>
-  <tr> 
-   <td>已送出</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/help-center.html">支援中心</a></td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
   </tr>
   </tbody>
 </table>
@@ -57,15 +41,11 @@ ht-degree: 3%
 
 下列功能遵循敏捷格式，並在標準發行日期之前或之後的各種日期發行。 請檢視每個功能下方的狀態。
 
-### 跨頻道協調 {#cross-channel-orchestration}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **互動式網路研討會（初期提供有限）**：
-
-互動式網路研討會為行銷人員提供原生且順暢的體驗，以便在Marketo Engage中建立、管理和傳遞活動，藉以強化現有的活動和網路研討會體驗。 根據活動型別自訂網路研討會，甚至可視需要新增主持人。 透過Adobe Connect功能（例如即時投票、聊天、問答研討會、網頁連結點選、檔案下載等）取得豐富的參與深入分析。 直接在Marketo Engage中擷取網路研討會影片，並透過豐富的儀表板量度評估其成效。
-
-互動式網路研討會將逐步推出。 若要要求更早的存取權，請填寫 [此表單](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+* **Dynamic Chat的聊天來源**：「聊天」現在作為新人員記錄和活動的來源提供。 此來源可用於協助使用者篩選智慧清單/行銷活動中的活動。 也可以封鎖來源，不讓欄位更新。
 
 <table> 
   <tr> 
@@ -73,12 +53,118 @@ ht-degree: 3%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>轉出已開始</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">互動式網路研討會概觀</a></td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **增強的Dynamic Chat活動**：Dynamic Chat活動、篩選器和觸發器已透過其他屬性和標準化的命名慣例得到增強。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+### Marketo Sales Insight {#marketo-sales-insight}
+
+</br>
+
+* **取消訂閱附加設定**：您現在可以透過「取消訂閱附加」的新設定選項，進一步控制取消訂閱訊息。 新功能可讓管理員控制何時何地以及哪些取消訂閱訊息會出現在您的銷售電子郵件中。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **動態欄位提示**：您現在可以透過新增至Sales Insight Actions中電子郵件範本的新欄位提示，進一步提示銷售團隊個人化電子郵件的特定部分。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **預設動態欄位**：預設動態欄位可讓您設定一個備援值，如果沒有可填入的值，動態欄位可解析該值。 這有助於確保電子郵件會在填入所有個人化內容時發出。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Sales Insight的Dynamic Chat支援**：已進行更新，以支援此版本中為所有Dynamic Chat使用者引入的新Dynamic Chat屬性。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Sales Insight動作的Dynamic Chat支援**：我們現在支援銷售機會摘要中的Dynamic Chat活動，以及當即時聊天路由到代理時通知。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dynamic Chat觸發權杖**：推出全新觸發器權杖，適用於有趣時刻的Dynamic Chat活動。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
   </tr>
   </tbody>
 </table>
 
 ## 公告 {#announcements}
 
-* **_產品發行網路研討會_**： [2023年3月和5月Marketo Engage發行網路研討會](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+Marketo Engage Real-Time Personalization提供兩種增強功能。
+
+* **升級至Google Analytics4**：Marketo先前支援Universal Analytics，後者將於2023年7月1日前停止記錄資料。 RTP使用者需要遵循其Google Analytics儀表板中的移轉程式，才能在RTP中完成對Google Analytics4整合的支援。 日後，使用者將有獨特的英數字元標籤(位於 `<head>` 部分)，其可讓Marketo傳送資料給Google Analytics。
+
+* **升級至jQuery 3.7**：為了提高安全性和穩定性，Marketo正在升級至jQuery 3.7.0。未載入自己的jQuery的RTP使用者不會受到負面影響，因為Marketo會變更從rtp.js載入的預設版本。 不過，如果您是RTP使用者，且使用3.0.0版以前的jQuery，請聯絡 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 以取得實作符合您需求的自訂版本rtp.js的協助。
