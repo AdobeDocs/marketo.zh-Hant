@@ -1,11 +1,9 @@
 ---
 description: 將動作按鈕新增至Salesforce清單檢視 — Marketo檔案 — 產品檔案
 title: 將動作按鈕新增至Salesforce清單檢視
-hide: true
-hidefromtoc: true
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -49,6 +47,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* 在Salesforce中使用大量電子郵件傳送（需要建立）
->* 在Salesforce中使用大量新增至銷售促銷活動（需要建立）
+>* [在Salesforce中使用大量傳送銷售電子郵件](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
+>* [在Salesforce中使用大量新增至Sales Campaign](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
 >* [在SalesforceAppExchange中安裝Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
