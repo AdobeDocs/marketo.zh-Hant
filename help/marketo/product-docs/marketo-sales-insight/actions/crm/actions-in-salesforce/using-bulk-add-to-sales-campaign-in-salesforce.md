@@ -1,7 +1,7 @@
 ---
 description: 在Salesforce中使用大量新增至促銷活動 — Marketo檔案 — 產品檔案
 title: 在Salesforce中使用大量新增至Sales Campaign
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 0%
@@ -74,26 +74,28 @@ ht-degree: 0%
 
 1. 選擇所需的潛在客戶或聯絡人清單，然後按一下 **新增至銷售行銷活動** 按鈕。
 
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
+
 1. 系統會將您導覽至「Actions Sales Campaign」強制回應視窗，其中包含您選取的新增人員。
 
 1. 進行任何必要的編輯以移除人員或群組，然後按一下 **下一個**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
 
 1. 從以下專案選取您要使用的促銷活動類別： **類別** 下拉式清單。
 
 1. 選取您要新增所選人員的銷售促銷活動，然後按一下 **下一個**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
 
 1. 視行銷活動的第一步為何，您可能會看到不同的選項。 如果您的第一步是電子郵件，您可以選擇編輯每個收件者的電子郵件，如下所示。 完成此操作後，按一下 **下一個**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
 
 1. 同樣地，如果您的第一步是電子郵件，且您已將其設定為允許您選取行銷活動何時啟動，則您將可以選擇執行以下動作： **立即開始** 或 **排程新的開始時間**. 完成此操作後，按一下 **開始**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
 
 按一下「開始」後，您會看到確認畫面，讓您知道已新增多少人員。
 
-![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
+![](assets/using-bulk-add-to-sales-campaign-in-salesforce-14.png)

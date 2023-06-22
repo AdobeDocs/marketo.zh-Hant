@@ -1,7 +1,7 @@
 ---
 description: 在Salesforce中使用大量傳送銷售電子郵件 — Marketo檔案 — 產品檔案
 title: 在Salesforce中使用大量傳送銷售電子郵件
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -67,6 +67,8 @@ ht-degree: 0%
    >您可以按一下「建立新檢視」並設定可用的篩選器，以縮小新增至促銷活動的對象清單，藉此建立新檢視。
 
 1. 選擇所需的潛在客戶或聯絡人清單，然後按一下 **傳送銷售電子郵件** 按鈕。
+
+   ![](assets/using-bulk-send-sales-email-in-salesforce-5.png)
 
 1. 系統會將您導覽至動作撰寫視窗，其中包含您在撰寫視窗中選取的收件者。
 
