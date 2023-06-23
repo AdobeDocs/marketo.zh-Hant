@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
 workflow-type: tm+mt
-source-wordcount: '8961'
+source-wordcount: '8963'
 ht-degree: 0%
 
 ---
@@ -485,10 +485,10 @@ ht-degree: 0%
          + [瞭解資料夾](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [瞭解通知](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [通知型別](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-      + 非歷程 {#not-journeys}
-         + [名稱概述](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
-         + [名稱標籤](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
-         + [設定標籤](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
+      + 參與畫布 {#engagement-canvas}
+         + [參與畫布概述](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
+         + [參與畫布標籤](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
+         + [設定標籤](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
       + 預測對象 {#predictive-audiences}
          + [預測受眾快速入門](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [模型與深入分析](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
