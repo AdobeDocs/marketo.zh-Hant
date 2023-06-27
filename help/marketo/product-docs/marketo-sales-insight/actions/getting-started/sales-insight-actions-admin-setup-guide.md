@@ -2,9 +2,9 @@
 description: Sales Insight Actions管理員設定指南 — Marketo檔案 — 產品檔案
 title: Sales Insight Actions管理員設定指南
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,10 @@ ht-degree: 0%
 1. 在Marketo中，按一下 **管理員**.
 
    ![](assets/msi-actions-admin-guide-1.png)
+
+   >[!NOTE]
+   >
+   >如果您在「整合資訊」卡片上未看到使用者端ID和使用者端密碼，請邀請第一位使用者來啟動您的「動作」執行個體，然後您會看到使用者端ID和使用者端密碼出現。
 
 1. 按一下 **銷售分析**，則 **動作設定**. 從Marketo管理員清單中選取以邀請並點選 **傳送邀請**.
 

@@ -2,18 +2,22 @@
 description: 新增身分 — Marketo檔案 — 產品檔案
 title: 新增身分
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
 # 新增身分 {#add-identity}
 
-當您有多個要傳送的電子郵件地址時，新增身分。
+當您有多個要傳送的來源電子郵件地址時，請新增身分識別。
 
-1. 按一下「設定」圖示。
+>[!NOTE]
+>
+>Gmail或Outlook/Exchange傳遞通道不支援使用多個身分。 Gmail和Outlook/Exchange會在使用者層級上進行驗證，因此只會傳送來自所連線電子郵件地址的電子郵件。 若要使用具有不同電子郵件地址的多個身分，您必須連線協力廠商SMTP提供者（電子郵件傳遞通道），此提供者可讓您註冊要傳送的電子郵件網域。 這可讓使用者連線至SMTP傳遞通道，並從任何電子郵件地址傳送，只要他們為已註冊的網域即可。
+
+1. 按一下設定圖示。
 
    ![](assets/add-identity-1.png)
 
@@ -29,15 +33,15 @@ ht-degree: 0%
 
    ![](assets/add-identity-4.png)
 
-1. 然後您會收到「請驗證電子郵件地址」電子郵件。 若要驗證，請按一下 **驗證電子郵件地址**.
+1. 然後您會收到「請確認電子郵件地址」電子郵件。 若要驗證，請按一下 **驗證電子郵件地址**.
 
    ![](assets/add-identity-5.png)
 
-當您在Marketo Sales中傳送電子郵件，且有多個身分識別時，可以在它們之間切換。
+當您在Marketo Sales中傳送電子郵件並具有多個身分時，您可以在身分之間切換。
 
 >[!NOTE]
 >
->您可以設定的電子郵件身分識別數量沒有限制。
+>您可以設定的電子郵件身分數量沒有限制。
 
 >[!MORELIKETHIS]
 >
