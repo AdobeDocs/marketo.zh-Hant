@@ -2,7 +2,7 @@
 description: 篩選電子郵件機器人活動 — Marketo檔案 — 產品檔案
 title: 篩選電子郵件機器人活動
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+source-git-commit: eeeff565e11cf98585bc6fef98f51d1c1f74199c
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 14%
@@ -13,7 +13,7 @@ ht-degree: 14%
 
 有時候，電子郵件機器人活動可能會錯誤地誇大您的電子郵件開啟次數和點按資料。 請依照下列步驟修正此問題。
 
-我們使用三種不同方法來確認機器人活動：
+我們使用兩種不同的方法來確認機器人活動：
 
 * 比對對象 [Interactive Advertising Bureau機器人清單](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}：與IAB UA/IP （使用者代理/IP位址）清單上的任何專案相符的活動將標示為機器人。
 * 符合鄰近模式：當同時發生兩個以上的活動時（在一秒以內），這些活動會被識別為機器人。 比較期間考慮的屬性包括：
