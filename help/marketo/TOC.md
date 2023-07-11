@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
-source-wordcount: '8963'
+source-wordcount: '8989'
 ht-degree: 0%
 
 ---
@@ -1332,7 +1332,6 @@ ht-degree: 0%
             + [行銷活動已結束](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
             + [建立促銷活動](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
             + [Sales Campaign設定](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
-            + [電子郵件步驟的銷售促銷活動傳送選項](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
             + [銷售行銷活動步驟型別和提醒任務](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [瞭解電子郵件步驟的銷售促銷活動傳送選項](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [以其他使用者身分檢視行銷活動清單](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
@@ -1387,6 +1386,7 @@ ht-degree: 0%
             + [我可以復原已刪除的連絡人或群組嗎？](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [我可以使用副本/密件副本追蹤多個收件者嗎？](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [內容和檔案附件常見問題集](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
+            + [是否追蹤列於電子郵件的「副本抄送」和「密件副本區段」的收件者的檢視、點按和回覆？](product-docs/marketo-sales-insight/actions/faq/do-views-clicks-and-replies-from-cc-and-bcc-get-tracked.md)
             + [Sales Insight動作有iPhone或Android應用程式嗎？](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
             + [如何允許列出伺服器上的Sales Insight動作？](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [如何在連線至Salesforce時修正「我們無法驗證您的請求」？](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1402,6 +1402,8 @@ ht-degree: 0%
             + [為什麼我的銷售活動和活動欄位未同步至Salesforce？](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [為什麼無法刪除連絡人？](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [為什麼我的所有連絡人都沒有推送到Sales Insight動作？](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
+            + [為什麼我的電子郵件會標示為垃圾訊息？](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
+            + [我的行銷活動為何已結束？](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
             + [為什麼Salesforce活動中未顯示追蹤活動？](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + 整合 {#integrations}
             + [Highspot整合](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
