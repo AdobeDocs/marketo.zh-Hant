@@ -3,7 +3,7 @@ unique-page-id: 7503971
 description: 建立簡報 — Marketo檔案 — 產品檔案
 title: 建立簡報
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 2%
@@ -12,30 +12,30 @@ ht-degree: 2%
 
 # 建立簡報 {#create-a-presentation}
 
-建立演示文稿，在HDTV上呈現您團隊的日曆視圖和目標。 Presentations是工作區專用。
+建立簡報以將您團隊的行事曆檢視和目標投影在HDTV上。 Presentations是Workspace專用的。
 
 >[!AVAILABILITY]
 >
 >
->並非所有客戶都購買過此功能。 如需詳細資訊，請連絡您的銷售代表。
+>並非所有客戶都已購買此功能。 如需詳細資訊，請聯絡您的銷售代表。
 
-1. 前往 **日曆**.
+1. 前往 **[!UICONTROL 行事曆]**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. 按一下 **簡報** 在右下角。
+1. 按一下 **[!UICONTROL Presentations]** 右下角。
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 
-1. 按一下 **簡報動作** 選取 **新簡報**.
+1. 按一下 **[!UICONTROL 簡報動作]** 並選取 **[!UICONTROL 新增簡報]**.
 
    ![](assets/image2015-3-26-12-3a38-3a6.png)
 
-1. 選擇演示文稿的名稱。 按一下 **建立**。
+1. 選擇簡報的名稱。 按一下 **[!UICONTROL 建立]**。
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 
-   幹得好！ 現在，您已準備好自訂您的演示文稿。
+   做得好！ 現在您已準備好自訂您的簡報。
 
 >[!MORELIKETHIS]
 >

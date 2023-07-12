@@ -3,46 +3,46 @@ unique-page-id: 37355768
 description: 使用Adobe Experience Manager匯入資產 — Marketo檔案 — 產品檔案
 title: 使用Adobe Experience Manager匯入資產
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
 # 使用Adobe Experience Manager匯入資產 {#importing-assets-with-adobe-experience-manager}
 
-「資產選擇器」可讓Marketo客戶存取、選取AEM資產，並將其匯入Marketo的Design Studio。 **需要管理員權限**.
+資產選擇器可讓Marketo客戶存取、選取AEM資產，並將其匯入Marketo [!DNL Design Studio]. **需要管理員許可權**.
 
 >[!AVAILABILITY]
 >
->並非所有人都購買過此功能。 如需詳細資訊，請聯絡Adobe帳戶團隊（您的客戶經理）。
+>並非每個人都購買了此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 >[!PREREQUISITES]
 >
->請確定您已執行 [AEM設定](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
+>確定您已執行 [AEM設定](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!IMPORTANT]
 >
->目前，此功能僅完全支援Firefox。 Safari不支援，且視您的SameSite Cookie設定而定，在最新版Chrome中可能無法運作。
+>目前，只有完整支援此功能 [!DNL Firefox]. 不支援此功能 [!DNL Safari]，且可能無法在最新版的 [!DNL Chrome]，視您的 [!DNL SameSite] Cookie設定。
 
-1. 按一下 **Design Studio**.
+1. 按一下 **[!UICONTROL Design Studio]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
-1. 按一下「新增」下拉式清單，然後選取 **從Adobe Experience Manager匯入**.
+1. 按一下「新增」下拉式清單，然後選取 **[!UICONTROL 從Adobe Experience Manager匯入]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
-1. 選擇要將影像保存到的資料夾。
+1. 選擇影像將儲存到的資料夾。
 
    ![](assets/importing-assets-with-adobe-experience-manager-3.png)
 
-1. 登入Adobe Experience Manager（如果尚未登入）。
+1. 登入Adobe Experience Manager （如果沒有）。
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
-1. 選擇您的資料夾。 然後按一下縮圖以選取您想要的影像（您最多可以選擇10個）。 按一下 **選擇** 時才能使用。
+1. 選擇您的資料夾。 然後，按一下縮圖來選取您想要的影像（您最多可以選擇10張）。 按一下 **[!UICONTROL 選取]** 完成時。
 
    ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -50,11 +50,11 @@ ht-degree: 0%
    >
    >影像大小不能超過100MB。
 
-1. 按一下 **匯入** 來完成此程式。
+1. 按一下 **[!UICONTROL 匯入]** 以完成程式。
 
    ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
-   就這樣！ 按一下 **關閉** 返回Design Studio。
+   就是這樣！ 按一下 **[!UICONTROL 關閉]** 以返回Design Studio。
 
    ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
@@ -62,6 +62,6 @@ ht-degree: 0%
 
 * Marketo目前支援Adobe Experience Manager 6.4和6.5版。
 
-* 您執行個體中的所有使用者都能檢視/存取您匯入的影像。
+* 您執行個體中的所有使用者都將能夠檢視/存取您匯入的影像。
 
-* 影像不會自動更新。 如果您匯入Marketo Design Studio的影像在AEM中更新，您必須手動將其重新匯入Marketo。
+* 影像不會自動更新。 如果您將影像匯入Marketo [!DNL Design Studio] 在AEM中更新，您必須手動將其重新匯入至Marketo。
