@@ -2,9 +2,9 @@
 description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '673'
 ht-degree: 2%
 
 ---
@@ -165,6 +165,10 @@ ht-degree: 2%
 
 Marketo Engage Real-Time Personalization提供兩種增強功能。
 
-* **升級至Google Analytics4**：Marketo先前支援Universal Analytics，後者將於2023年7月1日前停止記錄資料。 RTP使用者需要遵循其Google Analytics儀表板中的移轉程式，才能在RTP中完成對Google Analytics4整合的支援。 日後，使用者將有獨特的英數字元標籤(位於 `<head>` 部分)，其可讓Marketo傳送資料給Google Analytics。
+* **升級至jQuery 3.7**：為了提高安全性和穩定性，Marketo正在升級至jQuery 3.7.0。未載入自己的jQuery的RTP使用者不會受到負面影響，因為Marketo會變更從rtp.js載入的預設版本。 不過，如果您是RTP使用者，且使用3.0.0以前版本的jQuery，請連絡 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 以取得實作符合您需求的自訂版本rtp.js的協助。
 
-* **升級至jQuery 3.7**：為了提高安全性和穩定性，Marketo正在升級至jQuery 3.7.0。未載入自己的jQuery的RTP使用者不會受到負面影響，因為Marketo會變更從rtp.js載入的預設版本。 不過，如果您是RTP使用者，且使用3.0.0版以前的jQuery，請聯絡 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 以取得實作符合您需求的自訂版本rtp.js的協助。
+>[!NOTE]
+>
+>請與您的Web開發團隊合作，以判斷您的網站是否正在載入您自己的JQuery程式庫，或是使用從Web Personalization RTP JavaScript標籤載入的預設版本。
+
+* **升級至Google Analytics4**：Marketo先前支援Universal Analytics，後者將於2023年7月1日前停止記錄資料。 RTP使用者需要遵循其Google Analytics儀表板中的移轉程式，才能在RTP中完成對Google Analytics4整合的支援。 日後，使用者將有獨特的英數字元標籤(位於 `<head>` 部分)，其可讓Marketo傳送資料給Google Analytics。
