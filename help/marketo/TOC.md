@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
+source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
 workflow-type: tm+mt
-source-wordcount: '8989'
+source-wordcount: '8996'
 ht-degree: 0%
 
 ---
@@ -1344,6 +1344,7 @@ ht-degree: 0%
                + [將Salesforce與Sales Insight動作中斷連線](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [回覆記錄](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce診斷](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
+               + [設定Sales Insight動作沙箱](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
                + [將銷售活動同步至Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Salesforce封裝設定 {#salesforce-package-configuration}
                + [Salesforce中的Sales Insight動作設定](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
@@ -1789,7 +1790,7 @@ ht-degree: 0%
          + [Target帳戶管理概觀](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [TAM快速入門](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [發行授權](product-docs/target-account-management/setup-tam/issue-a-license.md)
-         + [許可權](product-docs/target-account-management/setup-tam/permissions.md)
+         + [權限](product-docs/target-account-management/setup-tam/permissions.md)
          + [帳戶分數](product-docs/target-account-management/setup-tam/account-score.md)
          + [帳戶團隊設定](product-docs/target-account-management/setup-tam/account-team-setup.md)
          + [建立CRM探索的自訂欄位](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)

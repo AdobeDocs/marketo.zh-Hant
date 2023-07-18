@@ -3,16 +3,16 @@ description: 繼承檔案 — Marketo檔案 — 產品檔案
 title: 繼承檔案
 hide: true
 hidefromtoc: true
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '188'
 ht-degree: 48%
 
 ---
 
 # 繼承檔案 {#inherit-doc}
 
-您是否從其他管理員繼承了現有的Marketo Engage執行個體？ 如果是，本指南是專為您量身打造的。
+您是否從其他管理員繼承了現有的Marketo Engage執行個體？ 若是如此，本文僅供您參考。
 
 >[!TIP]
 >
