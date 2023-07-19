@@ -4,7 +4,7 @@ title: 程式匯入程式庫概觀
 hide: true
 hidefromtoc: true
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
+source-git-commit: 36d52649c56eeaeecca2c5bb519c3035a447f4b9
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
  — 在此處Marketo Engage程式匯入程式庫資訊 — 
 
-* [OP內容管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md){target="_blank"}
+* [OP內容管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md){target="_blank"}
 
 * OP — 傳遞能力管理
 
