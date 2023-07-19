@@ -4,9 +4,9 @@ title: 參與畫布概述
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,35 @@ ht-degree: 0%
 
 ## 常見問題集 {#faq}
 
-LOPA將提供
+**我是否必須在參與畫布中重建所有行銷活動？**
+
+否. 參與畫布具有完整的回溯相容性。 只要按一下按鈕，您就可以在視覺化參與畫布介面中檢視每個現有的行銷活動。
+
+**具有Marketo Engage的參與畫布是否表示我將無法存取資料夾結構，且必須重新學習如何建立Smart Campaign？**
+
+否. Engagement Canvas的優點在於它兼具兩個領域的優點；它是對您目前建立行銷活動的方式的補充。 您可以選擇使用現有UI，還是在新UI中建置/視覺化。 所有使用者仍可取得Marketo Engage的強大功能集，現在還有視覺化建立工具作為補充。
+
+**參與畫布是付費附加元件嗎？**
+
+否. 所有訂閱下的所有現有和新Marketo Engage使用者都將有權存取此免費功能。
+
+**身為Marketo Engage管理員，我是否需負責開啟/關閉參與畫布？**
+
+否. 參與畫布將可供其執行個體中的所有使用者使用。 您無法為某些使用者、工作區等開啟/關閉此功能。
+
+**目前在Smart Campaigns中可用的所有專案也可在Engagement Canvas中取得嗎？**
+
+是. 參與畫布具有與Smart Campaigns完全相同的功能。
+
+**這與其他視覺化建置器有何不同？**
+
+有三個關鍵因素能區分參與畫布：
+
+* 彈性：透過視覺效果，輕鬆管理和驗證相互關聯或深度巢狀的行銷活動。
+
+* 功能：所有視覺效果都開箱即用，因此使用起來更輕鬆；巢狀結構可讓您深入瞭解並取得整張圖片。
+
+* 強大功能：您可以保留所有現有的Marketo Engage精緻功能，現在以視覺化格式呈現。
 
 >[!MORELIKETHIS]
 >

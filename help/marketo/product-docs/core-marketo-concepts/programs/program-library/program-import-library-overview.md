@@ -1,40 +1,41 @@
 ---
-description: 方案匯入程式庫概述 — Marketo檔案 — 產品檔案
-title: 程式導入庫概述
+description: 程式匯入程式庫概觀 — Marketo檔案 — 產品檔案
+title: 程式匯入程式庫概觀
 hide: true
 hidefromtoc: true
-source-git-commit: aa40c14f1c781b43db224bc4b47df16f00e70122
+exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# 程式導入庫概述 {#program-import-library-overview}
+# 程式匯入程式庫概觀 {#program-import-library-overview}
 
-簡訊。
+介紹文字。
 
- — 此處的Marketo Engage程式導入庫資訊 — 
+ — 在此處Marketo Engage程式匯入程式庫資訊 — 
 
-* [OP-Consent Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/consent-management-program-template.md){target="_blank"}
+* [OP內容管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md){target="_blank"}
 
 * OP — 傳遞能力管理
 
-* OP-Data Management
+* 作業資料管理
 
 * OP-Acquisition API
 
-* OP-Scoring-Demographic
+* OP — 評分 — 人口統計
 
-* OP-Scorin-Behavior
+* OP評分行為
 
-* OP-Lead管理
+* 營運商管理
 
-* 具有漸進式效能分析的WR-YYYY-MM-Demo請求
+* WR-YYYY-MM-Demo要求（含漸進式設定檔）
 
-* EM-YYYY-MM-DD — 電子郵件傳送
+* EM-YYYY-MM-DD-Email傳送
 
-* NL-YYYY-MM — 電子報
+* NL-YYYY-MM-Newsletter
 
 * EV-YYYY-MM-DD-Event
 
@@ -42,11 +43,11 @@ ht-degree: 0%
 
 * WBN-YYYY-MM-DD — 網路研討會
 
-* 具有Marketo登陸頁面的OA-YYYY-MM-Online Advertising
+* OA-YYYY-MM-Online廣告搭配Marketo登陸頁面
 
-* NUR-YYYY-MM — 簡單培養
+* NUR-YYYY-MM-Simple Nurture
 
-* NUR-YYYY-MM — 高級滴灌
+* NUR-YYYY-MM-Advanced Drip Nurture
 
 * Marketo登陸頁面上的CT-YYYY-MM-Content
 
