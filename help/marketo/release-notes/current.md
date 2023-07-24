@@ -2,9 +2,9 @@
 description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: d232da08e8637a33ff76d63e7984d794a1e18e16
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '713'
 ht-degree: 2%
 
 ---
@@ -172,3 +172,5 @@ Marketo Engage Real-Time Personalization提供兩種增強功能。
 >請與您的Web開發團隊合作，以判斷您的網站是否正在載入您自己的JQuery程式庫，或是使用從Web Personalization RTP JavaScript標籤載入的預設版本。
 
 * **升級至Google Analytics4**：Marketo先前支援Universal Analytics，後者將於2023年7月1日前停止記錄資料。 RTP使用者需要遵循其Google Analytics儀表板中的移轉程式，才能在RTP中完成對Google Analytics4整合的支援。 日後，使用者將有獨特的英數字元標籤(位於 `<head>` 部分)，其可讓Marketo傳送資料給Google Analytics。
+
+* **_產品發行網路研討會_**：2023年9月6日上午9:00 （太平洋時間） /中午12:00 （東部時間）加入我們 [直播網路研討會](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} 由我們的產品團隊託管，讓您瞭解如何使用所有最新的產品創新。
