@@ -3,7 +3,8 @@ unique-page-id: 7515620
 description: 範本1A - Marketo檔案 — 產品檔案
 title: 範本1A
 exl-id: e2dd3c0a-405b-414a-bdbc-bd1cb85d6d13
-source-git-commit: c53002db5778ce06031a0727c85b1b30aca172e0
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 範本1A {#template-1a}
 
-按一下右鍵以 [下載範本1A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html)
+按一下滑鼠右鍵以 [下載範本1A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html)
 
 ![](assets/image2015-5-28-10-3a1-3a40.png)
 
@@ -20,11 +21,11 @@ ht-degree: 0%
 
 * 主要區段
 
-   * 包含主圖影像、標題、內文和按鈕。
+   * 包括主圖影像、頁首、內文和按鈕。
 
-* 三個內文部分（可選）
-* 頁尾（選用）
+* 三個主體區段（選擇性）
+* 頁尾（選擇性）
 
-**按一下右鍵以下載此模板：**
+**在下方按一下滑鼠右鍵以下載此範本：**
 
 [範本1A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html)

@@ -2,7 +2,8 @@
 description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d232da08e8637a33ff76d63e7984d794a1e18e16
+feature: Release Information
+source-git-commit: 7e0d78810cce1c35918a15ad29c1f3863128c1dd
 workflow-type: tm+mt
 source-wordcount: '713'
 ht-degree: 2%
@@ -45,7 +46,7 @@ ht-degree: 2%
 
 </br>
 
-* **Dynamic Chat的聊天來源**：「聊天」現在作為新人員記錄和活動的來源提供。 此來源可用於協助使用者篩選智慧清單/行銷活動中的活動。 也可以封鎖來源，不讓欄位更新。
+* **Dynamic Chat聊天來源**：「聊天」現在作為新人員記錄和活動的來源提供。 此來源可用於協助使用者篩選智慧清單/行銷活動中的活動。 也可以封鎖來源，不讓欄位更新。
 
 <table> 
   <tr> 

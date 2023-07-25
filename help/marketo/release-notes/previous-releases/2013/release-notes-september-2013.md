@@ -3,75 +3,76 @@ unique-page-id: 2951056
 description: 發行說明 — 2013年9月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2013年9月
 exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 0%
 
 ---
 
-# 發行說明：2013年9月 {#release-notes-september}
+# 發行說明： 2013年9月 {#release-notes-september}
 
-9月版包含下列功能。
+9月版本中包括下列功能。
 
 ## 較短的URL {#shorter-urls}
 
-電子郵件URL已獲得修剪，以方便收件者點按，同時保留所有追蹤功能
+電子郵件URL已獲得修剪，讓收件者易於點按，同時保留所有追蹤功能
 
 >[!CAUTION]
 >
->當我們切換至短URL時，在9月版之前傳出的電子郵件中的連結，將在此版本發佈後90天過期。
+>當我們切換至簡短URL時，在9月版本之前傳送的電子郵件中的連結將在本版本後90天到期。
 
 使用Marketo自訂物件的資料，或使用Velocity範本語言將條件式邏輯新增至電子郵件內容。
 
 ![](assets/image2014-9-22-17-3a10-3a56.png)
 
-## 將「傳送測試」變更為「傳送範例」 {#change-send-test-to-send-sample}
+## 變更傳送測試以傳送範例 {#change-send-test-to-send-sample}
 
-已將「傳送測試」重新命名為「傳送範例」
+我們已將「傳送測試」動作重新命名為「傳送範例」
 
 ## 個人化傳送範例電子郵件 {#personalized-send-sample-email}
 
-當您傳送電子郵件範例時，您可以選取銷售機會名稱，以個人化範例電子郵件。
+當您傳送電子郵件範例時，可以選取銷售機會名稱，以個人化範例電子郵件。
 
 ![](assets/image2014-9-22-17-3a11-3a22.png)
 
-## GoTo網路研討會的其他欄位同步 {#additional-field-sync-for-gotowebinar}
+## GoToWebinar的其他欄位同步 {#additional-field-sync-for-gotowebinar}
 
-您可以將Marketo表單中的公司名稱和職稱同步至GoTo網路研討會。 要啟用這些附加欄位，請轉至事件合作夥伴並選中「啟用其他欄位」。
+您可以將Marketo表單中的公司名稱和職稱同步至GoTo網路研討會。 若要啟用這些額外欄位，請前往「事件合作夥伴」並勾選「啟用其他欄位」。
 
 ![](assets/image2014-9-22-17-3a11-3a53.png)
 
-## 僅限用戶登錄到SSO {#restrict-user-login-to-sso-only}
+## 僅限使用者登入至SSO {#restrict-user-login-to-sso-only}
 
-將訂閱設為僅允許Marketo使用者透過SSO登入，而不能透過一般登入畫面登入
+設定訂閱以僅允許Marketo使用者透過SSO登入，而不透過一般登入畫面登入
 
-## 上傳檔案的病毒掃描 {#virus-scan-of-uploaded-files}
+## 已上傳檔案的病毒掃描 {#virus-scan-of-uploaded-files}
 
-上傳至Design Studio的檔案現在會自動掃描，並在檔案包含病毒時遭到封鎖
+如果檔案包含病毒，現在會自動掃描並封鎖上傳至Design Studio的檔案
 
-## 導出機會影響分析器 {#export-opportunity-influence-analyzer}
+## 匯出機會影響分析器 {#export-opportunity-influence-analyzer}
 
-您現在可以將Opportunity Influce Analyzer中的資料導出到Excel。 每個導出的Excel檔案都包含所有銷售線索（包括那些在銷售機會中沒有角色的銷售線索）的所有市場營銷互動，以及分析器中所選帳戶下的所有銷售機會。 業務機會行以綠色突出顯示。 如果您需要專注於特定銷售機會或行銷活動，可使用Excel的原生資料篩選功能。
+您現在可以將Opportunity Influence Analyzer中的資料匯出至Excel。 每個匯出的Excel檔案都包含所有潛在客戶（包括那些在商機中沒有角色的銷售客戶）的所有行銷互動，以及分析器中選定帳戶下的所有商機。 機會列會以綠色反白顯示。 如果您需要專注於特定潛在客戶或行銷活動，可以使用Excel的原生資料篩選功能。
 
 ![](assets/image2014-9-22-17-3a12-3a23.png)
 
-## 方案歸因設定 {#program-attribution-settings}
+## 計劃歸因設定 {#program-attribution-settings}
 
-您可以變更Marketo系結首次接觸和多次接觸歸因量度的聯絡方式和商機，包括執行以帳戶為基礎歸因的功能。 這些設定將影響Program Opportunity Analysis區域和Opportunity Analysis區域下的Revenue Explorer報告中的歸因度量。 這也會影響Program Analyzer中的歸因量度。
+您可以變更Marketo連結聯絡人的方式，以及首次接觸和多點接觸歸因量度的機會，包括執行以帳戶為基礎的歸因功能。 這些設定將影響Revenue Explorer報表中Program Opportunity Analysis區域和Opportunity Analysis區域的歸因量度。 這也會影響Program Analyzer中的歸因量度。
 
-您可以將方案歸因設定變更為三個選項之一。 變更此設定不會修改任何Marketo或CRM資料；它只會變更報表的執行方式，且可隨時還原。
+您可以將方案歸因設定變更為三個選項之一。 變更此設定不會修改任何Marketo或CRM資料，只會變更報表的執行方式，而且隨時都可以還原。
 
-「顯式」設定將僅檢查具有角色的聯繫人（當前行為）。 隱式將檢查與帳戶關聯的所有聯繫人（無論角色如何）。 我們強烈建議盡可能使用「明確」模式。 使用隱式可能會產生誤判，即使對機會沒有實際影響，仍對機會有評價的人。
+Explicit設定只會檢查具有角色（目前行為）的連絡人。 隱含將會檢查與帳戶相關聯的所有連絡人，無論角色為何。 我們強烈建議儘可能使用明確模式。 使用「隱含」可能會產生誤判，即雖然對機會沒有實際影響，但相信機會的人們。
 
 ![](assets/image2014-9-22-17-3a12-3a43.png)
 
-## 法文版和德文版提供Sales Insight（僅限Salesforce） {#sales-insight-available-in-french-and-german-salesforce-only}
+## Sales Insight提供法文和德文版（僅限Salesforce） {#sales-insight-available-in-french-and-german-salesforce-only}
 
-從AppExchange下載最新版的Marketo Lead Management和Marketo Sales Insight，讓您的法語和德語銷售人員可以使用其偏好的語言查看Sales Insight內容。
+從AppExchange下載最新版Marketo Lead Management和Marketo Sales Insight，讓您的法文和德文銷售人員可以用他們慣用的語言檢視Sales Insight內容。
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 
-## Cobalt用戶介面 {#cobalt-user-interface}
+## Cobalt使用者介面 {#cobalt-user-interface}
 
-未來幾個月，應用程式的不同部分將推出新主題。 本月，您可能會發現更多新的藍色強制回應視窗。
+在接下來的幾個月裡，新的主題將會在應用程式的不同部分推出。 本月，您可能會注意到更多新的藍色強制回應視窗。

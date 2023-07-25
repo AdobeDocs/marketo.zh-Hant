@@ -1,80 +1,80 @@
 ---
 unique-page-id: 2360366
-description: 第3步（共3步） — 連接Marketo和Salesforce（企業版/無限製版） — Marketo檔案 — 產品檔案
-title: 第3步（共3步） — 連接Marketo和Salesforce（企業版/不限數量）
+description: 步驟3之3 — 連線Marketo與Salesforce (Enterprise/Unlimited) - Marketo檔案 — 產品檔案
+title: 步驟3之3 — 連線Marketo與Salesforce (Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
 
 ---
 
-# 第3步（共3步）:Connect Marketo和Salesforce（企業版/無限製版） {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
+# 步驟3/3：連結Marketo和Salesforce (Enterprise/Unlimited) {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
 
-在本文中，您會將Marketo設定為與您設定的Salesforce例項同步。
+在本文中，您將設定Marketo以與已設定的Salesforce執行個體同步。
 
 >[!PREREQUISITES]
 >
->* [第1步（共3步）:將Marketo欄位新增至Salesforce（企業版/無限製版）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [第2步（共3步）:建立Marketo的Salesforce使用者（企業版/無限製版）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [步驟1/3：將Marketo欄位新增至Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [步驟2/3：建立Marketo (Enterprise/Unlimited)的Salesforce使用者](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 
-
-## 檢索同步用戶安全令牌 {#retrieve-sync-user-security-token}
+## 擷取同步處理使用者安全性權杖 {#retrieve-sync-user-security-token}
 
 >[!TIP]
 >
->如果您已擁有安全令牌，請直接繼續設定同步用戶憑據和kudo以準備！
+>如果您已經有安全性權杖，請直接進入「設定同步使用者認證」和「榮譽」進行準備！
 
 1. 使用Marketo同步使用者登入Salesforce，按一下同步使用者的名稱，然後 **我的設定**.
 
    ![](assets/image2015-6-12-9-3a12-3a47.png)
 
-1. 在快速查找中，鍵入&quot;reset&quot;，然後按一下 **重設我的安全令牌**.
+1. 在快速尋找中，輸入「reset」並按一下 **重設我的安全性權杖**.
 
    ![](assets/image2015-6-12-9-3a13-3a39.png)
 
-1. 按一下 **重設安全令牌**.
+1. 按一下 **重設安全性權杖**.
 
    ![](assets/image2014-12-9-9-3a52-3a50.png)
 
-   安全性代號會透過電子郵件傳送給您。
+   安全性權杖會透過電子郵件傳送給您。
 
-## 設定同步用戶憑據 {#set-sync-user-credentials}
+## 設定同步使用者認證 {#set-sync-user-credentials}
 
-1. 在Marketo中，前往 **管理**，選取 **CRM**，然後按一下 **與同步 [Salesforce.com](https://Salesforce.com)**
+1. 在Marketo中，前往 **管理員**，選取 **CRM**，然後按一下 **與同步 [Salesforce.com](https://Salesforce.com)**
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
    >[!NOTE]
    >
-   >一定要 [隱藏所有不需要的欄位](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) 在Marketo中按一下 **同步欄位**. 按一下「同步欄位」後，使用者可看見的所有欄位都會在Marketo中建立，且無法刪除。
+   >請確定 [隱藏您不需要的所有欄位](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) 在Marketo中從同步使用者開啟，然後按一下 **同步欄位**. 按一下「同步欄位」後，使用者可以看到的所有欄位將會在Marketo中永久建立，且無法刪除。
 
-1. 輸入在Salesforce配置的第2部分中建立的Salesforce同步用戶憑據([專業](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) 或 [企業](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md))，然後按一下 **同步欄位** （檢查） **沙箱** 只有在您將Marketo沙箱同步至Salesforce沙箱時才會發生)。
+1. 輸入在Salesforce設定的第2部分建立的Salesforce同步使用者認證([專業](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) 或 [企業](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md))並按一下 **同步欄位** (檢查 **Sandbox** 僅當您將Marketo沙箱同步至Salesforce沙箱時)。
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
    >[!CAUTION]
    >
-   >如果您看到「登入Salesforce」按鈕（而非「使用者名稱/密碼/代號」欄位），表示您的Marketo訂閱已針對OAuth啟用。 請 [請參閱本文章](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). 一旦開始使用一組憑據， **沒有切換Salesforce憑據或訂閱**. 如果您想使用基本驗證，請聯絡Adobe帳戶團隊（您的帳戶管理員）。
+   >如果您看到「登入Salesforce」按鈕而不是「使用者名稱/密碼/權杖」欄位，表示您的Marketo訂閱已啟用OAuth。 請 [請參閱本文](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). 使用一組憑證開始同步後， **Salesforce認證或訂閱不會切換**. 如果您想要使用基本驗證，請聯絡Adobe帳戶團隊（您的帳戶經理）。
 
-1. 閱讀警告，然後按一下 **確認憑證**.
+1. 閱讀警告，然後按一下 **確認認證**.
 
    ![](assets/image2014-12-9-9-3a53-3a16.png)
 
    >[!CAUTION]
    >
-   >如果您想查看 [映射和自定義](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)，這是你唯一的機會！ 按一下「啟動Salesforce同步」後，即可完成。
+   >如果您想檢視 [對應和自訂它們](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)，這是您執行此動作的唯一機會！ 按一下「開始Salesforce同步」之後，就會完成。
 
-## 啟動Salesforce同步 {#start-salesforce-sync}
+## 開始Salesforce同步 {#start-salesforce-sync}
 
-1. 按一下 **啟動Salesforce同步** 開始持續的Marketo-Salesforce同步。
+1. 按一下 **開始Salesforce同步** 以開始永久性Marketo-Salesforce同步。
 
    ![](assets/image2014-12-9-9-3a53-3a24.png)
 
    >[!CAUTION]
    >
-   >Marketo不會針對Salesforce同步或當您手動輸入銷售機會時自動消除重複資料。
+   >Marketo不會針對Salesforce同步處理或手動輸入潛在客戶時自動進行重複資料刪除。
 
 1. 按一下 **開始同步**.
 
@@ -82,17 +82,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >完成初始同步的時間會根據資料庫的大小和複雜性而有所不同。
+   >完成初始同步的時間會依資料庫的大小和複雜度而有所不同。
 
 ## 驗證同步 {#verify-sync}
 
-Marketo會在「管理」區域中提供Salesforce同步的狀態訊息。 您可以依照下列步驟來驗證同步是否正確運作。
+Marketo會在管理區域提供Salesforce同步的狀態訊息。 您可以按照以下步驟驗證同步處理是否正常運作。
 
-1. 在Marketo中，按一下 **管理**，然後 **Salesforce**.
+1. 在Marketo中，按一下 **管理員**，則 **Salesforce**.
 
    ![](assets/image2014-12-9-9-3a53-3a40.png)
 
-1. 同步狀態顯示在右上角。 它將顯示三條消息之一： **上次同步**, **正在同步**，或 **失敗**.
+1. 同步狀態會顯示在右上角。 它會顯示下列三個訊息之一： **上次同步時間**， **同步進行中**，或 **已失敗**.
 
    ![](assets/image2014-12-9-9-3a53-3a50.png)
 
@@ -100,12 +100,11 @@ Marketo會在「管理」區域中提供Salesforce同步的狀態訊息。 您�
 
    ![](assets/image2014-12-9-9-3a54-3a35.png)
 
-哇，您剛剛完成了Marketo最強大的功能之一的配置！
+哇，您剛剛完成設定Marketo其中一項最強大的功能，現在就開始！
 
 >[!MORELIKETHIS]
 >
->* [第1步（共3步）:將Marketo欄位新增至Salesforce（企業版/無限製版）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [第2步（共3步）:建立Marketo的Salesforce使用者（企業版/無限製版）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [步驟1/3：將Marketo欄位新增至Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [步驟2/3：建立Marketo (Enterprise/Unlimited)的Salesforce使用者](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 >* [在SalesforceAppExchange中安裝Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 >* [在Salesforce Enterprise/Unlimited中設定Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
-

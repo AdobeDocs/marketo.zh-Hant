@@ -2,7 +2,8 @@
 description: 銷售活動觸發器和篩選器 — Marketo檔案 — 產品檔案
 title: 銷售活動觸發器和篩選器
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -11,19 +12,19 @@ ht-degree: 0%
 
 # 銷售活動觸發器和篩選器 {#sales-activity-triggers-and-filters}
 
-如果您想要更妥善地協調與銷售團隊的互動，或嘗試更全面了解客戶在購買者歷程中如何與客戶互動，Marketo中的「銷售活動前瞻分析」將對您有用。
+如果您希望更妥善地協調與銷售團隊的互動，或嘗試更清楚瞭解客戶在整個購買歷程中的互動方式，Marketo中的銷售活動深入分析將會對您有所幫助。
 
-請依照下列步驟，了解如何在智慧型行銷活動中運用銷售活動篩選和觸發器。
+請依照下列步驟，瞭解如何在智慧行銷活動中利用銷售活動篩選器和觸發程式。
 
-1. 找出並選取所需的智慧型促銷活動。
+1. 找到並選取所需的Smart Campaign。
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. 在 **智慧清單** 頁簽，搜索「銷售應用」。
+1. 在 **智慧清單** 索引標籤中，搜尋「Sales Apps」。
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
-1. 選取並拖曳至所需的篩選器或觸發器。
+1. 選取並拖曳至所需的篩選器或觸發器上。
 
    ![](assets/sales-activity-triggers-and-filters-3.png)
 
@@ -33,4 +34,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如需活動、限制和定義的完整清單，請查看我們的 [銷售活動辭匯表](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).
+>如需活動、限制和定義的完整清單，請參閱 [銷售活動字彙表](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).

@@ -1,141 +1,142 @@
 ---
 unique-page-id: 2359410
-description: 發送電子郵件 — Marketo文檔 — 產品文檔
-title: 發送電子郵件
+description: 傳送電子郵件 — Marketo檔案 — 產品檔案
+title: 傳送電子郵件
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 0%
 
 ---
 
-# 發送電子郵件 {#send-an-email}
+# 傳送電子郵件 {#send-an-email}
 
-這是每個人都想做的第一件事。 我們發封電子郵件去Marketo!
+這是每個人都想做的第一件事。 讓我們從Marketo傳送電子郵件！
 
 >[!PREREQUISITES]
 >
->[設定並添加人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>[完成設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
 ## 建立電子郵件程式 {#create-an-email-program}
 
-1. 轉到 **[!UICONTROL 營銷活動]** 的子菜單。
+1. 前往 **[!UICONTROL 行銷活動]** 區域。
 
    ![](assets/send-an-email-1.png)
 
-1. 選擇 **[!UICONTROL 學習]** 的子菜單。 按一下 **[!UICONTROL 新建]** 下拉並選擇 **[!UICONTROL 新程式]**。
+1. 選取您的 **[!UICONTROL 學習]** 資料夾。 按一下 **[!UICONTROL 新增]** 下拉式清單並選取 **[!UICONTROL 新計畫]**.
 
    ![](assets/send-an-email-2.png)
 
-1. 輸入 **[!UICONTROL 名稱]** 選擇 **[!UICONTROL 電子郵件]** 為 **[!UICONTROL 程式類型]**。
+1. 輸入 **[!UICONTROL 名稱]** 並選取 **[!UICONTROL 電子郵件]** 的 **[!UICONTROL 計畫型別]**.
 
    >[!TIP]
    >
-   >在程式名的末尾添加您的首字母，使其唯一。
+   >在程式名稱的結尾處新增您的縮寫，使其成為唯一的。
 
    ![](assets/send-an-email-3.png)
 
-1. 下 **[!UICONTROL 頻道]**&#x200B;選中 **[!UICONTROL 電子郵件發送]** 按一下 **[!UICONTROL 建立]**。
+1. 下 **[!UICONTROL 頻道]**，選取 **[!UICONTROL 電子郵件傳送]** 並按一下 **[!UICONTROL 建立]**.
 
    ![](assets/send-an-email-4.png)
 
-## 定義受眾 {#define-your-audience}
+## 定義您的對象 {#define-your-audience}
 
-1. 按一下 **[!UICONTROL 編輯智慧清單]** 下 [!UICONTROL 觀眾] 平鋪。
+1. 按一下 **[!UICONTROL 編輯智慧清單]** 在 [!UICONTROL 對象] 圖磚。
 
    ![](assets/send-an-email-5.png)
 
-1. 查找並拖動 [!UICONTROL 電子郵件地址] 過濾到畫布上。
+1. 尋找並拖曳 [!UICONTROL 電子郵件地址] 篩選至畫布上。
 
    ![](assets/send-an-email-6.png)
 
    >[!TIP]
    >
-   >使用 **[!UICONTROL 搜索]** 函式。
+   >使用 **[!UICONTROL 搜尋]** 函式以更輕鬆地找到篩選器。
 
-1. 查找並選擇您的電子郵件地址。
+1. 尋找並選取您的電子郵件地址。
 
    ![](assets/send-an-email-7.png)
 
    >[!NOTE]
    >
-   >如果您的電子郵件未自動填充，您可能忘記 [設定並添加潛在顧客。](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+   >如果您的電子郵件未自動填入，表示您可能忘了 [完成設定並新增銷售機會。](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
    >[!NOTE]
    >
-   >在本示例中，我們讓您僅向自己發送電子郵件，但您可以根據您認為適合的情況自定義受眾。
+   >在此範例中，我們要求您僅將電子郵件傳送給您自己，但您可以視需要自訂對象。
 
-1. 返回主程式頁籤，然後按一下刷新表徵圖 **[!UICONTROL 人員]**。
+1. 返回主要程式索引標籤，然後按一下重新整理圖示 **[!UICONTROL 個人]**.
 
    ![](assets/send-an-email-8.png)
 
-   你應該看到人數增加到1。 是你！
+   您應該會看到人員計數上升到1。 就是您！
 
 ## 建立電子郵件 {#create-an-email}
 
-1. 在「Email tile（電子郵件磁貼）」下按一下 **[!UICONTROL 新建電子郵件]**。
+1. 在「電子郵件」圖磚下，按一下 **[!UICONTROL 新電子郵件]**.
 
    ![](assets/send-an-email-9.png)
 
-1. 輸入 **[!UICONTROL 名稱]**，選擇 **模板**，然後按一下 **[!UICONTROL 建立]**。
+1. 輸入 **[!UICONTROL 名稱]**，選取 **範本**，然後按一下 **[!UICONTROL 建立]**.
 
    ![](assets/send-an-email-10.png)
 
-1. 將會開啟電子郵件編輯器窗口。 輸入50個或更少（建議）的主題。
+1. 將會開啟電子郵件編輯器視窗。 輸入不超過50個字元的主旨（建議使用）。
 
    ![](assets/send-an-email-11.png)
 
    >[!NOTE]
    >
-   >如果您有彈出窗口阻止程式，請按一下 **[!UICONTROL 編輯草稿]** 的子菜單。
+   >如果您有快顯封鎖程式，請按一下 **[!UICONTROL 編輯草稿]** 以輸入電子郵件編輯器。
 
-1. 選擇要編輯的區域，按一下右側的齒輪表徵圖，然後選擇 **[!UICONTROL 編輯]** （也可以按兩下要編輯的可編輯部分）。
+1. 選取您要編輯的區域，按一下右側的齒輪圖示，然後選取 **[!UICONTROL 編輯]** （您也可以連按兩下可編輯的區段來編輯）。
 
    ![](assets/send-an-email-12.png)
 
-1. 輸入所需內容，然後按一下 **[!UICONTROL 保存]**。
+1. 輸入您想要的內容，然後按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/send-an-email-13.png)
 
-1. 按一下 **[!UICONTROL 電子郵件操作]** 下拉並選擇 **[!UICONTROL 批准和關閉]**。
+1. 按一下 **[!UICONTROL 電子郵件動作]** 下拉式清單並選取 **[!UICONTROL 核准並關閉]**.
 
    ![](assets/send-an-email-14.png)
 
    >[!TIP]
    >
-   >是否想在啟動之前向自己發送一個快速示例，以瞭解您的電子郵件的外觀？ 選擇 **[!UICONTROL 發送示例]** ，或按一下 **[!UICONTROL 電子郵件操作]** 然後 [**[!UICONTROL 發送示例]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}。
+   >想要傳送快速範例給您自己，以檢視您的電子郵件在啟動前的外觀嗎？ 選取 **[!UICONTROL 傳送範例]** ，或按一下 **[!UICONTROL 電子郵件動作]** 則 [**[!UICONTROL 傳送範例]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}.
 
-1. 在左樹中選擇「Email Program（電子郵件程式）」。
+1. 在左側樹狀結構中選取電子郵件程式。
 
    ![](assets/send-an-email-15.png)
 
-1. 在 [!UICONTROL 計畫] 平鋪，將電子郵件的啟動日設定為 **[!UICONTROL 今天]**。
+1. 在 [!UICONTROL 排程] 圖磚，將電子郵件的啟動日設為 **[!UICONTROL 今天]**.
 
    ![](assets/send-an-email-16.png)
 
    >[!NOTE]
    >
-   >瞭解有關 [收件人時區](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"} and [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}。
+   >進一步瞭解 [收件者時區](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"} and [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}.
 
-1. 選擇將來至少15分鐘的時間。
+1. 選取未來至少15分鐘的時間。
 
    ![](assets/send-an-email-17.png)
 
    >[!TIP]
    >
-   >預設時區不是您的時區嗎？ 瞭解如何 [在此更新](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}。
+   >預設時區不是您的時區嗎？ 瞭解如何 [在此處更新](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
 
-1. 按一下 **[!UICONTROL 批准程式]** 下 [!UICONTROL 批准] 瓷磚，你完蛋了！
+1. 按一下 **[!UICONTROL 核准方案]** 在 [!UICONTROL 核准] 圖磚，您就可以完成了！
 
    ![](assets/send-an-email-18.png)
 
-您應在計畫的日/時間後不久接收電子郵件。
+您應在排程的日/時間後不久收到電子郵件。
 
 ## 任務完成！ {#mission-complete}
 
 <br> 
 
-[◄設定並添加人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+[◄一下設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-[任務2:帶表單的登錄頁►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[任務2：含表單頁►的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)

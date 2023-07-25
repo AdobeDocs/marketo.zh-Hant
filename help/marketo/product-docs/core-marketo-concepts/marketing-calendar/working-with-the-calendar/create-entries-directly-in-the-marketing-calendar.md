@@ -3,7 +3,8 @@ unique-page-id: 2953348
 description: 直接在行銷行事曆中建立專案 — Marketo檔案 — 產品檔案
 title: 直接在行銷行事曆中建立專案
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

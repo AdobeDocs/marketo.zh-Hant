@@ -4,42 +4,43 @@ title: 自訂物件同步
 hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
 
 # 自訂物件同步 {#custom-object-sync}
 
-在Veva CRM例項中建立的自訂物件也可能是Marketo Engage的一部分。 下面是如何設定它。
+在Veeva CRM執行個體中建立的自訂物件也可以是Marketo Engage的一部分。 以下說明設定方法。
 
 >[!NOTE]
 >
->**需要管理員權限**
+>**需要管理員許可權**
 
 >[!PREREQUISITES]
 >
->若要使用自訂物件，它必須與Veeva CRM中的連絡人或帳戶物件相關聯。
+>若要使用自訂物件，必須將其與Veeva CRM中的連絡人或帳戶物件相關聯。
 
 ## 啟用自訂物件 {#enable-custom-object}
 
-1. 在Marketo中，按一下 **管理**，然後 **Veva對象同步**.
+1. 在Marketo中，按一下 **管理員**，則 **Veeva物件同步**.
 
    ![](assets/custom-object-sync-1.png)
 
-1. 如果這是您的第一個自訂物件，請按一下 **同步架構**.
+1. 如果這是您的第一個自訂物件，請按一下 **同步結構描述**.
 
    ![](assets/custom-object-sync-2.png)
 
-1. 按一下 **禁用全局同步**.
+1. 按一下 **停用全域同步**.
 
    ![](assets/custom-object-sync-3.png)
 
    >[!NOTE]
    >
-   >Veva自訂物件結構的初始同步可能需要幾分鐘的時間。
+   >Veeva自訂物件結構的初始同步可能需要幾分鐘的時間。
 
 1. 將您要同步的自訂物件拖曳至畫布中。
 
@@ -47,17 +48,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >自訂物件的名稱必須是唯一的。 Marketo不支援兩個名稱相同的不同自訂物件。
+   >自訂物件必須具有唯一的名稱。 Marketo不支援具有相同名稱的兩個不同自訂物件。
 
 1. 按一下 **啟用同步**.
 
    ![](assets/custom-object-sync-5.png)
 
-1. 按一下 **啟用同步** 。
+1. 按一下 **啟用同步** 再來一次。
 
    ![](assets/custom-object-sync-6.png)
 
-1. 返回 **韋瓦** 標籤。
+1. 返回 **Veeva** 標籤。
 
    ![](assets/custom-object-sync-7.png)
 
@@ -65,18 +66,17 @@ ht-degree: 0%
 
    ![](assets/custom-object-sync-8.png)
 
-1. 要查看所有Veeva自定義對象，請按一下「管理」(Admin)和「Veeva對象同步」(Veeva Objects Sync)。
+1. 若要檢視所有Veeva自訂物件，請按一下「管理和Veeva物件同步」。
 
    ![](assets/custom-object-sync-9.png)
 
    >[!NOTE]
    >
-   >Marketo僅支援連結至一至兩層之標準實體的自訂實體。
+   >Marketo僅支援連結至標準實體的自訂實體，深入一到兩層。
 
-太棒了！ 您現在可以在智慧型促銷活動和智慧清單中使用此自訂物件的資料。
+太棒了！ 您現在可以在智慧行銷活動和智慧清單中使用來自此自訂物件的資料。
 
 >[!MORELIKETHIS]
 >
->* [正在同步呼叫和呼叫密鑰消息](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target=&quot;_blank&quot;}
->* [將自定義對象欄位添加/刪除為智慧清單/觸發器約束](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target=&quot;_blank&quot;}
-
+>* [正在同步呼叫和呼叫重要訊息](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+>* [新增/移除自訂物件欄位作為智慧清單/觸發條件約束](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

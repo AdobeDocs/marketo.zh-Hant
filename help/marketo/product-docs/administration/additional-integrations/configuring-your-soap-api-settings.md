@@ -3,7 +3,8 @@ unique-page-id: 2360352
 description: 設定SOAP API設定 — Marketo檔案 — 產品檔案
 title: 正在設定您的SOAP API設定
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
-source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
+feature: Administration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%

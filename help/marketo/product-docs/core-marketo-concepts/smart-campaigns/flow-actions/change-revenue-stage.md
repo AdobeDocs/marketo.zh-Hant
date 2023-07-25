@@ -3,7 +3,8 @@ unique-page-id: 1147080
 description: 變更收入階段 — Marketo檔案 — 產品檔案
 title: 變更收入階段
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 2%
@@ -12,9 +13,9 @@ ht-degree: 2%
 
 # 變更收入階段 {#change-revenue-stage}
 
-## 總覽 {#overview}
+## 概觀 {#overview}
 
-如果您使用「收入週期建模器」並且具有已批准的模型，則可以決定將銷售線索從一個階段人工移動到另一個階段。 此流程步驟將有所幫助。
+如果您使用Revenue Cycle Modeler且模型已核准，您可決定手動將潛在客戶從一個階段移至另一個階段。 此流程步驟將有所幫助。
 
 ![](assets/image2014-9-22-17-3a4-3a59.png)
 
@@ -24,10 +25,10 @@ ht-degree: 2%
 
    ![](assets/image2014-9-22-17-3a5-3a4.png)
 
-1. 選取 **新階段** 你想指派，你就完了！
+1. 選取 **新階段** 您要指派且您已完成！
 
    ![](assets/image2014-9-22-17-5-8.png)
 
    >[!CAUTION]
    >
-   >資料倉庫會密切注意銷售線索在各階段之間移動的時間。 如果使用不正確，可能會造成錯誤資料。
+   >Data Warehouse會密切注意潛在客戶在階段之間移動的時間。 如果使用不正確，這可能會產生不良資料。

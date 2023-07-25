@@ -3,7 +3,8 @@ unique-page-id: 7515767
 description: 跨工作區和分割區共用區段 — Marketo檔案 — 產品檔案
 title: 在工作區與分割區之間共用區段
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Partitions, Workspaces
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%

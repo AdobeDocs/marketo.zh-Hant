@@ -1,20 +1,21 @@
 ---
-description: Sales Insight Actions如何處理電子郵件去重複化 — Marketo檔案 — 產品檔案
-title: Sales Insight Actions如何處理電子郵件去重複化
+description: Sales Insight動作如何處理電子郵件重複資料刪除 — Marketo檔案 — 產品檔案
+title: Sales Insight動作如何處理電子郵件重複資料刪除
 exl-id: 40b01f7f-df50-4bd2-ac35-4c4e4f80915e
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-# Sales Insight Actions如何處理電子郵件去重複化？ {#how-does-sales-insight-actions-handle-email-de-duping}
+# Sales Insight動作如何處理電子郵件重複資料刪除？ {#how-does-sales-insight-actions-handle-email-de-duping}
 
-當你 [上傳CSV](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) 檔案合併至「銷售分析動作」中，我們會在匯入之前，在CSV中合併所有類似的聯絡人。
+當您在 [上傳CSV](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) 檔案放入銷售分析動作後，我們會在匯入前將所有類似的聯絡人合併到CSV中。
 
-我們是根據類似電子郵件地址執行此操作。 因此，如果有兩個相同的電子郵件地址，我們會將它們合併為一個聯絡人。
+我們根據相似的電子郵件地址來執行此操作。 因此，如果有兩個相同的電子郵件地址，我們會將其合併為一個連絡人。
 
-如果您稍後嘗試手動新增/上傳相同的連絡人，我們不會合併該連絡人。
+如果您稍後嘗試手動新增/上傳相同的連絡人，我們將不會合併它。
 
-如果您嘗試添加資料庫中已有的聯繫人，我們將阻止您添加該聯繫人。
+如果您嘗試新增資料庫中已存在的連絡人，我們將阻止您新增連絡人。

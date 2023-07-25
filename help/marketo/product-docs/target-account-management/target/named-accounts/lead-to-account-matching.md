@@ -1,73 +1,74 @@
 ---
 unique-page-id: 11381156
-description: 導致帳戶比對 — Marketo檔案 — 產品檔案
-title: 導致帳戶匹配
+description: 銷售線索帳戶比對 — Marketo檔案 — 產品檔案
+title: 銷售線索與帳戶的比對
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
-source-git-commit: 98388f1ed941b321449e6e8badac0153dc2245ba
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 0%
 
 ---
 
-# 導致帳戶匹配 {#lead-to-account-matching}
+# 銷售線索與帳戶的比對 {#lead-to-account-matching}
 
-使用Marketo銷售機會對帳戶比對，讓右側銷售機會對對指定帳戶。
+使用Marketo銷售線索與帳戶的比對，將右側銷售線索與右側具名帳戶進行比對。
 
 >[!NOTE]
 >
->**銷售機會對帳** 是Marketo Target帳戶管理的內建功能。 它採用模糊邏輯，以近乎即時的方式自動匹配出正確的指定帳戶。 這些已命名帳戶可以是CRM帳戶或Marketo公司。
+>**銷售線索與帳戶的比對** 是Marketo Target帳戶管理的內建功能。 它會使用模糊邏輯，以幾近即時的方式自動比對銷售線索與正確的具名帳戶。 這些具名帳戶可以是CRM帳戶或Marketo公司。
 
-## 總覽 {#overview}
+## 概觀 {#overview}
 
-Marketo銷售機會帳戶比對遵循4個步驟程式：
+Marketo銷售線索與帳戶的比對會遵循4個步驟的程式：
 
-**步驟1 -** 我們的匹配流程從銷售機會記錄上的關鍵資訊開始，例如：
+**步驟1 -** 我們的比對程式從使用潛在客戶記錄上的關鍵資訊開始，例如：
 
-* 電子郵件網域（例如acme.com）
+* 電子郵件網域(例如，acme.com)
 * 從IP位址推斷出的公司名稱
 * 公司名稱 — 這可以是CRM帳戶名稱或潛在客戶公司名稱屬性（例如，來自表單填寫）
 
-**步驟2 -** 我們會根據各種銷售機會屬性來標準化我們找到的公司名稱（例如，Acme Inc.和Acme Corp會自動標準化為Acme）。 此步驟可確保在Marketo中有指定帳戶的單一表示法，並可在單一指定帳戶中查看所有銷售機會。
+**步驟2 -** 我們根據各種潛在客戶屬性（例如Acme Inc.和Acme Corp會自動標準化為Acme），將找到的公司名稱標準化。 此步驟可確保在Marketo中擁有已命名帳戶的單一表示法，且可檢視單一已命名帳戶內的所有銷售機會。
 
-**步驟3 -** 我們將匹配的線索分區到2個儲存桶：強比和弱比。
+**步驟3 -** 我們將相符的潛在客戶分割為2個貯體：強相符和弱相符的。
 
-* 弱匹配的銷售機會出現在已命名的帳戶上，然後可以手動解決。
+* 不相符的潛在客戶會出現在已命名的帳戶上，然後可以手動加以解析。
 
-**步驟4 -** 我們列出了一個名單，列出了那些有強有弱的公司。 當根據其中一家建議的公司建立指定帳戶時，我們會建立相符規則，以自動將新銷售機會（例如，填寫表格的銷售機會）關聯至正確的指定帳戶。 這樣，您就不必擔心匹配的銷售機會，而更需要擔心獲得收入！
+**步驟4 -** 我們提供一份強弱相符的建議公司清單。 當根據其中一家建議的公司建立具名帳戶時，我們會建立比對規則，以自動將新的銷售機會（例如，填寫表單的銷售機會）與正確的具名帳戶建立關聯。 這樣一來，您就不用再擔心銷售機會配對了，更不用擔心收入問題！
 
-由於「Marketo銷售機會對帳戶」比對是「Marketo目標帳戶管理」的內建功能，因此比對銷售機會會以近乎即時的方式發生(例如，當銷售機會填寫Marketo表單時，我們會將該銷售機會與正確的指定帳戶建立關聯)。 此事件可用來觸發警報，並通知帳戶擁有者新銷售機會來自其指定帳戶。
+由於Marketo銷售線索與帳戶的比對是Marketo Target帳戶管理的一項內建功能，所以銷售線索與帳戶的比對幾乎是即時發生的(例如，當銷售線索填寫Marketo表單時，我們會將所述的銷售線索與正確的命名帳戶建立關聯)。 此事件可用來觸發警報，並通知帳戶擁有者有新的潛在客戶從他們指定的帳戶進入。
 
 >[!NOTE]
 >
->如果您在Salesforce中使用LeanData進行銷售機會帳戶比對，Marketo的整合會將這些比對同步至您的Marketo執行個體。 若要啟用該功能，請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support) 了解如何在下面設定LeanData。
+>如果您使用Salesforce中的LeanData來執行銷售線索與帳戶的比對，Marketo已整合，可將符合的專案同步至您的Marketo執行個體。 若要啟用該功能，請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support) 瞭解如何在下方設定LeanData。
 
-## 使用LeanData進行銷售機會帳戶匹配 {#using-leandata-for-lead-to-account-matching}
+## 使用LeanData進行銷售線索與帳戶的比對 {#using-leandata-for-lead-to-account-matching}
 
-之後 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support) 已啟用您帳戶的LeanData，請依照下列步驟進行設定。
+晚於 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support) 已為您的帳戶啟用LeanData，請依照下列步驟進行設定。
 
-1. 在Salesforce中，按一下 **設定首頁** 在左側導覽中。
+1. 在Salesforce中，按一下 **設定首頁** 左側導覽中找到。
 
-1. 仍在左側導覽的「管理」下方，按一下 **使用者** then **設定檔**.
+1. 仍然在左側導覽中的「管理」下方，按一下 **使用者** 則 **設定檔**.
 
-1. 找出並選取 **Marketo同步** 設定檔。
+1. 找到並選取 **Marketo同步** 設定檔。
 
-1. 向下捲動至「欄位層級安全性」區段，然後找出Lead物件。 選擇 **檢視**.
+1. 向下捲動至「欄位層級安全性」區段，並找出Lead物件。 選取 **檢視**.
 
-1. 針對欄位名稱「報表符合的帳戶」，請確定 **讀取存取** 欄。
+1. 對於欄位名稱「報表比對帳戶」，請確認 **讀取許可權** 欄已選取。
 
-1. 在Marketo中，前往 **管理** 區段。
+1. 在Marketo中，前往 **管理員** 區段。
 
    ![](assets/lead-to-account-matching-1.png)
 
-1. 選擇 **欄位管理**.
+1. 選取 **欄位管理**.
 
    ![](assets/lead-to-account-matching-2.png)
 
-1. 搜尋「報表符合的帳戶」以確認欄位存在。
+1. 透過搜尋「報表相符的帳戶」來確認欄位存在。
 
    ![](assets/lead-to-account-matching-3.png)
 
 >[!MORELIKETHIS]
 >
->[Discover帳戶](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+>[探索帳戶](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md)

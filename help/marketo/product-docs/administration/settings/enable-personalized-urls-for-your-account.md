@@ -3,7 +3,8 @@ unique-page-id: 2360215
 description: 為您的帳戶啟用個人化URL - Marketo檔案 — 產品檔案
 title: 為您的帳戶啟用個人化URL
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Administration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%

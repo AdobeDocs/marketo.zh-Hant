@@ -3,7 +3,8 @@ unique-page-id: 11378051
 description: 覆寫電子郵件的主要網域 — Marketo檔案 — 產品檔案
 title: 覆寫電子郵件的主要網域
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%

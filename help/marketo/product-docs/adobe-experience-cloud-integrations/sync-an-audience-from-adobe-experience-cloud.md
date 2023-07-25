@@ -2,7 +2,8 @@
 description: 從Adobe Experience Cloud同步受眾 — Marketo檔案 — 產品檔案
 title: 從Adobe Experience Cloud同步對象
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Integrations
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%

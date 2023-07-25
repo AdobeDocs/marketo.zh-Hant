@@ -3,7 +3,8 @@ unique-page-id: 2359606
 description: 刪除表單中的欄位 — Marketo檔案 — 產品檔案
 title: 刪除表單中的欄位
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 刪除表單中的欄位 {#delete-a-field-in-a-form}
 
-如果表單上有您不再需要的欄位，則可輕鬆刪除。 這是方法。
+如果您的表單上已有不再需要的欄位，可輕鬆刪除。 方法如下。
 
 1. 前往 **行銷活動**.
 
@@ -22,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. 選取您的欄位，然後按一下 **刪除** 表徵圖。
+1. 選取您的欄位並按一下 **刪除** 圖示。
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 
@@ -36,4 +37,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->別忘了 [核准登錄頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 由表單建立時變更。
+>別忘了 [核准登入頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 由表單變更所建立。

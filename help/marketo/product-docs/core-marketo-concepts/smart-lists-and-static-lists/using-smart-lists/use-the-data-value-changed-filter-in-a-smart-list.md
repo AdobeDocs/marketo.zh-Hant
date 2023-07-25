@@ -1,24 +1,25 @@
 ---
 unique-page-id: 557324
 description: 在智慧清單中使用資料值變更篩選器 — Marketo檔案 — 產品檔案
-title: 在智慧清單中使用資料值更改篩選器
+title: 在智慧清單中使用資料值變更篩選器
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-# 在智慧清單中使用資料值更改篩選器 {#use-the-data-value-changed-filter-in-a-smart-list}
+# 在智慧清單中使用資料值變更篩選器 {#use-the-data-value-changed-filter-in-a-smart-list}
 
-值會不斷變更，並在您的Marketo資料庫中更新。 有時候，您不想尋找特定值，而是想尋找價值有變的人。 這是方法。
+Marketo資料庫中的值會不斷變更和更新。 有時候，您會想要尋找有價值變更的人，而不是尋找特定值。 方法如下。
 
 >[!PREREQUISITES]
 >
 >[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. 前往 **行銷活動** 的上界。
+1. 前往 **行銷活動** 區域。
 
    ![](assets/ma.png)
 
@@ -26,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 尋找 **資料值已變更** 篩選並拖曳至畫布。
+1. 尋找 **資料值已變更** 篩選並拖曳至畫布上。
 
    ![](assets/three-1.png)
 
@@ -34,4 +35,4 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-此篩選器會尋找對其狀態有變更（任何變更）的所有人。 如果你想更愛玩，試試 [向智慧清單篩選器添加約束](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md).
+此篩選器將尋找其狀態有變更（任何變更）的所有人員。 如果您想要更精彩，請試試 [新增限制至智慧清單篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md).

@@ -1,8 +1,9 @@
 ---
-description: Routing - Marketo檔案 — 產品檔案
+description: 路由 — Marketo檔案 — 產品檔案
 title: 路由
 exl-id: 9515c264-7d9b-4613-a245-15620c846a5c
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 1%
@@ -11,17 +12,17 @@ ht-degree: 1%
 
 # 路由 {#routing}
 
-以動態聊天預訂的會議可以以兩種方式路由。 輪循，或使用自訂規則。
+以Dynamic Chat預訂的會議可透過兩種方式傳送。 循環配置資源或使用自訂規則。
 
-輪循：會議按順序分配給座席。 所以，如果你有五個探員和三號探員參加了最後一次會議，四號探員會得到下一個，接著五號探員，然後回到一號探員。
+循環配置資源：會議會依序指派給代理程式。 因此，如果您有五個代理程式，而第三個代理程式參加了最後一個會議，則代理程式四會得到下一個代理程式，接著是代理程式五，然後回到代理程式一。
 
-自訂規則：您可以根據所選的屬性選擇要接收會議的特定代理。
+自訂規則：您可以根據您選取的屬性，選擇特定代理以接收會議。
 
 ## 建立自訂規則 {#create-a-custom-rule}
 
-在此示例中，我們將從推斷的CA、OR和WA狀態發送所有會議給John探員。
+在此範例中，我們會將推斷的CA、OR和WA狀態的所有會議傳送給代理程式John。
 
-1. 在動態聊天中，選擇 **路由**.
+1. 在Dynamic Chat中選取 **路由**.
 
    ![](assets/routing-1.png)
 
@@ -37,18 +38,18 @@ ht-degree: 1%
 
    ![](assets/routing-4.png)
 
-1. 選擇所需的代理。
+1. 選擇所需的代理程式。
 
    ![](assets/routing-5.png)
 
-1. 拖曳至所需的屬性。
+1. 拖曳到所需的屬性上。
 
    ![](assets/routing-6.png)
 
-1. 尋找並選取您需要的值。
+1. 尋找並選取所需的值。
 
    ![](assets/routing-7.png)
 
-1. 選取所有所需值時，按一下 **儲存**.
+1. 選取所有所需值後，按一下 **儲存**.
 
    ![](assets/routing-8.png)

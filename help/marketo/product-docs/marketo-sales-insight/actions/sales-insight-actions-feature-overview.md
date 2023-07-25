@@ -2,7 +2,8 @@
 description: Sales Insight Actions功能概述 — Marketo檔案 — 產品檔案
 title: Sales Insight Actions功能概述
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '1392'
 ht-degree: 0%
@@ -130,7 +131,7 @@ ht-degree: 0%
 * 傳送銷售電子郵件 — 可傳送包含檢視、點選和回覆追蹤的個人化或範本化電子郵件
 * 傳送銷售行銷活動 — 將潛在客戶新增至銷售教程（一系列電子郵件和任務）
 
-   ![](assets/sales-insight-actions-feature-overview-4.png)
+  ![](assets/sales-insight-actions-feature-overview-4.png)
 
 下列內嵌動作適用於「最佳選擇」標籤中的個別銷售機會/聯絡人：
 
@@ -139,7 +140,7 @@ ht-degree: 0%
 * 銷售撥號器 — 在CRM內使用撥號器進行銷售通話
 * 新增任務 — 為潛在潛在潛在客戶建立電子郵件、通話、客戶或Linkedin任務
 
-   ![](assets/sales-insight-actions-feature-overview-5.png)
+  ![](assets/sales-insight-actions-feature-overview-5.png)
 
 **電子郵件標籤**
 
@@ -160,7 +161,7 @@ ht-degree: 0%
 * 與Salesforce同步工作
 * 在Salesforce活動歷史記錄區段中記錄任務
 
-   ![](assets/sales-insight-actions-feature-overview-6.png)
+  ![](assets/sales-insight-actions-feature-overview-6.png)
 
 **即時摘要**
 
@@ -189,4 +190,4 @@ ht-degree: 0%
 * 已新增至銷售行銷活動
 * 已從銷售行銷活動中移除
 
-   ![](assets/sales-insight-actions-feature-overview-7.png)
+  ![](assets/sales-insight-actions-feature-overview-7.png)

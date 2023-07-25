@@ -1,9 +1,10 @@
 ---
 unique-page-id: 14352482
-description: 回覆追蹤如何運作 — Marketo檔案 — 產品檔案
+description: 回覆追蹤的運作方式 — Marketo檔案 — 產品檔案
 title: 回覆追蹤的運作方式
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -12,12 +13,12 @@ ht-degree: 0%
 
 # 回覆追蹤的運作方式 {#how-reply-tracking-works}
 
-回覆追蹤的方式是查看您傳送之每封電子郵件中的訊息ID。 每封電子郵件都包含一個唯一的訊息ID，可讓我們進行一些最佳的回覆追蹤。
+「回覆追蹤」是透過檢視您傳送之每封電子郵件中的訊息ID來完成。 每封電子郵件都包含唯一的訊息ID，讓我們有一些最佳的回覆追蹤功能。
 
 >[!PREREQUISITES]
 >
->**與電子郵件伺服器的連接：** Sales Connect必須與您的收件箱連接，以便我們知道何時有新回復。 您需要有Sales Connect帳戶 [連接到Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md). 如果您使用Outlook，我們需要與您的 [exchange伺服器](https://toutapp.com/next#settings/exchange_settings).
+>**與電子郵件伺服器的連線：** Sales Connect必須與您的收件匣連線，這樣我們才能知道何時收到新回覆。 您需要擁有您的Sales Connect帳戶 [已連線至Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md). 如果您使用Outlook，我們需要與您的整合 [exchange server](https://toutapp.com/next#settings/exchange_settings).
 
-如果Sales Connect無法跟蹤您的潛在客戶對您電子郵件的回復，它將無法基於回複檢測停止促銷活動或記錄該回復到Salesforce。  什麼是電子郵件地址可以回覆？
+如果Sales Connect無法追蹤潛在客戶對您的電子郵件的回覆，將無法根據回覆偵測停止行銷活動或將回覆記錄到Salesforce。  我們所說的電子郵件地址可以回覆是什麼意思？
 
-這表示，如果您發電子郵件至flynn@flynnsarcade.com，而他以kevinf@flynnsarcade.com回應，我們便能追蹤回覆。 此外，如果您傳送電子郵件至flynn@flynnsarcade.com和CC alan@encom.com，而Alan回覆您，也會偵測回覆並結束促銷活動。
+這表示如果您傳送電子郵件給flynn@flynnsarcade.com，而他使用kevinf@flynnsarcade.com回應，我們就能追蹤回應。 此外，如果您以電子郵件傳送flynn@flynnsarcade.com和CC alan@encom.com，而Alan回寫您，它也會偵測回覆並結束行銷活動。

@@ -1,46 +1,47 @@
 ---
 unique-page-id: 2359562
-description: Champion/Challenger — 定義Champion條件 — Marketo檔案 — 產品檔案
+description: 達人/挑戰者 — 定義達人條件 — Marketo檔案 — 產品檔案
 title: 冠軍/挑戰者 — 定義冠軍標準
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
 
 ---
 
-# 冠軍/挑戰者：定義Champion條件 {#champion-challenger-define-champion-criteria}
+# 冠軍/挑戰者：定義冠軍標準 {#champion-challenger-define-champion-criteria}
 
-設定測試類型後，您需要定義冠軍條件。 這是方法。
+設定測試型別後，您需要定義冠軍標準。 方法如下。
 
 >[!PREREQUISITES]
 >
->[新增電子郵件冠軍/挑戰者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[新增電子郵件達人/挑戰者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-## 標準Champion標準 {#standard-champion-criteria}
+## 標準冠軍條件 {#standard-champion-criteria}
 
-1. 從可用的 **冠軍標準**.
+1. 選擇一個可用的 **冠軍條件**.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
    >[!NOTE]
    >
-   >我們將追蹤此量度，並透過電子郵件傳送含有資料的報表。
+   >我們將追蹤此量度，並透過電子郵件傳送含有資料的報告給您。
 
-1. 如果您選了預設值 **冠軍標準**，繼續 [冠軍/挑戰者：設定報表警報](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
+1. 如果您選擇其中一個預設值 **冠軍條件**，請繼續並移至 [冠軍/挑戰者：設定報表警示](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)！
 
-## 自訂Champion條件 {#custom-champion-criteria}
+## 自訂冠軍條件 {#custom-champion-criteria}
 
-1. 如果你想想花招，可以選擇 **自訂轉換** 按一下 **編輯**.
+1. 如果您想要變得精彩，可以選取「 」以自訂 **自訂轉換** 並按一下 **編輯**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
    >[!NOTE]
    >
-   >這可讓您使用觸發器和篩選器，將任何事件設為轉換。
+   >這可讓您使用觸發器和篩選器來將任何事件設定為轉換。
 
-1. 隨即出現一個視窗 — 尋找您選擇的觸發器，並將其拖曳至畫布中。
+1. 畫面會隨即顯示 — 找到您選擇的觸發器，並將其拖曳至畫布中。
 
    ![](assets/image2014-9-15-13-3a3-3a38.png)
 
@@ -48,7 +49,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo僅允許從此電子郵件方案傳送電子郵件的人員觸發此事件。 無需新增「已傳送電子郵件」篩選器。
+   Marketo僅允許已從此電子郵件程式傳送電子郵件之人員的觸發器。 無需新增「已傳送電子郵件」篩選器。
 
 1. 按一下 **關閉**。
 
@@ -58,4 +59,4 @@ ht-degree: 1%
 
    >[!MORELIKETHIS]
    >
-   >[冠軍/挑戰者：設定報表警報](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+   >[冠軍/挑戰者：設定報表警示](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)

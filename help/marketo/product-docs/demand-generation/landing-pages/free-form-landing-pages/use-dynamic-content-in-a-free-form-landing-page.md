@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2359732
 description: 在自由格式登陸頁面中使用動態內容 — Marketo檔案 — 產品檔案
-title: 在自由格式登陸頁面中使用動態內容
+title: 在自由格式的登陸頁面中使用動態內容
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-# 在自由格式登陸頁面中使用動態內容 {#use-dynamic-content-in-a-free-form-landing-page}
+# 在自由格式的登陸頁面中使用動態內容 {#use-dynamic-content-in-a-free-form-landing-page}
 
-在登錄頁面中使用動態內容會與您的對象互動，並提供目標資訊。
+在登入頁面中使用動態內容，可讓您的對象獲得鎖定目標的資訊。
 
 >[!PREREQUISITES]
 >
->* [建立區段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [建立自由格式登錄頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [將新表單新增至自由表單登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
+>* [建立細分](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [建立自由格式的登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [新增表單至自由表單登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
-
-## 新增區段 {#add-segmentation}
+## 新增分段 {#add-segmentation}
 
 1. 前往 **行銷活動**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 選取您的登錄頁面，然後按一下 **編輯草稿**.
+1. 選取您的登陸頁面，然後按一下 **編輯草稿**.
 
    ![](assets/landingpageeditdraft-1.jpg)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a8-3a46.png)
 
-1. 輸入分段名稱，然後按一下 **儲存**.
+1. 輸入區段名稱並按一下 **儲存**.
 
    ![](assets/image2014-9-17-12-3a8-3a53.png)
 
@@ -45,40 +45,39 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->所有登錄頁面元素預設為靜態。
+>所有登入頁面元素預設為靜態。
 
-## 讓元素動態 {#make-element-dynamic}
+## 將元素設為動態 {#make-element-dynamic}
 
-1. 將動態內容元素從下方拖放 **靜態** to **動態**.
+1. 從下方拖放動態內容元素 **靜態** 至 **動態**.
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. 您也可以建立元素 **靜態** 或 **動態** 從元素 **設定**.
+1. 您也可以製作元素 **靜態** 或 **動態** 從元素 **設定**.
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
 ## 套用動態內容 {#apply-dynamic-content}
 
-1. 在區段下選取元素，按一下設定圖示，然後按一下 **編輯**. 對每個區段重複。
+1. 選取區段下的元素，按一下設定圖示，然後按一下 **編輯**. 對每個區段重複此步驟。
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 
-1. 綠色勾號表示該區段的特定內容。 空白表示預設的區段內容。
+1. 綠色核取記號表示該區段的特定內容。 空白表示預設區段內容。
 
    ![](assets/image2014-9-17-12-3a12-3a52.png)
 
 >[!CAUTION]
 >
->預設區段內容區塊的變更會套用至所有區段。
+>對預設區段內容區塊的變更會套用至所有區段。
 
 >[!TIP]
 >
->在修改各種區段的內容之前，建立預設登錄頁面。
+>在修改各種區段的內容之前，請先建立預設登陸頁面。
 
 瞧！ 您現在可以傳送目標內容。
 
 >[!MORELIKETHIS]
 >
->* [預覽包含動態內容的登錄頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [使用動態內容預覽登入頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
 >* [在電子郵件中使用動態內容](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-

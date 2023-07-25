@@ -3,16 +3,17 @@ unique-page-id: 7511815
 description: 發行說明 — 2015年4月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2015年4月
 exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 0%
 
 ---
 
-# 發行說明：2015年4月 {#release-notes-april}
+# 發行說明： 2015年4月 {#release-notes-april}
 
-2015年4月發行包含下列功能。 請查看您的Marketo版本，了解功能是否可用。 發行後，請務必回來尋找各功能詳細文章的連結！
+2015年4月發行版本包含下列功能。 請檢查您的Marketo版本是否有功能可用。 發行後，請務必回訪以尋找每個功能的詳細文章連結！
 
 ## Analytics首頁重新設計
 
@@ -20,19 +21,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此功能將於4月28日星期二發行。
+>此功能將於4月28日星期二發佈。
 
-新 [Analytics首頁](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) 可讓您在各種可用報表類型中，快速存取執行臨機報表。
+新 [Analytics首頁](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) 啟用快速存取，以便跨可用報表型別執行臨時報表。
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
-此外，現在提供私人與共用報表組織。 建立或拖曳報表至您的「我的報表」資料夾，以鎖定其他使用者檢視、編輯或刪除報表。 群組報表會在所有使用者間共用。
+此外，現在還提供私人與共用報表組織。 建立報表或將報表拖曳至您的「我的報表」資料夾，以鎖定報表不讓其他使用者檢視、編輯或刪除。 群組報告可在所有使用者之間共用。
 
 ## Marketo行動參與 {#marketo-mobile-engagement}
 
 **Marketo行動參與**
 
-透過Marketo行動參與度，提供引人入勝的行動體驗相當輕鬆。 建立高度個人化的行銷活動，提供引人入勝的內容，而無需依賴應用程式開發團隊。 新的篩選器和觸發器可讓您透過推播通知在行動通道上接聽和回應。
+有了Marketo Mobile Engagement，提供引人入勝的行動體驗變得輕而易舉。 建立高度個人化的行銷活動，提供引人入勝的內容，永遠不需要依賴應用程式開發團隊。 新的篩選器和觸發器可讓您透過推播通知，在行動裝置頻道上接聽和回應。
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
@@ -40,13 +41,13 @@ ht-degree: 0%
 
 [linkedIn Lead Accelerator整合](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-將您的領先培養策略擴展到付費展示和社交廣告。 此 [廣告網路整合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) 使用LinkedIn Lead Accelerator，您可以根據任何智慧或靜態清單的成員，安全地在LinkedIn中建立對象區段。 接著，即可以一系列相關廣告來培育LinkedIn受眾區段內的成員。
+將您的潛在客戶培養策略擴展至付費顯示廣告和社交廣告。 此 [廣告網路整合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) 使用LinkedIn銷售機會加速器，您可以根據任何智慧或靜態清單的成員，在LinkedIn中安全地建立受眾區段。 linkedIn受眾區段中的成員可以透過一系列相關廣告培養。
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
-## Marketo Sales Insight for Salesforce1 {#marketo-sales-insight-for-salesforce}
+## Salesforce1的Marketo Sales Insight {#marketo-sales-insight-for-salesforce}
 
-您最喜愛的Sales Insight功能 — 銷售機會摘要、最佳下注、有趣時刻，以及新增至Marketo Campaign — 所有這些功能都可在Salesforce1應用程式中取得。
+您最愛的Sales Insight功能 — 銷售機會摘要、最佳選擇、有趣的時刻，以及新增至Marketo Campaign — 都可在Salesforce1應用程式上取得。
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 
@@ -54,4 +55,4 @@ ht-degree: 0%
 
 **RTP - Account-Based Marketing Analytics**
 
-根據購買週期中的每個階段，使用指定帳戶清單的新效能圖表，即時顯示關鍵指定帳戶清單的效能。 圖形會根據瀏覽次數和訪客狀態，顯示關鍵組織從從認知到動作的瀏覽階段。
+透過指定帳戶清單的新效能圖表，即時掌握關鍵指定帳戶清單的效能（根據購買週期的每個階段）。 圖表會根據造訪次數和訪客狀態，顯示從意識一直到行動等關鍵組織的造訪階段。

@@ -2,7 +2,8 @@
 description: 建立團隊 — Marketo檔案 — 產品檔案
 title: 建立團隊
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -11,7 +12,7 @@ ht-degree: 0%
 
 # 建立團隊 {#creating-a-team}
 
-建立團隊可讓您組合一組使用者，讓內容可與共用，並依篩選報表。
+建立團隊可讓您組合一組使用者，以便共用內容並篩選報告。
 
 ## 建立團隊 {#create-a-team}
 
@@ -23,7 +24,7 @@ ht-degree: 0%
 
    ![](assets/creating-a-team-2.png)
 
-1. 在「團隊」旁邊，按一下 **+** 表徵圖。
+1. 在「團隊」旁邊，按一下 **+** 圖示。
 
    ![](assets/creating-a-team-3.png)
 
@@ -35,13 +36,13 @@ ht-degree: 0%
 >
 >您現在可以與該團隊共用範本、行銷活動和群組。
 
-## 將人員添加到團隊 {#add-people-to-a-team}
+## 新增人員至團隊 {#add-people-to-a-team}
 
-1. 仍在團隊管理中，請選取 **所有成員**.
+1. 仍然在「團隊管理」中，選取 **所有成員**.
 
    ![](assets/creating-a-team-5.png)
 
-1. 找出您要新增至團隊的使用者，並選取其核取方塊。
+1. 找到您要新增至團隊的使用者，並選取其核取方塊。
 
    ![](assets/creating-a-team-6.png)
 
@@ -53,6 +54,6 @@ ht-degree: 0%
 
    ![](assets/creating-a-team-8.png)
 
-1. 按一下 **新增** 時才能使用。
+1. 按一下 **新增** 完成時。
 
    ![](assets/creating-a-team-9.png)

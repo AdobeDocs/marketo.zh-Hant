@@ -1,26 +1,27 @@
 ---
 unique-page-id: 14352530
-description: 命令中心概述 — Marketo檔案 — 產品檔案
-title: 命令中心概述
+description: 命令中心總覽 — Marketo檔案 — 產品檔案
+title: 命令中心概觀
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 1%
 
 ---
 
-# 命令中心概述 {#command-center-overview}
+# 命令中心概觀 {#command-center-overview}
 
-「推薦中心」是單一、統一的視圖，可幫助您確定下一步，同時確保不會有任何問題出現。
+Commend Center是單一、統一的檢視，可協助您找出下一步驟，同時確保沒有漏掉任何內容。
 
 ## 管理電子郵件 {#manage-emails}
 
-您可以在命令中心的電子郵件區段管理所有電子郵件活動。 將其視為您的電子郵件寄件匣，以檢閱從Sales Connect傳送的電子郵件。 管理您排程的電子郵件、查看誰在與您的電子郵件互動、檢查傳送的電子郵件是否有任何問題，以及執行其他操作。
+您可以在命令中心的電子郵件區段管理所有電子郵件活動。 您可以將其視為您的電子郵件寄件匣，以檢閱從Sales Connect傳送的電子郵件。 管理您排程的電子郵件、檢視誰一直在處理您的電子郵件、檢視您的電子郵件傳送是否有任何問題等。
 
 ![](assets/command-center-overview-1.png)
 
-電子郵件區段可讓您以鳥瞰的方式檢視所有電子郵件，並透過主索引標籤和子索引標籤簡化組織，這些標籤和子索引標籤可做為資料夾，讓您的電子郵件根據其狀態自動儲存。
+電子郵件區段提供您對所有電子郵件的鳥瞰式檢視，並透過主要標籤和子標籤簡化其組織，這些標籤和子標籤用作資料夾，其中您的電子郵件會根據其狀態自動儲存。
 
 <table> 
  <colgroup> 
@@ -36,64 +37,63 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td title="背景顏色：藍色"><strong title="">已傳送</strong></td> 
-   <td title="背景顏色：藍色">傳遞</td> 
-   <td title="背景顏色：藍色">已傳送給收件者的電子郵件。</td> 
+   <td title="背景顏色：藍色">已傳遞</td> 
+   <td title="背景顏色：藍色">已傳遞給收件者的電子郵件。</td> 
   </tr> 
   <tr> 
    <td title="背景顏色：藍色"><br></td> 
    <td title="背景顏色：藍色">已封存</td> 
-   <td title="背景顏色：藍色">已由使用者封存的電子郵件，以停用對電子郵件的追蹤。</td> 
+   <td title="背景顏色：藍色">使用者為了停用電子郵件追蹤而封存的電子郵件。</td> 
   </tr> 
   <tr> 
    <td title="背景顏色：灰色"><strong title="">待處理</strong></td> 
    <td title="背景顏色：灰色">已排程</td> 
-   <td title="背景顏色：灰色">目前排程結束的電子郵件。 傳送電子郵件後，會將其移至傳送的資料夾。</td> 
+   <td title="背景顏色：灰色">目前排定要發出的電子郵件。 傳送電子郵件後，該電子郵件將移至傳送的資料夾。</td> 
   </tr> 
   <tr> 
    <td title="背景顏色：灰色"><br></td> 
    <td title="背景顏色：灰色">草稿</td> 
-   <td title="背景顏色：灰色"><p>已儲存為草稿的電子郵件。<br><strong>注意：</strong> 只能將單一電子郵件儲存為草稿。 大量電子郵件（選取並傳送電子郵件和群組電子郵件）不會儲存為草稿。</p></td> 
+   <td title="背景顏色：灰色"><p>已儲存為草稿的電子郵件。<br><strong>注意：</strong> 只有單一電子郵件可以儲存為草稿。 不會將大量電子郵件（選取和傳送電子郵件及群組電子郵件）儲存為草稿。</p></td> 
   </tr> 
   <tr> 
    <td title="背景顏色：灰色"><br></td> 
    <td title="背景顏色：灰色">進行中</td> 
-   <td title="背景顏色：灰色">這是當電子郵件處於傳送動作時進入的中間狀態。 電子郵件只應持續幾分鐘。</td> 
+   <td title="背景顏色：灰色">這是電子郵件處於傳送動作時進入的中間狀態。 電子郵件應該只會進行一段時間。</td> 
   </tr> 
   <tr> 
-   <td title="背景顏色：藍色"><strong title="">未傳送</strong></td> 
-   <td title="背景顏色：藍色">已失敗</td> 
-   <td title="背景顏色：藍色">無法傳送的電子郵件。</td> 
-  </tr> 
-  <tr> 
-   <td title="背景顏色：藍色"><br></td> 
-   <td title="背景顏色：藍色">已跳出</td> 
-   <td title="背景顏色：藍色"><p>已從收件者電子郵件伺服器拒絕的電子郵件。 <br><strong>注意：</strong> 只有在您是舊版ToutApp使用者且能存取MSC Servers作為傳送通道時，才會偵測到此狀況。</p></td> 
+   <td title="背景顏色：藍色"><strong title="">未傳遞</strong></td> 
+   <td title="背景顏色：藍色">失敗</td> 
+   <td title="背景顏色：藍色">無法傳遞的電子郵件。</td> 
   </tr> 
   <tr> 
    <td title="背景顏色：藍色"><br></td> 
-   <td title="背景顏色：藍色">垃圾郵件</td> 
-   <td title="背景顏色：藍色"><p>收件者手動標示為垃圾訊息的電子郵件。<br><strong>注意：</strong> 只有在您是舊版ToutApp使用者且能存取MSC Servers作為傳送通道時，才會偵測到此狀況。</p></td> 
+   <td title="背景顏色：藍色">已退回</td> 
+   <td title="背景顏色：藍色"><p>已從收件者電子郵件伺服器拒絕的電子郵件。 <br><strong>注意：</strong> 只有當您是舊版ToutApp使用者，並且有權存取MSC伺服器作為傳遞通道時，才會偵測到這種情況。</p></td> 
+  </tr> 
+  <tr> 
+   <td title="背景顏色：藍色"><br></td> 
+   <td title="背景顏色：藍色">垃圾訊息</td> 
+   <td title="背景顏色：藍色"><p>收件者手動標籤為垃圾郵件的電子郵件。<br><strong>注意：</strong> 只有當您是舊版ToutApp使用者，並且有權存取MSC伺服器作為傳遞通道時，才會偵測到這種情況。</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## 管理任務 {#manage-tasks}
 
-任務部分是您管理和完成任務的一站式服務。 在此，您可以無縫地管理任務，以提高工作效率，並將精力集中在最相關的項目上。
+作業區段是管理和完成作業的一站式商店。 您可以在這裡順暢地管理您的工作，以提高生產力並專注於最相關的專案。
 
 ![](assets/command-center-overview-2.png)
 
-## 參與前景的後續行動 {#follow-up-with-engaged-prospects}
+## 參與潛在客戶的後續追蹤 {#follow-up-with-engaged-prospects}
 
-一旦您透過撰寫視窗或行銷活動開始與潛在客戶互動後，您就可以利用進階搜尋功能，開始重新鎖定參與最多的潛在客戶。
+一旦您開始透過撰寫視窗或行銷活動與潛在客戶互動，您就可以利用進階搜尋功能，開始重新鎖定參與度最高的潛在客戶。
 
-例如，如果您在MSC中新增100位訪客至促銷活動，您可能想要重新定位已檢視及點按您電子郵件但未回覆的訪客。 若要這麼做，您可以利用促銷活動篩選條件以及檢視和按一下狀態活動篩選條件，識別要重新定位的人員清單。
+例如，如果您在MSC中新增100位人員至促銷活動，您可能想要重新鎖定檢視和點按了您的電子郵件，但未回覆的人員。 若要這麼做，您可以利用行銷活動篩選器以及檢視和點按狀態活動篩選器，以識別要重新鎖定的人員清單。
 
-額外好處：如果您儲存進階搜尋，當收件者檢視或點按您的電子郵件時，搜尋會以動態清單的形式運作，並新增符合參與條件的電子郵件。
+額外優點：如果您儲存進階搜尋，進階搜尋會以動態清單的形式運作，而且會在收件者檢視或按一下您的電子郵件後，新增符合參與條件的電子郵件。
 
 >[!MORELIKETHIS]
 >
->* [工作](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
->* [進階搜尋概述](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
->* [使用選擇和發送合成大量電子郵件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
-
+>* [任務](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
+>* [進階搜尋概觀](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
+>* [使用「選取並傳送」撰寫大量電子郵件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)

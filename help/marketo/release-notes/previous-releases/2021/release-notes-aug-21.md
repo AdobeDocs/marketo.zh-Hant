@@ -2,86 +2,87 @@
 description: 發行說明 — 2021年8月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2021年8月
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '925'
 ht-degree: 0%
 
 ---
 
-# 發行說明：2021年8月 {#release-notes-aug-21}
+# 發行說明： 2021年8月 {#release-notes-aug-21}
 
-』21年8月發行包含下列功能。 查看您的Marketo Engage版本以了解功能可用性。
+2021年8月發行版本包含下列功能。 檢查您的Marketo Engage版本是否有功能可用。
 
 >[!AVAILABILITY]
 >
->以星號表示的特徵(![](assets/yellow-star.png))是付費附加元件。 請連絡您的Adobe Marketo Engage代表以了解更多資訊。
+>以星號(![](assets/yellow-star.png))為付費附加元件。 請聯絡您的Adobe Marketo Engage代表以瞭解更多資訊。
 
 **_每季發行_**
 
-下列功能將於 **2021年8月20日**.
+下列功能將會發行日期 **2021年8月20日**.
 
 ## 體驗自動化 {#experience-automation}
 
-* **Marketo Engage使用者透過Adobe身分驗證**:很快，將會使用Adobe ID使用者認證，上線具有企業套件的新Marketo Engage使用者。 到2022年年中，目前的使用者才會移轉至整合身分系統，在進一步通知前，不需要採取任何動作。 Adobe身分使用者驗證可讓IT/安全管理員管理多個Marketo Engage產品例項以及其他Experience Cloud解決方案，以及透過通用主控台設定SSO。 管理員可以方便地在一個位置管理使用者群組和使用者權益。
+* **透過Adobe身分進行Marketo Engage使用者驗證**：不久，將使用Adobe ID使用者認證來上線具有企業套件的新Marketo Engage使用者。 2022年中之前不會將目前的使用者移轉至整合式身分系統，在進一步通知之前不需要採取任何動作。 Adobe身分使用者驗證可讓IT/安全管理員管理多個Marketo Engage產品執行個體及其他Experience Cloud解決方案，並透過通用主控台設定SSO。 管理員可以在一個地方方便地管理使用者群組和使用者權益。
 
-* **可執行的促銷活動巢狀**:可執行的促銷活動現在也可以呼叫其他可執行的促銷活動，讓您最多巢狀內嵌至三個層級。 這可以進一步整合常見的操作流程，並改進Smart Campaign管理。
+* **可執行檔行銷活動巢狀**：可執行行銷活動現在也可以呼叫其他可執行行銷活動，讓您最多可在三個層級深度巢狀內嵌這些行銷活動。 如此可進一步整合常見作業流程，並改善Smart Campaign管理。
 
-* **「人員詳細資訊」頁面中的單一流動動作** （9月9日前推出）:使用「流程操作」菜單，從人員詳細資訊頁對個人執行流操作，如發送電子郵件、更改人員所有者或任何其他智慧促銷活動操作，而不切換到資料庫網格視圖。
+* **個人詳細資料頁面中的單一流程作業** （9月9日前提供）：在不切換至資料庫網格檢視的情況下，使用流程動作選單從人員詳細資料頁面執行流程動作，例如傳送電子郵件、變更人員擁有者或針對個別人員執行任何其他智慧行銷活動動作。
 
-* **[自訂活動匯出](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**:中繼資料匯出現在支援所有物件和個別中繼資料，可用來共用、分析和設計您的訂閱資料模型。
+* **[自訂活動匯出](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**：中繼資料匯出現在支援所有物件和個別中繼資料，可用於共用、分析和設計您的訂閱資料模型。
 
 ## API增強功能 {#api-enhancements}
 
-* **提交表單API**:當一個電子郵件地址在兩個或多個Lead記錄中重複時，我們會更新「上次更新」記錄，而非完全略過。 提供與Forms 2.0 API同等的支援。
+* **提交表單API**：當電子郵件地址在兩個或多個Lead記錄中重複時，我們會更新「上次更新」記錄而不是完全跳過。 提供與Forms 2.0 API的同等功能。
 
-* **電子郵件API**:擷取冠軍或挑戰者電子郵件資產。 使用日期範圍篩選器擷取電子郵件資產。
+* **電子郵件API**：擷取冠軍或挑戰者電子郵件資產。 使用日期範圍篩選器擷取電子郵件資產。
 
-**_整季推出_**
+**_整個季度發行_**
 
-下列功能屬於非季度週期，將在未來數月內發行。
+下列功能採用非季度週期，並將在未來幾個月發行。
 
-## Sales Insight {#sales-insight}
+## 銷售分析 {#sales-insight}
 
 ![（星號）](assets/yellow-star.png)
 
-* **增強Salesforce CRM使用者對銷售機會、連絡人、帳戶和商機活動的可見度**:在較長的銷售週期中與潛在客戶的接洽會更加了解，因為Sales Insight中的參與記錄數量增加。 有趣的時刻、Web活動、電子郵件和分數頁簽在Lead、Contact、Account和Opportunity對象中顯示多達400個活動。
+* **增強Salesforce CRM使用者的Lead、Contact、Account和Opportunity活動的可見度**：由於Sales Insight中的參與記錄數量增加，在漫長的銷售週期中與潛在客戶互動時可獲得更多資訊。 有趣的時刻、網頁活動、電子郵件和分數標籤會顯示Lead、Contact、Account和Opportunity物件中最多400個活動。
 
 ## Sales Connect {#sales-connect}
 
 ![（星號）](assets/yellow-star.png)
 
-* **電子郵件連線限制（測試版）**:利用Sales Connect的電子郵件連線限制，改善電子郵件傳遞能力並擴展個人化銷售通訊。 這項新技術可自動管理電子郵件傳送時間，為Exchange和Gmail使用者建立順暢的體驗。 減少或消除第三方批量電子郵件發送應用程式的使用，並信心十足地從Sales Connect發送您的所有電子郵件。
+* **電子郵件連線節流（測試版）**：使用Sales Connect的電子郵件連線節流功能，改善電子郵件傳遞能力並擴展個人化銷售通訊。 這項新技術會自動管理電子郵件傳送時間，為Exchange和Gmail使用者創造順暢的體驗。 減少或避免使用協力廠商大量電子郵件傳送應用程式，並放心地從Sales Connect傳送所有電子郵件。
 
 >[!NOTE]
 >
->現在，測試版已提供電子郵件限制功能。 [深入了解](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+>電子郵件節流功能現在可在Beta版中使用。 [深入了解](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
-* **增強銷售活動分析**:根據您銷售團隊的先前活動，擷取並啟用個人化參與。 新屬性（如「銷售呼叫記錄連結」、「銷售促銷活動名稱」和「銷售電子郵件主體」）可用於Marketo Engage智慧清單。  這些活動可透過「Marketo EngageREST API」或「大量匯出」來匯出和報告，並可在篩選器和觸發器上使用，作為智慧清單的其他限制。
+* **增強的銷售活動深入分析**：根據您的銷售團隊先前的活動，擷取並啟用個人化參與。 新的屬性（例如「銷售電話錄音」連結、銷售行銷活動名稱和銷售電子郵件主旨）可用於Marketo Engage智慧清單。  這些活動可透過Marketo EngageREST API或大量匯出來匯出和報告，並可在篩選器和觸發器上作為智慧清單的額外限制使用。
 
 ## Bizible {#bizible}
 
 ![](assets/yellow-star.png)
 
-* **Bizible LinkedIn Lead Gen Forms整合**:行銷人員現在可以針對LinkedIn透過其Lead Gen Forms廣告單位擷取表單填入時發生的轉換，執行收入歸因。 然後，這些見解便可用來最佳化表單效能和付費媒體投資。 linkedIn Lead Gen Forms是LinkedIn增長最快的付費媒體產品之一，此新功能包含在我們與Bizible的現有LinkedIn Ads整合中。
+* **Bizible LinkedIn Lead Gen Forms整合**：行銷人員現在可以對LinkedIn透過其Lead Gen Forms廣告單位擷取表單填入時發生的轉換執行收入歸因。 這些見解可用於最佳化表單效能和付費媒體投資。 linkedIn Lead Gen Forms是LinkedIn增長最快的付費媒體產品之一，這項新功能包含在我們與Bizible的現有LinkedIn Ads整合中。
 
-* **改進的Velocity儀表板**:我們新增了新的速度量度和控制面板篩選器，以提供更深入的分析。 此控制面板供行銷人員用來了解各階段的銷售機會和商機速度，以及不同行銷和銷售互動形式的效率。
+* **改善的Velocity儀表板**：我們已新增速度量度和控制面板篩選器，能提供更深入的見解。 此儀表板可供行銷人員用來瞭解逐階段銷售線索和機會速度，以及不同形式行銷和銷售參與的效率。
 
-* **新的同類群組瀑布歷程控制面板**:這可讓行銷人員透過經典的「需求瀑布圖」階段集來檢視所選同類群組的進展，進而快速了解轉換率，並逐階段隱含階段轉換因果關係。
+* **新同類群組Waterfall歷程儀表板**：這可讓行銷人員檢視選定同類群組在傳統「需求瀑布」階段集中的進度，進而提供對轉換率和隱含階段轉換因果關係的逐階段快速瞭解。
 
 ## Bizible與Adobe Experience Cloud整合 {#bizible-integration-with-adobe-experience-cloud}
 
-本節包含已完成AdobeIdentity Management系統(IMS)移轉的Bizible使用者的新功能。 如果您已移轉，您會在「Adobe ID」標籤下的「Bizible Settings」中看到新的Adobe ID。 所有帳戶應在2021年底前移轉。
+本節包括已完成其AdobeIdentity Management System (IMS)移轉的Bizible使用者適用的新功能。 如果您已移轉，您會在Adobe ID標籤下方的Bizible設定中看到新的Adobe ID。 所有帳戶應於2021年底移轉。
 
-* **Bizible整合與AdobePrivacy Service** （2021年9月推出）:Bizible與AdobePrivacy Service的整合可集中Adobe Experience Cloud應用程式對重要資料隱私權法規（例如GDPR）的遵循。 您現在可以善用此服務並集中管理所有隱私權要求，以便在應用程式間反映傳入Bizible和其他Adobe產品的變更要求。
+* **Bizible與AdobePrivacy Service整合** （2021年9月推出）： Bizible與AdobePrivacy Service的整合可跨Adobe Experience Cloud應用程式集中遵循關鍵資料隱私權法規（例如GDPR）。 您現在可以善用此服務，集中管理所有隱私權請求，好讓所有應用程式都能反映傳入Bizible和其他Adobe產品的變更請求。
 
-* **Adobe Experience Cloud介面上的Bizible**:Bizible採用的Adobe Experience Cloud Interface為使用者提供新功能，這些功能將出現在Bizible應用程式標題列中，並包括更好地訪問支援資源和應用程式切換。 Experience Cloud介面可協助您在Bizible與其他Adobe Experience Cloud應用程式之間建立一致的體驗。
+* **Adobe Experience Cloud介面上的Bizible**： Bizible採用Adobe Experience Cloud介面，讓使用者擁有新功能，這些功能會顯示在Bizible應用程式標題列中，且包含支援資源和應用程式切換的更佳存取權。 Experience Cloud介面有助於在Bizible和其他Adobe Experience Cloud應用程式之間建立一致的體驗。
 
-* **Bizible網域所有權與自我管理**:Bizible使用者可運用Adobe Admin Console來管理他們希望Bizible追蹤的網域。 這為先前的手動程式提供自助服務，並提供如何跨Adobe Experience Cloud應用程式管理網域擁有權和追蹤的一致體驗。
+* **Bizible網域擁有權和自我管理**： Bizible使用者可運用Adobe Admin Console管理他們希望Bizible追蹤的網域。 這可為先前手動的流程帶來自助服務，並提供如何跨Adobe Experience Cloud應用程式管理網域擁有權和追蹤的一致體驗。
 
 ## 公告 {#announcements}
 
-* **訂閱通用ID設定的更新**:為支援現有使用者即將推出的Marketo Engage與Adobe身分整合，所有Marketo Engage訂閱將透過啟用通用ID支援統一。 更多資訊 [可在此處找到](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md).
+* **更新訂閱通用ID設定**：為了支援現有使用者即將推出的Marketo Engage和Adobe身分整合，所有Marketo Engage訂閱都將在啟用通用ID支援時統一。 更多資訊 [可在此處找到](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md).
 
 **_產品發行網路研討會_**
 

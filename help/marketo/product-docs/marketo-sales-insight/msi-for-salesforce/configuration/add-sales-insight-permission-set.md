@@ -1,29 +1,30 @@
 ---
-description: 新增Sales Insight權限集 — Marketo檔案 — 產品檔案
-title: 添加Sales Insight權限集
+description: 新增Sales Insight許可權集 — Marketo檔案 — 產品檔案
+title: 新增Sales Insight許可權集
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
-source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
 
-# 添加Sales Insight權限集 {#add-sales-insight-permission-set}
+# 新增Sales Insight許可權集 {#add-sales-insight-permission-set}
 
-使用下列步驟來新增對Salesforce中Sales Insight功能的存取權。 適用於Salesforce Classic和Lighting
+使用下列步驟新增對Salesforce中Sales Insight功能的存取權。 適用於Salesforce Classic和Lightning
 
 >[!PREREQUISITES]
 >
->[更新您的Sales Insight Salesforce套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target=&quot;_blank&quot;}到1.8000版或更高版本，以使用此功能。
+>[更新您的Sales Insight Salesforce套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} 至1.8000版或更新版本，以便使用此功能。
 
 >[!IMPORTANT]
 >
->如果您先前已為所有用戶授予Sales Insight對所有配置檔案的訪問權和/或實施了Sales Insight，則必須 [移除設定檔層級存取權](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target=&quot;_blank&quot;}使用此權限集。
+>如果您先前已授予Sales Insight存取權給所有設定檔，和/或針對所有使用者實作Sales Insight，您必須 [移除設定檔層級存取權](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} 以使用此許可權集。
 
-## 總覽 {#overview}
+## 概觀 {#overview}
 
-「Marketo應用程式」權限是Sales Insight Salesforce套件的一部分。 它包括對下列物件、頂端類別和視覺效果頁面的存取。 這些是訪問所有Sales Insight功能所必需的。
+「Marketo應用程式」許可權是Sales Insight Salesforce套件的一部分。 它包含對以下提及物件、頂點類別和visualforce頁面的存取權。 您必須具備這些條件才能存取所有Sales Insight功能。
 
 **物件設定**
 
@@ -31,56 +32,56 @@ ht-degree: 0%
  <tbody> 
  <tr> 
    <td>BestBetsCache</td> 
-   <td>讀取、建立、編輯、刪除、全部查看、全部修改</td> 
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
   </tr> 
   <tr> 
-   <td>最佳視圖詳細資訊</td> 
-   <td>讀取、建立、編輯、刪除、全部查看、全部修改</td> 
+   <td>最佳化檢視詳細資料</td> 
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
   </tr> 
   <tr> 
-   <td>最佳檢視</td> 
-   <td>讀取、建立、編輯、刪除、全部查看、全部修改</td> 
+   <td>最佳化檢視</td> 
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
   </tr> 
   <tr> 
    <td>EmailActivityCache</td> 
-   <td>讀取、建立、編輯、刪除、全部查看、全部修改</td> 
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
   </tr> 
   <tr> 
    <td>GetMethodArgus</td> 
-   <td>讀取、建立、編輯、刪除、全部查看、全部修改</td> 
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
   </tr> 
   <tr> 
    <td>GroupedWebActivityCache</td> 
-   <td>讀取、建立、編輯、刪除、全部查看、全部修改</td> 
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
   </tr> 
   <tr> 
    <td>InterestedMomentsCache</td> 
-   <td>讀取、建立、編輯、刪除、全部查看、全部修改</td> 
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
   </tr> 
   <tr> 
-   <td>Marketo Sales Insight設定</td> 
-   <td>讀取、建立、編輯、刪除、全部查看、全部修改</td> 
+   <td>Marketo銷售分析設定</td> 
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
   </tr> 
   <tr> 
-   <td>ScoringCache</td> 
-   <td>讀取、建立、編輯、刪除、全部查看、全部修改</td> 
+   <td>評分快取</td> 
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
   </tr> 
   <tr> 
    <td>值</td> 
-   <td>讀取、建立、編輯、刪除、全部查看、全部修改</td> 
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
   </tr> 
   <tr> 
    <td>WebActivityCache</td> 
-   <td>讀取、建立、編輯、刪除、全部查看、全部修改</td> 
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
   </tr> 
  </tbody> 
 </table>
 
-* Apex類訪問：159個以&quot;mkto_si&quot;開頭的頂點類
-* 視覺效果強制頁面存取：64以「mkto_si」開頭的視覺強制頁面
-* 自訂設定定義：mkto_si.Marketo設定與mkto_si.User偏好設定
+* Apex類別存取：以「mkto_si」開頭的159個Apex類別
+* Visualforce頁面存取：64個以「mkto_si」開頭的Visualforce頁面
+* 自訂設定定義： mkto_si.Marketo設定和mkto_si.User偏好設定
 
-## 將Marketo應用程式權限集新增至使用者 {#adding-marketo-app-permission-set-to-users}
+## 將Marketo應用程式許可權集新增至使用者 {#adding-marketo-app-permission-set-to-users}
 
 1. 登入您的Salesforce帳戶。
 
@@ -88,28 +89,28 @@ ht-degree: 0%
 
    ![](assets/add-sales-insight-permission-set-1.png)
 
-1. 在「管理員」下，按一下以展開 **管理使用者**，然後 **使用者**.
+1. 在「管理員」下，按一下以展開 **管理使用者**，則 **使用者**.
 
    ![](assets/add-sales-insight-permission-set-2.png)
 
-1. 在「所有使用者」下，選取您要提供存取權的使用者，然後按一下 **權限集分配**.
+1. 在「所有使用者」下，選取您要提供存取許可權的使用者，然後按一下 **許可權集指派**.
 
    ![](assets/add-sales-insight-permission-set-3.png)
 
-1. 按一下 **編輯分配**.
+1. 按一下 **編輯指派**.
 
    ![](assets/add-sales-insight-permission-set-4.png)
 
-1. 選擇 **Marketo應用程式存取** 從可用權限集，然後 **新增**. 按一下 **儲存**.
+1. 選取 **Marketo應用程式存取** 從可用的許可權集，然後 **新增**. 按一下 **儲存**.
 
    ![](assets/add-sales-insight-permission-set-5.png)
 
-1. 現在，當您向下捲動「使用者詳細資料」頁面時，權限集指派下會顯示「Marketo應用程式存取」。
+1. 現在，當您向下捲動「使用者詳細資訊」頁面時，您會在「許可權集指派」下方看到「Marketo應用程式存取」。
 
    ![](assets/add-sales-insight-permission-set-6.png)
 
 >[!NOTE]
 >
->無權存取Sales Insight的使用者會看到以下訊息：&quot;您沒有足夠的權限訪問此頁簽。&quot;
+>無權存取Sales Insight的使用者會看到此訊息：「您沒有足夠的許可權可存取此索引標籤。」
 
-就這樣！ 您已成功新增Sales Insight存取權。 對您要為其新增存取權的任何其他設定檔重複相同步驟。
+完成了！ 您已成功新增Sales Insight存取權。 對您要為其新增存取權的任何其他設定檔重複相同的步驟。

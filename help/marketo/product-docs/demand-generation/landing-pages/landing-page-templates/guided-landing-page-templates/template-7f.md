@@ -1,18 +1,19 @@
 ---
 unique-page-id: 8783957
 description: 範本7F - Marketo檔案 — 產品檔案
-title: 模板7F
+title: 範本7F
 exl-id: 3fe4fb0b-7118-4b88-b2ca-f9ad04bf4129
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# 模板7F {#template-7f}
+# 範本7F {#template-7f}
 
-按一下右鍵以 [下載模板7F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)
+按一下滑鼠右鍵以 [下載範本7F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)
 
 ![](assets/image2015-7-29-14-3a52-3a10.png)
 
@@ -21,11 +22,11 @@ ht-degree: 0%
 * 標題（選用）
 * 主要區段
 
-   * 包括影像和按鈕
+   * 包含影像和按鈕
 
-* 四個內文部分（可選）
-* 頁尾（可選）
+* 四個主體區段（選擇性）
+* 頁尾（選擇性）
 
-**按一下右鍵以下載此模板：**
+**在下方按一下滑鼠右鍵以下載此範本：**
 
-[模板7F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)
+[範本7F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)

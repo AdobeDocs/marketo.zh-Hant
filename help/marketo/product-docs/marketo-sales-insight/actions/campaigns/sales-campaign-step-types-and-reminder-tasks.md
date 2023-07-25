@@ -2,7 +2,8 @@
 description: 促銷活動步驟型別和提醒任務 — Marketo檔案 — 產品檔案
 title: 銷售行銷活動步驟型別和提醒任務
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
-source-git-commit: eeeff565e11cf98585bc6fef98f51d1c1f74199c
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%

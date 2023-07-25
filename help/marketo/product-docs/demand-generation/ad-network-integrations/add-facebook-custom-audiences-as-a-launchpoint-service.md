@@ -3,7 +3,8 @@ unique-page-id: 4720257
 description: 將Facebook自訂對象新增為LaunchPoint服務 — Marketo檔案 — 產品檔案
 title: 將Facebook自訂對象新增為LaunchPoint服務
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
@@ -14,59 +15,58 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理權限**
+>**需要管理員許可權**
 
-透過此整合，您可以將受眾資料從Marketo靜態和智慧型清單傳送至Facebook，以在Facebook廣告行銷活動中作為自訂受眾。 下面是如何設定它。
+透過這項整合，您可以將受眾資料從Marketo靜態和智慧清單傳送至Facebook，在Facebook Ad Campaigns中作為自訂受眾。 以下說明設定方法。
 
-1. 前往Marketo **管理**.
+1. 前往Marketo **管理員**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. 前往 **LaunchPoint**，按一下 **新增** 選取 **新服務**.
+1. 前往 **啟動點**，按一下 **新增** 並選取 **新服務**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. 輸入 **顯示名稱** 為您的服務，並選取 **Facebook自訂對象** 服務 **服務** 下拉式清單。
+1. 輸入 **顯示名稱** ，並選取 **facebook自訂對象** 服務來自 **服務** 下拉式清單。
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. 在相同的瀏覽器中開啟新標籤，然後前往 [facebook.com](https://www.facebook.com/). 使用您要用於整合的帳戶登入Facebook。
+1. 在同一瀏覽器中開啟新標籤，然後前往 [facebook.com](https://www.facebook.com/). 使用您要用於整合的帳戶登入Facebook。
 
    >[!CAUTION]
    >
-   >為了讓Marketo跨多個廣告管理員帳戶傳送對象，您在下列步驟中授權的Facebook使用者必須擁有 *all* 這些賬戶。
+   >為了讓Marketo可跨多個廣告經理帳戶傳送對象，您於以下步驟中授權的Facebook使用者需要擁有以下存取許可權 *全部* 這些帳戶中的。
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. 登入Facebook後，返回Marketo。 按一下 **授權**.
+1. 登入Facebook後，請返回Marketo。 按一下 **授權**.
 
    ![](assets/fb-custom-authorize-hand.png)
 
    >[!NOTE]
    >
-   >您 _必須_ 使用Facebook Business Manager帳戶，讓自訂對象整合運作正常。 要了解如何設定Business Manager帳戶，請參閱 [Facebook說明](https://www.facebook.com/business/help/1710077379203657).
+   >您 _必須_ 使用Facebook Business Manager帳戶，讓您的自訂對象整合發揮作用。 若要瞭解如何設定Business Manager帳戶，請參閱 [facebook說明](https://www.facebook.com/business/help/1710077379203657).
 
 1. 如果出現提示，請按一下 **確定** 接受Marketo應用程式安裝至Facebook。
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. 你現在被授權了！ 選取相符模式，然後按一下 **建立**.
+1. 您現在已獲得授權！ 選取相符模式並按一下 **建立**.
 
    >[!NOTE]
    >
-   >**基本比對** 僅使用電子郵件地址。 **進階比對** 使用另外7個欄位（這會增加匹配率）以進行更多轉換。 不過，如果貴公司的隱私權政策不允許共用其他欄位，或您的資料未包含這些欄位，請選取「基本比對」。
+   >**基本比對** 僅使用電子郵件地址。 **進階比對** 會額外使用七個欄位，以提高匹配率，以獲得更多轉換。 但是，如果貴公司的隱私權政策不允許共用其他欄位，或您的資料不包含這些欄位，請選取「基本比對」。
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   幹得好！ 您現在可以移至Marketo中的任何靜態或智慧清單，並將對象資料傳送至Facebook。
+   做得好！ 您現在可以前往Marketo中的任何靜態或智慧清單，並將受眾資料傳送至Facebook。
 
    >[!CAUTION]
    >
-   >你走之前，一定要 [接受Facebook的自訂對象條款](https://www.facebook.com/ads/manage/customaudiences/tos.php) 在你的Facebook賬戶里！ 若不這麼做，對象更新將會失敗。
+   >哦，開始之前，請務必 [接受Facebook的自訂對象條款](https://www.facebook.com/ads/manage/customaudiences/tos.php) 在您的Facebook帳戶內！ 若未這麼做，對象更新將會失敗。
 
 >[!MORELIKETHIS]
 >
 >* [在Facebook中建立自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >
 >* [設定Facebook銷售機會廣告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
-

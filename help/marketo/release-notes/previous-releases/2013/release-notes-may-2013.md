@@ -3,37 +3,38 @@ unique-page-id: 2951097
 description: 發行說明 — 2013年5月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2013年5月
 exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
-# 發行說明：2013年5月 {#release-notes-may}
+# 發行說明： 2013年5月 {#release-notes-may}
 
-5月發行版本包含下列功能。
+5月發行版本中包括下列功能。
 
-## 登錄頁面的日曆檔案 {#calendar-files-for-landing-pages}
+## 登陸頁面的行事曆檔案 {#calendar-files-for-landing-pages}
 
-建立可新增至登錄頁面的日曆檔案作為我的Token。 此整合的日曆檔案(例如.ics檔案)會呈現所有代號，包括本機資產登陸頁面上的「我的代號」。
+將行事曆檔案建立為「我的Token」，可新增至您的登陸頁面。 此整合式行事曆檔案（例如.ics檔案）將轉譯所有權杖，包括本機資產登陸頁面上的「我的權杖」。
 
 ![](assets/image2014-9-22-16-3a3-3a18.png)
 
-## 「模型成員資格」頁簽 {#model-membership-tab}
+## 模型成員資格標籤 {#model-membership-tab}
 
-在一個位置查看模型成員的所有資料，以便輕鬆監視和排除故障。 新的「成員」頁簽是一個只讀視圖，當您選擇批准的收入週期模型時可用。
+在一個位置檢視模型成員的所有資料，以便輕鬆進行監控和疑難排解。 當您選取已核准的收入週期模型時，新的「成員」標籤是唯讀的檢視。
 
 ![](assets/image2014-9-22-16-3a3-3a33.png)
 
-## 重新組織的流量動作樹 {#reorganized-flow-action-tree}
+## 重新組織的流程動作樹狀結構 {#reorganized-flow-action-tree}
 
-使用新重新整理的流量動作樹狀結構，更快找到流量動作。
+使用新重新整理的流程動作樹狀結構，更快找到流程動作。
 
 ![](assets/image2014-9-22-16-3a3-3a58.png)
 
-## 重新命名的流量動作 {#renamed-flow-actions}
+## 已重新命名流量動作 {#renamed-flow-actions}
 
-「更改進展狀態」現在為「更改方案狀態」。 更改計畫資料現在是更改計畫成功
+「變更進度狀態」現在是「變更方案狀態」。 變更計畫資料現在變更計畫成功
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)

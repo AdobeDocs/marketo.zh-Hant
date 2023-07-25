@@ -3,7 +3,8 @@ unique-page-id: 2359821
 description: 設定社交分享需求 — Marketo檔案 — 產品檔案
 title: 設定社交分享需求
 exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 設定社交分享需求 {#set-social-share-requirement}
 
-當您 [建立反向連結選件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)，您可以要求使用者共用優惠方案以註冊，或設為選用。
+當您 [建立轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)，您可以要求人員共用選件以註冊，或將其設為選用。
 
 1. 前往 **行銷活動**.
 
@@ -26,13 +27,13 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 選擇註冊流的順序。
+1. 選取註冊流程的順序。
 
    ![](assets/four.png)
 
-   * **人員捕獲** > **共用**:人可以略過共用，只註冊。
-   * **共用** > **人員捕獲**:必須共用才能註冊。
+   * **個人擷取** > **共用**：個人可以略過共用並直接註冊。
+   * **共用** > **個人擷取**：個人必須共用才能註冊。
 
-1. 對於每個選項，請參閱 **檢視與編輯** 窗口。
+1. 對於每個選項，請參閱 **檢視和編輯** 視窗。
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)

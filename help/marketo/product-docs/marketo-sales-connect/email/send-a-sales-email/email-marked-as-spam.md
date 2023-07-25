@@ -1,30 +1,31 @@
 ---
 unique-page-id: 14352525
 description: 標示為垃圾訊息的電子郵件 — Marketo檔案 — 產品檔案
-title: 標示為垃圾郵件的電子郵件
+title: 電子郵件標籤為垃圾訊息
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
-# 標示為垃圾郵件的電子郵件 {#email-marked-as-spam}
+# 電子郵件標籤為垃圾訊息 {#email-marked-as-spam}
 
-作為一家公司，我們努力確保我們的傳遞率保持高。 不過，某些使用者行為和設定仍可觸發您的已傳送電子郵件被路由至垃圾郵件資料夾。
+作為一家公司，我們努力確保傳遞率保持在高水準。 不過，某些使用者行為和設定仍可能會觸發您傳送的電子郵件被路由到垃圾郵件資料夾。
 
 **檢查您的設定**
 
-* 自訂網域追蹤：這可讓您讓所有追蹤連結一如往常顯示。」yourdomain」，而非go.toutapp。 有些電子郵件安全性會看到電子郵件來自「您的網域」，但連結會重新路由至go.toutapp。 實作自訂網域連結追蹤時，您的電子郵件看起來會合法，而且點擊收件者收件匣的機率較高。
-* 電子郵件傳送通道：依預設，您的電子郵件會透過ToutApp伺服器傳送。 設定您自己的Gmail或自訂SMTP後，您就能將電子郵件最佳機會放入收件者的收件匣。 [按一下這裡](https://nation.marketo.com/docs/DOC-5080) 以深入了解如何根據您的需求選取正確的傳送通道。
+* 自訂網域追蹤：這可讓您在開始使用時顯示所有的追蹤連結。」「您的網域」而非go.toutapp。 有些電子郵件安全性人員會看到電子郵件來自「您的網域」，但連結正在重新路由至go.toutapp。 實作自訂網域連結追蹤後，您的電子郵件看起來將會合法，而且命中收件者收件匣的機率較高。
+* 電子郵件傳遞頻道：依預設，您的電子郵件會透過ToutApp伺服器傳送。 透過設定您自己的Gmail或自訂SMTP，您可以讓您的電子郵件有最佳機會進入收件者的收件匣。 [按一下這裡](https://nation.marketo.com/docs/DOC-5080) 以進一步瞭解如何根據您的需求選擇正確的傳送頻道。
 
 **檢查您的電子郵件行為**
 
-* 保留您的電子郵件簡短且非正式，並將範本貼上為您之前撰寫的電子郵件。
+* 保持電子郵件簡短且非正式，並將您的範本貼上為您之前所寫的電子郵件。
 
-* 避免格式過度的電子郵件，或您使用跨國字詞的訊息。
+* 避免使用格式過高的電子郵件，或是使用跨國文字的訊息。
 
-* 請確定您有一個完整的電子郵件地址，具有完整的電子郵件簽名。
+* 請確定您有完整完成的電子郵件簽章，且有實際地址。
 
-* 請閱讀，確保您遵循 [CAN-SPAM法律](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business).
+* 仔細閱讀並確保您遵循 [CAN-SPAM法規](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business).

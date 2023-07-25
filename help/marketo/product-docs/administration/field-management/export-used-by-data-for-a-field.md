@@ -3,7 +3,8 @@ unique-page-id: 45417092
 description: 欄位資料使用的匯出 — Marketo檔案 — 產品檔案
 title: 欄位資料使用的匯出
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%

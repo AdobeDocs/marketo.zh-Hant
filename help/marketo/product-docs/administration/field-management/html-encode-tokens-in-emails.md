@@ -3,7 +3,8 @@ unique-page-id: 4720461
 description: 電子郵件中的HTML編碼Token - Marketo檔案 — 產品檔案
 title: 電子郵件中的HTML編碼Token
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 11382122
 description: 啟用稽核軌跡 — Marketo檔案 — 產品檔案
 title: 啟用稽核軌跡
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Audit Trail
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%

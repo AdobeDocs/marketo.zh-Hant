@@ -2,7 +2,8 @@
 description: 發行說明 — 2023年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2023年3月
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 5%
@@ -107,7 +108,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **Dynamic Chat的角色和許可權**：引入Dynamic Chat的角色和許可權，讓管理員能夠限制所選使用者型別對應用程式不同區域的可見度和使用量。
+* **Dynamic Chat的角色和許可權**：引入Dynamic Chat的角色和許可權，讓管理員可以將應用程式不同區域的可見度和使用量限製為選定的使用者型別。
 
 <table> 
   <tr> 
@@ -121,7 +122,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **Chat作為Dynamic Chat的計畫頻道**：建立新的「聊天」計畫頻道，以追蹤Dynamic Chat所收購人員的計畫進度。 例如，行銷人員有一個與Dynamic Chat對話方塊關聯的計畫來擷取新的銷售機會。 他們現在可以將該方案指派給Chat頻道，以便他們可以追蹤潛在客戶何時是方案成員以及他們何時取得了成功。
+* **聊天作為Dynamic Chat的計畫頻道**：建立新的「聊天」計畫頻道，以追蹤Dynamic Chat所獲得人員的計畫進度。 例如，行銷人員有一個與Dynamic Chat對話方塊相關聯的方案，以擷取新的銷售機會。 他們現在可以將該方案指派給Chat頻道，以便他們可以追蹤潛在客戶何時是方案成員以及他們何時取得了成功。
 
 <table> 
   <tr> 
@@ -135,7 +136,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **Dynamic Chat的推斷屬性**：確保推斷的IP資料（城市、州/省、國家/地區等） 會寫入Dynamic Chat取得的新人員的個人記錄。
+* **推斷的Dynamic Chat屬性**：確保推斷的IP資料（城市、州/省、國家/地區等） 會針對Dynamic Chat取得的新人員寫入個人記錄。
 
 <table> 
   <tr> 
@@ -149,7 +150,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **Dynamic Chat的其他語言支援**：您現在可以從9種支援的語言中選擇，以便顯示靜態Dynamic Chat內容。
+* **Dynamic Chat的其他語言支援**：您現在可以從9種支援的語言中選擇，以便在中顯示靜態Dynamic Chat內容。
 
 <table> 
   <tr> 
@@ -163,7 +164,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **跳至Dynamic Chat的資料流設計工具預覽中的節點**：從預覽面板直接跳至資料流設計工具中的節點。
+* **跳至資料流設計工具預覽中的節點以進行Dynamic Chat**：從預覽面板直接跳至資料流設計工具中的節點。
 
 <table> 
   <tr> 

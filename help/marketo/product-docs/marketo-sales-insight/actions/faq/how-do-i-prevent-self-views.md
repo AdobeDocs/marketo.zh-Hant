@@ -2,7 +2,8 @@
 description: 如何防止自行檢視 — Marketo檔案 — 產品檔案
 title: 如何防止自我檢視
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
@@ -11,21 +12,21 @@ ht-degree: 0%
 
 # 如何防止自我檢視？ {#how-do-i-prevent-self-views}
 
-檢視追蹤的誤判可能導致報表不一致。 當Marketo Sales的使用者從電子郵件用戶端意外叫用追蹤像素時（我們稱之為自檢），就常會發生這種情況。 以下提供大幅減少甚至消除自我檢視的幾項秘訣。
+在檢視追蹤上取得誤報會導致報告不一致。 當Marketo Sales的使用者不小心從他們的電子郵件使用者端叫用追蹤畫素時（我們稱之為「自行檢視」），經常會發生這種情況。 以下是一些大幅減少甚至消除自我檢視的秘訣。
 
-## Web（Outlook Web App和Gmail） {#web-outlook-web-app-and-gmail}
+## 網頁（Outlook Web App和Gmail） {#web-outlook-web-app-and-gmail}
 
-Marketo Sales會在您的瀏覽器中儲存Cookie，以防止在從Outlook Web App和Gmail開啟電子郵件時追蹤檢視。 如果您仍收到自我檢視，建議您執行下列動作：
+Marketo Sales會在您的瀏覽器中儲存Cookie，以防止在從Outlook Web App和Gmail開啟您的電子郵件時追蹤檢視。 如果您仍收到自行檢視，建議您採取下列步驟：
 
-* 請確定您的電腦上已啟用Cookie。
+* 確定您的電腦已啟用Cookie。
 
-* 如果您使用的是新電腦或行動裝置，請確定您已登入Web應用程式。 這可讓我們識別您的電腦/裝置。
+* 如果您使用新的電腦或行動裝置，請確定您已登入網頁應用程式。 這能讓我們日後辨識您的電腦/裝置。
 
 ## 案頭(Windows) {#desktop-windows}
 
-在您的電子郵件用戶端中下載小型隱形影像像素，即可追蹤檢視。 通過禁用要自動下載的影像，可以顯著減少Outlook中的自檢視量。 以下是操作步驟。
+檢視的追蹤方式為在電子郵件使用者端下載一個不可見的小型影像畫素。 您可以停用要自動下載的影像，以大幅降低Outlook中的自我檢視量。 以下是操作步驟。
 
-1. 在Outlook中，按一下 **檔案** 的下限。
+1. 在Outlook中，按一下 **檔案** 功能表列中的。
 
    ![](assets/how-do-i-prevent-self-views-1.png)
 
@@ -33,38 +34,38 @@ Marketo Sales會在您的瀏覽器中儲存Cookie，以防止在從Outlook Web A
 
    ![](assets/how-do-i-prevent-self-views-2.png)
 
-1. 在Outlook選項對話框中，按一下 **信任中心**.
+1. 在Outlook選項對話方塊中，按一下 **信任中心**.
 
    ![](assets/how-do-i-prevent-self-views-3.png)
 
-1. 在「Microsoft Outlook信任中心」下，按一下 **信任中心設定**.
+1. 在Microsoft Outlook信任中心底下，按一下 **信任中心設定**.
 
    ![](assets/how-do-i-prevent-self-views-4.png)
 
-1. 按一下左側功能表中的「自動下載」 ，然後選取 **不自動下載HTML電子郵件或RSS項中的圖片** 框。
+1. 按一下左側功能表中的「自動下載」，然後選取 **不要自動下載HTML電子郵件或RSS專案中的圖片** 核取方塊。
 
    ![](assets/how-do-i-prevent-self-views-5.png)
 
-1. 按一下 **確定** 中，選擇「信任中心」。
+1. 按一下 **確定** 「信任中心」對話方塊中。
 
    ![](assets/how-do-i-prevent-self-views-6.png)
 
-1. 按一下 **確定** ，在「Outlook選項」對話框中。
+1. 按一下 **確定** 在[Outlook選項]對話方塊中。
 
    ![](assets/how-do-i-prevent-self-views-7.png)
 
 ## 案頭(Mac) {#desktop-mac}
 
-在您的電子郵件用戶端中下載小型隱形影像像素，即可追蹤檢視。 通過禁用要自動下載的影像，可以顯著減少Outlook中的自檢視量。 以下是操作步驟。
+檢視的追蹤方式為在電子郵件使用者端下載一個不可見的小型影像畫素。 您可以停用要自動下載的影像，以大幅降低Outlook中的自我檢視量。 以下是操作步驟。
 
-1. 在Outlook中，按一下 **Outlook** ，然後選取 **偏好設定**.
+1. 在Outlook中，按一下 **Outlook** 在功能表列中，然後選取 **偏好設定**.
 
    ![](assets/how-do-i-prevent-self-views-8.png)
 
-1. 在「電子郵件」下，選擇 **閱讀**.
+1. 在電子郵件底下，選擇 **閱讀**.
 
    ![](assets/how-do-i-prevent-self-views-9.png)
 
-1. 在「安全性」下，按一下 **從不** 選項按鈕。
+1. 在「安全性」底下，按一下 **從不** 選項按鈕。
 
    ![](assets/how-do-i-prevent-self-views-10.png)

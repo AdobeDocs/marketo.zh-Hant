@@ -1,32 +1,33 @@
 ---
 unique-page-id: 14352484
-description: 如何修正連線至Salesforce - Marketo檔案 — 產品檔案時的「We Unable Unable To Authenticate Your Request」
-title: 如何修正連線至Salesforce時的「We Unable Unable To Authenticate Your Request」
+description: 如何修正連線至Salesforce時「我們無法驗證您的請求」 — Marketo檔案 — 產品檔案
+title: 如何修正連線至Salesforce時「我們無法驗證您的請求」的問題
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
-# 如何修正連線至Salesforce時的「We Unable Unable To Authenticate Your Request」 {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
+# 如何修正連線至Salesforce時「我們無法驗證您的請求」的問題 {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
-如果您在嘗試將Sales Connect連接到Salesforce時收到「We unable to authenticate your request」錯誤消息，則您對Salesforce的API的訪問可能會受到限制。 請洽詢您的Salesforce管理員，確認有下列項目。
+如果您在嘗試將Sales Connect連線至Salesforce時收到錯誤訊息「我們無法驗證您的請求」，表示您對Salesforce的API的存取可能會受到限制。 請洽詢您的Salesforce管理員，確認您已具備下列功能。
 
-## 在使用者權限中啟用API {#enable-api-in-user-permissions}
+## 在使用者許可權中啟用API {#enable-api-in-user-permissions}
 
-1. 讓Salesforce管理員登錄到SFDC。
-1. 選擇 **設定**.
-1. 選擇 **管理使用者**.
-1. 選擇 **設定檔**.
-1. 查找ToutApp用戶所在的配置檔案，然後按一下 **編輯**.
-1. 向下捲動至 **管理權限** 確保 **啟用API** 已勾選。
+1. 讓Salesforce管理員登入SFDC。
+1. 選取 **設定**.
+1. 選取 **管理使用者**.
+1. 選取 **設定檔**.
+1. 尋找ToutApp使用者所在的設定檔，然後按一下 **編輯**.
+1. 向下捲動至 **管理許可權** 並確定 **API已啟用** 已勾選。
 
-## 檢查Salesforce是否阻止Sales Connect連接 {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
+## 檢查Salesforce是否封鎖Sales Connect連線 {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
 
-1. 讓Salesforce管理員登錄到SFDC。
-1. 選擇 **設定**.
-1. 選擇 **管理應用程式**.
-1. 選擇 **連線應用程式OAuth使用狀況**.
-1. 確保Sales Connect旁邊顯示「Block」。 如果看到「解除阻止」，請按一下按鈕以解除阻止Sales Connect對Salesforce的訪問。
+1. 請Salesforce管理員登入SFDC。
+1. 選取 **設定**.
+1. 選取 **管理應用程式**.
+1. 選取 **連線應用程式OAuth使用方式**.
+1. 請確定Sales Connect旁邊顯示「封鎖」。 如果您看到「解除封鎖」，請按一下按鈕以解除封鎖Sales Connect對Salesforce的存取。

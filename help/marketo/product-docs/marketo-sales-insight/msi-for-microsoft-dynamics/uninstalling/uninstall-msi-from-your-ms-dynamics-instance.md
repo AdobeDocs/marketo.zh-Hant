@@ -1,28 +1,29 @@
 ---
 unique-page-id: 37355600
-description: 從您的MS Dynamics實例卸載MSI - Marketo文檔 — 產品文檔
-title: 從MS Dynamics實例卸載MSI
+description: 從您的MS Dynamics執行個體解除安裝MSI - Marketo檔案 — 產品檔案
+title: 從MS Dynamics執行個體解除安裝MSI
 exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
-# 從MS Dynamics實例卸載MSI {#uninstall-msi-from-your-ms-dynamics-instance}
+# 從MS Dynamics執行個體解除安裝MSI {#uninstall-msi-from-your-ms-dynamics-instance}
 
-要從MS Dynamics實例卸載MSI，您需要在Marketo和MS Dynamics中執行步驟。
+若要從MS Dynamics執行個體解除安裝MSI，您需要在Marketo和MS Dynamics中執行步驟。
 
 >[!PREREQUISITES]
 >
->[禁用全局MS Dynamics同步](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
+>[停用全域MS Dynamics同步](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
 
-1. 在Marketo中，按一下 **管理**.
+1. 在Marketo中，按一下 **管理員**.
 
    ![](assets/one-1.png)
 
-1. 按一下 **Sales Insight**.
+1. 按一下 **銷售分析**.
 
    ![](assets/six.png)
 
@@ -30,26 +31,26 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 選取 **禁用同步** 核取方塊和按一下 **儲存**.
+1. 選取 **停用同步** 核取方塊並按一下 **儲存**.
 
    >[!NOTE]
    >
-   >確保 [禁用全局MS動態同步](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) 停用欄位同步之前。
+   >請確定 [停用全域MS Dynamics同步處理](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) 在停用欄位同步處理之前。
 
    ![](assets/eight.png)
 
-## 在MS Dynamics實例中執行以下步驟： {#the-following-steps-take-place-in-your-ms-dynamics-instance}
+## 下列步驟會在您的MS Dynamics執行個體中進行： {#the-following-steps-take-place-in-your-ms-dynamics-instance}
 
 1. 按一下 **進階設定**.
 
 1. 按一下 **解決方案**.
 
-1. 選擇 **Marketo Sales Insight** 並按一下刪除圖示。
+1. 選取 **Marketo Sales Insight** 並按一下刪除圖示。
 
-1. 出現「Uninstall Solution（卸載解決方案）」強制回應時，按一下 **確定**.
+1. 當「解除安裝解決方案」強制回應視窗彈出時，請按一下 **確定**.
 
-   MS Dynamics解決方案要完全卸載通常需要20分鐘。 不過，如果您有大型MS Dynamics執行個體，則可能需要更久的時間。
+   MS Dynamics解決方案通常需要大約20分鐘才能完全解除安裝。 不過，如果您有大型MS Dynamics執行個體，則可能需要更長的時間。
 
    >[!NOTE]
    >
-   >卸載MSI後，請記得開啟全局MS Dynamics同步。
+   >解除安裝MSI之後，請記得開啟全域MS Dynamics同步處理。

@@ -1,20 +1,21 @@
 ---
 unique-page-id: 14745655
-description: 讓Sales Connect使用者可看見促銷活動 — Marketo檔案 — 產品檔案
-title: 讓Sales Connect使用者可看見促銷活動
+description: 讓Sales Connect使用者看到行銷活動 — Marketo檔案 — 產品檔案
+title: 讓Sales Connect使用者看到行銷活動
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-# 讓Sales Connect使用者可看見促銷活動 {#make-a-campaign-visible-to-sales-connect-users}
+# 讓Sales Connect使用者看到行銷活動 {#make-a-campaign-visible-to-sales-connect-users}
 
-促銷活動只有在可見時才能共用。 這是怎麼做的。
+行銷活動只有在顯示後才可共用。 以下說明該怎麼做。
 
-1. 選取（或建立）您要共用的促銷活動。
+1. 選取（或建立）您要共用的行銷活動。
 
    ![](assets/one.png)
 
@@ -22,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 新增「已請求促銷活動」觸發程式。
+1. 新增Campaign is Requested觸發程式。
 
    ![](assets/three.png)
 
@@ -34,18 +35,18 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 新增「有趣的時刻」流動動作。
+1. 新增「有趣的時刻流量」動作。
 
    ![](assets/six.png)
 
-1. 對於「類型」，請選擇 **Web**.
+1. 對於「型別」，選取 **Web**.
 
    ![](assets/seven.png)
 
-1. 在「說明」框中，向您的銷售團隊寫入消息。 在此範例中，我們使用代號來指定已填寫的表單。
+1. 在「說明」方塊中，寫訊息給您的銷售團隊。 在此範例中，我們使用Token來指定填寫的表單。
 
    ![](assets/eight.png)
 
-1. 按一下 **排程** 標籤和 **啟動** 促銷活動。
+1. 按一下 **排程** 標籤和 **啟動** 行銷活動。
 
    ![](assets/nine.png)

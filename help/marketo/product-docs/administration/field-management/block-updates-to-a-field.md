@@ -3,7 +3,8 @@ unique-page-id: 2360291
 description: 封鎖欄位更新 — Marketo檔案 — 產品檔案
 title: 封鎖欄位的更新
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%

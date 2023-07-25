@@ -1,18 +1,19 @@
 ---
 unique-page-id: 9437816
 description: 範本15A - Marketo檔案 — 產品檔案
-title: 模板15A
+title: 範本15A
 exl-id: 64aeaa61-cd39-487c-9ca5-9b2185dc04a3
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# 模板15A {#template-15a}
+# 範本15A {#template-15a}
 
-按一下右鍵以 [下載範本15A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)
+按一下滑鼠右鍵以 [下載範本15A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)
 
 ![](assets/image2015-8-13-13-3a58-3a55.png)
 
@@ -20,11 +21,11 @@ ht-degree: 0%
 
 * 主要區段
 
-   * 包含主表徵圖題和主圖影像
+   * 包括英雄標題和英雄影像
 
-* 5個內文部分（可選）
-* 頁尾（選用）
+* 五個內文區段（選擇性）
+* 頁尾（選擇性）
 
-**按一下右鍵以下載此模板：**
+**在下方按一下滑鼠右鍵以下載此範本：**
 
 [範本15A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)

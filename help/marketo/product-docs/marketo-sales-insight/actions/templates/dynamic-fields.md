@@ -2,7 +2,8 @@
 description: 動態欄位 — Marketo檔案 — 產品檔案
 title: 動態欄位
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
-source-git-commit: 6d4a093d0ce0158028177cc4a4088526ccf79f9d
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 2359811
 description: 選擇社交應用程式的共用URL - Marketo檔案 — 產品檔案
 title: 選擇社交應用程式的共用URL
 exl-id: 6a0b37b7-bca7-458a-9111-f0c717b18e2a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 選擇社交應用程式的共用URL {#choose-the-share-url-for-a-social-app}
 
-當您建立社交應用程式時，可以選擇要在來自參與者的貼文中共用哪個URL。
+建立社交應用程式時，您可以選擇要在參與者的貼文中共用URL。
 
 1. 前往 **行銷活動**.
 
@@ -26,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
-1. 選取社交貼文連結的URL。
+1. 選取社交貼文連結到的URL。
 
    ![](assets/image2015-4-21-11-3a15-3a26.png)
 
@@ -34,12 +35,11 @@ ht-degree: 0%
    >
    >**定義**
    >
-   >「分享貼文」可連結至三個位置：
+   >共用貼文可連結至三個位置：
    >
-   >* **反向連結頁面**:包含應用程式的頁面。
-   >* **其他登錄頁面**:與下拉式清單中的不同Marketo登陸頁面。
-   >* **外部URL**:非Marketo登陸頁面。
-
+   >* **引用頁面**：包含應用程式的頁面。
+   >* **其他登陸頁面**：與下拉式清單不同的Marketo登陸頁面。
+   >* **外部URL**：非Marketo登陸頁面。
 
 >[!MORELIKETHIS]
 >

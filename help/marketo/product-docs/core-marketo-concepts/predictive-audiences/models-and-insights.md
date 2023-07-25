@@ -2,29 +2,30 @@
 description: 模型與深入分析 — Marketo檔案 — 產品檔案
 title: 模型與深入分析
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
-source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
+feature: Predictive Audiences
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
 # 模型與深入分析 {#models-and-insights}
 
-模型的效能取決於輸入資料的品質和完整性。 查看每個可能性AI模型的最大影響因素。 另請見導致事件註冊次數增加/減少、事件出席率或取消訂閱率的上層因素。
+模型的效能取決於輸入資料的品質和完整性。 檢視每個可能性AI模型的最大影響因素。 另請參閱造成高/低事件報名、事件出席率或取消訂閱次數的主要因素。
 
 >[!NOTE]
 >
->以(+)標示的行為對預測有積極影響（反之亦然）。
+>以(+)標籤的行為會對預測產生正面影響（反之亦然）。
 
-下面是如何評估模型健康度。
+以下說明如何評估您的模型健康情況。
 
-導覽至 **[!UICONTROL 模型與資料健康度]** 一節 **[!UICONTROL 預測對象]** 在 **[!UICONTROL 管理]** Marketo Engage。 在此，您會看到所有模型及其狀態。
+導覽至 **[!UICONTROL 模型與資料健康狀態]** 區段在 **[!UICONTROL 預測對象]** 在 **[!UICONTROL 管理員]** Marketo Engage區域。 您將會在這裡看到您的所有模型及其狀態。
 
-![影像一](assets/models-and-insights-1.png)
+![影像1](assets/models-and-insights-1.png)
 
-* **培訓狀態**:指出您的模型是否在主動訓練（改善預測）。 每2週自動進行一次培訓。 任何 _處理_ 可能需要24小時才能完成。 適用於任何 _失敗_ 型號，請聯繫 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}。
-* **計分狀態**:指出您的模型是否主動計算方案成員的預測（可能性百分比）。
-* **效能**：根據資料完整性和資料品質來分類模型健全狀態（請參閱下方）。
-* **資料完整性**:存在/完成的資料屬性百分比。
-* **資料品質**:包含良好、可用資料的屬性百分比。
+* **訓練狀態**：指出您的模型是否正在積極訓練（改善預測）。 每2週自動進行訓練。 符合以下條件的任何模型： _處理中_ 最多可能需要24小時才能完成。 針對任何 _已失敗_ 型號，請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+* **評分狀態**：指出您的模型是否正在主動計算方案成員的預測（可能性百分比）。
+* **效能**：根據資料完整性和資料品質將模型健康情況分類（請參閱下文）。
+* **資料完整性**：存在/完成的資料屬性百分比。
+* **資料品質**：包含良好、可用資料的屬性百分比。

@@ -1,66 +1,67 @@
 ---
 description: 報表概述 — Marketo檔案 — 產品檔案
-title: 報表概述
+title: 報表概觀
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
-# 報表概述 {#reporting-overview}
+# 報表概觀 {#reporting-overview}
 
-Marketo針對不同需求提供各種報表模組。
+Marketo提供各種報表模組來滿足不同需求。
 
-## 基本報表 {#basic-reporting}
+## 基本報告 {#basic-reporting}
 
-您可以設定 [基本報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} 或Analytics區域中。 基本報表由不同類型的現成報表組成，可彈性地篩選、排序和調整時間範圍。
+您可以設定 [基本報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} 在程式內或Analytics區域中。 基本報表由不同型別的現成報表組成，可靈活地篩選、排序和調整時間跨度。
 
-## 電子郵件分析 {#email-insights}
+## 電子郵件深入分析 {#email-insights}
 
-使用Analytics和傳送來取得 [強大的洞察力](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} 在來自歷史資料的電子郵件上。
+使用Analytics和傳送來取得 [強大的深入分析](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} 來自歷史資料的電子郵件上。
 
-## 績效分析 {#performance-insights}
+## 效能分析 {#performance-insights}
 
-[績效分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} 涵蓋參與、管道和產生收入的管道效能和方案效能。
+[效能分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} 涵蓋參與、管道和收入產生的管道績效和方案績效。
 
-## 進階BI分析報表 {#advanced-bi-analytics-reporting}
+## 進階BI Analytics報表 {#advanced-bi-analytics-reporting}
 
-_(先前稱為Revenue Cycle Explorer/AdvancedReport Builder)_
+_(先前稱為「收入週期總管/進階Report Builder」)_
 
 >[!AVAILABILITY]
 >
->並非所有人都購買過進階BI Analytics和進階Journey Analytics模組。 請連絡Adobe帳戶團隊（您的客戶經理）以取得詳細資訊。
+>並非每個人都購買了進階BI Analytics和進階歷程分析模組。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-追蹤行銷計畫的投資報酬率。 分析電子郵件、人員、計畫、機會、模型效能分析（公司）和模型效能分析（銷售機會）。 BI Explorer可讓您在分析區域內建立自訂報表，並使用您的資料建立圖形、圖表、樞紐和控制面板。
+追蹤行銷方案的ROI。 分析電子郵件、人員、方案、機會、模型效能分析（公司）和模型效能分析（銷售機會）。 BI Explorer可讓您在分析區域中建立自訂報表，並使用您的資料建立圖形、圖表、樞紐分析圖和儀表板。
 
-部分進階BI Analytics報表優點包括：
+某些進階BI Analytics報表優點包括：
 
-* 歸因行銷對機會、收入和計畫成功的影響
+* 行銷影響力對機會、收入和方案成功的歸因
 
-* 計畫投資回報分析
+* 計畫的投資報酬率分析
 
-* 分析電子郵件量度 — 傳送/開啟/點按時間分佈、熱格、點按/開啟率耗損圖
+* 電子郵件量度分析 — 傳送/開啟/點按時間分佈、熱網、點按/開啟率衰減圖
 
-* 銷售機會分析 — 根據不同維度分析銷售機會分佈
+* 銷售機會分析 — 根據不同的維度分析銷售機會分佈
 
-* 模型效能分析器（公司和銷售線索級別） — 了解銷售線索的流量和速度
+* 模型效能分析器（公司和潛在客戶層級） — 瞭解潛在客戶的流程和速度
 
-* 建立自訂報表以分析分片資料的趨勢
+* 建立趨勢分析切片資料的自訂報表
 
-* 圖形形式、熱圖和分佈曲線的可視化
+* 以圖形形式、熱度圖和分佈曲線呈現視覺效果
 
-## 進階Journey Analytics {#advanced-journey-analytics}
+## Advanced Journey Analytics {#advanced-journey-analytics}
 
-收入週期模型：為您整個收入漏斗的所有階段建立模型，以及它們在這些階段之間的轉換方式，從您第一次與銷售機會進行整個互動，直到銷售機會成為贏得的客戶。
+收入週期模型：模擬整個收入漏斗的所有階段，以及這些階段之間如何轉換，從您第一次與潛在客戶互動一直到潛在客戶成功為止。
 
-成功路徑分析器：取得收入週期模型中速度和流量的視覺表示法。 成功路徑分析器需要您建立收入週期模型。
+Success Path Analyzer：取得收入週期模型中速度和流量的視覺化表示法。 Success Path Analyzer需要您建立收入週期模型。
 
-程式分析器：快速確定是否成功的程式，並適當集中您的資源。 使用程式分析器來仔細檢查和比較每個成本和按程式或通道的詳細回報。
+計劃分析器：快速識別成功或不成功的計畫，並適當地集中您的資源。 使用方案分析器可依方案或管道詳細審查和比較每項成本與回報。
 
-Opportunity Influce Analyzer:衡量產生商機的方案和重要參與的影響，以證明行銷的貢獻。
+Opportunity Influence Analyzer ：透過測量計畫的影響和帶來機會的關鍵參與，以證明行銷的貢獻。
 
 >[!NOTE]
 >
->具有進階BI Analytics報表的模型效能分析（公司）和模型效能分析（銷售機會）取決於在進階Journey Analytics產品中建立的收入週期模型。
+>模型績效分析（公司）和模型績效分析（銷售機會）與進階BI Analytics報告取決於在Advanced Journey Analytics產品中建立的收入週期模型。

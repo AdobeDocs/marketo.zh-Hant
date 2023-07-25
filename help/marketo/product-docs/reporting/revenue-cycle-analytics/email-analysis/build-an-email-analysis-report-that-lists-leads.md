@@ -1,65 +1,66 @@
 ---
 unique-page-id: 2360407
-description: 建立列出銷售機會的電子郵件分析報表 — Marketo檔案 — 產品檔案
-title: 建立列出銷售機會的電子郵件分析報表
+description: 建立列出潛在客戶的電子郵件分析報告 — Marketo檔案 — 產品檔案
+title: 建立列出潛在客戶的電子郵件分析報告
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
-# 建立列出銷售機會的電子郵件分析報表 {#build-an-email-analysis-report-that-lists-leads}
+# 建立列出潛在客戶的電子郵件分析報告 {#build-an-email-analysis-report-that-lists-leads}
 
-請依照下列步驟建立電子郵件分析報表，該報表會顯示已傳送特定電子郵件的每個銷售機會，此報表也包含點按和開啟統計資料。
+請依照下列步驟建立電子郵件分析報告，顯示傳送特定電子郵件的每個銷售機會，此報表也將包含點按和開啟統計資料。
 
 >[!AVAILABILITY]
 >
->並非所有人都購買過此功能。 如需詳細資訊，請聯絡Adobe帳戶團隊（您的客戶經理）。
+>並非每個人都購買了此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 >[!NOTE]
 >
->支援電子郵件分析RCA的資料引擎會忽略每人超過12次點按（如果點按來自相同的電子郵件和促銷活動）。 將「電子郵件分析」報表與標準Marketo Analytics報表進行比較時，請考量這一點。
+>支援Email Analysis RCA的資料引擎會忽略每人超過12次點按（如果來自相同的電子郵件和促銷活動）。 比較Email Analysis報表與標準Marketo Analytics報表時，請考量這一點。
 
 1. Launch **收入總管**.
 
    ![](assets/report-that-lists-leads-1.png)
 
-1. 按一下 **新建** then **報表**.
+1. 按一下 **新建** 則 **報告**.
 
    ![](assets/report-that-lists-leads-2.png)
 
-1. 選取「電子郵件分析」 ，然後按一下 **確定**.
+1. 選取電子郵件分析並按一下 **確定**.
 
    ![](assets/report-that-lists-leads-3.png)
 
-1. 找到「電子郵件名稱」黃色圓點，按一下右鍵並選擇 **篩選**.
+1. 找到電子郵件名稱黃色圓點，用滑鼠右鍵按一下並選取 **篩選**.
 
    ![](assets/report-that-lists-leads-4.png)
 
-1. 連按兩下清單中您選擇的電子郵件，然後按一下 **確定**.
+1. 在清單中連按兩下您選擇的電子郵件，然後按一下 **確定**.
 
    ![](assets/report-that-lists-leads-5.png)
 
-1. 拖曳 **電子郵件名稱** 黃點到 **欄**.
+1. 拖曳 **電子郵件名稱** 黃色圓點至 **欄**.
 
    ![](assets/report-that-lists-leads-6.png)
 
    >[!TIP]
    >
-   >您可以新增許多銷售機會/公司屬性作為欄，請核取！
+   >您可以新增許多銷售機會/公司屬性作為欄，將它們出庫！
 
-1. 尋找 **完整名稱** 黃色圓點拖曳至 **列**.
+1. 尋找 **全名** 黃色圓點，並將其拖曳至 **列**.
 
    ![](assets/report-that-lists-leads-7.png)
 
-1. 現在新增 **措施** 按兩下它們，您就會感興趣。
+1. 現在新增 **測量** 連按兩下即可產生興趣。
 
    ![](assets/report-that-lists-leads-8.png)
 
 >[!NOTE]
 >
->根據您擁有此報表的資料量，重新整理可能需要一段時間。
+>根據您擁有此報告的資料量，重新整理可能需要一點時間。
 
 任務完成！

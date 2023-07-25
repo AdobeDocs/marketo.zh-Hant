@@ -1,83 +1,84 @@
 ---
-description: 與Salesforce同步的提醒任務 — Marketo檔案 — 產品檔案
-title: 與Salesforce的提醒任務同步
+description: 提醒任務與Salesforce同步 — Marketo檔案 — 產品檔案
+title: 提醒任務與Salesforce同步
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
 
 ---
 
-# 與Salesforce的提醒任務同步 {#reminder-task-sync-with-salesforce}
+# 提醒任務與Salesforce同步 {#reminder-task-sync-with-salesforce}
 
 >[!NOTE]
 >
->了解如何啟用任務同步簽出 [將銷售連接任務/提醒同步到Salesforce任務](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks).
+>若要瞭解如何啟用Task Sync簽出 [將Sales Connect工作/提醒同步至Salesforce工作](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks).
 
-啟用任務同步設定後，用戶將看到其提醒任務與Salesforce雙向同步。 這意味著用戶可以從Salesforce或Sales Connect中管理任務，並確信系統將保持一致。
+啟用任務同步設定後，使用者將看到他們的提醒任務與Salesforce雙向同步。 這表示使用者可以從Salesforce或Sales Connect管理工作，並確信系統將會保持一致。
 
-## 提醒任務欄位同步 {#reminder-task-field-sync}
+## 提醒工作列位同步 {#reminder-task-field-sync}
 
 ![](assets/reminder-task-sync-with-salesforce-1.png)
 
-下面是Sales Connect中的提醒任務欄位及其對應的Salesforce欄位的清單，這些欄位通過雙向任務同步受支援。
+以下是Sales Connect中的提醒工作欄位清單，以及透過雙向工作同步支援的對應Salesforce欄位。
 
 <table>
  <tr>
-  <th>銷售連接任務欄位</th>
-  <th>Salesforce任務欄位</th>
-  <th>Salesforce任務</th>
+  <th>Sales Connect工作欄位</th>
+  <th>Salesforce工作列位</th>
+  <th>Salesforce工作</th>
  </tr>
  <tr>
   <td>任務名稱</td>
-  <td>主旨欄位</td>
-  <td>一個短摘要欄位，用於顯示任務的標題。</td>
+  <td>主題欄位</td>
+  <td>旨在顯示任務標題的簡短摘要欄位。</td>
  </tr>
  <tr>
   <td>狀態</td>
   <td>任務狀態</td>
-  <td><p>顯示任務的狀態。 Sales Connect任務有兩種狀態，它們對應到Salesforce任務狀態選擇清單中的兩個值。</p>
-  <p>在Sales Connect中開啟= Salesforce中未啟動。</p>
+  <td><p>顯示工作的狀態。 Sales Connect工作有兩個狀態，對應至Salesforce工作狀態選擇清單中的兩個值。</p>
+  <p>在Sales Connect中開啟=未在Salesforce中啟動。</p>
   <p>在Sales Connect中完成=在Salesforce中完成。</p>
-  <p>Salesforce中的其他狀態值將不同步到Sales Connect。</p></td>
+  <p>Salesforce中的其他狀態值將不會同步至Sales Connect。</p></td>
  </tr>
  <tr>
   <td>優先順序</td>
   <td>優先順序</td>
-  <td><p>Sales Connect優先順序可以是「正常」或「高」，它映射到Salesforce中的「正常」和「高」優先順序值。</p>
-  <p>Salesforce中的低優先順序值將不同步到Sales Connect。</p></td>
+  <td><p>Sales Connect優先順序可以是「一般」或「高」，對應到Salesforce中的「一般」和「高」優先順序值。</p>
+  <p>Salesforce中的低優先順序值將不會同步至Sales Connect。</p></td>
  </tr>
  <tr>
-  <td>到期日</td>
-  <td>到期日</td>
-  <td>任務到期的日期。</td>
+  <td>到期日期</td>
+  <td>到期日期</td>
+  <td>任務的到期日。</td>
  </tr>
  <tr>
   <td>詳細資料</td>
   <td>註解</td>
-  <td>顯示有關預定要使用提醒任務完成的內容的詳細資訊。</td>
+  <td>顯示有關應完成提醒工作的更多詳細資訊。</td>
  </tr>
 </table>
 
-## 首次將銷售連接任務與Salesforce同步 {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
+## 首次將Sales Connect工作與Salesforce同步 {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-當您首次開啟Sales Connect和Salesforce任務之間的同步時，我們將導入您的Salesforce任務。 我們會 **not** 將Sales Connect中的任何當前任務推送到Salesforce。 為了減少雜亂和重複，從Sales Connect同步到Salesforce的任務只有建立的任務 *after* 您將Sales Connect與SFDC同步。
+當您首次開啟Sales Connect與Salesforce工作之間的同步時，我們會匯入您的Salesforce工作。 我們會 **not** 將您在Sales Connect中擁有的任何目前任務移至Salesforce。 為了減少雜湊和重複專案，從Sales Connect同步至Salesforce的唯一工作是已建立的工作 *晚於* 您將Sales Connect與SFDC同步。
 
-以下是同步Sales Connect和SFDC任務時會發生的情況：
+以下是同步處理Sales Connect與SFDC工作時的情形：
 
-* 當您按一下「儲存」時，即會開始同步工作。 這需要一些時間。
+* 當您在任務同步處理上按一下「儲存」時，它們就會開始進行同步處理。 這最初需要一些時間。
 
-* 在過去24小時內更新或建立的任何提醒都將從SFDC提取到Sales Connect。 同步基於到期日，所有這些任務都將在後端同步，但在命令中心，您將只看到今天和明天的任務。
+* 過去24小時內已更新或建立的任何提醒都會從SFDC提取至Sales Connect。 同步是根據到期日，所有這些工作都會在後端進行同步，但在指揮中心，您只會看到今天和明天的到期工作。
 
-* 如果以前已開啟同步，而您刪除了SFDC中的任何任務，則在過去15天中被刪除的任何任務都將從命令中心中刪除。
+* 如果先前已開啟同步處理，而您刪除了SFDC中的任何工作，則過去15天內刪除的任何工作都將從指揮中心刪除。
 
-* 只要啟用同步，我們就會在Sales Connect和SFDC之間不斷同步任務。
+* 只要同步功能已啟用，我們就會持續在Sales Connect和SFDC之間同步處理工作。
 
-初始同步後，您在Sales Connect中建立、編輯、完成或刪除的任何任務都將同步到Salesforce中的任務清單。 而任何在Salesforce中建立、編輯、完成或刪除的內容都將在Sales Connect中更新您的任務清單。
+初次同步之後，您在Sales Connect中建立、編輯、完成或刪除的任何工作都會同步至您在Salesforce中的工作清單。 在Salesforce中建立、編輯、完成或刪除的任何專案，都會在Sales Connect中更新您的任務清單。
 
-若要開啟此同步，只要勾選 [設定頁面](https://toutapp.com/login) 在web應用程式中。
+若要開啟此同步功能，只要勾選您電腦中的同步方塊即可 [設定頁面](https://toutapp.com/login) 在網頁應用程式中。
 
 >[!NOTE]
 >
->任務的主題欄位可在Sales Connect中更新，並且該更新將在Salesforce主題欄位中同步，以用於相應的同步任務(如果您使用 `{{activity_subject}}` 您的 [活動詳細資訊自訂](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) 設定。 反之，對Salesforce中的主題欄位所做的任何更新都將 _not_ 同步到Sales Connect提醒任務主題欄位。
+>任務的主旨欄位可以在Sales Connect中更新，而且如果您使用，則該更新將會同步到對應同步任務的Salesforce主旨欄位中 `{{activity_subject}}` 您的中的動態欄位 [活動詳細資料自訂](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) 設定。 反之，Salesforce中主旨欄位的任何更新都將 _not_ 同步至Sales Connect提醒工作主旨欄位。

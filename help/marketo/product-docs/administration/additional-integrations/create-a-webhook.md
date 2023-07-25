@@ -3,7 +3,8 @@ unique-page-id: 2360360
 description: 建立 [!DNL Webhook] - Marketo檔案 — 產品檔案
 title: 建立 [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
+feature: Administration, Webhooks
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%

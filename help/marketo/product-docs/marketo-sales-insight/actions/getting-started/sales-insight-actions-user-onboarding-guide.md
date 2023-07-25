@@ -2,7 +2,8 @@
 description: Sales Insight Actions使用者入門指南 — Marketo檔案 — 產品檔案
 title: Sales Insight Actions使用者入門指南
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -19,7 +20,6 @@ ht-degree: 0%
 >
 >* 管理員需要邀請使用者開始使用MSI-Actions。
 >* 若要透過Salesforce啟用您的帳戶，您需要在Salesforce設定檔許可權中啟用API。
-
 
 新使用者需要遵循以下步驟。
 

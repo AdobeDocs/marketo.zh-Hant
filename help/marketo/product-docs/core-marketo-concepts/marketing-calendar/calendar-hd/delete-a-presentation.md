@@ -3,7 +3,8 @@ unique-page-id: 7504060
 description: 刪除簡報 — Marketo檔案 — 產品檔案
 title: 刪除簡報
 exl-id: 027d6d68-c2b6-4424-bc69-77d047d62359
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%

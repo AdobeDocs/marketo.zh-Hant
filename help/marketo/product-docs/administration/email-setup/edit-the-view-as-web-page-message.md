@@ -3,7 +3,8 @@ unique-page-id: 2360253
 description: 編輯「以網頁檢視」訊息 — Marketo檔案 — 產品檔案
 title: 編輯「以網頁檢視」訊息
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -46,7 +47,6 @@ ht-degree: 0%
 >
 >* 新增其他URL至任一HTML方塊
 >* 將HTML放在文字版本中
-
 
 給你。 傳送測試電子郵件以確保格式化。
 

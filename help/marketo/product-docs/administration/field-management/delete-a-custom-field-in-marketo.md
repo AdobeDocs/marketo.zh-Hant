@@ -3,7 +3,8 @@ unique-page-id: 2360339
 description: 刪除Marketo中的自訂欄位 — Marketo檔案 — 產品檔案
 title: 刪除Marketo中的自訂欄位
 exl-id: 35829827-6e3c-4120-b57f-4fd68a7d4739
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%

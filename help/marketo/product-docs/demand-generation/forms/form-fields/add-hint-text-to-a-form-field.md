@@ -1,26 +1,27 @@
 ---
 unique-page-id: 2359671
-description: 將提示文字新增至表單欄位 — Marketo檔案 — 產品檔案
-title: 向表單欄位新增提示文字
+description: 新增提示文字至表單欄位 — Marketo檔案 — 產品檔案
+title: 新增提示文字至表單欄位
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
-# 向表單欄位新增提示文字 {#add-hint-text-to-a-form-field}
+# 新增提示文字至表單欄位 {#add-hint-text-to-a-form-field}
 
-提示和 [說明](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) 幫助人們填寫表格。 下面是如何添加提示。
+提示和 [指示](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) 協助人員填寫表格。 以下說明如何新增提示。
 
 >[!NOTE]
 >
 >**定義**
 >
->表單 **提示** 是欄位內的文字，當訪客開始在欄位中輸入時會消失。
+>表單 **提示** 是欄位中的文字，當訪客開始在欄位中輸入時就會消失。
 >
->表單 **說明** 是訪客暫留在欄位上時顯示的小工具提示。
+>表單 **指示** 是訪客將游標停留在欄位上時顯示的工具提示。
 
 1. 前往 **行銷活動**.
 
@@ -44,8 +45,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >別忘了 [核准登錄頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 由表單建立時變更。
+   >別忘了 [核准登入頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 由表單變更所建立。
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-看看！ 讓我們繼續添加一些 [說明](add-tooltip-instructions-to-a-form-field.md) 現在。
+立即檢視！ 讓我們繼續並新增一些 [指示](add-tooltip-instructions-to-a-form-field.md) 立即。

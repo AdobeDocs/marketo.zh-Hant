@@ -3,7 +3,8 @@ unique-page-id: 2359873
 description: 刪除上傳的影像或檔案 — Marketo檔案 — 產品檔案
 title: 刪除上傳的影像或檔案
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Image Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -16,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/designstudio-5.png)
 
-1. 選擇 **影像和檔案** 在左側功能表中，按一下您要刪除之檔案名稱旁的。
+1. 選取 **影像和檔案** 在左側功能表中，然後按一下您要刪除之檔案名稱旁的。
 
    ![](assets/image2014-9-16-11-3a18-3a15.png)
 
@@ -30,17 +31,16 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >已刪除的影像和檔案會從Marketo中完全移除，且無法復原。  這些標籤將不再顯示於使用中的任何登陸頁面或電子郵件上。
+   >已刪除的影像和檔案會從Marketo中完全移除，且無法復原。  這些變數將不再顯示在使用的任何登陸頁面或電子郵件中。
 
-1. 您將會返回 **影像** 和 **檔案** 頁面，您會看到您的檔案已刪除。
+1. 您將會返回 **影像** 和 **檔案** 頁面，您會看到檔案已刪除。
 
    ![](assets/image2014-9-16-11-3a19-3a0.png)
 
-幹得好！
+幹得漂亮！
 
 >[!MORELIKETHIS]
 >
->* [替換已上載的影像或檔案](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>* [取代上傳的影像或檔案](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
 >* [搜尋上傳的影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
 >* [尋找已上傳影像或檔案的URL](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
-

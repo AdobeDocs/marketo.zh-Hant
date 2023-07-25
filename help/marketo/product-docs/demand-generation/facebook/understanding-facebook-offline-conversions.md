@@ -1,45 +1,46 @@
 ---
 unique-page-id: 11383945
-description: 了解Facebook離線轉換 — Marketo檔案 — 產品檔案
-title: 了解Facebook離線轉換
+description: 瞭解Facebook離線轉換 — Marketo檔案 — 產品檔案
+title: 瞭解Facebook離線轉換
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
-# 了解Facebook離線轉換 {#understanding-facebook-offline-conversions}
+# 瞭解Facebook離線轉換 {#understanding-facebook-offline-conversions}
 
-Facebook Lead Ads促銷活動會產生銷售機會，並將其傳送至Marketo以用於行銷活動。 不過，若無法顯示離線轉換，Facebook廣告商將無法知道哪些廣告最有效。 舉個例子。
+facebook銷售機會廣告行銷活動會產生銷售機會，並將其傳送至Marketo，以用於行銷活動。 但是，如果沒有離線轉換的可見度，Facebook廣告商就無法知道哪些廣告最有效。 範例如下。
 
 >[!NOTE]
 >
 >**範例**
 >
->Facebook Lead Ads會執行三個廣告。
+>facebook Lead Ads執行三個廣告。
 >
 >* 廣告1產生20個銷售機會
->* 廣告2產生30個銷售線索
->* 廣告3產生50個銷售線索
+>* 廣告2產生30個銷售機會
+>* 廣告3產生50個銷售機會
 >
->僅從這些資料來看，第3條似乎最有效。
+>僅從這些數字來看，廣告3似乎最有效。
 >
->然而，當查看Marketo端的資料時，會發生不同的情況。
+>不過，在Marketo端檢視資料時，會出現不同的案例。
 >
 >* 廣告1產生10個銷售
 >* 廣告3產生2個銷售
 >
->這意味著，儘管創造的線索較少，但廣告1的成功率只有50%，而廣告3則幾乎毫無效果。
+>這表示廣告1雖然產生的銷售機會較少，但成功率為50%，而廣告3則幾乎完全無效。
 >
->若無離線轉換，廣告商可能會在廣告3上投入更多資金。 有了離線轉換資料，廣告商更可能投資於廣告1。
+>如果沒有離線轉換，廣告商可能會將更多資金投資於廣告3。 有了離線轉換資料，廣告商將更有可能投資於廣告1。
 
-您可以 [設定Facebook離線轉換](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) 將離線廣告效能傳送至Facebook。
+您可以 [設定Facebook離線轉換](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) 傳送離線廣告效能至Facebook。
 
-1. 請確定您的 [Facebook LaunchPoint整合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 為最新。
+1. 確定您的 [facebook LaunchPoint整合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 為最新狀態。
 1. 將收入週期模型中的階段對應至Facebook上的離線轉換階段。
-1. 當Facebook Lead從Facebook Lead產生並達到對應階段時，Marketo會透過安全的自動化API每天將離線轉換資料傳回Facebook數次。 資料會顯示在Facebook廣告管理員報表中。
+1. 當Facebook銷售機會從Facebook銷售機會廣告產生並到達對應的階段時，Marketo會透過安全且自動化的API，每天多次將離線轉換資料傳送回Facebook。 資料會顯示在「Facebook廣告管理員報表」中。
 
 >[!MORELIKETHIS]
 >

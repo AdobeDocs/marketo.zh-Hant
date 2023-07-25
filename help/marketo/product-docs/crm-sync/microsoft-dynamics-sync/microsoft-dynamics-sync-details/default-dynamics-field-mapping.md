@@ -1,19 +1,20 @@
 ---
-description: 預設Dynamics欄位對應 — Marketo檔案 — 產品檔案
-title: 預設動態欄位映射
+description: 預設動態欄位對應 — Marketo檔案 — 產品檔案
+title: 預設動態欄位對應
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
-source-git-commit: d87809e12f153d025f8d013ea52e06c0b6530154
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '829'
-ht-degree: 17%
+ht-degree: 18%
 
 ---
 
-# 預設動態欄位映射 {#default-dynamics-field-mapping}
+# 預設動態欄位對應 {#default-dynamics-field-mapping}
 
-當您初次將Marketo帳戶與Microsoft同步時，Marketo會自動在內建的Dynamics和Marketo欄位之間建立這些關聯。  Marketo還將同步您的Lead、Accounts、Opportunity和Contacts上的自定義欄位。
+當您初次將Marketo帳戶與Microsoft同步時，Marketo會自動在內建的Dynamics和Marketo欄位之間建立這些關聯。  Marketo也會同步處理潛在客戶、帳戶、商機和聯絡人上的自訂欄位。
 
-## 銷售機會欄位 {#lead-fields}
+## 潛在客戶欄位 {#lead-fields}
 
 <table>
   <colgroup>
@@ -28,29 +29,29 @@ ht-degree: 17%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>Microsoft建立日期</td>
+      <td>Microsoft 建立日期</td>
       <td>建立日期</td>
       <td>createdon</td>
     </tr>
     <tr>
       <td>問候語</td>
       <td>問候語</td>
-      <td>稱呼</td>
+      <td>致敬</td>
     </tr>
     <tr>
       <td>第一個</td>
       <td>名字</td>
-      <td>名字</td>
+      <td>firstname</td>
     </tr>
     <tr>
       <td>中間</td>
       <td>中間名</td>
-      <td>米德倫</td>
+      <td>middlename</td>
     </tr>
     <tr>
       <td>上次</td>
       <td>姓氏</td>
-      <td>lastname</td>
+      <td>姓氏</td>
     </tr>
     <tr>
       <td>電子郵件</td>
@@ -60,7 +61,7 @@ ht-degree: 17%
     <tr>
       <td>職稱</td>
       <td>職稱</td>
-      <td>jobtitle</td>
+      <td>工作標題</td>
     </tr>
     <tr>
       <td>電話</td>
@@ -70,7 +71,7 @@ ht-degree: 17%
     <tr>
       <td>行動</td>
       <td>行動電話</td>
-      <td>mobilephone</td>
+      <td>行動電話</td>
     </tr>
     <tr>
       <td>傳真</td>
@@ -79,18 +80,18 @@ ht-degree: 17%
     </tr>
     <tr>
       <td>地址</td>
-      <td>1街</td>
+      <td>街道1</td>
       <td>address1_line1</td>
     </tr>
     <tr>
       <td>城市</td>
       <td>城市</td>
-      <td>address1_city</td>
+      <td>地址1_city</td>
     </tr>
     <tr>
       <td>州別</td>
       <td>州/省</td>
-      <td>address1_stateor省</td>
+      <td>address1_stateorprovince</td>
     </tr>
     <tr>
       <td>國家</td>
@@ -103,74 +104,74 @@ ht-degree: 17%
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>人員來源</td>
+      <td>個人來源</td>
       <td>銷售機會來源</td>
-      <td>引線原始碼</td>
+      <td>leadsourcecode</td>
     </tr>
     <tr>
-      <td>人員狀態</td>
+      <td>個人狀態</td>
       <td>狀態</td>
       <td>statecode</td>
     </tr>
     <tr>
       <td>狀態原因</td>
       <td>狀態原因</td>
-      <td>statuscode</td>
+      <td>狀態代碼</td>
     </tr>
     <tr>
-      <td>人員附註</td>
+      <td>個人附註</td>
       <td>說明</td>
       <td>說明</td>
     </tr>
     <tr>
       <td>請勿來電</td>
-      <td>不允許電話呼叫</td>
+      <td>不允許通話</td>
       <td>donotphone</td>
     </tr>
     <tr>
       <td>退訂</td>
-      <td>不批量電子郵件</td>
-      <td>donobulkemail</td>
+      <td>不要大量電子郵件</td>
+      <td>donotbulkemail</td>
     </tr>
     <tr>
-      <td>人員評等</td>
+      <td>個人評等</td>
       <td>評等</td>
-      <td>領導質量代碼</td>
+      <td>leadqualitycode</td>
     </tr>
     <tr>
       <td>Microsoft地址2</td>
-      <td>2街</td>
+      <td>街道2</td>
       <td>address1_line2</td>
     </tr>
     <tr>
       <td>Microsoft地址3</td>
-      <td>3街</td>
+      <td>街道3</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft不傳送電子郵件</td>
+      <td>Microsoft不要傳送電子郵件</td>
       <td>不允許電子郵件</td>
-      <td>donomail</td>
+      <td>donotemail</td>
     </tr>
     <tr>
       <td>Microsoft不傳真</td>
       <td>不允許傳真</td>
-      <td>多諾特法克斯</td>
+      <td>donotfax</td>
     </tr>
     <tr>
       <td>Microsoft不傳送行銷資料</td>
-      <td>行銷資料</td>
-      <td>多諾森姆</td>
+      <td>行銷材料</td>
+      <td>donotsendmm</td>
     </tr>
     <tr>
       <td>Microsoft家庭電話</td>
-      <td>家庭電話</td>
+      <td>住家電話</td>
       <td>telephone2</td>
     </tr>
     <tr>
-      <td>Microsoft偏好的聯絡方法</td>
-      <td>首選聯繫方法</td>
-      <td>preferrecontactmethodcode</td>
+      <td>Microsoft慣用的聯絡方式</td>
+      <td>偏好的聯絡方式</td>
+      <td>preferredcontactmethodcode</td>
     </tr>
     <tr>
       <td>Microsoft主題</td>
@@ -178,29 +179,29 @@ ht-degree: 17%
       <td>主旨</td>
     </tr>
     <tr>
-      <td>最後一個有趣的時刻</td>
-      <td>最後一個有趣的時刻</td>
-      <td>mkt_lastinteringmomentdate</td>
+      <td>上一個有趣時刻日期</td>
+      <td>上一個有趣時刻日期</td>
+      <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
-      <td>最後一個有趣的時刻desc</td>
-      <td>最後一個有趣的時刻desc</td>
-      <td>mkt_lastinteringmomentdesc</td>
+      <td>上一個有趣時刻說明</td>
+      <td>上一個有趣時刻說明</td>
+      <td>mkt_lastinterestingmomentdesc</td>
     </tr>
     <tr>
-      <td>最後一個有趣的時刻來源</td>
-      <td>最後一個有趣的時刻來源</td>
-      <td>mkt_leadinteringmomentsource</td>
+      <td>上一個有趣時刻來源</td>
+      <td>上一個有趣時刻來源</td>
+      <td>mkt_leadinterestingmomentsource</td>
     </tr>
     <tr>
-      <td>最後一個有趣的瞬間類型</td>
-      <td>最後一個有趣的瞬間類型</td>
-      <td>mkt_lastinteringmomenttype</td>
+      <td>上一個有趣時刻型別</td>
+      <td>上一個有趣時刻型別</td>
+      <td>mkt_lastinterestingmomenttype</td>
     </tr>
     <tr>
       <td>公司</td>
       <td>公司名稱</td>
-      <td>公司名稱</td>
+      <td>companyname</td>
     </tr>
     <tr>
       <td>相對分數</td>
@@ -213,8 +214,8 @@ ht-degree: 17%
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>相對緊急</td>
-      <td>緊急</td>
+      <td>相對急迫性</td>
+      <td>急迫性</td>
       <td>mkt_urgency</td>
     </tr>
     <tr>
@@ -230,7 +231,7 @@ ht-degree: 17%
   </tbody>
 </table>
 
-系統會同步下列「銷售機會」欄位以供內部使用。
+以下Lead欄位會同步以供內部使用。
 
 <table>
   <colgroup>
@@ -247,7 +248,7 @@ ht-degree: 17%
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>建立於</td>
+      <td>建立日期</td>
       <td>createdon</td>
     </tr>
   </tbody>
@@ -268,29 +269,29 @@ ht-degree: 17%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>Microsoft建立日期</td>
+      <td>Microsoft 建立日期</td>
       <td>建立日期</td>
       <td>createdon</td>
     </tr>
     <tr>
       <td>問候語</td>
       <td>問候語</td>
-      <td>稱呼</td>
+      <td>致敬</td>
     </tr>
     <tr>
       <td>第一個</td>
       <td>名字</td>
-      <td>名字</td>
+      <td>firstname</td>
     </tr>
     <tr>
       <td>中間</td>
       <td>中間名</td>
-      <td>米德倫</td>
+      <td>middlename</td>
     </tr>
     <tr>
       <td>上次</td>
       <td>姓氏</td>
-      <td>lastname</td>
+      <td>姓氏</td>
     </tr>
     <tr>
       <td>電子郵件</td>
@@ -300,7 +301,7 @@ ht-degree: 17%
     <tr>
       <td>職稱</td>
       <td>職稱</td>
-      <td>jobtitle</td>
+      <td>工作標題</td>
     </tr>
     <tr>
       <td>電話</td>
@@ -310,107 +311,107 @@ ht-degree: 17%
     <tr>
       <td>行動</td>
       <td>行動電話</td>
-      <td>mobilephone</td>
+      <td>行動電話</td>
     </tr>
     <tr>
       <td>地址</td>
-      <td>地址1:1街</td>
+      <td>地址1：街道1</td>
       <td>address1_line1</td>
     </tr>
     <tr>
       <td>城市</td>
-      <td>地址1:城市</td>
-      <td>address1_city</td>
+      <td>地址1：城市</td>
+      <td>地址1_city</td>
     </tr>
     <tr>
       <td>州別</td>
-      <td>地址1:州/省</td>
-      <td>address1_stateor省</td>
+      <td>地址1：州/省</td>
+      <td>address1_stateorprovince</td>
     </tr>
     <tr>
       <td>國家</td>
-      <td>地址1:國家/地區</td>
+      <td>地址1：國家/地區</td>
       <td>address1_country</td>
     </tr>
     <tr>
       <td>郵遞區號</td>
-      <td>地址1:郵遞區號</td>
+      <td>地址1：郵遞區號</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>人員狀態</td>
+      <td>個人狀態</td>
       <td>狀態</td>
       <td>statecode</td>
     </tr>
     <tr>
       <td>狀態原因</td>
       <td>狀態原因</td>
-      <td>statuscode</td>
+      <td>狀態代碼</td>
     </tr>
     <tr>
       <td>請勿來電</td>
-      <td>不允許電話呼叫</td>
+      <td>不允許通話</td>
       <td>donotphone</td>
     </tr>
     <tr>
       <td>退訂</td>
-      <td>不批量電子郵件</td>
-      <td>donobulkemail</td>
+      <td>不要大量電子郵件</td>
+      <td>donotbulkemail</td>
     </tr>
     <tr>
       <td>Microsoft地址2</td>
-      <td>地址1:2街</td>
+      <td>地址1：街道2</td>
       <td>address1_line2</td>
     </tr>
     <tr>
       <td>Microsoft地址3</td>
-      <td>地址1:3街</td>
+      <td>地址1：街道3</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft不傳送電子郵件</td>
+      <td>Microsoft不要傳送電子郵件</td>
       <td>不允許電子郵件</td>
-      <td>donomail</td>
+      <td>donotemail</td>
     </tr>
     <tr>
       <td>Microsoft家庭電話</td>
-      <td>家庭電話</td>
+      <td>住家電話</td>
       <td>telephone2</td>
     </tr>
     <tr>
-      <td>Microsoft偏好的聯絡方法</td>
-      <td>首選的接觸方法</td>
-      <td>preferrecontactmethodcode</td>
+      <td>Microsoft慣用的聯絡方式</td>
+      <td>偏好的聯絡方式</td>
+      <td>preferredcontactmethodcode</td>
     </tr>
     <tr>
-      <td>最後一個有趣的時刻</td>
-      <td>最後一個有趣的時刻</td>
-      <td>mkt_lastinteringmomentdate</td>
+      <td>上一個有趣時刻日期</td>
+      <td>上一個有趣時刻日期</td>
+      <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
-      <td>最後一個有趣的瞬間類型</td>
-      <td>最後一個有趣的瞬間類型</td>
-      <td>mkt_lastinteringmomenttype</td>
+      <td>上一個有趣時刻型別</td>
+      <td>上一個有趣時刻型別</td>
+      <td>mkt_lastinterestingmomenttype</td>
     </tr>
     <tr>
-      <td>最後一個有趣的時刻來源</td>
-      <td>最後一個有趣的時刻來源</td>
-      <td>mkt_leadinteringmomentsource</td>
+      <td>上一個有趣時刻來源</td>
+      <td>上一個有趣時刻來源</td>
+      <td>mkt_leadinterestingmomentsource</td>
     </tr>
     <tr>
-      <td>最後一個有趣的時刻desc</td>
-      <td>最後一個有趣的時刻desc</td>
-      <td>mkt_lastinteringmomentdesc</td>
+      <td>上一個有趣時刻說明</td>
+      <td>上一個有趣時刻說明</td>
+      <td>mkt_lastinterestingmomentdesc</td>
     </tr>
     <tr>
       <td>Microsoft不傳送行銷資料</td>
-      <td>行銷資料</td>
-      <td>多諾森姆</td>
+      <td>行銷材料</td>
+      <td>donotsendmm</td>
     </tr>
     <tr>
       <td>Microsoft不傳真</td>
       <td>Microsoft不傳真</td>
-      <td>多諾特法克斯</td>
+      <td>donotfax</td>
     </tr>
     <tr>
       <td>優先順序</td>
@@ -418,8 +419,8 @@ ht-degree: 17%
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>相對緊急</td>
-      <td>緊急</td>
+      <td>相對急迫性</td>
+      <td>急迫性</td>
       <td>mkt_urgency</td>
     </tr>
     <tr>
@@ -428,24 +429,24 @@ ht-degree: 17%
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>人員附註</td>
+      <td>個人附註</td>
       <td>說明</td>
       <td>說明 </td>
     </tr>
     <tr>
-      <td>人員分數</td>
+      <td>個人分數</td>
       <td>銷售機會分數</td>
       <td>mkt_leadscore</td>
     </tr>
     <tr>
-      <td>人員附註</td>
+      <td>個人附註</td>
       <td>說明</td>
       <td>說明 </td>
     </tr>
   </tbody>
 </table>
 
-系統會同步下列「連絡人」欄位以供內部使用。
+以下連絡人欄位會同步供內部使用。
 
 <table>
   <colgroup>
@@ -462,7 +463,7 @@ ht-degree: 17%
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>建立於</td>
+      <td>建立日期</td>
       <td>createdon</td>
     </tr>
     <tr>
@@ -487,38 +488,38 @@ ht-degree: 17%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>賬戶(a)</td>
+      <td>帳戶(a)</td>
       <td>帳戶</td>
       <td>accountid</td>
     </tr>
     <tr>
       <td>帳單地址</td>
-      <td>地址1:1街</td>
+      <td>地址1：街道1</td>
       <td>address1_line1</td>
     </tr>
     <tr>
       <td>帳單城市</td>
-      <td>地址1:城市</td>
-      <td>address1_city</td>
+      <td>地址1：城市</td>
+      <td>地址1_city</td>
     </tr>
     <tr>
       <td>帳單國家</td>
-      <td>地址1:國家/地區</td>
+      <td>地址1：國家/地區</td>
       <td>address1_country</td>
     </tr>
     <tr>
       <td>帳單郵遞區號</td>
-      <td>地址1:郵遞區號</td>
+      <td>地址1：郵遞區號</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
       <td>Microsoft帳單地址2</td>
-      <td>地址1:2街</td>
+      <td>地址1：街道2</td>
       <td>address1_line2</td>
     </tr>
     <tr>
       <td>Microsoft帳單地址3</td>
-      <td>地址1:3街</td>
+      <td>地址1：街道3</td>
       <td>address1_line3</td>
     </tr>
     <tr>
@@ -527,8 +528,8 @@ ht-degree: 17%
       <td>telephone1</td>
     </tr>
     <tr>
-      <td>業務類型</td>
-      <td>業務類型</td>
+      <td>業務型別</td>
+      <td>業務型別</td>
       <td>businesstypecode</td>
     </tr>
     <tr>
@@ -547,14 +548,14 @@ ht-degree: 17%
       <td>收入</td>
     </tr>
     <tr>
-      <td>公司說明</td>
+      <td>公司備註</td>
       <td>說明</td>
       <td>說明</td>
     </tr>
     <tr>
       <td>產業</td>
       <td>產業</td>
-      <td>工業代碼</td>
+      <td>industrycode</td>
     </tr>
     <tr>
       <td>SIC 代碼</td>
@@ -569,7 +570,7 @@ ht-degree: 17%
     <tr>
       <td>員工人數</td>
       <td>員工人數</td>
-      <td>僱員</td>
+      <td>numberofemployees</td>
     </tr>
     <tr>
       <td>SIC 代碼</td>
@@ -584,12 +585,12 @@ ht-degree: 17%
     <tr>
       <td>員工人數</td>
       <td>員工人數</td>
-      <td>僱員</td>
+      <td>numberofemployees</td>
     </tr>
   </tbody>
 </table>
 
-系統會同步下列帳戶欄位以供內部使用。
+以下「帳戶」欄位會同步供內部使用。
 
 <table>
   <colgroup>
@@ -606,7 +607,7 @@ ht-degree: 17%
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>建立於</td>
+      <td>建立日期</td>
       <td>createdon</td>
     </tr>
   </tbody>
@@ -628,8 +629,8 @@ ht-degree: 17%
     </tr>
     <tr>
       <td>關閉機率</td>
-      <td>誠信</td>
-      <td>閉機率</td>
+      <td>可能性</td>
+      <td>closeprobability</td>
     </tr>
     <tr>
       <td>階段</td>
@@ -639,7 +640,7 @@ ht-degree: 17%
     <tr>
       <td>實際關閉日期</td>
       <td>實際關閉日期</td>
-      <td>實際結帳日期</td>
+      <td>actualclosedate</td>
     </tr>
     <tr>
       <td>名稱</td>
@@ -648,7 +649,7 @@ ht-degree: 17%
     </tr>
     <tr>
       <td>估計值</td>
-      <td>Est. 收入</td>
+      <td>估計 收入</td>
       <td>estimatedValue</td>
     </tr>
     <tr>
@@ -659,7 +660,7 @@ ht-degree: 17%
   </tbody>
 </table>
 
-系統會同步下列帳戶欄位以供內部使用。
+以下「帳戶」欄位會同步供內部使用。
 
 <table>
   <colgroup>
@@ -688,7 +689,7 @@ ht-degree: 17%
 
 ## Marketo中的Microsoft相關系統欄位（唯讀） {#microsoft-related-system-fields}
 
-下列欄位是在Marketo中建立，但無法由使用者調整。
+以下欄位是在Marketo中建立的，但使用者無法調整。
 
 <table>
   <colgroup>
@@ -701,16 +702,16 @@ ht-degree: 17%
       <th>說明</th>
     </tr>
     <tr>
-      <td>Microsoft類型</td>
-      <td>銷售機會或聯繫人。 如果空白，銷售機會僅以人員身分存在於Marketo中</td>
+      <td>Microsoft 類型</td>
+      <td>潛在客戶或連絡人。 如果留空，則潛在客戶只會以Marketo中的個人身分存在</td>
     </tr>
     <tr>
-      <td>Microsoft建立日期</td>
-      <td>在MS Dynamics中建立的日期(可與在Marketo中建立的日期不同)</td>
+      <td>Microsoft 建立日期</td>
+      <td>在MS Dynamics中建立的日期(可以與Marketo中建立的日期不同)</td>
     </tr>
     <tr>
       <td>Microsoft已刪除</td>
-      <td>以前在Microsoft的人被刪除，現在只住在Marketo</td>
+      <td>此人之前在Microsoft但遭到刪除，現在僅居住在Marketo</td>
     </tr>
   </tbody>
 </table>

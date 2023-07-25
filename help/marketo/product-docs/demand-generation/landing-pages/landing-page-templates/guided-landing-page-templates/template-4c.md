@@ -1,18 +1,19 @@
 ---
 unique-page-id: 8783906
 description: 範本4C - Marketo檔案 — 產品檔案
-title: 模板4C
+title: 範本4C
 exl-id: 95e8b4db-6bd8-4937-bf1b-3e680969aab4
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
-# 模板4C {#template-4c}
+# 範本4C {#template-4c}
 
-按一下右鍵以 [下載模板4C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)
+按一下滑鼠右鍵以 [下載範本4C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)
 
 ![](assets/image2015-7-28-16-3a32-3a2.png)
 
@@ -20,11 +21,11 @@ ht-degree: 0%
 
 * 標題（選用）
 * 主要區段
-   * 包含主表徵圖題和影片
+   * 包含英雄標題和影片
 
-* 5個內文部分（可選）
-* 頁尾（可選）
+* 五個內文區段（選擇性）
+* 頁尾（選擇性）
 
-**按一下右鍵以下載此模板：**
+**在下方按一下滑鼠右鍵以下載此範本：**
 
 [範本4C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)

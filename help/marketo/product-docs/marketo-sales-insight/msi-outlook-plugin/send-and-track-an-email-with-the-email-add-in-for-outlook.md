@@ -3,7 +3,8 @@ unique-page-id: 2949716
 description: 使用Outlook的電子郵件增益集傳送及追蹤電子郵件 — Marketo檔案 — 產品檔案
 title: 使用Outlook的電子郵件增益集傳送及追蹤電子郵件
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+feature: Marketo Sales Insights
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%

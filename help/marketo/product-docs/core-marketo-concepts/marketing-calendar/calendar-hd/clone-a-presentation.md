@@ -3,7 +3,8 @@ unique-page-id: 7504058
 description: 複製簡報 — Marketo檔案 — 產品檔案
 title: 複製簡報
 exl-id: be013e38-734c-41d7-8623-e8f267b2799c
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 2951259
 description: 自訂欄位型別字彙表 — Marketo檔案 — 產品檔案
 title: 自訂欄位型別字彙表
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '583'
 ht-degree: 2%
@@ -24,7 +25,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->大部分欄位的最大字元數並未超過，而是以位元組數為單位。 因此，我們無法為每個欄位提供最終的字元限制。 例外情況是 **字串**，最大為255個字元。
+>大部分欄位的最大字元數並非最多，而是位元組數。 因此，我們無法為每個欄位提供最終的字元限制。 例外情況是 **字串**，最大為255個字元。
 
 ## 布林值 {#boolean}
 

@@ -3,7 +3,8 @@ unique-page-id: 7512944
 description: 使用Marketo Insights for Google Chrome - Marketo檔案 — 產品檔案
 title: 使用Marketo Insights for Google Chrome
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+feature: Marketo Sales Insights
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%

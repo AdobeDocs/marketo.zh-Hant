@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2359610
 description: 變更表單字型大小 — Marketo檔案 — 產品檔案
-title: 更改表單字型大小
+title: 變更表單字型大小
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-# 更改表單字型大小 {#change-the-form-font-size}
+# 變更表單字型大小 {#change-the-form-font-size}
 
-Marketo可讓您輕鬆自訂表單的外觀和風格。 您可以更改字型大小。 這是方法。
+Marketo可讓您輕鬆自訂表單的外觀。 您可以變更字型大小。 方法如下。
 
 >[!TIP]
 >
@@ -26,11 +27,11 @@ Marketo可讓您輕鬆自訂表單的外觀和風格。 您可以更改字型大
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. 在 **表單設定**，選擇 **設定**.
+1. 下 **表單設定**，選取 **設定**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. 選取 **字型大小** 你想要。
+1. 選取 **字型大小** 您想要的。
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
@@ -42,14 +43,14 @@ Marketo可讓您輕鬆自訂表單的外觀和風格。 您可以更改字型大
 
    >[!NOTE]
    >
-   >表單必須經過核准，才能用於登錄頁面。
+   >此表單必須經過核准才能用於登陸頁面。
 
    ![](assets/image2014-9-15-16-3a11-3a17.png)
 
    >[!NOTE]
    >
-   >請記得核准表單變更所建立的登錄頁面草稿。
+   >請記得核准表單變更所建立的登入頁面草稿。
 
    ![](assets/image2014-9-15-16-3a11-3a42.png)
 
-蛋糕！ 你懂的。
+蛋糕！ 您有這個。

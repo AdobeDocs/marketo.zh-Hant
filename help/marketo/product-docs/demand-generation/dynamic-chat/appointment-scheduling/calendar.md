@@ -2,10 +2,11 @@
 description: 日曆 — Marketo檔案 — 產品檔案
 title: 行事曆
 exl-id: 351241e4-15b3-4547-83fe-a8ec1d89c1b0
-source-git-commit: 81e9862c2b0e7a48ab91bb1b10fd0a0ceb6308b2
+feature: Dynamic Chat
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -29,7 +30,7 @@ ht-degree: 0%
 >
 >使用代號圖示（大括弧），使用人員或公司屬性個人化您的會議預約確認電子郵件。
 
-## 許可權 {#permissions}
+## 權限 {#permissions}
 
 使用Outlook進行設定時，會授予Dynamic Chat下列許可權：
 

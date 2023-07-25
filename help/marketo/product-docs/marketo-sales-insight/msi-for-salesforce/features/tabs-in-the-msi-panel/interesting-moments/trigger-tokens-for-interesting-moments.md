@@ -1,34 +1,35 @@
 ---
 unique-page-id: 1146999
-description: 觸發Token以取得有趣的瞬間 — Marketo檔案 — 產品檔案
-title: 觸發有趣時刻的代號
+description: 有趣時刻的觸發權杖 — Marketo檔案 — 產品檔案
+title: 有趣時刻的觸發權杖
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
-source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%
 
 ---
 
-# 觸發有趣時刻的代號 {#trigger-tokens-for-interesting-moments}
+# 有趣時刻的觸發權杖 {#trigger-tokens-for-interesting-moments}
 
 >[!PREREQUISITES]
 >
->了解如何使用 [有趣的力矩流步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>瞭解如何使用 [有趣的時刻流程步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## 可用Token {#available-tokens}
 
-結帳 [Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) 來看看所有的代號。
+簽出 [Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) 檢視您能放入有趣時刻的所有代號。
 
 ## 觸發Token {#trigger-tokens}
 
-根據智慧型行銷活動中使用的觸發器，可使用其他觸發器代號。
+根據智慧行銷活動中使用的觸發器，可使用其他觸發器代號。
 
-* `{{trigger.Trigger Name}}` 這總是實際觸發的本身。 例如：按一下電子郵件中的連結。
-* `{{trigger.Name}}` 是觸發促銷活動的資產名稱。 例如：「網頁上的點按連結」是URL本身、Salesforce觸發器的主題等。
-* 根據下列限制，提供其他觸發器。
+* `{{trigger.Trigger Name}}` 永遠是實際的觸發程式本身。 例如：按一下電子郵件中的連結。
+* `{{trigger.Name}}` 是觸發行銷活動的資產名稱。 例如：網頁上的點選連結是URL本身、Salesforce觸發器的主旨等。
+* 根據下列限制，可使用其他觸發器。
 
-**電子郵件觸發器**
+**電子郵件觸發程式**
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -66,7 +67,7 @@ ht-degree: 0%
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>點按電子郵件中的連結</td> 
+   <td>電子郵件中的點按連結</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -83,7 +84,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>硬電子郵件跳出數</td> 
+   <td>電子郵件硬跳出</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -100,7 +101,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>電子郵件跳出數軟</td> 
+   <td>電子郵件軟退信</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -117,7 +118,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>已傳送電子郵件</td> 
+   <td>電子郵件已傳遞</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -151,7 +152,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
     <tr> 
-   <td>已轉發給好友電子郵件</td> 
+   <td>已接收轉寄給朋友的電子郵件</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -168,7 +169,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
     <tr> 
-   <td>已轉發給好友電子郵件</td> 
+   <td>轉寄給朋友的電子郵件</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -185,7 +186,7 @@ ht-degree: 0%
    <td><img src="assets/check.png" alt="check"></td>
   </tr> 
   <tr> 
-   <td>從電子郵件取消訂閱</td> 
+   <td>取消訂閱電子郵件</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -204,7 +205,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-**Salesforce觸發器**
+**Salesforce觸發程式**
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -259,7 +260,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>已發送銷售電子郵件</td> 
+   <td>為已傳送的銷售電子郵件</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -293,7 +294,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>銷售電子郵件跳出數</td> 
+   <td>銷售電子郵件退回數</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -310,7 +311,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>收到銷售電子郵件</td> 
+   <td>已收到銷售電子郵件</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -327,7 +328,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
     <tr> 
-   <td>已更新機會</td> 
+   <td>機會已更新</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -344,7 +345,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
     <tr> 
-   <td>所有者更改</td> 
+   <td>所有者變更</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -378,7 +379,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>從SFDC中刪除人員</td> 
+   <td>人員已從SFDC中刪除</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -412,7 +413,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>從Opportunity中刪除</td> 
+   <td>已從機會中移除</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -429,7 +430,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>從SFDC促銷活動中移除</td> 
+   <td>已從SFDC Campaign移除</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -480,7 +481,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>添加到Opportunity</td> 
+   <td>新增至商機</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -497,7 +498,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>新增至SFDC Campaign</td> 
+   <td>已新增至SFDC Campaign</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -514,7 +515,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>在SFDC促銷活動中狀態已變更</td> 
+   <td>SFDC Campaign中的狀態已變更</td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -588,7 +589,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>已發送銷售電子郵件</td> 
+   <td>為已傳送的銷售電子郵件</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -622,7 +623,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>銷售電子郵件跳出數</td> 
+   <td>銷售電子郵件退回數</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -639,7 +640,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>收到銷售電子郵件</td> 
+   <td>已收到銷售電子郵件</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -656,7 +657,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>已新增至Sales Campaign</td> 
+   <td>已新增至銷售行銷活動</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -673,8 +674,8 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr>
-   <td>所有者更改</td> 
-   <td>已從Sales Campaign中移除</td> 
+   <td>所有者變更</td> 
+   <td>已從銷售行銷活動中移除</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -691,7 +692,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>已接收銷售呼叫</td> 
+   <td>已接聽的銷售電話</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -765,7 +766,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>瀏覽網頁</td> 
+   <td>造訪網頁</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -782,7 +783,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>點按網頁上的連結</td> 
+   <td>網頁上的點按連結</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -803,9 +804,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果沒有支票 ![（滴答）](assets/check.png) 然後，它會在有趣的時刻傳回空字串（無）。
+>如果它沒有核取方塊 ![（勾選）](assets/check.png) 那麼它會在有趣的時刻傳回空字串（無）。
 
-&#42;觸發 **瀏覽網頁** 有一些額外的Token:
+&#42;觸發程式 **造訪網頁** 有一些額外的Token：
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
@@ -813,6 +814,6 @@ ht-degree: 0%
 
 >[!TIP]
 >
->總是測試一下你的有趣時刻，以確保它們以你想要的方式呈現。
+>請務必測試您感興趣的時刻，以確保它們按照您預期的方式呈現。
 >
->另外，確保對銷售人員來說有趣，而不只是對您！
+>此外，請確定銷售人員對此感興趣，而不僅僅是您！

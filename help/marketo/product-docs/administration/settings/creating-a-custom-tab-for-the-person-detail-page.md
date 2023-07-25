@@ -3,7 +3,8 @@ unique-page-id: 2360305
 description: 建立個人詳細資料頁面的自訂標籤 — Marketo檔案 — 產品檔案
 title: 建立人員詳細資料頁面的自訂標籤
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Administration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

@@ -1,20 +1,21 @@
 ---
 unique-page-id: 10099102
-description: Microsoft Dynamics MSI的外掛程式發行 — Marketo檔案 — 產品檔案
-title: Microsoft Dynamics MSI的外掛程式發行
+description: Microsoft Dynamics MSI的外掛程式版本 — Marketo檔案 — 產品檔案
+title: Microsoft Dynamics MSI的外掛程式版本
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
-source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '316'
 ht-degree: 6%
 
 ---
 
-# Microsoft Dynamics MSI的外掛程式發行 {#plug-in-releases-for-microsoft-dynamics-msi}
+# Microsoft Dynamics MSI的外掛程式版本 {#plug-in-releases-for-microsoft-dynamics-msi}
 
-當您首次同步到Microsoft Dynamics時，請下載並安裝最新版本的Marketo Sales Insight(MSI)插件。 Marketo會定期更新這些外掛程式，讓您回到相同位置下載新版本。
+當您首次同步至Microsoft Dynamics時，請下載並安裝Marketo Sales Insight (MSI)適用的最新版外掛程式。 Marketo會定期更新這些外掛程式，讓您能夠返回相同位置下載新版本。
 
-如果您使用Marketo的原生CRM同步解決方案來同步Dynamics，請 [下載最新外掛程式](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)與您的Dynamics版本對應的{target=&quot;_blank&quot;}。 若是具有自訂同步功能且已購買Marketo Sales Insight的使用者， [包在此](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}。
+如果您使用Marketo的原生CRM同步解決方案至Dynamics，請 [下載最新的外掛程式](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your Dynamics release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
@@ -22,19 +23,19 @@ ht-degree: 6%
 
 ## 升級MSI解決方案 {#upgrading-your-msi-solution}
 
-1. 匯入最新版本的解決方案 _在現有版本上_ ，按 **匯入** 按鈕。
+1. 匯入最新版本的解決方案 _超過現有版本_ ，方法是按下 **匯入** 按鈕。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->範例：如果您的Dynamics CRM有2.0.0.20版，而最新版本是2.0.0.21，您將匯入 _over_ 版本2.0.0.20。
+>範例：如果您的Dynamics CRM版本為2.0.0.20，而最新版本為2.0.0.21，則應匯入 _超過_ 版本2.0.0.20。
 
 1. 按一下 **下一個**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
-1. 選擇 **升級階段** 和 **維護自定義**，然後按一下 **匯入**.
+1. 選取 **暫存升級** 和 **維護自訂**，然後按一下 **匯入**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
@@ -42,11 +43,11 @@ ht-degree: 6%
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
-1. 成功導入後，您將看到兩個MSI解決方案：MarketoSalesInsight和MarketoSalesInsight_Upgrade。 選取舊版解決方案，然後按一下「套用解決方案升級」 。
+1. 成功匯入後，您將會看到兩個MSI解決方案：MarketoSalesInsight和MarketoSalesInsight_Upgrade。 選取較舊的解決方案，然後按一下「套用解決方案升級」。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
 
-就這樣！ 升級後，您將只看到一個MSI解決方案。
+就是這樣！ 升級之後，您只會看到一個MSI解決方案。
 
 ## 版本更新 {#version-updates}
 
@@ -75,17 +76,17 @@ ht-degree: 6%
   <tr> 
    <td colspan="1">10/28/21</td> 
    <td colspan="1">2.0.0.25</td> 
-   <td colspan="1">產品採用分數量度，新的全域控制面板（網路活動、電子郵件、最佳賭注）</td> 
+   <td colspan="1">產品採用分數量度、新的全域控制面板（網頁活動、電子郵件、最佳選擇）</td> 
   </tr>
   <tr> 
    <td colspan="1">02/10/21</td> 
    <td colspan="1">2.0.0.22</td> 
-   <td colspan="1">在MSI解決方案上刪除已啟用自動審核和文檔更改</td> 
+   <td colspan="1">移除MSI解決方案上已啟用自動稽核和檔案變更</td> 
   </tr>
   <tr> 
    <td colspan="1">10/01/20</td> 
    <td colspan="1">2.0.0.21</td> 
-   <td colspan="1">錯誤修正：為具有Sales Insight角色的用戶分配對MSI API配置欄位的訪問</td> 
+   <td colspan="1">錯誤修正：為具有Sales Insight角色的使用者指派對MSI API設定欄位的存取權</td> 
   </tr> 
   <tr> 
    <td colspan="1">07/20/20</td> 
@@ -95,22 +96,22 @@ ht-degree: 6%
   <tr> 
    <td colspan="1">06/12/20</td> 
    <td colspan="1">2.0.0.19</td> 
-   <td colspan="1">錯誤修正：在MSD API配置上隱藏MSI密碼</td> 
+   <td colspan="1">錯誤修正：在MSD API設定上隱藏MSI秘密密碼</td> 
   </tr> 
   <tr> 
    <td colspan="1">05/26/20</td> 
    <td colspan="1">2.0.0.18</td> 
-   <td colspan="1">錯誤修正：要更改顯示MSI按鈕的MSI角色ID驗證，請執行以下操作</td> 
+   <td colspan="1">錯誤修正：若要變更顯示MSI按鈕的MSI角色ID驗證</td> 
   </tr> 
   <tr> 
    <td colspan="1">05/21/20</td> 
    <td colspan="1">2.0.0.17</td> 
-   <td colspan="1">錯誤修正：取消隱藏所有者欄位，並將欄位設為非必填欄位</td> 
+   <td colspan="1">錯誤修正：取消隱藏擁有者欄位，並將欄位設為非必填欄位</td> 
   </tr> 
   <tr> 
    <td colspan="1">04/28/20</td> 
    <td colspan="1">2.0.0.16</td> 
-   <td colspan="1">錯誤修正：移除MSD CRM Sitemap設定連結相依性</td> 
+   <td colspan="1">錯誤修正：移除MSD CRM網站地圖設定連結相依性</td> 
   </tr> 
  </tbody> 
 </table>

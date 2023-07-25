@@ -3,7 +3,8 @@ unique-page-id: 14745982
 description: '"新增 [!DNL Workplace By Facebook] as a [!DNL LaunchPoint Service] - Marketo檔案 — 產品檔案」'
 title: '"新增 [!DNL Workplace By Facebook] as a [!DNL LaunchPoint] 服務」'
 exl-id: afcc1eca-8927-4a25-af9b-c18cef24b0ae
-source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
+feature: Administration, Integrations
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 1%

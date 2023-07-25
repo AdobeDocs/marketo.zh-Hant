@@ -1,41 +1,42 @@
 ---
 unique-page-id: 14352546
 description: 防止次要Gmail位址與Sales Connect整合 — Marketo檔案 — 產品檔案
-title: 阻止輔助Gmail地址與Sales Connect整合
+title: 防止次要Gmail位址與Sales Connect整合
 exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
 
 ---
 
-# 阻止輔助Gmail地址與Sales Connect整合 {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
+# 防止次要Gmail位址與Sales Connect整合 {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
 
-## 中斷的Gmail整合（為什麼我的個人Gmail會傳送電子郵件） {#broken-gmail-integration-why-is-my-personal-gmail-sending-emails}
+## Gmail整合損毀（為什麼我的個人Gmail會傳送電子郵件） {#broken-gmail-integration-why-is-my-personal-gmail-sending-emails}
 
-Gmail連線中斷的最常見原因，是使用者個人帳戶意外整合。 當使用者按一下「連線」或嘗試從其個人帳戶傳送電子郵件時，就會發生此情況。 這麼做可能會很誘人，因為在與您工作電子郵件相同的Chrome例項中存取您的Gmail帳戶時，將會存在此選項。
+Gmail連線中斷的最常見原因是意外整合使用者的個人帳戶。 當使用者按一下「連線」或嘗試從其個人帳戶傳送電子郵件時，就可能發生這種情況。 這可能非常吸引人，因為當您在作為工作電子郵件的同一Chrome執行個體中存取Gmail帳戶時，選項會存在。
 
-## Sales Connect為何還嘗試與我的個人Gmail整合？ {#why-does-sales-connect-even-try-to-integrate-with-my-personal-gmail}
+## 為什麼Sales Connect會嘗試與我的個人Gmail整合？ {#why-does-sales-connect-even-try-to-integrate-with-my-personal-gmail}
 
-Sales Connect透過Chrome瀏覽器中安裝的擴充功能與Gmail整合。 每當Gmail的擴充功能偵測到某個例項開啟時，就能提供整合的選項。 為防止與您個人的Gmail帳戶整合，我們建議您執行下列三項其中一項操作……
+Sales Connect會透過Chrome瀏覽器中安裝的擴充功能與Gmail整合。 每當擴充功能偵測到Gmail執行個體開啟時，就會提供與其整合的選項。 若要避免與您的個人Gmail帳戶整合，我們建議使用下列三個專案之一……
 
 以其他Chrome使用者身分登入（建議）
 
-按一下 [此連結](https://support.google.com/chrome/answer/2364824?hl=en) 以閱讀如何建立其他Chrome設定檔。
+按一下 [此連結](https://support.google.com/chrome/answer/2364824?hl=en) 以瞭解如何建立另一個Chrome設定檔。
 
-**優點**:以其他使用者身分登入時，會開啟Chrome的新例項。 此例項是Chrome的全新視窗，此例項中不會有任何舊擴充功能。 它還保留Cookie，這樣您就不必每次都登入Gmail。
+**優點**：以其他使用者身分登入將會開啟新的Chrome執行個體。 此執行個體是全新的Chrome視窗，舊擴充功能不會存在於此執行個體中。 它也會保留Cookie，因此您不必每次都登入Gmail。
 
-**缺點**:必須開啟兩個Chrome視窗。
+**缺點**：必須開啟兩個Chrome視窗。
 
 使用其他瀏覽器
 
-**優點：** 使用未安裝擴充功能的其他網際網路瀏覽器（IE或Firefox）將會阻止此情況發生。
+**優點：** 使用其他未安裝擴充功能的網際網路瀏覽器（IE或Firefox）時，可以防止此情況發生。
 
-**缺點**:使用多個瀏覽器可能會很煩人。
+**缺點**：使用多個瀏覽器可能令人煩惱。
 
-使用無痕窗口
+使用無痕視窗
 
-**優點：** 無痕窗口就像開啟了Chrome的裸體版本。 這表示它將不會安裝您的任何擴充功能，而Sales Connect將不會在那裡進行連接。
+**優點：** 無痕視窗就像開啟裸體版的Chrome。 這表示它不會安裝您的任何擴充功能，而且Sales Connect將無法在那裡連線。
 
-**缺點**:每次開始使用時，您都必須登入Gmail，如果不小心關閉視窗，也必須登入。
+**缺點**：每次開始工作時，您必須登入Gmail，若不小心關閉視窗，請再次登入。

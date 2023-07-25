@@ -1,20 +1,21 @@
 ---
 unique-page-id: 13795802
-description: 關閉電子郵件通知給潛在客戶擁有者 — Marketo檔案 — 產品檔案
-title: 關閉電子郵件通知以銷售機會擁有者
+description: 關閉給潛在客戶所有者的電子郵件通知 — Marketo檔案 — 產品檔案
+title: 關閉給潛在客戶所有者的電子郵件通知
 exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# 關閉電子郵件通知以銷售機會擁有者 {#turn-off-email-notifications-to-lead-owner}
+# 關閉給潛在客戶所有者的電子郵件通知 {#turn-off-email-notifications-to-lead-owner}
 
-您可以在銷售機會分配時禁用Salesforce中發送給銷售機會所有者的自動電子郵件通知。 這是方法。
+您可以在Salesforce中停用在Lead Assignment時傳送給Lead Owner的自動電子郵件通知。 方法如下。
 
-1. 前往 **管理**.
+1. 前往 **管理員**.
 
    ![](assets/admin-1.png)
 
@@ -22,10 +23,10 @@ ht-degree: 0%
 
    ![](assets/adminsalesforce.png)
 
-1. 在 **同步選項**，按一下 **編輯**.
+1. 下 **同步選項**，按一下 **編輯**.
 
    ![](assets/salesforcesummary2.jpg)
 
-1. 取消核取 **在銷售機會分配時，在Salesforce中向所有者發送電子郵件通知** 框。 按一下 **儲存**.
+1. 取消勾選 **在潛在客戶指派時傳送電子郵件通知給Salesforce中的擁有者** 方塊。 按一下 **儲存**.
 
    ![](assets/new-screen.png)

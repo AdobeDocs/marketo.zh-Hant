@@ -2,7 +2,8 @@
 description: 提醒任務與Salesforce同步 — Marketo檔案 — 產品檔案
 title: 提醒任務與Salesforce同步
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 2360321
 description: 變更工作區名稱 — Marketo檔案 — 產品檔案
 title: 變更工作區的名稱
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Workspaces
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

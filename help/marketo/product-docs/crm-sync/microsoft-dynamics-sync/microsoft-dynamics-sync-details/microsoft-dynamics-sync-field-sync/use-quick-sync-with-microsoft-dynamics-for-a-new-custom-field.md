@@ -1,28 +1,29 @@
 ---
 unique-page-id: 10098379
-description: 使用與Microsoft Dynamics快速同步的新自訂欄位 — Marketo檔案 — 產品檔案
-title: 對新的自訂欄位使用與Microsoft Dynamics的快速同步
+description: 使用「與Microsoft Dynamics快速同步」新增自訂欄位 — Marketo檔案 — 產品檔案
+title: 使用與Microsoft Dynamics快速同步處理新自訂欄位
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
 
 ---
 
-# 對新的自訂欄位使用與Microsoft Dynamics的快速同步 {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
+# 使用與Microsoft Dynamics快速同步處理新自訂欄位 {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
-行銷或銷售部門需要新欄位。 或者，你可能在最初的欄位選擇中忘了一個。 或者，你的需求改變了。 在任何情況下，您都可以使用快速同步來重新同步特定欄位。
+行銷或銷售人員想要新欄位。 或者，您可能在初始欄位選取中忘記了一個。 或者，您的需求已改變。 在任何情況下，您都可以使用「快速同步」來重新同步特定欄位。
 
-通常，您會使用快速同步來添加新欄位並刷新值。 不過，在某些情況下，您可能會想要同步現有欄位。 您可以根據更新或建立的日期範圍來限制欄位同步。 請參閱 [進階同步選項](#Advanced_Sync_Options) 詳情請參閱下文。
+通常您會使用「快速同步」來新增欄位，並重新整理值。 不過，在某些情況下，您可能會想要同步現有欄位。 您可以根據更新或建立的日期範圍來限制欄位同步。 另請參閱 [進階同步選項](#Advanced_Sync_Options) 詳細資訊請參閱下文。
 
-快速同步可以同步空值。 例如，如果您使用值A和B，並將Dynamics中的B值變更為null，則會將null值同步至Marketo。
+快速同步可以同步null值。 例如，如果您使用值A和B，並在Dynamics中將B值變更為null，則會將null值同步至Marketo。
 
-## 所有記錄的快速同步 {#quick-sync-for-all-records}
+## 快速同步所有記錄 {#quick-sync-for-all-records}
 
-以下說明如何使用快速同步來重新同步新欄位。
+以下說明如何使用「快速同步」來重新同步新欄位。
 
-1. 在Marketo中，按一下 **管理**.
+1. 在Marketo中，按一下 **管理員**.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
-1. 選取要快速同步的欄位，然後按一下 **儲存**.
+1. 選取要快速同步的欄位並按一下 **儲存**.
 
    ![](assets/image2016-8-25-15-3a26-3a11.png)
 
@@ -42,17 +43,17 @@ ht-degree: 0%
    >
    >您可以從多個實體中選取欄位。
 
-1. 同步完成時，您會收到通知。
+1. 同步完成後，您將會收到通知。
 
    ![](assets/field-sync-update-notification.png)
 
    >[!CAUTION]
    >
-   >同步會與其他同步並排執行，而且視資料庫的大小而定，完成同步可能需要很長的時間。 當欄位處於同步佇列中時，您無法取消選取該欄位。
+   >同步作業會與其他同步作業並排執行，而且視資料庫大小而定，可能需要很長時間才能完成。 當欄位在佇列中等待同步時，您無法取消選取它。
 
 ## 進階同步選項 {#advanced-sync-options}
 
-如果您想同步現有欄位，但只對有限的資料集同步，該怎麼辦？ 這是方法。
+如果您想要同步現有欄位，但只針對有限的資料集進行同步處理，該怎麼做？ 方法如下。
 
 1. 清除現有欄位的核取方塊。 按一下 **儲存**.
 
@@ -66,22 +67,22 @@ ht-degree: 0%
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. 選擇 **已更新** 和使用日期選擇器選取日期範圍。 按一下 **儲存**.
+1. 選擇 **已更新** 並使用日期選擇器選取日期範圍。 按一下 **儲存**.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
-   欄位的「快速同步」只會同步8/19/16至9/19/16之間更新的記錄。
+   只有在2016年8月19日到2016年9月19日之間更新的記錄才會在該欄位中快速同步。
 
 ## 修正不同步欄位 {#fixing-out-of-sync-fields}
 
-在Dynamics和Marketo欄位不同步的罕見情況下，有快速且簡單的方式可重新同步它們。
+在Dynamics和Marketo欄位不同步的罕見情況下，有快速且簡單的方法可重新同步它們。
 
-1. 取消選取欄位，然後按一下 **儲存**.
+1. 取消選取欄位並按一下 **儲存**.
 
    ![](assets/image2016-8-25-16-3a16-3a32-1.png)
 
-1. 重新選取欄位，然後按一下 **儲存**. 僅此而已！
+1. 重新選取欄位並按一下 **儲存**. 僅此而已！
 
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 
-   那應該能解決！
+   這應該能解決這個問題！

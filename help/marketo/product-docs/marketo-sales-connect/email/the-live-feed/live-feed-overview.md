@@ -3,7 +3,8 @@ unique-page-id: 13796471
 description: 即時摘要概觀 — Marketo檔案 — 產品檔案
 title: 即時摘要概觀
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -12,53 +13,52 @@ ht-degree: 0%
 
 # 即時摘要概觀 {#live-feed-overview}
 
-Live Feed是一個浮動視窗，可從Web應用程式或Gmail外掛程式啟動，並提供潛在客戶參與的即時檢視。
+即時摘要是可從Web應用程式或Gmail外掛程式啟動的浮動視窗，可即時檢視潛在客戶參與情形。
 
 ## 參與標籤 {#engagement-tab}
 
 ![](assets/engagement.jpg)
 
-即時查看您的MSE電子郵件參與（檢視、點按和回覆）。
+即時檢視您MSE電子郵件的參與度（檢視、點按和回覆）。
 
-標示為紫色的人員會參與您的行銷內容。 這些人可能不存在於MSE中。 您可以按一下向下箭頭來新增這些動作，並取得其他快速動作的清單。
+標示為紫色的人員正在參與您的行銷內容。 MSE中可能不存在這些人員。 您可以按一下向下箭頭來新增這些動作，並取得其他快速動作的清單。
 
 ![](assets/purple.png)
 
-標示為藍線的人代表與透過MSE傳送的電子郵件的互動。
+以藍線標示的人表示與透過MSE傳送之電子郵件的互動。
 
 >[!NOTE]
 >
->整體而言，我們會根據IP追蹤，盡可能精確地決定位置。 不幸的是，這並不是一門確切的科學。 如果您其中一個收件者的位置錯誤，以下提供一些可能發生的情況選項：
+>整體而言，我們會根據IP追蹤儘可能精確地判斷位置。 不幸的是，這並非精確的科學。 如果我們對您的收件者之一誤報了位置，以下提供幾個選項來說明可能發生的狀況：
 >
->* 如果您的收件人已登錄到位於其他城市或國家/地區的公司的無線網路，我們將登錄該位置，而不是收件人的當前區域設定。
->* 如果您的電子郵件是由「抄送/密件副本」欄位中的某人轉送或開啟，我們會嘗試準確顯示這些人的位置。
+>* 如果收件者登入的IT總部位於其他城市或國家/地區的公司無線網路，我們會記錄該位置，而非收件者目前的地區設定。
+>* 如果您的電子郵件是轉寄或由「副本抄送/密件副本」欄位中的某人開啟，我們會嘗試準確顯示這些人的位置。
 
-
-## 任務頁簽 {#tasks-tab}
+## 任務標籤 {#tasks-tab}
 
 ![](assets/task.jpg)
 
-從即時摘要中快速查看您的待辦事項清單。
+直接從即時摘要快速檢查您的待辦事項清單。
 
-建立新任務或管理未結任務。
+建立新任務或管理未完成任務。
 
-篩選今天、明天、今天 *和* 明天，或接下來7天。
+篩選為今天、明天、今天 *和* 明天或未來7天。
 
 >[!NOTE]
 >
->您無法在即時摘要中使用自訂日期篩選，但可以在Web應用程式中使用。
+>您無法在「即時摘要」中使用自訂日期篩選器，但可以在Web應用程式中使用。
 
-使用快速動作按鈕來快速進行呼叫、傳送電子郵件或導覽至人員的Linkedin設定檔。
+使用快速動作按鈕快速撥打電話、傳送電子郵件或導覽至個人的Linkedin設定檔。
 
-## 目標標籤 {#target-tab}
+## Target標籤 {#target-tab}
 
 ![](assets/target.jpg)
 
-查看依銷售線索分數排名的最高人員（從最高到最低排序）。 前置分數會從您的Marketo執行個體提取。
+檢視您依潛在客戶評分排名的最上層人員（從最高到最低排序）。 系統會從您的Marketo執行個體提取銷售機會分數。
 
-* 當其人員分數在Marketo中增加時，便會產生銷售機會。
-* 我們展示前50條線索。
-* 您只會在Salesforce中看到已指派給您的人員。
+* 當其個人分數在Marketo中增加時，將產生潛在客戶。
+* 我們顯示前50個銷售機會。
+* 您只會在Salesforce中看到指派給您的人員。
 
 ## 圖示字彙表 {#icon-glossary}
 
@@ -73,32 +73,32 @@ Live Feed是一個浮動視窗，可從Web應用程式或Gmail外掛程式啟動
     <div> 
      <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
-   <td><p>有人檢視了您的電子郵件</p></td> 
+   <td><p>有人檢視您的電子郵件</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
-   <td><p>有人點按了您電子郵件中的連結</p></td> 
+   <td><p>有人按一下您的電子郵件中的連結</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
-   <td><p>有人回復了你的電子郵件</p></td> 
+   <td><p>有人回覆您的電子郵件</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
-   <td colspan="1">列在「有趣時刻」下的任何通知，包括電子郵件、Web和里程碑</td> 
+   <td colspan="1">在「有趣的時刻」下列出的任何通知，包括電子郵件、網頁和里程碑</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->如果您看到某個人在您的即時動態消息中查看您的電子郵件，他們可以將電子郵件轉發給其他收件人。 如果您注意到這些檢視的位置開始變更，就很可能會發生這種情況。
+>如果您看到有人在您的「即時摘要」中一遍又一遍地檢視您的電子郵件，他們可能會將電子郵件轉寄給其他收件者。 如果您注意到這些檢視的位置開始變更，就很可能發生這種情況。

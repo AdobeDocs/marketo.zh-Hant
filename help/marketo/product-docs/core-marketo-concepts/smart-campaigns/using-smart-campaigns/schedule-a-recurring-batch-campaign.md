@@ -1,20 +1,21 @@
 ---
 unique-page-id: 1146972
-description: 排程循環批次行銷活動 — Marketo檔案 — 產品檔案
-title: 排程循環批次促銷活動
+description: 排程週期性批次行銷活動 — Marketo檔案 — 產品檔案
+title: 排程週期性批次行銷活動
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
-# 排程循環批次促銷活動 {#schedule-a-recurring-batch-campaign}
+# 排程週期性批次行銷活動 {#schedule-a-recurring-batch-campaign}
 
-週期可讓您定期執行批次智慧型促銷活動。 例如，每週一次，星期一中午12:00。
+循環可讓您定期執行批次智慧行銷活動。 例如 — 每週一次，星期一中午12:00。
 
-1. 選取促銷活動，前往「排程」標籤，然後按一下 **排程週期**.
+1. 選取行銷活動，前往排程標籤，然後按一下 **排程週期性**.
 
    ![](assets/recurrencehands-sendemail.png)
 
@@ -22,24 +23,24 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-11-3a41-3a42.png)
 
-1. 按一下日曆圖示，然後選取第一次執行的日期。 在此範例中，我們使用下一個星期一提供的。
+1. 按一下行事曆圖示，然後選取第一次執行的日期。 在此範例中，我們使用下一個可用的星期一。
 
    ![](assets/image2014-9-22-11-3a41-3a46.png)
 
-1. 選取執行該作業的時間。
+1. 選取執行時間。
 
    ![](assets/image2014-9-22-11-3a41-3a49.png)
 
-1. 將「重複間隔」保留為1，選擇「星期一」，然後按一下 **儲存**.
+1. 將重複間隔保留為1，選取星期一併按一下 **儲存**.
 
    ![](assets/image2014-9-22-11-3a41-3a53.png)
 
-1. 您可以在「計畫」標籤下看到要驗證的計畫遞歸。
+1. 您可以在要驗證的「排程」標籤下檢視排定的遞回次數。
 
    ![](assets/recurrence.jpg)
 
 >[!NOTE]
 >
->「排程」索引標籤會顯示接下來三個發生次數以供參考。
+>「排程」標籤會顯示接下來的三個發生次數以供參考。
 
-就這樣！ 您的批次促銷活動現在將於每星期一中午執行。
+就是這樣！ 您的批次行銷活動現在會在每週一中午執行。

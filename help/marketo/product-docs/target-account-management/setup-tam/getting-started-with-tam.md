@@ -3,7 +3,8 @@ unique-page-id: 12255457
 description: TAM快速入門 — Marketo檔案 — 產品檔案
 title: TAM快速入門
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+feature: Target Account Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%

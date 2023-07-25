@@ -3,7 +3,8 @@ unique-page-id: 10912163
 description: 建立電子郵件 — Marketo檔案 — 產品檔案
 title: 建立電子郵件
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 建立電子郵件 {#create-an-email}
 
-在Marketo中建立電子郵件有兩種主要方式。 讓我們看兩者。
+在Marketo中建立電子郵件有兩種主要方式。 讓我們來看看這兩者。
 
 ## 在Design Studio中建立電子郵件 {#create-an-email-in-the-design-studio}
 
@@ -26,9 +27,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在Design Studio中建立電子郵件時，可在樹狀結構的「電子郵件」下找到。
+   >當您在Design Studio中建立電子郵件時，可以在「電子郵件」下的樹狀結構中找到。
 
-簡單！ 換句話說……
+簡單！ 現在換個方式……
 
 ## 在行銷活動中建立電子郵件 {#create-an-email-in-marketing-activities}
 
@@ -36,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/create-an-email-3.png)
 
-1. 選取您要新增電子郵件的方案，按一下 **新增** 下拉式清單並選取 **新本機資產**.
+1. 選取您要新增電子郵件的程式，按一下 **新增** 下拉式清單並選取 **新增本機資產**.
 
    ![](assets/create-an-email-4.png)
 
@@ -44,26 +45,26 @@ ht-degree: 0%
 
    ![](assets/create-an-email-5.png)
 
-   就這樣！
+   就是這樣！
 
-選擇的任何方法都會將您導向範本選擇器。
+無論您選擇哪種方法，都會帶您前往範本選擇器。
 
-1. 為您的電子郵件命名，按一下您要使用的範本，然後按一下 **建立**.
+1. 為您的電子郵件命名，按一下要使用的範本，然後按一下 **建立**.
 
    ![](assets/create-an-email-6.png)
 
    >[!NOTE]
    >
-   >您可以選擇準備就緒的回應式電子郵件範本集合，或您先選取以儲存的範本 **我的範本**，並遵循相同步驟。
+   >您可以從立即可用的回應式電子郵件範本集合中進行選擇，或是透過先選取來儲存的範本 **我的範本**，並依照相同的步驟進行。
 
-1. 輸入主旨行。 建議的字元限制為50。
+1. 輸入主旨列。 建議的字元限製為50。
 
    ![](assets/create-an-email-7.png)
 
-   根據您選擇的範本，您會有不同的選項可編輯電子郵件。 若是包含模組的電子郵件，請簽出 [新增模組至您的電子郵件](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+   根據您選擇的範本，您有不同的選項可編輯您的電子郵件。 對於包含模組的電子郵件，請檢視 [新增模組至您的電子郵件](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
-您的電子郵件現在已建立，請立即編輯！
+您的電子郵件現在已建立，請編輯！
 
 >[!MORELIKETHIS]
 >
->[編輯您的電子郵件標題](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
+>[編輯您的電子郵件標頭](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)

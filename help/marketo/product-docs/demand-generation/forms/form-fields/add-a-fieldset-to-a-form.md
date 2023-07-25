@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359594
-description: 將欄位集新增至表單 — Marketo檔案 — 產品檔案
+description: 將FieldSet新增至表單 — Marketo檔案 — 產品檔案
 title: 新增欄位集至表單
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 新增欄位集至表單 {#add-a-fieldset-to-a-form}
 
-欄位集很酷。 他們把一堆田地聚在一起。 你也可以一次控制整個街區！
+欄位集很酷。 他們會將多個欄位分組在一起。 您也可以一次控制整個區塊！
 
 1. 前往 **行銷活動**.
 
@@ -22,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. 按一下 **+** 登入並選取 **欄位集**.
+1. 按一下 **+** 簽署並選取 **欄位集**.
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
-1. 這是完成後應該看的樣子。
+1. 以下是完成時的外觀。
 
    ![](assets/image2014-9-15-15-3a2-3a31.png)
 
@@ -42,4 +43,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以根據其他欄位動態隱藏/顯示整個欄位集。 了解 [可見性規則](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
+>您可以根據其他欄位動態隱藏/顯示整個欄位集。 瞭解 [可見性規則](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).

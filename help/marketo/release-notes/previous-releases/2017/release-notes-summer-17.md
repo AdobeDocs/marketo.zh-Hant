@@ -1,69 +1,70 @@
 ---
 unique-page-id: 12980993
-description: 發行說明 — 17年夏季 — Marketo檔案 — 產品檔案
-title: 發行說明 — 17年夏季
+description: 發行說明 — 2017年夏季版 — Marketo檔案 — 產品檔案
+title: 發行說明 — 2017年夏季版
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
 
 ---
 
-# 發行說明：』17年夏季 {#release-notes-summer}
+# 發行說明： 2017年夏天 {#release-notes-summer}
 
-』17年夏季發行包含下列功能。 查看您的Marketo版本以了解功能可用性。
+以下功能包含在2017年夏季發行版本中。 檢視您的Marketo版本，瞭解是否有功能可用。
 
-請按一下標題連結，以檢視每項功能的詳細文章。 注意：此版本包含的部分功能沒有相關文章。 如果主題有多個子標題，則連結會放在該處。
+請按一下標題連結以檢視每個功能的詳細文章。 注意：此版本中包含的某些功能沒有關聯的文章。 如果主題有多個子標題，則會將連結置於該處。
 
 ## [其他Facebook離線轉換階段](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
-選擇最多7個其他離線轉換階段，以對應至您的Marketo生命週期階段（超過目前提供的3個階段）。 根據客戶歷程中的轉換來最佳化您的Facebook廣告支出，以獲得更高的投資報酬率。
+選擇最多7個額外的離線轉換階段，以對應至您的Marketo生命週期階段（超過目前可用的3個）。 根據客戶歷程中的轉換將您的Facebook廣告支出最佳化，以實現更佳的投資報酬率。
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
-## [鎖定Sales Insight模板](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
+## [鎖定銷售分析範本](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
 
-防止編輯您的銷售範本，確保訊息和內容的一致性。 這有助於標準化範本並維護專業通訊。
+防止對銷售範本進行編輯，確保訊息與內容的一致性。 這有助於標準化範本和維護專業通訊。
 
 ![](assets/image2017-10-9-10-3a1-3a56.png)
 
 ## ABM增強功能 {#abm-enhancements}
 
-**日文公司查閱的資料來源**
+**日本公司查詢的資料來源**
 
-以當地語言將人員與日文公司名稱配對。
+將人員與當地語言的日文公司名稱配對。
 
 **[ABM與LeanData整合](https://docs.marketo.com/x/pKmt)**
 
-LeanData整合現在可在Marketo中進行銷售機會對帳戶比對。 通過將相同的銷售線索與記錄的銷售和營銷系統中的帳戶關聯，保持營銷和銷售的一致。 更靈活的選項使市場營銷和銷售運營部門能夠更好地控制銷售線索到帳戶的匹配規則，從而達到其期望的精確度。
+LeanData整合現在允許在Marketo中進行銷售線索與帳戶的比對。 讓相同的銷售機會與記錄銷售與行銷系統內的帳戶相關聯，以保持行銷與銷售一致。 較彈性的選項可讓行銷與銷售作業部門對銷售線索與帳戶比對規則有較多的控制權，以便他們達到所需的精確度等級。
 
-## 網頁個人化增強功能 {#web-personalization-enhancements}
+## Web個人化增強功能 {#web-personalization-enhancements}
 
-**[促銷活動預覽增強功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
+**[Campaign預覽增強功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-行銷從業人員現在可確保其Web行銷活動在任何裝置上都看起來絕佳 *befor* 啟動它們。 透過這些增強功能，了解您的網頁行銷活動在案頭、行動裝置和平板電腦上的呈現方式。 Chrome新外掛程式也提供更一致且精確的預覽。
+行銷從業人員現在可確保他們的網路行銷活動在任何裝置上都看起來不錯 *早於* 啟動它們。 透過這些增強功能，瞭解您的網頁行銷活動在桌上型電腦、行動裝置和平板電腦上的呈現方式。 Chrome適用的新外掛程式也提供更一致且精確的預覽。
 
-**[介面工具集促銷活動增強功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
+**[Widget Campaign增強功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
-現已推出「介面工具集促銷活動」的新選項，包括：
+Widget Campaign的新選項現已推出，包括：
 
-* 觸發促銷活動（延遲、捲動）
-* 顯示促銷活動（螢幕上的任何位置）
+* 觸發行銷活動（延遲、捲動）
+* 顯示行銷活動（畫面周圍的任何位置）
 * 將展開/最小化箭頭變更為任何CTA文字
 
-## ContentAI {#contentai}
+## contentai {#contentai}
 
-**[ContentAI Analytics與建議](/help/marketo/product-docs/predictive-content/predictive-content-analytics-overview.md)**
+**[ContentAI分析和建議](/help/marketo/product-docs/predictive-content/predictive-content-analytics-overview.md)**
 
-透過更深入的分析和AI支援的內容建議提升內容行銷的回報，進而提升參與度。 功能強大的分析功能可顯示建議內容的成效，包括熱門、趨勢和受眾型檢視。 您也會看到其他內容的建議。
+透過更深入的分析和AI支援的內容建議來提高參與度，從而提高內容行銷的回報。 強大的分析功能可顯示建議內容的表現，包括熱門、趨勢和以受眾為基礎的檢視。 您也會看到其他要包含內容的建議。
 
 ## Analytics {#analytics}
 
-**電子郵件前瞻分析增強功能**
+**電子郵件深入分析增強功能**
 
-透過新方式準備和共用資料，讓您的電子郵件深入分析體驗發揮更大效益。 您現在可以將「電子郵件前瞻分析」結果下載至Microsoft Excel和PowerPoint，以處理Marketo以外的資料。
+透過準備和分享資料的新方式，從您的電子郵件深入分析體驗中獲得更多好處。 您現在可以將電子郵件深入分析結果下載至Microsoft Excel和PowerPoint，以便在Marketo外部處理資料。
 
 ## 同盟身分設定支援 {#federated-identity-configuration-support}
 
-將驗證(Active Directory)保留在防火牆的內部部署之後，同時繼續在雲中使用Microsoft Dynamics CRM。
+將驗證(Active Directory)保持在防火牆內部部署之後，同時繼續在雲端中使用Microsoft Dynamics CRM。

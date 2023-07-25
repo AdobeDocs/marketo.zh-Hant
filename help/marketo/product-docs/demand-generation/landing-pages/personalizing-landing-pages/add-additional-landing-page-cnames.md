@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2359798
-description: 新增其他登錄頁面CNAME - Marketo檔案 — 產品檔案
-title: 新增其他登錄頁面CNAME
+description: 新增其他登陸頁面CNAME - Marketo檔案 — 產品檔案
+title: 新增其他登陸頁面CNAME
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
-source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
 
 ---
 
-# 新增其他登錄頁面CNAME {#add-additional-landing-page-cnames}
+# 新增其他登陸頁面CNAME {#add-additional-landing-page-cnames}
 
-您可能想要新增登錄頁面CNAME，以允許不同的URL指向您的Marketo登錄頁面。 依照下列步驟，將可協助您管理多個網域。
+您可能想要新增登陸頁面CNAME，以允許不同的URL指向您的Marketo登陸頁面。 遵循下列步驟將幫助您管理多個網域。
 
 >[!CAUTION]
 >
@@ -20,15 +21,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**相同的頂級域 — 好！ Cookie已共用**.<br/> **go**.mycompany.com > **資訊**.mycompany.com
+>**相同的最上層網域 — 好！ Cookie已共用**.<br/> **執行**.mycompany.com > **資訊**.mycompany.com
 >
->**不同的頂級域 — 錯誤！ Cookie為 _not_ 共用**.<br/> 走。**mycompany**.com > go。**mynewcompany**.com
+>**不同的頂級網域 — 錯誤！ Cookie包括 _not_ 已共用**.<br/> 前往。**mycompany**.com >執行。**mynewcompany**.com
 
 >[!NOTE]
 >
->**需要管理權限**
+>**需要管理員許可權**
 
-1. 前往 **管理** 的上界。
+1. 前往 **管理員** 區域。
 
    ![](assets/add-additional-landing-page-cnames-1.png)
 
@@ -36,40 +37,40 @@ ht-degree: 0%
 
    ![](assets/add-additional-landing-page-cnames-2.png)
 
-1. 向下捲動至「支援資訊」，並複製您的Munchkin ID。
+1. 向下捲動至「支援資訊」並複製您的Munchkin ID。
 
    ![](assets/add-additional-landing-page-cnames-3.png)
 
-## 向IT人員發送請求 {#send-request-to-it}
+## 傳送要求給IT {#send-request-to-it}
 
-1. 請您的IT部門設定下列CNAME:(取代 [CNAME] 以及您選擇的CNAME [蒙奇金ID] 和上一步的文字)。
+1. 要求您的IT部門設定下列CNAME： (取代 [CNAME] 以及您選擇的CNAME [Munchkin ID] （包含上一步驟的文字）。
 
-   [CNAME].YourCompany.com > [蒙奇金ID].mktoweb.com
+   [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## 新增CNAME {#add-a-new-cname}
 
-1. IT部門建立CNAME後，請前往 **管理** 的上界。
+1. IT部門建立CNAME後，請前往 **管理員** 區域。
 
    ![](assets/add-additional-landing-page-cnames-4.png)
 
-1. 按一下 **登錄頁面**.
+1. 按一下 **登陸頁面**.
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. 按一下 **新增** 然後選取 **新域別名**.
+1. 按一下 **新增** 然後選取 **新網域別名**.
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. 輸入 **域別名。** 此 **預設頁面** 若訪客未放入URL，則會顯示。 在這種情況下，輸入他們應該去的地方。
+1. 輸入您的 **網域別名。** 此 **預設頁面** 在訪客未放入URL時顯示。 輸入在這種情況下他們應該前往的位置。
 
    >[!NOTE]
    >
-   >對於「預設頁面」，您可以選取登錄頁面或外部URL，例如您的公開網站。
+   >對於預設頁面，您可以選取登陸頁面或外部URL，例如您的公用網站。
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. 輸入 **預設頁面** 按一下 **建立**.
+1. 輸入您的 **預設頁面** 並按一下 **建立**.
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 
-不錯！ 現在，如果您想要新增CNAME，您知道該做什麼。
+很好！ 如果您想要新增CNAME，現在我們知道該怎麼做。

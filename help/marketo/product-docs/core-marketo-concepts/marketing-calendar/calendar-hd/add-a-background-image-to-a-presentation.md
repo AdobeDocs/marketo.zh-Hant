@@ -3,7 +3,8 @@ unique-page-id: 7504437
 description: 新增背景影像至簡報 — Marketo檔案 — 產品檔案
 title: 新增背景影像至簡報
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%

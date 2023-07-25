@@ -3,7 +3,8 @@ unique-page-id: 7512272
 description: '"新增 [!DNL Webex] as a [!DNL LaunchPoint] 服務 — Marketo檔案 — 產品檔案」'
 title: '"新增 [!DNL Webex] as a [!DNL LaunchPoint] 服務」'
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
-source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
+feature: Administration, Integrations
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 1%

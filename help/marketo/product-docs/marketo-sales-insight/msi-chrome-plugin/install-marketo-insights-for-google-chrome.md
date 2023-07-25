@@ -3,7 +3,8 @@ unique-page-id: 1147326
 description: 安裝Marketo Insights for Google Chrome - Marketo檔案 — 產品檔案
 title: 安裝適用於Google Chrome的Marketo Insights
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+feature: Marketo Sales Insights
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%

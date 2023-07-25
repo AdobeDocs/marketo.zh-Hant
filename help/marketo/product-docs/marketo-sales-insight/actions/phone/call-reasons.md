@@ -1,64 +1,66 @@
 ---
-description: 呼叫原因 — Marketo檔案 — 產品檔案
-title: 呼叫原因
-source-git-commit: 0864f784d193bfc6dd7a087c9f89ce59bdff710c
+description: 來電原因 — Marketo檔案 — 產品檔案
+title: 來電原因
+exl-id: 82533d6b-a373-49c7-9cee-271e36916111
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# 呼叫原因 {#call-reasons}
+# 來電原因 {#call-reasons}
 
-允許您的銷售團隊在進行呼叫時選擇呼叫原因，以便您的團隊了解進行呼叫的原因。
+讓您的銷售團隊在通話時選取通話原因，讓您的團隊瞭解通話的原因。
 
 >[!NOTE]
 >
->**需要管理員權限**
+>**需要管理員許可權**
 
-## 啟用呼叫原因 {#enable-call-reasons}
+## 啟用來電原因 {#enable-call-reasons}
 
 1. 按一下齒輪圖示並選取 **設定**.
 
    ![](assets/call-reasons-1.png)
 
-1. 在「管理設定」下，選取 **撥號器**.
+1. 在管理設定下方，選取 **撥號器**.
 
    ![](assets/call-reasons-2.png)
 
-1. 選擇 **啟用呼叫原因**.
+1. 選取 **啟用來電原因**.
 
    ![](assets/call-reasons-3.png)
 
-1. 選擇所需的呼叫原因要求。
+1. 選擇您想要的來電原因需求。
 
    ![](assets/call-reasons-4.png)
 
-## 建立呼叫原因 {#create-call}
+## 建立來電原因 {#create-call}
 
 >[!NOTE]
 >
->您最多可以建立15個呼叫原因。
+>您最多可以建立15個來電原因。
 
 1. 按一下齒輪圖示並選取 **設定**.
 
    ![](assets/call-reasons-5.png)
 
-1. 在「管理設定」下，選取 **撥號器**.
+1. 在管理設定下方，選取 **撥號器**.
 
    ![](assets/call-reasons-6.png)
 
-1. 按一下 **管理呼叫原因**.
+1. 按一下 **管理來電原因**.
 
    ![](assets/call-reasons-7.png)
 
-1. 在文本欄位中輸入所需的呼叫原因名稱，然後按一下 **新增**.
+1. 在文字欄位中輸入您想要的來電原因名稱，然後按一下 **新增**.
 
    ![](assets/call-reasons-8.png)
 
-## 選擇呼叫原因 {#select-a-call-reason}
+## 選取來電原因 {#select-a-call-reason}
 
-啟用呼叫原因後。 使用者可在進行呼叫時選取一個選項。
+啟用來電原因後。 使用者可以在進行呼叫時選取一個。
 
 1. 按一下呼叫按鈕以啟動撥號器。
 
@@ -68,7 +70,7 @@ ht-degree: 0%
 
    ![](assets/call-reasons-10.png)
 
-1. 選取最能說明呼叫的呼叫原因。
+1. 選取最能描述通話的通話原因。
 
    ![](assets/call-reasons-11.png)
 
@@ -82,6 +84,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [將呼叫原因和呼叫結果記錄到Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [將來電原因與來電結果記錄到Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [呼叫結果](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
-

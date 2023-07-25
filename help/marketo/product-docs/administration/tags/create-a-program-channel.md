@@ -3,7 +3,8 @@ unique-page-id: 2950682
 description: 建立方案管道 — Marketo檔案 — 產品檔案
 title: 建立方案頻道
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Tags
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 0%

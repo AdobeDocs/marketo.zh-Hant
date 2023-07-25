@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2950551
-description: 設定Social按鈕開啟時 — Marketo檔案 — 產品檔案
-title: 設定Social按鈕開啟的時間
+description: 社交按鈕開啟時進行設定 — Marketo檔案 — 產品檔案
+title: 社交按鈕開啟時進行設定
 exl-id: 3acb6656-35ab-486e-ba91-d52c434a1b90
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-# 設定Social按鈕開啟的時間 {#configure-when-social-button-opens}
+# 社交按鈕開啟時進行設定 {#configure-when-social-button-opens}
 
-當您建立 [社交按鈕](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)，您可以設定按鈕何時顯示共用提示。
+當您建立 [社交按鈕](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)，您可以設定何時按鈕顯示共用提示。
 
 1. 前往 **行銷活動**.
 
@@ -30,10 +31,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-16-3a36-3a21.png)
 
-   * **按一下：** 當使用者按一下社交按鈕時。
-   * **頁面載入時：** 當包含社交按鈕的登陸頁面載入至人員的瀏覽器時。
-   * **在Mouseover上：** 當人在社交按鈕上停留時。
+   * **按一下：** 當有人按一下社交按鈕時。
+   * **頁面載入時：** 包含社交按鈕的登陸頁面一經在人員的瀏覽器中載入。
+   * **在Mouseover：** 當個人將滑鼠游標停留在社交按鈕上時。
 
    >[!MORELIKETHIS]
    >
-   >人員共用後，您可以要求其電子郵件地址或顯示確認訊息。 了解如何 [配置共用後提示](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+   >在人員共用後，您可以請求其電子郵件地址或顯示確認訊息。 瞭解如何 [設定共用後提示](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

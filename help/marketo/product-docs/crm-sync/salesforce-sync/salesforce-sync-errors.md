@@ -2,7 +2,8 @@
 description: Salesforce同步錯誤 — Marketo檔案 — 產品檔案
 title: Salesforce同步錯誤
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+feature: Salesforce Integration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 1%

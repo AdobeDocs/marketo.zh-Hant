@@ -1,47 +1,49 @@
 ---
 description: 發行說明 — 2023年1月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2023年1月
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '637'
 ht-degree: 3%
 
 ---
 
-# 發行說明：2023年1月 {#release-notes-jan-23}
+# 發行說明： 2023年1月 {#release-notes-jan-23}
 
-以下是』23年1月版本包含的所有功能。 查看您的Adobe Marketo Engage版本以了解功能可用性。
+下方提供2023年1月發行版本包含的所有功能。 檢視您的Adobe Marketo Engage版本，瞭解是否有功能可用。
 
 >[!AVAILABILITY]
 >
->以星號表示的特徵(![星星](assets/yellow-star.png))是付費附加元件。 請連絡您的Marketo Engage代表以了解更多資訊。
+>以星號(![星號](assets/yellow-star.png))為付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於 **2023年1月20日**，並在後續幾週分階段推出其餘功能。 發行功能和日期可能會有所變更。 請檢查下方的每個功能的狀態。
+下列功能屬於標準發行週期，並將於以下日期開始發行 **2023年1月20日**，在接下來的幾週內分階段推出剩餘的功能。 發行功能和日期可能會有所變更。 請檢視每個功能下方的狀態。
 
-### Marketo Engage現代UX {#modern-ux}
+### Marketo Engage新式UX {#modern-ux}
 
 </br>
 
-* **現代UX中的更新畫面**:在現代UX（舊稱新一代體驗）中，我們提供更新後的螢幕，提供可透過切換開關存取的更新設計和可用性增強功能：
+* **新版UX中的更新畫面**：在Modern UX （先前稱為Next-generation Experience）中，我們提供額外的重新整理熒幕，提供更新的設計和可用性增強功能，可透過切換開關存取：
 
    * 程式碼片段清單檢視
-   * 登錄頁面範本清單
+   * 登陸頁面範本清單
 
-   <table> 
+  <table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已發運</td>
+   <td>已送出</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切換開關</a></td>
   </tr>
   </tbody>
 </table>
 
-* **增強元件用於電子郵件範本詳細資料和程式碼片段詳細資料的功能**:「新增供UI使用」索引標籤提供每個「供使用」資產的其他資訊，例如上次修改時間及修改者。 您可以透過搜尋、排序和篩選功能輕鬆執行分析。 將從「電子郵件範本」和「程式碼片段」資產開始，整合這個新的UI元件。
+* **增強元件用於電子郵件範本詳細資訊和片段詳細資訊的功能**：新的「用於UI」索引標籤提供有關每個「用於」資產的額外資訊，例如上次修改時間及修改者。 您可以透過搜尋、排序和篩選功能輕鬆執行分析。 將從電子郵件範本和程式碼片段資產開始合併這個新的UI元件。
 
 <table> 
   <tr> 
@@ -49,7 +51,7 @@ ht-degree: 3%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已發運</td>
+   <td>已送出</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -59,7 +61,7 @@ ht-degree: 3%
 
 </br>
 
-* **重新設計的報表資產模型**:現代UX中報表設定模組的新設計，提供更新的外觀和風格，並改善協助工具。
+* **重新設計的報表資產模式**：Modern UX中新的報表設定模式設計，提供更新的外觀和風格，並改善協助工具。
 
 <table> 
   <tr> 
@@ -67,7 +69,7 @@ ht-degree: 3%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已發運</td>
+   <td>已送出</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -77,7 +79,7 @@ ht-degree: 3%
 
 </br>
 
-* **Marketo Measure Ultimate**:為具有多個CRM和/或Marketo Engage例項及多種來源資料需求的企業啟用完整的B2B歸因。 此外，也提供B2B歸因解決方案，供Adobe透過共用AEP資料執行RT-CDP。
+* **Marketo Measure Ultimate**：針對具有多個CRM和/或Marketo Engage執行個體以及不同來源資料需求的企業，啟用完整的B2B歸因。 此外，也透過共用的AEP資料，為AdobeRT-CDP提供B2B歸因解決方案。
 
 <table> 
   <tr> 
@@ -85,7 +87,7 @@ ht-degree: 3%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已發運</td>
+   <td>已送出</td>
    <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
@@ -95,7 +97,7 @@ ht-degree: 3%
 
 </br>
 
-* **新增大量匯出API資訊以增強「網站服務」標籤**:您現在可以檢視訂閱的每日容量分配，並檢視過去7天中已使用的每日容量分配量。
+* **新增大量匯出API資訊以增強「網站服務」標籤**：您現在可以檢視訂閱的每日產能配置，並檢視過去7天使用的每日產能配置金額。
 
 <table> 
   <tr> 
@@ -103,7 +105,7 @@ ht-degree: 3%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已發運</td>
+   <td>已送出</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">大量匯出API資訊</a></td>
   </tr>
   </tbody>
@@ -111,13 +113,13 @@ ht-degree: 3%
 
 ## 敏捷發行功能
 
-下列功能會遵循Agile格式，並在標準發行日期前後的不同日期發行。 請檢查下方的每個功能的狀態。
+下列功能遵循敏捷格式，並在標準發行日期之前或之後的各種日期發行。 請檢視每個功能下方的狀態。
 
-### 動態聊天 {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **在動態聊天的資訊擷取卡中定義選取清單**:為協助確保資料清潔度，您可以為資訊擷取卡定義選擇清單，讓訪客只能從預先定義的選項清單中選取。
+* **定義資訊擷取卡片中用於Dynamic Chat的挑選清單**：為確保資料整齊，您可以定義資訊擷取卡片的挑選清單，讓訪客只能從預先定義的選項清單中選取。
 
 <table> 
   <tr> 
@@ -125,13 +127,13 @@ ht-degree: 3%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已發運</td>
+   <td>已送出</td>
    <td>不適用</td>
   </tr>
   </tbody>
 </table>
 
-* **動態聊天會議確認中的個人化**:座席可以使用Marketo Engage人和公司欄位個人化會議預訂電子郵件確認，以便更好地與訪客互動(例如：在自動會議預訂通知電子郵件中以名字迎接訪客)。
+* **Dynamic Chat會議確認中的個人化**：代理商可使用Marketo Engage人員和公司欄位來個人化會議預約電子郵件確認，以便更好地與訪客互動（例如：在自動會議預約通知電子郵件中按訪客的名字與其打招呼）。
 
 <table> 
   <tr> 
@@ -139,13 +141,13 @@ ht-degree: 3%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已發運</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">日曆</a></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">行事曆</a></td>
   </tr>
   </tbody>
 </table>
 
-* **在流設計器中搜索**:在串流設計工具中輕鬆搜尋內容，以快速找出串流中所有卡片/節點的內容(例如：搜尋&quot;SEO&quot;，並反白顯示包含該字串的所有節點)。
+* **在資料流設計工具中搜尋**：在串流設計工具中輕鬆搜尋內容，以快速找到串流中所有卡片/節點的內容（例如：搜尋「SEO」並將反白顯示包含該字串的所有節點）。
 
 <table> 
   <tr> 
@@ -153,13 +155,13 @@ ht-degree: 3%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已發運</td>
+   <td>已送出</td>
    <td>不適用</td>
   </tr>
   </tbody>
 </table>
 
-* **動態聊天的聊天機器人日期/時間選擇器**:Web訪客可以使用日曆選擇器來選擇日期和時間，而不是手動輸入日期。
+* **Dynamic Chat的聊天機器人日期/時間選取器**：網頁訪客可以使用日曆選擇器來選擇日期和時間，而不用手動輸入日期。
 
 <table> 
   <tr> 
@@ -167,13 +169,13 @@ ht-degree: 3%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已發運</td>
+   <td>已送出</td>
    <td>不適用</td>
   </tr>
   </tbody>
 </table>
 
-* **動態聊天的排程會議電子郵件通知**:在座席日曆上預訂會議時，座席會收到有關預訂的電子郵件通知，包括訪客動態聊天參與的詳細資訊。
+* **Dynamic Chat的已排程會議電子郵件通知**：在代理程式的行事曆上預約會議時，代理程式會收到有關預約的電子郵件通知，包括訪客Dynamic Chat參與的詳細資訊。
 
 <table> 
   <tr> 
@@ -181,7 +183,7 @@ ht-degree: 3%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已發運</td>
+   <td>已送出</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">會議</a></td>
   </tr>
   </tbody>
@@ -189,6 +191,6 @@ ht-degree: 3%
 
 ## 公告 {#announcements}
 
-* **Marketo REST API變更**:2022年10月版本中，我們對Marketo REST API回應訊息進行了微幅變更。 請看這個 [Marketo國家郵報](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} 以取得更多詳細資訊。
+* **Marketo REST API變更**：在2022年10月版本中，我們對Marketo REST API回應訊息進行了微幅變更。 請參閱此 [Marketo國家貼文](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} 以取得更多詳細資料。
 
-* **_產品發行網路研討會_**: [2022年10月和2023年1月Marketo Engage發行網路研討會](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_產品發行網路研討會_**： [2022年10月和2023年1月Marketo Engage版本網路研討會](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

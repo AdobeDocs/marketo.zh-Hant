@@ -1,31 +1,32 @@
 ---
 unique-page-id: 8160090
 description: 範本3D - Marketo檔案 — 產品檔案
-title: 模板3D
+title: 3D範本
 exl-id: cb72b874-5294-47b8-b151-e40697d78f13
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# 模板3D {#template-3d}
+# 3D範本 {#template-3d}
 
-按一下右鍵以 [下載模板3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+按一下滑鼠右鍵以 [下載範本3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 
 此範本包含下列內容：
 
-* 標題（帶徽標和3個按鈕）（可選）
+* 具有標誌和3個按鈕的頁首（可選）
 * 主要區段
 
    * 包含主圖文字。
 
-* 三個內文部分（可選）
-* 頁尾（選用）
+* 三個主體區段（選擇性）
+* 頁尾（選擇性）
 
-**按一下右鍵以下載此模板：**
+**在下方按一下滑鼠右鍵以下載此範本：**
 
-[模板3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+[範本3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)

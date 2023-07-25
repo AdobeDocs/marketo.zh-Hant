@@ -3,7 +3,8 @@ unique-page-id: 7503971
 description: 建立簡報 — Marketo檔案 — 產品檔案
 title: 建立簡報
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 2%

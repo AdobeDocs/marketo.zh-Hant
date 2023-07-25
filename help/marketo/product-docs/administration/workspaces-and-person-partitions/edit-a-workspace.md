@@ -3,7 +3,8 @@ unique-page-id: 11380986
 description: 編輯工作區 — Marketo檔案 — 產品檔案
 title: 編輯工作區
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Workspaces
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%

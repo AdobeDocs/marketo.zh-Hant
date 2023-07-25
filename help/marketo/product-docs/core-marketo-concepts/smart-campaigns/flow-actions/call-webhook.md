@@ -3,7 +3,8 @@ unique-page-id: 1147023
 description: 呼叫Webhook - Marketo檔案 — 產品檔案
 title: 呼叫Webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 2%
@@ -14,26 +15,26 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->[建立網頁連結](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
+>[建立Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
 
-## 總覽 {#overview}
+## 概觀 {#overview}
 
-Webhook可讓您與協力廠商服務互動。 呼叫智慧行銷活動流程中的網頁連結，以傳送/接收資訊。
+Webhook可讓您與協力廠商服務互動。 透過在智慧行銷活動流程中呼叫webhook來傳送/接收資訊。
 
 ![](assets/image2014-9-22-15-3a4-3a7.png)
 
 >[!NOTE]
 >
->了解許多有趣的事 [Webhook](https://developers.marketo.com/documentation/webhooks/) 可以幫你。
+>瞭解許多有趣的事情 [Webhook](https://developers.marketo.com/documentation/webhooks/) 可為您效勞。
 
 ## 使用情況 {#usage}
 
-選取 **Webhook** 從下拉式清單中。
+選取 **Webhook** 下拉式清單。
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
-僅此而已！ 現在，每當有人進入智慧型行銷活動流程時，就會叫用您的網頁連結。
+僅此而已！ 現在每當有人進入智慧行銷活動流程時，就會叫用您的webhook。
 
 >[!MORELIKETHIS]
 >
->[在智慧型行銷活動中使用網頁連結](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
+>[在Smart Campaign中使用Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)

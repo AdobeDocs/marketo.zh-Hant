@@ -3,7 +3,8 @@ unique-page-id: 10096583
 description: 「新一代 [!DNL Munchkin] 追蹤常見問題集 — Marketo檔案 — 產品檔案」
 title: 「新一代 [!DNL Munchkin] 追蹤常見問題集」
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
+feature: Administration, Munchkin Tracking Code
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '716'
 ht-degree: 0%
@@ -55,7 +56,6 @@ ht-degree: 0%
 >* 為她記錄一個「有趣的時刻」 （記錄她實際瀏覽頁面的日期，而不是她成名的日期）
 >
 >* 像今天一樣記錄「新人員」活動
-
 
 ## 已具有「匿名」篩選器的智慧清單會有什麼改變？ {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
 

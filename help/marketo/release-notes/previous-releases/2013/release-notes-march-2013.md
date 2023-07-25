@@ -3,43 +3,44 @@ unique-page-id: 2951101
 description: 發行說明 — 2013年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2013年3月
 exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-# 發行說明：2013年3月 {#release-notes-march}
+# 發行說明： 2013年3月 {#release-notes-march}
 
-3月版本包含下列功能。
+3月版本中包括下列功能。
 
-## Marketo日曆檔案 {#marketo-calendar-files}
+## Marketo行事曆檔案 {#marketo-calendar-files}
 
-建立日曆檔案作為 **我的代號** 用於事件確認和提醒電子郵件。 此整合式日曆檔案（例如.ics檔案）會轉譯所有代號，包括我的代號和 `{{member.webinar URL}}` 代號。
+建立行事曆檔案作為 **我的Token** 用於事件確認和提醒電子郵件中。 此整合行事曆檔案（例如.ics檔案）將轉譯所有權杖，包括「我的權杖」和 `{{member.webinar URL}}` token。
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 
-## 等到+/- {#wait-until}
+## 等候直到+/- {#wait-until}
 
-建立等待步驟，可在日期權杖之前或之後執行指定的天數。 例如，您可以建立等待步驟，在事件日期前3天等候，然後傳送提醒！
+建立可以在日期Token之前或之後執行指定天數的「等待步驟」。 例如，您可以建立等待步驟，在事件日期之前等候3天，然後傳送提醒！
 
 ![](assets/image2014-9-22-15-3a35-3a44.png)
 
-您可以建立等待步驟，在銷售機會生日前等候14天。 通過選擇「使用此日期的下一個週年」，系統將自動忽略與該日期關聯的年份，並改用當前或下一個日曆年。
+您可以建立等待步驟，在潛在客戶生日之前等候14天。 若選取「使用此日期的下一個週年紀念日」，系統會自動忽略與日期相關聯的年度，而改用目前或下一個日曆年度。
 
-## 社交抽獎活動 {#social-sweepstakes}
+## 社交抽獎 {#social-sweepstakes}
 
-抽獎活動讓你的領導有機會贏得獎品，並告訴他們的朋友你。 您從參與者中選取隨機獲勝者，並傳送電子郵件給他們。
+抽獎活動可讓您的潛在客戶有機會贏得獎品，並告訴他們的朋友關於您的事情。 您從參與者中隨機選取獲勝者，並傳送電子郵件給他們。
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
 ## 其他表單錯誤訊息語言 {#additional-form-error-message-languages}
 
-表單錯誤訊息已新增超過十種語言！
+表單錯誤訊息已新增十多種語言！
 
 ![](assets/image2014-9-22-15-3a37-3a25.png)
 
-## 支援新聞和警報 {#support-news-and-alerts}
+## 支援新聞與警示 {#support-news-and-alerts}
 
-訂閱P1警報的支援新聞和警報、已知問題、支援專家的提示和提示，以及Marketo客戶支援的更新，與Marketo客戶支援保持聯繫。
+訂閱P1警示、已知問題、支援專家的提示和提示，以及Marketo客戶支援的更新消息，即可與Marketo客戶支援保持連線。

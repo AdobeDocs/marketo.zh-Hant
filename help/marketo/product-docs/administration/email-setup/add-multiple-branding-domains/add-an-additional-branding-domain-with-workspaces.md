@@ -3,7 +3,8 @@ unique-page-id: 11377408
 description: 使用工作區新增其他品牌化網域 — Marketo檔案 — 產品檔案
 title: 使用工作區新增其他品牌領域
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%

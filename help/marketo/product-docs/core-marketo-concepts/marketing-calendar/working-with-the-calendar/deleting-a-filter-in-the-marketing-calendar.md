@@ -3,7 +3,8 @@ unique-page-id: 1147302
 description: 刪除行銷行事曆 — Marketo檔案 — 產品檔案中的篩選器
 title: 刪除行銷行事曆中的篩選器
 exl-id: 1c53f346-ab35-44d4-9b8a-6e31f97044ca
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%

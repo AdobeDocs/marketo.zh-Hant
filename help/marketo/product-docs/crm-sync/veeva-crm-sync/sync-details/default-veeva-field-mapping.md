@@ -1,17 +1,18 @@
 ---
-description: 預設Veva欄位對應 — Marketo檔案 — 產品檔案
-title: 預設Veeva欄位映射
+description: 預設Veeva欄位對應 — Marketo檔案 — 產品檔案
+title: 預設Veeva欄位對應
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 30%
+ht-degree: 33%
 
 ---
 
-# 預設Veeva欄位映射 {#default-veeva-field-mapping}
+# 預設Veeva欄位對應 {#default-veeva-field-mapping}
 
-當您最初同步Marketo Engage帳戶與Veeva時，Marketo會自動在內建的Veeva和Marketo欄位之間建立這些關聯。 Marketo也會同步您帳戶和連絡人上的自訂欄位。
+當您初次將Marketo Engage帳戶與Veeva同步時，Marketo會自動在內建Veeva和Marketo欄位之間建立這些關聯。 Marketo也會同步您帳戶和連絡人上的自訂欄位。
 
 ## 連絡人欄位 {#contact-fields}
 
@@ -36,15 +37,15 @@ ht-degree: 30%
       <td>SFDC建立日期</td>
     </tr>
     <tr>
-      <td>聯繫人說明</td>
-      <td>人員附註</td>
+      <td>連絡人說明</td>
+      <td>個人附註</td>
     </tr>
     <tr>
       <td>電子郵件</td>
       <td>電子郵件地址</td>
     </tr>
     <tr>
-      <td>企業傳真</td>
+      <td>商務傳真</td>
       <td>傳真號碼</td>
     </tr>
     <tr>
@@ -57,7 +58,7 @@ ht-degree: 30%
     </tr>
     <tr>
       <td>已刪除</td>
-      <td>已刪除SFDC</td>
+      <td>SFDC 已刪除</td>
     </tr>
     <tr>
       <td>姓氏</td>
@@ -72,15 +73,15 @@ ht-degree: 30%
       <td>分數</td>
     </tr>
     <tr>
-      <td>MailingCity</td>
+      <td>郵寄城市</td>
       <td>城市</td>
     </tr>
     <tr>
-      <td>MailingCountry</td>
+      <td>郵寄國家</td>
       <td>國家</td>
     </tr>
     <tr>
-      <td>MailingPostalCode</td>
+      <td>郵遞區號</td>
       <td>郵遞區號</td>
     </tr>
     <tr>
@@ -88,7 +89,7 @@ ht-degree: 30%
       <td>州別</td>
     </tr>
     <tr>
-      <td>MailingStreet</td>
+      <td>郵寄街</td>
       <td>地址</td>
     </tr>
     <tr>
@@ -145,12 +146,12 @@ ht-degree: 30%
       <td>帳單州別</td>
     </tr>
     <tr>
-      <td>帳單街</td>
+      <td>帳單街道</td>
       <td>帳單地址</td>
     </tr>
     <tr>
       <td>帳戶說明</td>
-      <td>公司說明</td>
+      <td>公司備註</td>
     </tr>
     <tr>
       <td>產業</td>
@@ -158,7 +159,7 @@ ht-degree: 30%
     </tr>
     <tr>
       <td>已刪除</td>
-      <td>已刪除SFDC</td>
+      <td>SFDC 已刪除</td>
     </tr>
     <tr>
       <td>帳戶名稱</td>
@@ -181,7 +182,7 @@ ht-degree: 30%
       <td>網站</td>
     </tr>
     <tr>
-      <td>帳戶類型</td>
+      <td>帳戶型別</td>
       <td>SFDC 類型</td>
     </tr>
     <tr>
@@ -191,9 +192,9 @@ ht-degree: 30%
   </tbody>
 </table>
 
-## Marketo中的Veva相關系統欄位（唯讀） {#veeva-related-system-fields-in-marketo}
+## Marketo中的Veeva相關系統欄位（唯讀） {#veeva-related-system-fields-in-marketo}
 
-這些欄位是在Marketo中建立，但客戶無法調整。
+這些欄位是在Marketo中建立的，但客戶無法調整。
 
 <table>
   <colgroup>
@@ -212,16 +213,16 @@ ht-degree: 30%
       <td>18個字元的Salesforce Id</td>
     </tr>
     <tr>
-      <td>Veva類型</td>
-      <td>聯繫。 如果空白，銷售機會僅以人員身分存在於Marketo中</td>
+      <td>Veeva型別</td>
+      <td>連絡人。 如果留空，則潛在客戶只會以Marketo中的個人身分存在</td>
     </tr>
     <tr>
-      <td>Veva建立日期</td>
-      <td>在SFDC中建立的日期(可以與在Marketo中建立的日期不同)</td>
+      <td>Veeva建立日期</td>
+      <td>在SFDC中建立的日期(可以與Marketo中建立的日期不同)</td>
     </tr>
     <tr>
-      <td>已刪除Veeva</td>
-      <td>以前在SFDC的人員被刪除，現在只住在Marketo</td>
+      <td>Veeva已刪除</td>
+      <td>此人員之前在SFDC中，但已被刪除，現在僅居住在Marketo中</td>
     </tr>
   </tbody>
 </table>

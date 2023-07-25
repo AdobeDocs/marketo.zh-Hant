@@ -1,15 +1,16 @@
 ---
-description: Sales Insight Actions支援哪些瀏覽器？ - Marketo檔案 — 產品檔案
-title: Sales Insight Actions支援哪些瀏覽器？
+description: Sales Insight動作支援哪些瀏覽器？ - Marketo檔案 — 產品檔案
+title: Sales Insight動作支援哪些瀏覽器？
 exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
-source-git-commit: e4bd83abfeba54a777548926799f541b7b798ae5
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
-# Sales Insight Actions支援哪些瀏覽器？ {#which-browsers-does-sales-insight-actions-support}
+# Sales Insight動作支援哪些瀏覽器？ {#which-browsers-does-sales-insight-actions-support}
 
 Marketo Sales Insight Actions目前支援下列瀏覽器。
 
@@ -38,4 +39,4 @@ Marketo Sales Insight Actions目前支援下列瀏覽器。
  </tbody> 
 </table>
 
-為了獲得最佳體驗， **保持瀏覽器更新**!
+為獲得最佳體驗， **保持瀏覽器更新**！

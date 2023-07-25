@@ -3,7 +3,8 @@ unique-page-id: 10099680
 description: 匯入自訂物件資料 — Marketo檔案 — 產品檔案
 title: 匯入自訂物件資料
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%

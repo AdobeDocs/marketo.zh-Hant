@@ -1,24 +1,25 @@
 ---
 unique-page-id: 1147112
-description: 了解標籤 — Marketo檔案 — 產品檔案
-title: 了解標籤
+description: 瞭解標籤 — Marketo檔案 — 產品檔案
+title: 瞭解標籤
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-# 了解標籤 {#understanding-tags}
+# 瞭解標籤 {#understanding-tags}
 
-你大概已經知道，程式就像Marketo的基礎。 利用標籤和管道有助於您篩選資料以用於報告用途。
+您現在可能知道程式就像Marketo中的建置組塊。 利用標籤和管道可協助您篩選資料以用於報表用途。
 
-標籤用於描述程式。 您可以視需要盡量多，每個都具有唯一值。 管道可識別方案中的傳遞機制，例如網路研討會、贊助或線上廣告。
+標籤是用來說明程式。 您可以視需要製作多個元件，每個元件都有唯一值。 管道可識別方案中的傳送機制，例如網路研討會、贊助或線上廣告。
 
-## 標籤類型 {#tag-type}
+## 標籤型別 {#tag-type}
 
-標籤類型可識別您要排序的資訊類型。
+標籤型別會識別您要作為排序依據的資訊型別。
 
 >[!TIP]
 >
@@ -28,14 +29,13 @@ ht-degree: 0%
 >
 >**範例**
 >
->* 標籤類型=方案擁有者
-
+>* 標籤型別=方案所有者
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 
 ## 標籤值 {#tag-value}
 
-每個標籤類型都有值可供選擇。
+每個標籤型別都有可供選擇的值。
 
 >[!NOTE]
 >
@@ -43,26 +43,23 @@ ht-degree: 0%
 >
 >* 標籤值= Anna、Arun、Reza
 
-
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
 ## 管道 {#channel}
 
-管道可用來報告 [成員](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) 在程式中移動。 每個管道都有一組進展狀態，一個狀態設為等於成功。
+管道用於報告您的 [成員](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) 已移動至您的程式。 每個管道都有一組進度狀態，以及一個設定為等於成功的狀態。
 
 >[!NOTE]
 >
 >**範例**
 >
 >* 頻道=路演
->* 晉升狀態=邀請、註冊、參加、無節目
+>* 進度狀態=已邀請、已註冊、已出席、未顯示
 >* 成功=已出席
-
 
 ![](assets/image2015-2-5-16-3a57-3a59.png)
 
 >[!MORELIKETHIS]
 >
 >* [建立自訂標籤](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
->* [建立方案管道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
-
+>* [建立方案頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)

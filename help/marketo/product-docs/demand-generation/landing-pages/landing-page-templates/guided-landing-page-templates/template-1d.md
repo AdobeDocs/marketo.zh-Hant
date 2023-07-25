@@ -1,18 +1,19 @@
 ---
 unique-page-id: 7516002
 description: 範本1D - Marketo檔案 — 產品檔案
-title: 模板1D
+title: 範本1D
 exl-id: ae46a81e-fd40-459c-937e-cdc58add7838
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# 模板1D {#template-1d}
+# 範本1D {#template-1d}
 
-按一下右鍵以 [下載模板1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
+按一下滑鼠右鍵以 [下載範本1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
 
 ![](assets/image2015-5-28-13-3a36-3a44.png)
 
@@ -20,11 +21,11 @@ ht-degree: 0%
 
 * 主要區段
 
-   * 包含民調問答、標題、內文及按鈕。
+   * 包括投票、標題、內文和按鈕。
 
-* 三個內文部分（可選）
-* 頁尾（選用）
+* 三個主體區段（選擇性）
+* 頁尾（選擇性）
 
-**按一下右鍵以下載此模板：**
+**在下方按一下滑鼠右鍵以下載此範本：**
 
 [Template1 1D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)

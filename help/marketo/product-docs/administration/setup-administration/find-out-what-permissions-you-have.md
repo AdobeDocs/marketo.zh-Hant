@@ -3,7 +3,8 @@ unique-page-id: 2359898
 description: 瞭解您擁有哪些許可權 — Marketo檔案 — 產品檔案
 title: 瞭解您擁有哪些許可權
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Administration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%

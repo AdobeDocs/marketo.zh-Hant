@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359426
-description: 更新人員資料 — Marketo文檔 — 產品文檔
+description: 更新人員資料 — Marketo檔案 — 產品檔案
 title: 更新人員資料
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -12,54 +13,53 @@ ht-degree: 0%
 
 # 更新人員資料 {#update-person-data}
 
-## 任務：更新人員的聯繫資訊或其他資料 {#mission-update-a-persons-contact-info-or-other-data}
+## 任務：更新個人的聯絡資訊或其他資料 {#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
->* [設定並添加人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
->* [導入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
+>* [完成設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [匯入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
+假設在您最近的商展上，有人提供您一些額外的聯絡資訊。 以下說明如何更新人員資料。
 
-讓我們想像一下，在您最近的貿易展上，有人給您提供了一些額外的聯繫資訊。 下面是如何更新人員資料。
+## 尋找您需要更新的人員 {#find-the-person-you-need-to-update}
 
-## 查找需要更新的人 {#find-the-person-you-need-to-update}
-
-1. 轉到 **[!UICONTROL 資料庫]**。
+1. 前往您的 **[!UICONTROL 資料庫]**.
 
    ![](assets/update-person-data-1.png)
 
-1. 搜索人員的姓名或電子郵件地址。
+1. 搜尋人員名稱或電子郵件地址。
 
    >[!TIP]
    >
-   >使用電子郵件地址進行搜索將加快搜索速度。
+   >使用電子郵件地址進行搜尋可加快搜尋速度。
 
    ![](assets/update-person-data-2.png)
 
-1. 按兩下以開啟人員詳細資訊。
+1. 連按兩下以開啟人員詳細資料。
 
    ![](assets/update-person-data-3.png)
 
    >[!TIP]
    >
-   >在Marketo有很多方法來更新人員資料。 請參閱 [導入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}。
+   >有許多方式可更新Marketo中的人員資料。 另請參閱 [匯入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
 ## 更新人員資料 {#update-the-person-data}
 
-1. 鍵入您收到的新資訊，然後關閉頁籤。
+1. 輸入您收到的新資訊，然後關閉標籤。
 
 ![](assets/update-person-data-4.png)
 
 >[!NOTE]
 >
->更改資料後，智慧清單和智慧市場活動將立即識別新資訊。
+>變更資料後，「智慧列示」和「智慧行銷活動」會立即識別新資訊。
 
 ## 任務完成 {#mission-complete}
 
-幹得好！ 您已更新了個人資料。
+做得好！ 您已更新個人資料。
 
 <br> 
 
-[◄任務8:通知銷售代表](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[◄任務8：提醒銷售代表](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
-[任務10:重定向登錄頁►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
+[任務10：重新導向登陸頁面►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)

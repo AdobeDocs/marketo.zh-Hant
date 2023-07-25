@@ -3,7 +3,8 @@ unique-page-id: 2360185
 description: 變更您的密碼安全性設定 — Marketo檔案 — 產品檔案
 title: 變更您的密碼安全性設定
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Administration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%

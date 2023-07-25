@@ -3,7 +3,8 @@ unique-page-id: 5472615
 description: 瞭解系統管理的欄位 — Marketo檔案 — 產品檔案
 title: 瞭解系統管理的欄位
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 8%
@@ -30,7 +31,7 @@ ht-degree: 8%
 | 推斷的城市 | Marketo對個人城市的最佳猜測（根據IP） |
 | 推斷的州別區域 | Marketo對個人所在州或地區的最佳猜測（根據IP） |
 | 推斷的郵遞區號 | Marketo對個人郵遞區號的最佳猜測（根據IP） |
-| 推斷的國家/地區 | Marketo對個人所在國家/地區的最佳猜測（根據IP） |
+| 推斷的國家 | Marketo對個人所在國家/地區的最佳猜測（根據IP） |
 | 推斷的大都會區 | Marketo對人員大都會區域的最佳猜測（根據IP） |
 | 推斷的電話區碼 | Marketo對人員區碼的最佳猜測（根據IP） |
 

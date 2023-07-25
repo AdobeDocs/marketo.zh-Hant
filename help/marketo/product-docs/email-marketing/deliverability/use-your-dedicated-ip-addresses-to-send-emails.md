@@ -1,44 +1,45 @@
 ---
 unique-page-id: 1900587
-description: 使用您的專屬IP位址來傳送電子郵件 — Marketo檔案 — 產品檔案
-title: 使用您的專用IP位址來傳送電子郵件
+description: 使用您的專用IP位址傳送電子郵件 — Marketo檔案 — 產品檔案
+title: 使用您的專用IP位址傳送電子郵件
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Deliverability
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
 
 ---
 
-# 使用您的專用IP位址來傳送電子郵件 {#use-your-dedicated-ip-addresses-to-send-emails}
+# 使用您的專用IP位址傳送電子郵件 {#use-your-dedicated-ip-addresses-to-send-emails}
 
 從一或多個專用IP傳送可讓您完全控制傳送信譽。
 
 >[!AVAILABILITY]
 >
->專用IP是附加產品。 並非所有人都有資格將專屬IP新增至其程式。 您每月需要傳送超過100,000封電子郵件，並擁有穩定的行銷活動頻度，才能維護專屬的IP。 請洽詢Adobe客戶團隊（您的客戶經理），以取得如何將專用IP新增至Marketo計畫的詳細資訊。
+>專用IP是附加產品。 不是每個人都有資格將專用IP新增到他們的計畫。 您需要每月傳送超過100,000封電子郵件，並擁有穩定的行銷活動步調以維護專用IP。 請洽詢Adobe客戶團隊（您的客戶經理），以取得有關如何將專用IP新增到您的Marketo計畫的詳細資訊。
 >
->如果您每月傳送少於100,000封電子郵件，且/或促銷活動量可變，且/或是季節性寄件者，您將無法維護專用的IP。 Marketo會為遵循嚴格最佳實務的客戶維持個別的受信任IP共用池。 如果有興趣，請填 [這份問卷](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) 以套用至Marketo的受信任IP程式。
+>如果您每月傳送的電子郵件少於100,000封，和/或您有可變的行銷活動量，和/或您是季節性傳送者，您將無法維護專用的IP。 Marketo確實會為遵守嚴格最佳實務的客戶維護一個單獨的信任IP共用集區。 如有興趣，請填寫 [此問卷](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) 以套用至Marketo的受信任IP程式。
 
-所有Marketo帳戶都會從共用IP開始，讓您能夠立即開始寄送郵件。 如果您新增專用IP，您將與傳遞顧問合作，排程IP布建。
+所有Marketo帳戶都從共用IP開始，讓您能夠立即開始郵寄。 如果您新增專用IP，將會與傳遞顧問合作，以排程IP的布建。
 
-專屬的傳遞能力顧問提供：
+專職傳遞顧問提供：
 
-* IP熱身的指導和咨詢
-* 為新專用IP加上品牌標籤所需的DNS項目
-* 專用IP的設定與啟用
-* 熱身階段的簽入以支援您的成功
+* IP熱身訓練和諮詢
+* 品牌化新的專用IP所需的DNS專案
+* 設定和啟用專用IP
+* 在熱身階段進行簽入，以支援您的成功
 
-## 專用IP斜坡上升 {#dedicated-ip-ramp-up}
+## 專用IP提升 {#dedicated-ip-ramp-up}
 
-為了最大限度地提高長期傳遞能力，傳遞能力顧問提供自訂建議，以緩慢提高您專用IP上的電子郵件促銷活動量。 我們稱之為「預熱您的IP」。 它開始冷，發郵件使它變暖。 傳送大量電子郵件的冷IP通常會發現其傳送速度已限制，且通常會分類為垃圾訊息。
+為了最大化長期傳遞能力，傳遞能力顧問會提供自訂建議，以緩慢增加您專用IP上的電子郵件行銷活動量。 我們稱之為「熱備您的IP」。 它會開始變冷，而傳送郵件會使其變熱。 傳送大量電子郵件的冷IP經常會看到其傳送速度受到限制，通常歸類為垃圾郵件。
 
-**重要**:通常每月會維持一致的電子郵件數量。 這有助於建立聲譽和傳遞能力的模式。 即使是在「溫暖」的IP上，電子郵件數量的大幅增加或減少也可能導致電子郵件提供者以可疑的方式查看電子郵件。
+**重要**：通常維持每月電子郵件數量的一致性。 這有助於建立信譽和傳遞能力的模式。 電子郵件數量大幅增加或減少，即使在「熱門」IP上，也可能導致電子郵件提供者以懷疑的眼光檢視電子郵件。
 
 >[!TIP]
 >
->保持資料庫乾淨，保持高傳遞能力。 [Adobe需要](https://www.adobe.com/legal/terms/aup.html) 客戶只會傳送行銷通訊給選擇加入/請求接收電子郵件的人。 不要垃圾郵件。
+>保持資料庫整潔，以保持高傳遞率。 [Adobe需要](https://www.adobe.com/legal/terms/aup.html) 客戶只傳送行銷通訊給選擇加入/要求接收電子郵件的人。 不要垃圾訊息。
 
 >[!CAUTION]
 >
->如果您看到跳出次數很多，或有任何其他問題，請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support). 如果您想要更專注的支援，以了解如何維護乾淨的資料庫並提高與您計畫的互動，可以邀請Marketo的電子郵件傳遞顧問來購買自訂服務套件。
+>如果您發現大量跳出或任何其他問題，請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support). 如果您想要更集中地獲得支援，以瞭解如何維護乾淨的資料庫及增進與程式的互動，可與Marketo的電子郵件傳遞顧問合作，以取得自訂服務套件。

@@ -2,7 +2,8 @@
 description: 使用全域搜尋 — Marketo檔案 — 產品檔案
 title: 使用全域搜尋
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Modern UX
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
@@ -11,7 +12,7 @@ ht-degree: 3%
 
 # 使用全域搜尋 {#using-the-global-search}
 
-功能強大的全域搜尋功能為您提供了許多選項，對顯示的結果沒有限制。
+強大的全域搜尋為您提供許多選項，對顯示的結果沒有限制。
 
 ## 執行搜尋 {#performing-a-search}
 
@@ -19,23 +20,23 @@ ht-degree: 3%
 
    ![](assets/using-the-global-search-1.png)
 
-1. 輸入以識別資產的文字。
+1. 輸入識別資產的文字。
 
    ![](assets/using-the-global-search-2.png)
 
-1. 搜索結果隨即顯示。 您可以按一下任何要直接帶至該項目的階層連結中的任何位置。
+1. 搜尋結果隨即顯示。 您可以在任何階層連結中按一下任何位置，直接帶到該專案。
 
    ![](assets/using-the-global-search-3.png)
 
-1. 在此範例中，我們選擇直接收到我們要尋找的電子郵件。 按一下電子郵件的名稱。
+1. 在此範例中，我們選擇直接接收我們正在尋找的電子郵件。 按一下電子郵件的名稱。
 
    ![](assets/using-the-global-search-4.png)
 
-您會直接收到所需的電子郵件。
+系統會將您直接帶至所需的電子郵件。
 
 ![](assets/using-the-global-search-5.png)
 
-## 搜索結果頁 {#search-results-page}
+## 搜尋結果頁面 {#search-results-page}
 
 ![](assets/using-the-global-search-6.png)
 
@@ -43,27 +44,27 @@ ht-degree: 3%
  <tbody>
   <tr>
    <td>1</td> 
-   <td>項目/目的地名稱</td> 
+   <td>專案/目的地的名稱</td> 
   </tr>
   <tr>
    <td>2</td> 
-   <td>個別項目/目的地的路徑（階層連結）</td> 
+   <td>對應專案/目的地的路徑（階層連結）</td> 
   </tr>
   <tr>
    <td>3</td> 
-   <td>上次修改項目/目標的日期和時間</td> 
+   <td>上次修改專案/目的地的日期與時間</td> 
   </tr>
   <tr>
    <td>4</td> 
-   <td>建立項目/目標的日期和時間</td> 
+   <td>建立專案/目的地的日期與時間</td> 
   </tr>
   <tr>
    <td>5</td> 
-   <td>實作重點篩選以縮小搜尋結果範圍</td> 
+   <td>實作重點篩選條件以縮小搜尋結果範圍</td> 
   </tr>
  </tbody>
 </table>
 
-**可選步驟**:若要使用篩選功能，只需選取您想要的選項。
+**選擇性步驟**：若要使用篩選功能，只要選取您想要的選項即可。
 
 ![](assets/using-the-global-search-7.png)

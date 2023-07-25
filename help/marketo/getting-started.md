@@ -3,10 +3,11 @@ unique-page-id: 1147226
 description: 快速入門 — Marketo檔案 — 產品檔案
 title: 快速入門
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 12%
+source-wordcount: '133'
+ht-degree: 15%
 
 ---
 
@@ -16,17 +17,17 @@ ht-degree: 12%
 
 你問Marketo Engage是什麼？ 好問題！
 
-[學習Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
+[學習Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
-## 設定 {#get-set-up}
+## 取得設定 {#get-set-up}
 
-在IT團隊的協助下，您可以立即完成。
+有了IT團隊的協助，您便能迅速完成工作。
 
-[開始設定](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
+[開始設定](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
 
-## 快速獲勝 {#get-some-quick-wins}
+## 取得一些快速成功 {#get-some-quick-wins}
 
-完成這些任務以了解Marketo Engage的核心功能。
+完成這些任務以瞭解Marketo Engage的核心功能。
 
 <table style="table-layout:fixed">
 <tr>
@@ -35,7 +36,7 @@ ht-degree: 12%
       <img alt="連接" src="getting-started/assets/getting-started-1.png"/>
     </a>
     <div>
-    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. 設定並新增人員</a>
+    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. 完成設定並新增人員</a>
     </div>
     <br>
   </td>
@@ -52,7 +53,7 @@ ht-degree: 12%
       <img alt="電子郵件" src="getting-started/assets/getting-started-3.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. 具有表單的登陸頁面</a>
+    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. 含有表單的登陸頁面</a>
     </div>
     <br>
   </td>
@@ -61,7 +62,7 @@ ht-degree: 12%
       <img alt="連接" src="getting-started/assets/getting-started-4.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/simple-scoring.md">4. 簡單計分</a>
+    <a href="getting-started/quick-wins/simple-scoring.md">4. 簡單評分</a>
     </div>
     <br>
   </td>
@@ -89,7 +90,7 @@ ht-degree: 12%
       <img alt="連接" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. 滴滴培養</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. 滴漏培養</a>
     </div>
     <br>
   </td>
@@ -106,7 +107,7 @@ ht-degree: 12%
       <img alt="電子郵件" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. 通知銷售代表</a>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. 警示銷售代表</a>
     </div>
     <br>
   </td>
@@ -122,6 +123,6 @@ ht-degree: 12%
 </tr>
 </table>
 
-## 第4步祝賀！ 你已經為國家做好準備了  {#congrats-youre-ready-for-the-nation}
+## 步驟4恭喜！ 您已準備好迎接國家  {#congrats-youre-ready-for-the-nation}
 
-查看 [行銷國家](https://nation.marketo.com){target=&quot;_blank&quot;}
+檢視 [行銷國家](https://nation.marketo.com){target="_blank"}！

@@ -3,7 +3,8 @@ unique-page-id: 11377392
 description: 編輯您的預設品牌定義域 — Marketo檔案 — 產品檔案
 title: 編輯您的預設品牌化網域
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%

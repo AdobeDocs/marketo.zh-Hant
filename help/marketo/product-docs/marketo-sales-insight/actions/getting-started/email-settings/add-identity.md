@@ -2,7 +2,8 @@
 description: 新增身分 — Marketo檔案 — 產品檔案
 title: 新增身分
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%

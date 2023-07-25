@@ -3,7 +3,8 @@ unique-page-id: 4720433
 description: 設定Marketo的通訊協定 — Marketo檔案 — 產品檔案
 title: 設定Marketo的通訊協定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 5a8fe88dec5f2bf9c94c0a08a5515b87bc6dcaa9
+feature: Getting Started
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '1024'
 ht-degree: 3%

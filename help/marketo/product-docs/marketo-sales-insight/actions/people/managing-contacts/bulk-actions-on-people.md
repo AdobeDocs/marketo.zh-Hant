@@ -1,8 +1,9 @@
 ---
-description: People上的大量動作 — Marketo檔案 — 產品檔案
+description: 對人員的大量動作 — Marketo檔案 — 產品檔案
 title: 對人員執行大量動作
 exl-id: fcd89688-6905-4714-9254-42873eca8428
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 2%
@@ -11,42 +12,42 @@ ht-degree: 2%
 
 # 對人員執行大量動作 {#bulk-actions-on-people}
 
-您可以大量處理您的聯絡人，以節省時間。
+您可以對連絡人大量執行一些動作，以節省時間。
 
-所有可用批量操作的第一步是選擇兩個或更多個接觸點，然後按一下資料（三個垂直點）。
+所有可用大量動作的第一個步驟是選取兩個或多個接觸點，然後按一下圓點（三個垂直點）。
 
 ![](assets/bulk-actions-on-people-1.png)
 
-## 添加人員到組 {#add-people-to-group}
+## 新增人員至群組 {#add-people-to-group}
 
-同時新增多個人至群組。
+將多個人員同時新增至群組。
 
 ![](assets/bulk-actions-on-people-2.png)
 
 ## 來源 {#source}
 
-我們自動為進入資料庫的每個聯繫人分配一個源。 使用此步驟更新該源。
+我們會自動為進入資料庫的每個連絡人指定來源。 使用此步驟來更新該來源。
 
 ![](assets/bulk-actions-on-people-3.png)
 
 >[!NOTE]
 >
->無法自定義源。
+>來源無法自訂。
 
-## 授權 {#authorization}
+## Authorization {#authorization}
 
-符合 [GDPR](https://eugdpr.org/)，請使用授權來指明您如何獲得與這些聯繫人接洽的權限。
+符合 [GDPR](https://eugdpr.org/)，使用授權來指示您是如何獲得與這些連絡人互動的許可權的。
 
 ![](assets/bulk-actions-on-people-4.png)
 
 ## 取消訂閱 {#unsubscribe}
 
-對不想再從您接收通信的聯繫人執行批量取消訂閱。
+對不想再收到您信函的連絡人執行大量取消訂閱。
 
 ![](assets/bulk-actions-on-people-5.png)
 
 ## 刪除 {#delete}
 
-大量刪除聯繫人。 可找到完整步驟 [此處](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md).
+大量刪除連絡人。 完整的步驟可找到 [此處](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md).
 
 ![](assets/bulk-actions-on-people-6.png)

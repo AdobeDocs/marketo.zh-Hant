@@ -3,7 +3,8 @@ unique-page-id: 2360222
 description: 啟用通訊限制 — Marketo檔案 — 產品檔案
 title: 啟用通訊限制
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%

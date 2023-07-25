@@ -1,34 +1,35 @@
 ---
 unique-page-id: 2360389
-description: 在Revenue Explorer和Analyzers - Marketo檔案 — 產品檔案中提供不含期間成本的計畫
-title: 在「收入總管」和「分析器」中設定不含期間成本的程式
+description: 在Revenue Explorer和Analyser - Marketo檔案 — 產品檔案中提供無期間成本的計畫
+title: 使沒有期間成本的程式可在「收入總管」與「分析程式」中使用
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
-# 在「收入總管」和「分析器」中設定不含期間成本的程式 {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
+# 使沒有期間成本的程式可在「收入總管」與「分析程式」中使用 {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-方案期間成本允許您定義方案的「金額」和「時間」。 這會顯示在「收入週期總管」和 [分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
-
->[!NOTE]
->
->**需要管理權限**
-
-即使沒有期限費用，也可能需要包括某些計畫。 雖然您可以為期間成本輸入0，但我們使納入這些計畫更為容易。
+計畫期間成本可讓您定義計畫的「金額」和「時間」。 這會顯示在Revenue Cycle Explorer和 [分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
->程式分析器分段程式按期間成本成本成功。 如果沒有可用的期間成本，無論方案的分析行為為何，都不會顯示方案成功。 如果已設定分析行為，則會顯示機會量度（管道機會、贏取收入等）的資料。
+>**需要管理員許可權**
 
-1. 在「管理員」區段下，按一下 **標籤**.
+某些計畫即使沒有期間成本，也可能需要包括在內。 雖然您可以輸入0作為期間成本，但我們已讓納入這些計畫變得更容易。
+
+>[!NOTE]
+>
+>計劃分析程式會依期間成本儲存計畫成功。 如果沒有可用的期間成本，無論方案的分析行為為何，都不會顯示方案成功。 如果設定分析行為，將顯示機會量度的資料（管道機會、贏取收入等）。
+
+1. 在管理員區段底下，按一下 **標籤**.
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 
-1. 展開「管道」，然後連按兩下您選取的管道。
+1. 展開您的頻道，然後按兩下您選擇的頻道。
 
    >[!NOTE]
    >
@@ -36,15 +37,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
-1. 將Analytics行為變更為「包含」，然後按一下 **儲存**.
+1. 將Analytics行為變更為包含，然後按一下 **儲存**.
 
    ![](assets/image2014-9-17-12-3a36-3a13.png)
 
 >[!TIP]
 >
->您注意到「操作」選項了嗎？ 這恰恰相反。 它不包括這些方案，而不考慮期間費用。
+>您注意到操作選項嗎？ 這個方法則相反。 無論期間成本為何，都會排除這些程式。
 
-幹得好！ 現在，使用已修改管道的任何程式都會包含在收入總管和分析器中，而不需要期間成本。
+做得好！ 現在，任何使用修改後管道的方案都將包含在收入總管和分析器中，不需要期間成本。
 
 >[!MORELIKETHIS]
 >

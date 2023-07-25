@@ -1,32 +1,33 @@
 ---
 unique-page-id: 1900556
-description: 建立僅文字的電子郵件 — Marketo檔案 — 產品檔案
-title: 建立僅文字的電子郵件
+description: 建立純文字電子郵件 — Marketo檔案 — 產品檔案
+title: 建立僅限文字的電子郵件
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
-# 建立僅文字的電子郵件 {#create-a-text-only-email}
+# 建立僅限文字的電子郵件 {#create-a-text-only-email}
 
-如果您只想傳送簡訊電子郵件，以下說明如何建立電子郵件，而不需要任何HTML內容。
+如果您只想傳送文字電子郵件，以下說明如何建立無任何HTML內容的電子郵件。
 
 >[!NOTE]
 >
->由於開啟是由下載電子郵件影像的收件者追蹤（包含不可見的追蹤像素），因此開啟是 **not** 可追蹤「僅文字」電子郵件。
+>由於開啟次數是由下載電子郵件影像（包括不可見的追蹤畫素）的收件者所追蹤，因此開啟次數會是 **not** 能夠針對「僅限文字」電子郵件進行追蹤。
 
-1. 前往 **行銷活動** 的上界。
+1. 前往 **行銷活動** 區域。
 
    ![](assets/one-1.png)
 
-1. 選取您的方案，按一下 **新增** 下拉式清單並選取 **新本機資產**.
+1. 選取您的程式，按一下 **新增** 下拉式清單並選取 **新增本機資產**.
 
    ![](assets/two-1.png)
 
-1. 選擇 **電子郵件**.
+1. 選取 **電子郵件**.
 
    ![](assets/three-1.png)
 
@@ -38,32 +39,32 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 檢查 **僅文字** 按一下 **儲存**.
+1. Check **僅限文字** 並按一下 **儲存**.
 
    ![](assets/six.png)
 
    >[!CAUTION]
    >
-   >系統不會在僅文字電子郵件中自動追蹤連結。 了解如何 [將追蹤的連結新增至文字電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >純文字電子郵件不會自動追蹤連結。 瞭解如何 [將追蹤連結新增至文字電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
-   >您也可以編輯現有的電子郵件並變更此設定。 別忘了批准草案。
+   >您也可以編輯現有電子郵件並變更此設定。 別忘了核准草稿。
 
-1. 取消核取 **自動從HTML複製** 核取方塊。
+1. 取消勾選 **自動從HTML複製** 核取方塊。
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >新增至電子郵件HTML區段的任何內容在傳送時會遭到忽略。
+   >在電子郵件傳送時，新增至HTML區段的任何內容都將被忽略。
 
-1. 按兩下文字區域。
+1. 連按兩下文字區域。
 
    ![](assets/eight.png)
 
-1. 編輯您的文字並按一下 **儲存**.
+1. 編輯文字並按一下 **儲存**.
 
    ![](assets/nine.png)
 
-這樣簡單。
+這麼簡單。

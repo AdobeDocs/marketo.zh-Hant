@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2360227
-description: 篩選Campaign電子郵件報表中的資產 — Marketo檔案 — 產品檔案
+description: 在Campaign電子郵件報告中篩選資產 — Marketo檔案 — 產品檔案
 title: 篩選行銷活動電子郵件報表中的資產
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -12,9 +13,9 @@ ht-degree: 0%
 
 # 篩選行銷活動電子郵件報表中的資產 {#filter-assets-in-a-campaign-email-reports}
 
-聚焦 [促銷活動電子郵件績效](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) 具體報告 [智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) 或已封存的方案（「本機資產」）中。
+聚焦您的 [行銷活動電子郵件績效](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) 特定報告 [智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) 在您的計畫（「本機資產」）或已封存的計畫中。
 
-1. 前往 **Analytics** (或 **行銷活動**)區域。
+1. 前往 **分析** (或 **行銷活動**)區域。
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -22,26 +23,26 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. 按一下 **設定** 標籤，然後拖曳至篩選器。
+1. 按一下 **設定** 定位並拖曳至篩選器上。
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
-   * **行銷活動**:Marketo帳戶中有效的智慧型行銷活動。
-   * **封存的行銷活動**:非使用中、已淘汰的智慧型促銷活動。
+   * **行銷活動**：在您的Marketo帳戶中使用中的作用中智慧型行銷活動。
+   * **已封存的行銷活動**：非作用中、已淘汰的智慧行銷活動。
 
-1. 選擇要包含在報表中的資料夾和特定智慧型促銷活動。
+1. 選擇要包含在報表中的資料夾和特定智慧行銷活動。
 
    ![](assets/image2014-9-16-15-3a57-3a38.png)
 
    >[!TIP]
    >
-   >如果您選取資料夾，報表會包含報表執行時資料夾包含的所有內容。
+   >如果您選取資料夾，您的報告將包含報告執行時資料夾包含的所有內容。
 
-1. 你完了！ 按一下 **報表** 標籤來檢視您的篩選報表。
+1. 您已完成！ 按一下 **報告** 索引標籤以檢視篩選後的報表。
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 
    >[!MORELIKETHIS]
    >
-   >[促銷活動電子郵件績效報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+   >[行銷活動電子郵件效能報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
    >[篩選電子郵件報表中的資產](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

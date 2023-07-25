@@ -1,37 +1,37 @@
 ---
-description: 方案成員自訂欄位同步 — Marketo檔案 — 產品檔案
-title: 程式成員自定義欄位同步
+description: 程式成員自訂欄位同步 — Marketo檔案 — 產品檔案
+title: 程式成員自訂欄位同步
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 4%
+source-wordcount: '355'
+ht-degree: 5%
 
 ---
 
-# 程式成員自定義欄位同步 {#program-member-custom-field-sync}
+# 程式成員自訂欄位同步 {#program-member-custom-field-sync}
 
 >[!PREREQUISITES]
 >
->* 建立 [方案成員自定義欄位](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target=&quot;_blank&quot;}
->* [將Salesforce促銷活動與方案同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target=&quot;_blank&quot;}
-
+>* 建立 [計畫成員自訂欄位](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
+>* [將Salesforce行銷活動與程式同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
->程式成員對象最多可以有20個自定義欄位。 這些欄位可供任何方案使用。
+>程式成員物件最多可以有20個自訂欄位。 這些欄位適用於任何計畫。
 
-## 將Salesforce欄位映射到程式成員自定義欄位 {#map-salesforce-fields-to-program-member-custom-fields}
+## 將Salesforce欄位對應到方案成員自訂欄位 {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. 在Marketo中，按一下 **管理**.
+1. 在Marketo中，按一下 **管理員**.
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. 按一下 **Salesforce**，然後按一下 **編輯** 「程式成員自定義欄位同步」旁邊。
+1. 按一下 **Salesforce**，然後按一下 **編輯** 「程式成員自訂欄位同步」旁邊。
 
    ![](assets/program-member-custom-field-sync-2.png)
 
-1. 使用搜索框查找要映射的Salesforce欄位。 在此範例中，我們使用Do Not Call。
+1. 使用搜尋方塊來找出您要對應的Salesforce欄位。 在此範例中，我們使用Do Not Call。
 
    ![](assets/program-member-custom-field-sync-3.png)
 
@@ -39,37 +39,37 @@ ht-degree: 4%
 
    ![](assets/program-member-custom-field-sync-4.png)
 
-1. 選擇要映射的Marketo計畫成員自定義欄位。
+1. 選擇要對應的Marketo程式成員自訂欄位。
 
    ![](assets/program-member-custom-field-sync-5.png)
 
    >[!NOTE]
    >
-   >下拉式清單只會顯示符合Salesforce欄位資料類型的方案成員自訂欄位。
+   >下拉式清單只會顯示符合Salesforce欄位資料型別的方案成員自訂欄位。
 
-1. 對於其他欄位映射，請清除搜索框並重複步驟3到5。
+1. 如需其他欄位對應，請清除搜尋方塊並重複步驟3到5。
 
-1. 按一下 **儲存** 時才能使用。
+1. 按一下 **儲存** 完成時。
 
    ![](assets/program-member-custom-field-sync-6.png)
 
    >[!IMPORTANT]
    >
-   >日後，Marketo和Salesforce之間將同步對已對應欄位上方案成員資料的變更。
+   >對對應欄位上的計畫成員資料所做的變更，日後將會在Marketo和Salesforce之間同步。
 
    >[!NOTE]
    >
-   >如果更名或更改Salesforce中欄位的資料類型，我們將刪除該欄位與方案成員自定義欄位的映射。 但在審核後，您可以用新欄位重新映射它。
+   >如果您在Salesforce中重新命名或變更欄位的資料型別，我們將移除該欄位與方案成員自訂欄位的任何對應。 但您可以在檢閱後使用新欄位重新對應。
 
-## 從程式成員自定義欄位中取消映射Salesforce欄位 {#unmap-salesforce-fields-from-program-member-custom-fields}
+## 從方案成員自訂欄位取消對應Salesforce欄位 {#unmap-salesforce-fields-from-program-member-custom-fields}
 
-如果您想要釋放欄位以取代該欄位，或只是進行一般變更，您必須先執行取消對應。 這是方法。
+如果您想釋放欄位來取代它，或只是進行一般變更，則必須先執行取消對應。 方法如下。
 
-1. 在Marketo中，按一下 **管理**.
+1. 在Marketo中，按一下 **管理員**.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. 按一下 **Salesforce**，然後按一下 **編輯** 「程式成員自定義欄位同步」旁邊。
+1. 按一下 **Salesforce**，然後按一下 **編輯** 「程式成員自訂欄位同步」旁邊。
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,17 +79,17 @@ ht-degree: 4%
 
    >[!TIP]
    >
-   >您可以選取 **已映射** 核取方塊，僅查看已對應欄位。
+   >您可以選取 **已對應** 核取方塊以只檢視對應的欄位。
 
 1. 按一下 **X** 欄位旁邊。
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. 現在已移除對應。 按一下 **儲存**.
+1. 對應現已移除。 按一下 **儲存**.
 
    ![](assets/program-member-custom-field-sync-11.png)
 
-## 資料類型對應 {#data-type-mapping}
+## 資料型別對應 {#data-type-mapping}
 
 <table>
   <colgroup>
@@ -98,19 +98,19 @@ ht-degree: 4%
   </colgroup>
   <tbody>
     <tr>
-      <th>SFDC資料類型</th>
-      <th>程式成員自定義欄位資料類型</th>
+      <th>SFDC資料型別</th>
+      <th>程式成員自訂欄位資料型別</th>
     </tr>
     <tr>
       <td>文字</td>
       <td>字串</td>
     </tr>
     <tr>
-      <td>選擇清單</td>
+      <td>挑選清單</td>
       <td>字串</td>
     </tr>
     <tr>
-      <td>多選選擇清單</td>
+      <td>多選挑選清單</td>
       <td>字串</td>
     </tr>
     <tr>
@@ -122,11 +122,11 @@ ht-degree: 4%
       <td>字串</td>
     </tr>
     <tr>
-      <td>數(m)</td>
+      <td>數字(m)</td>
       <td>整數</td>
     </tr>
     <tr>
-      <td>數(m,n)</td>
+      <td>數字(m，n)</td>
       <td>浮點數</td>
     </tr>
     <tr>
@@ -146,7 +146,7 @@ ht-degree: 4%
       <td>日期時間</td>
     </tr>
     <tr>
-      <td>查閱（參考）</td>
+      <td>查詢（參考）</td>
       <td>字串</td>
     </tr>
     <tr>
@@ -158,7 +158,6 @@ ht-degree: 4%
 
 >[!MORELIKETHIS]
 >
->* [更改計畫成員資料](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target=&quot;_blank&quot;}
->* [在方案成員網格上查看資料](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target=&quot;_blank&quot;}
->* [SFDC同步 — 促銷活動同步](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target=&quot;_blank&quot;}
-
+>* [變更方案成員資料](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
+>* [在方案成員網格上檢視資料](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
+>* [SFDC同步 — Campaign同步](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

@@ -1,28 +1,29 @@
 ---
 unique-page-id: 1147120
-description: 從試算表匯入成員至方案 — Marketo檔案 — 產品檔案
-title: 將電子錶格中的成員導入程式
+description: 從試算表匯入成員至程式 — Marketo檔案 — 產品檔案
+title: 從試算表匯入成員至程式
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# 將電子錶格中的成員導入程式 {#import-members-from-a-spreadsheet-into-a-program}
+# 從試算表匯入成員至程式 {#import-members-from-a-spreadsheet-into-a-program}
 
-您可以匯入自動成為方案成員的人員清單。 這是該做什麼。
+您可以匯入自動成為計畫成員的人員清單。 以下說明該做什麼。
 
-## 準備CSV檔案 {#prepare-your-csv-file}
+## 準備您的CSV檔案 {#prepare-your-csv-file}
 
-1. 在Excel中建立標準CSV檔案，如下列範例。
+1. 在Excel中建立標準CSV檔案，如下例所示。
 
    ![](assets/image2014-9-18-14-3a33-3a4.png)
 
    >[!CAUTION]
    >
-   >將日期匯入日期欄位時，請使用此格式：9/29/13（月/日/年）。
+   >將日期匯入日期欄位時，請使用此格式： 9/29/13 （月/日/年）。
 
 ## 將您的CSV匯入Marketo {#import-your-csv-into-marketo}
 
@@ -30,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. 按一下 **導入成員**.
+1. 按一下 **匯入成員**.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. 選取CSV，然後按一下 **下一個**.
+1. 選取CSV並按一下 **下一個**.
 
    ![](assets/importlist1.png)
 
@@ -44,9 +45,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果有任何欄位不想匯入，請選取 **忽略** 在「Marketo欄位」下拉式功能表中。
+   >如果有任何您不想匯入的欄位，請選取 **忽略** 「Marketo欄位」下拉式功能表中的。
 
-1. 選取 **成員狀態** 來取得。
+1. 選取 **成員狀態** 以取得您的清單。
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
@@ -64,4 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[管理和查看成員](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
+>[管理和檢視成員](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)

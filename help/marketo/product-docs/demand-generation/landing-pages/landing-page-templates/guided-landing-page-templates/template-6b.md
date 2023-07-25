@@ -1,18 +1,19 @@
 ---
 unique-page-id: 8783929
 description: 範本6B - Marketo檔案 — 產品檔案
-title: 模板6B
+title: 範本6B
 exl-id: dea92a6b-d2ba-4b64-86e5-5a4366e164fd
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# 模板6B {#template-6b}
+# 範本6B {#template-6b}
 
-按一下右鍵以 [下載範本6B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)
+按一下滑鼠右鍵以 [下載範本6B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)
 
 ![](assets/image2015-7-29-11-3a33-3a2.png)
 
@@ -20,11 +21,11 @@ ht-degree: 0%
 
 * 主要區段
 
-   * 包括主圖形、標題、字幕、正文和按鈕。
+   * 包括主圖表單、標題、副標題、內文和按鈕。
 
-* 四個內文部分（可選）
-* 頁尾（選用）
+* 四個主體區段（選擇性）
+* 頁尾（選擇性）
 
-**按一下右鍵以下載此模板：**
+**在下方按一下滑鼠右鍵以下載此範本：**
 
 [範本6B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)

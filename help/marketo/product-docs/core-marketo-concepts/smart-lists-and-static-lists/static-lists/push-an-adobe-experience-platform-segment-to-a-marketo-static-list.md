@@ -1,31 +1,31 @@
 ---
-description: 推送Adobe Experience Platform區段至Marketo靜態清單 — Marketo檔案 — 產品檔案
-title: 推送Adobe Experience Platform區段至Marketo靜態清單
+description: 將Adobe Experience Platform區段推送至Marketo靜態清單 — Marketo檔案 — 產品檔案
+title: 將Adobe Experience Platform區段推送至Marketo靜態清單
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+feature: Static Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
 
-# 推送Adobe Experience Platform區段至Marketo靜態清單 {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
+# 將Adobe Experience Platform區段推送至Marketo靜態清單 {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
 
-此功能可讓您以靜態清單的形式，將位於Adobe Experience Platform中的區段推送至Marketo。
+此功能可讓您以靜態清單的形式，將Adobe Experience Platform中的區段推送至Marketo。
 
 >[!PREREQUISITES]
 >
->* [編輯API角色](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role) 確保它有 **讀寫人員** 權限（可在「存取API」下拉式清單中找到）。
->* [建立API使用者](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) 在Marketo。
->* 前往 **管理** > **Launchpoint**. 查找剛建立的角色的名稱，然後按一下 **檢視詳細資料**. 複製資訊並儲存於 **用戶端ID** 和 **用戶端密碼**，因為您可能需要它才能執行步驟7。
->* 在Marketo中建立靜態清單，或尋找並選取您已建立的清單。 你需要它的身份證。
-
+>* [編輯API角色](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role) 以確保它具有 **讀寫人員** 許可權（可在「存取API」下拉式清單中找到）。
+>* [建立API使用者](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) 在Marketo中。
+>* 前往 **管理員** > **啟動點**. 尋找您剛建立的角色名稱，然後按一下 **檢視詳細資料**. 複製並儲存資訊於 **使用者端ID** 和 **使用者端密碼**，因為您可在步驟7中使用此功能。
+>* 在Marketo中建立靜態清單，或尋找並選取您已建立的清單。 您需要其ID。
 
 1. 登入 [Adobe Experience Platform](https://experience.adobe.com/).
 
    ![](assets/push-an-adobe-experience-platform-segment-1.png)
 
-1. 按一下網格表徵圖並選擇 **Experience Platform**.
+1. 按一下格點圖示並選取 **Experience Platform**.
 
    ![](assets/push-an-adobe-experience-platform-segment-2.png)
 
@@ -37,36 +37,36 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. 查找Marketo Engage表徵圖，然後按一下 **啟動**.
+1. 找到Marketo Engage圖磚，然後按一下 **啟動**.
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
-1. 按一下 **配置新目標**.
+1. 按一下 **設定新目的地**.
 
    ![](assets/push-an-adobe-experience-platform-segment-6.png)
 
 
-1. 在「帳戶類型」下，選擇「現有帳戶」或「新建帳戶」單選按鈕(在此示例中，我們選擇 **現有帳戶**)。 按一下「選取帳戶」圖示。
+1. 在「帳戶型別」下，選取「現有帳戶」或「新帳戶」選項按鈕(在此範例中，我們選擇 **現有帳戶**)。 按一下選取帳戶圖示。
 
    ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
    >[!NOTE]
    >
-   >如果您選擇「新帳戶」，請前往 **管理** > **蒙奇金** (登入後，它也會是Marketo URL的一部分)。 您應遵循本文頂端的必要條件，擁有的用戶端ID/密碼。
+   >如果您選擇「新帳戶」，您可以前往 **管理員** > **Munchkin** (登入後，它也是您Marketo URL的一部分)。 使用者端ID/密碼：您應遵循本文章頂端的先決條件。
 
-1. 選擇目標帳戶，然後按一下 **選擇**.
+1. 選擇目的地帳戶，然後按一下 **選取**.
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. 輸入目標 **名稱** 和選用的說明。 按一下「人員建立」下拉式清單，選擇「比對現有Marketo人員並在Marketo中建立遺漏的人員」 _或_ 「僅限現有Marketo人員」（在此範例中，我們選擇前者）。 您也必須選擇 **工作區**.
+1. 輸入目的地 **名稱** 和選填的說明。 按一下「人員建立」下拉式清單，然後選擇「比對現有Marketo人員並在Marketo中建立失蹤人員」 _或_ 「僅比對現有Marketo人員」（在此範例中，我們選擇前者）。 您也必須選擇 **Workspace**.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
    >[!NOTE]
    >
-   >如果您選擇「僅符合現有的Marketo人員」，您只需對應電子郵件和/或ECID，即可略過步驟13-16。
+   >如果您選擇「僅符合現有Marketo人員」，則只需對應電子郵件和/或ECID，因此您可以略過步驟13至16。
 
-1. 此區段為選填。 按一下 **建立** 跳。
+1. 此區段為選用。 按一下 **建立** 以略過。
 
    ![](assets/push-an-adobe-experience-platform-segment-10.png)
 
@@ -80,11 +80,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您選擇多個區段，則必須在「區段排程」索引標籤中將每個區段對應至指定的靜態清單。
+   >如果您選擇多個區段，則必須將每個區段對應至「區段排程」標籤中指定的靜態清單。
 
    >[!IMPORTANT]
    >
-   >首次將區段啟動至Marketo目的地後，回填在Marketo目的地啟動前已存在於區段中的設定檔可能需要 **最多24小時**. 日後只要將設定檔新增至區段，就會立即將其新增至Marketo。
+   >首次將區段啟用至Marketo目的地後，可能需要回填在Marketo目的地啟用之前已存在於區段中的設定檔 **長達24小時**. 此後，每當設定檔新增至區段時，都會立即新增至Marketo。
 
 1. 按一下 **新增對應**.
 
@@ -94,19 +94,19 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. 選擇所需的屬性，然後按一下 **選擇**. 在此範例中，我們選擇名字、姓氏和電子郵件地址。
+1. 選擇您需要的屬性，然後按一下 **選取**. 在此範例中，我們會選擇名字、姓氏和電子郵件地址。
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
 
    >[!NOTE]
    >
-   >您可以將屬性從Experience Platform對應至貴組織在Marketo Engage中可存取的任何屬性。 使用 [說明API請求](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target=&quot;_blank&quot;}，以擷取您的組織可存取的屬性欄位。
+   >您可以將屬性從Experience Platform對應至貴組織在Marketo Engage中可以存取的任何屬性。 使用 [說明API要求](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target="_blank"} 以擷取貴組織有權存取的屬性欄位。
 
-1. 按一下對應姓氏和公司名稱 **新增對應** 重複步驟15，選擇 **lastName** 然後 **companyName**.
+1. 按一下「 」，對應姓氏和公司名稱 **新增對應** 再次重複步驟15兩次，選擇 **姓氏** 然後 **companyName**.
 
    ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
-1. 現在該對應電子郵件地址了。 按一下 **新增對應** 。
+1. 現在需要對映電子郵件地址。 按一下 **新增對應** 再來一次。
 
    ![](assets/push-an-adobe-experience-platform-segment-17.png)
 
@@ -114,31 +114,31 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-18.png)
 
-1. 按一下「選擇身份命名空間」單選按鈕，選擇  **電子郵件**，然後按一下 **選擇**.
+1. 按一下選取身分名稱空間選項按鈕，選擇  **電子郵件**，然後按一下 **選取**.
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
    >[!IMPORTANT]
    >
-   >將電子郵件和/或ECID與 **身分命名空間** 標籤是確保人員在Marketo中相符的最重要動作。 對應電子郵件將確保最高的匹配率。
+   >從對應電子郵件和/或ECID **身分名稱空間** tab鍵為確保人員在Marketo中相符而需執行的最重要操作。 對應電子郵件將確保最高符合率。
 
-1. 現在是時候選擇源欄位了。 對於電子郵件，按一下游標表徵圖。
+1. 現在該選擇來源欄位了。 針對電子郵件，按一下游標圖示。
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
 
-1. 按一下「選擇身份命名空間」單選按鈕，查找並選擇 **電子郵件**，然後按一下 **選擇**.
+1. 按一下選取身分名稱空間選項按鈕，尋找並選取 **電子郵件**，然後按一下 **選取**.
 
    ![](assets/push-an-adobe-experience-platform-segment-21.png)
 
-1. 要選擇「公司名稱」源欄位，請按一下其行中的游標表徵圖。
+1. 若要選擇「公司名稱」來源欄位，請按一下其列中的游標圖示。
 
    ![](assets/push-an-adobe-experience-platform-segment-22.png)
 
-1. 保持選中「選擇屬性」單選按鈕。 搜尋「公司」並選取 **companyName**，然後按一下 **選擇**.
+1. 保留「選取屬性」選項按鈕為已核取狀態。 搜尋「company」並選取 **companyName**，然後按一下 **選取**.
 
    ![](assets/push-an-adobe-experience-platform-segment-23.png)
 
-1. 通過按一下每個的游標表徵圖並重複步驟23，選擇 **lastName** 然後 **firstName**.
+1. 按一下每一個的游標圖示並重複執行兩次步驟23，選擇 **姓氏** 然後 **名字**.
 
    ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
@@ -146,6 +146,6 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. 檢閱您的變更，然後按一下 **完成**.
+1. 檢閱變更並按一下 **完成**.
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)

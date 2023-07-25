@@ -1,36 +1,37 @@
 ---
 unique-page-id: 7516241
-description: SFDC同步 — 銷售機會隊列 — Marketo文檔 — 產品文檔
-title: SFDC同步 — 銷售機會隊列
+description: SFDC Sync — 銷售機會佇列 — Marketo檔案 — 產品檔案
+title: SFDC同步 — 潛在客戶佇列
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
-source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-# SFDC同步：銷售機會隊列 {#sfdc-sync-lead-queue}
+# SFDC同步：潛在客戶佇列 {#sfdc-sync-lead-queue}
 
-Marketo可讓您將人員新增至 [Salesforce銷售機會隊列](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) 協助銷售機會分發。 詳情如下。
+Marketo可讓您將人員新增至 [Salesforce潛在客戶佇列](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) 以協助進行銷售機會分銷。 詳情如下。
 
-## 如何在Marketo中將人員指派至佇列？ {#how-to-assign-a-person-to-a-queue-in-marketo}
+## 如何在Marketo中指派人員至佇列？ {#how-to-assign-a-person-to-a-queue-in-marketo}
 
-您可以使用以下任一流程操作將人員分配給Salesforce銷售線索隊列：
+您可以使用下列任一流程作業，將人員指派至Salesforce銷售機會佇列：
 
-* [將人員同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-* [更改所有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+* [將人員同步至SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
+* [變更擁有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
 
 >[!NOTE]
 >
 >您無法在Marketo中建立或變更佇列。
 
-## 如果人員屬於隊列，如何儲存銷售機會所有者資訊？ {#how-is-lead-owner-information-stored-if-the-person-belongs-to-a-queue}
+## 如果人員屬於佇列，如何儲存潛在客戶擁有者資訊？ {#how-is-lead-owner-information-stored-if-the-person-belongs-to-a-queue}
 
-如果銷售線索由Salesforce中的隊列擁有，則這些銷售責任人欄位將保持空白，直到銷售線索被分配給責任人。
+如果銷售機會是由Salesforce中的佇列所擁有，這些銷售擁有者欄位會保留空白，直到銷售機會指派給擁有者為止。
 
 * 銷售負責人名字
-* 銷售責任人姓氏
-* 銷售所有者標題
+* 銷售負責人姓氏
+* 銷售擁有者職稱
 * 銷售負責人電話號碼
-* 銷售所有者電子郵件地址
+* 銷售負責人電子郵件地址

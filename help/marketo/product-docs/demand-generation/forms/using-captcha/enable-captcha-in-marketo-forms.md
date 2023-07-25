@@ -2,7 +2,8 @@
 description: 在Marketo Forms中啟用驗證碼 — Marketo檔案 — 產品檔案
 title: 在Marketo Forms中啟用驗證碼
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
-source-git-commit: 04d6f37f924d14824c69f2c0caba3ef21ff0a124
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -11,21 +12,21 @@ ht-degree: 0%
 
 # 在Marketo Forms中啟用驗證碼 {#enable-captcha-in-marketo-forms}
 
-您可以按表單啟用/停用驗證碼。
+您可以根據每個表單來啟用/停用CAPTCHA。
 
-1. 尋找並選取您想要的表單。
+1. 尋找並選取所需的表單。
 
    ![](assets/enable-captcha-in-marketo-forms-1.png)
 
-1. 按一下 **編輯草稿** （如果表單已獲核准，請按一下「建立草稿」）。
+1. 按一下 **編輯草稿** （如果表單已核准，請按一下「建立草稿」）。
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 
-1. 按一下 **表單設定**，然後 **設定**.
+1. 按一下 **表單設定**，則 **設定**.
 
    ![](assets/enable-captcha-in-marketo-forms-3.png)
 
-1. 開啟驗證碼下拉式清單，然後選取 **已啟用**.
+1. 開啟CAPTCHA下拉式清單並選取 **已啟用**.
 
    ![](assets/enable-captcha-in-marketo-forms-4.png)
 
@@ -37,11 +38,11 @@ ht-degree: 0%
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 
-此清單的變更可能需要幾分鐘才會從Google傳播。
+此清單的變更可能需要幾分鐘的時間才能從Google傳播。
 
 >[!NOTE]
 >
->標準化文字(包括Google隱私權政策和服務條款的連結)將新增至您啟用驗證碼的表單。
+>標準化文字(包括Google隱私權原則和服務條款的連結)將新增至啟用驗證碼的表單。
 
 >[!MORELIKETHIS]
 >

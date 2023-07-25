@@ -3,7 +3,8 @@ unique-page-id: 6848782
 description: 將取消訂閱的訊息設為語言的動態訊息 — Marketo檔案 — 產品檔案
 title: 讓您的取消訂閱訊息成為語言的動態訊息
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '491'
 ht-degree: 1%

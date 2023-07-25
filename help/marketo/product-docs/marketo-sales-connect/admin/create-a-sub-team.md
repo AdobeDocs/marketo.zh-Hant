@@ -3,7 +3,8 @@ unique-page-id: 14352406
 description: 建立子團隊 — Marketo檔案 — 產品檔案
 title: 建立子團隊
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -22,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 在「所有團隊」旁，按一下 **+**.
+1. 在「所有團隊」旁邊，按一下 **+**.
 
    ![](assets/three-1.png)
 
-1. 輸入團隊名稱（和可選說明），然後按一下 **建立**.
+1. 輸入專案團隊名稱（和可選的說明），然後按一下 **建立**.
 
    ![](assets/four-1.png)
 
@@ -34,17 +35,17 @@ ht-degree: 0%
    >
    >您現在可以與該團隊共用範本、行銷活動和群組。
 
-## 將人員添加到子團隊 {#add-people-to-your-sub-team}
+## 新增人員至您的子團隊 {#add-people-to-your-sub-team}
 
-1. 仍在「團隊管理」中，選取 **每個人** 群組。
+1. 仍然在「團隊管理」中，選取 **每個人** 群組。
 
    ![](assets/five-1.png)
 
-1. 找出您要新增至子團隊的使用者，並選取其核取方塊。
+1. 找到您要新增至子團隊的使用者，並選取其核取方塊。
 
    ![](assets/six.png)
 
-1. 按一下 **將選定項添加到團隊**.
+1. 按一下 **將選取的專案新增至團隊**.
 
    ![](assets/seven.png)
 
@@ -52,6 +53,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 按一下 **新增至團隊** 時才能使用。
+1. 按一下 **新增至團隊** 完成時。
 
    ![](assets/nine.png)

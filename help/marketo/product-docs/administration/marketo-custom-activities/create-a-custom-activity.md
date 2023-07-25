@@ -3,7 +3,8 @@ unique-page-id: 10098479
 description: 建立自訂活動 — Marketo檔案 — 產品檔案
 title: 建立自訂活動
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
-source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
+feature: Custom Activities
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 14352412
 description: 新增身分 — Marketo檔案 — 產品檔案
 title: 新增身分
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+feature: Marketo Sales Connect
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%

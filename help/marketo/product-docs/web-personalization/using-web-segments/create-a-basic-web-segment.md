@@ -3,7 +3,8 @@ unique-page-id: 4719344
 description: 建立基本網頁區段 — Marketo檔案 — 產品檔案
 title: 建立基本網頁區段
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 建立基本網頁區段 {#create-a-basic-web-segment}
 
-讓我們建立一個基本區段，鎖定來自美國和金融服務業的所有Web訪客。
+讓我們建立一個基本區段，鎖定來自美國及金融服務業的所有網頁訪客。
 
 1. 前往 **區段**.
 
@@ -26,19 +27,19 @@ ht-degree: 0%
 
    ![](assets/segment-name.png)
 
-1. 拖曳 **位置** 從右側功能表，並將其拖曳至區段編輯器中。
+1. 拖曳 **位置** 從右側功能表拖放至區段編輯器中。
 
    ![](assets/location-drag-hand.jpg)
 
-1. 從下拉式清單中選取要新增的國家。 選取 **美國**.
+1. 從下拉式清單中選取要新增的國家/地區。 選取 **美國**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
    >[!NOTE]
    >
-   >每個區段最多300個城市。
+   >每個區段的城市數量限製為300個。
 
-1. 拖曳 **產業** 從右側功能表，並將其拖曳至區段編輯器中。
+1. 拖曳 **產業** 從右側功能表拖放至區段編輯器中。
 
    ![](assets/industries-hand.jpg)
 
@@ -46,13 +47,13 @@ ht-degree: 0%
 
    ![](assets/segment-industries.png)
 
-   您現在已為所有從美國和金融業訪問您網站的潛在客戶設定基本區段。
+   您現在已為所有來自美國及金融業的潛在客戶建立基本區段。
 
-1. 按一下 **儲存** 儲存區段或 **儲存並定義促銷活動** 前往「促銷活動」頁面。
+1. 按一下 **儲存** 若要儲存區段或 **儲存並定義行銷活動** 前往「行銷活動」頁面。
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-現在您已從美國分段訪客，接著加入金融服務業。
+現在，您已對美國訪客進行分段，接著新增金融服務業。
 
 >[!MORELIKETHIS]
 >

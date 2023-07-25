@@ -3,7 +3,8 @@ unique-page-id: 1147316
 description: 手動建立人員 — Marketo檔案 — 產品檔案
 title: 手動建立人員
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
-source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -12,17 +13,17 @@ ht-degree: 0%
 
 # 手動建立人員 {#create-a-person-manually}
 
-有很多方法可以讓一個人進入Marketo。 如果您需要手動建立，以下說明操作方式。
+有許多方式可讓人員進入Marketo。 如果您需要手動建立，請參閱以下操作說明。
 
 >[!CAUTION]
 >
->Marketo **not** 支援包含emoji的電子郵件地址。
+>Marketo會 **not** 支援包含表情符號的電子郵件地址。
 
 1. 前往 **資料庫**.
 
    ![](assets/db-1.png)
 
-1. 在 **新增**，按一下 **新人員**.
+1. 下 **新增**，按一下 **新人員**.
 
    ![](assets/two-2.png)
 
@@ -30,4 +31,4 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-這是在Marketo中新增單一人員的簡單快速方式！
+這是在Marketo中新增單一人員的快速輕鬆的方法！

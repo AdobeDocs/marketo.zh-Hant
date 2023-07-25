@@ -3,7 +3,8 @@ unique-page-id: 557316
 description: 定義智慧清單篩選器 — Marketo檔案 — 產品檔案
 title: 定義智慧清單篩選器
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
-source-git-commit: 4b1b91a933a7a6d103fe0d44ece9ea95759edc5f
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -15,12 +16,11 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [建立智慧清單](create-a-smart-list.md)
->* [尋找篩選器並新增至智慧清單](find-and-add-filters-to-a-smart-list.md)
+>* [尋找並新增篩選器至智慧清單](find-and-add-filters-to-a-smart-list.md)
 
+現在您已完成 [已建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 和 [已新增篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) 開始使用時，讓我們定義篩選器。 方法如下。
 
-既然你 [建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 和 [新增篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) 我們來定義篩選器。 這是方法。
-
-繼續我們的範例，讓我們定義這些篩選器，以尋找在加州分數超過50的所有人。
+繼續我們的範例，讓我們定義這些篩選器，以尋找評分超過50分的所有加州人。
 
 1. 前往 **行銷活動**.
 
@@ -30,20 +30,20 @@ ht-degree: 0%
 
    ![](assets/smarlist-choosefilters.png)
 
-1. 查找和選擇 **CA** 針對 **狀態** 篩選。
+1. 尋找並選取 **CA** 的 **州** 篩選。
 
    ![](assets/smartlistdefinefilters.png)
 
    >[!NOTE]
    >
-   >你可能同時儲存 **加州** 和 **CA**. 若要同時篩選這兩個值，請納入 _all_ 加州人，學習如何  [將多個值添加到智慧清單篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
+   >您可能正在儲存兩者 **加州** 和 **CA**. 為了篩選這兩個值和包含 _全部_ 加州人，瞭解如何  [新增多個值至智慧清單篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
 
-1. 選擇 **大於** 運算子和輸入 **50**.
+1. 選取 **大於** 運運算元並輸入 **50**.
 
    ![](assets/smartlistfilter-personscore.png)
 
 >[!TIP]
 >
->如果您認為資料庫中可能有某些記錄包含不完整的電子郵件地址(例如，只有&quot;@adobe.com&quot;)，請使用 **two** 使用「包含」運算子時的電子郵件地址篩選。 一個篩選器包含「contains @adobe.com」，另一個篩選器包含「contains adobe.com」（遺漏@符號）。
+>如果您認為資料庫中可能有一些記錄包含不完整的電子郵件地址(例如，只有「@adobe.com」)，請使用 **二** 使用「包含」運運算元時的電子郵件地址篩選器。 一個篩選器有「包含@adobe.com」，另一個篩選器有「包含adobe.com」（不含@符號）。
 
 您現在知道如何建立智慧清單及新增/定義篩選器。

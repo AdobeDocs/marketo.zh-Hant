@@ -1,24 +1,25 @@
 ---
 unique-page-id: 7504770
 description: 檢視組織服務URL - Marketo檔案 — 產品檔案
-title: 查看組織服務URL
+title: 檢視組織服務URL
 exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
-# 查看組織服務URL {#view-the-organization-service-url}
+# 檢視組織服務URL {#view-the-organization-service-url}
 
-Marketo需要組織服務URL才能與Dynamics例項同步。 以下是如何在Dynamics中找到它。
+Marketo需要組織服務URL才能與Dynamics執行個體同步。 以下說明如何在Dynamics中找到它。
 
-1. 登入Dynamics。 按一下「設定」圖示並選取 **進階設定**.
+1. 登入Dynamics。 按一下設定圖示並選取 **進階設定**.
 
    ![](assets/one.png)
 
-1. 按一下 **設定** 選取 **自訂**.
+1. 按一下 **設定** 並選取 **自訂**.
 
    ![](assets/two.png)
 
@@ -30,4 +31,4 @@ Marketo需要組織服務URL才能與Dynamics例項同步。 以下是如何在D
 
    ![](assets/four.png)
 
-1. 將該URL複製並貼上至Marketo，然後享受其餘的同步作業。
+1. 將該URL複製並貼到Marketo，然後享受其餘的同步作業。

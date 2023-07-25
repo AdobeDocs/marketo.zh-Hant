@@ -2,7 +2,8 @@
 description: Analytics頁面概觀 — Marketo檔案 — 產品檔案
 title: Analytics頁面概觀
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
-source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%

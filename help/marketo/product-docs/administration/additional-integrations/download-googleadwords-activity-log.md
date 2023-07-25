@@ -3,7 +3,8 @@ unique-page-id: 7512607
 description: '"下載 [!DNL GoogleAdwords Activity Log] - Marketo檔案 — 產品檔案」'
 title: "下載 [!DNL GoogleAdwords Activity Log]"
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
-source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
+feature: Administration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 2%

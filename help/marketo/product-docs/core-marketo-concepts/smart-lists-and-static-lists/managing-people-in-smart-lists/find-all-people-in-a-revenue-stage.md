@@ -1,24 +1,25 @@
 ---
 unique-page-id: 557331
 description: 尋找收入階段的所有人員 — Marketo檔案 — 產品檔案
-title: 查找收入階段中的所有人員
+title: 尋找收入階段的所有人員
 exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
-# 查找收入階段中的所有人員 {#find-all-people-in-a-revenue-stage}
+# 尋找收入階段的所有人員 {#find-all-people-in-a-revenue-stage}
 
 >[!PREREQUISITES]
 >
 >[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-## 查找特定收入階段的所有成員 {#find-all-members-of-a-specific-revenue-stage}
+## 尋找特定收入階段的所有成員 {#find-all-members-of-a-specific-revenue-stage}
 
-1. 在智慧清單中，按一下 **智慧清單** 頁簽，查找 **收入階段** 篩選，並將其拖曳至畫布中。
+1. 在智慧清單中，按一下 **智慧清單** 標籤，找到 **收入階段** 並拖曳至畫布中。
 
    ![](assets/draginrevenuefilter.png)
 
@@ -26,16 +27,16 @@ ht-degree: 0%
 
    ![](assets/two.jpg)
 
-1. 前往 **人員** 頁簽來查看結果。
+1. 前往 **人員** 標籤以檢視結果。
 
    ![](assets/peopleresults.jpg)
 
-## 在收入階段的成員上執行流步驟 {#run-a-flow-step-on-the-members-of-a-revenue-stage}
+## 對收入階段成員執行流程步驟 {#run-a-flow-step-on-the-members-of-a-revenue-stage}
 
-現在您知道哪些人處於哪些收入階段，您可以直接向他們行銷。 除了選擇 **收入階段** 作為智慧清單篩選器，您也可以在流量中將其選為「if」篩選器。
+現在您已經知道哪些人員處於收入階段，您可以直接向他們行銷。 除了選擇 **收入階段** 作為智慧清單篩選器，您也可以在流量中選擇它作為「if」篩選器。
 
-1. 在所需的流程步驟中，按一下 **添加選擇** 選取 **收入階段** 從下拉式清單中。
+1. 在所需的流程步驟中，按一下 **新增選擇** 並選取 **收入階段** 下拉式清單。
 
    ![](assets/six.png)
 
-   從中，您可以選擇哪些成員受流步驟的哪個方面的影響。 好玩！
+   從那裡，您可以選擇哪些成員受到流程步驟哪個方面的影響。 樂趣！

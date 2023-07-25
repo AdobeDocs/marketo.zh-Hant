@@ -4,7 +4,8 @@ title: 設定您的Marketo連線
 hide: true
 hidefromtoc: true
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
-source-git-commit: cbc5e338fd5c5c428b4c946c3f1195ab527bf355
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -15,31 +16,31 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->當您布建Sales Insight Actions時，Marketo會自動將您的認證傳送至Actions，並將您的執行個體連線至Marketo。 此步驟為必要 **只有在您未看到已建立連線時** 布建Sales Connect實例後。 如果已建立連線，您會在「Marketo管理員設定」頁面上看到您輸入的認證，以及中斷連線的選項。
+>布建Sales Insight Actions時，Marketo會自動將您的憑證傳送至Actions，並將您的執行個體連結至Marketo。 此步驟為必要步驟 **只有在您未看到已建立的連線時** 布建Sales Connect執行個體後。 如果已建立連線，您會在Marketo管理設定頁面上看到您的認證，以及中斷連線的選項。
 
-## 在連接Sales Connect與Marketo之前獲取憑據 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
+## 在連線Sales Connect與Marketo之前取得認證 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
-您必須從Marketo取得一組認證。 Sales Connect管理員稍後將使用這些憑據來連接Marketo與Sales Connect。
+您需要在Marketo中取得一組認證。 Sales Connect管理員稍後會使用這些憑證，將Marketo與Sales Connect連線。
 
-1. 在Marketo中，按一下 **管理**.
-
-PICC
-
-1. 在樹中，按一下 **Sales Connect**.
+1. 在Marketo中，按一下 **管理員**.
 
 PICC
 
-1. 選取以下Marketo憑證，並將其傳送至您的Sales Connect管理員：Munchkin ID、用戶端ID、用戶端密碼。
+1. 在樹狀結構中，按一下 **Sales Connect**.
+
+PICC
+
+1. 選取下列Marketo憑證並傳送給您的Sales Connect管理員： Munchkin ID、使用者端ID、使用者端密碼。
 
 PICC
 
 >[!NOTE]
 >
->複製並貼上上述資訊時，請確定未新增空格。
+>複製並貼上上述資訊時，請確定未新增任何空格。
 
-## Connect Sales Connect to Marketo {#connect-sales-connect-to-marketo}
+## 將Sales Connect連線至Marketo {#connect-sales-connect-to-marketo}
 
-1. 在Sales Connect中，按一下齒輪表徵圖並選擇 **設定**.
+1. 在Sales Connect中，按一下齒輪圖示並選取 **設定**.
 
 PICC
 

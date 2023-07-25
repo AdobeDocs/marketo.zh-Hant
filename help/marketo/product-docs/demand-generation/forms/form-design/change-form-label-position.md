@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2359612
 description: 變更表單標籤位置 — Marketo檔案 — 產品檔案
-title: 更改表單標籤位置
+title: 變更表單標籤位置
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-# 更改表單標籤位置 {#change-form-label-position}
+# 變更表單標籤位置 {#change-form-label-position}
 
-當 [建立表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)，您可以非常輕鬆地更改表單欄位標籤的位置。 這是方法。
+時間 [建立表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)，您可以非常輕鬆地變更表單欄位標籤的位置。 方法如下。
 
 1. 前往 **行銷活動**.
 
@@ -22,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. 選擇 **設定**.
+1. 選取 **設定**.
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. 選取 **標籤位置** 你想要。
+1. 選取 **標籤位置** 您想要的。
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -43,16 +44,16 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >表單必須經過核准，才能用於登錄頁面。
+   >此表單必須經過核准才能用於登陸頁面。
 
    ![](assets/image2014-9-15-16-3a17-3a12.png)
 
    >[!NOTE]
    >
-   >請記得核准表單變更所建立的登錄頁面草稿。
+   >請記得核准表單變更所建立的登入頁面草稿。
 
-幹得好！ 了解在表單上更改標籤位置有多簡單？ 好，讓我們看看如何更改表單標籤的字型。
+幹得好！ 瞭解變更表單上的標籤位置有多容易？ 好，讓我們看看變更表單標籤的字型可以做些什麼。
 
 >[!MORELIKETHIS]
 >
->[更改表單字型系列](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)
+>[變更表單字型系列](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)

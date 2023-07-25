@@ -3,7 +3,8 @@ unique-page-id: 2359918
 description: 編輯登陸頁面設定 — Marketo檔案 — 產品檔案
 title: 編輯登陸頁面設定
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Administration, Landing Pages
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%

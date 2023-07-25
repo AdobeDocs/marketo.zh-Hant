@@ -1,28 +1,29 @@
 ---
 unique-page-id: 17728401
-description: 適用於Gmail使用者的Email Connection - Marketo Docs — 產品檔案
+description: Gmail使用者的電子郵件連線 — Marketo檔案 — 產品檔案
 title: Gmail使用者的電子郵件連線
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
-source-git-commit: 84da081b1484daf0c6c7e5ae4799c4c0b549d0e3
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
 # Gmail使用者的電子郵件連線 {#email-connection-for-gmail-users}
 
-連接Gmail意味著您將會收到回復跟蹤、訪問Gmail傳遞渠道、在Gmail中排程電子郵件併發送合規性。
+連線到Gmail表示您將會收到回覆追蹤、存取Gmail傳遞頻道、在Gmail中排程電子郵件以及傳送合規性的功能。
 
 >[!CAUTION]
 >
->如果你 [使用篩選器](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target=&quot;_blank&quot;}或您Gmail帳戶中的規則，以自動將電子郵件標示為已讀取，這可能會造成回覆追蹤問題。 建議您停用在Gmail使用回覆追蹤時，自動將電子郵件標示為已讀取的任何規則。
+>如果您是 [使用篩選器](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} 或Gmail帳戶中自動將電子郵件標示為已讀取的規則，這可能會導致回覆追蹤問題。 建議停用搭配Gmail使用回覆追蹤時，將電子郵件自動標示為已讀取的任何規則。
 
-1. 在Sales Connect中，按一下齒輪表徵圖並選擇 **設定**.
+1. 在Sales Connect中，按一下齒輪圖示並選取 **設定**.
 
    ![](assets/one.png)
 
-1. 在「我的帳戶」下，選擇 **電子郵件設定**.
+1. 在我的帳戶下，選取 **電子郵件設定**.
 
    ![](assets/two.png)
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 選擇 **我用Gmail發送電子郵件** 按一下 **下一個**.
+1. 選取 **我使用Gmail傳送電子郵件** 並按一下 **下一個**.
 
    ![](assets/five.png)
 
@@ -42,11 +43,11 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 如果您已登入Gmail，請選擇您要連線的帳戶。 如果沒有，請輸入您的Gmail地址，然後按一下 **下一個**. 在此範例中，我們尚未登入。
+1. 如果您已登入Gmail，請選擇您要連線的帳戶。 如果沒有，請輸入您的Gmail位址，然後按一下 **下一個**. 在此範例中，我們尚未登入。
 
    ![](assets/seven.png)
 
-1. 輸入密碼，然後按一下 **下一個**.
+1. 輸入您的密碼，然後按一下 **下一個**.
 
    ![](assets/eight.png)
 
@@ -54,8 +55,8 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-   您可以使用此連線來追蹤電子郵件，以及作為傳遞通道。
+   您可以使用此連線來追蹤電子郵件，也可以作為傳遞管道。
 
 >[!NOTE]
 >
->Gmail會強制實施自己的傳送限制。 [如需詳細資訊，請前往這裡](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+>Gmail會強制實行自己的傳送限制。 [在此處瞭解更多](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).

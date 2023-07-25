@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2359620
-description: 變更提交按鈕樣式和顏色 — Marketo檔案 — 產品檔案
-title: 變更提交按鈕樣式和顏色
+description: 變更提交按鈕樣式和色彩 — Marketo檔案 — 產品檔案
+title: 變更提交按鈕樣式和色彩
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
-# 變更提交按鈕樣式和顏色 {#change-submit-button-style-and-color}
+# 變更提交按鈕樣式和色彩 {#change-submit-button-style-and-color}
 
-如果您發現標準提交按鈕枯燥無味，或者需要更花哨的東西，則可以自由選擇各種現成的按鈕樣式。
+如果您發現標準提交按鈕很無趣，或是您需要更精緻的按鈕，歡迎您隨時選擇各種現成的按鈕樣式。
 
 1. 前往 **行銷活動**.
 
@@ -22,19 +23,19 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. 選取 **提交** 按一下 **編輯** 按鈕樣式旁邊。
+1. 選取 **提交** 按鈕並按一下 **編輯** 按鈕樣式旁邊。
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
    >[!TIP]
    >
-   >您知道可以將提交按鈕拖曳到左側或右側以變更其位置嗎？ 就這麼簡單。 試試看！
+   >您知道您可以將「提交」按鈕拖曳至左側或右側來變更其位置嗎？ 這很容易。 試試看！
 
-1. 選擇您喜歡的按鈕樣式（向上/向下捲動）。
+1. 挑選您喜歡的按鈕樣式（向上/向下捲動）。
 
    ![](assets/image2014-9-15-16-3a55-3a30.png)
 
-1. 您可以保留顏色為預設顏色或加以自訂。
+1. 您可以保留預設顏色或加以自訂。
 
    ![](assets/image2014-9-15-16-3a56-3a0.png)
 
@@ -42,7 +43,7 @@ ht-degree: 0%
    >
    >您也可以手動輸入顏色代碼。
 
-1. 按一下 **選擇**.
+1. 按一下 **選取**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
@@ -54,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 
-   給你！
+   好了！
 
    ![](assets/image2014-9-15-16-3a57-3a17.png)
 

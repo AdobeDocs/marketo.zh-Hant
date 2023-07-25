@@ -1,20 +1,21 @@
 ---
 unique-page-id: 14745959
-description: 發行說明 — 18年春季 — Marketo檔案 — 產品檔案
+description: 發行說明 — 2018年春季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2018年春季
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '480'
 ht-degree: 0%
 
 ---
 
-# 發行說明：』18年春 {#release-notes-spring}
+# 發行說明： 2018年春季 {#release-notes-spring}
 
-』18年春季版包含下列功能。 查看您的Marketo版本以了解功能可用性。
+以下功能包含在2018年春季發行版本中。 檢視您的Marketo版本，瞭解是否有功能可用。
 
-請按一下標題連結，以檢視每項功能的詳細文章。 注意：此版本包含的部分功能沒有相關文章。 如果主題有多個子標題，則連結會放在該處。
+請按一下標題連結以檢視每個功能的詳細文章。 注意：此版本中包含的某些功能沒有關聯的文章。 如果主題有多個子標題，則會將連結置於該處。
 
 ## Marketo Sales Engage、Launch和ToutApp更新 {#marketo-sales-engage-launch-and-toutapp-updates}
 
@@ -24,68 +25,68 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->Sales Engage是附加產品。 如需報價，請連絡您的Marketo客戶經理或客戶經理。
+>Sales Engage是附加產品。 如需報價，請聯絡您的Marketo客戶經理或客戶主管。
 
-利用智慧、內容、播放簿和分析增強銷售能力，將更多銷售機會轉化為銷售機會，借此促進更多管道和收入。 Sales Engage為銷售和行銷提供了一個統一的平台，以便在整個客戶歷程中進行參與，並通過共用的客戶接觸點視圖實現更好的協調。
+利用智慧、內容、教戰手冊和分析來強化銷售，將更多銷售機會轉化為銷售機會，藉此推動更多管道和收入。 Sales Engage為銷售和行銷提供了一個統一的平台，用於跨客戶歷程進行參與，並透過客戶接觸點的共用檢視實現更好的協調。
 
 **ToutApp**
 
-* **合規性卡**:透過擷取銷售連絡人來源及客戶同意接收通訊的詳細資訊，確保符合GDPR規範。
-* **密碼策略更新**:通過更嚴格的密碼建立、重置和過期要求（符合Soc II — 第1類合規性要求），確保資料更安全。
-* **簡化帳戶設定體驗**:更快設定您的帳戶並連接至Gmail、Outlook和其他系統。
+* **合規卡**：擷取銷售聯絡人的來源及客戶同意接收通訊的詳細資訊，確保符合GDPR規定。
+* **密碼原則更新**：以更嚴格的密碼建立、重設和到期要求（符合Soc II — 第1類法規遵循要求），確保資料安全。
+* **簡化的帳戶設定體驗**：快速設定帳戶並連線至Gmail、Outlook和其他系統。
 
 ## Marketo Sky開放測試版 {#marketo-sky-open-beta}
 
 [Marketo Sky開放測試版](https://help.marketo.com/)
 
-選擇加入Marketo Sky公開測試版，以取得100多項全新生產力提升功能，包括：
+選擇加入Marketo Sky開放Beta版，即可使用100多項提升生產力的新功能，包括：
 
-* 更新的左側導覽功能表、儲存的智慧清單規則和流量動作、大量資產管理動作，以及已排程的資產過期
+* 更新左側導覽功能表、儲存的智慧清單規則和流程動作、管理資產的整批動作，以及排程的資產到期日
 * 應用程式內指南和內容說明
-* 資產標籤和更有彈性的日曆檢視
+* 資產標籤和更具彈性的行事曆檢視
 
-## 績效分析 {#performance-insights}
+## 效能分析 {#performance-insights}
 
-[績效分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
+[效能分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
-**逐年比較**
+**逐年比較期間**
 
-根據去年同期的基準結果，取得更相關的分析。
+比較上年同期基準結果，獲得更相關的深入分析。
 
 **多個管道的趨勢分析**
 
-比較多個通道隨時間的效能。
+比較多管道在一段時間內的效能。
 
-**Opportunity Custom欄位同步和篩選**
+**Opportunity自訂欄位同步和篩選**
 
-按Opportunity Custom欄位（如特定銷售區域）篩選結果。 對於數值或貨幣欄位，設定最小值和最大值（如最小機會金額），並生成特定資料範圍的洞察。
+依商機自訂欄位篩選結果，如特定銷售區域。 對於數值或貨幣欄位，設定最小值和最大值（例如最小商機金額），並產生特定資料範圍的見解。
 
-**共用快速圖表**
+**共用的快速圖表**
 
-與其他效能分析用戶輕鬆共用快速圖表。
+輕鬆將快速圖表與其他Performance Insights使用者分享。
 
 **可用性增強功能**
 
-最佳化的導覽和改良的工作流程可讓您查看方案成功標準，並存取方案詳細資訊。
+透過最佳化的導覽和改進的工作流程，您可以檢視方案成功標準並存取方案詳細資料。
 
-## ContentAI {#contentai}
+## contentai {#contentai}
 
 [目標設定](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-設定ContentAI最佳化演算法的目標，以產生更多檢視、點按或轉換。
+設定ContentAI最佳化演演算法的目標，以產生更多檢視、點按或轉換。
 
 ## 整合與API {#integration-and-apis}
 
-[Facebook Workplace整合](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
+[facebook工作區整合](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
 
-將系統通知和有趣的時刻傳送至Facebook Workplace。
+傳送系統通知和有趣的時刻到Facebook Workplace。
 
 [靜態清單API](https://developers.marketo.com/rest-api/assets/static-lists/)
 
-透過新的雙向API，更輕鬆地管理Marketo與其他系統之間的清單，無需在Marketo UI中採取任何動作，即可遠端建立、讀取、更新和刪除靜態清單。
+全新的雙向API可從遠端建立、讀取、更新和刪除靜態清單，讓您更輕鬆地在Marketo和其他系統之間管理清單，無需在Marketo UI中採取任何動作。
 
 ## 隱私權增強功能 {#privacy-enhancements}
 
-[網頁追蹤隱私權](https://developers.marketo.com/javascript-api/lead-tracking/)
+[網路追蹤隱私權](https://developers.marketo.com/javascript-api/lead-tracking/)
 
-增強的Munchkin追蹤功能符合當地及國際的隱私權法規，為網頁訪客的IP位址進行匿名處理，並允許他們永久退出網頁追蹤。
+增強型Munchkin追蹤會匿名處理網頁訪客的IP位址，並允許他們永久選擇退出網頁追蹤，以符合當地及國際隱私權法規。

@@ -1,30 +1,31 @@
 ---
 unique-page-id: 11380785
-description: 指定帳戶分析 — Marketo檔案 — 產品檔案
-title: 指定帳戶分析
+description: 具名帳戶分析 — Marketo檔案 — 產品檔案
+title: 具名帳戶分析
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 0%
 
 ---
 
-# 指定帳戶分析 {#named-account-insights}
+# 具名帳戶分析 {#named-account-insights}
 
-「指定帳戶控制面板」提供目標帳戶的360度檢視。
+已命名帳戶儀表板可全方位檢視目標帳戶。
 
 ![](assets/one-1.png)
 
 ## 儀表板 {#dashboard}
 
-控制面板會從指定帳戶內的所有人員匯總帳戶層級的重要深入分析，因此不需要前往每個人評估其進度。 您可以使用 [電子郵件分析](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+儀表板會從指定帳戶內的所有人員彙總帳戶層級的關鍵深入分析，因此無需前往每個人來評估其進度。 您可以使用更深入探究電子郵件活動 [電子郵件深入分析](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
 >圖表顯示過去90天的深入分析。
 
-**隨時間變化的帳戶參與** 按一下 **檢視** 右下拉式清單，變更您檢視的依據。 除了「帳戶分數」，您還可以依「總收入」檢視……
+**一段時間的帳戶參與** 按一下 **檢視** 右側下拉式清單，用於變更您檢視的內容。 除了帳戶分數之外，您還可以依總收入檢視……
 
 ![](assets/two-new.png)
 
@@ -36,81 +37,81 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><strong>帳戶分數</strong></td> 
-   <td><p>根據您在「管理員」中建立的所有帳戶分數，查看每週至每週的參與。 您可以並排比較這些帳戶分數。 為了確定每週參與，我們會從一週中的任何一天取得最大參與。</p></td> 
+   <td><p>根據您在Admin中建立的所有帳戶分數，檢視每週互動。 您可以並排比較這些帳戶分數。 為了決定每週參與度，我們取自一週中任何一天的最大參與度。</p></td> 
   </tr> 
   <tr> 
    <td><strong>管道</strong></td> 
-   <td>查看管道隨時間的變化。 為了逐周確定管道，我們在最後一天選擇管道。</td> 
+   <td>檢視一段時間內的管道。 若要逐周判斷管道在一段時間內的變化，我們會在最後一天取得管道。</td> 
   </tr> 
   <tr> 
    <td><strong>收入</strong></td> 
-   <td>查看一段時間的收入。 為了依周分時間決定收入，我們會取用該周中贏得的所有收入總和。</td> 
+   <td>檢視一段時間內的收入。 若要依周別判斷一段時間內的收入，我們會取得該周內贏得的所有收入總和。</td> 
   </tr> 
  </tbody> 
 </table>
 
 **有趣的時刻**
 
-Marketo Sales Insight的使用者可檢視帳戶層級匯總的有趣時刻。
+Marketo Sales Insight的使用者可以透過帳戶檢視累積的有趣時刻。
 
 ![](assets/int-mom.png)
 
-**熱門人物**
+**前幾名**
 
-這些人員是根據指定帳戶人員顯示的最近或緊急程度(與 [最佳下注](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) （在Sales Insight中），或由使用者定義的分數。 **優先順序** 僅供Marketo Sales Insight的使用者使用。
+系統會根據指定帳戶的使用者所顯示的造訪間隔或緊急程度，計算使用者的優先順序(與 [最佳比對](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) （在銷售分析中）或使用者定義的分數。 **優先順序** 僅供Marketo Sales Insight的使用者使用。
 
 ![](assets/top-ten.png)
 
-**包括子項**
+**包含子項**
 
-按一下 **包括子項** 查看和選擇所選命名帳戶的子帳戶，並查看其匯總分析。
+按一下 **包含子項** 以檢視及選擇所選具名帳戶的子帳戶，並檢視其彙總分析。
 
 ![](assets/abm.png)
 
 >[!NOTE]
 >
->選取帳戶時，您可以選擇「全部選取」，或個別選取最多100個帳戶。
+>選取帳戶時，您可以選擇全選，或個別選取最多100個帳戶。
 
 ## 階層 {#hierarchy}
 
-查看所選命名帳戶與其層次結構相關的位置。
+檢視選取的具名帳戶與其階層相關的所在位置。
 
 ![](assets/hierarchy.png)
 
 ## 機會 {#opportunities}
 
-帳戶層級所有未結商機的匯總檢視，有助於行銷團隊專注於結案特定商機。
+帳戶層次上所有未結商機的累計檢視表，可協助行銷團隊專注於關閉特定商機。
 
 ![](assets/four-1.png)
 
 ## 潛在人員 {#potential-people}
 
-銷售機會帳戶比對使用模糊邏輯來尋找可以在「潛在人員」標籤中解決的弱匹配。
+銷售線索與帳戶的比對會使用模糊邏輯，尋找可以在「潛在人員」標籤中解決的弱比對。
 
 ![](assets/five-1.png)
 
 >[!NOTE]
 >
->要添加任何列出的人員，請選擇他們並按一下 **添加人員**.
+>若要新增任何列出的人員，請選取他們並按一下 **新增人員**.
 
 ## 使用者 {#used-by}
 
-此索引標籤顯示目前參考特定指定帳戶或帳戶清單的智慧型促銷活動、網頁促銷活動、智慧清單或報表。
+此索引標籤顯示哪些智慧行銷活動、網頁行銷活動、智慧列示或報表目前參考特定的具名帳戶或帳戶清單。
 
 ![](assets/six-1.png)
 
 ## 帳戶團隊 {#account-team}
 
-查看帳戶團隊成員、添加/刪除成員，甚至在此標籤中分配帳戶所有者。
+檢視帳戶團隊成員、新增/移除成員，甚至在此索引標籤中指派帳戶擁有者。
 
 ![](assets/seven-1.png)
 
 >[!NOTE]
 >
->按一下 **帳戶團隊動作** 下拉式清單，新增/移除帳戶成員，或指派帳戶擁有者。
+>按一下 **帳戶團隊動作** 下拉式清單，以新增/移除帳戶成員，或指派帳戶擁有者。
 
-## 比較方案指標 {#icp-indicators}
+## ICP指標 {#icp-indicators}
 
-查看您選擇在您 [調整模型](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
+檢視您選取要匯出的ICP指標 [調整您的模型](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
 
 ![](assets/eight.png)

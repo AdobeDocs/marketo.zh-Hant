@@ -1,31 +1,32 @@
 ---
 unique-page-id: 37356426
-description: 變更Microsoft的擁有者 — Marketo檔案 — 產品檔案
-title: 變更擁有者(在Microsoft)
+description: 在Microsoft中變更擁有者 — Marketo檔案 — 產品檔案
+title: 在Microsoft中變更擁有者
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns, Microsoft Dynamics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 1%
 
 ---
 
-# 變更擁有者(在Microsoft) {#change-owner-in-microsoft}
+# 在Microsoft中變更擁有者 {#change-owner-in-microsoft}
 
-如果現有人員已分配給某個所有者，則可以使用此流步驟將他們重新分配給另一個所有者。
+如果您有已指派給擁有者的現有人員，則可以使用此流程步驟將其重新指派給其他擁有者。
 
 >[!NOTE]
 >
->此流程步驟將 **搭配觸發器使用時僅有效**，而非篩選。
+>此流程步驟將 **只有在搭配觸發器使用時才有效**，而非篩選器。
 
 ![](assets/one-1.png)
 
 **使用情況**
 
-1. 只要挑選您要更改的所有者，然後離開！
+1. 只要選擇您要變更的擁有者並離開！
 
    ![](assets/two-1.png)
 
    >[!NOTE]
    >
-   >如果您的Dynamics帳戶中尚未存在該記錄，我們會將其同步，然後將其指派給選取的使用者。
+   >如果記錄尚未存在於您的Dynamics帳戶中，我們會同步處理該記錄，然後將其指派給選取的使用者。

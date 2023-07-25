@@ -1,59 +1,60 @@
 ---
 unique-page-id: 2360409
-description: 建立可顯示方案資訊的電子郵件分析報表 — Marketo檔案 — 產品檔案
-title: 建立顯示方案資訊的電子郵件分析報表
+description: 建立電子郵件分析報告，顯示計畫資訊 — Marketo檔案 — 產品檔案
+title: 建立顯示計畫資訊的電子郵件分析報告
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
-# 建立顯示方案資訊的電子郵件分析報表 {#build-an-email-analysis-report-that-shows-program-information}
+# 建立顯示計畫資訊的電子郵件分析報告 {#build-an-email-analysis-report-that-shows-program-information}
 
-請依照下列步驟，建立電子郵件分析報表，以顯示依方案管道分組的電子郵件資訊。
+請依照下列步驟建立電子郵件分析報告，該報告將顯示依方案管道分組的電子郵件資訊。
 
 >[!AVAILABILITY]
 >
->並非所有人都購買過此功能。 如需詳細資訊，請聯絡Adobe帳戶團隊（您的客戶經理）。
+>並非每個人都購買了此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 1. Launch **收入總管**.
 
    ![](assets/report-that-shows-program-information-1.png)
 
-1. 按一下 **新建** 選取 **報表**.
+1. 按一下 **新建** 並選取 **報告**.
 
    ![](assets/report-that-shows-program-information-2.png)
 
-1. 選擇 **電子郵件分析** 按一下 **確定**.
+1. 選取 **電子郵件分析** 區域並按一下 **確定**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. 尋找 **已傳送（周）** 黃色圓點並按一下右鍵。 按一下 **篩選**.
+1. 尋找 **已傳送（周）** 黃色圓點，然後按一下滑鼠右鍵。 按一下 **篩選**.
 
    >[!NOTE]
    >
-   >這將縮小報表的時間範圍。
+   >這將縮小報告的時間範圍。
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. 檢查 **當前已發送周** 按一下 **確定**.
+1. Check **目前傳送的周** 並按一下 **確定**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. 尋找並連按兩下 **節目頻道** 黃點。
+1. 尋找並連按兩下 **計畫頻道** 黃色圓點。
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. 尋找並連按兩下 **電子郵件名稱** 黃點。
+1. 尋找並連按兩下 **電子郵件名稱** 黃色圓點。
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. 尋找並連按兩下 **已傳送**, **已開啟** 和 **已點按** 藍點。
+1. 尋找並連按兩下 **已傳送**， **已開啟** 和 **已點按** 藍點。
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 
-   幹得好！ 您的報表應如下所示：
+   做得好！ 您應該有看起來像這樣的報表：
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)

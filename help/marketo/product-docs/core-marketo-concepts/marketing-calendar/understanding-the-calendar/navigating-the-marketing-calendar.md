@@ -3,7 +3,8 @@ unique-page-id: 1147257
 description: 瀏覽行銷行事曆 — Marketo檔案 — 產品檔案
 title: 瀏覽行銷行事曆
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%

@@ -1,36 +1,37 @@
 ---
 unique-page-id: 4719306
-description: 隱藏Salesforce欄位，不顯示Marketo同步 — Marketo檔案 — 產品檔案
-title: 隱藏Salesforce欄位，使其不受Marketo同步
+description: 從Marketo同步隱藏Salesforce欄位 — Marketo檔案 — 產品檔案
+title: 從Marketo同步中隱藏Salesforce欄位
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
-source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-# 隱藏Salesforce欄位，使其不受Marketo同步 {#hide-a-salesforce-field-from-the-marketo-sync}
+# 從Marketo同步中隱藏Salesforce欄位 {#hide-a-salesforce-field-from-the-marketo-sync}
 
 >[!NOTE]
 >
->**需要管理權限**
+>**需要管理員許可權**
 
-並非Salesforce中的每個欄位都對行銷有用。 您只能包含所需的欄位，以最佳化同步效能。 以下是如何隱藏欄位，不讓Marketo看到。
+並非所有Salesforce欄位對行銷都有效。 您可以僅包含您需要的欄位，以最佳化同步效能。 以下說明如何從Marketo隱藏欄位。
 
-1. 按一下您的名稱功能表，然後選取 **設定**.
+1. 按一下您的名稱功能表並選取 **設定**.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. 輸入 **設定檔** 在搜尋列中按一下 **設定檔** 在 **管理使用者**.
+1. 輸入 **設定檔** ，然後按一下 **設定檔** 在 **管理使用者**.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
-1. 按一下同步使用者的設定檔。
+1. 按一下同步處理使用者的設定檔。
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. 在 **欄位層級安全性** ，按一下 **檢視** 位於包含目標欄位的物件旁。
+1. 在 **欄位層級安全性** 區段，按一下 **檢視** 下一個是包含目標欄位的物件。
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
@@ -38,15 +39,15 @@ ht-degree: 0%
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. 取消核取 **可見** 要隱藏的欄位旁的核取方塊。 按一下 **儲存**.
+1. 取消勾選 **可見** 核取方塊位於您要隱藏的欄位旁邊。 按一下 **儲存**.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 
    >[!NOTE]
    >
-   >如果您在Salesforce中隱藏的欄位已與Marketo同步，則您也需要在Marketo中隱藏，如果您不想使用它。
+   >如果您在Salesforce中隱藏的欄位已與Marketo同步，則如果您不想使用，也需要在Marketo中隱藏該欄位。
 
-   就這樣！ 下次同步完成後，您將不再在Marketo中看到此欄位。
+   完成了！ 下次同步完成後，您不會再在Marketo中看到此欄位。
 
    >[!MORELIKETHIS]
    >

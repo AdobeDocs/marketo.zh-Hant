@@ -1,9 +1,10 @@
 ---
 unique-page-id: 37355602
-description: 在Microsoft Dynamics Online中安裝和設定Marketo Sales Insight - Marketo檔案 — 產品檔案
+description: 在Marketo Dynamics Online中安裝與設定Microsoft Sales Insight - Marketo檔案 — 產品檔案
 title: 在Microsoft Dynamics Online中安裝和設定Marketo Sales Insight
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -12,25 +13,25 @@ ht-degree: 0%
 
 # 在Microsoft Dynamics Online中安裝和設定Marketo Sales Insight {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online}
 
-Marketo Sales Insight是絕佳的工具，可讓您的銷售團隊透過「視窗」了解行銷團隊所擁有的豐富資料。 以下說明如何在Microsoft Dynamics Online中安裝和設定。
+Marketo Sales Insight是絕佳的工具，可讓您的銷售團隊透過此「視窗」瞭解行銷團隊擁有的資料財富。 以下說明如何在Microsoft Dynamics Online中安裝和設定。
 
 >[!PREREQUISITES]
 >
->完成Marketo-Microsoft整合。
+>完成您的Marketo-Microsoft整合。
 >
->[下載正確的解決方案](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) ，以取得Microsoft Dynamics CRM的版本。
+>[下載正確的解決方案](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) 適用於您的Microsoft Dynamics CRM版本。
 
 ## 匯入解決方案 {#import-solution}
 
 >[!NOTE]
 >
->如果您使用的是統一介面，請在下列步驟1之前，按一下右上角的「設定」圖示，然後選取 **進階設定**.
+>如果您使用統一介面，請在下面的步驟1之前，按一下右上角的「設定」圖示，然後選取 **進階設定**.
 
 1. 在Microsoft Dynamics CRM底下，按一下 **設定**.
 
    ![](assets/image2014-12-12-9-3a4-3a56-1.png)
 
-1. 在「設定」下，按一下 **自訂**.
+1. 在設定下，按一下 **自訂**.
 
    ![](assets/image2015-4-29-14-3a22-3a1-1.png)
 
@@ -40,7 +41,7 @@ Marketo Sales Insight是絕佳的工具，可讓您的銷售團隊透過「視�
 
    >[!NOTE]
    >
-   >您應先安裝並設定Marketo解決方案，再繼續進行。
+   >在繼續之前，您應該已安裝並設定Marketo解決方案。
 
 1. 按一下 **匯入**.
 
@@ -50,25 +51,25 @@ Marketo Sales Insight是絕佳的工具，可讓您的銷售團隊透過「視�
 
    ![](assets/image2014-12-12-9-3a5-3a36-1.png)
 
-1. 在您的電腦上，尋找並安裝您剛下載的解決方案。
+1. 在您的電腦上，尋找並安裝您剛才下載的解決方案。
 
 1. 按一下 **下一個**.
 
    ![](assets/seven.png)
 
-1. 解決方案將上傳。 您可以視需要檢視套件內容。 按一下 **下一個**.
+1. 解決方案將會上傳。 您可以視需要檢視封裝內容。 按一下 **下一個**.
 
    ![](assets/image2014-12-12-9-3a6-3a10-1.png)
 
-1. 請務必保留核取方塊，然後按一下 **匯入**.
+1. 請確定保留核取方塊，然後按一下 **匯入**.
 
    ![](assets/image2014-12-12-9-3a6-3a19-1.png)
 
-1. 您可以下載記錄檔，然後按一下 **關閉**.
+1. 您可以隨意下載記錄檔，然後按一下 **關閉**.
 
    ![](assets/image2014-12-12-9-3a6-3a29-1.png)
 
-1. 太棒了！ 您應該立刻看到解決方案。 如果沒有，請重新整理您的畫面。
+1. 太棒了！ 您現在應該會看到解決方案。 如果不存在，請重新整理您的熒幕。
 
    ![](assets/eleven.png)
 
@@ -76,48 +77,47 @@ Marketo Sales Insight是絕佳的工具，可讓您的銷售團隊透過「視�
 
    >[!NOTE]
    >
-   >請務必啟用全局MS Dynamics同步。
+   >請務必啟用全域MS Dynamics同步。
 
-## Connect Marketo和Sales Insight {#connect-marketo-and-sales-insight}
+## 連結Marketo與Sales Insight {#connect-marketo-and-sales-insight}
 
-將您的Marketo執行個體系結至Dynamics中的Sales Insight 。 方法如下：
+讓我們將您的Marketo執行個體連結至Dynamics中的Sales Insight。 方法如下：
 
 >[!NOTE]
 >
->**需要管理權限**
+>**需要管理員許可權**
 
-1. 登入Marketo並前往 **管理** 區段。
+1. 登入Marketo並前往 **管理員** 區段。
 
    ![](assets/image2014-12-12-9-3a6-3a50-1.png)
 
-1. 在「銷售分析」區段下，按一下 **編輯API設定**.
+1. 在銷售分析區段底下，按一下 **編輯API設定**.
 
    ![](assets/image2014-12-12-9-3a7-3a0-1.png)
 
-1. 複製 **Marketo名嘴**, **API URL**，和 **API使用者Id** 以用於後續步驟。 輸入您選擇的API密鑰，然後按一下 **儲存**.
+1. 複製 **Marketo主機**， **API URL**、和 **API使用者ID** 以供在稍後的步驟中使用。 輸入您選擇的API秘密金鑰，然後按一下 **儲存**.
 
    >[!CAUTION]
    >
-   >請勿在API密鑰中使用&amp;符號。
+   >請勿在您的API秘密金鑰中使用&amp;符號。
 
    ![](assets/image2014-12-12-9-3a7-3a9-1.png)
 
    >[!NOTE]
    >
-   >下列欄位必須與Marketo同步，才能 _銷售機會和聯繫人_ 讓Sales Insight發揮作用：
+   >下列欄位必須與Marketo同步，以便 _潛在客戶和連絡人_ 讓Sales Insight發揮作用：
    >
    >* 優先順序
-   >* 緊急
+   >* 急迫性
    >* 相對分數
-
    >
-   >如果缺少其中任何欄位，您會在Marketo中看到錯誤訊息，其名稱為缺少的欄位。 若要修正此問題，請執行 [本程式](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
+   >如果缺少這些欄位，您會在Marketo中看到一則錯誤訊息，其中包含缺少的欄位名稱。 若要修正此問題，請執行 [此程式](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
-1. 回到Microsoft Dynamics，前往 **設定**.
+1. 返回Microsoft Dynamics，前往 **設定**.
 
    ![](assets/image2014-12-12-9-3a7-3a25-1.png)
 
-1. 在 **設定**，按一下 **Marketo API設定**.
+1. 下 **設定**，按一下 **Marketo API設定**.
 
    ![](assets/image2014-12-12-9-3a7-3a34-1.png)
 
@@ -125,17 +125,17 @@ Marketo Sales Insight是絕佳的工具，可讓您的銷售團隊透過「視�
 
    ![](assets/image2014-12-12-9-3a8-3a8-1.png)
 
-1. 輸入您先前從Marketo擷取的資訊，然後按一下 **儲存**.
+1. 輸入您先前從Marketo取得的資訊，然後按一下 **儲存**.
 
    ![](assets/image2014-12-12-9-3a8-3a17-1.png)
 
 ## 啟用同步 {#enable-sync}
 
-1. 在Marketo中，按一下 **管理**.
+1. 在Marketo中，按一下 **管理員**.
 
    ![](assets/enable-one.png)
 
-1. 在「整合」下，選取 **Microsoft Dynamics**.
+1. 在整合下方，選取 **Microsoft Dynamics**.
 
    ![](assets/enable-two.png)
 
@@ -143,11 +143,11 @@ Marketo Sales Insight是絕佳的工具，可讓您的銷售團隊透過「視�
 
    ![](assets/enable-three.png)
 
-1. 按一下 **編輯** 欄位同步詳細資訊旁邊。
+1. 按一下 **編輯** 欄位同步詳細資料旁邊。
 
    ![](assets/enable-four.png)
 
-1. 這將 _自動_ 選擇以前禁用的MSI欄位（緊急、相對分數和優先順序）。 只需按一下 **儲存** 以開始同步資料。
+1. 這將 _自動_ 選取先前已停用的MSI欄位（「緊急程度」、「相對分數」和「優先順序」）。 只需按一下 **儲存** 以開始同步資料。
 
    ![](assets/enable-five.png)
 
@@ -167,18 +167,18 @@ Marketo Sales Insight是絕佳的工具，可讓您的銷售團隊透過「視�
 
    ![](assets/image2015-4-29-14-3a57-3a46-1.png)
 
-1. 選擇要授予Sales Insight訪問權限的用戶，然後按一下 **管理角色**.
+1. 選取您要授與Sales Insight存取權的使用者，然後按一下 **管理角色**.
 
    ![](assets/image2015-4-29-14-3a59-3a31-1.png)
 
-1. 選取Marketo Sales Insight角色，然後按一下 **確定**.
+1. 選取Marketo Sales Insight角色並按一下 **確定**.
 
    ![](assets/image2014-12-12-9-3a9-3a22-1.png)
 
-   你們該完蛋了！ 最後，若要測試，請以可存取Marketo Sales Insight的使用者身分登入Dynamics，並查看銷售機會或連絡人。
+   而且您應該已全部完成！ 最後，若要進行測試，請以有權存取Marketo Sales Insight的使用者身分登入Dynamics，並檢視潛在客戶或連絡人。
 
    ![](assets/image2015-4-29-15-3a2-3a27-1.png)
 
 >[!MORELIKETHIS]
 >
->[設定線索/聯繫記錄的星光和火焰](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
+>[設定銷售機會/聯絡人記錄的星星和火焰](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

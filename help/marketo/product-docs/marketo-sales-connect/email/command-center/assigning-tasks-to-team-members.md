@@ -1,40 +1,41 @@
 ---
 unique-page-id: 45417460
-description: 指派工作給團隊成員 — Marketo檔案 — 產品檔案
-title: 為團隊成員分配任務
+description: 將任務指派給團隊成員 — Marketo檔案 — 產品檔案
+title: 指派任務給團隊成員
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
-source-git-commit: 01a131e58a3f4ea80d30363d152608820530163e
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-# 為團隊成員分配任務 {#assigning-tasks-to-team-members}
+# 指派任務給團隊成員 {#assigning-tasks-to-team-members}
 
-如果要與其他團隊成員協作，分配任務可以是協調勘察工作的絕佳方式。
+如果您想要與其他團隊成員共同作業，指派任務可能是協調您的潛在客戶工作的好方法。
 
 >[!NOTE]
 >
->您只能為共用聯繫人分配任務。
+>您只能為共用連絡人指派工作。
 
 1. 按一下 **指揮中心**.
 
    ![](assets/one-1.png)
 
-1. 按一下 **添加任務**.
+1. 按一下 **新增任務**.
 
    ![](assets/two-1.png)
 
-1. 選擇任務類型。
+1. 選取工作型別。
 
    ![](assets/three-1.png)
 
-1. 為任務命名。
+1. 為您的工作命名。
 
    ![](assets/four-1.png)
 
-1. 在「分配任務」欄位中，選擇要分配任務的團隊中的人員。
+1. 在「指派任務」欄位中，選取您團隊中要指派任務的人員。
 
    ![](assets/five.png)
 
@@ -42,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 選擇到期日。
+1. 選取「到期日」。
 
    ![](assets/seven.png)
 
@@ -50,6 +51,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 添加與您的隊友相關的任何重要詳細資訊（可選），然後按一下 **建立**.
+1. 新增任何與隊友相關的重要詳細資訊（選用），然後按一下 **建立**.
 
    ![](assets/nine.png)

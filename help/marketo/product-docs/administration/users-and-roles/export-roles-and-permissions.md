@@ -2,7 +2,8 @@
 description: 匯出角色和許可權 — Marketo檔案 — 產品檔案
 title: 匯出角色和許可權
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Users and Roles
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%

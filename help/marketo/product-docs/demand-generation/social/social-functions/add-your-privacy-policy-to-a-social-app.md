@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2950545
-description: 將您的隱私權政策新增至社交應用程式 — Marketo檔案 — 產品檔案
+description: 將您的隱私權原則新增至社交應用程式 — Marketo檔案 — 產品檔案
 title: 將您的隱私權原則新增至社交應用程式
 exl-id: 21c7a136-eafd-4851-a4dd-0e10bb5dacde
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 1%
@@ -12,7 +13,7 @@ ht-degree: 1%
 
 # 將您的隱私權原則新增至社交應用程式 {#add-your-privacy-policy-to-a-social-app}
 
-當您建立社交應用程式時，可以新增連結至您公司的隱私權政策。
+建立社交應用程式時，您可以新增公司隱私權政策的連結。
 
 1. 前往 **行銷活動**.
 
@@ -32,10 +33,10 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >在此畫面上，您也可以新增連結至優惠方案的規則（條款與條件）。 請參閱 [建立反向連結選件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
+   >在此畫面上，您也可以新增優惠方案的規則（條款與條件）連結。 另請參閱 [建立轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
 
-1. 隱私權原則連結（和規則連結）會顯示在共用訊息畫面的底部。 例如：
+1. 隱私權原則連結（和規則連結）將顯示在共用訊息畫面底部。 例如：
 
    ![](assets/image2014-9-22-10-3a52-3a16.png)
 
-接下來，您可以 [設定社交註冊和分享流程](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) 應用程式中。
+接下來，您可以 [設定社交註冊和共用流程](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) 至您的應用程式。

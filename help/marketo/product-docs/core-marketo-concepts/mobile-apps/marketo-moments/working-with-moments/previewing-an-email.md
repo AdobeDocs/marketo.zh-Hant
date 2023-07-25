@@ -3,7 +3,8 @@ unique-page-id: 8783563
 description: 預覽電子郵件 — Marketo檔案 — 產品檔案
 title: 預覽電子郵件
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -12,9 +13,9 @@ ht-degree: 0%
 
 # 預覽電子郵件 {#previewing-an-email}
 
-在提取觸發器之前，以滑鼠右鍵按一下電子郵件卡片以預覽。
+在觸發程式之前，以滑鼠右鍵按一下電子郵件卡片以預覽。
 
-1. 在電子郵件卡上，點選「三個點動作」選單。
+1. 在電子郵件卡片上，點選三個點的動作選單。
 
    ![](assets/image2015-9-25-11-3a30-3a52.png)
 

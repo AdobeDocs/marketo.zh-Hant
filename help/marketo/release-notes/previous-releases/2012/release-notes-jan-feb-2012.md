@@ -3,38 +3,39 @@ unique-page-id: 2951124
 description: 發行說明 — 2012年1月/2月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2012年1月/2月
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
 
 ---
 
-# 發行說明：2012年1月/2月 {#release-notes-jan-feb}
+# 發行說明： 2012年1月/2月 {#release-notes-jan-feb}
 
-1月/2月發行包含下列功能。 查看您的Marketo版本以了解功能可用性。 發行後回來取得詳細功能檔案的連結。
+1月/2月版本包含下列功能。 檢視您的Marketo版本，瞭解是否有功能可用。 請在發行後返回以取得詳細功能檔案的連結。
 
 ## 進階動態內容 {#advanced-dynamic-content}
 
 _適用於Pro和Enterprise版本_
 
-透過進階動態內容，您可以建立與對象相關的吸引人的電子郵件通訊和登錄頁面，而無須針對相同訊息建立多個資產。 升級的預覽器可讓您在單一畫面中檢視每個不重複版本。
+透過進階動態內容，您可以建立與對象相關的吸引人電子郵件通訊和登陸頁面，而不必為相同訊息建立多個資產。 升級版預覽器可讓您在單一畫面中檢視每個唯一版本。
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## 區段  {#segmentation}
+## 細分  {#segmentation}
 
 _適用於Pro和Enterprise版本_
 
-區段是一組區段，是您行銷的目標個人群組。 區段是由類似智慧清單的篩選條件所驅動的規則定義。 您的區段可以根據人口統計資料，例如職稱或產業，或根據瀏覽或點按連結的網頁等行為。
+區段是一組區段，區段是您行銷對象的目標個人群組。 區段由規則定義，這些規則由類似於智慧列示的篩選條件驅動。 您的區段可以根據人口統計資料（例如職稱或產業），或根據行為（例如瀏覽的網頁或點選的連結）。
 
 ![](assets/image2014-9-23-9-3a50-3a42.png)
 
-## 程式碼片段 {#snippets}
+## 代碼片段 {#snippets}
 
 _適用於Pro和Enterprise版本_
 
-儲存可一再使用的豐富內容，以建立靜態或動態電子郵件及登錄頁面。
+儲存可反複使用的豐富內容，以建立靜態或動態電子郵件和登入頁面。
 
 ![](assets/image2014-9-23-9-3a50-3a58.png)
 
@@ -42,59 +43,59 @@ _適用於Pro和Enterprise版本_
 
 _適用於Pro和Enterprise版本_
 
-使用個人化URL(PURL)，行銷人員現在可以建立連絡專屬URL，以在多點接觸行銷方案中針對直接郵件和電子郵件行銷促進個人化、可測量性和提升度回應。
+使用個人化URL (PURL)行銷人員現在可以建立聯絡人特定的URL，以推動多點觸控行銷方案中直接郵件和電子郵件行銷活動的個人化、可測量性和提升回應。
 
 ![](assets/image2014-9-23-9-3a51-3a11.png)
 
-## 歐盟隱私權指令支援 {#eu-privacy-directive-support}
+## 歐盟隱私權指示支援 {#eu-privacy-directive-support}
 
-針對瀏覽器「不追蹤」設定的新功能包括停用匿名銷售機會追蹤的功能；這讓遵守歐盟更嚴格的隱私權追蹤法規變得更輕鬆。
+遵守瀏覽器「不追蹤」設定的新功能包括停用匿名潛在客戶追蹤的功能；這可讓遵守歐盟更嚴格的隱私權追蹤法規變得更輕鬆。
 
 ![](assets/image2014-9-23-9-3a51-3a32.png)
 
 ## 單一登入 {#single-sign-on}
 
-組織現在能夠使用SAML 2.0，支援以單一登入的方式從企業入口網站順暢登入Marketo應用程式。
+現在，組織可支援使用SAML 2.0順暢登入Marketo應用程式，以便從企業入口網站進行單一登入。
 
-## 更新電子郵件和登錄頁面編輯器 {#updated-email-and-landing-page-editors}
+## 已更新電子郵件和登陸頁面編輯器 {#updated-email-and-landing-page-editors}
 
-電子郵件和登錄頁面編輯器經過重新設計，提供更具邀請性的介面、直覺式導覽，以及大幅改善的使用者體驗，包括：
+電子郵件和登入頁面編輯器經過重新設計，提供更吸引人的介面、直覺式導覽，並大幅改善使用者體驗，其中包括：
 
-並排的HTML和文字檢視
+並排HTML和文字檢視
 
 ![](assets/image2014-9-23-9-3a51-3a54.png)
 
-編輯器中會顯示「寄件者名稱」、「寄件者」、「回覆者」(NEW)和「主旨」。 您可以透過「編輯設定」按鈕存取其他所有設定。
+「寄件者名稱」、「寄件者電子郵件」、「回覆（新）」和「主旨」會顯示在編輯器中。 所有其他設定可透過「編輯設定」按鈕存取。
 
 ## 瀏覽器支援 {#browser-support}
 
 * Mozilla Firefox 9.0
 * Google Chrome 16
 * Microsoft Internet Explorer 8和9
-* **附註**:不再支援Internet Explorer 7
+* **注意**：我們不再支援Internet Explorer 7
 
-## 方案管理 {#program-management}
+## 計畫管理 {#program-management}
 
-簡化的程式管理可改善令牌刪除的可用性，並更輕鬆地刪除程式。
+簡化的程式管理可透過Token刪除提高可用性，並更容易刪除程式。
 
 ![](assets/image2014-9-23-9-3a52-3a11.png)
 
-## 取消訂閱訂閱報表 {#unsubscribe-from-subscription-report}
+## 取消訂閱訂閱報告 {#unsubscribe-from-subscription-report}
 
-現在，您可以直接從報表取消訂閱！
+現在您可以直接從報表取消訂閱訂閱了！
 
-## 《蒙奇金更新》 {#munchkin-updates}
+## Munchkin更新 {#munchkin-updates}
 
-新的Munchkin呼叫可縮短網頁載入時間，並為點按連結事件提供更一致的效能。
+新的Munchkin呼叫可減少網頁載入時間，並為點選連結事件提供更一致的效能。
 
 ## 計畫機會分析（僅限RCA） {#program-opportunity-analysis-rca-only}
 
-了解對個別機會收入的行銷貢獻
+瞭解行銷對個別機會收入的貢獻
 
 ![](assets/image2014-9-23-9-3a52-3a30.png)
 
-## 計畫收入階段分析 {#program-revenue-stage-analysis}
+## 方案收入階段分析 {#program-revenue-stage-analysis}
 
-通過了解哪些程式獲得了快速移動器，獲得對計畫前置速度的洞察
+透過瞭解哪些計畫獲得了快速行動者，深入瞭解計畫銷售線索速度
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)

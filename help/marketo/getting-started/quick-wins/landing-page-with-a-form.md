@@ -1,86 +1,87 @@
 ---
 unique-page-id: 2359412
-description: 帶表單的登錄頁 — Marketo文檔 — 產品文檔
-title: 帶表單的登錄頁
+description: 含有表單的登陸頁面 — Marketo檔案 — 產品檔案
+title: 含有表單的登陸頁面
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '543'
 ht-degree: 0%
 
 ---
 
-# 帶表單的登錄頁 {#landing-page-with-a-form}
+# 含有表單的登陸頁面 {#landing-page-with-a-form}
 
-## 任務：使用表單建立登錄頁以獲取新人員。 {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
+## 任務：建立包含表單的登陸頁面，以贏取新人員。 {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
 >[!PREREQUISITES]
 >
->[設定並添加人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[完成設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-## 步驟1:建立程式 {#step-create-a-program}
+## 步驟1：建立方案 {#step-create-a-program}
 
-1. 轉到 **[!UICONTROL 營銷活動]** 的子菜單。
+1. 前往 **[!UICONTROL 行銷活動]** 區域。
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. 選擇 **學習** 建立的資料夾 [上一場速勝](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}。 下 **[!UICONTROL 新建]**&#x200B;按一下 **[!UICONTROL 新程式]**。
+1. 選取 **學習** 資料夾建立於 [上一個快速獲勝](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. 下 **[!UICONTROL 新增]**，按一下 **[!UICONTROL 新計畫]**.
 
    ![](assets/landing-page-with-a-form-2.png)
 
-1. 輸入程式 **[!UICONTROL 名稱]**，選擇 **[!UICONTROL 頻道]**，然後按一下 **[!UICONTROL 建立]**。
+1. 輸入計畫 **[!UICONTROL 名稱]**，選取 **[!UICONTROL 頻道]**，然後按一下 **[!UICONTROL 建立]**.
 
    ![](assets/landing-page-with-a-form-3.png)
 
    >[!TIP]
    >
-   >在程式名稱的末尾包含您的首字母，使其唯一。
+   >在程式名稱的結尾加上您的縮寫，使其成為唯一的。
 
    >[!NOTE]
    >
-   >計畫是一個具體的營銷計畫。 的 **通道** 是交付機制，如網路研討會、贊助或線上廣告。 根據您自己的實例中可用的內容，您可能會在下拉清單中看到不同的渠道選項。 您也可以 [建立自己的頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}。
+   >計畫是一種特定的行銷計畫。 此 **頻道** 旨在作為傳遞機制，例如網路研討會、贊助或線上廣告。 您可能會看見下拉式清單中的不同管道選項，視您自己的執行個體中可用的專案而定。 您也可以 [建立您自己的頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
-幹得漂亮！ 既然我們已經建立了一個程式，我們繼續建立一些內容。
+幹得漂亮！ 現在我們已經建立了計畫，接下來讓我們建立一些內容。
 
-## 步驟2:建立窗體 {#step-create-a-form}
+## 步驟2：建立表單 {#step-create-a-form}
 
-1. 選擇程式後，按一下 **[!UICONTROL 新建]** 下拉並選擇 **[!UICONTROL 新建本地資產]**。
+1. 選取您的程式後，按一下 **[!UICONTROL 新增]** 下拉式清單並選取 **[!UICONTROL 新增本機資產]**.
 
    ![](assets/landing-page-with-a-form-4.png)
 
-1. 選擇 **[!UICONTROL 窗體]**。
+1. 選取 **[!UICONTROL 表單]**.
 
    ![](assets/landing-page-with-a-form-5.png)
 
-1. 輸入表單 **[!UICONTROL 名稱]** 按一下 **[!UICONTROL 建立]**。
+1. 輸入表單 **[!UICONTROL 名稱]** 並按一下 **[!UICONTROL 建立]**.
 
    ![](assets/landing-page-with-a-form-6.png)
 
    >[!NOTE]
    >
-   >確保 **[!UICONTROL 在編輯器中開啟]** 的子菜單。 否則，您需要按一下 **[!UICONTROL 編輯窗體]** 頁籤。
+   >請確定 **[!UICONTROL 在編輯器中開啟]** 核取方塊。 如果沒有，您必須按一下 **[!UICONTROL 編輯表單]** 標籤。
 
    >[!TIP]
    >
-   >看不到表單編輯器嗎？ 您的瀏覽器可能已阻止該窗口。 從啟用彈出窗口 `app.marketo.com` 在瀏覽器中，然後按一下頂部菜單欄中的「編輯草稿」(Edit Draft)。
+   >看不到表單編輯器？ 您的瀏覽器可能封鎖了視窗。 啟用快顯視窗 `app.marketo.com` ，然後按一下頂端功能表列中的「編輯草稿」 。
 
-1. 選擇 **[!UICONTROL 電子郵件地址]** 欄位和檢查 **[!UICONTROL 必需]**。
+1. 選取 **[!UICONTROL 電子郵件地址]** 欄位和檢查 **[!UICONTROL 為必要]**.
 
    ![](assets/landing-page-with-a-form-7.png)
 
-1. 按一下 **[!UICONTROL 下一個]**。
+1. 按一下 **[!UICONTROL 下一個]**.
 
    ![](assets/landing-page-with-a-form-8.png)
 
-1. 按一下箭頭滾動瀏覽主題。 選擇一個。
+1. 按一下箭頭捲動主題。 選取一項。
 
    ![](assets/landing-page-with-a-form-9.png)
 
-1. 按一下 **[!UICONTROL 下一個]**。
+1. 按一下 **[!UICONTROL 下一個]**.
 
    ![](assets/landing-page-with-a-form-10.png)
 
-1. 在「感謝」頁下，選擇 **[!UICONTROL 外部URL]** 為 **[!UICONTROL 跟進]**。
+1. 在「感謝頁面」區段下，選取 **[!UICONTROL 外部URL]** 的 **[!UICONTROL 跟進]**.
 
    ![](assets/landing-page-with-a-form-11.png)
 
@@ -90,87 +91,87 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >「後續」頁是填寫表單後重新定向訪問者的位置。 外部URL是一個選項，但有其他選項。 請參閱 [設定表單感謝頁](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}。
+   >「追蹤」頁面是訪客在填寫表單後重新導向的位置。 外部URL是一個選項，但還有更多選項。 另請參閱 [設定表單感謝頁面](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
 
-1. 按一下 **[!UICONTROL 完成]**。
+1. 按一下 **[!UICONTROL 完成]**.
 
    ![](assets/landing-page-with-a-form-13.png)
 
-1. 按一下 **[!UICONTROL 批准和關閉]**。
+1. 按一下 **[!UICONTROL 核准並關閉]**.
 
    ![](assets/landing-page-with-a-form-14.png)
 
-   太好了！ 現在你有一個程式，裡面有表格。 讓我們繼續建立頁面。
+   太棒了！ 現在您有一個包含表單的程式。 讓我們繼續並建立一個頁面。
 
-## 步驟3:建立登錄頁並添加表單 {#step-create-a-landing-page-and-add-your-form}
+## 步驟3：建立登入頁面並新增您的表單 {#step-create-a-landing-page-and-add-your-form}
 
-1. 選擇程式後，按一下 **[!UICONTROL 新建]** 下拉並選擇 **[!UICONTROL 新建本地資產]**。
+1. 選取您的程式後，按一下 **[!UICONTROL 新增]** 下拉式清單並選取 **[!UICONTROL 新增本機資產]**.
 
    ![](assets/landing-page-with-a-form-15.png)
 
-1. 選擇 **[!UICONTROL 登錄頁]**。
+1. 選取 **[!UICONTROL 登陸頁面]**.
 
    ![](assets/landing-page-with-a-form-16.png)
 
-1. 輸入頁面 **[!UICONTROL 名稱]**，選擇模板，然後按一下 **[!UICONTROL 建立]**。
+1. 輸入頁面 **[!UICONTROL 名稱]**，選取範本並按一下 **[!UICONTROL 建立]**.
 
    >[!NOTE]
    >
-   >你可能有一個與我們螢幕截圖中不同的模板，沒關係，只要選擇一個，然後繼續。
+   >您的範本可能與熒幕擷圖中的範本不同，沒關係，只要選一個範本並繼續。
 
    ![](assets/landing-page-with-a-form-17.png)
 
-1. 開啟登錄頁編輯器後，拖動 [!UICONTROL 窗體] 元素。
+1. 登入頁面編輯器開啟後，拖曳 [!UICONTROL 表單] 元素貼到畫布上。
 
    ![](assets/landing-page-with-a-form-18.png)
 
-1. 查找並選擇表單，然後按一下 **[!UICONTROL 插入]**。
+1. 尋找並選取您的表單，然後按一下 **[!UICONTROL 插入]**.
 
    ![](assets/landing-page-with-a-form-19.png)
 
-1. 將窗體拖動到所需位置。
+1. 將表單四處拖曳至所需位置。
 
    ![](assets/landing-page-with-a-form-20.png)
 
-1. 所有更改都將自動保存。 關閉表單編輯器頁籤/窗口。
+1. 您的所有變更都會自動儲存。 關閉表單編輯器索引標籤/視窗。
 
    ![](assets/landing-page-with-a-form-21.png)
 
-   幹得好！ 您現在有一個登錄頁，上面有表格。 讓我們批准您的頁面，使其生效。
+   做得好！ 現在，您有一個包含表單的登陸頁面。 讓我們核准您的頁面，讓它上線。
 
-## 步驟4:批准登錄頁 {#step-approve-your-landing-page}
+## 步驟4：核准您的登陸頁面 {#step-approve-your-landing-page}
 
-1. 選擇登錄頁並按一下 **[!UICONTROL 批准草稿]**。
+1. 選取您的登入頁面，然後按一下 **[!UICONTROL 核准草稿]**.
 
    ![](assets/landing-page-with-a-form-22.png)
 
    >[!NOTE]
    >
-   >批准登錄頁將使其即時並可在網際網路上訪問。
+   >核准登入頁面後，該頁面就會上線並可於網際網路上存取。
 
-   完美！ 看到綠色的複選標籤了嗎？
+   完美！ 看見上面的綠色核取記號了嗎？
 
    ![](assets/landing-page-with-a-form-23.png)
 
-## 步驟5:Test您的表單 {#step-test-your-form}
+## 步驟5：測試您的表單 {#step-test-your-form}
 
-1. 選擇登錄頁並按一下 **[!UICONTROL 「查看已批准」頁]**。
+1. 選取您的登入頁面，然後按一下 **[!UICONTROL 檢視已核准頁面]**.
 
    ![](assets/landing-page-with-a-form-24.png)
 
-1. 填寫表單，並按一下 **[!UICONTROL 提交]**。
+1. 在表單中填入已知的唯一資訊，然後按一下 **[!UICONTROL 提交]**.
 
    ![](assets/landing-page-with-a-form-25.png)
 
-1. 轉到 **[!UICONTROL 資料庫]** 的子菜單。
+1. 前往 **[!UICONTROL 資料庫]** 區域。
 
    ![](assets/landing-page-with-a-form-26.png)
 
-1. 搜索填寫表單時使用的唯一電子郵件地址。
+1. 搜尋您在填寫表單時使用的唯一電子郵件地址。
 
    ![](assets/landing-page-with-a-form-27.png)
 
-   就在這！ 您建立了一個新登錄頁，其上有表單，並使用它生成新人。
+   在那裡！ 您已建立上面有表單的新登入頁面，並用來產生新人員。
 
    ![](assets/landing-page-with-a-form-28.png)
 
@@ -178,6 +179,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄任務1:發送電子郵件爆炸](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[◄任務1：傳送電子郵件爆炸郵件](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
-[任務3:簡單計分►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[任務3：簡單評分►](/help/marketo/getting-started/quick-wins/simple-scoring.md)

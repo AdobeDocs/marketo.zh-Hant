@@ -3,7 +3,8 @@ unique-page-id: 2360337
 description: 建立和使用串連字串（公式）欄位 — Marketo檔案 — 產品檔案
 title: 建立和使用串連字串（公式）欄位
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%

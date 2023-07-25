@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359936
-description: 刪除資料流 — Marketo檔案 — 產品檔案
+description: 刪除串流 — Marketo檔案 — 產品檔案
 title: 刪除資料流
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -12,13 +13,13 @@ ht-degree: 0%
 
 # 刪除資料流 {#delete-a-stream}
 
-如果您需要從參與計畫中刪除資料流，請執行這些快速而簡單的步驟。
+如果您需要從參與計畫刪除資料流，請遵循這些快速而簡單的步驟。
 
 1. 前往 **行銷活動**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 選取您的參與方案，然後前往 **資料流**.
+1. 選取您的參與計畫，並前往 **串流**.
 
    ![](assets/cloneasteam-2.jpg)
 
@@ -30,10 +31,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a47-3a27.png)
 
-1. 按一下「 」以確認刪除 **刪除**.
+1. 按一下以確認刪除 **刪除**.
 
    ![](assets/image2014-9-15-17-3a47-3a31.png)
 
    >[!NOTE]
    >
-   >如果流中有人，系統會要求您 [移動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) 先出去。
+   >如果串流中有人員，系統會要求您 [移動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) 他們先出去。
