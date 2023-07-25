@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7e0d78810cce1c35918a15ad29c1f3863128c1dd
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '780'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 2%
 
 </br>
 
-* **參與畫布**：參與畫布是視覺工具，可讓您建立並組織可重複使用的行銷活動。 此結構完全回溯相容，因此只要按一下按鈕，即可在此新結構中檢視所有現有行銷活動。 畫布可以下載和共用。
+* **參與圖**：參與地圖是一種視覺工具，可讓您建立並組織可重複使用的行銷活動。 此結構完全回溯相容，因此只要按一下按鈕，即可在此新結構中檢視所有現有行銷活動。 畫布可以下載和共用。
 
 <table> 
   <tr> 
@@ -38,6 +38,20 @@ ht-degree: 2%
   </tbody>
 </table>
 
+* **通知 — Web服務錯誤**：網站服務錯誤通知現在包含訂閱名稱，這讓管理多個Marketo Engage執行個體的使用者更容易操作。 我們也在包含錯誤碼和計數的表格中新增「使用者」欄，讓您在呼叫Marketo REST API時，輕鬆識別負責產生特定錯誤的API使用者。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td>已送出</td>
+   <td>不適用</td>
+  </tr>
+  </tbody>
+</table>
+
 ## 敏捷發行功能
 
 下列功能遵循敏捷格式，並在標準發行日期之前或之後的各種日期發行。 請檢視每個功能下方的狀態。
@@ -46,7 +60,7 @@ ht-degree: 2%
 
 </br>
 
-* **Dynamic Chat聊天來源**：「聊天」現在作為新人員記錄和活動的來源提供。 此來源可用於協助使用者篩選智慧清單/行銷活動中的活動。 也可以封鎖來源，不讓欄位更新。
+* **Dynamic Chat的聊天來源**：「聊天」現在作為新人員記錄和活動的來源提供。 此來源可用於協助使用者篩選智慧清單/行銷活動中的活動。 也可以封鎖來源，不讓欄位更新。
 
 <table> 
   <tr> 
