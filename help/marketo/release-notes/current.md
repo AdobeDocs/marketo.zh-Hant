@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f4c1e01f830f4f2f6ac16502511457cee7f3384e
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '667'
 ht-degree: 2%
 
 ---
@@ -177,14 +177,6 @@ ht-degree: 2%
 </table>
 
 ## 公告 {#announcements}
-
-Marketo Engage即時個人化提供兩種增強功能。
-
-* **升級至jQuery 3.7**：為了提高安全性和穩定性，Marketo正在升級至jQuery 3.7.0。未載入自己的jQuery的RTP使用者將不會受到負面影響，因為Marketo正在變更從rtp.js載入的預設版本。 不過，如果您是RTP使用者，且使用3.0.0版以前的jQuery，請連絡 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} ，以取得實作符合您需求的rtp.js自訂版本的協助。
-
->[!NOTE]
->
->請與您的Web開發團隊合作，判斷您的網站是否正在載入您自己的JQuery程式庫，或是使用從Web Personalization RTP JavaScript標籤載入的預設版本。
 
 * **升級至Google Analytics4**：Marketo先前支援Universal Analytics，後者將於2023年7月1日前停止記錄資料。 RTP使用者必須在其Google Analytics控制面板中遵循移轉程式，才能在RTP中完成對Google Analytics4整合的支援。 此後，使用者將擁有不重複的英數字元標籤(位於 `<head>` 部分)，其可讓Marketo傳送資料給Google Analytics。
 
