@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 在Marketo中建立事件 {#create-an-event-in-marketo}
 
-Marketo事件會追蹤您的人員透過方案的進度。 它會使用ON24介面卡推送註冊資訊和提取出勤資訊。 事件會擷取您使用者在過程中所執行的狀態。
+Marketo事件會追蹤您的人員透過方案的進度。 它會使用ON24介面卡推送註冊資訊和提取出勤資訊。 事件會擷取您人員在過程中進行處理的狀態。
 
-以下是交換資料的方式：
+資料交換方式如下：
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-建立Marketo事件時，選取 **網路研討會** 作為管道型別。 您可以在「管理員」中編輯此頻道，並建立一個新頻道。 如果您建立新管道，其型別必須是 **網路研討會活動** 讓整合發揮作用。 另請參閱 [建立方案頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} 以取得詳細資訊。
+建立Marketo事件時，選取 **網路研討會** 作為管道型別。 您可以在「管理員」中編輯此頻道，並建立新頻道。 如果您建立新的管道，其型別必須是 **含網路研討會的事件** 讓整合發揮作用。 另請參閱 [建立方案頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} 以取得詳細資訊。
 
 您的下一個步驟是 [設定事件設定並將Marketo與您的網路研討會同步](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}.
 

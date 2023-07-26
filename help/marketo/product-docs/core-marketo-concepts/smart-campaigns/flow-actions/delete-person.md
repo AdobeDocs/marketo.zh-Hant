@@ -23,7 +23,7 @@ ht-degree: 1%
 
 >[!CAUTION]
 >
->當您刪除人員時，也會刪除其所有歷史RCE資料。 無法復原。
+>當您刪除人員時，也會一併刪除其所有歷史RCE資料。 此動作無法還原。
 
 ## 使用情況 {#usage}
 
@@ -37,4 +37,4 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->從您的CRM移除此人 **僅適用於Salesforce**. 如果您從Marketo中刪除人員並選擇將他們保留在Salesforce中，只要他們的Salesforce記錄有所更新，就會在Marketo中重新建立他們。
+>從您的CRM移除此人 **僅適用於Salesforce**. 如果您從Marketo中刪除人員並選擇將他們保留在Salesforce中，則當他們的Salesforce記錄更新時，將在Marketo中重新建立他們。

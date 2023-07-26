@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
-1. 進行所需的變更。 如果您想要在「銷售機會詳細資訊」頁面上顯示物件，請將滑桿拖曳過去。 按一下 **[!UICONTROL 儲存]**.
+1. 進行所需的變更。 如果您想要在「銷售機會詳細資訊」頁面上顯示物件，請將滑桿拖曳到上方。 按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ## 刪除自訂物件 {#delete-a-custom-object}
 
-刪除自訂物件很容易，但您需要小心。 自訂物件可以連線到其他物件或智慧清單。 因此，Marketo會在您點按之前警告您 **[!UICONTROL 刪除]**.
+刪除自訂物件很容易，但您需要小心。 自訂物件可以連線至其他物件或智慧清單。 Marketo會先警告您，再讓您按一下 **[!UICONTROL 刪除]**.
 
 >[!CAUTION]
 >
@@ -75,13 +75,13 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
-1. 如果自訂物件已經核准，則刪除它會有更大的風險。 因此，您會收到更嚴厲的警告。 輸入 **[!UICONTROL 我瞭解]**，檢查 **[!UICONTROL 無法還原]** 核取方塊，然後按一下 **[!UICONTROL 刪除]**.
+1. 如果自訂物件已經核准，則刪除它會有更大的風險。 因此，您會收到更嚴格的警告。 輸入 **[!UICONTROL 我瞭解]**，檢查 **[!UICONTROL 無法還原]** 核取方塊，然後按一下 **[!UICONTROL 刪除]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 
    >[!NOTE]
    >
-   >如果自訂物件連結至中介物件，您必須先刪除中介物件。
+   >如果自訂物件連結到中介物件，您必須先刪除中介物件。
 
 >[!MORELIKETHIS]
 >

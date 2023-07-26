@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/one-2.png)
 
-1. 輸入人員的電子郵件地址，然後按Enter。
+1. 輸入人員的電子郵件地址，然後按Enter鍵。
 
    ![](assets/two.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 按一下 **具名帳戶** 下拉式清單，選取所需的具名帳戶，然後按一下 **立即執行**.
+1. 按一下 **具名帳戶** 從下拉式清單中，選取所需的具名帳戶，然後按一下 **立即執行**.
 
    ![](assets/four.png)
 
-## Smart Campaign流量步驟 {#smart-campaign-flow-step}
+## 智慧型行銷活動流量步驟 {#smart-campaign-flow-step}
 
 1. 選取您的Smart Campaign並按一下 **流量**.
 

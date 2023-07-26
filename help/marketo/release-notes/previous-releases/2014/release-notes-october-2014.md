@@ -13,24 +13,24 @@ ht-degree: 0%
 
 # 發行說明： 2014年10月 {#release-notes-october}
 
-檢視您的Marketo版本，瞭解是否有功能可用。 說明檔案將在發行時提供。
+檢查您的Marketo版本是否有功能可用。 說明檔案將在發行時提供。
 
 ## 行銷行事曆中的方案焦點 {#program-focus-in-marketing-calendar}
 
-[建立和編輯專案](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) 直接從行銷行事曆。
+[建立和編輯專案](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) 直接來自行銷行事曆。
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
 ## 新的ReST API呼叫 {#new-rest-api-calls}
 
-使用API來提取新的活動或潛在客戶的變更：
+使用API來提取新的活動或銷售機會的變更：
 
 * 取得銷售機會變更
-* 取得銷售機會活動
+* 取得潛在客戶活動
 * 取得活動型別
-* 取得分頁權杖
+* 取得分頁Token
 
-完整詳細資料將於發行後提供： [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+完整詳細資料將於發佈後提供： [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 ## MSI — 傳送Microsoft Dynamics的Marketo電子郵件 {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -40,23 +40,23 @@ ht-degree: 0%
 
 ## MSI — 新增至Microsoft Dynamics的Marketo行銷活動 {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[將銷售機會和連絡人新增至Marketo智慧行銷活動](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) 直接從Microsoft Dynamics中。 行銷人員可選擇對銷售人員可用的Marketo行銷活動。
+[將銷售機會和聯絡人新增至Marketo智慧行銷活動](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) 直接從Microsoft Dynamics中存取。 行銷人員可選擇哪些是Marketo促銷活動可供銷售人員使用。
 
 ## Microsoft Dynamics Sync的自訂實體支援 {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[使用自訂物件資料](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) 從Microsoft Dynamics篩選和觸發智慧列示、智慧行銷活動、方案……
+[使用自訂物件資料](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) 從Microsoft Dynamics中篩選和觸發智慧清單、智慧行銷活動、方案……
 
 ## Microsoft Dynamics Sync的股東支援 {#shareholder-support-for-microsoft-dynamics-sync}
 
-同步處理Dynamics的機會股東資料。 此外，使用「主要帳戶」欄位與帳戶相連結的機會以及使用「主要連絡人」同步處理與連絡人相連結的機會也受支援。
+同步處理Dynamics的機會股東資料。 此外，使用「主要帳戶」欄位連線至帳戶的機會，以及使用「主要連絡人」同步處理連線至連絡人的機會，也受支援。
 
 ## RTP — 控制面板增強功能 {#rtp-dashboard-enhancements}
 
-儀表板現在已增強，可包含更多的一目瞭然資料：
+儀表板現在已有所增強，現在包含更多的一目瞭然的資料：
 
 * 組織造訪總數
-* 績效排名前5的產業
-* 參與訪客總數
+* 績效最佳的前5個產業
+* 參與的訪客總數
 
 ## RTP — 新的行銷活動行動範本 {#rtp-new-mobile-templates-for-campaigns}
 

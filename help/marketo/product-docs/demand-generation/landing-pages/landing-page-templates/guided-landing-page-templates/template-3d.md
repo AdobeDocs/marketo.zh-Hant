@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 3D範本 {#template-3d}
 
-按一下滑鼠右鍵以 [下載範本3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+按一下右鍵以 [下載3D範本](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 
 此範本包含下列內容：
 
-* 具有標誌和3個按鈕的頁首（可選）
+* 含標誌和3個按鈕的頁首（選擇性）
 * 主要區段
 
    * 包含主圖文字。
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 三個主體區段（選擇性）
 * 頁尾（選擇性）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)

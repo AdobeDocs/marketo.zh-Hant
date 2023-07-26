@@ -13,21 +13,21 @@ ht-degree: 5%
 
 # 管理社交設定檔資料 {#manage-social-profile-data}
 
-有人與Marketo互動時 [社交應用程式](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)，或授權其社交網路使用預先填入Marketo表單 [社交表單填寫](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)，Marketo會擷取其社交設定檔中的所有可用資料。 您可以檢視此資訊於 [個人詳細資訊頁面](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)，或將其新增為中的欄 [智慧清單的自訂檢視](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+有人與Marketo互動時 [社交應用程式](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)，或授權其社交網路使用預先填入Marketo表單 [社交表單填寫](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)，Marketo會擷取其社交設定檔中的所有可用資料。 您可以在 [個人詳細資訊頁面](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)，或將其新增為中的欄 [智慧清單的自訂檢視](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
-社交表單填寫和社交應用程式會擷取稍微不同的欄位集；請參閱以下每個欄位的區段。
+社交表單填寫和社交應用程式擷取略微不同的欄位集；請參閱以下每個欄位的區段。
 
 >[!AVAILABILITY]
 >
->並非所有客戶都已購買此功能。 如需詳細資訊，請聯絡您的銷售代表。
+>並非所有客戶都已購買此功能。 請聯絡您的銷售代表以取得詳細資訊。
 
 ## 透過社交應用程式擷取 {#captured-via-social-app}
 
-根據網路和使用者的隱私設定，系統會擷取以下一或多個欄位：
+根據網路和使用者的隱私權設定，系統會擷取以下一或多個欄位：
 
 >[!NOTE]
 >
->來自社交網路的其他資訊會在人員授權後約五分鐘顯示在「人員詳細資訊」頁面上。
+>來自社交網路的其他資訊會在人員授權後約五分鐘出現在「人員詳細資訊」頁面上。
 
 ## 從Twitter： {#from-twitter}
 
@@ -48,11 +48,11 @@ ht-degree: 5%
 * 設定檔URL
 * 設定檔像片URL
 * 性別
-* 社交觸及（朋友數量）
+* 社交觸及（好友數量）
 
-### 透過社交表單填寫擷取 {#captured-via-social-form-fill}
+### 已透過社交表單填寫擷取 {#captured-via-social-form-fill}
 
-根據網路和使用者的隱私設定，系統會擷取以下一或多個欄位：
+根據網路和使用者的隱私權設定，系統會擷取以下一或多個欄位：
 
 >[!CAUTION]
 >
@@ -75,7 +75,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->社交表單填入會擷取電子郵件地址 _僅限_ 如果人員以表單輸入。 如果您需要電子郵件地址，請 [將其設為表單中的必填欄位](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
+>社交表單填寫會擷取電子郵件地址 _僅限_ 如果人員以表單輸入。 如果您需要電子郵件地址，請 [將其設為表單中的必填欄位](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
 >[!MORELIKETHIS]
 >

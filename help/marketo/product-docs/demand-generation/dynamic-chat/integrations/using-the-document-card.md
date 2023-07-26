@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # 使用檔案卡 {#using-the-document-card}
 
-「檔案」卡片可讓您將PDF檔案內嵌在對話方塊中，並追蹤訪客的檔案參與活動。 以下說明設定方法。
+檔案卡可讓您將PDF檔案內嵌在對話方塊中，並追蹤訪客的檔案參與活動。 以下說明設定方法。
 
-1. 導覽至 [Adobe PDF內嵌API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
+1. 瀏覽至 [Adobe PDF內嵌API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
 1. 按一下 **取得認證**.
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![](assets/using-the-document-card-2.png)
 
-1. 輸入您的認證、接受條款，然後按一下 **建立認證**.
+1. 輸入您的認證，接受條款，然後按一下 **建立認證**.
 
    ![](assets/using-the-document-card-3.png)
 

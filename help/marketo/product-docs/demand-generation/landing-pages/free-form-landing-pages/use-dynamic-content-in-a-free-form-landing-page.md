@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/landingpageeditdraft-1.jpg)
 
-1. 按一下 **區段依據**.
+1. 按一下 **分段依據**.
 
    ![](assets/image2014-9-17-12-3a8-3a46.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## 套用動態內容 {#apply-dynamic-content}
 
-1. 選取區段下的元素，按一下設定圖示，然後按一下 **編輯**. 對每個區段重複此步驟。
+1. 選取區段下的元素，按一下設定圖示，然後按一下 **編輯**. 對每個區段重複。
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 
@@ -79,5 +79,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用動態內容預覽登入頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [預覽具有動態內容的登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
 >* [在電子郵件中使用動態內容](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)

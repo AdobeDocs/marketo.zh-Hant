@@ -23,17 +23,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >預設專案型別將為 **[!UICONTROL 電子郵件]** **[!UICONTROL 計畫]** 和 **[!UICONTROL 含電子郵件的智慧行銷活動]**.
+   >預設專案型別將為 **[!UICONTROL 電子郵件]** **[!UICONTROL 計畫]** 和 **[!UICONTROL 使用電子郵件的智慧型行銷活動]**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
-1. 選擇您要在篩選器中看到的其他專案型別。
+1. 選擇您要在篩選中看到的其他專案型別。
 
    ![](assets/image2014-9-24-10-3a47-3a0.png)
 
    >[!TIP]
    >
-   >如需標準專案型別的說明，請出庫 [程式排程檢視專案型態](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
+   >如需標準專案型別的說明，請出庫 [程式排程檢視專案型別](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
 
 1. 選取您感興趣的計畫標籤。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a47-3a9.png)
 
-   太棒了！ 您現在只會看到套用至您剛剛定義之篩選器的專案。
+   棒極了！ 您現在只會看到套用至您剛定義之篩選器的專案。
 
    >[!NOTE]
    >

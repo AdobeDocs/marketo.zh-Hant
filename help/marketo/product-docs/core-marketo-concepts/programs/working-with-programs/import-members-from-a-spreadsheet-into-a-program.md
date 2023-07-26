@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147120
-description: 從試算表匯入成員至程式 — Marketo檔案 — 產品檔案
-title: 從試算表匯入成員至程式
+description: 從試算表將成員匯入程式 — Marketo檔案 — 產品檔案
+title: 從試算表將成員匯入程式
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,19 +11,19 @@ ht-degree: 0%
 
 ---
 
-# 從試算表匯入成員至程式 {#import-members-from-a-spreadsheet-into-a-program}
+# 從試算表將成員匯入程式 {#import-members-from-a-spreadsheet-into-a-program}
 
-您可以匯入自動成為計畫成員的人員清單。 以下說明該做什麼。
+您可以匯入自動成為計畫成員的人員清單。 以下說明該怎麼做。
 
-## 準備您的CSV檔案 {#prepare-your-csv-file}
+## 準備CSV檔案 {#prepare-your-csv-file}
 
-1. 在Excel中建立標準CSV檔案，如下例所示。
+1. 在Excel中建立標準CSV檔案，如以下範例所示。
 
    ![](assets/image2014-9-18-14-3a33-3a4.png)
 
    >[!CAUTION]
    >
-   >將日期匯入日期欄位時，請使用此格式： 9/29/13 （月/日/年）。
+   >將日期匯入日期欄位時，請使用此格式：9/29/13 （月/日/年）。
 
 ## 將您的CSV匯入Marketo {#import-your-csv-into-marketo}
 

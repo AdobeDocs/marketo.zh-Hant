@@ -17,17 +17,17 @@ ht-degree: 0%
 >
 >此功能僅適用於：
 >
->* 對於位於以下位置的客戶： [!DNL Orion] 基礎結構
->* 僅適用於Marketo自訂物件，而非透過原生物件同步的自訂物件 [!DNL Salesforce] 或 [!DNL Microsoft Dynamics] 整合
+>* 若客戶位於 [!DNL Orion] 基礎結構
+>* 僅適用於Marketo自訂物件，而非透過原生裝置同步的自訂物件 [!DNL Salesforce] 或 [!DNL Microsoft Dynamics] 整合
 >* 作為觸發器，而非篩選器
 >
 >請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support) 啟用自訂物件變更觸發程式。
 
-在智慧行銷活動的智慧清單中，當自訂物件新增到人員或公司時，您可以觸發流量動作。 您也可以建立使用 *變更* 在自訂物件中作為觸發器。 例如，使用它可在課程名稱更新時傳送電子郵件。
+在智慧行銷活動的智慧清單中，當自訂物件新增到人員或公司時，您可以觸發流量動作。 您也可以建立使用 *變更* 在自訂物件中作為觸發器。 例如，當課程名稱更新時，可使用它來傳送電子郵件。
 
 >[!NOTE]
 >
->自訂物件記錄變更時，不會建立活動記錄專案。
+>變更自訂物件記錄時，不會建立活動記錄專案。
 
 1. 在Marketo Engage中，前往 **[!UICONTROL 行銷活動]**.
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/trigger-off-custom-object-changes-5.png)
 
-1. 而你就在那兒。 變更會自動儲存。
+1. 你就在那兒。 變更會自動儲存。
 
    ![](assets/trigger-off-custom-object-changes-6.png)
 

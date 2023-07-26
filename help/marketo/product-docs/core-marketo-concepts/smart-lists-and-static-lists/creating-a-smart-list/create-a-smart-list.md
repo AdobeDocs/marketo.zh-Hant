@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-8-11-10-3a17-3a8.png)
 
-1. 下 **新增**，按一下 **新增本機資產**.
+1. 在 **新增**，按一下 **新增本機資產**.
 
    ![](assets/image2014-9-9-16-3a26-3a28.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[尋找篩選器並將其新增至智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+   >[尋找並新增篩選器至智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)

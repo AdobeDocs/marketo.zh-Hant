@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949218
-description: SEO — 新增/移除清單中的頁面 — Marketo檔案 — 產品檔案
-title: SEO — 新增/移除清單中的頁面
+description: SEO — 從清單新增/移除頁面 — Marketo檔案 — 產品檔案
+title: SEO — 從清單新增/移除頁面
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# SEO — 新增/移除清單中的頁面 {#seo-add-remove-page-from-list}
+# SEO — 從清單新增/移除頁面 {#seo-add-remove-page-from-list}
 
-您是否要管理您的頁面？ 您可以透過建立清單輕鬆完成此操作。 您可以使用清單來組織頁面或篩選儀表板中的資料。
+您要管理您的頁面嗎？ 您可以透過建立清單輕鬆完成此操作。 您可以使用清單來組織頁面或篩選儀表板中的資料。
 
-## 新增頁面至清單 {#add-page-to-a-list}
+## 將頁面新增至清單 {#add-page-to-a-list}
 
 1. 前往 **[!UICONTROL 頁面]** 區段。
 
@@ -31,9 +31,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您也可以建立新清單供頁面移轉。 只需在中輸入您想要的名稱 [!UICONTROL 建立新清單].
+   >您也可以建立新清單以供頁面移轉。 只要在中輸入您想要的名稱 [!UICONTROL 建立新清單].
 
-1. 按一下您剛新增頁面的清單。
+1. 按一下您剛新增頁面的目標清單。
 
    ![](assets/image2014-9-18-13-3a3-3a40.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. 於 **[!UICONTROL 頁面]** 索引標籤上，按一下您要清理的清單。
+1. 在 **[!UICONTROL 頁面]** 索引標籤上，按一下您要清理的清單。
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. 將滑鼠指標暫留在您要移除的頁面上。 按一下 **[!UICONTROL 新增/從清單移除]**.
+1. 將游標停留在您要移除的頁面上。 按一下 **[!UICONTROL 新增/從清單移除]**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 

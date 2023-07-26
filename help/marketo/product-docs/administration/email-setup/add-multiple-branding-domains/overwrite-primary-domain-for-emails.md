@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/overwrite-primary-domain-for-emails-2.png)
 
-1. 選取您要使用的品牌領域。
+1. 選取您要使用的品牌化網域。
 
    ![](assets/overwrite-primary-domain-for-emails-3.png)
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359781
 description: 建立轉介優惠方案 — Marketo檔案 — 產品檔案
-title: 建立轉介優惠方案
+title: 建立反向連結選件
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,19 +11,19 @@ ht-degree: 0%
 
 ---
 
-# 建立轉介優惠方案 {#create-a-referral-offer}
+# 建立反向連結選件 {#create-a-referral-offer}
 
-轉介優惠方案會鼓勵人們轉介他們的朋友。 為成功的轉介建立目標和獎勵。 您可以將其拖放到登陸頁面、您的網站，甚至Facebook上。
+推薦優惠方案會鼓勵人們推薦他們的朋友。 建立成功轉介的目標和回報。 您可以將它放置在登陸頁面、您的網站，甚至Facebook上。
 
 >[!AVAILABILITY]
 >
->並非所有客戶都已購買此功能。 如需詳細資訊，請聯絡您的銷售代表。
+>並非所有客戶都已購買此功能。 請聯絡您的銷售代表以取得詳細資訊。
 
 1. 在您的程式內，選取 **新增** > **新增本機資產**.
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. 在 **本機資產庫**，按一下 **轉介優惠方案**.
+1. 在 **本機資產庫**，按一下 **推薦選件**.
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >為節省時間，您可以使用 **複製來源** 從現有轉介選件複製所有設定的選項。
 
-   反向連結選件編輯器會在新視窗中開啟。 預設設定一切正常，但您需要新增選件規則（條款與條件）的連結。 連結會出現在共用訊息畫面底部。 我們會在下一個步驟中為您說明如何操作。
+   反向連結選件編輯器會在新視窗中開啟。 預設設定一切正常，但您需要新增選件規則（條款與條件）的連結。 連結會出現在共用訊息畫面的底部。 我們會在下一個步驟中向您說明如何操作。
 
 1. 按一下 **進階選項**.
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 如果轉介優惠方案中有任何問題，系統會在優惠方案獲得核准前，提示您解決這些問題。
 
-恭喜！您已建立反向連結選件。
+恭喜！您已建立您的反向連結選件。
 
 >[!NOTE]
 >
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->下一步是 [發佈您的推薦優惠](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) 登陸頁面、網站或Facebook上。
+>下一步是 [發佈您的轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) 在登陸頁面、您的網站或Facebook上。

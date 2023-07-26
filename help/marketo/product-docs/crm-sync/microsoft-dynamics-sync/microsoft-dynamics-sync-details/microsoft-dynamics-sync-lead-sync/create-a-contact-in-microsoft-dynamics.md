@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在Microsoft Dynamics中建立連絡人 {#create-a-contact-in-microsoft-dynamics}
 
-1. 選取您要在Dynamics中建立為連絡人的僅限Marketo人員(Microsoft型別為空白)。
+1. 選取您要在Dynamics中建立為連絡人的唯一Marketo人員(Microsoft型別為空白)。
 
    ![](assets/one.png)
 
@@ -29,10 +29,10 @@ ht-degree: 0%
    >
    >使用「將人員同步至Microsoft」流程動作時（僅適用於觸發促銷活動），系統會在Dynamics中即時建立銷售機會/聯絡人。
 
-1. Marketo會將Dynamics中的潛在客戶記錄限定為與Dynamics中任何帳戶皆無關聯的連絡人。
+1. Marketo可將Dynamics中的潛在客戶記錄限定為與Dynamics中任何帳戶皆無關聯的連絡人。
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. 現在，您可以選取 **連絡人** 當您在智慧行銷活動篩選器中使用「同步為」限制時。
+1. 現在，您可以選擇 **連絡人** 當您在智慧型行銷活動篩選器中使用「同步為」限制時。
 
    ![](assets/five.png)

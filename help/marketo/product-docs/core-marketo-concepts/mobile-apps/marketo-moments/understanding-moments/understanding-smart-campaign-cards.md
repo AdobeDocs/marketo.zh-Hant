@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 瞭解Smart Campaign資訊卡 {#understanding-smart-campaign-cards}
 
-使用Marketo Ments從您的智慧型手機或iPad檢視您的每輪智慧型行銷活動。 Marketo Moments智慧行銷活動卡表示行銷活動的單次執行；每次智慧行銷活動執行時都會顯示新卡。 智慧行銷活動卡在左上角標有燈泡。
+使用Marketo時刻從您的智慧型手機或iPad檢視您的每輪智慧型行銷活動。 Marketo時刻智慧行銷活動卡表示行銷活動的一次執行；每次智慧行銷活動執行時都會顯示新卡。 智慧行銷活動卡在左上角標有燈泡。
 
 對於已排程但尚未執行的未來智慧行銷活動， Marketo時刻卡尚未顯示任何行銷活動統計資料。 它們將顯示在未來的版本中。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
-1. 此處顯示智慧清單使用的濾鏡。
+1. 智慧清單使用的濾鏡顯示在這裡。
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
@@ -47,23 +47,23 @@ ht-degree: 0%
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
-1. 現在，您可以依數字和百分比，檢視每封電子郵件的收件者回應。
+1. 現在，您可以按號碼和百分比檢視每封電子郵件的收件者回應。
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. 看到底部的兩個點了嗎？ 它們表示有兩個電子郵件連結至此智慧行銷活動。 若要檢視其他電子郵件的結果，請將畫面向左撥動。 以下是第二封電子郵件的結果。
+1. 看到底部的那兩個點了嗎？ 其表示有兩個電子郵件連線至此智慧行銷活動。 若要檢視其他電子郵件的結果，請將畫面向左撥動。 以下是第二封電子郵件的結果。
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
    >[!NOTE]
    >
-   >請注意，現在已反白顯示另一個點。
+   >請注意，現在其他點會反白顯示。
 
 ## 建立電子郵件範例和預覽 {#creating-email-samples-and-previews}
 
-在電子郵件傳出之前先檢視電子郵件是個好主意。 或者，將樣本傳送給其他人，以取得第二組眼睛。
+最好在電子郵件傳出之前先檢視電子郵件。 或者，將樣本傳送給其他人，以取得第二組眼睛。
 
-1. 點選電子郵件上的三個點動作選單。
+1. 點選電子郵件上的三點動作選單。
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 ## 確認智慧型行銷活動執行 {#confirming-a-smart-campaign-run}
 
-未確認的智慧行銷活動的卡片會變成灰色，直到您確認為止。 然後，它們會變成橙色。
+未確認的智慧行銷活動的卡片是灰色的，直到您確認為止。 然後，它們會變成橙色。
 
 1. 若要確認未確認的智慧行銷活動資訊卡，請點選三點動作功能表。
 
@@ -95,7 +95,7 @@ ht-degree: 0%
 
 您可以取消已確認、已排程的智慧型行銷活動執行。
 
-1. 點選三點動作選單。
+1. 點選三點動作功能表。
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
@@ -107,11 +107,11 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
-## 重新排程智慧行銷活動 {#rescheduling-a-smart-campaign}
+## 重新排程智慧型行銷活動 {#rescheduling-a-smart-campaign}
 
 您可以重新排程尚未執行的已確認智慧型行銷活動。
 
-1. 點選三點動作選單。
+1. 點選三點動作功能表。
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
@@ -123,13 +123,13 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
-   蛋糕！
+   小菜一碟！
 
 ## 其他Smart Campaign動作 {#other-smart-campaign-actions}
 
-和其他Marketo「時刻」卡片一樣，您可以點選任何Smart Campaign卡片或詳細資訊卡上的三個點，以便：
+就像其他Marketo「時刻」卡片一樣，您可以點選任何Smart Campaign卡片或詳細資訊卡片上的三個點，以便：
 
-* [使其成為我的最愛](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [使其成為最愛](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
 * [將其標籤為完成](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [共用](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
@@ -137,7 +137,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您也可以點選 **共用** 圖示加以共用，以及 **完成** 和 **我的最愛** 詳細資訊卡上的圖示。
+>您也可以點選 **共用** 圖示加以共用，以及 **完成** 和 **我的最愛** 圖示即可檢視詳細資訊。
 
 ## 快速刪除智慧行銷活動資訊卡 {#quickly-delete-a-smart-campaign-card}
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 12255606
-description: 發行說明 — 2017年冬季 — Marketo檔案 — 產品檔案
-title: 發行說明 — Winter 』17年
+description: 發行說明–2017年冬季 — Marketo檔案 — 產品檔案
+title: 發行說明 — 2017年冬
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,29 +11,29 @@ ht-degree: 0%
 
 ---
 
-# 發行說明： Winter 』17年 {#release-notes-winter}
+# 發行說明： 2017年冬季 {#release-notes-winter}
 
-以下功能包含在2017年冬季發行版本中。 檢視您的Marketo版本，瞭解是否有功能可用。
+以下功能包含在2017年冬季發行版本中。 檢查您的Marketo版本是否有功能可用。
 
 請按一下標題連結以檢視每個功能的詳細文章。
 
 >[!NOTE]
 >
->如果主題有多個子標題，則會將連結置於該處。
+>如果主題有多個副標題，連結就會放在那裡。
 
 ## [facebook自訂對象的進階比對](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
-基本比對僅使用電子郵件地址，但新的進階比對使用額外的七個欄位，提高更多轉換的符合率。
+基本比對僅使用電子郵件地址，但新的進階比對使用額外的七個欄位，這會提高更多轉換的符合率。
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
 ## [自訂物件匯入API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
-此API提供更快速的介面，可將自訂物件同步至Marketo。 您可以將CSV、TSV或SSV試算表檔案匯入Marketo作為自訂物件。
+此API提供更快速的介面，可將自訂物件同步到Marketo中。 您可以將CSV、TSV或SSV試算表檔案匯入Marketo做為自訂物件。
 
-## [Web個人化行銷活動匯出](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
+## [Web Personalization促銷活動匯出](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
-以CSV格式匯出您的所有網頁行銷活動詳細資料和分析。 然後您就可以使用方便的版面配置檢視資料。
+以CSV格式匯出所有網頁行銷活動的詳細資訊和分析。 然後，您就可以使用方便的版面配置檢視資料。
 
 ![](assets/web-personalization-csv-download-hand.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 **[電子郵件深入分析支援](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)**
 
-使用具名帳戶或帳戶清單作為電子郵件深入分析中的維度。
+使用具名帳戶或帳戶清單作為電子郵件分析中的維度。
 
 ![](assets/ei.png)
 
@@ -83,11 +83,11 @@ ht-degree: 0%
 
 ## [SDK增強功能](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
-開發人員現在可以透過新增的SDK API呼叫，額外控制推送通知的傳送，進而允許開發人員移除推送代號。
+開發人員現在可透過新增的SDK API呼叫，進一步控制推送通知的傳送方式，進而允許開發人員移除推送代號。
 
 ## [Vibes SMS LaunchPoint整合](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
 
-使用新的篩選器選項「Vibes清單成員」改善您的目標定位。
+使用新的篩選器選項「Member of Vibes List」改善您的目標定位。
 
 ## [舊版RTF編輯器和表單編輯器1.0已淘汰](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
 

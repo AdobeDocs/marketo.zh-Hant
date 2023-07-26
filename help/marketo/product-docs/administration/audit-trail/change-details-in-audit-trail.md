@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11379928
 description: 稽核軌跡 — Marketo檔案 — 產品檔案中的變更詳細資料
-title: 變更稽核軌跡的詳細資訊
+title: 變更稽核軌跡的詳細資料
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 10%
 
 ---
 
-# 變更稽核軌跡的詳細資訊 {#change-details-in-audit-trail}
+# 變更稽核軌跡的詳細資料 {#change-details-in-audit-trail}
 
-稽核軌跡提供對您的Marketo訂閱中誰在做什麼的大量深入分析。 詳情如下。
+稽核軌跡提供對於Marketo訂閱中誰在做什麼的大量深入分析。 詳情如下。
 
 ## 資產稽核軌跡 {#asset-audit-trail}
 
@@ -32,7 +32,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="15"><strong>預設計畫</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>建立</td> 
-   <td>管道型別「管道型別」<br>或<br>從「計畫名稱」複製</td> 
+   <td>管道型別「管道型別」<br>或<br>從「program name」複製</td> 
   </tr> 
   <tr> 
    <td>重新命名</td> 
@@ -40,7 +40,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製到工作區「工作區名稱」 <br>位置「Campaign資料夾」或「參與方案」 <br>複製的程式名稱「新名稱」</td> 
+   <td>複製到工作區的「workspace name」 <br>位置「Campaign資料夾」或「參與方案」 <br>複製的程式名稱「新名稱」</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -76,15 +76,15 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td colspan="1">修改方案設定</td> 
-   <td colspan="1">新增期間成本值「#」計畫月份「yyyy-mm」</td> 
+   <td colspan="1">新增期間成本值「#」方案月份「yyyy-mm」</td> 
   </tr> 
   <tr> 
    <td colspan="1">修改方案設定</td> 
-   <td colspan="1">編輯期間成本新成本值「#」、新方案月份「yyyy-mm」、舊成本值「#」、舊方案月份「yyyy-mm」</td> 
+   <td colspan="1">編輯期間成本新成本值「#」、新計畫月份「yyyy-mm」、舊成本值「#」、舊計畫月份「yyyy-mm」</td> 
   </tr> 
   <tr> 
    <td colspan="1">修改方案設定</td> 
-   <td colspan="1">刪除期間成本。 值「#」計畫月份「yyyy-mm」</td> 
+   <td colspan="1">刪除期間成本。 值"#"方案月份"yyyy-mm"</td> 
   </tr> 
   <tr> 
    <td>匯出</td> 
@@ -105,7 +105,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>編輯</td> 
-   <td>將「回覆」更新為「newreplytoemail@name.com」</td> 
+   <td>已更新「回覆」至「newreplytoemail@name.com」</td> 
   </tr> 
   <tr> 
    <td>編輯</td> 
@@ -121,7 +121,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>編輯</td> 
-   <td>已新增代碼片段「snippet_name」</td> 
+   <td>新增程式碼片段「snippet_name」</td> 
   </tr> 
   <tr> 
    <td>編輯</td> 
@@ -129,7 +129,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>編輯</td> 
-   <td>編輯中斷了範本「template_name」的電子郵件（注意：如果您直接編輯程式碼，今天就會發生這種情況）</td> 
+   <td>編輯功能中斷了範本「template_name」的電子郵件（注意：如果您直接編輯程式碼，今天就會發生這種情況）</td> 
   </tr> 
   <tr> 
    <td>編輯</td> 
@@ -149,11 +149,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製至「Design studio」至資料夾「foldername」 <br>複製的資產名稱「名稱」<br>或<br>複製至「行銷活動」至方案「方案名稱」<br>複製的資產名稱「名稱」</td> 
+   <td>複製至「Design Studio」至資料夾「foldername」 <br>複製的資產名稱「名稱」<br>或<br>複製至「行銷活動」至方案「方案名稱」<br>複製的資產名稱「名稱」</td> 
   </tr> 
   <tr> 
    <td>移動</td> 
-   <td>已移至「Design Studio」資料夾「資料夾名稱」<br>或<br>已移至「行銷活動」方案「方案名稱」</td> 
+   <td>已移至「Design Studio」資料夾「資料夾名稱」<br>或<br>已移至「行銷活動」至方案「方案名稱」</td> 
   </tr> 
   <tr> 
    <td>核准</td> 
@@ -165,11 +165,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>草稿</td> 
-   <td>由於程式碼片段「程式碼片段名稱」獲得核准，因此起草了電子郵件<br>或<br>由於範本「範本名稱」獲得核准，因此已草擬電子郵件</td> 
+   <td>起草電子郵件是因為已核准程式碼片段「程式碼片段名稱」<br>或<br>由於範本「範本名稱」獲得核准，因此已草擬電子郵件</td> 
   </tr> 
    <td rowspan="17">電子郵件程式</td> 
    <td>建立</td> 
-   <td>管道型別「管道型別」<br>或<br>從「計畫名稱」複製</td> 
+   <td>管道型別「管道型別」<br>或<br>從「program name」複製</td> 
   </tr> 
   <tr> 
    <td colspan="1">重新命名</td> 
@@ -177,7 +177,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製到工作區「工作區名稱」 <br>位置「Campaign資料夾或參與方案」 <br>複製的程式名稱「新名稱」</td> 
+   <td>複製到工作區的「workspace name」 <br>位置「Campaign資料夾或參與方案」 <br>複製的程式名稱「新名稱」</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -225,15 +225,15 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td colspan="1">修改方案設定</td> 
-   <td colspan="1">新增期間成本值「#」計畫月份「yyyy-mm」</td> 
+   <td colspan="1">新增期間成本值「#」方案月份「yyyy-mm」</td> 
   </tr> 
   <tr> 
    <td colspan="1">修改方案設定</td> 
-   <td colspan="1">編輯期間成本新成本值「#」、新方案月份「yyyy-mm」、舊成本值「#」、舊方案月份「yyyy-mm」</td> 
+   <td colspan="1">編輯期間成本新成本值「#」、新計畫月份「yyyy-mm」、舊成本值「#」、舊計畫月份「yyyy-mm」</td> 
   </tr> 
   <tr> 
    <td colspan="1">修改方案設定</td> 
-   <td colspan="1">刪除期間成本。 值「#」計畫月份「yyyy-mm」</td> 
+   <td colspan="1">刪除期間成本。 值"#"方案月份"yyyy-mm"</td> 
   </tr> 
   <tr> 
    <td rowspan="8">電子郵件範本</td> 
@@ -242,7 +242,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>編輯</td> 
-   <td>新說明「新說明」，先前說明「先前說明」</td> 
+   <td>新說明「新說明」、先前說明「先前說明」</td> 
   </tr> 
   <tr> 
    <td>編輯</td> 
@@ -271,7 +271,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="23">參與計畫</td> 
    <td>建立</td> 
-   <td>管道型別「管道型別」<br> 或<br> 從「計畫名稱」複製</td> 
+   <td>管道型別「管道型別」<br> 或<br> 從「program name」複製</td> 
   </tr> 
   <tr> 
    <td>重新命名</td> 
@@ -279,7 +279,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製到工作區「工作區名稱」 <br>位置「Campaign資料夾或參與方案」 <br>複製的程式名稱「新名稱」</td> 
+   <td>複製到工作區的「workspace name」 <br>位置「Campaign資料夾或參與方案」 <br>複製的程式名稱「新名稱」</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -290,31 +290,31 @@ ht-degree: 10%
    <td>新頻道「新頻道」舊頻道「舊頻道」</td> 
   </tr> 
   <tr> 
-   <td>修改程式資料流</td> 
+   <td>修改程式串流</td> 
    <td><p>新增資料流</p><p>名稱「name」位置「#」</p></td> 
   </tr> 
   <tr> 
-   <td>修改程式資料流</td> 
+   <td>修改程式串流</td> 
    <td><p>編輯資料流</p><p>新資料流名稱：「新名稱」舊資料流名稱：「舊名稱」</p><p>新版位：「new #」舊版位：「old #」</p></td> 
   </tr> 
   <tr> 
-   <td>修改程式資料流</td> 
+   <td>修改程式串流</td> 
    <td>刪除資料流名稱「name」</td> 
   </tr> 
   <tr> 
-   <td>修改程式資料流</td> 
-   <td>新增內容<br>蒸汽名稱「串流名稱」<br>輸入「電子郵件」或「計畫」<br>名稱「電子郵件名稱」或「計畫名稱」<br>Smart Campaign「智慧行銷活動名稱」</td> 
+   <td>修改程式串流</td> 
+   <td>新增內容<br>蒸汽名稱「串流名稱」<br>輸入「電子郵件」或「計畫」<br>名稱「電子郵件名稱」或「計畫名稱」<br>智慧型行銷活動「智慧型行銷活動名稱」</td> 
   </tr> 
   <tr> 
-   <td>修改程式資料流</td> 
+   <td>修改程式串流</td> 
    <td>啟用內容<br>串流名稱「串流名稱」<br>內容名稱「電子郵件名稱」或「方案名稱」</td> 
   </tr> 
   <tr> 
-   <td>修改程式資料流</td> 
+   <td>修改程式串流</td> 
    <td>停用內容<br>串流名稱「串流名稱」<br>內容名稱「電子郵件名稱」或「方案名稱」</td> 
   </tr> 
   <tr> 
-   <td>修改程式資料流</td> 
+   <td>修改程式串流</td> 
    <td>移除內容<br>串流名稱「串流名稱」<br>內容名稱「電子郵件名稱」或「方案名稱」</td> 
   </tr> 
   <tr> 
@@ -347,24 +347,24 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td colspan="1">修改方案設定</td> 
-   <td colspan="1">新增期間成本值「#」計畫月份「yyyy-mm」</td> 
+   <td colspan="1">新增期間成本值「#」方案月份「yyyy-mm」</td> 
   </tr> 
   <tr> 
    <td colspan="1">修改方案設定</td> 
-   <td colspan="1">編輯期間成本新成本值「#」、新方案月份「yyyy-mm」、舊成本值「#」、舊方案月份「yyyy-mm」</td> 
+   <td colspan="1">編輯期間成本新成本值「#」、新計畫月份「yyyy-mm」、舊成本值「#」、舊計畫月份「yyyy-mm」</td> 
   </tr> 
   <tr> 
    <td colspan="1">修改方案設定</td> 
-   <td colspan="1">刪除期間成本。 值「#」計畫月份「yyyy-mm」</td> 
+   <td colspan="1">刪除期間成本。 值"#"方案月份"yyyy-mm"</td> 
   </tr> 
   <tr> 
    <td>匯出</td> 
    <td>不適用</td> 
   </tr> 
   <tr> 
-   <td rowspan="18">活動計畫</td> 
+   <td rowspan="18">事件程式</td> 
    <td>建立</td> 
-   <td>管道型別「管道型別」<br>或<br>從「計畫名稱」複製</td> 
+   <td>管道型別「管道型別」<br>或<br>從「program name」複製</td> 
   </tr> 
   <tr> 
    <td>重新命名</td> 
@@ -376,7 +376,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製到工作區「工作區名稱」 <br>位置「行銷活動資料夾」或「參與方案」 <br>複製的程式名稱「新名稱」</td> 
+   <td>複製到工作區的「workspace name」 <br>位置「行銷活動資料夾」或「參與方案」 <br>複製的程式名稱「新名稱」</td> 
   </tr> 
   <tr> 
    <td>編輯頻道</td> 
@@ -416,19 +416,19 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td colspan="1">修改方案設定</td> 
-   <td colspan="1">新增期間成本值「#」計畫月份「yyyy-mm」</td> 
+   <td colspan="1">新增期間成本值「#」方案月份「yyyy-mm」</td> 
   </tr> 
   <tr> 
    <td colspan="1">修改方案設定</td> 
-   <td colspan="1">編輯期間成本新成本值「#」、新方案月份「yyyy-mm」、舊成本值「#」、舊方案月份「yyyy-mm」</td> 
+   <td colspan="1">編輯期間成本新成本值「#」、新計畫月份「yyyy-mm」、舊成本值「#」、舊計畫月份「yyyy-mm」</td> 
   </tr> 
   <tr> 
    <td colspan="1">修改方案設定</td> 
-   <td colspan="1">刪除期間成本。 值「#」計畫月份「yyyy-mm」</td> 
+   <td colspan="1">刪除期間成本。 值"#"方案月份"yyyy-mm"</td> 
   </tr> 
   <tr> 
    <td colspan="1">修改方案設定</td> 
-   <td colspan="1">已新增事件合作夥伴「partner_name」</td> 
+   <td colspan="1">已新增活動合作夥伴「partner_name」</td> 
   </tr> 
   <tr> 
    <td>匯出</td> 
@@ -482,11 +482,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製至「Design studio」至資料夾「foldername」 <br>複製的資產名稱「名稱」<br>或<br>複製至「行銷活動」至方案「方案名稱」<br>複製的資產名稱「名稱」</td> 
+   <td>複製至「Design Studio」至資料夾「foldername」 <br>複製的資產名稱「名稱」<br>或<br>複製至「行銷活動」至方案「方案名稱」<br>複製的資產名稱「名稱」</td> 
   </tr> 
   <tr> 
    <td>移動</td> 
-   <td>已移至「Design Studio」資料夾「資料夾名稱」<br>或<br>已移至「行銷活動」方案「方案名稱」</td> 
+   <td>已移至「Design Studio」資料夾「資料夾名稱」<br>或<br>已移至「行銷活動」至方案「方案名稱」</td> 
   </tr> 
   <tr> 
    <td>Forms</td> 
@@ -516,15 +516,15 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>編輯</td> 
-   <td>新增「RTF」、移除「RTF」、編輯RTF元件</td> 
+   <td>新增「Rtf」、移除「Rtf」、編輯Rtf元件</td> 
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製至「Design studio」至資料夾「foldername」<br>複製的資產名稱「名稱」<br>複製資產URL "www.url.com"<br>或<br>複製至「行銷活動」至方案「方案名稱」 <br>複製的資產名稱「名稱」<br>複製資產URL "www.url.com"</td> 
+   <td>複製至「Design Studio」至資料夾「foldername」<br>複製的資產名稱「名稱」<br>複製資產URL "www.url.com"<br>或<br>複製至「行銷活動」至方案「方案名稱」 <br>複製的資產名稱「名稱」<br>複製資產URL "www.url.com"</td> 
   </tr> 
   <tr> 
    <td>移動</td> 
-   <td>已移至「Design Studio」資料夾「資料夾名稱」<br> 或<br> 已移至「行銷活動」方案「方案名稱」</td> 
+   <td>已移至「Design Studio」資料夾「資料夾名稱」<br> 或<br> 已移至「行銷活動」至方案「方案名稱」</td> 
   </tr> 
   <tr> 
    <td>核准</td> 
@@ -532,7 +532,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>草稿</td> 
-   <td>由於範本「範本名稱」獲得核准，已草擬登入頁面</td> 
+   <td>已草擬登入頁面，因為範本「範本名稱」已核准</td> 
   </tr> 
   <tr> 
    <td>取消核准</td> 
@@ -582,7 +582,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製至「Person資料庫」至資料夾「foldername」 <br>複製的資產名稱「名稱」<br>或<br>複製至「行銷活動」至方案「方案名稱」<br>複製的資產名稱「名稱」</td> 
+   <td>複製至「人員資料庫」至資料夾「foldername」 <br>複製的資產名稱「名稱」<br>或<br>複製至「行銷活動」至方案「方案名稱」<br>複製的資產名稱「名稱」</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -611,7 +611,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>移動</td> 
-   <td>已移至「計畫」至「計畫名稱」<br>或<br>已移至「資料夾」的「資料夾名稱」資料夾</td> 
+   <td>已移至「計畫」到「計畫名稱」<br>或<br>已移至「資料夾」至資料夾「資料夾名稱」</td> 
   </tr> 
   <tr> 
    <td>重新命名</td> 
@@ -627,7 +627,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製至「計畫」至計畫「計畫名稱」 <br>複製的資產名稱「名稱」<br>或<br>已複製至「資料夾」資料夾「資料夾名稱」<br>複製的資產名稱「名稱」</td> 
+   <td>複製至「計畫」至計畫「計畫名稱」 <br>複製的資產名稱「名稱」<br>或<br>已複製至「資料夾」並放入資料夾「資料夾名稱」<br>複製的資產名稱「名稱」</td> 
   </tr> 
   <tr> 
    <td>修改smartlist設定</td> 
@@ -664,14 +664,14 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製至「Person資料庫」至資料夾「foldername」 <br>複製的資產名稱「名稱」<br>或<br>複製至「行銷活動」至方案「方案名稱」 <br>複製的資產名稱「名稱」</td> 
+   <td>複製至「人員資料庫」至資料夾「foldername」 <br>複製的資產名稱「名稱」<br>或<br>複製至「行銷活動」至方案「方案名稱」 <br>複製的資產名稱「名稱」</td> 
   </tr> 
   <tr> 
    <td>修改smartlist設定</td> 
    <td>顯示目前狀態的快照，包括篩選器和觸發器的名稱和值 </td> 
   </tr> 
   <tr> 
-   <td rowspan="11">代碼片段</td> 
+   <td rowspan="11">程式碼片段</td> 
    <td>建立</td> 
    <td><p>空白<br>或<br>從「程式碼片段名稱」複製</p></td> 
   </tr> 
@@ -735,21 +735,21 @@ ht-degree: 10%
   <tr> 
    <td>IP限制</td> 
    <td>編輯</td> 
-   <td>編輯下列IP限制：允許/封鎖的「封鎖」、IP位址「#」、停用的IP限制「」</td> 
+   <td>編輯以下專案的IP限制：允許/封鎖的「封鎖」、IP位址「#」、停用的IP限制「」</td> 
   </tr> 
   <tr> 
-   <td rowspan="2">磁碟分割</td> 
+   <td rowspan="2">資料分割</td> 
    <td>建立</td> 
-   <td>以名稱「分割名稱」建立分割區</td> 
+   <td>以名稱「分割區名稱」建立分割區</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
-   <td>「分割區名稱」分割區已刪除</td> 
+   <td>已刪除「資料分割名稱」資料分割</td> 
   </tr> 
   <tr> 
    <td>密碼強度</td> 
    <td>編輯</td> 
-   <td>密碼安全性已變更為範本：標準安全性，最小長度： #，上下： #，數字： #，大小寫混合： #，到期： #，工作階段逾時： #</td> 
+   <td>密碼安全性已變更為範本：標準安全性，最小長度： #，上下： #，數字： #，大小寫混合： #，有效期： #，工作階段逾時： #</td> 
   </tr> 
   <tr> 
    <td rowspan="3">角色<br><br></td> 
@@ -772,7 +772,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="7">使用者<br><br><br><br></td> 
    <td>建立（邀請）</td> 
-   <td>使用者受邀：電子郵件「電子郵件地址」、姓名「名字和姓氏」、存取到期日「空白或附帶日期」、API使用者「true或false」 —  <br>顯示指派給使用者的角色和工作區的快照</td> 
+   <td>邀請使用者：電子郵件「電子郵件地址」、姓名「名字和姓氏」、存取過期「空白或包含日期」、API使用者「true或false」 —  <br>顯示指派給使用者的角色和工作區的快照</td> 
   </tr> 
   <tr> 
    <td colspan="1">刪除</td> 
@@ -780,11 +780,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>編輯</td> 
-   <td>已將使用者從「舊名稱」重新命名為「新名稱」，並附上電子郵件：「email」，apiUser：「true or false」存取過期：「blank或使用日期」</td> 
+   <td>已將使用者從以下電子郵件的「舊名稱」重新命名為「新名稱」：「電子郵件」，apiUser：「真或假」存取過期：「空白或使用日期」</td> 
   </tr> 
   <tr> 
    <td>編輯</td> 
-   <td>已針對以下電子郵件編輯使用者：「電子郵件」、apiUser：「true或false」、存取過期：「空白或使用日期」</td> 
+   <td>已編輯下列電子郵件的使用者： "email"， apiUser： "true or false"，存取過期："blank or with a date"</td> 
   </tr> 
   <tr> 
    <td colspan="1">編輯</td> 
@@ -792,11 +792,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>問題</td> 
-   <td>核發至電子郵件的行事曆授權：「使用者的電子郵件」名稱：「使用者的姓名」</td> 
+   <td>行事曆授權核發至電子郵件：「使用者的電子郵件」名稱：「使用者名稱」</td> 
   </tr> 
   <tr> 
    <td>重設</td> 
-   <td>重設姓名「name」和電子郵件「email」的密碼</td> 
+   <td>重設名稱「name」和電子郵件「email」的密碼</td> 
   </tr> 
   <tr> 
    <td rowspan="2">工作區</td> 

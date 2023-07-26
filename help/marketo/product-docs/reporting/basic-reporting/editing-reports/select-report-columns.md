@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 選取報表欄 {#select-report-columns}
 
-您可以選擇哪些欄位要納入報表中，哪些欄位不包含在報表中。
+您可以選擇報表中要包含和未包含的欄。
 
-1. 前往 **分析** (或 **行銷活動**)區域。
+1. 前往 **Analytics** (或 **行銷活動**)區域。
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[對欄報告排序](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
+   >[對報表進行欄排序](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)

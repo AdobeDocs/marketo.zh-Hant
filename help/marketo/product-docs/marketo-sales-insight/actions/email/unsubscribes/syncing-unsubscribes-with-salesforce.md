@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 正在與Salesforce同步取消訂閱 {#syncing-unsubscribes-with-salesforce}
 
-如果您想要在Salesforce中將取消訂閱與選擇退出欄位同步，可以使用Salesforce取消訂閱同步。
+如果您想要在Salesforce中將取消訂閱與選擇退出欄位同步，則可以使用Salesforce取消訂閱同步。
 
 ## 取消訂閱同步處理至Salesforce的需求 {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
@@ -22,25 +22,25 @@ ht-degree: 0%
 
 **推播取消訂閱**
 
-在Marketo Sales中收集到取消訂閱時，我們會即時將其推送到Salesforce，並更新您選擇要同步處理的任一選擇退出欄位。 如果您已停用Salesforce同步，我們仍會將取消訂閱推送至電子郵件選擇退出。
+在Marketo Sales中收集到取消訂閱時，我們會即時將其推送到Salesforce，並更新您選擇要與之同步的任何一個選擇退出欄位。 如果您已停用Salesforce同步處理，我們仍會將取消訂閱推送至電子郵件選擇退出。
 
 **取消訂閱同步處理**
 
-當您啟用取消訂閱同步時（下面的步驟3），您將會開啟夜間同步。 同步會在太平洋標準時間下午8:00左右每天執行一次。 它會將Marketo Sales中的所有取消訂閱與Salesforce中的選擇退出欄位雙向同步。
+當您啟用取消訂閱同步時（下面的步驟3），您將開啟夜間同步。 同步會在太平洋標準時間晚上8:00左右每日執行一次。 它會將Marketo Sales中的所有取消訂閱與Salesforce中的選擇退出欄位雙向同步。
 
 >[!NOTE]
 >
->取消訂閱與Salesforce同步將會同步取消訂閱，但不會同步重新訂閱。 如果您想要從Marketo Sales和Salesforce移除取消訂閱，請在Salesforce中取消勾選取消訂閱，並在Marketo Sales中移除取消訂閱。
+>取消訂閱與Salesforce同步將會同步取消訂閱，但不會同步重新訂閱。 如果您想從Marketo Sales和Salesforce移除取消訂閱，請在Salesforce中取消核取取消訂閱，並在Marketo Sales中移除取消訂閱。
 
-## 設定取消訂閱同步處理至Salesforce {#configure-unsubscribe-sync-to-salesforce}
+## 設定取消訂閱同步至Salesforce {#configure-unsubscribe-sync-to-salesforce}
 
-使用者可以決定是否要透過Marketo也可以同步的標準電子郵件選擇退出欄位同步其取消訂閱，也可以透過Marketo銷售選擇退出欄位同步，以便區分銷售取消訂閱和行銷取消訂閱。
+使用者可以決定是否要透過Marketo也可以同步的標準電子郵件選擇退出欄位同步其取消訂閱，也可以透過Marketo銷售選擇退出欄位同步，以區別銷售取消訂閱和行銷取消訂閱。
 
 1. 按一下齒輪圖示並選取 **設定**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-1.png)
 
-1. 在管理設定下方，選取 **取消訂閱**.
+1. 在管理員設定下方，選取 **取消訂閱**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-2.png)
 
@@ -54,8 +54,8 @@ ht-degree: 0%
 
    | 欄位 | 說明 |
    |---|---|
-   | **同步至Salesforce選擇退出欄位** | 預設為選取，只會更新Salesforce選擇退出欄位。 |
-   | **同步至Marketo銷售選擇退出欄位** | 如果您想要區隔銷售與行銷取消訂閱，請選擇此選項以更新其他 [Marketo銷售選擇退出欄位。](#msoo) |
+   | **同步至Salesforce選擇退出欄位** | 依預設選取，僅更新Salesforce選擇退出欄位。 |
+   | **同步至Marketo銷售選擇退出欄位** | 如果您想要區隔銷售與行銷取消訂閱，請選擇此選項以更新其他 [Marketo銷售人員選擇退出欄位。](#msoo) |
 
 ## 在頁面配置中安裝選擇退出欄位 {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -67,11 +67,11 @@ ht-degree: 0%
 
    ![](assets/syncing-unsubscribes-with-salesforce-5.png)
 
-1. 按一下您的使用者名稱，然後選取 **設定**.
+1. 按一下您的使用者名稱並選取 **設定**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-6.png)
 
-1. 在快速尋找方塊中搜尋「連絡人」或「銷售機會」。 在此案例中，我們會將欄位安裝至連絡人頁面配置，但您會想要為兩個人記錄安裝。
+1. 在快速尋找方塊中搜尋Contact或Lead。 在此案例中，我們會將欄位安裝至聯絡人頁面配置，但您會想要為兩個人員記錄安裝。
 
    ![](assets/syncing-unsubscribes-with-salesforce-7.png)
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    ![](assets/syncing-unsubscribes-with-salesforce-10.png)
 
-1. 將「電子郵件選擇退出」拖放到頁面版面配置中。
+1. 將「電子郵件選擇退出」拖放至頁面配置。
 
    ![](assets/syncing-unsubscribes-with-salesforce-11.png)
 
@@ -95,8 +95,8 @@ ht-degree: 0%
 
    ![](assets/syncing-unsubscribes-with-salesforce-12.png)
 
-## Marketo銷售選擇退出 {#marketo-sales-opt-out}
+## Marketo銷售人員選擇退出 {#marketo-sales-opt-out}
 
-Marketo銷售選擇退出欄位是自訂欄位，可供已安裝Marketo Sales Insight套件的使用者使用 [從AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+Marketo銷售選擇退出欄位是自訂欄位，可供已安裝Marketo銷售分析套件的使用者使用 [從AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
-成功從AppExchange安裝Marketo Sales Insight套件至Salesforce後，您將會看到Marketo Sales選擇退出欄位可供您使用。
+當您成功將Marketo Sales Insight套件從AppExchange安裝到Salesforce中後，您將會看到Marketo Sales選擇退出欄位可供您使用。

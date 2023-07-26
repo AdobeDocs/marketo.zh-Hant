@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/change-the-language-of-a-form-1.png)
 
-1. 選取您的表單並按一下 **編輯表單**.
+1. 選擇您的表單並按一下 **編輯表單**.
 
    ![](assets/change-the-language-of-a-form-2.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/change-the-language-of-a-form-4.png)
 
-   選擇性步驟：選擇您所選語言的區域設定/地區。
+   選擇性步驟：選擇您所選語言的地區設定/地區。
 
    ![](assets/change-the-language-of-a-form-5.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >此表單必須經過核准才能用於登陸頁面。
+   >此表單必須經過核准才能用於登入頁面。
 
    >[!TIP]
    >
-   >記住 [核准登入頁面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 表單建立的草稿變更。
+   >記住 [核准登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 表單建立的草稿變更。
 
 您的表單現在會反映您選取的語言。
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360364
-description: 步驟2 / 3 — 建立Marketo (Enterprise/Unlimited)的Salesforce使用者 — Marketo檔案 — 產品檔案
-title: 步驟2之3 — 建立Marketo的Salesforce使用者(Enterprise/Unlimited)
+description: 步驟3之2 — 建立Marketo (Enterprise/Unlimited)的Salesforce使用者 — Marketo檔案 — 產品檔案
+title: 步驟3之2 — 建立Marketo的Salesforce使用者(Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 3%
 
 ---
 
-# 步驟2/3：建立Marketo (Enterprise/Unlimited)的Salesforce使用者 {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# 步驟2之3：建立Marketo的Salesforce使用者(Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 >[!PREREQUISITES]
 >
->[步驟1/3：將Marketo欄位新增至Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>[步驟3之1：將Marketo欄位新增至Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
 在本文中，您將會在Salesforce設定檔中設定使用者許可權，並建立Marketo-Salesforce整合帳戶。
 
@@ -47,7 +47,7 @@ ht-degree: 3%
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. 在 **管理許可權** 區段，確定已核取下列方塊：
+1. 在 **管理許可權** 區段，確定已勾選下列方塊：
 
    * API已啟用
    * 編輯HTML範本
@@ -60,7 +60,7 @@ ht-degree: 3%
    >
    >請務必檢視 **密碼永不過期** 方塊。
 
-1. 在「一般使用者許可權」區段下，確定已核取下列方塊：
+1. 在「一般使用者許可權」區段下，確定已勾選下列方塊：
 
    * 轉換潛在客戶
    * 編輯事件
@@ -82,7 +82,7 @@ ht-degree: 3%
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
-1. 完成後，按一下 **儲存** 位於頁面底部。
+1. 完成後，按一下 **儲存** ，位於頁面底部。
 
    ![](assets/image2014-12-9-9-3a20-3a5.png)
 
@@ -92,7 +92,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >此步驟將防止您不需要的欄位顯示在Marketo中，這將降低雜亂程度並加快同步速度。
+   >此步驟將防止您不需要的欄位顯示在Marketo中，這將減少雜亂並加快同步速度。
 
 1. 在設定檔詳細資訊頁面中，前往 **欄位層級安全性** 區段。 按一下 **檢視** 若要編輯物件的協助工具：
 
@@ -119,7 +119,7 @@ ht-degree: 3%
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. 停用完所有不需要的欄位後，您必須核取 **讀取存取權和編輯存取權** 用於下列物件欄位。 按一下 **儲存** 完成時。
+1. 停用完所有不需要的欄位後，您必須檢查 **讀取許可權與編輯許可權** 用於下列物件欄位。 按一下 **儲存** 完成時。
 
 <table> 
  <tbody> 
@@ -162,4 +162,4 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[步驟3/3：連結Marketo和Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>[步驟3之3：連線Marketo與Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)

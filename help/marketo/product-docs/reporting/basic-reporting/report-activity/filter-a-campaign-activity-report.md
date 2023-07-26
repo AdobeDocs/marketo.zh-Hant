@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360184
 description: 篩選促銷活動報表 — Marketo檔案 — 產品檔案
-title: 篩選行銷活動報告
+title: 篩選促銷活動報告
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# 篩選行銷活動報告 {#filter-a-campaign-activity-report}
+# 篩選促銷活動報告 {#filter-a-campaign-activity-report}
 
 聚焦您的 [行銷活動報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)特定 [智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
 
-1. 前往 **行銷活動** (或 **分析**)並選取您的行銷活動報表。
+1. 前往 **行銷活動** (或 **Analytics**)並選取您的行銷活動報表。
 
    ![](assets/image2014-9-16-16-3a13-3a56.png)
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您選取資料夾，您的報告將包含報告執行時資料夾包含的所有內容。
+   >如果您選取資料夾，報表會包含報表執行時資料夾所包含的所有內容。
 
-1. 您已完成！ 按一下 **報告** 標籤檢視 _just_ 報表中選取的智慧型行銷活動。
+1. 您已完成！ 按一下 **報告** 標籤以檢視 _just_ 報表中選取的智慧型行銷活動。
 
    ![](assets/image2014-9-16-16-3a14-3a32.png)
 

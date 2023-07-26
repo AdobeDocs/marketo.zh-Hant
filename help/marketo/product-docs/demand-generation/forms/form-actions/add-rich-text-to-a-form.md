@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359618
-description: 將RTF文字新增至表單 — Marketo檔案 — 產品檔案
-title: 將RTF文字新增至表單
+description: 新增RTF文字至表單 — Marketo檔案 — 產品檔案
+title: 新增RTF文字至表單
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# 將RTF文字新增至表單 {#add-rich-text-to-a-form}
+# 新增RTF文字至表單 {#add-rich-text-to-a-form}
 
-在表單中使用RTF文字在欄位之間新增指示或其他資訊。 試試看。
+在表單中使用RTF格式，在欄位之間新增指示或其他資訊。 看看吧。
 
 1. 前往 **行銷活動**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 選取您的表單並按一下 **編輯表單**.
+1. 選擇您的表單並按一下 **編輯表單**.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果表單中需要行分隔符號，請使用「水平線」按鈕。
+   >如果您的表單中需要行分隔符號，請使用「水平線」按鈕。
 
 1. 按一下 **儲存**.
 
@@ -51,10 +51,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 
-   幹得漂亮！ 試試看。
+   做得很好！ 看看吧。
 
    ![](assets/image2014-9-15-16-3a48-3a58.png)
 
 >[!TIP]
 >
->您知道您也可以 [新增可見性規則](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) RTF區塊？
+>您知道您也可以 [新增可見度規則](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) RTF區塊？

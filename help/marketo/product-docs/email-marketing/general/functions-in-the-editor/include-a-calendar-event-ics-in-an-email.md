@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >[建立日曆事件(.ics)檔案](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-1. 編輯程式的電子郵件時，按一下您要權杖的位置，然後按一下插入權杖按鈕。
+1. 編輯程式的電子郵件時，請按一下您要權杖的所在位置，然後按一下插入權杖按鈕。
 
 ![](assets/one-6.png)
 
-1. 選取行事曆檔案代號，然後按一下 **插入**.
+1. 選取行事曆檔案Token並按一下 **插入**.
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 

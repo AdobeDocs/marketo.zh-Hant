@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 選取您的表單並按一下 **編輯表單**.
+1. 選擇您的表單並按一下 **編輯表單**.
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
@@ -29,8 +29,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->鍵盤快速鍵！ 選取表單欄位後，按下Ctrl+Alt+H可使其隱藏。
+>鍵盤快速鍵！ 選取表單欄位後，按下Ctrl+Alt+H以將其隱藏。
 
 >[!MORELIKETHIS]
 >
->[設定隱藏的表單欄位值](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
+>[設定隱藏表單欄位值](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)

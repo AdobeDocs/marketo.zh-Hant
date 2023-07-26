@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11377395
 description: 新增其他品牌領域 — Marketo檔案 — 產品檔案
-title: 新增其他品牌領域
+title: 新增其他品牌網域
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# 新增其他品牌領域 {#add-an-additional-branding-domain}
+# 新增其他品牌網域 {#add-an-additional-branding-domain}
 
-當您從單一Marketo執行個體執行多個品牌，並希望每個品牌都有自己的品牌追蹤連結時，請新增一個品牌領域。
+當您從單一Marketo執行個體執行多個品牌，並希望每個品牌都有自己的品牌追蹤連結時，請新增一個品牌網域。
 
 >[!PREREQUISITES]
 >
->您必須 [取代一般追蹤連結](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) 品牌領域，然後再新增其他品牌領域。
+>您必須 [取代一般追蹤連結](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) 在加入其他品牌領域之前，使用品牌領域。
 
 1. 前往 **[!UICONTROL 管理員]** 區域。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/add-an-additional-branding-domain-3.png)
 
-1. 輸入新品牌領域的名稱，然後按一下 **[!UICONTROL 儲存]**.
+1. 輸入新品牌網域的名稱，然後按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/add-an-additional-branding-domain-4.png)
 

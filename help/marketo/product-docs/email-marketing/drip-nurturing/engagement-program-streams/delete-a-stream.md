@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # 刪除資料流 {#delete-a-stream}
 
-如果您需要從參與計畫刪除資料流，請遵循這些快速而簡單的步驟。
+如果您需要從參與方案中刪除資料流，請遵循這些快速而簡單的步驟。
 
 1. 前往 **行銷活動**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 選取您的參與計畫，並前往 **串流**.
+1. 選取您的參與方案，並前往 **串流**.
 
    ![](assets/cloneasteam-2.jpg)
 
    >[!CAUTION]
    >
-   >刪除資料流將導致該資料流中內容的歷史資料遺失。
+   >刪除資料流會導致該資料流中內容的歷史資料遺失。
 
 1. 按一下齒輪圖示並選取 **刪除**.
 
@@ -37,4 +37,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果串流中有人員，系統會要求您 [移動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) 他們先出去。
+   >如果串流中有人員，系統將會要求您 [移動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) 他們先出去。

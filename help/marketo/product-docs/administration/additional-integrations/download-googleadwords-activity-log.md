@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # 下載 [!DNL Google Adwords] 活動記錄 {#download-googleadwords-activity-log}
 
-事情會發生。 有時您需要下載活動記錄檔來疑難排解問題。
+事情發生。 有時您需要下載活動記錄檔來疑難排解問題。
 
 1. 前往 **[!UICONTROL 管理員]** 區域。
 

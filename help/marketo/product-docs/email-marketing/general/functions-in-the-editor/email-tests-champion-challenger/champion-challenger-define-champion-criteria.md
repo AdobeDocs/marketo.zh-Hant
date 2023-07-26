@@ -13,15 +13,15 @@ ht-degree: 1%
 
 # 冠軍/挑戰者：定義冠軍標準 {#champion-challenger-define-champion-criteria}
 
-設定測試型別後，您需要定義冠軍標準。 方法如下。
+設定好測試型別後，您需要定義擁護者條件。 方法如下。
 
 >[!PREREQUISITES]
 >
 >[新增電子郵件達人/挑戰者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-## 標準冠軍條件 {#standard-champion-criteria}
+## 標準擁護者條件 {#standard-champion-criteria}
 
-1. 選擇一個可用的 **冠軍條件**.
+1. 選擇一個可用的 **擁護者條件**.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -29,7 +29,7 @@ ht-degree: 1%
    >
    >我們將追蹤此量度，並透過電子郵件傳送含有資料的報告給您。
 
-1. 如果您選擇其中一個預設值 **冠軍條件**，請繼續並移至 [冠軍/挑戰者：設定報表警示](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)！
+1. 如果您選擇其中一個預設值 **擁護者條件**，請繼續並移至 [冠軍/挑戰者：設定報表警報](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)！
 
 ## 自訂冠軍條件 {#custom-champion-criteria}
 
@@ -39,9 +39,9 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >這可讓您使用觸發器和篩選器來將任何事件設定為轉換。
+   >這可讓您使用觸發器和篩選器，將任何事件設定為轉換。
 
-1. 畫面會隨即顯示 — 找到您選擇的觸發器，並將其拖曳至畫布中。
+1. 視窗隨即出現 — 尋找您選擇的觸發器，並將其拖曳至畫布中。
 
    ![](assets/image2014-9-15-13-3a3-3a38.png)
 
@@ -55,8 +55,8 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 
-   太棒了！ 現在該排程報表了。
+   太棒了！ 現在到了排程報表的時候了。
 
    >[!MORELIKETHIS]
    >
-   >[冠軍/挑戰者：設定報表警示](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+   >[冠軍/挑戰者：設定報表警報](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)

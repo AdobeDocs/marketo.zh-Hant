@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 發行說明： 2014年12月 {#release-notes-december}
 
-2014年12月發行版本包含下列功能。 請檢查您的Marketo版本是否有功能可用。 發行後，請務必回訪以尋找每個功能的詳細文章連結！
+2014年12月發行版本包含下列功能。 請檢查您的Marketo版本是否有功能可用。 發行後，請務必返回尋找每個功能的詳細文章連結！
 
 ## 銷售分析報表 {#sales-insight-reports}
 
@@ -25,17 +25,17 @@ ht-degree: 0%
 
 ## facebook自訂對象 {#facebook-custom-audiences}
 
-新增您的Marketo管理員後 [透過「管理員> Launchpoint」的Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)，您可輕鬆建立、更新或 [以Marketo靜態或智慧清單中的潛在客戶取代Facebook自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). 在任何靜態或智慧清單的銷售機會格線底部尋找新的Facebook圖示。
+在您的Marketo管理員新增後 [透過「管理員> Launchpoint」的Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)，您可輕鬆建立、更新或 [以來自Facebook靜態或智慧清單的銷售機會取代Marketo自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). 在任何靜態或智慧清單的銷售機會格線底部尋找新的Facebook圖示。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## 改善跨工作區的複製  {#improved-cloning-across-workspaces}
 
-[復製程式](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) 前往另一個工作區從未像現在這樣簡單！ 當您按一下複製時，您會選取目的地工作區。 不要再複製至資料夾，然後再行動資料夾！
+[復製程式](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) 前往另一個工作區從未如此輕鬆！ 當您按一下複製時，您會選取目的地工作區。 不要再複製至資料夾，然後再行動資料夾！
 
 >[!NOTE]
 >
->這個新的複製功能目前只適用於程式。
+>這個新的複製功能目前僅供程式使用。
 
 ![](assets/image2014-12-5-11-3a7-3a13.png)
 
@@ -49,23 +49,23 @@ ht-degree: 0%
 
 ## 電子郵件指令碼中的連結追蹤 {#link-tracking-in-email-scripting}
 
-電子郵件指令碼內的連結現在會被追蹤，並可在「電子郵件連結效能」報表中使用。
+電子郵件指令碼中的連結現在會被追蹤，並可在「電子郵件連結效能」報表中使用。
 
 ## 權杖編碼設定 {#token-encoding-setting}
 
-我們已推出新的安全性功能，可自動HTML編碼權杖，此功能將於2015年3月預設啟用。 在此之前，請在欄位管理中切換此功能，以預先測試行為。 所有潛在客戶和公司代號插入電子郵件或登陸頁面時，都會經過編碼。 個別欄位也提供選項。
+我們已推出新的安全性功能，自動HTML編碼權杖，此功能將於2015年3月預設啟用。 在此之前，請在欄位管理中切換此功能，以提前測試行為。 所有潛在客戶和公司代號都會在插入電子郵件或登入頁面時進行編碼。 個別欄位也提供選項。
 
 ## 新的ReST API呼叫 {#new-rest-api-calls}
 
 潛在客戶與活動ReST API的三個新呼叫：
 
-·取得銷售機會分割區
+·取得潛在客戶分割區
 
 ·關聯銷售機會
 
 ·合併銷售機會
 
-完整詳細資料將於發行後提供： [developers.marketo.com](https://developers.marketo.com/)
+完整詳細資料將於發佈後提供： [developers.marketo.com](https://developers.marketo.com/)
 
 ## Munchkin Javascript相容性增強功能 {#munchkin-javascript-compatibility-enhancements}
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
 ## RTP：具名帳戶清單模組 {#rtp-named-account-list-module}
 
-在新的「指定帳戶」頁面中管理並監視關鍵的高收益帳戶。 上傳具名帳戶的新清單，以識別並鎖定這些組織。 我們已將此程式自動化，為您提供更大的控制力和彈性，以實作以帳戶為基礎的行銷計畫，並跨不同管道（網頁和廣告）鎖定您的重要帳戶。
+在新的「已命名的帳戶」頁面中管理並監視您的關鍵高收益帳戶。 上傳具名帳戶的新清單，以識別並鎖定這些組織。 我們已將此程式自動化，為您提供更大的控制力和彈性，以實施以帳戶為基礎的行銷計畫，並跨不同管道（網頁和廣告）鎖定您的關鍵帳戶。
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 

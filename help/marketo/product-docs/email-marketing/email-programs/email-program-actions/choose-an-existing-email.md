@@ -18,7 +18,7 @@ ht-degree: 0%
 >* [建立電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [使用智慧清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 或 [透過匯入清單來定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
-一旦您擁有 [已建立電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 並定義您的對象，您會想要決定要傳送哪些電子郵件。 您可以 [為電子郵件程式建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) 從頭開始或挑選已存在的專案。 以下說明如何挑選已存在的專案。
+一旦您 [已建立電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 並定義您的對象，您會想要決定要傳送哪些電子郵件。 您可以 [為電子郵件程式建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) 從頭開始或挑選已經存在的專案。 以下說明如何挑選已存在的專案。
 
 1. 前往 **行銷活動**.
 
@@ -28,19 +28,19 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram.jpg)
 
-1. 在 **電子郵件** 並排顯示，選取您要傳送的專案。
+1. 在 **電子郵件** 圖磚，選取您要傳送的專案。
 
    ![](assets/image2014-9-12-11-3a28-3a10.png)
 
    >[!NOTE]
    >
-   >只能選取本機電子郵件。 需要將電子郵件從一個計畫移動到另一個計畫？ [在此處瞭解如何操作](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md).
+   >只能選取本機電子郵件。 是否需要將電子郵件從一個計畫移動到另一個計畫？ [在此處瞭解詳情](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md).
 
    真貼心！
 
    ![](assets/image2014-9-12-11-3a28-3a51.png)
 
-現在我們已決定要傳送哪個電子郵件，可以設定A/B測試，或略過該測試並排程電子郵件計畫。
+現在我們已決定要傳送哪些電子郵件，可以設定A/B測試，或略過該專案，並排程電子郵件計畫。
 
 >[!MORELIKETHIS]
 >

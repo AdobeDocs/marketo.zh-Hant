@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >以下步驟也適用於 [變更方案成員資料](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
 
-1. 在 **流量** 標籤，拖曳至 **變更資料值** 流程步驟。
+1. 在 **流量** 標籤，拖入 **變更資料值** 流程步驟。
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-16-3a5-3a5.png)
 
-1. 尋找並選取您要附加資料的相同欄位代號。
+1. 尋找並選取您要附加資料的相同欄位的Token。
 
    ![](assets/image2014-9-22-16-3a5-3a9.png)
 
-1. 現在新增您想要附加至欄位中已存在的值。
+1. 現在，新增您想要附加至欄位中已存在的值。
 
    ![](assets/image2014-9-22-16-3a5-3a12.png)
 

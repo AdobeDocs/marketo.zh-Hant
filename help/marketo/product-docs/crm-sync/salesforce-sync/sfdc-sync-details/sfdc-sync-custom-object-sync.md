@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->若要使用自訂物件，它必須關聯至 [銷售機會](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)， [連絡人](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)，或 [帳戶](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) 物件。
+>若要使用自訂物件，必須將其關聯至 [銷售機會](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)， [連絡人](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)，或 [帳戶](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) Salesforce中的物件。
 
 >[!IMPORTANT]
 >
@@ -47,13 +47,13 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
-1. 將您要同步的自訂物件拖曳至畫布中。
+1. 將您要同步的自訂物件拖曳至畫布。
 
    ![](assets/image2015-4-22-10-3a45-3a30.png)
 
    >[!NOTE]
    >
-   >自訂物件必須具有唯一的名稱。 Marketo不支援具有相同名稱的兩個不同自訂物件。
+   >自訂物件必須具有唯一的名稱。 Marketo不支援兩個名稱相同的不同自訂物件。
 
 1. 按一下 **啟用同步**.
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >別忘了重新啟用全域同步處理！
+   >別忘了重新啟用您的全域同步處理！
 
 1. 返回 **Salesforce** 標籤。
 
@@ -81,10 +81,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo僅支援連結至標準實體（一或兩級深）的自訂實體。
+   >Marketo僅支援連結至標準實體（一或兩個層級）的自訂實體。
 
 ### 下一步： {#whats-next}
 
-[新增/移除自訂物件欄位作為智慧清單/觸發條件約束](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+[新增/移除自訂物件欄位做為智慧清單/觸發條件約束](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
 
-太棒了！ 您現在可以在智慧行銷活動和智慧清單中使用來自此自訂物件的資料。
+太好了！ 您現在可以在智慧行銷活動和智慧清單中使用來自此自訂物件的資料。

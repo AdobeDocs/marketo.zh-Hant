@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![](assets/one.png)
 
-在「設定行銷活動」頁面中找到的「網頁個人化RTF編輯器」允許文字格式設定、連結和影像插入。 它包含與標準文書處理器類似的格式選項。
+在「設定行銷活動」頁面中找到的「網頁個人化」RTF編輯器允許文字格式、連結和影像插入。 它包含與標準文書處理器類似的格式化選項。
 
 RTF編輯器中的重要圖示包括：
 
@@ -29,17 +29,17 @@ RTF編輯器中的重要圖示包括：
   <tr> 
    <td colspan="1"><img alt="--" src="assets/two.png" data-linked-resource-id="11386612" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
    <td colspan="1"><p><strong>插入/編輯影像</strong><br></p></td> 
-   <td colspan="1">插入影象URL，使圖形影象顯示在編輯器中</td> 
+   <td colspan="1">插入影象URL，讓圖形影象顯示在編輯器中</td> 
   </tr> 
   <tr> 
    <td colspan="1"><img alt="--" src="assets/ds.png" data-linked-resource-id="12983884" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
    <td colspan="1"><strong>從Design Studio插入影像</strong></td> 
-   <td colspan="1"><em>晚於</em> 按一下 <strong>插入/編輯影像</strong> 圖示，即可從Marketo Design Studio中選取影像</td> 
+   <td colspan="1"><em>晚於</em> 按一下 <strong>插入/編輯影像</strong> 圖示，用來從您的Marketo Design Studio選取影像</td> 
   </tr> 
   <tr> 
    <td colspan="1"><img alt="--" src="assets/four.png" data-linked-resource-id="11386614" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
    <td colspan="1"><p><strong>插入/編輯連結</strong><br></p></td> 
-   <td colspan="1">用於將超連結新增至文字或影像</td> 
+   <td colspan="1">用於新增超連結至文字或影像</td> 
   </tr> 
   <tr> 
    <td colspan="1"><img alt="--" src="assets/tokens.png" data-linked-resource-id="12983883" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
@@ -51,7 +51,7 @@ RTF編輯器中的重要圖示包括：
 
 >[!NOTE]
 >
->Web Token使用 [人員資料](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) 從Marketo資料庫（在「帳戶設定>資料庫」下的「網頁個人化」中管理）。 如果Web權杖是「帳戶設定>資料庫」中尚未顯示的新資料庫欄位，則會自動新增，且最多可能需要24小時才能啟用。
+>Web Token使用 [人員資料](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) 來自您在「帳戶設定>資料庫」下的「網頁個人化」中管理的Marketo資料庫。 如果Web權杖是「帳戶設定>資料庫」中尚未顯示的新資料庫欄位，則會自動新增該權杖，且最多可能需要24小時才能啟用。
 
 >[!MORELIKETHIS]
 >

@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. 對於目的地，您可以選取現有清單，或輸入新清單的名稱。 在此範例中，我們正在建立新檔案。 按一下 **[!UICONTROL 同步]** 完成時。
+1. 您可以針對目的地選取現有清單，或輸入新清單的名稱。 在此範例中，我們正在建立新範本。 按一下 **[!UICONTROL 同步]** 完成時。
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
@@ -50,14 +50,14 @@ ht-degree: 0%
 
 **Cookie同步如何運作？**
 
-為您的Marketo訂閱啟用Cookie同步後，Marketo的munchkin.js將嘗試為您在整合設定期間指定的Adobe IMS組織擷取和儲存AdobeECID，並將這些ECID比對至對應的Marketo Cookie識別碼。 這可讓Marketo的匿名使用者設定檔更豐富AdobeECID。
+為您的Marketo訂閱啟用Cookie同步後，Marketo的munchkin.js將嘗試為您在整合設定期間指定的Adobe IMS組織擷取和儲存AdobeECID，並將這些ECID比對至對應的Marketo Cookie識別碼。 這可讓Marketo的匿名使用者設定檔更加豐富AdobeECID。
 
-還需要執行另一個步驟，將匿名使用者設定檔與潛在客戶設定檔建立關聯（使用純文字電子郵件識別）。 此功能的確切運作方式 [此處說明](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
+還需要進一步步驟，將匿名使用者設定檔與潛在客戶設定檔建立關聯（使用純文字電子郵件識別）。 此功能的確切運作方式 [此處說明](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
 **Marketo中的清單大小為何與Adobe中的清單大小不同？**
 
-如果我們無法將ECID Cookie ID連結至Marketo中的已知人員，人員也不會進行同步處理。
+如果我們無法將ECID Cookie ID繫結至Marketo中的已知人員，人員也不會同步處理。
 
 **這是一次性同步嗎？**
 
-您只需要起始同步處理一次。 之後，記錄會自動同步。 初始同步最多可能需要24小時；此後，新記錄將在2-3小時內同步。
+您只需要起始同步處理一次。 之後，記錄會自動同步。 初始同步最多可能需要24小時；以後，新記錄將在2-3小時內同步。

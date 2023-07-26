@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147360
-description: 新增代號至電子郵件連結 — Marketo檔案 — 產品檔案
-title: 新增代號至電子郵件連結
+description: 將代號新增至電子郵件連結 — Marketo檔案 — 產品檔案
+title: 將代號新增至電子郵件連結
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 新增代號至電子郵件連結 {#add-tokens-to-an-email-link}
+# 將代號新增至電子郵件連結 {#add-tokens-to-an-email-link}
 
-若要將額外和個人專屬引數插入連結，您可以使用Token。 方法如下。
+若要在連結中插入額外和個人特定引數，您可以使用代號。 方法如下。
 
 1. 選取您的電子郵件，然後按一下 **編輯草稿** 標籤。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 在中輸入所需的權杖 **URL** 並按一下 **插入**.
+1. 在中輸入所需的代號 **URL** 並按一下 **插入**.
 
    ![](assets/four.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[在我的權杖中使用URL](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
+>[在我的Token中使用URL](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)

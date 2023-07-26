@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->登入頁面模式由其範本定義。 [瞭解更多](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) 關於自由格式和引導式登入頁面範本。
+>登入頁面模式由其範本定義。 [瞭解更多](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) 關於自由格式與引導式登入頁面範本。
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 在方案中建立引導式登陸頁面 {#create-a-guided-landing-page-in-a-program}
 
-引導式登入頁面可建立為程式的本機資產，或在Design Studio中建立以用於全域。
+引導式登陸頁面可以建立為方案的本機資產，或在Design Studio中以供全域使用。
 
 1. 前往 **行銷活動**.
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 為您的登陸頁面命名。 按一下 **範本** 下拉式清單並選取 **引導範本**.
+1. 為您的登陸頁面命名。 按一下 **範本** 下拉式清單並選取 **引導式範本**.
 
    >[!NOTE]
    >
-   >引導式登陸頁面範本具有 ![—](assets/image2015-5-26-9-3a26-3a51.png) 圖示加以存取。 已建構引導範本，使其可保持完全的回應能力。
+   >引導式登陸頁面範本具有 ![—](assets/image2015-5-26-9-3a26-3a51.png) 圖示加以存取。 引導範本的結構化可讓這些範本保持完全的回應能力。
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 為您的登陸頁面命名。 按一下 **範本** 下拉式清單並選取 **引導範本**.
+1. 為您的登陸頁面命名。 按一下 **範本** 下拉式清單並選取 **引導式範本**.
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
@@ -69,6 +69,6 @@ ht-degree: 0%
 
 >[!TIP]
 >
->URL會自動從計畫和登陸頁面名稱中建構。 若要變更URL，請編輯 **頁面URL** 欄位。
+>URL會自動從程式和登入頁面名稱建構。 若要變更URL，請編輯 **頁面URL** 欄位。
 >
->清除 **在編輯器中開啟** 核取方塊（如果您不想在按一下後立即開啟編輯器） **建立**.
+>清除 **在編輯器中開啟** 核取方塊（如果您不希望編輯器在按一下後立即開啟） **建立**.

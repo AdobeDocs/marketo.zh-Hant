@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >* 目前，只有Firefox完全支援此功能。 Safari不支援此功能，且根據您的SameSite Cookie設定，此功能在最新版Chrome中可能無法運作。
 
-1. 導覽至Adobe Experience Manager （此為貴公司專屬的URL）。
+1. 導覽至Adobe Experience Manager （URL特定於您的公司）。
 
    ![](assets/one.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/2a.png)
 
-1. 在您的瀏覽器中，搜尋(Windows上按ctrl+f，Mac上按cmd+f)以取得「AdobeGranite跨原始資源共用原則」。
+1. 在您的瀏覽器中，搜尋(Windows上ctrl+f，Mac上cmd+f)以尋找「AdobeGranite跨原始資源共用原則」。
 
    ![](assets/three.png)
 

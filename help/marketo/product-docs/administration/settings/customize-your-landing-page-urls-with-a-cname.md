@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用CNAME自訂您的登陸頁面URL  {#customize-your-landing-page-urls-with-a-cname}
 
-即使Marketo代管您的登陸頁面，也應針對您的公司自訂URL。
+即使Marketo代管您的登陸頁面，還是應該根據貴公司自訂URL。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >https://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html
 >
->品牌CNAME：
+>品牌化CNAME：
 >
 >https://go.**您的公司**.com/UnsuscribePage.html
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-讓我們設定您！
+讓我們為您設定！
 
 1. 選擇CNAME。
 
-   這是URL的前端。 範例:
+   這是URL的前面。 範例:
 
    * **執行**.YourCompany.com/NameOfPage.html
    * **資訊**.YourCompany.com/NameOfPage.html
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
-1. 在 **[!UICONTROL 登陸頁面]** 索引標籤中，從設定區段複製帳戶字串。
+1. 在 **[!UICONTROL 登陸頁面]** 標籤，從設定區段複製帳戶字串。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 1. 傳送要求給IT。
 
-1. 請您的IT人員設定下列CNAME (取代文字 [CNAME] 和 [帳戶字串] 使用上一步驟的文字)：
+1. 請您的IT人員設定下列CNAME (取代 [CNAME] 和 [帳戶字串] 並使用上一步驟中的文字)：
 
    [CNAME].YourCompany.com > [帳戶字串].mktoweb.com
 
@@ -77,10 +77,10 @@ ht-degree: 0%
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. 在中輸入您的CNAME **[!UICONTROL 登陸頁面的網域名稱]**，輸入您的 **[!UICONTROL 備援頁面]**，輸入您的 **[!UICONTROL 首頁]**，然後按一下 **[!UICONTROL 儲存]**.
+1. 輸入您的CNAME，在 **[!UICONTROL 登陸頁面的網域名稱]**，輸入您的 **[!UICONTROL 後援頁面]**，輸入您的 **[!UICONTROL 首頁]**，然後按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 
-如果您的Marketo登陸頁面無法使用，備援頁面會將使用者重新導向。
+如果您的Marketo登陸頁面無法使用，您的後援頁面會將使用者重新導向。
 
 做得好！ 您的登入頁面現在以公司網域命名。

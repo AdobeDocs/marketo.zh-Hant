@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 邀請使用者 {#invite-users}
 
-新增使用者既快速又輕鬆！
+新增使用者既快速又簡單！
 
 1. 按一下齒輪圖示並選取 **設定**.
 
    ![](assets/one.png)
 
-1. 在「管理設定」下，選取 **User Management**.
+1. 在管理設定下，選取 **User Management**.
 
    ![](assets/invite-team-members-2.png)
 

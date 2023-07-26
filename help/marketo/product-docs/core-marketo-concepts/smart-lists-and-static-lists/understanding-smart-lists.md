@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 瞭解智慧清單 {#understanding-smart-lists}
 
-智慧清單可讓您使用簡單篩選器尋找特定的人員群組。 它們會在Marketo上廣泛使用，例如智慧行銷活動、方案、報告、區段、業務模型、參與方案、動態內容等。 根據您的需求，您可以在Marketo中的兩個位置建立智慧清單：
+智慧清單可讓您使用簡單篩選器尋找特定的人員群組。 它們會在Marketo上廣泛使用，例如智慧行銷活動、方案、報表、區段、業務模型、參與方案、動態內容等。 根據您的需求，您可以在Marketo中的兩個位置建立智慧清單：
 
 1. 在 **資料庫**，可供共用/全域使用（例如「所有已取消訂閱的使用者」）。
 1. 在 **計畫** 作為本機資產，負責找出與特定計畫相關的一組人員（例如「參加商展」）。
@@ -21,7 +21,7 @@ ht-degree: 0%
 建立智慧清單的主要步驟如下：
 
 1. [建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-1. [尋找篩選器並將其新增至智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+1. [尋找並新增篩選器至智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 1. [定義智慧清單篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
 以下是智慧清單的範例。
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ![](assets/smartlist-people.png)
 
-## 智慧清單標籤 {#smart-list-tab}
+## 智慧清單索引標籤 {#smart-list-tab}
 
 您可新增並定義篩選器，以在「人員」標籤中檢視特定群組。
 

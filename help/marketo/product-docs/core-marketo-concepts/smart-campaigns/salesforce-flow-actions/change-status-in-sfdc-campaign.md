@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147029
-description: 在SFDC行銷活動中變更狀態 — Marketo檔案 — 產品檔案
-title: 變更SFDC行銷活動中的狀態
+description: 在SFDC促銷活動中變更狀態 — Marketo檔案 — 產品檔案
+title: 變更SFDC促銷活動中的狀態
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,7 +11,7 @@ ht-degree: 2%
 
 ---
 
-# 變更SFDC行銷活動中的狀態 {#change-status-in-sfdc-campaign}
+# 變更SFDC促銷活動中的狀態 {#change-status-in-sfdc-campaign}
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 2%
 
 ## 使用情況 {#usage}
 
-1. 首先尋找並選取Salesforce **Campaign** 記錄已加入。
+1. 首先尋找並選取Salesforce **Campaign** 記錄已輸入。
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 

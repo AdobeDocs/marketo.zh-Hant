@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 為您的網頁行銷活動加上標籤 {#label-your-web-campaigns}
 
-您有這麼多行銷活動，導致捲動變得繁瑣嗎？ 使用標籤來標籤行銷活動，以便您可以排序並快速找到行銷活動。
+您有這麼多行銷活動，導致捲動變得繁瑣嗎？ 使用標籤來標籤行銷活動，以便您可以排序並快速尋找。
 
 ## 新增標籤至網站行銷活動 {#add-a-label-to-a-web-campaign}
 
-1. 登入Web Personalization並前往Web Campaigns區域。
+1. 登入Web Personalization並移至Web Campaigns區域。
 
    ![](assets/web-campaigns-hand.jpg)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
    >
    >為了更方便找到您想要的行銷活動，請使用 [篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. 選取您要使用標籤標籤的行銷活動。
+1. 選取您要使用標籤標籤的促銷活動。
 
    ![](assets/web-campaigns-label.jpg)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 ## 依現有標籤篩選 {#filter-by-existing-labels}
 
-1. 在標籤下拉式清單下，選取您要用作篩選器的標籤。
+1. 在「標籤」下拉式清單中，選取要作為篩選使用的標籤。
 
    ![](assets/web-campaigns-my-campaigns-dropdown.jpg)
 
-1. 現在，我們只會顯示與所選標籤相關聯的行銷活動。
+1. 現在，我們只會顯示與所選標籤相關聯的促銷活動。
 
    ![](assets/web-campaigns-label-showing.jpg)
 

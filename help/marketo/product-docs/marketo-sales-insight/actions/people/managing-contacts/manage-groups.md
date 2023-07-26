@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 管理群組 {#manage-groups}
 
-瞭解如何在Sales Insight Actions中管理您的群組。
+瞭解如何在Sales Insight Actions中管理群組。
 
 ## 群組型別 {#group-types}
 
@@ -28,7 +28,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>所有人員</td> 
-   <td>所有使用者中您可見的所有連絡人。</td> 
+   <td>您看得見的所有使用者的所有連絡人。</td> 
   </tr> 
   <tr> 
    <td>動態群組</td> 
@@ -36,22 +36,22 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>我的群組</td> 
-   <td>您已建立的群組。 它們可以包含您的連絡人或已與您共用的連絡人。</td> 
+   <td>您已建立的群組。 它們可以包含您的連絡人或與您共用的連絡人。</td> 
   </tr> 
   <tr> 
    <td>團隊群組</td> 
-   <td>與您和/或共用的群組。 它們可以包含您的隊友擁有的聯絡人或您與他們共用的聯絡人。</td> 
+   <td>已與您和/或由您共用的群組。 它們可以包含您隊友擁有的連絡人或您與他們共用的連絡人。</td> 
   </tr> 
  </tbody> 
 </table>
 
 ## 建立群組 {#create-a-group}
 
-1. 在「人物」頁面中，按一下 **+** 「群組」旁邊。
+1. 在「人物」頁面中，按一下 **+** 「群組」旁。
 
    ![](assets/manage-groups-1.png)
 
-1. 為您的群組命名，然後按一下 **建立**.
+1. 為群組命名，然後按一下 **建立**.
 
    ![](assets/manage-groups-2.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## 新增連絡人至群組 {#add-contacts-to-a-group}
 
-1. 在「人員」頁面中，尋找並選取您要新增人員的群組。
+1. 在「人員」頁面中，尋找並選取要新增人員的群組。
 
    ![](assets/manage-groups-3.png)
 
@@ -71,15 +71,15 @@ ht-degree: 0%
    >
    >這將會一次新增一個連絡人。 若要同時新增多個連絡人，請遵循 [這些步驟](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
 
-1. 填寫連絡人的資訊，然後按一下 **建立** (或 **建立和新增** 以新增另一個)。
+1. 填寫連絡人資訊，然後按一下 **建立** (或 **建立和新增** 以新增另一個)。
 
    ![](assets/manage-groups-5.png)
 
-   而且您已完成！
+   而您已完成！
 
    >[!NOTE]
    >
-   >您可能需要點選「重新整理」才能檢視任何新增的連絡人。
+   >您可能必須點選「重新整理」才能檢視任何新增的連絡人。
 
 ## 共用群組 {#share-a-group}
 
@@ -95,7 +95,7 @@ ht-degree: 0%
 
    ![](assets/manage-groups-8.png)
 
-   您仍擁有群組，但群組現在會顯示於 _團隊群組_.
+   您仍然擁有群組，但它現在會顯示在下方 _團隊群組_.
 
 ## 取消共用群組 {#unshare-a-group}
 

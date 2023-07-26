@@ -17,7 +17,7 @@ ht-degree: 0%
 
 **我的報告** 只有您能看見。
 
-**群組報表** 對該工作區中的所有使用者都可見。
+**群組報表** 對該工作區中的所有使用者可見。
 
 >[!NOTE]
 >
@@ -27,5 +27,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [儲存報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
->* [複製報告至群組報告](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
+>* [儲存報表](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
+>* [將報表複製到群組報表](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)

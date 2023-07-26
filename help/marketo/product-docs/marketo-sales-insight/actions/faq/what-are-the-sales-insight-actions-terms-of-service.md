@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sales Insight Actions的服務條款為何？ {#what-are-the-sales-insight-actions-terms-of-service}
 
-您可以找到銷售分析動作服務條款 [此處](https://documents.marketo.com/toutapp/terms).
+您可以找到Sales Insight Actions服務條款 [此處](https://documents.marketo.com/toutapp/terms).
 
 >[!NOTE]
 >

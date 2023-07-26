@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11375827
 description: 將Marketo與Dynamics同步的必填欄位 — Marketo檔案 — 產品檔案
-title: Marketo與Dynamics同步的必填欄位
+title: 將Marketo與Dynamics同步所需的欄位
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# Marketo與Dynamics同步的必填欄位 {#required-fields-for-syncing-marketo-with-dynamics}
+# 將Marketo與Dynamics同步所需的欄位 {#required-fields-for-syncing-marketo-with-dynamics}
 
-這些欄位 *必須* 與Marketo同步，以便銷售線索和連絡人能夠進行Sales Insight：
+這些欄位 *必須* 會與Marketo同步，以便潛在客戶與聯絡人能夠進行Sales Insight：
 
 * 優先順序
 * 急迫性
 * 相對分數
 
-如果缺少這些欄位，您會在Marketo中看到一則錯誤訊息，其中包含缺少的欄位名稱。 若要解決此問題，請簽入您的執行個體，以確定這兩個欄位都已同步 **銷售機會** 和 **連絡人**. 如果沒有，請新增它們。
+如果缺少這些欄位，您會在Marketo中看到錯誤訊息，其中包含缺少欄位的名稱。 若要修正此問題，請簽入您的執行個體，以確定這兩個欄位都已同步 **銷售機會** 和 **連絡人**. 如果沒有，請新增它們。
 
 以下說明如何驗證和新增同步欄位。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 按一下 **編輯** 欄位同步詳細資訊。
+1. 按一下 **編輯** 欄位同步處理詳細資訊。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2016-6-8-13-3a36-3a1.png)
 
-1. 接著，勾選連絡人的優先順序、緊急性和相對分數核取方塊。
+1. 接著，核取連絡人的優先順序、緊急性和相對分數核取方塊。
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->確認您已修正問題前，請務必等候至少10分鐘以執行同步。
+>確認您已修正問題前，請務必等候至少10分鐘讓同步執行。
 
 >[!MORELIKETHIS]
 >

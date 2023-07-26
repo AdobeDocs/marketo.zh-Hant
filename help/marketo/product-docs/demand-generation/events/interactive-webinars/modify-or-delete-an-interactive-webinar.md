@@ -16,33 +16,33 @@ ht-degree: 0%
 
 ## 修改互動式網路研討會 {#modify-an-interactive-webinar}
 
-1. 選取所需的事件計畫並按一下 **變更會議室/範本**.
+1. 選取所需的事件程式並按一下 **變更會議室/範本**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. 房間將會載入。 如果要變更檔案室，請從「檔案室」下拉式清單中選取一個檔案室。 若要只更新範本，請按一下 **使用空間**.
+1. 房間將會載入。 如果要變更會議室，請從「會議室」下拉式清單中選取一個會議室。 若要只更新範本，請按一下 **使用房間**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
 >[!NOTE]
 >
->變更您的檔案室是選擇性的，不需要更新您的範本。
+>變更您的聊天室是選擇性的，不需要更新您的範本。
 
 1. 按一下 **立即調整您的網路研討會**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-3.png)
 
-1. 選取您的音訊/視訊偏好設定，然後按一下 **進入房間**.
+1. 選取您的音訊/視訊偏好設定，然後按一下 **進入會議室**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-4.png)
 
-1. 完成修改後，按一下「 」 **退出房間**.
+1. 完成修改後，按一下 **退出房間**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
 ## 重新排程互動式網路研討會 {#reschedule-an-interactive-webinar}
 
-1. 選取所需的事件計畫，然後按一下目前排程日期/時間旁的鉛筆圖示。
+1. 選取想要的事件程式，然後按一下目前排程日期/時間旁的鉛筆圖示。
 
    ![](assets/modify-or-delete-an-interactive-webinar-6.png)
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    ![](assets/modify-or-delete-an-interactive-webinar-8.png)
 
-1. 按一下程式動作下拉式清單，然後選取 **原地複製**.
+1. 按一下方案動作下拉式清單，然後選取 **原地複製**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-9.png)
 
@@ -86,7 +86,7 @@ ht-degree: 0%
 
    ![](assets/modify-or-delete-an-interactive-webinar-13.png)
 
-1. 按一下程式動作下拉式清單，然後選取 **刪除**.
+1. 按一下方案動作下拉式清單，然後選取 **刪除**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-14.png)
 

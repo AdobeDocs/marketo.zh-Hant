@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359707
-description: 新增矩形至自由表單登陸頁面 — Marketo檔案 — 產品檔案
+description: 將矩形新增至自由表單登陸頁面 — Marketo檔案 — 產品檔案
 title: 新增矩形至自由表單登陸頁面
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 feature: Landing Pages
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以使用拖放方式來移動矩形並調整其大小。 同時嘗試鍵盤上的箭頭！ 提示：按下Shift鍵可一次移動矩形10px。
+   >您可以使用拖放方式來移動矩形並調整其大小。 同時嘗試鍵盤上的箭頭！ 提示：按下Shift鍵一次移動10px的矩形。
 
    ![](assets/image2015-5-21-14-3a50-3a24.png)
 

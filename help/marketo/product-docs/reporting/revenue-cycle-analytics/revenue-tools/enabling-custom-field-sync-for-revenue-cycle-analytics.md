@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 按一下 **Revenue Cycle Analytics**，則 **自訂欄位同步**.
+1. 按一下 **收入週期分析**，然後 **自訂欄位同步**.
 
    ![](assets/two.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >啟用欄位後，資料便可在隔天的Revenue Cycle Analytics中使用。
+   >啟用欄位後，資料第二天便可在Revenue Cycle Analytics中使用。

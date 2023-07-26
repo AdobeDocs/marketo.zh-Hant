@@ -19,7 +19,7 @@ ht-degree: 1%
 
 ## 概觀 {#overview}
 
-此流程步驟會將Marketo建立的人作為銷售機會插入您的Salesforce CRM。
+此流程步驟會將Marketo建立的人員當作銷售機會插入您的Salesforce CRM。
 
 ![](assets/sync-person-to-sfdc.png)
 
@@ -31,14 +31,14 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >Salesforce要求人員填寫公司和姓氏欄位。 否則，會拒絕潛在客戶記錄。
+   >Salesforce要求人員填寫公司和姓氏欄位。 否則，它會拒絕潛在客戶記錄。
 
-1. 您可以將特定的Salesforce使用者或銷售機會佇列設定為銷售機會擁有者。
+1. 您可以將特定的Salesforce使用者或潛在客戶佇列設定為潛在客戶擁有者。
 
    ![](assets/sync-person-to-sfdc-2.png)
 
-   使用此流程步驟時，人員會立即同步為Salesforce銷售機會，不需要等候一般同步。
+   使用此流程步驟時，人員會立即同步為Salesforce銷售機會，不需要等候定期同步。
 
    >[!CAUTION]
    >
-   >Salesforce不允許將「連絡人」指派給潛在客戶佇列。 在此情況下，Marketo會在Salesforce中建立重複的「銷售機會」。
+   >Salesforce不允許將「聯絡人」指派給潛在客戶佇列。 在這種情況下，Marketo將在Salesforce中建立重複的「銷售機會」。

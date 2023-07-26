@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ## 可用Token {#available-tokens}
 
-簽出 [Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) 檢視您能放入有趣時刻的所有代號。
+簽出 [Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) 檢視您能放入有趣時刻的所有權杖。
 
 ## 觸發Token {#trigger-tokens}
 
-根據智慧行銷活動中使用的觸發器，可使用其他觸發器代號。
+系統會根據智慧型行銷活動中使用的觸發器，提供其他觸發器代號。
 
 * `{{trigger.Trigger Name}}` 永遠是實際的觸發程式本身。 例如：按一下電子郵件中的連結。
 * `{{trigger.Name}}` 是觸發行銷活動的資產名稱。 例如：網頁上的點選連結是URL本身、Salesforce觸發器的主旨等。
@@ -84,7 +84,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>電子郵件硬跳出</td> 
+   <td>電子郵件硬退信</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -260,7 +260,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>為已傳送的銷售電子郵件</td> 
+   <td>已傳送銷售電子郵件</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -413,7 +413,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>已從機會中移除</td> 
+   <td>已從機會移除</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -589,7 +589,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>為已傳送的銷售電子郵件</td> 
+   <td>已傳送銷售電子郵件</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -804,9 +804,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果它沒有核取方塊 ![（勾選）](assets/check.png) 那麼它會在有趣的時刻傳回空字串（無）。
+>若沒有核取方塊 ![（勾選）](assets/check.png) 那麼它會在有趣的時刻傳回空字串（無）。
 
-&#42;觸發程式 **造訪網頁** 有一些額外的Token：
+&#42;觸發程式 **造訪網頁** 有一些額外的權杖：
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
@@ -816,4 +816,4 @@ ht-degree: 0%
 >
 >請務必測試您感興趣的時刻，以確保它們按照您預期的方式呈現。
 >
->此外，請確定銷售人員對此感興趣，而不僅僅是您！
+>此外，請確定銷售人員對此感興趣，而不僅僅是對您感興趣！

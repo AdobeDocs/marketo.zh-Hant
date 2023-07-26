@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360253
-description: 編輯「以網頁檢視」訊息 — Marketo檔案 — 產品檔案
+description: 編輯「以網頁方式檢視」訊息 — Marketo檔案 — 產品檔案
 title: 編輯「以網頁檢視」訊息
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >下列變數相當重要。 不要刪除它們！
+   >下列變數至關重要。 請勿刪除它們！
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >第二部分 `##MKT_TOK##` 是 [!UICONTROL munchkin] 該人員的Cookie。 它會確保使用者在按一下連結時獲得適當的編碼。
+   >第二部分 `##MKT_TOK##` 是 [!UICONTROL munchkin] 該人員的Cookie。 它會確保他們在按一下連結時獲得適當的編碼。
 
 1. 編輯 **[!UICONTROL 以網頁HTML檢視]** 和 **[!UICONTROL 以網頁文字檢視]** 版本以符合您的喜好並按一下 **[!UICONTROL 儲存變更]**.
 
@@ -45,14 +45,14 @@ ht-degree: 0%
 >
 >請務必避免：
 >
->* 新增其他URL至任一HTML方塊
->* 將HTML放在文字版本中
+>* 新增其他URL至其中一個HTML方塊
+>* 在文字版本中置入HTML
 
-給你。 傳送測試電子郵件以確保格式化。
+您有。 傳送測試電子郵件以確保格式化。
 
 ## 預設「以網頁檢視」文字 {#default-view-as-web-page-text}
 
-如果您需要恢復為預設系統»[!UICONTROL 以網頁檢視]&quot;，複製/貼上下列內容：
+如果您需要還原為預設系統»[!UICONTROL 以網頁檢視]「」，複製/貼上下列內容：
 
 **[!UICONTROL 以網頁HTML檢視]**：
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **[!UICONTROL 以網頁文字檢視]**：
 
-若要以網頁形式檢視此電子郵件，請前往下列地址：
+若要以網頁的形式檢視此電子郵件，請前往下列地址：
 `<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>`
 
 完成了！

@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
-1. 輸入標題和URL，以及影像URL （如果需要）。
+1. 輸入標題和URL，如果需要的話輸入影像URL。
 
    ![](assets/add-new-content-updated-pencils.png)
 

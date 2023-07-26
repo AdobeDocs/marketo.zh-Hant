@@ -20,11 +20,11 @@ ht-degree: 0%
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-1.png)
 
-1. 在「管理設定」底下，按一下 **Salesforce**.
+1. 在管理設定下，按一下 **Salesforce**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-2.png)
 
-1. 在「連線和自訂」標籤中，按一下 **Salesforce** 則 **Connect**.
+1. 在「連線和自訂」標籤中，按一下 **Salesforce** 則 **連線**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-3.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
-1. 如果您已登入Salesforce，則會與您連線。 否則系統會要求您登入。
+1. 如果您已登入Salesforce，則會與您連線。 否則，系統會要求您登入。
 
 ## 如何以非管理員身分連線 {#how-to-connect-as-a-non-admin}
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 1. 在我的帳戶下，選取 **Salesforce**.
 
-1. 在「連線和自訂」標籤中，按一下 **Salesforce** 則 **Connect**.
+1. 在「連線和自訂」標籤中，按一下 **Salesforce** 則 **連線**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-7.png)
 
@@ -50,4 +50,4 @@ ht-degree: 0%
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 
-1. 如果您已登入Salesforce，則會與您連線。 否則系統會要求您登入。
+1. 如果您已登入Salesforce，則會與您連線。 否則，系統會要求您登入。

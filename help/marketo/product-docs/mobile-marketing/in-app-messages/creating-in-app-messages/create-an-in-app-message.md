@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 建立應用程式內訊息 {#create-an-in-app-message}
 
-建立完美的應用程式內訊息有幾個步驟。 從這裡開始，然後按照這些文章中的順序步驟操作。
+建立完美的應用程式內訊息有數個步驟。 從這裡開始，然後按照這些文章中的順序步驟操作。
 
 建立應用程式內訊息後，請前往 [此處](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) 以瞭解如何傳送。
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 1. 選取 **應用程式內訊息**.
 
-   ![影像3](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-3.png)
+   ![影像三](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-3.png)
 
-1. 輸入應用程式內訊息的名稱、提供選擇性說明，然後按一下 **建立**.
+1. 輸入應用程式內訊息的名稱，提供選用的說明，然後按一下 **建立**.
 
-   ![影像4](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-4.png)
+   ![影像四](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-4.png)
 
 >[!NOTE]
 >

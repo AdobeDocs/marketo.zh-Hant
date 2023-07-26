@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. Check **啟用Salesforce Campaign同步** 並按一下 **儲存**.
+1. 檢查 **啟用Salesforce Campaign同步** 並按一下 **儲存**.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
-給你。 只要給同步處理一些時間，以便從Salesforce提取資料，您就可以開始了。
+您有。 只要給同步處理一些時間，以便從Salesforce提取資料，您就可以開始了。
 
 >[!MORELIKETHIS]
 >

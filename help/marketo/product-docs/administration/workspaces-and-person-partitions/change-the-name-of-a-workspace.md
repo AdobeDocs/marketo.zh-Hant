@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->首先瞭解 [瞭解工作區和人員資料分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>首先瞭解 [瞭解工作區和人員分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. 前往 **[!UICONTROL 管理員]** 區域。
 

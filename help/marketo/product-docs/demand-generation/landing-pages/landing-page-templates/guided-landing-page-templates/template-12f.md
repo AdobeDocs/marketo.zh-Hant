@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本12F {#template-12f}
 
-按一下滑鼠右鍵以 [下載範本12F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html)
+按一下右鍵以 [下載範本12F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html)
 
 ![](assets/image2015-8-4-14-3a51-3a6.png)
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 六個主體區段（選擇性）
 * 頁尾（選擇性）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本12F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html)

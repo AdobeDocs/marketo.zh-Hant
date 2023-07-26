@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7516605
-description: 需簽出的專案 — Marketo檔案 — 產品檔案
+description: 待簽專案 — Marketo檔案 — 產品檔案
 title: 要簽出的專案
 exl-id: fd20fbcf-3690-41da-94fa-b40f32a0b251
 feature: Getting Started
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 * 瞭解如何與 [**行銷國家**](https://nation.marketo.com/t5/About-Community/ct-p/about-community){target="_blank"} 社群以取得問題的解答。
 
-* 按一下 **[!UICONTROL 您的地標]** Marketo ，檢視貴公司的帳戶頁面。
+* 按一下 **[!UICONTROL 您的地標]** 在您的Marketo Nation社群設定檔中，檢視您公司的帳戶頁面。
 
 * 瞭解如何 [**提交支援案例**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"})。
 

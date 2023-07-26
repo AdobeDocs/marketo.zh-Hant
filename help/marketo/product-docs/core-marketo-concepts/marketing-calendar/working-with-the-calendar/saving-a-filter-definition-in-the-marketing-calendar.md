@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   如果您需要，可以 [傳送復本](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} 提供給其他Marketo使用者。
+   您也可以 [傳送復本](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} 定義的所有元件給其他Marketo使用者。
 
    >[!NOTE]
    >

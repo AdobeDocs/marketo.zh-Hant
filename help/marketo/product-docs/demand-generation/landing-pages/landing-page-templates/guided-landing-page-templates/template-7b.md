@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本7B {#template-7b}
 
-按一下滑鼠右鍵以 [下載範本7B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html)
+按一下右鍵以 [下載範本7B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html)
 
 ![](assets/image2015-7-29-15-3a13-3a3.png)
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 * 標題（選用）
 * 主要區段
 
-   * 包括標題和影片
+   * 包含標題和視訊
 
 * 四個主體區段（選擇性）
-* 頁尾（選擇性）
+* 頁尾（選填）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本7B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html)

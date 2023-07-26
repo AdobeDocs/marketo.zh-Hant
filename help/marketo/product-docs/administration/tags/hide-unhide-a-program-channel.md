@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-您可以 [刪除方案頻道](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) 任何程式未使用。  不過，一旦使用後，我們需要加以儲存。  不過，如果您不再需要它，可以將其隱藏。
+您可以 [刪除方案頻道](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) 任何程式未使用。  不過，一旦使用，我們就需要加以儲存。  不過，如果您不再需要它，可以將其隱藏。
 
 ## 隱藏方案頻道 {#hide-a-program-channel}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/hide-unhide-a-program-channel-3.png)
 
-1. 下 **[!UICONTROL 標籤動作]**，按一下 **[!UICONTROL 隱藏]**.
+1. 在 **[!UICONTROL 標籤動作]**，按一下 **[!UICONTROL 隱藏]**.
 
    ![](assets/hide-unhide-a-program-channel-4.png)
 

@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. 下 **表單動作**，按一下 **刪除表單**.
+1. 在 **表單動作**，按一下 **刪除表單**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -35,10 +35,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 
-1. 如果表單用於Marketo登陸頁面，則不允許您將其刪除。 您必須將它從它所駐留的任何登陸頁面中移除。
+1. 如果此表單用於Marketo登陸頁面，您將無權刪除它。 您必須將它從它所駐留的任何登陸頁面中移除。
 
    ![](assets/image2014-9-15-12-3a1-3a44.png)
 
 >[!CAUTION]
 >
->如果您刪除公用網站正在使用的表單，則不會看到警告，且表單會損毀。 考慮  [封存它](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) 而非。
+>如果刪除公用網站正在使用的表單，您將不會看到警告，且表單將會損毀。 考慮  [封存它](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) 而非。

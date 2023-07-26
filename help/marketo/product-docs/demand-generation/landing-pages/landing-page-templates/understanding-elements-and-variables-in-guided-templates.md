@@ -17,7 +17,7 @@ ht-degree: 2%
 
 ## 元素 {#elements}
 
-元素是組成登入頁面的不同內容片段。 可以是影像、文字或Marketo資產。
+元素是組成登入頁面的不同內容片段。 資料可以是影像、文字或Marketo資產。
 
 ![](assets/image2015-5-20-14-3a57-3a55.png)
 
@@ -35,11 +35,11 @@ ht-degree: 2%
 
 ## 變數 {#variables}
 
-變數是類似權杖的屬性，可從引導式登陸頁面編輯器加以自訂，如下所示。
+變數是權杖狀屬性，可從引導式登陸頁面編輯器自訂，如下所示。
 
 ![](assets/image2015-5-20-15-3a0-3a2.png)
 
-有三種變數型別：字串變數、顏色變數和布林值變數。
+變數型別有三種：字串變數、顏色變數和布林值變數。
 
 <table> 
  <tbody> 
@@ -49,15 +49,15 @@ ht-degree: 2%
   </tr> 
   <tr> 
    <td>顏色</td> 
-   <td><p>色彩的可編輯十六進位代碼</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>範例：背景顏色、字型顏色、邊框顏色</p></td> 
+   <td><p>色彩的可編輯十六進位代碼</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>範例：背景顏色、字型顏色、框線顏色</p></td> 
   </tr> 
   <tr> 
    <td>布林值</td> 
-   <td><p>控制登陸頁面上物件或格式開啟/關閉狀態的槓桿</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>範例：顯示頁尾（是/否）、欄計數(1/2)、內嵌Google Analytics（真/假）</p></td> 
+   <td><p>控制登陸頁面上物件或格式的開啟/關閉狀態的槓桿</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>範例：顯示頁尾（是/否）、欄計數(1/2)、內嵌Google Analytics（真/假）</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!MORELIKETHIS]
 >
->[建立引導式登入頁面範本](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+>[建立引導式登陸頁面範本](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)

@@ -1,6 +1,6 @@
 ---
-description: 步驟2之3 — 建立Veeva CRM使用者以進行Marketo Engage- Marketo檔案 — 產品檔案
-title: 步驟2之3 — 建立Veeva CRM使用者以進行Marketo Engage
+description: 步驟3之2 — 建立Veeva CRM使用者以進行Marketo Engage- Marketo檔案 — 產品檔案
+title: 步驟3之2 — 建立Veeva CRM使用者以進行Marketo Engage
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,7 +10,7 @@ ht-degree: 4%
 
 ---
 
-# 步驟2/3：建立Veeva CRM使用者以進行Marketo Engage {#step-2-of-3-create-a-veeva-crm-user-for-marketo-engage}
+# 步驟3之2：建立Veeva CRM使用者以進行Marketo Engage {#step-2-of-3-create-a-veeva-crm-user-for-marketo-engage}
 
 >[!NOTE]
 >
@@ -18,13 +18,13 @@ ht-degree: 4%
 
 >[!PREREQUISITES]
 >
->[步驟1/3：將Marketo欄位新增至Salesforce (Professional)](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
+>[步驟3之1：將Marketo欄位新增至Salesforce (Professional)](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
 
 在本文中，您將使用Veeva CRM頁面配置來自訂欄位許可權，並建立Marketo-Veeva CRM同步使用者。
 
 ## 設定頁面配置 {#set-page-layouts}
 
-依照這些步驟操作將允許Marketo同步使用者更新自訂欄位。
+按照以下步驟操作將允許Marketo同步使用者更新自訂欄位。
 
 1. 按一下導覽搜尋列中的「帳戶（個人帳戶）」頁面配置，而不按Enter，然後按一下「連絡人」下的「頁面配置」。
 
@@ -38,13 +38,13 @@ ht-degree: 4%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-3.png)
 
-1. 按一下並拖曳新專案 **章節** 放入頁面版面中。
+1. 按一下並拖曳新專案 **章節** 放入頁面版面配置。
 
-1. 在區段名稱中輸入「Marketo」並按一下 **確定**.
+1. 在區段名稱中輸入「Marketo」，然後按一下 **確定**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-4.png)
 
-1. 按一下並將分數欄位拖曳至Marketo區段。
+1. 按一下並拖曳分數欄位至Marketo區段。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-5.png)
 
@@ -60,7 +60,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >這些欄位必須位於頁面版面配置中，Marketo才能加以讀取/寫入。
+   >這些欄位必須位於頁面配置中，Marketo才能讀取/寫入這些欄位。
 
    >[!TIP]
    >
@@ -98,7 +98,7 @@ ht-degree: 4%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-11.png)
 
-1. 在「管理許可權」區段下，確定已選取「已啟用API」。
+1. 在「管理許可權」區段下，確定已選取「已啟用API」 。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-12.png)
 
@@ -106,7 +106,7 @@ ht-degree: 4%
    >
    >請務必勾選「密碼永不過期」方塊。
 
-1. 在「一般使用者許可權」區段下，確定已選取「編輯事件」和「編輯任務」。
+1. 在一般使用者許可權區段下，確定已選取編輯事件和編輯任務。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
@@ -114,11 +114,11 @@ ht-degree: 4%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-14.png)
 
-1. 在「自訂物件許可權」區段下，確定已針對「呼叫」、「呼叫金鑰訊息」以及其他任何所需的「自訂物件」勾選「讀取」許可權。
+1. 在「自訂物件許可權」區段下，確定已針對「呼叫」、「呼叫金鑰訊息」及其他任何所需的「自訂物件」勾選「讀取」許可權。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-15.png)
 
-1. 完成後，按一下 **儲存** 位於頁面底部。
+1. 完成後，按一下 **儲存** ，位於頁面底部。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-16.png)
 
@@ -128,9 +128,9 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->此步驟將防止您不需要的欄位顯示在Marketo中，這將降低雜亂程度並加快同步速度。
+>此步驟將防止您不需要的欄位顯示在Marketo中，這將減少雜亂並加快同步速度。
 
-1. 在設定檔詳細資訊頁面中，前往欄位層級安全性區段。 按一下「檢視」可編輯「連絡人」和「帳戶」物件的協助工具。
+1. 在設定檔詳細資訊頁面中，移至欄位層級安全性區段。 按一下「檢視」以編輯「連絡人」和「帳戶」物件的協助工具。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-17.png)
 
@@ -142,7 +142,7 @@ ht-degree: 4%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-找出不必要的欄位，確定讀取存取權和編輯存取權是 **取消**&#x200B;已核取。 按一下 **儲存** 完成時。
+找出不必要的欄位，確定讀取存取權和編輯存取權是 **取消**&#x200B;已勾選。 按一下 **儲存** 完成時。
 
 ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
@@ -175,7 +175,7 @@ ht-degree: 4%
 
 ## 建立同步使用者 {#create-sync-user}
 
-Marketo需要憑證才能存取Veeva CRM。 最好由下列步驟建立的專屬使用者完成此操作。
+Marketo需要憑證才能存取Veeva CRM。 建議您先透過下列步驟建立專屬使用者，再完成這項工作。
 
 >[!NOTE]
 >
@@ -189,15 +189,15 @@ Marketo需要憑證才能存取Veeva CRM。 最好由下列步驟建立的專屬
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-21.png)
 
-1. 填寫必填欄位，選取使用者授權：Salesforce，設定設定檔：Marketo同步使用者，然後按一下 **儲存**.
+1. 填寫必填欄位，選取「使用者授權： Salesforce」，設定「設定檔： Marketo同步使用者」，然後按一下 **儲存**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-22.png)
 
 >[!TIP]
 >
->請確定您輸入的電子郵件地址有效。 您必須以同步使用者身分登入才能重設密碼。
+>請確定您輸入的電子郵件地址有效。 您必須以同步處理使用者身分登入，才能重設密碼。
 
-太棒了！ 現在您已擁有Marketo Engage可用來連線Veeva CRM的帳戶。 開始吧。
+太好了！ 現在您已擁有Marketo Engage可用來連線Veeva CRM的帳戶。 開始吧。
 
 >[!MORELIKETHIS]
 >

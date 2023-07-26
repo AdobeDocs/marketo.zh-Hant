@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 建立群組 {#create-a-group}
 
-1. 在「人物」頁面中，按一下 **+** 「群組」旁邊。
+1. 在「人物」頁面中，按一下 **+** 「群組」旁。
 
    ![](assets/one-4.png)
 
-1. 為您的群組命名，然後按一下 **建立**.
+1. 為群組命名，然後按一下 **建立**.
 
    ![](assets/two-3.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 新增連絡人至群組 {#add-contacts-to-a-group}
 
-1. 在「人員」頁面中，尋找並選取您要新增人員的群組。
+1. 在「人員」頁面中，尋找並選取要新增人員的群組。
 
    ![](assets/three-3.png)
 
@@ -41,15 +41,15 @@ ht-degree: 0%
    >
    >這將會一次新增一個連絡人。 若要同時新增多個連絡人，請遵循 [這些步驟](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-1. 填寫連絡人的資訊，然後按一下 **建立** (或 **建立和新增** 以新增另一個)。
+1. 填寫連絡人資訊，然後按一下 **建立** (或 **建立和新增** 以新增另一個)。
 
    ![](assets/five-3.png)
 
-   而且您已完成！
+   而您已完成！
 
    >[!NOTE]
    >
-   >您可能需要點選「重新整理」才能檢視任何新增的連絡人。
+   >您可能必須點選「重新整理」才能檢視任何新增的連絡人。
 
 ## 共用群組 {#share-a-group}
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-   您仍擁有群組，但群組現在會顯示在「團隊群組」下方。
+   您仍然擁有群組，但它現在會出現在團隊群組下方。
 
 ## 取消共用群組 {#unshare-a-group}
 
@@ -97,7 +97,7 @@ ht-degree: 0%
 
    ![](assets/thirteen.png)
 
-1. 輸入新名稱，然後按Enter。
+1. 輸入新名稱，然後按一下Enter。
 
    ![](assets/fourteen.png)
 

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 ## 驗證同步工具結果 {#validate-sync-tool-results}
 
-當您執行Dynamics驗證同步時，會產生報表。 如果有 ![x](assets/delete.png) 在步驟旁邊，請參閱以下選項以識別並修正問題。 然後，重新執行同步驗證步驟，直到結果只顯示綠色核取記號為止。
+當您執行Dynamics驗證同步時，它會產生報表。 如果有 ![x](assets/delete.png) 在步驟旁邊，參閱下列選項以找出並修正問題。 然後，重新執行同步驗證步驟，直到結果只顯示綠色核取記號為止。
 
 ![](assets/image2015-9-22-15-3a58-3a12.png)
 
 ## URL有效 {#url-is-valid}
 
-如果您擁有 ![x](assets/delete.png) 在此，確認URL有效。 請到這裡的「開發人員資源」找到它，並檢視「組織服務」。 URL可能因為多種原因而無效。
+如果您擁有 ![x](assets/delete.png) 在此，確認URL有效。 請到這裡開發人員資源找到該檔案，並檢視組織服務。 URL可能因為多種原因而無效。
 
-1. 登入Dynamics。 按一下設定圖示並選取 **進階設定**.
+1. 登入Dynamics。 按一下「設定」圖示並選取 **進階設定**.
 
    ![](assets/one.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 使用者名稱和密碼有效 {#username-and-password-are-valid}
 
-如果您擁有 ![x](assets/delete.png) 在這裡，確認您的Microsoft Dynamics憑證有效。 針對Web API S2S驗證，Marketo中的使用者名稱必須與 [電子郵件地址](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) CRM中的應用程式使用者身分。 若是其他型別，它應該與「同步使用者」的使用者名稱相符。
+如果您擁有 ![x](assets/delete.png) 在這裡，確認您的Microsoft Dynamics認證有效。 針對Web API S2S驗證，Marketo中的使用者名稱必須符合 [電子郵件地址](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) CRM中的應用程式使用者身分。 若是其他型別，它應符合Sync使用者的使用者名稱。
 
 ## 已將同步使用者指派給Marketo同步使用者角色 {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 確認已勾選Marketo同步使用者角色。 如果沒有，請核取並按一下 **確定。**
+1. 確認已勾選Marketo Sync User role 。 如果沒有，請核取並按一下 **確定。**
 
    ![](assets/image2015-9-24-9-3a59-3a21.png)
 
@@ -79,11 +79,11 @@ ht-degree: 0%
 
 **選項三 — 同步使用者**：
 
-1. 確認已將同步使用者新增至Marketo設定。
+1. 確認同步使用者已新增至Marketo設定。
 
 ## Marketo解決方案已正確安裝 {#marketo-solution-is-properly-installed}
 
-如果您擁有 ![x](assets/delete.png) 請前往Microsoft Dynamics以確認已安裝Marketo。 請參閱Microsoft Dynamics設定檔案的步驟1。
+如果您擁有 ![x](assets/delete.png) 請前往Microsoft Dynamics確認Marketo是否已安裝。 請參閱Microsoft Dynamics設定檔案的步驟1。
 
 1. 在Dynamics中，按一下「設定」圖示並選取 **進階設定**.
 
@@ -99,11 +99,11 @@ ht-degree: 0%
 
 ## 解決方案中的所有步驟皆已啟用 {#all-steps-in-the-solution-are-enabled}
 
-如果您擁有 ![x](assets/delete.png) 在此，確認未停用任何預設步驟。 所有步驟都會在安裝時自動啟用，但可在自訂期間停用。
+如果您擁有 ![x](assets/delete.png) 在此確認未停用任何預設步驟。 所有步驟在安裝時自動啟用，但在自訂期間可以停用。
 
 ## 同步使用者已指派至Marketo解決方案 {#sync-user-is-assigned-to-the-marketo-solution}
 
-如果您擁有 ![x](assets/delete.png) 在此，請確定已在Microsoft Dynamics的Marketo預設頁面上指派同步使用者。
+如果您擁有 ![x](assets/delete.png) 在此，確定已在Microsoft Dynamics的Marketo預設頁面上指派同步使用者。
 
 1. 在Dynamics中，按一下「設定」圖示並選取 **進階設定**.
 

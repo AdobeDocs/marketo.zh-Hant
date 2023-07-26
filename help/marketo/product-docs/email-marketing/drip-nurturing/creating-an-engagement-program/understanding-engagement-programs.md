@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 瞭解參與計畫 {#understanding-engagement-programs}
 
-參與計畫的設計目的是透過以系統化的方式向新人展示內容，以此向新人進行市場推廣。
+參與計畫的設計目的，是要透過以系統化的方式向新人展示內容，來向他們行銷。
 
 >[!NOTE]
 >
->上限為100 **作用中** 每個訂閱的參與計畫。
+>限製為100 **主要** 每個訂閱的參與計畫。
 
 ## 參與計畫 {#engagement-program}
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 資料流 {#stream}
 
-A **串流** 是參與計畫用來培養人的優先內容庫。
+A **串流** 是參與計畫將用於培養人的優先順序內容庫。
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
@@ -42,21 +42,21 @@ A **串流** 是參與計畫用來培養人的優先內容庫。
 
 ## 內容 {#content}
 
-有兩種型別 **內容** 您可以新增到參與計畫串流 — 電子郵件和計畫。 電子郵件將會在播放時間傳送給使用者。
+有兩種型別 **內容** 您可以新增到參與計畫串流 — 電子郵件和計畫。 電子郵件將會在轉換時間傳送給人員。
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
 >[!MORELIKETHIS]
 >
 >* [將內容新增至資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
->* [優先處理串流內容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
+>* [排定串流內容的優先順序](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
 >* [編輯串流內容的可用性](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
 >* [移除資料流內容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 >* [封存和取消封存資料流內容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
 ## 鑄造 {#cast}
 
-A **cast** 是從參與計畫傳送電子郵件的事件。
+A **鑄造** 是從「參與計畫」傳送電子郵件的事件。
 
 >[!NOTE]
 >
@@ -64,7 +64,7 @@ A **cast** 是從參與計畫傳送電子郵件的事件。
 
 ## 串流步調 {#stream-cadence}
 
-您可以透過設定來決定何時進行轉換 **串流步調**. 這是您排程內容定期外出的方式。
+您可以透過設定來決定何時進行轉換 **串流步調**. 這就是排程內容定期外出的方式。
 
 ![](assets/image2014-9-15-15-3a25-3a27.png)
 
@@ -74,23 +74,23 @@ A **cast** 是從參與計畫傳送電子郵件的事件。
 
 ## 個人步調 {#person-cadence}
 
-A **個人步調** 是狀態，定義其從參與計畫接收內容的能力。 您可以使用 **變更參與計畫節奏** 流程步驟，將此變更為「已暫停」或「正常」。
+A **個人步調** 是一種狀態，可定義其從參與方案中接收內容的能力。 您可以使用 **變更參與方案步調** 流程步驟，將此變更為「已暫停」或「正常」。
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
 ## 已耗盡 {#exhausted}
 
-當個人收到資料流中的每段內容後，我們就會呼叫該人 **已耗盡**.
+當某人收到資料流中的每一項內容時，我們就會呼叫此人 **已耗盡**.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
 >[!MORELIKETHIS]
 >
->[內容已耗竭的人](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
+>[已用完內容的人](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
 ## 內容參與層級 {#content-engagement-level}
 
-內容參與層級是0到100的分數，Marketo會提供您的內容。 此數字由使用開啟、點按、取消訂閱、計畫成功和其他因素的複雜公式決定。
+內容參與層級是0到100的分數，Marketo會提供您的內容。 此數字由使用開啟、點按、取消訂閱、方案成功和其他因素的複雜公式決定。
 
 >[!MORELIKETHIS]
 >

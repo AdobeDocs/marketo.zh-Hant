@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本8B {#template-8b}
 
-按一下滑鼠右鍵以 [下載範本8B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)
+按一下右鍵以 [下載範本8B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)
 
 ![](assets/image2015-7-29-13-3a56-3a13.png)
 
@@ -25,8 +25,8 @@ ht-degree: 0%
    * 包含主圖示題、主圖影像和主圖文字
 
 * 五個內文區段（選擇性）
-* 頁尾（選擇性）
+* 頁尾（選填）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本8B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147239
-description: 新增計畫狀態列到計畫報告 — Marketo檔案 — 產品檔案
-title: 新增方案狀態列至方案報告
+description: 將計畫狀態列新增至計畫報表 — Marketo檔案 — 產品檔案
+title: 新增方案狀態列到方案報告
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 新增方案狀態列至方案報告 {#add-program-status-columns-to-a-program-report}
+# 新增方案狀態列到方案報告 {#add-program-status-columns-to-a-program-report}
 
-將有關計畫狀態的統計資料新增至您的 [方案效能報告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md).
+將有關計畫狀態的統計資料新增到您的 [方案效能報表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md).
 
 1. 前往行銷活動（或Analytics）。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/emailperformance.jpg)
 
-1. 按一下 **設定** 標籤並拖曳至「頻道」標籤上。
+1. 按一下 **設定** 標籤並拖曳至「色版」標籤上。
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. 您成功了！ 按一下「報表」標籤，檢視含有計畫狀態列的報表。
+1. 您成功了！ 按一下報告標籤，以檢視您的報告與計畫狀態列。
 
    ![](assets/programreport.jpg)
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[依標籤篩選計畫報表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
+>[依標籤篩選方案報表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)

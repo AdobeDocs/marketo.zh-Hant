@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4720075
-description: 從特定標籤檢視網站行銷活動 — Marketo檔案 — 產品檔案
+description: 從特定標籤檢視網頁行銷活動 — Marketo檔案 — 產品檔案
 title: 從特定標籤檢視網站行銷活動
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 依現有標籤篩選 {#filter-by-existing-labels}
 
-1. 前往 **網路行銷活動**.
+1. 前往 **網站行銷活動**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 

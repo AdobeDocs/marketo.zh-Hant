@@ -15,13 +15,13 @@ ht-degree: 0%
 
 目標是追蹤進度和激勵團隊的方法。 建立後，必須手動更新。
 
-如同簡報，目標為 [工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) — 特定。
+如同簡報，目標為 [工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)特定的。
 
 1. 前往 **[!UICONTROL 行事曆]**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. 按一下 **[!UICONTROL Presentations]** 右下角。
+1. 按一下 **[!UICONTROL Presentations]** 在右下角。
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
@@ -45,6 +45,6 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-12-3a39-3a28.png)
 
-   已建立您的自訂目標！
+   您的自訂目標已建立！
 
    ![](assets/image2015-3-24-12-3a41-3a43.png)

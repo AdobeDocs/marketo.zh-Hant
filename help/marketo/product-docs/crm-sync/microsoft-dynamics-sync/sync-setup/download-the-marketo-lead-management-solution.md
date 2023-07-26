@@ -47,4 +47,4 @@ ht-degree: 0%
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 
-太棒了！ 解決方案的zip檔案現在會下載至您的裝置。
+棒極了！ 解決方案的zip檔案現在將下載至您的裝置。

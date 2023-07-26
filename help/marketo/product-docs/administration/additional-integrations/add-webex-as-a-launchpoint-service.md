@@ -21,7 +21,7 @@ Marketo Engage管理您的 [!DNL Webex] 網路研討會報名與出席。
 
 >[!NOTE]
 >
->的現有訂閱 [!DNL Webex] 此步驟需要和管理許可權。 準備好下列設定：使用者名稱、密碼和網站名稱。
+>的現有訂閱 [!DNL Webex] 此步驟需要與管理許可權。 準備以下設定：使用者名稱、密碼和網站名稱。
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Marketo Engage管理您的 [!DNL Webex] 網路研討會報名與出席。
 >
 >`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >
->**注意：** 請勿在此欄位中輸入整個URL；僅輸入網站名稱！
+>**注意：** 請勿在此欄位中輸入完整的URL；僅輸入網站名稱！
 
 1. 前往 **[!UICONTROL 管理員]** 區域。
 
@@ -43,7 +43,7 @@ Marketo Engage管理您的 [!DNL Webex] 網路研討會報名與出席。
 
    ![](assets/add-webex-as-a-launchpoint-service-3.png)
 
-1. 輸入 **[!UICONTROL 顯示名稱]**. 下 **[!UICONTROL 服務]**，選取 **[!UICONTROL Webex]**.
+1. 輸入 **[!UICONTROL 顯示名稱]**. 在 **[!UICONTROL 服務]**，選取 **[!UICONTROL Webex]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-4.png)
 

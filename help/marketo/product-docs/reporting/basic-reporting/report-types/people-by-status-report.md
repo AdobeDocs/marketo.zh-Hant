@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 依狀態顯示人員報表 {#people-by-status-report}
 
-檢查每個流程中出現的人數，檢閱您在流程中移動的程度 _個人狀態_ 每個月的值。
+檢查每個流程中出現多少人員，檢閱您在流程中移動人員的程度 _個人狀態_ 每月值。
 
 1. [建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 並選取 **依狀態區分的人員** [報告型別](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [設定報表的時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 並按一下 **報告** 標籤。
+1. [設定報告的時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 並按一下 **報告** 標籤。
 
-1. 太棒了！ 現在，您可以檢視每個人員狀態中的人員數量（按月）。
+1. 太棒了！ 現在，您可以檢視每個人員狀態在每月的人員。
 
    ![](assets/image2017-3-27-11-3a17-3a4.png)
 

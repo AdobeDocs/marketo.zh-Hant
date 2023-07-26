@@ -13,12 +13,12 @@ ht-degree: 0%
 
 # 設定Facebook離線轉換 {#set-up-facebook-offline-conversions}
 
-透過將透過「銷售機會廣告」建立的人員的離線轉換資料傳回Facebook，您的廣告團隊可以最佳化他們的廣告支出，比以往任何時候都好。 以下說明設定方法。
+透過將離線轉換資料傳回Facebook供透過潛在客戶廣告建立的人使用，您的廣告團隊可以最佳化他們的廣告支出，比以往任何時候都好。 以下說明設定方法。
 
 >[!PREREQUISITES]
 >
 >* 您必須 [設定Facebook銷售機會廣告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
->* 您必須擁有已核准的模型 [收入週期Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+>* 您必須在以下位置擁有已核准的模型： [收入週期Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 ## 管理員設定 {#admin-configuration}
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. Check **啟用離線轉換** 並按一下 **下一個**.
+1. 檢查 **啟用離線轉換** 並按一下 **下一個**.
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
@@ -50,13 +50,13 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   真貼心！ 您啟用Facebook離線轉換的工作已進行一半。 讓我們跳到「收入週期Modeler」來對應階段。
+   真貼心！ 您已經完成Facebook離線轉換的啟用工作。 讓我們跳到收入週期Modeler來對應階段。
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
 ## 收入週期Modeler設定 {#revenue-cycle-modeler-configuration}
 
-1. 前往 **分析**.
+1. 前往 **Analytics**.
 
    ![](assets/image2016-11-29-13-3a29-3a23.png)
 
@@ -70,8 +70,8 @@ ht-degree: 0%
    >
    >* 新增付款資訊
    >* 新增至購物車
-   >* 新增至願望清單
-   >* 註冊已完成
+   >* 新增至希望清單
+   >* 註冊完成
    >* 已起始結帳
    >* 個人
    >* 其他
@@ -83,11 +83,11 @@ ht-degree: 0%
 
    ![](assets/1-1.png)
 
-1. 完成對應後，請關閉模型。
+1. 完成對應後，關閉模型。
 
    ![](assets/2.png)
 
-1. 核准您的模型即已完成！
+1. 核准您的模型並完成！
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 
@@ -95,11 +95,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >檢查您的Facebook帳戶，並確認所有 [廣告已關聯](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) Marketo離線轉換事件集。 如果沒有，廣告歸因可能無法運作。
+   >檢查您的Facebook帳戶，並確認所有 [廣告已建立關聯](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) Marketo離線轉換事件集。 如果沒有，廣告歸因可能無法運作。
 
    >[!NOTE]
    >
-   >離線轉換資料每天會從Marketo傳送數次到Facebook。
+   >離線轉換資料每天會從Marketo傳送多次到Facebook。
 
 >[!MORELIKETHIS]
 >

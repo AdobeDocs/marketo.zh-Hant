@@ -15,7 +15,7 @@ ht-degree: 4%
 
 ## 概觀 {#overview}
 
-如果您使用 [工作區與分割區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)，您會想要建置智慧型行銷活動，將使用者從一個分割區移至另一個分割區。
+如果您使用 [工作區與分割區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)，您會想要建立智慧型行銷活動，將人員從一個分割區移至另一個分割區。
 
 ![](assets/one-3.png)
 

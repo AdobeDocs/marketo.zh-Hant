@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359947
-description: 在參與串流之間轉變人物 — Marketo檔案 — 產品檔案
-title: 在參與串流之間轉換人員
+description: 在參與資料流之間轉換人員 — Marketo檔案 — 產品檔案
+title: 在參與資料流之間轉變人物
 exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,27 +11,27 @@ ht-degree: 0%
 
 ---
 
-# 在參與串流之間轉換人員 {#transition-people-between-engagement-streams}
+# 在參與資料流之間轉變人物 {#transition-people-between-engagement-streams}
 
-參與計畫可以有一個以上的串流。 若您 [新增資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)，您會想要定義人們在不同資料流之間移動的方式。 這些稱為 **轉變規則。**
+參與計畫可以有一個以上的資料流。 如果您 [新增資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)，您會想要定義人們在不同資料流之間移動的方式。 這些稱為 **轉變規則。**
 
 1. 前往 **行銷活動**.
 
    ![](assets/ma.png)
 
-1. 選取您的多串流參與計畫，並前往 **串流**.
+1. 選取您的多重串流參與方案，並前往 **串流**.
 
    ![](assets/multistream.jpg)
 
-1. 按一下 **轉換規則** 針對您要從其他資料流提取到的資料流，然後按一下 **編輯轉變規則**.
+1. 按一下 **轉換規則** 針對您要從其他串流提取到的串流，然後按一下 **編輯轉變規則**.
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
    >[!NOTE]
    >
-   >轉變規則提取到資料流中；一律定義您要提取到之資料流中的規則。
+   >轉換規則提取到資料流中；請一律在您要提取的資料流上定義規則。
 
-   轉換規則視窗開啟後，在您選擇的觸發器中尋找並拖曳。 在此案例中，我們希望在新增至機會時，將使用者移至「中段」。
+   轉換規則視窗開啟後，在您選擇的觸發程式中尋找並拖曳。 在此案例中，我們想在新增至機會時將人員移至Mid Stage。
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以將多個觸發器和篩選器新增至轉變規則，但轉變規則會使用所有篩選器（使用「全部」篩選器是唯一選項）。 如果您需要在轉變規則中使用OR，建議您改為設定外部智慧行銷活動。
+   >您可以將多個觸發器和篩選器新增至轉變規則，但轉變規則會使用所有篩選器（唯一選項是使用「全部」篩選器）。 如果您需要在轉變規則中使用OR，建議您改為設定外部智慧行銷活動。
 
 1. 按一下 **關閉**。
 
    ![](assets/image2014-9-15-18-3a11-3a23.png)
 
-   太棒了！ 現在，您參與方案中新增至商機的任何人都將移至中段資料流。
+   太棒了！ 現在，您參與方案中的任何人員，只要新增至機會，都會移至中段資料流。
 
    ![](assets/image2014-9-15-18-3a11-3a29.png)
 

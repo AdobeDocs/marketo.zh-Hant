@@ -1,5 +1,5 @@
 ---
-description: Sales Insight Actions管理員設定指南 — Marketo檔案 — 產品檔案
+description: 銷售分析動作管理員設定指南 — Marketo檔案 — 產品檔案
 title: Sales Insight Actions管理員設定指南
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions是以Web為基礎的應用程式，可透過 [Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 有時稱為「Marketo銷售」，或簡稱為「動作」。
+>Marketo Sales Insight Actions是網頁型應用程式，可透過 [Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 有時稱為「Marketo銷售」，或簡稱為「動作」。
 
 >[!PREREQUISITES]
 >
@@ -36,7 +36,7 @@ ht-degree: 0%
  </tr>
  <tr>
   <td>Marketo管理員</td>
-  <td>將Marketo銷售帳戶連線至Marketo</td>
+  <td>將Marketo Sales帳戶連線至Marketo</td>
  </tr>
  <tr>
   <td>Marketo管理員</td>
@@ -52,7 +52,7 @@ ht-degree: 0%
  </tr>
  <tr>
   <td>Salesforce管理員</td>
-  <td>在Salesforce中設定MSI-Actions</td>
+  <td>在Salesforce中設定MSI動作</td>
  </tr>
 </table>
 
@@ -64,9 +64,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您在「整合資訊」卡片上未看到使用者端ID和使用者端密碼，請邀請第一位使用者來啟動您的「動作」執行個體，然後您會看到使用者端ID和使用者端密碼出現。
+   >如果您在整合資訊卡片上未看到使用者端ID和使用者端密碼，請邀請第一個使用者來啟動您的動作執行個體，然後您就會看到使用者端ID和使用者端密碼出現。
 
-1. 按一下 **銷售分析**，則 **動作設定**. 從Marketo管理員清單中選取以邀請並點選 **傳送邀請**.
+1. 按一下 **銷售分析**，然後 **動作設定**. 從Marketo管理員清單中選取以邀請並點選 **傳送邀請**.
 
    ![](assets/msi-actions-admin-guide-2.png)
 
@@ -74,19 +74,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->其他使用者不會透過Marketo新增，而是透過「銷售帳戶使用者管理」頁面新增。 [按一下這裡](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"} 以進一步瞭解如何新增其他使用者。
+>其他使用者將不會透過Marketo新增，而是透過「銷售帳戶使用者管理」頁面新增。 [按一下這裡](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"} 以進一步瞭解新增其他使用者。
 
 ## 將Marketo銷售帳戶連結至Salesforce {#connect-marketo-sales-account-to-salesforce}
 
-1. 在您的Marketo Sales帳戶中，按一下齒輪圖示並選取 **設定**.
+1. 在您的Marketo銷售帳戶中，按一下齒輪圖示並選取 **設定**.
 
    ![](assets/msi-actions-admin-guide-3.png)
 
-1. 在「管理設定」底下，按一下 **Salesforce**.
+1. 在管理設定下，按一下 **Salesforce**.
 
    ![](assets/msi-actions-admin-guide-4.png)
 
-1. 在「連線和自訂」標籤中，按一下 **Connect**.
+1. 在「連線和自訂」標籤中，按一下 **連線**.
 
    ![](assets/msi-actions-admin-guide-5.png)
 
@@ -94,15 +94,15 @@ ht-degree: 0%
 
    ![](assets/msi-actions-admin-guide-6.png)
 
-如果您已登入Salesforce，則會與您連線。 否則系統會要求您登入。
+如果您已登入Salesforce，則會與您連線。 否則，系統會要求您登入。
 
 ## 將Marketo連線至您的Sales Apps帳戶 {#connect-marketo-to-your-sales-apps-account}
 
-1. 在您的Marketo Sales帳戶中，按一下齒輪圖示並選取 **設定**.
+1. 在您的Marketo銷售帳戶中，按一下齒輪圖示並選取 **設定**.
 
    ![](assets/msi-actions-admin-guide-7.png)
 
-1. 在「管理設定」底下，按一下 **Marketo**.
+1. 在管理設定下，按一下 **Marketo**.
 
    ![](assets/msi-actions-admin-guide-8.png)
 
@@ -112,7 +112,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果未連線，請從Marketo Sales Insight的「動作設定」索引標籤複製認證，然後貼到「設定」索引標籤中。
+>如果未連線，請從Marketo Sales Insight的「動作設定」標籤複製認證，然後貼到「設定」標籤中。
 
 ## 啟動資料同步 {#initiate-data-sync}
 
@@ -120,7 +120,7 @@ Sales Insight Actions的資料統一欄位同步可讓系統從Marketo Engage資
 
 >[!CAUTION]
 >
->啟動資料同步處理後，您應該 **not** 移除銷售分析動作例項上的原始使用者。 這是第一個邀請收件者的使用者。
+>啟動資料同步之後，您應： **非** 移除銷售分析動作執行個體上的原始使用者。 這是第一個邀請收件者的使用者。
 
 1. 在Marketo中，按一下 **管理員**.
 
@@ -134,11 +134,11 @@ Sales Insight Actions的資料統一欄位同步可讓系統從Marketo Engage資
 
    ![](assets/msi-actions-admin-guide-12.png)
 
-1. 您將看到將同步的欄位預覽。 按一下 **開始同步**.
+1. 您會看到即將同步之欄位的預覽。 按一下 **開始同步**.
 
    ![](assets/msi-actions-admin-guide-13.png)
 
-Marketo和Salesforce中存在的個人記錄將同步至您的Marketo Sales Apps帳戶。
+Marketo和Salesforce中存在的人員記錄將同步至您的Marketo銷售應用程式帳戶。
 
 >[!NOTE]
 >
@@ -146,11 +146,11 @@ Marketo和Salesforce中存在的個人記錄將同步至您的Marketo Sales Apps
 
 ## 邀請個別使用者加入MSI動作 {#invite-individual-users-to-msi-actions}
 
-1. 在您的Marketo Sales帳戶中，按一下齒輪圖示並選取 **設定**.
+1. 在您的Marketo銷售帳戶中，按一下齒輪圖示並選取 **設定**.
 
    ![](assets/msi-actions-admin-guide-14.png)
 
-1. 在「管理設定」下，選取 **User Management**.
+1. 在管理設定下，選取 **User Management**.
 
    ![](assets/msi-actions-admin-guide-15.png)
 
@@ -170,11 +170,11 @@ Marketo和Salesforce中存在的個人記錄將同步至您的Marketo Sales Apps
 
 ## 透過CSV邀請使用者加入MSI動作 {#invite-users-via-csv-to-msi-actions}
 
-1. 在您的Marketo Sales帳戶中，按一下齒輪圖示並選取 **設定**.
+1. 在您的Marketo銷售帳戶中，按一下齒輪圖示並選取 **設定**.
 
    ![](assets/msi-actions-admin-guide-18.png)
 
-1. 在「管理設定」下，選取 **User Management**.
+1. 在管理設定下，選取 **User Management**.
 
    ![](assets/msi-actions-admin-guide-19.png)
 
@@ -186,7 +186,7 @@ Marketo和Salesforce中存在的個人記錄將同步至您的Marketo Sales Apps
 
    ![](assets/msi-actions-admin-guide-21.png)
 
-1. 確認欄位已正確對應，然後按一下 **邀請**.
+1. 確認欄位已正確對應並按一下 **邀請**.
 
    ![](assets/msi-actions-admin-guide-22.png)
 
@@ -194,4 +194,4 @@ Marketo和Salesforce中存在的個人記錄將同步至您的Marketo Sales Apps
 
 >[!NOTE]
 >
->完成此操作後，您可以升級現有的MSI套件或安裝新的MSI套件並移至 [在Salesforce中設定MSI動作](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
+>完成此操作後，您可以升級現有的MSI套件或安裝新套件並移至 [在Salesforce中設定MSI動作](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.

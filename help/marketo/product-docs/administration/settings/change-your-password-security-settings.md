@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/change-your-password-security-settings-2.png)
 
-1. 下 **[!UICONTROL 安全性設定]**，按一下 **[!UICONTROL 編輯]**.
+1. 在 **[!UICONTROL 安全性設定]**，按一下 **[!UICONTROL 編輯]**.
 
    ![](assets/change-your-password-security-settings-3.png)
 
@@ -37,19 +37,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >範本只是預先建立的設定。 標準為佳。 高安全性是最強大的。 自訂可讓您建立自己的檔案。
+   >範本只是預先建立的設定。 標準為佳。 高安全性是最強的。 自訂可讓您建立自己的網站。
 
    >[!TIP]
    >
-   >在 **[!UICONTROL 自訂]**，勾選方塊以指出您希望使用者在建立密碼時包含哪些特性。
+   >在 **[!UICONTROL 自訂]**，勾選方塊以指出您想讓使用者在建立密碼時包含哪些特性。
 
-1. 設定 **[!UICONTROL 有效期]**. 此功能會自動要求使用者在一段時間後重設密碼。 這也包括管理員使用者。
+1. 設定 **[!UICONTROL 有效期]**. 此功能會自動要求使用者在一定時間長度後重設密碼。 這也包括管理員使用者。
 
    ![](assets/change-your-password-security-settings-5.png)
 
    >[!CAUTION]
    >
-   >現有使用者不會收到變更的通知。 設定 **[!UICONTROL 有效期]** 至最初30天，以確保所有人都已更新至新設定，然後將此變更回您的原始步調。
+   >變更不會通知現有使用者。 設定 **[!UICONTROL 有效期]** 到30天前確保每個人都已更新到新設定，然後將此變更回您的原始步調。
 
 1. 設定 **[!UICONTROL 非使用中工作階段逾時]**. 這會決定使用者在必須重新登入Marketo之前可以閒置多久。
 

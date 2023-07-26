@@ -15,9 +15,9 @@ ht-degree: 0%
 
 在Sales Connect中建立範本時，我們一律建議使用 **mse動態欄位** 按鈕。
 
-此工具用於 `auto-personalize your email` 節省您大量的時間，盡在 `pulling information from the People page`.
+此工具用於 `auto-personalize your email` 為您節省大量時間，盡在 `pulling information from the People page`.
 
-| 動態欄位 | 電子郵件中顯示的內容範例 |
+| 動態欄位 | 電子郵件中所顯示內容的範例 |
 |---|---|
 | `{{company}}` | Marketo |
 | `{{company_friendly}}` | Marketo |
@@ -30,9 +30,9 @@ ht-degree: 0%
 
 **注意事項**：
 
-* 如果連絡人的資訊輸入錯誤或從「人物」頁面遺失，則無法將資訊正確提取到您的範本中。
-* 兩者之間的差異 `{{company}}` 和 `{{company_friendly}}` 這點 `{{company_friendly}}` 會從連絡人的公司名稱中移除任何正式名稱，例如Inc.、LLC等。
-* 使用時 `{{company_friendly}}`，請務必在聯絡資料中以逗號分隔Inc.或Co.。 這就是Sales Connect提取值時知道要移除哪些專案的方式。
+* 如果連絡人的資訊輸入錯誤或從「人物」頁面遺失，將無法正確地提取到您的範本中。
+* 兩者之間的差異 `{{company}}` 和 `{{company_friendly}}` 就是 `{{company_friendly}}` 會從連絡人的公司名稱中移除任何正式名稱，例如Inc.、LLC等。
+* 使用時 `{{company_friendly}}`，請務必在聯絡資料中以逗號分隔Inc.或Co. 。 這是Sales Connect提取值時知道要移除哪些專案的方式。
 
 >[!TIP]
 >

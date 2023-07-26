@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 邀請使用者和管理員 {#invite-users-and-admins}
 
-新增使用者或管理員既快速又輕鬆！
+新增使用者或管理員既快速又簡單！
 
 ## 邀請使用者 {#invite-users}
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. 在「管理設定」下，選取 **User Management**.
+1. 在管理設定下，選取 **User Management**.
 
    ![](assets/invite-users-and-admins-2.png)
 
@@ -30,19 +30,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您也可以選取 **透過CSV邀請使用者** 如果您已將它們全部列在試算表中。
+   >您也可以選取 **透過CSV邀請使用者** 如果已將它們全部列在試算表中。
 
 1. 輸入您要新增之個人的電子郵件地址。
 
    ![](assets/invite-users-and-admins-4.png)
 
-1. 選用性步驟：將使用者新增至他們應屬於的任何團隊。 如果您略過此部分，則所有新成員都會新增至「所有人」專案團隊。
+1. 選用步驟：將使用者新增至他們應所屬的任何團隊。 如果您略過此部分，則所有新成員都會新增至「所有人」團隊。
 
    ![](assets/invite-users-and-admins-5.png)
 
    >[!NOTE]
    >
-   >[深入瞭解Teams](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md).
+   >[深入瞭解團隊](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md).
 
 1. 選取您要新增使用者的Marketo工作區。 如果您只有一個工作區，則會看到「預設」作為您的選項。 按一下 **邀請**.
 
@@ -64,11 +64,11 @@ ht-degree: 0%
 
    ![](assets/invite-users-and-admins-8.png)
 
-1. 在「管理設定」下，選取 **User Management**.
+1. 在管理設定下，選取 **User Management**.
 
    ![](assets/invite-users-and-admins-9.png)
 
-1. 找到您要設定管理員的使用者，按一下「角色」下拉式清單，然後選取 **管理員**.
+1. 找到您要設定為管理員的使用者，按一下「角色」下拉式清單，然後選取 **管理員**.
 
    ![](assets/invite-users-and-admins-10.png)
 

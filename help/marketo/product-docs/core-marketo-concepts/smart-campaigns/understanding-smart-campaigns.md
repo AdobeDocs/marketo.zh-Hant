@@ -13,13 +13,13 @@ ht-degree: 1%
 
 # 瞭解Smart Campaign {#understanding-smart-campaigns}
 
-如果Marketo是一款功能強大的汽車，那麼智慧型行銷活動就是真正的引擎。 您可以輕鬆開始使用，但幾乎可以執行任何要求。
+如果Marketo是一款功能強大的汽車，那麼智慧型行銷活動就是真正的引擎。 您可以輕鬆開始使用，但幾乎可以對它執行任何操作。
 
 智慧行銷活動有3個主要區域： [智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} 索引標籤。
 
 ## 智慧清單 {#smart-list}
 
-智慧清單是您定義 _誰_ 您想要以smart campaign鎖定目標。 其中包含篩選器和觸發程式。
+智慧清單是您定義的方式 _誰_ 您想要以智慧行銷活動作為目標。 它有篩選器和觸發器。
 
 <table> 
  <tbody> 
@@ -36,26 +36,26 @@ ht-degree: 1%
   <tr> 
    <td colspan="1">觸發</td> 
    <td colspan="1">點按連結</td> 
-   <td colspan="1">某人執行某項作業時，立即引發流量。</td> 
+   <td colspan="1">當某人執行某項作業時，會立即引發流量。</td> 
   </tr> 
  </tbody> 
 </table>
 
-您可以透過各種方式組合篩選器，並搭配觸發器使用。 這是一個功能強大的工具 — 請試用它。
+您可以透過多種方式組合篩選器，並將篩選器與觸發器搭配使用。 這是一個功能強大的工具 — 嘗試一下它。
 
 ## 流程 {#flow}
 
-流程包括您希望智慧行銷活動執行的步驟，包括等待步驟和分割選擇。
+流程包括您希望智慧型行銷活動執行的步驟，包括等待步驟和分割選擇。
 
 ## 排程 {#schedule}
 
-最後，這會控制您執行智慧行銷活動的時間。 您甚至可以設定週期性，使其在重複排程上執行。
+最後，這控制了您執行智慧行銷活動的時間。 您甚至可以設定週期，使其在重複排程中執行。
 
-智慧型行銷活動可以執行許多作業。 掌握其中的奧秘，您就會發現Marketo中的所有內容都變得更輕鬆理解。
+智慧型行銷活動可執行的事情有很多。 掌握其中的奧秘，您就會發現Marketo中的所有內容變得更輕鬆理解。
 
 >[!CAUTION]
 >
->如果您將Smart Campaign從一個方案移動到另一個方案，而活動的Smart List或Flow Steps參考了原始方案，則必須手動更新資訊以反映其新方案，如其所示 **not** 自動更新。
+>如果您將智慧型行銷活動從一個方案移動到另一個方案，且行銷活動的智慧型清單或流程步驟參考原始方案，則必須手動更新資訊以反映其新方案，如此一來 **非** 自動更新。
 
 >[!MORELIKETHIS]
 >

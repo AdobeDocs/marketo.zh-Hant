@@ -13,14 +13,14 @@ ht-degree: 0%
 
 # SEO — 移除/刪除頁面 {#seo-remove-delete-a-page}
 
-要刪除頁面？ 沒有汗，以下說明方法。
+要刪除頁面？ 別急，方法如下。
 
 1. 前往 **[!UICONTROL 頁面]** 區段。
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
-1. 於 [!UICONTROL 頁面] 索引標籤，將滑鼠指標暫留在您要移除的頁面上，按一下 **[!UICONTROL 刪除]**，然後按一下 **[!UICONTROL 移除]**.
+1. 在 [!UICONTROL 頁面] 索引標籤，將游標停留在您要移除的頁面上，按一下 **[!UICONTROL 刪除]**，然後按一下 **[!UICONTROL 移除]**.
 
    ![](assets/image2014-9-18-13-3a58-3a39.png)
 
-此頁面現在已從您的清單中永久移除。
+此頁面現在會從您的清單中永久移除。

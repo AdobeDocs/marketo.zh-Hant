@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4720461
-description: 電子郵件中的HTML編碼Token - Marketo檔案 — 產品檔案
-title: 電子郵件中的HTML編碼Token
+description: 電子郵件中的HTML編碼權杖 — Marketo檔案 — 產品檔案
+title: 電子郵件中的HTML編碼權杖
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 電子郵件中的HTML編碼Token {#html-encode-tokens-in-emails}
+# 電子郵件中的HTML編碼權杖 {#html-encode-tokens-in-emails}
 
-啟用/停用電子郵件中使用的個人和公司代號。
+啟用/停用電子郵件中使用的個人和公司權杖。
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/html-encode-tokens-in-emails-3.png)
 
-1. 檢查 **[!UICONTROL 電子郵件中的HTML編碼Token]** 方塊以啟用，取消勾選以停用。
+1. 檢查 **[!UICONTROL 電子郵件中的HTML編碼權杖]** 方塊以啟用，取消勾選以停用。
 
    ![](assets/html-encode-tokens-in-emails-4.png)
 

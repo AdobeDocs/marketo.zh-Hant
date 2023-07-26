@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 篩選登入頁面效能報表 {#filter-a-landing-page-performance-report}
 
-聚焦您的 [登陸頁面效能報表](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) 在您的程式（本機資產）中的登陸頁面、在Design Studio中的登陸頁面（全域資產）或已封存的登陸頁面。
+聚焦您的 [登陸頁面效能報表](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) 在您的方案（本機資產）的登陸頁面上、在Design Studio （全域資產）的登陸頁面上，或已封存的登陸頁面上。
 
-1. 前往 **分析** (或 **行銷活動**)。
+1. 前往 **Analytics** (或 **行銷活動**)。
 
    ![](assets/analyticstile.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-15-3a46-3a6.png)
 
-1. 按一下 **設定** 在篩選器中定位並拖曳。
+1. 按一下 **設定** 在篩選器中以標籤並拖曳。
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
@@ -37,8 +37,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您選取資料夾，您的報告將包含報告執行時資料夾包含的所有內容。
+   >如果您選取資料夾，報表會包含報表執行時資料夾所包含的所有內容。
 
-1. 您已完成！ 按一下 **報告** 索引標籤以檢視篩選後的報表。
+1. 您已完成！ 按一下 **報告** 索引標籤以檢視您的篩選報表。
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)

@@ -22,4 +22,4 @@ Marketo目前支援下列瀏覽器：
 | [[!DNL Apple Safari]](https://www.apple.com/safari/){target="_blank"} | 最新 |
 | [[!DNL Microsoft Edge]](https://www.microsoft.com/en-us/windows/microsoft-edge){target="_blank"} | 最新 |
 
-為獲得最佳體驗， **保持瀏覽器更新**！
+為獲得最佳體驗， **讓瀏覽器保持更新**！

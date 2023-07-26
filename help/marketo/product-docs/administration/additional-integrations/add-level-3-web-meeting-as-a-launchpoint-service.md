@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 新增 [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint] 服務 {#add-level-three-web-meeting-as-a-launchpoint-service}
 
-Marketo管理您的 [!DNL Level 3 Web Meeting] 註冊與出席。
+Marketo管理您的 [!DNL Level 3 Web Meeting] 報名及出席。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Marketo管理您的 [!DNL Level 3 Web Meeting] 註冊與出席。
 
 >[!NOTE]
 >
->的現有訂閱 [!DNL Level 3 Web Meeting] 此步驟需要和管理許可權。 備妥您的存取號碼、存取代碼和密碼。
+>的現有訂閱 [!DNL Level 3 Web Meeting] 此步驟需要與管理許可權。 準備好您的存取號碼、存取碼和密碼。
 
 1. 前往 **[!UICONTROL 管理員]** 區域。
 
@@ -35,7 +35,7 @@ Marketo管理您的 [!DNL Level 3 Web Meeting] 註冊與出席。
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-3.png)
 
-1. 輸入 **[!UICONTROL 顯示名稱]**. 下 **[!UICONTROL 服務]**，選取 **[!UICONTROL 第3級Web會議]**.
+1. 輸入 **[!UICONTROL 顯示名稱]**. 在 **[!UICONTROL 服務]**，選取 **[!UICONTROL 第3級Web會議]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-4.png)
 
@@ -43,7 +43,7 @@ Marketo管理您的 [!DNL Level 3 Web Meeting] 註冊與出席。
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-5.png)
 
-您的 [!DNL Level 3 Web Meeting] 帳戶現已與Marketo同步！
+您的 [!DNL Level 3 Web Meeting] 帳戶現在已與Marketo同步！
 
 ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-6.png)
 

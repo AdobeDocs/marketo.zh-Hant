@@ -15,7 +15,7 @@ ht-degree: 3%
 
 如果使用者可以存取其筆記型電腦上的管理員設定，您可以直接將註冊代碼傳送給他們。
 
-如果您尚未收到邀請電子郵件，請要求Marketo管理員邀請您。
+如果您尚未收到邀請電子郵件，請洽詢Marketo管理員以邀請您。
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ ht-degree: 3%
 
 >[!IMPORTANT]
 >
->Windows使用者資料夾包含非英文字元的電腦不支援安裝。 此資料夾由Windows自動產生，位於 `<System Root>\Users\` 根據Windows使用者名稱，如果Windows使用者名稱是非英文名稱，則可能包含非英文字元。 請與您的IT團隊合作，確認您是否遇到安裝問題。
+>在Windows使用者資料夾包含非英文字元的電腦上不支援安裝。 此資料夾由Windows自動產生，位於 `<System Root>\Users\` 根據Windows使用者名稱，如果Windows使用者名稱是非英文名稱，則可能包含非英文字元。 請與您的IT團隊合作，確認您是否遇到安裝問題。
 
 >[!NOTE]
 >
->Sales Insight Actions功能（包括「傳送銷售電子郵件」、「新增至銷售促銷活動」和「工作」）在Gmail和Outlook的Sales Insight電子郵件外掛程式中無法使用。 目前，使用者在使用Sales Insight電子郵件外掛程式時，只能從電子郵件使用者端傳送包含或不包含Marketo電子郵件範本的可追蹤電子郵件。
+>「銷售分析動作」功能（包括「傳送銷售電子郵件」、「新增至銷售促銷活動」和「工作」）在Gmail和Outlook的「銷售分析電子郵件」外掛程式中無法使用。 目前，使用Sales Insight電子郵件外掛程式時，使用者只能從電子郵件使用者端傳送包含或不包含Marketo電子郵件範本的可追蹤電子郵件。
 
 ## 下載安裝程式 {#download-installer}
 
@@ -37,7 +37,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >目前，下列連結僅可在Microsoft Edge中運作，或在Chrome中按一下滑鼠右鍵。 造成任何不便，敬請見諒。
+   >目前，下列連結僅可在Microsoft Edge中運作，或在Chrome中按一下右鍵。 造成任何不便，敬請見諒。
 
    | Outlook版本 | 32位元Outlook | 64位元Outlook |
    |---|---|---|
@@ -78,7 +78,7 @@ ht-degree: 3%
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. 填入 **名字**， **姓氏**， **電子郵件地址**，然後複製並貼上 **註冊代碼** 從電子郵件進入表單並按一下 **下一個**.
+1. 填入 **名字**， **姓氏**， **電子郵件地址**，然後複製並貼上 **註冊代碼** 從電子郵件進入表單，然後按一下 **下一個**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -86,7 +86,7 @@ ht-degree: 3%
    >
    >如果安裝失敗，請洽詢您的IT部門，以確保不會封鎖HTTPS流量。 安裝程式需要開啟HTTPS流量。
 
-1. 按一下 **下一個** ，以安裝在預設位置。
+1. 按一下 **下一個** 以安裝在預設位置。
 
    ![](assets/select-installation-folder-hand.png)
 
@@ -106,9 +106,9 @@ ht-degree: 3%
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
-   太棒了！ 現在Marketo按鈕的位置更好了。
+   太好了！ 現在Marketo按鈕的位置更好了。
 
-進一步瞭解使用Marketo訊息和使用Marketo記錄動作。
+進一步瞭解如何使用Marketo訊息並記錄與Marketo動作。
 
 >[!MORELIKETHIS]
 >

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37356590
-description: 將Highspot內容新增至電子郵件 — Marketo檔案 — 產品檔案
+description: 將Highspot內容新增至您的電子郵件 — Marketo檔案 — 產品檔案
 title: 新增醒目提示內容至您的電子郵件
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 feature: Marketo Sales Connect
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 新增醒目提示內容至您的電子郵件 {#adding-highspot-content-to-your-email}
 
-如果您是Highspot客戶，可以輕鬆地將Highspot內容插入Sales Connect電子郵件中。
+如果您是Highspot客戶，可以輕鬆地將Highspot內容插入您的Sales Connect電子郵件中。
 
-1. 建立您的電子郵件草稿(有多種方式可以執行此操作，在此範例中，我們選擇 **撰寫** （在標題中）。
+1. 建立您的電子郵件草稿(有多種方式可以執行此操作，在此範例中，我們將選擇 **撰寫** （在標題中）。
 
    ![](assets/one-5.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two-5.png)
 
-1. 按一下您要在電子郵件中插入Highspot內容的位置。 按一下箭頭下拉式清單（附件圖示旁）並選取 **亮點**.
+1. 按一下電子郵件中要插入Highspot內容的位置。 按一下箭頭下拉式清單（附件圖示旁）並選取 **亮點**.
 
    ![](assets/three-5.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/four-5.png)
 
-1. 選取您想要的內容，然後按一下 **新增內容** 按鈕。
+1. 選取您需要的內容，然後按一下 **新增內容** 按鈕。
 
    ![](assets/five-3.png)
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-內容會在您的電子郵件中顯示為連結。 收件者可以按一下連結以檢視/下載內容。
+內容會以連結的形式顯示在您的電子郵件中。 收件者可以按一下連結以檢視/下載內容。

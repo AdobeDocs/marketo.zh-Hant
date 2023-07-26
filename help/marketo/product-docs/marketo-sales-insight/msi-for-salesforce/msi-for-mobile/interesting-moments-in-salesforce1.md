@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Salesforce1中的有趣時刻 {#interesting-moments-in-salesforce}
 
-[使用有趣的時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) 是透過Marketo Sales Insight應用程式與您的銷售團隊通訊的關鍵。 現在，有了Salesforce1的Marketo Sales Insight，您可以使用智慧型手機做同樣的事情！
+[使用有趣的時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) 是透過Marketo Sales Insight應用程式與您的銷售團隊通訊的關鍵。 現在，有了Marketo Sales Insight for Salesforce1，您可以使用智慧型手機做同樣的事情！
 
 >[!AVAILABILITY]
 >
 >這些僅供Marketo Sales Insight客戶使用。
 
-1. 在智慧型手機上，開啟Salesforce應用程式。
+1. 在您的智慧型手機上，開啟Salesforce應用程式。
 
-1. 導覽至銷售機會。
+1. 切換作業選項至銷售機會。
 
    ![](assets/one.png)
 

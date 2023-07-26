@@ -25,11 +25,11 @@ Webhook可讓您與協力廠商服務互動。 透過在智慧行銷活動流程
 
 >[!NOTE]
 >
->瞭解許多有趣的事情 [Webhook](https://developers.marketo.com/documentation/webhooks/) 可為您效勞。
+>瞭解許多有趣的事情 [Webhooks](https://developers.marketo.com/documentation/webhooks/) 可以幫到您。
 
 ## 使用情況 {#usage}
 
-選取 **Webhook** 下拉式清單。
+選取 **Webhook** 從下拉式清單。
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 

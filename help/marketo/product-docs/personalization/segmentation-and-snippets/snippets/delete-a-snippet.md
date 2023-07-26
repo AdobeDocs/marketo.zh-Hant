@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359518
-description: 刪除代碼片段 — Marketo檔案 — 產品檔案
-title: 刪除代碼片段
+description: 刪除程式碼片段 — Marketo檔案 — 產品檔案
+title: 刪除程式碼片段
 exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
 feature: Snippets
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 1%
 
 ---
 
-# 刪除代碼片段 {#delete-a-snippet}
+# 刪除程式碼片段 {#delete-a-snippet}
 
 >[!PREREQUISITES]
 >
->[取消核准代碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md)
+>[取消核准程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md)
 
 刪除您不再需要的片段。
 
@@ -33,6 +33,6 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >您只能刪除未核准且未由任何資產使用的片段。
+   >您只能刪除未核准且未由任何資產使用的程式碼片段。
 
-完成! 您無法擷取它，因此請確定後再按下刪除按鈕。
+完成! 您無法擷取它，因此請務必確定後再按下刪除按鈕。

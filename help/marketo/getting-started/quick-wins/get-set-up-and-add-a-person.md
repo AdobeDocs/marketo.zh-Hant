@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359351
 description: 設定並新增人員 — Marketo檔案 — 產品檔案
-title: 設定並新增人員
+title: 完成設定並新增人員
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 設定並新增人員 {#get-set-up-and-add-a-person}
+# 完成設定並新增人員 {#get-set-up-and-add-a-person}
 
-在開始執行任務之前，有一些事情要做。
+在開始執行任務之前，請先做幾件事情。
 
 ## 步驟1：登入Marketo {#step-log-in-to-marketo}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 步驟2：建立學習資料夾 {#step-create-a-learning-folder}
 
-讓我們建立一個資料夾，用以存放您將在任務中完成的所有工作。
+讓我們建立一個資料夾，用以儲存您要在任務中完成的所有工作。
 
 1. 前往 **[!UICONTROL 行銷活動]** 區域。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/get-set-up-and-add-a-person-3.png)
 
-1. 將資料夾命名為「學習」並按一下 **[!UICONTROL 建立]**.
+1. 將資料夾命名為「學習」，然後按一下 **[!UICONTROL 建立]**.
 
    ![](assets/get-set-up-and-add-a-person-4.png)
 
@@ -59,13 +59,13 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketo會 **not** 支援包含表情符號的電子郵件地址。
+   >Marketo會 **非** 支援包含表情符號的電子郵件地址。
 
-1. 若要檢視您的人員，請開啟 [!UICONTROL 系統智慧清單] ，然後按一下「 」 **[!UICONTROL 所有人員]**.
+1. 若要檢視您的人員，請開啟 [!UICONTROL 系統智慧清單] 在左側功能表中，然後按一下 **[!UICONTROL 所有人員]**.
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 
-1. 按一下 **[!UICONTROL 人員]** 標籤。 您應在資料庫中看到自己。
+1. 按一下 **[!UICONTROL 人員]** 標籤。 您應該會在資料庫中看到自己。
 
    ![](assets/get-set-up-and-add-a-person-10.png)
 
@@ -75,4 +75,4 @@ ht-degree: 0%
 
 <br> 
 
-[任務1：傳送電子郵件爆炸►](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[任務1：傳送電子郵件爆炸報►](/help/marketo/getting-started/quick-wins/send-an-email.md)

@@ -31,4 +31,4 @@ URL產生器可協助您建構可填入Marketo隱藏表單欄位的URL。
    >
    >如果您在產生器中看不到任何可用欄位，請確定您的表單有隱藏欄位，而且是 [設定為接受URL引數](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
 
-做得好！ 您現在可以複製並貼上URL，並在網頁上使用。
+做得很好！ 您現在可以複製並貼上URL，並在網頁上使用。

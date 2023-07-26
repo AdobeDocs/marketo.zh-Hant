@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->管理員必須新增至產品設定檔，才能存取Marketo Engage。
+>必須將管理員新增到產品設定檔才能存取Marketo Engage。
 
 1. 登入 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
@@ -46,15 +46,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
-1. 按一下您剛才新增的管理員名稱。
+1. 按一下您剛新增的管理員名稱。
 
    ![](assets/add-or-remove-a-product-admin-7.png)
 
-1. 在「產品」底下，按一下三個點選單並選取 **[!UICONTROL 編輯]**.
+1. 在「產品」底下，按一下三點選單並選取 **[!UICONTROL 編輯]**.
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
-1. 按一下 **+** 簽署。 按一下所需Marketo Engage訂閱（如果有多個訂閱）旁邊的>形箭號，然後選取所需的產品設定檔。
+1. 按一下 **+** 簽署。 按一下所需Marketo Engage訂閱（如果有多個訂閱）旁的>形箭號，然後選取所需的產品設定檔。
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->透過Adobe Admin Console將產品管理員使用者新增至Marketo Engage時，該使用者可在訂閱中獲得Adobe產品管理員角色。
+>透過Adobe Admin Console將產品管理員使用者新增至Marketo Engage時，使用者可在訂閱內獲得Adobe產品管理員角色。
 
 ## 移除管理員 {#remove-a-user}
 
@@ -94,4 +94,4 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-16.png)
 
-然後，使用者會收到電子郵件，通知他們不再擁有Marketo Engage的產品管理員存取權。
+接著，使用者會收到電子郵件，通知他們不再擁有Marketo Engage的產品管理員存取權。

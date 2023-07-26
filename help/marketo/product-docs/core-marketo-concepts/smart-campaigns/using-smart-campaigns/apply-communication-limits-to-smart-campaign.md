@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >[啟用通訊限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
 
-每天多次傳送電子郵件給某人，或一週內多次傳送電子郵件不是個好主意，對嗎？ 幸運的是，Marketo Engage有通訊限制可幫上忙。 以下是運作方式。
+一天多次傳送電子郵件給別人，或一週內傳送太多郵件，不是個好主意，對吧？ 幸運的是，Marketo Engage有溝通限制可提供協助。 以下是其運作方式。
 
 >[!NOTE]
 >
 >當任何人超過設定的通訊限制時，Marketo會封鎖非營運電子郵件（營運電子郵件一律會傳送）。
 
-1. 在Smart Campaign中，按一下 **排程** 標籤然後 **編輯設定**.
+1. 在Smart Campaign中，按一下 **排程** 標籤，然後 **編輯設定**.
 
    ![](assets/apply-communication-limits-to-smart-campaign-1.png)
 
@@ -33,10 +33,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->限制是指Smart Campaign可影響的合格人數。
+>限制是指Smart Campaign可影響的合格人員數量。
 
 >[!TIP]
 >
->若要設為預設值，請編輯  [通訊限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) 在「管理員」區段中。
+>若要將其設為預設值，請編輯您的  [通訊限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) 在管理員區段中。
 
-現在您可以放心，您不會不小心傳送太多電子郵件給對象。
+現在您可以放心，您不會意外傳送太多電子郵件給對象。

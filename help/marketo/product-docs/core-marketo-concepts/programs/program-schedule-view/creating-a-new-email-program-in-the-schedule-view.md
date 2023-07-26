@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147144
-description: 在「排程檢視」中建立新的電子郵件程式 — Marketo檔案 — 產品檔案
+description: 在「排程」檢視中建立新的電子郵件程式 — Marketo檔案 — 產品檔案
 title: 在排程檢視中建立新的電子郵件程式
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在排程檢視中建立新的電子郵件程式 {#creating-a-new-email-program-in-the-schedule-view}
 
-您可以從方案排程檢視內建立電子郵件方案。 方法如下。
+您可以從方案排程檢視內建置電子郵件方案。 方法如下。
 
 1. 前往 **行銷活動**.
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
-1. 在專案詳細資訊中，按一下新電子郵件方案的連結。
+1. 在專案詳細資訊中，按一下新電子郵件程式的連結。
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [設定您的電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 並按一下 **核准方案**.
+1. [設定您的電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 並按一下 **核准計畫**.
 
    ![](assets/learnaboutthespeaker.png)
 

@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 範本11C {#template-11c}
 
-按一下滑鼠右鍵以 [下載範本11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
+按一下右鍵以 [下載範本11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
 
 ![](assets/image2015-8-4-14-3a3-3a44.png)
 
 此範本包含下列內容：
 
 * 標題（選用）
-* 具有主圖影像、頁首、影片和本文文字的主要區段
+* 含有主圖影像、頁首、影片和本文文字的主要區段
 * 四個主體區段（選擇性）
 * 含表單的頁尾（選擇性）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本11C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)

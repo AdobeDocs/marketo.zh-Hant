@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147134
-description: 在計畫排程檢視中移動專案 — Marketo檔案 — 產品檔案
-title: 在程式排程檢視中移動專案
+description: 在方案排程檢視中移動專案 — Marketo檔案 — 產品檔案
+title: 在方案排程檢視中移動專案
 exl-id: 6df2cb23-99d1-4b72-8a1d-ff4466597e8b
 feature: Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# 在程式排程檢視中移動專案 {#moving-entries-in-the-program-schedule-view}
+# 在方案排程檢視中移動專案 {#moving-entries-in-the-program-schedule-view}
 
 在排程檢視中移動專案會自動重新排程。
 
 >[!NOTE]
 >
->無法移動已執行的智慧型行銷活動、參與計畫或郵件爆炸。
+>無法移動已執行的智慧型行銷活動、參與方案或郵件傳送。
 
 1. 選取您的專案。 將其拖放至其他日期。
 

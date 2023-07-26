@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 初始設定 {#initial-setup}
 
-1. 在您新增為指定系統管理員以進行Marketo Engage（在新組織或建立的組織中）後，您將會收到一封歡迎電子郵件。 在該電子郵件中，按一下 **[!UICONTROL 開始使用]**.
+1. 在您被新增為指定的Marketo Engage系統管理員（在新的或建立的組織中）後，您將會收到歡迎電子郵件。 在該電子郵件中，按一下 **[!UICONTROL 開始使用]**.
 
    ![](assets/admin-setup-1.png)
 
@@ -26,9 +26,9 @@ ht-degree: 0%
 
 ## 建立產品設定檔 {#create-a-product-profile}
 
-系統管理員存取Admin Console後，就可以建立產品設定檔。 這是您的使用者/管理員存取Marketo Engage的方式。
+系統管理員存取Admin Console後，就可以建立產品設定檔了。 這是使用者/管理員存取Marketo Engage的方式。
 
-1. 在 **[!UICONTROL 概觀]** 頁面，底下 **[!UICONTROL 產品和服務]**，按一下 **Marketo Engage**.
+1. 在 **[!UICONTROL 概觀]** 頁面，下 **[!UICONTROL 產品和服務]**，按一下 **Marketo Engage**.
 
    ![](assets/admin-setup-3.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您設定多個產品設定檔，無論使用者新增至哪個設定檔，使用者都可存取相同的Marketo。
+>如果您設定多個產品設定檔，無論使用者已新增至哪個設定檔，使用者都能以相同許可權存取Marketo。
 
 >[!MORELIKETHIS]
 >

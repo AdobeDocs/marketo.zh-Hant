@@ -15,7 +15,7 @@ ht-degree: 0%
 
 建議您測試您經常使用的任何電子郵件，以確保它們正常運作。 一種方式是將電子郵件與其他版本或挑戰者的有效性進行比較。 在冠軍/挑戰者測試中，您可以測試整個電子郵件、主旨行或寄件者地址。
 
-您正在測試的現有電子郵件被視為達人稱號。 您在測試中建立的任何變體都會被視為挑戰者。 您會決定獲得冠軍內容或挑戰者內容的人數百分比。 如果您已定義多個挑戰者，則這些挑戰者會平均分配給挑戰者群組。
+您正在測試的現有電子郵件可視為達人稱號。 您在測試中建立的任何變體都會被視為挑戰者。 您可以決定獲得冠軍內容或挑戰者內容的人數百分比。 如果您已定義多個挑戰者，則其會平均分配給挑戰者群組。
 
 以下說明如何開始使用。
 
@@ -38,9 +38,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >針對一次性的郵件爆炸，深入瞭解 [電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
+   >針對單次郵件爆炸，深入瞭解 [電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
 
-1. 下 **電子郵件動作**，按一下 **新增測試**.
+1. 在 **電子郵件動作**，按一下 **新增測試**.
 
    ![](assets/chmapion2.jpg)
 
@@ -50,4 +50,4 @@ ht-degree: 0%
    >
    >* [冠軍/挑戰者：整封電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
    >* [冠軍/挑戰者：主旨列](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
-   >* [冠軍/挑戰者：寄件者地址](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
+   >* [冠軍/挑戰者：從地址](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)

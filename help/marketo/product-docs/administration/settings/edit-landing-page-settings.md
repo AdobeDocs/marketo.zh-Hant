@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 編輯登陸頁面設定 {#edit-landing-page-settings}
 
-您可以編輯網域名稱和遞補頁面、啟用或停用表單預填、防止濫用登入頁面等。 方法如下。
+您可以編輯網域名稱和遞補頁面、啟用或停用表單預填、防止登陸頁面誤用等等。 方法如下。
 
 >[!NOTE]
 >
@@ -37,11 +37,11 @@ ht-degree: 0%
 
    | 詞語 | 定義 |
    |---|---|
-   | [!UICONTROL 登陸頁面的網域名稱] | 這是您的CNAME。 CNAME是您為登陸頁面提供人員的URL的第一部分。 例如，在 `https://go.yourCompany.com`，單字「go」就是CNAME。 您可以有多個，但大多數人只使用一個。 |
-   | [!UICONTROL 備援頁面] | 如果登入頁面不存在或已關閉，便可前往此處。 進一步瞭解 [後援頁面](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
+   | [!UICONTROL 登陸頁面的網域名稱] | 這是您的CNAME。 CNAME是您為登陸頁面提供的網址(URL)的第一部分。 例如，在 `https://go.yourCompany.com`，單字「go」就是CNAME。 您可以有多個，但大多數人只使用一個。 |
+   | [!UICONTROL 後援頁面] | 如果登入頁面不存在或已關閉，便可前往此處。 進一步瞭解 [後援頁面](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | [!UICONTROL 首頁] | 輸入您的公司網站URL。 |
 
-1. 檢查 **[!UICONTROL 表單預填]** 此核取方塊可允許表單預先填入已知（已編碼）人員的資訊。 取消勾選以封鎖。
+1. 檢查 **[!UICONTROL 表單預填]** 核取方塊，允許表單預先填入已知（已編碼）人員的資訊。 取消勾選以封鎖。
 
    ![](assets/edit-landing-page-settings-5.png)
 
@@ -51,12 +51,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您想要預填 `<script>` 標籤的後面 `<head>` 標籤時，請檢查 **[!UICONTROL 在Head結尾插入預填指令碼]** 方塊。 如果您希望它顯示在開頭，請取消勾選。
+   >如果您想要預填 `<script>` 標籤的後面 `<head>` 標籤時，請檢查 **[!UICONTROL 在標題末尾插入預填指令碼]** 方塊。 如果您希望它顯示在開頭，請保持取消勾選狀態。
    >
-   >Check **[!UICONTROL 移除預設的Favicon連結]** 防止Marketo將任何favicon連結插入程式碼中。
+   >檢查 **[!UICONTROL 移除預設的Favicon連結]** 防止Marketo將任何favicon連結插入程式碼中。
 
 1. 進行選取後，按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/edit-landing-page-settings-7.png)
 
-   做得好！ 您的登入頁面現在擁有正確的資訊，應該會立即開始運作。
+   做得好！您的登入頁面現在擁有正確的資訊，應該會立即開始運作。

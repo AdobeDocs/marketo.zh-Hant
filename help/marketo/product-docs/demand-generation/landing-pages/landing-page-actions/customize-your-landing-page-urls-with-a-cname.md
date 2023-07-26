@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # 使用CNAME自訂您的登陸頁面URL {#customize-your-landing-page-urls-with-a-cname}
 
-即使Marketo代管您的登陸頁面，您也可以完全自訂URL。 沒有CNAME時的樣子：
+即使Marketo代管您的登陸頁面，您也可以完全自訂URL。 在沒有CNAME時的外觀：
 
 `https://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
 
-看起來應該會：
+外觀：
 
 `https://go.YourCompany.com/UnsubscribePage.html`
 
 ## 選擇CNAME {#choose-a-cname}
 
-為您的登入頁面挑選要從URL開頭開頭移去的字詞。 只是一個字，應該相對較短。 範例:
+從登陸頁面URL的開頭選取要前往的單字。 只是一個字，應該相對較短。 範例:
 
 * go.YourCompany.com/NameOfPage.html
 * info.YourCompany.com/NameOfPage.html
 * pages.YourCompany.com/NameOfPage.html
 
-一個字(加上YourCompany.com)稱為CNAME。 您稍後將需要此資訊，請記下該資訊。
+一個字(加上YourCompany.com)稱為CNAME。 您稍後需要此資訊，請記下資訊。
 
 ## 尋找您的Munchkin ID {#find-your-munchkin-id}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 傳送要求給IT {#send-request-to-it}
 
-請您的IT人員設定下列CNAME： (取代 [CNAME] 和 [Munchkin ID] 與上一步驟的文字搭配使用。)
+請您的IT人員設定下列CNAME： (取代 [CNAME] 和 [Munchkin ID] 與上一步驟的文字連結。)
 
 [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
@@ -69,12 +69,12 @@ ht-degree: 0%
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. 在中輸入您的CNAME **登陸頁面的網域名稱**，輸入您的 **備援頁面**，輸入您的 **首頁** 並按一下 **儲存**.
+1. 輸入您的CNAME，在 **登陸頁面的網域名稱**，輸入您的 **後援頁面**，輸入您的 **首頁** 並按一下 **儲存**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 
 >[!NOTE]
 >
->如果您的Marketo登陸頁面無法使用，您的後援頁面將會是潛在客戶將重新導向到的頁面。
+>如果您的Marketo登陸頁面無法使用，您的後援頁面將會是重新導向到的頁面銷售機會。
 
 做得好！ 您的登入頁面現在以公司網域命名。

@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 輸入 **新URL**，選擇捨棄或重新導向舊URL，然後按一下 **儲存**.
+1. 輸入 **新URL**，選擇捨棄或重新導向舊的URL，然後按一下 **儲存**.
 
    ![](assets/two.png)
 

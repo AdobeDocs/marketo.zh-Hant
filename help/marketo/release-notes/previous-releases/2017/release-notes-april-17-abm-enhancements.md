@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 發行說明： 2017年4月ABM增強功能 {#release-notes-april-abm-enhancements}
 
-以下功能包含在2017年4月發行的ABM增強功能中。 檢視您的Marketo版本，瞭解是否有功能可用。
+以下功能包含在2017年4月發行的ABM增強功能中。 檢查您的Marketo版本是否有功能可用。
 
 ## 同步CRM對應的標準欄位 {#synching-of-crm-mapped-standard-fields}
 
-Marketo ABM正在變更與CRM相關的行為。 今後，Marketo ABM會在CRM中的ABM帳戶與帳戶之間建立並維持1對1的關係。 這可讓Marketo將對應的帳戶欄位與CRM保持同步。
+Marketo ABM正在變更與CRM相關的行為。 今後，Marketo ABM會在CRM中的ABM帳戶與帳戶之間建立並維持1對1關係。 這可讓Marketo讓對應的帳戶欄位與CRM保持同步。
 
 ## CRM探索的自訂欄位 {#custom-fields-for-crm-discovery}
 
-您現在可以新增自訂欄位至帳戶、將它們對應至您的CRM，並使用它們在Marketo中進行CRM帳戶探索。
+您現在可以新增自訂欄位至帳戶、將其對應至您的CRM，並用於Marketo中的CRM帳戶探索。
 
 ![](assets/new-custom-field.png)
 

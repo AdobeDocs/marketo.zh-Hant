@@ -17,12 +17,12 @@ ht-degree: 0%
 >* Salesforce與Sales Insight動作 [必須連線](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
 >* 透過API記錄電子郵件活動 [必須啟用](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
-活動詳細資料自訂可讓管理員設定在Salesforce同步銷售分析動作活動/提醒任務時，將記錄到Salesforce任務 — 主題欄位的資訊。
+活動詳細資料自訂可讓管理員設定當Salesforce分析動作活動/提醒任務同步到Salesforce時，將記錄到Salesforce任務 — 主題欄位的資訊。
 
 >[!NOTE]
 >
->* 如果您使用，提醒任務的「銷售分析動作」中主題欄位的更新將會反映在對應Salesforce任務的主題欄位中 `{{activity_subject}}` 活動詳細資料自訂中的動態欄位。
->* 將資訊記錄到Salesforce主旨欄位時，不支援分行符號。 更新銷售任務主旨時，活動詳細資料自訂編輯器中的任何分行符號都會被移除。
+>* 如果您使用「 」，提醒任務的「銷售分析動作」中主題欄位所做的更新將會反映在對應Salesforce任務的主題欄位中 `{{activity_subject}}` 活動詳細資料自訂中的動態欄位。
+>* 將資訊記錄到Salesforce主旨欄位時不支援分行符號。 更新銷售作業主旨時，會移除活動詳細資料自訂編輯器中的任何分行符號。
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -45,14 +45,14 @@ ht-degree: 0%
 
 此功能可用來解鎖下列優點：
 
-* 藉由自訂主旨欄位上顯示的資訊，可以輕鬆地在Salesforce中掃描銷售活動的詳細資訊。
-* 管理員可以使用唯一識別碼（例如「Mkto_sales」）標籤主題欄位，以便輕鬆識別銷售分析動作的活動，並與其他電子郵件活動、通話活動和任務加以區別。
-* 減少自訂活動欄位的需求。 Salesforce會強制限制自訂活動欄位的數量，這會限制報表中可用的資料。 透過使用活動動態欄位將關鍵資料新增到主旨行，您可以減少您需要在Salesforce執行個體中建立的自訂活動欄位數量。
-* 活動和任務的主旨欄位將遵循銷售分析操作管理員定義的一致模式。
+* 藉由自訂主旨欄位上顯示的資訊，Salesforce中的銷售人員可輕鬆掃描活動詳細資料。
+* 管理員可以使用唯一識別碼（例如「Mkto_sales」）標籤主旨欄位，以便輕鬆識別銷售分析動作的活動，並與其他電子郵件活動、通話活動和任務區分開來。
+* 減少自訂活動欄位的需求。 Salesforce會強制限制自訂活動欄位的數量，這會限制報表中可用的資料。 透過使用活動動態欄位將關鍵資料新增到主旨行，您可以減少需要在Salesforce執行個體中建立的自訂活動欄位數量。
+* 活動和任務的主旨欄位將遵循銷售分析動作管理員定義的一致模式。
 
 >[!NOTE]
 >
->如果您將電子郵件回覆記錄為Salesforce的活動，則不會使用Salesforce活動詳細資料自訂設定。 相反地，他們將記錄為「回覆：電子郵件主旨」。
+>如果您將電子郵件回覆記錄為Salesforce的活動，則不會使用Salesforce活動詳細資料自訂設定。 他們將會以「回覆：電子郵件主旨」的形式記錄。
 
 ## 支援的活動動態欄位 {#activity-dynamic-fields-supported}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果沒有值可填入特定活動/任務的動態欄位，則更新「Salesforce任務 — 主題欄位」時，不會填入該動態欄位的任何資料。
+>如果沒有值可填入特定活動/任務的動態欄位，則在Salesforce任務 — 主題欄位更新時，不會填入該動態欄位的任何資料。
 
 <table>
  <tr>
@@ -69,13 +69,13 @@ ht-degree: 0%
  </tr>
  <tr>
   <td>{{activity_type}}</td>
-  <td>會將任務型別填入為電子郵件、通話、InMail或自訂。</td>
+  <td>將會填入任務型別，如電子郵件、通話、InMail或自訂。</td>
  </tr>
  <tr>
   <td>{{activity_subject}}</td>
   <td><p>將填入任務的主旨。</p>
       <p>如果是電子郵件，則會填入電子郵件的主旨行。</p>
-      <p>在呼叫、inMail或自訂的案例中，如果在任務名稱/主旨欄位中有使用值建立的提醒任務，則會填入值。</p></td>
+      <p>在呼叫、inMail或自訂的案例中，如果工作名稱/主旨欄位中有使用值建立的提醒工作，則會填入值。</p></td>
  </tr>
  <tr>
   <td>{{sales_campaign_name}}</td>
@@ -83,11 +83,11 @@ ht-degree: 0%
  </tr>
  <tr>
   <td>{{sales_campaign_day}}</td>
-  <td>如果活動是從銷售行銷活動起始，則會填入此活動發生的銷售行銷活動日期編號。</td>
+  <td>如果活動是從銷售行銷活動起始，則會填入此活動發生的銷售行銷活動天數。</td>
  </tr>
  <tr>
   <td>{{sales_campaign_step}}</td>
-  <td>如果活動是從銷售行銷活動起始，則會填入發生此活動之銷售行銷活動當天的步驟編號。</td>
+  <td>如果活動是從銷售行銷活動起始，則會填入發生此活動之銷售行銷活動日期內的步驟編號。</td>
  </tr>
  <tr>
   <td>{{call_outcome}}</td>
@@ -105,7 +105,7 @@ ht-degree: 0%
 >
 >**需要管理員許可權。**
 
-設定活動詳細資料時，請考慮在Salesforce中檢閱任務歷史記錄時哪些資料與銷售最相關。
+設定活動詳細資料時，請考慮在Salesforce中檢閱任務歷史記錄時，哪些資料與銷售最相關。
 
 1. 按一下齒輪圖示並選取 **設定**.
 
@@ -119,15 +119,15 @@ ht-degree: 0%
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. 在活動詳細資料自訂編輯器中，新增您想要的任何任意文字。 您新增的文字不是動態的，且同步至Salesforce的所有任務的主題欄位將維持不變。
+1. 在活動詳細資料自訂編輯器中，新增您想要的任何任意任意文字。 您新增的文字為非動態，且同步至Salesforce的所有任務的主題欄位將維持不變。
 
    ![](assets/configure-salesforce-activity-detail-customization-6.png)
 
    >[!TIP]
    >
-   >雖然不需要，但使用直括弧將新增文字換行可以讓某些人更容易分辨填入Salesforce中主題欄位中的資料。 範例： `[Sales Insight Actions] - {{Activity_type}}`
+   >雖然不一定要加上括弧，但如果將新增文字換成直括弧，有些人在Salesforce中的主旨欄位填入資料時，就能比較輕鬆地分辨資料。 範例： `[Sales Insight Actions] - {{Activity_type}}`
 
-1. 按一下「 」，新增您想要的任何其他動態欄位 **新增動態欄位** 按鈕。
+1. 按一下「 」，新增您想要的其他動態欄位 **新增動態欄位** 按鈕。
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 
@@ -141,7 +141,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Salesforce強制使用255個字元限制。 如果您的活動詳細資料超過此限制，則會截斷以確保資訊儲存在Salesforce主旨欄位中。
+>Salesforce強制使用255個字元的上限。 如果您的活動詳細資料超過此限制，則會截斷以確保資訊儲存在Salesforce主旨欄位中。
 
 >[!MORELIKETHIS]
 >

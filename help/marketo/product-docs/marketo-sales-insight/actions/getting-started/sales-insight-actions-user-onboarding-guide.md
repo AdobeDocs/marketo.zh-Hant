@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions是以Web為基礎的應用程式，可透過 [Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 有時稱為「Marketo銷售」，或簡稱為「動作」。
+>Marketo Sales Insight Actions是網頁型應用程式，可透過 [Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 有時稱為「Marketo銷售」，或簡稱為「動作」。
 
 >[!PREREQUISITES]
 >
@@ -69,9 +69,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果選擇Outlook，您將會看到Outlook驗證畫面，您將在其中輸入您的電子郵件地址。
+>如果選擇Outlook，您將會看到Outlook驗證畫面，您將在其中輸入電子郵件地址。
 
-1. 您會看到「設定電子郵件連線」成功訊息，然後您會進入下一個畫面。
+1. 您會看到「設定電子郵件連線」成功訊息，然後系統會將您傳送至下一個畫面。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-11.png)
 
@@ -83,14 +83,14 @@ ht-degree: 0%
 
    ![](assets/sales-insight-actions-user-onboarding-guide-13.png)
 
-1. 您會看到檢視Marketo銷售動作快速簡介的選項。 按一下 **下一個** 以檢視，或 **現在不要** 以儲存以供稍後使用。
+1. 您會看到檢視Marketo銷售動作快速簡介的選項。 按一下 **下一個** 以檢視，或 **暫不** 以儲存以供稍後使用。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-14.png)
 
-1. 完成導覽或略過導覽後，請選擇直接登入Web應用程式或您的Salesforce帳戶，您可在此從MSI面板存取所有功能(在此範例中，我們選擇 **啟動Salesforce**)。
+1. 完成導覽或略過導覽時，請選擇直接登入Web應用程式或您的Salesforce帳戶，您可在此從MSI面板存取所有功能(在此範例中，我們選擇 **啟動Salesforce**)。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-15.png)
 
-1. 在Salesforce （Classic或Lightning）中，您可以導覽至任何銷售機會、聯絡人、客戶或機會。 您的所有銷售動作將可透過MSI面板中的下拉式清單取得。
+1. 在Salesforce （Classic或Lightning）中，您可以導覽至任何銷售機會、聯絡人、客戶或商機。 您的所有銷售動作將可透過MSI面板中的下拉式清單取得。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-16.png)

@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 將表單欄位設為必填 {#make-a-form-field-required}
 
-時間 [新增欄位至表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) 您可能希望填寫表格的人需要填寫其中幾項。 方法如下。
+時間 [新增欄位至表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) 您可能希望填寫的人需要填寫幾份。 方法如下。
 
 1. 前往 **行銷活動**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. 選取您的表單並按一下 **編輯表單**.
+1. 選擇您的表單並按一下 **編輯表單**.
 
    ![](assets/editform-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. 幹得漂亮！ 按一下 **完成**.
+1. 做得很好！ 按一下 **完成**.
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 

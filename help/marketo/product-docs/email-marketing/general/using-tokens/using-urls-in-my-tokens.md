@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11382535
 description: 在My Token中使用URL - Marketo檔案 — 產品檔案
-title: 在我的權杖中使用URL
+title: 在我的Token中使用URL
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 在我的權杖中使用URL {#using-urls-in-my-tokens}
+# 在我的Token中使用URL {#using-urls-in-my-tokens}
 
-請依照下列步驟，使用「我的Token」將URL插入您的電子郵件。
+請依照下列步驟，使用「我的代號」將URL插入您的電子郵件。
 
 1. 選取您的程式並按一下 **我的Token**.
 
@@ -23,13 +23,13 @@ ht-degree: 0%
 
    ![](assets/two-4.png)
 
-1. 為Token指定唯一的名稱，輸入URL (不含https://)並按一下 **儲存**.
+1. 為權杖指定唯一名稱，輸入URL (不含https://)並按一下 **儲存**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >若要確保電子郵件中的點按受到追蹤，請執行 **not** 在Token值內輸入https:// 。
+   >若要確保在您的電子郵件中追蹤點按，請執行 **非** 在Token的值內輸入https:// 。
 
 1. 在您的程式中選取電子郵件。
 
@@ -71,4 +71,4 @@ ht-degree: 0%
 
    ![](assets/twelve.png)
 
-   而且您已完成！ 您的URL會在傳送後填入，而且由於您將https://放在Token前面，因此會產生可追蹤連結。
+   而您已完成！ 您的URL將在傳送後填入，由於您將https://放在權杖前，它會產生可追蹤連結。

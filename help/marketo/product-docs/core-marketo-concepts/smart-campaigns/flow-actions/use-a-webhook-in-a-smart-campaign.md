@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 在Smart Campaign中使用Webhook {#use-a-webhook-in-a-smart-campaign}
 
-若要使用 [webhook](https://developers.marketo.com/documentation/webhooks/)，將其新增至 [智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) 作為流程動作。
+若要使用 [webhook](https://developers.marketo.com/documentation/webhooks/)，將其新增至 [智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) 作為流量動作。
 
 >[!AVAILABILITY]
 >
->並非所有客戶都已購買此功能。 如需詳細資訊，請聯絡您的銷售代表。
+>並非所有客戶都已購買此功能。 請聯絡您的銷售代表以取得詳細資訊。
 
 1. [建立智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 
    ![](assets/2017-05-02-10-54-38.png)
 
-1. 最後，您還可以在以下位置使用Webhook： **新增選擇** 在流程步驟中。
+1. 最後，您還可以在中使用Webhook **新增選擇** 在流程步驟中。
 
    ![](assets/image2014-9-22-15-3a8-3a13.png)

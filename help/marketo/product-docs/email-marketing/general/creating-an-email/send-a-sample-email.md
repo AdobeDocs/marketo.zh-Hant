@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 傳送範例電子郵件 {#send-a-sample-email}
 
-可以快速輕鬆地傳送電子郵件範例。 若要傳送動態內容電子郵件，請參閱 [預覽包含動態內容的電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
+傳送電子郵件範例既快速又簡單。 若要傳送動態內容電子郵件，請參閱 [預覽包含動態內容的電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
@@ -28,17 +28,17 @@ ht-degree: 0%
    >
    >我的Token會解析為適用於電子郵件程式的值。
 
-1. 輸入一個或多個電子郵件地址進行傳遞。 如果有多個電子郵件地址，請使用逗號加以區隔。 按一下 **傳送** 完成時。
+1. 輸入一或多個要傳送的電子郵件地址。 如果有多個電子郵件地址，請使用逗號來區隔。 按一下 **傳送** 完成時。
 
    ![](assets/two.png)
 
    >[!IMPORTANT]
    >
-   >如果您輸入多個電子郵件地址，則每個收件者都會看到這些地址。 輸入的第一位會是主要收件者，後續的每個電子郵件地址都會是副本收件者。
+   >如果您輸入多個電子郵件地址，則每個收件者都會看到這些地址。 第一個輸入的是主要收件者，後續的每個電子郵件地址都是副本收件人。
 
    >[!TIP]
    >
-   >如果您想要以特定人員身分解析權杖，請在 **人員下拉式清單** 步驟2.
+   >如果您想要以特定人員身分解析權杖，請在 **人員下拉式清單** 在步驟2中。
 
 ## 編輯時傳送範例電子郵件 {#send-a-sample-email-while-editing}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >觸發器欄位僅適用於使用 [電子郵件指令碼](https://developers.marketo.com/documentation/velocity-script/).
+   >觸發欄位僅適用於使用下列專案的使用者： [電子郵件指令碼](https://developers.marketo.com/documentation/velocity-script/).
 
 ## 根據區段傳送範例電子郵件 {#send-a-sample-email-based-on-a-segment}
 
@@ -76,7 +76,7 @@ ht-degree: 0%
 
    ![](assets/2.png)
 
-1. 會出現一個下拉式清單，其中包含可用的區段。 按一下滑鼠左鍵並選取您需要的滑鼠左鍵。
+1. 會顯示一個下拉式清單，內含可用的區段。 按一下並選取您想要的。
 
    ![](assets/3.png)
 
@@ -84,7 +84,7 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-1. 按一下 **傳送範例** 接收區段的實際運作測試電子郵件。
+1. 按一下 **傳送範例** 以接收您作用中區段的測試電子郵件。
 
    ![](assets/5.png)
 
@@ -92,4 +92,4 @@ ht-degree: 0%
    >
    >您也可以在電子郵件的編輯模式下，根據區段傳送範例電子郵件。 按一下 **電子郵件動作** 下拉式清單，選取 **傳送範例**，然後選擇您的區段。
 
-在啟動行銷活動之前取樣您的內容非常重要。 測量兩次，剪下一次！
+在啟動行銷活動之前取樣內容非常重要。 測量兩次，剪下一次！

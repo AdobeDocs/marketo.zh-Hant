@@ -15,7 +15,7 @@ ht-degree: 2%
 
 ## 概觀 {#overview}
 
-如果您使用Revenue Cycle Modeler且模型已核准，您可決定手動將潛在客戶從一個階段移至另一個階段。 此流程步驟將有所幫助。
+如果您使用Revenue Cycle Modeler並具有核准的模型，您可以決定手動將潛在客戶從一個階段移至另一個階段。 此流程步驟將有所幫助。
 
 ![](assets/image2014-9-22-17-3a4-3a59.png)
 

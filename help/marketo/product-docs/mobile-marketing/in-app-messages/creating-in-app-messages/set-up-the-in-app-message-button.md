@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 設定應用程式內訊息按鈕 {#set-up-the-in-app-message-button}
 
-您可以使用預設按鈕設計、修改它或上傳您自己的自訂按鈕影像。
+您可以使用預設按鈕設計、修改按鈕設計，或上傳您自己的自訂按鈕影像。
 
-1. 按一下按鈕以開啟「造型」標籤進行編輯。
+1. 按一下按鈕以開啟「樣式」標籤進行編輯。
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >按鈕一律會有點選動作，因此「點選動作」核取方塊會自動選取，而預設訊息為「關閉訊息」。
+   >此按鈕一律會有點選動作，因此「點選動作」核取方塊會自動選取，並出現預設訊息「關閉訊息」。
 
 即將完成。 您的最後一步為 [設定應用程式內訊息背景並關閉按鈕](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 

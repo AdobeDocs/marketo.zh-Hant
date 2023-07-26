@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 啟用/停用報表訂閱 {#enable-disable-report-subscriptions}
 
-「網頁個人化」有數個透過電子郵件傳送的實用報表。 以下說明訂閱方法。
+Web Personalization有數個透過電子郵件傳送的實用報表。 以下說明訂閱方式。
 
-1. 登入Web Personalization。 在您的登入名稱底下，按一下 **使用者設定**.
+1. 登入「網頁個人化」。 在您的登入名稱底下，按一下 **使用者設定**.
 
    ![](assets/image2014-9-17-20-3a48-3a28.png)
 
-1. 選取您要訂閱的報表及其頻率。 按一下 **儲存**.
+1. 選取您要訂閱的報告及其頻率。 按一下 **儲存**.
 
    ![](assets/email-settings.png)
 

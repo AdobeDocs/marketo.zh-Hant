@@ -16,9 +16,9 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [尋找篩選器並將其新增至智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [尋找並新增篩選器至智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 
-假設您想尋找加州的所有人，但您可能會同時儲存兩者 **加州** 和 **CA** 在您的資料庫中。 若要包含所有適用人員，您可以使用兩個 **州** 篩選器，但使用單一篩選器會更輕鬆。
+假設您想尋找加州的所有人，但您可能會同時儲存兩者 **加州** 和 **CA** 在資料庫中。 若要納入所有適用人員，您可以使用兩個 **狀態** 濾鏡，但使用濾鏡更容易。
 
 1. 前往 **行銷活動**.
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/smartlist-plussignhand-.png)
 
-1. 您可以從左側選擇值，或是在右側輸入值，然後按一下 **確定**.
+1. 您可以從左側選擇值，或直接在右側輸入值，然後按一下 **確定**.
 
    ![](assets/image2014-9-11-17-3a51-3a39.png)
 

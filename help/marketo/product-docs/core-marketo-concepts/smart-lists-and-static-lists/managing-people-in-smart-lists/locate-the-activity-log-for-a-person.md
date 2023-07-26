@@ -1,7 +1,7 @@
 ---
 unique-page-id: 5472404
 description: 找出人員的活動記錄 — Marketo檔案 — 產品檔案
-title: 找到人員的活動記錄
+title: 找出個人的活動記錄
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 找到人員的活動記錄 {#locate-the-activity-log-for-a-person}
+# 找出個人的活動記錄 {#locate-the-activity-log-for-a-person}
 
 活動記錄檔是最終的真實來源。 這是個人在Marketo歷程的完整故事。
 

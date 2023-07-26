@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-4.png)
 
-   電子郵件編輯器將在新視窗或索引標籤中開啟。 如果封鎖快顯視窗，請按一下 **[!UICONTROL 編輯草稿]** 在資產摘要頁面上存取電子郵件。
+   電子郵件編輯器將在新視窗或標籤中開啟。 如果封鎖快顯視窗，請按一下 **[!UICONTROL 編輯草稿]** 在資產摘要頁面上以存取電子郵件。
 
 1. 輸入主旨列，然後按兩下電子郵件的可編輯區域。
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ## 步驟2：建立Smart Campaign {#step-create-a-smart-campaign}
 
-1. 選取您的程式，按一下 **[!UICONTROL 新增]** 下拉式清單並選取 **[!UICONTROL 新增Smart Campaign]**.
+1. 選取您的程式，按一下 **[!UICONTROL 新增]** 下拉式清單並選取 **[!UICONTROL 新增智慧型行銷活動]**.
 
    ![](assets/email-auto-response-9.png)
 
@@ -78,11 +78,11 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-12.png)
 
-1. 選取 **[!UICONTROL 我的表單]** 下拉式清單中的。 然後按一下 **[!UICONTROL 流量]** 標籤。
+1. 選取 **[!UICONTROL 我的表單]** 位於下拉式清單中。 然後按一下 **[!UICONTROL 流量]** 標籤。
 
    ![](assets/email-auto-response-13.png)
 
-1. 拖曳 **[!UICONTROL 傳送電子郵件]** 「流程」動作至左側畫布。
+1. 拖曳 **[!UICONTROL 傳送電子郵件]** 流程動作至左側畫布。
 
    ![](assets/email-auto-response-14.png)
 
@@ -102,23 +102,23 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-18.png)
 
-1. 按一下 **[!UICONTROL 啟動]** 確認畫面上。
+1. 按一下 **[!UICONTROL 啟動]** 在確認畫面上。
 
    ![](assets/email-auto-response-19.png)
 
 >[!NOTE]
 >
->一旦啟用，此行銷活動就會在每次有人填寫指定表單時執行。 行銷活動將持續執行直至停用。
+>一旦啟用，此行銷活動就會在每次有人填寫指定表單時執行。 行銷活動將持續執行直到其停用。
 
 ## 步驟3：填寫表單 {#step-fill-out-the-form}
 
-1. 選取 **我的頁面** (此專案建立於 [含有表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 快速獲勝)並點按 **[!UICONTROL 預覽]**.
+1. 選取 **我的頁面** (此專案建立於 [含有表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 快速獲勝)並點選 **[!UICONTROL 預覽]**.
 
    ![](assets/email-auto-response-20.png)
 
    _您的「免費試用」登陸頁面將在新標籤中開啟。_
 
-1. 使用您的名字、姓氏和電子郵件地址填寫表單，然後按一下 **[!UICONTROL 提交]**.
+1. 填寫您的名字、姓氏和電子郵件地址，然後按一下 **[!UICONTROL 提交]**.
 
    ![](assets/email-auto-response-21.png)
 

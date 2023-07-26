@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 新增背景影像至簡報 {#add-a-background-image-to-a-presentation}
 
-選取背景影像以自訂簡報。
+選取背景影像來自訂簡報。
 
 >[!PREREQUISITES]
 >

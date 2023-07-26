@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 發行說明： 2014年8月 {#release-notes-august}
 
-2014年8月發行版本包含下列功能。 檢視您的Marketo版本，瞭解是否有功能可用。 請在發行後返回以取得詳細功能檔案的連結。
+2014年8月發行版本包含下列功能。 檢查您的Marketo版本是否有功能可用。 在發行後返回以取得詳細功能檔案的連結。
 
 ## 行銷行事曆授權 {#marketing-calendar-licenses}
 
-2014年9月5日之後，只有5名使用者可以免費存取行銷行事曆。 請確定 [發行/撤銷行銷行事曆授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) 之前提供給您選擇的使用者，以不中斷存取。
+2014年9月5日之後，只有5位使用者可以免費存取行銷行事曆。 請確定 [發行/撤銷行銷行事曆授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) 之後傳送給您選擇的使用者，以持續進行存取。
 
 ![--](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -27,9 +27,9 @@ ht-degree: 0%
 
 | 權限 | 說明 |
 |---|---|
-| 存取Revenue Explorer | 如果您已購買RCA，現在就能控制誰可以存取它。 |
+| 存取Revenue Explorer | 如果您已購買RCA，現在就能控制存取許可權。 |
 | 匯入清單 | 限制使用者將清單匯入潛在客戶資料庫。 |
-| 清單匯入 | 限制使用者透過行銷活動下的方案匯入清單。 |
+| 清單匯入 | 限制使用者透過行銷活動底下的方案匯入清單。 |
 | 啟動觸發程式行銷活動 | 控制誰可以和無法啟動觸發行銷活動。 |
 | 排程批次行銷活動 | 控制誰可以和無法排程批次行銷活動執行。 |
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 自動化DKIM {#automated-dkim}
 
-為了改善傳遞能力，所有傳出電子郵件都將經過DKIM (DomainKeys Identified Mail)簽署。 依預設，電子郵件將使用Marketo的共用DKIM簽名。 您將可以選擇自訂此簽名。
+為了提高傳遞能力，所有傳出電子郵件都將經過DKIM (DomainKeys Indified Mail)簽署。 依預設，電子郵件將使用Marketo的共用DKIM簽名。 您將可以選擇自訂此簽章。
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
@@ -59,13 +59,13 @@ ht-degree: 0%
 
 ## 即時個人化更新 {#real-time-personalization-updates}
 
-我們已在行銷活動頁面新增標籤，讓您能夠為您的心靈內容加上標籤。
+我們已在行銷活動頁面新增標籤，讓您能夠為自己的內容加上標籤。
 
 ![](assets/image2014-9-16-12-3a23-3a28.png)
 
-## 行動裝置目標定位 {#mobile-targeting}
+## 行動裝置定位 {#mobile-targeting}
 
-您在社群上提出要求，我們便已達成目標！ 您現在可以包含、排除或設定行動裝置和平板電腦使用者的特定行動號召。
+您在社群上提出要求，我們便完成了交付！ 您現在可以為行動裝置和平板電腦使用者包含、排除或設定特定的行動號召。
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
 ## 內容推薦引擎報表 {#content-recommendation-engine-report}
 
-我們已新增新的內容推薦引擎報告，供您檢視不錯的摘要。
+我們已新增內容推薦引擎報告，供您檢視不錯的摘要。
 
 ![](assets/image2014-9-16-12-3a24-3a42.png)
 
@@ -93,6 +93,6 @@ ht-degree: 0%
 
 ## 追蹤控制 {#tracking-control}
 
-您現在可以在Real-Time Personalization中，從所有追蹤和報告中排除特定IP。
+您現在可以在「即時個人化」中，從所有追蹤和報告中排除特定IP。
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)

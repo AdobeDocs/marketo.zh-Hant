@@ -11,17 +11,17 @@ ht-degree: 0%
 
 ---
 
-# SFDC同步：連絡人同步 {#sfdc-sync-contact-sync}
+# SFDC同步處理：連絡人同步處理 {#sfdc-sync-contact-sync}
 
-您知道Marketo會將您的整個資料庫與Salesforce同步嗎？ 它會同步，然後等待5分鐘，然後每天再次同步。 以下是Marketo如何特別對待Salesforce聯絡人的部分細節。
+您知道Marketo會將您的整個資料庫與Salesforce同步嗎？ 它會同步，然後等待5分鐘，然後每天再次同步。 以下是Marketo如何特別處理Salesforce聯絡人的部分細節。
 
 ## 同步方向 {#sync-direction}
 
-連絡人同步是雙向的。 如果您在Salesforce或Marketo中變更連絡人，您的更新將會反映在這兩個系統中。
+連絡人同步是雙向的。 如果您在Salesforce或Marketo中變更連絡人，您的更新將會反映在兩個系統中。
 
 ## 如果兩個系統同時進行變更，該怎麼辦？ {#what-if-changes-are-made-in-both-systems-at-the-same-time}
 
-我們很好，讓Salesforce獲勝。 這類資料衝突很少發生。
+我們很好，讓Salesforce獲勝。 很少發生這類資料衝突。
 
 ## 我可以在Marketo中將個人轉換為聯絡人嗎？ {#can-i-convert-a-person-into-a-contact-in-marketo}
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
 ## 每個標準欄位都會同步至Marketo嗎？ {#does-every-single-standard-field-sync-to-marketo}
 
-否，並非所有標準欄位都有用。 所有自訂欄位都可以成為同步的一部分。
+否，並非所有標準欄位都有用。 所有自訂欄位都可成為同步處理的一部分。
 
 >[!NOTE]
 >
->Marketo只會同步您的Marketo同步使用者有權存取的欄位。
+>Marketo將只會同步處理您的Marketo同步使用者有權存取的欄位。
 
 ## Marketo是否會遵守Salesforce驗證規則？ {#will-marketo-respect-the-salesforce-validation-rules}
 

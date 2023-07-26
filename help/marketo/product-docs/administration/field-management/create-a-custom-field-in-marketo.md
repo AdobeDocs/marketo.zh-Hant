@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您希望欄位與CRM保持同步，請在CRM中建立它們，這些欄位將自動在Marketo中建立。
+   >如果您希望欄位與CRM保持同步，請在CRM中建立欄位，系統會自動在Marketo中建立這些欄位。
 
 1. 按一下 **[!UICONTROL 新增自訂欄位]**.
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. 輸入 [!UICONTROL 名稱] 您希望它在Marketo中顯示的方式。 此 [!UICONTROL API名稱] 會自動產生。 您可以加以調整，但一旦設定後即無法重新命名。 按一下 **[!UICONTROL 建立]** 完成時。
+1. 輸入 [!UICONTROL 名稱] 您希望它在Marketo中顯示的方式。 此 [!UICONTROL API名稱] 會自動產生。 您可以調整它，但一旦設定就無法重新命名。 按一下 **[!UICONTROL 建立]** 完成時。
 
 >[!CAUTION]
 >
@@ -49,6 +49,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->SOAP API和其他後端處理程式會使用API名稱。
+>該API名稱由SOAP API和其他後端程式使用。
 
-您現在可以在表單、流程步驟和智慧清單中使用此自訂欄位！
+您現在可以在表單、流程步驟和智慧列示中使用此自訂欄位！

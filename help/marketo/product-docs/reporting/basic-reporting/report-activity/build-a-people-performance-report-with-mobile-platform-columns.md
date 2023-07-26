@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2951220
 description: 使用Mobile Platform欄建立人員績效報表 — Marketo檔案 — 產品檔案
-title: 使用行動平台欄建立人員效能報表
+title: 使用行動平台欄建立人員績效報表
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# 使用行動平台欄建立人員效能報表 {#build-a-people-performance-report-with-mobile-platform-columns}
+# 使用行動平台欄建立人員績效報表 {#build-a-people-performance-report-with-mobile-platform-columns}
 
 請依照下列步驟，使用行動平台(iOS/Android)欄建立人員績效報表。
 
-## 建立行動智慧清單 {#create-mobile-smart-lists}
+## 建立行動裝置智慧清單 {#create-mobile-smart-lists}
 
 1. 前往 **行銷活動**.
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 下 **新增**，選取 **新增本機資產**.
+1. 在 **新增**，選取 **新增本機資產**.
 
    ![](assets/three-1.png)
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
    ![](assets/five-1.png)
 
-1. 尋找「已開啟的電子郵件」篩選器並將其拖曳至畫布中。
+1. 尋找「已開啟的電子郵件」篩選器，並將其拖曳至畫布中。
 
    ![](assets/six-1.png)
 
-1. 將電子郵件設定為 **為任何**.
+1. 將電子郵件設為 **為任何**.
 
    ![](assets/seven.png)
 
@@ -51,9 +51,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >在此範例中，我們使用了「已開啟的電子郵件」篩選條件。 您也可以使用「已點按電子郵件」篩選器，因為它有「平台」限制。
+   >在此範例中，我們使用「已開啟的電子郵件」篩選器。 您也可以使用「已點按電子郵件」篩選器，因為它有「平台」限制。
 
-1. 將平台設定為 **iOS**.
+1. 將平台設為 **iOS**.
 
    ![](assets/nine.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
    >
    >必須至少有一個人在iOS裝置上開啟了您的其中一個電子郵件，Marketo的自動建議才能找到它。 如果未顯示，您可以手動輸入並儲存。
 
-   現在為「Android」平台建立第二個智慧清單。 完成後，請移至下一個區段。
+   現在為「Android」平台建立第二個智慧清單。 完成後，移至下一個區段。
 
 ## 建立人員績效報表 {#create-a-people-performance-report}
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    ![](assets/ten.png)
 
-1. 下 **新增**，選取 **新增本機資產**.
+1. 在 **新增**，選取 **新增本機資產**.
 
    ![](assets/eleven.png)
 
@@ -105,4 +105,4 @@ ht-degree: 0%
 
    ![](assets/seventeen.png)
 
-   很酷，對吧？ 幹得漂亮！
+   很酷吧？ 做得很好！

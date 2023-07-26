@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 建立團隊 {#creating-a-team}
 
-建立團隊可讓您組合一組使用者，以便共用內容並篩選報告。
+建立團隊可讓您組合一組使用者，這些使用者可以與共用內容，並可依這些使用者篩選報告。
 
 ## 建立團隊 {#create-a-team}
 
@@ -20,15 +20,15 @@ ht-degree: 0%
 
    ![](assets/creating-a-team-1.png)
 
-1. 在「管理設定」下，選取 **團隊管理**.
+1. 在管理設定下，選取 **團隊管理**.
 
    ![](assets/creating-a-team-2.png)
 
-1. 在「團隊」旁邊，按一下 **+** 圖示。
+1. 在團隊旁邊，按一下 **+** 圖示。
 
    ![](assets/creating-a-team-3.png)
 
-1. 輸入團隊名稱，然後按一下 **建立**.
+1. 輸入團隊名稱並按一下 **建立**.
 
    ![](assets/creating-a-team-4.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## 新增人員至團隊 {#add-people-to-a-team}
 
-1. 仍然在「團隊管理」中，選取 **所有成員**.
+1. 仍在「團隊管理」中，選取 **所有成員**.
 
    ![](assets/creating-a-team-5.png)
 

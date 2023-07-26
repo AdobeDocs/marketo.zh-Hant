@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 冠軍/挑戰者：捨棄電子郵件測試 {#champion-challenger-discard-an-email-test}
 
-如果您在任何時候決定不想繼續執行電子郵件測試，則可以捨棄它。 方法如下。
+如果您在任何時候決定不要繼續執行電子郵件測試，您可以捨棄它。 方法如下。
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 尋找您的電子郵件測試並按一下滑鼠右鍵，然後按一下 **捨棄測試**.
+1. 尋找電子郵件測試並按一下滑鼠右鍵，然後按一下 **捨棄測試**.
 
    ![](assets/champion5.jpg)
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   您已完成！ 如果您決定要再次設定測試，請繼續進行並 [新增電子郵件達人/挑戰者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).
+   您已完成！ 如果您決定要再次設定測試，請繼續並 [新增電子郵件達人/挑戰者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).

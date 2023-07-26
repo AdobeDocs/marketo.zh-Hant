@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 在Salesforce Enterprise/Unlimited中設定Marketo Sales Insight {#configure-marketo-sales-insight-in-salesforce-enterprise-unlimited}
 
-以下是設定Salesforce Enterprise/Unlimited Editions中Marketo Sales Insight的必要步驟。 讓我們開始吧。
+以下是在Salesforce Enterprise/Unlimited Edition中設定Marketo Sales Insight所需的步驟。 讓我們開始吧。
 
 >[!PREREQUISITES]
 >
->[在SalesforceAppExchange中安裝Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>[以SalesforceAppExchange安裝Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >保持此視窗開啟。 您稍後將需要此資訊到Salesforce。
+   >保持此視窗開啟。 您稍後需要在Salesforce中取得此資訊。
 
 ## 在Salesforce中設定Sales Insight {#configure-sales-insight-in-salesforce}
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. 輸入遠端網站名稱（可能類似「MarketoSoapAPI」）。 輸入遠端網站URL，這是您在Marketo的「Soap API設定」面板中的Marketo主機URL。 按一下 **儲存**. 您現在已建立Soap API的遠端站台設定。
+1. 輸入遠端網站名稱（類似「MarketoSoapAPI」）。 輸入遠端網站URL，這是您在Marketo的「Soap API設定」面板中的Marketo主機URL。 按一下 **儲存**. 您現在已建立Soap API的遠端站台設定。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -75,11 +75,11 @@ ht-degree: 0%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. 輸入遠端網站名稱（類似「MarketoAPI」）。 輸入遠端網站URL，這是您從Marketo的Rest API設定面板取得的API URL。 按一下 **儲存**. 您現在已建立Rest API的遠端站台設定。
+1. 輸入遠端網站名稱（類似「MarketoAPI」）。 輸入遠端網站URL，這是您在Marketo的Rest API設定面板中的API URL。 按一下 **儲存**. 您現在已建立Rest API的遠端站台設定。
 
    >[!NOTE]
    >
-   >_您_ 選擇您的 **遠端站台名稱** （此處使用MarketoAPI）。 此 **遠端網站URL** 您可在「在Marketo中設定Sales Insight 」一節中步驟3的「編輯API設定」對話方塊的「Marketo主機」欄位中找到。
+   >_您_ 選擇您的 **遠端站台名稱** （此處使用MarketoAPI）。 此 **遠端站台URL** 您可在「在Marketo中設定Sales Insight in Marketo」區段步驟3之「編輯API設定」對話方塊的「主機」欄位中找到。
 
 ## 自訂頁面配置 {#customize-page-layouts}
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. 按一下 **Visualforce頁面** 左側。 拖曳 **章節** 至自訂連結區段底下的配置。
+1. 按一下 **Visualforce頁面** 左側。 拖曳 **章節** 至自訂連結區段下的版面。
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
@@ -105,9 +105,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >此方塊的名稱會根據物件型別而變更。 例如，如果您正在修改「連絡人」的頁面配置，則會顯示「連絡人」。
+   >此方塊的名稱將根據物件型別而變更。 例如，如果您正在修改「連絡人」的頁面配置，將會顯示「連絡人」。
 
-1. 連按兩下 **銷售機會** 您剛才新增的區塊。
+1. 按兩下 **銷售機會** 您剛才新增的區塊。
 
    ![](assets/image2014-9-24-17-3a34-3a0.png)
 
@@ -117,13 +117,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Check **顯示卷軸** 如果您需要存取權才能捲動活動。
+   >檢查 **顯示卷軸** 如果您需要存取權才能捲動活動。
 
    >[!TIP]
    >
-   >我們建議將Accounts和Opportunities物件的高度設為410畫素。
+   >我們建議將「帳戶」和「商機」物件的高度設為410畫素。
 
-1. 按一下 **欄位** 左側。 然後搜尋並拖曳 **急迫性** 標籤到 **Marketo Sales Insight** 版面。
+1. 按一下 **欄位** 左側。 然後搜尋並拖曳 **急迫性** 標籤放入 **Marketo Sales Insight** 版面。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-18.png)
 
@@ -132,10 +132,10 @@ ht-degree: 0%
    <table> 
     <tbody> 
      <tr> 
-      <td>上一個有趣時刻</td> 
+      <td>上一個有趣的時刻</td> 
      </tr> 
      <tr> 
-      <td>上一個有趣時刻日期</td> 
+      <td>上一個有趣的時刻日期</td> 
      </tr> 
      <tr> 
       <td>上一個有趣時刻說明</td> 
@@ -144,16 +144,16 @@ ht-degree: 0%
       <td>上一個有趣時刻來源</td> 
      </tr> 
      <tr> 
-      <td>上一個有趣時刻型別</td> 
+      <td>上一個有趣的時刻型別</td> 
      </tr> 
      <tr> 
-      <td>上次Marketo活動（依銷售）</td> 
+      <td>最後一個Marketo活動（依銷售分列）</td> 
      </tr> 
      <tr> 
-      <td>銷售人員的最後Marketo參與</td> 
+      <td>銷售人員的最後一次Marketo參與</td> 
      </tr> 
      <tr> 
-      <td>MSI連絡人ID</td> 
+      <td>MSI聯絡人ID</td> 
      </tr> 
      <tr> 
       <td>相對分數</td> 
@@ -177,17 +177,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. 重複步驟5至7，新增Visualforce頁面區段和Sales Insight欄位 **連絡人**， **帳戶** 和 **機會**.
+1. 重複步驟5至7，新增Visualforce頁面區段和Sales Insight欄位 **連絡人**， **帳戶** 和 **商機**.
 
-1. 重複步驟8至10，從下列清單中新增Sales Insight欄位 **連絡人**. 請務必儲存任何變更。
+1. 重複步驟8-10，從下列清單中新增Sales Insight欄位 **連絡人**. 請務必儲存任何變更。
 
 <table> 
     <tbody> 
      <tr> 
-      <td>上一個有趣時刻</td> 
+      <td>上一個有趣的時刻</td> 
      </tr> 
      <tr> 
-      <td>上一個有趣時刻日期</td> 
+      <td>上一個有趣的時刻日期</td> 
      </tr> 
      <tr> 
       <td>上一個有趣時刻說明</td> 
@@ -196,13 +196,13 @@ ht-degree: 0%
       <td>上一個有趣時刻來源</td> 
      </tr> 
      <tr> 
-      <td>上一個有趣時刻型別</td> 
+      <td>上一個有趣的時刻型別</td> 
      </tr> 
      <tr> 
-      <td>上次Marketo活動（依銷售）</td> 
+      <td>最後一個Marketo活動（依銷售分列）</td> 
      </tr> 
      <tr> 
-      <td>銷售人員的最後Marketo參與</td> 
+      <td>銷售人員的最後一次Marketo參與</td> 
      </tr> 
      <tr> 
       <td>MKTO銷售機會分數</td> 
@@ -227,7 +227,7 @@ ht-degree: 0%
 
 ## 對應自訂人員欄位 {#map-custom-person-fields}
 
-Marketo人員欄位需要對應至Salesforce聯絡人欄位，以確保轉換正常運作。 方法如下。
+Marketo人員欄位需要對應Salesforce聯絡人欄位，以確保轉換正常運作。 方法如下。
 
 1. 按一下 **設定**.
 
@@ -267,11 +267,11 @@ Marketo人員欄位需要對應至Salesforce聯絡人欄位，以確保轉換正
      </tr> 
      <tr> 
       <td colspan="1" rowspan="1"><p>緊急值</p></td> 
-      <td colspan="1" rowspan="1"><p>Contact.Urgency值</p></td> 
+      <td colspan="1" rowspan="1"><p>Contact.Urginity值</p></td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>上一個有趣時刻日期</p></td> 
-      <td colspan="1" rowspan="1"><p>Contact.Last Interest Moment日期</p></td> 
+      <td colspan="1" rowspan="1"><p>上一個有趣的時刻日期</p></td> 
+      <td colspan="1" rowspan="1"><p>Contact.Last Interest時刻日期</p></td> 
      </tr> 
      <tr> 
       <td colspan="1" rowspan="1"><p>上一個有趣時刻說明</p></td> 
@@ -282,25 +282,25 @@ Marketo人員欄位需要對應至Salesforce聯絡人欄位，以確保轉換正
       <td colspan="1" rowspan="1"><p>Contact.Last Interest Moment Source</p></td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>上一個有趣時刻型別</p></td> 
-      <td colspan="1" rowspan="1"><p>Contact.Last Interest Moment Type</p></td> 
+      <td colspan="1" rowspan="1"><p>上一個有趣的時刻型別</p></td> 
+      <td colspan="1" rowspan="1"><p>Contact.Last Interest時刻型別</p></td> 
      </tr> 
     </tbody> 
    </table>
 
 1. 按一下 **儲存** 完成時。
 
-## Marketo Sales Insight設定標籤 {#marketo-sales-insight-configuration-tab}
+## Marketo Sales Insight設定索引標籤 {#marketo-sales-insight-configuration-tab}
 
 1. 在Salesforce中，按一下 **+** 標籤列末端，然後按一下 **Marketo銷售分析設定**.
 
-1. 從中的Soap API面板複製認證 [Marketo的Sales Insight管理頁面](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} 並將它們貼到「Salesforce銷售分析設定」頁面的Soap API區段中。
+1. 從的Soap API面板複製認證 [Marketo的Sales Insight管理頁面](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} 並將其貼到「Salesforce銷售分析設定」頁面的「Soap API」區段。
 
-1. 從的Rest API面板複製認證 [Marketo的Sales Insight管理頁面](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} 並貼到「Salesforce Sales Insight設定」頁面的Rest API區段。
+1. 從的Rest API面板複製認證 [Marketo的Sales Insight管理頁面](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} 並貼到「Salesforce銷售分析設定」頁面的Rest API區段。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
-就是這樣！ 您應該能夠看到Leads、Contact、Accounts和Opportunity的Marketo Sales Insight欄位。
+就是這樣！ 您應該能夠檢視銷售機會、聯絡人、帳戶和機會的Marketo銷售分析欄位。
 
 >[!NOTE]
 >
@@ -308,10 +308,10 @@ Marketo人員欄位需要對應至Salesforce聯絡人欄位，以確保轉換正
 
 >[!NOTE]
 >
->對於帳戶，銷售分析將包含所有電子郵件，但只有最近有趣的時刻、網頁活動和分數變更。
+>對於帳戶，Sales Insight會包含所有電子郵件，但僅包含最近有趣的時刻、網頁活動和分數變更。
 
 >[!MORELIKETHIS]
 >
->* [優先順序、緊急程度、相對分數和最佳比對](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [將Marketo索引標籤新增至Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+>* [優先順序、急迫性、相對分數和首選](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+>* [將Marketo標籤新增至Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
 >* [將銷售分析存取權新增至設定檔](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

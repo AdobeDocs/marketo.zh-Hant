@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 瞭解/啟用方案焦點 {#understand-enable-program-focus}
 
-行銷行事曆除了能讓您以鳥瞰的方式檢視事物，也允許一些互動。 您可以 [建立](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [edit](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [delete](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}, and [confirm](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"} 個專案。 為了與專案互動，您必須先專注於方案。
+「行銷行事曆」可讓您以鳥瞰的方式檢視事物，但也可進行一些互動。 您可以 [建立](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [edit](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [delete](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}, and [confirm](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"} 個專案。 為了與專案互動，您必須先專注於方案。
 
 1. 前往 **行銷行事曆**.
 
@@ -29,13 +29,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >專注於方案可讓您僅與屬於該方案的專案互動，並建立將由該方案容納的新專案。
+   >聚焦於方案可讓您僅與屬於該方案的專案互動，並建立該方案將容納的新專案。
 
 1. 完成後，請釋放焦點以與其他計畫/專案互動。
 
    ![](assets/image2014-10-20-13-3a24-3a24.png)
 
-太棒了！ 現在請繼續並學習與登入點互動。
+棒極了！ 現在開始學習與登入點互動。
 
 >[!MORELIKETHIS]
 >

@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 瞭解SEO控制面板：SEO Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
 
-使用控制面板可取得關鍵字排名趨勢的高階檢視，以及您的網站針對SEO最佳化的程度。
+使用控制面板以取得關鍵字排名趨勢的高階檢視，以及您的網站針對SEO最佳化的程度。
 
-您也可以透過以下連結瞭解如何改進使用 [!UICONTROL Recommendations] 區段。 讓我們開始吧！
+您也可以瞭解如何使用 [!UICONTROL Recommendations] 區段。 讓我們開始吧！
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
 ## [!UICONTROL 熱門頁面最佳化問題] {#top-page-optimization-issues}
 
-這會向您展示五種立即開始最佳化網站的高影響力方法！ 只要按一下任何連結即可檢視完整內容 [頁面詳細資料向下展開](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
+這將會向您展示五種極具影響力的方式，讓您立即開始最佳化您的網站！ 只要按一下任一連結，即可檢視完整內容 [頁面詳細資料向下展開](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
 
 >[!TIP]
 >
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 
-## [!UICONTROL 熱門連結機會] {#top-link-opportunities}
+## [!UICONTROL 排名在前的連結機會] {#top-link-opportunities}
 
 將信譽良好的網站連結至您的內容可以增加您的頁面排名。 以下是我們在您的網站上找到的一些最高優先順序的機會。
 

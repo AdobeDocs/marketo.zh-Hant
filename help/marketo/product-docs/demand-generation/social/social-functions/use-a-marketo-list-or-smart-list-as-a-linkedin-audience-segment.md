@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504180
-description: 使用Marketo清單或智慧清單作為LinkedIn對象區段 — Marketo檔案 — 產品檔案
+description: 使用Marketo清單或智慧清單作為LinkedIn受眾區段 — Marketo檔案 — 產品檔案
 title: 使用Marketo清單或智慧清單作為LinkedIn受眾區段
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[將LinkedIn相符的對象新增為LaunchPoint服務](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[將LinkedIn相符的受眾新增為LaunchPoint Service](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. 前往 **資料庫**.
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >按一下 **+新增對象** 會在LinkedIn Campaign Manager中建立受眾。
+   >按一下 **+新對象** 會在LinkedIn Campaign Manager中建立對象。
 
    ![](assets/6.png)
 
@@ -61,6 +61,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >請等待15分鐘進行同步。
+   >請等候15分鐘讓同步處理進行。
 
-擊掌！ 您的資料現在將與LinkedIn的對象整合。 如需將清單上傳至LinkedIn以鎖定客戶和聯絡人的詳細資訊，請造訪 [linkedIn的行銷解決方案說明中心](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).
+擊掌！ 您的資料現在將與LinkedIn的對象串聯。 如需有關將清單上傳至LinkedIn以鎖定客戶和聯絡人的資訊，請造訪 [linkedIn的行銷解決方案說明中心](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).

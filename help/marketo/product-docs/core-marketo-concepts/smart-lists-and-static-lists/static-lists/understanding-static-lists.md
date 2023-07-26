@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >資料庫中的單一人員可能位於許多不同的靜態清單中。
 
-靜態清單和智慧清單之間的差異至關重要。
+靜態與智慧列示之間的差異是瞭解的關鍵。
 
 | 類型 | 邏輯 |
 |---|---|
@@ -28,11 +28,11 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->最常見的錯誤之一是您認為只要刪除某人，就可以將該人從清單中移除。 **這是錯誤的**. 刪除人員將會從中刪除他們 **整個資料庫**，而不只是清單。
+>最常見的錯誤之一，是以為只要刪除某人即可，將某人從清單中移除。 **這是錯誤的**. 刪除人員將會從中刪除他們 **整個資料庫**，而不僅僅是清單。
 
 ## 在清單中新增/移除人員的方法 {#ways-to-add-remove-people-from-a-list}
 
-1. 智慧行銷活動流程步驟([新增至清單](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)， [從清單移除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
+1. 智慧型行銷活動流程步驟([新增至清單](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)， [從清單移除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
 
 1. [單一動作流程步驟](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
 1. 將人員拖曳至樹狀結構中的清單
@@ -41,8 +41,8 @@ ht-degree: 0%
 ## 靜態清單的某些用途 {#some-uses-of-a-static-list}
 
 * 已預先選取以接收行銷訊息的清單。
-* 「競爭對手」清單，用來傳送惡意的反情報訊息。
-* 處於特定狀態的臨時人員清單，智慧型行銷活動會在使用者退出該狀態時將其移除。
+* 「競爭者」清單，您用來傳送不守規矩的反情報訊息。
+* 處於特定狀態人員的臨時清單，智慧型行銷活動會在他們退出該狀態時將其移除。
 
 享受清單的強大功能！
 

@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 篩選網站行銷活動 {#filter-web-campaigns}
 
-在您建立數百個Web Personalization行銷活動後，能夠使用篩選器來檢視您感興趣的行銷活動會很有幫助。
+在您建立數百個Web Personalization行銷活動後，能夠使用篩選器僅檢視您感興趣的行銷活動會很有幫助。
 
-1. 前往 **網路行銷活動**.
+1. 前往 **網站行銷活動**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. 勾選您要篩選促銷活動的狀態及/或型別核取方塊，例如， **已暫停** 或 **對話方塊**. 按一下 **套用**.
+1. 勾選您要篩選之促銷活動的狀態及/或型別核取方塊，例如， **已暫停** 或 **對話方塊**. 按一下 **套用**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    ![](assets/web-campaigns-filter-only-paused.jpg)
 
-   蛋糕！
+   小菜一碟！

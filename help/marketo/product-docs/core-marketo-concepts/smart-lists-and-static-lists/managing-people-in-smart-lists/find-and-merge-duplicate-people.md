@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo不會針對Salesforce或Microsoft Dynamics同步處理或手動輸入人員時自動進行重複資料刪除。
+>Marketo不會針對Salesforce或Microsoft Dynamics同步作業，或當您手動輸入人員時，自動進行重複資料刪除。
 
 ## 尋找重複專案 {#find-duplicates}
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果您使用Salesforce人員帳戶，在Marketo中合併人員可能無法運作。 如有可能，請合併Salesforce中的記錄。
+   >如果您使用Salesforce個人帳戶，在Marketo中合併人員可能無法運作。 如有可能，請合併Salesforce中的記錄。
 
 1. 選取 **可能的重複專案** 系統智慧清單，然後按一下 **人員** 標籤。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->合併人員時，如果落選人員有Marketo自訂物件，則會 **not** 重新與成功者建立關聯。 在執行合併之前，請重新為自訂物件加上父系。
+>合併人員時，如果失敗人員有Marketo自訂物件，則會 **非** 重新與成功者建立關聯。 在執行合併之前，請重新父系自訂物件。
 
 1. 按住Ctrl/Cmd鍵並按一下，然後按一下 **合併人員**.
 
@@ -59,13 +59,13 @@ ht-degree: 0%
    >
    >您可以為同一個人員設定兩個或多個重複專案 — 一次選取所有專案。
 
-1. 您將看到以下記錄之間的值： _不要_ 相符。 為每個欄位選取要保留的值。 按一下 **合併** 完成時。 如果您不想要其中一個值，可以核取 **自訂** 並輸入您選擇的值。
+1. 您將看到記錄之間 _不要_ 相符。 為每個欄位選取要保留的值。 按一下 **合併** 完成時。 如果您不想要其中一個值，可以核取 **自訂** 並輸入您選擇的值。
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
-   >手動合併人員時，第一個選取的人員將會是「獲勝者」。 因此，在「人物」索引標籤中，如果您合併記錄ID 198和199，而且碰巧先按一下199,199將是合併之人的記錄ID。 如果合併兩個以上的記錄，這也適用。
+   >手動合併人員時，第一個選取的人員即為「獲勝者」。 所以在「人物」索引標籤中，如果您要合併記錄ID 198與199，而且剛好是先按一下199,199將會是合併之人士的記錄ID。 如果合併兩個以上的記錄，這也適用。
 
    >[!TIP]
    >
@@ -73,16 +73,16 @@ ht-degree: 0%
 
 ## Salesforce中的效果 {#effect-in-salesforce}
 
-如果您有Salesforce整合，有一些關於在Salesforce中合併銷售機會的效果的附註。
+如果您有Salesforce整合，在Salesforce中合併銷售機會的影響有幾處附註。
 
 * 僅合併潛在客戶或僅合併聯絡人時，會根據一般Salesforce規則合併。
-* 當合併銷售線索與聯絡人時，所有銷售線索都會先轉換為聯絡人，再依據一般Salesforce規則合併。
+* 將銷售線索與聯絡人合併在一起時，所有銷售線索都會先轉換為聯絡人，再依據正常的Salesforce規則合併。
 
-有關合併Lead或Contact時Salesforce行為的詳細資訊，請檢視以下Salesforce檔案：
+如需合併Lead或Contacts時Salesforce行為的詳細資訊，請參閱下列Salesforce檔案：
 
 * [合併重複的銷售機會](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
 * [合併重複的連絡人](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
 
 ## 大量合併 {#bulk-merging}
 
-如果您有太多要手動合併的重複專案，請聯絡Adobe客戶團隊（您的客戶經理）以討論您的選項。
+如果您有太多重複專案需要手動合併，請聯絡Adobe客戶團隊（您的客戶經理）以討論您的選項。

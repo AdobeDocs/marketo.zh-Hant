@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 設定Adobe組織對應 {#set-up-adobe-organization-mapping}
 
-為了與Adobe應用程式同步，例如Audience Manager、B2B CDP Marketo聯結器、 [!DNL Dynamic Chat]等等，您必須先在Marketo中輸入Adobe IMS組織憑證。
+為了與Adobe應用程式(例如Audience Manager)、B2B CDP Marketo聯結器、 [!DNL Dynamic Chat]等等。您必須先在Marketo中輸入Adobe IMS組織憑證。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->對於加入Adobe Business Platform和Identity Management System的客戶，與訂閱相關聯的組織ID將會填入，且是唯讀欄位。
+>對於加入Adobe Business Platform和Identity Management系統的客戶，與訂閱相關聯的組織ID將會填入，且是唯讀欄位。
 
 1. 在Marketo中，按一下 **[!UICONTROL 管理員]**.
 
@@ -49,8 +49,8 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >基於安全考量，您必須是您要對應之Adobe組織的組織管理員。 若未包含，動作將會失敗。 此外，Adobe使用者和Marketo使用者在登入時必須使用相同的電子郵件地址。
+   >基於安全考量，您必須是您要對應之Adobe組織的組織管理員。 否則，動作將會失敗。 此外，Adobe使用者和Marketo使用者在登入時必須使用相同的電子郵件地址。
 
-1. 如果您是 _not_ 已登入，新標籤/視窗中會出現快顯視窗。 登入您的Adobe組織（此動作會驗證組織存取權）。
+1. 如果您是 _非_ 已經登入，快顯視窗會出現在新的標籤/視窗中。 登入您的Adobe組織（此動作會驗證組織存取權）。
 
-就是這樣！ 您現在可以 [共用對象資料](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} to, or [sync an audience](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} 來自Adobe Experience Cloud。
+就是這樣！ 您現在可以 [共用受眾資料](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} to, or [sync an audience](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} 來自Adobe Experience Cloud。

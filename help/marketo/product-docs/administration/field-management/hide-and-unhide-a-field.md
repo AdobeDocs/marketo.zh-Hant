@@ -59,7 +59,7 @@ ht-degree: 1%
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
-   做得好！ 現在您知道如何取消隱藏欄位，並讓它們在Marketo使用者介面中再次可見。
+   做得很好！ 現在您知道如何取消隱藏欄位，並在Marketo使用者介面中再次顯示它們。
 
    >[!TIP]
    >

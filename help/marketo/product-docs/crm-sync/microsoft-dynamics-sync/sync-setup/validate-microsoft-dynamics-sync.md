@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->如果您的Dynamics同步處理已啟用多重驗證(MFA)，您必須停用它才能讓Dynamics正確與Marketo同步。 如需其他資訊，請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support).
+>如果您的Dynamics Sync已啟用多重驗證(MFA)，您必須將其停用，Dynamics才能正確地與Marketo同步。 如需其他資訊，請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 ## 在Marketo中執行驗證同步 {#run-validate-sync-in-marketo}
 
-執行「驗證同步」工具是非常重要的事，在兩者之間建立最終連線之前，請確定您的Microsoft Dynamics與Marketo同步已正確設定。 此程式會產生包含七個設定步驟的核對清單，以找出問題的所在。 驗證這些操作是否正確完成，可於稍後節省許多時間。
+請務必執行「驗證同步」工具，以確定您的Microsoft Dynamics與Marketo同步已正確設定，然後再建立兩者之間的最終連線。 此程式會產生包含七個設定步驟的核對清單，以找出問題的所在。 確認這些操作正確無誤，可節省大量之後的時間。
 
 1. 按一下 **管理員** 標籤然後按一下 **Microsoft Dynamics** 整合區域中的連結。
 
@@ -39,17 +39,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您之前已同步， **CRM** 在左側樹狀結構中將讀取 **Microsoft Dynamics**，上述表單中的資料可能會預先填入。
+   >如果您之前已同步， **CRM** 在左邊的樹狀結構中將會顯示 **Microsoft Dynamics**，上述表單中的資料可能會預先填入。
 
 1. 如果一切正常，「驗證同步」會產生一個包含綠色核取記號的檢查清單 ![—](assets/check.png).
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. 如果您看到 ![—](assets/delete.png)，則該步驟有一個問題。 另請參閱 [修正Dynamics驗證同步問題](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) 以識別及修正問題。 然後重新執行同步驗證步驟，直到結果看起來像上面的影像。
+1. 如果您看到 ![—](assets/delete.png)，則該步驟有一個問題。 另請參閱 [修正Dynamics驗證同步問題](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) 以找出並修正問題。 然後重新執行同步驗證步驟，直到結果如上圖所示。
 
    >[!CAUTION]
    >
-   >我們目前不支援Marketo Dynamics Sync的沙箱重新整理。 如果您需要重新整理Dynamics CRM沙箱，則需要新的Marketo沙箱。 如需其他詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+   >我們目前不支援Marketo Dynamics Sync的沙箱重新整理。 如果您需要重新整理Dynamics CRM沙箱，則需要新的Marketo沙箱。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 >[!MORELIKETHIS]
 >

@@ -1,6 +1,6 @@
 ---
-description: 使用「選取並傳送」撰寫大量電子郵件 — Marketo檔案 — 產品檔案
-title: 使用「選取並傳送」撰寫大量電子郵件
+description: 使用選取並傳送來撰寫大量電子郵件 — Marketo檔案 — 產品檔案
+title: 使用「選取並傳送」來撰寫大量電子郵件
 hide: true
 hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# 使用「選取並傳送」撰寫大量電子郵件 {#composing-bulk-emails-with-select-and-send}
+# 使用「選取並傳送」來撰寫大量電子郵件 {#composing-bulk-emails-with-select-and-send}
 
 以下說明如何使用「選取並傳送」選項傳送/編輯電子郵件。
 
@@ -28,25 +28,25 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >使用「選取並傳送」時，最多可以選取200人。
+   >使用「選取並傳送」時，最多可選取200人。
 
 1. 按一下 **電子郵件已選取** 按鈕。
 
    ![](assets/composing-bulk-emails-with-select-and-send-3.png)
 
-1. 輸入主旨列、選取範本（或從頭開始撰寫電子郵件），然後傳送/[排程](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) 電子郵件。
+1. 輸入主旨列、選取範本（或從草稿開始撰寫電子郵件），然後傳送/[排程](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) 電子郵件。
 
    ![](assets/composing-bulk-emails-with-select-and-send-4.png)
 
    >[!NOTE]
    >
-   >如果您已選取範本，且想要在傳送前檢查所有動態欄位是否正確填入，請按一下 **預覽動態欄位**. 確保選取大量側邊欄中的所有收件者，以便預覽所有電子郵件。 如果您選取一封電子郵件並按一下 **預覽動態欄位**，則只會預覽該電子郵件。
+   >如果您選取範本，而且想要在傳送前檢查所有動態欄位是否都正確填入，請按一下 **預覽動態欄位**. 確保大量側邊欄中的所有收件者都已選取來預覽所有電子郵件。 如果您選取一封電子郵件並按一下 **預覽動態欄位**，則只會預覽該電子郵件。
 
 ## 編輯電子郵件 {#editing-emails}
 
 **大量編輯**
 
-1. 請遵循以下檔案中的步驟1-3： [傳送電子郵件區段](#sending-emails) 以上。
+1. 請遵循的步驟1-3： [傳送電子郵件區段](#sending-emails) 以上。
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 在自訂每封電子郵件之前完成大量更新，因為進行大量更新會覆寫大量撰寫側邊欄中每封電子郵件的變更。
 
-1. 請遵循以下檔案中的步驟1-4： [傳送電子郵件區段](#sending-emails).
+1. 請遵循的步驟1-4 [傳送電子郵件區段](#sending-emails).
 
    >[!NOTE]
    >

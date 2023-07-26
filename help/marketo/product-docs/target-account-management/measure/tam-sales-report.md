@@ -22,8 +22,8 @@ ht-degree: 0%
 報告共用：
 
 * 依您選擇的帳戶分數排序的具名帳戶
-* 最常參與的人
-* 重要趨勢和有趣時刻
+* 參與度最高的人員
+* 主要趨勢和有趣的時刻
 * 下載包含其他詳細資料的CSV檔案的連結
 
 ![](assets/tam-sales-report-1.png)
@@ -36,14 +36,14 @@ ht-degree: 0%
    <td><strong>帳戶分數</strong></td> 
    <td> 
     <div>
-      依帳戶評分的每週趨勢（在設定中選取），接著是目前的帳戶評分 
+      依帳戶分數的每週趨勢（在設定中選取），接著是目前的帳戶分數 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Sales Pipeline</strong></td> 
+   <td><strong>銷售管道</strong></td> 
    <td> 
     <div>
-      每週趨勢（依管道），接著是目前的管道總數和開啟的機會數量 
+      依管道的每週趨勢，接著是目前的管道總數和開啟的機會數量 
     </div></td> 
   </tr> 
   <tr> 
@@ -57,7 +57,7 @@ ht-degree: 0%
    <td><strong>有趣的時刻</strong></td> 
    <td> 
     <div>
-      一週內發生的有趣時刻總數 
+      一週中發生的有趣時刻總數 
     </div></td> 
   </tr> 
  </tbody> 

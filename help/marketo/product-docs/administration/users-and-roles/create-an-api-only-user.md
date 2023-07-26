@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 建立僅限API的使用者 {#create-an-api-only-user}
 
-Marketo如果您想要透過 [REST API](https://developers.marketo.com/documentation/rest/){target="_blank"}，您將需要建立僅限API的使用者。 方法如下。
+Marketo如果您想要透過 [REST API](https://developers.marketo.com/documentation/rest/){target="_blank"}，您僅需建立API使用者。 方法如下。
 
 >[!PREREQUISITES]
 >
@@ -35,13 +35,13 @@ Marketo如果您想要透過 [REST API](https://developers.marketo.com/documenta
 
    ![](assets/create-an-api-only-user-3.png)
 
-1. 輸入僅限API使用者的電子郵件、名字和姓氏。 按一下 **[!UICONTROL 下一個]**.
+1. 輸入API使用者的電子郵件、名字和姓氏。 按一下 **[!UICONTROL 下一個]**.
 
    ![](assets/create-an-api-only-user-4.png)
 
    >[!TIP]
    >
-   >新增選擇性的原因或存取權到期日。 短期員工可使用存取到期日。
+   >新增選用原因或存取權到期日。 短期員工的存取權到期日很方便。
 
 1. 選取 **[!UICONTROL 僅限API]** 角色並檢查 **[!UICONTROL 僅限API]** 核取方塊。 按一下 **[!UICONTROL 下一個]**.
 
@@ -53,10 +53,10 @@ Marketo如果您想要透過 [REST API](https://developers.marketo.com/documenta
 
 >[!NOTE]
 >
->快顯視窗中顯示「不僅API需要邀請」，但這並不表示您做了錯事。 這僅表示我們將建立角色，而無須傳送邀請電子郵件。
+>快顯視窗會顯示「不只要求API提供邀請」，但並不表示您做了錯誤的事情。 這表示我們將建立角色，而不需傳送邀請電子郵件。
 
 那就好！ 現在，讓我們開始建立自訂服務。
 
 >[!MORELIKETHIS]
 >
->[建立自訂服務以與ReST API搭配使用](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}
+>[建立自訂服務以用於ReST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}

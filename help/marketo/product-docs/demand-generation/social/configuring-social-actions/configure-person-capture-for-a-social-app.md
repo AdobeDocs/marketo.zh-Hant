@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2950547
-description: 設定社交應用程式的個人擷取 — Marketo檔案 — 產品檔案
+description: 設定社交應用程式的人員擷取 — Marketo檔案 — 產品檔案
 title: 設定社交應用程式的個人擷取
 exl-id: bad8db26-bb1b-4d04-a80f-4d5ee3200335
 feature: Social
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 設定社交應用程式的個人擷取 {#configure-person-capture-for-a-social-app}
 
-當您建立 [轉介優惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 或 [抽獎](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)，您可以設定您向人員要求哪些資訊以及您要求哪些資訊才能參與。
+當您建立 [轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 或 [抽獎](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)，您可以設定您向人員要求哪些資訊以及您需要哪些資訊才能參與。
 
 >[!NOTE]
 >
->只有先前未提供此資訊時，才會提示使用者提供此資訊。
+>只有在先前未提供此資訊時，才會提示使用者提供此資訊。
 
 1. 前往 **行銷活動**.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. 選取您要要求的資訊，並指明註冊優惠方案所需的欄位。
+1. 選取您將要求的資訊，並指明註冊優惠方案所需的欄位。
 
    ![](assets/image2014-9-22-10-58-24.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >無論哪種方式，參與者仍會收到 [_營運_ 電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) 來自您的優惠。
+   >無論哪種方式，參與者仍會收到 [_營運_ 電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) 從您的選件中。
 
 1. 在「檢視和編輯」視窗中，按一下 **顯示編輯** 並編輯共用提示中的訊息。
 
@@ -50,4 +50,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->現在您可以 [設定社交註冊流程](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) 並編輯會張貼至每個社交網路的共用訊息。
+>現在您可以 [設定社交註冊流程](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) 並編輯會張貼至每個社交網路的分享訊息。

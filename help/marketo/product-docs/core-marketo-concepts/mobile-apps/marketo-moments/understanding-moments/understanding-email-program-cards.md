@@ -1,7 +1,7 @@
 ---
 unique-page-id: 8781911
-description: 瞭解電子郵件計畫卡 — Marketo檔案 — 產品檔案
-title: 瞭解電子郵件計畫卡
+description: 瞭解電子郵件程式卡 — Marketo檔案 — 產品檔案
+title: 瞭解電子郵件計畫卡片
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# 瞭解電子郵件計畫卡 {#understanding-email-program-cards}
+# 瞭解電子郵件計畫卡片 {#understanding-email-program-cards}
 
-使用Marketo時刻從您的手機或iPad檢視您的電子郵件程式。
+使用Marketo時刻，從您的手機或iPad檢視您的電子郵件程式。
 
 ## 以電子郵件傳送計畫卡片 {#email-program-cards}
 
 點選任何「電子郵件計畫」卡片時，您可以：
 
-* [將電子郵件設為最愛](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [將電子郵件設為我的最愛](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
 * [將電子郵件標示為完成](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [共用電子郵件時刻卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
@@ -27,13 +27,13 @@ ht-degree: 0%
 
 ![](assets/image2015-7-2-9-3a33-3a47.png)
 
-電子郵件傳送後，卡片會顯示其他重要資訊，包括已傳送的電子郵件數量、收件者的動作，以及促銷活動中所使用智慧清單的連結。
+電子郵件傳送後，卡片會顯示其他寶貴資訊，包括已傳送的電子郵件數量、收件者的動作，以及促銷活動中所使用智慧清單的連結。
 
 ![](assets/image2015-9-25-10-3a5-3a29.png)
 
 ## 確認電子郵件卡片 {#confirming-an-email-card}
 
-1. 若要確認未確認的電子郵件卡片，請點選三個點選單。
+1. 若要確認未確認的電子郵件卡片，請點選三點功能表。
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 取消電子郵件卡片傳送 {#canceling-an-email-card-send}
 
-1. 如果您決定不將確認電子郵件寄出，請點選「三點」功能表。
+1. 如果您決定不將確認的電子郵件寄出，請點選三點功能表。
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
@@ -61,13 +61,13 @@ ht-degree: 0%
 
 ## 重新排程電子郵件卡片 {#rescheduling-an-email-card}
 
-您可以重新排程已確認或未確認的電子郵件卡。
+您可以重新排程已確認或未確認的電子郵件卡片。
 
 >[!NOTE]
 >
 >對於已確認的電子郵件，您必須先取消電子郵件（請參閱下文）。
 
-1. 若要重新排程電子郵件，請點選三個點選單。
+1. 若要重新排程電子郵件，請點選三點功能表。
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
 ## 預覽電子郵件 {#previewing-an-email}
 
-以滑鼠右鍵按一下電子郵件卡片以預覽。
+以滑鼠右鍵按一下電子郵件卡片進行預覽。
 
 1. 點選 **預覽電子郵件**.
 
@@ -109,7 +109,7 @@ ht-degree: 0%
 
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 
-   太棒了！
+   太好了！
 
 這是檢視電子郵件行銷活動的獨家新聞。 現在，您是專業人士！
 

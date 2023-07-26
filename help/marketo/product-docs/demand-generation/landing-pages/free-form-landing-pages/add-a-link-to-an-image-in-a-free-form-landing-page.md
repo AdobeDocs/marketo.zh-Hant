@@ -1,7 +1,7 @@
 ---
 unique-page-id: 5472314
 description: 在自由格式登陸頁面中新增影像連結 — Marketo檔案 — 產品檔案
-title: 在任意格式的登陸頁面中新增影像連結
+title: 在自由格式登陸頁面中新增影像的連結
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 在任意格式的登陸頁面中新增影像連結 {#add-a-link-to-an-image-in-a-free-form-landing-page}
+# 在自由格式登陸頁面中新增影像的連結 {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
-想要將登陸頁面上的影像設為另一個頁面/網站的連結？ 方法如下。
+想要將登陸頁面上的影像設為另一個頁面/網站的連結嗎？ 方法如下。
 
 >[!PREREQUISITES]
 >

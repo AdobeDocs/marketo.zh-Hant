@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # 將人員同步至Microsoft {#sync-person-to-microsoft}
 
-此功能僅適用於將Marketo與Microsoft Dynamics整合的使用者。
+此功能僅適用於整合Marketo與Microsoft Dynamics的使用者。
 
 ## 概觀 {#overview}
 

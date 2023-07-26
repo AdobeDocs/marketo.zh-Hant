@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 發佈自訂活動 {#publish-a-custom-activity}
 
-您的自訂活動完全符合您的需求。 現在，是時候發佈它了！
+您的自訂活動完全符合您的需求。 現在，該發佈它了！
 
 1. 前往 **[!UICONTROL 管理員]** 區域。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   您將會看到自訂活動的 [!UICONTROL state] 前往 [!UICONTROL 草稿]...
+   您會看到自訂活動的 [!UICONTROL state] 前往 [!UICONTROL 草稿]...
 
    ![](assets/publish-a-custom-activity-5.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
    ![](assets/publish-a-custom-activity-6.png)
 
-   幹得漂亮！
+   做得很好！

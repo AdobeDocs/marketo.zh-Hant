@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359856
-description: 開啟和關閉參與計畫 — Marketo檔案 — 產品檔案
+description: 開啟和關閉Engagement Program - Marketo檔案 — 產品檔案
 title: 開啟和關閉參與計畫
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 feature: Engagement Programs
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 開啟和關閉參與計畫 {#turn-an-engagement-program-on-and-off}
 
-只要按一下開關，您就可以關閉參與計畫。 這將會停止傳送任何內容。 方法如下。
+只要按一下開關，您就可以關閉參與計畫。 這樣會停止傳送任何內容。 方法如下。
 
 1. 前往 **行銷活動**.
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >除非您超出訂閱限制，否則參與計畫預設為開啟。
+   >除非您已超出訂閱限制，否則參與計畫預設為啟用。
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 

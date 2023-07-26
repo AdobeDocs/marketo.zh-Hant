@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 檢視Smart Campaign結果 {#view-smart-campaign-results}
 
-想要檢視在智慧行銷活動中發生的所有事情的劃分嗎？ 很簡單，方法如下。
+想要檢視在智慧行銷活動中發生的所有事情的劃分嗎？ 簡單明瞭，方法如下。
 
 1. 在您的智慧行銷活動中，按一下 **結果**.
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >您也可以根據活動型別篩選結果。 瞭解如何 [篩選智慧型行銷活動結果](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md).
 
-1. 按一下 **ID** 以檢視有關該特定活動的詳細資訊。
+1. 按一下 **ID** 以檢視該特定活動的詳細資訊。
 
    ![](assets/image2014-9-22-11-39-22.jpg)
 

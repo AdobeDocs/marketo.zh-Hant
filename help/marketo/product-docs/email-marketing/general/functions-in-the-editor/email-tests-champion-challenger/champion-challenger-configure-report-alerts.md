@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359567
-description: Champion/Challenger — 設定報表警示 — Marketo檔案 — 產品檔案
+description: 冠軍/挑戰者 — 設定報表警示 — Marketo檔案 — 產品檔案
 title: 冠軍/挑戰者 — 設定報表警示
 exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# 冠軍/挑戰者：設定報表警示 {#champion-challenger-configure-report-alerts}
+# 冠軍/挑戰者：設定報表警報 {#champion-challenger-configure-report-alerts}
 
-Marketo會傳送電子郵件測試進行情況的報告。 以下是其排程方法。
+Marketo會傳送電子郵件測試進行情況的報告。 以下是其排程方式。
 
 >[!PREREQUISITES]
 >
 >[冠軍/挑戰者：定義冠軍標準](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
-1. 讓我們將報告排程為每週於星期五上午9點傳送一次。
+1. 讓我們排程在星期五上午9點每週傳送一次報告。
 
    ![](assets/image2014-9-15-13-3a12-3a56.png)
 
@@ -39,7 +39,7 @@ Marketo會傳送電子郵件測試進行情況的報告。 以下是其排程方
 
    ![](assets/image2014-9-15-13-3a18-3a41.png)
 
-   報告將包含有用的詳細資訊，例如：測試型別、獲勝者條件、電子郵件開啟數量等。 測試本身也會有直接連結，可讓您宣告獲勝者！ 超酷內容。
+   報告將包含有用的詳細資訊，例如：測試型別、獲勝者條件、電子郵件開啟數量等。 測試本身也會有直接連結，可讓您宣告獲勝者！ 很酷的東西。
 
    >[!MORELIKETHIS]
    >

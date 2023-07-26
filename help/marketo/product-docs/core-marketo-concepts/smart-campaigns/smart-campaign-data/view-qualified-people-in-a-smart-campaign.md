@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->觸發智慧行銷活動不會顯示合格人員，因為它們會根據即時事件執行。
+>觸發智慧型行銷活動不會顯示合格的人員，因為這些行銷活動是根據即時事件執行的。
 
 1. 此 **合格人員** 索引標籤會列出在行銷活動執行時符合流程的人員。
 
@@ -29,13 +29,13 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >「合格人員」清單未說明遭到封鎖或達到通訊限制的人員。
+   >「合格人員」清單不會將遭到封鎖或達到通訊限制的人員列入考量。
 
    >[!NOTE]
    >
-   >合格人員的數量也取決於智慧行銷活動資格規則。 瞭解如何 [編輯資格規則](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
+   >符合資格的人數也取決於智慧行銷活動資格規則。 瞭解如何 [編輯資格規則](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
 
-真貼心！ 您可以使用此清單來檢查哪些人可能在您執行智慧型行銷活動之前通過流量。
+真貼心！ 您可以使用此清單來檢查哪些人可能在您執行智慧型行銷活動之前通過流程。
 
 >[!MORELIKETHIS]
 >

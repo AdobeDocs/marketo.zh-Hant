@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 瀏覽Analytics首頁 {#navigating-the-analytics-home-page}
 
-1. 前往 **分析** 區域。
+1. 前往 **Analytics** 區域。
 
 1. ![](assets/image2015-4-27-8-3a38-3a10.png)
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 1. ![](assets/image2015-4-27-8-3a38-3a22.png)
 
-1. 執行報告後，按一下工作區以返回 **Analytics首頁**.
+1. 執行報表後，按一下工作區以返回 **Analytics首頁**.
 
    ![](assets/image2015-4-27-8-3a38-3a34.png)
 

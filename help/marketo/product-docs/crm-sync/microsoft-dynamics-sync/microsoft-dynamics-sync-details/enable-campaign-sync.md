@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 啟用Campaign同步 {#enable-campaign-sync}
 
-此選項可讓Marketo新增和移除MS Dynamics Campaign的成員。
+此選項可讓Marketo從MS Dynamics Campaign新增及移除成員。
 
 >[!PREREQUISITES]
 >
@@ -38,8 +38,8 @@ ht-degree: 0%
 
    ![](assets/enable-campaign-sync-4.png)
 
-給你。 只要給同步處理一些時間，以便從Microsoft Dynamics提取資料，您就可以開始了。
+您有。 只要給同步處理一些時間，以便從Microsoft Dynamics提取資料，您就可以開始了。
 
 >[!NOTE]
 >
->重設Dynamics Campaign同步核取方塊將會重新整理所有先前同步的Campaign資料，以及與Dynamics中行銷清單的關聯。
+>重設「Dynamics促銷活動同步」核取方塊將會重新整理所有先前同步的Campaign資料，以及與Dynamics中行銷清單的關聯。

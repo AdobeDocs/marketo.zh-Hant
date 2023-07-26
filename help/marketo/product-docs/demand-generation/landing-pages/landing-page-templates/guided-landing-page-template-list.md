@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 引導式登陸頁面範本清單 {#guided-landing-page-template-list}
 
-瀏覽範例範本的集合，以搭配使用 [引導式登陸頁面編輯器](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). 每個範本都能完全回應，並以Bootstrap架構為基礎。
+瀏覽範例範本的集合，以搭配使用 [引導式登陸頁面編輯器](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). 每個範本都能完全回應，並以Bootstrap框架為基礎。
 
 >[!NOTE]
 >
@@ -33,11 +33,11 @@ ht-degree: 0%
 |---|---|---|
 | [範本1A](guided-landing-page-templates/template-1a.md) | [範本1B](guided-landing-page-templates/template-1b.md) | [範本1C](guided-landing-page-templates/template-1c.md) |
 | ![](assets/1a.jpg) | ![](assets/1b.jpg) | ![](assets/1c.jpg) |
-| [範本1D](guided-landing-page-templates/template-1d.md) | [範本1E](guided-landing-page-templates/template-1e.md) | [範本1F](guided-landing-page-templates/template-1f.md) |
+| [1D範本](guided-landing-page-templates/template-1d.md) | [範本1E](guided-landing-page-templates/template-1e.md) | [範本1F](guided-landing-page-templates/template-1f.md) |
 | ![](assets/1d.jpg) | ![](assets/1e.jpg) | ![](assets/1f.jpg) |
 | [範本2A](guided-landing-page-templates/template-2a.md) | [範本2B](guided-landing-page-templates/template-2b.md) | [範本2C](guided-landing-page-templates/template-2c.md) |
 | ![](assets/2a.jpg) | ![](assets/2b.jpg) | ![](assets/2c.jpg) |
-| [範本2D](guided-landing-page-templates/template-2d.md) | [範本3A](guided-landing-page-templates/template-3a.md) | [範本3B](guided-landing-page-templates/template-3b.md) |
+| [2D範本](guided-landing-page-templates/template-2d.md) | [範本3A](guided-landing-page-templates/template-3a.md) | [範本3B](guided-landing-page-templates/template-3b.md) |
 | ![](assets/2d.jpg) | ![](assets/3a.jpg) | ![](assets/3b.jpg) |
 | [範本3C](guided-landing-page-templates/template-3c.md) | [3D範本](guided-landing-page-templates/template-3d.md) | [範本4A](guided-landing-page-templates/template-4a.md) |
 | ![](assets/3c.jpg) | ![](assets/3d.jpg) | ![](assets/4a.jpg) |
@@ -81,17 +81,17 @@ ht-degree: 0%
 | ![](assets/14a.jpg) | ![](assets/14b.jpg) | ![](assets/14c.jpg) |
 | [14D範本](guided-landing-page-templates/template-14d.md) | [範本14E](guided-landing-page-templates/template-14e.md) | [範本15A](guided-landing-page-templates/template-15a.md) |
 | ![](assets/14d.jpg) | ![](assets/14e.jpg) | ![](assets/15a.jpg) |
-| [範本15B](guided-landing-page-templates/template-15b.md) | [範本15C](guided-landing-page-templates/template-15c.md) | [15D範本](guided-landing-page-templates/template-15d.md) |
+| [範本15B](guided-landing-page-templates/template-15b.md) | [範本15C](guided-landing-page-templates/template-15c.md) | [範本15D](guided-landing-page-templates/template-15d.md) |
 | ![](assets/15b.jpg) | ![](assets/15c.jpg) | ![](assets/15d.jpg) |
 | [範本15E](guided-landing-page-templates/template-15e.md) | [範本16A](guided-landing-page-templates/template-16a.md) | [範本16B](guided-landing-page-templates/template-16b.md) |
 | ![](assets/15e.jpg) | ![](assets/16a.jpg) | ![](assets/16b.jpg) |
-| [範本16C](guided-landing-page-templates/template-16c.md) | [16D範本](guided-landing-page-templates/template-16d.md) | [範本16E](guided-landing-page-templates/template-16e.md) |
+| [範本16C](guided-landing-page-templates/template-16c.md) | [範本16D](guided-landing-page-templates/template-16d.md) | [範本16E](guided-landing-page-templates/template-16e.md) |
 | ![](assets/16c.jpg) | ![](assets/16d.jpg) | ![](assets/16e.jpg) |
 | [範本17A](guided-landing-page-templates/template-17a.md) | [範本17B](guided-landing-page-templates/template-17b.md) | [範本17C](guided-landing-page-templates/template-17c.md) |
 | ![](assets/17a.jpg) | ![](assets/17b.jpg) | ![](assets/17c.jpg) |
-| [17D範本](guided-landing-page-templates/template-17d.md) | [範本17E](guided-landing-page-templates/template-17e.md) | [範本18A](guided-landing-page-templates/template-18a.md) |
+| [範本17D](guided-landing-page-templates/template-17d.md) | [範本17E](guided-landing-page-templates/template-17e.md) | [範本18A](guided-landing-page-templates/template-18a.md) |
 | ![](assets/17d.jpg) | ![](assets/17e.jpg) | ![](assets/18a.jpg) |
-| [範本18B](guided-landing-page-templates/template-18b.md) | [範本18C](guided-landing-page-templates/template-18c.md) | [18D範本](guided-landing-page-templates/template-18d.md) |
+| [範本18B](guided-landing-page-templates/template-18b.md) | [範本18C](guided-landing-page-templates/template-18c.md) | [範本18D](guided-landing-page-templates/template-18d.md) |
 | ![](assets/18b.jpg) | ![](assets/18c.jpg) | ![](assets/18d.jpg) |
 | [範本18E](guided-landing-page-templates/template-18e.md) | [範本19A](guided-landing-page-templates/template-19a.md) | [範本19B](guided-landing-page-templates/template-19b.md) |
 | ![](assets/18e.jpg) | ![](assets/19a.jpg) | ![](assets/19b.jpg) |

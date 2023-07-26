@@ -27,7 +27,7 @@ Marketo如果您想要透過 [REST API](https://developers.marketo.com/documenta
 
    ![](assets/create-an-api-only-user-role-2.png)
 
-1. 按一下 **[!UICONTROL 角色]** 標籤然後 **[!UICONTROL 新角色]**.
+1. 按一下 **[!UICONTROL 角色]** 標籤，然後 **[!UICONTROL 新角色]**.
 
    ![](assets/create-an-api-only-user-role-3.png)
 
@@ -41,4 +41,4 @@ Marketo如果您想要透過 [REST API](https://developers.marketo.com/documenta
 
 >[!MORELIKETHIS]
 >
->好的，做得好！ 現在，讓我們 [建立僅限API的使用者](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+>好的，做得好！ 現在，讓 [建立僅限API的使用者](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).

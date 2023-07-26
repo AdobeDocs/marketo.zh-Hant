@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sales Insight動作如何處理電子郵件重複資料刪除？ {#how-does-sales-insight-actions-handle-email-de-duping}
 
-當您在 [上傳CSV](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) 檔案放入銷售分析動作後，我們會在匯入前將所有類似的聯絡人合併到CSV中。
+當您在 [上傳CSV](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) 檔案放入銷售分析動作中，我們會在匯入前將所有類似的聯絡人合併到CSV中。
 
 我們根據相似的電子郵件地址來執行此操作。 因此，如果有兩個相同的電子郵件地址，我們會將其合併為一個連絡人。
 

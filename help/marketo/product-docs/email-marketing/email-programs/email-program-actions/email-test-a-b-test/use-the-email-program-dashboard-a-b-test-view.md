@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359549
-description: 使用電子郵件計畫控制面板 — A/B測試檢視 — Marketo檔案 — 產品檔案
+description: 使用電子郵件程式控制面板 — A/B測試檢視 — Marketo檔案 — 產品檔案
 title: 使用電子郵件計畫控制面板 — A/B測試檢視
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
 feature: Email Programs, A/B Testing
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 ## 點擊次數 {#clicks}
 
-您可以在此處檢視每個變體有多少點按次數。
+您可以在此處檢視每個變體有多少點按。
 
 ![](assets/image2014-9-12-16-3a16-3a20.png)
 
@@ -37,7 +37,7 @@ ht-degree: 1%
 
 ## 摘要 {#summary}
 
-您可以在此處檢視變體的點按和取消訂閱劃分，以方便比較。
+您可以在此按變體檢視點按和取消訂閱的劃分，以方便比較。
 
 ![](assets/image2014-9-12-16-3a16-3a45.png)
 
@@ -45,4 +45,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[使用電子郵件計畫控制面板](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>[使用電子郵件程式控制面板](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

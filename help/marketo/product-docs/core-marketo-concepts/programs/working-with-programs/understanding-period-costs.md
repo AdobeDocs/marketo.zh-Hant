@@ -21,19 +21,19 @@ ht-degree: 0%
 >
 >**範例**
 >
->如果您花$1000僱一名插圖師，為在7月推出的電子書做插圖，則電子書計畫在7月的期間成本將為$1000。
+>如果您花$1000僱一名插圖師，以製作將於7月推出的電子書，則電子書計畫的期間成本在7月為$1000。
 >
->如果您每月在Google Adwords上花費$200 - Google Adwords計畫的期間成本為$200 **每月**.
+>如果您每月在Google Adwords上花費$200 - Google Adwords程式的期間成本為$200 **每月**.
 
 >[!NOTE]
 >
 >[瞭解計畫](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[瞭解計畫成員資格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[瞭解計畫會員資格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## 期間成本的計算方式 {#how-period-costs-are-calculated}
 
-想像一下發生在三月的事件，例如網路研討會。 1月和2月的廣告會預先招募新人。 活動結束後，當人們在4月和5月下載網路研討會時，也會獲得新聯絡人。
+想像一下3月進行的活動，例如網路研討會。 一月份和二月份的廣告會預先招募新人。 活動後，當人們在4月和5月下載網路研討會時，也會獲得新聯絡人。
 
 1. 將單一期間成本歸因於3月……
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/graph3.png)
 
-   ...只有在3月之後幾個月才新增的聯絡人將計為3月。
+   ...僅在3月後幾個月內新增的聯絡人將計入3月。
 
    ![](assets/graph4.png)
 
@@ -55,13 +55,13 @@ ht-degree: 0%
 
    ![](assets/graph5.png)
 
-   ...1月到3月期間新增的聯絡人將計為1月。 在4月和5月新增的聯絡人將計為4月。
+   ...在1月到3月期間新增的聯絡人將計為1月。 在4月和5月新增的聯絡人將計為4月。
 
    ![](assets/graph6.png)
 
    >[!NOTE]
    >
-   >摘要 — 沒有已定義期間成本的月份將「迴轉」至已定義的最後一個期間。 如果沒有前期成本，月份將「前轉」到已定義的下一個月份。 如果尚未定義期間成本 _任何_ 月數，RCE中的報表不適用於該計畫。
+   >摘要 — 沒有定義期間成本的月份將「回溯」至定義的最後一個月份。 如果沒有前期成本，則月份將「前移」到已定義的下一個月份。 如果尚未定義期間成本 _任何_ 月數，RCE中的報告將無法用於此方案。
 
    >[!MORELIKETHIS]
    >

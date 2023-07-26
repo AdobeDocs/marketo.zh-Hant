@@ -20,11 +20,11 @@ ht-degree: 5%
 >
 >* 您必須擁有 [Dynamic Chat整合](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} 設定
 
-## Marketo Sales Insight設定標籤 {#marketo-sales-insight-configuration-tab}
+## Marketo Sales Insight設定索引標籤 {#marketo-sales-insight-configuration-tab}
 
 請依照下列步驟來啟用Dynamic Chat整合。
 
-1. 登入您的Salesforce帳戶，按一下標籤列尾端的+ ，然後按一下 **Marketo銷售分析設定**.
+1. 登入您的Salesforce帳戶，按一下標籤列結尾的+ ，然後按一下 **Marketo銷售分析設定**.
 
 1. 按一下以展開「Visualforce面板」。
 
@@ -38,13 +38,13 @@ ht-degree: 5%
 
 Sales Insight使用者可以利用以下Dynamic Chat活動……
 
-參與對話方塊：當訪客點按聊天機器人並參與對話方塊時，登入Marketo並填入Sales Insight。
+參與對話方塊：登入Marketo，並在訪客點按聊天機器人參與對話方塊時填入Sales Insight。
 
 * 對話名稱
 * 頁面 URL
 * 狀態（已啟動/已捨棄/已完成）
 
-已排程約會：當訪客透過聊天機器人成功排程約會時，登入Marketo並在Sales Insight中填入。
+已排程約會：登入Marketo，並在訪客透過聊天機器人成功排程約會時填入銷售分析。
 
 * 對話名稱
 * 專員
@@ -52,13 +52,13 @@ Sales Insight使用者可以利用以下Dynamic Chat活動……
 * 排程日期（插入日期和時間戳記）
 * 狀態（已排程、已重新排程、已取消）
 
-已達成目標：當訪客達成任何對話方塊流程中的目標時，登入Marketo並填入Sales Insight。
+已達成目標：當訪客達成任何對話方塊流程中的目標時，登入Marketo並填入銷售分析中。
 
 * 對話名稱
 * 目標名稱
 * 頁面 URL
 
-與檔案互動：訪客與透過聊天機器人共用的檔案互動時，登入Marketo並填入Sales Insight。
+與檔案互動：訪客與透過聊天機器人共用的檔案互動時，登入Marketo並填入銷售分析中。
 
 * 對話名稱
 * 文件
@@ -68,19 +68,19 @@ Sales Insight使用者可以利用以下Dynamic Chat活動……
 
 ![](assets/dynamic-chat-integration-3.png)
 
-Lead和Contact面板中提供Chat標籤。 其中包括「活動型別」、「對話方塊名稱」和「日期」欄。
+潛在客戶面板和聯絡人面板中提供「聊天」標籤。 其中包括「活動型別」、「對話方塊名稱」和「日期」欄。
 
 ![](assets/dynamic-chat-integration-4.png)
 
-您可以按一下活動型別，以進一步瞭解該活動型別。
+您可以按一下活動型別，以瞭解更多有關活動型別的資訊。
 
 ![](assets/dynamic-chat-integration-5.png)
 
-同樣地，「帳戶」和「商機」面板包含「名稱」、「活動型別」、「對話方塊名稱」和「日期」欄。
+同樣地，「帳戶」和「商機」面板包括「名稱」、「活動型別」、「對話方塊名稱」和「日期」欄。
 
 ![](assets/dynamic-chat-integration-6.png)
 
-「聊天」標籤也包含在您的「全域Marketo」標籤中。 它包含三種活動型別（參與對話方塊、排程約會、達成目標），以及下列欄：
+Chat標籤也包含在您的全域Marketo標籤中。 它包含三種活動型別（參與對話方塊、排程約會、達成目標），以及下列欄：
 
 * 個人
 * 帳戶
@@ -88,16 +88,16 @@ Lead和Contact面板中提供Chat標籤。 其中包括「活動型別」、「�
 * 對話名稱
 * 日期與時間戳記
 
-同樣地，您可以按一下活動型別以進一步瞭解該活動型別。
+同樣地，您可以按一下某個活動型別以深入瞭解該活動型別。
 
 ![](assets/dynamic-chat-integration-7.png)
 
 >[!NOTE]
 >
->如果「啟用Dynamic Chat資料」核取方塊已停用，則會停用下列功能：
+>如果「啟用Dynamic Chat資料」核取方塊已停用，則下列功能將會停用：
 >
->* 前瞻分析控制面板（智慧格線和每週清單檢視）中包含「聊天」活動的列
->* Lead、Contact、Account和Opportunity面板中的Chat索引標籤
+>* 前瞻分析儀表板（智慧格線和每週清單檢視）中包含聊天活動的列
+>* Lead、Contact、Account和Opportunity面板中的Chat標籤
 >* 「全域Marketo」標籤中的「聊天」標籤
 >
 >不能只停用其中一項功能。

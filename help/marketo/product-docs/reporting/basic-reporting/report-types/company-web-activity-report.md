@@ -13,19 +13,19 @@ ht-degree: 1%
 
 # 公司網站活動報表 {#company-web-activity-report}
 
-檢視哪些公司正在造訪您的網站。 您可以選擇顯示已知或匿名的訪客，但不能在同一個報表中同時顯示兩者。
+檢視哪些公司正在造訪您的網站。 您可以選擇在同一份報表中顯示已知或匿名的訪客，但不能同時顯示兩者。
 
 建立 [網頁活動報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) 檢視造訪您網站的個別人員。
 
 >[!PREREQUISITES]
 >
->若要在Marketo中從您的網站擷取活動，您首先需要設定 [在您的網站上啟動Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>若要在Marketo中從您的網站擷取活動，您必須先設定 [在您的網站上啟動Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
 1. [建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 並選取公司網站活動報表 [報告型別](report-type-overview.md).
 
-1. 選擇以 [顯示已知或匿名的使用者](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) 在報表中。
+1. 選擇以 [顯示已知或匿名人員](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) 在報表中。
 
-1. [設定報表的時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 並按一下 **報告** 標籤。
+1. [設定報告的時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 並按一下 **報告** 標籤。
 
 1. 完成了！ 請檢閱您的報告，以瞭解哪些公司正在造訪您的網站。
 
@@ -33,9 +33,9 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >若要找出造訪您網站次數最多的公司， [排序您的報告](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) 於 _頁面檢視_ 欄並選擇 **降序排序**.
+   >若要找出造訪您網站次數最多的公司， [排序報告](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) 於 _頁面檢視_ 欄並選擇 **降序排序**.
 
-   [您可以選取的欄](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 對於「公司網站活動」報表，包括：
+   [您可以選取的欄](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 若為公司網站活動報表，則包含：
 
 <table> 
  <thead> 
@@ -47,7 +47,7 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td>公司</td> 
-   <td>訪客的公司。<br> <strong>以粗體顯示的名稱</strong> 至少有一人確認是公司名稱。</td> 
+   <td>訪客的公司。<br> <strong>以粗體顯示的名稱</strong> 已確認至少一位人士為公司名稱。</td> 
   </tr> 
   <tr> 
    <td>推斷的公司或ISP</td> 
@@ -74,4 +74,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[在網頁報告中顯示人員或匿名訪客](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
+>[在網頁報表中顯示人員或匿名訪客](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)

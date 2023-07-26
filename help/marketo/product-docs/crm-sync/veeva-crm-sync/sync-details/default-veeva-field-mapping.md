@@ -12,7 +12,7 @@ ht-degree: 33%
 
 # 預設Veeva欄位對應 {#default-veeva-field-mapping}
 
-當您初次將Marketo Engage帳戶與Veeva同步時，Marketo會自動在內建Veeva和Marketo欄位之間建立這些關聯。 Marketo也會同步您帳戶和連絡人上的自訂欄位。
+當您初次將Marketo Engage帳戶與Veeva同步時，Marketo會自動在內建的Veeva和Marketo欄位之間建立這些關聯。 Marketo也會同步處理帳戶和連絡人上的自訂欄位。
 
 ## 連絡人欄位 {#contact-fields}
 
@@ -81,7 +81,7 @@ ht-degree: 33%
       <td>國家</td>
     </tr>
     <tr>
-      <td>郵遞區號</td>
+      <td>MailingPostalCode</td>
       <td>郵遞區號</td>
     </tr>
     <tr>
@@ -97,7 +97,7 @@ ht-degree: 33%
       <td>手機號碼</td>
     </tr>
     <tr>
-      <td>商務電話</td>
+      <td>公司電話</td>
       <td>電話號碼</td>
     </tr>
     <tr>
@@ -151,7 +151,7 @@ ht-degree: 33%
     </tr>
     <tr>
       <td>帳戶說明</td>
-      <td>公司備註</td>
+      <td>公司附註</td>
     </tr>
     <tr>
       <td>產業</td>
@@ -194,7 +194,7 @@ ht-degree: 33%
 
 ## Marketo中的Veeva相關系統欄位（唯讀） {#veeva-related-system-fields-in-marketo}
 
-這些欄位是在Marketo中建立的，但客戶無法調整。
+這些欄位是在Marketo中建立，但客戶無法調整。
 
 <table>
   <colgroup>
@@ -214,15 +214,15 @@ ht-degree: 33%
     </tr>
     <tr>
       <td>Veeva型別</td>
-      <td>連絡人。 如果留空，則潛在客戶只會以Marketo中的個人身分存在</td>
+      <td>連絡人。 如果空白，該潛在客戶在Marketo中只會以個人身分存在</td>
     </tr>
     <tr>
       <td>Veeva建立日期</td>
-      <td>在SFDC中建立的日期(可以與Marketo中建立的日期不同)</td>
+      <td>以SFDC建立的日期(可能與Marketo中的建立日期不同)</td>
     </tr>
     <tr>
       <td>Veeva已刪除</td>
-      <td>此人員之前在SFDC中，但已被刪除，現在僅居住在Marketo中</td>
+      <td>此人之前在SFDC中，但現在已被刪除，僅居住在Marketo中</td>
     </tr>
   </tbody>
 </table>

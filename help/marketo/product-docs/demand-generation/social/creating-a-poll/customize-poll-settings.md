@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359774
-description: 自訂輪詢設定 — Marketo檔案 — 產品檔案
+description: 自訂投票設定 — Marketo檔案 — 產品檔案
 title: 自訂輪詢設定
 exl-id: 72379bc7-9457-4285-9cc2-02dc0c1f3966
 feature: Social
@@ -23,14 +23,14 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-10-3a56-3a37.png)
 
-1. 在輪詢編輯器中，前往 **應用程式設定** > **進階選項**.
+1. 在輪詢編輯器中，移至 **應用程式設定** > **進階選項**.
 
    ![](assets/image2014-9-19-10-3a56-3a44.png)
 
-1. 核取強制的選項 **投票限制** 並輸入允許的最大票數。
+1. 核取強制 **投票限制** 並輸入允許的最大票數。
 
    ![](assets/image2014-9-19-10-3a56-3a54.png)
 
 >[!TIP]
 >
->您可以按一下 **完成** > **核准並關閉** 至 [發佈您的投票](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)，或者您可以繼續自訂。 例如，嘗試 [設定共用後提示](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+>您可以按一下 **完成** > **核准並關閉** 至 [發佈您的投票](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)，或您可以繼續自訂。 例如，試用 [設定共用後提示](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

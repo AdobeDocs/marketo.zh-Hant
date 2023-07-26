@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->此功能僅適用於Salesforce，與Microsoft Dynamics或其他CRM不相容。 不會鎖定從Outlook或Gmail外掛程式存取的範本，因為編輯器不受Marketo控制。
+>此功能僅適用於Salesforce，與Microsoft Dynamics或其他CRM不相容。 不會鎖定從Outlook或Gmail外掛程式存取的範本，因為編輯器並非由Marketo控制。
 
 ## 啟用鎖定範本 {#enable-lock-template}
 
@@ -29,21 +29,21 @@ ht-degree: 0%
 
    ![](assets/1.png)
 
-1. 下 **設定**，按一下 **編輯**.
+1. 在 **設定**，按一下 **編輯**.
 
    ![](assets/2.png)
 
-1. Check **啟用鎖定範本的功能**. 按一下 **儲存**.
+1. 檢查 **啟用鎖定範本的功能**. 按一下 **儲存**.
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
 >[!NOTE]
 >
->預設會勾選此方塊，並啟用鎖定範本的功能。 取消核取此選項將會停用電子郵件編輯器中的鎖定範本功能。
+>預設會勾選此方塊，並啟用鎖定範本的功能。 取消核取此選項將停用電子郵件編輯器中的鎖定範本功能。
 
 >[!NOTE]
 >
->以管理員身分變更此設定將會 **not** 回溯影響現有的範本；也就是說，它不會自動鎖定它們。
+>以管理員身分變更此設定將會 **非** 回溯影響現有的範本；也就是說，它不會自動鎖定它們。
 
 ## 在電子郵件編輯器中鎖定範本 {#lock-template-in-the-email-editor}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/6.png)
 
-1. Check **發佈至Marketo Sales Insight** 如果尚未核取。 您現在可以取消勾選 **允許CRM使用者編輯電子郵件** 以鎖定範本。 按一下 **儲存**.
+1. 檢查 **發佈至Marketo Sales Insight** 如果尚未核取。 您現在可以取消勾選 **允許CRM使用者編輯電子郵件** 以鎖定範本。 按一下 **儲存**.
 
    ![](assets/7.png)
 

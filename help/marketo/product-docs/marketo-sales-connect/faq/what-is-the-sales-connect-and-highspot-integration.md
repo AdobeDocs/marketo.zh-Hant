@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352553
-description: 什麼是Sales Connect與Highspot Integration？ - Marketo檔案 — 產品檔案
-title: 什麼是Sales Connect與Highspot Integration？
+description: 什麼是Sales Connect and Highspot Integration？ - Marketo檔案 — 產品檔案
+title: 什麼是Sales Connect and Highspot Integration？
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 什麼是Sales Connect與Highspot Integration？ {#what-is-the-sales-connect-and-highspot-integration}
+# 什麼是Sales Connect and Highspot Integration？ {#what-is-the-sales-connect-and-highspot-integration}
 
 Sales Connect支援與整合 [亮點](https://www.highspot.com/)，內容管理系統。 同時身為Highspot客戶的Sales Connect客戶可以從網頁應用程式記憶體取其Highspot內容。
 
@@ -19,9 +19,9 @@ Sales Connect支援與整合 [亮點](https://www.highspot.com/)，內容管理�
 
 若要使用Sales Connect與Highspot的整合，您需要下列專案：
 
-* **瀏覽器 — 最新版Chrome與Safari、Edge、IE或Firefox**
+* **瀏覽器 — 最新版本的Chrome和Safari、Edge、IE或Firefox**
 
-除了在瀏覽器中使用Sales Connect之外，Highspot整合也可在我們的Outlook .Net電子郵件使用者端中使用。 需求如下：
+除了在瀏覽器中使用Sales Connect之外，Highspot整合還可在Outlook .Net電子郵件使用者端中使用。 需求如下：
 
 * **Outlook .Net &amp; Exchange** - Sales Connect支援的Outlook .Net、Exchange Online、Exchange 2016版本
 
@@ -37,7 +37,7 @@ Sales Connect支援與整合 [亮點](https://www.highspot.com/)，內容管理�
 
 啟用後，以下說明如何在Sales Connect中存取您的Highspot內容。
 
-1. 在Sales Connect或Outlook中撰寫電子郵件時，請選擇 **新增內容**.
+1. 在Sales Connect或Outlook中撰寫電子郵件時，選擇 **新增內容**.
 
 1. 選取 **亮點**.
 

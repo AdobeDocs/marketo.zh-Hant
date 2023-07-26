@@ -15,13 +15,13 @@ ht-degree: 4%
 
 ## 概觀 {#overview}
 
-由於您能夠 [新增至清單](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)，您也需要從清單中移除人員的方法。
+由於您可以 [新增至清單](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)，您也需要一種從清單中移除人員的方法。
 
 ![](assets/image2014-9-22-10-3a44-3a3.png)
 
 ## 使用情況 {#usage}
 
-1. 尋找並選取 **清單** 您希望人員從中移除。
+1. 尋找並選取 **清單** 您希望將人員從中移除。
 
    ![](assets/image2014-9-22-10-3a44-3a7.png)
 

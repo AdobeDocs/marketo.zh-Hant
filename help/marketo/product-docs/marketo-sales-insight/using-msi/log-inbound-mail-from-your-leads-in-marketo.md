@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949285
-description: 在Marketo - Marketo檔案 — 產品檔案中記錄潛在客戶的傳入郵件
-title: 在Marketo中記錄潛在客戶的傳入郵件
+description: 在Marketo - Marketo檔案 — 產品檔案中記錄潛在客戶寄來的傳入郵件
+title: 在Marketo中記錄潛在客戶寄來的傳入郵件
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 在Marketo中記錄潛在客戶的傳入郵件 {#log-inbound-mail-from-your-leads-in-marketo}
+# 在Marketo中記錄潛在客戶寄來的傳入郵件 {#log-inbound-mail-from-your-leads-in-marketo}
 
 您可以使用Marketo電子郵件增益集，直接在Outlook中記錄潛在客戶的回覆。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >您也可以以滑鼠右鍵按一下訊息，然後按一下 **使用Marketo登入**.
 
-您應該會看到確認訊息。
+您應該會看到確認。
 
 ![](assets/image2014-9-23-17-3a13-3a39.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-17-3a14-3a29.png)
 
-記錄潛在客戶的回覆，以將其新增至Marketo中的歷史記錄。
+記錄潛在客戶的回覆，以將它們新增至Marketo中的記錄。
 
 >[!MORELIKETHIS]
 >

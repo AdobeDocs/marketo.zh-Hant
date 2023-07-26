@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4720476
-description: Classic圖示字彙表 — Marketo檔案 — 產品檔案
-title: Classic圖示字彙表
+description: 傳統圖示字彙表 — Marketo檔案 — 產品檔案
+title: 傳統圖示字彙表
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 6%
 
 ---
 
-# Classic圖示字彙表 {#classic-icon-glossary}
+# 傳統圖示字彙表 {#classic-icon-glossary}
 
-以下是Marketo Classic的舊圖示。 新圖示辭彙表可以是 [可在此處找到](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target="_blank"}.
+以下是Marketo Classic的舊圖示。 新的圖示辭彙表可以是 [可在此處找到](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target="_blank"}.
 
 **一般圖示**
 
@@ -74,21 +74,21 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-9-3a23-3a11.png"> 
     </div></td> 
-   <td>封存資料夾或轉換為封存資料夾（任何資料夾和已封存的程式都可以出現此功能）</td> 
+   <td>封存資料夾或轉換為封存資料夾（任何資料夾和封存的程式都可以出現此功能）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a35-3a59.png"> 
     </div></td> 
-   <td>成功!（通常顯示為計畫成功、成功執行或作用中）</td> 
+   <td>成功!（經常顯示為計畫成功、成功執行或作用中）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-10-3a34-3a57.png"> 
     </div></td> 
-   <td>篩選，檢視，檢視全部</td> 
+   <td>篩選、檢視、檢視全部</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -274,21 +274,21 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-8-18-3a44-3a51.png"> 
     </div></td> 
-   <td>Webhook</td> 
+   <td>Webhooks</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-18-3a46-3a13.png"> 
     </div></td> 
-   <td>標籤 — 計畫屬性</td> 
+   <td>標籤 — 方案屬性</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a39-3a28.png"> 
     </div></td> 
-   <td>Revenue Cycle Analytics</td> 
+   <td>收入週期分析</td> 
   </tr> 
   <tr> 
    <td> 
@@ -327,7 +327,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2014-12-18-16-3a45-3a45.png"> 
     </div></td> 
-   <td>活動計畫</td> 
+   <td>事件程式</td> 
   </tr> 
   <tr> 
    <td> 
@@ -348,7 +348,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2014-12-23-11-3a28-3a3.png"> 
     </div></td> 
-   <td>參與培養</td> 
+   <td>Engagement Nurture</td> 
   </tr> 
   <tr> 
    <td> 
@@ -362,14 +362,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2014-12-23-11-3a40-3a19.png"> 
     </div></td> 
-   <td>變更參與步調（暫停，正常）</td> 
+   <td>變更參與步調（已暫停，正常）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2014-12-23-11-3a42-3a5.png"> 
     </div></td> 
-   <td>變更參與資料流</td> 
+   <td>變更參與流程</td> 
   </tr> 
   <tr> 
    <td> 
@@ -397,7 +397,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-11-3a43-3a30.png"> 
     </div></td> 
-   <td>Smart Campaign — 非作用中或從未執行</td> 
+   <td>智慧型行銷活動 — 非作用中或從未執行</td> 
   </tr> 
   <tr> 
    <td> 
@@ -411,14 +411,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>電子郵件程式 <br>（紅色旗標向下=電子郵件尚未傳送）</td> 
+   <td>電子郵件程式 <br>（紅色旗標已關閉=電子郵件尚未傳送）</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img alt="--" src="assets/hs-icon.png" title="--"> 
     </div></td> 
-   <td colspan="1">電子郵件程式已排程為Head Start</td> 
+   <td colspan="1">電子郵件程式已排程為開始時間</td> 
   </tr> 
   <tr> 
    <td> 
@@ -821,7 +821,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-12-3a53-3a55.png"> 
     </div></td> 
-   <td>已核准資產的草稿（草稿獲核准前不會啟用）</td> 
+   <td>已核准資產的草稿（在草稿獲得核准前不會啟用）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -835,14 +835,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-13-3a11-3a50.png"> 
     </div></td> 
-   <td>代碼片段 — 未核准或草稿</td> 
+   <td>程式碼片段 — 未核准或草稿</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-13-3a29-3a18.png"> 
     </div></td> 
-   <td>代碼片段 — 已核准</td> 
+   <td>程式碼片段 — 已核准</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -902,7 +902,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-9-3a58-3a14.png"> 
     </div></td> 
-   <td>收入週期模型(RCM) — 已核准並草稿</td> 
+   <td>收入週期模型(RCM) — 以草稿核准</td> 
   </tr> 
   <tr> 
    <td> 
@@ -965,7 +965,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-13-3a43-3a15.png"> 
     </div></td> 
-   <td>潛在客戶分組條件</td> 
+   <td>潛在客戶分組依據</td> 
   </tr> 
   <tr> 
    <td> 
@@ -990,7 +990,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-13-3a53-3a27.png"> 
     </div></td> 
-   <td>行事曆ICS — 行事曆，（整合式行事曆）</td> 
+   <td>行事曆ICS — 行事曆， （整合式行事曆）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1018,7 +1018,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-15-3a44-3a30.png"> 
     </div></td> 
-   <td>排程Smart Campaign執行一次</td> 
+   <td>排程智慧型行銷活動執行一次</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1113,7 +1113,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-14-3a48-3a34.png"> 
     </div></td> 
-   <td>日期 — 格式為「YYYY-MM-DD」</td> 
+   <td>日期 — 「YYYY-MM-DD」格式</td> 
   </tr> 
  </tbody> 
 </table>
@@ -1152,7 +1152,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-16-3a39-3a5.png"> 
     </div></td> 
-   <td>區段或區段 — 已核准或草稿</td> 
+   <td>細分或區段 — 已核准或草稿</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1166,7 +1166,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-16-3a42-3a11.png"> 
     </div></td> 
-   <td>欄位組織器</td> 
+   <td>欄位組織者</td> 
   </tr> 
   <tr> 
    <td> 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 透過社交分享發佈YouTube影片 {#publish-a-youtube-video-with-social-sharing}
 
-鼓勵訪客使用登陸頁面上的新「視訊共用」進行社交分享，藉此擴大視訊的受眾。
+鼓勵訪客使用登陸頁面上新的視訊共用功能，進行社交分享，藉此擴大視訊的受眾。
 
 ![](assets/image2014-9-23-10-3a39-3a21.png)
 
@@ -33,23 +33,23 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## 將登入頁面發佈至Facebook {#publish-landing-pages-to-facebook}
+## 將登陸頁面發佈至Facebook {#publish-landing-pages-to-facebook}
 
-透過將登入頁面直接發佈到Facebook、完成社交應用程式、表單，以及Marketo登入頁面的完整功能，來延伸登入頁面的觸及範圍。
+將登入頁面直接發佈至Facebook，並完成社交應用程式、表單，以及Marketo登入頁面的完整功能，以擴充登入頁面的觸及範圍。
 
-## ReadyTalk事件轉接器 {#readytalk-event-adapter}
+## ReadyTalk事件配接器 {#readytalk-event-adapter}
 
-將Marketo活動順暢地連線至ReadyTalk會議。 使用Marketo表單來擷取註冊者，並在ReadyTalk中自動註冊他們。 雙向同步可讓出勤資訊填入Marketo。
+將Marketo活動順暢地連線至ReadyTalk會議。 使用Marketo表單來擷取註冊者，並在ReadyTalk中自動註冊他們。 雙向同步可讓出勤資訊填入Marketo中。
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
 ## Microsoft Dynamics內部部署 {#microsoft-dynamics-on-premise}
 
-我們現在支援內部部署的Microsoft Dynamics 2011，以及面對網際網路的部署。
+我們現在支援內部部署的Microsoft Dynamics 2011以及網際網路導向部署。
 
-## Webhook (Treasure Check) {#webhooks-treasure-chest}
+## Webhooks （寶箱） {#webhooks-treasure-chest}
 
-Webhook是使用者定義的HTTP回呼。 這是將資料從Marketo推送至任何其他服務的絕佳方式。 此功能目前可在Treasure Chest中使用，目前僅支援觸發行銷活動。
+Webhook是使用者定義的HTTP回呼。 這是將資料從Marketo推播到任何其他服務的絕佳方式。 此功能目前可在Treasure Chest中使用，目前僅支援觸發行銷活動。
 
 您如何使用Webhook的範例包括：將使用者名稱和密碼資訊張貼到另一個系統以建立試用帳戶；當您取得新潛在客戶時傳送SMS文字訊息。
 

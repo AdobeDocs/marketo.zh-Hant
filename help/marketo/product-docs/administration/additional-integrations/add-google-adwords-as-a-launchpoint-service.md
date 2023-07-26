@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 新增 [!DNL Google AdWords] as a [!DNL LaunchPoint] 服務 {#add-google-adwords-as-a-launchpoint-service}
 
-連結您的 [!DNL Google AdWords] 帳戶至Marketo，自動將離線轉換資料從Marketo上傳至 [!DNL Google AdWords]. 然後，從 [!DNL AdWords] UI後，您將可輕鬆檢視哪些點按導致合格的銷售機會、商機及新客戶（或您要追蹤的任何收入階段） [新增自訂欄](https://support.google.com/adwords/answer/3073556){target="_blank"} 在 [!DNL AdWords]. Marketo UI中不會顯示此資訊。
+連結您的 [!DNL Google AdWords] 帳戶至Marketo以自動從Marketo上傳離線轉換資料至 [!DNL Google AdWords]. 然後，從 [!DNL AdWords] UI，您將可輕鬆檢視哪些點按導致符合條件的銷售機會、商機和新客戶（或您要追蹤的任何收入階段） [新增自訂欄](https://support.google.com/adwords/answer/3073556){target="_blank"} 在 [!DNL AdWords]. 此資訊不會出現在Marketo UI中。
 
 進一步瞭解 [Google的離線轉換匯入功能](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
@@ -49,11 +49,11 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >確定從您的個人登出 [!DNL Gmail] 帳戶並啟用快顯視窗。
+   >請務必登出您的個人檔案 [!DNL Gmail] 帳戶並啟用快顯視窗。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-5.png)
 
-1. 選取與下列專案關聯的帳戶： [!DNL Google AdWords].
+1. 選取您與關聯的帳戶 [!DNL Google AdWords].
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-6.png)
 
@@ -69,14 +69,14 @@ ht-degree: 1%
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-9.png)
 
-1. 屬性轉換至 **[!UICONTROL 首次點按]** 或 **[!UICONTROL 上次點按]**.
+1. 將屬性轉換至 **[!UICONTROL 首次點按]** 或 **[!UICONTROL 最後點按]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-10.png)
 
    | 類型 | 定義 |
    |---|---|
-   | [!UICONTROL 首次點按] | 離線轉換將歸因於 [!DNL AdWords] 過去90天內有人點按的廣告 |
-   | [!UICONTROL 上次點按] | 離線轉換將歸因到最後一個 [!DNL AdWords] 某人點選的廣告 |
+   | [!UICONTROL 首次點按] | 離線轉換將歸因於 [!DNL AdWords] 個人在過去90天內點選的廣告 |
+   | [!UICONTROL 最後點按] | 離線轉換將歸因到最後一個 [!DNL AdWords] 某人點選的廣告 |
 
    >[!NOTE]
    >
@@ -90,7 +90,7 @@ ht-degree: 1%
    >
    >[自動標籤](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} 必須選取才能使用此功能。 停用必須在內完成 [!DNL AdWords].
 
-太棒了！ 現在請參閱以下相關文章，瞭解如何對應 [!DNL AdWords] 您的收入模型中的離線轉換。
+太棒了！ 現在請參閱下文相關文章，瞭解如何對應 [!DNL AdWords] 您的收入模型中的離線轉換。
 
 >[!MORELIKETHIS]
 >

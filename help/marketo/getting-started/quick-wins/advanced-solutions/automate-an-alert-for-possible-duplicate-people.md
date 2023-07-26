@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7513680
-description: 針對可能重複的人員自動傳送警報 — Marketo檔案 — 產品檔案
+description: 針對可能的重複人員自動傳送警報 — Marketo檔案 — 產品檔案
 title: 針對可能的重複人員自動傳送警報
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 想要在每次建立可能的重複人員時都顯示警示嗎？ 以下說明如何設定Smart Campaign來執行。
 
-1. [建立新的Smart行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. 定義下列智慧清單：
+1. [建立新的智慧行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. 定義下列智慧清單：
 
 * 觸發： **[!UICONTROL 已建立人員]**
 * 篩選： **[!UICONTROL 重複欄位]**. 欄位名稱 **[!UICONTROL 是] [!UICONTROL 全名]**
@@ -24,7 +24,7 @@ ht-degree: 0%
 
   >[!TIP]
   >
-  >發揮創造力。 實驗不同的欄位，以獲得更好的篩選結果。
+  >發揮創意。 實驗不同的欄位，以獲得更好的篩選結果。
 
 1. 在流程步驟中，選擇 [[!UICONTROL 傳送警報]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"} 流量動作。
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >使用 [傳送警報資訊權杖](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} 以在CRM中加入此人的連結。
+   >使用 [傳送警報資訊權杖](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} 在您的CRM中加入此人的連結。
 
    >[!CAUTION]
    >

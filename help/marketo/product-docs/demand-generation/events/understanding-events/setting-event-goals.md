@@ -14,17 +14,17 @@ ht-degree: 0%
 
 # 設定事件目標 {#setting-event-goals}
 
-為事件提供特定目標，並瞭解其執行成果。
+為事件提供特定目標，並瞭解其執行情形。
 
 >[!IMPORTANT]
 >
->並非每個人都購買了此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+>並非每個人都購買過此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 1. 建立事件程式。
 
    ![](assets/setting-event-goals-1.png)
 
-1. 選擇 [!UICONTROL Campaign資料夾]，為活動提供 [!UICONTROL 名稱]，選取 [!UICONTROL 計畫型別] 和 [!UICONTROL 頻道]. 按一下 **[!UICONTROL 建立]** 完成時。
+1. 選擇 [!UICONTROL 行銷活動資料夾]，為活動提供 [!UICONTROL 名稱]，選取 [!UICONTROL 計畫型別] 和 [!UICONTROL 頻道]. 按一下 **[!UICONTROL 建立]** 完成時。
 
    ![](assets/setting-event-goals-2.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/setting-event-goals-3.png)
 
-1. 輸入目標 [!UICONTROL 已註冊] 按一下 **[!UICONTROL 設定目標]**. 輸入數字，然後按下Enter。
+1. 輸入目標 [!UICONTROL 已註冊] 按一下 **[!UICONTROL 設定目標]**. 輸入數字，然後按Enter鍵。
 
    ![](assets/setting-event-goals-4.png)
 
@@ -44,6 +44,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->事件開始後，您就無法設定事件的目標。
+>事件開始後，您就無法設定目標。
 
 就是這樣！ 按一下「 」，檢查您的事件目標狀態 [!UICONTROL 報表] 標籤。

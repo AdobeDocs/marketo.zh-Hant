@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 啟動/暫停網站行銷活動 {#launch-pause-a-web-campaign}
 
-網路行銷活動是與特定區段相關聯的自訂反應，可以是 [對話方塊](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) 在您的網站上， [區域取代](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、Widget功能或電子郵件警示。
+網路行銷活動是與特定區段相關聯的自訂反應，可以是 [對話方塊](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) 在您的網站上， [區域取代](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、Widget功能或電子郵件警報。
 
 您可以從網站行銷活動頁面或設定網站行銷活動頁面，以兩種方式啟動或暫停網站行銷活動。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/one-1.png)
 
-1. 前往 **網路行銷活動**.
+1. 前往 **網站行銷活動**.
 
    ![](assets/two-1.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-11-26-17-3a26-3a38.png)
 
-1. 如果行銷活動已暫停，請按一下 **已暫停** 若要將行銷活動的狀態變更為 **已啟動**. 這將啟動並啟動行銷活動。
+1. 如果行銷活動已暫停，請按一下 **已暫停** 若要將行銷活動的狀態變更為 **已啟動**. 這將會啟動並啟動行銷活動。
 
    ![](assets/image2014-11-26-17-3a28-3a59.png)
 

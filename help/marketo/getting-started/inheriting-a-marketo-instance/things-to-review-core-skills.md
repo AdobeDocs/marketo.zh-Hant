@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7516607
 description: 檢閱內容 — 核心技能 — Marketo檔案 — 產品檔案
-title: 檢視事項 — 核心技能
+title: 檢閱內容 — 核心技能
 exl-id: 37dfb6e7-b850-45fe-bbf4-15eb58a7bc1d
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 檢閱內容：核心技能 {#things-to-review-core-skills}
 
-需要填補行銷自動化專業知識中的一些空白嗎？ 如果您僅有有限的時間來提升核心技能，我們建議您使用下列內容：
+需要填補行銷自動化專業知識中的一些空白嗎？ 如果您僅有有限的時間來提升核心技能，我們建議您採取以下步驟：
 
 ![建立電子郵件程式](assets/office-28.png) [**建立電子郵件程式**](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"}
 

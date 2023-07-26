@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->大部分的訂閱都有10種自訂活動型別的配置限制。
+>大部分的訂閱都有分配的10個自訂活動型別限制。
 
 1. 前往 **[!UICONTROL 管理員]** 區域。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-activity-3.png)
 
-1. 輸入名稱和選擇性 [!UICONTROL 說明]，然後按一下 **[!UICONTROL 下一個]**. API名稱會自動填滿，但您可以加以自訂。
+1. 輸入名稱與選擇性 [!UICONTROL 說明]，然後按一下 **[!UICONTROL 下一個]**. API名稱會自動填滿，但您可以加以自訂。
 
    ![](assets/create-a-custom-activity-4.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-activity-5.png)
 
-1. 為主要欄位提供一個名稱，該名稱會總結自訂活動的用途。
+1. 為主要欄位提供一個名稱，該名稱會摘要說明自訂活動的用途。
 
    ![](assets/create-a-custom-activity-6.png)
 

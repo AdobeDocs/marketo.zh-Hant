@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359880
-description: 使用資料夾組織您的影像和檔案 — Marketo檔案 — 產品檔案
+description: 使用資料夾整理影像和檔案 — Marketo檔案 — 產品檔案
 title: 使用資料夾組織您的影像和檔案
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用資料夾組織您的影像和檔案 {#organize-your-images-and-files-using-folders}
 
-建立資料夾可讓您移動影像和檔案、只檢視所需的影像集，以及直接上傳至特定資料夾。
+建立資料夾可讓您移動影像和檔案、檢視您想要的影像集，以及直接上傳至特定資料夾。
 
 1. 前往 **Design Studio**.
 
@@ -31,8 +31,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-11-3a26-3a0.png)
 
-擊掌！ 您已完成資料夾烏托邦的設定。
+擊掌！ 您已完全符合資料夾烏托邦的要求。
 
 >[!MORELIKETHIS]
 >
->[搜尋上傳的影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
+>[搜尋已上傳的影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)

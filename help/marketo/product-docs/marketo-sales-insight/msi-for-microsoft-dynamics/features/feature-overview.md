@@ -13,36 +13,36 @@ ht-degree: 5%
 
 # 功能概述 {#feature-overview}
 
-以下功能適用於新的MSI MSD解決方案。
+以下功能可在新的MSI MSD解決方案中使用。
 
-## 潛在客戶版面配置中的Marketo Sales Insight面板  {#marketo-sales-insight-panel-in-lead-layout}
+## 潛在客戶版面配置中的Marketo銷售分析面板  {#marketo-sales-insight-panel-in-lead-layout}
 
-* 星與火
+* 星星和火焰
 * 有趣的時刻
 * 網頁活動
 * 分數
 * 電子郵件（開啟並按一下）
 
-## 潛在客戶配置中的Marketo Sales Insight自訂欄位  {#marketo-sales-insight-custom-fields-in-lead-layout}
+## 潛在客戶配置中的Marketo銷售分析自訂欄位  {#marketo-sales-insight-custom-fields-in-lead-layout}
 
 * 銷售機會分數
 * 相對分數
 * 優先順序
 * 急迫性
 
-## 潛在客戶版面配置中的Marketo Sales Insight呼叫動作按鈕  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
+## 潛在客戶配置中的Marketo銷售分析呼叫動作按鈕  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
 
 * 新增至Marketo Campaign
 * 傳送Marketo電子郵件
 
-## 潛在客戶清單檢視中的Marketo Sales Insight大量動作按鈕  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
+## 潛在客戶清單檢視中的Marketo銷售分析大量動作按鈕  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
 
 * 新增至Marketo Campaign
 * 傳送Marketo電子郵件
 
-## 聯絡人版面中的Marketo Sales Insight面板  {#marketo-sales-insight-panel-in-contact-layout}
+## 連絡人版面配置中的Marketo Sales Insight面板  {#marketo-sales-insight-panel-in-contact-layout}
 
-* 星與火
+* 星星和火焰
 * 有趣的時刻
 * 網頁活動
 * 分數
@@ -67,13 +67,13 @@ ht-degree: 5%
 
 ## 帳戶配置中的Marketo Sales Insight面板 {#marketo-sales-insight-panel-in-account-layout}
 
-* 星與火
+* 星星和火焰
 * 有趣的時刻
 * 網頁活動
 * 分數
 * 電子郵件（開啟並按一下）
 
-## Marketo最佳對策頁面 {#marketo-best-bets-page}
+## Marketo首頁頁面 {#marketo-best-bets-page}
 
 * 優先順序（星星和火焰）
 * 名稱（超連結至銷售機會/聯絡人頁面）

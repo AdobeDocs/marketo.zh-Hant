@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您也可以從以下專案建立報表： **分析** 標籤。
+   >您也可以從以下專案建立報表： **Analytics** 標籤。
 
 1. 以滑鼠右鍵按一下方案，然後選取 **新增本機資產**.
 
@@ -35,21 +35,21 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. 選取報告 **型別**.
+1. 選擇報告 **型別**.
 
    ![](assets/choosereport.png)
 
    >[!TIP]
    >
-   >另請參閱 [報表型別概觀](https://docs.marketo.com/display/DOCS/Report+Type+Overview) 以取得每個專案的簡短說明。
+   >另請參閱 [報表型別概觀](https://docs.marketo.com/display/DOCS/Report+Type+Overview) 以取得每個的簡短說明。
 
-1. 為您的報表命名。
+1. 為報表命名。
 
    ![](assets/namereport.png)
 
    >[!TIP]
    >
-   >若要更輕鬆地稍後導覽報表，請在名稱中包含報表型別的參照。
+   >若要更輕鬆日後導覽報表，請在名稱中包含報表型別的參照。
 
 1. 設定報表的時間範圍。 另請參閱 [變更報表時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 以取得更多詳細資料。
 
@@ -63,8 +63,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您很快就會收到許多報告。 記住 [刪除報告](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) 您不再需要。
+   >您很快就會收到許多報表。 記住 [刪除報告](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) 您不再需要。
 
    >[!MORELIKETHIS]
    >
-   >您可以 [變更報告時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)， [訂閱基本報表](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)， [將報表匯出至Excel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)， [使用智慧清單篩選報表中的人員](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)、等等。
+   >您可以 [變更報表時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)， [訂閱基本報表](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)， [將報表匯出至Excel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)， [使用智慧清單篩選報表中的人員](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)、等等。

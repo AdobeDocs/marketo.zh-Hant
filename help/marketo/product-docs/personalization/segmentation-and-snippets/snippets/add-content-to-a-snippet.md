@@ -17,21 +17,21 @@ ht-degree: 1%
 >
 >[建立代碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
-您可以將Token、影像、檔案或RTF文字新增至程式碼片段。
+您可以將權杖、影像、檔案或RTF文字新增至程式碼片段。
 
 >[!NOTE]
 >
->您無法內嵌任何 [Marketo電子郵件語法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) 在代碼片段中；它會 **not** 在電子郵件中工作。 程式碼片段應該只包含內文內容(HTML+文字)。
+>您無法內嵌任何 [Marketo電子郵件語法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) 在程式碼片段中，可以 **非** 在電子郵件中工作。 程式碼片段應該只包含內文內容(HTML+文字)。
 
 1. 前往 **Design Studio**.
 
    ![](assets/designstudio-2.png)
 
-1. 選取您的 **代碼片段** 並按一下 **編輯草稿**.
+1. 選取您的 **程式碼片段** 並按一下 **編輯草稿**.
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
-您可以將三種型別的內容新增至程式碼片段。
+您可以新增三種內容型別至程式碼片段。
 
 ## 新增標記 {#add-token}
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >您可以將自己的影像或檔案新增至Marketo。 進一步瞭解 [影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   >您可以將自己的影像或檔案新增到Marketo。 進一步瞭解 [影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
 1. 選取 **影像** ，然後按一下 **插入**.
 
@@ -63,13 +63,13 @@ ht-degree: 1%
 
 ## 新增文字 {#add-text}
 
-1. 在HTML版本區域中鍵入以新增文字。
+1. 在「HTML版本」區域中輸入以新增文字。
 
    ![](assets/image2014-9-16-9-3a35-3a43.png)
 
    >[!TIP]
    >
-   >使用格式設定工具來自訂文字。
+   >使用格式化工具來自訂文字。
 
 1. 針對電子郵件，按一下 **文字版本** 標籤。
 
@@ -81,11 +81,11 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >「文字版本」中的影像、連結和格式設定會遭到移除。
+   >「文字版本」中的影像、連結和格式已移除。
 
 酷！ 現在您可以為程式碼片段建立各種內容。
 
 >[!MORELIKETHIS]
 >
->* [預覽代碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
->* [核准代碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
+>* [預覽程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
+>* [核准程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)

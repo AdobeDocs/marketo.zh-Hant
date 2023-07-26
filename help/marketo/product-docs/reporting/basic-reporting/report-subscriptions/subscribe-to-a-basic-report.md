@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 訂閱基本報表 {#subscribe-to-a-basic-report}
 
-若要接收基本報告的自動更新或共用基本報告，您可以訂閱現有報告的任何電子郵件地址。
+若要接收基本報表的自動更新或共用基本報表，您可以訂閱現有報表的任何電子郵件地址。
 
 >[!NOTE]
 >
->如需收入週期總管報表訂閱，請參閱 [訂閱Revenue Explorer報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>如需Revenue Cycle Explorer報表訂閱的相關資訊，請參閱 [訂閱收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
 1. 前往 **行銷活動** 區域。
 
@@ -29,19 +29,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您也可以從以下網址訂閱報表： **分析** 標籤。
+   >您也可以從以下網址訂閱報表： **Analytics** 標籤。
 
 1. 按一下 **新報表訂閱**.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
-1. 輸入電子郵件地址，並設定報表電子郵件的頻率。
+1. 輸入電子郵件地址並設定報表電子郵件的頻率。
 
    ![](assets/image2014-9-16-10-3a32-3a31.png)
 
    >[!NOTE]
    >
-   >任何人都可以透過電子郵件取消訂閱該報告。
+   >任何人都能透過電子郵件取消訂閱該報表。
 
    完成了！ 檢查您的收件匣！
 

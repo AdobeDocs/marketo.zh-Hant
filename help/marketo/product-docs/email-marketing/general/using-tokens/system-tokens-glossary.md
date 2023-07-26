@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147344
-description: 系統Token字彙表 — Marketo檔案 — 產品檔案
+description: 系統權杖字彙表 — Marketo檔案 — 產品檔案
 title: 系統權杖字彙表
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 系統權杖字彙表 {#system-tokens-glossary}
 
-除了個人代號，您還可以使用一些很酷的系統代號。 在這裡。
+除了人員代號之外，您也可以使用一些特別酷的系統代號。 這些區段在這裡。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## system.date {#system-date}
 
-此 `{{system.date}}` Token會在執行階段轉譯目前的日期，如下所示： **2013年8月8日**
+此 `{{system.date}}` Token會在執行階段轉譯目前日期，如下所示： **2013年8月08日**
 
 **運作方式：**
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## system.dateTime {#system-datetime}
 
-此 `{{system.dateTime}}` Token會在執行階段轉譯目前的日期和時間，如下所示： **2013-08-08 16:36:13**
+此 `{{system.dateTime}}` Token會在執行階段呈現目前的日期和時間，如下所示： **2013-08-08 16:36:13**
 
 **運作方式：**
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
-此 `{{system.unsubscribeLink}}` token可讓您控制電子郵件中取消訂閱連結的位置。
+此 `{{system.unsubscribeLink}}` 代號可讓您控制電子郵件中取消訂閱連結的位置。
 
 **運作方式：**
 
@@ -72,6 +72,6 @@ ht-degree: 0%
 
 此 `{{system.viewAsWebpageLink}}` 代號可讓您控制電子郵件中「以網頁形式檢視」連結的位置。
 
-**適用於：**
+**搭配使用：**
 
 * [新增系統權杖作為電子郵件中的連結](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"} 或範本

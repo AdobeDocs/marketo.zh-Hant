@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以建立自訂覆蓋圖來檢視與您的需求相關的專案。
 
-1. 按一下 **議程** 下拉式清單。
+1. 按一下 **日程** 下拉式清單。
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
@@ -27,10 +27,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. 您也可以依據以下條件篩選 [程式標籤](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
+1. 您也可以依據以下條件篩選： [程式標籤](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
-   太棒了。 現在，您的覆蓋圖只會顯示您定義的專案。
+   棒極了！ 現在您的覆蓋只會顯示您定義的專案。
 
    ![](assets/image2014-9-24-10-3a20-3a37.png)

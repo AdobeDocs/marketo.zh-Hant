@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900593
-description: 為電子郵件程式建立電子郵件 — Marketo檔案 — 產品檔案
+description: 建立電子郵件程式的電子郵件 — Marketo檔案 — 產品檔案
 title: 為電子郵件計畫建立電子郵件
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
@@ -18,7 +18,7 @@ ht-degree: 0%
 >* [建立電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [使用智慧清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 或 [透過匯入清單來定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
-建立電子郵件計畫並定義對象後，您會想要決定要傳送的電子郵件。 您可以 [選擇現有電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 或從頭開始建立。 以下說明如何建立新電子郵件。
+建立電子郵件方案並定義對象後，您會想要決定要傳送的電子郵件。 您可以 [選擇現有電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 或從頭開始建立。 以下說明如何建立新電子郵件。
 
 1. 前往 **行銷活動**.
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 進行您想要的所有變更，然後關閉編輯器。
+1. 進行您想要的所有變更，並關閉編輯器。
 
    ![](assets/four.png)
 
@@ -44,4 +44,4 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-太棒了！ 現在我們已建立要傳送的電子郵件，讓我們  [新增A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) 或直接跳至 [排程您的電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).
+太棒了！ 我們已建立要傳送的電子郵件，接下來讓  [新增A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) 或直接跳至 [排程您的電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).

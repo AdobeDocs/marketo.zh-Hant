@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 編輯多媒體預測性內容 {#edit-predictive-content-for-rich-media}
 
-以下說明如何設定Rich Media的預測性內容。
+以下說明如何設定多媒體預測性內容。
 
 >[!PREREQUISITES]
 >
 >內容必須是 [已核准預測性內容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) （在所有內容頁面上）。
 
-1. 於 **預測性內容** 頁面上，按一下標題以開啟編輯器。
+1. 在 **預測性內容** 頁面上，按一下標題以開啟編輯器。
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
-1. 您會注意到，電子郵件和多媒體可以有不同的影像。 若要新增/變更影像，請將影像URL貼到其文字方塊中。
+1. 您會注意到，電子郵件和多媒體有不同的影像。 若要新增/變更影像，請將影像URL貼到文字方塊中。
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >使用類別將特定多媒體推薦範本的內容分組。 將類別保留空白可套用內容至所有建議範本（建議）。
+   >使用類別將特定多媒體建議範本的內容分組。 讓類別保持空白以套用內容至所有建議範本（建議）。
    >
    >不過，如果您只想為多媒體範本建議特定內容，請為內容新增類別，並將該類別與建議範本建立關聯。
    >

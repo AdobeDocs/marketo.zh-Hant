@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # 管理個人資料 {#manage-person-data}
 
-選取要在區段中使用的人員欄位，善用人員資料進行網頁個人化。
+選取要用於細分的個人欄位，以運用個人資料進行網頁個人化。
 
 1. 前往 **帳戶設定**.
 
@@ -31,7 +31,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >新欄位會以待定狀態新增，最多可能需要24小時才能啟用。
+   >新欄位會新增到待定狀態，並且最多可能需要24小時才能啟用。
 
 ## 刪除人員欄位 {#deleting-a-person-field}
 
@@ -45,7 +45,7 @@ ht-degree: 7%
    >
    >* 只能包含個人資料欄位
    >* 您最多可以新增30個人資料欄位
-   >* 新增欄位最多可能需要24小時的時間才能啟用
+   >* 新增欄位最長可能需要24小時才能啟用
    >* 字串型別的最大長度為255個字元
    >* 隱藏欄位將會自動移除
 
@@ -103,4 +103,4 @@ ht-degree: 7%
 
 >[!MORELIKETHIS]
 >
->[使用已知個人資料建立區段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
+>[使用已知人員資料建立區段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)

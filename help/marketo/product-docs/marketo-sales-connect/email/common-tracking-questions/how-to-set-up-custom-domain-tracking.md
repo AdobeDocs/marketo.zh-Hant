@@ -13,8 +13,8 @@ ht-degree: 0%
 
 # 如何設定自訂網域追蹤 {#how-to-set-up-custom-domain-tracking}
 
-我們提供您設定連結自訂網域追蹤的選項，因此當有人將滑鼠游標停留在連結上時，系統會顯示「go.yourcompany.com」而非「go.toutapp.com」。
+我們提供您設定連結自訂網域追蹤的選項，因此當有人將滑鼠游標停留在連結上時，會顯示「go.yourcompany.com」而非「go.toutapp.com」。
 
-若要進行此設定，您的IT管理員必須遵循下列步驟： [設定頁面](https://toutapp.com/custom_tracking_domain).
+若要進行此設定，您的IT管理員必須遵循下列步驟操作： [設定頁面](https://toutapp.com/custom_tracking_domain).
 
 完成此設定後，我們將允許列出您在電子郵件中的任何連結，以顯示為「go.yourcompany.com」。

@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/edit-a-custom-activity-5.png)
 
-1. 輸入您的新資訊並按一下 **[!UICONTROL 提交]**.
+1. 輸入您的新資訊，然後按一下 **[!UICONTROL 提交]**.
 
    ![](assets/edit-a-custom-activity-6.png)
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您的活動在編輯時是草稿，則它仍為草稿。 如果已發佈，則狀態會變更為「已發佈並草稿」。
+   >如果您的活動在編輯時為草稿，則仍為草稿。 如果已發佈，則狀態會變更為已發佈並附帶草稿。

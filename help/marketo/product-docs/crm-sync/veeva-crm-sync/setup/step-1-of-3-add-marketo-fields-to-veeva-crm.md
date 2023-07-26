@@ -10,13 +10,13 @@ ht-degree: 6%
 
 ---
 
-# 步驟1/3：將Marketo欄位新增至Veeva CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
+# 步驟3之1：將Marketo欄位新增至Veeva CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
 
 >[!PREREQUISITES]
 >
->您的Veeva CRM執行個體必須能存取Salesforce API，才能在Marketo Engage和Veeva CRM之間同步資料。
+>您的Veeva CRM執行個體必須可以存取Salesforce API，以便在Marketo Engage和Veeva CRM之間同步資料。
 
-Marketo Engage會使用一組欄位來擷取特定型別的行銷相關資訊。 如果您想在Veeva CRM中使用此資料，請遵循下列指示。
+Marketo Engage使用一組欄位來擷取特定型別的行銷相關資訊。 如果您想在Veeva CRM中使用此資料，請遵循下列指示。
 
 `1.` 在連絡人物件的Veeva CRM中建立自訂欄位：分數
 
@@ -28,7 +28,7 @@ Marketo Engage會使用一組欄位來擷取特定型別的行銷相關資訊。
 
 在上面列出的Veeva CRM中，在潛在客戶與聯絡人物件上新增自訂欄位。 如果您想要新增更多欄位，請參閱本區段末尾的可用欄位表。
 
-對「分數」欄位執行下列步驟以將其新增。
+請為「分數」欄位執行下列步驟以將其新增。
 
 1. 登入Veeva CRM並按一下 **設定**.
 
@@ -44,7 +44,7 @@ Marketo Engage會使用一組欄位來擷取特定型別的行銷相關資訊。
 
 1. 按一下Contact物件。
 
-1. 選取欄位與關係。
+1. 選取欄位和關係。
 
 1. 按一下 **新增**.
 
@@ -58,7 +58,7 @@ Marketo Engage會使用一組欄位來擷取特定型別的行銷相關資訊。
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. 輸入欄位的欄位標籤、長度和欄位名稱，如下表所示。
+1. 輸入欄位的「欄位標籤」、「長度」和「欄位名稱」，如下表所示。
 
 <table>
  <tbody>
@@ -80,7 +80,7 @@ Marketo Engage會使用一組欄位來擷取特定型別的行銷相關資訊。
 
 >[!NOTE]
 >
->Veeva CRM在建立API名稱時，會將__c附加至欄位名稱。
+>Veeva CRM在用來建立API名稱時，會將__c附加至欄位名稱。
 
 ![](assets/step-1-of-3-add-marketo-fields-7.png)
 
@@ -98,8 +98,8 @@ Marketo Engage會使用一組欄位來擷取特定型別的行銷相關資訊。
 
 1. 清除同步使用者設定檔的「唯讀」核取方塊：
 
-* 如果您有系統管理員設定檔的使用者作為同步使用者，請清除系統管理員設定檔的[唯讀]核取方塊（如下所示）。
-* 如果您為同步使用者建立了自訂設定檔，請清除該自訂設定檔的「唯讀」核取方塊。
+* 如果您的使用者具有系統管理員的設定檔作為同步使用者，請清除系統管理員設定檔的唯讀核取方塊（如下所示）。
+* 如果您已建立同步處理使用者的自訂設定檔，請清除該自訂設定檔的「唯讀」核取方塊。
 
   ![](assets/step-1-of-3-add-marketo-fields-9.png)
 
@@ -107,7 +107,7 @@ Marketo Engage會使用一組欄位來擷取特定型別的行銷相關資訊。
 
 1. 按一下 **儲存並新增** 返回並建立其他兩個自訂欄位。
 
-1. 按一下 **儲存** 完成所有這三項之後。
+1. 按一下 **儲存** 完成全部三個步驟後。
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 
@@ -115,7 +115,7 @@ Marketo Engage會使用一組欄位來擷取特定型別的行銷相關資訊。
 >
 >透過將欄位新增至聯絡人物件，這些欄位也會新增至個人帳戶物件。
 
-可選：對下表中的任何其他自訂欄位使用上述程式。
+選用性：對下表中的任何其他自訂欄位使用上述程式。
 
 <table>
  <tbody>
@@ -172,4 +172,4 @@ Marketo Engage會使用一組欄位來擷取特定型別的行銷相關資訊。
 
 >[!NOTE]
 >
->建立新欄位後，Marketo自動指派的欄位中的值將無法立即在Veeva CRM中使用。 在任何一個系統上的記錄下一次更新時(即對Marketo和Veeva CRM之間同步的任何欄位的更新)，Marketo會將資料同步到Veeva CRM。
+>建立新欄位後，Marketo自動指派的欄位值將無法立即在Veeva CRM中使用。 下次更新任一系統上的記錄時(亦即更新Marketo與Veeva CRM同步的任何欄位)，Marketo會將資料同步至Veeva CRM。

@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您的IT團隊使用允許清單來限制網頁存取，請要求他們新增 `*.marketo.com` 以允許所有Marketo資源和網路通訊端。
+>如果您的IT團隊使用允許清單來限制Web存取，請要求他們新增 `*.marketo.com` 以允許所有Marketo資源和網路通訊端。

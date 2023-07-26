@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在等待流程步驟中使用持續時間 {#use-a-duration-in-a-wait-flow-step}
 
-您可以使用等待流量步驟，將個人經過智慧行銷活動的歷程暫停一段特定時間。 您也可以指定星期幾的標準以及結束時間。
+您可以使用等待流程步驟，將個人在智慧型行銷活動中的歷程暫停一段特定時間。 您也可以指定星期幾的標準以及結束的時間。
 
 1. 在您的智慧行銷活動中 **流量** 標籤，拖曳至 **等待** 流程步驟。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-11-3a54-3a0.png)
 
-1. 完成了！ 流量將暫停指定的持續時間。 如需進階選項，請按一下右側的齒輪圖示。
+1. 完成了！ 流量將在您指定的期間內暫停。 如需進階選項，請按一下右側的齒輪圖示。
 
    ![](assets/image2014-9-22-11-3a54-3a7.png)
 
@@ -39,15 +39,15 @@ ht-degree: 0%
    >
    >**範例**
    >
-   >有人在星期五下午5點觸發智慧行銷活動。 等待步驟已進階：48小時，必須在週一至週五上午9點結束。
+   >有人在星期五下午5點觸發智慧行銷活動。 等待步驟已提前：48小時，必須在週一至週五上午9點結束。
    >
    >結果此人將繼續在流量中排名 **星期一上午9點**. 這是48小時後的第一個M-F日期。
 
    >[!NOTE]
    >
-   >使用的期間、日期、時間和天數都取決於您的訂閱時區。
+   >使用的持續時間、日期、時間和天數都取決於您的訂閱時區。
 
    >[!MORELIKETHIS]
    >
    >* [在等待流程步驟中使用特定日期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
-   >* [在等待流程步驟中使用日期Token](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
+   >* [在等待流程步驟中使用日期權杖](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)

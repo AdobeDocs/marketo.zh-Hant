@@ -12,6 +12,6 @@ ht-degree: 0%
 
 # 電子郵件活動 {#email-activities}
 
-Email Activities索引標籤會顯示銷售人員傳送給銷售擁有者下方的潛在客戶與聯絡人的所有電子郵件。 檢閱傳送日期，以及收件者是否開啟或點按電子郵件。
+Email Activities索引標籤會顯示銷售人員傳送給銷售負責人底下的潛在客戶與聯絡人的所有電子郵件。 檢閱傳送日期，以及收件者是否開啟或點按電子郵件。
 
 ![](assets/email-activities-1.png)

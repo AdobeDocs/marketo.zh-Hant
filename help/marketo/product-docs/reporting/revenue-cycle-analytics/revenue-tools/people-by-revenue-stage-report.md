@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360418
 description: 依收入階段的人員報表 — Marketo檔案 — 產品檔案
-title: 依收入階段區分的人員報表
+title: 依收入階段的人員報表
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# 依收入階段區分的人員報表 {#people-by-revenue-stage-report}
+# 依收入階段的人員報表 {#people-by-revenue-stage-report}
 
-您可以建立報表，顯示您的人員處於收入週期模型的哪個階段。 只要報表的指定日期範圍有人員餘額，報表就會包含指定模型中的任何階段。
+您可以建立報表，顯示您的人員處於收入週期模型的哪個階段。 只要報表的指定日期範圍有人員餘額，報表就會包含指定模型的任何階段。
 
 >[!AVAILABILITY]
 >
->並非所有Marketo版本都包含此功能。 如需詳細資訊，請聯絡您的客戶經理。
+>並非所有Marketo版本都包含此功能。 請聯絡您的客戶經理，以取得詳細資訊。
 
-1. 前往 **分析**.
+1. 前往 **Analytics**.
 
    ![](assets/image2017-3-27-15-3a43-3a55.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2017-3-27-15-3a46-3a27.png)
 
-1. 按一下 **設定** 標籤。 連按兩下 **個人建立時間** 欄位以設定報告所需的時間範圍。
+1. 按一下 **設定** 標籤。 按兩下 **個人建立時間** 欄位以設定要報告的所需時間範圍。
 
    ![](assets/image2017-3-28-8-3a6-3a23.png)
 

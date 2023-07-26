@@ -16,9 +16,9 @@ ht-degree: 0%
 人們可以透過數種方式成為參與計畫的成員：
 
 * [新增至參與計畫](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
-* [變更參與計畫節奏](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) 流程步驟
-* [變更參與計畫資料流](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) 流程步驟
-* [變更計畫狀態](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 流程步驟
+* [變更參與方案步調](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) 流程步驟
+* [變更參與計畫流程](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) 流程步驟
+* [變更方案狀態](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 流程步驟
 * 如果人員填寫參與計畫的本機表單
 * 將成員匯入參與方案（透過方案內的「成員」標籤）
-* 如果您使用Salesforce做為CRM，且將Salesforce行銷活動繫結至參與方案，在CRM端將某人新增至Salesforce行銷活動也會讓他們成為參與方案的成員。
+* 如果您使用Salesforce做為CRM，且您的Salesforce行銷活動與參與計畫繫結，在CRM端將某人新增至Salesforce行銷活動也會讓他們成為參與計畫的成員。

@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. 在 **我的Token** 標籤，拖入 **電子郵件指令碼** token。
+1. 在 **我的Token** 標籤，拖入 **電子郵件指令碼** Token。
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >存取陣列（商機或自訂物件）時，您被限制在與人員相關聯的最近10個專案。
+   >存取陣列（機會或自訂物件）時，您被限製為與個人相關聯的最近10個專案。
 
 1. 請注意，將權杖拖曳至指令碼編輯器後，權杖會變成已核取/作用中。
 
@@ -45,14 +45,14 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您以自由格式輸入代號，請確定檢查/啟動樹狀結構中所有對應的代號，否則系統會將它們視為純文字，而使其無法運作。
+   >如果您以自由格式輸入權杖，請確定檢查/啟動樹狀結構中所有對應的權杖，否則系統會將它們視為純文字且無法運作。
 
 1. 在Velocity中撰寫指令碼。 以下是一些實用的資源：
 
    * [Marketo開發人員電子郵件指令碼檔案](https://developers.marketo.com/email-scripting/)
    * [Velocity使用手冊](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Velocity參考指南](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [Velocity工具Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. 指令碼完成後，請按一下 **儲存**.
 

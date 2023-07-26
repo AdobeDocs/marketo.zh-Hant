@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 顯示已知人員的自訂HTML表單 {#show-custom-html-form-for-known-people}
 
-如果訪客已確認（過去提供電子郵件地址的已知人員），為何還要麻煩使用表單？ 只要給他們下載按鈕即可。 方法如下。
+如果訪客已編碼（過去提供電子郵件地址的已知人員），為何還要麻煩使用表格？ 只要給他們下載按鈕即可。 方法如下。
 
 1. 前往 **行銷活動**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. 下 **行銷活動**，選取您的表單並按一下 **編輯表單**.
+1. 在 **行銷活動**，選擇您的表單並按一下 **編輯表單**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. 下 **表單設定**，按一下 **設定**.
+1. 在 **表單設定**，按一下 **設定**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
-1. 有一些預設內容，但您可以隨意變更。
+1. 雖然有部分預設內容，但您可以隨時變更內容。
 
    ![](assets/image2014-9-15-12-3a25-3a49.png)
 
@@ -43,14 +43,14 @@ ht-degree: 0%
 
    | Token | 說明 |
    |---|---|
-   | `{{lead.FirstName}}` | 這會顯示個人的名字。 |
+   | `{{lead.FirstName}}` | 這會顯示使用者的名字。 |
    | `{{lead.LastName}}` | 這會顯示人員的姓氏。 |
    | `{{form.Button:default=Download}}` | 這會顯示表單按鈕。 取代之後的區域 `=` 以變更按鈕文字。 |
    | `{{form.NotYou:default=Not you?}}` | 若此人是其他人，此畫面會顯示連結。 取代之後的區域 `=` 以變更連結文字。 |
 
    >[!CAUTION]
    >
-   >只能使用上述四個代號。 此處無法使用任何其他權杖。
+   >上述四個代號只能使用。 此處無法使用任何其他權杖。
 
 1. 按一下 **完成**.
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >此表單必須經過核准才能用於登陸頁面。
+   >此表單必須經過核准才能用於登入頁面。
 
    ![](assets/image2014-9-15-12-3a27-3a53.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
    >
    >記住 [核准登入頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 由表單變更所建立。
 
-   蛋糕！ 檢視人員返回相同表單時會看到什麼內容：
+   小菜一碟！ 檢視某人返回相同表單時會看到什麼內容：
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 

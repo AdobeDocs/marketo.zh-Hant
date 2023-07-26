@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取您的表單並按一下 **編輯表單**.
+1. 選擇您的表單並按一下 **編輯表單**.
 
    ![](assets/editform.png)
 

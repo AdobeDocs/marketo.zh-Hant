@@ -20,13 +20,13 @@ ht-degree: 0%
 
 * [OP內容管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md){target="_blank"}
 
-* OP — 傳遞能力管理
+* OP — 傳遞性管理
 
 * 作業資料管理
 
 * OP-Acquisition API
 
-* OP — 評分 — 人口統計
+* OP評分人口統計
 
 * OP評分行為
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 * NUR-YYYY-MM-Simple Nurture
 
-* NUR-YYYY-MM-Advanced Drip Nurture
+* NUR-YYYY-MM — 進階滴管培養
 
 * Marketo登陸頁面上的CT-YYYY-MM-Content
 

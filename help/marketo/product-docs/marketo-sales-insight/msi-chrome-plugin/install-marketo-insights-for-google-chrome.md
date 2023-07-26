@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Sales Insight Actions功能（包括「傳送銷售電子郵件」、「新增至銷售促銷活動」和「工作」）在Gmail和Outlook的Sales Insight電子郵件外掛程式中無法使用。 目前，使用者在使用Sales Insight電子郵件外掛程式時，只能從電子郵件使用者端傳送包含或不包含Marketo電子郵件範本的可追蹤電子郵件。
+>「銷售分析動作」功能（包括「傳送銷售電子郵件」、「新增至銷售促銷活動」和「工作」）在Gmail和Outlook的「銷售分析電子郵件」外掛程式中無法使用。 目前，使用Sales Insight電子郵件外掛程式時，使用者只能從電子郵件使用者端傳送包含或不包含Marketo電子郵件範本的可追蹤電子郵件。
 
 >[!NOTE]
 >
->您不需要是Marketo管理員即可安裝擴充功能。
+>您不需要是Marketo管理員就能安裝擴充功能。
 
-1. 安裝 [Google Chrome Add in擴充功能的Marketo Insights](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) 從Chrome線上應用程式商店。
+1. 安裝 [Marketo Insights for Google Chrome Add in擴充功能](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) 從Chrome線上應用程式商店。
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >註冊代碼會包含在Marketo管理員傳送的電子郵件中 [發出Marketo電子郵件增益集授權給您](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **14天後過期**.
+   >規則代碼會包含在Marketo管理員傳送的電子郵件中 [核發您的Marketo電子郵件增益集授權](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **14天後過期**.
 
 1. 按一下 **允許** 以允許離線存取。
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[使用Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[使用Google Chrome的Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)

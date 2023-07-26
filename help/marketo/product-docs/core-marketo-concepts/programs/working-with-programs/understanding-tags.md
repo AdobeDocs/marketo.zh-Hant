@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 瞭解標籤 {#understanding-tags}
 
-您現在可能知道程式就像Marketo中的建置組塊。 利用標籤和管道可協助您篩選資料以用於報表用途。
+您可能現在已經知道程式就像Marketo中的建置組塊。 利用標籤和管道可協助您篩選資料以用於報表用途。
 
-標籤是用來說明程式。 您可以視需要製作多個元件，每個元件都有唯一值。 管道可識別方案中的傳送機制，例如網路研討會、贊助或線上廣告。
+標籤是用來說明程式。 您可以視需要製作任意數量的元件，每個元件都具有唯一值。 管道會識別方案中的傳送機制，例如網路研討會、贊助或線上廣告。
 
 ## 標籤型別 {#tag-type}
 
@@ -41,20 +41,20 @@ ht-degree: 0%
 >
 >**範例**
 >
->* 標籤值= Anna、Arun、Reza
+>* 標籤值= Anna， Arun， Reza
 
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
 ## 管道 {#channel}
 
-管道用於報告您的 [成員](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) 已移動至您的程式。 每個管道都有一組進度狀態，以及一個設定為等於成功的狀態。
+管道是用來報告您的 [成員](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) 已移動至您的程式。 每個管道都有一組進度狀態，以及一個設定為等於成功的狀態。
 
 >[!NOTE]
 >
 >**範例**
 >
 >* 頻道=路演
->* 進度狀態=已邀請、已註冊、已出席、未顯示
+>* 進度狀態=已邀請、已註冊、已參加、未顯示
 >* 成功=已出席
 
 ![](assets/image2015-2-5-16-3a57-3a59.png)

@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
-1. 選取 **空白畫布**，新增 **儀表板名稱** 並按一下 **建立儀表板**.
+1. 選取 **空白畫布**，新增 **控制面板名稱** 並按一下 **建立儀表板**.
 
 1. 按一下 **新增Widget** 以建立新的Widget。
 
@@ -36,17 +36,17 @@ ht-degree: 0%
 
 ## RTP B2B控制面板 {#rtp-b-b-dashboard}
 
-此儀表板可讓使用者從B2B角度分析其網站績效。
+此儀表板可讓使用者從B2B角度分析其網站效能。
 
-它提供如瀏覽來源和現場行為（依產業、收入、規模、以帳戶為基礎的清單和目標區段）等資訊。
+它提供各種資訊，例如依產業、收入、規模、以帳戶為基礎的清單和目標區段的造訪來源和現場行為。
 
-儀表板由3欄組成
+儀表板包含3欄
 
 * 流量來源
 * 細分
 * 第一層向下切入
 
-1. 建立名為的新儀表板 **RTP B2B控制面板** 和定義下列Widget：
+1. 建立名為的新儀表板 **RTP B2B控制面板** 並定義下列Widget：
 
 ![](assets/image2015-3-22-16-3a50-3a3.png)
 
@@ -58,7 +58,7 @@ ht-degree: 0%
       欄1 — 流量來源
     </div></th> 
    <th> 
-    <div> <strong>欄2 — 分段</strong> 
+    <div> <strong>欄2 — 細分</strong> 
     </div></th> 
    <th> 
     <div> <strong>欄位3 — 第一層向下鑽研</strong> 
@@ -71,7 +71,7 @@ ht-degree: 0%
     <ul> 
      <li>名稱：依區段和管道區分的工作階段</li> 
      <li>Widget型別：長條圖<br></li> 
-     <li>建立長條圖顯示：工作階段</li> 
+     <li>建立長條圖，顯示：工作階段</li> 
      <li>分組依據：事件標籤</li> 
      <li>樞紐分析依據：預設通道群組</li> 
      <li>篩選： <br>僅顯示 |事件類別（包含） RTP區段</li> 
@@ -79,7 +79,7 @@ ht-degree: 0%
    <td> 
     <ul> 
      <li>名稱： RTP分段使用者數</li> 
-     <li>型別： 2.1量度</li> 
+     <li>型別： 2.1公制</li> 
      <li>顯示下列量度：使用者<br></li> 
      <li>篩選： <br>僅顯示 |事件類別（包含） RTP區段</li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a6.png" data-linked-resource-id="7504249" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
@@ -96,7 +96,7 @@ ht-degree: 0%
     <ul> 
      <li><strong>名稱：依產業和管道區分的工作階段</strong></li> 
      <li><strong>Widget型別：長條圖</strong></li> 
-     <li><strong>建立長條圖顯示：工作階段</strong></li> 
+     <li><strong>建立長條圖，顯示：工作階段</strong></li> 
      <li><strong>分組依據：RTP — 產業</strong></li> 
      <li><strong>樞紐分析依據：預設通道群組</strong><br><img width="300" src="assets/image2015-3-23-11-3a33-3a52.png" data-linked-resource-id="7504252" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></li> 
     </ul></th> 
@@ -110,7 +110,7 @@ ht-degree: 0%
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a34-3a18.png" data-linked-resource-id="7504253" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
    <th> 
     <ul> 
-     <li><strong>名稱：依RTP類別區分的工作階段</strong></li> 
+     <li><strong>名稱：按RTP類別排列的階段作業</strong></li> 
      <li><strong>型別：圓形圖</strong></li> 
      <li><strong>建立圓形圖，顯示：階段作業</strong></li> 
      <li><strong>分組依據：RTP — 類別</strong></li> 
@@ -130,8 +130,8 @@ ht-degree: 0%
     <ul> 
      <li>名稱：按RTP群組排列的階段作業</li> 
      <li>型別：長條圖<br></li> 
-     <li>建立長條圖顯示：工作階段</li> 
-     <li>分組依據：RTP — 群組</li> 
+     <li>建立長條圖，顯示：階段作業</li> 
+     <li>分組依據： RTP-Group</li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a35-3a54.png" data-linked-resource-id="7504256" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
   </tr> 
   <tr> 
@@ -150,13 +150,13 @@ ht-degree: 0%
 
 ## RTP參與儀表板 {#rtp-engagement-dashboard}
 
-此儀表板可讓使用者分析其RTP行銷活動績效和建議引擎參與。 它提供平均值的比較。 工作階段持續時間與每個工作階段的頁面介於：
+此儀表板可讓使用者分析其RTP行銷活動績效和建議引擎參與度。 它提供平均值的比較。 工作階段持續時間與每個工作階段頁面介於：
 
 * 未參與
-* 參與（個人化行銷活動的曝光次數和點按次數）
-* 建議引擎和主要建議內容的點按
+* 參與（個人化行銷活動的曝光數和點按數）
+* 按一下推薦引擎和最常推薦的內容
 
-建立名為的新儀表板 **RTP參與儀表板** 和定義下列Widget：
+建立名為的新儀表板 **RTP參與儀表板** 並定義下列Widget：
 
 ![](assets/image2015-3-22-17-3a7-3a19.png)
 
@@ -164,7 +164,7 @@ ht-degree: 0%
  <thead> 
   <tr> 
    <th> 
-    <div> <strong>欄1行銷活動曝光</strong> 
+    <div> <strong>欄1行銷活動曝光度</strong> 
     </div></th> 
    <th> 
     <div> <strong>欄2促銷活動點進</strong> 
@@ -178,21 +178,21 @@ ht-degree: 0%
   <tr> 
    <td> 
     <ul> 
-     <li>名稱： <strong>CTA總計（參與度）</strong></li> 
+     <li>名稱： <strong>CTA總數（參與度）</strong></li> 
      <li>型別： <strong>2.1公制 </strong></li> 
      <li>顯示下列量度： <strong>事件總數</strong></li> 
-     <li>篩選器：<br><strong>[僅顯示]事件類別（包含）： RTP — 促銷活動</strong><br><strong>[僅顯示]事件動作（完全符合）：曝光數</strong><strong>[不要顯示]事件標籤（包含）： #</strong></li> 
+     <li>篩選器：<br><strong>[僅顯示]事件類別（包含）： RTP-Campaigns</strong><br><strong>[only show]事件動作（完全符合）：曝光數</strong><strong>[不要顯示]事件標籤（包含）： #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
-     <li>名稱： <strong>CTA總計（點進）</strong></li> 
+     <li>名稱： <strong>CTA總數（點進）</strong></li> 
      <li>型別： <strong>2.1公制 </strong></li> 
      <li>顯示下列量度： <strong>事件總數</strong></li> 
-     <li>篩選器：<br><strong>[僅顯示]事件類別（包含）： RTP — 促銷活動</strong><br><strong>[僅顯示]事件動作（完全相符）：點按</strong><strong>[不要顯示]事件標籤（包含）： #</strong></li> 
+     <li>篩選器：<br><strong>[僅顯示]事件類別（包含）： RTP-Campaigns</strong><br><strong>[only show]事件動作（完全相符）：點選數</strong><strong>[不要顯示]事件標籤（包含）： #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
-     <li>名稱： <strong>CRE — 總點按次數</strong></li> 
+     <li>名稱： <strong>CRE — 總點按</strong></li> 
      <li>型別： <strong>2.1公制</strong><br></li> 
      <li>顯示下列量度： <strong>頁面檢視</strong></li> 
      <li>篩選： <strong>[only show]頁面（包含）： rcmd</strong></li> 
@@ -201,7 +201,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <ul> 
-     <li>名稱： <strong>平均 工作階段持續時間（參與度）</strong></li> 
+     <li>名稱： <strong>平均 工作階段持續時間（參與）</strong></li> 
      <li>型別： <strong>2.1公制 </strong></li> 
      <li>顯示下列量度： <strong>平均 工作階段持續時間</strong></li> 
      <li>篩選器：<br><strong>[僅顯示]事件類別（完全相符）： RTP-Campaigns</strong><br><strong>[only show]事件動作（完全相符）： impression</strong><strong>[不要顯示]事件標籤（包含）： #</strong></li> 
@@ -252,7 +252,7 @@ ht-degree: 0%
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
-     <li>名稱： <strong>按CTA點進</strong></li> 
+     <li>名稱： <strong>依CTA點進</strong></li> 
      <li>型別： <strong>表格</strong></li> 
      <li>顯示下列欄： <strong>事件標籤 |事件總數 |使用者</strong></li> 
      <li>篩選器：<br><strong>[僅顯示]事件類別（完全相符）： RTP-Campaigns</strong><br><strong>[僅顯示]事件動作（完全相符）：點按</strong></li> 

@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
-   僅此而已！ 您的瀏覽器會提示您將Excel檔案儲存至系統。
+   僅此而已！ 您的瀏覽器會提示您將Excel檔案儲存到系統中。
 
    >[!MORELIKETHIS]
    >

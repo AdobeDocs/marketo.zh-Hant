@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 使用智慧清單定義對象 {#define-an-audience-with-a-smart-list}
 
-一旦您 [建立電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)，您會想要告訴它要將電子郵件傳送給誰。 您可以透過以下方式執行此操作 [匯入人員清單](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) 或使用智慧清單。 以下說明如何使用智慧清單來達成此目標。
+一旦您 [建立電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)，您會想要告訴它要將電子郵件傳送給誰。 您可以透過以下方式達成此目的 [匯入人員清單](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) 或使用智慧清單。 以下說明如何使用智慧清單來達成此目標。
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->只有在電子郵件程式未核準時，定義對象才能運作。
+>只有當電子郵件計畫未獲核準時，定義您的對象才能運作。
 
 1. 前往 **行銷活動**.
 
@@ -33,9 +33,9 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >確認檢視已設為 **控制面板** 以尋找此設定。
+   >確定檢視已設為 **控制面板** 以尋找此設定。
 
-1. 找到您要使用的篩選器，然後將其拖曳至畫布中。
+1. 找出您要使用的篩選器，然後將其拖曳至畫布中。
 
    ![](assets/dragstate.png)
 
@@ -43,17 +43,17 @@ ht-degree: 1%
 
    ![](assets/image2014-9-12-11-3a1-3a14.png)
 
-1. 完成新增和定義篩選器後，請返回主要程式索引標籤。 您將看到有多少人符合資格。
+1. 完成新增和定義篩選器後，請返回主方案標籤。 您將看到有多少人符合資格。
 
    ![](assets/myemailprogram.jpg)
 
-   幹得好！ 現在該是 [選擇現有電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 或 [建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) 以傳送給這些人員。
+   做得很好！ 現在該是 [選擇現有電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 或 [建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) 以傳送給這些人員。
 
 >[!NOTE]
 >
 >**定義**
 >
->您注意到封鎖號碼嗎？ 此數字是符合資格的人的子集，代表因為下列原因而無法傳送此電子郵件的人：
+>您注意到封鎖的號碼嗎？ 此數字是符合資格的人的子集，代表無法傳送此電子郵件的人，因為他們是：
 >
 >* 退訂
 >* 行銷活動已暫停
@@ -63,7 +63,7 @@ ht-degree: 1%
 >
 >按一下數字，即可取得封鎖郵件之人員的詳細清單。 **請注意：** 營運電子郵件仍會傳送給標籤為已取消訂閱和行銷暫停的人員。
 >
->使用 ![—](assets/image2014-10-23-16-3a32-3a36.png) 「對象」圖磚上的按鈕，以檢視有多少人會收到電子郵件。
+>使用 ![—](assets/image2014-10-23-16-3a32-3a36.png) 「對象」圖磚上的按鈕，檢視有多少人會收到電子郵件。
 
 >[!MORELIKETHIS]
 >

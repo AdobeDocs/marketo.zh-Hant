@@ -12,7 +12,7 @@ ht-degree: 20%
 
 # 圖示字彙表 {#new-icon-glossary}
 
-以下是新Adobe Marketo Engage介面的圖示。 如果您需要參考Marketo Classic圖示，可以是 [可在此處找到](/help/marketo/getting-started/classic-icon-glossary.md).
+以下是新Adobe Marketo Engage介面的圖示。 如果您需要參考Marketo Classic圖示，可以 [可在此處找到](/help/marketo/getting-started/classic-icon-glossary.md).
 
 ## 一般圖示 {#general-icons}
 
@@ -66,17 +66,17 @@ ht-degree: 20%
   <tr>
    <td><img src="assets/classic-event-program.png"></td> 
    <td><img src="assets/event-program.png"></td> 
-   <td>活動計畫</td> 
+   <td>事件程式</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-executable-campaign.png"></td> 
    <td><img src="assets/executable-campaign.png"></td> 
-   <td>可執行檔行銷活動</td> 
+   <td>可執行的行銷活動</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-field-organizer.png"></td> 
    <td><img src="assets/field-organizer.png"></td> 
-   <td>欄位組織器</td> 
+   <td>欄位組織者</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-filter.png"></td> 
@@ -243,7 +243,7 @@ ht-degree: 20%
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
    <td><img src="assets/has-run-no-upcoming.png"></td> 
-   <td>已執行，近期未執行</td> 
+   <td>已執行，沒有即將執行</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-invalid.png"></td> 
@@ -423,7 +423,7 @@ ht-degree: 20%
   <tr>
    <td><img src="assets/classic-email-approved-with-draft.png"></td> 
    <td><img src="assets/approved-with-draft.png"></td> 
-   <td>已核准並草稿</td> 
+   <td>已核准且具有草稿</td> 
   </tr>
  </tbody>
 </table>

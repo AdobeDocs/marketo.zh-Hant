@@ -13,20 +13,20 @@ ht-degree: 0%
 
 # 使用Adobe Connect建立事件 {#create-an-event-with-adobe-connect}
 
-與Adobe Connect同步可讓您在Marketo中管理您的網路研討會註冊和出席情況，以確保參與不會遭到取消追蹤。
+與Adobe Connect同步可讓您在Marketo中管理網路研討會註冊和出席情況，以確保不會取消追蹤參與情形。
 
 >[!PREREQUISITES]
 >
 >* [連結Adobe Connect和Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [建立新的事件程式](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-首先，請確定您已在Adobe Connect中建立會議或研討會。 如果您需要協助，請檢視 [Adobe Connect使用手冊](https://help.adobe.com/en_US/connect/9.0/using/index.html).
+首先，確定您已在Adobe Connect中建立會議或研討會。 如果您需要協助，請檢視 [Adobe Connect使用手冊](https://help.adobe.com/en_US/connect/9.0/using/index.html).
 
-您在Adobe Connect中建立的會議和研討會，必須建立在您在Marketo中輸入憑證時指定的資料夾下。 建立會議或研討會後，記下任何相關的後勤資訊（例如電話號碼），以用於確認電子郵件和ICS檔案。
+您在Adobe Connect中建立的會議和研討會，必須在您在Marketo中輸入認證時指定的資料夾下建立。 建立會議或研討會後，記下任何相關的後勤資訊（例如電話號碼），以便用於確認電子郵件和ICS檔案。
 
 >[!CAUTION]
 >
->身為事件主機，請務必從應用程式內加入，並 **not** 透過傳送給出席者的連結。
+>身為事件主機，請務必從應用程式內加入，並 **非** 透過傳送給出席者的連結。
 
 >[!NOTE]
 >
@@ -38,9 +38,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您沒有看見 **事件設定** 在下拉式清單中，確認事件的頻道具有 **網路研討會活動** 在「套用至」下選取。
+   >如果您沒有看到 **事件設定** 在下拉式清單中，確認事件的頻道具有 **含網路研討會的事件** 在「套用至」下選取。
 
-1. 下 **活動合作夥伴**，選取 **Adobe Connect**.
+1. 在 **活動合作夥伴**，選取 **Adobe Connect**.
 
    ![](assets/event-settings-adobe-connect.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
    ![](assets/event-settings-overview.png)
 
-   很好！ 您的Adobe Connect事件現在已與Marketo事件同步。
+   很好！ 您的Adobe Connect事件現在已與您的Marketo事件同步。
 
    >[!NOTE]
    >
@@ -60,23 +60,23 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >若要將個人的唯一URL插入電子郵件中，請使用此Token： `{{member.webinar url}}`. 傳送電子郵件時，此Token會自動從Adobe Connect解析個人的唯一確認URL。
+   >若要將個人的唯一URL插入電子郵件中，請使用此Token： `{{member.webinar url}}`. 在傳送電子郵件時，此Token會自動從Adobe Connect解析個人的唯一確認URL。
    >
-   >將您的確認電子郵件設定為 **運作** 以確保註冊和可能取消訂閱的人仍會收到其確認資訊。
+   >將您的確認電子郵件設定為 **營運** 以確保註冊和可能取消訂閱的人仍會收到其確認資訊。
 
-   當「新狀態」設為「已註冊」時，註冊您的網路研討會的人將透過「變更計畫狀態」流程步驟推送至您的網路研討會提供者。 沒有其他狀態會將人員推到。 此外，請務必將「變更計畫狀態」流程步驟設為#1，並將「傳送電子郵件流程」步驟設為#2。
+   當「新狀態」設為「已註冊」時，註冊您的網路研討會的人會透過「變更計畫狀態」流程步驟，被推送至您的網路研討會提供者。 沒有其他狀態會將人員推到。 此外，請務必將「變更方案狀態」流程步驟設為#1，並將「傳送電子郵件」流程步驟設為#2。
 
    ![](assets/adobe.png)
 
    >[!CAUTION]
    >
-   >避免使用巢狀電子郵件程式傳送確認電子郵件。 請改用事件程式的智慧型行銷活動，如上所示。
+   >避免使用巢狀電子郵件程式來傳送確認電子郵件。 請改用事件程式的智慧型行銷活動，如上所示。
 
    >[!TIP]
    >
-   >資料可能需要48小時才會出現在Marketo中。 如果等了這麼久仍未看到任何內容，請選取 **從網路研討會提供者重新整理** 從事件「摘要」標籤中的「事件動作」功能表。
+   >資料可能需要48小時才會出現在Marketo中。 如果等了這麼久仍未看到任何內容，請選取 **從網路研討會提供者重新整理** 從您事件之「摘要」標籤中的「事件動作」功能表。
 
    >[!MORELIKETHIS]
    >
-   >* [將Adobe Connect新增為LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   >* [新增Adobe Connect作為LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
    >* [編輯事件頻道](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)

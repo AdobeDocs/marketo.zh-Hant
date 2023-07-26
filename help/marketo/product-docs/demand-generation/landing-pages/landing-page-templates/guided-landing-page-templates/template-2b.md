@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本2B {#template-2b}
 
-按一下滑鼠右鍵以 [下載範本2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
+按一下右鍵以 [下載範本2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -24,9 +24,9 @@ ht-degree: 0%
 
    * 包括主圖背景影像、標題、標語、專案符號清單和表單。
 
-* 一個內文區段，內含視訊和文字（選擇性）
+* 一個內文區段，內含視訊與文字（選擇性）
 * 頁尾（選擇性）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)

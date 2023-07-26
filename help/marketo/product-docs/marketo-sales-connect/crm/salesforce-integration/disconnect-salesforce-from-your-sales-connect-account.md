@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/one-1.png)
 
-1. 在「管理設定」底下，按一下 **Salesforce**.
+1. 在管理設定下，按一下 **Salesforce**.
 
    ![](assets/six-1.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/seven-1.png)
 
-## 如何以非管理員身分從Salesforce中斷連線 {#how-to-disconnect-from-salesforce-as-a-non-admin}
+## 如何以非管理員身分中斷與Salesforce的連線 {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
 1. 在Sales Connect中，按一下右上方的齒輪圖示並選取 **設定**.
 

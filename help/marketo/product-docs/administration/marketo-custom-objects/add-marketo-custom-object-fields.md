@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 新增Marketo自訂物件欄位 {#add-marketo-custom-object-fields}
 
-建立自訂物件後，您需要新增欄位以符合您的業務需求。
+建立自訂物件後，您需要新增欄位以符合業務需求。
 
-欄位定義自訂物件使用的特定資訊。 連結欄位有特殊的工作可連線自訂物件，並涵蓋在 [單獨文章](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
+欄位會定義自訂物件所使用的特定資訊。 連結欄位有特殊工作可連線自訂物件，並且包含在 [個別文章](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
 1. 前往 **[!UICONTROL 管理員]** 區域。
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/add-marketo-custom-object-fields-2.png)
 
-1. 在右側選取您要新增欄位的物件。
+1. 選取您要在右側新增欄位的物件。
 
    ![](assets/add-marketo-custom-object-fields-3.png)
 
-1. 按一下 **[!UICONTROL 欄位]** 標籤，然後 **[!UICONTROL 新增欄位]**.
+1. 按一下 **[!UICONTROL 欄位]** 標籤，然後 **[!UICONTROL 新欄位]**.
 
    ![](assets/add-marketo-custom-object-fields-4.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >API名稱只有在獲得核准後才能編輯。
+   >API名稱只能編輯，直到獲得核准為止。
 
 1. 現在，選擇適當的 [!UICONTROL 資料型別] 從清單中。
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您建置一對多結構，則需要將連結欄位新增至自訂物件。 對於多對多結構，自訂物件中不需要連結欄位，但您必須在中間物件中新增兩個連結欄位。 另請參閱 [新增Marketo自訂物件連結欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) 以建立連結欄位，以及 [瞭解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) 以取得自訂物件型別的詳細資訊。
+   >如果您建置一對多結構，則需要將連結欄位新增至自訂物件。 對於多對多結構，自訂物件中不需要連結欄位，但必須在中介物件中新增兩個連結欄位。 另請參閱 [新增Marketo自訂物件連結欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) 以建立連結欄位，以及 [瞭解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) 以取得自訂物件型別的詳細資訊。
 
 >[!MORELIKETHIS]
 >

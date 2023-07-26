@@ -33,6 +33,6 @@ ht-degree: 0%
 
    ![](assets/delete-a-workspace-3.png)
 
-1. 確認您要刪除的資產數量(此數量會列在「[!UICONTROL 資產總數]&quot;)，選取 **[!UICONTROL 無法還原]** 核取方塊，然後按一下 **[!UICONTROL 刪除]**.
+1. 確認您要刪除的資產數量(旁邊會為您列出&quot;[!UICONTROL 資產總計]&quot;)，選取 **[!UICONTROL 無法還原]** 核取方塊，然後按一下 **[!UICONTROL 刪除]**.
 
    ![](assets/delete-a-workspace-4.png)

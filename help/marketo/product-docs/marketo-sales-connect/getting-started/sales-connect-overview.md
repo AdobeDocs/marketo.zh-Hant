@@ -1,7 +1,7 @@
 ---
 unique-page-id: 13796464
 description: Sales Connect概述 — Marketo檔案 — 產品檔案
-title: Sales Connect概述
+title: Sales Connect概觀
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# Sales Connect概述 {#sales-connect-overview}
+# Sales Connect概觀 {#sales-connect-overview}
 
-Marketo Sales Connect是多方面的銷售支援解決方案，提供多種功能，幫助您在整個銷售週期中提高參與度。
+Marketo Sales Connect是多方面的銷售支援解決方案，具備多種功能，可協助您在整個銷售週期中提高參與度。
 
 >[!AVAILABILITY]
 >
->並非每個人都購買了此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+>並非每個人都購買過此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 ## 即時摘要 {#the-live-feed}
 
@@ -57,15 +57,15 @@ Marketo Sales Connect是多方面的銷售支援解決方案，提供多種功�
   </tr> 
   <tr> 
    <td colspan="1"><p>接收銷售電子郵件</p></td> 
-   <td colspan="1"><p>潛在客戶收到來自Sales Connect的電子郵件。</p></td> 
+   <td colspan="1"><p>潛在客戶收到從Sales Connect傳送的電子郵件。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>接聽銷售電話</p></td> 
-   <td colspan="1"><p>銷售機會收到銷售人員的電話使用 <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">銷售電話</a>.</p></td> 
+   <td colspan="1"><p>潛在客戶收到銷售人員的電話時，使用 <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">銷售電話</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>新增至銷售行銷活動</p></td> 
-   <td colspan="1"><p>已將潛在客戶新增至Sales Connect中建立的銷售促銷活動（在促銷活動頁面中）。</p></td> 
+   <td colspan="1"><p>已將潛在客戶新增至Sales Connect中建立的銷售促銷活動（在「促銷活動」頁面中）。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>已從銷售行銷活動中移除</p></td> 
@@ -80,11 +80,11 @@ Marketo Sales Connect是多方面的銷售支援解決方案，提供多種功�
 
 ## 共用行銷活動 {#share-marketing-campaigns}
 
-建立簡單的智慧行銷活動，讓您的銷售使用者可以存取 [Marketo行銷活動資料](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+建立簡單的智慧型行銷活動，讓您的銷售使用者可以存取 [Marketo行銷活動資料](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
-準備好開始使用了嗎？ 如需設定指示，請按一下下面的連結。
+準備好開始使用了嗎？ 如需設定指示，請按一下下方的連結。
 
 >[!MORELIKETHIS]
 >

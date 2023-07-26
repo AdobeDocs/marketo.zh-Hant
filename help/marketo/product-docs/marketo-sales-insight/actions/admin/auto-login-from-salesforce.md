@@ -16,13 +16,13 @@ ht-degree: 0%
 
 若要使用自動登入：
 
-* [登入管理設定](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) 必須設定為「僅限Salesforce」
+* [登入管理設定](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) 必須設為「僅限Salesforce」
 
 * 必須已邀請使用者使用銷售分析動作
 
 * 使用者必須透過將其Salesforce帳戶連線到其Sales Insight Actions例項來啟動帳戶
 
-* 使用者的Sales Insight Actions使用者名稱必須符合他們的Salesforce使用者名稱（或他們的Salesforce使用者名稱和電子郵件相符）
+* 使用者的Sales Insight Actions使用者名稱必須符合其Salesforce使用者名稱（或其Salesforce使用者名稱和電子郵件相符）
 
 >[!MORELIKETHIS]
 >

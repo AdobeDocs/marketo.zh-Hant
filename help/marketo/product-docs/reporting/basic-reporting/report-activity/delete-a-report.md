@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 刪除報告 {#delete-a-report}
 
-一旦您開始 [建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)，您很快就會發現許多這類問題。 請記得刪除您不再需要的報表。
+一旦您開始 [建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)，您很快就會發現大量這類問題。 請記得刪除您不再需要的報表。
 
-1. 以滑鼠右鍵按一下樹狀結構中不需要的報告，然後選取 **刪除報告**.
+1. 在樹狀結構中以滑鼠右鍵按一下不需要的報告，然後選取 **刪除報告**.
 
    ![](assets/image2014-9-16-14-3a26-3a48.png)
 
@@ -23,4 +23,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a26-3a53.png)
 
-   報表會從樹狀結構中消失。 繼續，立即移除一些舊報告！
+   報告會從樹狀結構中消失。 繼續，立即移除一些舊報告！

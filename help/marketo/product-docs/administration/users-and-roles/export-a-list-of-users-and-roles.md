@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-很容易匯出使用者和使用者角色的完整清單。 方法如下。
+匯出使用者和使用者角色的完整清單相當容易。 方法如下。
 
 1. 前往 **[!UICONTROL 管理員]**.
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/export-a-list-of-users-and-roles-2.png)
 
-1. 匯出前新增/移除任何您想要的欄。
+1. 匯出之前，新增/移除任何您想要的欄。
 
    >[!TIP]
    >
-   >若要匯出角色，請前往 **[!UICONTROL 角色]** 按Tab鍵，然後匯出。
+   >若要匯出角色，請移至 **[!UICONTROL 角色]** 按Tab鍵，然後匯出。
 
    ![](assets/export-a-list-of-users-and-roles-3.png)
 

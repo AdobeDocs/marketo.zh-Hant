@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Marketo Outlook外掛程式由IT解除安裝 {#marketo-outlook-plugin-uninstall-by-it}
 
-以下說明IT如何從遠端解除安裝Marketo Outlook外掛程式。
+以下是IT如何從遠端解除安裝Marketo Outlook外掛程式。
 
-以&#39;System&#39;的身分執行以下命令列，或是使用/x引數執行系統管理使用者帳戶以解除安裝。
+以&#39;System&#39;的身分執行以下命令列，或以/x引數的[系統管理]使用者帳戶執行解除安裝。
 
 `<pre>msiexec.exe /x [File Name] /qn </pre>`
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 >
 >`<pre>msiexec.exe /x MarketoAddInSetup64.msi /qn /L*v MarketoAddinUninstall.log</pre>`
 
-若要指定記錄檔的位置，您可以在命令列中指定檔案路徑。
+若要指定日誌檔的位置，您可以在命令列中指定檔案路徑。
 
 `<pre>msiexec.exe /x [File Name] /qn /L*v [File Path]MarketoAddinUninstall.log</pre>`
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 >
 >從遠端解除安裝外掛程式將會強制關閉使用者電腦上的Outlook。
 
-請參考 [Microsoft的完整交換器清單](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) 如果您想要嘗試不同的記錄層級或使用者介面層級。
+請參閱 [Microsoft的完整交換器清單](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) 如果您想要嘗試不同的記錄層級或使用者介面層級。

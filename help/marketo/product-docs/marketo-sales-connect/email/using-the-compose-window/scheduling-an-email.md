@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >若要更新預設時區，請前往「設定」頁面。
 
-1. 建立您的電子郵件草稿(有多種方式可以執行此操作，在此範例中，我們選擇 **撰寫** （在標題中）。
+1. 建立您的電子郵件草稿(有多種方式可以執行此操作，在此範例中，我們將選擇 **撰寫** （在標題中）。
 
    ![](assets/one-1.png)
 
-1. 撰寫完電子郵件後，請按一下 **排程** 右下角
+1. 當您完成撰寫電子郵件時，請按一下 **排程** 在右下方
 
    ![](assets/two-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. 輸入您希望電子郵件發出的時間。 選取所需的時區並按一下 **儲存**. 完成時關閉排程器。
+1. 輸入您要電子郵件發出的時間。 選取想要的時區並按一下 **儲存**. 完成時關閉排程器。
 
    ![](assets/four-1.png)
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[命令中心概觀](/help/marketo/product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
+   >[命令中心概述](/help/marketo/product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)

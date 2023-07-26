@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504725
-description: 儲存Revenue Explorer報表 — Marketo檔案 — 產品檔案
+description: 儲存收入總管報表 — Marketo檔案 — 產品檔案
 title: 儲存收入總管報表
 exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
 feature: Reporting, Revenue Cycle Analytics
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 儲存收入總管報表 {#saving-a-revenue-explorer-report}
 
-Revenue Explorer報表可儲存至您選擇的檔案。
+收入總管報表可以儲存至您選擇的檔案。
 
 1. 按一下儲存圖示。
 
@@ -33,4 +33,4 @@ Revenue Explorer報表可儲存至您選擇的檔案。
 
 >[!MORELIKETHIS]
 >
->[訂閱Revenue Explorer報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[訂閱收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

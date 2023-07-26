@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949192
-description: SEO — 新增競爭對手 — Marketo檔案 — 產品檔案
+description: SEO — 新增競爭者 — Marketo檔案 — 產品檔案
 title: SEO — 新增競爭者
 exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
 feature: SEO
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO — 新增競爭者 {#seo-add-competitors}
 
-新增競爭者可讓您針對您選擇監控的相同關鍵字和傳入連結，追蹤其執行情形。
+新增競爭者可讓您針對您選擇監控的相同關鍵字和傳入連結追蹤其執行情形。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. 輸入 **[!UICONTROL 名稱]** 和 **[!UICONTROL URL]** 競爭者的。
+1. 輸入 **[!UICONTROL 名稱]** 和 **[!UICONTROL URL]** 您競爭者的。
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 

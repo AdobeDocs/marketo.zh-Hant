@@ -15,27 +15,27 @@ ht-degree: 0%
 
 ## 什麼是歸因？ {#what-is-attribution}
 
-歸因是Marketo將評分給予計畫的方法，有助於影響銷售和機會。 如果您使用Marketo塑模工具，歸因也可對在您的商業模式中向前邁進的人提供點數。
+歸因是Marketo將評分給予計畫的方法，有助於影響銷售和機會。 如果您使用Marketo模型工具，歸因也可對在您的商業模式中發展某人給予評分。
 
 ## 為何要追蹤此事件？ {#why-keep-track-of-this}
 
-歸因可協助您評估計畫成功與否。 有些程式旨在產生新名稱，有些則旨在促進銷售。 透過歸因系統，您可以針對要投資的計畫做出有根據的決策。
+歸因可協助您評估方案成功與否。 有些程式旨在產生新名稱，有些則旨在促進銷售。 藉由建立歸因系統，您可以針對要投資的計畫做出有根據的決策。
 
 ## 首次接觸(FT)歸因 {#first-touch-ft-attribution}
 
-首次接觸(FT)歸因回答 **簡單業務問題**，「哪些程式擅長贏取有利可圖的新名稱？」
+首次接觸(FT)歸因回答 **簡單業務問題**，「哪些程式適合贏取有利可圖的新名稱？」
 
 ## 多重接觸歸因 {#multi-touch-attribution}
 
-多重觸控的答案 **複雜的業務問題**，「哪些計畫對於在銷售週期中隨著時間推移而推動人們前進最有影響力？」
+多重觸控回答 **複雜的業務問題**，「哪些計畫對於在銷售週期中隨著時間推移而推動人們前進最有影響力？」
 
 ## 歸因規則 {#rules-of-attribution}
 
-有三種歸因規則：
+歸因規則共有三種：
 
-1. 點數會平均分割
-1. 您無法給予超過所獲收入的評分
-1. 您無法對過去發生的事件給予評價
+1. 評分會平均分割
+1. 您獲得的評分不能超過您獲得的評分
+1. 您無法為過去發生的事件給予評價
 
 在以下範例中，您可以套用這些規則，並瞭解測量計畫成功所需的一切。
 
@@ -46,4 +46,4 @@ ht-degree: 0%
 >* [歸因範例3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
 >* [歸因範例4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
-如果您使用此功能，您絕對會充分運用Marketo的投資。
+如果您使用此功能，您絕對會充分利用Marketo的投資。

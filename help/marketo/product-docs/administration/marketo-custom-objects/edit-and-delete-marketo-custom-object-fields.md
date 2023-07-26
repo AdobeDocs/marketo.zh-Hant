@@ -17,7 +17,7 @@ ht-degree: 0%
 
 有時您需要編輯尚未核准的欄位。
 
-1. 按一下自訂物件和您要編輯的欄位。
+1. 按一下自訂物件以及您要編輯的欄位。
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-1. 在提取觸發程式之前，請確定您確定要刪除欄位！ 按一下 **[!UICONTROL 刪除]**.
+1. 在按下觸發程式之前，請確定您確定要刪除欄位！ 按一下 **[!UICONTROL 刪除]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
-它不見了！
+現在已不存在！
 
 ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 

@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 選取表單主題 {#select-a-form-theme}
 
-我們為您的表單製作了一系列好主題。 您最喜歡哪一個？
+我們為您的表單做了許多好主題。 您最喜歡哪一個？
 
 1. 前往 **行銷活動**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 選取您的表單並按一下 **編輯表單**.
+1. 選擇您的表單並按一下 **編輯表單**.
 
    ![](assets/editform.png)
 
@@ -39,13 +39,13 @@ ht-degree: 0%
    * 四捨五入
    * 深色
    * 陰影
-   * Plain
+   * 平坦
 
    >[!TIP]
    >
    >您也可以 [編輯表單主題的CSS](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
-1. 按一下 **下一個** 設定其他表單選項，或按一下 **完成** 如果您只想變更表單主題。
+1. 按一下 **下一個** 以設定其他表單選項，或按一下 **完成** 如果您只想變更表單主題。
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 

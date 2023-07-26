@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 在程式中使用期間成本 {#using-period-costs-in-a-program}
 
-A [期間成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md) 是您在方案上花費的金額。 此維度可維持一或多個月，並用於報告ROI。
+A [期間成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md) 是您在方案上花費的金額。 此維度可為一或多個月，並用於回報ROI。
 
 ## 新增期間成本  {#add-a-period-cost}
 
-1. 前往 **設定** 索引標籤中。
+1. 前往 **設定** 的索引標籤中。
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
@@ -43,13 +43,13 @@ A [期間成本](/help/marketo/product-docs/core-marketo-concepts/programs/worki
 
    >[!TIP]
    >
-   >您可以將多個期間成本拖放至畫布中。 這可讓您將具有不同期間成本的多個月歸因到您的計畫。
+   >您可以將多個期間成本拖放至畫布中。 這可讓您將具有不同期間成本的多個月歸因到您的方案。
 
 ## 編輯期間成本 {#edit-a-period-cost}
 
 1. 如果您花費的金額比原先預計的要多或少，您可以編輯期間成本。
 
-1. 前往 **設定** 索引標籤中。
+1. 前往 **設定** 的索引標籤中。
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
@@ -63,7 +63,7 @@ A [期間成本](/help/marketo/product-docs/core-marketo-concepts/programs/worki
 
 ## 刪除期間成本 {#delete-a-period-cost}
 
-1. 前往 **設定** 索引標籤中。
+1. 前往 **設定** 的索引標籤中。
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 

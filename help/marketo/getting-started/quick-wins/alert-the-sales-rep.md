@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/alert-the-sales-rep-3.png)
 
-1. **名稱** 電子郵件「我的電子郵件警示」，選擇範本並按一下 **[!UICONTROL 建立]**.
+1. **名稱** 電子郵件「我的電子郵件警示」，選取範本並按一下 **[!UICONTROL 建立]**.
 
    ![](assets/alert-the-sales-rep-4.png)
 
-1. 輸入 **發件人名稱**， **來自電子郵件**， **[!UICONTROL 回覆]**、和 **[!UICONTROL 主旨]** 您希望您的銷售團隊看到的內容。
+1. 輸入 **寄件者名稱**， **來自電子郵件**， **[!UICONTROL 回覆]**、和 **[!UICONTROL 主旨]** 您希望您的銷售團隊看到的內容。
 
    ![](assets/alert-the-sales-rep-5.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/alert-the-sales-rep-7.png)
 
-1. 將游標放在您要插入人員連絡資訊的位置，然後按一下 **插入Token** 圖示。
+1. 將游標放在您要插入人員聯絡資訊的位置，然後按一下 **插入權杖** 圖示。
 
    ![](assets/alert-the-sales-rep-8.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} 是警報電子郵件的特殊Token。 另請參閱 [使用傳送警報資訊權杖](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} 以深入瞭解。
+   >{{SP_Send_Alert_Info}} 是警報電子郵件的特殊權杖。 另請參閱 [使用傳送警報資訊權杖](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} 以進一步瞭解。
 
 1. 按一下 **[!UICONTROL 儲存]**.
 
@@ -73,11 +73,11 @@ ht-degree: 0%
 
 ## 步驟2：建立警報觸發程式行銷活動 {#step-create-an-alert-trigger-campaign}
 
-1. 選取 **我的程式** 先前建立，然後在 **[!UICONTROL 新增]** 按一下 **[!UICONTROL 新增Smart Campaign]**.
+1. 選取 **我的程式** 先前建立，然後在 **[!UICONTROL 新增]** 按一下 **[!UICONTROL 新增智慧型行銷活動]**.
 
    ![](assets/alert-the-sales-rep-12.png)
 
-1. **名稱** 行銷活動「我的警示行銷活動」並按一下 **[!UICONTROL 建立]**.
+1. **名稱** 促銷活動「我的警示促銷活動」並按一下 **[!UICONTROL 建立]**.
 
    ![](assets/alert-the-sales-rep-13.png)
 
@@ -107,15 +107,15 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >設定 **[!UICONTROL 資格規則]** 至 **[!UICONTROL 每次]** （透過編輯Smart Campaign）以允許同一人多次觸發警報。
+   >設定 **[!UICONTROL 資格規則]** 至 **[!UICONTROL 每次]** （透過編輯Smart Campaign）讓同一人多次觸發警報。
 
-1. 按一下 **[!UICONTROL 啟動]** 確認畫面上。
+1. 按一下 **[!UICONTROL 啟動]** 在確認畫面上。
 
    ![](assets/alert-the-sales-rep-20.png)
 
 ## 步驟3：測試！ {#step-test-it-out}
 
-1. 選取您的登入頁面，然後按一下 **[!UICONTROL 檢視已核准頁面]**.
+1. 選取您的登入頁面並按一下 **[!UICONTROL 檢視已核准頁面]**.
 
    ![](assets/alert-the-sales-21.png)
 
@@ -127,16 +127,16 @@ ht-degree: 0%
 
    ![](assets/alert-the-sales-22.png)
 
-1. 您很快就會收到電子郵件。 在您確認一切都正常運作後，請從「傳送警報」流程中移除您的電子郵件地址（請參閱上述步驟2.7）。
+1. 您應該很快就會收到電子郵件。 在您確認一切都正常運作後，請從「傳送警報」流程中移除您的電子郵件地址（請參閱上述步驟2.7）。
 
    >[!NOTE]
    >
-   >按一下 **[!UICONTROL 個人資訊]** 按Tab鍵檢視Marketo中的聯絡人資訊。
+   >按一下 **[!UICONTROL 個人資訊]** 按Tab鍵檢視Marketo中的聯絡資訊。
 
 ## 任務完成！ {#mission-complete}
 
 <br> 
 
-[◄任務7：個人化電子郵件](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
+[◄ Mission 7：個人化電子郵件](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
 [任務9：更新人員資料►](/help/marketo/getting-started/quick-wins/update-person-data.md)

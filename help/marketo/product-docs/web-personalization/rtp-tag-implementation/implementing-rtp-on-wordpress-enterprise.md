@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. 在「領域」下，找到相關領域並按一下 **產生標籤**.
+1. 在「網域」下，找到相關網域並按一下 **產生標籤**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
@@ -29,8 +29,8 @@ ht-degree: 0%
 
 1. 以管理員使用者身分登入您的WordPress帳戶
 
-   a.下 **外觀**，前往 **自訂JavaScript**.
-b.將RTP Javascript標籤貼到現有程式碼的後面。
+   a.低於 **外觀**，前往 **自訂JavaScript**.
+b.將RTP Javascript標籤貼到現有程式碼的正後方。
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)
 

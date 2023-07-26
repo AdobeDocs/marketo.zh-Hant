@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## A/B測試 {#a-b-testing}
 
-這是用於使用電子郵件程式的一次性電子郵件。 新增 [A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) 一小部分人將獲得測驗，其他人將獲得優勝者。
+這是用於使用電子郵件程式的一次性電子郵件。 新增 [A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) 一小部分人會拿到測驗，其餘的人會拿獎。
 
 ## 電子郵件達人/挑戰者 {#email-champion-challenger}
 

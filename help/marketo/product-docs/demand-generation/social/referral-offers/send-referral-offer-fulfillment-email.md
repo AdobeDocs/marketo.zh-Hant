@@ -13,20 +13,20 @@ ht-degree: 0%
 
 # 傳送轉介優惠履行電子郵件 {#send-referral-offer-fulfillment-email}
 
-使用優惠履行電子郵件，以優惠券和折扣代碼獎勵您的客戶。
+使用優惠方案履行電子郵件，以優惠券和折扣代碼獎勵您的客戶。
 
 >[!PREREQUISITES]
 >
 >* [在社交促銷活動中使用電子郵件](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
->* [建立轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [建立反向連結選件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
-## 設定履行交貨 {#set-up-fulfillment-delivery}
+## 設定履行傳遞 {#set-up-fulfillment-delivery}
 
 1. 選取轉介優惠方案。 按一下 **編輯草稿**.
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. 下 **應用程式設定**，選取 **優惠方案詳細資料**.
+1. 在 **應用程式設定**，選取 **優惠詳細資料**.
 
    ![](assets/image2015-4-23-12-3a53-3a16.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-13-3a13-3a33.png)
 
-   在中選取的訊息 **履行電子郵件** 會自動傳送給符合目標的使用者。
+   訊息選取於 **履行電子郵件** 會自動傳送給符合目標的人員。
 
 ## 手動傳送 {#manual-send}
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-20-15-3a59-3a11.png)
 
-1. 在篩選的檢視中選取人員。
+1. 選取篩選檢視中的人員。
 
    ![](assets/2015-04-23-13-08-53.png)
 
@@ -72,4 +72,4 @@ ht-degree: 0%
 
    ![](assets/2015-04-20-15-54-13.png)
 
-太棒了！ 這些人員現在會收到履行電子郵件，並收到獎勵的相關提示。
+棒極了！ 這些人員現在會收到履行電子郵件，並收到獎勵的相關提示。

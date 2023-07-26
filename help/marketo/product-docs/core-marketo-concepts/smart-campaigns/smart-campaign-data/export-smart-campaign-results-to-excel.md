@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/exportexcel-hands.png)
 
-   馬上即可匯出結果，隨時可使用！
+   馬上即可匯出結果，隨時使用！
 
    >[!NOTE]
    >

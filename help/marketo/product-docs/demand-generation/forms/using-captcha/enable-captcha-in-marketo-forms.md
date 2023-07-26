@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 在Marketo Forms中啟用驗證碼 {#enable-captcha-in-marketo-forms}
 
-您可以根據每個表單來啟用/停用CAPTCHA。
+您可以根據每個表單來啟用/停用驗證碼。
 
 1. 尋找並選取所需的表單。
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 
-1. 按一下 **表單設定**，則 **設定**.
+1. 按一下 **表單設定**，然後 **設定**.
 
    ![](assets/enable-captcha-in-marketo-forms-3.png)
 
-1. 開啟CAPTCHA下拉式清單並選取 **已啟用**.
+1. 開啟「驗證碼」下拉式清單，然後選取 **已啟用**.
 
    ![](assets/enable-captcha-in-marketo-forms-4.png)
 
@@ -38,11 +38,11 @@ ht-degree: 0%
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 
-此清單的變更可能需要幾分鐘的時間才能從Google傳播。
+此清單的變更可能需要幾分鐘的時間才會從Google傳播。
 
 >[!NOTE]
 >
->標準化文字(包括Google隱私權原則和服務條款的連結)將新增至啟用驗證碼的表單。
+>標準化文字(包括Google隱私權政策與服務條款的連結)會新增至已啟用驗證碼的表單。
 
 >[!MORELIKETHIS]
 >

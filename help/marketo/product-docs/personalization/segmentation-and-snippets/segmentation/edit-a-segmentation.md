@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 編輯分段 {#edit-a-segmentation}
 
-變更現有區段很容易。 以下是最低限度。
+對現有區段進行變更很容易。 以下是最低限度。
 
 ## 建立區段草稿 {#create-a-segmentation-draft}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 此 **狀態** 變更為「已核准並草稿」。 A **草稿** 資料夾會在您的區段中建立。
+1. 此 **狀態** 變更為「已核准並草稿」。 A **草稿** 資料夾會在您的細分中建立。
 
    ![](assets/three.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您只能編輯草稿的區段，不能編輯已核准的分段。
+   >您只能編輯草稿的區段，而不能編輯已核准的區段。
 
 1. **新增區段**， **編輯** 現有（重新命名或變更順序）或 **刪除** 任何區段。
 
@@ -49,11 +49,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >刪除會影響電子郵件、登入頁面和程式碼片段中所有關聯的動態內容。 **無法還原**. 檢查 **使用者** 標籤來檢視該區段的用途。
+   >刪除會影響電子郵件、登陸頁面及程式碼片段中所有相關的動態內容。 **沒有復原**. 檢查 **使用者** 標籤檢視該區段的用途。
 
 ## 編輯區段規則 {#edit-segment-rules}
 
-1. 在您的草稿中 **區段**，前往 **智慧清單**. 套用類似以下的規則 [定義區段規則](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. 在您的草稿中 **區段**，前往 **智慧清單**. 套用類似於 [定義區段規則](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 

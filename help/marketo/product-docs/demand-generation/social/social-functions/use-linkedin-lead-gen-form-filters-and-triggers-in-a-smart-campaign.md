@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 在Smart Campaign中使用LinkedIn Lead Gen表單篩選器和觸發器 {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
 
-當您啟用LinkedIn Lead Gen Forms時，您可以在智慧行銷活動中將其當作篩選器和觸發器使用。
+當您啟用LinkedIn Lead Gen Forms後，即可在智慧行銷活動中作為篩選器和觸發器使用。
 
 >[!NOTE]
 >
->當使用者在LinkedIn銷售機會一般表單中提交其資訊時，該資訊會立即推送至Marketo，使得該表單可在銷售機會一般表單名稱下拉式清單中取得。 至少要有一個人提交表單，表單名稱才會顯示。
+>當使用者在LinkedIn銷售機會一般表單中提交資訊時，該資訊會立即推送至Marketo，使得該表單可在銷售機會一般表單名稱下拉式清單中取得。 至少要有一個人提交表單，才能看到表單名稱。
 
-1. 使用 **填寫LinkedIn銷售機會一般表單** 觸發立即採取動作，或 **填寫LinkedIn銷售機會一般表單** 篩選已排程的批次促銷活動或標準智慧清單篩選。
+1. 使用 **填寫LinkedIn銷售機會一般表單** 觸發以立即採取動作，或 **填寫LinkedIn銷售機會一般表單** 篩選已排程的批次促銷活動或標準智慧清單篩選。
 
    ![](assets/screen-shot-2017-03-29-at-2.38.03-pm.png)
 

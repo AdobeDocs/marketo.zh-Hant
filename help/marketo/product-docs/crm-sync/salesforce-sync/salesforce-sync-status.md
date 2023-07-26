@@ -14,13 +14,13 @@ ht-degree: 3%
 
 使用同步狀態儀表板來檢視同步步驟中的同步狀態及其成功狀態。
 
-同步步驟反映物件結構描述和資料本身的每個物件型別對推送或拉出的操作。 統計資料涵蓋同步處理期間的新記錄、更新、刪除和失敗計數。 使用者可依日期、作業型別或物件型別進行篩選。 同步狀態儀表板顯示過去五天的同步週期狀態。
+同步步驟反映物件結構描述和資料本身的每種物件型別所執行的推入或拉入作業。 統計資料涵蓋同步處理期間的新記錄、更新、刪除和失敗計數。 使用者可依日期、作業型別或物件型別進行篩選。 同步狀態儀表板會顯示過去五天的同步處理週期狀態。
 
 >[!NOTE]
 >
 >需要管理員許可權
 
-## 檢視同步狀態 {#view-sync-status}
+## 檢視同步處理狀態 {#view-sync-status}
 
 1. 按一下 **管理員**.
 
@@ -48,7 +48,7 @@ ht-degree: 3%
 
    ![](assets/salesforce-sync-status-6.png)
 
-**選擇性步驟**：若要匯出同步錯誤，請按一下 **匯出**. 資料將會匯出為CSV。
+**選擇性步驟**：若要匯出同步錯誤，請按一下 **匯出**. 資料將會匯出為CSV檔。
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -72,7 +72,7 @@ ht-degree: 3%
    <td colspan="1"></td> 
   </tr>  
   <tr> 
-   <td colspan="1">結束時間</td> 
+   <td colspan="1">結束於</td> 
    <td colspan="1">同步週期結束日期/時間（使用者的時區）</td> 
    <td colspan="1"></td> 
   </tr> 
@@ -113,13 +113,13 @@ ht-degree: 3%
   </tr>  
   <tr> 
    <td colspan="1">已略過</td> 
-   <td colspan="1">因為Sync的感興趣欄位沒有變更而略過的記錄數</td> 
+   <td colspan="1">因為同步處理感興趣的欄位沒有變更而略過的記錄數</td> 
    <td colspan="1"></td> 
   </tr>  
  </tbody> 
 </table>
 
-&#42;同步步驟失敗後，資料恢復為先前的完整性狀態。
+&#42;同步步驟失敗後，資料恢復為之前的完整狀態。
 
 ## 物件類型 {#object-type}
 
@@ -141,7 +141,7 @@ ht-degree: 3%
    <td colspan="1">Campaign</td> 
   </tr>  
   <tr> 
-   <td colspan="1">行銷活動會員狀態</td> 
+   <td colspan="1">促銷活動會員狀態</td> 
   </tr>
   <tr> 
    <td colspan="1">連絡人</td> 
@@ -182,7 +182,7 @@ ht-degree: 3%
  <tbody> 
   <tr> 
    <th>作業型別</th> 
-   <th>對這些物件找到</th> 
+   <th>找到這些物件</th> 
    <th>備註</th> 
    <th>作業型別</th>
   </tr> 
@@ -195,7 +195,7 @@ ht-degree: 3%
   <tr> 
    <td colspan="1">提取轉換</td> 
    <td colspan="1">人員（銷售機會）*</td> 
-   <td colspan="1">提取從SFDC轉換至Marketo的動作。 單位（編號）是轉換為聯絡人的潛在客戶</td> 
+   <td colspan="1">從SFDC提取轉換動作至Marketo。 單位（編號）是轉換為聯絡人的潛在客戶</td> 
    <td colspan="1">更新，失敗專案或略過</td>
   </tr> 
   <tr> 
@@ -207,7 +207,7 @@ ht-degree: 3%
   <tr> 
    <td colspan="1">提取更新</td> 
    <td colspan="1">任務，人員（銷售機會），人員（銷售機會）佇列，聯絡人，事件，機會，帳戶，帳戶型別，促銷活動成員，自訂物件，促銷活動，促銷活動成員狀態，事件，人員狀態，機會，機會聯絡人角色</td> 
-   <td colspan="1">SFDC中的更新或新記錄同步至Marketo，提取事件作為活動</td> 
+   <td colspan="1">SFDC中的更新或新記錄已同步至Marketo，將事件提取為活動</td> 
    <td colspan="1">新增、更新、失敗的專案或已略過</td>
   </tr>  
   <tr> 
@@ -219,7 +219,7 @@ ht-degree: 3%
   <tr> 
    <td colspan="1">推送更新</td> 
    <td colspan="1">任務，電子郵件範本，人員，連絡人，行銷活動</td> 
-   <td colspan="1">將更新推送到SFDC並刪除</td> 
+   <td colspan="1">將更新推送到SFDC也會刪除</td> 
    <td colspan="1">更新，失敗專案或略過</td>
   </tr>  
   <tr> 
@@ -249,4 +249,4 @@ ht-degree: 3%
  </tbody> 
 </table>
 
-&#42;訂閱層級的品牌設定會決定標籤 — 報表中的「銷售機會」或「人員」。
+&#42;訂閱層級的品牌設定會決定報告中的標籤 — 「銷售機會」或「人員」。

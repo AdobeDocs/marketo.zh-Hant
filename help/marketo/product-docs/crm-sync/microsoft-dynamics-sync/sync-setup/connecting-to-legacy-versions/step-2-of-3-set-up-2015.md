@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7504739
 description: 安裝Marketo for Microsoft Dynamics 2015內部部署步驟2之3 - Marketo檔案 — 產品檔案
-title: 安裝Marketo for Microsoft Dynamics 2015內部部署步驟2/3
+title: 安裝適用於Microsoft Dynamics 2015內部部署的Marketo步驟3之2
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[安裝Marketo for Microsoft Dynamics 2015內部部署步驟1/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
+>[安裝適用於Microsoft Dynamics 2015內部部署的Marketo步驟3之1](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
 
 ## 指派同步使用者角色 {#assign-sync-user-role}
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 >
 >同步處理使用者的語言設定 [應該設定為英文](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
 
-1. 下 **設定**，按一下 **安全性**.
+1. 在 **設定**，按一下 **安全性**.
 
    ![](assets/assign1.png)
 
@@ -47,33 +47,33 @@ ht-degree: 0%
 
    ![](assets/assign4.png)
 
-1. 檢查Marketo同步使用者並按一下 **確定**.
+1. 勾選Marketo同步使用者並按一下 **確定**.
 
    ![](assets/assign5.png)
 
    >[!IMPORTANT]
    >
-   >同步處理使用者應該要有Marketo設定的讀取許可權。
+   >同步使用者應該要有Marketo設定的讀取許可權。
 
    >[!TIP]
    >
-   >如果您沒有看到角色，請返回 [步驟1/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md) 並匯入解決方案。
+   >如果您沒有看到角色，請返回 [步驟3之1](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md) 並匯入解決方案。
 
    >[!NOTE]
    >
-   >同步使用者在您的CRM中所做的任何更新都將 **not** 已同步回Marketo。
+   >同步使用者在您的CRM中所做的任何更新都將 **非** 已同步回Marketo。
 
 ## 設定Marketo解決方案 {#configure-marketo-solution}
 
-即將完成！ 在前往下一篇文章之前，我們僅剩下幾項設定。
+即將完成！ 在前往下一篇文章之前，我們僅有最後幾項的設定。
 
-1. 下 **設定**，按一下 **Marketo設定**.
+1. 在 **設定**，按一下 **Marketo設定**.
 
    ![](assets/configure1.png)
 
    >[!NOTE]
    >
-   >如果缺少Marketo Config，請嘗試重新整理頁面。 如果問題持續存在， [發佈Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md) 或嘗試登出再重新登入。
+   >如果缺少Marketo設定，請嘗試重新整理頁面。 如果問題持續存在， [發佈Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md) 或嘗試登出再重新登入。
 
 1. 按一下 **預設**.
 
@@ -93,13 +93,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >同步處理使用者應該要有Marketo設定的讀取許可權。
+   >同步使用者應該要有Marketo設定的讀取許可權。
 
 ## 繼續進行步驟3之前 {#before-proceeding-to-step}
 
 * 如果要限制同步處理的記錄數， [設定自訂同步篩選器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) 立即。
 * 執行 [驗證Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) 程式。 它可驗證您的初始設定是否正確完成。
-* 在Microsoft Dynamics CRM中登入Marketo Sync使用者。
+* 在Microsoft Dynamics CRM中登入Marketo Sync User。
 
 >[!MORELIKETHIS]
 >

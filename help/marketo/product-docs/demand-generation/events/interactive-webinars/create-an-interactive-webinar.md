@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. 按一下管道下拉式清單並選取 **網路研討會**.
+1. 按一下「管道」下拉式清單，然後選取 **網路研討會**.
 
    ![](assets/create-an-interactive-webinar-4.png)
 

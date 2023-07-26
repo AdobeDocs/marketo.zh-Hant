@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本10B {#template-10b}
 
-按一下滑鼠右鍵以 [下載範本10B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html)
+按一下右鍵以 [下載範本10B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html)
 
 ![](assets/image2015-7-27-10-3a48-3a23.png)
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 * 主要區段
 
-   * 包含主圖頁首、主圖文字和主圖影像
+   * 包含主圖示題、主圖文字和主圖影像
 
 * 三個主體區段（選擇性）
-* 頁尾（選擇性）
+* 頁尾（選填）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本10B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html)

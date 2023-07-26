@@ -27,8 +27,8 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-   您現在有一個空白清單可供填寫。 瞭解如何新增人員 [此處](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list).
+   您現在有空白清單可供填寫。 瞭解如何新增人員 [此處](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list).
 
    >[!NOTE]
    >
-   >您可以將個人新增至清單，次數不限，但只會出現一次。 在您移除人員之前，他們都會保留在清單中。
+   >您可以新增人員至清單，次數不限，但只會出現一次。 人員會保留在清單中，直到您將其移除為止。

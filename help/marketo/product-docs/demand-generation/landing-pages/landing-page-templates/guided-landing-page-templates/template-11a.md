@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本11A {#template-11a}
 
-按一下滑鼠右鍵以 [下載範本11A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)
+按一下右鍵以 [下載範本11A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)
 
 ![](assets/image2015-8-4-9-3a56-3a23.png)
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 * 標題（選用）
 * 主要區段
 
-   * 包括主圖示題、主圖文字和表單
+   * 包含主圖示題、主圖文字和表單
 
 * 四個主體區段（選擇性）
 * 頁尾（選擇性）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本11A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)

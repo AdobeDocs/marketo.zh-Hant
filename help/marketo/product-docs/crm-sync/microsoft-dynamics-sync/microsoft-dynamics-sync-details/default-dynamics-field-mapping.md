@@ -31,15 +31,15 @@ ht-degree: 18%
     <tr>
       <td>Microsoft 建立日期</td>
       <td>建立日期</td>
-      <td>createdon</td>
+      <td>建立</td>
     </tr>
     <tr>
       <td>問候語</td>
       <td>問候語</td>
-      <td>致敬</td>
+      <td>salutation</td>
     </tr>
     <tr>
-      <td>第一個</td>
+      <td>第一</td>
       <td>名字</td>
       <td>firstname</td>
     </tr>
@@ -65,7 +65,7 @@ ht-degree: 18%
     </tr>
     <tr>
       <td>電話</td>
-      <td>商務電話</td>
+      <td>公司電話</td>
       <td>telephone1</td>
     </tr>
     <tr>
@@ -91,12 +91,12 @@ ht-degree: 18%
     <tr>
       <td>州別</td>
       <td>州/省</td>
-      <td>address1_stateorprovince</td>
+      <td>address1_stateorprovidle</td>
     </tr>
     <tr>
       <td>國家</td>
       <td>國家/地區</td>
-      <td>address1_country</td>
+      <td>address1country</td>
     </tr>
     <tr>
       <td>郵遞區號</td>
@@ -149,7 +149,7 @@ ht-degree: 18%
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft不要傳送電子郵件</td>
+      <td>Microsoft不傳送電子郵件</td>
       <td>不允許電子郵件</td>
       <td>donotemail</td>
     </tr>
@@ -160,7 +160,7 @@ ht-degree: 18%
     </tr>
     <tr>
       <td>Microsoft不傳送行銷資料</td>
-      <td>行銷材料</td>
+      <td>行銷資料</td>
       <td>donotsendmm</td>
     </tr>
     <tr>
@@ -179,8 +179,8 @@ ht-degree: 18%
       <td>主旨</td>
     </tr>
     <tr>
-      <td>上一個有趣時刻日期</td>
-      <td>上一個有趣時刻日期</td>
+      <td>上一個有趣的時刻日期</td>
+      <td>上一個有趣的時刻日期</td>
       <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
@@ -194,8 +194,8 @@ ht-degree: 18%
       <td>mkt_leadinterestingmomentsource</td>
     </tr>
     <tr>
-      <td>上一個有趣時刻型別</td>
-      <td>上一個有趣時刻型別</td>
+      <td>上一個有趣的時刻型別</td>
+      <td>上一個有趣的時刻型別</td>
       <td>mkt_lastinterestingmomenttype</td>
     </tr>
     <tr>
@@ -249,7 +249,7 @@ ht-degree: 18%
     </tr>
     <tr>
       <td>建立日期</td>
-      <td>createdon</td>
+      <td>建立</td>
     </tr>
   </tbody>
 </table>
@@ -271,15 +271,15 @@ ht-degree: 18%
     <tr>
       <td>Microsoft 建立日期</td>
       <td>建立日期</td>
-      <td>createdon</td>
+      <td>建立</td>
     </tr>
     <tr>
       <td>問候語</td>
       <td>問候語</td>
-      <td>致敬</td>
+      <td>salutation</td>
     </tr>
     <tr>
-      <td>第一個</td>
+      <td>第一</td>
       <td>名字</td>
       <td>firstname</td>
     </tr>
@@ -305,7 +305,7 @@ ht-degree: 18%
     </tr>
     <tr>
       <td>電話</td>
-      <td>商務電話</td>
+      <td>公司電話</td>
       <td>telephone1</td>
     </tr>
     <tr>
@@ -326,12 +326,12 @@ ht-degree: 18%
     <tr>
       <td>州別</td>
       <td>地址1：州/省</td>
-      <td>address1_stateorprovince</td>
+      <td>address1_stateorprovidle</td>
     </tr>
     <tr>
       <td>國家</td>
       <td>地址1：國家/地區</td>
-      <td>address1_country</td>
+      <td>address1country</td>
     </tr>
     <tr>
       <td>郵遞區號</td>
@@ -369,7 +369,7 @@ ht-degree: 18%
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft不要傳送電子郵件</td>
+      <td>Microsoft不傳送電子郵件</td>
       <td>不允許電子郵件</td>
       <td>donotemail</td>
     </tr>
@@ -384,13 +384,13 @@ ht-degree: 18%
       <td>preferredcontactmethodcode</td>
     </tr>
     <tr>
-      <td>上一個有趣時刻日期</td>
-      <td>上一個有趣時刻日期</td>
+      <td>上一個有趣的時刻日期</td>
+      <td>上一個有趣的時刻日期</td>
       <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
-      <td>上一個有趣時刻型別</td>
-      <td>上一個有趣時刻型別</td>
+      <td>上一個有趣的時刻型別</td>
+      <td>上一個有趣的時刻型別</td>
       <td>mkt_lastinterestingmomenttype</td>
     </tr>
     <tr>
@@ -405,7 +405,7 @@ ht-degree: 18%
     </tr>
     <tr>
       <td>Microsoft不傳送行銷資料</td>
-      <td>行銷材料</td>
+      <td>行銷資料</td>
       <td>donotsendmm</td>
     </tr>
     <tr>
@@ -446,7 +446,7 @@ ht-degree: 18%
   </tbody>
 </table>
 
-以下連絡人欄位會同步供內部使用。
+以下連絡人欄位會同步以供內部使用。
 
 <table>
   <colgroup>
@@ -464,7 +464,7 @@ ht-degree: 18%
     </tr>
     <tr>
       <td>建立日期</td>
-      <td>createdon</td>
+      <td>建立</td>
     </tr>
     <tr>
       <td>parentcustomerid</td>
@@ -505,7 +505,7 @@ ht-degree: 18%
     <tr>
       <td>帳單國家</td>
       <td>地址1：國家/地區</td>
-      <td>address1_country</td>
+      <td>address1country</td>
     </tr>
     <tr>
       <td>帳單郵遞區號</td>
@@ -548,7 +548,7 @@ ht-degree: 18%
       <td>收入</td>
     </tr>
     <tr>
-      <td>公司備註</td>
+      <td>公司附註</td>
       <td>說明</td>
       <td>說明</td>
     </tr>
@@ -570,7 +570,7 @@ ht-degree: 18%
     <tr>
       <td>員工人數</td>
       <td>員工人數</td>
-      <td>numberofemployees</td>
+      <td>number女性</td>
     </tr>
     <tr>
       <td>SIC 代碼</td>
@@ -585,12 +585,12 @@ ht-degree: 18%
     <tr>
       <td>員工人數</td>
       <td>員工人數</td>
-      <td>numberofemployees</td>
+      <td>number女性</td>
     </tr>
   </tbody>
 </table>
 
-以下「帳戶」欄位會同步供內部使用。
+以下帳戶欄位會同步以供內部使用。
 
 <table>
   <colgroup>
@@ -608,7 +608,7 @@ ht-degree: 18%
     </tr>
     <tr>
       <td>建立日期</td>
-      <td>createdon</td>
+      <td>建立</td>
     </tr>
   </tbody>
 </table>
@@ -648,7 +648,7 @@ ht-degree: 18%
       <td>名稱</td>
     </tr>
     <tr>
-      <td>估計值</td>
+      <td>預計值</td>
       <td>估計 收入</td>
       <td>estimatedValue</td>
     </tr>
@@ -660,7 +660,7 @@ ht-degree: 18%
   </tbody>
 </table>
 
-以下「帳戶」欄位會同步供內部使用。
+以下帳戶欄位會同步以供內部使用。
 
 <table>
   <colgroup>
@@ -687,7 +687,7 @@ ht-degree: 18%
   </tbody>
 </table>
 
-## Marketo中的Microsoft相關系統欄位（唯讀） {#microsoft-related-system-fields}
+## Marketo中Microsoft相關的系統欄位（唯讀） {#microsoft-related-system-fields}
 
 以下欄位是在Marketo中建立的，但使用者無法調整。
 
@@ -703,11 +703,11 @@ ht-degree: 18%
     </tr>
     <tr>
       <td>Microsoft 類型</td>
-      <td>潛在客戶或連絡人。 如果留空，則潛在客戶只會以Marketo中的個人身分存在</td>
+      <td>潛在客戶或連絡人。 如果空白，該潛在客戶在Marketo中只會以個人身分存在</td>
     </tr>
     <tr>
       <td>Microsoft 建立日期</td>
-      <td>在MS Dynamics中建立的日期(可以與Marketo中建立的日期不同)</td>
+      <td>在MS Dynamics中建立的日期(可能與Marketo中的建立日期不同)</td>
     </tr>
     <tr>
       <td>Microsoft已刪除</td>

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147302
-description: 刪除行銷行事曆 — Marketo檔案 — 產品檔案中的篩選器
+description: 刪除行銷行事曆中的篩選器 — Marketo檔案 — 產品檔案
 title: 刪除行銷行事曆中的篩選器
 exl-id: 1c53f346-ab35-44d4-9b8a-6e31f97044ca
 feature: Marketing Calendar
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 刪除行銷行事曆中的篩選器 {#deleting-a-filter-in-the-marketing-calendar}
 
-如果您想要刪除行銷行事曆中的篩選器，您來對地方了。
+如果您要刪除行銷行事曆中的篩選器，您來對地方了。
 
 1. 選取您要刪除的篩選器。
 

@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/two-2.png)
 
-1. 如果這是您的第一個自訂物件，請按一下 **同步結構描述。** 否則按一下 **重新整理結構描述** 以確保您擁有最新版本。
+1. 如果這是您的第一個自訂物件，請按一下 **同步結構描述。** 否則，請按一下 **重新整理結構描述** 以確保您擁有最新版本。
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
-1. 選取您要同步的物件並按一下 **啟用同步**.
+1. 選取您要同步的物件，然後按一下 **啟用同步**.
 
    >[!TIP]
    >
-   >只有在Marketo與Salesforce中的Lead、Contact或Account物件有直接關係時，才能同步自訂物件。
+   >Marketo只有在與Salesforce中的Lead、Contact或Account物件有直接關係時，才能同步自訂物件。
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
@@ -61,11 +61,11 @@ ht-degree: 0%
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
-## 使用自訂物件 {#using-your-custom-objects}
+## 使用您的自訂物件 {#using-your-custom-objects}
 
 >[!NOTE]
 >
->您無法在具有觸發器的智慧行銷活動中使用自訂物件。
+>您無法在包含觸發器的智慧行銷活動中使用自訂物件。
 
 1. 在您的智慧清單中，拖曳至 **有機會** 篩選並設為 **true**.
 
@@ -75,8 +75,8 @@ ht-degree: 0%
 
    ![](assets/image2015-8-24-14-3a18-3a53.png)
 
-   太棒了！ 您現在可以在智慧行銷活動和智慧清單中使用此自訂物件的資料。
+   太好了！ 您現在可以在智慧行銷活動和智慧清單中使用此自訂物件的資料。
 
 >[!MORELIKETHIS]
 >
->[新增/移除自訂物件欄位作為智慧清單/觸發條件約束](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+>[新增/移除自訂物件欄位做為智慧清單/觸發條件約束](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)

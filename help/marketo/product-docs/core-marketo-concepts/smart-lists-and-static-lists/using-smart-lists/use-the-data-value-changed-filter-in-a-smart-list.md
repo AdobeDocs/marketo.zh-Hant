@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在智慧清單中使用資料值變更篩選器 {#use-the-data-value-changed-filter-in-a-smart-list}
 
-Marketo資料庫中的值會不斷變更和更新。 有時候，您會想要尋找有價值變更的人，而不是尋找特定值。 方法如下。
+Marketo資料庫中的值會持續變更和更新。 有時候，您會想要尋找有價值變更的人，而不是尋找特定值。 方法如下。
 
 >[!PREREQUISITES]
 >
@@ -35,4 +35,4 @@ Marketo資料庫中的值會不斷變更和更新。 有時候，您會想要尋
 
    ![](assets/four.png)
 
-此篩選器將尋找其狀態有變更（任何變更）的所有人員。 如果您想要更精彩，請試試 [新增限制至智慧清單篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md).
+此篩選器將尋找所有已變更（任何變更）其狀態的人。 如果您想要更花哨，請試試 [新增限制至智慧清單篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md).

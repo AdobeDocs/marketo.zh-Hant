@@ -20,7 +20,7 @@ ht-degree: 0%
 >
 >**需要管理員許可權。**
 
-1. 為您的Marketo執行個體啟用Dynamic Chat後，指定的系統管理員將收到一封歡迎電子郵件。 在該電子郵件中，按一下 **開始使用**.
+1. 為您的Marketo執行個體啟用Dynamic Chat後，指定的系統管理員將會收到歡迎電子郵件。 在該電子郵件中，按一下 **開始使用**.
 
    ![](assets/initial-setup-1.png)
 

@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # SFDC同步：銷售機會/帳戶擁有者同步 {#sfdc-sync-lead-account-owner-sync}
 
-這些欄位在技術上會同步Salesforce中的「使用者」表格，但我們會將其稱為銷售機會/帳戶擁有者欄位。
+技術上來說，這會同步Salesforce中的「使用者」表格，但我們會將其稱為銷售機會/帳戶擁有者欄位。
 
 ## 哪些欄位會同步至Marketo？ {#which-fields-will-sync-to-marketo}
 
-對於同步至Marketo的每個人，我們也會同步下列擁有者欄位：
+對於同步至Marketo的每個人，我們也會同步以下擁有者欄位：
 
-* 銷售負責人名字
+* 銷售擁有者名字
 * 銷售負責人姓氏
 * 銷售擁有者職稱
 * 銷售負責人電話號碼
@@ -37,15 +37,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您無法使用變更所有者資訊 [使用人員詳細資料頁面](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+>您無法使用變更擁有者資訊 [使用人員詳細資料頁面](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
-## 我可以使用這個資料做什麼？ {#what-can-i-do-with-this-data}
+## 我可以如何處理這些資料？ {#what-can-i-do-with-this-data}
 
 使用此資料的原因很多，例如
 
-* 傳送包含銷售負責人簽名的個人化電子郵件
-* 篩選特定銷售代表，以便行銷或甚至分析成效
+* 傳送包含銷售擁有者簽名的個人化電子郵件
+* 篩選特定銷售代表，以進行行銷或甚至分析成效
 * Marketo中的指派（和重新指派）規則
-* 在下列專案中使用它們 [變更擁有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)， [將人員同步至SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)、和 [建立任務](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 流程動作
+* 在中使用它們 [變更擁有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)， [將人員同步至SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)、和 [建立任務](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 流程動作
 
-Marketo確實擁有出色的Salesforce同步功能。 沒有其他人能做得這麼好！
+Marketo的Salesforce同步處理確實非常棒。 沒有人能做得這麼好！

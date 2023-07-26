@@ -16,7 +16,7 @@ ht-degree: 3%
 
 ## 執行搜尋 {#performing-a-search}
 
-1. 在全域導覽中，按一下搜尋圖示。
+1. 在「全域導覽」中，按一下搜尋圖示。
 
    ![](assets/using-the-global-search-1.png)
 
@@ -28,7 +28,7 @@ ht-degree: 3%
 
    ![](assets/using-the-global-search-3.png)
 
-1. 在此範例中，我們選擇直接接收我們正在尋找的電子郵件。 按一下電子郵件的名稱。
+1. 在此範例中，我們選取直接接收我們正在尋找的電子郵件。 按一下電子郵件的名稱。
 
    ![](assets/using-the-global-search-4.png)
 
@@ -48,19 +48,19 @@ ht-degree: 3%
   </tr>
   <tr>
    <td>2</td> 
-   <td>對應專案/目的地的路徑（階層連結）</td> 
+   <td>前往個別專案/目的地的路徑（階層連結）</td> 
   </tr>
   <tr>
    <td>3</td> 
-   <td>上次修改專案/目的地的日期與時間</td> 
+   <td>上次修改專案/目的地的日期和時間</td> 
   </tr>
   <tr>
    <td>4</td> 
-   <td>建立專案/目的地的日期與時間</td> 
+   <td>建立專案/目的地的日期和時間</td> 
   </tr>
   <tr>
    <td>5</td> 
-   <td>實作重點篩選條件以縮小搜尋結果範圍</td> 
+   <td>實作重點篩選條件以縮小搜尋結果</td> 
   </tr>
  </tbody>
 </table>

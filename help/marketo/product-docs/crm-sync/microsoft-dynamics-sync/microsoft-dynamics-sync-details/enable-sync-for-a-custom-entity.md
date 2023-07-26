@@ -40,7 +40,7 @@ ht-degree: 0%
    >
    >您必須暫時停用全域同步才能啟用或停用自訂實體。
 
-1. 在「資料庫管理」下，按一下 **Dynamics實體同步** 連結。
+1. 在資料庫管理底下，按一下 **Dynamics實體同步** 連結。
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
@@ -52,13 +52,13 @@ ht-degree: 0%
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. 選取您要同步或作為使用的欄位 [限制](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 和/或智慧清單中的觸發器。 完成後，按一下 **啟用同步**.
+1. 選取您要同步或做為使用的欄位 [限制](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 和/或智慧清單中的觸發器。 完成後，按一下 **啟用同步**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
    >[!NOTE]
    >
-   >在同步過程中，您可能會注意到「動態實體同步」專案會從導覽樹狀結構中消失。 這是預期行為，同步完成後將會重新出現。
+   >在同步處理過程中，您可能會注意到「動態實體同步」專案會從導覽樹狀結構中消失。 這是預期行為，同步完成後將會重新出現。
 
 1. 該實體現在有綠色勾號。
 

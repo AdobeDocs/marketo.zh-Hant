@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 將自訂欄位對應至Marketo {#map-custom-fields-to-marketo}
 
-您可能想要收集比Facebook預設儲存的標準資訊更多的資訊，例如某人使用您的線上傳送服務的頻率。 您可以透過以下方式達到此目的 [建立自訂問題](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) 在您的Facebook潛在客戶廣告中。
+您可能希望收集比Facebook預設儲存的標準資訊更多的資訊，例如某人使用您的線上傳送服務的頻率。 您可以透過以下方式達成此目標 [建立自訂問題](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) 在您的Facebook潛在客戶廣告中。
 
-不過， **Marketo不會自動開始收集此資料**. 為了讓Marketo開始擷取自訂欄位值，您可以 **必須** 將這些自訂欄位對應至Marketo中的欄位。
+不過， **Marketo不會自動開始收集此資料**. 為了讓Marketo開始擷取自訂欄位值，您 **必須** 將這些自訂欄位對應至Marketo中的欄位。
 
 以下說明如何在管理員的LaunchPoint區域中設定此專案。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 前往「管理」區域並按一下 **啟動點**. 在「已安裝服務」下，尋找並編輯 **facebook銷售機會廣告**.
+1. 前往「管理」區域並按一下 **啟動點**. 在「已安裝服務」下，尋找並編輯 **facebook潛在客戶廣告**.
 
    ![](assets/image2017-10-24-9-3a32-3a16.png)
 
@@ -31,15 +31,15 @@ ht-degree: 0%
 
    ![](assets/image2017-10-24-14-3a55-3a13.png)
 
-1. 將授權帳戶維持原狀 — do **not** 進行任何變更。 按一下 **下一個**.
+1. 將授權帳戶維持原狀 — 執行 **非** 進行任何變更。 按一下 **下一個**.
 
    ![](assets/image2017-10-24-14-3a56-3a48.png)
 
-1. 和以前一樣，將選取的頁面維持原狀 — 執行 **not** 進行任何變更。 按一下 **下一個**.
+1. 和以前一樣，將選取的頁面保持原樣 — 執行 **非** 進行任何變更。 按一下 **下一個**.
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 
-1. 您可以在此處將自訂Facebook欄位對應至您的Marketo欄位。 按一下 **新增。**
+1. 這裡是您將自訂Facebook欄位對應到Marketo欄位的地方。 按一下 **新增。**
 
    ![](assets/image2017-10-24-9-3a33-3a49.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您在Marketo中還沒有欄位可將Facebook欄位對應到，請瞭解如何 [建立自訂欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >如果您在Marketo中尚沒有欄位可將Facebook欄位對應至，請瞭解如何 [建立自訂欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!CAUTION]
 >

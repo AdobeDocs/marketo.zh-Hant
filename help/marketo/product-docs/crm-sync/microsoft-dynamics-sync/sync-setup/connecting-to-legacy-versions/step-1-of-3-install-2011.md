@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 步驟3：安裝Marketo解決方案（2011年內部部署） {#step-of-install-the-marketo-solution-on-premises}
+# 步驟3之1：安裝Marketo解決方案（2011年內部部署） {#step-of-install-the-marketo-solution-on-premises}
 
 在同步Microsoft Dynamics內部部署和Marketo之前，您必須先在Dynamics中安裝Marketo解決方案。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必須擁有 [面對網際網路的部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD)與 [Active Directory同盟服務](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 已設定2.0、2.1或3.0 (ADFS)。 **注意**：當您按一下連結時，IFD檔案會自動下載。
+>您必須擁有 [網際網路對向部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD)與 [Active Directory同盟服務](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 已設定2.0、2.1或3.0 (ADFS)。 **注意**：當您按一下連結時，IFD檔案會自動下載。
 >
 >[下載Marketo銷售機會管理解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 開始之前。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >**需要Dynamics管理員許可權。**
 >
->您需要CRM管理員許可權才能執行此同步處理。
+>您需要CRM系統管理員許可權才能執行此同步處理。
 
 1. 登入 **Dynamics**，選取 **設定** 在左下角選單中。
 
@@ -75,11 +75,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可能會看到顯示「Marketo銷售機會管理已完成，但有警告」的訊息。 這完全符合預期。
+   >您可能會看到顯示「Marketo銷售機會管理已完成，但有警告」的訊息。 這是完全正常的情況。
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. Marketo Lead Management現在會顯示在 **所有解決方案** 頁面。
+1. Marketo銷售機會管理現在會出現在 **所有解決方案** 頁面。
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
@@ -87,12 +87,12 @@ ht-degree: 0%
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 
-不是很糟糕吧？ 來吧，我將繼續帶您完成其餘步驟。
+不是很糟糕吧？ 來吧，我將繼續引導您完成其他步驟。
 
 >[!CAUTION]
 >
->停用任何Marketo SDK傳訊程式都會導致安裝中斷！
+>停用任何Marketo SDK傳訊程式會導致安裝中斷！
 
 >[!MORELIKETHIS]
 >
->[步驟2/3：在Dynamics中設定Marketo同步使用者（2011內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+>[步驟3之2：在Dynamics中設定Marketo同步使用者（2011內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)

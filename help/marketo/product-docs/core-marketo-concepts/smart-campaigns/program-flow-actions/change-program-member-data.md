@@ -1,5 +1,5 @@
 ---
-description: 變更計畫會員資料 — Marketo檔案 — 產品檔案
+description: 變更計畫成員資料 — Marketo檔案 — 產品檔案
 title: 變更方案成員資料
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 變更方案成員資料 {#change-program-member-data}
 
-您可以使用Marketo來更新欄位的值，方法是利用變更資料值流程動作。
+您可以使用Marketo，利用變更資料值流程動作來更新欄位的值。
 
 >[!NOTE]
 >

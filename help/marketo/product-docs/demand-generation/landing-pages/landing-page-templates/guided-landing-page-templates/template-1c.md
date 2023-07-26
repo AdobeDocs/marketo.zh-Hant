@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本1C {#template-1c}
 
-按一下滑鼠右鍵以 [下載範本1C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html)
+按一下右鍵以 [下載範本1C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html)
 
 ![](assets/image2015-5-28-13-3a18-3a56.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 三個主體區段（選擇性）
 * 頁尾（選擇性）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本1C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html)

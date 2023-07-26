@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # 使用機會影響分析器訴說行銷故事 {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
-使用Opportunity Influence Analyzer說明行銷在重要機會中的作用。 顯示行銷如何影響商機，從首次接觸到商機建立與成功，再到更多方面。
+使用機會影響分析器，說明行銷在重要機會中的角色。 顯示行銷如何影響商機，從首次接觸到商機建立與成功，乃至更遠。
 
 >[!PREREQUISITES]
 >
 >[建立機會影響分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. 前往 **分析** 並選取 **機會影響分析器**.
+1. 前往 **Analytics** 並選取 **機會影響分析器**.
 
    ![](assets/analytics-opportunityhand.png)
 
-   Opportunity Influence Analyzer以視覺化方式呈現該機會中涉及的互動、方案和事件成功案例。 讓我們來探索圖表：
+   Opportunity Influence Analyzer以視覺化方式呈現該機會中涉及的互動、程式和事件成功。 讓我們來探索圖表：
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **橘色點** 代表機會中的有趣時刻（已開啟電子郵件、展位造訪、白皮書下載等）。 點越大，表示互動越多。
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **橙色點** 代表機會中的有趣時刻（已開啟電子郵件、商展攤次造訪、白皮書下載等）。 點越大，表示互動越多。
 
-   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **活頁夾圖示** 表示程式成功。
+   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **繫結器圖示** 表示程式成功。
 
    * ![—](assets/image2014-10-3-13-3a44-3a40.png) **行事曆圖示** 表示事件成功。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    * **機會生命週期**. 綠色商機期間之前和之後的灰色區域會顯示導致和遵循商機的互動。
 
-   此 **設定** 面板會列出帳戶的使用者：
+   此 **設定** 面板會列出帳戶中的人員：
 
    * 此 **括弧中的數字** 是與該連絡人的互動次數。
 
@@ -49,16 +49,16 @@ ht-degree: 0%
 
    ![](assets/image2015-6-23-14-3a43-3a35.png)
 
-   圖表會自動調整，以顯示其在機會中的互動。 在此範例中，我們立即看到MegaCorp執行長Sarah Geller深入參與該機會，即使她未在CRM中為該機會指派任何角色。
+   圖表會自動調整，以顯示其在機會中的互動。 在此範例中，我們立即看到MegaCorp執行長Sarah Geller深入參與機會，即使她未在CRM中指派任何角色給此機會。
 
-1. 按一下橘色圓點可檢視互動詳細資料。
+1. 按一下橘色點可檢視互動詳細資訊。
 
    ![](assets/image2015-6-23-14-3a44-3a15.png)
 
-   在我們的範例中，我們瞭解到CEO Sarah Geller瀏覽網站多次，甚至訂閱了部落格。 這表明MegaCorp對商機的興趣，很大程度上是受到行銷計畫和資產的推動。
+   在我們的範例中，我們瞭解到CEO Sarah Geller瀏覽網站多次，甚至訂閱了部落格。 這表明MegaCorp對於這個機會的興趣，很大程度上是受到行銷計畫和資產的推動。
 
-   按一下時間軸上的更多橘色圓點，填寫有助於建立和關閉商機之事件、計畫和有趣時刻的故事。
+   按一下時間軸上的更多橘色點，填寫有助於建立和關閉商機的事件、計畫和有趣時刻的故事。
 
    >[!MORELIKETHIS]
    >
-   >[設定Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+   >[設定機會影響分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo可讓您跨工作區共用模型。 方法如下。
 
-1. 前往 **分析** 區段。
+1. 前往 **Analytics** 區段。
 
    ![](assets/analytics.png)
 

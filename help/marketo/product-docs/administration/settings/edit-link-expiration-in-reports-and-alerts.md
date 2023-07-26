@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360213
 description: 在報表和警報中編輯連結過期 — Marketo檔案 — 產品檔案
-title: 在報告和警報中編輯連結過期
+title: 編輯報告和警示中的連結過期
 exl-id: 9be08798-c413-451b-9b67-893042668061
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 在報告和警報中編輯連結過期 {#edit-link-expiration-in-reports-and-alerts}
+# 編輯報告和警示中的連結過期 {#edit-link-expiration-in-reports-and-alerts}
 
 報表訂閱電子郵件中的連結會在三天後過期。 若要變更這些連結的到期時間，請依照下列步驟進行。
 
@@ -37,4 +37,4 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->此設定僅適用於報表和警示中的連結。 確實如此 **not** 套用至已寄出的電子郵件 [下載報告](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) 連結或行銷電子郵件。
+>此設定僅適用於報表和警示中的連結。 確實如此 **非** 套用至已傳送電子郵件 [下載報告](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) 連結或行銷電子郵件。

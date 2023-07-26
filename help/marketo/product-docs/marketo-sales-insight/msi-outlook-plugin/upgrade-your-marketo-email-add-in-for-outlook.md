@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949279
 description: 升級適用於Outlook的Marketo電子郵件增益集 — Marketo檔案 — 產品檔案
-title: 升級適用於Outlook的Marketo電子郵件增益集
+title: 升級您的Outlook版Marketo電子郵件增益集
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 8%
 
 ---
 
-# 升級適用於Outlook的Marketo電子郵件增益集 {#upgrade-your-marketo-email-add-in-for-outlook}
+# 升級您的Outlook版Marketo電子郵件增益集 {#upgrade-your-marketo-email-add-in-for-outlook}
 
-當適用於Outlook的Marketo電子郵件增益集有新版本可用時，請依照下列指示進行升級。
+有適用於Outlook的新版Marketo電子郵件增益集可用時，請依照下列指示進行升級。
 
 >[!NOTE]
 >
@@ -135,7 +135,7 @@ ht-degree: 8%
 
    >[!NOTE]
    >
-   >在某些情況下，資料將會遺失。 從註冊電子郵件複製它，然後關閉Outlook。
+   >在某些情況下，將會遺失資料。 從註冊電子郵件複製它，然後關閉Outlook。
 
 1. 關閉Microsoft Outlook。
 
@@ -149,7 +149,7 @@ ht-degree: 8%
    >
    >如果安裝失敗，請與您的IT部門合作，確保HTTPS流量不會遭到封鎖。 安裝程式需要開啟HTTPS流量。
 
-1. 按一下 **下一個** ，以安裝在預設位置。
+1. 按一下 **下一個** 以安裝在預設位置。
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
@@ -161,7 +161,7 @@ ht-degree: 8%
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 
-1. 現在請開啟Microsoft Outlook以檢視最新版本的Marketo按鈕。
+1. 現在開啟Microsoft Outlook以檢視最新版本的Marketo按鈕。
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 

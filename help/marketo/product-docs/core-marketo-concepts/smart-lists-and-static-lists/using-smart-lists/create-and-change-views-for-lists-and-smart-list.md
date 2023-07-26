@@ -1,6 +1,6 @@
 ---
 unique-page-id: 557337
-description: 建立和變更清單和智慧清單的檢視 — Marketo檔案 — 產品檔案
+description: 建立和變更清單與智慧清單的檢視 — Marketo檔案 — 產品檔案
 title: 建立和變更清單和智慧清單的檢視
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 建立和變更清單和智慧清單的檢視 {#create-and-change-views-for-lists-and-smart-list}
 
-智慧清單會顯示一組預設欄。 您知道您可以將這些欄編輯為您心中的內容嗎？ 方法如下。
+智慧清單會顯示預設的欄集合。 您知道您可以編輯這些欄以符合您心靈的內容嗎？ 方法如下。
 
 ## 建立檢視 {#create-a-view}
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## 刪除檢視 {#delete-a-view}
 
-1. 選取 **編輯** 您要從「 」中刪除之檢視的選項 **檢視** 下拉式清單。
+1. 選取 **編輯** 您要刪除之檢視的選項 **檢視** 下拉式清單。
 
    ![](assets/smartlist-editcustomview.png)
 

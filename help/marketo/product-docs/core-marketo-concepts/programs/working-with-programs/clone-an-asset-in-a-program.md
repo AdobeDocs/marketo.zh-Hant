@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您需要執行其他步驟，以 [複製登入頁面測試群組](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
+>您需要執行額外的步驟，以 [複製登入頁面測試群組](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
 
 ## 複製本機資產 {#clone-a-local-asset}
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您也可以將資產複製至其他程式。 使用 **計畫** 下拉式清單來進行選取。
+   >您也可以將資產複製至不同的程式。 使用 **計畫** 下拉式選單來進行選取。
 
 1. 太棒了！ 您現在應該會看到新的複製資產。
 

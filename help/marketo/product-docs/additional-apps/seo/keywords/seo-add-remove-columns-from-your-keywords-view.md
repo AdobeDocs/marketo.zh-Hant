@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949243
-description: SEO — 在關鍵字檢視中新增/移除欄 — Marketo檔案 — 產品檔案
+description: SEO — 從關鍵字檢視新增/移除欄 — Marketo檔案 — 產品檔案
 title: SEO — 在關鍵字檢視中新增/移除欄
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
 feature: SEO
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
-   太棒了！ 您現在已自訂您的關鍵字檢視。
+   棒極了！ 您現在已自訂您的關鍵字檢視。
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 

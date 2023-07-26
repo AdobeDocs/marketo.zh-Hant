@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 使用智慧清單篩選報表中的人員 {#filter-people-in-a-report-with-a-smart-list}
 
-使用智慧列示來依特定人員屬性篩選報表。
+使用智慧列示，依特定人員屬性篩選報表。
 
-您可以對下列報表型別使用智慧列示：
+您可以將智慧列示用於下列報表型別：
 
 * [人員績效](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [依狀態區分的人員](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
-1. 按一下 **報告** 索引標籤以檢視篩選後的報表。
+1. 按一下 **報告** 索引標籤以檢視您的篩選報表。
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 

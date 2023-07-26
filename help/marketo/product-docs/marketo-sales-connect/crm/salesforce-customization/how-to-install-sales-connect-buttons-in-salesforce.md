@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 如何在Salesforce中安裝Sales Connect按鈕 {#how-to-install-sales-connect-buttons-in-salesforce}
 
-使用Marketo Sales Connect輕鬆安裝通話、傳送Marketo銷售電子郵件，並新增至Campaign。 您必須在Salesforce中擁有管理員許可權，才能安裝這些欄位。
+使用Marketo Sales Connect輕鬆安裝通話、傳送Marketo銷售電子郵件，並新增至Campaign。 您必須擁有Salesforce管理員許可權，才能安裝這些欄位。
 
 1. 登入 [Salesforce.com.](https://salesforce.com)
 1. 按一下 **自訂**.
 1. 按一下 **銷售機會**.
 1. 按一下 **頁面配置**.
-1. 按一下 **編輯** 在您要新增按鈕的「銷售機會配置」旁邊。
+1. 按一下 **編輯** 在「銷售機會配置」旁，您想要新增按鈕。
 1. 按一下 **按鈕**.
 1. 將Sales Connect按鈕拖放至Lead Details區段。
 1. 按一下 **儲存**.

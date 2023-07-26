@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 匯出機會影響分析器資料 {#export-opportunity-influence-analyzer-data}
 
-若要從Revenue Cycle Explorer報表接收更新並共用它們，您可以訂閱現有報表的任何電子郵件地址。
+若要接收來自Revenue Cycle Explorer報表的更新並共用這些更新，您可以訂閱現有報表的任何電子郵件地址。
 
-1. 前往 **分析** 並選取 **新增** > **新報表訂閱**.
+1. 前往 **Analytics** 並選取 **新增** > **新報表訂閱**.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
    >
    >若要訂閱您在方案中建立的基本報表，請參閱 [訂閱基本報表](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
 
-1. 對於報表來源，請選取 **收入總管**.
+1. 針對報表來源，選取 **收入總管**.
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -31,15 +31,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a42-3a24.png)
 
-1. 輸入電子郵件地址，並設定報表電子郵件的頻率。
+1. 輸入電子郵件地址並設定報表電子郵件的頻率。
 
    ![](assets/image2014-9-17-12-3a42-3a29.png)
 
    >[!NOTE]
    >
-   >任何人都可以透過電子郵件取消訂閱該報告。
+   >任何人都能透過電子郵件取消訂閱該報表。
 
-1. 您的訂閱已設定！ 如果您包含自己的電子郵件地址，則會以電子郵件收到報表。
+1. 您的訂閱已設定！ 如果您加入自己的電子郵件地址，將會以電子郵件收到報表。
 
    ![](assets/image2014-9-17-12-3a42-3a53.png)
 

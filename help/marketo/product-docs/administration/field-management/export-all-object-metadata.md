@@ -45,6 +45,6 @@ ht-degree: 2%
 >
 >確認瀏覽器未封鎖Marketo的快顯視窗。
 
-資料將會匯出為CSV。
+資料將會匯出為CSV檔。
 
 ![](assets/export-all-object-metadata-4.png)

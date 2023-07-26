@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 建立智慧清單目標 {#create-a-smart-list-goal}
 
-目標是追蹤進度和激勵團隊的方法。 它們可與智慧清單結合，以追蹤Marketo中的各種專案。 此外，在您設定智慧清單目標後，當目標用於簡報時，將會每2小時自動更新。
+目標是追蹤進度和激勵團隊的方法。 它們可與智慧清單結合，以追蹤Marketo中的所有各種專案。 此外，在您設定智慧清單目標後，它將在簡報中使用時，每兩小時自動更新。
 
-如同簡報，目標為 [工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) — 特定。
+如同簡報，目標為 [工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)特定的。
 
 1. 前往 **[!UICONTROL 行事曆]**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. 按一下 **[!UICONTROL Presentations]** 右下角。
+1. 按一下 **[!UICONTROL Presentations]** 在右下角。
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. 輸入目標的名稱並輸入 **[!UICONTROL 目標目標]**. 然後按一下 **[!UICONTROL 建立]**.
+1. 輸入目標的名稱，然後輸入 **[!UICONTROL 目標目標]**. 然後按一下 **[!UICONTROL 建立]**.
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
-1. [定義智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md). 可能性是無窮的！
+1. [定義智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md). 無限的可能性！
 
    ![](assets/mql.png)
 
-1. 設定完智慧清單後，按一下 **[!UICONTROL 關閉]** 按鈕，然後返回上一個標籤。
+1. 設定好智慧清單後，按一下 **[!UICONTROL 關閉]** 按鈕，然後返回上一個標籤。
 
    ![](assets/mql2.png)
 

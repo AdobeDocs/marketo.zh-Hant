@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 直接刪除行銷行事曆中的專案 {#delete-entries-directly-in-the-marketing-calendar}
 
-除了 [建立](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} and [editing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} 您可以直接在行銷行事曆中刪除專案。 方法如下。
+除了 [建立](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} and [editing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} 登入點，您可以直接在行銷行事曆中刪除它們。 方法如下。
 
 1. 按一下 **MU** 圖磚。
 

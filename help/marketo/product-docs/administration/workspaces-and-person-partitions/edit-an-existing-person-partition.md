@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360323
-description: 編輯現有人員分割 — Marketo檔案 — 產品檔案
-title: 編輯現有的人員分割
+description: 編輯現有的人員分割區 — Marketo檔案 — 產品檔案
+title: 編輯現有的人員資料分割
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 編輯現有的人員分割 {#edit-an-existing-person-partition}
+# 編輯現有的人員資料分割 {#edit-an-existing-person-partition}
 
 個人資料分割就像擁有第二個（或第三個）資料庫。 分割區可以連結至一或多個工作區。 以下說明如何編輯分割區詳細資訊。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. 在 **[!UICONTROL 個人資料分割]** 索引標籤中，選取您要編輯的人員分割，然後按一下 **[!UICONTROL 編輯人員分割]**.
+1. 在 **[!UICONTROL 人員分割]** 索引標籤，選取要編輯的人員分割區並按一下 **[!UICONTROL 編輯人員分割]**.
 
    ![](assets/edit-an-existing-person-partition-3.png)
 

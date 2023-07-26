@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 新增 [!DNL Zoom] as a [!DNL LaunchPoint] 服務 {#add-zoom-as-a-launchpoint-service}
 
-Marketo管理您的 [!DNL Zoom] 註冊與出席。
+Marketo管理您的 [!DNL Zoom] 報名及出席。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Marketo管理您的 [!DNL Zoom] 註冊與出席。
 
 >[!NOTE]
 >
->的現有訂閱 [!DNL Zoom] 此步驟需要和管理許可權。 擁有您用來登入的電子郵件和密碼 [!DNL Zoom] 庫存量。
+>的現有訂閱 [!DNL Zoom] 此步驟需要與管理許可權。 擁有您用來登入的電子郵件和密碼 [!DNL Zoom] 庫存量。
 
 1. 前往 **[!UICONTROL 管理員]** 區域。
 
@@ -35,7 +35,7 @@ Marketo管理您的 [!DNL Zoom] 註冊與出席。
 
    ![](assets/add-zoom-as-a-launchpoint-service-3.png)
 
-1. 輸入 **[!UICONTROL 顯示名稱]**. 下 **[!UICONTROL 服務]**，選取 **[!UICONTROL 縮放]**.
+1. 輸入 **[!UICONTROL 顯示名稱]**. 在 **[!UICONTROL 服務]**，選取 **[!UICONTROL 縮放]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-4.png)
 
@@ -51,7 +51,7 @@ Marketo管理您的 [!DNL Zoom] 註冊與出席。
 
    ![](assets/add-zoom-as-a-launchpoint-service-7.png)
 
-您的 [!DNL Zoom] 帳戶現已與Marketo同步，且可在以下網址找到： [!UICONTROL 啟動點] 區域。
+您的 [!DNL Zoom] 帳戶現在已與Marketo同步，且可在以下網址找到： [!UICONTROL 啟動點] 區域。
 
 >[!CAUTION]
 >

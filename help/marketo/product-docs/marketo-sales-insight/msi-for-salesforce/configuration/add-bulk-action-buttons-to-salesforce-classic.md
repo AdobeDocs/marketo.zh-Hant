@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 將大量動作按鈕新增至Salesforce Classic{#add-bulk-action-buttons-to-salesforce-classic}
 
-您可以將Marketo按鈕新增至Salesforce版面。 範例如下：
+您可以將Marketo按鈕新增至Salesforce配置圖。 範例如下：
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 

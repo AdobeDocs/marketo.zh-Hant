@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 什麼是TAM階層？ {#what-are-tam-hierarchies}
 
-公司可以擁有多個部門與子公司。 這些公司通常透過稱為階層的父子關係來組織自己。 TAM可以從您的SFDC或MSD整合繼承這些階層，並允許您以單一系列處理不同的部門。
+公司可以有多個部門與子公司。 這些公司通常透過稱為階層的父子關係來組織自己。 TAM可繼承您SFDC或MSD整合的這些階層，並可讓您以單一系列處理不同的部門。
 
 ## 使用TAM階層 {#working-with-tam-hierarchies}
 
-使用TAM階層，您可以快速取得指定帳戶儀表板中整個階層或個別帳戶的相關資訊。
+使用TAM階層，您可以在「具名帳戶控制面板」中快速取得整個階層或個別帳戶的相關資訊。
 
 **不使用階層**
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo介面最多只會顯示10個層級（父帳戶的子帳戶和孫帳戶），不過您可以建立的子帳戶數目沒有限制。
+>Marketo介面最多只會顯示10個層級（父科目的子系與孫系科目），不過您可以建立的子系科目數目沒有限制。
 
 使用定位並報告整個階層 [按一下](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
 

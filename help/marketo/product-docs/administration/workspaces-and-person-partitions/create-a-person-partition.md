@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360315
-description: 建立人員分割 — Marketo檔案 — 產品檔案
+description: 建立人員資料分割 — Marketo檔案 — 產品檔案
 title: 建立個人資料分割
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->首先瞭解 [瞭解工作區和人員資料分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>首先瞭解 [瞭解工作區和人員分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. 前往 **[!UICONTROL 管理員]** 區域。
 
@@ -31,14 +31,14 @@ ht-degree: 0%
 
    ![](assets/create-a-person-partition-2.png)
 
-1. 前往 **[!UICONTROL 個人資料分割]** 標籤並按一下 **[!UICONTROL 新人員分割]**.
+1. 前往 **[!UICONTROL 人員分割]** 標籤並按一下 **[!UICONTROL 新增人員分割]**.
 
    ![](assets/create-a-person-partition-3.png)
 
-1. 為磁碟分割命名，選擇 **[!UICONTROL 工作區]** 將顯示於何處，然後按一下 **[!UICONTROL 建立]**.
+1. 為磁碟分割命名，選擇 **[!UICONTROL 工作區]** 顯示位置，然後按一下 **[!UICONTROL 建立]**.
 
    ![](assets/create-a-person-partition-4.png)
 
-建立分割區後，您應該會看到更新。
+建立資料分割之後，您應該會看到更新。
 
 ![](assets/create-a-person-partition-5.png)

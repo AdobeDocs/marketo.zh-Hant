@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->請參閱 [Marketo API檔案](https://developers.marketo.com/documentation/rest/){target="_blank"} 以瞭解Marketo API的詳細資訊。
+>請參閱 [Marketo API檔案](https://developers.marketo.com/documentation/rest/){target="_blank"} 以取得有關Marketo API的詳細資訊。
 
 ## 必要條件 {#prerequisites}
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 * **訂閱ON24網路廣播**  — 如果您目前沒有訂閱，請直接連絡ON24。 **注意**：需要ON24 Hosted Edition。 不需要ON24事件管理。
 
 * **ON24的管理員許可權**  — 您需要此聯結器才能使用此聯結器，並在ON24系統中建立來賓。
-* **ON24連線認證**  — 您必須在Marketo中輸入此資訊，才能啟用整合：使用者名稱、密碼、使用者端ID和使用者端金鑰。 如果您需要認證的相關協助，請連絡您的ON24客戶經理或ON24支援。
+* **ON24連線認證**  — 您必須在Marketo中輸入這項資訊，才能啟用整合：使用者名稱、密碼、使用者端ID和使用者端金鑰。 如果您需要認證的相關協助，請連絡您的ON24客戶經理或ON24支援。
 * **登錄檔單**  — 使用Marketo表單或非Marketo表單以及適當的API，以確保註冊資料和註冊者資訊傳遞至Marketo。
 * **註冊子行銷活動**  — 您必須在Marketo事件中建立並正確設定註冊子行銷活動，事件合作夥伴整合才能運作。
 
 ## 處理流程 {#process-flow}
 
-請依照下列步驟，使用Marketo On24介面卡建立事件：
+請依照下列步驟，使用Marketo On24轉接器建立事件：
 
 1. [在ON24中建立您的網路研討會活動](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md){target="_blank"}
 1. [設定事件設定並將Marketo與您的網路研討會同步](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}

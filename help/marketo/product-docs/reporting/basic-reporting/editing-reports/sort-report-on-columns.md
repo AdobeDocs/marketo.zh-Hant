@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359996
-description: 欄的排序報告 — Marketo檔案 — 產品檔案
-title: 對欄報告排序
+description: 欄排序報表 — Marketo檔案 — 產品檔案
+title: 對報表進行欄排序
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# 對欄報告排序 {#sort-report-on-columns}
+# 對報表進行欄排序 {#sort-report-on-columns}
 
-使用欄來排序報告中的資料，並讓最重要的數字容易找到。
+使用欄來排序報表中的資料，並讓最重要的數字容易找到。
 
-1. 前往 **分析** (或 **行銷活動**)。
+1. 前往 **Analytics** (或 **行銷活動**)。
 
    ![](assets/login-marketing-activities.png)
 

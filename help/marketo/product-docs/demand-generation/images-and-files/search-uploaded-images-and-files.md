@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359862
-description: 搜尋上傳的影像和檔案 — Marketo檔案 — 產品檔案
-title: 搜尋上傳的影像和檔案
+description: 搜尋已上傳的影像和檔案 — Marketo檔案 — 產品檔案
+title: 搜尋已上傳的影像和檔案
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 搜尋上傳的影像和檔案 {#search-uploaded-images-and-files}
+# 搜尋已上傳的影像和檔案 {#search-uploaded-images-and-files}
 
 在Marketo中，尋找影像和檔案變得輕而易舉。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 >
 >若要開始新的搜尋，請按一下 **x** 在 **快速尋找** 方塊。
 
-腳踩起來，就完成了！
+站起來，你做完了！
 
 >[!MORELIKETHIS]
 >

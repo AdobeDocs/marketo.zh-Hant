@@ -1,6 +1,6 @@
 ---
 unique-page-id: 27656223
-description: 安裝適用於Professional Edition客戶的Salesforce Customization - Marketo檔案 — 產品檔案
+description: 安裝適用於Professional Edition客戶的Salesforce自訂 — Marketo檔案 — 產品檔案
 title: 安裝適用於Professional Edition客戶的Salesforce Customization
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 安裝適用於Professional Edition客戶的Salesforce Customization {#install-salesforce-customization-for-professional-edition-customers}
 
-擁有Salesforce Professional Edition的客戶必須按照以下步驟安裝自訂。
+擁有Salesforce Professional Edition的客戶必須依照這些步驟安裝自訂。
 
 >[!PREREQUISITES]
 >
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/one-4.png)
 
-1. 在「管理設定」底下，按一下 **Salesforce**.
+1. 在管理設定下，按一下 **Salesforce**.
 
    ![](assets/two-4.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
    >
    >如果您已連線，則會看到綠色的「安裝」按鈕。 **不要** 按一下此按鈕，改為繼續執行步驟4。
 
-1. 登入您所連線的Salesforce帳戶，然後按一下 [此連結](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
+1. 登入您連線的Salesforce帳戶，然後按一下 [此連結](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
 1. 您將會被送到Sales Connect安裝頁面。
 
    ![](assets/install-package.png)
@@ -44,15 +44,15 @@ ht-degree: 0%
 1. 選擇您要安裝自訂的使用者：僅限管理員、所有使用者或特定設定檔。
 1. 按一下 **安裝** 按鈕以安裝自訂。
 1. 若要確認安裝成功，請登入您的Salesforce帳戶。
-1. 按一下 **設定**，在搜尋列中搜尋「已安裝的套件」，然後按一下 **已安裝的套件**.
+1. 按一下 **設定**，在搜尋列中搜尋「已安裝的套件」，然後按一下 **已安裝的封裝**.
 
-   您將會在那裡看到Marketo Sales Connect自訂。
+   您會在該處看到Marketo Sales Connect自訂。
 
    若要在Salesforce執行個體中設定Sales Connect，請依照《安裝指南》第7頁的「設定SALES ENGAGE SALESFORCE套件」一節中所述的步驟操作。
 
    >[!NOTE]
    >
-   >Sales Engage是Sales Connect的先前名稱。
+   >Sales Engage是先前的Sales Connect名稱。
 
 ## 指南 {#guides}
 

@@ -14,7 +14,7 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->* 建立 [計畫成員自訂欄位](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
+>* 建立 [方案成員自訂欄位](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
 >* [將Salesforce行銷活動與程式同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
@@ -27,11 +27,11 @@ ht-degree: 5%
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. 按一下 **Salesforce**，然後按一下 **編輯** 「程式成員自訂欄位同步」旁邊。
+1. 按一下 **Salesforce**，然後按一下 **編輯** 「程式成員自訂欄位同步」旁。
 
    ![](assets/program-member-custom-field-sync-2.png)
 
-1. 使用搜尋方塊來找出您要對應的Salesforce欄位。 在此範例中，我們使用Do Not Call。
+1. 使用搜尋方塊來找出您要對應的Salesforce欄位。 在此範例中，我們使用「請勿呼叫」。
 
    ![](assets/program-member-custom-field-sync-3.png)
 
@@ -55,13 +55,13 @@ ht-degree: 5%
 
    >[!IMPORTANT]
    >
-   >對對應欄位上的計畫成員資料所做的變更，日後將會在Marketo和Salesforce之間同步。
+   >對對應欄位上的方案成員資料所做的變更，日後將會在Marketo與Salesforce之間同步。
 
    >[!NOTE]
    >
-   >如果您在Salesforce中重新命名或變更欄位的資料型別，我們將移除該欄位與方案成員自訂欄位的任何對應。 但您可以在檢閱後使用新欄位重新對應。
+   >如果您在Salesforce中重新命名或變更欄位的資料型別，我們將移除該欄位與「方案成員自訂欄位」的任何對應。 但您可在檢閱後使用新欄位將其重新對應。
 
-## 從方案成員自訂欄位取消對應Salesforce欄位 {#unmap-salesforce-fields-from-program-member-custom-fields}
+## 從方案成員自訂欄位中取消對應Salesforce欄位 {#unmap-salesforce-fields-from-program-member-custom-fields}
 
 如果您想釋放欄位來取代它，或只是進行一般變更，則必須先執行取消對應。 方法如下。
 
@@ -69,19 +69,19 @@ ht-degree: 5%
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. 按一下 **Salesforce**，然後按一下 **編輯** 「程式成員自訂欄位同步」旁邊。
+1. 按一下 **Salesforce**，然後按一下 **編輯** 「程式成員自訂欄位同步」旁。
 
    ![](assets/program-member-custom-field-sync-8.png)
 
-1. 使用搜尋方塊來找出您要取消對應的欄位。 在此範例中，我們使用Do Not Call。
+1. 使用搜尋方塊來找出您要取消對應的欄位。 在此範例中，我們使用「請勿呼叫」。
 
    ![](assets/program-member-custom-field-sync-9.png)
 
    >[!TIP]
    >
-   >您可以選取 **已對應** 核取方塊以只檢視對應的欄位。
+   >您可以選取 **已對應** 核取方塊，只檢視對應的欄位。
 
-1. 按一下 **X** 欄位旁邊。
+1. 按一下 **X** 欄位旁。
 
    ![](assets/program-member-custom-field-sync-10.png)
 
@@ -159,5 +159,5 @@ ht-degree: 5%
 >[!MORELIKETHIS]
 >
 >* [變更方案成員資料](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
->* [在方案成員網格上檢視資料](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
+>* [檢視程式成員網格上的資料](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
 >* [SFDC同步 — Campaign同步](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

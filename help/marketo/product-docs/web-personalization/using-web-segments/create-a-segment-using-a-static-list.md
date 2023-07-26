@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用靜態清單建立區段 {#create-a-segment-using-a-static-list}
 
-根據已知Web訪客是否位於您的某個Marketo中，在他們造訪您的網站時劃分他們 [靜態清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md).
+根據已知的Web訪客是否位於您的其中一個Marketo中，在訪客造訪您的網站時對其劃分割槽段 [靜態清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md).
 
 1. 前往 **區段**.
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/four-2.png)
 
-1. 按一下下拉式清單以選取 **是** 或 **不是** （視您需要的而定），並輸入靜態清單的名稱。
+1. 按一下下拉式清單以選取 **是** 或 **不是** （視您想要而定），然後輸入靜態清單的名稱。
 
    ![](assets/five-2.png)
 
-1. 如果要新增多個清單，您必須按一下 **+**. 如果您只想要一個清單，請跳至 [步驟8](#eight).
+1. 如果您想要新增多個清單，則需要按一下 **+**. 如果您只想要一個清單，請跳至 [步驟8](#eight).
 
    ![](assets/six-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >和/或下拉式清單就是如此。 按一下以選取 **和**， **或**，或 **和/或**.
+   >和/或下拉式清單正是如此。 按一下以選取 **和**， **或**，或 **和/或**.
 
 1. 按一下 **儲存** 若要儲存區段或 **儲存並定義行銷活動** 以儲存並前往「行銷活動」頁面。
 

@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 編輯表單中的欄位標籤 {#edit-a-field-label-in-a-form}
 
-您可以將表單上的標籤變更為任何內容 — 您甚至可以使用影像或完全抹除！ 以下是其操作方式。
+您可以將表單上的標籤變更為任何內容 — 您甚至可以使用影像或完全拭除！ 以下是其操作方式。
 
 1. 前往 **行銷活動**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 選取您的表單並按一下 **編輯表單**.
+1. 選擇您的表單並按一下 **編輯表單**.
 
    ![](assets/image2014-9-15-17-3a26-3a27.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您想要變得精彩，可以按一下 ![鉛筆](assets/image2014-9-15-17-3a27-3a7.png). 這會開啟RTF編輯器，讓您前往包含影像、連結等內容的市鎮！
+   >如果您想要精彩，可以按一下 ![鉛筆](assets/image2014-9-15-17-3a27-3a7.png). 這將開啟RTF編輯器，讓您前往包含影像、連結等內容的市鎮！
 
 1. 按一下 **完成**.
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 >
 >別忘了 [核准登入頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 由表單變更所建立。
 
-給你！ 您逐漸成為表單設計人員冠軍。
+您有！ 您逐漸成為表單設計人員冠軍。

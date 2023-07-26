@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本2C {#template-2c}
 
-按一下滑鼠右鍵以 [下載範本2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
+按一下右鍵以 [下載範本2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
 
 ![](assets/image2015-6-4-9-3a31-3a46.png)
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 * 具有標誌和按鈕的頁首（選擇性）
 * 主要區段
 
-   * 包括英雄背景影像、標題、標語、專案符號清單和影片。
+   * 包括主圖背景影像、標題、標語、專案符號清單和視訊。
 
-* 一個內文區段，內含文字和表單（選擇性）
+* 含文字和表單的單一內文區段（選擇性）
 * 頁尾（選擇性）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本2C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)

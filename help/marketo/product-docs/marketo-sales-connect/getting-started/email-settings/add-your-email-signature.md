@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352410
 description: 新增您的電子郵件簽名 — Marketo檔案 — 產品檔案
-title: 新增您的電子郵件簽名
+title: 新增您的電子郵件簽章
 exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 新增您的電子郵件簽名 {#add-your-email-signature}
+# 新增您的電子郵件簽章 {#add-your-email-signature}
 
-我們希望從Sales Connect傳送電子郵件，讓您從自己的電子郵件使用者端傳送電子郵件時，獲得順暢的體驗。 一個很好的做法是新增您的電子郵件簽名。
+我們希望從Sales Connect傳送電子郵件，在您自己的電子郵件使用者端傳送時，能感受到順暢的體驗。 一個很好的做法是新增您的電子郵件簽名。
 
 1. 按一下齒輪圖示並選取 **設定**.
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/add-your-email-signature-2.png)
 
-1. 按一下 **地址與簽名** 並選取您要為其建立簽名的電子郵件身分。
+1. 按一下 **地址和簽名** 並選取您要為其建立簽章的電子郵件身分。
 
    ![](assets/add-your-email-signature-3.png)
 

@@ -21,9 +21,9 @@ ht-degree: 0%
 >
 >如果您有Salesforce Enterprise/Unlimited：
 >
->* [步驟1/3：將Marketo欄位新增至Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [步驟2/3：建立Marketo (Enterprise/Unlimited)的Salesforce使用者](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
->* [步驟3/3：連結Marketo和Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>* [步驟3之1：將Marketo欄位新增至Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [步驟2之3：建立Marketo的Salesforce使用者(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [步驟3之3：連線Marketo與Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
 >* [在Salesforce Enterprise/Unlimited中設定Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 >
 >如果您有Salesforce Professional：
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Salesforce1中的Marketo Sales Insight包括：最佳比對、銷售機會摘要、有趣的時刻，以及「新增至Marketo Campaign」。
+>Salesforce1中的Marketo Sales Insight包括：首選、銷售機會摘要、有趣的時刻，以及「新增至Marketo促銷活動」。
 
 ## 啟用Salesforce1行動應用程式 {#enable-the-salesforce1-mobile-app}
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-5-13-3a51-3a36.png)
 
-1. 下 **索引標籤設定**，選取 _第一個_ **Marketo**.
+1. 在 **索引標籤設定**，選取 _第一_ **Marketo**.
 
    ![](assets/image2015-5-5-13-3a55-3a36.png)
 
@@ -101,7 +101,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >請確定為所有需要的設定檔隱藏Marketo索引標籤！
+   >請務必隱藏所有所需設定檔的Marketo標籤！
 
 ## 自訂標籤 {#customize-tabs}
 
@@ -131,7 +131,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >對您的組織使用的每個「頁面配置」（行銷、銷售等）重複這些步驟。 Contact、Account和Opportunity物件。
+   >對貴組織使用的每個「頁面配置」（行銷、銷售等）重複步驟 連絡人、帳戶和機會物件。
 
    ![](assets/image2015-4-22-17-3a34-3a33.png)
 
@@ -139,11 +139,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a44-3a0.png)
 
-1. 按一下 **Visualforce頁面** 然後拖曳 **潛在行動客戶** 移至行動卡區段。
+1. 按一下 **Visualforce頁面** 然後拖曳 **潛在客戶行動** 移至行動卡區段。
 
    ![](assets/image2015-4-22-17-3a49-3a37.png)
 
-1. 將「高度」變更為66，然後按一下 **確定**.
+1. 將高度變更為66並按一下 **確定**.
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
@@ -153,16 +153,16 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >在快速尋找中輸入「Add to」，以輕鬆找到「Add to Marketo Campaign」。
+   >在快速尋找中輸入「新增至」，以方便尋找新增至Marketo Campaign。
 
 1. 按一下 **儲存**.
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 
-噢！ 您終於能安裝Marketo Sales Insight for Salesforce1了！ 繼續操作，輕輕拍一下自己的後背。
+噢！ 您終於可以安裝Marketo Sales Insight for Salesforce1了！ 繼續操作，輕輕拍一下自己的後背。
 
 >[!MORELIKETHIS]
 >
->* [Salesforce1的最佳選擇](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [Salesforce1中的首選](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
 >* [Salesforce1中的有趣時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
 >* [在Salesforce1中傳送Marketo電子郵件和Campaign及監看清單動作](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)

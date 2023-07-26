@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Microsoft Dynamics同步：欄位同步 {#microsoft-dynamics-sync-field-sync}
 
-Marketo與Dynamics同步處理功能非常強大。 詳情如下。
+Marketo與Dynamics的同步處理功能非常強大。 詳情如下。
 
 ## 兩個系統之間的欄位詳細資料如何保持同步？ {#how-are-field-details-kept-in-sync-between-the-two-systems}
 
-潛在客戶與連絡人實體的同步是雙向的。 如果您變更Dynamics中的銷售機會或連絡人，或Marketo中的人員，您的更新將會反映在這兩個系統中。
+潛在客戶與聯絡人實體的同步是雙向的。 如果您變更Dynamics中的銷售機會或連絡人，或Marketo中的人員，您的更新將會反映在這兩個系統中。
 
-對於帳戶、使用者、商機、團隊和自訂實體，同步是單向的：Dynamics至Marketo。 如果您在Dynamics中變更這些實體，您的更新將會反映在Marketo中。
+對於帳戶、使用者、商機、團隊和自訂實體，同步是單向的：Dynamics與Marketo。 如果您在Dynamics中變更這些實體，您的更新將會反映在Marketo中。
 
 ## 如果兩個系統中的相同欄位同時發生變更，該怎麼辦？ （資料衝突） {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
@@ -37,10 +37,10 @@ Marketo與Dynamics同步處理功能非常強大。 詳情如下。
 
 您可以 [選取要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) 於設定期間。
 
-## 如果我需要在同步Marketo和Dynamics後新增自訂欄位，該怎麼辦？ {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
+## 如果在同步Marketo和Dynamics後需要新增自訂欄位，該怎麼辦？ {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
 您可以隨時新增欄位，並預期資料會從Dynamics重新整理至Marketo。 另請參閱 [使用與Microsoft Dynamics快速同步處理新自訂欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) 以取得詳細資訊。
 
-## 將欄位新增至同步後，如果我想刪除Dynamics中的欄位，該怎麼辦？ {#what-if-i-want-to-delete-a-field-in-dynamics-after-the-field-has-been-added-to-sync}
+## 如果要在欄位新增至同步後刪除Dynamics中的欄位，該怎麼辦？ {#what-if-i-want-to-delete-a-field-in-dynamics-after-the-field-has-been-added-to-sync}
 
-Marketo會儲存要同步之欄位的參考。 如果您刪除Dynamics中的欄位，建議您使用 [同步已停用](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). 然後編輯並儲存，重新整理Marketo中的結構描述 [選取要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+Marketo會儲存要同步之欄位的參考。 如果您刪除Dynamics中的欄位，建議您使用 [同步已停用](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Marketo接著，透過編輯並儲存 [選取要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).

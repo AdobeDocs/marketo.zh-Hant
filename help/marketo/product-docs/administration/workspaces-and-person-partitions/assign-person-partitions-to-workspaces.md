@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 將人員分割指派至工作區 {#assign-person-partitions-to-workspaces}
 
-以下是如何編輯人員分割/工作區指派：
+以下說明如何編輯人員資料分割/工作區指派：
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/assign-person-partitions-to-workspaces-2.png)
 
-1. 選取您的工作區，然後按一下 **[!UICONTROL 編輯工作區]**.
+1. 選取您的工作區並按一下 **[!UICONTROL 編輯工作區]**.
 
    ![](assets/assign-person-partitions-to-workspaces-3.png)
 
@@ -45,9 +45,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* 「[!UICONTROL 所有人員資料分割]「核取方塊表示此工作區可存取系統中的所有人員分割區。
+   >* 「[!UICONTROL 所有人員分割]「核取方塊表示此工作區可存取系統中的所有人員分割區。
    >
-   >* 主要人員分割區是所有人員將輸入的預設位置。 使用 [流程步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) 或 [指派規則](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} 讓員工四處走動。
+   >* 主要人員分割區是預設值，可輸入所有人員。 使用 [流程步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) 或 [指派規則](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} 讓人員四處移動。
 
 1. 按一下 **[!UICONTROL 儲存]**.
 
@@ -61,4 +61,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[瞭解工作區和人員資料分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>[瞭解工作區和人員分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.

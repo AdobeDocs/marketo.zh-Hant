@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 建立內容模式 {#create-content-patterns}
 
-當您設定內容模式時，當網站訪客點按與內容模式相關的HTML網頁時，會自動探索內容。 可用來將HTML頁面（部落格、新聞稿、新聞文章）以內容片段的方式新增至「所有內容」頁面。 當自動探索是根據內容模式時，它會在Web訪客檢視或按一下指向頁面的連結時，探索並追蹤與定義的URL模式相關的HTML頁面。 此內容片段（URL、頁面名稱和中繼資料，包括影像URL和說明）會新增至「所有內容」頁面，以準備預測性內容。 若要自動探索其他內容(例如PDF和內嵌視訊)，您需要 [啟用內容探索](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
+當您設定內容模式時，當網站訪客點按與內容模式相關的HTML網頁時，就會自動探索內容。 可用來將HTML頁面（部落格、新聞稿、新聞文章）以內容片段的方式新增至「所有內容」頁面。 當自動探索是根據內容模式時，它會在Web訪客檢視或按一下頁面的連結時，探索並追蹤與定義的URL模式相關的HTML頁面。 此內容片段（URL、頁面名稱和中繼資料，包括影像URL和說明）會新增至「所有內容」頁面，以準備預測性內容。 若要自動探索其他內容(例如PDF和內嵌視訊)，您需要 [啟用內容探索](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
 1. 前往 **內容設定**.
 
@@ -45,16 +45,16 @@ ht-degree: 0%
 
 ## 內容模式規則 {#content-pattern-rules}
 
-* 您可以在運算式中的任何位置使用萬用字元(例如： _domain.com/&#42;_， _domain.com/&#42;部落格&#42;_)
+* 您可以在運算式中的任何地方使用萬用字元(範例： _domain.com/&#42;_， _domain.com/&#42;部落格&#42;_)
 
-* 我們建議使用/&#42; 在運算式末尾繼續探索模式(範例： _domain.com/blog/&#42;_ 探索Blog資料夾中的所有文章)
+* 我們建議使用/&#42; 在運算式結尾處，繼續模式探索(範例： _domain.com/blog/&#42;_ 探索Blog資料夾中的所有文章)
 * 內容模式不區分大小寫(例如： _domain.com/Blog/&#42;_ 探索上的所有html頁面 _domain.com/Blog_ 和 _domain.com/blog_)
 
 * 未探索URL引數（這可避免探索具有相同內容URL但不同引數的多個專案）
 
 ## 範例 {#examples}
 
-對象 _domain.com_：
+的 _domain.com_：
 
 <table> 
  <tbody> 
@@ -72,7 +72,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td> 
-   <td><p>探索任何包含「資料工作表」一詞的URL：</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
+   <td><p>探索任何包含「資料表」一詞的URL：</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
   </tr> 
   <tr> 
    <td>新聞稿</td> 

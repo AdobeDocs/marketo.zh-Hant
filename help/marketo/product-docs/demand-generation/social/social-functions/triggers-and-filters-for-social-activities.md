@@ -17,13 +17,13 @@ Marketo中的社交應用程式有其專屬的特殊觸發器和篩選器。
 
 >[!AVAILABILITY]
 >
->並非所有客戶都已購買此功能。 如需詳細資訊，請聯絡您的銷售代表。
+>並非所有客戶都已購買此功能。 請聯絡您的銷售代表以取得詳細資訊。
 
-1. 使用社交 _觸發器_，選取您的smart campaign並按一下 **智慧清單** 標籤。 在右側，按一下+以展開 **觸發器**，則 **社交**.
+1. 使用社交 _觸發器_，選取您的智慧行銷活動，然後按一下 **智慧清單** 標籤。 在右側，按一下+以展開 **觸發器**，然後 **社交**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. 使用社交 _篩選器_，按一下 **+** 展開 **篩選器**.
+1. 使用社交 _篩選器_，按一下 **+** 以展開 **篩選器**.
 
    ![](assets/two-282-29.png)
 
@@ -31,15 +31,15 @@ Marketo中的社交應用程式有其專屬的特殊觸發器和篩選器。
 
    | 觸發器/篩選器 | 社交按鈕 | 投票 | 影片 | 反向連結選件 | 抽獎 |
    |---|---|---|---|---|---|
-   | 轉介中的已達成目標 |  |  |  | ![（勾選）](assets/check.png) | |
+   | 轉介中的達成目標 |  |  |  | ![（勾選）](assets/check.png) | |
    | 共用內容 | ![（勾選）](assets/check.png) | ![（勾選）](assets/check.png) | ![（勾選）](assets/check.png) | ![（勾選）](assets/check.png) | ![（勾選）](assets/check.png) |
    | 點按共用連結 | ![（勾選）](assets/check.png) | ![（勾選）](assets/check.png) | ![（勾選）](assets/check.png) | ![（勾選）](assets/check.png) | ![（勾選）](assets/check.png) |
    | 取消抽獎資格 |  |  |  |  | ![（勾選）](assets/check.png) |
-   | 在社交應用程式中賺取登入 |  |  |  |  | ![（勾選）](assets/check.png) |
+   | 在社交應用程式中取得登入 |  |  |  |  | ![（勾選）](assets/check.png) |
    | 進入抽獎 |  |  |  |  | ![（勾選）](assets/check.png) |
    | 參考社交應用程式 |  |  |  | ![（勾選）](assets/check.png) | ![（勾選）](assets/check.png) |
-   | 註冊推薦優惠 |  |  |  | ![（勾選）](assets/check.png) |  |
-   | 投票中的投票 |  | ![（勾選）](assets/check.png) |  |  |  |
+   | 註冊轉介優惠方案 |  |  |  | ![（勾選）](assets/check.png) |  |
+   | 投票表決 |  | ![（勾選）](assets/check.png) |  |  |  |
    | 贏得抽獎 |  |  |  |  | ![（勾選）](assets/check.png) |
 
    >[!MORELIKETHIS]

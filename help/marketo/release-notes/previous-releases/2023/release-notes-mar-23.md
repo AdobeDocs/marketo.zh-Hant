@@ -12,11 +12,11 @@ ht-degree: 5%
 
 # 發行說明： 2023年3月 {#release-notes-mar-23}
 
-下方提供2023年3月發行版本包含的所有功能。 檢視您的Adobe Marketo Engage版本，瞭解是否有功能可用。
+下方提供2023年3月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
 
 >[!AVAILABILITY]
 >
->以星號(![星號](assets/yellow-star.png))為付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
+>以星號(![星形](assets/yellow-star.png))為付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
@@ -26,7 +26,7 @@ ht-degree: 5%
 
 </br>
 
-* **增強元件用於登入頁面範本詳細資訊和表單詳細資訊的功能**：全新UI使用索引標籤提供登入頁面範本詳細資訊和表單詳細資訊中的其他資訊，包括有關已使用所選資產的更多詳細資訊。 透過搜尋、排序和篩選功能，對長長的資產清單執行分析。
+* **增強元件用於登入頁面範本詳細資訊和表單詳細資訊的功能**：全新UI使用索引標籤提供登陸頁面範本詳細資料和表單詳細資料中的其他資訊，包括有關使用已選取資產的資產的更多詳細資訊。 透過搜尋、排序和篩選功能，對長長的資產清單執行分析。
 
 <table> 
   <tr> 
@@ -40,7 +40,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **從登陸頁面移除切換開關和傳統體驗**：淘汰切換開關和登陸頁面的傳統體驗，有助於您完全採用新體驗。 新體驗可讓您完整利用這些資產隨附的功能，而不需依賴舊體驗或持續在兩個體驗之間切換。
+* **從登陸頁面移除切換開關和傳統體驗**：淘汰切換開關和登陸頁面的傳統體驗，有助於您完全採用新體驗。 新體驗可完全利用這些資產所提供的功能，而不需依賴舊有體驗或持續在兩個體驗之間切換。
 
 <table> 
   <tr> 
@@ -54,7 +54,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **樹狀結構節點效能改善**：擁有大量樹狀節點的使用者將看到效能顯著改善。
+* **樹狀節點效能改善**：擁有大量樹狀節點的使用者可大幅改善效能。
 
 <table> 
   <tr> 
@@ -72,7 +72,7 @@ ht-degree: 5%
 
 </br>
 
-* **升級Marketo Facebook整合以使用Facebook Graph API更新**：透過Facebook最近升級至Facebook Graph API v15，現在可以為特定廣告帳戶建立500個自訂對象的限制。
+* **升級Marketo Facebook整合以使用Facebook Graph API更新**：透過Facebook最近升級至Facebook Graph API v15，您為特定廣告帳戶最多可建立500個自訂對象。
 
 <table> 
   <tr> 
@@ -88,7 +88,7 @@ ht-degree: 5%
 
 ## 敏捷發行功能
 
-下列功能遵循敏捷格式，並在標準發行日期之前或之後的各種日期發行。 請檢視每個功能下方的狀態。
+以下功能遵循敏捷格式，並在標準發行日期之前或之後的各種日期發行。 請檢視每個功能下方的狀態。
 
 ### Dynamic Chat {#dynamic-chat}
 
@@ -108,7 +108,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **Dynamic Chat的角色和許可權**：引入Dynamic Chat的角色和許可權，讓管理員可以將應用程式不同區域的可見度和使用量限製為選定的使用者型別。
+* **Dynamic Chat的角色和許可權**：引入角色和Dynamic Chat許可權，讓管理員可限制選定使用者型別在應用程式中不同區域的可見度和使用量。
 
 <table> 
   <tr> 
@@ -122,7 +122,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **聊天作為Dynamic Chat的計畫頻道**：建立新的「聊天」計畫頻道，以追蹤Dynamic Chat所獲得人員的計畫進度。 例如，行銷人員有一個與Dynamic Chat對話方塊相關聯的方案，以擷取新的銷售機會。 他們現在可以將該方案指派給Chat頻道，以便他們可以追蹤潛在客戶何時是方案成員以及他們何時取得了成功。
+* **聊天作為Dynamic Chat的節目頻道**：建立新的「聊天」方案頻道，以追蹤Dynamic Chat所贏取者的方案進度。 例如，行銷人員有一個與Dynamic Chat對話方塊相關聯的方案，以擷取新的銷售機會。 他們現在可以將該方案指派給Chat頻道，以便他們可以追蹤潛在客戶何時是方案成員以及他們何時取得了成功。
 
 <table> 
   <tr> 
@@ -136,7 +136,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **推斷的Dynamic Chat屬性**：確保推斷的IP資料（城市、州/省、國家/地區等） 會針對Dynamic Chat取得的新人員寫入個人記錄。
+* **推斷的Dynamic Chat屬性**：確保推斷的IP資料（城市、州、國家/地區等） 會針對Dynamic Chat取得的新人員寫入個人記錄。
 
 <table> 
   <tr> 
@@ -164,7 +164,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **跳至資料流設計工具預覽中的節點以進行Dynamic Chat**：從預覽面板直接跳至資料流設計工具中的節點。
+* **跳至資料流設計工具預覽中的節點，以進行Dynamic Chat**：從預覽面板直接跳至資料流設計工具中的節點。
 
 <table> 
   <tr> 
@@ -180,4 +180,4 @@ ht-degree: 5%
 
 ## 公告 {#announcements}
 
-* **_產品發行網路研討會_**： [2023年3月和5月Marketo Engage發行網路研討會](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_產品發行網路研討會_**： [2023年3月和5月Marketo Engage版本網路研討會](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # 如何在伺服器上允許列出Sales Connect？ {#how-can-i-allowlist-sales-connect-on-my-server}
 
-很遺憾，無法提供一個靜態IP位址。 Sales Connect已部署至雲端，並利用200多台伺服器來處理電子郵件和使用者請求。 而且提供非常廣泛的範圍對您來說也不會更安全。
+很遺憾，無法提供一個靜態IP位址。 Sales Connect已部署至雲端，並利用200多部伺服器來處理電子郵件和使用者請求。 而且提供非常廣泛的範圍對您來說也不會更安全。

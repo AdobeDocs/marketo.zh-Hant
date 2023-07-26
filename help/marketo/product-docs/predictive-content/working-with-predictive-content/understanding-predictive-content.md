@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 瞭解預測性內容 {#understanding-predictive-content}
 
-在您之後 [核准預測性內容的標題](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)，請在此處處理。 「預測性內容」頁面會顯示您已核准用於預測性內容的所有標題。
+在您之後 [核准預測性內容的標題](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)，請在這裡處理。 「預測性內容」頁面會顯示您已核准用於預測性內容的所有標題。
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
 頁面欄位包括：
 
 * **影像和標題**：內容片段和所選影像的名稱
-* **依來源啟用**：顯示標題是否核准用於多媒體、電子郵件或建議列。
-* **類別**：由您建立，用於將網頁或電子郵件的預測結果分組
+* **依來源啟用**：顯示標題是否核准Rich Media、電子郵件或建議列。
+* **類別**：由您建立，用於分組網頁或電子郵件的預測性結果
 * **點按次數**：建議內容的總點按次數（包括所有來源）
 * **轉換率**：直接轉換除以點按次數計算的百分比。 暫留以檢視其他資料（請參閱下文）
 * **輔助轉換**：在上次造訪中點按建議內容並於稍後完成表單的訪客
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ![](assets/image2017-10-3-9-3a25-3a9.png)
 
-**依來源分析**
+**依來源的Analytics**
 
 篩選啟用的內容分析讓您能夠檢視每個來源的執行狀況。
 
@@ -48,13 +48,13 @@ ht-degree: 0%
 
 ## 依日期顯示Analytics {#display-analytics-by-date}
 
-1. 選取右側的開始和結束日期（如圖所示）。 按一下 **套用**.
+1. 選取右側的開始和結束日期（如所示）。 按一下 **套用**.
 
    ![](assets/predictive-content-filter-by-date-hands.png)
 
 ## 檢視預測內容的表格資料 {#view-table-data-for-predictive-content}
 
-在表格中，您可以從左至右檢視哪些來源已啟用預測性內容：建議列、電子郵件和豐富型媒體。 啟用的來源會以綠色顯示。 您可以在編輯內容時啟用這些功能。
+在表格中，您可以由左至右檢視哪些來源已啟用預測式內容：建議列、電子郵件和豐富型媒體。 啟用的來源會以綠色顯示。 您可以在編輯內容時啟用這些功能。
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -68,6 +68,6 @@ ht-degree: 0%
 >
 >**轉換率**：直接轉換除以點按次數計算的百分比
 >
->**直接轉換**：在同次造訪中按一下建議內容並完成表單的訪客
+>**直接轉換**：在同次造訪中點按建議內容並完成表單的訪客
 >
 >**已點按**：建議內容的總點按次數（包括所有三個來源）

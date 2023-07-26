@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本9A {#template-9a}
 
-按一下滑鼠右鍵以 [下載範本9A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)
+按一下右鍵以 [下載範本9A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)
 
 ![](assets/image2015-7-28-15-3a9-3a26.png)
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 * 主要區段
 
-   * 包括主圖示誌影像、主圖頁首和表單
+   * 包含主圖示誌影像、主圖頁首和表單
 
-* 八個內文區段（選擇性）
-* 頁尾（選擇性）
+* 八個主體區段（選擇性）
+* 頁尾（選填）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本9A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)

@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 新增限制至智慧清單篩選器 {#add-a-constraint-to-a-smart-list-filter}
 
-建立智慧列示時，有些篩選器會有「限制」進階選項。 這些是可新增至篩選器和觸發器的額外條件，有助於進一步縮小搜尋範圍。
+建立智慧列示時，有些濾鏡具有稱為「限制」的進階選項。 這些是可新增至篩選器和觸發器的額外條件，有助於進一步縮小搜尋範圍。
 
-在此範例中，讓我們新增一些限制至 **[資料值已變更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** 篩選以尋找狀態從MQL變更為SQL的使用者。
+在此範例中，我們將一些限制新增至 **[資料值已變更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** 篩選以尋找狀態從MQL變更為SQL的人員。
 
 >[!PREREQUISITES]
 >
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/ma-1.png)
 
-1. 選取含有您要新增限制條件的智慧清單，然後按一下 **智慧清單** 標籤。
+1. 選取含有您即將新增限制之篩選器的智慧清單，然後按一下 **智慧清單** 標籤。
 
    ![](assets/two-3.png)
 
-1. 下 **新增限制**，選取 **上一個值**.
+1. 在 **新增限制**，選取 **上一個值**.
 
    ![](assets/three-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/four-2.png)
 
-1. 下 **新增限制**，選取 **新值**.
+1. 在 **新增限制**，選取 **新值**.
 
    ![](assets/five.png)
 
@@ -47,4 +47,4 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 幹得漂亮！ 按一下 **人員** tab鍵檢視所有擁有 **狀態** 變更自 **MQL** 至 **SQL** 過去30天內。
+1. 做得很好！ 按一下 **人員** tab鍵檢視所有擁有 **狀態** 變更自 **MQL** 至 **SQL** 在過去30天內。

@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[為您的帳戶啟用個人化URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 
-1. 選取登入頁面，然後按一下「 」的設定 **個人化URL**.
+1. 選取登入頁面，然後按一下設定 **個人化URL**.
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
-太棒了！ 現在您已為登陸頁面啟用個人化URL。 將會辨識使用該URL的訪客，且Token可正常運作。
+太棒了！ 現在您已為登陸頁面啟用個人化URL。 系統將識別使用該URL的訪客，且Token可正常運作。

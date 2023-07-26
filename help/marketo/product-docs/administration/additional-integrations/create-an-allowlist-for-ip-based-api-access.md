@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 建立IP型API存取的允許清單 {#create-an-allowlist-for-ip-based-api-access}
 
-有時您只想授予API存取權給特定IP位址或某個位址範圍。 若要這麼做，請先啟用限制，然後指定允許使用API的IP位址。
+有時候，您只想將API存取權授與特定IP位址或某個位址範圍。 若要這麼做，請先啟用限制，然後指定允許使用API的IP位址。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. 在 **[!UICONTROL IP限制]** 區域，按一下 **[!UICONTROL 編輯]，** 或按 **[!UICONTROL 編輯IP限制]** 左上角。
+1. 在 **[!UICONTROL IP限制]** 區域，按一下 **[!UICONTROL 編輯]，** 或按一下 **[!UICONTROL 編輯IP限制]** 左上角。
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >您可以輸入單一IP位址或位址範圍，或使用萬用字元。
 
-1. 按一下 **[!UICONTROL 新增]** 以開啟其他欄位以輸入更多IP位址。
+1. 按一下 **[!UICONTROL 新增]** 以開啟其他欄位來輸入更多IP位址。
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 

@@ -25,13 +25,13 @@ ht-degree: 0%
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
-1. 按一下您要前往的輸入連結URL清單。
+1. 按一下您要前往之輸入連結URL的清單。
 
    ![](assets/image2014-11-20-18-3a28-3a18.png)
 
 >[!TIP]
 >
->您也可以建立新的關鍵字清單，以供您前往。 只需在中輸入您想要的名稱 [!UICONTROL 建立新清單].
+>您也可以建立新的關鍵字清單，以供您執行。 只要在中輸入您想要的名稱 [!UICONTROL 建立新清單].
 
 ## 從清單中移除傳入連結URL {#remove-an-inbound-link-url-from-a-list}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. 暫留在您要移除的傳入連結URL上。 按一下 **[!UICONTROL 新增/從清單移除]**.
+1. 將游標停留在您要移除的傳入連結URL上。 按一下 **[!UICONTROL 新增/從清單移除]**.
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 

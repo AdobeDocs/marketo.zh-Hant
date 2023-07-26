@@ -21,17 +21,17 @@ ht-degree: 0%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
-1. 在「品牌領域」表格中，選取目前的一般領域，然後按一下「編輯」將其變更為貴公司的品牌領域。
+1. 在「品牌領域」表格中，選取目前的一般領域，然後按一下「編輯」將其變更為您公司的品牌領域。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL 新增]** 編輯一般網域後才能運作。 **[!UICONTROL 刪除]** 除非您新增第二個網域，否則無法運作。
+   >**[!UICONTROL 新增]** 編輯一般網域後才能運作。 **[!UICONTROL 刪除]** 在新增第二個網域之前，系統無法運作。
    >
-   >您必須先編輯通用網域，才能新增其他網域。
+   >您必須先編輯一般領域，才能新增其他領域。
 
-1. 輸入預設網域名稱，然後按一下 **[!UICONTROL 下一個]**.
+1. 輸入預設網域的名稱，然後按一下 **[!UICONTROL 下一個]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-4.png)
 
@@ -41,6 +41,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->新增其他品牌領域時，您可以選擇將此領域設為主要領域，用於一或多個工作區，並且所有現有的未傳送電子郵件都會設為「預設」，所有新建立的電子郵件都會預設為主要領域。 您可以根據每封電子郵件覆寫此專案。
+>新增其他商標網域時，您可以選擇將此網域設為主要網域，以供一個或多個工作區使用，且所有現有未傳送電子郵件都會設為「預設」，而所有新建立的電子郵件都會預設為主要網域。 您可以根據每封電子郵件覆寫此專案。
 
-現在，您可以 [新增其他品牌領域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) 您需要workspaces。
+現在，您可以 [新增其他品牌化網域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) 您需要workspaces。

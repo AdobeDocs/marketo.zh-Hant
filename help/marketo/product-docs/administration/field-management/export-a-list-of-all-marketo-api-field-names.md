@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 匯出所有Marketo API欄位名稱的清單 {#export-a-list-of-all-marketo-api-field-names}
 
-如果您使用我們的 [!DNL SOAP API] 或 [!DNL Munchkin API] 您需要一份所有欄位及其API名稱的清單。 以下說明如何取得此清單。
+如果您使用 [!DNL SOAP API] 或 [!DNL Munchkin API] 您需要一份包含所有欄位及其API名稱的清單。 以下說明如何取得此清單。
 
 >[!NOTE]
 >

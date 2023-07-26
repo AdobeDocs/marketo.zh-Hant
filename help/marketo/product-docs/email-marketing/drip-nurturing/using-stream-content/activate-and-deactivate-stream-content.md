@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359669
-description: 啟用和停用串流內容 — Marketo檔案 — 產品檔案
+description: 啟動和停用串流內容 — Marketo檔案 — 產品檔案
 title: 啟用和停用串流內容
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 啟用和停用串流內容 {#activate-and-deactivate-stream-content}
 
-串流內容預設為「關閉」。 啟動內容以在參與鑄造期間將其送出。
+串流內容預設為「關閉」。 啟用內容以在參與鑄造期間傳送它們。
 
 ## 啟動串流內容 {#activate-stream-content}
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >您也可以按一下最上層的齒輪圖示，然後按一下「 」，以啟動串流中的所有內容 **啟用所有內容**.
+   >您也可以按一下最上層的齒輪圖示，然後按一下 **啟用所有內容**.
 
    做得很好！現在您知道如何啟用串流中的內容了。
 

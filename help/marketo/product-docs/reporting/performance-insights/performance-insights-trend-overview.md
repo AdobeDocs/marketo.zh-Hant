@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 效能分析趨勢概觀 {#performance-insights-trend-overview}
 
-趨勢會針對一段期間顯示管道效能。
+趨勢顯示一段時間內的管道效能。
 
 按一下 **趨勢** 標籤以存取此檢視。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/2-1.png)
 
-選取您要用來檢視效能的測量結果。 在此範例中，我們將檢視透過以下方式贏得的機會： [首次接觸](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+選取您要用來檢視效能的測量結果。 在此範例中，我們將檢視透過贏取的機會 [首次接觸](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ![](assets/6-1.png)
 
-選取一或多個管道，折線圖會顯示管道趨勢。 再按一下管道以取消選取。
+選取一或多個管道，折線圖會顯示管道趨勢。 再按一下通道以取消選取。
 
 ![](assets/7.png)
 
@@ -47,10 +47,10 @@ ht-degree: 0%
 
 ![](assets/8.png)
 
-展開管道以檢視其前10個計畫，其餘計畫合併在一起。
+展開管道可檢視其前10個計畫，其餘計畫合併在一起。
 
 ![](assets/9-1.png)
 
 >[!NOTE]
 >
->按一下環圈圖中的管道啟用/停用旁邊的核取方塊。
+>按一下管道旁的核取方塊，可啟用/停用環圈圖中的管道。

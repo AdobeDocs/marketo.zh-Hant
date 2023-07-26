@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## TAM篩選器 {#tam-filters}
 
-1. 選取您的Smart Campaign並按一下 **智慧清單**.
+1. 選取您的智慧行銷活動並按一下 **智慧清單**.
 
    ![](assets/one.png)
 
-1. 按一下 **+** 展開 **帳戶篩選器** 資料夾。
+1. 按一下 **+** 以展開 **帳戶篩選器** 資料夾。
 
    ![](assets/two.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ![](assets/four.png)
 
-...並選擇您想要的帳戶清單。
+...並選擇您需要的帳戶清單。
 
 ![](assets/five.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ## 具名帳戶的成員 {#member-of-named-account}
 
-首先，選擇限定詞。 **是** 指定帳戶或 **為任何** 任何具名帳戶的URL。
+首先，選擇限定詞。 **是** 指定帳戶或 **為任何** 任何具名帳戶的使用者。
 
 ![](assets/six.png)
 
@@ -53,15 +53,15 @@ ht-degree: 0%
 
 ![](assets/seven.png)
 
-...並選擇您想要的具名帳戶。
+...並選取您想要的具名帳戶。
 
 ![](assets/eight.png)
 
-如果您使用「為任何」限定詞，則可能想要使用 [限制](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 以縮小搜尋結果的範圍。 新增任意所需數量！
+如果您使用「為任何」限定詞，則可能想要使用 [限制](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 以縮小搜尋結果的範圍。 新增任意數量的專案！
 
 ![](assets/nine.png)
 
-如果您只想要來自單一、最上層帳戶的成員，請將「包含子系」設為false。 如果您想要所有子帳號中的成員，請選取true。
+如果您只想從單一、最上層帳戶中取得成員，請將「包含子系」設為false。 如果您想要所有子帳號中的成員，請選取true。
 
 ![](assets/ten.png)
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 匯入自訂物件資料 {#import-custom-object-data}
 
-將自訂物件資料匯入資料庫很容易。 如果您對公司使用自訂物件，請參閱 [搭配公司使用自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) 以取得詳細資訊。
+將自訂物件資料匯入資料庫相當容易。 如果您對公司使用自訂物件，請參閱 [搭配公司使用自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) 以取得詳細資訊。
 
 1. 在「我的Marketo」中，前往 **[!UICONTROL 資料庫]**.
 
@@ -31,21 +31,21 @@ ht-degree: 0%
 
    ![](assets/import-custom-object-data-4.png)
 
-1. 選取 [!UICONTROL 重複資料刪除模式] 下拉式清單。 按一下 **[!UICONTROL 下一個]**.
+1. 選取 [!UICONTROL 重複資料刪除模式] 從下拉式清單。 按一下 **[!UICONTROL 下一個]**.
 
    ![](assets/import-custom-object-data-5.png)
 
    >[!NOTE]
    >
-   >建立或更新自訂物件記錄時，請使用重複資料刪除欄位做為唯一識別碼。 此範例使用「 」的「 」重複資料刪除欄位 **car** 自訂物件 — vin （車輛識別碼）。 如果您只更新自訂物件記錄，可以選取 [!UICONTROL Marketo Guid] 作為 [!UICONTROL 重複資料刪除模式].
+   >建立或更新自訂物件記錄時，請使用重複資料刪除欄位做為唯一識別碼。 此範例使用重複資料刪除欄位，該欄位位 **car** 自訂物件 — vin （車輛識別碼）。 如果您只更新自訂物件記錄，可以選取 [!UICONTROL Marketo Guid] 作為 [!UICONTROL 重複資料刪除模式].
 
-1. 將每個欄對應至Marketo欄位，從下拉式清單中選取它。
+1. 將每一欄對應至Marketo欄位，從下拉式清單中選取它。
 
    ![](assets/import-custom-object-data-6.png)
 
    >[!NOTE]
    >
-   >請確定檔案中的值符合您要與其相符的欄位型別（例如，文字、整數等），否則檔案將被拒絕。
+   >請確定檔案中的值與您要比對的欄位型別相符（例如，文字、整數等），否則檔案將被拒絕。
 
 1. 按一下 **[!UICONTROL 下一個]**.
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >在「 」中輸入您的電子郵件地址 **[!UICONTROL 傳送警報至]** 欄位和Marketo會在匯入完成後以電子郵件傳送給您！
+   >在「 」中輸入您的電子郵件地址 **[!UICONTROL 傳送警報至]** 欄位和Marketo會在匯入完成後透過電子郵件通知您！
 
 1. 在熒幕右上角，您會在匯入執行時看到通知，並在匯入完成時看到最終結果。
 

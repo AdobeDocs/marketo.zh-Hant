@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [將Facebook自訂對象新增為LaunchPoint服務](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} 在「管理員」區段中。
+>* [將Facebook自訂對象新增為LaunchPoint Service](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} 在管理員區段中。
 >* [接受Facebook的自訂對象條款](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} 在您的Facebook帳戶內。
 
 >[!TIP]
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-audience-in-facebook-1.png)
 
-1. 選取 **銷售機會** 標籤，然後按一下 **透過Ad Bridge傳送** 圖示加以檢視。
+1. 選取 **銷售機會** 標籤，然後按一下 **透過Ad Bridge傳送** 圖示底端。
 
    ![](assets/create-a-custom-audience-in-facebook-2.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >想要將新對象與目前與廣告集或群組相關聯的現有對象交換嗎？ 選取 **取代現有對象** 核取方塊。 這麼做會 **not** 刪除被取代的對象。
+   >想要將新對象與目前與廣告集或群組相關聯的現有對象交換嗎？ 選取 **取代現有對象** 核取方塊。 這麼做會 **非** 刪除正在取代的對象。
 
 1. 完成後，狀態對話方塊將更新。
 
@@ -64,11 +64,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您推送至Facebook的所有清單都會變成靜態。 Marketo中的智慧列示不會自動更新Facebook中的對象清單，以反映傳輸後所做的任何變更。
+   >您推送至Facebook的所有清單都會變成靜態。 Marketo中的智慧列示不會自動更新Facebook中的對象清單以反映傳輸後所做的任何變更。
 
    >[!TIP]
    >
-   >請參閱 [適用於Marketo客戶的Facebook學習路徑](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}. 它涵蓋您需要瞭解的一切，從建立Facebook頁面，到使用Marketo的廣告網路整合鎖定Facebook廣告目標。
+   >請參閱 [適用於Marketo客戶的Facebook學習路徑](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}. 它涵蓋您需要瞭解的所有內容，從建立Facebook頁面，到使用Marketo的廣告網路整合來鎖定您的Facebook廣告作為目標。
 
    >[!MORELIKETHIS]
    >

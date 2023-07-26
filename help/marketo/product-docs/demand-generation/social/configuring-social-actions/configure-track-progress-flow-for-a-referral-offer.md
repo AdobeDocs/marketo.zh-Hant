@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2950573
-description: 設定追蹤轉介優惠方案的進度流程 — Marketo檔案 — 產品檔案
+description: 設定追蹤反向連結選件的進度流程 — Marketo檔案 — 產品檔案
 title: 設定追蹤反向連結選件的進度流程
 exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
 feature: Social
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 設定追蹤反向連結選件的進度流程 {#configure-track-progress-flow-for-a-referral-offer}
 
-當您 [建立轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)，您可以設定提示，向參與者顯示其獎勵進度。
+當您 [建立轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)，您可以設定提示，向參與者顯示其獲得獎勵的進度。
 
 1. 前往 **行銷活動**.
 
@@ -23,19 +23,19 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 
-1. 在反向連結選件編輯器中，前往 **追蹤進度流程** > **社交網路**.
+1. 在轉介選件編輯器中，前往 **追蹤進度流程** > **社交網路**.
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. 在 **檢視和編輯** 視窗，編輯提示以提醒參與者登入他們曾經註冊您的優惠方案的相同社交網路。
+1. 在 **檢視和編輯** 視窗，編輯提示以提醒參與者登入他們曾經註冊優惠方案的相同社交網路。
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
    >[!NOTE]
    >
-   >若要反白標示您可以編輯的文字，請選取 **顯示編輯** 右上角。
+   >若要反白標示您可以編輯的文字，請選取 **顯示編輯** 在右上角。
 
-1. 編輯鼓勵參與者與更多朋友共用連結的提示。
+1. 編輯提示，鼓勵參與者與更多朋友共用連結。
 
    ![](assets/image2014-9-22-14-3a36-3a22.png)
 
@@ -43,10 +43,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a36-3a36.png)
 
-1. 編輯訊息，通知成功的參與者兌換獎勵的相關促銷代碼。
+1. 編輯訊息，通知成功參與者兌換獎勵的相關促銷代碼。
 
    ![](assets/image2014-9-22-14-3a36-3a43.png)
 
 >[!MORELIKETHIS]
 >
->接下來，按一下 **完成** > **核准並關閉** 和 [發佈您的推薦優惠](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
+>接下來，按一下 **完成** > **核准並關閉** 和 [發佈您的轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).

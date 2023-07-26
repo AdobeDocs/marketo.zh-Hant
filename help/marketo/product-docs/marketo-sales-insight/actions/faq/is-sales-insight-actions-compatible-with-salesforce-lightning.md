@@ -16,8 +16,8 @@ ht-degree: 0%
 
 是，Sales Insight Actions與Salesforce Lightning相容。
 
-請 [按一下這裡](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) 以取得安裝與成功指南。
+請 [按一下這裡](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) 安裝與成功指南中列出的資訊。
 
 >[!NOTE]
 >
->在「銷售機會」和「連絡人」清單檢視中，可以使用大量動作的「銷售分析動作」按鈕。
+>在「銷售機會」與「連絡人」清單檢視中，可以使用大量作業的銷售分析作業按鈕。

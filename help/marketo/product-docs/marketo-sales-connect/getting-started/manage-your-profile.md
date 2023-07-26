@@ -34,13 +34,13 @@ ht-degree: 0%
 
 ## 您的整合 {#your-integrations}
 
-在頁面的右側，您的整合區段會提供您帳戶所有連線的狀態。
+在頁面的右側，您的整合區段提供您帳戶所有連線的狀態。
 
 ![](assets/manage-your-profile-3.png)
 
 >[!NOTE]
 >
->如果您使用Exchange On Prem搭配Sales Connect，它將不會更新傳遞管道（第一行專案）或回覆追蹤（第二行專案）整合狀況檢查。 我們正努力在未來的版本中支援此功能。
+>如果您使用Exchange On Prem搭配Sales Connect，則不會更新傳遞管道（第一行專案）或回覆追蹤（第二行專案）整合健康狀態檢查。 我們正努力在未來的版本中支援此功能。
 
 ## 時區 {#time-zone}
 
@@ -54,15 +54,15 @@ ht-degree: 0%
 
    ![](assets/manage-your-profile-4.png)
 
-1. 若要變更您的語言，請按一下 **語言** 下拉式清單，讓您做出選擇。
+1. 若要變更您的語言，請按一下 **語言** 下拉式清單並做出您的選擇。
 
    ![](assets/manage-your-profile-5.png)
 
-1. 此處的地區設定是指使用者說該語言的區域。 按一下 **地區設定** 下拉式清單，讓您做出選擇。
+1. 這裡的地區設定是指使用者說該語言的地區。 按一下 **地區設定** 下拉式清單並做出您的選擇。
 
    ![](assets/manage-your-profile-6.png)
 
-1. 按一下 **您的時區** 下拉式清單，讓您做出選擇。
+1. 按一下 **您的時區** 下拉式清單並做出您的選擇。
 
    ![](assets/manage-your-profile-7.png)
 
@@ -70,4 +70,4 @@ ht-degree: 0%
 
    ![](assets/manage-your-profile-8.png)
 
-等一下！
+敬請期待！

@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 啟用/停用電子郵件程式中的通訊限制 {#enable-disable-communication-limits-in-an-email-program}
 
-執行電子郵件程式時，您可以選擇略過或遵守 [管理員層級通訊限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). 以下是其操作方式。
+執行電子郵件程式時，您可以選擇忽略或遵守 [管理員層級通訊限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). 以下是其操作方式。
 
 >[!NOTE]
 >
->通訊限製為 [在管理員區段中設定](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) 並協助您避免傳送太多電子郵件給任何人。
+>通訊限製為 [在管理員區段中設定](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) 並協助您避免傳送過多電子郵件給某人。
 
 1. 前往 **行銷活動**.
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    ![](assets/ifaperson.jpg)
 
-   離開 **封鎖非營運電子郵件** 如果勾選，則系統不會將電子郵件傳送給任何收到超過管理員設定允許數量之電子郵件的人。
+   離開 **封鎖非營運電子郵件** 勾選後，系統就不會將電子郵件傳送給任何收到超過管理員設定允許數量之電子郵件的人。

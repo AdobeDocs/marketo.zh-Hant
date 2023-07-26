@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 管理標籤值 {#managing-tag-values}
 
-[標籤](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 用於說明程式。 您可以視需要製作多個元件，每個元件都有唯一值。 以下說明如何管理這些值。
+[標籤](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 用於說明程式。 您可以視需要製作任意數量的元件，每個元件都具有唯一值。 以下說明如何管理這些值。
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/managing-tag-values-2.png)
 
-1. 按一下 **[!UICONTROL 新增]**，則 **[!UICONTROL 新標籤值]**.
+1. 按一下 **[!UICONTROL 新增]**，然後 **[!UICONTROL 新標籤值]**.
 
    ![](assets/managing-tag-values-3.png)
 
@@ -55,22 +55,22 @@ ht-degree: 0%
 
 ## 隱藏標籤值 {#hiding-tag-values}
 
-標籤可能被舊程式使用。 您可以藉由隱藏標籤型別來取代它們，以供日後使用。
+舊程式可能會使用標籤。 您可以藉由隱藏標籤型別來取代它們，以供日後使用。
 
 1. 選取 **[!UICONTROL 標籤]** 並選取 **[!UICONTROL 值]** 您想要隱藏。
 
    ![](assets/managing-tag-values-8.png)
 
-1. 下 **[!UICONTROL 標籤動作]**，選取 **[!UICONTROL 隱藏]**.
+1. 在 **[!UICONTROL 標籤動作]**，選取 **[!UICONTROL 隱藏]**.
 
    ![](assets/managing-tag-values-9.png)
 
-## 顯示隱藏值 {#show-hidden-values}
+## 顯示隱藏的值 {#show-hidden-values}
 
-如果您想要再次檢視隱藏值，請執行下列動作：
+如果您想再次檢視隱藏值，請執行下列動作：
 
 1. 選取 **[!UICONTROL 顯示隱藏專案]** 核取方塊。 檢查完畢後，即可看到隱藏值。
 
    ![](assets/managing-tag-values-10.png)
 
-然後，您可以取消隱藏要用於未來的值。
+接著，您就可以取消隱藏日後要使用的值。

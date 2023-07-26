@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 新增電子郵件指令碼Token至您的電子郵件 {#add-an-email-script-token-to-your-email}
 
-在您完成以下任務後： [已建立您的電子郵件指令碼](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)，您會想要將其新增至電子郵件，以檢視其運作情況。 方法如下。
+在您完成以下任務後： [已建立您的電子郵件指令碼](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)，您想要將其新增至電子郵件，以檢視其運作情況。 方法如下。
 
 >[!NOTE]
 >
@@ -31,11 +31,11 @@ ht-degree: 0%
    >
    >您也可以視需要將Token新增至電子郵件範本。
 
-1. 連按兩下您要新增Token的可編輯區域。
+1. 連按兩下您要新增權杖的可編輯區域。
 
    ![](assets/three-2.png)
 
-1. 將游標放在您要標籤的位置，然後按一下「插入標籤」圖示。
+1. 將游標置於您要標籤的位置，然後按一下「插入標籤」圖示。
 
    ![](assets/four-2.png)
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 >
 >別忘了 [核准電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
 
-完成了！ 傳送此電子郵件時，Token背後的指令碼將會執行並填入內容。
+完成了！ 傳送此電子郵件時，Token後的指令碼將會執行並填入內容。

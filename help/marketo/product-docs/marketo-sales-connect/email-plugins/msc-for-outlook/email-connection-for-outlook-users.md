@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/seven-a.png)
 
-1. 如果您尚未登入Outlook，請輸入登入資訊並按一下 **下一個**. 如果是，請選擇您要連線的帳戶，然後按一下 **下一個**. 在此範例中，我們已登入。
+1. 如果您尚未登入Outlook，請輸入您的登入資訊，然後按一下 **下一個**. 如果您是，請選擇您要連線的帳戶，然後按一下 **下一個**. 在此範例中，我們已登入。
 
    ![](assets/eight-a.png)
 
@@ -76,15 +76,15 @@ ht-degree: 0%
 
    ![](assets/nine-a.png)
 
-   您可以使用此連線來追蹤電子郵件，也可以作為傳遞管道。
+   您可以使用此連線來追蹤電子郵件，並作為傳遞管道。
 
    >[!NOTE]
    >
-   >Outlook Online (Office365)會強制執行自己的傳送限制。 [在此處瞭解更多](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+   >Outlook Online (Office365)會強制執行其本身的傳送限制。 [在此處瞭解更多](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## 正在連線到Exchange On-Premise {#connecting-to-exchange-on-premise}
 
-連線到Exchange內部部署表示您將會收到回覆追蹤、存取Outlook傳遞管道、在Outlook中排程電子郵件以及傳送合規性的功能。
+連線到Exchange內部部署表示您將會收到回覆追蹤、存取Outlook傳遞管道、在Outlook中排程電子郵件以及傳送合規性。
 
 1. 在Sales Connect中，按一下齒輪圖示並選取 **設定**.
 
@@ -123,15 +123,15 @@ ht-degree: 0%
     </tbody>
    </table>
 
-1. 輸入您的認證，然後按一下 **Connect**.
+1. 輸入您的認證，然後按一下 **連線**.
 
    ![](assets/seven-b.png)
 
    >[!NOTE]
    >
-   >如果您在Exchange版本下拉式清單中關閉自動探索，您必須向IT部門詢問Exchange URL。
+   >如果您在Exchange Version下拉式清單中關閉Autodiscover，您必須向IT部門詢問Exchange URL。
 
-   您可以使用此連線來追蹤電子郵件，也可以作為傳遞管道。
+   您可以使用此連線來追蹤電子郵件，並作為傳遞管道。
 
    >[!NOTE]
    >

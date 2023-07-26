@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 設定社交建議流量 {#configure-social-recommend-flow}
 
-建立社交應用程式時，您可以設定社交網路選項，並在使用者註冊時提示使用者。
+當您建立社交應用程式時，可以設定社交網路選擇，並提示使用者在註冊時遇到。
 
 ## 選取要共用的網路 {#select-networks-for-sharing}
 
@@ -47,11 +47,11 @@ ht-degree: 0%
    >
    >在視訊共用中，縮圖會自動產生。
 
-   如果您選擇 **新增動態內容**，頁面的OpenGraph標籤（og：title、og：caption和og：description）和縮圖值會自動新增至Facebook貼文。 請參閱下一個步驟。
+   如果您選擇 **新增動態內容**，頁面的OpenGraph標籤（og：title、og：caption和og：description）值和縮圖會自動新增到Facebook貼文中。 請參閱下一步。
 
-   如果您選擇 **新增靜態內容**，輸入標題、註解和說明，然後上傳影像。 請參閱接下來的兩個步驟。
+   如果您選擇 **新增靜態內容**，輸入標題、標題和說明，然後上傳影像。 請參閱接下來的兩個步驟。
 
-1. 在「檢視和編輯」視窗中，按一下 **顯示編輯** 以自訂將顯示在Facebook貼文中的共用提示和訊息。
+1. 在「檢視和編輯」視窗中，按一下 **顯示編輯** 自訂將在Facebook貼文中顯示的共用提示和訊息。
 
    >[!TIP]
    >
@@ -63,7 +63,7 @@ ht-degree: 0%
    >
    >此 [共用URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) 會自動新增至所有共用訊息。
 
-1. 如果您選擇 **新增靜態內容** 在上方編輯標題、註解和說明，並上傳自訂影像(從您的Marketo影像和檔案)。
+1. 如果您選擇 **新增靜態內容** 在上方編輯標題、標題和說明，並上傳自訂影像(從您的Marketo影像和檔案)。
 
    ![](assets/image2014-9-22-11-3a55-3a14.png)
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 
 1. 按一下 **下一個**.
 
-如果選擇「 」，則頁面的OpenGraph標籤（og：title、og：caption和og：description）和縮圖的值會自動新增到Facebook貼文中。 請參閱下一個步驟。
+如果選擇「 」，則頁面OpenGraph標籤的值（og：title、og：caption和og：description）和縮圖會自動新增到Facebook貼文中。 請參閱下一步。
 
 ## 設定Twitter訊息 {#configure-the-twitter-message}
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >使用 {html_title} 在推文文字中自動顯示頁面標題。
+   >使用 {html_title} 以自動顯示頁面標題。
 
 1. 按一下 **下一個**.
 
@@ -95,9 +95,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-12-3a3-3a21.png)
 
-   如果您選擇 **新增動態** 內容、頁面標籤的值（標題和說明）和縮圖，都會自動新增至LinkedIn貼文。 請參閱下一個步驟。
+   如果您選擇 **新增動態** 內容、頁面標籤的值（標題和說明）以及縮圖，會自動新增至LinkedIn貼文。 請參閱下一步。
 
-   如果您選擇 **新增靜態** 內容，輸入標題、註解和說明，然後上傳影像。 請參閱接下來的兩個步驟。
+   如果您選擇 **新增靜態** 內容，輸入標題、標題和說明，然後上傳影像。 請參閱接下來的兩個步驟。
 
 1. 在 **檢視和編輯** 視窗，按一下 **顯示編輯** 並編輯將顯示在LinkedIn貼文中的共用提示和訊息。
 
@@ -105,9 +105,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >使用 {html_title} 在張貼文字中自動顯示頁面標題。
+   >使用 {html_title} 以自動顯示頁面標題。
 
-1. 如果您選擇 **新增靜態** 編輯標題和說明，並上傳自訂影像(來自您的Marketo影像和檔案)。
+1. 如果您選擇 **新增靜態** 編輯以上內容、標題和說明，以及上傳自訂影像(從您的Marketo影像和檔案)。
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 

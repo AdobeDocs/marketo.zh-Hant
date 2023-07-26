@@ -13,6 +13,6 @@ ht-degree: 0%
 
 # [!DNL Munchkin] {#munchkin}
 
-[!DNL Munchkin] 是您放在網站上的JavaScript程式碼片段。 它會追蹤造訪、點按和表單填寫。 此外，它還有豐富的API可執行各種有趣的工作。
+[!DNL Munchkin] 是您放在網站上的JavaScript程式碼片段。 它可追蹤造訪、點按和表單填寫。 此外，它還有豐富的API可執行各種酷炫動作。
 
-檢視 [開發人員頁面於 [!DNL Munchkin]](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"} 以深入瞭解。
+檢視 [開發人員頁面於 [!DNL Munchkin]](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"} 以進一步瞭解。

@@ -13,7 +13,7 @@ ht-degree: 43%
 
 # 預設Salesforce欄位對應 {#default-salesforce-field-mapping}
 
-當您初次將Marketo帳戶與Salesforce同步時，Marketo會在您內建的Salesforce和Marketo欄位之間自動建立這些關聯。 Marketo也會同步處理潛在客戶、帳戶、商機和聯絡人上的自訂欄位。
+當您初次將Marketo帳戶與Salesforce同步時，Marketo會自動在內建的Salesforce和Marketo欄位之間建立這些關聯。 Marketo也會同步處理潛在客戶、帳戶、商機和聯絡人上的自訂欄位。
 
 ## 潛在客戶欄位 {#lead-fields}
 
@@ -65,11 +65,11 @@ ht-degree: 43%
 | 銷售機會分數 | 分數 |
 | 郵寄城市 | 城市 |
 | 郵寄國家 | 國家 |
-| 郵遞區號 | 郵遞區號 |
+| MailingPostalCode | 郵遞區號 |
 | MailingState | 州別 |
 | 郵寄街 | 地址 |
 | 行動電話 | 手機號碼 |
-| 商務電話 | 電話號碼 |
+| 公司電話 | 電話號碼 |
 | 問候語 | 問候語 |
 | 標題 | 職稱 |
 
@@ -83,7 +83,7 @@ ht-degree: 43%
 | 帳單郵遞區號 | 帳單郵遞區號 |
 | 帳單州/省 | 帳單州別 |
 | 帳單街道 | 帳單地址 |
-| 帳戶說明 | 公司備註 |
+| 帳戶說明 | 公司附註 |
 | 產業 | 產業 |
 | 已刪除 | SFDC 已刪除 |
 | 帳戶名稱 | 公司名稱 |
@@ -96,11 +96,11 @@ ht-degree: 43%
 
 ## Marketo中的Salesforce相關系統欄位（唯讀） {#salesforce-related-system-fields-in-marketo-read-only}
 
-這些欄位是在Marketo中建立的，但客戶無法調整。
+這些欄位是在Marketo中建立，但客戶無法調整。
 
 | 欄位 | 說明 |
 |---|---|
 | SFDC Id | 18個字元的Salesforce Id |
-| SFDC 類型 | 潛在客戶或連絡人。 如果留空，則潛在客戶只會以Marketo中的個人身分存在 |
-| SFDC建立日期 | 在SFDC中建立的日期(可以與Marketo中建立的日期不同) |
-| SFDC已刪除 | 此人員之前在SFDC中，但已被刪除，現在僅居住在Marketo中 |
+| SFDC 類型 | 潛在客戶或連絡人。 如果空白，該潛在客戶在Marketo中只會以個人身分存在 |
+| SFDC建立日期 | 以SFDC建立的日期(可能與Marketo中的建立日期不同) |
+| SFDC已刪除 | 此人之前在SFDC中，但現在已被刪除，僅居住在Marketo中 |

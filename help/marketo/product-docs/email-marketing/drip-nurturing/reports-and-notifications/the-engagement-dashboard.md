@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->參與分數包含您最後三個轉型的資料。 每次轉換後72小時會計算新的轉換。 進一步瞭解 [參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>參與分數包含您最後三個轉換的資料。 每次轉換後72小時會計算新的轉換。 進一步瞭解 [參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## 檢視參與儀表板 {#view-the-engagement-dashboard}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->檢視 [參與串流績效報表](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) 以取得更詳細的統計資料。
+>檢視 [參與資料流績效報表](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) 以取得更詳細的統計資料。
 
 ## 瞭解耗盡Widget {#understand-the-exhaustion-widget}
 
@@ -43,13 +43,13 @@ ht-degree: 0%
 >
 >「筋疲力盡」的人在下一季不會收到任何通訊。
 
-## 瞭解一段時間內的參與度Widget {#understand-the-engagement-over-time-widget}
+## 瞭解一段時間內的參與Widget {#understand-the-engagement-over-time-widget}
 
-顯示一段時間的平均參與分數和內容編輯的影響。
+顯示一段時間的平均參與分數，以及內容編輯的影響。
 
 >[!AVAILABILITY]
 >
->此功能為使用Marketo Revenue Cycle Explorer的客戶的附加元件。 如需其他詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+>此功能可作為附加元件提供給使用Marketo Revenue Cycle Explorer的客戶。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 
@@ -67,8 +67,8 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-_最新_ 和 _最舊_ 是根據上次核准的時間而定。
+_最新_ 和 _Oldest_ 是根據上次核准的時間而定。
 
 >[!NOTE]
 >
->進一步瞭解 [建立參與計畫](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) 深入研究。
+>進一步瞭解 [建立參與計畫](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) 深度剖析。

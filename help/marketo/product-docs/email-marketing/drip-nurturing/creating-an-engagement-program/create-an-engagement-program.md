@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 建立參與計畫 {#create-an-engagement-program}
 
-您可以使用Marketo中的參與計畫，輕鬆完成電子郵件培養。
+您可以使用Marketo中的參與計畫，輕鬆完成電子郵件培育。
 
 1. 前往 **行銷活動**.
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取您要建立參與計畫的資料夾，然後按一下 **新增** 和 **新計畫**.
+1. 選取您要在其中建立參與計畫的資料夾，然後按一下 **新增** 和 **新計畫**.
 
    ![](assets/newprogramlifecycle.jpg)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 
-1. 好了，現在您已擁有參與計畫，讓我們繼續並完善它。
+1. 好了，現在您已擁有參與計畫，讓我們繼續下去並整理一下。
 
    ![](assets/image2014-9-15-15-3a35-3a38.png)
 

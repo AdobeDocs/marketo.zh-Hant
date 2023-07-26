@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 自訂星星和火焰 {#customize-stars-and-flames}
 
-Marketo Sales Insight使用星星和火焰，為潛在客戶安排優先順序。 Marketo會自動決定誰會獲得1-2-3顆星/火焰。 不過，您可以修改公式。 方法如下：
+Marketo Sales Insight使用星星和火焰來排定潛在客戶的優先順序。 Marketo會自動決定誰會獲得1-2-3顆星/火焰。 不過，您可以修改公式。 方法如下：
 
 >[!AVAILABILITY]
 >
->並非所有客戶都已購買此功能。 如需詳細資訊，請聯絡您的銷售代表。
+>並非所有客戶都已購買此功能。 請聯絡您的銷售代表以取得詳細資訊。
 
 >[!NOTE]
 >
@@ -37,9 +37,9 @@ Marketo Sales Insight使用星星和火焰，為潛在客戶安排優先順序�
    >
    >**定義**
    >
-   >**動態**  — 為百分比值，衍生自 [相對資料](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). 太棒了。 建議使用此方法。
+   >**動態**  — 為百分比值，衍生自 [相對資料](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). 棒極了。 建議使用此方法。
    >
-   >**靜態**  — 可讓您定義確切的分數 — 沒有更多百分比，沒有更多秘密調味品。
+   >**靜態**  — 可讓您定義精確的分數 — 沒有更多百分比，沒有更多秘密調味品。
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 
@@ -53,6 +53,6 @@ Marketo Sales Insight使用星星和火焰，為潛在客戶安排優先順序�
 
 >[!NOTE]
 >
->一旦做出變更，重新計算星星和火焰的過程將需要一些時間。 耐心是一種美德。
+>一旦完成變更，重新計算星星和火焰的過程將需要一段時間。 耐心是一種美德。
 
-甜心！ 您剛剛自訂了Marketo計算星星和火焰的方式，以更符合您的業務需求。
+甜心！ 您剛剛自訂Marketo計算星星和火焰的方式，以更符合您的業務需求。

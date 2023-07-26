@@ -4,9 +4,10 @@ title: 管理範本類別
 hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+feature: Sales Insight Actions
+source-git-commit: 7e0708db6abbdf5c151fe05647da7a7b0b3cbd13
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -19,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/manage-template-categories-1.png)
 
-1. 按一下 **+** 表徵圖 **類別**.
+1. 按一下 **+** 圖示旁邊 **類別**.
 
    ![](assets/manage-template-categories-2.png)
 
@@ -33,11 +34,11 @@ ht-degree: 0%
 
    ![](assets/manage-template-categories-4.png)
 
-1. 將滑鼠指標暫留在您要重新命名的範本上，然後按一下資料（三個點）。 選擇 **重新命名**.
+1. 將游標停留在您要重新命名的範本上，然後按一下圓點（三個點）。 選取 **重新命名**.
 
    ![](assets/manage-template-categories-5.png)
 
-1. 輸入新名稱。 按Enter鍵（或按一下畫面上的其他位置）以儲存。
+1. 輸入新名稱。 按下Enter鍵（或按一下畫面上的其他位置）以儲存。
 
    ![](assets/manage-template-categories-6.png)
 
@@ -47,14 +48,14 @@ ht-degree: 0%
 
    ![](assets/manage-template-categories-7.png)
 
-1. 將滑鼠指標暫留在您要重新命名的範本上，然後按一下資料（三個點）。 選擇 **刪除**.
+1. 將游標停留在您要重新命名的範本上，然後按一下圓點（三個點）。 選取 **刪除**.
 
    ![](assets/manage-template-categories-8.png)
 
-1. 按一下 **刪除** 確認。
+1. 按一下 **刪除** 以確認。
 
    ![](assets/manage-template-categories-9.png)
 
 >[!NOTE]
 >
->如果類別中仍有範本，則無法刪除類別。 刪除類別之前，請移動或刪除所有範本。
+>如果類別包含範本，則無法刪除這些類別。 在刪除類別之前移動或刪除所有範本。

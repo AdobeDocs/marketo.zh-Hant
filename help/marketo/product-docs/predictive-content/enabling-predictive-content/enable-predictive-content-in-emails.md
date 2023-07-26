@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11385020
 description: 在電子郵件中啟用預測性內容 — Marketo檔案 — 產品檔案
-title: 在電子郵件中啟用預測性內容
+title: 啟用電子郵件中的預測性內容
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# 在電子郵件中啟用預測性內容 {#enable-predictive-content-in-emails}
+# 啟用電子郵件中的預測性內容 {#enable-predictive-content-in-emails}
 
 為您的電子郵件中的一個或多個影像提供預測性，為每個收件者量身打造體驗。
 
 >[!NOTE]
 >
->建議您在測試和使用預測性內容之前，先為每個類別和每個來源（電子郵件、多媒體和長條）啟用超過五個內容。 更多內容可提供更好的預測性結果。
+>在測試和使用預測性內容之前，建議您為每個類別和每個來源（電子郵件、豐富媒體、長條）啟用超過五個內容。 更多內容可為您提供更好的預測性結果。
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >   * [編輯電子郵件的預測性內容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} 或
 >   * [編輯多媒體預測性內容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} 或
->   * [編輯建議列的預測性內容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
+>   * [編輯建議列的預測內容](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
 >
 >* [核准預測性內容的標題](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 按一下您要進行預測性的影像。 齒輪圖示出現時，按一下並選取 **啟用ContentAI** （ContentAI是預測性內容之前的名稱）。
+1. 按一下您要進行預測性的影像。 齒輪圖示出現時，按一下並選取 **啟用ContentAI** （ContentAI是預測性內容先前的名稱）。
 
    ![](assets/three.png)
 
@@ -51,13 +51,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >選擇特定類別或變更預測性版面配置是選擇性的。
+   >選擇特定類別或變更預測性版面配置為選用。
 
-1. 您的影像現在具有預測性。 如有需要，對其他影像重複步驟3和4。
+1. 您的影像現在具有預測性。 如需其他影像，請重複步驟3和4 （如有需要）。
 
    ![](assets/five.png)
 
-1. 若要預覽電子郵件，請按一下 **預覽** 右上角。
+1. 若要預覽電子郵件，請按一下 **預覽** 位於右上角。
 
    ![](assets/six.png)
 
@@ -75,19 +75,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >傳送範例時，會選取隨機影像。
+   >傳送範例時，將選取隨機影像。
 
 在您核准電子郵件後，電子郵件就會配備預測性內容，而且可以傳送！
 
 >[!CAUTION]
 >
->收件者開啟電子郵件後，預測性影像即遭鎖定。 如果稍後移除內容，收件者將會看到內容所在的損壞影像。
+>收件者開啟電子郵件後，預測性影像即遭鎖定。 如果之後移除內容，收件者將會看到內容所在的損壞影像。
 
 ## 在不使用電子郵件2.0編輯器時新增預測性內容 {#adding-predictive-content-when-not-using-the-email-editor}
 
-如果您未使用 [電子郵件2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"} 範本，只需將範本中的影像標籤為Marketo可編輯的影像元素，即可將預測性內容新增至您的電子郵件。
+如果您未使用 [電子郵件2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"} 範本，只需將範本中的影像標籤為Marketo可編輯的影像元素，即可將預測內容新增至您的電子郵件。
 
-瞭解 [此處為Marketo特定語法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
+瞭解 [此處為Marketo的特定語法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
 
 以下是程式碼應呈現的範例（這只是範例，請勿完全複製下列程式碼）。
 

@@ -19,17 +19,17 @@ ht-degree: 0%
 
    ![](assets/filtering-in-audit-trail-1.png)
 
-1. 下 **[!UICONTROL 安全性]**，選取 **[!UICONTROL 稽核軌跡]**.
+1. 在 **[!UICONTROL 安全性]**，選取 **[!UICONTROL 稽核軌跡]**.
 
    ![](assets/filtering-in-audit-trail-2.png)
 
-1. 按一下篩選圖示。
+1. 按一下篩選器圖示。
 
    ![](assets/filtering-in-audit-trail-3.png)
 
    >[!NOTE]
    >
-   >可能的搜尋參陣列合有很多種。 在此範例中，我們找到： _過去七天所有電子郵件 — 由任何人編輯_.
+   >有許多可能的搜尋參陣列合。 在此範例中，我們找到： _過去七天的所有電子郵件 — 由任何人編輯_.
 
 1. 按一下 **[!UICONTROL 期間]** 下拉式清單並選取 **[!UICONTROL 過去7天]**.
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/filtering-in-audit-trail-7.png)
 
-1. 篩選結果會顯示在左側。
+1. 篩選後的結果會顯示在左側。
 
    ![](assets/filtering-in-audit-trail-8.png)
 
@@ -59,4 +59,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[變更稽核軌跡的詳細資訊](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
+   >[變更稽核軌跡的詳細資料](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)

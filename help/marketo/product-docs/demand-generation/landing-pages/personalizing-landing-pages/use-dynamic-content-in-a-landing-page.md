@@ -19,7 +19,7 @@ ht-degree: 0%
 >* [建立自由格式的登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 >* [新增表單至自由表單登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
-在登入頁面中使用動態內容，可讓人員獲得鎖定目標的資訊。
+在登入頁面中使用動態內容，可讓人員取得鎖定目標的資訊。
 
 ## 新增分段 {#add-segmentation}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities.png)
 
-   按一下您的登入頁面，然後按一下「編輯草稿」。
+   按一下您的登陸頁面，然後按一下「編輯草稿」。
 
    ![](assets/landingpageeditdraft.jpg)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-21-12-3a31-3a20.png)
 
-   輸入「區段」名稱，然後按一下「儲存」。
+   輸入區段名稱，然後按一下儲存。
 
    ![](assets/image2014-9-16-14-3a50-3a5.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 將元素設為動態 {#make-element-dynamic}
 
-1. 將元素從「靜態」拖放至 **動態**.
+1. 將元素從靜態拖放至 **動態**.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## 套用動態內容 {#apply-dynamic-content}
 
-1. 在區段下選取元素，然後按一下 **編輯**. 對每個區段重複此步驟。
+1. 選取區段下的元素，然後按一下 **編輯**. 對每個區段重複。
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >對預設區段內容區塊的變更會套用至所有區段。
+   >預設區段內容區塊的變更會套用至所有區段。
 
    >[!TIP]
    >
@@ -79,5 +79,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用動態內容預覽登入頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [預覽具有動態內容的登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
 >* [在電子郵件中使用動態內容](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)

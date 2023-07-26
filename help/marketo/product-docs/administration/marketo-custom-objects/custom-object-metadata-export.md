@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 自訂物件中繼資料匯出 {#custom-object-metadata-export}
 
-如果您使用我們的SOAP API或Munchkin API，可以匯出自訂物件中繼資料結構。 以下說明如何取得。
+如果您使用我們的SOAP API或Munchkin API，則可匯出自訂物件中繼資料結構。 以下說明取得方式。
 
 >[!AVAILABILITY]
 >
@@ -38,7 +38,7 @@ ht-degree: 0%
 >
 >自訂物件必須處於已核准狀態才能匯出。
 
-您現在有一個試算表，內含自訂物件的結構描述，橫跨三個標籤。
+您現在有一個試算表，內含三個標籤中的自訂物件架構。
 
 ![](assets/custom-object-metadata-export-5.png)
 

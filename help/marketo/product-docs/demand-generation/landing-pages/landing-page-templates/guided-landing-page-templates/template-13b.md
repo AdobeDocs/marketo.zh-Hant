@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本13B {#template-13b}
 
-按一下滑鼠右鍵以 [下載範本13B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html)
+按一下右鍵以 [下載範本13B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html)
 
 ![](assets/image2015-8-11-10-3a48-3a42.png)
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 * 主要區段
 
-   * 包括英雄標題和英雄影片
+   * 包含主圖示題和主圖影片
 
 * 五個內文區段（選擇性）
 * 頁尾（選擇性）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本13B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html)

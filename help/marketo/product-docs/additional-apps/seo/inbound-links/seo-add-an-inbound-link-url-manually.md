@@ -29,8 +29,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您知道您可以 [將傳入連結新增至新清單或現有清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}？ 立即檢視！
+   >您知道您可以 [將您的傳入連結新增至新清單或現有清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}？ 立即檢視！
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
-振作起來！ 您現在應該會看到新URL已新增至清單。 收集所有資料可能需要一些時間。
+搖滾起來！ 您現在應該會看到新的URL已新增至清單中。 收集所有資料可能需要一點時間。

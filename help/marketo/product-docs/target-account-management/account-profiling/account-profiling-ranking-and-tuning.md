@@ -1,6 +1,6 @@
 ---
 unique-page-id: 15695924
-description: 帳戶分析排名與調整 — Marketo檔案 — 產品檔案
+description: 帳戶分析排名和調整 — Marketo檔案 — 產品檔案
 title: 帳戶設定檔排名與調整
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 模型結果 {#model-results}
 
-結果會顯示所有已知科目，依等級加以細分。 A是最高等級，D是最低等級。
+結果會顯示您所有依等級劃分的已知科目。 A是最高等級，D是最低等級。
 
 ![](assets/results.png)
 
-雖然可選用，但建議您選取「自動提升」核取方塊，因為這樣可為您節省大量時間。 不過，如果您想要瀏覽每個帳戶和 [手動新增](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts)，只要保留此方塊未勾選即可。
+雖然這是選擇性的，但建議您選取「自動提升」核取方塊，因為這樣可為您節省大量時間。 不過，如果您想逐一瀏覽每個帳戶和 [手動新增](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts)，只要取消勾選此方塊即可。
 
 <table> 
  <tbody> 
@@ -29,7 +29,7 @@ ht-degree: 0%
    <td><strong>排名</strong></td> 
    <td> 
     <div>
-      根據理想客戶個人檔案的帳戶排名。 A代表最適化，D代表最不適化。 
+      根據理想客戶設定檔的帳戶排名。 A代表最適合，D代表最不適合。 
     </div></td> 
   </tr> 
   <tr> 
@@ -50,7 +50,7 @@ ht-degree: 0%
    <td><strong>模型基準的%</strong></td> 
    <td> 
     <div>
-      擁有此排名的模型基礎帳戶百分比。 
+      模型基準中擁有此等級的帳戶百分比。 
     </div></td> 
   </tr> 
  </tbody> 
@@ -74,14 +74,14 @@ ht-degree: 0%
    <td><strong>合規性</strong></td> 
    <td> 
     <div>
-      認證、與法規遵循相關的職位/僱用。 
+      認證、合規性相關職位/聘用。 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>作業</strong></td> 
    <td> 
     <div>
-      與作業相關的職位/僱用。 
+      與作業相關的職位/聘用。 
     </div></td> 
   </tr> 
   <tr> 
@@ -95,14 +95,14 @@ ht-degree: 0%
    <td><strong>工程</strong></td> 
    <td> 
     <div>
-      技術、架構、工程相關職位/僱用。 
+      技術、架構、工程相關職位/聘用。 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>銷售</strong></td> 
    <td> 
     <div>
-      適用於銷售、銷售相關職位/招聘的解決方案和軟體。 
+      適用於銷售、銷售相關職位/聘用的解決方案與軟體。 
     </div></td> 
   </tr> 
   <tr> 
@@ -116,41 +116,41 @@ ht-degree: 0%
    <td><strong>IT</strong></td> 
    <td> 
     <div>
-      硬體與軟體解決方案、技術、IT相關職位/僱傭。
+      硬體與軟體解決方案、技術、IT相關職位/聘用。
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>財務</strong></td> 
    <td> 
     <div>
-      財務軟體、財務相關職位/僱用。 
+      財務軟體、財務相關職位/聘用。 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>行銷</strong></td> 
    <td> 
     <div>
-      行銷技術與軟體、行銷相關職位/僱傭。 
+      行銷技術與軟體、行銷相關職位/聘用。 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>企業</strong></td> 
    <td> 
     <div>
-      福布斯或Inc的上市或商業合作關係。 
+      Forbes或Inc的上市或商業合作關係。 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>客戶體驗與關係</strong></td> 
    <td> 
     <div>
-      客戶成功與客戶關係職位/僱用。
+      客戶成功與客戶關係職位/聘用。
     </div></td> 
   </tr> 
  </tbody> 
 </table>
 
-將滑鼠懸停在工具提示上，即可取得每欄的說明。
+將滑鼠停留在工具提示上，即可檢視每欄的說明。
 
 ![](assets/tool-tip.png)
 
@@ -158,7 +158,7 @@ ht-degree: 0%
 
 ![](assets/add-icp.png)
 
-勾選「匯出」方塊可讓您在「指定帳戶詳細資訊」頁面上檢視ICP指示器，以及在中使用選取的ICP指示器作為限制 [具名帳戶篩選器](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+勾選「匯出」方塊可讓您在「具名帳戶詳細資訊」頁面上檢視ICP指示器，以及在中使用選取的ICP指示器作為限制 [具名帳戶篩選器](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
@@ -166,7 +166,7 @@ ht-degree: 0%
 >
 >ICP指示器作為限制包含在 **具名帳戶的成員** 篩選器和觸發器。
 
-指標權重會控制每個指標在模型中受到的重要性程度。
+指標權重是控制每個指標在模型中接收的重要性層級。
 
 ![](assets/weightage.png)
 
@@ -174,6 +174,6 @@ ht-degree: 0%
 
 ![](assets/refresh-button.png)
 
-調整完模型後（重新整理模型後），請返回「模型結果」標籤，然後按一下 **儲存並套用排名**.
+當您完成模型調整（重新整理模型後），請返回「模型結果」標籤並按一下 **儲存並套用排名**.
 
 ![](assets/ranks.png)

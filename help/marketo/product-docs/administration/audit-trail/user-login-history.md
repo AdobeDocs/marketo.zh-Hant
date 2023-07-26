@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377958
-description: 使用者登入記錄 — Marketo檔案 — 產品檔案
+description: 使用者登入歷史記錄 — Marketo檔案 — 產品檔案
 title: 使用者登入記錄
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 使用者登入記錄 {#user-login-history}
 
-使用者登入歷程記錄可顯示您的訂閱之登入對象（包括失敗的登入嘗試），有助於維護責任和安全性。
+「使用者登入歷史記錄」會向您顯示登入訂閱的確切人員，包括失敗的登入嘗試，協助您維護責任和安全性。
 
 >[!PREREQUISITES]
 >
@@ -25,9 +25,9 @@ ht-degree: 1%
 * 使用者名稱和電子郵件地址
 * 角色
 * 工作區
-* ip位址
+* IP位址
 
-若要檢視使用者登入記錄，請執行下列動作：
+若要檢視使用者登入歷史記錄：
 
 1. 前往 **[!UICONTROL 管理員]** 區域。
 
@@ -57,7 +57,7 @@ ht-degree: 1%
 
    ![](assets/user-login-history-7.png)
 
-1. 檢查 **[!UICONTROL 僅限失敗的登入]** 方塊以僅顯示搜尋中的失敗登入。
+1. 檢查 **[!UICONTROL 僅限失敗的登入]** 方塊以僅顯示搜尋中失敗的登入。
 
    ![](assets/user-login-history-8.png)
 
@@ -67,8 +67,8 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >使用者介面會顯示最多30天的資料。 如果您需要更多資訊，可以將最近六個月的資料下載為csv檔案。
+   >使用者介面會顯示最多30天的資料。 如果您需要更多資訊，可以將最近六個月的資料下載到csv檔案中。
 
    >[!MORELIKETHIS]
    >
-   >[稽核軌跡概述](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
+   >[稽核軌跡概觀](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)

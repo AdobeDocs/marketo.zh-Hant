@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 從不受信任的來源匯入清單期間封鎖欄位更新 {#block-field-updates-during-list-import-from-untrusted-sources}
 
-某些清單中的資料較其他清單中的資料更值得信任。 有時候，您會有可疑的資料，並且如果欄位為空白就想要取得，但現有值時則不行。 您可以封鎖關鍵欄位的欄位更新來完成此操作。
+某些清單中的資料比其他清單中的資料更可信。 有時候，您會有可疑的資料，如果欄位為空白，您會想要取得，但如果現有值則不然。 您可以封鎖主要欄位的欄位更新來完成此操作。
 
 >[!NOTE]
 >
@@ -33,22 +33,22 @@ ht-degree: 0%
 
    ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
 
-1. Check **[!UICONTROL 清單匯入不受信任的來源]** 並按一下 **[!UICONTROL 套用]**.
+1. 檢查 **[!UICONTROL 清單匯入不受信任的來源]** 並按一下 **[!UICONTROL 套用]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-4.png)
 
 >[!TIP]
 >
->您可以透過檢查來確保所有清單中受信任和未受信任的欄位的安全 **[!UICONTROL 清單匯入信任的來源]**.
+>您可以檢查欄位，防止所有清單中的欄位受到信任和不受信任 **[!UICONTROL 列出匯入信任的來源]**.
 
-針對您想要防止不受信任清單影響的任何其他欄位，重複上述步驟。
+針對您想要防止未受信任清單出現的任何其他欄位，重複上述步驟。
 
 ## 執行不受信任的清單匯入 {#running-an-untrusted-list-import}
 
-1. 執行清單匯入時，請務必選取 **[!UICONTROL 不受信任]** 如果您希望在上一步中設定的所有欄位都是安全的。
+1. 執行清單匯入時，請務必選取 **[!UICONTROL 未受信任]** 如果您希望在上一步中設定的所有欄位都是安全的。
 
    ![](assets/blocking-field-updates-from-untrusted-sources-5.png)
 
 如需匯入清單的詳細說明，請參閱 [匯入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
-做得很好！現在您知道如何保護金鑰欄位免受不受信任清單的侵擾。
+做得很好！現在您知道如何保護金鑰欄位免受不受信任清單的影響。

@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 排程您的應用程式內訊息 {#schedule-your-in-app-message}
 
-立即傳送您的訊息或排程稍後傳送。
+立即傳送您的訊息，或排程稍後傳送。
 
-1. 若要排程應用程式內訊息，請選取 **設定未來的日期** 並從下拉式行事曆中選擇開始日期。
+1. 若要排程應用程式內訊息，請選取 **設定未來日期** 並從下拉式行事曆中選擇開始日期。
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -23,12 +23,12 @@ ht-degree: 0%
 
    ![](assets/schedule-your-in-app-message-2.png)
 
-1. 「結束日期」和「結束時間」為選用；請從下拉式清單中選取它們。
+1. 「結束日期」和「結束時間」為選用；請從下拉式清單中選取。
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. 或者，若要立即執行程式，請選取 **立即執行**. 「開始日期」欄位消失。
+1. 或者，若要立即執行程式，請選取 **立即執行**. 開始日期欄位消失。
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-簡單！ 最後但同樣重要的是 [核准](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md) 步驟。
+輕鬆！ 最後但同樣重要的是 [核准](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md) 步驟。

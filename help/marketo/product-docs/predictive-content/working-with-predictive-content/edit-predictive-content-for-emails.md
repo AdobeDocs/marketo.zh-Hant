@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. 編輯頁面隨即開啟。 **電子郵件** 依預設會顯示。
+1. 編輯頁面隨即開啟。 **電子郵件** 預設會顯示。
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 按一下側邊的箭頭，捲動並檢視每個電子郵件版面預覽中的內容（顯示兩個選項）。
+1. 按一下側邊的箭頭，捲動並檢視每個電子郵件版面預覽中的內容（會顯示兩個選項）。
 
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
@@ -74,4 +74,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在Marketo電子郵件編輯器v2.0中，您也可以 [檢視版面範本](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) 您啟用內容時使用。
+   >在Marketo電子郵件編輯器v2.0中，您也可以 [檢視版面配置範本](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) 啟用內容時使用。

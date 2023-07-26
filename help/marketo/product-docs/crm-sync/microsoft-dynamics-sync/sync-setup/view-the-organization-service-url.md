@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 檢視組織服務URL {#view-the-organization-service-url}
 
-Marketo需要組織服務URL才能與Dynamics執行個體同步。 以下說明如何在Dynamics中找到它。
+Marketo需要組織服務URL才能與Dynamics執行個體同步。 以下說明如何在Dynamics中尋找。
 
-1. 登入Dynamics。 按一下設定圖示並選取 **進階設定**.
+1. 登入Dynamics。 按一下「設定」圖示並選取 **進階設定**.
 
    ![](assets/one.png)
 

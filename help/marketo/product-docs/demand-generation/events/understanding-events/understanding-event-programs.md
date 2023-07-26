@@ -15,11 +15,11 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->並非所有客戶都已購買此功能。 如需詳細資訊，請聯絡您的銷售代表。
+>並非所有客戶都已購買此功能。 請聯絡您的銷售代表以取得詳細資訊。
 
 ## 概觀 {#overview}
 
-事件程式是一種程式，可用來自動化離線或線上事件。 您可以將活動方案視為在特定日期和時間有與會者的任何活動。
+事件程式是一種程式，可用於自動化離線或線上事件。 您可以將活動方案想成在特定日期和時間有與會者的任何活動。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 1%
 >
 >* 網路研討會
 >* 當事方
->* 貿易展
+>* 商展
 >* 聚會
 
 事件可自動連線至您的 [網路研討會提供者](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) 以及與 [iPad簽入應用程式](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).

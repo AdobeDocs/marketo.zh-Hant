@@ -13,39 +13,39 @@ ht-degree: 0%
 
 # 在登陸頁面上新增社交按鈕 {#add-a-social-button-on-a-landing-page}
 
-社交按鈕可鼓勵人們與朋友分享您的內容。 將其拖曳至登陸頁面、Facebook和您的網站上。
+社交按鈕可鼓勵人們與朋友分享您的內容。 將其拖曳至登陸頁面、Facebook和您的網站。
 
 >[!AVAILABILITY]
 >
->並非所有客戶都已購買此功能。 如需詳細資訊，請聯絡您的銷售代表。
+>並非所有客戶都已購買此功能。 請聯絡您的銷售代表以取得詳細資訊。
 
 1. 導覽至您的登陸頁面，然後按一下 **編輯草稿**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. 拖曳至 **社交按鈕** 從右側的元素中選取。
+1. 拖曳至 **社交按鈕** 從右側的元素。
 
    ![](assets/image2014-9-17-10-3a35-3a6.png)
 
-1. 選取 **社交按鈕（使用Analytics）**.
+1. 選取 **社交按鈕（含Analytics）**.
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   啟動登入頁面後，請檢視由您的 **社交按鈕** （含Analytics），於 [社交儀表板](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   在您的登入頁面啟用後，檢視所產生的活動 **社交按鈕** （使用Analytics），在 [社交儀表板](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
-   如果您新增 **贊/建議按鈕(Lite)** 反之，請檢視 [登陸頁面效能報表](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
+   如果您新增 **按讚/建議按鈕(Lite)** 反之，請檢視 [登陸頁面效能報表](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
-1. 選取 **新建** 下拉式清單。
+1. 選取 **新建** 從下拉式清單。
 
    >[!NOTE]
    >
-   >您也可以選取「 」，在方案內建立社交按鈕 **新增** > **新增本機資產**.
+   >您也可以透過選取「 」，在方案中建立「社交」按鈕 **新增** > **新增本機資產**.
 
 1. 為您的社交按鈕命名，選取 **無** 從 **原地複製** **從**，然後按一下 **插入**.
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
-恭喜！您已將社交按鈕新增至登陸頁面。 請務必核准登陸頁面。 您也可以 [將登入頁面發佈至Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) 或 [將社交按鈕放在您的網站上](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+恭喜！您已將社交按鈕新增至登陸頁面。 請務必核准此登陸頁面。 您也可以 [將登入頁面發佈至Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) 或 [將社交按鈕放置到您的網站上](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >

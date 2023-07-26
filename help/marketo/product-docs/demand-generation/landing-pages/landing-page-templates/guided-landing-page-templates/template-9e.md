@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本9E {#template-9e}
 
-按一下滑鼠右鍵以 [下載範本9E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
+按一下右鍵以 [下載範本9E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
 
 ![](assets/image2015-7-28-15-3a33-3a3.png)
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 
    * 包括主圖影像、標誌影像和按鈕
 
-* 八個內文區段（選擇性）
-* 頁尾（選擇性）
+* 八個主體區段（選擇性）
+* 頁尾（選填）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本9E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)

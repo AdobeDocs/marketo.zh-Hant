@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 設定預設人員姓氏和公司名稱 {#set-default-person-last-name-and-company-name}
 
-Salesforce需要（最低）銷售機會和聯絡人的姓氏和公司名稱。 未完成的記錄將不會同步至Salesforce。 如果您想要同步部分記錄，您必須設定Marketo的預設值，以搭配Salesforce使用。
+Salesforce的Leads和Contacts需要（最低）姓氏和公司名稱。 未完成的記錄將不會同步至Salesforce。 如果要同步部分記錄，您必須設定Marketo的預設值，以與Salesforce搭配使用。
 
 1. 前往 **管理員** 並按一下 **Salesforce**.
 
@@ -29,6 +29,6 @@ Salesforce需要（最低）銷售機會和聯絡人的姓氏和公司名稱。 
 
    >[!NOTE]
    >
-   >Marketo只會在記錄最初同步至Salesforce時，而且僅當任一必要欄位為空白時，指派預設值。
+   >Marketo只會在記錄最初同步至Salesforce時，而且僅當任一必要欄位為空白時，才指派預設值。
 
-就是這樣！ 每次有人缺少姓氏和/或公司名稱時，Marketo都會在同步記錄時新增預設值。
+就是這樣！ 每次有人缺少姓氏和/或公司名稱時，Marketo都會新增預設值，因為它會將記錄同步過去。

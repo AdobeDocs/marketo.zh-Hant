@@ -18,10 +18,10 @@ ht-degree: 0%
 >* [建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [建立細分](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
-使用區段篩選器最佳化您的智慧列示效能。
+使用區段篩選器最佳化智慧列示效能。
 
 1. 在您建立的智慧清單中，搜尋單字 **區段**，拖放篩選器。
 
    ![](assets/image2014-9-16-10-3a30-3a47.png)
 
-太棒了！ 現在您已瞭解如何尋找分段篩選器。
+太棒了！ 現在您知道如何尋找分段篩選器了。

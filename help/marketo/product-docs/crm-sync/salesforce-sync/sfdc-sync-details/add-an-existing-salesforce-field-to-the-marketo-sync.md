@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719308
-description: 將現有Salesforce欄位新增至Marketo Sync - Marketo檔案 — 產品檔案
+description: 將現有Salesforce欄位新增至Marketo同步 — Marketo檔案 — 產品檔案
 title: 將現有Salesforce欄位新增至Marketo同步
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-通常，Salesforce中的新自訂欄位會自動同步至Marketo。 如果沒有，Marketo Sync使用者可能無法看見欄位。 以下說明如何修正此問題。
+通常，Salesforce中的新自訂欄位會自動同步至Marketo。 如果沒有，Marketo Sync使用者可能無法看見這些欄位。 以下說明修正方法。
 
 1. 按一下您的名稱，然後選取 **設定**.
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-6.png)
 
-   真貼心！ 在下一個同步處理週期中，Marketo將會看見該欄位並開始施展魔法。
+   真貼心！ 在下一個同步處理週期中，Marketo將會看見該欄位並開始施展魔術。
 
    >[!NOTE]
    >

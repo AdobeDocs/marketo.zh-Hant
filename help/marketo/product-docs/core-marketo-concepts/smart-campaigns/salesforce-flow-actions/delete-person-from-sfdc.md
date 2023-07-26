@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 從SFDC刪除人員 {#delete-person-from-sfdc}
 
-如果您需要從Salesforce中移除一組特定的銷售機會，但將他們保留為Marketo中的人員，則可以使用從SFDC流程動作刪除人員。
+如果您需要從Salesforce移除一組特定的銷售機會，但將其保留為Marketo中的人員，則可使用「從SFDC流程刪除人員」動作。
 
 >[!NOTE]
 >
 >僅在與Salesforce整合時可用。
 
-1. 在資料庫中，按一下您要從Salesforce中移除的人員。 然後按一下 **個人動作** 並選取 **Salesforce**.
+1. 在資料庫中，按一下要從Salesforce中移除的人員。 然後按一下 **個人動作** 並選取 **Salesforce**.
 
    ![](assets/person-actions-salesforce.png)
 
@@ -31,8 +31,8 @@ ht-degree: 0%
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
-   在流程步驟執行後，您的人員將不再是Salesforce中的銷售機會，但會繼續留在Marketo中。
+   在流程步驟執行後，您的人員將不再是Salesforce中的銷售機會，但將保留在Marketo中。
 
    >[!CAUTION]
    >
-   >如果您設定 **在Marketo中刪除** 至 **true** 並從Marketo刪除人員，從Salesforce刪除銷售機會，這些永遠消失。 此動作無法還原。
+   >如果您設定 **在Marketo中刪除** 至 **true** 並刪除Marketo中的人員和Salesforce中的銷售機會，則永遠消失。 此動作無法還原。

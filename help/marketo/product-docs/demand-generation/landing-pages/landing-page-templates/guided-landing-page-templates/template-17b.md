@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本17B {#template-17b}
 
-按一下滑鼠右鍵以 [下載範本17B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)
+按一下右鍵以 [下載範本17B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)
 
 ![](assets/image2015-8-17-16-3a50-3a15.png)
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 * 主要區段
 
-   * 包括主圖示題、主圖文字和影片
+   * 包含主圖示題、主圖文字和影片
 
 * 六個主體區段（選擇性）
 * 頁尾（選擇性）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本17B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)

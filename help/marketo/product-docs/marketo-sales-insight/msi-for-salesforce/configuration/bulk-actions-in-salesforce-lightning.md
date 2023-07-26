@@ -27,15 +27,15 @@ ht-degree: 0%
 
    ![](assets/bulk-actions-in-salesforce-lightning-3.png)
 
-1. 按一下 **搜尋Salesforce Classic版面**.
+1. 按一下 **搜尋Salesforce Classic的版面**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-4.png)
 
-   尋找「清單檢視」版面。 按一下右側的下拉式清單，然後選取 **編輯**.
+   尋找「清單檢視」版面配置。 按一下右側的下拉式清單，然後選取 **編輯**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-5.png)
 
-1. 在自訂按鈕下，尋找並選取 **新增至Marketo Campaign （閃電）** 和 **傳送Marketo電子郵件（閃電）**. 按一下 **新增** 按鈕。
+1. 在自訂按鈕底下，尋找並選取 **新增至Marketo Campaign （閃電）** 和 **傳送Marketo電子郵件（閃電）**. 按一下 **新增** 按鈕。
 
    ![](assets/bulk-actions-in-salesforce-lightning-6.png)
 

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14746177
-description: 重新訂閱取消訂閱 — Marketo檔案 — 產品檔案
+description: 重新訂閱並取消訂閱 — Marketo檔案 — 產品檔案
 title: 重新訂閱取消訂閱
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 重新訂閱取消訂閱 {#resubscribing-an-unsubscribe}
 
-有時候，人們會想要選擇重新接收電子郵件。 以下說明如何再次將取消訂閱設為可郵寄。
+有時候，人們會想要選擇重新接收電子郵件。 以下說明如何再次將取消訂閱設為可郵寄功能。
 
 >[!NOTE]
 >
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您開啟取消訂閱同步，您也必須取消勾選Salesforce中記錄上的選擇退出方塊，否則夜間同步將會在Sales Connect中重新取消訂閱該人員，因為它會偵測到該人員在Salesforce中已選擇退出。 如果其中一個記錄選擇退出/取消訂閱，同步會將連結的記錄標籤為這樣。
+>如果已開啟取消訂閱同步，您也必須在Salesforce中取消勾選記錄上的選擇退出方塊，或夜間同步會在Sales Connect中重新取消訂閱該人員，因為它會偵測到該人員已在Salesforce中選擇退出。 如果其中一個記錄選擇退出/取消訂閱，同步會將連結的記錄標籤為這樣。

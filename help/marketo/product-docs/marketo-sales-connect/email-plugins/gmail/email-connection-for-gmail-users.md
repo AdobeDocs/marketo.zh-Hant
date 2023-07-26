@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Gmail使用者的電子郵件連線 {#email-connection-for-gmail-users}
 
-連線到Gmail表示您將會收到回覆追蹤、存取Gmail傳遞頻道、在Gmail中排程電子郵件以及傳送合規性的功能。
+連線至Gmail表示您將會收到回覆追蹤、存取Gmail傳遞頻道、在Gmail中排程電子郵件以及傳送合規性。
 
 >[!CAUTION]
 >
->如果您是 [使用篩選器](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} 或Gmail帳戶中自動將電子郵件標示為已讀取的規則，這可能會導致回覆追蹤問題。 建議停用搭配Gmail使用回覆追蹤時，將電子郵件自動標示為已讀取的任何規則。
+>如果您是 [使用篩選器](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} 或Gmail帳戶中自動將電子郵件標示為已讀取的規則，這可能會導致回覆追蹤發生問題。 建議您停用搭配Gmail使用回覆追蹤時，將電子郵件自動標示為已讀取的任何規則。
 
 1. 在Sales Connect中，按一下齒輪圖示並選取 **設定**.
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-   您可以使用此連線來追蹤電子郵件，也可以作為傳遞管道。
+   您可以使用此連線來追蹤電子郵件，並作為傳遞管道。
 
 >[!NOTE]
 >

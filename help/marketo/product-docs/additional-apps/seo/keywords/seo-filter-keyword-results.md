@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO — 篩選關鍵字結果 {#seo-filter-keyword-results}
 
-您可能會有許多 [關鍵字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). 以下是篩選這些專案的不同方法：
+您可能有許多 [關鍵字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). 以下是篩選這些專案的不同方法：
 
 ## 依清單篩選 {#filter-by-list}
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   橘色方塊可定義您的上（左）和下（右）限制。 篩選器適用於關鍵字的 [SERP職位](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+   橘色方塊定義您的上（左）和下（右）限制。 篩選器適用於關鍵字的 [服務等級排名](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
 1. 向左/向右滑動橘色方塊以篩選結果。
 

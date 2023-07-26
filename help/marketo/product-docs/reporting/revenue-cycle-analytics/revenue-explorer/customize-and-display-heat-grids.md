@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7514224
-description: 自訂和顯示熱格線 — Marketo檔案 — 產品檔案
-title: 自訂和顯示熱格點
+description: 自訂和顯示熱網格 — Marketo檔案 — 產品檔案
+title: 自訂和顯示熱格線
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# 自訂和顯示熱格點 {#customize-and-display-heat-grids}
+# 自訂和顯示熱格線 {#customize-and-display-heat-grids}
 
-熱格線以彩色格線以視覺化方式呈現您的資料，讓您更輕鬆快速地識別好樣式和壞樣式。
+熱格線以彩色格線以視覺化方式呈現資料，讓您更輕鬆快速地識別好樣式和壞樣式。
 
-1. 在報表中，按一下圖表圖示，然後 **熱格線**.
+1. 在報表中，按一下圖表圖示，然後按一下 **熱格線**.
 
    ![](assets/image2015-5-4-15-3a2-3a17.png)
 
@@ -23,4 +23,4 @@ ht-degree: 0%
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
-   太棒了！ 您現在已擁有 **熱格線**！
+   棒極了！ 您現在已擁有 **熱格線**！

@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 建立新的事件程式 {#create-a-new-event-program}
 
-事件可讓您自動執行線上和離線事件！ 擷取您的人員在不同階段進展時的狀態，並取得行銷方案ROI的準確測量。
+事件可讓您自動執行線上和離線事件！ 擷取您的人員在不同階段進行中的狀態，並取得行銷方案ROI的準確測量。
 
 1. 前往 **行銷活動**.
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
-1. 選擇事件的名稱。 然後，在下 **計畫型別**，選取 **事件**.
+1. 選擇事件的名稱。 然後，在 **計畫型別**，選取 **事件**.
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
@@ -31,7 +31,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >管道定義個人在方案中可擁有的不同狀態。 進一步瞭解 [計畫會籍](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) 此處。
+   >管道定義了個人在方案中可以擁有的不同狀態。 進一步瞭解 [方案會籍](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) 此處。
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
@@ -43,7 +43,7 @@ ht-degree: 1%
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 
-1. 若要排程您的活動，請選取 **排程檢視** 並按一下日曆中的以開啟快顯視窗。 輸入日期和時間。
+1. 若要排程您的活動，請選取 **排程檢視** ，然後在日曆中按一下以開啟快顯視窗。 輸入日期和時間。
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-建立事件後，請建置 [登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)， [表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)、和 [電子郵件](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 邀請您的來賓！ 您還需要熟悉 [方案排程檢視](https://docs.marketo.com/display/docs/program+schedule+view).
+建立事件後，請建置 [登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)， [表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)、和 [電子郵件](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 邀請您的來賓！ 您也會想要熟悉 [方案排程檢視](https://docs.marketo.com/display/docs/program+schedule+view).
 
 >[!MORELIKETHIS]
 >

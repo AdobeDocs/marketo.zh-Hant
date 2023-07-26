@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359705
-description: 新增表單至自由表單登陸頁面 — Marketo檔案 — 產品檔案
+description: 將新表單新增至自由表單登陸頁面 — Marketo檔案 — 產品檔案
 title: 新增表單至自由表單登陸頁面
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 新增表單至自由表單登陸頁面 {#add-a-new-form-to-a-free-form-landing-page}
 
-表單，會議登陸頁面。 登陸頁面，符合表單。
+表單，符合登陸頁面。 登陸頁面，符合表單。
 
 >[!PREREQUISITES]
 >
@@ -24,11 +24,11 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 找到您的登入頁面，然後按一下 **編輯草稿**.
+1. 尋找您的登入頁面，然後按一下 **編輯草稿**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. 拖放 **表單** 元素貼到頁面上。
+1. 拖放 **表單** 元素新增至頁面。
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -39,8 +39,8 @@ ht-degree: 0%
 1. 選擇後續追蹤頁面時，有三個選項：
 
    * **登陸頁面**  — 挑選Marketo登陸頁面
-   * **外部URL**  — 挑選您想要的任何URL
-   * **已定義的表單**  — 使用在表單層級定義的設定
+   * **外部URL**  — 挑選您想要的URL
+   * **已定義的表單**  — 使用表單層級定義的設定
 
    >[!NOTE]
    >
@@ -52,6 +52,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 
-   幹得漂亮！
+   做得很好！
 
-只需關閉登入頁面編輯器，然後 [核准登入頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+只需關閉登入頁面編輯器並 [核准登入頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

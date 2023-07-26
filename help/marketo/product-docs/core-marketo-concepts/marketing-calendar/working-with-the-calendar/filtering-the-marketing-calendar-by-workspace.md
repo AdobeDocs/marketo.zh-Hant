@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 依工作區篩選行銷行事曆 {#filtering-the-marketing-calendar-by-workspace}
 
-行銷行事曆可依特定工作區中的物件進行篩選。
+行銷行事曆可以依特定工作區中的物件進行篩選。
 
 1. 按一下 **[!UICONTROL 行事曆]** 圖磚。
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. 在篩選面板中，選取 **[!UICONTROL Workspace]** 下拉式清單。 選擇您想要的工作區。
+1. 在篩選器面板中，選取 **[!UICONTROL 工作區]** 下拉式清單。 選擇您想要的工作區。
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 

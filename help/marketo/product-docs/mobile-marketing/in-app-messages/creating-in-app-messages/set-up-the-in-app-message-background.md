@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >預設為純白色，通常是贏家。
+   >預設為純白色，通常為贏家。
 
 1. 如果要使用背景，請按一下 **影像** 然後 **選取影像** 連結。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >影像大小限製為1440 x 2560畫素，以及5MB。
 
-1. 評估結果。 糟糕 — 可能是純色、紋理或漸層效果更好！
+1. 評估結果。 糟糕 — 也許純色、紋理或漸層效果會更好！
 
    ![](assets/image2016-5-9-9-3a2-3a33.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-9-9-3a58-3a38.png)
 
-1. 使用滑桿選取圓角半徑。 從左到右選取位置：0、4、8、12或16畫素。 8畫素（中心）選取範圍是預設值。
+1. 使用滑桿選取圓角半徑。 從左到右選取位置：0、4、8、12或16畫素。 8畫素（中心）選取範圍為預設值。
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
@@ -65,9 +65,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >若要針對背景點選動作，您可以為Apple和Android平台設定不同的動作。 例如，深層連結在Apple和Android的處理方式不同。 如果您的訊息只傳送到其中一個平台，請將另一個平台保留為預設設定，或選取 **無**.
+   >如需背景的點選動作，您可以為Apple和Android平台設定不同的動作。 例如，Apple和Android對於深層連結的處理方式不同。 如果您的訊息只傳送到其中一個平台，請將另一個平台保留為預設設定，或選取 **無**.
 
-   若要完成工作，您的最後一步為 [設定解除按鈕](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
+   若要完成工作，您的最後一個步驟為 [設定解除按鈕](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 
    >[!MORELIKETHIS]
    >

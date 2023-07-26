@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**定義**
 >
->表單 **提示** 是欄位中的文字，當訪客開始在欄位中輸入時就會消失。
+>表單 **提示** 是欄位內當訪客開始在欄位中輸入時消失的文字。
 >
 >表單 **指示** 是訪客將游標停留在欄位上時顯示的工具提示。
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities-5.png)
 
-1. 選取您的表單並按一下 **編輯表單**.
+1. 選擇您的表單並按一下 **編輯表單**.
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. 選取欄位並輸入 **提示文字**.
+1. 選取欄位並輸入您的 **提示文字**.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-立即檢視！ 讓我們繼續並新增一些 [指示](add-tooltip-instructions-to-a-form-field.md) 立即。
+立即檢視！ 繼續並新增一些 [指示](add-tooltip-instructions-to-a-form-field.md) 立即。

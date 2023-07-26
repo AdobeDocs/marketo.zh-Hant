@@ -12,11 +12,11 @@ ht-degree: 12%
 
 # 產品使用量限制 {#product-usage-limits}
 
-在下方，您會找到Sales Insight Actions中可用之擴充銷售參與功能的使用限制。
+在下方，您將找到Sales Insight Actions中可用之擴充銷售參與功能的使用限制。
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions是以Web為基礎的應用程式，可透過 [Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 有時稱為「Marketo銷售」，或簡稱為「動作」。
+>Marketo Sales Insight Actions是網頁型應用程式，可透過 [Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 有時稱為「Marketo銷售」，或簡稱為「動作」。
 
 <table>
   <th>功能</th>
@@ -48,7 +48,7 @@ ht-degree: 12%
   <td>500</td>
  </tr>
  <tr>
-  <td>以電子郵件傳送儲存的搜尋</td>
+  <td>以電子郵件傳送已儲存的搜尋</td>
   <td>每個使用者</td>
   <td>50</td>
  </tr>
@@ -92,8 +92,8 @@ ht-degree: 12%
   <td>50</td>
  </tr>
  <tr>
-  <td>每個群組的使用者</td>
-  <td>每群組</td>
+  <td>每個群組的人員</td>
+  <td>每個群組</td>
   <td>200</td>
  </tr>
  <tr>
@@ -141,7 +141,7 @@ ht-degree: 12%
   <td>1</td>
  </tr>
  <tr>
-  <td>團隊取消訂閱傳訊</td>
+  <td>團隊取消訂閱訊息</td>
   <td>每個執行個體</td>
   <td>1</td>
  </tr>

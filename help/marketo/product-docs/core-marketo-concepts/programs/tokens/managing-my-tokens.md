@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 管理我的Token {#managing-my-tokens}
 
-使用代號可簡化您在Marketo中的工作。 您可以使用 [我的Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) （自訂Token）。 以下說明如何製作這些區段。
+使用代號可簡化您在Marketo中的工作。 您可以使用 [我的Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) （自訂Token）的流量、Webhook、電子郵件和登入頁面。 以下說明如何製作範本。
 
 >[!TIP]
 >
->進一步瞭解中已有哪些Token可用 [Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+>進一步瞭解中已有哪些代號 [Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
 
 ## 建立我的Token {#create-a-my-token}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
-1. 輸入唯一的名稱。 輸入Token的相關值。
+1. 輸入唯一的名稱。 輸入權杖的相關值。
 
    ![](assets/image2014-9-18-12-3a4-3a53.png)
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a5-3a5.png)
 
-   耶！ 您製作了一個「我的Token」。
+   耶！ 您製作了「我的Token」。
 
    ![](assets/image2014-9-18-12-3a5-3a15.png)
 
 ## 編輯我的Token {#edit-a-my-token}
 
-1. 連按兩下 **我的Token** 並進行變更。 按一下 **儲存**.
+1. 按兩下 **我的Token** 並進行變更。 按一下 **儲存**.
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
@@ -55,9 +55,9 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->刪除「我的Token」時，請確定您並未在任何資產中參照該專案。 若刪除空白字元，該空白字元將被參照至任何位置。
+>刪除「我的Token」時，請確定您沒有在任何資產中參照該專案。 若刪除，參考到的任何位置都會顯示空白。
 
-1. 以滑鼠右鍵按一下 **我的Token**. 選取 **刪除Token**.
+1. 用滑鼠右鍵按一下 **我的Token**. 選取 **刪除Token**.
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
@@ -68,5 +68,5 @@ ht-degree: 0%
    >[!MORELIKETHIS]
    >
    >* [Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
-   >* [瞭解程式中的我的Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
-   >* [在我的權杖中使用URL](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
+   >* [瞭解方案中的我的Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+   >* [在我的Token中使用URL](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)

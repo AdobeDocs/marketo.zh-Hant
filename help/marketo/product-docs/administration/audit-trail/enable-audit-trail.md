@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/enable-audit-trail-2.png)
 
-1. 選取您要啟用稽核軌跡的角色，然後按一下 **[!UICONTROL 編輯角色]**.
+1. 選取要啟用稽核軌跡的角色，然後按一下 **[!UICONTROL 編輯角色]**.
 
    ![](assets/enable-audit-trail-3.png)
 
@@ -45,15 +45,15 @@ ht-degree: 0%
    >
    >**定義**
    >
-   >**[!UICONTROL 存取稽核軌跡]**：讓使用者同時存取兩者 [!UICONTROL 資產稽核軌跡] 和 [!UICONTROL 管理員稽核軌跡].
+   >**[!UICONTROL 存取稽核軌跡]**：提供使用者對兩者的存取權 [!UICONTROL 資產稽核軌跡] 和 [!UICONTROL 管理員稽核軌跡].
    >
-   >**[!UICONTROL 存取登入記錄]**：讓使用者存取 [使用者登入記錄](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
+   >**[!UICONTROL 存取登入記錄]**：提供使用者以下專案的存取權： [使用者登入記錄](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
 
 ## 指派稽核軌跡角色給使用者 {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[建立](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) 或 [啟用](#enable-audit-trail) 現有角色，為其授予稽核軌跡許可權。
+>[建立](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) 或 [啟用](#enable-audit-trail) 授予現有角色稽核軌跡許可權。
 
 1. 在 **[!UICONTROL 使用者和角色]**，按一下 **[!UICONTROL 使用者]**.
 
@@ -67,7 +67,7 @@ ht-degree: 0%
    >
    >建立新使用者時，此程式也適用。
 
-1. 選取您建立的稽核軌跡角色。 在此範例中，我們建立了「稽核軌跡 — 資產與管理員」和「稽核軌跡 — 包含登入歷史記錄」。
+1. 選取您建立的稽核軌跡角色。 在此範例中，我們建立了「稽核軌跡 — 資產和管理員」以及「稽核軌跡 — 包含登入歷史記錄」。
 
    ![](assets/enable-audit-trail-7.png)
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7504047
-description: 建立Revenue Explorer報表 — Marketo檔案 — 產品檔案
-title: 建立Revenue Explorer報表
+description: 建立收入總管報表 — Marketo檔案 — 產品檔案
+title: 建立收入總管報表
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# 建立Revenue Explorer報表 {#create-a-revenue-explorer-report}
+# 建立收入總管報表 {#create-a-revenue-explorer-report}
 
-Revenue Explorer報表可讓您追蹤行銷方案的ROI。
+「收入總管」報表可讓您追蹤行銷方案的ROI。
 
 >[!AVAILABILITY]
 >
->並非所有客戶都已購買此功能。 如需詳細資訊，請聯絡您的銷售代表。
+>並非所有客戶都已購買此功能。 請聯絡您的銷售代表以取得詳細資訊。
 
 1. 前往 **收入總管** 區域。
 
@@ -38,4 +38,4 @@ Revenue Explorer報表可讓您追蹤行銷方案的ROI。
 >[!MORELIKETHIS]
 >
 >[新增欄位至收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->[新增自訂計量至Revenue Explorer報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
+>[新增自訂計量至收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)

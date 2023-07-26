@@ -1,6 +1,6 @@
 ---
 description: Dynamic Chat概述 — Marketo檔案 — 產品檔案
-title: Dynamic Chat概述
+title: Dynamic Chat概觀
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 feature: Dynamic Chat
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,9 +10,9 @@ ht-degree: 2%
 
 ---
 
-# Dynamic Chat概述 {#dynamic-chat-overview}
+# Dynamic Chat概觀 {#dynamic-chat-overview}
 
-Dynamic Chat可讓您運用易用的介面，鎖定造訪您網站的人和帳戶。 收集相關內容，例如姓名、聯絡資訊和任意文字。 網站訪客也可以預約與您的銷售團隊開會。 Dynamic Chat活動和參與資料可用來將成員新增到Marketo計畫並觸發跨頻道活動。
+Dynamic Chat可讓您運用易用的介面，將目標同時鎖定於造訪您網站的訪客和帳戶。 收集相關內容，例如姓名、聯絡資訊和任意文字。 網站訪客也可以預約與您的銷售團隊開會。 Dynamic Chat活動和參與資料可用來將成員新增至Marketo方案，並觸發跨頻道活動。
 
 >[!NOTE]
 >
@@ -24,9 +24,9 @@ Dynamic Chat可讓您運用易用的介面，鎖定造訪您網站的人和帳�
 
 ## 整合 {#integrations}
 
-Dynamic Chat的一個重要元件，是其原生介面與您的Marketo訂閱的功能。 若要運用這項整合的完整功能，您必須先啟動資料同步處理。 根據Marketo資料庫的大小，初始的資料最多可能需要24小時的時間。 [一次性同步](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) 完成。
+Dynamic Chat的一個重要元件，是能夠與您的Marketo訂閱原生介面。 為了善用此整合的完整功能，您首先需要啟動資料同步。 根據Marketo資料庫的大小，初始的資料可能最多需要24小時的時間。 [一次性同步](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) 完成。
 
-下列專案已同步：
+以下專案已同步：
 
 * 個人欄位資料
 * 公司欄位資料
@@ -34,11 +34,11 @@ Dynamic Chat的一個重要元件，是其原生介面與您的Marketo訂閱的�
 
 ## 對話 {#dialogues}
 
-對話方塊代表單一聊天專案。 將其視為一個容器，其中包含您與網站訪客進行吸引人的聊天對話所需的全部內容。 在每個對話方塊中，您可以指定要在哪個頁面上顯示對話方塊、要顯示給哪個頁面，以及對話方塊本身的內容和流程。 此外，您可以尋找量度，以檢視您的對話方塊的執行狀況。 [進一步瞭解對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
+對話方塊代表單一聊天專案。 將其視為一個容器，其中包含您為網站訪客提供引人入勝的聊天對話方塊所需的所有內容。 在每個對話方塊中，您可以指定您希望對話方塊顯示的頁面、顯示的對象，以及對話方塊本身的內容和流程。 此外，您可以尋找量度，以檢視對話方塊的執行狀況。 [深入瞭解對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
 
 ## 設定 {#configuration}
 
-在「組態」標籤中，自訂各種對話方塊的外觀。 變更字型、顏色、回應時間等！ [進一步瞭解設定](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}.
+在「組態」標籤中，自訂各種對話方塊的外觀和風格。 變更字型、顏色、回應時間等！ [進一步瞭解設定](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}.
 
 ## 行事曆 {#calendar}
 
@@ -46,7 +46,7 @@ Dynamic Chat的一個重要元件，是其原生介面與您的Marketo訂閱的�
 
 ## 會議 {#meetings}
 
-您可以在此處檢視網站訪客透過各種對話方塊排程的所有約會。 [進一步瞭解會議](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
+您將在這裡看到網站訪客透過各種對話方塊排程的所有約會。 [進一步瞭解會議](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
 
 ## 路由 {#routing}
 
@@ -54,21 +54,21 @@ Dynamic Chat的一個重要元件，是其原生介面與您的Marketo訂閱的�
 
 ## 常見問題集 {#faq}
 
-**我可以在公司網站上的任何位置安裝Dynamic Chat，還是只有在Marketo登陸頁面上才有效？**
+**我可以在公司網站上的任何地方安裝Dynamic Chat，還是只能在Marketo登陸頁面上使用？**
 
-Dynamic ChatJavaScript程式碼片段可以安裝在任何網站以及Marketo登陸頁面上。
+Dynamic ChatJavaScript程式碼片段可安裝在任何網站以及Marketo登陸頁面上。
 
 **資料會儲存多久以用於報告？**
 
 90天（請參閱完整的限制清單） [以下](#limits-in-dynamic-chat))。
 
-**Dynamic Chat是否允許即時聊天？**
+**Dynamic Chat允許即時聊天嗎？**
 
 不會，只會使用預先決定的回應。
 
 **Dynamic Chat是否支援英語以外的任何語言？**
 
-是. Dynamic Chat支援下列語言：法文、德文、日文、西班牙文、義大利文、巴西葡萄牙文、韓文、簡體中文和繁體中文。 進一步瞭解 [以下區段](#changing-the-language).
+是. Dynamic Chat支援下列語言：法文、德文、日文、西班牙文、義大利文、巴西葡萄牙文、韓文、簡體中文和繁體中文。 進一步瞭解 [區段如下](#changing-the-language).
 
 **您支援AI/NLP功能嗎？**
 
@@ -90,7 +90,7 @@ Dynamic ChatJavaScript程式碼片段可以安裝在任何網站以及Marketo登
 
    ![](assets/dynamic-chat-overview-1.png)
 
-1. 按一下您電子郵件地址下方的目前語言。
+1. 按一下您電子郵件地址下的目前語言。
 
    ![](assets/dynamic-chat-overview-2.png)
 
@@ -102,7 +102,7 @@ Dynamic ChatJavaScript程式碼片段可以安裝在任何網站以及Marketo登
    >
    >有幾十種語言可供選擇，但Dynamic Chat僅支援下列語言：英文、法文、德文、日文、西班牙文、義大利文、巴西葡萄牙文、韓文、簡體中文和繁體中文。
 
-當您更新語言時，除了您個人填入的文字（例如串流回應），應用程式本身中的所有內容都會變更。
+當您更新語言時，除了您親自填入的字詞之外（例如資料流回應），應用程式本身中的所有內容都會變更。
 
 ## Dynamic Chat限制 {#limits-in-dynamic-chat}
 
@@ -112,7 +112,7 @@ Dynamic ChatJavaScript程式碼片段可以安裝在任何網站以及Marketo登
   <th>限制</th>
  <tr>
   <td>對話方塊總數</td>
-  <td>對話方塊數目（已發佈和草稿）</td>
+  <td>對話方塊數目（已發佈及草稿）</td>
   <td>500</td>
  </tr>
  <tr>
@@ -137,7 +137,7 @@ Dynamic ChatJavaScript程式碼片段可以安裝在任何網站以及Marketo登
  </tr>
  <tr>
   <td>每個對話方塊的屬性</td>
-  <td>可新增至單一對話方塊之對象條件的屬性數量</td>
+  <td>單一對話方塊可新增至對象條件的屬性數量</td>
   <td>100</td>
  </tr>
  <tr>
@@ -152,12 +152,12 @@ Dynamic ChatJavaScript程式碼片段可以安裝在任何網站以及Marketo登
  </tr>
  <tr>
   <td>卡片</td>
-  <td>每個對話方塊可新增至畫布的卡片數量</td>
+  <td>每個對話方塊可新增到畫布的卡片數量</td>
   <td>500</td>
  </tr>
  <tr>
-  <td>匿名銷售機會資料保留期</td>
-  <td>未參與之匿名銷售機會的資訊將保留多久的時間</td>
+  <td>匿名潛在客戶資料保留期</td>
+  <td>沒有任何參與的匿名潛在客戶資訊將保留多久的時間</td>
   <td>90天</td>
  </tr>
  <tr>
@@ -171,23 +171,23 @@ Dynamic ChatJavaScript程式碼片段可以安裝在任何網站以及Marketo登
   <td>24個月</td>
  </tr>
  <tr>
-  <td>與對話方塊活動保留期互動</td>
-  <td>與對話方塊活動資料互動的時間保留</td>
+  <td>與對話方塊活動保留期間互動</td>
+  <td>保留與對話方塊活動資料互動的時間長度</td>
   <td>90天</td>
  </tr>
  <tr>
-  <td>會議預訂活動保留期間</td>
-  <td>會議預訂活動將儲存於Dynamic Chat的時間長度</td>
+  <td>會議預約活動保留期間</td>
+  <td>會議預約活動將以Dynamic Chat儲存的時間長度</td>
   <td>24個月</td>
  </tr>
  <tr>
   <td>已參與的交談</td>
-  <td>每個月可由Web訪客參與的聊天交談次數</td>
+  <td>每個月可由Web訪客參與的聊天對話數</td>
   <td>250</td>
  </tr>
  <tr>
   <td>對話已觸發</td>
-  <td>每個月可顯示給Web訪客的聊天交談次數</td>
+  <td>每個月可顯示給Web訪客的聊天對話次數</td>
   <td>25,000</td>
  </tr>
 </table>

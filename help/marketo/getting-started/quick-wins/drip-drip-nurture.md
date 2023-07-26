@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359420
 description: Drip， Drip， Nurture - Marketo檔案 — 產品檔案
-title: 滴答、滴答、培養
+title: 滴水，滴水，培養
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# 滴答、滴答、培養 {#drip-drip-nurture}
+# 滴水，滴水，培養 {#drip-drip-nurture}
 
-## 使命：培養最近參加展會的人 {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
+## 使命：培養參加您最近商展的人 {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
-您可以在Marketo中輕鬆建立進階且複雜的培養系統。 方法如下！
+您可以在Marketo中輕鬆建立進階且精密的培養系統。 方法如下！
 
 >[!PREREQUISITES]
 >
@@ -32,11 +32,11 @@ ht-degree: 0%
 
    ![](assets/drip-drip-nurture-2.png)
 
-1. 輸入 **[!UICONTROL 名稱]** 並選取 **[!UICONTROL 參與]** 的 **[!UICONTROL 計畫型別]**.
+1. 輸入 **[!UICONTROL 名稱]** 並選取 **[!UICONTROL 參與]** 針對 **[!UICONTROL 計畫型別]**.
 
    ![](assets/drip-drip-nurture-3.png)
 
-1. 確定 **[!UICONTROL 頻道]** 欄位是 **[!UICONTROL Nurture]** 並按一下 **[!UICONTROL 建立]**.
+1. 確定 **[!UICONTROL 頻道]** 欄位為 **[!UICONTROL Nurture]** 並按一下 **[!UICONTROL 建立]**.
 
    ![](assets/drip-drip-nurture-4.png)
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >看不到電子郵件編輯器？ 您的瀏覽器可能封鎖了視窗。 啟用快顯視窗 `app.marketo.com` ，然後按一下 **[!UICONTROL 編輯草稿]** 在頂端功能表列中。
+   >看不到電子郵件編輯器？ 您的瀏覽器可能封鎖了視窗。 啟用快顯視窗 `app.marketo.com` 在瀏覽器中並按一下 **[!UICONTROL 編輯草稿]** 在頂端功能表列中。
 
 1. 輸入主旨。
 
@@ -72,7 +72,7 @@ ht-degree: 0%
 
    ![](assets/drip-drip-nurture-10.png)
 
-1. 下 **[!UICONTROL 電子郵件動作]**，按一下 **[!UICONTROL 核准並關閉]**.
+1. 在 **[!UICONTROL 電子郵件動作]**，按一下 **[!UICONTROL 核准並關閉]**.
 
    ![](assets/drip-drip-nurture-11.png)
 
@@ -80,13 +80,13 @@ ht-degree: 0%
    >
    >請記得核准您的電子郵件，否則您稍後將無法啟用它們。
 
-1. 現在，重複步驟2-7中的動作來建立另一封電子郵件。
+1. 現在，重複步驟2-7中的動作以建立另一封電子郵件。
 
    ![](assets/drip-drip-nurture-12.png)
 
 ## 步驟3：新增內容至您的串流 {#step-add-content-to-your-stream}
 
-現在可以使用您建立的電子郵件，為您的參與計畫建立內容流。
+現在該使用您建立的電子郵件，為您的參與計畫建立內容串流了。
 
 1. 選取您的參與方案，然後按一下 **[!UICONTROL 串流]** 標籤。
 
@@ -100,23 +100,23 @@ ht-degree: 0%
    >
    >您也可以使用 **+** 圖示。
 
-1. 保留「電子郵件」型別。 尋找並選取您建立的兩封電子郵件。
+1. 保留「電子郵件」型別。 尋找並選取您建立的兩個電子郵件。
 
    ![](assets/drip-drip-nurture-15.png)
 
-## 步驟4：啟用串流內容 {#step-activate-stream-content}
+## 步驟4：啟動串流內容 {#step-activate-stream-content}
 
-1. 按一下串流齒輪圖示，然後按一下「 」，一次啟用所有內容 **[!UICONTROL 啟用所有內容]**.
+1. 按一下串流齒輪圖示，然後按一下「 」，一次啟動所有內容 **[!UICONTROL 啟用所有內容]**.
 
    ![](assets/drip-drip-nurture-16.png)
 
    >[!NOTE]
    >
-   >您必須先核准內容，才能啟用內容。
+   >您不先核准內容就無法啟用內容。
 
-   做得好！ 再執行一個步驟，參與計畫即準備就緒。
+   做得很好！ 再執行一個步驟，參與計畫即準備就緒。
 
-## 步驟5：設定資料流步調 {#step-set-the-stream-cadence}
+## 步驟5：設定串流步調 {#step-set-the-stream-cadence}
 
 1. 按一下 **[!UICONTROL 設定資料流步調]**.
 
@@ -130,7 +130,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >測試人員會檢查您的參與計畫，在傳送給客戶之前先測試其是否正確。
+   >測試人員是檢查參與計畫的人員，在傳送給客戶之前，會先測試該計畫是否正確。
 
 ## 步驟6：將測試人員新增至您的參與方案 {#step-add-a-test-person-to-your-engagement-program}
 
@@ -144,7 +144,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >請確認測試人員擁有有效的電子郵件地址，這樣您便可以在測試時確認收到電子郵件。
+   >請確定測試人員擁有有效的電子郵件地址，這樣您便可以在測試時確認收到電子郵件。
 
 1. 以滑鼠右鍵按一下人員，然後按一下 **[!UICONTROL 計畫]** 和 **[!UICONTROL 新增到參與計畫……]**.
 
@@ -156,7 +156,7 @@ ht-degree: 0%
 
 1. 任務完成！
 
-1. 您應會在指定的時間和順序收到電子郵件。
+1. 您應在指定的時間和順序收到電子郵件。
 
    >[!NOTE]
    >

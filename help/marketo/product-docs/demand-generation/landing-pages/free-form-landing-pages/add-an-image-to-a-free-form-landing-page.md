@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359703
-description: 新增影像至自由格式的登陸頁面 — Marketo檔案 — 產品檔案
+description: 將影像新增至自由表單登陸頁面 — Marketo檔案 — 產品檔案
 title: 將影像新增至自由格式的登陸頁面
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
 feature: Landing Pages
@@ -33,6 +33,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 
-   做得好！ 您剛才新增影像至您的自由格式登陸頁面。
+   做得好！您剛才已新增影像至您的自由格式登陸頁面。
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)

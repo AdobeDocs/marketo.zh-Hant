@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 含有表單的登陸頁面 {#landing-page-with-a-form}
 
-## 任務：建立包含表單的登陸頁面，以贏取新人員。 {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
+## 任務：建立具有表單的登陸頁面，以贏取新人員。 {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. 選取 **學習** 資料夾建立於 [上一個快速獲勝](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. 下 **[!UICONTROL 新增]**，按一下 **[!UICONTROL 新計畫]**.
+1. 選取 **學習** 資料夾建立於 [上一個快速獲勝](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. 在 **[!UICONTROL 新增]**，按一下 **[!UICONTROL 新計畫]**.
 
    ![](assets/landing-page-with-a-form-2.png)
 
@@ -35,13 +35,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >在程式名稱的結尾加上您的縮寫，使其成為唯一的。
+   >在程式名稱的結尾加上您的縮寫，使其成為唯一。
 
    >[!NOTE]
    >
-   >計畫是一種特定的行銷計畫。 此 **頻道** 旨在作為傳遞機制，例如網路研討會、贊助或線上廣告。 您可能會看見下拉式清單中的不同管道選項，視您自己的執行個體中可用的專案而定。 您也可以 [建立您自己的頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+   >方案是一個特定的行銷計畫。 此 **頻道** 旨在作為傳遞機制，例如網路研討會、贊助或線上廣告。 根據您自己的執行個體中可用的專案，您可能會在下拉式清單中看到不同的管道選項。 您也可以 [建立您自己的頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
-幹得漂亮！ 現在我們已經建立了計畫，接下來讓我們建立一些內容。
+做得很好！ 現在我們已建立程式，接著來建立一些內容。
 
 ## 步驟2：建立表單 {#step-create-a-form}
 
@@ -59,13 +59,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >請確定 **[!UICONTROL 在編輯器中開啟]** 核取方塊。 如果沒有，您必須按一下 **[!UICONTROL 編輯表單]** 標籤。
+   >請確定 **[!UICONTROL 在編輯器中開啟]** 方塊是否已勾選。 如果不是，您必須按一下 **[!UICONTROL 編輯表單]** 標籤。
 
    >[!TIP]
    >
    >看不到表單編輯器？ 您的瀏覽器可能封鎖了視窗。 啟用快顯視窗 `app.marketo.com` ，然後按一下頂端功能表列中的「編輯草稿」 。
 
-1. 選取 **[!UICONTROL 電子郵件地址]** 欄位和檢查 **[!UICONTROL 為必要]**.
+1. 選取 **[!UICONTROL 電子郵件地址]** 欄位並檢查 **[!UICONTROL 為必要]**.
 
    ![](assets/landing-page-with-a-form-7.png)
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-8.png)
 
-1. 按一下箭頭捲動主題。 選取一項。
+1. 按一下箭頭可捲動主題。 選取一項。
 
    ![](assets/landing-page-with-a-form-9.png)
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >「追蹤」頁面是訪客在填寫表單後重新導向的位置。 外部URL是一個選項，但還有更多選項。 另請參閱 [設定表單感謝頁面](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
+   >「後續追蹤頁面」是填寫表單後重新導向訪客的位置。 外部URL是一個選項，但還有更多選項。 另請參閱 [設定表單感謝頁面](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
 
 1. 按一下 **[!UICONTROL 完成]**.
 
@@ -101,7 +101,7 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-14.png)
 
-   太棒了！ 現在您有一個包含表單的程式。 讓我們繼續並建立一個頁面。
+   太棒了！ 現在您有一個包含表單的方案。 讓我們繼續並建立頁面。
 
 ## 步驟3：建立登入頁面並新增您的表單 {#step-create-a-landing-page-and-add-your-form}
 
@@ -117,7 +117,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您的範本可能與熒幕擷圖中的範本不同，沒關係，只要選一個範本並繼續。
+   >您可能有與熒幕擷圖不同的範本，沒關係，只要選擇一個並繼續操作即可。
 
    ![](assets/landing-page-with-a-form-17.png)
 
@@ -137,29 +137,29 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-21.png)
 
-   做得好！ 現在，您有一個包含表單的登陸頁面。 讓我們核准您的頁面，讓它上線。
+   做得好！您現在已有一個包含表單的登入頁面。 讓我們核准您的頁面，讓它上線。
 
 ## 步驟4：核准您的登陸頁面 {#step-approve-your-landing-page}
 
-1. 選取您的登入頁面，然後按一下 **[!UICONTROL 核准草稿]**.
+1. 選取您的登入頁面並按一下 **[!UICONTROL 核准草稿]**.
 
    ![](assets/landing-page-with-a-form-22.png)
 
    >[!NOTE]
    >
-   >核准登入頁面後，該頁面就會上線並可於網際網路上存取。
+   >核准登入頁面後，系統就會將其上線並可在網際網路上存取。
 
-   完美！ 看見上面的綠色核取記號了嗎？
+   完美！ 看見上面綠色的勾號了嗎？
 
    ![](assets/landing-page-with-a-form-23.png)
 
-## 步驟5：測試您的表單 {#step-test-your-form}
+## 步驟5：測試表單 {#step-test-your-form}
 
-1. 選取您的登入頁面，然後按一下 **[!UICONTROL 檢視已核准頁面]**.
+1. 選取您的登入頁面並按一下 **[!UICONTROL 檢視已核准頁面]**.
 
    ![](assets/landing-page-with-a-form-24.png)
 
-1. 在表單中填入已知的唯一資訊，然後按一下 **[!UICONTROL 提交]**.
+1. 在表格中填入您知道的唯一資訊，然後按一下 **[!UICONTROL 提交]**.
 
    ![](assets/landing-page-with-a-form-25.png)
 

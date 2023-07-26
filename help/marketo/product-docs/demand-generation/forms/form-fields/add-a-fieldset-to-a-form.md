@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 選取您的表單並按一下 **編輯表單**.
+1. 選擇您的表單並按一下 **編輯表單**.
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
@@ -35,12 +35,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
-1. 以下是完成時的外觀。
+1. 以下是完成時應該呈現的外觀。
 
    ![](assets/image2014-9-15-15-3a2-3a31.png)
 
-給你！
+您有！
 
 >[!TIP]
 >
->您可以根據其他欄位動態隱藏/顯示整個欄位集。 瞭解 [可見性規則](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
+>您可以根據其他欄位動態隱藏/顯示整個欄位集。 瞭解 [可見度規則](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).

@@ -13,7 +13,7 @@ ht-degree: 4%
 
 # 選取您的語言、地區設定和時區 {#select-your-language-locale-and-time-zone}
 
-英語不是您的第一語言嗎？ 別擔心，我們已為您解決問題。 以下說明如何變更您自己的語言、地區設定和時區。
+英語不是您的母語嗎？ 別擔心，我們已為您解決問題。 以下說明如何變更您自己的語言、地區設定和時區。
 
 ## 支援的語言 {#supported-languages}
 
@@ -34,7 +34,7 @@ ht-degree: 4%
 
    ![](assets/select-your-language-locale-and-time-zone-2.png)
 
-1. 在我的帳戶下，按一下 **[!UICONTROL 編輯位置設定]**.
+1. 在我的帳戶底下，按一下 **[!UICONTROL 編輯位置設定]**.
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
@@ -58,6 +58,6 @@ ht-degree: 4%
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 
-做得好！ 您的瀏覽器將會重新整理，而且您應該會看到變更已反映出來。
+做得好！ 您的瀏覽器將會重新整理，而且您應該會看到變更反映出來。
 
 ![](assets/select-your-language-locale-and-time-zone-8.png)

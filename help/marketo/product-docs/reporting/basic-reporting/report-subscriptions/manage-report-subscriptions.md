@@ -15,7 +15,7 @@ ht-degree: 0%
 
 設定和刪除報表訂閱。
 
-1. 前往 **分析** 區域。
+1. 前往 **Analytics** 區域。
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   此頁面顯示您帳戶中所有報告的訂閱，分組依據 [報告型別](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). 其中包括 [基本報告的訂閱](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) 和Revenue Cycle Explorer報表。
+   此頁面顯示您帳戶中所有報告的訂閱，依下列專案分組： [報告型別](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). 其中包括 [基本報表的訂閱](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) 和Revenue Cycle Explorer報表。
 
    >[!TIP]
    >
-   >您也可以在下列位置管理個別報表的訂閱： **行銷活動**. 選取報告並按一下 **訂閱** 標籤。
+   >您也可以在下列位置管理個別報表的訂閱： **行銷活動**. 選擇報告並按一下 **訂閱** 標籤。
 
    若要變更以電子郵件傳送報表的頻率，請按一下頻率欄位，然後從下拉式選單中選取新選項。
 
@@ -46,11 +46,11 @@ ht-degree: 0%
 
    * 按一下 **檢視** 按鈕以開啟報表。
    * 取消選取 **作用中** 核取方塊以停用訂閱。
-   * 按一下並編輯 **摘要** 欄位來變更電子郵件中顯示的預覽列數。
-   * 取消選取 **Excel** 核取方塊以傳送不含試算表附件的報表摘要。
+   * 按一下並編輯 **摘要** 欄位以變更電子郵件中顯示的預覽列數。
+   * 取消選取 **Excel** 核取方塊，傳送不含試算表附件的報表摘要。
    * 按一下 **傳送** 按鈕立即傳送報表電子郵件。
 
-1. 若要完全刪除訂閱，請選取該列並按一下 **刪除訂閱**.
+1. 若要完全刪除訂閱，請選取列並按一下 **刪除訂閱**.
 
    ![](assets/image2014-9-16-10-3a36-3a38.png)
 
@@ -61,4 +61,4 @@ ht-degree: 0%
    >[!MORELIKETHIS]
    >
    >* [訂閱基本報表](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
-   >* [訂閱Revenue Explorer報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+   >* [訂閱收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

@@ -25,31 +25,31 @@ ht-degree: 0%
 
 ### 忽略已耗用的內容 {#ignore-exhausted-content}
 
-將參與計畫設定為 [忽略耗盡](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)，包括隱藏任何通知。
+設定參與計畫至 [忽略耗盡](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)，包括隱藏任何通知。
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## 參與資料流測試 {#engagement-stream-testing}
 
-使用 [新的測試功能](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) 以模擬轉型，並測試新新增的內容到即時資料流。
+使用 [新的測試功能](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) 以模擬轉換，並將新新增的內容測試到即時資料流。
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
-## 個人化的傳送測試 {#personalized-send-test}
+## 個人化傳送測試 {#personalized-send-test}
 
 當您傳送電子郵件測試時，可以選取銷售機會名稱以個人化測試電子郵件。
 
 ![](assets/image2014-9-22-16-3a35-3a15.png)
 
-## &quot;以網頁檢視電子郵件&quot;和&quot;取消訂閱&quot;系統Token {#view-email-as-web-page-and-unsubscribe-system-tokens}
+## &quot;以網頁檢視電子郵件&quot;和&quot;Unsubscribe&quot;系統權杖 {#view-email-as-web-page-and-unsubscribe-system-tokens}
 
-善用這些 [新Token](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) 以更好地控制這些郵件在電子郵件中的位置。
+善用這些 [新權杖](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) 以更好地控制其在電子郵件中的位置。
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
 ## 自動觸發行銷活動清理 {#automatic-trigger-campaign-cleanup}
 
-Marketo現在會定期通知您並 [自動停用觸發行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) 過去6個月內未執行的專案。
+Marketo現在將定期通知您並 [自動停用觸發行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) 過去六個月未執行的專案。
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
@@ -61,4 +61,4 @@ Marketo現在會定期通知您並 [自動停用觸發行銷活動](/help/market
 
 ### Cobalt使用者介面 {#cobalt-user-interface}
 
-我們將繼續推出新的Cobalt介面。 此專案將讓Marketo的所有功能都超級快速！ 升級將在今年餘下時間繼續進行。
+我們將繼續推出新的Cobalt介面。 此專案將讓Marketo的所有功能變得超級快速！ 此升級作業將持續到今年餘下時間。

@@ -15,8 +15,8 @@ ht-degree: 1%
 
 有兩種通知型別包含在 [!DNL Workplace] 整合：
 
-* **系統通知**：取得 [!DNL Workplace] Marketo例項中重要事件的相關通知，例如目前行銷活動狀態的警示以及任何需要立即關注的問題（CRM錯誤和API限制）。
-* **有趣的時刻**：當 [!DNL Marketo Insight] 已由銷售帳戶中的已知個人觸發，可以透過以下方式通知潛在客戶擁有者： [!DNL Workplace]. 通知包括銷售機會資訊以及銷售帳戶的相關細節。
+* **系統通知**：取得 [!DNL Workplace] 有關您Marketo執行個體中重要事件的通知，例如有關目前行銷活動狀態的警報以及任何需要立即關注的問題（CRM錯誤和API限制）。
+* **有趣的時刻**：當 [!DNL Marketo Insight] 是由銷售帳戶中的已知個人觸發，可以透過以下方式通知潛在客戶擁有者： [!DNL Workplace]. 通知包括潛在客戶資訊以及銷售帳戶的相關細節。
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ ht-degree: 1%
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-3.png)
 
-1. 輸入 **[!UICONTROL 顯示名稱]** 您的 [!DNL Workplace] 整合。 在 **[!UICONTROL 服務]** 下拉式清單，選取 **[!UICONTROL Workplace by Facebook]**. 按一下 **[!UICONTROL 建立]**。
+1. 輸入 **[!UICONTROL 顯示名稱]** 針對您的 [!DNL Workplace] 整合。 在 **[!UICONTROL 服務]** 下拉式清單，選取 **[!UICONTROL 依工作場所Facebook]**. 按一下 **[!UICONTROL 建立]**。
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-4.png)
 
@@ -46,7 +46,7 @@ ht-degree: 1%
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-5.png)
 
-1. 按一下 **[!UICONTROL 授權]**. 這將開啟 [!DNL Workplace] 在新標籤中，您將在其中完成授權並授予Marketo提取資訊的許可權 [!DNL Workplace].
+1. 按一下 **[!UICONTROL 授權]**. 此專案隨即開啟 [!DNL Workplace] 在新標籤中，您將完成授權並授予Marketo提取資訊的許可權 [!DNL Workplace].
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-6.png)
 
@@ -70,6 +70,6 @@ ht-degree: 1%
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-11.png)
 
-   通知現在將開始張貼到 [!DNL Facebook] 步驟7中選取的群組。 它們看起來會像這樣：
+   通知現在將開始張貼至 [!DNL Facebook] 步驟7中選取的群組。 它們看起來會像這樣：
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-12.png)

@@ -1,6 +1,6 @@
 ---
 description: 銷售活動觸發器和篩選器 — Marketo檔案 — 產品檔案
-title: 銷售活動觸發器和篩選器
+title: 銷售活動觸發程式與篩選器
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# 銷售活動觸發器和篩選器 {#sales-activity-triggers-and-filters}
+# 銷售活動觸發程式與篩選器 {#sales-activity-triggers-and-filters}
 
-如果您想要更妥善地協調與銷售團隊的互動，或嘗試更清楚瞭解客戶在整個購買歷程中的互動方式，Marketo中的銷售活動深入解析將會對您有所幫助。
+如果您希望更妥善地協調與銷售團隊的互動，或嘗試更清楚瞭解客戶在整個購買歷程中的互動情況，Marketo中的銷售活動深入分析將十分實用。
 
 請依照下列步驟，瞭解如何在智慧行銷活動中利用銷售活動篩選器和觸發程式。
 
-1. 找到並選取所需的Smart Campaign。
+1. 找出並選取您想要的Smart Campaign。
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 

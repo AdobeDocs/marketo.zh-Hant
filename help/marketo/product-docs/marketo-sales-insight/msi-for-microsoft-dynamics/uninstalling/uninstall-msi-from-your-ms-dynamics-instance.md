@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37355600
-description: 從您的MS Dynamics執行個體解除安裝MSI - Marketo檔案 — 產品檔案
+description: 從MS Dynamics執行個體解除安裝MSI - Marketo檔案 — 產品檔案
 title: 從MS Dynamics執行個體解除安裝MSI
 exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
 feature: Marketo Sales Insights
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[停用全域MS Dynamics同步](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
+>[停用全域MS Dynamics同步處理](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
 
 1. 在Marketo中，按一下 **管理員**.
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 1. 選取 **Marketo Sales Insight** 並按一下刪除圖示。
 
-1. 當「解除安裝解決方案」強制回應視窗彈出時，請按一下 **確定**.
+1. 當解除安裝解決方案強制回應視窗彈出時，請按一下 **確定**.
 
    MS Dynamics解決方案通常需要大約20分鐘才能完全解除安裝。 不過，如果您有大型MS Dynamics執行個體，則可能需要更長的時間。
 

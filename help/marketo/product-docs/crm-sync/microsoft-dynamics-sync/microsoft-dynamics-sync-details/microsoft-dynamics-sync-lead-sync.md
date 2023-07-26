@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Microsoft Dynamics同步：銷售機會同步 {#microsoft-dynamics-sync-lead-sync}
 
-Marketo與Dynamics同步處理功能非常強大。 詳細資料如下：
+Marketo與Dynamics的同步處理功能非常強大。 詳細資料如下：
 
 ## 兩個系統之間的詳細資料如何保持同步？ {#how-are-details-kept-in-sync-between-the-two-systems}
 
-同步是雙向的。 如果您變更Dynamics中的銷售機會或Marketo中的人員，您的更新將會反映在這兩個系統中。
+同步是雙向的。 如果您變更Dynamics中的銷售機會或Marketo中的人員，您的更新將會反映在兩個系統中。
 
 >[!NOTE]
 >
->刪除並不總是自動同步處理兩個方向。 另請參閱 [刪除潛在客戶或連絡人](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md).
+>刪除並不總是自動雙向同步。 另請參閱 [刪除潛在客戶或連絡人](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md).
 
 ## 如果兩個系統中的相同欄位同時發生變更，該怎麼辦？ （資料衝突） {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
@@ -35,9 +35,9 @@ Marketo與Dynamics同步處理功能非常強大。 詳細資料如下：
 >
 >使用「將人員同步至Microsoft」流程動作時（僅適用於觸發促銷活動），系統會在Dynamics中即時建立銷售機會/聯絡人。
 
-## 我可以手動強制將人員從Marketo同步到Dynamics中的潛在客戶嗎？ {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
+## 我可以手動將人員從Marketo同步處理至Dynamics中的銷售機會嗎？ {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 
-否，自動背景同步是在Marketo和Dynamics之間同步更新的唯一方式。 此 [將人員同步至Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) 流程動作不會強制同步潛在客戶。
+不會，自動背景同步是在Marketo和Dynamics之間同步更新的唯一方法。 此 [將人員同步至Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) 流程動作不會強制同步處理潛在客戶。
 
 ## 哪些欄位會同步至Marketo？ {#what-fields-will-sync-to-marketo}
 

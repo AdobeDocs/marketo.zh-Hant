@@ -37,13 +37,13 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >如果結果跨越多個頁面，請按一下 **全選** 會選取所有頁面上的所有人員。
+   >如果結果跨越多個頁面，請按一下 **全選** 將會選取所有頁面上的所有人員。
 
-1. 下 **個人** **動作**，選取您選取的流程步驟。 在此範例中，我們將使用 [變更資料值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+1. 在 **個人** **動作**，選取您選取的流程步驟。 在此範例中，我們將使用 [變更資料值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
-1. 尋找並選取 **屬性**. 在此範例中，我們將接受所有擁有「加州」的人，並將其變更為「CA」。
+1. 尋找並選取 **屬性**. 在此範例中，我們將接受所有擁有州「加州」的人，並將其變更為「CA」。
 
    ![](assets/runaction-hands.png)
 
@@ -55,7 +55,7 @@ ht-degree: 1%
 
    ![](assets/changedatavalue.jpg)
 
-做得很棒！ 您會在右上角看到單一流程步驟的狀態。
+做得棒極了！ 您會在右上角看到單一流程步驟的狀態。
 
 ![](assets/completesingleflowaction.jpg)
 

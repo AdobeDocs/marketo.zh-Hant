@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7511931
-description: 在Salesforce1 - Marketo檔案中傳送Marketo電子郵件和Campaign及Watchlist動作 — 產品檔案
+description: 在Salesforce1 - Marketo檔案 — 產品檔案中傳送Marketo電子郵件和行銷活動以及監看清單動作
 title: 在Salesforce1中傳送Marketo電子郵件和Campaign及監看清單動作
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >會顯示哪些智慧行銷活動？ 具有「已要求Campaign」觸發器的事件。 瞭解如何設定 [使用「Campaign is Requested」觸發的行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)「。
+   >會出現哪些智慧型行銷活動？ 具有「已要求Campaign」觸發器的事件。 瞭解如何設定 [使用「已請求行銷活動」觸發的行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)「。
 
 酷，現在您的銷售人員可以積極參與行銷工作。
 
@@ -31,9 +31,9 @@ ht-degree: 0%
 >
 >**範例**
 >
->可請求的優秀智慧行銷活動聽起來可能像是：
+>可請求的優秀智慧型行銷活動聽起來可能如下：
 >
 >1. 長期培養 — 當他們今年沒有預算時
->1. 作用中銷售週期 — 當銷售人員不希望有任何訊息給銷售機會，除了他們自己的（使用行銷暫停旗標來暫時取消訂閱）
+>1. 有效銷售週期 — 當銷售人員不希望任何訊息傳遞給銷售機會，除了他們自己的訊息（使用行銷暫停旗標來暫時取消訂閱）
 >
->發揮創造力。 銷售人員想要自動化什麼？ 只要詢問他們，然後接通電源！
+>發揮創意。 銷售人員想要自動化什麼？ 只要詢問他們，然後接通電源！

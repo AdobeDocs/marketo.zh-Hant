@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 發行說明： 2015年2月 {#release-notes-february}
 
-2015年2月發行版本包含下列功能。 請檢查您的Marketo版本是否有功能可用。 發行後，請務必回訪以尋找每個功能的詳細文章連結。 鼓卷……
+2015年2月發行版本包含下列功能。 請檢查您的Marketo版本是否有功能可用。 發行後，請務必返回尋找每個功能的詳細文章連結。 鼓卷……
 
 ## 行銷自動化增強功能 {#marketing-automation-enhancements}
 
-**[移動Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
+**[移動智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
 
-歡欣鼓舞！ 現在您可以使用拖放或樹狀結構中的「移動」功能，將智慧型行銷活動移入或移出方案。
+歡呼！ 現在，您可以使用拖放或樹狀結構中的移動功能，將智慧型行銷活動移入和移出方案。
 
 **[Dynamics 2015 （線上）](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)**  — 支援！
 
@@ -27,26 +27,26 @@ ht-degree: 0%
 
 為了保護客戶資料和SaaS服務的機密性和完整性，Marketo遵循SaaS業界最佳實務
 
-和將會在下列網域中，以較安全的版本(SHA-2 （亦即SHA-256）和TLS)取代目前使用的安全性通訊協定（SHA-1和SSL）：
+和將會用以下網域的更安全版本(SHA-2 （亦即SHA-256）和TLS)取代目前使用的安全性通訊協定（SHA-1和SSL）：
 
 * marketo.net （加密的Munchkin流量）
 
 * [marketo.com](https://marketo.com) （主要SaaS應用程式）
 
-此作業將於此版本發行後不久發生。 SHA-1通訊協定將暫時支援 [mktoapi.com](https://mktoapi.com) 網域，直到2015年12月，允許舊版系統和應用程式的擁有者以SHA-2相容性更新其系統。
+此作業將於此版本發行後不久進行。 SHA-1通訊協定將暫時受支援 [mktoapi.com](https://mktoapi.com) 網域延長至2015年12月，讓舊版系統和應用程式的擁有者能夠更新其系統，使其具備SHA-2相容性。
 
 **安全Munchkin**
 
-我們將移除對SSL3的支援。 我們一直維持SSL3至目前為止，以維持對舊版網頁瀏覽器的支援，但2015年我們不再看到來自這些瀏覽器的大量網頁流量。 這只會影響用於安全頁面的Munchkin，並且在2月發行後會慢慢推出。
+我們正在移除對SSL3的支援。 我們維持了SSL3直到現在為止，以維持對舊版網頁瀏覽器的支援，但在2015年，我們不再看到來自這些瀏覽器的重大網頁流量。 這只會影響用於安全頁面的Munchkin，且在2月發行後才會緩慢推出。
 
 ## 即時個人化增強功能 {#real-time-personalization-enhancements}
 
 **[行銷活動的目標URL](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
 
-使用「新增目標URL」選取您想要即時行銷活動顯示的頁面。 此功能適用於所有促銷活動型別（對話方塊、區域內、Widget），但特別適用於區域內促銷活動，因為區域內的促銷活動只會針對所選的目標URL在區域ID中呈現。 支援新增多個URL以鎖定不同的網頁。
+使用「新增目標URL」選取您想要即時行銷活動顯示的頁面。 此功能適用於所有行銷活動型別（對話方塊、In Zone、Widget），但對於In Zone行銷活動尤其有用，因為該行銷活動只會在Zone ID中顯示所選的目標URL。 支援新增多個URL以鎖定不同的網頁。
 
 ![](assets/image2015-2-19-11-3a0-3a30.png)
 
-**帳戶型鎖定目標新增了國家/地區和州**
+**新增至帳戶型定位的國家/地區和州**
 
-您現在可以將國家/地區和州新增至您指定的帳戶清單。 從特定位置鎖定主要帳戶潛在客戶。
+現在可將國家/地區和州新增到您的具名帳戶清單中。 從特定位置鎖定主要帳戶潛在客戶。

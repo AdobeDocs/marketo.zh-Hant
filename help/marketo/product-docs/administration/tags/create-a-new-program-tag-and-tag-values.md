@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-您可以建立自訂 [標籤](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 並為標籤指派值。
+您可以建立自訂 [標籤](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 並將值指派給標籤。
 
 >[!NOTE]
 >
@@ -49,9 +49,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以選取多個程式型別。 建立新計畫時，此標籤型別將可用。
+   >您可以選取多個方案型別。 建立新程式時，此標籤型別將可供使用。
 
-1. Check **[!UICONTROL 必填]** 並按一下 **[!UICONTROL 建立]**.
+1. 檢查 **[!UICONTROL 必填]** 並按一下 **[!UICONTROL 建立]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 

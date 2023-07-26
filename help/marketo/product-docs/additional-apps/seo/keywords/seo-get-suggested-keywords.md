@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO — 取得建議的關鍵字 {#seo-get-suggested-keywords}
 
-Marketo SEO可建議您應該追蹤哪些關鍵字。 我們可以根據關鍵字或網站URL提供建議。 試試看！
+Marketo SEO可建議您應該追蹤哪些關鍵字。 我們可以根據關鍵字或網站的URL提供建議。 試試看！
 
 ## 使用關鍵字取得關鍵字建議 {#get-keyword-suggestions-using-a-keyword}
 
@@ -31,7 +31,7 @@ Marketo SEO可建議您應該追蹤哪些關鍵字。 我們可以根據關鍵�
 
    >[!TIP]
    >
-   >您知道您可以  [將您的關鍵字新增至新的或現有的清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) 就在這裡？
+   >您知道您可以  [將關鍵字新增至新的或現有的清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) 就在這裡？
 
 1. 選取建議的關鍵字。 按一下 **[!UICONTROL 新增選取專案]**.
 
@@ -63,7 +63,7 @@ Marketo SEO可建議您應該追蹤哪些關鍵字。 我們可以根據關鍵�
 
    >[!TIP]
    >
-   >您知道您可以 [將您的關鍵字新增至新的或現有的清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) 就在這裡？
+   >您知道您可以 [將關鍵字新增至新的或現有的清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) 就在這裡？
 
 1. 選取建議的關鍵字。 按一下 **[!UICONTROL 新增選取專案]**.
 

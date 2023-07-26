@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 將檢視新增為網頁連結至電子郵件 {#add-a-view-as-web-page-link-to-an-email}
 
-電子郵件的功能有限（CSS有限，無JavaScript或表單）。 使用「以網頁形式檢視」來提供連結，以在瀏覽器中顯示您的電子郵件。 這將會使用Munchkin對收件者進行Cookie。
+電子郵件的功能有限（CSS有限，無JavaScript或表單）。 使用「以網頁形式檢視」來提供連結，以在瀏覽器中顯示您的電子郵件。 這樣會使用Munchkin來Cookie收件者。
 
 >[!NOTE]
 >

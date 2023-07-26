@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 瞭解Microsoft Dynamics同步 {#understanding-the-microsoft-dynamics-sync}
 
-Marketo與Microsoft Dynamics搭配使用。 我們會同步處理您的銷售和行銷資料。
+Marketo與Microsoft Dynamics搭配使用。 我們保持您的銷售和行銷資料同步。
 
 >[!NOTE]
 >
@@ -21,25 +21,25 @@ Marketo與Microsoft Dynamics搭配使用。 我們會同步處理您的銷售和
 
 >[!CAUTION]
 >
->我們目前不支援Marketo Dynamics Sync的沙箱重新整理。 如果您需要重新整理Dynamics CRM沙箱，則需要新的Marketo沙箱。 如需其他詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+>我們目前不支援Marketo Dynamics Sync的沙箱重新整理。 如果您需要重新整理Dynamics CRM沙箱，則需要新的Marketo沙箱。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 ## 同步如何運作 {#how-sync-works}
 
-Marketo會每天持續與Microsoft Dynamics同步資料。 它是使用背景同步來批次完成的，而非即時。
+Marketo一整天都會持續與Microsoft Dynamics同步資料。 這是使用背景同步來批次完成的，而非即時。
 
 >[!NOTE]
 >
->您的訂閱中第一次同步需要數分鐘到數小時的時間，視您的資料庫大小而定。 Marketo會從Dynamics複製整個資料庫。 之後，每次同步通常需要數秒或數分鐘的時間，而且只會同步已變更的資料。
+>您的訂閱中第一次同步需要數分鐘到數小時的時間，視您的資料庫大小而定。 Marketo會從Dynamics複製整個資料庫。 之後，每個同步通常需要數秒或數分鐘的時間，而且只會同步已變更的資料。
 
-對於潛在客戶和聯絡人，Marketo和Dynamics之間的同步是雙向的。 如果您在Marketo或Dynamics中進行變更，您的更新將會反映在這兩個系統中。 所有其他欄位（例如帳戶和商機）只會以單一方式同步(從Dynamics到Marketo)。
+對於潛在客戶和聯絡人，Marketo和Dynamics之間的同步是雙向的。 如果您在Marketo或Dynamics中進行變更，您的更新將會反映在兩個系統中。 所有其他欄位（例如帳戶和商機）只會以單向方式同步，從Dynamics到Marketo。
 
-## 什麼是Marketo與Microsoft Dynamics之間同步的？ {#what-is-synced-between-marketo-and-microsoft-dynamics}
+## Marketo和Microsoft Dynamics之間會同步哪些專案？ {#what-is-synced-between-marketo-and-microsoft-dynamics}
 
 * [銷售機會](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
 * [連絡人](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
 * [帳戶](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
 * [使用者](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
-* 團隊（系統使用者群組）
+* 團隊（SystemUsers群組）
 * [機會](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [自訂實體](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 

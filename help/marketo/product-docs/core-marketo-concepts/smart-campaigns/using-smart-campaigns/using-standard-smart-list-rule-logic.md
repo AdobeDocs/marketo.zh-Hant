@@ -19,9 +19,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->變更智慧清單規則邏輯僅適用於篩選器， **not** 觸發器。
+>變更智慧清單規則邏輯僅適用於篩選器， **非** 觸發器。
 
-系統會一律將觸發器評估為「或」，即使上述設定設為「全部」亦然。  範例如下：
+系統會一律將觸發器評估為OR，即使上述設定設為ALL亦然。  範例如下：
 
 ![](assets/image2014-9-22-14-3a12-3a57.png)
 
@@ -38,8 +38,8 @@ Country is USA
 THEN follow the campaign's flow step(s)
 ```
 
-所以，如果有人填寫表格 **或** 造訪頁面時，行銷活動會根據以下條件評估該人員： **全部** 或 **任何** 後續篩選器的預設值（視使用的設定而定）。
+所以，如果有人填寫表格 **或** 造訪頁面時，行銷活動會根據以下條件評估該人員： **全部** 或 **任何** 後續濾鏡的ID （視使用的設定而定）。
 
 >[!MORELIKETHIS]
 >
->[使用進階智慧列示規則邏輯](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
+>[使用進階智慧清單規則邏輯](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)

@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
-1. 尋找並選取所需的欄位。
+1. 尋找並選取所需欄位。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 

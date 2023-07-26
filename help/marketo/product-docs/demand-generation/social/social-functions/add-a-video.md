@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->並非所有客戶都已購買此功能。 如需詳細資訊，請聯絡您的銷售代表。
+>並非所有客戶都已購買此功能。 請聯絡您的銷售代表以取得詳細資訊。
 
 1. 導覽至您的登陸頁面，然後按一下 **編輯草稿**.
 
    ![](assets/image2014-9-23-16-3a49-3a49.png)
 
-1. 拖曳到 **視訊** 從右側的元素中選取。
+1. 拖移到 **視訊** 從右側的元素。
 
    ![](assets/image2014-9-23-16-3a51-3a0.png)
 
-1. 選取 **新建** 下拉式清單。
+1. 選取 **新建** 從下拉式清單。
 
    ![](assets/image2014-9-23-16-3a51-3a11.png)
 
@@ -43,8 +43,8 @@ ht-degree: 0%
 >
 >為節省時間，您可以使用 **複製來源** 從現有視訊共用複製所有設定的選項。
 
-恭喜！您已將視訊共用新增至登陸頁面。 核准登入頁面，您的視訊共用即時。 您也可以 [將登入頁面發佈至Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) 或 [將視訊共用放在您的網站上](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
+恭喜！您已新增視訊共用至您的登陸頁面。 核准登陸頁面，您的視訊共用即時。 您也可以 [將登入頁面發佈至Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) 或 [將視訊共用放在您的網站上](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
 
 >[!MORELIKETHIS]
 >
->已完成，但您可以視需要變更視訊共用的設定。 開始於 [自訂共用流程](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) （共用提示開啟的時間和位置）。
+>您已完成，但如有需要，您可以變更視訊共用的設定。 開始於 [自訂共用流程](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) （共用提示開啟的時間和位置）。

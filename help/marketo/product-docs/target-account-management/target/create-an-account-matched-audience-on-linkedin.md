@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 在LinkedIn上建立帳戶相符的受眾 {#create-an-account-matched-audience-on-linkedin}
 
-從您的TAM帳戶清單中建立帳戶相符的對象用於 [linkedIn廣告鎖定](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). linkedIn會將該清單與其系統中的帳戶進行比對，而您可以根據該帳戶清單建立LinkedIn對象，以跨LinkedIn管道啟用。 這可讓行銷人員鎖定資料庫內或資料庫外的使用者。
+從您的TAM帳戶清單建立帳戶相符的受眾，用於 [linkedIn廣告鎖定](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). linkedIn會將清單與其系統中的帳戶進行比對，而您可以根據該帳戶清單建立LinkedIn對象，以跨LinkedIn管道啟用。 這可讓行銷人員鎖定資料庫內或資料庫外的使用者。
 
 >[!PREREQUISITES]
 >
->[將LinkedIn相符的對象新增為LaunchPoint服務](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[將LinkedIn相符的受眾新增為LaunchPoint Service](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. 在TAM中，按一下 **帳戶清單** 標籤。
 
    ![](assets/create-a-matched-audience-on-linkedin-1.png)
 
-1. 選擇所需的帳戶清單。
+1. 選擇您需要的帳戶清單。
 
    ![](assets/create-a-matched-audience-on-linkedin-2.png)
 

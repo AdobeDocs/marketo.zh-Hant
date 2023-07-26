@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 預覽和測試網站行銷活動 {#preview-and-test-a-web-campaign}
 
-本文說明預覽網頁行銷活動的不同方式，以及如何使用網站上已上線的沙箱區段來測試行銷活動。
+本文說明預覽網站行銷活動的不同方式，以及如何使用沙箱區段即時測試您的網站。
 
 >[!NOTE]
 >
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 ## 在建立頁面上預覽網站行銷活動 {#preview-a-web-campaign-on-the-creation-page}
 
-1. 前往 **網路行銷活動**.
+1. 前往 **網站行銷活動**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. 按一下 **建立新的網站行銷活動** 或圖示以編輯現有行銷活動。
+1. 按一下 **建立新的網站行銷活動** 或圖示以編輯現有的行銷活動。
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. 在「在網站上預覽」中，新增頁面URL並按一下 **預覽**. 隨即開啟新視窗/標籤，顯示行銷活動預覽。
+1. 在網站預覽中，新增頁面URL並按一下 **預覽**. 隨即開啟新視窗/標籤，顯示行銷活動預覽。
 
    ![](assets/three-1.png)
 
@@ -43,9 +43,9 @@ ht-degree: 0%
 
 ## 使用瀏覽器外掛程式，在建立頁面上預覽網站行銷活動 {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
-1. 請依照上一節中的步驟1和2操作。
+1. 請依照上節中的步驟1和2操作。
 
-1. 按一下瀏覽器外掛程式的連結（在此案例中是使用Chrome）。
+1. 按一下瀏覽器外掛程式的連結（在此案例中我們使用的是Chrome）。
 
    ![](assets/4-1.png)
 
@@ -65,13 +65,13 @@ ht-degree: 0%
 
    ![](assets/campaign-preview.png)
 
-## 在網頁行銷活動頁面上預覽網頁行銷活動 {#preview-a-web-campaign-on-the-web-campaigns-page}
+## 在網站行銷活動頁面上預覽網站行銷活動 {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. 檢視您的網路行銷活動清單時，只要選擇行銷活動，然後按一下 **預覽** 圖示。
+1. 檢視您的網路行銷活動清單時，只要選擇行銷活動並按一下 **預覽** 圖示。
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
-   簡單！
+   輕鬆！
 
 ## 在您的網站上預覽網站行銷活動 {#preview-a-web-campaign-on-your-website}
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
    ![](assets/segment.png)
 
-1. 在「設定網站行銷活動」頁面上，從清單中選取「目標區段」 ，將其變更為沙箱區段。
+1. 在「設定網頁行銷活動」頁面上，從清單中選取目標區段，將其變更為沙箱區段。
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
@@ -109,4 +109,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->無法預覽重新導向行銷活動。 測試這些專案的唯一方式是使用沙箱區段(依特定頁面鎖定目標 —  &#42;sandbox=redirect&#42;)
+>無法預覽重新導向行銷活動。 測試它們的唯一方式是使用沙箱區段(依特定頁面鎖定目標 —  &#42;sandbox=redirect&#42;)

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360358
-description: 限制使用者僅以SSO登入 — Marketo檔案 — 產品檔案
-title: 僅限使用者登入至SSO
+description: 將使用者登入限製為僅限SSO - Marketo檔案 — 產品檔案
+title: 將使用者登入限製為僅限SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 僅限使用者登入至SSO {#restrict-user-login-to-sso-only}
+# 將使用者登入限製為僅限SSO {#restrict-user-login-to-sso-only}
 
-如果您是 [使用SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) 並且想要確保使用者無法略過SSO安全性，請遵循這些指示。
+如果您是 [使用SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) 若要確保使用者無法略過SSO安全性，請遵循這些指示。
 
 >[!IMPORTANT]
 >
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->最佳實務是邀請使用者並接受邀請。 _晚於_ 邀請被接受，管理員應將其設為&quot;[!UICONTROL 需要SSO].」
+>最佳實務建議邀請使用者並接受邀請。 _晚於_ 接受邀請，管理員應將邀請設為&quot;[!UICONTROL 需要SSO].」
 
 >[!TIP]
 >
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->邀請新使用者時，他們會收到邀請電子郵件。 但是，如果 **[!UICONTROL 需要SSO]** ，則他們不會收到這些電子郵件，除非他們被指派給設定的角色 **[!UICONTROL 略過單一登入]**.
+>邀請新使用者時，他們會收到邀請電子郵件。 但是，如果 **[!UICONTROL 需要SSO]** ，則不會收到這些電子郵件，除非已指派給設定為 **[!UICONTROL 略過單一登入]**.
 
 完成了！ 現在，所有使用者（具有略過單一登入許可權的使用者除外）將限製為僅使用SSO登入。
 

@@ -17,16 +17,16 @@ ht-degree: 0%
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.com](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) 展示您可從Marketo計畫資料庫下載的電子郵件和登入頁面範本（包括回應式行動電子郵件範本）。 我們每月都會新增範本，請經常回來檢視！
+[Templates.marketo.com](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) 展示您可從Marketo方案庫下載的電子郵件和登入頁面範本（包括回應式行動電子郵件範本）。 我們每月都會新增範本，請經常回來檢視！
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.com](https://developers.marketo.com) 適用於想建立Marketo整合的開發人員。 您可以參考不同的整合選項，包括Munchkin JavaScript API、SOAP API程式碼範例、Webhook和電子郵件指令碼。 Java SDK也可在以下網址取得： [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developers.marketo.com](https://developers.marketo.com) 適用於想建置整合至Marketo的開發人員。 您可以參考不同的整合選項，包括Munchkin JavaScript API、SOAP API程式碼範例、Webhook和電子郵件指令碼。 Java SDK也可在以下網址取得： [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
-## 更新的BrightTALK事件轉接器 {#updated-brighttalk-event-adapter}
+## 已更新BrightTALK事件轉接器 {#updated-brighttalk-event-adapter}
 
-將其他欄位從BrightTALK同步至Marketo，包括公司名稱、職稱、產業和公司規模。
+從BrightTALK將其他欄位同步至Marketo，包括公司名稱、職稱、產業和公司規模。
 
 ## Android Tablet事件簽入應用程式 {#android-tablet-event-check-in-app}
 
-使用我們的新功能將註冊者登記到您的活動中 [Android型簽入應用程式](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) 可用日期 [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).
+使用我們的新功能將註冊者簽到您的活動中 [Android型簽入應用程式](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) 可用日期 [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).

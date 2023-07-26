@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 選取包含您的智慧行銷活動的方案。
+1. 選取包含您的Smart Campaign的方案。
 
    ![](assets/image2015-4-16-14-3a40-3a11.png)
 
@@ -35,4 +35,4 @@ ht-degree: 0%
    >
    >您也可以從以下位置執行此操作： [方案焦點](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
-搖桿！ 同樣地，您已為該智慧行銷活動排程另一次執行。 如果該智慧行銷活動包含傳送電子郵件步驟，您也會看到這些步驟！
+搖晃！ 同樣地，您已為該智慧行銷活動排程另一次執行。 如果該智慧行銷活動包含傳送電子郵件步驟，您也會看到這些步驟！

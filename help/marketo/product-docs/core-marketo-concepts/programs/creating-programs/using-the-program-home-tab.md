@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用方案首頁標籤 {#using-the-program-home-tab}
 
-計畫首頁索引標籤為您提供計畫進展情況的概觀。
+計畫首頁索引標籤為您提供計畫活動的高層級檢視。
 
 ## 摘要檢視 {#summary-view}
 
@@ -27,13 +27,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >這是您的預設檢視。 它提供有關您的設定、排程、結果和成員計畫狀態的資訊。
+   >這是您的預設檢視。 它提供您的「設定」、「排程」、「結果」和「成員計畫狀態」的相關資訊。
 
 1. 按一下加底線的元素以進行變更或檢視更多資訊。
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. 按一下 **匯出** 位於要下載的摘要報告底部。
+1. 按一下 **匯出** 位於摘要底部以下載報表。
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
@@ -61,14 +61,14 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
-   這會向您顯示成員在方案狀態中移動時的位置圖表。
+   這會為您顯示成員在方案狀態中移動時的位置圖形。
 
    ![](assets/image2014-9-18-17-3a8-3a1.png)
 
    >[!NOTE]
    >
-   >**歷史** 表示曾瀏覽過此計畫的使用者，同時 **目前** 僅包含目前方案中的人員。
+   >**歷史** 表示曾瀏覽過此計畫的使用者，而 **目前** 僅包含目前加入方案的人員。
 
    >[!MORELIKETHIS]
    >
-   >[瞭解計畫成員資格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+   >[瞭解計畫會員資格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)

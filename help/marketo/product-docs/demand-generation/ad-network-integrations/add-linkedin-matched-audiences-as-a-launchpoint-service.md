@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7504163
 description: 將LinkedIn相符的受眾新增為LaunchPoint服務 — Marketo檔案 — 產品檔案
-title: 將LinkedIn相符的對象新增為LaunchPoint服務
+title: 將LinkedIn相符的受眾新增為LaunchPoint Service
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 2%
 
 ---
 
-# 將LinkedIn相符的對象新增為LaunchPoint服務 {#add-linkedin-matched-audiences-as-a-launchpoint-service}
+# 將LinkedIn相符的受眾新增為LaunchPoint Service {#add-linkedin-matched-audiences-as-a-launchpoint-service}
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ ht-degree: 2%
 
    >[!CAUTION]
    >
-   >為了讓Marketo可跨多個LinkedIn廣告帳戶傳送受眾，您在以下步驟中授權的LinkedIn使用者需要擁有以下存取權 *全部* 行銷活動經理中列出的所有廣告帳戶。
+   >為了讓Marketo可跨多個LinkedIn廣告帳戶傳送受眾，您在以下步驟中授權的LinkedIn使用者需要擁有存取權 *全部* 行銷活動管理員中的這些廣告帳戶中的。
 
 1. linkedIn會在新標籤中開啟。 從這裡，登入您的LinkedIn帳戶。
 
@@ -55,7 +55,7 @@ ht-degree: 2%
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   太棒了！ 您現在會在「已安裝服務」標籤中看到「LinkedIn相符的對象」列為LaunchPoint服務。
+   棒極了！ 您現在會在「已安裝服務」標籤中看到「LinkedIn相符的對象」列為LaunchPoint服務。
 
    ![](assets/bartholomew2.png)
 

@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/set-segment-hands.jpg)
 
-1. 從您已上傳的具名帳戶清單中選取帳戶清單。 「帳戶清單名稱」旁邊括弧內的數字是供API參考的清單ID。
+1. 從您已上傳的具名帳戶清單中選取帳戶清單。 「帳戶清單名稱」旁方括弧內的數字是供API參考的清單ID。
 
    ![](assets/select-list-for-segment-hands.jpg)
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本12E {#template-12e}
 
-按一下滑鼠右鍵以 [下載範本12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
+按一下右鍵以 [下載範本12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
 
 ![](assets/image2015-8-4-14-3a45-3a47.png)
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 * 標題（選用）
 * 主要區段
 
-   * 包括英雄標題、英雄文字和抽獎
+   * 包括主圖示題、主圖文字和抽獎
 
 * 六個主體區段（選擇性）
 * 頁尾（選擇性）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)

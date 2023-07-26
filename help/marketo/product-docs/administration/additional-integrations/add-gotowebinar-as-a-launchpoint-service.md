@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 新增 [!DNL GoToWebinar] as a [!DNL LaunchPoint] 服務 {#add-gotowebinar-as-a-launchpoint-service}
 
-Marketo管理您的 [!DNL GoToWebinar] 註冊與出席。
+Marketo管理您的 [!DNL GoToWebinar] 報名及出席。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Marketo管理您的 [!DNL GoToWebinar] 註冊與出席。
 
 >[!NOTE]
 >
->的現有訂閱 [!DNL GoToWebinar] 此步驟需要和管理許可權。 擁有您用來登入的電子郵件和密碼 [!DNL GoToWebinar] 手邊。
+>的現有訂閱 [!DNL GoToWebinar] 此步驟需要與管理許可權。 擁有您用來登入的電子郵件和密碼 [!DNL GoToWebinar] 手邊。
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ Marketo管理您的 [!DNL GoToWebinar] 註冊與出席。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-3.png)
 
-1. 輸入 **[!UICONTROL 顯示名稱]**. 下 **[!UICONTROL 服務]**，選取 **[!UICONTROL GoTo網路研討會]**.
+1. 輸入 **[!UICONTROL 顯示名稱]**. 在 **[!UICONTROL 服務]**，選取 **[!UICONTROL GoToWebinar]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-4.png)
 
@@ -51,7 +51,7 @@ Marketo管理您的 [!DNL GoToWebinar] 註冊與出席。
    >
    >如果您想要將Marketo表單中的公司名稱和職稱同步至 [!DNL GoToWebinar]，選取 **[!UICONTROL 啟用其他欄位]** 方塊。
 
-1. 在 [!DNL GoToWebinar] 登入快顯視窗，輸入您的 **[!UICONTROL GoTo網路研討會]** 電子郵件和密碼，然後按一下 **[!UICONTROL 登入]**.
+1. 在 [!DNL GoToWebinar] 登入快顯視窗，輸入您的 **[!UICONTROL GoToWebinar]** 電子郵件和密碼，然後按一下 **[!UICONTROL 登入]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-6.png)
 
@@ -59,13 +59,13 @@ Marketo管理您的 [!DNL GoToWebinar] 註冊與出席。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-7.png)
 
-1. 太棒了！ 您的 **[!UICONTROL GoTo網路研討會]** 帳戶現在已與Marketo同步。
+1. 太棒了！ 您的 **[!UICONTROL GoToWebinar]** 帳戶現在已與Marketo同步。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-8.png)
 
 >[!CAUTION]
 >
->當您在中更新您的密碼時 [!DNL GoToWebinar]，您也必須在Marketo中更新密碼。
+>當您在中更新密碼時 [!DNL GoToWebinar]，您也必須在Marketo中更新密碼。
 
 >[!MORELIKETHIS]
 >

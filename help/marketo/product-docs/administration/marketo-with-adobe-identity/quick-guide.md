@@ -30,9 +30,9 @@ ht-degree: 0%
 
 [移除使用者](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user){target="_blank"}
 
-## Marketo Engage中的僅API使用者 {#api-only-user-in-marketo-engage}
+## Marketo Engage中僅API使用者 {#api-only-user-in-marketo-engage}
 
-僅限Marketo Engage API使用者必須在Marketo Engage中建立和管理。
+僅限Marketo Engage API必須在Marketo Engage中建立和管理使用者。
 
 [為啟用Adobe IMS的訂閱新增「僅限API使用者」](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}
 

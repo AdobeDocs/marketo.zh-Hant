@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本17E {#template-17e}
 
-按一下滑鼠右鍵以 [下載範本17E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)
+按一下右鍵以 [下載範本17E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)
 
 ![](assets/image2015-8-17-17-3a43-3a20.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 六個主體區段（選擇性）
 * 頁尾（選擇性）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本17E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)

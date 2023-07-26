@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12980661
-description: 新增Google Customer Match as a LaunchPoint Service - Marketo檔案 — 產品檔案
+description: 將Google Customer Match新增為LaunchPoint Service - Marketo檔案 — 產品檔案
 title: 將Google Customer Match新增為LaunchPoint Service
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # 將Google Customer Match新增為LaunchPoint Service {#add-google-customer-match-as-a-launchpoint-service}
 
-透過這項整合，您可以傳送Marketo對象至Google，以使用Google AdWords設為目標，並跨YouTube、Search和Gmail重新設為目標。
+透過這項整合，您可以傳送Marketo對象至Google，以使用Google AdWords設為目標，並跨YouTube、Search和Gmail重新鎖定對象。
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ ht-degree: 2%
 
    >[!CAUTION]
    >
-   >為了讓Marketo可跨多個AdWords帳戶傳送對象，您要在以下步驟中授權的Google使用者必須有權存取 _全部_ 這些帳戶中的。
+   >為了讓Marketo可跨多個AdWords帳戶傳送受眾，您在以下步驟中授權的Google使用者需要擁有存取權 _全部_ 這些帳戶中的一個。
 
    ![](assets/chooseaccount.png)
 
@@ -51,12 +51,12 @@ ht-degree: 2%
 
    ![](assets/reviewpermissions.png)
 
-1. 您的Google AdWords帳戶現在已連線至Marketo。 按一下 **建立**。
+1. 您的Google AdWords帳戶現已連線至Marketo。 按一下 **建立**。
 
    ![](assets/authorizesuccess.png)
 
-   太棒了！ 您現在會在「已安裝服務」標籤中看到「Google相符的對象」列為LaunchPoint服務。
+   棒極了！ 您現在會在「已安裝服務」標籤中看到「Google相符的對象」列為LaunchPoint服務。
 
 >[!NOTE]
 >
->Google Customer Match整合僅可容納一個管理員帳戶及該管理員帳戶內的所有子帳戶。 不支援多個管理員帳戶。
+>Google Customer Match整合只能容納一個管理員帳戶以及該管理員帳戶內的所有子帳戶。 不支援多個管理員帳戶。

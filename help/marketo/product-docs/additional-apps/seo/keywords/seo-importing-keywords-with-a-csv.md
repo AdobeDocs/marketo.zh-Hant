@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO — 使用CSV匯入關鍵字 {#seo-importing-keywords-with-a-csv}
 
-1. 您可以 [新增關鍵字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) 手動， [取得關鍵字建議](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) 甚至從CSV檔案匯入關鍵字。 以下說明如何匯入。
+1. 您可以 [新增關鍵字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) 手動， [取得關鍵字建議](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) 甚至從CSV檔案匯入關鍵字。 以下說明匯入的方法。
 
 1. 前往 **[!UICONTROL 關鍵字]** 區段。
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >載入與每個關鍵字關聯的所有資料可能需要幾分鐘的時間。
+   >載入與每個關鍵字相關聯的所有資料可能需要幾分鐘的時間。
 
    >[!MORELIKETHIS]
    >

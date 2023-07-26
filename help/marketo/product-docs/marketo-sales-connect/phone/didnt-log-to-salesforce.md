@@ -13,6 +13,6 @@ ht-degree: 0%
 
 # 未登入Salesforce {#didnt-log-to-salesforce}
 
-如果您沒有看到您與Salesforce的通話記錄，可能是因為我們在Salesforce中找不到銷售機會/聯絡人。
+如果您沒有看到Salesforce的通話記錄，可能是因為我們在Salesforce中找不到銷售機會/聯絡人。
 
-若要讓呼叫記錄到正確的銷售機會/聯絡人， Sales Connect需要有Salesforce ID。 將Salesforce ID新增至Sales Connect的最佳方式，就是使用我們的 [推送至Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md) 功能。 當您使用「推送至Sales Connect」時，我們會在連絡人移轉中包含Salesforce ID。
+若要讓呼叫記錄到正確的銷售機會/聯絡人， Sales Connect需要有Salesforce ID。 將Salesforce ID新增至Sales Connect的最佳方式是使用 [推送至Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md) 功能。 當您使用「推送至Sales Connect」時，我們會在連絡人移轉中包含Salesforce ID。

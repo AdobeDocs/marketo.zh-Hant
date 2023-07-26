@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以使用這些系統代號來自訂電子郵件中特殊連結的位置。
 
-以下代號可用作電子郵件或電子郵件範本中的連結：
+下列代號可在電子郵件或電子郵件範本中作為連結使用：
 
 * `{{system.forwardToFriendLink}}`
 * `{{system.unsubscribeLink}}`
@@ -23,19 +23,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這些權杖將 **not** 除非位於錨點連結內，否則為可點按的。 此外，他們可以 **not** 嵌入到「我的Token」中。
+>這些權杖會 **非** 除非在錨點連結內，否則為可點按的。 此外，他們可以 **非** 嵌入到「我的Token」中。
 
-以下說明如何將其新增至電子郵件：
+以下說明將它們新增至電子郵件的方式：
 
 1. 尋找並選取您的電子郵件，然後按一下 **編輯草稿**.
 
    ![](assets/one-1.png)
 
-1. 在可編輯區域中連按兩下。
+1. 在可編輯區域中按兩下。
 
    ![](assets/two-1.png)
 
-1. 反白您要轉換為具有權杖的連結的文字，然後按一下 **插入/編輯連結** 按鈕。
+1. 反白標示您要轉換為連結的文字，該連結會包含權杖，按一下 **插入/編輯連結** 按鈕。
 
    ![](assets/three-1.png)
 
@@ -53,10 +53,10 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->如果您使用此方法新增「viewAsWebPageLink」系統權杖，您可以 **not** 使用Token加以覆寫。 請改用 [將檢視新增為網頁連結至電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) 可讓您使用Token覆寫「viewAsWebPageLink」的方法。
+>如果您使用此方法來新增「viewAsWebPageLink」系統權杖，您可以 **非** 使用權杖加以覆寫。 請改用 [將檢視新增為網頁連結至電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) 可讓您使用權杖覆寫「viewAsWebPageLink」的方法。
 
 >[!NOTE]
 >
 >別忘了 [核准您的電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) 完成時。
 
-幹得漂亮！ 現在您知道如何將系統權杖新增為電子郵件中的連結。
+做得很好！ 現在您知道如何將系統權杖新增為電子郵件中的連結。

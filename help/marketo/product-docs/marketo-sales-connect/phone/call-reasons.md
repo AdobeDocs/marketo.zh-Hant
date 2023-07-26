@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 來電原因 {#call-reasons}
 
-讓您的銷售團隊在通話時選取通話原因，讓您的團隊瞭解通話的原因。
+讓您的銷售團隊在致電時選取致電原因，讓您的團隊瞭解致電的原因。
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![](assets/call-reasons-1.png)
 
-1. 在管理設定下方，選取 **撥號器**.
+1. 在管理員設定下方，選取 **撥號器**.
 
    ![](assets/call-reasons-2.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    ![](assets/call-reasons-5.png)
 
-1. 在管理設定下方，選取 **撥號器**.
+1. 在管理員設定下方，選取 **撥號器**.
 
    ![](assets/call-reasons-6.png)
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ## 選取來電原因 {#select-a-call-reason}
 
-啟用來電原因後。 使用者可以在進行呼叫時選取一個。
+啟用來電原因後。 使用者可以在進行呼叫時選取一個專案。
 
 1. 按一下呼叫按鈕以啟動撥號器。
 
@@ -84,5 +84,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [將來電原因與來電結果記錄到Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [將通話原因和通話結果記錄到Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [呼叫結果](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)

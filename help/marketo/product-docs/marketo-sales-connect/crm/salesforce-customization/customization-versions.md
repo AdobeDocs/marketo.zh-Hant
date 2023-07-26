@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # 自訂版本 {#customization-versions}
 
-以下是有關對Salesforce的Marketo Sales Connect自訂所做的更新的詳細資訊。
+以下是有關對Salesforce的Marketo Sales Connect自訂所做的更新的詳細資料。
 
 **第1版**
 活動欄位、聯絡人欄位、潛在客戶欄位、帳戶欄位、機會欄位、按鈕 [這些Marketo欄位](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
 **1.1版**
-活動欄位、聯絡人欄位、銷售機會欄位、帳戶欄位、機會欄位、按鈕、Marketo欄位現在可在Salesforce Lightning的頁面佈局中使用。
+活動欄位、聯絡人欄位、銷售機會欄位、帳戶欄位、機會欄位、按鈕、Marketo欄位現在可用於Salesforce Lightning的頁面佈局。

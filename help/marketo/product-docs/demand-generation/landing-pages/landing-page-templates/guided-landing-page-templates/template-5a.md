@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本5A {#template-5a}
 
-按一下滑鼠右鍵以 [下載範本5A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)
+按一下右鍵以 [下載範本5A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)
 
 ![](assets/image2015-6-29-16-3a9-3a32.png)
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 * 標題（選用）
 * 主要區段
 
-   * 包括主圖影像、主圖示題和3個說明專案符號。
+   * 包含主圖影像、主圖示題和3個說明專案符號。
 
 * 三個主體區段（選擇性）
 * 頁尾（選擇性）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)

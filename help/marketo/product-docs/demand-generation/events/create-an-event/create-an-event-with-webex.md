@@ -15,12 +15,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [將Webex新增為LaunchPoint服務](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+>* [將Webex新增為LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [建立新的事件程式](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 設定適當的 [流程動作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) 以追蹤參與
 >* 確定您使用的是Webex Events (classic)
 
-首先在Webex活動中心建立Webex活動。 Marketo僅會針對您的整合使用特定設定和欄位，我們稍後會詳加說明。 您可能會想要為Webex設定的其他欄位在 [Webex活動中心使用手冊](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+首先在Webex活動中心建立Webex活動。 Marketo僅會針對您的整合使用特定設定和欄位，我們很快會說明這些設定和欄位。 您可能會想要為Webex設定的其他欄位在 [Webex活動中心使用手冊](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
 
 >[!IMPORTANT]
 >
@@ -28,14 +28,14 @@ ht-degree: 0%
 
 ## 基本資訊 {#basic-information}
 
-* **事件名稱 —** 此名稱可在Marketo中檢視。
+* **事件名稱 —** 您可在Marketo中檢視此名稱。
 * **未列出的核取方塊**
 
-   * 建議您最好這麼做 **not** 列出您的活動。 這將確保所有使用者都能透過您的Marketo登陸頁面註冊。 透過Marketo以外的機制註冊的人員，將在活動結束後且僅當他們參加活動時才會顯示在Marketo中。
-   * 如果您選擇列出事件，造訪您事件中心網站的任何人都會在「事件清單」頁面上看到該事件。
+   * 建議您最好這麼做 **非** 列出您的活動。 這將確保所有人都能透過您的Marketo登陸頁面註冊。 透過Marketo以外之機制註冊的使用者，將在活動結束後顯示於Marketo，且前提是他們已出席活動。
+   * 如果您選擇列出事件，該事件會出現在任何造訪您事件中心網站者的「事件清單」頁面上。
 
-* **註冊 —** 核取此方塊以設定為「必要」。 您將使用Marketo表單/登陸頁面來擷取將推送至Webex的註冊資訊。
-* **事件密碼**- （選擇性）如果您使用此欄位，請務必將其包含在確認電子郵件中！
+* **註冊 —** 核取此方塊以設為「必要」。 您將使用Marketo表單/登陸頁面來擷取將推送至Webex的註冊資訊。
+* **事件密碼**- （選擇性）如果您使用此欄位，請務必將其納入確認電子郵件中！
 
 ![](assets/image2015-5-28-13-3a30-3a55.png)
 
@@ -47,19 +47,19 @@ ht-degree: 0%
 
 * **估計持續時間**  — 指定事件的持續時間。 您可在Marketo中檢視此內容。
 
-* **時區**  — 輸入適用的時區。 它們可在Marketo中檢視。
+* **時區**  — 輸入適用的時區。 您可在Marketo中檢視這些區段。
 
 ![](assets/image2015-5-28-13-3a37-3a39.png)
 
 ## 音訊會議設定 {#audio-conference-settings}
 
-這些設定僅存在於Webex中。 Marketo不會使用或檢視這些量度，但它們在您的網路研討會中可能很重要，因此請仔細檢查！
+這些設定僅存在於Webex中。 Marketo不會使用或檢視這些工具，但它們在您的網路研討會中可能很重要，因此請仔細檢查！
 
 ## 事件說明和選項  {#event-description-options}
 
-Marketo會使用或檢視下列選項。 其他欄位僅存在於Webex中。
+下列選項在Marketo中使用或可供檢視。 其他欄位僅位於Webex中。
 
-* **說明**  — 輸入說明。 這在Marketo中可供檢視，但不可修改。
+* **說明**  — 輸入說明。 這可以在Marketo中檢視，但無法修改。
 * **事件後調查** -Marketo目前無法擷取Webex事件後調查的相關資訊。
 * **目的地URL** - （選用）您可以輸入Marketo登陸頁面的URL，作為工作階段結束後顯示的目的地URL。
 
@@ -67,17 +67,17 @@ Marketo會使用或檢視下列選項。 其他欄位僅存在於Webex中。
 
 ## 出席者和報名 {#attendees-registration}
 
-您將使用Marketo事件來控制邀請清單、登錄檔單和其他電子郵件。 Marketo不支援其他功能，包括：
+您將可使用Marketo事件控制邀請清單、登錄檔單和其他電子郵件。 Marketo不支援其他功能，包括：
 
-* **註冊者人數上限**  — 目前 **not** 支援使用Marketo-Webex整合。  您可以使用Marketo中的「未決核准進度」狀態來手動核准註冊者。
+* **註冊者數目上限**  — 目前 **非** 支援使用Marketo-Webex整合。  您可以使用Marketo中的未決核准進度狀態來手動核准註冊者。
 
-* **需要註冊ID**  — 目前支援使用Marketo-Webex整合。 您可以使用Marketo傳送事件的確認電子郵件。 當人員註冊時，他們會收到一個唯一URL，並使用該URL輸入事件。
+* **需要註冊ID**  — 目前支援使用Marketo-Webex整合。 您可以使用Marketo傳送事件的確認電子郵件。 人員註冊時，會收到用來輸入事件的唯一URL。
 
   >[!TIP]
   >
-  >若要使用此唯一URL填入您的確認電子郵件，請在電子郵件中使用下列權杖： `{{member.webinar url}}`. 當送出確認URL時，此權杖會自動解析為個人的唯一確認URL。
+  >若要使用此唯一URL填入您的確認電子郵件，請在電子郵件中使用下列權杖： `{{member.webinar url}}`. 送出確認URL時，此Token會自動解析為個人唯一的確認URL。
   >
-  >將您的確認電子郵件設定為 **運作** 以確保註冊和可能取消訂閱的人仍會收到其確認資訊。
+  >將您的確認電子郵件設定為 **營運** 以確保註冊和可能取消訂閱的人仍會收到其確認資訊。
 
 * **註冊密碼** - （選用）目前不支援使用Marketo-Webex整合。
 * **核准規則**  — 目前不支援使用Marketo-Webex整合。 不過，您可以在Marketo中使用智慧型行銷活動來控制核准。
@@ -96,9 +96,9 @@ Marketo會使用或檢視下列選項。 其他欄位僅存在於Webex中。
 
 >[!NOTE]
 >
->Marketo-Webex整合無法支援從Webex傳送確認電子郵件。 確認必須透過Marketo傳送。 排程事件後，請務必複製事件資訊至Marketo確認電子郵件，並將電子郵件設為 **運作**.
+>Marketo-Webex整合無法支援從Webex傳送確認電子郵件。 必須透過Marketo傳送確認。 排程事件後，請務必複製事件資訊至Marketo確認電子郵件，並將電子郵件設為 **營運**.
 
-現在我們已準備好跳入Marketo了！
+現在我們已準備好要跳入Marketo了！
 
 1. 選取您建立的事件。 開啟 **事件動作** 下拉式清單。 選擇 **事件設定。**
 
@@ -108,19 +108,19 @@ Marketo會使用或檢視下列選項。 其他欄位僅存在於Webex中。
    >
    >所選事件的管道型別必須是 **網路研討會**.
 
-1. 下 **活動合作夥伴**，選取 **Webex**.
+1. 在 **活動合作夥伴**，選取 **Webex**.
 
    ![](assets/image2015-1-30-13-3a58-3a2.png)
 
-1. 下 **登入**，選擇您的Webex登入資訊。
+1. 在 **登入**，選擇您的Webex登入資訊。
 
    ![](assets/image2015-5-18-12-3a2-3a26.png)
 
-1. 下 **事件**，選擇您剛建立的Webex活動。 接著，選取選擇性的「備份」頁面，然後按一下 **儲存**.
+1. 在 **事件**，選擇您剛建立的Webex活動。 接著，選取選擇性的「備份」頁面，然後按一下 **儲存**.
 
    ![](assets/image2015-5-14-16-3a15-3a55.png)
 
-1. 選取您的Webex事件的選擇性「備份頁面」。 從核准的Marketo登陸頁面下拉式清單中選擇，或輸入非Marketo登陸頁面的URL。
+1. 選取您的Webex事件之選擇性「備份頁面」。 從已核准的Marketo登陸頁面下拉式清單中選擇，或輸入非Marketo登陸頁面的URL。
 
    >[!TIP]
    >
@@ -134,17 +134,17 @@ Marketo會使用或檢視下列選項。 其他欄位僅存在於Webex中。
 
    >[!CAUTION]
    >
-   >避免使用巢狀電子郵件程式傳送確認電子郵件。 請改用事件程式的智慧型行銷活動，如上所示。
+   >避免使用巢狀電子郵件程式來傳送確認電子郵件。 請改用事件程式的智慧型行銷活動，如上所示。
 
    >[!TIP]
    >
-   >資料可能需要48小時才會出現在Marketo中。 如果等了這麼久仍未看到任何內容，請選取 **從網路研討會提供者重新整理** 從「事件動作」功能表 **摘要** 索引標籤進行識別。
+   >資料可能需要48小時才會出現在Marketo中。 如果等了這麼久仍未看到任何內容，請選取 **從網路研討會提供者重新整理** 從「事件動作」功能表 **摘要** 標籤中。
 
-真貼心！ 您的Webex事件現在會與Marketo事件同步。 當「新狀態」設為「已註冊」時，註冊您的網路研討會的人將透過「變更計畫狀態」流程步驟推送至您的網路研討會提供者。 沒有其他狀態會將人員推到。 此外，請務必將「變更計畫狀態」流程步驟設為#1，並將「傳送電子郵件流程」步驟設為#2。
+真貼心！ 您的Webex事件現在會與Marketo事件同步。 當「新狀態」設為「已註冊」時，註冊您的網路研討會的人會透過「變更計畫狀態」流程步驟，被推送至您的網路研討會提供者。 沒有其他狀態會將人員推到。 此外，請務必將「變更方案狀態」流程步驟設為#1，並將「傳送電子郵件」流程步驟設為#2。
 
 ## 檢視排程  {#viewing-the-schedule}
 
-在方案排程檢視中，按一下您事件的行事曆專案。 您可在熒幕右側看到排程！
+在方案排程檢視中，按一下您事件的行事曆專案。 您可在畫面右側看到排程！
 
 ![](assets/image2015-5-14-16-3a21-3a41.png)
 

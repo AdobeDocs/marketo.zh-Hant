@@ -50,11 +50,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-8.png)
 
-之後，使用者將收到登入Marketo Engage的電子郵件。
+接著，使用者會收到電子郵件以登入Marketo Engage。
 
 >[!NOTE]
 >
->透過Adobe Admin Console將使用者新增到Marketo Engage時，他們將在訂閱的預設工作區中獲得「標準使用者」角色。 如果需要調整使用者在工作區內的角色，這需在Marketo Engage中完成， [如此處所述](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>透過Adobe Admin Console將使用者新增到Marketo Engage時，他們將在訂閱的預設工作區中獲得「標準使用者」角色。 如果需要調整使用者在工作區中的角色，這在Marketo Engage中完成， [如此處所述](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## 移除使用者 {#remove-a-user}
 

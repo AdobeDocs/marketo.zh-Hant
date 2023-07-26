@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必須擁有 [行銷行事曆授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) 以運用此功能。
+>您必須擁有 [行銷行事曆授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) 以使用此功能。
 
 ## 使用全域覆蓋 {#use-the-global-overlay}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. 選取 **覆蓋** 右下角。
+1. 選取 **覆蓋** 在右下角。
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a16-3a14.png)
 
-   覆蓋專案的專案詳細資訊將為唯讀。 按一下父方案以進行變更。
+   覆蓋專案的專案詳細資料將為唯讀。 按一下父方案以進行變更。
 
    ![](assets/image2014-9-24-10-3a16-3a19.png)
 
 ## 使用儲存的篩選器作為覆蓋 {#use-a-saved-filter-as-an-overlay}
 
-如果您已 [已將篩選器儲存在行銷行事曆中](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)，您可在方案排程檢視中將其用作覆蓋。
+如果您已 [已在行銷行事曆中儲存篩選器](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)，您可在方案排程檢視中將其當作覆蓋圖。
 
 1. 按一下 **覆蓋** 下拉式清單，然後選取您的篩選器定義。
 

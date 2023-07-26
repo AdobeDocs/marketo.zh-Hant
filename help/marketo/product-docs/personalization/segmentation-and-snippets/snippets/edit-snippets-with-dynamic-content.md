@@ -18,7 +18,7 @@ ht-degree: 0%
 >* [建立細分](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [建立代碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
-在代碼片段中使用分段，輕鬆管理電子郵件和登入頁面上的動態內容。
+使用片段中的分段輕鬆管理電子郵件和登入頁面上的動態內容。
 
 ## 新增分段 {#add-segmentation}
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/designstudio-1.png)
 
-1. 按一下您的 **代碼片段** 然後 **編輯草稿**.
+1. 按一下您的 **程式碼片段** 然後 **編輯草稿**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. 按一下 **區段依據**.
+1. 按一下 **分段依據**.
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
@@ -48,9 +48,9 @@ ht-degree: 0%
 >
 >使用程式碼片段前，請記得先核准該程式碼片段。
 
-是不是這麼簡單？ 您現在已準備好在電子郵件和登入頁面上使用這些代碼片段。
+不是很簡單嗎？ 您現在已準備好在電子郵件和登入頁面上使用這些程式碼片段。
 
 >[!MORELIKETHIS]
 >
->* [新增程式碼片段至電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
+>* [將程式碼片段新增至電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
 >* [將程式碼片段新增至登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)

@@ -20,7 +20,7 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 在Marketo中，按一下 **管理員**，則 **Veeva物件同步**.
+1. 在Marketo中，按一下 **管理員**，然後 **Veeva物件同步**.
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. 如果您的全域同步正在執行中，請按一下以停用它 **停用全域同步**.
+1. 如果您的全域同步正在執行中，請按一下 **停用全域同步**.
 
    ![](assets/enable-disable-custom-object-sync-3.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Marketo只有在與Veeva CRM中的連絡人或帳戶物件有直接關係時，才能同步自訂物件。
+>Marketo只有在Veeva CRM中與聯絡人或帳戶物件有直接關係時，才能同步處理自訂物件。
 
 1. 按一下 **啟用同步** 再來一次。
 
@@ -56,13 +56,13 @@ ht-degree: 0%
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 
-## 使用自訂物件 {#using-your-custom-objects}
+## 使用您的自訂物件 {#using-your-custom-objects}
 
 >[!NOTE]
 >
->您無法在具有觸發器的智慧行銷活動中使用自訂物件。
+>您無法在包含觸發器的智慧行銷活動中使用自訂物件。
 
-1. 在您的智慧清單中，拖曳至「Has Opportunity」篩選器上方，並設為 **True**.
+1. 在智慧清單中，拖曳至「擁有機會」篩選器上，並將設為 **真**.
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 
@@ -70,8 +70,8 @@ ht-degree: 0%
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-太棒了！ 您現在可以在智慧行銷活動和智慧清單中使用此自訂物件的資料。
+太好了！ 您現在可以在智慧行銷活動和智慧清單中使用此自訂物件的資料。
 
 >[!MORELIKETHIS]
 >
->[新增/移除自訂物件欄位作為智慧清單/觸發條件約束](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>[新增/移除自訂物件欄位做為智慧清單/觸發條件約束](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

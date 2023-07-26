@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 瞭解您擁有哪些許可權 {#find-out-what-permissions-you-have}
 
-如果您想知道Marketo中有或沒有哪些許可權，有一個簡單的方法可以讓您瞭解。
+如果您想知道Marketo中有或沒有哪些許可權，有個簡單的方法可以讓您瞭解。
 
 1. 前往 **[!UICONTROL 行銷活動]**.
 

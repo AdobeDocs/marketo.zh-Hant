@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/view-template-list-as-another-user-2.png)
 
-1. 您現在正以選取的使用者身分檢視範本。
+1. 您現在正在以選取的使用者身分檢視範本。
 
    ![](assets/view-template-list-as-another-user-3.png)
 

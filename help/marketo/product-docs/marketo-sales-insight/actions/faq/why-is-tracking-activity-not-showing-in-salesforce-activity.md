@@ -12,6 +12,6 @@ ht-degree: 0%
 
 # 為什麼Salesforce活動中未顯示追蹤活動？ {#why-is-tracking-activity-not-showing-in-salesforce-activity}
 
-如果您的追蹤活動未顯示，請確定Sales Insight Actions提供的自訂活動欄位在Salesforce中可見/可編輯。 如果您已安裝欄位但未填入，則可能有欄位層級安全性阻止資訊填入。 請洽詢您的Salesforce管理員。
+如果您的追蹤活動未顯示，請確定Sales Insight Actions提供的自訂活動欄位在Salesforce中可見/可編輯。 如果您已安裝欄位但未填入，則可能會有欄位層級安全性導致資訊無法填入。 請洽詢您的Salesforce管理員。
 
-進一步瞭解 [欄位層級安全性](https://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) Salesforce中的。
+進一步瞭解 [欄位層級安全性](https://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) （位於Salesforce）。

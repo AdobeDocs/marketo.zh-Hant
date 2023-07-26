@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 設定網頁行銷活動的顯示方式 {#set-how-your-web-campaign-displays}
 
-網路行銷活動的顯示時間/方式有數種方法可供使用。
+網路行銷活動的顯示時機/方式有數種方法可供使用。
 
 ## 頁面載入 {#page-load}
 
-依預設，此選項會在頁面載入時顯示行銷活動。
+依預設選取，此選項只會在頁面載入時顯示行銷活動。
 
 ![](assets/pl1.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/s1.png)
 
-1. 按一下 **時間** 下拉式清單，並選取您想要顯示網頁行銷活動的時間。
+1. 按一下 **時間** 下拉式清單，並選取您要顯示網頁行銷活動的時間。
 
    ![](assets/s2.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><strong>下折</strong></td> 
-   <td>當訪客在摺頁下方捲動時顯示促銷活動。 當訪客捲動回摺頁上方時，促銷活動會消失。</td> 
+   <td>當訪客在摺頁下方捲動時顯示促銷活動。 當訪客在摺頁上方捲動時，促銷活動會消失。</td> 
   </tr> 
   <tr> 
    <td><strong>百分比</strong></td> 
-   <td>當訪客捲動至頁面的預定百分比時顯示行銷活動。</td> 
+   <td>當訪客捲動至頁面的預定百分比時顯示促銷活動。</td> 
   </tr> 
   <tr> 
    <td><strong>畫素</strong></td> 
@@ -60,11 +60,11 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 退出方法 {#exit-intent}
+## 退出目的 {#exit-intent}
 
 退出意圖會在滑鼠游標退出瀏覽器時顯示網頁行銷活動。
 
-1. 按一下 **顯示於** 下拉式清單並選取 **退出方法**.
+1. 按一下 **顯示於** 下拉式清單並選取 **退出目的**.
 
    ![](assets/ei1.png)
 
@@ -74,4 +74,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->想看看您選擇的效果在未來的前景嗎？ 透過 [網頁行銷活動預覽](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>想看看您選擇的效果在未來的前景嗎？ 透過 [網站行銷活動預覽](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

@@ -1,6 +1,6 @@
 ---
 description: 設定ON24與Marketo的整合 — Marketo檔案 — 產品檔案
-title: 設定ON24與Marketo整合
+title: 設定ON24與Marketo的整合
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,13 +10,13 @@ ht-degree: 1%
 
 ---
 
-# 設定ON24與Marketo整合{#set-up-the-on24-integration-with-marketo}
+# 設定ON24與Marketo的整合{#set-up-the-on24-integration-with-marketo}
 
 以下說明如何設定您的ON24事件整合。
 
 ## 建立僅限API的角色 {#create-an-api-only-role}
 
-1. 在「我的Marketo」中，按一下 **管理員**.
+1. 從我的Marketo，按一下 **管理員**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 1%
 
    ![](assets/set-up-the-on24-integration-with-marketo-2.png)
 
-1. 按一下 **角色** 標籤然後 **新角色**.
+1. 按一下 **角色** 標籤，然後 **新角色**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-3.png)
 
@@ -34,7 +34,7 @@ ht-degree: 1%
 
 ## 建立新使用者 {#create-a-new-user}
 
-1. 仍然在「使用者與角色」中，按一下 **使用者** 標籤並按一下 **邀請新使用者**.
+1. 仍然在使用者與角色中，按一下 **使用者** 標籤並按一下 **邀請新使用者**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-5.png)
 
@@ -42,7 +42,7 @@ ht-degree: 1%
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. 選取您剛才建立的ON24 API專用角色。 選取 **僅限API** 核取方塊。 按一下 **下一個**.
+1. 選取您剛建立的ON24 API僅角色。 選取 **僅限API** 核取方塊。 按一下 **下一個**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
@@ -52,7 +52,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->僅API使用者不需要邀請。
+>僅限API使用者不需要邀請。
 
 ## 設定ON24連線 {#set-up-on24-connection}
 
@@ -68,11 +68,11 @@ ht-degree: 1%
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
-1. 找到您剛才建立的自訂LaunchPoint服務，然後按一下「檢視詳細資料」。
+1. 尋找您剛建立的自訂LaunchPoint服務，然後按一下「檢視詳細資料」。
 
    ![](assets/set-up-the-on24-integration-with-marketo-12.png)
 
-1. 反白顯示、按一下滑鼠右鍵、複製並儲存使用者端ID （您稍後會需要）。 針對使用者端密碼重複此步驟。
+1. 反白顯示、按一下右鍵、複製並儲存使用者端ID （您稍後會需要）。 針對使用者端密碼重複此步驟。
 
    ![](assets/set-up-the-on24-integration-with-marketo-13.png)
 
@@ -80,7 +80,7 @@ ht-degree: 1%
 
    ![](assets/set-up-the-on24-integration-with-marketo-14.png)
 
-1. 在「REST API」下方，反白顯示、以滑鼠右鍵按一下、複製並儲存身分的第一個部分（直到.com中的「m」）。
+1. 在「REST API」底下，反白顯示、以滑鼠右鍵按一下、複製並儲存身分的第一個部分（一直到.com中的「m」為止）。
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 

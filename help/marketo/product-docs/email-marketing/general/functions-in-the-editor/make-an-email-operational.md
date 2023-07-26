@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 讓電子郵件運作正常 {#make-an-email-operational}
 
-營運電子郵件會忽略「已取消訂閱」和「行銷暫停」狀態。 無論如何都會傳送。
+營運電子郵件會忽略取消訂閱和行銷暫停狀態。 他們無論如何都會傳送。
 
 >[!NOTE]
 >
@@ -31,12 +31,12 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. Check **營運電子郵件** 並按一下 **儲存**.
+1. 檢查 **營運電子郵件** 並按一下 **儲存**.
 
    ![](assets/three.png)
 
 >[!CAUTION]
 >
->營運電子郵件並非設計用於參與計畫。 因此，參與計畫將會忽略電子郵件的操作狀態。 使用它們時，請記住這一點。
+>營運電子郵件不適合參與計畫。 因此，參與計畫將會忽略電子郵件的操作狀態。 使用他們時，請記住這一點。
 
 別忘了核准此電子郵件，變更才會生效。 瞭解如何  [核准電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).

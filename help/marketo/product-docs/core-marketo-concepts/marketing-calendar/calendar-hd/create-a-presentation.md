@@ -13,18 +13,18 @@ ht-degree: 2%
 
 # 建立簡報 {#create-a-presentation}
 
-建立簡報以將您團隊的行事曆檢視和目標投影在HDTV上。 Presentations是Workspace專用的。
+建立簡報，在HDTV上投影您團隊的行事曆檢視和目標。 Presentations是工作區專屬的。
 
 >[!AVAILABILITY]
 >
 >
->並非所有客戶都已購買此功能。 如需詳細資訊，請聯絡您的銷售代表。
+>並非所有客戶都已購買此功能。 請聯絡您的銷售代表以取得詳細資訊。
 
 1. 前往 **[!UICONTROL 行事曆]**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. 按一下 **[!UICONTROL Presentations]** 右下角。
+1. 按一下 **[!UICONTROL Presentations]** 在右下角。
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359673
 description: 新增工具提示指示至表單欄位 — Marketo檔案 — 產品檔案
-title: 新增工具提示指示至表單欄位
+title: 新增工具提示指示到表單欄位
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 新增工具提示指示至表單欄位 {#add-tooltip-instructions-to-a-form-field}
+# 新增工具提示指示到表單欄位 {#add-tooltip-instructions-to-a-form-field}
 
 [提示](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) 和指示可協助人員填寫表格。 以下說明如何新增工具提示指示。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**定義**
 >
->表單 **提示** 是欄位內的文字，當訪客開始在欄位中輸入時就會消失。
+>表單 **提示** 是訪客在欄位中開始輸入時消失的欄位內文字。
 >
 >表單 **指示** 是訪客在欄位上暫留時快顯的小工具提示。
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
-做得很棒！ 當訪客將滑鼠游標停留在欄位上時，將會顯示工具提示。
+做得棒極了！ 當訪客將滑鼠懸停在欄位上時，將會顯示工具提示。

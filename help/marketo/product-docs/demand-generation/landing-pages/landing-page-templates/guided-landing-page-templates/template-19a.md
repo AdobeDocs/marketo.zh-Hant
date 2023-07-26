@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本19A {#template-19a}
 
-按一下滑鼠右鍵以 [下載範本19A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
+按一下右鍵以 [下載範本19A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
 
 ![](assets/image2015-9-16-16-3a46-3a31.png)
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 * 主要區段
 
-   * 包括主圖示題、主圖文字和按鈕
+   * 包含主圖示題、主圖文字和按鈕
 
 * 五個內文區段（選擇性）
 * 頁尾
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本19A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)

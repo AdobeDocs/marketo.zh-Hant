@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359734
 description: 使用動態內容預覽登陸頁面 — Marketo檔案 — 產品檔案
-title: 使用動態內容預覽登入頁面
+title: 預覽具有動態內容的登陸頁面
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 使用動態內容預覽登入頁面 {#preview-a-landing-page-with-dynamic-content}
+# 預覽具有動態內容的登陸頁面 {#preview-a-landing-page-with-dynamic-content}
 
-新增動態內容後預覽登入頁面，確保一切如預期般呈現。
+新增動態內容後預覽您的登入頁面，確保一切如預期所示。
 
 >[!PREREQUISITES]
 >
@@ -28,4 +28,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 
-太棒了！ 您現在可以確保您的登入頁面可跨區段運作。
+棒極了！ 您現在可以確保您的登入頁面可跨區段運作。

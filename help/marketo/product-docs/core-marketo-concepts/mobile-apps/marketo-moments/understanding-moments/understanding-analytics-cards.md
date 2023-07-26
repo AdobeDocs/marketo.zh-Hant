@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 瞭解Analytics卡片 {#understanding-analytics-cards}
 
-每個月初，Marketo時刻提供三種不同的報表卡：已獲得的銷售機會、新銷售機會和取消訂閱。 每個報表都會顯示每月的效能，以及6個月期間的趨勢。
+每個月初，Marketo時刻提供三種不同的報表卡片：已取得的銷售機會、新的銷售機會和取消訂閱。 每個報表會顯示六個月的每月績效和趨勢。
 
 ## Analytics卡 {#analytics-cards}
 
 點選Analytics卡片時，您可以：
 
-* [使其成為我的最愛](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [使其成為最愛](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
 * [將其標籤為完成](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [共用](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 * 逐月比較
 * 最多或前三個的橫條圖（視卡片而定）
 
-例如，我們來看看已收購銷售機會分析卡的詳細資料：
+例如，讓我們來看一下「已獲得銷售機會」分析卡片的詳細資料：
 
 ![](assets/image2015-7-6-14-3a5-3a25.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 已取得的銷售機會 {#acquired-leads}
 
-此 **已取得的銷售機會** 卡片會顯示新潛在客戶數量的逐月趨勢報告。
+此 **已取得的銷售機會** 卡片會顯示新潛在客戶數量的每月趨勢報告。
 
 >[!NOTE]
 >
@@ -47,13 +47,13 @@ ht-degree: 0%
 
 ## 新銷售機會 {#new-leads}
 
-此 **新銷售機會** 卡片會顯示過去六個月執行個體中新潛在客戶總數的趨勢月同比報告。
+此 **新銷售機會** 卡片會顯示過去6個月您執行個體中新潛在客戶總數的趨勢月同比報告。
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## 取消訂閱 {#unsubscribes}
 
-此 **取消訂閱** 卡片會顯示您過去六個月取消訂閱率的月對月趨勢報告。
+此 **取消訂閱** 卡片會顯示您過去六個月取消訂閱率的每月趨勢報告。
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
@@ -63,4 +63,4 @@ ht-degree: 0%
 >
 >* [瞭解Marketo時刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [瞭解事件卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [瞭解電子郵件計畫卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [瞭解電子郵件計畫卡片](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)

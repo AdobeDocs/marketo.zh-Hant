@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 刪除網站行銷活動 {#delete-a-web-campaign}
 
-1. 前往 **網路行銷活動**.
+1. 前往 **網站行銷活動**.
 
    ![](assets/web-campaigns-hand-3.jpg)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 
-1. 系統會顯示確認訊息，確認您是否要刪除網頁行銷活動。
+1. 系統會顯示確認訊息，確認您是否要刪除網站行銷活動。
 
 >[!MORELIKETHIS]
 >

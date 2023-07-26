@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 設定Facebook銷售機會廣告 {#set-up-facebook-lead-ads}
 
-使用 [facebook銷售機會廣告](https://www.facebook.com/business/a/lead-ads) 在Facebook中執行廣告行銷活動，並為Marketo產生銷售機會。
+使用 [facebook潛在客戶廣告](https://www.facebook.com/business/a/lead-ads) 在Facebook中執行廣告行銷活動，並產生Marketo的銷售機會。
 
 >[!NOTE]
 >
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. 輸入 **顯示名稱** 針對您的服務，選取 **facebook銷售機會廣告** 服務，然後按一下 **建立**.
+1. 輸入 **顯示名稱** 針對您的服務，選取 **facebook潛在客戶廣告** 服務，然後按一下 **建立**.
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. 在同一瀏覽器中開啟新標籤，然後前往 [facebook.com](https://www.facebook.com). 使用您要用於整合的帳戶登入Facebook。
+1. 在相同的瀏覽器中開啟新標籤，並前往 [facebook.com](https://www.facebook.com). 使用您要用於整合的帳戶登入Facebook。
 
    >[!NOTE]
    >
@@ -47,19 +47,19 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. 如果出現提示，請按一下 **確定** 接受Marketo應用程式安裝至Facebook。
+1. 如果出現提示，請按一下 **確定** 接受Marketo應用程式安裝至Facebook的方式。
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. 您會發現您現在已獲得授權。 按一下 **下一個**.
+1. 您會發現現在已獲得授權。 按一下 **下一個**.
 
    ![](assets/image2016-11-29-10-3a56-3a28.png)
 
-1. 選取您希望Marketo從中提取Facebook潛在客戶廣告的頁面，然後按一下 **下一個**.
+1. 選取您希望Marketo從中提取Facebook銷售機會廣告的頁面，然後按一下 **下一個**.
 
    >[!TIP]
    >
-   >如果您沒有看到預期的頁面，請確保已將用於驗證的Facebook帳戶新增到Facebook上的頁面，然後再試一次。
+   >如果您沒有看到預期的頁面，請確認已將用來驗證的Facebook帳戶新增至Facebook上的頁面，然後再試一次。
 
    ![](assets/image2016-11-29-10-3a58-3a36.png)
 
@@ -71,16 +71,16 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketo不支援將兩個Facebook欄位對應到單一Marketo欄位，只有1到1。 如果您將2對應至1，潛在客戶可能無法進入Marketo系統。
+   >Marketo不支援將兩個Facebook欄位對應至單一Marketo欄位，只有1對1。 如果將2對應至1，潛在客戶可能無法進入Marketo系統。
 
    ![](assets/image2016-11-29-11-3a0-3a2.png)
 
-   幹得漂亮！ 當您執行成功的Marketo潛在客戶廣告行銷活動時，潛在客戶將開始流入Facebook。
+   做得很好！ 當您執行成功的Marketo潛在客戶廣告行銷活動時，潛在客戶將開始流入Facebook。
 
    ![](assets/image2016-11-29-12-3a32-3a54.png)
 
 >[!MORELIKETHIS]
 >
->* [在潛在客戶存取管理員(Facebook)中指派/移除許可權](https://www.facebook.com/business/help/540596413257598?id=735435806665862)
->* [在Smart Campaign中使用銷售機會廣告篩選器和觸發程式](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+>* [潛在客戶存取管理員(Facebook)中的指派/移除許可權](https://www.facebook.com/business/help/540596413257598?id=735435806665862)
+>* [在智慧型行銷活動中使用潛在客戶廣告篩選器和觸發器](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
 >* [將自訂欄位對應至Marketo](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)

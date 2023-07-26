@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7513865
-description: 在Marketo Dynamics 2015中安裝並設定Microsoft Sales Insight - Marketo檔案 — 產品檔案
-title: 在Microsoft Dynamics 2015中安裝和設定Marketo Sales Insight
+description: 在Marketo Dynamics 2015中安裝與設定Microsoft Sales Insight - Marketo檔案 — 產品檔案
+title: 在Microsoft Dynamics 2015中安裝並設定Marketo Sales Insight
 exl-id: 26c1f02c-c910-445d-8560-0b37961eadcb
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 在Microsoft Dynamics 2015中安裝和設定Marketo Sales Insight {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
+# 在Microsoft Dynamics 2015中安裝並設定Marketo Sales Insight {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
-Marketo Sales Insight是絕佳的工具，可讓您的銷售團隊透過此「視窗」瞭解行銷團隊擁有的資料財富。 以下說明如何在Microsoft Dynamics 201中安裝和設定
+Marketo Sales Insight是極好的工具，可讓您的銷售團隊透過一個「視窗」瞭解行銷團隊擁有的資料財富。 以下說明如何在Microsoft Dynamics 201中安裝和設定它
 
 >[!PREREQUISITES]
 >
@@ -23,9 +23,9 @@ Marketo Sales Insight是絕佳的工具，可讓您的銷售團隊透過此「�
 
 ## 匯入解決方案 {#import-solution}
 
-好，現在可以將Marketo銷售分析解決方案匯入Microsoft Dynamics了。 方法如下：
+好，現在可以將Marketo Sales Insight解決方案匯入Microsoft Dynamics了。 方法如下：
 
-1. 在Microsoft Dynamics CRM底下，按一下 **設定**.
+1. 在Microsoft Dynamics CRM底下按一下 **設定**.
 
    ![](assets/image2014-12-12-9-3a4-3a56.png)
 
@@ -65,11 +65,11 @@ Marketo Sales Insight是絕佳的工具，可讓您的銷售團隊透過此「�
 
    ![](assets/image2014-12-12-9-3a6-3a19.png)
 
-1. 您可以隨意下載記錄檔，然後按一下 **關閉**.
+1. 您可以下載記錄檔，然後按一下 **關閉**.
 
    ![](assets/image2014-12-12-9-3a6-3a29.png)
 
-1. 太棒了！ 您現在應該會看到解決方案。 如果不存在，請重新整理您的熒幕。
+1. 棒極了！ 您現在應該會看到解決方案。 如果不在那裡，請重新整理您的熒幕。
 
    ![](assets/image2014-12-12-9-3a6-3a40.png)
 
@@ -89,7 +89,7 @@ Marketo Sales Insight是絕佳的工具，可讓您的銷售團隊透過此「�
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. 複製 **Marketo主機**， **API URL**、和 **API使用者ID** 以供在稍後的步驟中使用。 輸入您選擇的API秘密金鑰，然後按一下 **儲存**.
+1. 複製 **Marketo主機**， **API URL**、和 **API使用者ID** 以供在後續步驟中使用。 輸入您選擇的API秘密金鑰，然後按一下 **儲存**.
 
    >[!CAUTION]
    >
@@ -99,19 +99,19 @@ Marketo Sales Insight是絕佳的工具，可讓您的銷售團隊透過此「�
 
    >[!NOTE]
    >
-   >下列欄位必須與Marketo同步，以便 *潛在客戶和連絡人* 讓Sales Insight發揮作用：
+   >下列欄位必須與Marketo同步， *潛在客戶與連絡人* 讓Sales Insight發揮作用：
    >
    >* 優先順序
    >* 急迫性
    >* 相對分數
    >
-   >如果缺少這些欄位，您會在Marketo中看到一則錯誤訊息，其中包含缺少的欄位名稱。 若要修正此問題，請執行 [此程式](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
+   >如果缺少這些欄位，您會在Marketo中看到錯誤訊息，其中包含缺少欄位的名稱。 若要修正此問題，請執行 [此程式](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
 1. 返回Microsoft Dynamics，前往 **設定**.
 
    ![](assets/image2014-12-12-9-3a7-3a25.png)
 
-1. 下 **設定**，按一下 **Marketo API設定**.
+1. 在 **設定**，按一下 **Marketo API設定**.
 
    ![](assets/image2014-12-12-9-3a7-3a34.png)
 
@@ -143,15 +143,15 @@ Marketo Sales Insight是絕佳的工具，可讓您的銷售團隊透過此「�
 
    ![](assets/image2015-4-29-14-3a59-3a31.png)
 
-1. 選取Marketo Sales Insight角色並按一下 **確定**.
+1. 選取Marketo銷售分析角色，然後按一下 **確定**.
 
    ![](assets/image2014-12-12-9-3a9-3a22.png)
 
-   而且您應該已全部完成！ 最後，若要進行測試，請以有權存取Marketo Sales Insight的使用者身分登入Dynamics，並檢視潛在客戶或連絡人。
+   而且您應該已全部完成！ 最後，若要進行測試，請以有權存取Marketo Sales Insight的使用者身分登入Dynamics，並檢視潛在客戶或聯絡人。
 
    ![](assets/image2015-4-29-15-3a2-3a27.png)
 
-您現在已為銷售團隊解鎖Marketo Sales Insight的強大功能。
+您現在已為銷售團隊解除鎖定Marketo Sales Insight的強大功能。
 
 >[!MORELIKETHIS]
 >

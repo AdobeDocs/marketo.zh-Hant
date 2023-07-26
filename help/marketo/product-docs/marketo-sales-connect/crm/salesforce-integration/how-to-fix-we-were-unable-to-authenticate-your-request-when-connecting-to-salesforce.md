@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 如何修正連線至Salesforce時「我們無法驗證您的請求」的問題 {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
-如果您在嘗試將Sales Connect連線至Salesforce時收到錯誤訊息「我們無法驗證您的請求」，表示您對Salesforce的API的存取可能會受到限制。 請洽詢您的Salesforce管理員，確認您已具備下列功能。
+如果您在嘗試將Sales Connect連線至Salesforce時收到錯誤訊息「我們無法驗證您的請求」，表示您對Salesforce之API的存取可能會受到限制。 請洽詢您的Salesforce管理員，確認是否有下列專案。
 
 ## 在使用者許可權中啟用API {#enable-api-in-user-permissions}
 
@@ -29,5 +29,5 @@ ht-degree: 0%
 1. 請Salesforce管理員登入SFDC。
 1. 選取 **設定**.
 1. 選取 **管理應用程式**.
-1. 選取 **連線應用程式OAuth使用方式**.
+1. 選取 **連線應用程式OAuth使用狀況**.
 1. 請確定Sales Connect旁邊顯示「封鎖」。 如果您看到「解除封鎖」，請按一下按鈕以解除封鎖Sales Connect對Salesforce的存取。

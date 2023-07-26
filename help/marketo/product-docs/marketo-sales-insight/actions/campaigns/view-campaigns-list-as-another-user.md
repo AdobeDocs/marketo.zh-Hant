@@ -26,10 +26,10 @@ ht-degree: 0%
 
    ![](assets/view-campaigns-list-as-another-user-2.png)
 
-1. 您現在會以選取的使用者身分檢視行銷活動。
+1. 您現在以選取的使用者身分檢視行銷活動。
 
    ![](assets/view-campaigns-list-as-another-user-3.png)
 
    >[!NOTE]
    >
-   >您也可以使用篩選器或搜尋功能以及檢視身分，來檢視與您最相關的專案。
+   >您也可以使用篩選器或搜尋功能搭配「檢視方式」來檢視與您最相關的專案。

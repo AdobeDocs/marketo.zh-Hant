@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146989
-description: 促銷活動動作 — 複製智慧型促銷活動 — Marketo檔案 — 產品檔案
+description: 行銷活動動作 — 複製智慧型行銷活動 — Marketo檔案 — 產品檔案
 title: 促銷活動動作 — 複製智慧型促銷活動
 exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
 feature: Smart Campaigns
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 促銷活動動作：複製智慧型促銷活動 {#campaign-actions-clone-a-smart-campaign}
 
-複製行銷活動可以節省您的時間。 無需從頭開始建立所有內容 — 複製會使用完全相同的智慧清單篩選器和流程步驟建立相同的行銷活動。
+複製行銷活動可以節省您的時間。 不需要從頭開始建立所有內容 — 複製會使用完全相同的智慧列示篩選器和流程步驟建立相同的行銷活動。
 
-1. 選取您要複製的行銷活動。 在 **行銷活動動作** 下拉式清單，選取 **原地複製**.
+1. 選取您要複製的促銷活動。 在 **行銷活動動作** 下拉式清單，選取 **原地複製**.
 
    ![](assets/campaign-actions-clone-a-smart-campaign-1.png)
 
-1. 選擇適當的 **複製至** 選項。 在此範例中，讓我們選擇 **計畫**.
+1. 選擇適當的 **原地複製至** 選項。 在此範例中，讓我們選擇 **計畫**.
 
    ![](assets/campaign-actions-clone-a-smart-campaign-2.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
    ![](assets/campaign-actions-clone-a-smart-campaign-3.png)
 
-完成！
+完成了！

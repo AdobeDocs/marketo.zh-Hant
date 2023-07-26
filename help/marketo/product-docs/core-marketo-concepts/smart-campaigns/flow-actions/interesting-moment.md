@@ -25,15 +25,15 @@ ht-degree: 2%
 
    ![](assets/image2014-9-22-10-3a49-3a51.png)
 
-1. 建立 **說明** 這解釋了銷售團隊的有趣時刻。
+1. 建立 **說明** 這可為您的銷售團隊解釋這個有趣的時刻。
 
    ![](assets/image2014-9-22-10-3a49-3a55.png)
 
    >[!TIP]
    >
-   >**少即多**. 請與您的銷售團隊合作，確定有趣的時刻確實很有趣。
+   >**越少越好**. 請與您的銷售團隊合作，確定有趣的時刻確實很有趣。
 
-您也可以使用 [有趣時刻的Token](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) 以製作真正實用的動態說明。
+您也可以使用 [有趣時刻的權杖](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) 以製作真正有用的動態說明。
 
 >[!MORELIKETHIS]
 >

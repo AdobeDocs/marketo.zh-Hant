@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 冠軍/挑戰者：宣告冠軍 {#champion-challenger-declare-a-champion}
 
-當您準備好時，您可以宣告電子郵件測試的擁護者。
+準備就緒後，您可以為電子郵件測試宣告擁護者。
 
 >[!MORELIKETHIS]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 尋找您的電子郵件測試並按一下滑鼠右鍵，然後按一下 **宣告冠軍**.
+1. 尋找電子郵件測試並按一下滑鼠右鍵，然後按一下 **宣告擁護者**.
 
    ![](assets/champion4.jpg)
 
@@ -47,4 +47,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 
-   Rad！ 現在您知道如何輕鬆執行電子郵件測試，以改善您的內容而不中斷您的行銷活動。
+   Rad！ 現在您知道如何輕鬆執行電子郵件測試，以改進內容而不會中斷行銷活動。

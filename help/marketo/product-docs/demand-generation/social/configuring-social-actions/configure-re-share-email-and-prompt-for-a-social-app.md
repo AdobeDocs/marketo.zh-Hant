@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 設定重新共用電子郵件並提示使用社交應用程式 {#configure-re-share-email-and-prompt-for-a-social-app}
 
-當您建立 [轉介優惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 或 [抽獎](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)，您可以邀請參與者在註冊過程中與更多朋友分享您的優惠方案，並提供共用電子郵件的預設文字。
+當您建立 [轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 或 [抽獎](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)，您可以邀請參與者在註冊過程中與更多朋友分享您的優惠方案，並提供共用電子郵件的預設文字。
 
 >[!NOTE]
 >
->在轉介選件中，您也可以 [將共用優惠方案設為需求](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) 以註冊。
+>在推薦選件中，您也可以 [將共用優惠方案設為需求](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) 以註冊。
 
 1. 前往 **行銷活動**.
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-11-3a6-3a56.png)
 
-1. 在反向連結選件編輯器中，前往 **註冊流程** > **重新共用提示**.
+1. 在轉介選件編輯器中，前往 **註冊流程** > **重新共用提示**.
 
    ![](assets/image2014-9-22-11-3a7-3a9.png)
 
-1. 編輯傳送給參與者朋友的電子郵件（若朋友選擇共用）。
+1. 編輯傳送給您參與者朋友的電子郵件（如果他們選擇共用）。
 
    >[!NOTE]
    >
-   >電子郵件會自動包含您參與者的不重複共用URL。
+   >電子郵件會自動包含您參與者的唯一共用URL。
 
 1. 在 **檢視和編輯** 視窗，按一下 **顯示編輯** 並編輯共用邀請以及追蹤進度指示。
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->接下來，您可以設定 [追蹤轉介優惠方案中的進度流程](configure-track-progress-flow-for-a-referral-offer.md)，或按一下 **完成** > **核准並關閉** 至 [發佈您的推薦優惠](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) 或 [抽獎](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).
+>接下來，您可以設定 [追蹤反向連結優惠方案中的進度流程](configure-track-progress-flow-for-a-referral-offer.md)，或按一下 **完成** > **核准並關閉** 至 [發佈您的轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) 或 [抽獎](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).

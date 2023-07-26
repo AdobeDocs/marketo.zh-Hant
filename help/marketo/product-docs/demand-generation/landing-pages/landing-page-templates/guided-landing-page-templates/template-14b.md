@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本14B {#template-14b}
 
-按一下滑鼠右鍵以 [下載範本14B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html)
+按一下右鍵以 [下載範本14B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html)
 
 ![](assets/image2015-8-11-15-3a42-3a35.png)
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 * 標題（選用）
 * 主要區段
 
-   * 包括主圖示題、主圖文字和影片
+   * 包含主圖示題、主圖文字和影片
 
 * 五個內文區段（選擇性）
 * 頁尾（選擇性）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本14B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html)

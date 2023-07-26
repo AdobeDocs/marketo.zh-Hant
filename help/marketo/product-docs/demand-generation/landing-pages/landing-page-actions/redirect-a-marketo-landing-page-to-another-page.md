@@ -13,13 +13,13 @@ ht-degree: 1%
 
 # 將Marketo登入頁面重新導向至其他頁面 {#redirect-a-marketo-landing-page-to-another-page}
 
-如果您曾更新頁面的URL，並希望舊的URL仍然有效，請嘗試重新導向！ 輕鬆設定。
+如果您曾更新頁面的URL，並希望舊的URL仍然有效，請嘗試重新導向！ 設定很容易。
 
 >[!NOTE]
 >
 >**需要管理員許可權**
 
-1. 下 **管理員**，按一下 **登陸頁面**.
+1. 在 **管理員**，按一下 **登陸頁面**.
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
@@ -33,17 +33,17 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >請記住，您只能重新導向Marketo開頭的URL [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >請記住，您只能重新導向以Marketo開頭的URL [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. 選擇您要在第二個重新導向的登陸頁面 **原始URL** 欄位。
+1. 選擇您要在第二個登陸頁面中重新導向 **原始URL** 欄位。
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
    >[!NOTE]
    >
-   >您可以輸入任何URL路徑，即使頁面或目錄不存在。
+   >即使頁面或目錄不存在，您也可以輸入任何URL路徑。
 
-1. 按一下 **重新導向URL** 下拉式清單，然後選取您要重新導向訪客的頁面。
+1. 按一下 **重新導向URL** 下拉式清單，並選取您要重新導向訪客的頁面。
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 

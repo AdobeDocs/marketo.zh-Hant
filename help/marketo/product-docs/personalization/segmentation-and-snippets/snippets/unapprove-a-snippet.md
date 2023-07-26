@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359516
-description: 取消核准代碼片段 — Marketo檔案 — 產品檔案
-title: 取消核准代碼片段
+description: 取消核准程式碼片段 — Marketo檔案 — 產品檔案
+title: 取消核准程式碼片段
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 取消核准代碼片段 {#unapprove-a-snippet}
+# 取消核准程式碼片段 {#unapprove-a-snippet}
 
-未核准的程式碼片段不能用於電子郵件或登入頁面。
+未核准的程式碼片段無法用於電子郵件或登入頁面。
 
 1. 前往 **Design Studio**.
 

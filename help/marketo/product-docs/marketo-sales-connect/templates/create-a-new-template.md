@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->請一律直接在範本中輸入文字，或從純文字編輯器（即Notepad或TextEdit）中複製。 從RTF編輯器（即MS Word）複製和貼上時，可能會導致格式不規則。
+>請一律將文字直接輸入範本中，或從純文字編輯器複製（例如Notepad或TextEdit）。 從RTF編輯器（即MS Word）複製和貼上可能會導致格式不規則。

@@ -1,6 +1,6 @@
 ---
 description: 新增附件或可追蹤內容至您的電子郵件 — Marketo檔案 — 產品檔案
-title: 新增附件或可追蹤內容至您的電子郵件
+title: 新增附件或可追蹤的內容至您的電子郵件
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# 新增附件或可追蹤內容至您的電子郵件 {#add-an-attachment-or-trackable-content-to-your-email}
+# 新增附件或可追蹤的內容至您的電子郵件 {#add-an-attachment-or-trackable-content-to-your-email}
 
-透過Marketo Sales傳送電子郵件時，您可以選擇新增檔案作為附件，或將檔案設為可下載（且可追蹤）連結。
+透過Marketo Sales傳送電子郵件時，您可以選擇新增檔案作為附件，或讓檔案成為可下載（且可追蹤）連結。
 
 >[!NOTE]
 >
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## 新增附件 {#add-an-attachment}
 
-1. 建立您的電子郵件草稿(有多種方式可以執行此操作，在此範例中，我們選擇 **撰寫** （在標題中）。
+1. 建立您的電子郵件草稿(有多種方式可以執行此操作，在此範例中，我們將選擇 **撰寫** （在標題中）。
 
    ![](assets/add-an-attachment-or-trackable-content-1.png)
 
@@ -38,15 +38,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您需要上傳檔案，請按一下 **上傳內容** 按鈕。
+   >如果您需要上傳檔案，請按一下 **上傳內容** 按鈕來切換視窗。
 
-   附件會顯示在電子郵件的底部。
+   附件會顯示在您電子郵件的底部。
 
    ![](assets/add-an-attachment-or-trackable-content-5.png)
 
 ## 新增可追蹤內容 {#add-trackable-content}
 
-1. 建立您的電子郵件草稿（有多種方法執行此操作，在此範例中，我們選擇「撰寫」視窗）。
+1. 建立您的電子郵件草稿（有多種方法可這麼做，在此範例中，我們選擇「撰寫」視窗）。
 
    ![](assets/add-an-attachment-or-trackable-content-6.png)
 
@@ -64,25 +64,25 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您需要上傳檔案，請按一下 **上傳內容** 按鈕。
+   >如果您需要上傳檔案，請按一下 **上傳內容** 按鈕來切換視窗。
 
-   內容會在您的電子郵件中顯示為連結。 收件者可以按一下連結以下載內容。
+   內容會以連結的形式顯示在您的電子郵件中。 收件者可以按一下連結以下載內容。
 
    ![](assets/add-an-attachment-or-trackable-content-10.png)
 
    >[!NOTE]
    >
-   >當使用者檢視其追蹤的內容時，即時摘要中會通知使用者。 使用者也可以在Analytics頁面的內容區段中看到最高績效的內容。
+   >當使用者檢視其追蹤的內容時，即會在即時摘要中通知使用者。 使用者也可以在Analytics頁面的內容區段中看到最高績效的內容。
 
 ## 可追蹤內容更新 {#trackable-content-updates}
 
 **可追蹤內容檢視器**
 
-當潛在客戶點按您電子郵件中的可追蹤內容時，它會開啟內容檢視器。
+當潛在客戶點按您的電子郵件中的可追蹤內容時，將開啟內容檢視器。
 
 ![](assets/add-an-attachment-or-trackable-content-11.png)
 
-在內容檢視器潛在客戶可以執行下列操作。
+在內容檢視器潛在客戶可以執行以下操作。
 
 * 下載檔案
 
@@ -102,4 +102,4 @@ ht-degree: 0%
 
 ![](assets/add-an-attachment-or-trackable-content-15.png)
 
-每次潛在客戶前進到檔案上的另一個頁面時，您將在即時摘要中收到一個已檢視事件，該事件顯示檔名稱。
+每次潛在客戶前進到檔案上的另一個頁面時，您將在即時摘要中收到顯示檔名稱的「已檢視」事件。

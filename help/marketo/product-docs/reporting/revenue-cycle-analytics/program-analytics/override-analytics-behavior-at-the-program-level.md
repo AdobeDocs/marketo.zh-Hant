@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 覆寫方案層級的Analytics行為 {#override-analytics-behavior-at-the-program-level}
 
-您可以設定 [管道上管理員層級的Analytics行為](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) 但您也可以在方案層級覆寫它。 方法如下：
+您可以設定 [在管道上的管理員層級分析行為](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) 但您也可以在方案層級覆寫它。 方法如下：
 
 1. 前往 **行銷活動** 區域。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. 在 **設定** 標籤，將Analytics行為拖曳至畫布。
+1. 在 **設定** 標籤，將「Analytics行為」拖曳至畫布。
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -34,11 +34,11 @@ ht-degree: 0%
    >**定義**
    >
    >* **包含**  — 此選項將確保程式可用於在收入總管和分析器中報告，無論您是否包含期間成本。
-   >* **運作**  — 此選項導致程式不會顯示在收入總管或分析器中。
+   >* **營運**  — 此選項導致計畫未顯示在收入總管或分析器中。
 
    >[!NOTE]
    >
-   >預設行為（如果未套用此設定）是程式將包含在Analytics中 **僅當至少有一個期間成本時**，即使指派了零美元亦然。
+   >預設行為（如果未套用此設定）是包含在Analytics中的程式 **僅當至少有一個期間成本時**，即使指派了零美元也一樣。
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
@@ -46,8 +46,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
-幹得漂亮！ 現在您知道如何在程式層級覆寫分析行為了。
+做得很好！ 現在您知道如何在方案層級覆寫分析行為了。
 
 >[!NOTE]
 >
->這些變更會在隔天生效，並且可供使用或從Revenue Explorer和Analyser中提取。
+>這些變更將在隔天生效，並且可供使用或從收入總管和分析器中提取。

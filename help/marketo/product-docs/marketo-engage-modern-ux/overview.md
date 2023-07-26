@@ -1,5 +1,5 @@
 ---
-description: 概述 — Marketo檔案 — 產品檔案
+description: 概覽 — Marketo檔案 — 產品檔案
 title: 概觀
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
@@ -12,31 +12,31 @@ ht-degree: 1%
 
 # 概觀 {#overview}
 
-歡迎使用Adobe Marketo Engage Modern UX （使用者體驗），此更新的介面可增強可用性，並在整個Marketo Engage平台上提供新的觀感。
+歡迎使用Adobe Marketo Engage Modern UX （使用者體驗），此更新介面可增強易用性，並帶來整個Marketo Engage平台的新外觀。
 
 >[!PREREQUISITES]
 >
->如果您的IT團隊限制使用允許清單進行網頁存取，請要求他們新增下列網域（包括星號），以允許所有Marketo資源和網頁通訊端：
+>如果您的IT團隊使用允許清單來限制Web存取，請要求他們新增以下網域（包括星號），以允許所有Marketo資源和網路通訊端：
 >
 >* *.marketo.com
 >* *.marketodesigner.com
 >* *.mktoweb.com
 
-## 觀看導覽 {#take-the-tour}
+## 進行導覽 {#take-the-tour}
 
-首次登入時，會出現快顯視窗，為您提供新體驗的摘要。 注意，如果您選擇略過，則會 **not** 稍後提供。
+第一次登入時，畫面會顯示快顯視窗，提供您新體驗的摘要。 注意，如果您選擇略過，則會 **非** 稍後提供。
 
 ![](assets/overview-1.png)
 
-此導覽會帶您瞭解您需要瞭解的一切！
+此導覽會帶您瞭解所需的一切！
 
 ## 新增功能 {#whats-new}
 
-Modern UX中有許多新功能，這些功能的設計目的都是為了大幅改善您的行銷體驗。
+Modern UX中有許多新功能，這些功能都旨在大幅改善您的行銷體驗。
 
 **圖示**
 
-新介面功能改良並擴充影象。 請在這裡瞭解這些設定： [圖示字彙表](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
+新的介面功能改良並擴充了影象。 如需詳細資訊，請參閱此處： [圖示字彙表](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
 
 ![](assets/overview-2.png)
 
@@ -54,13 +54,13 @@ Modern UX中有許多新功能，這些功能的設計目的都是為了大幅�
 
 ## 新增樹狀結構選項 {#new-tree-options}
 
-有大量的新樹狀結構功能可供使用。
+有許多可用的新樹狀結構功能。
 
 >[!NOTE]
 >
->在樹狀結構中執行搜尋只會顯示前250個結果。 如果在搜尋後找不到您的資產，請使用 [全域搜尋](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) 函式。
+>在樹狀結構中執行搜尋只會顯示前250個結果。 如果搜尋後仍找不到資產，請使用 [全域搜尋](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) 函式。
 
-**Marketo Classic與新Marketo的比較**
+**Marketo Classic與新Marketo**
 
 <table> 
  <tbody>
@@ -75,7 +75,7 @@ Modern UX中有許多新功能，這些功能的設計目的都是為了大幅�
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>合併草稿和核准樹節點</td> 
+   <td>合併草稿與核准樹節點</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -85,7 +85,7 @@ Modern UX中有許多新功能，這些功能的設計目的都是為了大幅�
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>按兩下以展開/收合樹狀結構節點</td> 
+   <td>按兩下以展開/收合樹狀節點</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td>  
   </tr>
@@ -125,12 +125,12 @@ Modern UX中有許多新功能，這些功能的設計目的都是為了大幅�
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>快速收合整個樹狀結構</td> 
+   <td>快速摺疊整個樹狀結構</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>快速收合至根節點</td> 
+   <td>快速摺疊至根節點</td> 
    <td></td> 
    <td><strong>X</strong></td>  
   </tr>
@@ -202,10 +202,10 @@ Modern UX中有許多新功能，這些功能的設計目的都是為了大幅�
 
 >[!NOTE]
 >
->所有曾經存在於超級球下拉式清單中的內容，現在仍可在「我的Marketo」中以圖磚形式使用。
+>所有曾經存在於超級球下拉式清單中的專案，現在仍可在「我的Marketo」中以圖磚形式使用。
 
 >[!TIP]
 >
->在樹狀結構中使用搜尋只會從您所在的區段產生結果（例如「行銷活動」）。 如果您想要搜尋整個執行個體，請使用全域搜尋。
+>在樹狀結構中使用該搜尋只會從您所在的區段產生結果（例如「行銷活動」）。 如果您想要搜尋整個執行個體，請使用全域搜尋。
 
 享受全新的Marketo Engage體驗！

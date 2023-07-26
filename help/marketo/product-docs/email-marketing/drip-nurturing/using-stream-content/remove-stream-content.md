@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 移除資料流內容 {#remove-stream-content}
 
-您可以移除或封存一段內容。 與移除串流內容不同， [封存](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) 保留與內容相關的所有歷史記錄。 如果您不介意遺失部分內容的歷史統計資料，但想要移除該資料，請參閱以下操作說明。
+您可以移除或封存內容片段。 不像移除串流內容， [封存](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) 會保留與內容相關的所有歷程記錄。 如果您不介意遺失部分內容的歷史統計資料，但想加以移除，以下說明移除步驟。
 
 1. 前往 **行銷活動**.
 
@@ -29,6 +29,6 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >只有在您不關心歷程記錄時，才移除內容。 如果要保留歷史記錄， [封存](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) 而非。
+   >只有在您不關心歷程記錄時才移除內容。 如果要保留歷史記錄， [封存](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) 而非。
 
    完成了！ 現在您知道如何移除內容片段了。

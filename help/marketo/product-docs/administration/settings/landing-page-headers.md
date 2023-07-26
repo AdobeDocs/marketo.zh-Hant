@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 登陸頁面標頭 {#landing-page-headers}
 
-請依照下列步驟，自訂登陸頁面網域上的部分HTTP標題。
+請依照下列步驟，自訂您的登陸頁面網域上的部分HTTP標題。
 
 1. 在Marketo中，按一下 **[!UICONTROL 管理員]**.
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/landing-page-headers-2.png)
 
-1. 按一下 **[!UICONTROL 編輯]** 位於登陸頁面HTTP標題旁。
+1. 按一下 **[!UICONTROL 編輯]** 在登陸頁面HTTP標題旁。
 
    ![](assets/landing-page-headers-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 <table>
  <tr>
   <td><strong>[！UICONTROL Strict-Transport-Security]</strong></td>
-  <td>使用此專案來保證登陸頁面的連線一律會透過HTTPS提供（應僅針對具有SSL保護的登陸頁面的訂閱設定）</td>
+  <td>使用此專案來保證登陸頁面的連線一律會透過HTTPS提供（應僅針對具有SSL安全保護的登陸頁面的訂閱設定）</td>
  </tr>
  <tr>
   <td><strong>[！UICONTROL X-Frame-Options]</strong></td>
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->請務必與IT團隊一起檢閱這些設定，以決定貴組織的原則應設定為何。 不正確的設定可能會阻止某些訪客存取您的登陸頁面。
+>請務必與IT團隊一起檢閱這些設定，以決定您組織的原則應設定為何。 不正確的設定可能會讓某些訪客無法存取您的登陸頁面。

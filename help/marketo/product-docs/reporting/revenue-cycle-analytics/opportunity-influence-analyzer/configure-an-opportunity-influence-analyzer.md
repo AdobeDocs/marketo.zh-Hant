@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360240
 description: 設定Opportunity Influence Analyzer - Marketo檔案 — 產品檔案
-title: 設定Opportunity Influence Analyzer
+title: 設定機會影響分析器
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# 設定Opportunity Influence Analyzer {#configure-an-opportunity-influence-analyzer}
+# 設定機會影響分析器 {#configure-an-opportunity-influence-analyzer}
 
-一旦您 [建立機會影響分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)，您可以設定 [有趣的時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) 包含的。
+一旦您 [建立機會影響分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)，您可以設定 [有趣的時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) 已包括在內。
 
 >[!PREREQUISITES]
 >
 >[建立機會影響分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. 按一下 **分析**.
+1. 按一下 **Analytics**.
 
    ![](assets/login-to-analytics.png)
 
@@ -27,9 +27,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   如果分析器圖表中有太多有趣的時刻，您可以透過取消選取 **設定** 面板，或是減少有趣時刻的型別。
+   如果分析器圖表中有太多有趣的時刻，您可以透過取消選取 **設定** 面板，或是減少有趣的時刻型別。
 
-1. 若要設定要包含哪些型別的有趣時刻，請前往「設定」索引標籤，然後拖曳至「有趣時刻」篩選條件。
+1. 若要設定要包含哪些型別的有趣時刻，請前往「設定」索引標籤，並在「有趣時刻」篩選器中拖曳。
 
    ![](assets/image2014-9-17-12-3a29-3a10.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 1. 按一下您想要的每個有趣時刻。 然後按一下 **儲存**.
 
-1. 按一下主要標籤，即可檢視只有選取之有趣時刻型別的商機歷史記錄。
+1. 按一下主要索引標籤，即可檢視只有選取之有趣時刻型別的商機歷史記錄。
 
    ![](assets/image2014-9-17-12-3a29-3a58.png)
 

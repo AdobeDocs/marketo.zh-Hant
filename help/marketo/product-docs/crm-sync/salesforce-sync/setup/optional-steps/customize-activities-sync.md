@@ -23,13 +23,13 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 勾選您要Marketo推送至Salesforce的活動旁的方塊，然後按一下 **儲存**.
+1. 勾選您希望Marketo推送至Salesforce的活動旁的方塊，然後按一下 **儲存**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >啟用後，Marketo會推送三個月的活動歷史記錄。 根據資料量， _這可能需要幾天的時間才能完成_. 在初始活動推送期間發生的更新可能會延遲到初始活動同步完成後。
+   >啟用後，Marketo會推送三個月的活動歷史記錄。 依資料量而定， _這可能需要幾天的時間才能完成_. 在初始活動推送期間發生的更新可能會延遲到初始活動同步完成後。
 
 <table> 
  <colgroup> 
@@ -44,7 +44,7 @@ ht-degree: 0%
  </thead> 
  <tbody> 
   <tr> 
-   <td>已填寫表單</td> 
+   <td>已填寫的表單</td> 
    <td>填寫任何Marketo表單</td> 
   </tr> 
   <tr> 
@@ -64,7 +64,7 @@ ht-degree: 0%
    <td>已開啟電子郵件（未封鎖影像）</td> 
   </tr> 
   <tr> 
-   <td>已點按電子郵件中的連結</td> 
+   <td>電子郵件中的點選連結</td> 
    <td>按一下Marketo所傳送電子郵件中的連結</td> 
   </tr> 
   <tr> 
@@ -76,16 +76,16 @@ ht-degree: 0%
    <td>流程步驟：從流程中移除</td> 
   </tr> 
   <tr> 
-   <td>銷售電子郵件已傳送</td> 
-   <td>已透過Marketo Sales Insight傳送電子郵件</td> 
+   <td>已傳送銷售電子郵件</td> 
+   <td>已透過Marketo銷售分析傳送電子郵件</td> 
   </tr> 
   <tr> 
    <td>已開啟銷售電子郵件</td> 
-   <td>已開啟透過Marketo Sales Insight傳送的電子郵件</td> 
+   <td>開啟透過Marketo Sales Insight傳送的電子郵件</td> 
   </tr> 
   <tr> 
    <td>按一下銷售電子郵件中的連結</td> 
-   <td>按一下透過Marketo Sales Insight傳送之電子郵件中的連結</td> 
+   <td>按一下透過Marketo Sales Insight傳送的電子郵件中的連結</td> 
   </tr> 
   <tr> 
    <td>已收到銷售電子郵件</td> 
@@ -96,7 +96,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->「已收到的銷售電子郵件」會 **not** 平均已傳遞。 透過Sales Insight傳送的電子郵件不會擷取傳遞狀態。
+>「收到的銷售電子郵件」會 **非** 表示已傳遞。 對於透過Sales Insight傳送的電子郵件，不會擷取傳遞狀態。
 
 >[!TIP]
 >

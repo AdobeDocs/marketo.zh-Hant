@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 重新導向登入頁面 {#redirect-a-landing-page}
 
-## 任務：將登入頁面重新導向至其他網頁 {#mission-redirect-a-landing-page-to-a-different-web-page}
+## 任務：將登入頁面重新導向至不同網頁 {#mission-redirect-a-landing-page-to-a-different-web-page}
 
 >[!NOTE]
 >
@@ -48,11 +48,11 @@ ht-degree: 0%
    >
    >請記住，您只能重新導向以Marketo開頭的登陸頁面 [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}.
 
-1. 按一下第二個 **[!UICONTROL 原始URL]** 下拉式清單，然後選取您要重新導向的登入頁面。
+1. 按一下第二個 **[!UICONTROL 原始URL]** 下拉式清單，並選取您要重新導向的登入頁面。
 
    ![](assets/redirect-a-landing-page-5.png)
 
-1. 對象 **[!UICONTROL 重新導向URL]** 選取您要重新導向的頁面，然後按一下 **[!UICONTROL 建立]**.
+1. 的 **[!UICONTROL 重新導向URL]** 選取您要重新導向到的頁面，然後按一下 **[!UICONTROL 建立]**.
 
    ![](assets/redirect-a-landing-page-6.png)
 
@@ -62,4 +62,4 @@ ht-degree: 0%
 
 <br> 
 
-[◄任務9：更新潛在客戶資料](/help/marketo/getting-started/quick-wins/update-person-data.md)
+[◄ Mission 9：更新潛在客戶資料](/help/marketo/getting-started/quick-wins/update-person-data.md)

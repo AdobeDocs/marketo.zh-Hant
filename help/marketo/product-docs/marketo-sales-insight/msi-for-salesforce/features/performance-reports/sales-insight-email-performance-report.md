@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 產生報表 {#generate-a-report}
 
-1. 按一下 **分析**.
+1. 按一下 **Analytics**.
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. 按一下 **Sales Insight電子郵件效能**.
+1. 按一下 **銷售分析電子郵件績效**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
-   太棒了！ 現在您可以檢視從銷售團隊傳送的電子郵件表現如何。
+   太棒了！ 您現在可以看到從銷售團隊傳送的電子郵件執行情形。
 
    >[!NOTE]
    >
-   >透過Sales Insight傳送的電子郵件不會擷取傳遞狀態，且不會包含在此報告或活動記錄中。
+   >透過Sales Insight傳送的電子郵件不會擷取傳遞狀態，而且不會包含在此報表或活動記錄中。
 
 >[!TIP]
 >
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ## 依銷售代表分組 {#group-by-sales-rep}
 
-您可以變更您的設定，檢視依銷售代表分組的此報告。
+您可以變更設定，檢視依銷售代表分組的此報告。
 
 1. 按一下 **設定**. 按兩下 **電子郵件**.
 

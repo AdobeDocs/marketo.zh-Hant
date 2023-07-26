@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[完成設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
-在本教學課程中，您將瞭解如何將人員從試算表檔案匯入Marketo。
+在本教學課程中，您將瞭解如何從試算表檔案將人員匯入Marketo。
 
 ## 步驟1：下載並編輯試算表 {#step-download-and-edit-a-spreadsheet}
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >匯入的任何日期/時間欄位都會視為中部時間。 如果您的日期/時間欄位位於不同的時區，您可以使用Excel公式將其轉換為中部時間（美洲/芝加哥）。
+   >匯入的任何日期/時間欄位都會視為中央時間。 如果您的日期/時間欄位位於不同的時區，可以使用Excel公式將其轉換為中部時間（美洲/芝加哥）。
 
-1. 新增您自己的名字、姓氏、實際電子郵件地址（以便接收您下次執行任務時將傳送的培養電子郵件）以及職稱。 將檔案儲存在電腦上。
+1. 新增您自己的名字、姓氏、實際電子郵件地址（以便接收下次任務時將會傳送的培養電子郵件）以及職稱。 將檔案儲存在電腦上。
 
    ![](assets/import-a-list-of-people-2.png)
 
    >[!CAUTION]
    >
-   >Marketo會 **not** 支援包含表情符號的電子郵件地址。
+   >Marketo會 **非** 支援包含表情符號的電子郵件地址。
 
 ## 步驟2：建立方案 {#step-create-a-program}
 
@@ -53,21 +53,21 @@ ht-degree: 0%
 
    ![](assets/import-a-list-of-people-4.png)
 
-1. **名稱** 計畫「我的貿易展覽計畫」並選取「事件」作為 **[!UICONTROL 計畫型別]**.
+1. **名稱** 計畫「我的商展計畫」並選取「事件」作為 **[!UICONTROL 計畫型別]**.
 
    ![](assets/import-a-list-of-people-5.png)
 
-1. 選取 **[!UICONTROL 貿易展]** 的 **[!UICONTROL 頻道]** 並按一下 **[!UICONTROL 建立]**.
+1. 選取 **[!UICONTROL 商展]** 針對 **[!UICONTROL 頻道]** 並按一下 **[!UICONTROL 建立]**.
 
    ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
->事件程式會在特定日期發生。 進一步瞭解 [**事件**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
+>事件程式會在特定日期發生。 進一步瞭解 [**活動**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
 
 ## 步驟3：將試算表匯入Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. 在 **我的貿易展計畫**，按一下 **[!UICONTROL 新增]** 並選取 **[!UICONTROL 新增本機資產]**.
+1. 在 **我的商展計畫**，按一下 **[!UICONTROL 新增]** 並選取 **[!UICONTROL 新增本機資產]**.
 
    ![](assets/import-a-list-of-people-7.png)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果您使用自己的CSV檔案，請確定它是以UTF-8、UTF-16、Shift-JIS或EUC-JP編碼。
+   >如果您使用自己的CSV檔案，請確定該檔案編碼為UTF-8、UTF-16、Shift-JIS或EUC-JP。
 
    >[!NOTE]
    >
@@ -103,37 +103,37 @@ ht-degree: 0%
    > * 略過人員欄位更新
    > * 略過活動記錄
 
-1. 對應您的 [!UICONTROL 清單欄] 欄位至其各自的Marketo欄位並按一下 **[!UICONTROL 下一個]**.
+1. 對應您的 [!UICONTROL 清單欄] 欄位至其各自的Marketo欄位，然後按一下 **[!UICONTROL 下一個]**.
 
    ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
-   >欄標題應一律與欄位完全相符（區分大小寫），以獲得最佳的自動對應結果。 如果您使用自訂欄位，但在下拉式清單中看不到，請返回並 [建立它們](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} 因此它們可以成為選項。
+   >欄標題應始終完全符合欄位（區分大小寫），以獲得最佳自動對應結果。 如果您使用自訂欄位，但在下拉式清單中看不到，請返回並 [建立它們](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} 因此它們可以變成選項。
 
    >[!NOTE]
    >
    >如果有任何您不想匯入的欄位，請選取 **忽略** 「Marketo欄位」下拉式功能表中的。
 
-1. 選取 **我的貿易展計畫** 的 **[!UICONTROL 贏取方案]**，然後按一下 **[!UICONTROL 匯入]**.
+1. 選取 **我的商展計畫** 針對 **[!UICONTROL 贏取方案]**，然後按一下 **[!UICONTROL 匯入]**.
 
    ![](assets/import-a-list-of-people-13.png)
 
-1. 等候您的人員匯入，然後關閉匯入進度快顯視窗。
+1. 等候您的人員匯入，然後關閉匯入進度快顯功能表。
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. 返回 **我的貿易展計畫**，按一下 **[!UICONTROL 成員]** 標籤。 您會看到所有您剛剛匯入的人員。
+1. 返回 **我的商展計畫**，按一下 **[!UICONTROL 成員]** 標籤。 您會看到剛才匯入的所有人員。
 
    ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
->您可以透過追蹤計畫會員資格來分析計畫是否成功。 進一步瞭解 [**計畫**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
+>您可以透過追蹤計畫會員資格來分析計畫的成功。 進一步瞭解 [**計畫**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
 
 ## 任務完成 {#mission-complete}
 
-您的貿易展會出席者現在是Marketo計畫的成員！
+您的商展與會者現在是Marketo計畫的成員！
 
 <br> 
 

@@ -13,9 +13,9 @@ ht-degree: 2%
 
 # 變更階段名稱 {#changing-the-name-of-a-stage}
 
-改變主意了嗎？ 沒問題。 重新命名收入週期Modeler中的階段很容易。
+要改變主意嗎？ 沒問題。 重新命名收入週期Modeler中的階段很容易。
 
-1. 前往 **分析** 區域。
+1. 前往 **Analytics** 區域。
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
@@ -31,4 +31,4 @@ ht-degree: 2%
 
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   看到沒？ 簡單！ 記住 [核准您的模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).
+   看到沒？ 輕鬆！ 記住 [核准您的模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 現有客戶的設定 {#configuration-for-existing-customers}
 
-請設定以下設定，以開始使用新的見解控制面板。
+請設定下列設定，以開始使用新的前瞻分析控制面板。
 
 >[!PREREQUISITES]
 >
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/configuration-for-existing-customers-6.png)
 
-1. 輸入遠端網站名稱（可能類似「MarketoRestAPI」）和遠端網站URL (您在Marketo中從「Rest API設定」面板取得的API URL)。
+1. 輸入遠端網站名稱（可能類似於「MarketoRestAPI」）和遠端網站URL (您在Marketo中來自Rest API設定面板的API URL)。
 
    ![](assets/configuration-for-existing-customers-7.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 ## 存取Marketo Sales Insight {#access-marketo-sales-insight}
 
-1. 從Marketo的Sales Insight Admin頁面中的Rest API面板複製認證。 將它們貼到Salesforce的Sales Insight Configuration頁面的Rest API區段。
+1. 從Marketo的Sales Insight「管理頁面」中的Rest API面板複製認證。 將它們貼到Salesforce的Sales Insight設定頁面的Rest API區段。
 
 1. 輸入API金鑰。
 

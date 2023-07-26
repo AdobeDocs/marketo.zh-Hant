@@ -35,8 +35,8 @@ ht-degree: 0%
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-做得好！ 現在您已為帳戶啟用PURL，您可以 [為個別登陸頁面啟用這些功能](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
+做得好！現在您已為帳戶啟用PURL，您可以 [為個別登陸頁面啟用這些功能](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
 >[!NOTE]
 >
->如果有兩個名字相同/姓氏相同的使用者，系統會自動在結尾附加一個數字。
+>如果有兩個人擁有相同的名字/姓氏，系統會自動在結尾附加一個數字。

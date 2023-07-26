@@ -1,6 +1,6 @@
 ---
 unique-page-id: 6094879
-description: 新增目標URL至網站行銷活動 — Marketo檔案 — 產品檔案
+description: 將Target URL新增至網站行銷活動 — Marketo檔案 — 產品檔案
 title: 新增目標URL至網站行銷活動
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 新增目標URL至網站行銷活動 {#adding-a-target-url-to-a-web-campaign}
 
-目標URL位於「設定行銷活動」頁面下方，並定義要顯示網頁行銷活動的特定URL或URL。
+目標URL位於「設定行銷活動」頁面下方，並定義要顯示網頁行銷活動的特定URL。
 
 ## 新增Dialog或Widget Web行銷活動的目標URL {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. 前往 **網路行銷活動**.
+1. 前往 **網站行銷活動**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
@@ -43,24 +43,24 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>比對時包含URL引數</strong></p></td> 
-   <td colspan="1" rowspan="1">新增URL引數以在包含此引數的URL上比對和顯示行銷活動。 例如： campaign=cpc</td> 
+   <td colspan="1" rowspan="1">新增URL引數以在包含此引數的URL上比對和顯示促銷活動。 例如： campaign=cpc</td> 
   </tr> 
  </tbody> 
 </table>
 
 ## 新增多個URL至目標URL {#adding-multiple-urls-to-target-url}
 
-按一下加號圖示(![—](assets/image2015-2-18-8-3a40-3a59.png))將會開啟「多值專案」對話方塊以新增多個URL。 每行新增一個URL。
+按一下加號圖示(![—](assets/image2015-2-18-8-3a40-3a59.png))會開啟「多值專案」對話方塊以新增多個URL。 每行新增一個URL。
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 
 >[!NOTE]
 >
 >* 對話方塊和Widget網頁行銷活動可使用任何頁面和萬用字元(&#42;)選項。
->* 在進階使用案例中，在區域中網頁行銷活動可在URL路徑末端使用萬用字元。 範例： [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+>* 在進階使用案例中，在區域中網路行銷活動可在URL路徑末端使用萬用字元。 範例： [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 >* URL區分大小寫
 
-## 為地區內網頁行銷活動新增目標URL {#adding-a-target-url-for-in-zone-web-campaigns}
+## 為區域網路行銷活動新增目標URL {#adding-a-target-url-for-in-zone-web-campaigns}
 
 1. 前往 **Web** **行銷活動**.
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >具有區域內的Target URL必須定義特定的URL或URL。 在進階使用案例中，在區域中網頁行銷活動可在URL路徑末端使用萬用字元。 範例： [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+   >具有「在區域中」的目標URL必須定義一或多個URL。 在進階使用案例中，在區域中網路行銷活動可在URL路徑末端使用萬用字元。 範例： [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 

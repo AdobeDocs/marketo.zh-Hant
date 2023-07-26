@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # 範本13C {#template-13c}
 
-按一下滑鼠右鍵以 [下載範本13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
+按一下右鍵以 [下載範本13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
 
 ![](assets/image2015-8-11-11-3a45-3a44.png)
 
@@ -21,11 +21,11 @@ ht-degree: 3%
 
 * 主要區段
 
-   * 包含英雄標題和投票
+   * 包含主圖示題和投票
 
 * 五個內文區段（選擇性）
 * 頁尾（選擇性）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [Template13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)

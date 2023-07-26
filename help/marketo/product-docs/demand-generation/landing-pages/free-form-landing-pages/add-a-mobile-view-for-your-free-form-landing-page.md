@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4720856
-description: 為您的自由格式登陸頁面新增行動檢視 — Marketo檔案 — 產品檔案
-title: 為您的自由格式登陸頁面新增行動裝置檢視
+description: 為您的自由表單登陸頁面新增行動裝置檢視 — Marketo檔案 — 產品檔案
+title: 為您的自由表單登陸頁面新增行動裝置檢視
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 1%
 
 ---
 
-# 為您的自由格式登陸頁面新增行動裝置檢視 {#add-a-mobile-view-for-your-free-form-landing-page}
+# 為您的自由表單登陸頁面新增行動裝置檢視 {#add-a-mobile-view-for-your-free-form-landing-page}
 
-讓您的自由格式登陸頁面在智慧型手機上看起來很棒。
+讓您的自由格式登陸頁面在智慧型手機上看起來很棒，非常容易。
 
 >[!NOTE]
 >
->行動檢視可在480px寬（或更小）的熒幕上運作。 換言之，就是智慧型手機。 更多內容 [裝置解析度資訊](https://www.mydevice.io/).
+>行動檢視可在480px寬（或更小）的熒幕上運作。 換句話說，就是智慧型手機。 詳細內容 [裝置解析度資訊](https://www.mydevice.io/).
 
 1. 前往 **行銷活動**.
 
@@ -41,7 +41,7 @@ ht-degree: 1%
 
    >[!CAUTION]
    >
-   >自由格式範本可能需要升級。 如果您看到該訊息，請快速閱讀如何 [讓現有的自由格式登陸頁面範本與行動裝置相容](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
+   >可能需要升級自由格式範本。 如果您看到該訊息，請快速閱讀如何 [讓現有的自由表單登陸頁面範本與行動裝置相容](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
 1. 太棒了！ 您現在已啟動登陸頁面的行動版本。 按一下 **關閉**。
 

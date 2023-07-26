@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 排除特定的IP不受追蹤 {#exclude-specific-ips-from-being-tracked}
 
-是否想要從Web Personalization的追蹤和報告中排除您自己的員工和組織名稱？
+曾經想要從Web Personalization的追蹤和報告中排除您自己的員工和組織名稱嗎？
 
-您可以排除個別IP以及全部或部分IP。
+您可以排除個別IP和全部或部分IP。
 
 >[!NOTE]
 >
 >此程式最多可能需要五分鐘才能完成。
 
-1. 登入Web Personalization，然後在您的登入底下，按一下 **帳戶設定**.
+1. 登入Web Personalization，在登入下方，按一下 **帳戶設定**.
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
    ![](assets/exclude-ips-after.png)
 
-   您知道這有多簡單嗎？ 現在您可以從新增的IP中排除所有資料，無論是個別新增或按範圍新增。
+   您知道這有多簡單嗎？ 現在您可以從新增的IP中排除所有資料，無論是個別或按範圍。

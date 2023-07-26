@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 透過群組電子郵件傳送電子郵件 {#sending-emails-via-group-email}
 
-以下說明如何使用群組電子郵件選項傳送/編輯電子郵件。
+以下說明如何使用「群組電子郵件」選項傳送/編輯電子郵件。
 
 ## 傳送群組電子郵件 {#sending-a-group-email}
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/sending-emails-via-group-email-3.png)
 
-1. 填寫您的電子郵件（或選取範本）並傳送（或排程）。
+1. 填寫您的電子郵件（或選取範本）並傳送（或排程）它。
 
    ![](assets/sending-emails-via-group-email-4.png)
 
@@ -40,11 +40,11 @@ ht-degree: 0%
 
    ![](assets/sending-emails-via-group-email-5.png)
 
-1. 完成電子郵件後，您現在可以預覽清單中的每封電子郵件，以檢視動態欄位是否正確填入。
+1. 電子郵件完成後，您現在可以預覽清單中的每封電子郵件，以檢視動態欄位是否正確填入。
 
    ![](assets/sending-emails-via-group-email-6.png)
 
-1. 選取所需的收件者，然後按一下 **預覽動態欄位**. 在右側檢視預覽。
+1. 選取所需的收件者並按一下 **預覽動態欄位**. 在右側檢視預覽。
 
    ![](assets/sending-emails-via-group-email-7.png)
 

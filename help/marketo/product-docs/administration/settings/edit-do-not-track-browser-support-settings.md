@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 編輯「不要追蹤」瀏覽器支援設定 {#edit-do-not-track-browser-support-settings}
 
-「Do Not Track」是不要在Marketo等系統中追蹤的瀏覽器請求。 您可以透過下列步驟處理該要求。
+「Do Not Track」為瀏覽器要求，不應在Marketo等系統中追蹤。 您可以透過下列步驟處理該要求。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->「Do Not Track」預設會設為「忽略」，因此若您想要這麼做，就不需要進行任何步驟。
+>預設情況下，「Do Not Track」會設為「忽略」，因此如果您希望如此，就不需要進行任何步驟。
 
 1. 按一下 **[!UICONTROL 管理員]**.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. 下 **[!UICONTROL 個人追蹤]**，按一下 **[!UICONTROL 編輯]**.
+1. 在 **[!UICONTROL 個人追蹤]**，按一下 **[!UICONTROL 編輯]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 

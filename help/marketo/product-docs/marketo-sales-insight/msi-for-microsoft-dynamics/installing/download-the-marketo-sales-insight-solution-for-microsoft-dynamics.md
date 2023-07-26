@@ -1,7 +1,7 @@
 ---
 unique-page-id: 6849070
 description: 下載Marketo Sales Insight Solution for Microsoft Dynamics - Marketo檔案 — 產品檔案
-title: 下載Microsoft Dynamics的Marketo Sales Insight Solution
+title: 下載Microsoft Dynamics的Marketo Sales Insight解決方案
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 下載Microsoft Dynamics的Marketo Sales Insight Solution {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# 下載Microsoft Dynamics的Marketo Sales Insight解決方案 {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->此頁面上的外掛程式適用於使用Marketo的原生CRM同步解決方案同步至Dynamics 365的Marketo Engage使用者。 若您的客戶具有：自訂同步、MS Dynamics 365 Online （9.x及更高版本），且已購買Marketo Sales Insight，則 [封裝在這裡](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+>此頁面上的外掛程式適用於使用Marketo的原生CRMMarketo Engage解決方案同步至Dynamics 365的使用者。 對於擁有自訂同步、MS Dynamics 365 Online （9.x及更高版本）並已購買Marketo Sales Insight的使用者， [封裝在這裡](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 1. 前往 **管理員** 區域。
 

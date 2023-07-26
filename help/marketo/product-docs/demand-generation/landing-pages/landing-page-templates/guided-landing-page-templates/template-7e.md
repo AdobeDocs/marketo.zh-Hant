@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本7E {#template-7e}
 
-按一下滑鼠右鍵以 [下載範本7E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
+按一下右鍵以 [下載範本7E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
 
 ![](assets/image2015-7-29-15-3a11-3a34.png)
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 * 標題（選用）
 * 主要區段
 
-   * 包括標題和抽獎
+   * 包含頁首與抽獎活動
 
 * 四個主體區段（選擇性）
-* 頁尾（選擇性）
+* 頁尾（選填）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下面按一下滑鼠右鍵以下載此範本：**
 
 [範本7E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)

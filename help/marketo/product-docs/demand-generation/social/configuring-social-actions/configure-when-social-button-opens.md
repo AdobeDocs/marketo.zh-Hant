@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 社交按鈕開啟時進行設定 {#configure-when-social-button-opens}
 
-當您建立 [社交按鈕](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)，您可以設定何時按鈕顯示共用提示。
+當您建立 [社交按鈕](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)，您可以設定按鈕出現共用提示的時機。
 
 1. 前往 **行銷活動**.
 
@@ -32,9 +32,9 @@ ht-degree: 0%
    ![](assets/image2014-9-22-16-3a36-3a21.png)
 
    * **按一下：** 當有人按一下社交按鈕時。
-   * **頁面載入時：** 包含社交按鈕的登陸頁面一經在人員的瀏覽器中載入。
-   * **在Mouseover：** 當個人將滑鼠游標停留在社交按鈕上時。
+   * **頁面載入時：** 當包含社交按鈕的登陸頁面在個人的瀏覽器中載入時。
+   * **在滑鼠滑鼠上：** 當個人將滑鼠游標停留在社交按鈕上時。
 
    >[!MORELIKETHIS]
    >
-   >在人員共用後，您可以請求其電子郵件地址或顯示確認訊息。 瞭解如何 [設定共用後提示](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+   >共用人員後，您可以要求取得其電子郵件地址或顯示確認訊息。 瞭解如何 [設定共用後提示](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

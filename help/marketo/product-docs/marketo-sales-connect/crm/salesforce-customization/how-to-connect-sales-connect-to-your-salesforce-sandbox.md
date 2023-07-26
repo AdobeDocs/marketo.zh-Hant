@@ -1,6 +1,6 @@
 ---
 unique-page-id: 15368205
-description: 如何連結Sales Connect至您的Salesforce沙箱 — Marketo檔案 — 產品檔案
+description: 如何將Sales Connect連線至您的Salesforce沙箱 — Marketo檔案 — 產品檔案
 title: 如何將Sales Connect連線至您的Salesforce沙箱
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
@@ -21,11 +21,11 @@ ht-degree: 0%
 
    ![](assets/one-2.png)
 
-1. 在「整合」底下，按一下 **CRM**.
+1. 在整合底下，按一下 **CRM**.
 
    ![](assets/two-2.png)
 
-1. 在Salesforce卡片中，按一下 **更多資訊**.
+1. 在Salesforce卡中，按一下 **更多資訊**.
 
    ![](assets/three-2.png)
 
@@ -35,12 +35,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您已登入您的Salesforce沙箱帳戶，您將進入授權頁面，您需要允許存取。 如果您尚未登入，請繼續進行步驟5。
+   >如果您已登入您的Salesforce沙箱帳戶，您將進入需要允許存取的授權頁面。 如果您尚未登入，請繼續進行步驟5。
 
-1. 輸入您的Salesforce Sandbox帳戶使用者名稱和密碼。
+1. 輸入您的Salesforce沙箱帳戶使用者名稱和密碼。
 
    ![](assets/five-2.png)
 
 >[!MORELIKETHIS]
 >
->[如何在Salesforce沙箱中安裝自訂](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
+>[如何在您的Salesforce沙箱中安裝自訂](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)

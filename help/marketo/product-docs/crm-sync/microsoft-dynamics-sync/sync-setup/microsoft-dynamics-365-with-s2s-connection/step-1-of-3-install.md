@@ -10,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# 步驟1/3：安裝具有伺服器對伺服器連線的Marketo解決方案 {#step-1-of-3-install-the-marketo-solution-s2s}
+# 步驟3之1：安裝具有伺服器對伺服器連線的Marketo解決方案 {#step-1-of-3-install-the-marketo-solution-s2s}
 
 在同步Microsoft Dynamics 365和Marketo之前，您必須先在Dynamics中安裝Marketo解決方案。 **需要Dynamics管理員許可權。**
 
 >[!CAUTION]
 >
->* 初始同步完成之前，請勿啟用自訂實體同步。 初始同步完成後，您將會收到電子郵件通知。
+>* 初始同步處理完成之前，請勿啟用自訂實體同步處理。 初始同步完成後，您將會收到電子郵件通知。
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. 現在，返回「解決方案資訊」頁面，按一下 **下一個**.
+1. 現在，返回解決方案資訊頁面，按一下 **下一個**.
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可能會看到顯示「Marketo銷售機會管理已完成，但有警告」的訊息。 這完全符合預期。
+   >您可能會看到顯示「Marketo銷售機會管理已完成，但有警告」的訊息。 這是完全正常的情況。
 
    ![](assets/image2015-3-13-9-3a54-3a39.png)
 
@@ -90,4 +90,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[步驟2/3：使用S2S連線設定Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+   >[步驟3之2：使用S2S連線設定Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)

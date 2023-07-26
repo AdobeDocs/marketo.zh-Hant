@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359498
-description: 預覽代碼片段 — Marketo檔案 — 產品檔案
-title: 預覽代碼片段
+description: 預覽程式碼片段 — Marketo檔案 — 產品檔案
+title: 預覽程式碼片段
 exl-id: 757e14ef-af7b-44d8-9c73-89b281df3d42
 feature: Snippets
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 預覽代碼片段 {#preview-a-snippet}
+# 預覽程式碼片段 {#preview-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -27,8 +27,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 
-預覽可確保您的內容看起來適合每個區段。
+預覽是確認您的內容看起來適合每個區段的理想選擇。
 
 >[!MORELIKETHIS]
 >
->[核准代碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
+>[核准程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)

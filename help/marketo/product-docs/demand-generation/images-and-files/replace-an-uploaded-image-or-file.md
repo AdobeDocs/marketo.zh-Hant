@@ -23,13 +23,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您也可以 [搜尋上傳的影像或檔案](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md).
+   >您也可以 [搜尋已上傳的影像或檔案](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md).
 
 1. 按一下 **檔案動作** 並選取 **取代影像或檔案**.
 
    ![](assets/image2014-9-16-11-3a21-3a55.png)
 
-1. 瀏覽至電腦上要取代目前檔案的檔案，然後選取它。
+1. 瀏覽到電腦上要取代目前檔案的檔案，然後選取它。
 
    ![](assets/image2014-9-16-11-3a22-3a2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
    >
    >如果您無法從共用資料夾中選取檔案，請將該檔案儲存至硬碟，再從硬碟中選擇。
 
-1. 確認旁邊顯示的檔案 **選擇檔案** 正確，然後按一下 **Replace**.
+1. 確認旁邊顯示的檔案 **選擇檔案** 正確，然後按一下 **取代**.
 
    ![](assets/image2014-9-16-11-3a22-3a12.png)
 
@@ -49,5 +49,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [搜尋上傳的影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
+>* [搜尋已上傳的影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
 >* [尋找已上傳影像或檔案的URL](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)

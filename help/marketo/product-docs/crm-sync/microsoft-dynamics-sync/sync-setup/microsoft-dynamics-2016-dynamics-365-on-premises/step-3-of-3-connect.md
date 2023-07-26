@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [安裝Marketo for Microsoft Dynamics 2016/Dynamics 365內部部署步驟1/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [安裝Marketo for Microsoft Dynamics 2016/Dynamics 365內部部署步驟3之1](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
 >* [安裝Marketo for Microsoft Dynamics 2016/Dynamics 365內部部署步驟2之3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 >[!NOTE]
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >請確認您的認證正確無誤，因為提交後無法回覆後續的結構描述變更。 如果儲存了不正確的認證，您必須取得新的Marketo訂閱。
+   >請確認您的認證正確無誤，因為提交後就無法回覆後續的結構描述變更。 如果儲存不正確的認證，您必須取得新的Marketo訂閱。
 
 1. 輸入 **使用者名稱**， **密碼** Microsoft Dynamics **URL**，和 **使用者端ID/密碼**. 按一下 **儲存** 完成時。
 
@@ -49,13 +49,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* 如果您的Marketo是在2020年10月之前布建，則使用者端ID和密碼為選用欄位。 否則，它們是強制性的。 是否取得此資訊將取決於您使用的MSD版本。
-   >* Marketo中的使用者名稱必須與CRM中同步使用者的使用者名稱相符。 格式可以是 `user@domain.com` 或DOMAIN\user。
+   >* 如果您的Marketo是在2020年10月之前布建，使用者端ID和密碼為選用欄位。 否則，這些是強制性的。 是否取得此資訊將取決於您使用的MSD版本。
+   >* Marketo中的使用者名稱必須與CRM中同步處理使用者的使用者名稱相符。 格式可以是 `user@domain.com` 或DOMAIN\user。
    >* 如果您不知道URL， [在此處瞭解如何找到它](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
    >[!TIP]
    >
-   >不知道URL？ 我們將向您說明如何找到您的 [動態組織服務URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) 此處。
+   >不知道URL？ 我們將說明如何尋找您的 [動態組織服務URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) 此處。
 
 ## 選取要同步的欄位 {#select-fields-to-sync}
 
@@ -69,9 +69,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo會儲存要同步之欄位的參考。 如果您刪除Dynamics中的欄位，建議您使用 [同步已停用](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). 然後編輯並儲存，重新整理Marketo中的結構描述 [選取要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+>Marketo會儲存要同步之欄位的參考。 如果您刪除Dynamics中的欄位，建議您使用 [同步已停用](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Marketo接著，透過編輯並儲存 [選取要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
-## 同步自訂篩選器的欄位 {#sync-fields-for-a-custom-filter}
+## 自訂篩選器的同步欄位 {#sync-fields-for-a-custom-filter}
 
 如果您已建立自訂篩選器，請務必前往並選取要與Marketo同步的新欄位。
 
@@ -79,11 +79,11 @@ ht-degree: 0%
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 按一下 **編輯** 欄位同步詳細資訊。
+1. 按一下 **編輯** 欄位同步處理詳細資訊。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 向下捲動至欄位並勾選它。 實際名稱必須是new_synctomkto，但「顯示名稱」可以是任何內容。 按一下 **儲存**.
+1. 向下捲動至欄位並進行核取。 實際名稱必須是new_synctomkto，但「顯示名稱」可以是任何內容。 按一下 **儲存**.
 
    ![](assets/image2016-8-25-15-3a15-3a35.png)
 
@@ -105,4 +105,4 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-59-51.png)
 
-幹得好！
+做得很好！

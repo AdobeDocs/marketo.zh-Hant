@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 雙方同意設定 {#two-party-consent-settings}
 
-為了確保錄製通話時遵守美國雙方同意法，身為管理員，您可以啟用您選擇的預先錄製訊息，在通話錄製時於通話開始時播放。
+為了確保錄音電話時符合美國兩黨同意法，身為管理員，您可以啟用您選擇的預先錄製的訊息，在錄音電話時於通話開始時播放。
 
 >[!PREREQUISITES]
 >
->在依照下列步驟操作之前，您必須先 [啟用通話錄製](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
+>在執行以下步驟之前，您必須先 [啟用通話錄製](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
-1. 按一下設定圖示並選取 **設定**.
+1. 按一下「設定」圖示並選取 **設定**.
 
    ![](assets/one-1.png)
 
-1. 在「管理設定」底下，按一下 **一般**.
+1. 在管理設定下，按一下 **一般**.
 
    ![](assets/two-1.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >僅支援Wav和MP3檔案。 您無法上傳超過30秒的檔案。
 
-1. 從硬碟中選取所需的音訊檔案。
+1. 從硬碟選取所需的音訊檔案。
 
    ![](assets/five.png)
 
@@ -47,6 +47,6 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 按一下切換按鈕，即可啟用選取的訊息在您所錄製的通話開始時播放。
+1. 按一下切換按鈕，即可讓選取的訊息在電話錄音開始時播放。
 
    ![](assets/seven.png)

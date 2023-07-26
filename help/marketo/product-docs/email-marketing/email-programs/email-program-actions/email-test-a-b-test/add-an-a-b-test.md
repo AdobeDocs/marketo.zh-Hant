@@ -38,11 +38,11 @@ ht-degree: 0%
    >
    >新增A/B測試時，選取的電子郵件將無法再用於任何其他程式。
 
-1. 新視窗會以不同的方式開啟 **測試型別** 以從中進行選擇。 探索以下其中一篇相關文章以繼續。
+1. 新視窗會以不同的方式開啟 **測試型別** 以從中進行選擇。 探索以下任一相關文章以繼續。
 
    >[!CAUTION]
    >
-   >如果您的資料庫中有重複的記錄，這些記錄將會收到 **兩者** 測試與成功案例電子郵件。 若要避免發生此情況，請確定 [尋找並合併重複人員](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) 在您的資料庫中。
+   >如果您的資料庫中有重複的記錄，這些記錄將會收到 **兩者** 測試和成功電子郵件。 為避免發生此情況，請確定 [尋找及合併重複人員](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) 到您的資料庫中。
 
 >[!MORELIKETHIS]
 >

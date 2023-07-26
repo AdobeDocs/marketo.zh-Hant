@@ -19,9 +19,9 @@ ht-degree: 15%
 
 [學習Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
-## 取得設定 {#get-set-up}
+## 進行設定 {#get-set-up}
 
-有了IT團隊的協助，您便能迅速完成工作。
+只要您的IT團隊提供一點協助，您就能迅速完成工作。
 
 [開始設定](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
 
@@ -62,7 +62,7 @@ ht-degree: 15%
       <img alt="連接" src="getting-started/assets/getting-started-4.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/simple-scoring.md">4. 簡單評分</a>
+    <a href="getting-started/quick-wins/simple-scoring.md">4. 簡單分數</a>
     </div>
     <br>
   </td>
@@ -90,7 +90,7 @@ ht-degree: 15%
       <img alt="連接" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. 滴漏培養</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. 滴管培養</a>
     </div>
     <br>
   </td>
@@ -116,7 +116,7 @@ ht-degree: 15%
       <img alt="連接" src="getting-started/assets/getting-started-10.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/update-person-data.md">10. 更新人員資料</a>
+    <a href="getting-started/quick-wins/update-person-data.md">10. 更新個人資料</a>
     </div>
     <br>
   </td>

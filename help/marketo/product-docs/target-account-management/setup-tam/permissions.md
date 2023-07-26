@@ -25,13 +25,13 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >您可以為現有角色新增TAM許可權，或建立全新的角色。 此範例使用新角色。
+   >您可以為現有角色新增TAM許可權，或建立全新角色。 此範例使用新角色。
 
-1. 按一下 **角色**，則 **新角色**.
+1. 按一下 **角色**，然後 **新角色**.
 
    ![](assets/three-2.png)
 
-1. 輸入角色名稱，然後按一下 **+** 圖示加以存取，並位於存取目標帳戶管理核取方塊旁。
+1. 輸入角色名稱，然後按一下 **+** 圖示加以存取（位於「存取目標帳戶管理」核取方塊旁）。
 
    ![](assets/permissions-4.png)
 
@@ -41,10 +41,10 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >您也可以選擇只選取部分選項。 請個別勾選每個核取方塊，以執行此操作。
+   >您也可以選擇只選取部分選項。 個別勾選每個核取方塊即可完成勾選。
 
 1. 按一下 **+** 以開啟「存取管理員」功能表。 檢查 **存取ABM管理員** 核取方塊（ABM是TAM的先前名稱），然後按一下 **建立**.
 
    ![](assets/permissions-6.png)
 
-   您的新TAM角色現已準備就緒 [指派給使用者](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)！
+   您的新TAM角色現已準備就緒 [已指派給使用者](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)！

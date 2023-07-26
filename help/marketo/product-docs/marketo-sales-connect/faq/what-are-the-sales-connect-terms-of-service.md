@@ -17,4 +17,4 @@ Sales Connect服務條款 [此處](https://documents.marketo.com/toutapp/terms).
 
 >[!NOTE]
 >
->「ToutApp」是先前的Marketo Sales Connect名稱。
+>「ToutApp」是Marketo Sales Connect的先前名稱。

@@ -13,23 +13,23 @@ ht-degree: 6%
 
 # Microsoft Dynamics MSI的外掛程式版本 {#plug-in-releases-for-microsoft-dynamics-msi}
 
-當您首次同步至Microsoft Dynamics時，請下載並安裝Marketo Sales Insight (MSI)適用的最新版外掛程式。 Marketo會定期更新這些外掛程式，讓您能夠返回相同位置下載新版本。
+當您首次同步至Microsoft Dynamics時，需下載並安裝Marketo Sales Insight (MSI)適用的最新版外掛程式。 Marketo會定期更新這些外掛程式，方便您回到相同位置下載新版本。
 
 如果您使用Marketo的原生CRM同步解決方案至Dynamics，請 [下載最新的外掛程式](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your Dynamics release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
->這些版本適用於內部部署和線上版本的Dynamics。
+>這些版本適用於Dynamics的內部部署和線上版本。
 
 ## 升級MSI解決方案 {#upgrading-your-msi-solution}
 
-1. 匯入最新版本的解決方案 _超過現有版本_ ，方法是按下 **匯入** 按鈕。
+1. 匯入最新版本的解決方案 _超過現有版本_ 的CRM，方法是按下 **匯入** Dynamics中的按鈕。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->範例：如果您的Dynamics CRM版本為2.0.0.20，而最新版本為2.0.0.21，則應匯入 _超過_ 版本2.0.0.20。
+>範例：如果您的Dynamics CRM版本為2.0.0.20，而最新版本為2.0.0.21，則需匯入 _超過_ 版本2.0.0.20。
 
 1. 按一下 **下一個**.
 
@@ -43,7 +43,7 @@ ht-degree: 6%
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
-1. 成功匯入後，您將會看到兩個MSI解決方案：MarketoSalesInsight和MarketoSalesInsight_Upgrade。 選取較舊的解決方案，然後按一下「套用解決方案升級」。
+1. 成功匯入後，您將會看到兩個MSI解決方案：MarketoSalesInsight和MarketoSalesInsight_Upgrade。 選取較舊的解決方案，然後按一下Apply Solution Upgrade。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
 
@@ -76,7 +76,7 @@ ht-degree: 6%
   <tr> 
    <td colspan="1">10/28/21</td> 
    <td colspan="1">2.0.0.25</td> 
-   <td colspan="1">產品採用分數量度、新的全域控制面板（網頁活動、電子郵件、最佳選擇）</td> 
+   <td colspan="1">產品採用分數量度，新的全域控制面板（網頁活動、電子郵件、首選）</td> 
   </tr>
   <tr> 
    <td colspan="1">02/10/21</td> 
@@ -86,7 +86,7 @@ ht-degree: 6%
   <tr> 
    <td colspan="1">10/01/20</td> 
    <td colspan="1">2.0.0.21</td> 
-   <td colspan="1">錯誤修正：為具有Sales Insight角色的使用者指派對MSI API設定欄位的存取權</td> 
+   <td colspan="1">錯誤修正：為具有銷售分析角色的使用者指派對MSI API設定欄位的存取權</td> 
   </tr> 
   <tr> 
    <td colspan="1">07/20/20</td> 
@@ -96,7 +96,7 @@ ht-degree: 6%
   <tr> 
    <td colspan="1">06/12/20</td> 
    <td colspan="1">2.0.0.19</td> 
-   <td colspan="1">錯誤修正：在MSD API設定上隱藏MSI秘密密碼</td> 
+   <td colspan="1">錯誤修正：若要在MSD API設定上隱藏MSI秘密密碼</td> 
   </tr> 
   <tr> 
    <td colspan="1">05/26/20</td> 
@@ -111,7 +111,7 @@ ht-degree: 6%
   <tr> 
    <td colspan="1">04/28/20</td> 
    <td colspan="1">2.0.0.16</td> 
-   <td colspan="1">錯誤修正：移除MSD CRM網站地圖設定連結相依性</td> 
+   <td colspan="1">錯誤修正：移除MSD CRM Sitemap設定連結相依性</td> 
   </tr> 
  </tbody> 
 </table>

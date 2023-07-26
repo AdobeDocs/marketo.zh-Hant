@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 電子郵件深入分析 {#email-insights}
 
-按一下+以開始新增篩選器。 新增任意所需數量。
+按一下+以開始新增篩選器。 新增任意數量的專案。
 
 ![](assets/one-2.png)
 
-如果相同類別中有多個篩選器，它們將會合併並顯示金額。
+如果同一類別中有多個篩選器，則這些篩選器會合併並顯示金額。
 
 ![](assets/state.png)
 
-如果您需要檢視已套用的篩選器，只需按一下篩選器即可。 您甚至可以在那裡新增更多內容。
+如果您需要檢視已套用的篩選器，只需按一下篩選器即可。 您甚至可以在其中新增更多專案。
 
 ![](assets/states.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ![](assets/filter1.png)
 
-若要清除所有篩選器，請按一下篩選器列尾端的X。
+若要清除所有篩選器，請按一下篩選器列結尾的X。
 
 ![](assets/filter2.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ![](assets/date-click.png)
 
-從常見的預設日期範圍中選擇、選擇特定的日期，甚至使用上一個時段進行比較。
+從常見的預設日期範圍中選擇、選擇特定的日期，甚至使用上一個時段來進行比較。
 
 ![](assets/date-range.png)
 
@@ -61,8 +61,8 @@ ht-degree: 0%
 >
 >日期範圍會同時套用至「Analytics」頁面和「傳送」頁面。 此 **比較** 選項僅適用於Analytics頁面。
 
-## 以帳戶為基礎的行銷 {#account-based-marketing}
+## 帳戶型行銷 {#account-based-marketing}
 
-如果您使用 [目標帳戶管理](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)，會有您專屬的篩選器。
+如果您使用 [目標帳戶管理](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)，有您專屬的篩選器。
 
 ![](assets/abm.png)

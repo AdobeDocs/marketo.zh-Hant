@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 建立機會影響分析器 {#create-an-opportunity-influence-analyzer}
 
-使用機會影響分析器來顯示行銷對重要交易的貢獻。 瞭解您的方案和活動成功案例，以及商機生活中有趣的時刻。
+使用機會影響分析器來顯示行銷對重要交易的貢獻。 檢視您的方案和事件成功，以及商機生活中的有趣時刻。
 
 >[!NOTE]
 >
->若要從Opportunity Influence Analyzer取得良好的Intel，請確保您的聯絡人已連結到您CRM中的機會。
+>若要從Opportunity Influence Analyzer取得良好的Intel，請確定您的聯絡人已加入您CRM中的商機。
 
-1. 按一下 **分析**.
+1. 按一下 **Analytics**.
 
    ![](assets/analytics.png)
 
@@ -33,17 +33,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您收到在此時間範圍內沒有活動的警告，只要按一下 **關閉**. 我們會在下一個步驟之後再討論這個問題。
+   >如果您收到期間內沒有活動的警告，只需按一下 **關閉**. 我們會在下個步驟後再討論這個問題。
 
 1. 選取該帳戶中的商機。
 
    ![](assets/image2014-9-17-8-3a56-3a48.png)
 
-1. 設定時段。 按一下 **設定** 標籤並連按兩下 **時間範圍**.
+1. 設定時段。 按一下 **設定** 標籤並連按兩下 **時間段**.
 
    ![](assets/image2014-9-17-8-3a57-3a17.png)
 
-1. 選取您要分析的機會的時段，然後按一下 **儲存**.
+1. 選取您要分析的商機時段，然後按一下 **儲存**.
 
    ![](assets/image2014-9-17-8-3a57-3a27.png)
 
@@ -63,4 +63,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [使用機會影響分析器訴說行銷故事](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [設定Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+>* [設定機會影響分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

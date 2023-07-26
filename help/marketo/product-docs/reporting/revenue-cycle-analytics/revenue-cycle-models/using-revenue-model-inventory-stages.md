@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 使用收入模型存貨階段 {#using-revenue-model-inventory-stages}
 
-所有已知的潛在客戶與帳戶最初都位於「存貨階段」中。 此潛在客戶集區是培養潛在客戶直至銷售就緒的地方。 詳細目錄階段沒有時間限制。
+所有已知的潛在客戶與帳戶最初都在「存貨階段」中。 此潛在客戶集區是培養潛在客戶直至銷售就緒的場所。 詳細目錄階段沒有時間限制。
 
 >[!TIP]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 新增詳細目錄階段 {#add-an-inventory-stage}
 
-1. 若要新增新的收入週期模型庫存階段，請按一下 **分析** 中的按鈕 **我的Marketo** 主畫面。
+1. 若要新增新的收入週期模型詳細目錄階段，請按一下 **Analytics** 中的按鈕 **我的Marketo** 主畫面。
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. 在 **分析** 部分，選取現有模型，或 [建立新的](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. 在 **Analytics** 部分，選取現有模型，或 [建立新的](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 當您選取「詳細目錄」圖示時，可以編輯 **名稱**，新增 **說明** 或調整 **型別**. 您也可以選取 [開始依帳戶追蹤](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
-1. 按一下詳細目錄圖示。
+1. 按一下「詳細目錄」圖示。
 
    ![](assets/image2015-4-27-15-3a55-3a10.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-13-3a34-3a58.png)
 
-1. 選取 **型別** 下拉式清單進行編輯。
+1. 選取 **型別** 要編輯的下拉式清單。
 
    ![](assets/image2015-4-27-13-3a36-3a52.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
-1. 這兩種刪除方法都會要求您確認您的選擇。 按一下 **刪除**.
+1. 兩種刪除方法都會要求您確認選擇。 按一下 **刪除**.
 
    ![](assets/image2015-4-28-13-3a5-3a26.png)
 

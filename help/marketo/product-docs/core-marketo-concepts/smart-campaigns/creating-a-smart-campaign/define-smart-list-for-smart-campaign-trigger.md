@@ -25,11 +25,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >觸發器執行的Smart Campaign **觸發** 模式。 它會根據觸發的事件和任何其他篩選條件，一次只對一個人執行。
+   >具有觸發程式的Smart Campaign執行於 **觸發** 模式。 它會根據觸發的事件和任何其他篩選器，一次只對一個人執行。
 
    >[!IMPORTANT]
    >
-   >在觸發促銷活動智慧清單中使用布林欄位時，您必須明確將其設為「false」，讓欄位可在促銷活動執行期間正確評估。
+   >在觸發促銷活動智慧清單中使用布林欄位時，您必須明確將其設為「false」，以便欄位在促銷活動執行期間正確評估。
 
 1. 按一下下拉式清單，然後選擇運運算元。
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >紅色曲折線表示錯誤或遺失資訊。 如果未更正，行銷活動將無效且將無法執行。
+   >紅色曲線表示錯誤或遺失資訊。 如果未更正，此行銷活動將會無效且無法執行。
 
    >[!TIP]
    >
-   >在同時具有觸發器和篩選器的Smart Campaign中，觸發器會移至頂端，而且觸發時，只有符合篩選條件的人才會通過流量。
+   >在同時具有觸發器和篩選器的Smart Campaign中，觸發器位於頂端，觸發時，只有符合篩選條件的人員才會通過流程。
 
 1. 定義觸發器。
 
@@ -49,9 +49,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >使用多個觸發程式時，個人會在下列情況下完成流程： **任何** 其中一個觸發程式啟動。
+   >如果有多個觸發程式，個人會在下列情況下完成流程： **任何** 其中一個觸發器啟動。
 
-若要同時對一組人員執行行銷活動，請瞭解如何 [定義Smart Campaign的智慧清單 |批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+若要對一組人員同時執行行銷活動，請瞭解如何 [定義Smart Campaign的智慧清單 |批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
 >[!MORELIKETHIS]
 >

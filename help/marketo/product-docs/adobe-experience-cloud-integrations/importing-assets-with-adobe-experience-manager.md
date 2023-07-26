@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->並非每個人都購買了此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+>並非每個人都購買過此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 >[!PREREQUISITES]
 >
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->目前，只有完整支援此功能 [!DNL Firefox]. 不支援此功能 [!DNL Safari]，且可能無法在最新版的 [!DNL Chrome]，視您的 [!DNL SameSite] Cookie設定。
+>目前僅完全支援此功能 [!DNL Firefox]. 不支援此功能 [!DNL Safari]，且最新版本的 [!DNL Chrome]，根據您的 [!DNL SameSite] Cookie設定。
 
 1. 按一下 **[!UICONTROL Design Studio]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
-1. 按一下「新增」下拉式清單，然後選取 **[!UICONTROL 從Adobe Experience Manager匯入]**.
+1. 按一下新增下拉式清單，然後選取 **[!UICONTROL 從Adobe Experience Manager匯入]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/importing-assets-with-adobe-experience-manager-3.png)
 
-1. 登入Adobe Experience Manager （如果沒有）。
+1. 登入Adobe Experience Manager （如果尚未登入）。
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
@@ -63,6 +63,6 @@ ht-degree: 0%
 
 * Marketo目前支援Adobe Experience Manager 6.4和6.5版。
 
-* 您執行個體中的所有使用者都將能夠檢視/存取您匯入的影像。
+* 您執行個體中的所有使用者都可以檢視/存取您匯入的影像。
 
-* 影像不會自動更新。 如果您將影像匯入Marketo [!DNL Design Studio] 在AEM中更新，您必須手動將其重新匯入至Marketo。
+* 不會自動更新影像。 如果您將影像匯入Marketo [!DNL Design Studio] 在AEM中更新，您必須手動將其重新匯入Marketo。

@@ -13,18 +13,18 @@ ht-degree: 0%
 
 # 傳送SDK程式碼給開發人員 {#send-sdk-code-to-a-developer}
 
-您必須先由開發人員設定並初始化適用於Android和iOS平台的行動應用程式SDK，才能建立應用程式內訊息或推播通知。
+您必須先讓開發人員設定並初始化適用於Android和iOS平台的行動應用程式SDK，才能建立應用程式內訊息或推播通知。
 
 * [Android說明](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
 * [iOS說明](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
 
 ## 傳送SDK程式碼給開發人員 {#send-sdk-code-to-a-developer-1}
 
-有時管理員需要將一些SDK程式碼傳送給開發人員。
+有時管理員需要傳送一些SDK程式碼給開發人員。
 
 ![](assets/image2016-3-9-16-3a24-3a14.png)
 
-以下是操作說明。
+以下是操作方式。
 
 1. 按一下 **管理員**.
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO — 取得傳入連結建議 {#seo-get-inbound-link-suggestions}
 
-Marketo可建議對您有價值的傳入連結 [頁面外最佳化](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+Marketo可建議您使用哪些傳入連結 [頁面外最佳化](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
 1. 前往 **[!UICONTROL 傳入連結]** 區段。
 
@@ -35,7 +35,7 @@ Marketo可建議對您有價值的傳入連結 [頁面外最佳化](/help/market
    >
    >您知道您可以  [將連結新增至新的或現有的清單](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)？ 立即檢視！
 
-太棒了！ 現在將追蹤這些新增的連結。
+棒極了！ 現在將追蹤這些新增的連結。
 
 >[!NOTE]
 >

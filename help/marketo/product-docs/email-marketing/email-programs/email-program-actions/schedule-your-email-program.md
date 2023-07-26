@@ -20,7 +20,7 @@ ht-degree: 0%
 >
 >* [選擇現有電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 或 [為電子郵件計畫建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-建立電子郵件方案、定義對象並選取電子郵件後，您就會想要告訴方案 *時間* 以傳送電子郵件。 方法如下。
+建立電子郵件方案、定義對象並選取電子郵件後，您就會想要告知方案 *當* 以傳送電子郵件。 方法如下。
 
 1. 前往 **行銷活動**.
 
@@ -34,17 +34,17 @@ ht-degree: 0%
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
-1. 還有時間。
+1. 然後是時間。
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. 您也可以選擇使用 [收件者時區](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) 和/或 [開端](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) 功能。
+1. 您也可以選擇使用 [收件者時區](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) 和/或 [開始時間](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) 功能。
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   這有多容易？ 唯一剩下的事情就是 [核准電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) 一切準備就緒。
+   這有多容易？ 唯一剩下的就是 [核准電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) 一切準備就緒。
 
 >[!MORELIKETHIS]
 >
->* [使用收件者時區排程電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [電子郵件計畫的開端](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [依收件者時區排程電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [電子郵件程式快速入門](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 直接在行銷行事曆中編輯專案 {#edit-entries-directly-in-the-marketing-calendar}
 
-進入程式焦點模式後，您可以快速變更行事曆專案。 方法如下。
+一旦進入方案焦點模式，您就可以快速變更行事曆專案。 方法如下。
 
 ## 啟用方案焦點 {#enable-program-focus}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. 選取屬於您要著重的程式的專案，然後按一下 **[!UICONTROL 顯示方案焦點]**.
+1. 選取屬於您要重點關注的計畫的專案，然後按一下 **[!UICONTROL 顯示方案焦點]**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
@@ -55,11 +55,11 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-13-3a18-3a38.png)
 
-## 編輯專案詳細資訊 {#edit-entry-details}
+## 編輯專案詳細資料 {#edit-entry-details}
 
 您可以快速存取專案的不同區域以進行編輯。
 
-1. 以滑鼠右鍵按一下專案，然後選取您要編輯的區域。
+1. 以滑鼠右鍵按一下專案，然後選取要編輯的區域。
 
    ![](assets/image2014-10-20-13-3a18-3a48.png)
 

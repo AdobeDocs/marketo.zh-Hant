@@ -13,17 +13,17 @@ ht-degree: 1%
 
 # 編輯表單主題的CSS {#edit-the-css-of-a-form-theme}
 
-您有幾個預先建立的 [您可以從中進行選擇的主題](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). 但是如果您喜歡編輯CSS，可以做任何您想要的變更。 方法如下。
+您有幾個預先建立的 [您可從中選擇主題](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). 但如果您喜歡編輯CSS，則可進行您想要的任何變更。 方法如下。
 
 >[!NOTE]
 >
->如果您想要嘗試此做法，請務必瞭解CSS，因為Marketo支援未設定為協助自訂編碼。 此外，所做的任何變更只會套用至您目前編輯的表單。
+>如果您想要嘗試此動作，請務必知道CSS，因為Marketo支援未設定為協助自訂編碼。 此外，所做的任何變更只會套用至您目前編輯的表單。
 
 1. 前往 **行銷活動**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. 選取您的表單並按一下 **編輯表單**.
+1. 選擇您的表單並按一下 **編輯表單**.
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
@@ -39,7 +39,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
-1. 您可以隨意剪下/貼上此CSS至您自己的編輯器。 其為唯讀，因此您只需要覆寫CSS。
+1. 歡迎您剪下/貼上此CSS至您自己的編輯器。 其為唯讀，因此您只需要覆寫CSS。
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
-1. 輸入您的自訂CSS。 您並不需要全部，只需要不同的部分。
+1. 輸入您的自訂CSS。 您不需要所有的，只需要不同的零件。
 
    ![](assets/image2014-9-15-14-3a39-3a21.png)
 

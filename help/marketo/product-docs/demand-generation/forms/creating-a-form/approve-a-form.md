@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 核准表單 {#approve-a-form-1}
 
-以下說明如何核准已準備就緒的現有表單。
+以下說明如何核准已可立即使用的現有表單。
 
 1. 前往 **行銷活動**.
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. 下 **表單動作**，按一下 **核准**.
+1. 在 **表單動作**，按一下 **核准**.
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   已核准並準備就緒 [新增至登入頁面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   已核准並準備就緒 [已新增至登入頁面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >

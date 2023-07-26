@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->如果您尚未安裝，請安裝 [適用於Outlook的Marketo電子郵件增益集](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>如果尚未安裝，請安裝 [適用於Outlook的Marketo電子郵件增益集](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 >[!NOTE]
 >
->Sales Insight Actions功能（包括「傳送銷售電子郵件」、「新增至銷售促銷活動」和「工作」）在Gmail和Outlook的Sales Insight電子郵件外掛程式中無法使用。 目前，使用者在使用Sales Insight電子郵件外掛程式時，只能從電子郵件使用者端傳送包含或不包含Marketo電子郵件範本的可追蹤電子郵件。
+>「銷售分析動作」功能（包括「傳送銷售電子郵件」、「新增至銷售促銷活動」和「工作」）在Gmail和Outlook的「銷售分析電子郵件」外掛程式中無法使用。 目前，使用Sales Insight電子郵件外掛程式時，使用者只能從電子郵件使用者端傳送包含或不包含Marketo電子郵件範本的可追蹤電子郵件。
 
 1. 開啟Microsoft Outlook並建立新電子郵件。
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您傳送電子郵件給不存在於Marketo執行個體中的人員，系統會自動為這些人員建立人員記錄。 他們的姓氏將一律為「mktUnknown」，以便您輕鬆找到。
+   >如果您傳送電子郵件給不在Marketo例項中的人員，系統會自動為他們建立人員記錄。 他們的姓氏將一律為「mktUnknown」，以便您輕鬆找到。
 
    >[!TIP]
    >
@@ -49,14 +49,14 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >反垃圾郵件技術通常會拒絕在傳送電子郵件後20秒內發生的開啟和點按，因此請在測試時至少等候這麼久才開啟/點按。
+   >反垃圾郵件技術通常會拒絕在傳送電子郵件後20秒內進行的開啟和點按，因此在測試時請至少等候這麼久才開啟/點按。
 
-   若要檢視誰已收到您透過Outlook傳送的電子郵件，請使用「已傳送銷售電子郵件」篩選條件建立智慧清單。
+   若要檢視哪些人已收到透過Outlook傳送的電子郵件，請使用「已傳送銷售電子郵件」篩選條件建立智慧清單。
 
    ![](assets/was-sent-sales-email.png)
 
-這太簡單了！ 即使此電子郵件是由銷售人員的Outlook傳送，但會在Marketo中加以追蹤。
+這太簡單了！ 即使此電子郵件是由銷售人員的Outlook傳送，仍會在Marketo中追蹤。
 
 >[!MORELIKETHIS]
 >
->[在Marketo中記錄潛在客戶的傳入郵件](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[在Marketo中記錄潛在客戶寄來的傳入郵件](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

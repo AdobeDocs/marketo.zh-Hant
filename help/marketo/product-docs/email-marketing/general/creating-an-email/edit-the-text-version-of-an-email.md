@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 編輯電子郵件的文字版本 {#edit-the-text-version-of-an-email}
 
-當您建立電子郵件時，您可能希望其文字版本的措辭與HTML版本不同。 依預設，Marketo會自動將電子郵件中任何RTF文字元素的文字內容複製到文字版本。 以下是其編輯方法。
+當您建立電子郵件時，您可能希望其文字版本的措辭與HTML版本不同。 依預設，Marketo會自動將您電子郵件中任何RTF文字元素的文字內容複製到文字版本。 以下是其編輯方式。
 
 >[!NOTE]
 >
->本文不是關於建立純文字電子郵件的文章。 如需相關資訊，請參閱 [建立純文字電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
+>本文不是關於建立純文字電子郵件的文章。 如需相關資訊，請參閱 [建立僅限文字的電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
 
-1. 在電子郵件編輯器中，按一下 **文字** 索引標籤填入電子郵件底部。
+1. 在電子郵件編輯器中，按一下 **文字** 索引標籤在電子郵件底部。
 
    ![](assets/one-5.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/three-4.png)
 
-1. 進行編輯。 完成後，請關閉編輯器或返回HTML版本。 變更將自動儲存。
+1. 進行編輯。 完成後，請關閉編輯器或返回HTML版本。 變更將會自動儲存。
 
    ![](assets/four-4.png)
 
-   如果您只有靜態內容，文字將可以在一個大區塊中編輯（在步驟3中看到）。 如果您有動態內容，文字將會分成不同的可編輯區段，如下所示。
+   如果您只有靜態內容，文字將可在單一大區塊中編輯（請參見步驟3）。 如果您有動態內容，文字將會分成不同的可編輯區段，如下所示。
 
    ![](assets/five-3.png)
 

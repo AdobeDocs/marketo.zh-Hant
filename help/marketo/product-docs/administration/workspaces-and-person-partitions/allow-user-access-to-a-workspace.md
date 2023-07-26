@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 允許使用者存取工作區 {#allow-user-access-to-a-workspace}
 
-工作區可以是出於任何原因（例如業務單位或地理位置分離）。 它們會分隔資產（智慧清單、程式等） 每個團隊的。 以下說明如何授予使用者一或多個工作區的存取權。
+工作區可以因任何原因（例如業務單位或地理區隔）。 它們會分隔資產（智慧清單、程式等） 每個團隊的。 以下說明如何授予使用者一或多個工作區的存取權。
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/allow-user-access-to-a-workspace-3.png)
 
-1. 選取 **[!UICONTROL 角色和工作區]** 您希望使用者能存取。
+1. 選取 **[!UICONTROL 角色和工作環境]** 您希望使用者擁有的存取權。
 
    ![](assets/allow-user-access-to-a-workspace-4.png)
 

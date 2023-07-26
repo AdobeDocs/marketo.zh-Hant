@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 將自訂欄位同步至收入總管 {#sync-custom-fields-to-the-revenue-explorer}
 
-收入週期Analytics可以報告自訂Marketo欄位，您必須設定要同步的自訂欄位。
+收入週期Analytics可以報告自訂Marketo欄位，為此，您需要設定要同步的自訂欄位。
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. 選取 **Revenue Cycle Analytics**.
+1. 選取 **收入週期分析**.
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
-1. 按一下 **自訂欄位同步** 按Tab鍵並選取您選擇的分析區域。
+1. 按一下 **自訂欄位同步** 並選取您選擇的分析區域。
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 

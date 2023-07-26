@@ -15,11 +15,11 @@ ht-degree: 0%
 
 您知道Marketo會將您的整個資料庫與Dynamics同步嗎？ 它會同步，然後等待5分鐘，然後每天再次同步。 以下是Marketo如何特別處理Dynamics帳戶的部分細節。
 
-為了進行整合，您將需要專用的Microsoft Dynamics CRM使用者。 我們稱此使用者為Sync使用者。
+為了進行整合，您將需要專用的Microsoft Dynamics CRM使用者。 我們將此使用者稱為「同步處理使用者」。
 
 ## 這兩個系統之間的使用者詳細資料如何保持同步？ {#how-are-user-details-kept-in-sync-between-the-two-systems}
 
-使用者同步是單向的 — Dynamics到Marketo。 如果您在Dynamics中變更使用者，這些變更將會反映在Marketo中。
+使用者同步是單向的 — Dynamics與Marketo。 如果您在Dynamics中變更使用者，這些變更將會反映在Marketo中。
 
 ## 我可以使用Marketo建立使用者嗎？ {#can-i-create-an-user-using-marketo}
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 ## 哪些欄位會同步至Marketo？ {#which-fields-will-sync-to-marketo}
 
-您可以 [選取要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) 於設定期間。 但Marketo只會同步您的Dynamics同步使用者有權存取的欄位。
+您可以 [選取要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) 於設定期間。 但Marketo只會同步處理您的Dynamics同步使用者有權存取的欄位。

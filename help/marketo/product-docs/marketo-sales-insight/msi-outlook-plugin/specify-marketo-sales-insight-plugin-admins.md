@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 指定Marketo Sales Insight外掛程式管理員 {#specify-marketo-sales-insight-plugin-admins}
 
-您可以指定當邀請使用者在Outlook上設定MSI時，要顯示在傳送給使用者的電子郵件通知中的連絡人。
+當您邀請使用者在Outlook上設定MSI時，您可以指定要在傳送給使用者的電子郵件通知中顯示的連絡人。
 
 1. 在「我的Marketo」中，按一下 **管理員** 然後 **銷售分析**.
 

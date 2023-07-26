@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 在登入頁面中包含行事曆事件ICS檔案 {#include-a-calendar-event-ics-file-in-a-landing-page}
 
-A **行事曆檔案** Token可讓您將日曆事件(.ics)連結新增至您的Marketo登陸頁面。
+A **行事曆檔案** 代號可讓您將日曆事件(.ics)連結新增至您的Marketo登陸頁面。
 
 >[!PREREQUISITES]
 >
 >* [建立日曆事件(.ics)檔案](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-1. 在您的登入頁面編輯器中，按一下 **{...}** 以插入Token。
+1. 在您的登入頁面編輯器中，按一下 **{...}** 以插入權杖。
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
@@ -27,7 +27,7 @@ A **行事曆檔案** Token可讓您將日曆事件(.ics)連結新增至您的Ma
 
    >[!CAUTION]
    >
-   >登陸頁面不支援下列Token：
+   >登陸頁面不支援下列權杖：
    >
    >* member.webinar URL
 
@@ -35,11 +35,11 @@ A **行事曆檔案** Token可讓您將日曆事件(.ics)連結新增至您的Ma
 
 1. 按一下 **儲存**.
 
-   訪客將看到看起來像以下的登陸頁面：
+   使用者會看到如下所示的登陸頁面：
 
    ![](assets/image2015-1-6-16-3a42-3a51.png)
 
-真貼心！ 現在應該一切正常。 請務必測試。
+真貼心！ 現在應該一切都很好。 請務必測試。
 
 >[!MORELIKETHIS]
 >

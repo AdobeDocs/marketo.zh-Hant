@@ -29,4 +29,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[從排程檢視重新排程整個程式](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)
+>[從排程檢視重新排程整個方案](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)

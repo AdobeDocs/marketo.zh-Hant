@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 新增其他登陸頁面CNAME {#add-additional-landing-page-cnames}
 
-您可能想要新增登陸頁面CNAME，以允許不同的URL指向您的Marketo登陸頁面。 遵循下列步驟將幫助您管理多個網域。
+您可能想要新增登陸頁面CNAME，以允許不同的URL指向您的Marketo登陸頁面。 依照下列步驟操作將協助您管理多個網域。
 
 >[!CAUTION]
 >
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**相同的最上層網域 — 好！ Cookie已共用**.<br/> **執行**.mycompany.com > **資訊**.mycompany.com
+>**相同的最上層網域 — 良好！ Cookie已共用**.<br/> **執行**.mycompany.com > **資訊**.mycompany.com
 >
->**不同的頂級網域 — 錯誤！ Cookie包括 _not_ 已共用**.<br/> 前往。**mycompany**.com >執行。**mynewcompany**.com
+>**不同的頂級網域 — 錯誤！ Cookie是 _非_ 已共用**.<br/> 前往。**我的公司**.com >執行。**mynewcompany**.com
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## 傳送要求給IT {#send-request-to-it}
 
-1. 要求您的IT部門設定下列CNAME： (取代 [CNAME] 以及您選擇的CNAME [Munchkin ID] （包含上一步驟的文字）。
+1. 要求您的IT部門設定下列CNAME： (取代 [CNAME] 以及您選擇的CNAME [Munchkin ID] （包含上一步驟中的文字）。
 
    [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
@@ -61,11 +61,11 @@ ht-degree: 0%
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. 輸入您的 **網域別名。** 此 **預設頁面** 在訪客未放入URL時顯示。 輸入在這種情況下他們應該前往的位置。
+1. 輸入您的 **網域別名。** 此 **預設頁面** 如果訪客未放入URL，則會顯示。 輸入在這種情況下應該前往的位置。
 
    >[!NOTE]
    >
-   >對於預設頁面，您可以選取登陸頁面或外部URL，例如您的公用網站。
+   >對於「預設頁面」，您可以選取登入頁面或外部URL，例如您的公用網站。
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
@@ -73,4 +73,4 @@ ht-degree: 0%
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 
-很好！ 如果您想要新增CNAME，現在我們知道該怎麼做。
+很好！ 現在您知道如果想要新增CNAME該怎麼做。

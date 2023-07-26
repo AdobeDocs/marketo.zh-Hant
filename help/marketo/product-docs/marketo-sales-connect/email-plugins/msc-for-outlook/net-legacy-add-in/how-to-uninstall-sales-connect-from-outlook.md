@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->對.Net增益集的支援已於2019年5月19日終止。 [按一下這裡](https://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) 以深入瞭解。
+>對.Net增益集的支援已於2019年5月19日終止。 [按一下這裡](https://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) 以進一步瞭解。
 
 1. 按一下 **開始** 功能表。
 
@@ -25,6 +25,6 @@ ht-degree: 0%
 
 1. 導覽至「控制面板」。
 
-1. 上傳「新增/移除程式」。
+1. 顯示「新增/移除程式」。
 
-1. 從清單中選取ToutApp並選擇 **移除它**.
+1. 從清單中選取ToutApp，然後選擇 **移除它**.

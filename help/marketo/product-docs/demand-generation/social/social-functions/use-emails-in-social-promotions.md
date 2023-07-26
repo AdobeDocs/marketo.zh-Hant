@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 在社交促銷活動中使用電子郵件 {#use-emails-in-social-promotions}
 
-當您建立 [轉介優惠](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 或 [抽獎](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)，您可以包含要在人員註冊時傳送的電子郵件，以及在人員贏得獎勵時傳送的電子郵件。
+當您建立 [轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 或 [抽獎](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)，您可以包含要在人員註冊時傳送的電子郵件，以及在人員贏得獎勵時再次傳送。
 
 >[!TIP]
 >
 >若要建立電子郵件，請參閱 [傳送電子郵件爆炸訊息](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
-在電子郵件中，請使用這些Token：
+在電子郵件中，使用這些權杖：
 
-* **註冊電子郵件**：使用 **`{{social.Share Url}}`** 傳送個人化共用連結給每位參與者。
+* **註冊電子郵件**：使用 **`{{social.Share Url}}`** 傳送個人化共用連結給每位參與人員。
 
 * **履行電子郵件**：使用 **`{{social.Promo Code}}`** 傳送每個獲勝者一個 [促銷代碼](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md).
 
@@ -59,16 +59,16 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在抽獎活動中，當您 [選取獲勝者](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
+>在抽獎活動中，履行電子郵件一律會在您選擇後自動傳送 [選取獲勝者](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
 
 >[!NOTE]
 >
 >**定義**
 >
->* **目標上的自動**：當每位參與者達成目標時，會自動傳送履行電子郵件。
->* **手動傳送**：當人們開始達成目標後，請回到您的反向連結選件以手動 [傳送履行電子郵件](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
+>* **目標上的自動**：當每位參與者達到目標時，會自動傳送履行電子郵件。
+>* **手動傳送**：當人們開始達成目標後，請手動返回您的反向連結選件 [傳送履行電子郵件](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
 >
 
 >[!MORELIKETHIS]
 >
->接下來，您可以 [選擇共用URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) 或者，在轉介優惠方案中，您可以 [上傳促銷代碼](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md) 您將會送出。
+>接下來，您可以 [選擇共用URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) 或者，在轉介優惠中，您可以 [上傳促銷代碼](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md) 您將會送出。

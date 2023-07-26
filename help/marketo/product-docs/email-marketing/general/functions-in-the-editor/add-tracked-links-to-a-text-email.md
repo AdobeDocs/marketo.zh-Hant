@@ -26,7 +26,7 @@ ht-degree: 1%
 
    ![](assets/two-8.png)
 
-1. 輸入帶有雙括弧的URL，如下所示： `[[www.domain.com/path/page.html]]`.
+1. 輸入具有雙方括弧的URL，如下所示： `[[www.domain.com/path/page.html]]`.
 
    ![](assets/three-8.png)
 
@@ -36,10 +36,10 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->mktNoTok類別功能不適用於文字電子郵件中的可追蹤連結。 僅適用於HTML電子郵件。
+>mktNoTok類別功能無法與文字電子郵件中的可追蹤連結搭配使用。 僅適用於HTML電子郵件。
 
 >[!TIP]
 >
->測試以再次檢查。 請確定您已正確輸入括弧。
+>請測試以仔細檢查。 請確定您已正確輸入括弧。
 
 做得很好！

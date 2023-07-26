@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 已檢視的網頁、網頁活動報表 {#web-pages-viewed-web-page-activity-report}
 
-從 [網頁活動報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)，您即可在報表中看到相關人員檢視的特定頁面。
+從 [網頁活動報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)，您即可在報表中看到該人員檢視的特定頁面。
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a54-3a8.png)
 
-1. 您到了！ 新視窗隨即開啟，顯示訪客造訪您網站上的頁面清單以及造訪時間。
+1. 您到了！ 隨即開啟一個新視窗，顯示訪客造訪您網站上的頁面清單及造訪時間。
 
    ![](assets/image2014-9-16-14-3a54-3a12.png)
 

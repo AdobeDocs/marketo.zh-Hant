@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352472
-description: 編輯Salesforce欄位輔助功能 — Marketo檔案 — 產品檔案
+description: 編輯Salesforce欄位協助工具 — Marketo檔案 — 產品檔案
 title: 編輯Salesforce欄位輔助功能
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 * 請與您的Salesforce管理員合作，確保這些安全性設定不會干擾Sales Connect。
 
-* 如果您是Salesforce管理員，您可以在「安全性控制」標籤下看到「欄位可存取性」。 與Sales Connect互動的主要欄位包括：「帳戶」、「聯絡人」、「商機」、「銷售機會」及「任務」。
+* 如果您是Salesforce管理員，則可以在安全性控制項標籤下看到您的欄位存取功能。 與Sales Connect互動的主要欄位有：客戶、聯絡人、商機、銷售線索及作業。

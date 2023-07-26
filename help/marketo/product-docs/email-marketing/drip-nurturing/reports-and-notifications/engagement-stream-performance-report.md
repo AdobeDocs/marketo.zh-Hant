@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 參與資料流績效報表 {#engagement-stream-performance-report}
 
-想知道您的參與內容表現如何？ 嘗試參與串流效能報表。
+想要瞭解您的參與內容表現如何？ 嘗試參與串流績效報表。
 
 ## 建立報告 {#create-the-report}
 
@@ -29,14 +29,14 @@ ht-degree: 0%
    >
    >在方案下建立報告會自動將其限制在方案內容內。
 
-   選取「參與串流績效」作為報表型別。
+   選取「參與資料流績效」作為報表型別。
    ![](assets/engagementreportchoose.png)
 
 1. 為報表命名，然後按一下 **建立**.
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
-   好！ 現在，讓我們來檢查設定。
+   好啦！ 現在，讓我們檢查設定。
 
 ## 編輯設定 {#edit-settings}
 
@@ -60,6 +60,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >參與分數雖然沒有圖示，但在此報表中是一欄。 另請參閱 [瞭解參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) 以取得詳細資訊。
+   >參與分數雖然未以圖示說明，但是此報表中的一欄。 另請參閱 [瞭解參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) 以取得詳細資訊。
 
-   做得好！ 請注意，報告會依參與計劃分組。
+   做得好！請注意，報告已依參與方案分組。

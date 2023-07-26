@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在Facebook中新增銷售機會至自訂對象 {#add-leads-to-a-custom-audience-in-facebook}
 
-在Facebook中已有自訂對象，且想要新增更多銷售機會嗎？ 方法如下。
+在Facebook中已有自訂對象，而且想要新增更多銷售機會嗎？ 方法如下。
 
 >[!PREREQUISITES]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 >* [接受Facebook的自訂對象條款](https://www.facebook.com/ads/manage/customaudiences/tos.php) 在您的Facebook帳戶內。
 >
 
-1. 尋找並選取包含您要新增的銷售機會的智慧或靜態清單。
+1. 尋找並選取包含您要新增的潛在客戶的智慧或靜態清單。
 
    ![](assets/one.png)
 
-1. 選取 **銷售機會** 標籤，然後按一下 **透過Ad Bridge傳送** 圖示加以檢視。
+1. 選取 **銷售機會** 標籤，然後按一下 **透過Ad Bridge傳送** 圖示底端。
 
    ![](assets/two-1.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 按一下 **對象** 下拉式清單，選取您要新增銷售機會的對象，然後按一下 **更新**.
+1. 按一下 **對象** 從下拉式清單中，選取您要新增銷售機會的對象，然後按一下 **更新**.
 
    ![](assets/4.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    ![](assets/five-1.png)
 
-   這就是所有功能！
+   這就是所有步驟！
 
    >[!NOTE]
    >
