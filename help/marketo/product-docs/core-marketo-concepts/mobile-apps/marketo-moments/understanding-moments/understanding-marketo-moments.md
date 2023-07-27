@@ -4,9 +4,9 @@ description: 瞭解Marketo時刻 — Marketo檔案 — 產品檔案
 title: 瞭解Marketo時刻
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,13 @@ ht-degree: 0%
 
 Marketo的強大功能已唾手可得！ 直接從您的手機或iPad預覽和重新排程電子郵件。
 
->[!AVAILABILITY]
->
+>[!NOTE]
 >
 >需要存取行動應用程式許可權。 請聯絡您的Marketo管理員，以 [更新您的角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+
+>[!AVAILABILITY]
+>
+>此應用程式與不相容 [Adobe身分驗證](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} 此時。
 
 ## 串流 {#streams}
 

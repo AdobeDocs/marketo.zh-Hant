@@ -3,14 +3,18 @@ description: 事件簽入總覽
 title: 事件簽入總覽
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
 # 事件簽入總覽 {#event-check-in-overview}
+
+>[!AVAILABILITY]
+>
+>此應用程式與不相容 [Adobe身分驗證](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} 此時。
 
 適用於iPad或Android平板電腦的Marketo Events應用程式可讓您在人員到達您的活動時，輕鬆立即為他們辦理登入手續。
 
@@ -24,9 +28,9 @@ ht-degree: 0%
 
 在事件之前：
 
-* [建立新的Marketo角色](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 事件的iPad或Android使用者
-* [邀請新的Tablet使用者參加此活動](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 並將新角色指派給他們
-* [建立新的Marketo活動程式](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+* [建立新的Marketo角色](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} 事件的iPad或Android使用者
+* [邀請新的Tablet使用者參加此活動](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} 並將新角色指派給他們
+* [建立新的Marketo活動程式](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * 指定事件日期
 * 將人員新增至您的活動
 
@@ -45,5 +49,5 @@ ht-degree: 0%
 
 * 登入應用程式
 * 尋找來賓（並建立新人員）
-* [簽入來賓](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) （反向簽入，簽入時編輯個人記錄）
+* [簽入來賓](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"} （反向簽入，簽入時編輯個人記錄）
 * 將iPad或Android平板電腦應用程式與Marketo同步
