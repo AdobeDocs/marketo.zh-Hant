@@ -4,7 +4,7 @@ title: 參與地圖總覽
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: 7075f04972f755ffef01e0608ca81f0640fb8aa6
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 參與地圖總覽 {#engagement-map-overview}
 
->[!AVAILABILITY]
->
->此功能目前適用於Smart Campaigns。 它不適用於計畫。
-
 參與地圖可讓您藉助直覺式視覺效果，建立可重複使用的Smart Campaign。 它提供與所有現有Marketo Engage Smart Campaigns的完整回溯相容性，且不會遺失任何目前功能。
+
+>[!NOTE]
+>
+>參與地圖目前可在Smart Campaigns中使用。 它不提供在方案中。
 
 ![](assets/engagement-map-overview-1.png)
 
