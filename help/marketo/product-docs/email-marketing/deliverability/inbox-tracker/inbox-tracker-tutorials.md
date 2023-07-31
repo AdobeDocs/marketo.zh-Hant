@@ -1,23 +1,21 @@
 ---
 description: 收件匣追蹤器Tutorials- Marketo檔案 — 產品檔案
 title: 收件匣追蹤器Tutorials
-hide: true
-hidefromtoc: true
 feature: Deliverability
-source-git-commit: 95eb2ddf7ecb94a930c59cad57f39d45465bb9c2
+source-git-commit: 1f55f6ae17f4c5a059a7e937f9c115a79514e8db
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 # 收件匣追蹤器Tutorials {#inbox-tracker-tutorials.md}
 
-MessageBird的收件匣追蹤器是功能強大的協力廠商工具……
+測試、監視和瞭解Marketo的電子郵件傳遞能力Powerpack （由MessageBird的收件匣追蹤器平台提供技術支援）中的傳遞能力問題。 「收件匣追蹤器」是單一應用程式，結合您程式的智慧與電子郵件轉譯/收件匣測試的遠見，將您的電子郵件效能發揮到極致。
 
-MessageBird已建立數個訓練影片，協助您瀏覽平台。
+![](assets/inbox-tracker-tutorials-1.png)
 
-熒幕擷圖
+MessageBird已建立多個訓練影片，協助您善用此強大工具。
 
 ## 收件匣追蹤器概述 {#inbox-tracker-overview}
 
@@ -28,6 +26,8 @@ MessageBird已建立數個訓練影片，協助您瀏覽平台。
 [智慧（設定和下載）](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
 
 ## 收件匣追蹤器傳遞能力段落 {#inbox-tracker-deliverability-section}
+
+![](assets/inbox-tracker-tutorials-2.png)
 
 [控制面板概觀](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
 
@@ -62,5 +62,7 @@ MessageBird已建立數個訓練影片，協助您瀏覽平台。
 [Google Postmaster工具](https://veed.io/view/7c89c0d8-ead2-46ad-9709-7509d043442a){target="_blank"}
 
 ## 設計追蹤器 {#design-tracker}
+
+![](assets/inbox-tracker-tutorials-3.png)
 
 [設計追蹤器](https://veed.io/view/3efe7959-d835-4a00-948c-93e4a0394871){target="_blank"}
