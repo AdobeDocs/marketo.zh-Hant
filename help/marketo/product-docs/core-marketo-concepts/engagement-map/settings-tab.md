@@ -4,9 +4,9 @@ title: 設定標籤
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '303'
 ht-degree: 1%
 
 ---
@@ -63,8 +63,6 @@ ht-degree: 1%
 >[!NOTE]
 >
 >如果按一下說明圖示後您看到「需要其他許可權」，請聯絡您的Marketo管理員。
-
-如上所述，備援，我們可以移除 — >如果使用者無權編輯行銷活動設定，他們也將無權取消任何已排程的執行。
 
 ![](assets/settings-tab-5.png)
 

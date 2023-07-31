@@ -3,7 +3,7 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f4c1e01f830f4f2f6ac16502511457cee7f3384e
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 2%
@@ -24,7 +24,7 @@ ht-degree: 2%
 
 </br>
 
-* **參與圖**：參與地圖是一種視覺工具，可讓您建立並組織可重複使用的行銷活動。 它完全回溯相容，因此只要按一下按鈕，即可在此新結構中檢視所有現有行銷活動。 畫布可以下載和共用。
+* **參與圖**：參與地圖是一種視覺工具，可讓您建立並組織可重複使用的行銷活動。 它完全回溯相容，因此只要按一下按鈕，即可在此新結構中檢視所有現有行銷活動。 地圖可以下載和共用。
 
 <table> 
   <tr> 

@@ -4,9 +4,9 @@ title: 參與地圖示籤
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -153,12 +153,6 @@ ht-degree: 0%
 * 一或多個篩選器中的限制（或缺少限制）發生錯誤
 
   ![](assets/engagement-map-tab-20.png)
-
-不輸入值（屬性）不會造成錯誤，但會繼續如在「流量」標籤中般運作。 因此，現有的行銷活動不會被中斷。 但是，當流程步驟不包含任何屬性時，這些屬性會顯示為警告。
-
-如^^^我們真的需要此專案，客戶不會看到警告???
-
-![](assets/engagement-map-tab-21.png)
 
 >[!NOTE]
 >

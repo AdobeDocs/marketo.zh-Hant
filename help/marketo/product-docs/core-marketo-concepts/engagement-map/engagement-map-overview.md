@@ -4,9 +4,9 @@ title: 參與地圖總覽
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 參與地圖可讓您藉助直覺式視覺效果，建立可重複使用的Smart Campaign。 它提供與所有現有Marketo Engage Smart Campaigns的完整回溯相容性，且不會遺失任何目前功能。
 
-熒幕擷圖
+![](assets/engagement-map-overview-1.png)
 
 ## 存取參與圖 {#accessing-engagement-map}
 
 導覽至任何現有的行銷活動，然後按一下 **參與圖** 按鈕。
 
-熒幕擷圖
+![](assets/engagement-map-overview-2.png)
 
 在參與地圖中，您會看到兩個標籤： [參與圖](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
-熒幕擷圖
+![](assets/engagement-map-overview-3.png)
 
 ## 卡片說明 {#card-descriptions}
 
@@ -51,11 +51,7 @@ ht-degree: 0%
 
 ## 頂端導覽 {#top-navigation}
 
-熒幕擷圖
-
 頂端導覽包括下列功能：
-
-!!!!! 熒幕擷取畫面已過時 — 抓取新畫面
 
 * 行銷活動名稱和「編輯行銷活動」模組的存取權，您可以在此處編輯行銷活動名稱和說明。
 

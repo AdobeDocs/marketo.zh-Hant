@@ -3,7 +3,7 @@ description: 瞭解Marketo訂閱和使用者移轉至Adobe Admin Console - Marke
 title: 瞭解Marketo訂閱和使用者移轉至Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 830b8d3fa4ca49834523eb4d5119a9bb9161e04d
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
 source-wordcount: '1121'
 ht-degree: 0%
@@ -67,7 +67,7 @@ Marketo產品管理員將：
 
 身為Marketo產品管理員，建議您確保所有使用者準備好進行移轉日作業。
 
-* 在Marketo管理區域中檢視所有使用者的電子郵件驗證狀態。 鼓勵尚未驗證電子郵件地址的使用者進行驗證，並幫助使用者解決完成驗證流程時遇到的任何挑戰
+* 在Marketo管理區域中檢視所有使用者的電子郵件驗證狀態。 鼓勵尚未驗證電子郵件地址的使用者進行驗證，並幫助使用者解決完成驗證流程時遇到的任何挑戰。
 
 * 為所有使用者準備即將移轉至Adobe身分識別。
 
