@@ -1,10 +1,8 @@
 ---
 description: 設定標籤 — Marketo檔案 — 產品檔案
 title: 設定標籤
-hide: true
-hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
@@ -45,7 +43,7 @@ ht-degree: 1%
 
 ![](assets/settings-tab-4.png)
 
-「設定」標籤也包含智慧清單的快速概觀。 其功能包括：
+「設定」索引標籤也包含Smart Campaign的快速概覽。 其功能包括：
 
 * 行銷活動狀態
 * 建立日期
