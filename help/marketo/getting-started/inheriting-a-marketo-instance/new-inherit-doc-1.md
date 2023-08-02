@@ -3,10 +3,10 @@ description: 繼承檔案1 - Marketo檔案 — 產品檔案
 title: 繼承檔案1
 hide: true
 hidefromtoc: true
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '443'
-ht-degree: 16%
+source-wordcount: '804'
+ht-degree: 7%
 
 ---
 
@@ -119,8 +119,8 @@ ht-degree: 16%
   </tr> 
   <tr> 
    <td>Smart Campaign設定</td> 
-   <td><li>是否有限制？ 貴企業是否有可能需要通訊限制的原則？</li>
-<li>Adobe建議若封鎖非營運電子郵件，請將通訊限製為每天1封，每7天3封。</li></td>
+   <td><li>您是否對Smart Campaign的大小有限制？</li>
+<li>如果沒有，請考慮新增一個。 我們建議將智慧行銷活動限制限制限製為資料庫的25%，以避免在工作流程中過度通訊或處理整個資料庫，這不僅可保護您的品牌，還有助於保護執行個體的效能。</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -136,18 +136,9 @@ ht-degree: 16%
    <th>欄目3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>通訊限制</td> 
+   <td><li>是否有限制？ 貴企業是否有可能需要通訊限制的原則？</li>
+<li>Adobe建議將通訊限製為每天1封，每7天3封，並封鎖非運作電子郵件。</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -163,18 +154,24 @@ ht-degree: 16%
    <th>欄目3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>標記</td> 
+   <td><li>標籤數量有多少？ 目前使用多少個標籤？ 是否需要新增？</li>
+<li>您的程式是否需要標籤？</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>頻道</td> 
+   <td><li>有多少管道？ 目前使用多少個？</li>
+<li>所有管道計畫狀態是否都適當？ 它們是否在計畫中顯示進度？</li>
+<li>您的管道是否與特定計畫型別有關？</li>
+<li>每個管道的哪些狀態被視為成功？ 這些是否符合您的行銷目標？</li>
+<li>是否正確使用營運管道？</li>
+<li>針對進階Report Builder（收入週期總管\RCE），您的管道分析行為是否設定為符合納入期間成本的方案實務？</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>行銷行事曆（如果適用）</td> 
+   <td><li>有多少行事曆專案型別？ 它們是否仍然相關？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -190,18 +187,27 @@ ht-degree: 16%
    <th>欄目3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>欄位管理</td> 
+   <td><li>有多少欄位？ 按一下「匯出欄位名稱」以檢閱欄位、自訂欄位及其API名稱的清單。</li>
+<li>有多少自訂欄位？</li>
+<li>使用了多少欄位？ 在「欄位動作」下拉式清單中選取「匯出使用者」，即可檢閱欄位的相關資產。</li>
+<li>Marketo Engage與您的CRM之間同步了多少次？</li>
+<li>CRM欄位是否已同步至適當的物件？</li>
+<li>有針對人員詳細資料設定的自訂檢視嗎？ 應該有嗎？</li>
+<li>根據來源，您的欄位是否有命名慣例？ 如果沒有，請考慮實作此專案。</li>
+<li>是否有任何欄位遭到封鎖？ 請務必瞭解原因。</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>自訂活動</td> 
+   <td><li>是否有任何自訂活動？</li>
+<li>若是如此，請按一下這些欄位，瞭解哪些活動與Marketo表單、電子郵件或登入頁面無關。</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>自訂物件</td> 
+   <td><li>有多少自訂物件？ 他們如何同步至您的CRM？</li>
+<li>您的程式和清單查詢如何使用這些自訂物件？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -229,6 +235,19 @@ ht-degree: 16%
   <tr> 
    <td>1</td> 
    <td>2</td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>1</td> 
+   <td>2</td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Marketo Sales Insight （如果適用）</td> 
+   <td><li>是否已安裝MSI套件？</li>
+<li>您是否已升級至最新版的Sales Insight？</li>
+<li>您是否已完成Sales Insight設定？</li>
+<li>您是否根據已購買的座位數授予使用者存取權？</li></td>
    <td>3</td>
   </tr>
  </tbody> 

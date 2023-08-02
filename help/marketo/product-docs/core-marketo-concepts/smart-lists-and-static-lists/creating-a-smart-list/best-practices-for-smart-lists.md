@@ -4,9 +4,9 @@ description: 智慧列示的最佳實務 — Marketo檔案 — 產品檔案
 title: 智慧列示的最佳作法
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '570'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Marketo有許多使用方式，某些技巧更適合您和您的企業。 考慮 [Marketo專業服務](https://pages2.marketo.com/72-hour-survival-guide.html){target="_blank"} 讓您的投資光彩照人。
+>Marketo Engage的使用方式有很多種，某些技巧對您和您的企業更好。 如果您想要獲得最大投資效益的協助，請聯絡您的Adobe Professional Services銷售代表。
