@@ -3,18 +3,20 @@ description: 繼承檔案1 - Marketo檔案 — 產品檔案
 title: 繼承檔案1
 hide: true
 hidefromtoc: true
-source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
+source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
 workflow-type: tm+mt
-source-wordcount: '851'
-ht-degree: 6%
+source-wordcount: '1140'
+ht-degree: 3%
 
 ---
 
 # 繼承檔案1 {#inherit-doc-1}
 
-稽核繼承的執行個體看起來可能像是
+稽核繼承的執行個體可能看起來像是……
 
-您是否從其他管理員繼承了現有的Marketo Engage執行個體？ 若是如此，本文會為您提供。
+您是否從其他管理員繼承了現有的Marketo Engage執行個體？ 若是如此，本文僅供您參考……
+
+以下檢查清單已與Marketo Champions的輸入一併輸入，可幫助您在繼承執行個體中快速上手……
 
 >[!TIP]
 >
@@ -37,7 +39,7 @@ ht-degree: 6%
 <li>有多少使用者擁有管理員許可權？</li>
 <li>這些使用者中的任何一個是否應變更為其他角色？</li> 
 <li>此例項中的API使用者為何？</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>角色</td> 
@@ -47,19 +49,19 @@ ht-degree: 6%
 <li>使用者登入的頻率為何？</li>
 <li>每個API使用者都有自己的使用者角色嗎？ 如果不能，請考慮實作此專案以更輕鬆進行疑難排解。</li> 
 <li>您的使用者角色和許可權是否與公司資料隱私權政策一致？</li></td>
-   <td>3.2</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>內部檔案</td> 
    <td><li>貴組織中是否清楚定義使用者和角色？</li>
 <li>您新增使用者/管理員的程式為何？</li></td>
-   <td>3.3</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>沙箱（如果適用）</td> 
    <td><li>您有沙箱執行個體嗎？ 如果是這樣的話，請檢閱上述適用於您的沙箱的類別。</li>
 <li>計畫匯入是否與您的沙箱連結？</li></td>
-   <td>3.4</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -76,7 +78,7 @@ ht-degree: 6%
   <tr> 
    <td>稽核軌跡</td> 
    <td><li>誰在執行個體中工作？</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -230,18 +232,29 @@ ht-degree: 6%
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>登陸頁面</td> 
+   <td><li>網域設定為何？</li>
+<li>後援設定為何？</li>
+<li>首頁設定為何？</li>
+<li>是否啟用表單預填？</li>
+<li>個人化URL已啟用嗎？</li>
+<li>有重新導向的規則設定嗎？</li>
+<li>您有設定好的網域別名嗎？ 您是否透過檔案追蹤您如何使用網域別名？</li>
+<li>是否啟用登入頁面的安全網域？ 確認您的登入頁面資產是否包含「http」URL。</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Munchkin</td> 
+   <td><li>您的網站是否有Munchkin追蹤程式碼(不在Marketo中)？</li>
+<li>是否啟用「不要追蹤」瀏覽器請求？</li>
+<li>您的Munchkin API已設定嗎？ 如果您遺失munchkin程式碼在網站上的位置檔案，請在基本的「Analytics」中使用「網頁分析報表」，以快速檢視方式開始瞭解Munchkin程式碼在您網站上的放置位置。</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>網站服務</td> 
+   <td><li>是否已啟用IP限制？ 他們應該是？</li>
+<li>哪些使用者/應用程式正在您的執行個體中進行API呼叫？</li>
+<li>您是否達到或接近達到API限制？ 如果是這樣的話，請考慮增加此功能或稽核您的執行個體，以叫停這些API呼叫。</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -265,18 +278,15 @@ ht-degree: 6%
    <th>欄目3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>寶箱</td> 
+   <td><li>寶藏箱中開啟了什麼功能？</li>
+<li>是否有應開啟或關閉的功能？</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>行銷活動檢視窗</td> 
+   <td><li>是否已開啟行銷活動稽核檢查？</li>
+<li>如果沒有，請考慮將其開啟，以輕鬆識別哪些促銷活動正在作用中、與您的CRM同步，及/或刪除記錄。</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -292,18 +302,24 @@ ht-degree: 6%
    <th>欄目3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Marketo Engage狀態更新</td> 
+   <td><li>您的執行個體是否已註冊Marketo Engage狀態更新？</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>授權連絡人</td> 
+   <td><li>您在支援入口網站中設定適當的授權連絡人了嗎？</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>警示</td> 
+   <td><li>是否有任何從Marketo Engage傳送給內部團隊的有效警示？</li>
+<li>如果有的話，這些警報是否可正常運作？</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>通知</td> 
+   <td><li>您訂閱了適當的管理員通知嗎？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
