@@ -3,10 +3,10 @@ description: 繼承檔案1 - Marketo檔案 — 產品檔案
 title: 繼承檔案1
 hide: true
 hidefromtoc: true
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
 workflow-type: tm+mt
-source-wordcount: '804'
-ht-degree: 7%
+source-wordcount: '851'
+ht-degree: 6%
 
 ---
 
@@ -223,8 +223,10 @@ ht-degree: 7%
    <th>欄目3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>CRM</td> 
+   <td><li>您正在同步至哪個CRM？ Salesforce? MS Dynamics？ 維耶娃？</li>
+<li>自訂同步還是雙向？ （KG：修正文法並檢查重要性）</li>
+<li>[僅限Salesforce]您的執行個體是否已實作自訂同步篩選器？ 請聯絡Marketo支援以識別自訂同步篩選器，或要求實作自訂同步規則。</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -244,10 +246,10 @@ ht-degree: 7%
   </tr>
   <tr> 
    <td>Marketo Sales Insight （如果適用）</td> 
-   <td><li>是否已安裝MSI套件？</li>
-<li>您是否已升級至最新版的Sales Insight？</li>
+   <td><li>具有 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">已安裝MSI套件</a>？</li>
+<li>有您 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">升級至最新版Sales Insight</a>？</li>
 <li>您是否已完成Sales Insight設定？</li>
-<li>您是否根據已購買的座位數授予使用者存取權？</li></td>
+<li>有您 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">為您的使用者授與存取權</a> 是否根據您購買的座位數？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
