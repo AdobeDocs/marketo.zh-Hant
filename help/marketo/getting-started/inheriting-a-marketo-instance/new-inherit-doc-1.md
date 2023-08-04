@@ -3,9 +3,9 @@ description: 繼承檔案1 - Marketo檔案 — 產品檔案
 title: 繼承檔案1
 hide: true
 hidefromtoc: true
-source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
+source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1220'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 ## 使用者和角色 {#users-and-roles}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
    <th>區域</th> 
@@ -33,22 +33,22 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>使用者</td> 
-   <td><li>有多少使用者？</li>
+   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">使用者數量</a> 有嗎？</li>
 <li>是否有任何應過期的使用者？</li>
 <li>貴公司是否有刪除使用者的相關政策？</li> 
-<li>有多少使用者擁有管理員許可權？</li>
-<li>這些使用者中的任何一個是否應變更為其他角色？</li> 
+<li>使用者數量 <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">管理員許可權</a>？</li>
+<li>這些使用者中是否應該有任何變更為 <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">其他角色？</a></li> 
 <li>此例項中的API使用者為何？</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>角色</td> 
    <td><li>有多少角色？</li>  
-<li>每個角色具有哪些許可權/存取權？ 是否應對任何專案進行調整？</li>
+<li>什麼 <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">許可權/存取</a> 每個角色都有嗎？ 是否應對任何專案進行調整？</li>
 <li>每個角色有多少使用者？</li>
-<li>使用者登入的頻率為何？</li>
-<li>每個API使用者都有自己的使用者角色嗎？ 如果不能，請考慮實作此專案以更輕鬆進行疑難排解。</li> 
-<li>您的使用者角色和許可權是否與公司資料隱私權政策一致？</li></td>
+<li>使用者頻率 <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">登入</a>？</li>
+<li>每個API使用者是否有 <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">擁有的使用者角色</a>？ 如果不能，請考慮實作此專案以更輕鬆進行疑難排解。</li> 
+<li>您的使用者角色和許可權是否與公司資料一致 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">隱私權原則</a>？</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -59,8 +59,8 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>沙箱（如果適用）</td> 
-   <td><li>您有沙箱執行個體嗎？ 如果是這樣的話，請檢閱上述適用於您的沙箱的類別。</li>
-<li>計畫匯入是否與您的沙箱連結？</li></td>
+   <td><li>您是否有 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">沙箱執行個體</a>？ 如果是這樣的話，請檢閱上述適用於您的沙箱的類別。</li>
+<li>是 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">程式匯入</a> 連結至您的沙箱？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -77,7 +77,7 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>稽核軌跡</td> 
-   <td><li>誰在執行個體中工作？</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">誰在工作</a> 在執行個體中？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -263,6 +263,25 @@ ht-degree: 3%
 <li>有您 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">升級至最新版Sales Insight</a>？</li>
 <li>您是否已完成Sales Insight設定？ 企業/無限制使用者 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">按一下這裡</a>，專業使用者 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">按一下這裡</a>.</li>
 <li>有您 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">為您的使用者授與存取權</a> 是否根據您購買的座位數？</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>啟動點（如果適用）</td> 
+   <td><li>您已設定哪些服務（網路研討會、廣告等）？ 是否有任何已接近其有效期的專案？</li>
+<li>您的整合使用多少API呼叫？</li>
+<li>您是否已為使用案例制定正確的整合？</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Webhook （如果適用）</td> 
+   <td><li>您已設定哪些連線？</li>
+<li>任何已不再使用嗎？</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>行動應用程式（如適用）</td> 
+   <td><li>您有哪些行動應用程式？</li>
+<li>已新增哪些測試裝置？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
