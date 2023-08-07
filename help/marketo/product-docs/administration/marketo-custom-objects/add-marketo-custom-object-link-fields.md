@@ -4,9 +4,9 @@ description: 新增Marketo自訂物件連結欄位 — Marketo檔案 — 產品�
 title: 新增Marketo自訂物件連結欄位
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 
 * 對於一對多自訂結構，使用自訂物件中的連結欄位來將其連線到個人或公司。
 * 對於多對多的結構，您可以使用兩個連結欄位，由單獨建立的中介物件（也是自訂物件型別）連線。 一個連結會連線至資料庫中的人員或公司，另一個連結則連線至自訂物件。 在這種情況下，連結欄位不在自訂物件本身中。
+
+>[!IMPORTANT]
+>
+>在多對多關係中，Marketo Engage只支援每個bridge物件的單一edge物件。 在下方提供的範例中，每個註冊只能連結至單一課程。 不過，每個Edge物件可以有許多橋接物件，正如每個課程都有許多學生註冊（多對一關係）。 如果您的自訂物件資料結構化，讓每個Bridge物件記錄（一對多或多對多）都有一個以上的Edge物件記錄，您可以建立多個Bridge物件記錄，讓每個記錄都參照單一Edge物件記錄，以便在Marketo中表示該資料。
 
 ## 建立一對多結構的連結欄位 {#create-a-link-field-for-a-one-to-many-structure}
 
