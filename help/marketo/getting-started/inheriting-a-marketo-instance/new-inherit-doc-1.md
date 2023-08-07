@@ -3,9 +3,9 @@ description: 繼承檔案1 - Marketo檔案 — 產品檔案
 title: 繼承檔案1
 hide: true
 hidefromtoc: true
-source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
+source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1225'
 ht-degree: 3%
 
 ---
@@ -94,11 +94,11 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>工作區與分割區</td> 
-   <td><li>您有多少工作區和/或分割區？</li>
+   <td><li>數量 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">工作區和/或分割區</a> 您有嗎？</li>
 <li>每個工作區與分割區的主要用途為何？</li>
-<li>他們是否需要稽核或變更？</li>
+<li>執行以下任一操作： <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">工作區</a> 或 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">分割區</a> 需要稽核/變更？</li>
 <li>您的工作區與資料分割之間的關係為何？</li>
-<li>每個工作區有多少使用者擁有存取權？</li></td>
+<li>使用者數量 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">具有存取權</a> 至每個工作區？</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -121,7 +121,7 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>Smart Campaign設定</td> 
-   <td><li>您是否對Smart Campaign的大小有限制？</li>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">您是否有限制</a> 是否在Smart Campaign規模上？</li>
 <li>如果沒有，請考慮新增一個。 我們建議將智慧行銷活動限制限制限製為資料庫的25%，以避免在工作流程中過度通訊或處理整個資料庫，這不僅可保護您的品牌，還有助於保護執行個體的效能。</li></td>
    <td>3</td>
   </tr>
@@ -139,8 +139,8 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>通訊限制</td> 
-   <td><li>是否有限制？ 貴企業是否有可能需要通訊限制的原則？</li>
-<li>Adobe建議將通訊限製為每天1封，每7天3封，並封鎖非運作電子郵件。</li></td>
+   <td><li>有嗎 <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">通訊限制</a> 就位？ 貴企業是否有可能需要通訊限制的原則？</li>
+<li>Adobe建議您將通訊限製為每天1次，每7天3次，使用 <b>非</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">營運</a> 已封鎖電子郵件。</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -163,8 +163,8 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>頻道</td> 
-   <td><li>有多少管道？ 目前使用多少個？</li>
-<li>所有管道計畫狀態是否都適當？ 它們是否在計畫中顯示進度？</li>
+   <td><li>數量 <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">管道</a> 有嗎？ 目前使用多少個？</li>
+<li>全部 <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">管道計畫狀態適當</a>？ 它們是否在計畫中顯示進度？</li>
 <li>您的管道是否與特定計畫型別有關？</li>
 <li>每個管道的哪些狀態被視為成功？ 這些是否符合您的行銷目標？</li>
 <li>是否正確使用營運管道？</li>
