@@ -3,7 +3,7 @@ description: 繼承檔案1 - Marketo檔案 — 產品檔案
 title: 繼承檔案1
 hide: true
 hidefromtoc: true
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
 workflow-type: tm+mt
 source-wordcount: '1225'
 ht-degree: 3%
@@ -157,13 +157,13 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>標記</td> 
-   <td><li>標籤數量有多少？ 目前使用多少個標籤？ 是否需要新增？</li>
+   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" target="_blank">標籤數量</a> 有嗎？ 目前使用多少個標籤？ 是否需要新增？</li>
 <li>您的程式是否需要標籤？</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>頻道</td> 
-   <td><li>數量 <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">管道</a> 有嗎？ 目前使用多少個？</li>
+   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">管道數</a> 有嗎？ 目前使用多少個？</li>
 <li>全部 <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">管道計畫狀態適當</a>？ 它們是否在計畫中顯示進度？</li>
 <li>您的管道是否與特定計畫型別有關？</li>
 <li>每個管道的哪些狀態被視為成功？ 這些是否符合您的行銷目標？</li>
@@ -173,7 +173,7 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>行銷行事曆（如果適用）</td> 
-   <td><li>有多少行事曆專案型別？ 它們是否仍然相關？</li></td>
+   <td><li>數量 <a href="/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md" target="_blank">行事曆專案型別</a> 有嗎？ 它們是否仍然相關？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -190,25 +190,25 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>欄位管理</td> 
-   <td><li>有多少欄位？ 按一下「匯出欄位名稱」以檢閱欄位、自訂欄位及其API名稱的清單。</li>
-<li>有多少自訂欄位？</li>
-<li>使用了多少欄位？ 在「欄位動作」下拉式清單中選取「匯出使用者」，即可檢閱欄位的相關資產。</li>
+   <td><li>有多少欄位？ 按一下 <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">匯出欄位名稱</a> 以檢閱欄位、自訂欄位及其API名稱的清單。</li>
+<li>數量 <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">自訂欄位</a> 有嗎？</li>
+<li>使用了多少欄位？ 選取 <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">匯出使用者</a> 欄位動作下拉式清單中，可供檢閱欄位的相關資產。</li>
 <li>Marketo Engage與您的CRM之間同步了多少次？</li>
 <li>CRM欄位是否已同步至適當的物件？</li>
-<li>有針對人員詳細資料設定的自訂檢視嗎？ 應該有嗎？</li>
+<li>是否有 <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">自訂檢視集</a> 以取得人員詳細資料？ 應該有嗎？</li>
 <li>根據來源，您的欄位是否有命名慣例？ 如果沒有，請考慮實作此專案。</li>
-<li>是否有任何欄位遭到封鎖？ 請務必瞭解原因。</li></td>
+<li>是否有任何欄位 <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">已封鎖</a>？ 請務必瞭解原因。</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>自訂活動</td> 
-   <td><li>是否有任何自訂活動？</li>
+   <td><li>是否有任何 <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">自訂活動</a>？</li>
 <li>若是如此，請按一下這些欄位，瞭解哪些活動與Marketo表單、電子郵件或登入頁面無關。</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>自訂物件</td> 
-   <td><li>有多少自訂物件？ 他們如何同步至您的CRM？</li>
+   <td><li>數量 <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">自訂物件</a> 有嗎？ 他們如何同步至您的CRM？</li>
 <li>您的程式和清單查詢如何使用這些自訂物件？</li></td>
    <td>3</td>
   </tr>
