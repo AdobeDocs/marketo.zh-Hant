@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
 workflow-type: tm+mt
 source-wordcount: '9007'
 ht-degree: 0%
@@ -1114,7 +1114,7 @@ ht-degree: 0%
          + [透過Sales Connect中的SAML 2.0設定SSO](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [共用設定](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [使用者存取細節](product-docs/marketo-sales-connect/admin/user-access-details.md)
-      + Analytics {#analytics}
+      + 分析 {#analytics}
          + [Analytics頁面概觀](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [瞭解「內容」標籤](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
          + [瞭解「我」標籤](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
@@ -1324,7 +1324,7 @@ ht-degree: 0%
             + [共用設定](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [與Marketo和Salesforce同步銷售動作資料](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [使用者存取細節](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
-         + Analytics {#analytics}
+         + 分析 {#analytics}
             + [Analytics頁面概觀](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [瞭解「內容」標籤](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
             + [瞭解「我」標籤](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
@@ -1910,12 +1910,12 @@ ht-degree: 0%
 + 發行說明 {#release-notes}
    + [發行排程](release-notes/release-schedule.md)
    + [最新版本](release-notes/current.md)
-   + [目前版本暫時](release-notes/current-temp.md)
    + 舊版 {#previous-releases}
       + 2023 {#2023}
          + [發行說明： 2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [發行說明： 2023年3月](release-notes/previous-releases/2023/release-notes-mar-23.md)
          + [發行說明： 2023年5月](release-notes/previous-releases/2023/release-notes-may-23.md)
+         + [發行說明： 2023年7月](release-notes/previous-releases/2023/release-notes-july-23.md)
       + 2022 {#2022}
          + [發行說明： 2022年1月](release-notes/previous-releases/2022/release-notes-jan-22.md)
          + [發行說明： 2022年3月](release-notes/previous-releases/2022/release-notes-mar-22.md)

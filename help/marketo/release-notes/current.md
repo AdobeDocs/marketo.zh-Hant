@@ -3,16 +3,16 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: e07204bc9a0edbd99f4059c6e859f33c75c1f02a
+source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
 workflow-type: tm+mt
-source-wordcount: '666'
-ht-degree: 2%
+source-wordcount: '931'
+ht-degree: 3%
 
 ---
 
-# 發行說明： 2023年7月 {#release-notes-july-23}
+# 發行說明： 2023年9月 {#release-notes-sep-23}
 
-下方提供2023年7月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
+下方提供2023年9月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
 
 >[!AVAILABILITY]
 >
@@ -20,11 +20,11 @@ ht-degree: 2%
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於以下日期開始發行 **2023年7月21日**，在接下來的幾週內分階段推出剩餘的功能。 發行功能和日期可能會有所變更。 請檢視每個功能下方的狀態。
+下列功能屬於標準發行週期，並將於以下日期開始發行 **2023年9月8日**，在接下來的幾週內分階段推出剩餘的功能。 發行功能和日期可能會有所變更。 請檢視每個功能下方的狀態。
 
 </br>
 
-* **參與圖**：參與地圖是一種視覺工具，可讓您建立並組織可重複使用的行銷活動。 它完全回溯相容，因此只要按一下按鈕，即可在此新結構中檢視所有現有行銷活動。 地圖可以下載和共用。
+* **Marketo參考資料庫**：Marketo Engage計畫參考資料庫可讓使用者匯入代表Adobe建議之最佳實務的「範例」計畫和其他資產。 我們的產品管理團隊已完全更新程式庫，為想要快速啟動程式的人提供更有價值的工具。
 
 <table> 
   <tr> 
@@ -32,13 +32,13 @@ ht-degree: 2%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已送出</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">參與地圖總覽</a></td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
   </tr>
   </tbody>
 </table>
 
-* **通知 — Web服務錯誤**：網站服務錯誤通知現在包含訂閱名稱，這讓管理多個Marketo Engage執行個體的使用者更容易操作。 我們也在包含錯誤碼和計數的表格中新增「使用者」欄，讓您在呼叫Marketo REST API時，輕鬆識別負責產生特定錯誤的API使用者。
+* **由Design Studio資產的計數欄使用**： Design Studio中清單檢視的「計數使用」欄會醒目顯示使用中資產的資產計數/數量。 這適用於程式碼片段、電子郵件範本、Forms和登入頁面範本。
 
 <table> 
   <tr> 
@@ -46,8 +46,36 @@ ht-degree: 2%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已送出</td>
-   <td>不適用</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **用於Design Studio資產的索引標籤增強功能**：增強功能使用索引標籤提供更詳細的資產型別和名稱檢視，以及資產的使用位置。 這適用於電子郵件詳細資訊和影像與檔案詳細資訊。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **計算公式流程步驟服務**：運算公式是以Adobe的IO執行階段平台為基礎所建置的流程步驟服務，可與Marketo Engage智慧行銷活動搭配使用。 具有IO執行階段的Adobe使用者端可部署服務，並將其安裝至其Marketo Engage訂閱，好讓他們在Marketo Smart Campaigns中計算Excel式公式。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
   </tr>
   </tbody>
 </table>
@@ -56,11 +84,25 @@ ht-degree: 2%
 
 以下功能遵循敏捷格式，並在標準發行日期之前或之後的各種日期發行。 請檢視每個功能下方的狀態。
 
+* **Marketo + Workfront整合**：針對擁有Marketo和Workfront的使用者，您現在可以使用Workfront Fusion範本整合這兩個產品，並解鎖新的自動化工作流程，以簡化行銷活動的執行。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
 ### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **Dynamic Chat的聊天來源**：「聊天」現在作為新人員記錄和活動的來源提供。 此來源可用於協助使用者篩選智慧清單/行銷活動中的活動。 也可以封鎖來源以停止欄位更新。
+* **串流設計工具中的動作卡**：當訪客參與對話方塊時，行銷人員可使用對話方塊資料流中的動作卡將隱藏值傳遞至Marketo Engage人員記錄。
 
 <table> 
   <tr> 
@@ -74,7 +116,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **增強的Dynamic Chat活動**：Dynamic Chat活動、篩選器和觸發器已透過其他屬性和標準化的命名慣例得到增強。
+* **對話流程資產頁面**： Design Studio資產頁面現在會列出Dynamic Chat對話流程。 檢視哪些流程可以整合到Marketo Engage資產中，並直接深層連結到其編輯器。
 
 <table> 
   <tr> 
@@ -88,11 +130,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-### Marketo Sales Insight {#marketo-sales-insight}
-
-</br>
-
-* **取消訂閱附加設定**：您現在可以透過「取消訂閱附加」的新設定選項，更能控制取消訂閱訊息。 新功能可讓管理員控制何時何地以及在銷售電子郵件中出現哪些取消訂閱訊息。
+* **使用Marketo EngageForms進行對話式Forms**：將Marketo Engage Forms與Dynamic Chat交談流程整合，使其成為交談。 使用表單資料或智慧清單成員資格來立即取得銷售機會資格，以符合預訂、白皮書連結或自訂目標。
 
 <table> 
   <tr> 
@@ -106,35 +144,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **動態欄位提示**：您現在可以透過新增至銷售分析動作中電子郵件範本的新欄位提示，進一步提示銷售團隊個人化電子郵件的特定部分。
-
-<table> 
-  <tr> 
-   <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
-  </tr>
-  <tr> 
-   <td>已送出</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">欄位提示</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **預設動態欄位**：預設動態欄位可讓您設定一個遞補值，如果沒有可填入的值，動態欄位可解析該遞補值。 這有助於確保電子郵件發出並填入所有個人化。
-
-<table> 
-  <tr> 
-   <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
-  </tr>
-  <tr> 
-   <td>已送出</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md" target="_blank">動態欄位</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Sales Insight的Dynamic Chat支援**：已進行更新，以支援此版本中為所有Dynamic Chat使用者引進的新Dynamic Chat屬性。
+* **Conversations SDK**：將任何表單、登陸頁面或幾乎任何網頁轉換為吸引人的會議預約體驗。
 
 <table> 
   <tr> 
@@ -148,7 +158,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **Sales Insight動作的Dynamic Chat支援**：我們目前支援Lead Feed中的Dynamic Chat活動，以及當Live Chat路由給代理程式時的通知。
+* **自訂會議預約設定**：代理可設定自訂會議預約設定，例如會議可用性、會議長度以及會議之間的「緩衝時間」。
 
 <table> 
   <tr> 
@@ -162,7 +172,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **Dynamic Chat觸發權杖**：推出新的觸發器Token，供Dynamic Chat活動用於有趣的時刻。
+* **遞補設定**：管理員可以設定自訂後援設定，以定義當代理無法聊天時訪客看到的內容。
 
 <table> 
   <tr> 
@@ -170,14 +180,154 @@ ht-degree: 2%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>已送出</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chat觸發權杖</a></td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **全域效能儀表板**：檢視您的對話方塊的成效，包括參與和效能測量結果（總計和一段時間內的效能測量結果）、表現最佳的頁面以及表現最佳的對話方塊。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **即時交談**：網路訪客可與銷售代理即時交談，以取得問題的解答。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **即時聊天效能儀表板**：檢視您的即時銷售代理有多少交談，以及哪些團隊的表現最好。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Marketo Engage智慧清單目標定位**：行銷人員可以在對話方塊對象條件中鎖定Marketo Engage智慧清單的成員。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **會議績效儀表板**：檢視已預約多少會議，以及正在預約誰。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **新Dynamic Chat活動**：新活動，可支援交談流程、即時聊天和其他新功能。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **即時聊天通知**：當訪客請求即時聊天時，代理會收到即時應用程式內和瀏覽器通知。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **銷售分析作業通知**：具有Sales Insight Actions的代理程式將在Sales Insight Actions面板中收到即時聊天請求通知。
+
+<table>
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **團隊**：建立代理團隊，將訪客路由至該團隊以進行即時聊天或會議預訂。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **觸發新活動的權杖**：有新的觸發權杖可用來支援Dynamic Chat的新活動。
+
+<table> 
+  <tr> 
+   <td><b>狀態</b></td>
+   <td><b>檔案更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
   </tr>
   </tbody>
 </table>
 
 ## 公告 {#announcements}
 
-* **升級至Google Analytics4**：Marketo先前支援Universal Analytics，後者將於2023年7月1日前停止記錄資料。 RTP使用者必須在其Google Analytics控制面板中遵循移轉程式，才能在RTP中完成對Google Analytics4整合的支援。 此後，使用者將擁有不重複的英數字元標籤(位於 `<head>` 部分)，其可讓Marketo傳送資料給Google Analytics。
+* **切換Design Studio Assets的開關淘汰**：可讓使用者在傳統介面與適用於Design Studio的現代UX體驗之間切換的切換開關即將棄用，搭配舊版Design Studio體驗，讓使用者可完全移轉至現代UX體驗。
 
 * **_產品發行網路研討會_**：2023年9月6日上午9:00 （太平洋時間） /中午12:00 （東部時間）加入我們 [直播網路研討會](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} 由我們的產品團隊託管，讓您瞭解如何使用所有最新的產品創新功能。
