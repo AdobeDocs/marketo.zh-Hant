@@ -3,7 +3,7 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
+source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
 workflow-type: tm+mt
 source-wordcount: '931'
 ht-degree: 3%
@@ -26,7 +26,7 @@ ht-degree: 3%
 
 * **Marketo參考資料庫**：Marketo Engage計畫參考資料庫可讓使用者匯入代表Adobe建議之最佳實務的「範例」計畫和其他資產。 我們的產品管理團隊已完全更新程式庫，為想要快速啟動程式的人提供更有價值的工具。
 
-<table width="400"> 
+<table>
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -40,7 +40,7 @@ ht-degree: 3%
 
 * **由Design Studio資產的計數欄使用**： Design Studio中清單檢視的「計數使用」欄會醒目顯示使用中資產的資產計數/數量。 這適用於程式碼片段、電子郵件範本、Forms和登入頁面範本。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -54,7 +54,7 @@ ht-degree: 3%
 
 * **用於Design Studio資產的索引標籤增強功能**：增強功能使用索引標籤提供更詳細的資產型別和名稱檢視，以及資產的使用位置。 這適用於電子郵件詳細資訊和影像與檔案詳細資訊。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -68,7 +68,7 @@ ht-degree: 3%
 
 * **計算公式流程步驟服務**：運算公式是以Adobe的IO執行階段平台為基礎所建置的流程步驟服務，可與Marketo Engage智慧行銷活動搭配使用。 具有IO執行階段的Adobe使用者端可部署服務，並將其安裝至其Marketo Engage訂閱，好讓他們在Marketo Smart Campaigns中計算Excel式公式。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -86,7 +86,7 @@ ht-degree: 3%
 
 * **Marketo + Workfront整合**：針對擁有Marketo和Workfront的使用者，您現在可以使用Workfront Fusion範本整合這兩個產品，並解鎖新的自動化工作流程，以簡化行銷活動的執行。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -104,7 +104,7 @@ ht-degree: 3%
 
 * **串流設計工具中的動作卡**：當訪客參與對話方塊時，行銷人員可使用對話方塊資料流中的動作卡將隱藏值傳遞至Marketo Engage人員記錄。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -118,7 +118,7 @@ ht-degree: 3%
 
 * **對話流程資產頁面**： Design Studio資產頁面現在會列出Dynamic Chat對話流程。 檢視哪些流程可以整合到Marketo Engage資產中，並直接深層連結到其編輯器。
 
-<table width="400">
+<table>
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -132,7 +132,7 @@ ht-degree: 3%
 
 * **使用Marketo EngageForms進行對話式Forms**：將Marketo Engage Forms與Dynamic Chat交談流程整合，使其成為交談。 使用表單資料或智慧清單成員資格來立即取得銷售機會資格，以符合預訂、白皮書連結或自訂目標。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -146,7 +146,7 @@ ht-degree: 3%
 
 * **Conversations SDK**：將任何表單、登陸頁面或幾乎任何網頁轉換為吸引人的會議預約體驗。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -160,7 +160,7 @@ ht-degree: 3%
 
 * **自訂會議預約設定**：代理可設定自訂會議預約設定，例如會議可用性、會議長度以及會議之間的「緩衝時間」。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -174,7 +174,7 @@ ht-degree: 3%
 
 * **遞補設定**：管理員可以設定自訂後援設定，以定義當代理無法聊天時訪客看到的內容。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -188,7 +188,7 @@ ht-degree: 3%
 
 * **全域效能儀表板**：檢視您的對話方塊的成效，包括參與和效能測量結果（總計和一段時間內的效能測量結果）、表現最佳的頁面以及表現最佳的對話方塊。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -202,7 +202,7 @@ ht-degree: 3%
 
 * **即時交談**：網路訪客可與銷售代理即時交談，以取得問題的解答。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -216,7 +216,7 @@ ht-degree: 3%
 
 * **即時聊天效能儀表板**：檢視您的即時銷售代理有多少交談，以及哪些團隊的表現最好。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -230,7 +230,7 @@ ht-degree: 3%
 
 * **Marketo Engage智慧清單目標定位**：行銷人員可以在對話方塊對象條件中鎖定Marketo Engage智慧清單的成員。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -244,7 +244,7 @@ ht-degree: 3%
 
 * **會議績效儀表板**：檢視已預約多少會議，以及正在預約誰。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -258,7 +258,7 @@ ht-degree: 3%
 
 * **新Dynamic Chat活動**：新活動，可支援交談流程、即時聊天和其他新功能。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -272,7 +272,7 @@ ht-degree: 3%
 
 * **即時聊天通知**：當訪客請求即時聊天時，代理會收到即時應用程式內和瀏覽器通知。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -286,7 +286,7 @@ ht-degree: 3%
 
 * **銷售分析作業通知**：具有Sales Insight Actions的代理程式將在Sales Insight Actions面板中收到即時聊天請求通知。
 
-<table width="400">
+<table>
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -300,7 +300,7 @@ ht-degree: 3%
 
 * **團隊**：建立代理團隊，將訪客路由至該團隊以進行即時聊天或會議預訂。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -314,7 +314,7 @@ ht-degree: 3%
 
 * **觸發新活動的權杖**：有新的觸發權杖可用來支援Dynamic Chat的新活動。
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
