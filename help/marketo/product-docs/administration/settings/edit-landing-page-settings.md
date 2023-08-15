@@ -4,10 +4,10 @@ description: 編輯登陸頁面設定 — Marketo檔案 — 產品檔案
 title: 編輯登陸頁面設定
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 0%
+source-wordcount: '231'
+ht-degree: 1%
 
 ---
 
@@ -45,10 +45,6 @@ ht-degree: 0%
 
    ![](assets/edit-landing-page-settings-5.png)
 
-1. 若要防止惡意網站看似託管您的內容，請檢查 **[!UICONTROL 不允許將Marketo頁面內嵌在外部網頁中]** 核取方塊。
-
-   ![](assets/edit-landing-page-settings-6.png)
-
    >[!NOTE]
    >
    >如果您想要預填 `<script>` 標籤的後面 `<head>` 標籤時，請檢查 **[!UICONTROL 在標題末尾插入預填指令碼]** 方塊。 如果您希望它顯示在開頭，請保持取消勾選狀態。
@@ -57,6 +53,6 @@ ht-degree: 0%
 
 1. 進行選取後，按一下 **[!UICONTROL 儲存]**.
 
-   ![](assets/edit-landing-page-settings-7.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
    做得好！您的登入頁面現在擁有正確的資訊，應該會立即開始運作。
