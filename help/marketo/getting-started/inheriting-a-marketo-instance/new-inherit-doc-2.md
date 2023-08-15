@@ -3,9 +3,9 @@ description: 繼承檔案2 - Marketo檔案 — 產品檔案
 title: 繼承Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '384'
 ht-degree: 1%
 
 ---
@@ -40,13 +40,13 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>行銷活動已暫停</td> 
-   <td><li>您的行銷活動暫停標準為何？ 是否有太多行銷人員被停職？</li>
+   <td><li>您的條件為何？ <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">行銷已暫停</a>？ 是否有太多行銷人員被停職？</li>
 <li>記錄處於行銷暫停狀態多久了？</li>
 <p>行銷活動暫停的使用案例範例：記錄積極參與後期商機的銷售，而您想要為其隱藏行銷通訊的人員。</td>
   </tr>
    <tr> 
    <td>封鎖清單</td> 
-   <td><li>您的封鎖清單條件為何？ 列入封鎖名單的人是否太多？</li></td>
+   <td><li>您的條件為何？ <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">加入封鎖清單記錄</a>？ 列入封鎖名單的人是否太多？</li></td>
   </tr>
   <tr> 
    <td>退回的電子郵件地址</td> 
@@ -54,11 +54,11 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>可能的重複專案</td> 
-   <td><li>可能存在多少筆重複的記錄？ 請考慮刪除或合併這些專案。</li></td>
+   <td><li>數量 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">可能重複的記錄</a> 有嗎？ 請考慮刪除或合併這些專案。</li></td>
   </tr>
    <tr> 
    <td>無贏取計畫</td> 
-   <td><li>有多少人沒有贏取計畫？ 如果有很多，請考慮調查原因。</li></td>
+   <td><li>有多少人沒有 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">贏取方案</a>？ 如果有很多，請考慮調查原因。</li></td>
   </tr>
  </tbody> 
 </table>
@@ -75,7 +75,7 @@ ht-degree: 1%
    <td>群組智慧清單</td> 
    <td><li>有哪些群組智慧清單？ 在此例項中如何使用它們？</li>
 <li>清單是否以有凝聚力的資料夾結構組織？ 如果您有孤立清單，請考慮組織您的樹狀結構，以便輕鬆找到資產。</li>
-<p>提示：不再需要用於查詢、報告或參考的封存群組智慧清單，以協助組織和效能。</td>
+<p>秘訣： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">封存</a> 群組不再需要用於查詢、報告或參考的智慧清單，以協助組織和效能。</td>
   </tr>
  </tbody> 
 </table>

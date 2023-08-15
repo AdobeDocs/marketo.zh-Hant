@@ -4,9 +4,9 @@ description: Account Insight外掛程式概述 — Marketo檔案 — 產品檔�
 title: Account Insight外掛程式概述
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,9 @@ Account Insight是一種Chrome外掛程式，可向您的銷售團隊呈現可�
 
 >[!AVAILABILITY]
 >
->所有同時擁有TAM和Marketo Sales Insight的客戶皆可納入Account Insight。 對於只有TAM的客戶，帳戶分析可作為購買的附加元件使用。 每個客戶最多只能擁有250個Account Insight席位。 如需詳細資訊，請聯絡您的銷售代表。 沒有TAM的客戶無法使用。
+>* 所有同時擁有TAM和Marketo Sales Insight的客戶皆可納入Account Insight。 對於只有TAM的客戶，帳戶分析可作為購買的附加元件使用。 每個客戶最多只能擁有250個Account Insight席位。 如需詳細資訊，請聯絡您的銷售代表。 沒有TAM的客戶無法使用。
+>
+>* 此外掛程式與不相容 [Adobe身分驗證](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} 此時。
 
 >[!CAUTION]
 >
