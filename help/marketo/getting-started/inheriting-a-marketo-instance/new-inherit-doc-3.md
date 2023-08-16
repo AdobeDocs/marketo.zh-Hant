@@ -3,7 +3,7 @@ description: 繼承檔案3 - Marketo檔案 — 產品檔案
 title: 繼承Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 0%
@@ -28,19 +28,19 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>命名慣例</td> 
-   <td><li>您的程式是否有一致的命名慣例？</li></td>
+   <td><li>您的程式是否一致 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#naming-schemes" target="_blank">命名慣例</a>？</li></td>
   </tr>
   <tr> 
    <td>資料夾結構</td> 
-   <td><li>您是否有一致且易於瀏覽的檔案夾結構？</li></td>
+   <td><li>您是否有一致且易於瀏覽 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#folders" target="_blank">資料夾結構</a>？</li></td>
   </tr>
   <tr> 
    <td>計畫</td> 
    <td><li>有擁有計畫範本的卓越中心嗎？ 如果是，方案範本對團隊的使用案例是否有意義？</li>
-<li>類似的計畫型別是否具有一致的結構化？</li>
-<li>週期成本是否已設定妥當？</li>
-<li>所有方案是否已同步至SFDC行銷活動（如果適用）？</li>
-<li>您是否擁有將贏取方案指派給人員的流程步驟？</li></td>
+<li>類似的計畫型別 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">一致的結構化</a>？</li>
+<li>為 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">期間成本</a> 就位？</li>
+<li>全部為計畫嗎 <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">已同步至SFDC行銷活動</a> （如果適用）？</li>
+<li>您是否擁有流程步驟來指派 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">贏取方案</a> 對人？</li></td>
   </tr>
   <tr> 
    <td>封存</td> 

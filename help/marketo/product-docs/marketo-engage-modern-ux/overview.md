@@ -3,10 +3,10 @@ description: 概覽 — Marketo檔案 — 產品檔案
 title: 概觀
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
-source-wordcount: '479'
-ht-degree: 1%
+source-wordcount: '434'
+ht-degree: 2%
 
 ---
 
@@ -21,14 +21,6 @@ ht-degree: 1%
 >* *.marketo.com
 >* *.marketodesigner.com
 >* *.mktoweb.com
-
-## 進行導覽 {#take-the-tour}
-
-第一次登入時，畫面會顯示快顯視窗，提供您新體驗的摘要。 注意，如果您選擇略過，則會 **非** 稍後提供。
-
-![](assets/overview-1.png)
-
-此導覽會帶您瞭解所需的一切！
 
 ## 新增功能 {#whats-new}
 
