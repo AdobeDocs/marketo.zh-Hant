@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: cb45578229c50300840660fc2a5629341ecfa98e
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
 source-wordcount: '9012'
 ht-degree: 0%
@@ -366,7 +366,7 @@ ht-degree: 0%
             + [尋找收入階段的所有人員](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-all-people-in-a-revenue-stage.md)
             + [尋找並合併重複人員](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)
             + [使用自訂邏輯尋找重複的人員](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md)
-            + [找出個人的活動記錄](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)
+            + [尋找個人的活動記錄](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)
             + [瞭解匿名活動和人員](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)
             + [使用智慧清單中的清單成員](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/use-members-of-list-in-a-smart-list.md)
             + [在清單或智慧清單中使用快速尋找](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/use-quick-find-in-a-list-or-smart-list.md)
@@ -403,7 +403,7 @@ ht-degree: 0%
             + [在程式中使用期間成本](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + 程式庫 {#program-library}
             + [程式匯入程式庫概觀](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [內容管理程式範例](product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md)
+            + [同意管理方案範例](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-example.md)
          + 程式效能報表 {#program-performance-report}
             + [建立方案效能報表](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [新增方案狀態列到方案報告](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
@@ -428,7 +428,7 @@ ht-degree: 0%
             + [使用全域覆蓋](product-docs/core-marketo-concepts/programs/program-schedule-view/using-a-global-overlay.md)
          + Token {#tokens}
             + [管理我的Token](product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
-            + [瞭解方案中的我的Token](product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+            + [瞭解程式中的我的Token](product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
             + [方案成員自訂欄位權杖](product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)
       + 行銷行事曆 {#marketing-calendar}
          + 瞭解行事曆 {#understanding-the-calendar}

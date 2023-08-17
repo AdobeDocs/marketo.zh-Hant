@@ -3,9 +3,9 @@ description: 繼承檔案3 - Marketo檔案 — 產品檔案
 title: 繼承Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '833'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>Token</td> 
-   <td><li>Token是否用於定期使用的程式型別？ KG — 仔細檢查意義如果沒有，您應該考慮使用它們來提高效率。</li>
+   <td><li>代號會用於您最常用的程式型別嗎？ 如果沒有，您應考慮使用它們來提高效率。</li>
 <li>如果實作代號，是否有全域資料夾代號？ 如何使用它們？</li></td>
   </tr>
   <tr> 
