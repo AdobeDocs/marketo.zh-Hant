@@ -3,9 +3,9 @@ description: 繼承檔案1 - Marketo檔案 — 產品檔案
 title: 繼承檔案1
 hide: true
 hidefromtoc: true
-source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
+source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
 workflow-type: tm+mt
-source-wordcount: '1206'
+source-wordcount: '1223'
 ht-degree: 1%
 
 ---
@@ -55,7 +55,8 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>沙箱（如果適用）</td> 
-   <td><li>您是否有 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">沙箱執行個體</a>？ 如果是這樣的話，請檢閱上述適用於您的沙箱的類別。</li>
+   <td><li>您是否有 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">沙箱執行個體</a>？ 
+   <br/>如果是這樣的話，請檢閱上述適用於您的沙箱的類別。</li>
 <li>是 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">程式匯入</a> 連結至您的沙箱？</li></td>
   </tr>
  </tbody> 
@@ -110,8 +111,8 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>Smart Campaign設定</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">您是否有限制</a> 是否在Smart Campaign規模上？</li>
-<li>如果沒有，請考慮新增一個。 我們建議將智慧行銷活動限制限制限製為資料庫的25%，以避免在工作流程中過度通訊或處理整個資料庫，這不僅可保護您的品牌，還有助於保護執行個體的效能。</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">您是否有限制</a> 是否在Smart Campaign規模上？ 
+   <br/>如果沒有，請考慮新增一個。 我們建議將智慧型行銷活動限制限制限製為資料庫的25%，以避免在工作流程中過度通訊或處理整個資料庫；這不僅可保護您的品牌，還有助於保護執行個體的效能。 公斤 — 這正確嗎？</li></td>
   </tr>
  </tbody> 
 </table>
@@ -127,7 +128,7 @@ ht-degree: 1%
   <tr> 
    <td>通訊限制</td> 
    <td><li>有嗎 <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">通訊限制</a> 就位？ 貴企業是否有可能需要通訊限制的原則？</li>
-<li>Adobe建議您將通訊限製為每天1次，每7天3次，使用 <b>非</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">營運</a> 已封鎖電子郵件。</li></td>
+<p>注意：Adobe建議您將通訊限製為每天1次，每7天3次，使用 <b>非</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">營運</a> 已封鎖電子郵件。 公斤 — 這正確嗎？</td>
   </tr>
  </tbody> 
 </table>
@@ -171,19 +172,23 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>欄位管理</td> 
-   <td><li>有多少欄位？ 按一下 <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">匯出欄位名稱</a> 以檢閱欄位、自訂欄位及其API名稱的清單。</li>
+   <td><li>有多少欄位？ 
+   <br/>按一下 <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">匯出欄位名稱</a> 以檢閱欄位、自訂欄位及其API名稱的清單。</li>
 <li>數量 <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">自訂欄位</a> 有嗎？</li>
-<li>使用了多少欄位？ 選取 <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">匯出使用者</a> 欄位動作下拉式清單中，可供檢閱欄位的相關資產。</li>
+<li>使用了多少欄位？ 
+<br/>選取 <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">匯出使用者</a> 欄位動作下拉式清單中，可供檢閱欄位的相關資產。</li>
 <li>Marketo Engage與您的CRM之間同步了多少次？</li>
 <li>CRM欄位是否已同步至適當的物件？</li>
 <li>是否有 <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">自訂檢視集</a> 以取得人員詳細資料？ 應該有嗎？</li>
-<li>根據來源，您的欄位是否有命名慣例？ 如果沒有，請考慮實作此專案。</li>
-<li>是否有任何欄位 <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">已封鎖</a>？ 請務必瞭解原因。</li></td>
+<li>根據來源，您的欄位是否有命名慣例？ 
+<br/>如果沒有，請考慮實作此專案。</li>
+<li>是否有任何欄位 <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">已封鎖</a>？ 
+<br/>請務必瞭解原因。</li></td>
   </tr>
   <tr> 
    <td>自訂活動</td> 
    <td><li>是否有任何 <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">自訂活動</a>？</li>
-<li>若是如此，請按一下這些欄位，瞭解哪些活動與Marketo表單、電子郵件或登入頁面無關。</li></td>
+<br/>若是如此，請按一下這些欄位，瞭解哪些活動與Marketo表單、電子郵件或登入頁面無關。</td>
   </tr>
   <tr> 
    <td>自訂物件</td> 
@@ -205,7 +210,8 @@ ht-degree: 1%
    <td>CRM</td> 
    <td><li>您正在同步至哪個CRM？ Salesforce? MS Dynamics？ 維耶娃？</li>
 <li>自訂同步還是雙向？ （KG：修正文法並檢查重要性）</li>
-<li>[僅限Salesforce]您的執行個體是否已實作自訂同步篩選器？ 請聯絡Marketo支援以識別自訂同步篩選器，或要求實作自訂同步規則。</li></td>
+<li>[僅限Salesforce]您的執行個體是否已實作自訂同步篩選器？ 
+<p>注意：請聯絡Marketo支援以識別自訂同步篩選器，或要求實施自訂同步規則。</li></td>
   </tr>
   <tr> 
    <td>登陸頁面</td> 
@@ -216,25 +222,28 @@ ht-degree: 1%
 <li>為 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">個人化URL</a> 已啟用？</li>
 <li>是否已為以下專案設定規則： <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">重新導向</a>？</li>
 <li>您有設定好的網域別名嗎？ 您是否透過檔案追蹤您如何使用網域別名？</li>
-<li>是 <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">登陸頁面的安全網域</a> 已啟用？ 確認您的登入頁面資產是否包含「http」URL。</li></td>
+<li>是 <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">登陸頁面的安全網域</a> 已啟用？ 
+<br/>確認您的登入頁面資產是否包含「http」URL。</li></td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
    <td><li>是您的 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin追蹤程式碼</a> (不在Marketo中)？</li>
 <li>是 <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">不要追蹤</a> 瀏覽器請求已啟用？</li>
-<li>是您的 <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 已設定？ 如果您遺失munchkin程式碼在網站上的位置檔案，請在基本的「Analytics」中使用「網頁分析報表」，以快速檢視方式開始瞭解Munchkin程式碼在您網站上的放置位置。</li></td>
+<li>是您的 <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 已設定？ 
+<p>提示：如果您遺失munchkin程式碼在您網站上的位置的檔案，請在基本的「Analytics」中使用「網頁分析報表」，開始快速檢視，以瞭解Munchkin程式碼在您網站上的放置位置。 公斤 — 這是好的秘訣</li></td>
   </tr>
   <tr> 
    <td>網站服務</td> 
    <td><li>為 <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP限制</a> 已啟用？ 他們應該是？</li>
 <li>哪些使用者/應用程式正在您的執行個體中進行API呼叫？</li>
-<li>您是否達到或接近達到API限制？ 如果是這樣的話，請考慮增加此功能或稽核您的執行個體，以叫停這些API呼叫。</li></td>
+<li>您是否達到或接近達到API限制？ 
+<br/>如果是這樣的話，請考慮增加此功能或稽核您的執行個體，以叫停這些API呼叫。</li></td>
   </tr>
   <tr> 
    <td>Marketo Sales Insight （如果適用）</td> 
    <td><li>具有 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">已安裝MSI套件</a>？</li>
 <li>有您 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">升級至最新版Sales Insight</a>？</li>
-<li>您是否已完成Sales Insight設定？ 企業/無限制使用者 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">按一下這裡</a>，專業使用者 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">按一下這裡</a>.</li>
+<li>您是否已完成Sales Insight設定？ <br/>企業/無限制使用者 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">按一下這裡</a>，專業使用者 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">按一下這裡</a>.</li>
 <li>有您 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">為您的使用者授與存取權</a> 是否根據您購買的座位數？</li></td>
   </tr>
   <tr> 
@@ -272,7 +281,7 @@ ht-degree: 1%
   <tr> 
    <td>行銷活動檢視窗</td> 
    <td><li>是 <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">行銷活動檢視窗</a> 已開啟？</li>
-<li>如果沒有，請考慮將其開啟，以輕鬆識別哪些促銷活動正在作用中、與您的CRM同步，及/或刪除記錄。</li></td>
+<br/>如果沒有，請考慮開啟以輕鬆識別哪些促銷活動：作用中、與您的CRM同步，及/或刪除記錄。</td>
   </tr>
  </tbody> 
 </table>

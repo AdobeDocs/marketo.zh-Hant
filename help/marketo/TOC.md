@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
+source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
 workflow-type: tm+mt
-source-wordcount: '9012'
+source-wordcount: '9021'
 ht-degree: 0%
 
 ---
@@ -43,6 +43,9 @@ ht-degree: 0%
       + [檢閱內容：核心技能](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [取得協助的方式](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
       + [新增繼承檔案1](getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+      + [新增繼承檔案2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+      + [新增繼承檔案3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+      + [新增繼承檔案4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
 + 產品檔案 {#product-docs}
    + 其他應用程式 {#additional-apps}
       + SEO {#seo}
