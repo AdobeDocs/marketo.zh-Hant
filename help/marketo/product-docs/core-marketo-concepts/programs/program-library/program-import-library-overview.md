@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Programs
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: 8036938e0c01695303fa4e7a7477b6f8632911a8
+source-git-commit: 790c5b6fdba2c63d262099a996449a190c8a9be3
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
  — 在此處Marketo Engage程式匯入程式庫資訊 — 
 
-* [OP內容管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md){target="_blank"}
+* [OP內容管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/consent-management-program-example.md){target="_blank"}
 
 * OP — 傳遞性管理
 
