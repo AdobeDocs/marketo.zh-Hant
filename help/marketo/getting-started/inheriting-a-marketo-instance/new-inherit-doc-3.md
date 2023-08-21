@@ -3,9 +3,9 @@ description: 繼承檔案3 - Marketo檔案 — 產品檔案
 title: 繼承Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,8 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>計畫</td> 
-   <td><li>KG — 這是否仍相關，是否有 <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">卓越中心</a> 使用計畫範本？ 如果是，方案範本對團隊的使用案例是否有意義？</li>
+   <td><li>KG — 這是否仍相關，是否有 <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">卓越中心</a> 使用計畫範本？ 
+   <br/>如果是，方案範本對團隊的使用案例是否有意義？</li>
 <li>類似的計畫型別 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">一致的結構化</a>？</li>
 <li>為 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">期間成本</a> 就位？</li>
 <li>全部為計畫嗎 <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">已同步至SFDC行銷活動</a> （如果適用）？</li>
@@ -44,7 +45,8 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>封存</td> 
-   <td><li>較舊的程式 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">已封存</a>？ 最佳實務是每年檢閱。</li>
+   <td><li>較舊的程式 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">已封存</a>？ 
+   <br/>最佳實務是每年檢閱。 KG — 這是否成立</li>
 <li>貴公司多久稽核一次並封存一次舊計畫？</li></td>
   </tr>
   <tr> 
@@ -56,7 +58,7 @@ ht-degree: 0%
    <td>智慧清單訂閱 
    <br/>（行銷活動/訂閱索引標籤）</td> 
    <td><li>是否仍在進行中 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">智慧清單訂閱</a> 在您的執行個體中？ 如果有的話，他們會去找誰？</li>
-<p>提示：請考慮設定智慧列示訂閱，以移至團隊別名，而非個人。 若有休假或休假的員工，此服務將涵蓋您的所有需求。</td>
+<p>提示：請考慮設定智慧列示訂閱，以移至團隊別名，而非個人。 若有個人不在辦公室，此功能即可協助您。</td>
   </tr>
  </tbody> 
 </table>
@@ -71,14 +73,17 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>Token</td> 
-   <td><li>代號會用於您最常用的程式型別嗎？ 如果沒有，您應考慮使用它們來提高效率。</li>
+   <td><li>代號會用於您最常用的程式型別嗎？ 
+   <br/>如果沒有，您應考慮使用它們來提高效率。</li>
 <li>如果實作代號，是否有全域資料夾代號？ 如何使用它們？</li></td>
   </tr>
   <tr> 
    <td>參與計畫</td> 
    <td><li>有現場嗎 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">參與計畫</a> 執行中？</li>
-<li>數量 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">人已疲憊</a>？ 如果有很多人筋疲力盡，請考慮新增內容。</li>
-<li>使用者是否參與內容？ 如果沒有，請考慮更新它及/或A/B測試。</li>
+<li>數量 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">人已疲憊</a>？ 
+<br/>如果有很多人筋疲力盡，請考慮新增內容。</li>
+<li>使用者是否參與內容？ 
+<br/>如果沒有，請考慮更新它及/或A/B測試。</li>
 <li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">有多少人</a> KG — 是否有辦法同時檢視所有程式？ 不這麼認為，但請確保參加多個參與計畫？ 它們應該位於多個中嗎？</li></td>
   </tr>
   <tr> 
@@ -96,16 +101,16 @@ ht-degree: 0%
    <td>本機Forms</td> 
    <td><li>有多少程式具有本機 <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">表單</a>？ 這些表單是否應該變成全域表單？</li>
 <li>他們是否可為您的行銷和銷售團隊擷取適當的資料？</li>
-<p>提示：限制本機表單的數量，以方便根據資料隱私權、選擇加入/選擇退出政策的變更進行更新和調整？ 建立表單時，請考量哪些問題需要詢問，如果收集的資訊沒有變更且進階表單功能沒有轉移 — 請考慮全域表單，而不是本機表單。</td>
+<p>提示：限制本機表單的數量，以方便根據資料隱私權和選擇加入/選擇退出政策的變更進行更新和調整。 考慮建立表單時，需要問哪些問題？ 如果收集的資訊沒有變更且進階表單功能沒有轉移，請考慮使用全域表單，而非本機表單。 公斤 — 確認這個</td>
   </tr>
   <tr> 
    <td>全域Forms</td> 
-   <td><li>您會在哪裡使用 <a href="/help/marketo/product-docs/administration/settings/global-form-validation-rules.md" target="_blank">全域表單</a>？ (Marketo登陸頁面與非Marketo登陸頁面)</li>
-<li>您的全域表單如何將使用者引導至 <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md" target="_blank">感謝頁面</a>？ （透過隱藏表單欄位或CMS頁面範本中）</li>
+   <td><li>您會在哪裡使用 <a href="/help/marketo/product-docs/administration/settings/global-form-validation-rules.md" target="_blank">全域表單</a>？ (Marketo Engage登陸頁面與非Marketo Engage登陸頁面)</li>
+<li>您的全域表單如何將使用者引導至 <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md" target="_blank">感謝頁面</a> （透過隱藏的表單欄位或在CMS的頁面範本中）？</li>
 <li>是否有您應考慮新增或移除的表單欄位？</li>
 <li>是否有您應變更的挑選清單值？</li>
 <li>您是否需要考慮 <a href="/help/marketo/product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md" target="_blank">漸進式設定檔</a>？</li>
-<li>您的所有必要欄位均已納入CRM同步和行銷需求嗎？</li>
+<li>您的所有CRM同步和行銷需求必要欄位均已納入嗎？</li>
 <li>您的全球表單是否考量到您的資料隱私權和選擇加入策略及管理的法律要求？</li></td>
   </tr>
  </tbody> 
@@ -127,7 +132,7 @@ ht-degree: 0%
   <tr> 
    <td>個人來源</td> 
    <td><li>您是否擁有集中式程式，可指派值給人員來源欄位？</li>
-<p>備註：無論作業程式為何，Marketo Engage都會自動收集「來源」欄位中的資料。</td>
+<p>注意：Marketo Engage會自動收集來源欄位中的資料，無論作業程式為何。</td>
   </tr>
   <tr> 
    <td>資料標準化</td> 
@@ -139,13 +144,14 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>隱私權與合規性</td> 
-   <td><li>您有計畫確保您符合資料隱私權和垃圾郵件法規嗎？ 考慮 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>、 CASL、CAN-SPAM、CCPA等。</li>
+   <td><li>您有計畫確保您符合資料隱私權和垃圾郵件法規嗎？ 
+   <br/>考慮 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>、 CASL、CAN-SPAM、CCPA等。</li>
 <p>秘訣：請記得隨時向法律團隊諮詢這些問題。 在進行任何變更之前，請向您的團隊詢問先前的行動方案，以維持法規遵循。</td>
   </tr>
   <tr> 
    <td>生命週期</td> 
    <td><li>您是否擁有可在人員生命週期中移動人員的計畫？</li>
-<li>「人員狀態」有哪些值可用？</li></td>
+<li>人員狀態有哪些可用值？</li></td>
   </tr>
   <tr> 
    <td>電子郵件傳遞能力</td> 

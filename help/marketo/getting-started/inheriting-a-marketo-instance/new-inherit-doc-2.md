@@ -3,7 +3,7 @@ description: 繼承檔案2 - Marketo檔案 — 產品檔案
 title: 繼承Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 1%
@@ -30,7 +30,8 @@ ht-degree: 1%
    <td>所有人員</td> 
    <td><li>有多少人存在於 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">資料庫</a>？</li>
 <li>如果您的資料庫接近滿容量，公司政策是否建議您擴充資料庫大小或清除歷史資料？</li>
-<li>您的整體資料庫是否至少有85%是行銷的？ 如果您的清單低於此臨界值，請仔細檢視其他系統智慧清單（封鎖清單、行銷活動暫停、重複、取消訂閱）。</li></td>
+<li>您的整體資料庫是否至少有85%是行銷的？ 
+<br/>如果您的清單低於此臨界值，請仔細檢視其他系統智慧清單（封鎖清單、行銷活動暫停、重複、取消訂閱）。</li></td>
   </tr>
   <tr> 
    <td>已取消訂閱的人員</td> 
@@ -40,9 +41,9 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>行銷活動已暫停</td> 
-   <td><li>您的條件為何？ <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">行銷已暫停</a>？ 是否有太多行銷人員被停職？</li>
-<li>記錄處於行銷暫停狀態多久了？</li>
-<p>行銷活動暫停的使用案例範例：記錄積極參與後期商機的銷售，而您想要為其隱藏行銷通訊的人員。</td>
+   <td><li>您的條件為何？ <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">行銷已暫停</a>？ 行銷活動被暫停的人是否太多？</li>
+<li>記錄處於行銷活動暫停狀態多久了？</li>
+<p>「行銷活動已暫停」使用案例範例：積極參與要抑制行銷通訊之後期商機中銷售活動的記錄。</td>
   </tr>
    <tr> 
    <td>封鎖清單</td> 
@@ -54,11 +55,13 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>可能的重複專案</td> 
-   <td><li>數量 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">可能重複的記錄</a> 有嗎？ 請考慮刪除或合併這些專案。</li></td>
+   <td><li>數量 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">可能重複的記錄</a> 有嗎？
+   <br/>請考慮刪除或合併這些專案。</li></td>
   </tr>
    <tr> 
    <td>無贏取計畫</td> 
-   <td><li>有多少人沒有 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">贏取方案</a>？ 如果有很多，請考慮調查原因。</li></td>
+   <td><li>有多少人沒有 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">贏取方案</a>？
+   <br/>如果有很多，請考慮調查原因。</li></td>
   </tr>
  </tbody> 
 </table>
@@ -74,8 +77,8 @@ ht-degree: 1%
   <tr> 
    <td>群組智慧清單</td> 
    <td><li>有哪些群組智慧清單？ 在此例項中如何使用它們？</li>
-<li>清單是否以有凝聚力的資料夾結構組織？ 如果您有孤立清單，請考慮組織您的樹狀結構，以便輕鬆找到資產。</li>
-<p>秘訣： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">封存</a> 群組不再需要用於查詢、報告或參考的智慧清單，以協助組織和效能。</td>
+<li>清單是否以有凝聚力的資料夾結構組織？ <br/>如果您有孤立清單，請考慮組織您的樹狀結構，以便輕鬆找到資產。</li>
+<p>秘訣： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">封存</a> 群組智慧清單，不再需要這些清單用於查詢、報告或參考，以協助組織和效能。</td>
   </tr>
  </tbody> 
 </table>
@@ -108,7 +111,8 @@ ht-degree: 1%
    <td>區段</td> 
    <td><li>哪個 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">區段</a> 有嗎？ 如何使用它們？</li>
 <li>有太多人在 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">預設區段</a>？</li>
-<li>有針對可銷售對象的細分嗎？ 如果沒有，請考慮建立一個。</li></td>
+<li>有針對可銷售對象的細分嗎？ 
+<br/>如果沒有，請考慮建立一個。</li></td>
   </tr>
  </tbody> 
 </table>

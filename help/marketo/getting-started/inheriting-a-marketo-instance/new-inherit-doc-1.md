@@ -3,7 +3,7 @@ description: 繼承檔案1 - Marketo檔案 — 產品檔案
 title: 繼承檔案1
 hide: true
 hidefromtoc: true
-source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '1223'
 ht-degree: 1%
@@ -55,7 +55,7 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>沙箱（如果適用）</td> 
-   <td><li>您是否有 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">沙箱執行個體</a>？ 
+   <td><li>您是否有 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">沙箱執行個體</a>？
    <br/>如果是這樣的話，請檢閱上述適用於您的沙箱的類別。</li>
 <li>是 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">程式匯入</a> 連結至您的沙箱？</li></td>
   </tr>
@@ -187,8 +187,8 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>自訂活動</td> 
-   <td><li>是否有任何 <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">自訂活動</a>？</li>
-<br/>若是如此，請按一下這些欄位，瞭解哪些活動與Marketo表單、電子郵件或登入頁面無關。</td>
+   <td><li>是否有任何 <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">自訂活動</a>？
+<br/>若是如此，請按一下這些欄位，瞭解哪些活動與Marketo表單、電子郵件或登入頁面無關。</li></td>
   </tr>
   <tr> 
    <td>自訂物件</td> 
@@ -280,8 +280,8 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>行銷活動檢視窗</td> 
-   <td><li>是 <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">行銷活動檢視窗</a> 已開啟？</li>
-<br/>如果沒有，請考慮開啟以輕鬆識別哪些促銷活動：作用中、與您的CRM同步，及/或刪除記錄。</td>
+   <td><li>是 <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">行銷活動檢視窗</a> 已開啟？
+<br/>如果沒有，請考慮開啟以輕鬆識別哪些促銷活動：作用中、與您的CRM同步，及/或刪除記錄。</li></td>
   </tr>
  </tbody> 
 </table>

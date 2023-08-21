@@ -3,7 +3,7 @@ description: 繼承檔案4 - Marketo檔案 — 產品檔案
 title: 繼承檔案4
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 1%
@@ -64,7 +64,8 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>隱私權與合規性</td> 
-   <td><li>您的表單策略是否符合貴公司的資料隱私權和選擇加入要求？ 考慮 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">一般資料保護規範(GDPR)</a>、CASL （加拿大反垃圾郵件法）、2003年控制非請求色情製品攻擊與行銷法案(CAN-SPAM)、加州消費者隱私法(CCPA)等。 法規合規性。</li>
+   <td><li>您的表單策略是否符合貴公司的資料隱私權和選擇加入要求？ 
+   <br/>考慮 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">一般資料保護規範(GDPR)</a>、CASL （加拿大反垃圾郵件法）、2003年控制非請求色情製品攻擊與行銷法案(CAN-SPAM)、加州消費者隱私保護法(CCPA)等，以符合法規。</li>
 <p>秘訣：請記得隨時向法律團隊諮詢這些問題。 在進行任何變更之前，請向您的團隊詢問先前的行動方案，以維持法規遵循。</td>
   </tr>
  </tbody> 
@@ -104,7 +105,8 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>代碼片段</td> 
-   <td><li>數量 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">代碼片段</a> 有嗎？ 它們是否正在使用？ 如果沒有，請考慮將其用於 <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">電子郵件</a> 和 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">登陸頁面</a> 頁尾內容、圖志等。</li></td>
+   <td><li>數量 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">代碼片段</a> 有嗎？ 它們是否正在使用？ 
+   <br/>如果沒有，請考慮將其用於 <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">電子郵件</a> 和 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">登陸頁面</a> 頁尾內容、圖志等。</li></td>
   </tr>
  </tbody> 
 </table>
