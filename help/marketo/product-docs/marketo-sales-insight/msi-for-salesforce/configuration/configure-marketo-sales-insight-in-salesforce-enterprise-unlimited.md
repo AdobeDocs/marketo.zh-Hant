@@ -4,9 +4,9 @@ description: 在Salesforce Enterprise/Unlimited中設定Marketo Sales Insight - 
 title: 在Salesforce Enterprise/Unlimited中設定Marketo Sales Insight
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '847'
 ht-degree: 0%
 
 ---
@@ -147,10 +147,10 @@ ht-degree: 0%
       <td>上一個有趣的時刻型別</td> 
      </tr> 
      <tr> 
-      <td>最後一個Marketo活動（依銷售分列）</td> 
+      <td>依銷售顯示的最後一個活動</td> 
      </tr> 
      <tr> 
-      <td>銷售人員的最後一次Marketo參與</td> 
+      <td>上次參與次數（按銷售者）</td> 
      </tr> 
      <tr> 
       <td>MSI聯絡人ID</td> 
