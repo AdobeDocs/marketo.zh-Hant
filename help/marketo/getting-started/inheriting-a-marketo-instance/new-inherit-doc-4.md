@@ -3,20 +3,16 @@ description: 繼承檔案4 - Marketo檔案 — 產品檔案
 title: 繼承檔案4
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '506'
 ht-degree: 1%
 
 ---
 
 # 繼承檔案4 {#inherit-doc-4}
 
-您是否從其他管理員繼承了現有的Marketo Engage執行個體？ 若是如此，本文會為您提供。
-
->[!TIP]
->
->如果您是新的Marketo Engage使用者，且不熟悉許多術語，請檢視 [Marketo字彙表](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+建構範本和建立全域表單、代碼片段以及影像和檔案，有助於將資料錯誤降至最低，並簡化程式建置的工作流程。
 
 ## 登陸頁面 {#landing-pages}
 
@@ -35,6 +31,10 @@ ht-degree: 1%
    <td><li>數量 <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">登陸頁面範本</a> 有嗎？ 是否正在運用這些工具？</li></td>
   </tr>
   <tr> 
+   <td>測試群組</td> 
+   <td><li>數量 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md" target="_blank">登陸頁面測試群組</a> 是嗎？ 它們是否仍然相關？</li></td>
+  </tr>
+   <tr> 
    <td>隱私權與合規性</td> 
    <td><li>您所有的登入頁面都有適當的頁尾嗎？</li></td>
   </tr>
@@ -88,6 +88,10 @@ ht-degree: 1%
    <td><li>數量 <a href="/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md" target="_blank">電子郵件範本</a> 有嗎？ 是否正在運用這些工具？</li></td>
   </tr>
   <tr> 
+   <td>電子郵件測試</td> 
+   <td><li>您如何使用 <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">電子郵件測試</a>？ 您的方法仍然有效嗎？</li></td>
+  </tr>
+  <tr> 
    <td>隱私權與合規性</td> 
    <td><li>您所有的電子郵件是否都有適當的頁尾？ 考慮GDPR、CASL、CAN-SPAM、CCPA等 合規性影響的資訊。</li>
 <p>提示：請記得一律就這些合規性問題諮詢您的法律團隊。 在進行任何變更之前，請向您的團隊詢問先前的行動方案，以維持法規遵循。</td>
@@ -135,3 +139,30 @@ ht-degree: 1%
   </tr>
  </tbody> 
 </table>
+
+## 所有資產 {#all-assets}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th>區域</th> 
+   <th>評論焦點</th>
+  </tr> 
+  <tr> 
+   <td>資產狀態</td> 
+   <td><li>中有多少資產 <i>草稿</i> 和 <i>已核准且具有草稿</i> 狀態？
+   <br/>如果有許多，請考慮刪除或核准它們。</li></td>
+  </tr>
+  <tr> 
+   <td>資產共用</td> 
+   <td><li>哪些資產 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">在工作區間共用</a>？</li>
+   <p>注意：瞭解這一點很重要，因為在一個工作區中採取的動作可能會導致另一個使用者無法存取不同工作區中的資產。</td>
+  </tr>
+ </tbody> 
+</table>
+
+<br> 
+
+[◄稽核繼承的執行個體：行銷活動](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+
+[稽核繼承的執行個體：記錄您繼承的執行個體設定►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
