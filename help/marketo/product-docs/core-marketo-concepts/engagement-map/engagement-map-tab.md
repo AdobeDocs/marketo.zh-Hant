@@ -2,9 +2,9 @@
 description: 參與地圖示籤 — Marketo檔案 — 產品檔案
 title: 參與地圖示籤
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+source-git-commit: 4ada58abaed493e548573e9c48c3ee544b6f4476
 workflow-type: tm+mt
-source-wordcount: '902'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -122,9 +122,17 @@ ht-degree: 0%
 
 ## 錯誤處理 {#error-handling}
 
-智慧列示和流程步驟中的錯誤會透過卡片中的錯誤圖示醒目提示。 此外，對應的錯誤訊息將會反映在滑出面板中。
+智慧列示和流量步驟中的錯誤會透過卡片中的紅色圖示醒目提示。 此外，對應的錯誤訊息將會反映在滑出面板中。
 
-以下是觸發程式中的錯誤範例，此錯誤會顯示在觸發程式概述卡片、滑出面板和詳細資料觸發程式卡片中。
+智慧清單和流量步驟中的警告會透過卡片中的橘色圖示強調顯示。 此外，對應的警告訊息也會反映在滑出面板中。
+
+以下是「選擇」卡片中的警告範例，該卡片會顯示在「執行Campaign」流程步驟卡片、滑出面板和「預設」選擇卡片中。
+
+![](assets/engagement-map-tab-18.png)
+
+>[!NOTE]
+>
+>警告是可檢閱的建議，但並不表示Smart Campaign發生錯誤。
 
 **篩選器卡片中的錯誤可能包括：**
 
