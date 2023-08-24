@@ -3,20 +3,18 @@ description: 繼承檔案1 - Marketo檔案 — 產品檔案
 title: 繼承檔案1
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '1223'
+source-wordcount: '1229'
 ht-degree: 1%
 
 ---
 
 # 繼承檔案1 {#inherit-doc-1}
 
-稽核繼承的執行個體可能看起來像是……
+身為Adobe Marketo Engage新管理員，您需執行幾項工作，檢查繼承執行個體的健全狀況和可行性。
 
-您是否從其他管理員繼承了現有的Marketo Engage執行個體？ 若是如此，本文僅供您參考……
-
-以下檢查清單已與Marketo Champions的輸入一併輸入，可幫助您在繼承執行個體中快速上手……
+以下核對清單（連結至每篇文章底部的後續核對清單）已與Marketo Champions的輸入一起放在一起，協助您快速上手。 在Marketo Engage繼承的執行個體檢查清單中記錄您的進度。
 
 >[!TIP]
 >
@@ -112,7 +110,7 @@ ht-degree: 1%
   <tr> 
    <td>Smart Campaign設定</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">您是否有限制</a> 是否在Smart Campaign規模上？ 
-   <br/>如果沒有，請考慮新增一個。 我們建議將智慧型行銷活動限制限制限製為資料庫的25%，以避免在工作流程中過度通訊或處理整個資料庫；這不僅可保護您的品牌，還有助於保護執行個體的效能。 公斤 — 這正確嗎？</li></td>
+   <br/>如果沒有，請考慮新增一個。 我們建議將Smart Campaign限制限製為資料庫的25%，以避免在工作流程中過度通訊或處理整個資料庫；這不僅可保護您的品牌，還有助於保護執行個體的效能。</li></td>
   </tr>
  </tbody> 
 </table>
@@ -128,7 +126,7 @@ ht-degree: 1%
   <tr> 
    <td>通訊限制</td> 
    <td><li>有嗎 <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">通訊限制</a> 就位？ 貴企業是否有可能需要通訊限制的原則？</li>
-<p>注意：Adobe建議您將通訊限製為每天1次，每7天3次，使用 <b>非</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">營運</a> 已封鎖電子郵件。 公斤 — 這正確嗎？</td>
+<p>注意：Adobe建議您將通訊限製為每天1次，每7天3次，使用 <b>非</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">營運</a> 已封鎖電子郵件。</td>
   </tr>
  </tbody> 
 </table>
@@ -209,9 +207,9 @@ ht-degree: 1%
   <tr> 
    <td>CRM</td> 
    <td><li>您正在同步至哪個CRM？ Salesforce? MS Dynamics？ 維耶娃？</li>
-<li>自訂同步還是雙向？ （KG：修正文法並檢查重要性）</li>
+<li>您是否使用自訂同步？</li>
 <li>[僅限Salesforce]您的執行個體是否已實作自訂同步篩選器？ 
-<p>注意：請聯絡Marketo支援以識別自訂同步篩選器，或要求實施自訂同步規則。</li></td>
+<p>注意：請聯絡Marketo支援以識別自訂同步篩選器，或要求實作自訂同步規則。</li></td>
   </tr>
   <tr> 
    <td>登陸頁面</td> 
@@ -313,3 +311,7 @@ ht-degree: 1%
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[稽核繼承的執行個體：資料庫►定](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)

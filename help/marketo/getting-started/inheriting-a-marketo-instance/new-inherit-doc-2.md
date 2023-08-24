@@ -3,20 +3,16 @@ description: 繼承檔案2 - Marketo檔案 — 產品檔案
 title: 繼承Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '369'
 ht-degree: 1%
 
 ---
 
 # 繼承Doc 2 {#inherit-doc-2}
 
-您是否從其他管理員繼承了現有的Marketo Engage執行個體？ 若是如此，本文會為您提供。
-
->[!TIP]
->
->如果您是新的Marketo Engage使用者，且不熟悉許多術語，請檢視 [Marketo字彙表](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+瞭解您的訂閱中的總人數、可行銷人員，以及最熱門的人員取得來源。
 
 ## 系統智慧清單 {#system-smart-lists}
 
@@ -116,3 +112,9 @@ ht-degree: 1%
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄稽核繼承的執行個體：管理員](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+
+[稽核繼承的執行個體：行銷活動►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)

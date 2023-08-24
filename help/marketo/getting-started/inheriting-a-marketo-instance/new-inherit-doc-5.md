@@ -3,16 +3,16 @@ description: 繼承檔案5 - Marketo檔案 — 產品檔案
 title: 繼承Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: dcfbd50df5ef642c3c94b96be938a43f30e8288b
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 3%
+source-wordcount: '228'
+ht-degree: 2%
 
 ---
 
 # 繼承Doc 5 {#inherit-doc-5}
 
-文字
+現在您已瞭解在繼承已建立的例項時需稽核的關鍵產品領域，下一步是建立/更新有關執行個體設定和技術棧疊的檔案。 不論您是透過試算表或專案管理應用程式建立檔案，您的檔案都是追蹤進度和記錄詳細資訊的絕佳資源。
 
 ## 資料 {#data}
 
@@ -51,7 +51,7 @@ ht-degree: 3%
   <tr> 
    <td>組織</td> 
     <td><li>您是否擁有健全的檔案，說明您的Marketo Engage執行個體的組織方式以及原因？</li>
-   <p>行動專案：建立包含資料夾結構、命名慣例和管道/規約KG - STATURES的檔案？ 用於您的執行個體。</td>
+   <p>行動專案：建立包含檔案夾結構、命名慣例和執行個體中使用的管道的檔案。</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -69,3 +69,5 @@ ht-degree: 3%
   </tr>
  </tbody> 
 </table>
+
+[◄稽核繼承的執行個體： Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

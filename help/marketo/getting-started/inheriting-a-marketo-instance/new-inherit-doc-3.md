@@ -3,20 +3,16 @@ description: 繼承檔案3 - Marketo檔案 — 產品檔案
 title: 繼承Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '801'
 ht-degree: 0%
 
 ---
 
 # 繼承Doc 3 {#inherit-doc-3}
 
-您是否從其他管理員繼承了現有的Marketo Engage執行個體？ 若是如此，本文會為您提供。
-
->[!TIP]
->
->如果您是新的Marketo Engage使用者，且不熟悉許多術語，請檢視 [Marketo字彙表](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+行銷活動是您的行銷團隊可以建立Smart Campaigns、建立創意資產（例如電子郵件和登陸頁面）及檢視資產效能的地方。
 
 ## 組織 {#organization}
 
@@ -45,9 +41,9 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>封存</td> 
-   <td><li>較舊的程式 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">已封存</a>？ 
-   <br/>最佳實務是每年檢閱。 KG — 這是否成立</li>
-<li>貴公司多久稽核一次並封存一次舊計畫？</li></td>
+   <td><li>較舊的程式 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">已封存</a>？</li>
+<li>貴公司多久稽核一次並封存一次舊計畫？</li>
+<p>秘訣：每年進行一次審查很好。</td>
   </tr>
   <tr> 
    <td>通知</td> 
@@ -83,8 +79,7 @@ ht-degree: 0%
 <li>數量 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">人已疲憊</a>？ 
 <br/>如果有很多人筋疲力盡，請考慮新增內容。</li>
 <li>使用者是否參與內容？ 
-<br/>如果沒有，請考慮更新它及/或A/B測試。</li>
-<li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">有多少人</a> KG — 是否有辦法同時檢視所有程式？ 不這麼認為，但請確保參加多個參與計畫？ 它們應該位於多個中嗎？</li></td>
+<br/>如果沒有，請考慮更新它及/或A/B測試。</li></td>
   </tr>
   <tr> 
    <td>批次行銷活動</td> 
@@ -169,3 +164,9 @@ ht-degree: 0%
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄稽核繼承的執行個體：資料庫](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+
+[稽核繼承的執行個體： Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
