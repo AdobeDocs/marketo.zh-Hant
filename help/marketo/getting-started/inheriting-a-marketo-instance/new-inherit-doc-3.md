@@ -3,9 +3,9 @@ description: 繼承檔案3 - Marketo檔案 — 產品檔案
 title: 繼承Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ ht-degree: 0%
    <td>本機Forms</td> 
    <td><li>有多少程式具有本機 <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">表單</a>？ 這些表單是否應該變成全域表單？</li>
 <li>他們是否可為您的行銷和銷售團隊擷取適當的資料？</li>
-<p>提示：限制本機表單的數量，以方便根據資料隱私權和選擇加入/選擇退出政策的變更進行更新和調整。 考慮建立表單時，需要問哪些問題？ 如果收集的資訊沒有變更且進階表單功能沒有轉移，請考慮使用全域表單，而非本機表單。 公斤 — 確認這個</td>
+<p>提示：限制本機表單的數量，以方便根據資料隱私權和選擇加入/選擇退出政策的變更進行更新和調整。 建立表單時，需要問哪些問題？ 如果收集的資訊沒有變更且進階表單功能沒有轉移，請考慮使用全域表單，而非本機表單。</td>
   </tr>
   <tr> 
    <td>全域Forms</td> 
@@ -131,11 +131,11 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>資料標準化</td> 
-   <td><li>您是否已制定集中式計畫來標準化傳入的資料？ 公斤 — 重複檢查這個</li></td>
+   <td><li>您是否已制定集中式計畫來標準化傳入的資料？</li></td>
   </tr>
   <tr> 
    <td>跳出管理</td> 
-   <td><li>您是否擁有集中式程式來處理 <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">跳出的人</a>？ 公斤 — 這篇2017年的文章仍相關嗎？</li></td>
+   <td><li>您是否擁有集中式程式來處理 <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">跳出的人</a>？</li></td>
   </tr>
   <tr> 
    <td>隱私權與合規性</td> 
