@@ -4,14 +4,18 @@ description: 升級MSI套件 — Marketo檔案 — 產品檔案
 title: 升級MSI封裝
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ddc9242bdf1b3ec34bb2672821b6b054647d94b5
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
 # 升級MSI封裝 {#upgrading-your-msi-package}
+
+>[!IMPORTANT]
+>
+>由於Salesforce的安全性增強，Sales Insight套件無法再授與標準物件的許可權。 今後，Sales Insight使用者的Salesforce設定檔需要具備下列標準物件的讀取存取權：銷售機會、連絡人、帳戶和機會。 [在這裡瞭解如何進行設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#grant-sales-insight-users-profile-access){target="_blank"}.
 
 1. 瀏覽至 [appexchange中的此頁面](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}.
 
