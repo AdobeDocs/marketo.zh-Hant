@@ -4,9 +4,9 @@ description: 在Salesforce Professional Edition中設定Marketo Sales Insight - 
 title: 在Salesforce Professional Edition中設定Marketo Sales Insight
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '962'
 ht-degree: 0%
 
 ---
@@ -121,6 +121,20 @@ ht-degree: 0%
    >[!NOTE]
    >
    >您選擇您的 **遠端站台名稱** （此處使用MarketoAPI）。 此 **遠端站台URL** 您可在步驟4中「編輯API設定」對話方塊的「Marketo主機」欄位中找到。
+
+## 授予Sales Insight使用者對標準Salesforce物件的設定檔存取權 {#grant-sales-insight-users-profile-access}
+
+由於Saleforce安全性增強功能，App Exchange套件無法再授與標準物件的許可權，而必須從Salesforce使用者的設定檔授與相關Salesforce物件的存取權。 請依照下列步驟授予必要的許可權。
+
+1. 按一下 **設定**.
+
+1. 在快速尋找中搜尋「設定檔」。
+
+1. 按一下 **編輯** 在Salesforce使用者使用的設定檔旁。
+
+1. 在「標準物件許可權」區段下，啟用下列物件的「讀取」存取權：銷售機會、連絡人、帳戶和機會。
+
+1. 按一下 **儲存**.
 
 ## 自訂頁面配置 {#customize-page-layouts}
 
