@@ -3,29 +3,59 @@ description: 繼承檔案1 - Marketo檔案 — 產品檔案
 title: 繼承檔案1
 hide: true
 hidefromtoc: true
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: 8d9ea20f04ec6320b31c2d6000240b72a45be959
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1428'
 ht-degree: 1%
 
 ---
 
 # 繼承檔案1 {#inherit-doc-1}
 
-身為Adobe Marketo Engage新管理員，您需執行幾項工作，檢查繼承執行個體的健全狀況和可行性。
-
-以下核對清單（連結至每篇文章底部的後續核對清單）已與Marketo Champions的輸入一起放在一起，協助您快速上手。 在Marketo Engage繼承的執行個體檢查清單中記錄您的進度。
+以下核對清單（連結至每篇文章底部的後續核對清單）已與Marketo Champions的輸入一起放在一起，協助您快速上手。 您也可以下載檢查清單並追蹤進度。
 
 >[!TIP]
 >
 >如果您是新的Marketo Engage使用者，且不熟悉許多術語，請檢視 [Marketo字彙表](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+
+## Adobe Admin Console {#adobe-admin-console}
+
+<table> 
+ <tbody> 
+  <tr> 
+   <th style="width:25%">區域</th> 
+   <th>評論焦點</th>
+  </tr> 
+  <tr> 
+   <td>訂閱</td> 
+   <td><li>您的Marketo Engage訂閱日期是 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">AdobeIdentity Management系統</a> (Adobe IMS)了嗎？ 
+<br/>
+若是如此，您的「Adobe Admin Console系統管理員」是否已授予您「Adobe Admin Console產品管理員」角色？ 如果您不確定貴組織中的哪些人擁有主控台中的管理員許可權，請聯絡 <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe客戶服務</a>.  
+<br/>否則，您將繼續 <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">舊版使用者角色和許可權體驗</a> 前往「Marketo Engage&gt;管理員&gt;使用者與角色」 ，直到您的訂閱續訂為止。</li></td>
+  </tr>
+  <tr> 
+   <td>產品設定檔</td> 
+   <td>(Adobe IMS訂閱 <b>僅限</b>)
+<p>
+<li>您已獲得「Marketo Engage/管理員/使用者與角色」的「Marketo Engage產品管理員」角色嗎？</li> 
+<li>您是否將Marketo Engage指派給Adobe Admin Console中所有適當使用者的產品設定檔？
+<br/>如果沒有，請務必先將Marketo Engage指派給其Adobe IMS產品設定檔，然後再指派他們在Marketo Engage/管理員/使用者和角色中的角色。</li>
+<p>注意：如果您的訂閱有超過75名使用者，且剛移轉至Adobe IMS，您可選擇將使用者選取為批次移轉，並以群組或一次管理其Adobe識別。 進一步瞭解未來趨勢 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS移轉日</a>.</td>
+  </tr>
+  <tr> 
+   <td>使用者管理API</td> 
+   <td><li>您的訂閱是否使用任何Marketo User Management API？
+<br/>若是如此，您將需要使用 <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS API</a> 邀請、更新及刪除使用者。</li></td>
+  </tr>
+ </tbody> 
+</table>
 
 ## 使用者和角色 {#users-and-roles}
 
 <table> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:25%">區域</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -47,6 +77,10 @@ ht-degree: 1%
 <li>您的使用者角色和許可權是否與公司資料一致 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">隱私權原則</a>？</li></td>
   </tr>
   <tr> 
+   <td>支援使用者</td> 
+   <td><li>您是否設定了適當的 <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">授權連絡人</a> 在支援入口網站？</li></td>
+  </tr>
+  <tr> 
    <td>內部檔案</td> 
    <td><li>貴組織中是否清楚定義使用者和角色？</li>
 <li>您新增使用者/管理員的程式為何？</li></td>
@@ -54,7 +88,7 @@ ht-degree: 1%
   <tr> 
    <td>沙箱（如果適用）</td> 
    <td><li>您是否有 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">沙箱執行個體</a>？
-   <br/>如果是這樣的話，請檢閱上述適用於您的沙箱的類別。</li>
+   <br/>  如果是這樣的話，請檢閱上述適用於您的沙箱的類別。</li>
 <li>是 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">程式匯入</a> 連結至您的沙箱？</li></td>
   </tr>
  </tbody> 
@@ -65,7 +99,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:25%">區域</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -80,7 +114,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:25%">區域</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -94,7 +128,7 @@ ht-degree: 1%
   <tr> 
    <td>內部檔案</td> 
    <td><li>如何定義工作區和分割區？</li>
-<li>將工作區新增至您的執行個體或將使用者新增至工作區的程式為何？</li></td>
+<li>將Workspaces新增至您的執行個體或新增使用者至Workspace的程式為何？</li></td>
   </tr>
  </tbody> 
 </table>
@@ -104,7 +138,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:25%">區域</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -120,7 +154,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:25%">區域</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -136,7 +170,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:25%">區域</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -165,7 +199,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:25%">區域</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -175,13 +209,13 @@ ht-degree: 1%
 <li>數量 <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">自訂欄位</a> 有嗎？</li>
 <li>使用了多少欄位？ 
 <br/>選取 <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">匯出使用者</a> 欄位動作下拉式清單中，可供檢閱欄位的相關資產。</li>
-<li>Marketo Engage與您的CRM之間同步了多少次？</li>
+<li>Marketo Engage與您的CRM之間同步了多少欄位？</li>
 <li>CRM欄位是否已同步至適當的物件？</li>
 <li>是否有 <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">自訂檢視集</a> 以取得人員詳細資料？ 應該有嗎？</li>
 <li>根據來源，您的欄位是否有命名慣例？ 
 <br/>如果沒有，請考慮實作此專案。</li>
 <li>是否有任何欄位 <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">已封鎖</a>？ 
-<br/>請務必瞭解原因。</li></td>
+<br/>若是如此，請務必瞭解原因。</li></td>
   </tr>
   <tr> 
    <td>自訂活動</td> 
@@ -201,13 +235,13 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:25%">區域</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
    <td>CRM</td> 
    <td><li>您正在同步至哪個CRM？ Salesforce? MS Dynamics？ 維耶娃？</li>
-<li>您是否使用自訂同步？</li>
+<li>您是否正在利用 <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">自訂同步</a>？</li>
 <li>[僅限Salesforce]您的執行個體是否已實作自訂同步篩選器？ 
 <p>注意：請聯絡Marketo支援以識別自訂同步篩選器，或要求實作自訂同步規則。</li></td>
   </tr>
@@ -219,7 +253,7 @@ ht-degree: 1%
 <li>是否啟用表單預填？</li>
 <li>為 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">個人化URL</a> 已啟用？</li>
 <li>是否已為以下專案設定規則： <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">重新導向</a>？</li>
-<li>您有設定好的網域別名嗎？ 您是否透過檔案追蹤您如何使用網域別名？</li>
+<li>您有設定好的網域別名嗎？ 您是否追蹤您使用網域別名的方式？</li>
 <li>是 <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">登陸頁面的安全網域</a> 已啟用？ 
 <br/>確認您的登入頁面資產是否包含「http」URL。</li></td>
   </tr>
@@ -242,17 +276,18 @@ ht-degree: 1%
    <td><li>具有 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">已安裝MSI套件</a>？</li>
 <li>有您 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">升級至最新版Sales Insight</a>？</li>
 <li>您是否已完成Sales Insight設定？ <br/>企業/無限制使用者 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">按一下這裡</a>，專業使用者 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">按一下這裡</a>.</li>
-<li>有您 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">為您的使用者授與存取權</a> 是否根據您購買的座位數？</li></td>
+<li>有您 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">為您的使用者授與存取權</a> 是否根據您購買的座位數？</li>
+<li>為 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md" target="_blank">星星和火焰</a> 自訂？</li></td>
   </tr>
   <tr> 
    <td>啟動點（如果適用）</td> 
-   <td><li>您已設定哪些服務(例如， <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>， <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">縮放</a>等)？ 是否有任何已接近其有效期的專案？</li>
+   <td><li>您已設定哪些服務(例如， <a href="/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md" target="_blank">BrightTALK</a>， <a href="/help/marketo/product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md" target="_blank">縮放</a>等)？ 是否有任何已接近其有效期的專案？</li>
 <li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">API呼叫數</a> 您的整合使用嗎？</li>
 <li>您是否已為使用案例制定正確的整合？</li></td>
   </tr>
   <tr> 
    <td>Webhook （如果適用）</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">哪些連線</a> 您已設定嗎？</li>
+   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">哪些連線</a> 您是否已設定？</li>
 <li>任何已不再使用嗎？</li></td>
   </tr>
   <tr> 
@@ -268,7 +303,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:25%">區域</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -284,21 +319,17 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## 其他 {#miscellaneous}
+## 警示和更新 {#alerts-and-updates}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:25%">區域</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
    <td>Marketo Engage狀態更新</td> 
-   <td><li>您的執行個體已註冊嗎 <a href="https://status.adobe.com/" target="_blank">Marketo Engage狀態更新</a>？</li></td>
-  </tr>
-  <tr> 
-   <td>授權連絡人</td> 
-   <td><li>您是否設定了適當的 <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">授權連絡人</a> 在支援入口網站？</li></td>
+   <td><li>您的執行個體是否已訂閱 <a href="https://nation.marketo.com/t5/knowledgebase/how-to-subscribe-to-status-page-notifications/ta-p/296749" target="_blank">Marketo Engage狀態更新</a>？</li></td>
   </tr>
   <tr> 
    <td>警示</td> 
