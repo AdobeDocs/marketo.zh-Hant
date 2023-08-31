@@ -4,20 +4,24 @@ description: 瀏覽行銷行事曆 — Marketo檔案 — 產品檔案
 title: 瀏覽行銷行事曆
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
 # 瀏覽行銷行事曆 {#navigating-the-marketing-calendar}
 
-瀏覽行銷行事曆容易，一張、兩張、三張皆可！
+瀏覽行銷行事曆很容易。 方法如下。
 
 >[!PREREQUISITES]
 >
 >確定您擁有 [行銷行事曆授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}  — 否則，「行銷行事曆」動態磚將不會顯示在「我的Marketo」中。
+
+>[!NOTE]
+>
+>行銷行事曆不支援週期性智慧行銷活動。
 
 1. 前往 **行銷行事曆**.
 

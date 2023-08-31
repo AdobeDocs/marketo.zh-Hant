@@ -4,9 +4,9 @@ description: 方案排程檢視專案型別 — Marketo檔案 — 產品檔案
 title: 程式排程檢視專案型別
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 程式排程檢視專案型別 {#program-schedule-view-entry-types}
 
 您的方案排程檢視中會顯示並可以使用八種不同的內建專案型別。 您也可以 [建立自訂專案型別](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) 在管理員區段中。
+
+>[!NOTE]
+>
+>週期性智慧行銷活動為 **非** 在排程檢視中支援。
 
 <table> 
  <thead> 
@@ -29,11 +33,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Smart Campaign <img alt="--" src="assets/image2014-9-24-10-3a5-3a2.png" data-linked-resource-id="3082716" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1">已排程沒有「傳送電子郵件」流程步驟的智慧型行銷活動。</td> 
+   <td colspan="1" rowspan="1">已排程沒有「傳送電子郵件」流程步驟的Smart Campaign。</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">包含電子郵件的Smart Campaign <img alt="--" src="assets/image2014-9-24-10-3a5-3a14.png" data-linked-resource-id="3082717" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1"><p>已排程具有至少一個傳送電子郵件流程步驟的智慧行銷活動。</p></td> 
+   <td colspan="1" rowspan="1"><p>已排程Smart Campaign並包含至少一個傳送電子郵件流程步驟。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">電子郵件程式 <img alt="--" src="assets/image2014-9-24-10-3a5-3a27.png" data-linked-resource-id="3082718" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
