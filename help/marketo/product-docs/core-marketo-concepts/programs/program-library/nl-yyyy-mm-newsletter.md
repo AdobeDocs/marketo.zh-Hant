@@ -1,19 +1,19 @@
 ---
-description: EM-YYYY-MM-DD-Single Email Send - Marketo檔案 — 產品檔案
-title: EM-YYYY-MM-DD — 單一電子郵件傳送
+description: NL-YYYY-MM-Newsletter - Marketo檔案 — 產品檔案
+title: NL-YYYY-MM-Newsletter
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '282'
 ht-degree: 4%
 
 ---
 
-# EM-YYYY-MM-DD — 單一電子郵件傳送 {#em-yyyy-mm-dd-single-email-send}
+# NL-YYYY-MM-Newsletter {#nl-yyyy-mm-newsletter}
 
-此範例利用Marketo Engage電子郵件程式傳送一封電子郵件。 電子郵件可以包含或不包含A/B測試。
+此範例利用Marketo Engage電子郵件計畫傳送一封電子報電子郵件。 電子郵件可以包含或不包含A/B測試。
 
 如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 頁面。
 
@@ -28,7 +28,7 @@ ht-degree: 4%
    <th>計畫型別</th>
   </tr> 
   <tr> 
-   <td>電子郵件</td> 
+   <td>電子報</td> 
    <td>01位成員 
 <br/>02參與成功</td>
    <td>包含</td>
@@ -49,7 +49,7 @@ ht-degree: 4%
   <tr> 
    <td>電子郵件</td> 
    <td>快速入門電子郵件範本</td>
-   <td>01 — 電子郵件 — 感謝您</td>
+   <td>01 — 電子郵件</td>
   </tr>
   <tr> 
    <td>本地報告</td> 
@@ -65,13 +65,13 @@ ht-degree: 4%
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>01參與（計畫成功）</td>
+   <td>01 — 參與（計畫成功）</td>
   </tr>
   <tr> 
    <td>資料夾</td> 
    <td> </td>
    <td>資產 — 容納所有創意資產 
-<br/>（電子郵件和登陸頁面的子資料夾）  </td>
+<br/>（電子郵件的子資料夾）  </td>
   </tr>
   <tr> 
    <td>資料夾</td> 

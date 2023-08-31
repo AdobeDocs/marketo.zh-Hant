@@ -1,19 +1,19 @@
 ---
-description: EV-YYYY-MM-DD-Event計畫 — Marketo檔案 — 產品檔案
-title: EV-YYYY-MM-DD-Event計畫
+description: TS-YYYY-MM-DD-Tradeshow計畫 — Marketo檔案 — 產品檔案
+title: TS-YYYY-MM-DD-Tradeshow計畫
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 6%
+source-wordcount: '428'
+ht-degree: 4%
 
 ---
 
-# EV-YYYY-MM-DD-Event計畫 {#ev-yyyy-mm-dd-event-program}
+# TS-YYYY-MM-DD-Tradeshow計畫 {#ts-yyyy-mm-dd-tradeshow-program}
 
-此範例為具有註冊頁面的活動計畫、三封邀請電子郵件，以及利用Marketo Engage活動計畫的後續電子郵件。 適合您需要註冊的所有活動，包括路演、午餐、晚宴或展銷活動簡報。
+這是商展計畫的範例，包含邀請和後續電子郵件，利用Marketo Engage活動計畫。
 
 如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 頁面。
 
@@ -30,10 +30,11 @@ ht-degree: 6%
   <tr> 
    <td>Event</td> 
    <td>01 — 已邀請 
-<br/>02 — 輪候
-<br/>03已註冊
-<br/>04 — 無節目
-<br/>05人參與成功</td>
+   <br/>02 — 輪候
+   <br/>03已註冊
+   <br/>04人參觀的展位
+   <br/>05參與在展示 — 成功
+   <br/>Post Show參與06 — 成功</td>
    <td>包含</td>
    <td>Event</td>
   </tr>
@@ -59,46 +60,7 @@ ht-degree: 6%
    <td>快速入門電子郵件範本</td>
    <td>02a — 電子郵件 — 邀請</td>
   </tr>
-  <tr> 
-   <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
-   <td>02b — 電子郵件 — 邀請提醒</td>
-  </tr>
-  <tr> 
-   <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
-   <td>02c — 電子郵件 — 邀請提醒最後機會</td>
-  </tr>
-  <tr> 
-   <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
-   <td>03 — 電子郵件 — 出席提醒</td>
-  </tr>
-  <tr> 
-   <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
-   <td>04a — 電子郵件 — 後續追蹤 — 已出席</td>
-  </tr>
-  <tr> 
-   <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
-   <td>04b — 電子郵件 — 後續追蹤 — NoShow</td>
-  </tr>
-  <tr> 
-   <td>登陸頁面</td> 
-   <td>快速入門LP範本</td>
-   <td>01a - LP — 註冊</td>
-  </tr>
-  <tr> 
-   <td>登陸頁面</td> 
-   <td>快速入門LP範本</td>
-   <td>01b - LP — 感謝您</td>
-  </tr>
-  <tr> 
-   <td>表單</td> 
-   <td> </td>
-   <td>FM事件註冊</td>
-  </tr>
+  <tr>
   <tr> 
    <td>本地報告</td> 
    <td> </td>
@@ -107,7 +69,7 @@ ht-degree: 6%
   <tr> 
    <td>本地報告</td> 
    <td> </td>
-   <td>登陸頁面績效</td>
+   <td>計畫績效</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
@@ -117,37 +79,22 @@ ht-degree: 6%
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>01 — 程式註冊</td>
+   <td>01 — 傳送邀請</td>
   </tr>
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02a — 傳送邀請</td>
+   <td>02 — 在節目中參與（成功）</td>
   </tr>
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02b — 傳送邀請提醒</td>
+   <td>03 — 傳送後續追蹤電子郵件</td>
   </tr>
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02c — 傳送邀請最後機會</td>
-  </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
-   <td> </td>
-   <td>03 — 傳送出席提醒</td>
-  </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
-   <td> </td>
-   <td>04 — 已出席（計畫成功）</td>
-  </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
-   <td> </td>
-   <td>05 — 傳送後續追蹤電子郵件</td>
+   <td>04 — 透過後續追蹤電子郵件參與（成功）</td>
   </tr>
   <tr> 
    <td>資料夾</td> 
@@ -204,34 +151,18 @@ ht-degree: 6%
   </tr>
    <tr> 
    <td>RTF文字</td> 
-   <td><code>{{my.Content-Description}}</code></td>
-   <td>按兩下以取得詳細資訊  
-<br/><code><--My Content Description Here--></code> 
-<br/>在「我的Token」標籤下方的方案層級編輯此內容說明。 
-<br/>您將能學習到： 
-<li>專案符號1</li>
-<li>專案符號2</li>
-<li>專案符號3</li></td>
-  </tr>
-  <tr> 
-   <td>文字</td> 
-   <td><code>{{my.Event-Location-Line1}}</code></td>
-   <td><code><--XYZ Hotel--></code></td>
+   <td><code>{{my.Event-Booth#}}</code></td>
+   <td><code><--My Booth Number--></code></td>
   </tr>
    <tr> 
    <td>文字</td> 
-   <td><code>{{my.Event-Location-Line2}}</code></td>
-   <td><code><--ABC Room--></code></td>
-  </tr>
-   <tr> 
-   <td>文字</td> 
-   <td><code>{{my.Event-Location-Line3}}</code></td>
-   <td><code><--1234 Anystreet--></code></td>
+   <td><code>{{my.Event-City}}</code></td>
+   <td><code><--My Event City Here--></code></td>
   </tr>
   <tr> 
    <td>文字</td> 
-   <td><code>{{my.Event-Location-Line4}}</code></td>
-   <td><code><--Anytown, ZZ 99999--></code></td>
+   <td><code>{{my.Event-Date}}</code></td>
+   <td><code><--My Event Date--></code></td>
   </tr>
   <tr> 
    <td>文字</td> 
@@ -246,52 +177,7 @@ ht-degree: 6%
   <tr> 
    <td>文字</td> 
    <td><code>{{my.Event-Type}}</code></td>
-   <td>直播活動</td>
-  </tr>
-  <tr> 
-   <td>文字</td> 
-   <td><code>{{my.PageURL-Download}}</code></td>
-   <td>my.DownloadURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>文字</td> 
-   <td><code>{{my.PageURL-Registration}}</code></td>
-   <td>my.RegistrationPageURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>文字</td> 
-   <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>my.ThankYouPageURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>文字</td> 
-   <td><code>{{my.Speaker1-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
-  <tr> 
-   <td>文字</td> 
-   <td><code>{{my.Speaker1-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
-  </tr>
-  <tr> 
-   <td>文字</td> 
-   <td><code>{{my.Speaker2-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
-  <tr> 
-   <td>文字</td> 
-   <td><code>{{my.Speaker2-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
-  </tr>
-  <tr> 
-   <td>文字</td> 
-   <td><code>{{my.Speaker3-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
- <tr> 
-   <td>文字</td> 
-   <td><code>{{my.Speaker3-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
+   <td>商展</td>
   </tr>
  </tbody> 
 </table>
@@ -333,7 +219,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
->別忘了啟用「06人參與（方案成功）」行銷活動以追蹤成功！ 執行此動作 _早於_ 您的表單已上線且已傳送電子郵件。
+>別忘了啟用「02參與在節目（方案成功）」和「04參與後續電子郵件（方案成功）」行銷活動以追蹤成功！ 執行此動作 _早於_ 您的電子郵件已傳送。
 
 >[!IMPORTANT]
 >

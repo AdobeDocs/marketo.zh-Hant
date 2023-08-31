@@ -1,19 +1,19 @@
 ---
-description: EV-YYYY-MM-DD-Event計畫 — Marketo檔案 — 產品檔案
-title: EV-YYYY-MM-DD-Event計畫
+description: WBN-YYYY-MM-DD — 網路研討會計畫 — Marketo檔案 — 產品檔案
+title: WBN-YYYY-MM-DD — 網路研討會計畫
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 6%
+source-wordcount: '591'
+ht-degree: 5%
 
 ---
 
-# EV-YYYY-MM-DD-Event計畫 {#ev-yyyy-mm-dd-event-program}
+# WBN-YYYY-MM-DD — 網路研討會計畫 {#wbn-yyyy-mm-dd-webinar-program}
 
-此範例為具有註冊頁面的活動計畫、三封邀請電子郵件，以及利用Marketo Engage活動計畫的後續電子郵件。 適合您需要註冊的所有活動，包括路演、午餐、晚宴或展銷活動簡報。
+這是網路研討會計畫的範例，包含註冊管理、三封邀請電子郵件、提醒參加，以及利用Marketo Engage活動計畫的後續電子郵件。
 
 如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 頁面。
 
@@ -30,12 +30,14 @@ ht-degree: 6%
   <tr> 
    <td>Event</td> 
    <td>01 — 已邀請 
-<br/>02 — 輪候
-<br/>03已註冊
-<br/>04 — 無節目
-<br/>05人參與成功</td>
+   <br/>02 — 輪候
+   <br/>03 — 已註冊
+   <br/>04 — 不顯示
+   <br/>05 — 已出席 — 成功
+   <br/>06 — 隨選出席 — 成功</td>
    <td>包含</td>
-   <td>Event</td>
+   <td>Event
+   <p>（整合：活動與網路研討會）</td>
   </tr>
  </tbody> 
 </table>
@@ -52,59 +54,65 @@ ht-degree: 6%
   <tr> 
    <td>電子郵件</td> 
    <td>快速入門電子郵件範本</td>
-   <td>01 — 電子郵件 — 感謝您</td>
+   <td>01 — 電子郵件 — 邀請</td>
   </tr>
    <tr> 
    <td>電子郵件</td> 
    <td>快速入門電子郵件範本</td>
-   <td>02a — 電子郵件 — 邀請</td>
+   <td>02 — 電子郵件 — 邀請提醒</td>
+  </tr>
+   <tr> 
+   <td>電子郵件</td> 
+   <td>快速入門電子郵件範本</td>
+   <td>03 — 電子郵件 — 邀請提醒 — 最後機會</td>
   </tr>
   <tr> 
    <td>電子郵件</td> 
    <td>快速入門電子郵件範本</td>
-   <td>02b — 電子郵件 — 邀請提醒</td>
+   <td>04 — 電子郵件 — 註冊確認</td>
   </tr>
   <tr> 
    <td>電子郵件</td> 
    <td>快速入門電子郵件範本</td>
-   <td>02c — 電子郵件 — 邀請提醒最後機會</td>
+   <td>05 — 電子郵件 — 出席提醒</td>
   </tr>
   <tr> 
    <td>電子郵件</td> 
    <td>快速入門電子郵件範本</td>
-   <td>03 — 電子郵件 — 出席提醒</td>
+   <td>06 — 電子郵件 — 後續追蹤 — 已出席</td>
   </tr>
   <tr> 
    <td>電子郵件</td> 
    <td>快速入門電子郵件範本</td>
-   <td>04a — 電子郵件 — 後續追蹤 — 已出席</td>
+   <td>07 — 電子郵件 — 後續追蹤 — 不顯示 </td>
   </tr>
-  <tr> 
-   <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
-   <td>04b — 電子郵件 — 後續追蹤 — NoShow</td>
-  </tr>
-  <tr> 
-   <td>登陸頁面</td> 
-   <td>快速入門LP範本</td>
-   <td>01a - LP — 註冊</td>
-  </tr>
-  <tr> 
-   <td>登陸頁面</td> 
-   <td>快速入門LP範本</td>
-   <td>01b - LP — 感謝您</td>
-  </tr>
+  <tr>
   <tr> 
    <td>表單</td> 
    <td> </td>
    <td>FM事件註冊</td>
   </tr>
   <tr> 
+   <td>登陸頁面</td> 
+   <td>快速入門LP範本</td>
+   <td>01 - LP — 註冊</td>
+  </tr>
+  <tr> 
+   <td>登陸頁面</td> 
+   <td>快速入門LP範本</td>
+   <td>02 - LP — 感謝您</td>
+  </tr>
+  <tr> 
+   <td>登陸頁面</td> 
+   <td>快速入門LP範本</td>
+   <td>03 - LP — 隨選</td>
+  </tr>
+  <tr> 
    <td>本地報告</td> 
    <td> </td>
    <td>電子郵件效能</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>本地報告</td> 
    <td> </td>
    <td>登陸頁面績效</td>
@@ -117,7 +125,7 @@ ht-degree: 6%
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>01 — 程式註冊</td>
+   <td>01 — 處理註冊</td>
   </tr>
    <tr> 
    <td>Smart Campaign</td> 
@@ -132,28 +140,33 @@ ht-degree: 6%
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02c — 傳送邀請最後機會</td>
+   <td>02c — 傳送邀請提醒最後機會</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
    <td>03 — 傳送出席提醒</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
    <td>04 — 已出席（計畫成功）</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
    <td>05 — 傳送後續追蹤電子郵件</td>
   </tr>
   <tr> 
+   <td>Smart Campaign</td> 
+   <td> </td>
+   <td>06 — 隨選出席（計畫成功）</td>
+  </tr>
+  <tr> 
    <td>資料夾</td> 
    <td> </td>
    <td>資產 — 容納所有創意資產 
-<br/>（電子郵件和登陸頁面的子資料夾）</td>
+<br/>(電子郵件、登陸頁面和Forms的子資料夾)</td>
   </tr>
   <tr> 
    <td>資料夾</td> 
@@ -184,6 +197,11 @@ ht-degree: 6%
   </tr>
   <tr> 
    <td>文字</td> 
+   <td><code>{{my.DownloadURL-PresentationSlides}}</code></td>
+   <td>my.DownloadURL?without=http:// </td>
+  </tr>
+  <tr> 
+   <td>文字</td> 
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
@@ -204,34 +222,14 @@ ht-degree: 6%
   </tr>
    <tr> 
    <td>RTF文字</td> 
-   <td><code>{{my.Content-Description}}</code></td>
+   <td><code>{{my.Event-Description}}</code></td>
    <td>按兩下以取得詳細資訊  
-<br/><code><--My Content Description Here--></code> 
-<br/>在「我的Token」標籤下方的方案層級編輯此內容說明。 
+<br/><code><--My Event Description Here--></code> 
+<br/>在「我的Token」標籤下方的方案層級編輯此事件說明。 
 <br/>您將能學習到： 
 <li>專案符號1</li>
 <li>專案符號2</li>
 <li>專案符號3</li></td>
-  </tr>
-  <tr> 
-   <td>文字</td> 
-   <td><code>{{my.Event-Location-Line1}}</code></td>
-   <td><code><--XYZ Hotel--></code></td>
-  </tr>
-   <tr> 
-   <td>文字</td> 
-   <td><code>{{my.Event-Location-Line2}}</code></td>
-   <td><code><--ABC Room--></code></td>
-  </tr>
-   <tr> 
-   <td>文字</td> 
-   <td><code>{{my.Event-Location-Line3}}</code></td>
-   <td><code><--1234 Anystreet--></code></td>
-  </tr>
-  <tr> 
-   <td>文字</td> 
-   <td><code>{{my.Event-Location-Line4}}</code></td>
-   <td><code><--Anytown, ZZ 99999--></code></td>
   </tr>
   <tr> 
    <td>文字</td> 
@@ -246,7 +244,7 @@ ht-degree: 6%
   <tr> 
    <td>文字</td> 
    <td><code>{{my.Event-Type}}</code></td>
-   <td>直播活動</td>
+   <td>網路研討會</td>
   </tr>
   <tr> 
    <td>文字</td> 
@@ -258,7 +256,7 @@ ht-degree: 6%
    <td><code>{{my.PageURL-Registration}}</code></td>
    <td>my.RegistrationPageURL?without=http://</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>文字</td> 
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>my.ThankYouPageURL?without=http://</td>
@@ -320,6 +318,8 @@ ht-degree: 6%
 
 ## 最佳實務 {#best-practices}
 
+* 如果您使用整合式網路研討會提供者，別忘了將Marketo Engage程式連線到託管系統中的網路研討會。
+
 * 匯入網路研討會計畫後，將表單從本機資產移至位於Design Studio中的全域資產。
    * 減少Design Studio的表單數量並運用更多全域資產，可讓您的程式設計和管理管理擁有更多擴充性。 此外，欄位、選擇加入語言等的定期合規性更新也有彈性。
 
@@ -333,7 +333,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
->別忘了啟用「06人參與（方案成功）」行銷活動以追蹤成功！ 執行此動作 _早於_ 您的表單已上線且已傳送電子郵件。
+>別忘了啟用「04人參與（方案成功）」和「06人參與隨選（方案成功）」行銷活動以追蹤成功！ 執行此動作 _早於_ 您的電子郵件已傳送。
 
 >[!IMPORTANT]
 >
