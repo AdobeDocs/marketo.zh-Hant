@@ -3,7 +3,7 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d87c05212afbc916bd11cf681a4375e31f46550c
+source-git-commit: 515821580741449f71df31dbd0652498fd744783
 workflow-type: tm+mt
 source-wordcount: '941'
 ht-degree: 2%
@@ -314,7 +314,7 @@ ht-degree: 2%
 
 * **觸發新活動的權杖**：有新的觸發權杖可用來支援Dynamic Chat的新活動。
 
-<table> 
+<table style="margin-left:10px" width="400px"> 
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
