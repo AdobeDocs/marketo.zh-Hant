@@ -3,9 +3,9 @@ description: 繼承檔案5 - Marketo檔案 — 產品檔案
 title: 繼承Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '237'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 2%
   <tr> 
    <td>資料字典</td> 
    <td><li>是否有單獨的資料字典說明可用的欄位？
-   <br/>     如果沒有，請考慮建立一個。</li></td>
+   <br/>     如果沒有，請考慮在行銷營運團隊可存取的資料夾中建立一個傳送。</li></td>
   </tr>
   <tr> 
    <td>組織</td> 

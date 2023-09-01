@@ -3,9 +3,9 @@ description: 繼承檔案2 - Marketo檔案 — 產品檔案
 title: 繼承Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '365'
 ht-degree: 1%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>退回的電子郵件地址</td> 
-   <td><li>文字</li></td>
+   <td><li>公斤 — 等待傳遞能力</li></td>
   </tr>
   <tr> 
    <td>可能的重複專案</td> 
