@@ -3,7 +3,7 @@ description: 繼承檔案5 - Marketo檔案 — 產品檔案
 title: 繼承Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 2%
@@ -19,7 +19,7 @@ ht-degree: 2%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:20%">區域</th> 
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -40,13 +40,13 @@ ht-degree: 2%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:20%">區域</th> 
    <th>評論焦點</th>
   </tr> 
   <tr> 
    <td>資料字典</td> 
    <td><li>是否有單獨的資料字典說明可用的欄位？
-   <br/>如果沒有，請考慮建立一個。</li></td>
+   <br/>     如果沒有，請考慮建立一個。</li></td>
   </tr>
   <tr> 
    <td>組織</td> 
@@ -60,7 +60,7 @@ ht-degree: 2%
   <tr> 
    <td>教戰手冊</td> 
     <td><li>貴組織有使用者或管理員行動手冊嗎？ 
-    <br/>若是如此，請據此更新這些專案。</li></td>
+    <br/>     若是如此，請據此更新這些專案。</li></td>
   </tr>
   <tr> 
    <td>與內部利害關係人的對話</td> 

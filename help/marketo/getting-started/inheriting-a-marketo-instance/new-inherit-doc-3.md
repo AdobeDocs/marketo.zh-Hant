@@ -3,23 +3,23 @@ description: 繼承檔案3 - Marketo檔案 — 產品檔案
 title: 繼承Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
 
 # 繼承Doc 3 {#inherit-doc-3}
 
-行銷活動是您的行銷團隊可以建立Smart Campaigns、建立創意資產（例如電子郵件和登陸頁面）及檢視資產效能的地方。
+正確組織您的「行銷活動」區段，協助其他人尋找和管理您Marketo Engage執行個體中的各種方案，並確保人員經過處理，以便從行銷傳遞至銷售。
 
 ## 組織 {#organization}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:20%">區域</th> 
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -33,7 +33,7 @@ ht-degree: 0%
   <tr> 
    <td>計畫</td> 
    <td><li>KG — 這是否仍相關，是否有 <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">卓越中心</a> 使用計畫範本？ 
-   <br/>如果是，方案範本對團隊的使用案例是否有意義？</li>
+   <br/>     如果是，方案範本對團隊的使用案例是否有意義？</li>
 <li>類似的計畫型別 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">一致的結構化</a>？</li>
 <li>為 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">期間成本</a> 就位？</li>
 <li>全部為計畫嗎 <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">已同步至SFDC行銷活動</a> （如果適用）？</li>
@@ -64,22 +64,22 @@ ht-degree: 0%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:20%">區域</th> 
    <th>評論焦點</th>
   </tr> 
   <tr> 
    <td>Token</td> 
-   <td><li>代號會用於您最常用的程式型別嗎？ 
-   <br/>如果沒有，您應考慮使用它們來提高效率。</li>
+   <td><li>為 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">Token</a> 用於您最常用的程式型別？ 
+   <br/>     如果沒有，您應考慮使用它們來提高效率。</li>
 <li>如果實作代號，是否有全域資料夾代號？ 如何使用它們？</li></td>
   </tr>
   <tr> 
    <td>參與計畫</td> 
    <td><li>有現場嗎 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">參與計畫</a> 執行中？</li>
 <li>數量 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">人已疲憊</a>？ 
-<br/>如果有很多人筋疲力盡，請考慮新增內容。</li>
-<li>使用者是否參與內容？ 
-<br/>如果沒有，請考慮更新它及/或A/B測試。</li></td>
+<br/>     如果有很多人筋疲力盡，請考慮 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">新增內容</a>.</li>
+<li>人員 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">使用內容</a>？ 
+<br/>     如果沒有，請考慮更新它及/或A/B測試。</li></td>
   </tr>
   <tr> 
    <td>批次行銷活動</td> 
@@ -116,7 +116,7 @@ ht-degree: 0%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:20%">區域</th> 
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -140,7 +140,7 @@ ht-degree: 0%
   <tr> 
    <td>隱私權與合規性</td> 
    <td><li>您有計畫確保您符合資料隱私權和垃圾郵件法規嗎？ 
-   <br/>考慮 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>、 CASL、CAN-SPAM、CCPA等。</li>
+   <br/>     考慮 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>、 CASL、CAN-SPAM、CCPA等。</li>
 <p>秘訣：請記得隨時向法律團隊諮詢這些問題。 在進行任何變更之前，請向您的團隊詢問先前的行動方案，以維持法規遵循。</td>
   </tr>
   <tr> 

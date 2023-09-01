@@ -3,9 +3,9 @@ description: 繼承檔案4 - Marketo檔案 — 產品檔案
 title: 繼承檔案4
 hide: true
 hidefromtoc: true
-source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '513'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:20%">區域</th> 
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -46,7 +46,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:20%">區域</th> 
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -65,7 +65,7 @@ ht-degree: 1%
   <tr> 
    <td>隱私權與合規性</td> 
    <td><li>您的表單策略是否符合貴公司的資料隱私權和選擇加入要求？ 
-   <br/>考慮 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">一般資料保護規範(GDPR)</a>、CASL （加拿大反垃圾郵件法）、2003年控制非請求色情製品攻擊與行銷法案(CAN-SPAM)、加州消費者隱私保護法(CCPA)等，以符合法規。</li>
+   <br/>     考慮 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">一般資料保護規範(GDPR)</a>、加拿大的反垃圾郵件法(CASL)、2003年控制非請求的色情製品攻擊與行銷法(CAN-SPAM)、加州消費者隱私法(CCPA)等，以符合法規。</li>
 <p>秘訣：請記得隨時向法律團隊諮詢這些問題。 在進行任何變更之前，請向您的團隊詢問先前的行動方案，以維持法規遵循。</td>
   </tr>
  </tbody> 
@@ -76,7 +76,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:20%">區域</th> 
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -104,13 +104,13 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:20%">區域</th> 
    <th>評論焦點</th>
   </tr> 
   <tr> 
    <td>代碼片段</td> 
    <td><li>數量 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">代碼片段</a> 有嗎？ 它們是否正在使用？ 
-   <br/>如果沒有，請考慮將其用於 <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">電子郵件</a> 和 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">登陸頁面</a> 頁尾內容、圖志等。</li></td>
+   <br/>     如果沒有，請考慮將其用於 <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">電子郵件</a> 和 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">登陸頁面</a> 頁尾內容、圖志等。</li></td>
   </tr>
  </tbody> 
 </table>
@@ -120,7 +120,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:20%">區域</th> 
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -134,7 +134,7 @@ ht-degree: 1%
   <tr> 
    <td>影像和檔案</td> 
    <td><li>執行任何影像或檔案 <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">在網頁上參照</a> 需要更新？ 
-   <p>範例：硬式編碼URL結構可能需要更新，例如 <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>範例：硬式編碼URL結構 <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">可能需要更新</a>，例如 <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
    <p>請與您的網頁開發人員合作，決定您可能需要進行更新的位置。</li></td>
   </tr>
  </tbody> 
@@ -145,13 +145,13 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>區域</th> 
+   <th style="width:20%">區域</th> 
    <th>評論焦點</th>
   </tr> 
   <tr> 
    <td>資產狀態</td> 
    <td><li>中有多少資產 <i>草稿</i> 和 <i>已核准且具有草稿</i> 狀態？
-   <br/>如果有許多，請考慮刪除或核准它們。</li></td>
+   <br/>     如果有許多，請考慮刪除或核准它們。</li></td>
   </tr>
   <tr> 
    <td>資產共用</td> 
