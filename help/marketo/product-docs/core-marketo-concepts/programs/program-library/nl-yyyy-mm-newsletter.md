@@ -4,7 +4,7 @@ title: NL-YYYY-MM-Newsletter
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 4%
@@ -86,8 +86,6 @@ ht-degree: 4%
  </tbody> 
 </table>
 
-程式熒幕擷圖
-
 ## 包含我的Token {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -114,6 +112,8 @@ ht-degree: 4%
   </tr>
  </tbody> 
 </table>
+
+程式熒幕擷圖
 
 ## 衝突規則 {#conflict-rules}
 

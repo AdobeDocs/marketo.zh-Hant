@@ -4,9 +4,9 @@ title: CT-YYYY-MM-Content非Marketo登陸頁面
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 0f71600b18315feb3ef32e95dfb108b09c4cb79f
+source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '407'
 ht-degree: 3%
 
 ---
@@ -94,8 +94,6 @@ ht-degree: 3%
   </tr>
  </tbody> 
 </table>
-
-程式熒幕擷圖
 
 ## 包含我的Token {#my-tokens-included}
 
