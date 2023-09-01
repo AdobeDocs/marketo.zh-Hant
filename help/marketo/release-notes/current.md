@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: d87c05212afbc916bd11cf681a4375e31f46550c
 workflow-type: tm+mt
-source-wordcount: '931'
-ht-degree: 3%
+source-wordcount: '941'
+ht-degree: 2%
 
 ---
 
@@ -92,8 +92,8 @@ ht-degree: 3%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">檢閱和核准Blueprint</a></td>
   </tr>
   </tbody>
 </table>
