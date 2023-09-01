@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: d7f3ccbbef3afb8e2f51a0a5515c5a5054c72696
 workflow-type: tm+mt
-source-wordcount: '9066'
+source-wordcount: '9064'
 ht-degree: 0%
 
 ---
@@ -408,24 +408,23 @@ ht-degree: 0%
             + [在程式中使用期間成本](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + 程式庫 {#program-library}
             + [程式匯入程式庫概觀](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [CT-YYYY-MM-Content非Marketo登陸頁面](product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md)
-            + [Marketo登陸頁面上的CT-YYYY-MM-Content](product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md)
-            + [EM-YYYY-MM-DD — 單一電子郵件傳送](product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md)
-            + [EV-YYYY-MM-DD-Event計畫](product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md)
-            + [NL-YYYY-MM-Newsletter](product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md)
-            + [NUR-YYYY-MM-Advanced Nurture](product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md)
-            + [NUR-YYYY-MM-Simple Nurture](product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md)
-            + [OA-YYYY-MM-Online Advertising Marketo登陸頁面](product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md)
-            + [OP-Acquisition-API](product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md)
-            + [作業資料管理](product-docs/core-marketo-concepts/programs/program-library/op-data-management.md)
-            + [OP — 傳遞性管理](product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md)
-            + [營運商管理](product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md)
-            + [OP-Preference Management](product-docs/core-marketo-concepts/programs/program-library/op-preference-management.md)
-            + [OP評分行為](product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md)
-            + [OP評分人口統計](product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md)
-            + [TS-YYYY-MM-DD-Tradeshow計畫](product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md)
-            + [WBN-YYYY-MM-DD — 網路研討會計畫](product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md)
-            + [WR-YYYY-MM-Web請求程式](product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md)
+            + [EM-YYYY-MM-DD — 單一電子郵件傳送](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md)
+            + [NL-YYYY-MM-Newsletter](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md)
+            + [WBN-YYYY-MM-DD — 網路研討會計畫](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md)
+            + [EV-YYYY-MM-DD-Event計畫](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md)
+            + [TS-YYYY-MM-DD-Tradeshow計畫](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md)
+            + [NUR-YYYY-MM-Simple Nurture](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md)
+            + [NUR-YYYY-MM-Advanced Nurture](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md)
+            + [Marketo登陸頁面上的CT-YYYY-MM-Content](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md)
+            + [CT-YYYY-MM-Content非Marketo登陸頁面](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md)
+            + [WR-YYYY-MM-Web請求程式](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md)
+            + [OA-YYYY-MM-Online Advertising Marketo登陸頁面](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md)
+            + [作業資料管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-data-management.md)
+            + [營運商管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md)
+            + [OP評分行為](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md)
+            + [OP評分人口統計](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md)
+            + [OP-Acquisition-API](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md)
+            + [OP — 傳遞性管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md)
          + 程式效能報表 {#program-performance-report}
             + [建立方案效能報表](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [新增方案狀態列到方案報告](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
