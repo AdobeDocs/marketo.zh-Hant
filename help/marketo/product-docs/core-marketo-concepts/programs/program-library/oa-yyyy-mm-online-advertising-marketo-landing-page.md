@@ -4,9 +4,9 @@ title: OA-YYYY-MM-Online Advertising Marketo登陸頁面
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '480'
 ht-degree: 3%
 
 ---
@@ -29,8 +29,8 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>線上廣告</td> 
-   <td>01位成員 
-<br/>02參與成功</td>
+   <td>01 — 成員 
+<br/>02 — 參與 — 成功</td>
    <td>包含</td>
    <td>預設</td>
   </tr>
@@ -53,17 +53,17 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>01 — 電子郵件 — 感謝您</td>
   </tr>
   <tr> 
    <td>登陸頁面</td> 
-   <td>快速入門LP範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入門LP範本</a></td>
    <td>01 - LP — 註冊</td>
   </tr>
    <tr> 
    <td>登陸頁面</td> 
-   <td>快速入門LP範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入門LP範本</a></td>
    <td>02 - LP — 感謝您</td>
   </tr>
    <tr> 
@@ -84,12 +84,12 @@ ht-degree: 3%
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>01填寫表單</td>
+   <td>01 — 填寫表單</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02參與（計畫成功）</td>
+   <td>02 — 參與（計畫成功）</td>
   </tr>
   <tr> 
    <td>資料夾</td> 
@@ -207,7 +207,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->別忘了啟動「02參與」行銷活動以追蹤成功！ 執行此動作 _早於_ 您的表單已上線且已傳送電子郵件。
+>別忘了啟動「02 — 參與（方案成功）」行銷活動以追蹤成功！ 執行此動作 _早於_ 您的表單已上線且已傳送電子郵件。
 
 >[!IMPORTANT]
 >

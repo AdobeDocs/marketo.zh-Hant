@@ -4,9 +4,9 @@ title: TS-YYYY-MM-DD-Tradeshow計畫
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '416'
 ht-degree: 4%
 
 ---
@@ -52,12 +52,12 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>01 — 電子郵件 — 感謝您</td>
   </tr>
    <tr> 
    <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>02a — 電子郵件 — 邀請</td>
   </tr>
   <tr>
@@ -84,17 +84,12 @@ ht-degree: 4%
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02 — 在節目中參與（成功）</td>
+   <td>02 — 傳送後續追蹤電子郵件</td>
   </tr>
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>03 — 傳送後續追蹤電子郵件</td>
-  </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
-   <td> </td>
-   <td>04 — 透過後續追蹤電子郵件參與（成功）</td>
+   <td>03 — 透過後續追蹤電子郵件參與（成功）</td>
   </tr>
   <tr> 
    <td>資料夾</td> 
@@ -219,7 +214,7 @@ ht-degree: 4%
 
 >[!TIP]
 >
->別忘了啟用「02參與在節目（方案成功）」和「04參與後續電子郵件（方案成功）」行銷活動以追蹤成功！ 執行此動作 _早於_ 您的電子郵件已傳送。
+>別忘了啟用「03 — 透過追蹤電子郵件參與（方案成功）」行銷活動以追蹤成功！ 執行此動作 _早於_ 您的電子郵件已傳送。
 
 >[!IMPORTANT]
 >

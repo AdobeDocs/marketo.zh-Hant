@@ -4,9 +4,9 @@ title: Marketo登陸頁面上的CT-YYYY-MM-Content
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '479'
 ht-degree: 3%
 
 ---
@@ -48,23 +48,23 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>01 — 電子郵件 — 感謝您</td>
   </tr>
   <tr> 
    <td>登陸頁面</td> 
-   <td>快速入門LP範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入門LP範本</a></td>
    <td>01 - LP — 註冊</td>
   </tr>
   <tr> 
    <td>登陸頁面</td> 
-   <td>快速入門LP範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入門LP範本</a></td>
    <td>02 - LP — 感謝您</td>
   </tr>
   <tr> 
    <td>表單</td> 
    <td> </td>
-   <td>內容登錄檔單</td>
+   <td>FM — 內容登錄檔單</td>
   </tr>
   <tr> 
    <td>本地報告</td> 
@@ -76,21 +76,26 @@ ht-degree: 3%
    <td> </td>
    <td>登陸頁面績效</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>01填寫表單</td>
+   <td>00 — 擷取贏取計畫</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02參與（計畫成功）</td>
+   <td>01 — 填寫表單</td>
+  </tr>
+  <tr> 
+   <td>Smart Campaign</td> 
+   <td> </td>
+   <td>02 — 參與（計畫成功）</td>
   </tr>
   <tr> 
    <td>資料夾</td> 
    <td> </td>
    <td>資產 — 容納所有創意資產 
-<br/>（電子郵件和登陸頁面的子資料夾）  </td>
+<br/>(電子郵件、登陸頁面和Forms的子資料夾)  </td>
   </tr>
   <tr> 
    <td>資料夾</td> 
