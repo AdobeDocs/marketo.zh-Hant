@@ -3,9 +3,9 @@ description: 繼承檔案1 - Marketo檔案 — 產品檔案
 title: 繼承檔案1
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 088f51a5aa6be65f5f2e4f8ae5df946f6bdf2866
 workflow-type: tm+mt
-source-wordcount: '1429'
+source-wordcount: '1433'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 1%
 <li>您已獲得「Marketo Engage/管理員/使用者與角色」的「Marketo Engage產品管理員」角色嗎？</li> 
 <li>您是否將Marketo Engage指派給Adobe Admin Console中所有適當使用者的產品設定檔？
 <br/>     如果沒有，請務必先將Marketo Engage指派給其Adobe IMS產品設定檔，然後再指派他們在Marketo Engage/管理員/使用者和角色中的角色。</li>
-<p>注意：如果您的訂閱有超過75名使用者，且剛移轉至Adobe IMS，您可選擇將使用者選取為批次移轉，並以群組或一次管理其Adobe識別。 進一步瞭解未來趨勢 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS移轉日</a>.</td>
+<p><img src="assets/note-icon-25.png" alt="附註圖示">注意：如果您的訂閱有超過75名使用者，且剛移轉至Adobe IMS，您可選擇將使用者選取為批次移轉，並以群組或一次管理其Adobe識別。 進一步瞭解未來趨勢 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS移轉日</a>.</td>
   </tr>
   <tr> 
    <td>使用者管理API</td> 
@@ -261,7 +261,7 @@ ht-degree: 1%
    <td><li>是您的 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin追蹤程式碼</a> (不在Marketo中)？</li>
 <li>是 <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">不要追蹤</a> 瀏覽器請求已啟用？</li>
 <li>是您的 <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 已設定？ 
-<p>提示：如果您遺失munchkin程式碼在網站上的位置檔案，可以透過建立 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">網頁活動報表</a>.</li></td>
+<p><img src="assets/tip-icon-25.png" alt="附註圖示">提示：如果您遺失munchkin程式碼在網站上的位置檔案，可以透過建立 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">網頁活動報表</a>.</li></td>
   </tr>
   <tr> 
    <td>網站服務</td> 
