@@ -4,7 +4,7 @@ title: WR-YYYY-MM-Web請求程式
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '409'
 ht-degree: 3%
@@ -52,17 +52,17 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>Alert-Webrequest</td>
   </tr>
   <tr> 
    <td>登陸頁面</td> 
-   <td>快速入門LP範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入門LP範本</a></td>
    <td>01 - LP — 要求</td>
   </tr>
   <tr> 
    <td>登陸頁面</td> 
-   <td>快速入門LP範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入門LP範本</a></td>
    <td>02 - LP — 感謝您</td>
   </tr>
   <tr> 

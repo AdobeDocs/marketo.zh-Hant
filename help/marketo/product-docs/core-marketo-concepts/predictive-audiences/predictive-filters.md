@@ -3,9 +3,9 @@ description: 預測性篩選器 — Marketo檔案 — 產品檔案
 title: 預測性篩選器
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 9019cb4b81fb3acd744e644d51059644af454e5e
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->「可能參加」和「可能註冊」篩選器只能用於事件或電子郵件程式。 「取消訂閱的可能性」、「方案成員的相似程度」和「智慧清單成員的相似程度」可用於所有方案型別。
+>「可能參加」和「可能註冊」篩選器只能用於事件計畫。 「取消訂閱的可能性」、「方案成員的相似程度」和「智慧清單成員的相似程度」可用於所有方案型別。
 
 ## 出席的可能性 {#likelihood-to-attend}
 

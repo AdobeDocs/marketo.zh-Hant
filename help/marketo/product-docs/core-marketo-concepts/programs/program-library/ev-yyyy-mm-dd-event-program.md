@@ -4,7 +4,7 @@ title: EV-YYYY-MM-DD-Event計畫
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 6%
@@ -51,47 +51,47 @@ ht-degree: 6%
   </tr> 
   <tr> 
    <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>01 — 電子郵件 — 感謝您</td>
   </tr>
    <tr> 
    <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>02a — 電子郵件 — 邀請</td>
   </tr>
   <tr> 
    <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>02b — 電子郵件 — 邀請提醒</td>
   </tr>
   <tr> 
    <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>02c — 電子郵件 — 邀請提醒最後機會</td>
   </tr>
   <tr> 
    <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>03 — 電子郵件 — 出席提醒</td>
   </tr>
   <tr> 
    <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>04a — 電子郵件 — 後續追蹤 — 已出席</td>
   </tr>
   <tr> 
    <td>電子郵件</td> 
-   <td>快速入門電子郵件範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>04b — 電子郵件 — 後續追蹤 — NoShow</td>
   </tr>
   <tr> 
    <td>登陸頁面</td> 
-   <td>快速入門LP範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入門LP範本</a></td>
    <td>01a - LP — 註冊</td>
   </tr>
   <tr> 
    <td>登陸頁面</td> 
-   <td>快速入門LP範本</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入門LP範本</a></td>
    <td>01b - LP — 感謝您</td>
   </tr>
   <tr> 

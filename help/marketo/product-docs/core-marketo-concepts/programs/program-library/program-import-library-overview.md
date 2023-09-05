@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Programs
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: d7f3ccbbef3afb8e2f51a0a5515c5a5054c72696
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Marketo Engage參考資料庫包含數個入門程式，您可以直接匯入您的Marketo執行個體，以快速開始建立將協助支援您團隊的程式。
 
-程式庫包含類似的程式：電子郵件、參與、事件、評分、傳遞能力及作業。 所有計畫都由Adobe產品團隊開發，並由我們的全球專業服務團隊稽核，以儘量提高品質和效率。
+程式庫包含類似的程式：電子郵件、參與、事件、評分、傳遞能力及作業。 所有計畫均由Adobe產品團隊開發，並由我們的 [全球專業服務](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 團隊致力提升品質和效率。
 
 ## 可用的計畫範例 {#available-program-examples}
 
