@@ -3,9 +3,9 @@ description: 互動式網路研討會概覽 — Marketo檔案 — 產品檔案
 title: 互動式網路研討會概觀
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: c38f2361edcf8ed04aff28b25ea5f5fb757fb5ab
+source-git-commit: 2aa7c1cb3d41ef9fa4eb5906d2ac8f631ce8e209
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->由Adobe Connect提供支援的互動式網路研討會，是一項與Adobe Connect內建整合的功能。 您對互動式網路研討會的使用將受其他條款與條件的限制。  請檢閱您的合約或聯絡Adobe，以查詢其他條款與條件。
+>由Adobe Connect提供支援的互動式網路研討會，是一項與Adobe Connect內建整合的功能。 您對互動式網路研討會的使用將受其他條款與條件的限制。  請檢閱您的合約，或 [連絡人Adobe](https://nation.marketo.com/t5/support/ct-p/Support) 以查詢其他條款與條件。
 
 ## 什麼是互動式網路研討會？ {#what-is-interactive-webinars}
 
