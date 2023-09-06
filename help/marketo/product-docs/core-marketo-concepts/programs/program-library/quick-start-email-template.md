@@ -4,9 +4,9 @@ title: 快速入門電子郵件範本
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '577'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Marketo Engage電子郵件編輯器提供的功能可幫助您變更版面並編
    * 模組的底部內距
    * 模組的背景顏色
    * 標誌對齊
-* PICC
+* ![](assets/quick-start-email-template-1.png)
 
 ### 影像模組 {#image-module}
 
@@ -46,7 +46,7 @@ Marketo Engage電子郵件編輯器提供的功能可幫助您變更版面並編
    * 模組的頂端內距
    * 模組的底部內距
    * 模組的背景顏色
-* PICC
+* ![](assets/quick-start-email-template-2.png)
 
 ### 標題模組 {#headline-module}
 
@@ -58,7 +58,7 @@ Marketo Engage電子郵件編輯器提供的功能可幫助您變更版面並編
    * 標題的字型大小（也可以在RTF編輯器中編輯）
    * 標題的字型顏色（這也可以在RTF編輯器中編輯）
    * 標題文字的對齊方式（這也可以在RTF編輯器中編輯）
-* PICC
+* ![](assets/quick-start-email-template-3.png)
 
 ### 副標題模組 {#subheadline-module}
 
@@ -70,7 +70,7 @@ Marketo Engage電子郵件編輯器提供的功能可幫助您變更版面並編
    * 副標題的字型大小（這也可以在RTF編輯器中編輯）
    * 副標題的字型顏色（這也可以在RTF編輯器中編輯）
    * 副標題文字的對齊方式（這也可以在RTF編輯器中編輯）
-* PICC
+* ![](assets/quick-start-email-template-4.png)
 
 ### 任意文字模組 {#free-text-module}
 
@@ -82,7 +82,7 @@ Marketo Engage電子郵件編輯器提供的功能可幫助您變更版面並編
    * 文字的字型大小（也可以在RTF編輯器中編輯）
    * 文字的字型顏色（也可以在RTF編輯器中編輯）
    * 文字的對齊方式（也可以在RTF編輯器中編輯）
-* PICC
+* ![](assets/quick-start-email-template-5.png)
 
 ### cta模組 {#cta-module}
 
@@ -97,7 +97,7 @@ Marketo Engage電子郵件編輯器提供的功能可幫助您變更版面並編
    * CTA URL
    * CTA文字
    * CTA對齊方式
-* PICC
+* ![](assets/quick-start-email-template-6.png)
 
 ### 分隔線模組 {#divider-module}
 
@@ -108,7 +108,7 @@ Marketo Engage電子郵件編輯器提供的功能可幫助您變更版面並編
    * 分隔線色彩
    * 分隔線高度（畫素）
    * 分隔線寬度(%)
-* PICC
+* ![](assets/quick-start-email-template-7.png)
 
 ### 頁尾模組 {#footer-module}
 
@@ -120,4 +120,4 @@ Marketo Engage電子郵件編輯器提供的功能可幫助您變更版面並編
    * 模組的背景顏色
    * 文字顏色
    * 內容對齊方式
-* PICC
+* ![](assets/quick-start-email-template-8.png)

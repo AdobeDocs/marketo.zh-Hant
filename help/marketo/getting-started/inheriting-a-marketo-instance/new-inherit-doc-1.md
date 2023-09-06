@@ -3,9 +3,9 @@ description: 繼承檔案1 - Marketo檔案 — 產品檔案
 title: 繼承檔案1
 hide: true
 hidefromtoc: true
-source-git-commit: 088f51a5aa6be65f5f2e4f8ae5df946f6bdf2866
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '1433'
+source-wordcount: '1437'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 1%
 <li>您已獲得「Marketo Engage/管理員/使用者與角色」的「Marketo Engage產品管理員」角色嗎？</li> 
 <li>您是否將Marketo Engage指派給Adobe Admin Console中所有適當使用者的產品設定檔？
 <br/>     如果沒有，請務必先將Marketo Engage指派給其Adobe IMS產品設定檔，然後再指派他們在Marketo Engage/管理員/使用者和角色中的角色。</li>
-<p><img src="assets/note-icon-25.png" alt="附註圖示">注意：如果您的訂閱有超過75名使用者，且剛移轉至Adobe IMS，您可選擇將使用者選取為批次移轉，並以群組或一次管理其Adobe識別。 進一步瞭解未來趨勢 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS移轉日</a>.</td>
+<p><img src="assets/note-icon.png" alt="附註圖示"> 注意：如果您的訂閱有超過75名使用者，且剛移轉至Adobe IMS，您可選擇將使用者選取為批次移轉，並以群組或一次管理其Adobe識別。 進一步瞭解未來趨勢 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS移轉日</a>.</td>
   </tr>
   <tr> 
    <td>使用者管理API</td> 
@@ -159,7 +159,7 @@ ht-degree: 1%
   <tr> 
    <td>通訊限制</td> 
    <td><li>有嗎 <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">通訊限制</a> 就位？ 貴企業是否有可能需要通訊限制的原則？</li>
-<p>注意：我們建議您將通訊限製為每天1個，每7天3個，透過 <b>非</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">營運</a> 已封鎖電子郵件。</td>
+<p><img src="assets/note-icon.png" alt="附註圖示"> 注意：我們建議您將通訊限製為每天1個，每7天3個，搭配 <b>非</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">營運</a> 已封鎖電子郵件。</td>
   </tr>
  </tbody> 
 </table>
@@ -242,7 +242,7 @@ ht-degree: 1%
    <td><li>您正在同步至哪個CRM？ Salesforce? MS Dynamics？ 維耶娃？</li>
 <li>您是否正在利用 <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">自訂同步</a>？</li>
 <li>[僅限Salesforce]您的執行個體是否已實作自訂同步篩選器？ 
-<p>注意：請聯絡Marketo支援以識別自訂同步篩選器，或要求實作自訂同步規則。</li></td>
+<p><img src="assets/note-icon.png" alt="附註圖示"> 注意：請聯絡Marketo支援以識別自訂同步篩選器，或要求實作自訂同步規則。</li></td>
   </tr>
   <tr> 
    <td>登陸頁面</td> 
@@ -261,7 +261,7 @@ ht-degree: 1%
    <td><li>是您的 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin追蹤程式碼</a> (不在Marketo中)？</li>
 <li>是 <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">不要追蹤</a> 瀏覽器請求已啟用？</li>
 <li>是您的 <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 已設定？ 
-<p><img src="assets/tip-icon-25.png" alt="附註圖示">提示：如果您遺失munchkin程式碼在網站上的位置檔案，可以透過建立 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">網頁活動報表</a>.</li></td>
+<p><img src="assets/tip-icon.png" alt="提示圖示">提示：如果您遺失munchkin程式碼在網站上的位置檔案，可以透過建立 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">網頁活動報表</a>.</li></td>
   </tr>
   <tr> 
    <td>網站服務</td> 

@@ -3,9 +3,9 @@ description: 繼承檔案3 - Marketo檔案 — 產品檔案
 title: 繼承Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '806'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
    <td>封存</td> 
    <td><li>較舊的程式 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">已封存</a>？</li>
 <li>貴公司多久稽核一次並封存一次舊計畫？</li>
-<p>秘訣：每年進行一次審查很好。</td>
+<p><img src="assets/tip-icon.png" alt="提示圖示">秘訣：每年進行一次審查是好事。</td>
   </tr>
   <tr> 
    <td>通知</td> 
@@ -54,7 +54,7 @@ ht-degree: 0%
    <td>智慧清單訂閱 
    <br/>（行銷活動/訂閱索引標籤）</td> 
    <td><li>是否仍在進行中 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">智慧清單訂閱</a> 在您的執行個體中？ 如果有的話，他們會去找誰？</li>
-<p>提示：請考慮設定智慧列示訂閱，以移至團隊別名，而非個人。 若有個人不在辦公室，此功能即可協助您。</td>
+<p><img src="assets/tip-icon.png" alt="提示圖示">提示：請考慮設定智慧列示訂閱，以移至團隊別名，而非個人。 若有個人不在辦公室，此功能即可協助您。</td>
   </tr>
  </tbody> 
 </table>
@@ -96,7 +96,7 @@ ht-degree: 0%
    <td>本機Forms</td> 
    <td><li>有多少程式具有本機 <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">表單</a>？ 這些表單是否應該變成全域表單？</li>
 <li>他們是否可為您的行銷和銷售團隊擷取適當的資料？</li>
-<p>提示：限制本機表單的數量，以方便根據資料隱私權和選擇加入/選擇退出政策的變更進行更新和調整。 建立表單時，需要問哪些問題？ 如果收集的資訊沒有變更且進階表單功能沒有轉移，請考慮使用全域表單，而非本機表單。</td>
+<p><img src="assets/tip-icon.png" alt="提示圖示">提示：限制本機表單的數量，以方便根據資料隱私權和選擇加入/選擇退出政策的變更進行更新和調整。 建立表單時，需要問哪些問題？ 如果收集的資訊沒有變更且進階表單功能沒有轉移，請考慮使用全域表單，而非本機表單。</td>
   </tr>
   <tr> 
    <td>全域Forms</td> 
@@ -127,7 +127,7 @@ ht-degree: 0%
   <tr> 
    <td>個人來源</td> 
    <td><li>您是否擁有集中式程式，可指派值給人員來源欄位？</li>
-<p>注意：Marketo Engage會自動收集來源欄位中的資料，無論作業程式為何。</td>
+<p><img src="assets/note-icon.png" alt="附註圖示"> 注意：Marketo Engage會自動收集來源欄位中的資料，無論作業程式為何。</td>
   </tr>
   <tr> 
    <td>資料標準化</td> 
@@ -141,7 +141,7 @@ ht-degree: 0%
    <td>隱私權與合規性</td> 
    <td><li>您有計畫確保您符合資料隱私權和垃圾郵件法規嗎？ 
    <br/>     考慮 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>、 CASL、CAN-SPAM、CCPA等。</li>
-<p>秘訣：請記得隨時向法律團隊諮詢這些問題。 在進行任何變更之前，請向您的團隊詢問先前的行動方案，以維持法規遵循。</td>
+<p><img src="assets/tip-icon.png" alt="提示圖示">秘訣：請記得隨時向法律團隊諮詢這些問題。 在進行任何變更之前，請向您的團隊詢問先前的行動方案，以維持法規遵循。</td>
   </tr>
   <tr> 
    <td>生命週期</td> 

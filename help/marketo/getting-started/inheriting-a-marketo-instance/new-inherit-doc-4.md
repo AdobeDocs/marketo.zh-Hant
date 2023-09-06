@@ -3,9 +3,9 @@ description: 繼承檔案4 - Marketo檔案 — 產品檔案
 title: 繼承檔案4
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '521'
 ht-degree: 1%
 
 ---
@@ -60,13 +60,13 @@ ht-degree: 1%
   <tr> 
    <td>資料標準化</td> 
    <td><li>是您的 <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">表單欄位</a> 主要是挑選清單或開啟文字欄位？</li>
-<p>提示：如果欄位是開啟的文字欄位，請考慮將其切換為選取清單以防止資料混亂。</td>
+<p><img src="assets/tip-icon.png" alt="提示圖示">提示：如果欄位是開啟的文字欄位，請考慮將其切換為選取清單以防止資料混亂。</td>
   </tr>
   <tr> 
    <td>隱私權與合規性</td> 
    <td><li>您的表單策略是否符合貴公司的資料隱私權和選擇加入要求？ 
    <br/>     考慮 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">一般資料保護規範(GDPR)</a>、加拿大的反垃圾郵件法(CASL)、2003年控制非請求的色情製品攻擊與行銷法(CAN-SPAM)、加州消費者隱私法(CCPA)等，以符合法規。</li>
-<p>秘訣：請記得隨時向法律團隊諮詢這些問題。 在進行任何變更之前，請向您的團隊詢問先前的行動方案，以維持法規遵循。</td>
+<p><img src="assets/tip-icon.png" alt="提示圖示">秘訣：請記得隨時向法律團隊諮詢這些問題。 在進行任何變更之前，請向您的團隊詢問先前的行動方案，以維持法規遵循。</td>
   </tr>
  </tbody> 
 </table>
@@ -94,7 +94,7 @@ ht-degree: 1%
   <tr> 
    <td>隱私權與合規性</td> 
    <td><li>您所有的電子郵件是否都有適當的頁尾？ 考慮GDPR、CASL、CAN-SPAM、CCPA等 合規性影響的資訊。</li>
-<p>提示：請記得一律就這些合規性問題諮詢您的法律團隊。 在進行任何變更之前，請向您的團隊詢問先前的行動方案，以維持法規遵循。</td>
+<p><img src="assets/tip-icon.png" alt="提示圖示">提示：請記得一律就這些法規遵循問題諮詢您的法律團隊。 在進行任何變更之前，請向您的團隊詢問先前的行動方案，以維持法規遵循。</td>
   </tr>
  </tbody> 
 </table>
@@ -156,7 +156,7 @@ ht-degree: 1%
   <tr> 
    <td>資產共用</td> 
    <td><li>哪些資產 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">在工作區間共用</a>？</li>
-   <p>注意：瞭解這一點很重要，因為在一個工作區中採取的動作可能會導致另一個使用者無法存取不同工作區中的資產。</td>
+   <p><img src="assets/note-icon.png" alt="附註圖示"> 注意：請務必瞭解這一點，因為在一個工作區中採取的動作可能會導致另一個使用者無法存取不同工作區中的資產。</td>
   </tr>
  </tbody> 
 </table>

@@ -3,9 +3,9 @@ description: 繼承檔案2 - Marketo檔案 — 產品檔案
 title: 繼承Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '368'
 ht-degree: 1%
 
 ---
@@ -75,7 +75,7 @@ ht-degree: 1%
    <td><li>數量 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">智慧清單</a> 有嗎？ 在此例項中如何使用它們？</li>
 <li>清單是否以有凝聚力的資料夾結構組織？ 
 <br/>     如果您有孤立清單，請考慮組織您的樹狀結構，以便輕鬆找到資產。</li>
-<p>秘訣： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">正在封存</a> 不再需要的智慧清單有助於組織和效能。</td>
+<p><img src="assets/tip-icon.png" alt="提示圖示">秘訣： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">正在封存</a> 不再需要的智慧清單有助於組織和效能。</td>
   </tr>
  </tbody> 
 </table>

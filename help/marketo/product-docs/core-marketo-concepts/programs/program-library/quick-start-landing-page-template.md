@@ -4,9 +4,9 @@ title: 快速入門登陸頁面範本
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Marketo Engage參考資料庫中的部分入門方案包含一個簡單、易於
    * 顯示或隱藏區段
    * 區段的上內距
    * 區段的底部內距
-* PICC
+* ![](assets/quick-start-landing-page-template-1.png)
 
 ### 影像區段 {#image-section}
 
@@ -42,7 +42,7 @@ Marketo Engage參考資料庫中的部分入門方案包含一個簡單、易於
    * 橫幅影像連結
    * 橫幅寬度 — 右下方的其中一個開關可讓您將影像設為內容容器的寬度或整個瀏覽器的寬度
    * 顯示或隱藏區段
-* PICC
+* ![](assets/quick-start-landing-page-template-2.png)
 
 ### 左側為2欄文字，右側為表單 {#two-col-left-form-right}
 
@@ -56,7 +56,7 @@ Marketo Engage參考資料庫中的部分入門方案包含一個簡單、易於
    * 顯示或隱藏整個區段
    * 只顯示或隱藏表單(隱藏表單會導致左欄中的文字填滿頁面寬度。 可用於沒有表單的感謝或確認頁面。)
    * 顯示或隱藏隱私權原則文字
-* PICC
+* ![](assets/quick-start-landing-page-template-3.png)
 
 ### 視訊區段 {#video-section}
 
@@ -66,7 +66,7 @@ Marketo Engage參考資料庫中的部分入門方案包含一個簡單、易於
    * 視訊內嵌程式碼
    * 顯示/隱藏視訊標題
    * 顯示/隱藏視訊
-* PICC
+* ![](assets/quick-start-landing-page-template-4.png)
 
 ### 頁尾部分 {#footer-section}
 
@@ -76,7 +76,7 @@ Marketo Engage參考資料庫中的部分入門方案包含一個簡單、易於
    * 區段的背景顏色
    * 社交圖示顏色
    * 顯示/隱藏區段
-* PICC
+* ![](assets/quick-start-landing-page-template-5.png)
 
 ### 其他變數 {#additional-variables}
 
