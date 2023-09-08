@@ -3,9 +3,9 @@ description: 互動式網路研討會概覽 — Marketo檔案 — 產品檔案
 title: 互動式網路研討會概觀
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7e1f289cb074e016308b75b913a3faeafe149404
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ ht-degree: 0%
 **我需要另外訂閱互動式網路研討會嗎？**
 
 否. 使用互動式網路研討會只需要有效的Marketo Engage訂閱。
+
+**互動式網路研討會提供哪些語言？**
+
+互動式網路研討會提供Marketo支援的所有六種語言：英文、法文、德文、日文、葡萄牙文和西班牙文。 Adobe Connect以及透過互動式網路研討會提供的網路研討會期間，都支援相同語言。
 
 **我已用完所包含的互動式網路研討會數目。 如何取得更多工作階段或更多容量？**
 

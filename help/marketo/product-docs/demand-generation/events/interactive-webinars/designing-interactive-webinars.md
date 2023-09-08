@@ -3,9 +3,9 @@ description: 設計互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 設計互動式網路研討會
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ ht-degree: 0%
 1. 您的網路研討會預覽將會出現。
 
    ![](assets/designing-interactive-webinars-4.png)
+
+   >[!TIP]
+   >
+   >您的網路研討會將在Marketo Engage例項中設定為預設語言，但您可以選擇使用預覽上方的下拉式清單，根據每個網路研討會變更語言。
 
 1. 您可以選取不同的版面進行預覽。 若要繼續，請按一下 **使用範本**.
 
