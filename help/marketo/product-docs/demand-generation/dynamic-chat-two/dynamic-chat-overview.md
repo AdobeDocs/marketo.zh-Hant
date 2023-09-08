@@ -4,9 +4,9 @@ title: Dynamic Chat概觀
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '876'
 ht-degree: 2%
 
 ---
@@ -52,6 +52,10 @@ Dynamic Chat的一個重要元件，是能夠與您的Marketo訂閱原生介面�
 ## 路由 {#routing}
 
 您可以在此處檢視已連線其行事曆的所有代理程式清單、其向網站訪客呈現的順序，以及建立自訂路由規則。 [進一步瞭解路由](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
+
+## 即時聊天 {#live-chat}
+
+提供合格的網頁訪客，透過即時聊天與銷售代表交流。 連結至檔案
 
 ## 常見問題集 {#faq}
 

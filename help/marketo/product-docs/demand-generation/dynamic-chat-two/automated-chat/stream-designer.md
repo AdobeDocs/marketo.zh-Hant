@@ -4,9 +4,9 @@ title: 流程設計工具
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '980'
 ht-degree: 2%
 
 ---
@@ -48,6 +48,16 @@ ht-degree: 2%
  <tr>
   <td><strong>目標</strong></td>
   <td>這是訪客唯一不會看到的卡片。 您可以決定在特定聊天中達成目標的時間（例如：如果收集訪客的電子郵件是您的目標，請在資料流中的資訊擷取之後立即放置目標卡片）。</td>
+ </tr>
+ <tr>
+  <td><strong>動作</strong></td>
+  <td>與表單中的隱藏欄位類似，您可以使用動作卡將您要針對潛在客戶記錄擷取的隱含值填入任何潛在客戶或公司屬性。 您可以在交談的任何時間點新增動作卡，並使用自動填入個別值的值或原生權杖更新個別屬性。</td>
+ </tr>
+ <tr>
+  <td><strong>即時聊天</strong></td>
+  <td>當您希望訪客與即時代理程式聊天時，請使用即時聊天卡。
+  <li>即時聊天卡必須是分支中的最後一張卡</li>
+  <li>訪客在資料流中到達這張卡片後，就會立即路由到代理商，因此建議在此卡片前面加上問答卡，詢問訪客是否想與即時代理商聊天</li></td>
  </tr>
 </table>
 
