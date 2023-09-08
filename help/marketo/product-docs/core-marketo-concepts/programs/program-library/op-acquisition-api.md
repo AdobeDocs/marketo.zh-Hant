@@ -4,9 +4,9 @@ title: OP-Acquisition-API
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 0f71600b18315feb3ef32e95dfb108b09c4cb79f
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---
@@ -61,7 +61,7 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-程式熒幕擷圖
+![](assets/op-acquisition-api-1.png)
 
 ## 衝突規則 {#conflict-rules}
 
@@ -80,8 +80,6 @@ ht-degree: 1%
 * **相同名稱的電子郵件範本**
    * 保留兩個範本 —  _建議_
    * 取代現有範本
-
-衝突規則的熒幕擷圖
 
 ## 最佳實務 {#best-practices}
 

@@ -4,9 +4,9 @@ title: 營運商管理
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '266'
 ht-degree: 2%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 2%
  </tbody> 
 </table>
 
-程式熒幕擷圖
+![](assets/op-lead-management-1.png)
 
 ## 衝突規則 {#conflict-rules}
 
@@ -96,8 +96,6 @@ ht-degree: 2%
 * **相同名稱的電子郵件範本**
    * 保留兩個範本 —  _建議_
    * 取代現有範本
-
-衝突規則的熒幕擷圖
 
 ## 最佳實務 {#best-practices}
 

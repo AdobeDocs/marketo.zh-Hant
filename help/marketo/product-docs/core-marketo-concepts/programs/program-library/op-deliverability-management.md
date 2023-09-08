@@ -4,9 +4,9 @@ title: OP — 傳遞性管理
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '261'
 ht-degree: 4%
 
 ---
@@ -99,7 +99,7 @@ ht-degree: 4%
  </tbody> 
 </table>
 
-程式熒幕擷圖
+![](assets/op-deliverability-management-1.png)
 
 ## 衝突規則 {#conflict-rules}
 
@@ -118,8 +118,6 @@ ht-degree: 4%
 * **相同名稱的電子郵件範本**
    * 保留兩個範本 —  _建議_
    * 取代現有範本
-
-衝突規則的熒幕擷圖
 
 ## 最佳實務 {#best-practices}
 

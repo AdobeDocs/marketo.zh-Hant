@@ -4,7 +4,7 @@ title: OA-YYYY-MM-Online Advertising Marketo登陸頁面
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
 source-wordcount: '480'
 ht-degree: 3%
@@ -109,6 +109,8 @@ ht-degree: 3%
   </tr>
  </tbody> 
 </table>
+
+![](assets/oa-yyyy-mm-online-advertising-marketo-landing-page-1.png)
 
 ## 包含我的Token {#my-tokens-included}
 

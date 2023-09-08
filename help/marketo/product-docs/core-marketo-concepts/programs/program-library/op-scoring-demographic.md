@@ -4,9 +4,9 @@ title: OP評分人口統計
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: eb68ae803f2e313a7ac35747aacca5eed7089b0f
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '313'
 ht-degree: 16%
 
 ---
@@ -130,6 +130,8 @@ ht-degree: 16%
  </tbody> 
 </table>
 
+![](assets/op-scoring-demographic-1.png)
+
 ## 包含我的Token {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -232,8 +234,6 @@ ht-degree: 16%
  </tbody> 
 </table>
 
-程式熒幕擷圖
-
 ## 衝突規則 {#conflict-rules}
 
 * **計畫標籤**
@@ -251,8 +251,6 @@ ht-degree: 16%
 * **相同名稱的電子郵件範本**
    * 保留兩個範本 —  _建議_
    * 取代現有範本
-
-衝突規則的熒幕擷圖
 
 ## 最佳實務 {#best-practices}
 
