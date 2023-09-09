@@ -3,7 +3,7 @@ description: 繼承執行個體管理員檢查清單 — Marketo檔案 — 產�
 title: 繼承執行個體管理員檢查清單
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
 source-wordcount: '1444'
 ht-degree: 1%
@@ -344,4 +344,4 @@ ht-degree: 1%
 
 <br> 
 
-[稽核繼承的執行個體：資料庫►定](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+[稽核繼承的執行個體：資料庫►定](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)

@@ -3,10 +3,10 @@ description: 繼承例項檔案您的設定 — Marketo檔案 — 產品檔案
 title: 繼承例項檔案您的設定
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 2%
+source-wordcount: '252'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 2%
    <td>輸入</td> 
    <td><li>哪些系統將資料提供給Marketo Engage？</li>
    <li>他們是否要將資料載入程式或資料庫中？ 如果程式，哪些程式？</li>
-   <p>行動專案：建立系統之間的資料字典/欄位對應表格。</td>
+   <p><img src="assets/action-item-icon.png" alt="動作專案圖示">行動專案：建立系統之間的資料字典/欄位對應表格。</td>
   </tr>
   <tr> 
    <td>輸出</td> 
@@ -51,7 +51,7 @@ ht-degree: 2%
   <tr> 
    <td>組織</td> 
     <td><li>您是否擁有健全的檔案，說明您的Marketo Engage執行個體的組織方式以及原因？</li>
-   <p>行動專案：建立包含檔案夾結構、命名慣例和執行個體中使用的管道的檔案。</td>
+   <p><p><img src="assets/action-item-icon.png" alt="動作專案圖示">行動專案：建立包含檔案夾結構、命名慣例和執行個體中使用的管道的檔案。</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -70,4 +70,4 @@ ht-degree: 2%
  </tbody> 
 </table>
 
-[◄稽核繼承的執行個體： Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+[◄稽核繼承的執行個體： Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)

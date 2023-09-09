@@ -3,7 +3,7 @@ description: 繼承例項Design Studio檢查清單 — Marketo檔案 — 產品�
 title: 繼承的執行個體Design Studio檢查清單
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 1%
@@ -163,6 +163,6 @@ ht-degree: 1%
 
 <br> 
 
-[◄稽核繼承的執行個體：行銷活動](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+[◄稽核繼承的執行個體：行銷活動](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
 
-[稽核繼承的執行個體：記錄您繼承的執行個體設定►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+[稽核繼承的執行個體：記錄您繼承的執行個體設定►](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
