@@ -4,9 +4,9 @@ description: Salesforce中的Marketo Sales Insight設定索引標籤 — Marketo
 title: Salesforce中的Marketo Sales Insight設定索引標籤
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '618'
 ht-degree: 0%
 
 ---
@@ -63,11 +63,17 @@ ht-degree: 0%
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-4.png)
 
+## 支援設定 {#support-settings}
+
+選取此核取方塊將會在您的Salesforce執行個體中啟用偵錯記錄。 它有助於您疑難排解問題。
+
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+
 ## 重設Marketo Sales Insight {#reset-marketo-sales-insight}
 
 若選擇這麼做，將會清除SFDC中的所有設定，且無法還原。 您必須重新設定所有專案。
 
-![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-6.png)
 
 >[!IMPORTANT]
 >
