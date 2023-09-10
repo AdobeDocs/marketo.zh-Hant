@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
+source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
 workflow-type: tm+mt
-source-wordcount: '9095'
-ht-degree: 0%
+source-wordcount: '9153'
+ht-degree: 1%
 
 ---
 
@@ -648,9 +648,35 @@ ht-degree: 0%
          + [將LinkedIn相符的受眾新增為LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [傳送清單至廣告網路](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Dynamic Chat二 {#dynamic-chat-two}
+         + [Dynamic Chat概觀](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-overview.md)
+         + [聊天機器人行為](product-docs/demand-generation/dynamic-chat-two/automated-chat/chatbot-behavior.md)
+         + [會議清單](product-docs/demand-generation/dynamic-chat-two/automated-chat/meeting-list.md)
+         + [Dynamic Chat活動](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-activites.md)
+         + [分析](product-docs/demand-generation/dynamic-chat-two/automated-chat/analytics.md)
          + 自動聊天 {#automated-chat}
-            + [對話流量設定](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
             + [對話式流程概要](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
+            + [建立對話流程](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
+            + [對話流量設定](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
+            + [Conversations SDK](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
+            + [對話方塊概述](product-docs/demand-generation/dynamic-chat-two/automated-chat/doc.md)
+            + [建立對話方塊](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
+            + [對象條件](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
+            + [流程設計工具](product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md)
+            + [報表](product-docs/demand-generation/dynamic-chat-two/automated-chat/reports.md)
+         + 整合 {#integrations}
+            + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-marketo-engage.md)
+            + [Adobe PDF 嵌入式 API](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md)
+         + 即時聊天 {#live-chat}
+            + [專員收件匣](product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md)
+            + [通知](product-docs/demand-generation/dynamic-chat-two/live-chat/notifications.md)
+         + 設定與組態 {#setup-and-configuration}
+            + [初始設定](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/initial-setup.md)
+            + [新增或移除聊天使用者](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/add-or-remove-chat-users.md)
+            + [設定](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/configuration.md)
+            + [專員設定](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md)
+            + [代理程式管理](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md)
+            + [安全性設定](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/security-settings.md)
+            + [路由](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/routing.md)
       + Dynamic Chat {#dynamic-chat}
          + [發行插入](product-docs/demand-generation/dynamic-chat/release-inserts.md)
          + [Dynamic Chat概觀](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
