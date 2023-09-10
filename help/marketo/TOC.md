@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
+source-git-commit: a2830942e6e51e754d313bd79a00f87713c2db8c
 workflow-type: tm+mt
 source-wordcount: '9153'
 ht-degree: 1%
@@ -648,11 +648,11 @@ ht-degree: 1%
          + [將LinkedIn相符的受眾新增為LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [傳送清單至廣告網路](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Dynamic Chat二 {#dynamic-chat-two}
-         + [Dynamic Chat概觀](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-overview.md)
-         + [聊天機器人行為](product-docs/demand-generation/dynamic-chat-two/automated-chat/chatbot-behavior.md)
-         + [會議清單](product-docs/demand-generation/dynamic-chat-two/automated-chat/meeting-list.md)
-         + [Dynamic Chat活動](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-activites.md)
-         + [分析](product-docs/demand-generation/dynamic-chat-two/automated-chat/analytics.md)
+         + [Dynamic Chat概觀](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-overview.md)
+         + [聊天機器人行為](product-docs/demand-generation/dynamic-chat-two/chatbot-behavior.md)
+         + [會議清單](product-docs/demand-generation/dynamic-chat-two/meeting-list.md)
+         + [Dynamic Chat活動](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activites.md)
+         + [分析](product-docs/demand-generation/dynamic-chat-two/analytics.md)
          + 自動聊天 {#automated-chat}
             + [對話式流程概要](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
             + [建立對話流程](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
