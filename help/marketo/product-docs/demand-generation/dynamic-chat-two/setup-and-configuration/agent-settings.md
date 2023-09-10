@@ -4,16 +4,18 @@ title: 專員設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 2%
+source-wordcount: '249'
+ht-degree: 3%
 
 ---
 
 # 專員設定 {#agent-settings}
 
 在[行事曆]索引標籤中，連線您的Outlook或Gmail行事曆，以用於聊天機器人中的約會排程。
+
+## 連線行事曆 {#connect-calendar}
 
 ![](assets/agent-settings-1.png)
 
@@ -31,7 +33,7 @@ ht-degree: 2%
 >
 >使用權杖圖示（大括弧），使用人員或公司屬性個人化您的會議預約確認電子郵件。
 
-## 權限 {#permissions}
+### 權限 {#permissions}
 
 使用Outlook設定可授予Dynamic Chat下列許可權：
 
@@ -47,3 +49,15 @@ ht-degree: 2%
 * 變更您的設定，包括誰能看見您的活動
 * 變更與誰共用行事曆
 * 存取您的姓名、電子郵件地址、語言偏好設定和設定檔圖片
+
+## 即時聊天可用性設定 {#live-chat-availability-settings}
+
+文字
+
+## 會議預約可用性設定 {#meeting-booking-availability-settings}
+
+文字
+
+## 會議長度和緩衝時間 {#meeting-length-and-buffer-time}
+
+文字
