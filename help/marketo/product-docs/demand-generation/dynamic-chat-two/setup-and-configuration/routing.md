@@ -4,9 +4,9 @@ title: 路由
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 在此範例中，我們會將推斷的CA、OR和WA狀態的所有會議傳送給代理程式John。
 
-1. 在Dynamic Chat中選取 **路由**.
+1. 在「組態」底下，按一下 **路由規則**.
 
    ![](assets/routing-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    ![](assets/routing-3.png)
 
-1. 為規則命名，然後按一下 **下一個**.
+1. 為規則命名。 您可以選擇新增說明並設定其優先順序層級。 按一下 **下一個**.
 
    ![](assets/routing-4.png)
 
@@ -54,3 +54,14 @@ ht-degree: 1%
 1. 選取所有所需值時，按一下 **儲存**.
 
    ![](assets/routing-8.png)
+
+
+## 帳戶路由 {#account-routing}
+
+識別並上傳您的目標帳戶與個別銷售負責人，並將來自這些帳戶的訪客直接路由至個別帳戶負責人。
+
+![](assets/routing-9.png)
+
+團隊路由
+
+智慧清單路由的成員

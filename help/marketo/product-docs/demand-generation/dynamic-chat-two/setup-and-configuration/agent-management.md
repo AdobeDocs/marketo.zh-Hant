@@ -4,9 +4,9 @@ title: 代理程式管理
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '184'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 此索引標籤會列出您Dynamic Chat執行個體中的所有代理程式，並包含其名稱、電子郵件地址、即時聊天狀態等資訊。
 
-PICC2 — 需要男士的熒幕擷圖
+![](assets/agent-management-2.png)
 
 ## 團隊 {#teams}
 

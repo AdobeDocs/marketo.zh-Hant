@@ -4,10 +4,10 @@ title: Dynamic Chat概觀
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '873'
-ht-degree: 2%
+source-wordcount: '665'
+ht-degree: 1%
 
 ---
 
@@ -109,90 +109,29 @@ Dynamic ChatJavaScript程式碼片段可安裝在任何網站以及Marketo登陸
 
 當您更新語言時，除了您親自填入的字詞之外（例如資料流回應），應用程式本身中的所有內容都會變更。
 
-## Dynamic Chat限制 {#limits-in-dynamic-chat}
+## Dynamic Chat資料保留限制 {#dynamic-chat-data-retention-limits}
 
 <table>
-  <th>引數</th>
-  <th>說明</th>
-  <th>限制</th>
+  <th>資料類型</th>
+  <th>保留期間</th>
  <tr>
-  <td>對話方塊總數</td>
-  <td>對話方塊數目（已發佈及草稿）</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>行事曆總數</td>
-  <td>連線的行事曆數目</td>
-  <td>25</td>
- </tr>
- <tr>
-  <td>使用者總數（管理員和行銷使用者）</td>
-  <td>每個Dynamic Chat例項允許的合併使用者數</td>
-  <td>50</td>
- </tr>
- <tr>
-  <td>已發佈對話方塊</td>
-  <td>已儲存的已發佈對話方塊數目</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>每個對話方塊的目標URL</td>
-  <td>可新增至單一對話方塊的目標URL數量</td>
-  <td>20</td>
- </tr>
- <tr>
-  <td>每個對話方塊的屬性</td>
-  <td>單一對話方塊可新增至對象條件的屬性數量</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>群組</td>
-  <td>可新增至單一對話方塊的群組數量</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>每個群組的屬性</td>
-  <td>可新增至群組的屬性數量</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>卡片</td>
-  <td>每個對話方塊可新增到畫布的卡片數量</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>匿名潛在客戶資料保留期</td>
-  <td>沒有任何參與的匿名潛在客戶資訊將保留多久的時間</td>
+  <td>無任何參與的匿名銷售機會</td>
   <td>90天</td>
  </tr>
  <tr>
-  <td>目標活動保留期</td>
-  <td>保留目標活動資料的時間量</td>
+  <td>目標活動</td>
   <td>24個月</td>
  </tr>
  <tr>
-  <td>檔案活動保留期</td>
-  <td>檔案活動資料的保留時間</td>
+  <td>檔案活動</td>
   <td>24個月</td>
  </tr>
  <tr>
-  <td>與對話方塊活動保留期間互動</td>
-  <td>保留與對話方塊活動資料互動的時間長度</td>
+  <td>與對話方塊活動互動</td>
   <td>90天</td>
  </tr>
  <tr>
-  <td>會議預約活動保留期間</td>
-  <td>會議預約活動將以Dynamic Chat儲存的時間長度</td>
+  <td>會議預約活動</td>
   <td>24個月</td>
- </tr>
- <tr>
-  <td>已參與的交談</td>
-  <td>每個月可由Web訪客參與的聊天對話數</td>
-  <td>250</td>
- </tr>
- <tr>
-  <td>對話已觸發</td>
-  <td>每個月可顯示給Web訪客的聊天對話次數</td>
-  <td>25,000</td>
  </tr>
 </table>
