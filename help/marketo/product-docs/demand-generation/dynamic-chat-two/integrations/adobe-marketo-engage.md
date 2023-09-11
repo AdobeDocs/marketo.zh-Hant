@@ -4,9 +4,9 @@ title: Adobe Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '260'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 ## 正在連線Dynamic Chat {#connecting-dynamic-chat}
 
-在您完成 [初始設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}，現在應該執行一次性同步連線Dynamic Chat至您的Marketo訂閱。
+在您完成 [初始設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}，現在應該執行一次性同步連線Dynamic Chat至您的Adobe Marketo Engage訂閱。
 
 1. 在「我的Marketo」中，按一下 **Dynamic Chat** 圖磚。
 

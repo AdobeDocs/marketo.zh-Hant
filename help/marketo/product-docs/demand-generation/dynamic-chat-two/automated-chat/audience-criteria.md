@@ -4,9 +4,9 @@ title: 對象條件
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
@@ -23,8 +23,6 @@ ht-degree: 2%
 
 ## 事件 {#events}
 
-![](assets/audience-criteria-2.png)
-
 事件可讓您根據訪客的捲動次數或他們在您的頁面/網站上的時間長度來鎖定訪客。 在以下範例中，我們鎖定了在特定頁面上停留超過20秒的訪客。
 
 1. 抓取 **頁面逗留時間** 事件，並將其拖曳至右側。
@@ -40,8 +38,6 @@ ht-degree: 2%
    ![](assets/audience-criteria-5.png)
 
 ## 屬性 {#attributes}
-
-![](assets/audience-criteria-6.png)
 
 **已知人員**
 
@@ -96,6 +92,18 @@ ht-degree: 2%
 1. _是_ 已預設設定。 在「選取值」欄位中，輸入NY （您也可以按一下下拉式清單，然後從清單中選取）。
 
    ![](assets/audience-criteria-15.png)
+
+## 會籍 {#membership}
+
+對對話方塊的目標對象使用「Marketo Engage智慧列示」 。
+
+1. 在成員資格下，抓取 **智慧清單的成員** 然後放到畫布上。
+
+   ![](assets/audience-criteria-15a.png)
+
+1. 選取您需要的智慧清單。
+
+   ![](assets/audience-criteria-15b.png)
 
 ## 新增群組 {#add-groups}
 

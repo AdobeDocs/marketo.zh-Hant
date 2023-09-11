@@ -4,7 +4,7 @@ title: 即時聊天總覽
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 2%
@@ -26,7 +26,7 @@ ht-degree: 2%
 **最佳實務**
 
 * 在即時聊天卡之前使用問題卡詢問訪客是否想要連線。
-* 訪客同意連線後，請使用資訊擷取卡片來取得部分資訊，例如名字/姓氏、電子郵件地址、職稱等。 （建議至少索取名字和電子郵件地址）
+* 訪客同意連線後，請使用資訊擷取卡片來收集部分資訊，例如名字/姓氏、電子郵件地址、職稱等。 （建議至少索取名字和電子郵件地址）。
 
 ## 即時聊天卡選項 {#live-chat-card-options}
 

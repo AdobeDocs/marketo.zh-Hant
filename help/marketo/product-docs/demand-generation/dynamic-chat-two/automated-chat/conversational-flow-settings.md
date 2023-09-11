@@ -4,9 +4,9 @@ title: Marketo EngageForms的對話流量設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 59a1dfe1a6ca638cdbc18a7163e64dc2bac25bb5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >在此新增先決條件
+
+>[!AVAILABILITY]
+>
+>智慧清單成員或清單成員條件需要Dynamic ChatPrime。
 
 1. 尋找並選取您的表單（或建立新表單）。
 
