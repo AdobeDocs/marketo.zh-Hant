@@ -4,9 +4,9 @@ title: 代理程式管理
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '189'
 ht-degree: 2%
 
 ---
@@ -63,7 +63,7 @@ PICC2 — 需要男士的熒幕擷圖
 
 >[!NOTE]
 >
->選取 **包含會議預約選項** 核取方塊將為聊天訪客產生會議預訂Widget。
+>選取 **包含會議預約選項** 核取方塊可讓聊天訪客在沒有代理程式可供即時聊天時預約會議。
 
 >[!TIP]
 >

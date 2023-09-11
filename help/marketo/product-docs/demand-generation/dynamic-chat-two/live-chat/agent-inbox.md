@@ -4,9 +4,9 @@ title: 專員收件匣
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 4d5f0c1c2fa050d4da38daaff1a1be3725bda1d7
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -27,6 +27,10 @@ ht-degree: 1%
 >
 >**這將覆蓋** 此 [即時聊天可用性](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) 您已在[代理程式設定]中建立。 狀態會一直保留，直到您將其切換回或在您的可用性中切換至下一個時間區塊為止。
 
+>[!NOTE]
+>
+>將您的狀態設定為無法使用不會影響任何作用中的聊天。
+
 ## 接受即時交談 {#accepting-a-live-chat}
 
 當將即時聊天路由給代理時，他們會在熒幕上方看到藍色橫幅，要求他們接受。
@@ -36,7 +40,6 @@ ht-degree: 1%
 ### 注意事項 {#things-to-note}
 
 * 在「接受聊天」訊息逾時之前，代理程式有45秒的時間回應。
-* 瀏覽器TIDBIT
 * 目前每個代理程式限製為10個即時聊天
 
 ## 交談 {#conversations}
@@ -44,6 +47,10 @@ ht-degree: 1%
 在[代理程式收件匣]畫面的左側，您可以選擇只顯示作用中的交談，或顯示所有的交談。
 
 ![](assets/agent-inbox-4.png)
+
+>[!NOTE]
+>
+>雖然您可以看到自己和其他代理程式過去（非作用中）的交談，但您只能看到自己的作用中交談。
 
 ## 訪客資訊 {#visitor-information}
 
@@ -61,4 +68,18 @@ ht-degree: 1%
 >
 >只會顯示過去90天的資訊。
 
-作用中的交談 — 所有交談 — 行事曆共用訪客資訊 — 最近的Dynamic Chat活動
+## 行事曆共用 {#calendar-sharing}
+
+即時聊天視窗底部是一個圖示，可讓您與聊天訪客共用您或其他代理程式的行事曆。
+
+1. 按一下日曆圖示。
+
+   ![](assets/agent-inbox-7.png)
+
+1. 選擇所需的代理程式行事曆並按一下 **傳送**.
+
+   ![](assets/agent-inbox-8.png)
+
+1. 聊天訪客將能夠預約會議。
+
+   ![](assets/agent-inbox-9.png)
