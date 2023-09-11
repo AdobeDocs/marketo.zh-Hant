@@ -4,9 +4,9 @@ title: 代理程式管理
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ce4daadc8351faaeb6537e75ec7d9f96bd835e5c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '180'
 ht-degree: 2%
 
 ---
@@ -60,6 +60,10 @@ PICC2 — 需要男士的熒幕擷圖
 選取標準（系統）訊息或撰寫自訂訊息，讓訪客在即時聊天無法使用時檢視。
 
 ![](assets/agent-management-9.png)
+
+>[!NOTE]
+>
+>選取 **包含會議預約選項** 核取方塊將為聊天訪客產生會議預訂Widget。
 
 >[!TIP]
 >

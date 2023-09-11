@@ -4,7 +4,7 @@ title: 流程設計工具
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
 source-wordcount: '980'
 ht-degree: 2%
@@ -56,8 +56,8 @@ ht-degree: 2%
  <tr>
   <td><strong>即時聊天</strong></td>
   <td>當您希望訪客與即時代理程式聊天時，請使用即時聊天卡。
-  <li>即時聊天卡必須是分支中的最後一張卡</li>
-  <li>訪客在資料流中到達這張卡片後，就會立即路由到代理商，因此建議在此卡片前面加上問答卡，詢問訪客是否想與即時代理商聊天</li></td>
+  <li>即時聊天卡必須是分支中的最後一張卡。</li>
+  <li>訪客在資料流中到達這張卡片後，就會立即路由到代理商，因此建議在此卡片前面加上問答卡，詢問訪客是否想與即時代理商聊天。</li></td>
  </tr>
 </table>
 
