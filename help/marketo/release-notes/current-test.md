@@ -4,7 +4,7 @@ title: 最新發行說明測試
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: bca573d47314ce8017cbe8a3834c01618ccf601f
+source-git-commit: 8c0a62806d6ef24e75d1e6e2eafe2640a3ebb6e5
 workflow-type: tm+mt
 source-wordcount: '897'
 ht-degree: 1%
@@ -22,6 +22,7 @@ ht-degree: 1%
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
 下列功能屬於標準發行週期，並將於以下日期開始發行 **2023年9月8日**，在接下來的幾週內分階段推出剩餘的功能。 發行功能和日期可能會有所變更。 請檢查每個功能旁的狀態。
+
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
@@ -85,6 +86,7 @@ ht-degree: 1%
   </tr>
  </tbody> 
 </table>
+</br>
 
 ### Dynamic Chat {#dynamic-chat}
 
