@@ -4,9 +4,9 @@ title: Marketo EngageForms的對話流量設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b894b6fa62c6939ba450fa259b4cf5290b4582f5
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Marketo EngageForms的對話流量設定{#conversational-flow-settings-for-marketo-engage-forms}
 
 將Marketo Engage Forms與Dynamic Chat交談流程整合，使其成為交談式交談。 使用表單資料或智慧清單成員資格來立即取得銷售機會資格，以符合預訂、白皮書連結或自訂目標。
-
->[!PREREQUISITES]
->
->在此新增先決條件
 
 >[!AVAILABILITY]
 >

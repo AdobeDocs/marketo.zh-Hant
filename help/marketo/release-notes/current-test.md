@@ -4,9 +4,9 @@ title: 最新發行說明測試
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1212'
 ht-degree: 2%
 
 ---
@@ -117,11 +117,9 @@ ht-degree: 2%
 
 * 更多空間
 
-* 測試結束……目前
-
 * **由Design Studio資產的計數欄使用**：
 
-<table> 
+<table width="400">
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -135,7 +133,7 @@ ht-degree: 2%
 
 * **用於Design Studio資產的索引標籤增強功能**：增強功能使用索引標籤提供更詳細的資產型別和名稱檢視，以及資產的使用位置。 這適用於電子郵件詳細資訊和影像與檔案詳細資訊。
 
-<table> 
+<table width="400px">
   <tr> 
    <td><b>狀態</b></td>
    <td><b>檔案更新</b></td>
@@ -146,6 +144,12 @@ ht-degree: 2%
   </tr>
   </tbody>
 </table>
+
+* 空格
+
+* 更多空間
+
+* 測試結束……目前
 
 * **計算公式流程步驟服務**：運算公式是以Adobe的IO執行階段平台為基礎所建置的流程步驟服務，可與Marketo Engage智慧行銷活動搭配使用。 具有IO執行階段的Adobe使用者端可部署服務，並將其安裝至其Marketo Engage訂閱，好讓他們在Marketo Smart Campaigns中計算Excel式公式。
 
