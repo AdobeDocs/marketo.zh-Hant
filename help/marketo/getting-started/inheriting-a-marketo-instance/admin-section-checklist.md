@@ -3,7 +3,7 @@ description: 繼承執行個體管理員檢查清單 — Marketo檔案 — 產�
 title: 繼承執行個體管理員檢查清單
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
 workflow-type: tm+mt
 source-wordcount: '1444'
 ht-degree: 1%
@@ -60,7 +60,7 @@ ht-degree: 1%
   <tr> 
    <td>使用者</td> 
    <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">使用者數量</a> 有嗎？</li>
-<li>是否有任何應過期的使用者？</li>
+<li>是否有任何應移除的使用者？</li>
 <li>貴公司是否有刪除使用者的相關政策？</li> 
 <li>使用者數量 <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">管理員許可權</a>？</li>
 <li>這些使用者中是否應該有任何變更為 <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">其他角色？</a></li> 

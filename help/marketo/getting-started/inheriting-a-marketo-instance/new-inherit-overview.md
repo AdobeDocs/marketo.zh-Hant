@@ -3,9 +3,9 @@ description: 瞭解如何最佳化和擴充您繼承的現有Marketo Engage例�
 title: Jumpstart繼承的Marketo Engage例項
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,23 @@ ht-degree: 0%
 
 開始新工作或從其他管理員接管現有執行個體？ 接管已執行一段時間的即時執行個體似乎有些令人望之卻步，但本指南將幫助您快速上手並執行。
 
-## 要簽出的專案 {#items-to-check-off}
+## 在行銷國家中設定 {#get-set-up-in-the-marketing-nation}
 
-確定您已正確設定正確的存取權和資訊型別。
+確定您已在Marketo社群中正確設定。
 
-* 觀看以下簡短概述 **Marketo的作用**  — 公斤 — 尋找更好的影片或DELETE
+* **[設定您的設定檔]**(https://nation.marketo.com/){target="_blank"}.
 
-* **設定您的設定檔** 在 [**行銷國家**](https://nation.marketo.com/){target="_blank"} 社群（需要使用者名稱和密碼）。
+* [**設定您的設定檔**](https://nation.marketo.com/){target="_blank"}.
 
-* 閱讀本文 [**行銷社群指引**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+* **[設定您的設定檔](https://nation.marketo.com/)**{target="_blank"}.
+
+* **[設定您的設定檔](https://nation.marketo.com/){target="_blank"}**.
+
+* 閱讀本文 [**行銷社群指導方針**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
 * 按一下 **[!UICONTROL 您的地標]** 在您的Marketo Nation社群設定檔中，檢視您公司的帳戶頁面。
 
 * 瞭解如何 [**提交支援案例**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"})。
-
-* [**管理使用者**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target="_blank"} 並刪除已離開您公司的人。
 
 ## 繼承的執行個體稽核指南 {#inherited-instance-audit-guides}
 
