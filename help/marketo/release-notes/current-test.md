@@ -4,10 +4,10 @@ title: 最新發行說明測試
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 5a46493d1d9f1a56d574f62ce1d316a6238ee870
+source-git-commit: bca573d47314ce8017cbe8a3834c01618ccf601f
 workflow-type: tm+mt
-source-wordcount: '901'
-ht-degree: 0%
+source-wordcount: '897'
+ht-degree: 1%
 
 ---
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 ## 敏捷發行功能 {#agile-release-features}
 
 以下所有功能都遵循敏捷格式，並在標準發行日期之前或之後的各種日期發行。 請檢查每個功能旁的狀態。
-</br>
+
 <table style="border: none">
  <tbody> 
   <tr> 
@@ -97,8 +97,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>串流設計工具中的動作卡</strong>：當訪客參與對話方塊時，行銷人員可使用對話方塊資料流中的動作卡將隱藏值傳遞至Marketo Engage人員記錄。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md#stream-designer-cards" target="_blank">串流設計工具卡片</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -107,8 +107,8 @@ ht-degree: 0%
   </tr>
    <tr> 
    <td><strong>使用Marketo EngageForms進行對話式Forms</strong>：將Marketo Engage Forms與Dynamic Chat交談流程整合，使其成為交談。 使用表單資料或智慧清單成員資格來立即取得銷售機會資格，以符合預訂、白皮書連結或自訂目標。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">對話表單</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -117,8 +117,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>Conversations SDK</strong>：將任何表單、登陸頁面或幾乎任何網頁轉換為吸引人的會議預約體驗。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md#conversations-sdk" target="_blank">Conversations SDK</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -127,8 +127,8 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td><strong>自訂會議預約設定</strong>：代理可設定自訂會議預約設定，例如會議可用性、會議長度以及會議之間的「緩衝時間」。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#meeting-booking-availability" target="_blank">自訂會議預約設定</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -137,8 +137,8 @@ ht-degree: 0%
   </tr>
    <tr> 
    <td><strong>遞補設定</strong>：管理員可以設定自訂後援設定，以定義當代理無法聊天時訪客看到的內容。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#fallback-rules" target="_blank">遞補規則</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -147,8 +147,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>全域效能儀表板</strong>：檢視您的對話方塊的成效，包括參與和效能測量結果（總計和一段時間內的效能測量結果）、表現最佳的頁面以及表現最佳的對話方塊。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#global-performance-dashboard" target="_blank">全域效能儀表板</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -157,8 +157,8 @@ ht-degree: 0%
   </tr>
    <tr> 
    <td><strong>即時交談</strong>：網路訪客可與銷售代理即時交談，以取得問題的解答。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md" target="_blank">即時聊天總覽</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -167,8 +167,8 @@ ht-degree: 0%
   </tr>
    <tr> 
    <td><strong>即時聊天效能儀表板</strong>：檢視您的即時銷售代理有多少交談，以及哪些團隊的表現最好。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#live-chat-performance-dashboard" target="_blank">即時聊天效能儀表板</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -177,8 +177,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>Marketo Engage智慧清單目標定位</strong>：行銷人員可以在對話方塊對象條件中鎖定Marketo Engage智慧清單的成員。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md#membership" target="_blank">會籍</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -187,8 +187,8 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td><strong>會議績效儀表板</strong>：檢視已預約多少會議，以及正在預約誰。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#meeting-performance-dashboard" target="_blank">會議績效儀表板</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -197,8 +197,8 @@ ht-degree: 0%
   </tr>
    <tr> 
    <td><strong>新Dynamic Chat活動</strong>：新活動，可支援交談流程、即時聊天和其他新功能。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md" target="_blank">Dynamic Chat活動</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -207,8 +207,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>即時聊天通知</strong>：當訪客請求即時聊天時，代理會收到即時應用程式內和瀏覽器通知。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications" target="_blank">即時聊天通知</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -217,8 +217,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>團隊</strong>：建立代理團隊，將訪客路由至該團隊以進行即時聊天或會議預訂。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#teams" target="_blank">團隊</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -227,8 +227,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>觸發新活動的權杖</strong>：有新的觸發權杖可用來支援Dynamic Chat的新活動。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md#dynamic-chat-trigger-tokens" target="_blank">Dynamic Chat觸發權杖</a></td>
   </tr>
   <tr> 
    <td> </td> 
