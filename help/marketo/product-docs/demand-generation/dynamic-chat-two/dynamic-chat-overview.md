@@ -4,9 +4,9 @@ title: Dynamic Chat概觀
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 6682ff8611c0be30599b7bb6f516f9d7ba7ba926
+source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '627'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 1%
 # Dynamic Chat概觀 {#dynamic-chat-overview}
 
 Dynamic Chat可讓您運用易用的介面，將目標同時鎖定於造訪您網站的訪客和帳戶。 收集相關內容，例如姓名、聯絡資訊和任意文字。 網站訪客也可以預約與您的銷售團隊開會。 Dynamic Chat活動和參與資料可用來將成員新增至Marketo方案，並觸發跨頻道活動。
-
->[!NOTE]
->
->Dynamic Chat正在逐步推出，目前可用性有限。 此頁面將會在可供使用時以一般可用性(GA)詳細資訊更新。
 
 >[!TIP]
 >
