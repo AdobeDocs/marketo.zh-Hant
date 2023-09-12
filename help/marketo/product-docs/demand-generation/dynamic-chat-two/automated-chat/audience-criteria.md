@@ -4,9 +4,9 @@ title: 對象條件
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 ## 優先順序 {#priority}
 
-優先順序決定潛在客戶符合多個對話方塊資格時，會收到哪個對話方塊。 它是當您第一次使用 [建立您的對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}. 您可以開啟現有對話方塊並前往 **對話方塊詳細資料** 在「對象條件」標籤中。
+優先順序決定潛在客戶符合多個對話方塊資格時，會收到哪個對話方塊。 它是當您第一次使用 [建立您的對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}. 您可以開啟現有對話方塊並前往 **對話方塊詳細資料** 在「對象條件」標籤中。
 
 ![](assets/audience-criteria-1.png)
 
@@ -87,7 +87,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >有人造訪您的網站時， [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 對使用者進行Cookie，並將他們放入系統中。 我們會在特殊的資料庫中查詢他們的IP，並推斷出各種好的資訊。
+   >有人造訪您的網站時， [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} 對使用者進行Cookie，並將他們放入系統中。 我們會在特殊的資料庫中查詢他們的IP，並推斷出各種好的資訊。
 
 1. _是_ 已預設設定。 在「選取值」欄位中，輸入NY （您也可以按一下下拉式清單，然後從清單中選取）。
 
@@ -136,7 +136,5 @@ ht-degree: 2%
 
 >[!MORELIKETHIS]
 >
->* [建立對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
->* [流程設計工具](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
->* [報表](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
-
+>* [建立對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}
+>* [流程設計工具](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"}

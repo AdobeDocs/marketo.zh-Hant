@@ -4,7 +4,7 @@ title: 建立對話流程
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b894b6fa62c6939ba450fa259b4cf5290b4582f5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -31,8 +31,8 @@ ht-degree: 0%
 >
 >這只會變更系統文字的語言。 翻譯內容由您負責。
 
-1. 就像對話方塊中的一樣，此時此刻， [建立串流](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#create-a-stream){target="_blank"}.
+1. 就像對話方塊中的一樣，此時此刻， [建立串流](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[對話式Forms概觀](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}
+>[對話流程概觀](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}

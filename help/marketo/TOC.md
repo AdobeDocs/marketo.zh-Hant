@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: c2a3e2915c8a205f03c4bf578e6b2479af1206b3
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '9159'
+source-wordcount: '9158'
 ht-degree: 1%
 
 ---
@@ -661,7 +661,6 @@ ht-degree: 1%
             + [建立對話方塊](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
             + [對象條件](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
             + [流程設計工具](product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md)
-            + [報表](product-docs/demand-generation/dynamic-chat-two/automated-chat/reports.md)
          + 整合 {#integrations}
             + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-marketo-engage.md)
             + [Adobe PDF 嵌入式 API](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md)

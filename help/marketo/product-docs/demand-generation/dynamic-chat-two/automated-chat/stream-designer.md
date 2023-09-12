@@ -4,9 +4,9 @@ title: 流程設計工具
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '1102'
+source-wordcount: '1101'
 ht-degree: 2%
 
 ---
@@ -92,7 +92,7 @@ ht-degree: 2%
 
 您可以建立對話方塊的串流或 [對話式Forms](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}. 在此範例中，我們將為對話方塊建立一個對話方塊。
 
-1. 在您完成以下任務後： [已建立您的對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}，按一下 **串流設計工具** 標籤。
+1. 在您完成以下任務後： [已建立您的對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}，按一下 **串流設計工具** 標籤。
 
    ![](assets/stream-designer-6.png)
 
@@ -205,11 +205,10 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->在按一下「發佈」之前，請記得確定您已完成以下操作： [已輸入您的目標URL](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target="_blank"}.
+>在按一下「發佈」之前，請記得確定您已完成以下操作： [已輸入您的目標URL](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [建立對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
->* [對象條件](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
->* [報表](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
->* [使用檔案卡](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}
+>* [建立對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}
+>* [對象條件](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md){target="_blank"}
+>* [Adobe PDF 嵌入式 API](/help/marketo/product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md){target="_blank"}
