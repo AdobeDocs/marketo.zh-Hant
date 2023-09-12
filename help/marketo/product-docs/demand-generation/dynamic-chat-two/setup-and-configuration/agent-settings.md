@@ -4,9 +4,9 @@ title: 專員設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 5c99dd3394ad09a48b5adbb022a9c4e63b619c81
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '486'
 ht-degree: 2%
 
 ---
@@ -64,7 +64,7 @@ ht-degree: 2%
  <tbody> 
   <tr> 
    <td><b>會議持續時間</b></td>
-   <td>會議長度上限。  — 會發生什麼事？ 自動像縮放一樣停止？</td>
+   <td>決定訪客在可用的會議位置中看到的時間長度。</td>
   </tr> 
   <tr> 
    <td><b>會議之間的緩衝時間</b></td>
