@@ -4,9 +4,9 @@ title: 對話方塊概述
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 3%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 3%
 
 ## 報表 {#reports}
 
-此 [報表](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"} 對話方塊的區段是您檢視對話方塊執行成效相關量度的地方。
+在「報表」索引標籤中，您可以檢視有關對話方塊執行狀況的量度。
 
 ![](assets/dialogue-overview-3.png)
 

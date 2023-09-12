@@ -4,9 +4,9 @@ title: 專員設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '482'
 ht-degree: 2%
 
 ---
@@ -64,11 +64,11 @@ ht-degree: 2%
  <tbody> 
   <tr> 
    <td><b>會議持續時間</b></td>
-   <td>會議長度上限。  — 會發生什麼事？ 自動結束？</td>
+   <td>會議長度上限。  — 會發生什麼事？ 自動像縮放一樣停止？</td>
   </tr> 
   <tr> 
    <td><b>會議之間的緩衝時間</b></td>
-   <td>您設定為會議後緩衝的時間。 如果您設定30分鐘，則沒有人能夠在您的行事曆上排定的會議結束31分鐘之後與您預約會議。 - 31或30???????????</td>
+   <td>您設定為會議後緩衝的時間。 如果您設定30分鐘，則沒有人能夠在您的行事曆上排定的會議結束30分鐘之後與您預約會議。</td>
   </tr>
  </tbody> 
 </table>
@@ -83,11 +83,11 @@ ht-degree: 2%
 
 ![](assets/agent-settings-5.png)
 
-如果您已登入應用程式，您將會收到傳入聊天的應用程式內通知。 如果您未登入，將會收到瀏覽器通知。
+如果您已登入應用程式，您將會收到傳入聊天的應用程式內通知。 如果您未登入，將會收到瀏覽器通知(如果您已 [進行設定](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"})。
 
 >[!IMPORTANT]
 >
->此 [可用性切換](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} 在代理程式收件匣中 **將覆寫** 您在「即時聊天可用性」標籤中輸入的內容。 因此，如果您排程從1p到5p，但需要在3p快速休息，您就不需要變更代理程式設定。 可用性切換狀態將一直保留，直到您手動切換它，或直到到達您的可用性中的下一個時間區塊為止。
+>此 [可用性切換](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} 在代理程式收件匣中 **將覆寫** 您在「即時聊天可用性」標籤中輸入的內容。 因此，如果您排程從1p到5p，但需要在3p快速休息，您就不需要變更代理程式設定。 可用性切換狀態將一直保留，直到您手動變更它，或直到到達您的可用性中的下一個時間區塊為止。
 
 >[!TIP]
 >

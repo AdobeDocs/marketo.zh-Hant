@@ -4,9 +4,9 @@ title: 流程設計工具
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '1084'
+source-wordcount: '1102'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->您必須先使用檔案卡，才能使用 [設定它](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"} 在您的Adobe帳戶中。
+>您必須先使用檔案卡，才能使用 [設定它](/help/marketo/product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md){target="_blank"} 在您的Adobe帳戶中。
 
 ## 串流設計工具卡片 {#stream-designer-cards}
 
@@ -89,6 +89,8 @@ ht-degree: 2%
 </table>
 
 ## 建立資料流 {#create-a-stream}
+
+您可以建立對話方塊的串流或 [對話式Forms](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}. 在此範例中，我們將為對話方塊建立一個對話方塊。
 
 1. 在您完成以下任務後： [已建立您的對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}，按一下 **串流設計工具** 標籤。
 

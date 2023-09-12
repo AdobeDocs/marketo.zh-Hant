@@ -4,10 +4,10 @@ title: 路由
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 1%
+source-wordcount: '231'
+ht-degree: 0%
 
 ---
 
@@ -61,6 +61,18 @@ ht-degree: 1%
 
 ![](assets/routing-9.png)
 
-團隊路由 — 立即DELETE這些參考
+### 新增帳戶 {#add-an-account}
 
-智慧清單路由的成員 — 可能延遲
+在此範例中，我們會直接將所有員工從樂高路由到代理程式Steven。
+
+1. 在「帳戶路由」標籤中，按一下 **+新增帳戶**.
+
+   ![](assets/routing-10.png)
+
+   >[!TIP]
+   >
+   >您可以按一下「 」，一次建立多個帳戶 **上傳帳戶清單** 和上傳CSV。
+
+1. 輸入公司名稱、網域，然後選取所需的代理程式。
+
+   ![](assets/routing-11.png)

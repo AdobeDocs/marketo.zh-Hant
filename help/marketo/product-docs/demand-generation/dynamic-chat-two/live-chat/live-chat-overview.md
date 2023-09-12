@@ -4,9 +4,9 @@ title: 即時聊天總覽
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 2%
 >
 >即時聊天卡必須一律為分支中的最後一張卡。 如果卡片放置在分支中的隨機點，可能會讓訪客突然將其連線到代理程式，感到驚訝。
 
-**最佳實務**
+### 最佳實務 {#best-practices}
 
 * 在即時聊天卡之前使用問題卡詢問訪客是否想要連線。
 * 訪客同意連線後，請使用資訊擷取卡片來收集部分資訊，例如名字/姓氏、電子郵件地址、職稱等。 （建議至少索取名字和電子郵件地址）。
@@ -46,7 +46,7 @@ ht-degree: 2%
   </tr>
     <tr> 
    <td><b>自訂規則</b></td>
-   <td>考慮將訪客路由到何處時，所有自訂規則都會循環使用。 如果訪客不符合任何條件，則為遞補規則???</td>
+   <td>考慮將訪客路由到何處時，所有自訂規則都會循環使用。 如果訪客不符合任何自訂規則的資格，他們會取得 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">即時聊天遞補訊息</a>.</td>
   </tr> 
   <tr> 
    <td><b>團隊</b></td>
