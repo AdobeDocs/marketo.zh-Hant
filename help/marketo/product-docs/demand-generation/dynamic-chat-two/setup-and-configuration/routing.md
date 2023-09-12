@@ -4,9 +4,9 @@ title: 路由
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: df719d0db50009180e707b88b53115d4a62f35bf
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 循環配置資源：會議會依序指派給代理程式。 因此，如果您有五個代理程式，而代理程式三參加最後一個會議，則代理程式四會取得下一個會議，接著是代理程式五，然後回到代理程式一。
 
 自訂規則：您可以根據您選取的屬性選擇特定代理以接收會議。
+
+>[!NOTE]
+>
+>帳戶路由會獲得最高優先順序。 當訪客到達交談點以預約會議或啟動即時聊天時， [帳戶路由](#account-routing) 在考量其他繞線選項之前，會先勾選。
 
 ## 建立自訂規則 {#create-a-custom-rule}
 
