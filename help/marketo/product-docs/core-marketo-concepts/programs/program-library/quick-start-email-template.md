@@ -1,10 +1,8 @@
 ---
 description: 快速入門電子郵件範本 — Marketo檔案 — 產品檔案
 title: 快速入門電子郵件範本
-hide: true
-hidefromtoc: true
 feature: Programs
-source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 0%

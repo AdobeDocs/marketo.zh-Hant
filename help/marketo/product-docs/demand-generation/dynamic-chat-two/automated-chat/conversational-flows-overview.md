@@ -1,16 +1,35 @@
 ---
-description: 檔案 — Marketo檔案 — 產品檔案
-title: 檔案
+description: 對話流程概觀 — Marketo檔案 — 產品檔案
+title: 對話流程概觀
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 2e18242afb1600ca0e63f9ab777a7ba4ad1e5fbc
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '9'
-ht-degree: 0%
+source-wordcount: '65'
+ht-degree: 4%
 
 ---
 
-# 檔案 {#doc}
+# 對話流程概觀 {#conversational-flow-overview}
 
-即將推出
+設計對話流程，並根據特定動作（例如按一下行動號召按鈕、頁面載入時、頁面逗留時間等）觸發任何訪客。
+
+對話流程概述與對話方塊
+
+清單圖片
+
+圖示(比對話方塊少一個??)
+
+## 串流設計工具索引標籤 {#stream-designer-tab}
+
+文字.
+
+## 「報表」標籤 {#reports-tab}
+
+文字
+
+## 設定標籤 {#settings-tab}
+
+文字
+

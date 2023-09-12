@@ -4,30 +4,28 @@ title: 建立對話流程
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # 建立對話流程 {#create-a-conversational-flow}
 
-設計對話流程，並根據特定動作（例如按一下行動號召按鈕、頁面載入時、頁面逗留時間等）觸發任何訪客。
-
-提及它與對話方塊的差異???????????
+以下說明如何建立新的對話流程。
 
 1. 在「自動聊天」底下，按一下 **對話流程**.
 
-PICC
+   ![](assets/create-a-conversational-flow-1.png)
 
 1. 按一下 **建立對話流程**.
 
-PICC
+   ![](assets/create-a-conversational-flow-2.png)
 
 1. 選擇空白的「對話流程」或其中一個預先填入的範本。 輸入名稱（說明為選用）、變更語言（選用），然後按一下 **建立**.
 
-PICC
+   ![](assets/create-a-conversational-flow-3.png)
 
 >[!NOTE]
 >

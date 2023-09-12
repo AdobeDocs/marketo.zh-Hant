@@ -4,9 +4,9 @@ title: 安全性設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,6 @@ ht-degree: 0%
 1. 選取 **啟用驗證** 滑桿以啟動封鎖清單。 最多輸入50個網域，然後按一下 **儲存**.
 
    ![](assets/security-settings-2.png)
-
->[!CAUTION]
->
->請確定 **NOT** 以新增 `adobeeventlab.com` 至封鎖清單，否則會???停用聊天???
 
 ## 允許的網域 {#allowed-domains}
 

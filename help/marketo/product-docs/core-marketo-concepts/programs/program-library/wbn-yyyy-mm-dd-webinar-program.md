@@ -1,10 +1,8 @@
 ---
 description: WBN-YYYY-MM-DD — 網路研討會計畫 — Marketo檔案 — 產品檔案
 title: WBN-YYYY-MM-DD — 網路研討會計畫
-hide: true
-hidefromtoc: true
 feature: Programs
-source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
 source-wordcount: '574'
 ht-degree: 5%

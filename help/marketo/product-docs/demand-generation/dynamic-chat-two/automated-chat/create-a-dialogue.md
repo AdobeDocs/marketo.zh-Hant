@@ -4,7 +4,7 @@ title: 建立對話方塊
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 6%
@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # 建立對話方塊 {#create-a-dialogue}
 
-以下說明如何建立新對話方塊。
+以下說明如何建立新的對話方塊。
 
 1. 按一下 **對話方塊**.
 
