@@ -4,9 +4,9 @@ title: 最新發行說明測試
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1083'
+source-wordcount: '1209'
 ht-degree: 2%
 
 ---
@@ -41,8 +41,8 @@ ht-degree: 2%
 
 <table>
   <tr> 
-   <td><b>功能</b></td>
-   <td><strong>由Design Studio資產的計數欄使用</strong>：Marketo Engage計畫參考資料庫可讓使用者匯入代表Adobe建議之最佳實務的「範例」計畫和其他資產。 我們的產品管理團隊已完全更新程式庫，為想要快速啟動程式的人提供更有價值的工具。</td>
+   <td style="width:20%"><b>功能</b></td>
+   <td style="width:80%"><strong>由Design Studio資產的計數欄使用</strong>：Marketo Engage計畫參考資料庫可讓使用者匯入代表Adobe建議之最佳實務的「範例」計畫和其他資產。 我們的產品管理團隊已完全更新程式庫，為想要快速啟動程式的人提供更有價值的工具。</td>
   </tr>
   <tr> 
    <td><b>狀態</b></td>
@@ -58,9 +58,9 @@ ht-degree: 2%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>功能</th> 
-   <th>狀態</th>
-   <th>檔案</th>
+   <th style="width:70%">功能</th> 
+   <th style="width:15%">狀態</th>
+   <th style="width:15%">檔案</th>
   </tr> 
   <tr> 
    <td><strong>Marketo參考資料庫</strong>：Marketo Engage計畫參考資料庫可讓使用者匯入代表Adobe建議之最佳實務的「範例」計畫和其他資產。 我們的產品管理團隊已完全更新程式庫，為想要快速啟動程式的人提供更有價值的工具。</td> 
@@ -80,9 +80,44 @@ ht-degree: 2%
  </tbody> 
 </table>
 
+* 空格
 
+* 空格
 
+* 更多空間
 
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:65%">功能</th> 
+   <th style="width:15%">狀態</th>
+   <th style="width:20%">檔案</th>
+  </tr> 
+  <tr> 
+   <td><strong>Marketo參考資料庫</strong>：Marketo Engage計畫參考資料庫可讓使用者匯入代表Adobe建議之最佳實務的「範例」計畫和其他資產。 我們的產品管理團隊已完全更新程式庫，為想要快速啟動程式的人提供更有價值的工具。</td> 
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">程式匯入程式庫概觀</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>由Design Studio資產的計數欄使用</strong>：Marketo Engage計畫參考資料庫可讓使用者匯入代表Adobe建議之最佳實務的「範例」計畫和其他資產。 我們的產品管理團隊已完全更新程式庫，為想要快速啟動程式的人提供更有價值的工具。</td> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+ </tbody> 
+</table>
+
+* 空格
+
+* 空格
+
+* 更多空間
+
+* 測試結束……目前
 
 * **由Design Studio資產的計數欄使用**：
 

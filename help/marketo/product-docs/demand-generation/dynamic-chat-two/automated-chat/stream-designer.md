@@ -4,9 +4,9 @@ title: 流程設計工具
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1084'
 ht-degree: 2%
 
 ---
@@ -39,15 +39,11 @@ ht-degree: 2%
  </tr>
  <tr>
   <td><strong>資訊擷取</strong></td>
-  <td>當您想要收集資訊時使用。 三個欄位可供選擇：電子郵件地址、電話號碼和文字（可讓訪客撰寫自己的訊息）。</td>
- </tr>
- <tr>
-  <td><strong>約會排程器</strong></td>
-  <td>為訪客提供可用日期的行事曆以排程後續追蹤。 行事曆可用性反映 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">下一個加入的代理程式</a>. 也可以選擇傳遞屬性，例如代理商名稱或電子郵件地址。</td>
+  <td>當您想要收集資訊（例如姓名、電子郵件地址、職稱等）時使用。 選擇要將訪客的回應歸因到哪個欄位後，您可以選擇讓訪客輸入回應，或從您決定的挑選清單中選取選項（秘訣：後者可協助改善資料庫清潔度）。 您也可以選擇以他們的回應覆寫您目前為其列出的任何資料，或者，如果您已經擁有問題的值，則完全略過問題。</td>
  </tr>
  <tr>
   <td><strong>會議預訂</strong></td>
-  <td>為訪客提供可用日期的行事曆以排程會議。 透過循環配置資源、特定代理程式或使用自訂規則，選擇行事曆可用性。</td>
+  <td>為訪客提供可用日期的行事曆以排程會議。 透過循環配置資源、特定代理程式或使用自訂規則，選擇行事曆可用性。 按一下 <b>新增屬性</b> 如果您想要擷取代理程式的名稱或電子郵件地址，並將其指派給聊天訪客的個人記錄以供日後查詢(提示：建立 <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">自訂欄位</a> 將代理程式的資訊對應至，以免覆寫標準Marketo Engage欄位)。</td>
  </tr>
  <tr>
   <td><strong>目標</strong></td>
