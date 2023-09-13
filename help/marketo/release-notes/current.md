@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
+source-git-commit: 0dce393742df841af88b71614b55c4946c081814
 workflow-type: tm+mt
-source-wordcount: '904'
-ht-degree: 1%
+source-wordcount: '902'
+ht-degree: 2%
 
 ---
 
@@ -41,8 +41,8 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td><strong>由Design Studio資產的計數欄使用</strong>：Marketo Engage計畫參考資料庫可讓使用者匯入代表Adobe建議之最佳實務的「範例」計畫和其他資產。 我們的產品管理團隊已完全更新程式庫，為想要快速啟動程式的人提供更有價值的工具。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td>不適用</td>
   </tr>
    <tr> 
    <td> </td> 
@@ -51,8 +51,8 @@ ht-degree: 1%
   </tr>
    <tr> 
    <td><strong>用於Design Studio資產的索引標籤增強功能</strong>：增強功能使用索引標籤提供更詳細的資產型別和名稱檢視，以及資產的使用位置。 這適用於電子郵件詳細資訊和影像與檔案詳細資訊。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td>不適用</td>
   </tr>
    <tr> 
    <td> </td> 
