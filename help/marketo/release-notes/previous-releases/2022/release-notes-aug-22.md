@@ -3,7 +3,7 @@ description: 發行說明 — 2022年8月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2022年8月
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 下列功能已於開始分階段推出 **2022年8月26日**.
 
-## 跨頻道協調 {#cross-channel-orchestration}
+## 跨頻道協調 {#cross-channel-orchestration}
 
-* **[一次啟用/停用所有已發佈的對話方塊以進行Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**：按一下按鈕即可從「設定」頁面一次全域啟用/停用所有已發佈的對話方塊。
+* **[一次啟用/停用所有已發佈的對話方塊以進行Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**：按一下按鈕即可從「設定」頁面一次全域啟用/停用所有已發佈的對話方塊。
 
-* **[Dynamic Chat的自訂頭像](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target="_blank"}**：上傳自訂聊天機器人頭像，以便針對您的品牌進行個人化。
+* **[Dynamic Chat的自訂頭像](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#agent-settings){target="_blank"}**：上傳自訂聊天機器人頭像，以便針對您的品牌進行個人化。
 
 * **Dynamic Chat的聊天記錄**：檢視每個交談的聊天記錄，以深入瞭解每位網路訪客的興趣。
 
