@@ -2,7 +2,7 @@
 description: 對話流程概觀 — Marketo檔案 — 產品檔案
 title: 對話流程概觀
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%

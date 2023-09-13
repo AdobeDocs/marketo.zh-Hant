@@ -2,7 +2,7 @@
 description: Analytics - Marketo檔案 — 產品檔案
 title: 分析
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 1%
@@ -43,6 +43,6 @@ ht-degree: 1%
 
 ![](assets/analytics-6.png)
 
-檢視對話方塊、對話流程或全部。 選取預設集或自訂日期範圍。 按一下按鈕以匯出結果。
+檢視對話方塊、對話流程或全部。 選取預設集或自訂日期範圍。 按一下按鈕即可匯出結果。
 
 ![](assets/analytics-7.png)

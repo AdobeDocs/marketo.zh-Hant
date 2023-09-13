@@ -2,7 +2,7 @@
 description: 建立對話流程 — Marketo檔案 — 產品檔案
 title: 建立對話流程
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -25,9 +25,9 @@ ht-degree: 0%
 
    ![](assets/create-a-conversational-flow-3.png)
 
->[!NOTE]
->
->這只會變更系統文字的語言。 翻譯內容由您負責。
+   >[!NOTE]
+   >
+   >這只會變更系統文字的語言。 翻譯內容由您負責。
 
 1. 就像對話方塊中的一樣，此時此刻， [建立串流](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
