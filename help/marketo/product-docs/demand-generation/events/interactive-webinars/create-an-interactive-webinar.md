@@ -3,9 +3,9 @@ description: 建立互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 建立互動式網路研討會
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0ee9bd4bc9639c452219f9445a88b552617a785f
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,13 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. 按一下「管道」下拉式清單，然後選取 **網路研討會**.
+1. 按一下管道下拉式清單，然後選取任何具有 _含網路研討會的事件_ 在其「套用至」欄中。 在此範例中，我們選擇 **網路研討會**.
 
    ![](assets/create-an-interactive-webinar-4.png)
+
+   >[!NOTE]
+   >
+   >若要檢視套用至哪些管道 _含網路研討會的事件_，前往 **管理員** > **標籤**. 「套用至」應為中間欄。 進一步瞭解的步驟5中的「套用至」 [本文](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 1. 選擇 **互動式網路研討會** 並按一下 **下一個**.
 
@@ -46,6 +50,6 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-您的互動式網路研討會隨即建立。 現在該是 [設計它](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
+您的互動式網路研討會隨即建立。 現在該是 [設計它](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
 
 ![](assets/create-an-interactive-webinar-8.png)
