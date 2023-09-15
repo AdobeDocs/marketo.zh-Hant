@@ -3,9 +3,9 @@ description: 瞭解如何最佳化和擴充您繼承的現有Marketo Engage例�
 title: Jumpstart繼承的Marketo Engage例項
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,9 @@ ht-degree: 0%
 
 ## 在行銷國家中設定 {#get-set-up-in-the-marketing-nation}
 
-確定您已在Marketo社群中正確設定。
-
-* **[設定您的設定檔]**(https://nation.marketo.com/){target="_blank"}.
+請確認您在行銷國家社群中已正確設定。
 
 * [**設定您的設定檔**](https://nation.marketo.com/){target="_blank"}.
-
-* **[設定您的設定檔](https://nation.marketo.com/)**{target="_blank"}.
-
-* **[設定您的設定檔](https://nation.marketo.com/){target="_blank"}**.
 
 * 閱讀本文 [**行銷社群指導方針**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
@@ -32,9 +26,9 @@ ht-degree: 0%
 
 * 瞭解如何 [**提交支援案例**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"})。
 
-## 繼承的執行個體稽核指南 {#inherited-instance-audit-guides}
+## 稽核繼承的執行個體  {#audit-your-inherited-instance}
 
-以下核對清單與Marketo Champions的輸入一起提供，可幫助您快速上手。 瞭解如何瀏覽不同的Marketo Engage區域並執行執行稽核所需的各種工作，其中會包含建議說明檔案的連結。
+Adobe Professional Services (使用Marketo Champions提供的輸入)將數個Marketo Engage繼承執行個體稽核檢查清單整合在一起，協助您快速上手。 瞭解如何瀏覽不同的Marketo Engage區域並執行執行稽核所需的各種工作，其中會包含建議說明檔案的連結。
 
 您也可以下載試算表格式的核對清單。
 

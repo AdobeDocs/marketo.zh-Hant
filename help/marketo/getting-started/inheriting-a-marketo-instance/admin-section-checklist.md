@@ -3,22 +3,26 @@ description: 繼承執行個體管理員檢查清單 — Marketo檔案 — 產�
 title: 繼承執行個體管理員檢查清單
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1566'
 ht-degree: 1%
 
 ---
 
 # 繼承執行個體：管理員區段檢查清單 {#inherited-instance-admin-section-checklist}
 
-以下核對清單（連結至每篇文章底部的後續核對清單）已與Marketo Champions的輸入一起放在一起，協助您快速上手。 您也可以下載檢查清單並追蹤進度。
+Adobe Professional Services已將以下核對清單（連結至每篇文章底部的後續核對清單）與Marketo Champions的輸入彙整在一起，協助您快速上手。 您也可以下載檢查清單並追蹤進度。
 
 >[!TIP]
 >
 >如果您是新的Marketo Engage使用者，且不熟悉許多術語，請檢視 [Marketo Engage字彙表](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
 
 ## AdobeIdentity Management {#adobe-identity-management}
+
+>[!NOTE]
+>
+>這僅適用於已上線的訂閱 [AdobeIdentity Management系統(IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your Marketo Engage subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} 在「Marketo Engage>管理員>使用者和角色」中。
 
 <table> 
  <tbody> 
@@ -28,23 +32,22 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>訂閱</td> 
-   <td><li>您的Marketo Engage訂閱日期是 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">AdobeIdentity Management系統</a> (Adobe IMS)了嗎？ 
-<br/>     若是如此，您的「Adobe Admin Console系統管理員」是否已授予您「Adobe Admin Console產品管理員」角色？ 如果您不確定貴組織中的哪些人擁有主控台中的管理員許可權，請聯絡 <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe客戶服務</a>.  
-<br/>     否則，您將繼續 <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">舊版使用者角色和許可權體驗</a> 前往「Marketo Engage&gt;管理員&gt;使用者與角色」 ，直到您的訂閱續訂為止。</li></td>
+   <td><li>您的Marketo Engage訂閱是否已移轉至 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> 還行嗎？ 
+<br/>     若是如此，您的「Adobe Admin Console系統管理員」是否已授予您「Adobe Admin Console產品管理員」角色？ 如果您不確定貴組織中的哪些人擁有主控台中的管理員許可權，請聯絡 <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe客戶服務</a>.</li>
+<li>您是否接受「Marketo Engage產品管理員」邀請？ 在Adobe Admin Console中指派角色時，會傳送電子郵件。
+<br/>     如果沒有，請尋找 <a href="//help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#" target="_blank">歡迎電子郵件</a> 並接受邀請以啟用您的Adobe ID。</li></td>
   </tr>
   <tr> 
    <td>產品設定檔</td> 
-   <td>(Adobe IMS訂閱 <b>僅限</b>)
-<p>
-<li>您已獲得「Marketo Engage/管理員/使用者與角色」的「Marketo Engage產品管理員」角色嗎？</li> 
-<li>您是否將Marketo Engage指派給Adobe Admin Console中所有適當使用者的產品設定檔？
-<br/>     如果沒有，請務必先將Marketo Engage指派給其Adobe IMS產品設定檔，然後再指派他們在Marketo Engage/管理員/使用者和角色中的角色。</li>
-<p><img src="assets/note-icon.png" alt="附註圖示"> 注意：如果您的訂閱有超過75名使用者，且剛移轉至Adobe IMS，您可選擇將使用者選取為批次移轉，並以群組或一次管理其Adobe識別。 進一步瞭解未來趨勢 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS移轉日</a>.</td>
+   <td><li>在Adobe Admin Console中，是否已將所有適當的使用者指派給Marketo Engage的產品設定檔？
+<br/>     如果沒有，請確定 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">新增和/或移除使用者</a> 從Adobe Admin Console中的Marketo Engage產品設定檔。 如果您將使用者新增至產品設定檔，您無法在「Marketo Engage&gt;管理員&gt;使用者和角色」中指派使用者。</li>
+<p><img src="assets/note-icon.png" alt="附註圖示"> 注意：如果不需要的使用者新增到多個產品設定檔，您必須從所有產品設定檔中移除該使用者。 否則，他們仍可存取Marketo Engage。</td>
   </tr>
   <tr> 
    <td>使用者管理API</td> 
-   <td><li>您的訂閱是否使用任何Marketo User Management API？
-<br/>     若是如此，您將需要使用 <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS API</a> 邀請、更新及刪除使用者。</li></td>
+   <td><li>您的訂閱使用任何Marketo User Management API嗎？
+<br/>     若是如此，您將需要使用 <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS API</a> 邀請、更新及刪除使用者。</li>
+<p><img src="assets/note-icon.png" alt="附註圖示"> 注意：「角色管理」仍保留在Marketo Engage中，而Marketo使用者管理API仍可用於角色管理。</td>
   </tr>
  </tbody> 
 </table>
@@ -59,8 +62,10 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>使用者</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">使用者數量</a> 有嗎？</li>
-<li>是否有任何應移除的使用者？</li>
+   <td><img src="assets/note-icon.png" alt="附註圖示"> 注意：如果您的訂閱已位於Adobe IMS，請繼續進行Adobe Admin Console中的下列使用者管理檢閱。 否則，請前往Marketo Engage中的「管理員&gt;使用者和角色&gt;使用者」 。
+   <p>
+   <li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">使用者數量</a> 有嗎？</li>
+<li>是否有任何使用者應該 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user" target="_blank">已移除</a>？</li>
 <li>貴公司是否有刪除使用者的相關政策？</li> 
 <li>使用者數量 <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">管理員許可權</a>？</li>
 <li>這些使用者中是否應該有任何變更為 <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">其他角色？</a></li> 
@@ -68,12 +73,13 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>角色</td> 
-   <td><li>有多少角色？</li>  
+   <td><img src="assets/note-icon.png" alt="附註圖示"> 注意：無論您是否將Marketo與Adobe身分搭配使用，請繼續在「管理員&gt;使用者和角色&gt;角色」中檢閱Marketo Engage的角色許可權。
+   <p><li>有多少角色？</li>  
 <li>什麼 <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">許可權/存取</a> 每個角色都有嗎？ 是否應對任何專案進行調整？</li>
 <li>每個角色有多少使用者？</li>
 <li>使用者頻率 <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">登入</a>？</li>
 <li>每個API使用者是否有 <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">擁有的使用者角色</a>？ 如果不能，請考慮實作此專案以更輕鬆進行疑難排解。</li> 
-<li>您的使用者角色和許可權是否與公司資料一致 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">隱私權原則</a>？</li></td>
+<li>您的使用者角色和許可權是否與公司資料隱私權政策一致，以符合法規(例如 <a href="https://gdpr-info.eu/" target="_blank">GDPR</a>)？ 讓公司資料顯示 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">隱私權原則</a> 是否允許使用者下載及共用Marketo Engage的使用者資料？ 需要許可業務嗎？</li></td>
   </tr>
   <tr> 
    <td>支援使用者</td> 
