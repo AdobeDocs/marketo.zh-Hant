@@ -3,9 +3,9 @@ description: 繼承執行個體管理員檢查清單 — Marketo檔案 — 產�
 title: 繼承執行個體管理員檢查清單
 hide: true
 hidefromtoc: true
-source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
+source-git-commit: ea0e8368e83168dd3f14f815f387f8dead0fff11
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1560'
 ht-degree: 1%
 
 ---
@@ -35,7 +35,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
    <td><li>您的Marketo Engage訂閱是否已移轉至 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> 還行嗎？ 
 <br/>     若是如此，您的「Adobe Admin Console系統管理員」是否已授予您「Adobe Admin Console產品管理員」角色？ 如果您不確定貴組織中的哪些人擁有主控台中的管理員許可權，請聯絡 <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe客戶服務</a>.</li>
 <li>您是否接受「Marketo Engage產品管理員」邀請？ 在Adobe Admin Console中指派角色時，會傳送電子郵件。
-<br/>     如果沒有，請尋找 <a href="//help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#" target="_blank">歡迎電子郵件</a> 並接受邀請以啟用您的Adobe ID。</li></td>
+<br/>     如果沒有，請尋找 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">歡迎電子郵件</a> 並接受邀請以啟用您的Adobe ID。</li></td>
   </tr>
   <tr> 
    <td>產品設定檔</td> 
