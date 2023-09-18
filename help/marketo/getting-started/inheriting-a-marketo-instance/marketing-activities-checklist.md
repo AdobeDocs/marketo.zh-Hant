@@ -3,9 +3,9 @@ description: 繼承例項行銷活動檢查清單 — Marketo檔案 — 產品�
 title: 繼承例項行銷活動檢查清單
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '826'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <th style="width:20%">區域</th> 
-   <th>評論焦點</th>
+   <th style="width:80%">評論焦點</th>
   </tr> 
   <tr> 
    <td>命名慣例</td> 
@@ -32,12 +32,12 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>計畫</td> 
-   <td><li>KG — 這是否仍相關，是否有 <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">卓越中心</a> 使用計畫範本？ 
-   <br/>     如果是，方案範本對團隊的使用案例是否有意義？</li>
-<li>類似的計畫型別 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">一致的結構化</a>？</li>
+   <td><li>類似的計畫型別 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">一致的結構化</a>？</li>
 <li>為 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">期間成本</a> 就位？</li>
 <li>全部為計畫嗎 <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">已同步至SFDC行銷活動</a> （如果適用）？</li>
-<li>您是否擁有流程步驟來指派 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">贏取方案</a> 對人？</li></td>
+<li>您是否擁有流程步驟來指派 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">贏取方案</a> 對人？</li>
+<li>是否已設定方案範本的中央位置？ 
+   <br/>     如果不適用，請從以下位置選擇幾個預先建立的計畫範例： <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Marketo Engage程式庫</a>.</li></td>
   </tr>
   <tr> 
    <td>封存</td> 
@@ -45,14 +45,14 @@ ht-degree: 0%
 <li>貴公司多久稽核一次並封存一次舊計畫？</li>
 <p><img src="assets/tip-icon.png" alt="提示圖示">秘訣：每年進行一次審查是好事。</td>
   </tr>
-  <tr> 
+  <tr>
    <td>通知</td> 
    <td><li>中是否有任何促銷活動錯誤 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md" target="_blank">「通知」標籤</a> 位於執行個體頂端嗎？</li>
 <li>您是 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md#subscribe-to-notifications" target="_blank">已訂閱通知</a> 隨時掌握未來可能出現的任何錯誤嗎？</li></td>
   </tr>
   <tr> 
    <td>智慧清單訂閱 
-   <br/>（行銷活動/訂閱索引標籤）</td> 
+   <br/>（行銷活動/訂閱）</td> 
    <td><li>是否仍在進行中 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">智慧清單訂閱</a> 在您的執行個體中？ 如果有的話，他們會去找誰？</li>
 <p><img src="assets/tip-icon.png" alt="提示圖示">提示：請考慮設定智慧列示訂閱，以移至團隊別名，而非個人。 若有個人不在辦公室，此功能即可協助您。</td>
   </tr>
@@ -65,7 +65,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <th style="width:20%">區域</th> 
-   <th>評論焦點</th>
+   <th style="width:80%">評論焦點</th>
   </tr> 
   <tr> 
    <td>Token</td> 
@@ -79,7 +79,8 @@ ht-degree: 0%
 <li>數量 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">人已疲憊</a>？ 
 <br/>     如果有很多人筋疲力盡，請考慮 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">新增內容</a>.</li>
 <li>人員 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">使用內容</a>？ 
-<br/>     如果沒有，請考慮更新它及/或A/B測試。</li></td>
+<br/>     如果沒有，請考慮更新它及/或A/B測試。</li>
+<li>您在多個參與方案中是否遇到任何人員？ 它們是否應在多個中？</li></td>
   </tr>
   <tr> 
    <td>批次行銷活動</td> 
@@ -117,7 +118,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <th style="width:20%">區域</th> 
-   <th>評論焦點</th>
+   <th style="width:80%">評論焦點</th>
   </tr> 
   <tr> 
    <td>個人得分</td> 
@@ -151,7 +152,7 @@ ht-degree: 0%
   <tr> 
    <td>電子郵件傳遞能力</td> 
    <td><li>提取 <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">以電子郵件傳送效能報表</a> （針對過去幾個月的傳送）。 電子郵件傳遞能力的外觀如何？</li>
-<li>如果電子郵件傳遞能力不佳，請考慮調查並實作電子郵件傳遞能力最佳實務，例如 <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF和DKIM</a>.</li>
+<li>如果您的電子郵件傳遞能力不如預期，請考慮調查並實作電子郵件傳遞能力最佳實務，例如 <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF和DKIM</a>.</li>
 <li>您是否要聯絡完整可行銷對象？</li></td>
   </tr>
   <tr> 

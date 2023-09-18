@@ -3,9 +3,9 @@ description: 繼承執行個體管理員檢查清單 — Marketo檔案 — 產�
 title: 繼承執行個體管理員檢查清單
 hide: true
 hidefromtoc: true
-source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
+source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
 workflow-type: tm+mt
-source-wordcount: '1564'
+source-wordcount: '1566'
 ht-degree: 1%
 
 ---
@@ -147,7 +147,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
    <th>評論焦點</th>
   </tr> 
   <tr> 
-   <td>Smart Campaign設定</td> 
+   <td>Smart Campaign</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">您是否有限制</a> 是否在Smart Campaign規模上？ 
    <br/>     如果沒有，請考慮新增一個。 我們建議將Smart Campaign限制限製為資料庫的25%，以避免在工作流程中過度通訊或處理整個資料庫；這不僅可保護您的品牌，還有助於保護執行個體的效能。</li></td>
   </tr>
@@ -264,7 +264,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
   </tr>
   <tr> 
    <td>Munchkin</td> 
-   <td><li>是您的 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin追蹤程式碼</a> (不在Marketo中)？</li>
+   <td><li>是您的 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin追蹤程式碼</a> (而非Marketo Engage登陸頁面)？</li>
 <li>是 <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">不要追蹤</a> 瀏覽器請求已啟用？</li>
 <li>是您的 <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 已設定？ 
 <p><img src="assets/tip-icon.png" alt="提示圖示">提示：如果您遺失munchkin程式碼在網站上的位置檔案，可以透過建立 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">網頁活動報表</a>.</li></td>
