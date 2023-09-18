@@ -3,16 +3,16 @@ description: 繼承例項檔案您的設定 — Marketo檔案 — 產品檔案
 title: 繼承例項檔案您的設定
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '310'
 ht-degree: 1%
 
 ---
 
 # 繼承的執行個體：記錄您的設定 {#inherited-instance-document-your-setup}
 
-現在您已瞭解在繼承已建立的例項時需稽核的關鍵產品領域，下一步是建立/更新有關執行個體設定和技術棧疊的檔案。 不論您是透過試算表或專案管理應用程式建立檔案，您的檔案都是追蹤進度和記錄詳細資訊的絕佳資源。
+現在您已瞭解在繼承已建立的例項時需稽核的關鍵產品領域，下一步是建立/更新有關執行個體設定和技術棧疊的檔案。 不論您是透過試算表或專案管理應用程式建立例項，您的檔案都將成為追蹤進度和記錄詳細資訊，以及維持例項結構化和持續性的絕佳資源。
 
 ## 資料 {#data}
 
@@ -51,11 +51,12 @@ ht-degree: 1%
   <tr> 
    <td>組織</td> 
     <td><li>您是否擁有健全的檔案，說明您的Marketo Engage執行個體的組織方式以及原因？</li>
-   <p><p><img src="assets/action-item-icon.png" alt="動作專案圖示">行動專案：建立包含檔案夾結構、命名慣例和執行個體中使用的管道的檔案。</td>
+   <p><img src="assets/action-item-icon.png" alt="動作專案圖示">行動專案：建立包含檔案夾結構、命名慣例和執行個體中使用的管道的檔案。</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
-    <td><li>您是否有變更記錄檔，您可以在其中記錄執行個體中正在變更的內容以及變更原因？</li></td>
+    <td><li>您是否有變更記錄檔，您可以在其中記錄執行個體中正在變更的內容以及變更原因？</li>
+    <p><img src="assets/action-item-icon.png" alt="動作專案圖示">行動專案：下載此範例以建立變更記錄檔，並記錄執行個體設定的變更。</td>
   </tr>
   <tr> 
    <td>教戰手冊</td> 
@@ -65,7 +66,8 @@ ht-degree: 1%
   <tr> 
    <td>與內部利害關係人的對話</td> 
     <td><li>貴公司行銷團隊的內部期望為何？ 它們是否符合正在提供的Marketo Engage？</li>
-   <li>哪些團隊是您Marketo Engage例項中的利害關係人？</li></td>
+   <li>哪些團隊是您Marketo Engage例項中的利害關係人？</li>
+   <p><img src="assets/action-item-icon.png" alt="動作專案圖示">行動專案：下載此專案 <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">內部利害關係人溝通指南範本</a> 以記錄您重要利害關係人的目標與期望。</td>
   </tr>
  </tbody> 
 </table>

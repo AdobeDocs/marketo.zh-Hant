@@ -3,7 +3,7 @@ description: 繼承例項行銷活動檢查清單 — Marketo檔案 — 產品�
 title: 繼承例項行銷活動檢查清單
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 0%
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ## 組織 {#organization}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">區域</th> 
-   <th style="width:80%">評論焦點</th>
+   <th style="width:30%">區域</th> 
+   <th style="width:70%">評論焦點</th>
   </tr> 
   <tr> 
    <td>命名慣例</td> 
@@ -61,12 +61,12 @@ ht-degree: 0%
 
 ## 資產 {#assets}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
-  <tr> 
-   <th style="width:20%">區域</th> 
-   <th style="width:80%">評論焦點</th>
-  </tr> 
+  <tr>
+   <th style="width:30%">區域</th>
+   <th style="width:70%">評論焦點</th>
+  </tr>
   <tr> 
    <td>Token</td> 
    <td><li>為 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">Token</a> 用於您最常用的程式型別？ 
@@ -114,12 +114,12 @@ ht-degree: 0%
 
 ## 操作程式 {#operational-programs}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">區域</th> 
-   <th style="width:80%">評論焦點</th>
-  </tr> 
+   <th style="width:30%">區域</th> 
+   <th style="width:70%">評論焦點</th>
+  </tr>
   <tr> 
    <td>個人得分</td> 
    <td><li>您是否擁有集中式 <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">個人得分</a> 已就緒計畫？</li>

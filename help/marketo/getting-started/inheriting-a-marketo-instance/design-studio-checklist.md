@@ -3,9 +3,9 @@ description: 繼承例項Design Studio檢查清單 — Marketo檔案 — 產品�
 title: 繼承的執行個體Design Studio檢查清單
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '553'
 ht-degree: 1%
 
 ---
@@ -55,7 +55,11 @@ ht-degree: 1%
 <li>大多數程式是使用全域或本機表單？</li>
 <li>所有表單都為行銷和銷售收集正確的資料嗎？</li>
 <li>隱藏值是否獲得適當運用？</li>
-<li>您的網站上是否有使用任何Marketo Engage表單(而非Marketo Engage登陸頁面)？</li></td>
+<li>是否在非Marketo Engage登陸頁面上使用任何Marketo Engage表單？ 引用方式為何？</li>
+<p><img src="assets/tip-icon.png" alt="提示圖示">提示：更新您使用引入的新內嵌程式碼內嵌Marketo Engage表單的頁面（需要安全的登陸頁面）。
+<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
+<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+</td>
   </tr>
   <tr> 
    <td>資料標準化</td> 
