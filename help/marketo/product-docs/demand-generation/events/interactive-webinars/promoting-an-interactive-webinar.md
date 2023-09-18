@@ -1,10 +1,12 @@
 ---
 description: 推廣互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 推廣互動式網路研討會
+hide: true
+hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
+source-git-commit: d747305b4571cfbf8e40c46824d1e4bc148fca7e
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -31,4 +33,4 @@ ht-degree: 0%
 
 您可以使用權杖，將網路研討會URL加入電子郵件促銷活動中的個別成員，以傳達他們已在事件中註冊，並使用加入URL在排程時間進入網路研討會。 行事曆權杖可用於相同的電子郵件行銷活動，以確保網路研討會排程可新增到成員的行事曆。
 
-中提供特殊連結： [概觀頁面](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md) 以建立登入頁面及電子郵件行銷活動。 與活動相關的其餘促銷活動，與使用Launchpoint整合的合作夥伴網路研討會相同。
+中提供了連結 [概觀頁面](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md) 以建立登入頁面及電子郵件行銷活動。 與活動相關的其餘促銷活動，與使用Launchpoint整合的合作夥伴網路研討會相同。
