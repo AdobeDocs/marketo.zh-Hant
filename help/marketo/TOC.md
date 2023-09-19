@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: c6bafe84ce856705b233818dddb49e4770c60d86
 workflow-type: tm+mt
 source-wordcount: '9098'
 ht-degree: 0%
@@ -38,7 +38,7 @@ ht-degree: 0%
       + [重新導向登入頁面](getting-started/quick-wins/redirect-a-landing-page.md)
       + [針對可能的重複人員自動傳送警報](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + 繼承Marketo Engage例項 {#inheriting-a-marketo-engage-instance}
-      + [從何處開始](getting-started/inheriting-a-marketo-engage-instance/new-inherit-overview.md)
+      + [從何處開始](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)
       + [繼承執行個體：管理員區段檢查清單](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
       + [繼承的執行個體：資料庫檢查清單](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
       + [繼承例項：行銷活動檢查清單](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
