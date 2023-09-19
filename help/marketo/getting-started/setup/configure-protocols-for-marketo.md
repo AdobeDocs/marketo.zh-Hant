@@ -4,9 +4,9 @@ description: 設定Marketo的通訊協定 — Marketo檔案 — 產品檔案
 title: 設定Marketo的通訊協定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 232895f3d07b2b076100eeaaabaea0ed7560c7b2
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '1026'
+source-wordcount: '1028'
 ht-degree: 3%
 
 ---
@@ -114,7 +114,7 @@ ht-degree: 3%
 
    `[DKIMDomain2]`：主機記錄為 `[HostRecord2]` 且TXT值為 `[TXTValue2]`.
 
-   遵循下列步驟之後，針對您設定的每個DKIMDomain複製HostRecord和TXTValue [此處提供指示](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. IT人員完成此步驟後，別忘了在「管理員>電子郵件> DKIM」中驗證每個網域。
+   在遵循下列步驟之後，針對您設定的每個DKIMDomain複製HostRecord和TXTValue [此處提供指示](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. IT人員完成此步驟後，別忘了在「管理員>電子郵件> DKIM」中驗證每個網域。
 
 ## 步驟4：為您的網域設定MX記錄 {#step-set-up-mx-records-for-your-domain}
 

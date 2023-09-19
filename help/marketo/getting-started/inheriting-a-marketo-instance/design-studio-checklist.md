@@ -3,7 +3,7 @@ description: 繼承例項Design Studio檢查清單 — Marketo檔案 — 產品�
 title: 繼承的執行個體Design Studio檢查清單
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
 source-wordcount: '553'
 ht-degree: 1%
@@ -94,6 +94,7 @@ ht-degree: 1%
   <tr> 
    <td>電子郵件測試</td> 
    <td><li>您如何使用 <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">電子郵件測試</a>？ 您的方法仍然有效嗎？</li></td>
+  </tr>
   </tr>
   <tr> 
    <td>隱私權與合規性</td> 

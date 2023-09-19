@@ -3,9 +3,9 @@ description: 繼承執行個體資料庫檢查清單 — Marketo檔案 — 產�
 title: 繼承的執行個體資料庫檢查清單
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '421'
 ht-degree: 1%
 
 ---
@@ -74,6 +74,7 @@ ht-degree: 1%
   <tr> 
    <td>智慧清單</td> 
    <td><li>數量 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">智慧清單</a> 有嗎？ 在此例項中如何使用它們？</li>
+   <p><img src="assets/note-icon.png" alt="附註圖示"> 注意：在「資料庫」段落中，「群組智慧列示」是由使用者產生，「系統智慧列示」是由Marketo Engage建立的預設清單。
 <li>清單是否以有凝聚力的資料夾結構組織？ 
 <br/>     如果您有孤立清單，請考慮組織您的樹狀結構，以便輕鬆找到資產。</li>
 <p><img src="assets/tip-icon.png" alt="提示圖示">秘訣： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">正在封存</a> 不再需要的智慧清單有助於組織和效能。</td>
@@ -91,7 +92,8 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>靜態清單</td> 
-   <td><li>數量 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">靜態清單</a> 有嗎？ 在此例項中如何使用它們？</li></td>
+   <td><li>數量 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">靜態清單</a> 有嗎？ 在此例項中如何使用它們？</li>
+   <p><img src="assets/note-icon.png" alt="附註圖示"> 注意：在「資料庫」段落中，群組清單是靜態清單。</td>
   </tr>
  </tbody> 
 </table>

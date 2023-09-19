@@ -3,9 +3,9 @@ description: 繼承例項檔案您的設定 — Marketo檔案 — 產品檔案
 title: 繼承例項檔案您的設定
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '305'
 ht-degree: 1%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 1%
   <tr> 
    <td>Changelog</td> 
     <td><li>您是否有變更記錄檔，您可以在其中記錄執行個體中正在變更的內容以及變更原因？</li>
-    <p><img src="assets/action-item-icon.png" alt="動作專案圖示">行動專案：下載此範例以建立變更記錄檔，並記錄執行個體設定的變更。</td>
+    <p><img src="assets/action-item-icon.png" alt="動作專案圖示">行動專案：建立變更記錄檔，並記錄對執行個體組態所做的變更。</td>
   </tr>
   <tr> 
    <td>教戰手冊</td> 
@@ -67,7 +67,7 @@ ht-degree: 1%
    <td>與內部利害關係人的對話</td> 
     <td><li>貴公司行銷團隊的內部期望為何？ 它們是否符合正在提供的Marketo Engage？</li>
    <li>哪些團隊是您Marketo Engage例項中的利害關係人？</li>
-   <p><img src="assets/action-item-icon.png" alt="動作專案圖示">行動專案：下載此專案 <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">內部利害關係人溝通指南範本</a> 以記錄您重要利害關係人的目標與期望。</td>
+   <p><img src="assets/action-item-icon.png" alt="動作專案圖示">行動專案：記錄您關鍵利害關係人的目標和期望，並在全年與對應人員簽到時加以更新。</td>
   </tr>
  </tbody> 
 </table>

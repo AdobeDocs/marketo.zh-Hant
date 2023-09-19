@@ -3,9 +3,9 @@ description: 繼承執行個體管理員檢查清單 — Marketo檔案 — 產�
 title: 繼承執行個體管理員檢查清單
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1592'
 ht-degree: 1%
 
 ---
@@ -231,6 +231,21 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
    <td>自訂物件</td> 
    <td><li>數量 <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">自訂物件</a> 有嗎？ 他們如何同步至您的CRM？</li>
 <li>您的程式和清單查詢如何使用這些自訂物件？</li></td>
+  </tr>
+ </tbody> 
+</table>
+
+## 電子郵件 {#email}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">區域</th>
+   <th>評論焦點</th>
+  </tr> 
+  <tr> 
+   <td>電子郵件預設設定</td> 
+   <td><li>在「管理員&gt;電子郵件」中，所有預設設定均為最新狀態(例如 <a href="/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md" target="_blank">"from"電子郵件/標籤</a>， <a href="/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md" target="_blank">品牌化網域</a>， <a href="/help/marketo/product-docs/administration/email-setup/edit-the-unsubscribe-message.md" target="_blank">取消訂閱訊息</a>等)？</li></td>
   </tr>
  </tbody> 
 </table>
