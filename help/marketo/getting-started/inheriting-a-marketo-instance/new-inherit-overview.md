@@ -3,9 +3,9 @@ description: 瞭解如何最佳化和擴充您繼承的現有Marketo Engage例�
 title: Jumpstart繼承的Marketo Engage例項
 hide: true
 hidefromtoc: true
-source-git-commit: 2f0f92fdd439d5119d577096c5bf6c034bcd2be5
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ ht-degree: 0%
 * [**設定您的設定檔**](https://nation.marketo.com/){target="_blank"}.
 
 * 閱讀本文 [**行銷社群指導方針**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
-
-* 按一下 **[!UICONTROL 您的地標]** 在您的Marketo Nation社群設定檔中，檢視您公司的帳戶頁面。
 
 * 瞭解如何 [**提交支援案例**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"})。
 
@@ -46,7 +44,7 @@ ht-degree: 0%
 
 Adobe採用Marketo Champions所提供的輸入技術，整合了數個Marketo Engage繼承例項稽核檢查清單，協助您快速上手。 瞭解如何瀏覽不同的Marketo Engage區域並執行執行稽核所需的各種工作，其中會包含建議說明檔案的連結。
 
-您也可以下載試算表格式的核對清單。
+您也可以 [下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) 以試算表形式顯示。
 
 * [管理員區段](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 
