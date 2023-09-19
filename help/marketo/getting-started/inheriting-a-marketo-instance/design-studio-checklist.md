@@ -3,9 +3,9 @@ description: 繼承例項Design Studio檢查清單 — Marketo檔案 — 產品�
 title: 繼承的執行個體Design Studio檢查清單
 hide: true
 hidefromtoc: true
-source-git-commit: e859c6b7c968f93b11bbd8dc281661824236fbaf
+source-git-commit: a3f99e113e862010c64568e51f37e55d6c25106c
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '582'
 ht-degree: 1%
 
 ---
@@ -84,9 +84,7 @@ ht-degree: 1%
 <li>隱藏值是否獲得適當運用？</li>
 <li>是否在非Marketo Engage登陸頁面上使用任何Marketo Engage表單？ 引用方式為何？</li>
 <p><img src="assets/tip-icon.png" alt="提示圖示">提示：更新您使用引入的新內嵌程式碼內嵌Marketo Engage表單的頁面（需要安全的登陸頁面）。
-<br/><textarea style="width: 100%; max-width: 100%; height: 80px;"><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
-<form id="mktoForm_1"></form>
-<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></textarea>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png"><img src="assets/design-studio-checklist-1.png" alt="程式碼縮圖"></a>
 </td>
   </tr>
   <tr> 
