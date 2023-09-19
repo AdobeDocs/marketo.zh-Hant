@@ -3,9 +3,9 @@ description: 繼承例項Design Studio檢查清單 — Marketo檔案 — 產品�
 title: 繼承的執行個體Design Studio檢查清單
 hide: true
 hidefromtoc: true
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: 30a7b16e20b6abdfe4f7c10000e64d556ba94116
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '560'
 ht-degree: 1%
 
 ---
@@ -41,6 +41,31 @@ ht-degree: 1%
  </tbody> 
 </table>
 
+## 影像和檔案 {#images-and-files}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">區域</th> 
+   <th>評論焦點</th>
+  </tr> 
+  <tr> 
+   <td>命名慣例</td> 
+   <td><li>執行 <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">影像和檔案</a> 是否有一致的命名慣例？</li></td>
+  </tr>
+  <tr> 
+   <td>資料夾結構</td> 
+   <td><li>影像和檔案 <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">妥善組織</a> 且易於搜尋？</li></td>
+  </tr>
+  <tr> 
+   <td>影像和檔案</td> 
+   <td><li>執行任何影像或檔案 <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">在網頁上參照</a> 需要更新？ 
+   <p>範例：硬式編碼URL結構 <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">可能需要更新</a>，例如 <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>請與您的網頁開發人員合作，決定您可能需要進行更新的位置。</li></td>
+  </tr>
+ </tbody> 
+</table>
+
 ## Forms {#forms}
 
 <table style="table-layout:auto"> 
@@ -57,8 +82,8 @@ ht-degree: 1%
 <li>隱藏值是否獲得適當運用？</li>
 <li>是否在非Marketo Engage登陸頁面上使用任何Marketo Engage表單？ 引用方式為何？</li>
 <p><img src="assets/tip-icon.png" alt="提示圖示">提示：更新您使用引入的新內嵌程式碼內嵌Marketo Engage表單的頁面（需要安全的登陸頁面）。
-<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
-<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+<br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
+<br/><pre><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></pre>
 </td>
   </tr>
   <tr> 
@@ -120,31 +145,6 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## 影像和檔案 {#images-and-files}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:20%">區域</th> 
-   <th>評論焦點</th>
-  </tr> 
-  <tr> 
-   <td>命名慣例</td> 
-   <td><li>執行 <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">影像和檔案</a> 是否有一致的命名慣例？</li></td>
-  </tr>
-  <tr> 
-   <td>資料夾結構</td> 
-   <td><li>影像和檔案 <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">妥善組織</a> 且易於搜尋？</li></td>
-  </tr>
-  <tr> 
-   <td>影像和檔案</td> 
-   <td><li>執行任何影像或檔案 <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">在網頁上參照</a> 需要更新？ 
-   <p>範例：硬式編碼URL結構 <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">可能需要更新</a>，例如 <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
-   <p>請與您的網頁開發人員合作，決定您可能需要進行更新的位置。</li></td>
-  </tr>
- </tbody> 
-</table>
-
 ## 所有資產 {#all-assets}
 
 <table style="table-layout:auto"> 
@@ -155,7 +155,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>資產狀態</td> 
-   <td><li>中有多少資產 <i>草稿</i> 和 <i>已核准且具有草稿</i> 狀態？
+   <td><li>中有多少資產 <i>草稿</i> 和 <i>已核准且具有草稿</i> 狀態(例如， <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md" target="_blank">電子郵件</a>， <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md#approve-a-landing-page" target="_blank">登陸頁面</a>， <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/approve-a-form.md" target="_blank">表單</a>， <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md" target="_blank">代碼片段</a>)？
    <br/>     如果有許多，請考慮刪除或核准它們。</li></td>
   </tr>
   <tr> 
