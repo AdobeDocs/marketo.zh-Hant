@@ -2,7 +2,7 @@
 description: 繼承例項Design Studio檢查清單 — Marketo檔案 — 產品檔案
 title: 繼承的執行個體Design Studio檢查清單
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 1%
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 # 繼承例項：Design Studio檢查清單 {#inherited-instance-design-studio-checklist}
 
-建構範本和建立全域表單、代碼片段以及影像和檔案，有助於將資料錯誤降至最低，並簡化程式建置的工作流程。 記住 [下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 並追蹤您的進度。
+建構範本和建立全域表單、代碼片段以及影像和檔案，有助於將資料錯誤降至最低，並簡化程式建置的工作流程。 記住 [下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 並追蹤您的進度。
 
 ## 登陸頁面 {#landing-pages}
 
@@ -83,7 +83,7 @@ ht-degree: 1%
 <li>隱藏值是否獲得適當運用？</li>
 <li>是否在非Marketo Engage登陸頁面上使用任何Marketo Engage表單？ 引用方式為何？</li>
 <p><img src="assets/tip-icon.png" alt="提示圖示">提示：更新您使用引入的新內嵌程式碼內嵌Marketo Engage表單的頁面（需要安全的登陸頁面）。
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="程式碼縮圖"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="程式碼縮圖"></a>
 </td>
   </tr>
   <tr> 
@@ -168,6 +168,6 @@ ht-degree: 1%
 
 <br> 
 
-[◄稽核繼承的執行個體：行銷活動](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[◄稽核繼承的執行個體：行銷活動](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
 
-[稽核繼承的執行個體：記錄您繼承的執行個體設定►](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+[稽核繼承的執行個體：記錄您繼承的執行個體設定►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)

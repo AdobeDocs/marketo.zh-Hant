@@ -2,7 +2,7 @@
 description: 瞭解如何最佳化和擴充您繼承的現有Marketo Engage例項。 遵循檢查清單以稽核管理員設定並維護資料庫衛生。
 title: 從何處開始
 feature: Getting Started
-source-git-commit: 25ed17585865d8232a4cc19cbf67b9842342b020
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 0%
@@ -43,17 +43,17 @@ ht-degree: 0%
 
 Adobe運用Marketo Champions提供的輸入資料，整合了數個Marketo Engage繼承例項稽核核核核檢查清單，協助您全力以赴。 瞭解如何瀏覽不同的Marketo Engage區域並執行執行稽核所需的各種工作，其中會包含建議說明檔案的連結。
 
-您也可以 [下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 以試算表形式顯示。
+您也可以 [下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 以試算表形式顯示。
 
-* [管理員區段](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+* [管理員區段](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
 
-* [資料庫](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+* [資料庫](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
 
-* [行銷活動](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+* [行銷活動](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
 
-* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
 
-* [記錄您繼承的執行個體設定](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+* [記錄您繼承的執行個體設定](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
 
 ## 取得協助的方式 {#ways-to-get-help}
 

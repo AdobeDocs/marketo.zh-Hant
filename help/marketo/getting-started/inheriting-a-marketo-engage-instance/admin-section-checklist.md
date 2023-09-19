@@ -2,7 +2,7 @@
 description: 繼承執行個體管理員檢查清單 — Marketo檔案 — 產品檔案
 title: 繼承執行個體管理員檢查清單
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 1%
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 # 繼承執行個體：管理員區段檢查清單 {#inherited-instance-admin-section-checklist}
 
-Adobe Professional Services已將以下核對清單（連結至每篇文章底部的後續核對清單）與Marketo Champions的輸入彙整在一起，協助您快速上手。 您也可以 [下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 並追蹤您的進度。
+Adobe Professional Services已將以下核對清單（連結至每篇文章底部的後續核對清單）與Marketo Champions的輸入彙整在一起，協助您快速上手。 您也可以 [下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 並追蹤您的進度。
 
 >[!TIP]
 >
@@ -364,4 +364,4 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 
 <br> 
 
-[稽核繼承的執行個體：資料庫►定](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+[稽核繼承的執行個體：資料庫►定](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)

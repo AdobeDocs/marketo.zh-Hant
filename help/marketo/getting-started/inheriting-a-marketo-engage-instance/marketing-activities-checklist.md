@@ -2,7 +2,7 @@
 description: 繼承例項行銷活動檢查清單 — Marketo檔案 — 產品檔案
 title: 繼承例項行銷活動檢查清單
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 繼承例項：行銷活動檢查清單 {#inherited-instance-marketing-activities-checklist}
 
-正確組織您的「行銷活動」區段，協助其他人尋找和管理您Marketo Engage執行個體中的各種方案，並確保人員經過處理，以便從行銷傳遞至銷售。 記住 [下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 並追蹤您的進度。
+正確組織您的「行銷活動」區段，協助其他人尋找和管理您Marketo Engage執行個體中的各種方案，並確保人員經過處理，以便從行銷傳遞至銷售。 記住 [下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 並追蹤您的進度。
 
 ## 組織 {#organization}
 
@@ -167,6 +167,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄稽核繼承的執行個體：資料庫](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+[◄稽核繼承的執行個體：資料庫](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
 
-[稽核繼承的執行個體： Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+[稽核繼承的執行個體： Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

@@ -2,7 +2,7 @@
 description: 繼承例項檔案您的設定 — Marketo檔案 — 產品檔案
 title: 繼承例項檔案您的設定
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 1%
@@ -71,4 +71,4 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-[◄稽核繼承的執行個體： Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+[◄稽核繼承的執行個體： Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
