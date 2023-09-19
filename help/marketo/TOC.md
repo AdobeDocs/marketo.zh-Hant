@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
 workflow-type: tm+mt
-source-wordcount: '9114'
+source-wordcount: '9098'
 ht-degree: 0%
 
 ---
@@ -37,17 +37,14 @@ ht-degree: 0%
       + [更新個人資料](getting-started/quick-wins/update-person-data.md)
       + [重新導向登入頁面](getting-started/quick-wins/redirect-a-landing-page.md)
       + [針對可能的重複人員自動傳送警報](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
-   + 繼承Marketo執行個體 {#inheriting-a-marketo-instance}
-      + [新繼承概觀](getting-started/inheriting-a-marketo-instance/new-inherit-overview.md)
-      + [說明! 我繼承了現有的Marketo執行個體](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
-      + [要簽出的專案](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
-      + [檢閱內容：核心技能](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
-      + [取得協助的方式](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-      + [繼承執行個體：管理員區段檢查清單](getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
-      + [繼承的執行個體：資料庫檢查清單](getting-started/inheriting-a-marketo-instance/database-checklist.md)
-      + [繼承例項：行銷活動檢查清單](getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
-      + [繼承例項：Design Studio檢查清單](getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
-      + [繼承的執行個體：記錄您的設定](getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+   + 繼承Marketo Engage例項 {#inheriting-a-marketo-engage-instance}
+      + [從何處開始](getting-started/inheriting-a-marketo-engage-instance/new-inherit-overview.md)
+      + [繼承執行個體：管理員區段檢查清單](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
+      + [繼承的執行個體：資料庫檢查清單](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
+      + [繼承例項：行銷活動檢查清單](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
+      + [繼承例項：Design Studio檢查清單](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+      + [繼承的執行個體：記錄您的設定](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
+      + [檢閱核心技能](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + 產品檔案 {#product-docs}
    + 其他應用程式 {#additional-apps}
       + SEO {#seo}
