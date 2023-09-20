@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: c6bafe84ce856705b233818dddb49e4770c60d86
+source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
 workflow-type: tm+mt
-source-wordcount: '9098'
+source-wordcount: '9106'
 ht-degree: 0%
 
 ---
@@ -1239,6 +1239,7 @@ ht-degree: 0%
             + [不正確的收件者位置](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
             + [即時摘要概觀](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
          + 取消訂閱 {#unsubscribes}
+            + [自動附加取消訂閱訊息設定](product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md)
             + [自訂取消訂閱連結訊息](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
             + [Marketo取消訂閱檢查](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
             + [重新訂閱取消訂閱](product-docs/marketo-sales-connect/email/unsubscribes/resubscribing-an-unsubscribe.md)
@@ -1402,6 +1403,7 @@ ht-degree: 0%
                + [為您的團隊設定自訂傳遞管道](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
             + 取消訂閱 {#unsubscribes}
                + [取消訂閱總覽](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
+               + [自動附加取消訂閱訊息設定](product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md)
                + [自訂取消訂閱連結訊息](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Marketo取消訂閱檢查](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [正在與Salesforce同步取消訂閱](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)

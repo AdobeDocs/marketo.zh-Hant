@@ -2,9 +2,9 @@
 description: 發行說明 — 2023年9月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2023年9月
 feature: Release Information
-source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
+source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '793'
 ht-degree: 1%
 
 ---
@@ -52,16 +52,6 @@ ht-degree: 1%
    <td><strong>用於Design Studio資產的索引標籤增強功能</strong>：增強功能使用索引標籤提供更詳細的資產型別和名稱檢視，以及資產的使用位置。 這適用於電子郵件詳細資訊和影像與檔案詳細資訊。</td> 
    <td>已送出</td>
    <td>不適用</td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr> 
-   <td><strong>計算公式流程步驟服務</strong>：運算公式是以Adobe的IO執行階段平台為基礎所建置的流程步驟服務，可與Marketo Engage智慧行銷活動搭配使用。 具有IO執行階段的Adobe使用者端可部署服務，並將其安裝至其Marketo Engage訂閱，好讓他們在Marketo Smart Campaigns中計算Excel式公式。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
   </tr>
  </tbody> 
 </table>
