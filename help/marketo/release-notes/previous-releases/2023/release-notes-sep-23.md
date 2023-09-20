@@ -2,9 +2,9 @@
 description: 發行說明 — 2023年9月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2023年9月
 feature: Release Information
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '849'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 1%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>由Design Studio資產的計數欄使用</strong>：Marketo Engage計畫參考資料庫可讓使用者匯入代表Adobe建議之最佳實務的「範例」計畫和其他資產。 我們的產品管理團隊已完全更新程式庫，為想要快速啟動程式的人提供更有價值的工具。</td> 
+   <td><strong>由Design Studio資產的計數欄使用</strong>： Design Studio中清單檢視的「用於計數」欄會醒目顯示正在使用的資產數量。 這適用於程式碼片段、電子郵件範本、Forms和登入頁面範本。</td> 
    <td>已送出</td>
    <td>不適用</td>
   </tr>
