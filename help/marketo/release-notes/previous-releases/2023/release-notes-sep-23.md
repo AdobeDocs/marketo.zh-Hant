@@ -2,9 +2,9 @@
 description: 發行說明 — 2023年9月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2023年9月
 feature: Release Information
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '872'
 ht-degree: 1%
 
 ---
@@ -52,6 +52,26 @@ ht-degree: 1%
    <td><strong>用於Design Studio資產的索引標籤增強功能</strong>：增強功能使用索引標籤提供更詳細的資產型別和名稱檢視，以及資產的使用位置。 這適用於電子郵件詳細資訊和影像與檔案詳細資訊。</td> 
    <td>已送出</td>
    <td>不適用</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>互動式網路研討會的本地化</strong>：這可讓您使用所需的語言檢視Marketo互動式網路研討會活動計畫的詳細資料，以及選擇傳送語言，以便與建立活動計畫的Marketo使用者使用不同的語言。</td> 
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">互動式網路研討會常見問題集</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>互動式網路研討會的使用者存取管理</strong>：使用者存取管理可讓互動式網路研討會的使用者僅存取其獲准存取的事件程式，有助於防止未經授權的存取。</td> 
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#user-access" target="_blank">使用者存取</a></td>
   </tr>
  </tbody> 
 </table>
