@@ -2,7 +2,7 @@
 description: 發行說明 — 2023年9月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2023年9月
 feature: Release Information
-source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
+source-git-commit: 1075444e8c23d6d925c3b427ba8835ddeeead5ea
 workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 1%
@@ -59,7 +59,7 @@ ht-degree: 1%
    <td> </td>
   </tr>
    <tr> 
-   <td><strong>互動式網路研討會的本地化</strong>：這可讓您使用所需的語言檢視Marketo互動式網路研討會活動計畫的詳細資料，以及選擇傳送語言，以便與建立活動計畫的Marketo使用者使用不同的語言。</td> 
+   <td><strong>互動式網路研討會的本地化</strong>：這可讓您使用所需語言檢視Marketo互動式網路研討會活動計畫的詳細資料，如果要讓傳送語言與建立活動計畫的Marketo使用者的語言不同，請選擇傳送語言。</td> 
    <td>已送出</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">互動式網路研討會常見問題集</a></td>
   </tr>
