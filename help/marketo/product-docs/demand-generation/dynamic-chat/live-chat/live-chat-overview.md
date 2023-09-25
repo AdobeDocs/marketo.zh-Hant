@@ -2,18 +2,20 @@
 description: 即時聊天概述 — Marketo檔案 — 產品檔案
 title: 即時聊天總覽
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '254'
 ht-degree: 2%
 
 ---
 
 # 即時聊天總覽 {#live-chat-overview}
 
-使用中的即時聊天卡 [串流設計工具](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} 您希望訪客與即時代理程式聊天時。
+即時聊天可讓網站訪客與銷售代理進行即時聊天交談。
 
 ## 使用即時聊天卡 {#using-the-live-chat-card}
+
+使用中的即時聊天卡 [串流設計工具](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} 您希望訪客與即時代理程式聊天時。
 
 ![](assets/live-chat-overview-1.png)
 
