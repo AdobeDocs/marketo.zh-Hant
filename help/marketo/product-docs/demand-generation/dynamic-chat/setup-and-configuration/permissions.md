@@ -4,16 +4,18 @@ title: 權限
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
+source-git-commit: ca158295a492edfa74c97f98196021767364f692
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 5%
+source-wordcount: '301'
+ht-degree: 4%
 
 ---
 
 # 權限 {#permissions}
 
 管理Dynamic Chat中各個區域的使用者存取許可權。
+
+## 自訂許可權 {#customize-permissions}
 
 1. 在 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}，按一下 **Dynamic Chat**.
 
@@ -49,7 +51,7 @@ ht-degree: 5%
 
 ## 許可權清單 {#list-of-permissions}
 
-在下方，您會找到所有可用許可權的清單，依區域排序。
+在下方，您會找到每個區域的所有可用許可權清單。
 
 <table>
 <thead>
@@ -73,8 +75,8 @@ ht-degree: 5%
     <td><li>專員收件匣</li>
     <li>檢視我的交談</li>
     <li>檢視所有交談</li>
-    <li>檢視交談摘要<b>*</b></li>
-    <li>檢視協助回應<b>*</b></li></td>
+    <li>檢視交談摘要 <b>*</b></li>
+    <li>檢視協助回應 <b>*</b></li></td>
   </tr>
   <tr>
     <td>會議</td>
@@ -96,21 +98,21 @@ ht-degree: 5%
   </tr>
   <tr>
     <td>管理員設定</td>
-    <td><li>檢視工作區<b>*</b></li>
-    <li>管理工作區（建立、編輯、刪除）<b>*</b></li>
+    <td><li>檢視工作區 <b>*</b></li>
+    <li>管理工作區（建立、編輯、刪除） <b>*</b></li>
     <li>檢視循環配置資源</li>
     <li>檢視自訂規則</li>
     <li>管理自訂規則（新增、編輯、刪除）</li>
-    <li>檢視帳戶清單<b>*</b></li>
-    <li>管理帳戶（新增、編輯、刪除）<b>*</b></li>
+    <li>檢視帳戶清單 <b>*</b></li>
+    <li>管理帳戶（新增、編輯、刪除） <b>*</b></li>
     <li>管理聊天機器人設定</li>
     <li>管理對話流程設定</li>
     <li>管理隱私權與安全性</li>
     <li>管理整合</li>
-    <li>管理語言<b>*</b></li>
+    <li>管理語言 <b>*</b></li>
     <li>管理代理程式</li>
-    <li>檢視代理程式團隊<b>*</b></li>
-    <li>管理代理程式團隊（新增、編輯、刪除）<b>*</b></li>
+    <li>檢視代理程式團隊 <b>*</b></li>
+    <li>管理代理程式團隊（新增、編輯、刪除） <b>*</b></li>
     <li>檢視使用量限制</li></td>
   </tr>
 </tbody>
