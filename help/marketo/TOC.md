@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
 workflow-type: tm+mt
-source-wordcount: '9106'
-ht-degree: 0%
+source-wordcount: '9107'
+ht-degree: 1%
 
 ---
 
@@ -649,7 +649,7 @@ ht-degree: 0%
          + [聊天機器人行為](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [會議清單](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat活動](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [分析](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
          + 自動聊天 {#automated-chat}
             + [對話流程概觀](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
             + [建立對話流程](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
@@ -667,6 +667,7 @@ ht-degree: 0%
          + 設定與組態 {#setup-and-configuration}
             + [初始設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [新增或移除聊天使用者](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [權限](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
             + [設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
             + [專員設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
             + [代理程式管理](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
@@ -935,7 +936,7 @@ ht-degree: 0%
             + [Token概述](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
             + [在登入頁面中使用動態內容](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
             + [使用URL產生器](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
-      + 社交 {#social}
+      + Social {#social}
          + 設定社交動作 {#configuring-social-actions}
             + [設定共用後提示](product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)
             + [設定社交應用程式的個人擷取](product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md)
@@ -1144,7 +1145,7 @@ ht-degree: 0%
          + [透過Sales Connect中的SAML 2.0設定SSO](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [共用設定](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [使用者存取細節](product-docs/marketo-sales-connect/admin/user-access-details.md)
-      + 分析 {#analytics}
+      + Analytics {#analytics}
          + [Analytics頁面概觀](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [瞭解「內容」標籤](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
          + [瞭解「我」標籤](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
@@ -1355,7 +1356,7 @@ ht-degree: 0%
             + [共用設定](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [與Marketo和Salesforce同步銷售動作資料](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [使用者存取細節](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
-         + 分析 {#analytics}
+         + Analytics {#analytics}
             + [Analytics頁面概觀](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [瞭解「內容」標籤](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
             + [瞭解「我」標籤](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
@@ -1631,7 +1632,7 @@ ht-degree: 0%
          + [在智慧清單觸發器和篩選器中使用Vibes SMS訊息](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + 個人化 {#personalization}
       + 分段與代碼片段 {#segmentation-and-snippets}
-         + 細分 {#segmentation}
+         + 區段 {#segmentation}
             + [核准分段](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
             + [建立細分](product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
             + [定義區段規則](product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
@@ -1811,7 +1812,7 @@ ht-degree: 0%
             + [定義期間成本](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
             + [啟用收入週期Analytics的自訂欄位同步](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
             + [依收入階段的人員報表](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
-            + 歸因 {#attribution}
+            + 出處 {#attribution}
                + [瞭解歸因](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
                + [歸因範例1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
                + [歸因範例2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
@@ -1832,7 +1833,7 @@ ht-degree: 0%
          + [設定帳戶分析](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [Account Insight外掛程式概述](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [邀請使用者存取帳戶分析](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + 目標 {#target}
+      + Target {#target}
          + 具名帳戶 {#named-accounts}
             + [具名帳戶總覽](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [匯入具名帳戶](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
