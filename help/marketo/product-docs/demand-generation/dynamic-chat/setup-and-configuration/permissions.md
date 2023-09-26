@@ -1,21 +1,19 @@
 ---
 description: 許可權 — Marketo檔案 — 產品檔案
 title: 權限
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ca158295a492edfa74c97f98196021767364f692
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '396'
 ht-degree: 4%
 
 ---
 
 # 權限 {#permissions}
 
-管理Dynamic Chat中各個區域的使用者存取許可權。
+共有五個預設設定檔具有預先定義的許可權，您可以在Dynamic Chat中編輯。 您也可以建立具有自訂許可權集的自訂設定檔。 我們來看看這兩個。
 
-## 自訂許可權 {#customize-permissions}
+## 編輯現有許可權 {#edit-existing-permissions}
 
 1. 在 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}，按一下 **Dynamic Chat**.
 
@@ -29,11 +27,11 @@ ht-degree: 4%
 
    ![](assets/permissions-3.png)
 
-1. 選取要編輯的Dynamic Chat區域。 因為我們選擇了「即時代理程式」設定檔，所以我們選擇了「即時交談」。 按一下鉛筆圖示。
+1. 選取要編輯的設定檔區域。 在此範例中，我們選擇「即時交談」。 按一下鉛筆圖示。
 
    ![](assets/permissions-4.png)
 
-1. 所有可用的許可權專案都位於左側。 您可以選擇逐一新增許可權，或一次新增所有許可權。 在此範例中，我們選擇「全部」。 按一下 **+全部新增** 按鈕。
+1. 可用的許可權專案會列在左側。 您可以選擇逐一新增許可權，或一次新增所有許可權。 在此範例中，只有一個可用，因此我們將新增該專案。 按一下 **+** 簽署。
 
    ![](assets/permissions-5.png)
 
@@ -45,9 +43,30 @@ ht-degree: 4%
 
    ![](assets/permissions-6.png)
 
-您現在可以針對所有其他Dynamic Chat區域重複此程式。
+您現在可以為任何其他Dynamic Chat區域重複此程式。
 
 ![](assets/permissions-7.png)
+
+## 建立設定檔 {#create-a-profile}
+
+1. 在 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}，按一下 **Dynamic Chat**.
+
+   ![](assets/permissions-8.png)
+
+1. 在 **產品設定檔** 標籤，按一下 **新設定檔**.
+
+   ![](assets/permissions-9.png)
+
+1. **名稱** 您的產品設定檔。 您可以選擇為其提供顯示名稱和/或說明，並選擇在使用者新增/移除時通知使用者。 按一下 **儲存** 完成時。
+
+   ![](assets/permissions-10.png)
+
+1. 您的新設定檔會出現在產品設定檔索引標籤中。 選取它。
+
+   ![](assets/permissions-11.png)
+
+1. 現在請依照以下說明中的步驟3-6： [上一節](#edit-existing-permissions) 用於每個所需區域。
+
 
 ## 許可權清單 {#list-of-permissions}
 

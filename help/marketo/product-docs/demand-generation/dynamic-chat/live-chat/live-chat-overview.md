@@ -2,16 +2,22 @@
 description: 即時聊天概述 — Marketo檔案 — 產品檔案
 title: 即時聊天總覽
 feature: Dynamic Chat
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 2%
+source-wordcount: '322'
+ht-degree: 1%
 
 ---
 
 # 即時聊天總覽 {#live-chat-overview}
 
 即時聊天可讓網站訪客與銷售代理進行即時聊天交談。
+
+## 新增即時聊天代理 {#add-live-chat-agents}
+
+若要開始進行即時聊天，您需要將即時聊天代理新增為 [Adobe Admin Console中的使用者](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. 完成後，您可以新增 [即時聊天卡](#using-the-live-chat-card) 至新的或現有的對話方塊。
+
+當訪客透過Dialog要求與代理程式聊天時，代理程式將擁有多個 [通知選項](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} 他們可以在哪裡開始與訪客聊天。
 
 ## 使用即時聊天卡 {#using-the-live-chat-card}
 

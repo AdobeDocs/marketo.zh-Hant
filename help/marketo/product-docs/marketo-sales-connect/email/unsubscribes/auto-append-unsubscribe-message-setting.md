@@ -4,7 +4,7 @@ title: 自動附加取消訂閱訊息設定
 hide: true
 hidefromtoc: true
 feature: Marketo Sales Connect
-source-git-commit: b0f62abfe04efd8e72ed8e92442d4a46ea118f33
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -37,4 +37,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您停用附加取消訂閱訊息設定，建議將取消訂閱頁尾新增至您的範本，以確保您的通訊具有選擇退出選項。 若要這麼做，您可以將自己的自訂訊息新增至每個範本，或使用 `{{team_unsubscribe}}` 動態欄位。
+>如果您停用附加取消訂閱訊息設定，建議將取消訂閱頁尾新增至您的範本，以確保您的通訊具有選擇退出選項。 若要這麼做，您可以將自己的自訂訊息新增至每個範本，或使用 `{{team_unsubscribe}}` [動態欄位](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}.
