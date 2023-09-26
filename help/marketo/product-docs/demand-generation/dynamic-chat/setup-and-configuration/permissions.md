@@ -2,9 +2,9 @@
 description: 許可權 — Marketo檔案 — 產品檔案
 title: 權限
 feature: Dynamic Chat
-source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
+source-git-commit: d60b506f0c84fc2883054be628817374d3a1a09b
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '397'
 ht-degree: 4%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 4%
 
    ![](assets/permissions-6.png)
 
-您現在可以為任何其他Dynamic Chat區域重複此程式。
+您現在可以為任何/所有其他Dynamic Chat區域重複此程式。
 
 ![](assets/permissions-7.png)
 
@@ -75,7 +75,7 @@ ht-degree: 4%
 <table>
 <thead>
   <tr>
-    <th>Dynamic Chat區域</th>
+    <th style="width:30%">Dynamic Chat區域</th>
     <th>權限</th>
   </tr>
 </thead>
