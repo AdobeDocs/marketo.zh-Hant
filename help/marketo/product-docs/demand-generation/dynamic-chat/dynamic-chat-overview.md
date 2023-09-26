@@ -2,16 +2,16 @@
 description: Dynamic Chat概述 — Marketo檔案 — 產品檔案
 title: Dynamic Chat概觀
 feature: Dynamic Chat
-source-git-commit: 5e413f280b44691336bd724ddc20936e88d53764
+source-git-commit: 0bc016e63626c880238316ff2130f12a31fdd717
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '696'
 ht-degree: 1%
 
 ---
 
 # Dynamic Chat概觀 {#dynamic-chat-overview}
 
-Dynamic Chat可讓您運用易用的介面，將目標同時鎖定於造訪您網站的訪客和帳戶。 收集相關內容，例如姓名、聯絡資訊和任意文字。 網站訪客也可以預約與您的銷售團隊開會。 Dynamic Chat活動和參與資料可用來將成員新增至Marketo方案，並觸發跨頻道活動。
+Dynamic Chat可讓您運用易用的介面，將目標同時鎖定於造訪您網站的訪客和帳戶。 收集相關內容，例如姓名、聯絡資訊和任意文字。 網站訪客也可以與即時代理聊天，甚至預約與您的銷售團隊的會議。 Dynamic Chat活動和參與資料可用來將成員新增至Marketo方案，並觸發跨頻道活動。
 
 >[!TIP]
 >
@@ -122,7 +122,7 @@ Dynamic ChatJavaScript程式碼片段可安裝在任何網站以及Marketo登陸
 
 **Dynamic Chat是否支援英語以外的任何語言？**
 
-有。Dynamic Chat支援下列語言：法文、德文、日文、西班牙文、義大利文、巴西葡萄牙文、韓文、簡體中文和繁體中文。 進一步瞭解 [區段如下](#changing-the-language).
+有。Dynamic Chat支援下列語言：法文、德文、日文、西班牙文、義大利文、巴西葡萄牙文、韓文、簡體中文和繁體中文。 進一步瞭解 [變更語言](#changing-the-language).
 
 **您支援AI/NLP功能嗎？**
 
