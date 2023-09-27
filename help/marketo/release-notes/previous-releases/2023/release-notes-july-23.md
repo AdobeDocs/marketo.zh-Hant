@@ -2,9 +2,9 @@
 description: 發行說明 — 2023年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2023年7月
 feature: Release Information
-source-git-commit: 45e092f7b7e7beeef9712869b62ba4e022c2bf3d
+source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '641'
 ht-degree: 2%
 
 ---
@@ -179,4 +179,4 @@ ht-degree: 2%
 
 * **升級至Google Analytics4**：Marketo先前支援Universal Analytics，後者將於2023年7月1日前停止記錄資料。 RTP使用者必須在其Google Analytics控制面板中遵循移轉程式，才能在RTP中完成對Google Analytics4整合的支援。 此後，使用者將擁有不重複的英數字元標籤(位於 `<head>` 部分)，其可讓Marketo傳送資料給Google Analytics。
 
-* **_產品發行網路研討會_**：2023年9月6日上午9:00 （太平洋時間） /中午12:00 （東部時間）加入我們 [直播網路研討會](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} 由我們的產品團隊託管，讓您瞭解如何使用所有最新的產品創新功能。
+* **_產品發行網路研討會_**： [2023年7月和9月Marketo Engage版本網路研討會](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}

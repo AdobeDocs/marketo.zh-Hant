@@ -2,9 +2,9 @@
 description: 發行說明 — 2023年9月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2023年9月
 feature: Release Information
-source-git-commit: 1075444e8c23d6d925c3b427ba8835ddeeead5ea
+source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '889'
 ht-degree: 1%
 
 ---
@@ -267,3 +267,5 @@ ht-degree: 1%
 ## 公告 {#announcements}
 
 * **切換Design Studio Assets的開關淘汰**：可讓使用者在傳統介面與適用於Design Studio的現代UX體驗之間切換的切換開關即將棄用，搭配舊版Design Studio體驗，讓使用者可完全移轉至現代UX體驗。 [在此處瞭解更多](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
+
+* **_產品發行網路研討會_**： [2023年7月和9月Marketo Engage版本網路研討會](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
