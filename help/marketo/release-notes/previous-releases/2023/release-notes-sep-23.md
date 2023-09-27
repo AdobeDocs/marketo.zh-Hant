@@ -2,9 +2,9 @@
 description: 發行說明 — 2023年9月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2023年9月
 feature: Release Information
-source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
+source-git-commit: 91abb47c44297f3b87646840aebf72d64a9a3a8d
 workflow-type: tm+mt
-source-wordcount: '889'
+source-wordcount: '937'
 ht-degree: 1%
 
 ---
@@ -265,6 +265,8 @@ ht-degree: 1%
 <br/>
 
 ## 公告 {#announcements}
+
+* **不再使用Marketo事件和Marketo時刻**：Adobe將從2023年10月2日起從所有應用程式商店移除Marketo事件和Marketo時刻。 現有使用者 — 您可以繼續使用這些應用程式，直到您將您的Marketo Engage執行個體移轉至Adobe身分識別為止。 這些應用程式不支援使用Adobe ID登入。
 
 * **切換Design Studio Assets的開關淘汰**：可讓使用者在傳統介面與適用於Design Studio的現代UX體驗之間切換的切換開關即將棄用，搭配舊版Design Studio體驗，讓使用者可完全移轉至現代UX體驗。 [在此處瞭解更多](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
 
