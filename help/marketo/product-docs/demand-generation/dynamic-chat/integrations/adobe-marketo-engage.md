@@ -2,7 +2,8 @@
 description: Adobe Marketo Engage - Marketo檔案 — 產品檔案
 title: Adobe Marketo Engage
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: 5e341040-70ff-49f2-a954-b609d24e6006
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 2%
@@ -80,4 +81,3 @@ ht-degree: 2%
 >[!MORELIKETHIS]
 >
 >[初始設定](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"}
-

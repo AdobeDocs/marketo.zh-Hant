@@ -2,7 +2,8 @@
 description: 初始設定 — Marketo檔案 — 產品檔案
 title: 初始設定
 feature: Dynamic Chat
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+exl-id: 61022682-412f-43d4-9fc9-b4914a6ce8f1
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%

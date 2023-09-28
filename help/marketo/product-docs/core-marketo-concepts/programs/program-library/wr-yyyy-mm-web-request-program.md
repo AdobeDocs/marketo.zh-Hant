@@ -2,7 +2,8 @@
 description: WR-YYYY-MM-Web請求計畫 — Marketo檔案 — 產品檔案
 title: WR-YYYY-MM-Web請求程式
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 539dfd08-eed8-4fac-b976-7fe43f5d24b3
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 3%

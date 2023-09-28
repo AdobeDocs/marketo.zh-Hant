@@ -2,7 +2,8 @@
 description: EM-YYYY-MM-DD-Single Email Send - Marketo檔案 — 產品檔案
 title: EM-YYYY-MM-DD — 單一電子郵件傳送
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 4dbf3234-a95e-420a-8975-cf86585fb3fc
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 4%

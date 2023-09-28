@@ -2,7 +2,8 @@
 description: Dynamic Chat概述 — Marketo檔案 — 產品檔案
 title: Dynamic Chat概觀
 feature: Dynamic Chat
-source-git-commit: 0bc016e63626c880238316ff2130f12a31fdd717
+exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '696'
 ht-degree: 1%

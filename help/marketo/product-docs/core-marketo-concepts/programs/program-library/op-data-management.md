@@ -2,7 +2,8 @@
 description: OP — 資料管理 — Marketo檔案 — 產品檔案
 title: 作業資料管理
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 21cd86b2-e924-4326-bbf7-32a03a3eb224
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 2%

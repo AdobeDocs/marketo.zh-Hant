@@ -2,7 +2,8 @@
 description: 許可權 — Marketo檔案 — 產品檔案
 title: 權限
 feature: Dynamic Chat
-source-git-commit: d60b506f0c84fc2883054be628817374d3a1a09b
+exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 4%

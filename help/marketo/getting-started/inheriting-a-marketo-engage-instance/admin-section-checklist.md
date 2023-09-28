@@ -2,7 +2,8 @@
 description: 繼承執行個體管理員檢查清單 — Marketo檔案 — 產品檔案
 title: 繼承執行個體管理員檢查清單
 feature: Getting Started
-source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
+exl-id: 4840d1a8-306b-4b53-917d-2262ae903a42
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 1%
@@ -351,7 +352,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
    <td><li>您的執行個體是否已訂閱 <a href="https://nation.marketo.com/t5/knowledgebase/how-to-subscribe-to-status-page-notifications/ta-p/296749" target="_blank">Marketo Engage狀態更新</a>？</li></td>
   </tr>
   <tr> 
-   <td>警示</td> 
+   <td>警報</td> 
    <td><li>是否有任何 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">作用中警報</a> 是從Marketo Engage傳送給內部團隊的嗎？</li>
 <li>如果有的話，這些警報是否可正常運作？</li></td>
   </tr>

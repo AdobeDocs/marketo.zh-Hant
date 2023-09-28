@@ -2,7 +2,8 @@
 description: 對象條件 — Marketo檔案 — 產品檔案
 title: 對象條件
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: ffe62cb7-707d-4b6d-8a66-9240d111191a
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 2%
@@ -111,7 +112,7 @@ ht-degree: 2%
 
 ![](assets/audience-criteria-17.png)
 
-## 目標 {#target}
+## Target {#target}
 
 這是您輸入要在其中顯示特定對話方塊的URL的位置。 您也可以選擇新增排除專案。
 

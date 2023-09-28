@@ -4,7 +4,8 @@ title: 自動附加取消訂閱訊息設定
 hide: true
 hidefromtoc: true
 feature: Marketo Sales Connect
-source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
+exl-id: 2d4c96b3-6d27-46e9-abb0-2571f3e03611
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%

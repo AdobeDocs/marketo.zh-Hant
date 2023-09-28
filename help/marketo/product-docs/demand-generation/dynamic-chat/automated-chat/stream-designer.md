@@ -2,7 +2,8 @@
 description: 串流設計工具 — Marketo檔案 — 產品檔案
 title: 流程設計工具
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: 5afc7abd-a57b-467a-9356-5332964f997c
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '1101'
 ht-degree: 2%

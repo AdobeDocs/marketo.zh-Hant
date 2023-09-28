@@ -2,7 +2,8 @@
 description: OA-YYYY-MM-Online Advertising Marketo登陸頁面 — Marketo檔案 — 產品檔案
 title: OA-YYYY-MM-Online Advertising Marketo登陸頁面
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: a41b87d9-922a-4ed8-a2a4-36ef17a88ede
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '480'
 ht-degree: 3%

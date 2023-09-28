@@ -2,7 +2,8 @@
 description: OP-Acquisition-API - Marketo檔案 — 產品檔案
 title: OP-Acquisition-API
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 1d6ec686-af0b-46a9-b428-1520b671ca24
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 1%

@@ -1,15 +1,16 @@
 ---
 description: Analytics - Marketo檔案 — 產品檔案
-title: 分析
+title: Analytics
 feature: Dynamic Chat
-source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
+exl-id: 8a698f2f-fa1b-4d0f-835c-8d65101c36fb
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 1%
 
 ---
 
-# 分析 {#analytics}
+# Analytics {#analytics}
 
 雖然報表可在對話方塊層級使用，但使用以下三個儀表板檢查整體參與。
 

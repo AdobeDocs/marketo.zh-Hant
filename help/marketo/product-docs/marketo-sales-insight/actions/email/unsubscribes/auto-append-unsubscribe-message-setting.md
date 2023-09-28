@@ -4,7 +4,8 @@ title: 自動附加取消訂閱訊息設定
 hide: true
 hidefromtoc: true
 feature: Sales Insight Actions
-source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
+exl-id: 7cfd2db3-181e-4407-807f-d17d77715fac
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%

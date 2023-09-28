@@ -2,7 +2,8 @@
 description: NUR-YYYY-MM-Advanced Nurture - Marketo檔案 — 產品檔案
 title: NUR-YYYY-MM-Advanced Nurture
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: cd266cad-843b-4329-ad40-2f3d0acd4948
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '475'
 ht-degree: 3%
@@ -26,7 +27,7 @@ ht-degree: 3%
    <th>計畫型別</th>
   </tr> 
   <tr> 
-   <td>Nurture</td> 
+   <td>培養</td> 
    <td>01 — 成員 
 <br/>02 — 參與 — 成功</td>
    <td>包含</td>

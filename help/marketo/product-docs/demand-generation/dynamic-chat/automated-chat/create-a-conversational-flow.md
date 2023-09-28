@@ -2,7 +2,8 @@
 description: 建立對話流程 — Marketo檔案 — 產品檔案
 title: 建立對話流程
 feature: Dynamic Chat
-source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
+exl-id: e3548ebc-0788-48ff-bac8-f8c240319f92
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%

@@ -1,7 +1,8 @@
 ---
 description: 設定Sales Insight Actions沙箱 — Marketo檔案 — 產品檔案
 title: 設定Sales Insight動作沙箱
-source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
+exl-id: 58af77ef-93ea-4149-be91-f86cdc8f7476
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 0%
@@ -12,13 +13,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions是以Web為基礎的應用程式，可透過 [Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 有時稱為「Marketo銷售」，或簡稱為「動作」。
+>Marketo Sales Insight Actions是網頁型應用程式，可透過 [Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 有時稱為「Marketo銷售」，或簡稱為「動作」。
 
-如果您有Marketo沙箱，您可以啟用動作例項來搭配沙箱用於測試目的。
+如果您有Marketo沙箱，您可以啟用動作執行個體來搭配沙箱用於測試目的。
 
-設定Actions執行個體時，您必須決定將其設定為與Salesforce沙箱一起使用還是Salesforce生產搭配使用。 這是因為Salesforce對每個使用不同的端點，而Actions會使用與Salesforce的連線來啟動和驗證使用者。
+設定Actions例項時，您必須決定其將設定為與Salesforce沙箱或Salesforce生產搭配使用。 這是因為Salesforce對每個使用不同的端點，而Actions會使用與Salesforce的連線來啟動和驗證使用者。
 
-請依照下列步驟操作，將Actions執行個體設定為與您的Salesforce沙箱執行個體搭配使用。
+請依照下列步驟，將Actions執行個體設定為與您的Salesforce沙箱執行個體搭配使用。
 
 >[!NOTE]
 >
@@ -26,15 +27,15 @@ ht-degree: 0%
 
 ## 要求將動作執行個體布建至您的Marketo沙箱 {#request=an-actions-instance}
 
-除非有所要求，否則系統不會為Marketo沙箱執行個體啟用銷售分析動作。 聯絡Adobe客戶團隊（您的客戶經理）以提交請求。
+除非有所要求，否則系統不會為Marketo沙箱例項啟用銷售分析動作。 聯絡Adobe客戶團隊（您的客戶經理）以提交請求。
 
-## 為Marketo沙箱布建動作帳戶 {#provision-your-actions-account}
+## 針對Marketo沙箱布建您的動作帳戶 {#provision-your-actions-account}
 
-為您的Marketo沙箱啟用動作後，您將需要遵循以下步驟來啟用新的執行個體。
+在為Marketo沙箱啟用動作後，您需要依照下列步驟啟用新執行個體。
 
 1. 登入您的Marketo沙箱執行個體。
 
-1. 導覽至 **管理員**.
+1. 瀏覽至 **管理員**.
 
 1. 選取 **銷售分析**.
 
@@ -42,33 +43,33 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >電子郵件地址只能用於跨沙箱和生產執行個體的一個Actions執行個體。 如果您是管理員，且需要存取生產環境與沙箱中的多個執行個體，則必須針對每個執行個體使用不同的電子郵件地址。
+   >電子郵件地址只能用於沙箱和生產執行個體中的一個動作執行個體。 如果您是管理員，且需要存取生產環境與沙箱中的多個執行個體，則必須針對每個執行個體使用不同的電子郵件地址。
 
-1. 在布建卡中，選取您要邀請加入您的Sales Insight Actions執行個體的使用者。
+1. 在布建卡片中，選取您要邀請加入銷售分析動作執行個體的使用者。
 
 ## 啟動您的動作執行個體 {#activate-your-actions-instance}
 
-您的Actions執行個體需要以Salesforce生產帳戶啟動。 啟動後，可切換至Salesforce Sandbox帳戶。
+您的Actions執行個體需要以Salesforce生產帳戶啟動。 啟用後，可切換至Salesforce沙箱帳戶。
 
-1. 找到已傳送的邀請。
+1. 找出已傳送的邀請。
 
 1. 按一下 **開始使用** 連結。
 
-1. 使用您的Salesforce生產執行個體啟動。
+1. 使用您的Salesforce Production例項啟動。
 
 1. 按照提示來設定帳戶。 如需詳細概觀，請檢視我們的 [使用者入門文章](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}.
 
-## 準備您的Actions執行個體以與您的Salesforce沙箱執行個體相容 {#prepare-your-actions-instance}
+## 準備您的Actions執行個體以和您的Salesforce沙箱執行個體相容 {#prepare-your-actions-instance}
 
-動作需要您先使用Salesforce生產使用者啟動新執行個體。 啟動後，您可以使用以下步驟準備您的執行個體以與Salesforce沙箱相容。
+動作需要您先以Salesforce生產使用者啟動新執行個體。 啟動後，您可以使用以下步驟準備您的執行個體以與Salesforce沙箱相容。
 
-1. 將登入設定更新為「所有登入方法」，以便您可以視需要使用使用者名稱和密碼登入。 若偏好使用，可在完成所有設定後，切換回「僅限Salesforce」。 [在這裡瞭解如何執行此操作](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
+1. 將登入設定更新為「所有登入方法」，以便您可以視需要使用使用者名稱和密碼登入。 如果偏好設定，可在完成所有設定後切換回「僅限Salesforce」。 [在這裡瞭解如何執行此操作](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
 
-1. 中斷與Salesforce Production的連線，並連線至您的Salesforce沙箱。 [在此處瞭解如何連線](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}. 對於步驟3，請選取「沙箱」而不是「Salesforce」。 如果您已經連線，應該會在Salesforce的「連線和自訂」標籤上看到中斷連線的選項。
+1. 中斷與Salesforce Production的連線，並連線至您的Salesforce沙箱。 [在此處檢視如何連線](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}. 對於步驟3，請選取「沙箱」而非「Salesforce」。 如果您已經連線，您應該會在Salesforce的「連線和自訂」標籤上看到要中斷連線的選項。
 
 >[!NOTE]
 >
->如果您的Salesforce執行個體有自訂網域，建議在連線至Salesforce或登入Actions之前先登入您的Salesforce執行個體。
+>如果您的Salesforce執行個體有自訂網域，建議在連線至Salesforce或登入Actions之前，先登入您的Salesforce執行個體。
 
 ## 請求將您的Actions執行個體轉換為與您的Salesforce沙箱相容 {#request-your-actions-instance-be-converted}
 
@@ -80,7 +81,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您在此時發生任何問題，可以要求重設密碼，並使用密碼重新取得帳戶的存取權。
+   >如果您在此遇到任何問題，可以要求重設密碼，並使用密碼重新取得帳戶的存取權。
 
 現在您的執行個體已準備好與您的Salesforce沙箱執行個體搭配使用。 如果您想要使用 [Salesforce自動登入](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"} from Salesforce, you can switch back to "Salesforce Only" in your [Login Management settings](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
 

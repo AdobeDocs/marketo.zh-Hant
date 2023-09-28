@@ -2,7 +2,8 @@
 description: 會議清單 — Marketo檔案 — 產品檔案
 title: 會議清單
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: fc0880b2-2187-40d9-ac0e-aa1af8ccf3ee
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%

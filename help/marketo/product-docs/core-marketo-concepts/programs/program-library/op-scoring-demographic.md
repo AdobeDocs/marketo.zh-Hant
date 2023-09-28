@@ -2,7 +2,8 @@
 description: OP-Scoring-Geroptical - Marketo檔案 — 產品檔案
 title: OP評分人口統計
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: c0e69f35-a3b7-496d-a9b6-b3e7168b07f4
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 16%

@@ -2,7 +2,8 @@
 description: 快速入門電子郵件範本 — Marketo檔案 — 產品檔案
 title: 快速入門電子郵件範本
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: cf4c3be9-a71f-4b75-b262-67bd788e0a67
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 0%

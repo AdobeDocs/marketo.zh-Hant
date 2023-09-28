@@ -1,7 +1,8 @@
 ---
 description: 發行說明 — 2023年5月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2023年5月
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+exl-id: e647fefc-e4f1-46e5-b688-887989f5feea
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 1%
@@ -10,11 +11,11 @@ ht-degree: 1%
 
 # 發行說明： 2023年5月 {#release-notes-may-23}
 
-下方提供2023年5月發行版本包含的所有功能。 檢視您的Adobe Marketo Engage版本，瞭解是否有功能可用。
+以下是2023年5月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
 
 >[!AVAILABILITY]
 >
->以星號(![星號](assets/yellow-star.png))為付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
+>以星號(![星形](assets/yellow-star.png))為付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
@@ -24,7 +25,7 @@ ht-degree: 1%
 
 </br>
 
-* **Adobe Experience Cloud介面**：使Marketo Engage與Experience Cloud一致，在單一使用者工作階段中跨多個Experience Cloud解決方案建立一致的導覽體驗。
+* **Adobe Experience Cloud介面**：讓Marketo Engage與Experience Cloud保持一致，以便在單一使用者工作階段中跨多個Experience Cloud解決方案建立一致的導覽體驗。
 
 <table> 
   <tr> 
@@ -38,7 +39,7 @@ ht-degree: 1%
   </tbody>
 </table>
 
-* **Marketo Engage說明中心**：說明中心為Marketo Engage使用者提供可在產品內尋找說明資源的中心位置。 此外，「說明中心」讓使用者能夠啟用產品內指南，以說明如何運用重要功能。
+* **Marketo Engage說明中心**：說明中心為Marketo Engage使用者提供可在產品中尋找說明資源的中心位置。 此外，說明中心讓使用者能夠啟用產品內指南，以說明如何利用關鍵功能。
 
 <table> 
   <tr> 
@@ -54,17 +55,17 @@ ht-degree: 1%
 
 ## 敏捷發行功能
 
-下列功能遵循敏捷格式，並在標準發行日期之前或之後的各種日期發行。 請檢視每個功能下方的狀態。
+以下功能遵循敏捷格式，並在標準發行日期之前或之後的各種日期發行。 請檢視每個功能下方的狀態。
 
-### 跨頻道協調 {#cross-channel-orchestration}
+### 跨通道協調 {#cross-channel-orchestration}
 
 </br>
 
-* **互動式網路研討會（初期提供有限）**：
+* **互動式網路研討會（開始時提供有限）**：
 
-互動式網路研討會為行銷人員提供原生且順暢的體驗，以便在Marketo Engage中建立、管理和傳遞活動，藉以強化現有的活動和網路研討會體驗。 根據活動型別自訂網路研討會，甚至可視需要新增主持人。 透過Adobe Connect功能（例如即時投票、聊天、問答研討會、網頁連結點選、檔案下載等）取得豐富的參與深入分析。 直接在Marketo Engage中擷取網路研討會影片，並透過豐富的儀表板量度評估其成效。
+互動式網路研討會為行銷人員在Marketo Engage中建立、管理和提供活動的原生且順暢體驗，進一步強化現有的活動和網路研討會體驗。 根據活動型別自訂網路研討會，甚至可視需要新增主持人。 透過Adobe Connect功能取得豐富的參與深入分析，例如即時投票、聊天、Q&amp;A工作階段、網頁連結點選、檔案下載等。 直接在Marketo Engage中擷取網路研討會影片，並透過豐富的儀表板量度評估其成效。
 
-互動式網路研討會將逐步推出。 若要要求更早的存取權，請填寫 [此表單](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+互動式網路研討會將逐步推出。 若要要求提早存取，請填寫 [此表單](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 
@@ -72,7 +73,7 @@ ht-degree: 1%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td>轉出已開始</td>
+   <td>開始推出</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">互動式網路研討會概觀</a></td>
   </tr>
   </tbody>
@@ -80,4 +81,4 @@ ht-degree: 1%
 
 ## 公告 {#announcements}
 
-* **_產品發行網路研討會_**： [2023年3月和5月Marketo Engage發行網路研討會](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_產品發行網路研討會_**： [2023年3月和5月Marketo Engage版本網路研討會](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

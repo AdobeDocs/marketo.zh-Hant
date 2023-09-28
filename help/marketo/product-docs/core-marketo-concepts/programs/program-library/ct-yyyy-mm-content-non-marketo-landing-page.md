@@ -2,7 +2,8 @@
 description: CT-YYYY-MM-Content非Marketo登陸頁面 — Marketo檔案 — 產品檔案
 title: CT-YYYY-MM-Content非Marketo登陸頁面
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 22b53312-ac62-4172-a719-c98fe1547d45
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 3%

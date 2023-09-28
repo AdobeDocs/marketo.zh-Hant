@@ -2,7 +2,8 @@
 description: 代理程式收件匣 — Marketo檔案 — 產品檔案
 title: 專員收件匣
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: 656f8716-d982-4c02-8311-17add0fcd924
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 1%
