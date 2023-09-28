@@ -3,7 +3,7 @@ description: 預設動態欄位對應 — Marketo檔案 — 產品檔案
 title: 預設動態欄位對應
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '829'
 ht-degree: 18%
@@ -579,8 +579,8 @@ ht-degree: 18%
     </tr>
     <tr>
       <td>公司</td>
-      <td>名稱</td>
       <td>帳戶名稱</td>
+      <td>名稱</td>
     </tr>
     <tr>
       <td>員工人數</td>

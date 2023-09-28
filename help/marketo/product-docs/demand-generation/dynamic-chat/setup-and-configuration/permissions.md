@@ -3,7 +3,7 @@ description: 許可權 — Marketo檔案 — 產品檔案
 title: 權限
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 4%
@@ -67,7 +67,6 @@ ht-degree: 4%
    ![](assets/permissions-11.png)
 
 1. 現在請依照以下說明中的步驟3-6： [上一節](#edit-existing-permissions) 用於每個所需區域。
-
 
 ## 許可權清單 {#list-of-permissions}
 
