@@ -3,7 +3,7 @@ description: 許可權 — Marketo檔案 — 產品檔案
 title: 權限
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
+source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 8%
@@ -75,7 +75,7 @@ ht-degree: 8%
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Dynamic Chat區域</th>
+    <th style="width:25%">Dynamic Chat區域</th>
     <th>權限</th>
   </tr>
 </thead>
@@ -140,7 +140,7 @@ ht-degree: 8%
 <table>
 <thead>
   <tr>
-    <th style="width:30%">個人檔案</th>
+    <th style="width:25%">個人檔案</th>
     <th>預設許可權</th>
   </tr>
 </thead>
@@ -154,22 +154,22 @@ ht-degree: 8%
     <li>檢視對話流程</li>
     <li>管理對話流程（建立、刪除）</li>
     <li>發佈交談流程</li>
-    <p>
+    <br/>
+    <br/>
     <i>即時聊天</i>
     <li>不適用</li>
-    <p>
+    <br>
     <br/><i>會議</i>
     <li>不適用</li>
-    <p>
-    <br/><i>Analytics</i>
+    <br>
+    <br><i>Analytics</i>
     <li>檢視全域效能報表</li>
     <li>檢視即時聊天報告</li>
     <li>檢視會議報告</li>
-    <p>
-    <br/><i>專員設定</i>
+    <br>
+    <br><i>專員設定</i>
     <li>不適用</li>
-    <p>
-    <br/><i>管理員設定</i>
+    <br><i>管理員設定</i>
     <li>檢視循環配置資源</li>
     <li>檢視自訂規則</li>
     <li>檢視帳戶清單 <b>*</b></li>
