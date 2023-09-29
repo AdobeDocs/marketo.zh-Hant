@@ -3,7 +3,7 @@ description: 許可權 — Marketo檔案 — 產品檔案
 title: 權限
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 2dab494bd897bf1030b8c2253831e7626dfe6e67
+source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 8%
@@ -148,7 +148,6 @@ ht-degree: 8%
   <tr>
     <td>行銷使用者</td>
     <td><i>交談管理</i>
-    <p>
     <li>檢視對話方塊</li>
     <li>管理對話方塊（建立、刪除）</li>
     <li>發佈對話方塊</li>
@@ -156,21 +155,21 @@ ht-degree: 8%
     <li>管理對話流程（建立、刪除）</li>
     <li>發佈交談流程</li>
     <p>
-    <p><i>即時聊天</i></p>
+    <i>即時聊天</i>
     <li>不適用</li>
     <p>
-    <p><i>會議</i></p>
+    <br/><i>會議</i>
     <li>不適用</li>
     <p>
-    <p><i>Analytics</i></p>
+    <br/><i>Analytics</i>
     <li>檢視全域效能報表</li>
     <li>檢視即時聊天報告</li>
     <li>檢視會議報告</li>
     <p>
-    <p><i>專員設定</i></p>
+    <br/><i>專員設定</i>
     <li>不適用</li>
     <p>
-    <p><i>管理員設定</i></p>
+    <br/><i>管理員設定</i>
     <li>檢視循環配置資源</li>
     <li>檢視自訂規則</li>
     <li>檢視帳戶清單 <b>*</b></li>
