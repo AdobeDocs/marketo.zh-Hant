@@ -3,7 +3,7 @@ description: 許可權 — Marketo檔案 — 產品檔案
 title: 權限
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
+source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 8%
@@ -154,22 +154,22 @@ ht-degree: 8%
     <li>檢視對話流程</li>
     <li>管理對話流程（建立、刪除）</li>
     <li>發佈交談流程</li>
-    <br/>
-    <br/>
+    <br>
     <i>即時聊天</i>
     <li>不適用</li>
     <br>
-    <br/><i>會議</i>
+    <i>會議</i>
     <li>不適用</li>
     <br>
-    <br><i>Analytics</i>
+    <i>Analytics</i>
     <li>檢視全域效能報表</li>
     <li>檢視即時聊天報告</li>
     <li>檢視會議報告</li>
     <br>
-    <br><i>專員設定</i>
+    <i>專員設定</i>
     <li>不適用</li>
-    <br><i>管理員設定</i>
+    <br>
+    <i>管理員設定</i>
     <li>檢視循環配置資源</li>
     <li>檢視自訂規則</li>
     <li>檢視帳戶清單 <b>*</b></li>
@@ -179,27 +179,26 @@ ht-degree: 8%
   <tr>
     <td><b>即時代理程式</b></td>
     <td><i>交談管理</i>
-    <p>
     <li>檢視對話方塊</li>
     <li>檢視對話流程</li>
-    <p>
-    <p><i>即時聊天</i></p>
+    <br>
+    <i>即時聊天</i>
     <li>檢視我的交談</li>
-    <p>
-    <p><i>會議</i></p>
+    <br>
+    <i>會議</i>
     <li>不適用</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>檢視全域效能報表</li>
     <li>檢視即時聊天報告</li>
     <li>檢視會議報告</li>
-    <p>
-    <p><i>專員設定</i></p>
+    <br>
+    <i>專員設定</i>
     <li>管理即時聊天可用性</li>
     <li>連線您的行事曆</li>
     <li>管理行事曆可用性</li>
-    <p>
-    <p><i>管理員設定</i></p>
+    <br>
+    <i>管理員設定</i>
     <li>檢視循環配置資源</li>
     <li>檢視自訂規則</li>
     <li>檢視帳戶清單 <b>*</b></li>
@@ -209,26 +208,25 @@ ht-degree: 8%
   <tr>
     <td><b>行事曆代理程式</b></td>
     <td><i>交談管理</i>
-    <p>
     <li>檢視對話方塊</li>
     <li>檢視對話流程</li>
-    <p>
-    <p><i>即時聊天</i></p>
+    <br>
+    <i>即時聊天</i>
     <li>不適用</li>
-    <p>
-    <p><i>會議</i></p>
+    <br>
+    <i>會議</i>
     <li>不適用</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>檢視全域效能報表</li>
     <li>檢視即時聊天報告</li>
     <li>檢視會議報告</li>
-    <p>
-    <p><i>專員設定</i></p>
+    <br>
+    <i>專員設定</i>
     <li>連線您的行事曆</li>
     <li>管理行事曆可用性</li>
-    <p>
-    <p><i>管理員設定</i></p>
+    <br>
+    <i>管理員設定</i>
     <li>檢視循環配置資源</li>
     <li>檢視自訂規則</li>
     <li>檢視帳戶清單 <b>*</b></li>
@@ -238,30 +236,29 @@ ht-degree: 8%
   <tr>
     <td><b>行銷管理員</b></td>
     <td><i>交談管理</i>
-    <p>
     <li>檢視對話方塊</li>
     <li>管理對話方塊（建立、刪除）</li>
     <li>發佈對話方塊</li>
     <li>檢視對話流程</li>
     <li>管理對話流程（建立、刪除）</li>
     <li>發佈交談流程</li>
-    <p>
-    <p><i>即時聊天</i></p>
+    <br>
+    <i>即時聊天</i>
     <li>不適用</li>
-    <p>
-    <p><i>會議</i></p>
+    <br>
+    <i>會議</i>
     <li>不適用</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>檢視全域效能報表</li>
     <li>檢視即時聊天報告</li>
     <li>檢視會議報告</li>
     <li>匯出報告</li>
-    <p>
-    <p><i>專員設定</i></p>
+    <br>
+    <i>專員設定</i>
     <li>不適用</li>
-    <p>
-    <p><i>管理員設定</i></p>
+    <br>
+    <i>管理員設定</i>
     <li>檢視循環配置資源</li>
     <li>檢視自訂規則</li>
     <li>管理自訂規則（新增、編輯、刪除）</li>
@@ -277,29 +274,28 @@ ht-degree: 8%
   <tr>
     <td><b>銷售管理員</b></td>
     <td><i>交談管理</i>
-    <p>
     <li>檢視對話方塊</li>
     <li>檢視對話流程</li>
-    <p>
-    <p><i>即時聊天</i></p>
+    <br>
+    <i>即時聊天</i>
     <li>檢視我的交談</li>
     <li>檢視所有交談</li>
-    <p>
-    <p><i>會議</i></p>
+    <br>
+    <i>會議</i>
     <li>管理所有會議</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>檢視全域效能報表</li>
     <li>檢視即時聊天報告</li>
     <li>檢視會議報告</li>
     <li>匯出報告</li>
-    <p>
-    <p><i>專員設定</i></p>
+    <br>
+    <i>專員設定</i>
     <li>管理即時聊天可用性</li>
     <li>連線您的行事曆</li>
     <li>管理行事曆可用性</li>
-    <p>
-    <p><i>管理員設定</i></p>
+    <br>
+    <i>管理員設定</i>
     <li>檢視循環配置資源</li>
     <li>檢視自訂規則</li>
     <li>管理自訂規則（新增、編輯、刪除）</li>
