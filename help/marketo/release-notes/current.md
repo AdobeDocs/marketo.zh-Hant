@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6440f43ab77e32038964bf8272f350bd28474eec
+source-git-commit: 215f32a43715b0e2d3794890e245675265748f09
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '337'
 ht-degree: 2%
 
 ---
@@ -64,4 +64,4 @@ ht-degree: 2%
 
 * **Marketo EngageForms jQuery 1.x**：在2024年1月版本中，我們將將FormsMarketo Engage的jQuery更新為jQuery 3.x。這可能會影響依賴舊版jQuery的自訂表單實施。
 
-* **不再使用Marketo事件和Marketo時刻**：Adobe將從2023年10月2日起從所有應用程式商店移除Marketo事件和Marketo時刻。 現有使用者 — 您可以繼續使用這些應用程式，直到您將您的Marketo Engage執行個體移轉至Adobe身分識別為止。 這些應用程式不支援使用Adobe ID登入。
+* **不再使用Marketo事件和Marketo時刻**：Adobe為 [移除Marketo事件和Marketo時刻](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"} 自2023年10月2日起從所有應用程式商店購買。 現有使用者 — 您可以繼續使用這些應用程式，直到您將您的Marketo Engage執行個體移轉至Adobe身分識別為止。 這些應用程式不支援使用Adobe ID登入。
