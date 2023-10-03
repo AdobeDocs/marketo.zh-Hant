@@ -4,7 +4,7 @@ description: 設定iPad或Android平板電腦 — Marketo檔案 — 產品檔案
 title: 設定iPad或Android平板電腦
 exl-id: ccfd48dc-ca8d-442f-87fd-f16b34d1a76c
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -31,11 +31,11 @@ ht-degree: 0%
 
 1. 開啟iPad並啟動App Store。
 
-   ![](assets/image2016-4-14-15-3a52-3a19.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-1.png)
 
 1. 在搜尋方塊中，輸入 **Marketo** 在「建議」中，點選 **marketo活動**.
 
-   ![](assets/image2016-4-14-16-3a0-3a3.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-2.png)
 
 1. 請依照程式在iPad上下載並安裝應用程式。
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 1. 在搜尋方塊中，輸入 **Marketo** 然後點選 **傳回**.
 1. 在搜尋結果中，點選 **Marketo事件** 應用程式。
 
-   ![](assets/image2016-4-15-14-3a42-3a11.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-3.png)
 
 1. 請依照程式下載應用程式並安裝在您的平板電腦上。
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 1. 請依照iPad或Tablet的登入程式登入。
 1. 確認您的事件出現在首頁畫面上。 請記住，它的日期只有在目前日期之前一週內和之後一週內才會出現。
 
-   ![](assets/image2016-4-15-15-3a29-3a0.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-4.png)
 
    >[!NOTE]
    >
@@ -73,11 +73,11 @@ ht-degree: 0%
 
    **iPad**
 
-   ![](assets/image2016-4-12-14-3a25-3a13.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-5.png)
 
    **Android**
 
-   ![](assets/screenshot-2016-04-15-14-14-08-sync-button.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-6.png)
 
 ## 確認簽入運作中 {#confirm-check-ins-are-working}
 
@@ -87,11 +87,11 @@ ht-degree: 0%
 1. 點選 **同步** 圖示來同步應用程式。
 1. 在Marketo中，開啟您的活動並按一下 **成員**.
 
-   ![](assets/image2016-4-15-15-3a32-3a42.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-7.png)
 
 1. 確認人員的狀態已變更為 **已出席** 且會勾選「成功」。
 
-   ![](assets/image2016-4-18-14-3a11-3a36.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-8.png)
 
    >[!TIP]
    >
