@@ -4,9 +4,9 @@ description: 瞭解電子郵件程式卡 — Marketo檔案 — 產品檔案
 title: 瞭解電子郵件計畫卡片
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 瞭解電子郵件計畫卡片 {#understanding-email-program-cards}
 
 使用Marketo時刻，從您的手機或iPad檢視您的電子郵件程式。
+
+>[!IMPORTANT]
+>
+>在2023年10月2日，Adobe已從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入了解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## 以電子郵件傳送計畫卡片 {#email-program-cards}
 

@@ -4,16 +4,20 @@ description: 個人化Marketo時刻 — Marketo檔案 — 產品檔案
 title: 個人化Marketo時刻
 exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 1%
 
 ---
 
 # 個人化Marketo時刻 {#personalizing-marketo-moments}
 
 當您有許多行銷計畫和智慧行銷活動進行時，很高興能看到所有內容，但您可能只想要專注於自己的工作。
+
+>[!IMPORTANT]
+>
+>在2023年10月2日，Adobe已從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入了解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 啟用 **僅顯示我的時刻** 以僅顯示您自己的電子郵件程式和智慧型行銷活動。
 

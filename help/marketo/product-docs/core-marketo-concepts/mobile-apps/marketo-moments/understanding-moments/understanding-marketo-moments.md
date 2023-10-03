@@ -4,9 +4,9 @@ description: 瞭解Marketo時刻 — Marketo檔案 — 產品檔案
 title: 瞭解Marketo時刻
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '612'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Marketo的強大功能已唾手可得！ 直接從您的手機或iPad預覽和重新排程電子郵件。
 
+>[!IMPORTANT]
+>
+>在2023年10月2日，Adobe已從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入了解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 >[!NOTE]
 >
->需要存取行動應用程式許可權。 請聯絡您的Marketo管理員，以 [更新您的角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
-
->[!AVAILABILITY]
->
->此應用程式與不相容 [Adobe身分驗證](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} 此時。
+>_存取行動應用程式_ 需要許可權。 請聯絡您的Marketo管理員，以 [更新您的角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## 串流 {#streams}
 
@@ -118,7 +118,7 @@ Marketo時刻提供您三種不同的卡片，可追蹤電子郵件的進度：
 
 ## Analytics卡 {#analytics-cards}
 
-Analytics時刻卡片會向您顯示過去六個月每個月的電子郵件和事件執行狀況，例如：
+Analytics時刻卡片會向您顯示過去六個月每月電子郵件和事件的執行方式，例如：
 
 1. 已取得的銷售機會
 1. 新銷售機會

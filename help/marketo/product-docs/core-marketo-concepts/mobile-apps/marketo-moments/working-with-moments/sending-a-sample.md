@@ -4,16 +4,20 @@ description: 傳送範例 — Marketo檔案 — 產品檔案
 title: 傳送範例
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 1%
 
 ---
 
 # 傳送範例 {#sending-a-sample}
 
 您可以直接與他人分享電子郵件時刻的範例。 有兩種方法可以做到這一點。
+
+>[!IMPORTANT]
+>
+>在2023年10月2日，Adobe已從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入了解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## 一般方式 {#the-regular-way}
 

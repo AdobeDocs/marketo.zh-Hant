@@ -4,9 +4,9 @@ description: 瞭解Analytics卡片 — Marketo檔案 — 產品檔案
 title: 瞭解Analytics卡片
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 瞭解Analytics卡片 {#understanding-analytics-cards}
 
 每個月初，Marketo時刻提供三種不同的報表卡片：已取得的銷售機會、新的銷售機會和取消訂閱。 每個報表會顯示六個月的每月績效和趨勢。
+
+>[!IMPORTANT]
+>
+>在2023年10月2日，Adobe已從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入了解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Analytics卡 {#analytics-cards}
 

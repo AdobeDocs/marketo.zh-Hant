@@ -3,18 +3,18 @@ description: 事件簽入總覽
 title: 事件簽入總覽
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
 # 事件簽入總覽 {#event-check-in-overview}
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
->此應用程式與不相容 [Adobe身分驗證](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} 此時。
+>2023年10月2日，Adobe從所有應用程式商店移除Marketo事件應用程式。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入了解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}. [Learn more](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 適用於iPad或Android平板電腦的Marketo Events應用程式可讓您在人員到達您的活動時，輕鬆立即為他們辦理登入手續。
 

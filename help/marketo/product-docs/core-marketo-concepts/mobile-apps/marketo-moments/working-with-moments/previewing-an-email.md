@@ -4,16 +4,20 @@ description: 預覽電子郵件 — Marketo檔案 — 產品檔案
 title: 預覽電子郵件
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 1%
 
 ---
 
 # 預覽電子郵件 {#previewing-an-email}
 
 在扣動觸發程式之前，以滑鼠右鍵按一下電子郵件卡片以預覽。
+
+>[!IMPORTANT]
+>
+>在2023年10月2日，Adobe已從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入了解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 1. 在電子郵件卡片上，點選三點動作功能表。
 

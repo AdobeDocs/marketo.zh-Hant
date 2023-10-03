@@ -4,16 +4,20 @@ description: 瞭解智慧行銷活動資訊卡 — Marketo檔案 — 產品檔�
 title: 瞭解Smart Campaign資訊卡
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
 
 # 瞭解Smart Campaign資訊卡 {#understanding-smart-campaign-cards}
 
-使用Marketo時刻從您的智慧型手機或iPad檢視您的每輪智慧型行銷活動。 Marketo時刻智慧行銷活動卡表示行銷活動的一次執行；每次智慧行銷活動執行時都會顯示新卡。 智慧行銷活動卡在左上角標有燈泡。
+使用Marketo時刻檢視從您的智慧型手機或iPad執行的每次Smart Campaigns。 Marketo時刻智慧行銷活動卡表示行銷活動的一次執行；每次智慧行銷活動執行時都會顯示新卡。 Smart Campaign卡在左上角標有燈泡。
+
+>[!IMPORTANT]
+>
+>在2023年10月2日，Adobe已從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入了解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 對於已排程但尚未執行的未來智慧行銷活動， Marketo時刻卡尚未顯示任何行銷活動統計資料。 它們將顯示在未來的版本中。
 
@@ -51,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. 看到底部的那兩個點了嗎？ 其表示有兩個電子郵件連線至此智慧行銷活動。 若要檢視其他電子郵件的結果，請將畫面向左撥動。 以下是第二封電子郵件的結果。
+1. 看到底部的那兩個點了嗎？ 其表示有兩個電子郵件連線至此Smart Campaign。 若要檢視其他電子郵件的結果，請將畫面向左撥動。 以下是第二封電子郵件的結果。
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
@@ -73,9 +77,9 @@ ht-degree: 0%
 
 ## 確認智慧型行銷活動執行 {#confirming-a-smart-campaign-run}
 
-未確認的智慧行銷活動的卡片是灰色的，直到您確認為止。 然後，它們會變成橙色。
+未確認的「智慧行銷活動」卡片會呈現灰色，直到您確認為止。 然後，它們會變成橙色。
 
-1. 若要確認未確認的智慧行銷活動資訊卡，請點選三點動作功能表。
+1. 若要確認未確認的Smart Campaign卡片，請點選三點動作功能表。
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
@@ -93,7 +97,7 @@ ht-degree: 0%
 
 ## 取消Smart Campaign執行 {#canceling-a-smart-campaign-run}
 
-您可以取消已確認、已排程的智慧型行銷活動執行。
+您可以取消已確認、已排程的Smart Campaign執行。
 
 1. 點選三點動作功能表。
 
@@ -103,13 +107,13 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. 點選 **取消執行**. 如果您在最後一分鐘決定不取消執行，請點選 **沒關係**，而smart campaign會依排程執行。
+1. 點選 **取消執行**. 如果您在最後一分鐘決定不取消執行，請點選 **沒關係**，而Smart Campaign會依排程執行。
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
 ## 重新排程智慧型行銷活動 {#rescheduling-a-smart-campaign}
 
-您可以重新排程尚未執行的已確認智慧型行銷活動。
+您可以重新排程尚未執行的已確認Smart Campaign。
 
 1. 點選三點動作功能表。
 
