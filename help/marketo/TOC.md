@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
+source-git-commit: 6746f49d4ea4a19e2d1e99d3ddda34bb4ac6d2d6
 workflow-type: tm+mt
-source-wordcount: '9104'
+source-wordcount: '9101'
 ht-degree: 1%
 
 ---
@@ -490,7 +490,6 @@ ht-degree: 1%
                + [瞭解Smart Campaign資訊卡](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
             + 使用時刻 {#working-with-moments}
                + [建立我的最愛](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-               + [正在下載Marketo時刻](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/downloading-marketo-moments.md)
                + [將其標籤為完成](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
                + [個人化Marketo時刻](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/personalizing-marketo-moments.md)
                + [預覽電子郵件](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)
