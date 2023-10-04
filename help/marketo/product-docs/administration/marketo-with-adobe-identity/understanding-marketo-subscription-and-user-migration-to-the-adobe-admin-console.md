@@ -3,9 +3,9 @@ description: 瞭解Marketo訂閱和使用者移轉至Adobe Admin Console - Marke
 title: 瞭解Marketo訂閱和使用者移轉至Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: c3214b440a1bfc9d54551f50e364935d66286764
+source-git-commit: c871be92ce61c37e9a8d198c1b3bae6588f6a94f
 workflow-type: tm+mt
-source-wordcount: '1121'
+source-wordcount: '1172'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Adobe可強化您管理Adobe Marketo Engage訂閱和使用者的方式，為您和您的組織帶來更高的生產力。 作為此變更的一部分，Adobe正在將您的Marketo Engage訂閱和使用者移轉至Adobe Admin Console。 這是必要的移轉，不會影響任何行銷工作流程、內容、整合或資產。
 
-瞭解如何使用Adobe Admin Console透過管理整個組織的Adobe權益 [企業和團隊管理指南](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}.
+瞭解如何使用Adobe Admin Console透過管理整個組織的Adobe權益 [企業和團隊管理指南](https://helpx.adobe.com/tw/enterprise/admin-guide.html){target="_blank"}.
 
 ## 有什麼改變？ {#what-is-changing}
 
@@ -67,13 +67,17 @@ Marketo產品管理員將：
 
 身為Marketo產品管理員，建議您確保所有使用者準備好進行移轉日作業。
 
-* 在Marketo管理區域中檢視所有使用者的電子郵件驗證狀態。 鼓勵尚未驗證電子郵件地址的使用者進行驗證，並幫助使用者解決完成驗證流程時遇到的任何挑戰。
+* 檢查 [電子郵件驗證](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"} Marketo管理區域中所有使用者的狀態。 鼓勵尚未驗證電子郵件地址的使用者進行驗證，並幫助使用者解決完成驗證流程時遇到的任何挑戰。
 
 * 為所有使用者準備即將移轉至Adobe身分識別。
 
 >[!NOTE]
 >
 >當使用者移轉時，他們會收到Adobe的電子郵件，通知他們登入Marketo的方式已變更。 使用者將獲邀接受邀請，以使用Adobe身分識別首次登入，方法為使用現有Adobe ID登入，或使用相同的電子郵件地址設定新帳戶。
+
+>[!IMPORTANT]
+>
+>如果Marketo Engage使用者未驗證其電子郵件地址，則不會移轉至Adobe ID，而且會在移轉訂閱完成後無法存取Marketo訂閱。 若要重新取得存取權，Marketo產品管理員需要將使用者新增為新使用者。
 
 ### 移轉當天的期望 {#what-to-expect-on-migration-day}
 
@@ -89,7 +93,7 @@ Marketo產品管理員將：
 >
 >使用者移轉期間，不會失去對產品的存取權。 如果使用者在其使用者移轉期間登入，則會在移轉完成後在幾分鐘內，使用Adobe身分識別提示使用者重新登入。
 
-使用者移轉後，會收到Adobe的電子郵件，通知他們登入Marketo的方式有所變更。 使用者將獲邀接受邀請，以使用Adobe身分識別首次登入，方法為使用現有Adobe ID登入，或使用相同的電子郵件地址設定新的Adobe ID。 如需詳細資訊，請參閱我們的 [使用Adobe登入的使用者](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md) 文章。
+使用者移轉後，會收到Adobe的電子郵件，通知他們登入Marketo的方式有所變更。 使用者將獲邀接受邀請，以使用Adobe身分識別首次登入，方法為使用現有Adobe ID登入，或使用相同的電子郵件地址設定新的Adobe ID。 如需詳細資訊，請參閱我們的 [使用Adobe登入的使用者](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} 文章。
 
 ## 使用者移轉完成 {#user-migration-complete}
 
