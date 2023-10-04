@@ -3,7 +3,7 @@ description: 圖示字彙表 — Marketo檔案 — 產品檔案
 title: 圖示字彙表
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: b635cecbdca47944dd92127b668a956fdc8c9509
+source-git-commit: 3d541d6ba9944dc8b51d2dd45c1f5a2eba35e938
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 20%
@@ -99,7 +99,7 @@ ht-degree: 20%
    <td>資料夾 — 已封存</td> 
   </tr>
   <tr>
-   <td><img src="assets/classic-folder-shared.png"></td> 
+   <td><img src="assets/classic-shared-folder.png"></td> 
    <td><img src="assets/folder-shared.png"></td> 
    <td>資料夾 — 共用</td> 
   </tr>
