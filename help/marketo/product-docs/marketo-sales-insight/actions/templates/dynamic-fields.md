@@ -3,9 +3,9 @@ description: 動態欄位 — Marketo檔案 — 產品檔案
 title: 動態欄位
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '559'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,7 @@ ht-degree: 0%
 * 兩者之間的差異 `{{company}}` 和 `{{company_friendly}}` 就是 `{{company_friendly}}` 會從連絡人的公司名稱中移除任何正式名稱，例如Inc.、LLC等。
 * 使用時 `{{company_friendly}}`，請務必在聯絡資料中以逗號分隔Inc.或Co. 。 這就是Sales Insight Actions在提取值時知道要移除哪些專案的方式。
 * 我們允許您使用預先定義的屬性(例如 `{{my_name}}` 或 `{{my_title}}`. 這些欄位可讓您在電子郵件範本中快速參考自己。
-* 如果您使用 `{{my_signature}}` 動態欄位，系統將不會自動附加使用者的簽名以防止重複。
+* 系統會自動將使用者的簽名附加到每封傳送的電子郵件中。 如果使用者搭配 `{{my_signature}}` 動態欄位，則系統會填入簽章，其中 `{{my_signature}}` 已放置動態欄位。 只是為了避免重複而在此新增。 系統將處理 `{{team_unsubscribe}}` 與啟用「全域附加取消訂閱」設定時相同。
 
 >[!TIP]
 >
