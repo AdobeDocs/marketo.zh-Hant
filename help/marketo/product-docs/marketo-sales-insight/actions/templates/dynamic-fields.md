@@ -3,9 +3,9 @@ description: 動態欄位 — Marketo檔案 — 產品檔案
 title: 動態欄位
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 若要這麼做，請在動態欄位標籤後新增「|」，然後新增「default：」（兩者不含引號）。 然後，如果找不到其他值，請新增您想要欄位解析到的值（用引號括住）。
 
-**範例：**
+**範例:**
 
 `{{first name | default: "loyal customer"}}`
 
@@ -54,14 +54,16 @@ ht-degree: 0%
 
 | 動態欄位 | 電子郵件中所顯示內容的範例 |
 |---|---|
-| `{{company}}` | Marketo |
-| `{{company_friendly}}` | Marketo |
+| `{{company}}` | Adobe |
+| `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | Keith |
-| `{{friendly_unsubscribe}}` | 如果您不想再收到我的消息，請在這裡通知我 |
-| `{{my_name}}` | 艾倫·布拉德利 |
+| `{{team_unsubscribe}}` | 如果您不想再收到我們的電子郵件，請按一下這裡 |
+| `{{friendly_unsubscribe}}` | 厭倦了所有的電子郵件？ 請在此通知我 |
+| `{{my_name}}` | Keith Flynn |
+| `{{my_signature}}` | Keith Flynn，資深技術撰稿人 — Adobe |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | 資深技術撰稿人 |
-| `{{work_website}}` | https://www.marketo.com |
+| `{{work_website}}` | https://www.adobe.com |
 
 **注意事項**：
 
@@ -69,6 +71,7 @@ ht-degree: 0%
 * 兩者之間的差異 `{{company}}` 和 `{{company_friendly}}` 就是 `{{company_friendly}}` 會從連絡人的公司名稱中移除任何正式名稱，例如Inc.、LLC等。
 * 使用時 `{{company_friendly}}`，請務必在聯絡資料中以逗號分隔Inc.或Co. 。 這就是Sales Insight Actions在提取值時知道要移除哪些專案的方式。
 * 我們允許您使用預先定義的屬性(例如 `{{my_name}}` 或 `{{my_title}}`. 這些欄位可讓您在電子郵件範本中快速參考自己。
+* 如果您使用 `{{my_signature}}` 動態欄位，系統將不會自動附加使用者的簽名以防止重複。
 
 >[!TIP]
 >

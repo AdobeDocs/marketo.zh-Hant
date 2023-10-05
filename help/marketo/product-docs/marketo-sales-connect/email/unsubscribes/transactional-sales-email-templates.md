@@ -1,10 +1,8 @@
 ---
 description: 異動銷售電子郵件範本 — Marketo檔案 — 產品檔案
 title: 異動銷售電子郵件範本
-hide: true
-hidefromtoc: true
 feature: Marketo Sales Connect
-source-git-commit: ee0f005bb00a7233725d788c318630af90616174
+source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
