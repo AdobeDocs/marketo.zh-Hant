@@ -4,9 +4,9 @@ description: 設定LinkedIn Lead Gen Forms - Marketo檔案 — 產品檔案
 title: 設定LinkedIn Lead Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e1254c8156557b27d066a4482076becbd03fc774
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >**需要管理員許可權**
+
+>[!NOTE]
+>
+>如果LinkedIn銷售機會符合Marketo中與使用公司API建立的公司記錄相關聯的現有個人記錄，並且Marketo訂閱未連線至CRM，則不會變成Marketo Engage。
 
 1. 前往Marketo **管理員**.
 
@@ -47,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. 您會發現現在已獲得授權。 按一下 **下一個**.
+1. 您會發現現在已獲得授權。 按一下&#x200B;**下一步**。
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 
