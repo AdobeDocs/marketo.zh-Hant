@@ -4,16 +4,16 @@ description: 隱藏和取消隱藏欄位 — Marketo檔案 — 產品檔案
 title: 隱藏和取消隱藏欄位
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 7663965cd18d52a7ad452be3076759c4be95bf98
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---
 
 # 隱藏和取消隱藏欄位 {#hide-and-unhide-a-field}
 
-如果您在Marketo中不再使用欄位，您可以在UI中隱藏該欄位，使其不再顯示在應用程式中。
+如果您在Marketo Engage中不再使用欄位，您可以在UI中隱藏該欄位，使其不再顯示在應用程式中。
 
 ## 隱藏欄位 {#hide-a-field}
 
@@ -35,7 +35,8 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >為了隱藏欄位，不得將其與任何其他資產（包括已封存資產）相關聯。 在隱藏之前，請務必從所有智慧列示、流程步驟選擇、表單、電子郵件等中移除欄位。
+   >* 為了隱藏欄位，不得將其與任何其他資產（包括已封存資產）相關聯。 在隱藏之前，請務必從所有智慧列示、流程步驟選擇、表單、電子郵件等中移除欄位。
+   >* 您無法隱藏標準（系統）欄位。
 
 1. 按一下 **[!UICONTROL 隱藏]** 以確認。
 
@@ -59,8 +60,5 @@ ht-degree: 1%
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
-   做得很好！ 現在您知道如何取消隱藏欄位，並在Marketo使用者介面中再次顯示它們。
+   做得很好！ 現在您知道如何取消隱藏欄位，並讓它們再次可見。
 
-   >[!TIP]
-   >
-   >需要執行大量隱藏/取消隱藏？ 請聯絡Marketo Professional Services： services@marketo.com。
