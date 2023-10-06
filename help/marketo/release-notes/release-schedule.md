@@ -4,10 +4,10 @@ description: 發行排程 - Marketo 文件 - 產品文件
 title: 發行排程
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 72845f270a3490f273cd833c05ad9aec0549c84c
+source-git-commit: aa7008300a32e3e6e311224ece73200add708e65
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 5%
+source-wordcount: '131'
+ht-degree: 6%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 **版本**：每個版本的年/月。 發行說明一經發佈，即會連結至下表。
 
-**發行日期**：推出通常會在發行周的星期二開始，大部分升級會在星期五晚間進行。 會傳送包含特定日期和發行詳細資訊的電子郵件。 列出的日期為星期五的更新日期。
+**發行日期**：推出通常會在發行周的週二開始，而更多升級會在星期五晚間進行。 列出的日期為星期五的更新日期。
 
 **狀態**:
 
@@ -23,7 +23,7 @@ ht-degree: 5%
 * 進行中 — 我們正在推出此版本的功能
 * 已出貨 — 發行完成
 
-_發行日期可能會有所變更_
+_發行日期/功能可能會有所變更_
 
 <table> 
  <colgroup> 
