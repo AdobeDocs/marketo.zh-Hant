@@ -3,9 +3,9 @@ description: Dynamic Chat概述 — Marketo檔案 — 產品檔案
 title: Dynamic Chat概觀
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
 workflow-type: tm+mt
-source-wordcount: '696'
+source-wordcount: '571'
 ht-degree: 1%
 
 ---
@@ -113,22 +113,4 @@ Dynamic Chat的一個重要元件，是能夠與您的Marketo訂閱原生介面�
 
 ## 常見問題集 {#faq}
 
-**我可以在公司網站上的任何地方安裝Dynamic Chat，還是只能在Marketo登陸頁面上使用？**
-
-Dynamic ChatJavaScript程式碼片段可安裝在任何網站以及Marketo登陸頁面上。
-
-**資料會儲存多久以用於報告？**
-
-90天。 如需限制/引數的完整清單，請造訪Marketo Engage [產品說明頁面](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
-
-**Dynamic Chat是否支援英語以外的任何語言？**
-
-有。Dynamic Chat支援下列語言：法文、德文、日文、西班牙文、義大利文、巴西葡萄牙文、韓文、簡體中文和繁體中文。 進一步瞭解 [變更語言](#changing-the-language).
-
-**您支援AI/NLP功能嗎？**
-
-我們不支援AI/NLP功能。
-
-**如何鎖定匿名人員？**
-
-在對話方塊中，您需要使用 _個人電子郵件是空的_ 屬性。
+請參閱 [Dynamic Chat常見問題集](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.
