@@ -3,9 +3,9 @@ description: 如何修正連線至Salesforce時「我們無法驗證您的請求
 title: 如何在連線至Salesforce時修正「我們無法驗證您的請求」
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: b09bff5fe72e5cce86ab4664e264edb181fa3e5c
+source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 如果您嘗試連線的執行個體是Salesforce沙箱網域，而您收到錯誤，您將需要執行其他步驟，將執行個體更新為可與Salesforce沙箱相容的執行個體。 [深入了解](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
 
-## 解決Oauth應用程式遭到封鎖及其他錯誤型別 {#resolve-oauth-app-blocked-and-other-error-types}
+## 解決Oauth應用程式遭到封鎖的問題 {#resolve-oauth-app-blocked}
 
 如果您收到錯誤訊息「我們無法驗證您的請求」，錯誤型別為Oauth應用程式已封鎖或URL中的其他型別，則您的存取Salesforce的API可能會受到限制。 請洽詢您的Salesforce管理員，確認是否有下列專案。
 
