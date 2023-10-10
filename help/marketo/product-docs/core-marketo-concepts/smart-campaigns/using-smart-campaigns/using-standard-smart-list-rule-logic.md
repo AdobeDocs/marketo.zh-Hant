@@ -4,7 +4,7 @@ description: 使用標準智慧清單規則邏輯 — Marketo檔案 — 產品�
 title: 使用標準智慧清單規則邏輯
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -13,28 +13,28 @@ ht-degree: 0%
 
 # 使用標準智慧清單規則邏輯 {#using-standard-smart-list-rule-logic}
 
-您在建立行銷活動智慧清單時，可能會注意到「使用篩選器」選項。 此設定可讓您決定是否需要使用AND或OR運運算元評估篩選器。
+您在建立Campaign智慧清單時，可能會注意到「使用篩選器」選項。 此設定可讓您決定是否需要使用AND或OR運運算元評估篩選器。
 
-![](assets/image2014-9-22-14-3a12-3a42.png)
+![](assets/using-standard-smart-list-rule-logic-1.png)
 
 >[!NOTE]
 >
 >變更智慧清單規則邏輯僅適用於篩選器， **非** 觸發器。
 
-系統會一律將觸發器評估為OR，即使上述設定設為ALL亦然。  範例如下：
+系統會一律將觸發器評估為OR，即使上述設定設為ALL亦然。 範例如下：
 
-![](assets/image2014-9-22-14-3a12-3a57.png)
+![](assets/using-standard-smart-list-rule-logic-2.png)
 
-上述智慧清單的字詞如下：
+上述智慧清單（以文字表示）：
 
 ```box
-IF person fills out My Form
+IF person fills out Great Form
 OR
-IF person visits My Page 
+IF person visits Keith's Landing Page 
 AND 
-Industry is Marketing 
+Industry is Energy 
 AND 
-Country is USA 
+Country is US 
 THEN follow the campaign's flow step(s)
 ```
 
