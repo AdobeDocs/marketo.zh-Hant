@@ -4,9 +4,9 @@ description: 使用通用ID進行訂閱登入 — Marketo檔案 — 產品檔案
 title: 使用通用ID進行訂閱登入
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b633a81cce39c89d63c2445fa197dbd6d7e6c57c
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -61,10 +61,10 @@ ht-degree: 0%
 
 ## 行動平台 {#mobile-platform}
 
-具有Universal ID的使用者可以從他們上次登入的訂閱中，在Marketo Ments和iPad事件簽入應用程式上檢視他們的資料。 您無法從行動平台本身變更訂閱。
+擁有通用ID的使用者可以在以下位置檢視其資料： [Marketo時刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} 他們上次登入的訂閱中的。 您無法從行動平台本身變更訂閱。
 
 >[!MORELIKETHIS]
 >
->* [新增單一登入至入口網站](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [將使用者登入限製為僅限SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [使用通用ID邀請Marketo使用者使用兩個執行個體](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [新增單一登入至入口網站](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
+>* [將使用者登入限製為僅限SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [使用通用ID邀請Marketo使用者使用兩個執行個體](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
