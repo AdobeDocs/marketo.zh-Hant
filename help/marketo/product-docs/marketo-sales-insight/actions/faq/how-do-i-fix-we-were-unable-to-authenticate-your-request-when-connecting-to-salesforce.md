@@ -3,7 +3,7 @@ description: 如何修正連線至Salesforce時「我們無法驗證您的請求
 title: 如何在連線至Salesforce時修正「我們無法驗證您的請求」
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
+source-git-commit: 0899b8cf9c97953d7212e79164d26d2f42dfeb23
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 解決Oauth應用程式遭到封鎖的問題 {#resolve-oauth-app-blocked}
 
-如果您收到錯誤訊息「我們無法驗證您的請求」，錯誤型別為Oauth應用程式已封鎖或URL中的其他型別，則您的存取Salesforce的API可能會受到限制。 請洽詢您的Salesforce管理員，確認是否有下列專案。
+如果您在URL中收到錯誤訊息「我們無法驗證您的請求」，且含有Oauth應用程式封鎖的錯誤型別（或其他型別），則您的存取Salesforce的API可能會受到限制。 請洽詢您的Salesforce管理員，確認下列專案已準備就緒。
 
 ### 在使用者許可權中啟用API {#enable-api-in-user-permissions}
 
