@@ -2,10 +2,10 @@
 description: 串流設計工具 — Marketo檔案 — 產品檔案
 title: 流程設計工具
 feature: Dynamic Chat
-exl-id: 5afc7abd-a57b-467a-9356-5332964f997c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
+source-git-commit: 40daf5e09aaf66502b1e7e8754b9a374ff0a9fa9
 workflow-type: tm+mt
-source-wordcount: '1101'
+source-wordcount: '1107'
 ht-degree: 2%
 
 ---
@@ -50,7 +50,7 @@ ht-degree: 2%
  </tr>
  <tr>
   <td><strong>動作</strong></td>
-  <td>與表單中的隱藏欄位類似，您可以使用動作卡將您要針對潛在客戶記錄擷取的隱含值填入任何潛在客戶或公司屬性。 您可以在交談的任何時間點新增動作卡，並使用自動填入個別值的值或原生權杖更新個別屬性。</td>
+  <td>類似於表單中的隱藏欄位，您可以使用動作卡填入任何潛在客戶或公司屬性(具有 <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">字串資料型別</a>)擷取隱含值。 您可以在交談的任何時間點新增動作卡，並使用自動填入個別值的值或原生權杖更新個別屬性。</td>
  </tr>
  <tr>
   <td><strong>即時聊天</strong></td>
