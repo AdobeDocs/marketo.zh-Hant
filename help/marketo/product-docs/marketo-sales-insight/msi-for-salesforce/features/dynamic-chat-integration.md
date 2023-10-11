@@ -3,9 +3,9 @@ description: Dynamic Chat整合 — Marketo檔案 — 產品檔案
 title: Dynamic Chat整合
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6e81a8891f7d6e5916549d453a694b42e08cd496
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '396'
 ht-degree: 5%
 
 ---
@@ -16,9 +16,11 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->* 您的Sales Insight SFDC套件必須是版本 [1.9或更新版本](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* 您的Sales Insight SFDC套件必須是版本 [2.4.0或更新版本](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
 >* 您必須擁有 [Dynamic Chat整合](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} 設定
+>
+>* 在您的Sales Insight中確認 [操作設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}, you have the "API Secret Key" field populated. If you don't, learn how to retrieve it [here](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
 
 ## Marketo Sales Insight設定索引標籤 {#marketo-sales-insight-configuration-tab}
 
@@ -52,7 +54,7 @@ Sales Insight使用者可以利用以下Dynamic Chat活動……
 * 排程日期（插入日期和時間戳記）
 * 狀態（已排程、已重新排程、已取消）
 
-已達成目標：當訪客達成任何對話方塊流程中的目標時，登入Marketo並填入銷售分析中。
+已達成目標：訪客在任何對話方塊流程中達成目標時登入Marketo並填入銷售分析中。
 
 * 對話名稱
 * 目標名稱
