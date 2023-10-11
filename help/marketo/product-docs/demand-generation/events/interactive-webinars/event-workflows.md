@@ -3,7 +3,7 @@ description: 事件工作流程 — Marketo檔案 — 產品檔案
 title: 事件工作流程
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
+source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 網路研討會影片 {#webinar-recording}
 
-前往「概觀」標籤檢視錄製的網路研討會、取得其連結以進行共用，甚至下載副本。
+前往「概觀」標籤檢視錄製的網路研討會、取得共用連結，甚至下載副本。
 
 ![](assets/event-workflows-2.png)
 

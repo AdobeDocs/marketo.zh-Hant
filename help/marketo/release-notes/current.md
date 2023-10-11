@@ -3,7 +3,7 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
+source-git-commit: 60f9c584b0f73b74a1a1db2c0c6b2a030e01412c
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 2%
@@ -26,8 +26,8 @@ ht-degree: 2%
  <tbody> 
   <tr> 
    <th style="width:65%">功能</th> 
-   <th style="width:15%">狀態</th>
-   <th style="width:20%">檔案</th>
+   <th style="width:10%">狀態</th>
+   <th style="width:25%">檔案</th>
   </tr> 
   <tr> 
    <td><strong>新式UX中報表設定的全新設計</strong>：設定報表資產時，您會 <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">新增資產樹狀結構</a> 以及篩選建立和修改日期的功能。</td> 
