@@ -2,9 +2,10 @@
 description: Dynamic Chat常見問題集 — Marketo檔案 — 產品檔案
 title: Dynamic Chat常見問題集
 feature: Dynamic Chat
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '780'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Dynamic ChatJavaScript程式碼片段可安裝在任何網站以及Marketo登陸
 
 **Dynamic Chat是否支援英語以外的任何語言？**
 
-有。Dynamic Chat支援下列語言：法文、德文、日文、西班牙文、義大利文、巴西葡萄牙文、韓文、簡體中文和繁體中文。 進一步瞭解 [變更語言](#changing-the-language).
+有。Dynamic Chat支援下列語言：法文、德文、日文、西班牙文、義大利文、巴西葡萄牙文、韓文、簡體中文和繁體中文。 進一步瞭解 [變更語言](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **您支援AI/NLP功能嗎？**
 
@@ -80,6 +81,10 @@ Dynamic Chat透過Marketo Engage Salesforce整合與Salesforce整合。
 **對話方塊和對話流程之間有何差異？**
 
 對話方塊是自動顯示給符合一組已定義目標定位條件的Web訪客的對話。 「對話流程」只會顯示在網頁上執行特定動作（例如按下按鈕）的訪客。
+
+**是否有方式使用Dynamic Chat直接從電子郵件預約會議？**
+
+會的！[瞭解如何](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
 **我可以在沒有Marketo Engage的情況下使用Dynamic Chat嗎？**
 

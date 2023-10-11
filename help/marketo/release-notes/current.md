@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 215f32a43715b0e2d3794890e245675265748f09
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '340'
 ht-degree: 2%
 
 ---
@@ -53,8 +53,9 @@ ht-degree: 2%
   </tr>
    <tr> 
    <td><strong>在互動式網路研討會中下載錄製並指派共同主持人</strong>：您現在可以為網路研討會新增外部共同主機，以備原始主機無法使用時使用。 您現在也可以下載網路研討會影片。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">下載錄製</a></li>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">建立互動式網路研討會</a></li></td>
   </tr>
  </tbody> 
 </table>
