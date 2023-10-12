@@ -4,7 +4,7 @@ description: Marketo Engage字彙表 — Marketo檔案 — 產品檔案
 title: Marketo Engage字彙表
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
 workflow-type: tm+mt
 source-wordcount: '4176'
 ht-degree: 1%
@@ -172,7 +172,7 @@ ht-degree: 1%
    <td colspan="1">在Marketo中，您可以在例項內複製數種不同型別的實體。 您可以複製 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">計畫</a>，和 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">計畫內的資產</a>， a <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">串流</a>、等等。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">URL的前端。 一個字(加上YourCompany.com)稱為CNAME (例如 <em>資訊</em>.YourCompany.com/)。</td> 
   </tr> 
   <tr> 
@@ -654,7 +654,7 @@ ht-degree: 1%
    <td>（先前稱為ContentAI）附加功能，可協助Marketo使用者以最相關的方式與網頁訪客和電子郵件收件者互動 <strong>內容</strong>，使用由機器學習和預測性分析支援的建議。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md" rel="nofollow">計畫</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md" rel="nofollow">方案</a></strong></td> 
    <td colspan="1">此容器可容納您執行行銷計畫所需的一切。 有四種不同的型別： <strong>活動計畫</strong>， <strong>參與計畫</strong>， <strong>電子郵件程式</strong>、和 <strong>預設計畫</strong>)</td> 
   </tr> 
   <tr> 
@@ -739,7 +739,7 @@ ht-degree: 1%
    <td>區段內的類別(請參閱 <strong>細分</strong>)。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">細分</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">區段</a></strong></td> 
    <td colspan="1">將您的團隊中的人員組成群組 <strong>資料庫</strong> 根據 <strong>智慧清單</strong> 您指定的規則。 例如，您可以有一個稱為產業的分段，其中的類別可以是：醫療保健、技術、金融等。 區段可讓您根據所選的人口統計將產品行銷給整個人群組。</td> 
   </tr> 
   <tr> 
