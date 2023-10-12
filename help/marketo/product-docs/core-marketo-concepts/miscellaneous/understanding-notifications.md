@@ -1,22 +1,22 @@
 ---
 unique-page-id: 2952292
-description: 了解通知 — Marketo檔案 — 產品檔案
-title: 了解通知
+description: 瞭解通知 — Marketo檔案 — 產品檔案
+title: 瞭解通知
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-# 了解通知 {#understanding-notifications}
+# 瞭解通知 {#understanding-notifications}
 
-通知可讓您掌握Marketo訂閱中發生的系統事件最新資訊。 例如，促銷活動失敗通知會通知您智慧型促銷活動中的錯誤，而CRM同步通知會提醒您CRM同步發現的重大問題，例如權限不正確或同步中斷。
+通知可讓您隨時掌握Marketo訂閱中發生之系統事件的最新資訊。 例如，Campaign失敗通知會通知您智慧型行銷活動中的錯誤，而CRM同步通知會提醒您與CRM同步同步時發現的關鍵問題，例如許可權不正確或同步已關閉。
 
-## 總覽 {#overview}
+## 概觀 {#overview}
 
-1. 新通知會顯示在Marketo的右上角。
+1. 新通知會顯示在Marketo的右上方。
 
    ![](assets/understanding-notifications-1.png)
 
@@ -26,22 +26,22 @@ ht-degree: 0%
 
 ## 訂閱通知 {#subscribe-to-notifications}
 
-您可以訂閱通知，以在電子郵件中接收通知。
+您可以訂閱通知，以便在電子郵件中接收這些通知。
 
-1. 前往通知，然後按一下 **訂閱**.
+1. 前往「通知」並按一下 **[!UICONTROL 訂閱]**.
 
    ![](assets/understanding-notifications-3.png)
 
-1. 選取通知類型，然後輸入要傳送通知的電子郵件地址（以逗號分隔）。 按一下 **訂閱** 時才能使用。
+1. 選取通知型別，然後輸入您要傳送通知的電子郵件地址（以逗號分隔）。 按一下 **[!UICONTROL 訂閱]** 完成時。
 
    ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->此 **傳送至** 區域僅供您輸入電子郵件，不會顯示現有訂閱者的清單。
+>此 **[!UICONTROL 傳送至]** 區域僅供您輸入電子郵件，不會顯示現有訂閱者的清單。
 
-在某些情況下，通知會提供「查看完整清單」連結，以下載逗號分隔值(CSV)檔案，例如Microsoft Dynamics Sync Errors檔案。 Marketo會保留這些CSV檔案30天。 如果您嘗試在30天後下載檔案，將會收到404錯誤。
+在某些情況下，通知會提供「檢視完整清單」連結來下載逗號分隔值(CSV)檔案，例如Microsoft Dynamics同步處理錯誤檔案。 Marketo會將這些CSV檔案保留30天。 如果您在30天後嘗試下載檔案，將會出現404錯誤。
 
 >[!TIP]
 >
->想取消訂閱通知電子郵件嗎？ 沒問題。 只需按一下 **取消訂閱通知** 連結。
+>要取消訂閱通知電子郵件嗎？ 沒問題。 只需按一下 **[!UICONTROL 取消訂閱通知]** 電子郵件底部的連結。

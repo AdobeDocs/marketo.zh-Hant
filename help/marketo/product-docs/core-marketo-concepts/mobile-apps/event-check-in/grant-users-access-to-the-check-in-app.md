@@ -4,16 +4,16 @@ description: 授予使用者簽到應用程式的存取權 — Marketo檔案 —
 title: 授予使用者存取「簽入」應用程式的許可權
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
 # 授予使用者存取「簽入」應用程式的許可權 {#grant-users-access-to-the-check-in-app}
 
-Marketo對事件簽入應用程式具有特殊使用者角色。 以下說明如何建立具有使用應用程式許可權的新角色。
+Marketo Engage在事件簽入應用程式中具有特殊使用者角色。 以下說明如何建立具有使用應用程式許可權的新角色。
 
 >[!IMPORTANT]
 >
@@ -21,19 +21,19 @@ Marketo對事件簽入應用程式具有特殊使用者角色。 以下說明如
 
 ## 為行動裝置建立新的使用者角色 {#create-a-new-user-role-for-mobile}
 
-1. 按一下 **管理員**.
+1. 按一下 **[!UICONTROL 管理員]**.
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
-1. 按一下 **使用者和角色**.
+1. 按一下 **[!UICONTROL 使用者和角色]**.
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. 按一下 **角色** 標籤，然後按一下 **新角色**.
+1. 按一下 **[!UICONTROL 角色]** 標籤，然後按一下 **[!UICONTROL 新角色]**.
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. 輸入新角色的名稱和可選的說明。 檢查 **存取行動應用程式** 方塊並按一下 **建立**.
+1. 輸入新角色的名稱和可選的說明。 檢查 **[!UICONTROL 存取行動應用程式]** 方塊並按一下 **[!UICONTROL 建立]**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -41,15 +41,15 @@ Marketo對事件簽入應用程式具有特殊使用者角色。 以下說明如
 
 ## 邀請新使用者加入簽到應用程式 {#invite-new-users-for-the-check-in-app}
 
-1. 按一下 **使用者** 標籤。
+1. 按一下 **[!UICONTROL 使用者]** 標籤。
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. 按一下 **邀請新使用者**.
+1. 按一下 **[!UICONTROL 邀請新使用者]**.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. 輸入新使用者的資訊。 勾選所有適當角色的核取方塊，然後選取具有存取行動應用程式許可權的新角色。 按一下 **邀請** 完成時。
+1. 輸入新使用者的資訊。 勾選所有適當角色的核取方塊，然後選取具有存取行動應用程式許可權的新角色。 按一下 **[!UICONTROL 邀請]** 完成時。
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 

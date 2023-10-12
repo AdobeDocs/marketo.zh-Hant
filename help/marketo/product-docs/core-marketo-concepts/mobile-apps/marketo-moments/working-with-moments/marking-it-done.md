@@ -4,16 +4,16 @@ description: 將其標籤為完成 — Marketo檔案 — 產品檔案
 title: 將其標籤為完成
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '143'
 ht-degree: 1%
 
 ---
 
 # 將其標籤為完成 {#marking-it-done}
 
-將電子郵件程式、事件或分析卡片標示為「完成」，以便將其從您的串流中移除。 有兩種方法可以做到這一點。
+將電子郵件程式、事件或分析卡片標示為 [!UICONTROL 完成] 以將其從您的串流中移除。 有兩種方法可以做到這一點。
 
 >[!IMPORTANT]
 >
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/image2015-7-14-17-3a32-3a35.png)
 
-1. 點選 **完成**.
+1. 點選 **[!UICONTROL 完成]**.
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 
@@ -34,5 +34,3 @@ ht-degree: 1%
    >[!NOTE]
    >
    >將卡片標示為「完成」並不會刪除電子郵件、事件或智慧行銷活動。 它只會從「時刻/稍後」資料流將其移至「完成」資料流。
-
-小菜一碟！

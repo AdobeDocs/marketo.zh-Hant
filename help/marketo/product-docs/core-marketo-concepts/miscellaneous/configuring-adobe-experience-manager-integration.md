@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 在 **工具**，按一下 **作業** 並選取 **網頁主控台**.
+1. 在 **[!UICONTROL 工具]**，按一下 **[!UICONTROL 作業]** 並選取 **[!UICONTROL 網頁主控台]**.
 
    ![](assets/2a.png)
 
@@ -47,34 +47,34 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 在 **允許的原始項(Regexp)** 文字方塊，輸入 `https://.*\.marketo\.com` 並按一下 **儲存**.
+1. 在 **[!UICONTROL 允許的原始項(Regexp)]** 文字方塊，輸入 `https://.*\.marketo\.com` 並按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/five-psd.png)
 
-1. 在頁面頂端的標題中，按一下 **網頁主控台** 並選取 **系統資訊**.
+1. 在頁面頂端的標題中，按一下 **[!UICONTROL 網頁主控台]** 並選取 **[!UICONTROL 系統資訊]**.
 
    ![](assets/six.png)
 
-1. 在「伺服器資訊」下，按一下 **重新啟動** 按鈕。
+1. 在「伺服器資訊」下，按一下 **[!UICONTROL 重新啟動]** 按鈕。
 
    ![](assets/seven.png)
 
-1. 按一下 **確定** 以確認。
+1. 按一下 **[!UICONTROL 確定]** 以確認。
 
    ![](assets/eight.png)
 
-1. 在Marketo Engage中，按一下 **管理員**.
+1. 在Marketo Engage中，按一下 **[!UICONTROL 管理員]**.
 
    ![](assets/nine.png)
 
-1. 在整合下方，選取 **Adobe Experience Manager**.
+1. 在整合下方，選取 **[!UICONTROL Adobe Experience Manager]**.
 
    ![](assets/ten.png)
 
-1. 按一下 **編輯**.
+1. 按一下 **[!UICONTROL 編輯]**.
 
    ![](assets/eleven.png)
 
-1. 輸入您的AEM URL並按一下 **確定**.
+1. 輸入您的AEM URL並按一下 **[!UICONTROL 確定]**.
 
    ![](assets/twelve.png)

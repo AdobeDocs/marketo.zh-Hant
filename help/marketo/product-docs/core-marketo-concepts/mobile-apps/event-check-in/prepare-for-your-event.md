@@ -4,9 +4,9 @@ description: 準備活動 — Marketo檔案 — 產品檔案
 title: 準備您的活動
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 建立新的Marketo角色 {#create-a-new-marketo-role}
 
-Marketo對事件簽入應用程式具有特殊使用者角色。 [建立新的Marketo角色](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 適用於iPad或Android使用者，具有存取行動應用程式的許可權。
+Marketo對事件簽入應用程式具有特殊使用者角色。 [建立新的Marketo角色](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 的 [!DNL iPad] 或 [!DNL Android] 使用者，具有存取行動應用程式的許可權。
 
 ## 邀請新的Tablet使用者加入活動 {#invite-new-tablet-users-to-the-event}
 
@@ -39,7 +39,7 @@ Marketo對事件簽入應用程式具有特殊使用者角色。 [建立新的Ma
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. 滑過以變更 **暫定** 至 **已確認**.
+1. 滑過以變更 **[!UICONTROL 暫定]** 至 **[!UICONTROL 已確認]**.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
@@ -49,29 +49,29 @@ Marketo對事件簽入應用程式具有特殊使用者角色。 [建立新的Ma
 
 ## 新增人員至您的活動 {#add-people-to-your-event}
 
-現在您已瞭解 *當*，是時候新增 *誰*.
+現在您已瞭解 _當_，是時候新增 *誰*.
 
-1. 如果您已有人員清單，請在「我的Marketo」中按一下 **資料庫** 圖磚。
+1. 如果您已有人員清單，請在「我的Marketo」中按一下 **[!UICONTROL 資料庫]** 圖磚。
 
    ![](assets/db.png)
 
-1. 選取包含人員的清單，然後按一下 **人員** 標籤。
+1. 選取包含人員的清單，然後按一下 **[!UICONTROL 人員]** 標籤。
 
    ![](assets/four.png)
 
-1. 從清單中選取活動的人員。 使用 **Ctrl** (或 **命令** (在Mac上)以按一下多個使用者，或 **全選** 標籤所有專案。
+1. 從清單中選取活動的人員。 使用 **[!UICONTROL Ctrl]** (或 **[!UICONTROL 命令]** (在Mac上)以按一下多個使用者，或 **[!UICONTROL 全選]** 標籤所有專案。
 
    ![](assets/five.png)
 
-1. 按一下 **個人動作**，暫留在 **計畫** 並選取 **變更方案狀態**.
+1. 按一下 **[!UICONTROL 個人動作]**，暫留在 **[!UICONTROL 計畫]** 並選取 **[!UICONTROL 變更方案狀態]**.
 
    ![](assets/six.png)
 
-1. 按一下 **計畫** 下拉式清單，然後選取您的事件。
+1. 按一下 **[!UICONTROL 計畫]** 下拉式清單，然後選取您的事件。
 
    ![](assets/seven.png)
 
-1. 按一下 **新狀態** 下拉式清單並選取 **路演>註冊**. 按一下 **立即執行**.
+1. 按一下 **[!UICONTROL 新狀態]** 下拉式清單並選取 **[!UICONTROL 路演] > [!UICONTROL 已註冊]**. 按一下 **[!UICONTROL 立即執行]**.
 
    ![](assets/eight.png)
 

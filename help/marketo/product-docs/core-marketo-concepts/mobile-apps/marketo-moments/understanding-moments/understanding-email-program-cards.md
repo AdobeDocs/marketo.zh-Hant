@@ -4,9 +4,9 @@ description: 瞭解電子郵件程式卡 — Marketo檔案 — 產品檔案
 title: 瞭解電子郵件計畫卡片
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,11 @@ ht-degree: 0%
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. 點選 **確認**.
+1. 點選 **[!UICONTROL 確認]**.
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. 點選 **確認** 完成工作，或 **沒關係** 如果您有其他想法。
+1. 點選 **[!UICONTROL 確認]** 完成工作，或 **[!UICONTROL 沒關係]** 如果您有其他想法。
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. 點選 **取消傳送**.
+1. 點選 **[!UICONTROL 取消傳送]**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -75,11 +75,11 @@ ht-degree: 0%
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. 點選 **重新排程**.
+1. 點選 **[!UICONTROL 重新排程]**.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. 在行事曆上選取日期，然後點選 **重新排程**.
+1. 在行事曆上選取日期，然後點選 **[!UICONTROL 重新排程]**.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
@@ -93,11 +93,11 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. 點選 **傳送範例**.
+1. 點選 **[!UICONTROL 傳送範例]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. 輸入電子郵件地址並按一下 **傳送範例**.
+1. 輸入電子郵件地址並按一下 **[!UICONTROL 傳送範例]**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -105,17 +105,13 @@ ht-degree: 0%
 
 以滑鼠右鍵按一下電子郵件卡片進行預覽。
 
-1. 點選 **預覽電子郵件**.
+1. 點選 **[!UICONTROL 預覽電子郵件]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
    如此一來，您就可以在扣動觸發器之前知道您的電子郵件是完美無缺的！
 
    ![](assets/image2015-6-30-11-3a15-3a22.png)
-
-   太好了！
-
-這是檢視電子郵件行銷活動的獨家新聞。 現在，您是專業人士！
 
 >[!MORELIKETHIS]
 >

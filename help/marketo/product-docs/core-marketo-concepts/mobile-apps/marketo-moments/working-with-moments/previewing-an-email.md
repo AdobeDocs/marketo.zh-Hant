@@ -4,9 +4,9 @@ description: 預覽電子郵件 — Marketo檔案 — 產品檔案
 title: 預覽電子郵件
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/image2015-9-25-11-3a30-3a52.png)
 
-1. 點選 **預覽電子郵件**.
+1. 點選 **[!UICONTROL 預覽電子郵件]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
@@ -34,5 +34,3 @@ ht-degree: 1%
    >[!NOTE]
    >
    >若要直接從「電子郵件預覽」頁面傳送範例，請點選右上方的紙飛機圖示。
-
-   太好了！

@@ -1,45 +1,44 @@
 ---
 unique-page-id: 1147318
 description: 鍵盤快速鍵字彙表 — Marketo檔案 — 產品檔案
-title: 鍵盤快速鍵字表
+title: 鍵盤快速鍵字彙表
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 4%
+source-wordcount: '114'
+ht-degree: 5%
 
 ---
 
-# 鍵盤快速鍵字表 {#keyboard-shortcuts-glossary}
+# 鍵盤快速鍵字彙表 {#keyboard-shortcuts-glossary}
 
-你是鍵盤快速鍵的人嗎？ 我們掩護你！
+您是鍵盤快速鍵使用者嗎？ 我們為您提供支援！
 
-## 區域導航： {#area-navigation}
+## 區域導覽 {#area-navigation}
 
 | 鍵盤快速鍵 | 區域 |
 |---|---|
 | Alt/Opt + A | Analytics |
-| Alt/Opt + C | 日曆 |
+| Alt/Opt + C | 行事曆 |
 | Alt/Opt + D | Design Studio |
 | Alt/Opt + F | 全域搜尋 |
 | Alt/Opt + L | 資料庫 |
 | Alt/Opt + M | 行銷活動 |
-| 選擇+ N | 管理 |
-| 選擇+ O | 我的Marketo |
-| Alt/Opt + S | 下拉式超球功能表 |
+| Opt + N | 管理員 |
+| Opt + O | 我的Marketo |
 
-## 日曆/計畫視圖導航：  {#calendar-schedule-view-navigation}
+## 行事曆/排程檢視導覽  {#calendar-schedule-view-navigation}
 
 | 鍵盤快速鍵 | 動作 |
 |---|---|
-| Alt/Opt +向上鍵 | 及時移回 |
-| Alt/Opt +向下箭頭 | 及時前進 |
-| Alt/Opt + T | 轉到「今天」 |
+| Alt/Opt +向上鍵 | 後移時間 |
+| Alt/Opt +向下鍵 | 及時前進 |
+| Alt/Opt + T | 前往「今天」 |
 
-## 其他： {#miscellaneous}
+## 其他 {#miscellaneous}
 
 | 鍵盤快速鍵 | 動作 |
 |---|---|
 | ESC | 關閉快顯視窗 |
-| 返回/輸入 | 提交快顯視窗 |
-| Ctrl + Alt/Opt + H | 隱藏/取消隱藏表單編輯器中的欄位 |
+| 傳回/輸入 | 提交快顯視窗 |
+| Ctrl + Alt/Opt + H | 在表單編輯器中隱藏/取消隱藏欄位 |

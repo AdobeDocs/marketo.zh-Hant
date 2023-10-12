@@ -4,9 +4,9 @@ description: 傳送範例 — Marketo檔案 — 產品檔案
 title: 傳送範例
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
@@ -25,11 +25,11 @@ ht-degree: 1%
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. 點選 **傳送範例**.
+1. 點選 **[!UICONTROL 傳送範例]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. 輸入電子郵件地址並按一下 **傳送範例**.
+1. 輸入電子郵件地址並按一下 **[!UICONTROL 傳送範例]**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -38,5 +38,3 @@ ht-degree: 1%
 1. 點選「電子郵件預覽」畫面上的紙飛機圖示，以直接從預覽傳送範例。
 
    ![](assets/image2015-9-25-10-3a28-3a47.png)
-
-任務完成！

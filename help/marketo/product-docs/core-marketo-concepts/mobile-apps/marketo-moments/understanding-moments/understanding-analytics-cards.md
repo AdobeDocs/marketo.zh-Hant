@@ -4,9 +4,9 @@ description: 瞭解Analytics卡片 — Marketo檔案 — 產品檔案
 title: 瞭解Analytics卡片
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -51,17 +51,15 @@ ht-degree: 0%
 
 ## 新銷售機會 {#new-leads}
 
-此 **新銷售機會** 卡片會顯示過去6個月您執行個體中新潛在客戶總數的趨勢月同比報告。
+此 **[!UICONTROL 新銷售機會]** 卡片會顯示過去6個月您執行個體中新潛在客戶總數的趨勢月同比報告。
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## 取消訂閱 {#unsubscribes}
 
-此 **取消訂閱** 卡片會顯示您過去六個月取消訂閱率的每月趨勢報告。
+此 **[!UICONTROL 取消訂閱]** 卡片會顯示您過去六個月取消訂閱率的每月趨勢報告。
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
-
-現在您知道了。
 
 >[!MORELIKETHIS]
 >
