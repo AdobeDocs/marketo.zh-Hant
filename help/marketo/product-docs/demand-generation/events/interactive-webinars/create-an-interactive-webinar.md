@@ -3,9 +3,9 @@ description: 建立互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 建立互動式網路研討會
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
+source-git-commit: 9eb715104155f063da049b25b2a28661df65f25f
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,10 @@ ht-degree: 0%
 您的互動式網路研討會隨即建立。 您可以新增主持人和/或共同主機。
 
 ![](assets/create-an-interactive-webinar-8.png)
+
+>[!NOTE]
+>
+>共同主機和主持人可以是外部使用者，不需要存取Marketo Engage。 您只需提供網路研討會URL即可。
 
 <br>
 
