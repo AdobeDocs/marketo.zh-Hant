@@ -3,7 +3,7 @@ description: 模型與深入分析 — Marketo檔案 — 產品檔案
 title: 模型與深入分析
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ![影像1](assets/models-and-insights-1.png)
 
-* **訓練狀態**：指出模型是否正在積極訓練（改善預測）。 每2週自動進行訓練。 任何符合下列條件的模型： _處理中_ 最多可能需要24小時的時間才能完成。 針對任何 _已失敗_ 型號，請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+* **訓練狀態**：指出模型是否正在積極訓練（改善預測）。 每2週自動進行訓練。 任何符合下列條件的模型： _處理中_ 最多可能需要24小時的時間才能完成。 針對任何 _已失敗_ 型號，請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 * **評分狀態**：指出您的模型是否正在主動計算方案成員的預測（可能性百分比）。
 * **效能**：根據資料完整性和資料品質將您的模型健康情況分類（請參閱下文）。
 * **資料完整性**：出現/完成的資料屬性百分比。

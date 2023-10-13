@@ -4,20 +4,20 @@ description: 使用資產標籤 — Marketo檔案 — 產品檔案
 title: 使用「資產」標籤
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
 # 使用「資產」標籤 {#using-the-assets-tab}
 
-資產畫布是方案的視覺化表示法。 您可以使用它來新增本機資產，以及與現有資產互動。
+資產畫布是預設或事件程式的視覺化表示法。 您可以使用它來新增本機資產，以及與現有資產互動。
 
 ## 新增資產 {#adding-assets}
 
-從 **行銷活動** 區域，按一下 **資產** 標籤。 選擇下列任何資產，並將其新增至您的程式。
+按一下 **[!UICONTROL 資產]** 定位字元。 選擇下列任何資產，並將其新增至您的程式。
 
 ![](assets/programassets.png)
 

@@ -4,7 +4,7 @@ description: 使用程式首頁標籤 — Marketo檔案 — 產品檔案
 title: 使用方案首頁標籤
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 摘要檢視 {#summary-view}
 
-1. 前往 **行銷活動**.
+1. 前往 **[!UICONTROL 行銷活動]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,31 +33,31 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. 按一下 **匯出** 位於摘要底部以下載報表。
+1. 按一下 **[!UICONTROL 匯出]** 位於摘要底部以下載報表。
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
 ## 由檢視使用 {#used-by-view}
 
-1. 在行銷活動中，選取方案。
+1. 在 **[!UICONTROL 行銷活動]**，選取方案。
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. 按一下 **檢視** 下拉式清單。 選取 **使用者**.
+1. 按一下 **[!UICONTROL 檢視]** 下拉式清單。 選取 **[!UICONTROL 使用者]**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
-   此檢視顯示正在使用哪些智慧型行銷活動。
+   此檢視顯示使用中的Smart Campaigns。
 
    ![](assets/image2014-9-18-17-3a6-3a4.png)
 
 ## 成員資格檢視 {#membership-view}
 
-1. 在行銷活動中，選取方案。
+1. 在 **[!UICONTROL 行銷活動]**，選取方案。
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. 按一下 **檢視** 下拉式清單。 選取 **會籍**.
+1. 按一下 **[!UICONTROL 檢視]** 下拉式清單。 選取 **[!UICONTROL 會籍]**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,8 +67,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**歷史** 表示曾瀏覽過此計畫的使用者，而 **目前** 僅包含目前加入方案的人員。
+   >**[!UICONTROL 歷史]** 表示曾瀏覽過此計畫的使用者，而 **[!UICONTROL 目前]** 僅包含目前加入方案的人員。
 
    >[!MORELIKETHIS]
    >
-   >[瞭解計畫會員資格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+   >[瞭解計畫會員資格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
