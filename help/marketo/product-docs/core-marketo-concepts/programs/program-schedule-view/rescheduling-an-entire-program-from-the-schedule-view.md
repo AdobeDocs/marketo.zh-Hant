@@ -4,7 +4,7 @@ description: 從排程檢視重新排程整個計畫 — Marketo檔案 — 產�
 title: 從排程檢視重新排程整個方案
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. 選取「事件動作」下拉式清單。 選擇 **重新排程專案**.
+1. 選取「事件動作」下拉式清單。 選擇 **[!UICONTROL 重新排程專案]**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. 按一下 **重新排程**.
+1. 按一下 **[!UICONTROL 重新排程]**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 

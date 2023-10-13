@@ -4,7 +4,7 @@ description: 隱藏和取消隱藏自訂專案型別 — Marketo檔案 — 產�
 title: 隱藏和取消隱藏自訂專案型別
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 隱藏自訂專案型別 {#hide-a-custom-entry-type}
 
-1. 前往 **管理員** 區段並按一下 **行事曆專案** **型別**.
+1. 前往 **[!UICONTROL 管理員]** 區段並按一下 **[!UICONTROL 行事曆專案型別]**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
-1. 以滑鼠右鍵按一下您的自訂專案，然後按一下 **隱藏**.
+1. 以滑鼠右鍵按一下您的自訂專案，然後按一下 **[!UICONTROL 隱藏]**.
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 如果您想要取消隱藏自訂專案型別，這也很容易。
 
-1. 以滑鼠右鍵按一下您的專案並選取「 」 **取消隱藏**.
+1. 以滑鼠右鍵按一下您的專案並選取「 」 **[!UICONTROL 取消隱藏]**.
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 

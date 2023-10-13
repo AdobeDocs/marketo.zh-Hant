@@ -4,7 +4,7 @@ description: 瞭解暫定/確認日期 — Marketo檔案 — 產品檔案
 title: 瞭解暫定/確認日期
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 瞭解暫定/確認日期 {#understanding-tentative-confirmed-dates}
 
-智慧型行銷活動和電子郵件程式具有強大的功能，可標籤為 **暫定** 或 **已確認**. 以下是其運作方式。
+智慧型行銷活動和電子郵件程式具有強大的功能，可標籤為 **[!UICONTROL 暫定]** 或 **[!UICONTROL 已確認]**. 以下是其運作方式。
 
 ## 暫定 {#tentative}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 已完成  {#finished}
 
-已完成的專案已執行。 他們只能是過去（很顯然）。 專案執行完畢後，為 **已完成**，您無法移動或將其設定為暫定。 （不會改變現實和干擾時間流連續體。）
+已完成的專案已執行。 他們只能是過去（很顯然）。 專案執行完畢後，為 **[!UICONTROL 已完成]**，您無法移動或將其設定為暫定。 （不會改變現實和干擾時間流連續體。）
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

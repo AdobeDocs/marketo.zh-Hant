@@ -4,9 +4,9 @@ description: 在方案排程檢視中建立專案 — Marketo檔案 — 產品�
 title: 在方案排程檢視中建立專案
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 建立基本專案 {#create-a-basic-entry}
 
-1. 前往 **行銷活動**.
+1. 前往 **[!UICONTROL 行銷活動]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 選取您的程式。 按一下 **檢視** 下拉式清單。 選取 **排程**.
+1. 選取您的程式。 按一下 **[!UICONTROL 檢視]** 下拉式清單。 選取 **[!UICONTROL 排程]**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. 為專案命名。 按下 **輸入** 以確認名稱。
+1. 為專案命名。 按下 **[!UICONTROL 輸入]** 以確認名稱。
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. 輸入說明並按一下 **儲存**.
+1. 輸入說明並按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
@@ -51,15 +51,15 @@ ht-degree: 0%
 
 ## 變更專案型別 {#change-entry-type}
 
-1. 從中選擇一個基本專案 **日程** 檢視。
+1. 從中選擇一個基本專案 **[!UICONTROL 日程]** 檢視。
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. 選取 **型別** 下拉式清單。 選擇新的專案型別。
+1. 選取 **[!UICONTROL 型別]** 下拉式清單。 選擇新的專案型別。
 
    >[!NOTE]
    >
-   >待辦事項是 [自訂專案](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). 您可以建立待辦事項和其他自訂專案，以協助追蹤非Marketo議程專案。
+   >待辦事項是 [自訂專案](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md){target="_blank"}. 您可以建立待辦事項和其他自訂專案，以協助追蹤非Marketo議程專案。
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,4 +69,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 您也可以建立 [智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) 或 [電子郵件程式](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) 從「排程」檢視。
+> 您也可以建立 [智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"} or [email program](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md){target="_blank"} 從「排程」檢視。

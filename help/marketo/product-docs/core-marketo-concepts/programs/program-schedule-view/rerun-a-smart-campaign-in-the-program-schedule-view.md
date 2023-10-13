@@ -4,7 +4,7 @@ description: 在方案排程檢視中重新執行Smart Campaign - Marketo檔案 
 title: 在方案排程檢視中重新執行Smart Campaign
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 在方案排程檢視中重新執行Smart Campaign {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
-您可以直接從方案排程檢視，輕鬆建立現有智慧行銷活動的新執行。
+您可以直接從方案排程檢視，輕鬆建立現有Smart Campaign的新執行。
 
-1. 前往 **行銷活動**.
+1. 前往 **[!UICONTROL 行銷活動]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-16-14-3a42-3a0.png)
 
-1. 選取專案型別功能表下拉式清單，然後選取您要重新執行的智慧行銷活動。
+1. 選取專案型別功能表下拉式清單，然後選取您要重新執行的Smart Campaign。
 
    ![](assets/image2015-4-16-15-3a26-3a33.png)
 
@@ -35,4 +35,4 @@ ht-degree: 0%
    >
    >您也可以從以下位置執行此操作： [方案焦點](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
-搖晃！ 同樣地，您已為該智慧行銷活動排程另一次執行。 如果該智慧行銷活動包含傳送電子郵件步驟，您也會看到這些步驟！
+搖晃！ 同樣地，您已為該Smart Campaign排程再次執行。 如果該Smart Campaign包含傳送電子郵件步驟，您也會看到這些步驟！

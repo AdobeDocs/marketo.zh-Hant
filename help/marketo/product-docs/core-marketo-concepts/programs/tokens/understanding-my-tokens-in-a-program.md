@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1147114
 description: 瞭解程式中的我的Token - Marketo檔案 — 產品檔案
-title: 瞭解方案中的我的Token
+title: 瞭解程式中的我的Token
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 1%
 
 ---
 
-# 瞭解方案中的我的Token {#understanding-my-tokens-in-a-program}
+# 瞭解程式中的我的Token {#understanding-my-tokens-in-a-program}
 
 代號是變數，可用於電子郵件、登陸頁面和智慧型行銷活動，讓您的生活更輕鬆。
 
-除了「我的Token」，您也可以在程式中使用任何內建的Token。 檢視 [Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+除了「我的Token」，您也可以在程式中使用任何內建的Token。 檢視 [Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## 我的Token  {#my-tokens}
 
-我的Token是任何人都可以建立的自訂變數。 它們是 [已建立](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) 在行銷活動資料夾或方案中。
+我的Token是任何人都可以建立的自訂變數。 它們是 [已建立](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} 在行銷活動資料夾或方案中。
 
 我的Token顯示如下： `{{my.Name Of Token}}`
 
@@ -93,5 +93,5 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->* [Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
->* [管理我的Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
+>* [Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+>* [管理我的Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}

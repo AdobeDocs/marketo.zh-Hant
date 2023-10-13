@@ -4,10 +4,10 @@ description: 編輯計畫排程檢視中的專案 — Marketo檔案 — 產品�
 title: 編輯程式排程檢視中的專案
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. 輸入新名稱並按 **輸入/傳回** 以確認變更。
+1. 輸入新名稱並按 **[!UICONTROL 輸入/傳回]** 以確認變更。
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. 編輯您的說明。 按一下 **儲存**.
+1. 編輯您的說明。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
@@ -53,4 +53,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 已執行的智慧型行銷活動和電子郵件程式專案無法移至過去。
+> 已執行的Smart Campaign和電子郵件程式專案無法移至過去。

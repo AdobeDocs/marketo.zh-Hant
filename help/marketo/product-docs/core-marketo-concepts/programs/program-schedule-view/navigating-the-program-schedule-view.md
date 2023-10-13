@@ -4,7 +4,7 @@ description: 瀏覽方案排程檢視 — Marketo檔案 — 產品檔案
 title: 瀏覽方案排程檢視
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 尋找排程檢視 {#find-the-schedule-view}
 
-1. 前往 **行銷活動**.
+1. 前往 **[!UICONTROL 行銷活動]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取您的程式。 按一下 **檢視** 下拉式清單。 選取 **排程**.
+1. 選取您的程式。 按一下 **[!UICONTROL 檢視]** 下拉式清單。 選取 **[!UICONTROL 排程]**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 在模式之間變更 {#changing-between-modes}
 
-1. 按一下 **3週** 或 **月** 將會變更顯示畫面上的可見日期。
+1. 按一下 **[!UICONTROL 3週]** 或 **[!UICONTROL 月]** 將會變更顯示畫面上的可見日期。
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
@@ -65,4 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[在方案排程檢視中建立專案](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
+>[在方案排程檢視中建立專案](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}
