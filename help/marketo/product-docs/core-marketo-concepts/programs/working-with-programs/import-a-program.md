@@ -4,34 +4,34 @@ description: 匯入計畫 — Marketo檔案 — 產品檔案
 title: 匯入計畫
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 797ae74a76674a0ad2b05ff22cd1c084068299fd
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
 
 # 匯入計畫 {#import-a-program}
 
-程式可從一個Marketo訂閱匯入到另一個訂閱。 例如，您可以在沙箱中建立計畫，然後將其匯入您的即時訂閱中。 此外，您也可以從Marketo方案庫匯入預先建立的方案。
+程式可從一個Marketo訂閱匯入到另一個訂閱。 例如，您可以在沙箱中建立計畫，然後將其匯入您的即時訂閱中。 此外，您也可以從匯入預先建立的計畫 [Marketo程式庫](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
 
 ## 匯入方案 {#importing-a-program}
 
-1. 前往 **行銷活動。**
+1. 前往 **行銷活動**.
 
    ![](assets/import-a-program-1.png)
 
-1. 按一下 **新增** 下拉式清單。 選取 **匯入計畫**.
+1. 按一下 **新增** 下拉式清單並選取 **匯入計畫**.
 
    ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
-   >「程式匯入」僅適用於已啟用「匯入程式」許可權之角色的使用者。 進一步瞭解 [管理使用者角色和許可權](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >「程式匯入」僅適用於已啟用「匯入程式」許可權之角色的使用者。 進一步瞭解 [管理使用者角色和許可權](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >若要將沙箱帳戶連線至您的即時訂閱，請連絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >若要將沙箱帳戶連線至您的即時訂閱，請連絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. 選取Marketo **訂閱** 以及要匯入的方案。 按一下 **下一個**.
+1. 選取Marketo **訂閱** 以及要匯入的方案。 按一下&#x200B;**下一步**。
 
    ![](assets/import-a-program-3.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 **登陸頁面/Forms：** 如果Design Studio中存在同名的表單或登陸頁面，仍會匯入這些表單或登陸頁面，但會在名稱后面附加一個數字（例如：登陸頁面 — 1）。
 
-**影像：** 登入頁面使用的影像會匯入設計工作室，除非有相同名稱的影像存在。
+**影像：** 登陸頁面使用的影像會匯入設計工作室，除非有相同名稱的影像存在。
 
 **Token：** 在匯入程式期間，程式外部的權杖會轉換為本機權杖。
 
@@ -81,4 +81,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->匯入方案時，包含下列內容的電子郵件/登入頁面 [動態內容](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) 將被跳過。
+>匯入方案時，包含下列內容的電子郵件/登陸頁面 [動態內容](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} 將被跳過。
