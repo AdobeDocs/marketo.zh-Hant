@@ -4,10 +4,10 @@ description: 新增行動應用程式 — Marketo檔案 — 產品檔案
 title: 新增行動應用程式
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 0%
+source-wordcount: '198'
+ht-degree: 1%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 >[!AVAILABILITY]
 >
 >
->並非所有客戶都已購買此功能。 請聯絡您的銷售代表以取得詳細資訊。
+>並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 1. 按一下 **管理員**.
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. 輸入名稱。 在 **型別** 下拉式清單，選取您使用的環境型別 — 沙箱或生產。 按一下 **儲存**.
+1. 輸入名稱。 在 **型別** 下拉式清單，選取您使用的環境型別 — 沙箱或生產。 按一下&#x200B;**保存**。
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 

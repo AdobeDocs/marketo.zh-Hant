@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 639bb1404117607af116122b410479d37ae32fad
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '9094'
 ht-degree: 1%
@@ -276,7 +276,7 @@ ht-degree: 1%
             + [使用標準智慧清單規則邏輯](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
          + 流程動作 {#flow-actions}
             + [將流量步驟新增至Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-            + [在智慧行銷活動中重新排序流量步驟](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
+            + [在智慧行銷活動中重新排序流量步驟](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md)
             + [新增至清單](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
             + [將資料附加至欄位](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
             + [呼叫Webhook](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)

@@ -4,9 +4,9 @@ description: 社交活動的觸發器和篩選器 — Marketo檔案 — 產品�
 title: 社交活動的觸發器和篩選器
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo中的社交應用程式有其專屬的特殊觸發器和篩選器。
 
 >[!AVAILABILITY]
 >
->並非所有客戶都已購買此功能。 請聯絡您的銷售代表以取得詳細資訊。
+>並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 1. 使用社交 _觸發器_，選取您的智慧行銷活動，然後按一下 **智慧清單** 標籤。 在右側，按一下+以展開 **觸發器**，然後 **社交**.
 

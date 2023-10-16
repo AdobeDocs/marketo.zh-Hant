@@ -4,9 +4,9 @@ description: 管理社交設定檔資料 — Marketo檔案 — 產品檔案
 title: 管理社交設定檔資料
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '310'
 ht-degree: 5%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 5%
 
 >[!AVAILABILITY]
 >
->並非所有客戶都已購買此功能。 請聯絡您的銷售代表以取得詳細資訊。
+>並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 ## 透過社交應用程式擷取 {#captured-via-social-app}
 

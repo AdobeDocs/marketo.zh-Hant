@@ -4,9 +4,9 @@ description: 在登陸頁面上新增社交按鈕 — Marketo檔案 — 產品�
 title: 在登陸頁面上新增社交按鈕
 exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->並非所有客戶都已購買此功能。 請聯絡您的銷售代表以取得詳細資訊。
+>並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 1. 導覽至您的登陸頁面，然後按一下 **編輯草稿**.
 

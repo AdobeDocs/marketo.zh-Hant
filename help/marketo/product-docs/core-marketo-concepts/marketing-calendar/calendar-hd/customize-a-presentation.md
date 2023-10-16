@@ -4,9 +4,9 @@ description: 自訂簡報 — Marketo檔案 — 產品檔案
 title: 自訂簡報
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 >[!AVAILABILITY]
 >
 >
->並非所有客戶都已購買此功能。 請聯絡您的銷售代表以取得詳細資訊。
+>並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 >[!PREREQUISITES]
 >
@@ -50,7 +50,7 @@ Presentations是顯示團隊目標時最棒的。 只要拖曳到不同的位置
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
-1. 以分鐘輸入時間。 按一下 **[!UICONTROL 儲存]**.
+1. 以分鐘輸入時間。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    >[!NOTE]
    >

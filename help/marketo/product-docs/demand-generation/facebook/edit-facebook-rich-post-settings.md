@@ -4,9 +4,9 @@ description: 編輯Facebook Rich Post設定 — Marketo檔案 — 產品檔案
 title: 編輯Facebook Rich Post設定
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->並非所有客戶都已購買此功能。 請聯絡您的銷售代表以取得詳細資訊。
+>並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 Marketo [社交應用程式](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) 允許您的潛在客戶將其在社交網路(例如Facebook、Twitter等)上的連線共用您的登陸頁面。 facebook OpenGraph標籤（OG標籤）可讓您指定登陸頁面中的哪些資訊包含在Facebook貼文中。
 

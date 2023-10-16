@@ -4,9 +4,9 @@ description: '"新增 [!DNL Google AdWords] as a [!DNL Launchpoint] 經理帳戶
 title: '"新增 [!DNL Google AdWords] as a [!DNL Launchpoint] 以經理帳戶提供服務」'
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '322'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->並非所有客戶都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+>並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 >[!NOTE]
 >
@@ -84,7 +84,7 @@ ht-degree: 1%
    >
    >[自動標籤](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} 必須選取才能使用此功能。 它必須在內啟動 [!DNL AdWords].
 
-1. 按一下 **[!UICONTROL 下一個]**.
+1. 按一下&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-11.png)
 
