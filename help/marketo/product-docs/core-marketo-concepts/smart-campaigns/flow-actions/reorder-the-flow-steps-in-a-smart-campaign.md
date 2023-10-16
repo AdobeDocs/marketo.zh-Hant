@@ -4,7 +4,7 @@ description: 在Smart Campaign中重新排序流程步驟 — Marketo檔案 — 
 title: 在智慧行銷活動中重新排序流量步驟
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 17662d6c45ced21053fe18506ee79bb4b8f10c10
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 1. 在智慧型行銷活動「流量」標籤中，將流量步驟拖放至您想要的位置。
 
-![](assets/image2014-9-22-13-3a49-3a11.png)
+![](assets/reorder-the-flow-steps-in-a-smart-campaign-1.png)
 
 >[!NOTE]
 >
