@@ -4,7 +4,7 @@ description: 從試算表將成員匯入程式 — Marketo檔案 — 產品檔�
 title: 從試算表將成員匯入程式
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -23,35 +23,35 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >將日期匯入日期欄位時，請使用此格式：9/29/13 （月/日/年）。
+   >將日期匯入日期欄位時，請使用此格式：9/29/24 （月/日/年）。
 
 ## 將您的CSV匯入Marketo {#import-your-csv-into-marketo}
 
-1. 在您的程式中，前往 **成員** 區段。
+1. 在您的程式中，前往 **[!UICONTROL 成員]** 區段。
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. 按一下 **匯入成員**.
+1. 按一下 **[!UICONTROL 匯入成員]**.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. 選取CSV並按一下 **下一個**.
+1. 選取CSV並按一下 **[!UICONTROL 下一個]**.
 
    ![](assets/importlist1.png)
 
-1. 將清單中的資料值對應至其對應的Marketo欄位，然後按一下 **下一個**.
+1. 將清單中的資料值對應至其對應的Marketo欄位，然後按一下 **[!UICONTROL 下一個]**.
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >如果有任何您不想匯入的欄位，請選取 **忽略** 「Marketo欄位」下拉式功能表中的。
+   >如果有任何您不想匯入的欄位，請選取 **[!UICONTROL 忽略]** 「Marketo欄位」下拉式功能表中的。
 
-1. 選取 **成員狀態** 以取得您的清單。
+1. 選取 **[!UICONTROL 成員狀態]** 以取得您的清單。
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. 按一下 **匯入**.
+1. 按一下 **[!UICONTROL 匯入]**.
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 
@@ -65,4 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[管理和檢視成員](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
+>[管理和檢視成員](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}

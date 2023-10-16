@@ -4,7 +4,7 @@ description: 管理和檢視成員 — Marketo檔案 — 產品檔案
 title: 管理和檢視成員
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->深入探討 [方案會籍](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+>深入探討 [方案會籍](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
 
 ## 搜尋成員 {#search-for-a-member}
 
 在「成員」區段底部，使用搜尋欄位，依名稱、電子郵件、職稱或公司來搜尋方案成員。
 
-1. 按一下 **成員** 的索引標籤中。
+1. 按一下 **[!UICONTROL 成員]** 的索引標籤中。
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -49,21 +49,21 @@ ht-degree: 0%
 
 ## 選擇要在格線中顯示的欄 {#choose-which-columns-are-visible-in-the-grid}
 
-1. 按一下 **檢視** 下拉式清單並選取 **建立檢視**.
+1. 按一下 **[!UICONTROL 檢視]** 下拉式清單並選取 **[!UICONTROL 建立檢視]**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. 為自訂檢視命名。 選取欄標題。 按一下 **新增** 和 **移除** 以移動欄並建立檢視。
+1. 為自訂檢視命名。 選取欄標題。 按一下 **[!UICONTROL 新增]** 和 **[!UICONTROL 移除]** 以移動欄並建立檢視。
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. 按一下 **建立**。
+1. 按一下 **[!UICONTROL 建立]**。
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
 ## 篩選成員網格  {#filter-the-members-grid}
 
-1. 按一下 **篩選** 下拉式清單，並選取排序依據的進度步驟。
+1. 按一下 **[!UICONTROL 篩選]** 下拉式清單，並選取排序依據的進度步驟。
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +71,11 @@ ht-degree: 0%
 
 您可以在成員網格內變更人員的狀態。
 
-1. 按住 **Ctrl/Cmd** 並選取人員。
+1. 按住 **[!UICONTROL Ctrl/Cmd]** 並選取人員。
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. 按一下 **變更狀態** 下拉式清單，然後選取狀態。
+1. 按一下 **[!UICONTROL 變更狀態]** 下拉式清單，然後選取狀態。
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
@@ -87,4 +87,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[建立方案效能報表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
+>[建立方案效能報表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

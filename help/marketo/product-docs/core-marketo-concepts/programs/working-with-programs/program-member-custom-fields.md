@@ -4,7 +4,7 @@ description: 程式成員自訂欄位 — Marketo檔案 — 產品檔案
 title: 方案成員自訂欄位
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 1%
@@ -17,15 +17,15 @@ ht-degree: 1%
 
 ## 建立方案成員自訂欄位 {#create-a-program-member-custom-field}
 
-1. 在Marketo中，按一下 **管理員**.
+1. 在Marketo中，按一下 **[!UICONTROL 管理員]**.
 
    ![](assets/one.png)
 
-1. 按一下 **欄位管理**.
+1. 按一下 **[!UICONTROL 欄位管理]**.
 
    ![](assets/two.png)
 
-1. 按一下 **新增自訂欄位**.
+1. 按一下 **[!UICONTROL 新增自訂欄位]**.
 
    ![](assets/three.png)
 
@@ -37,7 +37,7 @@ ht-degree: 1%
    >
    >「人員」和「方案成員」自訂欄位不能共用相同的名稱。
 
-1. 填寫其餘欄位，然後按一下 **建立**.
+1. 填寫其餘欄位，然後按一下 **[!UICONTROL 建立]**.
 
    ![](assets/five.png)
 

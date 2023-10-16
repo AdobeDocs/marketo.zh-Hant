@@ -4,7 +4,7 @@ description: 帳戶分數 — Marketo檔案 — 產品檔案
 title: 帳戶分數
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 1. 按一下 **管理員**.
 
-   ![](assets/one-1.png)
+   ![](assets/account-score-1.png)
 
 1. 按一下 **目標帳戶管理**.
 
@@ -75,12 +75,12 @@ ht-degree: 0%
 
 1. 輸入帳戶分數名稱，按一下 **選取個人分數** 下拉式清單，並選取對應的分數。
 
-   ![](assets/four.png)
+   ![](assets/account-score-4.png)
 
 1. 按一下 **+新增** 以新增更多分數。
 
-   ![](assets/five.png)
+   ![](assets/account-score-5.png)
 
 1. 新增所有想要的分數。 按一下 **儲存** 完成時。
 
-   ![](assets/six.png)
+   ![](assets/account-score-6.png)

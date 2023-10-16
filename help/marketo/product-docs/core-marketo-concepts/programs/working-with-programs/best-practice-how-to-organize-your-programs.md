@@ -4,10 +4,10 @@ description: 最佳實務 — 如何組織您的程式 — Marketo檔案 — 產
 title: 最佳實務 — 如何組織您的計畫
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '843'
-ht-degree: 0%
+source-wordcount: '844'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->一天，（等您升職後！） 其他人將嘗試瞭解您的程式。 良好的組織能協助他們迅速提高生產力。
+>總有一天（晉升後！），其他人會嘗試幫您瞭解計畫。 良好的組織能協助他們迅速提高生產力。
 
 ## 資料夾 {#folders}
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 >      * 商展
 >      * 網路研討會
 >   * 電子報
->   * Nurture
+>   * 培養
 >   * 網頁內容
 >   * 網路表單
 >* 學習
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->「封存」資料夾是一種特殊型別的資料夾，旨在從選取的清單以及報告中移除專案。 這有助於您的系統更快速地執行。 瞭解 [關於資料夾的更多資訊](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
+>「封存」資料夾是一種特殊型別的資料夾，旨在從選取的清單以及報告中移除專案。 這有助於您的系統更快速地執行。 瞭解 [關於資料夾的更多資訊](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
 
 您當然可以視需要新增更多資料夾。 請記住，公司中未來幾代行銷人員將會接受您命名或組織事情的決定。
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 >1. NL 2015-06電子報
 >1. WBN 2015-12-01網路研討會主題，請前往
 
-計畫名稱在您的訂閱中必須是唯一的，即使在不同名稱中也是如此 [工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  對於方案內的本機資產，規則為 **保持名稱簡單**. 只需將邀請命名為「邀請」，而非「2015年6月網路研討會邀請」。 因為這些是在程式中，當從其他位置選擇父程式時，父程式會自動成為名稱的一部分。 換言之，本機資產在程式內只需是唯一的。 您可以有數百個名為「邀請」的資產，每個資產位於不同的程式中，這樣就不會麻煩你了。
+計畫名稱在您的訂閱中必須是唯一的，即使在不同名稱中也是如此 [工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  對於方案內的本機資產，規則為 **保持名稱簡單**. 只需將邀請命名為「邀請」，而非「2015年6月網路研討會邀請」。 因為這些是在程式中，當從其他位置選擇父程式時，父程式會自動成為名稱的一部分。 換言之，本機資產在程式內只需是唯一的。 您可以有數百個名為「邀請」的資產，每個資產位於不同的程式中，這樣就不會麻煩你了。
 
 ## Token {#tokens}
 
@@ -97,7 +97,7 @@ Token會將資料夾和程式當作工具，用來設定供登陸頁面、電子
 
 ## 參與計畫 {#engagement-programs}
 
-瞭解 [關於參與計畫](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). 組織參與計畫的最佳方式是使用資料夾。 為每個資料流建立一個資料夾，然後將電子郵件或程式放入該資料夾中。 內容過時且您想要移除時，請在每個資料流中加入封存資料夾。
+瞭解 [關於參與計畫](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. 組織參與計畫的最佳方式是使用資料夾。 為每個資料流建立一個資料夾，然後將電子郵件或程式放入該資料夾中。 內容過時且您想要移除時，請在每個資料流中加入封存資料夾。
 
 ## 操作程式 {#operational-programs}
 
@@ -121,4 +121,4 @@ Marketo最酷的功能之一是復製程式。 這表示您可以設定方案「
 
 ## 摘要 {#summary}
 
-如您所見，Marketo可提供強大的功能。 我們在此介紹基本知識，但請考量以下內容 [Marketo專家的其他服務](https://www.marketo.com/services/) 微調並設定自己以取得成功。
+如您所見，Marketo可提供強大的功能。 我們在此介紹基本內容，但考量來自的其他服務 [Marketo Engage專家](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} 進行微調並為成功做好準備。

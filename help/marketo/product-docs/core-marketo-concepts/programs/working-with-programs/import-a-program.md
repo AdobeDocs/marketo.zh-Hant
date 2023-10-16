@@ -4,7 +4,7 @@ description: 匯入計畫 — Marketo檔案 — 產品檔案
 title: 匯入計畫
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 797ae74a76674a0ad2b05ff22cd1c084068299fd
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 0%
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 匯入方案 {#importing-a-program}
 
-1. 前往 **行銷活動**.
+1. 前往 **[!UICONTROL 行銷活動]**.
 
    ![](assets/import-a-program-1.png)
 
-1. 按一下 **新增** 下拉式清單並選取 **匯入計畫**.
+1. 按一下 **[!UICONTROL 新增]** 下拉式清單並選取 **[!UICONTROL 匯入計畫]**.
 
    ![](assets/import-a-program-2.png)
 
@@ -31,19 +31,19 @@ ht-degree: 0%
    >
    >若要將沙箱帳戶連線至您的即時訂閱，請連絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. 選取Marketo **訂閱** 以及要匯入的方案。 按一下&#x200B;**下一步**。
+1. 選取Marketo **[!UICONTROL 訂閱]** 以及要匯入的方案。 按一下&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/import-a-program-3.png)
 
-1. 指定 **行銷活動資料夾** 適用於匯入的方案。 按一下 **下一個。**
+1. 指定 **[!UICONTROL 行銷活動資料夾]** 適用於匯入的方案。 按一下&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
-   >確定 **使用預設衝突** 已選取規則。 當您將方案匯入具有相同名稱資產的執行個體時，需要使用衝突規則。
+   >確定 **[!UICONTROL 使用預設衝突]** 已選取規則。 當您將方案匯入具有相同名稱資產的執行個體時，需要使用衝突規則。
 
-1. 選擇您需要的衝突詳細資料，然後按一下 **下一個**.
+1. 選擇您需要的衝突詳細資料，然後按一下 **[!UICONTROL 下一個]**.
 
    ![](assets/import-a-program-5.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >將使用「自訂流程步驟」或「智慧列示」規則（衍生自「流程步驟服務」）的程式匯入目的地執行處理（其中有一個以上的相容服務提供者），將會提示匯入使用者將步驟或規則指派給目的地執行處理中的正確服務提供者。
 
-1. 預覽詳細資料和 **匯入** 程式。
+1. 預覽詳細資料和 **[!UICONTROL 匯入]** 程式。
 
    ![](assets/import-a-program-6.png)
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->影像型別我的權杖不支援程式匯入。 如果我的權杖有影像型別的程式已匯入， **否** Token將通過。
+>影像型別我的權杖不支援程式匯入。 如果我的權杖有影像型別的程式已匯入， _否_ Token將通過。
 
 **程式標籤：** 您可以使用衝突規則來控制如何處理目的地帳戶中不存在的程式標籤。 使用預設規則將會建立程式標籤，或者您可以選擇忽略標籤。
 

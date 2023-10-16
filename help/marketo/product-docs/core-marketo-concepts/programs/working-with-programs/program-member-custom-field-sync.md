@@ -3,10 +3,10 @@ description: 程式成員自訂欄位同步 — Marketo檔案 — 產品檔案
 title: 程式成員自訂欄位同步
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 5%
+source-wordcount: '353'
+ht-degree: 6%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 5%
 
 ## 將Salesforce欄位對應到方案成員自訂欄位 {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. 在Marketo中，按一下 **管理員**.
+1. 在Marketo中，按一下 **[!UICONTROL 管理員]**.
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. 按一下 **Salesforce**，然後按一下 **編輯** 「程式成員自訂欄位同步」旁。
+1. 按一下 **[!DNL Salesforce]**，然後按一下 **[!UICONTROL 編輯]** 「程式成員自訂欄位同步」旁。
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -49,7 +49,7 @@ ht-degree: 5%
 
 1. 如需其他欄位對應，請清除搜尋方塊並重複步驟3到5。
 
-1. 按一下 **儲存** 完成時。
+1. 按一下 **[!UICONTROL 儲存]** 完成時。
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -65,11 +65,11 @@ ht-degree: 5%
 
 如果您想釋放欄位來取代它，或只是進行一般變更，則必須先執行取消對應。 方法如下。
 
-1. 在Marketo中，按一下 **管理員**.
+1. 在Marketo中，按一下 **[!UICONTROL 管理員]**.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. 按一下 **Salesforce**，然後按一下 **編輯** 「程式成員自訂欄位同步」旁。
+1. 按一下 **[!DNL Salesforce]**，然後按一下 **[!UICONTROL 編輯]** 「程式成員自訂欄位同步」旁。
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,13 +79,13 @@ ht-degree: 5%
 
    >[!TIP]
    >
-   >您可以選取 **已對應** 核取方塊，只檢視對應的欄位。
+   >您可以選取 **[!UICONTROL 已對應]** 核取方塊，只檢視對應的欄位。
 
 1. 按一下 **X** 欄位旁。
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. 對應現已移除。 按一下 **儲存**.
+1. 對應現已移除。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/program-member-custom-field-sync-11.png)
 
