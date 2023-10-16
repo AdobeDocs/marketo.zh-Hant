@@ -4,9 +4,9 @@ description: 智慧列示的最佳實務 — Marketo檔案 — 產品檔案
 title: 智慧列示的最佳作法
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 0e68da238100f3816c2e64e1fbe4a5a2892bb3e1
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '573'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**每個客戶各有不同。** 資料庫越大，處理作業就越多。 您儲存的活動越多，搜尋所需的時間就越長。
+>**每個Marketo Engage使用者都不一樣。** 資料庫越大，處理作業就越多。 您儲存的活動越多，搜尋所需的時間就越長。
 >
 >如果您遇到速度變慢的問題，請嘗試下列提示。 如果問題仍然存在，請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. **限制歷史記錄 —** 歷史篩選器（又稱為活動篩選器）是資源密集度最高、最耗時的作業之一。 如果您必須使用它們，請嘗試將日期範圍限制在儘可能短的時間，以減少可搜尋的資料集。 此外，日期範圍不會取代保留期間。 例如：如果您查詢的活動具有90天的保留期間，而您選擇「過去100天」，則只會傳回過去90天的結果。 活動保留期 [可在此處找到](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}.
-1. **限制巢狀智慧列示 —** 建立新智慧列示時，請限制使用的「智慧列示成員」篩選器數量。 這稱為巢狀智慧清單，而參照的每個智慧清單都會增加處理時間。 請改為參考靜態清單或利用 [細分](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md){target="_blank"}.
+1. **限制巢狀智慧列示 —** 建立新的智慧列示時，請限制使用的「智慧列示成員」篩選器數量。 這稱為巢狀智慧清單，而參照的每個智慧清單都會增加處理時間。 請改為參考靜態清單或利用 [細分](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md){target="_blank"}.
 1. **使用正運運算元而非負運運算元 —** 雖然「非」篩選器可供使用，但篩選器必須搜尋您執行個體中的整個資料集，這可能非常耗時。 正面的「is」篩選器能夠運用更有效的搜尋演演算法。
 1. **避免「包含」 —** 如果您只有部分資料，則「開頭為」限定詞產生的結果會比「包含」快很多。 「是」的執行速度會更快。 請避免使用含有多個值的「包含」，因為兩個值合併在一起可能會進一步減慢行銷活動的速度。
 1. **自行使用隨機抽樣 —** 「隨機抽樣」是一種特殊的篩選器。 單獨使用它可將您的人員放入預先製作的清單中。 然後只需使用「清單成員」讓您的智慧清單超快。 隨機取樣會 **NOT** 使用巢狀智慧列示。 如果隨機範例篩選器是為「智慧清單成員」篩選器所參照的智慧清單，則該篩選器將無法運作。
@@ -36,4 +36,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Marketo Engage的使用方式有很多種，某些技巧對您和您的企業更好。 如果您想要獲得最大投資效益的協助，請聯絡您的Adobe Professional Services銷售代表。
+>Marketo Engage的使用方式有很多種，某些技巧對您和您的企業更好。 如果您想要獲得協助，請聯絡您的Adobe Professional Services銷售代表，以充分利用您的投資。
