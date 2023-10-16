@@ -4,7 +4,7 @@ description: 變更人員分割 — Marketo檔案 — 產品檔案
 title: 變更人員分割
 exl-id: 7b2e0de0-2b49-4f7c-b4d5-47e1a16eb98d
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 4%
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 ## 概觀 {#overview}
 
-如果您使用 [工作區與分割區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)，您會想要建立智慧型行銷活動，將人員從一個分割區移至另一個分割區。
+如果您使用 [工作區與分割區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}，您會想要建立智慧型行銷活動，將人員從一個分割區移至另一個分割區。
 
 ![](assets/one-3.png)
 

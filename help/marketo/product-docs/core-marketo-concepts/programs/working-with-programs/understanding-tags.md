@@ -4,16 +4,16 @@ description: 瞭解標籤 — Marketo檔案 — 產品檔案
 title: 瞭解標籤
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 2%
 
 ---
 
 # 瞭解標籤 {#understanding-tags}
 
-您可能現在已經知道程式就像Marketo中的建置組塊。 利用標籤和管道可協助您篩選資料以用於報表用途。
+您可能現在已經知道程式就像Marketo Engage中的建置組塊。 利用標籤和管道可協助您篩選資料以用於報表用途。
 
 標籤是用來說明程式。 您可以視需要製作任意數量的元件，每個元件都具有唯一值。 管道會識別方案中的傳送機制，例如網路研討會、贊助或線上廣告。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->與您的 [Marketo管理員](/help/marketo/product-docs/administration/tags/create-custom-tags.md) 如果您想要建立自訂標籤。
+>如果您想要建立「 」，請洽詢Marketo管理員 [自訂標籤](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 管道 {#channel}
 
-管道是用來報告您的 [成員](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) 已移動至您的程式。 每個管道都有一組進度狀態，以及一個設定為等於成功的狀態。
+管道是用來報告您的 [成員](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} 已移動至您的程式。 每個管道都有一組進度狀態，以及一個設定為等於成功的狀態。
 
 >[!NOTE]
 >
@@ -61,5 +61,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [建立自訂標籤](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
->* [建立方案頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
+>* [建立自訂標籤](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
+>* [建立方案頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}

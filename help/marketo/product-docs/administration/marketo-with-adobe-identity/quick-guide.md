@@ -3,7 +3,7 @@ description: 快速指南 — Marketo檔案 — 產品檔案
 title: 快速指南
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -46,4 +46,4 @@ ht-degree: 0%
 
 ## 常見問題集 {#faq}
 
-[常見問題](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#faq){target="_blank"}
+[常見問題](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}

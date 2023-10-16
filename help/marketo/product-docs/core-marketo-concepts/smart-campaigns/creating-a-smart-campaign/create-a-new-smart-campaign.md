@@ -4,9 +4,9 @@ description: 建立新的Smart Campaign - Marketo檔案 — 產品檔案
 title: 建立新的Smart Campaign
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >進一步瞭解 [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
-1. 前往 **行銷活動**.
+1. 前往 **[!UICONTROL 行銷活動]**.
 
    ![](assets/create-a-new-smart-campaign-1.png)
 
-1. 以滑鼠右鍵按一下所需的程式，然後選取 **新增智慧型行銷活動**.
+1. 以滑鼠右鍵按一下所需的程式，然後選取 **[!UICONTROL 新增智慧型行銷活動]**.
 
    ![](assets/create-a-new-smart-campaign-2.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >您可以建立Smart Campaigns作為任何計畫的本機資產。
 
-1. 輸入智慧行銷活動名稱，然後按一下 **建立**.
+1. 輸入智慧行銷活動名稱，然後按一下 **[!UICONTROL 建立]**.
 
    ![](assets/create-a-new-smart-campaign-3.png)
 

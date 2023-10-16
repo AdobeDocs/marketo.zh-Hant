@@ -4,7 +4,7 @@ description: 智慧行銷活動檢查清單 — Marketo檔案 — 產品檔案
 title: 智慧行銷活動檢查清單
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 移除智慧清單錯誤 {#get-rid-of-smart-list-errors}
 
-在Smart Campaign中，按一下 **智慧清單**. 修正錯誤，移除您所看到的任何紅色直線。
+在Smart Campaign中，按一下 **[!UICONTROL 智慧清單]**. 修正錯誤，移除您所看到的任何紅色直線。
 
 ![](assets/smart-campaign-checklist-1.png)
 
@@ -25,15 +25,15 @@ ht-degree: 0%
 >
 >紅色曲線表示錯誤或遺失資訊。 如果未更正，此行銷活動將會無效且無法執行。
 >
->另外， **保持簡單**. 如果您有數十或數百個篩選器，就很難維持和追蹤。 數量越少，載入的速度就越快。
+>此外，請保持簡單。 如果您有數十或數百個篩選器，就很難維持和追蹤。 數量越少，載入的速度就越快。
 
 >[!NOTE]
 >
->使用 **智慧清單的成員** 該其他清單中可能有錯誤。 也請檢查。
+>使用 **[!UICONTROL 智慧清單的成員]** 該其他清單中可能有錯誤。 也請檢查。
 
 ## 移除流量錯誤 {#get-rid-of-flow-errors}
 
-在Smart Campaign中，按一下 **流量**. 修正錯誤，移除您所看到的任何紅色直線。
+在Smart Campaign中，按一下 **[!UICONTROL 流量]**. 修正錯誤，移除您所看到的任何紅色直線。
 
 ![](assets/smart-campaign-checklist-2.png)
 
@@ -43,13 +43,13 @@ ht-degree: 0%
 
 ## 檢閱「排程」標籤 {#review-the-schedule-tab}
 
-在 **排程** 索引標籤，核取 **Smart** **清單** **狀態** Smart Campaign中需要修正的任何錯誤。
+在 **[!UICONTROL 排程]** 索引標籤，核取 **[!UICONTROL 智慧清單狀態]** Smart Campaign中需要修正的任何錯誤。
 
 ![](assets/smart-campaign-checklist-3.png)
 
 ## 檢查人員限制限制 {#check-person-restrictions-limit}
 
-在 **排程** 索引標籤上，確定符合資格的人數沒有超過人員限制限制。
+在 **[!UICONTROL 排程]** 索引標籤上，確定符合資格的人數沒有超過人員限制限制。
 
 ![](assets/smart-campaign-checklist-4.png)
 

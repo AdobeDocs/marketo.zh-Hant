@@ -4,9 +4,9 @@ description: 刪除人員 — Marketo檔案 — 產品檔案
 title: 刪除人員
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ## 概觀 {#overview}
 
-在智慧行銷活動中使用流量步驟。
+在Smart Campaign中使用流量步驟。
 
 ![](assets/one-4.png)
 
@@ -31,10 +31,10 @@ ht-degree: 1%
 
 ![](assets/two-4.png)
 
-您可以從Marketo中刪除，但無法從CRM中刪除，如下所示：
+您可以從Marketo Engage中刪除，但無法從CRM中刪除，如下所示：
 
 ![](assets/three-3.png)
 
 >[!NOTE]
 >
->從您的CRM移除此人 **僅適用於Salesforce**. 如果您從Marketo中刪除人員並選擇將他們保留在Salesforce中，則當他們的Salesforce記錄更新時，將在Marketo中重新建立他們。
+>從您的CRM移除此人 _僅適用於[!DNL Salesforce]_. 如果您從Marketo刪除人員並選擇將其保留 [!DNL Salesforce]，如果符合以下條件，將在Marketo中重新建立這些區段： [!DNL Salesforce] 記錄會隨時更新。

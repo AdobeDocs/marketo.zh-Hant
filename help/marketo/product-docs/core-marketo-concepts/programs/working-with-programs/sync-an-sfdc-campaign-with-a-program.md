@@ -4,9 +4,9 @@ description: 將SFDC促銷活動與程式同步 — Marketo檔案 — 產品檔�
 title: 將SFDC促銷活動與程式同步
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo Engage可讓您同步處理程式 [!DNL Salesforce] 維護兩個系統�
 
 >[!PREREQUISITES]
 >
->您將需要 [啟用 [!DNL Salesforce] 行銷活動同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) 第一。
+>您將需要 [啟用 [!DNL Salesforce] 行銷活動同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} 第一。
 
 >[!CAUTION]
 >
@@ -35,11 +35,11 @@ Marketo Engage可讓您同步處理程式 [!DNL Salesforce] 維護兩個系統�
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. 選取 **[!UICONTROL 新建]** 或選擇現有的Salesforce行銷活動。
+1. 選取 **[!UICONTROL 新建]** 或選擇現有的 [!DNL Salesforce] 行銷活動。
 
    >[!TIP]
    >
-   >如果您選取現有的Salesforce行銷活動，請確定 [比對Salesforce行銷活動和Marketo方案的方案狀態](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+   >如果您選取現有的 [!DNL Salesforce] 行銷活動，請確定 [與的程式狀態相符 [!DNL Salesforce] 行銷活動與Marketo計畫](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
 
 1. 輸入新行銷活動的名稱，然後按一下 **[!UICONTROL 儲存]**.
 
