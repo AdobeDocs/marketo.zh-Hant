@@ -4,7 +4,7 @@ description: 移動Smart Campaign - Marketo檔案 — 產品檔案
 title: 移動智慧型行銷活動
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # 移動智慧型行銷活動 {#move-a-smart-campaign}
 
-使用拖放或樹狀結構中的移動功能，在不同程式或資料夾之間移動智慧型行銷活動。 您的智慧型行銷活動的規則不會變更，只會巢狀內嵌在不同位置。
+使用拖放或樹狀結構中的移動功能，在不同程式或資料夾之間移動Smart Campaign。 您的Smart Campaign規則不會變更，只會巢狀內嵌在不同位置。
 
 >[!CAUTION]
 >
->由於規則不會變更，因此如果行銷活動的「智慧列示」或「流程步驟」參考原始方案，您必須手動更新該資訊，以反映其新方案（如預期的那樣） **非** 自動更新。
+>由於規則不會變更，因此如果行銷活動的「智慧列示」或「流程步驟」參考原始方案，您必須手動更新該資訊，以反映其新方案（如預期的那樣） _非_ 自動更新。
 
-1. 前往 **行銷活動**.
+1. 前往 **[!UICONTROL 行銷活動]**.
 
    ![](assets/move-a-smart-campaign-1.png)
 
-1. 找到您要移動的Smart Campaign，用滑鼠右鍵按一下並選取 **移動**.
+1. 找到您要移動的Smart Campaign，用滑鼠右鍵按一下並選取 **[!UICONTROL 移動]**.
 
    ![](assets/move-a-smart-campaign-2.png)
 
-1. 選取 **至** （目的地）， **計畫**，和選填 **資料夾**. 選取 **移動**.
+1. 選取 **[!UICONTROL 至]** （目的地）， **[!UICONTROL 計畫]**，和選填 **[!UICONTROL 資料夾]**. 選取 **[!UICONTROL 移動]**.
 
    ![](assets/move-a-smart-campaign-3.png)
 

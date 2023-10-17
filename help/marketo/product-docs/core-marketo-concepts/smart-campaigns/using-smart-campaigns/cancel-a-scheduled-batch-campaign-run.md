@@ -4,7 +4,7 @@ description: 取消已排程的批次行銷活動執行 — Marketo檔案 — �
 title: 取消排定的批次行銷活動執行
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 如果您已排程其中一個批次行銷活動的執行，並且想要取消它，則請依照以下說明進行。
 
-1. 選取行銷活動，並前往 **排程** 標籤。
+1. 選取行銷活動，並前往 **[!UICONTROL 排程]** 標籤。
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. 按一下「 」以確認取消 **確定**.
+1. 按一下「 」以確認取消 **[!UICONTROL 確定]**.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-3.png)
 

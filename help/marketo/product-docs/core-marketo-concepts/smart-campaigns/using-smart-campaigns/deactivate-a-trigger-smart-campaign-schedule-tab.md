@@ -4,7 +4,7 @@ description: 停用觸發智慧型行銷活動 |排程標籤 — Marketo檔案 �
 title: 停用觸發智慧型行銷活動 |排程標籤
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -19,14 +19,14 @@ ht-degree: 0%
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 
-1. 在「排程」標籤下，按一下 **停用**.
+1. 在「排程」標籤下，按一下 **[!UICONTROL 停用]**.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
-1. 按一下以確認 **停用**.
+1. 按一下以確認 **[!UICONTROL 停用]**.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-3.png)
 
 >[!NOTE]
 >
->這將停止 *新* 人員無法進入流程，但處於等候步驟或任何其他流程步驟的人員將繼續在流程中移動，直到完成為止。
+>這將停止 _新_ 人員無法進入流程，但處於等候步驟或任何其他流程步驟的人員將繼續在流程中移動，直到完成為止。
