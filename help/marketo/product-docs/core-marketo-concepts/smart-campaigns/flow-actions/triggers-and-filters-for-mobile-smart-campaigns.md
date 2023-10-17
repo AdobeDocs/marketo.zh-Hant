@@ -4,18 +4,18 @@ description: Mobile Smart Campaigns的觸發器和篩選器 — Marketo檔案 �
 title: 行動智慧型行銷活動的觸發器和篩選器
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '823'
+source-wordcount: '820'
 ht-degree: 0%
 
 ---
 
 # 行動智慧型行銷活動的觸發器和篩選器 {#triggers-and-filters-for-mobile-smart-campaigns}
 
-您可以為行動應用程式智慧行銷活動設定觸發器和篩選器。
+您可以為行動應用程式Smart Campaign設定觸發器和篩選器。
 
-對於大多數活動，都有觸發器、篩選器和非使用狀態篩選器。 使用非活動篩選器追蹤動作，例如點選推播通知，可 *沒有* 發生。
+對於大多數活動，都有觸發器、篩選器和非使用狀態篩選器。 使用非活動篩選器追蹤動作，例如點選推播通知，可 _沒有_ 發生。
 
 * 行動應用程式已安裝
 * 行動應用程式已開啟
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 * 已傳送推播通知 — 篩選和非活動篩選
 
-搜尋 **行動應用程式** 在右側面板中，列出所有行動應用程式觸發器和篩選器。
+在右側面板中搜尋「行動應用程式」，以列出所有行動應用程式觸發器和篩選器。
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 有/曾經有行動應用程式活動
 
-這些提供強大的方式可追蹤自訂行動活動。 您必須與開發人員合作才能設定追蹤 [適用於Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) 和 [適用於iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+這些提供強大的方式可追蹤自訂行動活動。 您必須與開發人員合作才能設定追蹤 [適用於Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android){target="_blank"} and [for iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios){target="_blank"}.
 
 * 具有行動應用程式活動 — 觸發器
 
@@ -192,5 +192,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [新增限制至智慧清單篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [在智慧清單中使用非使用中篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [新增限制至智慧清單篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [在智慧清單中使用非使用中篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

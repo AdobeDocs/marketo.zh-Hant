@@ -4,7 +4,7 @@ description: 在Microsoft中變更擁有者 — Marketo檔案 — 產品檔案
 title: 在Microsoft中變更擁有者
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->此流程步驟將 **只有在搭配觸發器使用時才有效**，而非篩選器。
+>此流程步驟將 _只有在搭配觸發器使用時才有效_，而非篩選器。
 
 ![](assets/one-1.png)
 

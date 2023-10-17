@@ -4,7 +4,7 @@ description: 傳送電子郵件 — Marketo檔案 — 產品檔案
 title: 傳送電子郵件
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 2%
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 ## 概觀 {#overview}
 
-此 **傳送電子郵件** 流量步驟可以做為行銷活動的一部分，或作為單一流量步驟使用，以傳送電子郵件給您的朋友。
+「[!UICONTROL 傳送電子郵件]「流量步驟可以做為行銷活動的一部分，或作為傳送電子郵件給您的人員的單一流量步驟。
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 

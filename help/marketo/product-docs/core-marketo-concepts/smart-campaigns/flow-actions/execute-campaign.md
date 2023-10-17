@@ -3,7 +3,7 @@ description: 執行行銷活動 — Marketo檔案 — 產品檔案
 title: 執行行銷活動
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 0%
@@ -32,17 +32,17 @@ ht-degree: 0%
 
 ## 如何建立可執行的行銷活動 {#how-to-create-an-executable-campaign}
 
-1. 以滑鼠右鍵按一下所需的程式，然後選取 **新增智慧型行銷活動**.
+1. 以滑鼠右鍵按一下所需的程式，然後選取 **[!UICONTROL 新增智慧型行銷活動]**.
 
    ![](assets/execute-campaign-1.png)
 
-1. 為其命名，選取 **可執行檔** 核取方塊，然後按一下 **建立**.
+1. 為其命名，選取 **[!UICONTROL 可執行檔]** 核取方塊，然後按一下 **[!UICONTROL 建立]**.
 
    ![](assets/execute-campaign-2.png)
 
 1. 定義智慧列示和流量，就像任何其他Smart Campaign。
 
-您也可以複製現有的Smart Campaign。 如果您複製現有的可執行檔行銷活動，您還是必須選取 **可執行檔** 核取方塊。
+您也可以複製現有的Smart Campaign。 如果您複製現有的可執行檔行銷活動，您還是必須選取 **[!UICONTROL 可執行檔]** 核取方塊。
 
 >[!NOTE]
 >
@@ -73,11 +73,11 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->切勿讓可執行行銷活動的智慧清單無效，否則 **沒有人** 將符合資格。 最佳實務建議建立個別的智慧清單資產、完整定義資產，並確保其有效。 然後，使用可執行促銷活動中的「智慧列示成員」篩選器，以交換智慧列示定義。
+>切勿讓可執行行銷活動的智慧清單無效，否則 _沒有人_ 將符合資格。 最佳實務建議建立個別的智慧清單資產、完整定義資產，並確保其有效。 然後，使用可執行促銷活動中的「智慧列示成員」篩選器，以交換智慧列示定義。
 
 ## 權杖繼承範例 {#token-inheritance-example}
 
-以下是一個可執行行銷活動和兩個父行銷活動中的權杖繼承的視覺範例：一個將權杖上下文設為 **真**，其他則傳送至 **假**.
+以下是一個可執行行銷活動和兩個父行銷活動中的權杖繼承的視覺範例：一個將權杖上下文設為 **[!UICONTROL 真]**，其他則傳送至 **[!UICONTROL 假]**.
 
 具有代碼化變更分數的子行銷活動。
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
 ![](assets/execute-campaign-4.png)
 
-**範例一 — True**
+### 範例一 — True {#example-one-true}
 
 在第一個父級促銷活動的「執行促銷活動」流程步驟中，「使用父級促銷活動代號內容」會設為 **真**.
 
@@ -101,7 +101,7 @@ ht-degree: 0%
 
 ![](assets/execute-campaign-7.png)
 
-**範例二：False**
+### 範例二：False {#example-two-false}
 
 在第二個父級促銷活動的「執行促銷活動」流程步驟中，「使用父級促銷活動代號內容」會設為 **假**.
 

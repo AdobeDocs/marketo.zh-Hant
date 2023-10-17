@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 除了從「智慧清單」內執行單一流程動作外，您也可以直接在「人員詳細資料」頁面上執行。
 
-1. 按一下 **資料庫**.
+1. 按一下 **[!UICONTROL 資料庫]**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -24,14 +24,14 @@ ht-degree: 0%
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. 按一下 **個人動作** 下拉式清單，並選取您選取的流程步驟。 在此範例中，我們將使用 [傳送電子郵件](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
+1. 按一下 **[!UICONTROL 個人動作]** 下拉式清單，並選取您選取的流程步驟。 在此範例中，我們將使用 [傳送電子郵件](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
-1. 選取所需的電子郵件，然後按一下 **立即執行**.
+1. 選取所需的電子郵件，然後按一下 **[!UICONTROL 立即執行]**.
 
    ![](assets/single-flow-actions-from-person-detail-page-4.png)
 
 >[!NOTE]
 >
->如果您的執行個體包含工作區/分割區，而您直接導覽至人員詳細資料頁面（即透過連結），而非來自繫結至工作區的頁面/資產，則您也必須在步驟4選擇工作區。
+>如果您的執行個體包含工作區/分割區，而您直接導覽至人員詳細資料頁面（例如，透過連結），而不是從繫結至工作區的頁面/資產導覽，則您也必須在步驟4選擇工作區。

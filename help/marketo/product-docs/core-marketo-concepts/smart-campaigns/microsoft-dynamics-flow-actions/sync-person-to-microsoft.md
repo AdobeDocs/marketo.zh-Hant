@@ -4,16 +4,16 @@ description: 將人員同步至Microsoft - Marketo檔案 — 產品檔案
 title: 將人員同步至Microsoft
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '74'
 ht-degree: 2%
 
 ---
 
 # 將人員同步至Microsoft {#sync-person-to-microsoft}
 
-此功能僅適用於整合Marketo與Microsoft Dynamics的使用者。
+此功能僅適用於將Marketo Engage與整合的使用者。 [!DNL Microsoft Dynamics].
 
 ## 概觀 {#overview}
 
@@ -29,4 +29,4 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->使用「將人員同步至Microsoft」流程動作時（僅適用於觸發促銷活動），系統會在Dynamics中即時建立銷售機會/聯絡人。
+>使用&quot;[!UICONTROL 將人員同步至Microsoft]「流量動作（僅限在「觸發促銷活動」中），潛在客戶/聯絡人會在Dynamics中即時建立。

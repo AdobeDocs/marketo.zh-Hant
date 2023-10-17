@@ -3,9 +3,9 @@ description: 流程步驟服務 — Marketo檔案 — 產品檔案
 title: 流程步驟服務
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1207'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 ## 入門和管理服務 {#onboarding-and-managing-services}
 
-安裝自訂流程步驟需要Marketo中的管理員許可權(**管理Webhook** 在1月21日版本中，在3月11日版本中變更)。 除了安裝URL之外，服務的所有其他方面都可以在完成初始上線後進行編輯，方法是從「服務提供者」格線向下切入服務詳細資訊畫面。
+安裝自訂流程步驟需要Marketo中的管理員許可權。 除了安裝URL之外，服務的所有其他方面都可以在完成初始上線後進行編輯，方法是從「服務提供者」格線向下切入服務詳細資訊畫面。
 
 ## 安裝URL {#installation-url}
 
 若要開始安裝，您必須先取得定義您服務的OpenAPI檔案的URL。 您的服務提供者應能為您提供此專案，且通常會有URL結尾為 `/openapi.json`. 完整的URL類似於 `https://www.example.com/OpenAPI.json`. 有了此URL後，請前往「管理員」區段中的「服務提供者」功能表。
 
-按一下 **下一個** 移至「輸入服務證明資料」段落。
+按一下 **[!UICONTROL 下一個]** 移至「輸入服務證明資料」段落。
 
 ![](assets/flow-step-service-1.png)
 
