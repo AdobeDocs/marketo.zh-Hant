@@ -4,9 +4,9 @@ description: Marketo Engage字彙表 — Marketo檔案 — 產品檔案
 title: Marketo Engage字彙表
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '4176'
+source-wordcount: '4128'
 ht-degree: 1%
 
 ---
@@ -118,10 +118,6 @@ ht-degree: 1%
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->Marketo正在將產品中的黑名單和白名單等辭彙變更為封鎖名單和允許清單。 在此更新中，您可能會在UI和檔案熒幕擷取畫面中看到舊辭彙，並在檔案文字中看到新辭彙。 若有任何混淆，敬請見諒。
 
 ## C {#c}
 

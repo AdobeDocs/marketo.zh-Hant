@@ -4,7 +4,7 @@ description: 新增至參與計畫 — Marketo檔案 — 產品檔案
 title: 新增至參與計畫
 exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 2%
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 ## 概觀 {#overview}
 
-您透過此流程步驟建立的智慧行銷活動將是您參與方案的閘道。
+您透過此流程步驟建立的Smart Campaign將是您參與方案的閘道。
 
 ![](assets/image2014-9-22-14-3a47-3a32.png)
 

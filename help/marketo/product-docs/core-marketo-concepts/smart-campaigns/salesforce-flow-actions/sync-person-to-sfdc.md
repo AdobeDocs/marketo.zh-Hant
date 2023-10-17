@@ -4,26 +4,22 @@ description: 將人員同步至SFDC - Marketo檔案 — 產品檔案
 title: 將人員同步至SFDC
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 1%
+source-wordcount: '131'
+ht-degree: 0%
 
 ---
 
 # 將人員同步至SFDC {#sync-person-to-sfdc}
 
->[!NOTE]
->
->僅在與Salesforce整合時可用。
-
-## 概觀 {#overview}
-
 此流程步驟會將Marketo建立的人員當作銷售機會插入您的Salesforce CRM。
 
 ![](assets/sync-person-to-sfdc.png)
 
-## 使用情況 {#usage}
+>[!NOTE]
+>
+>僅在與Salesforce整合時可用。
 
 1. 依預設，此流程步驟會根據Salesforce自動指定規則指定給潛在客戶擁有者。
 

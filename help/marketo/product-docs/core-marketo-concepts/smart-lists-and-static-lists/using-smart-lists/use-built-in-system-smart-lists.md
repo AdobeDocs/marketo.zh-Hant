@@ -4,9 +4,9 @@ description: 使用內建/系統智慧清單 — Marketo檔案 — 產品檔案
 title: 使用內建/系統智慧清單
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 1%
 # 使用內建/系統智慧清單 {#use-built-in-system-smart-lists}
 
 Marketo有一些非常實用的內建智慧清單。 讓我們看看他們！
-
->[!NOTE]
->
->Marketo正在將產品中的黑名單和白名單等辭彙變更為封鎖名單和允許清單。 在此更新中，您可能會在UI和檔案熒幕擷取畫面中看到舊辭彙，並在檔案文字中看到新辭彙。 若有任何混淆，敬請見諒。
 
 1. 前往 **資料庫**.
 

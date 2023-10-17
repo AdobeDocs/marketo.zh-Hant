@@ -4,9 +4,9 @@ description: 新增至SFDC Campaign - Marketo檔案 — 產品檔案
 title: 新增至SFDC Campaign
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---
@@ -31,14 +31,14 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >如果在Campaign清單中看不到Salesforce行銷活動：
+   >如果在行銷活動清單中看不到Salesforce行銷活動：
    >
-   >  1. 確定 [campaign同步已啟用](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-   >  1. 確認您的 [Marketo同步使用者](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) 是 [行銷使用者](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) （位於Salesforce）。
+   >  1. 確定 [campaign同步已啟用](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}.
+   >  1. 確認您的 [Marketo同步使用者](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} is a [Marketing User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"} （位於Salesforce）。
 
    >[!TIP]
    >
-   >您可以使用Salesforce行銷活動 [我的Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) 讓程式複製更容易。
+   >您可以使用Salesforce行銷活動 [我的Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} 讓程式複製更容易。
 
 1. 選取在新增潛在客戶時，您想要指派的Salesforce促銷活動成員狀態。
 
@@ -46,4 +46,4 @@ ht-degree: 1%
 
    >[!CAUTION]
    >
-   >如果人員已經是Salesforce促銷活動的主要成員，則將略過這些人員且其狀態不會更新。 您可以使用 [變更他們在SFDC行銷活動中的狀態](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md) 而非。
+   >如果人員已經是Salesforce促銷活動的主要成員，則將略過這些人員且其狀態不會更新。 您可以使用 [變更他們在SFDC行銷活動中的狀態](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"} 而非。
