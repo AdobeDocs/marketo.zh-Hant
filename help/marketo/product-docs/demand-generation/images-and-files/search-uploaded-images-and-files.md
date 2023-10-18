@@ -4,22 +4,22 @@ description: 搜尋已上傳的影像和檔案 — Marketo檔案 — 產品檔�
 title: 搜尋已上傳的影像和檔案
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: 929d2eff975c491b29b93cef96a5c59a1f833474
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 # 搜尋已上傳的影像和檔案 {#search-uploaded-images-and-files}
 
-在Marketo中，尋找影像和檔案變得輕而易舉。
+瞭解如何執行影像或檔案的搜尋。
 
-1. 前往 **Design Studio**.
+1. 前往 **[!UICONTROL Design Studio]**.
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. 按一下 **影像和檔案** 以取得所有已上傳檔案的完整清單。
+1. 按一下 **[!UICONTROL 影像和檔案]** 以取得所有已上傳檔案的完整清單。
 
    ![](assets/search-uploaded-images-and-files-2.png)
 

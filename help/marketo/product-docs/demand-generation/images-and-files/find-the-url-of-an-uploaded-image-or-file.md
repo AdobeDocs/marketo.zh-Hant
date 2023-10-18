@@ -4,31 +4,33 @@ description: 尋找已上傳影像或檔案的URL - Marketo檔案 — 產品檔�
 title: 尋找已上傳影像或檔案的URL
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
 # 尋找已上傳影像或檔案的URL {#find-the-url-of-an-uploaded-image-or-file}
 
-正在尋找您所上傳之影像或檔案的網址(URL)？ Marketo為您提供保障。
+正在尋找您所上傳之影像或檔案的網址(URL)？
 
-1. 前往 **Design Studio**.
+1. 前往 **[!UICONTROL Design Studio]**.
 
-   ![](assets/designstudio-4.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
-1. 按一下 **影像和檔案** ，然後選取您想要URL的檔案。
+1. 按一下 **[!UICONTROL 影像和檔案]**.
 
-   ![](assets/image2014-9-25-14-3a47-3a53.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-2.png)
 
-1. 此 **URL** 即會顯示在詳細資訊頁面上。 用滑鼠右鍵按一下 **URL** 並按一下 **複製** 在出現的選單中。
+1. 選取所需的資產。
 
-   ![](assets/image2014-9-25-14-3a48-3a16.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-3.png)
 
-輕輕拍一下自己的後背，看看工作是否幹得漂亮！
+1. 此 **[!UICONTROL URL]** 即會顯示在詳細資訊頁面上。
+
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-4.png)
 
 >[!MORELIKETHIS]
 >
->[取代上傳的影像或檔案](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>[取代上傳的影像或檔案](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
