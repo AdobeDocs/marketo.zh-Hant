@@ -3,7 +3,7 @@ description: 使用者和授權管理 — Marketo檔案 — 產品檔案
 title: 使用者和授權管理
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -67,32 +67,32 @@ ht-degree: 0%
    ![](assets/user-and-license-management-11.png)
 
 <table> 
-  <tr> 
-   <td><b>開始日期</b></td>
+  <tr>
+   <td width="20%"><b>開始日期</b></td>
    <td>授權開始日期。</td>
   </tr>
   <tr> 
-   <td><b>到期日</b></td>
+   <td width="20%"><b>到期日</b></td>
    <td>授權到期日。</td>
   </tr>
   <tr> 
-   <td><b>類型</b></td>
+   <td width="20%"><b>類型</b></td>
    <td>購買的授權型別。 可用的型別有三種：共用事件授權、共用房間授權、其他儲存空間授權。</td>
   </tr>
   <tr> 
-   <td><b>事件容量</b></td>
+   <td width="20%"><b>事件容量</b></td>
    <td>事件中可容納的最大參與者人數。</td>
   </tr>
   <tr> 
-   <td><b>事件總數</b></td>
+   <td width="20%"><b>事件總數</b></td>
    <td>已使用此授權布建的事件總數。</td>
   </tr>
   <tr> 
-   <td><b>使用的事件</b></td>
+   <td width="20%"><b>使用的事件</b></td>
    <td>已完成事件的總數。</td>
   </tr>
   <tr> 
-   <td><b>儲存容量</b></td>
+   <td width="20%"><b>儲存容量</b></td>
    <td>可用於儲存錄製、抵押、hero images、檔案和其他資產的儲存量。</td>
   </tr>
   </tbody>

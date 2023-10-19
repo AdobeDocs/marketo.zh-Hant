@@ -3,9 +3,9 @@ description: 事件工作流程 — Marketo檔案 — 產品檔案
 title: 事件工作流程
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
+>* 互動式網路研討會不會自動錄製。 網路研討會開始後，按一下網路研討會名稱旁的下拉式清單，然後選取「 」 **錄製工作階段**.
 >* 錄製會以MP4格式下載。
 >* 共用錄製時，擁有連結的任何人都可以檢視，因此請確定已和預定對象共用。
 

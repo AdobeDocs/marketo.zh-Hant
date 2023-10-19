@@ -4,14 +4,93 @@ description: 將影像和檔案新增至Marketo - Marketo檔案 — 產品檔案
 title: 將影像和檔案新增至Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 0%
+source-wordcount: '348'
+ht-degree: 1%
 
 ---
 
 # 將影像和檔案新增至Marketo {#add-images-and-files-to-marketo}
+
+您有多個選項可以將新檔案/影像新增至「影像和檔案」存放庫。
+
+## 上傳影像或檔案 {#upload-image-or-file}
+
+1. 前往 **Design Studio**.
+
+   ![](assets/add-images-and-files-to-marketo-1.png)
+
+1. 選取 **[!UICONTROL 影像和檔案]**
+
+   ![](assets/add-images-and-files-to-marketo-2.png)
+
+1. 按一下 **[!UICONTROL 影像和檔案動作]** 下拉式清單並選取 **[!UICONTROL 上傳影像或檔案]**.
+
+   ![](assets/add-images-and-files-to-marketo-3.png)
+
+1. 拖放所需的影像/檔案，或瀏覽電腦尋找該影像/檔案。
+
+   ![](assets/add-images-and-files-to-marketo-4.png)
+
+1. 選取資產後，按一下 **上傳**.
+
+   ![](assets/add-images-and-files-to-marketo-5.png)
+
+## 匯入影像或檔案 {#import-image-or-file}
+
+您有三種匯入影像的選項。 讓我們逐一檢視這些變數。
+
+### 從網頁匯入 {#import-from-the-web}
+
+文字
+
+1. 遵循步驟1和2 [從上方](#upload-image-or-file).
+
+1. 按一下 **[!UICONTROL 影像和檔案動作]** 下拉式清單並選取 **[!UICONTROL 匯入影像或檔案]**.
+
+   ![](assets/add-images-and-files-to-marketo-6.png)
+
+1. 選取 **Web** 選項。
+
+   ![](assets/add-images-and-files-to-marketo-7.png)
+
+1. 
+
+PICC
+
+### 從方塊匯入 {#import-from-box}
+
+文字
+
+1. 遵循步驟1和2 [從上方](#upload-image-or-file).
+
+1. 按一下 **[!UICONTROL 影像和檔案動作]** 下拉式清單並選取 **[!UICONTROL 匯入影像或檔案]**.
+
+PICC
+
+1. 文字
+
+### 從Adobe Experience Manager匯入 {#import-from-adobe-experience-manager}
+
+文字
+
+1. 遵循步驟1和2 [從上方](#upload-image-or-file).
+
+1. 按一下 **[!UICONTROL 影像和檔案動作]** 下拉式清單並選取 **[!UICONTROL 匯入影像或檔案]**.
+
+PICC
+
+1. 文字
+
+
+
+
+
+
+
+
+舊檔案.....
 
 一次輕鬆新增多個影像和檔案。
 
