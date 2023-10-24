@@ -4,7 +4,7 @@ description: 使用標準智慧清單規則邏輯 — Marketo檔案 — 產品�
 title: 使用標準智慧清單規則邏輯
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->變更智慧清單規則邏輯僅適用於篩選器， **非** 觸發器。
+>變更智慧清單規則邏輯僅適用於篩選器， _非_ 觸發器。
 
 系統會一律將觸發器評估為OR，即使上述設定設為ALL亦然。 範例如下：
 
@@ -38,8 +38,8 @@ Country is US
 THEN follow the campaign's flow step(s)
 ```
 
-所以，如果有人填寫表格 **或** 造訪頁面時，行銷活動會根據以下條件評估該人員： **全部** 或 **任何** 後續濾鏡的ID （視使用的設定而定）。
+所以，如果有人填寫表格 _或_ 造訪頁面時，行銷活動會根據以下條件評估該人員： _全部_ 或 _任何_ 後續濾鏡的ID （視使用的設定而定）。
 
 >[!MORELIKETHIS]
 >
->[使用進階智慧清單規則邏輯](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
+>[使用進階智慧清單規則邏輯](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}

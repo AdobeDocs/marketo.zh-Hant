@@ -3,20 +3,20 @@ description: 觸發器行銷活動的優先順序覆寫 — Marketo檔案 — �
 title: 觸發器行銷活動的優先順序覆寫
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
 # 觸發器行銷活動的優先順序覆寫 {#priority-override-for-trigger-campaigns}
 
-管理員可以覆寫Marketo為觸發行銷活動確定的優先順序，以設定更符合業務目標的優先順序。
+管理員可以覆寫Marketo Engage為觸發行銷活動決定的優先順序，以設定更符合業務目標的優先順序。
 
 >[!NOTE]
 >
->此功能僅適用於觸發行銷活動以及已被授與的使用者。 [「編輯觸發促銷活動優先順序」許可權](#grant-priority-override-access).
+>此功能僅適用於觸發行銷活動和已授與的使用者。 [「編輯觸發促銷活動優先順序」許可權](#grant-priority-override-access).
 
 >[!CAUTION]
 >
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. 在 [!UICONTROL 存取行銷活動]，選取 **[!UICONTROL 編輯觸發器行銷活動優先順序]**. 按一下 **[!UICONTROL 儲存]**.
+1. 在 [!UICONTROL 存取行銷活動]，選取 **[!UICONTROL 編輯觸發器行銷活動優先順序]**. 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
@@ -58,4 +58,4 @@ ht-degree: 0%
 >
 >* 您可以在下列位置檢視行銷活動的預設優先順序： [!UICONTROL 行銷活動佇列] 在 [!UICONTROL 行銷活動]. 若要提高執行率，建議將行銷活動優先順序設定為比預設值高一個層級。
 >* 使用者設定優先順序僅適用於符合促銷活動資格的新人員；已排入佇列的人不受影響。
->* 優先順序覆寫擷取於 [稽核軌跡](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).
+>* 優先順序覆寫擷取於 [稽核軌跡](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}.

@@ -4,7 +4,7 @@ description: 設定自訂DKIM簽名 — Marketo檔案 — 產品檔案
 title: 設定自訂DKIM簽章
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: aed161086948aa2cec0199771ba5b3b1491600f9
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -57,6 +57,8 @@ ht-degree: 0%
    </tr>
    </tbody>
    </table>
+
+   <p>
 
 1. 傳送 **主機記錄** 和 **TXT值** 至您的IT。 請他們為您建立記錄，並確定紀錄會傳播至與來自網域關聯的所有名稱伺服器。 Marketo的DKIM驗證需要將DKIM金鑰傳播到與DKIM簽署的網域相關聯的所有名稱伺服器。
 

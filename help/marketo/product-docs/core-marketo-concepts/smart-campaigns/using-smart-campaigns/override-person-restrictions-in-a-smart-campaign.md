@@ -4,9 +4,9 @@ description: 在Smart Campaign中覆寫人員限制 — Marketo檔案 — 產品
 title: 覆寫智慧行銷活動中的人員限制
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Marketo Engage可讓您設定符合Smart Campaign資格的人數上限；這可�
 >
 >請確定 [為Smart Campaigns啟用人員限制](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} 在Marketo Admin中。
 
-1. 在行銷活動中，前往您的Smart Campaign並按一下 **排程**.
+1. 在 **[!UICONTROL 行銷活動]**，前往您的Smart Campaign並按一下 **[!UICONTROL 排程]**.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
