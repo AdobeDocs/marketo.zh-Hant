@@ -4,7 +4,7 @@ description: 智慧列示的最佳實務 — Marketo檔案 — 產品檔案
 title: 智慧列示的最佳作法
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 0e68da238100f3816c2e64e1fbe4a5a2892bb3e1
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
 source-wordcount: '573'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 智慧列示是行銷領域最強大的查詢工具。 他們以神奇的速度輕鬆找到您要找的人。
 
-為了使其易於使用並最佳化效能，我們已建立一份良好實務清單。 祝您使用愉快！
+為了使其易於使用並最佳化效能，我們已建立一份最佳實務清單。 祝您使用愉快！
 
 >[!NOTE]
 >
