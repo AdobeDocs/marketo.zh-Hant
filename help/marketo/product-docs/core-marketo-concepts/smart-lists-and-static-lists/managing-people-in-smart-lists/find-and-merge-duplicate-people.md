@@ -4,7 +4,7 @@ description: 尋找及合併重複人員 — Marketo檔案 — 產品檔案
 title: 尋找並合併重複人員
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 尋找並合併重複人員 {#find-and-merge-duplicate-people}
 
-當有新人員進入系統時，Marketo會自動刪除重複專案。 不過，您的CRM一開始可能會傳送重複資料給Marketo。 以下說明合併方法。
+當新人員進入系統時，Marketo Engage會自動刪除重複專案。 不過，您的CRM可能一開始是透過重複專案傳送。 以下說明合併方法。
 
 >[!CAUTION]
 >
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 尋找重複專案 {#find-duplicates}
 
-1. 前往 **資料庫** 區域。
+1. 前往 **[!UICONTROL 資料庫]** 區域。
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
    >
    >如果您使用Salesforce個人帳戶，在Marketo中合併人員可能無法運作。 如有可能，請合併Salesforce中的記錄。
 
-1. 選取 **可能的重複專案** 系統智慧清單，然後按一下 **人員** 標籤。
+1. 選取 **[!UICONTROL 可能的重複專案]** 系統智慧清單，然後按一下 **[!UICONTROL 人員]** 標籤。
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
@@ -49,9 +49,9 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->合併人員時，如果失敗人員有Marketo自訂物件，則會 **非** 重新與成功者建立關聯。 在執行合併之前，請重新父系自訂物件。
+>合併人員時，如果失敗人員有Marketo自訂物件，則會 _非_ 重新與成功者建立關聯。 在執行合併之前，請重新父系自訂物件。
 
-1. 按住Ctrl/Cmd鍵並按一下，然後按一下 **合併人員**.
+1. 按住Ctrl/Cmd鍵並按一下，然後按一下 **[!UICONTROL 合併人員]**.
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >您可以為同一個人員設定兩個或多個重複專案 — 一次選取所有專案。
 
-1. 您將看到記錄之間 _不要_ 相符。 為每個欄位選取要保留的值。 按一下 **合併** 完成時。 如果您不想要其中一個值，可以核取 **自訂** 並輸入您選擇的值。
+1. 您將看到記錄之間 _不要_ 相符。 為每個欄位選取要保留的值。 按一下 **[!UICONTROL 合併]** 完成時。 如果您不想要其中一個值，可以核取 **[!UICONTROL 自訂]** 並輸入您選擇的值。
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 

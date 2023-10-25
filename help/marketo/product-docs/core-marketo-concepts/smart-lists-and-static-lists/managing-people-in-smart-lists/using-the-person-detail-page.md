@@ -4,7 +4,7 @@ description: 使用人員詳細資料頁面 — Marketo檔案 — 產品檔案
 title: 使用人員詳細資料頁面
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 22%
@@ -20,7 +20,7 @@ ht-degree: 22%
 有許多方式可開啟特定人員。 以下是一些範例：
 
 * 從 **資料庫**，您可以在「快速尋找」中搜尋
-* 任何智慧型 **清單** 或清單
+* 任何 **智慧清單** 或清單
 * **成員** 方案的索引標籤
 * **檢視行銷活動成員** 在智慧行銷活動中
 * 部分 **報表**
@@ -84,8 +84,8 @@ ht-degree: 22%
 | Marketo Social Facebook像片URL | Marketo社交Facebook設定檔URL | Marketo Social Facebook觸及 | Marketo Social Facebook轉介註冊 | Marketo Social Facebook轉介造訪 |
 | Marketo社交性別 | Marketo社交上次反向連結註冊 | Marketo Social上次轉介的造訪 | Marketo Social LinkedIn顯示名稱 | Marketo Social LinkedIn Id |
 | Marketo Social LinkedIn像片URL | Marketo社交LinkedIn設定檔URL | Marketo Social LinkedIn觸及 | Marketo Social LinkedIn轉介註冊 | Marketo Social LinkedIn轉介造訪 |
-| Marketo社交整合ID | Marketo 社交轉介註冊總次數 | Marketo 社交轉介造訪總次數 | Marketo Social Twitter顯示名稱 | Marketo Social Twitter Id |
-| Marketo Social Twitter像片URL | Marketo社交Twitter設定檔URL | Marketo Social Twitter觸及 | Marketo Social Twitter轉介註冊 | Marketo Social Twitter轉介造訪 |
+| Marketo社交整合ID | Marketo 社交轉介註冊總次數 | Marketo 社交轉介造訪總次數 | Marketo社交Twitter顯示名稱 | Marketo社交TwitterID |
+| Marketo社交Twitter像片URL | Marketo社交Twitter設定檔URL | Marketo社交Twitter觸及 | Marketo社交Twitter反向註冊 | Marketo社交Twitter轉介造訪 |
 | 中間名 | 手機號碼 | 員工數 | 電話號碼 | 郵遞區號 |
 | 優先順序 | 相對分數 | 角色 | 稱謂 | 標準產業分類（SIC）代碼 |
 | 現場 | 州別 | 退訂 | 退訂原因 | 更新時間 |
@@ -100,8 +100,8 @@ ht-degree: 22%
 >* SFDC連絡人的機會
 >* 特定Marketo欄位，例如「建立日期」和「原始來源型別」。
 >
->進一步瞭解 [系統管理的欄位](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+>進一步瞭解 [系統管理的欄位](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[建立人員詳細資料頁面的自訂標籤](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+>[建立人員詳細資料頁面的自訂標籤](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

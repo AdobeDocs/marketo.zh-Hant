@@ -4,9 +4,9 @@ description: 傳送清單至Adobe Experience Cloud - Marketo檔案 — 產品檔
 title: 傳送清單至Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '768'
+source-wordcount: '763'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Marketo執行個體的HIPAA就緒部署無法使用此功能。
+>Marketo Engage執行個體的HIPAA就緒部署無法使用此功能。
 
 >[!PREREQUISITES]
 >
@@ -24,7 +24,7 @@ ht-degree: 1%
 ## 支援的目的地應用程式 {#supported-destination-applications}
 
 * Adobe Advertising Cloud
-* ADOBE ANALYTICS (**僅限** 如果您擁有Adobe Audience Manager授權)
+* ADOBE ANALYTICS (_僅限_ 如果您擁有Adobe Audience Manager授權)
 * Adobe Audience Manager
 * Adobe Experience Manager
 * Adobe Real-time Customer Data Platform
@@ -34,19 +34,19 @@ ht-degree: 1%
 
 靜態清單就是這樣、靜態。 除非您手動變更，否則Adobe Experience Cloud中的清單不會發生任何變更。
 
-1. 在Marketo中，找到您要匯出的清單。 以滑鼠右鍵按一下並選取 **傳送至Experience Cloud**.
+1. 在Marketo中，找到您要匯出的清單。 以滑鼠右鍵按一下並選取 **[!UICONTROL 傳送至Experience Cloud]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. 按一下 **Audience Manager資料夾** 下拉式清單，並在Experience Cloud中選取所需的目的地資料夾。
+1. 按一下 **[!UICONTROL Audience Manager資料夾]** 下拉式清單，並在Experience Cloud中選取所需的目的地資料夾。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
-1. 選擇是建立新對象還是覆寫現有對象（在此範例中，我們正在建立新對象）。 輸入新的對象名稱，然後按一下 **傳送**.
+1. 選擇是建立新對象還是覆寫現有對象（在此範例中，我們正在建立新對象）。 輸入新的對象名稱，然後按一下 **[!UICONTROL 傳送]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-3.png)
 
-1. 按一下 **確定**.
+1. 按一下 **[!UICONTROL 確定]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-4.png)
 
@@ -58,19 +58,19 @@ ht-degree: 1%
 
 同步清單表示只要您更新Marketo中的清單，該變更就會自動同步至其在Adobe Experience Cloud中的對象。
 
-1. 在Marketo中，找到您要匯出的清單。 以滑鼠右鍵按一下並選取 **傳送至Experience Cloud**.
+1. 在Marketo中，找到您要匯出的清單。 以滑鼠右鍵按一下並選取 **[!UICONTROL 傳送至Experience Cloud]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 
-1. 按一下 **對象庫資料夾** 下拉式清單，並在Experience Cloud中選取所需的目的地資料夾。
+1. 按一下 **[!UICONTROL 對象庫資料夾]** 下拉式清單，並在Experience Cloud中選取所需的目的地資料夾。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
 
-1. 選擇是建立新對象還是覆寫現有對象（在此範例中，我們正在建立新對象）。 輸入新的對象名稱，核取 **讓對象成員資格保持同步** 方塊，然後按一下 **傳送**.
+1. 選擇是建立新對象還是覆寫現有對象（在此範例中，我們正在建立新對象）。 輸入新的對象名稱，核取 **[!UICONTROL 讓對象成員資格保持同步]** 方塊，然後按一下 **[!UICONTROL 傳送]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
 
-1. 按一下 **確定**.
+1. 按一下 **OK**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
 
@@ -78,15 +78,15 @@ ht-degree: 1%
 
 您可以隨時停止同步清單。
 
-1. 在Marketo中，尋找並按一下右鍵您要停止同步的清單。 按一下 **停止清單同步**.
+1. 在Marketo中，尋找並按一下右鍵您要停止同步的清單。 按一下 **[!UICONTROL 停止清單同步]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
 
-1. 選取要停止同步的受眾，然後按一下 **停止**.
+1. 選取要停止同步的受眾，然後按一下 **[!UICONTROL 停止]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
 
-1. 按一下 **停止** 以確認。
+1. 按一下 **[!UICONTROL 停止]** 以確認。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
 
@@ -94,7 +94,7 @@ ht-degree: 1%
 
 **共用至Adobe Analytics**
 
-對於同時擁有Adobe Audience Manager和Adobe Analytics的客戶，此整合可讓對象從Marketo分享至您的Adobe Analytics報表套裝，不過，若要啟用此功能，必須在Adobe Audience Manager中執行一些額外的設定步驟。 請檢閱Adobe Audience Manager的檔案，以取得如何設定的詳細資訊： [https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+對於同時擁有Adobe Audience Manager和Adobe Analytics的客戶，此整合可讓對象從Marketo分享至您的Adobe Analytics報表套裝，不過，若要啟用此功能，必須在Adobe Audience Manager中執行一些額外的設定步驟。 請檢閱 [Adobe Audience Manager的檔案](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} 以取得如何設定此專案的詳細資訊。
 
 **Adobe Audience Manager客戶的特徵使用方式**
 
@@ -114,7 +114,7 @@ ht-degree: 1%
 
 為您的Marketo訂閱啟用Cookie同步後，Marketo的munchkin.js將嘗試為您在整合設定期間指定的Adobe IMS組織擷取和儲存AdobeECID，並將這些ECID比對至對應的Marketo Cookie識別碼。 這可讓Marketo的匿名使用者設定檔更加豐富AdobeECID。
 
-還需要進一步步驟，將匿名使用者設定檔與潛在客戶設定檔建立關聯（使用純文字電子郵件識別）。 這是如何運作 [此處說明](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+還需要進一步步驟，將匿名使用者設定檔與潛在客戶設定檔建立關聯（使用純文字電子郵件識別）。 這是如何運作 [此處說明](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
 **哪些資訊是共用的？**
 

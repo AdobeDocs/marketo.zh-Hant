@@ -4,30 +4,30 @@ description: 手動建立人員 — Marketo檔案 — 產品檔案
 title: 手動建立人員
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
 # 手動建立人員 {#create-a-person-manually}
 
-有許多方式可讓人進入Marketo。 如果您需要手動建立，以下說明該怎麼做。
+有許多方法可以讓人進入Marketo Engage。 如果您需要手動建立，以下說明該怎麼做。
 
 >[!CAUTION]
 >
->Marketo會 **非** 支援包含表情符號的電子郵件地址。
+>Marketo不支援包含emoji的電子郵件地址。
 
-1. 前往 **資料庫**.
+1. 前往 **[!UICONTROL 資料庫]**.
 
    ![](assets/db-1.png)
 
-1. 在 **新增**，按一下 **新人員**.
+1. 在 **[!UICONTROL 新增]**，按一下 **[!UICONTROL 新人員]**.
 
    ![](assets/two-2.png)
 
-1. 輸入人員資訊，然後按一下 **建立**.
+1. 輸入人員資訊，然後按一下 **[!UICONTROL 建立]**.
 
    ![](assets/three-2.png)
 

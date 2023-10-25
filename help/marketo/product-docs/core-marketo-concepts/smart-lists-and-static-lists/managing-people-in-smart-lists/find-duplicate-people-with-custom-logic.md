@@ -4,30 +4,30 @@ description: 使用自訂邏輯尋找重複人員 — Marketo檔案 — 產品�
 title: 使用自訂邏輯尋找重複的人員
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '138'
 ht-degree: 6%
 
 ---
 
 # 使用自訂邏輯尋找重複的人員 {#find-duplicate-people-with-custom-logic}
 
-Marketo有一個系統智慧清單，可透過比對重複人員的電子郵件地址來尋找重複的人員。 如果您想使用其他欄位來尋找與的重複專案，以下說明方式。
+Marketo Engage有一個系統智慧清單，會透過比對電子郵件地址來尋找重複的人員。 如果您想使用其他欄位來尋找與的重複專案，以下說明方式。
 
 >[!PREREQUISITES]
 >
->[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. 前往 **行銷活動** 區域。
+1. 前往 **[!UICONTROL 行銷活動]** 區域。
 
 ![](assets/ma-2.png)
 
-1. 選取您的智慧清單，按一下 **智慧清單** 標籤。
+1. 選取您的智慧清單，按一下 **[!UICONTROL 智慧清單]** 標籤。
 
    ![](assets/two-4.png)
 
-1. 尋找並拖曳 **重複欄位** 在畫布上篩選。
+1. 尋找並拖曳 **[!UICONTROL 重複欄位]** 在畫布上篩選。
 
    ![](assets/three-4.png)
 
@@ -44,4 +44,4 @@ Marketo有一個系統智慧清單，可透過比對重複人員的電子郵件�
 
    ![](assets/four-2.png)
 
-   完成! 執行智慧清單，在先前選取的欄位中尋找具有相同值的人員。
+   完成! 執行「智慧列示」，在先前選取的欄位中尋找具有相同值的人員。
