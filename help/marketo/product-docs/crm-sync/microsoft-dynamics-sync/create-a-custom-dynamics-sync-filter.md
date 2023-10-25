@@ -4,7 +4,7 @@ description: 建立自訂Dynamics同步篩選器 — Marketo檔案 — 產品檔
 title: 建立自訂Dynamics同步篩選器
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '785'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Marketo在自動背景同步期間會尋找此欄位，並根據此邏輯決定�
 
 ## 建立SyncToMkto欄位 {#create-synctomkto-field}
 
-1. 登入Dynamics CRM。 按一下 **設定** 然後按一下 **自訂**.
+1. 登入您的Dynamics CRM。 按一下 **設定**，然後按一下 **自訂**.
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
@@ -67,7 +67,7 @@ Marketo在自動背景同步期間會尋找此欄位，並根據此邏輯決定�
 
    >[!NOTE]
    >
-   >為此欄位選擇任何顯示名稱，但「名稱」欄位必須完全符合 **new_synctomkto**. 您必須使用 **新** 做為預設首碼。 如果您已變更預設值，請移至此處 [重設自訂欄位名稱的預設前置詞](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md). 您可以在建立新欄位後將其變更回。
+   >為此欄位選擇任何顯示名稱，但「名稱」欄位必須完全符合 **new_synctomkto**. 您必須使用 **新** 做為預設首碼。 如果您已變更預設值，請移至此處 [重設自訂欄位名稱的預設前置詞](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}. 您可以在建立新欄位後將其變更回。
 
    >[!NOTE]
    >
@@ -79,15 +79,15 @@ Marketo在自動背景同步期間會尋找此欄位，並根據此邏輯決定�
 
 即使您已完成初始同步，請前往並選取要與Marketo同步的欄位。
 
-1. 前往「管理員」並選取「 」 **Microsoft Dynamics**.
+1. 前往「管理員」並選取「 」 **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 按一下 **編輯** 欄位同步處理詳細資訊。
+1. 按一下 **[!UICONTROL 編輯]** 欄位同步處理詳細資訊。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 向下捲動至欄位並進行核取。 實際名稱必須是new_synctomkto，但「顯示名稱」可以是任何內容。 按一下 **儲存**.
+1. 向下捲動至欄位並進行核取。 實際名稱必須是new_synctomkto，但「顯示名稱」可以是任何內容。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2015-10-9-9-3a56-3a23.png)
 
@@ -103,7 +103,7 @@ Marketo在自動背景同步期間會尋找此欄位，並根據此邏輯決定�
 >
 >Dynamics工作流程僅適用於未來建立的新記錄，不適用於歷史資料。 使用批次更新來移動現有記錄。
 
-1. 前往Dynamics CRM。 按一下 **設定** 然後按一下 **程式**.
+1. 前往您的Dynamics CRM。 按一下 **設定**，然後 **程式**.
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
@@ -129,26 +129,26 @@ Marketo在自動背景同步期間會尋找此欄位，並根據此邏輯決定�
 
    >[!TIP]
    >
-   >另請參閱 [電子郵件地址的自訂同步篩選規則](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md) 設定規則，只同步處理擁有電子郵件地址之人員的記錄。
+   >另請參閱 [電子郵件地址的自訂同步篩選規則](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"} 設定規則，只同步處理擁有電子郵件地址之人員的記錄。
 
 ## 同步篩選器詳細資訊 {#sync-filter-details}
 
 以下是一些我們認為您應知道的實作詳細資料：
 
-1. 啟動同步作業
+* 啟動同步作業
 
-   當 **SyncToMkto** 值變更自 **否** 至 **是**，Dynamics會立即通知Marketo開始同步處理此記錄。 如果記錄已經存在，Marketo會更新它。 否則，Marketo會建立記錄。
+  當 **SyncToMkto** 值變更自 **否** 至 **是**，Dynamics會立即通知Marketo開始同步處理此記錄。 如果記錄已經存在，Marketo會更新它。 否則，Marketo會建立記錄。
 
-   >[!TIP]
-   >
-   >A `Create [StartSync]` 發生此情況時，會將作業新增至Marketo記錄檔。
+  >[!TIP]
+  >
+  >A `Create [StartSync]` 發生此情況時，會將作業新增至Marketo記錄檔。
 
-1. 停止同步作業
+* 停止同步作業
 
-   當記錄的SyncToMkto值從「是」變更為「否」時，Marketo會收到停止同步處理此記錄的通知。 但記錄不會刪除，而是會停止取得更新並過時。
+  當記錄的SyncToMkto值從「是」變更為「否」時，Marketo會收到停止同步處理此記錄的通知。 但記錄不會刪除，而是會停止取得更新並過時。
 
 >[!MORELIKETHIS]
 >
->* [Microsoft Dynamics同步篩選器：合格](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
->* [Microsoft Dynamics同步篩選器：合併](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
->* [電子郵件地址的自訂同步篩選規則](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
+>* [Microsoft Dynamics同步篩選器：合格](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md){target="_blank"}
+>* [Microsoft Dynamics同步篩選器：合併](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md){target="_blank"}
+>* [電子郵件地址的自訂同步篩選規則](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"}

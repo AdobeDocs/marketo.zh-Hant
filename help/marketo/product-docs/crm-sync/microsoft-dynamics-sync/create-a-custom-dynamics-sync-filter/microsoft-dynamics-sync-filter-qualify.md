@@ -4,16 +4,16 @@ description: Microsoft Dynamics同步篩選器 — 合格 — Marketo檔案 — 
 title: Microsoft Dynamics同步篩選器 — 合格
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '123'
 ht-degree: 6%
 
 ---
 
 # Microsoft Dynamics同步篩選器：合格 {#microsoft-dynamics-sync-filter-qualify}
 
-當您想要在Microsoft Dynamics中將銷售機會轉換為聯絡人時，請務必使用此預設的資格程式。 然後，將其同步至Marketo。
+當您想要在Microsoft Dynamics中將銷售機會轉換為聯絡人時，請務必使用此預設的資格程式。 然後，將其同步至Marketo Engage。
 
 ## 轉換流程 {#the-conversion-process}
 

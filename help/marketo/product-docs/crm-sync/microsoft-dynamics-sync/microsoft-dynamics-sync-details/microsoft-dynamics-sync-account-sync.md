@@ -4,16 +4,16 @@ description: Microsoft Dynamics同步 — 帳戶同步 — Marketo檔案 — 產
 title: Microsoft Dynamics同步 — 帳戶同步
 exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
 # Microsoft Dynamics同步：帳戶同步 {#microsoft-dynamics-sync-account-sync}
 
-您知道Marketo會將您的整個資料庫與Dynamics同步嗎？ 它會同步，然後等待5分鐘，然後每天再次同步。 以下是Marketo如何特別處理Dynamics帳戶的部分細節。
+您知道Marketo Engage將整個資料庫與Dynamics同步嗎？ 它會同步，然後等待5分鐘，然後每天再次同步。 以下是Marketo如何特別處理Dynamics帳戶的部分細節。
 
 ## 資訊會以何種方式同步？ {#which-way-does-the-information-sync}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 哪些欄位會同步至Marketo？ {#which-fields-will-sync-to-marketo}
 
-您可以 [選取要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) 於設定期間。 但Marketo只會同步處理您的Dynamics同步使用者有權存取的欄位。
+您可以 [選取要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} 於設定期間。 但Marketo只會同步處理您的Dynamics同步使用者有權存取的欄位。
 
 ## Dynamics中帳戶欄位的變更是否會導致每個連絡人的變更資料值活動記錄？  {#does-a-change-in-an-account-field-in-dynamics-results-in-a-change-data-value-activity-log-for-each-contact}
 

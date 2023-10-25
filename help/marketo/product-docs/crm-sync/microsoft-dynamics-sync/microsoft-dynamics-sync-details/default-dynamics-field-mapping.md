@@ -3,16 +3,16 @@ description: 預設動態欄位對應 — Marketo檔案 — 產品檔案
 title: 預設動態欄位對應
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '830'
 ht-degree: 18%
 
 ---
 
 # 預設動態欄位對應 {#default-dynamics-field-mapping}
 
-當您初次將Marketo帳戶與Microsoft同步時，Marketo會自動在內建的Dynamics和Marketo欄位之間建立這些關聯。  Marketo也會同步處理潛在客戶、帳戶、商機和聯絡人上的自訂欄位。
+當您初次將Marketo Engage帳戶與Microsoft同步時，Marketo會自動在內建的Dynamics和Marketo欄位之間建立這些關聯。  Marketo也會同步處理潛在客戶、帳戶、商機和聯絡人上的自訂欄位。
 
 ## 潛在客戶欄位 {#lead-fields}
 
@@ -244,7 +244,7 @@ ht-degree: 18%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>所有者 </td>
+      <td>所有者</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -431,7 +431,7 @@ ht-degree: 18%
     <tr>
       <td>個人附註</td>
       <td>說明</td>
-      <td>說明 </td>
+      <td>說明</td>
     </tr>
     <tr>
       <td>個人分數</td>
@@ -441,7 +441,7 @@ ht-degree: 18%
     <tr>
       <td>個人附註</td>
       <td>說明</td>
-      <td>說明 </td>
+      <td>說明</td>
     </tr>
   </tbody>
 </table>
@@ -459,7 +459,7 @@ ht-degree: 18%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>所有者 </td>
+      <td>所有者</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -603,7 +603,7 @@ ht-degree: 18%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>所有者 </td>
+      <td>所有者</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -673,7 +673,7 @@ ht-degree: 18%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>所有者 </td>
+      <td>所有者</td>
       <td>ownerid</td>
     </tr>
     <tr>

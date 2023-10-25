@@ -4,10 +4,10 @@ description: 將與Microsoft Dynamics快速同步用於新自訂欄位 — Marke
 title: 使用與Microsoft Dynamics快速同步處理新自訂欄位
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 0%
+source-wordcount: '354'
+ht-degree: 1%
 
 ---
 
@@ -23,19 +23,19 @@ ht-degree: 0%
 
 以下說明如何使用「快速同步」來重新同步新欄位。
 
-1. 在Marketo中，按一下 **管理員**.
+1. 在Marketo Engage中，按一下 **[!UICONTROL 管理員]**.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. 按一下 **Microsoft Dynamics**.
+1. 按一下 **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. 在欄位同步詳細資訊上，按一下 **編輯**.
+1. 在欄位同步詳細資訊上，按一下 **[!UICONTROL 編輯]**.
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
-1. 選取要快速同步的欄位並按一下 **儲存**.
+1. 選取要快速同步的欄位並按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/image2016-8-25-15-3a26-3a11.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 如果您想要同步現有欄位，但只針對有限的資料集進行同步處理，該怎麼做？ 方法如下。
 
-1. 清除現有欄位的核取方塊。 按一下 **儲存**.
+1. 清除現有欄位的核取方塊。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2016-8-25-16-3a16-3a32.png)
 
@@ -63,11 +63,11 @@ ht-degree: 0%
 
    ![](assets/select-field-reselect-hand.png)
 
-1. 按一下 **進階同步**.
+1. 按一下 **[!UICONTROL 進階同步]**.
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. 選擇 **已更新** 並使用日期選擇器選取日期範圍。 按一下 **儲存**.
+1. 選擇 **[!UICONTROL 已更新]** 並使用日期選擇器選取日期範圍。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
@@ -77,11 +77,11 @@ ht-degree: 0%
 
 在Dynamics和Marketo欄位不同步的罕見情況下，可以快速輕鬆地重新同步它們。
 
-1. 取消選取欄位並按一下 **儲存**.
+1. 取消選取欄位並按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/image2016-8-25-16-3a16-3a32-1.png)
 
-1. 重新選取欄位並按一下 **儲存**. 僅此而已！
+1. 重新選取欄位並按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 

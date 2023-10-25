@@ -4,7 +4,7 @@ description: Microsoft Dynamics同步篩選器 — 合併 — Marketo檔案 — 
 title: Microsoft Dynamics同步篩選器 — 合併
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 4%
@@ -22,6 +22,6 @@ ht-degree: 4%
 | 如果遺失記錄的同步處理篩選為： | 而且成功記錄的同步處理篩選條件為： | 這是Marketo中的結果 |
 |---|---|---|
 | True | True | 成功記錄會繼續與Marketo同步 |
-| False | False | 成功紀錄將繼續 **非** 與Marketo同步 |
+| False | False | 成功紀錄將繼續 _非_ 與Marketo同步 |
 | False | True | 成功記錄將與Marketo同步 |
 | True | False | 成功記錄不會與Marketo同步 |

@@ -3,16 +3,16 @@ description: 啟用Campaign同步 — Marketo檔案 — 產品檔案
 title: 啟用Campaign同步
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 # 啟用Campaign同步 {#enable-campaign-sync}
 
-此選項可讓Marketo從MS Dynamics Campaign新增及移除成員。
+此選項允許Marketo Engage從MS Dynamics Campaign新增及移除成員。
 
 >[!PREREQUISITES]
 >
@@ -22,19 +22,19 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 在「我的Marketo」中，按一下 **管理員**.
+1. 在「我的Marketo」中，按一下 **[!UICONTROL 管理員]**.
 
    ![](assets/enable-campaign-sync-1.png)
 
-1. 按一下 **Microsoft Dynamics**.
+1. 按一下 **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/enable-campaign-sync-2.png)
 
-1. 在「同步選項」下，按一下 **編輯**.
+1. 在「同步選項」下，按一下 **[!UICONTROL 編輯]**.
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. 選取 **啟用Microsoft Dynamics Campaign同步** 核取方塊並按一下 **儲存**.
+1. 選取 **[!UICONTROL 啟用Microsoft Dynamics Campaign同步]** 核取方塊並按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/enable-campaign-sync-4.png)
 
