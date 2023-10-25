@@ -4,7 +4,7 @@ description: 推斷的篩選器 — Marketo檔案 — 產品檔案
 title: 推斷的篩選器
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 推斷的篩選器 {#inferred-filters}
 
-有人造訪您的網站時， [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 對使用者進行Cookie，並將他們放入系統中。 我們會在特殊的資料庫中查詢他們的IP，並推斷出各種好的資訊。
+有人造訪您的網站時， [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} 對使用者進行Cookie，並將他們放入系統中。 我們會在特殊的資料庫中查詢他們的IP，並推斷出各種好的資訊。
 
 >[!NOTE]
 >
@@ -46,4 +46,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->進一步瞭解 [匿名活動和潛在客戶](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
+>進一步瞭解 [匿名活動和潛在客戶](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md){target="_blank"}.

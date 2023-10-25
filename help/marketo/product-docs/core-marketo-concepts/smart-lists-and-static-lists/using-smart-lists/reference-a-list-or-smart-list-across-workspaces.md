@@ -4,7 +4,7 @@ description: 跨工作區參考清單或智慧清單 — Marketo檔案 — 產�
 title: 跨工作區參考清單或智慧清單
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->適用人員分割規則(工作區中的智慧列示和靜態清單只會顯示同時是清單成員的人員 *和* 目前工作區的成員)。
+>適用人員分割規則(工作區中的「智慧列示」和靜態清單只會顯示同時是清單成員的人員 _和_ 目前工作區的成員)。
 
-## 共用清單或智慧清單  {#share-a-list-or-smart-list}
+## 共用清單或智慧清單 {#share-a-list-or-smart-list}
 
-1. 前往 **資料庫**.
+1. 前往 **[!UICONTROL 資料庫]**.
 
    ![](assets/db-1.png)
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
    ![](assets/two-4.png)
 
-1. 將您要共用的清單或智慧清單拖放至新資料夾。
+1. 將您要共用的清單或智慧列示拖放至新資料夾。
 
    ![](assets/three-4.png)
 
-1. 按一下右鍵 **新增資料夾** 並選取 **共用資料夾**.
+1. 按一下右鍵 **[!UICONTROL 新增資料夾]** 並選取 **[!UICONTROL 共用資料夾]**.
 
    ![](assets/four-3.png)
 
-1. 選擇 **工作區** 以與共用。 選取 **儲存**.
+1. 選擇 **[!UICONTROL 工作區]** 以與共用。 選取 **[!UICONTROL 儲存]**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 

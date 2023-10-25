@@ -4,26 +4,26 @@ description: 使用內建/系統智慧清單 — Marketo檔案 — 產品檔案
 title: 使用內建/系統智慧清單
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '195'
 ht-degree: 1%
 
 ---
 
 # 使用內建/系統智慧清單 {#use-built-in-system-smart-lists}
 
-Marketo有一些非常實用的內建智慧清單。 讓我們看看他們！
+Marketo Engage有一些非常實用的內建智慧清單。 讓我們看看他們！
 
-1. 前往 **資料庫**.
+1. 前往 **[!UICONTROL 資料庫]**.
 
    ![](assets/db.png)
 
-1. 開啟 **系統智慧清單** 資料夾以顯示集合。
+1. 開啟 **[!UICONTROL 系統智慧清單]** 資料夾以顯示集合。
 
    ![](assets/two.png)
 
-1. 檢視一個範例：選取 **所有人員**，然後按一下 **人員** 標籤。
+1. 檢視一個範例：選取 **[!UICONTROL 所有人員]**，然後按一下 **[!UICONTROL 人員]** 標籤。
 
    ![](assets/three.png)
 
@@ -48,4 +48,4 @@ Marketo有一些非常實用的內建智慧清單。 讓我們看看他們！
 
 >[!MORELIKETHIS]
 >
->[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

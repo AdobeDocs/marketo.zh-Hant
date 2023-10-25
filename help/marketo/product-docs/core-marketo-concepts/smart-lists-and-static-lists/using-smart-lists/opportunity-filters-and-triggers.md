@@ -4,7 +4,7 @@ description: 機會篩選器和觸發器 — Marketo檔案 — 產品檔案
 title: 機會篩選器和觸發程式
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 機會篩選器 {#opportunity-filters}
 
-機會篩選器可讓您深入探究具有機會的Salesforce潛在客戶。 編輯智慧清單時，您可以在Palette的Opportunities資料夾中找到它們。 有幾種口味。
+機會篩選器可讓您深入探究具有機會的Salesforce潛在客戶。 編輯「智慧列示」時，您可以在「浮動視窗」的「機會」資料夾中找到它們。 有幾種口味。
 
 * 選件數目
 * 總商機金額

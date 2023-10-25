@@ -4,7 +4,7 @@ description: 建立和變更清單與智慧清單的檢視 — Marketo檔案 —
 title: 建立和變更清單和智慧清單的檢視
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 建立和變更清單和智慧清單的檢視 {#create-and-change-views-for-lists-and-smart-list}
 
-智慧清單會顯示預設的欄集合。 您知道您可以編輯這些欄以符合您心靈的內容嗎？ 方法如下。
+「智慧列示」會顯示預設的欄集合。 您知道您可以編輯這些欄以符合您心靈的內容嗎？ 方法如下。
 
 ## 建立檢視 {#create-a-view}
 
-1. 前往清單或智慧清單，按一下 **人員** 標籤，然後按一下 **建立** **檢視** 在 **檢視** 下拉式清單。
+1. 前往清單或智慧清單，按一下 **[!UICONTROL 人員]** 標籤，然後按一下 **[!UICONTROL 建立檢視]** 在 **[!UICONTROL 檢視]** 下拉式清單。
 
    ![](assets/smartlist-createview.png)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-1. 新增/移除所需的欄，然後按一下 **建立**.
+1. 新增/移除所需的欄，然後按一下 **[!UICONTROL 建立]**.
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 切換檢視 {#switch-views}
 
-1. 按一下 **檢視** 下拉式清單，然後選取您想要的檢視。 視需要在檢視之間來回切換。
+1. 按一下 **[!UICONTROL 檢視]** 下拉式清單，然後選取您想要的檢視。 視需要在檢視之間來回切換。
 
    ![](assets/smartlist-customviewchoose.png)
 
@@ -45,25 +45,25 @@ ht-degree: 0%
 
 ## 編輯檢視 {#edit-a-view}
 
-1. 確定已選取您要編輯的檢視 **檢視** 下拉式清單。
+1. 確定已選取您要編輯的檢視 **[!UICONTROL 檢視]** 下拉式清單。
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. 按一下 **編輯** 選項。
+1. 按一下 **[!UICONTROL 編輯]** 選項。
 
    ![](assets/smartlist-editcustomview.png)
 
-1. 進行您想要的變更，然後按一下 **儲存**.
+1. 進行您想要的變更，然後按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
 ## 刪除檢視 {#delete-a-view}
 
-1. 選取 **編輯** 您要刪除之檢視的選項 **檢視** 下拉式清單。
+1. 選取 **[!UICONTROL 編輯]** 您要刪除之檢視的選項 **[!UICONTROL 檢視]** 下拉式清單。
 
    ![](assets/smartlist-editcustomview.png)
 
-1. 按一下 **刪除**.
+1. 按一下 **[!UICONTROL 刪除]**.
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 
@@ -71,5 +71,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用內建/系統智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
->* [建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [使用內建/系統智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
+>* [建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
