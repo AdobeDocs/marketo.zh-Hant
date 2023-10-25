@@ -4,9 +4,9 @@ description: 瞭解SEO控制面板 — SEO快照 — Marketo檔案 — 產品檔
 title: 瞭解SEO儀表板 — SEO快照
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,9 @@ ht-degree: 0%
 >
 >您也可以檢視 [特定清單](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) 正在執行的關鍵字之。 按一下下拉式清單，然後選取您感興趣的專案。
 
-搖滾起來！ 讓我們繼續移動。
+>[!NOTE]
+>
+>只會針對排名第1-100的關鍵字顯示資料。
 
 ## [!UICONTROL 平均頁面最佳化分數] {#average-page-optimization-score}
 

@@ -4,9 +4,9 @@ description: SEO — 新增關鍵字 — Marketo檔案 — 產品檔案
 title: SEO — 新增關鍵字
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->只會顯示排名第1-100的關鍵字的資料。
+>只會針對排名第1-100的關鍵字顯示資料。
 
 >[!MORELIKETHIS]
 >
