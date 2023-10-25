@@ -4,9 +4,9 @@ description: SEO — 瞭解關鍵字 — Marketo檔案 — 產品檔案
 title: SEO — 瞭解關鍵字
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,10 @@ ht-degree: 0%
   </tr> 
  </tbody> 
 </table>
+
+>[!NOTE]
+>
+>只會顯示排名第1-100的關鍵字的資料。
 
 ## [!UICONTROL 關鍵字]  — 競爭者檢視 {#keywords-competitor-view}
 

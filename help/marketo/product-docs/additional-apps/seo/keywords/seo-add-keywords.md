@@ -4,9 +4,9 @@ description: SEO — 新增關鍵字 — Marketo檔案 — 產品檔案
 title: SEO — 新增關鍵字
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a29-3a12.png)
 
-   >[!MORELIKETHIS]
-   >
-   >[瞭解關鍵字（摘要檢視）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-
 做得好！ 您現在應該會看到關鍵字清單的新增專案。
+
+>[!NOTE]
+>
+>只會顯示排名第1-100的關鍵字的資料。
+
+>[!MORELIKETHIS]
+>
+>[瞭解關鍵字（摘要檢視）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
