@@ -4,9 +4,9 @@ description: 設定Marketo的通訊協定 — Marketo檔案 — 產品檔案
 title: 設定Marketo的通訊協定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: f95721d5007fc686a8de7d11233cfe08ccce7237
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '968'
 ht-degree: 3%
 
 ---
@@ -15,13 +15,7 @@ ht-degree: 3%
 
 如果您或您的組織使用限制性的防火牆或Proxy伺服器設定，您或您的網路管理員可能需要將某些網域和IP位址範圍列入允許清單，以確保Adobe Marketo Engage如期運作。
 
-## 品牌行銷活動登陸頁面與電子郵件 {#branded-campaign-landing-pages-and-emails}
-
-您的行銷群組正在使用Marketo建立品牌行銷活動登入頁面和電子郵件。 為了確保這些登入頁面和電子郵件正常運作，他們需要IT提供一些協助。 請設定下列通訊協定，並提供行銷群組應透過電子郵件傳送給您的資訊。
-
-本文內容應與希望實作這些通訊協定之公司的IT部門分享。
-
-如果您的IT團隊使用允許清單來限制Web存取，請要求他們新增以下網域（包括星號），以允許所有Marketo資源和網路通訊端：
+如需協助實作下列通訊協定，請與您的IT部門分享本文章。 如果他們使用允許清單來限制Web存取，請確定他們新增以下網域（包括星號），以允許所有Marketo資源和網站通訊端：
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
