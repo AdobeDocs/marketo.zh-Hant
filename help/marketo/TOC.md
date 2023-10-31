@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
+source-git-commit: dbfbf2bfe78e88e494d15b8d81e78e16e8c92edb
 workflow-type: tm+mt
-source-wordcount: '9099'
+source-wordcount: '9104'
 ht-degree: 1%
 
 ---
@@ -104,7 +104,7 @@ ht-degree: 1%
          + [將Munchkin追蹤程式碼新增至您的網站](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
          + [新一代Munchkin追蹤常見問題集](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [新增單一登入至入口網站](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
-         + [將WebEx新增為LaunchPoint Service](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+         + [將Webex新增為LaunchPoint Service](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [透過Facebook as a LaunchPoint Service新增工作區](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [新增縮放為LaunchPoint服務](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
          + [設定SOAP API](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
@@ -684,7 +684,8 @@ ht-degree: 1%
             + [使用Adobe Connect建立事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [使用GotoWebinar建立事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [使用第3級Web會議建立事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
-            + [使用WebEx建立事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+            + [使用Webex建立事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+              [使用Webex 2建立事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex-2.md)
             + [以縮放建立事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + 使用Marketo ON24轉接器建立事件 {#create-an-event-with-the-marketo-on24-adapter}
                + [設定ON24與Marketo的整合](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/set-up-the-on24-integration-with-marketo.md)
