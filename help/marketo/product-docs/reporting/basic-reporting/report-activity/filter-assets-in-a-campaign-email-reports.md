@@ -4,9 +4,9 @@ description: 在行銷活動電子郵件報告中篩選資產 — Marketo檔案 
 title: 在行銷活動電子郵件報告中篩選資產
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 在行銷活動電子郵件報告中篩選資產 {#filter-assets-in-a-campaign-email-reports}
 
 聚焦您的 [行銷活動電子郵件績效](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) 特定報告 [智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) 在您的方案（「本機資產」）中或已封存的方案上。
+
+>[!NOTE]
+>
+>衛星模式不支援在報表中篩選資產（資產詳細資料頁面右側的「在新視窗中開啟」圖示）。
 
 1. 前往 **Analytics** (或 **行銷活動**)區域。
 
