@@ -2,10 +2,10 @@
 description: 發行說明 — 2023年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2023年7月
 feature: Release Information
-exl-id: bda861e3-24a1-4325-9b4c-f65a046d7696
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4056353c-4125-4849-8350-59c58afb9e66
+source-git-commit: 87bc9acec7f998edaf06ecb1880da91513f32214
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '654'
 ht-degree: 2%
 
 ---
@@ -92,7 +92,7 @@ ht-degree: 2%
 
 </br>
 
-* **取消訂閱附加設定**：您現在可以透過「取消訂閱附加」的新設定選項，更能控制取消訂閱訊息。 新功能可讓管理員控制何時何地以及在銷售電子郵件中出現哪些取消訂閱訊息。
+* **取消訂閱Sales Insight動作的附加設定**：您現在可以透過「取消訂閱附加」的新設定選項，更能控制取消訂閱訊息。 新功能可讓管理員控制何時何地以及在銷售電子郵件中出現哪些取消訂閱訊息。
 
 <table> 
   <tr> 
@@ -100,13 +100,13 @@ ht-degree: 2%
    <td><b>檔案更新</b></td>
   </tr>
   <tr> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">自動附加取消訂閱訊息設定</a></td>
   </tr>
   </tbody>
 </table>
 
-* **動態欄位提示**：您現在可以透過新增至銷售分析動作中電子郵件範本的新欄位提示，進一步提示銷售團隊個人化電子郵件的特定部分。
+* **銷售分析動作的動態欄位提示**：您現在可以透過新增至銷售分析動作中電子郵件範本的新欄位提示，進一步提示銷售團隊個人化電子郵件的特定部分。
 
 <table> 
   <tr> 
@@ -120,7 +120,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **預設動態欄位**：預設動態欄位可讓您設定一個遞補值，如果沒有可填入的值，動態欄位可解析該遞補值。 這有助於確保電子郵件發出並填入所有個人化。
+* **銷售分析動作的預設動態欄位**：預設動態欄位可讓您設定一個遞補值，如果沒有可填入的值，動態欄位可解析該遞補值。 這有助於確保電子郵件發出並填入所有個人化。
 
 <table> 
   <tr> 
