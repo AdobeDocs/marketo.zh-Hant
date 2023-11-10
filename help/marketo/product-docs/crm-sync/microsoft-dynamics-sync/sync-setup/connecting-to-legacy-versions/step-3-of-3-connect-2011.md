@@ -4,9 +4,9 @@ description: 步驟3之3 — 將Microsoft Dynamics與Marketo連線（2011年內�
 title: 步驟3之3 — 將Microsoft Dynamics與Marketo連線（2011年內部部署）
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [步驟3之1：安裝Marketo解決方案（2011年內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
->* [步驟3之2：在Dynamics中設定Marketo同步使用者（2011內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+>* [步驟3之1：安裝Marketo解決方案（2011年內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"}
+>* [步驟3之2：在Dynamics中設定Marketo同步使用者（2011內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -26,19 +26,19 @@ ht-degree: 0%
 
 ## 輸入Dynamics同步使用者資訊 {#enter-dynamics-sync-user-information}
 
-1. 登入Marketo並按一下 **管理員**.
+1. 登入Marketo並按一下 **[!UICONTROL 管理員]**.
 
    ![](assets/login-admin.png)
 
-1. 按一下 **CRM**.
+1. 按一下 **[!UICONTROL CRM]**.
 
    ![](assets/image2014-12-11-11-3a53-3a59.png)
 
-1. 按一下 **Microsoft**.
+1. 按一下 **[!DNL Microsoft]**.
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. 按一下 **編輯** 在 **步驟1：輸入認證。**
+1. 按一下 **[!UICONTROL 編輯]** 在 **[!UICONTROL 輸入認證]**.
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -46,50 +46,50 @@ ht-degree: 0%
    >
    >請確認您的認證正確無誤，因為提交後就無法回覆後續的結構描述變更。 如果儲存不正確的認證，您必須取得新的Marketo訂閱。
 
-1. 輸入 **使用者名稱**， **密碼** 和CRM **URL** 然後按一下 **儲存**.
+1. 輸入 **[!UICONTROL 使用者名稱]**， **[!UICONTROL 密碼]** 和CRM **[!UICONTROL URL]**，然後按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/image2015-4-2-14-3a50-3a7.png)
 
    >[!NOTE]
    >
    >* Marketo中的使用者名稱必須與CRM中同步處理使用者的使用者名稱相符。 格式可以是 `user@domain.com` 或DOMAIN\user。
-   >* 如果您不知道URL， [在此處瞭解如何找到它](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+   >* 如果您不知道URL， [在此處瞭解如何找到它](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
 ## 選取要同步的欄位 {#select-fields-to-sync}
 
 現在，我們需要選取要同步處理的欄位。
 
-1. 按一下 **編輯** 在 **步驟2：選取要同步的欄位。**
+1. 按一下 **[!UICONTROL 編輯]** 在 **[!UICONTROL 選取要同步的欄位]**.
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
-1. 有預先選取的欄位將進行同步。 如有需要，可新增更多內容，然後按一下 **儲存**.
+1. 有預先選取的欄位將進行同步。 如有需要，可新增更多內容，然後按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/image2016-8-25-13-3a26-3a14.png)
 
    >[!NOTE]
    >
-   >Marketo會儲存要同步之欄位的參考。 如果您刪除Dynamics中的欄位，建議您使用 [同步已停用](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Marketo接著，透過編輯並儲存 [選取要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+   >Marketo會儲存要同步之欄位的參考。 如果您刪除Dynamics中的欄位，建議您使用 [同步已停用](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
 
 ## 自訂篩選器的同步欄位 {#sync-fields-for-a-custom-filter}
 
 如果您已建立自訂篩選器，請務必前往並選取要與Marketo同步的新欄位。
 
-1. 前往「管理員」並選取「 」 **Microsoft Dynamics**.
+1. 前往「管理員」並選取「 」 **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 按一下 **編輯** 欄位同步處理詳細資訊。
+1. 按一下 **[!UICONTROL 編輯]** 欄位同步處理詳細資訊。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 向下捲動至欄位並進行核取。 實際名稱必須是new_synctomkto，但「顯示名稱」可以是任何內容。 按一下 **儲存**.
+1. 向下捲動至欄位並進行核取。 實際名稱必須是new_synctomkto，但「顯示名稱」可以是任何內容。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2016-8-25-14-3a14-3a57.png)
 
 ## 啟用同步 {#enable-sync}
 
-1. 按一下 **編輯** 在 **步驟3：啟用同步**.
+1. 按一下 **[!UICONTROL 編輯]** 在 **[!UICONTROL 啟用同步]**.
 
    ![](assets/image2015-3-16-9-52-2b.png)
 
@@ -97,7 +97,7 @@ ht-degree: 0%
    >
    >Marketo不會針對Microsoft Dynamics同步處理或手動輸入人員或潛在客戶時，自動進行重複資料刪除。
 
-1. 閱讀快顯視窗中的所有內容，輸入您的電子郵件，然後按一下 **開始同步**.
+1. 閱讀快顯視窗中的所有內容，輸入您的電子郵件，然後按一下 **[!UICONTROL 開始同步]**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 

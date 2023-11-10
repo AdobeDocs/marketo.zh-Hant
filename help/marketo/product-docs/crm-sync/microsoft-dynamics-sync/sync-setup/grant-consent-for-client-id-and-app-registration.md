@@ -3,14 +3,16 @@ description: 授予使用者端ID和應用程式註冊的同意 — Marketo檔�
 title: 授予使用者端ID和應用程式註冊的同意
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
 # 授予使用者端ID和應用程式註冊的同意 {#grant-consent-for-client-id-and-app-registration}
+
+請依照下列步驟瞭解如何授與必要同意/許可權。
 
 ## 授與同步處理使用者的委派使用者許可權 {#grant-delegated-user-permissions-for-the-sync-user}
 
@@ -63,7 +65,7 @@ ht-degree: 0%
    >
    >如果您已在其他索引標籤中以管理員身分登入Azure，您將需要使用不同的瀏覽器或無痕模式以同步使用者身分登入。
 
-1. 按一下 **Accept**.
+1. 按一下 **[!UICONTROL Accept]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
@@ -73,15 +75,14 @@ ht-degree: 0%
 
 1. 在您的Azure入口網站中，導覽至應用程式首頁。
 
-1. 在管理底下，按一下 **API許可權**.
+1. 在管理底下，按一下 **[!UICONTROL API許可權]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. 按一下 **授予管理員同意** （適用於租使用者）按鈕。
+1. 按一下 **[!UICONTROL 授予管理員同意]** （適用於租使用者）按鈕。
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. 按一下 **是** 以確認。
+1. 按一下 **[!UICONTROL 是]** 以確認。
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)
-

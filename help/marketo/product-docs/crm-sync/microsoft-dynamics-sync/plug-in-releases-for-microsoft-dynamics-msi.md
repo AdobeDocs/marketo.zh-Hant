@@ -4,18 +4,18 @@ description: Microsoft Dynamics MSI的外掛程式版本 — Marketo檔案 — �
 title: Microsoft Dynamics MSI的外掛程式版本
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 6%
+source-wordcount: '318'
+ht-degree: 8%
 
 ---
 
 # Microsoft Dynamics MSI的外掛程式版本 {#plug-in-releases-for-microsoft-dynamics-msi}
 
-當您首次同步至Microsoft Dynamics時，需下載並安裝Marketo Sales Insight (MSI)適用的最新版外掛程式。 Marketo會定期更新這些外掛程式，方便您回到相同位置下載新版本。
+當您首次同步至Microsoft Dynamics時，需下載並安裝Marketo Sales Insight (MSI)適用的最新版外掛程式。 請定期Marketo Engage更新這些外掛程式，以便您可以返回相同位置下載新版本。
 
-如果您使用Marketo的原生CRM同步解決方案至Dynamics，請 [下載最新的外掛程式](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your Dynamics release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+如果您使用Marketo原生CRM同步解決方案至Dynamics，請 [下載最新的外掛程式](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your Dynamics release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 6%
 
 ## 升級MSI解決方案 {#upgrading-your-msi-solution}
 
-1. 匯入最新版本的解決方案 _超過現有版本_ 的CRM，方法是按下 **匯入** Dynamics中的按鈕。
+1. 匯入最新版本的解決方案 _超過現有版本_ 的CRM，方法是按下 **[!UICONTROL 匯入]** Dynamics中的按鈕。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
@@ -31,15 +31,15 @@ ht-degree: 6%
 >
 >範例：如果您的Dynamics CRM版本為2.0.0.20，而最新版本為2.0.0.21，則需匯入 _超過_ 版本2.0.0.20。
 
-1. 按一下 **下一個**.
+1. 按一下&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
-1. 選取 **暫存升級** 和 **維護自訂**，然後按一下 **匯入**.
+1. 選取 **[!UICONTROL 暫存升級]** 和 **[!UICONTROL 維護自訂]**，然後按一下 **[!UICONTROL 匯入]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. 按一下 **下一個**.
+1. 按一下&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
@@ -61,7 +61,7 @@ ht-degree: 6%
   <tr> 
    <th colspan="1">發行日期</th> 
    <th colspan="1">版本</th> 
-   <th colspan="1">備註</th> 
+   <th colspan="1">附註</th> 
   </tr> 
   <tr> 
    <td colspan="1">02/03/22</td> 
