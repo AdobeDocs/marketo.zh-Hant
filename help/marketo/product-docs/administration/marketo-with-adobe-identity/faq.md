@@ -3,14 +3,14 @@ description: AdobeIdentity Management常見問題集 — Marketo檔案 — 產�
 title: AdobeIdentity Management常見問題集
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '783'
 ht-degree: 1%
 
 ---
 
-# 常見問題集 {#faq}
+# AdobeIdentity Management常見問題集 {#adobe-identity-management-faq}
 
 **什麼是Adobe身分？**
 
