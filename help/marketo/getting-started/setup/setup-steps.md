@@ -4,9 +4,9 @@ description: 設定步驟 — Marketo檔案 — 產品檔案
 title: 設定步驟
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a5cda002c4b8805d3ecd0adb0a08128ce7c91629
 workflow-type: tm+mt
-source-wordcount: '2043'
+source-wordcount: '2062'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,10 @@ ht-degree: 0%
 
 ## 登入並建立其他Marketo使用者 {#log-in-and-create-additional-marketo-users}
 
+>[!IMPORTANT]
+>
+>如果您的Marketo訂閱是在2023年7月31日/之後建立，或已經移轉至 [AdobeIdentity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, the steps for adding a user outlined below will not apply to you. Please see [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} 而非。
+
 登入Marketo [此處](https://app.marketo.com/){target="_blank"} 使用您透過電子郵件收到的認證。
 
 ![](assets/setup-steps-1.png)
@@ -62,7 +66,7 @@ ht-degree: 0%
 
 ![](assets/setup-steps-4.png)
 
-填寫同事的電子郵件地址、名字和姓氏。 _可選擇設定存取到期日_. 按一下 **[!UICONTROL 下一個]**.
+填寫同事的電子郵件地址、名字和姓氏。 _可選擇設定存取到期日_. 按一下&#x200B;**[!UICONTROL 下一步]**。
 
 ![](assets/setup-steps-5.png)
 
@@ -313,7 +317,7 @@ IT完成工作後，請按照下列步驟新增登入頁面和電子郵件CNAME�
 
 在「網域」欄位中，輸入您的電子郵件追蹤網域。 其形式應為：
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. 按一下 **[!UICONTROL 儲存]**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. 按一下&#x200B;**[!UICONTROL 保存]**。
 
 ![](assets/setup-steps-21.png)
 
