@@ -3,16 +3,16 @@ description: 電子郵件驗證 — Marketo檔案 — 產品檔案
 title: 電子郵件驗證
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: f4d2e7acaaf1ad59d716c831c7b1a2ed340a5a24
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
 
 # 電子郵件驗證 {#email-verification}
 
-Adobe Marketo Engage訂閱需要所有非API的使用者(包括Marketo Engage管理員)驗證其電子郵件地址。 未指派管理員角色或已指派具有「略過SSO」許可權之角色的單一登入(SSO)使用者，在透過電子郵件驗證功能啟用其訂閱時，將會自動驗證其電子郵件。
+Adobe Marketo Engage訂閱需要所有非API的使用者(包括Marketo Engage管理員)驗證其電子郵件地址。
 
 ## 為什麼要引入此功能 {#why-this-feature-was-introduced}
 
@@ -20,7 +20,7 @@ Marketo Engage正在繼續推出電子郵件驗證，以準備將客戶移轉至
 
 ## 使用者邀請 {#user-invite}
 
-當管理員邀請使用者時，該使用者在按一下邀請連結後即會自動驗證。 系統會自動驗證未指派管理員角色的SSO使用者。
+當管理員邀請使用者時，該使用者在按一下邀請連結後即會自動驗證。
 
 ## 驗證電子郵件 {#verification-email}
 
