@@ -3,9 +3,9 @@ description: AdobeIdentity Management常見問題集 — Marketo檔案 — 產�
 title: AdobeIdentity Management常見問題集
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: eca77d8426c8f696dc35dbfb9e20abcb46e53127
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '1180'
 ht-degree: 1%
 
 ---
@@ -89,3 +89,23 @@ Adobe IMS目前不支援Marketo的裝置授權功能之類的功能。
 **Adobe Admin Console支援哪些產品卡？**
 
 支援的產品卡包括：Marketo Engage、Marketo Measure、Marketo Dynamic Chat、Marketo Sales Connect和Marketo Sales Insight Actions。
+
+**如果我移轉至Adobe身分時，使用者登入與電子郵件不符，該怎麼辦？**
+
+目前登入與電子郵件地址不同的Marketo使用者，在移轉至Adobe身分識別後，將不再使用該認證登入。 Adobe身分一律使用使用者的電子郵件地址進行驗證。
+
+**如果我的訂閱使用IP限制設定，則Adobe身分移轉後會發生什麼事？**
+
+當訂閱上線至Adobe身分時，IP限制設定不會移轉至Adobe Admin Console。 Marketo的IP限制設定包括僅允許從特定IP位址存取，以及封鎖特定IP位址的存取。 目前，Adobe Identity Management系統不支援IP限制功能。
+
+Adobe Identity Management System將於2024年推出一項功能，僅支援允許特定IP位址，以支援目前使用此功能的Marketo使用者的轉換。 目前使用此功能的使用者在功能發行前不會進行使用者移轉。 交付功能後，使用者將會收到排程其移轉的通知。 我們會在有需要時提供有關功能的詳細資訊。
+
+目前使用IP限制以封鎖特定位址存取的使用者，在移轉至Adobe身分識別後將無法再使用此功能，因為AdobeIdentity Management系統不支援此功能。
+
+**如果我的使用者具有「略過單一登入」的選項，則Adobe身分移轉後會發生什麼事？**
+
+當訂閱上架到Adobe身分時，單一登入(SSO)是在Adobe組織層級為所有使用者設定。 設定SSO時，將會對該Adobe組織中的所有Marketo使用者/所有Marketo執行個體強制執行。之前，Marketo支援將使用者角色設定為可選用「略過單一登入」。 Adobe Identity Management系統不支援此功能。
+
+**我有多個訂閱，但並非所有訂閱都啟用單一登入。 Adobe身分移轉之後會發生什麼事？**
+
+當訂閱上架到Adobe身分時，單一登入(SSO)會在Adobe組織層級設定。 這表示SSO適用於Adobe組織中的所有產品執行個體。SSO設定後，將套用至該Adobe組織中的所有Marketo執行個體。之前，Marketo在執行個體層級支援此設定。 Adobe Identity Management系統不支援此功能。
