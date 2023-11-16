@@ -4,10 +4,10 @@ description: 設定Marketo的通訊協定 — Marketo檔案 — 產品檔案
 title: 設定Marketo的通訊協定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
+source-git-commit: 2c293eacb0dd693118efc0260118337eb671c1b9
 workflow-type: tm+mt
-source-wordcount: '968'
-ht-degree: 3%
+source-wordcount: '2104'
+ht-degree: 2%
 
 ---
 
@@ -90,7 +90,7 @@ ht-degree: 3%
 
 ## 步驟3：設定SPF和DKIM {#step-set-up-spf-and-dkim}
 
-您的行銷團隊也應已將DKIM資訊傳送給您，以新增至DNS資源記錄（亦列於下方）。 按照步驟成功設定DKIM和SPF，然後通知您的行銷團隊這已更新。
+您的行銷團隊也應傳送要新增至DNS資源記錄（亦列於下方）的DKIM （網域金鑰識別郵件）資訊給您。 按照步驟成功設定DKIM和SPF (Sender Policy Framework)，然後通知您的行銷團隊這已更新。
 
 1. 若要設定SPF，請在我們的DNS專案中新增下列行：
 
@@ -110,7 +110,175 @@ ht-degree: 3%
 
    在遵循下列步驟之後，針對您設定的每個DKIMDomain複製HostRecord和TXTValue [此處提供指示](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. IT人員完成此步驟後，別忘了在「管理員>電子郵件> DKIM」中驗證每個網域。
 
-## 步驟4：為您的網域設定MX記錄 {#step-set-up-mx-records-for-your-domain}
+## 步驟4：設定DMARC {#set-up-dmarc}
+
+DMARC （網域型訊息驗證、報告及一致性）是一種驗證通訊協定，用於協助組織保護其網域免受未經授權的使用。 DMARC會擴充現有的驗證通訊協定（例如SPF和DKIM），以通知收件者伺服器如果網域發生驗證失敗時應採取的動作。 雖然DMARC目前是選用專案，但強烈建議您使用，因為這樣可以更好地保護組織的品牌和聲譽。 自2024年2月起，Google和Yahoo等主要提供者將要求為大量傳送者使用DMARC。
+
+若要讓DMARC運作，您必須至少擁有下列其中一個DNS TXT記錄：
+
+* 有效的SPF
+* 您的FROM：網域的有效DKIM記錄(建議用於Marketo Engage)
+
+此外，您必須擁有您的FROM：網域的DMARC特定DNS TXT記錄。 您可選擇定義您選擇的電子郵件地址，指出DMARC報告應在組織內的哪個位置，以便您監視報告。
+
+作為最佳實務，建議您逐步推出DMARC實作，將DMARC政策從p=none提升至p=quarantine、再提升至p=reject，因為您可以瞭解DMARC的潛在影響，並將DMARC政策設定為在SPF和DKIM上輕鬆保持一致。
+
+### DMARC範例工作流程 {#dmarc-example-workflow}
+
+1. 如果您已設定為可接收DMARC報告，您應該執行下列動作……
+
+   I.分析您收到並使用的意見與報告(p=none)，告知接收者不對驗證失敗的郵件執行任何動作，但仍會傳送電子郵件報告給寄件者。
+
+   二、 如果合法的訊息驗證失敗，請檢閱並修正SPF/DKIM的問題。
+
+   三、 判斷SPF或DKIM是否已對齊，並傳遞所有合法電子郵件的驗證。
+
+   四、 請檢閱報告，以確保根據SPF/DKIM政策得出的結果符合您的預期。
+
+1. 繼續將原則調整為(p=quarantine)，這會通知接收電子郵件伺服器隔離驗證失敗的電子郵件（這通常表示將這些郵件放在垃圾郵件資料夾中）。
+
+   I.檢閱報表，確保結果如您預期般如實。
+
+1. 如果您對p=隔離層級的訊息行為感到滿意，您可以將原則調整為（p=拒絕）。 p=reject原則會告訴接收者，對於驗證失敗的網域，要完全拒絕（退回）任何電子郵件。 啟用此原則後，只有經過網域驗證為100%驗證的電子郵件才有機會放置收件匣。
+
+>[!CAUTION]
+>
+>請謹慎使用此原則，並判斷其是否適合您的組織。
+
+### DMARC報告 {#dmarc-reporting}
+
+DMARC提供接收有關未通過SPF/DKIM之電子郵件的報表的功能。 在驗證流程中，ISP服務程式會產生兩個不同的報告，讓傳送者可透過其DMARC原則中的RUA/RUF標籤接收。
+
+* 彙總報表(RUA)：不包含任何會對GDPR （一般資料保護規範）敏感的PII （個人識別資訊）。
+
+* 鑑證報告(RUF)：包含對GDPR敏感的電子郵件地址。 在使用之前，最好從內部檢查如何處理需要符合GDPR的資訊。
+
+這些報告的主要用途是接收企圖詐騙的電子郵件概觀。 這些是高度技術性的報告，最好透過協力廠商工具消化。
+
+### 範例DMARC記錄 {#example-dmarc-records}
+
+* 裸機最小記錄： `v=DMARC1; p=none`
+
+* 記錄指向接收報告的電子郵件地址： `v=DMARC1; p=none;  rua=mailto:emaill@domain.com;     ruf=mailto:email@domain.com`
+
+### DMARC標籤及其功用 {#dmarc-tags-and-what-they-do}
+
+DMARC記錄有多個稱為DMARC標籤的元件。 每個標籤都有一個值，指定DMARC的特定外觀。
+
+<table>
+<thead>
+  <tr>
+    <th>標籤名稱 </th>
+    <th>必要/選用 </th>
+    <th>函數 </th>
+    <th>範例 </th>
+    <th>預設值 </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>v</td>
+    <td>必要</td>
+    <td>此DMARC標籤指定版本。 目前只有一個版本，因此其固定值為v=DMARC1</td>
+    <td>V=DMARC1 DMARC1</td>
+    <td>DMARC1</td>
+  </tr>
+  <tr>
+    <td>p</td>
+    <td>必要</td>
+    <td>顯示選取的DMARC原則，並指示接收者報告、隔離或拒絕驗證檢查失敗的郵件。</td>
+    <td>p=none、quarantine或reject</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>fo</td>
+    <td>可選</td>
+    <td>允許網域擁有者指定報告選項。</td>
+    <td>0：如果一切失敗，則產生報表 
+    <br>1：發生任何失敗時產生報表 
+    <br>d：如果DKIM失敗則產生報告 
+    <br>s：如果SPF失敗，則產生報表</td>
+    <td>1 （建議用於DMARC報表）</td>
+  </tr>
+  <tr>
+    <td>pct</td>
+    <td>可選</td>
+    <td>告知受篩選的訊息百分比。</td>
+    <td>pct=20</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>規則</td>
+    <td>選用（建議）</td>
+    <td>識別彙總報表的傳送位置。</td>
+    <td>rua=mailto:aggrep@example.com</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>ruf</td>
+    <td>選用（建議）</td>
+    <td>識別將傳送鑑證報告的位置。</td>
+    <td>ruf=mailto:authfail@example.com</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>sp</td>
+    <td>可選</td>
+    <td>指定上層網域之子網域的DMARC原則。</td>
+    <td>sp=reject</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>adkim</td>
+    <td>可選</td>
+    <td>可以是「嚴格」(Strict) (s)或「寬鬆」®數。 寬鬆的對齊表示DKIM簽章中使用的網域可以是「寄件者」位址的子網域。 嚴格對齊表示DKIM簽章中使用的網域必須與寄件者位址中使用的網域完全相符。</td>
+    <td>adkim=r </td>
+    <td>r</td>
+  </tr>
+  <tr>
+    <td>aspf</td>
+    <td>可選</td>
+    <td>可以是「嚴格」(Strict) (s)或「寬鬆」®數。 寬鬆的對齊表示ReturnPath網域可以是「寄件者地址」的子網域。 嚴格對齊表示傳迴路徑網域必須與寄件者位址完全相符。</td>
+    <td>aspf=r</td>
+    <td>r</td>
+  </tr>
+</tbody>
+</table>
+
+如需DMARC及其所有選項的完整詳細資訊，請造訪 [https://dmarc.org/](https://dmarc.org/){target="_blank"}.
+
+### DMARC與Marketo Engage {#dmarc-and-marketo-engage}
+
+DMARC有兩種對齊方式：DKIM對齊方式和SPF對齊方式。
+
+>[!NOTE]
+>
+>建議在Marketo的DKIM與SPF上執行DMARC對齊。
+
+* DKIM-aligned DMARC — 若要設定DKIM-aligned DMARC，您必須：
+
+   * 為訊息的FROM：網域設定DKIM。 使用指示 [本文章](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * 為先前設定的FROM：/DKIM網域設定DMARC
+
+* DMARC-aligned SPF — 若要透過品牌傳迴路徑設定DMARC-aligned SPF，您必須：
+
+   * 設定品牌化傳迴路徑網域
+      * 設定適當的SPF記錄
+      * 變更MX記錄，以指向將傳送郵件之資料中心的預設MX
+
+   * 為品牌傳迴路徑網域設定DMARC
+
+* 如果您是透過專用IP從Marketo傳送郵件，但尚未實作品牌傳迴路徑，或不確定您是否有，請開啟票證並附上 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+
+* 如果您透過共用IP集區從Marketo傳送郵件，您可以透過以下方式檢視您是否符合信任的IP資格 [在此套用](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. 品牌傳迴路徑免費提供給從Marketo信任的IP傳送的訪客。 如果核准此計畫，請聯絡Marketo支援以設定品牌傳迴路徑。
+
+   * 信任的IP：為每月傳送不到75K且不符合專用IP資格之較低磁碟區使用者的共用IP集區。 這些使用者也必須符合最佳實務需求。
+
+* 如果您是透過共用IP從Marketo傳送郵件，但您不符合信任的IP資格，且每月傳送的郵件超過100,000封，您將需要聯絡Adobe帳戶團隊（您的帳戶經理）以購買專用IP。
+
+* Marketo中不支援也不建議使用嚴格SPF對齊。
+
+## 步驟5：為您的網域設定MX記錄 {#step-set-up-mx-records-for-your-domain}
 
 MX記錄可讓您接收寄送電子郵件至之網域的郵件，以處理回覆和自動回應者。 如果您要從公司網域傳送，您可能已經設定好此專案。 如果沒有，您通常可以將其設定為對應到您公司網域的MX記錄。
 
@@ -214,6 +382,5 @@ Marketo Engage [Salesforce CRM同步](/help/marketo/product-docs/crm-sync/salesf
    <tr>
    <td>130.248.168.17</td>
   </tr>
-
-</tbody>
+ </tbody>
 </table>
