@@ -4,9 +4,9 @@ description: 建立自訂Dynamics同步篩選器 — Marketo檔案 — 產品檔
 title: 建立自訂Dynamics同步篩選器
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
-source-wordcount: '785'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,13 @@ ht-degree: 0%
 若要設定Dynamics同步篩選器：
 
 1. 在您的Dynamics CRM中，為任何物件（銷售機會、連絡人、帳戶、機會和其他自訂實體）建立名為new_synctomkto的自訂兩個選項（布林值）欄位。
-1. 將此欄位指定為「是/否」值，或保留空白。
+1. 將此欄位指定為「是/否」值。
 
->[!NOTE]
+您必須在Dynamics CRM (而非您的資料庫或Marketo)中進行這些變更。
+
+>[!CAUTION]
 >
->您必須在Dynamics CRM (而非您的資料庫或Marketo)中進行這些變更。
+>如果您未指派欄位並保留空白/NULL，它將會同步但不會更新。
 
 Marketo在自動背景同步期間會尋找此欄位，並根據此邏輯決定要同步處理的記錄：
 
