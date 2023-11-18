@@ -4,9 +4,9 @@ description: 更新適用於Microsoft Dynamics的Marketo解決方案 — Marketo
 title: 更新適用於Microsoft Dynamics的Marketo解決方案
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ ht-degree: 0%
 >
 >您必須下載最新的Marketo解決方案 _早於_ 執行任何更新。
 
-1. 前往 **管理員** 區域。
+1. 前往 **[!UICONTROL 管理員]** 區域。
 
    ![](assets/admin.png)
 
-1. 按一下 **Microsoft Dynamics**.
+1. 按一下 **[!DNL Microsoft Dynamics]**.
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. 選取 **下載Marketo解決方案**.
+1. 選取 **[!UICONTROL 下載Marketo解決方案]**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
@@ -45,10 +45,10 @@ ht-degree: 0%
 
 1. 匯入最新版本的解決方案，以取代現有的Dynamics CRM版本(例如：如果您的Dynamics CRM版本為1.4，而最新版本為1.5，您將會匯入 _超過_ 1.4版)。
 
-1. 您會看到下列快顯視窗。 選取 **更新** 和 **維護自訂**，然後按一下 **匯入**.
+1. 您會看到下列快顯視窗。 選取 **[!UICONTROL 更新]** 和 **[!UICONTROL 維護自訂]**，然後按一下 **[!UICONTROL 匯入]**.
 
    ![](assets/update-the-marketo-solution-for-microsoft-dynamics-5.png)
 
 >[!CAUTION]
 >
->選取「升級」而非「更新」可能會導致Dynamics環境中的資料損毀。 **請務必選擇更新** 在「匯入選項」下。
+>選取「升級」而非「更新」可能會導致Dynamics環境中的資料損毀。 _請務必選擇更新_ 在「匯入選項」下。

@@ -3,7 +3,7 @@ description: Salesforce同步錯誤 — Marketo檔案 — 產品檔案
 title: Salesforce同步錯誤
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 1%
@@ -20,11 +20,11 @@ ht-degree: 1%
 
 ## 檢視同步處理錯誤 {#view-sync-errors}
 
-1. 按一下 **管理員**.
+1. 按一下 **[!UICONTROL 管理員]**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. 在整合底下，按一下 **Salesforce**，然後 **同步錯誤** 標籤。
+1. 在整合底下，按一下 **Salesforce**，然後 **[!UICONTROL 同步錯誤]** 標籤。
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -48,10 +48,10 @@ ht-degree: 1%
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. 選取您的日期與時間範圍，然後依「錯誤型別」（「工作層次」或「記錄層次」）進行篩選。 按一下 **套用** 完成時。
+1. 選取您的日期與時間範圍，然後依「錯誤型別」（「工作層次」或「記錄層次」）進行篩選。 按一下 **[!UICONTROL 套用]** 完成時。
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**選擇性步驟**：若要匯出同步錯誤，請按一下 **匯出**. 資料將會匯出為CSV檔。
+**選擇性步驟**：若要匯出同步錯誤，請按一下 **[!UICONTROL 匯出]**. 資料將會匯出為CSV檔。
 
 ![](assets/salesforce-sync-errors-5.png)

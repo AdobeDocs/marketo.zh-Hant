@@ -4,16 +4,16 @@ description: 使用個人帳戶 — Marketo檔案 — 產品檔案
 title: 使用個人帳戶
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
 # 使用個人帳戶 {#using-person-accounts}
 
-個人帳戶可在Salesforce中設定以符合您組織的需求。 以下為Marketo處理個人帳戶的方式。
+個人帳戶可在Salesforce中設定以符合您組織的需求。 以下為Marketo Engage處理個人帳戶的方式。
 
 >[!NOTE]
 >
@@ -33,15 +33,15 @@ ht-degree: 0%
 
 ## 如何區分商業帳戶和個人帳戶？ {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-使用 **為個人帳戶** 在您的智慧清單中篩選，以將個人帳戶與標準企業帳戶分開。
+使用智慧清單中的「Is Person Account」篩選器，將個人帳戶與標準商業帳戶分開。
 
 ## 我的個人帳戶資訊在Marketo Sales Insight中的哪裡顯示？ {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-與個人帳戶相關的活動會顯示在 **帳戶** 面板。
+與個人帳戶相關的活動會顯示在 **[!UICONTROL 帳戶]** 面板。
 
 >[!NOTE]
 >
->Marketo Sales Insight的 **新增至Marketo Campaign** 和 **傳送電子郵件** 選專案前不適用於個人帳戶。
+>Marketo Sales Insight的 **[!UICONTROL 新增至Marketo Campaign]** 和 **[!UICONTROL 傳送電子郵件]** 選專案前不適用於個人帳戶。
 
 ## 如何將機會與個人帳戶建立關聯？ {#how-do-i-associate-opportunities-to-a-person-account}
 

@@ -3,10 +3,10 @@ description: Salesforce同步狀態 — Marketo檔案 — 產品檔案
 title: Salesforce同步狀態
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '552'
-ht-degree: 3%
+source-wordcount: '554'
+ht-degree: 4%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 使用同步狀態儀表板來檢視同步步驟中的同步狀態及其成功狀態。
 
-同步步驟反映物件結構描述和資料本身的每種物件型別所執行的推入或拉入作業。 統計資料涵蓋同步處理期間的新記錄、更新、刪除和失敗計數。 使用者可依日期、作業型別或物件型別進行篩選。 同步狀態儀表板會顯示過去五天的同步處理週期狀態。
+同步步驟反映物件結構描述和資料本身的每種物件型別所執行的推入或拉入作業。 統計資料涵蓋同步處理期間的新記錄、更新、刪除和失敗計數。 使用者可依日期、作業型別或物件型別進行篩選。 同步狀態儀表板會顯示過去五天的同步處理週期狀態。
 
 >[!NOTE]
 >
@@ -22,15 +22,15 @@ ht-degree: 3%
 
 ## 檢視同步處理狀態 {#view-sync-status}
 
-1. 按一下 **管理員**.
+1. 按一下 **[!UICONTROL 管理員]**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. 在「整合」下，按一下Salesforce，然後按一下「同步狀態」標籤。
+1. 在 [!UICONTROL 整合]，按一下 **Salesforce**，然後 **[!UICONTROL 同步狀態]** 標籤。
 
    ![](assets/salesforce-sync-status-2.png)
 
-依預設，統計資料會依最近啟動的專案排序。 您可以按一下排序圖示，依「開始時間」或「結束時間」排序（從最近到最舊）。
+依預設，統計資料會依最近啟動的專案排序。 您可以按一下排序圖示，依開始時間或結束時間（從最近到最舊）排序。
 
 ![](assets/salesforce-sync-status-3.png)
 
@@ -40,15 +40,15 @@ ht-degree: 3%
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. 選取您的日期和時間範圍，然後按一下下拉式清單，依「物件型別」、「作業型別」和/或「狀態型別」篩選。
+1. 選取您的日期和時間範圍，然後按一下下拉式清單以作為篩選依據 [!UICONTROL 物件型別]， [!UICONTROL 作業型別]、和/或 [!UICONTROL 狀態型別].
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. 按一下 **套用**.
+1. 按一下 **[!UICONTROL 套用]**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**選擇性步驟**：若要匯出同步錯誤，請按一下 **匯出**. 資料將會匯出為CSV檔。
+**選擇性步驟**：若要匯出同步錯誤，請按一下 **[!UICONTROL 匯出]**. 資料將會匯出為CSV檔。
 
 ![](assets/salesforce-sync-status-7.png)
 

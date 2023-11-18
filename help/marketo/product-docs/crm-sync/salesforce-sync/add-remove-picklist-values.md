@@ -4,9 +4,9 @@ description: 新增/移除挑選清單值 — Marketo檔案 — 產品檔案
 title: 新增/移除挑選清單值
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 新增挑選清單值 {#adding-picklist-values}
 
-1. 如果在Salesforce中將額外的值新增至挑選清單欄位型別，您將收到 [通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 識別此動作將影響的表單。
+1. 如果在Salesforce中將額外的值新增至挑選清單欄位型別，您將收到 [通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} 識別此動作將影響的表單。
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. 前往表單編輯器並 [新增其他值](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) 至您的建議清單。
+1. 前往表單編輯器並 [新增其他值](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} 至您的建議清單。
 
 ## 移除挑選清單值 {#remove-picklist-values}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果Salesforce中的潛在客戶欄位和聯絡人欄位有不同的值，則共同的值將可以在Marketo中使用。
+>如果Salesforce中的潛在客戶欄位和聯絡人欄位的值不同，則共同的值將可用於Marketo Engage。
 
 如果Salesforce中的潛在客戶欄位和聯絡人欄位有不同的值：
 

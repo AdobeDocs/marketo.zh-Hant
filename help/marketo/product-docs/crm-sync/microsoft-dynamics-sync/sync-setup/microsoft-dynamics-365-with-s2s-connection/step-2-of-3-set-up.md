@@ -4,7 +4,7 @@ description: 步驟3之2 — 設定具有伺服器對伺服器連線的Marketo�
 title: 步驟3之2 — 設定具有伺服器對伺服器連線的Marketo解決方案
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 0%
@@ -27,15 +27,15 @@ ht-degree: 0%
 
 1. 依照下列步驟授予管理員同意 [本文章](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
 
-1. 按一下「 」，在「管理中心」產生使用者端密碼 **憑證和密碼**.
+1. 按一下「 」，在「管理中心」產生使用者端密碼 **[!UICONTROL 憑證和密碼]**.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-1.png)
 
-1. 按一下 **新使用者端密碼** 按鈕。
+1. 按一下 **[!UICONTROL 新使用者端密碼]** 按鈕。
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-2.png)
 
-1. 輸入使用者端密碼說明，然後按一下 **新增**.
+1. 輸入使用者端密碼說明，然後按一下 **[!UICONTROL 新增]**.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-3.png)
 
@@ -65,19 +65,19 @@ Federated Azure AD至ADFS Onprem需要為特定應用程式建立主領域探索
 
 即將完成！ 我們只剩下通知Marketo解決方案有關建立的新使用者。
 
-1. 返回「進階設定」區段，然後按一下 ![](assets/image2015-5-13-15-3a49-3a19.png) 圖示並選取「 」 **Marketo設定**.
+1. 返回「進階設定」區段，然後按一下 ![](assets/image2015-5-13-15-3a49-3a19.png) 圖示並選取「 」 **[!UICONTROL Marketo設定]**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >如果您沒有看到 **Marketo設定** 在「設定」功能表中，重新整理頁面。 如果這樣無法解決問題，請嘗試 [發佈Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"} 再次登出並重新登入。
+   >如果您在「設定」功能表中看不到「Marketo設定」，請重新整理頁面。 如果這樣無法解決問題，請嘗試 [發佈Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"} 再次登出並重新登入。
 
-1. 按一下 **預設**.
+1. 按一下 **[!UICONTROL 預設]**.
 
    ![](assets/fifteen.png)
 
-1. 按一下 **Marketo使用者** 欄位並選取您建立的同步使用者。
+1. 按一下 **[!UICONTROL Marketo使用者]** 欄位並選取您建立的同步使用者。
 
    ![](assets/sixteen.png)
 
@@ -89,11 +89,11 @@ Federated Azure AD至ADFS Onprem需要為特定應用程式建立主領域探索
 
    ![](assets/seventeen.png)
 
-1. 按一下 ![](assets/image2015-5-13-15-3a49-3a19-1.png) 圖示並選取「 」 **解決方案**.
+1. 按一下 ![](assets/image2015-5-13-15-3a49-3a19-1.png) 圖示並選取「 」 **[!UICONTROL 解決方案]**.
 
    ![](assets/eighteen.png)
 
-1. 按一下 **發佈所有自訂** 按鈕。
+1. 按一下 **[!UICONTROL 發佈所有自訂]** 按鈕。
 
    ![](assets/nineteen.png)
 
