@@ -3,10 +3,10 @@ description: 步驟3之1 — 將Marketo欄位新增至Veeva CRM - Marketo檔案 
 title: 步驟3之1 — 將Marketo欄位新增至Veeva CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '533'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -30,23 +30,23 @@ Marketo Engage使用一組欄位來擷取特定型別的行銷相關資訊。 �
 
 請為「分數」欄位執行下列步驟以將其新增。
 
-1. 登入Veeva CRM並按一下 **設定**.
+1. 登入Veeva CRM並按一下 **[!UICONTROL 設定]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. 按一下「物件與欄位」，然後選取「物件管理員」。
+1. 按一下 **[!UICONTROL 物件和欄位]** 並選取 **[!UICONTROL 物件管理員]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
-1. 在搜尋列中搜尋連絡人。
+1. 在搜尋列中搜尋「連絡人」。
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. 按一下Contact物件。
+1. 按一下 **[!UICONTROL 連絡人]** 物件。
 
-1. 選取欄位和關係。
+1. 選取 **[!UICONTROL 欄位和關係]**.
 
-1. 按一下 **新增**.
+1. 按一下 **[!UICONTROL 新增]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
@@ -54,11 +54,11 @@ Marketo Engage使用一組欄位來擷取特定型別的行銷相關資訊。 �
 
    ![](assets/step-1-of-3-add-marketo-fields-5.png)
 
-1. 按一下 **下一個**.
+1. 按一下&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. 輸入欄位的「欄位標籤」、「長度」和「欄位名稱」，如下表所示。
+1. 輸入 **[!UICONTROL 欄位標籤]**， **[!UICONTROL 長度]**、和 **[!UICONTROL 欄位名稱]** 欄位的，如下表所示。
 
 <table>
  <tbody>
@@ -88,11 +88,11 @@ Marketo Engage使用一組欄位來擷取特定型別的行銷相關資訊。 �
 >
 >文字和數字欄位需要長度，但日期/時間欄位不需要。說明為選用。
 
-1. 按一下 **下一個**.
+1. 按一下&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. 指定存取設定，然後按一下 **下一個**.
+1. 指定存取設定，然後按一下 **[!UICONTROL 下一個]**.
 
 1. 將所有角色設定為可見和唯讀。
 
@@ -105,9 +105,9 @@ Marketo Engage使用一組欄位來擷取特定型別的行銷相關資訊。 �
 
 1. 選擇應顯示欄位的頁面配置。
 
-1. 按一下 **儲存並新增** 返回並建立其他兩個自訂欄位。
+1. 按一下 **[!UICONTROL 儲存並新增]** 返回並建立其他兩個自訂欄位。
 
-1. 按一下 **儲存** 完成全部三個步驟後。
+1. 按一下 **[!UICONTROL 儲存]** 完成全部三個步驟後。
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 

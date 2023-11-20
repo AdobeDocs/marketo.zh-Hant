@@ -4,23 +4,23 @@ description: SFDC Sync — 潛在客戶佇列 — Marketo檔案 — 產品檔案
 title: SFDC同步 — 潛在客戶佇列
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
 # SFDC同步：潛在客戶佇列 {#sfdc-sync-lead-queue}
 
-Marketo可讓您將人員新增至 [Salesforce潛在客戶佇列](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) 協助銷售機會分銷。 詳情如下。
+Marketo Engage可讓您將人員新增至 [Salesforce潛在客戶佇列](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"} 協助銷售機會分銷。 詳情如下。
 
 ## 如何在Marketo中將人員指派至佇列？ {#how-to-assign-a-person-to-a-queue-in-marketo}
 
 您可以使用下列任一流程作業，將人員指派給Salesforce潛在客戶佇列：
 
-* [將人員同步至SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-* [變更擁有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+* [將人員同步至SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}
+* [變更擁有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}
 
 >[!NOTE]
 >

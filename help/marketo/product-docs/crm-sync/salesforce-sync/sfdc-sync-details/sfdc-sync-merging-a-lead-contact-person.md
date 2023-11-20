@@ -4,9 +4,9 @@ description: SFDC Sync — 合併銷售機會/聯絡人/人員 — Marketo檔案
 title: SFDC Sync — 合併銷售機會/聯絡人/人員
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 有時最好只列出規則。 開始吧：
 
-* 當您合併兩個潛在客戶時 **Salesforce**，一般同步會通知Marketo和銷售機會會自動合併為Marketo中的人員。
+* 當您合併兩個潛在客戶時 **Salesforce**，一般同步會告訴Marketo Engage，而銷售機會會自動合併為Marketo中的人員。
 * 合併兩個人員 **Marketo** 實際上會叫用與在Salesforce中合併潛在客戶相同的程式。 仍可自動運作。
 * 合併 **潛在客戶（人員）與聯絡人** 運作方式相同。 最後兩邊只有一個接觸點。
 * 合併時，會加總預設分數。
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->深入探討，瞭解更多關於 [在Marketo中合併人員](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
+>深入探討，瞭解更多關於 [在Marketo中合併人員](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.

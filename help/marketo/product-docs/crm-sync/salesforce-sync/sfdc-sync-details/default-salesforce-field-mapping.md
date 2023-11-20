@@ -4,16 +4,16 @@ description: 預設Salesforce欄位對應 — Marketo檔案 — 產品檔案
 title: 預設Salesforce欄位對應
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '363'
 ht-degree: 43%
 
 ---
 
 # 預設Salesforce欄位對應 {#default-salesforce-field-mapping}
 
-當您初次將Marketo帳戶與Salesforce同步時，Marketo會自動在內建的Salesforce和Marketo欄位之間建立這些關聯。 Marketo也會同步處理潛在客戶、帳戶、商機和聯絡人上的自訂欄位。
+當您最初將Marketo Engage帳戶與Salesforce同步時，Marketo會自動在內建的Salesforce和Marketo欄位之間建立這些關聯。 Marketo也會同步處理潛在客戶、帳戶、商機和聯絡人上的自訂欄位。
 
 ## 潛在客戶欄位 {#lead-fields}
 

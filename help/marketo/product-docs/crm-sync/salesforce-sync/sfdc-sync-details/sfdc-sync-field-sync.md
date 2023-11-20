@@ -4,16 +4,16 @@ description: SFDC同步 — 欄位同步 — Marketo檔案 — 產品檔案
 title: SFDC同步 — 欄位同步
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
 
 # SFDC同步：欄位同步 {#sfdc-sync-field-sync}
 
-Marketo會從Salesforce同步欄位資訊。 詳情如下。
+從SalesforceMarketo Engage同步欄位資訊。 詳情如下。
 
 ## 哪些欄位已同步？ {#which-fields-are-synced}
 
@@ -57,7 +57,7 @@ SFDC中的查閱欄位會同步ID，但不會同步參照的名稱。
 
 ## SFDC公式欄位呢？ {#what-about-sfdc-formula-fields}
 
-公式欄位會同步，但公式中參照的更新要等到更新後才會同步。 [系統模組戳記](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US).
+公式欄位會同步，但公式中參照的更新要等到更新後才會同步。 [系統模組戳記](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US){target="_blank"}.
 
 ## 當我從Salesforce中刪除先前與Marketo同步的欄位時，會發生什麼情況？ {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 
