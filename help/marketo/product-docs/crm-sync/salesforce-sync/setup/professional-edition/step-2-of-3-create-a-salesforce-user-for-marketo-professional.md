@@ -4,7 +4,7 @@ description: 步驟3之2 — 建立Marketo （專業）的Salesforce使用者 �
 title: 步驟3之2 — 建立Marketo的Salesforce使用者（專業）
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 8%
@@ -15,11 +15,11 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->這些步驟必須由Salesforce管理員完成
+>這些步驟必須由Salesforce管理員完成。
 
 >[!PREREQUISITES]
 >
->[步驟3之1：將Marketo欄位新增至Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+>[步驟3之1：將Marketo欄位新增至Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
 
 在本文中，您將使用「Salesforce頁面配置」來自訂欄位許可權，並建立Marketo-Salesforce同步使用者。
 
@@ -27,23 +27,23 @@ ht-degree: 8%
 
 Salesforce Professional會以頁面配置設定欄位層級協助工具，而非Salesforce Enterprise/Unlimited的設定檔。 按照以下步驟操作將允許Marketo同步使用者更新自訂欄位。
 
-1. 型別 **頁面配置** 導覽搜尋列中，無需按下 **輸入**，然後按一下 **頁面配置** 在 **銷售機會**.
+1. Type &quot;[!UICONTROL 頁面配置]&quot; （位於導覽搜尋列中，無需按下） **[!UICONTROL 輸入]**，然後按一下 **[!UICONTROL 頁面配置]** 在 **[!UICONTROL 銷售機會]**.
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
-1. 按一下 **編輯** 潛在客戶配置旁邊。
+1. 按一下 **[!UICONTROL 編輯]** 潛在客戶配置旁邊。
 
    ![](assets/image2016-2-26-13-3a2-3a46.png)
 
-1. 按一下並拖曳新專案 **章節** 放入頁面版面配置。
+1. 按一下並拖曳新專案 **[!UICONTROL 章節]** 放入頁面版面配置。
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. 輸入「Marketo」作為 **區段名稱** 並按一下 **確定**.
+1. 輸入「Marketo」作為 **[!UICONTROL 區段名稱]** 並按一下 **[!UICONTROL 確定]**.
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. 按一下並拖曳欄位 **贏取日期** 到 **Marketo** 區段。
+1. 按一下並拖曳欄位 **[!UICONTROL 贏取日期]** 到 **Marketo** 區段。
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
@@ -74,21 +74,21 @@ Salesforce Professional會以頁面配置設定欄位層級協助工具，而非
    >
    >向下拖曳至頁面右側，為欄位建立兩欄。 您可以將欄位從一側移動到另一側，以平衡欄長度。
 
-1. 按一下 **儲存** 完成新增欄位時。
+1. 按一下 **[!UICONTROL 儲存]** 完成新增欄位時。
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
-1. 對Salesforce重複上述所有步驟 **連絡人頁面配置**.
+1. 對Salesforce重複上述所有步驟 **[!UICONTROL 連絡人頁面配置]**.
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
-1. 記得按一下 **儲存** 當您使用完畢時 **連絡人頁面配置**.
+1. 記得按一下 **[!UICONTROL 儲存]** 當您使用完畢時 **[!UICONTROL 連絡人頁面配置]**.
 
    ![](assets/image2014-12-9-12-3a57-3a30.png)
 
    >[!NOTE]
    >
-   >確定 **全天活動** 欄位已新增至 **事件頁面配置**.
+   >確定 **[!UICONTROL 全天活動]** 欄位已新增至 **[!UICONTROL 事件頁面配置]**.
 
 ## 建立同步使用者 {#create-sync-user}
 
@@ -96,17 +96,17 @@ Marketo需要認證才能存取Salesforce。 建議您先透過下列步驟建�
 
 >[!NOTE]
 >
->如果您的組織沒有額外的Salesforce授權，您可以使用現有的 **行銷使用者** 使用 **系統管理員** 設定檔。
+>如果您的組織沒有其他Salesforce授權，您可以使用具有系統管理員設定檔的現有行銷使用者。
 
-1. 在導覽搜尋列中輸入「users」，然後按一下 **使用者** 在 **管理使用者**.
+1. 在導覽搜尋列中輸入「users」，然後按一下 **[!UICONTROL 使用者]** 在 **[!UICONTROL 管理使用者]**.
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
-1. 按一下 **新使用者**.
+1. 按一下 **[!UICONTROL 新使用者]**.
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. 填寫必填欄位，然後選取 **使用者授權： Salesforce**，設定 **設定檔：系統管理員**，檢查 **行銷使用者** 並按一下 **儲存**.
+1. 填寫必填欄位，然後選取 **[!UICONTROL 使用者授權： Salesforce]**，設定 **[!UICONTROL 設定檔：系統管理員]**，檢查 **[!UICONTROL 行銷使用者]** 並按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 
@@ -118,4 +118,4 @@ Marketo需要認證才能存取Salesforce。 建議您先透過下列步驟建�
 
 >[!MORELIKETHIS]
 >
->[步驟3之3：連結Marketo和Salesforce （專業）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
+>[步驟3之3：連結Marketo和Salesforce （專業）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md){target="_blank"}

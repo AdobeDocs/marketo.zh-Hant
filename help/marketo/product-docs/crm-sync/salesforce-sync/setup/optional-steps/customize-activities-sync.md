@@ -4,7 +4,7 @@ description: 自訂活動同步 — Marketo檔案 — 產品檔案
 title: 自訂活動同步
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 自訂活動同步 {#customize-activities-sync}
 
-如果您沒有使用Marketo Sales Insight，Marketo可以為某些事件建立Salesforce活動歷程記錄。 以下說明啟用方法。
+如果您沒有使用Marketo Sales Insight，Marketo Engage可以為某些事件建立Salesforce活動歷程記錄。 以下說明啟用方法。
 
-1. 前往 **管理員**.
+1. 前往 **[!UICONTROL 管理員]**.
 
    ![](assets/admin.png)
 
-1. 按一下 **Salesforce**，然後按一下 **編輯同步選項**.
+1. 按一下 **[!DNL Salesforce]**，然後按一下 **[!UICONTROL 編輯同步選項]**.
 
    ![](assets/two-1.png)
 
-1. 勾選您希望Marketo推送至Salesforce的活動旁的方塊，然後按一下 **儲存**.
+1. 勾選您希望Marketo推送至Salesforce的活動旁的方塊，然後按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/three-1.png)
 
@@ -96,8 +96,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->「收到的銷售電子郵件」會 **非** 表示已傳遞。 對於透過Sales Insight傳送的電子郵件，不會擷取傳遞狀態。
+>「收到的銷售電子郵件」會 _非_ 表示已傳遞。 對於透過Sales Insight傳送的電子郵件，不會擷取傳遞狀態。
 
 >[!TIP]
 >
->如果您有興趣將更多Marketo資訊帶入Salesforce，請檢視我們的 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) 產品。
+>如果您有興趣將更多Marketo資訊帶入Salesforce，請檢視我們的 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} 產品。
