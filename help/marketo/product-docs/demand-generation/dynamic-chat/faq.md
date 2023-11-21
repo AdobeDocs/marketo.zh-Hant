@@ -3,9 +3,9 @@ description: Dynamic Chat常見問題集 — Marketo檔案 — 產品檔案
 title: Dynamic Chat常見問題集
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
+source-git-commit: a7404dc5c3f2014f53d49fd033f7e4002b9b2203
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '781'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Dynamic ChatJavaScript程式碼片段可安裝在任何網站以及Marketo登陸
 
 **Dynamic Chat是否支援英語以外的任何語言？**
 
-有。Dynamic Chat支援下列語言：法文、德文、日文、西班牙文、義大利文、巴西葡萄牙文、韓文、簡體中文和繁體中文。 進一步瞭解 [變更語言](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
+有。Dynamic Chat支援下列語言：法文、西班牙文、德文、日文、荷蘭文、義大利文、巴西葡萄牙文、韓文、簡體中文和繁體中文。 進一步瞭解 [變更語言](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **您支援AI/NLP功能嗎？**
 
