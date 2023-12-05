@@ -4,16 +4,16 @@ description: 建立自訂Dynamics同步篩選器 — Marketo檔案 — 產品檔
 title: 建立自訂Dynamics同步篩選器
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
 
 # 建立自訂Dynamics同步篩選器 {#create-a-custom-dynamics-sync-filter}
 
-不想將您Dynamics CRM中的所有專案同步至Marketo嗎？ 別擔心！ Marketo可讓您設定同步篩選器，並僅同步部分記錄。
+不想將您Dynamics CRM中的所有專案同步至Marketo Engage嗎？ 別擔心！ Marketo可讓您設定同步篩選器，並僅同步部分記錄。
 
 ## 概觀 {#overview}
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->如果您未指派欄位並保留空白/NULL，它將會同步但不會更新。
+>如果您未指派欄位並保留空白/NULL，它將會同步但不會更新。 Dynamics CRM中欄位值為空白/空的記錄在Marketo中會顯示為「false」。
 
 Marketo在自動背景同步期間會尋找此欄位，並根據此邏輯決定要同步處理的記錄：
 
