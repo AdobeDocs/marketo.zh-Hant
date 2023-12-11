@@ -4,20 +4,34 @@ title: 新增簡訊的流程步驟
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
 
 # 新增簡訊的流程步驟 {#add-a-flow-step-for-sms}
 
-Marketo Engage有三個流程步驟可用於簡訊智慧行銷活動：
+Marketo Engage有三個流程步驟可用於SMS智慧行銷活動：
 
-* **傳送簡訊訊息**  — 此流程動作會從Marketo智慧清單傳送訊息給訂閱使用者選擇加入Vibes訂閱清單的人員。 它不會起始訂閱程式。
-* **訂閱Vibes清單**  — 此流程動作會透過使用者選取的Vibes贏取行銷活動來起始簡訊訂閱程式。 Vibes接著會傳送確認訊息；收件者必須回覆「Y」才能在24小時內確認選擇加入。 使用者選擇加入後，就會成為您相關Vibes訂閱清單的成員。
-* **取消訂閱訪客清單**  — 此流量動作會從使用者選擇加入的Vibes訂閱清單中取消訂閱每個人。 當使用者對您的程式碼發文「停止」時，其人員記錄會更新，以反映他們不再是Vibes訂閱清單的成員。
+<table>
+<tbody>
+  <tr>
+    <td style="width:25%">傳送簡訊訊息</td>
+    <td>此流程動作會從Marketo智慧清單傳送訊息給訂閱使用者選擇加入的Vibes訂閱清單的使用者。 它不會起始訂閱程式。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">瞭解更多</a>.</td>
+  </tr>
+
+<tr>
+    <td style="width:25%">訂閱Vibes清單</td>
+    <td>此流程動作會透過使用者選取的Vibes贏取行銷活動來起始簡訊訂閱程式。 然後Vibes會傳送確認訊息，收件者必須在24小時內以「Y」回覆該訊息，以確認選擇加入。 使用者選擇加入後，就會成為您相關Vibes訂閱清單的成員。</td>
+  </tr>
+  <tr>
+    <td style="width:25%">取消訂閱訪客清單</td>
+    <td>此流量動作會從使用者選擇加入的Vibes訂閱清單中取消訂閱每個人。 當使用者將「STOP」文字傳送到您的程式碼時，其人員記錄會更新，以反映他們不再是Vibes訂閱清單的成員。</td>
+  </tr>
+  </tbody>
+</table>
 
 >[!NOTE]
 >

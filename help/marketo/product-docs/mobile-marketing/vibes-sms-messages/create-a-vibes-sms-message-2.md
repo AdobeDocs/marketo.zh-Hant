@@ -4,9 +4,9 @@ title: 建立Vibes SMS訊息
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
@@ -19,72 +19,65 @@ ht-degree: 0%
 >
 >此功能可作為您的Adobe Marketo Engage帳戶的附加元件使用。 為了適當地布建，您必須透過Adobe購買。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-1. 前往 **行銷活動**.
+1. 前往 **[!UICONTROL 行銷活動]**.
 
-   ![](assets/mobile-right-click-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-1.png)
 
-1. 以滑鼠右鍵按一下方案，然後選取 **新增本機資產**.
+1. 以滑鼠右鍵按一下所需的程式，然後選取 **[!UICONTROL 新增本機資產]**.
 
-   ![](assets/mobile-right-click-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-2.png)
 
-1. 按一下 **新增本機資產**.
+1. 選取 **簡訊訊息**.
 
-   ![](assets/new-local-asset-hand.jpg)
-
-   >[!TIP]
-   >
-   >或者，您可以按一下 **新增** 下拉式清單。
-
-1. 按一下 **簡訊訊息**.
-
-   ![](assets/new-local-asset-selection-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-3.png)
 
 1. 輸入新SMS訊息的名稱和說明（選用），然後按一下 **建立**.
 
-   ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
+   ![](assets/create-a-vibes-sms-message-4.png)
 
-1. 按一下 **編輯草稿**.
+1. 在編輯器中，在藍色泡泡內按一下，並開始輸入文字。
 
-   ![](assets/edit-draft-hand.jpg)
-
-1. 在訊息編輯器中，在藍色泡泡內按一下，並開始輸入文字。
-
-   ![](assets/message-text-pencil.jpg)
+   ![](assets/create-a-vibes-sms-message-5.png)
 
    >[!NOTE]
    >
    >使用標準ASCII字元集時，SMS訊息的字元限製為160個字元。 如果超過160個字元，訊息將會根據字元總數進行分割。
 
-1. 按一下 **Token** 在「插入」功能表中新增Token至訊息。
+1. 若要在訊息中新增Token，請撰寫快速問候語，然後按一下 **Token**.
 
-   ![](assets/add-token-real-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-6.png)
 
    >[!NOTE]
    >
-   >新增Token可能會造成訊息超過字元限制。 然後，會分割訊息，導致其他訊息。
+   >新增Token可能會造成訊息超過字元限制。 接著會分割訊息，並建立其他訊息。
 
    >[!IMPORTANT]
    >
    >SMS法規遵循：所有輸出SMS訊息都必須包含品牌名稱或程式說明。 對於循環訊息程式，每個訂閱者應每月至少提供一次HELP和STOP指示。
 
-   ??????使用Marketo URL縮短程式將導致您的訊息??????案中使用X個字元
+1. 選取所需的 **Token**，輸入選填的 **預設值**，然後按一下 **建立**.
 
-1. 按一下 **連結** 在「插入」功能表中，將連結新增至訊息。
+   ![](assets/create-a-vibes-sms-message-7.png)
 
-   ![](assets/full-message-link-hand.jpg)
+1. 若要新增連結，請選取訊息中您希望其出現的位置，然後按一下 **連結**.
 
-1. 選取連結型別。 預設值為「Marketo登陸頁面」。 如果您這麼做，您必須從下拉式清單中選取登入頁面，然後按一下 **插入**.
+   ![](assets/create-a-vibes-sms-message-8.png)
 
-   ![](assets/insert-link-real-hands.jpg)
+1. 選取連結型別。 預設值為「Marketo登陸頁面」。 如果您這麼做，請按一下「著陸頁面」下拉式清單，然後選取所需頁面。 按一下 **插入** 完成時。
+
+   ![](assets/create-a-vibes-sms-message-9.png)
 
    >[!NOTE]
    >
-   >* 預設會選取這兩個追蹤連結。
-   >* 使用Marketo URL縮短程式會導致訊息中使用X個字元。??????????????????
+   >預設會選取這兩個追蹤連結。 取消勾選「僅包含mkt_tok 」仍可追蹤連結，但在重新導向後，目的地URL將不會包含mkt_tok查詢字串引數。 此引數由Marketo登陸頁面和Munchkin使用，以確保正確追蹤人員活動（例如人員選擇退出時）。
 
-1. 如果您想改用外部URL，請按一下 **外部URL** 按鈕，並在URL欄位中輸入URL。 按一下 **插入**.
+1. 如果您想改用外部URL，請選取 **外部URL**，輸入/貼上URL，然後按一下 **插入**.
 
-   ![](assets/insert-link-url-hands.jpg)
+   ![](assets/create-a-vibes-sms-message-10.png)
+
+   >[!NOTE]
+   >
+   >保留「追蹤連結」選取狀態時，Marketo會自動修改URL以進行追蹤。 如果您選擇停用追蹤，則訊息中的URL會顯示為未變更(例如 `www.adobe.com`)。
 
    >[!CAUTION]
    >
@@ -92,18 +85,10 @@ ht-degree: 0%
 
 1. 連結會顯示在訊息中。
 
-   ![](assets/link-added.jpg)
+   ![](assets/create-a-vibes-sms-message-11.png)
 
    >[!NOTE]
    >
-   >Marketo會顯示品牌追蹤網域的連結預覽。 如果您清除mkt_tok連結核取方塊，則連結會變更。 也清除追蹤連結核取方塊，URL會縮短至其基本長度(例如www.mygooglepage.com)。
+   >Marketo會顯示品牌追蹤網域的連結預覽。 如果您清除mkt_tok連結核取方塊，則連結會變更。
 
-   ![](assets/image2016-7-27-16-3a20-3a16.png)
-
-   >[!NOTE]
-   >
-   >字元計數僅反映最低訊息中包含的字元。
-
-如果您插入的訊息超過美國的限制，編輯器會將您的訊息分成多個區段。 900個字元的絕對總限製為。 達到此限制後，訊息在傳送給其對象時將會自動截斷。
-
-美國限制????????
+如果您插入超過160個字元，編輯器會將您的SMS分成多個區段。 每則訊息的整體限製為900個字元。 如果超過此值，訊息在傳送時將截斷。

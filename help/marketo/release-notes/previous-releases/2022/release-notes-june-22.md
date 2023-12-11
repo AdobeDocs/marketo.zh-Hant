@@ -3,9 +3,9 @@ description: 發行說明 — 2022年6月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2022年6月
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '640'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 * **公開自訂物件的CreatedAt/UpdatedAt欄位**：可讓您檢查「人員詳細資料」畫面中的這些欄位，以獲得更多分析。
 
-## 跨頻道協調 {#cross-channel-orchestration}
+## 跨頻道協調 {#cross-channel-orchestration}
 
 * **改善Dynamic Chat的串流設計工具可用性**：直接從串流設計工具畫布新增卡片，不需要拖放。 Dynamic Chat介面也已經過改良，以便提供更清楚的個別卡片內容顯示。
 

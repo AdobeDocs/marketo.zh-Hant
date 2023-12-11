@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '9099'
-ht-degree: 1%
+source-wordcount: '9267'
+ht-degree: 0%
 
 ---
 
@@ -208,7 +208,7 @@ ht-degree: 1%
          + [設定訂閱的預設位置設定](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [瞭解隱私權設定](product-docs/administration/settings/understanding-privacy-settings.md)
          + [使用通用ID進行訂閱登入](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
-      + 標記 {#tags}
+      + 標籤 {#tags}
          + [建立新的程式標籤和標籤值](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
          + [建立方案頻道](product-docs/administration/tags/create-a-program-channel.md)
          + [建立自訂標籤](product-docs/administration/tags/create-custom-tags.md)
@@ -659,7 +659,7 @@ ht-degree: 1%
          + 整合 {#integrations}
             + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md)
             + [Adobe PDF 嵌入式 API](product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md)
-         + 即時聊天 {#live-chat}
+         + 即時交談 {#live-chat}
             + [即時聊天總覽](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [專員收件匣](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
          + 設定與組態 {#setup-and-configuration}
@@ -671,7 +671,7 @@ ht-degree: 1%
             + [代理程式管理](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
             + [安全性設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
             + [路由](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
-      + 事件 {#events}
+      + 活動 {#events}
          + 瞭解事件 {#understanding-events}
             + [將成員新增至事件程式](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
             + [建立新的事件程式](product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
@@ -706,7 +706,7 @@ ht-degree: 1%
             + [推廣互動式網路研討會](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
             + [修改或刪除互動式網路研討會](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [事件工作流程](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
-      + Facebook {#facebook}
+      + facebook {#facebook}
          + [在Facebook中新增銷售機會至自訂對象](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [在Facebook中建立自訂對象](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
          + [編輯Facebook Rich Post設定](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
@@ -935,7 +935,7 @@ ht-degree: 1%
             + [Token概述](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
             + [在登入頁面中使用動態內容](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
             + [使用URL產生器](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
-      + Social {#social}
+      + 社交 {#social}
          + 設定社交動作 {#configuring-social-actions}
             + [設定共用後提示](product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)
             + [設定社交應用程式的個人擷取](product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md)
@@ -1632,7 +1632,7 @@ ht-degree: 1%
          + [在智慧清單觸發器和篩選器中使用Vibes SMS訊息](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + 個人化 {#personalization}
       + 分段與代碼片段 {#segmentation-and-snippets}
-         + 區段 {#segmentation}
+         + 細分 {#segmentation}
             + [核准分段](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
             + [建立細分](product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
             + [定義區段規則](product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
@@ -1812,7 +1812,7 @@ ht-degree: 1%
             + [定義期間成本](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
             + [啟用收入週期Analytics的自訂欄位同步](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
             + [依收入階段的人員報表](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
-            + 出處 {#attribution}
+            + 歸因 {#attribution}
                + [瞭解歸因](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
                + [歸因範例1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
                + [歸因範例2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
@@ -1943,26 +1943,27 @@ ht-degree: 1%
 + 發行說明 {#release-notes}
    + [發行排程](release-notes/release-schedule.md)
    + [最新版本](release-notes/current.md)
+   + [目前版本暫時頁面](release-notes/current-temp.md)
    + 舊版 {#previous-releases}
-      + 2023 {#2023}
+      + 2023年 {#2023}
          + [發行說明： 2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [發行說明： 2023年3月](release-notes/previous-releases/2023/release-notes-mar-23.md)
          + [發行說明： 2023年5月](release-notes/previous-releases/2023/release-notes-may-23.md)
          + [發行說明： 2023年7月](release-notes/previous-releases/2023/release-notes-july-23.md)
          + [發行說明： 2023年9月](release-notes/previous-releases/2023/release-notes-sep-23.md)
-      + 2022 {#2022}
+      + 2022年 {#2022}
          + [發行說明： 2022年1月](release-notes/previous-releases/2022/release-notes-jan-22.md)
          + [發行說明： 2022年3月](release-notes/previous-releases/2022/release-notes-mar-22.md)
          + [發行說明： 2022年5月](release-notes/previous-releases/2022/release-notes-may-22.md)
          + [發行說明： 2022年6月](release-notes/previous-releases/2022/release-notes-june-22.md)
          + [發行說明： 2022年8月](release-notes/previous-releases/2022/release-notes-aug-22.md)
          + [發行說明： 2022年10月](release-notes/previous-releases/2022/release-notes-oct-22.md)
-      + 2021 {#2021}
+      + 2021年 {#2021}
          + [發行說明： 2021年1月](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [發行說明： 2021年5月](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [發行說明： 2021年8月](release-notes/previous-releases/2021/release-notes-aug-21.md)
          + [發行說明： 2021年10月](release-notes/previous-releases/2021/release-notes-oct-21.md)
-      + 2020 {#2020}
+      + 2020年 {#2020}
          + [發行說明： 2020年1月](release-notes/previous-releases/2020/release-notes-jan-20.md)
          + [發行說明： 2020年2月](release-notes/previous-releases/2020/release-notes-feb-20.md)
          + [發行說明： 2020年6月](release-notes/previous-releases/2020/release-notes-june-20.md)
