@@ -1,9 +1,9 @@
 ---
 description: 發行說明 — 2023年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2023年3月
-exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
+exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d4bd94b22b4f9da993150a94d2757014cbf87d80
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 5%
