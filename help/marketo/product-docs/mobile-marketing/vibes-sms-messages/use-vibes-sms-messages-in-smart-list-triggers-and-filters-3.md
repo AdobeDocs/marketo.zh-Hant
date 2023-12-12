@@ -4,9 +4,9 @@ title: 在智慧清單觸發器和篩選器中使用Vibes SMS訊息
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
+source-git-commit: 6b8c54dbe95c7bc6e2f68a48de11306f3f678cb6
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 新增檔案
 
-在您之後 [建立Vibes SMS訊息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}，您就會想要在Smart Campaign中使用智慧列示觸發器和篩選器，以取得優點。 方法如下。
+在您之後 [建立簡訊訊息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}，您就會想要在Smart Campaign中使用智慧列示觸發器和篩選器，以取得優點。 方法如下。
 
 1. 在「我的Marketo」中，按一下 **行銷活動**.
 
