@@ -2,10 +2,10 @@
 description: 發行說明 — 2023年9月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2023年9月
 feature: Release Information
-exl-id: fe00a1cf-c4bd-4513-bd39-ed81ea02c23d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '922'
 ht-degree: 1%
 
 ---
@@ -248,8 +248,8 @@ ht-degree: 1%
   </tr>
     <tr> 
    <td><strong>對話流程資產頁面</strong>： Design Studio資產頁面現在會列出Dynamic Chat對話流程。 檢視哪些流程可以整合到Marketo Engage資產中，並直接深層連結到其編輯器。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td>不適用</td>
   </tr>
   <tr> 
    <td> </td> 
