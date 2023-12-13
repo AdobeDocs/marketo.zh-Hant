@@ -4,9 +4,9 @@ title: 傳送簡訊訊息
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 8e56b571a34451d6b0436dc041efaf0fd575db36
+source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 0%
 >
 >* 依電話號碼Marketo Engage重複資料刪除。 因此，如果多人擁有相同的電話號碼，則只有一人會收到訊息，前提是他們只有一個Vibes訂閱清單的成員。 去重複化是在Vibes訂閱清單層級，而非Marketo方案層級完成。
 >* Marketo不會傳送給已加入封鎖名單或行銷遭暫停的人。
+>* SMS訊息不會傳送給任何未訂閱者（如果他們不在Vibes行動資料庫清單中）。
 
 ## 傳送批次SMS {#send-a-batch-sms}
 
