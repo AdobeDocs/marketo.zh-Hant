@@ -4,7 +4,7 @@ title: 在智慧行銷活動中使用簡訊選項
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
+source-git-commit: c3bad3c7d32259a9989227c1d6fa43bc693dd814
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在智慧行銷活動中使用簡訊選項 {#using-sms-options-in-a-smart-campaign}
 
-在您之後 [建立簡訊訊息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}，您就會想要在Smart Campaign中使用智慧列示觸發器和篩選器，以取得優點。
+在您之後 [建立簡訊訊息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md){target="_blank"}，您就會想要在Smart Campaign中使用智慧列示觸發器和篩選器，以取得優點。
 
 >[!NOTE]
 >
