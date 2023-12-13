@@ -4,7 +4,7 @@ title: 在智慧行銷活動中使用簡訊選項
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: c3bad3c7d32259a9989227c1d6fa43bc693dd814
+source-git-commit: 5c6e014224b33310c847c08784a70a08796d971a
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -25,10 +25,10 @@ ht-degree: 0%
 
 ## 簡訊觸發程式 {#sms-triggers}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
   </tr>
 </table>
 
@@ -42,10 +42,10 @@ ht-degree: 0%
 
 ## 簡訊篩選器 {#sms-filters}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
   </tr>
 </table>
 
@@ -66,16 +66,16 @@ ht-degree: 0%
 <table>
 <tbody>
   <tr>
-    <td style="width:25%">傳送簡訊訊息</td>
+    <td style="width:20%"><b>傳送簡訊訊息</b></td>
     <td>此流程動作會從Marketo智慧清單傳送訊息給訂閱使用者選擇加入的Vibes訂閱清單的使用者。 它不會起始訂閱程式。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">瞭解更多</a>.</td>
   </tr>
 
 <tr>
-    <td style="width:25%">訂閱Vibes清單</td>
+    <td style="width:20%"><b>訂閱Vibes清單</b></td>
     <td>此流程動作會透過使用者選取的Vibes贏取行銷活動來起始簡訊訂閱程式。 然後Vibes會傳送確認訊息，收件者必須在24小時內以「Y」回覆該訊息，以確認選擇加入。 使用者選擇加入後，就會成為您相關Vibes訂閱清單的成員。</td>
   </tr>
   <tr>
-    <td style="width:25%">取消訂閱訪客清單</td>
+    <td style="width:20%"><b>取消訂閱訪客清單</b></td>
     <td>此流量動作會從使用者選擇加入的Vibes訂閱清單中取消訂閱每個人。 當使用者將「STOP」文字傳送到您的程式碼時，其人員記錄會更新，以反映他們不再是Vibes訂閱清單的成員。</td>
   </tr>
   </tbody>
