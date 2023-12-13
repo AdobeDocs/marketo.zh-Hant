@@ -4,7 +4,7 @@ description: 在智慧清單觸發器和篩選器中使用Vibes SMS訊息 — Ma
 title: 在智慧清單觸發器和篩選器中使用Vibes SMS訊息
 exl-id: 9a629a39-fddc-4ec5-b1c5-d5053d676594
 feature: Mobile Marketing
-source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
+source-git-commit: 444a184e48bf7034c6e0ef277c9a4dd1fb33bd86
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 1. 在「我的Marketo」中，按一下 **行銷活動**.
 
-   ![](assets/use-sms-options-in-smart-list-triggers-and-filters-1.png)
+   ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
 1. 選擇您要使用簡訊資產的智慧型行銷活動。 拖曳到觸發程式上，例如熱門播放器 **填寫表單**.
 
