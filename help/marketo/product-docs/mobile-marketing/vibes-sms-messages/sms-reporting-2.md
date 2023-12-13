@@ -4,16 +4,16 @@ title: 簡訊報告
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 96bc28212ef275920fb106d69293958522cb4eb0
+source-git-commit: b9973d8bc5bf7d9e6944d05e6cf084966a31fcdb
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 # 簡訊報告 {#sms-reporting}
 
-SMS訊息控制面板提供您訊息的實用報告分析。
+SMS訊息控制面板會針對您的訊息提供實用分析。
 
 ## 存取控制面板 {#access-the-dashboard}
 
