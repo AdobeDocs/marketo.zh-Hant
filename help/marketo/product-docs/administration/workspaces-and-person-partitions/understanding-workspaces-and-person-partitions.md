@@ -4,9 +4,9 @@ description: 瞭解工作區和人員分割 — Marketo檔案 — 產品檔案
 title: 瞭解工作區和人員分割
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
 workflow-type: tm+mt
-source-wordcount: '517'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
@@ -84,12 +84,16 @@ ht-degree: 0%
 
 ## 跨工作區複製 {#cloning-across-workspaces}
 
-對於非範本的資產，最好在程式內將其復製為本機資產。  有了適當的存取層級，您可以將這些資產拖放至另一個工作區：
+對於非範本的資產，最好在程式內將其復製為本機資產。 有了適當的存取層級，您可以將這些資產拖放至另一個工作區：
 
 * 計畫
 * 電子郵件
 * 登陸頁面
 * Forms
+
+>[!IMPORTANT]
+>
+>雖然上述所有專案都可以在工作區、電子郵件、表單和登入頁面之間複製 _必須位於計畫內_ 複製時。
 
 >[!NOTE]
 >
