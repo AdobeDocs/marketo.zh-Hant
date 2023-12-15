@@ -3,7 +3,7 @@ description: 啟用/停用自訂物件同步 — Marketo檔案 — 產品檔案
 title: 啟用/停用自訂物件同步
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -20,15 +20,15 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 在Marketo中，按一下 **管理員**，然後 **Veeva物件同步**.
+1. 在Marketo中，按一下 **[!UICONTROL 管理員]**，然後 **[!UICONTROL Veeva物件同步]**.
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. 如果這是您的第一個自訂物件，請按一下「同步結構描述」。 如果沒有，請按一下 **重新整理結構描述** 以確保您擁有最新版本。
+1. 如果這是您的第一個自訂物件，請按一下「同步結構描述」。 如果沒有，請按一下 **[!UICONTROL 重新整理結構描述]** 以確保您擁有最新版本。
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. 如果您的全域同步正在執行中，請按一下 **停用全域同步**.
+1. 如果您的全域同步正在執行中，請按一下 **[!UICONTROL 停用全域同步]**.
 
    ![](assets/enable-disable-custom-object-sync-3.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
    >
    >同步Veeva自訂物件結構描述可能需要幾分鐘的時間。
 
-1. 按一下 **重新整理結構描述**.
+1. 按一下 **[!UICONTROL 重新整理結構描述]**.
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
@@ -48,11 +48,11 @@ ht-degree: 0%
 >
 >Marketo只有在Veeva CRM中與聯絡人或帳戶物件有直接關係時，才能同步處理自訂物件。
 
-1. 按一下 **啟用同步** 再來一次。
+1. 按一下 **[!UICONTROL 啟用同步]** 再來一次。
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
-1. 返回Veeva標籤並按一下 **啟用同步**.
+1. 返回Veeva標籤並按一下 **[!UICONTROL 啟用同步]**.
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 >
 >您無法在包含觸發器的智慧行銷活動中使用自訂物件。
 
-1. 在智慧清單中，拖曳至「擁有機會」篩選器上，並將設為 **真**.
+1. 在智慧清單中，拖曳至「擁有機會」篩選器上，並將設為 **[!UICONTROL 真]**.
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 

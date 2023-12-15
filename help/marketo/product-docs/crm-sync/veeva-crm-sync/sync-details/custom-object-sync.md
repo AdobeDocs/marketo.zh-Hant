@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -26,15 +26,15 @@ ht-degree: 0%
 
 ## 啟用自訂物件 {#enable-custom-object}
 
-1. 在Marketo中，按一下 **管理員**，然後 **Veeva物件同步**.
+1. 在Marketo中，按一下 **[!UICONTROL 管理員]**，然後 **[!UICONTROL Veeva物件同步]**.
 
    ![](assets/custom-object-sync-1.png)
 
-1. 如果這是您的第一個自訂物件，請按一下 **同步結構描述**.
+1. 如果這是您的第一個自訂物件，請按一下 **[!UICONTROL 同步結構描述]**.
 
    ![](assets/custom-object-sync-2.png)
 
-1. 按一下 **停用全域同步**.
+1. 按一下 **[!UICONTROL 停用全域同步]**.
 
    ![](assets/custom-object-sync-3.png)
 
@@ -50,23 +50,23 @@ ht-degree: 0%
    >
    >自訂物件必須具有唯一的名稱。 Marketo不支援兩個名稱相同的不同自訂物件。
 
-1. 按一下 **啟用同步**.
+1. 按一下 **[!UICONTROL 啟用同步]**.
 
    ![](assets/custom-object-sync-5.png)
 
-1. 按一下 **啟用同步** 再來一次。
+1. 按一下 **[!UICONTROL 啟用同步]** 再來一次。
 
    ![](assets/custom-object-sync-6.png)
 
-1. 返回 **Veeva** 標籤。
+1. 返回 **[!UICONTROL Veeva]** 標籤。
 
    ![](assets/custom-object-sync-7.png)
 
-1. 按一下 **啟用同步**.
+1. 按一下 **[!UICONTROL 啟用同步]**.
 
    ![](assets/custom-object-sync-8.png)
 
-1. 若要檢視所有Veeva自訂物件，請按一下「管理和Veeva物件同步」。
+1. 若要檢視所有Veeva自訂物件，請按一下 **[!UICONTROL 管理員]** 和 **[!UICONTROL Veeva物件同步]**.
 
    ![](assets/custom-object-sync-9.png)
 
