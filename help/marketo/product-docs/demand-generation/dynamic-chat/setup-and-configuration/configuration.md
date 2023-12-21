@@ -2,10 +2,10 @@
 description: 設定 — Marketo檔案 — 產品檔案
 title: 設定
 feature: Dynamic Chat
-exl-id: 824cd1de-a407-4250-8777-33eec0777361
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
+source-git-commit: 99798a8d333be43ec8d7e12571a96184fa11c0f0
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '316'
 ht-degree: 1%
 
 ---
@@ -64,7 +64,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->如果您的網站使用內容安全性原則，您可能需要將下列URL加入白名單，聊天機器人才能如期運作：
+>如果您的網站使用內容安全性原則，您可能需要將下列URL加入允許清單，聊天機器人才能如期運作：
 >
 >* `*.adoberesources.net`
 >* `*.adobe.io`
