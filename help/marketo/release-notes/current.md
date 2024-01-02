@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: b51f12d1f2526c5fa8ec9fc97621f3f55330a808
+source-git-commit: e33b6f995ca8535d69505cf38e9b03f2aff09149
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '649'
 ht-degree: 2%
 
 ---
@@ -84,6 +84,21 @@ ht-degree: 2%
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>大量銷售機會匯入API更新</strong>：大量銷售機會匯入API的行為已進行微幅調整，當 <b>id</b> 指定為 <b>lookupField</b> 在建立工作期間。 如果個人記錄連結到提供的 <b>id</b> 在Marketo Engage資料庫中找不到，將不會發生記錄更新，因為找不到記錄。 更新的行為現在包括增加中的計數 <b>numOfRowsFailed</b> 回應中的屬性，表示在此類情況下作業已失敗。</td> 
+   <td><i>即將推出</i></td>
+   <td>不適用</td>
+  </tr>
+ </tbody> 
+</table>
+<br/>
   </tbody> 
 </table>
 
