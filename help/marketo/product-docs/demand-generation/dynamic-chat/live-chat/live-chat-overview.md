@@ -3,9 +3,9 @@ description: 即時聊天概述 — Marketo檔案 — 產品檔案
 title: 即時聊天總覽
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 870dd6df82c605fffa6681d68867354084988bcd
+source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -66,6 +66,44 @@ ht-degree: 0%
  </tbody> 
 </table>
 
+## 即時聊天通知 {#live-chat-notifications}
+
+為了接收即時聊天所需的瀏覽器通知，所有即時聊天代理程式必須在提示時啟用瀏覽器通知以進行Dynamic Chat。
+
+### 啟用通知 {#enabling-notifications}
+
+即時聊天代理程式在登入時會在熒幕上方看到橫幅，上面顯示「請啟用瀏覽器通知以接收即時聊天通知」。 按一下 **啟用**.
+
+![](assets/live-chat-overview-4.png)
+
+然後，瀏覽器會提示即時聊天代理顯示通知。 按一下 **允許**.
+
+![](assets/live-chat-overview-5.png)
+
+如果代理程式在允許瀏覽器後仍未收到瀏覽器通知，則可能需要在作業系統通知設定中啟用瀏覽器的通知：
+
+[Mac的步驟](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+
+[適用於Windows的步驟](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+
+### 當即時聊天被路由到代理程式時 {#when-a-live-chat-is-routed-to-an-agent}
+
+當即時聊天路由給代理時，他們會看到畫面頂端的藍色橫幅，要求他們接受。
+
+![](assets/live-chat-overview-3.png)
+
+>[!TIP]
+>
+>您也可以選擇設定瀏覽器通知，若您未登入Dynamic Chat，通知會提醒您。
+>
+>* 在中啟用瀏覽器通知 [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* 在中啟用瀏覽器通知 [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+
+### 注意事項 {#things-to-note}
+
+* 在「接受聊天」訊息逾時之前，代理程式有45秒的時間回應
+* 目前每個代理程式限製為10個即時聊天
+
 >[!MORELIKETHIS]
 >
->[專員收件匣](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}
+>[代理程式收件匣](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}
