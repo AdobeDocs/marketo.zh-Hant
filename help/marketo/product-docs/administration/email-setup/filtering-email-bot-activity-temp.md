@@ -4,9 +4,9 @@ title: 篩選電子郵件機器人活動
 hide: true
 hidefromtoc: true
 feature: Email Setup
-source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
+source-git-commit: 0e0db640e8a54773adc0c643af7aedd9e34e8be0
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -44,19 +44,23 @@ ht-degree: 0%
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 選擇以 **[!UICONTROL 與IAB清單相符]**， **[!UICONTROL 與近似程度模式相符]**，或兩者。 選擇是否要 [!UICONTROL 記錄機器人活動] _或_ [!UICONTROL 篩選機器人活動]. 設定秒數 **活動之間的持續時間** 0至3秒的長度（預設為0）。
+1. 有兩個滑桿可供選擇。 您只能啟用其中一項或兩項。 如果您啟用 **[!UICONTROL 與IAB清單相符]**，選擇是否要 [!UICONTROL 記錄機器人活動] _或_ [!UICONTROL 篩選機器人活動].
 
    ![](assets/filtering-email-bot-activity-temp-4.png)
+
+1. 如果您啟用 **[!UICONTROL 與近似程度模式相符]**，選擇是否要 [!UICONTROL 記錄機器人活動] _或_ [!UICONTROL 篩選機器人活動]. 您也可以為以下設定秒數： **活動之間的持續時間** （預設為0，最大為3）。
+
+   ![](assets/filtering-email-bot-activity-temp-5.png)
 
 >[!NOTE]
 >
 >替換為 **活動之間的持續時間** 設為0秒，我們會識別同時發生的電子郵件活動。 如果在指定的秒數內發生多個電子郵件活動，則會將其識別為機器人活動。
 
->[!NOTE]
+>[!IMPORTANT]
 >
 >* 如果您選擇 [!UICONTROL 篩選機器人活動]，您可能會看到電子郵件開啟次數和點按次數下降，因為false活動被淘汰了。
 
-**選擇性步驟**：若要停用此功能，只要取消選取滑桿即可。 如果停用，資料不會重設。
+**選擇性步驟**：若要停用任一功能，只要取消選取個別的滑桿即可。 如果您這麼做，資料不會重設。
 
 >[!TIP]
 >
