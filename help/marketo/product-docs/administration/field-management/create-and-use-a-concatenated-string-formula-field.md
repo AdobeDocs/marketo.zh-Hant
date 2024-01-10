@@ -4,16 +4,16 @@ description: 建立並使用串連字串（公式）欄位 — Marketo檔案 —
 title: 建立並使用串連字串（公式）欄位
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # 建立並使用串連字串（公式）欄位 {#create-and-use-a-concatenated-string-formula-field}
 
-您可以合併多個欄位的值，或使用Marketo公式欄位建立條件值。
+您可以組合來自多個欄位的值，或使用Marketo Engage公式欄位建立條件值。
 
 1. 前往 **[!UICONTROL 管理員]** 區域。
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->公式欄位可用於登入頁面、電子郵件和智慧列示欄（不會匯出）。 包含公式欄位的電子郵件可以 _非_ 會使用批次行銷活動傳送。 請使用 [電子郵件指令碼Token](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) 在此案例中。
+>公式欄位可用於登陸頁面、電子郵件和智慧列示欄。 包含公式欄位的電子郵件可以 _非_ 會使用批次行銷活動傳送。 請使用 [電子郵件指令碼Token](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) 在此案例中。
 
 做得好！ 現在您有了一個智慧型欄位，可根據性別知道要包含哪些稱呼。 玩得開心，發揮創意。
