@@ -4,9 +4,9 @@ description: 設定自訂DKIM簽名 — Marketo檔案 — 產品檔案
 title: 設定自訂DKIM簽章
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: b72c69b0e96fa3e504242425abd3954f5a49bebd
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,6 @@ ht-degree: 0%
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   >[!TIP]
-   >
-   >* 我們建議使用2048金鑰大小。
-   >* 如果您在寄件者地址中使用不同的網域，我們將使用Marketo共用的DKIM簽章。
-
    <table> 
    <tr>
    <td width="20%"><b>選擇器</b></td>
@@ -59,6 +54,17 @@ ht-degree: 0%
    </table>
 
    <p>
+
+   >[!TIP]
+   >
+   >* 我們建議使用2048金鑰大小。
+   >* 如果您在寄件者地址中使用不同的網域，我們將使用Marketo共用的DKIM簽章。
+
+   >[!IMPORTANT]
+   >
+   >如果您需要更新網域的DKIM選擇器或DKIM加密大小，您必須刪除現有記錄並使用新值重新發佈新產生的記錄。
+   >
+   >請注意，這樣做時，在您的新記錄發佈並由我們的系統驗證之前，不會為您的網域簽署DKIM。 請針對變更進行相應的規劃，因為新的DKIM記錄可能需要24到48小時的時間才會完全傳播到網際網路。
 
 1. 傳送 **主機記錄** 和 **TXT值** 至您的IT。 請他們為您建立記錄，並確定紀錄會傳播至與來自網域關聯的所有名稱伺服器。 Marketo的DKIM驗證需要將DKIM金鑰傳播到與DKIM簽署的網域相關聯的所有名稱伺服器。
 
