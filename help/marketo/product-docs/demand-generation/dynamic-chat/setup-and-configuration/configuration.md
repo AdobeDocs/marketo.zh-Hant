@@ -3,10 +3,10 @@ description: 設定 — Marketo檔案 — 產品檔案
 title: 設定
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 99798a8d333be43ec8d7e12571a96184fa11c0f0
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 1%
+source-wordcount: '310'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 瞭解如何自訂聊天機器人對話視窗的外觀。
 
-若要開始，請按一下 **設定**.
+若要開始，請按一下 **聊天機器人設定** 在 **設定**.
 
 ![](assets/configuration-1.png)
 
@@ -36,9 +36,9 @@ ht-degree: 1%
 
 ![](assets/configuration-4.png)
 
-### 專員設定 {#agent-settings}
+### 機器人設定 {#agent-settings}
 
-在「代理程式設定」中，您可以將標籤新增至聊天箱(例如：「Adobe機器人」)，標籤會顯示在其頂端。 您也可以判斷回應延遲（以秒為單位），並變更您的聊天頭像。 若要上傳您自己的顯示圖片影像，請按一下 **+** 按鈕。
+在「機器人設定」中，您可以將標籤新增至聊天箱(例如：「Adobe助理」)，標籤會顯示在其頂端。 您也可以判斷回應延遲（以秒為單位），並變更您的聊天頭像。 若要上傳您自己的顯示圖片影像，請按一下 **+** 按鈕。
 
 ![](assets/configuration-5.png)
 
@@ -64,11 +64,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->如果您的網站使用內容安全性原則，您可能需要將下列URL加入允許清單，聊天機器人才能如期運作：
->
->* `*.adoberesources.net`
->* `*.adobe.io`
->* `*.typekit.net`
+>如果您的網站使用Content-Security-Policy (CSP)，請檢視下方程式碼中的新增專案。
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ title: 隨選網路研討會
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 41298677e9bef49624220dac463388f0cab0ebf6
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Adobe Connect這項支援互動式網路研討會的技術，會追蹤瀏覽以�
 
 Marketo在以下Widget的協助下，提供「儀表板」標籤上隨選網路研討會的觀看統計資料：
 
-* 隨選摘要：提供觀看事件後錄影的訪客計數（不顯示）的逐日摘要。
+* 隨選摘要：提供在指定日期事件後觀看錄影的訪客計數（不顯示）摘要
 
 * 隨選統計：此Widget提供下列資訊：
    * 隨選錄製可供檢視的天數 — 協助行銷人員執行動作，例如在臨近錄製可用期間30天的結尾處執行電子郵件行銷活動。
