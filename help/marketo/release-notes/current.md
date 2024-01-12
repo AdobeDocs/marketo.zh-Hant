@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6e121b10c38517aabc9dd46235aed3103525a551
+source-git-commit: 0180723fdbe8dbf4855666b5c465ce17709afda4
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '646'
 ht-degree: 2%
 
 ---
@@ -32,8 +32,8 @@ ht-degree: 2%
   </tr>
     <tr> 
    <td><strong>互動式網路研討會的隨選網路研討會</strong>：隨選網路研討會可讓您發佈網路研討會影片，並追蹤其造訪/觀看次數。 這可協助您透過未參加網路研討會（不播放）但仍想尋找更多詳細資訊和檢視錄影的註冊者，取得更多銷售機會。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">隨選網路研討會</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -55,9 +55,9 @@ ht-degree: 2%
   </tr>
    </tr>
     <tr> 
-   <td><strong>電子郵件機器人活動篩選</strong>：可讓您選擇希望機器人活動識別篩選的積極程度，藉此改善擷取電子郵件參與作業的機器人活動。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td><strong>篩選電子郵件機器人活動</strong>：可讓您選擇希望機器人活動識別篩選的積極程度，藉此改善擷取電子郵件參與作業的機器人活動。</td> 
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">篩選電子郵件機器人活動</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -125,8 +125,8 @@ ht-degree: 2%
    </tr>
     <tr> 
    <td><strong>聊天機器人字型色彩選項</strong>：在聊天機器人設定中自訂字型顏色。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#style" target="_blank">設定</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -146,9 +146,9 @@ ht-degree: 2%
   </tr>
     </tr>
     <tr> 
-   <td><strong>手動即時聊天終止</strong>：訪客和代理現在都可以手動結束即時聊天工作階段。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td><strong>手動即時聊天終止</strong>：訪客和代理現在都可以手動終止即時聊天工作階段。</td> 
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">專員收件匣</a></td>
   </tr>
   <tr> 
    <td> </td> 
