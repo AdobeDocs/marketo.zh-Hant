@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 41298677e9bef49624220dac463388f0cab0ebf6
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '9300'
+source-wordcount: '9295'
 ht-degree: 0%
 
 ---
@@ -136,7 +136,6 @@ ht-degree: 0%
          + [啟用通訊限制](product-docs/administration/email-setup/enable-communication-limits.md)
          + [啟用智慧行銷活動的個人限制](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [篩選電子郵件機器人活動](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [篩選電子郵件機器人活動TEMP](product-docs/administration/email-setup/filtering-email-bot-activity-temp.md)
          + [移除取消訂閱文字](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + 欄位管理 {#field-management}
          + [從不受信任的來源匯入清單期間封鎖欄位更新](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)

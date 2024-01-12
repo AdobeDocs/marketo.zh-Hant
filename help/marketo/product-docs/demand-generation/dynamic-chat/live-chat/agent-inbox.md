@@ -3,9 +3,9 @@ description: 代理程式收件匣 — Marketo檔案 — 產品檔案
 title: 專員收件匣
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '301'
 ht-degree: 1%
 
 ---
@@ -50,11 +50,17 @@ ht-degree: 1%
 
 ![](assets/agent-inbox-5.png)
 
+## 結束工作階段 {#end-a-session}
+
+代理程式只要按一下 **結束工作階段** 按鈕來存取訪客資訊。
+
+![](assets/agent-inbox-6.png)
+
 ## 活動歷史記錄 {#activity-history}
 
 訪客資訊下方是活動歷史記錄。 檢視活動型別和日期，甚至檢視聊天記錄。
 
-![](assets/agent-inbox-6.png)
+![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -66,12 +72,12 @@ ht-degree: 1%
 
 1. 按一下日曆圖示。
 
-   ![](assets/agent-inbox-7.png)
+   ![](assets/agent-inbox-8.png)
 
 1. 選擇所需的代理程式行事曆並按一下 **傳送**.
 
-   ![](assets/agent-inbox-8.png)
+   ![](assets/agent-inbox-9.png)
 
 1. 聊天訪客將能夠預約會議。
 
-   ![](assets/agent-inbox-9.png)
+   ![](assets/agent-inbox-10.png)
