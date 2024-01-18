@@ -4,7 +4,7 @@ description: 適用於Marketo Dynamics的Microsoft外掛程式版本 — Marketo
 title: 適用於Microsoft Dynamics的Marketo外掛程式版本
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 44bbd12ec5c5c213a977b9d99f455eefb99bf275
 workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 0%
@@ -36,9 +36,9 @@ ht-degree: 0%
 <table> 
  <tbody> 
   <tr> 
-   <th>版本</th> 
-   <th>發行日期</th> 
-   <th>附註</th> 
+   <th style="width:15%">版本</th> 
+   <th style="width:20%">發行日期</th> 
+   <th style="width:65%">附註</th> 
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
