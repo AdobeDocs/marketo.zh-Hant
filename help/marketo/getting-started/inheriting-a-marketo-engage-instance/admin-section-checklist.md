@@ -3,9 +3,9 @@ description: 繼承執行個體管理員檢查清單 — Marketo檔案 — 產�
 title: 繼承執行個體管理員檢查清單
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '1832'
+source-wordcount: '1817'
 ht-degree: 1%
 
 ---
@@ -304,12 +304,11 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 </ul>
 </li>
 完成稽核「使用者與角色」設定後，請登入Dynamic Chat以繼續稽核。  
-<li>在「整合」索引標籤中，您的Marketo Engage和Dynamic Chat同步是否仍為啟用？</li>
+<li>有您 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">已連線您的Marketo Engage執行個體</a> 要Dynamic Chat？</li>
 <li>具有預先定義許可權的五個預設設定檔是否適用於您的組織？<br/> 
      如果沒有，您可以 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">在Dynamic Chat中編輯</a>. 您也可以 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">建立自訂設定檔</a> 具有自訂許可權集。</li>
 <li>為了提供使用者存取Dynamic Chat的許可權，您是否已在「管理員&gt;使用者和角色&gt;角色」下核取適用的Marketo EngageDynamic Chat的「存取角色」？
 <br/><img src="assets/note-icon.png" alt="附註圖示"> 注意：「管理員」和「行銷使用者」角色應該具有Dynamic Chat的存取權。</li>
-<li>有您 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">已連線您的Marketo Engage執行個體</a> 要Dynamic Chat？</li>
 </td>
   </tr>
   <td>Marketo Sales Insight （如果適用）</td> 

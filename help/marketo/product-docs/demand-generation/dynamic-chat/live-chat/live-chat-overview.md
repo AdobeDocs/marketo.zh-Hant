@@ -3,9 +3,9 @@ description: 即時聊天概述 — Marketo檔案 — 產品檔案
 title: 即時聊天總覽
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '618'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # 即時聊天總覽 {#live-chat-overview}
 
 即時聊天可讓網站訪客與銷售代理進行即時聊天交談。
+
+>[!NOTE]
+>
+>對話流程和即時聊天是共用的試用功能，對Dynamic Chat選取套件上的使用者具有100個參與的總生命週期限制。 達到此限制時，所有已發佈的交談流程將停止觸發，而要求與即時代理程式聊天的訪客將收到全域遞補訊息。 若要提高此上限，請聯絡您的客戶代表以討論套件升級選項。
 
 ## 新增即時聊天代理 {#add-live-chat-agents}
 

@@ -2,10 +2,10 @@
 description: 對話流程概觀 — Marketo檔案 — 產品檔案
 title: 對話流程概觀
 feature: Dynamic Chat
-exl-id: a48f78c8-77d6-4c83-9dbd-c905cd9b6b47
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c741886d-d672-471f-8902-208d25898afa
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 設計對話流程，並根據特定動作（例如按一下行動號召按鈕、頁面載入時、頁面逗留時間等）觸發任何訪客。
 
 ![](assets/conversational-flow-overview-1.png)
+
+>[!NOTE]
+>
+>對話流程和即時聊天是共用的試用功能，對Dynamic Chat選取套件上的使用者具有100個參與的總生命週期限制。 達到此限制時，所有已發佈的交談流程將停止觸發，而要求與即時代理程式聊天的訪客將收到全域遞補訊息。 若要提高此上限，請聯絡您的客戶代表以討論套件升級選項。
 
 ## 對話與對話流程 {#dialogues-vs-conversational-flows}
 
