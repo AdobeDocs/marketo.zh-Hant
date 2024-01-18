@@ -4,10 +4,10 @@ description: 適用於Marketo Dynamics的Microsoft外掛程式版本 — Marketo
 title: 適用於Microsoft Dynamics的Marketo外掛程式版本
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: e99fa6d25bcf3c4a03234ce48dd17dd7c396c430
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 7%
+source-wordcount: '464'
+ht-degree: 0%
 
 ---
 
@@ -39,11 +39,26 @@ ht-degree: 7%
    <th colspan="1">版本</th> 
    <th colspan="1">發行日期</th> 
    <th>附註</th> 
+  </tr>
+  <tr> 
+   <td colspan="1">5.0.2.1</td> 
+   <td colspan="1">10/13/23</td> 
+   <td colspan="1">錯誤修正：修正與自訂實體同步相關的錯誤。</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">5.0.2.0</td> 
+   <td colspan="1">03/24/23</td> 
+   <td colspan="1">錯誤修正：修正無法在MS Dynamics上合併連絡人的錯誤。</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">5.0.1.8</td> 
+   <td colspan="1">03/27/23</td> 
+   <td colspan="1">錯誤修正：防止外掛程式覆寫MS Dynamics中UI元素的其他自訂。</td> 
   </tr> 
   <tr> 
    <td colspan="1">5.0.1.1</td> 
    <td colspan="1">02/04/21</td> 
-   <td colspan="1">支援多選選項集欄位同步（此功能僅適用於V9.X及更高版本）。.</td> 
+   <td colspan="1">支援多選選項集欄位同步（此功能僅適用於V9.X及更高版本）。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.2.0.0</td> 
@@ -68,7 +83,7 @@ ht-degree: 7%
   <tr> 
    <td colspan="1"><p>4.0.0.21</p></td> 
    <td colspan="1">11/9/16</td> 
-   <td colspan="1">錯誤修正：外掛程式未訂閱擷取自訂物件狀態變更的事件。 此修正專屬於Dynamics CRM On Premise 2011。 </td> 
+   <td colspan="1">錯誤修正：外掛程式未訂閱擷取自訂物件狀態變更的事件。 此修正專屬於Dynamics CRM On Premise 2011。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.20</td> 
@@ -78,7 +93,7 @@ ht-degree: 7%
   <tr> 
    <td colspan="1">4.0.0.19</td> 
    <td colspan="1">6/28/16</td> 
-   <td colspan="1"><p>錯誤修正：建立商機時，在marketo記錄檔的customeropportunityrole上發現不必要的更新交易。 </p><p>錯誤修正：刪除customeropportunityrole實體時，會記錄額外的刪除交易。</p></td> 
+   <td colspan="1">錯誤修正：建立商機時，在marketo記錄檔的customeropportunityrole上發現不必要的更新交易。<p>錯誤修正：刪除customeropportunityrole實體時，會記錄額外的刪除交易。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.18</td> 
