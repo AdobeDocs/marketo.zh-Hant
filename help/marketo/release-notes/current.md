@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f49158e8b180641c1202b39b091ef8dd4088074e
+source-git-commit: 06cfbcb6eb8b9f0370f5bc29e0787dedac7267bf
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '683'
 ht-degree: 2%
 
 ---
@@ -177,7 +177,7 @@ ht-degree: 2%
 
 ## 公告 {#announcements}
 
-* **同步處理銷售機會API更新**：Sync Lead API的行為已調整為稍微更新 `unsubscribed` 欄位。 現在，當您傳遞 `null` 作為值，這等於傳遞值 `false`.
+* **同步處理銷售機會API更新**：此 [同步處理銷售機會API](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}的行為已稍微調整，更新 `unsubscribed` 欄位。 現在，當您傳遞 `null` 作為值，這等於傳遞值 `false`.
 
 * **Marketo EngageForms jQuery 1.x**：在2024年1月版本中，我們將將FormsMarketo Engage的jQuery更新為jQuery 3.x。這可能會影響依賴舊版jQuery的自訂表單實施。 [在此處瞭解更多](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
