@@ -4,9 +4,9 @@ description: 適用於Marketo Dynamics的Microsoft外掛程式版本 — Marketo
 title: 適用於Microsoft Dynamics的Marketo外掛程式版本
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 44bbd12ec5c5c213a977b9d99f455eefb99bf275
+source-git-commit: f1fd9564abe4702c3a124442ee26027d4d22f23d
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
-   <td>10/13/23</td> 
+   <td>1/19/24</td> 
    <td>錯誤修正：修正與自訂實體同步相關的錯誤。</td> 
   </tr> 
   <tr> 
@@ -53,7 +53,9 @@ ht-degree: 0%
   <tr> 
    <td>5.0.1.8</td> 
    <td>03/27/23</td> 
-   <td>錯誤修正：防止外掛程式覆寫MS Dynamics中UI元素的其他自訂。</td> 
+   <td>錯誤修正：防止外掛程式覆寫MS Dynamics中UI元素的其他自訂。
+   <p>
+   錯誤修正：恢復5.0.1.1中遺失的導覽圖磚。</td> 
   </tr> 
   <tr> 
    <td>5.0.1.1</td> 
