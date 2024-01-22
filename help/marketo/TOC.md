@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 482b3b2979bc46c703bfd391538d686a8c3c750f
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
-source-wordcount: '9299'
+source-wordcount: '9262'
 ht-degree: 0%
 
 ---
@@ -1593,7 +1593,6 @@ ht-degree: 0%
       + 管理員 {#admin}
          + [新增行動應用程式](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
          + [將訪客新增為LaunchPoint Service](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
-         + [TEMP將訪客新增為LaunchPoint Service](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service-2.md)
          + [驗證行動存取安全性](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
          + [建立推播通知和應用程式內訊息之前](product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
          + [設定行動應用程式Android推播存取](product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
@@ -1629,15 +1628,11 @@ ht-degree: 0%
          + [瞭解推播通知](product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
          + [檢視推播通知控制面板](product-docs/mobile-marketing/push-notifications/view-the-push-notification-dashboard.md)
       + Vibes SMS訊息 {#vibes-sms-messages}
-         + [建立Vibes SMS訊息](product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
-         + [新增簡訊的流程步驟](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
-         + [SMS訊息控制面板](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
-         + [在智慧清單觸發器和篩選器中使用Vibes SMS訊息](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
-         + [TEMP建立SMS訊息](product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md)
-         + [TEMP傳送簡訊訊息](product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
-         + [在智慧行銷活動中使用簡訊選項的TEMP](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
-         + [TEMP SMS字彙表](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
-         + [臨時SMS報告](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting-2.md)
+         + [建立簡訊訊息](product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md)
+         + [傳送簡訊訊息](product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
+         + [在智慧行銷活動中使用簡訊選項](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
+         + [簡訊報告](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting.md)
+         + [簡訊字彙表](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
    + 個人化 {#personalization}
       + 分段與代碼片段 {#segmentation-and-snippets}
          + 細分 {#segmentation}

@@ -1,19 +1,17 @@
 ---
-description: 檔案 — Marketo檔案 — 產品檔案
-title: 檔案
-hide: true
-hidefromtoc: true
+description: SMS字彙表 — Marketo檔案 — 產品檔案
+title: 簡訊字彙表
 feature: Mobile Marketing
-source-git-commit: ce43fe1848bb333caa2f73fde4c6ce8403b3e1e8
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
 
 # 簡訊字彙表 {#sms-glossary}
 
-以下是您將Vibes SMS訊息與Marketo Engage搭配使用時可能會遇到的常見詞語。
+以下是您在搭配Marketo Engage使用Vibes SMS訊息時會遇到的一些常見詞語。
 
 <table>
 <thead>

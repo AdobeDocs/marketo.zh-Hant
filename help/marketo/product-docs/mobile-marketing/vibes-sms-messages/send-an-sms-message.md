@@ -1,19 +1,17 @@
 ---
 description: 傳送SMS訊息 — Marketo檔案 — 產品檔案
 title: 傳送簡訊訊息
-hide: true
-hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 6731d6fca4b6547f1f709e45f32f766e0e0e30b4
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
 # 傳送簡訊訊息 {#send-a-vibes-sms-message}
 
-您已 [已建立您的簡訊訊息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md)，現在該傳送它了。 您可以透過批次或觸發行銷活動來傳送。
+您已 [已建立您的簡訊訊息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}，現在該傳送它了。 您可以透過批次或觸發行銷活動來傳送。
 
 >[!NOTE]
 >
@@ -77,6 +75,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [建立Vibes訊息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
->* Vibes流程步驟
-
+>* [建立Vibes訊息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}
+>* [在智慧行銷活動中使用簡訊選項](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

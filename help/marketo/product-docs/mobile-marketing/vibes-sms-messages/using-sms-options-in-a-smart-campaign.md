@@ -1,10 +1,8 @@
 ---
 description: 在Smart Campaign中使用簡訊選項 — Marketo檔案 — 產品檔案
 title: 在智慧行銷活動中使用簡訊選項
-hide: true
-hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 5c6e014224b33310c847c08784a70a08796d971a
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -17,11 +15,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您要傳送SMS訊息，我們有 [特定文章](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md) 為了這個。
+>如果您要傳送SMS訊息，我們有 [特定文章](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} 為了這個。
 
 >[!PREREQUISITES]
 >
->SMS觸發器/篩選器僅在以下情況下出現： [已啟用Vibes服務](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md).
+>SMS觸發器/篩選器僅在以下情況下出現： [已啟用Vibes服務](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
 
 ## 簡訊觸發程式 {#sms-triggers}
 
@@ -87,6 +85,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [傳送簡訊訊息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
->* [定義Smart Campaign的智慧清單 |觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [定義Smart Campaign的智慧清單 |批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+>* [傳送簡訊訊息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
+>* [定義Smart Campaign的智慧清單 | 觸發](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+>* [定義Smart Campaign的智慧清單 | 批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
