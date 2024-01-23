@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 4cde82d9c9af243db698e11c2f91e9969062921e
+source-git-commit: 368e857c276e4dc19599b5169e82f578ce9becb0
 workflow-type: tm+mt
-source-wordcount: '2269'
+source-wordcount: '2270'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ Marketo自助使用者移轉控制檯工具包含兩個標籤。
 
 管理員可以檢視訂閱的電子郵件驗證狀態、訂閱中完成電子郵件驗證的使用者百分比，以及已標籤為略過的使用者人數。 系統會報告訂閱中所有使用者電子郵件驗證狀態的狀態。 管理員可以按一下略過的使用者數目，並會導覽至「使用者移轉」索引標籤以檢視略過的使用者。
 
-管理員可在「移轉控制檯」的「使用者移轉」標籤及「Marketo管理員」區域的「使用者與角色」標籤中，或透過使用者的「帳戶設定」重新傳送驗證電子郵件。 就像使用者邀請電子郵件一樣，驗證電子郵件中的連結將在3天後過期。 有關電子郵件驗證的詳細資訊，請參閱 [社群](nation.marketo.com) 和 [電子郵件驗證檔案](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
+管理員可在「移轉控制檯」的「使用者移轉」標籤及「Marketo管理員」區域的「使用者與角色」標籤中，或透過使用者的「帳戶設定」重新傳送驗證電子郵件。 就像使用者邀請電子郵件一樣，驗證電子郵件中的連結將在3天後過期。 有關電子郵件驗證的詳細資訊，請參閱 [社群](https://nation.marketo.com/) 和 [電子郵件驗證檔案](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
 
 >[!IMPORTANT]
 >
