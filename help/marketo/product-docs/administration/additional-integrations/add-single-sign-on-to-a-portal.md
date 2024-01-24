@@ -4,9 +4,9 @@ description: 將單一登入新增至入口網站 — Marketo檔案 — 產品�
 title: 新增單一登入至入口網站
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ Marketo的作用就像是SAML服務提供者(SP)，並且仰賴外部身分提�
 >[!NOTE]
 >
 >**需要管理員許可權**
+
+>[!IMPORTANT]
+>
+>這不適用於已上線至Adobe身分的訂閱。 對於已上線至Adobe身分的訂閱，單一登入是在Adobe Admin Console中的Adobe組織層級設定。 [在此處瞭解更多](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
@@ -83,7 +87,7 @@ SSO預設為停用。 請依照以下步驟啟用SAML並進行設定。
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
-1. 按一下 **[!UICONTROL 儲存]**.
+1. 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
@@ -101,7 +105,7 @@ SSO預設為停用。 請依照以下步驟啟用SAML並進行設定。
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. 輸入 **[!UICONTROL 錯誤URL]**. 這是您希望在登入Marketo失敗時導向使用者的URL。 按一下 **[!UICONTROL 儲存]**.
+1. 輸入 **[!UICONTROL 錯誤URL]**. 這是您希望在登入Marketo失敗時導向使用者的URL。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 

@@ -3,9 +3,9 @@ description: 瞭解Marketo訂閱和使用者移轉至Adobe Admin Console - Marke
 title: 瞭解Marketo訂閱和使用者移轉至Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '1189'
+source-wordcount: '1289'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,11 @@ Adobe會先將您的Marketo Engage訂閱移轉至Adobe Admin Console，然後移
 
 * 如果您已在Adobe Admin Console中管理其他Adobe產品，Adobe可能會要求您同意自動將使用者移轉至您現有的主控台。 按一下電子郵件中的「開始使用」按鈕以瀏覽至同意頁面。
 
-目前使用者管理沒有變更。 Marketo管理員將繼續在Marketo管理區中管理使用者，而使用者將繼續使用其Marketo身分登入，直到完成其使用者移轉為止。
+目前使用者管理沒有變更。 雖然Marketo產品會顯示在Admin Console中，但Marketo管理員仍會繼續在Marketo管理員區域中管理使用者，而且使用者將繼續使用其Marketo身分登入，直到完成其使用者移轉為止。 在這段期間，除非開始移轉使用者，否則無法在Admin Console中管理Marketo產品。 其中包括與訂閱相關聯的Dynamic Chat執行個體。
+
+>[!NOTE]
+>
+>如果您目前未使用SSO，但考慮實施，我們建議在使用者移轉發生之前實施。 如果您想要實作單一登入，而且您的訂閱已上線到Adobe身分識別，而未在Adobe組織中實作SSO，請提交票證至 [Marketo支援](https://nation.marketo.com/){target="_blank"} 並將主題指定為「Admin Console上的Marketo，實作SSO」。
 
 ### 排程使用者移轉 {#schedule-user-migration}
 
