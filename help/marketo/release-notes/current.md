@@ -3,7 +3,7 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8921f2e7608dd1ec1240d39cfeae845f79ae5db2
+source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
 workflow-type: tm+mt
 source-wordcount: '691'
 ht-degree: 2%
@@ -183,4 +183,4 @@ ht-degree: 2%
 
 * **僅限SSO使用者的電子郵件驗證**：僅限SSO曾經自動驗證的使用者，讓他們使用無法存取的電子郵件帳戶。 從1月中旬開始，所有現有的「僅限SSO」使用者將會未經驗證，並透過我們傳送至電子郵件帳戶的連結要求重新驗證其電子郵件。 所有新的SSO Only使用者以後都需要驗證其電子郵件地址。
 
-* 觀看 [2024年1月Marketo Engage版本網路研討會](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* 觀看 [2024年1月Marketo Engage版本網路研討會](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.
