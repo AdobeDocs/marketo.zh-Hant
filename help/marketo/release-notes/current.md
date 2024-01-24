@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 13720f1a79ddfb7e26b09c2f9a24b5206401280a
+source-git-commit: 8921f2e7608dd1ec1240d39cfeae845f79ae5db2
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '691'
 ht-degree: 2%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 2%
    </tr>
     <tr> 
    <td><strong>大量銷售機會匯入API更新</strong>：大量銷售機會匯入API的行為已進行微幅調整，當 <b>id</b> 指定為 <b>lookupField</b> 在建立工作期間。 如果個人記錄連結到提供的 <b>id</b> 在Marketo Engage資料庫中找不到，將不會發生記錄更新，因為找不到記錄。 更新的行為現在包括增加中的計數 <b>numOfRowsFailed</b> 回應中的屬性，表示在此類情況下作業已失敗。</td> 
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
    <td>不適用</td>
   </tr>
  </tbody> 
@@ -177,10 +177,10 @@ ht-degree: 2%
 
 ## 公告 {#announcements}
 
-* [2024年1月Marketo Engage版本網路研討會](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
-
 * **同步處理銷售機會API更新**：此 [同步處理銷售機會API](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}的行為已稍微調整，更新 `unsubscribed` 欄位。 現在，當您傳遞 `null` 作為值，這等於傳遞值 `false`.
 
 * **Marketo EngageForms jQuery 1.x**：在2024年1月版本中，我們將將FormsMarketo Engage的jQuery更新為jQuery 3.x。這可能會影響依賴舊版jQuery的自訂表單實施。 [在此處瞭解更多](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
 * **僅限SSO使用者的電子郵件驗證**：僅限SSO曾經自動驗證的使用者，讓他們使用無法存取的電子郵件帳戶。 從1月中旬開始，所有現有的「僅限SSO」使用者將會未經驗證，並透過我們傳送至電子郵件帳戶的連結要求重新驗證其電子郵件。 所有新的SSO Only使用者以後都需要驗證其電子郵件地址。
+
+* 觀看 [2024年1月Marketo Engage版本網路研討會](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
