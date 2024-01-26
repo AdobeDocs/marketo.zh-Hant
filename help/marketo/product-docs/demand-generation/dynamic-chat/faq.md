@@ -3,7 +3,7 @@ description: Dynamic Chat常見問題集 — Marketo檔案 — 產品檔案
 title: Dynamic Chat常見問題集
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 0%
@@ -89,9 +89,10 @@ Dynamic Chat透過Marketo Engage Salesforce整合與Salesforce整合。
 **「參與」或「已取得人員」等辭彙的意義何在？**
 
 Dynamic Chat中使用多個詞語。 其中許多的定義可在各自區域的說明文章中找到。
-* Analytics術語，如「已取得人員」 [可在此處找到](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
-* 智慧清單觸發器/篩選器定義 [可在此處找到](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
-* 各種「串流設計工具」卡片的說明 [可在此處找到](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
+
+* Analytics術語，如「已取得人員」 [可在此處找到](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
+* 智慧清單觸發器/篩選器定義 [可在此處找到](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
+* 各種「串流設計工具」卡片的說明 [可在此處找到](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 
 **我可以在沒有Marketo Engage的情況下使用Dynamic Chat嗎？**
 

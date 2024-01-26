@@ -3,7 +3,7 @@ description: Dynamic Chat活動 — Marketo檔案 — 產品檔案
 title: Dynamic Chat活動
 feature: Dynamic Chat
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
@@ -22,31 +22,31 @@ Dynamic Chat提供數個篩選器和觸發器用於您的智慧清單。
 <thead>
 <tbody>
   <tr>
-    <td><b>已觸發</b></td>
+    <td style="width:25%"><b>已觸發</b></td>
     <td>當訪客符合對話方塊或對話流程的鎖定目標條件時，就會發生觸發事件，並顯示對話方塊。
     <br>每個訪客、每個工作階段一個觸發事件。</td>
   </tr>
   <tr>
-    <td><b>已參與交談流程/對話方塊</b></td>
+    <td style="width:25%"><b>已參與交談流程/對話方塊</b></td>
     <td>Web訪客首次在對話方塊或對話流程（按一下多重選擇選項、提交資訊、預約會議、開啟檔案等）中點選提示時就會發生參與。 如果訪客開啟對話方塊或對話流程，但未按一下提示，則參與為 <b>非</b> 已記錄。 
     <br>每個訪客、每個工作階段一個參與事件。</td>
   </tr>
    <tr>
-    <td><b>已與Agent互動</b></td>
+    <td style="width:25%"><b>已與Agent互動</b></td>
     <td>當訪客成功連線到即時聊天代理程式時發生。
     <br>每個訪客、每個工作階段一個參與代理程式事件。</td>
   </tr>
   <tr>
-    <td><b>與檔案互動</b></td>
+    <td style="width:25%"><b>與檔案互動</b></td>
     <td>當訪客點按檔案卡中的檔案時發生。
     <br>每個訪客、每個工作階段可以有多個檔案互動。</td>
   </tr>
   <tr>
-    <td><b>達成的目標</b></td>
+    <td style="width:25%"><b>達成的目標</b></td>
     <td>當訪客達到目標時發生。 <br>每個訪客、每個工作階段可以有多個目標達成的事件。</td>
   </tr>
   <tr>
-    <td><b>排定的會議</b></td>
+    <td style="width:25%"><b>排定的會議</b></td>
     <td>當訪客與Dynamic Chat代理預訂會議時發生。
     <br>每個訪客、每個工作階段可以有多個會議預約事件。</td>
   </tr>
