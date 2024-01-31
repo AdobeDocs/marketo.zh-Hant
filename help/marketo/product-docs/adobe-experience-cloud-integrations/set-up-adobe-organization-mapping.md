@@ -4,24 +4,25 @@ description: 設定Adobe組織對應 — Marketo檔案 — 產品檔案
 title: 設定Adobe組織對應
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # 設定Adobe組織對應 {#set-up-adobe-organization-mapping}
 
-為了與Adobe應用程式(例如Audience Manager)、B2B CDP Marketo聯結器、 [!DNL Dynamic Chat]等等。您必須先在Marketo中輸入Adobe IMS組織憑證。
+為了與Adobe應用程式(例如Audience Manager)、B2B CDP Marketo聯結器、 [!DNL Dynamic Chat]等等。您必須先在Marketo Engage中輸入Adobe IMS組織憑證。
 
 >[!NOTE]
 >
->Marketo執行個體的HIPAA就緒部署無法使用此整合。
+>* Marketo執行個體的HIPAA就緒部署無法使用此整合。
+>* 為了讓整合發揮作用，Marketo和您的其他Adobe應用程式必須位於相同組織。
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->對於加入Adobe Business Platform和Identity Management系統的客戶，與訂閱相關聯的組織ID將會填入，且是唯讀欄位。
+>對於已上線至Adobe Business Platform和Identity Management System的使用者，將會填入與訂閱相關聯的組織ID，且為唯讀欄位。 因此，本文中的步驟不適用。
 
 1. 在Marketo中，按一下 **[!UICONTROL 管理員]**.
 

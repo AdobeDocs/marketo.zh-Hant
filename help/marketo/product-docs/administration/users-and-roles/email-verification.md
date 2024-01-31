@@ -3,9 +3,9 @@ description: 電子郵件驗證 — Marketo檔案 — 產品檔案
 title: 電子郵件驗證
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: f4d2e7acaaf1ad59d716c831c7b1a2ed340a5a24
+source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Marketo Engage正在繼續推出電子郵件驗證，以準備將客戶移轉至
 ## 使用者邀請 {#user-invite}
 
 當管理員邀請使用者時，該使用者在按一下邀請連結後即會自動驗證。
+
+>[!IMPORTANT]
+>
+>上述的例外情況是，在僅限SSO的訂閱中，管理員會收到新的使用者邀請，但非管理員不會收到。 非管理員必須透過電子郵件驗證程式，以確保移轉其使用者記錄。 管理員可以按一下 **重新傳送電子郵件驗證** 按鈕來設定使用者名稱。
 
 ## 驗證電子郵件 {#verification-email}
 
