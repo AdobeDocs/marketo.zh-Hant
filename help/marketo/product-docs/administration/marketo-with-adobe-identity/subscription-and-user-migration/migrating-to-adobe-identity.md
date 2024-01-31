@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 9e77e49507fb14a6eee555850540cf12ae2dab8c
+source-git-commit: b5e10b2820c3091a648510e131e16c03ffe9c564
 workflow-type: tm+mt
 source-wordcount: '2249'
 ht-degree: 0%
@@ -75,7 +75,7 @@ Marketo自助使用者移轉控制檯工具包含兩個標籤。
 * **使用者移轉與啟用**：訂閱內使用者的使用者移轉和啟動(移轉及對Marketo Engage產品的權益)狀態。
 * **移轉確認**：訂閱的移轉完成狀態。
 
-**使用者電子郵件驗證**
+#### 使用者電子郵件驗證 {#user-email-verification}
 
 在「使用者電子郵件驗證」區段中，管理員可以在移轉至「Adobe身分」之前，為訂閱中的使用者找到電子郵件驗證的目前狀態。
 
@@ -87,13 +87,13 @@ Marketo自助使用者移轉控制檯工具包含兩個標籤。
 >
 >如果Marketo Engage使用者未驗證其電子郵件地址，則無法將他們移轉至Adobe ID，並在移轉完成後將無法存取Marketo訂閱。 若要重新取得存取權，Marketo產品管理員需要將使用者新增為新使用者。
 
-**使用者移轉與啟用**
+#### 使用者移轉與啟用 {#user-migration-and-activation}
 
 在「使用者移轉和啟動」區段中，管理員可以找到目前使用者移轉總數的狀態，以及AdobeIdentity Management系統的權益。
 
 管理員可檢視其訂閱中移轉至Adobe ID或標籤為已略過的使用者百分比。 所有使用者在訂閱中的移轉至Adobe ID狀態時會報告狀態，或標籤為已略過且不會移轉。 當使用者已移轉並有權使用Marketo Engage或略過時，此狀態將會更新。
 
-**移轉確認**
+#### 移轉確認 {#migration-confirmation}
 
 在「移轉確認」區段中，管理員需確認訂閱的使用者移轉已完成。
 
