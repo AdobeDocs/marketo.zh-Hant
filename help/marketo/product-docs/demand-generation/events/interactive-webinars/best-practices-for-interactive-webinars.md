@@ -1,13 +1,12 @@
 ---
-description: 設計互動式網路研討會 — Marketo檔案 — 產品檔案
-title: 設計互動式網路研討會
-exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
+description: 互動式網路研討會的最佳作法 — Marketo檔案 — 產品檔案
+title: 互動式網路研討會的最佳作法
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: b981134dd5fbf70db2e350a5c5b5cf8128bf013c
+source-git-commit: d65eb1814cbc5fa15b49a0ccd14a9016301d8bcb
 workflow-type: tm+mt
-source-wordcount: '1644'
+source-wordcount: '1648'
 ht-degree: 0%
 
 ---
