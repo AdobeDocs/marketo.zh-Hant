@@ -4,9 +4,9 @@ title: 互動式網路研討會的最佳作法
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d65eb1814cbc5fa15b49a0ccd14a9016301d8bcb
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '1648'
+source-wordcount: '1650'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 * 自訂Pod是協力廠商應用程式，可用來擴充Adobe Connect聊天室的功能。 自訂Pod可從以下位置下載： `apps.adobeconnect.com` 做為.pod或.zip檔案，然後可以在「共用」Pod中共用。
    * 一些流行的自訂Pod包括倒數計時器、時鐘、石紙剪刀、Word Cloud、Titler。
-   * 按一下這裡，觀看如何使用自訂Pod的簡短影片。
+   * [按一下這裡](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} ，觀看如何使用自訂pod的簡短影片。
 
 **隱私權：若要對參與者資訊保密，請核取下列設定：**
 

@@ -3,9 +3,9 @@ description: 電子郵件驗證 — Marketo檔案 — 產品檔案
 title: 電子郵件驗證
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,19 @@ Marketo Engage正在繼續推出電子郵件驗證，以準備將客戶移轉至
 
 >[!IMPORTANT]
 >
->上述的例外情況是，在僅限SSO的訂閱中，管理員會收到新的使用者邀請，但非管理員不會收到。 非管理員必須透過電子郵件驗證程式，以確保移轉其使用者記錄。 管理員可以按一下 **重新傳送電子郵件驗證** 按鈕來設定使用者名稱。
-
-## 驗證電子郵件 {#verification-email}
-
-為訂閱啟用電子郵件驗證時，或是由管理員/使用者觸發時，使用者將會收到下列電子郵件：
+>上述的例外情況是， _在僅限SSO的訂閱中_，管理員會收到新的使用者邀請，但非管理員使用者不會。 不是管理員的使用者仍需完成電子郵件驗證程式，以確保移轉其記錄。 使用者可以前往以下位置，傳送電子郵件驗證連結給自己 **管理員** > **我的帳戶** > **帳戶設定** 並按一下 **重新傳送驗證**.
 
 ![](assets/email-verification-1.png)
 
->[!NOTE]
+## 驗證電子郵件 {#verification-email}
+
+當為訂閱啟用電子郵件驗證，或由管理員/使用者觸發時，使用者將收到以下電子郵件。
+
+電子郵件驗證成功需要有效的使用者工作階段。 使用者必須先使用身分提供者(IdP) URL登入其Marketo訂閱。 工作階段建立後，他們會 _則_ 按一下 **驗證電子郵件地址** 電子郵件中的連結。
+
+![](assets/email-verification-2.png)
+
+>[!TIP]
 >
 >若要將驗證電子郵件重新傳送給未驗證的使用者，只要選取其記錄並按一下 **[!UICONTROL 驗證電子郵件]** 按鈕。
 
@@ -40,15 +44,15 @@ Marketo Engage正在繼續推出電子郵件驗證，以準備將客戶移轉至
 
 使用者的電子郵件地址變更後，即會變成未驗證。 他們將會收到電子郵件，以便重新驗證。 使用者可以按一下「 」，手動重新傳送該電子郵件 **[!UICONTROL 重新傳送驗證]**.
 
-![](assets/email-verification-2.png)
-
 ![](assets/email-verification-3.png)
+
+![](assets/email-verification-4.png)
 
 ## 使用者和角色 {#users-and-roles}
 
 在 **[!UICONTROL 管理員]** > **[!UICONTROL 使用者和角色]**，電子郵件狀態列會顯示每個使用者的驗證狀態。
 
-![](assets/email-verification-4.png)
+![](assets/email-verification-5.png)
 
 ## 多個使用者登入ID {#multiple-user-login-ids}
 
@@ -58,7 +62,7 @@ Marketo Engage正在繼續推出電子郵件驗證，以準備將客戶移轉至
 * 使用新電子郵件作為目前的使用者登入ID
 * 延遲決定至下次登入
 
-  ![](assets/email-verification-5.png)
+  ![](assets/email-verification-6.png)
 
 >[!NOTE]
 >
