@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60da79f1d2a9baffddc407e448b7b5da3cf52526
+source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '780'
 ht-degree: 2%
 
 ---
@@ -28,7 +28,6 @@ ht-degree: 2%
    <th style="width:65%">功能</th> 
    <th style="width:10%">狀態</th>
    <th style="width:25%">檔案</th>
-  </tr> 
   </tr>
     <tr> 
    <td><strong>互動式網路研討會的隨選網路研討會</strong>：隨選網路研討會可讓您發佈網路研討會影片，並追蹤其造訪/觀看次數。 這可協助您透過未參加網路研討會（不播放）但仍想尋找更多詳細資訊和檢視錄影的註冊者，取得更多銷售機會。</td> 
@@ -40,8 +39,6 @@ ht-degree: 2%
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-  </tr>
     <tr> 
    <td><strong>對話式登陸頁面</strong>：將Dynamic Chat交談流程直接內嵌至Marketo Engage登陸頁面，讓訪客可透過Dynamic Chat排程會議，無須填寫表單或與聊天機器人互動。</td> 
    <td><i>即將推出</i></td>
@@ -52,8 +49,6 @@ ht-degree: 2%
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-   </tr>
     <tr> 
    <td><strong>篩選電子郵件機器人活動</strong>：可讓您選擇希望機器人活動識別篩選的積極程度，藉此改善擷取電子郵件參與作業的機器人活動。</td> 
    <td>已送出</td>
@@ -63,11 +58,29 @@ ht-degree: 2%
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
    </tr>
     <tr> 
    <td><strong>大量銷售機會匯入API更新</strong>：大量銷售機會匯入API的行為已進行微幅調整，當 <b>id</b> 指定為 <b>lookupField</b> 在建立工作期間。 如果個人記錄連結到提供的 <b>id</b> 在Marketo Engage資料庫中找不到，將不會發生記錄更新，因為找不到記錄。 更新的行為現在包括增加中的計數 <b>numOfRowsFailed</b> 回應中的屬性，表示在此類情況下作業已失敗。</td> 
+   <td>已送出</td>
+   <td>不適用</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+   </tr>
+  <tr> 
+   <td><strong>共同主持互動式網路研討會</strong>：互動式網路研討會的網路研討會團隊區段中的共同主機可讓事件建立者將內部或外部使用者新增至互動式網路研討會程式，以共用管理和傳送責任。</td> 
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">新增網路研討會團隊</a></td>
+  </tr>
+  <tr>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>在互動式網路研討會中移除使用者</strong>：Marketo Engage管理員現在可以在互動式網路研討會中移除特定使用者。</td> 
    <td>已送出</td>
    <td>不適用</td>
   </tr>
