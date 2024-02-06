@@ -4,9 +4,9 @@ description: 根據IP限制Marketo登入 — Marketo檔案 — 產品檔案
 title: 根據IP限制Marketo登入
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: b4bd06d3e5ee205744478e0f5556f490f9f5abe4
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
->[!NOTE]
+>[!IMPORTANT]
 >
->本文資訊僅適用於login.marketo.com的直接登入。 目前無法對單一登入(SSO)登入強制執行IP限制。
+>本文資訊適用於直接登入login.marketo.com的使用者，不適用於使用Adobe ID進行驗證的使用者。 目前無法對單一登入(SSO)登入強制執行IP限制。
 
 1. 前往 **[!UICONTROL 管理員]** 區域。
 
