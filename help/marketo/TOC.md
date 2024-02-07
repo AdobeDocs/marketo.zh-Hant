@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: ce8b46126478fe9b2afcf9d475607ee71f64e111
+source-git-commit: 94afeacfdecf71e6985daccc31dd67e3d19953ac
 workflow-type: tm+mt
-source-wordcount: '9267'
+source-wordcount: '9272'
 ht-degree: 0%
 
 ---
@@ -1126,6 +1126,8 @@ ht-degree: 0%
       + [圖示字彙表](product-docs/marketo-engage-modern-ux/icon-glossary.md)
       + [使用全域搜尋](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [切換開關](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+   + Marketo通知 {#marketo-notifications}
+      + [通知： Websocket連線](product-docs/marketo-notifications/notification-websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + 快速入門 {#getting-started}
          + [Sales Connect概觀](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
