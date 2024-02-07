@@ -4,9 +4,9 @@ title: 最新發行說明
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: a5b711284ffb3c5e41bca5135cd28da4c65f6d80
+source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '296'
 ht-degree: 3%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 3%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>API活動中繼資料</strong>：中繼資料，例如使用者代理、平台、瀏覽器和裝置現在包含在中 <i>全部</i> 瀏覽器型活動，可透過Marketo REST API提供瀏覽器型活動的一致深入分析。</td> 
+   <td><strong>API活動中繼資料</strong>：中繼資料（例如使用者代理、平台和裝置）現在包含在網路和電子郵件活動中，有助於透過Marketo REST API提供這些活動的一致深入分析。</td> 
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
