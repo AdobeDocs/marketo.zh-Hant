@@ -4,9 +4,9 @@ title: 最新發行說明
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
+source-git-commit: 83cd2466d7be84d3f1dceb7fae17ca0cb53d7408
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '260'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,27 @@ ht-degree: 3%
    <th style="width:10%">狀態</th>
    <th style="width:25%">檔案</th>
   </tr>
+  <tr> 
+   <td><strong>進階對話流程邏輯</strong>：新增其他欄位以供在單一選擇中進行評估，以進行交談流量追蹤。</td> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>重新排序對話流程邏輯</strong>：在Marketo EngageForms中，您現在可以重新排序對話流程選擇，而不必刪除並重新新增。</td> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
     <tr> 
    <td><strong>互動式網路研討會中的自訂範本</strong>：您現在可以在互動式網路研討會中建立空間配置的自訂範本。</td> 
    <td><i>即將推出</i></td>
@@ -49,42 +70,6 @@ ht-degree: 3%
 </table>
 <br/>
 
-## 敏捷發行功能 {#agile-release-features}
-
-以下所有功能都遵循敏捷格式，並在標準發行日期之前或之後的各種日期發行。 請檢查每個功能旁的狀態。
-
-### Dynamic Chat {#dynamic-chat}
-
-<table style="border: 0px">
- <tbody> 
-  <tr> 
-   <th style="width:65%">功能</th> 
-   <th style="width:15%">狀態</th>
-   <th style="width:20%">檔案</th>
-  </tr> 
-  </tr>
-    <tr> 
-   <td><strong>進階對話流程邏輯</strong>：新增其他欄位以供在單一選擇中進行評估，以進行交談流量追蹤。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
-    <tr> 
-   <td><strong>重新排序對話流程邏輯</strong>：您現在可以重新排序設定「對話流程」條件邏輯的邏輯，而不必刪除再讀取。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-   </tr>
- </tbody> 
-</table>
-<br/>
-
 ## 公告 {#announcements}
 
-* **帳戶分析瀏覽器外掛程式淘汰**：Adobe正在移除 [帳戶分析瀏覽器外掛程式](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md) 從Chrome線上商店，2024年3月18日 現有使用者：您可以繼續使用外掛程式，直到您將您的Marketo Engage執行個體移轉至Adobe身分和Admin Console為止。
-
-{target="_blank"}
+* **帳戶分析瀏覽器外掛程式淘汰**：Adobe正在移除Target帳戶管理 [帳戶分析瀏覽器外掛程式](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} 從Chrome線上商店，2024年3月18日 現有使用者：您可以繼續使用外掛程式，直到您將您的Marketo Engage執行個體移轉至Adobe身分和Admin Console為止。
