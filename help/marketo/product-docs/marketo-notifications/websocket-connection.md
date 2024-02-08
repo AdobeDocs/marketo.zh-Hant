@@ -3,8 +3,7 @@ description: 通知 — Websocket連線 — Marketo檔案 — 產品檔案
 title: 通知 — Websocket連線
 hide: true
 hidefromtoc: true
-feature: Getting Started
-source-git-commit: 10fe526c672867b93b54e99e492e59c0541c3f36
+source-git-commit: 77300e8d620887b5c1d14a4f979a96488b6eec87
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
