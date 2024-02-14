@@ -4,9 +4,9 @@ description: 使用通用ID進行訂閱登入 — Marketo檔案 — 產品檔案
 title: 使用通用ID進行訂閱登入
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
+source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -58,10 +58,6 @@ ht-degree: 0%
 ## 社群設定檔 {#community-profiles}
 
 如果您有多個訂閱，則可能有多個社群設定檔。 建議您選擇連結至最活躍社群設定檔的登入。
-
-## 行動平台 {#mobile-platform}
-
-擁有通用ID的使用者可以在以下位置檢視其資料： [Marketo時刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} 從他們上次登入的訂閱。 您無法從行動平台本身變更訂閱。
 
 >[!MORELIKETHIS]
 >
