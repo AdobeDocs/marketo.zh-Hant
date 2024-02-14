@@ -3,9 +3,9 @@ description: 即時聊天概述 — Marketo檔案 — 產品檔案
 title: 即時聊天總覽
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: b05ae6f1b5a63cdf5a0d5da1cb1a6a3641d973c1
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '649'
 ht-degree: 0%
 
 ---
@@ -105,8 +105,8 @@ ht-degree: 0%
 
 ### 注意事項 {#things-to-note}
 
-* 在「接受聊天」訊息逾時之前，代理程式有45秒的時間回應
-* 目前每個代理程式限製為10個即時聊天
+* 在「接受聊天」訊息逾時之前，代理程式有45秒的時間回應。 之後，訪客將收到 [遞補訊息](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. 對於將路由選項設定為的Dynamic Prime訂閱者 **團隊**，在後援訊息出現之前，將再嘗試一個代理程式。
+* 目前每個代理程式限製為10個即時聊天。
 
 >[!MORELIKETHIS]
 >
