@@ -4,9 +4,9 @@ description: 使用通用ID進行訂閱登入 — Marketo檔案 — 產品檔案
 title: 使用通用ID進行訂閱登入
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 6ef584a5f405fd5b62c561b99924b8f169a22118
+source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 當您使用通用ID登入以接受第二個訂閱的邀請時，您會看到選擇加入登入頁面。 您必須勾選核取方塊以接受條款與條件。 接受後，您將會看到後續登入的正常重設頁面，而非此頁面。 接受條款與條件後，您就可以讓Marketo將基本設定檔資料（例如名字、姓氏及電子郵件地址）發佈至託管訂閱的不同位置資料中心。
 
-![](assets/new-login-reduced-hands-name.png)
+![](assets/using-a-universal-id-for-subscription-login-1.png)
 
 >[!TIP]
 >
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 使用通用ID，您可以檢視您登入的訂閱，並選取您有登入存取權的其他訂閱。 在大多數情況下，您無需登出再重新登入，即可在兩者之間切換。
 
-![](assets/image2016-11-3-15-3a10-3a16.png)
+![](assets/using-a-universal-id-for-subscription-login-2.png)
 
 當您登出再登入時，Marketo會自動將您登入上次登入的訂閱。 如有必要，您可以切換至其他訂閱。
 
