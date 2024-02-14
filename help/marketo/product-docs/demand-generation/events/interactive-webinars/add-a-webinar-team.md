@@ -1,10 +1,8 @@
 ---
 description: 新增網路研討會團隊 — Marketo檔案 — 產品檔案
 title: 新增網路研討會團隊
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 15dc1923dbd8e50f0975206838b9f77b74f106b2
+source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -17,9 +15,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在Adobe Connect的網路研討會傳送期間，Marketo中的主講人和共同主機將完全對應至主講人和共同主持人的角色。
+>在Adobe Connect的網路研討會傳送期間，Marketo中的簡報者和共同主機完全對應至簡報者和主持者的角色。
 
-簡報者是參與提供網路研討會體驗的外部角色，而共同主機可以擔任簡報者並處理網路研討會提供的管理層面。 共同主機可以是內部或外部主機。 外部共同主機無法存取Marketo中的互動式網路研討會活動程式，但在Adobe Connect中進行傳送期間具有共同主機許可權。 內部共同主機在傳送期間可存取Marketo中的互動式網路研討會活動方案以及共同主機許可權。 這可協助確保當互動式網路研討會計畫的原始建立者不再是互動式網路研討會使用者集的一部分，或甚至不是Marketo使用者時，內部共同主機可以掌管互動式網路研討會事件計畫。
+簡報者是參與提供網路研討會體驗的外部角色，而共同主機可以擔任簡報者並處理網路研討會提供的管理層面。 共同主機可以是內部或外部主機。 外部共同主機無法存取Marketo中的互動式網路研討會活動程式，但在Adobe Connect中進行傳送期間具有主機許可權。 內部共同主機在傳送期間可存取Marketo中的互動式網路研討會活動方案以及主機許可權。 這可協助確保當互動式網路研討會計畫的原始建立者不再是互動式網路研討會使用者集的一部分，或甚至不是Marketo使用者時，內部共同主機可以掌管互動式網路研討會事件計畫。
 
 >[!PREREQUISITES]
 >
