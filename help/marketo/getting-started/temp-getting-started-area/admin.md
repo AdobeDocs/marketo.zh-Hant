@@ -4,9 +4,9 @@ title: 新區域
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
+source-git-commit: a1c06c980a6f8955f4f51e2fc85202d77a8f27da
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '483'
 ht-degree: 2%
 
 ---
@@ -125,7 +125,7 @@ ht-degree: 2%
 </tbody>
 </table>
 
-## 標籤 {tags}
+## 標記 {#tags}
 
 <table>
 <thead>
