@@ -4,10 +4,10 @@ description: Microsoft Dynamics MSI的外掛程式版本 — Marketo檔案 — �
 title: Microsoft Dynamics MSI的外掛程式版本
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 6dcda9b86555c17b3492a02f3985db7d2acd8a32
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 8%
+source-wordcount: '400'
+ht-degree: 0%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 8%
 >
 >範例：如果您的Dynamics CRM版本為2.0.0.20，而最新版本為2.0.0.21，則需匯入 _超過_ 版本2.0.0.20。
 
-1. 按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 按一下 **[!UICONTROL 下一個]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 8%
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. 按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 按一下 **[!UICONTROL 下一個]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
@@ -52,66 +52,83 @@ ht-degree: 8%
 ## 版本更新 {#version-updates}
 
 <table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
  <tbody> 
   <tr> 
-   <th colspan="1">發行日期</th> 
-   <th colspan="1">版本</th> 
-   <th colspan="1">附註</th> 
-  </tr> 
-  <tr> 
-   <td colspan="1">02/03/22</td> 
-   <td colspan="1">2.0.0.27</td> 
-   <td colspan="1">前瞻分析的帳戶配置：有趣的時刻、分數變更、網路活動、電子郵件活動</td> 
+   <th>發行日期</th> 
+   <th>版本</th> 
+   <th>附註</th> 
   </tr>
   <tr> 
-   <td colspan="1">01/05/22</td> 
-   <td colspan="1">2.0.0.26</td> 
-   <td colspan="1">傳送電子郵件的方案採用分數</td> 
+   <td>02/14/24</td> 
+   <td>2.00.31</td> 
+   <td>變更匿名網路活動的分頁。
+   <p>
+   從使用者檢視中加密機密金鑰資訊。 匯入新封裝後需要變更密碼才能進行加密。</td> 
   </tr>
   <tr> 
-   <td colspan="1">10/28/21</td> 
-   <td colspan="1">2.0.0.25</td> 
-   <td colspan="1">產品採用分數量度，新的全域控制面板（網頁活動、電子郵件、首選）</td> 
+   <td>10/18/23</td> 
+   <td>2.00.30</td> 
+   <td>合併MSI錯誤記錄檔並移除資訊通知，使其不顯示在Marketo錯誤實體上。</td> 
   </tr>
   <tr> 
-   <td colspan="1">02/10/21</td> 
-   <td colspan="1">2.0.0.22</td> 
-   <td colspan="1">移除MSI解決方案上已啟用自動稽核和檔案變更</td> 
+   <td>05/19/23</td> 
+   <td>2.00.29</td> 
+   <td>修正全域控制面板的網頁活動和興趣時刻分頁問題。</td> 
   </tr>
   <tr> 
-   <td colspan="1">10/01/20</td> 
-   <td colspan="1">2.0.0.21</td> 
-   <td colspan="1">錯誤修正：為具有銷售分析角色的使用者指派對MSI API設定欄位的存取權</td> 
+   <td>03/23/23</td> 
+   <td>2.00.28</td> 
+   <td>已建立 <a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">新封裝</a> 用於MSI，以連線到CRM。</td> 
+  </tr>
+  <tr> 
+   <td>02/03/22</td> 
+   <td>2.0.0.27</td> 
+   <td>前瞻分析的帳戶配置：有趣的時刻、分數變更、網頁活動、電子郵件活動。</td> 
+  </tr>
+  <tr> 
+   <td>01/05/22</td> 
+   <td>2.0.0.26</td> 
+   <td>傳送電子郵件的方案採用分數。</td> 
+  </tr>
+  <tr> 
+   <td>10/28/21</td> 
+   <td>2.0.0.25</td> 
+   <td>產品採用分數量度、新的全域控制面板（網頁活動、電子郵件、首選）。</td> 
+  </tr>
+  <tr> 
+   <td>02/10/21</td> 
+   <td>2.0.0.22</td> 
+   <td>移除MSI解決方案上已啟用自動稽核和檔案變更。</td> 
+  </tr>
+  <tr> 
+   <td>10/01/20</td> 
+   <td>2.0.0.21</td> 
+   <td>錯誤修正：為具有Sales Insight角色的使用者指派對MSI API設定欄位的存取權。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">07/20/20</td> 
-   <td colspan="1">2.0.0.20</td> 
-   <td colspan="1">錯誤修正：新增非同步記錄的驗證訊息</td> 
+   <td>07/20/20</td> 
+   <td>2.0.0.20</td> 
+   <td>錯誤修正：新增非同步記錄的驗證訊息。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">06/12/20</td> 
-   <td colspan="1">2.0.0.19</td> 
-   <td colspan="1">錯誤修正：若要在MSD API設定上隱藏MSI秘密密碼</td> 
+   <td>06/12/20</td> 
+   <td>2.0.0.19</td> 
+   <td>錯誤修正：在MSD API設定上隱藏MSI秘密密碼。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/26/20</td> 
-   <td colspan="1">2.0.0.18</td> 
-   <td colspan="1">錯誤修正：若要變更顯示MSI按鈕的MSI角色ID驗證</td> 
+   <td>05/26/20</td> 
+   <td>2.0.0.18</td> 
+   <td>錯誤修正：變更顯示MSI按鈕的MSI角色ID驗證。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/21/20</td> 
-   <td colspan="1">2.0.0.17</td> 
-   <td colspan="1">錯誤修正：取消隱藏擁有者欄位，並將欄位設為非必填欄位</td> 
+   <td>05/21/20</td> 
+   <td>2.0.0.17</td> 
+   <td>錯誤修正：取消隱藏擁有者欄位，並將欄位設為非必填。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">04/28/20</td> 
-   <td colspan="1">2.0.0.16</td> 
-   <td colspan="1">錯誤修正：移除MSD CRM Sitemap設定連結相依性</td> 
+   <td>04/28/20</td> 
+   <td>2.0.0.16</td> 
+   <td>錯誤修正：正在移除MSD CRM Sitemap設定連結相依性。</td> 
   </tr> 
  </tbody> 
 </table>
