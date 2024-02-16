@@ -4,7 +4,7 @@ description: 發行排程 - Marketo 文件 - 產品文件
 title: 發行排程
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 5%
@@ -25,20 +25,14 @@ ht-degree: 5%
 
 _發行日期/功能可能會有所變更_
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup>
+<table>
  <tbody> 
   <tr> 
    <th width="250px">版本</th>
    <th width="250px">發行日期</th>
    <th width="250px">狀態</th>
   </tr>
-
-<tr>
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-sep-23.md">2023年9月</a></td>
    <td>2023年9月8日</td>
    <td>已送出</td>
@@ -49,12 +43,12 @@ _發行日期/功能可能會有所變更_
    <td>已送出</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">2024年1月</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-jan-24.md">2024年1月</a></td>
    <td>2024年1月12日</td>
    <td>進行中</td>
   </tr>
   <tr> 
-   <td>2024年3月</td>
+   <td><a href="/help/marketo/release-notes/current.md">2024年3月</a></td>
    <td>2024年3月8日</td>
    <td>依排程</td>
   </tr>
