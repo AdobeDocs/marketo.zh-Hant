@@ -4,16 +4,20 @@ description: 匯入計畫 — Marketo檔案 — 產品檔案
 title: 匯入計畫
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0adb780ea1622d12b8daafc502fd6a9151757ad3
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
 
 # 匯入計畫 {#import-a-program}
 
-程式可從一個Marketo訂閱匯入到另一個訂閱。 例如，您可以在沙箱中建立計畫，然後將其匯入您的即時訂閱中。 此外，您也可以從匯入預先建立的計畫 [Marketo程式庫](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+計畫可以從一個Marketo Engage訂閱匯入到另一個訂閱。 例如，您可以在沙箱中建立計畫，然後將其匯入您的即時訂閱中。 此外，您也可以從匯入預先建立的計畫 [Marketo程式庫](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+
+>[!CAUTION]
+>
+>程式若具有包含「自訂物件已更新」觸發器的智慧清單，將會導致匯入失敗。 在執行以下概述的步驟之前，請從所有智慧列示中移除此觸發器。
 
 ## 匯入方案 {#importing-a-program}
 
@@ -27,15 +31,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >「程式匯入」僅適用於已啟用「匯入程式」許可權之角色的使用者。 進一步瞭解 [管理使用者角色和許可權](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+   >* 「程式匯入」僅適用於已啟用「匯入程式」許可權之角色的使用者。 進一步瞭解 [管理使用者角色和許可權](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >若要將沙箱帳戶連線至您的即時訂閱，請連絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* 若要將沙箱帳戶連線至您的即時訂閱，請連絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. 選取Marketo **[!UICONTROL 訂閱]** 以及要匯入的方案。 按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 選取Marketo **[!UICONTROL 訂閱]** 以及要匯入的方案。 按一下 **[!UICONTROL 下一個]**.
 
    ![](assets/import-a-program-3.png)
 
-1. 指定 **[!UICONTROL 行銷活動資料夾]** 適用於匯入的方案。 按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 指定 **[!UICONTROL 行銷活動資料夾]** 適用於匯入的方案。 按一下 **[!UICONTROL 下一個]**.
 
    ![](assets/import-a-program-4.png)
 
