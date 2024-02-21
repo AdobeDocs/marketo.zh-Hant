@@ -4,7 +4,7 @@ title: 新區域
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a1c06c980a6f8955f4f51e2fc85202d77a8f27da
+source-git-commit: 7d8cdb2da42769ee0326a3d585ad32a3405dfac1
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # 新區域：管理員檢查清單 {#new-area-admin-checklist}
 
-正在開啟Blurb
+介紹文字。
 
 ## 角色 {#roles}
 
