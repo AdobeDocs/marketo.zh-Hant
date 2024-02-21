@@ -2,7 +2,7 @@
 description: 建立SMS訊息 — Marketo檔案 — 產品檔案
 title: 建立簡訊訊息
 feature: Mobile Marketing
-source-git-commit: c0e2c460559860a22a649e67624db0ad717ae327
+source-git-commit: 5ec5e462d76cf6de45378cc2293bd37e7ac24510
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能可作為您的Adobe Marketo Engage帳戶的附加元件使用。 為了適當地布建，您必須透過Adobe購買。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。 Marketo Vibes SMS原生整合在美國和加拿大提供。 若為其他國家/地區，則可利用透過Marketo Webhook的連線， [直接連絡Vibes](https://www.vibes.com/talk-to-sales){target="_blank"}.
+>此功能可作為您的Adobe Marketo Engage帳戶的附加元件使用。 為了適當地布建，您必須透過Adobe購買。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。 Marketo Vibes SMS原生整合在美國和加拿大提供。 若為其他國家/地區，則可利用透過Marketo Webhook的連線， [直接連絡Vibes](https://www.vibes.com/talk-to-sales).
 
 >[!PREREQUISITES]
 >

@@ -4,9 +4,9 @@ description: 在Salesforce Professional Edition中設定Marketo Sales Insight - 
 title: 在Salesforce Professional Edition中設定Marketo Sales Insight
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
+source-git-commit: 1ce807ce99e3551ffc29e59ed356423633dc2276
 workflow-type: tm+mt
-source-wordcount: '962'
+source-wordcount: '850'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,8 @@ ht-degree: 0%
 ## 在Marketo中設定Sales Insight {#configure-sales-insight-in-marketo}
 
 1. 開啟新的瀏覽器視窗，以從您的Marketo帳戶取得Marketo Sales Insight憑證。
-1. 前往管理區域並選取 **銷售分析**.
+
+1. 前往 **管理員** 區域並選取 **銷售分析**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1-1.png)
 
@@ -48,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 
-1. 您將會看到確認快顯視窗。 按一下 **確定**.
+1. 您會看到確認快顯視窗。 按一下 **確定**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5-1.png)
 
@@ -76,52 +77,6 @@ ht-degree: 0%
 
 1. 輸入遠端網站名稱（類似「MarketoRestAPI」）。 輸入遠端網站URL，這是您在Marketo的Rest API設定面板中的API URL。 按一下 **儲存**. 您現在已建立Rest API的遠端站台設定。
 
-## 設定Marketo Sales Insight {#set-up-marketo-sales-insight}
-
-1. 登入您的Marketo執行個體，然後按一下 **管理員**.
-
-   ![](assets/login-admin-1.png)
-
-1. 按一下 **銷售分析**.
-
-   ![](assets/image2015-5-22-15-3a12-3a33-1.png)
-
-1. 按一下 **編輯API設定**.
-
-   ![](assets/image2015-5-22-15-3a15-3a0-1.png)
-
-1. 輸入 **API秘密金鑰** 並按一下 **儲存**.
-
-   >[!CAUTION]
-   >
-   >請勿在您的API秘密金鑰中使用&amp;符號。
-
-   ![](assets/image2015-5-27-16-3a36-3a56-1.png)
-
-   >[!TIP]
-   >
-   >保持此視窗開啟。 您稍後需要在Salesforce中取得此資訊。
-
-1. 返回Salesforce，按一下 **設定**.
-
-   ![](assets/image2015-5-22-14-3a40-3a39-1.png)
-
-1. 搜尋「遠端站台」並按一下 **遠端站台設定** 在 **安全性控制**.
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. 按一下 **新增遠端站台**.
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. 輸入 **遠端站台名稱** 和 **遠端站台URL**，然後按一下 **儲存**.
-
-   ![](assets/remote-site-1.png)
-
-   >[!NOTE]
-   >
-   >您選擇您的 **遠端站台名稱** （此處使用MarketoAPI）。 此 **遠端站台URL** 您可在步驟4中「編輯API設定」對話方塊的「Marketo主機」欄位中找到。
-
 ## 授予Sales Insight使用者對標準Salesforce物件的設定檔存取權 {#grant-sales-insight-users-profile-access}
 
 由於Saleforce安全性增強功能，App Exchange套件無法再授與標準物件的許可權，而必須從Salesforce使用者的設定檔授與相關Salesforce物件的存取權。 請依照下列步驟授予必要的許可權。
@@ -134,7 +89,7 @@ ht-degree: 0%
 
 1. 在「標準物件許可權」區段下，啟用下列物件的「讀取」存取權：銷售機會、連絡人、帳戶和機會。
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
 ## 自訂頁面配置 {#customize-page-layouts}
 

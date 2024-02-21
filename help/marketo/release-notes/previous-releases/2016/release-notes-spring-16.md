@@ -4,9 +4,9 @@ description: 發行說明–2016年春季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2016年春季
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c20ea4d17f6bf2d6f14a8fe71527dd9fa0c446a2
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '797'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## [電子郵件深入分析](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
-電子郵件深入解析是全新的歷史彙總資料電子郵件分析體驗 — 重新設計端對端，作為Project Orion的一部分提供超快效能。 其特色是全新使用者介面設計，已最佳化以符合電子郵件行銷人員的需求和工作流程。
+電子郵件深入解析是全新的歷史彙總資料電子郵件分析體驗 — 重新設計端對端，提供超快效能。 其特色是全新使用者介面設計，已最佳化以符合電子郵件行銷人員的需求和工作流程。
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ Marketo REST API現在支援控制Marketo登陸頁面、登陸頁面範本和表
 
 ## [新的高速Microsoft Dynamics同步聯結器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
-全新的高速動態聯結器建置在Orion架構之上，提供高達20倍的初始同步速度，以及高達5倍的增量同步速度。 所有新客戶將在發行日期加入此聯結器，我們將在夏季發行時間範圍內逐步向現有客戶推出。
+全新的高速Dynamics聯結器可提供高達20倍的初始同步處理速度，以及高達5倍的增量同步處理速度。 所有新客戶將在發行日期加入此聯結器，我們將在夏季發行時間範圍內逐步向現有客戶推出。
 
 **重新整理新欄位的資料**：您現在隨時可以啟用新的同步欄位，該欄位的所有資料值將會從Dynamics CRM重新整理至Marketo。 不用擔心在初始設定期間必須選取所有欄位。 如果您停用現有的同步欄位並在稍後重新啟用，該欄位的所有資料值將會從Dynamics CRM重新整理至Marketo。
 
