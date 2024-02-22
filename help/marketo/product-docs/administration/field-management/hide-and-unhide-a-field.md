@@ -4,9 +4,9 @@ description: 隱藏和取消隱藏欄位 — Marketo檔案 — 產品檔案
 title: 隱藏和取消隱藏欄位
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 7663965cd18d52a7ad452be3076759c4be95bf98
+source-git-commit: 37e6f60d2f26ce2c7a8c7564f33c6121a6a507a1
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '177'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 1%
    >
    >* 為了隱藏欄位，不得將其與任何其他資產（包括已封存資產）相關聯。 在隱藏之前，請務必從所有智慧列示、流程步驟選擇、表單、電子郵件等中移除欄位。
    >* 您無法隱藏標準（系統）欄位。
+   >* 您無法隱藏機會資訊欄位。
 
 1. 按一下 **[!UICONTROL 隱藏]** 以確認。
 
