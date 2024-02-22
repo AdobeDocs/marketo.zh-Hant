@@ -4,9 +4,9 @@ description: '"新增 [!DNL Munchkin] 追蹤程式碼至您的網站 — Marketo
 title: '"新增 [!DNL Munchkin] 將追蹤程式碼移至您的網站」'
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: bb9593ab500d57127f22b14757688d7521661e38
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '666'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Marketo的自訂JavaScript追蹤程式碼，稱為 [!DNL Munchkin]，會追蹤�
 
 >[!NOTE]
 >
->Adobe Experience Cloud客戶也可以在Adobe Launch中使用Marketo的整合，以包含 [!DNL Munchkin] 編寫網頁指令碼。 取得應用程式 [此處](https://www.adobeexchange.com/experiencecloud.details.101054.html){target="_blank"}.
+>Adobe Experience Cloud使用者也可以使用 [Adobe Launch中的Marketo整合](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} 要包含 [!DNL Munchkin] 編寫網頁指令碼。 如果您使用Adobe Launch， _此 [!DNL Munchkin] 指令碼會自動新增_，因此您不需要自行新增。
 
 1. 前往 **[!UICONTROL 管理員]** 區域。
 
@@ -39,7 +39,7 @@ Marketo的自訂JavaScript追蹤程式碼，稱為 [!DNL Munchkin]，會追蹤�
 
    >[!NOTE]
    >
-   >在幾乎所有情況下，您都應該使用非同步程式碼。 [深入了解](#types-of-munchkin-tracking-codes).
+   >在幾乎所有情況下，您都應該使用非同步程式碼。 [瞭解更多](#types-of-munchkin-tracking-codes).
 
 1. 按一下並複製Javascript追蹤程式碼，以放置到您的網站上。
 
@@ -59,7 +59,7 @@ Marketo的自訂JavaScript追蹤程式碼，稱為 [!DNL Munchkin]，會追蹤�
 
    >[!TIP]
    >
-   >若是網站發生大量流量（亦即每月有數十萬次造訪），建議您不要追蹤匿名人員。 [深入了解](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
+   >若是網站發生大量流量（亦即每月有數十萬次造訪），建議您不要追蹤匿名人員。 [瞭解更多](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"}.
 
 ## 使用多個工作區時新增追蹤程式碼 {#add-tracking-code-when-using-multiple-workspaces}
 
