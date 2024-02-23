@@ -2,8 +2,8 @@
 description: Marketo EngageForms的對話流程設定 — Marketo檔案 — 產品檔案
 title: Marketo EngageForms的對話流量設定
 feature: Dynamic Chat
-exl-id: 28d509c8-e967-43fa-ba80-c6619c647144
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -22,19 +22,19 @@ ht-degree: 0%
 
    ![](assets/conversational-flow-settings-1.png)
 
-1. 按一下 **編輯草稿**.
+1. 按一下 **[!UICONTROL 編輯草稿]**.
 
    ![](assets/conversational-flow-settings-2.png)
 
-1. 在表單編輯頁面上，按一下 **表單設定**，然後 **設定**.
+1. 在表單編輯頁面上，按一下 **[!UICONTROL 表單設定]**，然後 **[!UICONTROL 設定]**.
 
    ![](assets/conversational-flow-settings-3.png)
 
-1. 按一下 **對話流量設定** 要啟用的滑桿。
+1. 按一下 **[!UICONTROL 對話流量設定]** 要啟用的滑桿。
 
    ![](assets/conversational-flow-settings-4.png)
 
-1. 隨即顯示「預設選擇」強制回應視窗。 選取您的偏好設定。 在此範例中，我們選擇 **使用對話流程**.
+1. 隨即顯示「預設選擇」強制回應視窗。 選取您的偏好設定。 在此範例中，我們選擇 **[!UICONTROL 使用對話流程]**.
 
    ![](assets/conversational-flow-settings-5.png)
 
@@ -54,6 +54,6 @@ ht-degree: 0%
    >
    >在提交表單前，訪客的瀏覽器必須是以已知人員身分的Cookie，才能符合靜態/智慧清單成員資格。
 
-1. 按一下 **完成** 完成時。
+1. 按一下 **[!UICONTROL 完成]** 完成時。
 
    ![](assets/conversational-flow-settings-8.png)

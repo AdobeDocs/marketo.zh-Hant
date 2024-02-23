@@ -2,8 +2,8 @@
 description: 對話方塊概述 — Marketo檔案 — 產品檔案
 title: 對話方塊概述
 feature: Dynamic Chat
-exl-id: 13acba58-fe66-4153-ad90-f433ef316342
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 5%
@@ -64,10 +64,10 @@ ht-degree: 5%
 
 您可以同時停用（及重新啟用）所有已發佈的對話方塊。
 
-1. 在Dynamic Chat中，按一下 **設定** 標籤。
+1. 在Dynamic Chat中，按一下 **[!UICONTROL 設定]** 標籤。
 
    ![](assets/dialogue-overview-4.png)
 
-1. 切換 **聊天已啟用** 切換為關閉以停用（再切換為開啟以重新啟用）所有對話方塊。
+1. 切換 **[!UICONTROL 聊天已啟用]** 切換為關閉以停用（再切換為開啟以重新啟用）所有對話方塊。
 
    ![](assets/dialogue-overview-5.png)

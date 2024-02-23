@@ -3,9 +3,9 @@ description: 首選 — Marketo檔案 — 產品檔案
 title: 首選
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # 首選 {#best-bets}
 
 Best Bets索引標籤會根據您的優先順序包含所有熱門潛在客戶的清單，並使用急迫性和相對分數計算。
+
+>[!CAUTION]
+>
+>請留意勿超過1,000個首選，否則頁面可能會停止載入。 如果發生這種狀況，請使用篩選器來減少「首選」總數。
 
 **篩選器選項**
 
