@@ -4,7 +4,7 @@ description: 將單一登入新增至入口網站 — Marketo檔案 — 產品�
 title: 新增單一登入至入口網站
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: f8fa8781d2b1e96ffda038f2f2e28cd242dcfead
+source-git-commit: 48f280eef0fb5762b8032307c5442906f7ceaae3
 workflow-type: tm+mt
 source-wordcount: '560'
 ht-degree: 0%
@@ -29,8 +29,7 @@ Marketo的作用就像是SAML服務提供者(SP)，並且仰賴外部身分提�
 
 >[!NOTE]
 >
->您是 [!DNL Microsoft Azure] 使用者？ 檢視他們的 [整合教學課程](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
-僅供參考，其教學課程的步驟5c中有一個錯字。 請使用 `https://<munchkinid>.mktoweb.com`， _非_ `https://<munchkinid>.marketo.com`.
+>您是 [!DNL Microsoft Azure] 使用者？ 檢視他們的 [整合教學課程](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. 僅供參考，其教學課程的步驟5c中有一個錯字。 請使用 `https://<munchkinid>.mktoweb.com`， **_非_** `https://<munchkinid>.marketo.com`.
 
 ## 如何傳送請求 {#how-to-send-the-request}
 
