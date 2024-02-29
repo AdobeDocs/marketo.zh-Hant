@@ -3,9 +3,9 @@ description: 移轉至Adobe身分 — Marketo檔案 — 產品檔案
 title: 移轉至Adobe身分
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
+source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
 workflow-type: tm+mt
-source-wordcount: '2230'
+source-wordcount: '2252'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,9 @@ Adobe會先使用已驗證的電子郵件自動移轉所有Marketo管理員。 M
 
 ![](assets/migrating-to-adobe-identity-5.png)
 
-**如果您的Marketo訂閱使用者少於75名**，Adobe會自動移轉其餘的使用者。 此工作流程旨在提供最高層級的自動化，而執行移轉不需要任何動作。 移轉完成後，Marketo移轉主控台將不再出現在Marketo管理導覽區域中，所有使用者都將使用Adobe ID存取Marketo。
+**如果您的Marketo訂閱有少於75名使用者，且Marketo和/或您的Adobe組織中沒有SSO**，Adobe會自動移轉其餘的使用者。 此工作流程旨在提供最高層級的自動化，而執行移轉不需要任何動作。 移轉完成後，Marketo移轉主控台將不再出現在Marketo管理導覽區域中，所有使用者都將使用Adobe ID存取Marketo。
 
-**如果您的Marketo訂閱有75名或更多使用者**，Marketo產品管理員將在使用者移轉開始時存取「移轉主控台」的「自助使用者移轉」工具，並在登入「我的Marketo」頁面時透過橫幅收到警報。 管理員將負責使用自助使用者移轉工具完成使用者移轉。
+**如果您的Marketo訂閱有75名或更多使用者，或在Marketo和/或您的Adobe組織中具有SSO**，Marketo產品管理員將在使用者移轉開始時存取「移轉主控台」的「自助使用者移轉」工具，並在登入「我的Marketo」頁面時透過橫幅收到警報。 管理員將負責使用自助使用者移轉工具完成使用者移轉。
 
 ![](assets/migrating-to-adobe-identity-6.png)
 

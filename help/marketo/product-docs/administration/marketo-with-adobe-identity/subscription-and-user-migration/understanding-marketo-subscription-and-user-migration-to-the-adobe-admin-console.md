@@ -3,9 +3,9 @@ description: 瞭解Marketo訂閱和使用者移轉至Adobe Admin Console - Marke
 title: 瞭解Marketo訂閱和使用者移轉至Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
+source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
 workflow-type: tm+mt
-source-wordcount: '1301'
+source-wordcount: '1323'
 ht-degree: 0%
 
 ---
@@ -88,9 +88,9 @@ Marketo產品管理員將：
 
 **Adobe將會先自動移轉Marketo管理員**. Marketo管理員移轉至Adobe身分識別後，將會在Marketo應用程式中獲得Adobe產品管理員角色，以及先前擁有的任何其他角色。
 
-**如果您的Marketo訂閱使用者少於75名**，Adobe會自動移轉其餘的使用者。 此工作流程旨在提供最高等級的自動化，以儘量降低AdobeMarketo使用者的額外負荷。 您不需要採取任何動作即可執行移轉。
+**如果您的Marketo訂閱有少於75名使用者，且Marketo和/或您的Adobe組織中沒有SSO**，Adobe會自動移轉其餘的使用者。 此工作流程旨在提供最高等級的自動化，以儘量降低AdobeMarketo使用者的額外負荷。 您不需要採取任何動作即可執行移轉。
 
-**如果您的Marketo訂閱有超過75位使用者**，Marketo產品管理員將可存取Marketo移轉主控台的「自助使用者移轉」區域(位於Marketo管理區域)。 若在使用者移轉程式期間需要加強控制，Marketo產品管理員將能一次選取或分批移轉的使用者。 選取使用者後，管理員可選取「立即移轉」或「排程移轉」以供稍後使用，讓管理員在移轉使用者時擁有最大的彈性和控制權。
+**如果您的Marketo訂閱擁有超過75名使用者或在Marketo和/或您的Adobe組織中具有SSO**，Marketo產品管理員將可存取Marketo移轉主控台的「自助使用者移轉」區域(位於Marketo管理區域)。 若在使用者移轉程式期間需要加強控制，Marketo產品管理員將能一次選取或分批移轉的使用者。 選取使用者後，管理員可選取「立即移轉」或「排程移轉」以供稍後使用，讓管理員在移轉使用者時擁有最大的彈性和控制權。
 
 >[!NOTE]
 >
