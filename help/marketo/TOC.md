@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 7d8cdb2da42769ee0326a3d585ad32a3405dfac1
+source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
 workflow-type: tm+mt
-source-wordcount: '9287'
+source-wordcount: '9288'
 ht-degree: 0%
 
 ---
@@ -666,6 +666,7 @@ ht-degree: 0%
          + 即時交談 {#live-chat}
             + [即時聊天總覽](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [專員收件匣](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
+            + [通知](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
          + 設定與組態 {#setup-and-configuration}
             + [初始設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [新增或移除聊天使用者](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)

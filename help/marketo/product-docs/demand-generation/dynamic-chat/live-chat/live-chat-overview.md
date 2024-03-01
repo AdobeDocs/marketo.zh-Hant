@@ -3,7 +3,7 @@ description: 即時聊天概述 — Marketo檔案 — 產品檔案
 title: 即時聊天總覽
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: a1341ab39690190fa203bf320543e9b5f5e20e66
+source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -72,7 +72,9 @@ ht-degree: 0%
 
 ## 即時聊天通知 {#live-chat-notifications}
 
-為了接收即時聊天所需的瀏覽器通知，所有即時聊天代理程式必須在提示時啟用瀏覽器通知以進行Dynamic Chat。
+>[!IMPORTANT]
+>
+>為了接收即時聊天所需的瀏覽器通知，所有即時聊天代理程式必須在提示時啟用瀏覽器通知以進行Dynamic Chat。
 
 ### 啟用通知 {#enabling-notifications}
 
