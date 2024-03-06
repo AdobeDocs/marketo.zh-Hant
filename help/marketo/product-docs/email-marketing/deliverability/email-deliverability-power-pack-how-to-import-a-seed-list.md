@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099077
-description: 電子郵件Deliverability Power Pack — 如何匯入種子清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何將種子清單匯入Marketo Engage例項。
 title: 電子郵件傳遞能力套件 — 如何匯入種子清單
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
 # Email Deliverability Power Pack：如何匯入種子清單 {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-種子清單是多個信箱提供者(包括Google應用程式、Hotmail、Yahoo！等)的電子郵件帳戶清單，用於估計收件匣相對於垃圾郵件資料夾傳遞率。 以下說明如何將清單帶入您的Marketo執行個體。
+種子清單是多個信箱提供者(包括Google應用程式、Hotmail、Yahoo！等)的電子郵件帳戶清單，用於估計收件匣相對於垃圾郵件資料夾傳遞率。 以下是將該清單匯入Marketo Engage執行個體的步驟。
 
 >[!IMPORTANT]
 >

@@ -4,7 +4,7 @@ description: 將Google Customer Match新增為LaunchPoint Service - Marketo檔�
 title: 將Google Customer Match新增為LaunchPoint Service
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->由於最近更新Google Ads API，Adobe與Google之間的同步功能已暫時停用。  Adobe目前正在檢閱Google與更新相關的需求。
+>由於最近更新Google Ads API，Adobe與Google之間的同步功能已暫時停用。 Adobe目前正在檢閱Google與更新相關的需求。
 
 >[!NOTE]
 >
