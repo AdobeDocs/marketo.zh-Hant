@@ -4,9 +4,9 @@ description: 將Google Customer Match新增為LaunchPoint Service - Marketo檔�
 title: 將Google Customer Match新增為LaunchPoint Service
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 將Google Customer Match新增為LaunchPoint Service {#add-google-customer-match-as-a-launchpoint-service}
 
 透過這項整合，您可以傳送Marketo Engage對象至Google，以使用Google AdWords設為目標，並跨YouTube、Search和Gmail重新鎖定對象。
+
+>[!IMPORTANT]
+>
+>由於最近更新Google Ads API，Adobe與Google之間的同步功能已暫時停用。  Adobe目前正在檢閱Google與更新相關的需求。
 
 >[!NOTE]
 >

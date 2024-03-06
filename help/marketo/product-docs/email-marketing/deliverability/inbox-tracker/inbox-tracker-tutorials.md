@@ -1,20 +1,24 @@
 ---
-description: 收件匣追蹤器Tutorials- Marketo檔案 — 產品檔案
+description: 測試、監視和瞭解Marketo Engage電子郵件傳遞能力Powerpack的傳遞能力問題。
 title: 收件匣追蹤器Tutorials
 feature: Deliverability
-exl-id: b7c0c315-5255-4b16-b50d-241f018a7da9
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-# 收件匣追蹤器Tutorials {#inbox-tracker-tutorials.md}
+# 收件匣追蹤器Tutorials {#inbox-tracker-tutorials}
 
-測試、監視和瞭解Marketo的電子郵件傳遞能力Powerpack （由MessageBird的收件匣追蹤器平台提供技術支援）中的傳遞能力問題。 「收件匣追蹤器」是單一應用程式，結合您程式的智慧與電子郵件轉譯/收件匣測試的遠見，將您的電子郵件效能發揮到極致。
+測試、監視並瞭解由Bird的（前身為MessageBird） Inbox Tracker平台提供支援的Marketo Engage電子郵件傳遞能力Powerpack的傳遞能力問題。 「收件匣追蹤器」是單一應用程式，結合您程式的智慧與電子郵件轉譯/收件匣測試的遠見，將您的電子郵件效能發揮到極致。
 
-MessageBird已建立多個訓練影片，協助您善用此強大工具。
+>[!AVAILABILITY]
+>
+>並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+
+Bird已建立多個訓練影片，協助您善用此強大工具。
 
 ## 收件匣追蹤器概述 {#inbox-tracker-overview}
 
