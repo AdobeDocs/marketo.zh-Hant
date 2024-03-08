@@ -3,9 +3,9 @@ description: Salesforce診斷 — Marketo檔案 — 產品檔案
 title: Salesforce診斷
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9384d72b335a4b975b190816ea999ad067fddeda
 workflow-type: tm+mt
-source-wordcount: '1445'
+source-wordcount: '1374'
 ht-degree: 0%
 
 ---
@@ -143,7 +143,7 @@ ht-degree: 0%
 
 **錯誤：** INVALID_TYPE\
 **類別：** 存取/驗證\
-**訊息：** CreatedDate， （從任務中選取ID）來自潛在客戶，其中Email=&#39;emailid&#39;^ERROR在列:1:欄：53s不支援物件型別&#39;Lead&#39;。 如果您嘗試使用自訂物件，請務必在實體名稱后附加「__c」。 請參考您的WSDL或描述呼叫以取得適當的名稱
+**訊息：** CreatedDate， （從任務中選取ID）來自銷售機會，其中Email=&#39;emailid&#39;^ERROR在 `Row:1:Column:53sObject` 不支援型別&#39;Lead&#39;。 如果您嘗試使用自訂物件，請務必在實體名稱后附加「__c」。 請參考您的WSDL或描述呼叫以取得適當的名稱
 **最新動態：** 我們正在嘗試從Salesforce查詢使用者無權存取的物件型別。 這很可能是因為使用者沒有正確存取該Lead物件的許可權。\
 **疑難排解步驟：** 授予Salesforce中Lead物件的讀取和更新存取權，或關閉電子郵件記錄和Lead記錄的「最近活動」記錄。
 
@@ -180,7 +180,8 @@ ht-degree: 0%
 
 **錯誤：** TXN_SECURITY_NO_ACCESS\
 **類別：** 存取/驗證\
-**訊息：** 因為貴組織有安全性原則，所以不允許您要求的作業。 請聯絡您的管理員。**最新動態：** 已設定某種安全性限制 — 請參閱https://developer.salesforce.com/forums/?id=「記錄ID」\
+**訊息：** 因為貴組織有安全性原則，所以不允許您要求的作業。 請連絡您的管理員。
+**最新動態：** 已設定某種安全性限制 — 請參閱https://developer.salesforce.com/forums/?id=「記錄ID」\
 **疑難排解步驟：** 請洽詢您的Salesforce管理員，並瞭解可能會有哪些特定限制。
 
 **錯誤：** UNABLE_TO_LOCK_ROW\
