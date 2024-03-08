@@ -3,9 +3,9 @@ description: Marketo EngageForms的對話流程設定 — Marketo檔案 — 產�
 title: Marketo EngageForms的對話流量設定
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/conversational-flow-settings-5.png)
 
-1. 選取所需的「對話流程」和「傳遞型別」。
+1. 選取所需的 **[!UICONTROL 對話流程]** 和 **[!UICONTROL 傳遞型別]**.
 
    ![](assets/conversational-flow-settings-6.png)
 
@@ -46,14 +46,26 @@ ht-degree: 0%
    >
    >[進一步瞭解對話流程](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
 
-   **選擇性步驟**：您可以按一下「新增選擇」 ，將目標鎖定於符合特定條件的聊天訪客。
+   **選擇性步驟**：您可以按一下 **[!UICONTROL 新增選擇]** 將符合特定條件的聊天訪客設為目標。 您最多可以新增九個選項，總共十個。
 
    ![](assets/conversational-flow-settings-7.png)
 
-   >[!IMPORTANT]
+   >[!NOTE]
    >
    >在提交表單前，訪客的瀏覽器必須是以已知人員身分的Cookie，才能符合靜態/智慧清單成員資格。
 
-1. 按一下 **[!UICONTROL 完成]** 完成時。
+   **選擇性步驟**：按一下 **+** 在每個步驟中登入以新增更多屬性，讓您縮小目標對象的範圍（可用的屬性是您為表單選擇的欄位）。 在此範例中，我們的目標是加州的Adobe技術撰稿人。
 
    ![](assets/conversational-flow-settings-8.png)
+
+   >[!NOTE]
+   >
+   >條件邏輯設為「全部」表示必須符合每個屬性才能符合資格。 條件邏輯設為「任何」表示任一個屬性皆已足夠。
+
+   **選擇性步驟**：如果您新增兩個或多個選項，可以按一下它們的上/下箭頭來重新排序。
+
+   ![](assets/conversational-flow-settings-9.png)
+
+1. 按一下 **[!UICONTROL 完成]** 完成時。
+
+   ![](assets/conversational-flow-settings-10.png)

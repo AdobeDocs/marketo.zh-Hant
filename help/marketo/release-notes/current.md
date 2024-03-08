@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '216'
 ht-degree: 4%
 
 ---
@@ -31,8 +31,8 @@ ht-degree: 4%
   </tr>
   <tr> 
    <td><strong>進階對話流程邏輯</strong>：新增其他欄位以供在單一選擇中進行評估，以進行交談流量追蹤。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo EngageForms的對話流量設定</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -42,8 +42,8 @@ ht-degree: 4%
    </tr>
     <tr> 
    <td><strong>重新排序對話流程邏輯</strong>：在Marketo EngageForms中，您現在可以重新排序對話流程選擇，而不必刪除並重新新增。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo EngageForms的對話流量設定</a></td>
    </tr>
   <tr> 
    <td> </td> 
