@@ -4,9 +4,9 @@ description: 發行說明–2018年春季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2018年春季
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -77,10 +77,6 @@ ht-degree: 0%
 
 ## 整合與API {#integration-and-apis}
 
-[facebook工作區整合](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
-
-傳送系統通知和有趣的時刻到Facebook Workplace。
-
 [靜態清單API](https://developers.marketo.com/rest-api/assets/static-lists/)
 
 使用新的雙向API，即可在遠端建立、讀取、更新和刪除靜態清單，且無需在Marketo UI中採取任何動作，即可更輕鬆地管理Marketo與其他系統之間的清單。
@@ -89,4 +85,4 @@ ht-degree: 0%
 
 [網路追蹤隱私權](https://developers.marketo.com/javascript-api/lead-tracking/)
 
-增強型Munchkin追蹤可匿名處理網頁訪客的IP位址，並允許他們永久退出網頁追蹤，符合當地及國際的隱私權法規。
+增強型Munchkin追蹤會匿名處理網頁訪客的IP位址，並允許他們永久退出網頁追蹤，以符合當地及國際的隱私權法規。
