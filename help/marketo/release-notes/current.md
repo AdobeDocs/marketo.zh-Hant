@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
+source-git-commit: cfbf9206bcb0e54abdbd962e52844bba11b07197
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 3%
 
 ---
@@ -61,6 +61,6 @@ ht-degree: 3%
 
 ## 公告 {#announcements}
 
-* **取得方案成員API修正**：最近已進行變更以修正的行為 [取得計畫成員](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Program_Members/getProgramMembersUsingGET){target="_blank"} 端點。 先前，當使用updatedAt篩選型別指定日期範圍時，在該範圍內更新的方案會籍記錄可能會不包含在回應中。 此外，指定日期範圍以外更新的方案會籍記錄也可能會不正確地包含在回應中。 這兩個問題都已解決。
+* **取得方案成員API修正**：最近已進行變更以修正的行為 [取得計畫成員](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Program_Members/getProgramMembersUsingGET){target="_blank"} 端點。 先前，當使用 `updatedAt` 篩選型別若要指定日期範圍，回應中可能會不包含在該範圍內更新的方案會籍記錄。 此外，指定日期範圍以外更新的方案會籍記錄也可能會不正確地包含在回應中。 這兩個問題都已解決。
 
 * **帳戶分析瀏覽器外掛程式淘汰**：Adobe正在移除Target帳戶管理 [帳戶分析瀏覽器外掛程式](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on March 18, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
