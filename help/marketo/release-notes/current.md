@@ -3,16 +3,16 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: cfbf9206bcb0e54abdbd962e52844bba11b07197
+source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '271'
 ht-degree: 3%
 
 ---
 
-# 發行說明： 2024年3月 {#release-notes-mar-24}
+# 發行說明： 2024年4月 {#release-notes-apr-24}
 
-下方提供2024年3月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
+下方提供2024年4月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
 
 >[!AVAILABILITY]
 >
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於以下日期開始發行 **2024年3月8日**，在接下來的幾週內分階段推出剩餘的功能。 發行功能和日期可能會有所變更。 請檢查每個功能旁的狀態。
+下列功能屬於標準發行週期，並將於以下日期開始發行 **2024年4月26日**，在接下來的幾週內分階段推出剩餘的功能。 發行功能和日期可能會有所變更。 請檢查每個功能旁的狀態。
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -29,10 +29,10 @@ ht-degree: 3%
    <th style="width:10%">狀態</th>
    <th style="width:25%">檔案</th>
   </tr>
-  <tr> 
-   <td><strong>進階對話流程邏輯</strong>：新增其他欄位以供在單一選擇中進行評估，以進行交談流量追蹤。</td> 
-   <td>已送出</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo EngageForms的對話流量設定</a></td>
+   <tr> 
+   <td><strong>互動式網路研討會範本</strong>：建立適合您組織的自訂空間配置範本，以節省時間。</td> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -40,27 +40,31 @@ ht-degree: 3%
    <td> </td>
   </tr>
    </tr>
-    <tr> 
-   <td><strong>重新排序對話流程邏輯</strong>：在Marketo EngageForms中，您現在可以重新排序對話流程選擇，而不必刪除並重新新增。</td> 
-   <td>已送出</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo EngageForms的對話流量設定</a></td>
-   </tr>
+     <tr> 
+   <td><strong>互動式網路研討會增強功能</strong>：您現在可以讓主機和主持人新增網路研討會標題、重新命名聊天室，以及在事件傳送後手動同步參與資料。</td> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
   <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>API活動中繼資料</strong>：中繼資料（例如使用者代理、平台和裝置）現在包含在網路和電子郵件活動中，有助於透過Marketo REST API提供這些活動的一致深入分析。</td> 
+   <td><strong>稽核軌跡增強功能</strong>：現在可以在稽核軌跡中擷取新型別的動作，包括在「欄位管理」中所做的變更、對使用者和角色所做的變更，以及從清單和智慧清單匯出的人員計數。</td> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>新使用者和角色許可權</strong>：新許可權可供使用，為使用者提供更精細的Marketo Engage存取許可權。 控制先前未啟用的管理員部分（例如新體驗和預測對象）、分割許可權以分別授予資產稽核軌跡和管理稽核軌跡的存取權，以及使用新的資產和資料夾的建立和移動許可權來防止唯讀使用者進行變更。</td> 
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
  </tbody> 
 </table>
 <br/>
-
-## 公告 {#announcements}
-
-* **取得方案成員API修正**：最近已進行變更以修正的行為 [取得計畫成員](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Program_Members/getProgramMembersUsingGET){target="_blank"} 端點。 先前，當使用 `updatedAt` 篩選型別若要指定日期範圍，回應中可能會不包含在該範圍內更新的方案會籍記錄。 此外，指定日期範圍以外更新的方案會籍記錄也可能會不正確地包含在回應中。 這兩個問題都已解決。
-
-* **帳戶分析瀏覽器外掛程式淘汰**：Adobe正在移除Target帳戶管理 [帳戶分析瀏覽器外掛程式](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on March 18, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
