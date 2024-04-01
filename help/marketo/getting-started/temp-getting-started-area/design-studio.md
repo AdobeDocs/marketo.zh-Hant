@@ -4,7 +4,7 @@ title: 新增區域設計工作室
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 4%
@@ -141,7 +141,7 @@ ht-degree: 4%
 <tbody>
   <tr>
     <td>資料夾結構</td>
-    <td><li>為每種型別的資產建立子資料夾並 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">組織全域資產</a>（即電子郵件範本、電子郵件、表單、影像和檔案、登入頁面及登入頁面範本）正確且易於搜尋。</li></td>
+    <td><li>為每種型別的資產建立子資料夾並 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">組織全域資產</a> （即電子郵件範本、電子郵件、表單、影像和檔案、登入頁面及登入頁面範本）正確且易於搜尋。</li></td>
     <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">使用資料夾組織您的影像和檔案</a></td>
   </tr>
 </tbody>

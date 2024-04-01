@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 3%
+source-wordcount: '380'
+ht-degree: 2%
 
 ---
 
@@ -68,3 +68,70 @@ ht-degree: 3%
  </tbody> 
 </table>
 <br/>
+
+## 公告 {#announcements}
+
+* **活動API更新**：4月26日起，我們將針對當您使用擷取活動時傳回的Web型活動和電子郵件型活動，新增數個屬性 [MARKETO REST API](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} 端點可檢閱每個活動的屬性詳細資料。
+
+**網頁型活動**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">活動</th> 
+   <th style="width:70%">新新增的屬性</th>
+   </tr>
+  <tr> 
+   <td>造訪網頁</td> 
+   <td>瀏覽器、平台、裝置</td>
+  </tr>
+   <tr> 
+   <td>填寫表單</td> 
+   <td>瀏覽器、平台、裝置</td>
+  </tr>
+  <tr> 
+   <td>按一下連結</td> 
+   <td>瀏覽器、平台、裝置</td>
+  </tr>
+ </tbody> 
+</table>
+
+**電子郵件型活動**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">活動</th> 
+   <th style="width:70%">新新增的屬性</th>
+  </tr>
+   <tr> 
+   <td>傳送電子郵件</td> 
+   <td>瀏覽器、平台、裝置、使用者代理程式</td>
+  </tr>
+   </tr>
+  <tr> 
+   <td>電子郵件已傳遞</td> 
+   <td>瀏覽器、平台、裝置、使用者代理程式</td>
+  </tr>
+   <tr> 
+   <td>電子郵件已退回</td> 
+   <td>瀏覽器、平台、裝置、使用者代理程式</td>
+  </tr>
+  <tr> 
+   <td>取消訂閱電子郵件</td> 
+   <td>瀏覽器、平台、裝置</td>
+  </tr>
+  <tr> 
+   <td>開啟電子郵件</td> 
+   <td>瀏覽器</td>
+  </tr>
+   <tr> 
+   <td>按一下電子郵件</td> 
+   <td>瀏覽器</td>
+  </tr>
+  <tr> 
+   <td>電子郵件已軟退回</td> 
+   <td>瀏覽器、平台、裝置、使用者代理程式</td>
+  </tr>
+ </tbody> 
+</table>
