@@ -3,9 +3,9 @@ description: 串流設計工具 — Marketo檔案 — 產品檔案
 title: 流程設計工具
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 8fb15ae509820fcfcb07c2b4a34b32f6724fe649
+source-git-commit: b31ea2f84b2ac5eb0b6fd0122d8ebadfc451b3a0
 workflow-type: tm+mt
-source-wordcount: '1126'
+source-wordcount: '1128'
 ht-degree: 1%
 
 ---
@@ -156,7 +156,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-17.png)
 
-1. 輸入聊天機器人訊息和預留位置。 確定屬性已對應至Marketo中的適當欄位，然後按一下 **[!UICONTROL 儲存]**.
+1. 輸入聊天機器人訊息和預留位置。 確定屬性已對應到Marketo Engage中的適當欄位，然後按一下 **[!UICONTROL 儲存]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -175,7 +175,7 @@ ht-degree: 1%
     </tr>
     <tr>
      <td style="width:30%"><strong>將回應對應到屬性</strong></td>
-     <td>可讓您將訪客的回應同步至您Marketo訂閱中其「人員」記錄中的對應欄位。</td>
+     <td>可讓您將訪客的回應同步至您Marketo Engage訂閱中其「人員」記錄中的對應欄位。</td>
     </tr>
    </table>
 
