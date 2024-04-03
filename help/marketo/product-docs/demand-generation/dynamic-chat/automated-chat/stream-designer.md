@@ -3,9 +3,9 @@ description: 串流設計工具 — Marketo檔案 — 產品檔案
 title: 流程設計工具
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 8fb15ae509820fcfcb07c2b4a34b32f6724fe649
 workflow-type: tm+mt
-source-wordcount: '1108'
+source-wordcount: '1126'
 ht-degree: 1%
 
 ---
@@ -50,7 +50,8 @@ ht-degree: 1%
  </tr>
  <tr>
   <td style="width:25%"><strong>動作</strong></td>
-  <td>類似於表單中的隱藏欄位，您可以使用動作卡填入任何潛在客戶或公司屬性(具有 <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">字串資料型別</a>)擷取隱含值。 您可以在交談的任何時間點新增動作卡，並使用自動填入個別值的值或原生權杖更新個別屬性。</td>
+  <td>類似於表單中的隱藏欄位，您可以使用動作卡填入任何潛在客戶或公司屬性(具有 <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">字串資料型別</a>)擷取隱含值。 您可以在交談的任何時間點新增動作卡，並使用自動填入個別值的值或原生權杖更新個別屬性。
+  <p><i>「動作」卡需要Dynamic Chat Prime。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>即時聊天</strong></td>
