@@ -1,16 +1,16 @@
 ---
-description: 概覽 — Marketo檔案 — 產品檔案
-title: 概觀
+description: Marketo Engage現代UX概觀 — Marketo檔案 — 產品檔案
+title: Marketo Engage Modern UX概述
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
+source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 2%
+source-wordcount: '447'
+ht-degree: 1%
 
 ---
 
-# 概觀 {#overview}
+# Marketo Engage Modern UX概述 {#overview}
 
 歡迎使用Adobe Marketo Engage Modern UX （使用者體驗），此更新介面可增強易用性，並帶來整個Marketo Engage平台的新外觀。
 
