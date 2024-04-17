@@ -3,9 +3,9 @@ description: 互動式網路研討會概覽 — Marketo檔案 — 產品檔案
 title: 互動式網路研討會概觀
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 60532106a220ff249c0fdbe52387e8f81bda12cb
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 **我需要另外訂閱互動式網路研討會嗎？**
 
-否. 使用互動式網路研討會只需要有效的Marketo Engage訂閱。
+不適用。 使用互動式網路研討會只需要有效的Marketo Engage訂閱。
 
 **互動式網路研討會提供哪些語言？**
 
@@ -47,6 +47,10 @@ ht-degree: 0%
 **我是否需要將Adobe Connect支援的網路研討會與互動式網路研討會活動計畫建立關聯，例如與Launchpoint活動計畫建立關聯？**
 
 否，互動式網路研討會活動程式會為您建立關聯。
+
+**為什麼我的一些潛在客戶有「註冊錯誤」狀態而非「已註冊」？**
+
+如果潛在客戶的「名字」欄位為空，他們將無法註冊參加網路研討會。 您可以輸入有效的名字來解決這個問題。
 
 **我的互動式網路研討會會自動錄製嗎？**
 
