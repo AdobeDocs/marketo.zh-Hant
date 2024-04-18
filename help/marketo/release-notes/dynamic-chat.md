@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
 source-wordcount: '1203'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Marketo Engage的標準發行說明頁面 [可在此處找到](/help/marketo/rel
 
 ## 2024年4月發行版本 {#april-release}
 
-**發行日期： 2024年4月16日**
+**發行日期： 2024年4月22日**
 
 ### 交談流程現在可供所有使用者使用 {#conversational-flows-available-to-all-users}
 

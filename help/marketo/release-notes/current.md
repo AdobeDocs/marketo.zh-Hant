@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 2%
+source-wordcount: '356'
+ht-degree: 3%
 
 ---
 
@@ -29,17 +29,6 @@ ht-degree: 2%
    <th style="width:10%">狀態</th>
    <th style="width:25%">檔案</th>
   </tr>
-   <tr> 
-   <td><strong>互動式網路研討會範本</strong>：建立適合您組織的自訂空間配置範本，以節省時間。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
      <tr> 
    <td><strong>互動式網路研討會增強功能</strong>：您現在可以讓主機和主持人新增網路研討會標題、重新命名聊天室，以及在事件傳送後手動同步參與資料。</td> 
    <td><i>即將推出</i></td>
