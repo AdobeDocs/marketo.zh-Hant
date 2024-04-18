@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: e2fcd5587df8776a07b092cd03f081a88480353e
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '1193'
+source-wordcount: '1203'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Marketo Engage的標準發行說明頁面 [可在此處找到](/help/marketo/rel
 
 **發行日期： 2024年4月16日**
 
-### Select套件的使用者現在可以使用對話流程 {#conversational-flows-select-package}
+### 交談流程現在可供所有使用者使用 {#conversational-flows-available-to-all-users}
 
-去年我們發行Conversational Flows時，Dynamic ChatSelect套件上的使用者只能利用這項功能，做為為期100次的試用專案。 現在，Select套件中的所有人都可以完全使用交談流程。
+讓您的表單和登入頁面更具對話性，並縮短銷售漏斗，方法是讓合格的銷售機會預約會議，或在表單提交後立即與銷售人員聊天(現在已可完全使用Conversational Forms)&#42; 適用於所有Dynamic Chat使用者。
 
-對話式流程參與將計入Select套件使用者每月250個參與對話的限制。
+_&#42;先前作為試用功能提供，包含100個期限參與專案。 對話式流程參與現在將計入Select套件使用者每月250個參與對話的限制。_
 
 ### 回呼函式 {#callback-functions}
 

@@ -3,9 +3,9 @@ description: 即時聊天概述 — Marketo檔案 — 產品檔案
 title: 即時聊天總覽
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '645'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->對話流程和即時聊天是共用的試用功能，對Dynamic Chat選取套件上的使用者具有100個參與的總生命週期限制。 達到此限制時，所有已發佈的交談流程將停止觸發，而要求與即時代理程式聊天的訪客將收到全域遞補訊息。 若要提高此上限，請聯絡您的客戶代表以討論套件升級選項。
+>對於Dynamic ChatSelect套件上的使用者，即時聊天是試用功能，期限限製為100次參與。 當達到此限制時，所有要求與即時代理程式交談的訪客都不會連線，而是會收到全域遞補訊息。 若要提高上限，請聯絡您的Adobe客戶代表，討論套件升級選項。
 
 ## 新增即時聊天代理 {#add-live-chat-agents}
 

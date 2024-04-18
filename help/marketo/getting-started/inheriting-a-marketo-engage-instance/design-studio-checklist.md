@@ -2,10 +2,10 @@
 description: 繼承例項Design Studio檢查清單 — Marketo檔案 — 產品檔案
 title: 繼承的執行個體Design Studio檢查清單
 feature: Getting Started
-exl-id: 29d96153-0cb7-4a04-8fe9-93748be67cb0
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '578'
 ht-degree: 1%
 
 ---
@@ -73,7 +73,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">區域</th> 
+   <th style="width:20%">區域</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
