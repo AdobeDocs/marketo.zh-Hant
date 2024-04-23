@@ -1,19 +1,23 @@
 ---
 unique-page-id: 1146942
-description: 定義Smart Campaign的智慧清單 |觸發器 — Marketo檔案 — 產品檔案
-title: 定義Smart Campaign的智慧清單 |觸發器
+description: 定義Smart Campaign的智慧清單 | 觸發器 — Marketo檔案 — 產品檔案
+title: 定義Smart Campaign的智慧清單 | 觸發
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
-# 定義Smart Campaign的智慧清單 |觸發器 {#define-smart-list-for-smart-campaign-trigger}
+# 定義Smart Campaign的智慧清單 | 觸發 {#define-smart-list-for-smart-campaign-trigger}
 
 透過新增觸發程式，根據即時事件逐人執行Smart Campaign。
+
+>[!CAUTION]
+>
+>對作用中行銷活動進行智慧清單或流量步驟編輯可能會破壞其功能。 如果您選擇這麼做，請謹慎操作。
 
 1. 在Smart Campaign中，按一下 **[!UICONTROL 智慧清單]** 標籤。
 
@@ -51,7 +55,7 @@ ht-degree: 0%
    >
    >如果有多個觸發程式，個人會在下列情況下完成流程： _任何_ 其中一個觸發器啟動。
 
-若要對一組人員同時執行行銷活動，請瞭解如何 [定義Smart Campaign的智慧清單 |批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+若要對一組人員同時執行行銷活動，請瞭解如何 [定義Smart Campaign的智慧清單 | 批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

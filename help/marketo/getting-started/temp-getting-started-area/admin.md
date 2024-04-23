@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
-source-wordcount: '1103'
+source-wordcount: '1050'
 ht-degree: 1%
 
 ---
@@ -29,9 +29,10 @@ ht-degree: 1%
   <tr>
     <td>角色</td>
     <td><li>檢閱預先建立的角色，並確認每個角色具有的許可權/存取權。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">建立新角色</a> 或 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">編輯角色</a> 根據您組織的需求以及使用者登入的頻率。</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">建立新角色</a> 或 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">編輯角色</a> 根據您組織的需求而定。</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html%22%20/l%20%22assign-roles-to-a-user" target="_blank">將使用者指派給適當的角色</a>. 必須先將使用者新增至Adobe Admin Console中的訂閱，才能授與其在「角色」中的角色。 請參閱「初始設定」檢查清單[LINK]中的「使用者」一節。</li>
-    <li>為使用者指派角色後，可檢視每個角色的使用者數量。<br>為每個API使用者實作唯一的角色，以方便疑難排解。</td>
+    <li>為使用者指派角色後，檢閱每個角色的使用者數量。</li>
+    <li>為每個API使用者實作唯一的角色，以方便疑難排解。</li></td>
   </tr>
   <tr>
     <td>文件</td>
@@ -40,7 +41,7 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>沙箱（如果適用）</td>
-    <td><li>如果您有沙箱，請檢閱上述類別。</li></td>
+    <td><li>請檢閱上述類別中的 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md">沙箱</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -58,13 +59,14 @@ ht-degree: 1%
   <tr>
     <td>工作區與分割區（如果適用）</td>
     <td><li>決定數量<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html" target="_blank"> 工作區</a> 和/或分割您的組織所需的和 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.html" target="_blank">每個工作區有多少使用者有存取權。</a></li>
-    <li>定義每個工作區和分割區的主要用途。<br>定義工作區與分割區之間的關係。</li></td>
+    <li>定義每個工作區和分割區的主要用途。</li>
+    <li>定義工作區與分割區之間的關係。</li></td>
   </tr>
   <tr>
     <td>文件</td>
-    <td><li>記錄工作區的定義方式以及它與資料庫分割的相關性（亦即，可看到每個人的全域工作區，而不是企業部門）。</li>
+    <td><li>記錄工作區的定義方式以及與資料庫分割相關的方式（例如，顯示每個人相對於業務部門的全域工作區）。</li>
     <li>將新記錄匯入適當的資料分割。</li>
-    <li>在CRM中定義將使用者放入適當分割的值。</li></td>
+    <li>在您的CRM中定義值，該值會將使用者放置在適當的資料分割中。</li></td>
   </tr>
 </tbody>
 </table>
@@ -82,12 +84,6 @@ ht-degree: 1%
   <tr>
     <td>Smart Campaign設定</td>
     <td><li>新增 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.html" target="_blank">Smart Campaign大小限制</a>，防止不小心以電子郵件傳送整個資料庫。</li></td>
-  </tr>
-  <tr>
-    <td>文件</td>
-    <td><li>記錄工作區的定義方式以及它與資料庫分割的相關性（亦即，可看到每個人的全域工作區，而不是企業部門）。</li>
-    <li>將新記錄匯入適當的資料分割。</li>
-    <li>在CRM中定義將使用者放入適當分割的值。</li></td>
   </tr>
 </tbody>
 </table>
@@ -111,10 +107,6 @@ ht-degree: 1%
     <td>SPF/DKIM</td>
     <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.html" target="_blank">設定SPF與DKIM</a> 以取得電子郵件傳遞能力。</li></td>
   </tr>
-  <tr>
-  </tr>
-  <tr>
-  </tr>
 </tbody>
 </table>
 
@@ -130,8 +122,8 @@ ht-degree: 1%
 <tbody>
   <tr>
     <td>通訊限制</td>
-    <td><li>地標 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html" target="_blank" rel="noopener noreferrer">通訊限制</a>.</li>
-    <li>判斷您的企業是否需要通訊限制的原則。</li></td>
+    <td><li>啟動 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html" target="_blank">通訊限制</a>.</li>
+    <li>判斷您的企業是否需要有關通訊限制的原則。</li></td>
   </tr>
 </tbody>
 </table>
@@ -148,15 +140,16 @@ ht-degree: 1%
 <tbody>
   <tr>
     <td>頻道</td>
-    <td><li>定義使用方法 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html" target="_blank" rel="noopener noreferrer">管道</a>.</li></td>
+    <td><li>定義使用方法 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html" target="_blank">管道</a>.</li></td>
   </tr>
   <tr>
     <td>標記</td>
-    <td><li>定義使用方法 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank" rel="noopener noreferrer">標籤</a>.</li></td>
+    <td><li>定義使用方法 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank">標籤</a>.</li></td>
   </tr>
   <tr>
     <td>行事曆（如果適用）</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank" rel="noopener noreferrer">問題行銷行事曆座位</a> 提供給需要存取許可權的使用者。 <br>設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank" rel="noopener noreferrer">行事曆。</a></li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank">問題行銷行事曆座位</a> 提供給需要存取許可權的使用者。</li>
+    <li>設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank">行事曆</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -173,11 +166,9 @@ ht-degree: 1%
 <tbody>
   <tr>
     <td>欄位管理</td>
-    <td><li>實作命名慣例 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo.html" target="_blank" rel="noopener noreferrer">自訂欄位。</a> 例如，以「MKTO」開頭。</li>
+    <td><li>實作命名慣例 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo.html" target="_blank">自訂欄位</a> （例如，以「MKTO」開頭）。</li>
     <li>選擇您同步的欄位。 您同步的欄位越多，同步週期就越慢。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/block-updates-to-a-field.html" target="_blank" rel="noopener noreferrer">封鎖欄位更新</a> 您想要寫入一次（即原始潛在客戶來源、原始潛在客戶來源詳細資料、首次接觸UTM欄位等）。</li></td>
-  </tr>
-  <tr>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/block-updates-to-a-field.html" target="_blank">封鎖欄位更新</a> 您想要寫入一次（例如，原始銷售機會來源、原始銷售機會來源詳細資料、首次接觸UTM欄位等）。</li></td>
   </tr>
   <tr>
     <td>自訂活動</td>
@@ -213,16 +204,17 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>Munchkin</td>
-    <td>注意：如果您是Launch Pack客戶，請略過此步驟。 您的顧問會在IT設定指示檔案中為您提供Munchkin程式碼指示。 <br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.html">新增Munchkin追蹤程式碼</a> 至您的網站。 Munchkin程式碼可以是 <a href="https://developers.marketo.com/javascript-api/lead-tracking/">硬式編碼</a> 或透過Google Tag Manager部署。  </td>
+    <td>備註：如果您是Launch Pack客戶，請略過此步驟。 您的顧問會在IT設定指示檔案中為您提供Munchkin程式碼指示。
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.html">新增Munchkin追蹤程式碼</a> 至您的網站。 Munchkin程式碼可以是 <a href="https://developers.marketo.com/javascript-api/lead-tracking/">硬式編碼</a> 或透過Google Tag Manager部署。</li></td>
   </tr>
   <tr>
     <td>網站服務</td>
     <td><li>決定可以製作的使用者/應用程式 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">API呼叫</a> 在您的例項中。</li>
-    <li>檢閱將進行API呼叫的所有應用程式，並判斷API呼叫是否需要增加或減少。</li></td>
+    <li>檢閱將進行API呼叫的所有應用程式，並判斷是否需要增加或減少API呼叫。</li></td>
   </tr>
   <tr>
     <td>啟動點</td>
-    <td><li>需要設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html">啟動點</a> 為貴企業提供的服務。 每個LaunchPoint都應搭配唯一的API使用者，以協助疑難排解。</li></td>
+    <td><li>設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html">啟動點</a> 為貴企業提供的服務。 每個LaunchPoint都應搭配唯一的API使用者，以協助疑難排解。</li></td>
   </tr>
   <tr>
     <td>互動式網路研討會（如適用）</td>
@@ -231,14 +223,14 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>Adobe Dynamic Chat（如果適用）</td>
-    <td>使用 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html">Dynamic Chat</a>，此為Marketo Engage的原生交談自動化頻道，您將依照以下步驟繼續使用者許可權設定： <a href="https://adminconsole.adobe.com/">Adobe Admin Console</a>. <br>確認您的Adobe組織系統管理員是否已授予您Adobe產品管理員角色。 連絡人 <a href="https://helpx.adobe.com/contact.html">Adobe客戶服務</a> 以找出貴組織中哪些人擁有主控台中的管理員許可權。 <br>Accept <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">「Dynamic Chat產品管理員」邀請</a>. 此 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">歡迎電子郵件</a> 會在您的Marketo Engage執行個體中啟用Dynamic Chat且您被指定為系統管理員時傳送。  <br>將所有適當的使用者指派給Adobe Admin Console中的Dynamic Chat產品設定檔。 <br>如果將不需要的使用者新增到多個產品設定檔，您必須從所有產品設定檔中刪除該使用者。 否則，他們仍可存取Dynamic Chat。 <br>您可以 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">在Dynamic Chat中編輯產品設定檔</a> 並使用自訂設定檔集建立自訂設定檔 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">您的訂閱中可用的許可權</a>. <br>將使用者指派至 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">「存取Dynamic Chat」角色</a> 位於「Marketo Engage/管理員/使用者與角色」。 </td>
+    <td>使用 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html">Dynamic Chat</a>，此為Marketo Engage的原生交談自動化管道，請依照以下說明中的步驟繼續使用者許可權設定： <a href="https://adminconsole.adobe.com/">Adobe Admin Console</a>. <br>確認您的Adobe組織系統管理員是否已授予您Adobe產品管理員角色。 連絡人 <a href="https://helpx.adobe.com/contact.html">Adobe客戶服務</a> 以找出貴組織中哪些人擁有主控台中的管理員許可權。 <br>Accept <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">「Dynamic Chat產品管理員」邀請</a>. 此 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">歡迎電子郵件</a> 會在您的Marketo Engage執行個體中啟用Dynamic Chat且您被指定為系統管理員時傳送。  <br>將所有適當的使用者指派給Adobe Admin Console中的Dynamic Chat產品設定檔。 <br>如果將不需要的使用者新增到多個產品設定檔，您必須從所有產品設定檔中刪除該使用者。 否則，他們仍可存取Dynamic Chat。 <br>您可以 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">在Dynamic Chat中編輯產品設定檔</a> 並使用自訂設定檔集建立自訂設定檔 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">您的訂閱中可用的許可權</a>. <br>將使用者指派至 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">「存取Dynamic Chat」角色</a> 位於「Marketo Engage/管理員/使用者與角色」。 </td>
   </tr>
   <tr>
     <td>銷售分析（如果適用）</td>
     <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">設定銷售分析動作</a> 「銷售分析&gt;動作設定」中的。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions">將名額發給適當的使用者。</a></li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions">將名額發給適當的使用者</a>.</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html">設定API</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html">自訂潛在客戶分數。</a></li></td>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html">自訂潛在客戶分數</a>.</li></td>
   </tr>
   <tr>
     <td>Sales Connect （如果適用）</td>

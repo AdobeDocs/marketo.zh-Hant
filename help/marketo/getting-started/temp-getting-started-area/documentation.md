@@ -4,7 +4,7 @@ title: 新區域執行個體檔案
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 1%
@@ -20,15 +20,15 @@ ht-degree: 1%
 <table>
 <thead>
   <tr>
-    <th>區域</th>
-    <th>動作專案</th>
+    <th style="width:20%">區域</th>
+    <th style="width:80%">動作專案</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>清單匯入</td>
-    <td><li>收集將從提取記錄的資料來源清單 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people" target="_blank" rel="noopener noreferrer">匯入至Marketo Engage</a>.</li>
-    <li>如果您要從多個資料來源匯入，請考慮使用「主要清單」或 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank" rel="noopener noreferrer">建立自訂欄位</a> 在人員記錄上表示資料來源。</li></td>
+    <td><li>收集將從提取記錄的資料來源清單 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people" target="_blank">匯入至Marketo Engage</a>.</li>
+    <li>如果您要從多個資料來源匯入，請考慮使用「主要清單」或 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">建立自訂欄位</a> 在人員記錄上表示資料來源。</li></td>
   </tr>
   <tr>
     <td>資料庫整合</td>
@@ -42,28 +42,28 @@ ht-degree: 1%
 <table>
 <thead>
   <tr>
-    <th>區域</th>
-    <th>動作專案</th>
+    <th style="width:20%">區域</th>
+    <th style="width:80%">動作專案</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>使用者</td>
-    <td><li>記錄 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank" rel="noopener noreferrer">目前使用者</a> 基於安全考量在您的執行個體中。 以下詳細資料應至少包含在內(前往「Adobe Admin Console &gt;使用者」即可全部看到)：</li>
+    <td><li>記錄 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">目前使用者</a> 基於安全考量在您的執行個體中。 以下詳細資料應至少包含在內(前往「Adobe Admin Console &gt;使用者」即可全部看到)：</li>
     <br>名稱
     <br>電子郵件
     <br>ID型別
     <br>產品設定檔
     <p>
-    <li>作為Marketo Engage產品管理員，開發內部流程以定期稽核和更新Marketo Engage使用者清單。 若要變更Adobe Admin Console中的使用者清單，請考慮 <a href="https://helpx.adobe.com/tw/enterprise/using/users.html" target="_blank" rel="noopener noreferrer">上傳.csv</a> 大量使用。</li></td>
+    <li>作為Marketo Engage產品管理員，開發內部流程以定期稽核和更新Marketo Engage使用者清單。 若要變更Adobe Admin Console中的使用者清單，請考慮 <a href="https://helpx.adobe.com/tw/enterprise/using/users.html" target="_blank">上傳.csv</a> 大量使用。</li></td>
   </tr>
   <tr>
     <td>組織</td>
-    <td><li>記錄協定的資料夾結構、方案、資產等的標準命名慣例，以及做出決定背後的原因。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank" rel="noopener noreferrer">在此處進一步瞭解最佳實務。</a></li></td>
+    <td><li>記錄協定的資料夾結構、方案、資產等的標準命名慣例，以及做出決定背後的原因。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">在此處進一步瞭解最佳實務。</a></li></td>
   </tr>
   <tr>
     <td>Changelog</td>
-    <td><li>建立變更記錄檔，您可以在其中記錄執行個體中的變更專案以及修改的原因。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank" rel="noopener noreferrer">在此處進一步瞭解最佳實務。</a></li></td>
+    <td><li>建立變更記錄檔，您可以在其中記錄執行個體中的變更專案以及修改的原因。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">在此處進一步瞭解最佳實務。</a></li></td>
   </tr>
   <tr>
     <td>教戰手冊</td>

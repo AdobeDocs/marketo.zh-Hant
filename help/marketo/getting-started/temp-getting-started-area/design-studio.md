@@ -4,7 +4,7 @@ title: 新增區域設計工作室
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 3%
@@ -20,8 +20,8 @@ ht-degree: 3%
 <table>
 <thead>
   <tr>
-    <th>區域</th>
-    <th>動作專案</th>
+    <th style="width:20%">區域</th>
+    <th style="width:80%">動作專案</th>
   </tr>
 </thead>
 <tbody>
@@ -47,8 +47,8 @@ ht-degree: 3%
 <table>
 <thead>
   <tr>
-    <th>區域</th>
-    <th>動作專案</th>
+    <th style="width:20%">區域</th>
+    <th style="width:80%">動作專案</th>
   </tr>
 </thead>
 <tbody>
@@ -72,8 +72,8 @@ ht-degree: 3%
 <table>
 <thead>
   <tr>
-    <th>區域</th>
-    <th>動作專案</th>
+    <th style="width:20%">區域</th>
+    <th style="width:80%">動作專案</th>
   </tr>
 </thead>
 <tbody>
@@ -98,8 +98,8 @@ ht-degree: 3%
 <table>
 <thead>
   <tr>
-    <th>區域</th>
-    <th>動作專案</th>
+    <th style="width:20%">區域</th>
+    <th style="width:80%">動作專案</th>
   </tr>
 </thead>
 <tbody>
@@ -115,8 +115,8 @@ ht-degree: 3%
 <table>
 <thead>
   <tr>
-    <th>區域</th>
-    <th>動作專案</th>
+    <th style="width:20%">區域</th>
+    <th style="width:80%">動作專案</th>
   </tr>
 </thead>
 <tbody>
@@ -135,8 +135,8 @@ ht-degree: 3%
 <table>
 <thead>
   <tr>
-    <th>區域</th>
-    <th>動作專案</th>
+    <th style="width:20%">區域</th>
+    <th style="width:80%">動作專案</th>
   </tr>
 </thead>
 <tbody>
