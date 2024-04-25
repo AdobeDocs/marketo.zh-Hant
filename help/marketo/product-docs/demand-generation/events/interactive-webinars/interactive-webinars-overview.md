@@ -3,9 +3,9 @@ description: 互動式網路研討會概覽 — Marketo檔案 — 產品檔案
 title: 互動式網路研討會概觀
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 60532106a220ff249c0fdbe52387e8f81bda12cb
+source-git-commit: a92ad77514a827e7a227d0548ab75a6a65831220
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '517'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,10 @@ ht-degree: 0%
 **為什麼我的一些潛在客戶有「註冊錯誤」狀態而非「已註冊」？**
 
 如果潛在客戶的「名字」欄位為空，他們將無法註冊參加網路研討會。 您可以輸入有效的名字來解決這個問題。
+
+**存取我組織的VPN時，我在簡報網路研討會時遇到音訊/視訊問題。 該怎麼辦？**
+
+互動式網路研討會的傳遞平台Adobe Connect使用WebRTC進行音訊/視訊/熒幕分享。 貴組織的網路防火牆可能封鎖了用於WebRTC通訊的IP位址/連線埠。 您的IT團隊需要允許這些連線埠以讓WebRTC運作。 [瞭解更多](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
 
 **我的互動式網路研討會會自動錄製嗎？**
 
