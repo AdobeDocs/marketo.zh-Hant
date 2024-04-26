@@ -2,10 +2,10 @@
 description: 推廣互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 推廣互動式網路研討會
 feature: Interactive Webinars
-exl-id: 1f0777fe-fded-4629-b074-9a1ec94ba996
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -35,3 +35,5 @@ ht-degree: 0%
 連結可在您的Event Program中的「概觀」標籤右側取得，以建立登入頁面以及電子郵件促銷活動。 與活動相關的其餘促銷活動，與使用Launchpoint整合的合作夥伴網路研討會相同。
 
 ![](assets/promoting-an-interactive-webinar-2.png)
+
+互動式網路研討會可讓您在網路研討會之前、期間或之後索取報名。 在所有情況下，您只需要與潛在客戶共用網路研討會URL即可。 在網路研討會開始前按一下連結，即會將連結傳送至網路研討會前登陸頁面。 在網路研討會期間按一下，系統就會將他們導向進行中的網路研討會。 在網路研討會後按一下，系統會將他們導向至網路研討會的錄影。

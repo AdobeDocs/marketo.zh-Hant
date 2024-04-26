@@ -3,9 +3,9 @@ description: 建立互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 建立互動式網路研討會
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -42,16 +42,26 @@ ht-degree: 0%
    >
    >有關合作夥伴網路研討會的資訊，請參閱此處。
 
-1. 設定網路研討會的最大受眾人數和持續時間。
+1. 為您的網路研討會指定標題。 設定其最大對象人數和持續時間。
 
    ![](assets/create-an-interactive-webinar-6.png)
+
+   >[!NOTE]
+   >
+   >* 參與者加入網路研討會時，即可看到其標題。 標題必須與您Marketo Engage例項中的互動式網路研討會活動方案名稱，以及網路研討會室名稱不同。
+   >
+   >* 您無法重複使用網路研討會標題。 每一個在您的Marketo例項中都必須是唯一的。
+   >
+   >* 如有需要，您可在稍後階段變更網路研討會標題。
 
 1. 排程網路研討會的日期/時間，然後按一下 **建立**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-您的互動式網路研討會隨即建立。 [瞭解如何新增主持人和/或共同主機](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}.
-
-<br>
+<p>
 
 現在，是時候了 [設計您的網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+
+>[!MORELIKETHIS]
+>
+>[瞭解如何新增主持人和/或共同主機](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}
