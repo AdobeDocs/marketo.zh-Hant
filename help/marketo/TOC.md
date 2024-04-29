@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
+source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
 workflow-type: tm+mt
-source-wordcount: '9281'
+source-wordcount: '9346'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,24 @@ ht-degree: 0%
       + [繼承例項：Design Studio檢查清單](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
       + [繼承的執行個體：記錄您的設定](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [檢閱核心技能](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
++ Marketo 2快速入門 {#getting-started-with-marketo-2}
+   + [什麼是Adobe Marketo Engage？](getting-started-2/what-is-adobe-marketo-engage.md)
+   + 初始設定 {#initial-setup}
+      + [初始設定工作](getting-started-2/initial-setup/initial-setup-tasks.md)
+      + [設定步驟](getting-started-2/initial-setup/setup-steps.md)
+      + [使用者設定](getting-started-2/initial-setup/user-setup.md)
+   + 實作新的Marketo Engage例項 {#implementing-a-new-marketo-engage-instance}
+      + [從何處開始](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
+      + [新執行個體：管理員區段檢查清單](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [新執行個體：資料庫檢查清單](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [新執行個體：行銷活動檢查清單](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [新執行個體：Design Studio檢查清單](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [新執行個體：記錄您的設定](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+   + 須知 {#things-to-know}
+      + [Marketo Engage字彙表](getting-started-2/things-to-know/marketo-engage-glossary.md)
+      + [圖示字彙表](getting-started-2/things-to-know/icon-glossary.md)
+      + [傳統圖示字彙表](getting-started-2/things-to-know/classic-icon-glossary.md)
+      + [說明中心](getting-started-2/things-to-know/help-center.md)
 + 產品檔案 {#product-docs}
    + 其他應用程式 {#additional-apps}
       + SEO {#seo}
