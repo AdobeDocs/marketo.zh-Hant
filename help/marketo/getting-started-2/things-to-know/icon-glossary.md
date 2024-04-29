@@ -4,7 +4,7 @@ title: 圖示字彙表
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2edeac3d6111208e454e61a3dccad45e5fd53916
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 21%
@@ -13,7 +13,7 @@ ht-degree: 21%
 
 # Marketo Engage圖示字彙表 {#icon-glossary}
 
-以下是目前Adobe Marketo Engage介面的圖示。 如果您需要參考Marketo Classic圖示，可以 [可在此處找到](/help/marketo/getting-started-2/classic-icon-glossary.md).
+以下是目前Adobe Marketo Engage介面的圖示。 如果您需要參考Marketo Classic圖示，可以 [可在此處找到](/help/marketo/getting-started-2/things-to-know/classic-icon-glossary.md).
 
 ## 一般圖示 {#general-icons}
 

@@ -4,7 +4,7 @@ title: 從何處開始
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2edeac3d6111208e454e61a3dccad45e5fd53916
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 下載Marketo Engage執行個體新實作管理員檢查清單[插入連結]，或參閱下方的線上指南。
 
-* [管理員區段](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin.md){target="_blank"}
+* [管理員區段](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [資料庫](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/database.md){target="_blank"}
+* [資料庫](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [行銷活動](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities.md){target="_blank"}
+* [行銷活動](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/design-studio.md){target="_blank"}
+* [Design Studio](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
-* [記錄您的新執行個體設定](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/documentation.md){target="_blank"}
+* [記錄您的新執行個體設定](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## 與同行交流 {#connect-with-your-peers}
 
