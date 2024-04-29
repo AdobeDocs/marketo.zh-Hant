@@ -1,17 +1,17 @@
 ---
 description: 為您新的Marketo Engage執行個體設定「管理員」區段。
-title: 新執行個體 — 管理員區段檢查清單
+title: 新執行個體最佳實務 — 管理員區段檢查清單
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '1095'
+source-wordcount: '1099'
 ht-degree: 1%
 
 ---
 
-# 新執行個體：管理員區段檢查清單 {#new-instance-admin-section-checklist}
+# 新執行個體最佳實務：管理員區段檢查清單 {#new-instance-best-practices-admin-section-checklist}
 
 身為新管理員，請套用以下檢查清單來協助引導您完成實作程式，以瀏覽全新Marketo Engage例項。 與所有這些指南一樣，您可以下載檢查清單 [連結] 並追蹤您的進度。
 

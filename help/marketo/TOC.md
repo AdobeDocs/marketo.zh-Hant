@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '9346'
+source-wordcount: '9356'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,11 @@ ht-degree: 0%
       + [使用者設定](getting-started-2/initial-setup/user-setup.md)
    + 實作新的Marketo Engage例項 {#implementing-a-new-marketo-engage-instance}
       + [從何處開始](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [新執行個體：管理員區段檢查清單](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [新執行個體：資料庫檢查清單](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [新執行個體：行銷活動檢查清單](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-      + [新執行個體：Design Studio檢查清單](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [新執行個體：記錄您的設定](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+      + [新執行個體最佳實務：管理員區段檢查清單](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [新執行個體最佳實務：資料庫檢查清單](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [新執行個體最佳實務：行銷活動檢查清單](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [新執行個體最佳實務：Design Studio檢查清單](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [新執行個體最佳實務：記錄您的設定](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 須知 {#things-to-know}
       + [Marketo Engage字彙表](getting-started-2/things-to-know/marketo-engage-glossary.md)
       + [圖示字彙表](getting-started-2/things-to-know/icon-glossary.md)

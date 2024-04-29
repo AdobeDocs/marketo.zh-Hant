@@ -1,17 +1,17 @@
 ---
 description: 設定新Marketo Engage執行處理的「資料庫」段落。
-title: 新執行個體 — 資料庫檢查清單
+title: 新執行個體最佳實務 — 資料庫檢查清單
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '302'
 ht-degree: 2%
 
 ---
 
-# 新執行個體：資料庫檢查清單 {#new-instance-database-checklist}
+# 新執行個體最佳實務：資料庫檢查清單 {#new-instance-best-practices-database-checklist}
 
 「資料庫」段落提供執行處理中人員的主要屬性快照。 進一步瞭解在資料庫中瀏覽不同清單和區段以及管理人員記錄所需的步驟。
 

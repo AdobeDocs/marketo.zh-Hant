@@ -1,17 +1,17 @@
 ---
 description: 為您新的Marketo Engage執行個體設定行銷活動區段。
-title: 新執行個體 — 行銷活動檢查清單
+title: 新執行個體最佳實務 — 行銷活動檢查清單
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '720'
+source-wordcount: '724'
 ht-degree: 1%
 
 ---
 
-# 新執行個體：行銷活動檢查清單 {#new-instance-marketing-activities-checklist}
+# 新執行個體最佳實務：行銷活動檢查清單 {#new-instance-best-practices-marketing-activities-checklist}
 
 行銷活動包含構成自動化行銷方案的所有資產和內容。 當您設定新的Marketo Engage執行個體時，乾淨和清晰的組織確保所有使用者都可以輕鬆找到和管理各種計畫。
 

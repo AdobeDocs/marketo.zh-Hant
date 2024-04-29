@@ -4,9 +4,9 @@ title: 從何處開始
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2edeac3d6111208e454e61a3dccad45e5fd53916
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 歡迎使用新的Adobe Marketo Engage執行個體！ 透過強大的行銷自動化功能，準備好簡化、自動化和測量行銷任務和工作流程。
 
-在這份「實作新Marketo Engage執行個體」指南中，瞭解如何順暢地實作您的執行個體，以確保長期的衛生和營運效率。 每個檢查清單都提供了寶貴的步驟，讓您可追蹤設定進度。 使用可下載的核對清單來記錄您一路上的工作，以便將來執行個體稽核和上線。
+在這份「實作新Marketo Engage執行個體」指南中，瞭解順暢實作執行個體的最佳實務，以確保長期衛生和營運效率。 每個檢查清單都提供了寶貴的步驟，讓您可追蹤設定進度。 使用可下載的核對清單來記錄您一路上的工作，以便將來執行個體稽核和上線。
 
 ## 新Marketo Engage執行個體的最佳實務檢查清單 {#best-practice-checklists-new-instance}
 

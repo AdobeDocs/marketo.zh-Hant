@@ -1,17 +1,17 @@
 ---
 description: 記錄新Marketo Engage執行個體的設定。
-title: 新執行個體 — 記錄您的設定
+title: 新執行個體最佳實務 — 記錄您的設定
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '379'
 ht-degree: 1%
 
 ---
 
-# 新執行個體：記錄您的設定 {#new-instancei-document-your-setup}
+# 新執行個體最佳實務：記錄您的設定 {#new-instance-best-practices-document-your-setup}
 
 現在您已瞭解為新Marketo Engage執行個體設定的重要產品領域，下一步是建立執行個體設定和技術棧疊的檔案。 不論您是透過試算表或專案管理應用程式建立例項，您的檔案都是追蹤進度和記錄詳細資料的絕佳資源，也能讓您的例項結構化，並可持續供組織內的未來行銷人員使用。
 

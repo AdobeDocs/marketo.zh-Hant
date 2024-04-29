@@ -1,17 +1,17 @@
 ---
 description: 為您新的Marketo Engage執行個體設定Design Studio區段。
-title: 新執行個體 — Design Studio檢查清單
+title: 新執行個體最佳實務 — 設計工作室檢查清單
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 3%
 
 ---
 
-# 新執行個體：Design Studio檢查清單 {#new-instance-design-studio-checklist}
+# 新執行個體最佳實務：Design Studio檢查清單 {#new-instance-best-practices-design-studio-checklist}
 
 Design Studio區段是可重複使用之「全域資產」的所在位置。 建立您的組織計畫在方案中使用的全域資產、使用一致的命名慣例，並將它們組織在子資料夾中以便輕鬆搜尋。
 
