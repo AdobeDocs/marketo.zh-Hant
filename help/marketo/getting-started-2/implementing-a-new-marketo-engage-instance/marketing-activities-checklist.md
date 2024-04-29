@@ -4,8 +4,7 @@ title: 新執行個體 — 行銷活動檢查清單
 hide: true
 hidefromtoc: true
 feature: Getting Started
-exl-id: c9bde944-1724-4521-a57a-e8cef4adb5c8
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
 workflow-type: tm+mt
 source-wordcount: '720'
 ht-degree: 1%

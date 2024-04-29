@@ -4,8 +4,7 @@ title: 新執行個體 — 資料庫檢查清單
 hide: true
 hidefromtoc: true
 feature: Getting Started
-exl-id: 1966bc6f-9384-4c51-b3aa-57d5e52781f1
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 2%

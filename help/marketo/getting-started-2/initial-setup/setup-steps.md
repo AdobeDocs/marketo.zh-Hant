@@ -4,9 +4,9 @@ title: 設定步驟
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
 workflow-type: tm+mt
-source-wordcount: '1696'
+source-wordcount: '1735'
 ht-degree: 0%
 
 ---
@@ -56,15 +56,15 @@ ht-degree: 0%
 
 若要擷取您將以登陸頁面CNAME取代的Munchkin ID，請前往管理區域。
 
-![](assets/setup-steps-9.png)
+熒幕擷圖： setup-steps-9.png
 
 按一下 **我的帳戶**.
 
-![](assets/setup-steps-10.png)
+熒幕擷圖： setup-steps-10.png
 
 複製 [!UICONTROL 帳戶字串] 從登陸頁面設定。
 
-![](assets/setup-steps-11.png)
+熒幕擷圖： setup-steps-11.png
 
 這是 `[Munchkin ID]`. 儲存它。 您必須在步驟5中將其提供給IT。
 
@@ -100,17 +100,17 @@ ht-degree: 0%
 
 若要尋找您的Marketo追蹤連結，請前往 **[!UICONTROL 管理員]** 區域。
 
-![](assets/setup-steps-12.png)
+熒幕擷圖： setup-steps-12.png
 
 按一下 **[!UICONTROL 電子郵件]**.
 
-![](assets/setup-steps-13.png)
+熒幕擷圖： setup-steps-13.png
 
 複製 [!UICONTROL 追蹤連結] 來自您的電子郵件設定。
 
 此 [!UICONTROL 追蹤連結] 格式為： `mkto-[a-z][4 digits].com`.
 
-![](assets/setup-steps-14.png)
+熒幕擷圖： setup-steps-14.png
 
 這是您的 `[MktoTrackingLink]`. 儲存它。 您必須在步驟5中將其提供給IT。
 
@@ -215,35 +215,35 @@ IT完成工作後，請按照下列步驟新增登入頁面和電子郵件CNAME�
 
 前往 **[!UICONTROL 管理員]** 新增登陸頁面CNAME的區域
 
-![](assets/setup-steps-15.png)
+熒幕擷圖： setup-steps-15.png
 
 選取登入頁面並按一下 **[!UICONTROL 編輯]** 在 [!UICONTROL 設定] 區域。
 
-![](assets/setup-steps-16.png)
+熒幕擷圖： setup-steps-16.png
 
 在欄位中輸入您的新網域名稱 **[!UICONTROL 登陸頁面的網域名稱]**. 其形式應為：
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
-![](assets/setup-steps-17.png)
+熒幕擷圖： setup-steps-17.png
 
 在 **[!UICONTROL 遞補]** 頁面欄位，輸入當登陸頁面無法使用時，您希望人員前往的URL。 如果您沒有後援頁面，可以使用公司首頁。 在 **[!UICONTROL 首頁]** 欄位，輸入您的公司網站。
 
-![](assets/setup-steps-18.png)
+熒幕擷圖： setup-steps-18.png
 
 在 [!UICONTROL 管理員] 區域，選取 **[!UICONTROL 電子郵件]** 新增您的電子郵件CNAME
 
-![](assets/setup-steps-19.png)
+熒幕擷圖： setup-steps-19.png
 
 向下捲動至 [!UICONTROL 品牌化網域]. 選取您的網域並按一下 **[!UICONTROL 編輯]**.
 
-![](assets/setup-steps-20.png)
+熒幕擷圖： setup-steps-20.png
 
 在「網域」欄位中，輸入您的電子郵件追蹤網域。 其形式應為：
 
 `[EmailTrackingCNAME].[CompanyDomain].com`. 按一下&#x200B;**[!UICONTROL 保存]**。
 
-![](assets/setup-steps-21.png)
+熒幕擷圖： setup-steps-21.png
 
 ## 整合您的CRM {#integrate-your-crm}
 
