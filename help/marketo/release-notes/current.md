@@ -3,16 +3,18 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
+source-git-commit: 8473c4d59210bb18c3968a56883034febf00c320
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 3%
+source-wordcount: '399'
+ht-degree: 2%
 
 ---
 
 # 發行說明： 2024年4月 {#release-notes-apr-24}
 
 下方提供2024年4月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
+
+Adobe Dynamic Chat專屬發行說明 [可在此處找到](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -31,8 +33,9 @@ ht-degree: 3%
   </tr>
      <tr> 
    <td><strong>互動式網路研討會增強功能</strong>：您現在可以讓主機和主持人新增網路研討會標題、重新命名聊天室，以及在事件傳送後手動同步參與資料。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">建立互動式網路研討會</a></li>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">手動同步</a></li></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -50,9 +53,9 @@ ht-degree: 3%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>新使用者和角色許可權</strong>：新許可權可供使用，為使用者提供更精細的Marketo Engage存取許可權。 控制先前未啟用的管理員部分（例如新體驗和預測對象）、分割許可權以分別授予資產稽核軌跡和管理稽核軌跡的存取權，以及使用新的資產和資料夾的建立和移動許可權來防止唯讀使用者進行變更。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td><strong>新使用者和角色許可權</strong>：新許可權可供使用，為使用者提供更精細的Marketo Engage存取許可權。 控制先前未啟用的管理員部分（例如新體驗和預測對象）、分割許可權以分別授予資產稽核軌跡和管理稽核軌跡的存取權，以及使用新的資產和資料夾的建立和移動許可權來防止唯讀使用者進行變更。 雖然新許可權將於4月26日起顯示在您的Marketo Engage執行個體中，但目前仍為被動許可權，將於本季度晚些時候可供存取。</td> 
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">角色許可權說明</a></td>
   </tr>
  </tbody> 
 </table>
