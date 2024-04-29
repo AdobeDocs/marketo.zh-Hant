@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: c2c95f36c710ba7a9ac75c2160c72e44b5f81a99
+source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
 workflow-type: tm+mt
-source-wordcount: '9289'
+source-wordcount: '9281'
 ht-degree: 0%
 
 ---
@@ -45,10 +45,6 @@ ht-degree: 0%
       + [繼承例項：Design Studio檢查清單](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
       + [繼承的執行個體：記錄您的設定](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [檢閱核心技能](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
-   + TEMP快速入門區域 {#temp-getting-started-area}
-      + [管理員](getting-started/temp-getting-started-area/admin.md)
-      + [資料庫](getting-started/temp-getting-started-area/database.md)
-      + [行銷活動](getting-started/temp-getting-started-area/marketing-activities.md)
 + 產品檔案 {#product-docs}
    + 其他應用程式 {#additional-apps}
       + SEO {#seo}
