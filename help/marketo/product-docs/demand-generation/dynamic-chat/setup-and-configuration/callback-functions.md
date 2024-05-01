@@ -1,12 +1,11 @@
 ---
 description: 回呼函式 — Marketo檔案 — 產品檔案
 title: 回呼函式
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
+exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
+source-git-commit: 1641d3f7ea96c8898f902d52271fd2bb2116e966
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '615'
 ht-degree: 3%
 
 ---
@@ -78,7 +77,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-事件中的&#39;event&#39;引數是包含與交談相關之中繼資料的物件。 您可以依event.data存取中繼資料
+此 `event` parameter是物件，其中包含與交談相關的中繼資料。 您可以存取此中繼資料 `event.data`.
 
 以下是您可以存取的一些主要中繼資料值：
 
@@ -141,7 +140,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-事件中的&#39;event&#39;引數是包含與交談相關之中繼資料的物件。 您可以依event.data存取中繼資料
+此 `event` parameter是物件，其中包含與交談相關的中繼資料。 您可以存取此中繼資料 `event.data`.
 
 以下是您可以存取的一些主要中繼資料值。
 
@@ -194,7 +193,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-事件中的&#39;event&#39;引數是包含與交談相關之中繼資料的物件。 您可以依event.data存取中繼資料
+此 `event` parameter是物件，其中包含與交談相關的中繼資料。 您可以存取此中繼資料 `event.data`.
 
 以下是您可以存取的一些主要中繼資料值。
 
@@ -295,7 +294,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-事件中的&#39;event&#39;引數是包含與交談相關之中繼資料的物件。 您可以依event.data存取中繼資料
+此 `event` parameter是物件，其中包含與交談相關的中繼資料。 您可以存取此中繼資料 `event.data`.
 
 以下是您可以存取的一些主要中繼資料值。
 
@@ -338,7 +337,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 </tbody>
 </table>
 
-如果您想要將任何這些事件傳送至協力廠商平台，例如Adobe Analytics或Google Analytics，則必須在這些Dynamic Chat事件中新增其各自的追蹤呼叫。 它看起來會類似於下面的範例。
+如果您想要將任何這些事件傳送至Adobe Analytics或Google Analytics之類的Dynamic Chat平台，則必須在分析事件內新增其各自的追蹤呼叫。 它看起來會類似於下面的範例。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 

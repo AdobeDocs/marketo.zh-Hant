@@ -3,7 +3,7 @@ description: Dynamic Chat發行說明 — Marketo檔案 — 產品檔案
 title: Dynamic Chat發行說明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: a3089d4ff390f600f7820110ac5d40872deb4eb0
+source-git-commit: 719b43c637cb02ef22bde902912d53fae2661dad
 workflow-type: tm+mt
 source-wordcount: '1203'
 ht-degree: 0%
@@ -28,7 +28,7 @@ _&#42;先前作為試用功能提供，包含100個期限參與專案。 對話�
 
 ### 回呼函式 {#callback-functions}
 
-當訪客參與Dynamic Chat對話時，回呼函式可讓您收集外部系統(例如Adobe Analytics或Google Analytics)中的Dynamic Chat分析事件。 您可以使用API註冊回呼來監聽事件，藉此啟用Dynamic Chat分析事件。 這可讓您在與其他關鍵資料（例如網站流量）相關時，以更全面的方式檢視Dynamic Chat參與。
+[回呼函式](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} 可讓您在訪客參與Dynamic Chat對話時，收集外部系統(例如Adobe Analytics或Google Analytics)中的Dynamic Chat分析事件。 您可以使用API註冊回呼來監聽事件，藉此啟用Dynamic Chat分析事件。 這可讓您在與其他關鍵資料（例如網站流量）相關時，以更全面的方式檢視Dynamic Chat參與。
 
 ### 即時代理程式可用性條件已新增到條件式分支 {#live-agent-availability-conditional-branching}
 
