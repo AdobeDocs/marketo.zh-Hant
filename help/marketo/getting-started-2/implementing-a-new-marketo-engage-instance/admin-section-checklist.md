@@ -4,9 +4,10 @@ title: 新執行個體最佳實務 — 管理員區段檢查清單
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
+source-git-commit: fa5b686aabd3aab2d9020758fde00ed06564c76c
 workflow-type: tm+mt
-source-wordcount: '1099'
+source-wordcount: '772'
 ht-degree: 1%
 
 ---
@@ -29,7 +30,7 @@ ht-degree: 1%
     <td>角色</td>
     <td><li>檢閱預先建立的角色，並確認每個角色具有的許可權/存取權。</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">建立新角色</a> 或 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">編輯角色</a> 根據您組織的需求而定。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html%22%20/l%20%22assign-roles-to-a-user" target="_blank">將使用者指派給適當的角色</a>. 必須先將使用者新增至Adobe Admin Console中的訂閱，才能授與其在「角色」中的角色。 請參閱「初始設定」檢查清單[LINK]中的「使用者」一節。</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user" target="_blank">將使用者指派給適當的角色</a>. 必須先將使用者新增至Adobe Admin Console中的訂閱，才能授與其在「角色」中的角色。 請參閱以下的「使用者」一節： <a href="/help/marketo/getting-started-2/initial-setup/user-setup.md">初始設定檢查清單</a>.</li>
     <li>為使用者指派角色後，檢閱每個角色的使用者數量。</li>
     <li>為每個API使用者實作唯一的角色，以方便疑難排解。</li></td>
   </tr>
@@ -198,15 +199,6 @@ ht-degree: 1%
     <li>識別您的CRM管理員以進行疑難排解。</li></td>
   </tr>
   <tr>
-    <td>登陸頁面</td>
-    <td>注意：您是Launch Pack客戶嗎？ 您可以略過此步驟。 您的顧問會在您啟動電話時，為您提供IT設定指示檔案。 <br>使用設定您的登入頁面網域 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html">CNAME</a> 和 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html">輸入網域和頁面資訊</a>. 其格式應為： [LandingPageCNAME]。[CompanyDomain].com <br>為您的登入頁面選擇一個CNAME。 部分範例： <br>* **go**。[CompanyDomain].com <br>* **www2**。[CompanyDomain].com <br>* **lp**。[CompanyDomain].com <br><a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console">聯絡Marketo支援</a> 開始布建SSL憑證的程式。 此程式最多可能需要3個工作日才能完成。 <br>秘訣：簡明扼要！ 較短的URL更容易記憶。 我們建議使用「前往」作為網域。 <br>將Analytics追蹤程式碼(例如Google Analytics或Adobe Analytics)新增至您的登入頁面範本。 </td>
-  </tr>
-  <tr>
-    <td>Munchkin</td>
-    <td>備註：如果您是Launch Pack客戶，請略過此步驟。 您的顧問會在IT設定指示檔案中為您提供Munchkin程式碼指示。
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.html">新增Munchkin追蹤程式碼</a> 至您的網站。 Munchkin程式碼可以是 <a href="https://developers.marketo.com/javascript-api/lead-tracking/">硬式編碼</a> 或透過Google Tag Manager部署。</li></td>
-  </tr>
-  <tr>
     <td>網站服務</td>
     <td><li>決定可以製作的使用者/應用程式 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">API呼叫</a> 在您的例項中。</li>
     <li>檢閱將進行API呼叫的所有應用程式，並判斷是否需要增加或減少API呼叫。</li></td>
@@ -222,7 +214,7 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>Adobe Dynamic Chat（如果適用）</td>
-    <td>使用 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html">Dynamic Chat</a>，此為Marketo Engage的原生交談自動化管道，請依照以下說明中的步驟繼續使用者許可權設定： <a href="https://adminconsole.adobe.com/">Adobe Admin Console</a>. <br>確認您的Adobe組織系統管理員是否已授予您Adobe產品管理員角色。 連絡人 <a href="https://helpx.adobe.com/contact.html">Adobe客戶服務</a> 以找出貴組織中哪些人擁有主控台中的管理員許可權。 <br>Accept <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">「Dynamic Chat產品管理員」邀請</a>. 此 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">歡迎電子郵件</a> 會在您的Marketo Engage執行個體中啟用Dynamic Chat且您被指定為系統管理員時傳送。  <br>將所有適當的使用者指派給Adobe Admin Console中的Dynamic Chat產品設定檔。 <br>如果將不需要的使用者新增到多個產品設定檔，您必須從所有產品設定檔中刪除該使用者。 否則，他們仍可存取Dynamic Chat。 <br>您可以 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">在Dynamic Chat中編輯產品設定檔</a> 並使用自訂設定檔集建立自訂設定檔 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">您的訂閱中可用的許可權</a>. <br>將使用者指派至 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">「存取Dynamic Chat」角色</a> 位於「Marketo Engage/管理員/使用者與角色」。 </td>
+    <td><li>將使用者指派至 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">「存取Dynamic Chat」角色</a> 在「Marketo Engage&gt;管理員&gt;使用者和角色」中。</li></td>
   </tr>
   <tr>
     <td>銷售分析（如果適用）</td>
@@ -235,6 +227,11 @@ ht-degree: 1%
     <td>Sales Connect （如果適用）</td>
     <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">邀請適當的Marketo Engage管理員加入Sales Connect執行個體</a>.</li>
     <li>完成 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">其他Sales Connect管理員設定</a> Sales Connect和Salesforce中的。</li></td>
+  </tr>
+  <tr>
+    <td>Webhook （如果適用）</td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html">建立任何必要的Webhook</a> 適合您的企業。</li>
+    </td>
   </tr>
 </tbody>
 </table>
