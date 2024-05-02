@@ -4,9 +4,10 @@ title: 新執行個體最佳實務 — 行銷活動檢查清單
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '758'
 ht-degree: 1%
 
 ---
@@ -29,20 +30,20 @@ ht-degree: 1%
 <tbody>
   <tr>
     <td>命名慣例</td>
-    <td><li>在建立資料夾結構之前，請為您的訂閱定義一致的命名慣例。</li></td>
+    <td><li>定義 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes">一致的命名慣例</a> 在建立資料夾結構之前針對您的訂閱設定。</li></td>
   </tr>
   <tr>
     <td>資料夾結構</td>
-    <td><li>參考此範例，建置一致且易於導覽的檔案夾結構。</td>
+    <td><li>透過參照來建置一致且易於瀏覽的檔案夾結構 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#folders">此範例</a>.</td>
   </tr>
   <tr>
     <td>計畫</td>
-    <td><li>為您在管理員區段中建立的每個管道建立方案範本。 您可以從「程式庫」匯入程式來輕鬆開始。 請參閱下表「資產」中的詳細資訊。</li>
-    <li>決定智慧行銷活動的哪些流程步驟可以在全球方案與本機方案中。</li> <li>將贏取、會籍和成功追蹤納入方案範本，以標準化程式。</li></td>
+    <td><li>建立以下專案的計畫範本： <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">每個管道</a> 您已在「管理員」區段中建立。 您可以開始於 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program">匯入方案</a> 程式庫中的。 請參閱下表「資產」中的詳細資訊。</li>
+    <li>決定哪一個 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign">Smart Campaigns的流程步驟</a> 可以在全球計畫中與本機計畫中。</li> <li>將贏取、會籍和成功追蹤納入方案範本，以標準化程式。</li></td>
   </tr>
   <tr>
     <td>封存</td>
-    <td><li>決定何時封存程式和資產的原則。 請注意，封存後，它會從選取的清單及報告中移除專案。</li></td>
+    <td><li>決定何時執行的原則 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#archive-a-folder">封存程式和資產</a>. 請注意，封存後，它會從選取的清單及報告中移除專案。</li></td>
   </tr>
   <tr>
     <td>通知</td>
@@ -52,6 +53,10 @@ ht-degree: 1%
 </table>
 
 ## 資產 {#assets}
+
+>[!TIP]
+>
+>若要將方案、登陸頁面和電子郵件等行銷資產儲存在不同的區域，請參考「管理員區段」檢查清單 [連結] 以瞭解如何設定工作區。
 
 <table>
 <thead>
@@ -65,13 +70,14 @@ ht-degree: 1%
     <td>計畫型別</td>
     <td><li>瞭解 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs">四種計畫型別</a>.</li>
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program">匯入方案範本</a> 從 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview">程式庫</a> 以開始。</li>
-    <li>電子郵件程式：在「設定」標籤下方， <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits">啟用通訊限制</a>（建議使用）。</li>
-    <li>建立 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar">互動式網路研討會</a>，內建網路研討會平台，使用事件程式和 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars">建立聊天室與互動式網路研討會的關聯</a> 方案（建議使用）。  <li>設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html">評分計畫</a> 以監視在您的網站上及您的內容中購買訊號。</li></td>
+    <li>電子郵件程式：在「設定」標籤下方， <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits">啟用通訊限制</a> （建議使用）。</li>
+    <li>建立 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar">互動式網路研討會</a>，內建網路研討會平台，使用事件程式和 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars">建立聊天室與互動式網路研討會的關聯</a> 方案（建議）。</li>
+    <li>設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html">評分計畫</a> 以監視在您的網站上及您的內容中購買訊號。</li></td>
   </tr>
   <tr>
     <td>Token</td>
-    <td><li>設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html">Token</a></li>.
-    <li>在經常使用的程式型別中使用代號來提高效率。 考慮在實作組織定期需要的權杖 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html#nesting-tokens">全域資料夾</a>.</li></td>
+    <td><li>設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html">Token</a>.</li>
+    <li>在經常使用的程式型別中使用代號來提高效率。 考慮在實作組織定期需要的權杖 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program#nesting-tokens">全域資料夾</a>.</li></td>
   </tr>
   <tr>
     <td>批次行銷活動</td>
@@ -80,7 +86,7 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>觸發行銷活動</td>
-    <td><li>設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html#trigger-campaign">觸發Smart Campaign</a> 在「智慧列示」區段內至少使用一個觸發程式。</li>
+    <td><li>設定 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns#trigger-campaign">觸發Smart Campaign</a> 在「智慧列示」區段內至少使用一個觸發程式。</li>
     <li>在「排程」索引標籤中啟動「智慧型行銷活動」，以執行行銷活動動作。</li></td>
   </tr>
   <tr>
@@ -120,8 +126,8 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>個人來源</td>
-    <td><li>建立集中式方案，指派值給中的銷售機會/人員來源 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management.html" target="_blank"> 系統管理的欄位</a></li>.  
-    <li>匯入營運資料管理程式</a> 從Marketo程式庫啟動。</li></td>
+    <td><li>建立集中式程式，在「系統管理」欄位中指定銷售機會/人員來源的值。</li>  
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management">匯入營運資料管理程式</a> 從Marketo程式庫啟動。</li></td>
   </tr>
   <tr>
     <td>資料標準化</td>
@@ -131,7 +137,7 @@ ht-degree: 1%
   <tr>
     <td>跳出管理</td>
     <td><li>建立用於跳出管理的作業程式，以擷取所有跳出詳細資訊。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.html">匯入傳遞能力管理程式</a> 從Marketo程式庫啟動。</li></td>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management">匯入傳遞能力管理程式</a> 從Marketo程式庫啟動。</li></td>
   </tr>
   <tr>
     <td>隱私權與合規性</td>
@@ -153,7 +159,7 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>電子郵件傳遞能力</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html">建立電子郵件效能報表</a> 用於監控電子郵件傳送和傳遞能力趨勢。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report">建立電子郵件效能報表</a> 用於監控電子郵件傳送和傳遞能力趨勢。</li></td>
   </tr>
 </tbody>
 </table>

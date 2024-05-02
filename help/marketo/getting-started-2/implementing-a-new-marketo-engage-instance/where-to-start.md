@@ -4,9 +4,10 @@ title: 從何處開始
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 歡迎使用新的Adobe Marketo Engage執行個體！ 透過強大的行銷自動化功能，準備好簡化、自動化和測量行銷任務和工作流程。
 
-在這份「實作新Marketo Engage執行個體」指南中，瞭解順暢實作執行個體的最佳實務，以確保長期衛生和營運效率。 每個檢查清單都提供了寶貴的步驟，讓您可追蹤設定進度。 使用可下載的核對清單來記錄您一路上的工作，以便將來執行個體稽核和上線。
+在這份「實作新Marketo Engage執行個體」指南中，瞭解順暢實作執行個體的最佳實務，以確保長期衛生和營運效率。 每個檢查清單都提供了寶貴的步驟，讓您可追蹤設定進度。 使用可下載的核對清單來記錄您一路上的工作，以便未來執行個體稽核和使用者上線。
 
 ## 新Marketo Engage執行個體的最佳實務檢查清單 {#best-practice-checklists-new-instance}
 
@@ -33,4 +34,10 @@ ht-degree: 0%
 
 ## 與同行交流 {#connect-with-your-peers}
 
-造訪 [行銷國家社群](https://nation.marketo.com/){target="_blank"} 並建立您的社群設定檔，以向您的同業詢問如何實作和管理其Marketo Engage執行個體。
+造訪 [行銷國家社群](https://nation.marketo.com/){target="_blank"} 以向Marketo Engage員工和同儕使用者進一步瞭解您的Marketo Engage執行個體。
+
+行銷國家社群快速入門：
+
+1. 按一下 **繼續使用Adobe ID** 並在登入頁面上選取您的主要訂閱。
+1. 登入後，請完成您的社群設定檔。
+1. 提交資訊後，即可進入社群首頁，一切準備就緒！

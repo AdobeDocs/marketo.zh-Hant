@@ -4,9 +4,10 @@ title: 新執行個體最佳實務 — 記錄您的設定
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '388'
 ht-degree: 1%
 
 ---
@@ -55,7 +56,7 @@ ht-degree: 1%
     <br>ID型別
     <br>產品設定檔
     <p>
-    <li>作為Marketo Engage產品管理員，開發內部流程以定期稽核和更新Marketo Engage使用者清單。 若要變更Adobe Admin Console中的使用者清單，請考慮 <a href="https://helpx.adobe.com/tw/enterprise/using/users.html" target="_blank">上傳.csv</a> 大量使用。</li></td>
+    <li>作為Marketo Engage產品管理員，開發內部流程以定期稽核和更新Marketo Engage使用者清單。 若要變更Adobe Admin Console中的使用者清單，請考慮 <a href="https://helpx.adobe.com/tw/enterprise/using/users.html" target="_blank">大量動作</a>，例如上傳.CSV、使用使用者管理REST API等。</li></td>
   </tr>
   <tr>
     <td>組織</td>

@@ -4,16 +4,17 @@ title: 新執行個體最佳實務 — 資料庫檢查清單
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 2%
 
 ---
 
 # 新執行個體最佳實務：資料庫檢查清單 {#new-instance-best-practices-database-checklist}
 
-「資料庫」段落提供執行處理中人員的主要屬性快照。 進一步瞭解在資料庫中瀏覽不同清單和區段以及管理人員記錄所需的步驟。
+您可以在「資料庫」段落中找到執行個體中人員的主要屬性。 進一步瞭解在資料庫中瀏覽不同清單和區段以及管理人員記錄所需的步驟。
 
 記得下載檢查清單 [連結] 並追蹤您的進度。
 
@@ -38,7 +39,7 @@ ht-degree: 2%
   </tr>
   <tr>
     <td>行銷活動已暫停</td>
-    <td><li>定義 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html#marketing-suspended" target="_blank">行銷已暫停</a> 條件。</li></td>
+    <td><li>定義 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">行銷已暫停</a> 條件。</li></td>
   </tr>
   <tr>
     <td>退回的電子郵件地址 </td>
@@ -49,7 +50,7 @@ ht-degree: 2%
     <td>可能的重複專案</td>
     <td><li>檢閱可能重複專案清單中的人員。</li> 
     <li>定義您的重複管理策略，以決定您是否要 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">手動合併人員</a>.</li>  
-    <li>如果您有CRM整合，請定義流程和帳戶 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html#effect-in-salesforce" target="_blank">在您的CRM中合併銷售機會的影響</a>.</li></td>
+    <li>如果您有CRM整合，請定義流程和帳戶 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">在您的CRM中合併銷售機會的影響</a>.</li></td>
   </tr>
   <tr>
     <td>無贏取計畫</td>

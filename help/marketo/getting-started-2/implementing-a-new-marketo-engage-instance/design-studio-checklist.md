@@ -4,9 +4,10 @@ title: 新執行個體最佳實務 — 設計工作室檢查清單
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '364'
 ht-degree: 3%
 
 ---
@@ -29,8 +30,8 @@ Design Studio區段是可重複使用之「全域資產」的所在位置。 建
 <tbody>
   <tr>
     <td>全域登陸頁面</td>
-    <td><li>建立全域登陸頁面（自由格式/引導式）。</li>
-    <li>建立測試頁面以A/B測試成功登入頁面範本（若適用）。</li></td>
+    <td><li>建立 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">全域登陸頁面（自由格式/引導式）</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">建立測試頁面</a> A/B測試成功登陸頁面範本（若適用）。</li></td>
   </tr>
   <tr>
     <td>範本</td>
@@ -38,7 +39,7 @@ Design Studio區段是可重複使用之「全域資產」的所在位置。 建
   </tr>
   <tr>
     <td>隱私權與合規性</td>
-    <td><li>建立頁尾，使用 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">代碼片段</a> 或Token的登陸頁面，以符合隱私權規範。</li></td>
+    <td><li>建立頁尾，使用 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">代碼片段</a> 或 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">Token</a> 隱私權法規遵循的登陸頁面。</li></td>
   </tr>
 </tbody>
 </table>
@@ -125,8 +126,8 @@ Design Studio區段是可重複使用之「全域資產」的所在位置。 建
     <td>命名慣例</td>
     <td><li>對影像和檔案使用一致的命名慣例。</li>  
     <br>範例：  
-    <br>檔案命名慣例：資產型別 — 資產名稱（例如：White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board） 
-    <p>影像命名慣例：影像型別 — 資產型別 — 資產名稱（例如：Thumbnail-White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board）</td>
+    <br><ul><li>檔案命名慣例：資產型別 — 資產名稱（例如：White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board）</li>
+    <p><li>影像命名慣例：影像型別 — 資產型別 — 資產名稱（例如：Thumbnail-White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board）</li></td>
   </tr>
 </tbody>
 </table>
