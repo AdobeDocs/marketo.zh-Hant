@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '409'
 ht-degree: 1%
 
 ---
@@ -53,11 +53,16 @@ ht-degree: 1%
     <td><li>記錄 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">目前使用者</a> 基於安全考量在您的執行個體中。 以下詳細資料應至少包含在內(前往「Adobe Admin Console &gt;使用者」即可全部看到)：</li>
     <br>名稱
     <br>電子郵件
-    <br>ID型別
-    <br>產品設定檔
-    <p>
-    <li>作為Marketo Engage產品管理員，開發內部流程以定期稽核和更新Marketo Engage使用者清單。 若要變更Adobe Admin Console中的使用者清單，請考慮 <a href="https://helpx.adobe.com/tw/enterprise/using/users.html" target="_blank">大量動作</a>，例如上傳.CSV、使用使用者管理REST API等。</li></td>
-  </tr>
+    <br>登入
+    <br>角色
+    <br>存取權到期日
+    <br>使用者建立日期
+    <br>最近登入日期
+
+注意：客戶也可以展開至加入角色/許可權的相關檔案。
+<p>
+<li>作為Marketo Engage產品管理員，開發內部流程以定期稽核和更新Marketo Engage使用者清單。 若要變更Adobe Admin Console中的使用者清單，請考慮 <a href="https://helpx.adobe.com/tw/enterprise/using/users.html" target="_blank">大量動作</a>，例如上傳.CSV、使用使用者管理REST API等。</li></td>
+</tr>
   <tr>
     <td>組織</td>
     <td><li>記錄協定的資料夾結構、方案、資產等的標準命名慣例，以及做出決定背後的原因。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">在此處進一步瞭解最佳實務。</a></li></td>
