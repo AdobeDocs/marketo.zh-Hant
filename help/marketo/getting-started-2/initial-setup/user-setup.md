@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '767'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,12 @@ ht-degree: 0%
     <td><li>建立何時執行的原則 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">建立使用者</a>.</li> <li>在何時移除使用者時建立原則。</li>
     <li>決定誰應該擁有 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe系統管理員和Marketo Engage產品管理員許可權。</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">新增使用者</a> 至所需的產品設定檔。</li>
     <li>為每個API使用案例建立一個API使用者。</li></td>
+  </tr>
+  <tr>
+    <td>User Management API （如果適用）</td>
+    <td><li>使用 <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html">Adobe使用者管理API</a> 以邀請、更新及刪除使用者。</li>
+    <li>使用 <a href="https://developer.adobe.com/umapi/">Adobe使用者管理API</a> 新增或移除角色（例如管理員、支援管理員、開發人員）。</li>
+    </td>
   </tr>
   <tr>
     <td>產品支援管理員 </td>

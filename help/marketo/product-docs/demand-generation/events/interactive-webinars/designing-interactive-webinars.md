@@ -3,9 +3,9 @@ description: 設計互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 設計互動式網路研討會
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,8 @@ ht-degree: 0%
    >* 會議室是用來進行會議的線上空間。
    >
    >* 如果您選擇現有的網路研討會聊天室且需要重新命名，只需按一下 **重新命名網路研討會聊天室** 按鈕。
+   >
+   >* 下拉式清單只會顯示您先前建立的現有會議室，而不會顯示其他主機的會議室。
 
 1. 選擇範本。
 

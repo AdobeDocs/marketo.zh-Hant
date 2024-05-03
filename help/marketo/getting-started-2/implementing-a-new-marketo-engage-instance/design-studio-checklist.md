@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 3%
@@ -30,8 +30,8 @@ Design Studio區段是可重複使用之「全域資產」的所在位置。 建
 <tbody>
   <tr>
     <td>全域登陸頁面</td>
-    <td><li>建立 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">全域登陸頁面（自由格式/引導式）</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">建立測試頁面</a> A/B測試成功登陸頁面範本（若適用）。</li></td>
+    <td><li>建立 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">全域登陸頁面（自由格式/引導式）</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">建立測試頁面</a> A/B測試成功登陸頁面範本（若適用）。</li></td>
   </tr>
   <tr>
     <td>範本</td>
@@ -39,7 +39,7 @@ Design Studio區段是可重複使用之「全域資產」的所在位置。 建
   </tr>
   <tr>
     <td>隱私權與合規性</td>
-    <td><li>建立頁尾，使用 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">代碼片段</a> 或 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">Token</a> 隱私權法規遵循的登陸頁面。</li></td>
+    <td><li>建立頁尾，使用 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">代碼片段</a> 或 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Token</a> 隱私權法規遵循的登陸頁面。</li></td>
   </tr>
 </tbody>
 </table>
@@ -144,7 +144,7 @@ Design Studio區段是可重複使用之「全域資產」的所在位置。 建
 <tbody>
   <tr>
     <td>資料夾結構 </td>
-    <td><li>為每種型別的資產建立子資料夾並 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">組織全域資產</a> （例如對話流程、電子郵件範本、電子郵件、表單、影像和檔案、登陸頁面、登陸頁面範本、程式碼片段等） 適當地。</li></td>
+    <td><li>為每種型別的資產建立子資料夾並 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">組織全域資產</a> （例如對話流程、電子郵件範本、電子郵件、表單、影像和檔案、登陸頁面、登陸頁面範本、程式碼片段等） 適當地。</li></td>
   </tr>
 </tbody>
 </table>
