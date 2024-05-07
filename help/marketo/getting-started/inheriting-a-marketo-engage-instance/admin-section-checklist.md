@@ -3,7 +3,7 @@ description: 繼承執行個體管理員檢查清單 — Marketo檔案 — 產�
 title: 繼承執行個體管理員檢查清單
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 0ca63c52cb255cc41cbb53b2c481e589d08004b3
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '1846'
 ht-degree: 1%
@@ -16,7 +16,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 
 >[!TIP]
 >
->如果您是新的Marketo Engage使用者，且不熟悉許多術語，請檢視 [Marketo Engage字彙表](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
+>如果您是新的Marketo Engage使用者，且不熟悉許多術語，請檢視 [Marketo Engage字彙表](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}.
 
 ## AdobeIdentity Management {#adobe-identity-management}
 
@@ -83,7 +83,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
   </tr>
   <tr> 
    <td>支援使用者</td> 
-   <td><li>您是否設定了適當的 <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">授權連絡人</a> 在支援入口網站？</li></td>
+   <td><li>您是否設定了適當的 <a href="/help/marketo/getting-started/initial-setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">授權連絡人</a> 在支援入口網站？</li></td>
   </tr>
   <tr> 
    <td>內部檔案</td> 

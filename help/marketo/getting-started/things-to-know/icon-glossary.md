@@ -1,18 +1,18 @@
 ---
-description: 圖示字彙表 — Marketo檔案 — 產品檔案
+description: 圖示字彙表 — Marketo Engage檔案 — 產品檔案
 title: 圖示字彙表
-exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
-feature: Modern UX
+feature: Getting Started
+exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '242'
 ht-degree: 21%
 
 ---
 
-# 圖示字彙表 {#new-icon-glossary}
+# Marketo Engage圖示字彙表 {#icon-glossary}
 
-以下是新Adobe Marketo Engage介面的圖示。 如果您需要參考Marketo Classic圖示，可以 [可在此處找到](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+以下是目前Adobe Marketo Engage介面的圖示。 如果您需要參考Marketo Classic圖示，可以 [可在此處找到](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## 一般圖示 {#general-icons}
 

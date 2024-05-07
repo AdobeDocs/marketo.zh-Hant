@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '9358'
+source-wordcount: '9327'
 ht-degree: 0%
 
 ---
@@ -14,16 +14,24 @@ ht-degree: 0%
 # Marketo 指南 {#using}
 
 + [首頁](home.md)
-+ Marketo快速入門 {#getting-started-with-marketo}
-   + [快速入門](getting-started.md)
++ Marketo Engage快速入門 {#getting-started}
    + [什麼是Adobe Marketo Engage？](getting-started/what-is-adobe-marketo-engage.md)
-   + [支援中心](getting-started/help-center.md)
-   + [Marketo Engage字彙表](getting-started/marketo-engage-glossary.md)
-   + [傳統圖示字彙表](getting-started/classic-icon-glossary.md)
-   + 設定 {#setup}
-      + [設定步驟](getting-started/setup/setup-steps.md)
-      + [設定檢查清單](getting-started/setup/setup-checklist.md)
-      + [設定Marketo的通訊協定](getting-started/setup/configure-protocols-for-marketo.md)
+   + 初始設定 {#initial-setup}
+      + [設定步驟](getting-started/initial-setup/setup-steps.md)
+      + [設定通訊協定](getting-started/initial-setup/configure-protocols-for-marketo.md)
+      + [使用者設定](getting-started/initial-setup/user-setup.md)
+   + 實作新的Marketo Engage例項 {#implementing-a-new-marketo-engage-instance}
+      + [從何處開始](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
+      + [新執行個體最佳實務：管理員區段檢查清單](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [新執行個體最佳實務：資料庫檢查清單](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [新執行個體最佳實務：行銷活動檢查清單](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [新執行個體最佳實務：Design Studio檢查清單](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [新執行個體最佳實務：記錄您的設定](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+   + 須知 {#things-to-know}
+      + [Marketo Engage字彙表](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [圖示字彙表](getting-started/things-to-know/icon-glossary.md)
+      + [傳統圖示字彙表](getting-started/things-to-know/classic-icon-glossary.md)
+      + [支援中心](getting-started/things-to-know/help-center.md)
    + 快速獲勝 {#quick-wins}
       + [完成設定並新增人員](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [傳送電子郵件](getting-started/quick-wins/send-an-email.md)
@@ -45,24 +53,6 @@ ht-degree: 0%
       + [繼承例項：Design Studio檢查清單](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
       + [繼承的執行個體：記錄您的設定](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [檢閱核心技能](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
-+ Marketo 2快速入門 {#getting-started-with-marketo-2}
-   + [什麼是Adobe Marketo Engage？](getting-started-2/what-is-adobe-marketo-engage.md)
-   + 初始設定 {#initial-setup}
-      + [初始設定工作](getting-started-2/initial-setup/initial-setup-tasks.md)
-      + [設定步驟](getting-started-2/initial-setup/setup-steps.md)
-      + [使用者設定](getting-started-2/initial-setup/user-setup.md)
-   + 實作新的Marketo Engage例項 {#implementing-a-new-marketo-engage-instance}
-      + [從何處開始](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [新執行個體最佳實務：管理員區段檢查清單](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [新執行個體最佳實務：資料庫檢查清單](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [新執行個體最佳實務：行銷活動檢查清單](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-      + [新執行個體最佳實務：Design Studio檢查清單](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [新執行個體最佳實務：記錄您的設定](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
-   + 須知 {#things-to-know}
-      + [Marketo Engage字彙表](getting-started-2/things-to-know/marketo-engage-glossary.md)
-      + [圖示字彙表](getting-started-2/things-to-know/icon-glossary.md)
-      + [傳統圖示字彙表](getting-started-2/things-to-know/classic-icon-glossary.md)
-      + [說明中心](getting-started-2/things-to-know/help-center.md)
 + 產品檔案 {#product-docs}
    + 其他應用程式 {#additional-apps}
       + SEO {#seo}
@@ -1143,7 +1133,6 @@ ht-degree: 0%
          + [電子郵件副本](product-docs/email-marketing/general/email-cc.md)
    + Marketo Engage新式UX {#marketo-engage-modern-ux}
       + [概觀](product-docs/marketo-engage-modern-ux/overview.md)
-      + [圖示字彙表](product-docs/marketo-engage-modern-ux/icon-glossary.md)
       + [使用全域搜尋](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [切換開關](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Marketo通知 {#marketo-notifications}

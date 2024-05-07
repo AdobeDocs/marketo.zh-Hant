@@ -2,12 +2,14 @@
 unique-page-id: 1147226
 description: 快速入門 — Marketo檔案 — 產品檔案
 title: 快速入門
+hide: true
+hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 15%
+ht-degree: 11%
 
 ---
 
@@ -23,7 +25,7 @@ ht-degree: 15%
 
 只要您的IT團隊提供一點協助，您就能迅速完成工作。
 
-[開始設定](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
+[開始設定](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## 取得一些快速成功 {#get-some-quick-wins}
 
@@ -42,7 +44,7 @@ ht-degree: 15%
   </td>
   <td>
       <a href="getting-started/quick-wins/send-an-email.md">
-       <img alt="匯入" src="getting-started/assets/getting-started-2.png" />
+       <img alt="匯入" src="getting-started/assets/getting-started.png" />
        </a>
     <div><a href="getting-started/quick-wins/send-an-email.md">2. 傳送電子郵件</a>
     </div>
