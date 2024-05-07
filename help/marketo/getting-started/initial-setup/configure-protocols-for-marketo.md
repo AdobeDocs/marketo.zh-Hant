@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4720433
-description: 設定Marketo的通訊協定 — Marketo檔案 — 產品檔案
-title: 設定Marketo的通訊協定
+description: 設定Marketo Engage的通訊協定 — Marketo Engage檔案 — 產品檔案
+title: 設定Marketo Engage通訊協定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 0330fd1b7bcc6d5fc21e5e591b65e8d6d5d3efee
 workflow-type: tm+mt
-source-wordcount: '2116'
+source-wordcount: '2136'
 ht-degree: 0%
 
 ---
 
-# 設定Marketo的通訊協定 {#configure-protocols-for-marketo}
+# 設定Marketo Engage通訊協定{#configure-protocols-for-marketo-engage}
 
 如果您或您的組織使用限制性的防火牆或Proxy伺服器設定，您或您的網路管理員可能需要將某些網域和IP位址範圍列入允許清單，以確保Adobe Marketo Engage如期運作。
 
-如需協助實作下列通訊協定，請與您的IT部門分享本文章。 如果他們使用允許清單來限制Web存取，請確定他們新增以下網域（包括星號），以允許所有Marketo資源和網站通訊端：
+如需協助實作下列通訊協定，請與您的IT部門分享本文章。 如果他們使用允許清單限制Web存取，請確定他們新增以下網域（包括星號）以允許所有Marketo Engage資源和網站通訊端：
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 **追蹤連結CNAME**
 
-您的行銷團隊應傳送兩則新CNAME記錄的要求給您。 第一個是用於登入頁面URL，讓登入頁面以可反映您網域的URL顯示，而非以Marketo （實際主機）顯示。 第二個用於追蹤從Marketo傳送之電子郵件中所包含的連結。
+您的行銷團隊應傳送兩則新CNAME記錄的要求給您。 第一個是用於登入頁面URL，讓登入頁面以可反映您網域而非Marketo Engage（實際主機）的URL顯示。 第二個用於追蹤從Marketo Engage傳送之電子郵件中所包含的連結。
 
 `1` **為登陸頁面新增CNAME**
 
-將他們傳送給您的登陸頁面CNAME新增至您的DNS記錄，以便 `[YourLandingPageCNAME]` 指向指派給您Marketo登陸頁面的唯一帳戶字串。 登入您的網域註冊機構的網站，然後輸入登陸頁面CNAME和帳戶字串。 這通常涉及三個欄位：
+將他們傳送給您的登陸頁面CNAME新增至您的DNS記錄，以便 `[YourLandingPageCNAME]` 指向指派給您Marketo Engage登陸頁面的唯一帳戶字串。 登入您的網域註冊機構的網站，然後輸入登陸頁面CNAME和帳戶字串。 這通常涉及三個欄位：
 
 * 別名：輸入 `[YourLandingPageCNAME]` （行銷提供）
 * 型別： CNAME
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 `2` **為電子郵件追蹤連結新增CNAME**
 
-新增行銷傳送給您的電子郵件CNAME，以便 `[YourEmailCNAME]` 指向 [MktoTrackingLink]，Marketo指派的預設追蹤連結，格式為：\
+新增行銷傳送給您的電子郵件CNAME，以便 `[YourEmailCNAME]` 指向 [MktoTrackingLink]，Marketo Engage指派的預設追蹤連結，格式為：\
 `[YourEmailCNAME].[YourDomain].com` 在CNAME中 `[MktoTrackingLink]`
 
 例如：
@@ -58,9 +58,9 @@ ht-degree: 0%
 
 此程式最多可能需要3個工作日才能完成。
 
-## 步驟2：將Marketo IP加入允許清單 {#step-allowlist-marketo-ips}
+## 步驟2：允許清單Marketo EngageIP {#step-allowlist-marketo-ips}
 
-當您的行銷群組使用Marketo傳送測試電子郵件（在傳送電子郵件爆炸前的最佳實務）時，測試電子郵件有時會被反垃圾郵件系統封鎖，這些系統依賴寄件者IP位址來驗證電子郵件是否有效。 為確保這些測試電子郵件送達，請將Marketo新增至您的允許清單。
+當您的行銷群組使用Marketo Engage傳送測試電子郵件（在傳送電子郵件爆炸前的最佳實務）時，測試電子郵件有時會被反垃圾郵件系統封鎖，這些系統依賴寄件者IP位址來驗證電子郵件是否有效。 為確保這些測試電子郵件送達，請新增Marketo Engage至您的允許清單。
 
 將這些IP位址新增至您的公司允許清單：
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 
 199.15.212.0/22
 
-有些反垃圾郵件系統使用電子郵件傳迴路徑欄位而不是允許的IP位址。 在這些情況下，最好的辦法是加入允許清單&#39;&#42;.mktomail.com&#39;，因為Marketo使用數個信箱子網域。 其他反垃圾郵件系統根據寄件者地址加入允許清單。 在這些情況下，請務必加入您的行銷群組用來與人員/潛在客戶通訊的所有傳送（「寄件者」）網域。
+有些反垃圾郵件系統使用電子郵件傳迴路徑欄位而不是允許的IP位址。 在這些情況下，最好的辦法是加入允許清單&#39;&#42;.mktomail.com&#39;，因為Marketo Engage使用數個信箱子網域。 其他反垃圾郵件系統根據寄件者地址加入允許清單。 在這些情況下，請務必加入您的行銷群組用來與人員/潛在客戶通訊的所有傳送（「寄件者」）網域。
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ ht-degree: 0%
    如果我們的DNS專案中已有現有的SPF記錄，只需新增下列內容即可：\
    包含： mktomail.com
 
-   將CompanyDomain取代為您網站的主網域(例如： 」`(company.com/)`&quot;)和CorpIP，以及您企業電子郵件伺服器的IP位址(例如 「255.255.255.255」)。 如果您要透過Marketo從多個網域傳送電子郵件，請讓IT人員為每個網域新增此行（在同一行）。
+   將CompanyDomain取代為您網站的主網域(例如： 」`(company.com/)`&quot;)和CorpIP，以及您企業電子郵件伺服器的IP位址(例如 「255.255.255.255」)。 如果您要透過Marketo Engage從多個網域傳送電子郵件，您應該讓IT人員為每個網域新增此行（一行）。
 
 1. 針對DKIM，請為每個要設定的網域建立DNS資源記錄。 我們將簽署的每個網域的主機記錄和TXT值如下：
 
@@ -253,7 +253,7 @@ DMARC有兩種對齊方式：DKIM對齊方式和SPF對齊方式。
 
 >[!NOTE]
 >
->建議在Marketo的DKIM與SPF上執行DMARC對齊。
+>建議在DKIM與SPF上執行DMARC對齊以進行Marketo Engage。
 
 * DKIM-aligned DMARC — 若要設定DKIM-aligned DMARC，您必須：
 
@@ -268,15 +268,15 @@ DMARC有兩種對齊方式：DKIM對齊方式和SPF對齊方式。
 
    * 為品牌傳迴路徑網域設定DMARC
 
-* 如果您是透過專用IP從Marketo傳送郵件，但尚未實作品牌傳迴路徑，或不確定您是否有，請開啟票證並附上 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* 如果您是透過專用IP從Marketo Engage傳送郵件，但尚未實作品牌傳迴路徑，或不確定您是否有，請開啟票證並附上 [Adobe支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-* 如果您透過共用IP集區從Marketo傳送郵件，您可以透過以下方式檢視您是否符合信任的IP資格 [在此套用](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. 品牌傳迴路徑免費提供給從Marketo信任的IP傳送的訪客。 如果核准此計畫，請聯絡Marketo支援以設定品牌傳迴路徑。
+* 如果您透過IP共用集區從Marketo Engage傳送郵件，您可以透過檢視您是否符合信任的IP資格 [在此套用](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. 品牌傳迴路徑免費提供給從Marketo Engage受信任的IP傳送的訪客。 如果核准此計畫，請聯絡Adobe支援以設定品牌傳迴路徑。
 
    * 信任的IP：為每月傳送不到75K且不符合專用IP資格之較低磁碟區使用者的共用IP集區。 這些使用者也必須符合最佳實務需求。
 
-* 如果您是透過共用IP從Marketo傳送郵件，但您不符合信任的IP資格，且每月傳送的郵件超過100,000封，您將需要聯絡Adobe帳戶團隊（您的帳戶經理）以購買專用IP。
+* 如果您是透過共用IP從Marketo Engage傳送郵件，但您不符合信任的IP資格，且每月傳送的郵件超過100,000封，您將需要聯絡Adobe帳戶團隊（您的帳戶經理）以購買專用IP。
 
-* Marketo中不支援也不建議使用嚴格SPF對齊。
+* Marketo Engage中不支援也不建議使用嚴格的SPF對齊。
 
 ## 步驟5：為您的網域設定MX記錄 {#step-set-up-mx-records-for-your-domain}
 
