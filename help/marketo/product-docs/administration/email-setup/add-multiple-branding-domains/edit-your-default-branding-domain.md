@@ -4,7 +4,7 @@ description: 編輯您的預設品牌定義域 — Marketo檔案 — 產品檔�
 title: 編輯您的預設品牌化網域
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->確定您已 [在您的DNS中設定CNAME](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md) 在Marketo中新增品牌化網域之前。
+>確定您已 [在您的DNS中設定CNAME](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md) 在Marketo中新增品牌化網域之前。
 
 1. 前往 **[!UICONTROL 管理員]** 區域。
 

@@ -3,7 +3,7 @@ description: 瞭解實作新Marketo Engage執行個體時的最佳實務。 持�
 title: 從何處開始
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 參閱下列「最佳實務檢查清單」之前，請確定您已依照初始設定區域中的步驟進行。
 
-* [設定步驟](/help/marketo/getting-started/initial-setup/initial-setup-tasks.md){target="_blank"}
+* [設定步驟](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
-* [設定通訊協定](/help/marketo/getting-started/initial-setup/initial-setup-tasks.md){target="_blank"}
+* [設定通訊協定](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}
 
 * [使用者設定檢查清單](/help/marketo/getting-started/initial-setup/user-setup.md){target="_blank"}
 

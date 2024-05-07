@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '2071'
 ht-degree: 0%
@@ -206,7 +206,7 @@ ht-degree: 0%
 
 收集完所有必要資訊後，您就可以向IT傳送要求了。 您可以使用下列文字做為範本，將粗體文字取代為您自己的資訊。
 
-[加入本文的連結](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
+[加入本文的連結](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md).
 
 將此文字貼到電子郵件中，並取代粗體預留位置：
 
