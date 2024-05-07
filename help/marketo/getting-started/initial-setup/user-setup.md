@@ -3,7 +3,7 @@ description: 開始使用新的Marketo Engage執行個體前，您需要完成�
 title: 使用者設定檢查清單
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '776'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您也可以下載此檢查清單， [以及最佳實務清單](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) ，並視需要檢查各個步驟。
+>您也可以下載此檢查清單， [以及最佳實務清單](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) ，並視需要檢查各個步驟。
 
 ## 在AdobeIdentity Management上Marketo Engage {#marketo-engage-on-adobe-identity-management}
 

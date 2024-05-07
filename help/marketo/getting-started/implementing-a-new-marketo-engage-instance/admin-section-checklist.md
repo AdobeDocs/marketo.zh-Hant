@@ -3,7 +3,7 @@ description: 為您新的Marketo Engage執行個體設定「管理員」區段�
 title: 新執行個體最佳實務 — 管理員區段檢查清單
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # 新執行個體最佳實務：管理員區段檢查清單 {#new-instance-best-practices-admin-section-checklist}
 
-身為新管理員，請套用以下檢查清單來協助引導您完成實作程式，以瀏覽全新Marketo Engage例項。 與所有這些指南一樣，您也可以 [下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 並追蹤您的進度。
+身為新管理員，請套用以下檢查清單來協助引導您完成實作程式，以瀏覽全新Marketo Engage例項。 與所有這些指南一樣，您也可以 [下載檢查清單](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 並追蹤您的進度。
 
 ## 角色 {#roles}
 

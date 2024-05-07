@@ -3,7 +3,7 @@ description: 為您新的Marketo Engage執行個體設定Design Studio區段。
 title: 新執行個體最佳實務 — 設計工作室檢查清單
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 2%
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Design Studio區段是可重複使用之「全域資產」的所在位置。 建立您的組織計畫在方案中使用的全域資產、使用一致的命名慣例，並將它們組織在子資料夾中以便輕鬆搜尋。
 
-記住 [下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 並追蹤您的進度。
+記住 [下載檢查清單](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 並追蹤您的進度。
 
 ## 登陸頁面 {#landing-pages}
 

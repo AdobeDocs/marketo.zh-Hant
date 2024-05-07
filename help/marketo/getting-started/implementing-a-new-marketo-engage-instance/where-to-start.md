@@ -3,7 +3,7 @@ description: 瞭解實作新Marketo Engage執行個體時的最佳實務。 持�
 title: 從何處開始
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 歡迎使用新的Adobe Marketo Engage執行個體！ 透過強大的行銷自動化功能，準備好簡化、自動化和測量行銷任務和工作流程。
 
-在這份「實作新Marketo Engage執行個體」指南中，瞭解順暢實作執行個體的最佳實務，以確保長期衛生和營運效率。 每個檢查清單都提供了寶貴的步驟，讓您可追蹤設定進度。 使用 [可下載的核取清單](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} 以記錄您在此期間的工作，以供日後執行個體稽核和使用者上線時使用。
+在這份「實作新Marketo Engage執行個體」指南中，瞭解順暢實作執行個體的最佳實務，以確保長期衛生和營運效率。 每個檢查清單都提供了寶貴的步驟，讓您可追蹤設定進度。 使用 [可下載的核取清單](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} 以記錄您在此期間的工作，以供日後執行個體稽核和使用者上線時使用。
 
 ## 初始設定 {#initial-setup}
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 新Marketo Engage執行個體的最佳實務檢查清單 {#best-practice-checklists-new-instance}
 
-下載Marketo Engage執行個體 [新的實作管理員檢查清單](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}，或參閱下方的線上指南。
+下載Marketo Engage執行個體 [新的實作管理員檢查清單](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}，或參閱下方的線上指南。
 
 * [管理員區段](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 

@@ -3,7 +3,7 @@ description: 設定新Marketo Engage執行處理的「資料庫」段落。
 title: 新執行個體最佳實務 — 資料庫檢查清單
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 2%
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 您可以在「資料庫」段落中找到執行個體中人員的主要屬性。 進一步瞭解在資料庫中瀏覽不同清單和區段以及管理人員記錄所需的步驟。
 
-記住 [下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 並追蹤您的進度。
+記住 [下載檢查清單](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 並追蹤您的進度。
 
 ## 系統智慧清單 {#system-smart-lists}
 

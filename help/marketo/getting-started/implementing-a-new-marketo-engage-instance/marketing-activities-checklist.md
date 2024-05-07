@@ -3,7 +3,7 @@ description: 為您新的Marketo Engage執行個體設定行銷活動區段。
 title: 新執行個體最佳實務 — 行銷活動檢查清單
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '794'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 行銷活動包含構成自動化行銷方案的所有資產和內容。 當您設定新的Marketo Engage執行個體時，乾淨和清晰的組織確保所有使用者都可以輕鬆找到和管理各種計畫。
 
-記住 [下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 並追蹤您的進度。
+記住 [下載檢查清單](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 並追蹤您的進度。
 
 ## 組織 {#organization}
 
