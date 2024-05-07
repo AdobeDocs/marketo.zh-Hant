@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8473c4d59210bb18c3968a56883034febf00c320
+source-git-commit: 0d2416651da183460ad1f60ff5d566cbfc7abd12
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '428'
 ht-degree: 2%
 
 ---
@@ -53,7 +53,18 @@ Adobe Dynamic Chat專屬發行說明 [可在此處找到](/help/marketo/release-
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>新使用者和角色許可權</strong>：新許可權可供使用，為使用者提供更精細的Marketo Engage存取許可權。 控制先前未啟用的管理員部分（例如新體驗和預測對象）、分割許可權以分別授予資產稽核軌跡和管理稽核軌跡的存取權，以及使用新的資產和資料夾的建立和移動許可權來防止唯讀使用者進行變更。 雖然新許可權將於4月26日起顯示在您的Marketo Engage執行個體中，但目前仍為被動許可權，將於本季度晚些時候可供存取。</td> 
+   <td><strong>新使用者和角色許可權</strong>：新許可權可供使用，為使用者提供更精細的Marketo Engage存取許可權。 控制先前未啟用的管理員部分（例如新體驗和預測對象）、分割許可權以分別授予資產稽核軌跡和管理稽核軌跡的存取權，以及使用新的資產和資料夾的建立和移動許可權來防止唯讀使用者進行變更。 
+   <p>雖然新許可權將於4月26日起顯示在您的Marketo Engage執行個體中，但目前仍為被動許可權，將於本季度晚些時候可供存取。
+   <li>存取Adobe Experience Manager</li>
+   <li>存取Adobe組織對應</li>
+   <li>存取管理員稽核軌跡</li>
+   <li>存取資產稽核軌跡</li>
+   <li>存取新體驗</li>
+   <li>存取預測對象</li>
+   <li>建立報告</li>
+   <li>建立清單</li>
+   <li>匯出行銷活動內容</li>
+   </td> 
    <td>已送出</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">角色許可權說明</a></td>
   </tr>
