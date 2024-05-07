@@ -3,7 +3,7 @@ description: 繼承執行個體管理員檢查清單 — Marketo檔案 — 產�
 title: 繼承執行個體管理員檢查清單
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
 workflow-type: tm+mt
 source-wordcount: '1846'
 ht-degree: 1%
@@ -41,7 +41,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
    <td>產品設定檔</td> 
    <td><li>在Adobe Admin Console中，是否已將所有適當的使用者指派給Marketo Engage的產品設定檔？
 <br/>     如果沒有，請確定 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">新增和/或移除使用者</a> 從Adobe Admin Console中的Marketo Engage產品設定檔。 如果您將使用者新增至產品設定檔，您無法在「Marketo Engage&gt;管理員&gt;使用者和角色」中指派使用者。</li>
-<p><img src="assets/note-icon.png" alt="附註圖示"> 注意：如果不需要的使用者新增到多個產品設定檔，您必須從所有產品設定檔中移除該使用者。 否則，他們仍可存取Marketo Engage。</td>
+<p><img src="assets/note-icon.png" alt="附註圖示"> 注意：如果將不需要的使用者新增到多個產品設定檔，您必須從所有產品設定檔中移除該使用者。 否則，他們仍可存取Marketo Engage。</td>
   </tr>
   <tr> 
    <td>使用者管理API</td> 
