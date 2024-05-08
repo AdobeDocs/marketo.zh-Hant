@@ -4,7 +4,7 @@ description: 篩選促銷活動報表 — Marketo檔案 — 產品檔案
 title: 篩選促銷活動報告
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0a4c889d22232f7da8f4dda2f077bba1873cd1b2
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 1. 前往 **行銷活動** (或 **Analytics**)並選取您的行銷活動報表。
 
-   ![](assets/image2014-9-16-16-3a13-3a56.png)
+   ![](assets/filter-a-campaign-activity-report-1.png)
 
 1. 按一下 **設定** 標籤並連按兩下 **行銷活動**.
 
-   ![](assets/image2014-9-16-16-3a14-3a1.png)
+   ![](assets/filter-a-campaign-activity-report-2.png)
 
 1. 選擇要包含在報表中的資料夾和特定智慧行銷活動。 按一下 **套用**.
 
-   ![](assets/image2014-9-16-16-3a14-3a11.png)
+   ![](assets/filter-a-campaign-activity-report-3.png)
 
    >[!TIP]
    >
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 1. 您已完成！ 按一下 **報告** 標籤以檢視 _just_ 報表中選取的智慧型行銷活動。
 
-   ![](assets/image2014-9-16-16-3a14-3a32.png)
+   ![](assets/filter-a-campaign-activity-report-4.png)
 
 >[!MORELIKETHIS]
 >
