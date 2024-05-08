@@ -3,9 +3,9 @@ description: Marketo Engage字彙表 — Marketo檔案 — 產品檔案
 title: Marketo Engage字彙表
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '4097'
+source-wordcount: '4085'
 ht-degree: 1%
 
 ---
@@ -129,11 +129,7 @@ ht-degree: 1%
   <tr> 
    <td colspan="1"><strong>Campaign</strong></td> 
    <td colspan="1">「Campaign」在Marketo中可能代表一些意義。 A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">行銷活動</a> 是smart campaign的較短辭彙。 在 <strong>Marketo Sales Connect</strong>， <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">行銷活動</a> 是一系列的多管道通訊步驟。 在 <strong>網頁個人化</strong>，網頁 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">行銷活動</a> 是與特定區段相關聯的自訂反應。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md" rel="nofollow">行銷活動報表</a></strong></td> 
-   <td colspan="1">顯示如何操作的報表型別 <strong>智慧型行銷活動</strong> 正在執行中。</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">行銷活動電子郵件效能報表</a></strong></td> 
    <td colspan="1">顯示電子郵件效能測量結果之分組依據的報告型別。 <strong>智慧型行銷活動</strong>.</td> 

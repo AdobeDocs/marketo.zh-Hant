@@ -4,16 +4,16 @@ description: 跨工作區的報表電子郵件、行銷活動績效 — Marketo�
 title: 跨工作區的報表電子郵件、行銷活動績效
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # 跨工作區的報表電子郵件、行銷活動績效 {#report-email-campaign-performance-across-workspaces}
 
-開啟全域報告以包含來自您所有Marketo的資料 [工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) 在您的 [電子郵件效能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)， [電子郵件連結效能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)、和 [促銷活動活動](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) 報表。
+開啟全域報告以包含來自您所有Marketo的資料 [工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) 在您的 [電子郵件效能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) 和 [電子郵件連結效能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) 報表。
 
 1. 前往 **Analytics** (或 **行銷活動**)區域。
 

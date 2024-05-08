@@ -4,9 +4,9 @@ description: 使用智慧清單篩選報表中的人員 — Marketo檔案 — �
 title: 使用智慧清單篩選報表中的人員
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,6 @@ ht-degree: 0%
 * [電子郵件效能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [電子郵件連結效能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [參與資料流績效](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [促銷活動活動](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
 * [行銷活動電子郵件績效](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
 * [公司網頁活動](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [網頁活動](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
