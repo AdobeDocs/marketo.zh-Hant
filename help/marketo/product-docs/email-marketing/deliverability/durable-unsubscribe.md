@@ -4,9 +4,9 @@ description: 永續性取消訂閱 — Marketo檔案 — 產品檔案
 title: 持久取消訂閱
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 35f5b33b01462b1cd00e29360daee465c7f18cf0
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -52,10 +52,6 @@ Marketo已增強取消訂閱功能的行為，讓其「經久耐用」。 我們
 ## 重新訂閱 {#re-subscribing}
 
 就像取消訂閱會導致所有擁有相同電子郵件地址的人被取消訂閱一樣，重新訂閱實際上會以相同的電子郵件地址重新訂閱每個人。
-
-## 活動記錄 {#activity-log}
-
-資料值變更定義 _updateleademailStatus_ 和 _Resetleademailstatus_ 可以在以下位置找到： [此社群文章](https://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
 
 >[!MORELIKETHIS]
 >
