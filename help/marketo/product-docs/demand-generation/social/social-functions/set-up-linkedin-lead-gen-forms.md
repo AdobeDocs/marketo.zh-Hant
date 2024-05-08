@@ -4,9 +4,9 @@ description: 設定LinkedIn Lead Gen Forms - Marketo檔案 — 產品檔案
 title: 設定LinkedIn Lead Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: e1254c8156557b27d066a4482076becbd03fc774
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 設定LinkedIn Lead Gen Forms {#set-up-linkedin-lead-gen-forms}
 
 使用LinkedIn Lead Gen Forms在LinkedIn中執行廣告行銷活動，並產生Marketo的銷售機會。
+
+>[!IMPORTANT]
+>
+>linkedIn正在升級Marketo EngageLinkedIn整合所使用的行銷API。 這些變更需要重新驗證您電腦中的所有LinkedIn LaunchPoint服務 **管理員** > **啟動點** 2024年6月7日至12月15日期間的功能表，以避免服務中斷。 如需詳細資訊，請參閱 [移轉常見問題集](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -51,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. 您會發現現在已獲得授權。 按一下&#x200B;**下一步**。
+1. 您會發現現在已獲得授權。 按一下 **下一個**.
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 

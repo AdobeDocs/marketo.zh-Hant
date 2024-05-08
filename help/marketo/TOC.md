@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '9332'
+source-wordcount: '9336'
 ht-degree: 0%
 
 ---
@@ -1964,6 +1964,7 @@ ht-degree: 0%
       + 2024年 {#2024}
          + [發行說明： 2024年1月](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [發行說明： 2024年3月](release-notes/previous-releases/2024/release-notes-mar-24.md)
+         + [發行說明： 2024年4月](release-notes/previous-releases/2024/release-notes-apr-24.md)
       + 2023年 {#2023}
          + [發行說明： 2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [發行說明： 2023年3月](release-notes/previous-releases/2023/release-notes-mar-23.md)
