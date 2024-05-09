@@ -1,9 +1,11 @@
 ---
 description: 圖示字彙表 — Marketo檔案 — 產品檔案
 title: 圖示字彙表
+hide: true
+hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 21%
