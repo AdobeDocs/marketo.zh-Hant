@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
 workflow-type: tm+mt
-source-wordcount: '9336'
+source-wordcount: '9349'
 ht-degree: 0%
 
 ---
@@ -657,6 +657,16 @@ ht-degree: 0%
          + [Dynamic Chat活動](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [常見問題集](product-docs/demand-generation/dynamic-chat/faq.md)
+         + 設定與組態 {#setup-and-configuration}
+            + [初始設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
+            + [新增或移除聊天使用者](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [權限](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
+            + [設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
+            + [專員設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
+            + [代理程式管理](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
+            + [安全性設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
+            + [路由](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
+            + [回呼函式](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
          + 自動聊天 {#automated-chat}
             + [對話流程概觀](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
             + [建立對話流程](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
@@ -672,16 +682,12 @@ ht-degree: 0%
             + [即時聊天總覽](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [專員收件匣](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
             + [通知](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
-         + 設定與組態 {#setup-and-configuration}
-            + [初始設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
-            + [新增或移除聊天使用者](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
-            + [權限](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
-            + [設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
-            + [專員設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
-            + [代理程式管理](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
-            + [安全性設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
-            + [路由](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
-            + [回呼函式](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
+         + Generative AI {#generative-ai}
+            + [Generative AI概述](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)
+            + [問題產生](product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)
+            + [回應程式庫](product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)
+            + [活動記錄](product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md)
+            + [未回答的問題](product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md)
       + 活動 {#events}
          + 瞭解事件 {#understanding-events}
             + [將成員新增至事件程式](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
