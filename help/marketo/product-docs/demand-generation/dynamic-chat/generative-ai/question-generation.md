@@ -4,9 +4,9 @@ title: 問題產生
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,11 @@ ht-degree: 0%
 
    ![](assets/question-generation-4.png)
 
->[!TIP]
->
->頁面上的狀態不會即時更新。 點選重新整理以檢視從「處理」到「完成」的時間。
+   >[!TIP]
+   >
+   >頁面上的狀態不會即時更新。 點選重新整理以檢視從「處理」到「完成」的時間。
 
-![](assets/question-generation-5.png)
+   ![](assets/question-generation-5.png)
 
 ## 下載問題和回應 {#download-questions-and-responses}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/question-generation-6.png)
 
-1. 在瀏覽器中找出下載資料夾，然後選取檔案。 視您的瀏覽器而定，這可能不盡相同。
+1. 在瀏覽器中找出下載資料夾，然後選取檔案。 根據您使用的瀏覽器，這可能看起來有所不同。
 
    ![](assets/question-generation-7.png)
 

@@ -4,16 +4,16 @@ title: 未回答的問題
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 # 未回答的問題 {#unanswered-questions}
 
-檢視聊天機器人無法回答的所有問題或標籤為「無用」的訪客，並使用這些寶貴資訊建立其他預先核准的回應。
+檢視聊天機器人無法回答的所有問題和/或訪客標示為「沒有幫助」的問題，並使用此重要資訊建立其他預先核准的回應。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/unanswered-questions-2.png)
 
-1. 選取您要產生回應的未回答問題。
+1. 選取您要建立回應的未回答問題。
 
    ![](assets/unanswered-questions-3.png)
 
