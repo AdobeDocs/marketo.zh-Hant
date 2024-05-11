@@ -4,10 +4,10 @@ title: 回應程式庫
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 2%
+source-wordcount: '366'
+ht-degree: 0%
 
 ---
 
@@ -57,24 +57,49 @@ ht-degree: 2%
 
 ## 大量編輯和上傳問題/回應 {#bulk-edit-and-upload-questions-responses}
 
-1. 文字
+以下說明如何在下載的Excel檔案中進行大量編輯。 它們也可以在檔案的「任務詳細資訊」標籤中檢視。
 
-熒幕擷圖
+<table>
+<thead>
+  <tr>
+    <th>動作</th>
+    <th>指示</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>編輯問題</td>
+    <td>在「editedQuestion」欄中輸入新問題（欄H）</td>
+  </tr>
+  <tr>
+    <td>編輯回應</td>
+    <td>在「editedResponse」欄中輸入新回應（欄I）</td>
+  </tr>
+  <tr>
+    <td>新增問題</td>
+    <td>在「editedQuestion」欄（H欄）中輸入新問題，並將questionResponse保留空白。 您也必須在「主題」欄（C欄）輸入適當的主題，並在「sourceUr！」欄輸入來源URL</td>
+  </tr>
+  <tr>
+    <td>新增問題與答案</td>
+    <td>在「editedQuestion」欄（欄H）輸入新問題，在「editedResponse」欄（欄I）輸入新回應，並將questionResponse保留空白。 您也必須在「主題」欄（C欄）中輸入適當的主題</td>
+  </tr>
+</tbody>
+</table>
 
-1. 文字
+1. 完成檔案中的編輯後，請返回「回應資料庫」標籤，然後按一下「上傳回應」 。
 
-熒幕擷圖
+   ![](assets/response-library-9.png)
 
-1. 文字
+1. 輸入適用的工作名稱。 拖放檔案，或瀏覽至裝置上並加以選取。 按一下 **儲存** 完成時。
 
-熒幕擷圖
+   ![](assets/response-library-10.png)
 
-1. 文字
+1. 確認即會出現，您已準備就緒。
 
-熒幕擷圖
+   ![](assets/response-library-11.png)
 
 ## 篩選您的問題 {#filter-your-questions}
 
 依預設，問題會依建立時間/日期依序列出，最新的問題會先顯示。 如果您正在尋找特定問題，請套用篩選器以縮小搜尋範圍。 依主題、任務名稱和/或核准狀態篩選。
 
-熒幕擷圖
+![](assets/response-library-12.png)

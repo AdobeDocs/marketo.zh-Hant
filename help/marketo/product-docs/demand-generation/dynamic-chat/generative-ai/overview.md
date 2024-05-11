@@ -4,10 +4,10 @@ title: Generative AI概述
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 5%
+source-wordcount: '130'
+ht-degree: 6%
 
 ---
 
@@ -17,24 +17,24 @@ Adobe Dynamic Chat中的Generative AI可讓您加速行銷活動的建立、增�
 
 ## 問題產生 {#question-generation}
 
-使用經過銷售、行銷和產品知識培訓的介面，透過人工智慧協助對話提升訪客的輸入體驗。
+[提升傳入體驗](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) 使用經過銷售、行銷和產品知識培訓的介面，為訪客提供AI輔助對話。
 
-熒幕擷圖
+![](assets/generative-ai-overview-1.png)
 
 ## 回覆資料庫 {#response-library}
 
-產生自訂的問題和答案集合，全部由您預先核准，以用於Generative AI聊天行銷活動。
+[產生自訂集合](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) 問題和答案的預設集，全部由您預先核准，以供在Generative AI聊天行銷活動中使用。
 
-熒幕擷圖
+![](assets/generative-ai-overview-2.png)
 
 ## 活動記錄 {#activity-log}
 
-檢視所有任務及其隨附詳細資訊的清單，包括名稱、所有者、型別、編輯者及編輯時間。
+[檢視所有任務的清單](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) 以及隨附的詳細資料，包括名稱、擁有者、型別、編輯者及編輯時間。
 
-熒幕擷圖
+![](assets/generative-ai-overview-3.png)
 
 ## 未回答的問題 {#unanswered-questions}
 
-根據先前對話中未回答問題的存放庫，使用AI為您的回應資料庫建立其他預先核准的回應。
+[建立其他預先核准的回應](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) 用於您的回應資料庫，其根據為先前交談中未回答問題的存放庫。
 
-熒幕擷圖
+![](assets/generative-ai-overview-4.png)
