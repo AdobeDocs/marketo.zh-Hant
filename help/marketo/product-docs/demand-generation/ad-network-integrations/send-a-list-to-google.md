@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: d0430078eaec5686ebded1e59e0eb4560b35ab44
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
    >
    >* 選取 **讓對象成員資格保持同步** 讓清單在您的執行個體中變更時保持最新狀態。 我們會在將人員新增至靜態清單/從靜態清單中移除時，在對象中新增/移除人員。
    >
-   >* 選取底部的核取方塊會針對傳送至Google Ads以用於廣告和廣告個人化的使用者資料，將同意狀態傳送為GRANTED。 若未勾選，則會將同意狀態傳送為「未指定」 。 對於計畫為歐洲經濟區(EEA)的使用者上傳資料的使用者，Google將整理出 [常見問答](https://support.google.com/google-ads/answer/14310715)以及概述本主題的其他詳細資訊， [歐盟使用者同意原則](https://www.google.com/about/company/user-consent-policy/).
+   >* 選取底部的核取方塊會針對傳送至Google Ads以用於廣告和廣告個人化的使用者資料，將同意狀態傳送為GRANTED。 若未勾選，則會將同意狀態傳送為「未指定」 。 對於計畫為歐洲經濟區(EEA)的使用者上傳資料的使用者，Google將整理出 [常見問答](https://support.google.com/google-ads/answer/14310715){target="_blank"}, as well as additional details outlining the [EU user consent policy](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 
 1. 按一下 **更新**.
 

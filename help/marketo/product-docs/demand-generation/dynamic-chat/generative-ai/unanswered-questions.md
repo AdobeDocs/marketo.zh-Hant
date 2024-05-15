@@ -4,9 +4,10 @@ title: 未回答的問題
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
+exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -17,13 +18,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->未回答的問題清單每24小時會自動重新整理一次。
+>未回答的問題清單每24小時（太平洋標準時間午夜）自動重新整理一次。
 
-1. 在Generative AI下，按一下 **協助回應**.
+1. 在Generative AI下，按一下 **[!UICONTROL 協助回應]**.
 
    ![](assets/unanswered-questions-1.png)
 
-1. 按一下 **未回答的問題** 標籤。
+1. 按一下 **[!UICONTROL 未回答的問題]** 標籤。
 
    ![](assets/unanswered-questions-2.png)
 
@@ -31,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/unanswered-questions-3.png)
 
-1. 輸入您的回應。 指派主題並新增使用者可與訪客共用的選用URL。 按一下 **儲存** 完成時。
+1. 輸入您的回應。 指派主題並新增使用者可與訪客共用的選用URL。 按一下 **[!UICONTROL 儲存]** 完成時。
 
    ![](assets/unanswered-questions-4.png)
 
