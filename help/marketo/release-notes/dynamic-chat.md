@@ -3,7 +3,7 @@ description: Dynamic Chat發行說明 — Marketo檔案 — 產品檔案
 title: Dynamic Chat發行說明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: bdfe64c28d3e6ae4e83561024b53e076c10fff96
+source-git-commit: cbf60ee8756996c554370604f95be7a2ffb1b959
 workflow-type: tm+mt
 source-wordcount: '1343'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Marketo Engage的標準發行說明頁面 [可在此處找到](/help/marketo/rel
 
 ![](assets/dynamic-chat-may-2024-release-1.png)
 
-## 未回答的問題 {#unanswered-questions}
+### 未回答的問題 {#unanswered-questions}
 
 [使用未回答問題的存放庫](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} 從先前的對話產生新的預先核准回應，並維護包含最新資訊的回應庫。
 
