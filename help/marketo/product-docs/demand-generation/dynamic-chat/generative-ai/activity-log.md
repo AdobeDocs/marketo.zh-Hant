@@ -1,11 +1,9 @@
 ---
 description: 活動記錄 — Marketo檔案 — 產品檔案
 title: 活動記錄
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
 exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5
-source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
+source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%

@@ -1,11 +1,12 @@
 ---
 description: 串流設計工具 — Marketo檔案 — 產品檔案
 title: 流程設計工具
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1128'
 ht-degree: 1%
 
 ---
@@ -51,22 +52,13 @@ ht-degree: 1%
  <tr>
   <td style="width:25%"><strong>動作*</strong></td>
   <td>類似於表單中的隱藏欄位，您可以使用動作卡填入任何潛在客戶或公司屬性(具有 <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">字串資料型別</a>)擷取隱含值。 您可以在交談的任何時間點新增動作卡，並使用自動填入個別值的值或原生權杖更新個別屬性。
-  <p><i>*這張卡片需要Dynamic Chat Prime。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。</i></td>
+  <p><i>*動作卡需要Dynamic Chat Prime。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>即時聊天</strong></td>
   <td>當您希望訪客與即時代理程式聊天時，請使用即時聊天卡。
   <li>即時聊天卡必須是分支中的最後一張卡。</li>
   <li>訪客在資料流中到達這張卡片後，就會立即路由到代理商，因此建議在此卡片前面加上問答卡，詢問訪客是否想與即時代理商聊天。</li></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>產生的回應*</strong></td>
-  <td>當訪客到達交談中的特定時間點時，建立訪客訊息。 設定他們可以一次詢問的若干問題，以獲得您想要的關鍵績效指標。
-  <p><i>*這張卡片需要Dynamic Chat Prime。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。</i></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>條件分支</strong></td>
-  <td>根據不同的條件，在對話方塊流程中建立分支。 根據潛在客戶和Marketo Engage中的公司屬性，在相同對話方塊中向不同人員呈現不同的內容。</td>
  </tr>
 </table>
 

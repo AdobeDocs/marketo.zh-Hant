@@ -1,13 +1,11 @@
 ---
 description: 問題產生 — Marketo檔案 — 產品檔案
 title: 問題產生
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
+source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -72,16 +70,51 @@ ht-degree: 0%
 
 ## 允許清單的IP位址 {#ip-addresses-to-allowlist}
 
-為了能夠在產生問題和回應期間從您的網頁URL擷取內容，請確定您的網頁團隊已允許列出以下所有IP位址。
+為了能夠在產生問題和回應期間從您的網頁URL擷取內容，請在下方找到您的地區，並確保您的網站團隊將與其關聯的所有IP位址列入允許清單。
 
-<table width="150">
+<table width="450">
+<thead>
   <tr>
-    <td>20.167.0.149</td>
+    <th>北美</th>
+    <th>歐洲</th>
+    <th>APAC</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>20.10.235.188</td>
+    <td>20.76.246.248</td>
+    <td>20.167.0.195</td>
   </tr>
   <tr>
-    <td>20.248.129.111</td>
+    <td>20.10.235.189</td>
+    <td>20.76.247.92</td>
+    <td>20.248.128.31</td>
   </tr>
   <tr>
-    <td>20.167.0.146</td>
+    <td>20.10.235.246</td>
+    <td>20.76.247.134</td>
+    <td>20.167.1.48</td>
   </tr>
+  <tr>
+    <td>20.10.235.248</td>
+    <td>20.76.247.244</td>
+    <td>20.167.1.63</td>
+  </tr>
+  <tr>
+    <td>20.10.235.255</td>
+    <td>20.93.168.10</td>
+    <td>20.167.1.92</td>
+  </tr>
+  <tr>
+    <td>20.10.236.96</td>
+    <td>20.93.168.44</td>
+    <td>20.167.1.155</td>
+  </tr>
+  <tr>
+    <td>20.119.144.14</td>
+    <td>20.105.224.16</td>
+    <td>20.211.64.11</td>
+  </tr>
+</tbody>
 </table>
