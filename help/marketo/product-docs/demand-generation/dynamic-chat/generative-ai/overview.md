@@ -3,9 +3,9 @@ description: Generative AI概述 — Marketo檔案 — 產品檔案
 title: Generative AI概述
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 091e4cb2d9909b86a9e1a78fff812b8421fb970d
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '426'
 ht-degree: 2%
 
 ---
@@ -58,7 +58,7 @@ Adobe Dynamic Chat中的創作AI會即時處理意圖訊號、使用者偏好設
 
 ## 未回答的問題 {#unanswered-questions}
 
-[建立其他預先核准的回應](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) 針對您的回應資料庫，使用以存放庫為基礎的AI使用先前對話中未回答問題的不同文字。
+[建立其他預先核准的回應](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) 用於您的回應資料庫，其根據為先前交談中未回答問題的存放庫。
 
 ![](assets/generative-ai-overview-8.png)
 
