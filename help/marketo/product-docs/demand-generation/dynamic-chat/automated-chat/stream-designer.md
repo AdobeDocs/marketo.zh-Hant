@@ -3,7 +3,7 @@ description: 串流設計工具 — Marketo檔案 — 產品檔案
 title: 流程設計工具
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: cb27e3ffb471358bc8a5c8d90582c6996c75bf61
 workflow-type: tm+mt
 source-wordcount: '1212'
 ht-degree: 1%
@@ -115,7 +115,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >您可以使用代號為已知的聊天訪客個人化體驗(例如：Hello `{{lead.leadFirstName:""}}`)。 只要按一下右側的花括弧圖示，即可進行選取。 如果您希望匿名訪客看到一般專案（例如：Hello），請在引號之間新增預設值 `{{lead.leadFirstName:"there"}}`)。
+   >您可以使用代號為已知的聊天訪客個人化體驗(例如：Hello `{{lead.leadFirstName:""}}`)。 只要按一下右側的花括弧圖示，即可進行選取。 如果您希望匿名訪客看到一般內容（例如：Hello），請在引號之間新增預設值 `{{lead.leadFirstName:"there"}}`)。
 
    >[!NOTE]
    >
