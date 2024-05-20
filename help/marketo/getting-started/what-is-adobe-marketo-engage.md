@@ -4,9 +4,9 @@ description: 什麼是Adobe Marketo Engage？ - Marketo檔案 — 產品檔案
 title: 什麼是Adobe Marketo Engage？
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: f0885ae2fcc1fe51768edc34bc4e814c19b9c315
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '286'
 ht-degree: 1%
 
 ---
@@ -21,13 +21,14 @@ Marketo Engage提供許多絕佳功能，可協助您達成行銷目標。 例�
 
 * 表單編輯器
 * 登陸頁面編輯器
+* Smart Campaign
+* Dynamic Chat
+* 原生互動式網路研討會
 * 引導式登陸頁面範本
 * 電子郵件編輯器
 * 郵件爆炸工具
 * 區段
 * 預測性內容
-* Dynamic Chat
-* 原生互動式網路研討會
 * 協力廠商網路研討會整合
 * 行動裝置行銷
 * 與您的CRM （Salesforce或Dynamics）同步
