@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+source-git-commit: 29c730246188740d004a45f34923bb83f0322ec5
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 4%
+source-wordcount: '257'
+ht-degree: 3%
 
 ---
 
@@ -42,4 +42,4 @@ Adobe Dynamic Chat專屬發行說明 [可在此處找到](/help/marketo/release-
 
 ## 公告 {#announcements}
 
-* **需要重新驗證LinkedIn**：LinkedIn正在升級Marketo EngageLinkedIn整合所使用的行銷API。 這些變更需要重新驗證您電腦中的所有LinkedIn LaunchPoint服務 **管理員** > **啟動點** 2024年6月7日至12月15日期間的功能表，以避免服務中斷。 您可以找到如何完成此作業的指示 [此處取得Forms銷售機會總管](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} and [here for Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Lead Gen Form service has a type of "LinkedIn Lead Gen" and Matched Audience service has type of "LinkedIn Matched Audiences." For more information, please see the [Migration FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+* **需要重新驗證LinkedIn**：LinkedIn正在升級Marketo EngageLinkedIn整合所使用的行銷API。 這些變更需要重新驗證您電腦中的所有LinkedIn LaunchPoint服務 **管理員** > **啟動點** 2024年7月26日至12月15日期間的功能表，以避免服務中斷。 您可以找到如何完成此作業的指示 [此處取得Forms銷售機會總管](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} 和 [以取得相符的對象](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Lead Gen Form服務的型別為「LinkedIn Lead Gen」，而Matched Audience服務的型別為「LinkedIn Matched Audiences」。 如需詳細資訊，請參閱 [移轉常見問題集](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
