@@ -4,9 +4,9 @@ description: 檢視電子郵件程式控制面板 — Marketo檔案 — 產品�
 title: 檢視電子郵件計畫控制面板
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 檢視電子郵件計畫控制面板 {#view-the-email-program-dashboard}
 
 檢視您的電子郵件計畫（無論有無A/B測試）如何使用此儀表板執行。
+
+>[!CAUTION]
+>
+>為了提供準確的報告，請避免透過Smart Campaign重複使用先前在電子郵件程式中使用的電子郵件，或將資產從已啟動的電子郵件程式移至新的電子郵件程式。 這麼做會新增至原始電子郵件計畫控制面板中的報表編號。 如果您需要重複使用相同的電子郵件， [原地複製](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 而非。
 
 ## 選取您的電子郵件程式 {#select-your-email-program}
 
@@ -31,7 +35,7 @@ ht-degree: 0%
 
 ## 電子郵件程式A/B測試檢視 {#email-program-a-b-test-view}
 
-如果您將A/B測試新增至您的電子郵件程式，且測試目前正在執行中，您將會看到下列內容：
+如果您將A/B測試新增至您的電子郵件程式，而且測試目前正在執行中，您將會看到下列內容：
 
 ![](assets/image2014-9-12-14-3a2-3a25.png)
 

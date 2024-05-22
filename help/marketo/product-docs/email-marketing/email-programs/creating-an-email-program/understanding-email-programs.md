@@ -4,9 +4,9 @@ description: 瞭解電子郵件程式 — Marketo檔案 — 產品檔案
 title: 瞭解電子郵件程式
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -36,15 +36,19 @@ A/B測試可讓您證明哪封電子郵件最好。
 
 ## 儀表板 {#dashboards}
 
->[!TIP]
+>[!CAUTION]
 >
->有些受眾偏好使用電子郵件程式，而非透過智慧行銷活動傳送電子郵件，因為程式有詳細的報告儀表板。
+>為了提供準確的報告，請避免透過Smart Campaign重複使用先前在電子郵件程式中使用的電子郵件，或將資產從已啟動的電子郵件程式移至新的電子郵件程式。 這麼做會新增至原始電子郵件計畫控制面板中的報表編號。 如果您需要重複使用相同的電子郵件， [原地複製](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 而非。
 
 享受您勞動的成果。 控制面板會一眼顯示電子郵件程式和A/B測試效能。
 
 ![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
+
+>[!TIP]
+>
+>有些使用者偏好使用電子郵件程式，而非透過Smart Campaign傳送電子郵件，因為此程式有詳細的報表控制面板。
 
 ## 巢狀 {#nesting}
 

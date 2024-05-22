@@ -4,9 +4,9 @@ description: 使用電子郵件程式控制面板 — Marketo檔案 — 產品�
 title: 使用電子郵件程式控制面板
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,13 @@ ht-degree: 0%
 
 檢視您的電子郵件程式使用此儀表板檢視的執行方式。
 
+>[!CAUTION]
+>
+>為了提供準確的報告，請避免透過Smart Campaign重複使用先前在電子郵件程式中使用的電子郵件，或將資產從已啟動的電子郵件程式移至新的電子郵件程式。 這麼做會新增至原始電子郵件計畫控制面板中的報表編號。 如果您需要重複使用相同的電子郵件， [原地複製](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 而非。
+
 >[!NOTE]
 >
->如果您的程式有A/B測試，請檢視 [電子郵件計畫控制面板 — A/B測試檢視](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>如果您的程式有A/B測試，請檢視 [電子郵件計畫控制面板 — A/B測試檢視](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +51,7 @@ ht-degree: 0%
 
 ## 摘要 — 參與 {#summary-engagement}
 
-這可讓您瞭解整體資訊 [參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+這可讓您瞭解整體資訊 [參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -77,4 +81,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[使用電子郵件計畫控制面板 — A/B測試檢視](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>[使用電子郵件計畫控制面板 — A/B測試檢視](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}

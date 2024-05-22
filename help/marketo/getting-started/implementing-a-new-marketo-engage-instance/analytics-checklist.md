@@ -4,7 +4,7 @@ title: 新執行個體最佳實務 — 分析檢查清單
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
 source-wordcount: '1424'
 ht-degree: 0%
@@ -109,7 +109,7 @@ Analytics區段提供可分析行銷工作績效的全域報表。 瞭解導覽�
     <td>備註：此報表要求您已在下列欄位中定義管道、進度狀態和成功步驟： <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">「管理員&gt;標籤」區域</a>. <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">衡量行銷策略的成效</a> 在選擇性程式中。</li>
     <li>根據行銷活動中的最佳實務管理方案會籍（使用Smart Campaigns更新贏取方案、狀態、成功狀態）。</li>
     <li>根據本年度與連續12個月的成本進行測量。
-    <ul><li>請記住，維護 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">期間成本</a> 對於運用計畫績效報表至關重要。</li>
+    <ul><li>請記住，維護 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">期間成本</a> 對於運用計畫績效報表至關重要。</li></ul>
     <br>提示：若要彙總並檢視任何 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">匯入清單</a> 在方案績效報表中，確保您的團隊選取適當的贏取方案以進行標籤。 考慮 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">建立預設計畫</a> 匯入的清單不適用於任何管道時，要選取為贏取方案。 這可確保任何匯入的人員擁有與其來源、業務單位、管道等相關的有效贏取計畫。 而不是空白值。</td>
   </tr>
   <tr>
