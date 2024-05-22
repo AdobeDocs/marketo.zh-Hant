@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 29c730246188740d004a45f34923bb83f0322ec5
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '280'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,17 @@ Adobe Dynamic Chat專屬發行說明 [可在此處找到](/help/marketo/release-
    <th style="width:65%">功能</th> 
    <th style="width:10%">狀態</th>
    <th style="width:25%">檔案</th>
+  </tr>
+     <tr> 
+   <td><strong>互動式網路研討會範本</strong>：行銷人員現在可以在互動式網路研討會中建立聊天室版面的自訂範本。</td> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
   </tr>
      <tr> 
    <td><strong>Forms中的推斷欄位</strong>：透過表單填寫建立人員（先前沒有網路活動）時，用於填入推斷欄位的資料來源已更新，使用與其他人員收集方法相同的資料來源。 推斷的欄位資料現在在所有收集點上是一致的。</td> 

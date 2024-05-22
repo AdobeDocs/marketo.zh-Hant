@@ -4,16 +4,16 @@ description: 瞭解電子郵件程式 — Marketo檔案 — 產品檔案
 title: 瞭解電子郵件程式
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
 # 瞭解電子郵件程式 {#understanding-email-programs}
 
-向您的新Marketo朋友（電子郵件程式）問好。 傳送電子郵件、建立A/B測試，以及追蹤您的結果，全都集中在一處。
+傳送電子郵件、建立A/B測試，以及追蹤您的結果，全都集中在一處。
 
 ## 控制面板 {#control-panel}
 
