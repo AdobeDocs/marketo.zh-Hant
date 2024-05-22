@@ -4,9 +4,9 @@ title: Marketo Engage社群
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
+source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '516'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 設定您的設定檔 {#set-up-your-profile}
 
-登入Marketing Nation時，按一下您的預設頭像圖示，然後選取「我的設定」以更新您的偏好設定、變更您的頭像像片、控制標籤等等。
+登入行銷國家時，按一下您的預設頭像圖示並選取 **[!UICONTROL 我的設定]** 若要更新您的偏好設定，請變更您的顯示圖片像片、控制標籤等等。
 
 熒幕擷圖
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## Marketo使用者群組 {#marketo-user-groups}
 
-Marketo使用者群組(MUG)是發生在全球不同區域的聚會。 它們提供您建立網路連結、討論最新趨勢、瞭解新功能等的機會。 檢視您所在區域是否有這類活動。 如果沒有，請加入虛擬使用者群組！
+Marketo使用者群組(MUG)是發生在全球不同區域的聚會。 它們提供您建立網路連結、討論最新趨勢、瞭解新功能等的機會。 檢視您所在區域是否有這類活動。 如果沒有，您可以加入虛擬使用者群組！
 
 熒幕擷圖
 
@@ -85,6 +85,6 @@ Marketo使用者群組(MUG)是發生在全球不同區域的聚會。 它們提�
 
 我們的社群團隊將在4至6個工作天內合併您的社群設定檔。 完成後，您將在登入時於主要社群設定檔中看到參與記錄。 如果沒有，請登出您的帳戶並重新登入以進行確認。
 
-<p>
+<br>
 
 歡迎使用Marketo Engage，享受行銷國家！
