@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
+source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
 workflow-type: tm+mt
-source-wordcount: '9350'
+source-wordcount: '9358'
 ht-degree: 0%
 
 ---
@@ -1730,6 +1730,7 @@ ht-degree: 0%
             + [在網頁報表中顯示人員或匿名訪客](product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
             + [向下展開人員績效報表](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
             + [將報表匯出至Excel](product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
+            + [篩選促銷活動報告](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [在行銷活動電子郵件報告中篩選資產](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [篩選電子郵件報表中的資產](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
             + [依屬性群組人員報表](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
@@ -1743,6 +1744,7 @@ ht-degree: 0%
             + [訂閱基本報表](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [訂閱智慧清單](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + 報表型別 {#report-types}
+            + [行銷活動報表](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [行銷活動電子郵件效能報表](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [公司網站活動報表](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [依狀態顯示人員報表](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
