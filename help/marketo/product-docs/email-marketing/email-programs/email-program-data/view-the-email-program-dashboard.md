@@ -4,9 +4,9 @@ description: 檢視電子郵件程式控制面板 — Marketo檔案 — 產品�
 title: 檢視電子郵件計畫控制面板
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->為了提供準確的報告，請避免透過Smart Campaign重複使用先前在電子郵件程式中使用的電子郵件，或將資產從已啟動的電子郵件程式移至新的電子郵件程式。 這麼做會新增至原始電子郵件計畫控制面板中的報表編號。 如果您需要重複使用相同的電子郵件， [原地複製](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 而非。
+>如需準確的報告，請避免 _重複使用_ 來自電子郵件程式的電子郵件，方法是在Smart Campaign中參考該電子郵件程式，或將資產從已啟動的電子郵件程式移至新的電子郵件程式。 這麼做會彙總該電子郵件附加之每個報告控制面板中的所有資料。 如果您需要重複使用電子郵件，請 [原地複製](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 相反地，這複製了電子郵件，但會建立具有新電子郵件ID的新電子郵件。
 
 ## 選取您的電子郵件程式 {#select-your-email-program}
 
