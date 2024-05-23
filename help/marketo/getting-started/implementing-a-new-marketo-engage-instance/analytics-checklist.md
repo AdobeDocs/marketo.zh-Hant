@@ -4,9 +4,9 @@ title: 新執行個體最佳實務 — 分析檢查清單
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: 46485fb692c0ad9734cbe9cad9df24736002587a
 workflow-type: tm+mt
-source-wordcount: '1424'
+source-wordcount: '1435'
 ht-degree: 0%
 
 ---
@@ -31,8 +31,13 @@ Analytics區段提供可分析行銷工作績效的全域報表。 瞭解導覽�
   <tr>
     <td>組織：命名、資料夾和封存</td>
     <td><li>使用報告命名慣例來區分「全域報告」標籤中的報告。</li>
-    <ul><li>良好命名慣例的範例是[Report Type] [Global vs. BU-Specific Tag] [Report Description]，例如[Email Performance]-[Global]-[180 Days Email Engagement]。</li></ul> <li>識別應與您組織內不同使用者群組（例如銷售團隊、行銷領導力）共用的報告，並在Analytics for Global Reports的「群組報告」資料夾中依資料夾整理報告。</li> 
-    <li>封存應限制在全域報告資料夾中，因為這些報告一律開啟。   <ul><li>如果您是根據業務單位結構製作報表，請將封存限製為組織變更，例如減少或新增相關業務單位。</li></ul></td>
+    <ul>
+    <li>良好命名慣例的範例是[Report Type] [Global vs. BU-Specific Tag] [Report Description]，例如[Email Performance]-[Global]-[180 Days Email Engagement]。</li>
+    </ul> 
+    <li>識別應與您組織內不同使用者群組（例如銷售團隊、行銷領導力）共用的報告，並在Analytics for Global Reports的「群組報告」資料夾中依資料夾整理報告。</li> 
+    <li>封存應限制在全域報告資料夾中，因為這些報告一律開啟。   <ul>
+    <li>如果您是根據業務單位結構製作報表，請將封存限製為組織變更，例如減少或新增相關業務單位。</li>
+    </ul></td>
   </tr>
   <tr>
     <td>工作區（如果適用）</td>
@@ -46,12 +51,12 @@ Analytics區段提供可分析行銷工作績效的全域報表。 瞭解導覽�
   <tr>
     <td>群組報表</td>
     <td><li>群組報告是您組織的全域報告，應報告Marketo Engage組織的整體活動。</li>
-    <li>考慮建立 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports" target="_blank">可複製的核心報表</a> 您期望每個業務單位最大限度地使用資料，以減少提取報表所需的時間並確保資料正確性。 請參閱「基本報表 — 全域報表」表格中的詳細資訊[插入書籤連結區段]。
+    <li>考慮建立 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports" target="_blank">可複製的核心報表</a> 您期望每個業務單位最大限度地使用資料，以減少提取報表所需的時間並確保資料正確性。 欲知詳情，請參閱 <a href="#global-reports">下方的「全域報告」表格</a>.
     <ul><li>人員績效報表（全時與以時間為基礎） — 依來源、月份</li>
     <li>方案績效報表（依成本月份、以時間為基礎）</li>
     <li>電子郵件效能報表（以時間為基礎）</li></ul>
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces" target="_blank">開啟「全域報告」</a> 在報表的「設定」標籤中，將您所有工作區的資料納入電子郵件效能和電子郵件連結效能報表。 如果您有多個工作區，則只需在預設工作區中啟用此設定。</li>
-    <br>提示：建立 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists" target="_blank">智慧清單</a> ，其中包含您要納入大多數報表中的「資料庫」區段。 當您需要更新智慧列示條件時，可以在一個位置更新它，而不是在所有全域報告中更新。</td>
+    <p><img src="assets/tip-icon.png" alt="附註圖示"> 提示：建立 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists" target="_blank">智慧清單</a> ，其中包含您要納入大多數報表中的「資料庫」區段。 當您需要更新智慧列示條件時，可以在一個位置更新它，而不是在所有全域報告中更新。</td>
   </tr>
 </tbody>
 </table>
@@ -69,7 +74,8 @@ Analytics區段提供可分析行銷工作績效的全域報表。 瞭解導覽�
   <tr>
     <td>訂閱</td>
     <td><li>與行銷主管保持一致，瞭解應檢閱報表結果以及實施期間其順序的人員。</li> <li>使用訂閱將資料散發給組織中的需要瞭解的人，而不用用盡指名的使用者授權。</li>
-    <br>提示：訂閱電子郵件通常會在夜間傳送。 如果您希望人員存取即時報表資料，則需要將人員新增為使用者，以便他們可以直接檢查報表。
+    <p><img src="assets/tip-icon.png" alt="附註圖示"> 提示：訂閱電子郵件通常會在夜間傳送。 如果您希望人員存取即時報表資料，則需要將人員新增為使用者，以便他們可以直接檢查報表。
+    <p>
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report">設定訂閱</a> 根據每個團隊持續監控的所需節奏（每日/每週/每月）。 您也可以 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions">檢視您的所有訂閱</a> 在Analytics的「訂閱」標籤下方的單一位置。</li></td>
   </tr>
 </tbody>
@@ -92,25 +98,28 @@ Analytics區段提供可分析行銷工作績效的全域報表。 瞭解導覽�
     <td><li>使用選取的正確電子郵件建立全域、工作區/業務單位範圍的報告。</li>
     <li>在所有可複製的計畫範本中建立本機電子郵件效能報告。</li>
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame">使用相關時間範圍</a> （例如YTD、過去90天等） 以讓您準確檢視標準電子郵件參與度和傳遞能力量度。</li>
-    <br>秘訣： <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/filtering-email-bot-activity">在「管理員&gt;電子郵件」中開啟「機器人活動」篩選功能</a> 以避免記錄或識別是否為機器人活動啟用記錄。 <a href="https://nation.marketo.com/t5/product-documents/filtering-email-bot-activity-feature-latest-release/ta-p/324860">包含篩選器，以僅允許開啟/按一下將「是機器人活動」限制設為「False」的活動</a> 在可複製全域報表的智慧清單中。</td>
+    <p><img src="assets/tip-icon.png" alt="附註圖示"> 秘訣： <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/filtering-email-bot-activity">在「管理員&gt;電子郵件」中開啟「機器人活動」篩選功能</a> 以避免記錄或識別是否為機器人活動啟用記錄。 <a href="https://nation.marketo.com/t5/product-documents/filtering-email-bot-activity-feature-latest-release/ta-p/324860">包含篩選器，以僅允許開啟/按一下將「是機器人活動」限制設為「False」的活動</a> 在可複製全域報表的智慧清單中。</td>
   </tr>
   <tr>
     <td>人員績效報表</td>
-    <td>注意：建議您最好要 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">管道和標籤策略</a> 追蹤透過各個Marketo Engage所獲得的人數，以及您的行銷投資的ROI （依管道分類）之前，請先追蹤各個IOS的實作。
-    <br>
-    <li>決定您將用來測量潛在客戶贏取計畫績效的標準，並根據這些量度建立以時間為基礎的標準報表（今年度、最近滾動的12個月檢視或180天）：</li> <ul><li>贏取方案：獲得銷售機會的Marketo Engage方案。</li>
-    <li>個人來源：資料庫瞭解記錄的來源類別（根據CRM中的來源值清單）</li></ul>
+    <td><img src="assets/note-icon.png" alt="附註圖示"> 注意：建議您最好要 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">管道和標籤策略</a> 追蹤透過各個Marketo Engage所獲得的人數，以及您的行銷投資的ROI （依管道分類）之前，請先追蹤各個IOS的實作。
+    <p>
+    <li>決定您將用來測量潛在客戶贏取計畫績效的標準，並根據這些量度建立以時間為基礎的標準報表（今年度、最近滾動的12個月檢視或180天）：</li> <ul><li>贏取方案：獲得銷售機會的Marketo Engage方案。
+    <li>個人來源：資料庫瞭解記錄的來源類別（根據CRM中的來源值清單）
+    </li></ul>
     <li>按周或月建立測量人員。 此報告可提供資料庫成長率的測量結果，以及您是否接近或即將超過資料庫大小限制。</li>
     <li>人員績效報表中的量度篩選依據 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">使用您的智慧列示作為自訂欄。</a></li>
-    <br>秘訣：為您想要新增至「資料庫」中「人員績效報表」的自訂欄建立「智慧列示」，而非「行銷活動」，以便在報表中選取智慧列示名稱時，能夠正確且清楚的檢視它。</td>
+    <p><img src="assets/tip-icon.png" alt="附註圖示"> 秘訣：為您想要新增至「資料庫」中「人員績效報表」的自訂欄建立「智慧列示」，而非「行銷活動」，以便在報表中選取智慧列示名稱時，能夠正確且清楚的檢視它。</td>
   </tr>
   <tr>
     <td>程式效能報表</td>
-    <td>備註：此報表要求您已在下列欄位中定義管道、進度狀態和成功步驟： <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">「管理員&gt;標籤」區域</a>. <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">衡量行銷策略的成效</a> 在選擇性程式中。</li>
+    <td><p><img src="assets/note-icon.png" alt="附註圖示"> 備註：此報表要求您已在下列欄位中定義管道、進度狀態和成功步驟： <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">「管理員&gt;標籤」區域</a>.
+    <p>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">衡量行銷策略的成效</a> 在選擇性程式中。</li>
     <li>根據行銷活動中的最佳實務管理方案會籍（使用Smart Campaigns更新贏取方案、狀態、成功狀態）。</li>
     <li>根據本年度與連續12個月的成本進行測量。
     <ul><li>請記住，維護 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">期間成本</a> 對於運用計畫績效報表至關重要。</li></ul>
-    <br>提示：若要彙總並檢視任何 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">匯入清單</a> 在方案績效報表中，確保您的團隊選取適當的贏取方案以進行標籤。 考慮 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">建立預設計畫</a> 匯入的清單不適用於任何管道時，要選取為贏取方案。 這可確保任何匯入的人員擁有與其來源、業務單位、管道等相關的有效贏取計畫。 而不是空白值。</td>
+    <p><img src="assets/tip-icon.png" alt="附註圖示"> 提示：若要彙總並檢視任何 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">匯入清單</a> 在方案績效報表中，確保您的團隊選取適當的贏取方案以進行標籤。 考慮 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">建立預設計畫</a> 匯入的清單不適用於任何管道時，要選取為贏取方案。 這可確保任何匯入的人員擁有與其來源、業務單位、管道等相關的有效贏取計畫。 而不是空白值。</td>
   </tr>
   <tr>
     <td>登陸頁面效能報表</td>
@@ -119,8 +128,8 @@ Analytics區段提供可分析行銷工作績效的全域報表。 瞭解導覽�
   </tr>
   <tr>
     <td>網頁活動報表</td>
-    <td>注意：僅限具備以下條件的網頁(外部和Marketo登陸頁面)： <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website">Munchkin JavaScript</a> 啟用的將會在此報告中受到追蹤。 考慮將JavaScript程式碼放入Tag Management平台，例如 <a href="https://developers.marketo.com/blog/integrating-munchkin-with-google-tag-manager/">Google Tag Manager</a>，避免在每個網頁上以硬式編碼撰寫程式碼。
-    <br>
+    <td><img src="assets/note-icon.png" alt="附註圖示"> 注意：僅限具備以下條件的網頁(外部和Marketo登陸頁面)： <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website">Munchkin JavaScript</a> 啟用的將會在此報告中受到追蹤。 考慮將JavaScript程式碼放入Tag Management平台，例如 <a href="https://developers.marketo.com/blog/integrating-munchkin-with-google-tag-manager/">Google Tag Manager</a>，避免在每個網頁上以硬式編碼撰寫程式碼。
+    <p>
     <li>建立 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/web-page-activity-report">網頁活動報表</a> 作為全域報表，讓您集中檢閱所有網頁的數量。 請注意，您的外部網頁活動只會反映在網頁活動報表中。</li></td>
   </tr>
 </tbody>
