@@ -4,7 +4,7 @@ title: 新執行個體最佳實務 — 分析檢查清單
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '1393'
 ht-degree: 0%
@@ -31,9 +31,7 @@ Analytics區段提供可分析行銷工作績效的全域報表。 瞭解導覽�
   <tr>
     <td>組織：命名、資料夾和封存</td>
     <td><li>使用報告命名慣例來區分「全域報告」標籤中的報告。</li>
-    <ul>
-    <li>良好命名慣例的範例是[Report Type] [Global vs. BU-Specific Tag] [Report Description]，例如[Email Performance]-[Global]-[180 Days Email Engagement]。</li>
-    </ul> 
+    <ul><li>良好命名慣例的範例是[Report Type] [Global vs. BU-Specific Tag] [Report Description]，例如[Email Performance]-[Global]-[180 Days Email Engagement]。</li></ul><br>
     <li>識別應與您組織內不同使用者群組（例如銷售團隊、行銷領導力）共用的報告，並在Analytics for Global Reports的「群組報告」資料夾中依資料夾整理報告。</li> 
     <li>封存應限制在全域報告資料夾中，因為這些報告一律開啟。   <ul>
     <li>如果您是根據業務單位結構製作報表，請將封存限製為組織變更，例如減少或新增相關業務單位。</li>
@@ -104,7 +102,7 @@ Analytics區段提供可分析行銷工作績效的全域報表。 瞭解導覽�
     <td>人員績效報表</td>
     <td><img src="assets/note-icon.png" alt="附註圖示"> 注意：建議您最好要 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">管道和標籤策略</a> 每個實施Marketo Engage的專案，您才能依管道追蹤已獲得的人員以及行銷投資的ROI。
     <p>
-    <li>決定您將用來測量潛在客戶贏取計畫績效的標準，並根據這些量度建立以時間為基礎的標準報表（今年度、最近滾動的12個月檢視或180天）：</li> <ul><li>贏取方案：為取得人員而記入點數的Marketo Engage方案。
+    <li>決定您將用來測量潛在客戶贏取計畫績效的標準，並根據這些量度建立以時間為基礎的標準報表（今年度、最近滾動的12個月檢視或180天）：</li> <ul><li>贏取方案：為取得人員而記入點數的Marketo Engage方案。</li>
     <li>個人來源：資料庫瞭解記錄的來源類別（根據CRM中的來源值清單）
     </li></ul>
     <li>按周或月建立測量人員。 此報告可提供資料庫成長率的測量值，以及您是否接近資料庫大小限制。</li>

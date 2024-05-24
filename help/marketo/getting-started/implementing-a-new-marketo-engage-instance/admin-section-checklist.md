@@ -3,7 +3,7 @@ description: 為您新的Marketo Engage執行個體設定「管理員」區段�
 title: 新執行個體最佳實務 — 管理員區段檢查清單
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 1%
@@ -112,7 +112,8 @@ ht-degree: 1%
     <td><li>定義使用方法 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank">標籤</a>.</li></td>
   </tr>
   <tr>
-    <td>行事曆（如果適用）</td>
+    <td>行事曆<br> 
+    （如果適用）</td>
     <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank">問題行銷行事曆座位</a> 提供給需要存取許可權的使用者。</li>
     <li>設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank">行事曆</a>.</li></td>
   </tr>
