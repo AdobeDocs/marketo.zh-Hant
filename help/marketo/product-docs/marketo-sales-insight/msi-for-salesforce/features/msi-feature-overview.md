@@ -4,9 +4,9 @@ description: MSI功能總覽 — Marketo檔案 — 產品檔案
 title: MSI功能概述
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bda95da160c5a27a0a460d26c102e6166c1ddea0
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '965'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # MSI功能概述 {#msi-feature-overview}
 
 MSI在Salesforce Lightning and Classic中提供下列功能。
+
+>[!NOTE]
+>
+>為了檢視所有可用的資料，請確保在使用Windows時將瀏覽器縮放比例設定為不超過125%，在Mac作業系統上則設定為150%。
 
 ## Visualforce面板 {#visualforce-panel}
 
@@ -44,7 +48,7 @@ Visualforce頁面：
 * 潛在客戶行動 — 顯示在Salesforce行動應用程式中
 * 潛在客戶連絡人橋接器 — 顯示您已新增至MSI連絡人ID欄位之連絡人的MSI面板
 
-欄位:
+欄位：
 
 * 上一個有趣的時刻
 * 上一個有趣的時刻日期
@@ -69,7 +73,7 @@ Visualforce頁面：
 * 連絡人行動裝置 — 顯示在Salesforce行動應用程式中
 * 新增至Marketo Campaign ContactPage — 此面板中提供新增至Marketo Campaign功能
 
-欄位:
+欄位：
 
 * 上一個有趣的時刻
 * 上一個有趣的時刻日期
@@ -93,11 +97,11 @@ Visualforce頁面：
 * 帳戶完整清單 — 不包含「移至完整清單」選項
 * 帳戶行動 — 顯示在Salesforce行動應用程式中
 
-欄位:
+欄位：
 
 * 銷售分析 — 開啟連絡人完整清單頁面
 
-動作:
+動作：
 
 * 新增至Marketo Campaign
 * 傳送Marketo電子郵件
@@ -115,12 +119,12 @@ Visualforce頁面：
 * 機會完整清單 — 不包含「移至完整清單」選項
 * Opportunity Mobile — 顯示在Salesforce行動應用程式中
 
-欄位:
+欄位：
 
 * 銷售分析 — 開啟連絡人完整清單頁面
 * Marketo機會分析 — 在Marketo中開啟機會影響分析器
 
-動作:
+動作：
 
 * 新增至Marketo Campaign
 * 傳送Marketo電子郵件
