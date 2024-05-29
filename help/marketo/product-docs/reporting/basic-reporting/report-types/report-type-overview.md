@@ -4,9 +4,9 @@ description: 報表型別概觀 — Marketo檔案 — 產品檔案
 title: 報表型別概觀
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -64,11 +64,7 @@ ht-degree: 0%
   <tr> 
    <td><strong><a href="web-page-activity-report.md">網頁活動</a></strong></td> 
    <td>向您的登入頁面和公共網站報告網頁活動。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>社交影響力</strong></td> 
-   <td>檢閱您正在產生的社交活動，並瞭解您的朋友告知您的頻率。</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">參與資料流績效報表</a> </strong></td> 
    <td>瞭解您的 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">參與計畫</a> 正在運作。</td> 

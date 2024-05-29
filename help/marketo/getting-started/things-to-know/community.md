@@ -4,9 +4,9 @@ title: Marketo Engage社群
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '592'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,17 @@ ht-degree: 0%
 
 ## 註冊您的使用者名稱 {#register-your-username}
 
- — 註冊使用者名稱
+1. 登入您的Marketo Engage執行個體。
+
+1. 在「我的Marketo」中，按一下「社群」圖磚。
+
+1. 如果您是第一次登入，系統會指示您註冊社群使用者名稱。
+
+   >[!NOTE]
+   >
+   >您的使用者名稱可以隨時變更，但此時必須註冊。
+
+1. 註冊您的使用者名稱后，您將會被導覽到社群首頁，並且能夠在社群內互動和發文。
 
 熒幕擷圖
 
@@ -87,4 +97,4 @@ Marketo使用者群組(MUG)是發生在全球不同區域的聚會。 它們提�
 
 <br>
 
-歡迎使用Marketo Engage，享受行銷國家！
+歡迎使用Marketo Engage，盡情探索行銷國家！
