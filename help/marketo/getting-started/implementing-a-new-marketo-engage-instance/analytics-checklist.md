@@ -4,9 +4,9 @@ title: 新執行個體最佳實務 — 分析檢查清單
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
+source-git-commit: 6aeb894e6a36064825a25474c67f53a291f548ab
 workflow-type: tm+mt
-source-wordcount: '1393'
+source-wordcount: '1615'
 ht-degree: 0%
 
 ---
@@ -117,7 +117,8 @@ Analytics區段提供可分析行銷工作績效的全域報表。 瞭解導覽�
     <li>根據行銷活動中的最佳實務管理方案會籍（使用Smart Campaigns更新贏取方案、狀態、成功狀態）。</li>
     <li>根據本年度與累計12個月的成本進行測量。
     <ul><li>請記住，維護 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">期間成本</a> 對於運用計畫績效報表至關重要。</li></ul>
-    <p><img src="assets/tip-icon.png" alt="附註圖示"> 提示：若要彙總並檢視任何 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">匯入清單</a> 在方案績效報表中，確保您的團隊選取適當的贏取方案以進行標籤。 考慮 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">建立預設計畫</a> 匯入的清單不適用於任何管道時，要選取為贏取方案。 這可確保任何匯入的人員擁有與來源、業務單位、管道等相關的有效贏取計畫，而不是空白值。</td>
+    <br>
+    <br><img src="assets/tip-icon.png" alt="附註圖示"> 提示：若要彙總並檢視任何 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">匯入清單</a> 在方案績效報表中，確保您的團隊選取適當的贏取方案以進行標籤。 考慮 <a href="https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">建立預設計畫</a> 匯入的清單不適用於任何管道時，要選取為贏取方案。 這可確保任何匯入的人員擁有與來源、業務單位、管道等相關的有效贏取計畫，而不是空白值。</td>
   </tr>
   <tr>
     <td>登陸頁面效能報表</td>
@@ -152,7 +153,7 @@ Analytics區段提供可分析行銷工作績效的全域報表。 瞭解導覽�
   <tr>
     <td>行銷活動報表</td>
     <td><li>建立 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">行銷活動報表</a> 並在行銷活動的作業資料夾中選擇一個期間。</li>
-    <li>設定報告以監控每個使用案例的觸發程式，以及 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">套用行銷活動篩選器</a> （例如，行為評分觸發器、生命週期資格觸發器、有趣的時刻觸發器）。</li></td>
+    <li>設定報告以監控每個使用案例的觸發程式，以及 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report" target="_blank">套用行銷活動篩選器</a> （例如，行為評分觸發器、生命週期資格觸發器、有趣的時刻觸發器）。</li></td>
   </tr>
   <tr>
     <td>參與資料流績效報表（如果適用）</td>
@@ -160,4 +161,41 @@ Analytics區段提供可分析行銷工作績效的全域報表。 瞭解導覽�
     <li>考慮使用 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations" target="_blank">報表設定標籤中的「分段」篩選器</a> 並依據以下條件將報告資料分組： <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation" target="_blank">區段</a> （例如，人員來源、產業）用於您的參與計畫。 這有助於深入瞭解每個區段的參與模式，引導您進行策略變更以改進參與計畫（內容、串流、串流順序等）。</li></td>
   </tr>
 </tbody>
+</table>
+
+含有工作專案符號的表格
+
+<table>
+<tbody>
+<tr>
+    <td>群組報表</td>
+    <td><img src="assets/note-icon.png" alt="附註圖示"> 附註：文字。
+    <p>
+    <li>文字。</li>
+    <li>文字。
+    <ul><li>文字</li>
+    <li>文字</li></ul>
+    <li>文字。</li>
+    <li>文字。</li>
+    <p><img src="assets/tip-icon.png" alt="附註圖示"> 提示：文字。</td>
+  </tr>
+  </tbody>
+</table>
+
+測試修正1
+
+<table>
+<tbody>
+<tr>
+    <td>人員績效報表</td>
+    <td><img src="assets/note-icon.png" alt="附註圖示"> 注意：建議您最好要 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">管道和標籤策略</a> 每個實施Marketo Engage的專案，您才能依管道追蹤已獲得的人員以及行銷投資的ROI。
+    <p>
+    <li>決定您將用來測量潛在客戶贏取計畫績效的標準，並根據這些量度建立以時間為基礎的標準報表（今年度、最近滾動的12個月檢視或180天）：</li>
+    <ul><li>贏取方案：為取得人員而記入點數的Marketo Engage方案</li>
+    <li>個人來源：資料庫瞭解記錄的來源類別（根據CRM中的來源值清單）</li></ul>
+    <li>按周或月建立測量人員。 此報告可提供資料庫成長率的測量值，以及您是否接近資料庫大小限制。</li>
+    <li>人員績效報表中的量度篩選依據 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">使用您的智慧列示作為自訂欄。</a></li>
+    <p><img src="assets/tip-icon.png" alt="附註圖示"> 提示：為您要新增至資料庫中「人員績效報表」的自訂欄（而非「行銷活動」）建立「智慧列示」，以便在報表中選取「智慧列示」名稱時，能夠正確且清楚地看到該名稱。</td>
+  </tr>
+  </tbody>
 </table>
