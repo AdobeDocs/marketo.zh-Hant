@@ -3,7 +3,7 @@ description: 瞭解實作新Marketo Engage執行個體時的最佳實務。 持�
 title: 從何處開始
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: abd80b3370f7fd107a6ae55edfeb17c3eeb358ec
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -51,3 +51,4 @@ ht-degree: 0%
 1. 按一下 **繼續使用Adobe ID** 並在登入頁面上選取您的主要訂閱。
 1. 登入後，請完成您的社群設定檔。
 1. 提交資訊後，即可進入社群首頁，一切準備就緒！
+
