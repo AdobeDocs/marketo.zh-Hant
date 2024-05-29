@@ -1,10 +1,8 @@
 ---
 description: 為您新的Marketo Engage執行個體設定Analytics區段。
 title: 新執行個體最佳實務 — 分析檢查清單
-hide: true
-hidefromtoc: true
 feature: Getting Started
-source-git-commit: 00656b2167435d51da55537d251d84910002e46d
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
 source-wordcount: '1393'
 ht-degree: 0%

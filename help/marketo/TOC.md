@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
 source-wordcount: '9358'
 ht-degree: 0%
@@ -24,8 +24,8 @@ ht-degree: 0%
       + [從何處開始](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
       + [新執行個體最佳實務：管理員區段檢查清單](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
       + [新執行個體最佳實務：資料庫檢查清單](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [新執行個體最佳實務：行銷活動檢查清單](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [新執行個體最佳實務：Design Studio檢查清單](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [新執行個體最佳實務：行銷活動檢查清單](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [新執行個體最佳實務：Analytics檢查清單](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [新執行個體最佳實務：記錄您的設定](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 須知 {#things-to-know}
@@ -51,8 +51,8 @@ ht-degree: 0%
       + [從何處開始](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)
       + [繼承執行個體：管理員區段檢查清單](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
       + [繼承的執行個體：資料庫檢查清單](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
-      + [繼承例項：行銷活動檢查清單](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
       + [繼承例項：Design Studio檢查清單](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+      + [繼承例項：行銷活動檢查清單](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
       + [繼承的執行個體：記錄您的設定](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [檢閱核心技能](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + 產品檔案 {#product-docs}

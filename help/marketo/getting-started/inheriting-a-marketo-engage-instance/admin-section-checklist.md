@@ -3,9 +3,9 @@ description: 繼承執行個體管理員檢查清單 — Marketo檔案 — 產�
 title: 繼承執行個體管理員檢查清單
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '1846'
+source-wordcount: '1858'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 
 >[!NOTE]
 >
->這僅適用於已上線的Marketo Engage訂閱 [AdobeIdentity Management系統(IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} 在「Marketo Engage>管理員>使用者和角色」中。
+>這僅適用於已上線的Marketo Engage訂閱 [AdobeIdentity Management系統(IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. 如果您的訂閱尚未上線Adobe IMS，請繼續進行 [舊版使用者角色和許可權體驗](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} 在「Marketo Engage>管理員>使用者和角色」中。
 
 <table> 
  <tbody> 
@@ -381,7 +381,3 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[稽核繼承的執行個體：資料庫►定](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)

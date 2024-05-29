@@ -2,10 +2,10 @@
 description: 繼承執行個體資料庫檢查清單 — Marketo檔案 — 產品檔案
 title: 繼承的執行個體資料庫檢查清單
 feature: Getting Started
-exl-id: efb126af-770c-4ce1-a131-0f3f66dfeafb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '420'
 ht-degree: 1%
 
 ---
@@ -115,9 +115,3 @@ ht-degree: 1%
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[◄稽核繼承的執行個體：管理員](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
-
-[稽核繼承的執行個體：行銷活動►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
