@@ -3,9 +3,9 @@ description: 新增或移除聊天使用者 — Marketo檔案 — 產品檔案
 title: 新增或移除聊天使用者
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
+source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '264'
 ht-degree: 1%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 1%
 # 新增或移除聊天使用者 {#add-or-remove-chat-users}
 
 請依照下列步驟新增或移除聊天使用者。
+
+>[!NOTE]
+>
+>依預設，所有Marketo Engage管理員都會獲得Dynamic Chat中的管理員許可權。
 
 ## 新增聊天使用者 {#add-a-chat-user}
 

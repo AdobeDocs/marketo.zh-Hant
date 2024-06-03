@@ -3,9 +3,9 @@ description: Dynamic Chat常見問題集 — Marketo檔案 — 產品檔案
 title: Dynamic Chat常見問題集
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '873'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Dynamic Chat常見問題集 {#dynamic-chat-faq}
 
 請參閱下方的Dynamic Chat相關常見問題解答。
+
+**我似乎無法存取Dynamic Chat。 我要如何取得？**
+
+請洽詢您的Marketo Engage管理員，確認他們已 [已將您新增為使用者](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} Adobe Admin Console中。
 
 **我可以在公司網站上的任何地方安裝Dynamic Chat，還是只能在Marketo登陸頁面上使用？**
 
