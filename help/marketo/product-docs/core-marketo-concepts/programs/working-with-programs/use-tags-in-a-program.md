@@ -6,8 +6,8 @@ exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
 source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 4%
+source-wordcount: '139'
+ht-degree: 2%
 
 ---
 
@@ -19,50 +19,50 @@ ht-degree: 4%
 
 1. 選取您的程式。 按一下 **設定**.
 
-   ![](assets/use-tags-in-a-program-1.png)
+   ![](assets/image2014-9-23-15-3a45-3a0.png)
 
 1. 將標籤拖放至畫布上。
 
-   ![](assets/use-tags-in-a-program-2.png)
+   ![](assets/image2014-9-23-15-3a45-3a13.png)
 
 1. 從下拉式清單中選取值。
 
-   ![](assets/use-tags-in-a-program-3.png)
+   ![](assets/image2014-9-23-15-3a45-3a30.png)
 
 1. 按一下&#x200B;**保存**。
 
-   ![](assets/use-tags-in-a-program-4.png)
+   ![](assets/image2014-9-23-15-3a45-3a36.png)
 
 1. 右上。 您會在畫布中看到新標籤。
 
-   ![](assets/use-tags-in-a-program-5.png)
+   ![](assets/image2014-9-23-15-3a45-3a47.png)
 
 ## 編輯標籤 {#edit-a-tag}
 
 1. 前往 **設定** 標籤。 以滑鼠右鍵按一下標籤。 選取 **編輯**.
 
-   ![](assets/use-tags-in-a-program-6.png)
+   ![](assets/image2014-9-23-15-3a45-3a53.png)
 
 1. 按一下下拉式清單。 選取新值。
 
-   ![](assets/use-tags-in-a-program-7.png)
+   ![](assets/image2014-9-23-15-3a46-3a12.png)
 
 1. 按一下&#x200B;**保存**。
 
-   ![](assets/use-tags-in-a-program-8.png)
+   ![](assets/image2014-9-23-15-3a46-3a25.png)
 
 1. 太棒了！ 您應該會看到所做的編輯反映在畫布中。
 
-   ![](assets/use-tags-in-a-program-9.png)
+   ![](assets/image2014-9-23-15-3a46-3a35.png)
 
 ## 刪除標籤  {#delete-a-tag}
 
 1. 前往 **設定** 標籤。 以滑鼠右鍵按一下標籤，然後選取 **刪除**.
 
-   ![](assets/use-tags-in-a-program-10.png)
+   ![](assets/image2014-9-23-15-3a46-3a55.png)
 
 1. 按一下 **刪除** 以確認。
 
-   ![](assets/use-tags-in-a-program-11.png)
+   ![](assets/image2014-9-23-15-3a47-3a8.png)
 
-做得很好！具有一致標籤的程式可讓您在執行報表時更輕鬆。
+擊掌！ 現在已不存在。 具有一致標籤的程式可讓您在執行報表時更輕鬆。

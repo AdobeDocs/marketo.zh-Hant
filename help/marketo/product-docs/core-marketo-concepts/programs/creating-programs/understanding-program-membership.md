@@ -4,7 +4,7 @@ description: 瞭解計畫成員資格 — Marketo檔案 — 產品檔案
 title: 瞭解計畫會員資格
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo現在正對所有訂閱的語言進行標準化，因此您可能會在訂閱中看到銷售機會/銷售機會，並在我們的檔案中看到相關人員。 這些詞語的意思相同；它不會影響文章指示。 此外也有其他變更。 [深入了解](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md){target="_blank"}.
+>Marketo現在正對所有訂閱的語言進行標準化，因此您可能會在訂閱中看到銷售機會/銷售機會，並在我們的檔案中看到相關人員。 這些詞語的意思相同；它不會影響文章指示。 此外也有其他變更。 [瞭解更多](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -64,5 +64,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [在程式中使用標籤](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md){target="_blank"}
+>* [在程式中使用標籤](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}
 >* [建立方案效能報表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

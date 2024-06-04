@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
 workflow-type: tm+mt
 source-wordcount: '9358'
 ht-degree: 0%
@@ -410,7 +410,7 @@ ht-degree: 0%
             + [將SFDC促銷活動與程式同步](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
             + [瞭解期間成本](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
             + [瞭解標籤](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
-            + [在程式中使用標籤](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
+            + [在程式中使用標籤](product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md)
             + [在程式中使用期間成本](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + 程式庫 {#program-library}
             + [程式匯入程式庫概觀](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
