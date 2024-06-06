@@ -3,9 +3,9 @@ description: AdobeIdentity Management概觀 — Marketo檔案 — 產品檔案
 title: AdobeIdentity Management概觀
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 1defe6e8c7b4e458203169150ec77df4f615e5d2
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo支援無法提供任何有關Adobe IMS移轉的更新。 Adobe客戶團隊將在未來幾個月提出預估時間表。 如需詳細資訊，請參閱 [本文](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+>Marketo支援無法提供任何有關Adobe IMS移轉的更新。 Adobe客戶團隊將在未來幾個月提出預估時間表。 如需詳細資訊，請參閱 [本文](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}，以及 [常見問題](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 對於上架到Adobe身分的訂閱，Adobe Admin Console會用於使用者管理。 身分相關概念（例如單一登入）也會在Admin Console中管理。
 
@@ -46,8 +46,8 @@ ht-degree: 0%
 </td>
  </tr>
  <tr>
-  <td><strong>Marketo Engage產品管理員</strong></td>
-  <td>獲授具有管理許可權之Marketo Engage存取許可權的人員。 已在Marketo Engage中授與角色，而非Adobe Admin Console。</td>
+  <td><strong>Marketo Engage管理員</strong></td>
+  <td>獲授具有管理許可權之Marketo Engage存取許可權的人員。 已授與Marketo Engage的角色，而非Adobe Admin Console （在中只顯示為「管理員」） <b>編輯使用者</b> 強制回應視窗)。</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage使用者</strong></td>
