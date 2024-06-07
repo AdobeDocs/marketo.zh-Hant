@@ -4,9 +4,9 @@ description: 發行說明 — 2014年6月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年6月
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 潛在客戶Rest API {#lead-rest-api}
 
-透過新的ReST API，以程式設計方式建立、讀取和更新銷售機會。 若要開始使用ReST，您必須 [建立自訂服務](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) 在Marketo中。 然後前往 [開發人員網站](https://developers.marketo.com/documentation/rest/) 以取得有關使用此API的詳細資訊。
+透過新的ReST API，以程式設計方式建立、讀取和更新銷售機會。 若要開始使用ReST，您必須 [建立自訂服務](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) 在Marketo中。 然後前往 [開發人員網站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/) 以取得有關使用此API的詳細資訊。
 
 ## Marketo Real-Time Personalization (RTP)促銷活動頁面更新 {#marketo-real-time-personalization-rtp-campaigns-page-update}
 

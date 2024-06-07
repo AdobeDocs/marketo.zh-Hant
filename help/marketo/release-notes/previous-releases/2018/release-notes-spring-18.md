@@ -4,7 +4,7 @@ description: 發行說明–2018年春季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2018年春季
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 0%
@@ -77,12 +77,12 @@ ht-degree: 0%
 
 ## 整合與API {#integration-and-apis}
 
-[靜態清單API](https://developers.marketo.com/rest-api/assets/static-lists/)
+[靜態清單API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
 
 使用新的雙向API，即可在遠端建立、讀取、更新和刪除靜態清單，且無需在Marketo UI中採取任何動作，即可更輕鬆地管理Marketo與其他系統之間的清單。
 
 ## 隱私權增強功能 {#privacy-enhancements}
 
-[網路追蹤隱私權](https://developers.marketo.com/javascript-api/lead-tracking/)
+[網路追蹤隱私權](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
 
 增強型Munchkin追蹤會匿名處理網頁訪客的IP位址，並允許他們永久退出網頁追蹤，以符合當地及國際的隱私權法規。

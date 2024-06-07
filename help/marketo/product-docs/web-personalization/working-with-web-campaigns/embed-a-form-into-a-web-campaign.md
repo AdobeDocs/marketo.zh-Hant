@@ -4,9 +4,9 @@ description: 將表單內嵌至網站行銷活動 — Marketo檔案 — 產品�
 title: 將表單內嵌至網站行銷活動
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 若要變更「設定促銷活動」中的對話方塊或Widget顏色：
 
-1. 在RTF編輯器中，選取對話方塊促銷活動型別和對話方塊樣式、標題顏色和背景顏色，以自訂表單的背景顏色。 按一下 **儲存**.
+1. 在RTF編輯器中，選取對話方塊促銷活動型別和對話方塊樣式、標題顏色和背景顏色，以自訂表單的背景顏色。 按一下&#x200B;**保存**。
 
    ![](assets/image2015-12-29-18-3a28-3a31.png)
 
@@ -85,4 +85,4 @@ ht-degree: 0%
 >
 >* [編輯表單主題的CSS](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [顯示感謝訊息，但不提供後續登陸頁面](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

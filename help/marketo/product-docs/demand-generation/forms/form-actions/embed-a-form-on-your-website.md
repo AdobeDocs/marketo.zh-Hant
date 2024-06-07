@@ -4,9 +4,9 @@ description: 將表單內嵌至您的網站 — Marketo檔案 — 產品檔案
 title: 在您的網站上內嵌表單
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,6 @@ Marketo可讓您將我們的表單內嵌在您自己的網站上。 以下說明
 
 >[!NOTE]
 >
->如果您的開發人員想要自訂外觀或存取進階API函式，請向他們顯示 [Forms 2.0開發人員頁面](https://developers.marketo.com/documentation/websites/forms-2-0/).
+>如果您的開發人員想要自訂外觀或存取進階API函式，請向他們顯示 [Forms 2.0開發人員頁面](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
 
 做得好！您是否希望 [內嵌程式碼以包含Lightbox程式碼](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)？ 這也很容易！

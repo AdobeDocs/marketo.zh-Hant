@@ -4,9 +4,9 @@ description: 發行說明 — 冬季』16年 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2016年冬
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
@@ -49,13 +49,13 @@ Lead資料庫已更新Summary Dashboard，其中包含人員資料庫大小總�
 
 ## [行動裝置行銷增強功能](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap支援：** 我們現在為您的行動應用程式提供PhoneGap支援。 [深入了解](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**PhoneGap支援：** 我們現在為您的行動應用程式提供PhoneGap支援。 [瞭解更多](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
 
 **支援沙箱應用程式**：
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [程式API](https://developers.marketo.com/documentation/programs/) {#program-api}
+## [程式API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
 透過REST API建立、更新和復製程式。 這不包括方案中智慧列示和智慧行銷活動的建立或更新作業。
 

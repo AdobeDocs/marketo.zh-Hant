@@ -4,9 +4,9 @@ description: 追蹤匿名活動和人員 — Marketo檔案 — 產品檔案
 title: 追蹤匿名活動和人員
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    * 按一下 [Marketo電子郵件中的連結](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
    * 填寫Marketo [表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md).
-   * 使用Marketo的 [REST API](https://developers.marketo.com/rest-api/lead-database/leads/) 或 [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API （適用於開發人員），將匿名活動與已知記錄建立關聯。
+   * 使用Marketo的 [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) 或 [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) API （適用於開發人員），將匿名活動與已知記錄建立關聯。
 
    資料庫中的一個名稱可能與許多Cookie繫結，因為人們經常使用不同的裝置和瀏覽器來造訪您的網站。
 

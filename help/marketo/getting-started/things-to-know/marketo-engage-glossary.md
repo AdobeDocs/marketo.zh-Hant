@@ -3,9 +3,9 @@ description: Marketo Engage字彙表 — Marketo檔案 — 產品檔案
 title: Marketo Engage字彙表
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '4085'
+source-wordcount: '4083'
 ht-degree: 1%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 1%
    <td>從未填寫表單或在網站上保留詳細資訊的網站訪客。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="https://developers.marketo.com/" rel="nofollow">應用程式設計介面</a> (API)</strong></td> 
+   <td colspan="1"><strong><a href="https://developer.adobe.com/marketo-apis/" rel="nofollow">應用程式設計介面</a> (API)</strong></td> 
    <td colspan="1">一組預先定義的通訊協定，用於在作業系統或應用程式(在此例中為Marketo)中執行單一或大量功能。</td> 
   </tr> 
   <tr> 
@@ -151,7 +151,7 @@ ht-degree: 1%
    <td>已開啟且有連結在電子郵件中點按的電子郵件百分比。 這會測量電子郵件的相關性和內容，方法是使用不重複點按次數除以不重複開啟次數，然後乘以100以百分比顯示。</td> 
   </tr> 
   <tr> 
-   <td><strong>點擊數</strong></td> 
+   <td><strong>點按次數</strong></td> 
    <td>依預設，電子郵件中的連結內嵌追蹤，可讓您檢視誰點按了哪個連結、點選連結總數等。</td> 
   </tr> 
   <tr> 
@@ -260,7 +260,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><strong>檔案</strong></td> 
-   <td colspan="1">檔案簡稱，檔案是協助客戶進一步瞭解產品的文章。 Marketo有數種不同型別的檔案：產品檔案（您目前所在的網站）、 <a href="https://developers.marketo.com/" rel="nofollow">開發人員</a> 檔案，以及 <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">支援</a> 檔案。</td> 
+   <td colspan="1">檔案簡稱，檔案是協助客戶進一步瞭解產品的文章。 Marketo有數種不同型別的檔案：產品檔案（您目前所在的網站）、 <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">開發人員</a> 檔案，以及 <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">支援</a> 檔案。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>網域型訊息驗證、報告和符合性(DMARC)</strong></td> 
@@ -362,7 +362,7 @@ ht-degree: 1%
    <td colspan="1">當ISP將收件者的投訴轉寄給傳送電子郵件的組織時。</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md" rel="nofollow"><strong>篩選</strong></a></td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md" rel="nofollow"><strong>篩選器</strong></a></td> 
    <td>使用於中的工具 <strong>智慧清單</strong> 這可讓您縮小對象範圍（例如，資料庫中住在加州的所有人）。 篩選器可用於兩者 <strong>批次</strong> 和 <strong>觸發行銷活動</strong>.</td> 
   </tr> 
   <tr> 
@@ -443,7 +443,7 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>已知人員</strong></a></td> 
-   <td><p>Marketo中的任何人員資料 <strong>資料庫</strong> 視為已知人員資料。 使用者有多種方式可輸入您的資料庫，包括：CRM同步、填寫表單、清單匯入/手動輸入、程式化（rest API/合作夥伴整合）等等。 網站訪客最初 <strong>cookie</strong> （和為匿名），透過Marketo <strong>Munchkin</strong> 網路追蹤，接著在可識別動作發生時，對應至對應的已知個人記錄(例如，按一下Marketo電子郵件中的追蹤連結、填寫具有電子郵件地址的表單，或透過兩者中的Marketo關聯銷售機會API手動對應) <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> 和 <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a></p></td> 
+   <td><p>Marketo中的任何人員資料 <strong>資料庫</strong> 視為已知人員資料。 使用者有多種方式可輸入您的資料庫，包括：CRM同步、填寫表單、清單匯入/手動輸入、程式化（rest API/合作夥伴整合）等等。 網站訪客最初 <strong>cookie</strong> （和為匿名），透過Marketo <strong>Munchkin</strong> 網路追蹤，接著在可識別動作發生時，對應至對應的已知個人記錄(例如，按一下Marketo電子郵件中的追蹤連結、填寫具有電子郵件地址的表單，或透過兩者中的Marketo關聯銷售機會API手動對應) <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a> 和 <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -534,7 +534,7 @@ ht-degree: 1%
    <td>亦稱為MSD。 Marketo與原生整合的兩種CRM之一(請參閱 <a href="#c"><strong>CRM</strong></a>)。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
    <td>Marketo的自訂JavaScript追蹤程式碼。 它會追蹤造訪您網站的所有個人。 這包括匿名訪客（連同其IP位址和其他資訊）。 </td> 
   </tr> 
   <tr> 

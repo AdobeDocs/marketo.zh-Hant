@@ -4,10 +4,10 @@ description: 瞭解程式中的我的Token - Marketo檔案 — 產品檔案
 title: 瞭解程式中的我的Token
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 我的Token顯示如下： `{{my.Name Of Token}}`
 
-範例:
+範例：
 
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
@@ -46,7 +46,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>電子郵件指令碼 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>使用此代號在您的電子郵件中執行Velocity指令碼。 瞭解更多 <a href="https://developers.marketo.com/documentation/email-scripting/" title="關注連結" rel="nofollow">此處</a>. </td> 
+   <td>使用此代號在您的電子郵件中執行Velocity指令碼。 瞭解更多 <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="關注連結" rel="nofollow">此處</a>. </td> 
   </tr> 
   <tr> 
    <td>數字<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 

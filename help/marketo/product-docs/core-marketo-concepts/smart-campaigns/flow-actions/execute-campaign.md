@@ -3,9 +3,9 @@ description: 執行行銷活動 — Marketo檔案 — 產品檔案
 title: 執行行銷活動
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '706'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **API互動**
 
-使用排程或請求行銷活動時 [在API中](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch)，兩者都可讓您傳入「我的Token」的值，覆寫針對您呼叫之行銷活動中這些Token設定的值。 如果該行銷活動接著執行另一個行銷活動並設定「使用父項內容為True」，則它會使用透過API傳遞的值，而不是應用程式中設定的值。
+使用排程或請求行銷活動時 [在API中](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)，兩者都可讓您傳入「我的Token」的值，覆寫針對您呼叫之行銷活動中這些Token設定的值。 如果該行銷活動接著執行另一個行銷活動並設定「使用父項內容為True」，則它會使用透過API傳遞的值，而不是應用程式中設定的值。
 
 ## 注意事項 {#things-to-note}
 

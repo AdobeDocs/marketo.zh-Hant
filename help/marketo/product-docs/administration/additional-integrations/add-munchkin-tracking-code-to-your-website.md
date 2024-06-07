@@ -4,7 +4,7 @@ description: '"新增 [!DNL Munchkin] 追蹤程式碼至您的網站 — Marketo
 title: '"新增 [!DNL Munchkin] 將追蹤程式碼移至您的網站」'
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: bb9593ab500d57127f22b14757688d7521661e38
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '666'
 ht-degree: 0%
@@ -59,7 +59,7 @@ Marketo的自訂JavaScript追蹤程式碼，稱為 [!DNL Munchkin]，會追蹤�
 
    >[!TIP]
    >
-   >若是網站發生大量流量（亦即每月有數十萬次造訪），建議您不要追蹤匿名人員。 [瞭解更多](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"}.
+   >若是網站發生大量流量（亦即每月有數十萬次造訪），建議您不要追蹤匿名人員。 [瞭解更多](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking/){target="_blank"}.
 
 ## 使用多個工作區時新增追蹤程式碼 {#add-tracking-code-when-using-multiple-workspaces}
 

@@ -4,9 +4,9 @@ description: 建立 [!DNL Webhook] - Marketo檔案 — 產品檔案
 title: 建立 [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -49,10 +49,10 @@ ht-degree: 0%
 
    * **[!UICONTROL 請求型別]**：選取要使用的HTTP方法(DELETE、GET、PATCH、POST、PUT)。
 
-1. 按一下 **[!UICONTROL 建立]**。
+1. 按一下 **[!UICONTROL 建立]**.
 
    ![](assets/create-a-webhook-5.png)
 
 >[!NOTE]
 >
->進一步瞭解 [[!DNL Webhooks]](https://developers.marketo.com/documentation/webhooks/){target="_blank"} 深度剖析。
+>進一步瞭解 [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} 深度剖析。

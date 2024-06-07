@@ -3,9 +3,9 @@ description: 發行說明 — 2024年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2024年3月
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: fd92f5307880019f54bb2f1778093c110a53ed2c
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -61,6 +61,6 @@ ht-degree: 0%
 
 ## 公告 {#announcements}
 
-* **取得方案成員API修正**：最近已進行變更以修正的行為 [取得計畫成員](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Program_Members/getProgramMembersUsingGET){target="_blank"} 端點。 先前，當使用 `updatedAt` 篩選型別若要指定日期範圍，回應中可能會不包含在該範圍內更新的方案會籍記錄。 此外，指定日期範圍以外更新的方案會籍記錄也可能會不正確地包含在回應中。 這兩個問題都已解決。
+* **取得方案成員API修正**：最近已進行變更以修正的行為 [取得計畫成員](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Program-Members/operation/getProgramMembersUsingGET){target="_blank"} 端點。 先前，當使用 `updatedAt` 篩選型別若要指定日期範圍，回應中可能會不包含在該範圍內更新的方案會籍記錄。 此外，指定日期範圍以外更新的方案會籍記錄也可能會不正確地包含在回應中。 這兩個問題都已解決。
 
-* **帳戶分析瀏覽器外掛程式淘汰**：Adobe正在移除Target帳戶管理 [帳戶分析瀏覽器外掛程式](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on April 8, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
+* **帳戶分析瀏覽器外掛程式淘汰**：Adobe正在移除Target帳戶管理 [帳戶分析瀏覽器外掛程式](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} 於2024年4月8日在Chrome線上應用程式商店買賣。 現有使用者：您可以繼續使用外掛程式，直到您將您的Marketo Engage執行個體移轉至Adobe身分和Admin Console為止。 此變更 **將不會影響** Marketo Engage內的任何其他TAM功能/資料，或搭配Sales Insight使用的Chrome和Outlook電子郵件外掛程式。 [瞭解更多](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.

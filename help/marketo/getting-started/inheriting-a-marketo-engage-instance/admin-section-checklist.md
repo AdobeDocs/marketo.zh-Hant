@@ -3,7 +3,7 @@ description: 繼承執行個體管理員檢查清單 — Marketo檔案 — 產�
 title: 繼承執行個體管理員檢查清單
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '1858'
 ht-degree: 1%
@@ -281,7 +281,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
    <td>Munchkin</td> 
    <td><li>是您的 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin追蹤程式碼</a> (而非Marketo Engage登陸頁面)？</li>
 <li>是 <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">不要追蹤</a> 瀏覽器請求已啟用？</li>
-<li>是您的 <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 已設定？ 
+<li>是您的 <a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/javascriptapi/lead-tracking.html" target="_blank">Munchkin API</a> 已設定？ 
 <p><img src="assets/tip-icon.png" alt="提示圖示">提示：如果您遺失munchkin程式碼在網站上的位置檔案，可以透過建立 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">網頁活動報表</a>.</li></td>
   </tr>
   <tr> 

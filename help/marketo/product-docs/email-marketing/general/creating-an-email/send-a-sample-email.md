@@ -4,9 +4,9 @@ description: 傳送範例電子郵件 — Marketo檔案 — 產品檔案
 title: 傳送範例電子郵件
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >觸發欄位僅適用於使用下列專案的使用者： [電子郵件指令碼](https://developers.marketo.com/documentation/velocity-script/).
+   >觸發欄位僅適用於使用下列專案的使用者： [電子郵件指令碼](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## 根據區段傳送範例電子郵件 {#send-a-sample-email-based-on-a-segment}
 

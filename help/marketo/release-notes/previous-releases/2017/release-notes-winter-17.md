@@ -4,7 +4,7 @@ description: 發行說明–2017年冬季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2017年冬
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
-source-git-commit: d1187418ecc5fa0dc47e17471baf86955667c647
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [自訂物件匯入API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [自訂物件匯入API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Custom-Objects) {#custom-object-import-api}
 
 此API提供更快速的介面，可將自訂物件同步到Marketo中。 您可以將CSV、TSV或SSV試算表檔案匯入Marketo做為自訂物件。
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 
 影像URL和中繼資料現在用於內容自動探索程式。
 
-## [SDK增強功能](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [SDK增強功能](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 開發人員現在可透過新增的SDK API呼叫，進一步控制推送通知的傳送方式，進而允許開發人員移除推送代號。
 

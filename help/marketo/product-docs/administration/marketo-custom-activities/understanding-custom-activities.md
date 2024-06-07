@@ -4,9 +4,9 @@ description: 瞭解自訂活動 — Marketo檔案 — 產品檔案
 title: 瞭解自訂活動
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,6 @@ ht-degree: 0%
 
 步驟1： [建立自訂活動](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) 在您的Marketo帳戶中
 
-步驟2：接下來，貴組織中使用API的員工就可以開始實作。 如需詳細資訊，請參閱此處： [自訂活動API](https://developers.marketo.com/documentation/rest/add-custom-activities/)
+步驟2：接下來，貴組織中使用API的員工就可以開始實作。 如需詳細資訊，請參閱此處： [自訂活動API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 
 玩得開心！

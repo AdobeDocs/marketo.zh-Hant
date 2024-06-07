@@ -4,9 +4,9 @@ description: 網頁區段 — Marketo檔案 — 產品檔案
 title: 網頁區段
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '2031'
+source-wordcount: '2051'
 ht-degree: 0%
 
 ---
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->「具名帳戶清單」名稱旁方括弧內的數字，可作為「Web個人化」清單的索引參照 [讀取API](https://developers.marketo.com/documentation/websites/rtp-js-api/).
+>「具名帳戶清單」名稱旁方括弧內的數字，可作為「Web個人化」清單的索引參照 [讀取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **排除ISP**
 
@@ -262,7 +262,7 @@ Web Personalization會與您的Marketo資料庫整合，可讓您依據已知的
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **訪客類型**<br />
+* **訪客型別**<br />
   **行動作業系統**  — 從下拉式方塊中，選取一或多個列出的行動作業系統。 選取的行動作業系統會顯示於下方。
 
    * 訪客使用任何行動裝置
@@ -286,7 +286,7 @@ Web Personalization會與您的Marketo資料庫整合，可讓您依據已知的
 
 **使用者內容API**
 
-Web Personalization API呼叫  [如需詳細資訊，請參閱此處。](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Web Personalization API呼叫  [如需詳細資訊，請參閱此處。](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
@@ -302,7 +302,7 @@ Web Personalization API呼叫  [如需詳細資訊，請參閱此處。](https:/
 
 1. 在 **區段** 表格中，按一下編輯圖示( ![](assets/segment-edit.png))。 此 **設定區段** 頁面隨即開啟，內含選取的區段。
 1. 套用您想要對區段進行的任何編輯或變更。
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
 ## 刪除區段 {#delete-segments}
 
@@ -314,13 +314,13 @@ Web Personalization API呼叫  [如需詳細資訊，請參閱此處。](https:/
 
 >[!NOTE]
 >
->您無法刪除與行銷活動相關聯的區段。 首先，您需要刪除行銷活動，然後刪除區段。
+您無法刪除與行銷活動相關聯的區段。 首先，您需要刪除行銷活動，然後刪除區段。
 
 太棒了！ 現在您已瞭解區段區段，接下來來瞭解行銷活動。
 
 >[!MORELIKETHIS]
 >
->* [建立基本網頁區段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
->* [建立新的對話方塊網頁行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [建立新的In Zone網頁行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [建立新的Widget Web行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [建立基本網頁區段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [建立新的對話方塊網頁行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [建立新的In Zone網頁行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [建立新的Widget Web行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

@@ -4,9 +4,9 @@ description: 發行說明–2019年春季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2019年春季
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 * **輪候：** 新程式/事件狀態，可在您想要時等候成員 [擱置它們](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 直到空缺開啟。 這適用於與Marketo Classic中的事件計畫相關的管道，以及與Marketo Sky中的網路研討會計畫相關的事件和事件。 依預設，「輪候」與「已註冊」的步驟值相同。
 * **[自訂通訊限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**：管理員現在可以設定自訂每日或每週通訊限制。
-* **[Smart Campaign Asset API](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**：透過依據更新日期和ID擷取的智慧行銷活動記錄，讓您在Marketo外部的分析更為豐富。
+* **[Smart Campaign Asset API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**：透過依據更新日期和ID擷取的智慧行銷活動記錄，讓您在Marketo外部的分析更為豐富。
 * **電子郵件的HTTPS追蹤連結：** 對於已購買「追蹤連結的安全網域」的客戶，品牌追蹤連結現在可以在電子郵件中顯示為HTTPS。
 * **電子郵件傳遞能力Powerpack更新**：可標幟特定測試結果並加上註解、透過URL與利害關係人分享結果，以及追蹤變更以便在利害關係人編輯內容時檢視電子郵件的演化。
 

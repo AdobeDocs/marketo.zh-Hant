@@ -4,9 +4,9 @@ description: 發行說明 — 2014年12月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年12月
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ·合併銷售機會
 
-完整詳細資料將於發佈後提供： [developers.marketo.com](https://developers.marketo.com/)
+完整詳細資料將於發佈後提供： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 ## Munchkin Javascript相容性增強功能 {#munchkin-javascript-compatibility-enhancements}
 

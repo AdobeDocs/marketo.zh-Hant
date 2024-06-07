@@ -4,7 +4,7 @@ description: 發行說明 — 2014年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年7月
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Marketo Lead Management將更新為時尚現代的新外觀，並包含更新的
 
 ## ReST API中的清單作業 {#list-operations-in-the-rest-api}
 
-我們在ReST中新增了以下與清單作業相關的呼叫。 另請參閱 [developers.marketo.com](https://developers.marketo.com/documentation/rest/) 以取得完整檔案。
+我們在ReST中新增了以下與清單作業相關的呼叫。 另請參閱 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) 以取得完整檔案。
 
 * 依ID取得清單
 * 取得多個清單
@@ -78,7 +78,7 @@ Marketo Lead Management將更新為時尚現代的新外觀，並包含更新的
 
 ## RTP： JavaScript API增強功能 {#rtp-javascript-api-enhancements}
 
-新的RTP API呼叫可取得即時訪客資料，例如組織、產業、地點和區段代碼相符。 此外，將游標暫留在「區段」頁面中的區段名稱上，會顯示顯示區段代碼的工具提示。 請參閱我們的 [開發人員網站](https://developers.marketo.com/documentation/websites/rtp-js-api/) 以取得完整檔案。
+新的RTP API呼叫可取得即時訪客資料，例如組織、產業、地點和區段代碼相符。 此外，將游標暫留在「區段」頁面中的區段名稱上，會顯示顯示區段代碼的工具提示。 請參閱我們的 [開發人員網站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) 以取得完整檔案。
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

@@ -2,9 +2,10 @@
 description: 發行說明 — 2024年4月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2024年4月
 feature: Release Information
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---
@@ -73,7 +74,7 @@ Adobe Dynamic Chat專屬發行說明 [可在此處找到](/help/marketo/release-
 
 ## 公告 {#announcements}
 
-* **活動API更新**：4月26日起，我們將針對當您使用擷取活動時傳回的Web型活動和電子郵件型活動，新增數個屬性 [MARKETO REST API](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} 端點可檢閱每個活動的屬性詳細資料。
+* **活動API更新**：4月26日起，我們將針對當您使用擷取活動時傳回的Web型活動和電子郵件型活動，新增數個屬性 [MARKETO REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. 下列活動現在包含「瀏覽器」、「平台」、「裝置」和「使用者代理程式」屬性。 呼叫 [取得活動型別](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} 端點可檢閱每個活動的屬性詳細資料。
 
 **網頁型活動**
 

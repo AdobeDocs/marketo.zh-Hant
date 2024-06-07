@@ -4,9 +4,9 @@ description: 程式成員自訂欄位 — Marketo檔案 — 產品檔案
 title: 方案成員自訂欄位
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '416'
 ht-degree: 1%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 1%
 
 ## 觸發器和篩選器 {#triggers-and-filters}
 
-您可以透過以下方式在智慧清單中運用此程式特有的資料： [觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} and/or [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
+您可以透過以下方式在智慧清單中運用此程式特有的資料： [觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} 和/或 [篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
 
 ![](assets/six.png)
 
@@ -68,7 +68,7 @@ ht-degree: 1%
 * 程式成員物件最多可以有20個自訂欄位。 這些欄位適用於任何計畫。
 * 當您移除某個方案的成員時，如果他們的方案成員自訂欄位中有任何資料，則會從該欄位中清除該資料。
 * 若要檢視資料，請按一下方案中的成員索引標籤，並建立包含上述欄位的自訂檢視。
-* 透過匯入和匯出 [清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [API](https://developers.marketo.com/){target="_blank"} 支援。 匯出僅適用於「方案成員」清單，不適用於靜態清單。
+* 透過匯入和匯出 [清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} 和 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} 支援。 匯出僅適用於「方案成員」清單，不適用於靜態清單。
 * 合併兩個人時，將會使用獲勝者的方案成員自訂欄位資料。 但如果成功者沒有值，則會使用失敗者的值。
 * 計畫成員資訊欄位不允許變更型別。
 * 「方案成員」自訂欄位不支援「包含」智慧清單限制。

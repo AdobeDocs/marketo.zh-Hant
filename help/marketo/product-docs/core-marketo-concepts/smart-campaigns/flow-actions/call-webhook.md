@@ -4,9 +4,9 @@ description: 呼叫Webhook - Marketo檔案 — 產品檔案
 title: 呼叫Webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '76'
 ht-degree: 2%
 
 ---
@@ -25,7 +25,7 @@ Webhook可讓您與協力廠商服務互動。 透過在智慧行銷活動流程
 
 >[!NOTE]
 >
->瞭解許多有趣的事情 [Webhooks](https://developers.marketo.com/documentation/webhooks/){target="_blank"} 可以幫到您。
+>瞭解許多有趣的事情 [Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} 可以幫到您。
 
 ## 使用情況 {#usage}
 

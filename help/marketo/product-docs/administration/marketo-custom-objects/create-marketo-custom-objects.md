@@ -4,9 +4,9 @@ description: 建立Marketo自訂物件 — Marketo檔案 — 產品檔案
 title: 建立Marketo自訂物件
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '698'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >您可在建立這些欄位時加以編輯，但在儲存後，您只能編輯 [!UICONTROL 複數名稱] 欄位和 **[!UICONTROL 顯示在潛在客戶詳細資訊中]** 滑桿。
 
-1. 提取 **[!UICONTROL 顯示在潛在客戶詳細資訊中]** 滑桿移過以顯示 **[!UICONTROL 顯示]** 如果您想要檢視「資料庫」頁面上的自訂物件資料。 按一下 **[!UICONTROL 儲存]**.
+1. 提取 **[!UICONTROL 顯示在潛在客戶詳細資訊中]** 滑桿移過以顯示 **[!UICONTROL 顯示]** 如果您想要檢視「資料庫」頁面上的自訂物件資料。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/create-marketo-custom-objects-5.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo您只能透過清單匯入或 [API](https://developers.marketo.com/documentation/rest/).
+   >Marketo您只能透過清單匯入或 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## 為多對多結構建立自訂物件 {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -93,7 +93,7 @@ ht-degree: 0%
    >
    >您可在建立這些欄位時加以編輯，但在儲存後，您只能編輯 [!UICONTROL 複數名稱] 欄位和 **[!UICONTROL 顯示在潛在客戶詳細資訊中]** 滑桿。
 
-1. 提取 **[!UICONTROL 顯示在潛在客戶詳細資訊中]** 滑桿移過以顯示 **[!UICONTROL 顯示]** 如果您想要檢視「資料庫」頁面上的自訂物件資料。 按一下 **[!UICONTROL 儲存]**.
+1. 提取 **[!UICONTROL 顯示在潛在客戶詳細資訊中]** 滑桿移過以顯示 **[!UICONTROL 顯示]** 如果您想要檢視「資料庫」頁面上的自訂物件資料。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/create-marketo-custom-objects-11.png)
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo您只能透過清單匯入或 [API](https://developers.marketo.com/documentation/rest/).
+   >Marketo您只能透過清單匯入或 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 下一步是建立您的中介物件（請參閱下文）。 但在那之前，您需要建立一個欄位與之連結。
 
@@ -135,7 +135,7 @@ ht-degree: 0%
    >
    >您可在建立這些欄位時加以編輯，但在儲存後，您只能編輯 [!UICONTROL 複數名稱] 欄位和 [!UICONTROL 顯示在潛在客戶詳細資訊中] 滑桿。
 
-1. 提取 **[!UICONTROL 顯示在潛在客戶詳細資訊中]** 滑桿移過以顯示 **顯示** 如果您想要檢視「資料庫」頁面上的自訂物件資料。 按一下 **儲存**.
+1. 提取 **[!UICONTROL 顯示在潛在客戶詳細資訊中]** 滑桿移過以顯示 **顯示** 如果您想要檢視「資料庫」頁面上的自訂物件資料。 按一下&#x200B;**保存**。
 
    ![](assets/create-marketo-custom-objects-17.png)
 

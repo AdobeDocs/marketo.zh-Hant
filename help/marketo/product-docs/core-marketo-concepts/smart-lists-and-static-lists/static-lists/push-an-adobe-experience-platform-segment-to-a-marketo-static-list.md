@@ -3,7 +3,7 @@ description: 將Adobe Experience Platform區段推送至Marketo靜態清單 — 
 title: 將Adobe Experience Platform區段推送至Marketo靜態清單
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 0%
@@ -100,7 +100,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可以將屬性從Experience Platform對應至貴組織在Marketo Engage中可以存取的任何屬性。 使用 [說明API要求](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target="_blank"} 以擷取貴組織有權存取的屬性欄位。
+   >您可以將屬性從Experience Platform對應至貴組織在Marketo Engage中可以存取的任何屬性。 使用 [說明API要求](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} 以擷取貴組織有權存取的屬性欄位。
 
 1. 按一下「 」對應姓氏和公司名稱 **[!UICONTROL 新增對應]** 再次重複步驟15兩次，選擇 **[!UICONTROL 姓氏]** 然後 **[!UICONTROL companyName]**.
 
@@ -142,7 +142,7 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
-1. 按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 按一下 **[!UICONTROL 下一個]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 

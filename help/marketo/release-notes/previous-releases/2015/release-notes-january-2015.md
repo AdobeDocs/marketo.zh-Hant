@@ -4,9 +4,9 @@ description: 發行說明 — 2015年1月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2015年1月
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 * 依計畫ID取得銷售機會
 * 取得已刪除的銷售機會
 
-此外，Sync Lead也有新選項，可非同步寫入潛在客戶變更，以加快API呼叫速度。 完整詳細資料將於發佈後提供： [developers.marketo.com](https://developers.marketo.com)
+此外，Sync Lead也有新選項，可非同步寫入潛在客戶變更，以加快API呼叫速度。 完整詳細資料將於發佈後提供： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 **電子郵件指令碼自訂物件支援**
 
@@ -62,6 +62,6 @@ ht-degree: 0%
 1. 不含CDN的非同步標籤
 1. 不含CDN的同步標籤
 
-為獲得最佳效能，建議在下列時間後將標籤放在網頁標題的頂端 `<head>`. 所有標籤均允許使用 [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/). 如需如何部署RTP標籤的詳細資訊，請參閱 [此處](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+為獲得最佳效能，建議在下列時間後將標籤放在網頁標題的頂端 `<head>`. 所有標籤均允許使用 [RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). 如需如何部署RTP標籤的詳細資訊，請參閱 [此處](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

@@ -4,7 +4,7 @@ description: 發行說明 — 冬季』18年 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2018年冬季
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 0%
@@ -87,7 +87,7 @@ Marketo正在新增另一個日本資料來源用於「網頁個人化」，以�
 
 ## 整合 {#integration}
 
-**[啟用/停用Campaign API](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
+**[啟用/停用Campaign API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 此新API可讓您從遠端啟用和停用觸發程式行銷活動，因此您現在可以建立完全自動化的方案範本。 一次建立方案範本，然後自動複製、行銷宣傳品更新，現在則啟動/排程智慧型行銷活動。
 

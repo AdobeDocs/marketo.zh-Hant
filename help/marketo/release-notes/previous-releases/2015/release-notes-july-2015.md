@@ -4,7 +4,7 @@ description: 發行說明 — 2015年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2015年7月
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 **透過REST API存取公司物件**：REST API現在可讓您存取Marketo公司（亦即帳戶）物件。 這表示您可以讀取、更新及刪除您在Marketo中建立的公司物件，並使用更新後的銷售機會API將銷售機會與這類公司建立關聯。
 
-瞭解 [更多](https://developers.marketo.com/documentation/company-api/) （位於公司API參考指南中）。
+瞭解 [更多]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies)的參考指南。
 
 ## 存取電子郵件傳遞機制 {#access-email-deliverability}
 

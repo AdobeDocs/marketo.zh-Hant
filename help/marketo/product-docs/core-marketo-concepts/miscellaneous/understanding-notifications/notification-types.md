@@ -3,9 +3,9 @@ unique-page-id: 2953243
 description: 通知型別 — Marketo檔案 — 產品檔案
 title: 通知型別
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '237'
 ht-degree: 1%
 
 ---
@@ -60,4 +60,4 @@ CRM同步通知會針對CRM同步處理發現的關鍵問題提醒您，例如�
 
 >[!NOTE]
 >
->您可能會收到的部分錯誤碼概述於 [開發人員檔案](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
+>您可能會收到的部分錯誤碼概述於 [開發人員檔案](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

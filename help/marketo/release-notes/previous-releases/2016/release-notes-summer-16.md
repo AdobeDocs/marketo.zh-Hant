@@ -4,7 +4,7 @@ description: 發行說明 — 夏季16年 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2016年夏天
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 0%
@@ -100,11 +100,11 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 離線檢視內容分析和建議資料。
 
-## [電子郵件編輯器2.0的API支援](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [電子郵件編輯器2.0的API支援](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
 
 先前僅與v1.0電子郵件和範本相容的既有資產API，現在可供v2.0電子郵件資產使用。
 
-## [Marketo開發人員網站](https://developers.marketo.com/) {#marketo-developers-site}
+## [Marketo開發人員網站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 全新及改良！
 

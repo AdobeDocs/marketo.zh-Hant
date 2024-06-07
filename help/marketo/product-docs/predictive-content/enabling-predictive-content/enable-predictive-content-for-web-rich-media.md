@@ -4,9 +4,9 @@ description: 為網頁多媒體啟用預測性內容 — Marketo檔案 — 產�
 title: 為網頁多媒體啟用預測性內容
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 自訂Javascript程式碼並將其內嵌至您的網站  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-請參閱富媒體建議範本的檔案 [在Marketo開發人員網站上](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target="_blank"}. 以下說明如何自訂網站的範本。
+請參閱富媒體建議範本的檔案 [在Marketo開發人員網站上](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. 以下說明如何自訂網站的範本。
 
 將JavaScript程式碼貼到您網站中要顯示範本的位置。
 

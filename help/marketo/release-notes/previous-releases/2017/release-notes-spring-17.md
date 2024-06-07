@@ -4,9 +4,9 @@ description: 發行說明–2017年春季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2017年春季
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Marketo與LinkedIn Lead Gen Forms的整合會自動擷取銷售機會在Lead Gen
 
 ![](assets/four-281-29.png)
 
-## [大量擷取適用於人員和活動的API](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
+## [大量擷取適用於人員和活動的API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 輕鬆將大量人員和活動資料從Marketo傳輸至您的外部系統。
 
@@ -49,7 +49,7 @@ Marketo ABM現在可讓您在具名帳戶中建立最多10個自訂欄位。 您
 
 具名帳戶的分數可能大不相同。 Marketo ABM現在會自動計算每個評分的百分位數，因此您可以一眼看出每個具名帳戶與其他具名帳戶之間的排名。
 
-**[ABM帳戶清單API](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+**[ABM帳戶清單API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 利用豐富且強大的ABM合作夥伴整合，以及針對具名帳戶清單提供的增強API支援。
 

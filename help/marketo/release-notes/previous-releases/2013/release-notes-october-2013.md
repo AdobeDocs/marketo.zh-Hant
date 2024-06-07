@@ -4,9 +4,9 @@ description: 發行說明 — 2013年10月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2013年10月
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.com](https://developers.marketo.com) 適用於想建置整合至Marketo的開發人員。 您可以參考不同的整合選項，包括Munchkin JavaScript API、SOAP API程式碼範例、Webhook和電子郵件指令碼。 Java SDK也可在以下網址取得： [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) 適用於想建置整合至Marketo的開發人員。 您可以參考不同的整合選項，包括Munchkin JavaScript API、SOAP API程式碼範例、Webhook和電子郵件指令碼。 Java SDK也可在以下網址取得： [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## 已更新BrightTALK事件轉接器 {#updated-brighttalk-event-adapter}
 

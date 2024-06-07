@@ -4,9 +4,9 @@ description: 發行說明 — 2015年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2015年3月
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,9 @@ Revenue Explorer具有全新的外觀，以及全新的散射環圖型別！ 我
 
 ## 新資產REST API {#new-asset-rest-apis}
 
-[新資產REST API](https://developers.marketo.com/)
+[新資產REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-我們現在可支援建立和編輯電子郵件、範本、我的Token、檔案和程式碼片段 [透過API](https://developers.marketo.com/documentation/asset-api)！
+我們現在可支援建立和編輯電子郵件、範本、我的Token、檔案和程式碼片段 [透過API](https://developer.adobe.com/marketo-apis/api/asset/)！
 
 ## Microsoft Dynamics 2015內部部署 {#microsoft-dynamics-on-premise}
 

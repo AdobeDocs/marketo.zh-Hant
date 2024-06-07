@@ -3,16 +3,16 @@ description: 大量匯出API資訊 — Marketo檔案 — 產品檔案
 title: 大量匯出API資訊
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 # 大量匯出API資訊 {#bulk-export-api-information}
 
-瞭解如何檢查多少 [大量擷取API](https://developers.marketo.com/rest-api/bulk-extract/){target="_blank"} 過去七天，您的Marketo Engage執行個體已佔用容量。
+瞭解如何檢查多少 [大量擷取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} 過去七天，您的Marketo Engage執行個體已佔用容量。
 
 >[!NOTE]
 >
@@ -34,4 +34,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您的Marketo Engage執行個體的配置每天於中部標準時間凌晨12:00重設。
+>您的Marketo Engage執行個體的配置每天於中午12:00重設。
