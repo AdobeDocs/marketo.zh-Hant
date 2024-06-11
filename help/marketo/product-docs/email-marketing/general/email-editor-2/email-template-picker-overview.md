@@ -4,7 +4,7 @@ description: 電子郵件範本選取器概覽 — Marketo檔案 — 產品檔�
 title: 電子郵件範本選取器概觀
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 當您 [建立電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)，您有數個可用的範本可供選擇。 您也可以建立自己的範本，並儲存以供日後使用。
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-1.png)
 
 **名稱** 將是您根據範本建立的電子郵件名稱，而非範本本身。 **說明** 也會套用至電子郵件，且為選用。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 **入門範本** 包括立即可用的回應式電子郵件範本集合。 您可以照原樣使用，或根據您的喜好自訂這些功能。
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-4.png)
 
 **我的範本** 包含您已建立的所有範本。 您也可能有資料夾。
 

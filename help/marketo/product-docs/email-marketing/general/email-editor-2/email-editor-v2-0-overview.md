@@ -4,14 +4,14 @@ description: 電子郵件編輯器v2.0概覽 — Marketo檔案 — 產品檔案
 title: 電子郵件編輯器v2.0概覽
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
 
-# 電子郵件編輯器v2.0概覽 {#email-editor-v-overview}
+# 電子郵件編輯器v2.0概覽 {#email-editor-v2-overview}
 
 當您決定啟動電子郵件編輯器v2.0時，您會注意到幾個新功能。
 
@@ -19,63 +19,63 @@ ht-degree: 0%
 
 當您建立新電子郵件時，您會被帶到 [電子郵件範本選取器](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
-![](assets/starter-templates-1.png)
+![](assets/email-editor-v2-overview-1.png)
 
 **電子郵件編輯器**
 
 當您開始編輯電子郵件時，您會注意到編輯器有全新的外觀。
 
-![](assets/two-4.png)
+![](assets/email-editor-v2-overview-2.png)
 
 **模組**
 
 編輯器右側的這些專案稱為模組。 瞭解如何 [新增模組至您的電子郵件](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
-![](assets/three-4.png)
+![](assets/email-editor-v2-overview-3.png)
 
 **文字版本**
 
 現在，在電子郵件的HTML版本和文字版本之間切換，位於底部的方便索引標籤中。 瞭解如何 [編輯電子郵件的文字版本](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
-![](assets/four-3.png)
+![](assets/email-editor-v2-overview-4.png)
 
-**電子郵件標題**
+**電子郵件標頭**
 
 需要更多設計空間嗎？ 完成後，可以隱藏電子郵件標題 [編輯它](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). 只要按一下此圖示……
 
-![](assets/five-4.png)
+![](assets/email-editor-v2-overview-5.png)
 
 ...且標題會摺疊。
 
-![](assets/six-3.png)
+![](assets/email-editor-v2-overview-6.png)
 
 **預覽您的電子郵件**
 
 預設情況下，電子郵件會顯示它在案頭上的外觀，如反白顯示的藍色圖示所示。 如果您按一下右側的圖示……
 
-![](assets/seven-3.png)
+![](assets/email-editor-v2-overview-7.png)
 
 ...您將會看到電子郵件在行動裝置上的呈現方式。
 
-![](assets/eight-3.png)
+![](assets/email-editor-v2-overview-8.png)
 
 如需更大的預覽，請按一下 **預覽** 位於電子郵件的右上角。
 
-![](assets/preview1.png)
+![](assets/email-editor-v2-overview-9.png)
 
 預設檢視是案頭……
 
-![](assets/preview2.png)
+![](assets/email-editor-v2-overview-10.png)
 
 ...但您也可以檢視它在行動裝置上的外觀。 您也可以預覽文字版本！ 只需按一下 **編輯草稿** 以繼續編輯。
 
-![](assets/preview3.png)
+![](assets/email-editor-v2-overview-11.png)
 
 **電子郵件動作**
 
 在 **電子郵件動作**，您會發現一些新功能。 **上傳影像或檔案**、和 **從網頁抓取影像**. 您也可以將電子郵件本身儲存為新的電子郵件範本。 您只需為其指定名稱和目的地即可。
 
-![](assets/nine-3.png)
+![](assets/email-editor-v2-overview-12.png)
 
 >[!CAUTION]
 >
@@ -87,13 +87,13 @@ ht-degree: 0%
 
 **停用開啟追蹤** 在 **電子郵件設定**，您可以視需要停用開啟追蹤。
 
-![](assets/thirteen-1.png)
+![](assets/email-editor-v2-overview-13.png)
 
 **電子郵件設定**
 
 您可以選擇新增「預覽文字」。 預覽文字是當收件匣中檢視電子郵件時，主旨行之後的簡短摘要文字。
 
-![](assets/edit-settings-preheader-2.png)
+![](assets/email-editor-v2-overview-14.png)
 
 >[!CAUTION]
 >
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您想更深入探討，請參閱以下內容 [有用的影片](https://nation.marketo.com/videos/1463).
+>如果您想更深入探討，請參閱以下內容 [視訊](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
