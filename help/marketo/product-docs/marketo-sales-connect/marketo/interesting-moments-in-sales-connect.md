@@ -4,9 +4,9 @@ description: Sales Connect中的有趣時刻 — Marketo檔案 — 產品檔案
 title: Sales Connect中的有趣時刻
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3a3287ed20962a052e0015161e34e33a95dd450a
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,12 @@ ht-degree: 0%
 >[!AVAILABILITY]
 >
 >這些可用於 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) 和Marketo Sales Connect客戶。
+
+>[!PREREQUISITES]
+>
+>* 您必須擁有 [與Salesforce CRM的連線](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}
+>* 您必須是Salesforce中的銷售機會或聯絡負責人
+>* 您必須有權存取 [授予Marketo Engage連線的存取權](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}
 
 ## 什麼是有趣的時刻？ {#what-is-an-interesting-moment}
 
