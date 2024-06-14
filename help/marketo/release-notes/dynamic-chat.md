@@ -3,9 +3,9 @@ description: Dynamic Chat發行說明 — Marketo檔案 — 產品檔案
 title: Dynamic Chat發行說明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: cbf60ee8756996c554370604f95be7a2ffb1b959
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1472'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,26 @@ ht-degree: 0%
 Adobe Dynamic Chat版本會在持續傳遞模式上運作，允許以更可擴充的方法進行功能部署。 有時候一個月會有多個版本，所以請定期回來檢視最新的資訊。
 
 Marketo Engage的標準發行說明頁面 [可在此處找到](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## 2024年6月發行版本 {#june-release}
+
+**發行日期： 2024年6月6日**
+
+### 對話式流量卡 {#conversational-flow-card}
+
+運用對話流程卡，簡化對話方塊中流程的多個步驟。
+
+範例：如果您的目標是透過多個對話方塊推動網路研討會註冊，則必須在具有該目標的所有對話方塊中重新建立相同的流程。 如果您必須更新任何詳細資訊，則必須一次編輯一個對話方塊。 由於有對話流量卡，情況已完全不同。
+
+除了跨多個對話方塊重新利用流程之外，您還可以使用相同的轉變流程來觸發其他管道，例如表單和登陸頁面。
+
+![](assets/dynamic-chat-june-2024-release-1.png)
+
+### 使用量限制 {#usage-limits}
+
+使用限制頁面會顯示重要資訊，例如封裝詳細資訊和使用限制狀態。
+
+![](assets/dynamic-chat-june-2024-release-2.png)
 
 ## 2024年5月發行版本 {#may-release}
 

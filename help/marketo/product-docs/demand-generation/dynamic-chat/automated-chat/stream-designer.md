@@ -3,10 +3,10 @@ description: 串流設計工具 — Marketo檔案 — 產品檔案
 title: 流程設計工具
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: cb27e3ffb471358bc8a5c8d90582c6996c75bf61
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1212'
-ht-degree: 1%
+source-wordcount: '1229'
+ht-degree: 2%
 
 ---
 
@@ -67,6 +67,10 @@ ht-degree: 1%
  <tr>
   <td style="width:25%"><strong>條件分支</strong></td>
   <td>根據不同的條件，在對話方塊流程中建立分支。 根據潛在客戶和Marketo Engage中的公司屬性，在相同對話方塊中向不同人員呈現不同的內容。</td>
+ </tr>
+ <tr>
+  <td style="width:25%"><strong>交談流程</strong></td>
+  <td>使用對話流程卡簡化對話方塊中流程的多個步驟。</td>
  </tr>
 </table>
 
