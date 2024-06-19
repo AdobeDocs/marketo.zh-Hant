@@ -4,9 +4,9 @@ description: 建立收入總管報表 — Marketo檔案 — 產品檔案
 title: 建立收入總管報表
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: d270a06fb47fd3ed81845a0914439d6378c74046
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 >[!AVAILABILITY]
 >
 >並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+
+>[!IMPORTANT]
+>
+>由於發生錯誤，Revenue Cycle Explorer中的Trash資料夾已暫時隱藏。 我們目前正在進行修正，您的檔案是安全的。 請聯絡 [Adobe支援](https://nation.marketo.com/t5/support/ct-p/Support) 如果有任何檔案需要還原。
 
 1. 前往 **收入總管** 區域。
 
