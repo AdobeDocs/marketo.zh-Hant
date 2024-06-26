@@ -3,9 +3,9 @@ description: 代理程式管理 — Marketo檔案 — 產品檔案
 title: 代理程式管理
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
+source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,10 @@ ht-degree: 0%
 ## 團隊 {#teams}
 
 管理員可以建立代理程式團隊，以方便路由至特定的銷售代理程式群組。
+
+>[!AVAILABILITY]
+>
+>若要存取Teams，必須訂閱Dynamic Chat Prime。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 ![](assets/agent-management-3.png)
 
