@@ -4,18 +4,19 @@ description: 瞭解應用程式內訊息 — Marketo檔案 — 產品檔案
 title: 瞭解應用程式內訊息
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
 # 瞭解應用程式內訊息 {#understanding-in-app-messages}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->應用程式內傳訊是一項附加應用程式。 請向您的Marketo客戶經理確認是否已啟用。
+>
+>並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 使用應用程式內訊息，在客戶使用您的應用程式時直接與客戶互動。 當他們開啟或採取自訂動作時，您可以提供促銷優惠方案。 只要按一下，他們就會前往登陸頁面、外部網站或深層連結，瞭解更多資訊並購買。 或者，按一下滑鼠即可關閉訊息。  您也可以使用應用程式內訊息提醒客戶，例如，完成其設定檔，或通知他們新的應用程式功能。
 

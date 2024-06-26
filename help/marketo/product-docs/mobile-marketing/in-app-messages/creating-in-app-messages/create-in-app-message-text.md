@@ -4,9 +4,9 @@ description: 建立應用程式內訊息文字 — Marketo檔案 — 產品檔�
 title: 建立應用程式內訊息文字
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 建立應用程式內訊息文字 {#create-in-app-message-text}
 
 按一下文字區域以處理您的文字樣式和內容。
+
+>[!CAUTION]
+>
+>我們建議不要在文字中使用emoji，因為目前尚未完全支援它們。
 
 1. 按一下主文字以編輯內嵌。
 
@@ -53,7 +57,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >若是點選動作，您可以為Apple和Android平台設定不同的動作。 例如，Apple和Android對於深層連結的處理方式不同。 如果您的訊息只傳送到其中一個平台，您可以將另一個平台保留在預設設定中，或選取「無」。
+   >若是點選動作，您可以為Apple和Android平台設定不同的動作。 例如，Apple和Android的深層連結處理方式不同。 如果您的訊息只傳送到其中一個平台，您可以將另一個平台保留在預設設定中，或選取「無」。
 
 1. 按一下「支援文字」以內嵌編輯。 其運作方式與編輯主文字相同，但預設文字大小較小。
 
