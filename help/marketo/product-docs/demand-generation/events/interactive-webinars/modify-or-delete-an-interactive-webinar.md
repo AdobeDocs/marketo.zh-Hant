@@ -3,7 +3,7 @@ description: 修改或刪除互動式網路研討會 — Marketo檔案 — 產�
 title: 修改或刪除互動式網路研討會
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -64,7 +64,7 @@ ht-degree: 0%
    >
    >您也可以以滑鼠右鍵按一下樹狀結構中的「事件程式」，然後選取 **原地複製** 從那裡。
 
-1. 為複製的計畫命名、設定工作區和目的地（如果您希望計畫在其他地方存放），然後按一下 **儲存**.
+1. 為復製程式命名、設定Workspace和目的地（如果您希望程式在其他地方存放），然後按一下 **儲存**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 

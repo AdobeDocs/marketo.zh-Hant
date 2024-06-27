@@ -3,9 +3,9 @@ description: 電子郵件連線節流 — Marketo檔案 — 產品檔案
 title: 電子郵件連線節流
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,6 @@ ht-degree: 0%
 整合要透過Exchange或Gmail電子郵件供應商傳送的Sales Connect帳戶，提供簡化的設定，並最佳化一對一銷售通訊的電子郵件傳遞能力。 不過，為了維持系統健康且帳戶安全，Gmail和Exchange會強制實施電子郵件傳送限制。 這些限制可由提供者自行決定增加或減少。
 
 ## 電子郵件連線節流(Beta) {#email-connection-throttling-beta}
-
->[!AVAILABILITY]
->
->此功能目前在Beta版中提供。 若要加入，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 電子郵件連線節流可讓Sales Connect管理員設定使用Gmail或Exchange作為傳遞管道時電子郵件的傳送速率，如此一來，將電子郵件傳送給傳遞管道提供者的速率，便不會超過強制的限制。
 
@@ -53,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/email-connection-throttling-5.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/email-connection-throttling-6.png)
 

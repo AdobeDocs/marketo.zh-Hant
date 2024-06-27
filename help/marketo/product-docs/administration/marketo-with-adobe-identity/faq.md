@@ -3,9 +3,9 @@ description: AdobeIdentity Management常見問題集 — Marketo檔案 — 產�
 title: AdobeIdentity Management常見問題集
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
-source-wordcount: '1202'
+source-wordcount: '1279'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,16 @@ AdobeIdentity Management系統包含三個元件。
 **現有的Marketo Engage訂閱何時會與IMS整合？**
 
 現有的Marketo訂閱將在今年晚些時候移轉至Adobe的Identity Management系統。 Marketo支援將無法提供有關Adobe IMS移轉的任何更新。 Adobe客戶團隊將在未來幾個月提出預估時間表。
+
+**移轉後，Marketo EngageURL是否會維持不變？**
+
+不適用。 移轉後URL看起來會不同。 不過，資產的ID號碼會維持不變。 而且之前儲存的書籤仍會帶您前往正確位置。
+
+**我們需要做什麼來準備URL變更嗎？**
+
+有。洽詢您的IT團隊，確定他們將網域新增到下方（包括星號），以允許所有Marketo Engage資源和網路通訊端：
+
+_*.experience.adobe.com_
 
 **Adobe產品管理員和Marketo Engage管理員有何不同？**
 
