@@ -2,9 +2,10 @@
 description: 隨選網路研討會 — Marketo檔案 — 產品檔案
 title: 隨選網路研討會
 feature: Interactive Webinars
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
+source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -15,9 +16,9 @@ ht-degree: 0%
 
 在活動之前與註冊者共用的網路研討會加入URL可用於觀看隨選錄製。 一旦註冊者未參加即時活動（例如，方案狀態為「不顯示」的潛在客戶），按一下網路研討會加入URL，該潛在客戶的方案狀態將從「不顯示」變更為「已出席的隨選」。 如果他們決定造訪加入URL並觀看隨選錄製，則觀看活動直播且狀態為「已參加」的潛在客戶的方案狀態不受影響。
 
-Adobe Connect這項支援互動式網路研討會的技術，會追蹤瀏覽以及與觀看錄影的潛在客戶相關的觀看持續時間，並每日向Marketo報告資訊。 在事件發生30天後，您便可在「加入URL」中錄製。 無法修改持續時間。
+Adobe Connect這項技術支援互動式網路研討會，可追蹤瀏覽次數以及與觀看錄影的潛在客戶相關的觀看持續時間，並每日向Marketo Engage報告資訊。 對隨選網路研討會的追蹤會在事件發生30天後停止。 無法修改持續時間。
 
-Marketo在以下Widget的協助下，提供「儀表板」標籤上隨選網路研討會的觀看統計資料：
+Marketo Engage在以下Widget的協助下，提供「儀表板」標籤上隨選網路研討會的觀看統計資料：
 
 * 隨選摘要：提供在指定日期事件後觀看錄影的訪客計數（不顯示）摘要
 
