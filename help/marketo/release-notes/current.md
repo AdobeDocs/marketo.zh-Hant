@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 10a77a09f5ca9ce57e7a357fe1b6736b7bdb95e3
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 2%
+source-wordcount: '465'
+ht-degree: 1%
 
 ---
 
@@ -30,6 +30,39 @@ Adobe Dynamic Chat專屬發行說明 [可在此處找到](/help/marketo/release-
    <th style="width:65%">功能</th> 
    <th style="width:10%">狀態</th>
    <th style="width:25%">檔案</th>
+  </tr>
+     <tr> 
+   <td><strong>互動式網路研討會的參與儀表板</strong>：取得彙總網路研討會效能檢視以及在網路研討會期間每位出席者的參與度全面檢視，以便您可以透過Marketo Engage協調工具決定要鎖定哪些潛在客戶。</td> 
+    <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>互動式網路研討會的會議室管理</strong>：存取已建立的個別聊天室（並視需要進行修改），以及存取內容和錄製（並視需要清除這些聊天室，以最佳化儲存空間）。</td> 
+    <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>網路研討會互動式網路研討會的自訂</strong>：透過使用公共會議室介面、中間熒幕（例如與會者入門熒幕背景）以及自訂視訊背景，提供統一的組織核准品牌體驗，讓網路研討會策略可輕鬆與品牌策略一致。</td> 
+    <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
   </tr>
      <tr> 
    <td><strong>Marketo REST API變更</strong>：我們即將推出微幅變更 <a href="https://developers.marketo.com/rest-api/user-management/">使用者管理API</a>. 兩者 <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">瀏覽使用者</a> 和 <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">刪除使用者</a> 端點現在支援 <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">目標帳戶管理</a> 使用者。</td> 
