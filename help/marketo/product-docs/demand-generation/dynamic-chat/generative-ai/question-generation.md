@@ -3,9 +3,9 @@ description: 問題產生 — Marketo檔案 — 產品檔案
 title: 問題產生
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+source-git-commit: a711da0fe04e967bfc525be4f3df59d978021592
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ ht-degree: 0%
    >[!IMPORTANT]
    >
    >為了確保Marketo Engage可以從提供的URL中刮取內容，您必須先允許列出多個IP位址。 [如需詳細資訊，請參閱下文](#ip-addresses-to-allowlist).
+
+   >[!NOTE]
+   >
+   >網站/頁面必須是公開的（亦即不隱藏在登入後面），才能刮取其資訊。
 
 1. 根據您的內容，產生問題和回應最多可能需要30分鐘。 按一下 **[!UICONTROL 確定]**.
 
