@@ -4,22 +4,22 @@ description: 瞭解Smart Campaigns - Marketo檔案 — 產品檔案
 title: 瞭解Smart Campaign
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6dd6ce30dd90684ca685ae709cd9ab95e1c7d7e8
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 1%
+source-wordcount: '249'
+ht-degree: 2%
 
 ---
 
 # 瞭解Smart Campaign {#understanding-smart-campaigns}
 
-如果Marketo是一款功能強大的汽車，那麼智慧型行銷活動就是真正的引擎。 您可以輕鬆開始使用，但幾乎可以對它執行任何操作。
+如果Marketo Engage是汽車，Smart Campaign就是其引擎。 Smart Campaigns的功用超出您的想象，而且使用起來也相當容易。
 
-智慧行銷活動有3個主要區域： [智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} 索引標籤。
+Smart Campaign有3個主要區域： [智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}， [流量](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} 和 [排程](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} 索引標籤。
 
 ## 智慧清單 {#smart-list}
 
-智慧清單是您定義的方式 _誰_ 您想要以智慧行銷活動作為目標。 它有篩選器和觸發器。
+智慧清單是您定義的方式 _誰_ 您想要以Smart Campaign進行目標定位。 它有篩選器和觸發器。
 
 <table> 
  <tbody> 
@@ -29,7 +29,7 @@ ht-degree: 1%
    <th>說明</th> 
   </tr> 
   <tr> 
-   <td>篩選</td> 
+   <td>篩選器</td> 
    <td>已點按連結</td> 
    <td><p>收集批次中目前符合資格的所有人員。</p></td> 
   </tr> 
@@ -45,13 +45,13 @@ ht-degree: 1%
 
 ## 流程 {#flow}
 
-流程包括您希望智慧型行銷活動執行的步驟，包括等待步驟和分割選擇。
+流程包括您希望Smart Campaign執行的步驟，包括等待步驟和分割選擇。
 
 ## 排程 {#schedule}
 
-最後，這控制了您執行智慧行銷活動的時間。 您甚至可以設定週期，使其在重複排程中執行。
+最後，這會控制您執行Smart Campaign的時間。 您甚至可以設定週期，使其在重複排程中執行。
 
-智慧型行銷活動可執行的事情有很多。 掌握其中的奧秘，您就會發現Marketo中的所有內容變得更輕鬆理解。
+Smart Campaign可執行許多作業。 掌握其中的奧秘，您就會發現Marketo中的所有內容變得更輕鬆理解。
 
 >[!CAUTION]
 >
