@@ -3,16 +3,16 @@ description: Generative AI概述 — Marketo檔案 — 產品檔案
 title: Generative AI概述
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
+source-git-commit: 338f7ab16b3eea1a5d9777ca5283a1b1629376e6
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '445'
 ht-degree: 2%
 
 ---
 
 # Generative AI概述 {#generative-ai-overview}
 
-Adobe Dynamic Chat中的創作AI會即時處理意圖訊號、使用者偏好設定和過去行為，為聊天訪客產生相關的個人化訊息。
+Adobe Dynamic Chat中由創作AI支援的功能可讓您最佳化銷售代理商的生產力、取得您網站訪客意圖的深入分析，並以安全的方式回應訪客問題。
 
 ## 權限 {#permissions}
 
