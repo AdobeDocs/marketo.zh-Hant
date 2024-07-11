@@ -1,11 +1,12 @@
 ---
 description: 設定步驟 — Marketo檔案 — 產品檔案
+short-description: 剛開始使用Adobe Marketo Engage？ 瞭解在開始潛入前需要完成哪些步驟。
 title: 設定步驟
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '1675'
+source-wordcount: '1708'
 ht-degree: 0%
 
 ---
@@ -269,7 +270,7 @@ Marketo Engage有自訂追蹤JavaScript (稱為 [!DNL Munchkin])，可用來追�
 
 ## 效能期望 {#performance-expectations}
 
-Marketo的效能表現如何？ 其可能會因行銷活動的規模和複雜性而異。 但您可能會預期效能等級與「標準」欄中所列的相同，此欄位位位於以下表格中： [Marketo Engage產品說明](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Marketo的效能表現如何？ 其可能會因行銷活動的規模和複雜性而異。 但您可能會預期效能等級與「標準」欄中所列的相同，此欄位位位於以下表格中： [Marketo Engage產品說明](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. 「效能」和「效能加號」資料欄是指效能層套件，這些套件提供 [更高的效能等級](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

@@ -1,11 +1,12 @@
 ---
 description: Marketo Engage字彙表 — Marketo檔案 — 產品檔案
+short-description: 瞭解Marketo Engage辭彙及其定義，以協助您快速上手。
 title: Marketo Engage字彙表
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '4083'
+source-wordcount: '4098'
 ht-degree: 1%
 
 ---
@@ -52,7 +53,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>廣告網路整合 </strong></a></td> 
-   <td colspan="1">（前身為Ad Bridge）將Marketo的不重複受眾資料連結至付費媒體系統的方式，讓您可執行更具針對性的個人化數位廣告行銷活動。</td> 
+   <td colspan="1">(前身為Ad Bridge)將Marketo的不重複受眾資料連結至付費媒體系統的方式，讓您可執行更具針對性的個人化數位廣告行銷活動。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Adobe Marketo Engage</strong></td> 
@@ -72,7 +73,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><strong>已核准</strong></td> 
-   <td colspan="1">用於確認何時 <strong>資產</strong> 已準備好使用。 資產未經核准前，無法公開檢視。</td> 
+   <td colspan="1">用於確認何時 <strong>資產</strong> 已準備好使用。 Assets獲得核准後，才能公開檢視。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>資產</strong></td> 
@@ -128,7 +129,7 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Campaign</strong></td> 
-   <td colspan="1">「Campaign」在Marketo中可能代表一些意義。 A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">行銷活動</a> 是smart campaign的較短辭彙。 在 <strong>Marketo Sales Connect</strong>， <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">行銷活動</a> 是一系列的多管道通訊步驟。 在 <strong>網頁個人化</strong>，網頁 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">行銷活動</a> 是與特定區段相關聯的自訂反應。</td> 
+   <td colspan="1">「Campaign」在Marketo中可能代表一些意義。 A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">行銷活動</a> 是smart campaign的較短辭彙。 在 <strong>Marketo Sales Connect</strong>， <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">行銷活動</a> 是一系列的多管道通訊步驟。 在 <strong>網頁Personalization</strong>，網頁 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">行銷活動</a> 是與特定區段相關聯的自訂反應。</td> 
   </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">行銷活動電子郵件效能報表</a></strong></td> 
@@ -184,7 +185,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>內容分析</strong></a></td> 
-   <td colspan="1">區域 <strong>網頁個人化</strong> 顯示從您的網站探索到的現有內容，以及內容效能。</td> 
+   <td colspan="1">區域 <strong>網頁Personalization</strong> 顯示從您的網站探索到的現有內容，以及內容效能。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>內容參與層級</strong></td> 
@@ -393,8 +394,8 @@ ht-degree: 1%
    <td><p>歐盟法規於2018年5月25日生效，旨在賦予歐盟公民更多掌控個人資料的權利。</p></td> 
   </tr> 
   <tr> 
-   <td><strong>全域資產</strong></td> 
-   <td>在中建立的資產 <strong>Design Studio</strong> 用於 <strong>計畫</strong> 跨您的Marketo執行個體。 </td> 
+   <td><strong>全域Assets</strong></td> 
+   <td>在中建立的Assets <strong>Design Studio</strong> 用於 <strong>計畫</strong> 跨您的Marketo執行個體。 </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>引導式登陸頁面</strong></td> 
@@ -483,8 +484,8 @@ ht-degree: 1%
    <td colspan="1">人員的集合。 Marketo中有智慧清單和靜態清單。 A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">智慧清單</a> 是可以經常變更的動態人員清單，因為它是根據您定義的篩選器（例如資料庫中住在加州的所有人員）。 當新使用者符合條件（或現有使用者不再符合條件）時，清單會變更。 A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">靜態清單</a> 是靜態的。 除非您手動新增/刪除某人，否則不會變更。</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>本機資產</strong></a></td> 
-   <td><strong>資產</strong> 使用於特定 <strong>方案</strong>.</td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>本機Assets</strong></a></td> 
+   <td><strong>Assets</strong> 使用於特定 <strong>方案</strong>.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -535,7 +536,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
-   <td>Marketo的自訂JavaScript追蹤程式碼。 它會追蹤造訪您網站的所有個人。 這包括匿名訪客（連同其IP位址和其他資訊）。 </td> 
+   <td>Marketo的自訂JavaScript追蹤代碼。 它會追蹤造訪您網站的所有個人。 這包括匿名訪客（連同其IP位址和其他資訊）。 </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>我的Marketo</strong></td> 
@@ -861,14 +862,14 @@ ht-degree: 1%
     <div> 
      <p><strong> 網站行銷活動</strong></p> 
     </div></td> 
-   <td colspan="1">與特定區段相關聯的自訂反應。 在 <strong>網頁個人化</strong>，網路行銷活動包括 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">對話方塊</a>， <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">在區域內</a>、和 <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widget</a></strong>.</td> 
+   <td colspan="1">與特定區段相關聯的自訂反應。 在 <strong>網頁Personalization</strong>，網路行銷活動包括 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">對話方塊</a>， <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">在區域內</a>、和 <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widget</a></strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" rel="nofollow">網頁活動報表</a></strong></td> 
    <td>Marketo中的報表型別。 它可讓您檢視已知的 <i>或</i> 造訪您網站的匿名人員。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">網頁個人化</strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">網頁Personalization</strong></td> 
    <td>附加功能可提供目標定位和個人化平台，協助Marketo使用者根據已知和匿名訪客的身份和行為即時與其互動。</td> 
   </tr>
   <tr> 
@@ -889,7 +890,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td><strong>萬用字元</strong></td> 
-   <td>字元(*用於 <strong>網頁個人化</strong>)在字串之前或之後使用，以取代字串中的任何其他字元。</td> 
+   <td>字元(*用於 <strong>網頁Personalization</strong>)在字串之前或之後使用，以取代字串中的任何其他字元。</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">工作區</a></strong></td> 
