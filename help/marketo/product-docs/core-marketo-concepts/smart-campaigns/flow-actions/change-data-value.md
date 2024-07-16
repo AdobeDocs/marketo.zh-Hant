@@ -4,7 +4,7 @@ description: 變更資料值 — Marketo檔案 — 產品檔案
 title: 變更資料值
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 1%
@@ -15,33 +15,33 @@ ht-degree: 1%
 
 ## 概觀 {#overview}
 
-您可以使用Marketo來更新欄位的值。 為此，您將使用 **[!UICONTROL 變更資料值]** 流量動作。
+您可以使用Marketo來更新欄位的值。 為此，您將使用&#x200B;**[!UICONTROL 變更資料值]**&#x200B;流程動作。
 
-![](assets/image2014-9-22-11-3a15-3a34.png)
+![](assets/change-data-value-1.png)
 
 >[!NOTE]
 >
->您也可以封鎖欄位不更新。 另請參閱 [封鎖欄位更新](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md){target="_blank"} 以取得詳細資訊。
+>您也可以封鎖欄位不更新。 如需詳細資訊，請參閱[封鎖欄位](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md){target="_blank"}的更新。
 
-## 使用情況 {#usage}
+## 使用量 {#usage}
 
 1. 尋找並選取您要變更其值的欄位。
 
-   ![](assets/image2014-9-22-11-3a18-3a29.png)
+   ![](assets/change-data-value-2.png)
 
 1. 輸入您想要的值，就完成了！
 
-   ![](assets/image2014-9-22-11-3a18-3a38.png)
+   ![](assets/change-data-value-3.png)
 
    >[!NOTE]
    >
-   >您也可以在中使用權杖 **[!UICONTROL 新值]**.
+   >您也可以在&#x200B;**[!UICONTROL 新值]**&#x200B;中使用權杖。
 
    >[!TIP]
    >
-   >您可以輸入&#39;NULL&#39; （無引號，全部大寫） **[!UICONTROL 新值]** 以清除欄位。 另請參閱 [清除欄位值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md){target="_blank"} 以取得詳細資訊。
+   >您可以在&#x200B;**[!UICONTROL 新值]**&#x200B;中輸入&#39;NULL&#39; （無引號，全部大寫）以清除欄位。 如需詳細資訊，請參閱[清除欄位值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md){target="_blank"}。
 
    >[!NOTE]
    >
-   >* [流程步驟的權杖](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
+   >* 流程步驟的[權杖](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
    >* [將資料附加至欄位](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"}
