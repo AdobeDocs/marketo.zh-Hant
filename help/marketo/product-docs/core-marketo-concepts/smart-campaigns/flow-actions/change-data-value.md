@@ -4,16 +4,14 @@ description: 變更資料值 — Marketo檔案 — 產品檔案
 title: 變更資料值
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 1%
+source-wordcount: '110'
+ht-degree: 0%
 
 ---
 
 # 變更資料值 {#change-data-value}
-
-## 概觀 {#overview}
 
 您可以使用Marketo來更新欄位的值。 為此，您將使用&#x200B;**[!UICONTROL 變更資料值]**&#x200B;流程動作。
 
@@ -22,8 +20,6 @@ ht-degree: 1%
 >[!NOTE]
 >
 >您也可以封鎖欄位不更新。 如需詳細資訊，請參閱[封鎖欄位](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md){target="_blank"}的更新。
-
-## 使用量 {#usage}
 
 1. 尋找並選取您要變更其值的欄位。
 

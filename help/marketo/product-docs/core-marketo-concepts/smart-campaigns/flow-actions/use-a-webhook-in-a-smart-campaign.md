@@ -4,7 +4,7 @@ description: 在Smart Campaign中使用Webhook - Marketo檔案 — 產品檔案
 title: 在Smart Campaign中使用Webhook
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -13,30 +13,30 @@ ht-degree: 0%
 
 # 在Smart Campaign中使用Webhook {#use-a-webhook-in-a-smart-campaign}
 
-若要使用 [webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}，將其新增至 [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} 作為流量動作。
+若要使用[webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}，請將其新增至[智慧行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}作為流量動作。
 
 >[!AVAILABILITY]
 >
 >並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-1. [建立Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}.
+1. [建立Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}。
 
    >[!NOTE]
    >
    >Webhook只能用於觸發行銷活動。
 
-1. 前往 **[!UICONTROL 流量]** 定位並拖曳至 **[!UICONTROL 呼叫Webhook]** 流量動作。
+1. 移至&#x200B;**[!UICONTROL 流量]**&#x200B;標籤，並拖曳至&#x200B;**[!UICONTROL 呼叫Webhook]**&#x200B;流量動作。
 
-   ![](assets/image2014-9-22-15-3a8-3a2.png)
+   ![](assets/use-a-webhook-in-a-smart-campaign-1.png)
 
 1. 選取Webhook。
 
-   ![](assets/image2014-9-22-15-3a8-3a5.png)
+   ![](assets/use-a-webhook-in-a-smart-campaign-2.png)
 
 1. 您也可以在智慧清單中使用Webhook。
 
-   ![](assets/2017-05-02-10-54-38.png)
+   ![](assets/use-a-webhook-in-a-smart-campaign-3.png)
 
-1. 最後，您還可以在中使用Webhook **[!UICONTROL 新增選擇]** 在流程步驟中。
+1. 最後，您可以在流程步驟的&#x200B;**[!UICONTROL 新增選擇]**&#x200B;中使用Webhook。
 
-   ![](assets/image2014-9-22-15-3a8-3a13.png)
+   ![](assets/use-a-webhook-in-a-smart-campaign-4.png)

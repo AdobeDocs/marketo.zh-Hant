@@ -4,9 +4,9 @@ description: 在流程步驟中重新排序新增選擇 — Marketo檔案 — �
 title: 重新排序在流程步驟中新增選擇
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -17,22 +17,22 @@ ht-degree: 0%
 
 1. 尋找您要變更選擇順序的流程步驟。
 
-   ![](assets/one.png)
+   ![](assets/reorder-add-choice-in-a-flow-step-1.png)
 
-1. 在此範例中，我們將選擇3移至選擇2的上方。 按一下 **[!UICONTROL 選擇3]** 然後按一下 **[!UICONTROL 上移]**.
+1. 在此範例中，我們將選擇3移至選擇2的上方。 按一下&#x200B;**[!UICONTROL 選擇3]**，然後按一下&#x200B;**[!UICONTROL 上移]**。
 
-   ![](assets/two.png)
+   ![](assets/reorder-add-choice-in-a-flow-step-2.png)
 
    >[!NOTE]
    >
-   >重新排序時，您可以 **[!UICONTROL 上移]**， **[!UICONTROL 下移]**，或 **[!UICONTROL 移至]**.
+   >重新排序時，您可以&#x200B;**[!UICONTROL 上移]**、**[!UICONTROL 下移]**&#x200B;或&#x200B;**[!UICONTROL 移至]**。
 
    做得好！ 現在您知道如何以單次增量上下移動選擇。
 
-   ![](assets/three.png)
+   ![](assets/reorder-add-choice-in-a-flow-step-3.png)
 
-**選擇性步驟**：如果您有許多選擇，並且需要上下移動一個多重層級，可以使用此替代方法以節省一些時間。 按一下您要移動的選項，然後在 **[!UICONTROL 移至]**，將滑桿拖曳至您要移動選擇的位置。
+**選擇性步驟**：如果您有許多選擇，而且需要上下移動一個多重層級，您可以使用此替代方法以節省一些時間。 按一下您要移動的選項，然後在&#x200B;**[!UICONTROL [移至]**]下，將滑桿拖曳至您要移動選項的位置。
 
-![](assets/four.png)
+![](assets/reorder-add-choice-in-a-flow-step-4.png)
 
 可以輕鬆重新組織流程步驟選擇的順序。

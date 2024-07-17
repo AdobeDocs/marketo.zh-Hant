@@ -4,22 +4,20 @@ description: 等待 — Marketo檔案 — 產品檔案
 title: 等待
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 1%
+source-wordcount: '188'
+ht-degree: 0%
 
 ---
 
-# 等待 {#wait}
+# 等待總覽 {#wait-overview}
 
-## 概觀 {#overview}
+使用方便的&#x200B;**等待步驟**，在Smart Campaign流程中暫停人員。
 
-使用工具暫停智慧型行銷活動流程中的人員 **等待步驟**.
+![](assets/wait-overview-1.png)
 
-![](assets/wait-overview.png)
-
-請注意您能如何輸入「4小時」之類的自然語言。 執行 **非**&#x200B;但是，請縮簡這些字（即4小時）。 智慧型行銷活動仍會執行，但會忽略等待步驟。
+請注意您能如何輸入「4小時」之類的自然語言。 請&#x200B;**不要**，但請縮簡這些字（即4小時）。 智慧型行銷活動仍會執行，但會忽略等待步驟。
 
 >[!CAUTION]
 >
@@ -27,9 +25,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->如果您已有人員處於等待步驟，而您不希望他們在等待期間結束後前進，請插入 [從流程移除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) 在等待步驟之後。 透過使用指定要移除的人員 [新增選擇](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) 選項。
-
-## 使用情況 {#usage}
+>如果有人已在等待步驟中，而您不希望他們在等待期間結束後前進，請在等待步驟之後立即插入[從流程](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)移除。 使用[新增選擇](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)選項指定您要移除的人員。
 
 有三種主要方法可使用等待流程步驟：
 

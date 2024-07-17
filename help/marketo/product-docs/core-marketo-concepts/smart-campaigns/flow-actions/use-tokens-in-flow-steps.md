@@ -4,7 +4,7 @@ description: 在流程步驟中使用權杖 — Marketo檔案 — 產品檔案
 title: 在流程步驟中使用權杖
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[將流量步驟新增至Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
+>[將流程步驟新增至Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
 
-代號是變數。 您可在電子郵件、登陸頁面和智慧型行銷活動中使用，讓您的生活更輕鬆。 您可以使用 [我的Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} （自訂Token）的流量、Webhook、電子郵件和登入頁面。 您可以使用代號，將變數內容納入這些流程步驟中：
+代號是變數。 您可在電子郵件、登陸頁面和智慧型行銷活動中使用，讓您的生活更輕鬆。 您可以在流程步驟、Webhook、電子郵件和登入頁面中使用[我的權杖](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} （自訂權杖）。 您可以使用代號，將變數內容納入這些流程步驟中：
 
 * 變更資料值
 * 變更方案成員資料
@@ -26,17 +26,17 @@ ht-degree: 0%
 * 建立任務
 * 傳送警報（僅限觸發促銷活動）
 
-1. 在流程步驟中，開始輸入 `{{` 以取得Token類別。
+1. 在流程步驟中，開始輸入`{{`以取得Token類別。
 
-   ![](assets/image2014-9-22-14-3a3-3a17.png)
+   ![](assets/use-tokens-in-flow-steps-1.png)
 
    >[!NOTE]
    >
-   >簽出 [Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} 以取得數個可用代號的清單。
+   >檢視[Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}，以取得數個可用Token的清單。
 
 1. 繼續輸入，直到找到您想要的Token並按一下以選取。
 
-   ![](assets/image2014-9-22-14-3a3-3a48.png)
+   ![](assets/use-tokens-in-flow-steps-2.png)
 
    >[!TIP]
    >

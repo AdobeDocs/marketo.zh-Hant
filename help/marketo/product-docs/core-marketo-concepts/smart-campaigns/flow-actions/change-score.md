@@ -4,40 +4,36 @@ description: 變更分數 — Marketo檔案 — 產品檔案
 title: 變更分數
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 2%
+source-wordcount: '92'
+ht-degree: 0%
 
 ---
 
 # 變更分數 {#change-score}
 
-## 概觀 {#overview}
+對人員評分既輕鬆又強大，可協助您的銷售團隊安排優先順序。
 
-對人員評分既簡單又強大，可協助您的銷售團隊安排優先順序。
-
-![](assets/flowstep-changescore.png)
-
-## 使用情況 {#usage}
+![](assets/change-score-1.png)
 
 1. 選擇您要變更的分數欄位。
 
-   ![](assets/image2014-9-22-11-3a7-3a31.png)
+   ![](assets/change-score-2.png)
 
    >[!TIP]
    >
-   >您可以建立多個分數欄位。 另請參閱 [在Marketo中建立自訂欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} 以取得詳細資訊。
+   >您可以建立多個分數欄位。 如需詳細資訊，請參閱[在Marketo中建立自訂欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}。
 
 1. 輸入您想要的分數變更。
 
-   ![](assets/flowstep-changescoretype.png)
+   ![](assets/change-score-3.png)
 
    變更：
 
-   * **+5** 遞增
-   * **-5** 將減少（允許負數）
-   * **=5** 會讓分數與數字完全相同
-   * **=-5** 會讓分數變成完全負數
+   * **+5**&#x200B;遞增
+   * **-5**&#x200B;將遞減（允許負數）
+   * **=5**&#x200B;會將分數設為正確數字
+   * **=-5**&#x200B;會將分數設為完全負數
 
-快速取得一些基本分數，然後隨著時間調整結果。 我們就是這麼做的！
+快速取得一些基本分數，然後隨著時間調整結果。
