@@ -4,10 +4,10 @@ description: 在SFDC促銷活動中變更狀態 — Marketo檔案 — 產品檔�
 title: 變更SFDC促銷活動中的狀態
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 1%
+source-wordcount: '94'
+ht-degree: 0%
 
 ---
 
@@ -21,14 +21,12 @@ ht-degree: 1%
 
 如果銷售機會在Salesforce中不存在或尚未成為促銷活動的成員，則會自動同步並以適當的狀態新增至Salesforce促銷活動。
 
-![](assets/image2014-9-22-15-3a13-3a54.png)
+![](assets/change-status-in-sfdc-campaign-1.png)
 
-## 使用情況 {#usage}
+1. 首先尋找並選取記錄所在的Salesforce **[!UICONTROL 行銷活動]**。
 
-1. 首先尋找並選取Salesforce **[!UICONTROL Campaign]** 記錄已輸入。
+   ![](assets/change-status-in-sfdc-campaign-2.png)
 
-   ![](assets/image2014-9-22-15-3a13-3a58.png)
+1. 接著，選取您要設定的&#x200B;**[!UICONTROL 新狀態]**，然後您就完成了！
 
-1. 然後選取 **[!UICONTROL 新狀態]** 您想要設定，而您已完成！
-
-   ![](assets/image2014-9-22-15-3a14-3a0.png)
+   ![](assets/change-status-in-sfdc-campaign-3.png)

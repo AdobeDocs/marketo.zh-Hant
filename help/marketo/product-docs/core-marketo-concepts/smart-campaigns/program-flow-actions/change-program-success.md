@@ -4,22 +4,18 @@ description: 變更計畫成功 — Marketo檔案 — 產品檔案
 title: 變更方案成功
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 1%
+source-wordcount: '139'
+ht-degree: 0%
 
 ---
 
 # 變更方案成功 {#change-program-success}
 
-## 概觀 {#overview}
+如果您有一組人員錯誤地標籤為方案成功，您可以使用此流程步驟將成功設為true或false。
 
-如果您曾有一組人意外標示為方案成功，您可以使用此流程步驟將成功設為true或false。
-
-![](assets/image2014-9-22-14-3a45-3a8.png)
-
-## 使用情況 {#usage}
+![](assets/change-program-success-1.png)
 
 1. 當您在此流程步驟中拖曳時，方案會自動設定為包含您正在編輯的智慧行銷活動的方案。
 
@@ -27,19 +23,19 @@ ht-degree: 1%
    >
    >只有計畫的成員會受到影響。
 
-   ![](assets/image2014-9-22-14-3a45-3a35.png)
+   ![](assets/change-program-success-2.png)
 
-1. 選取 **[!UICONTROL 成功]** 或 **[!UICONTROL 成功日期]** 作為屬性。
+1. 選取&#x200B;**[!UICONTROL 成功]**&#x200B;或&#x200B;**[!UICONTROL 成功日期]**&#x200B;作為屬性。
 
-   ![](assets/image2014-9-22-14-3a45-3a39.png)
+   ![](assets/change-program-success-3.png)
 
    >[!NOTE]
    >
    >將「成功日期」設為任何專案都會自動將「成功」設為true。 若將成功設為True，系統會自動將成功日期設為目前日期。
 
-1. 設定 **[!UICONTROL 新值]** 至 **[!UICONTROL 真]** 或 **[!UICONTROL 假]**.
+1. 將&#x200B;**[!UICONTROL 新值]**&#x200B;設為&#x200B;**[!UICONTROL True]**&#x200B;或&#x200B;**[!UICONTROL False]**。
 
-   ![](assets/image2014-9-22-14-3a45-3a55.png)
+   ![](assets/change-program-success-4.png)
 
    >[!TIP]
    >

@@ -4,10 +4,10 @@ description: 在Microsoft中變更擁有者 — Marketo檔案 — 產品檔案
 title: 在Microsoft中變更擁有者
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->此流程步驟將 _只有在搭配觸發器使用時才有效_，而非篩選器。
+>此流程步驟只有在您的Smart Campaign中搭配觸發器&#x200B;_使用時，_&#x200B;才能運作，而非篩選器。
 
-![](assets/one-1.png)
+![](assets/change-owner-in-microsoft-1.png)
 
-**使用情況**
+**使用狀況**
 
 1. 只要選擇您要變更的擁有者並前往即可！
 
-   ![](assets/two-1.png)
+   ![](assets/change-owner-in-microsoft-2.png)
 
    >[!NOTE]
    >

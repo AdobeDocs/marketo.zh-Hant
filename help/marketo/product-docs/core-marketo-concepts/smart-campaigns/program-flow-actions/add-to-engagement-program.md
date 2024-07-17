@@ -4,30 +4,26 @@ description: 新增至參與計畫 — Marketo檔案 — 產品檔案
 title: 新增至參與計畫
 exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 2%
+source-wordcount: '67'
+ht-degree: 0%
 
 ---
 
 # 新增至參與計畫 {#add-to-engagement-program}
 
-## 概觀 {#overview}
-
 您透過此流程步驟建立的Smart Campaign將是您參與方案的閘道。
 
-![](assets/image2014-9-22-14-3a47-3a32.png)
-
-## 使用情況 {#usage}
+![](assets/add-to-engagement-program-1.png)
 
 1. 選取您要新增人員的參與計畫。
 
-   ![](assets/image2014-9-22-14-3a47-3a36.png)
+   ![](assets/add-to-engagement-program-2.png)
 
 1. 選取您要放置人員的資料流。
 
-   ![](assets/image2014-9-22-14-3a47-3a39.png)
+   ![](assets/add-to-engagement-program-3.png)
 
    >[!NOTE]
    >
