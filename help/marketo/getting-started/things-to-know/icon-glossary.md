@@ -2,10 +2,8 @@
 description: 圖示字彙表 — Marketo Engage檔案 — 產品檔案
 title: 圖示字彙表
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 21%
@@ -14,16 +12,16 @@ ht-degree: 21%
 
 # Marketo Engage圖示字彙表 {#icon-glossary}
 
-以下是目前Adobe Marketo Engage介面的圖示。 如果您需要參考Marketo Classic圖示，可以 [可在此處找到](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+以下是目前Adobe Marketo Engage介面的圖示。 如果您需要參考Marketo Classic圖示，可以[在此找到](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md)。
 
 ## 一般圖示 {#general-icons}
 
 <table> 
  <tbody>
   <tr>
-   <th>舊圖示</th> 
-   <th> 新增圖示</th> 
-   <th>說明</th> 
+   <th style="width:25%">舊圖示</th>
+   <th style="width:25%">新增圖示</th> 
+   <th style="width:50%">說明</th> 
   </tr>
   <tr>
    <td><strong>不適用</strong></td> 
@@ -83,7 +81,7 @@ ht-degree: 21%
   <tr>
    <td><img src="assets/classic-filter.png"></td> 
    <td><img src="assets/filter.png"></td> 
-   <td>篩選</td> 
+   <td>篩選器</td> 
   </tr>
   <tr>
    <td><strong>不適用</strong></td> 
@@ -243,9 +241,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>舊圖示</th> 
-   <th> 新增圖示</th> 
-   <th>說明</th> 
+   <th style="width:25%">舊圖示</th> 
+   <th style="width:25%"> 新增圖示</th> 
+   <th style="width:50%">說明</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
@@ -290,9 +288,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>舊圖示</th> 
-   <th> 新增圖示</th> 
-   <th>說明</th> 
+   <th style="width:25%">舊圖示</th> 
+   <th style="width:25%"> 新增圖示</th> 
+   <th style="width:50%">說明</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-trigger.png"></td> 
@@ -322,9 +320,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>舊圖示</th> 
-   <th> 新增圖示</th> 
-   <th>說明</th> 
+   <th style="width:25%">舊圖示</th> 
+   <th style="width:25%"> 新增圖示</th> 
+   <th style="width:50%">說明</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-aborted.png"></td> 
@@ -354,9 +352,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>舊圖示</th> 
-   <th> 新增圖示</th> 
-   <th>說明</th> 
+   <th style="width:25%">舊圖示</th> 
+   <th style="width:25%"> 新增圖示</th> 
+   <th style="width:50%">說明</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program-off.png"></td> 
@@ -376,9 +374,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>舊圖示</th> 
-   <th> 新增圖示</th> 
-   <th>說明</th> 
+   <th style="width:25%">舊圖示</th> 
+   <th style="width:25%"> 新增圖示</th> 
+   <th style="width:50%">說明</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-approved.png"></td> 
@@ -413,9 +411,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>舊圖示</th> 
-   <th> 新增圖示</th> 
-   <th>說明</th> 
+   <th style="width:25%">舊圖示</th> 
+   <th style="width:25%"> 新增圖示</th> 
+   <th style="width:50%">說明</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-approved.png"></td> 
@@ -440,9 +438,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>舊圖示</th> 
-   <th> 新增圖示</th> 
-   <th>說明</th> 
+   <th style="width:25%">舊圖示</th> 
+   <th style="width:25%"> 新增圖示</th> 
+   <th style="width:50%">說明</th> 
   </tr>
   <tr>
    <td><strong>不適用</strong></td> 

@@ -2,10 +2,8 @@
 description: 傳統圖示字彙表 — Marketo檔案 — 產品檔案
 title: 傳統圖示字彙表
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 6%
@@ -14,15 +12,15 @@ ht-degree: 6%
 
 # 傳統圖示字彙表 {#classic-icon-glossary}
 
-以下是Marketo Classic介面的舊圖示。 目前的圖示字彙表可以是 [可在此處找到](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}.
+以下是Marketo Classic介面的舊圖示。 目前的圖示字彙表可在[此處](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}找到。
 
 **一般圖示**
 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">圖示</th>
-   <th style="width:90%">名稱</th>
+   <th style="width:15%">圖示</th>
+   <th style="width:85%">名稱</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2016-2-24-11-3a16-3a17.png"></td> 
@@ -51,7 +49,7 @@ ht-degree: 6%
   <tr> 
    <td><img width="25" src="assets/share-from.png"> 
     </td> 
-   <td>從另一個工作區共用的目的地資料夾 <br>（掛鎖表示無法進行編輯）</td> 
+   <td>從另一個工作區<br>共用的目的地資料夾（掛鎖表示無法進行編輯）</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a23-3a11.png"> 
@@ -111,8 +109,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">圖示</th>
-   <th style="width:90%">名稱</th>
+   <th style="width:15%">圖示</th>
+   <th style="width:85%">名稱</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-8-15-3a58-3a8.png"> 
@@ -237,8 +235,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">圖示</th>
-   <th style="width:90%">名稱</th> 
+   <th style="width:15%">圖示</th>
+   <th style="width:85%">名稱</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2014-12-18-16-3a45-3a45.png"> 
@@ -303,7 +301,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </td> 
-   <td>電子郵件程式 <br>（紅色旗標已關閉=電子郵件尚未傳送）</td> 
+   <td>電子郵件程式<br> （紅色旗標已關閉=尚未傳送電子郵件）</td> 
   </tr> 
   <tr> 
    <td><img src="assets/hs-icon.png"> 
@@ -503,8 +501,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">圖示</th>
-   <th style="width:90%">名稱</th> 
+   <th style="width:15%">圖示</th>
+   <th style="width:85%">名稱</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-12-3a31-3a47.png"> 
@@ -529,7 +527,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-12-10-3a59-3a48.png"> 
     </td> 
-   <td>發佈至Facebook</td> 
+   <td>Publish至Facebook</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-12-11-3a0-3a49.png"> 
@@ -639,8 +637,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">圖示</th>
-   <th style="width:90%">名稱</th>
+   <th style="width:15%">圖示</th>
+   <th style="width:85%">名稱</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a50-3a24.png"> 
@@ -720,8 +718,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">圖示</th>
-   <th style="width:90%">名稱</th> 
+   <th style="width:15%">圖示</th>
+   <th style="width:85%">名稱</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-13-3a53-3a27.png"> 
@@ -736,7 +734,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a27-3a2.png"> 
     </td> 
-   <td>數字</td> 
+   <td>數量</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png"> 
@@ -771,8 +769,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">圖示</th>
-   <th style="width:90%">名稱</th>
+   <th style="width:15%">圖示</th>
+   <th style="width:85%">名稱</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a18-3a8.png"> 
@@ -827,8 +825,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">圖示</th>
-   <th style="width:90%">名稱</th> 
+   <th style="width:15%">圖示</th>
+   <th style="width:85%">名稱</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-16-3a26-3a11.png"> 
