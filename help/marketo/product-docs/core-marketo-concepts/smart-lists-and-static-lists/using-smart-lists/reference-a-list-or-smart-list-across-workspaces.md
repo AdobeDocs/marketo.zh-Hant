@@ -4,9 +4,9 @@ description: 跨工作區參考清單或智慧清單 — Marketo檔案 — 產�
 title: 跨工作區參考清單或智慧清單
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -17,33 +17,37 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->適用人員分割規則(工作區中的「智慧列示」和靜態清單只會顯示同時是清單成員的人員 _和_ 目前工作區的成員)。
+>人員分割規則適用（工作區中的「智慧列示」和「靜態清單」只會顯示同時屬於目前工作區清單&#x200B;_和_&#x200B;成員的人員）。
 
 ## 共用清單或智慧清單 {#share-a-list-or-smart-list}
 
-1. 前往 **[!UICONTROL 資料庫]**.
+1. 移至&#x200B;**[!UICONTROL 資料庫]**。
 
-   ![](assets/db-1.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
-1. 以滑鼠右鍵按一下行銷活動資料夾。 選取 **新增資料夾**.
+1. 以滑鼠右鍵按一下行銷活動資料夾。 選取&#x200B;**新資料夾**。
+
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 
    >[!NOTE]
    >
-   >資產若巢狀內嵌於資料夾，只能跨工作區共用。
+   >如果Assets巢狀內嵌於資料夾中，只能跨工作區共用。
 
-   ![](assets/two-4.png)
+1. 為資料夾命名，然後按一下[建立]。****
+
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 
 1. 將您要共用的清單或智慧列示拖放至新資料夾。
 
-   ![](assets/three-4.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-4.png)
 
-1. 按一下右鍵 **[!UICONTROL 新增資料夾]** 並選取 **[!UICONTROL 共用資料夾]**.
+1. 用滑鼠右鍵按一下新資料夾，然後選取&#x200B;**[!UICONTROL 共用資料夾]**。
 
-   ![](assets/four-3.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-5.png)
 
-1. 選擇 **[!UICONTROL 工作區]** 以與共用。 選取 **[!UICONTROL 儲存]**.
+1. 選擇要共用的&#x200B;**[!UICONTROL Workspace]**，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
-   ![](assets/image2014-12-9-15-3a37-3a25.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 
    棒極了！ 此清單現在可在兩個工作區中使用。
 

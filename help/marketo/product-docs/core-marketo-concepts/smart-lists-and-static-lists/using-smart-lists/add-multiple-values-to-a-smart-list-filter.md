@@ -4,7 +4,7 @@ description: 新增多個值至智慧清單篩選器 — Marketo檔案 — 產�
 title: 新增多個值至智慧清單篩選器
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -18,23 +18,23 @@ ht-degree: 0%
 >* [建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [尋找並新增篩選器至智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-假設您想尋找加州的所有人，但您可能同時將「California」和「CA」儲存在資料庫中。 若要納入所有適用人員，您可以使用兩個 [!UICONTROL 狀態] 濾鏡，但使用濾鏡更容易。
+假設您想尋找加州的所有人，但您可能同時將「California」和「CA」儲存在資料庫中。 若要包含所有適用人員，您可以使用兩個[!UICONTROL State]篩選器，但使用其中一個篩選器會比較容易。
 
-1. 前往 **[!UICONTROL 行銷活動]**.
+1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
 
-   ![](assets/login-marketing-activities-2.png)
+   ![](assets/add-multiple-values-to-a-smart-list-filter-1.png)
 
-1. 尋找並選取智慧列示，然後按一下 **[!UICONTROL 智慧清單]** 標籤。
+1. 尋找並選取智慧清單，然後按一下&#x200B;**[!UICONTROL 智慧清單]**&#x200B;索引標籤。
 
-   ![](assets/smarlist-choosefilters.png)
+   ![](assets/add-multiple-values-to-a-smart-list-filter-2.png)
 
-1. 按一下 **+** 在篩選器上。
+1. 按一下篩選器上的&#x200B;**+**。
 
-   ![](assets/smartlist-plussignhand-.png)
+   ![](assets/add-multiple-values-to-a-smart-list-filter-3.png)
 
-1. 您可以從左側選擇值，或直接在右側輸入值，然後按一下 **[!UICONTROL 確定]**.
+1. 您可以從左邊選擇值，或直接在右邊輸入值，然後按一下[確定]。****
 
-   ![](assets/image2014-9-11-17-3a51-3a39.png)
+   ![](assets/add-multiple-values-to-a-smart-list-filter-4.png)
 
 快速工作！
 
