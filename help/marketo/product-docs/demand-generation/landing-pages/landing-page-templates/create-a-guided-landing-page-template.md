@@ -6,7 +6,7 @@ exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1254'
+source-wordcount: '1265'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,11 @@ ht-degree: 0%
 
 ## 文字 {#text}
 
-如果您將區域定義為RTF文字，使用者將可以編輯其內容 [使用Marketo的RTF編輯器](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+如果您將區域定義為RTF格式，使用者將可以使用Marketo的RTF編輯器](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)編輯其內容[。
 
 必要的屬性：\
 **類別**： &quot;mktoText&quot;\
-**id**： ID字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
+**id**：識別碼字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
 **mktoName** ：字串。 這是將顯示在登入頁面編輯器中的顯示名稱。 最佳實務是使用描述性名稱。
 
 可選：\
@@ -46,9 +46,9 @@ ht-degree: 0%
 
 ## 影像 {#image}
 
-您有兩個選項可定義可編輯的影像元素。 您可以使用 `<div>`，指定影像要插入的容器，或 `<img>` 標籤之間。
+您有兩個選項可定義可編輯的影像元素。 您可以使用`<div>`或`<img>`標籤，指定影像要插入的容器。
 
-## 選項1 — 使用 `<div>` {#option-use-a-div}
+## 選項1 — 使用`<div>` {#option-use-a-div}
 
 必要的屬性：
 
@@ -57,13 +57,13 @@ ID：ID字串。 僅包含字母、數字、破折號「 — 」和底線「_」
 mktoName ：字串。 這是將顯示在登入頁面編輯器中的顯示名稱。 最佳實務是使用描述性名稱。
 
 可選：\
-mktoImgClass：字串。 此處的值將新增至 `<img>` div內的元素。
+mktoImgClass：字串。 此處值將新增至div內`<img>`元素的類別屬性。
 
 範例：
 
 `<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
-## 選項2 — 使用 `<img>` {#option-use-a-img}
+## 選項2 — 使用`<img>` {#option-use-a-img}
 
 必要的屬性：\
 類別： &quot;mktoImg&quot;\
@@ -79,13 +79,13 @@ src：字串URL。 這將做為影像的預設值。
 
 >[!NOTE]
 >
->使用時 `<img>` 版本，則呈現的HTML將包含 `<img>` 標籤之間。 它將會設定為類別。」mktoImg.mktoGen」和，則會顯示：inline-block。
+>使用`<img>`版本時，轉譯的HTML會在`<img>`標籤周圍包含產生的div包裝函式。 它將會設定為類別。」mktoImg.mktoGen」和，則會顯示：inline-block。
 
 ## 表單 {#form}
 
 範例：必要的屬性：\
 **類別**： &quot;mktoForm&quot;\
-**id**： ID字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
+**id**：識別碼字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
 **mktoName** ：字串。 這是將顯示在登入頁面編輯器中的顯示名稱。 最佳實務是使用描述性名稱。
 
 `<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
@@ -94,7 +94,7 @@ src：字串URL。 這將做為影像的預設值。
 
 必要的屬性：\
 **類別**： &quot;mktoSnippet&quot;\
-**id**： ID字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
+**id**：識別碼字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
 **mktoName** ：字串。 這是將顯示在登入頁面編輯器中的顯示名稱。 最佳實務是使用描述性名稱。
 
 範例：
@@ -104,15 +104,15 @@ src：字串URL。 這將做為影像的預設值。
 ## 共用按鈕 {#share-button}
 
 必要的屬性：\
-**類別**：&quot;mktoShareButton&quot;\
-**id**： ID字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
+**類別**： &quot;mktoShareButton&quot;\
+**id**：識別碼字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
 **mktoName** ：字串。 這是將顯示在登入頁面編輯器中的顯示名稱。 最佳實務是使用描述性名稱。
 
 範例：
 
 `<div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div>`
 
-## 視訊 {#video}
+## 影片 {#video}
 
 >[!NOTE]
 >
@@ -120,7 +120,7 @@ src：字串URL。 這將做為影像的預設值。
 
 必要的屬性：
 **類別**： &quot;mktoVideo&quot;
-**id**： ID字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。
+**id**：識別碼字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。
 **mktoName** ：字串。 這是將顯示在登入頁面編輯器中的顯示名稱。 最佳實務是使用描述性名稱。
 
 範例：
@@ -131,7 +131,7 @@ src：字串URL。 這將做為影像的預設值。
 
 必要的屬性：\
 **類別**： &quot;mktoPoll&quot;\
-**id**： ID字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
+**id**：識別碼字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
 **mktoName** ：字串。 這是將顯示在登入頁面編輯器中的顯示名稱。 最佳實務是使用描述性名稱。
 
 範例：
@@ -142,7 +142,7 @@ src：字串URL。 這將做為影像的預設值。
 
 必要的屬性：\
 **類別**： &quot;mktoReferral&quot;\
-**id**： ID字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
+**id**：識別碼字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
 **mktoName** ：字串。 這是將顯示在登入頁面編輯器中的顯示名稱。 最佳實務是使用描述性名稱。
 
 範例：
@@ -152,8 +152,8 @@ src：字串URL。 這將做為影像的預設值。
 ## 抽獎 {#sweepstakes}
 
 必要的屬性：\
-**類別**： &quot;mktoSweepstackes&quot;\
-**id**： ID字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
+**類別**： &quot;mktoSweepstakes&quot;\
+**id**：識別碼字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
 **mktoName** ：字串。 這是將顯示在登入頁面編輯器中的顯示名稱。 最佳實務是使用描述性名稱。
 
 範例：
@@ -170,18 +170,18 @@ src：字串URL。 這將做為影像的預設值。
 
 **宣告：**
 
-變數在內宣告為中繼標籤 `<head>` 範本的元素。 有三種型別的變數可供使用：字串、顏色和布林值。
+變數在範本的`<head>`元素內宣告為中繼標籤。 有三種型別的變數可供使用：字串、顏色和布林值。
 
 ## 字串 {#string}
 
 必要的屬性：\
-**類別** ：&quot;mktoString&quot;，\
-**id**： ID字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
+**類別** ： &quot;mktoString&quot;，\
+**id**：識別碼字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
 **mktoName** ：字串。 這是將顯示在登入頁面編輯器中的顯示名稱。 最佳實務是使用描述性名稱。
 
 可選：\
 **預設**：屬性的字串值。 如果未提供，則為空白。\
-**allowHtml**：&quot;true&quot;或&quot;false&quot;。 控制是否列印值而不進行HTML逸出。 若未設定，則預設值為「false」。
+**allowHtml**： &quot;true&quot;或&quot;false&quot;。 控制是否列印值而不進行HTML逸出。 若未設定，則預設值為「false」。
 
 基本範例：
 
@@ -194,12 +194,12 @@ src：字串URL。 這將做為影像的預設值。
 ## 顏色 {#color}
 
 必要的屬性：\
-**類別** ：&quot;mktoColor&quot;，\
-**id**： ID字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
+**類別** ： &quot;mktoColor&quot;，\
+**id**：識別碼字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
 **mktoName** ：字串。 這是將顯示在登入頁面編輯器中的顯示名稱。 最佳實務是使用描述性名稱。
 
 可選：\
-**預設**：7位數的十六進位字元色彩代碼。 例如：「#336699」
+**預設**： 7位數的十六進位字元色彩代碼。 例如：「#336699」
 
 基本範例：
 
@@ -212,12 +212,12 @@ src：字串URL。 這將做為影像的預設值。
 ## 布林值 {#boolean}
 
 必要的屬性：\
-**類別** ：&quot;mktoBoolean&quot;，\
-**id**： ID字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
+**類別** ： &quot;mktoBoolean&quot;，\
+**id**：識別碼字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。\
 **mktoName** ：字串。 這是將顯示在登入頁面編輯器中的顯示名稱。 最佳實務是使用描述性名稱。
 
 可選：\
-**預設**：布林值字串。 「true」或「false」控制值是否從ON或OFF位置開始。 &quot;false&quot; （若未提供）。\
+**預設**：布林字串。 「true」或「false」控制值是否從ON或OFF位置開始。 &quot;false&quot; （若未提供）。\
 **false_value**：字串。 當變數處於OFF位置時要插入的值。 &quot;false&quot; （若未提供）。\
 **true_value**：字串。 當變數處於「開啟」位置時要插入的值。 若未提供，則為&quot;true&quot;。\
 **false_value_name**：字串。 當值處於「關閉」位置時，要在登入頁面編輯器中顯示的顯示名稱。 若未提供，則為「關閉」。\

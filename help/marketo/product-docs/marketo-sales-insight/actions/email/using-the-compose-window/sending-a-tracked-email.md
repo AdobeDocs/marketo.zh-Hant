@@ -1,5 +1,5 @@
 ---
-description: 傳送追蹤的電子郵件 — Marketo檔案 — 產品檔案
+description: 傳送追蹤電子郵件 — Marketo檔案 — 產品檔案
 title: 傳送追蹤的電子郵件
 hide: true
 hidefromtoc: true
@@ -12,45 +12,44 @@ ht-degree: 0%
 
 # 傳送追蹤的電子郵件 {#sending-a-tracked-email}
 
-使用Marketo Sales Connect傳送電子郵件時，將會追蹤檢視（電子郵件開啟）和點按（已點按連結）。
+使用Marketo Sales Connect傳送電子郵件時，將會追蹤檢視（電子郵件開啟）和點按（連結點按）。
 
 >[!PREREQUISITES]
 >
->在傳送追蹤的電子郵件之前，您需要先驗證身分並設定電子郵件傳送通道。
+>您必須先驗證身分並設定電子郵件傳遞通道，才能傳送追蹤的電子郵件。
 >
 >* [驗證您的電子郵件地址](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
->* 為 [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) 或 [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* 設定[Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)或[Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)的傳遞通道
 
-
-1. 建立電子郵件草稿(有多種方法可執行此作業，在此範例中，我們選擇 **撰寫** 中)。
+1. 建立您的電子郵件草稿（有多種方式可以達成此目的，在此範例中，我們在標題中選擇&#x200B;**撰寫**）。
 
    ![](assets/sending-a-tracked-email-1.png)
 
-1. 在 **結束日期** 欄位。
+1. 在&#x200B;**到**&#x200B;欄位中輸入收件者的名稱或電子郵件。
 
    ![](assets/sending-a-tracked-email-2.png)
 
    >[!NOTE]
    >
-   >「收件人」欄位中只能有一個人。
+   >「收件者」欄位中只能有一個人員。
 
-1. 在個別欄位中新增您要抄送或密件副本的任何收件者。
+1. 在個別欄位中新增您要「副本」或「密件副本」的任何收件者。
 
    ![](assets/sending-a-tracked-email-3.png)
 
    >[!NOTE]
    >
-   >如果是CC&#39;d或BCC&#39;d的人開啟了電子郵件，該開啟的電子郵件會記錄為該人的記錄中的檢視 **結束日期** 欄位。
+   >如果有人曾收到副本或密件副本而開啟電子郵件，則該開啟將記錄為在&#x200B;**收件者**&#x200B;欄位中的人員記錄檢視。
 
-1. 新增主旨行。
+1. 新增主旨列。
 
    ![](assets/sending-a-tracked-email-4.png)
 
    >[!NOTE]
    >
-   >傳送電子郵件需要主旨行和收件者。 我們會 **自動儲存草稿** 新增主旨行和收件者後。
+   >傳送電子郵件需要主旨列和收件者。 新增主旨行和收件者後，我們將&#x200B;**自動儲存您的草稿**。
 
-1. 使用編輯器撰寫電子郵件。 按一下 **傳送** (或 [排程](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)，若您偏好)。
+1. 使用編輯器撰寫電子郵件。 完成時，請按一下&#x200B;**傳送** （或者，如果您願意的話，請按一下[排程](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)）。
 
    ![](assets/sending-a-tracked-email-5.png)
 
@@ -58,4 +57,3 @@ ht-degree: 0%
    >
    >* [排程電子郵件](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/scheduling-an-email.md)
    >* [範本](/help/marketo/product-docs/marketo-sales-insight/actions/templates/manage-templates.md#create-a-new-template)
-

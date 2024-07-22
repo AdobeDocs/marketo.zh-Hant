@@ -14,17 +14,17 @@ ht-degree: 0%
 
 雖然Marketo Engage行銷使用者和管理員是在Adobe Admin Console中進行管理，但必須在Marketo Engage中建立和管理僅限Marketo Engage API的使用者。
 
-以下步驟說明如何在Marketo Engage中新增「僅限API使用者」 。 在執行此操作之前，您必須擁有 [已建立僅API角色](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
+以下步驟說明如何在Marketo Engage中新增「僅限API使用者」 。 在執行此操作之前，您必須先建立[僅API角色](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)。
 
-1. 在Marketo中，按一下 **[!UICONTROL 管理員]** 並選取 **[!UICONTROL 使用者和角色]**.
+1. 在Marketo中，按一下&#x200B;**[!UICONTROL 管理員]**&#x200B;並選取&#x200B;**[!UICONTROL 使用者和角色]**。
 
    ![](assets/add-api-only-user-for-adobe-ims-1.png)
 
-1. 按一下 **[!UICONTROL 建立API使用者]**.
+1. 按一下&#x200B;**[!UICONTROL 僅建立API使用者]**。
 
    ![](assets/add-api-only-user-for-adobe-ims-2.png)
 
-1. 輸入 [!UICONTROL 電子郵件]， [!UICONTROL 名字]、和 [!UICONTROL 姓氏] 僅適用於API使用者。 選取 [!UICONTROL 僅限API] 您要指派給使用者的角色。 按一下 **[!UICONTROL 建立API使用者]** 完成時。
+1. 輸入[!UICONTROL 電子郵件]、[!UICONTROL 名字]和[!UICONTROL 姓氏] （僅限API使用者）。 選取您想要指派給使用者的[!UICONTROL 僅限API]角色。 完成時，按一下&#x200B;**[!UICONTROL 僅建立API使用者]**。
 
    ![](assets/add-api-only-user-for-adobe-ims-3.png)
 

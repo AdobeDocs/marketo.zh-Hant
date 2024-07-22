@@ -6,7 +6,7 @@ exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 帳戶分析 {#account-insight}
 
-**[帳戶分析](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** 是Google Chrome外掛程式，可為您的銷售團隊呈現可採取行動的ABM和帳戶深入分析，讓他們能與行銷密切合作，有效吸引帳戶。 銷售團隊將能看見針對他們擁有的每個具名帳戶所產生的資料和深入分析。 這將包括帳戶分數百分比、其具名帳戶的優先順序清單、這些帳戶中的參與人員，以及帳戶中最近活動的即時活動資料流。
+**[Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)**&#x200B;是Google Chrome外掛程式，可為您的銷售團隊呈現可採取行動的ABM和帳戶分析，讓他們與行銷密切合作，以有效與帳戶互動。 銷售團隊將能看見針對他們擁有的每個具名帳戶所產生的資料和深入分析。 這將包括帳戶分數百分比、其具名帳戶的優先順序清單、這些帳戶中的參與人員，以及帳戶中最近活動的即時活動資料流。
 
 ![](assets/image001.png) ![](assets/image002.png)
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 
 ## [動態帳戶清單](/help/marketo/product-docs/target-account-management/target/account-lists.md) {#dynamic-account-lists}
 
-我們正在新增在ABM中建立帳戶清單的新方法。 除了現有的帳戶清單之外，您現在可以建立從公開CRM帳戶檢視產生的動態帳戶清單。 CRM帳戶檢視是一組規則，可在顯示帳戶時作為篩選條件。 例如，您可以使用它來尋找產業是醫療保健的客戶 _和_ 收入超過1億美元。
+我們正在新增在ABM中建立帳戶清單的新方法。 除了現有的帳戶清單之外，您現在可以建立從公開CRM帳戶檢視產生的動態帳戶清單。 CRM帳戶檢視是一組規則，可在顯示帳戶時作為篩選條件。 例如，您可以使用它來尋找產業為醫療保健&#x200B;_且_&#x200B;收入超過1億美元的帳戶。
 
 ![](assets/dynamic-account-list-menu-5b14-5d-copy.png)

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 將所有內容新增到資料流後，您就可以一次測試一個內容。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 按一下 **程式動作** 並選取 **測試資料流**.
+1. 按一下&#x200B;**程式動作**&#x200B;並選取&#x200B;**測試資料流**。
 
    ![](assets/three.png)
 
-1. 從中選擇您的人員 **測試人員** 下拉式清單。 請記住，內容實際上會外傳，因此選擇時請牢記這一點。
+1. 從&#x200B;**測試人員**&#x200B;下拉式清單中選取您的人員。 請記住，內容實際上會外傳，因此選擇時請牢記這一點。
 
    ![](assets/four-rubix.png)
 
@@ -37,12 +37,12 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您要尋找的測試人員不存在，請使用 **建立人員** 選項以立即建立一個。
+   >如果您要尋找的測試人員不存在，請使用&#x200B;**建立人員**&#x200B;選項來立即建立人員。
 
    按一下「初始資料流」，選取您要測試的資料流，然後按一下「執行轉換」。
    ![](assets/five-rubiks.png)
 
-1. 當人員瀏覽以下專案後： [轉變規則](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) 您先前已設定，請按一下「重新整理」圖示。
+1. 在人員執行您先前設定的[轉變規則](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)後，按一下「重新整理」圖示。
 
    ![](assets/six-rubiks.png)
 
@@ -54,4 +54,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >除非您按一下「 」，否則不會傳送其他內容 **再次執行轉換**.
+   >除非您再按一下&#x200B;**執行轉換**，否則不會傳送其他內容。

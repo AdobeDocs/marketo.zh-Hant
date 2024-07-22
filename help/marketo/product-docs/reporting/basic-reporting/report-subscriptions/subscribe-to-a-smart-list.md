@@ -6,7 +6,7 @@ exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -36,35 +36,35 @@ ht-degree: 0%
 
 ## 建立智慧清單訂閱 {#create-a-smart-list-subscription}
 
-1. 前往 **資料庫** 或 **行銷活動**.
+1. 移至&#x200B;**資料庫**&#x200B;或&#x200B;**行銷活動**。
 
    ![](assets/db.png)
 
-1. 選取您要為其建立訂閱的智慧清單。 按一下 **清單動作** 並選取 **新增智慧清單訂閱**.
+1. 選取您要為其建立訂閱的智慧清單。 按一下&#x200B;**清單動作**&#x200B;並選取&#x200B;**新增智慧清單訂閱**。
 
    ![](assets/three.png)
 
-1. 為您的訂閱提供 **名稱**，然後選取或輸入 **收件者**.
+1. 為您的訂閱提供&#x200B;**名稱**，然後選取或輸入&#x200B;**收件者**&#x200B;的電子郵件地址。
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. 按一下 **頻率** 清單並選取頻率。
+1. 按一下&#x200B;**頻率**&#x200B;清單並選取頻率。
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. 設定 **結束傳遞** 日期。 您可以選取 **從不** 或行事曆日期。
+1. 設定&#x200B;**結束傳遞**&#x200B;日期。 您可以選取&#x200B;**從不**&#x200B;或行事曆日期。
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. 按一下 **格式** 並從清單中選擇。
+1. 按一下&#x200B;**格式**&#x200B;並從清單中選擇。
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
-1. 按一下 **建立**。
+1. 按一下&#x200B;**建立**。
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. 您的新智慧清單訂閱會顯示在「訂閱」索引標籤的清單頂端。 按一下 **傳送** 如果您想立即傳送，不要等到排程的電子郵件傳送。
+1. 您的新智慧清單訂閱會顯示在「訂閱」索引標籤的清單頂端。 如果您要立即傳送，而且不要等到排程的電子郵件傳送，請按一下&#x200B;**傳送**。
 
    ![](assets/eight.png)
 
@@ -80,7 +80,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果 [安全訂閱管理](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) 設定已設為 **是**，只有可存取Marketo例項的使用者才能下載報表。
+>如果[安全訂閱管理員](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)設定設為&#x200B;**是**，則只有可存取Marketo執行個體的使用者才能下載報表。
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 

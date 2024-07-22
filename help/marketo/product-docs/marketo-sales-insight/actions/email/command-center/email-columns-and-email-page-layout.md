@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # 電子郵件欄和電子郵件頁面配置 {#email-columns-and-email-page-layout}
 
-您可以將任何可用欄設定為顯示在的電子郵件區段中 [指揮中心](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). 您的組態設定會針對每個電子郵件子資料夾儲存（例如：已傳遞、失敗、已排程等）。
+您可以設定任何可在[命令中心](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)的電子郵件區段中顯示的可用欄。 您的組態設定會針對每個電子郵件子資料夾儲存（例如：已傳遞、失敗、已排程等）。
 
 ## 電子郵件欄 {#email-columns}
 
@@ -117,11 +117,11 @@ ht-degree: 2%
 
 您可以依照以下步驟設定版面。
 
-1. 在網頁應用程式中，按一下 **指揮中心**.
+1. 在網頁應用程式中，按一下&#x200B;**命令中心**。
 
    ![](assets/email-columns-and-email-page-layout-1.png)
 
-1. 選取 **電子郵件** 區段。
+1. 選取&#x200B;**電子郵件**&#x200B;區段。
 
    ![](assets/email-columns-and-email-page-layout-2.png)
 

@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 ## 產生報表 {#generate-a-report}
 
-1. 按一下 **Analytics**.
+1. 按一下「**分析**」。
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. 按一下 **銷售分析電子郵件績效**.
+1. 按一下&#x200B;**銷售分析電子郵件績效**。
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. 按一下 **設定** 標籤並選擇所需的值。
+1. 按一下「**設定**」標籤，然後選擇您想要的值。
 
    ![](assets/three.png)
 
-1. 按一下 **報告** 標籤。
+1. 按一下「**報表**」標籤。
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -47,19 +47,19 @@ ht-degree: 0%
 
 您可以變更設定，檢視依銷售代表分組的此報告。
 
-1. 按一下 **設定**. 按兩下 **電子郵件**.
+1. 按一下&#x200B;**設定**。 連按兩下&#x200B;**電子郵件**。
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. 選取群組電子郵件依據 **銷售代表**.
+1. 選取&#x200B;**銷售代表**&#x200B;的群組電子郵件。
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. 按一下 **報告** 標籤。
+1. 按一下「**報表**」標籤。
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 

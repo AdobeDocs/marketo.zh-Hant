@@ -2,10 +2,10 @@
 description: WR-YYYY-MM-Web請求計畫 — Marketo檔案 — 產品檔案
 title: WR-YYYY-MM-Web請求程式
 feature: Programs
-exl-id: 539dfd08-eed8-4fac-b976-7fe43f5d24b3
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '400'
 ht-degree: 3%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 這是一個範例計畫，非常適用於使用Marketo Engage預設計畫的聯絡人請求、報價請求、示範請求或試用請求表單。 可與Marketo登陸頁面搭配使用，或作為非Marketo登陸頁面上的內嵌表單。 在提交表單時會傳送通知電子郵件給指定的個人。
 
-如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -35,7 +35,7 @@ ht-degree: 3%
  </tbody> 
 </table>
 
-## 程式包含下列資產 {#program-contains-the-following-assets}
+## 程式包含下列Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -82,8 +82,8 @@ ht-degree: 3%
   <tr> 
    <td>資料夾</td> 
    <td> </td>
-   <td>資產 — 容納所有創意資產 
-<br/>（警報和登陸頁面的子資料夾）</td>
+   <td>Assets — 容納所有創意資產 
+<br/>（警示和登陸頁面的子資料夾）</td>
   </tr>
   <tr> 
    <td>資料夾</td> 
@@ -139,21 +139,21 @@ ht-degree: 3%
 
 ## 衝突規則 {#conflict-rules}
 
-* **計畫標籤**
-   * 在此訂閱中建立標籤 —  _建議_
+* **程式標籤**
+   * 在此訂閱中建立標籤 — _建議_
    * 忽略
 
-* **具相同名稱的登陸頁面範本**
+* **名稱相同的登入頁面範本**
    * 複製原始範本
-   * 使用目的地範本 —  _建議_
+   * 使用目的地範本 — _建議_
 
-* **具有相同名稱的影像**
+* **相同名稱的影像**
    * 保留兩個檔案
-   * 取代此訂閱中的專案 —  _建議_
+   * 取代此訂閱中的專案 — _建議_
 
 * **相同名稱的電子郵件範本**
    * 保留兩個範本
-   * 取代現有範本 —  _建議_
+   * 取代現有的範本 — _建議_
 
 ## 最佳實務 {#best-practices}
 

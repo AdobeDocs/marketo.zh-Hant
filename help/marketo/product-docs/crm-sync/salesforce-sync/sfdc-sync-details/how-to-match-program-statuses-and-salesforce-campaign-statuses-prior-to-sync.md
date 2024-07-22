@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 如果您收到錯誤訊息，該怎麼做 {#what-do-you-do-if-you-received-an-error-message}
 
-如果您嘗試同步至包含銷售機會的現有Salesforce促銷活動，而促銷活動包含一或多個不相容的狀態，則會顯示錯誤訊息。 Marketo程式和Salesforce行銷活動 *不會* 如果狀態不完全相符，則進行同步。
+如果您嘗試同步至包含銷售機會的現有Salesforce促銷活動，而促銷活動包含一或多個不相容的狀態，則會顯示錯誤訊息。 如果狀態不完全相符，Marketo程式和Salesforce行銷活動&#x200B;*將不會*&#x200B;同步。
 
 ![](assets/image2015-7-22-9-3a23-3a29.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 1. 您可以取消、修正狀態錯誤，並在錯誤修復後嘗試同步。 若要修正狀態錯誤，請執行下列任一項作業：
 
    * 登入Salesforce，移除或重新命名不相容的「行銷活動成員狀態」，以對應至與您的Marketo方案相關聯的管道型別所使用的Marketo方案狀態。
-   * 修改Marketo中的方案狀態，以對應至您現有的Salesforce促銷活動成員狀態。 這是Marketo管理員功能。 如需詳細資訊，請參閱 [建立方案頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+   * 修改Marketo中的方案狀態，以對應至您現有的Salesforce促銷活動成員狀態。 這是Marketo管理員功能。 如需詳細資訊，請參閱[建立方案頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}。

@@ -6,7 +6,7 @@ exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 ## 首次接觸(FT)歸因 {#first-touch-ft-attribution}
 
-首次接觸(FT)歸因回答 **簡單業務問題**，「哪些程式適合贏取有利可圖的新名稱？」
+首次接觸(FT)歸因回答&#x200B;**簡單業務問題**：「哪些程式適合取得有利可圖的新名稱？」
 
 ## 多重接觸歸因 {#multi-touch-attribution}
 
-多重觸控回答 **複雜的業務問題**，「哪些計畫對於在銷售週期中隨著時間推移而推動人們前進最有影響力？」
+多重觸控可回答&#x200B;**複雜的業務問題**，「哪些程式在銷售週期中對於推動人員往前發展最有影響力？」
 
 ## 歸因規則 {#rules-of-attribution}
 

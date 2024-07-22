@@ -5,8 +5,8 @@ exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 2%
+source-wordcount: '536'
+ht-degree: 4%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 2%
   <td>來源</td>
  </tr>
  <tr>
-  <td>範本ID</td>
+  <td>範本 ID</td>
  </tr>
  <tr>
   <td>銷售範本URL</td>
@@ -63,7 +63,7 @@ ht-degree: 2%
   <td>來源</td>
  </tr>
  <tr>
-  <td>範本ID</td>
+  <td>範本 ID</td>
  </tr>
  <tr>
   <td>銷售範本URL</td>
@@ -94,7 +94,7 @@ ht-degree: 2%
   <td>來源</td>
  </tr>
  <tr>
-  <td>範本ID</td>
+  <td>範本 ID</td>
  </tr>
  <tr>
   <td>銷售範本URL</td>
@@ -210,7 +210,7 @@ ht-degree: 2%
   <td>Marketo銷售人員ID</td>
  </tr>
  <tr>
-  <td>範本ID</td>
+  <td>範本 ID</td>
  </tr>
 </table>
 
@@ -300,10 +300,10 @@ ht-degree: 2%
   </tr> 
   <tr> 
    <td><strong>來源</strong></td> 
-   <td>活動的來源。 在2021年10月發行之前，將針對Sales Connect活動設為「Tout」。 2021年10月發行版本後，將成為Sales Connect活動的「銷售應用程式」。</td>
+   <td>活動的Source。 在2021年10月發行之前，將針對Sales Connect活動設為「Tout」。 2021年10月發行版本後，將成為Sales Connect活動的「銷售應用程式」。</td>
   </tr> 
   <tr> 
-   <td><strong>範本ID</strong></td> 
+   <td><strong>範本 ID</strong></td> 
    <td>當來源為Tout時，範本ID將為Marketo Sales Connect範本ID。 使用此項來鎖定特定範本，而非可能存在於多個範本的主旨列。
 </td> 
   </tr> 

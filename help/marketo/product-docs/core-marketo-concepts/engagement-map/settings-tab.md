@@ -1,8 +1,8 @@
 ---
 description: 設定標籤 — Marketo檔案 — 產品檔案
 title: 設定標籤
-exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
@@ -17,9 +17,9 @@ ht-degree: 1%
 
 * **資格規則**：決定每個人都可以透過Smart Campaign流程執行的次數。
 
-* **個別回合**：可用於立即或未來排程單一執行。
+* **個別執行**：可用於立即或未來排程單一執行。
 
-* **週期**：用於排程每日、每週或每月遞回。
+* **週期**：用於排程每日、每週或每月週期。
 
   ![](assets/settings-tab-1.png)
 
@@ -47,7 +47,7 @@ ht-degree: 1%
 
 * 行銷活動狀態
 * 建立日期
-* 上次修改時間
+* 上次修改日期
 * 智慧清單模式
 * 智慧清單狀態：
    * 預估受影響人數

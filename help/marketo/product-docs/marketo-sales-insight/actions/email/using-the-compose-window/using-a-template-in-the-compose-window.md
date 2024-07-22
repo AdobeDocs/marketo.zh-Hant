@@ -5,7 +5,7 @@ exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## 尋找及使用範本 {#finding-and-using-templates}
 
-1. 建立您的電子郵件草稿(有多種方式可以執行此操作，在此範例中，我們將選擇 **撰寫** （在標題中）。
+1. 建立您的電子郵件草稿（有多種方式可以達成此目的，在此範例中，我們在標題中選擇&#x200B;**撰寫**）。
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
@@ -40,17 +40,17 @@ ht-degree: 0%
 
 ## 在撰寫視窗中釘選範本類別 {#pinning-template-categories-in-the-compose-window}
 
-我的最愛 **最多五個** 特定範本類別，以快速存取您最常用的範本。
+最愛&#x200B;**最多5個**&#x200B;特定範本類別，以快速存取您最常用的範本。
 
-1. 建立您的電子郵件草稿(有多種方式可以執行此操作，在此範例中，我們將選擇 **撰寫** （在標題中）。
+1. 建立您的電子郵件草稿（有多種方式可以達成此目的，在此範例中，我們在標題中選擇&#x200B;**撰寫**）。
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. 按一下 **+** 圖示加以存取。
+1. 按一下我的最愛旁的&#x200B;**+**&#x200B;圖示。
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. 按一下 **釘選類別** 下拉式清單，然後選取您需要的類別。
+1. 按一下&#x200B;**釘選類別**&#x200B;下拉式清單，然後選取您想要的類別。
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
@@ -58,7 +58,7 @@ ht-degree: 0%
    >
    >建議您釘選「全部」類別，讓您可以快速搜尋整個範本程式庫，因為您通常可能需要搜尋所有範本以找到您要尋找的內容。 當您選取了釘選類別並按一下搜尋圖示時，搜尋將預設為所選釘選類別內的搜尋。
 
-1. 按一下 **儲存變更** 完成後（選用：重複步驟3以新增更多）。
+1. 完成時，按一下&#x200B;**儲存變更** （選用：重複步驟3以新增更多）。
 
    ![](assets/using-a-template-in-the-compose-window-9.png)
 
@@ -70,6 +70,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**我的最愛** 預設為存在。 其中會包含最愛的電子郵件範本，而非類別。
+   >**我的最愛**&#x200B;預設存在。 其中會包含最愛的電子郵件範本，而非類別。
 
    現在已釘選您選取的類別。

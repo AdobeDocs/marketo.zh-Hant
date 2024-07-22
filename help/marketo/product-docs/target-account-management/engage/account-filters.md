@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## TAM篩選器 {#tam-filters}
 
-1. 選取您的智慧行銷活動並按一下 **智慧清單**.
+1. 選取您的智慧行銷活動，然後按一下&#x200B;**智慧清單**。
 
    ![](assets/one.png)
 
-1. 按一下 **+** 以展開 **帳戶篩選器** 資料夾。
+1. 按一下&#x200B;**+**&#x200B;以展開&#x200B;**帳戶篩選器**&#x200B;資料夾。
 
    ![](assets/two.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ## 具名帳戶的成員 {#member-of-named-account}
 
-首先，選擇限定詞。 **是** 指定帳戶或 **為任何** 任何具名帳戶的使用者。
+首先，選擇限定詞。 特定具名帳戶的&#x200B;**是**&#x200B;或任何具名帳戶的&#x200B;**是任何**。
 
 ![](assets/six.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ![](assets/eight.png)
 
-如果您使用「為任何」限定詞，則可能想要使用 [限制](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 以縮小搜尋結果的範圍。 新增任意數量的專案！
+如果您使用「為任何」限定詞，您可能想要利用[限制](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)來縮小搜尋結果的範圍。 新增任意數量的專案！
 
 ![](assets/nine.png)
 

@@ -6,7 +6,7 @@ exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '374'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ## 檢視內容分析 {#view-content-analytics}
 
-前往 **內容分析**.
+移至&#x200B;**內容分析**。
 
 ![](assets/one.png)
 
@@ -45,11 +45,11 @@ Analytics表格提供下列詳細資訊：
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>標題</strong></td> 
-   <td colspan="1" rowspan="1">數位內容資產的名稱。 按一下 <strong>標題</strong> 在新標籤中開啟「內容URL」。</td> 
+   <td colspan="1" rowspan="1">數位內容資產的名稱。 按一下「<strong>標題</strong>」，在新索引標籤中開啟內容URL。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>建議 </strong><strong>圖示</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
-   <td colspan="1">表示是否已為新增內容片段 <a href="#">內容Recommendations</a>.</td> 
+   <td colspan="1"><p><strong>建議</strong><strong>圖示</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1">表示是否已為<a href="#">內容Recommendations</a>新增內容片段。</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>檢視</strong></p></td> 
@@ -84,13 +84,13 @@ Analytics表格提供下列詳細資訊：
 
 **Analytics**
 
-* **檢視**：該內容片段在所選時間範圍內的檢視
-* **直接轉換**：在同一次造訪中檢視內容並填寫表單的網頁訪客。
-* **轉換率****：**由直接轉換除以點按次數計算的百分比轉換率
+* **個檢視**：該內容片段在所選時間範圍內的檢視
+* **直接轉換**：在同次造訪中檢視內容並填寫表單的網頁訪客。
+* **轉換率****：**由直接轉換除以點按次數計算的轉換率
 
 **趨勢**
 
-* A **趨勢** 顯示特定內容片段過去30天檢視次數的圖表。 將滑鼠指標暫留在折線圖上，可檢視特定日期的內容檢視次數
+* 顯示特定內容片段過去30天檢視的&#x200B;**趨勢**&#x200B;圖表。 將滑鼠指標暫留在折線圖上，可檢視特定日期的內容檢視次數
 
 ## 刪除內容 {#delete-content}
 
@@ -100,5 +100,5 @@ Analytics表格提供下列詳細資訊：
 
 >[!MORELIKETHIS]
 >
->* [啟用內容推薦列](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
->* [為網頁多媒體啟用預測性內容](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>* [啟用內容建議列](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+>* [啟用Web Rich Media的預測內容](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

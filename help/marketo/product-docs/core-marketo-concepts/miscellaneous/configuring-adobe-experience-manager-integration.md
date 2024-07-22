@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 在 **[!UICONTROL 工具]**，按一下 **[!UICONTROL 作業]** 並選取 **[!UICONTROL 網頁主控台]**.
+1. 在&#x200B;**[!UICONTROL 工具]**&#x200B;中，按一下&#x200B;**[!UICONTROL 作業]**&#x200B;並選取&#x200B;**[!UICONTROL 網頁主控台]**。
 
    ![](assets/2a.png)
 
@@ -43,38 +43,38 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 按一下 **+** 在右側登入。
+1. 按一下右側的&#x200B;**+**&#x200B;符號。
 
    ![](assets/four.png)
 
-1. 在 **[!UICONTROL 允許的原始項(Regexp)]** 文字方塊，輸入 `https://.*\.marketo\.com` 並按一下 **[!UICONTROL 儲存]**.
+1. 在&#x200B;**[!UICONTROL 允許的來源(Regexp)]**&#x200B;文字方塊中，輸入`https://.*\.marketo\.com`並按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/five-psd.png)
 
-1. 在頁面頂端的標題中，按一下 **[!UICONTROL 網頁主控台]** 並選取 **[!UICONTROL 系統資訊]**.
+1. 在頁面頂端的標題中，按一下&#x200B;**[!UICONTROL 網頁主控台]**&#x200B;並選取&#x200B;**[!UICONTROL 系統資訊]**。
 
    ![](assets/six.png)
 
-1. 在「伺服器資訊」下，按一下 **[!UICONTROL 重新啟動]** 按鈕。
+1. 在[伺服器資訊]下，按一下[重新啟動]。****&#x200B;按鈕。
 
    ![](assets/seven.png)
 
-1. 按一下 **[!UICONTROL 確定]** 以確認。
+1. 按一下&#x200B;**[!UICONTROL 確定]**&#x200B;確認。
 
    ![](assets/eight.png)
 
-1. 在Marketo Engage中，按一下 **[!UICONTROL 管理員]**.
+1. 在Marketo Engage中，按一下&#x200B;**[!UICONTROL 管理員]**。
 
    ![](assets/nine.png)
 
-1. 在整合下方，選取 **[!UICONTROL Adobe Experience Manager]**.
+1. 在[整合]下，選取&#x200B;**[!UICONTROL Adobe Experience Manager]**。
 
    ![](assets/ten.png)
 
-1. 按一下 **[!UICONTROL 編輯]**.
+1. 按一下&#x200B;**[!UICONTROL 編輯]**。
 
    ![](assets/eleven.png)
 
-1. 輸入您的AEM URL並按一下 **[!UICONTROL 確定]**.
+1. 輸入您的AEM URL，然後按一下&#x200B;**[!UICONTROL 確定]**。
 
    ![](assets/twelve.png)

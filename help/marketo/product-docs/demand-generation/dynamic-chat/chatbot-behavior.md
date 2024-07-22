@@ -5,7 +5,7 @@ feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
 source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1623'
 ht-degree: 0%
 
 ---
@@ -185,7 +185,7 @@ ht-degree: 0%
         <p>V1點按D1但未回應</p>
         <p>V1造訪WP2</p>
       </td>
-      <td>D1將在WP1上解析<br/>
+      <td>D1將在WP1<br/>上解析
       D2將在WP2上解析</td>
       <td>
         <p>D1的觸發程式計數將增加1</p>
@@ -200,7 +200,7 @@ ht-degree: 0%
         <p>V1點按D1並完成D1</p>
         <p>V1造訪WP2</p>
       </td>
-      <td>D1將在WP1和完成後解析<br/>D2將在WP2上解析</td>
+      <td>D1將在WP1上解析，<br/>D2將在WP2上解析</td>
       <td>
         <p>D1的觸發計數、參與計數和完成計數將增加1</p>
         <p>D2的觸發程式計數將增加1</p>
@@ -215,7 +215,7 @@ ht-degree: 0%
         <p>V1造訪WP2</p>
         <p>D2上的V1點按可提供第一個回應</p>
       </td>
-      <td>D1將在WP1和完成後解析<br/>D2將在WP2上解析</td>
+      <td>D1將在WP1上解析，<br/>D2將在WP2上解析</td>
       <td>
         <p>D1的觸發計數、參與計數和完成計數將增加1</p>
         <p>D2的觸發器和參與計數將增加1</p>
@@ -329,7 +329,7 @@ ht-degree: 0%
         <p>D2目標為WP1,2優先順序</p>
         <p>V1首次造訪WP1</p>
         <p>V1點按D1並完成D1</p>
-        <p>V1重新整理WP1並參閱D2<br/>V1點按D2並完成D2</p>
+        <p>V1會重新整理WP1並檢視D2<br/>V1在D2上的點按及完成D2</p>
         <p>行銷人員變更D1並重新發佈</p>
         <p>V1重新整理WP1</p>
       </td>

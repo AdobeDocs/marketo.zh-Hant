@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 如何快速設定銷售電話？ {#how-do-i-quickly-get-set-up-with-sales-phone}
 
-**電話號碼：** 您只需輸入一次。 Sales Connect將會記住您未來所有通話的號碼。
+**電話號碼：**&#x200B;您只需要輸入一次。 Sales Connect將會記住您未來所有通話的號碼。
 
-**本機是否存在：** 您只需要勾選「使用本機狀態」，並記錄您第一次通話的通話。 Sales Connect將會記住您未來所有通話的設定。
+**本機狀態：**&#x200B;您只需要勾選[使用本機狀態]並記錄第一次通話的通話。 Sales Connect將會記住您未來所有通話的設定。
 
-如果您希望Sales Connect在Salesforce中自動建立呼叫活動，請取出 [本文](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
+如果您希望Sales Connect在Salesforce中自動建立通話活動，請檢視[此文章](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)。
 
 ## 我該如何使用銷售電話進行通話？ {#how-do-i-make-a-call-with-sales-phone}
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 
 一旦您接聽電話或撥打電話， Sales Connect就會從Salesforce提取您的銷售機會/連絡人的電話號碼。 如果Salesforce中未列出任何號碼，Sales Connect將會提取帳戶記錄上的電話號碼。
 
-對於使用其他CRMS的團隊，Sales Connect會從Sales Connect中的記錄號碼提取電話號碼。 這些資料可透過 [CSV上傳](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+對於使用其他CRMS的團隊，Sales Connect會從Sales Connect中的記錄號碼提取電話號碼。 此資料可透過[CSV上傳](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)輕鬆取得。
 
-按一下大綠色 **呼叫** 按鈕。 然後，您的電話就會開始響鈴。 拿起電話，Sales Connect會自動撥打潛在客戶/連絡人。
+按一下綠色的&#x200B;**呼叫**&#x200B;大按鈕。 然後，您的電話就會開始響鈴。 拿起電話，Sales Connect會自動撥打潛在客戶/連絡人。

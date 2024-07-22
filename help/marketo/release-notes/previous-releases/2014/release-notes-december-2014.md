@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 銷售分析報表 {#sales-insight-reports}
 
-此 [銷售分析電子郵件績效報表](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) 可讓您透過電子郵件和銷售代表來檢視電子郵件量度。 它支援透過Salesforce、Microsoft Dynamics、Outlook外掛程式和Gmail外掛程式傳送的電子郵件。
+[銷售分析電子郵件績效報表](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)可讓您透過電子郵件和銷售代表來檢視電子郵件量度。 它支援透過Salesforce、Microsoft Dynamics、Outlook外掛程式和Gmail外掛程式傳送的電子郵件。
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ## facebook自訂對象 {#facebook-custom-audiences}
 
-在您的Marketo管理員新增後 [透過「管理員> Launchpoint」的Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)，您可輕鬆建立、更新或 [以來自Facebook靜態或智慧清單的銷售機會取代Marketo自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). 在任何靜態或智慧清單的銷售機會格線底部尋找新的Facebook圖示。
+一旦您的Marketo管理員透過「管理員> Launchpoint」新增[Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)，您就可以輕鬆地建立、更新或將Facebook自訂對象取代為Marketo靜態或智慧清單中的潛在客戶](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 [在任何靜態或智慧清單的銷售機會格線底部尋找新的Facebook圖示。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## 改善跨工作區的複製  {#improved-cloning-across-workspaces}
 
-[復製程式](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) 前往另一個工作區從未如此輕鬆！ 當您按一下複製時，您會選取目的地工作區。 不要再複製至資料夾，然後再行動資料夾！
+[將程式](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)複製到另一個工作區從未如此容易！ 當您按一下複製時，您會選取目的地工作區。 不要再複製至資料夾，然後再行動資料夾！
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 ## 參考智慧清單 {#reference-smart-list}
 
-[可參考與其他工作區共用的智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) 建立智慧清單或流量時。
+[建立智慧列示或流量時，可參考與其他工作區共用的智慧列示](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)。
 
 ## 清單匯入改善 {#list-import-improvements}
 
-[匯入檔案](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 以UTF-16、Shift-JIS或EUC-JP編碼。 我們持續支援UTF-8編碼檔案。
+[匯入以UTF-16、Shift-JIS或EUC-JP編碼的檔案](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)。 我們持續支援UTF-8編碼檔案。
 
 ## 電子郵件指令碼中的連結追蹤 {#link-tracking-in-email-scripting}
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ·合併銷售機會
 
-完整詳細資料將於發佈後提供： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+發行後，完整詳細資料將可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)取得
 
 ## Munchkin Javascript相容性增強功能 {#munchkin-javascript-compatibility-enhancements}
 

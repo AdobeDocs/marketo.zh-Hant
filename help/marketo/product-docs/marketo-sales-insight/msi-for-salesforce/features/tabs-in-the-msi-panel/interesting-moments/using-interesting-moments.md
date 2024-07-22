@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->這些功能可供Marketo Sales Insight和 [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) 僅限客戶。
+>這些僅適用於Marketo Sales Insight和[Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)客戶。
 
 ## 什麼是有趣的時刻？ {#what-is-an-interesting-moment}
 
@@ -29,29 +29,29 @@ ht-degree: 0%
 
 ## 我該如何打造有趣的時刻？  {#how-do-i-create-an-interesting-moment}
 
-1. 選擇 [智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)，最好是您的銷售團隊在觸發時可能會感興趣的專案。
+1. 選擇一個[智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)，最好是您的銷售團隊在觸發時感興趣的行銷活動。
 
    ![](assets/using-interesting-moments-1.png)
 
-1. 拖曳至 **有趣的時刻** 流程步驟。
+1. 拖曳到&#x200B;**有趣的時刻**&#x200B;流程步驟上。
 
    ![](assets/using-interesting-moments-2.png)
 
-1. 選取 **type** （電子郵件、里程碑或網頁）。
+1. 選取&#x200B;**型別** （電子郵件、里程碑或網頁）。
 
    ![](assets/using-interesting-moments-3.png)
 
-1. 在「 」中撰寫訊息給您的銷售團隊 **說明** 說明此動作重要原因的欄位。
+1. 在&#x200B;**描述**&#x200B;欄位中寫訊息給您的銷售團隊，說明此動作重要的原因。
 
    ![](assets/using-interesting-moments-4.png)
 
    >[!NOTE]
    >
-   >Marketo也會新增發生日期以及新增有趣時刻的方式（即潛在客戶動作>流程步驟、SOAP API）。
+   >Marketo也會新增發生日期以及新增有趣時刻的方式(即潛在客戶動作>流程步驟、SOAP API)。
 
 ## 這怎麼會更有趣呢？  {#how-can-this-get-even-more-interesting}
 
-Token！ 在說明欄位中新增這些聯絡人，可為您的銷售團隊提供更具體的資訊，例如已開啟潛在客戶之電子郵件的主旨行或傳送者。 檢視哪些代號可用於 [有趣時刻的Token](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) 字彙表。
+Token！ 在說明欄位中新增這些聯絡人，可為您的銷售團隊提供更具體的資訊，例如已開啟潛在客戶之電子郵件的主旨行或傳送者。 檢視哪些權杖可在[有趣時刻的權杖](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)字彙表中使用。
 
 >[!TIP]
 >
@@ -59,13 +59,13 @@ Token！ 在說明欄位中新增這些聯絡人，可為您的銷售團隊提�
 
 ## Marketo中有趣的時刻是什麼樣子？  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-有趣的時刻會顯示在 [潛在客戶的活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+將在[潛在客戶的活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)中顯示有趣的時刻。
 
 ![](assets/using-interesting-moments-5.png)
 
 ## Salesforce中某個有趣的時刻看起來像什麼？  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-一旦您 [已安裝Marketo Sales Insight App](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)，潛在客戶、聯絡人、客戶或機會頁面上會顯示有趣的時刻。 它們也會出現在銷售機會摘要的銷售分析儀表板中、最佳對策和觀看清單。
+在您[安裝Marketo Sales Insight應用程式](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)後，潛在客戶、連絡人、客戶或商機頁面上將會顯示有趣的時刻。 它們也會出現在銷售機會摘要的銷售分析儀表板中、最佳對策和觀看清單。
 
 ![](assets/using-interesting-moments-6.png)
 
@@ -85,7 +85,7 @@ Token！ 在說明欄位中新增這些聯絡人，可為您的銷售團隊提�
 
 1. 選擇您要傳送警示給（您自己/團隊成員）的電子郵件地址
 
-1. 按一下 **訂閱**.
+1. 按一下&#x200B;**訂閱**。
 
 >[!NOTE]
 >

@@ -31,35 +31,35 @@ Marketo Sales Insight是依語言儲存。 因此，如果您希望它適用於�
 
 ## 為Marketo Sales Insight新增語言 {#adding-a-new-language-for-marketo-sales-insight}
 
-1. 登入Salesforce。 在右上角名稱下方的下拉式清單中，按一下 **設定**.
+1. 登入Salesforce。 在右上角名稱下方的下拉式清單中，按一下&#x200B;**設定**。
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. 在 **我的個人資訊**，按一下 **個人資訊**.
+1. 在&#x200B;**我的個人資訊**&#x200B;下，按一下&#x200B;**個人資訊**。
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
-1. 按一下 **編輯**.
+1. 按一下&#x200B;**編輯**。
 
    ![](assets/image2015-7-6-16-3a5-3a38.png)
 
-1. 選取語言並按一下 **儲存**.
+1. 選取語言並按一下&#x200B;**儲存**。
 
    ![](assets/image2015-7-6-16-3a5-3a47.png)
 
-1. 您的Salesforce介面現在使用選取的語言。 您可以按一下 **+** 圖示以檢視所有可用的標籤。
+1. 您的Salesforce介面現在使用選取的語言。 您可以按一下&#x200B;**+**&#x200B;圖示以檢視所有可用的標籤。
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
-1. 按一下 **設定Marketo Sales Insight** （使用選取的語言）。
+1. 按一下&#x200B;**設定Marketo銷售分析** （使用選取的語言）。
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. 前往Marketo。 找出您的 [Marketo Sales Insight **API設定** 詳細資料](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
+1. 前往Marketo。 找出您的[Marketo Sales Insight **API組態**&#x200B;詳細資料](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight)。
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
-1. 輸入Marketo的API詳細資料，然後按一下 **儲存**.
+1. 輸入Marketo的API詳細資料，然後按一下&#x200B;**儲存**。
 
    ![](assets/image2015-7-6-16-3a7-3a43.png)
 
@@ -71,19 +71,19 @@ Marketo Sales Insight是依語言儲存。 因此，如果您希望它適用於�
 >
 >下列熒幕擷取畫面為法文，並附有英文指示。  您會看到與您在上一步中選取之語言文字相同的畫面。
 
-1. 在您的名稱底下，按一下 **設定**.
+1. 在您的名稱底下，按一下&#x200B;**設定**。
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. 按一下 **個人資訊** 在 **我的個人資訊**.
+1. 按一下&#x200B;**我的個人資訊**&#x200B;下的&#x200B;**個人資訊**。
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
-1. 按一下 **編輯**.
+1. 按一下&#x200B;**編輯**。
 
    ![](assets/image2015-7-6-16-3a8-3a19.png)
 
-1. 選取 **英文** 從「語言」下拉式清單，按一下 **儲存**.
+1. 從「語言」下拉式清單中選取&#x200B;**英文**，然後按一下&#x200B;**儲存**。
 
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 

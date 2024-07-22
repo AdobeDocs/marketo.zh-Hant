@@ -15,10 +15,10 @@ ht-degree: 0%
 
 想要在每次建立可能的重複人員時都顯示警示嗎？ 以下說明如何設定Smart Campaign來執行。
 
-1. [建立新的智慧行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. 定義下列智慧清單：
+1. [建立新的Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}。 定義下列智慧清單：
 
-* 觸發： **[!UICONTROL 已建立人員]**
-* 篩選： **[!UICONTROL 重複欄位]**. 欄位名稱 **[!UICONTROL 是] [!UICONTROL 全名]**
+* 觸發器： **[!UICONTROL 人員已建立]**
+* 篩選器： **[!UICONTROL 重複的欄位]**。 欄位名稱&#x200B;**[!UICONTROL 是] [!UICONTROL 完整名稱]**
 
   ![](assets/automate-an-alert-1.png)
 
@@ -26,13 +26,13 @@ ht-degree: 0%
   >
   >發揮創意。 實驗不同的欄位，以獲得更好的篩選結果。
 
-1. 在流程步驟中，選擇 [[!UICONTROL 傳送警報]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"} 流量動作。
+1. 在流程步驟中，選擇[[!UICONTROL 傳送警示]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"}流程動作。
 
    ![](assets/automate-an-alert-2.png)
 
    >[!TIP]
    >
-   >使用 [傳送警報資訊權杖](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} 在您的CRM中加入此人的連結。
+   >使用[傳送警示資訊Token](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}，在您的CRM中加入此人的連結。
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ ht-degree: 0%
    >
    >此外，兩個同名人員不會自動錶示他們是同一個人。
 
-1. 在中啟動行銷活動 **[!UICONTROL 排程]** 標籤。
+1. 在&#x200B;**[!UICONTROL 排程]**&#x200B;索引標籤中啟動行銷活動。
 
    ![](assets/automate-an-alert-3.png)
 

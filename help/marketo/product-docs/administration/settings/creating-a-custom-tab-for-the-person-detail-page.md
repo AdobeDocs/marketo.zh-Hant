@@ -15,15 +15,15 @@ ht-degree: 0%
 
 如果您發現自己需要在人員詳細資料中一次又一次地尋找特定欄位集，請考慮建立自訂版面以簡化工作。
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. 按一下 **[!UICONTROL 欄位管理]**.
+1. 按一下&#x200B;**[!UICONTROL 欄位管理]**。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. 按一下 **[!UICONTROL 自訂配置設計工具]** 標籤。
+1. 按一下「**[!UICONTROL 自訂配置Designer]**」標籤。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >您有兩個欄可搭配使用。
 
-   如果您決定要移除欄位，請以滑鼠右鍵按一下要移除的欄位，然後按一下 **[!UICONTROL 刪除]**.
+   如果您決定要移除欄位，請用滑鼠右鍵按一下要移除的欄位，然後按一下&#x200B;**[!UICONTROL 刪除]**。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 以下功能包含在2018年冬季發行版本中。 檢查您的Marketo版本是否有功能可用。
 
-請按一下標題連結以檢視每個功能的詳細文章。 **注意**：此版本包含的部分功能沒有相關文章。 如果主題有多個副標題，連結就會放在那裡。
+請按一下標題連結以檢視每個功能的詳細文章。 **注意**：此版本中包含的部分功能沒有相關文章。 如果主題有多個副標題，連結就會放在那裡。
 
 ## 行銷活動效能和輸送量增強功能 {#campaign-performance-and-throughput-enhancements}
 
@@ -25,9 +25,9 @@ Marketo運用我們的大型資料架構，提高觸發行銷活動的輸送量�
 
 Salesforce CRM整合有兩項增強功能：
 
-* [Marketo管理通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) 特定CRM同步失敗（憑證過期、達到API限制等）的錯誤
+* 針對某些CRM同步處理失敗（憑證過期、達到API限制等），[Marketo管理員通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
 
-* [能夠關閉電子郵件通知](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) 潛在客戶指定時至潛在客戶擁有者
+* [可在潛在客戶指派時關閉潛在客戶擁有者的電子郵件通知](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md)
 
 這些改善將於2018年推出。
 
@@ -55,9 +55,9 @@ Salesforce CRM整合有兩項增強功能：
 
 **收件者時區**
 
-* **[每月培養節奏](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**：我們已新增每月排程培養計畫的功能。
+* **[每月的Nurture Cadence](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**：我們已新增每月排程Nurture計畫的功能。
 
-* **[停止傳遞](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**：您現在可以在執行期間停止任何剩餘的傳送。
+* **[停止傳遞](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**：您現在可以停止任何剩餘的傳送中繼。
 
 ## 廣告網路整合 {#ad-network-integrations}
 
@@ -65,29 +65,29 @@ Salesforce CRM整合有兩項增強功能：
 
 透過這項整合，您可以傳送Marketo對象至Google，以使用Google AdWords設為目標，並跨YouTube、Search和Gmail重新鎖定對象。
 
-**[linkedIn比對對象API增強功能](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[LinkedIn Matched Audiences API增強功能](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
 現在，新的LinkedIn API可讓您跨多個Marketo Campaign Manager帳戶，重新鎖定LinkedIn資料庫中的使用者。
 
-## 網頁個人化 {#web-personalization}
+## 網頁Personalization {#web-personalization}
 
-**網頁個人化的日文資料來源**
+適用於Web Personalization的&#x200B;**Japanese Data Source**
 
-Marketo正在新增另一個日本資料來源用於「網頁個人化」，以改進來自日本的訪客的網頁訪客識別（反向IP查詢）和個人化。 組織名稱會顯示為日文。
+Marketo正在新增另一個日本資料來源用於Web Personalization，以改進來自日本的訪客的網站訪客識別（反向IP查詢）和個人化。 組織名稱會顯示為日文。
 
 **[使用靜態清單建立網頁區段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-「網頁個人化」現在可以將內容個人化給屬於行銷活動(MLM)中定義之靜態清單一部分的已知網頁訪客。 透過此增強功能，您現在可以跨管道行銷靜態清單，並以您網站上的個人化內容來鎖定這些清單上的人員。
+Web Personalization現在可以將內容個人化給屬於行銷活動(MLM)中定義的靜態清單一部分的已知網頁訪客。 透過此增強功能，您現在可以跨管道行銷靜態清單，並以您網站上的個人化內容來鎖定這些清單上的人員。
 
 ## contentai {#contentai}
 
-**預測演演算法改良**
+**預測演演算法改進**
 
 透過Marketo最佳化ContentAI演演算法的建議內容所產生的點按次數，是隨機內容的兩倍。
 
 ## 整合 {#integration}
 
-**[啟用/停用Campaign API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[啟用/停用行銷活動API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 此新API可讓您從遠端啟用和停用觸發程式行銷活動，因此您現在可以建立完全自動化的方案範本。 一次建立方案範本，然後自動複製、行銷宣傳品更新，現在則啟動/排程智慧型行銷活動。
 
@@ -95,7 +95,7 @@ Marketo正在新增另一個日本資料來源用於「網頁個人化」，以�
 
 **取消訂閱更新**
 
-自2018年3月1日起，所有傳送自 [ToutApp.com](https://ToutApp.com) （而且藉由使用Salesforce中的「傳送電子郵件給別人」按鈕）底部會附加一個取消訂閱連結。
+自2018年3月1日起，從[ToutApp.com](https://ToutApp.com)傳送的所有電子郵件（以及使用Salesforce中的「含Tout的電子郵件」按鈕）底部都會附加一個取消訂閱連結。
 
 **即時摘要更新**
 

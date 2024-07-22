@@ -19,11 +19,11 @@ ht-degree: 0%
 
 您已建立全新的自訂物件。 核准的方法說明如下。
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/approve-a-custom-object-1.png)
 
-1. 按一下 **[!UICONTROL Marketo自訂物件]**.
+1. 按一下&#x200B;**[!UICONTROL Marketo自訂物件]**。
 
    ![](assets/approve-a-custom-object-2.png)
 
@@ -31,23 +31,23 @@ ht-degree: 0%
 
    ![](assets/approve-a-custom-object-3.png)
 
-1. 按一下 **[!UICONTROL 自訂物件動作]** 下拉式清單並選取 **[!UICONTROL 核准物件]**.
+1. 按一下&#x200B;**[!UICONTROL 自訂物件動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 核准物件]**。
 
    ![](assets/approve-a-custom-object-4.png)
 
-1. 狀態變更為 [!UICONTROL 已核准].
+1. 狀態變更為[!UICONTROL 已核准]。
 
    ![](assets/approve-a-custom-object-5.png)
 
    >[!NOTE]
    >
-   >中使用的自訂物件 _一對多結構_ 必須至少要核准一個重複資料刪除欄位、連結欄位、連結物件名稱和連結欄位名稱。
+   >在&#x200B;_一對多結構_&#x200B;中使用的自訂物件必須至少要核准一個重複資料刪除欄位、連結欄位、連結物件名稱和連結欄位名稱。
    >
-   >中使用的自訂物件 _多對多結構_ **不會** 核準時需要一個連結欄位、連結物件名稱或連結欄位名稱（因為它們位在中間物件中）。
+   >在&#x200B;_多對多結構_ **中使用的自訂物件，在您核准它時**&#x200B;不需要連結欄位、連結物件名稱或連結欄位名稱（因為它們位於中介物件中）。
    >
-   >用作的自訂物件 _中介物件_ 需要連結欄位、連結物件名稱和連結欄位名稱，但 **不會** 需要重複資料刪除欄位。
+   >用作&#x200B;_中介物件_&#x200B;的自訂物件需要連結欄位、連結物件名稱和連結欄位名稱，但&#x200B;**不**&#x200B;需要重複資料刪除欄位。
    >
-   >另請參閱 [瞭解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) 以取得詳細資訊。
+   >如需詳細資訊，請參閱[瞭解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)。
 
 完成了！ 現在，您可以在篩選器和觸發器的限制中選取自訂物件，以用於行銷活動。
 
@@ -55,14 +55,14 @@ ht-degree: 0%
 
 編輯已核准的自訂物件後，您必須核准草稿才能將自訂物件恢復為已核准狀態。
 
-1. 當您編輯已核准的自訂物件時，它會收到 [!UICONTROL 已核准且具有草稿] 州別。
+1. 當您編輯已核准的自訂物件時，它會收到[!UICONTROL 已核准草稿]狀態。
 
    ![](assets/approve-a-custom-object-6.png)
 
-1. 當您準備好核准草稿時，請按一下 **[!UICONTROL 自訂物件動作]** 下拉式清單並選取 **[!UICONTROL 核准物件]**.
+1. 當您準備好核准草稿時，請按一下&#x200B;**[!UICONTROL 自訂物件動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 核准物件]**。
 
    ![](assets/approve-a-custom-object-7.png)
 
-1. 預覽會顯示草稿中變更的專案。 按一下 **[!UICONTROL 核准]**.
+1. 預覽會顯示草稿中變更的專案。 按一下&#x200B;**[!UICONTROL 核准]**。
 
    ![](assets/approve-a-custom-object-8.png)

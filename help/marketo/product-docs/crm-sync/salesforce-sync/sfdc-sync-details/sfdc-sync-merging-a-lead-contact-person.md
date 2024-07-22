@@ -6,7 +6,7 @@ exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 有時最好只列出規則。 開始吧：
 
-* 當您合併兩個潛在客戶時 **Salesforce**，一般同步會告訴Marketo Engage，而銷售機會會自動合併為Marketo中的人員。
-* 合併兩個人員 **Marketo** 實際上會叫用與在Salesforce中合併潛在客戶相同的程式。 仍可自動運作。
-* 合併 **潛在客戶（人員）與聯絡人** 運作方式相同。 最後兩邊只有一個接觸點。
+* 當您在&#x200B;**Salesforce**&#x200B;中合併兩個銷售機會時，一般的同步處理會告訴Marketo Engage，並且這些銷售機會會自動合併為Marketo中的人員。
+* 在&#x200B;**Marketo**&#x200B;中合併兩個人實際上會叫用與在Salesforce中合併他們相同的程式。 仍可自動運作。
+* 將&#x200B;**銷售機會（人員）合併至連絡人**&#x200B;的工作方式相同。 最後兩邊只有一個接觸點。
 * 合併時，會加總預設分數。
 
 >[!NOTE]
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->深入探討，瞭解更多關於 [在Marketo中合併人員](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.
+>深入瞭解[在Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}中合併人員的詳細資訊。

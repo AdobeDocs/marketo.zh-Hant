@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 上一期間設定 {#previous-period-configuration}
 
-**參與度、管道、收入儀表板 — 僅限貢獻**
+**參與度、管道、收入儀表板 — 僅貢獻**
 
 <table> 
  <tbody> 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## 受行銷影響的機會 {#marketing-influenced-opportunities}
 
-**Pipeline Dashboard — 貢獻和趨勢**
+**管道儀表板 — 貢獻和趨勢**
 
 <table> 
  <tbody> 
@@ -72,7 +72,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-**收入控制面板 — 貢獻與趨勢**
+**收入儀表板 — 貢獻和趨勢**
 
 <table> 
  <tbody> 

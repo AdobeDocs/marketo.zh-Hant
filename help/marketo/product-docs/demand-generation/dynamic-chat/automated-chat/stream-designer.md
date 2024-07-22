@@ -1,5 +1,5 @@
 ---
-description: 串流設計工具 — Marketo檔案 — 產品檔案
+description: 串流Designer - Marketo檔案 — 產品檔案
 title: 流程設計工具
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
@@ -12,15 +12,15 @@ ht-degree: 2%
 
 # 流程設計工具 {#stream-designer}
 
-有 _許多_ 可能的資料流組合。 本文包含行銷人員詢問網站訪客是否有任何產品問題的範例。 如果是，訪客可以排程約會。 如果沒有，訪客可以選擇加入郵寄清單以備將來通訊。 此外還提供免費PDF。 最終目標是排程約會或收集訪客的電子郵件。
+可能有&#x200B;_多個_&#x200B;資料流組合。 本文包含行銷人員詢問網站訪客是否有任何產品問題的範例。 如果是，訪客可以排程約會。 如果沒有，訪客可以選擇加入郵寄清單以備將來通訊。 此外還提供免費PDF。 最終目標是排程約會或收集訪客的電子郵件。
 
 >[!PREREQUISITES]
 >
->您必須先使用檔案卡，才能使用 [設定它](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} 在您的Adobe帳戶中。
+>您必須先在您的Adobe帳戶中[設定](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}，才能使用檔案卡。
 
-## 串流設計工具卡片 {#stream-designer-cards}
+## 串流Designer卡 {#stream-designer-cards}
 
-串流設計工具包含多個卡片，您可以新增卡片來塑造聊天對話。
+串流Designer包含多張卡片，您可以新增卡片來塑造聊天對話。
 
 <table>
  <tr>
@@ -42,7 +42,7 @@ ht-degree: 2%
  </tr>
  <tr>
   <td style="width:25%"><strong>會議預訂</strong></td>
-  <td>為訪客提供可用日期的行事曆以排程會議。 透過循環配置資源、特定代理程式或使用自訂規則，選擇行事曆可用性。 按一下 <b>新增屬性</b> 如果您想要擷取代理程式的名稱或電子郵件地址，並將其指派給聊天訪客的個人記錄以供日後查詢(提示：建立 <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">自訂欄位</a> 將代理程式的資訊對應至，以免覆寫標準Marketo Engage欄位)。</td>
+  <td>為訪客提供可用日期的行事曆以排程會議。 透過循環配置資源、特定代理程式或使用自訂規則，選擇行事曆可用性。 如果您想要擷取代理程式的名稱或電子郵件地址，並將它指派給聊天訪客的個人記錄以供日後查詢，請按一下<b>新增屬性</b> (提示：建立<a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">自訂欄位</a>以將代理程式的資訊對應到以不覆寫標準Marketo Engage欄位)。</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>目標</strong></td>
@@ -50,7 +50,7 @@ ht-degree: 2%
  </tr>
  <tr>
   <td style="width:25%"><strong>動作*</strong></td>
-  <td>類似於表單中的隱藏欄位，您可以使用動作卡填入任何潛在客戶或公司屬性(具有 <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">字串資料型別</a>)擷取隱含值。 您可以在交談的任何時間點新增動作卡，並使用自動填入個別值的值或原生權杖更新個別屬性。
+  <td>類似於表單中的隱藏欄位，您可以使用動作卡將您要擷取潛在客戶記錄的隱含值填入任何潛在客戶或公司屬性（具有<a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">字串資料型別</a>）。 您可以在交談的任何時間點新增動作卡，並使用自動填入個別值的值或原生權杖更新個別屬性。
   <p><i>*這張卡片需要Dynamic Chat Prime。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。</i></td>
  </tr>
  <tr>
@@ -74,9 +74,9 @@ ht-degree: 2%
  </tr>
 </table>
 
-## 串流設計工具圖示 {#stream-designer-icons}
+## 串流Designer圖示 {#stream-designer-icons}
 
-在串流設計工具的右上角，您會看到幾個圖示。 以下是他們的工作。
+在Stream Designer的右上角，您會看到幾個圖示。 以下是他們的工作。
 
 <table>
  <tr>
@@ -103,73 +103,73 @@ ht-degree: 2%
 
 ## 建立資料流 {#create-a-stream}
 
-您可以建立對話方塊的串流或 [對話式Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. 在此範例中，我們將為對話方塊建立一個對話方塊。
+您可以建立對話方塊或[對話式Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}的串流。 在此範例中，我們將為對話方塊建立一個對話方塊。
 
-1. 在您完成以下任務後： [已建立您的對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}，按一下 **[!UICONTROL 串流設計工具]** 標籤。
+1. 在您[建立對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}之後，請按一下&#x200B;**[!UICONTROL 串流Designer]**&#x200B;索引標籤。
 
    ![](assets/stream-designer-6.png)
 
-1. 拖放 [!UICONTROL 問題] 卡片。
+1. 拖放[!UICONTROL 問題]卡片。
 
    ![](assets/stream-designer-7.png)
 
-1. 在 [!UICONTROL 聊天機器人回應]，說出您想要問的問題。
+1. 在[!UICONTROL 聊天機器人回應]底下，說出您想要如何回答的問題。
 
    ![](assets/stream-designer-8.png)
 
    >[!TIP]
    >
-   >您可以使用代號為已知的聊天訪客個人化體驗(例如：Hello `{{lead.leadFirstName:""}}`)。 只要按一下右側的花括弧圖示，即可進行選取。 如果您希望匿名訪客看到一般內容（例如：Hello），請在引號之間新增預設值 `{{lead.leadFirstName:"there"}}`)。
+   >您可以使用代號（例如： Hello `{{lead.leadFirstName:""}}`）為已知的聊天訪客個人化體驗。 只要按一下右側的花括弧圖示，即可進行選取。 如果您希望匿名訪客看到一般內容（例如： Hello `{{lead.leadFirstName:"there"}}`），請在引號之間新增預設值。
 
    >[!NOTE]
    >
    >Poke預設為開啟，這會在聊天圖示旁邊顯示開頭的問題，訪客不需要按一下它即可檢視。 Poke只適用於交談中的第一張卡片。
 
-1. 輸入您的使用者回應，然後按一下 **[!UICONTROL 儲存]**.
+1. 輸入您的使用者回應，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL 編輯儲存的值]** 如果想在資料庫中儲存的值與聊天機器人針對問題卡片中的對應屬性向訪客顯示的值不同（例如：訪客看到「搜尋引擎最佳化」，而您將該值儲存為「SEO」），此為選用步驟。
+   >**[!UICONTROL 編輯儲存的值]**&#x200B;是選擇性的步驟，適用於想要將不同的值儲存在資料庫中（例如訪客看到「搜尋引擎最佳化」，而您將該值儲存為「SEO」），而不是儲存在聊天機器人中，針對問題卡中對應屬性的訪客顯示的值。
 
 1. 若為「是」，我們想要排程約會，因此在該選項下方將拖曳到「約會排程器」卡上。
 
    ![](assets/stream-designer-10.png)
 
-1. 在右側的欄中，按一下 **[!UICONTROL 儲存]**.
+1. 在右邊的欄中，按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/stream-designer-11.png)
 
-1. 由於這是目標，請拖曳 [!UICONTROL 目標] 卡片在約會排程器下方。
+1. 由於這是目標，請將[!UICONTROL 目標]卡片拖曳到約會排程器下方。
 
    ![](assets/stream-designer-12.png)
 
-1. 為您的目標命名（或選擇現有目標），然後按一下 **[!UICONTROL 儲存]**.
+1. 命名您的目標（或選擇現有的目標），然後按一下[儲存]。****
 
    ![](assets/stream-designer-13.png)
 
-1. 若為「否」，我們想要檢視他們是否會加入郵寄清單，所以在該選項下方將拖曳至其他選項 [!UICONTROL 問題] 卡片。
+1. 若為「否」，我們想要檢視他們是否會加入郵寄清單，所以在該選項下方將拖曳到另一個[!UICONTROL 問題]卡片。
 
    ![](assets/stream-designer-14.png)
 
-1. 輸入您的回應，並為訪客新增回應選擇。 按一下 **[!UICONTROL 儲存]** 完成時。
+1. 輸入您的回應，並為訪客新增回應選擇。 完成時，按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
-   >您可以按一下「 」，新增更多回應 **[!UICONTROL 新增回應]**.
+   >您可以按一下&#x200B;**[!UICONTROL 新增回應]**，以新增更多回應。
 
 1. 在「是」回應下方，拖曳至「資訊擷取」卡片上方，以便收集訪客的電子郵件。
 
    ![](assets/stream-designer-16.png)
 
-1. 按一下 **[!UICONTROL 型別]** 下拉式清單並選取 **[!UICONTROL 電子郵件]**.
+1. 按一下&#x200B;**[!UICONTROL 型別]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 電子郵件]**。
 
    ![](assets/stream-designer-17.png)
 
-1. 輸入聊天機器人訊息和預留位置。 確定屬性已對應到Marketo Engage中的適當欄位，然後按一下 **[!UICONTROL 儲存]**.
+1. 輸入聊天機器人訊息和預留位置。 確定屬性已對應到Marketo Engage中的適當欄位，然後按一下[儲存]。****
 
    ![](assets/stream-designer-18.png)
 
@@ -192,11 +192,11 @@ ht-degree: 2%
     </tr>
    </table>
 
-1. 由於收集其電子郵件是目標，因此請拖曳 [!UICONTROL 目標] 資訊擷取下方的卡片。
+1. 由於收集他們的電子郵件是目標，請將[!UICONTROL 目標]卡片拖曳至「資訊擷取」下方。
 
    ![](assets/stream-designer-19.png)
 
-1. 為您的目標命名（或選擇現有目標），然後按一下 **[!UICONTROL 儲存]**.
+1. 命名您的目標（或選擇現有的目標），然後按一下[儲存]。****
 
    ![](assets/stream-designer-20.png)
 
@@ -204,21 +204,21 @@ ht-degree: 2%
 
    ![](assets/stream-designer-21.png)
 
-1. 在此範例中，我們將建立新檔案。 為其命名，輸入您已託管之PDF的URL，然後按一下 **[!UICONTROL 儲存]**.
+1. 在此範例中，我們將建立新檔案。 請為它命名，輸入您已託管之PDF的URL，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/stream-designer-22.png)
 
-1. 選取 **[!UICONTROL 預覽]** 切換即可預覽您的對話方塊。
+1. 選取&#x200B;**[!UICONTROL 預覽]**&#x200B;切換以預覽您的對話方塊。
 
    ![](assets/stream-designer-23.png)
 
-1. 當您準備好要啟動對話方塊時，請按一下 **[!UICONTROL 發佈]**.
+1. 當您準備好要啟動對話方塊時，請按一下&#x200B;**[!UICONTROL Publish]**。
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->按一下之前 [!UICONTROL 發佈]，請記得確定您已執行 [已輸入您的目標URL](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>按一下[!UICONTROL Publish]之前，請記得確定您已[輸入目標URL](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}。
 
 >[!MORELIKETHIS]
 >

@@ -21,13 +21,13 @@ Marketo Sales Connect是多方面的銷售支援解決方案，具備多種功�
 
 ## 即時摘要 {#the-live-feed}
 
-銷售代表可以檢視 [即時參與](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) 行銷和銷售內容。
+銷售代表可以檢視行銷和銷售內容的[即時參與](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)。
 
 ![](assets/engagement.jpg)
 
 ## 個人詳細資料檢視 {#person-detail-view}
 
-存取 [詳細人員統計資料](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
+存取[詳細的人員統計資料](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md)。
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -61,7 +61,7 @@ Marketo Sales Connect是多方面的銷售支援解決方案，具備多種功�
   </tr> 
   <tr> 
    <td colspan="1"><p>接聽銷售電話</p></td> 
-   <td colspan="1"><p>潛在客戶收到銷售人員的電話時，使用 <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">銷售電話</a>.</p></td> 
+   <td colspan="1"><p>潛在客戶使用<a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">銷售電話</a>接聽銷售人員的電話。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>新增至銷售行銷活動</p></td> 
@@ -80,7 +80,7 @@ Marketo Sales Connect是多方面的銷售支援解決方案，具備多種功�
 
 ## 共用行銷活動 {#share-marketing-campaigns}
 
-建立簡單的智慧型行銷活動，讓您的銷售使用者可以存取 [Marketo行銷活動資料](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+建立簡單的智慧型行銷活動，讓您的銷售使用者存取[Marketo行銷活動資料](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)。
 
 ![](assets/campaign-is-requested.jpg)
 

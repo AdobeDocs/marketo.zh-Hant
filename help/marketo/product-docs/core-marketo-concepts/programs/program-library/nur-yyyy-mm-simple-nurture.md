@@ -2,10 +2,10 @@
 description: NUR-YYYY-MM-Simple Nurture - Marketo檔案 — 產品檔案
 title: NUR-YYYY-MM-Simple Nurture
 feature: Programs
-exl-id: 3e09ee4f-be65-4f2b-bdf5-ddd98bb49c1c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '347'
 ht-degree: 4%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 4%
 
 這是簡單的Nurture計畫範例，利用Marketo Engage參與計畫，有節奏的內容會隨著時間滴到您的資料庫，同時利用串流根據行為引導記錄完成歷程。
 
-如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -36,7 +36,7 @@ ht-degree: 4%
  </tbody> 
 </table>
 
-## 程式包含下列資產 {#program-contains-the-following-assets}
+## 程式包含下列Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -94,7 +94,7 @@ ht-degree: 4%
   <tr> 
    <td>資料夾</td> 
    <td> </td>
-   <td>資產 — 容納所有創意資產
+   <td>Assets — 容納所有創意資產
    <br/>（電子郵件的子資料夾）</td>
   </tr>
   <tr> 
@@ -141,21 +141,21 @@ ht-degree: 4%
 
 ## 衝突規則 {#conflict-rules}
 
-* **計畫標籤**
-   * 在此訂閱中建立標籤 —  _建議_
+* **程式標籤**
+   * 在此訂閱中建立標籤 — _建議_
    * 忽略
 
-* **具相同名稱的登陸頁面範本**
+* **名稱相同的登入頁面範本**
    * 複製原始範本
-   * 使用目的地範本 —  _建議_
+   * 使用目的地範本 — _建議_
 
-* **具有相同名稱的影像**
+* **相同名稱的影像**
    * 保留兩個檔案
-   * 取代此訂閱中的專案 —  _建議_
+   * 取代此訂閱中的專案 — _建議_
 
 * **相同名稱的電子郵件範本**
    * 保留兩個範本
-   * 取代現有範本 —  _建議_
+   * 取代現有的範本 — _建議_
 
 ## 最佳實務 {#best-practices}
 
@@ -171,4 +171,4 @@ ht-degree: 4%
 
 >[!TIP]
 >
->別忘了啟動「04 — 參與（方案成功）」行銷活動以追蹤成功！ 執行此動作 _早於_ 您的電子郵件已傳送。
+>別忘了啟動「04 — 參與（方案成功）」行銷活動以追蹤成功！ 請在&#x200B;_之前執行此動作，您的電子郵件已寄出。_

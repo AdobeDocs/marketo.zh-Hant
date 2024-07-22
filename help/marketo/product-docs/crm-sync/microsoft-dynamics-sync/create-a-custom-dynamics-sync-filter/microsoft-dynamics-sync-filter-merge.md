@@ -21,7 +21,7 @@ ht-degree: 4%
 
 | 如果遺失記錄的同步處理篩選為： | 而且成功記錄的同步處理篩選條件為： | 這是Marketo中的結果 |
 |---|---|---|
-| True | True | 成功記錄會繼續與Marketo同步 |
-| False | False | 成功紀錄將繼續 _非_ 與Marketo同步 |
-| False | True | 成功記錄將與Marketo同步 |
-| True | False | 成功記錄不會與Marketo同步 |
+| 真 | 真 | 成功記錄會繼續與Marketo同步 |
+| 假 | 假 | 成功記錄仍然&#x200B;_不會_&#x200B;與Marketo同步 |
+| 假 | 真 | 成功記錄將與Marketo同步 |
+| 真 | 假 | 成功記錄不會與Marketo同步 |

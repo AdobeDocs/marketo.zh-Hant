@@ -12,7 +12,7 @@ ht-degree: 4%
 
 # 支援中心 {#help-center}
 
-Adobe Marketo Engage中的說明中心是取得協助的集中位置。 除了連結至各種資源(例如 [產品檔案](/help/marketo/home.md){target="_blank"}， [發行資訊](/help/marketo/release-notes/current.md){target="_blank"}，則 [行銷國家社群](https://nation.marketo.com/){target="_blank"})，您可以存取依體驗層級組織的實用產品內逐步說明。
+Adobe Marketo Engage中的說明中心是取得協助的集中位置。 除了連結到各種資源（例如[產品檔案](/help/marketo/home.md){target="_blank"}、[發行資訊](/help/marketo/release-notes/current.md){target="_blank"}、[行銷國家社群](https://nation.marketo.com/){target="_blank"}）之外，您還可以存取按體驗層級組織的有用產品內逐步解說。
 
 ## 如何存取 {#how-to-access}
 
@@ -30,21 +30,21 @@ Adobe Marketo Engage中的說明中心是取得協助的集中位置。 除了�
 
    ![](assets/help-center-3.png)
 
-1. 按一下 **開始使用**.
+1. 按一下&#x200B;**開始使用**。
 
    ![](assets/help-center-4.png)
 
-1. 按一下 **下一個** 以繼續。
+1. 按一下[下一步]****&#x200B;繼續。
 
    ![](assets/help-center-5.png)
 
-1. 按一下 **完成** 以結束逐步說明。
+1. 按一下&#x200B;**完成**&#x200B;結束逐步說明。
 
    ![](assets/help-center-6.png)
 
    >[!TIP]
    >
-   >隨時按一下以退出指南 **關閉**.
+   >隨時按一下&#x200B;**關閉**&#x200B;以結束指南。
 
 ### 新增功能 {#whats-new}
 

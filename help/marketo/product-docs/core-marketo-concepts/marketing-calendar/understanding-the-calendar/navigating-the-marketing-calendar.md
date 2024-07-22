@@ -6,7 +6,7 @@ exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
 source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->確定您擁有 [行銷行事曆授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}  — 否則，「行銷行事曆」動態磚將不會顯示在「我的Marketo」中。
+>確定您有[行銷行事曆授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} — 否則「行銷行事曆」圖磚將不會顯示在「我的Marketo」中。
 
 >[!NOTE]
 >
 >行銷行事曆不支援週期性智慧行銷活動。
 
-1. 前往 **行銷行事曆**.
+1. 移至&#x200B;**行銷行事曆**。
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 在模式之間變更 {#change-between-modes}
 
-1. 按一下 **[!UICONTROL 3週]** 或 **[!UICONTROL 月]** 標籤以在模式之間切換。
+1. 按一下&#x200B;**[!UICONTROL 3週]**&#x200B;或&#x200B;**[!UICONTROL 月]**&#x200B;索引標籤，以切換模式。
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 議程檢視會將您所有的專案顯示為清單。
 
-1. 按一下 **[!UICONTROL 篩選]** 下拉式清單。
+1. 按一下&#x200B;**[!UICONTROL 篩選器]**&#x200B;下拉式清單。
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. 選取 **[!UICONTROL 日程]** 檢視。
+1. 選取&#x200B;**[!UICONTROL 議程]**&#x200B;檢視。
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[篩選行銷行事曆](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
+>[正在篩選行銷行事曆](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}

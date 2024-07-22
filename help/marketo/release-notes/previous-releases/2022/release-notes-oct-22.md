@@ -16,17 +16,17 @@ ht-degree: 2%
 
 >[!AVAILABILITY]
 >
->以星號(![星形](assets/yellow-star.png))為付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
+>以星號（![星號](assets/yellow-star.png)）表示的功能是付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於以下日期開始發行 **2022年10月14日**，在接下來的幾週內分階段推出剩餘的功能。 發行功能和日期可能會有所變更。 請檢視每個功能下方的狀態。
+下列功能屬於標準發行週期，並將於&#x200B;**2022年10月14日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行功能和日期可能會有所變更。 請檢視每個功能下方的狀態。
 
 ### 行銷資料環境 {#marketing-data-environment}
 
 </br>
 
-* **程式成員自訂欄位同步**：能夠雙向同步為方案成員擷取的可延伸欄位（例如，在活動註冊期間的與會者偏好設定，例如食物、工作階段、曲目等） 與Salesforce中的促銷活動成員欄位。
+* **程式成員自訂欄位同步**：能夠雙向同步程式成員擷取的可延伸欄位（例如，在活動註冊期間與會者偏好設定，例如食物、工作階段、曲目等） 與Salesforce中的促銷活動成員欄位。
 
 <table> 
   <tr> 
@@ -58,7 +58,7 @@ ht-degree: 2%
 
 </br>
 
-* **更新下一代體驗的畫面**：我們為新一代的體驗提供額外且重新整理的畫面，透過切換開關提供更新的設計和可用性增強功能：
+* **新一代體驗中的Screens已更新**：我們為新一代體驗提供額外的重新整理熒幕，透過切換開關提供更新的設計和可用性增強功能：
 
    * 登陸頁面範本詳細資訊
    * 電子郵件範本清單
@@ -75,7 +75,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **電子郵件範本詳細資料中的索引標籤使用的增強功能**：在新版Experience中，您會看到與使用電子郵件範本的資產相關的其他資訊，包括資產狀態、上次修改時間和上次修改者。 您也可以搜尋、排序及篩選資產使用的清單。
+* **電子郵件範本詳細資料中的索引標籤使用的增強功能**：在新體驗中，您會看到與使用電子郵件範本的資產相關的其他資訊，包括資產狀態、上次修改時間和上次修改者。 您也可以搜尋、排序及篩選資產使用的清單。
 
 <table> 
   <tr> 
@@ -89,7 +89,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **報表資產篩選模式**：報告組態模式的新設計，在組態選單中顯示新的資產樹狀結構，以及建立和修改日期的篩選器。
+* **報表資產篩選模式**：報表組態模式的新設計，在組態功能表中顯示新的資產樹狀結構，以及建立和修改日期的篩選器。
 
 <table> 
   <tr> 
@@ -107,7 +107,7 @@ ht-degree: 2%
 
 </br>
 
-* **大量銷售機會匯入：銷售人員關聯**：與Lead REST API同位，以便在大量銷售機會匯入流程中將銷售機會與銷售人員相關聯，減少所需的複雜性和API呼叫數。
+* **大量銷售機會匯入：銷售人員關聯**：與銷售機會REST API的同等性，可在大量銷售機會匯入程式期間將銷售機會與銷售人員關聯，減少所需的複雜度和API呼叫數。
 
 <table> 
   <tr> 
@@ -127,7 +127,7 @@ ht-degree: 2%
 
 ![（星形）](assets/yellow-star.png)
 
-* **Sales Insight與Dynamic Chat整合**：前瞻分析儀表板現在包含智慧格線中的Dynamic Chat活動，以及每週摘要和詳細資訊卡。
+* **與Dynamic Chat的Sales Insight整合**： Insights儀表板現在包含Smart Grid中的Dynamic Chat活動，以及每週摘要和詳細資訊卡。
 
 <table> 
   <tr> 
@@ -145,7 +145,7 @@ ht-degree: 2%
 
 以下功能遵循敏捷格式，並在標準發行日期之前或之後的各種日期發行。 請檢視每個功能下方的狀態。
 
-* **自動排列Dynamic Chat的對話方塊資料流**：將畫布上的所有內容整理成乾淨且易於閱讀的格式，只要透過「自動排列」按一下按鈕即可改善您擁擠的對話畫布。
+* **自動排列Dynamic Chat的對話方塊資料流**：透過[自動排列]按一下按鈕，將畫布上的所有內容組織成簡潔且易於閱讀的格式，以改善您擁擠的對話方塊畫布。
 
 <table> 
   <tr> 
@@ -154,12 +154,12 @@ ht-degree: 2%
   </tr>
   <tr> 
    <td>已送出</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">串流設計工具圖示</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">串流Designer圖示</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Dynamic Chat的會議連結**：在傳送給訪客的每個行事曆邀請中，自動包含Google和Outlook的「團隊」或「會議」連結選項。
+* **Dynamic Chat的會議連結**：在傳送給訪客的每個行事曆邀請中，自動包含Google和Outlook的[團隊]或[會議]連結的選項。
 
 <table> 
   <tr> 
@@ -173,7 +173,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **支援Dynamic Chat的其他資料型別**：三種新資料型別（布林值、整數、浮點數）可讓您在Dynamic Chat中運用更多現有的Marketo Engage欄位，例如根據分數鎖定目標或向訪客詢問「是/否」問題。
+* **支援Dynamic Chat的其他資料型別**：三種新資料型別（布林值、整數、浮點數）可讓您在Dynamic Chat中運用更多現有的Marketo Engage欄位，例如根據分數進行目標定位或詢問訪客是/否問題。
 
 <table> 
   <tr> 
@@ -189,6 +189,6 @@ ht-degree: 2%
 
 ## 公告 {#announcements}
 
-* **Forms 1.0**：Forms 1.0的淘汰工作將在10月版本中完成。 Forms 1.0資產無法再將資料提交至Marketo Engage，若嘗試將傳回錯誤。
+* **Forms 1.0**： Forms 1.0將於10月發行版本中淘汰。 Forms 1.0資產無法再將資料提交至Marketo Engage，若嘗試將傳回錯誤。
 
-* **無指令碼Forms**：在瀏覽器中停用Javascript時，Forms將無法繼續運作。 提交表單需要啟用Javascript。
+* **無指令碼Forms**：在瀏覽器中停用Javascript時，Forms將不再運作。 提交表單需要啟用Javascript。

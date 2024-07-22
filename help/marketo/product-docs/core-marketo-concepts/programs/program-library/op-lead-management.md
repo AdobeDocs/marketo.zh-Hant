@@ -2,10 +2,10 @@
 description: 營運商管理 — Marketo檔案 — 產品檔案
 title: 營運商管理
 feature: Programs
-exl-id: 28db1a91-a559-4dcb-b2e3-9cb2c0c23f9f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '265'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 2%
 >
 >在Marketo Engage中，資料庫中的記錄稱為人員/人員。 此範例中的潛在客戶管理會參照您CRM中的記錄。
 
-如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) 頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html)頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -39,7 +39,7 @@ ht-degree: 2%
  </tbody> 
 </table>
 
-## 程式包含下列資產 {#program-contains-the-following-assets}
+## 程式包含下列Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -80,20 +80,20 @@ ht-degree: 2%
 
 ## 衝突規則 {#conflict-rules}
 
-* **計畫標籤**
-   * 在此訂閱中建立標籤 —  _建議_
+* **程式標籤**
+   * 在此訂閱中建立標籤 — _建議_
    * 忽略
 
-* **具相同名稱的登陸頁面範本**
-   * 複製原始範本 —  _建議_
+* **名稱相同的登入頁面範本**
+   * 複製原始範本 — _建議_
    * 使用目的地範本
 
-* **具有相同名稱的影像**
-   * 保留兩個檔案 —  _建議_
+* **相同名稱的影像**
+   * 保留兩個檔案 — _建議_
    * 取代此訂閱中的專案
 
 * **相同名稱的電子郵件範本**
-   * 保留兩個範本 —  _建議_
+   * 保留兩個範本 — _建議_
    * 取代現有範本
 
 ## 最佳實務 {#best-practices}

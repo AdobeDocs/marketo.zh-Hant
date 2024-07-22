@@ -6,7 +6,7 @@ exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 趨勢顯示一段時間內的管道效能。
 
-按一下 **趨勢** 標籤以存取此檢視。
+按一下&#x200B;**趨勢**&#x200B;標籤以存取此檢視。
 
 ![](assets/1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/2-1.png)
 
-選取您要用來檢視效能的測量結果。 在此範例中，我們將檢視透過贏取的機會 [首次接觸](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+選取您要用來檢視效能的測量結果。 在此範例中，我們將檢視透過[首次接觸](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)贏得的機會。
 
 ![](assets/3-2.png)
 

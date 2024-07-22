@@ -47,19 +47,19 @@ Marketo Engage提供許多絕佳功能，可協助您達成行銷目標。 例�
 
 ## 我需要執行任何設定嗎？ {#do-i-need-to-do-any-setup}
 
-是的，您必須（或強烈建議您）執行一些步驟，並且 [您可在此處找到](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
+是的，您必須執行幾個步驟（或強烈建議您執行），您可以[在此找到](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}。
 
 ## 我是否必須等到安裝程式完成後才能學習？ {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-不行！ 我們做了許多簡單的教學課程。 [從這裡開始使用](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}. 應該需要約一小時的時間。 您可以隨時開始。
+不行！ 我們做了許多簡單的教學課程。 [從這裡開始](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}。 應該需要約一小時的時間。 您可以隨時開始。
 
 ## 是否有涵蓋限制的清單，例如一週可以傳送多少封電子郵件？ {#list-of-limits}
 
-有。 列出靜態限制（和其他引數） [本文章](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+有。 靜態限制（和其他引數）在文章](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}中概述[。
 
 ## Marketo會將我的資料儲存多久？ {#data-retention-policy}
 
-請檢閱 [此行銷國家部落格](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"} 以取得詳細資訊。
+請檢閱[此行銷國家部落格](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"}以取得詳細資料。
 
 <br>
 

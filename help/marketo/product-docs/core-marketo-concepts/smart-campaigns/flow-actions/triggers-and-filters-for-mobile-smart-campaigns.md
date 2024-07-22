@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以為行動應用程式Smart Campaign設定觸發器和篩選器。
 
-對於大多數活動，都有觸發器、篩選器和非使用狀態篩選器。 使用非活動篩選器追蹤動作，例如點選推播通知，可 _沒有_ 發生。
+對於大多數活動，都有觸發器、篩選器和非使用狀態篩選器。 使用非使用狀態篩選器來追蹤動作，例如點選推播通知，指出&#x200B;_沒有_&#x200B;發生。
 
 * 行動應用程式已安裝
 * 行動應用程式已開啟
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 * 應用程式版本 — 一種鎖定非最新版本使用者的方式。 例如，如果最新的應用程式版本是2.0，您可以用它來尋找不在應用程式版本2.0上的使用者
 
-* 安裝來源 — 目前，唯一的選項是API
+* 安裝Source — 目前，唯一選項是API
 
 * 地區 — 裝置上的設定
 
@@ -57,11 +57,11 @@ ht-degree: 0%
 
 * 工作階段長度（秒） — 應用程式於前景的工作階段時間
 
-* 是否啟用推播 —  **真** 表示可以傳送推播通知。 **假** 這表示他們無法；例如，該人員可能選擇不接收推播通知
+* 是否啟用推播 — **True**&#x200B;表示可以傳送推播通知。 **False**&#x200B;表示他們無法接收推播通知；例如，此人可能選擇不接收推播通知
 
 ## 觸發器和篩選器 {#triggers-and-filters}
 
-**擁有行動應用程式**
+**有行動應用程式**
 
 使用此篩選條件來找出所有已安裝您應用程式的使用者。 這僅可作為篩選使用。
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 >
 >由於Marketo不會追蹤應用程式解除安裝，篩選器會找到目前和先前的安裝。
 
-**限制**  — 裝置型別、平台、行動應用程式、行動應用程式版本、裝置型別、安裝來源、已啟用推播，以及地區設定
+**限制** — 裝置型別、平台、行動應用程式、行動應用程式版本、裝置型別、安裝Source、啟用推播功能，以及地區設定
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
 * 未安裝行動應用程式 — 非使用狀態篩選器
 
-**限制**  — 裝置型別、平台、應用程式版本、地區設定和安裝來源
+**限制** — 裝置型別、平台、應用程式版本、地區設定及安裝Source
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -97,13 +97,13 @@ ht-degree: 0%
 
 * 未開啟行動應用程式 — 非使用狀態篩選器
 
-**限制**  — 裝置型別和平台
+**限制** — 裝置型別和平台
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 有/曾經有行動應用程式活動
 
-這些提供強大的方式可追蹤自訂行動活動。 您必須與開發人員合作才能設定追蹤 [適用於Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} 和 [適用於iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+這些提供強大的方式可追蹤自訂行動活動。 您必須與開發人員合作，才能為Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}設定追蹤[，並為iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}設定[。
 
 * 具有行動應用程式活動 — 觸發器
 
@@ -111,7 +111,7 @@ ht-degree: 0%
 
 * 沒有行動應用程式活動 — 非活動篩選器
 
-**限制**  — 裝置型別、平台、行動應用程式版本、地區設定、平台版本，外加五個其他專案：
+**限制** — 裝置型別、平台、行動應用程式版本、地區設定、平台版本，加上五個其他專案：
 
 * 動作 — 自訂行動活動
 
@@ -129,7 +129,7 @@ ht-degree: 0%
 >
 >**範例**
 >
->在動作型別底下 *購物*，此為非常明確的動作，其他限制對其定義：
+>在&#x200B;*Shopping*&#x200B;的動作型別底下，有一個非常明確的動作，其他限制則定義了該動作：
 >
 >* 已購買一件襯衫
 >   * 它是紅色的
@@ -152,7 +152,7 @@ ht-degree: 0%
 >| 動作詳細資料 | 顏色 | 顏色 |
 >| 動作量度 | 價格 | 價格 |
 
-**具有/曾具有行動應用程式工作階段**
+**有/曾經有行動應用程式工作階段**
 
 * 具有行動應用程式工作階段 — 觸發器
 
@@ -160,7 +160,7 @@ ht-degree: 0%
 
 * 沒有行動應用程式工作階段 — 非使用狀態篩選器
 
-**限制**  — 裝置型別、平台和工作階段長度（秒）
+**限制** — 裝置型別、平台和工作階段長度（秒）
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
@@ -172,7 +172,7 @@ ht-degree: 0%
 
 * 未點選的推播通知 — 非使用狀態篩選器
 
-**限制**  — 裝置型別、平台、行動應用程式版本、推播通知和平台版本
+**限制** — 裝置型別、平台、行動應用程式版本、推播通知和平台版本
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -180,17 +180,17 @@ ht-degree: 0%
 >
 >使用「未點選的推播通知」非使用狀態篩選器來尋找最近未點選推播通知的訪客，以便您透過電子郵件追蹤。
 
-**已傳送推播通知** 此活動僅可作為篩選使用。
+**已傳送推播通知**&#x200B;此活動僅可作為篩選使用。
 
 * 已傳送推播通知 — 篩選器
 
 * 未傳送推播通知 — 非使用狀態篩選器
 
-**限制**  — 推播通知與行動應用程式
+**限制** — 推播通知與行動應用程式
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
 >* [新增限制至智慧清單篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
->* [在智慧清單中使用非使用中篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}
+>* [在智慧清單中使用非活動篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

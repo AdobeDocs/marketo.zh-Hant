@@ -2,10 +2,10 @@
 description: 快速入門電子郵件範本 — Marketo檔案 — 產品檔案
 title: 快速入門電子郵件範本
 feature: Programs
-exl-id: cf4c3be9-a71f-4b75-b262-67bd788e0a67
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Marketo Engage參考資料庫中的部分入門方案包含一個簡單、易於
 
 Marketo Engage電子郵件編輯器提供的功能可幫助您變更版面並編輯電子郵件的內容。
 
-* **模組**：編碼至範本的可拖曳/可下拉內容區塊。 它們可以重新組織和複製。
+* **模組**：編碼至範本的可拖曳/可卸除內容區塊。 它們可以重新組織和複製。
 
-* **文字元素**：您可以使用編輯器更新複製、變更字型樣式或新增連結。
+* **文字元素**：您可以使用編輯器來更新複製、變更字型樣式或新增連結。
 
-* **影像元素**：與文字元素類似，影像可以交換、連結和調整大小。
+* **影像元素**：與文字元素類似，影像可以交換、連結及調整大小。
 
 * **變數**：選取模組時，變數會出現在編輯器的右側。 如果模組屬性不容易透過影像或文字元素編輯，可使用這些專案來調整模組。
 
-如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 模組摘要 {#modules-summary}
 
@@ -92,7 +92,7 @@ Marketo Engage電子郵件編輯器提供的功能可幫助您變更版面並編
    * CTA文字顏色
    * CTA背景顏色
    * CTA邊框顏色
-   * CTA邊框半徑(將按鈕圓角化 —  **注意**：此功能在Microsoft Outlook電子郵件使用者端中無法運作)
+   * CTA邊框半徑(讓按鈕四捨五入 — **注意**：此功能在Microsoft Outlook電子郵件使用者端中無法運作)
    * CTA URL
    * CTA文字
    * CTA對齊方式

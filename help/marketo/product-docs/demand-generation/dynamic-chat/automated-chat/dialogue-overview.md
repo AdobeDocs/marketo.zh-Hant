@@ -16,13 +16,13 @@ ht-degree: 5%
 
 ## 對象條件 {#audience-criteria}
 
-此 [對象條件](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} 對話方塊的區段是您定義聊天對話顯示位置與對象的位置
+對話方塊的[對象條件](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}區段是您定義聊天對話顯示位置及對象的位置
 
 ![](assets/dialogue-overview-1.png)
 
 ## 流程設計工具 {#stream-designer}
 
-此 [串流設計工具](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} 對話方塊的區段是設計要與網站訪客進行對話的位置。
+對話方塊的[串流Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}區段是您設計要與網站訪客進行對話的位置。
 
 ![](assets/dialogue-overview-2.png)
 
@@ -64,10 +64,10 @@ ht-degree: 5%
 
 您可以同時停用（及重新啟用）所有已發佈的對話方塊。
 
-1. 在Dynamic Chat中，按一下 **[!UICONTROL 設定]** 標籤。
+1. 在Dynamic Chat中，按一下&#x200B;**[!UICONTROL 組態]**&#x200B;索引標籤。
 
    ![](assets/dialogue-overview-4.png)
 
-1. 切換 **[!UICONTROL 聊天已啟用]** 切換為關閉以停用（再切換為開啟以重新啟用）所有對話方塊。
+1. 將&#x200B;**[!UICONTROL 啟用聊天]**&#x200B;切換為關閉以停用（然後再開啟以重新啟用）所有對話方塊。
 
    ![](assets/dialogue-overview-5.png)

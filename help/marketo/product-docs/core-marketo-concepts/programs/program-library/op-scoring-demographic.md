@@ -2,11 +2,11 @@
 description: OP-Scoring-Geroptical - Marketo檔案 — 產品檔案
 title: OP評分人口統計
 feature: Programs
-exl-id: c0e69f35-a3b7-496d-a9b6-b3e7168b07f4
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 16%
+source-wordcount: '310'
+ht-degree: 17%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 16%
 
 這是進階（代碼化）作業方案的範例，利用Marketo Engage預設方案進行人口統計評分。 在方案的「我的Token」索引標籤下檢視和編輯評分值。 需要名為「人口統計分數」的自訂分數欄位。
 
-如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -52,7 +52,7 @@ ht-degree: 16%
  </tbody> 
 </table>
 
-## 程式包含下列資產 {#program-contains-the-following-assets}
+## 程式包含下列Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -235,20 +235,20 @@ ht-degree: 16%
 
 ## 衝突規則 {#conflict-rules}
 
-* **計畫標籤**
-   * 在此訂閱中建立標籤 —  _建議_
+* **程式標籤**
+   * 在此訂閱中建立標籤 — _建議_
    * 忽略
 
-* **具相同名稱的登陸頁面範本**
-   * 複製原始範本 —  _建議_
+* **名稱相同的登入頁面範本**
+   * 複製原始範本 — _建議_
    * 使用目的地範本
 
-* **具有相同名稱的影像**
-   * 保留兩個檔案 —  _建議_
+* **相同名稱的影像**
+   * 保留兩個檔案 — _建議_
    * 取代此訂閱中的專案
 
 * **相同名稱的電子郵件範本**
-   * 保留兩個範本 —  _建議_
+   * 保留兩個範本 — _建議_
    * 取代現有範本
 
 ## 最佳實務 {#best-practices}

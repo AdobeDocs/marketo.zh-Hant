@@ -21,7 +21,7 @@ ht-degree: 0%
 
 <p>
 
-![取消排程的批次行銷活動](assets/reviewing-core-skills-2.png) [**取消排程的批次行銷活動**](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}
+![取消已排程的批次行銷活動](assets/reviewing-core-skills-2.png) [**取消已排程的批次行銷活動**](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}
 
 <p>
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 <p>
 
-![建立新的事件程式](assets/reviewing-core-skills-4.png) [**建立新的事件程式**](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
+![建立新的活動計畫](assets/reviewing-core-skills-4.png) [**建立新的活動計畫**](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 
 <p>
 
@@ -37,4 +37,4 @@ ht-degree: 0%
 
 <p>
 
-![如何組織您的計畫](assets/reviewing-core-skills-6.png) [**如何組織您的計畫**](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md){target="_blank"}
+![如何組織您的程式](assets/reviewing-core-skills-6.png) [**如何組織您的程式**](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md){target="_blank"}

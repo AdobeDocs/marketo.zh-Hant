@@ -17,22 +17,22 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 按一下 **[!UICONTROL 個人動作]** 和 **[!DNL Microsoft]**，並選取 **[!UICONTROL 將人員同步至Microsoft]**.
+1. 按一下&#x200B;**[!UICONTROL 人員動作]**&#x200B;和&#x200B;**[!DNL Microsoft]**，然後選取&#x200B;**[!UICONTROL 將人員同步到Microsoft]**。
 
    ![](assets/two.png)
 
-1. 按一下 **[!UICONTROL 同步為]** 並選取 **[!UICONTROL 連絡人]**. 按一下 **[!UICONTROL 立即執行]**.
+1. 按一下&#x200B;**[!UICONTROL 同步處理為]**&#x200B;並選取&#x200B;**[!UICONTROL 連絡人]**。 按一下&#x200B;**[!UICONTROL 立即執行]**。
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >使用&quot;[!UICONTROL 將人員同步至Microsoft]「流量動作（僅限在「觸發促銷活動」中），潛在客戶/聯絡人會在Dynamics中即時建立。
+   >使用「[!UICONTROL 將人員同步到Microsoft]」流程動作時（僅限在「觸發程式促銷活動」中），將在Dynamics中即時建立銷售機會/聯絡人。
 
 1. Marketo可將Dynamics中的潛在客戶記錄限定為與Dynamics中任何帳戶皆無關聯的連絡人。
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. 現在，您可以選擇 **[!UICONTROL 連絡人]** 當您在智慧型行銷活動篩選器中使用「同步為」限制時。
+1. 現在，當您在智慧型行銷活動篩選中使用「同步為」限制時，可以選取&#x200B;**[!UICONTROL 連絡人]**。
 
    ![](assets/five.png)

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[將內容新增至程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>[新增內容至程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 程式碼片段是動態內容的區塊，會根據分段規則而變更。
 
-1. 前往 **Design Studio**.
+1. 移至&#x200B;**設計工作室**。
 
    ![](assets/designstudio-3.png)
 
-1. 按一下您的程式碼片段，然後 **預覽程式碼片段**.
+1. 按一下您的程式碼片段，然後&#x200B;**預覽程式碼片段**。
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 

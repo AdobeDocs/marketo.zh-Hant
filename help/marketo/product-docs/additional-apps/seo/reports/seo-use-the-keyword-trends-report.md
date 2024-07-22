@@ -6,8 +6,8 @@ exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 載入報告 {#load-report}
 
-1. 前往 **[!UICONTROL 報表]**.
+1. 移至&#x200B;**[!UICONTROL 報表]**。
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. 按一下 **[!UICONTROL 關鍵字排名趨勢]**.
+1. 按一下&#x200B;**[!UICONTROL 關鍵字排名趨勢]**。
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 >
 >您可以將此報告匯出至案頭。
 
-1. 按一下 **[!UICONTROL 匯出CSV]** 或 **[!UICONTROL Export PDF]**.
+1. 按一下&#x200B;**[!UICONTROL 匯出CSV]**&#x200B;或&#x200B;**[!UICONTROL Export PDF]**。
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
@@ -62,4 +62,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[使用競爭KW排名趨勢報表](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+   >[使用競爭KW排名趨勢報告](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

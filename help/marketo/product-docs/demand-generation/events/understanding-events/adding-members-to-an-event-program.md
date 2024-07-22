@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >將人員清單直接匯入事件方案，將會防止這些記錄被計算在「目標追蹤」報表和「事件上限進展」報表的實際註冊中。 請依照下列指示操作，確保計算您的記錄。
 
-1. 建立和 [將人員新增至靜態清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
+1. 建立並[將人員新增至靜態清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)。
 
-1. [建立智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+1. [建立智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)。
 
-1. 在步驟2所建立Smart Campaign的「智慧列示」中，尋找並新增 **清單成員** 篩選。
+1. 在您於步驟二中建立的智慧行銷活動的智慧清單中，尋找並新增&#x200B;**清單**&#x200B;的成員。
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 在流量中，尋找並新增 **變更方案狀態** 流程步驟。
+1. 在流程中，尋找並新增&#x200B;**變更方案狀態**&#x200B;流程步驟。
 
    ![](assets/five.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 在「排程」標籤中，按一下 **執行一次**.
+1. 在[排程]索引標籤中，按一下[**執行一次**]。
 
    ![](assets/eight.png)
 
-1. 選取 **立即執行** 並按一下 **執行**.
+1. 選取「立即執行」****&#x200B;並按一下「執行」****。
 
    ![](assets/nine.png)
 

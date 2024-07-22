@@ -15,15 +15,15 @@ ht-degree: 0%
 
 如果您已排程其中一個批次行銷活動的執行，並且想要取消它，則請依照以下說明進行。
 
-1. 選取行銷活動，並前往 **[!UICONTROL 排程]** 標籤。
+1. 選取行銷活動，然後前往&#x200B;**[!UICONTROL 排程]**&#x200B;標籤。
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. 尋找要取消的排程執行，然後按一下 **x** 旁邊的。
+1. 找到您要取消的排程執行，然後按一下它旁邊的&#x200B;**x**。
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. 按一下「 」以確認取消 **[!UICONTROL 確定]**.
+1. 按一下&#x200B;**[!UICONTROL 確定]**&#x200B;以確認取消。
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-3.png)
 

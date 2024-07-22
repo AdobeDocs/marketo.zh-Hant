@@ -25,21 +25,21 @@ ht-degree: 0%
 
 指定網站行銷活動在網站上反應的時間延遲（以秒為單位）。
 
-1. 按一下 **顯示於** 下拉式清單並選取 **延遲**.
+1. 按一下&#x200B;**顯示於**&#x200B;下拉式清單，然後選取&#x200B;**延遲**。
 
    ![](assets/d1.png)
 
-1. 按一下 **等待** 下拉式清單，並選取所需的時間量。
+1. 按一下&#x200B;**等待**&#x200B;下拉式清單，並選取所需的時間量。
 
    ![](assets/d2.png)
 
 ## 捲動 {#scroll}
 
-1. 按一下 **顯示於** 下拉式清單並選取 **捲動**.
+1. 按一下&#x200B;**顯示於**&#x200B;下拉式清單，然後選取&#x200B;**捲動**。
 
    ![](assets/s1.png)
 
-1. 按一下 **時間** 下拉式清單，並選取您要顯示網頁行銷活動的時間。
+1. 按一下&#x200B;**何時**&#x200B;下拉式清單，並選取您要顯示網頁行銷活動的時間。
 
    ![](assets/s2.png)
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 退出意圖會在滑鼠游標退出瀏覽器時顯示網頁行銷活動。
 
-1. 按一下 **顯示於** 下拉式清單並選取 **退出目的**.
+1. 按一下&#x200B;**顯示於**&#x200B;下拉式清單，然後選取&#x200B;**退出意圖**。
 
    ![](assets/ei1.png)
 
@@ -74,4 +74,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->想看看您選擇的效果在未來的前景嗎？ 透過 [網站行銷活動預覽](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>想看看您選擇的效果在未來的前景嗎？ 透過[網頁行銷活動預覽](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)來檢視。

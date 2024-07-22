@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 引導式登陸頁面範本清單 {#guided-landing-page-template-list}
 
-瀏覽範例範本的集合，以搭配 [引導式登陸頁面編輯器](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). 每個範本都能完全回應，並以Bootstrap框架為基礎。
+瀏覽範例範本的集合，以搭配[引導式登陸頁面編輯器](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)使用。 每個範本都能完全回應，並以Bootstrap框架為基礎。
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 1. 按一下範本名稱即可檢視大圖。
 1. 下載所選的範本。
-1. 在Marketo中，導覽至 **Design Studio。**
-1. 按一下 **登陸頁面** 在左側樹狀結構中，然後選取 **範本。**
+1. 在Marketo中，導覽至&#x200B;**Design Studio。**
+1. 按一下左側樹狀結構中的&#x200B;**登入頁面**，然後選取&#x200B;**範本。**
 
-1. 在功能表列中，按一下 **匯入範本。**
-1. 選擇下載的檔案，輸入範本名稱，然後按一下 **匯入** (請務必挑選描述性名稱，並指明編輯模式為 **已引導**)。
+1. 在功能表列中，按一下&#x200B;**匯入範本。**
+1. 選擇下載的檔案，輸入範本名稱，然後按一下&#x200B;**匯入** （請確定選取描述性名稱，並指示編輯模式為&#x200B;**引導式**）。
 
 <table>
 <tr>

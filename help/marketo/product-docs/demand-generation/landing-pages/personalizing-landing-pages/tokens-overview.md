@@ -87,7 +87,7 @@ ht-degree: 0%
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* 如果您使用其顯示名稱，例如 `{{lead.Custom Field Name}}`
+* 如果您使用其顯示名稱，例如`{{lead.Custom Field Name}}`，自訂人員欄位也可運作
 
 ## 公司Token {#company-tokens}
 
@@ -110,7 +110,7 @@ ht-degree: 0%
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* 如果您使用其顯示名稱，自訂公司欄位也可運作，例如： `{{Company.Custom Field Name}}`
+* 如果您使用其顯示名稱，自訂公司欄位也可運作，例如：`{{Company.Custom Field Name}}`
 
 ## 行銷活動Token {#campaign-tokens}
 
@@ -122,7 +122,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->若要深入瞭解這些Token，請參閱 [系統權杖字彙表](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>在[系統權杖字彙表](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)中進一步瞭解這些權杖。
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -149,7 +149,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->尋找更多關於以下內容的詳細資料： [有趣時刻的Token](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) 根據智慧行銷活動中使用的觸發程式。
+>根據智慧行銷活動中使用的觸發程式，尋找有關[有趣時刻的Token](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)的詳細資訊。
 
 ## 計畫權杖 {#program-tokens}
 
@@ -159,14 +159,14 @@ ht-degree: 0%
 
 ## 我的Token {#my-tokens}
 
-我的Token是在方案中定義的，且開頭為 `{{my.` 後面接著您為權杖建立的名稱。 進一步瞭解 [方案中的我的Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+我的Token是在程式中定義，且以`{{my.`開頭，後面接著您為該Token建立的名稱。 深入瞭解[我的方案](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)代號。
 
 ## 成員權杖 {#member-token}
 
-成員Token可用來插入整合式服務合作夥伴的唯一值。 「成員代號」的常見用途是網路研討會出席者的唯一URL。 每個人都有唯一URL可存取可使用插入的網路研討會。 `{{member.webinar url}}` Token。 此 `{{member.webinar url}}` 代號會自動解析服務提供者產生的個人唯一確認URL。
+成員Token可用來插入整合式服務合作夥伴的唯一值。 「成員代號」的常見用途是網路研討會出席者的唯一URL。 每個使用者都有一個唯一的URL可存取可使用`{{member.webinar url}}`權杖插入的網路研討會。 `{{member.webinar url}}`權杖會自動解析服務提供者產生的個人唯一確認URL。
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->此 `{{member.webinar url}}` 只有在傳送電子郵件的智慧型行銷活動是事件程式的子資產時，才會填入Token。
+>只有在傳送電子郵件的智慧型行銷活動是事件程式的子資產時，`{{member.webinar url}}`權杖才會填入。

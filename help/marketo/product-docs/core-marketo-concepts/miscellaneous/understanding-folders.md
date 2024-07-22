@@ -12,19 +12,19 @@ ht-degree: 0%
 
 # 瞭解資料夾 {#understanding-folders}
 
-方案內的資料夾可用於組織您的智慧行銷活動和資產。 這些選項與 [行銷活動資料夾](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
+方案內的資料夾可用於組織您的智慧行銷活動和資產。 這些資料夾與[行銷活動資料夾](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)不同。
 
 ## 建立資料夾 {#create-a-folder}
 
-1. 前往 **[!UICONTROL 行銷活動]** 區域。
+1. 前往&#x200B;**[!UICONTROL 行銷活動]**&#x200B;區域。
 
    ![](assets/ma.png)
 
-1. 以滑鼠右鍵按一下方案，然後選取 **[!UICONTROL 新增資料夾]**.
+1. 用滑鼠右鍵按一下程式，然後選取&#x200B;**[!UICONTROL 新資料夾]**。
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
-1. 為新資料夾命名並按 **[!UICONTROL 輸入]**.
+1. 為新資料夾命名，然後按&#x200B;**[!UICONTROL Enter]**。
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
@@ -34,11 +34,11 @@ ht-degree: 0%
 
 您可以改變心意。
 
-1. 以滑鼠右鍵按一下資料夾並選取「 」 **[!UICONTROL 重新命名資料夾]**.
+1. 在資料夾上按一下滑鼠右鍵，然後選取&#x200B;**[!UICONTROL 重新命名資料夾]**。
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
-1. 輸入新名稱並按 **[!UICONTROL 輸入]**.
+1. 輸入新名稱，然後按&#x200B;**[!UICONTROL Enter]**。
 
    ![](assets/image2015-4-20-18-3a52-3a30.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 >
 >在刪除資料夾之前，請確定資料夾是空的。
 
-1. 以滑鼠右鍵按一下資料夾並選取「 」 **[!UICONTROL 刪除資料夾]**.
+1. 在資料夾上按一下滑鼠右鍵，然後選取&#x200B;**[!UICONTROL 刪除資料夾]**。
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 * 在Design Studio中建立電子郵件或登陸頁面時，無法使用封存的範本
 * 已封存的頁面無法用於登入頁面測試群組
 
-將會 **非** 封存時變更：
+封存時&#x200B;**不會**&#x200B;變更的功能：
 
 * 全域搜尋仍會在封存的資料夾中找到結果
 * 即使已封存使用中的資產，資產仍會繼續運作

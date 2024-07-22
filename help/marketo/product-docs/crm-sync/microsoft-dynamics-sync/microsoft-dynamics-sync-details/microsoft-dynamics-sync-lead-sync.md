@@ -21,7 +21,7 @@ Dynamics同步的Marketo Engage功能非常強大。 詳情如下。
 
 >[!NOTE]
 >
->刪除並不總是自動雙向同步。 另請參閱 [刪除潛在客戶或連絡人](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md){target="_blank"}.
+>刪除並不總是自動雙向同步。 請參閱[刪除銷售機會或連絡人](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md){target="_blank"}。
 
 ## 如果兩個系統中的相同欄位同時發生變更，該怎麼辦？ （資料衝突） {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
@@ -29,7 +29,7 @@ Dynamics同步的Marketo Engage功能非常強大。 詳情如下。
 
 ## 我可以使用Marketo在Dynamics中建立銷售機會嗎？ {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-是，請使用 [將人員同步至Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"} 流量動作。 如果銷售機會不存在，這會在Dynamics中建立銷售機會。 如果潛在客戶確實存在，則流程步驟將不會執行任何動作。
+是，使用[將人員同步到Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"}流程動作。 如果銷售機會不存在，這會在Dynamics中建立銷售機會。 如果潛在客戶確實存在，則流程步驟將不會執行任何動作。
 
 >[!NOTE]
 >
@@ -37,11 +37,11 @@ Dynamics同步的Marketo Engage功能非常強大。 詳情如下。
 
 ## 我可以手動將人員從Marketo同步處理至Dynamics中的銷售機會嗎？ {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 
-不會，自動背景同步是在Marketo和Dynamics之間同步更新的唯一方法。 此 [將人員同步至Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"} 流程動作不會強制同步處理潛在客戶。
+不會，自動背景同步是在Marketo和Dynamics之間同步更新的唯一方法。 [將人員同步至Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"}流程動作不會強制同步處理潛在客戶。
 
 ## 哪些欄位會同步至Marketo？ {#what-fields-will-sync-to-marketo}
 
-您可以 [選取要同步的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} 於設定期間。
+您可在安裝期間[選取要同步處理的欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"}。
 
 ## Marketo是否會遵守Dynamics驗證規則？ {#will-marketo-respect-the-dynamics-validation-rules}
 

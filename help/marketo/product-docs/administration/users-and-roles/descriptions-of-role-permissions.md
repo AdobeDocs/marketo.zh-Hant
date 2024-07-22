@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 可用許可權 {#available-permissions}
 
-當您 [建立或編輯角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)，您可以核取適當的方塊，選取下列哪個許可權可允許該角色。
+當您[建立或編輯角色](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)時，您可以核取適當的方塊，選取下列哪些許可權以允許該角色。
 
 ![](assets/descriptions-of-role-permissions-1.png)
 
@@ -32,16 +32,16 @@ ht-degree: 0%
 在「管理員」的「我的帳戶」區段中檢視設定並進行變更。
 
 * 存取Adobe Connect — 提供使用者存取Adobe Connect畫面的許可權
-* 存取Adobe Experience Manager&#42;  — 提供使用者存取Adobe Experience Manager畫面的許可權
-* 存取Adobe組織對應&#42;  — 讓使用者可存取Adobe組織對應畫面
-* 存取管理員稽核軌跡&#42;  — 讓使用者可存取管理員稽核軌跡畫面
-* 存取權稽核軌跡&#42;  — 讓使用者存取稽核軌跡
+* 存取Adobe Experience Manager&#42; — 提供使用者存取Adobe Experience Manager畫面的許可權
+* 存取Adobe組織對應&#42; — 讓使用者存取Adobe組織對應畫面
+* 存取管理員稽核軌跡&#42; — 讓使用者可以存取管理員稽核軌跡畫面
+* 存取稽核軌跡&#42; — 讓使用者存取存取稽核軌跡
 * 存取稽核軌跡 — 可讓使用者存取資產稽核軌跡和管理稽核軌跡
 * 存取驗證碼 — 存取驗證碼畫面
 * 存取頻道 — 僅授予使用者修改頻道標籤的存取權，不授予其他自訂標籤
 * 存取通訊限制 — 提供使用者存取權，以便在「管理員」中啟用通訊限制
-* 存取CRM — 提供使用者對CRM的存取權，例如 [!DNL Salesforce] 或 [!DNL Microsoft Dynamics]，在管理員中
-* 存取 [[!DNL Data.com]](https://data.com)  — 提供使用者存取Data.com流程動作的許可權
+* 存取CRM — 讓使用者在管理員中存取CRM （例如[!DNL Salesforce]或[!DNL Microsoft Dynamics]）
+* 存取[[!DNL Data.com]](https://data.com) — 讓使用者存取Data.com流程動作
 * 存取電子郵件管理員 — 讓使用者存取電子郵件管理員，以變更預設設定，例如取消訂閱和品牌化網域
 * 存取事件合作夥伴 — 讓使用者在管理員中存取LaunchPoint
 * 存取欄位管理 — 提供使用者存取管理員欄位管理的許可權
@@ -50,11 +50,11 @@ ht-degree: 0%
 * 存取位置 — 可讓使用者存取管理員中的位置，以設定預設語言、地區設定、時區和貨幣
 * 存取登入歷史記錄 — 可讓使用者存取稽核軌跡中的使用者登入歷史記錄
 * 存取登入設定 — 讓使用者可存取管理員中的登入設定，包括安全性、IP限制和智慧列示報表設定
-* 存取新體驗&#42;  — 提供使用者存取新體驗畫面的許可權
+* 存取新體驗&#42; — 讓使用者存取新體驗畫面
 * 存取Marketo自訂活動 — 讓使用者能在「管理員」中存取Marketo自訂活動
 * 存取Marketo自訂物件 — 讓使用者能夠在「管理員」中存取Marketo自訂物件
-* 存取 [!DNL Munchkin]  — 使用者存取許可權： [!DNL Munchkin] 在管理員中，用於設定追蹤代碼、人員追蹤及啟用API設定
-* 存取預測對象&#42;  — 讓使用者可存取「預測對象」畫面
+* 存取[!DNL Munchkin] — 允許使用者存取Admin中的[!DNL Munchkin]，以設定追蹤代碼、人員追蹤及啟用API設定
+* 存取預測對象&#42; — 讓使用者可以存取預測對象畫面
 * 存取Revenue Cycle Analytics — 讓使用者能夠存取Admin中的Revenue Cycle Analytics，以設定同步摘要和歸因
 * 存取角色 — 提供使用者管理和編輯角色的存取權，但不提供使用者
 * 存取銷售分析 — 可讓使用者存取管理中的銷售分析，用於設定狀態、API設定、人員評分和其他設定
@@ -67,17 +67,17 @@ ht-degree: 0%
 * 存取Webhook — 為使用者提供Admin中的Webhook，用於設定詳細資料和回應對應
 * 存取工作區和分割區 — 提供使用者在Admin中建立、編輯和刪除工作區和分割區的存取權
 
-_&#42;為避免現有使用者中斷，此許可權將以被動模式引入，目前可見但無法存取。 我們將溝通如何在2024年年中生效時實施它。_
+_&#42;為避免現有使用者中斷，此許可權將以被動模式引入，目前可見但無法存取。 我們將傳達當它在2024年中成為使用中狀態時如何實作它。_
 
 ## Access API  {#access-api}
 
-為使用者提供 **僅限API** **角色** 存取下列個別API。
+僅授予&#x200B;**API**&#x200B;的使用者對下列個別API的&#x200B;**角色**&#x200B;存取權。
 
-* 核准資產
+* 核准Assets
 * 執行行銷活動
 * 唯讀活動
 * 唯讀活動中繼資料
-* 唯讀資產
+* 唯讀Assets
 * 唯讀行銷活動
 * 唯讀公司
 * 唯讀自訂物件
@@ -87,7 +87,7 @@ _&#42;為避免現有使用者中斷，此許可權將以被動模式引入，�
 * 唯讀銷售人員
 * 讀寫活動
 * 讀寫活動中繼資料
-* 讀寫資產
+* 讀寫Assets
 * 讀寫行銷活動
 * 讀寫公司
 * 讀寫自訂物件
@@ -101,11 +101,11 @@ _&#42;為避免現有使用者中斷，此許可權將以被動模式引入，�
 讓使用者能存取Analytics標籤、電子郵件分析、報表及以下三個專案（未勾選者除外）。
 
 * 存取Revenue Explorer — 取消核取將移除使用者對Revenue Explorer的存取權
-* 建立報告&#42;  — 提供使用者在Analytics和行銷活動中建立、複製、讀取、更新和移動報表資產，以及收入週期Modeler資產的存取權
+* 建立報表&#42; — 提供使用者在Analytics和行銷活動中建立、複製、讀取、更新和移動報表資產的許可權，以及收入週期Modeler資產的許可權
 * 刪除報告 — 取消核取將移除使用者刪除報告的能力
 * 匯出Analytics資料 — 取消勾選會移除使用者匯出Analytics資料的能力
 
-_&#42;為避免現有使用者中斷，此許可權將以被動模式引入，目前可見但無法存取。 我們將溝通如何在2024年年中生效時實施它。_
+_&#42;為避免現有使用者中斷，此許可權將以被動模式引入，目前可見但無法存取。 我們將傳達當它在2024年中成為使用中狀態時如何實作它。_
 
 ## 存取行事曆Presentations {#access-calendar-presentations}
 
@@ -119,11 +119,11 @@ _&#42;為避免現有使用者中斷，此許可權將以被動模式引入，�
 
 * 存取電子郵件
    * 編輯電子郵件 — 提供使用者編輯、建立和複製電子郵件的許可權
-      * 讓電子郵件運作 — 授予使用者讓電子郵件運作的許可權。 請參閱： [讓電子郵件運作正常](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * 讓電子郵件運作 — 授予使用者讓電子郵件運作的許可權。 請參閱：[讓電子郵件運作](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * 核准電子郵件 — 讓使用者可核准電子郵件。
       * 刪除電子郵件 — 讓使用者可以刪除電子郵件。
-      * 設定品牌領域 — 讓使用者能夠使用品牌領域。 請參閱： [新增其他品牌網域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
+      * 設定品牌領域 — 讓使用者能夠使用品牌領域。 請參閱： [新增其他品牌化網域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * 存取電子郵件範本
 
@@ -186,11 +186,11 @@ _&#42;為避免現有使用者中斷，此許可權將以被動模式引入，�
 * 匯入自訂物件
 * 匯入清單
 * 合併人員
-* 執行單一流程動作 — 讓使用者能夠執行 **變更資料值** 對資料庫中的人員執行流程步驟
+* 執行單一流程動作 — 讓使用者對資料庫中的人員執行&#x200B;**變更資料值**&#x200B;流程步驟
 
 * 檢視機會資料 — 隱藏個人詳細資訊頁面上的機會資訊
 
-_&#42;為避免現有使用者中斷，此許可權將以被動模式引入，目前可見但無法存取。 我們將溝通如何在2024年年中生效時實施它。_
+_&#42;為避免現有使用者中斷，此許可權將以被動模式引入，目前可見但無法存取。 我們將傳達當它在2024年中成為使用中狀態時如何實作它。_
 
 ## 存取行銷活動 {#access-marketing-activities}
 
@@ -215,7 +215,7 @@ _&#42;為避免現有使用者中斷，此許可權將以被動模式引入，�
 * 刪除行銷資產
 * 編輯行銷活動限制
 * 編輯行銷資產
-* 匯出行銷活動內容&#42;
+* 匯出行銷活動活動&#42;
 * 匯入計畫
 * 清單匯入
 * 排程批次行銷活動
@@ -225,17 +225,17 @@ _&#42;為避免現有使用者中斷，此許可權將以被動模式引入，�
 * 管理SEO
 * 標準SEO
 
-_&#42;為避免現有使用者中斷，此許可權將以被動模式引入，目前可見但無法存取。 我們將溝通如何在2024年年中生效時實施它。_
+_&#42;為避免現有使用者中斷，此許可權將以被動模式引入，目前可見但無法存取。 我們將傳達當它在2024年中成為使用中狀態時如何實作它。_
 
-## 目標定位和個人化 {#targeting-and-personalization}
+## 目標定位與Personalization {#targeting-and-personalization}
 
-* 管理Web個人化
+* 管理Web Personalization
 * CRE行銷活動編輯器
 * CRE Campaign啟動器
 * 網站行銷活動編輯器
 * 網頁行銷活動啟動器
 
-工作區管理
+Workspace管理
 
-* 特定工作區的管理員存取權（前提是您已啟用工作區）
+* 特定Workspace的管理員存取權（僅限已啟用工作區時）
 * 在工作區之間移動資產（前提是您已啟用工作區）

@@ -18,23 +18,23 @@ ht-degree: 0%
 
    ![](assets/enable-captcha-in-marketo-forms-1.png)
 
-1. 按一下 **編輯草稿** （如果表單已核准，請按一下「建立草稿」）。
+1. 按一下&#x200B;**編輯草稿** （如果表單已核准，請按一下[建立草稿]）。
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 
-1. 按一下 **表單設定**，然後 **設定**.
+1. 按一下&#x200B;**表單設定**，然後按一下&#x200B;**設定**。
 
    ![](assets/enable-captcha-in-marketo-forms-3.png)
 
-1. 開啟「驗證碼」下拉式清單，然後選取 **已啟用**.
+1. 開啟CAPTCHA下拉式清單，然後選取&#x200B;**已啟用**。
 
    ![](assets/enable-captcha-in-marketo-forms-4.png)
 
-1. 按一下 **完成**.
+1. 按一下&#x200B;**完成**。
 
    ![](assets/enable-captcha-in-marketo-forms-5.png)
 
-1. 按一下 **核准並關閉**.
+1. 按一下&#x200B;**核准並關閉**。
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 
@@ -46,4 +46,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[設定reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
+>[正在設定reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)

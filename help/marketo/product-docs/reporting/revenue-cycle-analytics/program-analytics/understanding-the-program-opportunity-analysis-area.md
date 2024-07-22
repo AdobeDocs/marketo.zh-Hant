@@ -6,7 +6,7 @@ exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 計畫機會分析區域可讓您分析個別計畫的成效，或檢視計畫頻道的摘要結果。
 
-**您可以使用此分析區域回答的業務問題範例包括**：
+**您可以使用此分析區域回答的業務問題範例，包括**：
 
 有多少商機與指定計畫有關聯，以及我們贏得了多少商機？
 
@@ -74,7 +74,7 @@ ht-degree: 0%
    <td>計畫因影響商機的建立而收到的信用部份。 如果涉及多個銷售機會，則可能為小數。</td> 
   </tr> 
   <tr> 
-   <td>成功的機會</td> 
+   <td>已贏得的機會</td> 
    <td>計畫因影響成功的機會而收到的信用部份。 如果涉及多個銷售機會，則可能為小數。</td> 
   </tr> 
   <tr> 
@@ -100,7 +100,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-_&#42;(FT) =首次接觸歸因，用於評估銷售機會贏取；(MT) =多重接觸歸因，用於評估銷售機會的成功_
+_&#42;(FT) =首次接觸歸因，用於評估銷售機會贏取；(MT) =多重接觸歸因，用於評估銷售機會成功_
 
 以下案例說明當有兩個產生潛在客戶的計畫時，如何計算商機單位，但這些潛在客戶會從相同帳戶產生一個商機。
 
@@ -169,15 +169,15 @@ Marketo會適當地提供學分，而不會在計畫間重複電腦會。 因此
   </tr> 
   <tr> 
    <td>機會屬性</td> 
-   <td>商機已關閉<br>機會名稱*<br>機會擁有者名稱<br>機會階段<br>機會型別</td> 
+   <td>商機已關閉<br>商機名稱*<br>商機擁有者名稱<br>商機階段<br>商機型別</td> 
   </tr> 
   <tr> 
    <td>機會時間範圍</td> 
-   <td>商機已結束年度/季/月<br>建立的商機年/季/月</td> 
+   <td>商機已結束年度/季/月<br>建立的年度/季/月</td> 
   </tr> 
   <tr> 
    <td>計畫屬性</td> 
-   <td>方案頻道<br>計畫名稱</td> 
+   <td>節目頻道<br>節目名稱</td> 
   </tr> 
   <tr> 
    <td>方案成本時間範圍</td> 
@@ -186,8 +186,8 @@ Marketo會適當地提供學分，而不會在計畫間重複電腦會。 因此
  </tbody> 
 </table>
 
-*&#42;所有將任何型別的歸因評分給予方案的機會。 機會可能會受到一個或多個潛在客戶以及一個或多個計畫的影響。*
+*&#42;所有將任何型別的歸因評分給予計畫的機會。 機會可能會受到一或多個潛在客戶以及一或多個計畫的影響。*
 
 >[!MORELIKETHIS]
 >
->[建立收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[建立Revenue Explorer報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

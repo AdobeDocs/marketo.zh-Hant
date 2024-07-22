@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/image2017-10-3-9-3a3-3a44.png)
 
-當您編輯探索到的內容時，請在編輯畫面中新增類別。 按一下 **類別** 欄位並從下拉式清單中選取。
+當您編輯探索到的內容時，請在編輯畫面中新增類別。 按一下&#x200B;**類別**&#x200B;欄位，然後從下拉式清單中選取它們。
 
 ![](assets/two.png)
 
@@ -29,23 +29,23 @@ ht-degree: 0%
 
 以下說明如何建立類別標籤。
 
-1. 前往 **內容設定**.
+1. 移至&#x200B;**內容設定**。
 
    ![](assets/settings-dropdown-hand-1.png)
 
-1. 按一下 **類別**.
+1. 按一下&#x200B;**類別**。
 
    ![](assets/content-discovery-categories-hand.png)
 
-1. 會顯示現有的類別標籤。 輸入新的類別標籤，然後按一下 **新建**.
+1. 會顯示現有的類別標籤。 輸入新的類別標籤，然後按一下[新建] ****。
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
-1. 您可以按一下 **x** 旁邊的。
+1. 您可以按一下類別標籤旁邊的&#x200B;**x**&#x200B;來移除類別標籤。
 
    ![](assets/remove-category-tag-updated.png)
 
-1. 按一下 **儲存** 完成時。
+1. 完成時，按一下&#x200B;**儲存**。
 
    ![](assets/save-new.png)
 

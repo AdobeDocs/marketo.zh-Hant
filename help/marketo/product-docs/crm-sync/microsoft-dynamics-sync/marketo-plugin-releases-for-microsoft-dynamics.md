@@ -15,15 +15,15 @@ ht-degree: 0%
 
 當您首次同步至Microsoft Dynamics時，需下載最新版的Marketo外掛程式。 Marketo會定期更新這些外掛程式，讓您能夠返回相同位置下載新版本。
 
-[下載最新的外掛程式](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} 與您的Dynamics版本相對應。
+[下載與您的Dynamics版本對應的最新外掛程式](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}。
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
 ## 正在更新您的Dynamics解決方案 {#updating-your-dynamics-solution}
 
-1. 匯入最新版本的解決方案，以取代現有的Dynamics CRM版本(例如：如果您的Dynamics CRM版本為1.4，而最新版本為1.5，您將會匯入 _超過_ 1.4版)。
+1. 匯入最新版本的解決方案，以取代現有的Dynamics CRM版本（例如：如果您的Dynamics CRM版本為1.4，而最新版本為1.5，則您會匯入&#x200B;_超過_&#x200B;版本1.4）。
 
-1. 您會看到下列快顯視窗。 選取 **更新** 和 **維護自訂**，然後按一下 **匯入**.
+1. 您會看到下列快顯視窗。 選取&#x200B;**更新**&#x200B;和&#x200B;**維護自訂**，然後按一下&#x200B;**匯入**。
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
 

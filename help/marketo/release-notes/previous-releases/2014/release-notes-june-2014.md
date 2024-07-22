@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## Outlook 2013的Sales Insight外掛程式 {#sales-insight-plugin-for-outlook}
 
-您必須下載新的外掛程式，才能進行這項作業。 您可以從以下位置下載： [此處](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+您必須下載新的外掛程式，才能進行這項作業。 您可以從[這裡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)下載。
 
 ## 權杖解析 {#token-resolution}
 
@@ -29,17 +29,17 @@ ht-degree: 0%
 
 ## 自訂星星和火焰的百分比 {#customize-percentages-for-stars-and-flames}
 
-[設定百分比](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) 得到1、2或3顆星星和火焰的潛在客戶。
+[設定獲得1、2或3顆星和火焰的銷售機會百分比](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)。
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
 ## 潛在客戶Rest API {#lead-rest-api}
 
-透過新的ReST API，以程式設計方式建立、讀取和更新銷售機會。 若要開始使用ReST，您必須 [建立自訂服務](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) 在Marketo中。 然後前往 [開發人員網站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/) 以取得有關使用此API的詳細資訊。
+透過新的ReST API，以程式設計方式建立、讀取和更新銷售機會。 若要開始使用ReST，您必須在Marketo中[建立自訂服務](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)。 然後前往[開發人員網站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/)取得有關使用此API的詳細資訊。
 
-## Marketo Real-Time Personalization (RTP)促銷活動頁面更新 {#marketo-real-time-personalization-rtp-campaigns-page-update}
+## Marketo Real-Time Personalization (RTP)行銷活動頁面更新 {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
-RTP行銷活動現在包含新設計，其中包含縮圖檢視和行銷活動績效。 此外，您可以 [組織您的行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) 根據日期或最佳績效。
+RTP行銷活動現在包含新設計，其中包含縮圖檢視和行銷活動績效。 此外，您可以[根據日期或最佳績效，組織行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md)。
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 
@@ -47,6 +47,6 @@ RTP行銷活動現在包含新設計，其中包含縮圖檢視和行銷活動�
 
 在網站分析平台中附加所有RTP資料。
 
-與整合 [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA)現在預設為啟用，因此在「帳戶設定」下方開啟您要傳送資料至GA自訂變數和事件的開關。
+與[Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA)的整合現在預設為啟用，所以在[帳戶設定]下，開啟您要傳送資料到GA自訂變數和事件的開關。
 
-我們也完成了與的整合 [Adobe SiteCatalyst](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).
+我們也已完成與[Adobe SiteCatalyst](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)的整合。

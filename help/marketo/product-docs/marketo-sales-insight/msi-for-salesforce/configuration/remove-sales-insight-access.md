@@ -5,7 +5,7 @@ exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -77,13 +77,13 @@ ht-degree: 0%
 
 1. 登入您的Salesforce帳戶。
 
-1. 按一下 **設定**.
+1. 按一下&#x200B;**設定**。
 
    ![](assets/remove-sales-insight-access-1.png)
 
-1. 在「管理員」底下，按一下 **管理使用者**，然後 **設定檔**.
+1. 在「管理員」底下，按一下&#x200B;**管理使用者**，然後按&#x200B;**設定檔**。
 
-1. 按一下您要更新的設定檔，然後 **編輯**.
+1. 按一下您要更新的設定檔，然後&#x200B;**編輯**。
 
 1. 向下捲動至「標籤設定」下的「自訂標籤設定」。
 
@@ -109,27 +109,27 @@ ht-degree: 0%
    * 值
    * WebActivityCache
 
-1. 向下捲動至「已啟用的Apex類別存取」區段。 按一下 **編輯**.
+1. 向下捲動至「已啟用的Apex類別存取」區段。 按一下&#x200B;**編輯**。
 
 1. 從「啟用的Apex類別」段落中，選取所有以「mkto_si」開頭的類別。 這最多可新增159個類別。
 
-1. 按一下 **移除**，然後 **儲存**.
+1. 按一下&#x200B;**移除**，然後按一下&#x200B;**儲存**。
 
    ![](assets/remove-sales-insight-access-4.png)
 
-1. 向下捲動至「已啟用的Visualforce頁面存取」區段。 按一下 **編輯**.
+1. 向下捲動至「已啟用的Visualforce頁面存取」區段。 按一下&#x200B;**編輯**。
 
 1. 從「已啟用的Visualforce頁面」區段中，選取所有以「mkto_si」開頭的頁面。 最多可新增64頁。
 
-1. 按一下 **移除**，然後 **儲存**.
+1. 按一下&#x200B;**移除**，然後按一下&#x200B;**儲存**。
 
    ![](assets/remove-sales-insight-access-5.png)
 
-1. 向下捲動至「已啟用自訂設定定義存取」區段。 按一下 **編輯**.
+1. 向下捲動至「已啟用自訂設定定義存取」區段。 按一下&#x200B;**編輯**。
 
 1. 選取「Marketo Sales Insight.mkto_si.Marketo設定」和「Marketo Sales Insight.mkto_si.User偏好設定」。
 
-1. 按一下 **移除**，然後 **儲存**.
+1. 按一下&#x200B;**移除**，然後按一下&#x200B;**儲存**。
 
    ![](assets/remove-sales-insight-access-6.png)
 

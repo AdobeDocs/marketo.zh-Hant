@@ -16,25 +16,25 @@ ht-degree: 0%
 
 ## 建立類別 {#create-a-category}
 
-1. 按一下 **範本** 標籤。
+1. 按一下「**範本**」標籤。
 
    ![](assets/manage-template-categories-1.png)
 
-1. 按一下 **+** 圖示旁邊 **類別**.
+1. 按一下&#x200B;**類別**&#x200B;旁的&#x200B;**+**&#x200B;圖示。
 
    ![](assets/manage-template-categories-2.png)
 
-1. 輸入新類別的名稱，然後按一下 **建立**.
+1. 輸入新類別的名稱，然後按一下[建立]。****
 
    ![](assets/manage-template-categories-3.png)
 
 ## 重新命名範本類別 {#rename-a-template-category}
 
-1. 按一下 **範本** 標籤。
+1. 按一下「**範本**」標籤。
 
    ![](assets/manage-template-categories-4.png)
 
-1. 將游標停留在您要重新命名的範本上，然後按一下圓點（三個點）。 選取 **重新命名**.
+1. 將游標停留在您要重新命名的範本上，然後按一下圓點（三個點）。 選取&#x200B;**重新命名**。
 
    ![](assets/manage-template-categories-5.png)
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 
 ## 刪除範本類別 {#delete-a-template-category}
 
-1. 按一下 **範本** 標籤。
+1. 按一下「**範本**」標籤。
 
    ![](assets/manage-template-categories-7.png)
 
-1. 將游標停留在您要重新命名的範本上，然後按一下圓點（三個點）。 選取 **刪除**.
+1. 將游標停留在您要重新命名的範本上，然後按一下圓點（三個點）。 選取&#x200B;**刪除**。
 
    ![](assets/manage-template-categories-8.png)
 
-1. 按一下 **刪除** 以確認。
+1. 按一下&#x200B;**刪除**&#x200B;確認。
 
    ![](assets/manage-template-categories-9.png)
 

@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 程式排程檢視專案型別 {#program-schedule-view-entry-types}
 
-您的方案排程檢視中會顯示並可以使用八種不同的內建專案型別。 您也可以 [建立自訂專案型別](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) 在管理員區段中。
+您的方案排程檢視中會顯示並可以使用八種不同的內建專案型別。 您也可以在管理區段中[建立自訂專案型別](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)。
 
 >[!NOTE]
 >
->週期性智慧行銷活動為 **非** 在排程檢視中支援。
+>排程檢視中&#x200B;**不支援**&#x200B;週期性智慧型行銷活動。
 
 <table> 
  <thead> 

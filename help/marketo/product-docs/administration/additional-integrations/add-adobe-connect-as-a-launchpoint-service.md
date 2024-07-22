@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512270
-description: '"新增Adobe Connect as a [!DNL LaunchPoint] 服務 — Marketo檔案 — 產品檔案」'
-title: '"新增Adobe Connect as a [!DNL LaunchPoint] 服務」'
+description: 「新增Adobe Connect作為 [!DNL LaunchPoint] 服務 — Marketo檔案 — 產品檔案」
+title: 「將Adobe Connect新增為 [!DNL LaunchPoint] 服務」
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 新增Adobe Connect as a [!DNL LaunchPoint] 服務 {#add-adobe-connect-as-a-launchpoint-service}
+# 將Adobe Connect新增為[!DNL LaunchPoint]服務 {#add-adobe-connect-as-a-launchpoint-service}
 
 Marketo會管理您的Adobe Connect網路研討會註冊與出席情況。
 
@@ -27,27 +27,27 @@ Marketo會管理您的Adobe Connect網路研討會註冊與出席情況。
 >
 >目前不支援Adobe Connect On Site。
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-1.png)
 
-1. 按一下 **[!UICONTROL 啟動點]**.
+1. 按一下&#x200B;**[!UICONTROL 啟動點]**。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-2.png)
 
-1. 按一下 **[!UICONTROL 新增]** 下拉式清單並選取 **[!UICONTROL 新服務]**.
+1. 按一下&#x200B;**[!UICONTROL 新增]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 新增服務]**。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-3.png)
 
-1. 輸入 **[!UICONTROL 顯示名稱]**. 在 **[!UICONTROL 服務]**，選取Adobe Connect。
+1. 輸入&#x200B;**[!UICONTROL 顯示名稱]**。 在&#x200B;**[!UICONTROL 服務]**&#x200B;下，選取Adobe Connect。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-4.png)
 
-1. 輸入您的 **[!UICONTROL 使用者名稱]** 和 **[!UICONTROL 存取代碼]**.
+1. 輸入您的&#x200B;**[!UICONTROL 使用者名稱]**&#x200B;和&#x200B;**[!UICONTROL 存取碼]**。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-5.png)
 
-1. 輸入您的 **[!UICONTROL 會議資料夾URL]** 和 **[!UICONTROL 參與者密碼]**，然後按一下 **[!UICONTROL 建立]**.
+1. 輸入您的&#x200B;**[!UICONTROL 會議資料夾URL]**&#x200B;和&#x200B;**[!UICONTROL 參與者密碼]**，然後按一下&#x200B;**[!UICONTROL 建立]**，以完成程式。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-6.png)
 
@@ -57,7 +57,7 @@ Marketo會管理您的Adobe Connect網路研討會註冊與出席情況。
 
    >[!NOTE]
    >
-   >登入Adobe Connect帳戶後，請選取 **[!UICONTROL 研討會]** 標籤。 無須深入瞭解任何特定研討會，即可將URL從瀏覽器列複製到 **[!UICONTROL 會議資料夾URL]** 設定。
+   >登入您的Adobe Connect帳戶後，請選取&#x200B;**[!UICONTROL 研討會]**&#x200B;標籤。 請將URL從瀏覽器列複製到&#x200B;**[!UICONTROL 會議資料夾URL]**&#x200B;設定，而不需深入任何特定研討會。
 
 您的Adobe Connect服務現在已與Marketo同步！
 
@@ -65,4 +65,4 @@ Marketo會管理您的Adobe Connect網路研討會註冊與出席情況。
 
 >[!MORELIKETHIS]
 >
->瞭解如何 [使用Adobe Connect建立事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"}.
+>瞭解如何[使用Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"}建立活動。

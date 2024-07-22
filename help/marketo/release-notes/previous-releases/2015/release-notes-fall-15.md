@@ -6,7 +6,7 @@ exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '991'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
@@ -45,11 +45,11 @@ ht-degree: 0%
 
 [Google Chrome的Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-我們很高興宣佈推出Google Mail Sales Insight擴充功能的更新版本！ 在中檢視  [Chrome商店](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+我們很高興宣佈推出Google Mail Sales Insight擴充功能的更新版本！ 在[Chrome市集](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)中檢視它。
 
 此更新包含許多新功能：
 
-* 參與之前，銷售人員可以直接在Google Mail中檢視其潛在客戶的相關資訊，包括職稱、twitter設定檔、公司資訊、像片等。
+* 參與之前，銷售人員可以直接在Google Mail中檢視潛在客戶的相關資訊，包括職稱、twitter設定檔、公司資訊、像片等。
 * 銷售人員可以即時檢視跨頻道潛在客戶正在互動的內容內容，例如已開啟或點按的電子郵件、已出席的線上或面對面活動、已瀏覽的網頁、已下載的eBook等等。
 * 透過Google Mail傳送的電子郵件會記錄在Marketo中並即時追蹤。 這麼做可讓銷售人員檢視潛在客戶何時檢視其電子郵件，方便他們在適當的時間進行追蹤。 透過Google Mail的Marketo Sales Insight，銷售人員也能輕鬆運用行銷建立的範本，傳送精美的邀請、優惠方案和其他型別的內容。
 
@@ -61,11 +61,11 @@ ht-degree: 0%
 * [傳送範例](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [預覽](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-使用輕鬆個人化推播通知 [Token](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+使用[權杖](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)輕鬆個人化推播通知。
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-您也可以 [預覽](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) 或傳送 [範例](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) 在部署給客戶之前推送通知。
+您也可以[預覽](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)，或先傳送[範例](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)推播通知，再部署給客戶。
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -86,7 +86,7 @@ ht-degree: 0%
 
 ## RTP — 內容分析和Recommendations {#rtp-content-analytics-and-recommendations}
 
-[內容分析](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 和Recommendations
+[內容分析](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)和Recommendations
 
 「RTP內容分析」會顯示您從定期網站造訪以及從RTP內容推薦引擎產生的造訪中，所取得的網站內容資產效能。
 
@@ -94,10 +94,10 @@ ht-degree: 0%
 * 啟用RTP的預測性內容引擎中的內容，自動向適當的訪客建議最佳內容，大幅增加您的內容使用量
 * 向下展開每個內容資產，檢視更深入的量度、圖表和效能
 
-RTP的「資產」頁面現在分為「內容分析」和「內容Recommendations」。
+RTP的Assets頁面現在分為內容分析和內容Recommendations。
 
-* **內容分析：** 顯示所有探索及定義之網頁內容的檢視和直接銷售機會，協助您分析表現最佳的內容
-* **內容Recommendations**：顯示RTP建議內容的曝光數與點按數以及相關的主要客戶歸因。 您也可以從此頁面針對以下專案編輯及啟用內容推薦： [長條圖](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) 和 [多媒體](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) recommendations。
+* **內容分析：**&#x200B;顯示所有探索與定義之網頁內容的檢視與直接銷售機會，協助您分析最佳表現內容
+* **內容Recommendations**：顯示RTP建議內容的曝光次數與點按次數，以及相關的潛在客戶歸因。 您也可以編輯和啟用此頁面的[列](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)和[多媒體](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)建議的內容建議。
 
 * 這兩個頁面中的所有直接銷售機會資料，自今年年初（2015年1月1日）起已追溯更新。
 
@@ -125,7 +125,7 @@ RTP的「資產」頁面現在分為「內容分析」和「內容Recommendation
 
 `<!--[if gte mso 9]> <![endif]-->`
 
-* 請勿將空白表格儲存格填入 `&nbsp;`
+* 請勿將空白表格儲存格填入`&nbsp;`
 
 * 將「最大化/最小化」按鈕新增到HTML來源編輯器
 * 現在可在「表格屬性」對話方塊中識別並顯示預先存在的表格屬性

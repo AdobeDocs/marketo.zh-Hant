@@ -6,7 +6,7 @@ exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Marketo提供六種版面來建置應用程式內訊息。
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-現在您已瞭解範本，您可以開始選擇一個範本， [建立您的應用程式內訊息影像](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
+現在您已瞭解範本，請在[建立應用程式內訊息影像](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md)時選擇範本。
 
 >[!MORELIKETHIS]
 >

@@ -5,7 +5,7 @@ exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
@@ -27,13 +27,13 @@ ht-degree: 0%
 * 僅節流透過Gmail或Exchange傳送的電子郵件，不會節流自訂傳遞通道
 * 電子郵件連線節流會個別將每位使用者的電子郵件加入佇列，因為每位使用者有其自己與電子郵件提供者的連線
 
-**正在設定電子郵件連線節流設定**
+**正在設定您的電子郵件連線節流設定**
 
-1. 按一下齒輪圖示並選取 **設定**.
+1. 按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/email-connection-throttling-1.png)
 
-1. 按一下 **一般**.
+1. 按一下&#x200B;**一般**。
 
    ![](assets/email-connection-throttling-2.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/email-connection-throttling-4.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/email-connection-throttling-5.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 * 每分鐘30次
 * 每封電子郵件500位收件者
 
-更多資訊 [可在此處找到](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
+如需詳細資訊[，請參閱此處](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits)。
 
 **Gmail**
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 * 每秒2封電子郵件（API限制）
 * 每則訊息2,000位收件者（外部收件者最多500位）
 
-更多資訊 [可在此處找到](https://support.google.com/a/answer/166852?hl=en).
+如需詳細資訊[，請參閱此處](https://support.google.com/a/answer/166852?hl=en)。
 
 **Microsoft Exchange Server (2010， 2013)**
 
@@ -78,5 +78,5 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [傳遞管道總覽](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
->* [Gmail使用者的電子郵件連線](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Outlook使用者的電子郵件連線](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* Gmail使用者的[電子郵件連線](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [電子郵件連線給Outlook使用者](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

@@ -6,7 +6,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '318'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td>刪除</td> 
-   <td><p>將刪除電子郵件。<br><strong>注意：</strong> 無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td> 
+   <td><p>將刪除電子郵件。<br><strong>注意：</strong>無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -58,12 +58,12 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td>刪除</td> 
-   <td><p>將刪除電子郵件。<br><strong>注意：</strong> 無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td> 
+   <td><p>將刪除電子郵件。<br><strong>注意：</strong>無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**失敗、已退信和垃圾訊息**
+**失敗、已退回，而且垃圾訊息**
 
 <table> 
  <colgroup> 
@@ -77,7 +77,7 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td>刪除</td> 
-   <td><p>將刪除電子郵件。<br><strong>注意：</strong> 無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td> 
+   <td><p>將刪除電子郵件。<br><strong>注意：</strong>無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td> 
   </tr> 
  </tbody> 
 </table>

@@ -14,11 +14,11 @@ ht-degree: 0%
 
 提醒工作是瞭解客戶和潛在客戶參與情況的絕佳方式。 若要建立任務，請依照下列步驟進行。
 
-1. 按一下 **指揮中心**.
+1. 按一下&#x200B;**指揮中心**。
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. 預設會開啟任務。 按一下 **新增任務**.
+1. 預設會開啟任務。 按一下&#x200B;**新增工作**。
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
@@ -46,6 +46,6 @@ ht-degree: 0%
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. 新增完成工作時您想要取得的任何工作詳細資訊，例如通話留言、InMail訊息範本，或甚至有關人員的備註。 按一下 **建立** 完成時。
+1. 新增完成工作時您想要取得的任何工作詳細資訊，例如通話留言、InMail訊息範本，或甚至有關人員的備註。 完成時，按一下&#x200B;**建立**。
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

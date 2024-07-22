@@ -27,14 +27,14 @@ ht-degree: 0%
 >
 >自訂活動與自訂物件不同。 值可以變更時使用自訂物件（即「汽車顏色」從藍色變更為紅色）。 當追蹤已發生的時間及其詳細資料無法變更時（即「購買的汽車」），請使用自訂活動。
 
-**欄位** 您可以新增 [其他欄位](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) 您想要與活動建立關聯的資訊。 和主要欄位一樣，它們也可在智慧清單中作為篩選條件使用。
+**欄位**&#x200B;您可以新增要與活動建立關聯的[其他欄位](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)。 和主要欄位一樣，它們也可在智慧清單中作為篩選條件使用。
 
 **快速入門**
 
 自訂活動的運作方式與標準活動類似。 但是，設定它們需要兩個步驟。
 
-步驟1： [建立自訂活動](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) 在您的Marketo帳戶中
+步驟1：在您的Marketo帳戶中[建立自訂活動](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
 
-步驟2：接下來，貴組織中使用API的員工就可以開始實作。 如需詳細資訊，請參閱此處： [自訂活動API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
+步驟2：接下來，貴組織中使用API的員工就可以開始實作。 如需詳細資訊，請前往此處： [自訂活動API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 
 玩得開心！

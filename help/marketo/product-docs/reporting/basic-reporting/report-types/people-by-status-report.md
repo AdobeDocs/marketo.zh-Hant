@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 依狀態顯示人員報表 {#people-by-status-report}
 
-檢查每個流程中出現多少人員，檢閱您在流程中移動人員的程度 _個人狀態_ 每月值。
+檢查每個月有多少人員出現在每個&#x200B;_人員狀態_&#x200B;值中，檢視您在流程中移動人員的程度。
 
-1. [建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 並選取 **依狀態區分的人員** [報告型別](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)並選取&#x200B;**依狀態的人員** [報告型別](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
 
-1. [設定報告的時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 並按一下 **報告** 標籤。
+1. [設定報告的時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)，然後按一下&#x200B;**報告**&#x200B;索引標籤。
 
 1. 太棒了！ 現在，您可以檢視每個人員狀態在每月的人員。
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[使用智慧清單來篩選報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) 特定人員。
+   >[使用智慧清單將您的報告](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)篩選給特定人員。

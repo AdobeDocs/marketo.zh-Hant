@@ -83,7 +83,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您公司的Marketo管理員必須 [啟用RSS摘要](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) 才能順利運作。
+>您公司的Marketo管理員必須[啟用RSS摘要](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)，此專案才能運作。
 
 若要取得RSS更新，您需要兩個專案：RSS連結和RSS摘要讀取器。 您可以按一下潛在客戶摘要中的RSS圖示來取得RSS連結：
 

@@ -6,7 +6,7 @@ exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1913'
+source-wordcount: '1902'
 ht-degree: 10%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="15"><strong>預設計畫</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>建立</td> 
-   <td>管道型別「管道型別」<br>或<br>從「program name」複製</td> 
+   <td>頻道型別「頻道型別」<br>或<br>複製自「方案名稱」</td> 
   </tr> 
   <tr> 
    <td>重新命名</td> 
@@ -40,7 +40,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製到工作區的「workspace name」 <br>位置「Campaign資料夾」或「參與方案」 <br>複製的程式名稱「新名稱」</td> 
+   <td>複製到工作區的「工作區名稱」 <br>位置「Campaign資料夾」或「參與方案」 <br>複製的方案名稱「新名稱」</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -93,7 +93,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="19"><strong>電子郵件</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>建立</td> 
-   <td>使用範本「範本名稱」建立 <br>或 <br>從「資產名稱」複製</td> 
+   <td>使用範本「範本名稱」<br>或從「資產名稱」複製的<br>建立</td> 
   </tr> 
   <tr> 
    <td>編輯</td> 
@@ -149,11 +149,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製至「Design Studio」至資料夾「foldername」 <br>複製的資產名稱「名稱」<br>或<br>複製至「行銷活動」至方案「方案名稱」<br>複製的資產名稱「名稱」</td> 
+   <td>複製至「Design Studio」至資料夾「foldername」<br>複製資產名稱「name」<br>或<br>複製至「行銷活動」至方案「方案名稱」<br>複製資產名稱「name」</td> 
   </tr> 
   <tr> 
    <td>移動</td> 
-   <td>已移至「Design Studio」資料夾「資料夾名稱」<br>或<br>已移至「行銷活動」至方案「方案名稱」</td> 
+   <td>已移至「Design Studio」資料夾「資料夾名稱」<br>或<br>已移至「行銷活動」方案「方案名稱」</td> 
   </tr> 
   <tr> 
    <td>核准</td> 
@@ -165,11 +165,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>草稿</td> 
-   <td>起草電子郵件是因為已核准程式碼片段「程式碼片段名稱」<br>或<br>由於範本「範本名稱」獲得核准，因此已草擬電子郵件</td> 
+   <td>起草電子郵件是因為已核准程式碼片段「程式碼片段名稱」<br>或<br>起草電子郵件是因為已核准範本「範本名稱」</td> 
   </tr> 
    <td rowspan="17">電子郵件程式</td> 
    <td>建立</td> 
-   <td>管道型別「管道型別」<br>或<br>從「program name」複製</td> 
+   <td>頻道型別「頻道型別」<br>或<br>複製自「方案名稱」</td> 
   </tr> 
   <tr> 
    <td colspan="1">重新命名</td> 
@@ -177,7 +177,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製到工作區的「workspace name」 <br>位置「Campaign資料夾或參與方案」 <br>複製的程式名稱「新名稱」</td> 
+   <td>複製至工作區「工作區名稱」 <br>位置「Campaign資料夾或參與方案」 <br>複製方案名稱「新名稱」</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -258,7 +258,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>已複製至「資料夾名稱」 <br> 複製的資產名稱「名稱」</td> 
+   <td>已複製至「資料夾名稱」<br>已複製資產名稱「名稱」</td> 
   </tr> 
   <tr> 
    <td>核准</td> 
@@ -271,7 +271,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="23">參與計畫</td> 
    <td>建立</td> 
-   <td>管道型別「管道型別」<br> 或<br> 從「program name」複製</td> 
+   <td>管道型別「管道型別」<br>或<br>複製自「方案名稱」</td> 
   </tr> 
   <tr> 
    <td>重新命名</td> 
@@ -279,7 +279,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製到工作區的「workspace name」 <br>位置「Campaign資料夾或參與方案」 <br>複製的程式名稱「新名稱」</td> 
+   <td>複製至工作區「工作區名稱」 <br>位置「Campaign資料夾或參與方案」 <br>複製方案名稱「新名稱」</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -303,19 +303,19 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>修改程式串流</td> 
-   <td>新增內容<br>蒸汽名稱「串流名稱」<br>輸入「電子郵件」或「計畫」<br>名稱「電子郵件名稱」或「計畫名稱」<br>智慧型行銷活動「智慧型行銷活動名稱」</td> 
+   <td>新增內容<br>資料流名稱「資料流名稱」<br>輸入「電子郵件」或「方案」<br>名稱「電子郵件名稱」或「方案名稱」<br>智慧行銷活動「智慧行銷活動名稱」</td> 
   </tr> 
   <tr> 
    <td>修改程式串流</td> 
-   <td>啟用內容<br>串流名稱「串流名稱」<br>內容名稱「電子郵件名稱」或「方案名稱」</td> 
+   <td>啟用內容<br>資料流名稱「資料流名稱」<br>內容名稱「電子郵件名稱」或「程式名稱」</td> 
   </tr> 
   <tr> 
    <td>修改程式串流</td> 
-   <td>停用內容<br>串流名稱「串流名稱」<br>內容名稱「電子郵件名稱」或「方案名稱」</td> 
+   <td>停用內容<br>資料流名稱「資料流名稱」<br>內容名稱「電子郵件名稱」或「程式名稱」</td> 
   </tr> 
   <tr> 
    <td>修改程式串流</td> 
-   <td>移除內容<br>串流名稱「串流名稱」<br>內容名稱「電子郵件名稱」或「方案名稱」</td> 
+   <td>移除內容<br>資料流名稱「資料流名稱」<br>內容名稱「電子郵件名稱」或「程式名稱」</td> 
   </tr> 
   <tr> 
    <td>修改程式權杖</td> 
@@ -364,7 +364,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="18">事件程式</td> 
    <td>建立</td> 
-   <td>管道型別「管道型別」<br>或<br>從「program name」複製</td> 
+   <td>頻道型別「頻道型別」<br>或<br>複製自「方案名稱」</td> 
   </tr> 
   <tr> 
    <td>重新命名</td> 
@@ -376,7 +376,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製到工作區的「workspace name」 <br>位置「行銷活動資料夾」或「參與方案」 <br>複製的程式名稱「新名稱」</td> 
+   <td>複製到工作區「工作區名稱」 <br>位置「行銷活動資料夾」或「參與方案」 <br>複製的方案名稱「新名稱」</td> 
   </tr> 
   <tr> 
    <td>編輯頻道</td> 
@@ -482,11 +482,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製至「Design Studio」至資料夾「foldername」 <br>複製的資產名稱「名稱」<br>或<br>複製至「行銷活動」至方案「方案名稱」<br>複製的資產名稱「名稱」</td> 
+   <td>複製至「Design Studio」至資料夾「foldername」<br>複製資產名稱「name」<br>或<br>複製至「行銷活動」至方案「方案名稱」<br>複製資產名稱「name」</td> 
   </tr> 
   <tr> 
    <td>移動</td> 
-   <td>已移至「Design Studio」資料夾「資料夾名稱」<br>或<br>已移至「行銷活動」至方案「方案名稱」</td> 
+   <td>已移至「Design Studio」資料夾「資料夾名稱」<br>或<br>已移至「行銷活動」方案「方案名稱」</td> 
   </tr> 
   <tr> 
    <td>Forms</td> 
@@ -496,7 +496,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="9">登陸頁面</td> 
    <td>建立</td> 
-   <td>使用範本「範本名稱」建立 <br>或 <br>從「資產名稱」複製</td> 
+   <td>使用範本「範本名稱」<br>或從「資產名稱」複製的<br>建立</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -520,11 +520,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製至「Design Studio」至資料夾「foldername」<br>複製的資產名稱「名稱」<br>複製資產URL "www.url.com"<br>或<br>複製至「行銷活動」至方案「方案名稱」 <br>複製的資產名稱「名稱」<br>複製資產URL "www.url.com"</td> 
+   <td>複製至「Design Studio」至資料夾「foldername」<br>複製資產名稱「name」<br>複製資產URL「www.url.com」<br>或<br>複製至「行銷活動」至方案「方案名稱」<br>複製資產名稱「name」<br>複製資產URL「www.url.com」</td> 
   </tr> 
   <tr> 
    <td>移動</td> 
-   <td>已移至「Design Studio」資料夾「資料夾名稱」<br> 或<br> 已移至「行銷活動」至方案「方案名稱」</td> 
+   <td>已移至「Design Studio」資料夾「資料夾名稱」<br>或<br>已移至「行銷活動」方案「方案名稱」</td> 
   </tr> 
   <tr> 
    <td>核准</td> 
@@ -541,7 +541,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="8">登陸頁面範本</td> 
    <td>建立</td> 
-   <td><p>空白<br>或<br>從「資產名稱」複製</p></td> 
+   <td><p>空白<br>或<br>複製自「資產名稱」</p></td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -557,7 +557,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>已複製至「資料夾名稱」 <br>複製的資產名稱「名稱」</td> 
+   <td>已複製至「資料夾名稱」<br>已複製資產名稱「名稱」</td> 
   </tr> 
   <tr> 
    <td>匯出</td> 
@@ -582,7 +582,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製至「人員資料庫」至資料夾「foldername」 <br>複製的資產名稱「名稱」<br>或<br>複製至「行銷活動」至方案「方案名稱」<br>複製的資產名稱「名稱」</td> 
+   <td>複製至「人員資料庫」至資料夾「foldername」<br>複製資產名稱「name」<br>或<br>複製至「行銷活動」至方案「方案名稱」<br>複製資產名稱「name」</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -611,7 +611,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>移動</td> 
-   <td>已移至「計畫」到「計畫名稱」<br>或<br>已移至「資料夾」至資料夾「資料夾名稱」</td> 
+   <td>已移至「程式」到程式「程式名稱」<br>或<br>已移至「資料夾」到資料夾「資料夾名稱」</td> 
   </tr> 
   <tr> 
    <td>重新命名</td> 
@@ -627,7 +627,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製至「計畫」至計畫「計畫名稱」 <br>複製的資產名稱「名稱」<br>或<br>已複製至「資料夾」並放入資料夾「資料夾名稱」<br>複製的資產名稱「名稱」</td> 
+   <td>複製至「程式」至程式「程式名稱」<br>複製資產名稱「名稱」<br>或<br>複製至「資料夾」至資料夾「資料夾名稱」<br>複製資產名稱「名稱」</td> 
   </tr> 
   <tr> 
    <td>修改smartlist設定</td> 
@@ -664,7 +664,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>複製至「人員資料庫」至資料夾「foldername」 <br>複製的資產名稱「名稱」<br>或<br>複製至「行銷活動」至方案「方案名稱」 <br>複製的資產名稱「名稱」</td> 
+   <td>複製至「人員資料庫」至資料夾「foldername」<br>複製資產名稱「name」<br>或<br>複製至「行銷活動」至方案「方案名稱」<br>複製資產名稱「name」</td> 
   </tr> 
   <tr> 
    <td>修改smartlist設定</td> 
@@ -673,7 +673,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="11">程式碼片段</td> 
    <td>建立</td> 
-   <td><p>空白<br>或<br>從「程式碼片段名稱」複製</p></td> 
+   <td><p>空白<br>或<br>複製自「程式碼片段名稱」</p></td> 
   </tr> 
   <tr> 
    <td>編輯</td> 
@@ -701,7 +701,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>原地複製</td> 
-   <td>已複製至「資料夾名稱」 <br>複製的程式碼片段名稱「name」</td> 
+   <td>已複製至「資料夾名稱」<br>已復製程式碼片段名稱「名稱」</td> 
   </tr> 
   <tr> 
    <td>核准</td> 
@@ -754,7 +754,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="3">角色<br><br></td> 
    <td>建立</td> 
-   <td>以「角色名稱」建立的角色（注意：如果您需要有關已新增許可權的詳細資料，請聯絡支援人員） - <br>顯示指派給角色的許可權快照</td> 
+   <td>以「角色名稱」建立的角色（注意：如果您需要有關新增許可權的詳細資料，請連絡支援人員） — <br>顯示指派給角色的許可權快照</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -762,7 +762,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>編輯</td> 
-   <td>角色已從「先前名稱」編輯為「新名稱」（注意：如果您需要有關已編輯許可權的詳細資料，請聯絡支援人員） - <br>顯示指派給角色的許可權快照<br></td> 
+   <td>角色已從「先前名稱」編輯為「新名稱」（注意：如果您需要有關已編輯許可權的詳細資料，請聯絡支援人員） — <br>顯示指派給角色的許可權快照<br></td> 
   </tr> 
   <tr> 
    <td>智慧清單報告</td> 
@@ -772,7 +772,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="7">使用者<br><br><br><br></td> 
    <td>建立（邀請）</td> 
-   <td>邀請使用者：電子郵件「電子郵件地址」、姓名「名字和姓氏」、存取過期「空白或包含日期」、API使用者「true或false」 —  <br>顯示指派給使用者的角色和工作區的快照</td> 
+   <td>邀請使用者：電子郵件「電子郵件地址」、姓名「名字和姓氏」、存取過期「空白或帶日期」、API使用者「true或false」 — <br>顯示指派給使用者的角色和工作區快照</td> 
   </tr> 
   <tr> 
    <td colspan="1">刪除</td> 
@@ -801,7 +801,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="2">工作區</td> 
    <td>建立</td> 
-   <td>以名稱「工作區名稱」建立的工作區</td> 
+   <td>以名稱「工作區名稱」建立的Workspace</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -812,4 +812,4 @@ ht-degree: 10%
 
 >[!MORELIKETHIS]
 >
->[在稽核軌跡中篩選](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
+>[正在篩選稽核軌跡](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)

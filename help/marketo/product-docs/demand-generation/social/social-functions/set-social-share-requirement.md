@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 設定社交分享需求 {#set-social-share-requirement}
 
-當您 [建立轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)，您可以要求人員共用選件以註冊，或將其設為選用。
+當您[建立轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)時，您可以要求人員共用優惠方案以註冊，或將其設為選擇性。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/ma-1.png)
 
-1. 選取反向連結選件，然後按一下 **編輯草稿**.
+1. 選取轉介優惠方案，然後按一下&#x200B;**編輯草稿**。
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. 在轉介選件編輯器中，前往 **應用程式設定** 然後 **註冊流程步驟**.
+1. 在轉介選件編輯器中，移至&#x200B;**應用程式設定**，然後&#x200B;**註冊流程步驟**。
 
    ![](assets/three.png)
 
@@ -31,9 +31,9 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-   * **個人擷取** > **共用**：使用者可以略過共用並直接註冊。
+   * **個人擷取** > **共用**：個人可以略過共用並直接註冊。
    * **共用** > **個人擷取**：個人必須共用才能註冊。
 
-1. 對於每個選項，請參閱 **檢視和編輯** 視窗。
+1. 對於每個選項，請在&#x200B;**檢視和編輯**&#x200B;視窗中檢視預覽。
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)

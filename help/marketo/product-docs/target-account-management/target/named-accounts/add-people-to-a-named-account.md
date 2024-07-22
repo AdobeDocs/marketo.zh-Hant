@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 單一流量動作 {#single-flow-action}
 
-1. 按一下 **資料庫**.
+1. 按一下&#x200B;**資料庫**。
 
    ![](assets/one-2.png)
 
@@ -25,17 +25,17 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 按一下人員以選取它。 按一下 **個人動作** 下拉式清單，按一下 **行銷** 並選取 **新增至具名帳戶**.
+1. 按一下人員以選取它。 按一下&#x200B;**人員動作**&#x200B;下拉式清單，按一下&#x200B;**行銷**，然後選取&#x200B;**新增至具名帳戶**。
 
    ![](assets/three.png)
 
-1. 按一下 **具名帳戶** 從下拉式清單中，選取所需的具名帳戶，然後按一下 **立即執行**.
+1. 按一下&#x200B;**具名帳戶**&#x200B;下拉式清單，選取想要的具名帳戶，然後按一下&#x200B;**立即執行**。
 
    ![](assets/four.png)
 
 ## 智慧型行銷活動流量步驟 {#smart-campaign-flow-step}
 
-1. 選取您的Smart Campaign並按一下 **流量**.
+1. 選取您的Smart Campaign，然後按一下&#x200B;**流量**。
 
    ![](assets/five.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 按一下 **具名帳戶** 下拉式清單，然後選取所需的具名帳戶。
+1. 按一下&#x200B;**具名帳戶**&#x200B;下拉式清單，然後選取所需的具名帳戶。
 
    ![](assets/eight.png)
 
@@ -55,22 +55,22 @@ ht-degree: 0%
 
 ## 清單匯入 {#list-import}
 
-1. 選取您的清單，按一下 **清單動作** 下拉式清單並選取 **匯入清單**.
+1. 選取您的清單，按一下&#x200B;**清單動作**&#x200B;下拉式清單，然後選取&#x200B;**匯入清單**。
 
    ![](assets/nine.png)
 
-1. 選擇檔案和設定後，按一下 **下一個**.
+1. 選擇檔案與設定後，按一下[下一步] ****。
 
    ![](assets/ten.png)
 
-1. 對應所需的欄位。 確定 **具名帳戶** 欄位已對應。
+1. 對應所需的欄位。 確定&#x200B;**具名帳戶**&#x200B;欄位已對應。
 
    ![](assets/eleven.png)
 
-1. 選擇所需的設定，然後按一下 **匯入**.
+1. 選擇您想要的設定，然後按一下[匯入]。****
 
    ![](assets/twelve.png)
 
 >[!MORELIKETHIS]
 >
->[銷售線索與帳戶的比對](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+>[銷售機會帳戶相符](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)

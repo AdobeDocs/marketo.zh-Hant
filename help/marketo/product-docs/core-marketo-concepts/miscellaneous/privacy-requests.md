@@ -4,8 +4,8 @@ title: 隱私權請求
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 2%
+source-wordcount: '336'
+ht-degree: 0%
 
 ---
 
@@ -19,16 +19,16 @@ ht-degree: 2%
 >
 >* Marketo Engage已上線到AdobeIdentity Management系統的使用者
 >
->**-或-**
+>**或 —**
 >
 >* Marketo Engage使用AdobeIdentity Management系統上已存在的其他Experience Cloud產品的使用者(例如RT-CDP、B2B和B2P版本、Audience Manager)。
 
 您可以透過兩種方式提交存取和刪除Marketo Engage中消費者資料的個別請求：
 
-* 透過 [PRIVACY SERVICEUI](https://privacyui.cloud.adobe.io/). 請參閱檔案 [此處](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=zh-Hant){target="_blank"}.
-* 透過Privacy Service API。 請參閱檔案 [此處](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
+* 透過[Privacy ServiceUI](https://privacyui.cloud.adobe.io/)。 請參閱檔案[這裡](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=zh-Hant){target="_blank"}。
+* 透過Privacy Service API。 請參閱檔案[這裡](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"}和API資訊[這裡](https://developer.adobe.com/experience-platform-apis/){target="_blank"}。
 
-此 [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} 支援兩種請求：資料存取和資料刪除。
+[Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"}支援兩種型別的請求：資料存取和資料刪除。
 
 讓我們看看如何建立存取和刪除請求。
 
@@ -41,7 +41,7 @@ ht-degree: 2%
    a. IMS組織ID<br/>
 b.您要對其採取動作之人員的電子郵件地址
 
-   IMS組織ID是24個字元的英數字串，通常會加上@AdobeOrg。 如果您的行銷團隊或內部Adobe系統管理員不知道您組織的IMS組織ID，請聯絡Adobe客戶服務： `gdprsupport@adobe.com`. 您需先取得IMS組織ID，才能向隱私權API提交請求。
+   IMS組織ID是24個字元的英數字串，通常會加上@AdobeOrg。 如果您的行銷團隊或內部Adobe系統管理員不知道您組織的IMS組織ID，請透過`gdprsupport@adobe.com`聯絡Adobe客戶服務。 您需先取得IMS組織ID，才能向隱私權API提交請求。
 
 1. 在Privacy Service中，您可以提交存取和刪除請求以Marketo Engage，並檢查現有請求的狀態。
 
@@ -54,10 +54,10 @@ b.您要對其採取動作之人員的電子郵件地址
 
 &quot;users&quot;：
 
-* &quot;action&quot;：其中之一 **存取** 或 **刪除**
+* &quot;action&quot;： **存取**&#x200B;或&#x200B;**刪除**
 * &quot;userIDs&quot;：
    * &quot;namespace&quot;： **電子郵件**
-   * &quot;type&quot;： **標準**
+   * &quot;type&quot;： **standard**
    * &quot;value&quot;： `<Data Subject's Email Address>`
 
 &quot;include&quot;：
@@ -66,7 +66,7 @@ b.您要對其採取動作之人員的電子郵件地址
 
 &quot;regulation&quot;：
 
-* **gdpr**， **ccpa**， **pdpa**， **lgpd_bra**，或 **nzpa_nzl**  （適用於此請求的隱私權法規）
+* **gdpr**、**ccpa**、**pdpa**、**lgpd_bra**&#x200B;或&#x200B;**nzpa_nzl** （適用於此要求的隱私權法規）
 
 ## 範例一：GDPR刪除請求 {#gdpr-delete-request}
 

@@ -2,10 +2,10 @@
 description: 代理程式設定 — Marketo檔案 — 產品檔案
 title: 專員設定
 feature: Dynamic Chat
-exl-id: 792a87bb-3ff9-46fb-ac68-146d5ffa9dc5
-source-git-commit: 9834f6be3e2a89595d91d1fe51c11b8bb59b714d
+exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '498'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->請確定您的代理已被授與適當的 [許可權](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}.
+>請確定您的代理程式已被授與適當的[許可權](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}。
 
 ![](assets/agent-settings-1.png)
 
@@ -78,7 +78,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->您可以在同一天選取多個時間區塊(例如，從8a到12p的星期五 _和_ 1p-5p)，按一下 **+** 在右側登入。
+>您可以按一下右側的&#x200B;**+**&#x200B;符號，選取同一天的多重時間區塊（例如，8a-12p _和_ 1p-5p的星期五）。
 
 ## 即時聊天可用性 {#live-chat-availability}
 
@@ -86,12 +86,12 @@ ht-degree: 2%
 
 ![](assets/agent-settings-5.png)
 
-如果您已登入應用程式，您將會收到傳入聊天的應用程式內通知。 如果您未登入，將會收到瀏覽器通知(如果您已 [進行設定](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"})。
+如果您已登入應用程式，您將會收到傳入聊天的應用程式內通知。 如果您未登入，將會收到瀏覽器通知（如果您已[設定](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}）。
 
 >[!IMPORTANT]
 >
->此 [可用性切換](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} 在代理程式收件匣中 **將覆寫** 您在「即時聊天可用性」標籤中輸入的內容。 因此，如果您排程從1p到5p，但需要在3p快速休息，您就不需要變更代理程式設定。 可用性切換狀態將一直保留，直到您手動變更它，或直到到達您的可用性中的下一個時間區塊為止。
+>代理程式收件匣&#x200B;**中的[可用性切換](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"}將會覆寫您在[即時聊天可用性]索引標籤中輸入的內容**。 因此，如果您排程從1p到5p，但需要在3p快速休息，您就不需要變更代理程式設定。 可用性切換狀態將一直保留，直到您手動變更它，或直到到達您的可用性中的下一個時間區塊為止。
 
 >[!TIP]
 >
->您可以在同一天選取多個時間區塊(例如，從8a到12p的星期五 _和_ 1p-5p)，按一下 **+** 在右側登入。
+>您可以按一下右側的&#x200B;**+**&#x200B;符號，選取同一天的多重時間區塊（例如，8a-12p _和_ 1p-5p的星期五）。

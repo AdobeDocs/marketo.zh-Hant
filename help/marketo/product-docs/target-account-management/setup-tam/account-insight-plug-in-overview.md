@@ -6,24 +6,24 @@ exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
 source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # Account Insight外掛程式概述 {#account-insight-plug-in-overview}
 
-Account Insight是一種Chrome外掛程式，可向您的銷售團隊呈現可操作的TAM和帳戶分析，讓他們更有效地與帳戶互動。
+「帳戶分析」是Chrome的外掛程式，可向您的銷售團隊呈現可操作的TAM和帳戶分析，讓他們更有效地與帳戶互動。
 
 >[!AVAILABILITY]
 >
 >* 所有同時擁有TAM和Marketo Sales Insight的客戶皆可納入Account Insight。 對於只有TAM的客戶，帳戶分析可作為購買的附加元件使用。 每個客戶最多只能擁有250個Account Insight席位。 如需詳細資訊，請聯絡您的銷售代表。 沒有TAM的客戶無法使用。
 >
->* 此外掛程式與不相容 [Adobe身分驗證](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} 此時。
+>* 此外掛程式目前與[Adobe身分驗證](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}不相容。
 
 >[!CAUTION]
 >
->帳戶分析外掛程式無法用於具有下列條件的訂閱： [僅限SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) （單一登入）已啟用。
+>Account Insight外掛程式無法在已啟用[僅限SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) （單一登入）的訂閱中運作。
 
 >[!CAUTION]
 >
@@ -73,7 +73,7 @@ Account Insight是一種Chrome外掛程式，可向您的銷售團隊呈現可�
 
 ![](assets/af1.png)
 
-按一下 **篩選** 下拉式選單，依不同活動型別篩選。
+按一下&#x200B;**篩選器**&#x200B;下拉式清單，依不同的活動型別進行篩選。
 
 ![](assets/af2.png)
 

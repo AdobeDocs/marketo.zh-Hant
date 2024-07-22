@@ -17,27 +17,27 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必須 [取代一般追蹤連結](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) 在加入其他品牌領域之前，使用品牌領域。
+>在新增其他品牌網域之前，您必須[以品牌網域取代一般追蹤連結](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)。
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/add-an-additional-branding-domain-1.png)
 
-1. 按一下 **[!UICONTROL 電子郵件]**.
+1. 按一下&#x200B;**[!UICONTROL 電子郵件]**。
 
    ![](assets/add-an-additional-branding-domain-2.png)
 
-1. 按一下 **[!UICONTROL 新增]** 以新增其他品牌化網域。
+1. 按一下&#x200B;**[!UICONTROL [新增]**]以新增其他品牌化網域。
 
    ![](assets/add-an-additional-branding-domain-3.png)
 
-1. 輸入新品牌網域的名稱，然後按一下 **[!UICONTROL 儲存]**.
+1. 輸入新品牌網域的名稱，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/add-an-additional-branding-domain-4.png)
 
 >[!NOTE]
 >
->您可以選擇將此設為主要網域，並將所有現有未傳送電子郵件設為「預設」，所有新建立的電子郵件將預設為主要網域。 您將能夠 [以每封電子郵件為基礎覆寫此專案](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
+>您可以選擇將此設為主要網域，並將所有現有未傳送電子郵件設為「預設」，所有新建立的電子郵件將預設為主要網域。 您將能夠[以每封電子郵件為基礎](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md)覆寫此專案。
 
 >[!MORELIKETHIS]
 >

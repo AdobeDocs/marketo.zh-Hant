@@ -6,7 +6,7 @@ feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 33%
+ht-degree: 34%
 
 ---
 
@@ -179,10 +179,10 @@ ht-degree: 33%
     </tr>
     <tr>
       <td>帳戶網站</td>
-      <td>網站</td>
+      <td>地點</td>
     </tr>
     <tr>
-      <td>帳戶型別</td>
+      <td>帳戶類型</td>
       <td>SFDC 類型</td>
     </tr>
     <tr>

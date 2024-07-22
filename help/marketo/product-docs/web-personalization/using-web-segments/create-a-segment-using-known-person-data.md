@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >[管理個人資料](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
-1. 前往 **區段**.
+1. 移至&#x200B;**區段**。
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. 按一下 **新建**.
+1. 按一下&#x200B;**新建**。
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. 在設定檔分段中，拖曳 **資料庫** 移至畫布。
+1. 在設定檔分段中，將&#x200B;**資料庫**&#x200B;拖曳到畫布上。
 
    ![](assets/four-1.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 選取多個人員資料欄位 {#selecting-multiple-person-data-fields}
 
-1. 按一下 **+** 以新增另一個人員資料欄位。
+1. 按一下&#x200B;**+**&#x200B;以新增其他人員資料欄位。
 
    ![](assets/eight.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 按一下 **儲存** 若要儲存區段或 **儲存並定義行銷活動** 以儲存並前往「行銷活動」頁面。
+1. 按一下「**儲存**」以儲存區段，或按一下「**儲存並定義行銷活動**」以儲存並移至「行銷活動」頁面。
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 

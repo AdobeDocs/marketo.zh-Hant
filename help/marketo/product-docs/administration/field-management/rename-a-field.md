@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/rename-a-field-1.png)
 
-1. 按一下 **[!UICONTROL 欄位管理]**.
+1. 按一下&#x200B;**[!UICONTROL 欄位管理]**。
 
    ![](assets/rename-a-field-2.png)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >按一下 **[!UICONTROL 使用者]** 連結以尋找參考此欄位的資產。
+   >按一下&#x200B;**[!UICONTROL 使用者]**&#x200B;連結以尋找參考此欄位的資產。
 
-1. 重新命名欄位並按一下 **[!UICONTROL 儲存]**.
+1. 重新命名欄位，然後按一下[儲存]。****
 
    ![](assets/rename-a-field-4.png)
 

@@ -15,23 +15,23 @@ ht-degree: 0%
 
 若要檢視個人報表中機會的統計資料，您可以新增機會欄。
 
-1. 前往 **行銷活動** 區域。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
    ![](assets/ma.png)
 
-1. 從導覽樹狀結構中選取報表，然後按一下 **設定** 標籤。
+1. 從導覽樹狀結構選取您的報告，然後按一下「**設定**」標籤。
 
    ![](assets/two.png)
 
-1. 按兩下 **機會欄**.
+1. 連按兩下&#x200B;**機會資料行**。
 
    ![](assets/three.png)
 
-1. 選取 **顯示** （從下拉式功能表）。
+1. 從下拉式功能表中選取&#x200B;**顯示的**。
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. 按一下 **報告** 標籤中，以檢視含有商機量度的報表。
+1. 按一下「**報表**」標籤，檢視含有商機量度的報表。
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >向右捲動以檢視更多欄。
 
-1. 至 [在報表中新增或移除欄](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)，按一下任一欄標題並選取 **欄**.
+1. 若要[新增或移除報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)中的欄，請按一下任何欄標題並選取&#x200B;**欄**。
 
    ![](assets/six.png)
 
@@ -51,8 +51,8 @@ ht-degree: 0%
 
    | 欄 | 說明 |
    |---|---|
-   | 沒有機會 | 符合以下條件的人數： *非* 主要機會聯絡人。 |
-   | 沒有商機的天數 | 符合下列條件的人的平均年齡（以天為單位）： *非* 主要連絡人。 |
+   | 沒有機會 | *不是*&#x200B;主要機會連絡人的人數。 |
+   | 沒有商機的天數 | *不是*&#x200B;主要連絡人的平均年齡（以天為單位）。 |
    | 有機會 | 主要機會聯絡人的人數。 |
    | 擁有商機% | 為主要機會聯絡人的人員百分比。 |
    | 機會結束天數 | 從個人轉換為主要機會聯絡人的平均天數。 |
@@ -68,4 +68,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >瞭解如何 [管理報表的大小](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
+   >瞭解如何[管理您報告的大小](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)。

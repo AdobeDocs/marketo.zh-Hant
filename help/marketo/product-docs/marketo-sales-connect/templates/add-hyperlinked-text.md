@@ -6,7 +6,7 @@ exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 1. 輸入您希望連結的URL (即「https://www.mywebsite.com」)。
 
-1. 按一下 **確定**.
+1. 按一下&#x200B;**確定**。

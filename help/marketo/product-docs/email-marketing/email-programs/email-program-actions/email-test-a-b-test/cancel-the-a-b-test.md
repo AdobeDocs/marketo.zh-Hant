@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 取消A/B測試 {#cancel-the-a-b-test}
 
-如果您已  [新增A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) 到您的電子郵件程式，並已決定您不再需要它，它很容易復原。 方法如下。
+如果您已[將A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)新增至您的電子郵件程式，並已決定不再需要，則很容易復原它。 方法如下。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,12 +23,12 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. 在 **電子郵件** 圖磚，按一下 **移除A/B測試**.
+1. 在&#x200B;**電子郵件**&#x200B;磚底下，按一下&#x200B;**移除A/B測試**。
 
    ![](assets/image2015-5-6-14-3a27-3a58.png)
 
    >[!NOTE]
    >
-   >您必須先取消核准您的電子郵件程式，才能移除A/B測試。 另請參閱 [核准/取消核准電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) 以取得詳細資訊。
+   >您必須先取消核准您的電子郵件程式，才能移除A/B測試。 如需詳細資訊，請參閱[核准/取消核准電子郵件方案](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)。
 
 輕鬆自在！

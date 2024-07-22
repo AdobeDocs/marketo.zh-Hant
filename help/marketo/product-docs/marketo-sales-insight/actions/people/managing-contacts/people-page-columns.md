@@ -8,7 +8,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 8%
+ht-degree: 7%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 8%
 
    ![](assets/people-page-columns-1.png)
 
-1. 捲動並選取所需的欄(您也可以按一下 **全選** （如果您想要每一欄）。 完成時，按一下從清單中退出。
+1. 捲動並選取您想要的欄（如果您想要每個欄，也可以按一下&#x200B;**全選**）。 完成時，按一下從清單中退出。
 
    ![](assets/people-page-columns-2.png)
 
@@ -43,7 +43,7 @@ ht-degree: 8%
    <td>名字</td> 
   </tr> 
   <tr> 
-   <td>姓氏 （預設）</td> 
+   <td>姓氏（預設）</td> 
    <td>姓氏</td> 
   </tr> 
   <tr> 
@@ -67,7 +67,7 @@ ht-degree: 8%
    <td>個人目前所在的促銷活動</td> 
   </tr> 
   <tr> 
-   <td># 行銷活動</td> 
+   <td>#行銷活動</td> 
    <td>個人參與的銷售行銷活動總數</td> 
   </tr> 
   <tr> 
@@ -103,7 +103,7 @@ ht-degree: 8%
    <td>此人的檢視總數</td> 
   </tr> 
   <tr> 
-   <td># 點擊次數</td> 
+   <td>#點按次數</td> 
    <td>此人的總點選次數</td> 
   </tr> 
   <tr> 
@@ -120,7 +120,7 @@ ht-degree: 8%
   </tr> 
   <tr> 
    <td>來源</td> 
-   <td>人員建立來源的來源</td> 
+   <td>人員建立來源的Source</td> 
   </tr> 
   <tr> 
    <td>群組（預設）</td> 

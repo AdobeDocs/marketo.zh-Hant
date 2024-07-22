@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 自訂視訊共用流量 {#customize-video-share-flow}
 
-當您 [建立視訊共用](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)，您可以自訂共用提示出現的時間和位置。
+當您[建立視訊共用](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)時，您可以自訂共用提示出現的時間和位置。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 選取應用程式，然後按一下 **編輯草稿**.
+1. 選取應用程式，然後按一下&#x200B;**編輯草稿**。
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
-1. 在視訊共用編輯器中，前往 **應用程式設定** > **進階選項**.
+1. 在視訊共用編輯器中，移至&#x200B;**應用程式設定** > **進階選項**。
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
@@ -33,4 +33,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->下一步是 [設定視訊共用後會發生什麼事](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+>下一個步驟是[設定視訊共用](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)之後會發生什麼事情。

@@ -17,19 +17,19 @@ ht-degree: 0%
 
 ## 建立複製行銷活動 {#create-a-clone-campaign}
 
-1. 前往 **網站行銷活動**.
+1. 前往&#x200B;**網路行銷活動**。
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 
    >[!NOTE]
    >
-   >為了更方便找到您想要的網頁行銷活動，請使用 [篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >若要更輕鬆地尋找您想要的網頁行銷活動，請使用[篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
-1. 針對網路促銷活動，按一下 **原地複製**.
+1. 針對網頁行銷活動，按一下&#x200B;**複製**。
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. 行銷活動復製程式會將現有網頁行銷活動的所有內容複製到新的複製行銷活動中。 新的複製網站行銷活動的標題為「[行銷活動名稱] 複製」。
+1. 行銷活動復製程式會將現有網頁行銷活動的所有內容複製到新的複製行銷活動中。 新的複製網站行銷活動的名稱是&quot;[行銷活動名稱]副本&quot;。
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 

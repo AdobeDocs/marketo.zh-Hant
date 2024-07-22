@@ -6,7 +6,7 @@ exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Webhook已增強，可在URL/承載中逸出權杖，也可剖析來自協力廠
 
 ## 已更新SOAP API端點 {#updated-soap-api-endpoint}
 
-更新偏好的SOAP API端點，顯示在「管理員 — > SOAP API」中。 請更新您的呼叫以使用此新端點。 對舊端點的API呼叫已過時，但將繼續運作。 （Spark SMB Edition中不提供SOAP API）
+偏好的SOAP API端點已更新，顯示在「管理員 — > SOAP API」中。 請更新您的呼叫以使用此新端點。 對舊端點的API呼叫已過時，但將繼續運作。 (SOAP API無法在Spark SMB Edition中使用)
 
 ## facebook標籤的行動支援 {#mobile-support-for-facebook-tabs}
 
@@ -33,4 +33,4 @@ Webhook已增強，可在URL/承載中逸出權杖，也可剖析來自協力廠
 
 ## 即將推出：支援多種模型 {#coming-soon-support-for-multiple-models}
 
-我們正在做基礎工作，以支援多個收入週期模型，並在未來版本中#1社群中投票贊成以RCA的構想。 在此版本中，您會注意到一些變更，包括 [智慧清單篩選器和在流程步驟中新增選擇](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) 以支援選取模型和階段。 我們也會將「銷售機會收入階段」和「銷售機會收入週期模型」欄位移出「智慧清單銷售機會網格」標籤。
+我們正在做基礎工作，以支援多個收入週期模型，並在未來版本中#1社群中投票贊成以RCA的構想。 在此版本中，您會注意到某些變更，包括[智慧清單篩選器，以及在流程步驟](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)中新增選擇，以支援選取模型和階段。 我們也會將「銷售機會收入階段」和「銷售機會收入週期模型」欄位移出「智慧清單銷售機會網格」標籤。

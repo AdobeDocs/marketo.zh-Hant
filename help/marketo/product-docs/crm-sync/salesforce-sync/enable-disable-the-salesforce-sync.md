@@ -15,11 +15,11 @@ ht-degree: 0%
 
 對同步處理或欄位設定進行重大變更時，您應該在設定時停用同步處理。 方法如下：
 
-1. 前往 **[!UICONTROL 管理員]** 區段。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區段。
 
    ![](assets/image2014-12-10-13-3a24-3a35.png)
 
-1. 在 **[!UICONTROL Salesforce]**，按一下 **[!UICONTROL 停用同步]**.
+1. 在&#x200B;**[!UICONTROL Salesforce]**&#x200B;底下，按一下&#x200B;**[!UICONTROL 停用同步]**。
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 

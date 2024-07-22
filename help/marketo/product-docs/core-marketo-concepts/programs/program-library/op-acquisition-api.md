@@ -2,11 +2,11 @@
 description: OP-Acquisition-API - Marketo檔案 — 產品檔案
 title: OP-Acquisition-API
 feature: Programs
-exl-id: 1d6ec686-af0b-46a9-b428-1520b671ca24
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## 程式包含下列資產 {#program-contains-the-following-assets}
+## 程式包含下列Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -64,20 +64,20 @@ ht-degree: 1%
 
 ## 衝突規則 {#conflict-rules}
 
-* **計畫標籤**
-   * 在此訂閱中建立標籤 —  _建議_
+* **程式標籤**
+   * 在此訂閱中建立標籤 — _建議_
    * 忽略
 
-* **具相同名稱的登陸頁面範本**
-   * 複製原始範本 —  _建議_
+* **名稱相同的登入頁面範本**
+   * 複製原始範本 — _建議_
    * 使用目的地範本
 
-* **具有相同名稱的影像**
-   * 保留兩個檔案 —  _建議_
+* **相同名稱的影像**
+   * 保留兩個檔案 — _建議_
    * 取代此訂閱中的專案
 
 * **相同名稱的電子郵件範本**
-   * 保留兩個範本 —  _建議_
+   * 保留兩個範本 — _建議_
    * 取代現有範本
 
 ## 最佳實務 {#best-practices}

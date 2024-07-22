@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以調整關鍵字檢視，以顯示您最感興趣的資料。
 
-1. 前往 **[!UICONTROL 關鍵字]** 區段。
+1. 移至&#x200B;**[!UICONTROL 關鍵字]**&#x200B;區段。
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. 選取或取消選取您要檢視的欄。 按一下 **[!UICONTROL 儲存]**.
+1. 選取或取消選取您要檢視的欄。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 

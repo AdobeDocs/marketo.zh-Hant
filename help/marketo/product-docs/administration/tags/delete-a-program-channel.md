@@ -17,15 +17,15 @@ ht-degree: 0%
 
 如果您不小心製作了一個或不再需要它，您可以將其刪除。
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/delete-a-program-channel-1.png)
 
-1. 按一下 **[!UICONTROL 標籤]**.
+1. 按一下&#x200B;**[!UICONTROL 標籤]**。
 
    ![](assets/delete-a-program-channel-2.png)
 
-1. 選取您要刪除的管道。 在 **[!UICONTROL 標籤動作]** 下拉式清單，按一下 **[!UICONTROL 刪除]**.
+1. 選取您要刪除的管道。 在&#x200B;**[!UICONTROL 標籤動作]**&#x200B;下拉式清單中，按一下&#x200B;**[!UICONTROL 刪除]**。
 
    >[!TIP]
    >
@@ -33,4 +33,4 @@ ht-degree: 0%
 
    ![](assets/delete-a-program-channel-3.png)
 
-您也可以 [從管道刪除特定狀態](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).
+您也可以[刪除頻道](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md)中的特定狀態。

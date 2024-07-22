@@ -12,17 +12,17 @@ ht-degree: 0%
 
 # 大量匯出API資訊 {#bulk-export-api-information}
 
-瞭解如何檢查多少 [大量擷取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} 過去七天，您的Marketo Engage執行個體已佔用容量。
+瞭解如何檢查您的Marketo Engage執行個體過去七天佔用了多少[大量擷取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}容量。
 
 >[!NOTE]
 >
 >如果您需要額外的容量，請聯絡您的客戶代表。
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/bulk-export-api-information-1.png)
 
-1. 按一下 **[!UICONTROL 網站服務]**.
+1. 按一下&#x200B;**[!UICONTROL 網站服務]**。
 
    ![](assets/bulk-export-api-information-2.png)
 

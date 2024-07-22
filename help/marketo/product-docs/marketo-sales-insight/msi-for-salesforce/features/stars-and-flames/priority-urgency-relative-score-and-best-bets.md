@@ -6,7 +6,7 @@ exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Marketo Sales Insight會根據優先順序挑選您的最佳銷售機會和聯�
 
 >[!NOTE]
 >
->如果最佳押注與您擁有的最佳銷售線索和聯絡人不符，請洽詢貴公司有權存取Marketo的人員以更新您的 [評分規則](/help/marketo/getting-started/quick-wins/simple-scoring.md).
+>如果您的最佳押注不符合您擁有的最佳銷售機會和連絡人，請洽詢貴公司可存取Marketo的人員以更新您的[評分規則](/help/marketo/getting-started/quick-wins/simple-scoring.md)。
 
 ### 如何計算急迫性和相對分數
 

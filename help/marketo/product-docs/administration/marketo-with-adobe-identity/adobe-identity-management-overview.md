@@ -16,16 +16,16 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo支援無法提供任何有關Adobe IMS移轉的更新。 Adobe客戶團隊將在未來幾個月提出預估時間表。 如需詳細資訊，請參閱 [本文](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}，以及 [常見問題](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+>Marketo支援無法提供任何有關Adobe IMS移轉的更新。 Adobe客戶團隊將在未來幾個月提出預估時間表。 如需詳細資訊，請參閱[本文](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}及[常見問題](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}。
 
 對於上架到Adobe身分的訂閱，Adobe Admin Console會用於使用者管理。 身分相關概念（例如單一登入）也會在Admin Console中管理。
 
-* 尋找更多關於 [Adobe Admin Console](https://helpx.adobe.com/tw/enterprise/using/admin-console.html){target="_blank"}.
-* 尋找更多關於以下內容的資訊： [設定與您的Marketo訂閱相關的Adobe組織](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+* 尋找有關[Adobe Admin Console](https://helpx.adobe.com/tw/enterprise/using/admin-console.html){target="_blank"}的詳細資訊。
+* 尋找與Marketo訂閱](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}相關的[設定Adobe組織的詳細資訊。
 
 >[!NOTE]
 >
->如果您想要實作單一登入，而且您的訂閱已上線到Adobe身分識別，而未在Adobe組織中實作SSO，請提交票證至 [Marketo支援](https://nation.marketo.com/){target="_blank"} 並將主題指定為「Admin Console上的Marketo，實作SSO」。
+>如果您想要實作單一登入，且您的訂閱已上線到Adobe身分識別，而沒有Adobe組織中實作的SSO，請提交票證至[Marketo支援](https://nation.marketo.com/){target="_blank"}，並將主題指定為「Admin Console上的Marketo，實作SSO」。
 
 ## 設定檔層級 {#profile-levels}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
  </tr>
  <tr>
   <td><strong>Marketo Engage管理員</strong></td>
-  <td>獲授具有管理許可權之Marketo Engage存取許可權的人員。 已授與Marketo Engage的角色，而非Adobe Admin Console （在中只顯示為「管理員」） <b>編輯使用者</b> 強制回應視窗)。</td>
+  <td>獲授具有管理許可權之Marketo Engage存取許可權的人員。 已在Marketo Engage中授與角色，而非Adobe Admin Console （在<b>編輯使用者</b>強制回應視窗中顯示為「管理員」）。</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage使用者</strong></td>
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## 常見問題集 {#faq}
 
-常見問題 [可在此處找到](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+常見問題集[可在此找到](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}。
 
 >[!MORELIKETHIS]
 >

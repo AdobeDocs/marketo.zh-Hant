@@ -15,18 +15,18 @@ ht-degree: 0%
 
 正在尋找使用特定區段的網頁行銷活動嗎？
 
-1. 前往 **區段**.
+1. 移至&#x200B;**區段**。
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. 搜尋 **區段**. 選取 **區段名稱**. 在右側面板中，按一下 **關聯的行銷活動** 以檢視與此特定區段相關聯的促銷活動。
+1. 搜尋&#x200B;**區段** 選取&#x200B;**區段名稱**。 在右側面板中，按一下&#x200B;**關聯的行銷活動**&#x200B;以檢視與此特定區段關聯的行銷活動。
 
    ![](assets/image2014-11-26-14-21-59.png)
 
-1. 檢視 **行銷活動** 與所選區段相關聯。
+1. 檢視與所選區段相關聯的&#x200B;**行銷活動**。
 
    ![](assets/image2014-11-26-14-3a25-3a30.png)
 
 >[!MORELIKETHIS]
 >
->進一步瞭解 [區段](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) 以及如何 [建立基本區段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md).
+>深入瞭解[區段](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)以及如何[建立基本區段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)。

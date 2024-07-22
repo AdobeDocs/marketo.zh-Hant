@@ -29,16 +29,16 @@ Marketo管理員在Sales Insight中有某些許可權。 瞭解以下內容。
 
 ## 個人分數設定 {#person-score-settings}
 
-* **星級**：星星代表和其他潛在客戶相較之下的總潛在客戶分數。
-* **火焰**：火焰代表急迫性 — 潛在客戶分數最近已變更多少。
+* **顆星**：顆星代表與其他潛在客戶相較之下的潛在客戶總分數。
+* **火焰**：火焰代表急迫性 — 潛在客戶的分數最近已變更多少。
 
 依預設，Marketo Sales Insight會使用「潛在客戶分數」欄位來計算星星和火焰。 但如果您想挑選不同的欄位，選擇方法如下：
 
-1. 在 **管理員** Marketo區域，按一下 **銷售分析**.
+1. 在Marketo的&#x200B;**管理員**&#x200B;區域中，按一下&#x200B;**銷售分析**。
 
    ![](assets/four.png)
 
-1. 在潛在客戶評分設定下，按一下 **編輯**.
+1. 在[潛在客戶評分設定]下，按一下[編輯]。****
 
    ![](assets/five.png)
 
@@ -50,13 +50,13 @@ Marketo管理員在Sales Insight中有某些許可權。 瞭解以下內容。
 
    ![](assets/seven.png)
 
-1. 按一下 **儲存**. 銷售分析需要一些時間重新計算。 您可以稍後檢視您的CRM，以檢視星星和火焰。
+1. 按一下&#x200B;**儲存**。 銷售分析需要一些時間重新計算。 您可以稍後檢視您的CRM，以檢視星星和火焰。
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >如果您還沒有自訂分數欄位，以下說明該怎麼做 [建立它們](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >如果您還沒有自訂分數欄位，以下說明如何[建立它們](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)。
 
    >[!MORELIKETHIS]
    >
@@ -83,9 +83,9 @@ Marketo管理員在Sales Insight中有某些許可權。 瞭解以下內容。
 
 啟用後，MSI使用者可以在RSS摘要中檢視他們的銷售機會摘要（除了Salesforce中的銷售機會摘要之外）。 RSS摘要只有在「權杖有效期」功能停用時才能運作。
 
-**權杖有效期：**
+**權杖到期日：**
 
-權杖有效期限可在「功能管理員」中控制。 若要將其啟用/停用，請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support). 啟用後，所有Marketo Token都會在10分鐘內過期。 停用後，Marketo代號將不會過期。
+權杖有效期限可在「功能管理員」中控制。 若要啟用/停用此功能，請連絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)。 啟用後，所有Marketo Token都會在10分鐘內過期。 停用後，Marketo代號將不會過期。
 
 在啟用權杖到期之前產生的Token沒有可驗證的到期時間，因此即使目前啟用該功能，也不會到期。
 

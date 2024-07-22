@@ -15,7 +15,7 @@ ht-degree: 2%
 
 此分析區域可讓您分析個別計畫的成效，或按管道檢視摘要結果。 它可讓您深入瞭解產生的新名稱中，有多少已達到您的收入週期模型內的特定成功路徑階段。
 
-**您可以使用此分析區域回答的業務問題範例包括**：
+**您可以使用此分析區域回答的業務問題範例，包括**：
 
 在模型中，已有多少特定程式的新名稱達到特定階段？
 
@@ -74,7 +74,7 @@ Dimension和測量會依功能分類，並以系統中的黃色或藍色點表�
  </tbody> 
 </table>
 
-**計畫屬性**
+**程式屬性**
 
 <table> 
  <tbody> 
@@ -153,4 +153,4 @@ Dimension和測量會依功能分類，並以系統中的黃色或藍色點表�
 
 >[!MORELIKETHIS]
 >
->[建立收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[建立Revenue Explorer報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

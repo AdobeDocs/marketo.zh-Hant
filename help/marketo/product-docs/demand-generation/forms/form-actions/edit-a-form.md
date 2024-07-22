@@ -15,11 +15,11 @@ ht-degree: 0%
 
 如果您想要變更現有表單，以下說明如何開始流程。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選擇您的表單並按一下 **編輯表單**.
+1. 選取您的表單並按一下&#x200B;**編輯表單**。
 
    ![](assets/editform.png)
 

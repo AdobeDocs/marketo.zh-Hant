@@ -6,26 +6,26 @@ exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '200'
 ht-degree: 7%
 
 ---
 
 # 管理個人資料 {#manage-person-data}
 
-選取要用於細分的個人欄位，以運用個人資料進行網頁個人化。
+選取要用於細分的個人欄位，善用網頁Personalization的人員資料。
 
-1. 前往 **帳戶設定**.
+1. 移至&#x200B;**帳戶設定**。
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. 前往 **資料庫**.
+1. 移至&#x200B;**資料庫**。
 
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## 新增人員欄位 {#adding-a-new-person-field}
 
-1. 選取 **新增欄位** 從下拉式清單，將人員資料欄位新增至清單。
+1. 從下拉式清單中選取&#x200B;**欄位以新增**，以將人員資料欄位新增至清單。
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -35,7 +35,7 @@ ht-degree: 7%
 
 ## 刪除人員欄位 {#deleting-a-person-field}
 
-1. 按一下刪除圖示( ![—](assets/image2015-3-24-13-3a45-3a56.png))以從清單中移除欄位。 按一下 **是** 以確認您想要刪除欄位。
+1. 按一下刪除圖示( ![—](assets/image2015-3-24-13-3a45-3a56.png))以從清單中移除欄位。 按一下&#x200B;**是**&#x200B;以確認您要刪除欄位。
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -99,7 +99,7 @@ ht-degree: 7%
  </tbody> 
 </table>
 
-新的Web Personalization帳戶可立即使用下列銷售機會欄位：
+新的網頁Personalization帳戶可立即使用下列銷售機會欄位：
 
 >[!MORELIKETHIS]
 >

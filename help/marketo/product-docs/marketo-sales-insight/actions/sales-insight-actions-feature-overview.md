@@ -5,7 +5,7 @@ exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '1392'
+source-wordcount: '1388'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions是網頁型應用程式，可透過 [Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 有時稱為「Marketo銷售」，或簡稱為「動作」。
+>Marketo Sales Insight Actions是網頁式應用程式，透過[Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}與Salesforce使用者介面整合。 有時稱為「Marketo銷售」，或簡稱為「動作」。
 
 >[!AVAILABILITY]
 >
->此功能目前正在為所有Sales Insight使用者推出。 如果您想在推出中排定優先順序，請傳送電子郵件至 `sales-insights(at)adobe(dot)com`.
+>此功能目前正在為所有Sales Insight使用者推出。 如果您想要在轉出中被優先排序，請傳送電子郵件至`sales-insights(at)adobe(dot)com`。
 
-如需銷售分析動作的影片概觀， [按一下這裡](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
+如需Sales Insight動作的影片概觀，[請按一下這裡](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}。
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 * 傳送銷售電子郵件
    * 銷售電子郵件具有檢視、點選和回覆追蹤（當設定傳遞管道時）
-   * 包括電子郵件個人化、自訂簽名及附件
+   * 包括電子郵件Personalization、自訂簽名和附件
    * 範本共用與報告
    * 團隊共用、群組電子郵件和副本/密件副本功能
    * 銷售電子郵件活動將記錄在Marketo個人記錄中
@@ -84,7 +84,7 @@ ht-degree: 0%
 
 * 傳送銷售電子郵件 — 能夠傳送個人化或範本化的群組電子郵件，其中包含針對與帳戶/商機相關聯之所有連絡人的檢視、點按及回覆追蹤
    * 銷售電子郵件具有檢視、點選和回覆追蹤（當設定傳遞管道時）
-   * 包括電子郵件個人化、自訂簽名及附件
+   * 包括電子郵件Personalization、自訂簽名和附件
    * 範本共用與報告
    * 團隊共用、群組電子郵件和副本/密件副本功能
    * 銷售電子郵件活動將記錄在Marketo個人記錄中
@@ -122,7 +122,7 @@ ht-degree: 0%
 
 ## Marketo全域標籤 {#marketo-global-tab}
 
-**最佳化索引標籤**
+**首選索引標籤**
 
 ![](assets/sales-insight-actions-feature-overview-3.png)
 

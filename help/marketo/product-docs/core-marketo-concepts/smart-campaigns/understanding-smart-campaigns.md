@@ -15,11 +15,11 @@ ht-degree: 2%
 
 如果Marketo Engage是汽車，Smart Campaign就是其引擎。 Smart Campaigns的功用超出您的想象，而且使用起來也相當容易。
 
-Smart Campaign有3個主要區域： [智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}， [流量](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} 和 [排程](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} 索引標籤。
+智慧行銷活動有3個主要區域： [智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}、[流量](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}和[排程](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}標籤。
 
 ## 智慧清單 {#smart-list}
 
-智慧清單是您定義的方式 _誰_ 您想要以Smart Campaign進行目標定位。 它有篩選器和觸發器。
+智慧清單是您定義&#x200B;_要以智慧行銷活動鎖定目標的_&#x200B;人的方式。 它有篩選器和觸發器。
 
 <table> 
  <tbody> 
@@ -55,7 +55,7 @@ Smart Campaign可執行許多作業。 掌握其中的奧秘，您就會發現Ma
 
 >[!CAUTION]
 >
->如果您將智慧型行銷活動從一個方案移動到另一個方案，且行銷活動的智慧型清單或流程步驟參考原始方案，則必須手動更新資訊以反映其新方案，如此一來 **非** 自動更新。
+>如果您將智慧型行銷活動從一個方案移動到另一個方案，且行銷活動的智慧型清單或流程步驟參考原始方案，您必須手動更新資訊以反映其新方案，因為它&#x200B;**不會**&#x200B;自動更新。
 
 >[!MORELIKETHIS]
 >

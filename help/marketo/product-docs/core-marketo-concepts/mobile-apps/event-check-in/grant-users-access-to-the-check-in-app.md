@@ -6,7 +6,7 @@ exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -17,23 +17,23 @@ Marketo Engage在事件簽入應用程式中具有特殊使用者角色。 以�
 
 >[!IMPORTANT]
 >
->2023年10月2日，Adobe從所有應用程式商店移除Marketo事件應用程式。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入了解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>2023年10月2日，Adobe從所有應用程式商店移除Marketo事件應用程式。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入瞭解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 ## 為行動裝置建立新的使用者角色 {#create-a-new-user-role-for-mobile}
 
-1. 按一下 **[!UICONTROL 管理員]**.
+1. 按一下&#x200B;**[!UICONTROL 管理員]**。
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
-1. 按一下 **[!UICONTROL 使用者和角色]**.
+1. 按一下&#x200B;**[!UICONTROL 使用者與角色]**。
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. 按一下 **[!UICONTROL 角色]** 標籤，然後按一下 **[!UICONTROL 新角色]**.
+1. 按一下&#x200B;**[!UICONTROL 角色]**&#x200B;標籤，然後按一下&#x200B;**[!UICONTROL 新增角色]**。
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. 輸入新角色的名稱和可選的說明。 檢查 **[!UICONTROL 存取行動應用程式]** 方塊並按一下 **[!UICONTROL 建立]**.
+1. 輸入新角色的名稱和可選的說明。 勾選&#x200B;**[!UICONTROL 存取行動應用程式]**&#x200B;方塊並按一下&#x200B;**[!UICONTROL 建立]**。
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -41,15 +41,15 @@ Marketo Engage在事件簽入應用程式中具有特殊使用者角色。 以�
 
 ## 邀請新使用者加入簽到應用程式 {#invite-new-users-for-the-check-in-app}
 
-1. 按一下 **[!UICONTROL 使用者]** 標籤。
+1. 按一下「**[!UICONTROL 使用者]**」標籤。
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. 按一下 **[!UICONTROL 邀請新使用者]**.
+1. 按一下&#x200B;**[!UICONTROL 邀請新使用者]**。
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. 輸入新使用者的資訊。 勾選所有適當角色的核取方塊，然後選取具有存取行動應用程式許可權的新角色。 按一下 **[!UICONTROL 邀請]** 完成時。
+1. 輸入新使用者的資訊。 勾選所有適當角色的核取方塊，然後選取具有存取行動應用程式許可權的新角色。 完成時，按一下&#x200B;**[!UICONTROL 邀請]**。
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 

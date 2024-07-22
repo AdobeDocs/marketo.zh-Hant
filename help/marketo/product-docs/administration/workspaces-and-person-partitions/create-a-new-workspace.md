@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360311
-description: 建立新工作區 — Marketo檔案 — 產品檔案
-title: 建立新工作區
+description: 建立新的Workspace - Marketo檔案 — 產品檔案
+title: 建立新的Workspace
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
-# 建立新工作區 {#create-a-new-workspace}
+# 建立新的Workspace {#create-a-new-workspace}
 
 工作區可用來將您的公司細分。 設定工作區的理由包括：
 
@@ -26,33 +26,33 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->首先瞭解 [瞭解工作區和人員分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>透過[瞭解Workspace和Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}先瞭解。
 
 >[!TIP]
 >
->若要進一步瞭解工作區最佳實務，請聯絡 [Marketo專業服務](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
+>若要進一步瞭解Workspace最佳實務，請連絡[Marketo專業服務](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}。
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/create-a-new-workspace-1.png)
 
-1. 按一下 **[!UICONTROL 工作區與分割區]**.
+1. 按一下&#x200B;**[!UICONTROL 工作區與分割區]**。
 
    ![](assets/create-a-new-workspace-2.png)
 
-1. 按一下 **[!UICONTROL 新工作區]**.
+1. 按一下&#x200B;**[!UICONTROL 新增Workspace]**。
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. 輸入 **[!UICONTROL 名稱]**，然後選取 **[!UICONTROL 人員分割]** 您想要使用。 選擇 **[!UICONTROL 主要人員分割]**. 確定 [建立人員分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} 如果您尚未這樣做。
+1. 輸入&#x200B;**[!UICONTROL 名稱]**，然後選取您要使用的&#x200B;**[!UICONTROL 人員分割]**。 選擇&#x200B;**[!UICONTROL 主要人員資料分割]**。 若尚未建立，請務必[建立人員分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}。
 
    ![](assets/create-a-new-workspace-4.png)
 
    >[!NOTE]
    >
-   >* 此 **[!UICONTROL 所有人員分割]** 核取方塊表示此工作區可以使用系統中的所有人員分割區。
+   >* **[!UICONTROL 所有人員分割]**&#x200B;核取方塊表示此工作區可以使用系統中的所有人員分割。
    >
-   >* 此 **[!UICONTROL 主要人員分割]** 會作為預設值，並為指派所有人員的位置。
+   >* **[!UICONTROL 主要人員資料分割]**&#x200B;會作為預設值，並將指派所有人員。
 
    >[!IMPORTANT]
    >
@@ -66,7 +66,7 @@ ht-degree: 0%
    >
    >建立後，Marketo將在工作區中植入範例資產。 語言允許這些內建物件使用非英文語言。
 
-1. 按一下 **[!UICONTROL 建立]**。
+1. 按一下&#x200B;**[!UICONTROL 建立]**。
 
    ![](assets/create-a-new-workspace-6.png)
 

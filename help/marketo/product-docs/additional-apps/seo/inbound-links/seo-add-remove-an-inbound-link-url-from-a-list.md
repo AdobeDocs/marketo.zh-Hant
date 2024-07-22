@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 將傳入連結URL新增至清單 {#add-an-inbound-link-url-to-a-list}
 
-1. 前往 **[!UICONTROL 傳入連結]** 區段。
+1. 移至&#x200B;**[!UICONTROL 傳入連結]**&#x200B;區段。
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. 暫留在您要分類的傳入連結URL上。 按一下 **[!UICONTROL 新增/從清單移除]**.
+1. 暫留在您要分類的傳入連結URL上。 按一下&#x200B;**[!UICONTROL 新增/移除清單]**。
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -31,21 +31,21 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您也可以建立新的關鍵字清單，以供您執行。 只要在中輸入您想要的名稱 [!UICONTROL 建立新清單].
+>您也可以建立新的關鍵字清單，以供您執行。 只要在[!UICONTROL 建立新清單]中輸入您想要的名稱。
 
 ## 從清單中移除傳入連結URL {#remove-an-inbound-link-url-from-a-list}
 
 有時您會想要從清單中移除傳入連結URL。
 
-1. 按一下 **[!UICONTROL 傳入連結]**.
+1. 按一下&#x200B;**[!UICONTROL 傳入連結]**。
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. 按一下 **[!UICONTROL 依清單篩選]** 下拉式清單。 按一下您要清除的清單。
+1. 按一下&#x200B;**[!UICONTROL 依清單篩選]**&#x200B;下拉式清單。 按一下您要清除的清單。
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. 將游標停留在您要移除的傳入連結URL上。 按一下 **[!UICONTROL 新增/從清單移除]**.
+1. 將游標停留在您要移除的傳入連結URL上。 按一下&#x200B;**[!UICONTROL 新增/移除清單]**。
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 

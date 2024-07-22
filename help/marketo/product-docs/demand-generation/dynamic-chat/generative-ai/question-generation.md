@@ -16,27 +16,27 @@ ht-degree: 0%
 
 ## 產生問題 {#generate-questions}
 
-1. 在Generative AI下，按一下 **[!UICONTROL 協助回應]**.
+1. 在Generative AI底下，按一下&#x200B;**[!UICONTROL 輔助回應]**。
 
    ![](assets/question-generation-1.png)
 
-1. 按一下 **[!UICONTROL 產生問題]**.
+1. 按一下&#x200B;**[!UICONTROL 產生問題]**。
 
    ![](assets/question-generation-2.png)
 
-1. 為工作命名，並輸入來源URL （最多10個），以擷取所有內容。 輸入想要的主題/關鍵字，然後在鍵盤上按Enter鍵。 完成後，按一下 **[!UICONTROL 產生]**.
+1. 為工作命名，並輸入來源URL （最多10個），以擷取所有內容。 輸入想要的主題/關鍵字，然後在鍵盤上按Enter鍵。 完成時，按一下&#x200B;**[!UICONTROL 產生]**。
 
    ![](assets/question-generation-3.png)
 
    >[!IMPORTANT]
    >
-   >為了確保Marketo Engage可以從提供的URL中刮取內容，您必須先允許列出多個IP位址。 [如需詳細資訊，請參閱下文](#ip-addresses-to-allowlist).
+   >為了確保Marketo Engage可以從提供的URL中刮取內容，您必須先允許列出多個IP位址。 [請參閱以下詳細資料](#ip-addresses-to-allowlist)。
 
    >[!NOTE]
    >
    >網站/頁面必須是公開的（亦即不隱藏在登入後面），才能刮取其資訊。
 
-1. 根據您的內容，產生問題和回應最多可能需要30分鐘。 按一下 **[!UICONTROL 確定]**.
+1. 根據您的內容，產生問題和回應最多可能需要30分鐘。 按一下&#x200B;**[!UICONTROL 確定]**。
 
    ![](assets/question-generation-4.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->產生的問題和回應也可在以下網址檢視： [回應程式庫](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+>產生的問題和回應也可在[回應資料庫](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)中檢視。
 
 1. 找到所需工作，然後按一下其名稱旁的下載圖示。
 
@@ -60,15 +60,15 @@ ht-degree: 0%
 
    ![](assets/question-generation-7.png)
 
-1. 在Excel檔案中， **[!DNL Task details]** 如此一來，畫面就會顯示工作的各種詳細資訊，包括如何新增/編輯問題和/或回應的指示。
+1. 在Excel檔案中，**[!DNL Task details]**&#x200B;會顯示有關工作的各種詳細資料，包括如何新增/編輯問題和/或回應的指示。
 
    ![](assets/question-generation-8.png)
 
    >[!NOTE]
    >
-   >如果您確實決定大量新增/編輯問題和/或回應， [在此處瞭解如何重新上傳它們](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+   >如果您確實決定大量新增/編輯問題和/或回應，[請在此瞭解如何重新上傳它們](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)。
 
-1. 此 **[!DNL Q&Rs]** 索引標籤提供其他詳細資訊，包括產生的問題和回應。
+1. **[!DNL Q&Rs]**&#x200B;標籤提供其他詳細資料，包括產生的問題和回應。
 
    ![](assets/question-generation-9.png)
 

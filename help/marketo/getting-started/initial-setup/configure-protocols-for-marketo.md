@@ -6,7 +6,7 @@ exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
 source-git-commit: 0330fd1b7bcc6d5fc21e5e591b65e8d6d5d3efee
 workflow-type: tm+mt
-source-wordcount: '2136'
+source-wordcount: '2149'
 ht-degree: 0%
 
 ---
@@ -29,18 +29,18 @@ ht-degree: 0%
 
 您的行銷團隊應傳送兩則新CNAME記錄的要求給您。 第一個是用於登入頁面URL，讓登入頁面以可反映您網域而非Marketo Engage（實際主機）的URL顯示。 第二個用於追蹤從Marketo Engage傳送之電子郵件中所包含的連結。
 
-`1` **為登陸頁面新增CNAME**
+`1` **為登入頁面新增CNAME**
 
-將他們傳送給您的登陸頁面CNAME新增至您的DNS記錄，以便 `[YourLandingPageCNAME]` 指向指派給您Marketo Engage登陸頁面的唯一帳戶字串。 登入您的網域註冊機構的網站，然後輸入登陸頁面CNAME和帳戶字串。 這通常涉及三個欄位：
+將他們傳送給您的登陸頁面CNAME新增至您的DNS記錄，因此`[YourLandingPageCNAME]`會指向指派給您Marketo Engage登陸頁面的唯一帳戶字串。 登入您的網域註冊機構的網站，然後輸入登陸頁面CNAME和帳戶字串。 這通常涉及三個欄位：
 
-* 別名：輸入 `[YourLandingPageCNAME]` （行銷提供）
+* 別名：輸入`[YourLandingPageCNAME]` （由行銷提供）
 * 型別： CNAME
-* 指向：輸入 `[MunchkinID].mktoweb.com` （行銷提供）
+* 指向：輸入`[MunchkinID].mktoweb.com` （由行銷提供）
 
-`2` **為電子郵件追蹤連結新增CNAME**
+`2` **新增電子郵件追蹤連結的CNAME**
 
-新增行銷傳送給您的電子郵件CNAME，以便 `[YourEmailCNAME]` 指向 [MktoTrackingLink]，Marketo Engage指派的預設追蹤連結，格式為：\
-`[YourEmailCNAME].[YourDomain].com` 在CNAME中 `[MktoTrackingLink]`
+新增傳送給您的電子郵件CNAME行銷，讓`[YourEmailCNAME]`指向[MktoTrackingLink] (Marketo Engage指派的預設追蹤連結)，格式為：\
+CNAME `[MktoTrackingLink]`中的`[YourEmailCNAME].[YourDomain].com`
 
 例如：
 
@@ -48,13 +48,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->`[MktoTrackingLink]` 必須是預設品牌定義域。
+>`[MktoTrackingLink]`必須是預設品牌化網域。
 
 `3` **通知您的行銷團隊**
 
 當您完成此程式時，請通知您的行銷團隊。
 
-`4` **連絡人 [Adobe支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 開始布建SSL憑證的程式。**
+`4` **連絡[Adobe支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以開始布建SSL憑證的程式。**
 
 此程式最多可能需要3個工作日才能完成。
 
@@ -82,11 +82,11 @@ ht-degree: 0%
 
 199.15.212.0/22
 
-有些反垃圾郵件系統使用電子郵件傳迴路徑欄位而不是允許的IP位址。 在這些情況下，最好的辦法是加入允許清單&#39;&#42;.mktomail.com&#39;，因為Marketo Engage使用數個信箱子網域。 其他反垃圾郵件系統根據寄件者地址加入允許清單。 在這些情況下，請務必加入您的行銷群組用來與人員/潛在客戶通訊的所有傳送（「寄件者」）網域。
+有些反垃圾郵件系統使用電子郵件傳迴路徑欄位而不是允許的IP位址。 在這些情況下，最好的方法是將&#39;&#42;.mktomail.com&#39;加入允許清單，因為Marketo Engage使用數個信箱子網域。 其他反垃圾郵件系統根據寄件者地址加入允許清單。 在這些情況下，請務必加入您的行銷群組用來與人員/潛在客戶通訊的所有傳送（「寄件者」）網域。
 
 >[!NOTE]
 >
->Postini採用獨特的技術，並需要將IP範圍列入允許清單。 另請參閱 [使用Postini加入允許清單](https://nation.marketo.com/docs/DOC-1066).
+>Postini採用獨特的技術，並需要將IP範圍列入允許清單。 請參閱[使用Postini](https://nation.marketo.com/docs/DOC-1066)加入允許清單。
 
 ## 步驟3：設定SPF和DKIM {#step-set-up-spf-and-dkim}
 
@@ -94,21 +94,21 @@ ht-degree: 0%
 
 1. 若要設定SPF，請在我們的DNS專案中新增下列行：
 
-   `[CompanyDomain]` 在TXT中v=spf1 mx ip4：`[CorpIP]`\
+   `[CompanyDomain]` IN TXT v=spf1 mx ip4：`[CorpIP]`\
    包含： mktomail.com ~all
 
    如果我們的DNS專案中已有現有的SPF記錄，只需新增下列內容即可：\
    包含： mktomail.com
 
-   將CompanyDomain取代為您網站的主網域(例如： 」`(company.com/)`&quot;)和CorpIP，以及您企業電子郵件伺服器的IP位址(例如 「255.255.255.255」)。 如果您要透過Marketo Engage從多個網域傳送電子郵件，您應該讓IT人員為每個網域新增此行（一行）。
+   將CompanyDomain取代為您網站的主網域（例如： &quot;`(company.com/)`&quot;），將CorpIP取代為您公司電子郵件伺服器的IP位址(例如： 「255.255.255.255」)。 如果您要透過Marketo Engage從多個網域傳送電子郵件，您應該讓IT人員為每個網域新增此行（一行）。
 
 1. 針對DKIM，請為每個要設定的網域建立DNS資源記錄。 我們將簽署的每個網域的主機記錄和TXT值如下：
 
-   `[DKIMDomain1]`：主機記錄為 `[HostRecord1]` 且TXT值為 `[TXTValue1]`.
+   `[DKIMDomain1]`：主機記錄為`[HostRecord1]`，且TXT值為`[TXTValue1]`。
 
-   `[DKIMDomain2]`：主機記錄為 `[HostRecord2]` 且TXT值為 `[TXTValue2]`.
+   `[DKIMDomain2]`：主機記錄為`[HostRecord2]`，且TXT值為`[TXTValue2]`。
 
-   在遵循下列步驟之後，針對您設定的每個DKIMDomain複製HostRecord和TXTValue [此處提供指示](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. IT人員完成此步驟後，別忘了在「管理員>電子郵件> DKIM」中驗證每個網域。
+   遵照此處的[指示](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}複製您設定的每個DKIMDomain的HostRecord和TXTValue。 IT人員完成此步驟後，別忘了在「管理員>電子郵件> DKIM」中驗證每個網域。
 
 ## 步驟4：設定DMARC {#set-up-dmarc}
 
@@ -157,9 +157,9 @@ DMARC提供接收有關未通過SPF/DKIM之電子郵件的報表的功能。 在
 
 ### 範例DMARC記錄 {#example-dmarc-records}
 
-* 裸機最小記錄： `v=DMARC1; p=none`
+* 裸露最小記錄： `v=DMARC1; p=none`
 
-* 記錄指向接收報告的電子郵件地址： `v=DMARC1; p=none;  rua=mailto:emaill@domain.com;     ruf=mailto:email@domain.com`
+* 記錄導向至電子郵件地址以接收報告： `v=DMARC1; p=none;  rua=mailto:emaill@domain.com;     ruf=mailto:email@domain.com`
 
 ### DMARC標籤及其功用 {#dmarc-tags-and-what-they-do}
 
@@ -195,9 +195,9 @@ DMARC記錄有多個稱為DMARC標籤的元件。 每個標籤都有一個值，
     <td>可選</td>
     <td>允許網域擁有者指定報告選項。</td>
     <td>0：如果一切失敗，則產生報表 
-    <br>1：發生任何失敗時產生報表 
+    <br>1：如果發生任何失敗，則產生報告 
     <br>d：如果DKIM失敗則產生報告 
-    <br>s：如果SPF失敗，則產生報表</td>
+    <br>s：如果SPF失敗，則產生報告</td>
     <td>1 （建議用於DMARC報表）</td>
   </tr>
   <tr>
@@ -245,7 +245,7 @@ DMARC記錄有多個稱為DMARC標籤的元件。 每個標籤都有一個值，
 </tbody>
 </table>
 
-如需DMARC及其所有選項的完整詳細資訊，請造訪 [https://dmarc.org/](https://dmarc.org/){target="_blank"}.
+如需DMARC及其所有選項的完整詳細資訊，請造訪[https://dmarc.org/](https://dmarc.org/){target="_blank"}。
 
 ### DMARC與Marketo Engage {#dmarc-and-marketo-engage}
 
@@ -257,7 +257,7 @@ DMARC有兩種對齊方式：DKIM對齊方式和SPF對齊方式。
 
 * DKIM-aligned DMARC — 若要設定DKIM-aligned DMARC，您必須：
 
-   * 為訊息的FROM：網域設定DKIM。 使用指示 [本文章](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * 為訊息的FROM：網域設定DKIM。 使用本文章](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}中的指示[。
    * 為先前設定的FROM：/DKIM網域設定DMARC
 
 * DMARC-aligned SPF — 若要透過品牌傳迴路徑設定DMARC-aligned SPF，您必須：
@@ -268,9 +268,9 @@ DMARC有兩種對齊方式：DKIM對齊方式和SPF對齊方式。
 
    * 為品牌傳迴路徑網域設定DMARC
 
-* 如果您是透過專用IP從Marketo Engage傳送郵件，但尚未實作品牌傳迴路徑，或不確定您是否有，請開啟票證並附上 [Adobe支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* 如果您是透過專用IP從Marketo Engage傳送郵件，而且尚未實作品牌傳迴路徑，或不確定您是否有，請開啟具有[Adobe支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}的票證。
 
-* 如果您透過IP共用集區從Marketo Engage傳送郵件，您可以透過檢視您是否符合信任的IP資格 [在此套用](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. 品牌傳迴路徑免費提供給從Marketo Engage受信任的IP傳送的訪客。 如果核准此計畫，請聯絡Adobe支援以設定品牌傳迴路徑。
+* 如果您是透過共用IP集區從Marketo Engage傳送郵件，您可以透過[在此套用](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}，檢視您是否符合信任的IP資格。 品牌傳迴路徑免費提供給從Marketo Engage受信任的IP傳送的訪客。 如果核准此計畫，請聯絡Adobe支援以設定品牌傳迴路徑。
 
    * 信任的IP：為每月傳送不到75K且不符合專用IP資格之較低磁碟區使用者的共用IP集區。 這些使用者也必須符合最佳實務需求。
 
@@ -288,13 +288,13 @@ MX記錄可讓您接收寄送電子郵件至之網域的郵件，以處理回覆
 
 **Webhooks**
 
-Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} 流程動作是在智慧行銷活動中執行，會向外部Web服務發出HTTP請求。 如果Web服務發佈者使用外部Web服務所在網路的防火牆上的允許清單，則發佈者必須將下列的IP位址區塊新增至其允許清單。
+Marketo Engage[Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}是輸出整合機制。 當執行[呼叫Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"}流量動作做為智慧行銷活動的一部分時，會向外部Web服務發出HTTP要求。 如果Web服務發佈者使用外部Web服務所在網路的防火牆上的允許清單，則發佈者必須將下列的IP位址區塊新增至其允許清單。
 
-**CRM同步**
+**CRM同步處理**
 
-Marketo Engage [Salesforce CRM同步](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} 是整合機制，可向您的CRM供應商發佈的API發出傳出HTTP請求。 您必須確保您的IT組織不會封鎖下列任何IP位址區塊，使其無法存取您的CRM供應商API。
+Marketo Engage[Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"}與[Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}是整合機制，可向您的CRM廠商所發佈的API發出傳出HTTP請求。 您必須確保您的IT組織不會封鎖下列任何IP位址區塊，使其無法存取您的CRM供應商API。
 
-**Marketo Engage傳出IP位址區塊**
+**Marketo Engage的輸出IP位址區塊**
 
 下表涵蓋進行傳出呼叫的所有Marketo Engage伺服器。 如果您要將任何IP允許清單、伺服器、防火牆、存取控制清單、安全性群組或協力廠商服務設定為接收來自Marketo Engage的傳出連線，請使用下列清單。
 

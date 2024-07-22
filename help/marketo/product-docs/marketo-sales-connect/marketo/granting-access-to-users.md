@@ -14,13 +14,13 @@ ht-degree: 0%
 
 請依照本文的步驟，授予Sales Connect使用者存取Marketo連線的許可權。 這將可解鎖「即時摘要」中「有趣時刻」等功能以及行銷活動的存取權。
 
-您必須邀請使用者加入Sales Connect [此處](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)，然後才會顯示在Marketo >團隊存取頁面（在Sales Connect中），此頁面會授予Marketo連線的存取權。
+您必須先邀請使用者前往[這裡](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)的Sales Connect，才能顯示在Marketo > Team Access頁面（在Sales Connect中），此頁面授與使用者存取Marketo連線的許可權。
 
 >[!CAUTION]
 >
 >將Sales Connect連線至Marketo後，請等待10分鐘再執行這些步驟。
 
-1. 選取一或多個使用者，然後按一下 **連線**.
+1. 選取一或多個使用者，然後按一下[連線]。****
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. 按一下「工作區」下拉式清單、選取所需的工作區，然後按一下 **連線**.
+1. 按一下Workspace下拉式清單，選取您想要的工作區，然後按一下&#x200B;**連線**。
 
    ![](assets/granting-access-to-users-3.png)
 

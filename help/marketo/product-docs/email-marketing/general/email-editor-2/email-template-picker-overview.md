@@ -13,31 +13,31 @@ ht-degree: 0%
 
 # 電子郵件範本選取器概觀 {#email-template-picker-overview}
 
-當您 [建立電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)，您有數個可用的範本可供選擇。 您也可以建立自己的範本，並儲存以供日後使用。
+當您[建立電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)時，您有數個可用的範本可供選擇。 您也可以建立自己的範本，並儲存以供日後使用。
 
 ![](assets/email-template-picker-overview-1.png)
 
-**名稱** 將是您根據範本建立的電子郵件名稱，而非範本本身。 **說明** 也會套用至電子郵件，且為選用。
+**名稱**&#x200B;將是您根據範本建立的電子郵件名稱，而非範本本身。 **描述**&#x200B;也適用於電子郵件，而且是選擇性的。
 
 ![](assets/two-2.png)
 
-如果您的電子郵件很關鍵，而且您想要它避開通訊限制， [使其可運作](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) 核取方塊。 **在編輯器中開啟** 預設為選取，這僅代表您想要立即開始編輯新電子郵件。 **建立** 意思是，建立！
+如果您的電子郵件很關鍵，而且您想要它避開通訊限制，請核取方塊[讓它運作](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)。 預設會選取&#x200B;**在編輯器中開啟**，這僅代表您想要立即開始編輯新電子郵件。 **建立**&#x200B;表示，建立！
 
 ![](assets/three-2.png)
 
-**入門範本** 包括立即可用的回應式電子郵件範本集合。 您可以照原樣使用，或根據您的喜好自訂這些功能。
+**入門範本**&#x200B;包含可立即使用的回應式電子郵件範本集合。 您可以照原樣使用，或根據您的喜好自訂這些功能。
 
 ![](assets/email-template-picker-overview-4.png)
 
-**我的範本** 包含您已建立的所有範本。 您也可能有資料夾。
+**我的範本**&#x200B;包含您已建立的所有範本。 您也可能有資料夾。
 
 ![](assets/five-2.png)
 
-顯示在Design Studio樹狀結構中「電子郵件>範本」下的所有資料夾都可在 **我的範本**.
+在Design Studio樹狀結構中，顯示在[電子郵件] > [範本]下的所有資料夾都可在&#x200B;**[我的範本]**&#x200B;中使用。
 
 ![](assets/six-1.png)
 
-若要預覽範本，請將滑鼠停留在其縮圖上，然後按一下 **預覽**. 您也可以按兩下它。
+若要預覽範本，請將滑鼠移到其縮圖上，然後按一下[預覽]。**** 您也可以按兩下它。
 
 ![](assets/seven-1.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ![](assets/nine-1.png)
 
-如果您喜歡此範本，請按一下以選擇它 **選取** 在右下角。 想繼續找嗎？ 按一下 **X** 在右上角。 使用左右箭頭來捲動範本。
+如果您喜歡此範本，請按一下右下角的&#x200B;**選取**&#x200B;來選擇它。 想繼續找嗎？ 按一下右上角的&#x200B;**X**。 使用左右箭頭來捲動範本。
 
 ![](assets/ten-1.png)
 

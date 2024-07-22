@@ -7,7 +7,7 @@ feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 ## 啟用角色的稽核軌跡 {#enable-audit-trail-for-a-role}
 
-1. 按一下 **[!UICONTROL 管理員]**.
+1. 按一下&#x200B;**[!UICONTROL 管理員]**。
 
    ![](assets/enable-audit-trail-1.png)
 
-1. 選取 **[!UICONTROL 使用者和角色]** 並按一下 **[!UICONTROL 角色]**.
+1. 選取&#x200B;**[!UICONTROL 使用者與角色]**&#x200B;並按一下&#x200B;**[!UICONTROL 角色]**。
 
    ![](assets/enable-audit-trail-2.png)
 
-1. 選取要啟用稽核軌跡的角色，然後按一下 **[!UICONTROL 編輯角色]**.
+1. 選取您要啟用稽核軌跡的角色，然後按一下&#x200B;**[!UICONTROL 編輯角色]**。
 
    ![](assets/enable-audit-trail-3.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
    >
    >您也可以在這裡選擇建立新角色，並授予其稽核軌跡存取權。
 
-1. 展開 **[!UICONTROL 存取管理員]** 許可權。 選取 **[!UICONTROL 存取稽核軌跡]** 和/或 **[!UICONTROL 存取登入記錄]**，視您的需求而定。 按一下 **[!UICONTROL 儲存]**.
+1. 展開&#x200B;**[!UICONTROL 存取管理員]**&#x200B;許可權。 依您的需求，選取&#x200B;**[!UICONTROL 存取稽核軌跡]**&#x200B;和/或&#x200B;**[!UICONTROL 存取登入歷程記錄]**。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/enable-audit-trail-4.png)
 
@@ -45,21 +45,21 @@ ht-degree: 0%
    >
    >**定義**
    >
-   >**[!UICONTROL 存取稽核軌跡]**：提供使用者對兩者的存取權 [!UICONTROL 資產稽核軌跡] 和 [!UICONTROL 管理員稽核軌跡].
+   >**[!UICONTROL 存取稽核軌跡]**：可讓使用者存取[!UICONTROL 資產稽核軌跡]和[!UICONTROL 管理員稽核軌跡]。
    >
-   >**[!UICONTROL 存取登入記錄]**：提供使用者以下專案的存取權： [使用者登入記錄](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
+   >**[!UICONTROL 存取登入歷程記錄]**：授與使用者[使用者登入歷程記錄](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)的存取權。
 
 ## 指派稽核軌跡角色給使用者 {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[建立](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) 或 [啟用](#enable-audit-trail) 授予現有角色稽核軌跡許可權。
+>[建立](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role)或[啟用](#enable-audit-trail)現有的角色，賦予其稽核軌跡許可權。
 
-1. 在 **[!UICONTROL 使用者和角色]**，按一下 **[!UICONTROL 使用者]**.
+1. 在&#x200B;**[!UICONTROL 使用者與角色]**&#x200B;中，按一下&#x200B;**[!UICONTROL 使用者]**。
 
    ![](assets/enable-audit-trail-5.png)
 
-1. 選取您要授與稽核軌跡存取權的使用者，然後按一下 **[!UICONTROL 編輯使用者]**.
+1. 選取您要授與稽核軌跡存取權的使用者，然後按一下&#x200B;**[!UICONTROL 編輯使用者]**。
 
    ![](assets/enable-audit-trail-6.png)
 
@@ -73,8 +73,8 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果您已啟用工作區，請務必勾選角色的核取方塊，以選取所有工作區。 取消選取個別工作區將會隱藏稽核軌跡。 這表示您會看到每個工作區的稽核軌跡資料。 您確實可以選擇在下列情況下隱藏工作區 [篩選](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
+   >如果您已啟用工作區，請務必勾選角色的核取方塊，以選取所有工作區。 取消選取個別工作區將會隱藏稽核軌跡。 這表示您會看到每個工作區的稽核軌跡資料。 當[篩選](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)時，您可以選擇隱藏工作區。
 
-1. 按一下 **[!UICONTROL 儲存]**.
+1. 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/enable-audit-trail-8.png)

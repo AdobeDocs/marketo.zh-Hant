@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 移除智慧清單錯誤 {#get-rid-of-smart-list-errors}
 
-在Smart Campaign中，按一下 **[!UICONTROL 智慧清單]**. 修正錯誤，移除您所看到的任何紅色直線。
+在您的Smart Campaign中，按一下&#x200B;**[!UICONTROL 智慧清單]**。 修正錯誤，移除您所看到的任何紅色直線。
 
 ![](assets/smart-campaign-checklist-1.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->使用 **[!UICONTROL 智慧清單的成員]** 該其他清單中可能有錯誤。 也請檢查。
+>使用&#x200B;**[!UICONTROL 智慧列示成員]**&#x200B;時，其他清單中可能會發生錯誤。 也請檢查。
 
 ## 移除流量錯誤 {#get-rid-of-flow-errors}
 
-在Smart Campaign中，按一下 **[!UICONTROL 流量]**. 修正錯誤，移除您所看到的任何紅色直線。
+在您的Smart Campaign中，按一下&#x200B;**[!UICONTROL 流量]**。 修正錯誤，移除您所看到的任何紅色直線。
 
 ![](assets/smart-campaign-checklist-2.png)
 
@@ -43,24 +43,24 @@ ht-degree: 0%
 
 ## 檢閱「排程」標籤 {#review-the-schedule-tab}
 
-在 **[!UICONTROL 排程]** 索引標籤，核取 **[!UICONTROL 智慧清單狀態]** Smart Campaign中需要修正的任何錯誤。
+在&#x200B;**[!UICONTROL 排程]**&#x200B;索引標籤中，檢查&#x200B;**[!UICONTROL 智慧列示狀態]**&#x200B;是否有任何需要修正的智慧行銷活動錯誤。
 
 ![](assets/smart-campaign-checklist-3.png)
 
 ## 檢查人員限制限制 {#check-person-restrictions-limit}
 
-在 **[!UICONTROL 排程]** 索引標籤上，確定符合資格的人數沒有超過人員限制限制。
+在&#x200B;**[!UICONTROL 排程]**&#x200B;索引標籤中，請確定合格人員的數量不超過人員限制限制。
 
 ![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->如有需要，您可以 [覆寫Smart Campaign中的人員限制](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>如有需要，您可以在Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)中[覆寫人員限制。
 
 >[!NOTE]
 >
 >**提醒**
 >
->如果您的Smart Campaign仍然失敗，請瞭解 [瞭解通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 找出問題，以及如何加以修正。
+>如果您的Smart Campaign仍然失敗，請瞭解如何[瞭解通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)，以找出問題所在，以及如何加以修正。
 
 做得好！在執行智慧型行銷活動之前，請備妥此檢查清單。

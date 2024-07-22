@@ -2,10 +2,10 @@
 description: OP-Scoring-Behavior - Marketo檔案 — 產品檔案
 title: OP評分行為
 feature: Programs
-exl-id: 7822c362-c134-4471-b9a5-4d4f06e989ed
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '347'
 ht-degree: 11%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 11%
 
 此範例是使用Marketo Engage預設程式進行行為評分的進階（代碼化）作業程式。 在方案的「我的Token」索引標籤下檢視和編輯評分值。 需要名為「行為分數」的自訂分數欄位。
 
-如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -52,7 +52,7 @@ ht-degree: 11%
  </tbody> 
 </table>
 
-## 程式包含下列資產 {#program-contains-the-following-assets}
+## 程式包含下列Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -245,20 +245,20 @@ ht-degree: 11%
 
 ## 衝突規則 {#conflict-rules}
 
-* **計畫標籤**
-   * 在此訂閱中建立標籤 —  _建議_
+* **程式標籤**
+   * 在此訂閱中建立標籤 — _建議_
    * 忽略
 
-* **具相同名稱的登陸頁面範本**
-   * 複製原始範本 —  _建議_
+* **名稱相同的登入頁面範本**
+   * 複製原始範本 — _建議_
    * 使用目的地範本
 
-* **具有相同名稱的影像**
-   * 保留兩個檔案 —  _建議_
+* **相同名稱的影像**
+   * 保留兩個檔案 — _建議_
    * 取代此訂閱中的專案
 
 * **相同名稱的電子郵件範本**
-   * 保留兩個範本 —  _建議_
+   * 保留兩個範本 — _建議_
    * 取代現有範本
 
 ## 最佳實務 {#best-practices}

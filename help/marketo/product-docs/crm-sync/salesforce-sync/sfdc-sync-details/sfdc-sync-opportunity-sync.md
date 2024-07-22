@@ -6,7 +6,7 @@ exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此 [您在Marketo中為Salesforce輸入的認證](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} 用於同步資料。 只有這些認證有權存取的資料才會包括在內。
+>您在Marketo for Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}中輸入的[認證可用來同步資料。 只有這些認證有權存取的資料才會包括在內。
 
 ## 我可以起始機會同步處理嗎？ {#can-i-initiate-an-opportunity-sync}
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
 ## Marketo是否支援機會金額中有多種貨幣？ {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-否，Marketo僅支援一種貨幣。 此機會金額將從Salesforce同步，但貨幣將是 [預設貨幣](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription){target="_blank"} (在您的Marketo訂閱中)。
+否，Marketo僅支援一種貨幣。 此機會金額將從Salesforce進行同步，但貨幣將是您Marketo訂閱中的[預設貨幣](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription){target="_blank"}。
 
 ## Marketo如何關聯機會和聯絡人？ {#how-does-marketo-associate-opportunities-and-contacts}
 
-Marketo使用建立機會與聯絡人的關聯 [機會聯絡人角色](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm){target="_blank"}. 未指派任何「連絡人角色」的機會會同步至Marketo，但不會屬於任何人。 例如，該人員將不符合擁有機會篩選器的資格。
+Marketo使用[商機連絡人角色](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm){target="_blank"}將商機與連絡人建立關聯。 未指派任何「連絡人角色」的機會會同步至Marketo，但不會屬於任何人。 例如，該人員將不符合擁有機會篩選器的資格。
 
 ## 我如何知道個人的所有機會？ {#how-can-i-see-all-the-opportunities-of-a-person}
 
-您可以檢視以下專案的商機清單： **機會資訊** 索引標籤中的 [個人詳細資料](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} 頁面。
+您可以在[個人詳細資料](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}頁面的&#x200B;**機會資訊**&#x200B;索引標籤中檢視機會清單。
 
 ## 與機會相關的觸發器/篩選器為何？ {#what-are-the-triggers-filters-related-to-opportunity}
 
@@ -45,7 +45,7 @@ Marketo使用建立機會與聯絡人的關聯 [機會聯絡人角色](https://h
 * 已從機會中移除
 * 機會已更新
 
-篩選器:
+篩選器：
 
 * 有機會
 * 機會已更新/未更新機會

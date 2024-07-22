@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 直接從行銷活動中移除人員 {#remove-a-person-directly-from-a-campaign}
 
-1. 在Sales Connect中按一下 **行銷活動** 標籤。
+1. 在Sales Connect中，按一下&#x200B;**行銷活動**&#x200B;標籤。
 
    ![](assets/one.png)
 
@@ -33,17 +33,17 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 尋找您要移除的人員，然後按一下 **移除**.
+1. 尋找您要移除的人員，然後按一下[移除]。****
 
    ![](assets/four.png)
 
-1. （選擇性步驟）您也可以按一下多個人員名稱旁的核取方塊，然後按一下 **移除** 按鈕。
+1. （選擇性步驟）您也可以按一下多個人員名稱旁的核取方塊，然後按一下頂端的「**移除**」按鈕，一次移除多個人員。
 
    ![](assets/five.png)
 
 ## 在人員頁面中將人員從行銷活動中移除 {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. 在Sales Connect中按一下 **人員** 標籤。
+1. 在Sales Connect中，按一下&#x200B;**人員**&#x200B;標籤。
 
    ![](assets/one-a.png)
 
@@ -51,17 +51,17 @@ ht-degree: 0%
 
    ![](assets/two-a.png)
 
-1. 會在右側開啟其「人員詳細資料檢視」面板。 按一下 **歷史記錄** 索引標籤後面接著 **移除** 按鈕。
+1. 會在右側開啟其「人員詳細資料檢視」面板。 按一下&#x200B;**歷程記錄**&#x200B;標籤，然後按一下&#x200B;**移除**&#x200B;按鈕。
 
    ![](assets/three-a.png)
 
 ## 從行銷活動中移除一組人員 {#remove-a-group-of-people-from-a-campaign}
 
-1. 在Sales Connect中按一下 **人員** 標籤。
+1. 在Sales Connect中，按一下&#x200B;**人員**&#x200B;標籤。
 
    ![](assets/one-b.png)
 
-1. 在下方尋找並選取您的群組 **我的群組**.
+1. 在&#x200B;**我的群組**&#x200B;下尋找並選取您的群組。
 
    ![](assets/two-b.png)
 
@@ -69,6 +69,6 @@ ht-degree: 0%
 
    ![](assets/three-b.png)
 
-1. 按一下 **動作** 並選擇 **從Campaign移除選取的專案**.
+1. 按一下&#x200B;**動作**&#x200B;並選擇&#x200B;**從行銷活動中移除選取的專案**。
 
    ![](assets/four-b.png)

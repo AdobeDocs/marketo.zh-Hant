@@ -2,10 +2,10 @@
 description: NUR-YYYY-MM-Advanced Nurture - Marketo檔案 — 產品檔案
 title: NUR-YYYY-MM-Advanced Nurture
 feature: Programs
-exl-id: cd266cad-843b-4329-ad40-2f3d0acd4948
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '490'
 ht-degree: 3%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 這是使用Marketo Engage參與計畫的進階Nurture計畫範例。 巢狀電子郵件程式會防止使用者接收他們已使用的內容，或控制他們應在每個資料流中使用的內容型別。 歸因報表可針對每個個別巢狀電子郵件程式執行。 管道： 「Nurture」以及巢狀電子郵件計畫的專用「Nurture電子郵件」管道會利用Marketo Engage電子郵件計畫傳送一封電子報電子郵件。 電子郵件可以包含或不包含A/B測試。
 
-如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -44,7 +44,7 @@ ht-degree: 3%
  </tbody> 
 </table>
 
-## 程式包含下列資產 {#program-contains-the-following-assets}
+## 程式包含下列Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -132,12 +132,12 @@ ht-degree: 3%
   <tr> 
    <td>資料夾</td> 
    <td> </td>
-   <td>資產（包含巢狀程式和資產資料夾也位於巢狀程式中以包含電子郵件）</td>
+   <td>Assets （包含巢狀程式和資產資料夾也位於巢狀程式中以包含電子郵件）</td>
   </tr>
   <tr> 
    <td>資料夾</td> 
    <td> </td>
-   <td>巢狀程式（位於「資產」資料夾下）</td>
+   <td>巢狀程式(位於Assets資料夾下)</td>
   </tr>
   <tr> 
    <td>資料夾</td> 
@@ -183,21 +183,21 @@ ht-degree: 3%
 
 ## 衝突規則 {#conflict-rules}
 
-* **計畫標籤**
-   * 在此訂閱中建立標籤 —  _建議_
+* **程式標籤**
+   * 在此訂閱中建立標籤 — _建議_
    * 忽略
 
-* **具相同名稱的登陸頁面範本**
+* **名稱相同的登入頁面範本**
    * 複製原始範本
-   * 使用目的地範本 —  _建議_
+   * 使用目的地範本 — _建議_
 
-* **具有相同名稱的影像**
+* **相同名稱的影像**
    * 保留兩個檔案
-   * 取代此訂閱中的專案 —  _建議_
+   * 取代此訂閱中的專案 — _建議_
 
 * **相同名稱的電子郵件範本**
    * 保留兩個範本
-   * 取代現有範本 —  _建議_
+   * 取代現有的範本 — _建議_
 
 ## 最佳實務 {#best-practices}
 
@@ -213,4 +213,4 @@ ht-degree: 3%
 
 >[!TIP]
 >
->別忘了啟動「04 — 參與（方案成功）」行銷活動以追蹤成功！ 執行此動作 _早於_ 您的電子郵件已傳送。
+>別忘了啟動「04 — 參與（方案成功）」行銷活動以追蹤成功！ 請在&#x200B;_之前執行此動作，您的電子郵件已寄出。_

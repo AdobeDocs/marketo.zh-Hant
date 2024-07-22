@@ -6,7 +6,7 @@ exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
@@ -29,15 +29,15 @@ ht-degree: 1%
 
 若要檢視使用者登入歷史記錄：
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/user-login-history-1.png)
 
-1. 在「安全性」底下，按一下 **[!UICONTROL 使用者和角色]**.
+1. 在安全性底下，按一下&#x200B;**[!UICONTROL 使用者與角色]**。
 
    ![](assets/user-login-history-2.png)
 
-1. 按一下 **[!UICONTROL 登入記錄]** 標籤。 此清單會顯示最近登入。
+1. 按一下「**[!UICONTROL 登入歷程記錄]**」標籤。 此清單會顯示最近登入。
 
    ![](assets/user-login-history-3.png)
 
@@ -53,15 +53,15 @@ ht-degree: 1%
 
    ![](assets/user-login-history-6.png)
 
-1. 從中選擇使用者 **[!UICONTROL 使用者]** 下拉式清單。
+1. 從&#x200B;**[!UICONTROL 使用者]**&#x200B;下拉式清單中選取使用者。
 
    ![](assets/user-login-history-7.png)
 
-1. 檢查 **[!UICONTROL 僅限失敗的登入]** 方塊以僅顯示搜尋中失敗的登入。
+1. 勾選&#x200B;**[!UICONTROL 僅失敗的登入]**&#x200B;方塊，以在搜尋中僅顯示失敗的登入。
 
    ![](assets/user-login-history-8.png)
 
-1. 按一下 **[!UICONTROL 套用]**.
+1. 按一下&#x200B;**[!UICONTROL 套用]**。
 
    ![](assets/user-login-history-9.png)
 

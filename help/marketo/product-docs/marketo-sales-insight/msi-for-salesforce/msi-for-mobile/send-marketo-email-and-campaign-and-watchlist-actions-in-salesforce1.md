@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在Salesforce1中傳送Marketo電子郵件和Campaign及監看清單動作 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. 前往Salesforce1中的「銷售機會詳細資訊」區域，然後按一下 **相關** 標籤。
+1. 前往Salesforce1中的「銷售機會詳細資訊」區域，然後按一下「**相關**」標籤。
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >會出現哪些智慧型行銷活動？ 具有「已要求Campaign」觸發器的事件。 瞭解如何設定 [使用「已請求行銷活動」觸發的行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)「。
+   >會出現哪些智慧型行銷活動？ 具有「已要求Campaign」觸發器的事件。 瞭解如何使用「要求行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)」設定[觸發的行銷活動。
 
 酷，現在您的銷售人員可以積極參與行銷工作。
 

@@ -5,24 +5,24 @@ exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
 source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '555'
 ht-degree: 0%
 
 ---
 
 # 動態欄位 {#dynamic-fields}
 
-我們允許您使用預先定義的屬性(例如 `{{first_name}}` 或 `{{company}}`. 這些欄位可讓您以電子郵件傳送多個連絡人，並自動完成這些欄位，而不需為每個連絡人分別輸入這些欄位。
+我們允許您使用`{{first_name}}`或`{{company}}`等預先定義的屬性，個人化您的電子郵件範本。 這些欄位可讓您以電子郵件傳送多個連絡人，並自動完成這些欄位，而不需為每個連絡人分別輸入這些欄位。
 
 >[!TIP]
 >
->「first_name」和「company」欄位是唯一會同時檢視Sales Insight Actions和Salesforce的欄位。 這表示如果連絡人不存在於 [網頁應用程式](https://toutapp.com/login)，我們會檢視Salesforce以確認是否能找到具有相符電子郵件地址的聯絡人/潛在客戶記錄。 然後使用該記錄中的資訊來填入欄位。
+>「first_name」和「company」欄位是唯一會同時檢視Sales Insight Actions和Salesforce的欄位。 也就是說，如果連絡人不存在於[網頁應用程式](https://toutapp.com/login)中，我們會檢視Salesforce，檢視是否可以找到具有相符電子郵件地址的連絡人/潛在客戶記錄。 然後使用該記錄中的資訊來填入欄位。
 
 ## 將動態欄位插入範本 {#insert-a-dynamic-field-into-a-template}
 
-1. 在 **範本與行銷活動**，找到您要編輯的範本並按一下 **編輯範本**.
+1. 在&#x200B;**範本與行銷活動**&#x200B;中，找到您要編輯的範本，然後按一下&#x200B;**編輯範本**。
 
-1. 按一下 **插入動態欄位**.
+1. 按一下&#x200B;**插入動態欄位**。
 
    >[!NOTE]
    >
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 若要這麼做，請在動態欄位標籤後新增「|」，然後新增「default：」（兩者不含引號）。 然後，如果找不到其他值，請新增您想要欄位解析到的值（用引號括住）。
 
-**範例:**
+**範例：**
 
 `{{first name | default: "loyal customer"}}`
 
@@ -48,9 +48,9 @@ ht-degree: 0%
 
 ## 動態欄位字彙表 {#dynamic-fields-glossary}
 
-在「銷售分析動作」中建立範本時，我們一律建議您使用 **插入動態欄位** 按鈕。
+在銷售分析動作中建立範本時，我們一律建議使用&#x200B;**插入動態欄位**&#x200B;按鈕來整合動態欄位。
 
-此工具用於 `auto-personalize your email` 為您節省大量時間，盡在 `pulling information from the People page`.
+此工具用來`auto-personalize your email`，並由`pulling information from the People page`為您節省大量時間。
 
 | 動態欄位 | 電子郵件中所顯示內容的範例 |
 |---|---|
@@ -68,11 +68,11 @@ ht-degree: 0%
 **注意事項**：
 
 * 如果連絡人的資訊輸入錯誤或從「人物」頁面遺失，將無法正確地提取到您的範本中。
-* 兩者之間的差異 `{{company}}` 和 `{{company_friendly}}` 就是 `{{company_friendly}}` 會從連絡人的公司名稱中移除任何正式名稱，例如Inc.、LLC等。
-* 使用時 `{{company_friendly}}`，請務必在聯絡資料中以逗號分隔Inc.或Co. 。 這就是Sales Insight Actions在提取值時知道要移除哪些專案的方式。
-* 我們允許您使用預先定義的屬性(例如 `{{my_name}}` 或 `{{my_title}}`. 這些欄位可讓您在電子郵件範本中快速參考自己。
-* 系統會自動將使用者的簽名附加到每封傳送的電子郵件中。 如果使用者搭配 `{{my_signature}}` 動態欄位，則系統會填入簽章，其中 `{{my_signature}}` 已放置動態欄位。 只是為了避免重複而在此新增。 系統將處理 `{{team_unsubscribe}}` 與啟用「全域附加取消訂閱」設定時相同。
+* `{{company}}`與`{{company_friendly}}`的差異在於`{{company_friendly}}`會從連絡人的公司名稱中移除任何正式標題，例如Inc.、LLC.等。
+* 使用`{{company_friendly}}`時，請務必在連絡人詳細資料中以逗號分隔Inc.或Co.。 這就是Sales Insight Actions在提取值時知道要移除哪些專案的方式。
+* 我們允許您使用`{{my_name}}`或`{{my_title}}`等預先定義的屬性，個人化您的電子郵件範本。 這些欄位可讓您在電子郵件範本中快速參考自己。
+* 系統會自動將使用者的簽名附加到每封傳送的電子郵件中。 如果使用者使用包含`{{my_signature}}`動態欄位的範本，則系統將填入已放置`{{my_signature}}`動態欄位的簽章。 只是為了避免重複而在此新增。 系統處理`{{team_unsubscribe}}`的方式與啟用全域附加取消訂閱設定時相同。
 
 >[!TIP]
 >
->如果您的動態欄位未填入，請檢視 [本文](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md).
+>如果動態欄位未填入，請檢視[此文章](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)。

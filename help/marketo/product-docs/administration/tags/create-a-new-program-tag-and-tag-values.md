@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-您可以建立自訂 [標籤](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 並將值指派給標籤。
+您可以為程式建立自訂[標籤](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)，並為標籤指派值。
 
 >[!NOTE]
 >
@@ -27,19 +27,19 @@ ht-degree: 0%
 >
 >計畫標籤值：中小型企業、企業、中端市場
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 
-1. 按一下 **[!UICONTROL 標籤]**.
+1. 按一下&#x200B;**[!UICONTROL 標籤]**。
 
    ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. 按一下 **[!UICONTROL 新增]** 並選取 **[!UICONTROL 新標籤型別]**.
+1. 按一下「**[!UICONTROL 新增]**」並選取「**[!UICONTROL 新增標籤型別]**」。
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
-1. 輸入 **[!UICONTROL 標籤型別]** 和標籤 **[!UICONTROL 值]**. 然後按一下 **[!UICONTROL 新增其他]**.
+1. 輸入&#x200B;**[!UICONTROL 標籤型別]**&#x200B;和標籤&#x200B;**[!UICONTROL 值]**。 然後按一下&#x200B;**[!UICONTROL 新增其他]**。
 
    ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
@@ -51,13 +51,13 @@ ht-degree: 0%
    >
    >您可以選取多個方案型別。 建立新程式時，此標籤型別將可供使用。
 
-1. 檢查 **[!UICONTROL 必填]** 並按一下 **[!UICONTROL 建立]**.
+1. 檢查&#x200B;**[!UICONTROL 必要]**&#x200B;並按一下&#x200B;**[!UICONTROL 建立]**。
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
-   >如果標籤型別為 **[!UICONTROL 必填]**&#x200B;時，使用者必須在建立新程式時輸入標籤的值。
+   >如果標籤型別為&#x200B;**[!UICONTROL 必要]**，使用者必須在建立新程式時輸入標籤的值。
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 

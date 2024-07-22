@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 建立推播通知 {#create-a-push-notification}
 
-可輕鬆建立推播通知。 不過，在開始之前，您必須讓Marketo管理員和Mobile Apps開發人員設定一些您執行操作時所需的專案。 另請參閱 [瞭解推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) 以取得詳細資訊。
+可輕鬆建立推播通知。 不過，在開始之前，您必須讓Marketo管理員和Mobile Apps開發人員設定一些您執行操作時所需的專案。 如需詳細資訊，請參閱[瞭解推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)。
 
-1. 前往 **行銷活動** 區域。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
    ![](assets/image2015-4-22-18-3a46-3a14.png)
 
@@ -23,16 +23,16 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-13-3a31-3a43.png)
 
-1. 在 **新增**，按一下 **新增本機資產**.
+1. 在&#x200B;**新增**&#x200B;底下，按一下&#x200B;**新增本機資產**。
 
    ![](assets/image2015-4-23-13-3a33-3a20.png)
 
-1. 選取 **推播通知**.
+1. 選取&#x200B;**推播通知**。
 
    ![](assets/image2015-4-23-13-3a35-3a6.png)
 
-1. 輸入 **推播通知名稱** 並按一下 **建立**.
+1. 輸入&#x200B;**推播通知名稱**&#x200B;並按一下&#x200B;**建立**。
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   真貼心！ 現在推送通知已建立，接著進行 [打扮一下](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+   真貼心！ 現在已建立推播通知，接著請[將其裝飾](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)。

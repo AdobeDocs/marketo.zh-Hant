@@ -31,13 +31,13 @@ ht-degree: 0%
 
 **ToutApp**
 
-* **合規性卡**：擷取銷售聯絡人的來源以及客戶同意接收通訊的詳細資訊，以確保GDPR法規遵循。
-* **密碼原則更新**：以更嚴格的密碼建立、重設和到期要求（符合Soc II - Type 1合規要求），確保資料安全。
-* **簡化的帳戶設定體驗**：快速設定帳戶並連線至Gmail、Outlook和其他系統。
+* **法規遵循卡**：擷取銷售聯絡人的來源及客戶同意接收通訊的詳細資訊，以確保GDPR法規遵循。
+* **密碼原則更新**：以更嚴格的密碼建立、重設和到期要求（符合Soc II — 型別1相容性要求），讓您的資料更安全。
+* **簡化帳戶設定體驗**：快速設定您的帳戶並連線至Gmail、Outlook和其他系統。
 
-## Marketo Sky開放測試版 {#marketo-sky-open-beta}
+## Marketo Sky開啟Beta {#marketo-sky-open-beta}
 
-[Marketo Sky開放測試版](https://help.marketo.com/)
+[Marketo Sky開啟Beta](https://help.marketo.com/)
 
 選擇加入Marketo Sky開放Beta版，即可使用超過100種提升生產力的新功能，包括：
 
@@ -49,11 +49,11 @@ ht-degree: 0%
 
 [效能分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
-**逐年比較**
+**年度對年度期間比較**
 
 對照去年同一期間設定基準結果，以獲得更相關的深入分析。
 
-**多管道趨勢**
+多個管道的&#x200B;**趨勢**
 
 比較多個管道在一段時間內的效能。
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 依商機自訂欄位篩選結果，如特定銷售區域。 對於數值或貨幣欄位，請設定最小值和最大值（例如最小商機金額），並針對特定資料範圍產生深入分析。
 
-**共用的快速圖表**
+**共用快速圖表**
 
 輕鬆與其他效能分析使用者共用快速圖表。
 
@@ -83,6 +83,6 @@ ht-degree: 0%
 
 ## 隱私權增強功能 {#privacy-enhancements}
 
-[網路追蹤隱私權](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
+[網頁追蹤隱私權](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
 
 增強型Munchkin追蹤會匿名處理網頁訪客的IP位址，並允許他們永久退出網頁追蹤，以符合當地及國際的隱私權法規。

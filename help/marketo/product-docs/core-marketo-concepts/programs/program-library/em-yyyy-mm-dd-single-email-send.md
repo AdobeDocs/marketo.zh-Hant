@@ -2,10 +2,10 @@
 description: EM-YYYY-MM-DD-Single Email Send - Marketo檔案 — 產品檔案
 title: EM-YYYY-MM-DD — 單一電子郵件傳送
 feature: Programs
-exl-id: 4dbf3234-a95e-420a-8975-cf86585fb3fc
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '280'
 ht-degree: 4%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 4%
 
 此範例利用Marketo Engage電子郵件程式傳送一封電子郵件。 電子郵件可以包含或不包含A/B測試。
 
-如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -29,14 +29,14 @@ ht-degree: 4%
   <tr> 
    <td>電子郵件</td> 
    <td>01位成員 
-<br/>02參與成功</td>
+<br/>02 — 參與 — 成功</td>
    <td>包含</td>
    <td>電子郵件</td>
   </tr>
  </tbody> 
 </table>
 
-## 程式包含下列資產 {#program-contains-the-following-assets}
+## 程式包含下列Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -69,7 +69,7 @@ ht-degree: 4%
   <tr> 
    <td>資料夾</td> 
    <td> </td>
-   <td>資產 — 容納所有創意資產 
+   <td>Assets — 容納所有創意資產 
 <br/>（電子郵件和登陸頁面的子資料夾）  </td>
   </tr>
   <tr> 
@@ -116,21 +116,21 @@ ht-degree: 4%
 
 ## 衝突規則 {#conflict-rules}
 
-* **計畫標籤**
-   * 在此訂閱中建立標籤 —  _建議_
+* **程式標籤**
+   * 在此訂閱中建立標籤 — _建議_
    * 忽略
 
-* **具相同名稱的登陸頁面範本**
+* **名稱相同的登入頁面範本**
    * 複製原始範本
-   * 使用目的地範本 —  _建議_
+   * 使用目的地範本 — _建議_
 
-* **具有相同名稱的影像**
+* **相同名稱的影像**
    * 保留兩個檔案
-   * 取代此訂閱中的專案 —  _建議_
+   * 取代此訂閱中的專案 — _建議_
 
 * **相同名稱的電子郵件範本**
    * 保留兩個範本
-   * 取代現有範本 —  _建議_
+   * 取代現有的範本 — _建議_
 
 ## 最佳實務 {#best-practices}
 
@@ -144,4 +144,4 @@ ht-degree: 4%
 
 >[!TIP]
 >
->別忘了啟動「01參與」行銷活動以追蹤成功！ 執行此動作 _早於_ 您的表單已上線且已傳送電子郵件。
+>別忘了啟動「01參與」行銷活動以追蹤成功！ _before_&#x200B;請執行此動作。您的表單已上線且已傳送電子郵件。

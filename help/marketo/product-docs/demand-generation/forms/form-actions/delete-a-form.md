@@ -15,7 +15,7 @@ ht-degree: 0%
 
 如果您的表單不需要且未使用，可以將其刪除。 方法如下。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. 在 **表單動作**，按一下 **刪除表單**.
+1. 在&#x200B;**表單動作**&#x200B;下，按一下&#x200B;**刪除表單**。
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >請記得從使用表單的任何/所有登入頁面中移除表單。 此外，請確認公用網站上未使用表單。
 
-1. 按一下以確認 **刪除**.
+1. 按一下&#x200B;**刪除**&#x200B;以確認。
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->如果刪除公用網站正在使用的表單，您將不會看到警告，且表單將會損毀。 考慮  [封存它](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) 而非。
+>如果刪除公用網站正在使用的表單，您將不會看到警告，且表單將會損毀。 請考慮改用[封存它](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)。

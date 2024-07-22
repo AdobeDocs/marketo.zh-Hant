@@ -19,15 +19,15 @@ ht-degree: 1%
 >
 >**需要管理員許可權**
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/edit-landing-page-settings-1.png)
 
-1. 按一下 **[!UICONTROL 登陸頁面]**.
+1. 按一下&#x200B;**[!UICONTROL 登陸頁面]**。
 
    ![](assets/edit-landing-page-settings-2.png)
 
-1. 在 **[!UICONTROL 登陸頁面]** 區段，按一下 **[!UICONTROL 編輯]**.
+1. 在&#x200B;**[!UICONTROL 登陸頁面]**&#x200B;區段中，按一下&#x200B;**[!UICONTROL 編輯]**。
 
    ![](assets/edit-landing-page-settings-3.png)
 
@@ -37,21 +37,21 @@ ht-degree: 1%
 
    | 詞語 | 定義 |
    |---|---|
-   | [!UICONTROL 登陸頁面的網域名稱] | 這是您的CNAME。 CNAME是您為登陸頁面提供的網址(URL)的第一部分。 例如，在 `https://go.yourCompany.com`，單字「go」就是CNAME。 您可以有多個，但大多數人只使用一個。 |
-   | [!UICONTROL 後援頁面] | 如果登入頁面不存在或已關閉，便可前往此處。 進一步瞭解 [後援頁面](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
+   | 登陸頁面的[!UICONTROL 網域名稱] | 這是您的CNAME。 CNAME是您為登陸頁面提供的網址(URL)的第一部分。 例如，在`https://go.yourCompany.com`中，「go」是CNAME。 您可以有多個，但大多數人只使用一個。 |
+   | [!UICONTROL 後援頁面] | 如果登入頁面不存在或已關閉，便可前往此處。 深入瞭解[後援頁面](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)。 |
    | [!UICONTROL 首頁] | 輸入您的公司網站URL。 |
 
-1. 檢查 **[!UICONTROL 表單預填]** 核取方塊，允許表單預先填入已知（已編碼）人員的資訊。 取消勾選以封鎖。
+1. 核取&#x200B;**[!UICONTROL 表單預填]**&#x200B;核取方塊，允許表單預填已知（已編碼）人員的資訊。 取消勾選以封鎖。
 
    ![](assets/edit-landing-page-settings-5.png)
 
    >[!NOTE]
    >
-   >如果您想要預填 `<script>` 標籤的後面 `<head>` 標籤時，請檢查 **[!UICONTROL 在標題末尾插入預填指令碼]** 方塊。 如果您希望它顯示在開頭，請保持取消勾選狀態。
+   >如果您希望預填`<script>`標籤顯示在程式碼中`<head>`標籤的結尾，請勾選&#x200B;**[!UICONTROL 在Head結尾插入預填指令碼]**&#x200B;方塊。 如果您希望它顯示在開頭，請保持取消勾選狀態。
    >
-   >檢查 **[!UICONTROL 移除預設的Favicon連結]** 防止Marketo將任何favicon連結插入程式碼中。
+   >勾選&#x200B;**[!UICONTROL 移除預設Favicon連結]**，以防止Marketo將任何Favicon連結插入程式碼中。
 
-1. 進行選取後，按一下 **[!UICONTROL 儲存]**.
+1. 選取之後，按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/edit-landing-page-settings-6.png)
 

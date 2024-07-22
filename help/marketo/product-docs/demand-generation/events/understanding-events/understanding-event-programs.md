@@ -7,7 +7,7 @@ feature: Events
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -30,10 +30,10 @@ ht-degree: 2%
 >* 商展
 >* 聚會
 
-事件可自動連線至您的 [網路研討會提供者](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) 以及與 [iPad簽入應用程式](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+事件可自動連線至您的[網路研討會提供者](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)，以及與[iPad簽入應用程式](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)同步。
 
 >[!MORELIKETHIS]
 >
->* [建立新的事件程式](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* [建立新的活動程式](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >
->* [LaunchPoint活動合作夥伴](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)
+>* [LaunchPoint活動夥伴](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)

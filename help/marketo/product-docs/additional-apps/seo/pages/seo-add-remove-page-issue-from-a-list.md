@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 將頁面問題新增至清單 {#add-page-issues-to-a-list}
 
-1. 前往 **[!UICONTROL 頁面]** 區段。
+1. 移至&#x200B;**[!UICONTROL 頁面]**&#x200B;區段。
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. 在 **[!UICONTROL 頁面]** 標籤，按一下 **[!UICONTROL 問題]**.
+1. 在&#x200B;**[!UICONTROL 頁面]**&#x200B;索引標籤上，按一下&#x200B;**[!UICONTROL 問題]**。
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. 暫留在您要新增的頁面問題上。 按一下 **[!UICONTROL 新增/從清單移除]**.
+1. 暫留在您要新增的頁面問題上。 按一下&#x200B;**[!UICONTROL 新增/移除清單]**。
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
@@ -35,15 +35,15 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您也可以建立新的關鍵字清單，以供您執行。 只要在中輸入您想要的名稱 **[!UICONTROL 建立新清單]**.
+   >您也可以建立新的關鍵字清單，以供您執行。 只要在&#x200B;**[!UICONTROL 建立新清單]**&#x200B;中輸入您想要的名稱。
 
 ## 從清單中移除頁面問題 {#remove-page-issue-from-a-list}
 
-1. 前往 **[!UICONTROL 頁面]** 區段。
+1. 移至&#x200B;**[!UICONTROL 頁面]**&#x200B;區段。
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. 在頁面索引標籤上，按一下 **[!UICONTROL 問題]**.
+1. 在頁面索引標籤上，按一下&#x200B;**[!UICONTROL 問題]**。
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. 暫留在您要移除的頁面問題上。 按一下 **[!UICONTROL 新增/從清單移除]**.
+1. 暫留在您要移除的頁面問題上。 按一下&#x200B;**[!UICONTROL 新增/移除清單]**。
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 

@@ -6,8 +6,8 @@ exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '781'
-ht-degree: 8%
+source-wordcount: '766'
+ht-degree: 7%
 
 ---
 
@@ -31,15 +31,15 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 如果您
 
 對三個自訂欄位中的每一個執行以下步驟以新增它們。 從分數開始。
 
-1. 登入Salesforce並按一下 **[!UICONTROL 設定]**.
+1. 登入Salesforce並按一下&#x200B;**[!UICONTROL 設定]**。
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. 在 [!UICONTROL 建置] 功能表左側，按一下 **[!UICONTROL 自訂]** 並選取 **[!UICONTROL 銷售機會]**. 按一下 **[!UICONTROL 欄位]**.
+1. 在左側的[!UICONTROL 建置]功能表中，按一下&#x200B;**[!UICONTROL 自訂]**&#x200B;並選取&#x200B;**[!UICONTROL 銷售機會]**。 按一下&#x200B;**[!UICONTROL 欄位]**。
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. 按一下 **[!UICONTROL 新增]** 在頁面底部的「自訂欄位和關係」區段中。
+1. 在頁面底部的[自訂欄位和關聯性]區段中，按一下&#x200B;**[!UICONTROL 新增]**。
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -51,7 +51,7 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 如果您
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. 輸入 [!UICONTROL 欄位標籤]， [!UICONTROL 長度]、和 [!UICONTROL 欄位名稱] 欄位的，如下表所示。
+1. 輸入欄位的[!UICONTROL 欄位標籤]、[!UICONTROL 長度]和[!UICONTROL 欄位名稱]，如下表所示。
 
 <table> 
  <thead> 
@@ -78,7 +78,7 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 如果您
   <tr> 
    <td>分數</td> 
    <td>mkto71_Lead_Score</td> 
-   <td>數字</td> 
+   <td>數量</td> 
    <td>長度10<br>小數位數0 </td> 
   </tr> 
   <tr> 
@@ -110,14 +110,14 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 如果您
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. 指定存取設定，然後按一下 **[!UICONTROL 下一個]**：
+1. 指定存取設定，然後按一下&#x200B;**[!UICONTROL 下一步]**：
 
-   * 將所有角色設為 **[!UICONTROL 可見]** 和 **[!UICONTROL 唯讀]**
+   * 將所有角色設定為&#x200B;**[!UICONTROL 可見]**&#x200B;和&#x200B;**[!UICONTROL 唯讀]**
 
-   * 清除 **[!UICONTROL 唯讀]** 同步使用者設定檔的核取方塊：
+   * 清除同步處理使用者設定檔的&#x200B;**[!UICONTROL 唯讀]**&#x200B;核取方塊：
 
-      * 如果您的使用者具有的設定檔 _系統管理員_ 以同步使用者身分，清除 **[!UICONTROL 唯讀]** 系統管理員設定檔的核取方塊（如下所示）
-      * 如果您已建立 _自訂設定檔_ 對於同步使用者，請清除 **[!UICONTROL 唯讀]** 該自訂設定檔的核取方塊
+      * 如果您的使用者具有&#x200B;_系統管理員_&#x200B;的設定檔作為同步使用者，請清除系統管理員設定檔的&#x200B;**[!UICONTROL 唯讀]**&#x200B;核取方塊（如下所示）
+      * 如果您已建立同步處理使用者的&#x200B;_自訂設定檔_，請清除該自訂設定檔的&#x200B;**[!UICONTROL 唯讀]**&#x200B;核取方塊
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,11 +125,11 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 如果您
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. 按一下 **[!UICONTROL 儲存並新增]** 返回並建立其他兩個自訂欄位。 按一下 **[!UICONTROL 儲存]** 您已全部完成。
+1. 按一下[儲存與新增]****，返回並建立其他兩個自訂欄位。 完成全部三個動作後，按一下[儲存]。****
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. 在左側的「建置」功能表中，按一下 **[!UICONTROL 自訂]** 並選取連絡人。 按一下「欄位」。
+1. 在左側的[組建]功能表中，按一下[自訂] ****，然後選取[連絡人]。 按一下「欄位」。
 1. 針對連絡人物件的「分數」、「贏取日期」和「贏取方案」欄位，執行步驟3到10，就像您對潛在客戶物件所做的一樣。
 1. 或者，您可以將此程式用於此表格的任何其他自訂欄位。
 
@@ -158,7 +158,7 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 如果您
   <tr> 
    <td>贏取方案ID</td> 
    <td>mkto71_Acquisition_Program_Id</td> 
-   <td>數字</td> 
+   <td>數量</td> 
    <td>長度18<br>小數位數0 </td> 
   </tr> 
   <tr> 
@@ -244,15 +244,15 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 如果您
 
 Salesforce中潛在客戶物件上的自訂欄位應該對應到聯絡人物件上的聯絡人欄位，以便在轉換發生時傳遞資料。
 
-1. 在右上角，按一下 **[!UICONTROL 設定]**.
+1. 按一下右上角的&#x200B;**[!UICONTROL 設定]**。
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. 在導覽搜尋中輸入「欄位」，不按Enter鍵。 欄位會顯示在不同的物件下；按一下 **[!UICONTROL 欄位]** 在潛在客戶底下。
+1. 在導覽搜尋中輸入「欄位」，不按Enter鍵。 欄位會顯示在不同的物件下；按一下[潛在客戶]下的&#x200B;**[!UICONTROL 欄位]**。
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. 前往「潛在客戶自訂欄位和關係」區段，然後按一下 **[!UICONTROL 對應潛在客戶欄位]**.
+1. 移至[潛在客戶自訂欄位與關係]區段，然後按一下[對映潛在客戶欄位] ]**。**[!UICONTROL 
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -266,8 +266,8 @@ Salesforce中潛在客戶物件上的自訂欄位應該對應到聯絡人物件�
 
 1. 對您已建立的任何其他欄位重複上述步驟。
 
-1. 按一下 **[!UICONTROL 儲存]** 完成時。
+1. 完成時，按一下&#x200B;**[!UICONTROL 儲存]**。
 
 >[!MORELIKETHIS]
 >
->[步驟2之3：建立Marketo的Salesforce使用者(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
+>[步驟2之3：建立Marketo (Enterprise/Unlimited)的Salesforce使用者](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}

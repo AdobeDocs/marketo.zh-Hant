@@ -2,10 +2,10 @@
 description: TS-YYYY-MM-DD-Tradeshow計畫 — Marketo檔案 — 產品檔案
 title: TS-YYYY-MM-DD-Tradeshow計畫
 feature: Programs
-exl-id: 32e4d07e-e9fd-4906-acc4-5f97c09f3c44
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '410'
 ht-degree: 4%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 4%
 
 這是商展計畫的範例，包含邀請和後續電子郵件，利用Marketo Engage活動計畫。
 
-如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -27,20 +27,20 @@ ht-degree: 4%
    <th>計畫型別</th>
   </tr> 
   <tr> 
-   <td>Event</td> 
+   <td>事件</td> 
    <td>01 — 已邀請 
-   <br/>02 — 輪候
+   <br/>02已輪候
    <br/>03已註冊
-   <br/>04人參觀的展位
+   <br/>04個造訪的攤位
    <br/>05參與在展示 — 成功
-   <br/>Post Show參與06 — 成功</td>
+   <br/>06參與發佈會 — 成功</td>
    <td>包含</td>
-   <td>Event</td>
+   <td>事件</td>
   </tr>
  </tbody> 
 </table>
 
-## 程式包含下列資產 {#program-contains-the-following-assets}
+## 程式包含下列Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -93,7 +93,7 @@ ht-degree: 4%
   <tr> 
    <td>資料夾</td> 
    <td> </td>
-   <td>資產 — 容納所有創意資產 
+   <td>Assets — 容納所有創意資產 
 <br/>（電子郵件和登陸頁面的子資料夾）</td>
   </tr>
   <tr> 
@@ -180,21 +180,21 @@ ht-degree: 4%
 
 ## 衝突規則 {#conflict-rules}
 
-* **計畫標籤**
-   * 在此訂閱中建立標籤 —  _建議_
+* **程式標籤**
+   * 在此訂閱中建立標籤 — _建議_
    * 忽略
 
-* **具相同名稱的登陸頁面範本**
+* **名稱相同的登入頁面範本**
    * 複製原始範本
-   * 使用目的地範本 —  _建議_
+   * 使用目的地範本 — _建議_
 
-* **具有相同名稱的影像**
+* **相同名稱的影像**
    * 保留兩個檔案
-   * 取代此訂閱中的專案 —  _建議_
+   * 取代此訂閱中的專案 — _建議_
 
 * **相同名稱的電子郵件範本**
    * 保留兩個範本
-   * 取代現有範本 —  _建議_
+   * 取代現有的範本 — _建議_
 
 ## 最佳實務 {#best-practices}
 
@@ -211,7 +211,7 @@ ht-degree: 4%
 
 >[!TIP]
 >
->別忘了啟用「03 — 透過追蹤電子郵件參與（方案成功）」行銷活動以追蹤成功！ 執行此動作 _早於_ 您的電子郵件已傳送。
+>別忘了啟用「03 — 透過追蹤電子郵件參與（方案成功）」行銷活動以追蹤成功！ 請在&#x200B;_之前執行此動作，您的電子郵件已寄出。_
 
 >[!IMPORTANT]
 >

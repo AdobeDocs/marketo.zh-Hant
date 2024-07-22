@@ -6,7 +6,7 @@ exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 心智模型（如何思考這個問題） {#mental-model-how-to-think-about-this-thing}
 
-「塑模工具」就像一連串有水的桶。 儲桶底部有孔。
+Modeler就像一連串有水的桶。 儲桶底部有孔。
 
 ![](assets/image2015-6-12-10-3a14-3a4.png)
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-請注意，它們全都位於綠色背景中。 這稱為 **成功路徑**. 進一步瞭解成功路徑 [此處](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+請注意，它們全都位於綠色背景中。 這稱為&#x200B;**成功路徑**。 在[這裡](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)進一步瞭解成功路徑。
 
-**階段** 是潛在客戶向著其目標前進的里程碑。
+**階段**&#x200B;是潛在客戶向目標進展的里程碑。
 
-**轉變** 顯示為箭頭，其可控制銷售機會在階段之間移動的方式。
+**轉變**&#x200B;會顯示為箭頭，它們可控制銷售機會在階段之間的移動方式。
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## SLA階段 {#sla-stage}
 
-這是縮寫 **服務等級合約** 階段。 這裡的目的是要執行某些階段的時間限制。
+這是&#x200B;**服務等級合約**&#x200B;階段的簡稱。 這裡的目的是要執行某些階段的時間限制。
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ ht-degree: 0%
 >
 >**範例**
 >
->閘道可用於屬於的潛在 **具名帳戶清單** 以將此與正常程式分開。
+>閘道可用於屬於&#x200B;**具名帳戶清單**&#x200B;的潛在客戶，將此與正常程式分開。
 
 ## 轉變 {#transitions}
 
@@ -97,12 +97,12 @@ ht-degree: 0%
 >
 >* [建立新的收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 >
->* [使用收入模型存貨階段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [使用收入模型詳細目錄階段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >
 >* [使用收入模型閘道階段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
 >
 >* [使用收入模型SLA階段](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
->* [收入模型報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+>* [報告您的收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >
 >* [核准/取消核准收入模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

@@ -22,11 +22,11 @@ ht-degree: 4%
 
 ## 檢視同步處理狀態 {#view-sync-status}
 
-1. 按一下 **[!UICONTROL 管理員]**.
+1. 按一下&#x200B;**[!UICONTROL 管理員]**。
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. 在 [!UICONTROL 整合]，按一下 **Salesforce**，然後 **[!UICONTROL 同步狀態]** 標籤。
+1. 在[!UICONTROL 整合]下，按一下&#x200B;**Salesforce**，然後按一下&#x200B;**[!UICONTROL 同步處理狀態]**&#x200B;索引標籤。
 
    ![](assets/salesforce-sync-status-2.png)
 
@@ -40,15 +40,15 @@ ht-degree: 4%
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. 選取您的日期和時間範圍，然後按一下下拉式清單以作為篩選依據 [!UICONTROL 物件型別]， [!UICONTROL 作業型別]、和/或 [!UICONTROL 狀態型別].
+1. 選取您的日期和時間範圍，然後按一下下拉式清單，依[!UICONTROL 物件型別]、[!UICONTROL 作業型別]和/或[!UICONTROL 狀態型別]篩選。
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. 按一下 **[!UICONTROL 套用]**.
+1. 按一下&#x200B;**[!UICONTROL 套用]**。
 
    ![](assets/salesforce-sync-status-6.png)
 
-**選擇性步驟**：若要匯出同步錯誤，請按一下 **[!UICONTROL 匯出]**. 資料將會匯出為CSV檔。
+**選擇性步驟**：若要匯出同步處理錯誤，請按一下[匯出]。**** 資料將會匯出為CSV檔。
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -119,7 +119,7 @@ ht-degree: 4%
  </tbody> 
 </table>
 
-&#42;同步步驟失敗後，資料恢復為之前的完整狀態。
+&#42;同步步驟失敗後，資料回覆成先前的完整狀態。
 
 ## 物件類型 {#object-type}
 
@@ -132,7 +132,7 @@ ht-degree: 4%
    <td colspan="1">帳戶</td> 
   </tr>  
   <tr> 
-   <td colspan="1">帳戶型別</td> 
+   <td colspan="1">帳戶類型</td> 
   </tr> 
   <tr> 
    <td colspan="1">自訂物件</td> 
@@ -150,7 +150,7 @@ ht-degree: 4%
    <td colspan="1">電子郵件範本</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Event</td> 
+   <td colspan="1">事件</td> 
   </tr> 
   <tr> 
    <td colspan="1">人員（銷售機會）</td> 

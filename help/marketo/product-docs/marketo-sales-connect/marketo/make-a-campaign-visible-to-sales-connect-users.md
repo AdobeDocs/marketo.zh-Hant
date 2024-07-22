@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 按一下 **智慧清單** 標籤。
+1. 按一下&#x200B;**智慧清單**&#x200B;索引標籤。
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 對於來源，請選擇「是」 **網站服務API**.
+1. 針對來源，請選擇[是] **Web服務API**。
 
    ![](assets/4.png)
 
-1. 按一下 **流量** 標籤。
+1. 按一下「**流量**」標籤。
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 對於「型別」，選取 **Web**.
+1. 對於型別，請選取&#x200B;**網頁**。
 
    ![](assets/seven.png)
 
@@ -47,6 +47,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 按一下 **排程** 標籤和 **啟動** 行銷活動。
+1. 按一下&#x200B;**排程**&#x200B;索引標籤並&#x200B;**啟動**&#x200B;行銷活動。
 
    ![](assets/nine.png)

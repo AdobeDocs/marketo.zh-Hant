@@ -6,20 +6,20 @@ exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
 source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
 # 在智慧清單中使用非使用中篩選器 {#use-inactivity-filters-in-a-smart-list}
 
-您是否知道可以在智慧清單中尋找符合下列條件的人員 _沒有_ 要做什麼？ 請檢視這些非使用狀態篩選器。
+您知道可以在智慧清單中尋找&#x200B;_沒有_&#x200B;做某些事情的人嗎？ 請檢視這些非使用狀態篩選器。
 
-1. 前往 **[!UICONTROL 行銷活動]**.
+1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 選取您要編輯的智慧列示，然後按一下 **[!UICONTROL 智慧清單]** 標籤。
+1. 選取您要編輯的智慧列示，然後按一下&#x200B;**[!UICONTROL 智慧列示]**&#x200B;索引標籤。
 
    ![](assets/smartlist-choose.png)
 
@@ -29,8 +29,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >有許多篩選器包含在 **[!UICONTROL 非使用狀態篩選器]** 資料夾。 搜尋「否」並檢視。
+   >**[!UICONTROL 非活動篩選器]**&#x200B;資料夾中有許多篩選器。 搜尋「否」並檢視。
 
-1. 選取 **[!UICONTROL 為任何]** 運運算元。 這會找出過去30天內未造訪過任何頁面的所有人員。
+1. 選取&#x200B;**[!UICONTROL 是任何]**&#x200B;運運算元。 這會找出過去30天內未造訪過任何頁面的所有人員。
 
    ![](assets/mysmartlist-people.jpg)

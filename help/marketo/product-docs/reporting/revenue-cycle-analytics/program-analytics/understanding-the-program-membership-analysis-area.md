@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 

@@ -18,7 +18,7 @@ ht-degree: 0%
 將電子郵件新增至參與計畫中的串流很容易，而且運作正常。 不過，如果您的業務需求較為複雜，將電子郵件置於計畫內或許是可行的作法。 例如，您可能想要：
 
 * 傳送電子郵件給資料流中的子群組
-* 傳送 *不同* 傳送電子郵件給串流中的子群組
+* 傳送&#x200B;*個不同的*&#x200B;電子郵件給資料流中的子群組
 * 將登陸頁面、表單或其他資產納入Nurture
 * 啟用多點觸控歸因
 * 新增額外流量步驟，例如警示電子郵件
@@ -31,17 +31,17 @@ ht-degree: 0%
 * 如果您是計畫的成員，您將不會收到電子郵件
 * 如果您不再是會員，但先前已透過該程式收到電子郵件，您將不會收到電子郵件
 
-當您在串流中使用程式時，您以前是否收到過該特定電子郵件並不重要。 只要電子郵件之前未寄出 *在該特定計畫中*，您可再次收到。
+當您在串流中使用程式時，您以前是否收到過該特定電子郵件並不重要。 只要該特定程式&#x200B;*中的電子郵件未在*&#x200B;之前寄出，您就可以再次收到該電子郵件。
 
 在參與計畫中，電子郵件和計畫可能會很棘手。 您可能會想要使用其中一個。
 
 >[!TIP]
 >
->請務必使用 **參與計畫成員** 在您的智慧清單中篩選。
+>請務必在智慧清單中使用&#x200B;**參與計畫成員**&#x200B;篩選器。
 
 ## 不符合智慧清單條件的人會發生什麼事？ {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
-如果有人從巢狀方案的智慧型行銷活動的智慧型清單中篩選出來，他們不會在目前轉換期間移至下一個內容片段。 他們將繼續到串流中的下一個內容片段 *關注* 轉換。
+如果有人從巢狀方案的智慧型行銷活動的智慧型清單中篩選出來，他們不會在目前轉換期間移至下一個內容片段。 他們將會繼續到&#x200B;*following*&#x200B;轉換的串流中的下一個內容片段。
 
 ## 巢狀程式包含什麼？ {#what-does-a-nested-program-contain}
 
@@ -57,5 +57,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [將內容新增至資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
->* [瞭解計畫](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
+>* [新增內容至資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [瞭解程式](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)

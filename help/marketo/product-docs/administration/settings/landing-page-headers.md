@@ -14,19 +14,19 @@ ht-degree: 0%
 
 請依照下列步驟，自訂您的登陸頁面網域上的部分HTTP標題。
 
-1. 在Marketo中，按一下 **[!UICONTROL 管理員]**.
+1. 在Marketo中，按一下&#x200B;**[!UICONTROL 管理員]**。
 
    ![](assets/landing-page-headers-1.png)
 
-1. 按一下 **[!UICONTROL 登陸頁面]**.
+1. 按一下&#x200B;**[!UICONTROL 登陸頁面]**。
 
    ![](assets/landing-page-headers-2.png)
 
-1. 按一下 **[!UICONTROL 編輯]** 在登陸頁面HTTP標題旁。
+1. 按一下登陸頁面HTTP標題旁的&#x200B;**[!UICONTROL 編輯]**。
 
    ![](assets/landing-page-headers-3.png)
 
-1. 選擇所需的設定，然後按一下 **[!UICONTROL 儲存]** 完成時。
+1. 選擇您想要的設定，完成時按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/landing-page-headers-4.png)
 

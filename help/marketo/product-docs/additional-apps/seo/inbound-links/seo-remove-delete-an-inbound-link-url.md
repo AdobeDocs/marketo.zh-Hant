@@ -15,7 +15,7 @@ ht-degree: 0%
 
 有時您會想要移除傳入連結。 方法如下：
 
-1. 前往 **[!UICONTROL 傳入連結]** 區段。
+1. 移至&#x200B;**[!UICONTROL 傳入連結]**&#x200B;區段。
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
 
-1. 按一下 **[!UICONTROL 移除]**.
+1. 按一下&#x200B;**[!UICONTROL 移除]**。
 
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 

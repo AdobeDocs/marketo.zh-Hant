@@ -6,7 +6,7 @@ exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '126'
 ht-degree: 3%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 3%
 
 透過此報表檢視您計畫的良好統計資料。
 
-1. [在方案中建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} and select the **[!UICONTROL Program Performance]** [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
-1. 按一下 **[!UICONTROL 報告]** 標籤。
+1. [在方案中建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"}並選取&#x200B;**[!UICONTROL 方案效能]** [報告型別](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}。
+1. 按一下「**[!UICONTROL 報表]**」標籤。
 1. 您到了！ 探索您的報告以檢視您的計畫如何執行。
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->若要尋找具有最低 *每次成功的成本*&#x200B;例如， [排序報告](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} 在該欄上並選擇 **[!UICONTROL 升序排序]**.
+>若要尋找&#x200B;*每次成功成本最低*&#x200B;的程式，例如[在該欄排序您的報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}，然後選擇&#x200B;**[!UICONTROL 遞增排序]**。
 
 「方案效能」報表中的欄包括：
 

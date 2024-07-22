@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,31 +15,31 @@ ht-degree: 0%
 
 以下說明如何在Salesforce Lightning中設定大量動作。
 
-1. 在Salesforce中，按一下「設定」圖示並選取 **設定**.
+1. 在Salesforce中，按一下「設定」圖示並選取&#x200B;**設定**。
 
    ![](assets/bulk-actions-in-salesforce-lightning-1.png)
 
-1. 按一下 **物件管理員** 標籤。
+1. 按一下「**物件管理員**」標籤。
 
    ![](assets/bulk-actions-in-salesforce-lightning-2.png)
 
-1. 尋找並選取 **銷售機會** 標籤。
+1. 尋找並選取&#x200B;**銷售機會**&#x200B;標籤。
 
    ![](assets/bulk-actions-in-salesforce-lightning-3.png)
 
-1. 按一下 **搜尋Salesforce Classic的版面**.
+1. 按一下&#x200B;**搜尋Salesforce Classic**&#x200B;的版面配置。
 
    ![](assets/bulk-actions-in-salesforce-lightning-4.png)
 
-   尋找「清單檢視」版面配置。 按一下右側的下拉式清單，然後選取 **編輯**.
+   尋找「清單檢視」版面配置。 按一下右側的下拉式清單，然後選取&#x200B;**編輯**。
 
    ![](assets/bulk-actions-in-salesforce-lightning-5.png)
 
-1. 在自訂按鈕底下，尋找並選取 **新增至Marketo Campaign （閃電）** 和 **傳送Marketo電子郵件（閃電）**. 按一下 **新增** 按鈕。
+1. 在[自訂按鈕]下，尋找並選取&#x200B;**新增至Marketo Campaign （閃電）**&#x200B;和&#x200B;**傳送Marketo電子郵件（閃電）**。 按一下&#x200B;**新增**&#x200B;按鈕。
 
    ![](assets/bulk-actions-in-salesforce-lightning-6.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/bulk-actions-in-salesforce-lightning-7.png)
 

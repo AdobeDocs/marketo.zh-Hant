@@ -6,7 +6,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -16,11 +16,11 @@ ht-degree: 2%
 
 ## 如何存取進階搜尋 {#how-to-access-advanced-search}
 
-1. 在網頁應用程式中，按一下 **指揮中心**.
+1. 在網頁應用程式中，按一下&#x200B;**命令中心**。
 
    ![](assets/advanced-search-overview-1.png)
 
-1. 按一下 **電子郵件**.
+1. 按一下&#x200B;**電子郵件**。
 
    ![](assets/advanced-search-overview-2.png)
 
@@ -40,7 +40,7 @@ ht-degree: 2%
 
 ![](assets/advanced-search-overview-5.png)
 
-**人員**
+**誰**
 
 在「人員」區段中依電子郵件收件者/寄件者篩選。
 
@@ -143,11 +143,11 @@ _**狀態：未傳遞**_
 
 以下說明如何建立已儲存的搜尋。
 
-1. 設定好所有的篩選器後，請按一下 **另存篩選器**.
+1. 所有篩選器都就緒後，按一下&#x200B;**儲存篩選器為**。
 
    ![](assets/advanced-search-overview-13.png)
 
-1. 提供搜尋名稱，然後按一下 **儲存**.
+1. 提供搜尋名稱，然後按一下[儲存]。****
 
    ![](assets/advanced-search-overview-14.png)
 

@@ -20,19 +20,19 @@ ht-degree: 0%
 
 可使用下列流程動作：
 
-* [!UICONTROL 新增至Microsoft Campaign]
+* [!UICONTROL 新增至Microsoft行銷活動]
 * [!UICONTROL 從Microsoft Campaign移除]
 
 >[!NOTE]
 >
->**[!UICONTROL 從Microsoft Campaign移除]** 只會移除使用Marketo中的「流量」動作新增的人員。
+>**[!UICONTROL 從Microsoft Campaign移除]**&#x200B;只會移除使用Marketo中的流量動作新增的人員。
 
 此外還有兩個觸發程式：
 
-* [!UICONTROL 新增至Microsoft Campaign]
-* [!UICONTROL 已從Microsoft Campaign中移除]
+* [!UICONTROL 已新增至Microsoft行銷活動]
+* [!UICONTROL 已從Microsoft Campaign移除]
 
-觸發器將根據來自Marketo流程動作的動作執行」[!UICONTROL 新增至Microsoft Campaign]「和」[!UICONTROL 已從Microsoft Campaign中移除].」
+觸發器將根據來自Marketo流程動作&quot;[!UICONTROL 新增到Microsoft Campaign]&quot;和&quot;[!UICONTROL 從Microsoft Campaign]移除&quot;的動作執行。
 
 >[!NOTE]
 >
@@ -40,5 +40,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [啟用Campaign同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
->* [新增或移除Dynamics行銷活動中的人員](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}
+>* [啟用Campaign同步處理](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
+>* [從您的Dynamics行銷活動新增或移除人員](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}

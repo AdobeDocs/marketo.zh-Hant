@@ -2,11 +2,11 @@
 description: 許可權 — Marketo檔案 — 產品檔案
 title: 權限
 feature: Dynamic Chat
-exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
+exl-id: 06798ac4-636b-476e-bbb1-498062844406
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '724'
-ht-degree: 8%
+ht-degree: 4%
 
 ---
 
@@ -16,15 +16,15 @@ ht-degree: 8%
 
 ## 編輯現有許可權 {#edit-existing-permissions}
 
-1. 在 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}，按一下 **Dynamic Chat**.
+1. 在[Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}中，按一下&#x200B;**Dynamic Chat**。
 
    ![](assets/permissions-1.png)
 
-1. 在 **產品設定檔** 標籤，選取要編輯的設定檔。 在此範例中，我們選擇 **即時代理程式**.
+1. 在&#x200B;**產品設定檔**&#x200B;索引標籤中，選取您要編輯的設定檔。 在此範例中，我們選擇&#x200B;**即時代理程式**。
 
    ![](assets/permissions-2.png)
 
-1. 按一下 **許可權** 標籤。
+1. 按一下「**許可權**」標籤。
 
    ![](assets/permissions-3.png)
 
@@ -32,7 +32,7 @@ ht-degree: 8%
 
    ![](assets/permissions-4.png)
 
-1. 可用的許可權專案會列在左側。 您可以選擇逐一新增許可權，或一次新增所有許可權。 在此範例中，只有一個可用，因此我們將新增該專案。 按一下 **+** 簽署。
+1. 可用的許可權專案會列在左側。 您可以選擇逐一新增許可權，或一次新增所有許可權。 在此範例中，只有一個可用，因此我們將新增該專案。 按一下&#x200B;**+**&#x200B;符號。
 
    ![](assets/permissions-5.png)
 
@@ -50,15 +50,15 @@ ht-degree: 8%
 
 ## 建立設定檔 {#create-a-profile}
 
-1. 在 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}，按一下 **Dynamic Chat**.
+1. 在[Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}中，按一下&#x200B;**Dynamic Chat**。
 
    ![](assets/permissions-8.png)
 
-1. 在 **產品設定檔** 標籤，按一下 **新設定檔**.
+1. 在&#x200B;**產品設定檔**&#x200B;索引標籤中，按一下&#x200B;**新增設定檔**。
 
    ![](assets/permissions-9.png)
 
-1. **名稱** 您的產品設定檔。 您可以選擇為其提供顯示名稱和/或說明，並選擇在使用者新增/移除時通知使用者。 按一下 **儲存** 完成時。
+1. **為您的產品設定檔命名**。 您可以選擇為其提供顯示名稱和/或說明，並選擇在使用者新增/移除時通知使用者。 完成時，按一下&#x200B;**儲存**。
 
    ![](assets/permissions-10.png)
 
@@ -66,7 +66,7 @@ ht-degree: 8%
 
    ![](assets/permissions-11.png)
 
-1. 現在請依照以下說明中的步驟3-6： [上一節](#edit-existing-permissions) 用於每個所需區域。
+1. 現在，請對每個所需區域執行上述[區段](#edit-existing-permissions)中的步驟3-6。
 
 ## 許可權清單 {#list-of-permissions}
 
@@ -84,10 +84,10 @@ ht-degree: 8%
     <td>交談管理</td>
     <td><li>檢視對話方塊</li>
     <li>管理對話方塊（建立、刪除）</li>
-    <li>發佈對話方塊</li>
+    <li>Publish對話方塊</li>
     <li>檢視對話流程</li>
     <li>管理對話流程（建立、刪除）</li>
-    <li>發佈交談流程</li></td>
+    <li>Publish對話流程</li></td>
   </tr>
   <tr>
     <td>即時聊天</td>
@@ -116,20 +116,20 @@ ht-degree: 8%
     <td><li>檢視循環配置資源</li>
     <li>檢視自訂規則</li>
     <li>管理自訂規則（新增、編輯、刪除）</li>
-    <li>檢視帳戶清單 <b>*</b></li>
+    <li>檢視帳戶清單<b>*</b></li>
     <li>管理帳戶（新增、編輯、刪除） <b>*</b></li>
     <li>管理聊天機器人設定</li>
     <li>管理對話流程設定</li>
     <li>管理隱私權與安全性</li>
     <li>管理整合</li>
     <li>管理代理程式</li>
-    <li>檢視代理程式團隊 <b>*</b></li>
+    <li>檢視代理程式群組<b>*</b></li>
     <li>管理代理程式團隊（新增、編輯、刪除） <b>*</b></li></td>
   </tr>
 </tbody>
 </table>
 
-**&#42;** 目前僅適用於Dynamic Prime使用者
+**&#42;**&#x200B;目前僅適用於Dynamic Prime使用者
 
 <p>
 
@@ -150,30 +150,30 @@ ht-degree: 8%
     <td><i>交談管理</i>
     <li>檢視對話方塊</li>
     <li>管理對話方塊（建立、刪除）</li>
-    <li>發佈對話方塊</li>
+    <li>Publish對話方塊</li>
     <li>檢視對話流程</li>
     <li>管理對話流程（建立、刪除）</li>
-    <li>發佈交談流程</li>
+    <li>Publish對話流程</li>
     <br>
-    <i>即時聊天</i>
+    <i>即時交談</i>
     <li>不適用</li>
     <br>
     <i>會議</i>
     <li>不適用</li>
     <br>
-    <i>Analytics</i>
+    <i>分析</i>
     <li>檢視全域效能報表</li>
     <li>檢視即時聊天報告</li>
     <li>檢視會議報告</li>
     <br>
-    <i>專員設定</i>
+    <i>代理程式設定</i>
     <li>不適用</li>
     <br>
     <i>管理員設定</i>
     <li>檢視循環配置資源</li>
     <li>檢視自訂規則</li>
-    <li>檢視帳戶清單 <b>*</b></li>
-    <li>檢視代理程式團隊 <b>*</b></li>
+    <li>檢視帳戶清單<b>*</b></li>
+    <li>檢視代理程式群組<b>*</b></li>
     </td>
   </tr>
   <tr>
@@ -182,18 +182,18 @@ ht-degree: 8%
     <li>檢視對話方塊</li>
     <li>檢視對話流程</li>
     <br>
-    <i>即時聊天</i>
+    <i>即時交談</i>
     <li>檢視我的交談</li>
     <br>
     <i>會議</i>
     <li>不適用</li>
     <br>
-    <i>Analytics</i>
+    <i>分析</i>
     <li>檢視全域效能報表</li>
     <li>檢視即時聊天報告</li>
     <li>檢視會議報告</li>
     <br>
-    <i>專員設定</i>
+    <i>代理程式設定</i>
     <li>管理即時聊天可用性</li>
     <li>連線您的行事曆</li>
     <li>管理行事曆可用性</li>
@@ -201,8 +201,8 @@ ht-degree: 8%
     <i>管理員設定</i>
     <li>檢視循環配置資源</li>
     <li>檢視自訂規則</li>
-    <li>檢視帳戶清單 <b>*</b></li>
-    <li>檢視代理程式團隊 <b>*</b></li>
+    <li>檢視帳戶清單<b>*</b></li>
+    <li>檢視代理程式群組<b>*</b></li>
     </td>
   </tr>
   <tr>
@@ -211,26 +211,26 @@ ht-degree: 8%
     <li>檢視對話方塊</li>
     <li>檢視對話流程</li>
     <br>
-    <i>即時聊天</i>
+    <i>即時交談</i>
     <li>不適用</li>
     <br>
     <i>會議</i>
     <li>不適用</li>
     <br>
-    <i>Analytics</i>
+    <i>分析</i>
     <li>檢視全域效能報表</li>
     <li>檢視即時聊天報告</li>
     <li>檢視會議報告</li>
     <br>
-    <i>專員設定</i>
+    <i>代理程式設定</i>
     <li>連線您的行事曆</li>
     <li>管理行事曆可用性</li>
     <br>
     <i>管理員設定</i>
     <li>檢視循環配置資源</li>
     <li>檢視自訂規則</li>
-    <li>檢視帳戶清單 <b>*</b></li>
-    <li>檢視代理程式團隊 <b>*</b></li>
+    <li>檢視帳戶清單<b>*</b></li>
+    <li>檢視代理程式群組<b>*</b></li>
     </td>
   </tr>
   <tr>
@@ -238,37 +238,37 @@ ht-degree: 8%
     <td><i>交談管理</i>
     <li>檢視對話方塊</li>
     <li>管理對話方塊（建立、刪除）</li>
-    <li>發佈對話方塊</li>
+    <li>Publish對話方塊</li>
     <li>檢視對話流程</li>
     <li>管理對話流程（建立、刪除）</li>
-    <li>發佈交談流程</li>
+    <li>Publish對話流程</li>
     <br>
-    <i>即時聊天</i>
+    <i>即時交談</i>
     <li>不適用</li>
     <br>
     <i>會議</i>
     <li>不適用</li>
     <br>
-    <i>Analytics</i>
+    <i>分析</i>
     <li>檢視全域效能報表</li>
     <li>檢視即時聊天報告</li>
     <li>檢視會議報告</li>
     <li>匯出報告</li>
     <br>
-    <i>專員設定</i>
+    <i>代理程式設定</i>
     <li>不適用</li>
     <br>
     <i>管理員設定</i>
     <li>檢視循環配置資源</li>
     <li>檢視自訂規則</li>
     <li>管理自訂規則（新增、編輯、刪除）</li>
-    <li>檢視帳戶清單 <b>*</b></li>
+    <li>檢視帳戶清單<b>*</b></li>
     <li>管理帳戶（新增、編輯、刪除） <b>*</b></li>
     <li>管理聊天機器人設定</li>
     <li>管理對話流程設定</li>
     <li>管理隱私權與安全性</li>
     <li>管理整合</li>
-    <li>檢視代理程式團隊 <b>*</b></li>
+    <li>檢視代理程式群組<b>*</b></li>
     </td>
   </tr>
   <tr>
@@ -277,20 +277,20 @@ ht-degree: 8%
     <li>檢視對話方塊</li>
     <li>檢視對話流程</li>
     <br>
-    <i>即時聊天</i>
+    <i>即時交談</i>
     <li>檢視我的交談</li>
     <li>檢視所有交談</li>
     <br>
     <i>會議</i>
     <li>管理所有會議</li>
     <br>
-    <i>Analytics</i>
+    <i>分析</i>
     <li>檢視全域效能報表</li>
     <li>檢視即時聊天報告</li>
     <li>檢視會議報告</li>
     <li>匯出報告</li>
     <br>
-    <i>專員設定</i>
+    <i>代理程式設定</i>
     <li>管理即時聊天可用性</li>
     <li>連線您的行事曆</li>
     <li>管理行事曆可用性</li>
@@ -299,14 +299,14 @@ ht-degree: 8%
     <li>檢視循環配置資源</li>
     <li>檢視自訂規則</li>
     <li>管理自訂規則（新增、編輯、刪除）</li>
-    <li>檢視帳戶清單 <b>*</b></li>
+    <li>檢視帳戶清單<b>*</b></li>
     <li>管理帳戶（新增、編輯、刪除） <b>*</b></li>
     <li>管理代理程式</li>
-    <li>檢視代理程式團隊 <b>*</b></li>
-    <li>管理代理程式團隊 <b>*</b></li>
+    <li>檢視代理程式群組<b>*</b></li>
+    <li>管理代理程式群組<b>*</b></li>
     </td>
   </tr>
 </tbody>
 </table>
 
-**&#42;** 目前僅適用於Dynamic Prime使用者
+**&#42;**&#x200B;目前僅適用於Dynamic Prime使用者

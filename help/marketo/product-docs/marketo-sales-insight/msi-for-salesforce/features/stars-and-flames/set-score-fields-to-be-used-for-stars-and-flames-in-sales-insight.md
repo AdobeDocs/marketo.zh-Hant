@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,37 +17,37 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-依預設，Marketo Sales Insight會使用 **潛在客戶分數** 計算星星和火焰的欄位。 但如果您想挑選不同的欄位，選擇方法如下：
+依預設，Marketo Sales Insight會使用&#x200B;**潛在客戶分數**&#x200B;欄位來計算星星和火焰。 但如果您想挑選不同的欄位，選擇方法如下：
 
 >[!TIP]
 >
->如果您還沒有自訂分數欄位，以下說明該怎麼做 [建立](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 它們。
+>如果您還沒有自訂分數欄位，以下說明如何[建立](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)這些欄位。
 
 >[!NOTE]
 >
 >**定義**
 >
->* **星級**：星星代表和其他潛在客戶相較之下的總潛在客戶分數。
+>* **顆星**：顆星代表與其他潛在客戶相較之下的潛在客戶總分數。
 >* **火焰**：火焰代表急迫性 — 潛在客戶分數最近已變更多少。
 >
 
-1. 在 **管理員**，按一下 **銷售分析**.
+1. 在&#x200B;**管理員**&#x200B;底下，按一下&#x200B;**銷售分析**。
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. 在 **潛在客戶評分設定**，按一下 **編輯**.
+1. 在&#x200B;**潛在客戶評分設定**&#x200B;下，按一下&#x200B;**編輯**。
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. 選取您要使用的欄位 **星級**.
+1. 選取您要用於&#x200B;**顆星**&#x200B;的欄位。
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. 選取您要使用的欄位 **火焰**.
+1. 選取您要用於&#x200B;**火焰**&#x200B;的欄位。
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 

@@ -23,10 +23,10 @@ ht-degree: 0%
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. 太棒了！ 智慧型行銷活動已重新排程。 時間也可以從 **[!UICONTROL 日期]** 專案詳細資訊中的下拉式清單。
+1. 太棒了！ 智慧型行銷活動已重新排程。 時間也可以從專案詳細資料中的&#x200B;**[!UICONTROL Date]**&#x200B;下拉式清單變更。
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
 >[!MORELIKETHIS]
 >
->[從排程檢視重新排程整個方案](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}
+>[從排程檢視重新排程整個程式](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}

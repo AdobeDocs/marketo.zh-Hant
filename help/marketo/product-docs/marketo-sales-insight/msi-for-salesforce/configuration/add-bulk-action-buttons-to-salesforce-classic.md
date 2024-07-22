@@ -16,15 +16,15 @@ ht-degree: 0%
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. 按一下 **設定**. 搜尋「搜尋配置」並按一下 **搜尋版面** 在 **銷售機會**.
+1. 按一下&#x200B;**設定**。 搜尋「搜尋配置」，然後按一下&#x200B;**銷售機會**&#x200B;底下的&#x200B;**搜尋配置**。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. 按一下 **編輯** 在 **潛在客戶清單檢視** 列。
+1. 按一下&#x200B;**潛在客戶清單檢視**&#x200B;列中的&#x200B;**編輯**。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. 新增 **新增至Marketo Campaign**， **傳送Marketo電子郵件**、和 **新增至監看清單** 按鈕至 **選取的按鈕** 和 **儲存**.
+1. 新增&#x200B;**新增至Marketo Campaign**、**傳送Marketo電子郵件**&#x200B;以及&#x200B;**新增至監看清單**&#x200B;按鈕至&#x200B;**選取的按鈕**&#x200B;和&#x200B;**儲存**。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 複製行銷活動可以節省您的時間。 不需要從頭開始建立所有內容 — 複製會使用完全相同的智慧列示篩選器和流程步驟建立相同的行銷活動。
 
-1. 選取您要複製的促銷活動。 在 **[!UICONTROL 行銷活動動作]** 下拉式清單，選取 **[!UICONTROL 原地複製]**.
+1. 選取您要複製的促銷活動。 在&#x200B;**[!UICONTROL 促銷活動動作]**&#x200B;下拉式清單中，選取&#x200B;**[!UICONTROL 複製]**。
 
    ![](assets/campaign-actions-clone-a-smart-campaign-1.png)
 
-1. 選擇適當的 **[!UICONTROL 原地複製至]** 選項。 在此範例中，讓我們選擇 **[!UICONTROL 計畫]**.
+1. 選擇適當的&#x200B;**[!UICONTROL 複製至]**&#x200B;選項。 在此範例中，讓我們選擇&#x200B;**[!UICONTROL 程式]**。
 
    ![](assets/campaign-actions-clone-a-smart-campaign-2.png)
 
-1. 選擇 **[!UICONTROL 計畫]**. 輸入 **[!UICONTROL 行銷活動名稱]** 並按一下 **[!UICONTROL 原地複製]**.
+1. 選擇&#x200B;**[!UICONTROL 程式]**。 輸入&#x200B;**[!UICONTROL 促銷活動名稱]**&#x200B;並按一下&#x200B;**[!UICONTROL 複製]**。
 
    ![](assets/campaign-actions-clone-a-smart-campaign-3.png)
 

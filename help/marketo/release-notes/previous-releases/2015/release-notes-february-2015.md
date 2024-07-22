@@ -6,7 +6,7 @@ exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 行銷自動化增強功能 {#marketing-automation-enhancements}
 
-**[移動智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
+**[移動Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
 
 歡呼！ 現在，您可以使用拖放或樹狀結構中的移動功能，將智慧型行銷活動移入和移出方案。
 
-**[Dynamics 2015 （線上）](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)**  — 支援！
+**[Dynamics 2015 （線上）](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** — 支援！
 
 **HTTPS憑證變更**
 
@@ -33,20 +33,20 @@ ht-degree: 0%
 
 * [marketo.com](https://marketo.com) （主要SaaS應用程式）
 
-此作業將於此版本發行後不久進行。 SHA-1通訊協定將暫時受支援 [mktoapi.com](https://mktoapi.com) 網域延長至2015年12月，讓舊版系統和應用程式的擁有者能夠更新其系統，使其具備SHA-2相容性。
+此作業將於此版本發行後不久進行。 在2015年12月之前，[mktoapi.com](https://mktoapi.com)網域將暫時支援SHA-1通訊協定，以允許舊版系統和應用程式的擁有者更新其系統以與SHA-2相容。
 
 **安全Munchkin**
 
 我們正在移除對SSL3的支援。 我們維持了SSL3直到現在為止，以維持對舊版網頁瀏覽器的支援，但在2015年，我們不再看到來自這些瀏覽器的重大網頁流量。 這只會影響用於安全頁面的Munchkin，且在2月發行後才會緩慢推出。
 
-## 即時個人化增強功能 {#real-time-personalization-enhancements}
+## 即時Personalization增強功能 {#real-time-personalization-enhancements}
 
-**[行銷活動的目標URL](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
+行銷活動的&#x200B;**[目標URL](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
 
 使用「新增目標URL」選取您想要即時行銷活動顯示的頁面。 此功能適用於所有行銷活動型別（對話方塊、In Zone、Widget），但對於In Zone行銷活動尤其有用，因為該行銷活動只會在Zone ID中顯示所選的目標URL。 支援新增多個URL以鎖定不同的網頁。
 
 ![](assets/image2015-2-19-11-3a0-3a30.png)
 
-**新增至帳戶型定位的國家/地區和州**
+**國家/地區和州已新增至帳戶型鎖定目標**
 
 現在可將國家/地區和州新增到您的具名帳戶清單中。 從特定位置鎖定主要帳戶潛在客戶。

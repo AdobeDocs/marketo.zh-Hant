@@ -6,7 +6,7 @@ exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '291'
 ht-degree: 1%
 
 ---
@@ -17,38 +17,38 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* 完成 [使用網頁個人化資料重新進行目標定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 設定
->* 檢閱 [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [有關自訂對象的Facebook檔案](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) 和再行銷。
+>* 完成使用Web Personalization資料重新鎖定目標的[設定](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* 檢閱關於自訂對象](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)和再行銷的[](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook檔案。
 
 ## 在Facebook中建立對象 {#creating-an-audience-in-facebook}
 
-1. 在Facebook中，前往 [對象索引標籤](https://www.facebook.com/ads/audience_manager) 在「廣告管理員」中。
+1. 在Facebook中，前往廣告管理員中的[對象標籤](https://www.facebook.com/ads/audience_manager)。
 
-1. 按一下 **工具** 並選取 **受眾**.
+1. 按一下&#x200B;**工具**&#x200B;並選取&#x200B;**對象**。
 
    ![](assets/one-1.png)
 
-1. 按一下 **建立自訂對象**.
+1. 按一下&#x200B;**建立自訂對象**。
 
    ![](assets/two-1.png)
 
-1. 選取 **網站流量**.
+1. 選取&#x200B;**網站流量**。
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. 在網站流量清單中，選取 **自訂組合**.
+1. 在網站流量清單中，選取&#x200B;**自訂組合**。
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
-1. 在「包含」清單中，選取 **事件**.
+1. 在「包含」清單中，選取&#x200B;**事件**。
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. 在「事件」清單中，選取 **RTP再行銷** 並選取引數。
+1. 在[事件]清單中，選取&#x200B;**RTP再行銷**&#x200B;並選取引數。
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. 在此範例中，選取要包含的產業 **教育**. 輸入 **教育**，並編輯 **過去** 為180天。 輸入對象名稱： **教育產業**. 按一下 **建立對象**.
+1. 在此範例中，選取[產業]以包含&#x200B;**教育**。 輸入&#x200B;**教育**，並將過去&#x200B;**的**&#x200B;編輯為180天。 輸入對象名稱： **教育產業**。 按一下&#x200B;**建立對象**。
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -103,13 +103,13 @@ ht-degree: 1%
 
 ## 使用廣告鎖定目標對象 {#target-your-audience-with-an-ad}
 
-如需其他詳細資訊，請參閱 [facebook的檔案](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
+如需其他詳細資料，請參閱[Facebook的檔案](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)。
 
-1. 前往廣告管理員，按一下 **建立廣告**.
+1. 前往廣告管理員，按一下&#x200B;**建立廣告**。
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. 選取 **將人員傳送至您的網站** 作為行銷活動的目標。
+1. 選取&#x200B;**將人員傳送至您的網站**&#x200B;作為行銷活動的目標。
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
@@ -129,5 +129,5 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->* [使用網頁個人化資料重新進行目標定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* [Google中的個人化再行銷](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+>* [使用網頁Personalization資料重新進行目標定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* 在Google中[個人化的再行銷](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)

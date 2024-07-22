@@ -14,21 +14,21 @@ ht-degree: 0%
 
 請依照本文的步驟，授與您的Sales Insight Actions使用者存取Marketo連線的許可權。 這將可解鎖「即時摘要」中「有趣時刻」等功能以及行銷活動的存取權。
 
-您必須邀請使用者 [銷售分析動作](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) 在「Marketo >團隊存取權」頁面（位於「銷售分析動作」）中看到連線之前，會先在此頁面授予Marketo連線的存取權。
+您必須先邀請使用者[Sales Insight Actions](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users)，才能顯示在Marketo > Team Access頁面（位於Sales Insight Actions中）中，此頁面已授予Marketo連線的存取權。
 
 >[!CAUTION]
 >
 >在執行這些步驟之前，請先在連線銷售分析動作與Marketo之後等待十分鐘。
 
-1. 按一下齒輪圖示並選取 **設定**.
+1. 按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/grant-marketo-access-to-users-1.png)
 
-1. 在管理設定下，按一下 **Marketo**.
+1. 在「管理設定」底下，按一下&#x200B;**Marketo**。
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. 按一下 **使用者存取** 標籤。 選取一或多個使用者，然後按一下 **連線**.
+1. 按一下「**使用者存取**」標籤。 選取一或多個使用者，然後按一下[連線]。****
 
    ![](assets/grant-marketo-access-to-users-3.png)
 
@@ -40,11 +40,11 @@ ht-degree: 0%
 
    ![](assets/grant-marketo-access-to-users-4.png)
 
-   **選擇性步驟**：按一下「工作區」下拉式清單，然後選取您所需的工作區。
+   **選擇性步驟**：按一下Workspace下拉式清單，然後選取您想要的工作區。
 
    ![](assets/grant-marketo-access-to-users-5.png)
 
-1. 按一下 **連線**.
+1. 按一下&#x200B;**連線**。
 
    ![](assets/grant-marketo-access-to-users-6.png)
 

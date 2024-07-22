@@ -15,21 +15,21 @@ ht-degree: 0%
 
 您可以手動新增傳入連結。 方法如下：
 
-1. 前往 **[!UICONTROL 傳入連結]** 區段。
+1. 移至&#x200B;**[!UICONTROL 傳入連結]**&#x200B;區段。
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. 按一下 **[!UICONTROL 新增URL]**.
+1. 按一下&#x200B;**[!UICONTROL 新增URL]**。
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. 輸入URL。 按一下 **[!UICONTROL 新增]**.
+1. 輸入URL。 按一下&#x200B;**[!UICONTROL 新增]**。
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 
    >[!TIP]
    >
-   >您知道您可以 [將您的傳入連結新增至新清單或現有清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}？ 立即檢視！
+   >您知道您可以[將傳入連結新增至新的或現有的清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}嗎？ 立即檢視！
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 

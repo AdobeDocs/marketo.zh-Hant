@@ -6,7 +6,7 @@ exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 ## 儀表板 {#dashboard}
 
-控制面板會彙總指定帳戶內所有人員的帳戶層級關鍵深入分析，因此不需要前往每個人評估其進度。 您可以使用更深入探究電子郵件活動 [電子郵件深入分析](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+控制面板會彙總指定帳戶內所有人員的帳戶層級關鍵深入分析，因此不需要前往每個人評估其進度。 您可以使用[電子郵件深入分析](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing)，更深入瞭解電子郵件活動。
 
 >[!NOTE]
 >
 >圖表顯示過去90天的深入分析。
 
-**一段時間的帳戶參與** 按一下 **檢視** 右側的下拉式清單，用以變更您的檢視方式。 除了帳戶分數，您可以依總收入檢視……
+**一段時間內的帳戶參與度**&#x200B;按一下右側的&#x200B;**檢視**&#x200B;下拉式清單，以變更您檢視的內容。 除了帳戶分數，您可以依總收入檢視……
 
 ![](assets/two-new.png)
 
@@ -56,15 +56,15 @@ Marketo Sales Insight的使用者可檢視帳戶層級累積的有趣時刻。
 
 ![](assets/int-mom.png)
 
-**前幾名**
+**熱門人員**
 
-系統會根據指定帳戶的使用者所顯示的造訪間隔或緊急程度，計算使用者的優先順序(與 [首選](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) （在銷售分析中），或由使用者定義的分數。 **優先順序** 僅供Marketo Sales Insight的使用者使用。
+系統會根據指定帳戶之人員所顯示的造訪間隔或急迫性（與Sales Insight中的[首選](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)相同）優先順序或使用者定義的分數來計算這些人員。 **優先順序**&#x200B;僅適用於Marketo Sales Insight的使用者。
 
 ![](assets/top-ten.png)
 
 **包含子項**
 
-按一下 **包含子項** 檢視並選擇所選具名帳戶的子帳戶，以及檢視其彙總分析。
+按一下&#x200B;**包含子系**，檢視並選擇所選具名帳戶的子帳戶，並檢視其彙總分析。
 
 ![](assets/abm.png)
 
@@ -92,7 +92,7 @@ Marketo Sales Insight的使用者可檢視帳戶層級累積的有趣時刻。
 
 >[!NOTE]
 >
->若要新增任何列出的人員，請選取人員並按一下 **新增人員**.
+>若要新增任何列出的人員，請選取他們並按一下&#x200B;**新增人員**。
 
 ## 使用者 {#used-by}
 
@@ -108,10 +108,10 @@ Marketo Sales Insight的使用者可檢視帳戶層級累積的有趣時刻。
 
 >[!NOTE]
 >
->按一下 **帳戶團隊動作** 下拉式清單，以新增/移除帳戶成員，或指派帳戶擁有者。
+>按一下&#x200B;**帳戶團隊動作**&#x200B;下拉式清單，以新增/移除帳戶成員，或指派帳戶擁有者。
 
 ## ICP指標 {#icp-indicators}
 
-檢視您選取要匯出的ICP指標 [調整您的模型](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
+檢視您在[調整模型](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning)時選取要匯出的ICP指標。
 
 ![](assets/eight.png)

@@ -6,7 +6,7 @@ exl-id: 290db451-47a6-4cfa-a36f-bc12ef7d3482
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -19,21 +19,21 @@ Marketo Sales Insight是極好的工具，可讓您的銷售團隊透過一個�
 >
 >完成您的Marketo-Microsoft整合。
 >
->[下載正確的解決方案](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) 適用於您的Microsoft Dynamics CRM版本。
+>[下載您Microsoft Dynamics CRM版本的正確解決方案](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。
 
 ## 匯入解決方案 {#import-solution}
 
 好，現在可以將Marketo Sales Insight解決方案匯入Microsoft Dynamics了。
 
-1. 在 **Microsoft Dynamics CRM** 按一下 **設定**.
+1. 在&#x200B;**Microsoft Dynamics CRM**&#x200B;底下，按一下&#x200B;**設定**。
 
    ![](assets/image2014-12-12-9-3a4-3a56.png)
 
-1. 在 **設定**，按一下 **自訂**.
+1. 在&#x200B;**設定**&#x200B;下，按一下&#x200B;**自訂**。
 
    ![](assets/image2014-12-12-9-3a5-3a6.png)
 
-1. 按一下 **解決方案**.
+1. 按一下&#x200B;**解決方案**。
 
    ![](assets/image2014-12-12-9-3a5-3a17.png)
 
@@ -41,11 +41,11 @@ Marketo Sales Insight是極好的工具，可讓您的銷售團隊透過一個�
    >
    >在繼續之前，您應該已安裝並設定Marketo
 
-1. 按一下 **匯入**.
+1. 按一下&#x200B;**匯入**。
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
-1. 在新視窗中，按一下 **瀏覽**.
+1. 在新視窗中，按一下&#x200B;**瀏覽**。
 
    ![](assets/image2014-12-12-9-3a5-3a36.png)
 
@@ -53,15 +53,15 @@ Marketo Sales Insight是極好的工具，可讓您的銷售團隊透過一個�
 
    ![](assets/image2014-12-12-9-3a5-3a45.png)
 
-1. 按一下 **下一個**.
+1. 按一下&#x200B;**下一步**。
 
    ![](assets/image2014-12-12-9-3a5-3a55.png)
 
-1. 解決方案將會上傳。 您可以視需要檢視封裝內容。 按一下 **下一個**.
+1. 解決方案將會上傳。 您可以視需要檢視封裝內容。 按一下&#x200B;**下一步**。
 
    ![](assets/image2014-12-12-9-3a6-3a10.png)
 
-1. 請確定保留核取方塊，然後按一下 **匯入**.
+1. 請確定核取此方塊，然後按一下[匯入]。****
 
    ![](assets/image2014-12-12-9-3a6-3a19.png)
 
@@ -81,15 +81,15 @@ Marketo Sales Insight是極好的工具，可讓您的銷售團隊透過一個�
 >
 >需要管理員許可權。
 
-1. 登入Marketo並前往 **管理員** 區段。
+1. 登入Marketo並移至&#x200B;**管理員**&#x200B;區段。
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. 在 **銷售分析** 區段點按 **編輯API設定**.
+1. 在&#x200B;**銷售分析**&#x200B;區段下，按一下&#x200B;**編輯API設定**。
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. 複製 **Marketo主機**， **API URL**、和 **API使用者ID** 以供在後續步驟中使用。 輸入 **API秘密金鑰** ，然後按一下 **儲存**.
+1. 複製&#x200B;**Marketo主機**、**API URL**&#x200B;和&#x200B;**API使用者ID**，以供稍後步驟使用。 輸入您選擇的&#x200B;**API秘密金鑰**，然後按一下&#x200B;**儲存**。
 
    >[!CAUTION]
    >
@@ -99,27 +99,27 @@ Marketo Sales Insight是極好的工具，可讓您的銷售團隊透過一個�
 
    >[!NOTE]
    >
-   >下列欄位必須與Marketo同步， _潛在客戶與連絡人_ 讓Sales Insight發揮作用：
+   >下列欄位必須與Marketo同步，_潛在客戶和連絡人_&#x200B;才能使用銷售分析功能：
    >
    >* 優先順序
    >* 急迫性
    >* 相對分數
    >
-   >如果缺少這些欄位，您會在Marketo中看到錯誤訊息，其中包含缺少欄位的名稱。 若要修正此問題，請執行 [此程式](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
+   >如果缺少這些欄位，您會在Marketo中看到錯誤訊息，其中包含缺少欄位的名稱。 若要修正此問題，請執行[此程式](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)。
 
-1. 返回Microsoft Dynamics，前往 **設定**.
+1. 返回Microsoft Dynamics，前往&#x200B;**設定**。
 
    ![](assets/image2014-12-12-9-3a7-3a25.png)
 
-1. 在 **設定**，按一下 **Marketo API設定**.
+1. 在&#x200B;**設定**&#x200B;下，按一下&#x200B;**Marketo API設定**。
 
    ![](assets/image2014-12-12-9-3a7-3a34.png)
 
-1. 按一下 **新增**.
+1. 按一下&#x200B;**新增**。
 
    ![](assets/image2014-12-12-9-3a8-3a8.png)
 
-1. 輸入您先前從Marketo取得的資訊，然後按一下 **儲存**.
+1. 輸入您先前從Marketo取得的資訊，然後按一下[儲存]。****
 
    ![](assets/image2014-12-12-9-3a8-3a17.png)
 
@@ -127,19 +127,19 @@ Marketo Sales Insight是極好的工具，可讓您的銷售團隊透過一個�
 
 最後，您可以授與特定使用者存取Marketo Sales Insight的許可權。
 
-1. 前往 **設定**.
+1. 移至&#x200B;**設定**。
 
    ![](assets/image2014-12-12-9-3a8-3a34.png)
 
-1. 按一下 **使用者**.
+1. 按一下&#x200B;**使用者**。
 
    ![](assets/image2014-12-12-9-3a8-3a42.png)
 
-1. 選取您要授與Sales Insight存取許可權的使用者，然後按一下 **管理角色**.
+1. 選取您要授與Sales Insight存取權的使用者，然後按一下&#x200B;**管理角色**。
 
    ![](assets/image2014-12-12-9-3a9-3a13.png)
 
-1. 選取 **Marketo Sales Insight** 角色並按一下 **確定**.
+1. 選取&#x200B;**Marketo銷售分析**&#x200B;角色，然後按一下&#x200B;**確定**。
 
    ![](assets/image2014-12-12-9-3a9-3a22.png)
 
@@ -151,4 +151,4 @@ Marketo Sales Insight是極好的工具，可讓您的銷售團隊透過一個�
 
 >[!MORELIKETHIS]
 >
->[設定銷售機會/聯絡人記錄的星星和火焰](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
+>[設定潛在客戶/連絡人記錄的星星和火焰](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

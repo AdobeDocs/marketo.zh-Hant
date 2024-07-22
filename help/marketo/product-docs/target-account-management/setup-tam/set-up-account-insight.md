@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->TAM帳戶分數 [必須設定](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) 第一。
+>必須先設定TAM帳戶分數[](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)。
 
-1. 按一下 **管理員**.
+1. 按一下&#x200B;**管理員**。
 
    ![](assets/admin-1.png)
 
-1. 按一下 **目標帳戶管理** 在樹狀結構中，然後 **銷售** 標籤。
+1. 按一下樹狀結構中的&#x200B;**目標帳戶管理**，然後按一下&#x200B;**Sales**&#x200B;標籤。
 
    ![](assets/set-up-account-insight-2.png)
 
-1. 按一下 **編輯**.
+1. 按一下&#x200B;**編輯**。
 
    ![](assets/set-up-account-insight-3.png)
 
@@ -37,8 +37,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果 [帳戶分數設定](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) 會隨時更新，Sales底下的設定需要管理員更新，以確保分數準確地反映使用者的偏好設定。 使用者需要登出並重新登入才能檢視變更。
+   >如果[帳戶分數設定](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)隨時更新，Sales底下的設定必須由管理員更新，以確保分數正確反映使用者的偏好設定。 使用者需要登出並重新登入才能檢視變更。
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/five-4.png)

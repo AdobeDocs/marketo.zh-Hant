@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 銷售活動觸發程式與篩選器 {#sales-activity-triggers-and-filters}
 
-如果您希望更妥善地協調與銷售團隊的互動，或嘗試更清楚瞭解客戶在整個購買歷程中的互動情況，Marketo中的銷售活動深入分析將十分實用。
+如果您想要更妥善地協調與銷售團隊的互動，或嘗試更清楚瞭解客戶在整個購買歷程中的互動情況，Marketo中的銷售活動深入分析將十分實用。
 
 請依照下列步驟，瞭解如何在智慧行銷活動中利用銷售活動篩選器和觸發程式。
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. 在 **智慧清單** 索引標籤中，搜尋「Sales Apps」。
+1. 在&#x200B;**智慧清單**&#x200B;索引標籤中，搜尋「銷售應用程式」。
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如需活動、限制和定義的完整清單，請參閱 [銷售活動字彙表](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).
+>如需活動、限制和定義的完整清單，請參閱我們的[銷售活動字彙表](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)。

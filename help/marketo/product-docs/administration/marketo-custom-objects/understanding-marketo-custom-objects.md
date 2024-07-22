@@ -21,13 +21,13 @@ ht-degree: 0%
 
 在智慧型行銷活動中使用自訂物件作為篩選器和觸發器。 例如：
 
-* **篩選**：僅傳送電子郵件給特定車輛品牌的所有者
-* **觸發**：當自訂物件新增至人員或公司時傳送電子郵件。
+* **篩選器**：只傳送電子郵件給特定車輛品牌的所有者
+* **觸發器**：當自訂物件新增至人員或公司時，請傳送電子郵件。
 
 您可以在一對多或多對多關係中設定自訂物件。 例如：
 
 * **一對多**：一個人擁有多輛汽車
-* **多對多**：多名學生從課程目錄註冊了多個課程
+* **多對多**：多個學生從課程目錄註冊了多個課程
 
 一對多結構使用單一連結欄位來將自訂物件連線到個人或公司。
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
 ## 存取Marketo自訂物件 {#accessing-marketo-custom-objects}
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. 按一下 **[!UICONTROL Marketo自訂物件]**.
+1. 按一下&#x200B;**[!UICONTROL Marketo自訂物件]**。
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -69,17 +69,17 @@ ht-degree: 0%
 
 ## 檢視與個人相關聯的自訂物件 {#view-custom-objects-associated-to-a-person}
 
-建立自訂物件結構後，當您上傳特定自訂物件資料時，自訂物件會自動使用自訂物件中的連結欄位與資料庫中的人員建立關聯。 您可以檢視以下專案的資訊： [!UICONTROL 自訂物件] 「個人詳細資料」頁面上的標籤。
+建立自訂物件結構後，當您上傳特定自訂物件資料時，自訂物件會自動使用自訂物件中的連結欄位與資料庫中的人員建立關聯。 您可以從人員詳細資訊頁面上的[!UICONTROL 自訂物件]索引標籤檢視資訊。
 
-1. 前往 **[!UICONTROL 資料庫]**.
+1. 移至&#x200B;**[!UICONTROL 資料庫]**。
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. 開啟資料庫並按一下 **[!UICONTROL 人員]** 標籤。 連按兩下您與自訂物件相關聯之人員的記錄。
+1. 開啟您的資料庫，然後按一下&#x200B;**[!UICONTROL 人員]**&#x200B;索引標籤。 連按兩下您與自訂物件相關聯之人員的記錄。
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. 在人員詳細資訊頁面上，按一下 **[!UICONTROL 自訂物件]** 標籤。 從下拉式清單中選取物件。
+1. 在人員詳細資訊頁面上，按一下&#x200B;**[!UICONTROL 自訂物件]**&#x200B;標籤。 從下拉式清單中選取物件。
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 
@@ -95,7 +95,7 @@ ht-degree: 0%
 
 自訂物件只能直接連結到單一記錄。 這表示，當您的自訂物件型別依公司欄位連結時，如果您使用Marketo的REST API管理公司，則應確保個人記錄透過CRM中的聯絡人轉換或使用externalCompanyId欄位，與公司相關聯。 對於未明確連結至公司記錄的人員記錄，即使公司欄位的值在多個人之間共用，使用公司連結的自訂物件也將隨機連結至單一記錄。
 
-另請參閱 [匯入自訂物件資料](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) 以取得詳細資訊。
+如需詳細資訊，請參閱[匯入自訂物件資料](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)。
 
 >[!MORELIKETHIS]
 >

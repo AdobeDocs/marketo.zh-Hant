@@ -15,15 +15,15 @@ ht-degree: 0%
 
 使用專案型別、程式標籤或工作區來篩選行事曆上顯示的資訊。
 
-1. 按一下 **[!UICONTROL 行事曆]** 圖磚。
+1. 按一下&#x200B;**[!UICONTROL 行事曆]**&#x200B;圖磚。
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. 按一下 **[!UICONTROL 專案型別]** 下拉式清單。
+1. 按一下&#x200B;**[!UICONTROL 專案型別]**&#x200B;下拉式清單。
 
    >[!NOTE]
    >
-   >預設專案型別將為 **[!UICONTROL 電子郵件]** **[!UICONTROL 計畫]** 和 **[!UICONTROL 使用電子郵件的智慧型行銷活動]**.
+   >預設專案型別將為&#x200B;**[!UICONTROL 電子郵件]** **[!UICONTROL 方案]**&#x200B;以及包含電子郵件的&#x200B;**[!UICONTROL 智慧行銷活動]**。
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如需標準專案型別的說明，請出庫 [程式排程檢視專案型別](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
+   >如需標準專案型別的說明，請檢視[程式排程檢視專案型別](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}。
 
 1. 選取您感興趣的計畫標籤。
 

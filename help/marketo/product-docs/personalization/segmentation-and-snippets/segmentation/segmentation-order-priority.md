@@ -13,22 +13,22 @@ ht-degree: 0%
 
 # 分段順序優先順序 {#segmentation-order-priority}
 
-瞭解如何操作很重要 **訂購** 設定在細分中評估人員的優先順序。
+瞭解&#x200B;**訂單**&#x200B;如何設定分段中人員評估的優先順序很重要。
 
 >[!PREREQUISITES]
 >
->[建立細分](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[建立分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >[定義區段規則](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >
 >您只能在草稿模式中編輯分段。
 
-1. 前往 **資料庫**.
+1. 移至&#x200B;**資料庫**。
 
    ![](assets/segmentation-order-priority-1.png)
 
-1. 選取您的 **細分**. 在 **分段動作**，按一下 **編輯區段**.
+1. 選取您的&#x200B;**分段**。 在&#x200B;**分段動作**&#x200B;中，按一下&#x200B;**編輯區段**。
 
    ![](assets/segmentation-order-priority-2.png)
 

@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->**這將覆蓋** 此 [即時聊天可用性](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} 您已在[代理程式設定]中建立。 狀態會一直保留，直到您將其切換回或在您的可用性中切換至下一個時間區塊為止。
+>**這將覆寫**&#x200B;您在[代理程式設定]中建立的[即時聊天可用性](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"}。 狀態會一直保留，直到您將其切換回或在您的可用性中切換至下一個時間區塊為止。
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## 即時聊天通知 {#live-chat-notifications}
 
-進一步瞭解 [即時聊天總覽](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+進一步瞭解[即時聊天總覽](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}中的通知。
 
 ## 對話 {#conversations}
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ## 結束工作階段 {#end-a-session}
 
-代理程式只要按一下 **結束工作階段** 按鈕來存取訪客資訊。
+代理程式只要按一下訪客資訊旁邊的&#x200B;**結束工作階段**&#x200B;按鈕，就可以手動終止工作階段。
 
 ![](assets/agent-inbox-6.png)
 
@@ -62,13 +62,13 @@ ht-degree: 0%
 >
 >此功能屬於generative AI的一部分，可透過Dynamic Chat Prime訂閱取得。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-捷徑，由generative AI提供技術支援 [回應程式庫](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)，是您與訪客聊天時立即取得協助的絕佳方式。 只要鍵入正斜線(`/`)，然後選擇 `ask` 或 `search`.
+由產生式AI [回應程式庫](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)支援的捷徑，是您與訪客聊天時快速取得協助的絕佳方式。 只要在文字方塊中輸入正斜線(`/`)，並選擇`ask`或`search`即可。
 
 ![](assets/agent-inbox-7.png)
 
-**詢問** 是協助您解答問題。
+**詢問**&#x200B;是協助您回答問題。
 
-1. 輸入或選擇 `/ask` 在文字方塊中。 輸入問題，然後在鍵盤上按Enter鍵。
+1. 在文字方塊中輸入或選擇`/ask`。 輸入問題，然後在鍵盤上按Enter鍵。
 
    ![](assets/agent-inbox-8.png)
 
@@ -76,9 +76,9 @@ ht-degree: 0%
 
    ![](assets/agent-inbox-9.png)
 
-**搜尋** 用於協助尋找與特定文字相關的頁面。
+**搜尋**&#x200B;可協助尋找與特定文字相關的頁面。
 
-1. 輸入或選擇 `/search` 在文字方塊中。
+1. 在文字方塊中輸入或選擇`/search`。
 
    ![](assets/agent-inbox-10.png)
 
@@ -108,7 +108,7 @@ ht-degree: 0%
 
    ![](assets/agent-inbox-14.png)
 
-1. 選擇所需的代理程式行事曆並按一下 **傳送**.
+1. 選擇所需的代理程式行事曆並按一下&#x200B;**傳送**。
 
    ![](assets/agent-inbox-15.png)
 

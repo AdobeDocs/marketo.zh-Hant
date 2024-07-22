@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以輕鬆地將內容手動新增至「所有內容」頁面。
 
-1. 按一下 **新增內容** 下拉式清單並選取 **新增內容**.
+1. 按一下&#x200B;**新增內容**&#x200B;下拉式清單，然後選取&#x200B;**新增內容**。
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -27,12 +27,12 @@ ht-degree: 0%
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. 按一下 **新增**.
+1. 按一下&#x200B;**新增**。
 
    ![](assets/all-content-add-hand.png)
 
-1. 新標題現在會出現在 **所有內容** 頁面。 請注意，尚未核准預測性內容。
+1. 新標題現在會顯示在&#x200B;**所有內容**&#x200B;頁面上。 請注意，尚未核准預測性內容。
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. 以下是其新增至的方式 [預測性內容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md).
+1. 以下說明如何將其新增至[預測性內容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)。

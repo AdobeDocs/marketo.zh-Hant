@@ -6,7 +6,7 @@ exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >大部分的Marketo入門範本都包含模組。 您也可以 [建立您自己的](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >大部分的Marketo入門範本都包含模組。 您也可以[建立您自己的](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules)。
 
-1. 在電子郵件的最右側，按一下 **模組**.
+1. 在電子郵件的最右側，按一下&#x200B;**模組**。
 
    ![](assets/two-3.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/nine-2.png)
 
-1. 按一下齒輪圖示，然後選取 **上移** 或 **下移**，視您希望模組前往何處而定。
+1. 按一下齒輪圖示，並選取&#x200B;**上移**&#x200B;或&#x200B;**下移**，視您希望模組移動的位置而定。
 
    ![](assets/ten-2.png)
 

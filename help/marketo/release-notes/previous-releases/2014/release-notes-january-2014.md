@@ -6,14 +6,14 @@ exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
 
 # 發行說明： 2014年1月 {#release-notes-january}
 
-2014年1月發行版本包含下列功能。 請檢查您的 [Marketo版本](https://www.marketo.com/pricing/) 以取得功能可用性。
+2014年1月發行版本包含下列功能。 請檢查您的[Marketo Edition](https://www.marketo.com/pricing/)是否有功能可用。
 
 ## Forms 2.0 {#forms}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 掌控表單建立流程，讓您的網頁開發人員輕鬆體驗。 Forms 2.0的設計目的，是要讓行銷人員能夠建立視覺上及功能上強大的表單，而不需要程式設計知識。
 
-**為您的Forms提供應有的視覺化改觀：**
+**給您的Forms應有的視覺化改造：**
 
 主題設計、按鈕自訂和彈性版面配置可讓您設計符合網站外觀和感覺的現代外觀表單。
 
-**條件式可見性與後續追蹤頁面邏輯：**
+**條件式可見性和後續追蹤頁面邏輯：**
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
@@ -41,12 +41,12 @@ ht-degree: 0%
 
 ## 電子郵件程式的通訊限制 {#communication-limits-for-email-program}
 
-[設定電子郵件程式的通訊限制](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) 以確保您不會與資料庫過度通訊。 如果人員超過定義的限制，她將不會收到電子郵件。
+[設定電子郵件程式的通訊限制](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md)以確保您不會過度通訊資料庫。 如果人員超過定義的限制，她將不會收到電子郵件。
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## 計畫會員資格分析中的其他欄位 {#additional-fields-in-program-membership-analysis}
 
-現在您可以新增並分組您的 [計畫會員資格分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) 量度（依潛在客戶及公司屬性）。 例如，您可以新增產業欄位，以檢視方案成員與成功的分割。
+現在您可以依潛在客戶與公司屬性，新增與分組您的[方案會員資格分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)量度。 例如，您可以新增產業欄位，以檢視方案成員與成功的分割。
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**表單預填** 預設為啟用。 登陸頁面層級預填設定和管理員層級預填設定優先於表單層級設定：
+>預設會啟用&#x200B;**表單預填**。 登陸頁面層級預填設定和管理員層級預填設定優先於表單層級設定：
 >
 >表單>登陸頁面>管理員
 
 ## 如何停用預填 {#how-to-disable-pre-fill}
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-7.png)
 
-1. 選擇您的表單並按一下 **編輯表單**.
+1. 選取您的表單並按一下&#x200B;**編輯表單**。
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >將表單內嵌在您自己的頁面上時，表單預填無法運作。 它只適用於Marketo登陸頁面。
 
-1. 選取其中一個欄位並設定 **表單預填** 至 **已停用**.
+1. 選取其中一個欄位，並將&#x200B;**表單預填**&#x200B;設定為&#x200B;**已停用**。
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -43,16 +43,16 @@ ht-degree: 0%
    >
    >您也可以停用登入頁面層級或管理員層級的表單預填。
 
-1. 按一下 **完成**.
+1. 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
-1. 按一下 **核准並關閉**.
+1. 按一下&#x200B;**核准並關閉**。
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
 ## 敏感欄位 {#sensitive-fields}
 
-當您 [將欄位標示為敏感](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md)，若避免其值預先填入表單中，您會在「預先填入」選項中看到此選項。
+當您[將欄位標示為敏感欄位](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md)，以防止其值預先填入表單時，您會在預先填入選項中看到此選項。
 
 ![](assets/disable-pre-fill.png)

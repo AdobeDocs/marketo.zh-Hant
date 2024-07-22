@@ -19,7 +19,7 @@ Marketo Engage有三個流程步驟可用於SMS智慧行銷活動：
 <tbody>
   <tr>
     <td style="width:25%">傳送簡訊訊息</td>
-    <td>此流程動作會從Marketo智慧清單傳送訊息給訂閱使用者選擇加入的Vibes訂閱清單的使用者。 它不會起始訂閱程式。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">瞭解更多</a>.</td>
+    <td>此流程動作會從Marketo智慧清單傳送訊息給訂閱使用者選擇加入的Vibes訂閱清單的使用者。 它不會起始訂閱程式。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">深入瞭解</a>。</td>
   </tr>
 
 <tr>
@@ -40,11 +40,11 @@ Marketo Engage有三個流程步驟可用於SMS智慧行銷活動：
 >* Marketo依電話號碼進行重複資料刪除。 因此，如果多人擁有相同的電話號碼，則只有一人會收到訊息，前提是他們只有一個Vibes訂閱清單的成員。 去重複化是在Vibes訂閱清單層級，而非Marketo方案層級完成。
 >* Marketo不會傳送給已加入封鎖名單或行銷遭暫停的人。
 
-如需設定流程步驟的一般資訊，請參閱 [將流量步驟新增至Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
+如需設定流量步驟的一般資訊，請參閱[將流量步驟新增至Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)。
 
 以下是使用SMS的基本知識。
 
-1. 在「我的Marketo」中，按一下 **行銷活動**.
+1. 在「我的Marketo」中，按一下&#x200B;**行銷活動**。
 
    ![](assets/add-a-flow-step-for-sms-1.png)
 
@@ -56,7 +56,7 @@ Marketo Engage有三個流程步驟可用於SMS智慧行銷活動：
 
    熒幕擷圖
 
-1. 在 **流量** 標籤，在流程步驟上拖曳(例如， **傳送簡訊訊息**)。 從下拉式清單中選取SMS訊息和Vibes清單。
+1. 在&#x200B;**流量**&#x200B;索引標籤中，拖曳到流量步驟上（例如&#x200B;**傳送SMS訊息**）。 從下拉式清單中選取SMS訊息和Vibes清單。
 
    ![](assets/send-sms-message-hands.jpg)
 
@@ -64,4 +64,4 @@ Marketo Engage有三個流程步驟可用於SMS智慧行銷活動：
    >
    >「訪客清單」選擇器可作為進一步篩選，用於篩選已在智慧清單中識別的對象，以僅鎖定屬於該「訪客」清單的潛在客戶。
    >
-   >此 **訂閱Vibes清單** 和 **取消訂閱訪客清單** 流程有不同的需求。 的 **訂閱**，您必須選取Vibes清單和Vibes贏取行銷活動。 的 **取消訂閱**，則只需要變數清單。
+   >**訂閱Vibes清單**&#x200B;與&#x200B;**取消訂閱Vibes清單**&#x200B;流程具有不同的需求。 針對&#x200B;**訂閱**，您必須選取Vibes清單和Vibes贏取行銷活動。 對於&#x200B;**取消訂閱**，僅需要Vibes清單。

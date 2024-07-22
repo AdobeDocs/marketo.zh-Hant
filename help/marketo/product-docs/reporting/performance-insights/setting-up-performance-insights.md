@@ -6,7 +6,7 @@ exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 ## 機會設定 {#opportunity-setup}
 
-1. 按一下 **管理員**.
+1. 按一下&#x200B;**管理員**。
 
    ![](assets/admin.png)
 
-1. 按一下 **收入週期分析**.
+1. 按一下&#x200B;**收入週期分析**。
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >如果您沒有RCA，則必須選取 **程式分析** （步驟2）。
+   >如果您沒有RCA，則必須為步驟2選取&#x200B;**程式分析**。
 
-1. 在歸因底下，按一下 **編輯**.
+1. 在歸因底下，按一下&#x200B;**編輯**。
 
    ![](assets/three-1.png)
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 更新計畫成本至少12個月。 您可以手動或使用程式API執行此操作。 在此範例中，我們會手動進行。
 
-1. 按一下 **行銷活動**.
+1. 按一下&#x200B;**行銷活動**。
 
    ![](assets/ma.png)
 
@@ -64,33 +64,33 @@ ht-degree: 0%
 
    ![](assets/select-program.png)
 
-1. 按一下 **設定** 標籤。
+1. 按一下「**設定**」標籤。
 
    ![](assets/setup-tab.png)
 
-1. 拖曳 **期間成本** 放到畫布上。
+1. 將&#x200B;**期間成本**&#x200B;拖曳到畫布上。
 
    ![](assets/period-cost.png)
 
-1. 設定至少12個月前的計畫月份並按一下 **確定**.
+1. 設定至少12個月前的計畫月份，然後按一下&#x200B;**確定**。
 
    ![](assets/set-period.png)
 
-1. 設定期間成本，然後按一下 **儲存**.
+1. 設定期間成本並按一下&#x200B;**儲存**。
 
    ![](assets/set-cost.png)
 
 接下來，檢閱分析行為，指出分析中是否應包含特定管道。 設定Analytics行為（正常、包含、運作）。
 
-1. 按一下 **管理員**.
+1. 按一下&#x200B;**管理員**。
 
    ![](assets/admin.png)
 
-1. 按一下 **標籤**.
+1. 按一下&#x200B;**標籤**。
 
    ![](assets/tags.png)
 
-1. 按一下 **+** 以展開「頻道」清單。
+1. 按一下&#x200B;**+**&#x200B;以展開頻道清單。
 
    ![](assets/channel.png)
 
@@ -98,7 +98,7 @@ ht-degree: 0%
 
    ![](assets/channel-click.png)
 
-1. 按一下 **Analytics行為** 下拉式清單，然後選取需要的行為。
+1. 按一下&#x200B;**Analytics行為**&#x200B;下拉式清單，然後選取想要的行為。
 
    ![](assets/edit-channel.png)
 
@@ -106,7 +106,7 @@ ht-degree: 0%
 
    ![](assets/success.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/save.png)
 

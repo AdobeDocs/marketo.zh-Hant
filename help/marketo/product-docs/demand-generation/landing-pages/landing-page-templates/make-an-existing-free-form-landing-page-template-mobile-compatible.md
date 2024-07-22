@@ -17,27 +17,27 @@ ht-degree: 0%
 
 ## 從範本編輯器升級 {#upgrade-from-the-template-editor}
 
-1. 前往 **Design Studio**.
+1. 移至&#x200B;**設計工作室**。
 
    ![](assets/designstudio-1.png)
 
-1. 選取 **範本**.
+1. 選取&#x200B;**範本**。
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. 選取範本，其中 **與行動裝置相容** 是 **否**.
+1. 選取&#x200B;**行動相容性**&#x200B;為&#x200B;**否**&#x200B;的範本。
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. 按一下 **編輯草稿**.
+1. 按一下&#x200B;**編輯草稿**。
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. 按一下 **讓行動裝置相容**.
+1. 按一下&#x200B;**讓行動裝置相容**。
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. 按一下 **升級**.
+1. 按一下&#x200B;**升級**。
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -69,11 +69,11 @@ ht-degree: 0%
 
 當您編輯登入頁面並按一下行動標籤時，您有時會注意到範本尚未升級。 不要害怕！ 您可以在這裡進行升級。
 
-1. 按一下 **行動** 標籤。
+1. 按一下&#x200B;**行動裝置**&#x200B;標籤。
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. 按一下核取方塊並按一下 **啟動**.
+1. 按一下核取方塊，然後按一下&#x200B;**啟動**。
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 
@@ -81,4 +81,4 @@ ht-degree: 0%
    >
    >啟用行動版範本將會建立使用該範本之任何登入頁面的草稿。
 
-棒極了！ 您現在可以 [自訂行動檢視](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) 使用此範本的所有登入頁面中。
+棒極了！ 您現在可以[自訂使用此範本之所有登入頁面的行動裝置檢視](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)。

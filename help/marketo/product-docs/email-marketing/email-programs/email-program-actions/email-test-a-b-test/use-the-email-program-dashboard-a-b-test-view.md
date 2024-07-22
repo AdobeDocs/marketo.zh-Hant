@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 使用電子郵件計畫控制面板 — A/B測試檢視 {#use-the-email-program-dashboard-a-b-test-view}
 
-瞭解您的 [電子郵件程式A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) 正在使用此儀表板執行。
+檢視您的[電子郵件程式A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)如何使用此儀表板執行。
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 ![](assets/image2014-9-12-16-3a16-3a2.png)
 
-## 點擊次數 {#clicks}
+## 點按次數 {#clicks}
 
 您可以在此處檢視每個變體有多少點按。
 
@@ -45,4 +45,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[使用電子郵件程式控制面板](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>[使用電子郵件程式儀表板](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

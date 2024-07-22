@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## Google Adwords整合 {#google-adwords-integration}
 
-連結您的 [Google AdWords帳戶至Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) 自動將離線轉換資料從Marketo上傳至Google AdWords。 接著，您可以從AdWords UI輕鬆檢視哪些點按導致合格的銷售機會、商機和新客戶（或您要追蹤的任何收入階段）。
+將您的[Google AdWords帳戶連結至Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)，以便自動將離線轉換資料從Marketo上傳至Google AdWords。 接著，您可以從AdWords UI輕鬆檢視哪些點按導致合格的銷售機會、商機和新客戶（或您要追蹤的任何收入階段）。
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
@@ -39,18 +39,18 @@ Revenue Explorer具有全新的外觀，以及全新的散射環圖型別！ 我
 
 [新資產REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-我們現在可支援建立和編輯電子郵件、範本、我的Token、檔案和程式碼片段 [透過API](https://developer.adobe.com/marketo-apis/api/asset/)！
+我們現在支援透過API建立和編輯電子郵件、範本、我的Token、檔案和程式碼片段[](https://developer.adobe.com/marketo-apis/api/asset/)！
 
 ## Microsoft Dynamics 2015內部部署 {#microsoft-dynamics-on-premise}
 
-目前最新的安裝程式支援 [可透過應用程式存取](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+最新的安裝程式支援，現在[可透過應用程式](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)存取。
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
 ## RTP — 使用潛在客戶資料的個人化Web參與 {#rtp-personalized-web-engagement-with-lead-data}
 
-善用 [潛在客戶資料欄位](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) 您可以在Marketo銷售機會資料庫中建立即時細分和個人化內容行銷活動。 管理RTP中的潛在客戶資料欄位，以及新增/刪除相關的潛在客戶欄位。
+利用您在Marketo銷售機會資料庫中擁有的[銷售機會資料欄位](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)，建立即時細分和個人化內容行銷活動。 管理RTP中的潛在客戶資料欄位，以及新增/刪除相關的潛在客戶欄位。
 
 ## RTP — 透過電子郵件或方案行銷活動名稱個人化網頁內容 {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-繼續透過電子郵件與網路等不同管道與潛在客戶進行對話。 [根據電子郵件行銷活動或方案個人化傳入內容](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) 用於Marketo行銷活動的名稱。
+繼續透過電子郵件與網路等不同管道與潛在客戶進行對話。 [根據Marketo行銷活動中使用的電子郵件行銷活動或方案](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)名稱，個人化傳入內容。

@@ -41,14 +41,14 @@ ht-degree: 0%
   </tr>
   <tr>
    <td>聊天機器人對話由對話方塊提供。</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">對話式Forms</a> 中的Marketo Engage由對話流程提供。</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo Engage中的</a>對話式Forms是由對話式流程提供支援。</td>
   </tr>
  </tbody> 
 </table>
 
-## 串流設計工具索引標籤 {#stream-designer-tab}
+## 串流Designer索引標籤 {#stream-designer-tab}
 
-對話流程的資料流設計工具幾乎與對話方塊的資料流設計工具相同。 [在這裡瞭解所有關於它的資訊](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
+對話流程的串流Designer與對話的串流幾乎完全相同。 [在這裡瞭解所有資訊](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}。
 
 ![](assets/conversational-flow-overview-2.png)
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->另請參閱 [Conversations SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} 動作中！
+>檢視[Conversations SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"}正在執行中！
 
 >[!MORELIKETHIS]
 >

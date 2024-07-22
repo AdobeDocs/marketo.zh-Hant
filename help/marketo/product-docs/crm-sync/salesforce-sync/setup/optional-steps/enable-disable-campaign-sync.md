@@ -19,15 +19,15 @@ ht-degree: 0%
 
 此選項可讓Marketo Engage將其方案會員資格和狀態與Salesforce行銷活動同步，反之亦然。
 
-1. 前往 **[!UICONTROL 管理員]** 並按一下 **[!DNL Salesforce]**.
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;並按一下&#x200B;**[!DNL Salesforce]**。
 
    ![](assets/image2014-12-9-13-3a36-3a49.png)
 
-1. 按一下 **[!UICONTROL 編輯同步設定]**.
+1. 按一下&#x200B;**[!UICONTROL 編輯同步處理設定]**。
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. 檢查 **[!UICONTROL 啟用Salesforce Campaign同步]** 並按一下 **[!UICONTROL 儲存]**.
+1. 勾選&#x200B;**[!UICONTROL 啟用Salesforce Campaign同步處理]**，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 

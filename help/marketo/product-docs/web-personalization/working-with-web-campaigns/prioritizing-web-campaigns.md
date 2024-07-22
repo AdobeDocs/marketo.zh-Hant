@@ -6,7 +6,7 @@ exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >為了更方便找到您想要的網頁行銷活動，請使用 [篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >若要更輕鬆地尋找您想要的網頁行銷活動，請使用[篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
 1. 在「編輯促銷活動」頁面中，設定優先順序分數（9999 =最高優先順序1 =最低優先順序）。
 

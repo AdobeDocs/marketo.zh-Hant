@@ -18,7 +18,7 @@ Marketo Engage提供對Veeva自訂物件同步的特定控制。 這可讓您選
 >
 >**需要管理員許可權**
 
-1. 按一下 **[!UICONTROL 管理員]**，然後 **[!UICONTROL Veeva物件同步]**.
+1. 按一下&#x200B;**[!UICONTROL 管理員]**，然後按一下&#x200B;**[!UICONTROL Veeva物件同步]**。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-1.png)
 
@@ -26,7 +26,7 @@ Marketo Engage提供對Veeva自訂物件同步的特定控制。 這可讓您選
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-2.png)
 
-1. 按一下 **[!UICONTROL 編輯可見欄位]**.
+1. 按一下&#x200B;**[!UICONTROL 編輯可見欄位]**。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-3.png)
 
@@ -34,11 +34,11 @@ Marketo Engage提供對Veeva自訂物件同步的特定控制。 這可讓您選
    >
    >如果「編輯可見欄位」按鈕呈現灰色，表示該物件目前正在智慧清單或智慧行銷活動中使用。 移除所有關聯以繼續。
 
-1. 如果您的全域同步已啟用，請按一下 **[!UICONTROL 停用全域同步]**.
+1. 如果您的全域同步已啟用，請按一下&#x200B;**[!UICONTROL [停用全域同步]]**。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-4.png)
 
-1. 勾選所需的篩選/觸發條件限制旁的方塊，然後按一下 **[!UICONTROL 儲存]**.
+1. 核取所需篩選/觸發條件約束旁的方塊，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-5.png)
 
@@ -46,7 +46,7 @@ Marketo Engage提供對Veeva自訂物件同步的特定控制。 這可讓您選
    >
    >依預設，選取所有欄位作為篩選條件上的限制。
 
-1. 按一下 **[!UICONTROL 欄位]** 標籤以確認您的變更。
+1. 按一下&#x200B;**[!UICONTROL 欄位]**&#x200B;標籤以確認您的變更。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-6.png)
 

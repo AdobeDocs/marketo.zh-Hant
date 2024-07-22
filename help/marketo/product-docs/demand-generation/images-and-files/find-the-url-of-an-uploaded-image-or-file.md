@@ -15,11 +15,11 @@ ht-degree: 0%
 
 正在尋找您所上傳之影像或檔案的網址(URL)？
 
-1. 前往 **[!UICONTROL Design Studio]**.
+1. 移至&#x200B;**[!UICONTROL 設計工作室]**。
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
-1. 按一下 **[!UICONTROL 影像和檔案]**.
+1. 按一下&#x200B;**[!UICONTROL 影像和檔案]**。
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-3.png)
 
-1. 此 **[!UICONTROL URL]** 即會顯示在詳細資訊頁面上。
+1. **[!UICONTROL URL]**&#x200B;會顯示在詳細資訊頁面上。
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-4.png)
 

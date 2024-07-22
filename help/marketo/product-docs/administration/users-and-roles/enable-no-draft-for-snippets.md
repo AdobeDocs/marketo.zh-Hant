@@ -6,7 +6,7 @@ exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -25,33 +25,33 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 
-1. 按一下 **[!UICONTROL 使用者和角色]**.
+1. 按一下&#x200B;**[!UICONTROL 使用者與角色]**。
 
    ![](assets/enable-no-draft-for-snippets-2.png)
 
-1. 前往 **[!UICONTROL 角色]** 標籤，選取角色，然後按一下 **[!UICONTROL 編輯角色]**.
+1. 移至&#x200B;**[!UICONTROL 角色]**&#x200B;標籤，選取角色，然後按一下&#x200B;**[!UICONTROL 編輯角色]**。
 
    ![](assets/enable-no-draft-for-snippets-3.png)
 
-1. 展開 **[!UICONTROL 存取Design Studio]** 選項。
+1. 展開&#x200B;**[!UICONTROL Access Design Studio]**&#x200B;選項。
 
    ![](assets/enable-no-draft-for-snippets-4.png)
 
-1. 展開 **[!UICONTROL 存取代碼片段]** 選項。
+1. 展開&#x200B;**[!UICONTROL 存取代碼片段]**&#x200B;選項。
 
    ![](assets/enable-no-draft-for-snippets-5.png)
 
-1. 展開 **[!UICONTROL 核准程式碼片段]** 許可權並檢查 **[!UICONTROL 無草稿]** 方塊。 然後按一下 **[!UICONTROL 儲存]**.
+1. 展開&#x200B;**[!UICONTROL 核准程式碼片段]**&#x200B;許可權，並勾選&#x200B;**[!UICONTROL No-Draft]**&#x200B;方塊。 然後按一下[儲存]。****
 
    ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
->若要停用「不拔模」，請依照上述步驟1-4操作，清除「不拔模」核取方塊，然後按一下 **[!UICONTROL 儲存]**.
+>若要停用無草稿，請依照上述步驟1-4，清除[無草稿]核取方塊，然後按一下[儲存]****。
 
 >[!MORELIKETHIS]
 >

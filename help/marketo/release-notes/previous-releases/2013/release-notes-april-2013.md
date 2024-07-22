@@ -6,7 +6,7 @@ exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## Gmail外掛程式 {#gmail-plugin}
 
-如果您使用Marketo Sales Insight和Gmail，可以透過Chrome商店安裝新的Gmail外掛程式。 外掛程式可讓您使用Marketo記錄訊息、載入Marketo電子郵件範本，以及使用Marketo追蹤功能傳送訊息。
+如果您使用Marketo銷售分析和Gmail，可以透過Chrome商店安裝新的Gmail外掛程式。 外掛程式可讓您使用Marketo記錄訊息、載入Marketo電子郵件範本，以及使用Marketo追蹤功能傳送訊息。
 
 ![](assets/image2014-9-22-15-3a48-3a57.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 程式API {#program-apis}
 
-支援SOAP API呼叫中的程式，包括程式資料的唯讀存取權，例如：方案會員計數、取得者、成功、設定、管道、標籤、代號和成本。 如需更多詳細資訊，請參閱SOAP API檔案。
+支援SOAP API呼叫中的方案，包括方案資料的唯讀存取權，例如：方案會員計數、取得者、成功、設定、頻道、標籤、代號和成本。 如需更多詳細資訊，請參閱SOAP API檔案。
 
 ## ON24增強功能 {#on-enhancement}
 

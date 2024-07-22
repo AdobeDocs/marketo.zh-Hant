@@ -14,15 +14,15 @@ ht-degree: 0%
 
 以下說明如何建立新的對話流程。
 
-1. 在 [!UICONTROL 自動聊天]，按一下 **[!UICONTROL 對話流程]**.
+1. 在[!UICONTROL 自動聊天]下，按一下&#x200B;**[!UICONTROL 交談流程]**。
 
    ![](assets/create-a-conversational-flow-1.png)
 
-1. 按一下 **[!UICONTROL 建立對話流程]**.
+1. 按一下&#x200B;**[!UICONTROL 建立對話流程]**。
 
    ![](assets/create-a-conversational-flow-2.png)
 
-1. 選擇空白的「對話流程」或其中一個預先填入的範本。 輸入名稱（說明為選用）、變更語言（選用），然後按一下 **[!UICONTROL 建立]**.
+1. 選擇空白的「對話流程」或其中一個預先填入的範本。 輸入名稱（說明是選擇性的）、變更語言（選擇性），然後按一下&#x200B;**[!UICONTROL 建立]**。
 
    ![](assets/create-a-conversational-flow-3.png)
 
@@ -30,8 +30,8 @@ ht-degree: 0%
    >
    >這只會變更系統文字的語言。 翻譯內容由您負責。
 
-1. 就像對話方塊中的一樣，此時此刻， [建立串流](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
+1. 就像對話方塊一樣，此時需要[建立資料流](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}。
 
 >[!MORELIKETHIS]
 >
->[對話流程概觀](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
+>[交談流程概觀](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}

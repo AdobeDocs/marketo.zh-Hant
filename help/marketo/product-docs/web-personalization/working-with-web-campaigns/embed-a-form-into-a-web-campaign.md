@@ -15,7 +15,7 @@ ht-degree: 0%
 
 瞭解如何將Marketo表單內嵌至網路行銷活動（對話方塊、在區域或Widget）。
 
-1. 以滑鼠右鍵按一下已核准的表單。 選取 **內嵌程式碼**.
+1. 以滑鼠右鍵按一下已核准的表單。 選取&#x200B;**內嵌程式碼**。
 
    ![](assets/image2015-12-16-10-3a58-3a39.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. 在「網頁個人化」中，前往 **網站行銷活動**.
+1. 在網頁Personalization中，前往&#x200B;**網頁行銷活動**。
 
    ![](assets/web-campaigns-hand-7.jpg)
 
-1. 按一下 **建立新的行銷活動**.
+1. 按一下&#x200B;**建立新行銷活動**。
 
    ![](assets/create-new-web-campaign-hand-1.jpg)
 
@@ -35,13 +35,13 @@ ht-degree: 0%
 
    ![](assets/five-1.png)
 
-1. 將表單內嵌程式碼貼到HTML原始碼編輯器中。 按一下 **更新**.
+1. 將表單內嵌程式碼貼到HTML的Source編輯器中。 按一下&#x200B;**更新**。
 
    ![](assets/six-1.png)
 
 1. 該表單不會顯示在編輯器檢視中，但您可以預覽該表單，以檢視其在行銷活動中的呈現方式。
 
-1. 按一下 **Launch** 以開始行銷活動。
+1. 按一下&#x200B;**啟動**&#x200B;以啟動行銷活動。
 
    >[!NOTE]
    >
@@ -55,7 +55,7 @@ ht-degree: 0%
 * 在Set Campaign中變更對話方塊或Widget顏色
 * 將CSS程式碼新增至指令碼
 
-若要編輯表單主題的CSS，請參閱 [本文](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+若要編輯表單主題的CSS，請參閱[本文章](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)。
 
 若要變更「設定促銷活動」中的對話方塊或Widget顏色：
 
@@ -73,16 +73,16 @@ ht-degree: 0%
 
    ![](assets/image2015-12-29-17-3a56-3a13.png)
 
-1. 將含有背景樣式程式碼的表單內嵌程式碼貼到HTML原始碼編輯器中。 按一下 **更新**.
+1. 將含有背景樣式程式碼的表單內嵌程式碼貼到HTML的Source編輯器中。 按一下&#x200B;**更新**。
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
-1. 按一下 **預覽** 以瞭解其在行銷活動中的呈現方式（該表單不會顯示在編輯器檢視中）。 以下範例說明上述表單程式碼如何在具有背景影像的行銷活動中轉譯。
+1. 按一下&#x200B;**預覽**，檢視它在行銷活動中的呈現方式（該表單不會顯示在編輯器檢視中）。 以下範例說明上述表單程式碼如何在具有背景影像的行銷活動中轉譯。
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
 >[!MORELIKETHIS]
 >
 >* [編輯表單主題的CSS](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
->* [顯示感謝訊息，但不提供後續登陸頁面](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
+>* [顯示沒有後續登陸頁面的感謝訊息](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
 >* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

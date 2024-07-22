@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # 設定檢查清單 {#setup-checklist}
 
-歡迎使用Marketo！ 您可以隨意使用下列檢查清單作為視覺化的待辦事項清單，以開始辦事。 詳情請參閱 [設定步驟](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
+歡迎使用Marketo！ 您可以隨意使用下列檢查清單作為視覺化的待辦事項清單，以開始辦事。 您可以在[設定步驟](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}中找到詳細資料。
 
 ## 登入Marketo並建立其他使用者 {#log-in-to-marketo-and-create-additional-users}
 
@@ -35,8 +35,8 @@ ht-degree: 0%
 1. 選取品牌追蹤連結的電子郵件CNAME
 1. 要求IT為您的電子郵件CNAME設定DNS記錄
 1. 詢問IT人員是否允許列出Marketo
-1. 在中設定DKIM和SPF [!UICONTROL 管理員] 區域
-1. 設定MX for `[FromDomain1]`
+1. 在[!UICONTROL 管理員]區域中設定DKIM和SPF
+1. 為`[FromDomain1]`設定MX
 1. 使用電子郵件CNAME完成後，請在Marketo中設定您的電子郵件CNAME
 
 ## 提交登入頁面和電子郵件範本的URL {#submit-a-url-for-landing-page-and-email-templates}

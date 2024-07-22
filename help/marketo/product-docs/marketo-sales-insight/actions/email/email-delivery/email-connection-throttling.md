@@ -27,17 +27,17 @@ ht-degree: 0%
 * 僅節流透過Gmail或Exchange傳送的電子郵件，不會節流自訂傳遞通道
 * 電子郵件連線節流會個別將每位使用者的電子郵件加入佇列，因為每位使用者有其自己與電子郵件提供者的連線
 
-**正在設定電子郵件連線節流設定**
+**正在設定您的電子郵件連線節流設定**
 
-1. 按一下齒輪圖示並選取 **設定**.
+1. 按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/email-connection-throttling-1.png)
 
-1. 在管理設定下，按一下 **一般**.
+1. 在[管理設定]下，按一下[一般] ****。
 
    ![](assets/email-connection-throttling-2.png)
 
-1. 在右側的電子郵件連線節流卡中，按一下 **啟用電子郵件節流** 滑桿。
+1. 在右側的電子郵件連線節流卡中，按一下&#x200B;**啟用電子郵件節流功能**&#x200B;滑桿。
 
    ![](assets/email-connection-throttling-3.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 * 每分鐘30次
 * 每封電子郵件500位收件者
 
-更多資訊 [可在此處找到](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
+如需詳細資訊[，請參閱此處](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits)。
 
 **Gmail**
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 * 每秒2封電子郵件（API限制）
 * 每則訊息2,000位收件者（外部收件者最多500位）
 
-更多資訊 [可在此處找到](https://support.google.com/a/answer/166852?hl=en).
+如需詳細資訊[，請參閱此處](https://support.google.com/a/answer/166852?hl=en)。
 
 **Microsoft Exchange Server (2010， 2013)**
 
@@ -82,5 +82,5 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [傳遞管道總覽](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
->* [Gmail使用者的電子郵件連線](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Outlook使用者的電子郵件連線](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* Gmail使用者的[電子郵件連線](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [電子郵件連線給Outlook使用者](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

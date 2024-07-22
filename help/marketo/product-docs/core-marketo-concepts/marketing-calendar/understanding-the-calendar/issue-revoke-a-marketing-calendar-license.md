@@ -6,7 +6,7 @@ exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,25 +17,25 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-若要使用您的 [行銷行事曆](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} 名額，您需要向需要存取許可權的使用者發行授權。 方法如下。
+若要使用您的[行銷行事曆](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}名額，您必須向需要存取許可權的使用者發行授權。 方法如下。
 
-1. 前往 **[!UICONTROL 管理員]** 區段。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區段。
 
    ![](assets/adminhand.png)
 
-1. 按一下 **[!UICONTROL 使用者和角色]**.
+1. 按一下&#x200B;**[!UICONTROL 使用者與角色]**。
 
    ![](assets/2.png)
 
-1. 選取使用者並按一下 **[!UICONTROL 發行授權]**.
+1. 選取使用者並按一下&#x200B;**[!UICONTROL 發行授權]**。
 
    >[!TIP]
    >
-   >使用 **Ctrl/Cmd+按一下** 一次選取多個使用者。
+   >使用&#x200B;**Ctrl/Cmd+按一下**&#x200B;一次選取多個使用者。
 
    ![](assets/3.png)
 
-1. 檢查 **[!UICONTROL 啟用授權]** 並按一下 **[!UICONTROL 儲存]**.
+1. 勾選&#x200B;**[!UICONTROL 啟用授權]**&#x200B;並按一下&#x200B;**[!UICONTROL 儲存]**。
 
    >[!NOTE]
    >

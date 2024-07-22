@@ -43,7 +43,7 @@ ht-degree: 0%
 
 傳送範例電子郵件以供檢閱時，Marketo有新選項可挑選區段。 您不再需要手動判斷銷售機會屬於哪個區段，更輕鬆地傳送包含動態內容的電子郵件至不同區段。
 
-## [linkedIn銷售機會一般自訂問題](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [LinkedIn潛在客戶一般自訂問題](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
 自訂您的LinkedIn銷售機會一般表單，以收集自訂銷售機會屬性。 您現在可以在每個表單中詢問最多三個自訂問題、從單行文字輸入或多選問題中進行選擇，並對應回Marketo潛在客戶欄位。
 
@@ -62,7 +62,7 @@ Marketo ABM現在會同步並顯示沒有連絡人的CRM帳戶。 納入沒有�
 
 ## ContentAI分析 {#contentai-analytics}
 
-**[新增ABM帳戶清單篩選器](https://docs.marketo.com/x/1BPG)**
+**[新ABM帳戶清單篩選器](https://docs.marketo.com/x/1BPG)**
 
 檢視及比較不同ABM帳戶清單的內容效能，將現有內容最佳化。 ContentAI會顯示：
 
@@ -70,15 +70,15 @@ Marketo ABM現在會同步並顯示沒有連絡人的CRM帳戶。 納入沒有�
 * 排名在前的轉換內容
 * AI支援的行銷活動建議內容
 
-## Web Personalization增強功能 {#web-personalization-enhancements}
+## 網頁Personalization增強功能 {#web-personalization-enhancements}
 
-**[網頁行銷活動的代號](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
+網頁行銷活動的&#x200B;**[代號](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 Token現在可用於網頁行銷活動。 運用代號來提供個人化訊息和內容，以提升網站行銷活動的參與度。
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-**[在Web Campaign編輯器中設計工作室影像](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
+**[在Web行銷活動編輯器中設計工作室影像](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 在Marketo中跨多個管道重複使用創意資產和影像，以節省時間。
 
@@ -90,6 +90,6 @@ Token現在可用於網頁行銷活動。 運用代號來提供個人化訊息�
 
 您現在可以在Marketo外部遠端預覽電子郵件，簡化電子郵件內容本地化的程式，並減少錯誤。
 
-**[取代HTML API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[取代HTMLAPI](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 開發人員可從遠端更新電子郵件資產的HTML內容，讓他們能在單一系統中工作，以維護資產。

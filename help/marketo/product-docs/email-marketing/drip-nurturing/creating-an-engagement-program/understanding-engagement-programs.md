@@ -6,7 +6,7 @@ exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->限製為100 **主要** 每個訂閱的參與計畫。
+>每個訂閱有100個&#x200B;**作用中**&#x200B;參與程式的限制。
 
 ## 參與計畫 {#engagement-program}
 
-一個 **參與計畫** 是一種可以輕鬆完成複雜培養的程式。
+**參與計畫**&#x200B;是一種可以輕鬆完成複雜培養的程式。
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 資料流 {#stream}
 
-A **串流** 是參與計畫將用於培養人的優先順序內容庫。
+**串流**&#x200B;是參與計畫將用於培養人員的優先內容集區。
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
@@ -42,21 +42,21 @@ A **串流** 是參與計畫將用於培養人的優先順序內容庫。
 
 ## 內容 {#content}
 
-有兩種型別 **內容** 您可以新增到參與計畫串流 — 電子郵件和計畫。 電子郵件將會在轉換時間傳送給人員。
+您可新增兩種型別的&#x200B;**內容**&#x200B;至參與方案串流：電子郵件和方案。 電子郵件將會在轉換時間傳送給人員。
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
 >[!MORELIKETHIS]
 >
->* [將內容新增至資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [新增內容至資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
 >* [排定串流內容的優先順序](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
->* [編輯串流內容的可用性](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
+>* [編輯資料流內容的可用性](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
 >* [移除資料流內容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 >* [封存和取消封存資料流內容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
 ## 鑄造 {#cast}
 
-A **鑄造** 是從「參與計畫」傳送電子郵件的事件。
+**cast**&#x200B;是從參與計畫傳送電子郵件的事件。
 
 >[!NOTE]
 >
@@ -64,7 +64,7 @@ A **鑄造** 是從「參與計畫」傳送電子郵件的事件。
 
 ## 串流步調 {#stream-cadence}
 
-您可以透過設定來決定何時進行轉換 **串流步調**. 這就是排程內容定期外出的方式。
+您可以透過設定&#x200B;**串流步調**&#x200B;來決定何時進行轉換。 這就是排程內容定期外出的方式。
 
 ![](assets/image2014-9-15-15-3a25-3a27.png)
 
@@ -74,13 +74,13 @@ A **鑄造** 是從「參與計畫」傳送電子郵件的事件。
 
 ## 個人步調 {#person-cadence}
 
-A **個人步調** 是一種狀態，可定義其從參與方案中接收內容的能力。 您可以使用 **變更參與方案步調** 流程步驟，將此變更為「已暫停」或「正常」。
+**人員步調**&#x200B;是一種狀態，可定義其從參與方案中接收內容的能力。 您可以使用&#x200B;**變更參與方案步調**&#x200B;流程步驟，將此步驟變更為「已暫停」或「正常」。
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
 ## 已耗盡 {#exhausted}
 
-當某人收到資料流中的每一項內容時，我們就會呼叫此人 **已耗盡**.
+一旦某人收到資料流中的每一項內容，我們就會呼叫此人&#x200B;**已耗盡**。
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 

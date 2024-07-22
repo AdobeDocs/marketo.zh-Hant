@@ -15,11 +15,11 @@ ht-degree: 0%
 
 您可以建立自訂覆蓋圖來檢視與您的需求相關的專案。
 
-1. 按一下 **[!UICONTROL 日程]** 下拉式清單。
+1. 按一下&#x200B;**[!UICONTROL 議程]**&#x200B;下拉式清單。
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. 選取 **[!UICONTROL 覆蓋]**.
+1. 選取&#x200B;**[!UICONTROL 覆蓋]**。
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. 您也可以依據以下條件篩選： [程式標籤](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}.
+1. 您也可以依[程式標籤](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}篩選。
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

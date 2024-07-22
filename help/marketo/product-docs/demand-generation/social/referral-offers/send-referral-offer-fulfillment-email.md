@@ -18,45 +18,45 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [在社交促銷活動中使用電子郵件](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
->* [建立反向連結選件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [建立轉介選件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
 ## 設定履行傳遞 {#set-up-fulfillment-delivery}
 
-1. 選取轉介優惠方案。 按一下 **編輯草稿**.
+1. 選取轉介優惠方案。 按一下&#x200B;**編輯草稿**。
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. 在 **應用程式設定**，選取 **優惠詳細資料**.
+1. 在&#x200B;**應用程式設定**&#x200B;下，選取&#x200B;**選件詳細資料**。
 
    ![](assets/image2015-4-23-12-3a53-3a16.png)
 
-1. 選取 **註冊電子郵件**.
+1. 選取&#x200B;**註冊電子郵件**。
 
    ![](assets/image2015-4-23-12-3a58-3a52.png)
 
-1. 選取 **履行電子郵件**.
+1. 選取&#x200B;**履行電子郵件**。
 
    ![](assets/image2015-4-23-13-3a4-3a40.png)
 
    >[!NOTE]
    >
-   >進一步瞭解 [在社交促銷活動中使用電子郵件](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >深入瞭解[在社交促銷活動中使用電子郵件](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)。
 
-1. 按一下 **履行傳遞** 下拉式清單並選取 **目標上的自動**.
+1. 按一下&#x200B;**履行傳遞**&#x200B;下拉式清單，然後選取目標&#x200B;**上的**&#x200B;自動。
 
    ![](assets/image2015-4-23-13-3a13-3a33.png)
 
-   訊息選取於 **履行電子郵件** 會自動傳送給符合目標的人員。
+   在&#x200B;**履行電子郵件**&#x200B;中選取的訊息會自動傳送給符合目標的人員。
 
 ## 手動傳送 {#manual-send}
 
 當某人達到目標時，您可以手動傳送履行電子郵件給他。
 
-1. 選取反向連結選件，然後按一下 **參與者** 標籤。
+1. 選取轉介優惠方案，然後按一下&#x200B;**參與者**&#x200B;標籤。
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. 按一下 **篩選依據** 選項並選取 **目標**.
+1. 按一下&#x200B;**篩選依據**&#x200B;選項並選取&#x200B;**目標**。
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/2015-04-23-13-08-53.png)
 
-1. 按一下右鍵並選取 **傳送履行電子郵件**.
+1. 按一下滑鼠右鍵並選取&#x200B;**傳送履行電子郵件**。
 
    ![](assets/2015-04-20-15-54-13.png)
 

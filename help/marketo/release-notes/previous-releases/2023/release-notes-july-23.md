@@ -5,7 +5,7 @@ feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
 source-git-commit: dc13ffb4232b39d702ba835814f272256c153f6a
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '655'
 ht-degree: 2%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 2%
 
 >[!AVAILABILITY]
 >
->以星號(![星形](assets/yellow-star.png))為付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
+>以星號（![星號](assets/yellow-star.png)）表示的功能是付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於以下日期開始發行 **2023年7月21日**，在接下來的幾週內分階段推出剩餘的功能。 發行功能和日期可能會有所變更。 請檢視每個功能下方的狀態。
+下列功能屬於標準發行週期，並將於&#x200B;**2023年7月21日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行功能和日期可能會有所變更。 請檢視每個功能下方的狀態。
 
 </br>
 
-* **參與圖**：參與地圖是一種視覺工具，可讓您建立並組織可重複使用的行銷活動。 它完全回溯相容，因此只要按一下按鈕，即可在此新結構中檢視所有現有行銷活動。 地圖可以下載和共用。
+* **參與圖**：參與圖是可讓您建立及組織可重複使用行銷活動的視覺工具。 它完全回溯相容，因此只要按一下按鈕，即可在此新結構中檢視所有現有行銷活動。 地圖可以下載和共用。
 
 <table> 
   <tr> 
@@ -38,7 +38,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **通知 — Web服務錯誤**：網站服務錯誤通知現在包含訂閱名稱，這讓管理多個Marketo Engage執行個體的使用者更容易操作。 我們也在包含錯誤碼和計數的表格中新增「使用者」欄，讓您在呼叫Marketo REST API時，輕鬆識別負責產生特定錯誤的API使用者。
+* **通知 — Web服務錯誤**： Web服務錯誤通知現在包含訂閱名稱，讓管理多個Marketo Engage執行個體的使用者更容易操作。 我們也在包含錯誤碼和計數的表格中新增「使用者」欄，讓您在呼叫Marketo REST API時，輕鬆識別負責產生特定錯誤的API使用者。
 
 <table> 
   <tr> 
@@ -60,7 +60,7 @@ ht-degree: 2%
 
 </br>
 
-* **Dynamic Chat的聊天來源**：「聊天」現在作為新人員記錄和活動的來源提供。 此來源可用於協助使用者篩選智慧清單/行銷活動中的活動。 也可以封鎖來源以停止欄位更新。
+* **Dynamic Chat的Source聊天**：「聊天」現在作為新人員記錄和活動的來源提供。 此來源可用於協助使用者篩選智慧清單/行銷活動中的活動。 也可以封鎖來源以停止欄位更新。
 
 <table> 
   <tr> 
@@ -74,7 +74,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **增強的Dynamic Chat活動**：Dynamic Chat活動、篩選器和觸發器已透過其他屬性和標準化的命名慣例得到增強。
+* **增強的Dynamic Chat活動**：Dynamic Chat活動、篩選器和觸發器已透過其他屬性和標準化的命名慣例增強。
 
 <table> 
   <tr> 
@@ -92,7 +92,7 @@ ht-degree: 2%
 
 </br>
 
-* **取消訂閱Sales Insight動作的附加設定**：您現在可以透過「取消訂閱附加」的新設定選項，更能控制取消訂閱訊息。 新功能可讓管理員控制何時何地以及在銷售電子郵件中出現哪些取消訂閱訊息。
+* **取消訂閱Sales Insight動作附加設定**：您現在可以透過取消訂閱附加的新設定選項，進一步控制取消訂閱訊息。 新功能可讓管理員控制何時何地以及在銷售電子郵件中出現哪些取消訂閱訊息。
 
 <table> 
   <tr> 
@@ -106,7 +106,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **銷售分析動作的動態欄位提示**：您現在可以透過新增至銷售分析動作中電子郵件範本的新欄位提示，進一步提示銷售團隊個人化電子郵件的特定部分。
+* **銷售分析動作的動態欄位提示**：您現在可以透過新增至銷售分析動作中電子郵件範本的新欄位提示，提示銷售團隊進一步個人化電子郵件的特定部分。
 
 <table> 
   <tr> 
@@ -120,7 +120,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **銷售分析動作的預設動態欄位**：預設動態欄位可讓您設定一個遞補值，如果沒有可填入的值，動態欄位可解析該遞補值。 這有助於確保電子郵件發出並填入所有個人化。
+* **銷售分析動作的預設動態欄位**：預設動態欄位可讓您設定當沒有可填入的值時，動態欄位可解析為的遞補值。 這有助於確保電子郵件發出並填入所有個人化。
 
 <table> 
   <tr> 
@@ -148,7 +148,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **Sales Insight動作的Dynamic Chat支援**：我們目前支援Lead Feed中的Dynamic Chat活動，以及當Live Chat路由給代理程式時的通知。
+* **銷售分析動作的Dynamic Chat支援**：我們現在支援銷售機會摘要中的Dynamic Chat活動，以及當即時聊天路由給代理程式時的通知。
 
 <table> 
   <tr> 
@@ -162,7 +162,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **Dynamic Chat觸發權杖**：推出新的觸發器Token，供Dynamic Chat活動用於有趣的時刻。
+* **Dynamic Chat觸發權杖**：推出新的觸發權杖，以用於有趣時刻的Dynamic Chat活動。
 
 <table> 
   <tr> 
@@ -178,6 +178,6 @@ ht-degree: 2%
 
 ## 公告 {#announcements}
 
-* **升級至Google Analytics4**：Marketo先前支援Universal Analytics，後者將於2023年7月1日前停止記錄資料。 RTP使用者必須在其Google Analytics控制面板中遵循移轉程式，才能在RTP中完成對Google Analytics4整合的支援。 此後，使用者將擁有不重複的英數字元標籤(位於 `<head>` 部分)，其可讓Marketo傳送資料給Google Analytics。
+* **升級至Google Analytics 4**： Marketo先前支援Universal Analytics，但將於2023年7月1日前停止記錄資料。 RTP使用者必須在其Google Analytics控制面板中遵循移轉程式，才能在RTP中完成對Google Analytics4整合的支援。 此後，使用者在其登入頁面中將會有唯一的英數字元標籤（位於html的`<head>`區段內），可讓Marketo傳送資料給Google Analytics。
 
-* **_產品發行網路研討會_**： [2023年7月和9月Marketo Engage版本網路研討會](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_產品發行網路研討會_**： [2023年7月和9月Marketo Engage發行網路研討會](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}

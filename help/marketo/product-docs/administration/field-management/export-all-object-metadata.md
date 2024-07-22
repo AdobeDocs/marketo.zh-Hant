@@ -29,15 +29,15 @@ ht-degree: 2%
 
 ## 匯出物件中繼資料 {#export-object-metadata}
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/export-all-object-metadata-1.png)
 
-1. 按一下 **[!UICONTROL 欄位管理]**.
+1. 按一下&#x200B;**[!UICONTROL 欄位管理]**。
 
    ![](assets/export-all-object-metadata-2.png)
 
-1. 按一下 **[!UICONTROL 匯出所有物件]**.
+1. 按一下&#x200B;**[!UICONTROL 匯出所有物件]**。
 
    ![](assets/export-all-object-metadata-3.png)
 

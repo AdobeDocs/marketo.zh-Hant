@@ -15,21 +15,21 @@ ht-degree: 0%
 
 您可以依任何人員或公司屬性將個人報表分組。
 
-1. 前往 **行銷活動** (或 **Analytics**)區域。
+1. 移至&#x200B;**行銷活動** （或&#x200B;**Analytics**）區域。
 
    ![](assets/image2017-3-28-10-3a22-3a53.png)
 
-1. 從導覽樹狀結構中選取您的個人報表，然後按一下 **設定** 標籤。
+1. 從導覽樹狀結構選取您的人員報表，然後按一下「**設定**」標籤。
 
    ![](assets/image2017-3-28-11-3a33-3a48.png)
 
-1. 按兩下 **人員分組依據**.
+1. 連按兩下&#x200B;**群組人員依據**。
 
    ![](assets/image2017-3-28-11-3a34-3a5.png)
 
    >[!NOTE]
    >
-   >您也可以 [依區段將您的個人報表分組](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
+   >您也可以[依區段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md)將您的個人報表分組。
 
    在「群組人員」對話方塊中，選取要用於分組的人員或公司屬性。
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您選擇具有數值的屬性，例如 _建立時間_ 或 _年收入_，從中選擇量度 **件數** 右側的下拉式清單。
+   >如果您選擇具有數值的屬性，例如&#x200B;_建立時間_&#x200B;或&#x200B;_年收入_，請從右側的&#x200B;**單位**&#x200B;下拉式清單中選取量度。
 
    完成了！ 按一下「報表」標籤，檢視依其分組的報表。
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[新增自訂欄至個人報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
+   >[新增自訂欄至人員報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)

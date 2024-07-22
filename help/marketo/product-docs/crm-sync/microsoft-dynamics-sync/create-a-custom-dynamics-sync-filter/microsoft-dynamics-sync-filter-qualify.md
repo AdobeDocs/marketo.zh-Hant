@@ -21,10 +21,10 @@ ht-degree: 6%
 
 | 如果潛在客戶同步篩選器為： | 連絡人同步篩選器為： | 這是Marketo中的結果 |
 |---|---|---|
-| False | False | Marketo中未同步任何專案 |
-| True | True | 連絡人已在Marketo中同步 |
-| False | True | 新的連絡人記錄是在Marketo中建立 |
-| True | False | MS Dynamics在Marketo中更新潛在客戶資訊，但聯絡人記錄未同步 |
+| 假 | 假 | Marketo中未同步任何專案 |
+| 真 | 真 | 連絡人已在Marketo中同步 |
+| 假 | 真 | 新的連絡人記錄是在Marketo中建立 |
+| 真 | 假 | MS Dynamics在Marketo中更新潛在客戶資訊，但聯絡人記錄未同步 |
 
 >[!CAUTION]
 >

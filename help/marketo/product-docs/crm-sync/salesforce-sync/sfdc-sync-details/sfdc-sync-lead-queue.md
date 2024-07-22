@@ -6,14 +6,14 @@ exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 # SFDC同步：潛在客戶佇列 {#sfdc-sync-lead-queue}
 
-Marketo Engage可讓您將人員新增至 [Salesforce潛在客戶佇列](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"} 協助銷售機會分銷。 詳情如下。
+Marketo Engage可讓您將人員新增至[Salesforce潛在客戶佇列](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"}，以協助進行潛在客戶發佈。 詳情如下。
 
 ## 如何在Marketo中將人員指派至佇列？ {#how-to-assign-a-person-to-a-queue-in-marketo}
 

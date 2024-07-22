@@ -6,7 +6,7 @@ exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->在2023年10月2日，Adobe已從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入了解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>在2023年10月2日，Adobe已從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入瞭解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 ## 以電子郵件傳送計畫卡片 {#email-program-cards}
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. 點選 **[!UICONTROL 確認]**.
+1. 點選&#x200B;**[!UICONTROL 確認]**。
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. 點選 **[!UICONTROL 確認]** 完成工作，或 **[!UICONTROL 沒關係]** 如果您有其他想法。
+1. 點選&#x200B;**[!UICONTROL 確認]**&#x200B;以完成工作，或如果您有其他想法，請&#x200B;**[!UICONTROL 別介意]**。
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. 點選 **[!UICONTROL 取消傳送]**.
+1. 點選&#x200B;**[!UICONTROL 取消傳送]**。
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -75,11 +75,11 @@ ht-degree: 0%
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. 點選 **[!UICONTROL 重新排程]**.
+1. 點選&#x200B;**[!UICONTROL 重新排程]**。
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. 在行事曆上選取日期，然後點選 **[!UICONTROL 重新排程]**.
+1. 在行事曆上選取日期，然後點選&#x200B;**[!UICONTROL 重新排程]**。
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
@@ -93,11 +93,11 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. 點選 **[!UICONTROL 傳送範例]**.
+1. 點選&#x200B;**[!UICONTROL 傳送範例]**。
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. 輸入電子郵件地址並按一下 **[!UICONTROL 傳送範例]**.
+1. 輸入電子郵件地址，然後按一下&#x200B;**[!UICONTROL 傳送樣本]**。
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 以滑鼠右鍵按一下電子郵件卡片進行預覽。
 
-1. 點選 **[!UICONTROL 預覽電子郵件]**.
+1. 點選&#x200B;**[!UICONTROL 預覽電子郵件]**。
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
@@ -116,5 +116,5 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [瞭解Marketo時刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [瞭解事件卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [瞭解Analytics卡片](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [瞭解活動卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [瞭解Analytics卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)

@@ -5,7 +5,7 @@ exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '140'
 ht-degree: 2%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 2%
 
 ## Authorization {#authorization}
 
-符合 [GDPR](https://eugdpr.org/)，使用授權來指示您如何獲得與這些聯絡人互動的許可權。
+遵照[GDPR](https://eugdpr.org/)，使用授權來指示您是如何獲得與這些連絡人互動的許可權的。
 
 ![](assets/bulk-actions-on-people-4.png)
 
@@ -48,6 +48,6 @@ ht-degree: 2%
 
 ## 刪除 {#delete}
 
-大量刪除連絡人。 您可以找到完整步驟 [此處](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md).
+大量刪除連絡人。 完整的步驟可在[這裡](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)找到。
 
 ![](assets/bulk-actions-on-people-6.png)

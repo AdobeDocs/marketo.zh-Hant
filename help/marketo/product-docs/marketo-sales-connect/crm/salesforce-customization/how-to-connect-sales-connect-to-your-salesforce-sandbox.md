@@ -6,7 +6,7 @@ exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->建立與沙箱的連線時，您的Sales Connect帳戶無法連線到Salesforce。 如果是， [請確定您已中斷連線](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) 依照本文所述步驟操作之前。
+>建立與沙箱的連線時，您的Sales Connect帳戶無法連線到Salesforce。 如果是，[請確定您中斷連線](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)，然後再依照本文中的步驟進行。
 
-1. 在Sales Connect中，按一下右上方的齒輪圖示並選取 **設定**.
+1. 在Sales Connect中，按一下右上方的齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/one-2.png)
 
-1. 在整合底下，按一下 **CRM**.
+1. 在[整合]底下，按一下&#x200B;**CRM**。
 
    ![](assets/two-2.png)
 
-1. 在Salesforce卡中，按一下 **更多資訊**.
+1. 在Salesforce卡片中，按一下&#x200B;**更多資訊**。
 
    ![](assets/three-2.png)
 
-1. 在頁面底部，按一下 **連線到沙箱**.
+1. 在頁面底部，按一下&#x200B;**連線到沙箱**。
 
    ![](assets/four-2.png)
 

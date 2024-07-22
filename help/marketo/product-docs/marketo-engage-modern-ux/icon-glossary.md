@@ -14,7 +14,7 @@ ht-degree: 21%
 
 # 圖示字彙表 {#new-icon-glossary}
 
-以下是新Adobe Marketo Engage介面的圖示。 如果您需要參考Marketo Classic圖示，可以 [可在此處找到](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+以下是新Adobe Marketo Engage介面的圖示。 如果您需要參考Marketo Classic圖示，可以[在此找到](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md)。
 
 ## 一般圖示 {#general-icons}
 
@@ -83,7 +83,7 @@ ht-degree: 21%
   <tr>
    <td><img src="assets/classic-filter.png"></td> 
    <td><img src="assets/filter.png"></td> 
-   <td>篩選</td> 
+   <td>篩選器</td> 
   </tr>
   <tr>
    <td><strong>不適用</strong></td> 

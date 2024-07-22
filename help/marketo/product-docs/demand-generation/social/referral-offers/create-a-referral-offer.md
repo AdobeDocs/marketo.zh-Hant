@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-1. 在您的程式內，選取 **新增** > **新增本機資產**.
+1. 在您的程式內，選取&#x200B;**新增** > **新增本機資產**。
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. 在 **本機資產庫**，按一下 **推薦選件**.
+1. 在&#x200B;**本機資產庫**&#x200B;中，按一下&#x200B;**轉介選件**。
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -33,31 +33,31 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >為節省時間，您可以使用 **複製來源** 從現有轉介選件複製所有設定的選項。
+   >若要節省時間，您可以使用&#x200B;**從**&#x200B;複製選項，從現有的轉介選件複製所有設定。
 
    反向連結選件編輯器會在新視窗中開啟。 預設設定一切正常，但您需要新增選件規則（條款與條件）的連結。 連結會出現在共用訊息畫面的底部。 我們會在下一個步驟中向您說明如何操作。
 
-1. 按一下 **進階選項**.
+1. 按一下&#x200B;**進階選項**。
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
-1. 新增優惠規則的連結。 輸入 **URL**.
+1. 新增優惠規則的連結。 輸入&#x200B;**URL**。
 
    ![](assets/image2014-9-19-11-3a3-3a57.png)
 
    >[!NOTE]
    >
-   >在此畫面上，您也可以新增隱私權原則連結。 另請參閱  [將您的隱私權原則新增至社交應用程式](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >在此畫面上，您也可以新增隱私權原則連結。 請參閱[將您的隱私權原則新增至社交應用程式](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)。
 
-1. 按一下 **完成**.
+1. 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 
-1. 按一下 **核准並關閉**.
+1. 按一下&#x200B;**核准並關閉**。
 
    >[!TIP]
    >
-   >若要變更反向連結選件中的任何預設值，請按一下 **返回**. 若要儲存您的工作以供稍後使用而不核准，請按一下 **關閉**.
+   >若要變更轉介優惠方案中的任何預設值，請按一下[上一步]。**** 若要儲存您的工作以供稍後使用而不核准，請按一下[關閉]。****
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->下一步是 [發佈您的轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) 在登陸頁面、您的網站或Facebook上。
+>下一步是在[登陸頁面、網站或Facebook上發佈您的推薦選件](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)。

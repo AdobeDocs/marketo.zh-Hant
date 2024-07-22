@@ -6,14 +6,14 @@ exl-id: 365cc108-ed50-4229-b267-9688ed31056e
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # 2D範本 {#template-2d}
 
-按一下右鍵以 [下載範本2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
+按一下滑鼠右鍵以[下載範本2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 包含文字和輪詢的單一內文區段（選擇性）
 * 頁尾（選擇性）
 
-**在下面按一下滑鼠右鍵以下載此範本：**
+**在下方按一下滑鼠右鍵以下載此範本：**
 
 [範本2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)

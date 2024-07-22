@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Salesforce1中的首選 {#best-bets-in-salesforce}
 
-您的 [首選](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) 您的潛在客戶與聯絡人是否有最高的急迫性和相對分數？ 該清單中只會顯示您擁有的潛在客戶，而且清單會隨著潛在客戶評分的變更而更新。
+您的[首選](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)是緊急性和相對分數最高的潛在客戶和聯絡人。 該清單中只會顯示您擁有的潛在客戶，而且清單會隨著潛在客戶評分的變更而更新。
 
 1. 前往Salesforce應用程式中的Marketo區域。
 
@@ -23,5 +23,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Salesforce1中的有趣時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [在Salesforce1中傳送Marketo電子郵件和Campaign及監看清單動作](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* Salesforce中的[有趣時刻1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [在Salesforce中傳送Marketo電子郵件和行銷活動及監看清單動作1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)

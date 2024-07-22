@@ -19,14 +19,14 @@ ht-degree: 0%
 
    ![](assets/change-the-landing-page-url-1.png)
 
-1. 按一下 **登陸頁面動作** 下拉式清單，捲動至 **URL工具** 並選取 **URL設定**.
+1. 按一下&#x200B;**登陸頁面動作**&#x200B;下拉式清單，捲動至&#x200B;**URL工具**&#x200B;並選取&#x200B;**URL設定**。
 
    ![](assets/change-the-landing-page-url-2.png)
 
-1. 輸入 **新URL**，選擇捨棄或重新導向舊的URL，然後按一下 **儲存**.
+1. 輸入&#x200B;**新URL**，選擇捨棄或重新導向舊URL，然後按一下&#x200B;**儲存**。
 
    ![](assets/change-the-landing-page-url-3.png)
 
    >[!NOTE]
    >
-   >如果您決定要保留兩個URL，則會自動建立重新導向規則。 進一步瞭解 [URL重新導向](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).
+   >如果您決定要保留兩個URL，則會自動建立重新導向規則。 深入瞭解[URL重新導向](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)。

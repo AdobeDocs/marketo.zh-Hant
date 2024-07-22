@@ -15,11 +15,11 @@ ht-degree: 0%
 
 階段是將多個階段群組的方法。 有時模型中的多個階段會反映漏斗的一個階段。
 
-![--](assets/image2015-6-12-16-3a56-3a40.png)
+![—](assets/image2015-6-12-16-3a56-3a40.png)
 
 ## 定義模型的階段 {#define-the-phases-of-the-model}
 
-1. 按一下 **階段**.
+1. 按一下&#x200B;**階段**。
 
    ![](assets/image2015-6-12-16-3a2-3a28.png)
 

@@ -17,15 +17,15 @@ ht-degree: 1%
 
 ## 建立方案成員自訂欄位 {#create-a-program-member-custom-field}
 
-1. 在Marketo中，按一下 **[!UICONTROL 管理員]**.
+1. 在Marketo中，按一下&#x200B;**[!UICONTROL 管理員]**。
 
    ![](assets/one.png)
 
-1. 按一下 **[!UICONTROL 欄位管理]**.
+1. 按一下&#x200B;**[!UICONTROL 欄位管理]**。
 
    ![](assets/two.png)
 
-1. 按一下 **[!UICONTROL 新增自訂欄位]**.
+1. 按一下&#x200B;**[!UICONTROL 新增自訂欄位]**。
 
    ![](assets/three.png)
 
@@ -37,13 +37,13 @@ ht-degree: 1%
    >
    >「人員」和「方案成員」自訂欄位不能共用相同的名稱。
 
-1. 填寫其餘欄位，然後按一下 **[!UICONTROL 建立]**.
+1. 填寫其餘欄位，然後按一下[建立]。****
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >程式成員自訂欄位支援的型別為：布林值、日期、日期時間、浮點數、整數、字串、URL。 [進一步瞭解欄位型別](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+   >程式成員自訂欄位支援的型別為：布林值、日期、日期時間、浮點數、整數、字串、URL。 [進一步瞭解欄位型別](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}。
 
 ## 物件說明 {#object-descriptions}
 
@@ -56,7 +56,7 @@ ht-degree: 1%
 
 ## 觸發器和篩選器 {#triggers-and-filters}
 
-您可以透過以下方式在智慧清單中運用此程式特有的資料： [觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} 和/或 [篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
+您可以透過[觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}和/或[篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}，在智慧清單中運用此程式特定資料。
 
 ![](assets/six.png)
 
@@ -64,11 +64,11 @@ ht-degree: 1%
 
 * 方案成員自訂欄位僅可用於本機資產。 Design Studio不支援這些設定，因為無法將其繫結至特定程式。
 * 您無法複製/移動包含程式成員自訂欄位的表單（或含有表單的登陸頁面）至Design Studio。
-* [您可以同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"} 方案成員自訂欄位和促銷活動成員自訂欄位。
+* [您可以同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"}方案成員自訂欄位與促銷活動成員自訂欄位。
 * 程式成員物件最多可以有20個自訂欄位。 這些欄位適用於任何計畫。
 * 當您移除某個方案的成員時，如果他們的方案成員自訂欄位中有任何資料，則會從該欄位中清除該資料。
 * 若要檢視資料，請按一下方案中的成員索引標籤，並建立包含上述欄位的自訂檢視。
-* 透過匯入和匯出 [清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} 和 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} 支援。 匯出僅適用於「方案成員」清單，不適用於靜態清單。
+* 支援透過[清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}和[API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"}匯入和匯出。 匯出僅適用於「方案成員」清單，不適用於靜態清單。
 * 合併兩個人時，將會使用獲勝者的方案成員自訂欄位資料。 但如果成功者沒有值，則會使用失敗者的值。
 * 計畫成員資訊欄位不允許變更型別。
 * 「方案成員」自訂欄位不支援「包含」智慧清單限制。

@@ -65,6 +65,6 @@ ht-degree: 3%
  </tbody>
 </table>
 
-**選擇性步驟**：若要使用篩選功能，只要選取您想要的選項即可。
+**選擇性步驟**：若要使用篩選，只要選取您想要的選項即可。
 
 ![](assets/using-the-global-search-7.png)

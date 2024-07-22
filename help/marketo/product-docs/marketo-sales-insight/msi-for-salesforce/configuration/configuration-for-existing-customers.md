@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -23,31 +23,31 @@ ht-degree: 0%
 
 1. 在瀏覽器中開啟新標籤，以便從您的Marketo帳戶取得Marketo銷售分析憑證。
 
-1. 前往 **管理員** 區域。
+1. 移至&#x200B;**管理員**&#x200B;區域。
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. 按一下 **銷售分析**.
+1. 按一下&#x200B;**銷售分析**。
 
    ![](assets/configuration-for-existing-customers-2.png)
 
-1. 按一下 **檢視** 以填入Rest API認證。
+1. 按一下&#x200B;**檢視**&#x200B;以填入Rest API認證。
 
    ![](assets/configuration-for-existing-customers-3.png)
 
-1. 您會看到確認快顯視窗。 按一下 **確定**.
+1. 您會看到確認快顯視窗。 按一下&#x200B;**確定**。
 
 ## 在Salesforce中設定Sales Insight {#configure-sales-insight-in-salesforce}
 
-1. 在Salesforce中，按一下 **設定**.
+1. 在Salesforce中，按一下&#x200B;**設定**。
 
    ![](assets/configuration-for-existing-customers-4.png)
 
-1. 搜尋並選取 **遠端站台設定**.
+1. 搜尋並選取&#x200B;**遠端站台設定**。
 
    ![](assets/configuration-for-existing-customers-5.png)
 
-1. 按一下 **新增遠端站台**.
+1. 按一下&#x200B;**新增遠端站台**。
 
    ![](assets/configuration-for-existing-customers-6.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/configuration-for-existing-customers-7.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/configuration-for-existing-customers-8.png)
 

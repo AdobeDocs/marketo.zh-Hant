@@ -6,7 +6,7 @@ exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
@@ -19,26 +19,26 @@ ht-degree: 0%
 
 ## 核心平台增強功能 {#core-platform-enhancements}
 
-**[網頁個人化](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
+**[網頁Personalization](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
 Web個人化現在支援多個工作區。
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **SFDC閃電支援**：移轉至或目前使用Lightning的使用者可運用MSE在購買者歷程中更聰明地參與互動。
+* **SFDC Lightning支援**：移轉至或目前正在使用Lightning的使用者可運用MSE，更聰明地參與購買者歷程。
 
-* **擴充支援：Microsoft Office**
+* **擴充支援： Microsoft Office**
 
    * Outlook作為傳遞管道：行銷人員現在可以善用Outlook進行電子郵件參與，提高傳遞率和回應追蹤。
    * Office 365電子郵件支援改良：適用於Mac的Outlook、適用於Windows的Outlook，以及適用於Office 365電子郵件使用者端的Outlook Web應用程式，可直接使用Marketo Sales Engage，讓所有Office使用者都能更輕鬆地使用Marketo Sales Engage。
 
-* **改善管理員和使用者登入體驗**
+* **已改善管理員和使用者登入體驗**
 
    * 改進管理工作流程：管理員可在透過一般管理設定啟用團隊功能時，找到更有效率的工作流程。
 
 ## Marketo Sky {#marketo-sky}
 
-如需詳細資訊和更新，請檢視我們的 [Sky發行說明](https://help.marketo.com).
+如需詳細資訊和更新，請參閱我們的[Sky發行說明](https://help.marketo.com)。
 
 * **設計系統更新**
 
@@ -47,7 +47,7 @@ Web個人化現在支援多個工作區。
 * 增強樹狀導覽的設計：刻意使用顏色、更清楚的印刷樣式、新的影象製作和徽章，以快速檢查狀態
 * 重新設計程式摘要畫面
 
-* **行銷活動首頁**：直接從行銷活動首頁快速存取常見功能。
+* **行銷活動首頁**：直接從行銷活動首頁快速存取一般功能。
 
    * 執行特定動作（例如，開始新方案和智慧行銷活動）並檢視目前方案的重要資訊，例如排程今天執行的方案和行銷活動、最近更新的方案和資產，以及作用中觸發行銷活動的總數。
 
@@ -55,8 +55,8 @@ Web個人化現在支援多個工作區。
 * Design Studio首頁：建立新資產、拖放影像和檔案，以及管理所有現有資產。
 * Design Studio清單檢視：使用者現在能以清單檢視格式檢視登陸頁面範本和電子郵件範本，允許對單一資產型別進行快速導覽和大量動作。
 * Design Studio資產詳細資料頁面：在一個位置檢視、組織和執行所有資產的批次處理動作，以節省時間和減輕工作負擔。
-* **Marketo Sky現在提供預設程式**：Marketo Sky現在支援預設計畫，這是一種多功能計畫樣式，可讓您建立可以想像的任何促銷活動。
-* **電子郵件程式 — 階段1**：您現在可以在Sky中檢視電子郵件程式。 檢視新設計和 [讓我們知道您的想法](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
+* **Marketo Sky現在提供預設程式**： Marketo Sky現在支援預設程式，這是可讓您建立任何想像的促銷活動的多功能程式樣式。
+* **電子郵件程式 — 階段1**：您現在可以在Sky中檢視電子郵件程式。 檢視新設計，[讓我們知道您的想法](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html)。
 
 ## Analytics {#analytics}
 
@@ -83,7 +83,7 @@ Web個人化現在支援多個工作區。
    * 調整大小設定：主儀表板長條圖更容易讀取，以協助比較一段時間內的計畫成效。
    * 警示圖示：新警示圖示會顯示有關資料品質問題和設定通知的所有作用中警示。
 
-* **按活動日期參與**：使用者可以選擇依活動日期或成本期間檢視參與量度。
+* **依活動日期的參與**：使用者可以選擇依活動日期或成本期間檢視參與量度。
 * **ABM具名帳戶篩選器**：依特定具名帳戶篩選管道和收入儀表板。
 
 ## 廣告網路 {#ad-networks}

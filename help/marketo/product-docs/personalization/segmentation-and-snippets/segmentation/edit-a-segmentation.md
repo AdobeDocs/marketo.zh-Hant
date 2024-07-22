@@ -17,21 +17,21 @@ ht-degree: 0%
 
 ## 建立區段草稿 {#create-a-segmentation-draft}
 
-1. 前往 **資料庫**.
+1. 移至&#x200B;**資料庫**。
 
    ![](assets/db.png)
 
-1. 在您的區段中，按一下 **分段動作** 然後 **建立草稿**.
+1. 在分段中，按一下&#x200B;**分段動作**，然後按&#x200B;**建立草稿**。
 
    ![](assets/two.png)
 
-1. 此 **狀態** 變更為「已核准並草稿」。 A **草稿** 資料夾會在您的細分中建立。
+1. **狀態**&#x200B;已變更為已核准草稿。 已在您的細分中建立&#x200B;**草稿**&#x200B;資料夾。
 
    ![](assets/three.png)
 
 ## 新增、編輯或刪除區段 {#add-edit-or-delete-segments}
 
-1. 在您的區段中，按一下 **分段動作** 然後 **編輯區段**.
+1. 在分段中，按一下&#x200B;**分段動作**，然後按&#x200B;**編輯區段**。
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >您只能編輯草稿的區段，而不能編輯已核准的區段。
 
-1. **新增區段**， **編輯** 現有（重新命名或變更順序）或 **刪除** 任何區段。
+1. **新增區段**、**編輯**&#x200B;現有的（重新命名或變更順序）或&#x200B;**刪除**&#x200B;任何區段。
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -49,11 +49,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >刪除會影響電子郵件、登陸頁面及程式碼片段中所有相關的動態內容。 **沒有復原**. 檢查 **使用者** 標籤檢視該區段的用途。
+   >刪除會影響電子郵件、登陸頁面及程式碼片段中所有相關的動態內容。 **沒有復原**。 檢查&#x200B;**Used By**&#x200B;索引標籤以檢視該區段的使用者。
 
 ## 編輯區段規則 {#edit-segment-rules}
 
-1. 在您的草稿中 **區段**，前往 **智慧清單**. 套用類似於 [定義區段規則](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. 在您的草稿&#x200B;**區段**&#x200B;中，移至&#x200B;**智慧清單**。 套用類似於[定義區段規則](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)的規則。
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 

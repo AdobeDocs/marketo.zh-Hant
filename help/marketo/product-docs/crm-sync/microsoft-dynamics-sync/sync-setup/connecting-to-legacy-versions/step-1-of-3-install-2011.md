@@ -6,8 +6,8 @@ exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 2%
+source-wordcount: '285'
+ht-degree: 0%
 
 ---
 
@@ -21,41 +21,41 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->您必須擁有 [網際網路對向部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 已設定2.0、2.1或3.0 (ADFS)。 **注意**：當您按一下連結時，IFD檔案會自動下載。
+>您必須設定[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0、2.1或3.0 (ADFS)的[網際網路對向部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD)。 **附註**：當您按一下連結時，IFD檔案會自動下載。
 >
->[下載Marketo銷售機會管理解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} 開始之前。
+>開始之前[請下載Marketo銷售機會管理解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}。
 
 >[!NOTE]
 >
->**需要Dynamics管理員許可權**.
+>**需要Dynamics管理員許可權**。
 >
 >您需要CRM系統管理員許可權才能執行此同步處理。
 
-1. 登入Dynamics並選取 **[!UICONTROL 設定]** 在左下角選單中。
+1. 登入Dynamics並選取左下方功能表中的&#x200B;**[!UICONTROL 設定]**。
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
-1. 選取 **[!UICONTROL 解決方案]** 在樹狀結構中。
+1. 在樹狀結構中選取&#x200B;**[!UICONTROL 解決方案]**。
 
    ![](assets/image2015-4-2-11-3a35-3a28.png)
 
-1. 按一下 **[!UICONTROL 匯入]**.
+1. 按一下&#x200B;**[!UICONTROL 匯入]**。
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. 按一下 **[!UICONTROL 瀏覽]**. 選取您的Marketo銷售機會管理解決方案 [已下載](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. 按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 按一下&#x200B;**[!UICONTROL 瀏覽]**。 選取您[下載的Marketo銷售機會管理解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}。 按一下&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
-1. 檢視解決方案資訊，然後按一下 **[!UICONTROL 檢視解決方案套件詳細資料]**.
+1. 檢視方案資訊，然後按一下&#x200B;**[!UICONTROL 檢視方案封裝詳細資料]**。
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
-1. 檢查完所有詳細資料後，按一下 **[!UICONTROL 關閉]**.
+1. 檢查完所有詳細資料後，按一下[關閉]。****
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. 返回「解決方案資訊」頁面，按一下 **[!UICONTROL 下一個]**.
+1. 返回[方案資訊]頁面，按一下[下一步]。****
 
    ![](assets/image2015-4-2-11-3a41-3a48.png)
 
@@ -79,11 +79,11 @@ ht-degree: 2%
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. Marketo銷售機會管理現在會出現在 **所有解決方案** 頁面。
+1. Marketo銷售機會管理現在會出現在&#x200B;**所有解決方案**&#x200B;頁面上。
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. 選取Marketo銷售機會管理並按一下 **[!UICONTROL 發佈所有自訂]**.
+1. 選取「Marketo銷售機會管理」，然後按一下&#x200B;**[!UICONTROL Publish所有自訂]**。
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 
@@ -93,4 +93,4 @@ ht-degree: 2%
 
 >[!MORELIKETHIS]
 >
->[步驟3之2：在Dynamics中設定Marketo同步使用者（2011內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md){target="_blank"}
+>[步驟2之3：在Dynamics （2011內部部署）中設定Marketo同步使用者](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md){target="_blank"}

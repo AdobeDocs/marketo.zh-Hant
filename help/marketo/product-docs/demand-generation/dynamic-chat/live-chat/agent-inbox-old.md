@@ -25,7 +25,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->**這將覆蓋** 此 [即時聊天可用性](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} 您已在[代理程式設定]中建立。 狀態會一直保留，直到您將其切換回或在您的可用性中切換至下一個時間區塊為止。
+>**這將覆寫**&#x200B;您在[代理程式設定]中建立的[即時聊天可用性](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"}。 狀態會一直保留，直到您將其切換回或在您的可用性中切換至下一個時間區塊為止。
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## 即時聊天通知 {#live-chat-notifications}
 
-進一步瞭解 [即時聊天總覽](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+進一步瞭解[即時聊天總覽](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}中的通知。
 
 ## 對話 {#conversations}
 
@@ -53,7 +53,7 @@ ht-degree: 1%
 
 ## 結束工作階段 {#end-a-session}
 
-代理程式只要按一下 **結束工作階段** 按鈕來存取訪客資訊。
+代理程式只要按一下訪客資訊旁邊的&#x200B;**結束工作階段**&#x200B;按鈕，就可以手動終止工作階段。
 
 ![](assets/agent-inbox-6.png)
 
@@ -75,7 +75,7 @@ ht-degree: 1%
 
    ![](assets/agent-inbox-8.png)
 
-1. 選擇所需的代理程式行事曆並按一下 **傳送**.
+1. 選擇所需的代理程式行事曆並按一下&#x200B;**傳送**。
 
    ![](assets/agent-inbox-9.png)
 

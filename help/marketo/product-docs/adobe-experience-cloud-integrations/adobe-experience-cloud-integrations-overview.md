@@ -5,7 +5,7 @@ exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Adobe提供完善的需求行銷解決方案，一開始可在各種Adobe Experi
 
 >[!NOTE]
 >
->整合，包括Audience Manager和 [!DNL Adobe Real-Time CDP Marketo Connecter]，可能需要Marketo Engage中的IMS組織對應。 [瞭解如何設定Adobe組織對應](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}.
+>這些整合(包括Audience Manager和[!DNL Adobe Real-Time CDP Marketo Connecter])可能需要Marketo Engage中的IMS組織對應。 [瞭解如何設定Adobe組織對應](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}。
 
 ## Adobe Experience Cloud整合 {#adobe-experience-cloud-integrations}
 
@@ -30,6 +30,6 @@ Adobe提供完善的需求行銷解決方案，一開始可在各種Adobe Experi
 
 **Marketo與Adobe Experience Manager整合**
 
-* [使用Adobe Experience Manager匯入資產](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md){target="_blank"}
+* [使用Adobe Experience Manager匯入Assets](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md){target="_blank"}
 
-* [整合Adobe Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md){target="_blank"}
+* [與Adobe Analytics整合](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md){target="_blank"}

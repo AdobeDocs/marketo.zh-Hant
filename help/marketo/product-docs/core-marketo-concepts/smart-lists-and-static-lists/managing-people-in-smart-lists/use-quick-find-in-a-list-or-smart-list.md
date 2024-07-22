@@ -15,17 +15,17 @@ ht-degree: 0%
 
 使用快速尋找，從清單或智慧清單的結果中尋找人員。
 
-1. 前往 **[!UICONTROL 行銷活動]**.
+1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取您要搜尋的智慧列示，然後按一下 **[!UICONTROL 人員]** 標籤。
+1. 選取您要搜尋的智慧清單，然後按一下&#x200B;**[!UICONTROL 人員]**&#x200B;索引標籤。
 
    ![](assets/smartlistpeople.png)
 
 ## 使用個人資訊尋找人員 {#find-people-using-personal-info}
 
-1. 在 **[!UICONTROL 快速尋找]** 方塊中，輸入關鍵字(**個人名稱**， **電子郵件地址**，或 **職稱**)。
+1. 在畫面底部的&#x200B;**[!UICONTROL 快速尋找]**&#x200B;方塊中，輸入關鍵字（**個人姓名**、**電子郵件地址**&#x200B;或&#x200B;**職稱**）。
 
    ![](assets/searchpeople.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 使用公司名稱尋找人員 {#find-people-using-a-company-name}
 
-1. 若要尋找公司，請輸入 `[company]` 「快速尋找」方塊中，後面跟著您要尋找之公司名稱的任何部分。
+1. 若要尋找公司，請在[快速尋找]方塊中輸入`[company]`，然後輸入您要尋找之公司名稱的任何部分。
 
    ![](assets/supersmartlistsearch.jpg)
 

@@ -6,7 +6,7 @@ exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 此版本包含備受期待的整合式社交功能和銷售機會管理小工具！ 注意：社交功能可作為附加元件或所選套裝的一部分使用。
 
-## 透過社交分享發佈YouTube影片 {#publish-a-youtube-video-with-social-sharing}
+## 使用社交分享的Publish a YouTube影片 {#publish-a-youtube-video-with-social-sharing}
 
 鼓勵訪客使用登陸頁面上新的視訊共用功能，進行社交分享，藉此擴大視訊的受眾。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## 將登陸頁面發佈至Facebook {#publish-landing-pages-to-facebook}
+## Publish登陸頁面至Facebook {#publish-landing-pages-to-facebook}
 
 將登入頁面直接發佈至Facebook，並完成社交應用程式、表單，以及Marketo登入頁面的完整功能，以擴充登入頁面的觸及範圍。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## Webhooks （寶箱） {#webhooks-treasure-chest}
 
-Webhook是使用者定義的HTTP回呼。 這是將資料從Marketo推播到任何其他服務的絕佳方式。 此功能目前可在Treasure Chest中使用，目前僅支援觸發行銷活動。
+Webhook是使用者定義的HTTP回呼。 這是將資料從Marketo推播至任何其他服務的絕佳方式。 此功能目前可在Treasure Chest中使用，目前僅支援觸發行銷活動。
 
 您如何使用Webhook的範例包括：將使用者名稱和密碼資訊張貼到另一個系統以建立試用帳戶；當您取得新潛在客戶時傳送SMS文字訊息。
 

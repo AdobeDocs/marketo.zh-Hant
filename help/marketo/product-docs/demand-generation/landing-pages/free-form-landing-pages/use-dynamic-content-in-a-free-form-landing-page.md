@@ -17,25 +17,25 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立細分](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [建立分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [建立自由格式的登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 >* [新增表單至自由表單登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 ## 新增分段 {#add-segmentation}
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 選取您的登陸頁面，然後按一下 **編輯草稿**.
+1. 選取您的登陸頁面，然後按一下&#x200B;**編輯草稿**。
 
    ![](assets/landingpageeditdraft-1.jpg)
 
-1. 按一下 **分段依據**.
+1. 按一下&#x200B;**分段依據**。
 
    ![](assets/image2014-9-17-12-3a8-3a46.png)
 
-1. 輸入區段名稱並按一下 **儲存**.
+1. 輸入分段名稱，然後按一下&#x200B;**儲存**。
 
    ![](assets/image2014-9-17-12-3a8-3a53.png)
 
@@ -49,17 +49,17 @@ ht-degree: 0%
 
 ## 將元素設為動態 {#make-element-dynamic}
 
-1. 從下方拖放動態內容元素 **靜態** 至 **動態**.
+1. 將動態內容元素從&#x200B;**Static**&#x200B;底下拖放至&#x200B;**Dynamic**。
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. 您也可以製作元素 **靜態** 或 **動態** 從元素 **設定**.
+1. 您也可以從元素&#x200B;**設定**&#x200B;將元素設為&#x200B;**靜態**&#x200B;或&#x200B;**動態**。
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
 ## 套用動態內容 {#apply-dynamic-content}
 
-1. 選取區段下的元素，按一下設定圖示，然後按一下 **編輯**. 對每個區段重複。
+1. 選取區段下的元素，按一下設定圖示，然後按一下&#x200B;**編輯**。 對每個區段重複。
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 瞭解如何將新影像或檔案新增至您的Marketo Engage執行個體。
 
-1. 前往 **Design Studio**.
+1. 移至&#x200B;**設計工作室**。
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. 選取 **[!UICONTROL 影像和檔案]**
+1. 選取&#x200B;**[!UICONTROL 影像和檔案]**
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. 按一下 **[!UICONTROL 影像和檔案動作]** 下拉式清單並選取 **[!UICONTROL 上傳影像或檔案]**.
+1. 按一下&#x200B;**[!UICONTROL 影像和檔案動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 上傳影像或檔案]**。
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >每個檔案的大小上限為100MB。
 
-1. 選取資產後，按一下 **上傳**.
+1. 選取資產後，按一下&#x200B;**上傳**。
 
    ![](assets/add-images-and-files-to-marketo-5.png)
 

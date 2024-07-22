@@ -5,7 +5,7 @@ title: 瞭解通知
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -28,20 +28,20 @@ ht-degree: 0%
 
 您可以訂閱通知，以便在電子郵件中接收這些通知。
 
-1. 前往「通知」並按一下 **[!UICONTROL 訂閱]**.
+1. 移至[通知]並按一下[訂閱]。****
 
    ![](assets/understanding-notifications-3.png)
 
-1. 選取通知型別，然後輸入您要傳送通知的電子郵件地址（以逗號分隔）。 按一下 **[!UICONTROL 訂閱]** 完成時。
+1. 選取通知型別，然後輸入您要傳送通知的電子郵件地址（以逗號分隔）。 完成時，按一下&#x200B;**[!UICONTROL 訂閱]**。
 
    ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->此 **[!UICONTROL 傳送至]** 區域僅供您輸入電子郵件，不會顯示現有訂閱者的清單。
+>**[!UICONTROL 傳送至]**&#x200B;區域僅供您輸入電子郵件，不會顯示現有訂閱者的清單。
 
 在某些情況下，通知會提供「檢視完整清單」連結來下載逗號分隔值(CSV)檔案，例如Microsoft Dynamics同步處理錯誤檔案。 Marketo會將這些CSV檔案保留30天。 如果您在30天後嘗試下載檔案，將會出現404錯誤。
 
 >[!TIP]
 >
->要取消訂閱通知電子郵件嗎？ 沒問題。 只需按一下 **[!UICONTROL 取消訂閱通知]** 電子郵件底部的連結。
+>要取消訂閱通知電子郵件嗎？ 沒問題。 只要按一下電子郵件底部的&#x200B;**[!UICONTROL 取消訂閱通知]**&#x200B;連結即可。

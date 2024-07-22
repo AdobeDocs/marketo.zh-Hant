@@ -7,7 +7,7 @@ feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -15,18 +15,18 @@ ht-degree: 4%
 
 您可以在Salesforce中停用在Lead Assignment時傳送給Lead Owners的自動電子郵件通知。 方法如下。
 
-1. 前往 **[!UICONTROL 管理員]**.
+1. 移至&#x200B;**[!UICONTROL 管理員]**。
 
    ![](assets/admin-1.png)
 
-1. 按一下 **[!DNL Salesforce]**.
+1. 按一下&#x200B;**[!DNL Salesforce]**。
 
    ![](assets/adminsalesforce.png)
 
-1. 在 **[!UICONTROL 同步選項]**，按一下 **[!UICONTROL 編輯]**.
+1. 在&#x200B;**[!UICONTROL 同步選項]**&#x200B;下，按一下&#x200B;**[!UICONTROL 編輯]**。
 
    ![](assets/salesforcesummary2.jpg)
 
-1. 取消核取 **[!UICONTROL 在潛在客戶指派時傳送電子郵件通知給Salesforce中的擁有者]** 方塊。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 取消勾選&#x200B;**[!UICONTROL 在潛在客戶指派]**&#x200B;方塊時傳送電子郵件通知給Salesforce中的擁有者。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/new-screen.png)

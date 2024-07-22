@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >每個工作區都有自己的資料庫控制面板。
 
-若要取得，請選取「 」 **[!UICONTROL 資料庫]** 從您的「我的Marketo」。
+若要取得該位置，請從您的[我的Marketo]中選取&#x200B;**[!UICONTROL 資料庫]**。
 
 ![](assets/database-dashboard-1.png)
 
@@ -29,8 +29,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->想要取得您人員更具體或及時的資訊嗎？ 試用 [人員績效報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
+>想要取得您人員更具體或及時的資訊嗎？ 請嘗試[人員績效報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}。
 
-**總人數：** 列出之工作區的所有時間使用者人數。
+**總人數：**&#x200B;列出的工作區所有時間的人數。
 
-**可銷售人員：** 列出之工作區的全職人數， _減去以下專案_：沒有電子郵件地址的人、電子郵件已硬退信的人、已列入封鎖名單的人、已取消訂閱的人、目前設定為行銷已擱置的人。
+**可銷售的人員：**&#x200B;列出的工作區所有時間人員數，_減去下列專案_：沒有電子郵件地址的人員、電子郵件已硬退信的人員、已列入封鎖名單的人員、已取消訂閱的人員、目前設定為行銷活動已暫停的人員。

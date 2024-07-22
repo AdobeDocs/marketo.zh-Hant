@@ -16,15 +16,15 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [建立電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [使用智慧清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 或 [透過匯入清單來定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [使用智慧列示定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)或[透過匯入清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >[!CAUTION]
 >
->如需準確的報告，請避免 _重複使用_ 來自電子郵件程式的電子郵件，方法是在Smart Campaign中參考該電子郵件程式，或將資產從已啟動的電子郵件程式移至新的電子郵件程式。 這麼做會彙總該電子郵件附加之每個報告控制面板中的所有資料。 如果您需要重複使用電子郵件，請 [原地複製](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 相反地，這複製了電子郵件，但會建立具有新電子郵件ID的新電子郵件。
+>為獲得準確的報告，請避免&#x200B;_重複使用電子郵件程式的_&#x200B;電子郵件，方法是在智慧行銷活動中參考該電子郵件，或將資產從已啟動的電子郵件程式移至新的電子郵件程式。 這麼做會彙總該電子郵件附加之每個報告控制面板中的所有資料。 如果您需要重複使用電子郵件，請改為複製[它](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}，因為這樣會複製電子郵件，但會建立具有新電子郵件識別碼的新電子郵件。
 
-一旦您 [已建立電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 並定義您的對象，您會想要決定要傳送哪些電子郵件。 您可以 [為電子郵件程式建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) 從頭開始或挑選已經存在的專案。 以下說明如何挑選已存在的專案。
+在您[建立電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)並定義您的對象後，您將會想要決定要傳送哪些電子郵件。 您可以從草稿開始[為電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)建立電子郵件，或挑選已存在的電子郵件。 以下說明如何挑選已存在的專案。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,13 +32,13 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram.jpg)
 
-1. 在 **電子郵件** 圖磚，選取您要傳送的專案。
+1. 在&#x200B;**電子郵件**&#x200B;圖磚下，選取您要傳送的圖磚。
 
    ![](assets/image2014-9-12-11-3a28-3a10.png)
 
    >[!NOTE]
    >
-   >只能選取本機電子郵件。 是否需要將電子郵件從一個計畫移動到另一個計畫？ [在此處瞭解詳情](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md).
+   >只能選取本機電子郵件。 是否需要將電子郵件從一個計畫移動到另一個計畫？ [在這裡瞭解如何操作](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md)。
 
    真貼心！
 

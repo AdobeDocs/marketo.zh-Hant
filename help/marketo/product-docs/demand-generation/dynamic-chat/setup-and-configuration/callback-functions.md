@@ -80,7 +80,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-此 `event` parameter是物件，其中包含與交談相關的中繼資料。 您可以存取此中繼資料 `event.data`.
+`event`引數是一個物件，其中包含與交談相關的中繼資料。 您可以存取`event.data`來存取此中繼資料。
 
 以下是您可以存取的一些主要中繼資料值：
 
@@ -145,7 +145,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-此 `event` parameter是物件，其中包含與交談相關的中繼資料。 您可以存取此中繼資料 `event.data`.
+`event`引數是一個物件，其中包含與交談相關的中繼資料。 您可以存取`event.data`來存取此中繼資料。
 
 以下是您可以存取的一些主要中繼資料值：
 
@@ -199,7 +199,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-此 `event` parameter是物件，其中包含與交談相關的中繼資料。 您可以存取此中繼資料 `event.data`.
+`event`引數是一個物件，其中包含與交談相關的中繼資料。 您可以存取`event.data`來存取此中繼資料。
 
 以下是您可以存取的一些主要中繼資料值：
 
@@ -304,7 +304,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-此 `event` parameter是物件，其中包含與交談相關的中繼資料。 您可以存取此中繼資料 `event.data`.
+`event`引數是一個物件，其中包含與交談相關的中繼資料。 您可以存取`event.data`來存取此中繼資料。
 
 以下是您可以存取的一些主要中繼資料值：
 

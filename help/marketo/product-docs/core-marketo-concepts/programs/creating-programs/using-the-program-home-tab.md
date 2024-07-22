@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 摘要檢視 {#summary-view}
 
-1. 前往 **[!UICONTROL 行銷活動]**.
+1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,17 +33,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. 按一下 **[!UICONTROL 匯出]** 位於摘要底部以下載報表。
+1. 按一下摘要底部的&#x200B;**[!UICONTROL 匯出]**&#x200B;以下載報告。
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
 ## 由檢視使用 {#used-by-view}
 
-1. 在 **[!UICONTROL 行銷活動]**，選取方案。
+1. 在&#x200B;**[!UICONTROL 行銷活動]**&#x200B;中，選取方案。
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. 按一下 **[!UICONTROL 檢視]** 下拉式清單。 選取 **[!UICONTROL 使用者]**.
+1. 按一下&#x200B;**[!UICONTROL 檢視]**&#x200B;下拉式清單。 選取&#x200B;]**使用的**[!UICONTROL 。
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
 ## 成員資格檢視 {#membership-view}
 
-1. 在 **[!UICONTROL 行銷活動]**，選取方案。
+1. 在&#x200B;**[!UICONTROL 行銷活動]**&#x200B;中，選取方案。
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. 按一下 **[!UICONTROL 檢視]** 下拉式清單。 選取 **[!UICONTROL 會籍]**.
+1. 按一下&#x200B;**[!UICONTROL 檢視]**&#x200B;下拉式清單。 選取&#x200B;**[!UICONTROL 成員資格]**。
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,8 +67,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**[!UICONTROL 歷史]** 表示曾瀏覽過此計畫的使用者，而 **[!UICONTROL 目前]** 僅包含目前加入方案的人員。
+   >**[!UICONTROL 歷史]**&#x200B;表示曾瀏覽過此計畫的使用者，而&#x200B;**[!UICONTROL 目前]**&#x200B;僅包含目前參與此計畫的使用者。
 
    >[!MORELIKETHIS]
    >
-   >[瞭解計畫會員資格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+   >[瞭解計畫成員資格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

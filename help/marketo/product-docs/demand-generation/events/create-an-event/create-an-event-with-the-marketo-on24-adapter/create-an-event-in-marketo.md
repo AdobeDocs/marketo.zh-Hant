@@ -19,9 +19,9 @@ Marketo事件會追蹤您的人員透過方案的進度。 它會使用ON24介�
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-建立Marketo事件時，選取 **網路研討會** 作為管道型別。 您可以在「管理員」中編輯此頻道，並建立新頻道。 如果您建立新的管道，其型別必須是 **含網路研討會的事件** 讓整合發揮作用。 另請參閱 [建立方案頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} 以取得詳細資訊。
+建立Marketo活動時，請選取&#x200B;**網路研討會**&#x200B;作為頻道型別。 您可以在「管理員」中編輯此頻道，並建立新頻道。 如果您建立新管道，其型別必須是&#x200B;**具有網路研討會**&#x200B;的事件，整合才能運作。 如需詳細資訊，請參閱[建立方案頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}。
 
-您的下一個步驟是 [設定事件設定並將Marketo與您的網路研討會同步](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}.
+您的下一個步驟是[設定事件設定，並將Marketo與您的網路研討會同步](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}。
 
 >[!MORELIKETHIS]
 >

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 若要從網頁新增影像，請複製含有所需影像之網頁的網址(URL)，然後遵循這些簡單的步驟進行。
 
-1. 前往 **Design Studio**.
+1. 移至&#x200B;**設計工作室**。
 
    ![](assets/designstudio-2.png)
 
-1. 按一下 **新增** 和 **從網頁抓取影像**.
+1. 按一下&#x200B;**新增**&#x200B;和&#x200B;**從網頁抓取影像**。
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. 選取 **影像和檔案** 資料夾，將網址(URL)貼到URL文字方塊中，然後按一下 **下一個**.
+1. 選取&#x200B;**影像和檔案**&#x200B;資料夾，將網址(URL)貼到URL文字方塊中，然後按一下&#x200B;**下一步**。
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >此功能無法用於直接指向影像的URL。 使用包含影像的網頁的URL。
 
-1. 選取您要新增的影像，然後按一下 **匯入**.
+1. 選取您要新增的影像，然後按一下[匯入]。****
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. 您可在以下位置檢視所有可用的影像： **影像和檔案**.
+1. 您可以在&#x200B;**影像和檔案**&#x200B;中看到所有可用的影像。
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [將影像和檔案新增至Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+>* [新增影像和檔案至Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 >* [使用資料夾組織您的影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
 >* [尋找已上傳影像或檔案的URL](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
->* [從方塊上傳影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
+>* [從Box](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)上傳影像和檔案

@@ -6,7 +6,7 @@ exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 同步狀態標籤 {#sync-status-tab}
 
-1. 按一下 **[!UICONTROL 管理員]**，然後 **[!UICONTROL Microsoft Dynamics]**.
+1. 按一下&#x200B;**[!UICONTROL 管理員]**，然後按一下&#x200B;**[!UICONTROL Microsoft Dynamics]**。
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. 按一下 **[!UICONTROL 同步狀態]** 標籤。
+1. 按一下&#x200B;**[!UICONTROL 同步處理狀態]**&#x200B;索引標籤。
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. 按一下 **[!UICONTROL 檢視]** 下拉式清單並選取 **[!UICONTROL 過去一小時]** 以檢視輸送量資訊。
+1. 按一下&#x200B;**[!UICONTROL 檢視]**&#x200B;下拉式清單，並選取&#x200B;**[!UICONTROL 上一小時]**&#x200B;以檢視輸送量資訊。
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 

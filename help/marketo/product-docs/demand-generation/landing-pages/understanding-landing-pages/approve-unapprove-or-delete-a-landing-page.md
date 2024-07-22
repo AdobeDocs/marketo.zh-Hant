@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 核准登陸頁面 {#approve-a-landing-page}
 
-1. 選取登入頁面，前往 **登陸頁面動作** 並按一下 **核准**.
+1. 選取登陸頁面，前往&#x200B;**登陸頁面動作**&#x200B;並按一下&#x200B;**核准**。
 
    >[!TIP]
    >
-   >您可以 [一次核准多個頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) 讓您的生活更輕鬆。
+   >您可以一次[核准多個頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)，讓您的生活更輕鬆。
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. 您也可以用滑鼠右鍵按一下登入頁面，然後按一下 **核准**.
+1. 您也可以用滑鼠右鍵按一下登入頁面，然後按一下[核准]。****
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
@@ -35,21 +35,21 @@ ht-degree: 0%
 
 ## 取消核准登陸頁面 {#unapprove-a-landing-page}
 
-1. 選取登入頁面，前往 **登陸頁面動作** 並按一下 **取消核准**.
+1. 選取登陸頁面，前往&#x200B;**登陸頁面動作**&#x200B;並按一下&#x200B;**取消核准**。
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. 您也可以以滑鼠右鍵按一下登入頁面，然後按一下 **取消核准**.
+1. 您也可以用滑鼠右鍵按一下您的登入頁面，然後按一下&#x200B;**取消核准**。
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
 >[!NOTE]
 >
->您未核准的登陸頁面不再發佈在網頁上，且不會產生其他活動。 未核准登陸頁面的訪客及其Facebook標籤將會看到 [後援頁面](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
+>您未核准的登陸頁面不再發佈在網頁上，且不會產生其他活動。 未核准登陸頁面的訪客及其Facebook標籤將會看到[後援頁面](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)。
 
 ## 刪除登陸頁面 {#delete-a-landing-page}
 
-1. 選取登入頁面，前往 **登陸頁面動作** 並按一下 **刪除**.
+1. 選取登陸頁面，前往&#x200B;**登陸頁面動作**&#x200B;並按一下&#x200B;**刪除**。
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
    >
    >您無法刪除核准的登陸頁面。 先取消核准。
 
-1. 您也可以用滑鼠右鍵按一下登入頁面，然後按一下 **刪除**.
+1. 您也可以用滑鼠右鍵按一下登入頁面，然後按一下&#x200B;**刪除**。
 
    ![](assets/image2014-9-16-15-3a50-3a40.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 想要一次刪除多個登陸頁面？ 方法如下。
 
-1. 在Design Studio中按一下 **登陸頁面**.
+1. 在Design Studio中，按一下&#x200B;**登陸頁面**。
 
    ![](assets/one.png)
 
@@ -77,11 +77,11 @@ ht-degree: 0%
    >
    >您也可以使用Ctrl+Click來刪除多個非循序的登入頁面。
 
-1. 按一下 **登陸頁面動作** 下拉式清單並選取 **刪除**.
+1. 按一下&#x200B;**登陸頁面動作**&#x200B;下拉式清單，然後選取&#x200B;**刪除**。
 
    ![](assets/three.png)
 
-1. 按一下 **刪除**.
+1. 按一下&#x200B;**刪除**。
 
    ![](assets/four.png)
 

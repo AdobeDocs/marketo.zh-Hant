@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以在Microsoft Dynamics中直接快速輕鬆地新增銷售機會/聯絡人至Marketo智慧行銷活動。 方法如下。
 
-1. 在Dynamics中，前往 **銷售** 區域。
+1. 在Dynamics中，移至&#x200B;**Sales**&#x200B;區域。
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -27,16 +27,16 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. 按一下 **...** 並選取 **新增至Marketo Campaign**.
+1. 按一下&#x200B;**...**&#x200B;並選取&#x200B;**新增至Marketo行銷活動**。
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
-1. 選取您要新增銷售機會或聯絡人的Marketo行銷活動，然後按一下 **新增**.
+1. 選取您要新增潛在客戶或連絡人的Marketo行銷活動，然後按一下&#x200B;**新增**。
 
    ![](assets/image2014-10-20-12-3a10-3a42.png)
 
    >[!NOTE]
    >
-   >為了讓行銷活動出現在下拉式清單中，請使用  [**行銷活動已要求** 觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)，當您設定行銷活動時，以銷售分析作為來源。
+   >若要讓行銷活動顯示在下拉式清單中，請在設定行銷活動時，使用&#x200B;[**已要求行銷活動**&#x200B;觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)，以銷售分析作為來源。
 
 這就是大家！ 現在，您可以直接從Dynamics取得Marketo智慧型行銷活動的強大功能。

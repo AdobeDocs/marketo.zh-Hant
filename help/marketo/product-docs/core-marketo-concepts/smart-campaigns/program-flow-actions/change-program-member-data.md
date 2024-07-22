@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >您也可以封鎖欄位不更新。 如需詳細資訊，請參閱封鎖欄位的更新。
 
-1. 在Smart Campaign的「流量」標籤中，將 **[!UICONTROL 變更方案成員資料]** 流程步驟並選擇所需的程式。
+1. 在Smart Campaign的「流量」標籤中，帶入&#x200B;**[!UICONTROL 變更方案成員資料]**&#x200B;流量步驟，然後選擇所需的方案。
 
    ![](assets/change-program-member-data-1.png)
 
@@ -32,13 +32,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您也可以在中使用權杖 [!UICONTROL 新值].
+>您也可以在[!UICONTROL 新值]中使用權杖。
 
 現在，只要執行Smart Campaign，您就完成了！
 
 >[!TIP]
 >
->如果您要清除欄位而不是更新欄位，您可以輸入「NULL」（無引號，全部大寫）作為 [!UICONTROL 新值].
+>如果您要清除欄位而不是更新欄位，可以輸入「NULL」（無引號，全部大寫）作為[!UICONTROL 新值]。
 
 >[!MORELIKETHIS]
 >

@@ -15,19 +15,19 @@ ht-degree: 0%
 
 並非所有頁面問題都可能對您有幫助。 以下說明移除步驟。
 
-1. 前往 **[!UICONTROL 頁面]** 區段。
+1. 移至&#x200B;**[!UICONTROL 頁面]**&#x200B;區段。
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. 在 [!UICONTROL 頁面] 區段，按一下 **[!UICONTROL 問題]**.
+1. 在[!UICONTROL 頁面]區段中，按一下&#x200B;**[!UICONTROL 問題]**。
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. 暫留在您要移除的頁面問題上。 按一下 **[!UICONTROL 移除]**.
+1. 暫留在您要移除的頁面問題上。 按一下&#x200B;**[!UICONTROL 移除]**。
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. 按一下 **[!UICONTROL 刪除]** 將永久移除此頁面問題。
+1. 按一下「**[!UICONTROL 刪除]**」將會永久移除此頁面問題。
 
    >[!CAUTION]
    >

@@ -15,15 +15,15 @@ ht-degree: 1%
 
 Marketo Engage有一些非常實用的內建智慧清單。 讓我們看看他們！
 
-1. 前往 **[!UICONTROL 資料庫]**.
+1. 移至&#x200B;**[!UICONTROL 資料庫]**。
 
    ![](assets/db.png)
 
-1. 開啟 **[!UICONTROL 系統智慧清單]** 資料夾以顯示集合。
+1. 開啟&#x200B;**[!UICONTROL 系統智慧列示]**&#x200B;資料夾以顯示集合。
 
    ![](assets/two.png)
 
-1. 檢視一個範例：選取 **[!UICONTROL 所有人員]**，然後按一下 **[!UICONTROL 人員]** 標籤。
+1. 若要檢視範例：選取&#x200B;**[!UICONTROL 所有人員]**，然後按一下&#x200B;**[!UICONTROL 人員]**&#x200B;索引標籤。
 
    ![](assets/three.png)
 

@@ -46,7 +46,7 @@ CRM同步通知會針對CRM同步處理發現的關鍵問題提醒您，例如�
 
 ## 閒置觸發程式促銷活動清除 {#idle-trigger-campaign-cleanup}
 
-停用已觸發不再取得任何活動的智慧型行銷活動。 進一步瞭解  [自動觸發行銷活動清除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+停用已觸發不再取得任何活動的智慧型行銷活動。 深入瞭解[自動觸發行銷活動清理](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
 
 ## LinkedIn {#linkedin}
 
@@ -60,4 +60,4 @@ CRM同步通知會針對CRM同步處理發現的關鍵問題提醒您，例如�
 
 >[!NOTE]
 >
->您可能會收到的部分錯誤碼概述於 [開發人員檔案](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).
+>我們在[開發人員檔案](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes)中列出您可能會收到的部分錯誤碼。

@@ -15,31 +15,31 @@ ht-degree: 0%
 
 如果您要代表潛在客戶擁有者傳送電子郵件給潛在客戶，該怎麼做？  方法如下。
 
-1. 尋找您的電子郵件，選取並按一下 **編輯草稿**.
+1. 尋找您的電子郵件，選取並按一下&#x200B;**編輯草稿**。
 
    ![](assets/one.png)
 
-1. 按一下 **從** 欄位（刪除任何現有名稱），然後按一下 **插入權杖** 按鈕。
+1. 按一下&#x200B;**從**&#x200B;欄位（刪除任何現有名稱），然後按一下&#x200B;**插入權杖**&#x200B;按鈕。
 
    ![](assets/two.png)
 
-1. 開始輸入&quot;`{{lead.Lead Owner`」並選取 **`{{lead.Lead Owner First Name}}`** Token。
+1. 開始輸入&quot;`{{lead.Lead Owner`&quot;並選取&#x200B;**`{{lead.Lead Owner First Name}}`**&#x200B;權杖。
 
    ![](assets/image2014-9-11-13-3a7-3a43.png)
 
-1. 輸入預設值，以防止潛在客戶尚未擁有潛在客戶擁有者，然後按一下 **插入**.
+1. 輸入預設值，以防止潛在客戶尚未擁有潛在客戶擁有者，然後按一下[插入]。****
 
    ![](assets/image2014-9-11-13-3a7-3a58.png)
 
-1. 在第一個Token之後按一下，新增空格，然後按一下 **插入權杖** 按鈕。
+1. 在第一個權杖之後按一下，新增空格，然後按一下&#x200B;**插入權杖**&#x200B;按鈕。
 
    ![](assets/five.png)
 
-1. 開始輸入&quot;`{{lead.Lead Owner`」並選取 **`{{lead.Lead Owner Last Name}}`** Token。
+1. 開始輸入&quot;`{{lead.Lead Owner`&quot;並選取&#x200B;**`{{lead.Lead Owner Last Name}}`**&#x200B;權杖。
 
    ![](assets/image2014-9-11-13-3a8-3a24.png)
 
-1. 輸入預設值，以防止潛在客戶尚未擁有潛在客戶擁有者，然後按一下 **插入**.
+1. 輸入預設值，以防止潛在客戶尚未擁有潛在客戶擁有者，然後按一下[插入]。****
 
    ![](assets/image2014-9-11-13-3a8-3a39.png)
 
@@ -51,14 +51,14 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 開始輸入&quot;`{{lead.Lead Owner`」並選取 **`{{lead.Lead Owner Email Address}}`** Token。
+1. 開始輸入&quot;`{{lead.Lead Owner`&quot;並選取&#x200B;**`{{lead.Lead Owner Email Address}}`**&#x200B;權杖。
 
    ![](assets/image2014-9-11-13-3a9-3a33.png)
 
-1. 輸入預設值，以防止潛在客戶尚未擁有潛在客戶擁有者，然後按一下 **插入**.
+1. 輸入預設值，以防止潛在客戶尚未擁有潛在客戶擁有者，然後按一下[插入]。****
 
    ![](assets/ten.png)
 
-1. 確定 **回覆** 和 **主旨** 欄位已填入，您已完成！
+1. 請確定已填入&#x200B;**回覆**&#x200B;和&#x200B;**主旨**&#x200B;欄位，而且您已完成！
 
    ![](assets/eleven.png)

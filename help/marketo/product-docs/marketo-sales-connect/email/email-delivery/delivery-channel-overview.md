@@ -6,7 +6,7 @@ exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo Sales Connect提供您多種傳送電子郵件的選項。 本文將檢�
 
 ## 建議：透過電子郵件連線的Gmail或Exchange {#recommended-gmail-or-exchange-via-email-connection}
 
-Sales Connect可簡化設定，並透過我們的電子郵件連線服務增強傳遞能力。 電子郵件連線可讓每位使用者連線至其 [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) 或 [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) 帳戶至Sales Connect ，用作所有Sales Connect電子郵件選擇的傳遞管道。
+Sales Connect可簡化設定，並透過我們的電子郵件連線服務增強傳遞能力。 電子郵件連線可讓每位使用者連線至他們的[Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)或[Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)帳戶至Sales Connect，以作為所有Sales Connect電子郵件的傳遞選擇管道。
 
 與其他傳遞管道選項相比，使用Gmail或Exchange具有一些明顯的優勢：
 
@@ -25,13 +25,13 @@ Sales Connect可簡化設定，並透過我們的電子郵件連線服務增強�
 * SPF和DKIM等驗證方法已由IT團隊設定和管理，因此無需額外設定。
 * 在指定的電子郵件網路內傳送電子郵件（即以Exchange使用者的身分傳送電子郵件給透過Exchange接收電子郵件的公司）可進一步提升傳遞能力。
 
-請務必注意，這些傳送管道有其本身的傳送限制，而這些限制是由Microsoft和Google強制執行。 為克服此情況，我們採用節流機制來協助使用者符合這些限制。 進一步瞭解 [在此加入電子郵件節流](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+請務必注意，這些傳送管道有其本身的傳送限制，而這些限制是由Microsoft和Google強制執行。 為克服此情況，我們採用節流機制來協助使用者符合這些限制。 在此進一步瞭解[電子郵件節流](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)。
 
 >[!NOTE]
 >
 >根據預設，O365外掛程式一律會使用您的Exchange傳遞管道，而Gmail外掛程式則一律會使用您的Gmail傳遞管道，傳遞外掛程式中的電子郵件。
 
-**跳出追蹤**：MSC可偵測傳送到寄件者收件匣的退信郵件，以偵測Exchange Online或Gmail使用者的退信。 這些跳出通知將彙總到使用者的範本分析、行銷活動分析和即時摘要通知中。 Exchange內部部署客戶不支援跳出追蹤。
+**跳出追蹤**： MSC可偵測傳送到寄件者收件匣的跳出訊息，以偵測Exchange Online或Gmail使用者的跳出。 這些跳出通知將彙總到使用者的範本分析、行銷活動分析和即時摘要通知中。 Exchange內部部署客戶不支援跳出追蹤。
 
 ## 透過SMTP的自訂傳遞頻道 {#custom-delivery-channel-via-smtp}
 
@@ -53,7 +53,7 @@ Marketo電子郵件伺服器未與Sales Connect整合。 Marketo伺服器已針�
 
 >[!MORELIKETHIS]
 >
->* [Gmail使用者的電子郵件連線](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Outlook使用者的電子郵件連線](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* Gmail使用者的[電子郵件連線](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [電子郵件連線給Outlook使用者](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 >* [設定自訂傳遞通道](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
 >* [電子郵件連線節流](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)

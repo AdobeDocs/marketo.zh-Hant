@@ -47,11 +47,11 @@ ht-degree: 0%
 
 ## 建立群組 {#create-a-group}
 
-1. 在「人物」頁面中，按一下 **+** 「群組」旁。
+1. 在「人員」頁面中，按一下「群組」旁的&#x200B;**+**。
 
    ![](assets/manage-groups-1.png)
 
-1. 為群組命名，然後按一下 **建立**.
+1. 為群組命名，然後按一下[建立]。****
 
    ![](assets/manage-groups-2.png)
 
@@ -63,15 +63,15 @@ ht-degree: 0%
 
    ![](assets/manage-groups-3.png)
 
-1. 按一下 **群組動作** 並選取 **建立連絡人並新增至群組**.
+1. 按一下&#x200B;**群組動作**&#x200B;並選取&#x200B;**建立連絡人並新增至群組**。
 
    ![](assets/manage-groups-4.png)
 
    >[!NOTE]
    >
-   >這將會一次新增一個連絡人。 若要同時新增多個連絡人，請遵循 [這些步驟](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
+   >這將會一次新增一個連絡人。 若要同時新增多個連絡人，請遵循[這些步驟](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)。
 
-1. 填寫連絡人資訊，然後按一下 **建立** (或 **建立和新增** 以新增另一個)。
+1. 填寫連絡人資訊，然後按一下&#x200B;**建立** （或&#x200B;**建立並新增新的**&#x200B;以新增其他）。
 
    ![](assets/manage-groups-5.png)
 
@@ -87,15 +87,15 @@ ht-degree: 0%
 
    ![](assets/manage-groups-6.png)
 
-1. 按一下圓點（三個垂直的點）並選取 **共用**.
+1. 按一下dota （三個垂直點）並選取&#x200B;**共用**。
 
    ![](assets/manage-groups-7.png)
 
-1. 按一下下拉式清單，選擇您要共用群組的團隊，然後按一下 **共用**.
+1. 按一下下拉式清單，選擇您要共用群組的團隊，然後按一下&#x200B;**共用**。
 
    ![](assets/manage-groups-8.png)
 
-   您仍然擁有群組，但它現在會顯示在下方 _團隊群組_.
+   您仍然擁有群組，但它現在會顯示在&#x200B;_團隊群組_&#x200B;下。
 
 ## 取消共用群組 {#unshare-a-group}
 
@@ -103,11 +103,11 @@ ht-degree: 0%
 
    ![](assets/manage-groups-9.png)
 
-1. 按一下圓點（三個垂直的點）並選取 **共用**.
+1. 按一下dota （三個垂直點）並選取&#x200B;**共用**。
 
    ![](assets/manage-groups-10.png)
 
-1. 按一下 **X** 在您共用群組的團隊旁邊，然後按一下退出強制回應視窗。
+1. 按一下您共用群組的團隊旁的&#x200B;**X**，然後按一下退出強制回應視窗。
 
    ![](assets/manage-groups-11.png)
 
@@ -119,11 +119,11 @@ ht-degree: 0%
 
    ![](assets/manage-groups-12.png)
 
-1. 按一下圓點（三個垂直的點）並選取 **編輯**.
+1. 按一下dota （三個垂直點）並選取&#x200B;**編輯**。
 
    ![](assets/manage-groups-13.png)
 
-1. 輸入新名稱，然後按一下 **儲存**.
+1. 輸入新名稱，然後按一下&#x200B;**儲存**。
 
    ![](assets/manage-groups-14.png)
 
@@ -133,10 +133,10 @@ ht-degree: 0%
 
    ![](assets/manage-groups-15.png)
 
-1. 按一下圓點（三個垂直的點）並選取 **刪除**.
+1. 按一下dota （三個垂直點）並選取&#x200B;**刪除**。
 
    ![](assets/manage-groups-16.png)
 
-1. 按一下 **刪除** 以確認。
+1. 按一下&#x200B;**刪除**&#x200B;確認。
 
    ![](assets/manage-groups-17.png)

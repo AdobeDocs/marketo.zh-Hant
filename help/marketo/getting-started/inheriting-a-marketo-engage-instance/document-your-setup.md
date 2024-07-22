@@ -19,7 +19,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">區域</th> 
+   <th style="width:20%">面積圖</th> 
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -40,7 +40,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">區域</th> 
+   <th style="width:20%">面積圖</th> 
    <th>評論焦點</th>
   </tr> 
   <tr> 

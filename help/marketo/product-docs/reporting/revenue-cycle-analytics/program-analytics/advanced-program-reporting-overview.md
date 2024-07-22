@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 進階計畫報告概觀 {#advanced-program-reporting-overview}
 
-**收入週期總管** 包括數個分析領域和各種新量度，可讓您衡量方案的成效。
+**Revenue Cycle Explorer**&#x200B;包含數個分析區域，以及各種新量度，可讓您測量方案的成效。
 
 ![](assets/rev.png)
 
@@ -27,19 +27,19 @@ ht-degree: 0%
 
 ## 方案分析區域 {#program-analysis-areas}
 
-* **[方案成本分析](understanding-the-program-cost-analysis-area.md)**  — 檢視所有計畫的ROI。
+* **[方案成本分析](understanding-the-program-cost-analysis-area.md)** — 檢視您所有方案的投資報酬率。
 
-* **[計畫會員資格分析](understanding-the-program-membership-analysis-area.md)**  — 按管道、參與率、成功標準等檢視結果。
+* **[方案會員資格分析](understanding-the-program-membership-analysis-area.md)** — 依管道、參與率、成功條件等檢視結果。
 
-* **[計畫機會分析](understanding-the-program-opportunity-analysis-area.md)**  — 根據分配、收入和ROI產生的商機。
+* **[方案機會分析](understanding-the-program-opportunity-analysis-area.md)** — 根據分配、收入和ROI產生的機會。
 
-* **[方案收入階段分析](understanding-the-program-revenue-stage-analysis-area.md)**  — 在您的收入週期模型中已達到特定成功階段的新名稱。
+* **[方案收入階段分析](understanding-the-program-revenue-stage-analysis-area.md)** — 已在收入週期模型中達到特定成功階段的新名稱。
 
 ## 程式分析器 {#program-analyzers}
 
-* **程式分析器**  — 快速識別成功或不成功的計畫，並適當地集中您的資源。
+* **方案分析器** — 快速識別是否成功的方案，並適當地集中資源。
 
-* **機會影響分析器**  — 透過測量計畫的影響和產生機會的重要參與，證明行銷的貢獻。
+* **機會影響分析器** — 透過測量方案的影響和產生機會的重要參與，證明行銷的貢獻。
 
 ## 報表選項 {#report-options}
 

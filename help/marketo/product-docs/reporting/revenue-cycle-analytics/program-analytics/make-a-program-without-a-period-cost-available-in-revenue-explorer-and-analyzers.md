@@ -6,14 +6,14 @@ exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
 # 在收入總管與分析器中提供不含期間成本的程式 {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-方案期間成本可讓您定義方案的「金額」和「時間」。 這會顯示在收入週期總管和 [分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+方案期間成本可讓您定義方案的「金額」和「時間」。 這會顯示在Revenue Cycle Explorer和[分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)中。
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >「方案分析器」會依期間成本儲存方案成功。 如果沒有可用的期間成本，無論方案的分析行為為何，都不會顯示方案成功。 如果設定分析行為，將顯示機會量度的資料（管道機會、贏取收入等）。
 
-1. 在管理員區段底下，按一下 **標籤**.
+1. 在「管理員」區段下，按一下&#x200B;**標籤**。
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
-1. 將Analytics行為變更為包含，然後按一下 **儲存**.
+1. 將Analytics行為變更為包含，然後按一下&#x200B;**儲存**。
 
    ![](assets/image2014-9-17-12-3a36-3a13.png)
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[覆寫方案層級的Analytics行為](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
+>[覆寫程式層級](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)的分析行為

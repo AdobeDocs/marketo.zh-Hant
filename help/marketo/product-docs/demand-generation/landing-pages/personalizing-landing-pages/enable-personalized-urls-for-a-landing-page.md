@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >[為您的帳戶啟用個人化URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 
-1. 選取登入頁面，然後按一下設定 **個人化URL**.
+1. 選取登入頁面，然後按一下&#x200B;**個人化URL**&#x200B;的設定。
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. 現在您可以檢查 **啟用個人化URL** 並按一下 **儲存**.
+1. 現在您可以勾選&#x200B;**啟用個人化URL**，然後按一下&#x200B;**儲存**。
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 

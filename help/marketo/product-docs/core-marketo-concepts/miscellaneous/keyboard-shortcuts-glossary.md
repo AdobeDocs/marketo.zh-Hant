@@ -16,7 +16,7 @@ ht-degree: 5%
 
 ## 區域導覽 {#area-navigation}
 
-| 鍵盤快速鍵 | 區域 |
+| 鍵盤快速鍵 | 面積圖 |
 |---|---|
 | Alt/Opt + A | Analytics |
 | Alt/Opt + C | 行事曆 |

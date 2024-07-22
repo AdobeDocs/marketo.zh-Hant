@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->內容必須是 [已核准預測性內容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) （在所有內容頁面上）。
+>所有內容頁面上的預測性內容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的內容必須是[已核准。
 
 1. 在「預測性內容」頁面上，按一下標題以開啟編輯器。
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. 編輯頁面隨即開啟。 **電子郵件** 預設會顯示。
+1. 編輯頁面隨即開啟。 預設會顯示&#x200B;**電子郵件**。
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >如果您變更了按鈕標籤，當您儲存變更或預覽影像時，按鈕標籤將會更新。
 
-1. 若要新增或編輯影像URL，請按一下 **編輯影像**.
+1. 若要新增或編輯影像URL，請按一下&#x200B;**編輯影像**。
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
    >
    >為確保最佳品質，影像必須等於或小於400x400畫素。
 
-1. 插入影像URL並按一下 **新增**.
+1. 插入影像URL並按一下&#x200B;**新增**。
 
    ![](assets/five.png)
 
-1. 按一下並拖曳滑桿以變更影像大小。 然後按一下並拖曳裁切方塊，以隔離您要使用的影像區域。 按一下 **預覽** 完成時。
+1. 按一下並拖曳滑桿以變更影像大小。 然後按一下並拖曳裁切方塊，以隔離您要使用的影像區域。 完成時，按一下&#x200B;**預覽**。
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ ht-degree: 0%
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. 或者，按一下 **類別** 欄位並新增類別至內容。 選項來自 [您已設定的類別](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+1. 選擇性地按一下&#x200B;**類別**&#x200B;欄位，並將類別新增至內容。 選項來自您已設定的[類別](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)。
 
    ![](assets/eight.png)
 
@@ -68,10 +68,10 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/save.png)
 
    >[!NOTE]
    >
-   >在Marketo電子郵件編輯器v2.0中，您也可以 [檢視版面配置範本](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) 啟用內容時使用。
+   >在Marketo Email Editor v2.0中，您也可以[檢視啟用內容時所使用的版面配置範本](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)。

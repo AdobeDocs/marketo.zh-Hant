@@ -19,10 +19,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a27-3a32.png)
 
-1. 按一下紅色 **x**.
+1. 按一下紅色&#x200B;**x**。
 
    ![](assets/image2014-9-24-11-3a27-3a36.png)
 
-1. 按一下 **[!UICONTROL 刪除]** 以確認。
+1. 按一下&#x200B;**[!UICONTROL 刪除]**&#x200B;確認。
 
    ![](assets/image2014-9-24-11-3a27-3a42.png)

@@ -21,15 +21,15 @@ ht-degree: 1%
 >
 >**需要管理員許可權**
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
-1. 按一下 **[!UICONTROL 欄位管理]**.
+1. 按一下&#x200B;**[!UICONTROL 欄位管理]**。
 
    ![](assets/hide-and-unhide-a-field-2.png)
 
-1. 尋找欄位，選取該欄位，然後在下方 **[!UICONTROL 欄位動作]** 按一下 **[!UICONTROL 隱藏欄位]**.
+1. 尋找欄位，選取該欄位，然後在&#x200B;**[!UICONTROL 欄位動作]**&#x200B;下按一下&#x200B;**[!UICONTROL 隱藏欄位]**。
 
    ![](assets/hide-and-unhide-a-field-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 1%
    >* 您無法隱藏標準（系統）欄位。
    >* 您無法隱藏機會資訊欄位。
 
-1. 按一下 **[!UICONTROL 隱藏]** 以確認。
+1. 按一下&#x200B;**[!UICONTROL 隱藏]**&#x200B;以確認。
 
    ![](assets/hide-and-unhide-a-field-4.png)
 
@@ -49,15 +49,15 @@ ht-degree: 1%
 
 ## 取消隱藏欄位 {#unhide-a-field}
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/hide-and-unhide-a-field-6.png)
 
-1. 按一下 **[!UICONTROL 欄位管理]**.
+1. 按一下&#x200B;**[!UICONTROL 欄位管理]**。
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. 尋找並選取欄位。 在 [!UICONTROL 欄位動作] 下拉式清單，按一下 **[!UICONTROL 取消隱藏欄位]**.
+1. 尋找並選取欄位。 在[!UICONTROL 欄位動作]下拉式清單中，按一下&#x200B;**[!UICONTROL 取消隱藏欄位]**。
 
    ![](assets/hide-and-unhide-a-field-8.png)
 

@@ -22,19 +22,19 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 在「我的Marketo」中，按一下 **[!UICONTROL 管理員]**.
+1. 在「我的Marketo」中，按一下&#x200B;**[!UICONTROL 管理員]**。
 
    ![](assets/enable-campaign-sync-1.png)
 
-1. 按一下 **[!UICONTROL Microsoft Dynamics]**.
+1. 按一下&#x200B;**[!UICONTROL Microsoft Dynamics]**。
 
    ![](assets/enable-campaign-sync-2.png)
 
-1. 在「同步選項」下，按一下 **[!UICONTROL 編輯]**.
+1. 在[同步選項]下，按一下[編輯]。****
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. 選取 **[!UICONTROL 啟用Microsoft Dynamics Campaign同步]** 核取方塊並按一下 **[!UICONTROL 儲存]**.
+1. 選取&#x200B;**[!UICONTROL 啟用Microsoft Dynamics Campaign同步處理]**&#x200B;核取方塊，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/enable-campaign-sync-4.png)
 

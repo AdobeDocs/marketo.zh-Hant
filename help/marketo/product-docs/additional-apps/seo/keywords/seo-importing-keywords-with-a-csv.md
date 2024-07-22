@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # SEO — 使用CSV匯入關鍵字 {#seo-importing-keywords-with-a-csv}
 
-1. 您可以 [新增關鍵字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) 手動， [取得關鍵字建議](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) 甚至從CSV檔案匯入關鍵字。 以下說明匯入的方法。
+1. 您可以手動[新增關鍵字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)、[取得關鍵字建議](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)，甚至從CSV檔案匯入關鍵字。 以下說明匯入的方法。
 
-1. 前往 **[!UICONTROL 關鍵字]** 區段。
+1. 移至&#x200B;**[!UICONTROL 關鍵字]**&#x200B;區段。
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. 按一下 **[!UICONTROL 匯入]**.
+1. 按一下&#x200B;**[!UICONTROL 匯入]**。
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. 按一下 **[!UICONTROL 選擇檔案]**.
+1. 按一下&#x200B;**[!UICONTROL 選擇檔案]**。
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >匯入限制會依您的訂閱而有所不同。 如需詳細資訊，請聯絡您的銷售代表。
 
-1. 按一下 **[!UICONTROL 匯入]**.
+1. 按一下&#x200B;**[!UICONTROL 匯入]**。
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
@@ -50,4 +50,4 @@ ht-degree: 0%
    >[!MORELIKETHIS]
    >
    >* [瞭解關鍵字（摘要檢視）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [在清單中新增/移除關鍵字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+   >* [從清單新增/移除關鍵字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)

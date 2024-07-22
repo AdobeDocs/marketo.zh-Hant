@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >如果主題有多個副標題，連結就會放在那裡。
 
-## [facebook自訂對象的進階比對](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## [Facebook自訂對象的進階比對](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
 基本比對僅使用電子郵件地址，但新的進階比對使用額外的七個欄位，這會提高更多轉換的符合率。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 此API提供更快速的介面，可將自訂物件同步到Marketo中。 您可以將CSV、TSV或SSV試算表檔案匯入Marketo做為自訂物件。
 
-## [Web Personalization促銷活動匯出](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
+## [網站Personalization行銷活動匯出](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
 以CSV格式匯出所有網頁行銷活動的詳細資訊和分析。 然後，您就可以使用方便的版面配置檢視資料。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## 本地化 {#localization}
 
-網頁個人化、預測性內容和電子郵件深入分析應用程式現在提供日文、德文和西班牙文版本。 您 [選取您的語言和地區](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) 以檢視這些語言的內容。
+網頁Personalization、預測性內容和電子郵件深入分析應用程式現在提供日文、德文和西班牙文版本。 您[選取您的語言和地區](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)，以檢視這些語言的內容。
 
 ![](assets/japanese-web-personalization.png)
 
@@ -59,25 +59,25 @@ ht-degree: 0%
 
 ## 預測性內容增強功能 {#predictive-content-enhancements}
 
-**[依啟用的來源篩選](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[依啟用的Source篩選](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
 篩選為電子郵件、多媒體或建議列啟用的預測性內容片段。
 
 ![](assets/predictive-content-enabled-source.png)
 
-**[依來源篩選分析](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[依Source篩選分析](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
 篩選特定來源的預測性內容分析 — 電子郵件、多媒體或建議列。
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**預測性內容編輯器**
+**預測內容編輯器**
 
 改良的編輯體驗和版面配置可依來源（電子郵件、多媒體或建議列）分割內容準備。
 
 ![](assets/predictive-content-editor.png)
 
-**[預測性自動探索內容](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)**
+預測性的&#x200B;**[自動探索內容](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)**
 
 影像URL和中繼資料現在用於內容自動探索程式。
 

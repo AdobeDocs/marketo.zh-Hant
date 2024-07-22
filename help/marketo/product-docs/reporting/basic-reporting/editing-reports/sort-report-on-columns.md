@@ -15,11 +15,11 @@ ht-degree: 0%
 
 使用欄來排序報表中的資料，並讓最重要的數字容易找到。
 
-1. 前往 **Analytics** (或 **行銷活動**)。
+1. 移至&#x200B;**Analytics** （或&#x200B;**行銷活動**）。
 
    ![](assets/login-marketing-activities.png)
 
-1. 從導覽樹狀結構中選取報表，然後按一下 **報告** 標籤。
+1. 從導覽樹狀結構中選取您的報表，然後按一下「**報表**」標籤。
 
    ![](assets/reports2.jpg)
 
@@ -33,4 +33,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[選取報表欄](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+   >[選取報告資料行](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)

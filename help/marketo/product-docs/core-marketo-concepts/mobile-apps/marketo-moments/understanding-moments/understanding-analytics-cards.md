@@ -6,7 +6,7 @@ exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->在2023年10月2日，Adobe已從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入了解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>在2023年10月2日，Adobe已從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入瞭解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 ## Analytics卡 {#analytics-cards}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 已取得的銷售機會 {#acquired-leads}
 
-此 **已取得的銷售機會** 卡片會顯示新潛在客戶數量的每月趨勢報告。
+**已取得的銷售機會**&#x200B;卡片會顯示新銷售機會數目的每月趨勢報告。
 
 >[!NOTE]
 >
@@ -51,18 +51,18 @@ ht-degree: 0%
 
 ## 新銷售機會 {#new-leads}
 
-此 **[!UICONTROL 新銷售機會]** 卡片會顯示過去6個月您執行個體中新潛在客戶總數的趨勢月同比報告。
+**[!UICONTROL 新銷售機會]**&#x200B;卡片會顯示過去六個月執行個體中新銷售機會總數的月趨勢報表。
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## 取消訂閱 {#unsubscribes}
 
-此 **[!UICONTROL 取消訂閱]** 卡片會顯示您過去六個月取消訂閱率的每月趨勢報告。
+**[!UICONTROL 取消訂閱]**&#x200B;卡片會顯示您過去六個月取消訂閱率的月趨勢報告。
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
 >[!MORELIKETHIS]
 >
 >* [瞭解Marketo時刻](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [瞭解事件卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [瞭解電子郵件計畫卡片](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [瞭解活動卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [瞭解電子郵件程式卡](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)

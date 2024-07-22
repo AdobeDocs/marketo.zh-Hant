@@ -2,7 +2,8 @@
 description: SMS報告 — Marketo檔案 — 產品檔案
 title: 簡訊報告
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -15,7 +16,7 @@ SMS訊息控制面板會針對您的訊息提供實用分析。
 
 ## 存取控制面板 {#access-the-dashboard}
 
-1. 若要檢視報表，請選取所需的SMS訊息。 按一下 **檢視** 下拉式清單並選取 **儀表板**.
+1. 若要檢視報表，請選取所需的SMS訊息。 按一下&#x200B;**檢視**&#x200B;下拉式清單，然後選取&#x200B;**儀表板**。
 
    ![](assets/sms-reporting-1.png)
 

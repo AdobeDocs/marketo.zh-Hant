@@ -21,7 +21,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. 輸入新名稱並按 **[!UICONTROL 輸入/傳回]** 以確認變更。
+1. 輸入新名稱，然後按鍵盤上的&#x200B;**[!UICONTROL Enter/Return]**&#x200B;以確認變更。
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 

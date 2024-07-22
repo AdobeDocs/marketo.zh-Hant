@@ -15,19 +15,19 @@ ht-degree: 0%
 
 靜態清單是資料庫中已有的一組人員。 以下說明如何建立一個。
 
-1. 前往 **[!UICONTROL 資料庫]**.
+1. 移至&#x200B;**[!UICONTROL 資料庫]**。
 
    ![](assets/db.png)
 
-1. 按一下 **[!UICONTROL 新增]** 下拉式清單並選取 **[!UICONTROL 新清單]**.
+1. 按一下&#x200B;**[!UICONTROL 新增]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 新增清單]**。
 
    ![](assets/two.png)
 
-1. 選擇目的地資料夾，為您的新清單命名，然後按一下 **[!UICONTROL 建立]**.
+1. 選擇目的地資料夾，為您的新清單命名，然後按一下[建立]。****
 
    ![](assets/three.png)
 
-   您現在有空白清單可供填寫。 瞭解如何新增人員 [此處](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list){target="_blank"}.
+   您現在有空白清單可供填寫。 瞭解如何在[這裡](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list){target="_blank"}新增人員。
 
    >[!NOTE]
    >

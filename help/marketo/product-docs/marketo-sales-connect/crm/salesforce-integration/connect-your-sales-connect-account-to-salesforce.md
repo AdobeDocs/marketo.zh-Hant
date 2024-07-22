@@ -17,19 +17,19 @@ ht-degree: 0%
 
 ## 如何以管理員身分連線 {#how-to-connect-as-an-admin}
 
-1. 在Sales Connect中，按一下右上方的齒輪圖示並選取 **設定**.
+1. 在Sales Connect中，按一下右上方的齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/one.png)
 
-1. 在管理設定下，按一下 **Salesforce**.
+1. 在[管理設定]下，按一下&#x200B;**Salesforce**。
 
    ![](assets/six.png)
 
-1. 在「連線和自訂」標籤中，按一下 **連線**.
+1. 在[連線與自訂]索引標籤中，按一下[連線]。****
 
    ![](assets/seven.png)
 
-1. 按一下 **確定**.
+1. 按一下&#x200B;**確定**。
 
    ![](assets/four.png)
 
@@ -37,19 +37,19 @@ ht-degree: 0%
 
 ## 如何以非管理員身分連線 {#how-to-connect-as-a-non-admin}
 
-1. 在Sales Connect中，按一下齒輪圖示並選取 **設定**.
+1. 在Sales Connect中，按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/one.png)
 
-1. 在我的帳戶下，選取 **Salesforce**.
+1. 在「我的帳戶」底下，選取&#x200B;**Salesforce**。
 
    ![](assets/two.png)
 
-1. 在「連線和自訂」標籤中，按一下 **連線**.
+1. 在[連線與自訂]索引標籤中，按一下[連線]。****
 
    ![](assets/three.png)
 
-1. 按一下 **確定**.
+1. 按一下&#x200B;**確定**。
 
    ![](assets/four.png)
 

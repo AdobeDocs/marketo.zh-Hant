@@ -5,7 +5,7 @@ exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,8 @@ ht-degree: 0%
 
 ## User Management {#user-management}
 
-新增和移除使用者。 由產品管理員（或系統管理員）完成。
+新增和移除使用者。 由產品管理員（或系統）完成
+管理員)。
 
 [新增使用者](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 
 僅限Marketo Engage API必須在Marketo Engage中建立和管理使用者。
 
-[為啟用Adobe IMS的訂閱新增「僅限API使用者」](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}
+[為啟用Adobe IMS的訂閱新增API使用者](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}
 
 ## 透過CSV新增使用者 {#add-users-via-csv}
 

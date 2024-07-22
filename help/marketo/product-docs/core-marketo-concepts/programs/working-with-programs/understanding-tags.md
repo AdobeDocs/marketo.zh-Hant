@@ -7,7 +7,7 @@ feature: Programs
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->如果您想要建立「 」，請洽詢Marketo管理員 [自訂標籤](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
+>如果您想要建立[自訂標籤](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}，請洽詢您的Marketo管理員。
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ ht-degree: 2%
 
 ## 管道 {#channel}
 
-管道是用來報告您的 [成員](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} 已移動至您的程式。 每個管道都有一組進度狀態，以及一個設定為等於成功的狀態。
+管道是用來報告您的[成員](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}如何透過您的方案移動。 每個管道都有一組進度狀態，以及一個設定為等於成功的狀態。
 
 >[!NOTE]
 >

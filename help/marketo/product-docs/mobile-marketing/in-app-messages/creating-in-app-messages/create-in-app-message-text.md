@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >文字大小過大，可能會將您的內容推過最多三行可見文字。
 
-1. 選擇選用的文字樣式，以強調： **粗體**， _斜體_，或加上底線。
+1. 選擇選用的型別樣式，用於強調： **粗體**、_斜體_&#x200B;或底線。
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
-1. 從下拉式清單中選取我的Token，新增預設值，然後按一下 **插入**.
+1. 從下拉式清單中選取「我的Token」，新增預設值，然後按一下&#x200B;**插入**。
 
    ![](assets/mytoken.png)
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 
    您對已核准應用程式內訊息程式中使用的權杖所做的任何變更，都不會在應用程式內訊息中生效，直到程式暫停再繼續為止。
 
-你是金會員。 接下來，您需要 [設定您的應用程式內訊息按鈕](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
+你是金會員。 接下來，您需要[設定您的應用程式內訊息按鈕](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)。
 
 >[!MORELIKETHIS]
 >

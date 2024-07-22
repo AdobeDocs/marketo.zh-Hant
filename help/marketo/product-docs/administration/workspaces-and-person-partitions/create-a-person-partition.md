@@ -21,21 +21,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->首先瞭解 [瞭解工作區和人員分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>透過[瞭解Workspace和Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)先瞭解。
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/create-a-person-partition-1.png)
 
-1. 按一下 **[!UICONTROL 工作區與分割區]**.
+1. 按一下&#x200B;**[!UICONTROL 工作區與分割區]**。
 
    ![](assets/create-a-person-partition-2.png)
 
-1. 前往 **[!UICONTROL 人員分割]** 標籤並按一下 **[!UICONTROL 新增人員分割]**.
+1. 移至&#x200B;**[!UICONTROL 人員分割]**&#x200B;索引標籤，然後按一下&#x200B;**[!UICONTROL 新增人員分割]**。
 
    ![](assets/create-a-person-partition-3.png)
 
-1. 為磁碟分割命名，選擇 **[!UICONTROL 工作區]** 顯示位置，然後按一下 **[!UICONTROL 建立]**.
+1. 為磁碟分割命名，選擇要顯示的&#x200B;**[!UICONTROL 工作區]**，然後按一下&#x200B;**[!UICONTROL 建立]**。
 
    ![](assets/create-a-person-partition-4.png)
 

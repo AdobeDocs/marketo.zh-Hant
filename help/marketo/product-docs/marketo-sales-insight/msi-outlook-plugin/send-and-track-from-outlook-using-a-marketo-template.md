@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >「銷售分析動作」功能（包括「傳送銷售電子郵件」、「新增至銷售促銷活動」和「工作」）在Gmail和Outlook的「銷售分析電子郵件」外掛程式中無法使用。 目前，使用Sales Insight電子郵件外掛程式時，使用者只能從電子郵件使用者端傳送包含或不包含Marketo電子郵件範本的可追蹤電子郵件。
 
-1. 開啟Microsoft Outlook並按一下 **Marketo訊息**.
+1. 開啟Microsoft Outlook，然後按一下&#x200B;**Marketo訊息**。
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. 選取您想要的範本，預覽它，然後按一下 **確定**.
+1. 選取您想要的範本，預覽它，然後按一下[確定]。****
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. 進行所有編輯，然後按一下 **傳送和追蹤**.
+1. 進行所有編輯，然後按一下&#x200B;**[傳送並追蹤]**。
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >增益集不支援Token。 移除範本中可能包含的任何專案。
 
-1. 檢視預覽，確定看起來不錯，然後按一下 **傳送**.
+1. 檢視預覽，確定看起來不錯，然後按一下[傳送]。****
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[在Marketo中記錄潛在客戶寄來的傳入郵件](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[在Marketo中記錄潛在客戶的傳入郵件](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

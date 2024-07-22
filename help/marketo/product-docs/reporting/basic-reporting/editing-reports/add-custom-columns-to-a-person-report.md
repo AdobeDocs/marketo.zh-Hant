@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 新增自訂欄至個人報表 {#add-custom-columns-to-a-person-report}
 
-您可以使用以下工具進一步篩選個人報表中的量度 [智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) 作為自訂欄。
+您可以使用[智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)作為自訂欄，進一步篩選個人報表中的量度。
 
-1. 前往 **行銷活動** (或 **Analytics**)區域。
+1. 移至&#x200B;**行銷活動** （或&#x200B;**Analytics**）區域。
 
    ![](assets/ma-1.png)
 
-1. 選擇您的報告並按一下 **設定** 標籤。
+1. 選取您的報告，然後按一下「**設定**」標籤。
 
    ![](assets/two-1.png)
 
-1. 拖移到 **自訂欄**.
+1. 拖曳至&#x200B;**個自訂資料行**&#x200B;上。
 
    ![](assets/three-1.png)
 
@@ -31,10 +31,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-1. 您已完成！ 按一下 **報告** 標籤以顯示含有新欄的報表。
+1. 您已完成！ 按一下「**報表**」標籤，檢視含有新欄的報表。
 
    ![](assets/five-1.png)
 
    >[!MORELIKETHIS]
    >
-   >您也可以 [新增商機欄位至銷售機會報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).
+   >您也可以[將商機欄新增至潛在客戶報告](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md)。

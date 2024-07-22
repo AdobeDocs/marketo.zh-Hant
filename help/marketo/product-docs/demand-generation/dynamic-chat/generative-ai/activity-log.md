@@ -14,11 +14,11 @@ ht-degree: 0%
 
 檢視所有任務及其隨附詳細資訊的清單，包括名稱、所有者、型別、編輯者及編輯時間。
 
-1. 在Generative AI下，按一下 **[!UICONTROL 協助回應]**.
+1. 在Generative AI底下，按一下&#x200B;**[!UICONTROL 輔助回應]**。
 
    ![](assets/activity-log-1.png)
 
-1. 按一下 **[!UICONTROL 活動記錄]** 標籤。
+1. 按一下&#x200B;**[!UICONTROL 活動記錄]**&#x200B;標籤。
 
    ![](assets/activity-log-2.png)
 

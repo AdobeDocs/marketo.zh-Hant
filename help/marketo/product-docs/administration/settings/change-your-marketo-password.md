@@ -15,19 +15,19 @@ ht-degree: 0%
 
 透過這些簡單步驟變更您的Marketo密碼。
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/change-your-marketo-password-1.png)
 
-1. 按一下 **[!UICONTROL 我的帳戶]**.
+1. 按一下&#x200B;**[!UICONTROL 我的帳戶]**。
 
    ![](assets/change-your-marketo-password-2.png)
 
-1. 按一下 **[!UICONTROL 變更密碼]**.
+1. 按一下&#x200B;**[!UICONTROL 變更密碼]**。
 
    ![](assets/change-your-marketo-password-3.png)
 
-1. 輸入舊密碼與新密碼，然後按一下 **[!UICONTROL 儲存]**.
+1. 輸入舊密碼與新密碼，然後按一下[儲存]。****
 
    ![](assets/change-your-marketo-password-4.png)
 

@@ -21,9 +21,9 @@ ht-degree: 0%
 >
 >報表中至少需要一個量度，但這不一定要是用來定義自訂量值的量度之一。
 
-1. 取用報告所需的欄位。 另請參閱 [新增欄位至收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) 以取得詳細資訊。
+1. 取用報告所需的欄位。 如需詳細資訊，請參閱[新增欄位至收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)。
 
-1. 以滑鼠右鍵按一下現有量度（藍色儲存格），然後按一下 **使用者定義的測量** 並選取 **計算的計量**.
+1. 以滑鼠右鍵按一下現有的量度（藍色儲存格），按一下&#x200B;**使用者定義的量值**，然後選取&#x200B;**計算的量值**。
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >您可以自行鍵入數學符號，或使用選取方塊。
 
-1. 完成後，按一下 **確定**.
+1. 完成時，按一下&#x200B;**確定**。
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 

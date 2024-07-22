@@ -6,7 +6,7 @@ exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '428'
 ht-degree: 3%
 
 ---
@@ -25,29 +25,29 @@ ht-degree: 3%
 
 ## 建立設定檔 {#create-a-profile}
 
-1. 按一下 **[!UICONTROL 設定]**.
+1. 按一下&#x200B;**[!UICONTROL 設定]**。
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
-1. 在導覽搜尋列中輸入「設定檔」，然後按一下 **[!UICONTROL 設定檔]** 連結。
+1. 在導覽搜尋列中輸入「設定檔」，然後按一下&#x200B;**[!UICONTROL 設定檔]**&#x200B;連結。
 
    ![](assets/sfdc-profiles-hands.png)
 
-1. 按一下 **[!UICONTROL 新增]**.
+1. 按一下&#x200B;**[!UICONTROL 新增]**。
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. 選取 **[!UICONTROL 標準使用者]**，將設定檔命名為「Marketo-Salesforce Sync」，然後按一下 **[!UICONTROL 儲存]**.
+1. 選取&#x200B;**[!UICONTROL 標準使用者]**，將設定檔命名為「Marketo-Salesforce Sync」，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
 ## 設定設定檔許可權 {#set-profile-permissions}
 
-1. 按一下 **[!UICONTROL 編輯]** 以設定安全性許可權。
+1. 按一下&#x200B;**[!UICONTROL 編輯]**&#x200B;以設定安全性許可權。
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. 在 **[!UICONTROL 管理許可權]** 區段，確定已勾選下列方塊：
+1. 在&#x200B;**[!UICONTROL 管理許可權]**&#x200B;區段下，確定已核取下列方塊：
 
    * API已啟用
    * 編輯HTML範本
@@ -58,7 +58,7 @@ ht-degree: 3%
 
    >[!TIP]
    >
-   >請務必檢視 **[!UICONTROL 密碼永不過期]** 方塊。
+   >請務必勾選&#x200B;**[!UICONTROL 密碼永不過期]**&#x200B;方塊。
 
 1. 在「一般使用者許可權」區段下，確定已勾選下列方塊：
 
@@ -82,7 +82,7 @@ ht-degree: 3%
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
-1. 完成後，按一下 **[!UICONTROL 儲存]** ，位於頁面底部。
+1. 完成時，請按一下頁面底部的&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/image2014-12-9-9-3a20-3a5.png)
 
@@ -94,7 +94,7 @@ ht-degree: 3%
    >
    >此步驟將防止您不需要的欄位顯示在Marketo中，這將減少雜亂並加快同步速度。
 
-1. 在設定檔詳細資訊頁面中，前往 **[!UICONTROL 欄位層級安全性]** 區段。 按一下 **[!UICONTROL 檢視]** 若要編輯物件的協助工具：
+1. 在設定檔詳細資訊頁面中，移至&#x200B;**[!UICONTROL 欄位層級安全性]**&#x200B;區段。 按一下&#x200B;**[!UICONTROL 檢視]**&#x200B;以編輯物件的協助工具：
 
    * 銷售機會
    * 連絡人
@@ -107,11 +107,11 @@ ht-degree: 3%
 
    ![](assets/image2014-12-9-9-3a20-3a14.png)
 
-1. 對於每個物件，按一下 **[!UICONTROL 編輯]**.
+1. 按一下每個物件的&#x200B;**[!UICONTROL 編輯]**。
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. 找到不需要的欄位，確認 **[!UICONTROL 讀取許可權]** 和 **[!UICONTROL 編輯存取權]** 已取消勾選。 按一下 **[!UICONTROL 儲存]** 完成時。
+1. 找出不需要的欄位，確定已取消勾選&#x200B;**[!UICONTROL 讀取存取權]**&#x200B;和&#x200B;**[!UICONTROL 編輯存取權]**。 完成時，按一下&#x200B;**[!UICONTROL 儲存]**。
 
    >[!NOTE]
    >
@@ -119,7 +119,7 @@ ht-degree: 3%
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. 停用完所有不需要的欄位後，您必須檢查 **[!UICONTROL 讀取許可權與編輯許可權]** 用於下列物件欄位。 按一下 **[!UICONTROL 儲存]** 完成時。
+1. 當您停用完所有不需要的欄位後，必須核取&#x200B;**[!UICONTROL 下列物件欄位的[讀取存取權]和[編輯存取權]]**。 完成時，按一下&#x200B;**[!UICONTROL 儲存]**。
 
 <table> 
  <tbody> 
@@ -132,7 +132,7 @@ ht-degree: 3%
    <td colspan="1" rowspan="1"><p>型別欄位</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Event</p></td> 
+   <td colspan="1" rowspan="1"><p>事件</p></td> 
    <td colspan="1" rowspan="1"><p>所有欄位</p></td> 
   </tr> 
   <tr> 
@@ -148,13 +148,13 @@ ht-degree: 3%
 
 >[!TIP]
 >
->建立專用的Salesforce帳戶(例如 `marketo@yourcompany.com`)，以區分Marketo與其他Salesforce使用者所做的變更。
+>建立專用的Salesforce帳戶（例如`marketo@yourcompany.com`），以區分Marketo與其他Salesforce使用者所做的變更。
 
-1. 在導覽搜尋列中輸入「管理使用者」，然後按一下 **[!UICONTROL 使用者]**. 按一下 **[!UICONTROL 新使用者]**.
+1. 在導覽搜尋列中輸入[管理使用者]，然後按一下&#x200B;**[!UICONTROL 使用者]**。 按一下&#x200B;**[!UICONTROL 新增使用者]**。
 
    ![](assets/sfdc-new-users.png)
 
-1. 填寫必填欄位。 然後，選取 **[!UICONTROL 使用者授權： Salesforce]** 以及您先前建立的設定檔。 按一下 **[!UICONTROL 儲存]** 完成時。
+1. 填寫必填欄位。 接著，選取&#x200B;**[!UICONTROL 使用者授權： Salesforce]**&#x200B;以及您先前建立的設定檔。 完成時，按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 

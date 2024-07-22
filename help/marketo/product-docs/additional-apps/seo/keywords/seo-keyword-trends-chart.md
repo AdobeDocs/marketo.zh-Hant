@@ -6,16 +6,16 @@ exl-id: 093f713b-e9f1-48d6-b4d8-7c5ef349a2ae
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
 # SEO — 關鍵字趨勢圖表 {#seo-keyword-trends-chart}
 
-監視關鍵字的方式很重要 [SERP排名](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) 是長期的熱門課程。 檢視這個酷炫的圖表以監視進度。
+監視關鍵字[SERP排名](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)在一段時間內的趨勢非常重要。 檢視這個酷炫的圖表以監視進度。
 
-1. 前往 **[!UICONTROL 關鍵字]** 區段。
+1. 移至&#x200B;**[!UICONTROL 關鍵字]**&#x200B;區段。
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   它會顯示您的 [SERP等級](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) 過去30天：
+   它會顯示您過去30天的[SERP排名](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)：
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
@@ -33,4 +33,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[使用關鍵字趨勢報表](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
+   >[使用關鍵字趨勢報告](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)

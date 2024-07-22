@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立細分](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [建立分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [建立自由格式的登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 >* [新增表單至自由表單登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 新增分段 {#add-segmentation}
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -49,17 +49,17 @@ ht-degree: 0%
 
 ## 將元素設為動態 {#make-element-dynamic}
 
-1. 將元素從靜態拖放至 **動態**.
+1. 將元素從靜態拖放至&#x200B;**動態**。
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. 您也可以從元素中將元素設為「靜態」或「動態」 **設定**.
+1. 您也可以從元素&#x200B;**設定**&#x200B;將元素設為「靜態」或「動態」。
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
 ## 套用動態內容 {#apply-dynamic-content}
 
-1. 選取區段下的元素，然後按一下 **編輯**. 對每個區段重複。
+1. 選取區段下的元素，然後按一下[編輯]。**** 對每個區段重複。
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 

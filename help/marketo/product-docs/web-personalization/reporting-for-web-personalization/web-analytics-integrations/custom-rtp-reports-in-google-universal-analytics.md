@@ -6,8 +6,8 @@ exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 1%
+source-wordcount: '387'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[將RTP與Google Universal Analytics整合](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[整合RTP與Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 本文說明如何設定Google Universal Analytics (GUA)的RTP自訂報表。  從RTP傳送到GUA的資料可以設定為兩個單獨的自訂報告，稱為：
 
@@ -26,27 +26,27 @@ ht-degree: 1%
 
 1. 登入Google Analytics。
 
-1. 按一下 **自訂** 在頂端功能表中。
+1. 按一下頂端功能表中的&#x200B;**自訂**。
 
-1. 按一下 **+新增自訂報表**.
+1. 按一下&#x200B;**+新增自訂報告**。
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
 ## RTP B2B報表 {#rtp-b-b-report}
 
-1. 為報表命名 **RTP B2B報表**.
+1. 命名報告&#x200B;**RTP B2B報告**。
 
-1. 為第一個標籤命名 **產業**.
+1. 將第一個索引標籤命名為&#x200B;**產業**。
 
 >[!NOTE]
 >
->您將會 **複製此索引標籤** 並建立其他類似專案 — 步驟5)
+>您將&#x200B;**複製此索引標籤**&#x200B;並建立其他類似的索引標籤 — 步驟5)
 
-1. 選取 **瀏覽器** 報告型別。
+1. 選取&#x200B;**Explorer**&#x200B;報告型別。
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. 在 **量度群組** 區段，選取與您的業務相關的量度。
+1. 在&#x200B;**量度群組**&#x200B;區段中，選取與您的業務相關的量度。
 
    a.我們建議以下事項：
 
@@ -62,7 +62,7 @@ ht-degree: 1%
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. 在 **Dimension深入研究** 區段會設定每個標籤的相關維度，如下所示。
+1. 在&#x200B;**Dimension深入研究**&#x200B;區段中，設定每個標籤的相關維度，如下所示。
 
 <table> 
  <thead> 
@@ -101,23 +101,23 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-1. 請勿設定任何篩選器，將此報表設為可用於 **所有網站資料** （或若與特定Analytics帳戶相關則加以變更）。
+1. 請勿設定任何篩選器，並將此報表設定為&#x200B;**所有網站資料** （或若與特定Analytics帳戶相關則變更）都可使用。
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
 ## RTP參與報告 {#rtp-engagement-report}
 
-1. 為報表命名 **RTP參與報告**.
+1. 命名報告&#x200B;**RTP參與報告**。
 
-1. 將第一個索引標簽名稱設為 **所有參與**.
+1. 將第一個索引標簽名稱設為&#x200B;**所有參與**。
 
 >[!NOTE]
 >
 >您將重複此標籤並建立其他類似的標籤 — 步驟5)
 
-1. 選取 **瀏覽器** 報告型別。
+1. 選取&#x200B;**Explorer**&#x200B;報告型別。
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
@@ -128,14 +128,14 @@ ht-degree: 1%
 1. 複製此索引標籤4次並命名它們：
 
    1. **所有參與**
-   1. **各產業參與度**
+   1. **產業參與度**
    1. **依群組的參與**
-   1. **依類別的參與**
-   1. **ABM的參與**
+   1. 依類別&#x200B;**參與度**
+   1. 由ABM進行的&#x200B;**參與**
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. 在 **Dimension深入研究** 區段會設定每個標籤的相關維度，如下所示：
+1. 在&#x200B;**Dimension深入研究**&#x200B;區段中，為每個標籤設定相關維度，如下所示：
 
 <table> 
  <thead> 
@@ -219,16 +219,16 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-1. 將此報告設定為可用於 **所有網站資料** （或視需要變更）。
+1. 將此報告設定為&#x200B;**所有網站資料**&#x200B;都可使用（或視需要變更）。
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 
 >[!MORELIKETHIS]
 >
->[將RTP與Google Universal Analytics整合](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[整合RTP與Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 >
 >[Google Universal Analytics中的自訂RTP儀表板](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)

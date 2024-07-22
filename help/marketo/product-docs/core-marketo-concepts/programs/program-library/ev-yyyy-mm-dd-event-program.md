@@ -2,10 +2,10 @@
 description: EV-YYYY-MM-DD-Event計畫 — Marketo檔案 — 產品檔案
 title: EV-YYYY-MM-DD-Event計畫
 feature: Programs
-exl-id: 3688317f-228c-4fc2-accd-3e1d541525d2
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '561'
 ht-degree: 6%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 此範例為具有註冊頁面的活動計畫、三封邀請電子郵件，以及利用Marketo Engage活動計畫的後續電子郵件。 適合您需要註冊的所有活動，包括路演、午餐、晚宴或展銷活動簡報。
 
-如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -27,19 +27,19 @@ ht-degree: 6%
    <th>計畫型別</th>
   </tr> 
   <tr> 
-   <td>Event</td> 
+   <td>事件</td> 
    <td>01 — 已邀請 
-<br/>02 — 輪候
+<br/>02已輪候
 <br/>03已註冊
 <br/>04 — 無節目
-<br/>05人參與成功</td>
+<br/>05 — 出席成功</td>
    <td>包含</td>
-   <td>Event</td>
+   <td>事件</td>
   </tr>
  </tbody> 
 </table>
 
-## 程式包含下列資產 {#program-contains-the-following-assets}
+## 程式包含下列Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -151,7 +151,7 @@ ht-degree: 6%
   <tr> 
    <td>資料夾</td> 
    <td> </td>
-   <td>資產 — 容納所有創意資產 
+   <td>Assets — 容納所有創意資產 
 <br/>（電子郵件和登陸頁面的子資料夾）</td>
   </tr>
   <tr> 
@@ -208,7 +208,7 @@ ht-degree: 6%
    <td><code>{{my.Content-Description}}</code></td>
    <td>按兩下以取得詳細資訊  
 <br/><code><--My Content Description Here--></code> 
-<br/>在「我的Token」標籤下方的方案層級編輯此內容說明。 
+<br/>在[我的Token]索引標籤下方的方案層級編輯此內容說明。 
 <br/>您將能學習到： 
 <li>專案符號1</li>
 <li>專案符號2</li>
@@ -299,21 +299,21 @@ ht-degree: 6%
 
 ## 衝突規則 {#conflict-rules}
 
-* **計畫標籤**
-   * 在此訂閱中建立標籤 —  _建議_
+* **程式標籤**
+   * 在此訂閱中建立標籤 — _建議_
    * 忽略
 
-* **具相同名稱的登陸頁面範本**
+* **名稱相同的登入頁面範本**
    * 複製原始範本
-   * 使用目的地範本 —  _建議_
+   * 使用目的地範本 — _建議_
 
-* **具有相同名稱的影像**
+* **相同名稱的影像**
    * 保留兩個檔案
-   * 取代此訂閱中的專案 —  _建議_
+   * 取代此訂閱中的專案 — _建議_
 
 * **相同名稱的電子郵件範本**
    * 保留兩個範本
-   * 取代現有範本 —  _建議_
+   * 取代現有的範本 — _建議_
 
 ## 最佳實務 {#best-practices}
 
@@ -330,7 +330,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
->別忘了啟用「06人參與（方案成功）」行銷活動以追蹤成功！ 執行此動作 _早於_ 您的表單已上線且已傳送電子郵件。
+>別忘了啟用「06人參與（方案成功）」行銷活動以追蹤成功！ _before_&#x200B;請執行此動作。您的表單已上線且已傳送電子郵件。
 
 >[!IMPORTANT]
 >

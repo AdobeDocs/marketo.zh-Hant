@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[將內容新增至程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>[新增內容至程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 程式碼片段在使用前需要核准。
 
-1. 前往 **Design Studio**.
+1. 移至&#x200B;**設計工作室**。
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. 按一下您的 **程式碼片段**. 在 **程式碼片段動作**，按一下 **核准**.
+1. 按一下您的&#x200B;**程式碼片段**。 在&#x200B;**程式碼片段動作**&#x200B;底下，按一下&#x200B;**核准**。
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 

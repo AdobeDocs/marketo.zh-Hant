@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 新增欄位至表單 {#add-a-field-to-a-form}
 
-一旦您 [已建立您的表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) 和 [已選取主題](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)，您可能會想要新增其他欄位供人員填寫。 方法如下。
+當您[建立表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)並[選取主題](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)後，您可能想要新增其他欄位供人員填寫。 方法如下。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 選擇您的表單並按一下 **編輯表單**.
+1. 選取您的表單並按一下&#x200B;**編輯表單**。
 
    ![](assets/editform-1.png)
 
-1. 按一下 **+** 簽署。
+1. 按一下&#x200B;**+**&#x200B;符號。
 
    ![](assets/image2014-9-15-17-18-17.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a18-3a26.png)
 
-1. 新增您需要的欄位數並點選 **完成**.
+1. 新增您需要的欄位，然後按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-15-17-3a18-3a35.png)
 
-1. 現在按一下 **核准並關閉**.
+1. 現在按一下&#x200B;**核准並關閉**。
 
    ![](assets/image2014-9-15-17-3a18-3a43.png)
 
@@ -47,4 +47,4 @@ ht-degree: 0%
 >
 >請務必核准因表單變更而建立的任何登入頁面草稿。
 
-一點也不差。 繼續做好工作！ 我們如何學習如何 [將表單欄位設為必填](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) 下一步？
+一點也不差。 繼續做好工作！ 我們如何瞭解如何[讓表單欄位成為下一個](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)？

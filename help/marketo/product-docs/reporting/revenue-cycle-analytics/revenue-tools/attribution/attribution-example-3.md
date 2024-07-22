@@ -6,7 +6,7 @@ exl-id: d8ca63a2-58de-4cde-b915-ff7f2e6468d9
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 0%
 請閱讀下列情境，並嘗試決定網格中應該包含的數字。
 
 * 4月11日 | Steve下載（內容） — 成功
-* 4月22日 |機會是以$3,000建立（Steve和Jason都有角色）
+* 4月22日 | 機會是以$3,000建立的（Steve和Jason都有角色）
 * 4月25日 | Jason出席（網路研討會） — 成功
-* 4月30日 |商機已結束 — 成功
+* 4月30日 | 商機已結束 — 成功
 
-| 歸因量度 | (內容) | （網路研討會） |
+| 歸因量度 | （內容） | （網路研討會） |
 |---|---|---|
 | (MT)建立的商機 | `<pre>1</pre>` | `<pre>0</pre>` |
 | (MT)管道已建立 | `<pre>$3,000</pre>` | `<pre>$0</pre>` |

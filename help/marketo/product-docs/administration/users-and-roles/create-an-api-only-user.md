@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 建立僅限API的使用者 {#create-an-api-only-user}
 
-Marketo如果您想要透過 [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}，您僅需建立API使用者。 方法如下。
+如果您想要透過[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}與Marketo整合，您將需要建立僅限API的使用者。 方法如下。
 
 >[!IMPORTANT]
 >
->如果您在已上線至Adobe身分的訂閱中建立「僅限API使用者」，則您的步驟會有所不同，並且 [可在此處找到](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>如果您正在訂閱中建立已上線到Adobe身分識別的「僅限API使用者」，則您的步驟不同，您可在此處](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}找到[。
 
 >[!PREREQUISITES]
 >
@@ -27,19 +27,19 @@ Marketo如果您想要透過 [REST API](https://experienceleague.adobe.com/en/do
 >
 >**需要管理員許可權**
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/create-an-api-only-user-1.png)
 
-1. 按一下 **[!UICONTROL 使用者和角色]**.
+1. 按一下&#x200B;**[!UICONTROL 使用者與角色]**。
 
    ![](assets/create-an-api-only-user-2.png)
 
-1. 按一下 **[!UICONTROL 邀請新使用者]**.
+1. 按一下&#x200B;**[!UICONTROL 邀請新使用者]**。
 
    ![](assets/create-an-api-only-user-3.png)
 
-1. 輸入API使用者的電子郵件、名字和姓氏。 按一下 **[!UICONTROL 下一個]**.
+1. 輸入API使用者的電子郵件、名字和姓氏。 按一下&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/create-an-api-only-user-4.png)
 
@@ -47,11 +47,11 @@ Marketo如果您想要透過 [REST API](https://experienceleague.adobe.com/en/do
    >
    >新增選用原因或存取權到期日。 短期員工的存取權到期日很方便。
 
-1. 選取 **[!UICONTROL 僅限API]** 角色並檢查 **[!UICONTROL 僅限API]** 核取方塊。 按一下 **[!UICONTROL 下一個]**.
+1. 選取&#x200B;**[!UICONTROL 僅API]**&#x200B;角色，並勾選&#x200B;**[!UICONTROL 僅API]**&#x200B;核取方塊。 按一下&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/create-an-api-only-user-5.png)
 
-1. 按一下 **[!UICONTROL 傳送]**.
+1. 按一下&#x200B;**[!UICONTROL 傳送]**。
 
    ![](assets/create-an-api-only-user-6.png)
 
@@ -63,4 +63,4 @@ Marketo如果您想要透過 [REST API](https://experienceleague.adobe.com/en/do
 
 >[!MORELIKETHIS]
 >
->[建立自訂服務以與REST API搭配使用](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}
+>[建立自訂服務以搭配REST API使用](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}

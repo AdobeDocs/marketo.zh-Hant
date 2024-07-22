@@ -5,7 +5,7 @@ exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ### 在Salesforce Classic中建立自訂活動欄位  {#create-custom-activity-field-in-salesforce-classic}
 
-1. 在Salesforce中，按一下 **設定**.
+1. 在Salesforce中，按一下&#x200B;**設定**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
@@ -31,15 +31,15 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-2.png)
 
-1. 按一下 **活動自訂欄位**.
+1. 按一下&#x200B;**活動自訂欄位**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-3.png)
 
-1. 按一下 **新增**.
+1. 按一下&#x200B;**新增**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
-1. 選取資料型別「文字」並按一下 **下一個**.
+1. 選取資料型別「文字」，然後按一下&#x200B;**下一步**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-5.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-6.png)
 
-1. 其餘設定是選用的。 完成設定後，請按一下 **下一個**.
+1. 其餘設定是選用的。 完成設定後，請按一下&#x200B;**下一步**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-7.png)
 
-1. 為此欄位選取所需的欄位層級安全性設定，然後按一下 **下一個** （下圖只是範例）。
+1. 選取此欄位所需的欄位層級安全性設定，然後按一下&#x200B;**下一步** （下方影像隻是範例）。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-8.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >請確定您的Sales Insight Actions使用者所使用的描述檔可看見自訂欄位，以及您想要的其他顯示專案。
 
-1. 選取您要新增欄位的頁面配置，然後按一下 **儲存** (您也可以按一下 **儲存並新增** 並針對「來電原因」欄位重複此程式)。
+1. 選取您要新增欄位的頁面配置，然後按一下[儲存] **** （您可以選擇按一下[儲存與新增] ****，然後對[來電原因]欄位重複此程式）。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 >
 >如果您未在上述步驟9中選取想要的頁面配置，您僅需遵循這些步驟。
 
-1. 在Salesforce中，按一下 **設定**.
+1. 在Salesforce中，按一下&#x200B;**設定**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
@@ -77,11 +77,11 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-11.png)
 
-1. 按一下 **任務頁面配置**.
+1. 按一下&#x200B;**工作頁面配置**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-12.png)
 
-1. 按一下 **編輯** 在您要新增此欄位的「任務頁面配置」旁邊。
+1. 按一下您想要新增此欄位的工作頁面配置旁的&#x200B;**編輯**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
@@ -97,11 +97,11 @@ ht-degree: 0%
 
 ### 在Salesforce閃電中建立自訂活動欄位 {#create-custom-activity-field-in-salesforce-lightning}
 
-1. 在Salesforce中，按一下右上方的齒輪圖示並選取 **設定**.
+1. 在Salesforce中，按一下右上方的齒輪圖示，並選取&#x200B;**設定**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
-1. 按一下 **物件管理員**.
+1. 按一下&#x200B;**物件管理員**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
@@ -109,25 +109,25 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. 按一下 **活動** 標籤。
+1. 按一下&#x200B;**活動**&#x200B;標籤。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. 按一下 **欄位和關係**.
+1. 按一下&#x200B;**欄位和關係**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
-1. 按一下 **新增**.
+1. 按一下&#x200B;**新增**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
 ### 在Salesforce Lightning中將自訂活動欄位新增到任務頁面配置 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. 在Salesforce中，按一下右上方的齒輪圖示並選取 **設定**.
+1. 在Salesforce中，按一下右上方的齒輪圖示，並選取&#x200B;**設定**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. 按一下 **物件管理員**.
+1. 按一下&#x200B;**物件管理員**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
@@ -135,11 +135,11 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. 按一下 **任務** 標籤。
+1. 按一下&#x200B;**工作**&#x200B;標籤。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. 按一下 **頁面配置**.
+1. 按一下&#x200B;**頁面配置**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
@@ -151,11 +151,11 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 
 >[!MORELIKETHIS]
 >
->* [呼叫結果](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
+>* [通話結果](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
 >* [來電原因](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)

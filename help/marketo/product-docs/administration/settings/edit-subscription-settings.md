@@ -15,20 +15,20 @@ ht-degree: 0%
 
 如果您擁有多個Marketo訂閱的存取權，而且想確定您使用哪個訂閱，請嘗試為每一個訂閱指定唯一的名稱。 該名稱接著會顯示在您的訂閱頁面頂端。
 
-例如，如果您在生產執行個體和沙箱執行個體中工作，您可以命名一個訂閱 **Marketo生產** 和另一個 **Marketo Sandbox**.
+例如，如果您在生產環境與沙箱執行個體中工作，您可以將一個訂閱命名為&#x200B;**Marketo生產環境**，將另一個&#x200B;**Marketo沙箱**&#x200B;命名。
 
-1. 前往 **[!UICONTROL 管理員]**.
+1. 移至&#x200B;**[!UICONTROL 管理員]**。
 
    ![](assets/edit-subscription-settings-1.png)
 
-1. 按一下 **[!UICONTROL 我的帳戶]**.
+1. 按一下&#x200B;**[!UICONTROL 我的帳戶]**。
 
    ![](assets/edit-subscription-settings-2.png)
 
-1. 按一下 **[!UICONTROL 編輯訂閱資訊]**.
+1. 按一下&#x200B;**[!UICONTROL 編輯訂閱資訊]**。
 
    ![](assets/edit-subscription-settings-3.png)
 
-1. 進行編輯並按一下 **[!UICONTROL 儲存]**.
+1. 進行編輯並按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/edit-subscription-settings-4.png)

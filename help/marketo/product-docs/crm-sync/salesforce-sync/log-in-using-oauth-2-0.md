@@ -5,7 +5,7 @@ exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ Salesforce會使用OAuth通訊協定，讓應用程式的使用者能夠安全�
 
 ## 設定連線應用程式 {#set-up-connected-app}
 
-1. 在Salesforce中的「設定」下，在「平台工具」中導覽至「應用程式」、「應用程式管理員」，然後按一下 **[!UICONTROL 新連線應用程式]**.
+1. 在Salesforce的「設定」下，在「平台工具」中導覽至「應用程式」、「應用程式管理員」，然後按一下「**[!UICONTROL 新增連線應用程式]**」。
 
    ![](assets/setting-up-oauth-2-1.png)
 
-1. 填寫詳細資料並按一下 **[!UICONTROL 儲存]**.
+1. 填寫詳細資料，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/setting-up-oauth-2-2.png)
 
-1. 按一下 **[!UICONTROL 啟用OAuth設定]** 核取方塊。 對於回呼URL，請輸入 `https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect`. 選取所有可用的OAuth範圍，然後按一下 **[!UICONTROL 新增]**.
+1. 按一下&#x200B;**[!UICONTROL 啟用OAuth設定]**&#x200B;核取方塊。 回撥URL請輸入`https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect`。 選取所有可用的OAuth範圍，然後按一下[新增]。****
 
    ![](assets/setting-up-oauth-2-3.png)
 
@@ -36,7 +36,7 @@ Salesforce會使用OAuth通訊協定，讓應用程式的使用者能夠安全�
 
    ![](assets/setting-up-oauth-2-4.png)
 
-1. 按一下 **[!UICONTROL 繼續]**.
+1. 按一下&#x200B;**[!UICONTROL 繼續]**。
 
    ![](assets/setting-up-oauth-2-5.png)
 
@@ -46,7 +46,7 @@ Salesforce會使用OAuth通訊協定，讓應用程式的使用者能夠安全�
 
 >[!CAUTION]
 >
->當仍在新連線應用程式頁面時，向下捲動並確定「需要程式碼交換的校訂金鑰(PKCE)」核取方塊為 _NOT_ 已勾選，因為這會干擾設定。
+>當仍在[新連線應用程式]頁面時，向下捲動並確定[Require Proof Key for Code Exchange (PKCE)]核取方塊已勾選&#x200B;_NOT_，因為這會干擾設定。
 
 ## 設定Marketo {#set-up-marketo}
 
@@ -60,45 +60,45 @@ Salesforce會使用OAuth通訊協定，讓應用程式的使用者能夠安全�
 
 >[!CAUTION]
 >
-按一下之前，請務必向同步使用者隱藏Marketo中所有不需要的欄位 **[!UICONTROL 同步欄位]**. 按一下「同步欄位」後，使用者可在SFDC中看見的所有欄位將會在Marketo中永久建立且無法刪除。
+在按一下&#x200B;**[!UICONTROL 同步欄位]**&#x200B;之前，請務必向同步使用者隱藏Marketo中所有不需要的欄位。 按一下「同步欄位」後，使用者可在SFDC中看見的所有欄位將會在Marketo中永久建立且無法刪除。
 
-1. 在Marketo管理員區段中，按一下 **[!UICONTROL CRM]**，然後 **[!UICONTROL 與Salesforce同步]**.
+1. 在Marketo管理區段中，按一下&#x200B;**[!UICONTROL CRM]**，然後按一下&#x200B;**[!UICONTROL 與Salesforce同步]**。
 
    ![](assets/setting-up-oauth-2-7.png)
 
-1. 新增您先前錄製的消費者金鑰和消費者密碼資訊，然後按一下和 **[!UICONTROL 儲存]**.
+1. 新增您先前錄製的消費者金鑰和消費者密碼資訊，然後按一下「**[!UICONTROL 儲存]**」。
 
    ![](assets/setting-up-oauth-2-8.png)
 
-1. 在Marketo Salesforce同步頁面上，按一下 **[!UICONTROL 使用Salesforce登入]** 按鈕。
+1. 在Marketo Salesforce同步頁面上，按一下&#x200B;**[!UICONTROL 使用Salesforce登入]**&#x200B;按鈕。
 
    ![](assets/setting-up-oauth-2-9.png)
 
    >[!CAUTION]
    >
-   如果您看到使用者名稱/密碼/權杖欄位而不是「使用Salesforce登入」按鈕，表示您的Marketo訂閱已啟用基本驗證。 請參閱 [設定具有基本驗證的Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. 使用一組憑證開始同步後，Salesforce憑證或訂閱即不會切換。 如果您想要使用Oauth 2.0，請聯絡Adobe客戶團隊（您的客戶經理）。
+   如果您看到使用者名稱/密碼/權杖欄位而不是「使用Salesforce登入」按鈕，表示您的Marketo訂閱已啟用基本驗證。 請參考[使用基本驗證設定Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}。 使用一組憑證開始同步後，Salesforce憑證或訂閱即不會切換。 如果您想要使用Oauth 2.0，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 1. 隨即顯示包含Salesforce登入頁面的快顯視窗。 輸入「Marketo同步使用者」認證並登入。
 
    ![](assets/setting-up-oauth-2-10.png)
 
-1. 輸入您透過電子郵件（由Salesforce傳送）收到的驗證碼，然後按一下 **[!UICONTROL 驗證]**.
+1. 輸入您透過電子郵件（由Salesforce傳送）收到的驗證碼，然後按一下&#x200B;**[!UICONTROL 驗證]**。
 
    ![](assets/setting-up-oauth-2-11.png)
 
-1. 在成功驗證後，存取頁面將會顯示以請求存取。 按一下 **[!UICONTROL 允許]**.
+1. 在成功驗證後，存取頁面將會顯示以請求存取。 按一下&#x200B;**[!UICONTROL 允許]**。
 
    ![](assets/setting-up-oauth-2-12.png)
 
-1. 幾分鐘後，Marketo中將會顯示快顯視窗。 按一下 **[!UICONTROL 確認認證]**.
+1. 幾分鐘後，Marketo中將會顯示快顯視窗。 按一下&#x200B;**[!UICONTROL 確認認證]**。
 
    ![](assets/setting-up-oauth-2-13.png)
 
-1. 欄位同步完成後，請按一下 **[!UICONTROL 開始Salesforce同步]**.
+1. 欄位同步完成後，按一下&#x200B;**[!UICONTROL 開始Salesforce同步]**。
 
    ![](assets/setting-up-oauth-2-14.png)
 
-1. 按一下 **[!UICONTROL 開始同步]**.
+1. 按一下&#x200B;**[!UICONTROL 開始同步]**。
 
    ![](assets/setting-up-oauth-2-15.png)
 
@@ -109,6 +109,6 @@ Salesforce會使用OAuth通訊協定，讓應用程式的使用者能夠安全�
 >[!MORELIKETHIS]
 >
 * [步驟3之1：將Marketo欄位新增至Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
-* [步驟2之3：建立Marketo的Salesforce使用者(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
-* [以SalesforceAppExchange安裝Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+* [步驟2之3：建立Marketo (Enterprise/Unlimited)的Salesforce使用者](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
+* [在SalesforceAppExchange中安裝Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
 * [在Salesforce Enterprise/Unlimited中設定Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md){target="_blank"}

@@ -16,15 +16,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您使用 `{{team_unsubscribe}}` 電子郵件範本中的動態欄位且「取消訂閱訊息附加」設定已啟用時，「專案團隊取消訂閱動態」欄位會填入您的取消訂閱訊息 _而非_ 正在附加您的取消訂閱訊息。
+>如果您在電子郵件範本中使用`{{team_unsubscribe}}`動態欄位，且已啟用取消訂閱訊息附加設定，則團隊取消訂閱動態欄位將會填入您的取消訂閱訊息&#x200B;_，而非_&#x200B;附加您的取消訂閱訊息。
 
 ## 啟用/停用取消訂閱附加 {#enable-disable-unsubscribe-append}
 
-1. 按一下齒輪圖示並選取 **設定**.
+1. 按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/auto-append-unsubscribe-message-setting-1.png)
 
-1. 在管理設定下，按一下 **取消訂閱**.
+1. 在[管理設定]下，按一下[取消訂閱]。****
 
    ![](assets/auto-append-unsubscribe-message-setting-2.png)
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您停用附加取消訂閱訊息設定，建議將取消訂閱頁尾新增至您的範本，以確保您的通訊具有選擇退出選項。 若要這麼做，您可以將自己的自訂訊息新增至每個範本，或使用 `{{team_unsubscribe}}` [動態欄位](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.
+>如果您停用附加取消訂閱訊息設定，建議將取消訂閱頁尾新增至您的範本，以確保您的通訊具有選擇退出選項。 您可以新增您自己的自訂訊息至每個範本，或使用`{{team_unsubscribe}}` [動態欄位](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}來執行此操作。

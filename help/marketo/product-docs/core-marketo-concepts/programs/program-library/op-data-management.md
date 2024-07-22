@@ -2,10 +2,10 @@
 description: OP — 資料管理 — Marketo檔案 — 產品檔案
 title: 作業資料管理
 feature: Programs
-exl-id: 21cd86b2-e924-4326-bbf7-32a03a3eb224
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '319'
 ht-degree: 2%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 這是使用預設程式的簡單作業資料管理最佳實務工作流程的範例，協助您管理Marketo Engage資料庫中記錄的資料一致性。
 
-如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -35,7 +35,7 @@ ht-degree: 2%
  </tbody> 
 </table>
 
-## 程式包含下列資產 {#program-contains-the-following-assets}
+## 程式包含下列Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -77,7 +77,7 @@ ht-degree: 2%
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>線上廣告</td>
+   <td>線上Advertising</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
@@ -112,7 +112,7 @@ ht-degree: 2%
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>從線上廣告新增人員</td>
+   <td>線上Advertising的新人員</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
@@ -137,17 +137,17 @@ ht-degree: 2%
   <tr> 
    <td>資料夾</td> 
    <td> </td>
-   <td>人員來源夜間批次（適用於高流量例項）</td>
+   <td>人員Source夜間批次（適用於高流量例項）</td>
   </tr>
   <tr> 
    <td>資料夾</td> 
    <td> </td>
-   <td>已觸發個人來源（針對低流量例項）</td>
+   <td>Source已觸發人員（針對低流量例項）</td>
   </tr>
   <tr> 
    <td>資料夾</td> 
    <td> </td>
-   <td>擷取個人來源</td>
+   <td>擷取人員Source</td>
   </tr>
   <tr> 
    <td>資料夾</td> 
@@ -171,20 +171,20 @@ ht-degree: 2%
 
 ## 衝突規則 {#conflict-rules}
 
-* **計畫標籤**
-   * 在此訂閱中建立標籤 —  _建議_
+* **程式標籤**
+   * 在此訂閱中建立標籤 — _建議_
    * 忽略
 
-* **具相同名稱的登陸頁面範本**
-   * 複製原始範本 —  _建議_
+* **名稱相同的登入頁面範本**
+   * 複製原始範本 — _建議_
    * 使用目的地範本
 
-* **具有相同名稱的影像**
-   * 保留兩個檔案 —  _建議_
+* **相同名稱的影像**
+   * 保留兩個檔案 — _建議_
    * 取代此訂閱中的專案
 
 * **相同名稱的電子郵件範本**
-   * 保留兩個範本 —  _建議_
+   * 保留兩個範本 — _建議_
    * 取代現有範本
 
 ## 最佳實務 {#best-practices}

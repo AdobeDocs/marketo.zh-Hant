@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # 建立代碼片段 {#create-a-snippet}
 
-程式碼片段可做為上的動態內容區塊 **電子郵件** 和 **登陸頁面**.
+程式碼片段可以在&#x200B;**電子郵件**&#x200B;和&#x200B;**登入頁面**&#x200B;上當作動態內容區塊使用。
 
-1. 前往 **Design Studio。**
+1. 移至&#x200B;**設計工作室。**
 
    ![](assets/designstudio.png)
 
-1. 按一下 **新增** 然後 **新程式碼片段**.
+1. 按一下&#x200B;**新增**，然後按一下&#x200B;**新增程式碼片段**。
 
    ![](assets/image2014-9-16-8-50-4.png)
 
-1. 輸入必要的詳細資訊，然後按一下 **建立**.
+1. 輸入必要的詳細資料，然後按一下&#x200B;**建立**。
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-做得好！ 為您的動態內容建立程式碼片段，以簡化工作。 現在您可以繼續 [將內容新增至您的新程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
+做得好！ 為您的動態內容建立程式碼片段，以簡化工作。 現在您可以[新增內容至您的新程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)。
 
 >[!MORELIKETHIS]
 >
->* [將內容新增至程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>* [新增內容至程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 >* [瞭解動態內容](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)

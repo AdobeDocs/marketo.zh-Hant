@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -25,23 +25,23 @@ ht-degree: 1%
 
 ## 如何建立欄位召集人 {#how-to-create-field-organizers}
 
-1. 按一下 **資料庫**.
+1. 按一下&#x200B;**資料庫**。
 
    ![](assets/db.png)
 
-1. 在 **新增**，選取 **新增欄位組織器**.
+1. 在&#x200B;**新增**&#x200B;下，選取&#x200B;**新增欄位組織器**。
 
    ![](assets/two-1.png)
 
-1. 在 **欄位**，選取屬性。 說明為選用。
+1. 在&#x200B;**欄位**&#x200B;下，選取屬性。 說明為選用。
 
    ![](assets/three-1.png)
 
-1. 按一下 **建立**。
+1. 按一下&#x200B;**建立**。
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. 為群組命名並輸入適當的資料（這取決於所選欄位的資料型別）。 按一下 **新增群組**.
+1. 為群組命名並輸入適當的資料（這取決於所選欄位的資料型別）。 按一下&#x200B;**新增群組**。
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 
@@ -49,4 +49,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[使用「欄位組織器」建立自訂欄位群組](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
+>[使用欄位組織器建立自訂欄位群組](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)

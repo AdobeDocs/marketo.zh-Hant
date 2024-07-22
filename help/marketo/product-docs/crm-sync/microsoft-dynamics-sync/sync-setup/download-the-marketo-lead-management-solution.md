@@ -6,7 +6,7 @@ exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -21,25 +21,25 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->您必須下載最新的Marketo解決方案 _早於_ 執行任何升級。
+>在執行任何升級之前&#x200B;_，您必須先下載最新的Marketo解決方案_。
 
 >[!NOTE]
 >
 >Marketo目前僅支援與Java 7相容的SSL憑證。
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 
-1. 按一下 **[!UICONTROL CRM]**.
+1. 按一下&#x200B;**[!UICONTROL CRM]**。
 
    ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. 選取 **[!DNL Microsoft]**.
+1. 選取&#x200B;**[!DNL Microsoft]**。
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. 選取 **[!UICONTROL 下載Marketo解決方案]**.
+1. 選取&#x200B;**[!UICONTROL 下載Marketo解決方案]**。
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 

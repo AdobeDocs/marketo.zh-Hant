@@ -28,15 +28,15 @@ Bird已建立多個訓練影片，協助您善用此強大工具。
 
 * [使用者與帳戶設定](https://veed.io/view/dae8007a-89b4-4a2a-b666-0e9b12706866){target="_blank"}
 
-* [智慧（設定和下載）](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
+* [Intelliseed （設定和下載）](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
 
 ## 收件匣追蹤器傳遞能力段落 {#inbox-tracker-deliverability-section}
 
 ![](assets/inbox-tracker-tutorials-2.png)
 
-* [控制面板概觀](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
+* [儀表板總覽](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
 
-* [控制面板（傳遞能力）](https://veed.io/view/f5dc2e22-3ed1-4024-b6c5-bf346adcc07d){target="_blank"}
+* [儀表板（傳遞能力）](https://veed.io/view/f5dc2e22-3ed1-4024-b6c5-bf346adcc07d){target="_blank"}
 
 * [儀表板（信譽和驗證）](https://veed.io/view/ec237f9d-7923-4ddc-8a58-15d58774d382){target="_blank"}
 
@@ -44,7 +44,7 @@ Bird已建立多個訓練影片，協助您善用此強大工具。
 
 * [警報](https://veed.io/view/1d968a33-e565-4cd2-b25f-53cca61b4823){target="_blank"}
 
-* [行銷活動追蹤器概觀](https://veed.io/view/8c92bdc5-4131-498c-a450-a518f2e91b17){target="_blank"}
+* [行銷活動追蹤器總覽](https://veed.io/view/8c92bdc5-4131-498c-a450-a518f2e91b17){target="_blank"}
 
 * [行銷活動追蹤器（行銷活動評論）](https://veed.io/view/9c8e18a4-5d9e-495c-ad92-83309f40314a){target="_blank"}
 

@@ -6,7 +6,7 @@ exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Marketo中的電子郵件標題是完全可自訂的。 它包含四個欄位：
 
-* **從**  — 您希望顯示的寄件者名稱
-* **寄件者地址**  — 您希望顯示的寄件者電子郵件地址
-* **回覆**  — 您想要將某人回覆傳送至的電子郵件地址（可能與「寄件者地址」不同）
-* **主旨**  — 電子郵件的主旨列
+* **從** — 您要顯示的寄件者名稱
+* **寄件者地址** — 您要顯示的寄件者電子郵件地址
+* **回覆** — 您想要將某人回覆傳送至的電子郵件地址（可能與「寄件者地址」不同）
+* **主旨** — 電子郵件的主旨列
 
 若要編輯這些值，請在每個欄位中按一下，然後輸入您的資訊。
 
@@ -26,7 +26,7 @@ Marketo中的電子郵件標題是完全可自訂的。 它包含四個欄位：
 
 >[!TIP]
 >
->若要設定預設的「寄件者名稱」和「寄件者電子郵件」，請參閱 [變更「來自電子郵件」和「來自標籤」的預設值](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
+>若要設定[寄件者名稱]和[寄件者電子郵件]的預設值，請參閱[變更寄件者電子郵件和寄件者標籤](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)的預設值。
 
 如果您想使用權杖，請先在所需欄位內按一下，然後按一下權杖圖示。
 
@@ -50,4 +50,4 @@ Marketo中的電子郵件標題是完全可自訂的。 它包含四個欄位：
 
 >[!MORELIKETHIS]
 >
->[電子郵件編輯器v2.0概覽](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>[電子郵件編輯器v2.0總覽](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)

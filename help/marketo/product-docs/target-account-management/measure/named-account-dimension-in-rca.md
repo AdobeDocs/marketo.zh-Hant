@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Dimension**  — 屬性（以黃色點表示），可顯示量測的不同檢視。
+>**Dimension** — 提供測量不同檢視的屬性（以黃色點表示）。
 
 ![](assets/one-2.png)
 

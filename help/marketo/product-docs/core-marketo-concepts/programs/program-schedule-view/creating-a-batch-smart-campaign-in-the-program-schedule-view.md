@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 在方案排程檢視中建立批次智慧型行銷活動 {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-您可以建立新的Smart Campaigns和 [重新執行現有專案](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} 從方案排程檢視進入您的方案。
+您可以從方案排程檢視建立新的Smart Campaigns並在方案內[重新執行現有的行銷活動](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"}。
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. 為您的專案選擇名稱，這會成為新的Smart Campaign。 按下 **[!UICONTROL 輸入/傳回]** 鍵以確認名稱。
+1. 為您的專案選擇名稱，這會成為新的Smart Campaign。 按下&#x200B;**[!UICONTROL Enter/Return]**&#x200B;鍵以確認名稱。
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. 按一下 **[!UICONTROL 型別]** 下拉式清單，然後選擇 **[!UICONTROL Smart Campaign]**.
+1. 按一下&#x200B;**[!UICONTROL 型別]**&#x200B;下拉式清單，然後選擇&#x200B;**[!UICONTROL 智慧行銷活動]**。
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 選擇您的 [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} 規則。
+1. 選擇您的[智慧行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}規則。
 
    ![](assets/changeprogramstatus-hands.png)
 

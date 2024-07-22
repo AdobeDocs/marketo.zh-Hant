@@ -21,34 +21,34 @@ ht-degree: 0%
 
 ## 封鎖來自不受信任來源的欄位更新 {#blocking-field-updates-from-untrusted-sources}
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 
-1. 按一下 **[!UICONTROL 欄位管理]**.
+1. 按一下&#x200B;**[!UICONTROL 欄位管理]**。
 
    ![](assets/blocking-field-updates-from-untrusted-sources-2.png)
 
-1. 找到所需的欄位，選取該欄位，然後在 **[!UICONTROL 欄位動作]**，按一下 **[!UICONTROL 封鎖欄位更新]**.
+1. 找到您要的欄位，選取它，然後在&#x200B;**[!UICONTROL 欄位動作]**&#x200B;下，按一下&#x200B;**[!UICONTROL 封鎖欄位更新]**。
 
    ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
 
-1. 檢查 **[!UICONTROL 清單匯入不受信任的來源]** 並按一下 **[!UICONTROL 套用]**.
+1. 檢查&#x200B;**[!UICONTROL 列出匯入不受信任的來源]**&#x200B;並按一下&#x200B;**[!UICONTROL 套用]**。
 
    ![](assets/blocking-field-updates-from-untrusted-sources-4.png)
 
 >[!TIP]
 >
->您可以檢查欄位，防止所有清單中的欄位受到信任和不受信任 **[!UICONTROL 列出匯入信任的來源]**.
+>您可以透過勾選&#x200B;**[!UICONTROL 列出匯入信任的來源]**，來確保欄位不受所有清單（受信任和不受信任）的影響。
 
 針對您想要防止未受信任清單出現的任何其他欄位，重複上述步驟。
 
 ## 執行不受信任的清單匯入 {#running-an-untrusted-list-import}
 
-1. 執行清單匯入時，請務必選取 **[!UICONTROL 未受信任]** 如果您希望在上一步中設定的所有欄位都是安全的。
+1. 執行清單匯入時，如果您希望在上一步中設定的所有欄位都安全，請務必選取&#x200B;**[!UICONTROL 不受信任]**。
 
    ![](assets/blocking-field-updates-from-untrusted-sources-5.png)
 
-如需匯入清單的詳細說明，請參閱 [匯入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
+如需匯入清單的詳細說明，請參閱[匯入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)。
 
 做得很好！現在您知道如何保護金鑰欄位免受不受信任清單的影響。

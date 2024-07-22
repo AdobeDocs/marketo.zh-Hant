@@ -6,7 +6,7 @@ exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ## 行銷行事曆授權 {#marketing-calendar-licenses}
 
-2014年9月5日之後，只有5位使用者可以免費存取行銷行事曆。 請確定 [發行/撤銷行銷行事曆授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) 之後傳送給您選擇的使用者，以持續進行存取。
+2014年9月5日之後，只有5位使用者可以免費存取行銷行事曆。 請務必先將行銷行事曆授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)問題/撤銷給您選擇的使用者，再將其設為未中斷存取。[
 
-![--](assets/image2014-9-16-9-3a45-3a52.png)
+![—](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## 新使用者許可權 {#new-user-permissions}
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 從管理員匯出使用者和角色 {#export-users-and-roles-from-admin}
 
-您現在可以 [匯出使用者和角色清單](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) 來自Marketo。 您也可以加入要包含在匯出中的「上次登入」時間戳記。
+您現在可以從Marketo [匯出使用者和角色清單](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)。 您也可以加入要包含在匯出中的「上次登入」時間戳記。
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 >
 >DKIM將緩慢推出，您可能會好幾週都看不到它。
 
-## 即時個人化更新 {#real-time-personalization-updates}
+## 即時Personalization更新 {#real-time-personalization-updates}
 
 我們已在行銷活動頁面新增標籤，讓您能夠為自己的內容加上標籤。
 
@@ -93,6 +93,6 @@ ht-degree: 0%
 
 ## 追蹤控制 {#tracking-control}
 
-您現在可以在「即時個人化」中，從所有追蹤和報告中排除特定IP。
+您現在可以從Real-Time Personalization的所有追蹤和報告中排除特定IP。
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)

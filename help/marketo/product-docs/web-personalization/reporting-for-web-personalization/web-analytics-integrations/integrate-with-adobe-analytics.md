@@ -6,7 +6,7 @@ exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1130'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ## 介紹 {#intro}
 
-在Adobe Analytics帳戶中檢視組織、產業和Marketo即時個人化(RTP)行銷活動資料，從B2B角度分析您的網站分析。
+在Adobe Analytics帳戶中檢視組織、產業和Marketo Real-Time Personalization (RTP)行銷活動資料，從B2B角度分析您的網站分析。
 
-本檔案啟用Marketo即時個人化(RTP)與AdobeAdobe Analytics之間的整合。 來自RTP的資料可讓您偵測和分析所有產業區段和造訪您網站的組織中的趨勢，並測量RTP行銷活動的有效性，提供深入見解和分析，以獲得最佳結果。
+本檔案啟用Marketo即時Personalization (RTP)與AdobeAdobe Analytics之間的整合。 來自RTP的資料可讓您偵測和分析所有產業區段和造訪您網站的組織中的趨勢，並測量RTP行銷活動的有效性，提供深入見解和分析，以獲得最佳結果。
 
 您可以檢視每個區段的新訪客與回訪訪客數量等量度，分析行銷活動的點按率，並找出哪些產業和自訂區段和即時行銷活動產生最佳轉換潛在客戶，藉此達成此目標。 利用此功能從您的RTP帳戶中獲得最大利益。
 
@@ -51,8 +51,8 @@ RTP儀表板可協助您根據垂直和RTP區段來瞭解訪客的劃分情形�
 
 此自訂連結報表會以下列命名格式顯示行銷活動的曝光次數和轉換次數：
 
-* 印象區段： [RTP區段名稱]，互動通訊： [RTP行銷活動名稱]
-* 轉換區段： [RTP區段名稱]，互動通訊： [RTP行銷活動名稱]
+* 印象ISegment： [RTP區段名稱]，ICampaign： [RTP促銷活動名稱]
+* 轉換ISegment： [RTP區段名稱]，ICampaign： [RTP促銷活動名稱]
 
 ![](assets/custom-links-report.png)
 
@@ -62,10 +62,10 @@ RTP儀表板可協助您根據垂直和RTP區段來瞭解訪客的劃分情形�
 
 請完成下列步驟，在AA中設定這些變數：
 
-1. 前往 **管理工具** 在您的AA帳戶中。
-1. 選取 **報表套裝** 要與整合搭配使用。
-1. 在 **編輯設定**，前往 **轉換** 並選取 **[轉換變數](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
-   選取 [轉換變數](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) 數字（建議）：
+1. 前往您AA帳戶中的&#x200B;**管理工具**。
+1. 選取要與整合搭配使用的&#x200B;**報表套裝**。
+1. 在&#x200B;**編輯設定**&#x200B;下，移至&#x200B;**轉換**&#x200B;並選取&#x200B;**[轉換變數](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**。\
+   選取[轉換變數](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar)數字（我們建議）：
 
    1. 適用於產業自訂轉換的Evar # 20
    1. 適用於組織自訂轉換的Evar # 21
@@ -74,13 +74,13 @@ RTP儀表板可協助您根據垂直和RTP區段來瞭解訪客的劃分情形�
    >
    >如果採用這些#，請選取其他可用的數字。 將此號碼與「RTP帳戶設定」中的位置號碼對齊。
 
-   1. 將狀態變更為 _已啟用_.
+   1. 變更狀態為&#x200B;_已啟用_。
 
-      1. 將名稱變更為 **產業** 和 **組織**. （這是該變數在報表套裝中的顯示方式。）
+      1. 將名稱變更為&#x200B;**產業**&#x200B;和&#x200B;**組織**。 （這是該變數在報表套裝中的顯示方式。）
 
-      1. 將「有效期限」欄位變更為 **造訪**.
+      1. 將[過期時間]欄位變更為&#x200B;**造訪**。
 
-1. 在 **編輯設定** 前往 **轉換** 並選取 **[成功事件](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
+1. 在&#x200B;**編輯設定**&#x200B;下移至&#x200B;**轉換**&#x200B;並選取&#x200B;**[成功事件](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**。
 
    1. 選取自訂成功事件事件編號（我們建議）：
 
@@ -91,11 +91,11 @@ RTP儀表板可協助您根據垂直和RTP區段來瞭解訪客的劃分情形�
       >
       >如果採用這些#，請選取其他可用的數字。 將此號碼與「RTP帳戶設定」中的位置號碼對齊。
 
-      1. 將兩個事件名稱變更為 **RTP行銷活動** 和 **RTP區段**. 這是會出現在報表套裝中的名稱。
+      1. 將兩個事件名稱變更為&#x200B;**RTP行銷活動**&#x200B;和&#x200B;**RTP區段**。 這是會出現在報表套裝中的名稱。
 
-   1. 選取要執行的型別欄位 **計數器（無子關聯）**
+   1. 選取[型別]欄位為&#x200B;**計數器（無子關聯）**
 
-1. 在 **編輯設定** 前往 **[流量](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** 並選取 **[流量變數](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. 在&#x200B;**編輯設定**&#x200B;下，移至&#x200B;**[流量](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)**&#x200B;並選取&#x200B;**[流量變數](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**。
 
    1. 選取流量變數屬性# （建議使用）：
 
@@ -110,21 +110,21 @@ RTP儀表板可協助您根據垂直和RTP區段來瞭解訪客的劃分情形�
 
       1. 變更4個屬性名稱。 這是會出現在報表套裝中的名稱。
 
-   1. 選取「已啟用」欄位以 **已啟用**.
+   1. 選取[已啟用]欄位以&#x200B;**已啟用**。
 
-   1. 選取路徑報表欄位至 **已啟用**.
+   1. 選取&#x200B;**已啟用**&#x200B;的路徑報告欄位。
 
-## 在Marketo即時個人化(RTP)中設定 {#set-up-in-marketo-real-time-personalization-rtp}
+## 在Marketo Real-Time Personalization (RTP)中設定 {#set-up-in-marketo-real-time-personalization-rtp}
 
-1. 在RTP平台中，移至 **帳戶設定**.
+1. 在RTP平台中，移至&#x200B;**帳戶設定**。
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. 在 **帳戶設定**，按一下 **網域**.
-1. 在 **Analytics，按一下** **Adobe Analytics**.
-1. 翻轉 **開啟** 「轉換」、「自訂」和「流量」變數會切換。
-1. 指派轉換、事件和流量變數 **位置編號** 比對在AA中建立的位置編號
-1. 按一下 **儲存**.
+1. 在&#x200B;**帳戶設定**&#x200B;下，按一下&#x200B;**網域**。
+1. 在&#x200B;**Analytics底下，按一下** **Adobe Analytics**。
+1. 開啟&#x200B;**轉換**&#x200B;自訂和流量變數切換。
+1. 指派轉換、事件和流量變數&#x200B;**位置編號**&#x200B;以符合AA中建立的位置編號
+1. 按一下&#x200B;**保存**。
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 
@@ -162,9 +162,9 @@ AA中的自訂報告和儀表板範例包括：
 * 每個組織檢視的頁面數
 * 根據組織、產業、區段的行銷管道績效
 
-**— 報表範例 —**
+**報告範例 —**
 
-**排名在前的產業報表**
+**熱門產業報告**
 
 ![](assets/top-industries-report.png)
 
@@ -172,51 +172,51 @@ AA中的自訂報告和儀表板範例包括：
 
 ![](assets/image2014-11-29-12-3a29-3a42.png)
 
-**建立RTP控制面板**
+**正在建立RTP儀表板**
 
-建立 [新儀表板](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)，已呼叫 **RTP儀表板**. 此儀表板有助於瞭解根據垂直和RTP區段劃分訪客的情況。
+建立[新儀表板](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)，稱為&#x200B;**RTP儀表板**。 此儀表板有助於瞭解根據垂直和RTP區段劃分訪客的情況。
 
-1. 按一下 **儀表板，** 按一下 **新增儀表板**.
+1. 按一下&#x200B;**儀表板，**&#x200B;按一下&#x200B;**新增儀表板**。
 
-1. 命名儀表板 **RTP儀表板**.
+1. 命名儀表板&#x200B;**RTP儀表板**。
 
-1. 選取 **儀表板大小** 3 x 2， 2 x 2。
+1. 選取&#x200B;**儀表板大小** 3 x 2， 2 x 2。
 
-1. 建立 [小報告](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) 並新增 [內容放入控制面板](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
+1. 建立[小報表](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3)並將[內容新增到儀表板](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)。
 
 將產業小報表新增到控制面板
 
-1. 前往 **自訂轉換**，按一下 **產業**.
+1. 移至&#x200B;**自訂轉換**，按一下&#x200B;**產業**。
 
-1. 設定圖表至 **圓形圖**.
+1. 將圖表設定為&#x200B;**圓形圖**。
 
-1. 按一下 **儀表板**，新增 **小報告**.
+1. 按一下&#x200B;**儀表板**，新增&#x200B;**小報告**。
 
-1. 為報表命名 **主要產業**.
+1. 為報告命名&#x200B;**熱門產業**。
 
-1. 置於儀表板 **RTP儀表板**.
+1. 放在儀表板&#x200B;**RTP儀表板**&#x200B;中。
 
-1. 建立 **新增**.
+1. 建立&#x200B;**新**。
 
 新增區段小報表至控制面板
 
-1. 前往 **網站量度**. 按一下 **自訂事件**， **區段**.
+1. 移至&#x200B;**網站量度**。 按一下&#x200B;**自訂事件**，**區段**。
 
-1. 設定圖表至 **垂直條**.
+1. 將圖表設定為&#x200B;**垂直條**。
 
-1. 按一下 **儀表板**，新增 **小報告**.
+1. 按一下&#x200B;**儀表板**，新增&#x200B;**小報告**。
 
-1. 為報表命名 **排名在前的區段**.
+1. 為報表命名&#x200B;**排名最前的區段**。
 
-1. 置於儀表板 **RTP儀表板**.
+1. 放在儀表板&#x200B;**RTP儀表板**&#x200B;中。
 
-1. 建立 **新增**.
+1. 建立&#x200B;**新**。
 
 您的小報表會顯示在控制面板中。
 
 ## 在Adobe Analytics中檢視曝光數和點按數（轉換） {#view-impressions-and-clicks-conversions-in-adobe-analytics}
 
-1. 按一下 **自訂連結**.
+1. 按一下&#x200B;**自訂連結**。
 
    ![](assets/sitecatalyst1-1.png)
 

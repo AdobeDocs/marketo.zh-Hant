@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098812
-description: 設定數位廣告行銷活動的收入歸因 — Marketo檔案 — 產品檔案
-title: 設定數位廣告行銷活動的收入歸因
+description: 設定數位Advertising行銷活動的收入歸因 — Marketo檔案 — 產品檔案
+title: 設定數位Advertising行銷活動的收入歸因
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
 
-# 設定數位廣告行銷活動的收入歸因 {#set-up-revenue-attribution-for-digital-advertising-campaigns}
+# 設定數位Advertising行銷活動的收入歸因 {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
 以下說明如何設定數位廣告頻道和行銷活動的收入歸因。 完成設定後，您可以像在其他Marketo程式中一樣，對數位廣告執行首次接觸和多點接觸收入歸因。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 設定具有狀態值和方案成功的頻道標籤（例如，數位廣告或社交付費和PPC）
+>* 設定具有狀態值和方案成功的管道標籤(例如Digital Advertising或Social Paid和PPC)
 >* 建立或編輯表單，以透過人員傳遞查詢字串
 >* 請確定您有權存取部分Revenue Cycle Analytics功能，以便報告您的廣告頻道和行銷活動
 
@@ -29,15 +29,15 @@ ht-degree: 0%
 
 與某些程式（例如電子郵件）可能定期在特定時段執行不同，預設程式會一直開啟。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-5.png)
 
-1. 按一下 **新增** 並選取 **新計畫**.
+1. 按一下&#x200B;**新增**&#x200B;並選取&#x200B;**新增程式**。
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. 如果您已有計畫，您可以 [原地複製](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. 如果您已有程式，您可以[復製程式](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)。
 
    >[!TIP]
    >
@@ -53,7 +53,7 @@ ht-degree: 0%
    >
    >您可以建立查詢字串方法，納入您要測量的所有變數。 Marketo使用這些變數將人員新增至您的不同程式。
    >
-   >例如，您可以使用管道type_Channel__Asset__Region。 這可能類似於：SP_FB_NewGuide_US。 **注意**：縮寫可節省空間。
+   >例如，您可以使用管道type_Channel__Asset__Region。 這可能類似於：SP_FB_NewGuide_US。 **附註**：縮寫可以節省空間。
    >
    >或者，將其設定為Channel_Adsource_AssetName_Region_UniqueIdNumber。 這可能類似於：Social-Paid_Facebook_NewGuide_NA_123。
 
@@ -65,9 +65,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >兩個觸發程式中使用的查詢字串以及 **擷取名稱的程式** 篩選器對您而言是唯一的。 此處顯示的查詢字串僅為範例。 如果您複製欄位，只需取代這些欄位即可。
+   >兩個觸發程式和&#x200B;**擷取名稱的程式**&#x200B;篩選器中使用的查詢字串是您獨有的。 此處顯示的查詢字串僅為範例。 如果您複製欄位，只需取代這些欄位即可。
 
-1. 建立流程步驟以將屬性變更為 **贏取方案** 並將新值設定為您針對付費社交行銷活動定義的值。
+1. 建立流程步驟以將屬性變更為&#x200B;**贏取方案**，並將新值設定為您為付費社交行銷活動定義的值。
 
    ![](assets/image2016-3-14-14-3a58-3a6.png)
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 您需要第二個智慧型行銷活動來變更人員的狀態，以便他們能夠實現方案成功並包含在收入歸因計算中。
 
-1. 在 **填寫表單** 觸發程式，在查詢字串中輸入程式名稱。 如果您要復製程式，只需將舊的查詢字串名稱取代為新名稱即可。
+1. 在&#x200B;**填寫表單**&#x200B;觸發器中，在查詢字串中輸入程式名稱。 如果您要復製程式，只需將舊的查詢字串名稱取代為新名稱即可。
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >上述範例顯示 **已轉換**，但這取決於您的狀態/成功值。
+   >以上範例顯示&#x200B;**已轉換**，但這取決於您的狀態/成功值。
 
 1. 排程並啟動行銷活動。
 
@@ -108,16 +108,16 @@ ht-degree: 0%
    >
    >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >* **來源** 是用作管道識別碼的「個人來源」
-   >* **評論** 是為每個方案建立的唯一識別碼
-   >* **camp** 是Facebook、LinkedIn或Google中的促銷活動
-   >* **kk** 是要擷取的關鍵字或資產名稱
+   >* **來源**&#x200B;是作為管道識別碼使用的Person Source
+   >* **註解**&#x200B;是為每個方案建立的唯一識別碼
+   >* **camp**&#x200B;是Facebook、LinkedIn或Google中的行銷活動
+   >* **kk**&#x200B;是您要擷取的關鍵字或資產名稱
    >
-   >**這四個字詞必須全部小寫，且URL中不能有任何空格才能擷取這項資訊。**
+   >**這四個字詞必須全部小寫，且URL中不能有任何空格可供擷取此資訊。**
 
 ## 最佳實務 {#best-practices}
 
-使用單一管道標籤來代表所有數位廣告，或者，如果您想要與其他行銷管道進行更細微的比較（例如，社交付費、搜尋付費、顯示、重新鎖定目標），請使用多個管道標籤。
+使用單一管道標籤來代表所有數位Advertising，或者，如果您想要與其他行銷管道進行更細微的比較（例如，社交付費、搜尋付費、顯示、重新鎖定目標），請使用多個管道標籤。
 
 接著，針對您需要的每個報表檢視設定不同的程式。 如果您有10個區域同時啟動「Big Campaign」，而且想要能夠跨區域檢視結果，請使用通用ID作為查詢字串URL中的引數（例如BC）。
 

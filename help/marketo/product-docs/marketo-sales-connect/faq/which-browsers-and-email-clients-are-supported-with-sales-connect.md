@@ -6,8 +6,8 @@ exl-id: 00f3537e-358d-4540-b569-085674c360a4
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
@@ -53,7 +53,7 @@ Marketo Sales Connect目前支援下列瀏覽器。
    <td>最新</td> 
   </tr> 
   <tr> 
-   <td>鉻黃</td> 
+   <td>Chrome</td> 
    <td>最新</td> 
   </tr> 
   <tr> 
@@ -71,4 +71,4 @@ Marketo Sales Connect目前支援下列瀏覽器。
  </tbody> 
 </table>
 
-為獲得最佳體驗， **保持瀏覽器和電子郵件使用者端更新**！
+為獲得最佳體驗，**讓您的瀏覽器和電子郵件使用者端保持更新**！

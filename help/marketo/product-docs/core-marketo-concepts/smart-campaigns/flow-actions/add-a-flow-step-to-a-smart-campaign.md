@@ -15,11 +15,11 @@ ht-degree: 0%
 
 流程步驟會告知Marketo Engage您希望對符合資格的群組發生什麼事。
 
-1. 前往 **[!UICONTROL 行銷活動]**.
+1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 
-1. 選取您的Smart Campaign並按一下 **[!UICONTROL 流量]**.
+1. 選取您的Smart Campaign，然後按一下&#x200B;**[!UICONTROL 流量]**。
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-2.png)
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->流程步驟會依照其列出的順序執行。 [重新排序流程步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} 以確保順序正確。
+>流程步驟會依照其列出的順序執行。 [重新排序流程步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}以確保它們順序正確。
 
 >[!TIP]
 >
 >如果輸入無效，則會出現紅色曲線線。 將滑鼠指標暫留在該行上可檢視如何加以修正。
 
-棒極了！ 請確定 [檢閱及驗證Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} 排程或啟動之前。
+棒極了！ 在排程或啟動智慧型行銷活動之前，請務必[檢閱及驗證](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"}。
 
 >[!MORELIKETHIS]
 >
->* [在流程步驟中使用新增選項](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
->* [在智慧行銷活動中重新排序流量步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
+>* [在流程步驟中使用新增選擇](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
+>* [在Smart Campaign中重新排序流程步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}

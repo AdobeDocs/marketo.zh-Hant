@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ![](assets/predictive.png)
 
-## [facebook離線轉換](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
+## [Facebook離線轉換](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
 透過Facebook離線轉換整合，Marketo中的轉換資料（適用於銷售機會廣告銷售機會）會自動傳回Facebook，讓您的廣告團隊更能將廣告支出最佳化。 在這份Facebook Ad Manager報表中，會強調離線轉換。
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 **REST API**
 
-此版本也可讓您使用Marketo REST API在ABM中管理具名帳戶屬性和帳戶分數。 如需API操作的詳細資訊，請造訪 [Marketo開發人員網站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
+此版本也可讓您使用Marketo REST API在ABM中管理具名帳戶屬性和帳戶分數。 如需API作業的詳細資訊，請造訪[Marketo開發人員網站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts)。
 
 ## [稽核軌跡增強功能](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 **編輯行銷活動限制**
 
-為何設定 [行銷活動限制](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) 如果您無法強制執行？ 當您設定「行銷活動限制設定」來限制資料庫中單一行銷活動可鎖定的人數，您現在便能夠在排程行銷活動時限制哪些使用者可以覆寫這些設定。
+如果您無法強制執行[行銷活動限制](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)，為什麼要設定這些限制？ 當您設定「行銷活動限制設定」來限制資料庫中單一行銷活動可鎖定的人數，您現在便能夠在排程行銷活動時限制哪些使用者可以覆寫這些設定。
 
 ## [行動推播通知的聲音](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -80,9 +80,9 @@ ht-degree: 0%
 
 ![](assets/sound-for-push-notifications.png)
 
-## [Sales Insight與Salesforce Encryption相容](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## [與Salesforce加密相容的Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight現在相容於Salesforce Shield Encryption。 所有Sales Insight客戶都應該升級至這個最新的Managed套件（1.4359.2版），也就是 [適用於Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+Market Sales Insight現在相容於Salesforce Shield Encryption。 所有Sales Insight客戶都應該升級至這個最新的Managed套件（1.4359.2版），此套件[可在Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)上取得。
 
 ## [具名帳戶API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
@@ -92,6 +92,6 @@ Market Sales Insight現在相容於Salesforce Shield Encryption。 所有Sales I
 
 使用Marketo REST API管理v2.0格式的電子郵件變數和模組。
 
-## [Marketo Salesforce同步處理的變更](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
+## [變更Marketo Salesforce Sync](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Marketo的Salesforce整合正不斷發展，以改善Marketo欄位與Salesforce同步的方式。 現在，您不必同步大量您可能需要（也可能不需要）的欄位，您可以挑選要納入的欄位。 如需詳細資訊，請在此處檢視我們的檔案： [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+Marketo的Salesforce整合正不斷發展，以改善Marketo欄位與Salesforce同步的方式。 現在，您不必同步大量您可能需要（也可能不需要）的欄位，您可以挑選要納入的欄位。 請在此檢視我們的檔案以取得詳細資訊： [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840)。

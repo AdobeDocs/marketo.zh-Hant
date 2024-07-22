@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->工作區可能設定起來很複雜。 連絡人 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support) 看看他們是否適合您。
+>工作區可能設定起來很複雜。 請連絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)，瞭解他們是否適合您。
 
 工作區是Marketo中存放行銷資產的獨立區域，例如方案、登陸頁面、電子郵件等。 可供多人使用。 每個使用者都可存取一或多個工作區。
 
@@ -28,13 +28,13 @@ ht-degree: 0%
 >您可以使用工作區的部分原因：
 >
 >* 地理位置：歐洲、亞洲和北美的行銷部門各有專屬的工作區
->* 業務單位： [!DNL Quicken]， [!DNL Quickbooks] 和 [!DNL TurboTax] 每個都取得工作區
+>* 業務單位： [!DNL Quicken]、[!DNL Quickbooks]和[!DNL TurboTax]各自取得工作區
 >
 >在每個案例中，分開是因為行銷資產完全不同。 如果他們共用行銷資產，工作區可能不是適合您的工具。
 
 >[!NOTE]
 >
->瞭解如何建立 [建立新的工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
+>瞭解如何建立[新的工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)。
 
 ## 跨工作區共用 {#sharing-across-workspaces}
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 >
 >包含您資產的父資料夾是唯一可共用的資料夾，而非子資料夾。
 
-1. 按一下 **[!UICONTROL 資料庫]**.
+1. 按一下&#x200B;**[!UICONTROL 資料庫]**。
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. 以滑鼠右鍵按一下Segmentation資料夾，然後按一下 **[!UICONTROL 新增資料夾]**.
+1. 在Segmentation資料夾上按一下滑鼠右鍵，然後按一下&#x200B;**[!UICONTROL 新增資料夾]**。
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. 命名資料夾並按一下 **[!UICONTROL 建立]**.
+1. 為資料夾命名，然後按一下[建立]。****
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -60,11 +60,11 @@ ht-degree: 0%
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. 以滑鼠右鍵按一下資料夾並選取「 」 **[!UICONTROL 共用資料夾]**.
+1. 在資料夾上按一下滑鼠右鍵，然後選取&#x200B;**[!UICONTROL 共用資料夾]**。
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. 選取您要共用資料夾的工作區，然後按一下 **[!UICONTROL 儲存]**. 「共用資料夾」對話方塊只會顯示您有檢視許可權的工作區。
+1. 選取您要共用資料夾的工作區，然後按一下[儲存]。**** 「共用資料夾」對話方塊只會顯示您有檢視許可權的工作區。
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -93,13 +93,13 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->雖然上述所有專案都可以在工作區、電子郵件、表單和登入頁面之間複製 _必須位於計畫內_ 複製時。
+>雖然上述所有專案都可以跨工作區複製，但複製時，_必須位於程式_&#x200B;內。
 
 >[!NOTE]
 >
 >複製含有範本的資產時，這些範本必須和目的地工作區共用。
 
-## 將資產移至其他工作區 {#moving-assets-to-other-workspaces}
+## 將Assets移至其他工作區 {#moving-assets-to-other-workspaces}
 
 若要將資產移至新的工作區，請將資產放入資料夾，然後將資料夾拖曳至其他工作區。
 
@@ -109,9 +109,9 @@ ht-degree: 0%
 
 ## 人員分割 {#person-partitions}
 
-個人資料分割的作用就像個別的資料庫。 每個分割區都有各自的人員，不會進行重複資料刪除或與其他分割區混合。 如果您認為您的業務使用案例可能需要具有相同電子郵件地址的重複記錄，請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support).
+個人資料分割的作用就像個別的資料庫。 每個分割區都有各自的人員，不會進行重複資料刪除或與其他分割區混合。 如果您認為您的業務使用案例可能需要具有相同電子郵件地址的重複記錄，請聯絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
-您可以將人員資料分割指派給  [工作區](create-a-new-workspace.md) 在下列設定中：
+您可以指派人員分割至下列組態中的[工作區](create-a-new-workspace.md)：
 
 * 一個工作區對一個人分割(1:1)
 * 一個工作區對多個人員分割(1：x)
@@ -130,4 +130,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->瞭解如何 [建立人員資料分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).
+>瞭解如何[建立人員資料分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)。

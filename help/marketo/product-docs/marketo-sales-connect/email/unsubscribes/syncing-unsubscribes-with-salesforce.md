@@ -6,7 +6,7 @@ exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -31,15 +31,15 @@ ht-degree: 0%
 
 使用者可以決定是否要透過Marketo也可以同步的標準電子郵件選擇退出欄位同步其取消訂閱，也可以透過Marketo銷售選擇退出欄位同步，以區別銷售取消訂閱和行銷取消訂閱。
 
-1. 前往 [網頁應用程式](https://toutapp.com/login)，按一下齒輪圖示並選取 **設定**.
+1. 移至[網頁應用程式](https://toutapp.com/login)，按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/one-1.png)
 
-1. 在管理員設定下方，選取 **取消訂閱**.
+1. 在[管理設定]下，選取&#x200B;**取消訂閱**。
 
    ![](assets/two-2.png)
 
-1. 按一下 **正在同步至Salesforce**，然後啟用「夜間同步」 。
+1. 按一下&#x200B;**同步處理至Salesforce**，然後啟用夜間同步處理。
 
    ![](assets/three-2.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
    | 欄位 | 說明 |
    |---|---|
    | **同步至Salesforce選擇退出欄位** | 依預設選取，僅更新Salesforce選擇退出欄位。 |
-   | **同步至Marketo銷售選擇退出欄位** | 如果您想要區隔銷售與行銷取消訂閱，請選擇此選項以更新其他 [Marketo銷售人員選擇退出欄位。](#msoo) |
+   | **同步至Marketo銷售選擇退出欄位** | 如果您想要區隔銷售與行銷取消訂閱，請選擇此選項以更新其他[Marketo銷售選擇退出欄位。](#msoo) |
 
 ## 在頁面配置中安裝選擇退出欄位 {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -58,11 +58,11 @@ ht-degree: 0%
 
 電子郵件選擇退出是Salesforce中的標準欄位，可從Salesforce安裝。 您必須是Salesforce管理員才能安裝。
 
-1. 前往 [Salesforce.com](https://salesforce.com) 並登入。
+1. 移至[Salesforce.com](https://salesforce.com)並登入。
 
    ![](assets/five-1.png)
 
-1. 按一下您的使用者名稱並選取 **設定**.
+1. 按一下您的使用者名稱，然後選取&#x200B;**設定**。
 
    ![](assets/six-1.png)
 
@@ -70,15 +70,15 @@ ht-degree: 0%
 
    ![](assets/seven-1.png)
 
-1. 選取 **頁面配置**.
+1. 選取&#x200B;**頁面配置**。
 
    ![](assets/eight-1.png)
 
-1. 選取 **編輯** 在您要新增欄位的頁面配置旁邊。
+1. 選取您要新增欄位的頁面配置旁的&#x200B;**編輯**。
 
    ![](assets/nine.png)
 
-1. 選取 **欄位**.
+1. 選取&#x200B;**欄位**。
 
    ![](assets/ten.png)
 
@@ -86,7 +86,7 @@ ht-degree: 0%
 
    ![](assets/11.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/twelve.png)
 

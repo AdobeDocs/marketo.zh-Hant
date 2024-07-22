@@ -5,7 +5,7 @@ exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
 source-git-commit: 6e81a8891f7d6e5916549d453a694b42e08cd496
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '415'
 ht-degree: 5%
 
 ---
@@ -16,23 +16,23 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->* 您的Sales Insight SFDC套件必須是版本 [2.4.0或更新版本](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* 您的Sales Insight SFDC套件版本必須為[2.4.0或更新版本](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
->* 您必須擁有 [Dynamic Chat整合](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} 設定
+>* 您必須設定[Dynamic Chat整合](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}
 >
->* 在您的Sales Insight中確認 [操作設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}, you have the "API Secret Key" field populated. If you don't, learn how to retrieve it [here](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
+>* 確定在您的Sales Insight [作業設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}中填入「API秘密金鑰」欄位。 如果您沒有，請在[這裡](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}瞭解如何擷取它。
 
 ## Marketo Sales Insight設定索引標籤 {#marketo-sales-insight-configuration-tab}
 
 請依照下列步驟來啟用Dynamic Chat整合。
 
-1. 登入您的Salesforce帳戶，按一下標籤列結尾的+ ，然後按一下 **Marketo銷售分析設定**.
+1. 登入您的Salesforce帳戶，按一下標籤列結尾的+ ，然後按一下&#x200B;**Marketo銷售分析設定**。
 
 1. 按一下以展開「Visualforce面板」。
 
    ![](assets/dynamic-chat-integration-1.png)
 
-1. 選取 **啟用Dynamic Chat資料** 核取方塊。
+1. 選取&#x200B;**啟用Dynamic Chat資料**&#x200B;核取方塊。
 
    ![](assets/dynamic-chat-integration-2.png)
 

@@ -7,13 +7,13 @@ feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # 編輯事件頻道 {#edit-an-event-channel}
 
-您可以從事件的 **摘要** 標籤或從其 **設定** 標籤。
+您可以從事件的&#x200B;**摘要**&#x200B;標籤或其&#x200B;**設定**&#x200B;標籤編輯頻道型別。
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->方案是一個特定的行銷計畫。 此 **頻道** 旨在作為傳遞機制，例如網路研討會、貿易展或線上廣告。 根據您自己的執行個體中可用的專案，您可能會在下拉式清單中看到不同的管道選項。 您也可以  [建立您自己的頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+>方案是一個特定的行銷計畫。 **頻道**&#x200B;旨在作為傳遞機制，例如網路研討會、商展或線上廣告。 根據您自己的執行個體中可用的專案，您可能會在下拉式清單中看到不同的管道選項。 您也可以[建立自己的頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)。
 
 ## 從「摘要」標籤 {#from-the-summary-tab}
 
-1. 從 **行銷活動**，從樹狀結構中選取事件。
+1. 從&#x200B;**行銷活動**，從樹狀結構中選取您的事件。
 
    ![](assets/eventprogramseelct.png)
 
-1. 導覽至 **摘要** 檢視。
+1. 導覽至&#x200B;**摘要**&#x200B;檢視。
 
    ![](assets/eventprogramsummary.png)
 
-1. 在 **設定** 類別，選取目前的 **頻道** 顯示為超連結。
+1. 在&#x200B;**設定**&#x200B;類別下，選取目前顯示為超連結的&#x200B;**頻道**。
 
    ![](assets/channeltypeevent.png)
 
@@ -41,27 +41,27 @@ ht-degree: 0%
 
    ![](assets/tradeshowchange.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/2017-06-13-09-35-53.png)
 
 ## 從「設定」標籤 {#from-the-setup-tab}
 
-您也可以從事件的 **設定** 標籤。
+也可以從事件的&#x200B;**設定**&#x200B;索引標籤指派新的管道型別。
 
 1. 從樹狀結構中選取事件。
 
    ![](assets/eventprogramseelct.png)
 
-1. 導覽至 **設定** 標籤。 按兩下目前的 **頻道**.
+1. 瀏覽至&#x200B;**設定**&#x200B;標籤。 連按兩下目前的&#x200B;**頻道**。
 
    ![](assets/setuptabchangechannel.png)
 
-1. 選取新專案 **頻道**.
+1. 選取新的&#x200B;**管道**。
 
    ![](assets/tradeshowchange.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/2017-06-13-09-35-53.png)
 

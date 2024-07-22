@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->由於規則不會變更，因此如果行銷活動的「智慧列示」或「流程步驟」參考原始方案，您必須手動更新該資訊，以反映其新方案（如預期的那樣） _非_ 自動更新。
+>由於規則不會變更，如果行銷活動的智慧清單或流程步驟參考原始程式，您必須手動更新該資訊以反映其新程式，因為它&#x200B;_不會_&#x200B;自動更新。
 
-1. 前往 **[!UICONTROL 行銷活動]**.
+1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
 
    ![](assets/move-a-smart-campaign-1.png)
 
-1. 找到您要移動的Smart Campaign，用滑鼠右鍵按一下並選取 **[!UICONTROL 移動]**.
+1. 找到您要移動的Smart Campaign，用滑鼠右鍵按一下並選取&#x200B;**[!UICONTROL 移動]**。
 
    ![](assets/move-a-smart-campaign-2.png)
 
-1. 選取 **[!UICONTROL 至]** （目的地）， **[!UICONTROL 計畫]**，和選填 **[!UICONTROL 資料夾]**. 選取 **[!UICONTROL 移動]**.
+1. 選取&#x200B;**[!UICONTROL 到]** （目的地）、**[!UICONTROL 程式]**&#x200B;和選用的&#x200B;**[!UICONTROL 資料夾]**。 選取&#x200B;**[!UICONTROL 移動]**。
 
    ![](assets/move-a-smart-campaign-3.png)
 

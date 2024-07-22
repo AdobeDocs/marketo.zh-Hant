@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->如需準確的報告，請避免 _重複使用_ 來自電子郵件程式的電子郵件，方法是在Smart Campaign中參考該電子郵件程式，或將資產從已啟動的電子郵件程式移至新的電子郵件程式。 這麼做會彙總該電子郵件附加之每個報告控制面板中的所有資料。 如果您需要重複使用電子郵件，請 [原地複製](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 相反地，這複製了電子郵件，但會建立具有新電子郵件ID的新電子郵件。
+>為獲得準確的報告，請避免&#x200B;_重複使用電子郵件程式的_&#x200B;電子郵件，方法是在智慧行銷活動中參考該電子郵件，或將資產從已啟動的電子郵件程式移至新的電子郵件程式。 這麼做會彙總該電子郵件附加之每個報告控制面板中的所有資料。 如果您需要重複使用電子郵件，請改為複製[它](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}，因為這樣會複製電子郵件，但會建立具有新電子郵件識別碼的新電子郵件。
 
 ## 選取您的電子郵件程式 {#select-your-email-program}
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 電子郵件程式檢視 {#email-program-view}
 
-或者，如果您未新增A/B測試 *或* 如果測試結束，應顯示以下內容：
+或者，如果您沒有新增A/B測試&#x200B;*或* （如果測試結束），則應該顯示下列專案：
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
@@ -51,5 +51,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用電子郵件計畫控制面板 — A/B測試檢視](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [使用電子郵件程式控制面板](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>* [使用電子郵件程式儀表板 — A/B測試檢視](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [使用電子郵件程式儀表板](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

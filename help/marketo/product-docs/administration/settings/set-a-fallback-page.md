@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/set-a-fallback-page-1.png)
 
-1. 按一下 **[!UICONTROL 登陸頁面]**.
+1. 按一下&#x200B;**[!UICONTROL 登陸頁面]**。
 
    ![](assets/set-a-fallback-page-2.png)
 
-1. 在 **[!UICONTROL 登陸頁面]** 標籤，按一下 **[!UICONTROL 編輯]**.
+1. 在&#x200B;**[!UICONTROL 登入頁面]**&#x200B;標籤下，按一下&#x200B;**[!UICONTROL 編輯]**。
 
    ![](assets/set-a-fallback-page-3.png)
 
-1. 輸入 **[!UICONTROL 後援頁面]** 在對話方塊中並按一下 **[!UICONTROL 儲存]**.
+1. 在對話方塊中輸入&#x200B;**[!UICONTROL 後援頁面]**，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/set-a-fallback-page-4.png)
 

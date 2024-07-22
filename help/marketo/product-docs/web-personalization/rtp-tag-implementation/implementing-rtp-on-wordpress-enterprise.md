@@ -6,7 +6,7 @@ exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 若要實作RTP標籤，請遵循下列安裝指示：
 
-1. 前往 **帳戶設定**.
+1. 移至&#x200B;**帳戶設定**。
 
    a.如果您已從支援部門收到JavaScript標籤 — 請繼續步驟3。
 
    ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. 在「網域」下，找到相關網域並按一下 **產生標籤**.
+1. 在[網域]下，找到相關網域，然後按一下[產生標籤]。****
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 1. 以管理員使用者身分登入您的WordPress帳戶
 
-   a.低於 **外觀**，前往 **自訂JavaScript**.
+   a.在&#x200B;**外觀**&#x200B;下，移至&#x200B;**自訂JavaScript**。
 b.將RTP Javascript標籤貼到現有程式碼的正後方。
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)
@@ -45,4 +45,4 @@ b.將RTP Javascript標籤貼到現有程式碼的正後方。
    >
    >僅插入指令碼本身。
 
-1. 按一下 **更新**.
+1. 按一下&#x200B;**更新**。

@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -31,13 +31,13 @@ Revenue Explorer中的Opportunity Analysis可讓您更深入地檢視您的機�
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
-1. 由潛在客戶來源關閉的機會
+1. 由潛在客戶Source關閉的機會
 
    此報表會依潛在客戶來源來劃分所有已關閉的機會，並讓您清楚瞭解哪些來源正在運作，哪些來源沒有運作。
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
-1. 依來源關閉的時間
+1. 由Source關閉的時間
 
    此報表示範關閉商機的平均天數與潛在客戶來源之間的關係。
 
@@ -85,7 +85,7 @@ Opportunity Analysis可讓您存取所有銷售機會、公司及銷售機會相
    | 職稱 | 潛在客戶職稱 |
    | 全名 | 潛在客戶的全名 |
    | 原始來源類型 | 潛在客戶的原始來源型別 |
-   | 註冊來源型別 | 潛在客戶的已登入來源型別 |
+   | 註冊Source型別 | 潛在客戶的已登入來源型別 |
    | 潛在客戶擁有者電子郵件地址 | 潛在客戶所有者的電子郵件地址 |
    | 潛在客戶所有者職稱 | 潛在客戶擁有者的職稱 |
    | 潛在客戶所有者名稱 | 潛在客戶擁有者姓名 |
@@ -153,6 +153,6 @@ Opportunity Analysis可讓您存取所有銷售機會、公司及銷售機會相
 
 >[!MORELIKETHIS]
 >
->* [建立收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [建立Revenue Explorer報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
 >* [新增欄位至收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->* [訂閱收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>* [訂閱Revenue Explorer報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

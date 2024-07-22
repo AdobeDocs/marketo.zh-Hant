@@ -13,27 +13,27 @@ ht-degree: 0%
 
 # SEO — 取得傳入連結建議 {#seo-get-inbound-link-suggestions}
 
-Marketo可建議您使用哪些傳入連結 [頁面外最佳化](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+Marketo可建議哪些傳入連結對您的[離頁最佳化](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)有價值。
 
-1. 前往 **[!UICONTROL 傳入連結]** 區段。
+1. 移至&#x200B;**[!UICONTROL 傳入連結]**&#x200B;區段。
 
    ![](assets/image2014-9-18-13-3a20-3a44.png)
 
-1. 按一下 **[!UICONTROL 取得建議]**.
+1. 按一下&#x200B;**[!UICONTROL 取得建議]**。
 
    ![](assets/image2014-9-18-13-3a21-3a8.png)
 
-1. 輸入關鍵字。 按一下 **[!UICONTROL 建議連結]**.
+1. 輸入關鍵字。 按一下&#x200B;**[!UICONTROL 建議連結]**。
 
    ![](assets/image2014-9-18-13-3a21-3a31.png)
 
-1. 選取連結。 按一下 **[!UICONTROL 新增選取專案]**.
+1. 選取連結。 按一下&#x200B;**[!UICONTROL 新增選取的專案]**。
 
    ![](assets/image2014-9-18-13-3a21-3a40.png)
 
    >[!TIP]
    >
-   >您知道您可以  [將連結新增至新的或現有的清單](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)？ 立即檢視！
+   >您知道您可以[將連結新增至新的或現有的清單](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)嗎？ 立即檢視！
 
 棒極了！ 現在將追蹤這些新增的連結。
 

@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->登入頁面模式由其範本定義。 [瞭解更多](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) 關於自由格式與引導式登入頁面範本。
+>登入頁面模式由其範本定義。 [進一步瞭解](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)自由格式與引導式登陸頁面範本。
 
 ## 在程式中建立自由格式的登陸頁面 {#create-a-free-form-landing-page-in-a-program}
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,11 +29,11 @@ ht-degree: 2%
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. 按一下 **新增**. 選取 **新增本機資產**.
+1. 按一下&#x200B;**新增**。 選取&#x200B;**新增本機資產**。
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
-1. 按一下 **登陸頁面**.
+1. 按一下&#x200B;**登陸頁面**。
 
    ![](assets/image2014-9-16-12-3a58-3a49.png)
 
@@ -45,21 +45,21 @@ ht-degree: 2%
 
    ![](assets/image2015-5-19-12-3a51-3a13.png)
 
-1. 按一下 **建立**。
+1. 按一下&#x200B;**建立**。
 
    ![](assets/image2015-5-19-12-3a52-3a8.png)
 
 >[!TIP]
 >
->URL會自動從程式和登入頁面名稱建構。 若要變更URL，請編輯 **頁面URL** 欄位。
+>URL會自動從程式和登入頁面名稱建構。 若要變更URL，請編輯&#x200B;**頁面URL**&#x200B;欄位。
 
 ## 在Design Studio中建立自由形式的登陸頁面 {#create-a-free-form-landing-page-in-design-studio}
 
-1. 前往 **Design Studio**.
+1. 移至&#x200B;**設計工作室**。
 
    ![](assets/designstudio.png)
 
-1. 按一下 **新增**，然後 **新增登陸頁面**.
+1. 按一下&#x200B;**新增**，然後按一下&#x200B;**新增登陸頁面**。
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -67,10 +67,10 @@ ht-degree: 2%
 
    ![](assets/image2015-5-19-13-3a30-3a25.png)
 
-1. 按一下 **建立**。
+1. 按一下&#x200B;**建立**。
 
    ![](assets/image2015-5-19-13-3a33-3a43.png)
 
 >[!TIP]
 >
->如果您不希望編輯器在按一下後立即開啟，請取消勾選「開啟新頁面的登陸頁面編輯器」 **建立**.
+>如果您不想在按一下&#x200B;**「建立」**&#x200B;後立即開啟編輯器，請取消勾選「開啟新頁面的登陸頁面編輯器」。

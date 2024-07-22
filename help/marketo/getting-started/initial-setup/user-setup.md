@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 使用者設定檢查清單 {#user-setup-checklist}
 
-現在您已完成所有 [初始設定步驟](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}，現在應該建立一些基礎元素，以確保順暢的持續使用。 這將為您使用Marketo Engage的旅程奠定基礎，並幫助您充分利用其功能。 讓我們開始吧！
+現在您已完成所有[初始設定步驟](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}，您可以建立一些基礎元素，以確保順利進行使用。 這將為您使用Marketo Engage的旅程奠定基礎，並幫助您充分利用其功能。 讓我們開始吧！
 
 >[!NOTE]
 >
->您也可以下載此檢查清單， [以及最佳實務清單](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) ，並視需要檢查各個步驟。
+>您也可以下載此檢查清單[以及您新執行個體的最佳實務清單](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx)，並隨時檢視這些步驟。
 
 ## 在AdobeIdentity Management上Marketo Engage {#marketo-engage-on-adobe-identity-management}
 
-您的新Marketo Engage訂閱已上線到 [AdobeIdentity Management系統(IMS)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html). 繼續下列在Adobe Admin Console中的使用者管理檢閱。
+您的新Marketo Engage訂閱已上線到[AdobeIdentity Management系統(IMS)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html)。 繼續下列在Adobe Admin Console中的使用者管理檢閱。
 
 <table>
 <thead>
@@ -35,32 +35,32 @@ ht-degree: 0%
     <td>訂閱和Marketo Engage產品管理員</td>
     <td><li>確認您的Adobe組織系統管理員已授予您Adobe產品管理員角色。</li> 
     <ul>
-    <li>聯絡Adobe客戶團隊（您的客戶經理）或傳送電子郵件至 <code>marketocares@marketo.com</code> 以找出貴組織中的人員 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console系統管理員</a> 許可權。</li></ul>
-    <li>接受「Marketo Engage產品管理員」邀請以啟用您的Adobe ID。 此 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">歡迎電子郵件</a> 在Adobe Admin Console中指派角色時傳送。</li></td>
+    <li>請連絡Adobe客戶團隊（您的客戶經理）或傳送電子郵件至<code>marketocares@marketo.com</code>，查詢貴組織的哪些人員擁有<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console系統管理員</a>許可權。</li></ul>
+    <li>接受「Marketo Engage產品管理員」邀請以啟用您的Adobe ID。 在Adobe Admin Console中指派角色時會傳送<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">歡迎電子郵件</a>。</li></td>
   </tr>
   <tr>
     <td>產品設定檔</td>
-    <td><li>將所有所需使用者指派給Marketo Engage <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup#create-a-product-profile">產品設定檔</a> 在Adobe Admin Console中。</li>
+    <td><li>在Adobe Admin Console中指派所有所需使用者給Marketo Engage<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup#create-a-product-profile">產品設定檔</a>。</li>
     <ul>
     <li>將使用者新增至產品設定檔之前，您無法在「Marketo Engage&gt;管理員&gt;使用者與角色」中指派使用者角色。</li>
     <li>每個訂閱都將是獨立的產品設定檔。 如果將不需要的使用者新增到多個產品設定檔（例如，生產和測試沙箱），您必須從所有產品設定檔中刪除該使用者。 否則，他們仍可存取Marketo Engage。</li></ul></td>
   </tr>
   <tr>
     <td>使用者</td>
-    <td><li>建立何時執行的原則 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">建立使用者</a>.</li> <li>在何時移除使用者時建立原則。</li>
-    <li>決定誰應該擁有 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe系統管理員和Marketo Engage產品管理員許可權。</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">新增使用者</a> 至所需的產品設定檔。</li>
+    <td><li>建立原則於何時<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">建立使用者</a>。</li> <li>在何時移除使用者時建立原則。</li>
+    <li>決定誰應該擁有<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe系統管理員和Marketo Engage產品管理員許可權。</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">將使用者</a>新增到所需的產品設定檔。</li>
     <li>為每個API使用案例建立一個API使用者。</li></td>
   </tr>
   <tr>
     <td>User Management API （如果適用）</td>
-    <td><li>使用 <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html">Adobe使用者管理API</a> 以邀請、更新及刪除使用者。</li>
-    <li>使用 <a href="https://developer.adobe.com/umapi/">Adobe使用者管理API</a> 新增或移除角色（例如管理員、支援管理員、開發人員）。</li>
+    <td><li>使用<a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html">Adobe使用者管理API</a>來邀請、更新及刪除使用者。</li>
+    <li>使用<a href="https://developer.adobe.com/umapi/">Adobe使用者管理API</a>來新增或移除角色（例如管理員、支援管理員、開發人員）。</li>
     </td>
   </tr>
   <tr>
     <td>產品支援管理員</td>
-    <td><li>至 <a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html#create-a-support-ticket-with-admin-console">在Adobe Admin Console中提交支援票證</a>，您需要由系統管理員為您管理的訂閱指派「產品支援管理員」角色。 只有您組織中的系統管理員可以 <a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html#assign-the-support-admin-role">將您指派給此角色</a>.</li>
-    <li>您可能會收到系統管理員的電子郵件，說明您是您Marketo Engage訂閱的支援管理員。 若是如此，請按一下 <a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#assign-the-support-admin-role">'開始使用'</a> 加入組織的電子郵件中。</li>
+    <td><li>若要<a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html#create-a-support-ticket-with-admin-console">在Adobe Admin Console</a>中提交支援票證，您必須擁有系統管理員為您管理的訂閱指派的「產品支援管理員」角色。 只有您組織中的系統管理員可以<a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html#assign-the-support-admin-role">將您</a>指派給此角色。</li>
+    <li>您可能會收到系統管理員的電子郵件，說明您是您Marketo Engage訂閱的支援管理員。 若是如此，請按一下電子郵件中的<a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#assign-the-support-admin-role">[開始使用]</a>以加入組織。</li>
     <li>決定適當的連絡人（至少要有一個備用連絡人），並要求系統管理員指派相應的產品支援管理員角色。</li></td>
   </tr>
 </tbody>
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 ## AdobeIdentity Management設定的Dynamic Chat {#dynamic-chat-on-adobe-identity-management}
 
-使用 [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html)，此為Marketo Engage的原生交談自動化頻道，請依照以下的 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+若要使用Marketo Engage中的原生交談自動化頻道[Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html)，請依照下列[Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}中的步驟繼續進行使用者許可權設定。
 
 <table>
 <thead>
@@ -81,21 +81,21 @@ ht-degree: 0%
   <tr>
     <td>訂閱和Dynamic Chat產品管理員（如果適用）</td>
     <td><li>確認您的Adobe組織系統管理員已授予您Adobe產品管理員角色。</li> 
-    <ul><li>聯絡Adobe客戶團隊（您的客戶經理）或傳送電子郵件至 <code>marketocares@marketo.com</code> 以找出貴組織中的人員 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console系統管理員</a> 許可權。</li></ul>
-    <li>接受 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">'Dynamic Chat產品管理員'</a> 邀請。 此 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">歡迎電子郵件</a> 會在您的Marketo Engage執行個體中啟用Dynamic Chat且您被指定為系統管理員時傳送。</li></td>
+    <ul><li>請連絡Adobe客戶團隊（您的客戶經理）或傳送電子郵件至<code>marketocares@marketo.com</code>，查詢貴組織的哪些人員擁有<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console系統管理員</a>許可權。</li></ul>
+    <li>接受<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">Dynamic Chat產品管理員</a>邀請。 在您的Marketo Engage執行個體中啟用Dynamic Chat，並且您被指定為系統管理員時，會傳送<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">歡迎電子郵件</a>。</li></td>
   </tr>
   <tr>
     <td>產品設定檔</td>
     <td><li>將所有所需使用者指派給Adobe Admin Console中的Dynamic Chat產品設定檔。</li> 
     <ul>
     <li>如果將不需要的使用者新增到多個產品設定檔，您必須從所有產品設定檔中刪除該使用者。 否則，他們仍可存取Dynamic Chat。</li>
-    <li>您可以 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">在Dynamic Chat中編輯產品設定檔</a> 並使用自訂設定檔集建立自訂設定檔 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">您的訂閱中可用的許可權</a>.</li></td>
+    <li>您可以<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">在Dynamic Chat</a>中編輯產品設定檔，並建立自訂設定檔，其自訂設定檔包含您的訂閱</a>中可用的<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">許可權集。</li></td>
   </tr>
   <tr>
     <td>使用者</td>
     <td><li>在何時新增和移除聊天使用者上建立原則。</li>
-    <li>建立應該讓誰擁有的原則 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup#access-admin-console">Adobe Dynamic Chat產品管理員許可權。</a></li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-a-chat-user">將使用者新增到所需的產品設定檔</a>.</li></td>
+    <li>建立應該擁有<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup#access-admin-console">Adobe Dynamic Chat產品管理員許可權的原則。</a></li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-a-chat-user">將使用者新增至所需的產品設定檔</a>。</li></td>
   </tr>
 </tbody>
 </table>
@@ -112,15 +112,15 @@ ht-degree: 0%
 <tbody>
   <tr>
     <td>AdobeMarketo狀態更新</td>
-    <td><li><a href="https://status.adobe.com/cloud/experience_cloud">訂閱Adobe Marketo Engage狀態更新消息</a>.</li></td>
+    <td><li><a href="https://status.adobe.com/cloud/experience_cloud">訂閱Adobe Marketo Engage狀態更新</a>。</li></td>
   </tr>
   <tr>
     <td>通知</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications#subscribe-to-notifications">訂閱管理員通知</a> Smart Campaigns中的錯誤，以及CRM同步作業發現的重大問題等嚴重問題。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications#subscribe-to-notifications">訂閱管理員通知</a>以取得重大問題，例如您的智慧行銷活動發生錯誤，以及CRM同步處理發現的重大問題。</li></td>
   </tr>
 </tbody>
 </table>
 
 <p>
 
-現在您的Marketo Engage帳戶已可供使用，請檢視我們的 [新Marketo Engage例項的最佳作法](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} 區段來充分利用您的投資，並為長期成功做好準備。
+現在您的Marketo Engage帳戶已準備就緒，請檢閱我們的[新Marketo Engage執行個體最佳實務](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"}區段，以充分利用您的投資，並為長期成功做好準備。

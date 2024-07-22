@@ -15,11 +15,11 @@ ht-degree: 0%
 
 您可以變更報表中的欄順序。
 
-1. 前往 **行銷活動** (或 **Analytics**)區域。
+1. 移至&#x200B;**行銷活動** （或&#x200B;**Analytics**）區域。
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. 從導覽樹狀結構中選取報表，然後按一下 **報告** 標籤。
+1. 從導覽樹狀結構中選取您的報表，然後按一下「**報表**」標籤。
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[選取報表欄](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+   >[選取報告資料行](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)

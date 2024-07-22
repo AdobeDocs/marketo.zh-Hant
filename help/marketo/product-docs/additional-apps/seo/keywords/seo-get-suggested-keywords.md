@@ -17,23 +17,23 @@ Marketo SEO可建議您應該追蹤哪些關鍵字。 我們可以根據關鍵�
 
 ## 使用關鍵字取得關鍵字建議 {#get-keyword-suggestions-using-a-keyword}
 
-1. 前往 **[!UICONTROL 關鍵字]** 區段。
+1. 移至&#x200B;**[!UICONTROL 關鍵字]**&#x200B;區段。
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. 按一下 **[!UICONTROL 取得建議]**.
+1. 按一下&#x200B;**[!UICONTROL 取得建議]**。
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. 輸入 **[!UICONTROL 關鍵字]**. 按一下 **[!UICONTROL 建議關鍵字]**.
+1. 輸入&#x200B;**[!UICONTROL 關鍵字]**。 按一下&#x200B;**[!UICONTROL 建議關鍵字]**。
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >您知道您可以  [將關鍵字新增至新的或現有的清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) 就在這裡？
+   >您知道您可以[在此將您的關鍵字新增至新的或現有的清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)嗎？
 
-1. 選取建議的關鍵字。 按一下 **[!UICONTROL 新增選取專案]**.
+1. 選取建議的關鍵字。 按一下&#x200B;**[!UICONTROL 新增選取的專案]**。
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -45,27 +45,27 @@ Marketo SEO可建議您應該追蹤哪些關鍵字。 我們可以根據關鍵�
 
 ## 從URL取得關鍵字建議  {#get-keyword-suggestions-from-a-url}
 
-1. 前往 **[!UICONTROL 關鍵字]** 區段。
+1. 移至&#x200B;**[!UICONTROL 關鍵字]**&#x200B;區段。
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. 按一下 **[!UICONTROL 取得建議]**.
+1. 按一下&#x200B;**[!UICONTROL 取得建議]**。
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. 設定 **[!UICONTROL 建議者]** 至 **[!UICONTROL URL]**.
+1. 將&#x200B;**[!UICONTROL 建議者]**&#x200B;設定為&#x200B;**[!UICONTROL URL]**。
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. 輸入 **[!UICONTROL URL]** 並按一下 **[!UICONTROL 建議關鍵字]**.
+1. 輸入&#x200B;**[!UICONTROL URL]**&#x200B;並按一下&#x200B;**[!UICONTROL 建議關鍵字]**。
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >您知道您可以 [將關鍵字新增至新的或現有的清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) 就在這裡？
+   >您知道您可以[在此將您的關鍵字新增至新的或現有的清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)嗎？
 
-1. 選取建議的關鍵字。 按一下 **[!UICONTROL 新增選取專案]**.
+1. 選取建議的關鍵字。 按一下&#x200B;**[!UICONTROL 新增選取的專案]**。
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
@@ -76,4 +76,4 @@ Marketo SEO可建議您應該追蹤哪些關鍵字。 我們可以根據關鍵�
 >[!MORELIKETHIS]
 >
 >* [瞭解關鍵字（摘要檢視）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
->* [在清單中新增/移除關鍵字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+>* [從清單新增/移除關鍵字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)

@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >[建立引導式登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. 前往 **行銷活動** 區域。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
    ![](assets/one.png)
 
-1. 尋找並選取您的登入頁面，然後按一下 **編輯草稿**.
+1. 尋找並選取您的登入頁面，然後按一下&#x200B;**編輯草稿**。
 
    ![](assets/two.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >引導式登入頁面中的可用元素由範本定義。 如果您在元素面板中看不到表單，請選取新範本或洽詢範本建立者。
 
-1. 按兩下 **表單** 在元素面板中。
+1. 在元素面板中連按兩下&#x200B;**表單**。
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
    >
    >後續追蹤頁面是使用者提交表單後所看到的頁面。
 
-1. 在此範例中，我們將使用「已定義表單」。 按一下 **插入**.
+1. 在此範例中，我們將使用「已定義表單」。 按一下&#x200B;**插入**。
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
@@ -57,4 +57,4 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-現在，只需關閉登入頁面編輯器並 [核准登入頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+現在只需關閉登入頁面編輯器並[核准登入頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)即可。

@@ -16,7 +16,7 @@ Adobe Dynamic Chat中由創作AI支援的功能可讓您最佳化銷售代理商
 
 ## 權限 {#permissions}
 
-若要使用創作AI，請務必授予所需使用者適當的 [許可權](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md).
+若要使用產生式AI，請務必授予所需使用者適當的[許可權](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)。
 
 ![](assets/generative-ai-overview-1.png)
 
@@ -40,25 +40,25 @@ Adobe Dynamic Chat中由創作AI支援的功能可讓您最佳化銷售代理商
 
 ## 問題產生 {#question-generation}
 
-[提升傳入體驗](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) 使用經過銷售、行銷和產品知識培訓的介面，為訪客提供AI輔助對話。
+[使用經過銷售、行銷和產品知識培訓的介面，為訪客提供AI輔助對話以提升傳入體驗](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)。
 
 ![](assets/generative-ai-overview-5.png)
 
 ## 回覆資料庫 {#response-library}
 
-[產生自訂集合](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) 問題和答案的預設集，全部由您預先核准，以供在Generative AI聊天行銷活動中使用。
+[產生自訂的集合](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)問題和答案，全部由您預先核准，以用於Generative AI聊天行銷活動。
 
 ![](assets/generative-ai-overview-6.png)
 
 ## 活動記錄 {#activity-log}
 
-[檢視所有任務的清單](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) 以及隨附的詳細資料，包括名稱、擁有者、型別、編輯者及編輯時間。
+[檢視所有工作的清單](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md)及其隨附的詳細資料，包括名稱、擁有者、型別、編輯者及編輯時間。
 
 ![](assets/generative-ai-overview-7.png)
 
 ## 未回答的問題 {#unanswered-questions}
 
-[建立其他預先核准的回應](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) 用於您的回應資料庫，其根據為先前交談中未回答問題的存放庫。
+[根據先前交談的未回答問題存放庫，使用AI為您的回應資料庫建立其他預先核准的回應](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md)。
 
 ![](assets/generative-ai-overview-8.png)
 
@@ -70,18 +70,18 @@ Adobe Dynamic Chat中由創作AI支援的功能可讓您最佳化銷售代理商
 
 >[!IMPORTANT]
 >
->使用創作AI時，您必須遵守 [Adobe Experience Cloud Generative AI使用手冊](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) 因此，我們可以確保以安全和負責的方式使用納入創作AI的Adobe Experience Cloud功能。
+>使用創作AI時，您必須遵守[Adobe Experience Cloud創作AI使用指南](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)，這樣我們才能確保合併創作AI的Adobe Experience Cloud功能以安全負責的方式使用。
 
 ## 常見問題集 {#faq}
 
-**創作AI是否可供所有Dynamic Chat使用者使用？**
+**產生式AI是否可供所有Dynamic Chat使用者使用？**
 
 Generative AI僅適用於Dynamic Chat Prime訂閱者。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-**我可以產生的問答數量是否有限制？**
+**我可以產生的問題和答案數量是否有限制？**
 
 有。目前存在1000的期限限制。
 
-**generative AI提供哪些語言？**
+**產生AI中有哪些語言？**
 
 目前，generative AI僅支援英文。

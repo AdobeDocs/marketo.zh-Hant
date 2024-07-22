@@ -6,7 +6,7 @@ exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## ABM增強功能 {#abm-enhancements}
 
-**日本公司查詢的資料來源**
+**日本公司查詢的Data Source**
 
 以當地語言比對人員與日文公司名稱。
 
@@ -39,11 +39,11 @@ ht-degree: 0%
 
 LeanData整合現在允許在Marketo中進行銷售線索與帳戶的比對。 讓相同的銷售機會與記錄銷售與行銷系統內的帳戶相關聯，以保持行銷與銷售的一致性。 更彈性的選項可讓行銷與銷售作業部門對銷售線索與帳戶的比對規則擁有更多控制權，以便他們達到所需的精確度等級。
 
-## Web Personalization增強功能 {#web-personalization-enhancements}
+## 網頁Personalization增強功能 {#web-personalization-enhancements}
 
 **[促銷活動預覽增強功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-行銷從業人員現在可確保他們的網路行銷活動在任何裝置上看起來都不錯 *早於* 啟動它們。 透過這些增強功能，瞭解您的網頁行銷活動在桌上型電腦、行動裝置和平板電腦上的呈現方式。 Chrome適用的新外掛程式也提供更一致且精確的預覽。
+行銷從業人員現在可確保&#x200B;*啟動前，其網頁行銷活動在任何裝置*&#x200B;上都看起來不錯。 透過這些增強功能，瞭解您的網頁行銷活動在桌上型電腦、行動裝置和平板電腦上的呈現方式。 適用於Chrome的新外掛程式也提供更一致且精確的預覽。
 
 **[Widget Campaign增強功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 

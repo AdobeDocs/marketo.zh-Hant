@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 新增挑選清單值 {#adding-picklist-values}
 
-1. 如果在Salesforce中將額外的值新增至挑選清單欄位型別，您將收到 [通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} 識別此動作將影響的表單。
+1. 如果在Salesforce中將額外的值新增至挑選清單欄位型別，您將會收到識別這會影響哪些表單的[通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"}。
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. 前往表單編輯器並 [新增其他值](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} 至您的建議清單。
+1. 移至表單編輯器，然後[將其他值](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"}新增至您的建議清單。
 
 ## 移除挑選清單值 {#remove-picklist-values}
 

@@ -2,10 +2,10 @@
 description: CT-YYYY-MM-Content非Marketo登陸頁面 — Marketo檔案 — 產品檔案
 title: CT-YYYY-MM-Content非Marketo登陸頁面
 feature: Programs
-exl-id: 22b53312-ac62-4172-a719-c98fe1547d45
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '395'
 ht-degree: 3%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 此為具有Marketo Engage表單的內容程式範例，用於利用Marketo Engage預設程式在非Marketo Engage登陸頁面上下載內容。 此程式適用於使用內嵌在您的網站上的Marketo Engage表單。 優惠/內容的連結可在感謝電子郵件中傳送。
 
-如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -29,14 +29,14 @@ ht-degree: 3%
   <tr> 
    <td>網頁內容</td> 
    <td>01位成員 
-<br/>02參與成功</td>
+<br/>02 — 參與 — 成功</td>
    <td>包含</td>
    <td>預設</td>
   </tr>
  </tbody> 
 </table>
 
-## 程式包含下列資產 {#program-contains-the-following-assets}
+## 程式包含下列Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -78,7 +78,7 @@ ht-degree: 3%
   <tr> 
    <td>資料夾</td> 
    <td> </td>
-   <td>資產 — 容納所有創意資產 
+   <td>Assets — 容納所有創意資產 
 <br/>（電子郵件和登陸頁面的子資料夾）  </td>
   </tr>
   <tr> 
@@ -140,21 +140,21 @@ ht-degree: 3%
 
 ## 衝突規則 {#conflict-rules}
 
-* **計畫標籤**
-   * 在此訂閱中建立標籤 —  _建議_
+* **程式標籤**
+   * 在此訂閱中建立標籤 — _建議_
    * 忽略
 
-* **具相同名稱的登陸頁面範本**
+* **名稱相同的登入頁面範本**
    * 複製原始範本
-   * 使用目的地範本 —  _建議_
+   * 使用目的地範本 — _建議_
 
-* **具有相同名稱的影像**
+* **相同名稱的影像**
    * 保留兩個檔案
-   * 取代此訂閱中的專案 —  _建議_
+   * 取代此訂閱中的專案 — _建議_
 
 * **相同名稱的電子郵件範本**
    * 保留兩個範本
-   * 取代現有範本 —  _建議_
+   * 取代現有的範本 — _建議_
 
 ## 最佳實務 {#best-practices}
 
@@ -171,4 +171,4 @@ ht-degree: 3%
 
 >[!TIP]
 >
->別忘了啟動「02參與」行銷活動以追蹤成功！ 執行此動作 _早於_ 您的表單已上線且已傳送電子郵件。
+>別忘了啟動「02參與」行銷活動以追蹤成功！ _before_&#x200B;請執行此動作。您的表單已上線且已傳送電子郵件。

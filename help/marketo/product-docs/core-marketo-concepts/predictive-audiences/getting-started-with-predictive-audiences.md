@@ -5,7 +5,7 @@ exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ AI/ML模型的效能取決於訂閱中的資料。 模型使用頻率越高，�
 
 使用Prime或Ultimate定價套裝的執行個體，會自動納入並啟用預測對象。 若要進一步瞭解如何存取此功能，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-1. 將功能新增到您的執行個體後，請導覽至 **[!UICONTROL 預測對象]** 中的頁面 **[!UICONTROL 管理員]** Marketo的區域。
+1. 將功能新增到您的執行個體後，請導覽至Marketo **[!UICONTROL 管理員]**&#x200B;區域中的&#x200B;**[!UICONTROL 預測對象]**&#x200B;頁面。
 
-1. 檢查 **[!UICONTROL 啟用預測對象]** 以啟動特徵。 請注意，所有程式可能需要24小時才能完成設定。
+1. 勾選&#x200B;**[!UICONTROL 啟用預測對象]**&#x200B;以啟用此功能。 請注意，所有程式可能需要24小時才能完成設定。

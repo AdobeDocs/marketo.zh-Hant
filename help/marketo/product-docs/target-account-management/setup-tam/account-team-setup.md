@@ -6,7 +6,7 @@ exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 帳戶團隊是在指定帳戶中共同作業的利害關係人群組。 請依照下列步驟，選擇應新增的CRM帳戶角色。
 
-1. 按一下 **管理員**.
+1. 按一下&#x200B;**管理員**。
 
    ![](assets/one-3.png)
 
-1. 按一下 **目標帳戶管理**.
+1. 按一下&#x200B;**目標帳戶管理**。
 
    ![](assets/account-team-setup-2.png)
 
-1. 在「帳戶專案團隊成員」底下，按一下 **編輯**.
+1. 在「帳戶團隊成員」底下，按一下「**編輯**」。
 
    ![](assets/3.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >若為帳戶角色，請為其命名，並將其比對至您CRM中所需的使用者查詢欄位。
 
-1. 輸入您的帳戶角色名稱，然後選取 **CRM** 欄位。 最多新增10個。
+1. 輸入您的帳戶角色名稱，並選取&#x200B;**CRM**&#x200B;欄位。 最多新增10個。
 
    ![](assets/four-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >您無法選取帳戶擁有者。 預設會從CRM中的帳戶層級選擇。
 
-1. 按一下 **儲存** 完成時。
+1. 完成時，按一下&#x200B;**儲存**。
 
    ![](assets/five-2.png)
 

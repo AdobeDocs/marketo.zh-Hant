@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 刪除網站行銷活動 {#delete-a-web-campaign}
 
-1. 前往 **網站行銷活動**.
+1. 前往&#x200B;**網路行銷活動**。
 
    ![](assets/web-campaigns-hand-3.jpg)
 
    >[!NOTE]
    >
-   >為了更方便找到您想要的網頁行銷活動，請使用 [篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >若要更輕鬆地尋找您想要的網頁行銷活動，請使用[篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
-1. 在網頁行銷活動頁面上，按一下 **刪除** 在您要刪除的行銷活動上。
+1. 在網頁行銷活動頁面上，按一下您要刪除行銷活動上的&#x200B;**刪除**。
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 

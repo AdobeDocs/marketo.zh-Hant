@@ -16,7 +16,7 @@ ht-degree: 1%
 
 ## 優先順序 {#priority}
 
-優先順序決定潛在客戶符合多個對話方塊資格時，會收到哪個對話方塊。 它是當您第一次使用 [建立您的對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. 您可以開啟現有對話方塊並前往 **[!UICONTROL 對話方塊詳細資料]** 在「對象條件」標籤中。
+優先順序決定潛在客戶符合多個對話方塊資格時，會收到哪個對話方塊。 它是當您首次[建立您的對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}時建立的。 您可以開啟現有對話方塊並移至[對象條件]索引標籤中的&#x200B;**[!UICONTROL 對話方塊詳細資料]**&#x200B;來變更其優先順序。
 
 ![](assets/audience-criteria-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 事件可讓您根據訪客的捲動次數或他們在您的頁面/網站上的時間長度來鎖定訪客。 在以下範例中，我們鎖定了在特定頁面上停留超過20秒的訪客。
 
-1. 抓取 **[!UICONTROL 頁面逗留時間]** 事件，並將其拖曳至右側。
+1. 抓取&#x200B;**[!UICONTROL 頁面]**&#x200B;上的時間，並將其拖曳到右邊。
 
    ![](assets/audience-criteria-3.png)
 
@@ -32,7 +32,7 @@ ht-degree: 1%
 
    ![](assets/audience-criteria-4.png)
 
-1. 在中新增所需頁面的URL [Target](#target) 區段。
+1. 在[目標](#target)區段中新增所需頁面的URL。
 
    ![](assets/audience-criteria-5.png)
 
@@ -40,25 +40,25 @@ ht-degree: 1%
 
 **已知人員**
 
-有 _許多_ 屬性組合以供選擇。 在以下範例中，我們鎖定加州所有在員工超過50人的公司中工作的已知人員。
+有&#x200B;_多個_&#x200B;屬性組合可供選擇。 在以下範例中，我們鎖定加州所有在員工超過50人的公司中工作的已知人員。
 
-1. 抓取 **[!UICONTROL 個人狀態]** 屬性，並將其拖曳到右邊。
+1. 抓取&#x200B;**[!UICONTROL 個人狀態]**&#x200B;屬性，並將其拖曳到右邊。
 
    ![](assets/audience-criteria-7.png)
 
-1. _是_ 已預設設定。 在「選取值」欄位中輸入CA （您也可以按一下下拉式清單，然後從清單中選取）。
+1. _Is_&#x200B;已預設設定。 在「選取值」欄位中輸入CA （您也可以按一下下拉式清單，然後從清單中選取）。
 
    ![](assets/audience-criteria-8.png)
 
-1. 抓取 **[!UICONTROL 公司規模]** 屬性，並將其拖曳到上面寫著 _將屬性拖放到這裡_.
+1. 抓取&#x200B;**[!UICONTROL 公司大小]**&#x200B;屬性，並將其拖曳到顯示&#x200B;_將屬性拖放到此處_&#x200B;的位置。
 
    ![](assets/audience-criteria-9.png)
 
    >[!NOTE]
    >
-   >您也可以按一下屬性 **+** 圖示。
+   >您也可以按一下屬性的&#x200B;**+**&#x200B;圖示來選擇屬性。
 
-1. 按一下運運算元下拉式清單，然後選取 **[!UICONTROL 大於]**.
+1. 按一下運運算元下拉式清單，然後選取&#x200B;**[!UICONTROL 大於]**。
 
    ![](assets/audience-criteria-10.png)
 
@@ -72,23 +72,23 @@ ht-degree: 1%
 
 有一個簡單的方法可以專門定位資料庫中尚未存取的人員。 在此範例中，我們鎖定位於紐約區域的所有匿名人員。
 
-1. 抓取 **[!UICONTROL 個人電子郵件]** 屬性，並將其拖曳到右邊。
+1. 抓取&#x200B;**[!UICONTROL 個人電子郵件]**&#x200B;屬性，並將其拖曳到右邊。
 
    ![](assets/audience-criteria-12.png)
 
-1. 按一下運運算元下拉式清單，然後選取 **[!UICONTROL 為空]**.
+1. 按一下運運算元下拉式清單，然後選取&#x200B;**[!UICONTROL Is Empty]**。
 
    ![](assets/audience-criteria-13.png)
 
-1. 抓取 **[!UICONTROL 推斷的狀態]** 屬性，並將其拖曳到上面寫著 _將屬性拖放到這裡_.
+1. 抓取&#x200B;**[!UICONTROL 推斷的狀態]**&#x200B;屬性，並將其拖曳到顯示&#x200B;_將屬性拖放到此處_&#x200B;的位置。
 
    ![](assets/audience-criteria-14.png)
 
    >[!NOTE]
    >
-   >有人造訪您的網站時， [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} 對使用者進行Cookie，並將他們放入系統中。 我們會在特殊的資料庫中查詢他們的IP，並推斷出各種好的資訊。
+   >當有人造訪您的網站時，[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}會對其進行Cookie並將其放入系統中。 我們會在特殊的資料庫中查詢他們的IP，並推斷出各種好的資訊。
 
-1. _是_ 已預設設定。 在「選取值」欄位中，輸入NY （您也可以按一下下拉式清單，然後從清單中選取）。
+1. _Is_&#x200B;已預設設定。 在「選取值」欄位中，輸入NY （您也可以按一下下拉式清單，然後從清單中選取）。
 
    ![](assets/audience-criteria-15.png)
 
@@ -100,7 +100,7 @@ ht-degree: 1%
 >
 >智慧清單成員或清單成員條件需要Dynamic ChatPrime。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-1. 在成員資格下，抓取 **[!UICONTROL 智慧清單的成員]** 然後放到畫布上。
+1. 在[成員資格]下，抓取&#x200B;**[!UICONTROL 智慧列示的成員]**&#x200B;並將其拖放到畫布上。
 
    ![](assets/audience-criteria-15a.png)
 
@@ -129,15 +129,15 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->使用星號就像是一張全方位的萬用字元。 所以 `https://*.website.com` 會在網站的每個頁面上放置對話方塊，包括子網域(例如： `support.website.com`)。 與 `https://website.com/folder/*` 會在後續資料夾的每個HTML頁面上放置對話方塊(例如：在此案例中，假設資料夾為&quot;sports&quot;，所以：website.com/sports/baseball.html、website.com/sports/football.html等)。
+>使用星號就像是一張全方位的萬用字元。 因此`https://*.website.com`會將對話方塊放在網站的每個頁面上，包括子網域（例如： `support.website.com`）。 而`https://website.com/folder/*`會將對話方塊放在後續資料夾的每個HTML頁面上(例如：在此案例中假設資料夾為&quot;sports&quot;，所以：website.com/sports/baseball.html、website.com/sports/football.html等)。
 
 **排除專案**
 
-使用排除專案來確保您的對話方塊可以 _非_ 會出現在您網站的特定頁面/區域中。 排除專案的格式與包含專案的格式相同。
+使用排除專案來確保您的對話方塊&#x200B;_不會_&#x200B;出現在您網站的特定頁面/區域。 排除專案的格式與包含專案的格式相同。
 
 ![](assets/audience-criteria-18.png)
 
 >[!MORELIKETHIS]
 >
 >* [建立對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
->* [串流設計工具](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
+>* [串流Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}

@@ -5,7 +5,7 @@ exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,19 @@ ht-degree: 0%
 
 如果您有未驗證的電子郵件身分，請遵循以下步驟。
 
-1. 按一下右上方的齒輪圖示，然後選擇 **設定**.
+1. 按一下右上方的齒輪圖示，然後選擇&#x200B;**設定**。
 
    ![](assets/verify-your-email-1.png)
 
-1. 在我的帳戶底下，按一下 **電子郵件設定**.
+1. 在「我的帳戶」底下，按一下&#x200B;**電子郵件設定**。
 
    ![](assets/verify-your-email-2.png)
 
-1. 在「地址與簽名」下方，找到您要驗證的電子郵件，然後按一下 **重新傳送驗證電子郵件**. 將會傳送新的驗證電子郵件。
+1. 在[地址與簽章]下方，找到您要驗證的電子郵件，然後按一下[重新傳送驗證電子郵件]。**** 將會傳送新的驗證電子郵件。
 
    ![](assets/verify-your-email-3.png)
 
-1. 按一下 **重新傳送**.
+1. 按一下&#x200B;**重新傳送**。
 
    ![](assets/verify-your-email-4.png)
 
@@ -36,4 +36,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您沒有收到驗證電子郵件，請檢查您的垃圾郵件資料夾。 如果不在那裡，請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support).
+>如果您沒有收到驗證電子郵件，請檢查您的垃圾郵件資料夾。 如果不在，請連絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)。

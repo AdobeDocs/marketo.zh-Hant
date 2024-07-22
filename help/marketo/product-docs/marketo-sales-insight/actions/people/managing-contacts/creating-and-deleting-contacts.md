@@ -14,21 +14,21 @@ ht-degree: 0%
 
 ## 建立連絡人 {#creating-contacts}
 
-1. 在「人物」頁面中，按一下 **動作** 按鈕並選取 **建立連絡人**.
+1. 在[連絡人]頁面中，按一下[動作]按鈕&#x200B;**並選取[建立連絡人]****。**
 
    ![](assets/creating-and-deleting-contacts-1.png)
 
-1. 輸入名字/姓氏和電子郵件地址，以及您想要的任何其他資訊。 按一下 **建立** 完成時，或 **建立和新增** 以新增更多連絡人。
+1. 輸入名字/姓氏和電子郵件地址，以及您想要的任何其他資訊。 完成時，按一下&#x200B;**[建立]**，或按一下&#x200B;**[建立並新增]**&#x200B;以新增更多連絡人。
 
    ![](assets/creating-and-deleting-contacts-2.png)
 
    >[!TIP]
    >
-   >要一次新增多個連絡人嗎？ [按一下這裡](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) 瞭解如何透過CSV匯入連絡人。
+   >要一次新增多個連絡人嗎？ [按一下這裡](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)瞭解如何透過CSV匯入連絡人。
 
 ## 刪除連絡人 {#deleting-contacts}
 
-1. 在「人物」頁面中，勾選您要刪除的連絡人方塊。 按一下圓點（三個垂直的點）並選取 **刪除**.
+1. 在「人物」頁面中，勾選您要刪除的連絡人方塊。 按一下dota （三個垂直點）並選取&#x200B;**刪除**。
 
    ![](assets/creating-and-deleting-contacts-3.png)
 
@@ -36,6 +36,6 @@ ht-degree: 0%
    >
    >若要刪除多個連絡人，只要選取多個連絡人即可。 其餘的步驟將會相同。
 
-1. 按一下 **刪除連絡人** 以確認。
+1. 按一下&#x200B;**刪除連絡人**&#x200B;以進行確認。
 
    ![](assets/creating-and-deleting-contacts-4.png)

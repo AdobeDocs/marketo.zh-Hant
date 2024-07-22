@@ -7,7 +7,7 @@ feature: Tokens
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 PMCF權杖將在權杖系列的成員網域下受到支援。
 
-「成員代號」用於「方案成員」範圍內的欄位。 截至目前狀態，成員Token也可用來插入整合式服務合作夥伴的唯一值。 `{{member.webinar url}}` 代號會自動解析服務提供者產生的個人唯一確認URL。 {{member.registration code}} 解析至服務提供者提供的註冊代碼。
+「成員代號」用於「方案成員」範圍內的欄位。 截至目前狀態，成員Token也可用來插入整合式服務合作夥伴的唯一值。 `{{member.webinar url}}`權杖會自動解析服務提供者產生的個人唯一確認URL。 {{member.registration code}}解析為服務提供者提供的註冊代碼。
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ PMCF權杖將在權杖系列的成員網域下受到支援。
 
 **電子郵件**
 
-1. 選取所需的電子郵件，然後按一下 **[!UICONTROL 編輯草稿]**.
+1. 選取想要的電子郵件，然後按一下&#x200B;**[!UICONTROL 編輯草稿]**。
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -41,7 +41,7 @@ PMCF權杖將在權杖系列的成員網域下受到支援。
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. 尋找並選取所需的程式成員自訂欄位權杖，輸入預設值，然後按一下 **[!UICONTROL 插入]**.
+1. 尋找並選取所需的程式成員自訂欄位權杖，輸入預設值，然後按一下&#x200B;**[!UICONTROL 插入]**。
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
@@ -55,7 +55,7 @@ PMCF權杖將在權杖系列的成員網域下受到支援。
 
 **登陸頁面**
 
-1. 選取您的登陸頁面，然後按一下 **[!UICONTROL 編輯草稿]**.
+1. 選取您的登入頁面，然後按一下&#x200B;**[!UICONTROL 編輯草稿]**。
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,7 +75,7 @@ PMCF權杖將在權杖系列的成員網域下受到支援。
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. 輸入預設值並按一下 **[!UICONTROL 插入]**.
+1. 輸入預設值並按一下&#x200B;**[!UICONTROL 插入]**。
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
@@ -85,11 +85,11 @@ PMCF權杖將在權杖系列的成員網域下受到支援。
 
 **簡訊**
 
-1. 選取所需的SMS並按一下 **[!UICONTROL 編輯草稿]**.
+1. 選取想要的SMS並按一下&#x200B;**[!UICONTROL 編輯草稿]**。
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. 按一下 **`{{ Token`** 按鈕。
+1. 按一下&#x200B;**`{{ Token`**&#x200B;按鈕。
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -97,29 +97,29 @@ PMCF權杖將在權杖系列的成員網域下受到支援。
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. 按一下簡訊動作下拉式清單，然後選取 **[!UICONTROL 核准並關閉]**.
+1. 按一下「簡訊動作」下拉式清單，然後選取&#x200B;**[!UICONTROL 核准並關閉]**。
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
 **推播通知**
 
-1. 選取所需的推播通知，然後按一下 **[!UICONTROL 編輯草稿]**.
+1. 選取想要的推播通知，然後按一下&#x200B;**[!UICONTROL 編輯草稿]**。
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. 按一下 **[!UICONTROL 推播通知]**.
+1. 按一下&#x200B;**[!UICONTROL 推播通知]**。
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. 在編輯器中按一下訊息，然後按一下 `{{` 按鈕以取得權杖選擇器。
+1. 按一下編輯器中的訊息，然後按一下「`{{`」按鈕以取得Token選取器。
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. 尋找並選取所需的程式成員自訂欄位權杖。 輸入預設值，然後按一下 **[!UICONTROL 插入]**.
+1. 尋找並選取所需的程式成員自訂欄位權杖。 輸入預設值，然後按一下&#x200B;**[!UICONTROL 插入]**。
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. 按一下 **[!UICONTROL 完成]** 儲存並結束(或 **[!UICONTROL 下一個]** 以檢閱)。
+1. 按一下&#x200B;**[!UICONTROL 完成]**&#x200B;以儲存並結束（或按一下&#x200B;**[!UICONTROL 下一步]**&#x200B;以先檢閱）。
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

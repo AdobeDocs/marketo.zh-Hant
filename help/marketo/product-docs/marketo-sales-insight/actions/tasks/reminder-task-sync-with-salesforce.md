@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->若要瞭解如何啟用「工作同步處理」簽出 [將Sales Insight動作任務/提醒同步至Salesforce任務](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
+>若要瞭解如何啟用「工作同步」，請取出[將Sales Insight動作工作/提醒同步到Salesforce工作](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks)。
 
 啟用工作同步設定後，使用者會看到他們的提醒工作與Salesforce雙向同步。 這表示使用者可以從Salesforce或Sales Insight Actions管理任務，並確信系統將會保持一致。
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 ## 首次與Salesforce同步銷售分析動作工作 {#syncing-sales-insight-actions-tasks-with-salesforce-for-the-first-time}
 
-當您首次開啟Sales Insight Actions與Salesforce工作之間的同步時，我們會匯入您的Salesforce工作。 我們會 **非** 將您在Sales Insight Actions中擁有的任何目前任務移至Salesforce。 為了減少雜湊和重複專案，從Sales Insight Actions同步至Salesforce的唯一工作就是建立的工作 *晚於* 您可以將Sales Insight動作與SFDC同步。
+當您首次開啟Sales Insight Actions與Salesforce工作之間的同步時，我們會匯入您的Salesforce工作。 我們&#x200B;**不會**&#x200B;將您在Sales Insight Actions中擁有的任何目前工作推送到Salesforce。 為了減少雜湊和重複專案，從Sales Insight Actions同步到Salesforce的唯一工作是在您將Sales Insight Actions與SFDC同步的&#x200B;*之後*&#x200B;建立的工作。
 
 以下是同步處理Sales Insight動作和SFDC工作時所發生的情況：
 
@@ -77,8 +77,8 @@ ht-degree: 0%
 
 初次同步後，您在Sales Insight Actions中建立、編輯、完成或刪除的任何工作都會同步至Salesforce中的工作清單。 在Salesforce中建立、編輯、完成或刪除的任何專案，都會更新Sales Insight Actions中的任務清單。
 
-若要開啟此同步，只要勾選您電腦中的同步方塊即可 [設定頁面](https://toutapp.com/login) 在網頁應用程式中。
+若要開啟此同步，只要在Web應用程式的[設定頁面](https://toutapp.com/login)中勾選同步方塊即可。
 
 >[!NOTE]
 >
->若您使用「 」，則可在「銷售分析動作」中更新任務的主旨欄位，且此更新會同步至對應同步任務的「銷售人員」主旨欄位。 `{{activity_subject}}` 您的中的動態欄位 [活動詳細資料自訂](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) 設定。 相反地，對Salesforce中的主旨欄位所做的任何更新都將 _非_ 同步至「銷售分析動作」提醒任務主旨欄位。
+>若您在[活動詳細資料自訂](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)設定中使用`{{activity_subject}}`動態欄位，則可在Sales Insight Actions中更新任務的主旨欄位，而且此更新將會同步至對應同步任務的Salesforce主旨欄位。 相反地，對Salesforce中的主旨欄位所做的任何更新將&#x200B;_不會_&#x200B;同步到Sales Insight Actions提醒任務主旨欄位。

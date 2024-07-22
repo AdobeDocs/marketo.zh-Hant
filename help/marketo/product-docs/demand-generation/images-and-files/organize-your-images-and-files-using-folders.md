@@ -15,19 +15,19 @@ ht-degree: 0%
 
 建立資料夾可讓您移動影像和檔案、檢視您想要的影像集，以及直接上傳至特定資料夾。
 
-1. 前往 **[!UICONTROL Design Studio]**.
+1. 移至&#x200B;**[!UICONTROL 設計工作室]**。
 
    ![](assets/organize-your-images-and-files-using-folders-1.png)
 
-1. 按一下右鍵 **[!UICONTROL 影像和檔案]** 並選取 **[!UICONTROL 新資料夾]**.
+1. 在&#x200B;**[!UICONTROL 影像和檔案]**&#x200B;上按一下滑鼠右鍵，然後選取&#x200B;**[!UICONTROL 新增資料夾]**。
 
    ![](assets/organize-your-images-and-files-using-folders-2.png)
 
-1. 命名資料夾並按一下 **[!UICONTROL 建立]**.
+1. 為資料夾命名，然後按一下[建立]。****
 
    ![](assets/organize-your-images-and-files-using-folders-3.png)
 
-1. 返回至 **[!UICONTROL 影像和檔案]** 並選取您要移動的資產。 按一下 **[!UICONTROL 影像和檔案動作]** 下拉式清單並選取 **[!UICONTROL 移動]**.
+1. 返回&#x200B;**[!UICONTROL 影像和檔案]**，並選取您要移動的資產。 按一下&#x200B;**[!UICONTROL 影像和檔案動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 移動]**。
 
    ![](assets/organize-your-images-and-files-using-folders-4.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/organize-your-images-and-files-using-folders-5.png)
 
-1. 按一下 **M上移**.
+1. 按一下&#x200B;**移動移動**。
 
    ![](assets/organize-your-images-and-files-using-folders-6.png)
 

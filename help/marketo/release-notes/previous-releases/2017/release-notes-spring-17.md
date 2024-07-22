@@ -17,11 +17,11 @@ ht-degree: 0%
 
 請按一下標題連結以檢視每個功能的詳細文章。 **注意**：如果主題有多個副標題，連結會放在那裡。
 
-## [linkedIn負責人Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[linkedIn負責人Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) 是企業在LinkedIn上執行潛在客戶產生行銷活動的更直接方式。 人員可以填寫表格來表達對產品或服務的興趣，讓企業能夠擷取人員的詳細資訊，並將其同步至Marketo，以便進行自動化後續流程和潛在客戶路由活動。
+[LinkedIn銷售機會開發Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads)是企業在LinkedIn上執行銷售機會開發行銷活動的更直接方式。 人員可以填寫表格來表達對產品或服務的興趣，讓企業能夠擷取人員的詳細資訊，並將其同步至Marketo，以便進行自動化後續流程和潛在客戶路由活動。
 
-Marketo與LinkedIn Lead Gen Forms的整合會自動擷取銷售機會在Lead Gen表單中提供的資訊。 接著，您可使用新的「 」將後續動作和通知自動化 **填寫LinkedIn銷售機會一般表單** 觸發器和篩選器。
+Marketo與LinkedIn Lead Gen Forms的整合會自動擷取銷售機會在Lead Gen表單中提供的資訊。 後續動作和通知可以使用新的&#x200B;**填寫LinkedIn銷售機會一般表單**&#x200B;觸發器和篩選器自動執行。
 
 ![](assets/release-notes-image.png)
 
@@ -35,17 +35,17 @@ Marketo與LinkedIn Lead Gen Forms的整合會自動擷取銷售機會在Lead Gen
 
 ![](assets/four-281-29.png)
 
-## [大量擷取適用於人員和活動的API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
+## [大量擷取人員與活動的API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 輕鬆將大量人員和活動資料從Marketo傳輸至您的外部系統。
 
 ## ABM增強功能 {#abm-enhancements}
 
-**[ABM具名帳戶上的自訂欄位](https://docs.marketo.com/x/1wnG)**
+ABM具名帳戶上的&#x200B;**[自訂欄位](https://docs.marketo.com/x/1wnG)**
 
 Marketo ABM現在可讓您在具名帳戶中建立最多10個自訂欄位。 您可以將這些自訂欄位對應到CRM帳戶物件中的欄位，Marketo ABM將同步資料，讓您擴充ABM具名帳戶，並協助推動行銷。
 
-**[ABM具名帳戶的百分位數分數](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+ABM具名帳戶上的&#x200B;**[百分位數評分](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 具名帳戶的分數可能大不相同。 Marketo ABM現在會自動計算每個評分的百分位數，因此您可以一眼看出每個具名帳戶與其他具名帳戶之間的排名。
 
@@ -53,11 +53,11 @@ Marketo ABM現在可讓您在具名帳戶中建立最多10個自訂欄位。 您
 
 利用豐富且強大的ABM合作夥伴整合，以及針對具名帳戶清單提供的增強API支援。
 
-## Web Personalization增強功能 {#web-personalization-enhancements}
+## 網頁Personalization增強功能 {#web-personalization-enhancements}
 
 ![](assets/dialogoptions.png)
 
-**[捲動時的網頁行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
+捲動時&#x200B;**[網頁行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
 新的Web Campaign效果為網頁訪客提供更個人化的體驗。 將您的個人化網站行銷活動設定為僅在網站訪客向下捲動您的網頁時顯示。 您可以根據下列條件設定在捲動時顯示對話方塊網頁行銷活動：
 
@@ -65,11 +65,11 @@ Marketo ABM現在可讓您在具名帳戶中建立最多10個自訂欄位。 您
 * 已達到畫素
 * 在頁面摺疊下方捲動
 
-**[退出意圖時的網路行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
+**[退出意圖時的網頁行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
 在訪客關閉您的頁面之前吸引訪客的注意。 將您的個人化網頁行銷活動設定為僅在滑鼠手勢指出訪客正在離開頁面時顯示。
 
-**[網路行銷活動的動畫效果](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
+網路行銷活動的&#x200B;**[動畫效果](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
 設定對話方塊網路促銷活動的動畫效果，以自訂進入或退出網頁時促銷活動的顯示方式。 您可以從6種不同的效果中選取，並控制對話方塊的時機和方向。
 
@@ -81,7 +81,7 @@ Marketo ABM現在可讓您在具名帳戶中建立最多10個自訂欄位。 您
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
-**[封存網站行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
+**[封存網頁行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
 
 封存是一種新的網站行銷活動狀態，可讓您封存網站行銷活動，並將其從預設網站行銷活動檢視中隱藏。 這讓您可以專注於最相關、最活躍的行銷活動，並隨選擷取較舊的已封存行銷活動。
 

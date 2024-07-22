@@ -6,7 +6,7 @@ exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->更新至最新版的Sales Connect套件，並在您的銷售機會/聯絡人檢視中安裝大量動作按鈕。 [按一下這裡以取得指示](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+>更新至最新版的Sales Connect套件，並在您的銷售機會/聯絡人檢視中安裝大量動作按鈕。 [按一下這裡以取得指示](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)。
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 ## 大量電子郵件 {#bulk-email}
 
-1. 在Salesforce中，按一下 **銷售機會** 標籤，然後 **前往** 按鈕。
+1. 在Salesforce中，按一下&#x200B;**銷售機會**&#x200B;標籤，然後按一下&#x200B;**執行**&#x200B;按鈕。
 
    ![](assets/one-5.png)
 
-1. 選擇所需的銷售機會，然後按一下 **使用MSC (Classic)傳送電子郵件** 按鈕。
+1. 選擇想要的銷售機會，然後按一下&#x200B;**使用MSC (Classic)**&#x200B;的電子郵件按鈕。
 
    ![](assets/two-5.png)
 
@@ -45,29 +45,29 @@ ht-degree: 0%
 
 ## 新增至行銷活動 {#add-to-campaign}
 
-1. 在Salesforce中，按一下 **銷售機會** 標籤，然後 **前往** 按鈕。
+1. 在Salesforce中，按一下&#x200B;**銷售機會**&#x200B;標籤，然後按一下&#x200B;**執行**&#x200B;按鈕。
 
    ![](assets/four-3.png)
 
-1. 選擇所需的銷售機會，然後按一下 **新增至MSC Campaign (Classic)** 按鈕。
+1. 選擇所需的銷售機會，然後按一下&#x200B;**新增至MSC Campaign (Classic)**&#x200B;按鈕。
 
    ![](assets/five-3.png)
 
-1. 將會出現「將人員新增至您的行銷活動」快顯視窗。 按一下 **下一個** 並透過一般促銷活動流程觸發MSC促銷活動。
+1. 將會出現「將人員新增至您的行銷活動」快顯視窗。 按一下「下一步&#x200B;**」**，然後透過一般行銷活動流程來觸發MSC行銷活動。
 
    ![](assets/six.png)
 
 ## 推送至Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. 在Salesforce中，按一下 **銷售機會** 標籤，然後 **前往** 按鈕。
+1. 在Salesforce中，按一下&#x200B;**銷售機會**&#x200B;標籤，然後按一下&#x200B;**執行**&#x200B;按鈕。
 
    ![](assets/seven-1.png)
 
-1. 選擇所需的銷售機會，然後按一下 **推送至MSC （傳統）** 按鈕。
+1. 選擇想要的銷售機會，然後按一下&#x200B;**推送到MSC （傳統）**&#x200B;按鈕。
 
    ![](assets/eight-1.png)
 
-1. 名為「Salesforce Bridge」的新索引標籤將會開啟。 按一下 **繼續前往群組→** 按鈕。
+1. 隨後將開啟名為「Salesforce Bridge」的新索引標籤。 按一下「**繼續群組→**」按鈕。
 
    ![](assets/nine-1.png)
 
@@ -82,4 +82,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [透過群組電子郵件傳送電子郵件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
->* [使用「選取並傳送」來撰寫大量電子郵件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [使用Select和Send撰寫大量電子郵件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)

@@ -14,11 +14,11 @@ ht-degree: 0%
 
 請依照下列步驟匯出您的自訂活動中繼資料結構。
 
-1. 在「我的Marketo」中，按一下 **[!UICONTROL 管理員]**.
+1. 在「我的Marketo」中，按一下&#x200B;**[!UICONTROL 管理員]**。
 
    ![](assets/custom-activity-metadata-export-1.png)
 
-1. 按一下 **[!UICONTROL Marketo自訂活動]**.
+1. 按一下&#x200B;**[!UICONTROL Marketo自訂活動]**。
 
    ![](assets/custom-activity-metadata-export-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/custom-activity-metadata-export-3.png)
 
-1. 按一下 **[!UICONTROL 自訂活動動作]** 下拉式清單並選取 **[!UICONTROL 匯出活動]**.
+1. 按一下&#x200B;**[!UICONTROL 自訂活動動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 匯出活動]**。
 
    ![](assets/custom-activity-metadata-export-4.png)
 

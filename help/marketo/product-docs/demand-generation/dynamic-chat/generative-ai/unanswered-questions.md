@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >未回答的問題清單每24小時（太平洋標準時間午夜）自動重新整理一次。
 
-1. 在Generative AI下，按一下 **[!UICONTROL 協助回應]**.
+1. 在Generative AI底下，按一下&#x200B;**[!UICONTROL 輔助回應]**。
 
    ![](assets/unanswered-questions-1.png)
 
-1. 按一下 **[!UICONTROL 未回答的問題]** 標籤。
+1. 按一下&#x200B;**[!UICONTROL 未回答的問題]**&#x200B;標籤。
 
    ![](assets/unanswered-questions-2.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/unanswered-questions-3.png)
 
-1. 輸入您的回應。 指派主題並新增使用者可與訪客共用的選用URL。 按一下 **[!UICONTROL 儲存]** 完成時。
+1. 輸入您的回應。 指派主題並新增使用者可與訪客共用的選用URL。 完成時，按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/unanswered-questions-4.png)
 

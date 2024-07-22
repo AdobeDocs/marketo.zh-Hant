@@ -5,7 +5,7 @@ exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 
    ![](assets/recommended-templates-2.png)
 
-1. 在「建議的範本」卡片中，按一下 **編輯**.
+1. 在[建議的範本]卡片中，按一下[編輯]。****
 
    ![](assets/recommended-templates-3.png)
 
-1. 選取 **建立建議的範本** 核取方塊並按一下 **儲存**.
+1. 選取&#x200B;**建立建議的範本**&#x200B;核取方塊，然後按一下&#x200B;**儲存**。
 
    ![](assets/recommended-templates-4.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 ## 全部與任何 {#all-vs-any}
 
-選取 **全部** 如果您想要在符合所有條件時建議您的範本。 選取 **任何** 如果您想要在符合任一條件時推薦您的範本。
+如果您想要在符合所有條件時推薦您的範本，請選取&#x200B;**全部**。 如果想要在符合任一條件時建議您的範本，請選取&#x200B;**任何**。
 
 ## 設定條件 {#setting-criteria}
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 **包含**：只需要包含值(例如Marketo Rocks！ 包含Marketo)
 
-**不包含**：值不得位於動態欄位中(例如Marketo Rocks！ 不包含「棒極了」)
+**不包含**：值不得在動態欄位中(例如Marketo Rocks！ 不包含「棒極了」)
 
 ## 建議的範本是什麼樣子 {#what-a-recommended-template-looks-like}
 

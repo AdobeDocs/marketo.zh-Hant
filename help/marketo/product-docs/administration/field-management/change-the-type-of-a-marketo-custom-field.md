@@ -15,11 +15,11 @@ ht-degree: 0%
 
 以下說明如何變更自訂欄位的欄位型別。
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
 
-1. 按一下 **[!UICONTROL 欄位管理]**.
+1. 按一下&#x200B;**[!UICONTROL 欄位管理]**。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
-1. 在 **[!UICONTROL 欄位動作]** 下拉式清單，按一下 **[!UICONTROL 變更型別]**.
+1. 在&#x200B;**[!UICONTROL 欄位動作]**&#x200B;下拉式清單中，按一下&#x200B;**[!UICONTROL 變更型別]**。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/change-the-type-of-a-marketo-custom-field-5.png)
 
-1. 閱讀警告，然後按一下 **[!UICONTROL 變更]** 以確認。
+1. 閱讀警告，然後按一下&#x200B;**[!UICONTROL 變更]**&#x200B;以確認。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-6.png)
 

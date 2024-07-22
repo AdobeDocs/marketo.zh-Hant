@@ -21,19 +21,19 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 按一下 **[!UICONTROL 管理員]**.
+1. 按一下&#x200B;**[!UICONTROL 管理員]**。
 
    ![](assets/one.png)
 
-1. 在「資料庫管理」功能表中，按一下 **[!UICONTROL Salesforce物件同步]**.
+1. 在[資料庫管理]功能表中，按一下&#x200B;**[!UICONTROL Salesforce Objects Sync]**。
 
    ![](assets/two-2.png)
 
-1. 如果這是您的第一個自訂物件，請按一下 **[!UICONTROL 同步結構描述]**. 否則，請按一下 **[!UICONTROL 重新整理結構描述]** 以確保您擁有最新版本。
+1. 如果這是您的第一個自訂物件，請按一下&#x200B;**[!UICONTROL 同步結構描述]**。 否則，請按一下[重新整理結構描述]****，確保您擁有最新的結構描述。
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
-1. 如果您正在執行全域同步處理，則必須按一下「 」加以停用 **[!UICONTROL 停用全域同步]**.
+1. 如果您正在執行全域同步處理，您必須按一下[停用全域同步處理]****&#x200B;來停用它。
 
    ![](assets/image2014-12-10-10-3a14-3a54.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
    >
    >同步Salesforce自訂物件結構描述可能需要幾分鐘的時間。
 
-1. 按一下 **[!UICONTROL 重新整理結構描述]**.
+1. 按一下&#x200B;**[!UICONTROL 重新整理結構描述]**。
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
-1. 選取您要同步的物件，然後按一下 **[!UICONTROL 啟用同步]**.
+1. 選取您要同步處理的物件，然後按一下[啟用同步處理]。****
 
    >[!TIP]
    >
@@ -53,11 +53,11 @@ ht-degree: 0%
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. 按一下 **[!UICONTROL 啟用同步]** 再來一次。
+1. 再按一下&#x200B;**[!UICONTROL 啟用同步]**。
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
-1. 返回 **[!DNL Salesforce]** 標籤並按一下 **[!UICONTROL 啟用同步]**.
+1. 返回&#x200B;**[!DNL Salesforce]**&#x200B;標籤，然後按一下&#x200B;**[!UICONTROL 啟用同步]**。
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 >
 >您無法在Smart Campaigns中搭配觸發器使用自訂物件。
 
-1. 在您的「智慧清單」中，拖曳至 **[!UICONTROL 有機會]** 篩選並設為 **[!UICONTROL true]**.
+1. 在您的智慧清單中，拖曳至&#x200B;**[!UICONTROL Has Opportunity]**&#x200B;篩選器，並設為&#x200B;**[!UICONTROL true]**。
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
@@ -79,4 +79,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[新增/移除自訂物件欄位做為智慧清單/觸發條件約束](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>[新增/移除自訂物件欄位做為智慧列示/觸發條件約束](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

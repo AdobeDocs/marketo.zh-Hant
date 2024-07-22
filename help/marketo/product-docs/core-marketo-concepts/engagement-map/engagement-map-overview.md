@@ -1,10 +1,10 @@
 ---
 description: 參與地圖概觀 — Marketo檔案 — 產品檔案
 title: 參與地圖總覽
-exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 存取參與圖 {#accessing-engagement-map}
 
-導覽至任何現有的行銷活動，然後按一下 **參與圖** 按鈕。
+導覽至任何現有的行銷活動，然後按一下&#x200B;**參與對應**&#x200B;按鈕。
 
 ![](assets/engagement-map-overview-2.png)
 
-在參與地圖中，您會看到兩個標籤： [參與圖](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+在參與地圖中，您會看到兩個標籤： [參與地圖](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}和[設定](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}。
 
 ![](assets/engagement-map-overview-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 **觸發器**：在包含觸發器的行銷活動中，對應會有「觸發器概覽」卡片。 按一下此圖示將顯示每個觸發器的卡片，以及包含其他資訊的滑出面板。
 
-**篩選器**：在包含篩選器的行銷活動中，對應將包含篩選器概觀卡片。 按一下滑出面板就會顯示滑出面板，其中包含每個篩選器的其他資訊。
+**篩選器**：在包含篩選器的行銷活動中，對應將包含篩選器概述卡片。 按一下滑出面板就會顯示滑出面板，其中包含每個篩選器的其他資訊。
 
 **流程步驟**：每個行銷活動都會包含每個流程步驟的資訊卡。 按一下滑出畫面會顯示含有其他資訊的滑出面板。
 
@@ -73,19 +73,19 @@ ht-degree: 0%
 
 **我是否必須在參與地圖中重建所有行銷活動？**
 
-否. Engagement Map具有完整的回溯相容性。 按一下按鈕後，您就可以在視覺化參與對映介面中檢視每個現有的行銷活動。
+不適用。 Engagement Map具有完整的回溯相容性。 按一下按鈕後，您就可以在視覺化參與對映介面中檢視每個現有的行銷活動。
 
-**Marketo Engage中有參與地圖是否表示我將無法存取資料夾結構，且必須重新學習如何建立Smart Campaign？**
+**在Marketo Engage中擁有參與地圖是否表示我將會失去資料夾結構的存取權，並且必須重新學習如何建立Smart Campaign？**
 
-否. Engagement Map的優點在於它提供兩個世界的最佳狀態；它是目前您建立行銷活動的方式的補充。 所有使用者仍可取得Marketo Engage的強大功能集，現在提供清楚的視覺效果。
+不適用。 Engagement Map的優點在於它提供兩個世界的最佳狀態；它是目前您建立行銷活動的方式的補充。 所有使用者仍可取得Marketo Engage的強大功能集，現在提供清楚的視覺效果。
 
 **參與地圖是否為付費附加元件？**
 
-否. 所有訂閱下的所有現有和新Marketo Engage使用者都將可存取此免費功能。
+不適用。 所有訂閱下的所有現有和新Marketo Engage使用者都將可存取此免費功能。
 
-**身為Marketo Engage管理員，我是否需負責開啟/關閉「參與對應」？**
+**身為Marketo Engage管理員，我是否應該負責開啟/關閉「參與對應」？**
 
-否. 參與地圖將可供其執行個體中的所有使用者使用。 您無法為某些使用者、工作區等開啟/關閉此功能。
+不適用。 參與地圖將可供其執行個體中的所有使用者使用。 您無法為某些使用者、工作區等開啟/關閉此功能。
 
 **這與其他視覺化建置器有何不同？**
 
@@ -99,5 +99,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [參與地圖示籤](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
+>* [參與地圖索引標籤](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
 >* [設定標籤](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}

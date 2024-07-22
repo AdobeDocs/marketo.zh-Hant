@@ -15,23 +15,23 @@ ht-degree: 0%
 
 欄位集很酷。 他們會將多個欄位分組在一起。 您也可以一次控制整個區塊！
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 選擇您的表單並按一下 **編輯表單**.
+1. 選取您的表單並按一下&#x200B;**編輯表單**。
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. 按一下 **+** 簽署並選取 **欄位集**.
+1. 按一下&#x200B;**+**&#x200B;符號並選取&#x200B;**欄位集**。
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
-1. 選取 **欄位集** 並輸入 **標籤**.
+1. 選取&#x200B;**欄位集**&#x200B;並輸入&#x200B;**標籤**。
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
-1. 將您想要的欄位拖曳至 **欄位集**.
+1. 將您想要的欄位拖曳至&#x200B;**欄位集**。
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以根據其他欄位動態隱藏/顯示整個欄位集。 瞭解 [可見度規則](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
+>您可以根據其他欄位動態隱藏/顯示整個欄位集。 瞭解[可見性規則](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)。

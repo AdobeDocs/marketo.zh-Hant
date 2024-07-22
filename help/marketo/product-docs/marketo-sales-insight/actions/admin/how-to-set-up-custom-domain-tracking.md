@@ -26,16 +26,16 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理員許可權。**
+>**需要系統管理員許可權。**
 
-1. 按一下齒輪圖示並選取 **設定**.
+1. 按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/how-to-set-up-custom-domain-tracking-1.png)
 
-1. 在管理設定下，選取 **追蹤**.
+1. 在[管理設定]下，選取&#x200B;**追蹤**。
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 
-1. 在「自訂網域追蹤」標籤中，輸入您的CNAME並按一下 **連線**.
+1. 在[自訂網域追蹤]索引標籤中，輸入您的CNAME並按一下[連線]。****
 
    ![](assets/how-to-set-up-custom-domain-tracking-3.png)

@@ -6,7 +6,7 @@ exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -17,25 +17,25 @@ ht-degree: 0%
 
 ## 設定步調 {#set-cadence}
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 尋找並選取您的參與計畫，按一下 **串流** 標籤，然後按一下 **設定資料流步調**.
+1. 尋找並選取您的參與計畫，按一下&#x200B;**串流**&#x200B;索引標籤，然後按一下&#x200B;**設定串流節奏**。
 
    ![](assets/selectstreamcadence.jpg)
 
-1. 選取您要重複播放的頻率。 您可以選擇 **每週** 或 **每月**.
+1. 選取您要重複播放的頻率。 您可以選擇每週&#x200B;**或**&#x200B;每月&#x200B;**。**
 
 ## 每週 {#weekly}
 
-1. 選取 **每週**.
+1. 選取&#x200B;**每週**。
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
    >[!NOTE]
    >
-   >選取 **無** 將會關閉資料流。
+   >選取&#x200B;**無**&#x200B;將會關閉資料流。
 
 1. 挑選第一次鑄造的日期。
 
@@ -51,9 +51,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以挑選將步調設定為每天執行 **重複：每週** / **每： 1週** / **開啟**：所有日。
+   >您可以挑選重複專案&#x200B;**每週** / **每隔：1週** / **日期**：所有天，將您的步調設定為每天執行。
 
-   現在選擇時間。 如果您要使用，請核取方塊 [收件者時區](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)（即根據當地時區傳送），然後按一下 **儲存**.
+   現在選擇時間。 如果您要使用[收件者時區](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) （亦即根據當地時區傳遞），請核取方塊，然後按一下&#x200B;**儲存**。
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 ## 每月 {#monthly}
 
-1. 選取 **每月** 其重複頻率。
+1. 選取&#x200B;**每月**&#x200B;重複頻率。
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -93,7 +93,7 @@ ht-degree: 0%
    >
    >或者，您可以選取一週中的某天。
 
-1. 選取 **時間** 並按一下 **儲存**.
+1. 選取&#x200B;**時間**&#x200B;並按一下&#x200B;**儲存**。
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
@@ -110,4 +110,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [瞭解收件者時區](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [依收件者時區排程參與方案](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
+>* [使用收件者時區排程參與方案](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)

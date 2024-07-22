@@ -16,13 +16,13 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [建立電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [使用智慧清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 或 [透過匯入清單來定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [使用智慧列示定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)或[透過匯入清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
->* [選擇現有電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 或 [為電子郵件計畫建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [選擇現有的電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)或[為電子郵件程式建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 測試是最佳化您的電子郵件的好方法，以獲得更好的參與。 以下說明如何開始使用。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram.jpg)
 
-1. 在 **電子郵件** 圖磚，按一下 **新增A/B測試**.
+1. 在&#x200B;**電子郵件**&#x200B;磚底下，按一下&#x200B;**新增A/B測試**。
 
    ![](assets/image2014-9-12-14-3a39-3a29.png)
 
@@ -38,11 +38,11 @@ ht-degree: 0%
    >
    >新增A/B測試時，選取的電子郵件將無法再用於任何其他程式。
 
-1. 新視窗會以不同的方式開啟 **測試型別** 以從中進行選擇。 探索以下任一相關文章以繼續。
+1. 新視窗會隨即開啟，其中有不同的&#x200B;**測試型別**&#x200B;可供選擇。 探索以下任一相關文章以繼續。
 
    >[!CAUTION]
    >
-   >如果您的資料庫中有重複的記錄，這些記錄將會收到 **兩者** 測試和成功電子郵件。 為避免發生此情況，請確定 [尋找及合併重複人員](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) 到您的資料庫中。
+   >如果您的資料庫中有重複的記錄，這些記錄將會收到&#x200B;**兩者**&#x200B;測試與成功電子郵件。 若要避免發生這種情況，請確定您在資料庫中[尋找並合併重複的人員](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)。
 
 >[!MORELIKETHIS]
 >

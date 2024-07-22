@@ -6,7 +6,7 @@ exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -26,33 +26,33 @@ ht-degree: 0%
 
 ## 步驟1：啟動新的重新導向規則 {#step-start-a-new-redirect-rule}
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/redirect-a-landing-page-1.png)
 
-1. 前往 **[!UICONTROL 登陸頁面]**.
+1. 移至&#x200B;**[!UICONTROL 登陸頁面]**。
 
    ![](assets/redirect-a-landing-page-2.png)
 
-1. 按一下 **[!UICONTROL 規則]** 標籤，然後按一下 **[!UICONTROL 新增]** 和 **[!UICONTROL 新的重新導向規則]**.
+1. 按一下&#x200B;**[!UICONTROL 規則]**&#x200B;標籤，然後按一下&#x200B;**[!UICONTROL 新增]**&#x200B;和&#x200B;**[!UICONTROL 新增重新導向規則]**。
 
    ![](assets/redirect-a-landing-page-3.png)
 
 ## 步驟2：定義重新導向規則 {#step-define-the-redirect-rule}
 
-1. 按一下第一個 **[!UICONTROL 原始URL]** 下拉式清單，然後選取您的Marketo CNAME。
+1. 按一下前&#x200B;**[!UICONTROL 個原始URL]**&#x200B;下拉式清單，然後選取您的Marketo CNAME。
 
    ![](assets/redirect-a-landing-page-4.png)
 
    >[!NOTE]
    >
-   >請記住，您只能重新導向以Marketo開頭的登陸頁面 [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}.
+   >請記住，您只能重新導向以Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}開頭的登陸頁面。
 
-1. 按一下第二個 **[!UICONTROL 原始URL]** 下拉式清單，並選取您要重新導向的登入頁面。
+1. 按一下第二個&#x200B;**[!UICONTROL 原始URL]**&#x200B;下拉式清單，並選取您要重新導向的登入頁面。
 
    ![](assets/redirect-a-landing-page-5.png)
 
-1. 的 **[!UICONTROL 重新導向URL]** 選取您要重新導向到的頁面，然後按一下 **[!UICONTROL 建立]**.
+1. 針對&#x200B;**[!UICONTROL 重新導向URL]**，請選取您要重新導向的頁面，然後按一下&#x200B;**[!UICONTROL 建立]**。
 
    ![](assets/redirect-a-landing-page-6.png)
 

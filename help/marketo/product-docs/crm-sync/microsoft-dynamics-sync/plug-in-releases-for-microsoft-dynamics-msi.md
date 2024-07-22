@@ -6,7 +6,7 @@ exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
 source-git-commit: 6dcda9b86555c17b3492a02f3985db7d2acd8a32
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 當您首次同步至Microsoft Dynamics時，需下載並安裝Marketo Sales Insight (MSI)適用的最新版外掛程式。 請定期Marketo Engage更新這些外掛程式，以便您可以返回相同位置下載新版本。
 
-如果您使用Marketo原生CRM同步解決方案至Dynamics，請 [下載最新的外掛程式](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your Dynamics release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+如果您使用Marketo原生CRM同步解決方案至Dynamics，請[下載與您的Dynamics版本對應的最新外掛程式](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"}。 若是擁有自訂同步處理且已購買Marketo Sales Insight的使用者，[套件就在這裡](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}。
 
 >[!NOTE]
 >
@@ -23,23 +23,23 @@ ht-degree: 0%
 
 ## 升級MSI解決方案 {#upgrading-your-msi-solution}
 
-1. 匯入最新版本的解決方案 _超過現有版本_ 的CRM，方法是按下 **[!UICONTROL 匯入]** Dynamics中的按鈕。
+1. 按下Dynamics中的&#x200B;**[!UICONTROL 匯入]**&#x200B;按鈕，匯入解決方案&#x200B;_的最新版本，以取代現有的Dynamics CRM版本_。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->範例：如果您的Dynamics CRM版本為2.0.0.20，而最新版本為2.0.0.21，則需匯入 _超過_ 版本2.0.0.20。
+>範例：如果您的Dynamics CRM版本為2.0.0.20，而最新版本為2.0.0.21，則您會匯入&#x200B;_超過_&#x200B;版本2.0.0.20。
 
-1. 按一下 **[!UICONTROL 下一個]**.
+1. 按一下&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
-1. 選取 **[!UICONTROL 暫存升級]** 和 **[!UICONTROL 維護自訂]**，然後按一下 **[!UICONTROL 匯入]**.
+1. 選取&#x200B;**[!UICONTROL 升級階段]**&#x200B;和&#x200B;**[!UICONTROL 維護自訂]**，然後按一下&#x200B;**[!UICONTROL 匯入]**。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. 按一下 **[!UICONTROL 下一個]**.
+1. 按一下&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
@@ -78,7 +78,7 @@ ht-degree: 0%
   <tr> 
    <td>03/23/23</td> 
    <td>2.00.28</td> 
-   <td>已建立 <a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">新封裝</a> 用於MSI，以連線到CRM。</td> 
+   <td>已為MSI建立<a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">新封裝</a>，以用於與CRM的非原生連線。</td> 
   </tr>
   <tr> 
    <td>02/03/22</td> 

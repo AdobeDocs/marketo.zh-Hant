@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 控制面板 {#control-panel}
 
-四個方塊讓您保持焦點。 **對象** 會定義「誰」 **電子郵件** 提供「什麼」 **排程** 會定義「何時」和 **核准** 準備就緒。
+四個方塊讓您保持焦點。 **對象**&#x200B;定義「誰」，**電子郵件**&#x200B;提供「什麼」，**排程**&#x200B;定義「何時」，且&#x200B;**核准**&#x200B;使其準備就緒。
 
 ![](assets/emailprogram.png)
 
@@ -38,7 +38,7 @@ A/B測試可讓您證明哪封電子郵件最好。
 
 >[!CAUTION]
 >
->如需準確的報告，請避免 _重複使用_ 來自電子郵件程式的電子郵件，方法是在Smart Campaign中參考該電子郵件程式，或將資產從已啟動的電子郵件程式移至新的電子郵件程式。 這麼做會彙總該電子郵件附加之每個報告控制面板中的所有資料。 如果您需要重複使用電子郵件，請 [原地複製](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 相反地，這複製了電子郵件，但會建立具有新電子郵件ID的新電子郵件。
+>為獲得準確的報告，請避免&#x200B;_重複使用電子郵件程式的_&#x200B;電子郵件，方法是在智慧行銷活動中參考該電子郵件，或將資產從已啟動的電子郵件程式移至新的電子郵件程式。 這麼做會彙總該電子郵件附加之每個報告控制面板中的所有資料。 如果您需要重複使用電子郵件，請改為複製[它](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}，因為這樣會複製電子郵件，但會建立具有新電子郵件識別碼的新電子郵件。
 
 享受您勞動的成果。 控制面板會一眼顯示電子郵件程式和A/B測試效能。
 
@@ -68,7 +68,7 @@ A/B測試可讓您證明哪封電子郵件最好。
 
 >[!NOTE]
 >
->電子郵件程式無法巢狀內嵌 [參與計畫](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). 它們也無法重新傳送，一次只能執行一項測試。
+>電子郵件程式無法巢狀化至[參與程式](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)。 它們也無法重新傳送，一次只能執行一項測試。
 
 ## 排程設定 {#schedule-settings}
 
@@ -79,5 +79,5 @@ A/B測試可讓您證明哪封電子郵件最好。
 >* [建立電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >
 >* [使用智慧清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [為電子郵件計畫建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [為電子郵件程式建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >* [排程您的電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)

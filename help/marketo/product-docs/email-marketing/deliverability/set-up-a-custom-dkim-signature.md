@@ -21,7 +21,7 @@ ht-degree: 0%
 
 您可以個人化DKIM簽章，以反映您選擇的網域。 方法如下。
 
-1. 前往 **管理員** 區段。
+1. 移至&#x200B;**管理員**&#x200B;區段。
 
    ![](assets/set-up-a-custom-dkim-signature-1.png)
 
@@ -29,15 +29,15 @@ ht-degree: 0%
    >
    >如果您以舊式方式設定自訂DKIM簽章，它將持續運作，並且應會在這裡顯示。
 
-1. 按一下 **電子郵件**.
+1. 按一下&#x200B;**電子郵件**。
 
    ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1. 按一下 **SPF/DKIM** 標籤，然後 **新增網域**.
+1. 按一下&#x200B;**SPF/DKIM**&#x200B;標籤，然後&#x200B;**新增網域**。
 
    ![](assets/set-up-a-custom-dkim-signature-3.png)
 
-1. 輸入您將在Marketo電子郵件中使用的網域作為寄件者地址。 選擇選擇器和金鑰大小。 按一下 **新增** 完成時。
+1. 輸入您將在Marketo電子郵件中使用的網域作為寄件者地址。 選擇選擇器和金鑰大小。 完成時，按一下&#x200B;**新增**。
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
@@ -66,11 +66,11 @@ ht-degree: 0%
    >
    >請注意，這樣做時，在您的新記錄發佈並由我們的系統驗證之前，不會為您的網域簽署DKIM。 請針對變更進行相應的規劃，因為新的DKIM記錄可能需要24到48小時的時間才會完全傳播到網際網路。
 
-1. 傳送 **主機記錄** 和 **TXT值** 至您的IT。 請他們為您建立記錄，並確定紀錄會傳播至與來自網域關聯的所有名稱伺服器。 Marketo的DKIM驗證需要將DKIM金鑰傳播到與DKIM簽署的網域相關聯的所有名稱伺服器。
+1. 將&#x200B;**主機記錄**&#x200B;和&#x200B;**TXT值**&#x200B;傳送給您的IT。 請他們為您建立記錄，並確定紀錄會傳播至與來自網域關聯的所有名稱伺服器。 Marketo的DKIM驗證需要將DKIM金鑰傳播到與DKIM簽署的網域相關聯的所有名稱伺服器。
 
    ![](assets/set-up-a-custom-dkim-signature-5.png)
 
-1. 確認建立記錄後，返回Marketo選取您的網域，然後按一下 **檢查DNS**.
+1. 一旦他們確認已建立記錄，請返回Marketo，選取您的網域，然後按一下&#x200B;**檢查DNS**。
 
    ![](assets/set-up-a-custom-dkim-signature-6.png)
 

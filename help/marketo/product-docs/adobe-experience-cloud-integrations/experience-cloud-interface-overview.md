@@ -5,7 +5,7 @@ exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Adobe Experience Cloud介面可協調Adobe Experience Cloud應用程式和服務
 
 ## 使用者流程 {#user-flow}
 
-如果您尚未登入Adobe Experience Cloud產品，請直接登入 [!DNL Marketo Engage] 此處： [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
+如果您尚未登入Adobe Experience Cloud產品，請直接在此登入[!DNL Marketo Engage]： [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage)。
 
-如果您 _為_ 已登入Adobe Experience Cloud產品，只要按一下功能表圖示並選取「 」即可 **[!DNL Marketo Engage]**.
+如果您&#x200B;_已_&#x200B;登入Adobe Experience Cloud產品，只要按一下功能表圖示並選取&#x200B;**[!DNL Marketo Engage]**&#x200B;即可。
 
 ![](assets/unified-shell-overview-1.png)
 
@@ -32,7 +32,7 @@ Adobe Experience Cloud介面可協調Adobe Experience Cloud應用程式和服務
 
 **整合式說明中心**
 
-從內部存取各種可用的說明資源 [!DNL Marketo Engage] 應用程式。
+從[!DNL Marketo Engage]應用程式記憶體取各種可用的說明資源。
 
 ![](assets/unified-shell-overview-2.png)
 
@@ -56,11 +56,11 @@ Adobe Experience Cloud介面可協調Adobe Experience Cloud應用程式和服務
 
 ## 常見問題集 {#faq}
 
-**我無法登入 [!DNL Marketo Engage] 透過Experience Cloud介面。 可能有哪些問題？**
+**我無法透過Experience Cloud介面登入[!DNL Marketo Engage]。 可能有哪些問題？**
 
-如果您可登入Adobe Experience Cloud，但接著看到「無法載入頁面」錯誤，則問題可能出在 [!DNL Marketo Engage] 側。 請聯絡 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support) 以取得協助。
+如果您可登入Adobe Experience Cloud，但接著看到「無法載入頁面」錯誤，則問題可能在[!DNL Marketo Engage]端。 請聯絡[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)以尋求協助。
 
-**「使用者歷史記錄」、「全域搜尋」、「Marketo通知」和「工作匣」移至何處？**
+**使用者歷史記錄、全域搜尋、Marketo通知和工作匣移至何處？**
 
 這些功能已從頂端導覽移至Experience Cloud介面左側的新列。
 

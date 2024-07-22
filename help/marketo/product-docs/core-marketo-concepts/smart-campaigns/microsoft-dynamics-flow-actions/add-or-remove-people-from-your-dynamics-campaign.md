@@ -29,9 +29,9 @@ ht-degree: 0%
 >如果您在行銷活動清單中看不到Dynamics行銷活動：
 >
 >* 確認Campaign同步功能正常運作
->* 行銷活動在中未啟用 [!DNL Microsoft Dynamics]
+>* 行銷活動在[!DNL Microsoft Dynamics]中未啟用
 
-系統會自動建立促銷活動專屬的靜態行銷清單，每個清單都代表銷售機會和聯絡人，以便將個人新增至。 此為一次性動作，後續同步至行銷活動時，只會使用相同的行銷清單。 靜態行銷清單名稱所採用的命名標準為 `Mkto-leads-<uniqueID>` 潛在客戶和 `Mkto-contacts-<uniqueID>` 連絡人的資訊。
+系統會自動建立促銷活動專屬的靜態行銷清單，每個清單都代表銷售機會和聯絡人，以便將個人新增至。 此為一次性動作，後續同步至行銷活動時，只會使用相同的行銷清單。 靜態行銷清單名稱採用的命名標準為潛在客戶為`Mkto-leads-<uniqueID>`，聯絡人為`Mkto-contacts-<uniqueID>`。
 
 將這些Marketo產生的行銷清單與其他行銷活動建立關聯，可能會導致混淆行為。 例如：新增至一個促銷活動也會導致新增至第二個促銷活動。 同樣地，也不建議在Dynamics中將Marketo產生的行銷清單與Campaign解除關聯。
 
@@ -52,4 +52,4 @@ ht-degree: 0%
 >如果行銷活動清單中未顯示Dynamics行銷活動：
 >
 >* 確認Campaign同步功能正常運作
->* 行銷活動在中未啟用 [!DNL Microsoft Dynamics]
+>* 行銷活動在[!DNL Microsoft Dynamics]中未啟用

@@ -16,17 +16,17 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [為您的帳戶啟用個人化URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
->* [為登陸頁面啟用個人化URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
+>* [啟用登陸頁面的個人化URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. 選取您的清單或智慧清單，按一下 **銷售機會** 標籤以取得結果，然後按一下excel圖示。 內嵌：確定您已 **Marketo唯一代碼** 和 **Marketo唯一名稱** [欄可見](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. 選取您的清單或智慧清單，按一下&#x200B;**銷售機會**&#x200B;索引標籤以取得結果，然後按一下Excel圖示。 內嵌確定您有&#x200B;**Marketo唯一代碼**&#x200B;和&#x200B;**Marketo唯一名稱** [個可見欄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)。
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
-1. 檢查 **包含個人化URL**，尋找並選取您要產生PURL的登陸頁面。
+1. 勾選&#x200B;**包含個人化URL**，尋找並選取您要產生PURL的登陸頁面。
 
    ![](assets/image2014-9-18-13-3a36-3a42.png)
 
-1. 選取 **URL**.
+1. 選取&#x200B;**URL**。
 
    ![](assets/image2014-9-18-13-3a36-3a53.png)
 
@@ -34,11 +34,11 @@ ht-degree: 0%
    >
    >如果您看到同一登陸頁面有多個URL，可能是因為您在過去的某個時間點變更頁面URL並建立重新導向。
 
-1. 選擇 **樣式** 並按一下 **匯出**.
+1. 選擇&#x200B;**樣式**&#x200B;並按一下&#x200B;**匯出**。
 
    ![](assets/image2014-9-18-13-3a37-3a6.png)
 
-1. 匯出完成時，按一下 **立即下載** 儲存檔案的連結。
+1. 匯出完成時，按一下&#x200B;**立即下載**&#x200B;連結以儲存檔案。
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 

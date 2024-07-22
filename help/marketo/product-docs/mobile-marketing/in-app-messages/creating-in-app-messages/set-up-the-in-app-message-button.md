@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. 若要變更標準按鈕的顏色，請按一下 **顏色** 按鈕。
+1. 若要變更標準按鈕的顏色，請按一下&#x200B;**顏色**&#x200B;按鈕。
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. 如果您想要將自己的影像用於按鈕，請按一下「影像」按鈕，然後按一下 **選取影像**.
+1. 如果您想要將自己的影像用於按鈕，請按一下[影像]按鈕，然後按一下&#x200B;**選取影像**。
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. 選擇影像並按一下 **選取**.
+1. 選擇影像並按一下&#x200B;**選取**。
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. 選擇強調的字型樣式： **粗體**， _斜體_，或加上底線。
+1. 選擇強調字型樣式： **粗體**、_斜體_&#x200B;或底線。
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
    >
    >此按鈕一律會有點選動作，因此「點選動作」核取方塊會自動選取，並出現預設訊息「關閉訊息」。
 
-即將完成。 您的最後一步為 [設定應用程式內訊息背景並關閉按鈕](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+即將完成。 您的最後一步是[設定應用程式內訊息背景並關閉按鈕](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md)。
 
 >[!MORELIKETHIS]
 >

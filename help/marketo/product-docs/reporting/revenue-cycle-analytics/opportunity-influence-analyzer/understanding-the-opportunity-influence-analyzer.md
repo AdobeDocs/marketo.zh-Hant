@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**請注意綠色檢查**. 它們表示在右側勾選的其中一個名稱的計畫成功。 綠色區域表示機會的開始和結束。
+**請注意綠色支票**。 它們表示在右側勾選的其中一個名稱的計畫成功。 綠色區域表示機會的開始和結束。
 
 >[!NOTE]
 >
@@ -41,5 +41,5 @@ Marketo會使用CRM ID來唯一識別帳戶。
 
 >[!MORELIKETHIS]
 >
->* [使用機會影響分析器訴說行銷故事](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [使用機會影響分析器講述行銷故事](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [建立機會影響分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)

@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >營運電子郵件不受通訊限制的約束。
 
-1. 尋找您的電子郵件，選取並按一下 **編輯草稿**.
+1. 尋找您的電子郵件，選取並按一下&#x200B;**編輯草稿**。
 
 ![](assets/one-1.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 >
 >您應該只將營運電子郵件用於重要電子郵件和自動回應者。 它們不適用於行銷電子郵件。
 
-1. 編輯器開啟後，按一下 **電子郵件設定**.
+1. 編輯器開啟後，按一下&#x200B;**電子郵件設定**。
 
    ![](assets/two-1.png)
 
-1. 檢查 **營運電子郵件** 並按一下 **儲存**.
+1. 檢查&#x200B;**操作電子郵件**&#x200B;並按一下&#x200B;**儲存**。
 
    ![](assets/three.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 >
 >營運電子郵件不適合參與計畫。 因此，參與計畫將會忽略電子郵件的操作狀態。 使用他們時，請記住這一點。
 
-別忘了核准此電子郵件，變更才會生效。 瞭解如何  [核准電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+別忘了核准此電子郵件，變更才會生效。 瞭解如何[核准電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。

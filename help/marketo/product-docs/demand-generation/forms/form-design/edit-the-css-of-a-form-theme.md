@@ -13,21 +13,21 @@ ht-degree: 1%
 
 # 編輯表單主題的CSS {#edit-the-css-of-a-form-theme}
 
-您有幾個預先建立的 [您可從中選擇主題](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). 但如果您喜歡編輯CSS，則可進行您想要的任何變更。 方法如下。
+您有幾個預先建立的[佈景主題，您可以從](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)中選擇。 但如果您喜歡編輯CSS，則可進行您想要的任何變更。 方法如下。
 
 >[!NOTE]
 >
 >如果您想要嘗試此動作，請務必知道CSS，因為Marketo支援未設定為協助自訂編碼。 此外，所做的任何變更只會套用至您目前編輯的表單。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-5.png)
 
-1. 選擇您的表單並按一下 **編輯表單**.
+1. 選取您的表單並按一下&#x200B;**編輯表單**。
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. 前往 **表單設定**.
+1. 移至&#x200B;**表單設定**。
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-14-3a37-3a54.png)
 
-1. 在齒輪圖示下，按一下 **檢視主題CSS**.
+1. 在齒輪圖示下，按一下&#x200B;**檢視主題CSS**。
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
@@ -47,7 +47,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. 在齒輪圖示下，按一下 **編輯自訂CSS**.
+1. 在齒輪圖示下，按一下&#x200B;**編輯自訂CSS**。
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
@@ -55,11 +55,11 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-14-3a39-3a21.png)
 
-1. 完成後，按一下 **儲存**.
+1. 完成時，按一下&#x200B;**儲存**。
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. 若要檢視自訂表格，請按一下 **預覽草稿**.
+1. 若要檢視您的自訂表格，請按一下&#x200B;**預覽草稿**。
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 

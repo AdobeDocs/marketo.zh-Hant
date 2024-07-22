@@ -6,7 +6,7 @@ exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 「電子郵件分析」的比率量度與其他Marketo電子郵件報告之間是否有任何差異？ {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 
-是. 電子郵件深入分析針對計算參與量度比率（開啟率、點按開啟率、取消訂閱率）時傳送的相同電子郵件，將參與量度與其對應的傳送量度建立關聯。 例如，在電子郵件深入分析中，檢視過去一週包含每日點按開啟率劃分的時間序列圖表時，我們現在會根據對應的傳送量度，顯示開啟/點按/取消訂閱事件的真正相關比率。 這與Revenue Explorer中的行為形成對照，後者只是一切的總和。 電子郵件深入分析可更準確地檢視參與率。
+有。電子郵件深入分析針對計算參與量度比率（開啟率、點按開啟率、取消訂閱率）時傳送的相同電子郵件，將參與量度與其對應的傳送量度建立關聯。 例如，在電子郵件深入分析中，檢視過去一週包含每日點按開啟率劃分的時間序列圖表時，我們現在會根據對應的傳送量度，顯示開啟/點按/取消訂閱事件的真正相關比率。 這與Revenue Explorer中的行為形成對照，後者只是一切的總和。 電子郵件深入分析可更準確地檢視參與率。
 
 ## 為什麼電子郵件深入分析僅支援10個自訂Dimension？ {#why-does-email-insights-only-support-custom-dimensions}
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 ## 電子郵件深入分析是否支援Marketo銷售深入分析電子郵件？ {#does-email-insights-support-marketo-sales-insight-emails}
 
-是. 所有透過Marketo Sales Insights傳送的電子郵件都會包含在電子郵件深入分析中。
+有。所有透過Marketo Sales Insights傳送的電子郵件都會包含在電子郵件深入分析中。
 
 ## 電子郵件深入分析是否支援營運電子郵件？ {#does-email-insights-support-operational-emails}
 
-是. 依預設，檢視和查詢會隱藏營運電子郵件。 不過，您可以在「個人設定」面板下變更此設定。
+有。依預設，檢視和查詢會隱藏營運電子郵件。 不過，您可以在「個人設定」面板下變更此設定。
 
 ## 電子郵件深入分析是否會擷取週期性排程或重新執行Smart Campaign電子郵件流程步驟？ {#does-email-insights-capture-recurring-scheduled-or-re-run-smart-campaign-email-flow-steps}
 

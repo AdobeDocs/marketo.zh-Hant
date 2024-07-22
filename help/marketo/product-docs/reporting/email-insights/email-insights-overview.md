@@ -6,8 +6,8 @@ exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 1%
+source-wordcount: '214'
+ht-degree: 0%
 
 ---
 
@@ -25,29 +25,29 @@ ht-degree: 1%
 
 ## Analytics {#analytics}
 
-使用 [Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) 探索電子郵件傳送和參與量度的彙總時間序列資料。
+使用[Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)探索電子郵件傳遞和參與量度的彙總時間序列資料。
 
 ![](assets/emailanalytics.jpg)
 
 **篩選器**
 
-已使用進階 [篩選器](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) 依對象、內容或平台劃分結果。 相同的篩選條件同時適用於Analytics和「傳送」。
+已使用進階[篩選器](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)來依對象、內容或平台劃分結果。 相同的篩選條件同時適用於Analytics和「傳送」。
 
 ![](assets/filter.png)
 
 **快速圖表**
 
-[快速圖表](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) 是您建立和儲存的縮圖，可讓您快速檢視對您而言重要的圖表。
+[快速圖表](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md)是您建立和儲存的縮圖，可讓您快速檢視對您而言重要的圖表。
 
 ![](assets/three.png)
 
 ## 傳送 {#sends}
 
-在 [傳送](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md) 頁面，檢查最近電子郵件通訊的特性。
+在[傳送](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)頁面中，檢查最近電子郵件通訊的特性。
 
 ![](assets/two.png)
 
-**量度**
+**個量度**
 
 按一下量度列，將顏色轉換為數字。
 
@@ -59,9 +59,9 @@ ht-degree: 1%
 
 ## 自訂Dimension {#custom-dimensions}
 
-所有標準Marketo維度都會包括在內，但您可以選擇新增最多10個自訂維度。 [自訂維度](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) 包含區段和程式標籤。
+所有標準Marketo維度都會包括在內，但您可以選擇新增最多10個自訂維度。 [自訂維度](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)包含分段和程式標籤。
 
 >[!MORELIKETHIS]
 >
->* [電子郵件分析Analytics概觀](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+>* [電子郵件Insights Analytics概觀](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
 >* [電子郵件深入分析傳送概覽](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

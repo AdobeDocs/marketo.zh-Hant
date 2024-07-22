@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >對作用中行銷活動進行智慧清單或流量步驟編輯可能會破壞其功能。 如果您選擇這麼做，請謹慎操作。
 
-1. 選擇智慧型行銷活動，然後按一下 **[!UICONTROL 智慧清單]**.
+1. 選擇智慧行銷活動，然後按一下&#x200B;**[!UICONTROL 智慧清單]**。
 
    ![](assets/define-smart-list-for-smart-campaign-batch-1.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >僅包含篩選器的智慧型行銷活動執行於 _批次_ 模式。 它會根據篩選器在資料庫中找出符合資格的人員，並一次透過流程執行所有人員。
+   >僅包含篩選器的智慧行銷活動會在&#x200B;_批次_&#x200B;模式下執行。 它會根據篩選器在資料庫中找出符合資格的人員，並一次透過流程執行所有人員。
 
    >[!NOTE]
    >
-   >您可以新增觸發程式，讓Smart Campaign根據即時事件逐人執行 _觸發_ 模式。
+   >您可以新增觸發器，讓Smart Campaign以&#x200B;_觸發器_&#x200B;模式執行，根據即時事件一次只對一個人員執行。
 
 1. 按一下下拉式清單，並為您選擇的篩選器選擇篩選器運運算元。
 
@@ -49,11 +49,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >依預設，符合所有「智慧列示」規則的人皆為合格者。 您可修改以符合行銷活動需求。 簽出  [複雜邏輯的智慧清單規則](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"} 以進一步瞭解。
+   >依預設，符合所有「智慧列示」規則的人皆為合格者。 您可修改以符合行銷活動需求。 如需瞭解詳細資訊，請參閱複雜邏輯的[智慧清單規則](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}。
 
-   若要一次觸發一個人的即時活動，請瞭解如何 [定義Smart Campaign的智慧清單 | 觸發](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
+   若要一次觸發一個人的即時事件，瞭解如何[為Smart Campaign定義智慧清單 | 觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}。
 
    >[!MORELIKETHIS]
    >
-   >* [定義Smart Campaign的智慧清單 | 觸發](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
-   >* [將流量步驟新增至Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
+   >* [定義智慧行銷活動的智慧清單 | 觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [將流程步驟新增至Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

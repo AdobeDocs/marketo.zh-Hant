@@ -6,7 +6,7 @@ exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1357'
+source-wordcount: '1346'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## MPI是否可與任何CRM搭配使用？ {#will-mpi-work-with-any-crm}
 
-是. 就技術方面而言，MPI不會直接與CRM互動以進行資料同步。 MPI會利用Marketo AnalyticsData Warehouse中儲存的資料。 由於CRM同步作業會在銷售機會管理應用程式中進行，因此Marketo支援的與銷售機會管理應用程式整合的任何CRM都會正確顯示資料。 不過，CRM機會欄位確實需要正確對應到Marketo機會欄位。
+有。就技術方面而言，MPI不會直接與CRM互動以進行資料同步。 MPI會利用Marketo AnalyticsData Warehouse中儲存的資料。 由於CRM同步作業會在銷售機會管理應用程式中進行，因此Marketo支援的與銷售機會管理應用程式整合的任何CRM都會正確顯示資料。 不過，CRM機會欄位確實需要正確對應到Marketo機會欄位。
 
 ## 我沒有其他任何Marketing Analytics產品(ARB、RCE、RCA、Program Analysis)。 MPI是否適合我？ {#i-do-not-have-any-other-marketing-analytics-products-arb-rce-rca-program-analysis-will-mpi-work-for-me}
 
@@ -31,7 +31,7 @@ MPI是Lead Management應用程式的獨立附加元件。 它不需要使用任�
 
 ## RCA也會顯示程式效能資料。 MPI和RCA中顯示的資料之間是否有差異？ {#rca-shows-me-program-performance-data-as-well-is-there-a-difference-between-the-data-shown-in-mpi-and-rca}
 
-否. MPI會從與RCA相同的資料倉儲取得資料。 因此，您將不會看到兩者之間的任何資料差異。 RCA可讓您即時建立自己的報表。 MPI可讓您存取容易理解的視覺儀表板。
+不適用。 MPI會從與RCA相同的資料倉儲取得資料。 因此，您將不會看到兩者之間的任何資料差異。 RCA可讓您即時建立自己的報表。 MPI可讓您存取容易理解的視覺儀表板。
 
 ## 我不希望我的某些程式（例如作業）顯示在MPI中。 我該如何控制特定程式的可見度？ {#i-don-t-want-some-of-my-programs-e-g-operational-to-show-up-in-mpi-how-do-i-control-the-visibility-of-specific-programs}
 
@@ -39,7 +39,7 @@ MPI是Lead Management應用程式的獨立附加元件。 它不需要使用任�
 
 >[!NOTE]
 >
->進一步瞭解設定分析行為 [此處](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
+>在[此處](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md)進一步瞭解設定分析行為。
 
 ## 我正在為新產品上市執行多頻道行銷活動。 如何在一個位置檢視跨所有不同管道的此行銷活動績效？ {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -59,11 +59,11 @@ MPI會計算您的所有機會是否都包含在Analytics中。 如果沒有，�
 
 1. 包含 — 此選項將確保MPI中可以使用程式，無論您是否包含期間成本。
 
-1. [營運](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs)  — 此選項會導致程式無法在MPI中顯示。
+1. [作業中](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs) — 此選項導致程式無法在MPI中顯示。
 
 >[!NOTE]
 >
->期間成本 **有** 要在參與控制面板中設定成功和新名稱報告。 此儀表板利用期間成本資料來彙總成功和新名稱。 如果未設定「期間成本」，則無論上述Analytics行為設定為何，參與控制面板都不會正確報告。
+>期間成本&#x200B;**已設定**&#x200B;以在參與儀表板中報告成功和新名稱。 此儀表板利用期間成本資料來彙總成功和新名稱。 如果未設定「期間成本」，則無論上述Analytics行為設定為何，參與控制面板都不會正確報告。
 
 ## 為什麼我在MPI中錯過了一些機會？ {#why-am-i-missing-some-opportunities-in-mpi}
 
@@ -82,7 +82,7 @@ MPI會計算您的所有機會是否都包含在Analytics中。 如果沒有，�
 
 ## 我想使用自訂Salesforce機會欄位來報告收入，而不是標準Salesforce機會金額欄位。 MPI允許我這麼做嗎？ {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-是. [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support) 只要欄位型別為貨幣，便能夠將Marketo的「機會金額」欄位重新對應到自訂Salesforce「機會」欄位。 由於MPI指向Marketo機會數量欄位，因此MPI可以使用重新對應的自訂Salesforce欄位中的資料。
+有。只要欄位型別為貨幣，[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)就能將Marketo的「機會金額」欄位重新對應到自訂Salesforce「機會」欄位。 由於MPI指向Marketo機會數量欄位，因此MPI可以使用重新對應的自訂Salesforce欄位中的資料。
 
 >[!NOTE]
 >
@@ -100,11 +100,11 @@ MPI的設計可讓您從漏斗的頂部開始測量計畫效能，直到收入�
 
 ## 我可以測量MPI中帳戶型策略的成功程度嗎？ {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-是. MPI已與 [MARKETO TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) 將ABM帳戶清單順暢地提取至MPI。 您可以使用「ABM帳戶清單」篩選器來選擇所需的ABM清單以篩選資料。
+有。MPI與[Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)整合，可順暢地將ABM帳戶清單提取至MPI。 您可以使用「ABM帳戶清單」篩選器來選擇所需的ABM清單以篩選資料。
 
 ## 購買MPI時，是否可以立即使用歸因？ {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-客戶購買MPI時，可使用Marketo歸因功能。 不過， [正確的設定](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) 是確保機會和程式資料正確流入MPI的必要條件。
+客戶購買MPI時，可使用Marketo歸因功能。 不過，需要[適當的設定](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md)，才能確保機會和程式資料正確流入MPI。
 
 ## 我該怎麼做才能設定歸因？ {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -125,7 +125,7 @@ MPI的設計可讓您從漏斗的頂部開始測量計畫效能，直到收入�
 
 >[!TIP]
 >
->如需所有必要的設定步驟，請參閱 [本文](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
+>[本文章](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md)中詳細說明了所有需要的設定步驟。
 
 ## MPI和Program Analyzer之間有何差異？ {#whats-the-difference-between-mpi-and-the-program-analyzer}
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147093
-description: 瞭解程式中的本機資產 — Marketo檔案 — 產品檔案
-title: 瞭解計畫中的本機資產
+description: 瞭解程式中的本機Assets - Marketo檔案 — 產品檔案
+title: 瞭解計畫中的本機Assets
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
 source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 瞭解計畫中的本機資產 {#understanding-local-assets-in-a-program}
+# 瞭解計畫中的本機Assets {#understanding-local-assets-in-a-program}
 
-本機資產是組成您程式的內容。 資產可自訂，讓您建立自動化的行銷方案。 以下檢視您可以在方案中建立的大部分本機資產：
+本機資產是組成您程式的內容。 Assets可自訂，讓您建立自動化的行銷方案。 以下檢視您可以在方案中建立的大部分本機資產：
 
 ![](assets/one.png)
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >並非每個人都能存取每個可用資產。 請聯絡Adobe客戶團隊（您的客戶經理）以瞭解更多資訊。
 
-* [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}
+* [智慧行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}
 * [清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md){target="_blank"}
 * [智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 * [報告](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
@@ -34,6 +34,6 @@ ht-degree: 0%
 * [社交按鈕](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md){target="_blank"}
 * [Youtube影片](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md){target="_blank"}
 * [輪詢](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md){target="_blank"}
-* [推薦選件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"}
+* [轉介選件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"}
 * [抽獎](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}
 * [Vibes SMS訊息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}

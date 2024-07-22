@@ -6,7 +6,7 @@ exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '570'
 ht-degree: 1%
 
 ---
@@ -53,7 +53,7 @@ Commend Center是單一、統一的檢視畫面，可協助您找出下一步驟
   <tr> 
    <td title="背景顏色：灰色"><br></td> 
    <td title="背景顏色：灰色">草稿</td> 
-   <td title="背景顏色：灰色"><p>已儲存為草稿的電子郵件。<br><strong>注意：</strong> 只有單一電子郵件可以儲存為草稿。 大量電子郵件（選取和傳送電子郵件及群組電子郵件）將不會儲存為草稿。</p></td> 
+   <td title="背景顏色：灰色"><p>已儲存為草稿的電子郵件。<br><strong>附註：</strong>只有單一電子郵件可以儲存為草稿。 大量電子郵件（選取和傳送電子郵件及群組電子郵件）將不會儲存為草稿。</p></td> 
   </tr> 
   <tr> 
    <td title="背景顏色：灰色"><br></td> 
@@ -68,12 +68,12 @@ Commend Center是單一、統一的檢視畫面，可協助您找出下一步驟
   <tr> 
    <td title="背景顏色：藍色"><br></td> 
    <td title="背景顏色：藍色">已退回</td> 
-   <td title="背景顏色：藍色"><p>收件者電子郵件伺服器拒絕的電子郵件。 <br><strong>注意：</strong> 只有當您是舊版ToutApp使用者並有權存取MSC伺服器作為傳遞通道時，才會偵測到這種情況。</p></td> 
+   <td title="背景顏色：藍色"><p>收件者電子郵件伺服器拒絕的電子郵件。 <br><strong>注意：</strong>只有當您是舊版ToutApp使用者，並且有權存取MSC伺服器作為傳遞通道時，才會偵測到這個問題。</p></td> 
   </tr> 
   <tr> 
    <td title="背景顏色：藍色"><br></td> 
    <td title="背景顏色：藍色">垃圾訊息</td> 
-   <td title="背景顏色：藍色"><p>收件者手動標籤為垃圾郵件的電子郵件。<br><strong>注意：</strong> 只有當您是舊版ToutApp使用者並有權存取MSC伺服器作為傳遞通道時，才會偵測到這種情況。</p></td> 
+   <td title="背景顏色：藍色"><p>收件者手動標籤為垃圾郵件的電子郵件。<br><strong>注意：</strong>只有當您是舊版ToutApp使用者，並且有權存取MSC伺服器作為傳遞通道時，才會偵測到這個問題。</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -95,5 +95,5 @@ Commend Center是單一、統一的檢視畫面，可協助您找出下一步驟
 >[!MORELIKETHIS]
 >
 >* [任務](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
->* [進階搜尋概觀](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
->* [使用「選取並傳送」來撰寫大量電子郵件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+>* [進階搜尋總覽](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
+>* [使用Select和Send撰寫大量電子郵件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)

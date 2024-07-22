@@ -17,15 +17,15 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-當您傳送行銷電子郵件時(非[營運](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md))，取消訂閱文字和連結會附加至底部。 您可以變更預設值。 方法如下。
+當您傳送行銷電子郵件（非[可操作](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)）時，取消訂閱文字和連結會附加至底部。 您可以變更預設值。 方法如下。
 
 ## 在何處進行編輯 {#where-to-make-the-edit}
 
-1. 前往 **[!UICONTROL 管理員]** 區段。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區段。
 
    ![](assets/edit-the-unsubscribe-message-1.png)
 
-1. 按一下 **[!UICONTROL 電子郵件]**.
+1. 按一下&#x200B;**[!UICONTROL 電子郵件]**。
 
    ![](assets/edit-the-unsubscribe-message-2.png)
 
@@ -36,15 +36,15 @@ ht-degree: 0%
    >* `%mkt_opt_out_prefix%`
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
-1. 編輯 **[!UICONTROL 取消訂閱HTML]** 和 **[!UICONTROL 取消訂閱文字]** 版本以符合您的喜好並按一下 **[!UICONTROL 儲存變更]**.
+1. 編輯您喜歡的&#x200B;**[!UICONTROL 取消訂閱HTML]**&#x200B;和&#x200B;**[!UICONTROL 取消訂閱文字]**&#x200B;版本，然後按一下&#x200B;**[!UICONTROL 儲存變更]**。
 
    ![](assets/edit-the-unsubscribe-message-3.png)
 
-   您有。 _請務必測試！_ 您不希望行銷電子郵件中的取消訂閱連結損毀。
+   您有。 _請確定測試！_&#x200B;您不希望行銷電子郵件有已中斷的取消訂閱連結。
 
 >[!TIP]
 >
->您可以使用來自訂取消訂閱HTML在電子郵件中的位置 [Token](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>您可以使用[代號](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)來自訂電子郵件中取消訂閱HTML的位置。
 
 ## 預設取消訂閱文字 {#default-unsubscribe-text}
 
@@ -56,4 +56,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[編輯「以網頁檢視」訊息](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
+>[編輯[以網頁檢視]訊息](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)

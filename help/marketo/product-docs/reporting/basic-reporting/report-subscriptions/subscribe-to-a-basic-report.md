@@ -17,21 +17,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如需Revenue Cycle Explorer報表訂閱的相關資訊，請參閱 [訂閱收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>若為Revenue Cycle Explorer報表訂閱，請參閱[訂閱Revenue Explorer報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)。
 
-1. 前往 **行銷活動** 區域。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. 從導覽樹狀結構中選取報表，然後按一下 **訂閱** 標籤。
+1. 從導覽樹狀結構選取您的報告，然後按一下&#x200B;**訂閱**&#x200B;索引標籤。
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >您也可以從以下網址訂閱報表： **Analytics** 標籤。
+   >您也可以從&#x200B;**Analytics**&#x200B;索引標籤訂閱報表。
 
-1. 按一下 **新報表訂閱**.
+1. 按一下&#x200B;**新增報表訂閱**。
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >瞭解如何 [管理您的所有報表訂閱](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) 在一個位置。
+   >瞭解如何在一個位置[管理您的所有報告訂閱](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)。

@@ -5,14 +5,14 @@ exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
 source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '1207'
+source-wordcount: '1210'
 ht-degree: 0%
 
 ---
 
 # 流程步驟服務 {#flow-step-service}
 
-自助服務流程步驟是用於編寫、發佈和將Web服務整合到Adobe Marketo Engage Smart Campaigns中的框架和功能集。 本指南適用於Marketo Engage想要安裝及使用已建立並發佈之服務的一般使用者。 如需有關製作和發佈您自己的服務的資訊，請參閱 [服務提供者介面的GitHub存放庫](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
+自助服務流程步驟是用於編寫、發佈和將Web服務整合到Adobe Marketo Engage Smart Campaigns中的框架和功能集。 本指南適用於Marketo Engage想要安裝及使用已建立並發佈之服務的一般使用者。 如需製作和發佈您自己的服務的資訊，請參閱服務提供者介面的[GitHub存放庫](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}。 [此處](https://github.com/adobe/mkto-flow-lookup){target="_blank"}可能有概念證明查閱表格實作。
 
 ## 入門和管理服務 {#onboarding-and-managing-services}
 
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 ## 安裝URL {#installation-url}
 
-若要開始安裝，您必須先取得定義您服務的OpenAPI檔案的URL。 您的服務提供者應能為您提供此專案，且通常會有URL結尾為 `/openapi.json`. 完整的URL類似於 `https://www.example.com/OpenAPI.json`. 有了此URL後，請前往「管理員」區段中的「服務提供者」功能表。
+若要開始安裝，您必須先取得定義您服務的OpenAPI檔案的URL。 您的服務提供者應該能夠提供此資訊給您，而且通常會有以`/openapi.json`結尾的URL。 完整的URL看起來會類似`https://www.example.com/OpenAPI.json`。 有了此URL後，請前往「管理員」區段中的「服務提供者」功能表。
 
-按一下 **[!UICONTROL 下一個]** 移至「輸入服務證明資料」段落。
+按一下[下一步]****，移至[輸入服務認證]區段。
 
 ![](assets/flow-step-service-1.png)
 
 ## 輸入服務認證 {#enter-service-credentials}
 
-若要存取正在安裝的服務，Marketo必須具備有效的API認證。 您的服務提供者應提供這些認證。 服務有三種不同的驗證選項，因此您可能會看到三種不同的認證提示之一： **API金鑰** 只有一個輸入欄位， **基本驗證** 需要使用者名稱和密碼，也可能需要一個名為「範圍」的欄位，以及 **OAuth2** 使用 _使用者端認證_ 授予，即需要 _使用者端ID_ 和 _使用者端密碼_.
+若要存取正在安裝的服務，Marketo必須具備有效的API認證。 您的服務提供者應提供這些認證。 服務有三個不同的驗證選項，因此您可能會看到認證的三個不同提示之一： **API金鑰** （只有一個輸入欄位）、**基本驗證** （需要使用者名稱和密碼，也可能需要名為「領域」的欄位）和&#x200B;**OAuth2** （使用&#x200B;_使用者端認證_&#x200B;授權，需要&#x200B;_使用者端識別碼_&#x200B;和&#x200B;_使用者端密碼_）。
 
 儲存認證時，Marketo會嘗試呼叫服務的狀態端點，以驗證其是否有效。 如果提供的認證無效，您將會看到指出此問題的錯誤。
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## 欄位對應 {#field-mapping}
 
-為了從特定銷售機會欄位接收或傳回資料，該欄位必須對應。 雖然在入門期間必須執行對應步驟，但您稍後可能一律會回過頭來變更對應。 在個別畫面中設定了兩種型別的對應： **傳出欄位**，這些會在Marketo叫用流程步驟時傳送至服務，並且 **傳入欄位** 哪些欄位可能會在服務傳回資料至Marketo時從服務接收資料。
+為了從特定銷售機會欄位接收或傳回資料，該欄位必須對應。 雖然在入門期間必須執行對應步驟，但您稍後可能一律會回過頭來變更對應。 在不同畫面中設定了兩種對應： **傳出欄位** (當Marketo叫用流程步驟時傳送至服務)和&#x200B;**傳入欄位** (當服務傳回資料至Marketo時可能從服務接收資料的欄位)。
 
 >[!NOTE]
 >
@@ -48,13 +48,13 @@ ht-degree: 0%
 
 ## 服務導向對應 {#service-driven-mappings}
 
-具有固定輸入和輸出集的服務（如事件註冊流程步驟）使用 **服務導向對應**. 對於這類對應，服務提供者會以API名稱的形式提供資料型別和提示。 如果提示符合現有潛在客戶欄位的API名稱，則該欄位會自動填入對應區段。 對於沒有相符提示的欄位，您將需要從具有相符資料型別的欄位清單中手動填入對應。 必須填入必要的對應才能完成上線。
+具有固定輸入和輸出集的服務（如事件註冊流程步驟）使用&#x200B;**服務導向的對應**。 對於這類對應，服務提供者會以API名稱的形式提供資料型別和提示。 如果提示符合現有潛在客戶欄位的API名稱，則該欄位會自動填入對應區段。 對於沒有相符提示的欄位，您將需要從具有相符資料型別的欄位清單中手動填入對應。 必須填入必要的對應才能完成上線。
 
 ![](assets/flow-step-service-2.png)
 
 ## 使用者導向對應 {#user-driven-mappings}
 
-沒有固定輸入和輸出集合的服務（例如日期格式服務）會使用 **使用者導向對應**. 這表示每個傳入和傳出欄位都必須由管理員設定。
+沒有固定輸入和輸出集的服務（如日期格式服務）使用&#x200B;**使用者導向對應**。 這表示每個傳入和傳出欄位都必須由管理員設定。
 
 ![](assets/flow-step-service-3.png)
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 ## 棄用服務 {#retiring-a-service}
 
-為了在不中斷使用中的情況下加速轉換至新的或替代服務版本，服務提供者選單中的服務可以淘汰。 **棄用服務** 會從Smart Campaign流量調色盤移除對應的流量步驟，因此無法建立其新用途。 在大多數情況下，當您選擇淘汰服務時，應該有可取代現有服務的替代服務。
+為了在不中斷使用中的情況下加速轉換至新的或替代服務版本，服務提供者選單中的服務可以淘汰。 **棄用服務**&#x200B;會從Smart Campaign流量調色盤移除對應的流量步驟，因此無法建立其新的使用方式。 在大多數情況下，當您選擇淘汰服務時，應該有可取代現有服務的替代服務。
 
 ## 服務淘汰 {#service-deprecation}
 

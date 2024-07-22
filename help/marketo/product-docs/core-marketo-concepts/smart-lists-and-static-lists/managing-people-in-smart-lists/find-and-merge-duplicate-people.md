@@ -6,7 +6,7 @@ exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->尋找及合併重複專案將使用下列專案： [內建/系統智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>尋找及合併重複專案需要使用[內建/系統智慧列示](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}。
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 尋找重複專案 {#find-duplicates}
 
-1. 前往 **[!UICONTROL 資料庫]** 區域。
+1. 移至&#x200B;**[!UICONTROL 資料庫]**&#x200B;區域。
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 
@@ -37,21 +37,21 @@ ht-degree: 0%
    >
    >如果您使用Salesforce個人帳戶，在Marketo中合併人員可能無法運作。 如有可能，請合併Salesforce中的記錄。
 
-1. 選取 **[!UICONTROL 可能的重複專案]** 系統智慧清單，然後按一下 **[!UICONTROL 人員]** 標籤。
+1. 選取&#x200B;**[!UICONTROL 可能的重複專案]**&#x200B;系統智慧清單，然後按一下&#x200B;**[!UICONTROL 人員]**&#x200B;索引標籤。
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
    >[!NOTE]
    >
-   >您也可以 [使用自訂邏輯尋找重複的人員](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
+   >您也可以[找到具有自訂邏輯的重複人員](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}。
 
 ## 手動合併人員 {#merge-people-manually}
 
 >[!CAUTION]
 >
->合併人員時，如果失敗人員有Marketo自訂物件，則會 _非_ 重新與成功者建立關聯。 在執行合併之前，請重新父系自訂物件。
+>合併人員時，如果落選者擁有Marketo自訂物件，則系統不會&#x200B;_將_&#x200B;重新關聯至成功人員。 在執行合併之前，請重新父系自訂物件。
 
-1. 按住Ctrl/Cmd鍵並按一下，然後按一下 **[!UICONTROL 合併人員]**.
+1. 按住Ctrl/Cmd鍵並按一下，然後按一下&#x200B;**[!UICONTROL 合併人員]**，以選取重複專案。
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >您可以為同一個人員設定兩個或多個重複專案 — 一次選取所有專案。
 
-1. 您將看到記錄之間 _不要_ 相符。 為每個欄位選取要保留的值。 按一下 **[!UICONTROL 合併]** 完成時。 如果您不想要其中一個值，可以核取 **[!UICONTROL 自訂]** 並輸入您選擇的值。
+1. 您會看到&#x200B;_不符合_&#x200B;的記錄之間的值。 為每個欄位選取要保留的值。 完成時，按一下&#x200B;**[!UICONTROL 合併]**。 如果您不想要其中一個值，可以核取&#x200B;**[!UICONTROL 自訂]**&#x200B;並輸入您選擇的值。
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
@@ -80,8 +80,8 @@ ht-degree: 0%
 
 如需合併Lead或Contacts時Salesforce行為的詳細資訊，請參閱下列Salesforce檔案：
 
-* [合併重複的銷售機會](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
-* [合併重複的連絡人](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
+* [正在合併重複的銷售機會](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
+* [正在合併重複的連絡人](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
 
 ## 大量合併 {#bulk-merging}
 

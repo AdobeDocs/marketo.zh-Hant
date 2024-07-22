@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 依現有標籤篩選 {#filter-by-existing-labels}
 
-1. 前往 **網站行銷活動**.
+1. 前往&#x200B;**網路行銷活動**。
 
    ![](assets/web-campaigns-hand-4.jpg)
 
@@ -33,4 +33,4 @@ ht-degree: 0%
 >
 >* [為您的網頁行銷活動加上標籤](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
 >* [從特定標籤檢視區段](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
->* [為區段加上標籤](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>* [標籤您的區段](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

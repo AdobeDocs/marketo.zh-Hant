@@ -6,7 +6,7 @@ exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 使用TAM階層，您可以在「具名帳戶控制面板」中快速取得整個階層或個別帳戶的相關資訊。
 
-**不使用階層**
+**未使用階層**
 
 ![](assets/before.png)
 
@@ -35,6 +35,6 @@ ht-degree: 0%
 >
 >Marketo介面最多只會顯示10個層級（父科目的子系與孫系科目），不過您可以建立的子系科目數目沒有限制。
 
-使用定位並報告整個階層 [按一下](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
+按[一下](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account)，即可鎖定整個階層的目標並製作報表。
 
 ![](assets/member.png)

@@ -6,7 +6,7 @@ exl-id: 3378f7c1-7203-4405-a57d-8d0556821ed1
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 首先，確定它不在您的垃圾郵件資料夾中。
 
-如果您在那裡找不到電子郵件，請聯絡 [Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support).
+如果您在那裡找不到電子郵件，請聯絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)。

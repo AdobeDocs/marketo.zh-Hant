@@ -5,8 +5,8 @@ exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 0%
+source-wordcount: '286'
+ht-degree: 2%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**系統** 管理員僅在Adobe組織層級建立。 如果您認為您需要多個專案，請聯絡 [Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support).
+>**系統**&#x200B;管理員只在Adobe組織層級建立。 如果您認為您需要多個專案，請連絡[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ## 新增產品管理員 {#add-a-product-admin}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >必須將管理員新增到產品設定檔才能存取Marketo Engage。
 
-1. 登入 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. 登入[Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}。
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
-1. 按一下 **Marketo Engage**.
+1. 按一下&#x200B;**Marketo Engage**。
 
    ![](assets/add-or-remove-a-product-admin-2.png)
 
@@ -34,15 +34,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. 按一下 **[!UICONTROL 管理員]** 標籤。
+1. 按一下「**[!UICONTROL 管理員]**」標籤。
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
-1. 按一下 **[!UICONTROL 新增管理員]** 按鈕。
+1. 按一下&#x200B;**[!UICONTROL 新增管理員]**&#x200B;按鈕。
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. 輸入您要新增之管理員的電子郵件地址或使用者名稱。 名字和姓氏為選用。 按一下 **[!UICONTROL 儲存]**.
+1. 輸入您要新增之管理員的電子郵件地址或使用者名稱。 名字和姓氏為選用。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
@@ -50,15 +50,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-7.png)
 
-1. 在「產品」底下，按一下三點選單並選取 **[!UICONTROL 編輯]**.
+1. 在「產品」底下，按一下三點功能表，然後選取&#x200B;**[!UICONTROL 編輯]**。
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
-1. 按一下 **+** 簽署。 按一下所需Marketo Engage訂閱（如果有多個訂閱）旁的>形箭號，然後選取所需的產品設定檔。
+1. 按一下&#x200B;**+**&#x200B;符號。 按一下所需Marketo Engage訂閱（如果有多個訂閱）旁的>形箭號，然後選取所需的產品設定檔。
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
-1. 按一下 **[!UICONTROL 儲存]**.
+1. 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
@@ -70,11 +70,11 @@ ht-degree: 0%
 
 ## 移除管理員 {#remove-a-user}
 
-1. 登入 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. 登入[Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}。
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 
-1. 按一下 **Marketo Engage**.
+1. 按一下&#x200B;**Marketo Engage**。
 
    ![](assets/add-or-remove-a-product-admin-12.png)
 
@@ -82,15 +82,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. 按一下 **[!UICONTROL 管理員]** 標籤。
+1. 按一下「**[!UICONTROL 管理員]**」標籤。
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 
-1. 選取您要移除的管理員，然後按一下 **[!UICONTROL 移除管理員]** 按鈕。
+1. 選取您要移除的管理員，然後按一下&#x200B;**[!UICONTROL 移除管理員]**&#x200B;按鈕。
 
    ![](assets/add-or-remove-a-product-admin-15.png)
 
-1. 按一下 **[!UICONTROL 移除管理員]** 以確認。
+1. 按一下&#x200B;**[!UICONTROL 移除管理員]**&#x200B;以進行確認。
 
    ![](assets/add-or-remove-a-product-admin-16.png)
 

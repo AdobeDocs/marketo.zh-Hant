@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->簽出 [瞭解標籤](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 以取得詳細資訊。
+>如需詳細資訊，請參閱[瞭解標籤](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)。
 
 >[!NOTE]
 >
@@ -27,15 +27,15 @@ ht-degree: 0%
 
 若要建立新的標籤型別：
 
-1. 前往 **[!UICONTROL 管理員]** 區段。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區段。
 
    ![](assets/create-custom-tags-1.png)
 
-1. 按一下 **[!UICONTROL 標籤]**.
+1. 按一下&#x200B;**[!UICONTROL 標籤]**。
 
    ![](assets/create-custom-tags-2.png)
 
-1. 按一下 **[!UICONTROL 新增]** 並選取 **[!UICONTROL 新標籤型別]**.
+1. 按一下「**[!UICONTROL 新增]**」並選取「**[!UICONTROL 新增標籤型別]**」。
 
    ![](assets/create-custom-tags-3.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/create-custom-tags-4.png)
 
-1. 輸入所需的「標籤型別」值。 按一下 **[!UICONTROL 新增其他]** 以輸入其他值。
+1. 輸入所需的「標籤型別」值。 按一下&#x200B;**[!UICONTROL 新增其他]**&#x200B;以輸入其他值。
 
    ![](assets/create-custom-tags-5.png)
 
@@ -57,13 +57,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* 選取「[!UICONTROL 必填]&quot;如果您想要在任何時候建立新計畫時新增此標籤。
-   >* 從「 」中移除程式型別[!UICONTROL 套用至]&#39;清單會從該型別的所有現有程式中刪除標籤及其值。 如果要保留現有標籤值，並將此標籤設為向前移動的可選標籤 _全部_ 列出計畫型別，保留「必要」核取方塊未選取。
+   >* 如果您想要在任何時候建立新程式時新增此標籤，請選取「[!UICONTROL 必要]」。
+   >* 從&#39;[!UICONTROL 套用至]&#39;清單中移除程式型別，將會從該型別的所有現有程式中刪除標籤及其值。 如果您要保留現有的標籤值，並且讓此標籤對於列出的&#x200B;_所有_&#x200B;程式型別而言是選擇性的，請將[必要]核取方塊保留為未選取。
 
    >[!TIP]
    >
-   >如果您想要讓類似的標籤成為某些程式型別所必需，但其他程式型別則可選用，您需要設定兩個個別的標籤，每個標籤會套用至不同的程式型別，並使用&quot;[!UICONTROL 必填]已選取「 」，而另一個具有「[!UICONTROL 必填]未選取「」。
+   >如果您想要讓某些程式型別需要類似的標籤，但其他程式型別可以選用，您需要設定兩個個別的標籤，每個標籤會套用至不同的程式型別，其中一個已選取「[!UICONTROL 必要]」，另一個未選取「[!UICONTROL 必要]」。
 
-1. 按一下 **[!UICONTROL 建立]**。
+1. 按一下&#x200B;**[!UICONTROL 建立]**。
 
    ![](assets/create-custom-tags-8.png)

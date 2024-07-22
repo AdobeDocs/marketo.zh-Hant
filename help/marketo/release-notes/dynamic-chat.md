@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Adobe Dynamic Chat版本會在持續傳遞模式上運作，允許以更可擴充的方法進行功能部署。 有時候一個月會有多個版本，所以請定期回來檢視最新的資訊。
 
-Marketo Engage的標準發行說明頁面 [可在此處找到](/help/marketo/release-notes/current.md){target="_blank"}.
+Marketo Engage[的標準發行說明頁面可在此處](/help/marketo/release-notes/current.md){target="_blank"}找到。
 
 ## 2024年6月發行版本 {#june-release}
 
@@ -42,25 +42,25 @@ Marketo Engage的標準發行說明頁面 [可在此處找到](/help/marketo/rel
 
 ### 預先核准的回應程式庫 {#pre-approved-response-library}
 
-[建立行銷核准的程式庫](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} 的AI產生問題和答案，以協助在幾分鐘內設定創新型的AI聊天。
+[建立行銷核准的資料庫](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} AI產生的問題和回答，以協助在幾分鐘內設定產生式AI聊天。
 
 ![](assets/dynamic-chat-may-2024-release-1.png)
 
 ### 未回答的問題 {#unanswered-questions}
 
-[使用未回答問題的存放庫](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} 從先前的對話產生新的預先核准回應，並維護包含最新資訊的回應庫。
+[使用先前交談的未回答問題存放庫](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"}來產生新的預先核准回應，並維護包含最新資訊的回應資料庫。
 
 ![](assets/dynamic-chat-may-2024-release-2.png)
 
 ### 交談摘要 {#conversation-summaries}
 
-[給銷售代理商提供總結的交談](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} 在會議之前包含對關鍵討論主題的深入分析，以縮短準備時間，並更妥善地為銷售代理商提供最新資訊。
+[為銷售代理提供總結的交談](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"}，包括會議前的重要討論主題深入分析，以縮短準備時間，並更妥善地為銷售代理提供最新資訊。
 
 ![](assets/dynamic-chat-may-2024-release-3.png)
 
 ### GenAI銷售捷徑 {#genai-sales-shortcuts}
 
-[以更快的方式提供即時聊天代理](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} 若要存取AI產生的回應，請編輯現有的產生回應，並搜尋要在交談期間傳送給購買者的其他內容。
+[以更快的方式提供即時聊天代理程式](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"}以存取AI產生的回應、編輯現有的已產生回應，並搜尋其他內容以在交談期間傳送給購買者。
 
 ![](assets/dynamic-chat-may-2024-release-4.png)
 
@@ -80,13 +80,13 @@ Marketo Engage的標準發行說明頁面 [可在此處找到](/help/marketo/rel
 
 ### 交談流程現在可供所有使用者使用 {#conversational-flows-available-to-all-users}
 
-讓您的表單和登入頁面更具對話性，並縮短銷售漏斗，方法是讓合格的銷售機會預約會議，或在表單提交後立即與銷售人員聊天(現在已可完全使用Conversational Forms)&#42; 適用於所有Dynamic Chat使用者。
+允許合格的潛在客戶在提交表單後立即預約會議或與Sales聊天，讓您的表單和登入頁面更具對話性，並縮短銷售漏斗。Conversational Forms現在已完全可供所有Dynamic Chat使用者使用&#42;。
 
-_&#42;先前作為試用功能提供，包含100個期限參與專案。 對話式流程參與現在將計入Select套件使用者每月250個參與對話的限制。_
+_&#42;先前提供試用功能，包含100個期限參與專案。 對話流程參與現在計入Select套件上使用者250個參與對話的每月限制。_
 
 ### 回呼函式 {#callback-functions}
 
-[回呼函式](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} 可讓您在訪客參與Dynamic Chat對話時，收集外部系統(例如Adobe Analytics或Google Analytics)中的Dynamic Chat分析事件。 您可以使用API註冊回呼來監聽事件，藉此啟用Dynamic Chat分析事件。 這可讓您在與其他關鍵資料（例如網站流量）相關時，以更全面的方式檢視Dynamic Chat參與。
+[回撥函式](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"}可讓您在訪客參與Dynamic Chat對話時，收集外部系統(例如Adobe Analytics或Google Analytics)中的Dynamic Chat分析事件。 您可以使用API註冊回呼來監聽事件，藉此啟用Dynamic Chat分析事件。 這可讓您在與其他關鍵資料（例如網站流量）相關時，以更全面的方式檢視Dynamic Chat參與。
 
 ### 即時代理程式可用性條件已新增到條件式分支 {#live-agent-availability-conditional-branching}
 

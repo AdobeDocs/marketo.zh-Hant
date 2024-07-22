@@ -2,10 +2,10 @@
 description: CT-YYYY-MM-Content on Marketo登陸頁面 — Marketo檔案 — 產品檔案
 title: Marketo登陸頁面上的CT-YYYY-MM-Content
 feature: Programs
-exl-id: 11745023-a0c1-45ef-9547-6426f24e3fee
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '474'
 ht-degree: 3%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 此範例旨在作為內容程式，可利用Marketo Engage登陸頁面和Marketo Engage表單，利用Marketo Engage預設程式。 此表單用於存取內容/選件。 優惠連結可顯示在感謝頁面上、以感謝電子郵件傳送或兩者皆顯示。
 
-如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -29,14 +29,14 @@ ht-degree: 3%
   <tr> 
    <td>網頁內容</td> 
    <td>01位成員 
-<br/>02參與成功</td>
+<br/>02 — 參與 — 成功</td>
    <td>包含</td>
    <td>預設</td>
   </tr>
  </tbody> 
 </table>
 
-## 程式包含下列資產 {#program-contains-the-following-assets}
+## 程式包含下列Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -93,7 +93,7 @@ ht-degree: 3%
   <tr> 
    <td>資料夾</td> 
    <td> </td>
-   <td>資產 — 容納所有創意資產 
+   <td>Assets — 容納所有創意資產 
 <br/>(電子郵件、登陸頁面和Forms的子資料夾)  </td>
   </tr>
   <tr> 
@@ -125,7 +125,7 @@ ht-degree: 3%
    <td><code>{{my.Content-Description}}</code></td>
    <td>按兩下以取得詳細資訊  
 <br/><code><--My Content Description Here--></code> 
-<br/>在「我的Token」標籤下方的方案層級編輯此內容說明。 
+<br/>在[我的Token]索引標籤下方的方案層級編輯此內容說明。 
 <br/>您將能學習到： 
 <li>專案符號1</li>
 <li>專案符號2</li>
@@ -171,21 +171,21 @@ ht-degree: 3%
 
 ## 衝突規則 {#conflict-rules}
 
-* **計畫標籤**
-   * 在此訂閱中建立標籤 —  _建議_
+* **程式標籤**
+   * 在此訂閱中建立標籤 — _建議_
    * 忽略
 
-* **具相同名稱的登陸頁面範本**
+* **名稱相同的登入頁面範本**
    * 複製原始範本
-   * 使用目的地範本 —  _建議_
+   * 使用目的地範本 — _建議_
 
-* **具有相同名稱的影像**
+* **相同名稱的影像**
    * 保留兩個檔案
-   * 取代此訂閱中的專案 —  _建議_
+   * 取代此訂閱中的專案 — _建議_
 
 * **相同名稱的電子郵件範本**
    * 保留兩個範本
-   * 取代現有範本 —  _建議_
+   * 取代現有的範本 — _建議_
 
 ## 最佳實務 {#best-practices}
 
@@ -202,7 +202,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->別忘了啟動「02參與」行銷活動以追蹤成功！ 執行此動作 _早於_ 您的表單已上線且已傳送電子郵件。
+>別忘了啟動「02參與」行銷活動以追蹤成功！ _before_&#x200B;請執行此動作。您的表單已上線且已傳送電子郵件。
 
 >[!IMPORTANT]
 >

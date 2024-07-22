@@ -27,7 +27,7 @@ ht-degree: 0%
 * 即時活動開始 — 開始日期和時間。 您可在Marketo中檢視此內容。
 * 即時結束時間 — 完成日期和時間。 您可在Marketo中檢視此內容。
 
-您的下一個步驟是 [在Marketo中建立事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"}.
+您的下一個步驟是[在Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"}中建立事件。
 
 >[!MORELIKETHIS]
 >

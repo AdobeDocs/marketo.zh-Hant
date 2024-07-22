@@ -15,11 +15,11 @@ ht-degree: 2%
 
 誰投票支援您的投票？ 讓我們來瞭解一下。
 
-1. 在 **行銷活動**，選取投票，然後按一下 **參與者** 標籤。
+1. 在&#x200B;**行銷活動**&#x200B;中，選取投票，然後按一下&#x200B;**參與者**&#x200B;索引標籤。
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
-1. 按一下 **投票** 欄。
+1. 按一下&#x200B;**票**&#x200B;欄中的數字。
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 
@@ -29,4 +29,4 @@ ht-degree: 2%
 
    >[!MORELIKETHIS]
    >
-   >在中進一步瞭解您的應用程式的社交觸及和影響 [檢視社交績效](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   >在[檢視社交效能](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)中進一步瞭解您的應用程式的社交觸及範圍和影響。

@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 將表單欄位設為必填 {#make-a-form-field-required}
 
-時間 [新增欄位至表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) 您可能希望填寫的人需要填寫幾份。 方法如下。
+將[欄位新增至表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)時，您可能想要讓填寫這些欄位的人員需要其中一些欄位。 方法如下。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-4.png)
 
-1. 選擇您的表單並按一下 **編輯表單**.
+1. 選取您的表單並按一下&#x200B;**編輯表單**。
 
    ![](assets/editform-2.png)
 
@@ -27,16 +27,16 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. 做得很好！ 按一下 **完成**.
+1. 做得很好！ 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. 按一下 **核准並關閉**.
+1. 按一下&#x200B;**核准並關閉**。
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 
 >[!NOTE]
 >
->別忘了 [核准任何登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 此表單會持續存在，讓變更生效。
+>別忘了[核准任何登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)，此表單會繼續存在以供變更上線。
 
-您是否需要 [重新排序您新增至表單的欄位](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)？
+您需要[重新排序您新增至表單的欄位](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)嗎？

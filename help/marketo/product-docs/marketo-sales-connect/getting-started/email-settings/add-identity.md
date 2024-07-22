@@ -21,11 +21,11 @@ ht-degree: 0%
 
 1. 按一下「設定」圖示。
 
-1. 按一下 **電子郵件設定**.
+1. 按一下&#x200B;**電子郵件設定**。
 
-1. 按一下 **新增身分**.
+1. 按一下&#x200B;**新增身分**。
 
-1. 輸入您的資訊（電子郵件和名稱為必填欄位），然後按一下 **建立** 完成時。
+1. 輸入您的資訊（電子郵件和名稱為必填欄位），完成時請按一下&#x200B;**建立**。
 
 1. 按一下您收到的驗證電子郵件中的連結。
 
@@ -37,4 +37,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[新增您的電子郵件簽章](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).
+>[新增您的電子郵件簽章](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)。

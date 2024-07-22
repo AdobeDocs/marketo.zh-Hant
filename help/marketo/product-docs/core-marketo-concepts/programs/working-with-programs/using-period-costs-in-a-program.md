@@ -13,23 +13,23 @@ ht-degree: 1%
 
 # 在程式中使用期間成本 {#using-period-costs-in-a-program}
 
-A [期間成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"} 是您在方案上花費的金額。 此維度可為一或多個月，並用於回報ROI。
+[期間成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}是您在方案上花費的金額。 此維度可為一或多個月，並用於回報ROI。
 
 ## 新增期間成本  {#add-a-period-cost}
 
-1. 前往 **[!UICONTROL 設定]** 的索引標籤中。
+1. 前往您程式的&#x200B;**[!UICONTROL 設定]**&#x200B;標籤。
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. 拖放 **[!UICONTROL 期間成本]** 放入畫布中。
+1. 將&#x200B;**[!UICONTROL 期間成本]**&#x200B;拖放到畫布中。
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
-1. 按一下日曆圖示。 選取月份。 按一下 **[!UICONTROL 確定]**.
+1. 按一下日曆圖示。 選取月份。 按一下&#x200B;**[!UICONTROL 確定]**。
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. 輸入 **[!UICONTROL 期間成本]** （不含小數點或逗號）。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 輸入&#x200B;**[!UICONTROL 期間成本]** （不含小數或逗號）。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    >[!NOTE]
    >
@@ -49,11 +49,11 @@ A [期間成本](/help/marketo/product-docs/core-marketo-concepts/programs/worki
 
 1. 如果您花費的金額比原先預計的要多或少，您可以編輯期間成本。
 
-1. 前往 **[!UICONTROL 設定]** 的索引標籤中。
+1. 前往您程式的&#x200B;**[!UICONTROL 設定]**&#x200B;標籤。
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. 以右鍵按一下 **[!UICONTROL 期間成本]**. 選取 **[!UICONTROL 編輯]**.
+1. 在&#x200B;**[!UICONTROL 期間成本]**&#x200B;上按一下滑鼠右鍵。 選取&#x200B;**[!UICONTROL 編輯]**。
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
@@ -63,19 +63,19 @@ A [期間成本](/help/marketo/product-docs/core-marketo-concepts/programs/worki
 
 ## 刪除期間成本 {#delete-a-period-cost}
 
-1. 前往 **[!UICONTROL 設定]** 的索引標籤中。
+1. 前往您程式的&#x200B;**[!UICONTROL 設定]**&#x200B;標籤。
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. 以右鍵按一下 **[!UICONTROL 期間成本]**. 選取 **[!UICONTROL 刪除]**.
+1. 在&#x200B;**[!UICONTROL 期間成本]**&#x200B;上按一下滑鼠右鍵。 選取&#x200B;**[!UICONTROL 刪除]**。
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. 按一下 **[!UICONTROL 刪除]** 以確認。
+1. 按一下&#x200B;**[!UICONTROL 刪除]**&#x200B;確認。
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
 >[!MORELIKETHIS]
 >
 >* [瞭解期間成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}
->* [依期間成本篩選方案報表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}
+>* [依期間成本篩選方案報告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}

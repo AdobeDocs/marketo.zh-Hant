@@ -23,14 +23,14 @@ ht-degree: 0%
    >
    >您對報告所做的變更不會自動儲存。 因此，請務必經常儲存！
 
-1. 為報表提供描述性名稱、選取位置，然後按一下 **儲存**！
+1. 提供報表描述性名稱、選取位置，然後按一下[儲存]。****！
 
    ![](assets/image2015-3-26-13-3a30-3a33.png)
 
-   僅此而已！ 您現在可以在以下位置存取您的檔案： **瀏覽檔案**.
+   僅此而已！ 您現在可以在&#x200B;**瀏覽檔案**&#x200B;中存取您的檔案。
 
    ![](assets/image2015-3-27-11-3a32-3a51.png)
 
 >[!MORELIKETHIS]
 >
->[訂閱收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[訂閱Revenue Explorer報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

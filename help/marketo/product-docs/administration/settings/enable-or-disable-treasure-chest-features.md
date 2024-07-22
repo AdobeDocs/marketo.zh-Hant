@@ -13,25 +13,25 @@ ht-degree: 0%
 
 # 啟用或停用「寶藏箱」功能 {#enable-or-disable-treasure-chest-features}
 
-The Treasure Chest提供未完全支援的有趣實驗功能。
+The Treasure Chest提供尚未完全支援的有趣實驗功能。
 
 >[!NOTE]
 >
 >**需要管理員許可權**
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 
-1. 按一下 **[!UICONTROL 寶箱]**.
+1. 按一下&#x200B;**[!UICONTROL 寶藏箱]**。
 
    ![](assets/enable-or-disable-treasure-chest-features-2.png)
 
-1. 按一下 **[!UICONTROL 編輯]** 您想要啟用或停用的功能。
+1. 按一下您要啟用或停用功能的&#x200B;**[!UICONTROL 編輯]**。
 
    ![](assets/enable-or-disable-treasure-chest-features-3.png)
 
-1. 檢查 **[!UICONTROL 已啟用]** 核取方塊以啟用，或取消核取以停用，然後按一下 **[!UICONTROL 儲存]**.
+1. 勾選「**[!UICONTROL 已啟用]**」方塊以啟用，或取消勾選以停用，然後按一下「儲存&#x200B;**[!UICONTROL 」]**。
 
    ![](assets/enable-or-disable-treasure-chest-features-4.png)
 

@@ -21,21 +21,21 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[建立個人資料分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
+>[建立人員分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
-1. 按一下 **[!UICONTROL 工作區與分割區]**.
+1. 按一下&#x200B;**[!UICONTROL 工作區與分割區]**。
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. 在 **[!UICONTROL 人員分割]** 索引標籤，選取要編輯的人員分割區並按一下 **[!UICONTROL 編輯人員分割]**.
+1. 在&#x200B;**[!UICONTROL 個人資料分割]**&#x200B;標籤下，選取您要編輯的個人資料分割，然後按一下&#x200B;**[!UICONTROL 編輯個人資料分割]**。
 
    ![](assets/edit-an-existing-person-partition-3.png)
 
-1. 輸入人員分割 **[!UICONTROL 名稱]**，則 **[!UICONTROL 工作區]** 它們屬於，然後按一下 **[!UICONTROL 儲存]**.
+1. 輸入人員資料分割&#x200B;**[!UICONTROL 名稱]**，也就是他們所屬的&#x200B;**[!UICONTROL 工作區]**，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/edit-an-existing-person-partition-4.png)
 

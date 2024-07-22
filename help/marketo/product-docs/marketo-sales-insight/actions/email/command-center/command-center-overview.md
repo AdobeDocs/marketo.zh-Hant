@@ -5,7 +5,7 @@ exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '489'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ Command Center是單一、統一的檢視，可協助您找出下一個步驟，
  <tr>
   <td>草稿</td>
   <td>已儲存為草稿的電子郵件。<br/>
-  <strong>注意</strong>：只有單一電子郵件可以儲存為草稿。 大量電子郵件（選取和傳送電子郵件及群組電子郵件）將不會儲存為草稿。</td>
+  <strong>附註</strong>：只有單一電子郵件可以儲存為草稿。 大量電子郵件（選取和傳送電子郵件及群組電子郵件）將不會儲存為草稿。</td>
  </tr>
  <tr>
   <td>進行中</td>
@@ -60,12 +60,12 @@ Command Center是單一、統一的檢視，可協助您找出下一個步驟，
  <tr>
   <td>已退回</td>
   <td>收件者電子郵件伺服器拒絕的電子郵件。<br/>
-  <strong>注意</strong>：只有當您是舊版ToutApp使用者並有權存取MSC伺服器作為傳送通道時，才會偵測到這項動作。</td>
+  <strong>注意</strong>：只有當您是舊版ToutApp使用者，並且有權存取MSC伺服器作為傳遞通道時，才會偵測到這個問題。</td>
  </tr>
  <tr>
   <td>垃圾訊息</td>
   <td>收件者手動標籤為垃圾郵件的電子郵件。<br/>
-  <strong>注意</strong>：只有當您是舊版ToutApp使用者並有權存取MSC伺服器作為傳送通道時，才會偵測到這項動作。</td>
+  <strong>注意</strong>：只有當您是舊版ToutApp使用者，並且有權存取MSC伺服器作為傳遞通道時，才會偵測到這個問題。</td>
  </tr>
 </table>
 

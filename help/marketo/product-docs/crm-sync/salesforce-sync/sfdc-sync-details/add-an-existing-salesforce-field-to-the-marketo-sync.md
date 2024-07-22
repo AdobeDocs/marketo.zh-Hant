@@ -19,11 +19,11 @@ ht-degree: 0%
 
 通常，Salesforce中的新自訂欄位會自動同步到Marketo Engage。 如果沒有，Marketo Sync使用者可能無法看見這些欄位。 以下說明修正方法。
 
-1. 按一下您的名稱，然後選取 **[!UICONTROL 設定]**.
+1. 按一下您的名稱，然後選取&#x200B;**[!UICONTROL 設定]**。
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-1.png)
 
-1. 在左側搜尋列中輸入「profile」，然後按一下 **[!UICONTROL 設定檔]** 在 **[!UICONTROL 管理使用者]**.
+1. 在左側搜尋列中輸入「設定檔」，然後按一下&#x200B;**[!UICONTROL 管理使用者]**&#x200B;底下的&#x200B;**[!UICONTROL 設定檔]**。
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-2.png)
 
@@ -31,15 +31,15 @@ ht-degree: 0%
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-3.png)
 
-1. 在 **[!UICONTROL 欄位層級安全性]** 區段，按一下 **[!UICONTROL 檢視]** 位於包含欄位的物件旁。
+1. 在&#x200B;**[!UICONTROL 欄位層級安全性]**&#x200B;區段下，按一下包含欄位之物件旁的&#x200B;**[!UICONTROL 檢視]**。
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-4.png)
 
-1. 按一下 **[!UICONTROL 編輯]**.
+1. 按一下&#x200B;**[!UICONTROL 編輯]**。
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-5.png)
 
-1. 檢查 **[!UICONTROL 可見]** 要新增至同步處理之欄位的核取方塊，然後按一下 **[!UICONTROL 儲存]**.
+1. 勾選您要新增至同步處理之欄位的&#x200B;**[!UICONTROL 可見]**&#x200B;核取方塊，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-6.png)
 

@@ -6,8 +6,8 @@ exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 1%
+source-wordcount: '847'
+ht-degree: 0%
 
 ---
 
@@ -55,15 +55,15 @@ ht-degree: 1%
 
 >[!TIP]
 >
->「封存」資料夾是一種特殊型別的資料夾，旨在從選取的清單以及報告中移除專案。 這有助於您的系統更快速地執行。 瞭解 [關於資料夾的更多資訊](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
+>「封存」資料夾是一種特殊型別的資料夾，旨在從選取的清單以及報告中移除專案。 這有助於您的系統更快速地執行。 深入瞭解[資料夾](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}。
 
 您當然可以視需要新增更多資料夾。 請記住，公司中未來幾代行銷人員將會接受您命名或組織事情的決定。
 
 ## 命名配置 {#naming-schemes}
 
-命名非常重要，因為Marketo的功能都使用共同語言來溝通。 對於計畫，您應該為它們命名一些不重複的名稱。 **沒有兩個程式可以有相同的名稱**. 最佳實務建議使用以下格式：
+命名非常重要，因為Marketo的功能都使用共同語言來溝通。 對於計畫，您應該為它們命名一些不重複的名稱。 **沒有兩個程式可以有相同的名稱**。 最佳實務建議使用以下格式：
 
-[計畫型別的縮寫] [YYYY]-[公厘]-[可選DD] [簡要說明]
+[程式型別]的縮寫[YYYY]-[MM]-[選擇性DD] [簡短描述]
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ ht-degree: 1%
 >1. NL 2015-06電子報
 >1. WBN 2015-12-01網路研討會主題，請前往
 
-計畫名稱在您的訂閱中必須是唯一的，即使在不同名稱中也是如此 [工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  對於方案內的本機資產，規則為 **保持名稱簡單**. 只需將邀請命名為「邀請」，而非「2015年6月網路研討會邀請」。 因為這些是在程式中，當從其他位置選擇父程式時，父程式會自動成為名稱的一部分。 換言之，本機資產在程式內只需是唯一的。 您可以有數百個名為「邀請」的資產，每個資產位於不同的程式中，這樣就不會麻煩你了。
+程式名稱在您的訂閱中必須是唯一的，即使是在不同的[工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}中。  對於程式內的本機資產，規則是&#x200B;**保持名稱簡單**。 只需將邀請命名為「邀請」，而非「2015年6月網路研討會邀請」。 因為這些是在程式中，當從其他位置選擇父程式時，父程式會自動成為名稱的一部分。 換言之，本機資產在程式內只需是唯一的。 您可以有數百個名為「邀請」的資產，每個資產位於不同的程式中，這樣就不會麻煩你了。
 
 ## Token {#tokens}
 
@@ -87,7 +87,7 @@ Token會將資料夾和程式當作工具，用來設定供登陸頁面、電子
 >
 >**範例**
 >
->**您的公司地址**. 使用Token，而非每次都寫入。 如此一來，您就可以在一個位置更新它，而無需建立許多草稿。 然後視需要在較低層級的資料夾中覆寫權杖。
+>**您的公司地址**。 使用Token，而非每次都寫入。 如此一來，您就可以在一個位置更新它，而無需建立許多草稿。 然後視需要在較低層級的資料夾中覆寫權杖。
 
 ## 事件 {#events}
 
@@ -97,7 +97,7 @@ Token會將資料夾和程式當作工具，用來設定供登陸頁面、電子
 
 ## 參與計畫 {#engagement-programs}
 
-瞭解 [關於參與計畫](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. 組織參與計畫的最佳方式是使用資料夾。 為每個資料流建立一個資料夾，然後將電子郵件或程式放入該資料夾中。 內容過時且您想要移除時，請在每個資料流中加入封存資料夾。
+瞭解[參與計畫的所有資訊](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}。 組織參與計畫的最佳方式是使用資料夾。 為每個資料流建立一個資料夾，然後將電子郵件或程式放入該資料夾中。 內容過時且您想要移除時，請在每個資料流中加入封存資料夾。
 
 ## 操作程式 {#operational-programs}
 
@@ -121,4 +121,4 @@ Marketo最酷的功能之一是復製程式。 這表示您可以設定方案「
 
 ## 摘要 {#summary}
 
-如您所見，Marketo可提供強大的功能。 我們在此介紹基本內容，但考量來自的其他服務 [Marketo Engage專家](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} 進行微調並為成功做好準備。
+如您所見，Marketo可提供強大的功能。 我們在此介紹基本知識，但請考慮來自[Marketo Engage專家](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}的其他服務，以微調並設定您自己的成功計畫。

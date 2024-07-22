@@ -16,7 +16,7 @@ ht-degree: 0%
 以下是部分詳細資訊：
 
 * Marketo Engage不會因為潛在客戶已在Salesforce中刪除而自動刪除人員。 而是將「SFDC已刪除」欄位標幟設定為true。 您可以視需要觸發此欄位以在Marketo中刪除。
-* [刪除人員](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md){target="_blank"} 流量動作。 這會刪除MKTO中的人員，但您可以選取刪除 `Salesforce` 也是。
+* [刪除人員](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md){target="_blank"}流程動作。 這會刪除MKTO中的人員，但您也可以選擇刪除`Salesforce`中的人員。
 
-* [從SFDC刪除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md){target="_blank"} 流程動作：這會刪除SFDC中的銷售機會，但您也可以選擇刪除Marketo中的人員。
-* 如果潛在客戶在Salesforce中刪除(但人員並未在Marketo中刪除)，然後執行 [與Salesforce同步](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} flow動作，則會在Salesforce中建立新的銷售機會。
+* [從SFDC刪除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md){target="_blank"}流程動作：這會刪除SFDC中的銷售機會，但您也可以選擇刪除Marketo中的人員。
+* 如果在Salesforce中刪除銷售機會(但未在Marketo中刪除人員)，然後透過[與Salesforce同步](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}流程動作，則會在Salesforce中建立新的銷售機會。

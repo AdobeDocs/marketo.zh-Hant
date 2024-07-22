@@ -21,7 +21,7 @@ ht-degree: 3%
 
 ## 在程式中使用標籤 {#use-a-tag-in-a-program}
 
-1. 選取您的程式。 按一下 **設定**.
+1. 選取您的程式。 按一下&#x200B;**設定**。
 
    ![](assets/use-tags-in-a-program-1.png)
 
@@ -43,7 +43,7 @@ ht-degree: 3%
 
 ## 編輯標籤 {#edit-a-tag}
 
-1. 前往 **設定** 標籤。 以滑鼠右鍵按一下標籤。 選取 **編輯**.
+1. 前往&#x200B;**設定**&#x200B;標籤。 以滑鼠右鍵按一下標籤。 選取&#x200B;**編輯**。
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -61,11 +61,11 @@ ht-degree: 3%
 
 ## 刪除標籤  {#delete-a-tag}
 
-1. 前往 **設定** 標籤。 以滑鼠右鍵按一下標籤，然後選取 **刪除**.
+1. 前往&#x200B;**設定**&#x200B;標籤。 用滑鼠右鍵按一下標籤，然後選取&#x200B;**刪除**。
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. 按一下 **刪除** 以確認。
+1. 按一下&#x200B;**刪除**&#x200B;確認。
 
    ![](assets/use-tags-in-a-program-11.png)
 

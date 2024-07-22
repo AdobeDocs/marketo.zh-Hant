@@ -6,7 +6,7 @@ exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您有許多關鍵字，您可以 [以CSV檔案匯入](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md).
+>如果您有許多關鍵字，可以[使用CSV檔案匯入關鍵字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)。
 
-1. 前往 **[!UICONTROL 關鍵字]** 區段。
+1. 移至&#x200B;**[!UICONTROL 關鍵字]**&#x200B;區段。
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. 輸入您要鎖定的關鍵字，然後按一下 **[!UICONTROL 儲存]**.
+1. 輸入您要鎖定的關鍵字，然後按一下[儲存]。****
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 

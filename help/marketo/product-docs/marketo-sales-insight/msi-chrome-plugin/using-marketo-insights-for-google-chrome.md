@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512944
-description: 使用Marketo Insights for Google Chrome - Marketo檔案 — 產品檔案
-title: 使用Google Chrome的Marketo Insights
+description: 將Marketo Insights用於Google Chrome - Marketo檔案 — 產品檔案
+title: 針對Google Chrome使用Marketo Insights
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
 feature: Marketo Sales Insights
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 使用Google Chrome的Marketo Insights {#using-marketo-insights-for-google-chrome}
+# 針對Google Chrome使用Marketo Insights {#using-marketo-insights-for-google-chrome}
 
 使用Google Chrome的Marketo Insights傳送及追蹤任何Google電子郵件。
 
@@ -41,21 +41,21 @@ ht-degree: 0%
    >
    >或者，按一下雙箭頭以展開至全熒幕檢視。
 
-1. 如果您想要使用已發佈的Marketo範本預先填入電子郵件，請按一下 **更多選項** 並選取 **載入Marketo範本**.
+1. 如果您想要使用已發佈的Marketo範本預先填入電子郵件，請按一下&#x200B;**更多選項**，然後選取&#x200B;**載入Marketo範本**。
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. 選取 **可用的範本** 並按一下 **確定**.
+1. 選取&#x200B;**可用的範本**&#x200B;並按一下&#x200B;**確定**。
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
-1. 輸入您的內容和電子郵件地址，然後按一下 **傳送**.
+1. 輸入您的內容與電子郵件地址，然後按一下&#x200B;**傳送**。
 
    ![](assets/image2015-10-6-14-3a37-3a32.png)
 
    >[!NOTE]
    >
-   >只有當符合以下條件時才追蹤訊息： **傳送** 按鈕為紫色。
+   >只有當&#x200B;**傳送**&#x200B;按鈕為紫色時，才會追蹤訊息。
 
 1. 電子郵件很快就會出現在您的Marketo Sales Insight中，而且任何開啟和點按都受到追蹤。
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 您可以在潛在客戶的活動歷史記錄中記錄回覆和舊活動。
 
-1. 在Google Mail的預覽窗格中，按一下 **使用Marketo登入**.
+1. 在Google Mail的預覽窗格中，按一下&#x200B;**使用Marketo登入**。
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 

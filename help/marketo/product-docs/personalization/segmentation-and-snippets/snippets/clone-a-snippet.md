@@ -15,15 +15,15 @@ ht-degree: 0%
 
 復製程式碼片段以建立可依需求修改的副本。
 
-1. 前往 **Design Studio**.
+1. 移至&#x200B;**設計工作室**。
 
    ![](assets/image2014-9-16-10-3a32-3a36.png)
 
-1. 前往您的程式碼片段，然後位於 **程式碼片段動作**，按一下 **原地複製**.
+1. 移至您的程式碼片段，然後在&#x200B;**程式碼片段動作**&#x200B;底下，按一下&#x200B;**複製**。
 
    ![](assets/image2014-9-16-10-3a32-3a44.png)
 
-1. 輸入程式碼片段詳細資料，然後按一下 **原地複製**.
+1. 輸入程式碼片段詳細資料，然後按一下&#x200B;**複製**。
 
    ![](assets/image2014-9-16-10-3a32-3a53.png)
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[使用動態內容編輯代碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md)
+>[編輯具有動態內容的程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md)

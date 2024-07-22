@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/results.png)
 
-雖然這是選擇性的，但建議您選取「自動提升」核取方塊，因為這樣可為您節省大量時間。 不過，如果您想逐一瀏覽每個帳戶和 [手動新增](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts)，只要取消勾選此方塊即可。
+雖然這是選擇性的，但建議您選取「自動提升」核取方塊，因為這樣可為您節省大量時間。 不過，如果您想要檢視每個帳戶並[手動新增它們](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts)，只要不勾選此方塊即可。
 
 <table> 
  <tbody> 
@@ -40,7 +40,7 @@ ht-degree: 0%
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>帳戶 (%)</strong></td> 
+   <td><strong>帳戶(%)</strong></td> 
    <td> 
     <div>
       模型輸入中具有此排名的帳戶百分比。 
@@ -106,7 +106,7 @@ ht-degree: 0%
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>方法</strong></td> 
+   <td><strong>意圖</strong></td> 
    <td> 
     <div>
       意圖指示器。 
@@ -158,13 +158,13 @@ ht-degree: 0%
 
 ![](assets/add-icp.png)
 
-勾選「匯出」方塊可讓您在「具名帳戶詳細資訊」頁面上檢視ICP指示器，以及在中使用選取的ICP指示器作為限制 [具名帳戶篩選器](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+勾選「匯出」方塊可讓您在「具名帳戶詳細資料」頁面上檢視ICP指標，以及使用選取的ICP指標作為[具名帳戶篩選器](/help/marketo/product-docs/target-account-management/engage/account-filters.md)中的限制。
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->ICP指示器作為限制包含在 **具名帳戶的成員** 篩選器和觸發器。
+>ICP指示器已包含在&#x200B;**具名帳戶成員**&#x200B;篩選器和觸發器中，作為限制。
 
 指標權重是控制每個指標在模型中接收的重要性層級。
 
@@ -174,6 +174,6 @@ ht-degree: 0%
 
 ![](assets/refresh-button.png)
 
-當您完成模型調整（重新整理模型後），請返回「模型結果」標籤並按一下 **儲存並套用排名**.
+當您完成模型調整（重新整理後），請返回[模型結果]索引標籤，然後按一下[儲存並套用排名] **。**
 
 ![](assets/ranks.png)

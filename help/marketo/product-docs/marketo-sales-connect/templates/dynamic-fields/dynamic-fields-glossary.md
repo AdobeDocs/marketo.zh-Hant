@@ -6,16 +6,16 @@ exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
 source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
 # 動態欄位字彙表 {#dynamic-fields-glossary}
 
-在Sales Connect中建立範本時，我們一律建議使用 **mse動態欄位** 按鈕。
+在Sales Connect中建立範本時，我們一律建議使用&#x200B;**MSE動態欄位**&#x200B;按鈕來整合動態欄位。
 
-此工具用於 `auto-personalize your email` 為您節省大量時間，盡在 `pulling information from the People page`.
+此工具用來`auto-personalize your email`，並由`pulling information from the People page`為您節省大量時間。
 
 | 動態欄位 | 電子郵件中所顯示內容的範例 |
 |---|---|
@@ -33,10 +33,10 @@ ht-degree: 0%
 **注意事項**：
 
 * 如果連絡人的資訊輸入錯誤或從「人物」頁面遺失，將無法正確地提取到您的範本中。
-* 兩者之間的差異 `{{company}}` 和 `{{company_friendly}}` 就是 `{{company_friendly}}` 會從連絡人的公司名稱中移除任何正式名稱，例如Inc.、LLC等。
-* 使用時 `{{company_friendly}}`，請務必在聯絡資料中以逗號分隔Inc.或Co. 。 這是Sales Connect提取值時知道要移除哪些專案的方式。
-* 系統會自動將使用者的簽名附加到每封傳送的電子郵件中。 如果使用者搭配 `{{my_signature}}` 動態欄位，則系統會填入簽章，其中 `{{my_signature}}` 已放置動態欄位。 只是為了避免重複而在此新增。 系統將處理 `{{team_unsubscribe}}` 與啟用「全域附加取消訂閱」設定時相同。
+* `{{company}}`與`{{company_friendly}}`的差異在於`{{company_friendly}}`會從連絡人的公司名稱中移除任何正式標題，例如Inc.、LLC.等。
+* 使用`{{company_friendly}}`時，請務必在連絡人詳細資料中以逗號分隔Inc.或Co.。 這是Sales Connect提取值時知道要移除哪些專案的方式。
+* 系統會自動將使用者的簽名附加到每封傳送的電子郵件中。 如果使用者使用包含`{{my_signature}}`動態欄位的範本，則系統將填入已放置`{{my_signature}}`動態欄位的簽章。 只是為了避免重複而在此新增。 系統處理`{{team_unsubscribe}}`的方式與啟用全域附加取消訂閱設定時相同。
 
 >[!TIP]
 >
->您可以建立自己的 [自訂動態欄位](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md) 任何您想要自動提取至電子郵件中的內容
+>您可以針對您想要自動提取至電子郵件中的任何內容，建立您自己的[自訂動態欄位](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)

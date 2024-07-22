@@ -16,15 +16,15 @@ Marketo提供各種報表模組以滿足不同需求。
 
 ## 基本報告 {#basic-reporting}
 
-您可以設定 [基本報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} 在程式或Analytics區域中。 基本報表包含不同型別的現成報表，且可彈性篩選、排序和調整時間跨度。
+您可以在程式或Analytics區域中設定[基本報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}。 基本報表包含不同型別的現成報表，且可彈性篩選、排序和調整時間跨度。
 
 ## 電子郵件深入分析 {#email-insights}
 
-使用Analytics和傳送來取得 [強大的深入分析](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} 來自歷史資料的電子郵件上。
+使用Analytics和傳送功能，從歷史資料取得電子郵件[強大的深入分析](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"}。
 
 ## 效能分析 {#performance-insights}
 
-[效能分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} 涵蓋參與、管道和收入產生的管道績效和方案績效。
+[績效深入分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"}涵蓋參與、管道和收入產生的管道績效和方案績效。
 
 ## 進階BI Analytics報告 {#advanced-bi-analytics-reporting}
 

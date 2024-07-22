@@ -6,7 +6,7 @@ exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '189'
 ht-degree: 2%
 
 ---
@@ -23,12 +23,12 @@ ht-degree: 2%
 
 編輯引導式登入頁面時，如果元素在範本中標示為可編輯，則會顯示元素。 元素會有下列圖示：
 
-* ![--](assets/image2015-5-20-12-3a30-3a48.png) 影像
+* ![—](assets/image2015-5-20-12-3a30-3a48.png)影像
 * ![—](assets/image2015-5-20-12-3a31-3a33.png)Marketo表單
-* ![--](assets/image2015-5-20-12-3a41-3a21.png)文字
-* ![—](assets/image2015-5-20-12-3a42-3a47.png)視訊
+* ![—](assets/image2015-5-20-12-3a41-3a21.png)文字
+* ![—](assets/image2015-5-20-12-3a42-3a47.png)影片
 * ![—](assets/image2015-5-20-12-3a44-3a17.png)Marketo共用按鈕
-* ![—](assets/image2015-5-20-12-3a43-3a21.png)Marketo輪詢
+* ![—](assets/image2015-5-20-12-3a43-3a21.png)Marketo投票
 * ![—](assets/image2015-5-20-12-3a43-3a2.png)Marketo轉介
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo抽獎
 * ![—](assets/image2015-5-20-12-3a47-3a45.png)Marketo程式碼片段
@@ -60,4 +60,4 @@ ht-degree: 2%
 
 >[!MORELIKETHIS]
 >
->[建立引導式登陸頁面範本](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+>[建立引導式登入頁面範本](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)

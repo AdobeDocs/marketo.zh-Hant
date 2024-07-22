@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必須 [設定Facebook Lead Ads整合](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>您必須[設定Facebook銷售機會廣告整合](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)。
 
-1. 在Facebook功能編輯器中，選取行銷活動、廣告，然後按一下 **編輯**.
+1. 在Facebook Power Editor中，選取行銷活動和廣告，然後按一下&#x200B;**編輯**。
 
-1. 在 **連結**，按一下 **在動態消息中檢視** 連結。
+1. 在&#x200B;**連結**&#x200B;下，按一下&#x200B;**在新聞摘要中檢視**&#x200B;連結。
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >這只是使用深入瞭解行動號召的範例。 您的潛在客戶廣告單元呼叫動作可能會不同。
 
-1. 在案頭上填寫表單，提交您的測試銷售機會廣告單元。 按一下 **提交**.
+1. 在案頭上填寫表單，提交您的測試銷售機會廣告單元。 按一下&#x200B;**提交**。
 
    ![](assets/image2016-5-13-14-3a47-3a43.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. 這就是奇蹟發生的地方！ 一旦提交表格之後， [在Marketo中建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 做為方案的一部分，或位於使用已填寫Facebook銷售機會廣告表單篩選器的資料庫中。 插入您剛提交之表單的銷售機會廣告表單名稱。
+1. 這就是奇蹟發生的地方！ 提交表單後，[在Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中建立智慧清單，作為使用已填寫Facebook潛在客戶廣告表單篩選器的程式或資料庫的一部分。 插入您剛提交之表單的銷售機會廣告表單名稱。
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
-1. 現在按一下 **人員** 索引標籤以驗證同步是否正常運作。
+1. 現在按一下&#x200B;**人員**&#x200B;索引標籤，驗證同步是否正常運作。
 
    ![](assets/people.png)
 

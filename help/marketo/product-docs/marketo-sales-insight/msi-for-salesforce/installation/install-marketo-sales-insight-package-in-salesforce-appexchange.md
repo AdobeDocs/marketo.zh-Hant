@@ -6,7 +6,7 @@ exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -23,21 +23,21 @@ ht-degree: 0%
 >
 >Marketo Sales Insight與Salesforce Platform (Shield)加密相容。
 
-1. 前往 [Marketo Sales Insight的「AppExchange」頁面](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) 並按一下 **立即取得**.
+1. 移至Marketo Sales Insight ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)的[AppExchange頁面，然後按一下&#x200B;**立即取得**。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 
-1. 按一下 **登入AppExchange** 按鈕並使用您的Salesforce憑證登入。
+1. 按一下&#x200B;**登入AppExchange**&#x200B;按鈕，並使用您的Salesforce認證登入。
 
-1. 輸入連線的Salesforce帳戶登入，然後按一下 **在生產環境中安裝**.
+1. 輸入連線的Salesforce帳戶登入，然後按一下[在生產環境中安裝]。****
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-2.png)
 
    >[!TIP]
    >
-   >如果您想先在沙箱中測試它，請選擇 **在沙箱中安裝**.
+   >如果您想先在沙箱中測試它，請選擇&#x200B;**在沙箱中安裝**。
 
-1. 閱讀並接受條款及條件，然後按一下 **確認並安裝**.
+1. 閱讀並接受條款及條件，然後按一下&#x200B;**[確認並安裝]**。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-3.png)
 
@@ -45,31 +45,31 @@ ht-degree: 0%
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-4.png)
 
-1. 開始安裝程式後，您可能會看到下列訊息。 安裝完成後，您將會收到電子郵件。 按一下 **完成** 關閉。
+1. 開始安裝程式後，您可能會看到下列訊息。 安裝完成後，您將會收到電子郵件。 按一下&#x200B;**完成**&#x200B;以關閉。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-5.png)
 
-1. 確認 **Marketo Sales Insight** 位於已安裝的套件中。
+1. 驗證&#x200B;**Marketo Sales Insight**&#x200B;是否在安裝的套件中。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-6.png)
 
-1. 按一下 **設定** ，位於您的名稱旁。
+1. 按一下您名稱旁的&#x200B;**設定**。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-7.png)
 
-1. 搜尋「物件」，然後按 **物件** 在 **建立**.
+1. 搜尋「物件」，然後按一下&#x200B;**建立**&#x200B;下的&#x200B;**物件**。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-8.png)
 
-1. 仔細檢查 **已部署** 勾選所有Marketo銷售分析專案。
+1. 仔細檢查是否已針對所有Marketo Sales Insight專案檢查&#x200B;**已部署**。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-9.png)
 
-1. 如果未部署物件，請按一下 **編輯** 專案旁邊。
+1. 如果未部署物件，請按一下專案旁的&#x200B;**編輯**。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-10.png)
 
-1. 在 **部署狀態** 區段，選取 **已部署**，然後按一下 **儲存**.
+1. 在&#x200B;**部署狀態**&#x200B;區段下，選取&#x200B;**已部署**，然後按一下&#x200B;**儲存**。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-11.png)
 

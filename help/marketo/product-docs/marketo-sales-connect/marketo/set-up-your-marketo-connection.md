@@ -14,17 +14,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->布建MSC時，Marketo會自動將您的認證傳送至Sales Connect，並將您的執行個體連線至Marketo。 此為必要步驟 **只有在您未看到連線建立時** 布建Sales Connect執行個體後。 如果已建立連線，您會在Marketo管理設定頁面上看到您所輸入的認證。
+>布建MSC時，Marketo會自動將您的認證傳送至Sales Connect，並將您的執行個體連線至Marketo。 只有在布建Sales Connect執行個體後&#x200B;**您沒有看到已建立的連線時，才需要**&#x200B;此步驟。 如果已建立連線，您會在Marketo管理設定頁面上看到您所輸入的認證。
 
 ## 在連線Sales Connect與Marketo之前取得認證 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
 您需要在Marketo中取得一組認證。 Sales Connect管理員稍後會使用這些認證，將Marketo與Sales Connect連線。
 
-1. 在Marketo中，按一下 **管理員**.
+1. 在Marketo中，按一下&#x200B;**管理員**。
 
    ![](assets/manually-set-up-your-marketo-connection-1.png)
 
-1. 在樹狀結構中，按一下 **Sales Connect**.
+1. 在樹狀結構中，按一下&#x200B;**Sales Connect**。
 
    ![](assets/manually-set-up-your-marketo-connection-2.png)
 
@@ -38,14 +38,14 @@ ht-degree: 0%
 
 ## 將Sales Connect連線至Marketo {#connect-sales-connect-to-marketo}
 
-1. 在Sales Connect中，按一下齒輪圖示並選取 **設定**.
+1. 在Sales Connect中，按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/manually-set-up-your-marketo-connection-4.png)
 
-1. 在管理設定下，選取 **Marketo**.
+1. 在[管理設定]下，選取&#x200B;**Marketo**。
 
    ![](assets/manually-set-up-your-marketo-connection-5.png)
 
-1. 輸入Marketo管理員提供的Marketo憑證，然後按一下 **連線**.
+1. 輸入Marketo管理員提供的Marketo認證，然後按一下&#x200B;**連線**。
 
    ![](assets/manually-set-up-your-marketo-connection-6.png)

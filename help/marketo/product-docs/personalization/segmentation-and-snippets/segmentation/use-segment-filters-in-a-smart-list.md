@@ -16,11 +16,11 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [建立細分](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [建立分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 使用區段篩選器最佳化智慧列示效能。
 
-1. 在您建立的智慧清單中，搜尋單字 **區段**，拖放篩選器。
+1. 在您建立的智慧清單中，搜尋&#x200B;**區段**&#x200B;這個字，拖放篩選器。
 
    ![](assets/image2014-9-16-10-3a30-3a47.png)
 

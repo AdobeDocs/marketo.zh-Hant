@@ -17,27 +17,27 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->進一步瞭解 [活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}.
+>深入瞭解[活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}。
 
-1. 前往「人員詳細資料」頁面。 按一下 **[!UICONTROL 活動記錄]** 標籤。
+1. 前往「人員詳細資料」頁面。 按一下&#x200B;**[!UICONTROL 活動記錄]**&#x200B;標籤。
 
    ![](assets/one.png)
 
-1. 選取 **[!UICONTROL 篩選]** 下拉式清單。
+1. 選取&#x200B;**[!UICONTROL 篩選器]**&#x200B;下拉式清單。
 
    ![](assets/two-3.png)
 
 ## 建立自訂篩選器 {#creating-custom-filters}
 
-1. 按一下 **[!UICONTROL 篩選]** 下拉式清單。 選取 **[!UICONTROL 自訂]**.
+1. 按一下&#x200B;**[!UICONTROL 篩選器]**&#x200B;下拉式清單。 選取&#x200B;**[!UICONTROL 自訂]**。
 
    ![](assets/three-3.png)
 
-1. 選取篩選依據的活動。 按一下 **[!UICONTROL 另存為]**.
+1. 選取篩選依據的活動。 按一下&#x200B;**[!UICONTROL 另存新檔]**。
 
    ![](assets/image2015-4-27-22-3a55-3a43.png)
 
-1. 輸入 **[!UICONTROL 自訂篩選器名稱]**. 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 輸入&#x200B;**[!UICONTROL 自訂篩選器名稱]**。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/five-1.png)
 
@@ -47,12 +47,12 @@ ht-degree: 1%
 
 ## 參考已儲存的篩選器 {#reference-saved-filters}
 
-已儲存的篩選器可從以下位置存取： [!UICONTROL 篩選] 下拉式清單。
+儲存的篩選器可從[!UICONTROL 篩選器]下拉式清單存取。
 
-1. 按一下 **[!UICONTROL 篩選器]** 下拉式清單。 選取 **[!UICONTROL 自訂]**.
+1. 按一下&#x200B;**[!UICONTROL 篩選器]**&#x200B;下拉式清單。 選取&#x200B;**[!UICONTROL 自訂]**。
 
    ![](assets/seven-1.png)
 
-1. 按一下 **[!UICONTROL 儲存的篩選器]**. 儲存的篩選器列於下方。
+1. 按一下&#x200B;**[!UICONTROL 儲存的篩選器]**。 儲存的篩選器列於下方。
 
    ![](assets/eight.png)

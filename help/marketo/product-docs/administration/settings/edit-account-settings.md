@@ -19,18 +19,18 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/edit-account-settings-1.png)
 
-1. 選取 **[!UICONTROL 我的帳戶]**.
+1. 選取&#x200B;**[!UICONTROL 我的帳戶]**。
 
    ![](assets/edit-account-settings-2.png)
 
-1. 選取 **[!UICONTROL 編輯帳戶設定]**.
+1. 選取&#x200B;**[!UICONTROL 編輯帳戶設定]**。
 
    ![](assets/edit-account-settings-3.png)
 
-1. 進行編輯並按一下 **[!UICONTROL 儲存]**.
+1. 進行編輯並按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/edit-account-settings-4.png)

@@ -5,8 +5,8 @@ exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 7%
+source-wordcount: '527'
+ht-degree: 6%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 7%
 
 Marketo Engage使用一組欄位來擷取特定型別的行銷相關資訊。 如果您想在Veeva CRM中使用此資料，請遵循下列指示。
 
-`1.` 在連絡人物件的Veeva CRM中建立自訂欄位：分數
+`1.`在連絡人物件的Veeva CRM中建立自訂欄位：分數
 
-`2.` 如有需要，您可以建立其他欄位（請參閱下表）。
+`2.`如有需要，您可以建立其他欄位（請參閱下表）。
 
 所有這些自訂欄位都是選用欄位，不需要用來同步Marketo Engage和Veeva CRM。
 
@@ -30,11 +30,11 @@ Marketo Engage使用一組欄位來擷取特定型別的行銷相關資訊。 �
 
 請為「分數」欄位執行下列步驟以將其新增。
 
-1. 登入Veeva CRM並按一下 **[!UICONTROL 設定]**.
+1. 登入Veeva CRM並按一下&#x200B;**[!UICONTROL 設定]**。
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. 按一下 **[!UICONTROL 物件和欄位]** 並選取 **[!UICONTROL 物件管理員]**.
+1. 按一下&#x200B;**[!UICONTROL 物件與欄位]**&#x200B;並選取&#x200B;**[!UICONTROL 物件管理員]**。
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
@@ -42,11 +42,11 @@ Marketo Engage使用一組欄位來擷取特定型別的行銷相關資訊。 �
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. 按一下 **[!UICONTROL 連絡人]** 物件。
+1. 按一下&#x200B;**[!UICONTROL 連絡人]**&#x200B;物件。
 
-1. 選取 **[!UICONTROL 欄位和關係]**.
+1. 選取&#x200B;**[!UICONTROL 欄位和關係]**。
 
-1. 按一下 **[!UICONTROL 新增]**.
+1. 按一下&#x200B;**[!UICONTROL 新增]**。
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
@@ -58,7 +58,7 @@ Marketo Engage使用一組欄位來擷取特定型別的行銷相關資訊。 �
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. 輸入 **[!UICONTROL 欄位標籤]**， **[!UICONTROL 長度]**、和 **[!UICONTROL 欄位名稱]** 欄位的，如下表所示。
+1. 輸入欄位的&#x200B;**[!UICONTROL 欄位標籤]**、**[!UICONTROL 長度]**&#x200B;和&#x200B;**[!UICONTROL 欄位名稱]**，如下表所示。
 
 <table>
  <tbody>
@@ -71,7 +71,7 @@ Marketo Engage使用一組欄位來擷取特定型別的行銷相關資訊。 �
   <tr>
    <td>分數</td>
    <td>mkto71_Lead_Score</td>
-   <td>數字</td>
+   <td>數量</td>
    <td>長度10<br/>
 小數位數0</td>
   </tr>
@@ -92,7 +92,7 @@ Marketo Engage使用一組欄位來擷取特定型別的行銷相關資訊。 �
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. 指定存取設定，然後按一下 **[!UICONTROL 下一個]**.
+1. 指定存取設定，然後按一下&#x200B;**[!UICONTROL 下一步]**。
 
 1. 將所有角色設定為可見和唯讀。
 
@@ -105,9 +105,9 @@ Marketo Engage使用一組欄位來擷取特定型別的行銷相關資訊。 �
 
 1. 選擇應顯示欄位的頁面配置。
 
-1. 按一下 **[!UICONTROL 儲存並新增]** 返回並建立其他兩個自訂欄位。
+1. 按一下[儲存與新增]****，返回並建立其他兩個自訂欄位。
 
-1. 按一下 **[!UICONTROL 儲存]** 完成全部三個步驟後。
+1. 完成全部三個動作後，按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 

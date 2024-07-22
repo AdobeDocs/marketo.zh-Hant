@@ -19,16 +19,16 @@ ht-degree: 0%
 >
 >[冠軍/挑戰者：核准您的電子郵件測試](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 尋找電子郵件測試並按一下滑鼠右鍵，然後按一下 **捨棄測試**.
+1. 尋找電子郵件測試並按一下滑鼠右鍵，然後按一下&#x200B;**捨棄測試**。
 
    ![](assets/champion5.jpg)
 
-1. 按一下 **刪除** 以確認。
+1. 按一下&#x200B;**刪除**&#x200B;確認。
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   您已完成！ 如果您決定要再次設定測試，請繼續並 [新增電子郵件達人/挑戰者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).
+   您已完成！ 如果您決定要再次設定測試，請繼續[新增電子郵件冠軍/挑戰者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)。

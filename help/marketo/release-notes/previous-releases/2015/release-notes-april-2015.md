@@ -6,7 +6,7 @@ exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >此功能將於4月28日（星期二）發行。
 
-新的 [Analytics首頁](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) 啟用快速存取，以便跨可用報表型別執行臨時報表。
+新的[Analytics首頁](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)可讓您快速存取跨可用報表型別執行的臨時報表。
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## Marketo行動參與 {#marketo-mobile-engagement}
 
-**Marketo行動參與**
+**Marketo Mobile Engagement**
 
 有了Marketo Mobile Engagement，提供引人入勝的行動體驗變得輕而易舉。 建立高度個人化的行銷活動，提供引人入勝的內容，永遠不需要依賴應用程式開發團隊。 新的篩選器和觸發器可讓您透過推播通知在行動裝置頻道上接聽和回應。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 [linkedIn Lead Accelerator整合](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-將您的潛在客戶培養策略延伸至付費顯示廣告和社交廣告。 此 [廣告網路整合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) linkedIn銷售機會加速器可讓您根據任何智慧或靜態清單的成員，在LinkedIn中安全地建立對象區段。 接著，LinkedIn對象區段中的成員就可以利用一系列相關廣告來培養。
+將您的潛在客戶培養策略延伸至付費顯示廣告和社交廣告。 使用LinkedIn銷售機會加速器的[廣告網路整合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)可讓您根據任何智慧或靜態清單的成員，在LinkedIn中安全地建立對象區段。 接著，LinkedIn對象區段中的成員就可以利用一系列相關廣告來培養。
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 

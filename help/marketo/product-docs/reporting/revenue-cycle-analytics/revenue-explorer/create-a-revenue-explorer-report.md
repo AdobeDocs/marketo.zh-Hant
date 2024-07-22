@@ -21,13 +21,13 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->由於技術問題，收入週期總管中的垃圾桶資料夾已暫時隱藏。 我們目前正在進行修正，您的檔案是安全的。 請聯絡 [Adobe支援](https://nation.marketo.com/t5/support/ct-p/Support) 如果有任何檔案需要還原。
+>由於技術問題，收入週期總管中的垃圾桶資料夾已暫時隱藏。 我們目前正在進行修正，您的檔案是安全的。 如果您有任何需要還原的檔案，請聯絡[Adobe支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
-1. 前往 **收入總管** 區域。
+1. 前往&#x200B;**收入總管**&#x200B;區域。
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. 按一下 **新建** 然後選取 **報告**.
+1. 按一下&#x200B;**新建**，然後選取&#x200B;**報表**。
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 
@@ -42,4 +42,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >[新增欄位至收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->[新增自訂計量至收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
+>[新增自訂計量至Revenue Explorer報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)

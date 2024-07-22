@@ -6,7 +6,7 @@ exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 建立網站行銷活動，即時個人化您的網站內容，並在適當的時間向適當的使用者提供適當的訊息。
 
-網路行銷活動是與特定區段相關聯的自訂反應。 回應可以是您網站上的對話方塊、 [區域取代](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)， a [Widget功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) 或電子郵件警示。
+網路行銷活動是與特定區段相關聯的自訂反應。 回應可以是您網站上的對話方塊、區域取代](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的[、[Widget功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或電子郵件警示。
 
-1. 前往 **網站行銷活動**.
+1. 前往&#x200B;**網路行銷活動**。
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. 選取 **建立新的網站行銷活動**.
+1. 選取&#x200B;**建立新的網站行銷活動**。
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. 選取 **對話方塊** 網站行銷活動型別。 在編輯器中設計和新增您的創意。 按一下 **預覽** 以檢視Web促銷活動在您的網站上會如何反應。
+1. 選取&#x200B;**對話方塊**&#x200B;網頁行銷活動型別。 在編輯器中設計和新增您的創意。 按一下&#x200B;**預覽**，檢視網站行銷活動在您網站上的反應。
 
    ![](assets/new-3.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1"><strong>顯示於</strong></td> 
-   <td colspan="1">可讓您 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">自訂何時及如何</a> 您的網站行銷活動隨即顯示。</td> 
+   <td colspan="1">可讓您<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">自訂網頁行銷活動顯示的時間和方式</a>。</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>對話方塊樣式</strong></td> 
@@ -111,15 +111,15 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>RTF編輯器</strong></td> 
-   <td colspan="1"><p>RTF編輯器允許文字格式、連結和影像插入。 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">請在此閱讀詳情</a>.</p></td> 
+   <td colspan="1"><p>RTF編輯器允許文字格式、連結和影像插入。 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">在此閱讀更多資訊</a>。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>在網站上預覽</strong></td> 
-   <td colspan="1">在啟動行銷活動之前進行預覽。<br> 
+   <td colspan="1">在啟動行銷活動之前先預覽行銷活動。<br> 
     <ul> 
      <li>URL — 輸入行銷活動執行所在的範例URL，以檢視行銷活動即時效果的預覽範例。</li> 
      <li>裝置 — 透過裝置預覽行銷活動的顯示方式：案頭、行動裝置直向、行動裝置橫向、Tablet直向、直向。<br></li> 
-     <li>預覽 — 按一下 <strong>預覽 </strong>，開啟範例URL的新視窗以檢視行銷活動的反應。 </li> 
+     <li>預覽 — 按一下<strong>預覽</strong>開啟範例URL的新視窗，以檢視行銷活動的反應。 </li> 
      <li>共用 — 使用「共用」按鈕傳送電子郵件給同事，內含檢視Proxy促銷活動的連結。</li> 
     </ul></td> 
   </tr> 
@@ -128,31 +128,31 @@ ht-degree: 0%
 
 >[!TIP]
 >
->使用我們的 [內建範本](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) 或依據 [儲存您現有的行銷活動](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) 作為範本以供重複使用。
+>使用我們的[內建範本](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)或[將您現有的行銷活動](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)儲存為範本，以便重複使用，藉此加速並簡化行銷活動的建立程式。
 
 ## 編輯網站行銷活動 {#edit-a-web-campaign}
 
-1. 從 **網站行銷活動** 頁面，按一下 **編輯** 在網頁行銷活動上。
+1. 從&#x200B;**網頁行銷活動**&#x200B;頁面，按一下網頁行銷活動上的&#x200B;**編輯**。
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->為了更方便找到您想要的網頁行銷活動，請使用 [篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+>若要更輕鬆地尋找您想要的網頁行銷活動，請使用[篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
 ## 預覽網站行銷活動 {#preview-a-web-campaign}
 
-1. 從 **網站行銷活動** 頁面，按一下 **預覽** 在您想要檢視的網頁行銷活動上。
+1. 從&#x200B;**網頁行銷活動**&#x200B;頁面，在您要檢視的網頁行銷活動上按一下&#x200B;**預覽**。
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
 ## 複製網站行銷活動 {#clone-a-web-campaign}
 
-另請參閱 [複製網站行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
+請參閱[複製網站行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)。
 
 ## 刪除網站行銷活動 {#delete-a-web-campaign}
 
-1. 從 **網站行銷活動** 頁面，按一下 **刪除** 在您要刪除的網路促銷活動上。
+1. 從&#x200B;**網頁行銷活動**&#x200B;頁面，按一下您要刪除之網頁行銷活動的&#x200B;**刪除**。
 
    ![](assets/web-campaigns-1-delete-hand.png)
 

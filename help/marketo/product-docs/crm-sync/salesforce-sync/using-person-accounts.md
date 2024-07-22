@@ -37,11 +37,11 @@ ht-degree: 0%
 
 ## 我的個人帳戶資訊在Marketo Sales Insight中的哪裡顯示？ {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-與個人帳戶相關的活動會顯示在 **[!UICONTROL 帳戶]** 面板。
+與個人帳戶相關的活動會顯示在&#x200B;**[!UICONTROL 帳戶]**&#x200B;面板中。
 
 >[!NOTE]
 >
->Marketo Sales Insight的 **[!UICONTROL 新增至Marketo Campaign]** 和 **[!UICONTROL 傳送電子郵件]** 選專案前不適用於個人帳戶。
+>Marketo銷售分析的&#x200B;**[!UICONTROL 新增至Marketo行銷活動]**&#x200B;和&#x200B;**[!UICONTROL 傳送電子郵件]**&#x200B;選專案前不適用於個人帳戶。
 
 ## 如何將機會與個人帳戶建立關聯？ {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -49,4 +49,4 @@ Marketo取決於機會聯絡人角色，以決定與機會建立關聯的人員�
 
 ## 個人帳戶應使用哪個電子郵件欄位？ {#which-email-field-should-i-use-for-person-accounts}
 
-個人帳戶有兩個電子郵件欄位。 使用 **電子郵件地址** 欄位(而非 **個人電子郵件地址**)，以確保Marketo的重複資料刪除與其他電子郵件處理可正常運作。
+個人帳戶有兩個電子郵件欄位。 使用表單中的&#x200B;**電子郵件地址**&#x200B;欄位（不是&#x200B;**個人電子郵件地址**）來確保Marketo的重複資料刪除與其他電子郵件處理正常運作。

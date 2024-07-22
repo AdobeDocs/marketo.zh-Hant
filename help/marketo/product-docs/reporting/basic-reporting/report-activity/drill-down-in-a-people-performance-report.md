@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 向下追溯至「人員績效報表」，以檢視其他人員資訊。
 
-1. 按一下 **報告** 標籤以檢視任何現有的報表。
+1. 按一下「**報表**」索引標籤以檢視任何現有的報表。
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 按一下 **深入研究**.
+1. 按一下&#x200B;**向下鑽研**。
 
    ![](assets/three.png)
 
-1. 在 **深入研究** 在快顯視窗中，選取您要向下鑽研的屬性。 然後按一下 **深入研究**.
+1. 在&#x200B;**向下切入**&#x200B;快顯視窗中，選取您要向下切入的屬性。 然後按一下&#x200B;**向下鑽研**。
 
    ![](assets/four.png)
 
@@ -39,6 +39,6 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 若要儲存結果（選擇性），請按一下 **匯出** 圖示左下方。
+1. 若要儲存您的結果（選擇性），請按一下左下角的&#x200B;**匯出**&#x200B;圖示。
 
    ![](assets/six.png)

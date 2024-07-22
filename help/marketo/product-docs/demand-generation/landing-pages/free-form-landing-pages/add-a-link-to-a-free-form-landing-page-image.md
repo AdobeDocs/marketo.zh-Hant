@@ -15,17 +15,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[將影像新增至自由格式的登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
+>[新增影像至自由形式的登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 >[!NOTE]
 >
 >這僅適用於自由格式的登陸頁面。
 
-1. 選取您新增至登陸頁面的影像，並展開 **特性表。**
+1. 選取您新增至登入頁面的影像，並展開&#x200B;**屬性工作表。**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. 在「 」中輸入您的mailto連結 **連結URL**
+1. 在&#x200B;**連結URL中輸入您的mailto連結。**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 

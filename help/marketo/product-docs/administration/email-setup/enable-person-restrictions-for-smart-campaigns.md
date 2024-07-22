@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 啟用智慧行銷活動的個人限制 {#enable-person-restrictions-for-smart-campaigns}
 
-Marketo提供一項功能，可限制 _最大_ 符合Smart Campaign資格的人數。 這樣可避免不小心將整個資料庫傳送至電子郵件。
+Marketo提供的一項功能，可限制符合Smart Campaign資格的&#x200B;_上限_&#x200B;人數。 這樣可避免不小心將整個資料庫傳送至電子郵件。
 
 >[!NOTE]
 >
@@ -23,15 +23,15 @@ Marketo提供一項功能，可限制 _最大_ 符合Smart Campaign資格的人�
 >
 >這僅適用於批次行銷活動和電子郵件方案。
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
 
-1. 按一下 **[!UICONTROL Smart Campaign]**.
+1. 按一下&#x200B;**[!UICONTROL 智慧型行銷活動]**。
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-2.png)
 
-1. 按一下 **[!UICONTROL 編輯]**.
+1. 按一下&#x200B;**[!UICONTROL 編輯]**。
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-3.png)
 
@@ -39,7 +39,7 @@ Marketo提供一項功能，可限制 _最大_ 符合Smart Campaign資格的人�
    >
    >如果符合透過Smart Campaign執行資格的人數超過所設定的限制，則完全不會執行。
 
-1. 輸入限制並按一下 **[!UICONTROL 儲存]**.
+1. 輸入限制並按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-4.png)
 
@@ -49,10 +49,10 @@ Marketo提供一項功能，可限制 _最大_ 符合Smart Campaign資格的人�
 
    >[!CAUTION]
    >
-   >此限制會套用至所有Smart Campaigns，但可在行銷活動層級覆寫。 瞭解如何 [覆寫Smart Campaign中的人員限制](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+   >此限制會套用至所有Smart Campaigns，但可在行銷活動層級覆寫。 瞭解如何在Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)中[覆寫人員限制。
 
-完成! 您剛剛開啟了安全開關。
+完成！ 您剛剛開啟了安全開關。
 
 >[!MORELIKETHIS]
 >
->[覆寫智慧行銷活動中的人員限制](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
+>[在智慧行銷活動中覆寫人員限制](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)

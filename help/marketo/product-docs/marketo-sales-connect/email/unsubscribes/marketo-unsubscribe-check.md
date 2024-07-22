@@ -21,15 +21,15 @@ Marketo取消訂閱檢查會使用您團隊與Marketo的連線，防止電子郵
 
 ## 開啟 {#turning-it-on}
 
-1. 在網頁應用程式中，按一下齒輪圖示並選取 **設定**.
+1. 在網頁應用程式中，按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/one-2.png)
 
-1. 在管理設定下，按一下 **取消訂閱**.
+1. 在[管理設定]下，按一下[**取消訂閱**]。
 
    ![](assets/two-3.png)
 
-1. 按一下 **整合**.
+1. 按一下&#x200B;**整合**。
 
    ![](assets/three-3.png)
 
@@ -45,4 +45,4 @@ Marketo取消訂閱檢查……
 * 需要建立Marketo連線
 * 是全域設定
 * 封鎖從網頁應用程式、電子郵件使用者端和Salesforce傳送的電子郵件
-* 將記錄失敗的電子郵件，或防止使用者嘗試為所有工作流程傳送（電子郵件外掛程式傳送、個別傳送、銷售活動傳送、多重選取和傳送）時傳送，但 [群組電子郵件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)，即可防止電子郵件無訊息傳送
+* 將記錄失敗的電子郵件，或防止使用者嘗試傳送所有工作流程（電子郵件外掛程式傳送、個別傳送、銷售促銷活動傳送、多重選取和傳送）時進行傳送，[群組電子郵件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)除外，在此情況下，我們將防止以無訊息方式傳送電子郵件

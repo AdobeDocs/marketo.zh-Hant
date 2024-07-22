@@ -2,10 +2,10 @@
 description: OA-YYYY-MM-Online Advertising Marketo登陸頁面 — Marketo檔案 — 產品檔案
 title: OA-YYYY-MM-Online Advertising Marketo登陸頁面
 feature: Programs
-exl-id: a41b87d9-922a-4ed8-a2a4-36ef17a88ede
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: f7f17792-cc16-4a99-8683-68796770e42c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '485'
 ht-degree: 3%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 此為線上廣告追蹤程式的範例，包含具有登錄檔單的Marketo登陸頁面，且使用Marketo預設程式。 優惠連結可顯示在感謝頁面上、以感謝電子郵件傳送或兩者皆顯示。
 
-如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -27,7 +27,7 @@ ht-degree: 3%
    <th>計畫型別</th>
   </tr> 
   <tr> 
-   <td>線上廣告</td> 
+   <td>線上Advertising</td> 
    <td>01 — 成員 
 <br/>02 — 參與 — 成功</td>
    <td>包含</td>
@@ -36,7 +36,7 @@ ht-degree: 3%
  </tbody> 
 </table>
 
-## 程式包含下列資產 {#program-contains-the-following-assets}
+## 程式包含下列Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -93,7 +93,7 @@ ht-degree: 3%
   <tr> 
    <td>資料夾</td> 
    <td> </td>
-   <td>資產 — 容納所有創意資產 
+   <td>Assets — 容納所有創意資產 
 <br/>（電子郵件和登陸頁面的子資料夾）  </td>
   </tr>
   <tr> 
@@ -125,7 +125,7 @@ ht-degree: 3%
    <td><code>{{my.Content-Description}}</code></td>
    <td>按兩下以取得詳細資訊  
 <br/><code><--My Content Description Here--></code> 
-<br/>在「我的Token」標籤下方的方案層級編輯此內容說明。 
+<br/>在[我的Token]索引標籤下方的方案層級編輯此內容說明。 
 <br/>您將能學習到： 
 <li>專案符號1</li>
 <li>專案符號2</li>
@@ -173,21 +173,21 @@ ht-degree: 3%
 
 ## 衝突規則 {#conflict-rules}
 
-* **計畫標籤**
-   * 在此訂閱中建立標籤 —  _建議_
+* **程式標籤**
+   * 在此訂閱中建立標籤 — _建議_
    * 忽略
 
-* **具相同名稱的登陸頁面範本**
+* **名稱相同的登入頁面範本**
    * 複製原始範本
-   * 使用目的地範本 —  _建議_
+   * 使用目的地範本 — _建議_
 
-* **具有相同名稱的影像**
+* **相同名稱的影像**
    * 保留兩個檔案
-   * 取代此訂閱中的專案 —  _建議_
+   * 取代此訂閱中的專案 — _建議_
 
 * **相同名稱的電子郵件範本**
    * 保留兩個範本
-   * 取代現有範本 —  _建議_
+   * 取代現有的範本 — _建議_
 
 衝突規則的熒幕擷圖
 
@@ -198,7 +198,7 @@ ht-degree: 3%
 
 * 請考慮更新您匯入的程式中的範本，以使用目前品牌的範本，或更新新匯入的範本，以透過新增程式碼片段或適當的標誌/頁尾資訊來反映您的品牌。
 
-* 使用計畫標籤，依您的各種線上廣告來源篩選報表。
+* 使用程式標籤，依您各種線上Advertising來源篩選報表。
 
 * 請考慮更新此程式範例的命名慣例，以符合您的命名慣例。
 
@@ -208,7 +208,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->別忘了啟動「02 — 參與（方案成功）」行銷活動以追蹤成功！ 執行此動作 _早於_ 您的表單已上線且已傳送電子郵件。
+>別忘了啟動「02 — 參與（方案成功）」行銷活動以追蹤成功！ _before_&#x200B;請執行此動作。您的表單已上線且已傳送電子郵件。
 
 >[!IMPORTANT]
 >

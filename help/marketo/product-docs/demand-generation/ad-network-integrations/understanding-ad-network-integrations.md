@@ -36,7 +36,7 @@ ht-degree: 0%
 
    * 例如，某人搜尋、檢視及點按廣告，接著線上上填寫表單。 之後，他收到離線示範，並成為CRM商機。 廣告商正將目標鎖定於他
 
-* 重新鎖定網站訪客，使用 [網頁個人化](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}，以將它們帶回您的網站
+* 使用[網頁Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}重新鎖定網站訪客，以驅使他們回到您的網站
 
    * 依區段或垂直個人化
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 * [在Facebook中新增銷售機會至自訂對象](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
 * [在Facebook中建立自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
 * [設定Facebook離線轉換](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
-* [使用Marketo清單或智慧清單作為LinkedIn受眾區段](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
+* [使用Marketo清單或智慧清單做為LinkedIn對象區段](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
 
 |   | 對象資料 | 潛在客戶擷取 | 離線轉換 |
 |---|---|---|---|

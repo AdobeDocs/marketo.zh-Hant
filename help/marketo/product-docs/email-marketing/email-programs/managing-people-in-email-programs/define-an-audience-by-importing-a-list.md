@@ -6,8 +6,8 @@ exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '372'
-ht-degree: 1%
+source-wordcount: '374'
+ht-degree: 0%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[為電子郵件計畫建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[為電子郵件程式建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-建立電子郵件程式後，您會想要告訴程式要將電子郵件傳送給誰。 您可以透過以下方式達成此目的 [建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 或匯入清單。 以下說明如何匯入清單來達到此目的。
+建立電子郵件程式後，您會想要告訴程式要將電子郵件傳送給誰。 您可以透過[建立智慧列示](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)或匯入清單來執行此操作。 以下說明如何匯入清單來達到此目的。
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 1%
 >
 >匯入的任何日期/時間欄位都會視為中央時間。 如果您的日期/時間欄位位於不同的時區，可以使用Excel公式將其轉換為中部時間（美洲/芝加哥）。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,7 +33,7 @@ ht-degree: 1%
 
    ![](assets/importlist.png)
 
-1. 清單匯入視窗隨即開啟，按一下 **瀏覽** 並選取您要匯入的檔案。 選取人員清單後，按一下 **下一個**.
+1. 清單匯入視窗開啟，按一下&#x200B;**瀏覽**&#x200B;並選取您要匯入的檔案。 選取您的人員清單後，按一下&#x200B;**下一步**。
 
    ![](assets/importlist1.png)
 
@@ -41,7 +41,7 @@ ht-degree: 1%
    >
    >請確定此清單編碼為UTF-8、UTF-16、Shift-JIS或EUC-JP，且檔案大小不超過50MB。
 
-1. 確認檔案中的欄位已正確對應，然後按一下 **下一個**.
+1. 確認檔案中的欄位已正確對應，然後按一下&#x200B;**下一步**。
 
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
@@ -49,7 +49,7 @@ ht-degree: 1%
    >
    >Marketo將會記住未來匯入的對應！
 
-1. 輸入 **名稱** ，然後按一下 **匯入**.
+1. 輸入清單的&#x200B;**名稱**，然後按一下&#x200B;**匯入**。
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
@@ -71,7 +71,7 @@ ht-degree: 1%
 >
 >按一下數字，即可取得封鎖郵件之人員的詳細清單。
 >
->使用 ![—](assets/image2014-10-23-16-3a32-3a36-1.png) 上的按鈕 **對象** 圖磚，用來根據智慧清單條件檢視有多少人符合接收電子郵件的資格。 從「人物」號碼中減去「已封鎖」號碼，即可取得將收到電子郵件的人物總數。
+>使用&#x200B;**對象**&#x200B;圖磚上的![—](assets/image2014-10-23-16-3a32-3a36-1.png)按鈕，根據智慧清單條件檢視有多少人符合接收電子郵件的資格。 從「人物」號碼中減去「已封鎖」號碼，即可取得將收到電子郵件的人物總數。
 
 >[!TIP]
 >
@@ -81,5 +81,5 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->* [選擇現有電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [為電子郵件計畫建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [選擇現有的電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [為電子郵件程式建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)

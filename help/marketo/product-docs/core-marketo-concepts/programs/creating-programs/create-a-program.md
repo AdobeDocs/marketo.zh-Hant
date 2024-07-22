@@ -15,18 +15,18 @@ ht-degree: 0%
 
 程式是Marketo中最重要的元素之一。 您將會經常使用它們！
 
-1. 前往 **[!UICONTROL 行銷活動]**.
+1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取新方案的資料夾。 選取 **[!UICONTROL 新增]** 並按一下 **[!UICONTROL 新計畫]**.
+1. 選取新方案的資料夾。 選取&#x200B;**[!UICONTROL 新增]**，然後按一下&#x200B;**[!UICONTROL 新增程式]**。
 
    ![](assets/leadlifecycle.jpg)
 
-1. 輸入 **[!UICONTROL 名稱]**，選取 **[[!UICONTROL 頻道]](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}** ，然後按一下 **[!UICONTROL 建立]**.
+1. 輸入&#x200B;**[!UICONTROL 名稱]**，在下拉式清單中選取&#x200B;**[[!UICONTROL 管道]](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}**，然後按一下&#x200B;**[!UICONTROL 建立]**。
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
 >[!MORELIKETHIS]
 >
->[瞭解計畫](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
+>[瞭解程式](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}。

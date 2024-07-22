@@ -14,27 +14,27 @@ ht-degree: 0%
 
 以幾個簡單的步驟建立互動式網路研討會。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/create-an-interactive-webinar-1.png)
 
-1. 以滑鼠右鍵按一下所需的資料夾，然後選取 **新計畫**.
+1. 用滑鼠右鍵按一下所需的資料夾，然後選取&#x200B;**新增程式**。
 
    ![](assets/create-an-interactive-webinar-2.png)
 
-1. 為方案命名。 在計畫型別下，選擇 **事件**.
+1. 為方案命名。 在程式型別下，選取&#x200B;**事件**。
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. 按一下管道下拉式清單，然後選取任何具有 _含網路研討會的事件_ 在其「套用至」欄中。 在此範例中，我們選擇 **網路研討會**.
+1. 按一下「頻道」下拉式清單，然後選取在其「套用至」欄中具有&#x200B;_具有網路研討會_&#x200B;之事件的任何頻道。 在此範例中，我們選擇&#x200B;**網路研討會**。
 
    ![](assets/create-an-interactive-webinar-4.png)
 
    >[!NOTE]
    >
-   >若要檢視套用至哪些管道 _含網路研討會的事件_，前往 **管理員** > **標籤**. 「套用至」應為中間欄。 進一步瞭解的步驟5中的「套用至」 [本文](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+   >若要檢視哪些頻道適用於網路研討會&#x200B;_的_&#x200B;活動，請前往&#x200B;**管理員** > **標籤**。 「套用至」應為中間欄。 深入瞭解[本文](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}的步驟5中的「套用至」。
 
-1. 選擇 **互動式網路研討會** 並按一下 **下一個**.
+1. 選擇&#x200B;**互動式網路研討會**&#x200B;並按一下&#x200B;**下一步**。
 
    ![](assets/create-an-interactive-webinar-5.png)
 
@@ -54,13 +54,13 @@ ht-degree: 0%
    >
    >* 如有需要，您可在稍後階段變更網路研討會標題。
 
-1. 排程網路研討會的日期/時間，然後按一下 **建立**.
+1. 排程您的網路研討會日期/時間，然後按一下&#x200B;**建立**。
 
    ![](assets/create-an-interactive-webinar-7.png)
 
 <p>
 
-現在，是時候了 [設計您的網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+現在是[設計您的網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}的時候。
 
 >[!MORELIKETHIS]
 >

@@ -6,7 +6,7 @@ exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這僅適用於 **Marketo Sales Connect** 使用者。 如果您沒有Sales Connect但想深入瞭解，請聯絡Adobe客戶團隊（您的客戶經理）。
+>這僅適用於&#x200B;**Marketo Sales Connect**&#x200B;使用者。 如果您沒有Sales Connect但想深入瞭解，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 ## 需求 {#requirements}
 
@@ -29,8 +29,8 @@ ht-degree: 0%
 
 來自您團隊之SSO執行個體的metadata.xml應包含簽發者URL、驗證的端點以及公開金鑰。
 
-我們還需要貴公司的SSO帳戶的SSO位置為唯一網域。 例如，我們需要唯一子網域，例如 `toutapp.pingidentity.com` 或類似專案。 若沒有這類唯一識別碼，我們將無法從儀表板設定SAML。
+我們還需要貴公司的SSO帳戶的SSO位置為唯一網域。 例如，我們需要像`toutapp.pingidentity.com`或類似的唯一子網域。 若沒有這類唯一識別碼，我們將無法從儀表板設定SAML。
 
-指派URL時，單一登入和Okta不一定會提供唯一識別碼。 如果您使用Okta或單次登入，表示我們無法透過控制面板按鈕設定單次登入。 我們仍可透過以下連結上的單一登入按鈕進行設定： [網頁應用程式](https://toutapp.com/login).
+指派URL時，單一登入和Okta不一定會提供唯一識別碼。 如果您使用Okta或單次登入，表示我們無法透過控制面板按鈕設定單次登入。 我們仍可透過[網頁應用程式](https://toutapp.com/login)上的[單一登入]按鈕進行設定。
 
 取得這些資訊後，我們會與工程團隊合作，為您訂閱完成此項設定。

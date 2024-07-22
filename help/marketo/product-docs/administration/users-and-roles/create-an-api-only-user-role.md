@@ -13,25 +13,25 @@ ht-degree: 0%
 
 # 建立僅限API的使用者角色 {#create-an-api-only-user-role}
 
-Marketo如果您想要透過 [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)，最佳實務是 [將僅限API角色指派給使用者](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) 然後 [建立自訂服務以與REST API搭配使用](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). 以下說明如何建立僅限API的使用者角色。
+如果您想要透過[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)與Marketo整合，最佳實務是[將僅限API的角色指派給使用者](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)，然後[建立自訂服務以與REST API搭配使用](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)。 以下說明如何建立僅限API的使用者角色。
 
 >[!NOTE]
 >
 >**需要管理員許可權**
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/create-an-api-only-user-role-1.png)
 
-1. 按一下 **[!UICONTROL 使用者和角色]**.
+1. 按一下&#x200B;**[!UICONTROL 使用者與角色]**。
 
    ![](assets/create-an-api-only-user-role-2.png)
 
-1. 按一下 **[!UICONTROL 角色]** 標籤，然後 **[!UICONTROL 新角色]**.
+1. 按一下&#x200B;**[!UICONTROL 角色]**&#x200B;標籤，然後按一下&#x200B;**[!UICONTROL 新增角色]**。
 
    ![](assets/create-an-api-only-user-role-3.png)
 
-1. 輸入角色名稱，選取您要授予的API存取許可權，然後按一下 **[!UICONTROL 建立]**.
+1. 輸入角色名稱，選取您要提供的API存取許可權，然後按一下&#x200B;**[!UICONTROL 建立]**。
 
    ![](assets/create-an-api-only-user-role-4.png)
 
@@ -41,4 +41,4 @@ Marketo如果您想要透過 [REST API](https://experienceleague.adobe.com/en/do
 
 >[!MORELIKETHIS]
 >
->好的，做得好！ 現在，讓 [建立僅限API的使用者](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+>好的，做得好！ 現在[只建立API使用者](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)。

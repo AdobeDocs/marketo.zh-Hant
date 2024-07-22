@@ -6,7 +6,7 @@ exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 在Design Studio中建立電子郵件 {#create-an-email-in-the-design-studio}
 
-1. 前往 **Design Studio**.
+1. 移至&#x200B;**設計工作室**。
 
    ![](assets/create-an-email-1.png)
 
-1. 按一下 **新增** 下拉式清單並選取 **新電子郵件**.
+1. 按一下&#x200B;**新增**&#x200B;下拉式清單，然後選取&#x200B;**新增電子郵件**。
 
    ![](assets/create-an-email-2.png)
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
 ## 在行銷活動中建立電子郵件 {#create-an-email-in-marketing-activities}
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/create-an-email-3.png)
 
-1. 選取您要新增電子郵件的計畫，按一下 **新增** 下拉式清單並選取 **新增本機資產**.
+1. 選取您要新增電子郵件的程式，按一下&#x200B;**新增**&#x200B;下拉式清單，然後選取&#x200B;**新增本機資產**。
 
    ![](assets/create-an-email-4.png)
 
-1. 按一下 **電子郵件**.
+1. 按一下&#x200B;**電子郵件**。
 
    ![](assets/create-an-email-5.png)
 
@@ -49,19 +49,19 @@ ht-degree: 0%
 
 無論您選擇哪種方法，都會帶您前往範本選擇器。
 
-1. 為您的電子郵件命名，按一下要使用的範本，然後按一下 **建立**.
+1. 提供電子郵件名稱，按一下您要使用的範本，然後按一下[建立]。****
 
    ![](assets/create-an-email-6.png)
 
    >[!NOTE]
    >
-   >您可以從立即可用的回應式電子郵件範本集合中選擇，或是您先選取以儲存的範本 **我的範本**，並依照相同步驟執行。
+   >您可以從立即可用的回應式電子郵件範本集合中選擇，或是透過先選取&#x200B;**我的範本**，然後遵循相同步驟來儲存的範本。
 
 1. 輸入主旨列。 建議的字元限製為50。
 
    ![](assets/create-an-email-7.png)
 
-   根據您選擇的範本，您將會有不同的選項來編輯電子郵件。 對於含模組的電子郵件，請檢視 [新增模組至您的電子郵件](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+   根據您選擇的範本，您將會有不同的選項來編輯電子郵件。 對於含有模組的電子郵件，請檢視[新增模組至您的電子郵件](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)。
 
 您的電子郵件已建立，請立即編輯！
 

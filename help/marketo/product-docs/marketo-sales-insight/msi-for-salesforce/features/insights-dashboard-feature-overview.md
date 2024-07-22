@@ -6,7 +6,7 @@ exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1503'
+source-wordcount: '1525'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必須擁有最新的MSI SFDC套件和 [設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
+>您必須擁有最新的MSI SFDC套件和[組態](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)。
 
 ![](assets/insights-dashboard-feature-overview-1.png)
 
 ## 連絡人配置 {#contact-layout}
 
-**參與速度格線**
+**參與Velocity網格**
 
 * 此智慧格線包含過去90天有趣的時刻、電子郵件和網頁活動
 * 使用者可以選擇「顯示帳戶」活動，這會將所有帳戶層級的「有趣時刻」、電子郵件和網頁活動，層層化於連絡人檢視中
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 ## 潛在客戶配置 {#lead-layout}
 
-**參與速度格線**
+**參與Velocity網格**
 
 * 此智慧格線包含過去90天有趣的時刻、電子郵件和網頁活動
 * 使用者可反白標示特定的一週，以檢視該周內的活動
@@ -105,13 +105,13 @@ ht-degree: 0%
 
 ## 帳戶配置 {#account-layout}
 
-**參與速度格線**
+**參與Velocity網格**
 
 * 此智慧格線包含帳戶中所有連絡人過去90天的「有趣時刻」、「電子郵件」和「網頁活動」
 * 使用者可反白標示特定的一週，以檢視該周內的活動
 * 預設檢視：選取本週
 
-**參與向下展開與摘要**
+**參與向下鑽研與摘要**
 
 * 深入研究有趣時刻、電子郵件和網頁活動的活動卡，包括聯絡人姓名
 * 有趣時刻活動卡 — 包含訂閱選項
@@ -141,13 +141,13 @@ ht-degree: 0%
 
 ## 機會配置 {#opportunity-layout}
 
-**參與速度格線**
+**參與Velocity網格**
 
 * 此智慧格線包含過去90天中Opportunity中所有連絡人的「有趣時刻」、「電子郵件」和「網頁活動」
 * 使用者可反白標示特定的一週，以檢視該周內的活動
 * 預設檢視：選取本週
 
-**參與向下展開與摘要**
+**參與向下鑽研與摘要**
 
 * 深入研究有趣時刻、電子郵件和網頁活動的活動卡，包括聯絡人姓名
 * 有趣時刻活動卡 — 包含訂閱選項
@@ -156,7 +156,7 @@ ht-degree: 0%
 * 每週摘要列會顯示該周有趣的時刻、電子郵件和網頁活動。 每個圖示都可點按，並可用作為顯示特定活動的篩選器
 * 預設檢視：這是目前檢視的活動清單
 
-**即將推出的電子郵件行銷活動和活動** 電子郵件行銷活動標籤：
+**即將推出的電子郵件行銷活動和活動**&#x200B;電子郵件行銷活動標籤：
 
 * 包含排程在未來90天內的電子郵件方案或預設方案中的行銷活動
 * 不是特定於聯絡人/銷售機會(也就是說，行銷活動清單是在Marketo執行個體中排程的所有電子郵件行銷活動的通用清單)。 所有銷售機會、連絡人、客戶和機會面板中的行銷活動清單將相同

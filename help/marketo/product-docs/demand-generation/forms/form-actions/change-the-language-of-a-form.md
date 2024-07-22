@@ -15,19 +15,19 @@ ht-degree: 0%
 
 瞭解如何變更表單的語言。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/change-the-language-of-a-form-1.png)
 
-1. 選擇您的表單並按一下 **編輯表單**.
+1. 選取您的表單並按一下&#x200B;**編輯表單**。
 
    ![](assets/change-the-language-of-a-form-2.png)
 
-1. 按一下 **表單設定** 並選取 **設定**.
+1. 按一下&#x200B;**表單設定**&#x200B;並選取&#x200B;**設定**。
 
    ![](assets/change-the-language-of-a-form-3.png)
 
-1. 選取所需的 **表單語言**.
+1. 選取所需的&#x200B;**表單語言**。
 
    ![](assets/change-the-language-of-a-form-4.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/change-the-language-of-a-form-5.png)
 
-1. 按一下 **完成**.
+1. 按一下&#x200B;**完成**。
 
    ![](assets/change-the-language-of-a-form-6.png)
 
-1. 按一下 **核准並關閉** 以套用及儲存變更。
+1. 按一下&#x200B;**核准並關閉**&#x200B;以套用並儲存變更。
 
    ![](assets/change-the-language-of-a-form-7.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >記住 [核准登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 表單建立的草稿變更。
+   >記得要[核准表單變更所建立的登入頁面](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)草稿。
 
 您的表單現在會反映您選取的語言。
 

@@ -31,4 +31,4 @@ ht-degree: 0%
    >
    >若要選取其他訊息，請在「應用程式內訊息」欄位中刪除該訊息。 接著，應用程式內訊息連結會重新出現。 按一下並選取其他訊息。
 
-您進展順利。 結束時間 [排程傳送](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).
+您進展順利。 [排程傳送](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)的時間。

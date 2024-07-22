@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## [!UICONTROL 新增網站] {#add-a-site}
 
-1. 按一下「管理員」下拉式清單，然後選取 **[!UICONTROL 管理員]**.
+1. 按一下「管理員」下拉式清單，然後選取&#x200B;**[!UICONTROL 管理員]**。
 
    >[!NOTE]
    >
@@ -29,15 +29,15 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 按一下 **[!UICONTROL 新增網站]**.
+1. 按一下&#x200B;**[!UICONTROL 新增網站]**。
 
    ![](assets/two.png)
 
-1. 輸入 **[!UICONTROL 名稱]， [!UICONTROL 網站URL]** 並按一下 **[!UICONTROL 儲存]**.
+1. 輸入&#x200B;**[!UICONTROL 名稱]，[!UICONTROL 網站URL]**，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
    >[!TIP]
    >
-   >您也可以新增 **[!UICONTROL 部落格URL]** 若您有。
+   >您也可以新增&#x200B;**[!UICONTROL 部落格URL]** （如果您有）。
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 如果您追蹤多個網站，也可以刪除不再需要最佳化的網站。
 
-1. 按一下「管理員」下拉式清單，然後選取 **[!UICONTROL 管理員]**.
+1. 按一下「管理員」下拉式清單，然後選取&#x200B;**[!UICONTROL 管理員]**。
 
    ![](assets/one.png)
 
@@ -57,14 +57,14 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 按一下 **[!UICONTROL 刪除]**.
+1. 按一下&#x200B;**[!UICONTROL 刪除]**。
 
    ![](assets/seven.png)
 
-1. 確認您要 **[!UICONTROL 刪除]**.
+1. 確認您要&#x200B;**[!UICONTROL 刪除]**。
 
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >如果有多個網站，您只能刪除網站。 如果您只有一個，您可以選取網站並按一下 **[!UICONTROL 重設]**. 重設網站將 _刪除所有網站資料_ 並重新建立網站。
+   >如果有多個網站，您只能刪除網站。 如果您只有一個，您可以選取網站並按一下&#x200B;**[!UICONTROL 重設]**&#x200B;來執行重設。 重設網站將&#x200B;_刪除所有網站資料_&#x200B;並重新建立網站。

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo同步使用者建立任務時， **到期時間** 是要在Veeva中建立之任務的必填欄位。 如果沒有值，Marketo預設會輸入5天。
+>當Marketo同步使用者建立任務時，**在**&#x200B;到期是將在Veeva中建立任務的必要欄位。 如果沒有值，Marketo預設會輸入5天。
 
 根據預設，流程步驟將如下所示：
 
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以使用 `{{lead.tokens}}`， `{{company.tokens}}`， `{{campaign.tokens}}` 和 `{{system.tokens}}` 在「主旨」和「說明」中。 另請參閱 [流程步驟的權杖](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} 以取得更多詳細資料。
+>您可以在主旨和說明中使用`{{lead.tokens}}`、`{{company.tokens}}`、`{{campaign.tokens}}`和`{{system.tokens}}`。 如需詳細資訊，請參閱流程步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}的[權杖。

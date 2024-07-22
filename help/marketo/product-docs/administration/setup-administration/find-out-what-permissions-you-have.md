@@ -15,11 +15,11 @@ ht-degree: 0%
 
 如果您想知道Marketo中有或沒有哪些許可權，有個簡單的方法可以讓您瞭解。
 
-1. 前往 **[!UICONTROL 行銷活動]**.
+1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
 
    ![](assets/find-out-what-permissions-you-have-1.png)
 
-1. 按一下 **[!UICONTROL 完全存取]** 檢視您擁有的許可權。
+1. 按一下&#x200B;**[!UICONTROL 完全存取]**&#x200B;檢視您擁有的許可權。
 
    ![](assets/find-out-what-permissions-you-have-2.png)
 

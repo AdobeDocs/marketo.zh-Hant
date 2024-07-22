@@ -5,7 +5,7 @@ exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '478'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ Veeva CRM中的Call和Call重要訊息物件預設會同步至Marketo Engage。 
 >
 >Marketo會保留通話資料最長為通話當日起六個月。
 
-**和呼叫及呼叫關鍵訊息相關的觸發器/篩選器有哪些？**
+**與通話和通話金鑰訊息相關的觸發器/篩選器是什麼？**
 
 觸發器：
 
@@ -29,7 +29,7 @@ Veeva CRM中的Call和Call重要訊息物件預設會同步至Marketo Engage。 
 * 已更新通話
 * 已更新通話金鑰訊息
 
-篩選器:
+篩選器：
 
 * 有呼叫
 * 具有呼叫鍵訊息
@@ -150,7 +150,7 @@ Veeva CRM中的Call和Call重要訊息物件預設會同步至Marketo Engage。 
     </tr>
     <tr>
       <td>呼叫鍵訊息</td>
-      <td>反應</a>
+      <td>回應</a>
       </td>
       <td>訊息的回應挑選清單。 編輯挑選清單以變更反應值。</td>
       <td>Reaction_vod__c</td>

@@ -6,28 +6,28 @@ exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
 
 # 使用「整個電子郵件」A/B測試 {#use-whole-email-a-b-testing}
 
-您可以輕鬆對電子郵件進行A/B測試。 一個絕佳測試是 **整封電子郵件** 測試。 以下說明設定方法。
+您可以輕鬆對電子郵件進行A/B測試。 一個很好的測試是&#x200B;**整封電子郵件**&#x200B;測試。 以下說明設定方法。
 
 >[!PREREQUISITES]
 >
 >[新增A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. 在「電子郵件」圖磚下，選取您的電子郵件後，按一下 **新增A/B測試**.
+1. 在「電子郵件」方塊下，選取您的電子郵件後，按一下&#x200B;**新增A/B測試**。
 
 ![](assets/image2014-9-12-15-3a22-3a12.png)
 
-1. 新視窗隨即開啟。 按一下 **測試型別** 下拉式清單並選取 **整封電子郵件**.
+1. 新視窗隨即開啟。 按一下&#x200B;**測試型別**&#x200B;下拉式清單，然後選取&#x200B;**整封電子郵件**。
 
    ![](assets/image2014-9-12-15-3a22-3a27.png)
 
-1. 如果您有先前的測試資訊（例如主旨測試），您可以安全地按一下 **重設測試**.
+1. 如果您有先前的測試資訊（例如主旨測試），您可以安全地按一下&#x200B;**重設測試**。
 
    ![](assets/image2014-9-12-15-3a22-3a40.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-15-3a22-3a52.png)
 
-1. 按一下 **新增** 以套用電子郵件。
+1. 按一下&#x200B;**[新增**]以套用電子郵件。
 
    ![](assets/image2014-9-12-15-3a23-3a20.png)
 
@@ -47,16 +47,16 @@ ht-degree: 0%
 
    [](assets/image2014-9-12-15-3a23-3a49.png)
 
-1. 按一下 **新增** 以套用第二封電子郵件。 拖曳滑桿以選擇要接收A/B測試的對象百分比，然後按一下 **下一個**.
+1. 按一下&#x200B;**新增**&#x200B;以套用第二封電子郵件。 拖曳滑桿以選擇要接收A/B測試的對象百分比，然後按一下&#x200B;**下一步**。
 
    [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >
-   >不同的變數會傳送至所選專案的相等部分 **測試樣本大小**.
+   >不同的變數會傳送至所選&#x200B;**測試樣本大小**&#x200B;的相等部分。
 
    >[!CAUTION]
    >
-   >**建議您避免將樣本大小設為100%**. 如果您使用靜態清單，將範例大小設為100%會傳送電子郵件給對象中的每個人，而獲勝者不會獲得任何人。 如果您使用 **智慧** 清單，將樣本大小設為100%會傳送電子郵件給對象中的每個人 _屆時_. 稍後當電子郵件程式再次執行時，符合智慧清單資格的任何新使用者也將收到電子郵件，因為他們現在包含在受眾中。
+   >**建議您避免將樣本大小設定為100%**。 如果您使用靜態清單，將範例大小設為100%會傳送電子郵件給對象中的每個人，而獲勝者不會獲得任何人。 如果您使用&#x200B;**智慧**&#x200B;清單，將樣本大小設定為100%會在當時&#x200B;_將電子郵件傳送給對象_&#x200B;中的每個人。 稍後當電子郵件程式再次執行時，符合智慧清單資格的任何新使用者也將收到電子郵件，因為他們現在包含在受眾中。
 
-   好的，我們快完成了。 現在我們需要 [定義A/B測試獲勝者條件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).
+   好的，我們快完成了。 現在我們需要[定義A/B測試獲勝者條件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)。

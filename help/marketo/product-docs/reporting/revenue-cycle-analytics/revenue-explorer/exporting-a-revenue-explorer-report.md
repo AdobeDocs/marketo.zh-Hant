@@ -15,7 +15,7 @@ ht-degree: 1%
 
 您可以匯出任何收入總管報表，並與任何人共用。
 
-1. 按一下齒輪圖示，選取 **匯出** 並選取檔案格式。
+1. 按一下「齒輪」圖示，選取&#x200B;**匯出**，然後選取檔案格式。
 
    ![](assets/image2015-3-26-14-3a2-3a19.png)
 
@@ -27,7 +27,7 @@ ht-degree: 1%
    >* Excel
    >* CSV
 
-1. 選取所需的 **頁面格式** 和 **方向**，然後按一下 **匯出**.
+1. 選取所需的&#x200B;**頁面格式**&#x200B;和&#x200B;**方向**，然後按一下&#x200B;**匯出**。
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
@@ -35,4 +35,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[訂閱收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[訂閱Revenue Explorer報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

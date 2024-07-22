@@ -6,18 +6,18 @@ exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
-# SEO — 瞭解 [!UICONTROL 關鍵字] {#seo-understanding-keywords}
+# SEO — 瞭解[!UICONTROL 關鍵字] {#seo-understanding-keywords}
 
-[!UICONTROL 關鍵字] 是SEO策略的骨幹。 您的目標是位於第一頁，儘可能靠近#1取與您的業務相關的關鍵字。
+[!UICONTROL 關鍵字]是SEO策略的骨幹。 您的目標是位於第一頁，儘可能靠近#1取與您的業務相關的關鍵字。
 
-此 [!UICONTROL 關鍵字] 區段將向您展示網站達成此目標的成功程度，以及您如何棧疊至 [您的競爭對手](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
+[!UICONTROL 關鍵字]區段會向您顯示您的網站在達成此目標方面的成功程度，以及您如何棧疊最多[您的競爭對手](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)。
 
-## [!UICONTROL 關鍵字]  — 摘要檢視 {#keywords-summary-view}
+## [!UICONTROL 關鍵字] — 摘要檢視 {#keywords-summary-view}
 
 ![](assets/image2014-9-17-21-3a44-3a25.png)
 
@@ -56,13 +56,13 @@ ht-degree: 0%
 >
 >只會針對排名第1-100的關鍵字顯示資料。
 
-## [!UICONTROL 關鍵字]  — 競爭者檢視 {#keywords-competitor-view}
+## [!UICONTROL 關鍵字] — 競爭者檢視 {#keywords-competitor-view}
 
 您也可以按一下「檢視」下拉式清單並選取競爭對手，以使用相同的量度來檢視競爭對手的表現。
 
 ![](assets/image2014-9-17-21-3a44-3a45.png)
 
-太棒了！ 現在您已瞭解 [!UICONTROL 關鍵字] 區段，讓我們瞭解頁面和傳入連結。
+太棒了！ 現在您已瞭解[!UICONTROL 關鍵字]區段，接下來讓我們瞭解頁面和傳入連結。
 
 >[!MORELIKETHIS]
 >

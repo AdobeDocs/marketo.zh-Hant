@@ -15,15 +15,15 @@ ht-degree: 0%
 
 隱藏的表單欄位可以自動擷取資料，而不需要訪客的輸入。 以下是運作方式。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 選擇您的表單並按一下 **編輯表單**.
+1. 選取您的表單並按一下&#x200B;**編輯表單**。
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. 選取欄位並設定 **欄位型別** 至 **隱藏。**
+1. 選取欄位並將&#x200B;**欄位型別**&#x200B;設定為&#x200B;**隱藏。**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 
@@ -33,4 +33,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[設定隱藏表單欄位值](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
+>[設定隱藏的表單欄位值](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)

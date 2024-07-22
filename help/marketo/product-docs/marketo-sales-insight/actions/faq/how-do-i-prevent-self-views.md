@@ -26,31 +26,31 @@ Marketo銷售人員會在您的瀏覽器中儲存Cookie，以防止在從Outlook
 
 檢視的追蹤方式為在電子郵件使用者端下載不可見的小型影像畫素。 您可以停用要自動下載的影像，大幅降低Outlook中的自我檢視量。 以下是其操作步驟。
 
-1. 在Outlook中，按一下 **檔案** 功能表列中的。
+1. 在Outlook中，按一下功能表列中的&#x200B;**檔案**。
 
    ![](assets/how-do-i-prevent-self-views-1.png)
 
-1. 按一下 **選項**.
+1. 按一下&#x200B;**選項**。
 
    ![](assets/how-do-i-prevent-self-views-2.png)
 
-1. 在Outlook選項對話方塊中，按一下 **信任中心**.
+1. 在[Outlook選項]對話方塊中，按一下[信任中心] ****。
 
    ![](assets/how-do-i-prevent-self-views-3.png)
 
-1. 在Microsoft Outlook信任中心底下，按一下 **信任中心設定**.
+1. 在Microsoft Outlook信任中心底下，按一下&#x200B;**信任中心設定**。
 
    ![](assets/how-do-i-prevent-self-views-4.png)
 
-1. 按一下左側功能表中的「自動下載」 ，然後選取 **不要自動下載HTML電子郵件或RSS專案中的圖片** 核取方塊。
+1. 按一下左側功能表中的[自動下載]，然後選取[不要自動下載HTML電子郵件或RSS專案中的圖片]核取方塊&#x200B;****。
 
    ![](assets/how-do-i-prevent-self-views-5.png)
 
-1. 按一下 **確定** [信任中心]對話方塊中。
+1. 在[信任中心]對話方塊中，按一下[確定]。****
 
    ![](assets/how-do-i-prevent-self-views-6.png)
 
-1. 按一下 **確定** 在[Outlook選項]對話方塊中。
+1. 在[Outlook選項]對話方塊中，按一下[確定]。****
 
    ![](assets/how-do-i-prevent-self-views-7.png)
 
@@ -58,14 +58,14 @@ Marketo銷售人員會在您的瀏覽器中儲存Cookie，以防止在從Outlook
 
 檢視的追蹤方式為在電子郵件使用者端下載不可見的小型影像畫素。 您可以停用要自動下載的影像，大幅降低Outlook中的自我檢視量。 以下是其操作步驟。
 
-1. 在Outlook中，按一下 **Outlook** ，然後選取「 」 **偏好設定**.
+1. 在Outlook中，按一下功能表列中的&#x200B;**Outlook**，然後選取&#x200B;**偏好設定**。
 
    ![](assets/how-do-i-prevent-self-views-8.png)
 
-1. 在電子郵件底下，選擇 **閱讀**.
+1. 在電子郵件底下，選擇&#x200B;**正在讀取**。
 
    ![](assets/how-do-i-prevent-self-views-9.png)
 
-1. 在「安全性」底下，按一下 **從不** 選項按鈕。
+1. 在[安全性]下，按一下[永不&#x200B;**]選項按鈕。**
 
    ![](assets/how-do-i-prevent-self-views-10.png)

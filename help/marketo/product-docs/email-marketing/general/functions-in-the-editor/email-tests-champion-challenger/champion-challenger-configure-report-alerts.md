@@ -6,7 +6,7 @@ exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo會傳送電子郵件測試進行情況的報告。 以下是其排程方
 
 >[!PREREQUISITES]
 >
->[冠軍/挑戰者：定義冠軍標準](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+>[冠軍/挑戰者：定義冠軍條件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 1. 讓我們排程在星期五上午9點每週傳送一次報告。
 
@@ -31,11 +31,11 @@ Marketo會傳送電子郵件測試進行情況的報告。 以下是其排程方
 
    ![](assets/image2014-9-15-13-3a13-3a7.png)
 
-1. 按一下 **下一個**.
+1. 按一下&#x200B;**下一步**。
 
    ![](assets/image2014-9-15-13-3a18-3a30.png)
 
-1. 確認所有資訊正確無誤，然後按一下 **關閉**.
+1. 確認所有資訊正確無誤，然後按一下&#x200B;**關閉**。
 
    ![](assets/image2014-9-15-13-3a18-3a41.png)
 

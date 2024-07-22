@@ -6,7 +6,7 @@ exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '670'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## 用於資產 {#used-by-for-assets}
+## 用於Assets {#used-by-for-assets}
 
 我們在資產摘要頁面中新增了一個索引標籤，稱為「使用者」！
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ## 等待步驟 — 銷售機會代號和我的代號 {#wait-step-lead-token-and-my-token}
 
-在5月版本中，我們在「等待流程」步驟中新增了進階選項。 透過這些變更，您可以指定營業日、日期和時間。 在此版本中，我們新增了在等待步驟中使用權杖的功能。 例如，您可能想要使用 `{{lead.Birthday}}` 在他們的生日傳送電子郵件，或使用 `{{my.Event Date}}` 以傳送最終的網路研討會提醒。
+在5月版本中，我們在「等待流程」步驟中新增了進階選項。 透過這些變更，您可以指定營業日、日期和時間。 在此版本中，我們新增了在等待步驟中使用權杖的功能。 例如，您可能會想要使用`{{lead.Birthday}}`在他們的生日傳送電子郵件，或使用`{{my.Event Date}}`傳送最終的網路研討會提醒。
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 

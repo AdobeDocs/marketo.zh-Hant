@@ -6,7 +6,7 @@ exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Marketo行事曆檔案 {#marketo-calendar-files}
 
-建立行事曆檔案作為 **我的Token** 用於事件確認和提醒電子郵件中。 此整合行事曆檔案（例如.ics檔案）將轉譯所有權杖，包括「我的權杖」和 `{{member.webinar URL}}` Token。
+將行事曆檔案建立為&#x200B;**我的Token**，以用於事件確認和提醒電子郵件中。 此整合行事曆檔案（例如.ics檔案）將轉譯所有權杖，包括「我的權杖」和`{{member.webinar URL}}`權杖。
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 

@@ -5,7 +5,7 @@ title: 建立抽獎
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-1. 在您的程式內，選取 **新增** > **新增本機資產**.
+1. 在您的程式內，選取&#x200B;**新增** > **新增本機資產**。
 
    ![](assets/image2014-9-25-17-3a29-3a20.png)
 
-1. 在本機資產庫中，按一下 **抽獎**.
+1. 在本機資產庫中，按一下&#x200B;**抽獎**。
 
    ![](assets/image2014-9-25-17-3a29-3a31.png)
 
@@ -32,11 +32,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >為節省時間，您可以使用 **複製來源** 從現有抽獎活動複製所有設定的選項。
+   >為了節省時間，您可以使用&#x200B;**從**&#x200B;複製選項，從現有抽獎活動複製所有設定。
 
    抽獎編輯器會在新視窗中開啟。 預設設定一切正常，但您仍需設定一些詳細資訊。 我們會在後續步驟中向您說明如何操作。
 
-1. 按一下 **抽獎細節**.
+1. 按一下&#x200B;**抽獎詳細資料**。
 
    ![](assets/image2014-9-25-17-3a32-3a37.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >
    >對於每日和每週繪圖，開始和結束時間分別固定在上午12點與晚上11:59。 對於一次性工程圖，您可以選擇自己的開始和結束時間。
 
-1. 按一下 **進階選項**.
+1. 按一下&#x200B;**進階選項**。
 
    ![](assets/image2014-9-25-17-3a33-3a19.png)
 
@@ -60,19 +60,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在此畫面上，您也可以新增隱私權原則連結。 另請參閱 [將您的隱私權原則新增至社交應用程式](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >在此畫面上，您也可以新增隱私權原則連結。 請參閱[將您的隱私權原則新增至社交應用程式](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)。
 
-1. 按一下 **完成**.
+1. 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-25-17-3a34-3a2.png)
 
-1. 按一下 **核准並關閉**.
+1. 按一下&#x200B;**核准並關閉**。
 
    ![](assets/image2014-9-25-17-3a34-3a15.png)
 
    >[!TIP]
    >
-   >若要變更抽獎中的任何預設值，請按一下 **返回**. 若要儲存您的工作以供稍後使用而不核准，請按一下 **關閉**.
+   >若要變更抽獎中的預設值，請按一下&#x200B;**上一步**。 若要儲存您的工作以供稍後使用而不核准，請按一下[關閉]。****
 
 如果抽獎活動發生任何問題，系統將會在抽獎活動通過核准前，提示您解決這些問題。
 
@@ -80,4 +80,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->下一步是 [發佈您的抽獎](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)，但您可以變更抽獎的外觀和設定。 開始於 [自訂抽獎樣式](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).
+>下一步是[發佈您的抽獎](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)，但您可以變更抽獎的外觀和設定。 從[自訂您的抽獎樣式](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)開始。

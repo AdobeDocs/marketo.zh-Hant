@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ## 新增標籤至網站行銷活動 {#add-a-label-to-a-web-campaign}
 
-1. 登入Web Personalization並移至Web Campaigns區域。
+1. 登入Web Personalization並前往「網站行銷活動」區域。
 
    ![](assets/web-campaigns-hand.jpg)
 
    >[!NOTE]
    >
-   >為了更方便找到您想要的行銷活動，請使用 [篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >若要更輕鬆地尋找您想要的行銷活動，請使用[篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
 1. 選取您要使用標籤標籤的促銷活動。
 
@@ -51,4 +51,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[為區段加上標籤](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>[標籤區段](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

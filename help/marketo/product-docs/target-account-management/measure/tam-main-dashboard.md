@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ![](assets/three.png)
 
-若要檢視 [帳戶清單儀表板](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard)，按一下您選取的帳戶清單名稱……
+若要檢視[帳戶清單儀表板](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard)，請按一下您選取的帳戶清單名稱……
 
 ![](assets/four.png)
 
@@ -33,10 +33,10 @@ ht-degree: 0%
 
 ![](assets/five.png)
 
-如果您不想檢視您想要向下展開至具名帳戶的帳戶清單儀表板，請按一下 **更多詳細資料** 在其名稱下……
+如果您不想檢視您想要深入檢視具名帳戶的帳戶清單儀表板，請按一下其名稱下的&#x200B;**更多詳細資料**...
 
 ![](assets/six.png)
 
-...並檢視 [具名帳戶的深入分析](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
+...並檢視[具名帳戶的深入分析](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md)。
 
 ![](assets/seven.png)

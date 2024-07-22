@@ -31,22 +31,22 @@ ht-degree: 0%
 
    ![](assets/setting-an-event-cap-1.png)
 
-1. 在概觀中，尋找 [!UICONTROL 事件上限] 並按一下 **[!UICONTROL 未設定]**.
+1. 在概觀中，尋找[!UICONTROL 事件上限]並按一下&#x200B;**[!UICONTROL 未設定]**。
 
    ![](assets/setting-an-event-cap-2.png)
 
-1. 輸入您要報名參加活動的人數上限，然後按一下 **[!UICONTROL 下一個]**.
+1. 輸入您想註冊活動的人數上限，然後按一下[下一步] ****。
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. 按一下 [!UICONTROL 註冊頁面] 下拉式清單，並選取將當作註冊頁面的登入頁面。
+1. 按一下[!UICONTROL 註冊頁面]下拉式清單，並選取將作為註冊頁面的登陸頁面。
 
    ![](assets/setting-an-event-cap-4.png)
 
-1. 按一下 **[!UICONTROL 註冊完整頁面]** 下拉式清單，並選取將當作註冊完整頁面的登入頁面。 按一下 **[!UICONTROL 設定並啟用]** 完成時。
+1. 按一下&#x200B;**[!UICONTROL 註冊完整頁面]**&#x200B;下拉式清單，並選取將作為註冊完整頁面的登陸頁面。 完成時，按一下&#x200B;**[!UICONTROL 設定並啟用]**。
 
    ![](assets/setting-an-event-cap-5.png)
 
-   一切就緒。 如果您決定要編輯事件上限詳細資訊，請按一下旁邊的藍色文字 [!UICONTROL 事件上限].
+   一切就緒。 如果您決定要編輯事件上限詳細資料，請按一下[!UICONTROL 事件上限]旁的藍色文字。
 
    ![](assets/setting-an-event-cap-6.png)

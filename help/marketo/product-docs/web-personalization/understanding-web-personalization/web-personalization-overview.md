@@ -1,21 +1,21 @@
 ---
 unique-page-id: 3571900
-description: 網頁個人化概覽 — Marketo檔案 — 產品檔案
-title: Web Personalization概覽
+description: 網頁Personalization概觀 — Marketo檔案 — 產品檔案
+title: Web Personalization概觀
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '836'
 ht-degree: 0%
 
 ---
 
-# Web Personalization概覽 {#web-personalization-overview}
+# Web Personalization概觀 {#web-personalization-overview}
 
 ## 簡介 {#introduction}
 
-對於新的Marketo客戶，即時個人化分為四個應用程式，使用下列兩個圖磚進行存取： Web個人化和ContentAI。
+針對新的Marketo客戶，即時Personalization分為四個應用程式，使用下列兩個圖磚進行存取：Web Personalization和ContentAI。
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
@@ -23,30 +23,30 @@ ht-degree: 0%
 >
 >Web Personalization和ContentAI提供所有Marketo支援的語言版本（英文、法文、德文、日文、葡萄牙文、西班牙文）。
 
-現有客戶可繼續透過「即時個人化」圖磚存取應用程式，直到續訂為止，屆時他們將使用上述登入。
+現有客戶可繼續透過「即時Personalization」圖磚存取應用程式，直到續訂為止，此時他們將使用上述登入。
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-按一下「網頁個人化」圖磚，就會顯示「控制面板」頁面。 按一下ContentAI圖磚，即可直接前往「內容Recommendations」頁面。
+按一下「網頁Personalization」圖磚，就會顯示「控制面板」頁面。 按一下ContentAI圖磚，即可直接前往「內容Recommendations」頁面。
 
 四個應用程式為：
 
-* 網頁個人化
+* 網頁Personalization
 * 帳戶型網頁行銷
 * 網站重新目標定位
 * contentai
 
-此 **網頁個人化** 圖磚是您建立個人化網頁行銷活動的存取點。 以帳戶為基礎的網頁行銷與網頁重新目標定位。 您可以在內容分析頁面上新增內容。
+**網頁Personalization**&#x200B;圖磚是您建立個人化網頁行銷活動的存取點。 以帳戶為基礎的網頁行銷與網頁重新目標定位。 您可以在內容分析頁面上新增內容。
 
-**帳戶型網頁行銷** 與Web個人化及具名帳戶功能搭配使用。 「具名帳戶」頁面會提供有關現有客戶、參與總計和組織趨勢的圖形資訊，以及帳戶清單。 您也可以在那裡建立新的具名帳戶。
+**以帳戶為基礎的網頁行銷**&#x200B;與網頁Personalization搭配使用，並具備指定帳戶的功能。 「具名帳戶」頁面會提供有關現有客戶、參與總計和組織趨勢的圖形資訊，以及帳戶清單。 您也可以在那裡建立新的具名帳戶。
 
-**網站重新目標定位** 可讓您對細分受眾進行再行銷。 您可以設定區段，但不能在篩選器中使用具名帳戶。
+**網站重新目標定位**&#x200B;可讓您對細分對象進行再行銷。 您可以設定區段，但不能在篩選器中使用具名帳戶。
 
-**contentai** 是提供內容建議的位置。 您可以輕鬆將內容新增至內容Recommendations頁面。
+**ContentAI**&#x200B;是提供內容建議的位置。 您可以輕鬆將內容新增至內容Recommendations頁面。
 
 >[!NOTE]
 >
->若要存取以帳戶為基礎的網站行銷或網站重新目標定位，即使您沒有Web Personalization應用程式，也必須按一下「Web個人化」方塊。
+>若要存取以帳戶為基礎的網站行銷或網站重新目標定位，即使您沒有Web Personalization應用程式，也必須按一下「Web Personalization」方塊。
 
 ## 組織 {#organizations}
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>試算表圖示</strong>：圖示位於面板的右上角，會以CSV格式下載組織表格以供離線使用</p><p><strong>設定電子郵件警報</strong>：每次在選取的組織造訪網站時，都會傳送電子郵件給已登入的使用者</p><p><strong>銷售機會</strong>：開啟所選組織的銷售機會表格</p><p><strong>共用</strong>：開啟快顯視窗，透過電子郵件傳送並分享瀏覽網頁之組織的詳細資訊</p><p><strong>位置圖示</strong>：顯示所選組織的國家/地區和城市</p><p><strong>連結</strong>：Jigsaw、Whois、Linkedin、Google、Twitter會開啟新視窗，其中包含個別網頁的額外資訊，提供所選組織的額外深入分析</p><p><strong>搜尋</strong>：顯示訪客透過搜尋引擎到達時使用的關鍵字</p><p><strong>反向連結</strong>：顯示將流量反向連結至您網站的頁面之URL連結</p><p><strong>訪客</strong>：顯示瀏覽次數、所選組織檢視的頁面數及其電子郵件地址（如果他們已完成提交表單），以及上次瀏覽的時間和日期</p><p><strong>點按資料流</strong>：顯示一個表格，內含網站上的使用者活動和URL路徑以及他們造訪每個頁面的時間</p></td> 
+   <td><p><strong>試算表圖示</strong>：圖示位於面板的右上方，會以CSV格式下載「組織」表格以供離線使用</p><p><strong>設定電子郵件警示</strong>：每次在選取的組織造訪網站時，都會傳送電子郵件給登入的使用者</p><p><strong>銷售機會</strong>：開啟所選組織的銷售機會表</p><p><strong>共用</strong>：開啟快顯視窗以傳送電子郵件並共用造訪網頁之組織的詳細資料</p><p><strong>地點圖示</strong>：顯示所選組織的國家/地區和城市</p><p><strong>連結</strong>： Jigsaw、Whois、Linkedin、Google、Twitter會開啟新視窗，其中包含個別網頁的其他資訊，提供所選組織的額外深入分析</p><p><strong>搜尋</strong>：顯示訪客透過搜尋引擎到達時使用的關鍵字</p><p><strong>反向連結</strong>：顯示將流量反向連結至您網站的頁面的URL連結</p><p><strong>訪客</strong>：顯示造訪次數、所選組織檢視的頁面數及其電子郵件地址（如果他們已完成提交表單），以及上次造訪的時間和日期</p><p><strong>點按資料流</strong>：顯示網站上的使用者活動和URL路徑表格，以及使用者造訪每個頁面的時間</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 

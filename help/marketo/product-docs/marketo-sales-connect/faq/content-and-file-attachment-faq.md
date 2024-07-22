@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ## 內容和檔案附件之間有何差異？ {#what-is-the-difference-between-content-and-a-file-attachment}
 
-A **檔案附件** 就像您在一般電子郵件使用者端中使用的檔案附件。
+**檔案附件**&#x200B;就像您在一般電子郵件使用者端中使用的檔案附件。
 
-**內容** 是用來描述任何檔案(PPT、PDF、Word檔案等)的 您希望由Sales Connect追蹤的專案。
+**我們用來描述任何檔案(PPT、PDF、Word檔案等)的內容** 您希望由Sales Connect追蹤的專案。
 
 按一下該按鈕後，您就可以選擇已上傳的檔案，或上傳要追蹤的新檔案。 我們隨後會在您使用的電子郵件或範本中插入連結。
 

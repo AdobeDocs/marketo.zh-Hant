@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[新增電子郵件達人/挑戰者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[新增電子郵件冠軍/挑戰者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. 在電子郵件測試編輯器中，選取 **整封電子郵件** 在 **測試型別** 下拉式清單。
+1. 在電子郵件測試編輯器中，選取&#x200B;**測試型別**&#x200B;下拉式清單中的&#x200B;**整封電子郵件**。
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >請記住：原始電子郵件是冠軍。 挑戰者與它競爭。
 
-1. 尋找並選取 **挑戰者** 電子郵件，然後按一下 **原地複製**.
+1. 尋找並選取&#x200B;**挑戰者**&#x200B;電子郵件，然後按一下&#x200B;**複製**。
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    若要取得統計上的可信度，請確定您指派給挑戰者的百分比包含足夠的人員，讓您的測試有效。 不要被不確定的結果所愚弄。
 
-1. 按一下 **下一個**.
+1. 按一下&#x200B;**下一步**。
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[冠軍/挑戰者：定義冠軍標準](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[冠軍/挑戰者：定義冠軍條件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

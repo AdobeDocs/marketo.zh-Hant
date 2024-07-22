@@ -20,15 +20,15 @@ ht-degree: 0%
 >
 >您必須擁有管理員許可權，才能為Sales Insight Actions執行個體啟用Highspot。
 
-1. 按一下齒輪圖示並選取 **設定**.
+1. 按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/highspot-integration-1.png)
 
-1. 在 **管理員設定**，選取 **一般**.
+1. 在&#x200B;**管理設定**&#x200B;下，選取&#x200B;**一般**。
 
    ![](assets/highspot-integration-2.png)
 
-1. 捲動至 **整合** 卡片並按一下滑桿以啟用Highspot。
+1. 捲動至&#x200B;**整合**&#x200B;卡片，然後按一下滑桿以啟用Highspot。
 
    ![](assets/highspot-integration-3.png)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 從Sales Insight Actions撰寫視窗、範本編輯器和銷售活動電子郵件編輯器，存取Highspot並將內容新增至您的電子郵件。 以下是如何從撰寫視窗存取內容的步驟。
 
-1. 建立您的電子郵件草稿(有多種方式可以執行此操作，在此範例中，我們正在選取 **撰寫** （在標題中）。
+1. 建立您的電子郵件草稿（有多種方式可以達成此目的，在此範例中，我們在標題中選取&#x200B;**撰寫**）。
 
    ![](assets/highspot-integration-5.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    ![](assets/highspot-integration-6.png)
 
-1. 撰寫您的訊息。 按一下電子郵件中要插入Highspot內容的位置。 按一下箭頭下拉式清單（位於影像圖示旁）並選取 **亮點**.
+1. 撰寫您的訊息。 按一下電子郵件中要插入Highspot內容的位置。 按一下箭頭下拉式清單（位於影像圖示旁）並選取&#x200B;**亮點**。
 
    ![](assets/highspot-integration-7.png)
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    ![](assets/highspot-integration-8.png)
 
-1. 選取您需要的內容，然後按一下 **新增內容** 按鈕。
+1. 選取您想要的內容，然後按一下&#x200B;**新增內容**&#x200B;按鈕。
 
    ![](assets/highspot-integration-9.png)
 

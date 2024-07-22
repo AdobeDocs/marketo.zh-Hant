@@ -15,15 +15,15 @@ ht-degree: 0%
 
 您可以將任何報表匯出至Excel檔案，以使用其他軟體中的資料。
 
-1. 前往 **行銷活動** 區域。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. 從導覽樹狀結構中選取報表，然後按一下 **報告** 標籤。
+1. 從導覽樹狀結構選取您的報表，然後按一下「**報表**」標籤。
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. 按一下 **匯出** 按鈕。
+1. 按一下&#x200B;**匯出**&#x200B;按鈕。
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >如果下載的檔案太大，您可以 [變更報表大小](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
+   >如果下載的檔案太大，您可以[變更報表大小](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)。

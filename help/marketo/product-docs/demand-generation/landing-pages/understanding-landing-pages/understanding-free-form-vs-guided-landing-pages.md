@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 瞭解自由格式與引導式登陸頁面 {#understanding-free-form-vs-guided-landing-pages}
 
-您選擇的範本會決定您要使用的登入頁面編輯模式。 有兩種可能的路徑： [自由格式](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) 和 [已引導](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). 下方提供重要差異的快速摘要。
+您選擇的範本會決定您要使用的登入頁面編輯模式。 有兩種可能的路徑： [任意格式](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)和[引導式](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)。 下方提供重要差異的快速摘要。
 
 ## 自由格式頁面 {#free-form-pages}
 

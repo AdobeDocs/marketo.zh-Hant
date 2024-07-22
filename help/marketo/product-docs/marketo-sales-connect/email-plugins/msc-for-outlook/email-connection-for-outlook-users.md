@@ -6,7 +6,7 @@ exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -23,27 +23,27 @@ ht-degree: 0%
 
 連線到Outlook表示您將會收到回覆追蹤、存取Outlook傳遞通道、在Outlook中排程電子郵件以及傳送規範的能力。
 
-1. 在Sales Connect中，按一下齒輪圖示並選取 **設定**.
+1. 在Sales Connect中，按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/one.png)
 
-1. 在我的帳戶下，選取 **電子郵件設定**.
+1. 在「我的帳戶」底下，選取&#x200B;**電子郵件設定**。
 
    ![](assets/two.png)
 
-1. 按一下 **電子郵件連線** 標籤。
+1. 按一下「**電子郵件連線**」標籤。
 
    ![](assets/three.png)
 
-1. 按一下 **開始使用**.
+1. 按一下&#x200B;**開始使用**。
 
    ![](assets/four.png)
 
-1. 選取 **我使用Outlook傳送電子郵件** 並按一下 **下一個**.
+1. 選取&#x200B;**我使用Outlook傳送電子郵件**&#x200B;並按一下&#x200B;**下一步**。
 
    ![](assets/five-a.png)
 
-1. 選取您正在使用的Outlook版本，然後按一下 **下一個**. 在此範例中，我們選擇Outlook Online。
+1. 選取您正在使用的Outlook版本，然後按一下[下一步] ****。 在此範例中，我們選擇Outlook Online。
 
    ![](assets/six-a.png)
 
@@ -64,15 +64,15 @@ ht-degree: 0%
    >
    >Marketo目前不支援Exchange混合式帳戶。
 
-1. 按一下 **確定**.
+1. 按一下&#x200B;**確定**。
 
    ![](assets/seven-a.png)
 
-1. 如果您尚未登入Outlook，請輸入您的登入資訊，然後按一下 **下一個**. 如果您是，請選擇您要連線的帳戶，然後按一下 **下一個**. 在此範例中，我們已登入。
+1. 如果您尚未登入Outlook，請輸入您的登入資訊，然後按一下[下一步] ****。 如果是，請選擇您要連線的帳戶，然後按一下[下一步] ****。 在此範例中，我們已登入。
 
    ![](assets/eight-a.png)
 
-1. 按一下 **Accept**.
+1. 按一下&#x200B;**接受**。
 
    ![](assets/nine-a.png)
 
@@ -80,33 +80,33 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Outlook Online (Office365)會強制執行其本身的傳送限制。 [在此處瞭解更多](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+   >Outlook Online (Office365)會強制執行其本身的傳送限制。 [在這裡瞭解更多](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。
 
 ## 正在連線到Exchange On-Premise {#connecting-to-exchange-on-premise}
 
 連線到Exchange內部部署表示您將會收到回覆追蹤、存取Outlook傳遞管道、在Outlook中排程電子郵件以及傳送合規性。
 
-1. 在Sales Connect中，按一下齒輪圖示並選取 **設定**.
+1. 在Sales Connect中，按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/one.png)
 
-1. 在我的帳戶下，選取 **電子郵件設定**.
+1. 在「我的帳戶」底下，選取&#x200B;**電子郵件設定**。
 
    ![](assets/two.png)
 
-1. 按一下 **電子郵件連線** 標籤。
+1. 按一下「**電子郵件連線**」標籤。
 
    ![](assets/three.png)
 
-1. 按一下 **開始使用**.
+1. 按一下&#x200B;**開始使用**。
 
    ![](assets/four.png)
 
-1. 選取 **我使用Outlook傳送電子郵件** 並按一下 **下一個**.
+1. 選取&#x200B;**我使用Outlook傳送電子郵件**&#x200B;並按一下&#x200B;**下一步**。
 
    ![](assets/five-a.png)
 
-1. 選取您正在使用的Outlook版本，然後按一下 **下一個**. 在此範例中，我們選擇Exchange On-premise。
+1. 選取您正在使用的Outlook版本，然後按一下[下一步] ****。 在此範例中，我們選擇Exchange On-premise。
 
    ![](assets/six-b.png)
 
@@ -123,7 +123,7 @@ ht-degree: 0%
     </tbody>
    </table>
 
-1. 輸入您的認證，然後按一下 **連線**.
+1. 輸入您的認證，然後按一下&#x200B;**連線**。
 
    ![](assets/seven-b.png)
 

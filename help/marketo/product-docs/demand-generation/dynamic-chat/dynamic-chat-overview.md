@@ -16,11 +16,11 @@ Dynamic Chat可讓您運用易用的介面，將目標同時鎖定於造訪您�
 
 >[!TIP]
 >
->造訪 [此頁面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} 以檢視Dynamic Chat的教學課程影片。
+>造訪[此頁面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"}以檢視Dynamic Chat的教學課程影片。
 
 ## 整合 {#integrations}
 
-Dynamic Chat的一個重要元件，是能夠與您的Marketo訂閱原生介面。 為了善用此整合的完整功能，您首先需要啟動資料同步。 根據Marketo資料庫的大小，初始的資料可能最多需要24小時的時間。 [一次性同步](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"} 完成。
+Dynamic Chat的一個重要元件，是能夠與您的Marketo訂閱原生介面。 為了善用此整合的完整功能，您首先需要啟動資料同步。 視您的Marketo資料庫大小而定，完成初始[一次性同步](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"}最多可能需要24小時的資料。
 
 以下專案已同步：
 
@@ -30,15 +30,15 @@ Dynamic Chat的一個重要元件，是能夠與您的Marketo訂閱原生介面�
 
 ## 對話 {#dialogues}
 
-對話方塊代表單一聊天專案。 將其視為一個容器，其中包含您為網站訪客提供引人入勝的聊天對話方塊所需的所有內容。 在每個對話方塊中，您可以指定您希望對話方塊顯示的頁面、顯示的對象，以及對話方塊本身的內容和流程。 此外，您可以尋找量度，以檢視對話方塊的執行狀況。 [深入瞭解對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md){target="_blank"}.
+對話方塊代表單一聊天專案。 將其視為一個容器，其中包含您為網站訪客提供引人入勝的聊天對話方塊所需的所有內容。 在每個對話方塊中，您可以指定您希望對話方塊顯示的頁面、顯示的對象，以及對話方塊本身的內容和流程。 此外，您可以尋找量度，以檢視對話方塊的執行狀況。 [進一步瞭解對話方塊](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md){target="_blank"}。
 
 ## 設定 {#configuration}
 
-在「組態」標籤中，自訂各種對話方塊的外觀和風格。 變更字型、顏色、回應時間等！ [進一步瞭解設定](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md){target="_blank"}.
+在「組態」標籤中，自訂各種對話方塊的外觀和風格。 變更字型、顏色、回應時間等！ [進一步瞭解設定](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md){target="_blank"}。
 
 ## 行事曆 {#calendar}
 
-連線您的Outlook或Gmail行事曆，以用於聊天機器人中的約會排程。 [深入瞭解行事曆](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#connect-calendar){target="_blank"}
+連線您的Outlook或Gmail行事曆，以用於聊天機器人中的約會排程。 [進一步瞭解行事曆](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#connect-calendar){target="_blank"}
 
 ## 會議 {#meetings}
 
@@ -50,15 +50,15 @@ Dynamic Chat的一個重要元件，是能夠與您的Marketo訂閱原生介面�
 
 ## 即時聊天 {#live-chat}
 
-提供合格的網頁訪客，透過以下方式與您的銷售代表連絡： [即時交談](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
+提供合格的網頁訪客，透過[即時交談](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}與銷售代表連絡。
 
-## 對話流程 {#conversational-flow}
+## 交談流程 {#conversational-flow}
 
-[設計對話](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} 訪客根據您指定的動作（例如，填寫表單、按一下連結等）即可觸發。
+[設計訪客可以根據您指定的動作（例如，填寫表單、按一下連結等）觸發的交談](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}。
 
 ## 生成式 AI {#generative-ai}
 
-[Generative AI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} 在Adobe Dynamic Chat中，會即時處理意圖訊號、使用者偏好設定和過去行為，以便為聊天訪客產生相關的個人化訊息。
+Adobe Dynamic Chat中的[產生式AI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"}會即時處理意圖訊號、使用者偏好設定和過去行為，以便為聊天訪客產生相關的個人化訊息。
 
 ## 變更語言 {#changing-the-language}
 
@@ -66,9 +66,9 @@ Dynamic Chat的一個重要元件，是能夠與您的Marketo訂閱原生介面�
 
 >[!IMPORTANT]
 >
->在設定檔層級變更您的語言將會變更 _全部_ Experience Cloud應用程式，而不僅僅是Dynamic Chat。
+>在設定檔層級變更您的語言將會變更&#x200B;_所有_ Experience Cloud應用程式的語言，而不僅僅是Dynamic Chat。
 
-1. 在您的Experience Cloud帳戶中，按一下設定圖示並選擇 **偏好設定**.
+1. 在您的Experience Cloud帳戶中，按一下設定圖示並選擇&#x200B;**偏好設定**。
 
    ![](assets/dynamic-chat-overview-1.png)
 
@@ -76,7 +76,7 @@ Dynamic Chat的一個重要元件，是能夠與您的Marketo訂閱原生介面�
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. 選擇您的新語言（第二種語言為選用），然後按一下 **儲存**.
+1. 選擇您的新語言（第二種語言是選擇性的），然後按一下[儲存]。****
 
    ![](assets/dynamic-chat-overview-3.png)
 
@@ -88,7 +88,7 @@ Dynamic Chat的一個重要元件，是能夠與您的Marketo訂閱原生介面�
 
 ## Dynamic Chat資料保留限制 {#dynamic-chat-data-retention-limits}
 
-以下是Dynamic Chat中的部分限制/引數。 如需完整清單，請參閱Marketo Engage [產品說明頁面](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+以下是Dynamic Chat中的部分限制/引數。 如需完整清單，請參閱Marketo Engage[產品說明頁面](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}。
 
 <table>
   <th>資料類型</th>
@@ -117,4 +117,4 @@ Dynamic Chat的一個重要元件，是能夠與您的Marketo訂閱原生介面�
 
 ## 常見問題集 {#faq}
 
-請參閱 [Dynamic Chat常見問題集](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.
+請參閱[Dynamic Chat常見問題集](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}。

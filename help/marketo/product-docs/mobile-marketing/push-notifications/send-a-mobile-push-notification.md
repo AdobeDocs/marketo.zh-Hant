@@ -7,7 +7,7 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -20,19 +20,19 @@ ht-degree: 0%
 >* [建立新的Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [建立推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
-1. 前往 **行銷活動** 區域。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
-1. 選取您的智慧行銷活動並按一下 **智慧清單**.
+1. 選取您的智慧行銷活動，然後按一下&#x200B;**智慧清單**。
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
-1. 定義智慧清單，然後按一下 **流量**.
+1. 定義您的智慧清單，然後按一下&#x200B;**流量**。
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. 選取推播通知。 按一下 **排程**.
+1. 選取推播通知。 按一下&#x200B;**排程**。
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -40,11 +40,11 @@ ht-degree: 0%
    >
    >推播通知必須經過核准，才會出現在下拉式清單中。
 
-1. 按一下 **執行一次**.
+1. 按一下&#x200B;**執行一次**。
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. 選擇日期和時間。 按一下 **儲存**.
+1. 選擇日期和時間。 按一下&#x200B;**保存**。
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 

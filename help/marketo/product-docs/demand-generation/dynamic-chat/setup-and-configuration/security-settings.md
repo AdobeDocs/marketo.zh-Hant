@@ -2,10 +2,10 @@
 description: 安全性設定 — Marketo檔案 — 產品檔案
 title: 安全性設定
 feature: Dynamic Chat
-exl-id: 9d5818ab-d8ab-435e-901e-250334fe2ebf
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 68a53986-6f42-4aa2-86f6-0b2097f94963
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 如果有任何訪客具有您不希望您的代理程式與之互動（例如競爭者）的電子郵件網域，請將其電子郵件網域新增至封鎖清單。
 
-1. 選取 **啟用驗證** 滑桿以啟動封鎖清單。 最多輸入50個網域，然後按一下 **儲存**.
+1. 選取&#x200B;**啟用驗證**&#x200B;滑桿以啟用封鎖清單。 最多可輸入50個網域，然後按一下&#x200B;**儲存**。
 
    ![](assets/security-settings-2.png)
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
 新增允許的網域可確保第三方無法從您的網站刮取JavaScript並將其新增到他們自己的網站。
 
-1. 選取 **啟用驗證** 滑桿以啟動您的允許清單。 輸入允許的網域，然後按一下 **儲存**.
+1. 選取&#x200B;**啟用驗證**&#x200B;滑桿以啟用您的允許清單。 輸入允許的網域，然後按一下&#x200B;**儲存**。
 
    ![](assets/security-settings-3.png)

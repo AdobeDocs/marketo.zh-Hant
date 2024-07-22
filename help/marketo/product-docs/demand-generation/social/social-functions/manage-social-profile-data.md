@@ -13,7 +13,7 @@ ht-degree: 5%
 
 # 管理社交設定檔資料 {#manage-social-profile-data}
 
-有人與Marketo互動時 [社交應用程式](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)，或授權其社交網路使用預先填入Marketo表單 [社交表單填寫](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)，Marketo會擷取其社交設定檔中的所有可用資料。 您可以在 [個人詳細資訊頁面](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)，或將其新增為中的欄 [智慧清單的自訂檢視](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+當有人與Marketo [社交應用程式](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)互動，或授權其社交網路使用[社交表單填寫](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)預先填寫Marketo表單時，Marketo會擷取其社交設定檔中的所有可用資料。 您可以在[個人詳細資料頁面](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)上檢視此資訊，或將其新增為智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)的[自訂檢視中的資料行。
 
 社交表單填寫和社交應用程式擷取略微不同的欄位集；請參閱以下每個欄位的區段。
 
@@ -56,7 +56,7 @@ ht-degree: 5%
 
 >[!CAUTION]
 >
->社交表單填入所擷取的資料會覆寫相符的欄位，除非您 [封鎖表單層級這些欄位的更新](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
+>社交表單填入所擷取的資料會覆寫相符的欄位，除非您[封鎖表單層級](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md)這些欄位的更新。
 
 ## 從Twitter： {#from-twitter-1}
 
@@ -75,8 +75,8 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->社交表單填寫會擷取電子郵件地址 _僅限_ 如果人員以表單輸入。 如果您需要電子郵件地址，請 [將其設為表單中的必填欄位](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
+>社交表單填入僅擷取電子郵件地址&#x200B;__ （如果有人在表單中輸入）。 如果您需要電子郵件地址，您應該[在表單中將其設為必要欄位](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)。
 
 >[!MORELIKETHIS]
 >
->若要從表單擷取此資訊，請啟用 [社交表單填寫](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md).
+>若要從表單擷取此資訊，請啟用[社交表單填入](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)。

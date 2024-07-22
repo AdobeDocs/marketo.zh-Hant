@@ -17,18 +17,18 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-如果您不再需要使用某個欄位，您可能會想要移除過去建立的欄位。 很遺憾，您無法刪除Marketo中的欄位，但您 _可以_ 在使用者介面中隱藏它們。
+如果您不再需要使用某個欄位，您可能會想要移除過去建立的欄位。 很遺憾，您無法刪除Marketo中的欄位，但您可以&#x200B;_在使用者介面中_&#x200B;隱藏它們。
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/delete-a-custom-field-in-marketo-1.png)
 
-1. 按一下 **[!UICONTROL 欄位管理]**.
+1. 按一下&#x200B;**[!UICONTROL 欄位管理]**。
 
    ![](assets/delete-a-custom-field-in-marketo-2.png)
 
-1. 按一下 **[!UICONTROL 欄位動作]** 下拉式清單並選取 **[!UICONTROL 隱藏欄位]**.
+1. 按一下&#x200B;**[!UICONTROL 欄位動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 隱藏欄位]**。
 
    ![](assets/delete-a-custom-field-in-marketo-3.png)
 
-   如需詳細逐步指示，請參閱 [隱藏和取消隱藏欄位](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md).
+   如需詳細的逐步指示，請參閱[隱藏和取消隱藏欄位](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)。

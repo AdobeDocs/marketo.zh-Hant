@@ -6,7 +6,7 @@ exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 ## 安裝 {#installation}
 
-1. 在Sales Connect中，按一下右上方的齒輪圖示並選取 **設定**.
+1. 在Sales Connect中，按一下右上方的齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/one-4.png)
 
-1. 在管理設定下，按一下 **Salesforce**.
+1. 在[管理設定]下，按一下&#x200B;**Salesforce**。
 
    ![](assets/two-4.png)
 
@@ -34,17 +34,17 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果您已連線，則會看到綠色的「安裝」按鈕。 **不要** 按一下此按鈕，改為繼續執行步驟4。
+   >如果您已連線，則會看到綠色的「安裝」按鈕。 **不要**&#x200B;按一下此按鈕，請改為繼續執行步驟4。
 
-1. 登入您連線的Salesforce帳戶，然後按一下 [此連結](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
+1. 登入您連線的Salesforce帳戶，然後按一下[此連結](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ)。
 1. 您將會被送到Sales Connect安裝頁面。
 
    ![](assets/install-package.png)
 
 1. 選擇您要安裝自訂的使用者：僅限管理員、所有使用者或特定設定檔。
-1. 按一下 **安裝** 按鈕以安裝自訂。
+1. 按一下&#x200B;**安裝**&#x200B;按鈕以安裝自訂。
 1. 若要確認安裝成功，請登入您的Salesforce帳戶。
-1. 按一下 **設定**，在搜尋列中搜尋「已安裝的套件」，然後按一下 **已安裝的封裝**.
+1. 按一下&#x200B;**安裝程式**，在搜尋列中搜尋「已安裝的封裝」，然後按一下&#x200B;**已安裝的封裝**。
 
    您會在該處看到Marketo Sales Connect自訂。
 

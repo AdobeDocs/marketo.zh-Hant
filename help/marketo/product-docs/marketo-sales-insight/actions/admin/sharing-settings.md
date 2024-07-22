@@ -5,7 +5,7 @@ exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 ## 設定您的共用設定 {#configure-your-sharing-settings}
 
-1. 在 [網頁應用程式](https://toutapp.com/login)，按一下齒輪圖示並選取 **設定**.
+1. 在[網頁應用程式](https://toutapp.com/login)中，按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/sharing-settings-1.png)
 
-1. 在管理設定下，選取 **共用存取權**.
+1. 在[管理設定]下，選取&#x200B;**共用存取權**。
 
    ![](assets/sharing-settings-2.png)
 
-1. 確定 **共用設定** 已啟用。 這表示在預設情況下，只有管理員可以在您的範本類別中共用範本。
+1. 確定已啟用&#x200B;**共用設定**。 這表示在預設情況下，只有管理員可以在您的範本類別中共用範本。
 
    ![](assets/sharing-settings-3.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/sharing-settings-4.png)
 
-1. 按一下 **新增團隊以存取**.
+1. 按一下&#x200B;**新增團隊以存取**。
 
    ![](assets/sharing-settings-5.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >
    >如果您沒有看到任何團隊，則需要前往「團隊管理」並建立使用者團隊。
 
-1. 按一下 **新增團隊以存取** 以儲存。
+1. 按一下&#x200B;**新增團隊以存取**。
 
    ![](assets/sharing-settings-7.png)
 

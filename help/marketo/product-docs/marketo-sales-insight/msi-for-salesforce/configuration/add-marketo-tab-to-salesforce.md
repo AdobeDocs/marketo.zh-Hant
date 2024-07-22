@@ -12,15 +12,15 @@ ht-degree: 0%
 
 # 將Marketo標籤新增至Salesforce {#add-marketo-tab-to-salesforce}
 
-1. 在Salesforce中，按一下 **+** 並按一下 **自訂我的標籤**.
+1. 在Salesforce中，按一下&#x200B;**+**，然後按一下&#x200B;**自訂我的標籤**。
 
    ![](assets/add-marketo-tab-to-salesforce-1.png)
 
-1. 在左側清單中選取Marketo 。 然後按一下 **新增** 將其新增至 **選取的標籤**.
+1. 在左側清單中選取Marketo 。 然後按一下[新增]****，將其新增至&#x200B;**選取的索引標籤**。
 
    >[!TIP]
    >
-   >使用 **上** 和 **向下** 箭頭可重新排序標籤。
+   >使用&#x200B;**向上**&#x200B;和&#x200B;**向下**&#x200B;箭號來重新排序您的標籤。
 
    ![](assets/add-marketo-tab-to-salesforce-2.png)
 

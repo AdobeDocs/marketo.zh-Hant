@@ -6,7 +6,7 @@ exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以從方案排程檢視內建置電子郵件方案。 方法如下。
 
-1. 前往 **[!UICONTROL 行銷活動]**.
+1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. 輸入名稱。 選取 **[!UICONTROL 電子郵件程式]**.
+1. 輸入名稱。 選取&#x200B;**[!UICONTROL 電子郵件程式]**。
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,8 +35,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [設定您的電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"} 並按一下 **[!UICONTROL 核准計畫]**.
+1. [設定您的電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"}並按一下&#x200B;**[!UICONTROL 核准程式]**。
 
    ![](assets/learnaboutthespeaker.png)
 
-   除了詳細的儀表板以外，使用 [電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"} instead of a smart campaign is the ability to easily implement an [A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}. 祝您使用愉快！
+   除了詳細儀表板，使用[電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}而非智慧行銷活動的優點在於能夠輕鬆實作[A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}。 祝您使用愉快！

@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 2%
 
 ## 如何存取進階搜尋 {#how-to-access-advanced-search}
 
-1. 按一下 **指揮中心**.
+1. 按一下&#x200B;**指揮中心**。
 
    ![](assets/one.png)
 
-1. 按一下 **電子郵件**.
+1. 按一下&#x200B;**電子郵件**。
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ ht-degree: 2%
 
    ![](assets/three.png)
 
-1. 按一下 **進階搜尋**.
+1. 按一下&#x200B;**進階搜尋**。
 
    ![](assets/four.png)
 
@@ -41,7 +41,7 @@ ht-degree: 2%
 
 ![](assets/date.png)
 
-**人員**
+**誰**
 
 在「人員」區段中依電子郵件收件者/寄件者篩選。
 
@@ -49,9 +49,9 @@ ht-degree: 2%
 
 | 下拉式清單 | 說明 |
 |---|---|
-| **檢視方式** | 在您的Sales Connect執行個體中依特定寄件者篩選（此選項僅供管理員使用）。 |
+| **以**&#x200B;檢視 | 在您的Sales Connect執行個體中依特定寄件者篩選（此選項僅供管理員使用）。 |
 | **依群組** | 依特定收件者群組篩選電子郵件。 |
-| **依人員** | 依特定收件者篩選。 |
+| **由人員** | 依特定收件者篩選。 |
 
 **時間**
 
@@ -105,11 +105,11 @@ ht-degree: 2%
 
 以下說明如何建立已儲存的搜尋。
 
-1. 設定好所有的篩選器後，請按一下 **另存篩選器**.
+1. 所有篩選器都就緒後，按一下&#x200B;**儲存篩選器為**。
 
    ![](assets/save-search-1.png)
 
-1. 提供搜尋名稱，然後按一下 **儲存**.
+1. 提供搜尋名稱，然後按一下[儲存]。****
 
    ![](assets/save-search-2.png)
 

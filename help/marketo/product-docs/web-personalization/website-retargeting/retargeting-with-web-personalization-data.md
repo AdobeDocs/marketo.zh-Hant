@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4720796
-description: 使用網頁個人化資料重新進行目標定位 — Marketo檔案 — 產品檔案
-title: 使用網頁個人化資料重新進行目標定位
+description: 使用網頁Personalization資料重新進行目標定位 — Marketo檔案 — 產品檔案
+title: 使用網頁Personalization資料重新進行目標定位
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 0%
+source-wordcount: '403'
+ht-degree: 1%
 
 ---
 
-# 使用網頁個人化資料重新進行目標定位 {#retargeting-with-web-personalization-data}
+# 使用網頁Personalization資料重新進行目標定位 {#retargeting-with-web-personalization-data}
 
 >[!AVAILABILITY]
 >
->網站重新目標定位現在歸類於「網頁個人化」圖磚之下。 如果您只購買重新目標定位，您會看到此動態磚，並透過存取Web Personalization產品 **僅限** 已啟用重新定位功能。 這可讓您存取帳戶設定、「重新目標定位」頁面、區段以及其他追蹤頁面。
+>網站重新鎖定目標現在歸類在「網頁Personalization」圖磚之下。 如果您只購買重新目標定位，您將會看到此圖磚，並存取已啟用&#x200B;**僅**&#x200B;重新目標定位功能的網頁Personalization產品。 這可讓您存取帳戶設定、「重新目標定位」頁面、區段以及其他追蹤頁面。
 
 再行銷會根據潛在客戶的身份和行為，將目標鎖定於過去造訪過您網站的潛在客戶，並投放顯示廣告。 個人化重新鎖定目標會根據產業、具名帳戶和已知個人資料，利用相關廣告鎖定特定對象。
 
@@ -29,7 +29,7 @@ Web Personalization會將下列資料傳送至再行銷平台，以建立對象�
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1">網頁個人化資料</th> 
+   <th colspan="1">網頁Personalization資料</th> 
   </tr> 
   <tr> 
    <th><p>產業</p></th> 
@@ -54,7 +54,7 @@ Web Personalization會將下列資料傳送至再行銷平台，以建立對象�
 
 ## 再行銷設定 {#remarketing-configuration}
 
-1. 前往 **重新目標定位**.
+1. 移至&#x200B;**重新目標定位**。
 
    ![](assets/one.png)
 
@@ -68,15 +68,15 @@ Web Personalization會將下列資料傳送至再行銷平台，以建立對象�
    >
    >您必須在網站上實施Google重新目標定位標籤。
    >
-   >如果您已設定與「網頁個人化」和Google Analytics的整合，則不需要編輯此零件，因為它與「帳戶設定」下的設定相同。
+   >如果您已設定與Web Personalization和Google Analytics整合，則不需要編輯此元件，因為此元件在「帳戶設定」下的設定相同。
 
    ![](assets/two.png)
 
-1. 啟動Facebook的設定。 按一下並展開Facebook摺疊式功能表，按一下 **開啟** 將個別事件和資料傳送至FacebookAudience Manager。 按一下 **儲存**.
+1. 啟動Facebook的設定。 按一下並展開Facebook摺疊式功能表，按一下&#x200B;**開啟**&#x200B;將個別事件和資料傳送到FacebookAudience Manager。 按一下&#x200B;**保存**。
 
    >[!NOTE]
    >
-   >您必須擁有 [facebook自訂對象畫素](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)已安裝您的網站，此功能可正常運作。
+   >您必須安裝[Facebook Custom Audience Pixel](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)您的網站，才能使用此功能。
 
    ![](assets/three.png)
 
@@ -88,7 +88,7 @@ Web Personalization會將下列資料傳送至再行銷平台，以建立對象�
 >
 >不需要為產業或其他已在網域設定中透過傳送的資料建立分段對象。 建議您最好根據已知人員資料對區段使用分段對象。
 
-1. 按一下 **建立區段對象**.
+1. 按一下&#x200B;**建立分段對象**。
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
@@ -96,6 +96,6 @@ Web Personalization會將下列資料傳送至再行銷平台，以建立對象�
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    您現在已完成Web Personalization中的重新目標定位設定、登入您的重新目標定位平台，並根據此資料建立您的對象，以及設定您的重新目標定位廣告行銷活動。

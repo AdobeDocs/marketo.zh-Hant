@@ -5,7 +5,7 @@ exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 傳送群組電子郵件 {#sending-a-group-email}
 
-1. 按一下 **人員** 標籤。
+1. 按一下「**人員**」標籤。
 
    ![](assets/sending-emails-via-group-email-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![](assets/sending-emails-via-group-email-2.png)
 
-1. 按一下群組動作按鈕並選取 **電子郵件群組**.
+1. 按一下[群組動作]按鈕，然後選取&#x200B;**電子郵件群組**。
 
    ![](assets/sending-emails-via-group-email-3.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 編輯群組電子郵件 {#editing-a-group-email}
 
-1. 建立群組電子郵件，使用 [上述步驟1-3](#sending-a-group-email).
+1. 使用上述[步驟1-3建立群組電子郵件](#sending-a-group-email)。
 
 1. [選擇範本](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)，或填寫您的電子郵件。
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/sending-emails-via-group-email-6.png)
 
-1. 選取所需的收件者並按一下 **預覽動態欄位**. 在右側檢視預覽。
+1. 選取所要的收件者，然後按一下&#x200B;**預覽動態欄位**。 在右側檢視預覽。
 
    ![](assets/sending-emails-via-group-email-7.png)
 

@@ -15,21 +15,21 @@ ht-degree: 0%
 
 您有頁面！ Marketo SEO會自動編目您的網站並進行追蹤。 如果我們錯過了幾個，請以下列方式在SEO應用程式中取得它們：
 
-1. 前往 **[!UICONTROL 頁面]** 區段。
+1. 移至&#x200B;**[!UICONTROL 頁面]**&#x200B;區段。
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. 按一下 **[!UICONTROL 新增頁面]**.
+1. 按一下&#x200B;**[!UICONTROL 新增頁面]**。
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. 輸入您要新增的URL。 按一下 **[!UICONTROL 新增]**.
+1. 輸入您要新增的URL。 按一下&#x200B;**[!UICONTROL 新增]**。
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 
    >[!TIP]
    >
-   >您知道您可以 [將您的頁面新增至新清單或現有清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)？ 立即檢視！
+   >您知道您可以[將您的頁面新增至新的或現有的清單](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)嗎？ 立即檢視！
 
    載入您的頁面資料可能需要一點時間。 等候綠色警示訊息，然後重新整理頁面以更新顯示。
 

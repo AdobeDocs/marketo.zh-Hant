@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 依計畫篩選計畫報表 {#filter-a-program-report-by-program}
 
-聚焦您的 [方案效能報表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} 比較其效能的特定程式。
+將您的[方案績效報表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}集中於特定方案，以比較其績效。
 
-1. 前往 **[!UICONTROL 行銷活動]** (或 **[!UICONTROL Analytics]**)。
+1. 移至&#x200B;**[!UICONTROL 行銷活動]** （或&#x200B;**[!UICONTROL 分析]**）。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-16-3a4-3a4.png)
 
-1. 按一下 **[!UICONTROL 設定]** 定位並拖移過去 **[!UICONTROL 計畫]**.
+1. 按一下「**[!UICONTROL 設定]**」標籤，然後拖曳到「**[!UICONTROL 程式]**」上。
 
    ![](assets/prospect3.jpg)
 
@@ -35,10 +35,10 @@ ht-degree: 0%
    >
    >如果您選取資料夾，報表會包含報表執行時資料夾所包含的所有內容。
 
-1. 僅此而已！ 按一下 **[!UICONTROL 報告]** 標籤以檢視 _just_ 報表中選取的方案。
+1. 僅此而已！ 按一下「**[!UICONTROL 報表]**」索引標籤，檢視&#x200B;_僅_&#x200B;您報表中選取的程式。
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
 >[!NOTE]
 >
->[依標籤篩選方案報表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}
+>[依標籤篩選方案報告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}

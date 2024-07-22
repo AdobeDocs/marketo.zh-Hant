@@ -6,7 +6,7 @@ exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[完成設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>[設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
 ## 建立電子郵件程式 {#create-an-email-program}
 
-1. 前往 **[!UICONTROL 行銷活動]** 區域。
+1. 前往&#x200B;**[!UICONTROL 行銷活動]**&#x200B;區域。
 
    ![](assets/send-an-email-1.png)
 
-1. 選取您的 **[!UICONTROL 學習]** 資料夾。 按一下 **[!UICONTROL 新增]** 下拉式清單並選取 **[!UICONTROL 新計畫]**.
+1. 選取您的&#x200B;**[!UICONTROL 學習]**&#x200B;資料夾。 按一下&#x200B;**[!UICONTROL 新增]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 新增程式]**。
 
    ![](assets/send-an-email-2.png)
 
-1. 輸入 **[!UICONTROL 名稱]** 並選取 **[!UICONTROL 電子郵件]** 的 **[!UICONTROL 計畫型別]**.
+1. 輸入&#x200B;**[!UICONTROL 名稱]**&#x200B;並選取&#x200B;**[!UICONTROL 程式型別]**&#x200B;的&#x200B;**[!UICONTROL 電子郵件]**。
 
    >[!TIP]
    >
@@ -37,23 +37,23 @@ ht-degree: 0%
 
    ![](assets/send-an-email-3.png)
 
-1. 在 **[!UICONTROL 頻道]**，選取 **[!UICONTROL 電子郵件傳送]** 並按一下 **[!UICONTROL 建立]**.
+1. 在&#x200B;**[!UICONTROL 頻道]**&#x200B;下，選取&#x200B;**[!UICONTROL 電子郵件傳送]**，然後按一下&#x200B;**[!UICONTROL 建立]**。
 
    ![](assets/send-an-email-4.png)
 
 ## 定義您的對象 {#define-your-audience}
 
-1. 按一下 **[!UICONTROL 編輯智慧清單]** 在 [!UICONTROL 對象] 圖磚。
+1. 按一下[!UICONTROL 對象]圖磚下的&#x200B;**[!UICONTROL 編輯智慧列示]**。
 
    ![](assets/send-an-email-5.png)
 
-1. 尋找並拖曳 [!UICONTROL 電子郵件地址] 在畫布上篩選。
+1. 尋找[!UICONTROL 電子郵件地址]篩選器並拖曳到畫布上。
 
    ![](assets/send-an-email-6.png)
 
    >[!TIP]
    >
-   >使用 **[!UICONTROL 搜尋]** 函式以更輕鬆地尋找篩選器。
+   >使用&#x200B;**[!UICONTROL 搜尋]**&#x200B;功能更輕鬆地尋找篩選器。
 
 1. 尋找並選取您的電子郵件地址。
 
@@ -61,13 +61,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您的電子郵件未自動填入，表示您可能忘了 [完成設定並新增銷售機會。](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+   >如果您的電子郵件未自動填入，您可能會忘記[設定並新增銷售機會。](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
    >[!NOTE]
    >
    >在此範例中，我們要求您僅傳送電子郵件給您自己，但您可以視需要自訂對象。
 
-1. 返回主程式標籤，然後按一下重新整理圖示 **[!UICONTROL 個人]**.
+1. 返回主程式標籤，然後按一下&#x200B;**[!UICONTROL 人員]**&#x200B;的重新整理圖示。
 
    ![](assets/send-an-email-8.png)
 
@@ -75,11 +75,11 @@ ht-degree: 0%
 
 ## 建立電子郵件 {#create-an-email}
 
-1. 在電子郵件圖磚下，按一下 **[!UICONTROL 新電子郵件]**.
+1. 在[電子郵件]方塊下，按一下[新增電子郵件] ****。
 
    ![](assets/send-an-email-9.png)
 
-1. 輸入 **[!UICONTROL 名稱]**，選取 **範本**，然後按一下 **[!UICONTROL 建立]**.
+1. 輸入&#x200B;**[!UICONTROL 名稱]**，選取&#x200B;**範本**，然後按一下&#x200B;**[!UICONTROL 建立]**。
 
    ![](assets/send-an-email-10.png)
 
@@ -89,35 +89,35 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您有快顯封鎖程式，請按一下 **[!UICONTROL 編輯草稿]** 以輸入電子郵件編輯器。
+   >如果您有快顯視窗封鎖程式，請按一下&#x200B;**[!UICONTROL 編輯草稿]**&#x200B;以輸入電子郵件編輯器。
 
-1. 選取您要編輯的區域，按一下右側的齒輪圖示，然後選取 **[!UICONTROL 編輯]** （您也可以連按兩下可編輯的區段來編輯）。
+1. 選取您要編輯的區域，按一下右側的齒輪圖示，然後選取&#x200B;**[!UICONTROL 編輯]** （您也可以按兩下可編輯的區段來編輯）。
 
    ![](assets/send-an-email-12.png)
 
-1. 輸入您想要的內容，然後按一下 **[!UICONTROL 儲存]**.
+1. 輸入您想要的內容，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/send-an-email-13.png)
 
-1. 按一下 **[!UICONTROL 電子郵件動作]** 下拉式清單並選取 **[!UICONTROL 核准並關閉]**.
+1. 按一下&#x200B;**[!UICONTROL 電子郵件動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 核准並關閉]**。
 
    ![](assets/send-an-email-14.png)
 
    >[!TIP]
    >
-   >想要傳送快速範例給您自己，以檢視您的電子郵件在啟動前的外觀？ 選取 **[!UICONTROL 傳送範例]** ，或按一下 **[!UICONTROL 電子郵件動作]** 則 [**[!UICONTROL 傳送範例]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}.
+   >想要傳送快速範例給您自己，以檢視您的電子郵件在啟動前的外觀？ 在上方功能表中選取&#x200B;**[!UICONTROL 傳送範例]**，或按一下&#x200B;**[!UICONTROL 電子郵件動作]**&#x200B;然後[**[!UICONTROL 傳送範例]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}。
 
 1. 在左側樹狀結構中選取電子郵件程式。
 
    ![](assets/send-an-email-15.png)
 
-1. 在 [!UICONTROL 排程] 圖磚，將電子郵件的啟動日設為 **[!UICONTROL 今天]**.
+1. 在[!UICONTROL 排程]圖磚下，將電子郵件的啟動日設定為&#x200B;**[!UICONTROL 今天]**。
 
    ![](assets/send-an-email-16.png)
 
    >[!NOTE]
    >
-   >進一步瞭解 [收件者時區](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"} and [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}.
+   >深入瞭解[收件者時區](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"}和[開始時間](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}。
 
 1. 選取未來至少15分鐘的時間。
 
@@ -125,9 +125,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >預設時區不是您的時區嗎？ 瞭解如何 [在此處更新](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
+   >預設時區不是您的時區嗎？ 在此瞭解如何[更新](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}。
 
-1. 按一下 **[!UICONTROL 核准計畫]** 在 [!UICONTROL 核准] 圖磚，您就可以了！
+1. 按一下「[!UICONTROL 核准]」方塊下的「**[!UICONTROL 核准方案]**」，您已完成！
 
    ![](assets/send-an-email-18.png)
 

@@ -20,11 +20,11 @@ ht-degree: 0%
 >* [在登入頁面中使用動態內容](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
 >* [預覽登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
-1. 選取登入頁面並按一下 **預覽頁面**.
+1. 選取登入頁面並按一下&#x200B;**預覽頁面**。
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
-1. 按一下下拉式清單，然後選取 **區段** 以預覽。
+1. 按一下下拉式清單，然後選取&#x200B;**區段**&#x200B;以預覽。
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 

@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 擷取轉換指令碼 {#retrieve-the-conversion-script}
 
-1. 在推薦選件編輯器中，按一下 **優惠詳細資料** 然後選取 **客戶JavaScript事件** 「達成目標」下拉式清單。
+1. 在轉介優惠編輯器中，按一下&#x200B;**優惠詳細資料**，然後從履行目標下拉式清單中選取&#x200B;**客戶JavaScript事件**。
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. 複製灰色方塊中的頂端指令碼，並將其放置在網頁內的 `<body>` 標籤之間。 底部指令碼會置於 `<header>` 標籤之間。
+1. 複製灰色方塊中的最上層指令碼，並將其放在網頁的`<body>`標籤內。 底部指令碼置於`<header>`標籤內。
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
 ## 擷取載入器指令碼 {#retrieve-the-loader-script}
 
-1. 從樹狀結構中選取反向連結選件，然後按一下 **反向連結優惠動作** 和 **內嵌程式碼**.
+1. 從樹狀結構選取轉介選件，然後按一下&#x200B;**轉介選件動作**&#x200B;和&#x200B;**內嵌程式碼**。
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. 用滑鼠右鍵按一下 **頁首程式碼** 並將其插入網頁標題。 然後對 **內文**.
+1. 以滑鼠右鍵按一下&#x200B;**頁首代碼**，並將其插入您的網頁頁首。 然後對&#x200B;**主體代碼**&#x200B;執行相同操作。
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 連線轉換指令碼 {#connecting-the-conversion-script}
 
-您可以在此處撰寫JavaScript函式，此函式會使用您要觸發目標完成之任何頁面元素的特定HTMLID。 例如：
+您將在此處撰寫JavaScript函式，此函式會使用您要觸發目標完成之任何頁面元素的特定HTMLID。 例如：
 
 `<pre><em><!-- Referral offer conversion script --></em> <script> cf_scripts.afterload(function (){ jQuery("#myButtonId").click(function (){ CF.insight.conversion(); }); }); </script></pre>` `<pre>`
 
@@ -57,6 +57,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [指定轉介優惠的目標](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
->* [建立反向連結選件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [指定轉介選件的目標](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
+>* [建立轉介選件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 >* [在您的網站上部署Social](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)

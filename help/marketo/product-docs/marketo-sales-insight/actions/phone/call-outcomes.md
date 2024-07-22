@@ -5,7 +5,7 @@ exl-id: 0166c6fa-70d3-45ea-9138-f2d2c4c28b41
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 ## 啟用呼叫結果 {#enable-call-outcomes}
 
-1. 按一下齒輪圖示並選取 **設定**.
+1. 按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/call-outcomes-1.png)
 
-1. 在管理員設定下方，選取 **撥號器**.
+1. 在[管理設定]下，選取&#x200B;**撥號器**。
 
    ![](assets/call-outcomes-2.png)
 
-1. 選取 **啟用呼叫結果**.
+1. 選取&#x200B;**啟用通話結果**。
 
    ![](assets/call-outcomes-3.png)
 
@@ -42,15 +42,15 @@ ht-degree: 0%
 >
 >您最多可以建立15個通話結果。
 
-1. 按一下齒輪圖示並選取 **設定**.
+1. 按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/call-outcomes-5.png)
 
-1. 在管理員設定下方，選取 **撥號器**.
+1. 在[管理設定]下，選取&#x200B;**撥號器**。
 
    ![](assets/call-outcomes-6.png)
 
-1. 按一下 **管理通話結果**.
+1. 按一下&#x200B;**管理通話結果**。
 
    ![](assets/call-outcomes-7.png)
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
    ![](assets/call-outcomes-8.png)
 
-1. 按一下「已回答」(Answered)下拉式清單，然後選擇結果型別（在此範例中，我們選擇「已回答」）。 然後按一下 **新增**.
+1. 按一下「已回答」(Answered)下拉式清單，然後選擇結果型別（在此範例中，我們選擇「已回答」）。 然後按一下&#x200B;**新增**。
 
    ![](assets/call-outcomes-9.png)
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 
    ![](assets/call-outcomes-10.png)
 
-1. 在撥號器中輸入呼叫資訊，然後按一下 **呼叫**.
+1. 在撥號器中輸入通話資訊，然後按一下&#x200B;**通話**。
 
    ![](assets/call-outcomes-11.png)
 

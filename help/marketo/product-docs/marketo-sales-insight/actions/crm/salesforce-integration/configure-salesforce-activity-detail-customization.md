@@ -5,8 +5,8 @@ exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '709'
-ht-degree: 0%
+source-wordcount: '699'
+ht-degree: 1%
 
 ---
 
@@ -14,14 +14,14 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Salesforce與Sales Insight動作 [必須連線](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
->* 透過API記錄電子郵件活動 [必須啟用](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
+>* Salesforce和Sales Insight動作[必須連線](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
+>* 必須啟用透過API [記錄電子郵件活動](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
 活動詳細資料自訂可讓管理員設定當Salesforce分析動作活動/提醒任務同步到Salesforce時，將記錄到Salesforce任務 — 主題欄位的資訊。
 
 >[!NOTE]
 >
->* 如果您使用「 」，提醒任務的「銷售分析動作」中主題欄位所做的更新將會反映在對應Salesforce任務的主題欄位中 `{{activity_subject}}` 活動詳細資料自訂中的動態欄位。
+>* 如果您在活動詳細資料自訂中使用`{{activity_subject}}`動態欄位，提醒任務的「銷售分析動作」中主題欄位所做的更新將會反映在對應Salesforce任務的主題欄位中。
 >* 將資訊記錄到Salesforce主旨欄位時不支援分行符號。 更新銷售作業主旨時，會移除活動詳細資料自訂編輯器中的任何分行符號。
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您將電子郵件回覆記錄為Salesforce的活動，則不會使用Salesforce活動詳細資料自訂設定。 他們將會以「回覆：電子郵件主旨」的形式記錄。
+>如果您將電子郵件回覆記錄為Salesforce的活動，則不會使用Salesforce活動詳細資料自訂設定。 相反地，他們將會記錄為「回覆：電子郵件主旨」。
 
 ## 支援的活動動態欄位 {#activity-dynamic-fields-supported}
 
@@ -103,19 +103,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理員許可權。**
+>**需要系統管理員許可權。**
 
 設定活動詳細資料時，請考慮在Salesforce中檢閱任務歷史記錄時，哪些資料與銷售最相關。
 
-1. 按一下齒輪圖示並選取 **設定**.
+1. 按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. 按一下 **Salesforce**.
+1. 按一下&#x200B;**Salesforce**。
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
-1. 按一下 **同步設定**.
+1. 按一下&#x200B;**同步處理設定**。
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
@@ -127,7 +127,7 @@ ht-degree: 0%
    >
    >雖然不一定要加上括弧，但如果將新增文字換成直括弧，有些人在Salesforce中的主旨欄位填入資料時，就能比較輕鬆地分辨資料。 範例： `[Sales Insight Actions] - {{Activity_type}}`
 
-1. 按一下「 」，新增您想要的其他動態欄位 **新增動態欄位** 按鈕。
+1. 按一下&#x200B;**新增動態欄位**&#x200B;按鈕，新增您想要的任何其他動態欄位。
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 
@@ -135,7 +135,7 @@ ht-degree: 0%
 
    ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/configure-salesforce-activity-detail-customization-9.png)
 
@@ -146,4 +146,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [將銷售活動同步至Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
->* [提醒任務與Salesforce同步](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+>* [提醒工作與Salesforce同步](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)

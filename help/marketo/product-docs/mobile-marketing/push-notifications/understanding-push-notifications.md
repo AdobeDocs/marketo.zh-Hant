@@ -6,7 +6,7 @@ exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,15 @@ Marketo mobile engagement可讓您建立、設定和傳送通知，就像建立�
 
 ## 步驟1：管理員和開發人員執行初始設定 {#step-admin-and-developer-perform-initial-setups}
 
-Marketo管理員與行動應用程式開發人員會共同合作來設定您。 另請參閱 [建立推播通知和應用程式內訊息之前](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) 以取得詳細資訊。
+Marketo管理員與行動應用程式開發人員會共同合作來設定您。 在建立推播通知和應用程式內訊息之前[如需詳細資訊，請參閱](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)。
 
 ## 步驟2：建立推播通知 {#step-create-a-push-notification}
 
-[製作您的傳訊](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) 並預覽其在Android和iOS裝置上的顯示方式。
+[製作您的訊息](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)，並預覽訊息在Android和iOS裝置上的顯示方式。
 
 ## 步驟3：傳送！ {#step-send}
 
-[可以傳送推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) 使用觸發器和批次智慧型行銷活動。 很酷吧？
+[可以使用觸發器和批次智慧行銷活動來傳送推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)。 很酷吧？
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 

@@ -2,11 +2,11 @@
 description: 路由 — Marketo檔案 — 產品檔案
 title: 路由
 feature: Dynamic Chat
-exl-id: 93d1a96d-c101-4a1c-898c-dcadb5cdce85
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,21 +20,21 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->帳戶路由會獲得最高優先順序。 當訪客到達交談點以預約會議或啟動即時聊天時， [帳戶路由](#account-routing) 在考量其他繞線選項之前，會先勾選。
+>帳戶路由會獲得最高優先順序。 當訪客到達交談點以預約會議或啟動即時交談時，會先檢查[帳戶路由](#account-routing)，然後再考慮其他路由選項。
 
 ## 建立自訂規則 {#create-a-custom-rule}
 
 在此範例中，我們會將推斷的CA、OR和WA狀態的所有會議傳送給代理程式John。
 
-1. 在「組態」底下，按一下 **路由規則**.
+1. 在[設定]下，按一下[路由規則]。****。
 
    ![](assets/routing-1.png)
 
-1. 按一下 **自訂規則** 標籤。
+1. 按一下「**自訂規則**」標籤。
 
    ![](assets/routing-2.png)
 
-1. 按一下 **建立規則**.
+1. 按一下&#x200B;**建立規則**。
 
    ![](assets/routing-3.png)
 
@@ -54,7 +54,7 @@ ht-degree: 1%
 
    ![](assets/routing-7.png)
 
-1. 選取所有所需值時，按一下 **儲存**.
+1. 選取所有所需值時，按一下[儲存]。****
 
    ![](assets/routing-8.png)
 
@@ -68,13 +68,13 @@ ht-degree: 1%
 
 在此範例中，我們會直接將所有員工從樂高路由到代理程式Steven。
 
-1. 在「帳戶路由」標籤中，按一下 **+新增帳戶**.
+1. 在[帳戶路由]索引標籤中，按一下[**+新增帳戶**]。
 
    ![](assets/routing-10.png)
 
    >[!TIP]
    >
-   >您可以按一下「 」，一次建立多個帳戶 **上傳帳戶清單** 和上傳CSV。
+   >您可以按一下&#x200B;**上傳帳戶清單**&#x200B;並上傳CSV，一次建立多個帳戶。
 
 1. 輸入公司名稱、網域，然後選取所需的代理程式。
 

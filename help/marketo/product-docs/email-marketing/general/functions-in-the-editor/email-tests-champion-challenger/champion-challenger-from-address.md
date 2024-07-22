@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[新增電子郵件達人/挑戰者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[新增電子郵件冠軍/挑戰者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. 在電子郵件測試編輯器中，選取 **寄件者地址** 在 **測試型別** 下拉式清單。
+1. 在電子郵件測試編輯器中，選取&#x200B;**測試型別**&#x200B;下拉式清單中的&#x200B;**寄件者地址**。
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >第一個寄件者地址指定為 **冠軍**. 後續來自位址的呼叫次數 **挑戰者**.
+   >第一個寄件者地址被指定為&#x200B;**冠軍**。 後續的來自位址稱為&#x200B;**挑戰者**。
 
-1. 輸入 **寄件者名稱** （左）和 **寄件者地址** （右）給挑戰者。
+1. 輸入挑戰者的&#x200B;**寄件者名稱** （左）和&#x200B;**寄件者地址** （右）。
 
    ![](assets/image2014-9-15-12-3a52-3a50.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    若要取得統計可信度，請務必選擇包含足夠人員的百分比，讓您的測試有效。 不要被不確定的結果所愚弄。
 
-1. 按一下 **下一個**.
+1. 按一下&#x200B;**下一步**。
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[冠軍/挑戰者：定義冠軍標準](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[冠軍/挑戰者：定義冠軍條件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

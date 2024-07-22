@@ -13,14 +13,14 @@ ht-degree: 0%
 
 # 編輯行動推播通知 {#edit-mobile-push-notification}
 
-1. 前往 **行銷活動** 區域。
+1. 前往&#x200B;**行銷活動**&#x200B;區域。
 
 ![](assets/image2015-4-22-18-3a44-3a42.png)
 
-1. 選取您的行動應用程式並按一下 **編輯草稿**.
+1. 選取您的行動應用程式並按一下&#x200B;**編輯草稿**。
 
    ![](assets/image2015-4-22-18-3a45-3a13.png)
 
 >[!MORELIKETHIS]
 >
->進一步瞭解 [設定推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) 此處。
+>在此瞭解更多關於[設定推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)的資訊。

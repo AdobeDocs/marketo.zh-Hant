@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 選擇CNAME {#choose-a-cname}
 
-從登陸頁面URL的開頭選取要前往的單字。 只是一個字，應該相對較短。 範例:
+從登陸頁面URL的開頭選取要前往的單字。 只是一個字，應該相對較短。 範例：
 
 * go.YourCompany.com/NameOfPage.html
 * info.YourCompany.com/NameOfPage.html
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ## 尋找您的Munchkin ID {#find-your-munchkin-id}
 
-1. 前往 **管理員** 區域。
+1. 移至&#x200B;**管理員**&#x200B;區域。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. 按一下 **我的帳戶**.
+1. 按一下&#x200B;**我的帳戶**。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
@@ -51,25 +51,25 @@ ht-degree: 0%
 
 ## 傳送要求給IT {#send-request-to-it}
 
-請您的IT人員設定下列CNAME： (取代 [CNAME] 和 [Munchkin ID] 與上一步驟的文字連結。)
+請您的IT人員設定下列CNAME： （將單字[CNAME]和[Munchkin ID]取代為上一步驟的文字。）
 
 [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## 完成CNAME設定 {#complete-cname-setup}
 
-1. 在您的IT建立CNAME後，請前往 **管理員** 區域。
+1. 在您的IT建立CNAME後，請移至&#x200B;**管理員**&#x200B;區域。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. 按一下 **登陸頁面**.
+1. 按一下&#x200B;**登陸頁面**。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. 在 **設定** 區段，按一下 **編輯**.
+1. 在&#x200B;**設定**&#x200B;區段下，按一下&#x200B;**編輯**。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. 輸入您的CNAME，在 **登陸頁面的網域名稱**，輸入您的 **後援頁面**，輸入您的 **首頁** 並按一下 **儲存**.
+1. 在&#x200B;**登陸頁面的網域名稱**&#x200B;中輸入您的CNAME，輸入您的&#x200B;**後援頁面**，輸入您的&#x200B;**首頁**，然後按一下&#x200B;**儲存**。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

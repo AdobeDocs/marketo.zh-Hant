@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->這些可用於 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) 和Marketo Sales Connect客戶。
+>這些僅適用於[Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)和Marketo Sales Connect客戶。
 
 >[!PREREQUISITES]
 >
->* 您必須擁有 [與Salesforce CRM的連線](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}
+>* 您必須有Salesforce CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}的[連線
 >* 您必須是Salesforce中的銷售機會或聯絡負責人
->* 您必須有權存取 [授予Marketo Engage連線的存取權](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}
+>* 您必須擁有[授與Marketo Engage連線](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}存取權的存取權
 
 ## 什麼是有趣的時刻？ {#what-is-an-interesting-moment}
 
@@ -35,29 +35,29 @@ ht-degree: 0%
 
 ## 我該如何打造有趣的時刻？ {#how-do-i-create-an-interesting-moment}
 
-1. 選擇 [智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)，最好是您的銷售團隊在觸發時可能會感興趣的專案。
+1. 選擇一個[智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)，最好是您的銷售團隊在觸發時感興趣的行銷活動。
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. 拖曳至 **有趣的時刻** 流程步驟。
+1. 拖曳到&#x200B;**有趣的時刻**&#x200B;流程步驟上。
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. 選取 **type** （電子郵件、里程碑或網頁）。
+1. 選取&#x200B;**型別** （電子郵件、里程碑或網頁）。
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. 在「 」中撰寫訊息給您的銷售團隊 **說明** 說明此動作重要原因的欄位。
+1. 在&#x200B;**描述**&#x200B;欄位中寫訊息給您的銷售團隊，說明此動作重要的原因。
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
    >[!NOTE]
    >
-   >Marketo也會新增發生日期以及新增有趣時刻的方式（即潛在客戶動作>流程步驟、SOAP API）。
+   >Marketo也會新增發生日期以及新增有趣時刻的方式(即潛在客戶動作>流程步驟、SOAP API)。
 
 ## Marketo中有趣的時刻是什麼樣子？  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-有趣的時刻會顯示在 [潛在客戶的活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+將在[潛在客戶的活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)中顯示有趣的時刻。
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 

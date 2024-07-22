@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您也可以以滑鼠右鍵按一下訊息，然後按一下 **使用Marketo登入**.
+>您也可以用滑鼠右鍵按一下訊息，然後按一下[使用Marketo登入]。****
 
 您應該會看到確認。
 
@@ -43,5 +43,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用適用於Outlook的Marketo電子郵件增益集傳送及追蹤電子郵件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [使用Outlook的Marketo電子郵件增益集傳送及追蹤電子郵件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [使用Marketo範本從Outlook傳送及追蹤](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

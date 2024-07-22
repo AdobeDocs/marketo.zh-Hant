@@ -6,7 +6,7 @@ exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
 source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->在2023年10月2日，Adobe已從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入了解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>在2023年10月2日，Adobe已從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入瞭解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 對於已排程但尚未執行的未來智慧行銷活動， Marketo時刻卡尚未顯示任何行銷活動統計資料。 它們將顯示在未來的版本中。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 1. 詳細資訊卡可讓您存取智慧清單篩選器、流量和電子郵件摘要的相關資訊。
 
-1. 點選 **智慧清單**.
+1. 點選&#x200B;**智慧清單**。
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. 點選 **流量**.
+1. 點選&#x200B;**流量**。
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. 按一下 **電子郵件摘要**.
+1. 按一下&#x200B;**電子郵件摘要**。
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. 點選 [傳送範例](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) 或 [預覽電子郵件](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) （如需詳細資訊，請按一下這些連結）。
+1. 點選[傳送範例](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)或[預覽電子郵件](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) （按一下這些連結以取得詳細資料）。
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -83,11 +83,11 @@ ht-degree: 0%
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. 點選 **確認**.
+1. 點選&#x200B;**確認**。
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. 點選 **確認** 完成工作，或 **沒關係** 如果您有其他想法。
+1. 點選&#x200B;**確認**&#x200B;以完成工作，或如果您有其他想法，請&#x200B;**不要介意**。
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -103,11 +103,11 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. 點選 **取消執行**.
+1. 點選&#x200B;**取消執行**。
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. 點選 **取消執行**. 如果您在最後一分鐘決定不取消執行，請點選 **沒關係**，而Smart Campaign會依排程執行。
+1. 點選&#x200B;**取消執行**。 如果您在最後一分鐘決定不取消執行，請點選&#x200B;**不要緊**，Smart Campaign就會依排程執行。
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
@@ -119,11 +119,11 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. 點選 **重新排程**.
+1. 點選&#x200B;**重新排程**。
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. 在行事曆上選取日期，然後點選 **重新排程**.
+1. 在行事曆上選取日期，然後點選&#x200B;**重新排程**。
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
@@ -141,7 +141,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您也可以點選 **共用** 圖示加以共用，以及 **完成** 和 **我的最愛** 圖示即可檢視詳細資訊。
+>您也可以點選Smart Campaign卡上的&#x200B;**共用**&#x200B;圖示以進行共用，以及詳細資訊卡上的&#x200B;**完成**&#x200B;和&#x200B;**我的最愛**&#x200B;圖示。
 
 ## 快速刪除智慧行銷活動資訊卡 {#quickly-delete-a-smart-campaign-card}
 

@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. 按一下 **[!UICONTROL 競爭者]** 標籤。
+1. 按一下「**[!UICONTROL 競爭者]**」標籤。
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. 按一下 **[!UICONTROL 新增競爭者]**.
+1. 按一下&#x200B;**[!UICONTROL 新增競爭者]**。
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. 輸入 **[!UICONTROL 名稱]** 和 **[!UICONTROL URL]** 您競爭者的。
+1. 輸入您競爭者的&#x200B;**[!UICONTROL 名稱]**&#x200B;和&#x200B;**[!UICONTROL URL]**。
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 

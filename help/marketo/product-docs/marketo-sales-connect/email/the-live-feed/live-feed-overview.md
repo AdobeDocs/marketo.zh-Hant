@@ -6,7 +6,7 @@ exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 建立新的或管理開啟的工作。
 
-篩選今天、明天、今天 *和* 明天或未來7天。
+篩選今天、明天、今天&#x200B;*和明天*，或未來7天。
 
 >[!NOTE]
 >

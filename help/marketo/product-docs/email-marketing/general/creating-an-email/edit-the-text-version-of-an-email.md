@@ -6,7 +6,7 @@ exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->本文不是關於建立純文字電子郵件的文章。 如需相關資訊，請參閱 [建立僅限文字的電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
+>本文不是關於建立純文字電子郵件的文章。 如需相關資訊，請參閱[建立純文字電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)。
 
-1. 在電子郵件編輯器中，按一下 **文字** 索引標籤在電子郵件底部。
+1. 在電子郵件編輯器中，按一下電子郵件底部的&#x200B;**文字**&#x200B;索引標籤。
 
    ![](assets/one-5.png)
 
-1. 取消核取 **自動從HTML複製** 進行變更。
+1. 取消勾選&#x200B;**自動從HTML**&#x200B;複製以進行變更。
 
    ![](assets/two-5.png)
 

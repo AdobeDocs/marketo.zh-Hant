@@ -23,27 +23,27 @@ ht-degree: 0%
 >
 >您必須擁有作用中的Vibes帳戶以及Vibes SMS的Adobe授權。
 
-1. 在「我的Marketo」中，前往 **[!UICONTROL 管理員]** 區域。
+1. 在「我的Marketo」中，移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/add-vibes-as-a-launchpoint-service-1.png)
 
-1. 按一下 **[!UICONTROL 啟動點]**.
+1. 按一下&#x200B;**[!UICONTROL 啟動點]**。
 
    ![](assets/add-vibes-as-a-launchpoint-service-2.png)
 
-1. 按一下 **[!UICONTROL 新增]**，然後 **[!UICONTROL 新服務]**.
+1. 按一下&#x200B;**[!UICONTROL 新增]**，然後按一下&#x200B;**[!UICONTROL 新增服務]**。
 
    ![](assets/add-vibes-as-a-launchpoint-service-3.png)
 
-1. 輸入顯示名稱，然後在下拉式清單中選取 **[!UICONTROL Vibes]**.
+1. 輸入顯示名稱，然後在下拉式清單中選取&#x200B;**[!UICONTROL 影像]**。
 
    ![](assets/add-vibes-as-a-launchpoint-service-4.png)
 
-1. 在設定下，輸入您的視覺 [!UICONTROL 使用者名稱]， [!UICONTROL 密碼]、和 [!UICONTROL 公司金鑰] （您可以在您的Vibes帳戶中找到這些專案）。 按一下 **[!UICONTROL 建立]**.
+1. 在[設定]下，輸入您的Vibes [!UICONTROL 使用者名稱]、[!UICONTROL 密碼]和[!UICONTROL 公司金鑰] （可在您的Vibes帳戶中找到）。 按一下&#x200B;**[!UICONTROL 建立]**。
 
    ![](assets/add-vibes-as-a-launchpoint-service-5.png)
 
-   新的SMS服務現在出現在 [!UICONTROL 已安裝的服務] 清單。
+   新的SMS服務現在出現在[!UICONTROL 已安裝的服務]清單中。
 
    ![](assets/add-vibes-as-a-launchpoint-service-6.png)
 

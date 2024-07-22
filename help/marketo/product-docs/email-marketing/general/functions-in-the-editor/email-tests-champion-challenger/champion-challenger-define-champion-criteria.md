@@ -17,11 +17,11 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[新增電子郵件達人/挑戰者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[新增電子郵件冠軍/挑戰者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
 ## 標準擁護者條件 {#standard-champion-criteria}
 
-1. 選擇一個可用的 **擁護者條件**.
+1. 從可用的&#x200B;**達人條件**&#x200B;中選擇一個。
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -29,11 +29,11 @@ ht-degree: 1%
    >
    >我們將追蹤此量度，並透過電子郵件傳送含有資料的報告給您。
 
-1. 如果您選擇其中一個預設值 **擁護者條件**，請繼續並移至 [冠軍/挑戰者：設定報表警報](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)！
+1. 如果您選擇其中一個預設&#x200B;**冠軍條件**，請繼續並移至[冠軍/挑戰者：設定報告警示](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)！
 
 ## 自訂冠軍條件 {#custom-champion-criteria}
 
-1. 如果您想要變得精彩，可以選取「 」以自訂 **自訂轉換** 並按一下 **編輯**.
+1. 如果您想要獲得精彩，可以選取&#x200B;**自訂轉換**&#x200B;並按一下&#x200B;**編輯**&#x200B;進行自訂。
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -59,4 +59,4 @@ ht-degree: 1%
 
    >[!MORELIKETHIS]
    >
-   >[冠軍/挑戰者：設定報表警報](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+   >[冠軍/挑戰者：設定報表警示](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)

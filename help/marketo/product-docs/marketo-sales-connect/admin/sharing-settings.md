@@ -6,7 +6,7 @@ exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ ht-degree: 0%
 
 ## 設定您的共用設定 {#configure-your-sharing-settings}
 
-1. 在 [網頁應用程式](https://toutapp.com/login)，前往「設定」頁面。
+1. 在[網頁應用程式](https://toutapp.com/login)中，移至[設定]頁面。
 
    ![](assets/one-2.png)
 
-1. 在管理設定下，選取 **共用存取權**.
+1. 在[管理設定]下，選取&#x200B;**共用存取權**。
 
    ![](assets/two-2.png)
 
-1. 確定 **共用設定** 已啟用。 這表示在預設情況下，只有管理員可以在您的範本類別中共用範本。
+1. 確定已啟用&#x200B;**共用設定**。 這表示在預設情況下，只有管理員可以在您的範本類別中共用範本。
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/four-2.png)
 
-1. 按一下 **新增團隊以存取**.
+1. 按一下&#x200B;**新增團隊以存取**。
 
    ![](assets/five-2.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >如果您沒有看到任何團隊，則需要前往「團隊管理」並建立使用者團隊。
 
-1. 按一下 **新增團隊以存取** 以儲存。
+1. 按一下&#x200B;**新增團隊以存取**。
 
    ![](assets/seven-1.png)
 

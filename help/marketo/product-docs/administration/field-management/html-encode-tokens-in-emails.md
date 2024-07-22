@@ -21,13 +21,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->編碼會將字元轉換為其HTML程式碼版本，以防止傳輸時產生混淆(即「&amp;」變更為 `&amp;`)。 如需詳細資訊，請洽詢您的網頁開發人員。
+>編碼會將字元轉換為其HTML程式碼版本，以防止傳輸時產生混淆（即「&amp;」變更為`&amp;`）。 如需詳細資訊，請洽詢您的網頁開發人員。
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/html-encode-tokens-in-emails-1.png)
 
-1. 按一下 **[!UICONTROL 欄位管理]**.
+1. 按一下&#x200B;**[!UICONTROL 欄位管理]**。
 
    ![](assets/html-encode-tokens-in-emails-2.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/html-encode-tokens-in-emails-3.png)
 
-1. 檢查 **[!UICONTROL 電子郵件中的HTML編碼權杖]** 方塊以啟用，取消勾選以停用。
+1. 核取電子郵件中的&#x200B;**[!UICONTROL HTML編碼權杖]**&#x200B;方塊以啟用，取消核取以停用。
 
    ![](assets/html-encode-tokens-in-emails-4.png)
 

@@ -18,6 +18,6 @@ Best Bets索引標籤會根據您的優先順序包含所有熱門潛在客戶�
 * 傳送Marketo電子郵件
 * 新增至Marketo Campaign
 
-您也可以從「首選」標籤中選取多個銷售機會，然後選擇 _傳送Marketo電子郵件_ 或 _新增至Marketo Campaign_.
+您也可以從「首選」標籤中選取多個銷售機會，然後選擇「_傳送Marketo電子郵件_」或「_新增至Marketo行銷活動_」。
 
 ![](assets/best-bets-1.png)

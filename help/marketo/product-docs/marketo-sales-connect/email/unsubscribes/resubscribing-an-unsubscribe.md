@@ -6,7 +6,7 @@ exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -27,17 +27,17 @@ ht-degree: 0%
 >
 >如果已開啟取消訂閱同步，您必須從ToutApp移除取消訂閱，並在Salesforce中取消勾選退出，讓人員記錄不再同步。
 
-1. 前往 [網頁應用程式](https://toutapp.com/login) 並按一下 **人員**.
+1. 移至[網頁應用程式](https://toutapp.com/login)並按一下&#x200B;**人員**。
 
 1. 選取人員，以開啟人員詳細資料檢視。
 
    ![](assets/two.png)
 
-1. 按一下人員詳細資料檢視中的三個點，然後選取 **移除取消訂閱**.
+1. 按一下人員詳細資料檢視中的三個點，然後選取&#x200B;**移除取消訂閱**。
 
    ![](assets/three.png)
 
-1. 選取選擇人員重新加入以接收電子郵件的原因，然後按一下 **移除取消訂閱**.
+1. 選取人員選擇重新加入以接收電子郵件的原因，然後按一下&#x200B;**移除取消訂閱**。
 
    ![](assets/four.png)
 

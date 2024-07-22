@@ -49,7 +49,7 @@ linkedIn對其開發人員計畫做了一些重大變更。 隨著這些變更�
 
 ## 何處可以找到有關LinkedIn API原則的詳細資訊？ {#where-can-i-find-more-information-about-linkedin-s-api-policy}
 
-請依照此連結深入瞭解LinkedIn對API原則所做的變更： [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
+請依照此連結深入瞭解LinkedIn對其API原則所做的變更： [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
 
 ## 如有任何問題，應如何聯絡LinkedIn？ {#how-can-i-contact-linkedin-with-questions}
 

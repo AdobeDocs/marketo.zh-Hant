@@ -19,15 +19,15 @@ SEO管理員將能夠針對您要取得關鍵字排名資訊的搜尋引擎選�
 >
 >**需要管理員許可權**
 
-1. 前往 **[!UICONTROL 管理員]** 區段。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區段。
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. 按一下 **[!UICONTROL 搜尋引擎]** 標籤。
+1. 按一下&#x200B;**[!UICONTROL 搜尋引擎]**&#x200B;標籤。
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. 選取您要最佳化的國家/城市，然後按一下 **[!UICONTROL 儲存]**.
+1. 選擇您要最佳化的國家/城市，然後按一下[儲存]。****
 
 >[!NOTE]
 >
@@ -41,5 +41,5 @@ SEO管理員將能夠針對您要取得關鍵字排名資訊的搜尋引擎選�
 
 >[!MORELIKETHIS]
 >
->* [瞭解儀表板：SEO快照](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target="_blank"}
->* [瞭解控制面板：SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}
+>* [瞭解儀表板： SEO快照](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target="_blank"}
+>* [瞭解儀表板： SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}

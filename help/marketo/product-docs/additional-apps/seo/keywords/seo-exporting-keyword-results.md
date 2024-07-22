@@ -15,11 +15,11 @@ ht-degree: 0%
 
 您可以匯出關鍵字結果，以便與您的團隊共用或建立報告。
 
-1. 前往 **[!UICONTROL 關鍵字]** 區段。
+1. 移至&#x200B;**[!UICONTROL 關鍵字]**&#x200B;區段。
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
-1. 按一下 **[!UICONTROL 匯出]**.
+1. 按一下&#x200B;**[!UICONTROL 匯出]**。
 
    ![](assets/image2014-9-18-12-3a51-3a25.png)
 

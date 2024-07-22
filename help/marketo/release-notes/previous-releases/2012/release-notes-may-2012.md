@@ -6,7 +6,7 @@ exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 圖1. 指定要在營業日結束的等待步驟
 
-## 已隱藏的已封存資產 {#archived-assets-hidden}
+## 已封存的Assets已隱藏 {#archived-assets-hidden}
 
 封存的資產會自動從自動建議、下拉清單和報告中進行篩選，以便更輕鬆地找到您要尋找的內容！
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ## 增強型網路研討會確認URL {#enhanced-webinar-confirmation-url}
 
-現在適用於ON24和Adobe Connect！ 在確認電子郵件中，為每個已註冊的出席者加入唯一的連結(使用新的 `{{member.webinar URL}}` Token。 Adobe Connect增強功能也包含開啟/關閉Adobe帳戶資訊電子郵件的功能，其中包含使用者的登入ID和密碼。
+現在適用於ON24和Adobe Connect！ 使用新`{{member.webinar URL}}`權杖的每位註冊出席者，在確認電子郵件中包含唯一連結。 Adobe Connect增強功能也包含開啟/關閉Adobe帳戶資訊電子郵件的功能，其中包含使用者的登入ID和密碼。
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -117,7 +117,7 @@ ht-degree: 0%
 
 ## 從Sales Insight存取Opportunity Analyzer {#access-opportunity-analyzer-from-sales-insight}
 
-透過Marketo Sales Insight中的直接存取Opportunity Analyzer ，為您的銷售代表提供哪些行銷活動正在提升參與度的深入分析。 備註. 需要Revenue Cycle Analytics授權。
+透過Marketo Sales Insight中的直接存取Opportunity Analyzer ，為您的銷售代表提供哪些行銷活動正在提升參與度的深入分析。 注意。 需要Revenue Cycle Analytics授權。
 
 ## 連絡人狀態的自訂欄位 {#custom-field-for-contact-status}
 

@@ -6,14 +6,14 @@ exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '735'
-ht-degree: 1%
+source-wordcount: '701'
+ht-degree: 0%
 
 ---
 
 # CRM的Sales Connect自訂 {#sales-connect-customizations-for-crm}
 
-下列欄位和按鈕是由Salesforce CRM中的中繼資料API所建立。 建立欄位後，管理員必須在其CRM中設定頁面配置以公開。 可找到指示 [此處](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+下列欄位和按鈕是由Salesforce CRM中的中繼資料API所建立。 建立欄位後，管理員必須在其CRM中設定頁面配置以公開。 您可以在[這裡](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)找到指示。
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ ht-degree: 1%
 
 ## 如何在Salesforce中安裝自訂 {#how-to-install-customizations-in-salesforce}
 
-1. 在Sales Connect中，按一下齒輪圖示並選取 **設定**.
+1. 在Sales Connect中，按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/one.png)
 
-1. 在管理設定下，選取 **Salesforce**.
+1. 在[管理設定]下，選取&#x200B;**Salesforce**。
 
    ![](assets/two.png)
 
-1. 按一下 **Marketo Sales Connect自訂**.
+1. 按一下&#x200B;**Marketo Sales Connect自訂**。
 
    ![](assets/three.png)
 
-1. 按一下 **連線到Salesforce**.
+1. 按一下&#x200B;**連線到Salesforce**。
 
    ![](assets/four.png)
 
@@ -47,21 +47,21 @@ Salesforce自訂套件的更新將包括增強功能和錯誤修正。 若要檢
 
 >[!NOTE]
 >
->**需要管理員許可權。**
+>**需要系統管理員許可權。**
 
-1. 在 [網頁應用程式](https://www.toutapp.com)，按一下齒輪圖示並選取 **設定**.
+1. 在[網頁應用程式](https://www.toutapp.com)中，按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. 在管理設定下，按一下 **Salesforce**.
+1. 在[管理設定]下，按一下&#x200B;**Salesforce**。
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. 如果有可用的更新， Sales Connect Customization卡片就會顯示。 按一下 **更新自訂**.
+1. 如果有可用的更新， Sales Connect Customization卡片就會顯示。 按一下&#x200B;**更新自訂專案**。
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. 按一下 **升級**.
+1. 按一下&#x200B;**升級**。
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 
@@ -75,9 +75,9 @@ Salesforce自訂套件的更新將包括增強功能和錯誤修正。 若要檢
 
 ## 自訂活動欄位 {#custom-activity-fields}
 
-Marketo會偵測新欄位的建立，然後執行一次性資料回填、重新對應，並將值持續同步至 **新** 僅限欄位。 不會更新舊欄位。
+Marketo將偵測新欄位的建立，然後僅執行資料的一次性回填、重新對應，以及值的持續同步到&#x200B;**新**&#x200B;欄位。 不會更新舊欄位。
 
-| **欄位名稱** | **說明** |
+| **欄位名稱** | **描述** |
 |---|---|
 | MSE呼叫本機是否存在ID | 身為使用者，當您從MSE電話撥打電話時，可以選擇「本機顯示狀態」作為選項。 來電會顯示接收者的本機號碼。 |
 | MSE通話錄製URL | 可以錄製通話，並在這裡記錄錄製的連結。 |
@@ -118,8 +118,8 @@ Marketo會偵測新欄位的建立，然後執行一次性資料回填、重新�
    <td>參與的說明。</td> 
   </tr> 
   <tr> 
-   <td>MSE — 上次行銷參與來源</td> 
-   <td>行銷參與度的來源。</td> 
+   <td>MSE — 上次行銷參與Source</td> 
+   <td>行銷參與的Source。</td> 
   </tr> 
   <tr> 
    <td colspan="1">MSE — 上次行銷參與型別</td> 
@@ -150,7 +150,7 @@ Marketo會偵測新欄位的建立，然後執行一次性資料回填、重新�
 
 ## 按鈕 {#buttons}
 
-| **按鈕名稱** | **說明** |
+| **按鈕名稱** | **描述** |
 |---|---|
 | 傳送MSE電子郵件 | 從Salesforce傳送銷售電子郵件。 |
 | 新增至MSE行銷活動 | 從Salesforce新增至MSE行銷活動。 |
@@ -159,15 +159,15 @@ Marketo會偵測新欄位的建立，然後執行一次性資料回填、重新�
 
 ## 大量動作按鈕 {#bulk-action-buttons}
 
-| **按鈕名稱** | **說明** |
+| **按鈕名稱** | **描述** |
 |---|---|
 | 新增至MSE行銷活動 | 從Salesforce新增至MSE行銷活動。 |
 | 推送至MSE | 將連絡人從Salesforce推播至MSE。 |
 
 ## 使用手冊 {#user-guides}
 
-[Salesforce中的MSE自訂報表](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+Salesforce中的[MSE自訂報告](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
-[Salesforce的MSE](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+Salesforce的[MSE](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 
-[Salesforce Lightning的MSE](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+Salesforce Lightning的[MSE](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

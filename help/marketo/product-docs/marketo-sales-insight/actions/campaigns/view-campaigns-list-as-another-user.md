@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 在網頁應用程式中，按一下 **行銷活動**.
+1. 在網頁應用程式中，按一下&#x200B;**行銷活動**。
 
    ![](assets/view-campaigns-list-as-another-user-1.png)
 
-1. 按一下 **檢視方式** 下拉式清單，然後選取所需的使用者。
+1. 按一下&#x200B;**以**&#x200B;檢視下拉式清單，然後選取想要的使用者。
 
    ![](assets/view-campaigns-list-as-another-user-2.png)
 

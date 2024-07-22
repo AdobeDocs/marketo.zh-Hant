@@ -19,15 +19,15 @@ Marketo Engage提供對Salesforce自訂物件同步的微調控制。 這可讓�
 >
 >**需要管理員許可權**
 
-1. 按一下 **[!UICONTROL 管理員]**.
+1. 按一下&#x200B;**[!UICONTROL 管理員]**。
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. 按一下 **[!UICONTROL 管理員]** 然後 **[!UICONTROL Salesforce物件同步]**.
+1. 按一下&#x200B;**[!UICONTROL 管理員]**，然後按一下&#x200B;**[!UICONTROL Salesforce物件同步]**。
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **[!UICONTROL Salesforce物件同步]** 會顯示在左欄。
+1. **[!UICONTROL Salesforce Objects Sync]**&#x200B;出現在左欄。
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -35,19 +35,19 @@ Marketo Engage提供對Salesforce自訂物件同步的微調控制。 這可讓�
 
    ![](assets/image2014-12-10-13-3a10-3a11.png)
 
-1. 按一下 **[!UICONTROL 編輯可見欄位]**.
+1. 按一下&#x200B;**[!UICONTROL 編輯可見欄位]**。
 
    >[!TIP]
    >
-   >如果 **[!UICONTROL 編輯可見欄位]** 按鈕呈現灰色，此物件目前正在智慧清單或智慧行銷活動中使用。 移除所有關聯以繼續。
+   >如果&#x200B;**[!UICONTROL 編輯可見欄位]**&#x200B;按鈕呈現灰色，表示物件目前已在智慧列示或智慧行銷活動中使用。 移除所有關聯以繼續。
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
-1. 如果您的全域同步已啟用，請按一下 **[!UICONTROL 停用全域同步]**.
+1. 如果您的全域同步已啟用，請按一下&#x200B;**[!UICONTROL [停用全域同步]]**。
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
-1. 勾選所需的篩選/觸發條件限制旁的方塊，然後按一下 **[!UICONTROL 儲存]**.
+1. 勾選所需的篩選/觸發條件約束旁邊的方塊，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/image2014-12-10-13-3a10-3a47.png)
 
@@ -55,7 +55,7 @@ Marketo Engage提供對Salesforce自訂物件同步的微調控制。 這可讓�
    >
    >依預設，選取所有欄位作為篩選條件上的限制。
 
-1. 按一下 **[!UICONTROL 欄位]** 標籤以確認您的變更。
+1. 按一下&#x200B;**[!UICONTROL 欄位]**&#x200B;標籤以確認您的變更。
 
    ![](assets/image2014-12-10-13-3a10-3a56.png)
 

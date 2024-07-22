@@ -5,7 +5,7 @@ exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 如何追蹤您的電子郵件附件 {#how-to-track-your-email-attachments}
 
-Sales Connect提供附件(.doc、.ppt、.pdf)追蹤功能，讓您檢視附件何時已開啟/下載，以及收件者瀏覽的頁面。 您可透過以下兩個頁面使用我們的可追蹤附件功能： [網頁應用程式](https://toutapp.com/login) 和Gmail (或Google應用程式)。
+Sales Connect提供附件(.doc、.ppt、.pdf)追蹤功能，讓您檢視附件何時已開啟/下載，以及收件者瀏覽的頁面。 我們將允許您使用[網頁應用程式](https://toutapp.com/login)和Gmail (或Google應用程式)中的可追蹤附件功能。
 
 >[!NOTE]
 >
@@ -34,13 +34,13 @@ Sales Connect提供附件(.doc、.ppt、.pdf)追蹤功能，讓您檢視附件�
 
 **如何傳送您的第一個可追蹤附件**
 
-1. 撰寫電子郵件或編輯範本，然後按一下 **內容** 按鈕。
+1. 撰寫電子郵件或編輯範本，然後按一下&#x200B;**內容**&#x200B;按鈕。
 
 1. 上傳您的附件並將其寄出。 我們支援PDF、Word檔案和Powerpoint簡報。
 
-1. 選取 **新增至電子郵件**.
+1. 選取&#x200B;**新增至電子郵件**。
 
-1. 按一下 **傳送** 並啟動您的即時摘要。 您會在收件者開啟並瀏覽附件時看到收件者。
+1. 按一下&#x200B;**傳送**&#x200B;並啟動您的即時摘要。 您會在收件者開啟並瀏覽附件時看到收件者。
 
 >[!TIP]
 >
@@ -61,4 +61,4 @@ Sales Connect提供附件(.doc、.ppt、.pdf)追蹤功能，讓您檢視附件�
 
 即使您將訊息傳送至其他電子郵件地址，我們不會記錄您檢視您在即時摘要中傳送給自己的任何電子郵件。 我們的追蹤是以裝置為基礎；只要您使用已登入Sales Connect的電腦，我們就會篩選掉該活動。
 
-原因何在？ Sales Connect是智慧型的，我們的作用中使用者絕不會原諒我們每次檢視他們傳送的電子郵件時，會在「即時摘要活動」中看到他們自己的資訊。
+原因何在？ Sales Connect是智慧型的，我們的作用中使用者絕不會原諒我們每次檢視他們傳送的電子郵件時，會在「即時摘要活動」中突然顯示他們自己的資訊。

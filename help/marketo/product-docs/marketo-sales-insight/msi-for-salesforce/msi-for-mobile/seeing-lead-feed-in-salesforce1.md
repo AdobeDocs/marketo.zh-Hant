@@ -15,7 +15,7 @@ ht-degree: 0%
 
 潛在客戶摘要是潛在客戶所進行有趣事件的最新清單。
 
-1. 前往 **Marketo** Salesforce1中的區域。
+1. 前往Salesforce1中的&#x200B;**Marketo**&#x200B;區域。
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. 點選 **潛在客戶摘要**.
+1. 點選&#x200B;**銷售機會摘要**。
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
@@ -33,6 +33,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Salesforce1中的有趣時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [在Salesforce1中傳送Marketo電子郵件和Campaign及監看清單動作](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Salesforce1中的首選](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* Salesforce中的[有趣時刻1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [在Salesforce中傳送Marketo電子郵件和行銷活動及監看清單動作1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Salesforce中的首選1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

@@ -23,15 +23,15 @@ ht-degree: 0%
 
 ## 核心平台增強功能 {#core-platform-enhancements}
 
-* **輪候：** 新程式/事件狀態，可在您想要時等候成員 [擱置它們](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 直到空缺開啟。 這適用於與Marketo Classic中的事件計畫相關的管道，以及與Marketo Sky中的網路研討會計畫相關的事件和事件。 依預設，「輪候」與「已註冊」的步驟值相同。
+* **已輪候：**&#x200B;當您要[保留成員](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)直到空缺開啟為止，要輪候成員的新計畫/事件狀態。 這適用於與Marketo Classic中的事件計畫相關的管道，以及與Marketo Sky中的網路研討會計畫相關的事件和事件。 依預設，「輪候」與「已註冊」的步驟值相同。
 * **[自訂通訊限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**：管理員現在可以設定自訂每日或每週通訊限制。
-* **[Smart Campaign Asset API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**：透過依據更新日期和ID擷取的智慧行銷活動記錄，讓您在Marketo外部的分析更為豐富。
-* **電子郵件的HTTPS追蹤連結：** 對於已購買「追蹤連結的安全網域」的客戶，品牌追蹤連結現在可以在電子郵件中顯示為HTTPS。
-* **電子郵件傳遞能力Powerpack更新**：可標幟特定測試結果並加上註解、透過URL與利害關係人分享結果，以及追蹤變更以便在利害關係人編輯內容時檢視電子郵件的演化。
+* **[Smart Campaign Asset API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**：透過更新日期和ID的智慧行銷活動記錄擷取，讓您在Marketo外部的分析更為豐富。
+* **電子郵件的HTTPS追蹤連結：**&#x200B;對於已購買「追蹤連結的安全網域」的客戶，品牌追蹤連結現在可以在您的電子郵件中顯示為HTTPS。
+* **電子郵件傳遞能力Powerpack更新**：能夠標幟並評論特定測試結果、透過URL與利害關係人分享結果，以及追蹤變更，以便在利害關係人編輯內容時檢視電子郵件的演變。
 
 Account-Based Marketing
 
-**[accountai](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** 現已正式推出。 AccountAI使用人工智慧來顯示您應該針對ABM策略鎖定的帳戶。
+**[AccountAI](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)**&#x200B;現已正式推出。 AccountAI使用人工智慧來顯示您應該針對ABM策略鎖定的帳戶。
 
 <br> 
 
@@ -41,18 +41,18 @@ Account-Based Marketing
 
 ## Marketo Sky {#marketo-sky}
 
-* **完整的電子郵件程式功能**：傳送電子郵件、建立A/B測試，以及追蹤結果，以提供使用者友善的體驗。
-* **Smart Campaign功能**：隨著智慧行銷活動功能在Sky中繼續推出，享受新使用者介面中增強的穩定性。
-* **管理Design Studio資產**：新增從Design Studio清單檢視大量管理範本、影像、Forms、代碼片段、檔案、電子郵件和登入頁面的功能。
-* **在收件者時區儀表板中傳遞**：瞭解使用Sky中的「在收件者時區中傳遞」功能所傳送電子郵件報表的客戶行為。
+* **完整的電子郵件程式功能**：傳送電子郵件、建立A/B測試並追蹤結果，以提供使用者友善的體驗。
+* **智慧型行銷活動功能**：隨著智慧型行銷活動功能在Sky中繼續推出，讓您在新的使用者介面中享受增強的穩定性。
+* **管理Design Studio Assets**：新增從Design Studio清單檢視大量管理範本、影像、Forms、代碼片段、檔案、電子郵件和登入頁面的功能。
+* **在收件者時區傳遞控制面板**：瞭解客戶使用Sky中的在收件者時區傳遞功能所傳送電子郵件的報告行為。
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **增強型稽核**：所有人員、電子郵件和裝置的最新可見度 [內容](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) 執行個體中已新增以下功能： [結束現有的行銷活動](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)由其他使用者建立。
-* **[取消訂閱管理](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**：透過以下能力，最大化傳遞能力及合規性 [封鎖電子郵件網域](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) 避免被連絡。 Marketo在傳送電子郵件之前，也會交叉參考潛在客戶資料庫以取消訂閱。
+* **增強型稽核**：在例項中，新增其他使用者建立的[結束現有行銷活動](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)的功能，以檢視所有人員、電子郵件和[內容](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)。
+* **[取消訂閱管理](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**：透過[封鎖電子郵件網域](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md)的連絡功能，最大化傳遞能力及合規性。 Marketo在傳送電子郵件之前，也會交叉參考潛在客戶資料庫以取消訂閱。
 
 ## Bizible by Marketo {#bizible-by-marketo}
 
-* **Bizible Discover功能增強功能**：新的控制面板分段功能可讓行銷人員更加瞭解效能。
-* **多貨幣支援**：使用Bizible以CRM貨幣表格為基礎的全新自動貨幣轉換功能，在企業貨幣與任何本幣貨幣之間切換。
-* **CRM促銷活動成本**：測量離線行銷活動的支出和ROI，並可自動從CRM行銷活動物件提取成本資料。
+* **Bizible Discover功能增強功能**：新的儀表板分段功能可讓行銷人員更瞭解效能。
+* **多貨幣支援**：使用Bizible以CRM貨幣表格為基礎的全新自動貨幣轉換功能，在您的公司貨幣與任何本幣之間切換。
+* **CRM行銷活動成本**：測量離線行銷活動的支出和ROI，並自動從CRM行銷活動物件提取成本資料。

@@ -14,11 +14,11 @@ ht-degree: 0%
 
 當具有Adobe身分的使用者需要登入Marketo Engage應用程式時，他們必須透過AdobeID登入連結登入，而不是透過Marketo Engage登入頁面上的典型登入。 按一下連結後，系統會將使用者導向至Marketo Engage應用程式。
 
-1. 按一下 **[!UICONTROL 繼續使用AdobeID]** 在Marketo Engage登入頁面上。
+1. 在Marketo Engage登入頁面上按一下&#x200B;**[!UICONTROL 繼續使用AdobeID]**。
 
    ![](assets/user-sign-in-with-adobe-id-1.png)
 
-1. 輸入您的Adobe認證，然後按一下 **[!UICONTROL 繼續]**.
+1. 輸入您的Adobe認證，然後按一下&#x200B;**[!UICONTROL 繼續]**。
 
    ![](assets/user-sign-in-with-adobe-id-2.png)
 

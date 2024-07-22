@@ -21,14 +21,14 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [建立計畫](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [建立程式](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [建立電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
 >[!CAUTION]
 >
->Champion/Challenger電子郵件僅適用於觸發行銷活動和參與方案資料流。 對於批次郵件，請使用電子郵件程式的 [A/B測試功能](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
+>Champion/Challenger電子郵件僅適用於觸發行銷活動和參與方案資料流。 若要批次寄送，請使用電子郵件程式的[A/B測試功能](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -38,9 +38,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >針對單次郵件爆炸，深入瞭解 [電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
+   >針對一次性郵件爆炸，深入瞭解[電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)。
 
-1. 在 **電子郵件動作**，按一下 **新增測試**.
+1. 在&#x200B;**電子郵件動作**&#x200B;下，按一下&#x200B;**新增測試**。
 
    ![](assets/chmapion2.jpg)
 
@@ -50,4 +50,4 @@ ht-degree: 0%
    >
    >* [冠軍/挑戰者：整封電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
    >* [冠軍/挑戰者：主旨列](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
-   >* [冠軍/挑戰者：從地址](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
+   >* [冠軍/挑戰者：寄件者地址](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)

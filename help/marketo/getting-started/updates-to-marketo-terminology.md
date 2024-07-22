@@ -71,15 +71,15 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-潛在客戶與人員 **是相同內容**.
+潛在客戶與人員&#x200B;**為相同專案**。
 
 ## Token {#tokens}
 
-含有單字lead的權杖 **未變更**. 很抱歉造成任何混淆；但變更所有代號以符合新術語會中斷目前使用的許多代號。 所以您仍會看到「`{{lead.First Name}}`.」 沒有人員特定的Token。
+包含單字lead **的權杖未變更**。 很抱歉造成任何混淆；但變更所有代號以符合新術語會中斷目前使用的許多代號。 所以您仍會看到&quot;`{{lead.First Name}}`&quot;之類的權杖。 沒有人員特定的Token。
 
 >[!NOTE]
 >
->那裡 *是* 稱為「人員備忘稿」的代號，但該代號永遠存在。 如果有的話，它通常用於CRM中的說明欄位。
+>有&#x200B;*有*&#x200B;個稱為「個人附註」的權杖，但該權杖永遠存在。 如果有的話，它通常用於CRM中的說明欄位。
 
 ## 欄位管理 {#field-management}
 
@@ -110,9 +110,9 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->如需受影響的欄位名稱完整清單，請造訪此 [支援文章](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
+>如需受影響的欄位名稱完整清單，請造訪此[支援文章](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}。
 
-## Real-Time Personalization (RTP)現在是Web Personalization {#real-time-personalization-rtp-is-now-web-personalization}
+## 即時Personalization (RTP)現在是Web Personalization {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -139,10 +139,10 @@ ht-degree: 1%
 
 除了名稱變更外，現在它包含四個不同的應用程式：
 
-| **[網頁個人化](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | 在主畫面上擁有自己的圖磚 |
+| **[網頁Personalization](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | 在主畫面上擁有自己的圖磚 |
 |---|---|
-| **[帳戶型網頁行銷](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | 可透過「網頁個人化」拼貼存取 |
-| **[個人化重新目標定位](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | 可透過「網頁個人化」拼貼存取 |
+| **[以帳戶為基礎的網頁行銷](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | 可透過網頁Personalization圖磚存取 |
+| **[個人化重新目標定位](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | 可透過網頁Personalization圖磚存取 |
 | **[預測性內容](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | 在主畫面上擁有自己的圖磚 |
 
 >[!NOTE]

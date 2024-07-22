@@ -34,16 +34,16 @@ Analytics頁面每10分鐘更新一次。
 
 ## 我的索引標籤 {#me-tab}
 
-此 [「我」索引標籤](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} 是檢查電子郵件、範本和連結參與情況的絕佳地方。 如果您是Sales Insight Actions的管理員，您可以依團隊中的任何使用者來篩選，以檢視其統計資料。
+[我標籤](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"}是檢查電子郵件、範本和連結參與情況的絕佳位置。 如果您是Sales Insight Actions的管理員，您可以依團隊中的任何使用者來篩選，以檢視其統計資料。
 
 ## 團隊標籤 {#team-tab}
 
-在 [團隊索引標籤](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}，檢視您整個團隊的統計和排名。 您也可以依已建立的任何子團隊來篩選。
+在[團隊標籤](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}中，檢視您整個團隊的統計和排名。 您也可以依已建立的任何子團隊來篩選。
 
 ## 內容索引標籤 {#content-tab}
 
-此 [內容索引標籤](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} 包含有關範本、內容和連結的統計資料。 您可以依每個人篩選，或依管理員建立的團隊篩選。
+[內容標籤](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"}包含範本、內容和連結的統計資料。 您可以依每個人篩選，或依管理員建立的團隊篩選。
 
-如果您在主旨欄下看到藍色文字，表示範本已共用。 您可以按一下要帶到該範本的藍色文字。 按一下以檢視其使用狀況 **範本分析**.
+如果您在主旨欄下看到藍色文字，表示範本已共用。 您可以按一下要帶到該範本的藍色文字。 按一下&#x200B;**範本分析**&#x200B;以檢視其使用狀況。
 
 收件者按一下您電子郵件中的連結時，會計入「內容點選次數」。

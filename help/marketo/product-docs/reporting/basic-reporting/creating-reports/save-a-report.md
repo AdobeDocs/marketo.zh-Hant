@@ -15,23 +15,23 @@ ht-degree: 0%
 
 有時候，您可能需要儲存預設報表以便稍後再次檢視。 以下提供相關操作說明：
 
-1. 前往 **Analytics** 區域。
+1. 移至&#x200B;**Analytics**&#x200B;區域。
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. 選取 [報告型別](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. 選取[報告型別](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
-1. 按一下 **報表動作** 並選取 **另存為**.
+1. 按一下&#x200B;**報告動作**&#x200B;並選取&#x200B;**另存新檔**。
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **儲存至** 位置並選取 **資料夾**.
+1. **儲存至**&#x200B;位置並選取&#x200B;**資料夾**。
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **名稱** 報表並按一下 **儲存**.
+1. **為報告命名**，然後按一下&#x200B;**儲存**。
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->瞭解如何 [複製報告至群組報告](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
+>瞭解如何[複製報告至群組報告](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)。

@@ -15,19 +15,19 @@ ht-degree: 0%
 
 如果您有循環的「批次促銷活動」，而您不想再有這種活動，您可以取消未來的執行。 方法如下。
 
-1. 選取智慧行銷活動，然後按一下 **排程** 標籤。
+1. 選取Smart Campaign，然後按一下&#x200B;**排程**&#x200B;索引標籤。
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. 按一下 **排程週期性**.
+1. 按一下&#x200B;**排程週期**。
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
    >[!TIP]
    >
-   >您可以按一下 ![紅色x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) 旁邊的。 瞭解如何 [取消已排程的批次行銷活動執行](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
+   >您可以按一下單一回合旁邊的![紅色x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png)來取消單一回合。 瞭解如何[取消已排程的批次行銷活動執行](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}。
 
-1. 將排程設定為 **[!UICONTROL 無]** 並按一下 **[!UICONTROL 儲存]**.
+1. 將排程設定為&#x200B;**[!UICONTROL 無]**&#x200B;並按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 

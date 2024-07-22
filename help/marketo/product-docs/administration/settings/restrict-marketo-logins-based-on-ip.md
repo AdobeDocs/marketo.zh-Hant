@@ -23,19 +23,19 @@ ht-degree: 0%
 >
 >本文資訊適用於直接登入login.marketo.com的使用者，不適用於使用Adobe ID進行驗證的使用者。 目前無法對單一登入(SSO)登入強制執行IP限制。
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 
-1. 按一下 **[!UICONTROL 登入設定]**.
+1. 按一下&#x200B;**[!UICONTROL 登入設定]**。
 
    ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
-1. 按一下 **[!UICONTROL 編輯IP限制]**.
+1. 按一下&#x200B;**[!UICONTROL 編輯IP限制]**。
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. 選擇您是否要 **允許** 或 **區塊** 指定位址，輸入位址，然後按一下 **[!UICONTROL 儲存]**.
+1. 選擇您要&#x200B;**允許**&#x200B;或&#x200B;**封鎖**&#x200B;特定地址，輸入地址，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >* **[!UICONTROL 允許的IP位址]**：新增允許的IP位址具有包含性。 它會包含指定的所有IP位址，並排除其他所有位址。
    >* **[!UICONTROL 封鎖IP位址]**：防止特定IP存取Marketo。
-   >* **[!UICONTROL 停用IP限制]**：核取此項後將停止任何/所有限制規則運作。 將此用於測試目的。
+   >* **[!UICONTROL 停用IP限制]**：核取此項將會停止任何/所有限制規則運作。 將此用於測試目的。
 
    >[!NOTE]
    >

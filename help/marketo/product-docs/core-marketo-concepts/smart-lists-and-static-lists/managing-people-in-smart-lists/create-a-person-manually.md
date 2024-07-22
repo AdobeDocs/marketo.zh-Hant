@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >Marketo不支援包含emoji的電子郵件地址。
 
-1. 前往 **[!UICONTROL 資料庫]**.
+1. 移至&#x200B;**[!UICONTROL 資料庫]**。
 
    ![](assets/db-1.png)
 
-1. 在 **[!UICONTROL 新增]**，按一下 **[!UICONTROL 新人員]**.
+1. 在&#x200B;**[!UICONTROL 新增]**&#x200B;底下，按一下&#x200B;**[!UICONTROL 新增人員]**。
 
    ![](assets/two-2.png)
 
-1. 輸入人員資訊，然後按一下 **[!UICONTROL 建立]**.
+1. 輸入人員資訊，然後按一下[建立]。****
 
    ![](assets/three-2.png)
 

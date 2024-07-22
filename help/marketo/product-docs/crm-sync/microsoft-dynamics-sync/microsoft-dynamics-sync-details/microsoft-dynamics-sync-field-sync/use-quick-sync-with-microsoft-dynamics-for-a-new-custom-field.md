@@ -6,7 +6,7 @@ exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '356'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 行銷或銷售人員想要新欄位。 或者，您可能在初始欄位選取中忘記了一項。 或者，您的需求已變更。 無論如何，您可以使用「快速同步」來重新同步特定欄位。
 
-通常您會使用「快速同步」來新增欄位，並重新整理值。 但是，在某些情況下，您可能會想要同步現有欄位。 您可以根據更新或建立的日期範圍來限制欄位同步。 另請參閱 [進階同步選項](#Advanced_Sync_Options) 詳細資料請參閱下文。
+通常您會使用「快速同步」來新增欄位，並重新整理值。 但是，在某些情況下，您可能會想要同步現有欄位。 您可以根據更新或建立的日期範圍來限制欄位同步。 如需詳細資訊，請參閱下方的[進階同步選項](#Advanced_Sync_Options)。
 
 快速同步可以同步Null值。 例如，如果您使用值A和B，並將Dynamics中的B值變更為null，則會將null值同步至Marketo。
 
@@ -23,19 +23,19 @@ ht-degree: 1%
 
 以下說明如何使用「快速同步」來重新同步新欄位。
 
-1. 在Marketo Engage中，按一下 **[!UICONTROL 管理員]**.
+1. 在Marketo Engage中，按一下&#x200B;**[!UICONTROL 管理員]**。
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. 按一下 **[!UICONTROL Microsoft Dynamics]**.
+1. 按一下&#x200B;**[!UICONTROL Microsoft Dynamics]**。
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. 在欄位同步詳細資訊上，按一下 **[!UICONTROL 編輯]**.
+1. 在欄位同步處理詳細資料上，按一下&#x200B;**[!UICONTROL 編輯]**。
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
-1. 選取要快速同步的欄位並按一下 **[!UICONTROL 儲存]**.
+1. 選取要快速同步的欄位，然後按一下[儲存]。****
 
    ![](assets/image2016-8-25-15-3a26-3a11.png)
 
@@ -63,11 +63,11 @@ ht-degree: 1%
 
    ![](assets/select-field-reselect-hand.png)
 
-1. 按一下 **[!UICONTROL 進階同步]**.
+1. 按一下&#x200B;**[!UICONTROL 進階同步]**。
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. 選擇 **[!UICONTROL 已更新]** 並使用日期選擇器選取日期範圍。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 選擇&#x200B;**[!UICONTROL 已更新]**，並使用日期選擇器選取日期範圍。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
@@ -77,11 +77,11 @@ ht-degree: 1%
 
 在Dynamics和Marketo欄位不同步的罕見情況下，可以快速輕鬆地重新同步它們。
 
-1. 取消選取欄位並按一下 **[!UICONTROL 儲存]**.
+1. 取消選取欄位並按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/image2016-8-25-16-3a16-3a32-1.png)
 
-1. 重新選取欄位並按一下 **[!UICONTROL 儲存]**.
+1. 重新選取欄位並按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 

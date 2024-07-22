@@ -15,11 +15,11 @@ ht-degree: 0%
 
 需要對您已建立的自訂活動進行變更嗎？ 方法如下。
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/edit-a-custom-activity-1.png)
 
-1. 按一下 **[!UICONTROL Marketo自訂活動]**.
+1. 按一下&#x200B;**[!UICONTROL Marketo自訂活動]**。
 
    ![](assets/edit-a-custom-activity-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/edit-a-custom-activity-3.png)
 
-1. 按一下 **[!UICONTROL 自訂活動動作]** 並選取 **[!UICONTROL 編輯活動]**.
+1. 按一下&#x200B;**[!UICONTROL 自訂活動動作]**&#x200B;並選取&#x200B;**[!UICONTROL 編輯活動]**。
 
    ![](assets/edit-a-custom-activity-4.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/edit-a-custom-activity-5.png)
 
-1. 輸入您的新資訊，然後按一下 **[!UICONTROL 提交]**.
+1. 輸入您的新資訊並按一下&#x200B;**[!UICONTROL 提交]**。
 
    ![](assets/edit-a-custom-activity-6.png)
 

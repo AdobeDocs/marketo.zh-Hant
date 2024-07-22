@@ -7,7 +7,7 @@ feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[篩選行銷行事曆](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
+>[正在篩選行銷行事曆](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
 
 1. 定義篩選器。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a50-3a57.png)
 
-1. 為篩選器命名。 按一下 **[!UICONTROL 儲存]**.
+1. 為篩選器命名。 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2014-9-24-10-3a51-3a3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   您也可以 [傳送復本](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} 定義的所有元件給其他Marketo使用者。
+   您可以[將定義復本](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}傳送給其他Marketo使用者。
 
    >[!NOTE]
    >

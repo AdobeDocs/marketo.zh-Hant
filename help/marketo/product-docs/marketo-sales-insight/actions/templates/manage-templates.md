@@ -5,7 +5,7 @@ exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '525'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,19 @@ ht-degree: 0%
 
 ## 建立範本 {#create-a-new-template}
 
-1. 導覽至 **範本** 標籤。
+1. 導覽至&#x200B;**範本**&#x200B;標籤。
 
    ![](assets/manage-templates-1.png)
 
-1. 按一下 **建立範本**.
+1. 按一下&#x200B;**建立範本**。
 
    ![](assets/manage-templates-2.png)
 
-1. 選擇 **名稱** 和 **類別** ，然後按一下 **建立**.
+1. 為您的電子郵件範本選擇&#x200B;**名稱**&#x200B;和&#x200B;**類別**，然後按一下[建立]。****
 
    ![](assets/manage-templates-3.png)
 
-1. 在範本編輯器中，為您的電子郵件建立主旨行並輸入所需的訊息。 使用編輯工具（字型、文字大小等） 以自訂外觀。 按一下 **儲存** 以完成變更。
+1. 在範本編輯器中，為您的電子郵件建立主旨行並輸入所需的訊息。 使用編輯工具（字型、文字大小等） 以自訂外觀。 按一下&#x200B;**儲存**&#x200B;以完成變更。
 
    ![](assets/manage-templates-4.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 如果您使用我們的其中一個團隊帳戶，依預設您所有的範本仍是私人範本。
 
-1. 導覽至 **範本** 標籤。
+1. 導覽至&#x200B;**範本**&#x200B;標籤。
 
    ![](assets/manage-templates-5.png)
 
@@ -71,19 +71,19 @@ ht-degree: 0%
 
    ![](assets/manage-templates-6.png)
 
-1. 按一下 **共用** 按鈕。
+1. 按一下&#x200B;**共用**&#x200B;按鈕。
 
    ![](assets/manage-templates-7.png)
 
    >[!NOTE]
    >
-   >與您共用的範本將顯示在 **團隊範本** 頁首的標頭。 團隊僅適用於Premium使用者。
+   >與您共用的範本將顯示在「範本」頁面左側的&#x200B;**團隊範本**&#x200B;標題下。 團隊僅適用於Premium使用者。
 
 1. 按一下「共用對象」下拉式清單，然後選取您要與其共用的團隊。
 
    ![](assets/manage-templates-8.png)
 
-1. 您可以選擇將範本保留在目前類別中，或將它移至其他類別。 在此範例中，我們會將其保留在目前的範例中。 按一下 **共用** 完成時。
+1. 您可以選擇將範本保留在目前類別中，或將它移至其他類別。 在此範例中，我們會將其保留在目前的範例中。 完成時，按一下&#x200B;**共用**。
 
    ![](assets/manage-templates-9.png)
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
 您可以從任何類別將範本新增至「我的最愛」清單。 這會自動在清單頂端產生新類別，讓您能夠快速存取最常使用的範本。
 
-1. 導覽至 **範本** 標籤。
+1. 導覽至&#x200B;**範本**&#x200B;標籤。
 
    ![](assets/manage-templates-10.png)
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 ## 自訂範本檢視 {#customize-template-view}
 
-從 **檢視** 從下拉式清單中，您可以選擇檢視：所有範本、您的範本、我的最愛範本、共用範本、非共用範本，或未使用的範本（過去90天內未使用的範本）。
+從&#x200B;**檢視**&#x200B;下拉式清單中，您可以選擇檢視：所有範本、您的範本、最愛範本、共用範本、非共用範本，或未使用的範本（過去90天未使用的範本）。
 
 ![](assets/manage-templates-13.png)
 
@@ -121,11 +121,11 @@ ht-degree: 0%
 
    ![](assets/manage-templates-14.png)
 
-1. 按一下 **封存**.
+1. 按一下&#x200B;**封存**。
 
    ![](assets/manage-templates-15.png)
 
-1. 按一下 **封存** 以確認。
+1. 按一下&#x200B;**封存**&#x200B;以確認。
 
    ![](assets/manage-templates-16.png)
 
@@ -147,10 +147,10 @@ ht-degree: 0%
 
    ![](assets/manage-templates-17.png)
 
-1. 按一下 **刪除**.
+1. 按一下&#x200B;**刪除**。
 
    ![](assets/manage-templates-18.png)
 
-1. 按一下 **刪除** 以確認。
+1. 按一下&#x200B;**刪除**&#x200B;確認。
 
    ![](assets/manage-templates-19.png)

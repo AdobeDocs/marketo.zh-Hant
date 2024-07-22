@@ -19,18 +19,18 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 在網頁應用程式中，按一下齒輪圖示並選取 **設定**.
+1. 在網頁應用程式中，按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/one-3.png)
 
-1. 在管理設定下，按一下 **一般**.
+1. 在[管理設定]下，按一下[一般] ****。
 
    ![](assets/two-3.png)
 
-1. 輸入您要封鎖的網域，然後按一下 **封鎖網域**.
+1. 輸入您要封鎖的網域，然後按一下&#x200B;**封鎖網域**。
 
    ![](assets/three-3.png)
 
    >[!NOTE]
    >
-   >屬於的電子郵件 [群組電子郵件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) 由於傳送至封鎖的電子郵件網域而傳送失敗時，將會以無訊息方式失敗，且不會出現在失敗的電子郵件資料夾中。
+   >屬於[群組電子郵件](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)傳送的電子郵件，若因傳送至封鎖的電子郵件網域而失敗，將會自動失敗，且不會出現在失敗的電子郵件資料夾中。

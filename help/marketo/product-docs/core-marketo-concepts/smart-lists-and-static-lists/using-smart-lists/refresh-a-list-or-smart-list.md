@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 重新整理結果 {#refresh-results}
 
-1. 若要更新中的資料 **[!UICONTROL 人員]** 按一下智慧列示的重新整理圖示。
+1. 若要更新智慧清單&#x200B;**[!UICONTROL 人員]**&#x200B;索引標籤中的資料，請按一下重新整理圖示。
 
    ![](assets/refreshbutton.png)
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[從清單或智慧清單將人員匯出至Excel](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md){target="_blank"}
+>[從清單或智慧清單匯出人員至Excel](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md){target="_blank"}

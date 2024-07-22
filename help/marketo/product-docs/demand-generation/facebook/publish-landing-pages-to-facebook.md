@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359823
-description: 將登入頁面發佈至Facebook - Marketo檔案 — 產品檔案
-title: 將登陸頁面發佈至Facebook
+description: Publish登陸頁面至Facebook - Marketo檔案 — 產品檔案
+title: Publish登陸頁面至Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
-# 將登陸頁面發佈至Facebook {#publish-landing-pages-to-facebook}
+# Publish登陸頁面至Facebook {#publish-landing-pages-to-facebook}
 
 您可以將登入頁面發佈到Facebook，以符合已參加活動的受眾，並為您的方案產生更多流量。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a53-3a46.png)
 
-1. 選取 **發佈至Facebook** 從登陸頁面動作。
+1. 從登陸頁面動作中選取&#x200B;**Publish至Facebook**。
 
    ![](assets/image2015-4-22-16-3a54-3a55.png)
 
@@ -49,13 +49,13 @@ ht-degree: 0%
    >
    >您必須使用擁有您要發佈Marketo登陸頁面之Facebook頁面管理員許可權的帳戶。
 
-1. 選取 **facebook頁面** 您要發佈登入頁面，並輸入Marketo登入頁面應該顯示於此之名稱的位置。
+1. 選取您要發佈登入頁面的&#x200B;**Facebook頁面**，並輸入Marketo登入頁面應該顯示的名稱。
 
    ![](assets/image2015-4-22-18-3a31-3a39.png)
 
    >[!NOTE]
    >
-   >若要取代您先前發佈至Facebook的Marketo登陸頁面，請選取「 」 **取代現有索引標籤** 並從下拉式清單中選擇要取代的標籤。 請注意，這不會取代非Marketo標籤。
+   >若要取代您先前發佈至Facebook的Marketo登入頁面，請選取&#x200B;**取代現有索引標籤**，然後從下拉式清單中選擇要取代的索引標籤。 請注意，這不會取代非Marketo標籤。
 
 1. 潛在客戶現在可以直接在您的Facebook頁面上造訪您的登陸頁面。 只需按一下封面影像下的標簽名稱。
 

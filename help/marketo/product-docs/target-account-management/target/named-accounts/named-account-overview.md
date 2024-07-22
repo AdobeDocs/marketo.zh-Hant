@@ -61,7 +61,7 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td><strong>SIC 代碼</strong></td> 
-   <td><span><strong>S</strong>標準 <strong>I</strong>工業 <strong>C</strong>分類 — 用於分類產業的四位數代碼<br></span></td> 
+   <td><span><strong>S</strong>標準<strong>I</strong>產業<strong>C</strong>分類 — 用於分類產業的四位數代碼<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>收入</strong></td> 

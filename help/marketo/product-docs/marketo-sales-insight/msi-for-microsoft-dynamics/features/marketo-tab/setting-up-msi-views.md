@@ -5,7 +5,7 @@ exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 在Dynamics中安裝Sales Insight外掛程式，會自動在網站地圖上新增「首選」和相關儀表板。 如果由於某種原因沒有新增儀表板，以下說明如何手動新增儀表板。
 
-1. 在Dynamics中，按一下齒輪圖示並選取 **進階設定** 從下拉式清單。
+1. 在Dynamics中，按一下齒輪圖示，然後從下拉式清單中選取&#x200B;**進階設定**。
 
-1. 在熒幕左上方，按一下 **設定**. 在「自訂」底下，選擇 **自訂**.
+1. 在熒幕左上方，按一下&#x200B;**設定**。 在[自訂]下，選擇&#x200B;**自訂**。
 
-1. 按一下 **自訂系統**.
+1. 按一下&#x200B;**自訂系統**。
 
-1. 在左側的樹狀結構中，按一下 **使用者端擴充功能** 並連按兩下 **網站地圖**.
+1. 在左側的樹狀結構中，按一下&#x200B;**使用者端擴充功能**，然後按兩下&#x200B;**網站地圖**。
 
 1. 按一下向右箭號移至下一頁。 在銷售底下，您應該會看到Marketo。 如果沒有該套件，請確定您正確匯入該套件。
 
@@ -32,26 +32,26 @@ ht-degree: 0%
 
    **首選**</br>
 URL： MainviewBestbets.html</br>
-圖示：/WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
+圖示： /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
 識別碼： marketo_bestbets</br>
 標題：首選
 
    **我的電子郵件**</br>
 URL： mkt_/MainViewMyEmail.html</br>
-圖示：/WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
+圖示： /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
 識別碼： marketo_myemail</br>
 標題：我的電子郵件
 
    **網頁活動**</br>
 URL： mkt_/MainViewWebActivity.html</br>
-圖示：/WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
+圖示： /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
 識別碼： marketo_webactivity</br>
 標題：網頁活動
 
    **匿名網路活動**</br>
 URL： mkt_/MainViewWebActivity.html</br>
-圖示：/WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
-ID： marketo_anonymous_webactivity</br>
+圖示： /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
+識別碼： marketo_anonymous_webactivity</br>
 標題：匿名網路活動
 
-1. 按一下 **儲存** 完成時。
+1. 完成時，按一下&#x200B;**儲存**。

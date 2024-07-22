@@ -6,7 +6,7 @@ exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ## 我可以變更Marketo中的銷售機會擁有者嗎？ {#can-i-change-the-lead-owner-in-marketo}
 
-絕對可以，只要使用 [變更擁有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"} 流量動作。
+絕對可以，只要使用[變更擁有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}流程動作即可。
 
 >[!NOTE]
 >
->您無法使用變更擁有者資訊 [使用人員詳細資料頁面](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
+>您無法使用[使用人員詳細資料頁面](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}變更擁有者資訊。
 
 ## 我可以如何處理這些資料？ {#what-can-i-do-with-this-data}
 
@@ -46,6 +46,6 @@ ht-degree: 0%
 * 傳送包含銷售擁有者簽名的個人化電子郵件
 * 篩選特定銷售代表，以進行行銷或甚至分析成效
 * Marketo中的指派（和重新指派）規則
-* 在中使用它們 [變更擁有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}, and [Create Task](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} 流程動作
+* 在[變更擁有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}、[將人員同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}和[建立任務](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}流程動作中使用它們
 
 Marketo的Salesforce同步處理確實非常棒。 沒有人能做得這麼好！

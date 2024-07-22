@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 已檢視的網頁、網頁活動報表 {#web-pages-viewed-web-page-activity-report}
 
-從 [網頁活動報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)，您即可在報表中看到該人員檢視的特定頁面。
+您可以從[網頁活動報告](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)中檢視使用者在報告中檢視的特定頁面。
 
 >[!PREREQUISITES]
 >
->若要在Marketo中從您的網站擷取活動，您首先需要  [在您的網站上設定Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>若要從Marketo中的網站擷取活動，您首先需要在您的網站上[設定Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
 
-1. 在您的 [網頁活動報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)，按一下「頁面檢視」欄中的數字。
+1. 在您的[網頁活動報告](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)中，按一下「頁面檢視」欄中的數字。
 
    ![](assets/image2014-9-16-14-3a54-3a8.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >建立  [公司網站活動報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) 檢視哪些公司正在造訪您的網站。
+   >建立[公司網站活動報告](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)，檢視哪些公司正在造訪您的網站。

@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 啟用/停用電子郵件程式中的通訊限制 {#enable-disable-communication-limits-in-an-email-program}
 
-執行電子郵件程式時，您可以選擇忽略或遵守 [管理員層級通訊限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). 以下是其操作方式。
+執行電子郵件程式時，您可以選擇忽略或遵守[管理員層級的通訊限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)。 以下是其操作方式。
 
 >[!NOTE]
 >
->通訊限製為 [在管理員區段中設定](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) 並協助您避免傳送過多電子郵件給某人。
+>通訊限制在管理員區段](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)中設定為[，可協助您避免傳送過多電子郵件給某人。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,12 +27,12 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. 在 **設定** 索引標籤中，連按兩下通訊限制條列專案。
+1. 在&#x200B;**設定**&#x200B;標籤下，連按兩下通訊限制條列專案。
 
    ![](assets/blockoperational.png)
 
-1. 根據預設，如果達到通訊限制，則會封鎖非作業電子郵件，但如果您想略過這些限制，請清除核取方塊並按一下 **儲存**.
+1. 根據預設，如果達到通訊限制，則會封鎖非作業電子郵件，但如果您要略過這些限制，請清除核取方塊並按一下[儲存]。****
 
    ![](assets/ifaperson.jpg)
 
-   離開 **封鎖非營運電子郵件** 勾選後，系統就不會將電子郵件傳送給任何收到超過管理員設定允許數量之電子郵件的人。
+   若保留&#x200B;**封鎖非營運電子郵件**&#x200B;已核取，則將無法傳送電子郵件給收到超過系統管理員設定允許之電子郵件的任何人。

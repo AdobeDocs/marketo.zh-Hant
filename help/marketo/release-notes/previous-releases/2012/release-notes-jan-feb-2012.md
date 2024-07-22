@@ -6,7 +6,7 @@ exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ _適用於Pro和Enterprise版本_
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## 細分  {#segmentation}
+## 區段  {#segmentation}
 
 _適用於Pro和Enterprise版本_
 

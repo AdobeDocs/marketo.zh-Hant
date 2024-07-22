@@ -5,7 +5,7 @@ exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -15,25 +15,25 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [步驟4之1：安裝具有資源擁有者密碼控制連線的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"}
->* [步驟4之2：使用資源擁有者密碼控制連線設定Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
+>* [步驟2之4：使用資源擁有者密碼控制連線設定Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
 
-1. 瀏覽至此 [Microsoft文章](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration){target="_blank"}.
+1. 瀏覽至此[Microsoft文章](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration){target="_blank"}。
 
 1. 請依照所有步驟操作。 在步驟3中，輸入相關的應用程式名稱(例如「Marketo整合」)。 在支援的帳戶型別下，選取僅在此組織目錄中的帳戶。
 
 1. 寫下應用程式ID (ClientId)。 您稍後需要在Marketo中輸入。
 
-1. 請依照下列步驟授予管理員同意： [本文](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
+1. 依照[本文章](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}中的步驟授與管理員同意。
 
-1. 按一下「 」，在「管理中心」產生使用者端密碼 **[!UICONTROL 憑證和密碼]**.
+1. 按一下&#x200B;**[!UICONTROL 憑證與密碼]**，在管理中心產生使用者端密碼。
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-1.png)
 
-1. 按一下 **[!UICONTROL 新使用者端密碼]**.
+1. 按一下&#x200B;**[!UICONTROL 新增使用者端密碼]**。
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-2.png)
 
-1. 新增使用者端密碼說明，然後按一下 **[!UICONTROL 新增]**.
+1. 新增使用者端密碼描述，然後按一下&#x200B;**[!UICONTROL 新增]**。
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-3.png)
 
@@ -45,14 +45,14 @@ ht-degree: 0%
 
 ## Azure AD Federated與AD FS內部部署 {#azure-ad-federated-with-ad-fs-on-prem}
 
-Federated Azure AD至ADFS Onprem需要為特定應用程式建立主領域探索原則。 使用此原則時，Azure AD會將驗證要求重新導向至同盟服務。 必須在AD Connect中啟用密碼雜湊同步處理。 如需詳細資訊，請參閱 [使用ROPC的OAuth](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc){target="_blank"} and [Set an hrd policy for an application](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application){target="_blank"}.
+Federated Azure AD至ADFS Onprem需要為特定應用程式建立主領域探索原則。 使用此原則時，Azure AD會將驗證要求重新導向至同盟服務。 必須在AD Connect中啟用密碼雜湊同步處理。 如需詳細資訊，請參閱使用ROPC的[OAuth](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc){target="_blank"}和[設定應用程式的hrd原則](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application){target="_blank"}。
 
-其他參考資料 [可在此處找到](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=此%20report%20also%20include%20federated，為%20federated%20to%20Azure%20AD。){target="_blank"}.
+其他參考[可以在此處找到](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=此%20report%20also%20include%20federated，為%20federated%20to%20Azure%20AD。){target="_blank"}。
 
 ## 繼續進行步驟4之前 {#before-proceeding-to-step-4}
 
-* 如果要限制同步處理的記錄數， [設定自訂同步篩選器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"} 立即。
-* 執行 [驗證Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"} 程式。 它可驗證您的初始設定是否正確完成。
+* 若要限制同步處理的記錄數目，請立即[設定自訂同步處理篩選器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"}。
+* 執行[驗證Microsoft Dynamics同步處理](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}程式。 它可驗證您的初始設定是否正確完成。
 * 在Microsoft Dynamics CRM中登入Marketo Sync User。
 
 >[!MORELIKETHIS]

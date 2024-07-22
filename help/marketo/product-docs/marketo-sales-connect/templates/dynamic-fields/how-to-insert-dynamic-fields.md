@@ -6,24 +6,24 @@ exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 # 如何插入動態欄位 {#how-to-insert-dynamic-fields}
 
-我們允許您使用預先定義的屬性(例如 `{{first_name}}` 或 `{{company}}`. 這些欄位可讓您以電子郵件傳送多個連絡人，並自動完成這些欄位，而不需為每個連絡人分別輸入這些欄位。
+我們允許您使用`{{first_name}}`或`{{company}}`等預先定義的屬性，個人化您的電子郵件範本。 這些欄位可讓您以電子郵件傳送多個連絡人，並自動完成這些欄位，而不需為每個連絡人分別輸入這些欄位。
 
 >[!TIP]
 >
->「first_name」和「company」欄位是唯一會同時檢視Sales Connect和Salesforce的欄位。 這表示如果連絡人不存在於 [網頁應用程式](https://toutapp.com/login)，我們會檢視Salesforce以確認是否能找到具有相符電子郵件地址的聯絡人/潛在客戶記錄。 然後使用該記錄中的資訊來填入欄位。
+>「first_name」和「company」欄位是唯一會同時檢視Sales Connect和Salesforce的欄位。 也就是說，如果連絡人不存在於[網頁應用程式](https://toutapp.com/login)中，我們會檢視Salesforce，檢視是否可以找到具有相符電子郵件地址的連絡人/潛在客戶記錄。 然後使用該記錄中的資訊來填入欄位。
 
 ## 將動態欄位插入範本 {#insert-a-dynamic-field-into-a-template}
 
-1. 在 **範本與行銷活動**，找到您要編輯的範本並按一下 **編輯範本**.
+1. 在&#x200B;**範本與行銷活動**&#x200B;中，找到您要編輯的範本，然後按一下&#x200B;**編輯範本**。
 
-1. 按一下 **Tout動態欄位**.
+1. 按一下&#x200B;**Tout動態欄位**。
 
    >[!NOTE]
    >

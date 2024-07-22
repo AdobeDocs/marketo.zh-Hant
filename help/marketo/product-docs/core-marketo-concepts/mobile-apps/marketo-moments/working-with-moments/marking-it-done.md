@@ -6,24 +6,24 @@ exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 1%
+source-wordcount: '135'
+ht-degree: 0%
 
 ---
 
 # 將其標籤為完成 {#marking-it-done}
 
-將電子郵件程式、事件或分析卡片標示為 [!UICONTROL 完成] 以將其從您的串流中移除。 有兩種方法可以做到這一點。
+將電子郵件程式、事件或分析卡片標示為[!UICONTROL 完成]，以便將其從您的資料流中移除。 有兩種方法可以做到這一點。
 
 >[!IMPORTANT]
 >
->在2023年10月2日，Adobe已從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入了解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>在2023年10月2日，Adobe已從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入瞭解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 1. 點選動作功能表。
 
    ![](assets/image2015-7-14-17-3a32-3a35.png)
 
-1. 點選 **[!UICONTROL 完成]**.
+1. 點選&#x200B;**[!UICONTROL 完成]**。
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 

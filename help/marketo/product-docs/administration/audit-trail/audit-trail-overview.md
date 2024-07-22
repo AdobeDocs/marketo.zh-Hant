@@ -6,7 +6,7 @@ exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 我們稽核的專案 {#what-we-audit}
 
-Marketo將會稽核 [建立、編輯和刪除](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) 動作：
+Marketo將稽核[建立、編輯和刪除](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)動作：
 
 * Design Studio資產
 * 所有Marketo計畫
@@ -41,12 +41,12 @@ Marketo將會稽核 [建立、編輯和刪除](/help/marketo/product-docs/admini
 * 清單（智慧/靜態）
 * 使用者（管理員）
 * 角色和許可權（管理員）
-* 工作區與分割區（管理員）
+* Workspace與資料分割（管理員）
 * 使用者登入記錄
 
 >[!NOTE]
 >
->Marketo是 _非_ 稽核目前在Web Personalization、預測性內容或銷售分析中所做的變更。
+>Marketo目前正在&#x200B;_非_&#x200B;稽核在Web Personalization、預測性內容或銷售分析中所做的變更。
 
 ## 稽核軌跡元件 {#audit-trail-components}
 
@@ -60,13 +60,13 @@ Marketo將會稽核 [建立、編輯和刪除](/help/marketo/product-docs/admini
 
 監視以使用者為基礎的詳細資訊。
 
-**3) [使用者登入記錄](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
+**3) [使用者登入歷程記錄](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
 檢視哪些人一直在登入您的訂閱，以及何時登入。 也包括失敗的登入嘗試。
 
 >[!TIP]
 >
->您可以使用稽核軌跡稽核的次數太多，請務必利用 [篩選](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)！
+>您可以使用稽核軌跡稽核的次數太多，請務必利用[篩選](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)！
 
 ## 匯出資料 {#exporting-data}
 
@@ -78,7 +78,7 @@ Marketo將會稽核 [建立、編輯和刪除](/help/marketo/product-docs/admini
 >
 >**定義**
 >
->**未知：** 在 [!DNL Webhook]，您可能會看到使用者的名稱和電子郵件列為「未知」。 當您變更CRM中的挑選清單值時，就會發生此狀況。 這些值會顯示在Marketo表單和登入頁面中。 在CRM端執行此更新將會自動草稿您的登入頁面參考表單。 在 [!DNL Webhook]，我們會擷取登入頁面已草稿，但使用者的名稱和電子郵件會顯示為「未知」，因為我們無法從CRM端擷取使用者資訊。
+>**未知：**&#x200B;在[!DNL Webhook]中，您可能會看到使用者的名稱和電子郵件列為「未知」。 當您變更CRM中的挑選清單值時，就會發生此狀況。 這些值會顯示在Marketo表單和登入頁面中。 在CRM端執行此更新將會自動草稿您的登入頁面參考表單。 在[!DNL Webhook]中，我們將擷取登入頁面已草稿，但使用者的名稱和電子郵件將顯示為「未知」，因為我們無法從CRM端擷取使用者資訊。
 
 >[!MORELIKETHIS]
 >

@@ -23,4 +23,4 @@ ON24介面卡會為您傳輸所有資訊。 它會將Marketo登陸頁面上擷�
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-準備好開始了嗎？ 開始於 [使用ON24介面卡建立事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}.
+準備好開始了嗎？ 從[使用ON24介面卡](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}建立事件。

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以選擇報表中要包含和未包含的欄。
 
-1. 前往 **Analytics** (或 **行銷活動**)區域。
+1. 移至&#x200B;**Analytics** （或&#x200B;**行銷活動**）區域。
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -23,10 +23,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. 按一下 **報告** 標籤，然後按一下任一欄標題並選取 **欄**，然後選擇要包含的欄。
+1. 按一下「**報表**」標籤，然後按一下任何欄標題並選取「**欄**」，然後選擇要包含的欄。
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 
    >[!MORELIKETHIS]
    >
-   >[對報表進行欄排序](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
+   >[排序資料行報告](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)

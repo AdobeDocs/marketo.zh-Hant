@@ -15,9 +15,9 @@ ht-degree: 0%
 
 當您決定啟動電子郵件編輯器v2.0時，您會注意到幾個新功能。
 
-**電子郵件範本選取器**
+**電子郵件範本選擇器**
 
-當您建立新電子郵件時，您會被帶到 [電子郵件範本選取器](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
+當您建立新電子郵件時，就會進入[電子郵件範本選擇器](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)。
 
 ![](assets/email-editor-v2-overview-1.png)
 
@@ -29,19 +29,19 @@ ht-degree: 0%
 
 **模組**
 
-編輯器右側的這些專案稱為模組。 瞭解如何 [新增模組至您的電子郵件](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+編輯器右側的這些專案稱為模組。 瞭解如何[新增模組至您的電子郵件](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)。
 
 ![](assets/email-editor-v2-overview-3.png)
 
 **文字版本**
 
-現在，在電子郵件的HTML版本和文字版本之間切換，位於底部的方便索引標籤中。 瞭解如何 [編輯電子郵件的文字版本](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+現在，在電子郵件的HTML版本和文字版本之間切換，位於底部的方便索引標籤中。 瞭解如何[編輯電子郵件的文字版本](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)。
 
 ![](assets/email-editor-v2-overview-4.png)
 
-**電子郵件標頭**
+**電子郵件標題**
 
-需要更多設計空間嗎？ 完成後，可以隱藏電子郵件標題 [編輯它](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). 只要按一下此圖示……
+需要更多設計空間嗎？ 電子郵件標頭在您完成[編輯後](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)即可隱藏。 只要按一下此圖示……
 
 ![](assets/email-editor-v2-overview-5.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ![](assets/email-editor-v2-overview-8.png)
 
-如需更大的預覽，請按一下 **預覽** 位於電子郵件的右上角。
+如需較大的預覽，請按一下電子郵件右上角的&#x200B;**預覽**。
 
 ![](assets/email-editor-v2-overview-9.png)
 
@@ -67,13 +67,13 @@ ht-degree: 0%
 
 ![](assets/email-editor-v2-overview-10.png)
 
-...但您也可以檢視它在行動裝置上的外觀。 您也可以預覽文字版本！ 只需按一下 **編輯草稿** 以繼續編輯。
+...但您也可以檢視它在行動裝置上的外觀。 您也可以預覽文字版本！ 只要按一下右上角的&#x200B;**編輯草稿**&#x200B;即可繼續編輯。
 
 ![](assets/email-editor-v2-overview-11.png)
 
 **電子郵件動作**
 
-在 **電子郵件動作**，您會發現一些新功能。 **上傳影像或檔案**、和 **從網頁抓取影像**. 您也可以將電子郵件本身儲存為新的電子郵件範本。 您只需為其指定名稱和目的地即可。
+在&#x200B;**電子郵件動作**&#x200B;底下，您會注意到一些新功能。 **上傳影像或檔案**，並&#x200B;**從網頁抓取影像**。 您也可以將電子郵件本身儲存為新的電子郵件範本。 您只需為其指定名稱和目的地即可。
 
 ![](assets/email-editor-v2-overview-12.png)
 
@@ -83,9 +83,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**[從網頁抓取影像](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** 就像在Design Studio中一樣。
+>**[從Web抓取影像](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**&#x200B;的運作方式與在Design Studio中一樣。
 
-**停用開啟追蹤** 在 **電子郵件設定**，您可以視需要停用開啟追蹤。
+**在**&#x200B;電子郵件設定&#x200B;**下停用開啟追蹤**，您可以視需要停用開啟追蹤。
 
 ![](assets/email-editor-v2-overview-13.png)
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您想更深入探討，請參閱以下內容 [視訊](https://nation.marketo.com/videos/1463).
+>如果您想更深入探討，請參閱此[影片](https://nation.marketo.com/videos/1463)。
 
 >[!MORELIKETHIS]
 >

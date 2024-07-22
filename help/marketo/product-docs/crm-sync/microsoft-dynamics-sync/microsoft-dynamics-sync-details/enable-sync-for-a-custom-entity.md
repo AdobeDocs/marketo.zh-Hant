@@ -22,17 +22,17 @@ ht-degree: 0%
 >[!NOTE]
 >
 >* 當您啟用自訂實體的同步時，Marketo會執行初始同步以引入自訂物件的所有資料。
->* 行銷清單和行銷清單成員為 _不支援_ 此時。
+>* 目前不支援&#x200B;_行銷清單和行銷清單成員_。
 
 >[!IMPORTANT]
 >
 >Marketo同步使用者需要自訂物件的讀取存取權，才能列出該物件並對其執行同步。
 
-1. 前往 **[!UICONTROL 管理員]** 區段。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區段。
 
    ![](assets/enable-sync-for-a-custom-entity-1.png)
 
-1. 選取 **[!UICONTROL Microsoft Dynamics]** 並按一下 **[!UICONTROL 停用同步]**.
+1. 選取&#x200B;**[!UICONTROL Microsoft Dynamics]**&#x200B;並按一下&#x200B;**[!UICONTROL 停用同步]**。
 
    ![](assets/enable-sync-for-a-custom-entity-2.png)
 
@@ -40,25 +40,25 @@ ht-degree: 0%
    >
    >您必須暫時停用全域同步才能啟用或停用自訂實體。
 
-1. 在資料庫管理底下，按一下 **[!UICONTROL Dynamics實體同步]**.
+1. 在[資料庫管理]下，按一下&#x200B;**[!UICONTROL Dynamics Entities Sync]**。
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
-1. 按一下 **[!UICONTROL 同步結構描述]**.
+1. 按一下&#x200B;**[!UICONTROL 同步結構描述]**。
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
-1. 選取要同步的實體，然後按一下 **[!UICONTROL 啟用同步]**.
+1. 選取您要同步的實體，然後按一下&#x200B;**[!UICONTROL 啟用同步]**。
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. 選取您要同步或做為使用的欄位 [限制](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 和/或觸發器(針對新增的記錄， _非_ 更新)。 完成後，按一下 **[!UICONTROL 啟用同步]**.
+1. 選取要在智慧清單中同步或用作[限制](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)和/或觸發器的欄位（針對新增的記錄，_未_&#x200B;更新）。 完成時，按一下&#x200B;**[!UICONTROL 啟用同步]**。
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
    >[!NOTE]
    >
-   >在同步處理期間，您可能會注意到&quot;[!UICONTROL 動態實體同步]「專案會從導覽樹狀結構中消失。 這是預期行為，同步完成後將會重新出現。
+   >在同步處理期間，您可能會注意到「[!UICONTROL 動態實體同步]」專案會從導覽樹狀結構中消失。 這是預期行為，同步完成後將會重新出現。
 
 1. 該實體現在有綠色核取記號。
 

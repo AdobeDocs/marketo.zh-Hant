@@ -16,15 +16,15 @@ Sales Insight Actions的資料統一欄位同步可讓系統從Marketo Engage資
 
 如此可在Sales Insight Actions網頁應用程式中提供最新的人員資料，並允許系統收集Marketo中對應人員記錄的唯一ID以及Salesforce中的銷售機會/聯絡人/帳戶/機會記錄，以便能夠正確參考記錄以記錄資料。
 
-您可以從Marketo Engage之「管理員」區段的「銷售分析動作設定」索引標籤啟用此同步處理。 如需詳細資訊，請檢視 [啟動資料同步](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync).
+您可以從Marketo Engage之「管理員」區段的「銷售分析動作設定」索引標籤啟用此同步處理。 如需詳細資訊，請參閱[啟動資料同步](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)。
 
 ![](assets/actions-data-sync-faq-1.png)
 
 上圖顯示人員活動和任務資料如何在系統之間同步。 請注意下列事項：
 
 * 人員記錄會從Marketo Engage同步至銷售分析動作，讓Marketo Engage成為銷售分析動作人員資料的真實來源
-* Marketo Engage與銷售分析動作 [具備機制](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) ，以收集並同步至Salesforce的取消訂閱狀態
-* 取消訂閱狀態不會從銷售動作同步到Marketo Engage，但銷售分析動作可以設定為先檢查人員的Marketo取消訂閱狀態，然後再允許賣家傳送電子郵件 [Marketo取消訂閱檢查](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
+* Marketo Engage和銷售分析動作[都有收集取消訂閱狀態並同步到Salesforce的機制](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+* 取消訂閱狀態不會從銷售動作同步到Marketo Engage，但銷售分析動作可以設定為先檢查人員的Marketo取消訂閱狀態，然後再允許賣家傳送包含[Marketo取消訂閱檢查](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)的電子郵件。
 
 以下是與資料統一同步如何運作相關的一些常見問題。
 
@@ -72,7 +72,7 @@ Sales Insight Actions的資料統一欄位同步可讓系統從Marketo Engage資
 
 ## 為什麼Sales Insight Actions有自己的資料庫？ {#why-does-actions-have-its-own-database}
 
-Sales Insight Actions有其專屬的網頁應用程式，其中包含專屬的人員與活動資料庫，可提供專為銷售團隊建立及設計的最佳化工作區。 這可讓銷售經理和賣家擁有建立和管理其參與策略的空間，而無需授予主要Marketo Engage工作區的存取權或許可權，而這是為行銷作業專家最佳化的工作區。
+Sales Insight Actions有其專屬的網頁應用程式，其中包含專屬的人員與活動資料庫，可提供專為銷售團隊建立及設計的最佳化工作區。 這可讓銷售經理和銷售商有空間建立和管理他們的參與策略   而不授與主要Marketo Engage工作區的存取權或許可權，此工作區已針對行銷作業專家最佳化。
 
 ## 如何處理重複專案？ {#how-are-duplicates-handled}
 
@@ -113,13 +113,13 @@ Sales Insight Actions可讓管理員設定哪些銷售活動記錄到Salesforce�
 
 ![](assets/actions-data-sync-faq-6.png)
 
-上圖顯示哪些資訊記錄到Salesforce。 電子郵件和來電等活動會記錄到 [單向同步](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [取消訂閱](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) 和 [提醒任務](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) 會透過雙向同步功能保持最新狀態。 這些資料同步可從Sales Insight Actions網頁應用程式介面設定。
+上圖顯示哪些資訊記錄到Salesforce。 電子郵件和通話等活動會以[單向同步](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)記錄到Salesforce。 [取消訂閱](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)與[提醒工作](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)會以雙向同步方式保持最新狀態。 這些資料同步可從Sales Insight Actions網頁應用程式介面設定。
 
 >[!MORELIKETHIS]
 >
 >* [正在與Salesforce同步取消訂閱](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
 >* [Marketo取消訂閱檢查](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Salesforce同步設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
->* [提醒任務與Salesforce同步](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+>* [提醒工作與Salesforce同步](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [啟動資料同步](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
 

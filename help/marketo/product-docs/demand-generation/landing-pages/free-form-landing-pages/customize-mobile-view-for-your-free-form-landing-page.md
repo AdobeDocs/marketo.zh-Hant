@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[為您的自由表單登陸頁面新增行動裝置檢視](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
+>[為您的自由格式登陸頁面新增行動裝置檢視](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 您的自由表單登陸頁面的行動裝置檢視大多是自動的，但您可以加以自訂。 方法如下。
 
@@ -23,17 +23,17 @@ ht-degree: 0%
 
    ![](assets/selectlandingapge.jpg)
 
-1. 按一下 **編輯草稿**.
+1. 按一下&#x200B;**編輯草稿**。
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. 按一下 **行動** 標籤。
+1. 按一下&#x200B;**行動裝置**&#x200B;標籤。
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
 ## 行動與案頭檢視 {#mobile-vs-desktop-view}
 
-在頁面元素下方，您會看到 ![](assets/image2015-1-22-18-3a39-3a53.png) （案頭）圖示和 ![](assets/image2015-1-22-18-3a40-3a31.png) （行動裝置）圖示。 這可讓您以動態方式顯示/隱藏不同的元素。
+在「頁面元素」下方，您會看到![](assets/image2015-1-22-18-3a39-3a53.png) （案頭）圖示和![](assets/image2015-1-22-18-3a40-3a31.png) （行動裝置）圖示。 這可讓您以動態方式顯示/隱藏不同的元素。
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
@@ -83,15 +83,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->行動檢視也可以有不同的頁面元素排列。 在任意形狀登陸頁面上四處移動，或重新排序下列出的物件 **頁面元素** 使用拖放。
+>行動檢視也可以有不同的頁面元素排列。 在任意格式表單登陸頁面上移動專案，或使用拖放功能重新排序&#x200B;**頁面元素**&#x200B;下列出的物件。
 
 ## 預覽行動檢視 {#preview-mobile-view}
 
-1. 按一下 **預覽草稿**.
+1. 按一下&#x200B;**預覽草稿**。
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. 想看點很酷的東西嗎？ 選取 **並排**.
+1. 想看點很酷的東西嗎？ 選取&#x200B;**並排**。
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. 如果您喜歡，請按一下 **核准並關閉**.
+1. 若您喜歡，請按一下[核准並關閉]。****
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 

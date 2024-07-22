@@ -6,7 +6,7 @@ exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->擁有Select Edition或 [收入週期分析](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) 附加元件。 請聯絡您的銷售代表以取得詳細資訊。
+>擁有Select Edition或[Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)附加元件的使用者可以使用此功能。 請聯絡您的銷售代表以取得詳細資訊。
 
 ## 電子郵件點按活動熱度格線 {#email-click-activity-heat-grid}
 

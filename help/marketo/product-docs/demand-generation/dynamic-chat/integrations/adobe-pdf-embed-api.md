@@ -14,9 +14,9 @@ ht-degree: 5%
 
 檔案卡可讓您將PDF檔案內嵌在對話方塊中，並追蹤訪客的檔案參與活動。 以下說明設定方法。
 
-1. 瀏覽至 [Adobe PDF內嵌API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
+1. 導覽至[Adobe PDF內嵌API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}。
 
-1. 按一下 **[!UICONTROL 取得認證]**.
+1. 按一下&#x200B;**[!UICONTROL 取得認證]**。
 
    ![](assets/adobe-pdf-embed-api-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 5%
 
    ![](assets/adobe-pdf-embed-api-2.png)
 
-1. 輸入您的認證，接受條款，然後按一下 **[!UICONTROL 建立認證]**.
+1. 輸入您的認證，接受條款，然後按一下&#x200B;**[!UICONTROL 建立認證]**。
 
    ![](assets/adobe-pdf-embed-api-3.png)
 
@@ -32,16 +32,16 @@ ht-degree: 5%
    >
    >您必須使用將託管聊天機器人的網域(例如，如果您在mycompany.com上託管聊天機器人，請務必在步驟4中輸入)。
 
-1. 按一下 **[!UICONTROL 複製]** 複製您的使用者端ID。
+1. 按一下&#x200B;**[!UICONTROL 複製]**&#x200B;以複製您的使用者端ID。
 
    ![](assets/adobe-pdf-embed-api-4.png)
 
-1. 返回Dynamic Chat，按一下 **[!UICONTROL 整合]**. 在Adobe PDF Embed API卡中，按一下 **[!UICONTROL 啟動]**.
+1. 返回Dynamic Chat，按一下&#x200B;**[!UICONTROL 整合]**。 在Adobe PDF Embed API卡中，按一下「**[!UICONTROL 啟動]**」。
 
    ![](assets/adobe-pdf-embed-api-5.png)
 
-1. 貼上 [!UICONTROL 使用者端ID] 並按一下 **[!UICONTROL 儲存]**.
+1. 貼上您的[!UICONTROL 使用者端識別碼]並按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-您現在可以在對話方塊中使用檔案卡 [串流設計工具](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}！
+您現在可以在對話方塊[串流Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}中使用檔案卡！

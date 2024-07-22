@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->如需準確的報告，請避免 _重複使用_ 來自電子郵件程式的電子郵件，方法是在Smart Campaign中參考該電子郵件程式，或將資產從已啟動的電子郵件程式移至新的電子郵件程式。 這麼做會彙總該電子郵件附加之每個報告控制面板中的所有資料。 如果您需要重複使用電子郵件，請 [原地複製](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 相反地，這複製了電子郵件，但會建立具有新電子郵件ID的新電子郵件。
+>為獲得準確的報告，請避免&#x200B;_重複使用電子郵件程式的_&#x200B;電子郵件，方法是在智慧行銷活動中參考該電子郵件，或將資產從已啟動的電子郵件程式移至新的電子郵件程式。 這麼做會彙總該電子郵件附加之每個報告控制面板中的所有資料。 如果您需要重複使用電子郵件，請改為複製[它](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}，因為這樣會複製電子郵件，但會建立具有新電子郵件識別碼的新電子郵件。
 
 >[!NOTE]
 >
->如果您的程式有A/B測試，請檢視 [電子郵件計畫控制面板 — A/B測試檢視](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
+>如果您的方案有A/B測試，請檢視[電子郵件方案儀表板 — A/B測試檢視](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}。
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 摘要 — 參與 {#summary-engagement}
 
-這可讓您瞭解整體資訊 [參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
+這會顯示整體[參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}。
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -63,15 +63,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此 **取消訂閱** 上述範例中的比率太小，Marketo放大顯示，讓您更上一層樓。 列內的第二個數字只是為了縮放而增加。
+>上述範例中的&#x200B;**取消訂閱**&#x200B;率太小，以至Marketo放大顯示，讓您更上一層樓。 列內的第二個數字只是為了縮放而增加。
 
 >[!NOTE]
 >
 >**定義**
 >
->**開啟次數** 當電子郵件收件者下載電子郵件的影像(包括Marketo插入的追蹤畫素)時，即會計入此值。 如果收件者檢視電子郵件但選擇不下載其影像，則不會計為已開啟。 如果影像載入收件者的預覽窗格，這通常會計為開啟，但會根據電子郵件使用者端而有所不同。
+>當電子郵件收件者下載電子郵件的影像(包含Marketo插入的追蹤畫素)時，會計入&#x200B;**開啟**。 如果收件者檢視電子郵件但選擇不下載其影像，則不會計為已開啟。 如果影像載入收件者的預覽窗格，這通常會計為開啟，但會根據電子郵件使用者端而有所不同。
 >
->**按一下以開啟** 測量在電子郵件中同時開啟及有連結點按的電子郵件百分比。 我們採用不重複點按次數除以不重複開啟次數，然後乘以100以百分比顯示。
+>**按一下以開啟**&#x200B;會測量在電子郵件中同時開啟且有連結被點按的電子郵件百分比。 我們採用不重複點按次數除以不重複開啟次數，然後乘以100以百分比顯示。
 
 ## 重新整理儀表板 {#refresh-dashboard}
 
@@ -81,4 +81,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[使用電子郵件計畫控制面板 — A/B測試檢視](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}
+>[使用電子郵件程式儀表板 — A/B測試檢視](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}

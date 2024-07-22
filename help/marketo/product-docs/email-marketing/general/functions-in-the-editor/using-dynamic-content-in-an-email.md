@@ -6,7 +6,7 @@ exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -15,33 +15,33 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[建立細分](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[建立分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 在電子郵件中使用動態內容來傳送您的潛在客戶目標資訊。
 
 >[!NOTE]
 >
->只有當使用「觸發行銷活動」時，才支援在電子郵件中的動態內容中使用變數。 它是 **非** 使用批次行銷活動時支援。
+>只有當使用「觸發行銷活動」時，才支援在電子郵件中的動態內容中使用變數。 使用批次行銷活動時&#x200B;**不**&#x200B;支援。
 
 ## 新增分段 {#add-segmentation}
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取您的電子郵件並按一下 **編輯草稿**.
+1. 選取您的電子郵件並按一下&#x200B;**編輯草稿**。
 
    ![](assets/1.2.png)
 
-1. 在此範例中，我們讓主旨列成為動態的。 按一下「主旨」欄位，然後按一下 **設定為動態** 按鈕。
+1. 在此範例中，我們讓主旨列成為動態的。 按一下[主旨]欄位，然後按一下[**建立動態**]按鈕。
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >您也可以將電子郵件內的元素設為動態。 要執行此操作，請選取區域，按一下齒輪圖示，然後選取 **設定為動態** (或 [取代為代碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)，視您正在執行的動作而定)。
+   >您也可以將電子郵件內的元素設為動態。 若要這麼做，請選取區域、按一下齒輪圖示，然後選取&#x200B;**建立動態** （或[以程式碼片段取代](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)，視您正在執行的動作而定）。
 
-1. 輸入區段名稱，選取該名稱，然後按一下 **儲存**.
+1. 輸入區段名稱，選取該名稱，然後按一下[儲存]。****
 
    ![](assets/1.4.png)
 

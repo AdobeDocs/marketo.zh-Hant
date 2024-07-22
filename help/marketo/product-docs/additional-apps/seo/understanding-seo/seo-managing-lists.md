@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 新增關鍵字、頁面、頁面問題或傳入連結時，您可以將專案新增至清單。 清單可協助您保持井然有序，並可讓您篩選報表以僅檢視該清單上的資料。 以下說明如何製作範本。
 
-1. 按一下 **[!UICONTROL 新增關鍵字]**.
+1. 按一下&#x200B;**[!UICONTROL 新增關鍵字]**。
 
    >[!NOTE]
    >
@@ -31,6 +31,6 @@ ht-degree: 0%
    >
    >您可以在下拉式清單中建立新清單。 輸入標題，按一下傳回鍵。
 
-1. 按一下 **[!UICONTROL 儲存]**.
+1. 按一下&#x200B;**[!UICONTROL 保存]**。
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)

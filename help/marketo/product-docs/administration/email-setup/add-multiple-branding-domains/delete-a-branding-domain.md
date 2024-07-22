@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 刪除品牌化網域 {#delete-a-branding-domain}
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/delete-a-branding-domain-1.png)
 
-1. 按一下 **[!UICONTROL 電子郵件]**.
+1. 按一下&#x200B;**[!UICONTROL 電子郵件]**。
 
    ![](assets/delete-a-branding-domain-2.png)
 
-1. 在「品牌領域」表格中，選取您要移除的領域，然後按一下 **[!UICONTROL 刪除]**.
+1. 在「品牌化網域」表格中，選取您要移除的網域，然後按一下&#x200B;**[!UICONTROL 刪除]**。
 
    ![](assets/delete-a-branding-domain-3.png)
 

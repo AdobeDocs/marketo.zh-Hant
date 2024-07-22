@@ -7,7 +7,7 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->若要啟用此功能，請聯絡支援並要求「Vespa安全模式」。
+>若要啟用此功能，請聯絡支援並請求「Vespa安全模式」。
 
-1. 在Marketo中，選取 **管理員** 並按一下 **行動應用程式和裝置**.
+1. 在Marketo中，選取&#x200B;**管理員**&#x200B;並按一下&#x200B;**行動應用程式和裝置**。
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. 向下捲動，然後在存取安全性區段中，按一下 **編輯**.
+1. 向下捲動，在[存取安全性]區段中，按一下[編輯]。****
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. 檢查 **啟用安全性** 核取方塊。 按一下 **儲存**.
+1. 勾選&#x200B;**啟用安全性**&#x200B;核取方塊。 按一下&#x200B;**保存**。
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 

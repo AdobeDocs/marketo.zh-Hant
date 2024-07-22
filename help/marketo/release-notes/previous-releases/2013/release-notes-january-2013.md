@@ -6,18 +6,18 @@ exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
 # 發行說明： 2013年1月 {#release-notes-january}
 
-1月發行版本透過擴充我們的社交服務 **反向連結選件**. 此外，Marketo銷售機會管理的使用者可以設定他們的時區、語言和區域設定偏好設定。 請注意，功能標有 &#42; 僅適用於「選取版本」。
+1月發行版本透過&#x200B;**轉介優惠方案**&#x200B;擴充我們的社交優惠方案。 此外，Marketo銷售機會管理的使用者可以設定他們的時區、語言和區域設定偏好設定。 請注意，標示&#42;的功能僅適用於Select版本。
 
 ## 反向連結選件 {#referral-offers}
 
-A **推薦選件** 會鼓勵潛在客戶推薦他們的朋友。 建立成功轉介的目標和回報。 您可以在登入頁面、您的網站，甚至Facebook上使用它。
+**轉介優惠方案**&#x200B;可鼓勵您的潛在客戶轉介他們的朋友。 建立成功轉介的目標和回報。 您可以在登入頁面、您的網站，甚至Facebook上使用它。
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 

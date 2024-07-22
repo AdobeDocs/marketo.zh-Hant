@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >[建立新的帳戶清單](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
-1. 前往 **區段**.
+1. 移至&#x200B;**區段**。
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. 按一下 **新建**.
+1. 按一下&#x200B;**新建**。
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. 輸入區段名稱。 拖放 **帳戶清單** 從 **第一圖形** 區段。
+1. 輸入區段名稱。 從&#x200B;**Firmographics**&#x200B;區段拖放&#x200B;**帳戶清單**。
 
    ![](assets/set-segment-hands.jpg)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >帳戶清單會從ABM同步至Web Personalization，以便用於分段。 從下拉式清單中選取它們。 同步處理最多可能需要五分鐘。 只有當帳戶清單中有一個或多個具名帳戶時，它才會同步。
 
-1. 按一下 **儲存**，或按一下 **儲存並定義行銷活動** 前往「行銷活動」頁面。
+1. 按一下&#x200B;**儲存**，或按一下&#x200B;**儲存並定義行銷活動**&#x200B;以移至「行銷活動」頁面。
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

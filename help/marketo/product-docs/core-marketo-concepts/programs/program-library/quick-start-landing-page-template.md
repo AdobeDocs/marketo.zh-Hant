@@ -2,10 +2,10 @@
 description: 快速入門登陸頁面範本 — Marketo檔案 — 產品檔案
 title: 快速入門登陸頁面範本
 feature: Programs
-exl-id: 677bf3fa-25da-40c8-9c1e-6c6385a0596a
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Marketo Engage參考資料庫中的部分入門方案包含一個簡單、易於
 
 >[!TIP]
 >
->進一步瞭解 [引導式登陸頁面範本](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
+>深入瞭解[引導式登陸頁面範本](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-如需進一步的策略協助或自訂方案，請聯絡Adobe客戶團隊或造訪 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 區段摘要 {#sections-summary}
 
@@ -49,7 +49,8 @@ Marketo Engage參考資料庫中的部分入門方案包含一個簡單、易於
 * 更新段落副本的段落文字元素
 * 要在表單中新增的表單元素
 * 表單下方的文字元素，用於編輯隱私權原則的文字和連結
-* 要編輯的變數：區段的背景顏色
+* 要編輯的變數：
+區段的背景顏色
    * 直接在表單後的背景顏色
    * 表單周圍方塊的邊框半徑（使其具有彎曲的轉角，如果設為「0」，則為轉角的平方）
    * 顯示或隱藏整個區段
@@ -79,9 +80,9 @@ Marketo Engage參考資料庫中的部分入門方案包含一個簡單、易於
 
 ### 其他變數 {#additional-variables}
 
-* **按鈕邊框半徑**：將表單按鈕調整為圓角或矩形
-* **按鈕顏色**：更新表單上按鈕的顏色
-* **按鈕暫留顏色**：變更表單上按鈕的暫留狀態顏色
-* **連結顏色**：更新整個頁面的連結顏色
-* **區域頂端間距**：在每個區段上方新增空格，但標誌區段除外
-* **截面底部間距**：在「標誌」區段以外的每個區段底下新增空格
+* **按鈕邊框半徑**：將表單按鈕調整為圓形或矩形
+* **按鈕色彩**：更新表單上按鈕的色彩
+* **按鈕暫留色彩**：變更表單上按鈕的暫留狀態色彩
+* **連結色彩**：更新整個頁面的連結色彩
+* **區段頂端間距**：在除了標誌區段之外的每個區段上方新增空格
+* **區段底部間距**：在除標誌區段之外的每個區段下方新增空格

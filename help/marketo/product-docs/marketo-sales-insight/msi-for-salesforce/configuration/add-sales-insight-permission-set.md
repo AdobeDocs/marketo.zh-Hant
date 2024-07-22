@@ -5,7 +5,7 @@ exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[更新Sales Insight Salesforce套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} 至1.8000版或更新版本，以使用此功能。
+>[將您的Sales Insight Salesforce套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}更新至1.8000版或更新版本，以便使用此功能。
 
 >[!IMPORTANT]
 >
->如果您先前已授予Sales Insight存取所有設定檔的許可權，並/或為所有的使用者實作Sales Insight，您必須 [移除設定檔層級的存取權](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} 以使用此許可權集。
+>如果您先前已授予Sales Insight存取所有設定檔和/或針對所有使用者實作Sales Insight，您必須[移除設定檔層級存取權](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"}才能使用此許可權集。
 
 ## 概觀 {#overview}
 
@@ -85,23 +85,23 @@ ht-degree: 0%
 
 1. 登入您的Salesforce帳戶。
 
-1. 按一下 **設定**.
+1. 按一下&#x200B;**設定**。
 
    ![](assets/add-sales-insight-permission-set-1.png)
 
-1. 在「管理員」下，按一下以展開 **管理使用者**，然後 **使用者**.
+1. 在「管理員」底下，按一下以展開&#x200B;**管理使用者**，然後按一下&#x200B;**使用者**。
 
    ![](assets/add-sales-insight-permission-set-2.png)
 
-1. 在所有使用者下，選取您要提供存取權的使用者，然後按一下 **許可權集指派**.
+1. 在[所有使用者]下，選取您要提供存取權的使用者，然後按一下[許可權集指派] ****。
 
    ![](assets/add-sales-insight-permission-set-3.png)
 
-1. 按一下 **編輯指派**.
+1. 按一下&#x200B;**編輯指派**。
 
    ![](assets/add-sales-insight-permission-set-4.png)
 
-1. 選取 **Marketo應用程式存取權** 從可用的許可權集，然後 **新增**. 按一下 **儲存**.
+1. 從可用的許可權集中選取&#x200B;**Marketo應用程式存取權**，然後選取&#x200B;**新增**。 按一下&#x200B;**保存**。
 
    ![](assets/add-sales-insight-permission-set-5.png)
 

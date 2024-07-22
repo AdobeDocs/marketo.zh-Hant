@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 建立群組 {#create-a-group}
 
-1. 在「人物」頁面中，按一下 **+** 「群組」旁。
+1. 在「人員」頁面中，按一下「群組」旁的&#x200B;**+**。
 
    ![](assets/one-4.png)
 
-1. 為群組命名，然後按一下 **建立**.
+1. 為群組命名，然後按一下[建立]。****
 
    ![](assets/two-3.png)
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-1. 按一下 **群組動作** 並選取 **建立連絡人**.
+1. 按一下&#x200B;**群組動作**&#x200B;並選取&#x200B;**建立連絡人**。
 
    ![](assets/four-3.png)
 
    >[!NOTE]
    >
-   >這將會一次新增一個連絡人。 若要同時新增多個連絡人，請遵循 [這些步驟](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+   >這將會一次新增一個連絡人。 若要同時新增多個連絡人，請遵循[這些步驟](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)。
 
-1. 填寫連絡人資訊，然後按一下 **建立** (或 **建立和新增** 以新增另一個)。
+1. 填寫連絡人資訊，然後按一下&#x200B;**建立** （或&#x200B;**建立並新增新的**&#x200B;以新增其他）。
 
    ![](assets/five-3.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 按一下圓點（三個垂直的點）並選取 **共用**.
+1. 按一下dota （三個垂直點）並選取&#x200B;**共用**。
 
    ![](assets/seven.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 按一下 **共用**.
+1. 按一下&#x200B;**共用**。
 
    ![](assets/nine.png)
 
@@ -77,11 +77,11 @@ ht-degree: 0%
 
    ![](assets/ten.png)
 
-1. 按一下圓點（三個垂直的點）並選取 **共用**.
+1. 按一下dota （三個垂直點）並選取&#x200B;**共用**。
 
    ![](assets/eleven.png)
 
-1. 按一下 **X** 在您共用群組的團隊旁邊，然後按一下退出強制回應視窗。
+1. 按一下您共用群組的團隊旁的&#x200B;**X**，然後按一下退出強制回應視窗。
 
    ![](assets/twelve.png)
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 按一下圓點（三個垂直的點）並選取 **重新命名**.
+1. 按一下dota （三個垂直點）並選取&#x200B;**重新命名**。
 
    ![](assets/thirteen.png)
 
@@ -107,10 +107,10 @@ ht-degree: 0%
 
    ![](assets/fifteen.png)
 
-1. 按一下圓點（三個垂直的點）並選取 **刪除**.
+1. 按一下dota （三個垂直點）並選取&#x200B;**刪除**。
 
    ![](assets/sixteen.png)
 
-1. 按一下 **刪除** 以確認。
+1. 按一下&#x200B;**刪除**&#x200B;確認。
 
    ![](assets/seventeen.png)

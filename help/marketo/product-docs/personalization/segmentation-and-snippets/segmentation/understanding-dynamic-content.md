@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # 瞭解動態內容 {#understanding-dynamic-content}
 
-個人化不只是「您好！ `{{First_Name}}`「。 透過Marketo動態內容，您可以自訂不同人員檢視登入頁面或電子郵件的方式。
+個人化不只是「嗨`{{First_Name}}`」而已。 透過Marketo動態內容，您可以自訂不同人員檢視登入頁面或電子郵件的方式。
 
 ![](assets/artboard-1.png)
 
-## 細分 {#segmentation}
+## 區段 {#segmentation}
 
-首先，您需要將您的人員分成子群組。 這稱為 [細分](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+首先，您需要將您的人員分成子群組。 這稱為[分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)。
 
 >[!NOTE]
 >
 >**定義**
 >
->區段會根據「 」將您的受眾分類為不同的子群組 [智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) 規則。 這些群組稱為區段。
+>區段會根據[智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)規則，將您的對象分類為不同的子群組。 這些群組稱為區段。
 
 舉例來說，如果我們將區段命名為「產業」，則某些區段可能為：醫療保健、科技、金融、消費品等。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## 代碼片段 {#snippets}
 
-[代碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) 是Marketo中的實用工具。 只需建立一次，便可在多處使用！ 如果您更新程式碼片段，則使用該程式碼片段的所有資產（登陸頁面或電子郵件）都會自動更新。
+[程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)是Marketo中的實用工具。 只需建立一次，便可在多處使用！ 如果您更新程式碼片段，則使用該程式碼片段的所有資產（登陸頁面或電子郵件）都會自動更新。
 
 >[!NOTE]
 >
@@ -52,5 +52,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [建立細分](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [建立代碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>* [建立分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [建立程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)

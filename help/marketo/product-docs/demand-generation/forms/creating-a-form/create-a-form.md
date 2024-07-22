@@ -6,7 +6,7 @@ exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -17,25 +17,25 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->瞭解Marketo的作用 [確保您的表單安全](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>瞭解Marketo如何確保您的表單安全[](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 尋找並選取您的 **方案**.
+1. 尋找並選取您的&#x200B;**程式**。
 
    ![](assets/programseelct.png)
 
-1. 在 **新增**，按一下 **新增** **本機** **資產**.
+1. 在&#x200B;**新增**&#x200B;底下，按一下&#x200B;**新增** **本機** **資產**。
 
    ![](assets/newlocalasset.png)
 
-1. 選取 **表單**.
+1. 選取&#x200B;**表單**。
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. 輸入表單 **名稱** 並按一下 **建立**.
+1. 輸入表單&#x200B;**名稱**&#x200B;並按一下&#x200B;**建立**。
 
    ![](assets/newformwithhands.png)
 
@@ -48,4 +48,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [選取表單主題](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
->* [新增欄位集至表單](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
+>* [新增FieldSet至表單](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)

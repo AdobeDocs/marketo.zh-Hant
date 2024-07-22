@@ -17,23 +17,23 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-您可以 [刪除方案頻道](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) 任何程式未使用。  不過，一旦使用，我們就需要加以儲存。  不過，如果您不再需要它，可以將其隱藏。
+如果任何程式未使用某個程式頻道](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)，您可以[刪除它。  不過，一旦使用，我們就需要加以儲存。  不過，如果您不再需要它，可以將其隱藏。
 
 ## 隱藏方案頻道 {#hide-a-program-channel}
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 
-1. 按一下 **[!UICONTROL 標籤]**.
+1. 按一下&#x200B;**[!UICONTROL 標籤]**。
 
    ![](assets/hide-unhide-a-program-channel-2.png)
 
-1. 按一下 **[!UICONTROL 頻道]** 下拉式清單，然後選取 **[!UICONTROL 頻道]** 以隱藏。
+1. 按一下&#x200B;**[!UICONTROL 頻道]**&#x200B;下拉式清單，然後選取要隱藏的&#x200B;**[!UICONTROL 頻道]**。
 
    ![](assets/hide-unhide-a-program-channel-3.png)
 
-1. 在 **[!UICONTROL 標籤動作]**，按一下 **[!UICONTROL 隱藏]**.
+1. 在&#x200B;**[!UICONTROL 標籤動作]**&#x200B;底下，按一下&#x200B;**[!UICONTROL 隱藏]**。
 
    ![](assets/hide-unhide-a-program-channel-4.png)
 

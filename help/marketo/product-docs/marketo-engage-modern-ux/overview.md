@@ -50,9 +50,9 @@ Modern UX中有許多新功能，這些功能都旨在大幅改善您的行銷�
 
 >[!NOTE]
 >
->在樹狀結構中執行搜尋只會顯示前250個結果。 如果搜尋後仍找不到資產，請使用 [全域搜尋](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) 函式。
+>在樹狀結構中執行搜尋只會顯示前250個結果。 如果在搜尋後找不到您的資產，請使用[全域搜尋](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md)功能。
 
-**Marketo Classic與新Marketo**
+**Marketo Classic與新Marketo**&#x200B;的比較
 
 <table> 
  <tbody>

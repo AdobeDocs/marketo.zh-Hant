@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >您只能指派共用連絡人的工作。
 
-1. 在網頁應用程式中，按一下 **指揮中心**.
+1. 在網頁應用程式中，按一下&#x200B;**命令中心**。
 
    ![](assets/assigning-tasks-to-team-members-1.png)
 
-1. 按一下 **新增任務**.
+1. 按一下&#x200B;**新增工作**。
 
    ![](assets/assigning-tasks-to-team-members-2.png)
 
@@ -50,6 +50,6 @@ ht-degree: 0%
 
    ![](assets/assigning-tasks-to-team-members-8.png)
 
-1. 新增與隊友相關的重要詳細資訊（選用），然後按一下 **建立**.
+1. 新增與您的隊友相關的任何重要詳細資料（選擇性），然後按一下[建立]。****
 
    ![](assets/assigning-tasks-to-team-members-9.png)

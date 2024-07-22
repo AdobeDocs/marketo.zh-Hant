@@ -12,21 +12,21 @@ ht-degree: 0%
 
 # 自訂抽獎樣式 {#customize-sweepstakes-styles}
 
-當您 [建立抽獎活動](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)，您可以自訂登陸頁面上的外觀。
+當您[建立抽獎活動](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)時，您可以自訂它在您的登陸頁面上的外觀。
 
 >[!AVAILABILITY]
 >
 >並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
 ![](assets/login-marketing-activities-1.png)
 
-1. 選取抽獎活動，然後按一下 **編輯草稿**.
+1. 選取抽獎活動，然後按一下&#x200B;**編輯草稿**。
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. 在Sweepsticks編輯器中，前往 **應用程式設定** > **外觀**.
+1. 在Sweepstakes編輯器中，移至&#x200B;**應用程式設定** > **外觀**。
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -38,15 +38,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   範例CSS for **輸入按鈕**：
+   **輸入按鈕**的CSS範例：
    `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>`
 
-   的範例影像 **輸入按鈕**：
+   **Enter按鈕**的影像範例：
    `<pre>background:url(https://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
    >
-   >如果您使用含有文字的影像，請記得將文字從 **輸入按鈕** 欄位。
+   >如果您使用上面有文字的影像，請記得從上方文字下方的&#x200B;**輸入按鈕**&#x200B;欄位中移除文字。
 
 1. 每次進行變更時，結果都會顯示在「檢視和編輯」預覽中。
 
@@ -58,4 +58,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >下一步是新增 [註冊和履行電子郵件給您的抽獎活動](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >下一步是新增[註冊與履行電子郵件至您的抽獎活動](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)。

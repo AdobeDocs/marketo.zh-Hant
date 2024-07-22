@@ -6,7 +6,7 @@ exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[設定](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) 企業金鑰。
+>[設定](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)企業金鑰。
 
 以&#39;System&#39;的身分或具有/i引數的「管理」使用者帳戶執行下列命令列，以進行安裝。
 
@@ -53,8 +53,8 @@ ht-degree: 0%
 >
 >記錄檔的儲存位置必須存在，否則安裝將會中止。
 
-請參閱 [Microsoft的完整交換器清單](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) 如果您想要嘗試不同的記錄層級或使用者介面層級。
+如果您想要嘗試不同的記錄層級或使用者介面層級，請參閱[Microsoft的完整交換器清單](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6)。
 
 >[!MORELIKETHIS]
 >
->[Marketo Outlook外掛程式由IT解除安裝](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+>[由IT解除安裝Marketo Outlook外掛程式](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)

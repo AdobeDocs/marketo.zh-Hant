@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ## 將連結新增至電子郵件範本 {#add-the-link-to-an-email-template}
 
-1. 前往 **Design Studio**.
+1. 移至&#x200B;**設計工作室**。
 
    ![](assets/one-8.png)
 
-1. 尋找並選取您要新增連結的電子郵件範本。 按一下 **編輯草稿**.
+1. 尋找並選取您要新增連結的電子郵件範本。 按一下&#x200B;**編輯草稿**。
 
    ![](assets/two-7.png)
 
@@ -42,9 +42,9 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >我們不建議使用樣式 **position：relative** 在您的電子郵件範本中。 這可能會造成「轉寄給朋友」方塊的位置和顯示問題。
+   >我們不建議在電子郵件範本中使用樣式&#x200B;**position：relative**。 這可能會造成「轉寄給朋友」方塊的位置和顯示問題。
 
-1. 按一下 **預覽草稿** 以確保範本看起來如您所願。
+1. 按一下&#x200B;**預覽草稿**，確定範本看起來是您想要的方式。
 
    ![](assets/four-5.png)
 
@@ -64,11 +64,11 @@ ht-degree: 0%
 
    ![](assets/five-4.png)
 
-1. 將游標放在您要顯示連結的位置，然後按一下 **插入權杖** 按鈕。
+1. 將游標放在您要顯示連結的位置，然後按一下&#x200B;**插入權杖**&#x200B;按鈕。
 
    ![](assets/six-2.png)
 
-1. 選取 **`{{system.forwardToFriendLink}}`** Token。
+1. 選取&#x200B;**`{{system.forwardToFriendLink}}`**&#x200B;權杖。
 
    ![](assets/seven-1.png)
 
@@ -80,11 +80,11 @@ ht-degree: 0%
 
    ![](assets/seven-1.png)
 
-1. 剪下 **`{{system.forwardToFriendLink}}`** 使用Ctrl+X (Windows)或Cmd+X (Mac)的權杖。 反白顯示「轉寄給朋友」並按一下 **插入/編輯連結** 按鈕。
+1. 使用Ctrl+X (Windows)或Cmd+X (Mac)剪下&#x200B;**`{{system.forwardToFriendLink}}`**&#x200B;權杖。 反白顯示[轉寄給朋友]，然後按一下[插入/編輯連結]按鈕&#x200B;**。**
 
    ![](assets/eight-1.png)
 
-1. 貼上 **`{{system.forwardToFriendLink}}`** 代號放入 **URL** 使用Ctrl/Cmd+V方塊，然後按一下 **插入**.
+1. 使用Ctrl/Cmd+V將&#x200B;**`{{system.forwardToFriendLink}}`**&#x200B;權杖貼到&#x200B;**URL**&#x200B;方塊中，然後按一下&#x200B;**插入**。
 
    ![](assets/nine.png)
 
@@ -100,7 +100,7 @@ ht-degree: 0%
 
 您可以在個人的活動記錄中檢視誰轉寄及收到電子郵件。
 
-1. 前往 **`Database`**.
+1. 移至&#x200B;**`Database`**。
 
    ![](assets/db.png)
 
@@ -108,7 +108,7 @@ ht-degree: 0%
 
    ![](assets/fourteen.png)
 
-1. 前往 **活動記錄** 標籤。 按兩下 **已接收轉寄給朋友的電子郵件** 或 **轉寄給朋友的電子郵件** 以檢視詳細資訊。
+1. 移至&#x200B;**活動記錄**&#x200B;標籤。 按兩下&#x200B;**已接收轉寄給朋友的電子郵件**&#x200B;或&#x200B;**已轉寄給朋友的電子郵件**&#x200B;以檢視詳細資料。
 
    ![](assets/fifteen.png)
 
@@ -122,20 +122,20 @@ ht-degree: 0%
 
    ![](assets/sixteen.png)
 
-1. 若要依識別碼檢視人員，請複製並貼上 **人員ID** 到URL結尾(上述URL的開頭將取決於您的Marketo執行個體)：
+1. 若要依ID檢視人員，請將&#x200B;**人員ID**&#x200B;複製並貼到URL結尾(上述URL的開頭取決於您的Marketo執行個體)：
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
    >[!NOTE]
    >
-   >我們將進行 **人員ID** 可點按，並直接連結至近期修補程式中的人員。
+   >我們會在即將推出的修補程式中讓&#x200B;**人員ID**&#x200B;可供點按，並直接連結至該人員。
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
-   >如果收到轉寄的朋友是一個不認識的人，則會建立新人員，並標示為朋友的「轉寄給朋友」 **來源**.
-   >如果電子郵件是計畫的本機資產，則計畫會標示為個人的 **贏取方案**.
+   >如果接收轉寄的朋友是未知人員，則會建立新人員，並標示為人員的&#x200B;**Source**的「轉寄給朋友」。
+   >如果電子郵件是方案的本機資產，則方案會標示為人員的&#x200B;**贏取方案**。
 
 ## 使用轉送活動觸發或篩選 {#trigger-or-filter-using-forwarding-activity}
 
@@ -147,4 +147,4 @@ ht-degree: 0%
 
 ## 測試轉寄給朋友 {#test-forward-to-friend}
 
-若要測試「轉寄給朋友」，請傳送一封包含轉寄連結的電子郵件給您自己。 請務必透過 **傳送電子郵件** 流程步驟， *非* 到 **傳送測試電子郵件**.
+若要測試「轉寄給朋友」，請傳送一封包含轉寄連結的電子郵件給您自己。 請確定您是透過&#x200B;**傳送電子郵件**&#x200B;流程步驟傳送，*不是*&#x200B;透過&#x200B;**傳送測試電子郵件**。

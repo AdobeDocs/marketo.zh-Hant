@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->[個別階段必須核准](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) 和在您核准整個模型之前新增的人員。
+>[個別階段必須核准](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md)，而且您必須在核准整個模型之前新增人員。
 
 ## 核准 {#approve}
 
-1. 前往 **Analytics** 區域。
+1. 移至&#x200B;**Analytics**&#x200B;區域。
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. 從 **模型動作** 功能表，選擇 **核准模型**.
+1. 從&#x200B;**模型動作**&#x200B;功能表，選擇&#x200B;**核准模型**。
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. 會出現一個對話方塊以確認您的選擇。 按一下 **核准**.
+1. 會出現一個對話方塊以確認您的選擇。 按一下&#x200B;**核准**。
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 >
 >如果您取消核准模型，則會從模型中移除所有人員，並刪除他們在模型中的歷史記錄！
 
-1. 前往 **Analytics** 區域。
+1. 移至&#x200B;**Analytics**&#x200B;區域。
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. 按一下 **模型動作** 功能表並選擇 **取消核准模型**.
+1. 按一下&#x200B;**模型動作**&#x200B;功能表，然後選擇&#x200B;**取消核准模型**。
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. 在出現的對話方塊中，按一下 **取消核准模型**.
+1. 在出現的對話方塊中，按一下&#x200B;**取消核准模型**。
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 

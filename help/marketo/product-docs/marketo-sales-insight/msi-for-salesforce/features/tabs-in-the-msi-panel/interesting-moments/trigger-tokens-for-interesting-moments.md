@@ -15,18 +15,18 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->瞭解如何使用 [有趣的時刻流程步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>瞭解如何使用[有趣的時刻流程步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)。
 
 ## 可用Token {#available-tokens}
 
-簽出 [Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) 檢視您能放入有趣時刻的所有權杖。
+檢視[Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)，瞭解您可以放進有趣時刻的所有Token。
 
 ## 觸發Token {#trigger-tokens}
 
 系統會根據智慧型行銷活動中使用的觸發器，提供其他觸發器代號。
 
-* `{{trigger.Trigger Name}}` 永遠是實際的觸發程式本身。 例如：按一下電子郵件中的連結。
-* `{{trigger.Name}}` 是觸發行銷活動的資產名稱。 例如：網頁上的點選連結是URL本身、Salesforce觸發器的主旨等。
+* `{{trigger.Trigger Name}}`，永遠是實際的觸發程式本身。 例如：按一下電子郵件中的連結。
+* `{{trigger.Name}}`是觸發行銷活動的資產名稱。 例如：網頁上的點選連結是URL本身、Salesforce觸發器的主旨等。
 * 根據下列限制，可使用其他觸發器。
 
 ### 電子郵件觸發程式 {#email-triggers}
@@ -1055,9 +1055,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->若沒有核取方塊 ![（勾選）](assets/check.png) 那麼它會在有趣的時刻傳回空字串（無）。
+>如果它沒有支票![（勾號）](assets/check.png)，則會在有趣的時刻傳回空字串（無）。
 
-&#42;觸發程式 **造訪網頁** 有一些額外的權杖：
+&#42;觸發器&#x200B;**瀏覽網頁**&#x200B;有一些額外的權杖：
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`

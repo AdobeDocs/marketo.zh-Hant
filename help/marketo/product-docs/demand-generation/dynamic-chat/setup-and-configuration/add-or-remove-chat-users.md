@@ -20,11 +20,11 @@ ht-degree: 1%
 
 ## 新增聊天使用者 {#add-a-chat-user}
 
-1. 登入 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. 登入[Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}。
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. 按一下 **[!UICONTROL Dynamic Chat]**.
+1. 按一下&#x200B;**[!UICONTROL Dynamic Chat]**。
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -32,11 +32,11 @@ ht-degree: 1%
    >
    >如果您有多個Marketo訂閱，請在下一個步驟前選取所需的訂閱。
 
-1. 按一下 **[!UICONTROL 使用者]** 標籤。
+1. 按一下「**[!UICONTROL 使用者]**」標籤。
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. 按一下 **[!UICONTROL 新增使用者]** 按鈕。
+1. 按一下&#x200B;**[!UICONTROL 新增使用者]**&#x200B;按鈕。
 
    ![](assets/add-or-remove-chat-users-4.png)
 
@@ -44,7 +44,7 @@ ht-degree: 1%
 
    ![](assets/add-or-remove-chat-users-5.png)
 
-1. 按一下 **+** 圖示並選取所需的產品設定檔。
+1. 按一下&#x200B;**+**&#x200B;圖示並選取所需的產品設定檔。
 
    ![](assets/add-or-remove-chat-users-6.png)
 
@@ -60,29 +60,29 @@ ht-degree: 1%
 
 如果新新增的聊天使用者的Marketo角色還沒有Dynamic Chat許可權，以下說明如何新增該角色。
 
-1. 在Marketo中，按一下 **[!UICONTROL 管理員]** 並選取 **[!UICONTROL 使用者和角色]**.
+1. 在Marketo中，按一下&#x200B;**[!UICONTROL 管理員]**&#x200B;並選取&#x200B;**[!UICONTROL 使用者和角色]**。
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. 按一下 **[!UICONTROL 角色]** 標籤。
+1. 按一下「**[!UICONTROL 角色]**」標籤。
 
    ![](assets/add-or-remove-chat-users-9.png)
 
-1. 從清單中選取要修改的角色，然後按一下 **[!UICONTROL 編輯角色]**.
+1. 從清單中選取您要修改的角色，然後按一下&#x200B;**[!UICONTROL 編輯角色]**。
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. 選取 **[!UICONTROL 存取Dynamic Chat]** 並按一下 **[!UICONTROL 儲存]**.
+1. 選取&#x200B;**[!UICONTROL 存取Dynamic Chat]**&#x200B;並按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/add-or-remove-chat-users-11.png)
 
 ## 移除聊天使用者 {#remove-a-chat-user}
 
-1. 登入 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. 登入[Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}。
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. 按一下 **[!UICONTROL Dynamic Chat]**.
+1. 按一下&#x200B;**[!UICONTROL Dynamic Chat]**。
 
    ![](assets/add-or-remove-chat-users-13.png)
 
@@ -90,7 +90,7 @@ ht-degree: 1%
    >
    >如果您有多個Marketo訂閱，請在下一個步驟前選取所需的訂閱。
 
-1. 按一下 **[!UICONTROL 使用者]** 標籤。
+1. 按一下「**[!UICONTROL 使用者]**」標籤。
 
    ![](assets/add-or-remove-chat-users-14.png)
 
@@ -98,11 +98,11 @@ ht-degree: 1%
 
    ![](assets/add-or-remove-chat-users-15.png)
 
-1. 按一下 **[!UICONTROL 移除使用者]** 按鈕。
+1. 按一下&#x200B;**[!UICONTROL 移除使用者]**&#x200B;按鈕。
 
    ![](assets/add-or-remove-chat-users-16.png)
 
-1. 按一下 **[!UICONTROL 移除使用者]** 以確認。
+1. 按一下&#x200B;**[!UICONTROL 移除使用者]**&#x200B;以進行確認。
 
    ![](assets/add-or-remove-chat-users-17.png)
 

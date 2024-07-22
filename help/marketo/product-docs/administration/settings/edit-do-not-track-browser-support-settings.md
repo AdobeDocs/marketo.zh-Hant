@@ -6,7 +6,7 @@ exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -23,19 +23,19 @@ ht-degree: 0%
 >
 >預設情況下，「Do Not Track」會設為「忽略」，因此如果您希望如此，就不需要進行任何步驟。
 
-1. 按一下 **[!UICONTROL 管理員]**.
+1. 按一下&#x200B;**[!UICONTROL 管理員]**。
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. 按一下 **[!UICONTROL Munchkin]**.
+1. 按一下&#x200B;**[!UICONTROL Munchkin]**。
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. 在 **[!UICONTROL 個人追蹤]**，按一下 **[!UICONTROL 編輯]**.
+1. 在&#x200B;**[!UICONTROL 人員追蹤]**&#x200B;下，按一下&#x200B;**[!UICONTROL 編輯]**。
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. 選取 **[!UICONTROL 支援]** 並按一下 **[!UICONTROL 儲存]**.
+1. 選取「**[!UICONTROL 支援]**」，然後按一下「**[!UICONTROL 儲存]**」。
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >若要進一步瞭解「不要追蹤」及其運作方式，請造訪 [此頁面](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >若要進一步瞭解「不要追蹤」及其運作方式，請造訪[此頁面](https://en.wikipedia.org/wiki/Do_Not_Track)。

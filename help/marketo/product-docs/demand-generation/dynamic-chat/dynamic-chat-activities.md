@@ -28,13 +28,13 @@ Dynamic Chat提供數個篩選器和觸發器用於您的智慧清單。
   </tr>
   <tr>
     <td style="width:25%"><b>已參與交談流程/對話方塊</b></td>
-    <td>Web訪客首次在對話方塊或對話流程（按一下多重選擇選項、提交資訊、預約會議、開啟檔案等）中點選提示時就會發生參與。 如果訪客開啟對話方塊或對話流程，但未按一下提示，則參與為 <b>非</b> 已記錄。 
+    <td>Web訪客首次在對話方塊或對話流程（按一下多重選擇選項、提交資訊、預約會議、開啟檔案等）中點選提示時就會發生參與。 如果訪客開啟對話方塊或對話流程，但未點按提示，則參與<b>未</b>記錄。 
     <br>每個訪客、每個工作階段一個參與事件。</td>
   </tr>
    <tr>
     <td style="width:25%"><b>已與Agent互動</b></td>
     <td>當訪客成功連線到即時聊天代理程式時發生。
-    <br>每個訪客、每個工作階段一個參與代理程式事件。</td>
+    <br>每個訪客、每個工作階段都有1個參與代理程式事件。</td>
   </tr>
   <tr>
     <td style="width:25%"><b>與檔案互動</b></td>
@@ -56,5 +56,5 @@ Dynamic Chat提供數個篩選器和觸發器用於您的智慧清單。
 ## 注意事項 {#things-to-note}
 
 * Dynamic Chat流程步驟支援條件
-* Dynamic Chat活動可以同步至 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}
+* Dynamic Chat活動可以同步至[Marketo銷售分析](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}
 * 您可以在人員記錄的活動記錄中檢視個別Dynamic Chat活動

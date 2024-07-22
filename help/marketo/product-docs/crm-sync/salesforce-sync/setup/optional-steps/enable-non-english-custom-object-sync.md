@@ -21,23 +21,23 @@ ht-degree: 1%
 
 ## 繞過它 {#getting-around-it}
 
-1. 登入 [!DNL Salesforce] 使用marketo sync使用者。
+1. 使用marketo同步使用者登入[!DNL Salesforce]。
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. 在使用者名稱底下，前往 **[!UICONTROL 設定]**.
+1. 在使用者名稱底下，移至&#x200B;**[!UICONTROL 設定]**。
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. 在 **[!UICONTROL 個人資訊]**，按一下 **[!UICONTROL 我的個人資訊]**.
+1. 在&#x200B;**[!UICONTROL 個人資訊]**&#x200B;下，按一下&#x200B;**[!UICONTROL 我的個人資訊]**。
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
-1. 按一下 **[!UICONTROL 編輯]**.
+1. 按一下&#x200B;**[!UICONTROL 編輯]**。
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. 變更 **[!UICONTROL 語言]** 至 **[!UICONTROL 英文]**.
+1. 將&#x200B;**[!UICONTROL 語言]**&#x200B;變更為&#x200B;**[!UICONTROL 英文]**。
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
@@ -45,11 +45,11 @@ ht-degree: 1%
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. 返回Marketo，在 **[!UICONTROL 管理員]** > **[!UICONTROL Salesforce]** > **[!UICONTROL 物件]**，按一下 **[!UICONTROL 重新整理結構描述]**.
+1. 返回Marketo，在&#x200B;**[!UICONTROL 管理員]** > **[!UICONTROL Salesforce]** > **[!UICONTROL 物件]**&#x200B;下，按一下&#x200B;**[!UICONTROL 重新整理結構描述]**。
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. 這將會提取英文的物件清單。 現在選取您選擇的物件，然後按一下 **[!UICONTROL 啟用同步]**.
+1. 這將會提取英文的物件清單。 現在選取您選擇的物件，然後按一下&#x200B;**[!UICONTROL 啟用同步]**。
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 

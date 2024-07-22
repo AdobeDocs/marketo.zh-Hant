@@ -6,7 +6,7 @@ exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
 source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '221'
 ht-degree: 1%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Marketo中實際上有數種不同型別的內建取消訂閱。 它們都由person物件上的欄位表示，就像「名字」一樣。
 
-所有這些欄位都內建在您的Marketo訂閱中。 全都是布林值（核取方塊）型別。 它們可以在Forms中使用或 [變更資料值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 流程步驟。
+所有這些欄位都內建在您的Marketo訂閱中。 全都是布林值（核取方塊）型別。 它們可以在Forms或[變更資料值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)流程步驟中使用。
 
 ## 退訂 {#unsubscribed}
 
-這會用於標準取消訂閱頁面。 如果人員核取此方塊，或按一下電子郵件中的取消訂閱連結，將不再收到行銷電子郵件。 但是，他們將會收到 [營運電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+這會用於標準取消訂閱頁面。 如果人員核取此方塊，或按一下電子郵件中的取消訂閱連結，將不再收到行銷電子郵件。 但他們會收到[封營運電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)。
 
 ## 行銷活動已暫停 {#marketing-suspended}
 
@@ -35,6 +35,6 @@ Marketo中實際上有數種不同型別的內建取消訂閱。 它們都由per
 
 ## 已加入封鎖清單 {#blocklisted}
 
-[將此用於競爭者之類的人](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). 任何您想要接收的人 **否** 電子郵件 — 營運、行銷等 他們什麼也得不到！
+[將此用於競爭者之類的人](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md)。 任何您想要接收&#x200B;**no**&#x200B;電子郵件的人 — 營運、行銷等 他們什麼也得不到！
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)

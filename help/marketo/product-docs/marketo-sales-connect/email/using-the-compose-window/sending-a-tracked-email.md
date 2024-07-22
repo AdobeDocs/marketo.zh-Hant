@@ -20,13 +20,13 @@ ht-degree: 0%
 >您必須先驗證身分並設定電子郵件傳遞通道，才能傳送追蹤的電子郵件。
 >
 >* [驗證您的電子郵件地址](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
->* 設定傳遞管道 [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) 或 [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* 設定[Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)或[Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)的傳遞通道
 
-1. 建立您的電子郵件草稿(有多種方式可以執行此操作，在此範例中，我們將選擇 **撰寫** （在標題中）。
+1. 建立您的電子郵件草稿（有多種方式可以達成此目的，在此範例中，我們在標題中選擇&#x200B;**撰寫**）。
 
    ![](assets/one.png)
 
-1. 在中輸入收件者的名稱或電子郵件 **至** 欄位。
+1. 在&#x200B;**到**&#x200B;欄位中輸入收件者的名稱或電子郵件。
 
    ![](assets/two.png)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果有人收到副本或密件副本後開啟電子郵件，該開啟將記錄為檢視人員記錄在 **至** 欄位。
+   >如果有人曾收到副本或密件副本而開啟電子郵件，則該開啟將記錄為在&#x200B;**收件者**&#x200B;欄位中的人員記錄檢視。
 
 1. 新增主旨列。
 
@@ -48,9 +48,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >傳送電子郵件需要主旨列和收件者。 我們會 **自動儲存您的草稿** 在已新增主旨行和收件者之後。
+   >傳送電子郵件需要主旨列和收件者。 新增主旨行和收件者後，我們將&#x200B;**自動儲存您的草稿**。
 
-1. 使用編輯器撰寫電子郵件。 按一下 **傳送** (或 [排程](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)，如果您偏好設定)。
+1. 使用編輯器撰寫電子郵件。 完成時，請按一下&#x200B;**傳送** （或者，如果您願意的話，請按一下[排程](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)）。
 
    ![](assets/five.png)
 

@@ -2,7 +2,8 @@
 description: 安全性設定 — Marketo檔案 — 產品檔案
 title: 安全性設定
 feature: Dynamic Chat
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+exl-id: c3c26319-d819-4a12-a77b-da5d57dc3620
+source-git-commit: 18494906815d907371996ae6c93a3ed59f139ffc
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 請造訪使用限制頁面以檢視重要資訊，例如套件資訊和使用限制狀態。
 
-1. 在「組態」底下，按一下 **[!UICONTROL 使用量限制]**.
+1. 在[設定]下，按一下&#x200B;**[!UICONTROL 使用量限制]**。
 
    ![](assets/usage-limits-1.png)
 

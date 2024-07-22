@@ -6,14 +6,14 @@ exl-id: 60c7b740-1b96-4ff1-92ba-05e573d513d1
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
 # 範本9C {#template-9c}
 
-按一下右鍵以 [下載範本9C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)
+按一下滑鼠右鍵以[下載範本9C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)
 
 ![](assets/image2015-7-28-15-3a35-3a30.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 八個主體區段（選擇性）
 * 頁尾（選填）
 
-**在下面按一下滑鼠右鍵以下載此範本：**
+**在下方按一下滑鼠右鍵以下載此範本：**
 
 [範本9C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)

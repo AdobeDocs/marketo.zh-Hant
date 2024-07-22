@@ -22,23 +22,23 @@ ht-degree: 0%
 
    ![](assets/conversational-flow-settings-1.png)
 
-1. 按一下 **[!UICONTROL 編輯草稿]**.
+1. 按一下&#x200B;**[!UICONTROL 編輯草稿]**。
 
    ![](assets/conversational-flow-settings-2.png)
 
-1. 在表單編輯頁面上，按一下 **[!UICONTROL 表單設定]**，然後 **[!UICONTROL 設定]**.
+1. 在表單編輯頁面上，按一下&#x200B;**[!UICONTROL 表單設定]**，然後按&#x200B;**[!UICONTROL 設定]**。
 
    ![](assets/conversational-flow-settings-3.png)
 
-1. 按一下 **[!UICONTROL 對話流量設定]** 要啟用的滑桿。
+1. 按一下&#x200B;**[!UICONTROL 對話式流量設定]**&#x200B;滑桿以啟用。
 
    ![](assets/conversational-flow-settings-4.png)
 
-1. 隨即顯示「預設選擇」強制回應視窗。 選取您的偏好設定。 在此範例中，我們選擇 **[!UICONTROL 使用對話流程]**.
+1. 隨即顯示「預設選擇」強制回應視窗。 選取您的偏好設定。 在此範例中，我們選擇&#x200B;**[!UICONTROL 使用對話流程]**。
 
    ![](assets/conversational-flow-settings-5.png)
 
-1. 選取所需的 **[!UICONTROL 對話流程]** 和 **[!UICONTROL 傳遞型別]**.
+1. 選取所需的&#x200B;**[!UICONTROL 對話流程]**&#x200B;和&#x200B;**[!UICONTROL 傳遞型別]**。
 
    ![](assets/conversational-flow-settings-6.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
    >
    >[進一步瞭解對話流程](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
 
-   **選擇性步驟**：您可以按一下 **[!UICONTROL 新增選擇]** 將符合特定條件的聊天訪客設為目標。 您最多可以新增九個選項，總共十個。
+   **選擇性步驟**：您可以按一下&#x200B;**[!UICONTROL 新增選擇]**，將符合特定條件的聊天訪客設為目標。 您最多可以新增九個選項，總共十個。
 
    ![](assets/conversational-flow-settings-7.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
    >
    >在提交表單前，訪客的瀏覽器必須是以已知人員身分的Cookie，才能符合靜態/智慧清單成員資格。
 
-   **選擇性步驟**：按一下 **+** 在每個步驟中登入以新增更多屬性，讓您縮小目標對象的範圍（可用的屬性是您為表單選擇的欄位）。 在此範例中，我們的目標是加州的Adobe技術撰稿人。
+   **選擇性步驟**：按一下每個步驟中的&#x200B;**+**&#x200B;符號以新增更多屬性，讓您縮小目標對象的範圍（可用的屬性是您為表單選擇的欄位）。 在此範例中，我們的目標是加州的Adobe技術撰稿人。
 
    ![](assets/conversational-flow-settings-8.png)
 
@@ -66,6 +66,6 @@ ht-degree: 0%
 
    ![](assets/conversational-flow-settings-9.png)
 
-1. 按一下 **[!UICONTROL 完成]** 完成時。
+1. 完成時，按一下&#x200B;**[!UICONTROL 完成]**。
 
    ![](assets/conversational-flow-settings-10.png)

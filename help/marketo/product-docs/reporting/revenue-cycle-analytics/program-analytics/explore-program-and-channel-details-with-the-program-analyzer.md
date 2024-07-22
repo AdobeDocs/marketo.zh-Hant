@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >並非所有Marketo版本都包含此功能。 如需詳細資訊，請聯絡您的客戶經理。
 
-1. 按一下 **Analytics**.
+1. 按一下「**分析**」。
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. 檢視管道或方案的特定統計資料(取決於 **檢視** 選取)，按一下對應的泡泡。
+1. 若要檢視某個頻道或節目的特定統計資料（視您選取的&#x200B;**檢視**&#x200B;而定），請按一下對應的泡泡圖。
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
    >[!NOTE]
    >
-   >您可在程式分析器中選擇的許多量度，都適用於首次接觸(FT)和多點接觸(MT)計算。 瞭解 [FT和MT歸因的差異](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >您可在程式分析器中選擇的許多量度，都適用於首次接觸(FT)和多點接觸(MT)計算。 瞭解FT和MT歸因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)之間的[差異很重要。
 
 1. 若要比較單一頻道內的所有節目，請按一下快顯對話方塊中的頻道名稱。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >按一下單一管道可將您的檢視切換為「依計畫」，僅篩選該管道。 若要返回所有通道，請選取 **檢視** > **依頻道**.
+   >按一下單一管道可將您的檢視切換為「依計畫」，僅篩選該管道。 若要返回所有頻道，請選取&#x200B;**檢視** > **依頻道**。
 
 1. 若要開啟Revenue Cycle Explorer以深入瞭解統計資料，請在快顯對話方塊中按一下該數字。
 

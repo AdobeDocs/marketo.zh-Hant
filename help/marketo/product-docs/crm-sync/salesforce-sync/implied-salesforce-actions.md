@@ -6,7 +6,7 @@ exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 當Salesforce特定的流程步驟執行時，有時會自動執行額外的步驟。 規則如下，您知道：
 
-當人員目前不在時，將套用這些規則 [Salesforce.com](https://Salesforce.com){target="_blank"} 作為聯絡人或潛在客戶。
+當人員目前不是在[Salesforce.com](https://Salesforce.com){target="_blank"}中作為連絡人或潛在客戶時，將套用這些規則。
 
 <table> 
  <thead> 
@@ -31,7 +31,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>變更SFDC促銷活動中的狀態</td> 
-   <td>將人員同步至SFDC<br>新增至SFDC Campaign</td> 
+   <td>將人員同步到SFDC<br>新增到SFDC促銷活動</td> 
   </tr> 
   <tr> 
    <td>變更擁有者</td> 
@@ -48,6 +48,6 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-您可以使用以下工具來篩選掉智慧清單中的SFDC記錄： **[!UICONTROL SFDC型別]** 運運算元設為「非空白」的篩選。 所有SFDC記錄在此欄位中都有一個值。
+您可以使用運運算元設為「非空白」的&#x200B;**[!UICONTROL SFDC Type]**&#x200B;篩選來篩選智慧清單中的SFDC記錄。 所有SFDC記錄在此欄位中都有一個值。
 
-請記住，這些自動動作只有在潛在客戶目前不在時才會發生 [Salesforce.com](https://salesforce.com){target="_blank"}
+請記住，只有當潛在客戶目前不在[Salesforce.com](https://salesforce.com){target="_blank"}中時，才會發生這些自動動作

@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 定義表格中無線電或選取欄位的值 {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-一旦您 [設定欄位型別](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) 若要成為選項按鈕或選取型別，您將要定義使用者可選取的值。 方法如下。
+一旦您[將欄位型別](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)設定為選項按鈕或選取型別，您就會想要定義使用者可選擇的值。 方法如下。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/ma.png)
 
-1. 選擇您的表單並按一下 **編輯表單**.
+1. 選取您的表單並按一下&#x200B;**編輯表單**。
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
-1. 選取欄位並按一下 **編輯**.
+1. 選取欄位並按一下&#x200B;**編輯**。
 
    ![](assets/image2014-9-15-16-3a29-3a6.png)
 
@@ -39,11 +39,11 @@ ht-degree: 0%
    >
    >**定義**
    >
-   >**顯示值：** 向訪客顯示的內容。
+   >**顯示值：**&#x200B;顯示給訪客的內容。
    >
-   >**儲存值：** Marketo的錄製內容。
+   >**儲存值：** Marketo中記錄的值。
 
-1. 視需要新增任意數量的值，然後按一下 **儲存**.
+1. 新增您需要的值，然後按一下[儲存]。****
 
    >[!NOTE]
    >
@@ -53,13 +53,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >按一下 **進階編輯器** 以複製/貼上值清單。 它可以成為即時節省工具。
+   >按一下&#x200B;**進階編輯器**，以複製/貼上您想要的值清單。 它可以成為即時節省工具。
 
-1. 按一下 **完成**.
+1. 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. 按一下 **核准並關閉**.
+1. 按一下&#x200B;**核准並關閉**。
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 

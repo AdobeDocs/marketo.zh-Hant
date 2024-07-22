@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 管理員使用者許可權 {#admin-user-permissions}
 
-管理員可以 [檢視所有範本](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
+管理員可以[檢視所有範本](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)。
 
 ![](assets/templates.jpg)
 
-管理員可以 [檢視所有行銷活動](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
+管理員可以[檢視所有行銷活動](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)。
 
 ![](assets/campaigns.jpg)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 非管理員使用者許可權 {#non-admin-user-permissions}
 
-* Analytics:
+* Analytics：
 
    * 使用者可以檢視團隊分析
    * 使用者可以鑽研至他們所屬的團隊

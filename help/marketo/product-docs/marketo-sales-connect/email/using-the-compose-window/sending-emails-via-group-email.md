@@ -6,7 +6,7 @@ exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 傳送群組電子郵件 {#sending-a-group-email}
 
-1. 按一下 **人員** 標籤。
+1. 按一下「**人員**」標籤。
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. 按一下群組動作按鈕並選取 **電子郵件群組**.
+1. 按一下[群組動作]按鈕，然後選取&#x200B;**電子郵件群組**。
 
    ![](assets/three-3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 編輯群組電子郵件 {#editing-a-group-email}
 
-1. 建立群組電子郵件，使用 [上述步驟1-3](#sending-a-group-email).
+1. 使用上述[步驟1-3建立群組電子郵件](#sending-a-group-email)。
 
 1. 選擇範本，或填寫您的電子郵件。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/edit-four.png)
 
-1. 按一下 **預覽動態欄位**，並檢視右側的預覽。
+1. 按一下&#x200B;**預覽動態欄位**，然後在右側檢視預覽。
 
    ![](assets/edit-five.png)
 

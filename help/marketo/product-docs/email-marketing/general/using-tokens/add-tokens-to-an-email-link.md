@@ -7,7 +7,7 @@ feature: Tokens
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 若要在連結中插入額外和個人特定引數，您可以使用代號。 方法如下。
 
-1. 選取您的電子郵件，然後按一下 **編輯草稿** 標籤。
+1. 選取您的電子郵件，然後按一下&#x200B;**編輯草稿**&#x200B;索引標籤。
 
    ![](assets/one.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 尋找或寫入連結的文字。 反白顯示，然後按一下 **插入/編輯連結** 圖示。
+1. 尋找或寫入連結的文字。 反白顯示，然後按一下&#x200B;**插入/編輯連結**&#x200B;圖示。
 
    ![](assets/three.png)
 
-1. 在中輸入所需的代號 **URL** 並按一下 **插入**.
+1. 在&#x200B;**URL**&#x200B;中輸入所需的權杖，然後按一下&#x200B;**插入**。
 
    ![](assets/four.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/five.png)
 

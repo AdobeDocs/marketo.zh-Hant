@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 瀏覽Analytics首頁 {#navigating-the-analytics-home-page}
 
-1. 前往 **Analytics** 區域。
+1. 移至&#x200B;**Analytics**&#x200B;區域。
 
 1. ![](assets/image2015-4-27-8-3a38-3a10.png)
 
-1. 選取 [報告型別](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. 選取[報告型別](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
 
 1. ![](assets/image2015-4-27-8-3a38-3a22.png)
 
-1. 執行報表後，按一下工作區以返回 **Analytics首頁**.
+1. 執行報告後，按一下工作區以返回&#x200B;**Analytics首頁**。
 
    ![](assets/image2015-4-27-8-3a38-3a34.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[瞭解我的報表和群組報表](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/understanding-my-reports-and-group-reports.md)
+>[瞭解我的報告和群組報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/understanding-my-reports-and-group-reports.md)

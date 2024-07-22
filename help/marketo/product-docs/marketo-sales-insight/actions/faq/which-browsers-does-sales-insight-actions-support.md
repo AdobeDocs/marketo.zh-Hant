@@ -5,7 +5,7 @@ exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -39,4 +39,4 @@ Marketo銷售分析動作目前支援下列瀏覽器。
  </tbody> 
 </table>
 
-為獲得最佳體驗， **讓瀏覽器保持更新**！
+為獲得最佳體驗，**讓您的瀏覽器保持更新**！

@@ -15,11 +15,11 @@ ht-degree: 0%
 
 要刪除頁面？ 別急，方法如下。
 
-1. 前往 **[!UICONTROL 頁面]** 區段。
+1. 移至&#x200B;**[!UICONTROL 頁面]**&#x200B;區段。
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
-1. 在 [!UICONTROL 頁面] 索引標籤，將游標停留在您要移除的頁面上，按一下 **[!UICONTROL 刪除]**，然後按一下 **[!UICONTROL 移除]**.
+1. 在[!UICONTROL 頁面]索引標籤上，將滑鼠停留在您要移除的頁面上，按一下&#x200B;**[!UICONTROL 刪除]**，然後按一下&#x200B;**[!UICONTROL 移除]**。
 
    ![](assets/image2014-9-18-13-3a58-3a39.png)
 

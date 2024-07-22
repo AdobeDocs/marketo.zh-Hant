@@ -20,15 +20,15 @@ ht-degree: 0%
 >* [建立表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [建立自由格式的登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 尋找您的登入頁面，然後按一下 **編輯草稿**.
+1. 找到您的登入頁面，然後按一下&#x200B;**編輯草稿**。
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. 拖放 **表單** 元素新增至頁面。
+1. 將&#x200B;**Form**&#x200B;元素拖放到頁面上。
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -38,9 +38,9 @@ ht-degree: 0%
 
 1. 選擇後續追蹤頁面時，有三個選項：
 
-   * **登陸頁面**  — 挑選Marketo登陸頁面
-   * **外部URL**  — 挑選您想要的URL
-   * **已定義的表單**  — 使用表單層級定義的設定
+   * **登陸頁面** — 挑選Marketo登陸頁面
+   * **外部URL** — 挑選您想要的URL
+   * **表單已定義** — 使用表單層級定義的設定
 
    >[!NOTE]
    >
@@ -48,10 +48,10 @@ ht-degree: 0%
    >
    >後續追蹤頁面是使用者提交表單後所看到的頁面。
 
-1. 按一下 **插入**.
+1. 按一下&#x200B;**插入**。
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 
    做得很好！
 
-只需關閉登入頁面編輯器並 [核准登入頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+只要關閉登入頁面編輯器並[核准登入頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)即可。

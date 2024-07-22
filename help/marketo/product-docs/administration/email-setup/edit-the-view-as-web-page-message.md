@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 編輯「以網頁檢視」訊息 {#edit-the-view-as-web-page-message}
 
-如果您需要編輯&quot;[以網頁檢視](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)「文字，說明如下。
+如果您需要編輯&quot;[以網頁](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;檢視文字，以下是編輯方式。
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 編輯「以網頁檢視」訊息 {#edit-the-view-as-web-page-message-1}
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 
-1. 按一下 **[!UICONTROL 電子郵件]**.
+1. 按一下&#x200B;**[!UICONTROL 電子郵件]**。
 
    ![](assets/edit-the-view-as-web-page-message-2.png)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >第二部分 `##MKT_TOK##` 是 [!UICONTROL munchkin] 該人員的Cookie。 它會確保他們在按一下連結時獲得適當的編碼。
+   >第二部分`##MKT_TOK##`是該人員的[!UICONTROL munchkin] Cookie。 它會確保他們在按一下連結時獲得適當的編碼。
 
-1. 編輯 **[!UICONTROL 以網頁HTML檢視]** 和 **[!UICONTROL 以網頁文字檢視]** 版本以符合您的喜好並按一下 **[!UICONTROL 儲存變更]**.
+1. 編輯&#x200B;**[!UICONTROL 以網頁HTML檢視]**&#x200B;和&#x200B;**[!UICONTROL 以網頁文字檢視]**&#x200B;版本以符合您的喜好，然後按一下&#x200B;**[!UICONTROL 儲存變更]**。
 
    ![](assets/edit-the-view-as-web-page-message-3.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ## 預設「以網頁檢視」文字 {#default-view-as-web-page-text}
 
-如果您需要還原為預設系統»[!UICONTROL 以網頁檢視]「」，複製/貼上下列內容：
+如果您需要還原成預設系統&quot;[!UICONTROL 以網頁檢視]&quot;，請複製/貼上下列專案：
 
 **[!UICONTROL 以網頁HTML檢視]**：
 

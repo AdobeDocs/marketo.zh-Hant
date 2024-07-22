@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 
-1. 按一下 **[!UICONTROL 欄位管理]**.
+1. 按一下&#x200B;**[!UICONTROL 欄位管理]**。
 
    ![](assets/export-used-by-data-for-a-field-2.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. 按一下 **[!UICONTROL 欄位動作]** 下拉式清單並選取 **[!UICONTROL 匯出使用者]**.
+1. 按一下&#x200B;**[!UICONTROL 欄位動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 匯出使用者]**。
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. 一個 [!DNL Excel] 檔案將會匯出。 開啟以檢視其內容。
+1. 將匯出[!DNL Excel]檔案。 開啟以檢視其內容。
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

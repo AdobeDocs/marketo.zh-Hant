@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 報表型別概觀 {#report-type-overview}
 
-當您 [在方案中建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)，選擇您要的報表型別。
+當您[在方案中建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)時，請選擇您想要的報告型別。
 
 ## 最常使用的報表 {#most-used-reports}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">依收入階段的人員報表</a></strong></td> 
-   <td>您的收入模式的基本報表。 另請參閱 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">收入週期分析</a> 以取得更深入的報告。</td> 
+   <td>您的收入模式的基本報表。 如需更深入的報告，請參閱<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">收入週期分析</a>。</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">登陸頁面績效</a>  </strong></td> 
@@ -55,7 +55,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">計畫績效</a>  </strong></td> 
-   <td>基本方案量度，例如成員和成功。 另請參閱 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">收入週期分析</a> 以取得更深入的報告。</td> 
+   <td>基本方案量度，例如成員和成功。 如需更深入的報告，請參閱<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">收入週期分析</a>。</td> 
   </tr> 
   <tr> 
    <td><strong><a href="company-web-activity-report.md">公司網頁活動</a></strong></td> 
@@ -67,11 +67,11 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">參與資料流績效報表</a> </strong></td> 
-   <td>瞭解您的 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">參與計畫</a> 正在運作。</td> 
+   <td>檢視您的<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">參與計畫</a>運作情況。</td> 
   </tr>
    <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">行銷活動電子郵件績效</a> </strong></td> 
-   <td>瞭解您的 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">參與計畫</a> 正在運作。</td> 
+   <td>檢視您的<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">參與計畫</a>運作情況。</td> 
   </tr>
  </tbody> 
 </table>

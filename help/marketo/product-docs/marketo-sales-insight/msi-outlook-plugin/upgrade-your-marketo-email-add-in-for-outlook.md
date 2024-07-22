@@ -6,8 +6,8 @@ exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 8%
+source-wordcount: '335'
+ht-degree: 10%
 
 ---
 
@@ -121,7 +121,7 @@ ht-degree: 8%
 
 ## 升級 {#upgrade}
 
-1. 識別您的 [Microsoft Outlook版本](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
+1. 識別您的[Microsoft Outlook版本](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us)。
 
 1. 從上方清單中選取您的版本。
 
@@ -129,7 +129,7 @@ ht-degree: 8%
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-1. 按一下 **下一個**.
+1. 按一下&#x200B;**下一步**。
 
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
@@ -141,7 +141,7 @@ ht-degree: 8%
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. 您會注意到所有資訊都已預先填入。 只需按一下 **下一個**.
+1. 您會注意到所有資訊都已預先填入。 按&#x200B;**下一步**&#x200B;即可。
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
@@ -149,11 +149,11 @@ ht-degree: 8%
    >
    >如果安裝失敗，請與您的IT部門合作，確保HTTPS流量不會遭到封鎖。 安裝程式需要開啟HTTPS流量。
 
-1. 按一下 **下一個** 以安裝在預設位置。
+1. 按一下[下一步]****&#x200B;以安裝在預設位置。
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. 按一下 **下一個**.
+1. 按一下&#x200B;**下一步**。
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
@@ -167,5 +167,5 @@ ht-degree: 8%
 
 >[!MORELIKETHIS]
 >
->* [使用適用於Outlook的Marketo電子郵件增益集傳送及追蹤電子郵件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [使用Outlook的Marketo電子郵件增益集傳送及追蹤電子郵件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [使用Marketo範本從Outlook傳送及追蹤](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

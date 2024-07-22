@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # 變更表單標籤位置 {#change-form-label-position}
 
-時間 [建立表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)，您可以非常輕鬆地變更表單欄位標籤的位置。 方法如下。
+當[建立表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)時，您可以非常輕鬆地變更表單欄位標籤的位置。 方法如下。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 選擇您的表單並按一下 **編輯表單**.
+1. 選取您的表單並按一下&#x200B;**編輯表單**。
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. 選取 **設定**.
+1. 選取&#x200B;**設定**。
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. 選取 **標籤位置** 您想要的。
+1. 選取您想要的&#x200B;**標籤位置**。
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -36,11 +36,11 @@ ht-degree: 0%
    * 左側（預設）
    * 以上
 
-1. 按一下 **完成**.
+1. 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. 按一下 **核准並關閉**.
+1. 按一下&#x200B;**核准並關閉**。
 
    >[!NOTE]
    >

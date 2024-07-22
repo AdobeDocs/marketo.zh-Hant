@@ -6,7 +6,7 @@ exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>ABM具名帳戶</strong></td> 
-   <td colspan="1">如果您使用Marketo ABM，所有具名帳戶都會同步至MPI，並可透過「ABM具名帳戶」篩選器顯示。 您可以選取具名帳戶，以篩選這些帳戶的結果。<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">深入瞭解ABM具名帳戶。</a></td> 
+   <td colspan="1">如果您使用Marketo ABM，所有具名帳戶都會同步至MPI，並可透過「ABM具名帳戶」篩選器顯示。 您可以選取具名帳戶，以篩選這些帳戶的結果。<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">進一步瞭解ABM具名帳戶。</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>自訂屬性</strong></td> 
-   <td colspan="1"><p>由您決定。 所有欄位 <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">您啟用</a> 商機分析的詳細資訊可在效能分析中篩選。</p></td> 
+   <td colspan="1"><p>由您決定。 您為商機分析啟用的<a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">所有欄位</a>都可以在「效能分析」中篩選。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>投資期間</strong></p></td> 
@@ -69,11 +69,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><p><strong>計畫標籤</strong></p></td> 
-   <td><p>標籤是用來說明程式。 您可以視需要製作任意數量的元件，每個元件都具有唯一值。 <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">在此處瞭解如何使用計畫標籤。</a></p></td> 
+   <td><p>標籤是用來說明程式。 您可以視需要製作任意數量的元件，每個元件都具有唯一值。 <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">在這裡瞭解如何使用程式標籤。</a></p></td> 
   </tr> 
   <tr> 
    <td><strong>工作區</strong></td> 
-   <td><p>工作區是Marketo中存放行銷資產的獨立區域，例如：方案、登陸頁面、電子郵件等。 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">在此處進一步瞭解工作區。</a></p></td> 
+   <td><p>工作區是Marketo中存放行銷資產的獨立區域，例如：方案、登陸頁面、電子郵件等。 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">在這裡進一步瞭解工作區。</a></p></td> 
   </tr> 
  </tbody> 
 </table>

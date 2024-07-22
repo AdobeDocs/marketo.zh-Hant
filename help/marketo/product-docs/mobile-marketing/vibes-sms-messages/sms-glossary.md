@@ -2,7 +2,8 @@
 description: SMS字彙表 — Marketo檔案 — 產品檔案
 title: 簡訊字彙表
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '734'
 ht-degree: 0%
@@ -39,7 +40,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td>自訂短網域</td>
-    <td>如果您使用Vibes連結縮短程式，則縮短的URL預設會顯示在Vibes短URL下方： https://vbs.cm/xxxxxx。 自訂簡短網域是您的品牌專屬的網域。 <a href="https://developer-platform.vibes.com/docs/creating-a-custom-short-domain">進一步瞭解自訂短網域</a>.<p>
+    <td>如果您使用Vibes連結縮短程式，則縮短的URL預設會顯示在Vibes短URL下方： https://vbs.cm/xxxxxx。 自訂簡短網域是您的品牌專屬的網域。 <a href="https://developer-platform.vibes.com/docs/creating-a-custom-short-domain">進一步瞭解自訂短網域</a>。<p>
     這僅適用於從Vibes平台傳送的訊息，特別是贏取促銷活動訊息和短程式碼預設訊息。<p>
     為了在您的Marketo程式中擁有點按資料，建議使用Marketo URL縮短程式。</td>
   </tr>
@@ -57,7 +58,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td>事件</td>
-    <td>事件是可提交至Vibes平台的已定義發生次數，用於觸發API觸發的動作，包括訊息傳送。 每個事件都包含該事件特有的資料，包括event_type，用於判斷與哪個API觸發訊息行銷活動相對應。 事件API可透過Marketo Engage中的Webhook觸發。 進一步瞭解 <a href="https://developer-platform.vibes.com/reference/event-api">事件API參考</a>.</td>
+    <td>事件是可提交至Vibes平台的已定義發生次數，用於觸發API觸發的動作，包括訊息傳送。 每個事件都包含該事件特有的資料，包括event_type，用於判斷與哪個API觸發訊息行銷活動相對應。 事件API可透過Marketo Engage中的Webhook觸發。 深入瞭解<a href="https://developer-platform.vibes.com/reference/event-api">事件API參考</a>。</td>
   </tr>
   <tr>
     <td>關鍵字</td>
@@ -81,7 +82,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td>個人記錄</td>
-    <td>個人記錄是特定行動電話號碼的資料集合。 每個個人記錄也會獲派一個唯一的person_key來識別。 Marketo ID會使用external_person_id欄位連結至Vibes。 進一步瞭解中的個人記錄 <a href="https://developer-platform.vibes.com/reference/person-api">Vibes人員API檔案</a>.</td>
+    <td>個人記錄是特定行動電話號碼的資料集合。 每個個人記錄也會獲派一個唯一的person_key來識別。 Marketo ID會使用external_person_id欄位連結至Vibes。 在<a href="https://developer-platform.vibes.com/reference/person-api">Vibes人員API檔案</a>中進一步瞭解人員記錄。</td>
   </tr>
   <tr>
     <td>簡短程式碼</td>
@@ -101,7 +102,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td>Vibes Platform</td>
-    <td>您登入以管理行銷活動的網站。 前往 <a href="https://nexus.us.vibes.com/">https://nexus.us.vibes.com/</a> 以存取Vibes平台。</td>
+    <td>您登入以管理行銷活動的網站。 移至<a href="https://nexus.us.vibes.com/">https://nexus.us.vibes.com/</a>以存取Vibes平台。</td>
   </tr>
 </tbody>
 </table>

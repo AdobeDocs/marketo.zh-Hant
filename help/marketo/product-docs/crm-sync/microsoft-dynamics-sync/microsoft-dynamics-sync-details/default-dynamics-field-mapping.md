@@ -5,7 +5,7 @@ exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '830'
+source-wordcount: '823'
 ht-degree: 18%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 18%
     <tr>
       <td>電子郵件</td>
       <td>電子郵件</td>
-      <td>emailaddress1</td>
+      <td>電子郵件地址1</td>
     </tr>
     <tr>
       <td>職稱</td>
@@ -66,7 +66,7 @@ ht-degree: 18%
     <tr>
       <td>電話</td>
       <td>公司電話</td>
-      <td>telephone1</td>
+      <td>電話1</td>
     </tr>
     <tr>
       <td>行動</td>
@@ -104,7 +104,7 @@ ht-degree: 18%
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>個人來源</td>
+      <td>Source人員</td>
       <td>銷售機會來源</td>
       <td>leadsourcecode</td>
     </tr>
@@ -166,7 +166,7 @@ ht-degree: 18%
     <tr>
       <td>Microsoft家庭電話</td>
       <td>住家電話</td>
-      <td>telephone2</td>
+      <td>電話2</td>
     </tr>
     <tr>
       <td>Microsoft慣用的聯絡方式</td>
@@ -296,7 +296,7 @@ ht-degree: 18%
     <tr>
       <td>電子郵件</td>
       <td>電子郵件</td>
-      <td>emailaddress1</td>
+      <td>電子郵件地址1</td>
     </tr>
     <tr>
       <td>職稱</td>
@@ -306,7 +306,7 @@ ht-degree: 18%
     <tr>
       <td>電話</td>
       <td>公司電話</td>
-      <td>telephone1</td>
+      <td>電話1</td>
     </tr>
     <tr>
       <td>行動</td>
@@ -376,7 +376,7 @@ ht-degree: 18%
     <tr>
       <td>Microsoft家庭電話</td>
       <td>住家電話</td>
-      <td>telephone2</td>
+      <td>電話2</td>
     </tr>
     <tr>
       <td>Microsoft慣用的聯絡方式</td>
@@ -525,7 +525,7 @@ ht-degree: 18%
     <tr>
       <td>主要電話</td>
       <td>主要電話</td>
-      <td>telephone1</td>
+      <td>電話1</td>
     </tr>
     <tr>
       <td>業務型別</td>

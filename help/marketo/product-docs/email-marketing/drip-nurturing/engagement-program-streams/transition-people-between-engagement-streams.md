@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 在參與資料流之間轉變人物 {#transition-people-between-engagement-streams}
 
-參與計畫可以有一個以上的資料流。 如果您 [新增資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)，您會想要定義人們在不同資料流之間移動的方式。 這些稱為 **轉變規則。**
+參與計畫可以有一個以上的資料流。 如果您[新增資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)，您將想要定義讓人員從一個資料流移至另一個資料流的方法。 這些稱為&#x200B;**轉換規則。**
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/ma.png)
 
-1. 選取您的多重串流參與方案，並前往 **串流**.
+1. 選取您的多重串流參與方案，並移至&#x200B;**串流**。
 
    ![](assets/multistream.jpg)
 
-1. 按一下 **轉換規則** 針對您要從其他串流提取到的串流，然後按一下 **編輯轉變規則**.
+1. 針對您要從其他串流拉入的串流，按一下&#x200B;**轉變規則**，然後按一下&#x200B;**編輯轉變規則**。
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. 讓我們將運運算元設為 **為任何** 讓人員移動以取得任何新增的機會。
+1. 讓我們將運運算元設為&#x200B;**為任何**，讓人員移動以取得任何新增的機會。
 
    ![](assets/image2014-9-15-18-3a11-3a14.png)
 
@@ -53,4 +53,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >上述步驟 *do* 適用於以下人員： [暫停時](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) 以及。
+   >上述步驟&#x200B;*do*&#x200B;也適用於暫停時[的人員](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)。

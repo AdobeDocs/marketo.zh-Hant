@@ -16,7 +16,7 @@ ht-degree: 0%
 
 我們使用兩種不同的方法來確認機器人活動：
 
-* 比對對象 [Interactive Advertising Bureau機器人清單](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}：與IAB UA/IP （使用者代理/IP位址）清單上的任何專案相符的活動將標示為機器人。
+* 與[互動式Advertising Bureau機器人清單](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}相符：與IAB UA/IP （使用者代理程式/IP位址）清單上的任何專案相符的活動將標示為機器人。
 * 符合近似程度模式：當兩個或多個活動同時發生（在一秒以內）時，則會將其識別為機器人。 比較期間考慮的屬性包括：
    * 銷售機會ID （應相同）
    * 電子郵件資產（應相同）
@@ -31,35 +31,35 @@ ht-degree: 0%
 
 ## 選取篩選器型別 {#select-filter-type}
 
-1. 按一下 **[!UICONTROL 管理員]**.
+1. 按一下&#x200B;**[!UICONTROL 管理員]**。
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. 按一下 **[!UICONTROL 電子郵件]**.
+1. 按一下&#x200B;**[!UICONTROL 電子郵件]**。
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. 按一下 **[!UICONTROL 機器人活動]** 標籤。
+1. 按一下&#x200B;**[!UICONTROL 機器人活動]**&#x200B;標籤。
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 有兩個滑桿可供選擇。 您只能啟用其中一項或兩項。 如果您啟用 **[!UICONTROL 與IAB清單相符]**，選擇是否要 [!UICONTROL 記錄機器人活動] _或_ [!UICONTROL 篩選機器人活動].
+1. 有兩個滑桿可供選擇。 您只能啟用其中一項或兩項。 如果您啟用&#x200B;**[!UICONTROL 與IAB清單]**&#x200B;相符，請選擇是要[!UICONTROL 記錄機器人活動] _或_ [!UICONTROL 篩選機器人活動]。
 
    ![](assets/filtering-email-bot-activity-4.png)
 
-1. 如果您啟用 **[!UICONTROL 與近似程度模式相符]**，選擇是否要 [!UICONTROL 記錄機器人活動] _或_ [!UICONTROL 篩選機器人活動]. 您也可以為以下設定秒數： **活動之間的持續時間** （預設為0，最大為3）。
+1. 如果您啟用&#x200B;**[!UICONTROL 與近似程度模式相符]**，請選擇是要[!UICONTROL 記錄機器人活動] _或_ [!UICONTROL 篩選機器人活動]。 您也可以設定&#x200B;**活動之間持續時間**&#x200B;的秒數（預設為0，最大為3）。
 
    ![](assets/filtering-email-bot-activity-5.png)
 
 >[!NOTE]
 >
->替換為 **活動之間的持續時間** 設為0秒，我們會識別同時發生的電子郵件活動。 如果在指定的秒數內發生多個電子郵件活動，則會將其識別為機器人活動。
+>如果活動&#x200B;**之間的**&#x200B;期間設為0秒，我們會識別在同一秒發生的電子郵件活動。 如果在指定的秒數內發生多個電子郵件活動，則會將其識別為機器人活動。
 
 >[!IMPORTANT]
 >
->* 如果您選擇 [!UICONTROL 篩選機器人活動]，您可能會看到電子郵件開啟次數和點按次數下降，因為false活動被淘汰了。
+>* 如果選擇[!UICONTROL 篩選機器人活動]，您可能會看到電子郵件開啟次數和點按次數減少，因為篩選出false活動。
 
-**選擇性步驟**：若要停用任一功能，只要取消選取個別的滑桿即可。 如果您這麼做，資料不會重設。
+**選擇性步驟**：若要停用任一功能，只要取消選取相應的滑桿即可。 如果您這麼做，資料不會重設。
 
 >[!TIP]
 >

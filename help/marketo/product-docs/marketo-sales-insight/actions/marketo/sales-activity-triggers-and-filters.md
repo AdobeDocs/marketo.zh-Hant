@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. 在 **智慧清單** 索引標籤中，搜尋「Sales Apps」。
+1. 在&#x200B;**智慧清單**&#x200B;索引標籤中，搜尋「銷售應用程式」。
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如需活動、限制和定義的完整清單，請參閱 [銷售分析動作活動字彙表](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).
+>如需活動、限制和定義的完整清單，請參閱我們的[銷售分析動作活動字彙表](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)。

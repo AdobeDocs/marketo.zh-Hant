@@ -6,7 +6,7 @@ exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -17,28 +17,28 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [完成設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [含有表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## 步驟1：建立電子郵件 {#step-create-an-email}
 
-1. 前往 **[!UICONTROL 行銷活動]** 區域。
+1. 前往&#x200B;**[!UICONTROL 行銷活動]**&#x200B;區域。
 
    ![](assets/email-auto-response-1.png)
 
-1. 在左側選單中選取您的程式，按一下 **[!UICONTROL 新增]** 下拉式清單，然後選取 **[!UICONTROL 新增本機資產]**.
+1. 在左側功能表中選取您的程式，按一下&#x200B;**[!UICONTROL 新增]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 新增本機資產]**。
 
    ![](assets/email-auto-response-2.png)
 
-1. 選取 **[!UICONTROL 電子郵件]**.
+1. 選取&#x200B;**[!UICONTROL 電子郵件]**。
 
    ![](assets/email-auto-response-3.png)
 
-1. 將您的電子郵件命名為「自動回覆電子郵件」，選擇一個範本，然後按一下 **[!UICONTROL 建立]**.
+1. 將您的電子郵件命名為「自動回覆電子郵件」，選擇一個範本，然後按一下「**[!UICONTROL 建立]**」。
 
    ![](assets/email-auto-response-4.png)
 
-   電子郵件編輯器將在新視窗或標籤中開啟。 如果封鎖快顯視窗，請按一下 **[!UICONTROL 編輯草稿]** 在資產摘要頁面上以存取電子郵件。
+   電子郵件編輯器將在新視窗或標籤中開啟。 如果封鎖快顯視窗，請按一下資產摘要頁面上的&#x200B;**[!UICONTROL 編輯草稿]**&#x200B;以存取電子郵件。
 
 1. 輸入主旨列，然後按兩下電子郵件的可編輯區域。
 
@@ -50,59 +50,59 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-6.png)
 
-1. 輸入您的電子郵件內容，然後按一下 **[!UICONTROL 儲存]**.
+1. 輸入您的電子郵件內容，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/email-auto-response-7.png)
 
-1. 按一下 **[!UICONTROL 電子郵件動作]** 下拉式清單並選取 **[!UICONTROL 核准並關閉]**.
+1. 按一下&#x200B;**[!UICONTROL 電子郵件動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 核准並關閉]**。
 
    ![](assets/email-auto-response-8.png)
 
 ## 步驟2：建立Smart Campaign {#step-create-a-smart-campaign}
 
-1. 選取您的程式，按一下 **[!UICONTROL 新增]** 下拉式清單並選取 **[!UICONTROL 新增智慧型行銷活動]**.
+1. 選取您的程式，按一下&#x200B;**[!UICONTROL 新增]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 新增Smart Campaign]**。
 
    ![](assets/email-auto-response-9.png)
 
-1. **名稱** 您的智慧行銷活動「自動回應行銷活動」，然後按一下 **[!UICONTROL 建立]**.
+1. **命名**&#x200B;您的智慧行銷活動「自動回應行銷活動」，然後按一下&#x200B;**[!UICONTROL 建立]**。
 
    ![](assets/email-auto-response-10.png)
 
-1. 前往 **[!UICONTROL 智慧清單]** 標籤。
+1. 移至&#x200B;**[!UICONTROL 智慧清單]**&#x200B;標籤。
 
    ![](assets/email-auto-response-11.png)
 
-   我們將設定此行銷活動，以便在有人填寫您建立的表單時執行 [**含有表單的登陸頁面**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}.
+   我們將設定此行銷活動，每當有人填寫您在&#x200B;[**登入頁面中建立的表單及表單**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}&#x200B;時執行。
 
-1. 尋找並拖曳 **[!UICONTROL 填寫表單]** 觸發至畫布。
+1. 尋找&#x200B;**[!UICONTROL 填寫表單]**&#x200B;觸發器並將其拖曳至畫布。
 
    ![](assets/email-auto-response-12.png)
 
-1. 選取 **[!UICONTROL 我的表單]** 位於下拉式清單中。 然後按一下 **[!UICONTROL 流量]** 標籤。
+1. 在下拉式清單中選取&#x200B;**[!UICONTROL 我的表單]**。 然後按一下「**[!UICONTROL 流量]**」標籤。
 
    ![](assets/email-auto-response-13.png)
 
-1. 拖曳 **[!UICONTROL 傳送電子郵件]** 流程動作至左側畫布。
+1. 將&#x200B;**[!UICONTROL 傳送電子郵件]**&#x200B;流程動作拖曳至左側畫布。
 
    ![](assets/email-auto-response-14.png)
 
-1. 選取您的 **自動回覆電子郵件**. 然後按一下 **[!UICONTROL 排程]** 標籤。
+1. 選取您的&#x200B;**自動回覆電子郵件**。 然後按一下「**[!UICONTROL 排程]**」標籤。
 
    ![](assets/email-auto-response-15.png)
 
-1. 按一下 **[!UICONTROL 編輯]**.
+1. 按一下&#x200B;**[!UICONTROL 編輯]**。
 
    ![](assets/email-auto-response-16.png)
 
-1. 選取 **[!UICONTROL 每次]** 並按一下 **[!UICONTROL 儲存]**.
+1. 每次選取&#x200B;****&#x200B;並按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/email-auto-response-17.png)
 
-1. 按一下 **[!UICONTROL 啟動]**.
+1. 按一下&#x200B;**[!UICONTROL 啟動]**。
 
    ![](assets/email-auto-response-18.png)
 
-1. 按一下 **[!UICONTROL 啟動]** 在確認畫面上。
+1. 在確認畫面上按一下&#x200B;**[!UICONTROL 啟動]**。
 
    ![](assets/email-auto-response-19.png)
 
@@ -112,13 +112,13 @@ ht-degree: 0%
 
 ## 步驟3：填寫表單 {#step-fill-out-the-form}
 
-1. 選取 **我的頁面** (此專案建立於 [含有表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 快速獲勝)並點選 **[!UICONTROL 預覽]**.
+1. 選取&#x200B;**我的頁面** （這是使用表單](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速入選在[登陸頁面中建立的）並按一下&#x200B;**[!UICONTROL 預覽]**。
 
    ![](assets/email-auto-response-20.png)
 
    _您的「免費試用」登陸頁面將在新標籤中開啟。_
 
-1. 填寫您的名字、姓氏和電子郵件地址，然後按一下 **[!UICONTROL 提交]**.
+1. 填寫您的名字、姓氏和電子郵件地址，然後按一下&#x200B;**[!UICONTROL 提交]**。
 
    ![](assets/email-auto-response-21.png)
 

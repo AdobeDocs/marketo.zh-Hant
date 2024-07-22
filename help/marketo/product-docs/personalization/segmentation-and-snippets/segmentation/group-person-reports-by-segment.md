@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以依據您在區段中定義的任何區段，將個人報表分組。
 
-1. 前往 **行銷活動** (或 **Analytics**)區段。
+1. 移至&#x200B;**行銷活動** （或&#x200B;**分析**）區段。
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
@@ -23,22 +23,22 @@ ht-degree: 0%
 
    ![](assets/image2017-3-28-9-3a25-3a0.png)
 
-1. 按一下 **設定** 標籤並連按兩下 **人員分組依據**.
+1. 按一下&#x200B;**設定**&#x200B;標籤，然後按兩下&#x200B;**群組人員依據**。
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
    >[!NOTE]
    >
-   >您也可以 [依人員或公司屬性將您的個人報表分組](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
+   >您也可以[依人員或公司屬性](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)將您的人員報表分組。
 
-1. 在 **人員分組依據** 對話方塊，開始在文字方塊中輸入「分段」。 當 **區段** 標題出現時，從標題下方的清單中選取一個標題。
+1. 在&#x200B;**依**&#x200B;分組人員對話方塊中，開始在文字方塊中輸入「分段」。 當&#x200B;**區段**&#x200B;標題出現時，從標題下方的清單中選取一個標題。
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
-1. 按一下 **報告** 標籤，以檢視按所選區段分組的報告。
+1. 按一下「**報表**」標籤，檢視依所選區段分組的報表。
 
    ![](assets/image2017-3-28-9-3a26-3a13.png)
 
 >[!MORELIKETHIS]
 >
->[新增自訂欄至個人報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
+>[新增自訂欄至人員報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)

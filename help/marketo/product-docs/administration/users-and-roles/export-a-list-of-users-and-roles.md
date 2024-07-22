@@ -19,11 +19,11 @@ ht-degree: 0%
 
 匯出使用者和使用者角色的完整清單相當容易。 方法如下。
 
-1. 前往 **[!UICONTROL 管理員]**.
+1. 移至&#x200B;**[!UICONTROL 管理員]**。
 
    ![](assets/export-a-list-of-users-and-roles-1.png)
 
-1. 按一下 **[!UICONTROL 使用者和角色]**.
+1. 按一下&#x200B;**[!UICONTROL 使用者與角色]**。
 
    ![](assets/export-a-list-of-users-and-roles-2.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >若要匯出角色，請移至 **[!UICONTROL 角色]** 按Tab鍵，然後匯出。
+   >若要匯出角色，請先移至&#x200B;**[!UICONTROL 角色]**&#x200B;標籤，然後匯出。
 
    ![](assets/export-a-list-of-users-and-roles-3.png)
 
-1. 按一下 **[!UICONTROL 匯出]** 圖示。
+1. 按一下&#x200B;**[!UICONTROL 匯出]**&#x200B;圖示。
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 

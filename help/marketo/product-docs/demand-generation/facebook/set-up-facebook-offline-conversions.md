@@ -6,8 +6,8 @@ exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 0%
+source-wordcount: '310'
+ht-degree: 1%
 
 ---
 
@@ -17,36 +17,36 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 您必須 [設定Facebook銷售機會廣告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
->* 您必須在以下位置擁有已核准的模型： [收入週期Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+>* 您必須[設定Facebook銷售機會廣告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)。
+>* 您在[收入週期Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)中必須有已核准的模型。
 
 ## 管理員設定 {#admin-configuration}
 
-1. 前往Marketo **管理員**.
+1. 移至Marketo **管理員**。
 
    ![](assets/image2016-11-29-13-3a8-3a45.png)
 
-1. 前往 **啟動點** ，然後按兩下您先前建立的Facebook Lead Ads服務。
+1. 前往&#x200B;**LaunchPoint**，然後按兩下您先前建立的Facebook銷售機會廣告服務。
 
    >[!NOTE]
    >
-   >如果您尚未執行此動作，請繼續並 [設定Facebook銷售機會廣告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)，然後返回此處。
+   >如果您尚未這麼做，請繼續[設定Facebook銷售機會廣告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)，然後回到這裡。
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. 您也可以編輯 **顯示名稱** 以包含離線轉換。 按一下 **下一個**.
+1. 您也可以編輯&#x200B;**顯示名稱**&#x200B;以包含離線轉換。 按一下&#x200B;**下一步**。
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. 檢查 **啟用離線轉換** 並按一下 **下一個**.
+1. 勾選&#x200B;**啟用離線轉換**，然後按一下&#x200B;**下一步**。
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
-1. 按一下 **下一個**.
+1. 按一下&#x200B;**下一步**。
 
    ![](assets/image2016-11-29-13-3a14-3a17.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
@@ -56,11 +56,11 @@ ht-degree: 0%
 
 ## 收入週期Modeler設定 {#revenue-cycle-modeler-configuration}
 
-1. 前往 **Analytics**.
+1. 移至&#x200B;**Analytics**。
 
    ![](assets/image2016-11-29-13-3a29-3a23.png)
 
-1. 選取您的模型並按一下 **編輯草稿**.
+1. 選取您的模型並按一下&#x200B;**編輯草稿**。
 
    ![](assets/image2016-11-29-13-3a31-3a6.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
    >* 搜尋
    >* 內容檢視
 
-1. 選取您要對應的階段，然後從 **facebook轉換** 在下拉式清單中，選取您要對應至的Facebook事件。 重複此步驟，將RCM中的所有階段對應至Facebook上的離線轉換階段。
+1. 選取您要對應的階段，然後從「**Facebook轉換**」下拉式清單中，選取您要對應到的Facebook事件。 重複此步驟，將RCM中的所有階段對應至Facebook上的離線轉換階段。
 
    ![](assets/1-1.png)
 
@@ -95,7 +95,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >檢查您的Facebook帳戶，並確認所有 [廣告已建立關聯](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) Marketo離線轉換事件集。 如果沒有，廣告歸因可能無法運作。
+   >檢查您的Facebook帳戶，並確認所有[廣告皆與Marketo離線轉換事件集相關聯](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer)。 如果沒有，廣告歸因可能無法運作。
 
    >[!NOTE]
    >

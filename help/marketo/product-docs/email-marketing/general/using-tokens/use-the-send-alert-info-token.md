@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2952678
-description: 使用傳送警報資訊權杖 {{SP_Send_Alert_Info}} - Marketo檔案 — 產品檔案
+description: 使用傳送警報資訊權杖{{SP_Send_Alert_Info}} - Marketo檔案 — 產品檔案
 title: 使用傳送警報資訊權杖
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
 
 # 使用傳送警報資訊權杖 {#use-the-send-alert-info-token-sp-send-alert-info}
 
-此 `{{SP_Send_Alert_Info}}` Token是特殊的Token，可在建立銷售團隊的警報電子郵件時使用。
+`{{SP_Send_Alert_Info}}` Token是特殊的Token，可在建立銷售團隊的警示電子郵件時使用。
 
 >[!TIP]
 >
->此Token只有在使用「 」傳送包含它的電子郵件時才可如預期運作 [傳送警報](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) 流程步驟。 在「傳送電子郵件」流程步驟中使用時，此功能無法運作。
+>此Token只有在使用[傳送警報](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)流程步驟傳送包含它的電子郵件時，才能如預期運作。 在「傳送電子郵件」流程步驟中使用時，此功能無法運作。
 
 範例警報：
 
@@ -25,9 +25,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->抬頭！ 警示中的URL具有到期日，因此請確定它們具有支援這些訊息型別的步調。 到期日期為 [由管理員設定](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
+>抬頭！ 警示中的URL具有到期日，因此請確定它們具有支援這些訊息型別的步調。 到期日是[由管理員設定](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)。
 
-下列資訊包含在 `{{SP_Send_Alert_Info}}`：
+下列資訊包含在`{{SP_Send_Alert_Info}}`中：
 
 * 在Marketo中將名字和姓氏作為人員詳細資料的連結
 * CRM中個人的連結
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 將SP_Send_Alert_Info權杖新增至電子郵件 {#add-the-sp-send-alert-info-token-to-an-email}
 
-1. 選取電子郵件並按一下 **編輯草稿**.
+1. 選取電子郵件並按一下&#x200B;**編輯草稿**。
 
    ![](assets/one-3.png)
 
@@ -48,15 +48,15 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. 將游標置於您想要Token的位置，然後按一下 **插入權杖** 按鈕。
+1. 將游標放在您要標籤的位置，然後按一下&#x200B;**插入標籤**&#x200B;按鈕。
 
    ![](assets/three-3.png)
 
-1. 尋找並選取 **`{{SP_Send_Alert_Info}}`** 權杖並按一下 **插入**.
+1. 尋找並選取&#x200B;**`{{SP_Send_Alert_Info}}`**&#x200B;權杖並按一下&#x200B;**插入**。
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
-1. 按一下 **儲存**.
+1. 按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 

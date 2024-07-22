@@ -17,28 +17,28 @@ ht-degree: 0%
 
 ## 如何以管理員身分中斷與Salesforce的連線 {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. 在Sales Connect中，按一下右上方的齒輪圖示並選取 **設定**.
+1. 在Sales Connect中，按一下右上方的齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/one-1.png)
 
-1. 在管理設定下，按一下 **Salesforce**.
+1. 在[管理設定]下，按一下&#x200B;**Salesforce**。
 
    ![](assets/six-1.png)
 
-1. 在「連線和自訂」標籤中，按一下 **中斷連線**.
+1. 在[連線與自訂]索引標籤中，按一下[中斷連線]。****
 
    ![](assets/seven-1.png)
 
 ## 如何以非管理員身分中斷與Salesforce的連線 {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. 在Sales Connect中，按一下右上方的齒輪圖示並選取 **設定**.
+1. 在Sales Connect中，按一下右上方的齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/one-1.png)
 
-1. 在我的帳戶下，選取 **Salesforce**.
+1. 在「我的帳戶」底下，選取&#x200B;**Salesforce**。
 
    ![](assets/two-1.png)
 
-1. 在「連線和自訂」標籤中，按一下 **中斷連線**.
+1. 在[連線與自訂]索引標籤中，按一下[中斷連線]。****
 
    ![](assets/3333.png)

@@ -6,7 +6,7 @@ exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,17 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->自訂維度 **無法** 請刪除或取代，仔細選擇您的10項。
+>自訂維度&#x200B;**無法**&#x200B;刪除或取代，因此請謹慎選擇您的10。
 
 1. 在電子郵件深入分析中，按一下頁面右上角的齒輪圖示。
 
    ![](assets/cd1.png)
 
-1. 按一下 **系統**.
+1. 按一下&#x200B;**系統**。
 
    ![](assets/cd2.png)
 
-1. 按一下 **+** 旁邊 **新增維度**.
+1. 按一下&#x200B;**新增維度**&#x200B;旁的&#x200B;**+**。
 
    ![](assets/cd3.png)
 
@@ -41,6 +41,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**依對象**：顯示所有已核准的區段（從資料庫內）
+   >**依對象**：顯示所有已核准的分段（從資料庫內）
    >
-   >**依內容**：顯示所有計畫標籤
+   >**依內容**：顯示所有程式標籤

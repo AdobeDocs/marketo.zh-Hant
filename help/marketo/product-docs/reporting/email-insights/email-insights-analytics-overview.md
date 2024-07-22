@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/emailanalytics-1.jpg)
 
-[篩選](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) 可協助您向下展開特定量度。
+[篩選](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)可協助您向下鑽研特定量度。
 
 ![](assets/filter-field.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ![](assets/chart2.png)
 
-如果您建立要再次使用的圖表，請將其設為 [快速圖表](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
+如果您建立要再次使用的圖表，請將其變成[快速圖表](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md)。
 
 ![](assets/quick-chart.png)
 

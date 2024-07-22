@@ -17,23 +17,23 @@ ht-degree: 0%
 >
 >* [新增國家/地區選擇清單至您的表單](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
-Marketo表單很酷的一個功能是您可以動態隱藏/顯示表單欄位或 [欄位集](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
+Marketo表單的一個很酷的功能是您可以動態隱藏/顯示表單欄位或[欄位集](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)。
 
 >[!NOTE]
 >
 >**範例**
 >
->在此範例中，讓我們隱藏 **狀態** 欄位除非 **國家** 被選為「美國」。
+>在此範例中，除非選取&#x200B;**國家/地區**&#x200B;為「美國」，否則讓我們隱藏&#x200B;**國家**&#x200B;欄位。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-8.png)
 
-1. 選擇您的表單並按一下 **編輯表單**.
+1. 選取您的表單並按一下&#x200B;**編輯表單**。
 
    ![](assets/editform-1.png)
 
-1. 選取您要動態隱藏/顯示的欄位，然後按一下連結 **可見度規則**.
+1. 選取您要動態隱藏/顯示的欄位，然後按一下&#x200B;**可見性規則**&#x200B;的連結。
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -59,7 +59,7 @@ Marketo表單很酷的一個功能是您可以動態隱藏/顯示表單欄位或
 
    >[!NOTE]
    >
-   >我們先前將「國家/地區」轉換為挑選清單欄位型別並 [將所有國家/地區新增為值](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >我們先前將國家/地區轉換為挑選清單欄位型別，並[將所有國家/地區新增為值](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)。
 
 1. 按一下&#x200B;**保存**。
 
@@ -69,6 +69,6 @@ Marketo表單很酷的一個功能是您可以動態隱藏/顯示表單欄位或
 
 >[!IMPORTANT]
 >
->使用透過自訂指令碼設定/更新欄位值時，表單欄位行為將順暢運作 [API函式](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} 在Forms 2.0中。
+>使用Forms 2.0中的[API函式](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}透過自訂指令碼設定/更新欄位值時，表單欄位行為將順暢運作。
 >
->如果欄位值是由Forms 2.0 JavaScript API以外的外部指令碼修改，則條件欄位可能無法如預期運作。
+>如果欄位值是由Forms 2.0 JavaScript API以外的外部指令碼修改，則條件欄位可能會無法如預期運作。

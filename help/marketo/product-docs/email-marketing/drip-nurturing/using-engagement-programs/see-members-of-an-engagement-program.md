@@ -15,13 +15,13 @@ ht-degree: 0%
 
 您可以快速檢視參與計畫的成員。 方法如下。
 
-1. 在您的參與計畫中，按一下滑鼠右鍵並選取「 」 **檢視成員**.
+1. 在您的參與計畫中，按一下滑鼠右鍵並選取&#x200B;**檢視成員**。
 
    ![](assets/membersofengagement.jpg)
 
    >[!NOTE]
    >
-   >此  [已耗用內容](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) 欄值會在每次轉換後更新。
+   >[已用完的內容](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)資料行值會在每次轉換後更新。
 
 1. 您現在可以看到方案的所有成員。
 

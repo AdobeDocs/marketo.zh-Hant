@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->建立簡單的 [對話流程](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) 只包含 **會議預訂** 卡片。
+>建立僅包含&#x200B;**會議預訂**&#x200B;卡片的簡單[交談流程](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)。
 
 ## 引導式登陸頁面 {#guided-landing-pages}
 
-在引導式登陸頁面範本中內嵌下列程式碼： `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>`.
+將下列程式碼內嵌在您的引導式登陸頁面範本中： `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>`。
 
 在編輯器中開啟引導式登陸頁面範本，並選取「對話流程」預留位置。
 
 按一下「轉換流程」下拉式清單，並選取您在步驟1中建立的CF。
 
-一律保留傳遞型別 **內嵌**. 按一下 **插入**.
+一律將傳遞型別保留為&#x200B;**內嵌**。 按一下&#x200B;**插入**。
 
 您剛輸入的「對話流程」會在右側顯示為「要素」。
 

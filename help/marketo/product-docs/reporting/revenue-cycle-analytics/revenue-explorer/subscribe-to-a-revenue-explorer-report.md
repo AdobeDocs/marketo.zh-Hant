@@ -15,15 +15,15 @@ ht-degree: 0%
 
 若要接收來自Revenue Cycle Explorer報表的更新並共用這些更新，您可以訂閱現有報表的任何電子郵件地址。
 
-1. 前往 **Analytics** 並選取 **新增** > **新報表訂閱**.
+1. 移至&#x200B;**Analytics**&#x200B;並選取&#x200B;**新增** > **新增報表訂閱**。
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >若要訂閱您在方案中建立的基本報表，請參閱 [訂閱基本報表。](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >若要訂閱您在方案中建立的基本報表，請參閱[訂閱基本報表。](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. 的 **報表來源**，選取 **收入總管**.
+1. 針對&#x200B;**報表Source**，選取&#x200B;**收入總管**。
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->瞭解如何 [管理您的所有報表訂閱](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) 在一個位置。
+>瞭解如何在一個位置[管理您的所有報告訂閱](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)。

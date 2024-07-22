@@ -19,23 +19,23 @@ ht-degree: 0%
 
 ## 尋找特定收入階段的所有成員 {#find-all-members-of-a-specific-revenue-stage}
 
-1. 在智慧清單中，按一下 **[!UICONTROL 智慧清單]** 標籤，找到 **[!UICONTROL 收入階段]** 篩選，並將其拖曳至畫布中。
+1. 在智慧清單中，按一下&#x200B;**[!UICONTROL 智慧清單]**&#x200B;索引標籤，尋找&#x200B;**[!UICONTROL 收入階段]**&#x200B;篩選器，並將其拖曳至畫布中。
 
    ![](assets/draginrevenuefilter.png)
 
-1. 選取 **[!UICONTROL 收入階段]**.
+1. 選取&#x200B;**[!UICONTROL 收入階段]**。
 
    ![](assets/two.jpg)
 
-1. 前往 **[!UICONTROL 人員]** 標籤以檢視結果。
+1. 移至&#x200B;**[!UICONTROL 人員]**&#x200B;標籤以檢視結果。
 
    ![](assets/peopleresults.jpg)
 
 ## 在收入階段成員上執行流程步驟 {#run-a-flow-step-on-the-members-of-a-revenue-stage}
 
-現在您已經知道哪些人員處於收入階段，您可以直接向他們行銷。 除了選擇 **[!UICONTROL 收入階段]** 作為「智慧列示」篩選器，您也可以在流程中選擇它作為「if」篩選器。
+現在您已經知道哪些人員處於收入階段，您可以直接向他們行銷。 除了選擇&#x200B;**[!UICONTROL 收入階段]**&#x200B;作為智慧列示篩選器之外，您也可以在流程中選擇它作為「if」篩選器。
 
-1. 在所需的流程步驟中，按一下 **[!UICONTROL 新增選擇]** 並選取 **[!UICONTROL 收入階段]** 從下拉式清單。
+1. 在所需的流程步驟中，按一下&#x200B;**[!UICONTROL 新增選擇]**，然後從下拉式清單中選取&#x200B;**[!UICONTROL 收入階段]**。
 
    ![](assets/six.png)
 

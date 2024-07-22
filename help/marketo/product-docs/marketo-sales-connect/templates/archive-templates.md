@@ -6,7 +6,7 @@ exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 封存內容以清理您的銷售內容帳戶，而不會遺失任何範本資料。
 
-勾選範本旁的方塊，然後按一下 **封存**.
+核取範本旁的方塊，然後按一下&#x200B;**封存**。
 
 >[!NOTE]
 >

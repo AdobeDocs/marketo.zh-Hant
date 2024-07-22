@@ -16,9 +16,9 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [建立電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [使用智慧清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 或 [透過匯入清單來定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [使用智慧列示定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)或[透過匯入清單定義對象](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
->* [選擇現有電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 或 [為電子郵件計畫建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [選擇現有的電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)或[為電子郵件程式建立電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >
 >* [排程您的電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 現在您的方案已準備就緒，最後一個步驟是核准它。 方法如下：
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
    >
    >如果您未核准電子郵件方案，電子郵件將不會寄出。
 
-1. 在 **核准** 圖磚，然後按一下 **核准計畫**.
+1. 在&#x200B;**核准**&#x200B;方塊下，繼續並按一下&#x200B;**核准方案**。
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 如果您改變心意並決定不要將它外傳，您可以取消核准電子郵件程式。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. 在 **核准** 圖磚，只要按一下 **取消核准計畫**.
+1. 在&#x200B;**核准**&#x200B;圖磚下，只要按一下&#x200B;**取消核准方案**&#x200B;即可。
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 

@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 如何編輯RTF元素 {#how-to-edit-the-rich-text-element}
 
-1. 尋找您的電子郵件，選取並按一下 **編輯草稿**.
+1. 尋找您的電子郵件，選取並按一下&#x200B;**編輯草稿**。
 
    ![](assets/one-edited.png)
 
-1. 將會開啟電子郵件編輯器。 選取RTF文字，按一下齒輪圖示並選取 **編輯**.
+1. 將會開啟電子郵件編輯器。 選取RTF文字，按一下齒輪圖示並選取&#x200B;**編輯**。
 
    ![](assets/two.png)
 
@@ -29,13 +29,13 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 新增/編輯文字，然後按下 **儲存**.
+1. 新增/編輯您的文字，然後按&#x200B;**儲存**。
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >您也可以新增影像、代號、表格和其他元素。 另請參閱 [使用RTF編輯器](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >您也可以新增影像、代號、表格和其他元素。 請參閱[使用Rtf編輯器](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)。
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 按一下您要編輯的影像元素，然後按一下齒輪圖示並選取 **編輯**.
+1. 按一下您要編輯的影像元素，然後按一下齒輪圖示並選取&#x200B;**編輯**。
 
    ![](assets/six.png)
 
@@ -67,13 +67,13 @@ ht-degree: 0%
    >
    >如果您想使用Marketo代號，請使用此選項。 請記住，當您使用Token時，影像在編輯器中看起來會損毀，但會在預覽模式和傳送範例電子郵件中呈現。
 
-   若要使用外部URL，請先貼入影像的URL。 變更維度以符合您的需求，並新增一些替代文字（選擇性）。 然後按 **交換**.
+   若要使用外部URL，請先貼入影像的URL。 變更維度以符合您的需求，並新增一些替代文字（選擇性）。 然後按&#x200B;**交換**。
 
    ![](assets/eight.png)
 
    **我的電腦**
 
-   若要從電腦上傳影像，請按一下 **瀏覽**.
+   若要從您的電腦上傳影像，請按一下[瀏覽]。****
 
    ![](assets/nine.png)
 
@@ -81,21 +81,21 @@ ht-degree: 0%
 
    ![](assets/ten.png)
 
-   變更維度以符合您的需求，變更Alt文字（選擇性），然後按 **交換**.
+   變更維度以符合您的需求，變更Alt文字（選擇性），然後按&#x200B;**交換**。
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >如果您要取代影像，則必須檢查 **覆寫現有影像** 方塊，顯示在影像URL/名稱下方。
+   >如果您要取代影像，您必須勾選影像URL/名稱下方顯示的&#x200B;**覆寫現有影像**&#x200B;方塊。
 
-   **Design Studio**
+   **設計工作室**
 
    若要從Design Studio插入影像，只要找到它即可……
 
    ![](assets/twelve.png)
 
-   ...並插入它。 變更維度以符合您的需求，變更Alt文字（選擇性），然後按 **交換**.
+   ...並插入它。 變更維度以符合您的需求，變更Alt文字（選擇性），然後按&#x200B;**交換**。
 
    ![](assets/thirteen.png)
 
@@ -105,11 +105,11 @@ ht-degree: 0%
 
    ![](assets/fourteen.png)
 
-1. 按一下程式碼片段元素，然後按一下齒輪圖示並選取 **編輯**.
+1. 按一下「程式碼片段」元素，然後按齒輪圖示並選取&#x200B;**編輯**。
 
    ![](assets/fifteen.png)
 
-1. 尋找您的程式碼片段，選取後再按一下 **儲存**.
+1. 尋找您的程式碼片段，選取該程式碼片段，然後按一下[儲存]。****
 
    ![](assets/sixteen.png)
 
@@ -123,11 +123,11 @@ ht-degree: 0%
 
    ![](assets/nineteen.png)
 
-1. 按一下視訊元素，然後按一下齒輪圖示並選取 **編輯**.
+1. 按一下Video元素，然後按齒輪圖示並選取&#x200B;**編輯**。
 
    ![](assets/twenty.png)
 
-1. 從Vimeo或YouTube貼上視訊URL。 然後按一下移出URL方塊，以載入預覽。 變更維度以符合您的需求，新增Alt文字（選擇性），然後按 **插入**.
+1. 從Vimeo或YouTube貼上視訊URL。 然後按一下移出URL方塊，以載入預覽。 變更尺寸以符合您的需求，新增Alt文字（選擇性），然後按&#x200B;**插入**。
 
    ![](assets/twentyone.png)
 

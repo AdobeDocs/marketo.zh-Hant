@@ -6,7 +6,7 @@ exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/two-2.png)
 
-1. 選取日期範圍時，按一下 **套用**.
+1. 選取日期範圍時，按一下&#x200B;**套用**。
 
    ![](assets/three-2.png)
 
@@ -39,11 +39,11 @@ ht-degree: 0%
 
    ![](assets/5.png)
 
-1. 在圖表的右側，按一下匯出圖示並選取 **另存為快速圖表**.
+1. 在圖表的右側，按一下匯出圖示並選取&#x200B;**另存為快速圖表**。
 
    ![](assets/six.png)
 
-1. 為快速圖表命名，然後按一下 **儲存**.
+1. 為快速圖表命名，然後按一下&#x200B;**儲存**。
 
    ![](assets/seven.png)
 
@@ -65,15 +65,15 @@ ht-degree: 0%
 
 想要刪除您的其中一個快速圖表？ 操作很簡單！
 
-1. 按一下 **快速圖表** 圖示。
+1. 按一下&#x200B;**快速圖表**&#x200B;圖示。
 
    ![](assets/nine.png)
 
-1. 暫留在所需的圖表上，但請勿按一下圖表。 游標暫留時，將會出現X。 按一下 **X**.
+1. 暫留在所需的圖表上，但請勿按一下圖表。 游標暫留時，將會出現X。 按一下&#x200B;**X**。
 
    ![](assets/ten.png)
 
-1. 按一下 **確定**.
+1. 按一下&#x200B;**確定**。
 
    ![](assets/eleven.png)
 

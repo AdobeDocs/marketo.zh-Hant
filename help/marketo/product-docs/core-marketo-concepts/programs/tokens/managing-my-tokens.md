@@ -13,23 +13,23 @@ ht-degree: 2%
 
 # 管理我的Token {#managing-my-tokens}
 
-使用代號可簡化您在Marketo中的工作。 您可以使用 [我的Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} （自訂Token）的流量、Webhook、電子郵件和登入頁面中。 以下說明如何製作範本。
+使用代號可簡化您在Marketo中的工作。 您可以在流程步驟、Webhook、電子郵件和登入頁面中使用[我的權杖](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} （自訂權杖）。 以下說明如何製作範本。
 
 >[!TIP]
 >
->進一步瞭解中已有哪些代號 [Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+>深入瞭解[代號概觀](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}中已有哪些代號。
 
 ## 建立我的Token {#create-a-my-token}
 
-1. 前往 **[!UICONTROL 行銷活動]**.
+1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取方案或行銷活動資料夾。 按一下 **[!UICONTROL 我的Token]**.
+1. 選取方案或行銷活動資料夾。 按一下&#x200B;**[!UICONTROL 我的Token]**。
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
-1. 選取 **[!UICONTROL 我的Token]** 型別。 將其拖放到畫布上。
+1. 選取&#x200B;**[!UICONTROL 我的Token]**&#x200B;型別。 將其拖放到畫布上。
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
@@ -47,7 +47,7 @@ ht-degree: 2%
 
 ## 編輯我的Token {#edit-a-my-token}
 
-1. 按兩下 **[!UICONTROL 我的Token]** 並進行變更。 按一下&#x200B;**保存**。
+1. 連按兩下&#x200B;**[!UICONTROL 我的Token]**&#x200B;並進行變更。 按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
@@ -57,11 +57,11 @@ ht-degree: 2%
 >
 >刪除「我的Token」時，請確定您沒有在任何資產中參照該專案。 若刪除，參考到的任何位置都會顯示空白。
 
-1. 用滑鼠右鍵按一下 **[!UICONTROL 我的Token]**. 選取 **[!UICONTROL 刪除Token]**.
+1. 用滑鼠右鍵按一下&#x200B;**[!UICONTROL 我的Token]**。 選取&#x200B;**[!UICONTROL 刪除權杖]**。
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
-1. 按一下 **[!UICONTROL 刪除]**.
+1. 按一下&#x200B;**[!UICONTROL 刪除]**。
 
    ![](assets/image2014-9-18-12-3a7-3a31.png)
 

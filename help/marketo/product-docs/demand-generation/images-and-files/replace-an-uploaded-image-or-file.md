@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 取代上傳的影像或檔案 {#replace-an-uploaded-image-or-file}
 
-1. 前往 **[!UICONTROL Design Studio]**.
+1. 移至&#x200B;**[!UICONTROL 設計工作室]**。
 
    ![](assets/replace-an-uploaded-image-or-file-1.png)
 
-1. 按一下 **[!UICONTROL 影像和檔案]**.
+1. 按一下&#x200B;**[!UICONTROL 影像和檔案]**。
 
    ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-1. 選取您要取代的資產。 按一下 **[!UICONTROL 影像和檔案動作]** 下拉式清單並選取 **[!UICONTROL 取代影像或檔案]**.
+1. 選取您要取代的資產。 按一下&#x200B;**[!UICONTROL 影像和檔案動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 取代影像或檔案]**。
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >取代檔案型別必須與原始檔案型別相同（例如.jpg）
 
-1. 選取取代的影像/檔案後，按一下 **[!UICONTROL 取代]**.
+1. 選取取代的影像/檔案後，按一下&#x200B;**[!UICONTROL 取代]**。
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 

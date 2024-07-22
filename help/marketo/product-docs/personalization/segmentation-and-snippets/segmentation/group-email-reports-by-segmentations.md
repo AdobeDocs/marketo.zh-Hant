@@ -19,30 +19,30 @@ ht-degree: 0%
 >
 >[核准分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
-1. 前往 **行銷活動** (或 **Analytics**)區域。
+1. 移至&#x200B;**行銷活動** （或&#x200B;**Analytics**）區域。
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. 選取您的 **電子郵件效能** 報告。
+1. 選取您的&#x200B;**電子郵件效能**&#x200B;報告。
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. 按一下 **設定** 定位並拖移過去 **依區段分組**.
+1. 按一下「**設定**」標籤，並拖曳至「**依區段分組**」。
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. 選擇一或兩個區段，用於對報表進行分組。 按一下 **套用**.
+1. 選擇一或兩個區段，用於對報表進行分組。 按一下&#x200B;**套用**。
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. 完成了！ 按一下 **報告** 標籤。 如果使用單一區段，報表會針對每個區段顯示一列。
+1. 完成了！ 按一下「**報表**」標籤。 如果使用單一區段，報表會針對每個區段顯示一列。
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
-1. 如果使用兩個分段，則會分別顯示一列 _組合_ 的區段。
+1. 如果使用兩個區段，則會為區段的每個&#x200B;_組合_&#x200B;顯示一列。
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
 >[!MORELIKETHIS]
 >
->[篩選電子郵件報表中的資產](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+>[在電子郵件報告中篩選Assets](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以直接從方案排程檢視，輕鬆建立現有Smart Campaign的新執行。
 
-1. 前往 **[!UICONTROL 行銷活動]**.
+1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -33,6 +33,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您也可以從以下位置執行此操作： [方案焦點](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
+   >您也可以從[方案焦點](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)進行此動作。
 
 搖晃！ 同樣地，您已為該Smart Campaign排程再次執行。 如果該Smart Campaign包含傳送電子郵件步驟，您也會看到這些步驟！

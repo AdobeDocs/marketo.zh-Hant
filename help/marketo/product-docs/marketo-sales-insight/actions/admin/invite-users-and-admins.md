@@ -16,21 +16,21 @@ ht-degree: 0%
 
 ## 邀請使用者 {#invite-users}
 
-1. 按一下齒輪圖示並選取 **設定**.
+1. 按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. 在管理設定下，選取 **User Management**.
+1. 在[管理設定]下，選取&#x200B;**使用者管理**。
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. 按一下 **動作** 按鈕並選取 **邀請使用者**.
+1. 按一下&#x200B;**動作**&#x200B;按鈕，然後選取&#x200B;**邀請使用者**。
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >您也可以選取 **透過CSV邀請使用者** 如果已將它們全部列在試算表中。
+   >如果您已將使用者全部列在試算表中，也可以選取&#x200B;**透過CSV邀請使用者**。
 
 1. 輸入您要新增之個人的電子郵件地址。
 
@@ -42,13 +42,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[深入瞭解團隊](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md).
+   >[深入瞭解Teams](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)。
 
-1. 選取您要新增使用者的Marketo工作區。 如果您只有一個工作區，則會看到「預設」作為您的選項。 按一下 **邀請**.
+1. 選取您要新增使用者的Marketo工作區。 如果您只有一個工作區，則會看到「預設」作為您的選項。 按一下&#x200B;**邀請**。
 
    ![](assets/invite-users-and-admins-6.png)
 
-1. 按一下 **確定**.
+1. 按一下&#x200B;**確定**。
 
    ![](assets/invite-users-and-admins-7.png)
 
@@ -60,15 +60,15 @@ ht-degree: 0%
 
 請依照下列步驟，將現有使用者設為管理員。
 
-1. 按一下齒輪圖示並選取 **設定**.
+1. 按一下齒輪圖示並選取&#x200B;**設定**。
 
    ![](assets/invite-users-and-admins-8.png)
 
-1. 在管理設定下，選取 **User Management**.
+1. 在[管理設定]下，選取&#x200B;**使用者管理**。
 
    ![](assets/invite-users-and-admins-9.png)
 
-1. 找到您要設定為管理員的使用者，按一下「角色」下拉式清單，然後選取 **管理員**.
+1. 尋找您要成為管理員的使用者，按一下[角色]下拉式清單，然後選取&#x200B;**管理員**。
 
    ![](assets/invite-users-and-admins-10.png)
 

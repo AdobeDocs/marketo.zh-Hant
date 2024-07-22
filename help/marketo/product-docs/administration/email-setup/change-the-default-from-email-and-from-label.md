@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # 變更「來自電子郵件」和「來自標籤」的預設值 {#change-the-default-from-email-and-from-label}
 
-每位管理員使用者都能變更的預設值 **[!UICONTROL 來自電子郵件]** 和 **[!UICONTROL 從標籤]** 因此當他們建立新電子郵件時，就會使用這些預設值。
+每個管理員使用者都可以變更&#x200B;**[!UICONTROL 寄件者電子郵件]**&#x200B;和&#x200B;**[!UICONTROL 寄件者標籤]**&#x200B;的預設值，以便在建立新電子郵件時，使用這些預設值。
 
 >[!NOTE]
 >
 >**需要管理員許可權**
 
-1. 前往 **[!UICONTROL 管理員]** 區段。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區段。
 
    ![](assets/change-the-default-from-email-and-from-label-1.png)
 
-1. 按一下 **[!UICONTROL 電子郵件]**.
+1. 按一下&#x200B;**[!UICONTROL 電子郵件]**。
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. 輸入您想要的預設值 **[!UICONTROL 來自電子郵件]** 和 **[!UICONTROL 從標籤]** 然後按一下 **[!UICONTROL 儲存變更]**.
+1. 輸入您想要的&#x200B;**[!UICONTROL From Email]**&#x200B;和&#x200B;**[!UICONTROL From Label]**&#x200B;預設值，然後按一下&#x200B;**[!UICONTROL 儲存變更]**。
 
    ![](assets/change-the-default-from-email-and-from-label-3.png)
 

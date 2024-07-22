@@ -6,7 +6,7 @@ exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '199'
 ht-degree: 1%
 
 ---
@@ -22,19 +22,19 @@ ht-degree: 1%
 >
 >並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-1. 按一下 **管理員**.
+1. 按一下&#x200B;**管理員**。
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 按一下 **行動應用程式與裝置**.
+1. 按一下&#x200B;**行動應用程式與裝置**。
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-1. 按一下 **新增行動應用程式**.
+1. 按一下&#x200B;**新增行動應用程式**。
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. 輸入名稱。 在 **型別** 下拉式清單，選取您使用的環境型別 — 沙箱或生產。 按一下&#x200B;**保存**。
+1. 輸入名稱。 在&#x200B;**型別**&#x200B;下拉式清單中，選取您正在使用的環境型別：沙箱或生產。 按一下&#x200B;**保存**。
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
@@ -46,5 +46,5 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->* [設定行動應用程式Android推播存取](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
->* [設定行動應用程式iOS推送存取權](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
+>* [設定行動應用程式Android推播存取權](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+>* [設定行動應用程式iOS推播存取權](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)

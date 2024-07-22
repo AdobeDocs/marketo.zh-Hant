@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 設定機會影響分析器 {#configure-an-opportunity-influence-analyzer}
 
-一旦您 [建立機會影響分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)，您可以設定 [有趣的時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) 已包括在內。
+在您[建立Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)之後，您可以設定包含的[有趣時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)型別。
 
 >[!PREREQUISITES]
 >
 >[建立機會影響分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. 按一下 **Analytics**.
+1. 按一下「**分析**」。
 
    ![](assets/login-to-analytics.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   如果分析器圖表中有太多有趣的時刻，您可以透過取消選取 **設定** 面板，或是減少有趣的時刻型別。
+   如果分析器圖形中有太多有趣的時刻，您可以取消選取「**設定**」面板中的人員，或減少有趣的時刻型別，藉此減少這些時刻。
 
 1. 若要設定要包含哪些型別的有趣時刻，請前往「設定」索引標籤，並在「有趣時刻」篩選器中拖曳。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
-1. 按一下您想要的每個有趣時刻。 然後按一下 **儲存**.
+1. 按一下您想要的每個有趣時刻。 然後按一下[儲存]。****
 
 1. 按一下主要索引標籤，即可檢視只有選取之有趣時刻型別的商機歷史記錄。
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[使用機會影響分析器訴說行銷故事](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>[使用機會影響分析器講述行銷故事](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)

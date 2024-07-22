@@ -122,7 +122,7 @@ ht-degree: 2%
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. 選取 **電子郵件** 區段。
+1. 選取&#x200B;**電子郵件**&#x200B;區段。
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 

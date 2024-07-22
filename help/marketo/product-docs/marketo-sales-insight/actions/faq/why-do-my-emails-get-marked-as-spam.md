@@ -1,10 +1,10 @@
 ---
 description: 為什麼我的電子郵件會被標籤為垃圾訊息？ - Marketo檔案 — 產品檔案
 title: 為什麼我的電子郵件會被標籤為垃圾訊息？
-exl-id: 09fbfd78-fd06-4350-ad22-c0ff5e08394d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 * 請確定您有完整完成的電子郵件簽章，而且有實體地址。
 
-* 仔細閱讀並確保您遵守 [CAN-SPAM法律](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"}.
+* 閱讀並確保您遵守[CAN-SPAM法律](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"}。

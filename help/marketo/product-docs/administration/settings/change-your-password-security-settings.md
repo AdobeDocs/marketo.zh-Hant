@@ -6,7 +6,7 @@ exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 前往 **[!UICONTROL 管理員]** 區域。
+1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
    ![](assets/change-your-password-security-settings-1.png)
 
-1. 按一下 **[!UICONTROL 登入設定]**.
+1. 按一下&#x200B;**[!UICONTROL 登入設定]**。
 
    ![](assets/change-your-password-security-settings-2.png)
 
-1. 在 **[!UICONTROL 安全性設定]**，按一下 **[!UICONTROL 編輯]**.
+1. 在&#x200B;**[!UICONTROL 安全性設定]**&#x200B;下，按一下&#x200B;**[!UICONTROL 編輯]**。
 
    ![](assets/change-your-password-security-settings-3.png)
 
-1. 選取 **[!UICONTROL 範本]**. 如需進階選項，請按一下 **[!UICONTROL 進階]** 下拉式清單。
+1. 選取&#x200B;**[!UICONTROL 範本]**。 如需進階選項，請按一下&#x200B;**[!UICONTROL 進階]**&#x200B;下拉式清單。
 
    ![](assets/change-your-password-security-settings-4.png)
 
@@ -41,16 +41,16 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >在 **[!UICONTROL 自訂]**，勾選方塊以指出您想讓使用者在建立密碼時包含哪些特性。
+   >在&#x200B;**[!UICONTROL 自訂]**&#x200B;中，勾選方塊以指出使用者建立密碼時要包含的特性。
 
-1. 設定 **[!UICONTROL 有效期]**. 此功能會自動要求使用者在一定時間長度後重設密碼。 這也包括管理員使用者。
+1. 設定&#x200B;**[!UICONTROL 到期]**。 此功能會自動要求使用者在一定時間長度後重設密碼。 這也包括管理員使用者。
 
    ![](assets/change-your-password-security-settings-5.png)
 
    >[!CAUTION]
    >
-   >變更不會通知現有使用者。 設定 **[!UICONTROL 有效期]** 到30天前確保每個人都已更新到新設定，然後將此變更回您的原始步調。
+   >變更不會通知現有使用者。 先將&#x200B;**[!UICONTROL 有效期限]**&#x200B;設為30天，以確保所有人都已更新為新設定，然後將此變更回您的原始步調。
 
-1. 設定 **[!UICONTROL 非使用中工作階段逾時]**. 這會決定使用者在必須重新登入Marketo之前可以閒置多久。
+1. 設定&#x200B;**[!UICONTROL 非使用中工作階段逾時]**。 這會決定使用者在必須重新登入Marketo之前可以閒置多久。
 
    ![](assets/change-your-password-security-settings-6.png)

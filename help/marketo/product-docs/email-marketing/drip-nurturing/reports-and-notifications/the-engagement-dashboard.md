@@ -6,7 +6,7 @@ exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->參與分數包含您最後三個轉換的資料。 每次轉換後72小時會計算新的轉換。 進一步瞭解 [參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>參與分數包含您最後三個轉換的資料。 每次轉換後72小時會計算新的轉換。 深入瞭解[參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
 ## 檢視參與儀表板 {#view-the-engagement-dashboard}
 
-選取您的參與計畫並按一下 **檢視** > **儀表板**.
+選取您的參與方案，然後按一下&#x200B;**檢視** > **儀表板**。
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->檢視 [參與資料流績效報表](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) 以取得更詳細的統計資料。
+>如需詳細統計資料，請檢視[參與資料流效能報告](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)。
 
 ## 瞭解耗盡Widget {#understand-the-exhaustion-widget}
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您必須進入「設定」標籤，並確認已用完的內容通知為 **開啟** 以檢視上圖。 如果關閉，圖表看起來會不同。
+>您必須進入[設定]索引標籤，並確認已用完的內容通知為&#x200B;**開啟**，才能檢視上圖。 如果關閉，圖表看起來會不同。
 
 >[!CAUTION]
 >
@@ -67,8 +67,8 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-_最新_ 和 _Oldest_ 是根據上次核准的時間而定。
+_最新_&#x200B;和&#x200B;_最舊_&#x200B;是以上次核准時間為基礎。
 
 >[!NOTE]
 >
->進一步瞭解 [建立參與計畫](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) 深度剖析。
+>深入瞭解[建立參與計畫](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)深入探討。

@@ -19,39 +19,39 @@ ht-degree: 0%
 >
 >[建立程式分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. 按一下 **Analytics** 在 **我的Marketo**.
+1. 在&#x200B;**我的Marketo**&#x200B;中按一下&#x200B;**Analytics**。
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. 選取您的 **程式分析器**.
+1. 選取您的&#x200B;**程式分析器**。
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. 將檢視變更為 **依頻道**.
+1. 透過頻道&#x200B;**將檢視變更為**。
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
-1. 使用 **X軸** 下拉式清單，選擇水平軸的量度。 開始吧 **計畫成本**.
+1. 使用&#x200B;**X軸**&#x200B;下拉式功能表，選擇水平軸的量度。 讓我們從&#x200B;**程式成本**&#x200B;開始。
 
    ![](assets/image2014-9-17-18-3a37-3a7.png)
 
-1. 使用「Y軸」下拉式清單，選擇垂直軸的量度。 這裡，我們繼續 **(FT)管道已建立**.
+1. 使用「Y軸」下拉式清單，選擇垂直軸的量度。 這裡，我們將建立&#x200B;**(FT)管道**。
 
    ![](assets/image2014-9-17-18-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >您可在程式分析器中選擇的許多量度，都適用於首次接觸(FT)和多點接觸(MT)計算。 瞭解 [FT和MT歸因的差異](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >您可在程式分析器中選擇的許多量度，都適用於首次接觸(FT)和多點接觸(MT)計算。 瞭解FT和MT歸因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)之間的[差異很重要。
 
-1. 使用 **Y軸** 下拉式選單 **(MT)管道已建立**.
+1. 使用&#x200B;**Y軸**&#x200B;下拉式清單來選擇已建立的&#x200B;**(MT)管道**。
 
    ![](assets/image2014-9-17-18-3a39-3a5.png)
 
-   在此多點接觸歸因檢視中，我們發現網路研討會頻道對建立的管道影響較大，且成本低於貿易展和線上廣告頻道。
+   在此多點接觸歸因檢視中，我們發現網路研討會管道對建立的管道影響較大，且成本較Tradeshow和Online Advertising管道低。
 
    現在，再新增兩個維度吧！
 
-1. 使用 **泡泡大小** 下拉式清單以選取其他測量，例如 **新名稱**.
+1. 使用&#x200B;**泡泡大小**&#x200B;下拉式清單來選取其他量值，例如&#x200B;**新名稱**。
 
    ![](assets/image2014-9-17-18-3a39-3a36.png)
 
@@ -59,9 +59,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-18-3a39-3a55.png)
 
-   我們看到網路研討會頻道縮小，測量方式為 **新名稱**. 我們可以得出結論，雖然此組織擁有許多成員，但在創造新銷售機會方面不如貿易展覽頻道有效。
+   我們看到網路研討會頻道縮小，測量方式為&#x200B;**新名稱**。 我們可以得出結論，雖然此組織擁有許多成員，但在創造新銷售機會方面不如貿易展覽頻道有效。
 
-1. 最後，使用顏色下拉式清單來新增第四個維度。 讓我們選取 **(FT)贏得的收入**.
+1. 最後，使用顏色下拉式清單來新增第四個維度。 讓我們選取&#x200B;**（英尺）收入**。
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
    從顏色中，我們瞭解到，貿易展覽管道（最環保的泡泡）影響了透過首次接觸歸因衡量的最大收入。
 
-1. 現在，如果我們將顏色量度變更為 **(MT)贏得的收入**&#x200B;我們發現，目前最環保的線上廣告頻道，隨著時間的推移，其收入比網路研討會及商展頻道受到的影響更大。
+1. 現在，如果我們將色彩量度變更為&#x200B;**(MT)收入**，我們會發現線上Advertising頻道現在最環保，隨著時間推移，比網路研討會及商展頻道對收入的影響更大。
 
    ![](assets/image2014-9-17-18-3a41-3a40.png)
 
@@ -83,5 +83,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [使用方案分析器探索方案和管道詳細資訊](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [使用方案分析器比較方案效能](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+>* [透過方案分析器探索方案和管道詳細資料](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [與方案分析器比較方案效果](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)

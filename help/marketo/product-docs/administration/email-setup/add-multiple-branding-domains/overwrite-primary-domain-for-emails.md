@@ -15,11 +15,11 @@ ht-degree: 0%
 
 您可以根據電子郵件覆寫主要品牌網域。 這會變更傳送電子郵件時連結的品牌化方式。
 
-1. 前往 **[!UICONTROL 行銷活動]**.
+1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
 
    ![](assets/overwrite-primary-domain-for-emails-1.png)
 
-1. 選取電子郵件並按一下 **[!UICONTROL 編輯草稿]**.
+1. 選取電子郵件並按一下&#x200B;**[!UICONTROL 編輯草稿]**。
 
    ![](assets/overwrite-primary-domain-for-emails-2.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >並非所有使用者都有權根據每封電子郵件設定品牌化網域。 如果您沒有看見 [!UICONTROL 品牌化網域] 下拉式清單。
+   >並非所有使用者都有權根據每封電子郵件設定品牌化網域。 如果您看不到[!UICONTROL 品牌化網域]下拉式清單，請連絡您的系統管理員。

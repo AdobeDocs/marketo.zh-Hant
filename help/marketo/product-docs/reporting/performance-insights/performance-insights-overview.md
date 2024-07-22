@@ -6,7 +6,7 @@ exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Marketo效能深入分析可協助您最佳化通路組合，以發揮最大效�
 
 ## 貢獻 {#contribution}
 
-評估行銷 [對收入的貢獻](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md) 客戶贏取、影響、轉換，甚至安裝基礎成長等因素的影響。
+評估行銷對收入](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)的[貢獻，作為客戶贏取、影響力、轉換，甚至安裝基礎增長的函式。
 
 ![](assets/two.png)
 
@@ -37,19 +37,19 @@ Marketo效能深入分析可協助您最佳化通路組合，以發揮最大效�
 
 ## 趨勢 {#trend}
 
-揭露 [長期趨勢](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) 找出一致的成功策略。
+探索[長期趨勢](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md)以找出一致的成功策略。
 
 ![](assets/4.png)
 
 ## 設定 {#settings}
 
-在收入和管道儀表板中，按一下 [設定](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) 圖示來設定其他引數。
+在收入和管道儀表板中，按一下[設定](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md)圖示以設定其他引數。
 
 ![](assets/5.png)
 
 ## 匯出資料 {#export-data}
 
-您可以使用PowerPoint或Excel匯出資料和圖表。 您也可以將它們儲存為 [快速圖表](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
+您可以使用PowerPoint或Excel匯出資料和圖表。 您也可以將它們儲存為[快速圖表](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md)。
 
 ![](assets/6.png)
 

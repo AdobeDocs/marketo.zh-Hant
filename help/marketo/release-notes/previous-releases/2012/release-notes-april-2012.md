@@ -6,7 +6,7 @@ exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ## Marketo收入週期Analytics {#marketo-revenue-cycle-analytics}
 
-**收入週期Modeler中的增強閘道階段**
+收入週期Modeler中的&#x200B;**增強閘道階段**
 
 可讓使用者定義轉變規則的順序。
 

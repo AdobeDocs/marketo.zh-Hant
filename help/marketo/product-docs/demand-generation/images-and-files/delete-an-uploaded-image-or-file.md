@@ -19,25 +19,25 @@ ht-degree: 0%
 >
 >刪除後，影像/檔案會從Marketo Engage中完全移除，且無法復原。
 
-1. 前往 **[!UICONTROL Design Studio]**.
+1. 移至&#x200B;**[!UICONTROL 設計工作室]**。
 
    ![](assets/delete-an-uploaded-image-or-file-1.png)
 
-1. 選取 **[!UICONTROL 影像和檔案]**
+1. 選取&#x200B;**[!UICONTROL 影像和檔案]**
 
    ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. 尋找並選取所需的影像/檔案。 按一下 **[!UICONTROL 影像和檔案動作]** 下拉式清單並選取 **[!UICONTROL 刪除]**.
+1. 尋找並選取所需的影像/檔案。 按一下&#x200B;**[!UICONTROL 影像和檔案動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 刪除]**。
 
    ![](assets/delete-an-uploaded-image-or-file-3.png)
 
-1. 確認您已選取正確的檔案，然後按一下 **[!UICONTROL 刪除]**.
+1. 確認您已選取正確的檔案，然後按一下[刪除]。****
 
    ![](assets/delete-an-uploaded-image-or-file-4.png)
 
    >[!NOTE]
    >
-   >資產目前使用中時不會刪除。
+   >Assets不會刪除目前是否有人使用。
 
 >[!MORELIKETHIS]
 >

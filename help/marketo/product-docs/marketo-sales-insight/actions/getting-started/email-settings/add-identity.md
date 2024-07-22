@@ -22,19 +22,19 @@ ht-degree: 0%
 
    ![](assets/add-identity-1.png)
 
-1. 按一下 **電子郵件設定**.
+1. 按一下&#x200B;**電子郵件設定**。
 
    ![](assets/add-identity-2.png)
 
-1. 按一下 **新增身分**.
+1. 按一下&#x200B;**新增身分**。
 
    ![](assets/add-identity-3.png)
 
-1. 輸入資訊（電子郵件和名稱是必填欄位），然後按一下 **建立**.
+1. 輸入資訊（電子郵件和名稱是必填欄位），然後按一下&#x200B;**建立**。
 
    ![](assets/add-identity-4.png)
 
-1. 然後您會收到「請驗證電子郵件地址」電子郵件。 若要驗證，請按一下 **驗證電子郵件地址**.
+1. 然後您會收到「請驗證電子郵件地址」電子郵件。 若要驗證，請按一下[驗證電子郵件地址]。****
 
    ![](assets/add-identity-5.png)
 
@@ -46,4 +46,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[新增或更新您的電子郵件簽章](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md).
+>[新增或更新您的電子郵件簽章](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)。

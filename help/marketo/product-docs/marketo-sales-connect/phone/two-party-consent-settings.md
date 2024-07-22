@@ -6,7 +6,7 @@ exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,21 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->在執行以下步驟之前，您必須先 [啟用通話錄製](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
+>在執行以下步驟之前，您必須先[啟用通話錄製](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md)。
 
-1. 按一下「設定」圖示並選取 **設定**.
+1. 按一下「設定」圖示並選取&#x200B;**設定**。
 
    ![](assets/one-1.png)
 
-1. 在管理設定下，按一下 **一般**.
+1. 在[管理設定]下，按一下[一般] ****。
 
    ![](assets/two-1.png)
 
-1. 向下捲動至Sales Connect電話設定，然後按一下 **管理錄製通知**.
+1. 向下捲動至Sales Connect電話設定，然後按一下&#x200B;**管理錄製通知**。
 
    ![](assets/three-1.png)
 
-1. 按一下 **匯入錄製**.
+1. 按一下&#x200B;**匯入錄製**。
 
    ![](assets/four-1.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 上傳完成後，在檔案管理員中選取點（三個點），然後按一下 **選取作為同意通知**. 按一下 **確定** 完成時。
+1. 上傳完成後，請在檔案管理員中選取dota （三個點），然後按一下&#x200B;**選取作為同意通知**。 完成時，按一下&#x200B;**確定**。
 
    ![](assets/six.png)
 

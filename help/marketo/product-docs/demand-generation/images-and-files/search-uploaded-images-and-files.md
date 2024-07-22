@@ -15,15 +15,15 @@ ht-degree: 0%
 
 瞭解如何執行影像或檔案的搜尋。
 
-1. 前往 **[!UICONTROL Design Studio]**.
+1. 移至&#x200B;**[!UICONTROL 設計工作室]**。
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. 按一下 **[!UICONTROL 影像和檔案]** 以取得所有已上傳檔案的完整清單。
+1. 按一下&#x200B;**[!UICONTROL 影像和檔案]**，以取得所有已上傳檔案的完整清單。
 
    ![](assets/search-uploaded-images-and-files-2.png)
 
-1. 在「搜尋」方塊中，輸入檔案開頭為的字詞，然後點選 **輸入**.
+1. 在[搜尋]方塊中，輸入檔案開頭為的字詞，然後按一下&#x200B;**Enter**。
 
    ![](assets/search-uploaded-images-and-files-3.png)
 

@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 6%
+ht-degree: 5%
 
 ---
 
@@ -19,15 +19,15 @@ Marketo Engage有一個系統智慧清單，會透過比對電子郵件地址來
 >
 >[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. 前往 **[!UICONTROL 行銷活動]** 區域。
+1. 前往&#x200B;**[!UICONTROL 行銷活動]**&#x200B;區域。
 
 ![](assets/ma-2.png)
 
-1. 選取您的智慧清單，按一下 **[!UICONTROL 智慧清單]** 標籤。
+1. 選取您的智慧列示，按一下&#x200B;**[!UICONTROL 智慧列示]**&#x200B;標籤。
 
    ![](assets/two-4.png)
 
-1. 尋找並拖曳 **[!UICONTROL 重複欄位]** 在畫布上篩選。
+1. 尋找&#x200B;**[!UICONTROL 重複欄位]**&#x200B;篩選器並拖曳到畫布上。
 
    ![](assets/three-4.png)
 
@@ -40,8 +40,8 @@ Marketo Engage有一個系統智慧清單，會透過比對電子郵件地址來
 
    >[!NOTE]
    >
-   >除「電子郵件地址」外，所有欄位都區分大小寫。 所以在「全名」欄位中使用「john doe」會 _非_ 傳回John Doe的結果。
+   >除「電子郵件地址」外，所有欄位都區分大小寫。 所以在[全名]欄位中使用[john doe]將&#x200B;_不會_&#x200B;傳回John Doe的結果。
 
    ![](assets/four-2.png)
 
-   完成! 執行「智慧列示」，在先前選取的欄位中尋找具有相同值的人員。
+   完成！ 執行「智慧列示」，在先前選取的欄位中尋找具有相同值的人員。

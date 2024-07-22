@@ -15,19 +15,19 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[建立代碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>[建立程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 您可以將權杖、影像、檔案或RTF文字新增至程式碼片段。
 
 >[!NOTE]
 >
->您無法內嵌任何 [Marketo電子郵件語法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) 在程式碼片段中，可以 **非** 在電子郵件中工作。 程式碼片段應該只包含內文內容(HTML+文字)。
+>您無法在代碼片段中內嵌任何[Marketo電子郵件語法](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)；它&#x200B;**無法**&#x200B;在電子郵件中運作。 程式碼片段應該只包含內文內容(HTML+文字)。
 
-1. 前往 **Design Studio**.
+1. 移至&#x200B;**設計工作室**。
 
    ![](assets/designstudio-2.png)
 
-1. 選取您的 **程式碼片段** 並按一下 **編輯草稿**.
+1. 選取您的&#x200B;**程式碼片段**&#x200B;並按一下&#x200B;**編輯草稿**。
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
@@ -35,25 +35,25 @@ ht-degree: 1%
 
 ## 新增標記 {#add-token}
 
-1. 拖放 **Token** 元素。
+1. 拖放&#x200B;**Token**&#x200B;元素。
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
-1. 輸入 **Token** 並按一下 **插入**.
+1. 輸入&#x200B;**Token**&#x200B;並按一下&#x200B;**插入**。
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
 ## 新增影像/檔案 {#add-image-file}
 
-1. 拖放 **影像/檔案** 元素。
+1. 拖放&#x200B;**影像/檔案**&#x200B;專案。
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
    >[!NOTE]
    >
-   >您可以將自己的影像或檔案新增到Marketo。 進一步瞭解 [影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   >您可以將自己的影像或檔案新增到Marketo。 深入瞭解[影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)。
 
-1. 選取 **影像** ，然後按一下 **插入**.
+1. 選取要使用的&#x200B;**影像**，然後按一下&#x200B;**插入**。
 
    ![](assets/image2014-9-16-9-3a35-3a33.png)
 
@@ -71,11 +71,11 @@ ht-degree: 1%
    >
    >使用格式化工具來自訂文字。
 
-1. 針對電子郵件，按一下 **文字版本** 標籤。
+1. 對於電子郵件，請按一下&#x200B;**文字版本**&#x200B;索引標籤。
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
-1. 按一下 **從HTML複製**.
+1. 按一下&#x200B;**從HTML**&#x200B;複製。
 
    ![](assets/image2014-9-16-9-3a35-3a59.png)
 

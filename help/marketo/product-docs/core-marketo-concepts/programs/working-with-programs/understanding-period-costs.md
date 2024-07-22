@@ -6,7 +6,7 @@ exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ ht-degree: 0%
 >
 >如果您花$1000僱一名插圖師，以製作將於7月推出的電子書，則電子書計畫的期間成本在7月為$1000。
 >
->如果您每月花費$200在 [!DNL Google Adwords] - [!DNL Google Adwords] 方案的期間成本為$200 _每月_.
+>如果您每月在[!DNL Google Adwords]上花費$200 - [!DNL Google Adwords]方案的期間成本為每月&#x200B;_200 $3}。_
 
 >[!NOTE]
 >
->[瞭解計畫](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
+>[瞭解程式](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[瞭解計畫會員資格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[瞭解計畫成員資格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## 期間成本的計算方式 {#how-period-costs-are-calculated}
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/graph1.png)
 
-   ...之前和之後幾個月新增的聯絡人將 *僅限* 數到3月。
+   ...之前和之後幾個月新增的連絡人將&#x200B;*僅*&#x200B;計入三月。
 
    ![](assets/graph2.png)
 
@@ -61,9 +61,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >摘要 — 沒有定義期間成本的月份將「回溯」至定義的最後一個月份。 如果沒有前期成本，則月份將「前移」到已定義的下一個月份。 如果尚未定義期間成本 _任何_ 月數，RCE中的報告將無法用於此方案。
+   >摘要 — 沒有定義期間成本的月份將「回溯」至定義的最後一個月份。 如果沒有前期成本，則月份將「前移」到已定義的下一個月份。 如果期間成本尚未定義為&#x200B;_任何_&#x200B;個月，則程式將無法使用RCE報告。
 
    >[!MORELIKETHIS]
    >
-   >* [在程式中使用期間成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
-   >* [依期間成本篩選方案報表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
+   >* [在方案中使用期間成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   >* [依期間成本篩選方案報告](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)

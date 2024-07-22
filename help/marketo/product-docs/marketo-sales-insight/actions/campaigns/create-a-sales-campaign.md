@@ -5,7 +5,7 @@ exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -17,28 +17,28 @@ ht-degree: 0%
 您可以使用銷售促銷活動來：
 
 * **組織**：在一個地方簡化所有外展活動，以有效執行。
-* **縮放**：排程您的所有外聯工作，以便您可以擴大工作規模、將手動工作降至最低，並根據需求進行個人化。
-* **測量**：追蹤您所有電子郵件和工作在單一位置的成功，同時自動將其登入Salesforce。 瞭解哪些因素能引起共鳴並導致結果，您就能持續測試並改善結果。
+* **縮放**：排程您所有的外聯工作，以便您可以擴大工作規模、減少手動工作，並視需要個人化。
+* **Measure**：在自動登入Salesforce時，在一個位置追蹤您所有電子郵件和工作的成功。 瞭解哪些因素能引起共鳴並導致結果，您就能持續測試並改善結果。
 
 那麼，如何設定促銷活動？
 
-1. 按一下 **行銷活動** 標籤。
+1. 按一下&#x200B;**行銷活動**&#x200B;標籤。
 
    ![](assets/create-a-sales-campaign-1.png)
 
-1. 選取類別並按一下 **建立新的行銷活動** 按鈕。
+1. 選取類別並按一下&#x200B;**建立新行銷活動**&#x200B;按鈕。
 
    ![](assets/create-a-sales-campaign-2.png)
 
    >[!NOTE]
    >
-   >按一下「 」以建立新類別 **+** 旁邊 **類別**.
+   >按一下&#x200B;**「類別」**&#x200B;旁的&#x200B;**+**，以建立新類別。
 
-1. 將會選取您選擇的類別。 如果您改變心意，請按一下下拉式清單並選取其他選項。 完成後，按一下 **繼續**.
+1. 將會選取您選擇的類別。 如果您改變心意，請按一下下拉式清單並選取其他選項。 完成後，按一下&#x200B;**繼續**。
 
    ![](assets/create-a-sales-campaign-3.png)
 
-1. 按一下 **新增步驟**.
+1. 按一下&#x200B;**新增步驟**。
 
    ![](assets/create-a-sales-campaign-4.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. 當您在 [使用完您的電子郵件](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}，按一下 **新增**.
+1. 當您[完成電子郵件](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}時，請按一下&#x200B;**新增**。
 
    ![](assets/create-a-sales-campaign-6.png)
 
@@ -56,9 +56,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >「天數」不是動作之間的天數，而是順序中的天數。 例如，如果您的促銷活動將持續7天，輸入「3」表示動作將在第3天（共7天）結束， **非** 3天後。
+   >「天數」不是動作之間的天數，而是順序中的天數。 例如，如果您的促銷活動將持續7天，輸入&#39;3&#39;表示動作將在7的第3天結束，**不會** 3天後結束。
 
-1. 請務必造訪，以自訂排程和回複選項，例如略過週末（這棒極了） **設定標籤** 用於您的促銷活動。
+1. 請務必造訪您促銷活動的&#x200B;**設定標籤**&#x200B;來自訂排程和回複選項，例如略過週末（非常棒）。
 
    ![](assets/create-a-sales-campaign-8.png)
 
@@ -66,5 +66,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [銷售行銷活動步驟型別和提醒工作](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->* [Sales Campaign設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>* [促銷活動步驟型別和提醒工作](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* [促銷活動設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

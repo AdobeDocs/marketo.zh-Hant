@@ -15,8 +15,8 @@ ht-degree: 0%
 
 您必須先讓開發人員設定並初始化適用於Android和iOS平台的行動應用程式SDK，才能建立應用程式內訊息或推播通知。
 
-* [Android說明](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
-* [iOS說明](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
+* 適用於Android的[指示](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* 適用於iOS的[指示](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## 傳送SDK程式碼給開發人員 {#send-sdk-code-to-a-developer-1}
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 以下是操作方式。
 
-1. 按一下 **管理員**.
+1. 按一下&#x200B;**管理員**。
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 選取 **行動應用程式**.
+1. 選取&#x200B;**行動應用程式**。
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -38,11 +38,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. 按一下 **行動應用程式動作** 並選取 **傳送給開發人員**.
+1. 按一下&#x200B;**行動應用程式動作**&#x200B;並選取&#x200B;**傳送給開發人員**。
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. 輸入電子郵件地址並按一下 **傳送**.
+1. 輸入電子郵件地址並按一下&#x200B;**傳送**。
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 

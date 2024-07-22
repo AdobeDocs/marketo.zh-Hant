@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 行銷行事曆中的方案焦點 {#program-focus-in-marketing-calendar}
 
-[建立和編輯專案](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) 直接來自行銷行事曆。
+[直接從行銷行事曆建立及編輯專案](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)。
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
@@ -30,21 +30,21 @@ ht-degree: 0%
 * 取得活動型別
 * 取得分頁Token
 
-完整詳細資料將於發佈後提供： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+發行後，完整詳細資料將可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)取得。
 
 ## MSI — 傳送Microsoft Dynamics的Marketo電子郵件 {#msi-send-marketo-email-for-microsoft-dynamics}
 
-[傳送及追蹤銷售電子郵件](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) 至Microsoft Dynamics的銷售機會與聯絡人。
+從Microsoft Dynamics [傳送及追蹤銷售電子郵件](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)給潛在客戶及連絡人。
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
 ## MSI — 新增至Microsoft Dynamics的Marketo行銷活動 {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[將銷售機會和聯絡人新增至Marketo智慧行銷活動](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) 直接從Microsoft Dynamics中存取。 行銷人員可選擇哪些是Marketo促銷活動可供銷售人員使用。
+[直接從Microsoft Dynamics中將銷售機會和連絡人新增至Marketo智慧行銷活動](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)。 行銷人員可選擇哪些是Marketo促銷活動可供銷售人員使用。
 
 ## Microsoft Dynamics Sync的自訂實體支援 {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[使用自訂物件資料](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) 從Microsoft Dynamics中篩選和觸發智慧清單、智慧行銷活動、方案……
+[使用來自Microsoft Dynamics的自訂物件資料](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)，在智慧列示、智慧行銷活動、方案中篩選和觸發……
 
 ## Microsoft Dynamics Sync的股東支援 {#shareholder-support-for-microsoft-dynamics-sync}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ## RTP — 新的行銷活動行動範本 {#rtp-new-mobile-templates-for-campaigns}
 
-快速輕鬆 [建立行動裝置行銷活動](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) 新範本。
+使用這些新範本快速輕鬆地[建立行動裝置行銷活動](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)。
 
 ## RTP — 使用者內容API {#rtp-user-context-api}
 
@@ -70,4 +70,4 @@ ht-degree: 0%
 * 感興趣的產品
 * 他們所看到的RTP行銷活動
 
-造訪 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) 以取得完整詳細資訊。
+如需完整詳細資訊，請造訪[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。

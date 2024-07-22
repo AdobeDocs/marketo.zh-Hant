@@ -7,7 +7,7 @@ feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '363'
-ht-degree: 43%
+ht-degree: 44%
 
 ---
 
@@ -90,8 +90,8 @@ ht-degree: 43%
 | 員工 | 員工人數 |
 | 帳戶電話 | 主要電話 |
 | SIC 代碼 | SIC 代碼 |
-| 帳戶網站 | 網站 |
-| 帳戶型別 | SFDC 類型 |
+| 帳戶網站 | 地點 |
+| 帳戶類型 | SFDC 類型 |
 | 網站 | 網站 |
 
 ## Marketo中的Salesforce相關系統欄位（唯讀） {#salesforce-related-system-fields-in-marketo-read-only}

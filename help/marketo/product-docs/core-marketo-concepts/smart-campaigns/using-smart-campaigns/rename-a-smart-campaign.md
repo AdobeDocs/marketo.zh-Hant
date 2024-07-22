@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以變更現有Smart Campaign的名稱。 方法如下。
 
-1. 前往 **[!UICONTROL 行銷活動]**.
+1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
 
    ![](assets/rename-a-smart-campaign-1.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >方案中的Smart Campaign名稱一律會轉譯為「ProgramName.CampaignName」格式。
 
-1. 輸入新的智慧行銷活動名稱，然後按一下 **[!UICONTROL 儲存]**.
+1. 輸入新的Smart Campaign名稱，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/rename-a-smart-campaign-3.png)
 

@@ -39,7 +39,7 @@ Marketo在自動背景同步期間會尋找此欄位，並根據此邏輯決定�
 
 >[!CAUTION]
 >
->告訴Marketo跳過記錄的唯一方法是將欄位值明確設定為 **否**. 即使欄位值為空，Marketo仍會透過同步記錄。
+>告知Marketo跳過記錄的唯一方法是明確將欄位值設為&#x200B;**否**。 即使欄位值為空，Marketo仍會透過同步記錄。
 
 >[!PREREQUISITES]
 >
@@ -47,45 +47,45 @@ Marketo在自動背景同步期間會尋找此欄位，並根據此邏輯決定�
 
 ## 建立SyncToMkto欄位 {#create-synctomkto-field}
 
-1. 登入您的Dynamics CRM。 按一下 **設定**，然後按一下 **自訂**.
+1. 登入您的Dynamics CRM。 按一下&#x200B;**設定**，然後按一下&#x200B;**自訂**。
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
-1. 按一下 **自訂系統**.
+1. 按一下&#x200B;**自訂系統**。
 
    ![](assets/image2015-8-10-21-3a42-3a15.png)
 
-1. 按一下 ![](assets/image2015-8-10-21-3a44-3a23.png) 旁邊 **實體**.
+1. 按一下&#x200B;**實體**&#x200B;旁的![](assets/image2015-8-10-21-3a44-3a23.png)。
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. 按一下 ![](assets/image2015-8-10-21-3a44-3a23.png) 旁邊 **銷售機會** 並選取 **欄位**. 然後按一下 **新增**.
+1. 按一下&#x200B;**銷售機會**&#x200B;旁的![](assets/image2015-8-10-21-3a44-3a23.png)並選取&#x200B;**欄位**。 然後按一下&#x200B;**新增**。
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
-1. 輸入 **SyncToMkto** 在 **顯示名稱** 欄位並選取 **兩個選項** 作為 **資料型別**. 然後按一下 **儲存並關閉**.
+1. 在&#x200B;**顯示名稱**&#x200B;欄位中輸入&#x200B;**SyncToMkto**，並選取&#x200B;**兩個選項**&#x200B;做為&#x200B;**資料型別**。 然後按一下&#x200B;**儲存並關閉**。
 
    ![](assets/image2015-9-8-10-3a25-3a33.png)
 
    >[!NOTE]
    >
-   >為此欄位選擇任何顯示名稱，但「名稱」欄位必須完全符合 **new_synctomkto**. 您必須使用 **新** 做為預設首碼。 如果您已變更預設值，請移至此處 [重設自訂欄位名稱的預設前置詞](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}. 您可以在建立新欄位後將其變更回。
+   >選擇此欄位的任何顯示名稱，但[名稱]欄位必須剛好是&#x200B;**new_synctomkto**。 您必須使用&#x200B;**new**&#x200B;做為預設首碼。 如果您已變更預設值，請前往這裡[重設自訂欄位名稱的預設首碼](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}。 您可以在建立新欄位後將其變更回。
 
    >[!NOTE]
    >
-   >如果您設定了非同步工作流程，記錄會取得您在欄位中設定的預設SyncToMkto值，並在工作流程完成執行時幾秒後取得正確值。 若預設值設為「是」，這些記錄將會在Marketo中建立，然後過時。 使用 **否** 作為預設值以避免此情況。
+   >如果您設定了非同步工作流程，記錄會取得您在欄位中設定的預設SyncToMkto值，並在工作流程完成執行時幾秒後取得正確值。 若預設值設為「是」，這些記錄將會在Marketo中建立，然後過時。 使用&#x200B;**否**&#x200B;作為預設值以避免此情況。
 
-1. 重複此程式並建立 **SyncToMkto** 任何其他要限制同步處理的實體欄位，例如連絡人、帳戶、商機和自訂實體。
+1. 重複此程式，並為您想要限制同步的任何其他實體（例如連絡人、帳戶、機會和自訂實體）建立&#x200B;**SyncToMkto**&#x200B;欄位。
 
 ## 在Marketo中選取篩選器 {#select-the-filter-in-marketo}
 
 即使您已完成初始同步，請前往並選取要與Marketo同步的欄位。
 
-1. 前往「管理員」並選取「 」 **[!UICONTROL Microsoft Dynamics]**.
+1. 移至[管理]並選取&#x200B;**[!UICONTROL Microsoft Dynamics]**。
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 按一下 **[!UICONTROL 編輯]** 欄位同步處理詳細資訊。
+1. 按一下欄位同步處理詳細資料上的&#x200B;**[!UICONTROL 編輯]**。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -105,33 +105,33 @@ Marketo在自動背景同步期間會尋找此欄位，並根據此邏輯決定�
 >
 >Dynamics工作流程僅適用於未來建立的新記錄，不適用於歷史資料。 使用批次更新來移動現有記錄。
 
-1. 前往您的Dynamics CRM。 按一下 **設定**，然後 **程式**.
+1. 前往您的Dynamics CRM。 按一下&#x200B;**設定**，然後按一下&#x200B;**處理序**。
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
-1. 按一下 **新增**.
+1. 按一下&#x200B;**新增**。
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
-1. 輸入工作流程的名稱，然後選取 **工作流程** 作為類別和 **銷售機會** 作為實體。 然後按一下 **確定**.
+1. 輸入工作流程的名稱，並選取&#x200B;**工作流程**&#x200B;作為類別，選取&#x200B;**銷售機會**&#x200B;作為實體。 然後按一下&#x200B;**確定**。
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 
-1. 建立規則以將true或false值指派給 **SyncToMkto** 根據您組織偏好設定的欄位。 按一下 **儲存並關閉**.
+1. 根據您組織的偏好設定建立規則以將true或false值指派給&#x200B;**SyncToMkto**&#x200B;欄位。 按一下&#x200B;**儲存並關閉**。
 
    ![](assets/setsynctomkto-fix.png)
 
    >[!NOTE]
    >
-   >按一下後定義預設動作 **新增步驟** 以新增檢查條件。 這會設定您不想要同步處理的記錄 **否**. 否則，它們將會同步。
+   >按一下&#x200B;**新增步驟**&#x200B;以新增檢查條件後，定義預設動作。 這會設定您不想要同步處理至&#x200B;**否**&#x200B;的記錄。 否則，它們將會同步。
 
-1. 選取工作流程並按一下 **啟動**.
+1. 選取工作流程並按一下&#x200B;**啟動**。
 
    ![](assets/image2015-8-11-8-3a57-3a29.png)
 
    >[!TIP]
    >
-   >另請參閱 [電子郵件地址的自訂同步篩選規則](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"} 設定規則，只同步處理擁有電子郵件地址之人員的記錄。
+   >請參閱電子郵件地址的[自訂同步篩選規則](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"}，以設定僅同步具有電子郵件地址之人員的記錄的規則。
 
 ## 同步篩選器詳細資訊 {#sync-filter-details}
 
@@ -139,11 +139,11 @@ Marketo在自動背景同步期間會尋找此欄位，並根據此邏輯決定�
 
 * 啟動同步作業
 
-  當 **SyncToMkto** 值變更自 **否** 至 **是**，Dynamics會立即通知Marketo開始同步處理此記錄。 如果記錄已經存在，Marketo會更新它。 否則，Marketo會建立記錄。
+  當&#x200B;**SyncToMkto**&#x200B;值從&#x200B;**No**&#x200B;變更為&#x200B;**Yes**&#x200B;時，Dynamics會立即通知Marketo開始同步處理此記錄。 如果記錄已經存在，Marketo會更新它。 否則，Marketo會建立記錄。
 
   >[!TIP]
   >
-  >A `Create [StartSync]` 發生此情況時，會將作業新增至Marketo記錄檔。
+  >發生此情況時，`Create [StartSync]`作業會新增至Marketo記錄檔。
 
 * 停止同步作業
 

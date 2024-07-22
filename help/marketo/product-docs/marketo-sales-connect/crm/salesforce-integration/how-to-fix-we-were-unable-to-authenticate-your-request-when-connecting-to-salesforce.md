@@ -18,16 +18,16 @@ ht-degree: 0%
 ## 在使用者許可權中啟用API {#enable-api-in-user-permissions}
 
 1. 讓Salesforce管理員登入SFDC。
-1. 選取 **設定**.
-1. 選取 **管理使用者**.
-1. 選取 **設定檔**.
-1. 尋找ToutApp使用者所在的設定檔，然後按一下 **編輯**.
-1. 向下捲動至 **管理許可權** 並確定 **API已啟用** 已勾選。
+1. 選取&#x200B;**安裝程式**。
+1. 選取&#x200B;**管理使用者**。
+1. 選取&#x200B;**設定檔**。
+1. 尋找ToutApp使用者所在的設定檔，然後按一下&#x200B;**編輯**。
+1. 向下捲動至&#x200B;**系統管理許可權**，並確認已勾選&#x200B;**已啟用API**。
 
 ## 檢查Salesforce是否封鎖Sales Connect連線 {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
 
 1. 請Salesforce管理員登入SFDC。
-1. 選取 **設定**.
-1. 選取 **管理應用程式**.
-1. 選取 **連線應用程式OAuth使用狀況**.
+1. 選取&#x200B;**安裝程式**。
+1. 選取&#x200B;**管理應用程式**。
+1. 選取&#x200B;**連線應用程式OAuth使用方式**。
 1. 請確定Sales Connect旁邊顯示「封鎖」。 如果您看到「解除封鎖」，請按一下按鈕以解除封鎖Sales Connect對Salesforce的存取。

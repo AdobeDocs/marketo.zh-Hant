@@ -6,7 +6,7 @@ exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Marketo獲勝。 很少發生這類資料衝突。
 
 ## 我可以使用Marketo在Salesforce中建立銷售機會嗎？ {#can-i-create-a-lead-in-salesforce-using-marketo}
 
-是，請使用 [將人員同步至SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} 流量動作。 如果銷售機會不存在，這會在Salesforce中建立銷售機會。
+是，使用[將人員同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}流程動作。 如果銷售機會不存在，這會在Salesforce中建立銷售機會。
 
 ## 我可以手動強制同步處理Marketo中的人員至Salesforce中的銷售機會嗎？ {#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
-是，請使用 [將人員同步至SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} 流程動作，而且會即時同步。
+是，使用[將人員同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}流程動作，它將會即時同步。
 
 ## 每個標準欄位都會同步至Marketo嗎？ {#does-every-single-standard-field-sync-to-marketo}
 

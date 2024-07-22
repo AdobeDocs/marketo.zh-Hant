@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->進一步瞭解 [傳送選項](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
+>瞭解關於您的[傳送選項](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md)的詳細資料。
 
 ## 呼叫 {#call}
 

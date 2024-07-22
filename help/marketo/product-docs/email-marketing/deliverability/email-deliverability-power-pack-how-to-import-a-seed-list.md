@@ -17,23 +17,23 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->本文適用於目前擁有使用中Everest訂閱的使用者。 如果您使用Inbox Tracker by Bird （前身為MessageBird），請參閱教學課程 [可在此處找到](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
+>本文適用於目前擁有使用中Everest訂閱的使用者。 如果您使用Inbox Tracker by Bird （先前稱為MessageBird），您可以在此找到教學課程[](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}。
 
 ## 匯入種子清單 {#import-a-seed-list}
 
-1. 在「我的Marketo」中，選取 **傳遞工具**.
+1. 在「我的Marketo」中，選取&#x200B;**傳遞工具**。
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Everest應用程式將會開啟。 在左側導覽中，按一下 **In-Flight** 並選取 **收件匣位置**.
+1. Everest應用程式將會開啟。 在左側導覽中，按一下&#x200B;**In-Flight**，然後選取&#x200B;**收件匣位置**。
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. 按一下 **管理種子清單** 標籤。
+1. 按一下&#x200B;**管理種子清單**&#x200B;標籤。
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. 按一下「動作」下拉式清單，然後選取 **每行下載一個**.
+1. 按一下「動作」下拉式清單，然後選取&#x200B;**每行下載一個**。
 
    ![](assets/email-deliverability-power-pack-4.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
    >
    >如果您希望Everest為您最佳化清單，請使用「種子清單最佳化程式」（位於頁面頂端）。
 
-1. 匯出後，清單會在瀏覽器的下載資料夾中顯示為.txt檔案。 擷取它，以及 [匯入](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 以靜態清單的形式放入您的Marketo執行個體。
+1. 匯出後，清單會在瀏覽器的下載資料夾中顯示為.txt檔案。 擷取它，然後[將它匯入](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)您的Marketo執行個體作為靜態清單。
 
    ![](assets/email-deliverability-power-pack-5.png)
 

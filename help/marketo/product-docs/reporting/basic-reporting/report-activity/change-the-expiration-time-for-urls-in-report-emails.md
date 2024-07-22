@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 報表訂閱電子郵件中的連結會在三天後過期。 若要變更這些連結的到期時間，請依照下列步驟進行。
 
-1. 在 **管理員**，按一下 **登入設定**.
+1. 在&#x200B;**管理員**&#x200B;底下，按一下&#x200B;**登入設定**。
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. 按一下 **編輯URL** 按鈕。
+1. 按一下&#x200B;**編輯URL過期**&#x200B;按鈕。
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. 從下拉式功能表中選取連結到期前的天數。 按一下 **儲存**.
+1. 從下拉式功能表中選取連結到期前的天數。 按一下&#x200B;**保存**。
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 

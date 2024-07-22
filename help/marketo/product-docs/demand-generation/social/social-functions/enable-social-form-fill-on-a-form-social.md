@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-1. 前往 **行銷活動**.
+1. 移至&#x200B;**行銷活動**。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 選擇您的表單並按一下 **編輯表單**.
+1. 選取您的表單並按一下&#x200B;**編輯表單**。
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. 在「表單設定」下，按一下 **設定**.
+1. 在[表單設定]下，按一下[**設定**]。
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -37,13 +37,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >檢視內容 [Marketo將擷取的資料](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) 如果有人使用社交按鈕。
+   >如果人員使用社交按鈕，請檢視Marketo將擷取[資料](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)。
 
-1. 按一下 **完成**.
+1. 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. 按一下 **核准並關閉**.
+1. 按一下&#x200B;**核准並關閉**。
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
