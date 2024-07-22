@@ -100,7 +100,7 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 離線檢視內容分析和建議資料。
 
-## 電子郵件編輯器2.0](https://developer.adobe.com/marketo-apis/api/asset/)的[API支援 {#api-support-for-email-editor}
+## [電子郵件編輯器2.0的API支援](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
 
 先前僅與v1.0電子郵件和範本相容的既有資產API，現在可供v2.0電子郵件資產使用。
 
