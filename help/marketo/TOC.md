@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
 workflow-type: tm+mt
-source-wordcount: '9339'
+source-wordcount: '9344'
 ht-degree: 0%
 
 ---
@@ -727,10 +727,13 @@ ht-degree: 0%
             + [新增網路研討會團隊](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [設計互動式網路研討會](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
             + [範本](product-docs/demand-generation/events/interactive-webinars/templates.md)
+            + [自訂](product-docs/demand-generation/events/interactive-webinars/customization.md)
+            + [房間管理](product-docs/demand-generation/events/interactive-webinars/room-management.md)
             + [推廣互動式網路研討會](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
             + [修改或刪除互動式網路研討會](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [隨選網路研討會](product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md)
             + [事件工作流程](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
+            + [參與儀表板](product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md)
       + facebook {#facebook}
          + [在Facebook中新增銷售機會至自訂對象](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [在Facebook中建立自訂對象](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
