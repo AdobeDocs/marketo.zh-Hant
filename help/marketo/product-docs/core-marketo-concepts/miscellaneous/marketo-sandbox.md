@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Marketo沙箱 — Marketo檔案 — 產品檔案
 title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: e6a5b6c84ce12c0bb4d1df013bcd4471d71ce2c2
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,6 @@ Marketo Engage沙箱是在生產環境中實作之前用於測試目的的附加
 
 ## 沙箱須知 {#things-to-know-about-sandboxes}
 
-* 當Adobe帳戶團隊設定好您的沙箱並傳送邀請給您後，您必須使用其他電子郵件地址來登入Marketo生產執行個體。
 * 如果您想要新增使用者，程式與[在生產環境中新增使用者](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users)相同。 同樣地，如果他們已經擁有Marketo登入資訊，則必須使用不同的電子郵件地址。
 * 您的Marketo沙箱一開始是空的，但具有與生產執行個體相同的可用功能。
 * 如果您在沙箱中建立計畫並想要將其移至生產環境，您可以執行[計畫匯入](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)。
