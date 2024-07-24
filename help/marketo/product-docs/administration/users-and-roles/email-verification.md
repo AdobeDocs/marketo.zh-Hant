@@ -3,9 +3,9 @@ description: 電子郵件驗證 — Marketo檔案 — 產品檔案
 title: 電子郵件驗證
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Marketo Engage正在繼續推出電子郵件驗證，以準備將客戶移轉至
 
 >[!IMPORTANT]
 >
->上述的例外情況是&#x200B;_在僅限SSO的訂閱_&#x200B;中，管理員會收到新的使用者邀請，但非管理員使用者則不會。 不是管理員的使用者仍需完成電子郵件驗證程式，以確保移轉其記錄。 使用者可以前往&#x200B;**管理員** > **我的帳戶** > **帳戶設定**，然後按一下&#x200B;**重新傳送驗證**，傳送電子郵件驗證連結給自己。
+>上述的例外情況是&#x200B;_在僅限SSO的訂閱_&#x200B;中，管理員會收到新的使用者邀請，但非管理員使用者則不會。 不是管理員的使用者仍需完成電子郵件驗證程式，以確保移轉其記錄。 使用者可以按一下[設定檔]圖示並移至&#x200B;**我的帳戶** > **帳戶設定**，然後按一下&#x200B;**重新傳送驗證**，以傳送電子郵件驗證連結給自己。
 
 ![](assets/email-verification-1.png)
 

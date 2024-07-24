@@ -4,9 +4,9 @@ short-description: 剛開始使用 Adobe Marketo Engage？了解深入使用前�
 title: 設定步驟
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '1708'
+source-wordcount: '1705'
 ht-degree: 1%
 
 ---
@@ -187,17 +187,17 @@ ht-degree: 1%
 
 `b.`對於DKIM，請為每個要設定的網域建立DNS資源記錄。 我們將簽署的每個網域的主機記錄和TXT值如下：
 
-**`[DKIMDomain1]`**：主機記錄為&#x200B;**`[HostRecord1]`**，且TXT值為&#x200B;**[TXTValue1]**。
+**`[DKIMDomain1]`**：主機記錄為&#x200B;**`[HostRecord1]`**，且TXT值為&#x200B;**`[TXTValue1]`**。
 
 **`[DKIMDomain2]`**：主機記錄為&#x200B;**`[HostRecord2]`**，且TXT值為&#x200B;**`[TXTValue2]`**。
 
 `[`依照此處[的指示](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)複製您已設定的每個&#x200B;**DKIMDomain**&#x200B;的&#x200B;**HostRecord**&#x200B;和&#x200B;**TXTValue**。 在您的IT人員完成此步驟之後，別忘了驗證&#x200B;**管理員>電子郵件> DKIM**&#x200B;中的每個網域。`]`
 
-`5)`我們需要確保我們的FROM網域&#x200B;**[FromDomain1]**、**[FromDomain2]**&#x200B;等有有效的MX記錄。 您能確認嗎？ 如果沒有，請設定對應至我們的企業網域MX記錄。 這將確保我們能夠處理Marketo郵件的回覆/自動回應者。
+`5)`我們需要確保我們的FROM網域&#x200B;**`[FromDomain1]`**、**`[FromDomain2]`**&#x200B;等有有效的MX記錄。 您能確認嗎？ 如果沒有，請設定對應至我們的企業網域MX記錄。 這將確保我們能夠處理Marketo郵件的回覆/自動回應者。
 
 完成上述步驟後請通知我，以便我使用Marketo完成設定程式。
 
-感謝您！ 你是最棒的！
+感謝支持！你是最棒的！
 
 祝順心，
 
@@ -239,7 +239,7 @@ IT完成工作後，請按照下列步驟新增登入頁面和電子郵件CNAME�
 
 在「網域」欄位中，輸入您的電子郵件追蹤網域。 其形式應為：
 
-`[EmailTrackingCNAME].[CompanyDomain].com`。 按一下&#x200B;**[!UICONTROL 保存]**。
+`[EmailTrackingCNAME].[CompanyDomain].com`。按一下&#x200B;**[!UICONTROL 保存]**。
 
 ![](assets/setup-steps-13.png)
 
