@@ -1,6 +1,6 @@
 ---
-description: Marketo Engage字彙表 — Marketo檔案 — 產品檔案
-short-description: 瞭解Marketo Engage辭彙及其定義，以協助您快速上手。
+description: Marketo Engage 術語表 - Marketo 文件 - 產品文件
+short-description: 了解 Marketo Engage 術語及其定義，幫助您快速上手。
 title: Marketo Engage字彙表
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed

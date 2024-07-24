@@ -1,13 +1,13 @@
 ---
-description: 設定步驟 — Marketo檔案 — 產品檔案
-short-description: 剛開始使用Adobe Marketo Engage？ 瞭解在開始潛入前需要完成哪些步驟。
+description: 設定步驟 - Marketo 文件 - 產品文件
+short-description: 剛開始使用 Adobe Marketo Engage？了解深入使用前需要完成哪些步驟。
 title: 設定步驟
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
 source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
 source-wordcount: '1708'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

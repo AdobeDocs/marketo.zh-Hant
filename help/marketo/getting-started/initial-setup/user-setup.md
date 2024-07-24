@@ -1,13 +1,13 @@
 ---
-description: 開始使用新的Marketo Engage執行個體前，您需要完成一些基礎步驟才能繼續使用。 這些步驟包括使用者帳戶設定、支援管理員設定，以及訂閱進行中的系統更新。
-short-description: 完成初始設定步驟後，瞭解如何建立基礎元素以確保順暢的持續使用。
+description: 在深入使用新的 Marketo Engage 執行個體之前，您需要完成一些基本步驟才能持續使用。這些步驟包括使用者帳戶設定、支援管理員設定以及訂閱持續的系統更新。
+short-description: 完成初步設定步驟後，了解如何建立基本元素以確保順利持續使用。
 title: 使用者設定檢查清單
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
 source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
 source-wordcount: '811'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
