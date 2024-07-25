@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
 workflow-type: tm+mt
-source-wordcount: '1759'
+source-wordcount: '1742'
 ht-degree: 0%
 
 ---
@@ -29,15 +29,15 @@ ht-degree: 0%
 
 1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
 
-   熒幕擷圖
+   ![](assets/engagement-dashboard-1.png)
 
 1. 選取所需的事件。
 
-   熒幕擷圖
+   ![](assets/engagement-dashboard-2.png)
 
 1. 在總覽中，按一下&#x200B;**[!UICONTROL 檢視參與儀表板]**。
 
-   熒幕擷圖
+   ![](assets/engagement-dashboard-3.png)
 
    >[!NOTE]
    >
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 此介面可針對即時和隨選研討會提供事件效能的整合檢視。 從左側面板中，選取「事件摘要」以檢視整體量度。
 
-熒幕擷圖
+![](assets/engagement-dashboard-4.png)
 
 <table><tbody>
   <tr>
@@ -107,13 +107,13 @@ ht-degree: 0%
 
 從左側面板中，選取&#x200B;**[!UICONTROL 參與]**&#x200B;以檢視即時工作階段的效能。 **[!UICONTROL 按一下參與摘要(PDF)]**&#x200B;以下載即時工作階段的效能摘要。 「概述」提供不同區段中的資料。
 
-熒幕擷圖
+![](assets/engagement-dashboard-5.png)
 
 **關鍵量度**
 
 檢視即時工作階段的註冊數、出席者數和參與數。
 
-熒幕擷圖
+![](assets/engagement-dashboard-6.png)
 
 <table><tbody>
   <tr>
@@ -144,7 +144,7 @@ ht-degree: 0%
 
 從參與圖表瞭解即時工作階段期間一段時間的平均參與。 主機可監控參與程度如何波動，讓他們識別高互動或低互動的關鍵時刻。 檢視不同版面中參與參與參與者的平均參與分數有多少。
 
-熒幕擷圖
+![](assets/engagement-dashboard-7.png)
 
 將滑鼠指標暫留在圖表上，即可檢視下列資訊：
 
@@ -161,7 +161,7 @@ ht-degree: 0%
 
 您可以從不同的Pod檢視出席者的互動。 它提供已回答的投票、問題集、與聊天互動、按一下至少一個連結，以及下載至少一個檔案等資訊。
 
-熒幕擷圖
+![](assets/engagement-dashboard-8.png)
 
 選取&#x200B;**[!UICONTROL 移至互動]**&#x200B;以檢視工作階段期間來自輪詢、QnA量度和與會者回應的回應。 從下節的「互動」和下載互動報表，檢視參與者在各個Pod的參與情形。
 
@@ -171,7 +171,7 @@ ht-degree: 0%
 
 從左側面板中選取&#x200B;**[!UICONTROL 互動]**，以檢視出席者在Pod間的參與情形。
 
-熒幕擷圖
+![](assets/engagement-dashboard-9.png)
 
 從功能表列選取&#x200B;**[!UICONTROL 輪詢]**&#x200B;索引標籤，以檢視新增至輪詢的問題和回應。 此標籤會顯示下列資訊：
 
@@ -182,7 +182,7 @@ ht-degree: 0%
 
 從功能表列選取&#x200B;**[!UICONTROL 其他互動]**&#x200B;標籤，以檢視其他Pod中的參與並下載其報表。
 
-熒幕擷圖
+![](assets/engagement-dashboard-10.png)
 
 從下拉式清單中選取&#x200B;**[!UICONTROL 下載互動報告]**，即可下載不同Pod的報告。 從這裡下載QnA報表、連結和檔案報表，以及回應報表，以獲得更好的追蹤。
 
@@ -192,7 +192,7 @@ ht-degree: 0%
 
 檢視「問答」Pod的下列屬性。
 
-熒幕擷圖
+![](assets/engagement-dashboard-11.png)
 
 * 問題總數。
 * 未回答的問題數。
@@ -204,7 +204,7 @@ ht-degree: 0%
 
 從這裡檢視出席者的反應，例如同意、不同意、鼓掌以及在會議期間大笑。
 
-熒幕擷圖
+![](assets/engagement-dashboard-12.png)
 
 從反應圖形中，檢視下列詳細資訊：
 
@@ -218,7 +218,7 @@ ht-degree: 0%
 
 檢視在工作階段期間新增到網頁連結Pod的連結，以及共用連結的點選次數。 網路連結Pod可讓您從網路研討會以外的來源新增連結，以產生參與。
 
-熒幕擷圖
+![](assets/engagement-dashboard-13.png)
 
 從圖表中，檢視下列詳細資訊：
 
@@ -231,7 +231,7 @@ ht-degree: 0%
 
 檢視工作階段期間新增到檔案Pod的檔案以及不重複下載的次數。 檔案Pod可讓您新增檔案並提供資源以產生參與。
 
-熒幕擷圖
+![](assets/engagement-dashboard-14.png)
 
 從圖表中，檢視下列詳細資訊：
 
@@ -243,7 +243,7 @@ ht-degree: 0%
 
 從左側面板中，選取&#x200B;**[!UICONTROL 隨選活動]**&#x200B;以檢視錄製的摘要。 您也可以下載隨選活動的報表。
 
-熒幕擷圖
+![](assets/engagement-dashboard-15.png)
 
 在隨選活動中，檢視下列量度：
 
@@ -258,7 +258,7 @@ ht-degree: 0%
 
 從左側面板中選取&#x200B;**[!UICONTROL 參與者活動]**，以檢視有關每位出席者參與層級的整合資訊。 檢視此參與如何從「參與者」參與層次分類至層次。 按一下&#x200B;**[!UICONTROL 使用者活動報告(CSV)]**&#x200B;以下載報告以進行更好的追蹤。
 
-熒幕擷圖
+![](assets/engagement-dashboard-16.png)
 
 從表格中檢視下列詳細資訊：
 
@@ -277,7 +277,7 @@ ht-degree: 0%
 
 1. 選取&#x200B;**[!UICONTROL 全部下載(.zip)]**，一次下載所有活動和pod的報表。
 
-熒幕擷圖
+   ![](assets/engagement-dashboard-17.png)
 
 >[!NOTE]
 >
