@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
+source-git-commit: 9d3fab2c007922aa4f250cc16f84d23edfe81c6a
 workflow-type: tm+mt
-source-wordcount: '1742'
+source-wordcount: '1743'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/engagement-dashboard-1.png)
 
-1. 選取所需的事件。
+1. 選取所需的已完成事件。
 
    ![](assets/engagement-dashboard-2.png)
 
