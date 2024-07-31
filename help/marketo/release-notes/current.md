@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: cb69844d8e9e25cae19bc2d4a91c28376f58eadb
+source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
 workflow-type: tm+mt
-source-wordcount: '465'
-ht-degree: 1%
+source-wordcount: '523'
+ht-degree: 3%
 
 ---
 
@@ -75,7 +75,17 @@ ht-degree: 1%
 
 ## 公告 {#announcements}
 
-* **新的開發人員檔案網站**：為了持續改善Marketo Engage的使用者體驗，我們將在2024年7月將所有開發人員檔案移轉至Adobe Experience League和Adobe Developer網站。 [深入瞭解](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
+* **新的開發人員檔案網站**：為了持續改善Marketo Engage的使用者體驗，我們將在2024年7月將所有開發人員檔案移轉至Adobe Experience League和Adobe Developer網站。 [了解更多](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
+
+* **棄用社交功能**： 2024年7月31日星期三，Marketo Engage將開始棄用產品中的下列社交功能：
+
+   * 投票
+   * 社交按鈕
+   * 推薦人特賣優惠
+   * 影片分享
+   * 抽獎
+
+使用者將無法再在Marketo Engage中建立、複製或嵌入任何社交功能。 現有的社交資產將持續運作至2025年1月31日。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **查詢引數棄用中的存取權杖**：未來版本將移除在Marketo EngageREST API呼叫的查詢引數中使用存取權杖的驗證支援（特定日期待定）。 現有的整合應該移轉至此處](https://developers.marketo.com/rest-api/authentication/){target="_blank"}說明的Authorization標頭[的使用。 新開發應僅使用Authorization標頭進行Marketo Engage驗證。
 
