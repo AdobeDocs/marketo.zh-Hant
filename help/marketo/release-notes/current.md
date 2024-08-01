@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '521'
 ht-degree: 3%
 
 ---
@@ -33,8 +33,8 @@ ht-degree: 3%
   </tr>
      <tr> 
    <td><strong>互動式網路研討會的參與儀表板</strong>：取得網路研討會效能檢視彙總，以及網路研討會期間每位與會者參與情況的完整檢視，以便您可以透過Marketo Engage協調工具決定要鎖定哪些潛在客戶。</td> 
-    <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+    <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">參與儀表板</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ ht-degree: 3%
   </tr>
      <tr> 
    <td><strong>互動式網路研討會的會議室管理</strong>：存取已建立的個別會議室（並視需要進行修改），以及存取內容與錄製（並視需要將其清除，以最佳化儲存空間）。</td> 
-    <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+    <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">房間管理</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -55,8 +55,8 @@ ht-degree: 3%
   </tr>
      <tr> 
    <td><strong>互動式網路研討會自訂</strong>：透過使用公共會議室介面、中間熒幕（例如與會者入門熒幕背景）以及自訂視訊背景，提供統一的組織核准品牌體驗，讓網路研討會策略更容易與品牌策略保持一致。</td> 
-    <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+    <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">互動式網路研討會自訂</a></td>
   </tr>
   <tr> 
    <td> </td> 

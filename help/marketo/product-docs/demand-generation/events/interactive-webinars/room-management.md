@@ -1,11 +1,9 @@
 ---
 description: 房間管理 — Marketo檔案 — 產品檔案
 title: 房間管理
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 0%

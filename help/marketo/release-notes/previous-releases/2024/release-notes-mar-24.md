@@ -1,12 +1,12 @@
 ---
 description: 發行說明 — 2024年3月 — Marketo檔案 — 產品檔案
-title: 發行說明 — 2024年3月
+title: 發行說明 - 2024 年 3 月
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 0%
+source-wordcount: '350'
+ht-degree: 3%
 
 ---
 
@@ -53,8 +53,8 @@ ht-degree: 0%
     <tr> 
    <td><strong>API活動中繼資料</strong>： 
    使用者代理程式、平台和裝置等中繼資料現在包含在網路和電子郵件活動中，有助於透過Marketo REST API提供這些活動的一致深入分析。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td>不適用</td>
   </tr>
  </tbody> 
 </table>
@@ -64,4 +64,4 @@ ht-degree: 0%
 
 * **取得方案成員API修正**：最近已進行變更，以修正[取得方案成員](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Program-Members/operation/getProgramMembersUsingGET){target="_blank"}端點的行為。 先前，當使用`updatedAt`篩選型別來指定日期範圍時，在該範圍內更新的方案會籍記錄可能會不包含在回應中。 此外，指定日期範圍以外更新的方案會籍記錄也可能會不正確地包含在回應中。 這兩個問題都已解決。
 
-* **帳戶分析瀏覽器外掛程式淘汰**：Adobe將於2024年4月8日從Chrome網站商店移除Target帳戶管理[帳戶分析瀏覽器外掛程式](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"}。 現有使用者：您可以繼續使用外掛程式，直到您將您的Marketo Engage執行個體移轉至Adobe身分和Admin Console為止。 此變更&#x200B;**不會影響Marketo Engage或Chrome與Outlook電子郵件外掛程式中，與Sales Insight搭配使用的任何其他TAM功能/資料**。 [深入瞭解](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}。
+* **帳戶分析瀏覽器外掛程式淘汰**：Adobe將於2024年4月8日從Chrome網站商店移除Target帳戶管理[帳戶分析瀏覽器外掛程式](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"}。 現有使用者：您可以繼續使用外掛程式，直到您將您的Marketo Engage執行個體移轉至Adobe身分和Admin Console為止。 此變更&#x200B;**不會影響Marketo Engage或Chrome與Outlook電子郵件外掛程式中，與Sales Insight搭配使用的任何其他TAM功能/資料**。 [了解更多](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}。
