@@ -3,7 +3,7 @@ description: 銷售分析動作管理員設定指南 — Marketo檔案 — 產�
 title: Sales Insight Actions管理員設定指南
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
 workflow-type: tm+mt
 source-wordcount: '655'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions是網頁式應用程式，透過[Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}與Salesforce使用者介面整合。 有時稱為「Marketo銷售」，或簡稱為「動作」。
+>Marketo Sales Insight Actions是網頁式應用程式，透過[Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}專門與Salesforce CRM整合。 有時稱為「Marketo銷售」，或簡稱為「動作」。
 
 >[!PREREQUISITES]
 >
@@ -90,7 +90,7 @@ ht-degree: 0%
 
    ![](assets/msi-actions-admin-guide-5.png)
 
-1. 按一下&#x200B;**確定**。
+1. 按一下&#x200B;**「確定」**。
 
    ![](assets/msi-actions-admin-guide-6.png)
 

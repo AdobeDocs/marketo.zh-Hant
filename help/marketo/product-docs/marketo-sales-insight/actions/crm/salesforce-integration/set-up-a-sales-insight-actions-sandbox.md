@@ -2,7 +2,7 @@
 description: 設定Sales Insight Actions沙箱 — Marketo檔案 — 產品檔案
 title: 設定Sales Insight動作沙箱
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions是網頁式應用程式，透過[Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}與Salesforce使用者介面整合。 有時稱為「Marketo銷售」，或簡稱為「動作」。
+>Marketo Sales Insight Actions是網頁式應用程式，透過[Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}專門與Salesforce CRM整合。 有時稱為「Marketo銷售」，或簡稱為「動作」。
 
 如果您有Marketo沙箱，您可以啟用動作執行個體來搭配沙箱用於測試目的。
 

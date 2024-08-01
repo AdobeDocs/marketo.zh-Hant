@@ -3,10 +3,10 @@ description: 產品使用量限制 — Marketo檔案 — 產品檔案
 title: 產品使用量限制
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 12%
+ht-degree: 14%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 12%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions是網頁式應用程式，透過[Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}與Salesforce使用者介面整合。 有時稱為「Marketo銷售」，或簡稱為「動作」。
+>Marketo Sales Insight Actions是網頁式應用程式，透過[Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}專門與Salesforce CRM整合。 有時稱為「Marketo銷售」，或簡稱為「動作」。
 
 <table>
   <th>功能</th>
@@ -79,7 +79,7 @@ ht-degree: 12%
  </tr>
   <td>呼叫</td>
   <td>每個使用者/每月（跨執行個體共用）</td>
-  <td>50分鐘</td>
+  <td>50 分鐘</td>
  </tr>
  <tr>
   <td>通話錄製</td>
