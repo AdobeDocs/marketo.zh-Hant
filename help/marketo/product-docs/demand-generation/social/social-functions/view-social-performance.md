@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359763
-description: 檢視 Social效能 - Marketo 文件 - 產品文件
-title: 檢視 Social效能
+description: 檢視社交效能 — Marketo檔案 — 產品檔案
+title: 檢視社交績效
 exl-id: 82f3754f-4aa8-4d07-ac02-22d138d2a021
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '512'
 ht-degree: 0%
 
 ---
 
-# 檢視 Social效能 {#view-social-performance}
+# 檢視社交績效 {#view-social-performance}
 
-查看社交應用程式產生的社交活動。 「社交儀表板」可讓您深入瞭解社交應用程式產生的各種社互動動，並讓您追蹤社交應用程式的績效。
+檢視您的社交應用程式產生的社交活動。 「社交儀表板」可讓您深入瞭解社交應用程式產生的各種社互動動，並讓您追蹤社交應用程式的績效。
 
 >[!IMPORTANT]
 >
->自2024年7月31日起，我們開始淘汰此功能的程式。 您將無法建立新資產。 現有資產將持續運作至2025年1月31日。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>自2024年7月31日起，我們開始淘汰此功能的程式。 無法再建立新資產。 現有資產將持續運作至2025年1月31日。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
@@ -35,15 +35,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-17-3a10-3a22.png)
 
-1. 選擇時間間隔。
+1. 選取時間間隔。
 
    ![](assets/image2014-9-23-17-3a10-3a35.png)
 
    >[!NOTE]
    >
-   >如果選擇 **「過去 24 小時**」，則會在整點頂部每小時計算量度。 對於所有其他間隔，指標每天在前一天的午夜運行。
+   >如果您選取「**最近24小時**」，度量會每小時計算，在小時最上方計算。 對於所有其他間隔，量度會每天執行，即前一天午夜。
 
-1. **使用Social漏斗**&#x200B;来檢視促銷活動的社交進度和成效。
+1. 使用&#x200B;**社交漏斗**&#x200B;檢閱您促銷活動的社交進展和成效。
 
    * **促銷活動造訪次數**：潛在客戶載入包含您的社交應用程式之頁面的次數。
    * **互動**：潛在客戶與您的社交應用程式互動的次數，例如註冊[轉介選件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)、在[投票](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)中投票、[共用視訊](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)等。
@@ -57,11 +57,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-17-3a11-3a16.png)
 
-1. **使用「受眾**」面板查看潛在客戶如何幫助您宣傳。
+1. 使用&#x200B;**對象**&#x200B;面板來檢閱潛在客戶如何協助您說出來。
 
-   * **個人資料**&#x200B;總數：從您的社交應用登錄社交網路的潛在客戶總數。
-   * **影響者**：從應用共用中產生至少一次結果點擊的潛在客戶數量。
-   * **Social範圍**：所有潛在客戶聯繫的總和。 對於分享至社交網路的潛在客戶，這是他們從您的社交應用程式分享時朋友的數量。 對於電子郵件共用，這是收件者從您的應用程式產生之電子郵件的收件者人數。
+   * **設定檔總數**：從您的社交應用程式登入社交網路的潛在客戶總數。
+   * **影響者**：從應用程式共用產生至少一個結果點按的潛在客戶數目。
+   * **社交觸及**：所有潛在客戶連線的總和。 對於分享至社交網路的潛在客戶，這是他們從您的社交應用程式分享時朋友的數量。 對於電子郵件共用，這是收件者從您的應用程式產生之電子郵件的收件者人數。
    * **社交曝光次數**：您的社交應用程式出現在潛在客戶連線摘要中的總次數。
 
    ![](assets/image2014-9-23-17-3a11-3a26.png)
@@ -76,4 +76,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->您還可以使用觸發器和篩選器來查看誰在分享您的內容並與您的社交應用互動，以便您可以對這些互動採取行動。 請參閱[使用社交活動的觸發器和篩選器](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)。
+>您也可以使用觸發器和篩選器來檢視誰正在分享您的內容以及與您的社交應用程式互動，以便您在這些互動上採取行動。 請參閱[使用社交活動的觸發器和篩選器](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)。
