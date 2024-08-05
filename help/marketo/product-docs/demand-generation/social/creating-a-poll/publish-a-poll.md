@@ -4,16 +4,20 @@ description: Publish投票 — Marketo檔案 — 產品檔案
 title: Publish意見調查
 exl-id: 5c603b84-5cd7-4604-9301-e6f277af8dc0
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 0%
+source-wordcount: '157'
+ht-degree: 1%
 
 ---
 
 # Publish意見調查 {#publish-a-poll}
 
-[建立投票](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)之後，您就可以將其發佈在Marketo登陸頁面、Facebook和網站上。
+[建立投票](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)之後，您就可以將其發佈到Marketo登陸頁面、Facebook和您的網站上。
+
+>[!IMPORTANT]
+>
+>自2024年7月31日起，我們開始淘汰此功能的程式。 您將無法建立新資產。 現有資產將持續運作至2025年1月31日。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. 導覽至您的登陸頁面，並開啟它進行編輯。
 
@@ -31,7 +35,7 @@ ht-degree: 0%
 >
 >您需要核准您的投票，才能在這裡使用。
 
-恭喜！核准登入頁面，且您的投票已上線。 您也可以[將登入頁面發佈至Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)，或[在您的網站上進行投票](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)。
+恭喜！核准登陸頁面，且您的投票已上線。 您也可以[將登入頁面發佈至Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)，或[在您的網站上進行投票](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)。
 
 >[!TIP]
 >

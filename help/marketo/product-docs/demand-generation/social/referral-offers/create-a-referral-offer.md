@@ -1,74 +1,78 @@
 ---
 unique-page-id: 2359781
-description: 建立轉介優惠方案 — Marketo檔案 — 產品檔案
+description: 建立反向連結選件 - Marketo 檔 - 產品檔
 title: 建立反向連結選件
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 0%
+source-wordcount: '299'
+ht-degree: 1%
 
 ---
 
 # 建立反向連結選件 {#create-a-referral-offer}
 
-推薦優惠方案會鼓勵人們推薦他們的朋友。 建立成功轉介的目標和回報。 您可以將它放置在登陸頁面、您的網站，甚至Facebook上。
+推薦優惠讓人們獎勵推薦他們的朋友。 建立成功推薦的目標和獎勵。 您可以將其放在登錄頁面，您的網站和平均Facebook上。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日，我們開始棄用此功能。 您將無法創建新資產。 現有資產將持續工作到 2025 年 1 月 31 日。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
->並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+>並非所有Marketo Engage用戶都購買了此功能。 請洽詢 Adobe Systems 客戶團隊 （您的帳戶管理員） 以取得詳細資訊。
 
-1. 在您的程式內，選取&#x200B;**新增** > **新增本機資產**。
+1. 在您的方案內，選擇 **新** > **新本地資產**」。
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. 在&#x200B;**本機資產庫**&#x200B;中，按一下&#x200B;**轉介選件**。
+1. 在「本機資產庫」**中，按兩下「**&#x200B;引薦選件&#x200B;**」。**
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
-1. 為您的轉介優惠方案命名。
+1. 為轉介 優惠方案命名。
 
    ![](assets/image2014-9-19-11-3a3-3a40.png)
 
    >[!TIP]
    >
-   >若要節省時間，您可以使用&#x200B;**從**&#x200B;複製選項，從現有的轉介選件複製所有設定。
+   >為了節省時間，您可以使用“ **從原地複製** ”選項從現有轉介 優惠方案複製所有設置。
 
-   反向連結選件編輯器會在新視窗中開啟。 預設設定一切正常，但您需要新增選件規則（條款與條件）的連結。 連結會出現在共用訊息畫面的底部。 我們會在下一個步驟中向您說明如何操作。
+   轉介 優惠方案 編輯者將在新窗口中打開。 默認設置都很好，但您需要向優惠方案的規則（條款和條件）添加連結。 連結會出現在分享訊息屏幕的底部。 我們將在下一步中向您展示如何操作。
 
-1. 按一下&#x200B;**進階選項**。
+1. 按兩下進階 選項&#x200B;****。
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
-1. 新增優惠規則的連結。 輸入&#x200B;**URL**。
+1. 新增連結至您的優惠方案規則。 **輸入URL**。
 
    ![](assets/image2014-9-19-11-3a3-3a57.png)
 
    >[!NOTE]
    >
-   >在此畫面上，您也可以新增隱私權原則連結。 請參閱[將您的隱私權原則新增至社交應用程式](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)。
+   >在此画面上，您還可以添加隱私權原則 連結。 請參閱將您的  [隱私權政策添加到Social 應用程式](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)。
 
 1. 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 
-1. 按一下&#x200B;**核准並關閉**。
+1. 按一下 **批准並關閉**。
 
    >[!TIP]
    >
-   >若要變更轉介優惠方案中的任何預設值，請按一下[上一步]。**** 若要儲存您的工作以供稍後使用而不核准，請按一下[關閉]。****
+   >若要更改轉介 優惠方案中的任何預設值，請按兩下返回&#x200B;****”若要儲存您的工作以供日後批准，請按兩下關閉&#x200B;****。
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 
-如果轉介優惠方案中有任何問題，系統會在優惠方案獲得核准前，提示您解決這些問題。
+如果轉介 優惠方案中存在任何問題，系統將提示您在批准優惠方案之前解決這些問題。
 
-恭喜！您已建立您的反向連結選件。
+恭喜！您已經創建了轉介 優惠方案。
 
 >[!NOTE]
 >
->所有預設設定、字串和訊息都可以變更。
+>所有預設設置、字串和消息都可以更改。
 
 >[!MORELIKETHIS]
 >
->下一步是在[登陸頁面、網站或Facebook上發佈您的推薦選件](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)。
+>下一步是在 [登陸頁面、網站或 Facebook 上發佈轉介 優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) 。

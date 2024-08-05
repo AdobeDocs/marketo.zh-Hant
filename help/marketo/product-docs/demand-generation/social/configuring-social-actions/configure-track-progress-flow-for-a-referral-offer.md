@@ -4,9 +4,9 @@ description: 設定追蹤反向連結選件的進度流程 — Marketo檔案 —
 title: 設定追蹤反向連結選件的進度流程
 exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 設定追蹤反向連結選件的進度流程 {#configure-track-progress-flow-for-a-referral-offer}
 
 當您[建立轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)時，您可以設定提示，向參與者顯示其獎勵進度。
+
+>[!IMPORTANT]
+>
+>自2024年7月31日起，我們開始淘汰此功能的程式。 您將無法建立新資產。 現有資產將持續運作至2025年1月31日。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. 移至&#x200B;**行銷活動**。
 

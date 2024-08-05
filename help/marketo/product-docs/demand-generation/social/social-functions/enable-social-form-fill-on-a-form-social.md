@@ -4,16 +4,20 @@ description: 啟用社交表單填寫表單（社交） - Marketo檔案 — 產�
 title: 啟用社交表單填寫表單（社交）
 exl-id: 675d0499-b127-40fa-84ef-1c6ecfae8e2e
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 0%
+source-wordcount: '153'
+ht-degree: 2%
 
 ---
 
 # 啟用社交表單填寫表單（社交） {#enable-social-form-fill-on-a-form-social}
 
 允許訪客使用其社交網路填寫表單。 您會自動取得額外資料，而獲得更快速的體驗。 方法如下。
+
+>[!IMPORTANT]
+>
+>自2024年7月31日起，我們開始淘汰此功能的程式。 您將無法建立新資產。 現有資產將持續運作至2025年1月31日。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

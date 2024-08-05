@@ -4,7 +4,7 @@ description: 選取您的語言、地區設定和時區 — Marketo檔案 — �
 title: 選取您的語言、地區設定和時區
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 5%
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->本文僅適用於&#x200B;_不_&#x200B;使用[具有Adobe識別碼](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)的Marketo的使用者。 如果您這麼做，便可在您的[Adobe帳戶設定檔](https://account.adobe.com/profile)中存取下列設定。
+>本文僅適用於&#x200B;_不_&#x200B;使用[具有Adobe識別碼](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的Marketo的使用者。 若您這麼做，便可在您的[Adobe帳戶設定檔](https://account.adobe.com/tw/profile){target="_blank"}中存取下列設定。
 
 ## 支援的語言 {#supported-languages}
 
@@ -58,7 +58,7 @@ ht-degree: 5%
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 
-1. 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 

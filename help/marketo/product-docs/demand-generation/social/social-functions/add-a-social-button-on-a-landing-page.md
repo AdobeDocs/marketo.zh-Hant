@@ -4,16 +4,20 @@ description: 在登陸頁面上新增社交按鈕 — Marketo檔案 — 產品�
 title: 在登陸頁面上新增社交按鈕
 exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 0%
+source-wordcount: '277'
+ht-degree: 1%
 
 ---
 
 # 在登陸頁面上新增社交按鈕 {#add-a-social-button-on-a-landing-page}
 
 社交按鈕可鼓勵人們與朋友分享您的內容。 將其拖曳至登陸頁面、Facebook和您的網站。
+
+>[!IMPORTANT]
+>
+>自2024年7月31日起，我們開始淘汰此功能的程式。 您將無法建立新資產。 現有資產將持續運作至2025年1月31日。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

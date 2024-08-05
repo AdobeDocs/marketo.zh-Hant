@@ -4,16 +4,20 @@ description: 將您的隱私權原則新增至社交應用程式 — Marketo檔�
 title: 將您的隱私權原則新增至社交應用程式
 exl-id: 21c7a136-eafd-4851-a4dd-0e10bb5dacde
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 1%
+source-wordcount: '168'
+ht-degree: 2%
 
 ---
 
 # 將您的隱私權原則新增至社交應用程式 {#add-your-privacy-policy-to-a-social-app}
 
 當您建立社交應用程式時，可以新增您公司隱私權政策的連結。
+
+>[!IMPORTANT]
+>
+>自2024年7月31日起，我們開始淘汰此功能的程式。 您將無法建立新資產。 現有資產將持續運作至2025年1月31日。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. 移至&#x200B;**行銷活動**。
 

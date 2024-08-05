@@ -4,9 +4,9 @@ description: 指定轉介優惠的目標 — Marketo檔案 — 產品檔案
 title: 指定轉介優惠的目標
 exl-id: 9869eb66-53df-4ea8-903f-e6650add8da2
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,11 @@ ht-degree: 0%
 
 當您[建立轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)時，您必須定義履行目標。 目標可由網頁上的個人活動定義，例如頁面瀏覽或註冊。 您甚至可以使用[自訂JavaScript事件](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md)。
 
-或者，您可以使用Marketo中的智慧清單觸發器，等待任何里程碑，例如為轉介的人員建立的機會。
+>[!IMPORTANT]
+>
+>自2024年7月31日起，我們開始淘汰此功能的程式。 您將無法建立新資產。 現有資產將持續運作至2025年1月31日。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
+或者，您可以在Marketo Engage中使用智慧清單觸發器，等待任何里程碑，例如為轉介的人員建立的商機。
 
 目標範例：
 

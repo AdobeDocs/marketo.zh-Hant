@@ -4,9 +4,9 @@ description: 自訂社交應用程式按鈕 — Marketo檔案 — 產品檔案
 title: 自訂社交應用程式按鈕
 exl-id: 0c5baefe-8339-4f7e-9d4f-a34704685b11
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 自訂社交應用程式按鈕 {#customize-social-app-button}
 
 當您建立[社交按鈕](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)或[轉介選件](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)時，您可以自訂按鈕的外觀。
+
+>[!IMPORTANT]
+>
+>自2024年7月31日起，我們開始淘汰此功能的程式。 您將無法建立新資產。 現有資產將持續運作至2025年1月31日。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. 移至&#x200B;**行銷活動**。
 

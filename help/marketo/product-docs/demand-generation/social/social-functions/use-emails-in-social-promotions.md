@@ -4,9 +4,9 @@ description: 在社交促銷活動中使用電子郵件 — Marketo檔案 — �
 title: 在社交促銷活動中使用電子郵件
 exl-id: 633ad86e-d085-420f-8e28-9b722e345852
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 在社交促銷活動中使用電子郵件 {#use-emails-in-social-promotions}
 
 當您建立[轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)或[抽獎](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)時，您可以加入電子郵件以在人員註冊時傳送，並在人員贏得獎勵時再次傳送。
+
+>[!IMPORTANT]
+>
+>自2024年7月31日起，我們開始淘汰此功能的程式。 您將無法建立新資產。 現有資產將持續運作至2025年1月31日。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!TIP]
 >

@@ -4,16 +4,20 @@ description: 社交按鈕開啟時進行設定 — Marketo檔案 — 產品檔�
 title: 社交按鈕開啟時進行設定
 exl-id: 3acb6656-35ab-486e-ba91-d52c434a1b90
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 0%
+source-wordcount: '156'
+ht-degree: 1%
 
 ---
 
 # 社交按鈕開啟時進行設定 {#configure-when-social-button-opens}
 
 當您建立[社交按鈕](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)時，可以設定按鈕出現共用提示的時間。
+
+>[!IMPORTANT]
+>
+>自2024年7月31日起，我們開始淘汰此功能的程式。 您將無法建立新資產。 現有資產將持續運作至2025年1月31日。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. 移至&#x200B;**行銷活動**。
 
