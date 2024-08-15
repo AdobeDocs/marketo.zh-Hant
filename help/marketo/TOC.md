@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
 workflow-type: tm+mt
-source-wordcount: '9344'
+source-wordcount: '9348'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
       + [新執行個體最佳實務：Analytics檢查清單](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [新執行個體最佳實務：記錄您的設定](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 須知{#things-to-know}
-      + [Marketo Engage字彙表](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Marketo Engage 字彙表](getting-started/things-to-know/marketo-engage-glossary.md)
       + [圖示字彙表](getting-started/things-to-know/icon-glossary.md)
       + [傳統圖示字彙表](getting-started/things-to-know/classic-icon-glossary.md)
       + [支援中心](getting-started/things-to-know/help-center.md)
@@ -99,7 +99,7 @@ ht-degree: 0%
          + 報表 {#reports}
             + [SEO — 使用競爭者KW趨勢報表](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO — 使用關鍵字趨勢報表](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
-   + 管理{#administration}
+   + 管理 {#administration}
       + 設定{#setup}
          + [瞭解您擁有哪些許可權](product-docs/administration/setup-administration/find-out-what-permissions-you-have.md)
          + [最低系統需求](product-docs/administration/setup-administration/minimum-system-requirements.md)
@@ -123,7 +123,7 @@ ht-degree: 0%
          + [建立IP型API存取的允許清單](product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
          + [下載GoogleAdwords活動記錄](product-docs/administration/additional-integrations/download-googleadwords-activity-log.md)
          + [將使用者登入限製為僅限SSO](product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
-      + 稽核軌跡{#audit-trail}
+      + 稽核軌跡 {#audit-trail}
          + [稽核軌跡概觀](product-docs/administration/audit-trail/audit-trail-overview.md)
          + [變更稽核軌跡的詳細資料](product-docs/administration/audit-trail/change-details-in-audit-trail.md)
          + [啟用稽核軌跡](product-docs/administration/audit-trail/enable-audit-trail.md)
@@ -219,7 +219,7 @@ ht-degree: 0%
          + [設定訂閱的預設位置設定](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [瞭解隱私權設定](product-docs/administration/settings/understanding-privacy-settings.md)
          + [使用通用ID進行訂閱登入](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
-      + 標籤{#tags}
+      + 標籤 {#tags}
          + [建立新的程式標籤和標籤值](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
          + [建立方案頻道](product-docs/administration/tags/create-a-program-channel.md)
          + [建立自訂標籤](product-docs/administration/tags/create-custom-tags.md)
@@ -726,6 +726,7 @@ ht-degree: 0%
             + [建立互動式網路研討會](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [新增網路研討會團隊](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [設計互動式網路研討會](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [提供互動式網路研討會](product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md)
             + [範本](product-docs/demand-generation/events/interactive-webinars/templates.md)
             + [自訂](product-docs/demand-generation/events/interactive-webinars/customization.md)
             + [房間管理](product-docs/demand-generation/events/interactive-webinars/room-management.md)
@@ -1008,7 +1009,7 @@ ht-degree: 0%
             + [Publish抽獎](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [選取抽獎活動獲勝者](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + 電子郵件行銷{#email-marketing}
-      + 傳遞能力{#deliverability}
+      + 傳遞能力 {#deliverability}
          + [持久取消訂閱](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Email Deliverability Power Pack：如何匯入種子清單](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [電子郵件中的硬跳出和軟跳出](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
@@ -1153,7 +1154,7 @@ ht-degree: 0%
    + Marketo通知{#marketo-notifications}
       + [通知： Websocket連線](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
-      + 快速入門{#getting-started}
+      + 快速入門 {#getting-started}
          + [Sales Connect概觀](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [存取新的Sales Connect執行個體](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
          + [Sales Connect管理員快速入門手冊](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
@@ -1173,12 +1174,12 @@ ht-degree: 0%
          + [透過Sales Connect中的SAML 2.0設定SSO](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [共用設定](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [使用者存取細節](product-docs/marketo-sales-connect/admin/user-access-details.md)
-      + 分析{#analytics}
+      + Analytics {#analytics}
          + [Analytics頁面概觀](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [瞭解「內容」標籤](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
          + [瞭解「我」標籤](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
          + [瞭解「專案團隊」標籤](product-docs/marketo-sales-connect/analytics/understanding-the-team-tab.md)
-      + 行銷活動{#campaigns}
+      + 行銷活動 {#campaigns}
          + [新增人員至您的行銷活動](product-docs/marketo-sales-connect/campaigns/add-people-to-your-campaign.md)
          + [新增至行銷活動](product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md)
          + [行銷活動步驟型別](product-docs/marketo-sales-connect/campaigns/campaign-step-types.md)
@@ -1286,7 +1287,7 @@ ht-degree: 0%
             + [傳送追蹤的電子郵件](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-a-tracked-email.md)
             + [透過群組電子郵件傳送電子郵件](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
             + [在撰寫視窗中使用範本](product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-      + 常見問題集{#faq}
+      + 常見問題集 {#faq}
          + [我可以復原已刪除的連絡人或群組嗎？](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [內容和檔案附件常見問題集](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales Connect有iPhone或Android應用程式嗎？](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
@@ -1362,7 +1363,7 @@ ht-degree: 0%
    + Marketo銷售分析{#marketo-sales-insight}
       + 動作{#actions}
          + [Sales Insight動作功能概觀](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
-         + 快速入門{#getting-started}
+         + 快速入門 {#getting-started}
             + [Sales Insight Actions使用者入門指南](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [銷售分析動作使用者入門檢查清單](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
             + [Sales Insight Actions管理員設定指南](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
@@ -1384,13 +1385,13 @@ ht-degree: 0%
             + [共用設定](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [與Marketo和Salesforce同步銷售動作資料](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [使用者存取細節](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
-         + 分析{#analytics}
+         + Analytics {#analytics}
             + [Analytics頁面概觀](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [瞭解「內容」標籤](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
             + [瞭解「我」標籤](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
             + [瞭解「專案團隊」標籤](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [範本參與](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
-         + 行銷活動{#campaigns}
+         + 行銷活動 {#campaigns}
             + [新增至行銷活動](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [行銷活動已結束](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
             + [建立銷售行銷活動](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
@@ -1448,7 +1449,7 @@ ht-degree: 0%
                + [連線到Gmail](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
             + Outlook {#outlook}
                + [連線到Outlook](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
-         + 常見問題集{#faq}
+         + 常見問題集 {#faq}
             + [我可以復原已刪除的連絡人或群組嗎？](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [我可以使用副本/密件副本追蹤多個收件者嗎？](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [內容和檔案附件常見問題集](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
@@ -1517,7 +1518,7 @@ ht-degree: 0%
          + [針對Google Chrome使用Marketo Insights](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
          + [在Google Mail中檢視個人和帳戶資訊與活動](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
       + Microsoft Dynamics {#msi-for-microsoft-dynamics}的MSI
-         + 功能{#features}
+         + 功能 {#features}
             + [功能概述](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/feature-overview.md)
             + Marketo索引標籤{#marketo-tab}
                + [設定MSI檢視](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/setting-up-msi-views.md)
@@ -1544,7 +1545,7 @@ ht-degree: 0%
       + Salesforce {#msi-for-salesforce}的MSI
          + 安裝{#installation}
             + [以SalesforceAppExchange安裝Marketo Sales Insight套件](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
-         + 設定{#configuration}
+         + 設定 {#configuration}
             + [在Salesforce Enterprise/Unlimited中設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [在Salesforce Professional Edition中設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [現有客戶的設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
@@ -1556,7 +1557,7 @@ ht-degree: 0%
             + [將銷售分析存取權新增至設定檔](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md)
             + [將大量動作按鈕新增至Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Salesforce Lightning中的大量動作](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
-         + 功能{#features}
+         + 功能 {#features}
             + [MSI功能概述](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [前瞻分析儀表板功能概觀](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + [Dynamic Chat整合](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
@@ -1653,7 +1654,7 @@ ht-degree: 0%
          + [在智慧行銷活動中使用簡訊選項](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
          + [簡訊報告](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting.md)
          + [簡訊字彙表](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
-   + Personalization {#personalization}
+   + 個人化 {#personalization}
       + 分段與代碼片段{#segmentation-and-snippets}
          + 分段{#segmentation}
             + [核准分段](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
@@ -1680,7 +1681,7 @@ ht-degree: 0%
       + [預測性內容摘要](product-docs/predictive-content/the-predictive-content-summary.md)
       + [定義預測性內容活動的智慧清單](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
       + [預測性內容分析概述](product-docs/predictive-content/predictive-content-analytics-overview.md)
-      + 快速入門{#getting-started}
+      + 快速入門 {#getting-started}
          + [演演算法目標設定](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [建立內容模式](product-docs/predictive-content/getting-started/create-content-patterns.md)
          + [部署適用於Content-AI的JavaScript](product-docs/predictive-content/getting-started/deploy-the-javascript-for-content-ai.md)
@@ -1702,7 +1703,7 @@ ht-degree: 0%
          + [編輯電子郵件的預測性內容](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
          + [編輯多媒體預測性內容](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
          + [編輯建議列的預測內容](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
-   + 報告{#reporting}
+   + 報告 {#reporting}
       + [報表概觀](product-docs/reporting/reporting-overview.md)
       + 基本報告{#basic-reporting}
          + 正在建立報告{#creating-reports}
@@ -1742,7 +1743,7 @@ ht-degree: 0%
             + [保護訂閱管理設定](product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
             + [訂閱基本報表](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [訂閱智慧清單](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
-         + 報表型別{#report-types}
+         + 報表類型 {#report-types}
             + [行銷活動報表](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [行銷活動電子郵件效能報表](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [公司網站活動報表](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
@@ -1856,7 +1857,7 @@ ht-degree: 0%
          + [設定帳戶分析](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [Account Insight外掛程式概述](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [邀請使用者存取帳戶分析](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + 目標{#target}
+      + Target {#target}
          + 具名帳戶{#named-accounts}
             + [具名帳戶總覽](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [匯入具名帳戶](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
@@ -1892,7 +1893,7 @@ ht-degree: 0%
          + [使用TAM的帳戶型網頁行銷](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [建立新的帳戶清單](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [使用科目清單建立節段](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
-      + 快速入門{#getting-started}
+      + 快速入門 {#getting-started}
          + [在帳戶設定中新增子網域](product-docs/web-personalization/getting-started/add-subdomains-in-account-settings.md)
          + [編輯區域](product-docs/web-personalization/getting-started/edit-regions.md)
          + [登入和使用者管理](product-docs/web-personalization/getting-started/login-and-user-management.md)
@@ -1963,7 +1964,7 @@ ht-degree: 0%
          + [依最新或表現最佳的網站行銷活動排序](product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md)
          + [使用網頁Personalization RTF編輯器](product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)
          + [從特定標籤檢視網站行銷活動](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
-+ 發行說明{#release-notes}
++ 發行說明 {#release-notes}
    + [發行排程](release-notes/release-schedule.md)
    + [最新版本](release-notes/current.md)
    + [Dynamic Chat版本](release-notes/dynamic-chat.md)
@@ -1980,46 +1981,46 @@ ht-degree: 0%
          + [發行說明： 2023年7月](release-notes/previous-releases/2023/release-notes-july-23.md)
          + [發行說明： 2023年9月](release-notes/previous-releases/2023/release-notes-sep-23.md)
          + [發行說明： 2023年10月](release-notes/previous-releases/2023/release-notes-oct-23.md)
-      + 2022 {#2022}
+      + 2022 年{#2022}
          + [發行說明： 2022年1月](release-notes/previous-releases/2022/release-notes-jan-22.md)
          + [發行說明： 2022年3月](release-notes/previous-releases/2022/release-notes-mar-22.md)
          + [發行說明： 2022年5月](release-notes/previous-releases/2022/release-notes-may-22.md)
          + [發行說明： 2022年6月](release-notes/previous-releases/2022/release-notes-june-22.md)
          + [發行說明： 2022年8月](release-notes/previous-releases/2022/release-notes-aug-22.md)
          + [發行說明： 2022年10月](release-notes/previous-releases/2022/release-notes-oct-22.md)
-      + 2021 {#2021}
+      + 2021 年 {#2021}
          + [發行說明： 2021年1月](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [發行說明： 2021年5月](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [發行說明： 2021年8月](release-notes/previous-releases/2021/release-notes-aug-21.md)
          + [發行說明： 2021年10月](release-notes/previous-releases/2021/release-notes-oct-21.md)
-      + 2020 {#2020}
+      + 2020 年 {#2020}
          + [發行說明： 2020年1月](release-notes/previous-releases/2020/release-notes-jan-20.md)
          + [發行說明： 2020年2月](release-notes/previous-releases/2020/release-notes-feb-20.md)
          + [發行說明： 2020年6月](release-notes/previous-releases/2020/release-notes-june-20.md)
          + [發行說明： 2020年7月](release-notes/previous-releases/2020/release-notes-july-20.md)
          + [發行說明： 2020年10月](release-notes/previous-releases/2020/release-notes-oct-20.md)
-      + 2019年{#2019}
+      + 2019 年 {#2019}
          + [發行說明： 2019年8月](release-notes/previous-releases/2019/release-notes-august-19.md)
          + [發行說明： 2019年6月](release-notes/previous-releases/2019/release-notes-june-19.md)
          + [發行說明： 2019年春季](release-notes/previous-releases/2019/release-notes-spring-19.md)
          + [發行說明： Winter &#39;19](release-notes/previous-releases/2019/release-notes-winter-19.md)
-      + 2018年{#2018}
+      + 2018 年 {#2018}
          + [發行說明： 2018年秋季](release-notes/previous-releases/2018/release-notes-fall-18.md)
          + [發行說明： 2018年春季](release-notes/previous-releases/2018/release-notes-spring-18.md)
          + [發行說明： Winter &#39;18](release-notes/previous-releases/2018/release-notes-winter-18.md)
-      + 2017年{#2017}
+      + 2017 年 {#2017}
          + [發行說明： 2017年4月ABM增強功能](release-notes/previous-releases/2017/release-notes-april-17-abm-enhancements.md)
          + [發行說明： 2017年8月ABM增強功能](release-notes/previous-releases/2017/release-notes-august-17-abm-enhancements.md)
          + [發行說明： 2017年秋季](release-notes/previous-releases/2017/release-notes-fall-17.md)
          + [發行說明： 2017年春季](release-notes/previous-releases/2017/release-notes-spring-17.md)
          + [發行說明： 2017年夏天](release-notes/previous-releases/2017/release-notes-summer-17.md)
          + [發行說明： 2017年冬季](release-notes/previous-releases/2017/release-notes-winter-17.md)
-      + 2016年{#2016}
+      + 2016 年 {#2016}
          + [發行說明： 2016年秋季](release-notes/previous-releases/2016/release-notes-fall-16.md)
          + [發行說明： 2016年春季](release-notes/previous-releases/2016/release-notes-spring-16.md)
          + [發行說明： 2016年夏天](release-notes/previous-releases/2016/release-notes-summer-16.md)
          + [發行說明： Winter &#39;16](release-notes/previous-releases/2016/release-notes-winter-16.md)
-      + 2015年{#2015}
+      + 2015 年 {#2015}
          + [發行說明： 2015年4月](release-notes/previous-releases/2015/release-notes-april-2015.md)
          + [發行說明： 2015年秋季](release-notes/previous-releases/2015/release-notes-fall-15.md)
          + [發行說明： 2015年2月](release-notes/previous-releases/2015/release-notes-february-2015.md)
