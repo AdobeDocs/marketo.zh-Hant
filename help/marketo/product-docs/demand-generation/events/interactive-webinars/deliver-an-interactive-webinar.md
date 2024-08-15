@@ -2,7 +2,7 @@
 description: 提供互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 提供互動式網路研討會
 feature: Interactive Webinars
-source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
+source-git-commit: 0cec57e40dbc5f20174e4d76e41768c4ffc7cecc
 workflow-type: tm+mt
 source-wordcount: '1052'
 ht-degree: 0%
@@ -23,15 +23,13 @@ ht-degree: 0%
 
 1. 如果您是共同主持人或主持人，請按一下您收到的網路研討會電子郵件中的個人化連結。
 
-   ![](assets/deliver-an-interactive-webinar-2.png)
-
 1. 選取您的音訊/視訊喜好設定，然後按一下&#x200B;**進入會議室**。
 
-   ![](assets/deliver-an-interactive-webinar-3.png)
+   ![](assets/deliver-an-interactive-webinar-2.png)
 
 1. 選取要顯示給早期加入者的版面。
 
-   ![](assets/deliver-an-interactive-webinar-4.png)
+   ![](assets/deliver-an-interactive-webinar-3.png)
 
    >[!NOTE]
    >
@@ -43,17 +41,17 @@ ht-degree: 0%
 
 1. 您可以視需要記錄工作階段。 從聊天室功能表選取&#x200B;**錄製工作階段**。 稍後可以從相同功能表停止錄製。
 
-   ![](assets/deliver-an-interactive-webinar-5.png)
+   ![](assets/deliver-an-interactive-webinar-4.png)
 
 1. 您的工作階段在指定的時間開始。
 
 1. 按一下檔案室名稱。 在下拉式清單中，選取&#x200B;**主持人和簡報者區域**，與簡報團隊聊天或分享附註。 主機和主持人區域會在畫面右側開啟。 只有主機/共同主機和簡報者能夠看到畫面的這個部分。
 
-   ![](assets/deliver-an-interactive-webinar-6.png)
+   ![](assets/deliver-an-interactive-webinar-5.png)
 
 1. 工作階段完成時，按一下紅色箭頭圖示，並選取&#x200B;**全部結束工作階段**。
 
-   ![](assets/deliver-an-interactive-webinar-7.png)
+   ![](assets/deliver-an-interactive-webinar-6.png)
 
    >[!CAUTION]
    >
@@ -69,11 +67,11 @@ ht-degree: 0%
 
 1. 在排程開始前15分鐘以上啟動事件連結的參與者，會看到登入頁面，通知他們事件開始。
 
-   ![](assets/deliver-an-interactive-webinar-8.png)
+   ![](assets/deliver-an-interactive-webinar-7.png)
 
 1. 參與者需要選取其音訊偏好設定，然後按一下「進入空間」。 第一次加入Adobe Connect聊天室的參與者，也會看到瀏覽器快顯視窗取得麥克風許可權。 Adobe Connect需要此存取權才能讓參與者日後在會議室中使用麥克風。
 
-   ![](assets/deliver-an-interactive-webinar-9.png)
+   ![](assets/deliver-an-interactive-webinar-8.png)
 
    >[!NOTE]
    >
@@ -103,7 +101,7 @@ Chat Pod中的討論會一律記錄下來。 因此，如果聊天討論可增�
 
 聊天面板中的討論不會錄製。 「聊天面板」也會釋放原本在版面配置中會被聊天面板佔用的空間。 因此，如果聊天討論不會為錄製檢視者增加價值，在設計聊天室時，請使用「聊天面板」而非聊天區。
 
-![](assets/deliver-an-interactive-webinar-10.png)
+![](assets/deliver-an-interactive-webinar-9.png)
 
 深入瞭解[聊天面板](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}。
 
@@ -115,7 +113,7 @@ Chat Pod中的討論會一律記錄下來。 因此，如果聊天討論可增�
 
 1. 按一下「配置面板」底部的扳手圖示。
 
-   ![](assets/deliver-an-interactive-webinar-.png)
+   ![](assets/deliver-an-interactive-webinar-10.png)
 
 1. 從「版面配置面板」中，選擇要調整的版面。 視需要移動、隱藏或顯示Pod。 您也可以更新Pod中的內容，例如在共用Pod中上傳新版本的簡報。
 
