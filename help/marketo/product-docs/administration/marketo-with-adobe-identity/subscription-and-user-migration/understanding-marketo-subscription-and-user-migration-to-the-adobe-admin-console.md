@@ -3,9 +3,9 @@ description: 瞭解Marketo訂閱和使用者移轉至Adobe Admin Console - Marke
 title: 瞭解Marketo訂閱和使用者移轉至Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: dd2d91d61bcbf3f20bdc06977f06b1f3b0b47f01
+source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
 workflow-type: tm+mt
-source-wordcount: '1440'
+source-wordcount: '1513'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,9 @@ Adobe可強化您管理Adobe Marketo Engage訂閱和使用者的方式，為您�
 
 * **使用者將使用Adobe識別碼**&#x200B;登入。 Adobe會將現有使用者移轉至Adobe Admin Console。 使用者將使用其新的Adobe身分登入其Marketo訂閱 — Adobe ID或AdobeFederated ID(SSO)。
 
-* 移轉後&#x200B;**個URL看起來會不同**。 不過，資產的ID號碼會維持不變。 而且之前儲存的書籤仍會帶您前往正確位置。 洽詢您的IT團隊，確定他們將網域新增到下方（包括星號），以允許所有Marketo Engage資源和網路通訊端：
+* 移轉後&#x200B;**個URL看起來會不同**。 移轉後，Marketo Engage會從experience.adobe.com傳送至Adobe Experience Cloud。 您必須與您的IT團隊合作，允許列出本文](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}頂端所列[的所有Adobe網域，以防止Marketo Engage存取中斷。
 
-_*.experience.adobe.com_
+資產的ID號碼維持不變。 而且，先前在engage-xx.marketo.com網域&#x200B;_上Marketo Engage資產的連結和書籤將會_&#x200B;繼續運作。 不過，您必須先登入您要導覽至的URL的Marketo Engage例項。 例如，若要導覽至Munchkin ID為123-ABC-456之Smart Campaign執行個體的書籤，您必須先以Munchkin ID 123-ABC-456登入Marketo Engage執行個體。
 
 ## 哪些部分沒有改變？ {#what-is-not-changing}
 
