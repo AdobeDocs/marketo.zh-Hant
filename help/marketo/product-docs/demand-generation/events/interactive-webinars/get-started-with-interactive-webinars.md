@@ -4,7 +4,7 @@ title: 開始使用互動式網路研討會
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 62ddfc7705fc16fd5b0a5cee17731b878982de1c
+source-git-commit: fefe046ca3bcb61ecdffa7a0b9c8477d050aa704
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -14,6 +14,8 @@ ht-degree: 0%
 # 開始使用互動式網路研討會 {#get-started-with-interactive-webinars}
 
 您已閱讀[互動式網路研討會概觀](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"}，準備開始深入探討。 請依照下列步驟開始。
+
+<p>
 
 **步驟一**：[新增使用者](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#add-a-user){target="_blank"} — 瞭解如何新增（以及稍後視需要移除）使用者以進行互動式網路研討會存取。
 
@@ -26,6 +28,8 @@ ht-degree: 0%
 **步驟五**：[推廣您的網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md){target="_blank"} — 瞭解有關如何推廣您即將舉辦之活動的寶貴秘訣。
 
 **步驟六**：[傳送您的互動式網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} — 關於簡報網路研討會所需瞭解的一切。
+
+<p>
 
 完成了！您的網路研討會結束後，請使用實用的[參與儀表板](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}檢視其執行情形。
 
