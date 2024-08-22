@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 62ddfc7705fc16fd5b0a5cee17731b878982de1c
+source-git-commit: 938ec953d002a9c4bf946a13b1c66cb9718ac2a0
 workflow-type: tm+mt
 source-wordcount: '9353'
 ht-degree: 0%
@@ -1211,6 +1211,8 @@ ht-degree: 0%
             + [CRM的Sales Connect自訂](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [在Salesforce Classic中使用大量動作](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
             + [在Salesforce Lightning中使用大量動作](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
+            + [從Salesforce Classic解除安裝Marketo Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-classic.md)
+            + [從Salesforce Lightning解除安裝Marketo Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
          + Salesforce整合{#salesforce-integration}
             + [設定Salesforce活動詳細資料自訂](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [將您的Sales Connect帳戶連線至Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
@@ -1414,8 +1416,6 @@ ht-degree: 0%
             + Salesforce封裝組態{#salesforce-package-configuration}
                + [Salesforce中的Sales Insight動作設定](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [將銷售活動屬性記錄到Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
-               + [從Salesforce Classic解除安裝Marketo Sales Connect](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
-               + [從Salesforce Lightning解除安裝Marketo Sales Connect](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
                + [將動作按鈕新增至Salesforce清單檢視](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
                + [將活動記錄到Salesforce時更新活動型別欄位](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
             + Salesforce {#actions-in-salesforce}中的動作
