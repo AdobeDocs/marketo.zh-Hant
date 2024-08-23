@@ -2,19 +2,17 @@
 description: Marketo Engage支援移轉 — Marketo檔案 — 產品檔案
 title: Marketo Engage支援移轉
 feature: Marketo with Adobe Identity
-hide: true
-hidefromtoc: true
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 7e47555e61ef9c4423e83a977637d7a5f4ad9849
+source-git-commit: aa77a0124f261eea2999029806adb1d1aaf3e0da
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '468'
 ht-degree: 1%
 
 ---
 
 # Marketo Engage支援移轉 {#marketo-engage-support-migration}
 
-進一步瞭解您的Adobe Marketo Engage支援體驗即將進行的變更。 這些變更旨在提升您的使用者體驗，並簡化您的管理工作。
+進一步瞭解Adobe Marketo Engage支援流程即將發生的變更。 這些更新旨在簡化您的管理工作，並提升您的整體體驗。
 
 ## Marketo EngageAdmin Console {#marketo-engage-admin-console}
 
@@ -38,7 +36,7 @@ ht-degree: 1%
 
 ## 我如何知道支援移轉何時完成？ {#support-migration-has-been-completed}
 
-完成所有訂閱的使用者移轉後，就會進行支援移轉。 如果您在「支援移轉」中被新增為PSA，在「使用者」移轉完成後，您將會收到一封電子郵件，表示您已被新增為「支援管理員」，以便針對這些特定訂閱聯絡「支援人員」。 對於所有提交的案例，這會觸發從行銷國家自動重新導向至Adobe Experience League。 請繼續透過行銷國家提交支援案例，直到啟用自動重新導向為止。
+完成所有訂閱的使用者移轉後，就會進行支援移轉。 如果您在「支援移轉」中被新增為PSA，在「使用者」移轉完成後，您將會收到一封電子郵件，表示您已被新增為「支援管理員」，以便針對這些特定訂閱聯絡Adobe支援。 對於所有提交的案例，這會觸發從行銷國家自動重新導向至Adobe Experience League。 請繼續透過行銷國家提交支援案例，直到啟用自動重新導向為止。
 
 ## 其他資源 {#additional-resources}
 
