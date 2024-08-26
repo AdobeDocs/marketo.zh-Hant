@@ -3,9 +3,9 @@ description: Dynamic Chat常見問題集 — Marketo檔案 — 產品檔案
 title: Dynamic Chat常見問題集
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
+source-git-commit: ed833219e5074ae646e07db599e7da50665c453b
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '882'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Dynamic ChatJavaScript程式碼片段可安裝在任何網站以及Marketo登陸
 
 **Dynamic Chat是否支援英文以外的任何語言？**
 
-有。Dynamic Chat支援下列語言：法文、西班牙文、德文、日文、荷蘭文、義大利文、巴西葡萄牙文、韓文、簡體中文和繁體中文。 深入瞭解[變更語言](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}。
+可以。Dynamic Chat支援下列語言：法文、西班牙文、德文、日文、荷蘭文、義大利文、巴西葡萄牙文、韓文、簡體中文和繁體中文。 深入瞭解[變更語言](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}。
 
 **您支援AI/NLP功能嗎？**
 
@@ -68,7 +68,7 @@ Dynamic ChatJavaScript程式碼片段可安裝在任何網站以及Marketo登陸
 
 **如何存取參與交談的記錄？**
 
-任何已知的潛在客戶可以透過Dynamic Chat中的「參與對話」活動參與Dynamic Chat對話，存取Marketo Engage成績單。
+任何已知潛在客戶若已透過Dynamic Chat中的「參與對話方塊」活動參與Dynamic Chat對話方塊，且其對話狀態為「已完成」或「已捨棄」，都可以存取Marketo Engage成績單。
 
 **訪客參與對話後，可以重新開始對話或返回上一個問題嗎？**
 
@@ -88,7 +88,7 @@ Dynamic Chat透過Marketo Engage Salesforce整合與Salesforce整合。
 
 **是否有辦法使用Dynamic Chat直接從電子郵件預約會議？**
 
-會的！[瞭解如何進行](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}。
+是！[瞭解如何進行](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}。
 
 **「已參與」或「已取得人員」等辭彙的意義是什麼？**
 
@@ -100,4 +100,4 @@ Dynamic Chat中使用多個詞語。 其中許多的定義可在各自區域的�
 
 **我是否可以使用Dynamic Chat而不使用Marketo Engage？**
 
-不適用。 雖然Dynamic Chat是獨立於Marketo Engage的應用程式，但兩者卻密不可分。
+不可以。 雖然Dynamic Chat是獨立於Marketo Engage的應用程式，但兩者卻密不可分。
