@@ -3,9 +3,9 @@ description: 互動式網路研討會的最佳作法 — Marketo檔案 — 產�
 title: 互動式網路研討會的最佳作法
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
 workflow-type: tm+mt
-source-wordcount: '1650'
+source-wordcount: '1691'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ ht-degree: 0%
 ## 事件前準備 {#pre-event-preparation}
 
 ### 建立事件 {#creating-an-event}
+
+>[!TIP]
+>
+>互動式網路研討會行動裝置網頁體驗沒有回應式功能，因此我們建議使用Adobe Connect應用程式，在行動裝置上提供順暢的網路研討會體驗。 請注意，Adobe Connect應用程式目前無法在中國的App Stores使用。
 
 * 建立互動式網路研討會(IW)範例，並每次都複製，以免從頭開始。
 
