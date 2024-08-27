@@ -3,9 +3,9 @@ description: 會議清單 — Marketo檔案 — 產品檔案
 title: 會議清單
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -19,3 +19,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >在代理程式的行事曆上預約會議時，代理程式會收到關於預約的電子郵件通知，包括訪客Dynamic Chat參與的詳細資訊。
+
+## 失敗的動作通知 {#failed-action-notifications}
+
+當會議預約或即時聊天等動作失敗時，使用者會透過電子郵件收到通知。
+
+![](assets/meeting-list-2.png)
+

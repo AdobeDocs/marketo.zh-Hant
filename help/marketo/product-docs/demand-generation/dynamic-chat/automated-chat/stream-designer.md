@@ -3,9 +3,9 @@ description: 串流Designer - Marketo檔案 — 產品檔案
 title: 流程設計工具
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '1229'
+source-wordcount: '1250'
 ht-degree: 2%
 
 ---
@@ -119,7 +119,11 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >您可以使用代號（例如： Hello `{{lead.leadFirstName:""}}`）為已知的聊天訪客個人化體驗。 只要按一下右側的花括弧圖示，即可進行選取。 如果您希望匿名訪客看到一般內容（例如： Hello `{{lead.leadFirstName:"there"}}`），請在引號之間新增預設值。
+   >您可以自訂聊天訪客的體驗！
+   >
+   >* 按一下「插入HTML」圖示`</>`，插入您自己的HTML，以取得想要的交談外觀。
+   >
+   >* 使用已知聊天訪客的權杖來個人化其體驗（例如： Hello `{{lead.leadFirstName:""}}`）。 按一下大括弧圖示`{}`並進行選取。 如果您希望匿名訪客看到一般內容（例如： Hello `{{lead.leadFirstName:"there"}}`），請在引號之間新增預設值。
 
    >[!NOTE]
    >

@@ -3,9 +3,9 @@ description: 即時聊天概述 — Marketo檔案 — 產品檔案
 title: 即時聊天總覽
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '686'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->即時代理程式頭像會使用代理程式Adobe帳戶設定檔中的設定檔圖片。 若要更新影像，請依照[這些步驟](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}執行。
+>即時代理程式頭像會使用代理程式Adobe帳戶設定檔中的設定檔圖片。 若要更新影像，請依照[這些步驟](https://helpx.adobe.com/tw/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}執行。
 
 ## 使用即時聊天卡 {#using-the-live-chat-card}
 
@@ -104,6 +104,12 @@ ht-degree: 0%
 >
 >* 在[Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}中啟用瀏覽器通知
 >* 在[Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}中啟用瀏覽器通知
+
+### 失敗的動作通知 {#failed-action-notifications}
+
+當會議預約或即時聊天等動作失敗時，使用者會透過電子郵件收到通知。
+
+![](assets/live-chat-overview-6.png)
 
 ### 注意事項 {#things-to-note}
 
