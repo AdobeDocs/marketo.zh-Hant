@@ -3,7 +3,7 @@ description: Dynamic Chat 發行說明 - Marketo 文件 - 產品文件
 title: Dynamic Chat 發行說明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
 source-wordcount: '1869'
 ht-degree: 2%
@@ -68,7 +68,7 @@ Marketo Engage[的標準發行說明頁面可在此處](/help/marketo/release-no
 
 ### 新增至代理程式瀏覽器通知的聲音 {#sound-added-to-agent-browser-notification}
 
-將即時聊天指派給代理時，他們會收到瀏覽器通知。 但他們偶爾會看不見它們。 我們已新增通知音效，以協助避免日後遺漏通知。
+將即時聊天指派給代理時，他們會收到瀏覽器通知。 但他們偶爾會看不見它們。 我們已新增[通知音效](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"}，以防止日後遺漏通知。
 
 ![](assets/dynamic-chat-aug-2024-release-6.png)
 

@@ -3,9 +3,9 @@ description: 聊天機器人行為 — Marketo檔案 — 產品檔案
 title: 聊天機器人行為
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
-source-wordcount: '1623'
+source-wordcount: '1680'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 0%
    </tbody>
 </table>
 
-## 狀況 {#scenarios}
+## 方案 {#scenarios}
 
 <table>
   <tr>
@@ -406,3 +406,7 @@ ht-degree: 0%
     </tr>
   </tbody>
 </table>
+
+## 即時銷售機會解析 {#real-time-lead-resolution}
+
+在與匿名潛在客戶進行交談並提供電子郵件ID期間，我們會解決該電子郵件ID是否存在已知潛在客戶記錄，並即時將該記錄用於個人化。 如果我們找到多個記錄，我們會即時合併它們。 此行為會針對對話方塊和對話流程實施。
