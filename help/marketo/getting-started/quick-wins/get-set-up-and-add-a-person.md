@@ -4,9 +4,9 @@ description: 設定並新增人員 — Marketo檔案 — 產品檔案
 title: 完成設定並新增人員
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 在開始執行任務之前，請先做幾件事情。
 
-## 步驟1：登入Marketo {#step-log-in-to-marketo}
+## 步驟1：登入Marketo Engage {#step-log-in-to-marketo}
 
-1. [使用您透過電子郵件收到的認證登入Marketo](https://app.marketo.com){target="_blank"}。
+1. [使用您透過電子郵件收到的認證登入Marketo Engage](https://app.marketo.com){target="_blank"}。
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
@@ -59,7 +59,9 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketo **不**&#x200B;支援包含emoji的電子郵件地址。
+   >* 請確定電子郵件地址只包含ASCII字元。
+   >
+   >* Marketo **不**&#x200B;支援包含emoji的電子郵件地址。
 
 1. 若要檢視您的朋友，請在左側功能表中開啟[!UICONTROL 系統智慧清單]，然後按一下&#x200B;**[!UICONTROL 所有朋友]**。
 

@@ -4,9 +4,9 @@ description: 更新人員資料 — Marketo檔案 — 產品檔案
 title: 更新個人資料
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -49,6 +49,12 @@ ht-degree: 0%
 1. 輸入您收到的新資訊，然後關閉標籤。
 
 ![](assets/update-person-data-4.png)
+
+>[!CAUTION]
+>
+>* 請確定電子郵件地址只包含ASCII字元。
+>
+>* Marketo **不**&#x200B;支援包含emoji的電子郵件地址。
 
 >[!NOTE]
 >

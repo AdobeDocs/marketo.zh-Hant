@@ -4,9 +4,9 @@ description: 匯入人員清單 — Marketo檔案 — 產品檔案
 title: 匯入人員清單
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,9 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketo **不**&#x200B;支援包含emoji的電子郵件地址。
+   >* 請確定電子郵件地址只包含ASCII字元。
+   >
+   >* Marketo **不**&#x200B;支援包含emoji的電子郵件地址。
 
 ## 步驟2：建立方案 {#step-create-a-program}
 
