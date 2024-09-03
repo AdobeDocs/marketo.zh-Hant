@@ -3,9 +3,9 @@ description: 許可權 — Marketo檔案 — 產品檔案
 title: 權限
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '712'
 ht-degree: 4%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 4%
 
    ![](assets/permissions-4.png)
 
-1. 可用的許可權專案會列在左側。 您可以選擇逐一新增許可權，或一次新增所有許可權。 在此範例中，只有一個可用，因此我們將新增該專案。 按一下&#x200B;**+**&#x200B;符號。
+1. 可用的許可權專案會列在左側。 您可以選擇逐一新增許可權，或一次新增所有許可權。 按一下&#x200B;**+**&#x200B;符號。
 
    ![](assets/permissions-5.png)
 
@@ -40,7 +40,7 @@ ht-degree: 4%
    >
    >啟用自動包含會將所有許可權專案新增至包含的清單。 當新的許可權專案可用時，會自動納入該產品設定檔中。
 
-1. 按一下&#x200B;**保存**。
+1. 按一下&#x200B;**儲存**。
 
    ![](assets/permissions-6.png)
 
@@ -140,7 +140,7 @@ ht-degree: 4%
 <table>
 <thead>
   <tr>
-    <th style="width:25%">個人檔案</th>
+    <th style="width:25%">設定檔</th>
     <th>預設許可權</th>
   </tr>
 </thead>
