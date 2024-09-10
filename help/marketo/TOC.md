@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 0ca5fa73fa93845c4795b94980cc1170665a1ccb
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '9349'
+source-wordcount: '9341'
 ht-degree: 0%
 
 ---
@@ -1460,7 +1460,6 @@ ht-degree: 0%
             + [連線Salesforce時，如何修正「我們無法驗證您的請求」？](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [如何防止自我檢視？](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [位置追蹤如何運作？](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
-            + [Sales Insight動作如何處理電子郵件重複資料刪除？](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
             + [我的帳戶已被鎖定。 該怎麼辦？](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
             + [Sales Insight Actions是否與Salesforce Lightning相容？](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
             + [Sales Insight Actions支援哪些瀏覽器？](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
@@ -1487,7 +1486,6 @@ ht-degree: 0%
             + [Sales Insight Actions與GDPR法規遵循](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
             + 管理連絡人{#managing-contacts}
                + [對人員的大量動作](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
-               + [建立和刪除連絡人](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
                + [管理群組](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [人員頁面欄](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + 電話{#phone}
@@ -1974,6 +1972,7 @@ ht-degree: 0%
          + [發行說明： 2024年3月](release-notes/previous-releases/2024/release-notes-mar-24.md)
          + [發行說明： 2024年4月](release-notes/previous-releases/2024/release-notes-apr-24.md)
          + [發行說明： 2024年6月](release-notes/previous-releases/2024/release-notes-june-24.md)
+         + [發行說明： 2024年7月](release-notes/previous-releases/2024/release-notes-july-24.md)
       + 2023 {#2023}
          + [發行說明： 2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [發行說明： 2023年3月](release-notes/previous-releases/2023/release-notes-mar-23.md)

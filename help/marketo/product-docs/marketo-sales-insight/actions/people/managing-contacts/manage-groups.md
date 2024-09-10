@@ -3,9 +3,9 @@ description: 管理群組 — Marketo檔案 — 產品檔案
 title: 管理群組
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -66,10 +66,6 @@ ht-degree: 0%
 1. 按一下&#x200B;**群組動作**&#x200B;並選取&#x200B;**建立連絡人並新增至群組**。
 
    ![](assets/manage-groups-4.png)
-
-   >[!NOTE]
-   >
-   >這將會一次新增一個連絡人。 若要同時新增多個連絡人，請遵循[這些步驟](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)。
 
 1. 填寫連絡人資訊，然後按一下&#x200B;**建立** （或&#x200B;**建立並新增新的**&#x200B;以新增其他）。
 

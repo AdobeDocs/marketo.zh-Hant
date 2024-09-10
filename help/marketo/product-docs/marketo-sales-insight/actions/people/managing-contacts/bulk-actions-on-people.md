@@ -3,9 +3,9 @@ description: 對人員的大量動作 — Marketo檔案 — 產品檔案
 title: 對人員的大量動作
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '129'
 ht-degree: 2%
 
 ---
@@ -45,9 +45,3 @@ ht-degree: 2%
 對不想再收到您信件的連絡人執行大量取消訂閱。
 
 ![](assets/bulk-actions-on-people-5.png)
-
-## 刪除 {#delete}
-
-大量刪除連絡人。 完整的步驟可在[這裡](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)找到。
-
-![](assets/bulk-actions-on-people-6.png)
