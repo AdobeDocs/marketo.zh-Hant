@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c7fa016a93de2ca0634bf117a04843e7762588d1
+source-git-commit: 86dae90f24c948da8824ac2b8662072756fa2601
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '303'
 ht-degree: 3%
 
 ---
@@ -71,3 +71,7 @@ ht-degree: 3%
  </tbody> 
 </table>
 <br/>
+
+## 公告 {#announcements}
+
+自2024年9月17日起，[Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164將開始推出至&#x200B;**Admin** > **Treasure Chest**&#x200B;中啟用「Munchkin Beta」設定的Marketo Engage執行個體。 排程在10月29日開始推出至所有其他執行個體。 此版本會更新Munchkin Cookie的建立。 功能沒有變更。
