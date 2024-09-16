@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 86dae90f24c948da8824ac2b8662072756fa2601
+source-git-commit: 9d5b27d82736b2b89a12aa3d184d90f1f95945b5
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 3%
+source-wordcount: '363'
+ht-degree: 2%
 
 ---
 
@@ -74,4 +74,6 @@ ht-degree: 3%
 
 ## 公告 {#announcements}
 
-自2024年9月17日起，[Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164將開始推出至&#x200B;**Admin** > **Treasure Chest**&#x200B;中啟用「Munchkin Beta」設定的Marketo Engage執行個體。 排程在10月29日開始推出至所有其他執行個體。 此版本會更新Munchkin Cookie的建立。 功能沒有變更。
+* **新Munchkin版本**：自2024年9月17日起，[Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164將開始推出至Marketo Engage執行個體，這些執行個體已在&#x200B;**Admin** > **Treasure Chest**&#x200B;中啟用「Munchkin Beta」設定。 排程在10月29日開始推出至所有其他執行個體。 此版本會更新Munchkin Cookie的建立。 功能沒有變更。
+
+* **QR碼淘汰**：自2024年10月4日起，推播通知和應用程式內訊息資產中使用的QR碼功能將被淘汰。 這包括使用新測試裝置的QR碼，以及使用QR碼建立新資產。 淘汰使用率較低的功能，可讓我們重新分配其資源，以便整體維護Marketo Engage。
