@@ -4,14 +4,14 @@ title: Salesforce同步可觀察性量度控制面板
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: 49b1545e61a5d11c1ca6ebf5b17d56ef038f6c65
+source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
 
-# Salesforce同步可觀察性量度控制面板 {#salesforce-sync-observability-metrics-dashboard}
+# Salesforce同步處理待處理專案量度  {#salesforce-sync-backlog-metrics}
 
 檢閱您的同步處理效能輸送量，並使用此儀表板同步處理積壓。
 
