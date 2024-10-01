@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
+source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 2%
+source-wordcount: '513'
+ht-degree: 1%
 
 ---
 
@@ -65,6 +65,34 @@ ht-degree: 2%
   </tr>
    <tr> 
    <td><strong>導覽邊欄中的「我的帳戶」按鈕</strong>：對於已移轉至AdobeIdentity Management系統的使用者，左側導覽邊欄中新的「我的帳戶」按鈕可讓您設定時區並存取訂閱詳細資料。</td> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Salesforce同步處理待處理專案量度</strong>：您現在可以監視同步處理輸送量和待處理專案趨勢，以規劃及排程CRM更新，提供最佳的同步處理體驗。</td> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>電子郵件效能報告增強功能</strong>：已針對電子郵件報告量度和活動追蹤進行多項改進，以提供其他深入分析並改善準確性。
+   <ul>
+   <li>從電子郵件效能量度篩選刪除和合併的人員</li>
+   <li>電子郵件在等待回應活動三天後現在分類為<i>已中止</i></li>
+   <li>在行銷活動層級開啟的帳戶電子郵件</li>
+   <li>透過調整追蹤畫素位置改善電子郵件活動追蹤</li>
+   </td> 
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
