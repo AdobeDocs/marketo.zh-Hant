@@ -4,7 +4,7 @@ description: 範本20E - Marketo檔案 — 產品檔案
 title: 範本20E
 exl-id: 37da2ba9-446b-4dee-8b15-a55b2636dd63
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 9c550f8c4c9f985a7e188b98fdb0ae1128bb828a
+source-git-commit: 018f8ace2226ef979c75ac930934b6cc52e0fbd8
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本20E.html](assets/template-20E.html)
+[範本20E.html](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/assets/template-20E.html)
