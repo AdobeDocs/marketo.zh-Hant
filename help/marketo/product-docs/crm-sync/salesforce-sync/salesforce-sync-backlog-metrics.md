@@ -4,7 +4,7 @@ title: Salesforce同步處理待處理專案量度
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
 workflow-type: tm+mt
 source-wordcount: '840'
 ht-degree: 0%
@@ -93,7 +93,7 @@ ht-degree: 0%
 
 進行大量更新（例如變更欄位值）時，許多記錄會變更，導致新的SysModStamps。 然後，需要在Marketo Engage和您的CRM之間重新同步大量人員記錄更新，有時還會建立暫時性的待處理專案。
 
-## 管理同步積壓的最佳作法 {#best-practices-for-managing-sync-backlogs}
+## 管理同步積壓的最佳作法 {#best-practices}
 
 **同步處理下的欄位**：請確定同步處理下的欄位只是需要同步的欄位。 變更欄位會增加同步處理待處理專案，而低優先順序欄位可能會停止或減慢同步處理中較重要的欄位。 請聯絡[Marketo Engage支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以移除同步處理下的欄位。
 
