@@ -4,9 +4,9 @@ description: 發行排程 - Marketo 文件 - 產品文件
 title: 發行排程
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 46a2170aab30abdb5d9e77219fc56fc2537d1c59
+source-git-commit: 5d9cd426d939939f22b3187342ab7950a6897d25
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '114'
 ht-degree: 10%
 
 ---
@@ -33,14 +33,14 @@ _發行日期/功能可能會有所變更_
    <th width="250px">狀態</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">2024年7月</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-july-24.md">2024年7月</a></td>
    <td>2024年7月26日</td>
-   <td>進行中</td>
+   <td>已送出</td>
   </tr>
   <tr> 
-   <td>2024年10月</td>
+   <td><a href="/help/marketo/release-notes/current.md">2024年10月</td>
    <td>2024年10月4日</td>
-   <td>依排程</td>
+   <td>進行中</td>
   </tr>
   <tr> 
    <td>2025年1月</td>
