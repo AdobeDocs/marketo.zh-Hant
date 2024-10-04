@@ -4,10 +4,10 @@ title: 建立電子郵件
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 5d9cd426d939939f22b3187342ab7950a6897d25
+source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 4%
+source-wordcount: '330'
+ht-degree: 3%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 4%
 
    熒幕擷圖???
 
-列出每個步驟，直到您GETMARKETO???
+   列出每個步驟，直到您GETMARKETO???
 
 1. 在「我的Marketo」中，選取&#x200B;**設計工作室**。
 
@@ -37,4 +37,104 @@ ht-degree: 4%
 
    ![](assets/create-an-email-4.png)
 
-您的電子郵件已建立。 現在該設計它了。 連結
+## 設計您的電子郵件 {#design-your-email}
+
+1. 在您剛建立的電子郵件中，按一下&#x200B;**+新增電子郵件內容**。
+
+   熒幕擷圖
+
+1. 「建立您的電子郵件」頁面隨即載入。 您可從下列幾個選項中選擇：
+
+* [從頭開始設計](#design-from-scratch)
+
+* [匯入您自己的HTML](#import-html)
+
+* [選取現有的範本](#choose-a-template) （我們的其中一個範例或您已儲存的範本）
+
+### 從頭開始設計 {#design-from-scratch}
+
+簡短介紹
+
+1. 文字
+
+   熒幕擷圖
+
+1. 文字
+
+   熒幕擷圖
+
+1. 文字
+
+   熒幕擷圖
+
+### 匯入HTML {#import-html}
+
+您可以匯入現有的HTML內容來設計您的電子郵件範本。 內容可以是：
+
+* 包含內建樣式表的HTML檔案
+
+* 包含HTML檔案、樣式表(.css)和影像的.zip檔案
+
+>[!NOTE]
+>
+>.zip檔案結構沒有限制。 不過，參照必須是相對參照，而且符合.zip資料夾的樹狀結構。
+
+1. 在[設計範本]頁面中，選取&#x200B;**匯入HTML**。
+
+   熒幕擷圖
+
+1. 拖放所需的HTML或.zip檔案，然後按一下&#x200B;**匯入**。
+
+   熒幕擷圖
+
+```
+THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
+
+Once the HTML content is uploaded, your content will be in Compatibility mode.
+
+In this mode, you can only personalize your text, add links, or include assets to your content.
+```
+
+### 選擇範本 {#choose-a-template}
+
+有兩種範本可供選擇。
+
+* 範例範本：Marketo Engage提供四個立即可用的電子郵件範本。
+
+* 儲存的範本：這些是您使用「範本」功能表從頭建立的範本，或是您建立並選擇儲存為範本的電子郵件。
+
+>[!BEGINTABS]
+
+>[!TAB 範例範本]
+
+從四個現成可用的範本中選擇一個，為您的電子郵件設計搶先一步。
+
+1. 在「建立您的電子郵件」頁面中，選取「範例範本」。
+
+   熒幕擷圖
+
+1. 選取所需的範本。
+
+   熒幕擷圖
+
+1. 預覽隨即顯示。 若要確認您的選擇，請按一下&#x200B;**使用此範本**。
+
+   熒幕擷圖
+
+>[!TAB 儲存的範本]
+
+選擇您先前建立的範本之一。
+
+1. 在「建立您的電子郵件」頁面中，選取「儲存的範本」。
+
+   熒幕擷圖
+
+1. 選取所需的範本。
+
+   熒幕擷圖
+
+1. 預覽隨即顯示。 若要確認您的選擇，請按一下&#x200B;**使用此範本**。
+
+   熒幕擷圖
+
+>[!ENDTABS]
