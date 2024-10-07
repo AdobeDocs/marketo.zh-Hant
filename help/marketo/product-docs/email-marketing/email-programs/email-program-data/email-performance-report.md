@@ -4,9 +4,9 @@ description: 電子郵件效能報表 — Marketo檔案 — 產品檔案
 title: 以電子郵件傳送效能報表
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 2cfb8381d3207efb00b7d4751e21244a188a411e
+source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -91,5 +91,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [在行銷活動電子郵件報告中篩選Assets](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
->* [電子郵件連結效能報告](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+>* [在行銷活動電子郵件報告中篩選Assets](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md){target="_blank"}
+>* [篩選電子郵件效能報告中已刪除/合併的記錄](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md){target="_blank"}
+>* [電子郵件連結效能報告](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md){target="_blank"}

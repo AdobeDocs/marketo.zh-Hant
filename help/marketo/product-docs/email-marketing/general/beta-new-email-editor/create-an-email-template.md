@@ -4,9 +4,9 @@ title: 建立電子郵件範本
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '347'
 ht-degree: 2%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 2%
 >
 >本文僅供新Marketo Engage電子郵件編輯器已關閉測試版的成員使用。 請勿散播。
 
-1. 登入[Adobe Experience Cloud](https://experiencecloud.adobe.com/)。
-
-   熒幕擷圖
-
-列出GETMARKETO之前的每個步驟？
+1. 透過[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}登入Marketo Engage。
 
 1. 在「我的Marketo」中，選取&#x200B;**設計工作室**。
 
@@ -45,13 +41,9 @@ ht-degree: 2%
 
 在「設計您的範本」頁面中，您可以從幾個選項中進行選擇。 從頭開始設計、匯入您自己的HTML，或選取現有的範本（我們的其中一個範例或您已儲存的範本）。
 
->[!BEGINTABS]
-
->[!TAB 從頭開始設計]
+### 從頭開始設計 {#design-from-scratch}
 
 透過簡單的拖放動作新增和移動結構元素來定義您的內容。
-
-## 從頭開始設計 {#design-from-scratch}
 
 1. 在[設計範本]頁面中，選取&#x200B;**從頭開始設計**。
 
@@ -77,7 +69,7 @@ ht-degree: 2%
 >
 >.zip檔案結構沒有限制。 不過，參照必須是相對參照，而且符合.zip資料夾的樹狀結構。
 
-## 匯入您的HTML {#import-your-html}
+### 匯入您的HTML {#import-your-html}
 
 1. 在[設計範本]頁面中，選取&#x200B;**匯入HTML**。
 
@@ -99,9 +91,19 @@ Once the HTML content is uploaded, your content will be in Compatibility mode.
 In this mode, you can only personalize your text, add links, or include assets to your content.
 ```
 
-在測試帳戶中：設定/樣式/HTML轉換器
+### 選擇範本 {#choose-a-template}
+
+有兩種範本可供選擇。
+
+* 範例範本：Marketo Engage提供四個立即可用的電子郵件範本。
+
+* 儲存的範本：這些是您使用「範本」功能表從頭建立的範本，或是您建立並選擇儲存為範本的電子郵件。
+
+>[!BEGINTABS]
 
 >[!TAB 範例範本]
+
+從四個現成可用的範本中選擇一個，為您的電子郵件範本設計開一個好頭。
 
 1. 選取範例範本。
 

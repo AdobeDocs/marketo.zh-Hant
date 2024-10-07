@@ -4,9 +4,9 @@ title: 建立電子郵件
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '357'
 ht-degree: 3%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 3%
 >
 >本文僅供新Marketo Engage電子郵件編輯器已關閉測試版的成員使用。 請勿散播。
 
-1. 登入[Adobe Experience Cloud](https://experiencecloud.adobe.com/)。
-
-   熒幕擷圖???
-
-   列出每個步驟，直到您GETMARKETO???
+1. 透過[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}登入Marketo Engage。
 
 1. 在「我的Marketo」中，選取&#x200B;**設計工作室**。
 
