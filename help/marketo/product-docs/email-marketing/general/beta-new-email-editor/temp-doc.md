@@ -4,7 +4,7 @@ title: 臨時檔案
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
 source-wordcount: '677'
 ht-degree: 3%
@@ -39,6 +39,7 @@ ht-degree: 3%
 按一下「啟用條件內容」以新增動態內容，並根據條件規則將內容調整至目標設定檔。
 從左窗格按一下「連結」標籤，以顯示將追蹤之內容的所有URL。 您可以修改其追蹤型別或標籤，並視需要新增標籤。
 如有需要，您可以按一下進階功能表中的「切換至程式碼編輯器」，進一步個人化您的電子郵件。 這可讓您編輯電子郵件原始碼，例如新增追蹤或自訂HTML標籤。
+
 注意
 切換到程式碼編輯器後，您無法返回此電子郵件的視覺化設計工具。
 

@@ -4,16 +4,20 @@ title: 建立電子郵件範本
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 3%
+source-wordcount: '302'
+ht-degree: 2%
 
 ---
 
 # 建立電子郵件範本 {#create-an-email-template}
 
 在這裡介紹文字。
+
+>[!IMPORTANT]
+>
+>本文僅供新Marketo Engage電子郵件編輯器已關閉測試版的成員使用。 請勿散播。
 
 1. 登入[Adobe Experience Cloud](https://experiencecloud.adobe.com/)。
 
@@ -118,3 +122,7 @@ In this mode, you can only personalize your text, add links, or include assets t
    熒幕擷圖
 
 >[!ENDTABS]
+
+>[!MORELIKETHIS]
+>
+>[如何存取電子郵件範本](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}
