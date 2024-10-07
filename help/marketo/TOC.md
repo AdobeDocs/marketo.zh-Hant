@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
+source-git-commit: ddba357e6e0e3d451ee4b054b18eaf1ed29055b6
 workflow-type: tm+mt
-source-wordcount: '9370'
+source-wordcount: '9379'
 ht-degree: 0%
 
 ---
@@ -1737,6 +1737,7 @@ ht-degree: 0%
             + [篩選促銷活動報告](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [在行銷活動電子郵件報告中篩選Assets](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [在電子郵件報告中篩選Assets](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+            + [篩選電子郵件效能報告中刪除/合併的記錄](product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md)
             + [依屬性群組人員報表](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
             + [跨工作區的報表電子郵件、行銷活動績效](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
             + [跨工作區共用模型](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
