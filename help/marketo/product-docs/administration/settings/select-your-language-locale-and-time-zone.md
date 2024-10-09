@@ -4,20 +4,20 @@ description: 選取您的語言、地區設定和時區 — Marketo檔案 — �
 title: 選取您的語言、地區設定和時區
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 5%
+source-wordcount: '215'
+ht-degree: 4%
 
 ---
 
 # 選取您的語言、地區設定和時區 {#select-your-language-locale-and-time-zone}
 
-英文不是您的母語？ 別擔心，我們已為您解決問題。 以下說明如何變更您的Marketo Engage執行個體的語言、地區設定和時區。
+英文不是您的母語？ 別擔心，我們已為您解決問題。 以下說明如何變更Marketo Engage訂閱的語言、地區設定和時區。
 
 >[!IMPORTANT]
 >
->本文僅適用於&#x200B;_不_&#x200B;使用[具有Adobe識別碼](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的Marketo的使用者。 若您這麼做，便可在您的[Adobe帳戶設定檔](https://account.adobe.com/tw/profile){target="_blank"}中存取下列設定。
+>如果您的Marketo Engage訂閱已移轉至[具有Adobe識別碼](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的Marketo，則本文中只有[時區](#change-your-time-zone)適用於您。 若要變更您的語言和/或地區設定，這些設定必須在您的[Adobe帳戶設定檔](https://account.adobe.com/tw/profile){target="_blank"}中存取。
 
 ## 支援的語言 {#supported-languages}
 
@@ -29,6 +29,8 @@ ht-degree: 5%
 * 西班牙文
 
 ## 變更使用者語言、地區設定和時區 {#change-user-language-locale-and-time-zone}
+
+請依照下列步驟前往正確的區域，然後選擇要變更的設定。
 
 1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 
@@ -42,7 +44,9 @@ ht-degree: 5%
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
-1. 變更您的&#x200B;**[!UICONTROL 語言]**。
+### 變更您的語言 {#change-your-language}
+
+1. 按一下&#x200B;**[!UICONTROL 語言]**&#x200B;下拉式清單，然後進行選取。
 
    ![](assets/select-your-language-locale-and-time-zone-4.png)
 
@@ -50,18 +54,22 @@ ht-degree: 5%
    >
    >您也可以選擇按一下登入頁面頂端的語言下拉式清單，只變更您的語言。
 
-1. 變更您的&#x200B;**[!UICONTROL 地區設定]**。
+### 變更您的地區設定 {#change-your-locale}
+
+1. 按一下&#x200B;**[!UICONTROL 地區設定]**&#x200B;下拉式清單，然後進行選取。
 
    ![](assets/select-your-language-locale-and-time-zone-5.png)
 
-1. 變更您的&#x200B;**[!UICONTROL 時區]**。
+### 變更您的時區 {#change-your-time-zone}
+
+1. 按一下&#x200B;**[!UICONTROL 時區]**&#x200B;下拉式清單，並選取專案。
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 
-1. 按一下&#x200B;**[!UICONTROL 儲存]**。
+## 儲存 {#save}
+
+1. 變更所需的設定後，只要按一下[儲存]。****
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 
-做得好！ 您的瀏覽器將會重新整理，而且您應該會看到變更反映出來。
-
-![](assets/select-your-language-locale-and-time-zone-8.png)
+完成了！您的瀏覽器將會重新整理，而且您應該會看到變更反映出來。

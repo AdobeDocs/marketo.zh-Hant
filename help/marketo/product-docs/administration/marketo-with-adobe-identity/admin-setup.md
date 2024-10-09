@@ -3,16 +3,16 @@ description: 管理員設定 — Marketo檔案 — 產品檔案
 title: 管理員設定
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 0%
+source-wordcount: '222'
+ht-degree: 2%
 
 ---
 
 # 管理員設定 {#admin-setup}
 
-新增為Adobe系統管理員以Marketo EngageAdobe組織後，您需要執行一些步驟才能完成初始設定。
+在您新增為Adobe系統管理員以Marketo EngageAdobe組織後，您需要執行一些步驟才能完成初始設定。
 
 ## 初始設定 {#initial-setup}
 
@@ -44,9 +44,11 @@ ht-degree: 0%
 
    ![](assets/admin-setup-5.png)
 
-1. 提供產品設定檔名稱（顯示名稱和說明是選擇性的），然後按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 提供產品設定檔名稱（顯示名稱和說明是選擇性的），然後按一下&#x200B;**[!UICONTROL 下一步]**。
 
    ![](assets/admin-setup-6.png)
+
+1. 不需要選取任何服務。 按一下&#x200B;**[!UICONTROL 儲存]**。
 
 >[!NOTE]
 >
