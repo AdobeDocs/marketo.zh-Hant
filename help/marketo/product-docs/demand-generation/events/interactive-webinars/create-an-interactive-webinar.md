@@ -3,9 +3,9 @@ description: 建立互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 建立互動式網路研討會
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -63,6 +63,10 @@ ht-degree: 0%
 >建議將兩個連續事件隔開30分鐘（除非授權支援並行網路研討會）作為緩衝，以防前一個網路研討會執行時間超過其排程時間。
 
 現在是[設計您的網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}的時候。
+
+>[!IMPORTANT]
+>
+>強烈建議您先設計網路研討會&#x200B;_，再新增簡報者或共同主機_。
 
 >[!MORELIKETHIS]
 >

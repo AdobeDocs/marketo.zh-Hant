@@ -3,16 +3,20 @@ description: 新增網路研討會團隊 — Marketo檔案 — 產品檔案
 title: 新增網路研討會團隊
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 1%
+source-wordcount: '411'
+ht-degree: 0%
 
 ---
 
 # 新增網路研討會團隊 {#add-a-webinar-team}
 
 互動式網路研討會團隊包含所有有助於在Adobe Connect中成功舉辦網路研討會的角色。 這包括主持人和共同主機。
+
+>[!IMPORTANT]
+>
+>強烈建議您[設計您的網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} __&#x200B;之前，新增簡報者或共同主持人。
 
 >[!NOTE]
 >
@@ -22,7 +26,9 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[建立互動式網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>* [建立互動式網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
+>
+>* [設計您的互動式網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
 
 ## 新增共同主機 {#add-a-co-host}
 
@@ -70,4 +76,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[建立互動式網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>[建立互動式網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
