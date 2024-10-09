@@ -3,9 +3,9 @@ description: AdobeIdentity Management常見問題集 — Marketo檔案 — 產�
 title: AdobeIdentity Management常見問題集
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 384484aaa9f4c765f5f1aaee436ae783b265e069
+source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
 workflow-type: tm+mt
-source-wordcount: '1342'
+source-wordcount: '1456'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ AdobeIdentity Management系統包含三個元件。
 
 **現有的Marketo Engage訂閱何時會與IMS整合？**
 
-現有的Marketo訂閱將在今年晚些時候移轉至Adobe的Identity Management系統。 Marketo支援將無法提供有關Adobe IMS移轉的任何更新。 Adobe客戶團隊將在未來幾個月提出預估時間表。
+現有的Marketo Engage訂閱目前正在任何銷售活動上移轉至Adobe IMS，包括續約、重新合約活動及/或增補專案。 自2024年10月起，支援銷售活動以外的移轉。
 
 **移轉之後，Marketo EngageURL是否會維持不變？**
 
@@ -50,7 +50,13 @@ AdobeIdentity Management系統包含三個元件。
 
 **如果我們已與IMS整合，該和誰聯絡以尋求支援？**
 
-您應遵循標準程式來聯絡[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
+* 使用者前移轉： [行銷國家社群](https://nation.marketo.com/t5/support/ct-p/Support)或電子郵件`customercare@marketo.com`中的檔案支援案例。
+
+* 使用者後移轉： [行銷國家社群](https://nation.marketo.com/t5/support/ct-p/Support)或電子郵件`customercare@marketo.com`中的檔案支援案例。
+
+* 支援後遷移完成：產品支援管理員可以透過Experience League支援入口網站提出案例。
+
+如果您擁有最終成功，則可存取Admin Console移轉白手套服務。 請聯絡Adobe客戶團隊（您的客戶經理）以尋求協助。
 
 **如果我使用Adobe識別來存取其他Adobe應用程式，可以使用該識別來存取Marketo嗎？**
 
@@ -106,13 +112,13 @@ Adobe IMS目前不支援Marketo的裝置授權功能之類的功能。
 
 **如果我移轉至Adobe識別時，使用者登入與電子郵件不符，該怎麼辦？**
 
-目前登入與電子郵件地址不同的Marketo使用者，在移轉至Adobe身分識別後，將不再使用該認證登入。 Adobe身分一律使用使用者的電子郵件地址進行驗證。
+目前的Marketo Engage使用者若是登入與電子郵件地址不同，在移轉至Adobe身分識別後，將不再使用該認證登入。 Adobe身分一律使用使用者的電子郵件地址進行驗證。 您可以在[account.adobe.com](https://account.adobe.com){target="_blank"}更新Adobe身分識別電子郵件地址。
 
 **如果我的訂閱使用IP限制設定，則Adobe識別移轉後會發生什麼事？**
 
 當訂閱上線至Adobe身分時，IP限制設定不會移轉至Adobe Admin Console。 Marketo的IP限制設定包括僅允許從特定IP位址存取，以及封鎖特定IP位址的存取。 目前，Adobe Identity Management系統不支援IP限制功能。
 
-Adobe Identity Management System將於2024年推出一項功能，僅支援允許特定IP位址，以支援目前使用此功能的Marketo使用者的轉換。 目前使用此功能的使用者在功能發行前不會進行使用者移轉。 交付功能後，使用者將會收到排程其移轉的通知。 我們會在有需要時提供有關功能的詳細資訊。
+Adobe Identity Management System將於2025年初推出一項功能，僅支援允許特定IP位址，並支援目前使用此功能的Marketo使用者的轉換。 目前使用此功能的使用者在功能發行前不會進行使用者移轉。 交付功能後，使用者將會收到排程其移轉的通知。 我們會在有需要時提供有關功能的詳細資訊。
 
 目前使用IP限制以封鎖特定位址存取的使用者，在移轉至Adobe身分識別後將無法再使用此功能，因為AdobeIdentity Management系統不支援此功能。
 
@@ -123,3 +129,9 @@ Adobe Identity Management System將於2024年推出一項功能，僅支援允�
 **我有多個訂閱，但並非所有訂閱都啟用單一登入。 Adobe身分移轉之後會發生什麼事？**
 
 當訂閱上架到Adobe身分時，單一登入(SSO)會在Adobe組織層級設定。 這表示SSO適用於Adobe組織中的所有產品執行個體。SSO設定後，將套用至該Adobe組織中的所有Marketo執行個體。之前，Marketo在執行個體層級支援此設定。 Adobe Identity Management系統不支援此功能。
+
+**我現在必須瀏覽到Experience Cloud才能存取Marketo Engage。 有辦法簡化此流程嗎？**
+
+可以。您可以在按一下Marketo Engage執行個體進入頁面上的&#x200B;**啟動**&#x200B;按鈕後，建立啟動連結的瀏覽器書籤，以略過該頁面。
+
+![](assets/faq-1.png)

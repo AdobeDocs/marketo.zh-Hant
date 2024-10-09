@@ -3,9 +3,9 @@ description: 移轉至Adobe身分 — Marketo檔案 — 產品檔案
 title: 移轉至Adobe身分
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
+source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
 workflow-type: tm+mt
-source-wordcount: '2252'
+source-wordcount: '2300'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,12 @@ Marketo自助使用者移轉控制檯工具包含兩個標籤。
 
 * **移轉狀態標籤**
 * **使用者移轉索引標籤**
+
+完成自助服務移轉需要執行3個主要步驟。
+
+1. 移轉所有需要的合格電子郵件地址驗證使用者（[使用者移轉]索引標籤）
+1. 略過所有不符合資格的使用者及任何不符合資格的使用者（使用者移轉標籤）
+1. 完成步驟1和2後，完成移轉確認（「移轉狀態」標籤）
 
 ### 移轉狀態標籤 {#migration-status-tab}
 
