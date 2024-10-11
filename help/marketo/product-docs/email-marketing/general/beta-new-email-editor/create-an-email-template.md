@@ -4,9 +4,9 @@ title: 建立電子郵件範本
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '432'
 ht-degree: 2%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 2%
 >[!IMPORTANT]
 >
 >本文僅供新Marketo Engage電子郵件編輯器已關閉測試版的成員使用。 請勿散播。
+
+>[!NOTE]
+>
+>新電子郵件編輯器中的電子郵件範本只能用於在新電子郵件編輯器中建立電子郵件。 舊版電子郵件編輯器中無法參照這些引數。
 
 1. 透過[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}登入Marketo Engage。
 
@@ -79,17 +83,19 @@ ht-degree: 2%
 
    熒幕擷圖
 
+   >[!NOTE]
+   >
+   >上傳HTML內容時，您的內容將處於相容模式。 在此模式中，您只能個人化您的文字、新增連結或包含資產至您的內容。
+
+1. 若要善用電子郵件Designer內容元件，請存取HTML轉換器標籤，然後按一下「轉換」。
+
+   熒幕擷圖
+
    >[!CAUTION]
    >
    >使用`<table>`標籤做為HTML檔案中的第一個圖層可能會造成樣式遺失，包括上層圖層標籤中的背景和寬度設定。
 
-```
-THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
-
-Once the HTML content is uploaded, your content will be in Compatibility mode.
-
-In this mode, you can only personalize your text, add links, or include assets to your content.
-```
+您現在可以根據需要使用視覺化電子郵件編輯器個人化匯入的檔案。
 
 ### 選擇範本 {#choose-a-template}
 
@@ -124,7 +130,3 @@ In this mode, you can only personalize your text, add links, or include assets t
    熒幕擷圖
 
 >[!ENDTABS]
-
->[!MORELIKETHIS]
->
->[如何存取電子郵件範本](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}

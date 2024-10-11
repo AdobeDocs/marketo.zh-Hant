@@ -4,10 +4,10 @@ title: 建立電子郵件
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 3%
+source-wordcount: '1063'
+ht-degree: 0%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 3%
 
 就是這樣。 現在該設計您的電子郵件了。
 
-## 設計您的電子郵件 {#design-your-email}
+## 選擇您的內容型別 {#choose-your-content-type}
 
 1. 在您剛建立的電子郵件中，按一下&#x200B;**+新增電子郵件內容**。
 
@@ -47,27 +47,25 @@ ht-degree: 3%
 
 1. 「建立您的電子郵件」頁面隨即載入。 您可從下列幾個選項中選擇：
 
-* [從頭開始設計](#design-from-scratch)
+* [使用電子郵件編輯器從草稿開始設計](#design-from-scratch)
 
-* [匯入您自己的HTML](#import-html)
+* [透過HTML或zip檔案匯入您自己的HTML](#import-html)
 
 * [選取現有的範本](#choose-a-template) （我們的其中一個範例或您已儲存的範本）
 
 ### 從頭開始設計 {#design-from-scratch}
 
-簡短介紹
+在電子郵件編輯器中從頭開始時，請使用以下選項來定義您的內容。
 
-1. 文字
+1. 在[設計範本首頁]中，選取&#x200B;**從頭開始設計**。
 
-   熒幕擷圖
+新增結構和內容至您的電子郵件。
 
-1. 文字
+新增影像。
 
-   熒幕擷圖
+個人化您的內容。
 
-1. 文字
-
-   熒幕擷圖
+檢閱和更新連結。
 
 ### 匯入HTML {#import-html}
 
@@ -89,13 +87,11 @@ ht-degree: 3%
 
    熒幕擷圖
 
-```
-THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
+>[!NOTE]
+>
+>上傳HTML內容時，您的內容將處於相容模式。 在此模式中，您只能個人化您的文字、新增連結或包含資產至您的內容。
 
-Once the HTML content is uploaded, your content will be in Compatibility mode.
-
-In this mode, you can only personalize your text, add links, or include assets to your content.
-```
+您可以使用[電子郵件編輯器工具](#add-structure-and-content)對匯入的內容進行所需的變更。
 
 ### 選擇範本 {#choose-a-template}
 
@@ -109,9 +105,9 @@ In this mode, you can only personalize your text, add links, or include assets t
 
 >[!TAB 範例範本]
 
-從四個現成可用的範本中選擇一個，為您的電子郵件設計搶先一步。
+選擇我們的其中一個現成範本，為您的電子郵件設計搶先一步。
 
-1. 在「建立您的電子郵件」頁面中，選取「範例範本」。
+1. 在[建立您的電子郵件]頁面中，選取&#x200B;**範本範例**。
 
    熒幕擷圖
 
@@ -141,6 +137,97 @@ In this mode, you can only personalize your text, add links, or include assets t
 
 >[!ENDTABS]
 
->[!MORELIKETHIS]
+## 新增結構和內容 {#add-structure-and-content}
+
+1. 若要開始建立或修改內容，請從「結構」將專案拖放到畫布上。 在右側的窗格中編輯其設定。
+
+   >[!TIP]
+   >
+   >選取n：n欄元件以定義您選擇的欄數（介於3到10之間）。 您也可以移動欄下方的箭頭來定義每欄的寬度。
+
+   熒幕擷圖
+
+   >[!NOTE]
+   >
+   >每個欄大小不能小於結構元件總寬度的10%。 只能移除空白欄。
+
+1. 從「內容」區段，拖曳至所需的專案上，並將它們拖放至一或多個結構元件中。
+
+   熒幕擷圖
+
+1. 您可以透過「設定」或「樣式」標籤自訂每個元件。 變更字型、文字樣式、邊界等。
+
+熒幕擷圖
+
+### 新增Assets {#add-assets}
+
+從資產選擇器中，您可以直接選取儲存在Assets資料庫中的資產。 連按兩下包含資產的資料夾。 將其拖放至結構元件中。
+
+插入個人化欄位，從設定檔屬性、對象成員資格、內容屬性等自訂內容。
+
+按一下「啟用條件內容」以新增動態內容，並根據條件規則將內容調整至目標設定檔。
+
+從左窗格按一下「連結」標籤，以顯示將追蹤之內容的所有URL。 您可以修改其追蹤型別或標籤，並視需要新增標籤。
+
+如有需要，您可以按一下進階功能表中的「切換至程式碼編輯器」，進一步個人化您的電子郵件。 這可讓您編輯電子郵件原始碼，例如新增追蹤或自訂HTML標籤。
+
+注意
+切換到程式碼編輯器後，您無法返回此電子郵件的視覺化設計工具。
+
+內容準備就緒後，按一下「模擬內容」按鈕以檢查呈現。 您可以選擇案頭或行動檢視。
+
+準備就緒後，按一下儲存
+
+
+
+
+
+## 檢查警報 {#check-alerts}
+
+當您設計內容時，如果關鍵設定遺失，警示會顯示在介面（畫面右上方）中。
+
+警報有兩種型別：
+
+**個警告**
+
+警告會參照建議和最佳實務，例如：
+
+* **電子郵件內文中不存在選擇退出的連結**：雖然取消訂閱連結是必要的，但最佳實務是將它們新增至您的電子郵件內文中。
+
+>[!NOTE]
 >
->[如何存取電子郵件](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}
+>[營運電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) （非行銷）不需要新增取消訂閱選項。
+
+* **HTML的文字版本是空的**：您必須為無法顯示HTML內容時定義電子郵件內文的文字版本。
+
+* **電子郵件內文中出現空白連結**：驗證電子郵件中的所有連結是否正確。
+
+* **電子郵件大小已超過100KB的限制**：若要取得最佳傳遞，請確定您的電子郵件大小不超過100KB。
+
+**個錯誤**
+
+在解決錯誤之前，您無法傳送或測試電子郵件：
+
+* **主旨列遺失**：需要電子郵件主旨列。
+
+* **郵件的電子郵件版本是空的**：尚未設定電子郵件內容時，會發生此錯誤。
+
+## 測試您的電子郵件
+
+定義訊息內容後，您可以使用測試設定檔來預覽內容、傳送校樣，以及控制內容在熱門的案頭、行動及網頁型使用者端中的轉譯方式。 如果您已插入個人化內容，您可以使用測試設定檔資料檢查其在訊息中的顯示方式。
+
+若要預覽您的電子郵件內容，請按一下[模擬內容] **，然後新增測試設定檔，以使用測試設定檔資料檢查您的訊息。**
+
+熒幕擷圖
+
+## 參考電子郵件 {#reference-an-email}
+
+在新編輯器中建立電子郵件後，您可以在「智慧行銷活動」或「智慧列示」中參考它，就像您在處理任何其他電子郵件時一樣。
+
+* 依照一般步驟](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，由[在智慧清單中參照它。
+
+* 按照一般步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，由[在Smart Campaign中參考它。
+
+>[!NOTE]
+>
+>只能參考已儲存的電子郵件。 新電子郵件編輯器中沒有「已核准」狀態。

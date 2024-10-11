@@ -4,10 +4,10 @@ title: 概觀
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 1%
+source-wordcount: '87'
+ht-degree: 2%
 
 ---
 
@@ -25,8 +25,6 @@ ht-degree: 1%
 
 * [如何存取電子郵件](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}：瞭解如何從Marketo Engage存取您的新編輯器電子郵件。
 
+將^^^新增到主要檔案可能會更好
+
 * [建立電子郵件範本](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}：瞭解如何在新的編輯器中建立和設計電子郵件範本。
-
-* [如何存取電子郵件範本](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}：瞭解如何從Marketo Engage存取您的新編輯器電子郵件。
-
-需要這^^^最後一份檔案？

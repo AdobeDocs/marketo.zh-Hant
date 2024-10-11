@@ -4,30 +4,22 @@ title: 如何存取電子郵件
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '80'
 ht-degree: 10%
 
 ---
 
 # 如何存取電子郵件 {#how-to-access-an-email}
 
-在這裡介紹文字。
+在新編輯器中建立電子郵件後，您就可以在「智慧行銷活動」或「智慧列示」中參考該電子郵件。
 
 >[!IMPORTANT]
 >
 >本文僅供新Marketo Engage電子郵件編輯器已關閉測試版的成員使用。 請勿散播。
 
-1. 登入[Adobe Experience Cloud](https://experiencecloud.adobe.com/)。
-
-   熒幕擷圖
-
-   列出GETMARKETO之前的每個步驟？
-
-1. 在「我的Marketo」中，選取「Design Studio」。
-
-   熒幕擷圖
+1. 透過[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}登入Marketo Engage。
 
 1. 文字
 
