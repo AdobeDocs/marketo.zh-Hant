@@ -4,9 +4,9 @@ title: 建立電子郵件
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1064'
 ht-degree: 0%
 
 ---
@@ -222,7 +222,7 @@ ht-degree: 0%
 
 ## 參考電子郵件 {#reference-an-email}
 
-在新編輯器中建立電子郵件後，您可以在「智慧行銷活動」或「智慧列示」中參考它，就像您在處理任何其他電子郵件時一樣。
+在新編輯器中建立電子郵件後，您可以在「智慧行銷活動」和/或「智慧列示」中參考該電子郵件，操作方法與使用任何其他電子郵件時相同。
 
 * 依照一般步驟](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，由[在智慧清單中參照它。
 
