@@ -1,0 +1,324 @@
+---
+description: 電子郵件製作 — Marketo檔案 — 產品檔案
+title: 電子郵件製作
+hide: true
+hidefromtoc: true
+feature: Email Editor
+source-git-commit: 482c2955bbf3ad10d244ebc5e6b6d6a37d82c217
+workflow-type: tm+mt
+source-wordcount: '1212'
+ht-degree: 1%
+
+---
+
+# 電子郵件製作 {#email-authoring}
+
+在這裡介紹文字。
+
+>[!IMPORTANT]
+>
+>本文僅適用新Marketo Engage電子郵件編輯器測試版的成員。 請勿散播。
+
+## 建立電子郵件 {#create-an-email}
+
+1. 透過[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}登入Marketo Engage。
+
+1. 在「我的Marketo」中，選取&#x200B;**設計工作室**。
+
+   ![](assets/create-an-email-1.png)
+
+1. 在樹狀結構中，選取&#x200B;**電子郵件（新編輯器）**。
+
+   ![](assets/create-an-email-2.png)
+
+1. 按一下&#x200B;**建立電子郵件**&#x200B;按鈕。
+
+   ![](assets/create-an-email-3.png)
+
+1. 輸入電子郵件名稱和主旨列。 按一下&#x200B;**建立**。
+
+   ![](assets/create-an-email-4.png)
+
+就是這樣。 現在該設計您的電子郵件了。
+
+## 選擇您的內容型別 {#choose-your-content-type}
+
+1. 在您剛建立的電子郵件中，按一下&#x200B;**+新增電子郵件內容**。
+
+   熒幕擷圖
+
+1. _建立您的電子郵件_&#x200B;頁面已載入。 您可從下列幾個選項中選擇：
+
+* [使用視覺電子郵件編輯器從草稿開始設計](#design-from-scratch)
+
+* [透過HTML或zip檔案匯入您自己的HTML](#import-html)
+
+* [選取現有的範本](#choose-a-template) （我們的其中一個範例或您已儲存的範本）
+
+### 從頭開始設計 {#design-from-scratch}
+
+在電子郵件編輯器中從頭開始時，請使用以下選項來定義您的內容。
+
+1. 在&#x200B;_建立您的電子郵件_&#x200B;頁面中，選取&#x200B;**從草稿開始設計**。
+
+1. 將[結構和內容](#add-structure-and-content)新增至您的電子郵件。
+
+1. 新增[影像](#add-assets)。
+
+1. [個人化](#personalize-content)您的內容。
+
+1. 檢閱連結並[編輯追蹤](#edit-url-tracking)。
+
+### 匯入HTML {#import-html}
+
+您可以匯入現有的HTML內容來設計電子郵件。 內容可以是：
+
+* 包含內建樣式表的HTML檔案
+
+* 包含HTML檔案、樣式表(.css)和影像的.zip檔案
+
+>[!NOTE]
+>
+>.zip檔案結構沒有限制。 不過，參照必須是相對參照，而且符合.zip資料夾的樹狀結構。
+
+1. 在[設計範本]頁面中，選取&#x200B;**匯入HTML**。
+
+   熒幕擷圖
+
+1. 拖放所需的HTML或.zip檔案，然後按一下&#x200B;**匯入**。
+
+   熒幕擷圖
+
+>[!NOTE]
+>
+>上傳HTML內容時，您的內容將處於相容模式。 在此模式中，您只能個人化您的文字、新增連結或新增資產至您的內容。
+
+您可以使用[視覺化電子郵件編輯器工具](#add-structure-and-content)對匯入的內容進行所需的變更。
+
+### 選擇範本 {#choose-a-template}
+
+有兩種範本可供選擇。
+
+* 範例範本：Marketo Engage提供四個立即可用的電子郵件範本。
+
+* 儲存的範本：這些是您使用「範本」功能表從頭建立的範本，或是您建立並選擇儲存為範本的電子郵件。
+
+>[!BEGINTABS]
+
+>[!TAB 範例範本]
+
+選擇我們的其中一個現成範本，為您的電子郵件設計搶先一步。
+
+1. 在[建立您的電子郵件]頁面中，選取&#x200B;**範本範例**。
+
+   熒幕擷圖
+
+1. 選取所需的範本。
+
+   熒幕擷圖
+
+1. 預覽隨即顯示。 若要確認您的選擇，請按一下&#x200B;**使用此範本**。
+
+   熒幕擷圖
+
+>[!TAB 儲存的範本]
+
+選擇您先前建立的範本之一。
+
+1. 在[建立您的電子郵件]頁面中，選取&#x200B;**儲存的範本**。
+
+   熒幕擷圖
+
+1. 選取所需的範本。
+
+   熒幕擷圖
+
+1. 預覽隨即顯示。 若要確認您的選擇，請按一下&#x200B;**使用此範本**。
+
+   熒幕擷圖
+
+>[!ENDTABS]
+
+## 新增結構和內容 {#add-structure-and-content}
+
+1. 若要開始建立或修改內容，請從「結構」將專案拖放到畫布上。 在右側的窗格中編輯其設定。
+
+   >[!TIP]
+   >
+   >選取n：n欄元件以定義您選擇的欄數（介於3到10之間）。 您也可以移動欄下方的箭頭來定義每欄的寬度。
+
+   熒幕擷圖
+
+   >[!NOTE]
+   >
+   >每個欄大小不能小於結構元件總寬度的10%。 只能移除空白欄。
+
+1. 從「內容」區段，拖曳至所需的專案上，並將它們拖放至一或多個結構元件中。
+
+   熒幕擷圖
+
+1. 您可以透過「設定」或「樣式」標籤自訂每個元件。 變更字型、文字樣式、邊界等。
+
+熒幕擷圖
+
+### 新增Assets {#add-assets}
+
+```
+ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
+```
+
+```
+Access assets stored in the Assets library. IMAGES AND FILES ONLY?
+```
+
+1. 若要存取影像，請按一下資產選擇器圖示。
+
+   熒幕擷圖
+
+1. 將所需的影像拖放至結構元件中。
+
+   熒幕擷圖
+
+   >[!NOTE]
+   >
+   >若要取代現有的影像，請選取該影像，然後在右側的[設定]索引標籤中按一下&#x200B;**選取資產**。
+
+按一下「啟用條件內容」以新增動態內容，並根據條件規則將內容調整至目標設定檔。
+
+
+
+如有需要，您可以按一下進階功能表中的「切換至程式碼編輯器」，進一步個人化您的電子郵件。 這可讓您編輯電子郵件原始碼，例如新增追蹤或自訂HTML標籤。
+
+注意
+切換到程式碼編輯器後，您無法返回此電子郵件的視覺化設計工具。
+
+內容準備就緒後，按一下「模擬內容」按鈕以檢查呈現。 您可以選擇案頭或行動檢視。
+
+準備就緒後，按一下儲存
+
+### 圖層、設定和樣式 {#layers-settings-styles}
+
+```
+ARE THEY CALLED LAYERS OR COMPONENTS
+```
+
+開啟導覽樹狀結構以存取特定結構及其欄/元件，以進行更精細的編輯。
+
+1. 若要存取，請按一下導覽樹狀圖示。
+
+熒幕擷圖
+
+
+
+
+### 個人化內容 {#personalize-content}
+
+Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同。
+
+1. 選取文字元件，然後按一下&#x200B;**新增個人化**&#x200B;圖示。
+
+   熒幕擷圖
+
+1. 按一下所需的[權杖型別](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}。
+
+   熒幕擷圖
+
+1. 按一下+或……，將Token新增至空白區。
+
+   熒幕擷圖
+
+   >[!NOTE]
+   >
+   >「遞補文字」是預設值的新編輯器辭彙。 範例：``{{lead.First Name:default=Friend}}``
+
+1. 完成時，按一下&#x200B;**儲存**。
+
+### 編輯URL {#edit-url-tracking}
+
+有時您並不想在電子郵件中的連結上啟用Marketo追蹤URL。 當目的地頁面不支援URL引數並且可能導致連結中斷時，這項功能會很有用。
+
+1. 按一下「連結」圖示，以顯示電子郵件中的所有URL。
+
+   熒幕擷圖
+
+1. 按一下鉛筆圖示即可編輯任何所需連結的追蹤。
+
+   熒幕擷圖
+
+   ```
+   LABEL?
+   
+   TAGS?
+   ```
+
+   <table><tbody>
+     <tr>
+       <td><b>不使用mkt_tok追蹤</b></td>
+       <td>定義</td>
+     </tr>
+     <tr>
+       <td><b>使用mkt_tok追蹤</b></td>
+       <td>定義</td>
+     </tr>
+     <tr>
+       <td><b>不要追蹤</b></td>
+       <td>定義</td>
+     </tr>
+   </tbody>
+   </table>
+
+1. 完成時，按一下&#x200B;**儲存**。
+
+## 檢查警報 {#check-alerts}
+
+當您設計內容時，如果缺少關鍵設定，畫面右上方會顯示警報。
+
+警報有兩種型別：
+
+**個警告**
+
+警告會參照建議和最佳實務，例如：
+
+* **電子郵件內文中不存在選擇退出的連結**：雖然取消訂閱連結是必要的，但最佳實務是將它們新增至您的電子郵件內文中。
+
+>[!NOTE]
+>
+>[營運電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) （非行銷）不需要新增取消訂閱選項。
+
+* **HTML的文字版本是空的**：您必須為無法顯示HTML內容時定義電子郵件內文的文字版本。
+
+* **電子郵件內文中出現空白連結**：驗證電子郵件中的所有連結是否正確。
+
+* **電子郵件大小已超過100KB的限制**：若要取得最佳傳遞，請確定您的電子郵件大小不超過100KB。
+
+**個錯誤**
+
+在解決錯誤之前，您無法傳送或測試電子郵件：
+
+* **主旨列遺失**：需要電子郵件主旨列。
+
+* **郵件的電子郵件版本是空的**：尚未設定電子郵件內容時，會發生此錯誤。
+
+## 測試您的電子郵件
+
+定義訊息內容後，您可以使用測試設定檔來預覽內容、傳送校樣，以及控制內容在熱門的案頭、行動及網頁型使用者端中的轉譯方式。 如果您已插入個人化內容，您可以使用測試設定檔資料檢查其在訊息中的顯示方式。
+
+若要預覽您的電子郵件內容，請按一下[模擬內容] **，然後新增測試設定檔，以使用測試設定檔資料檢查您的訊息。**
+
+熒幕擷圖
+
+## 參考電子郵件 {#reference-an-email}
+
+在新編輯器中建立電子郵件後，您可以在「智慧行銷活動」和/或「智慧列示」中參考該電子郵件，操作方法與使用任何其他電子郵件時相同。
+
+* 依照一般步驟](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，由[在智慧清單中參照它。
+
+* 按照一般步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，由[在Smart Campaign中參考它。
+
+>[!NOTE]
+>
+>只能參考已儲存的電子郵件。 新電子郵件編輯器中沒有「已核准」狀態。
+
+>[!MORELIKETHIS]
+>
+>[電子郵件範本](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/email-templates.md){target="_blank"}：瞭解如何在新的編輯器中建立、設計和存取電子郵件範本。
