@@ -4,7 +4,7 @@ title: 電子郵件範本
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 1%
@@ -154,7 +154,7 @@ ht-degree: 1%
 ### 新增Assets {#add-assets}
 
 ```
-ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
+ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD??
 ```
 
 ```

@@ -4,16 +4,16 @@ title: 電子郵件製作
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
 workflow-type: tm+mt
-source-wordcount: '1259'
+source-wordcount: '1271'
 ht-degree: 1%
 
 ---
 
 # 電子郵件製作 {#email-authoring}
 
-在這裡介紹文字。
+瞭解如何在新Marketo Engage電子郵件Designer中建立、個人化和預覽電子郵件。
 
 >[!IMPORTANT]
 >
@@ -297,7 +297,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 * **郵件的電子郵件版本是空的**：尚未設定電子郵件內容時，會發生此錯誤。
 
-## 測試您的電子郵件
+## 測試您的電子郵件 {#test-your-email}
 
 定義訊息內容後，您可以使用測試設定檔來預覽內容、傳送校樣，以及控制內容在熱門的案頭、行動及網頁型使用者端中的轉譯方式。 如果您已插入個人化內容，您可以使用測試設定檔資料檢查其在訊息中的顯示方式。
 
