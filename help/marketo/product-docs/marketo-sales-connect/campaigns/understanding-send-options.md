@@ -4,7 +4,7 @@ description: 瞭解傳送選項 — Marketo檔案 — 產品檔案
 title: 瞭解傳送選項
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 0%
@@ -63,3 +63,4 @@ ht-degree: 0%
 **將此電子郵件繫結至前一個電子郵件**
 
 * 此傳送選項將為您前一封電子郵件的「後續追蹤」，並將前一封電子郵件內文附加至此電子郵件的底部。
+

@@ -3,7 +3,7 @@ description: 瞭解電子郵件步驟的Sales Campaign傳送選項 — Marketo�
 title: 瞭解電子郵件步驟的Sales Campaign傳送選項
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
 source-wordcount: '750'
 ht-degree: 0%
@@ -77,3 +77,4 @@ ht-degree: 0%
 >[建立促銷活動](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
 >[銷售行銷活動步驟型別和提醒任務](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
 >[銷售促銷活動設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+

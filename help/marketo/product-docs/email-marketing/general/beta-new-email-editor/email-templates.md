@@ -4,9 +4,9 @@ title: 電子郵件範本
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
-source-wordcount: '1592'
+source-wordcount: '1672'
 ht-degree: 1%
 
 ---
@@ -192,38 +192,38 @@ Access assets stored in the Assets library. IMAGES AND FILES ONLY?
 ARE THEY CALLED LAYERS OR COMPONENTS
 ```
 
-開啟導覽樹狀結構以存取特定結構及其欄/元件，以進行更精細的編輯。
+開啟導覽樹狀結構以存取特定結構及其欄/元件，以進行更精細的編輯。 若要存取，請按一下導覽樹狀圖示。
 
-1. 若要存取，請按一下導覽樹狀圖示。
+![](assets/layers-settings-styles-1.png)
 
-熒幕擷圖
+下列範例概述在由欄組成的結構元件內調整邊框間距和垂直對齊方式的步驟。
 
+1. 直接在畫布中選取結構元件中的欄，或使用左側顯示的&#x200B;_導覽樹狀結構_。
 
-下列範例概述如何在由三欄組成的結構元件內調整邊框間距和垂直對齊方式。
+1. 在欄工具列中，按一下&#x200B;_[!UICONTROL 選取欄]_&#x200B;工具，然後選擇您要編輯的工具。
 
-直接在電子郵件中選取結構元件，或使用左側選單中的「導覽」樹狀結構。
+   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL 設定]_&#x200B;和&#x200B;_[!UICONTROL 樣式]_&#x200B;索引標籤中。
 
-在工具列中按一下選取欄，然後選擇要編輯的欄。 您也可以從結構樹中選取它。
+   ![](assets/layers-settings-styles-2.png)
 
-該欄可編輯的引數會顯示在「樣式」標籤中。
+1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL 樣式]_&#x200B;索引標籤，並根據您的需求加以變更：
 
+   * 針對&#x200B;**[!UICONTROL 背景]**，視需要變更背景顏色。
 
+     清除透明背景的核取方塊。 啟用&#x200B;**[!UICONTROL 背景影像]**&#x200B;設定，以使用影像做為背景，而非純色。
 
-在「對齊」下，選取「頂端」、「中間」或「底部」。
+   * 針對&#x200B;**[!UICONTROL 對齊]**，請選取&#x200B;_上_、_中_&#x200B;或&#x200B;_下_&#x200B;圖示。
+   * 針對&#x200B;**[!UICONTROL 內距]**，定義所有邊的內距。
 
+     如果要調整內距，請選取&#x200B;**[!UICONTROL 每一邊不同的內距]**。 按一下&#x200B;_鎖定_&#x200B;圖示以中斷同步處理。
 
+   * 展開&#x200B;**[!UICONTROL 進階]**&#x200B;區段以定義資料行的內嵌樣式。
 
-在「內距」下，定義所有邊的內距。
+   ![](assets/layers-settings-styles-3.png)
 
-如果要微調內距，請選取「每一邊不同的內距」。 按一下鎖定圖示以中斷同步。
+1. 視需要重複這些步驟，以調整元件中其他欄的對齊與邊框間距。
 
-
-
-以類似方式繼續調整其他欄的對齊與邊框間距。
-
-儲存您的變更。
-
-
+1. 儲存您的變更。
 
 ### 個人化內容 {#personalize-content}
 
