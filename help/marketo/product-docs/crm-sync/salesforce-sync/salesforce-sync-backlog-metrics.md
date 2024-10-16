@@ -4,7 +4,7 @@ title: Salesforce同步處理待處理專案量度
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: 38929abef0f64762c92b153630ce75373ba7a300
+source-git-commit: 82ac7469c4210bad888ace76d3dc2fe206fd35e0
 workflow-type: tm+mt
 source-wordcount: '1047'
 ht-degree: 0%
