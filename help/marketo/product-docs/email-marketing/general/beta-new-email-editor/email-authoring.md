@@ -4,9 +4,9 @@ title: 電子郵件製作
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1474'
+source-wordcount: '1477'
 ht-degree: 1%
 
 ---
@@ -141,7 +141,7 @@ ht-degree: 1%
    >
    >選取n：n欄元件以定義您選擇的欄數（介於3到10之間）。 您也可以移動欄下方的箭頭來定義每欄的寬度。
 
-   熒幕擷圖
+   ![](assets/authoring-add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -149,11 +149,9 @@ ht-degree: 1%
 
 1. 從「內容」區段，拖曳至所需的專案上，並將它們拖放至一或多個結構元件中。
 
-   熒幕擷圖
+   ![](assets/authoring-add-structure-and-content-2.png)
 
 1. 您可以透過「設定」或「樣式」標籤自訂每個元件。 變更字型、文字樣式、邊界等。
-
-熒幕擷圖
 
 ### 新增Assets {#add-assets}
 
@@ -261,11 +259,13 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 1. 按一下「連結」圖示，以顯示電子郵件中的所有URL。
 
-   熒幕擷圖
+   ![](assets/authoring-edit-url-tracking-1.png)
 
 1. 按一下鉛筆圖示即可編輯任何所需連結的追蹤。
 
-   熒幕擷圖
+1. 按一下&#x200B;**追蹤型別**&#x200B;下拉式清單，並選取專案。
+
+   ![](assets/authoring-edit-url-tracking-2.png)
 
    ```
    LABEL?
@@ -327,7 +327,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 若要預覽您的電子郵件內容，請按一下[模擬內容] **，然後新增測試設定檔，以使用測試設定檔資料檢查您的訊息。**
 
-熒幕擷圖
+![](assets/test-your-email-1.png)
 
 ## 參考電子郵件 {#reference-an-email}
 

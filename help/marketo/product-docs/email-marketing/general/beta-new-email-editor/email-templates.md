@@ -4,9 +4,9 @@ title: 電子郵件範本
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1672'
+source-wordcount: '1728'
 ht-degree: 1%
 
 ---
@@ -149,8 +149,6 @@ ht-degree: 1%
 
 1. 您可以透過「設定」或「樣式」標籤自訂每個元件。 變更字型、文字樣式、邊界等。
 
-熒幕擷圖
-
 ### 新增Assets {#add-assets}
 
 ```
@@ -227,25 +225,29 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 ### 個人化內容 {#personalize-content}
 
-Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同。
+Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同。 以下範例概述如何使用遞補文字新增名字代號。
 
-1. 選取文字元件，然後按一下&#x200B;**新增個人化**&#x200B;圖示。
+1. 選取文字元件。 將游標放在您要顯示權杖的位置，然後按一下&#x200B;**新增個人化**&#x200B;圖示。
 
-   熒幕擷圖
+   ![](assets/personalize-content-1.png)
 
 1. 按一下所需的[權杖型別](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}。
 
-   熒幕擷圖
+   ![](assets/personalize-content-2.png)
 
-1. 按一下+或……，將Token新增至空白區。
+1. 找到所需的Token，然後按一下&#x200B;**...**&#x200B;圖示（改為按一下+圖示以新增不含遞補文字的Token）。
 
-   熒幕擷圖
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
-   >「遞補文字」是預設值的新編輯器辭彙。 範例：``{{lead.First Name:default=Friend}}``
+   >「遞補文字」是預設值的新編輯器辭彙。 範例： ``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
 
-1. 完成時，按一下&#x200B;**儲存**。
+1. 設定您的遞補文字，然後按一下[新增]。****
+
+   ![](assets/personalize-content-4.png)
+
+1. 按一下&#x200B;**儲存**。
 
 ### 編輯URL {#edit-url-tracking}
 
@@ -253,11 +255,13 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 1. 按一下「連結」圖示，以顯示電子郵件中的所有URL。
 
-   熒幕擷圖
+   ![](assets/edit-url-tracking-1.png)
 
 1. 按一下鉛筆圖示即可編輯任何所需連結的追蹤。
 
-   熒幕擷圖
+1. 按一下&#x200B;**追蹤型別**&#x200B;下拉式清單，並選取專案。
+
+   ![](assets/edit-url-tracking-2.png)
 
    ```
    LABEL?
