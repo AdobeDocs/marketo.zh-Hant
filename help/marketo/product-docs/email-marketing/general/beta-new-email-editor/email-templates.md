@@ -4,16 +4,16 @@ title: 電子郵件範本
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 28bc524ac651a2a9516888b11acb226725689869
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1411'
+source-wordcount: '1592'
 ht-degree: 1%
 
 ---
 
 # 電子郵件範本 {#email-templates}
 
-在這裡介紹文字。
+為了加速並改善設計流程，您可以建立獨立的電子郵件範本，以輕鬆重複使用自訂內容。
 
 >[!IMPORTANT]
 >
@@ -47,13 +47,13 @@ ht-degree: 1%
 
 在&#x200B;_設計您的範本_&#x200B;頁面中，您可以選擇幾個選項。 [從頭開始設計](#design-from-scratch)、[匯入您自己的HTML](#import-html)，或[選取現有的範本](#choose-a-template) （我們的範例或您已儲存的範本）。
 
+![](assets/design-your-template-1.png)
+
 ### 從頭開始設計 {#design-from-scratch}
 
 透過簡單的拖放動作新增和移動結構元素來定義您的內容。
 
 1. 在&#x200B;_設計您的範本_&#x200B;頁面中，選取&#x200B;**從頭開始設計**。
-
-   熒幕擷圖
 
 1. 新增[結構和內容](#add-structure-and-content)。
 
@@ -71,11 +71,9 @@ ht-degree: 1%
 
 1. 在&#x200B;_設計您的範本_&#x200B;頁面中，選取&#x200B;**匯入HTML**。
 
-   熒幕擷圖
+1. 拖放所需的HTML或.zip檔案（或從電腦中選取檔案），然後按一下&#x200B;**匯入**。
 
-1. 拖放所需的HTML或.zip檔案，然後按一下&#x200B;**匯入**。
-
-   熒幕擷圖
+   ![](assets/import-your-html-1.png)
 
    >[!NOTE]
    >
@@ -103,25 +101,31 @@ ht-degree: 1%
 
 >[!TAB 範例範本]
 
-從四個現成可用的範本中選擇一個，為您的電子郵件範本設計開一個好頭。
+選擇其中一個現成的範本，為您的電子郵件範本設計搶先一步。
 
-1. 選取範例範本。
+1. 範例範本標籤預設為開啟。
 
-   熒幕擷圖
+1. 選取您要使用的範本。
 
-1. 文字.
+   ![](assets/sample-templates-1.png)
 
-   熒幕擷圖
+1. 按一下&#x200B;**使用此範本**。
+
+   ![](assets/sample-templates-2.png)
+
+1. 視需要使用視覺化內容設計工具編輯內容。
 
 >[!TAB 儲存的範本]
 
-1. 選取已儲存的範本。
+1. 按一下「**儲存的範本**」索引標籤，然後選取所需的範本。
 
-   熒幕擷圖
+   ![](assets/saved-templates-1.png)
 
-1. 文字.
+1. 按一下&#x200B;**使用此範本**。
 
-   熒幕擷圖
+   ![](assets/saved-templates-2.png)
+
+1. 視需要使用視覺化內容設計工具編輯內容。
 
 >[!ENDTABS]
 
@@ -133,7 +137,7 @@ ht-degree: 1%
    >
    >選取n：n欄元件以定義您選擇的欄數（介於3到10之間）。 您也可以移動欄下方的箭頭來定義每欄的寬度。
 
-   熒幕擷圖
+   ![](assets/add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -141,7 +145,7 @@ ht-degree: 1%
 
 1. 從「內容」區段，拖曳至所需的專案上，並將它們拖放至一或多個結構元件中。
 
-   熒幕擷圖
+   ![](assets/add-structure-and-content-2.png)
 
 1. 您可以透過「設定」或「樣式」標籤自訂每個元件。 變更字型、文字樣式、邊界等。
 
@@ -194,6 +198,30 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 熒幕擷圖
 
+
+下列範例概述如何在由三欄組成的結構元件內調整邊框間距和垂直對齊方式。
+
+直接在電子郵件中選取結構元件，或使用左側選單中的「導覽」樹狀結構。
+
+在工具列中按一下選取欄，然後選擇要編輯的欄。 您也可以從結構樹中選取它。
+
+該欄可編輯的引數會顯示在「樣式」標籤中。
+
+
+
+在「對齊」下，選取「頂端」、「中間」或「底部」。
+
+
+
+在「內距」下，定義所有邊的內距。
+
+如果要微調內距，請選取「每一邊不同的內距」。 按一下鎖定圖示以中斷同步。
+
+
+
+以類似方式繼續調整其他欄的對齊與邊框間距。
+
+儲存您的變更。
 
 
 

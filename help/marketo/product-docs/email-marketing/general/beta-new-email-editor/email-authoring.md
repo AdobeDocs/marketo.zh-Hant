@@ -4,9 +4,9 @@ title: 電子郵件製作
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 482c2955bbf3ad10d244ebc5e6b6d6a37d82c217
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1259'
 ht-degree: 1%
 
 ---
@@ -43,9 +43,9 @@ ht-degree: 1%
 
 ## 選擇您的內容型別 {#choose-your-content-type}
 
-1. 在您剛建立的電子郵件中，按一下&#x200B;**+新增電子郵件內容**。
+1. 在您剛建立的電子郵件中，按一下&#x200B;**新增電子郵件內容**。
 
-   熒幕擷圖
+   ![](assets/choose-your-content-type-1.png)
 
 1. _建立您的電子郵件_&#x200B;頁面已載入。 您可從下列幾個選項中選擇：
 
@@ -83,11 +83,9 @@ ht-degree: 1%
 
 1. 在[設計範本]頁面中，選取&#x200B;**匯入HTML**。
 
-   熒幕擷圖
+1. 拖放所需的HTML或.zip檔案（或從電腦中選取檔案），然後按一下&#x200B;**匯入**。
 
-1. 拖放所需的HTML或.zip檔案，然後按一下&#x200B;**匯入**。
-
-   熒幕擷圖
+   ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
@@ -107,35 +105,31 @@ ht-degree: 1%
 
 >[!TAB 範例範本]
 
-選擇我們的其中一個現成範本，為您的電子郵件設計搶先一步。
+選擇其中一個現成的範本，為您的電子郵件範本設計搶先一步。
 
-1. 在[建立您的電子郵件]頁面中，選取&#x200B;**範本範例**。
+1. 範例範本標籤預設為開啟。
 
-   熒幕擷圖
+1. 選取您要使用的範本。
 
-1. 選取所需的範本。
+   ![](assets/authoring-sample-templates-1.png)
 
-   熒幕擷圖
+1. 按一下&#x200B;**使用此範本**。
 
-1. 預覽隨即顯示。 若要確認您的選擇，請按一下&#x200B;**使用此範本**。
+   ![](assets/authoring-sample-templates-2.png)
 
-   熒幕擷圖
+1. 視需要使用視覺化內容設計工具編輯內容。
 
 >[!TAB 儲存的範本]
 
-選擇您先前建立的範本之一。
+1. 按一下「**儲存的範本**」索引標籤，然後選取所需的範本。
 
-1. 在[建立您的電子郵件]頁面中，選取&#x200B;**儲存的範本**。
+   ![](assets/authoring-saved-templates-1.png)
 
-   熒幕擷圖
+1. 按一下&#x200B;**使用此範本**。
 
-1. 選取所需的範本。
+   ![](assets/authoring-saved-templates-2.png)
 
-   熒幕擷圖
-
-1. 預覽隨即顯示。 若要確認您的選擇，請按一下&#x200B;**使用此範本**。
-
-   熒幕擷圖
+1. 視需要使用視覺化內容設計工具編輯內容。
 
 >[!ENDTABS]
 
@@ -213,25 +207,29 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 ### 個人化內容 {#personalize-content}
 
-Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同。
+Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同。 以下範例概述如何使用遞補文字新增名字代號。
 
-1. 選取文字元件，然後按一下&#x200B;**新增個人化**&#x200B;圖示。
+1. 選取文字元件。 將游標放在您要顯示權杖的位置，然後按一下&#x200B;**新增個人化**&#x200B;圖示。
 
-   熒幕擷圖
+   ![](assets/authoring-personalize-content-1.png)
 
 1. 按一下所需的[權杖型別](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}。
 
-   熒幕擷圖
+   ![](assets/authoring-personalize-content-2.png)
 
-1. 按一下+或……，將Token新增至空白區。
+1. 找到所需的Token，然後按一下&#x200B;**...**&#x200B;圖示（改為按一下+圖示以新增不含遞補文字的Token）。
 
-   熒幕擷圖
+   ![](assets/authoring-personalize-content-3.png)
 
    >[!NOTE]
    >
-   >「遞補文字」是預設值的新編輯器辭彙。 範例：``{{lead.First Name:default=Friend}}``
+   >「遞補文字」是預設值的新編輯器辭彙。 範例： ``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
 
-1. 完成時，按一下&#x200B;**儲存**。
+1. 設定您的遞補文字，然後按一下[新增]。****
+
+   ![](assets/authoring-personalize-content-4.png)
+
+1. 按一下&#x200B;**儲存**。
 
 ### 編輯URL {#edit-url-tracking}
 
