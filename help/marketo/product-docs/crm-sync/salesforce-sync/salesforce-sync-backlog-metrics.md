@@ -4,30 +4,26 @@ title: Salesforce同步處理待處理專案量度
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
+source-git-commit: 38929abef0f64762c92b153630ce75373ba7a300
 workflow-type: tm+mt
-source-wordcount: '840'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
 
 # Salesforce同步處理待處理專案量度  {#salesforce-sync-backlog-metrics}
 
-同步待處理專案代表擱置從Salesforce同步至Marketo Engage的記錄，反之亦然。 若能確保待處理專案維持在可控範圍內，就能順利且及時地進行同步。
-
->[!NOTE]
->
->待處理專案涵蓋兩側擱置同步後更新的數字，而非同步流程步驟所執行的數字，例如[將人員同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}或[將人員同步到Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"}流程步驟。
+同步處理待處理專案是用於擱置同步處理之記錄的名稱。 它會將擱置從Salesforce同步至Marketo Engage的記錄計算在內，反之亦然。 確保待處理專案維持在可控範圍內，可順利進行時間同步。 待處理專案涵蓋兩側擱置同步發佈更新的數量，而非同步流程步驟(例如Sync Lead to SFDC流程步驟)所執行的數量。
 
 ## 如何存取 {#how-to-access}
 
 1. 在Marketo Engage中，移至&#x200B;**管理員**&#x200B;區域。
 
-   熒幕擷圖
+   ![](assets/salesforce-sync-backlog-metrics-1.png)
 
 1. 選取&#x200B;**Salesforce**。
 
-   熒幕擷圖
+   ![](assets/salesforce-sync-backlog-metrics-2.png)
 
 ## 同步處理待處理專案趨勢 {#sync-backlog-trend}
 
@@ -35,7 +31,7 @@ ht-degree: 0%
 
 在x軸上的特定4小時間隔觀察待處理專案。 此值適用於同步下的所有物件。 這是Salesforce和Marketo Engage等待同步處理的待處理專案總數。
 
-熒幕擷圖
+![](assets/salesforce-sync-backlog-metrics-3.png)
 
 ## 同步處理輸送量和待處理專案 {#sync-throughput-and-backlog}
 
@@ -45,7 +41,7 @@ ht-degree: 0%
 >
 >統計資料會以滾動方式更新，而非以行事曆日期更新。
 
-熒幕擷圖
+![](assets/salesforce-sync-backlog-metrics-4.png)
 
 <table><thead>
   <tr>
@@ -95,14 +91,18 @@ ht-degree: 0%
 
 ## 管理同步積壓的最佳作法 {#best-practices}
 
-**同步處理下的欄位**：請確定同步處理下的欄位只是需要同步的欄位。 變更欄位會增加同步處理待處理專案，而低優先順序欄位可能會停止或減慢同步處理中較重要的欄位。 請聯絡[Marketo Engage支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以移除同步處理下的欄位。
+**同步處理使用者可見的欄位**：請確定同步處理使用者可見的欄位只是需要同步處理的欄位，且對行銷工作有價值。 如果更新Salesforce中的記錄以更新上次修改的時間戳記，會將記錄排入同步待處理專案的佇列，且不必要的欄位同步可能會減慢同步下更重要的欄位的速度。 如果同步使用者看不到不必要的欄位，則更新這些欄位將會導致略過，其速度會比更新快得多。 請與您的Salesforce管理員合作，一同檢閱此處的最佳實務，並更新Marketo同步使用者可檢視的欄位。
 
-**敏感欄位**：某些欄位容易頻繁更新（例如，貨幣會變更的貨幣欄位）。 檢閱這些欄位是否需要同步，或欄位是否需要以不同方式設計。
+**隱藏或篩選不必要的記錄**：如果記錄無法銷售，則可能是浪費同步資源。 如果同步使用者看不到，則不會浪費資源嘗試同步處理。 [Marketo Engage支援](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}可協助設定同步篩選器，以根據其他條件禁止記錄同步。 如需設定自訂同步篩選器[的詳細資訊，請參閱此處](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}。 強烈建議在Salesforce中使用索引欄位（如需進一步資訊，請聯絡Salesforce）。
 
-**自訂物件**：定期檢閱同步處理的自訂物件，並移除任何不再需要同步處理的物件。
+**在非關鍵期間排程大量更新**：檢閱您的資料同步模式，以識別非關鍵期間。 如果可能的話，請檢閱是否可以在這些非關鍵期間排程大量更新。
 
-**活動**：檢查同步處理下是否有任何活動可以從同步處理移除。
+**經常更新的欄位**：有些欄位很容易經常更新。 例如，貨幣欄位可能會發生貨幣變更。 檢閱這些欄位是否需要同步，或欄位是否應以不同方式設計。 如果您有其他經常更新且不需要的欄位，請向同步使用者隱藏它們。 請務必與您的SFDC管理員整合討論可能會更新欄位的問題。
 
-**在非關鍵期間排程大量更新**：檢閱您的資料同步模式，以識別非關鍵期間。 檢視是否可以在這些非關鍵期間排程大量更新。
+**自訂物件**：定期檢閱[自訂物件](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}，以同步並停用不再需要同步處理的自訂物件。
 
-如果您遵循上述所有最佳實務，但仍有大量積壓，請聯絡[Marketo Engage支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
+**活動**： [檢閱是否有任何活動](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}已啟用從同步中移除的同步。  每個潛在客戶每天只能同步處理一次這些活動。
+
+**檢閱同步處理錯誤**：例外狀況處理可能會減慢同步處理的速度。 檢閱使用者通知並解決錯誤可以改善同步處理健康情況。
+
+**連絡支援人員**：如果您遵循上述所有最佳實務，但仍有大量積壓，請連絡[Marketo Engage支援人員](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}。
