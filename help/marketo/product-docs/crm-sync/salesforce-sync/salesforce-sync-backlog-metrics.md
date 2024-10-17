@@ -2,9 +2,9 @@
 description: Salesforce同步處理待處理量度 — Marketo檔案 — 產品檔案
 title: Salesforce同步處理待處理專案量度
 feature: Reporting
-source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
+source-git-commit: cfd7e3f70246a0a36793f747f0f2f40bcb9619c5
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1048'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 ## 管理同步積壓的最佳作法 {#best-practices}
 
-**同步處理使用者可見的欄位**：請確定同步處理使用者可見的欄位只是需要同步處理的欄位，且對行銷工作有價值。 如果更新Salesforce中的記錄以更新上次修改的時間戳記，會將記錄排入同步待處理專案的佇列，且不必要的欄位同步可能會減慢同步下更重要的欄位的速度。 如果同步使用者看不到不必要的欄位，則更新這些欄位將會導致略過，其速度會比更新快得多。 請與您的Salesforce管理員合作，一同檢閱此處的最佳實務，並更新Marketo同步使用者可檢視的欄位。
+**同步處理使用者可見的欄位**：請確定同步處理使用者可見的欄位只是需要同步處理的欄位，且對行銷工作有價值。 如果更新Salesforce中的記錄以更新上次修改的時間戳記，會將記錄排入同步待處理專案的佇列，且不必要的欄位同步可能會減慢同步下更重要的欄位的速度。 如果同步使用者看不到不必要的欄位，則更新這些欄位將會導致略過，其速度會比更新快得多。 與您的Salesforce管理員合作檢閱[這裡](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"}的最佳實務，並更新Marketo同步使用者可看到的欄位。
 
 **隱藏或篩選不必要的記錄**：如果記錄無法銷售，則可能是浪費同步資源。 如果同步使用者看不到，則不會浪費資源嘗試同步處理。 [Marketo Engage支援](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}可協助設定同步篩選器，以根據其他條件禁止記錄同步。 如需設定自訂同步篩選器[的詳細資訊，請參閱此處](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}。 強烈建議在Salesforce中使用索引欄位（如需進一步資訊，請聯絡Salesforce）。
 
