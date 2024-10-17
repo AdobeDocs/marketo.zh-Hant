@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
+source-git-commit: 9d6cdd3063d22e0b9f132eaa828695f1d2fdc634
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '515'
 ht-degree: 2%
 
 ---
@@ -83,6 +83,17 @@ ht-degree: 2%
    </td> 
    <td>已送出</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">以電子郵件傳送效能報表</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Salesforce同步處理待處理專案量度</strong>：監視同步處理輸送量和待處理專案趨勢，以便規劃及排程CRM更新，提供最佳的同步處理體驗。
+   </td> 
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Salesforce同步處理待處理專案量度</a></td>
   </tr>
  </tbody> 
 </table>
