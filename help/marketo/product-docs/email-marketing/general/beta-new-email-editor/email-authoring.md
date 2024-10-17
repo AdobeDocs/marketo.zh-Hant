@@ -4,7 +4,7 @@ title: 電子郵件製作
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
+source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
 workflow-type: tm+mt
 source-wordcount: '1477'
 ht-degree: 1%
@@ -97,9 +97,9 @@ ht-degree: 1%
 
 有兩種範本可供選擇。
 
-* 範例範本：Marketo Engage提供四個立即可用的電子郵件範本。
+* **範例範本**： Marketo Engage提供四個立即可用的電子郵件範本。
 
-* 儲存的範本：這些是您使用「範本」功能表從頭建立的範本，或是您建立並選擇儲存為範本的電子郵件。
+* **儲存的範本**：這些是您使用[範本]功能表從頭建立的範本，或是您建立並選擇儲存為範本的電子郵件。
 
 >[!BEGINTABS]
 
