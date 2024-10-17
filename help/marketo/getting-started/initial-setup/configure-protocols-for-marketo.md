@@ -4,9 +4,9 @@ description: 設定Marketo Engage的通訊協定 — Marketo Engage檔案 — �
 title: 設定Marketo Engage通訊協定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0330fd1b7bcc6d5fc21e5e591b65e8d6d5d3efee
+source-git-commit: 06c19a48e84b192cd52ea5d0ce6104ac52a85e8e
 workflow-type: tm+mt
-source-wordcount: '2149'
+source-wordcount: '2147'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,6 @@ CNAME `[MktoTrackingLink]`中的`[YourEmailCNAME].[YourDomain].com`
 
 將這些IP位址新增至您的公司允許清單：
 
-94.236.119.0/26
-
 103.237.104.0/22
 
 130.248.172.0/24
@@ -112,24 +110,24 @@ CNAME `[MktoTrackingLink]`中的`[YourEmailCNAME].[YourDomain].com`
 
 ## 步驟4：設定DMARC {#set-up-dmarc}
 
-DMARC （網域型訊息驗證、報告及一致性）是一種驗證通訊協定，用於協助組織保護其網域免受未經授權的使用。 DMARC會擴充現有的驗證通訊協定（例如SPF和DKIM），以通知收件者伺服器如果網域發生驗證失敗時應採取的動作。 雖然DMARC目前是選用專案，但強烈建議您使用，因為這樣可以更好地保護組織的品牌和聲譽。 自2024年2月起，Google和Yahoo等主要提供者將要求為大量傳送者使用DMARC。
+DMARC （網域型訊息驗證、報告和一致性）是一種驗證通訊協定，用於協助組織保護其網域免受未經授權的使用。 DMARC會擴充現有的驗證通訊協定（例如SPF和DKIM），以通知收件者伺服器如果網域發生驗證失敗，應採取的動作。 雖然DMARC目前是選用專案，但強烈建議您使用，因為這樣可以更有效保護組織的品牌和聲譽。 自2024年2月起，Google和Yahoo等主要提供者將要求針對大量傳送者使用DMARC。
 
-若要讓DMARC運作，您必須至少擁有下列其中一個DNS TXT記錄：
+若要讓DMARC正常運作，您必須至少擁有下列其中一個DNS TXT記錄：
 
 * 有效的SPF
 * 您的FROM：網域的有效DKIM記錄(建議用於Marketo Engage)
 
-此外，您必須擁有您的FROM：網域的DMARC特定DNS TXT記錄。 您可選擇定義您選擇的電子郵件地址，指出DMARC報告應在組織內的哪個位置，以便您監視報告。
+此外，您必須擁有您的FROM：網域的DMARC特定DNS TXT記錄。 您可選擇定義您選擇的電子郵件地址，指出DMARC報表應在組織內的哪個位置，以便您監視報表。
 
-作為最佳實務，建議您逐步推出DMARC實作，將DMARC政策從p=none提升至p=quarantine、再提升至p=reject，因為您可以瞭解DMARC的潛在影響，並將DMARC政策設定為在SPF和DKIM上輕鬆保持一致。
+根據最佳實務，建議您將DMARC政策從p=none提升至p=quarantine、至p=reject，藉此慢慢推出DMARC實作，因為您瞭解DMARC的潛在影響，並將DMARC政策設定為放鬆SPF和DKIM的一致性。
 
 ### DMARC範例工作流程 {#dmarc-example-workflow}
 
-1. 如果您已設定為可接收DMARC報告，您應該執行下列動作……
+1. 如果您已設定為可接收DMARC報表，您應執行下列動作……
 
    I.分析您收到並使用的意見與報告(p=none)，告知接收者不對驗證失敗的郵件執行任何動作，但仍會傳送電子郵件報告給寄件者。
 
-   二、 如果合法的訊息驗證失敗，請檢閱並修正SPF/DKIM的問題。
+   II. 如果合法的訊息驗證失敗，請檢閱並修正SPF/DKIM的問題。
 
    三、 判斷SPF或DKIM是否已對齊，並傳遞所有合法電子郵件的驗證。
 
@@ -147,7 +145,7 @@ DMARC （網域型訊息驗證、報告及一致性）是一種驗證通訊協�
 
 ### DMARC報告 {#dmarc-reporting}
 
-DMARC提供接收有關未通過SPF/DKIM之電子郵件的報表的功能。 在驗證流程中，ISP服務程式會產生兩個不同的報告，讓傳送者可透過其DMARC原則中的RUA/RUF標籤接收。
+DMARC提供接收有關SPF/DKIM失敗的電子郵件報表的功能。 在驗證流程中，ISP服務程式會產生兩種不同的報告，讓傳送者可透過其DMARC原則中的RUA/RUF標籤接收。
 
 * 彙總報表(RUA)：不包含任何會對GDPR （一般資料保護規範）敏感的PII （個人識別資訊）。
 
@@ -155,7 +153,7 @@ DMARC提供接收有關未通過SPF/DKIM之電子郵件的報表的功能。 在
 
 這些報告的主要用途是接收企圖詐騙的電子郵件概觀。 這些是高度技術性的報告，最好透過協力廠商工具消化。
 
-### 範例DMARC記錄 {#example-dmarc-records}
+### DMARC記錄範例 {#example-dmarc-records}
 
 * 裸露最小記錄： `v=DMARC1; p=none`
 
@@ -163,7 +161,7 @@ DMARC提供接收有關未通過SPF/DKIM之電子郵件的報表的功能。 在
 
 ### DMARC標籤及其功用 {#dmarc-tags-and-what-they-do}
 
-DMARC記錄有多個稱為DMARC標籤的元件。 每個標籤都有一個值，指定DMARC的特定外觀。
+DMARC記錄有多個稱為DMARC標籤的元件。 每個標籤都有一個值，可指定DMARC的特定面向。
 
 <table>
 <thead>
@@ -179,7 +177,7 @@ DMARC記錄有多個稱為DMARC標籤的元件。 每個標籤都有一個值，
   <tr>
     <td>v</td>
     <td>必要</td>
-    <td>此DMARC標籤指定版本。 目前只有一個版本，因此其固定值為v=DMARC1</td>
+    <td>此DMARC標籤會指定版本。 目前只有一個版本，因此其固定值為v=DMARC1</td>
     <td>V=DMARC1 DMARC1</td>
     <td>DMARC1</td>
   </tr>
@@ -192,17 +190,17 @@ DMARC記錄有多個稱為DMARC標籤的元件。 每個標籤都有一個值，
   </tr>
   <tr>
     <td>fo</td>
-    <td>可選</td>
+    <td>選填</td>
     <td>允許網域擁有者指定報告選項。</td>
     <td>0：如果一切失敗，則產生報表 
     <br>1：如果發生任何失敗，則產生報告 
     <br>d：如果DKIM失敗則產生報告 
     <br>s：如果SPF失敗，則產生報告</td>
-    <td>1 （建議用於DMARC報表）</td>
+    <td>1 (建議用於DMARC報表)</td>
   </tr>
   <tr>
     <td>pct</td>
-    <td>可選</td>
+    <td>選填</td>
     <td>告知受篩選的訊息百分比。</td>
     <td>pct=20</td>
     <td>100</td>
@@ -223,21 +221,21 @@ DMARC記錄有多個稱為DMARC標籤的元件。 每個標籤都有一個值，
   </tr>
   <tr>
     <td>sp</td>
-    <td>可選</td>
+    <td>選填</td>
     <td>指定上層網域之子網域的DMARC原則。</td>
     <td>sp=reject</td>
     <td>-</td>
   </tr>
   <tr>
     <td>adkim</td>
-    <td>可選</td>
+    <td>選填</td>
     <td>可以是「嚴格」(Strict) (s)或「寬鬆」®數。 寬鬆的對齊表示DKIM簽章中使用的網域可以是「寄件者」位址的子網域。 嚴格對齊表示DKIM簽章中使用的網域必須與寄件者位址中使用的網域完全相符。</td>
     <td>adkim=r </td>
     <td>r</td>
   </tr>
   <tr>
     <td>aspf</td>
-    <td>可選</td>
+    <td>選填</td>
     <td>可以是「嚴格」(Strict) (s)或「寬鬆」®數。 寬鬆的對齊表示ReturnPath網域可以是「寄件者地址」的子網域。 嚴格對齊表示傳迴路徑網域必須與寄件者位址完全相符。</td>
     <td>aspf=r</td>
     <td>r</td>
@@ -247,26 +245,26 @@ DMARC記錄有多個稱為DMARC標籤的元件。 每個標籤都有一個值，
 
 如需DMARC及其所有選項的完整詳細資訊，請造訪[https://dmarc.org/](https://dmarc.org/){target="_blank"}。
 
-### DMARC與Marketo Engage {#dmarc-and-marketo-engage}
+### DMARC和Marketo Engage {#dmarc-and-marketo-engage}
 
 DMARC有兩種對齊方式：DKIM對齊方式和SPF對齊方式。
 
 >[!NOTE]
 >
->建議在DKIM與SPF上執行DMARC對齊以進行Marketo Engage。
+>建議在DKIM與SPF上執行DMARC校準以進行Marketo Engage。
 
 * DKIM-aligned DMARC — 若要設定DKIM-aligned DMARC，您必須：
 
    * 為訊息的FROM：網域設定DKIM。 使用本文章](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}中的指示[。
    * 為先前設定的FROM：/DKIM網域設定DMARC
 
-* DMARC-aligned SPF — 若要透過品牌傳迴路徑設定DMARC-aligned SPF，您必須：
+* DMARC對齊的SPF — 若要透過品牌傳迴路徑設定DMARC對齊的SPF，您必須：
 
    * 設定品牌化傳迴路徑網域
       * 設定適當的SPF記錄
       * 變更MX記錄，以指向將傳送郵件之資料中心的預設MX
 
-   * 為品牌傳迴路徑網域設定DMARC
+   * 為品牌化傳迴路徑網域設定DMARC
 
 * 如果您是透過專用IP從Marketo Engage傳送郵件，而且尚未實作品牌傳迴路徑，或不確定您是否有，請開啟具有[Adobe支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}的票證。
 
@@ -292,7 +290,7 @@ Marketo Engage[Webhooks](/help/marketo/product-docs/administration/additional-in
 
 **CRM同步處理**
 
-Marketo Engage[Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"}與[Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}是整合機制，可向您的CRM廠商所發佈的API發出傳出HTTP請求。 您必須確保您的IT組織不會封鎖下列任何IP位址區塊，使其無法存取您的CRM供應商API。
+Marketo Engage[Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"}和[Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}是整合機制，可對CRM廠商所發佈的API發出傳出HTTP請求。 您必須確保您的IT組織不會封鎖下列任何IP位址區塊，使其無法存取您的CRM供應商API。
 
 **Marketo Engage的輸出IP位址區塊**
 
