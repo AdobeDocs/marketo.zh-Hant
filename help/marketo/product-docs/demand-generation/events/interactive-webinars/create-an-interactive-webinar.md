@@ -3,9 +3,9 @@ description: 建立互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 建立互動式網路研討會
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,8 @@ ht-degree: 0%
    >* 您無法重複使用網路研討會標題。 每一個在您的Marketo例項中都必須是唯一的。
    >
    >* 如有需要，您可在稍後階段變更網路研討會標題。
+   >
+   >* 如果您建立測試網路研討會，必須在開始時間之前刪除它，以確保不會使用該網路研討會的授權。
 
 1. 排程您的網路研討會日期/時間，然後按一下&#x200B;**建立**。
 

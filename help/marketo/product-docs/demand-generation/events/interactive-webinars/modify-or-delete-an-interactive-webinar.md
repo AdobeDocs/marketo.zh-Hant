@@ -3,9 +3,9 @@ description: 修改或刪除互動式網路研討會 — Marketo檔案 — 產�
 title: 修改或刪除互動式網路研討會
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -81,6 +81,10 @@ ht-degree: 0%
    ![](assets/modify-or-delete-an-interactive-webinar-12.png)
 
 ## 刪除互動式網路研討會 {#delete-an-interactive-webinar}
+
+>[!NOTE]
+>
+>如果您建立測試網路研討會，必須在開始時間之前刪除它，以確保不會使用該網路研討會的授權。
 
 1. 選取所需的事件程式。
 
