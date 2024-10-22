@@ -4,9 +4,9 @@ description: 為自訂實體啟用同步 — Marketo檔案 — 產品檔案
 title: 為自訂實體啟用同步
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -67,3 +67,9 @@ ht-degree: 0%
 1. 別忘了重新啟用全域同步處理！
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
+
+   >[!NOTE]
+   >
+   >* Marketo僅支援連結至標準實體（一或兩個層級）的自訂實體。
+   >
+   >* 自訂物件樹可能會顯示同一個物件多次，因為它是與其中一個主要物件的直接連線（例如銷售機會、聯絡人或帳戶，或是透過中介物件的間接連線）。 在這種情況下，請選擇最接近主要物件的物件，然後只選擇一個物件。 多次選擇相同的物件可能會阻礙該自訂物件的同步處理。

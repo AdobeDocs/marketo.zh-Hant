@@ -4,16 +4,16 @@ description: SFDC同步 — 自訂物件同步 — Marketo檔案 — 產品檔�
 title: SFDC同步 — 自訂物件同步
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
 # SFDC同步：自訂物件同步 {#sfdc-sync-custom-object-sync}
 
-在Salesforce例項中建立的自訂物件也可以是Marketo Engage的一部分。 以下說明設定方法。
+在Salesforce例項中建立的自訂物件也可成為Marketo Engage的一部分。 以下說明設定方法。
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Salesforce自訂物件結構描述的初始同步可能需要幾分鐘的時間。
+   >Salesforce自訂物件結構的初始同步可能需要幾分鐘的時間。
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -81,7 +81,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo僅支援連結至標準實體（一或兩個層級）的自訂實體。
+   >* Marketo僅支援連結至標準實體（一或兩個層級）的自訂實體。
+   >
+   >* 自訂物件樹可能會顯示同一個物件多次，因為它是與其中一個主要物件的直接連線（例如銷售機會、聯絡人或帳戶，或是透過中介物件的間接連線）。 在這種情況下，請選擇最接近主要物件的物件，然後只選擇一個物件。 多次選擇相同的物件可能會阻礙該自訂物件的同步處理。
 
 ### 下一步： {#whats-next}
 

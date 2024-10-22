@@ -3,7 +3,7 @@ description: Marketo Engage支援移轉 — Marketo檔案 — 產品檔案
 title: Marketo Engage支援移轉
 feature: Marketo with Adobe Identity
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: aa77a0124f261eea2999029806adb1d1aaf3e0da
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 1%
@@ -48,4 +48,4 @@ ht-degree: 1%
 
 ## 仍有問題嗎？ {#still-have-questions}
 
-如果您仍然有關於訂閱和/或支援移轉的問題，請連絡我們： `marketocares@adobe.com`。
+如果您仍然有關於訂閱和/或支援移轉的問題，請連絡我們： `customercare@marketo.com`。
