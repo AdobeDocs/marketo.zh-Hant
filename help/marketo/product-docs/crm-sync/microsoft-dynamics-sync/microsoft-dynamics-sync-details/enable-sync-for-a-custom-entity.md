@@ -4,20 +4,20 @@ description: 為自訂實體啟用同步 — Marketo檔案 — 產品檔案
 title: 為自訂實體啟用同步
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
+source-git-commit: 2a5ee44a7126d789b0fc819a26a2cf19084b34ee
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 # 為自訂實體啟用同步 {#enable-sync-for-a-custom-entity}
 
-如果您需要來自Dynamics的自訂實體資料才能在Marketo Engage中使用，以下說明如何為其啟用同步。
+如果您需要來自Dynamics的自訂實體資料才能在Marketo Engage中使用，以下說明如何為其啟用同步。 **需要管理員許可權**。
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**需要管理員許可權**
+>若要使用自訂物件，它必須關聯至Microsoft Dynamics中的[銷售機會](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md){target="_blank"}、[連絡人](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md){target="_blank"}或[帳戶](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md){target="_blank"}物件。
 
 >[!NOTE]
 >
@@ -52,7 +52,7 @@ ht-degree: 0%
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. 選取要在智慧清單中同步或用作[限制](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)和/或觸發器的欄位（針對新增的記錄，_未_&#x200B;更新）。 完成時，按一下&#x200B;**[!UICONTROL 啟用同步]**。
+1. 選取要在智慧清單中同步或用作[限制](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}和/或觸發器的欄位（針對新增的記錄，_未_&#x200B;更新）。 完成時，按一下&#x200B;**[!UICONTROL 啟用同步]**。
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
