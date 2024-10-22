@@ -4,7 +4,7 @@ title: 電子郵件製作
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
+source-git-commit: 1f899044d0eb872d4b91fa341cb8b28e1556a045
 workflow-type: tm+mt
 source-wordcount: '1477'
 ht-degree: 1%
@@ -160,7 +160,7 @@ ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
 ```
 
 ```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY?
+Access assets stored in the Assets library. IMAGES AND FILES ONLY? - For now, only from Marketo Images and Files section!!!
 ```
 
 1. 若要存取影像，請按一下資產選擇器圖示。
@@ -191,7 +191,7 @@ Access assets stored in the Assets library. IMAGES AND FILES ONLY?
 ### 圖層、設定和樣式 {#layers-settings-styles}
 
 ```
-ARE THEY CALLED LAYERS OR COMPONENTS
+ARE THEY CALLED LAYERS OR COMPONENTS - NILESH WILL CHECK
 ```
 
 開啟導覽樹狀結構以存取特定結構及其欄/元件，以進行更精細的編輯。 若要存取，請按一下導覽樹狀圖示。
@@ -268,9 +268,9 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
    ![](assets/authoring-edit-url-tracking-2.png)
 
    ```
-   LABEL?
+   LABEL? - just what URL shows as (ex: my site)
    
-   TAGS?
+   TAGS? - NILESH WILL CHECK ON HOW THEY WORK
    ```
 
    <table><tbody>
