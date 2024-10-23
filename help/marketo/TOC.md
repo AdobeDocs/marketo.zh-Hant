@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: bdcb4e5def16e509ae083b6eebdefadbb0e8fa47
+source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
 workflow-type: tm+mt
 source-wordcount: '9370'
 ht-degree: 0%
@@ -1099,10 +1099,10 @@ ht-degree: 0%
          + 瞭解電子郵件編輯器{#understanding-the-email-editor}
             + [瞭解電子郵件事件記錄](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [使用RTF編輯器](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
-         + Beta新電子郵件編輯器{#beta-new-email-editor}
-            + [新的電子郵件編輯器概觀（測試版）](product-docs/email-marketing/general/beta-new-email-editor/overview.md)
-            + [電子郵件製作](product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md)
-            + [電子郵件範本](product-docs/email-marketing/general/beta-new-email-editor/email-templates.md)
+         + Beta新電子郵件Designer {#beta-new-email-designer}
+            + [新的電子郵件設計工具概覽（測試版）](product-docs/email-marketing/general/beta-new-email-designer/overview.md)
+            + [電子郵件製作](product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md)
+            + [電子郵件範本](product-docs/email-marketing/general/beta-new-email-designer/email-templates.md)
          + 正在建立電子郵件{#creating-an-email}
             + [核准電子郵件](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [建立僅限文字的電子郵件](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
