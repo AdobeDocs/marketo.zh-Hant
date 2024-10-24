@@ -3,9 +3,9 @@ description: 流程步驟服務 — Marketo檔案 — 產品檔案
 title: 流程步驟服務
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
 workflow-type: tm+mt
-source-wordcount: '1210'
+source-wordcount: '1234'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ ht-degree: 0%
 若要存取正在安裝的服務，Marketo必須具備有效的API認證。 您的服務提供者應提供這些認證。 服務有三個不同的驗證選項，因此您可能會看到認證的三個不同提示之一： **API金鑰** （只有一個輸入欄位）、**基本驗證** （需要使用者名稱和密碼，也可能需要名為「領域」的欄位）和&#x200B;**OAuth2** （使用&#x200B;_使用者端認證_&#x200B;授權，需要&#x200B;_使用者端識別碼_&#x200B;和&#x200B;_使用者端密碼_）。
 
 儲存認證時，Marketo會嘗試呼叫服務的狀態端點，以驗證其是否有效。 如果提供的認證無效，您將會看到指出此問題的錯誤。
+
+>[!CAUTION]
+>
+>如果建立並刪除服務提供者，以後將無法重複使用其服務提供者、API、觸發程式或篩選器名稱。
 
 ## 入門指南（選用） {#onboarding-guide}
 

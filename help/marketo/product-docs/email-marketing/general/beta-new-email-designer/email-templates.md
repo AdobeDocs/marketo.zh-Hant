@@ -4,9 +4,9 @@ title: 電子郵件範本
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
+source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
 workflow-type: tm+mt
-source-wordcount: '1775'
+source-wordcount: '1755'
 ht-degree: 1%
 
 ---
@@ -330,12 +330,6 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 此動作可從以下位置執行：
 
 * 詳細資訊標籤 — 按一下&#x200B;**編輯電子郵件範本**。
-
-* _電子郵件範本_&#x200B;清單頁面 — 按一下所需電子郵件範本的[更多動作]圖示（三個點），然後選擇[編輯]。
-
-```
-THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE - CONFIRMED WITH NILESH - KG
-```
 
 此動作會根據電子郵件範本的上次儲存狀態，帶您前往&#x200B;_設計您的範本_&#x200B;頁面或視覺內容編輯器頁面。 您可以在此處視需要編輯您的電子郵件範本內容。 請參閱建立電子郵件範本，以取得有關編輯選項的資訊。
 
