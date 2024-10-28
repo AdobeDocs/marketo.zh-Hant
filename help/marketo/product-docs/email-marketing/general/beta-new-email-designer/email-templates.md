@@ -4,9 +4,9 @@ title: 電子郵件範本
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
+source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
 workflow-type: tm+mt
-source-wordcount: '1755'
+source-wordcount: '1683'
 ht-degree: 1%
 
 ---
@@ -81,8 +81,6 @@ ht-degree: 1%
 
 1. 若要利用電子郵件Designer內容元件，請按一下&#x200B;**HTML轉換器**&#x200B;標籤，然後按一下&#x200B;**轉換**。
 
-   熒幕擷圖
-
    >[!CAUTION]
    >
    >使用`<table>`標籤做為HTML檔案中的第一個圖層可能會造成樣式遺失，包括上層圖層標籤中的背景和寬度設定。
@@ -151,38 +149,23 @@ ht-degree: 1%
 
 ### 新增Assets {#add-assets}
 
-```
-ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD??
-```
+新增儲存在Marketo Engage執行個體的[影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"}區段中的影像。
 
-```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL AUTHORING FOR ANSWERS - KG
-```
+>[!NOTE]
+>
+>您目前只能在新設計工具中新增影像，不能新增其他檔案型別。
 
 1. 若要存取影像，請按一下資產選擇器圖示。
 
-   熒幕擷圖
+   ![](assets/add-assets-1.png)
 
 1. 將所需的影像拖放至結構元件中。
 
-   熒幕擷圖
+   ![](assets/add-assets-2.png)
 
    >[!NOTE]
    >
    >若要取代現有的影像，請選取該影像，然後在右側的[設定]索引標籤中按一下&#x200B;**選取資產**。
-
-按一下「啟用條件內容」以新增動態內容，並根據條件規則將內容調整至目標設定檔。
-
-
-
-如有需要，您可以按一下進階功能表中的「切換至程式碼編輯器」，進一步個人化您的電子郵件。 這可讓您編輯電子郵件原始碼，例如新增追蹤或自訂HTML標籤。
-
-注意
-切換到程式碼編輯器後，您無法返回此電子郵件的視覺化設計工具。
-
-內容準備就緒後，按一下「模擬內容」按鈕以檢查呈現。 您可以選擇案頭或行動檢視。
-
-準備就緒後，按一下儲存
 
 ### 圖層、設定和樣式 {#layers-settings-styles}
 
@@ -295,7 +278,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 從內容編輯器中的&#x200B;**更多**&#x200B;選項，您可以執行下列動作：
 
-熒幕擷圖
+![](assets/more-options-1.png)
 
 * **重設範本**：選取此項可將視覺化電子郵件設計工具畫布清除為空白並重新啟動建立內容。
 
@@ -307,7 +290,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 在&#x200B;_電子郵件範本_&#x200B;清單頁面中，按一下電子郵件範本的名稱以檢視其詳細資料。
 
-熒幕擷圖
+(assets/view-template-details-1.png
 
 可編輯名稱和說明等基本細節。 在您編輯的欄位外按一下，以儲存變更。
 
@@ -323,7 +306,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 在電子郵件範本摘要中，按一下&#x200B;**使用者**&#x200B;索引標籤，以檢視Marketo Engage中此電子郵件範本使用位置的詳細資訊。
 
-熒幕擷圖
+![](assets/email-template-used-by-references-1.png)
 
 ## 編輯電子郵件範本 {#edit-email-templates}
 
@@ -339,7 +322,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 * 從右側的電子郵件範本詳細資料中，按一下&#x200B;**更多**&#x200B;並選取&#x200B;**複製**。
 
-熒幕擷圖
+  ![](assets/duplicate-email-templates-1.png)
 
 * 在&#x200B;_電子郵件範本_&#x200B;清單頁面中，按一下所需電子郵件範本的[更多動作]圖示（三個點），然後選擇[複製]。****
 
@@ -357,7 +340,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 * 從右側的電子郵件範本詳細資料中，按一下&#x200B;**更多**&#x200B;並選取&#x200B;**刪除**。
 
-熒幕擷圖
+  ![](assets/delete-email-templates-1.png)
 
 * 在&#x200B;_電子郵件範本_&#x200B;清單頁面中，按一下所需電子郵件範本的[更多動作]圖示（三個點），然後選擇&#x200B;**刪除**。
 
