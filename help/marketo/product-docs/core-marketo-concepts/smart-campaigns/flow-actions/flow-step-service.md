@@ -3,7 +3,7 @@ description: 流程步驟服務 — Marketo檔案 — 產品檔案
 title: 流程步驟服務
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
+source-git-commit: e511d2fda60eabd406bee5ee7441652a546fb35e
 workflow-type: tm+mt
 source-wordcount: '1234'
 ht-degree: 0%
