@@ -4,7 +4,7 @@ title: 概觀
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 69539efa25b471a355b768f0d2fdabb6ae360dba
+source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->本文僅供新Marketo Engage電子郵件Designer測試版的成員閱讀。 請勿散播。
+>本文章僅適用於新Marketo Engage電子郵件Designer測試版的成員。 請勿散播。
 
 新的電子郵件Designer是Marketo Engage的最新創新，旨在提供經過改版的電子郵件和電子郵件範本建立體驗，透過提供視覺拖放編輯器和標準現成範本來提高生產力和效率。 輕鬆建立自訂的電子郵件範本，無需花錢購買廠商。
 

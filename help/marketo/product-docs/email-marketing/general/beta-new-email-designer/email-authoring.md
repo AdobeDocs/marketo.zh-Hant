@@ -4,7 +4,7 @@ title: 電子郵件製作
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 69539efa25b471a355b768f0d2fdabb6ae360dba
+source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
 workflow-type: tm+mt
 source-wordcount: '1455'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->本文僅供新Marketo Engage電子郵件Designer測試版的成員閱讀。 請勿散播。
+>本文章僅適用於新Marketo Engage電子郵件Designer測試版的成員。 請勿散播。
 
 ## 建立電子郵件 {#create-an-email}
 
