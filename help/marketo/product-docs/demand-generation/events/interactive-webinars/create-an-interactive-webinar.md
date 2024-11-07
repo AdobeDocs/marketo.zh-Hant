@@ -3,9 +3,9 @@ description: 建立互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 建立互動式網路研討會
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: de95149324a5841a21876598ae1cd06e1fbef6e6
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-2.png)
 
+   >[!CAUTION]
+   >
+   >[行動推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"}資產&#x200B;**不支援**&#x200B;互動式網路研討會。
+
 1. 為方案命名。 在程式型別下，選取&#x200B;**事件**。
 
    ![](assets/create-an-interactive-webinar-3.png)
@@ -37,10 +41,6 @@ ht-degree: 0%
 1. 選擇&#x200B;**互動式網路研討會**&#x200B;並按一下&#x200B;**下一步**。
 
    ![](assets/create-an-interactive-webinar-5.png)
-
-   >[!NOTE]
-   >
-   >有關合作夥伴網路研討會的資訊，請參閱此處。
 
 1. 為您的網路研討會指定標題。 設定其最大對象人數和持續時間。
 
