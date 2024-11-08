@@ -4,10 +4,10 @@ description: 編輯多媒體預測性內容 — Marketo檔案 — 產品檔案
 title: 編輯多媒體預測性內容
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 1%
+source-wordcount: '216'
+ht-degree: 0%
 
 ---
 
@@ -31,6 +31,10 @@ ht-degree: 1%
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
+   >[!NOTE]
+   >
+   >多媒體不支援使用色彩模式CMYK的JPEG影像。 必須使用色彩設定檔將JPEG轉換為sRGB。 從影像編輯器匯出時，請務必選擇此設定。
+
 1. 輸入&#x200B;**描述**。
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
@@ -51,6 +55,6 @@ ht-degree: 1%
 
    ![](assets/six-1.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下&#x200B;**儲存**。
 
    ![](assets/save.png)

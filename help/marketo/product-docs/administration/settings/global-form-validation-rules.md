@@ -3,9 +3,9 @@ description: 全域表單驗證規則 — Marketo檔案 — 產品檔案
 title: 全域表單驗證規則
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Engage已定義免費消費者電子郵件網域的封鎖清單，使用預先載入的「消費者電子郵件網域封鎖清單」規則時會封鎖這些網域。 [在此檢視該清單](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv)。
+>Marketo Engage已定義免費消費者電子郵件網域的封鎖清單，使用預先載入的「消費者電子郵件網域封鎖清單」規則時會封鎖這些網域。 [在此檢視該清單](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) （若要下載，請確認您的瀏覽器是最新的並可接受下載）。
 
 ## 如何停用每個表單的存取權{#how-to-disable-access-per-form}
 
