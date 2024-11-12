@@ -4,10 +4,11 @@ title: 行銷活動層級的電子郵件開啟追蹤
 hide: true
 hidefromtoc: true
 feature: Email Setup
-source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
+exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
+source-git-commit: 6e60b39f12c75269b186573db4120e7dccb119c0
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 2%
+source-wordcount: '104'
+ht-degree: 1%
 
 ---
 
@@ -42,7 +43,7 @@ ht-degree: 2%
   </tr>
   <tr>
     <td><b>停用</b></td>
-    <td>會追蹤電子郵件開啟次數……</td>
+    <td>電子郵件開啟次數只會根據不重複人員開啟次數計算。</td>
   </tr>
 </tbody>
 </table>
