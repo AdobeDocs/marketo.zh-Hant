@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a65ff2cb24b264cd2d3a1c9c7e0109bcf69ac996
+source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '548'
 ht-degree: 2%
 
 ---
@@ -79,7 +79,6 @@ ht-degree: 2%
    <li>從電子郵件效能量度篩選刪除和合併的人員</li>
    <li>電子郵件在等待回應活動三天後現在分類為<i>已中止</i></li>
    <li>電子郵件開啟次數會計為每個Smart Campaign個別開啟的唯一開啟次數</li>
-   <li>透過調整追蹤畫素位置改善電子郵件活動追蹤</li>
    </td> 
    <td>已送出</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">以電子郵件傳送效能報表</a></td>

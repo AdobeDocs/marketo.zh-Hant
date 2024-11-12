@@ -4,10 +4,10 @@ title: Dynamic Chat 發行說明
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
+source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 3%
+source-wordcount: '446'
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ Analytics Dashboard已進行數個增強功能，包括：
 
 熒幕擷圖
 
-### 交談評分
+### 交談評分 {#conversation-scoring}
 
 根據潛在客戶聊天互動的品質來量化潛在客戶，並將該量度用作「Marketo Engage智慧行銷活動」中的觸發器/篩選器。 在下列活動中使用新屬性&#x200B;_交談分數_：
 
@@ -68,3 +68,21 @@ Analytics Dashboard已進行數個增強功能，包括：
 因此，當具有Cookie abc的訪客登陸頁面並提供電子郵件ID為`abc@p.com`時：
 
 表格
+
+### 最佳化的交談流程載入時間 {#optimized-conversation-flow-load-time}
+
+為了改善使用者體驗，現在會在載入交談流程時顯示閃爍的載入器，而非空白空間。 交談或交談???
+
+**在**&#x200B;之前
+
+GIF
+
+**After**
+
+GIF
+
+### 繼承字型的選項 {#option-to-inherit-font}
+
+身為使用者，我想讓我的聊天機器人直接從載入的網頁繼承字型，而不是在Dynamic Chat中管理我的品牌字型
+
+注意：啟用此選項後，聊天機器人會採用頁面body標籤上定義的字型
