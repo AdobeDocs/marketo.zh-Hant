@@ -4,7 +4,8 @@ title: Dynamic Chat 發行說明
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 7fbfdc6d34d2f1174e921464d64689b0c5687914
+exl-id: 12130dee-2dbf-4e71-b542-30d4732b1067
+source-git-commit: d58d6f0e2134549c024de123f468930da6ab5716
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 2%
@@ -65,7 +66,7 @@ Analytics Dashboard已進行數個增強功能，包括：
 
 從那時起，`abc@test.com`將成為沒有Cookie的潛在客戶。 匿名銷售機會??
 
-因此，當具有Cookie abc的訪客登陸頁面並提供電子郵件ID為`abc@p.com`時：
+因此，當具有Cookie abc的訪客登陸頁面並提供電子郵件ID為`abc@test.com`時：
 
 表格
 
