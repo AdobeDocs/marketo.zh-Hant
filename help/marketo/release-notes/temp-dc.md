@@ -5,7 +5,7 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 12130dee-2dbf-4e71-b542-30d4732b1067
-source-git-commit: d58d6f0e2134549c024de123f468930da6ab5716
+source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 2%
@@ -46,7 +46,7 @@ Analytics Dashboard已進行數個增強功能，包括：
 
 * 分數值將來自0、1、2、3 （預設值為空值）
 
-* 對話完成或捨棄後，活動中的會儲存評分值，並張貼無法編輯的文章?????（這個句子是什麼意思）
+* 對話完成或捨棄後，在活動中儲存評分值並發佈無法編輯的帖子   ?????（這個句子是什麼意思）
 
 * 設定分數：
 
