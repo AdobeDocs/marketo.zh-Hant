@@ -4,7 +4,7 @@ description: 達人/挑戰者 — 定義達人條件 — Marketo檔案 — 產�
 title: 冠軍/挑戰者 — 定義冠軍標準
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
+source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -29,7 +29,7 @@ ht-degree: 1%
    >
    >我們將追蹤此量度，並透過電子郵件傳送含有資料的報告給您。
 
-1. 如果您選擇其中一個預設&#x200B;**冠軍標準**，請繼續進行[設定報告警示](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md#configure-report-alerts)！
+1. 如果您選擇其中一個預設&#x200B;**冠軍標準**，請繼續進行[設定報告警示](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)！
 
 ## 自訂冠軍條件 {#custom-champion-criteria}
 
@@ -59,4 +59,4 @@ ht-degree: 1%
 
    >[!MORELIKETHIS]
    >
-   >[冠軍/挑戰者： Analytics](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md)
+   >[冠軍/挑戰者： Analytics](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
