@@ -3,9 +3,9 @@ description: 推廣互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 推廣互動式網路研討會
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 4d7732582dccb00c90bb61d2db1d7553027e92a9
+source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >如果您想要將共同主持人或簡報者新增為互動式網路研討會活動計畫的對象成員，您必須為他們使用不同的電子郵件ID，否則他們會收到「此電子郵件已註冊」錯誤。
 
-電子郵件可以包含方案的特定詳細資料，並包含登陸頁面URL，此URL會將收件者重新導向至特定頁面，其中提供有關網路研討會的更多資訊（例如內容、簡報者資訊等） 可以新增。 此登陸頁面可在互動式網路研討會活動程式中建立為本機資產。
+電子郵件可以包含方案的特定詳細資料，並包含登陸頁面URL，後者會將收件者重新導向至特定頁面，以新增更多關於網路研討會的資訊（例如內容、簡報者資訊等）。 此登陸頁面可在互動式網路研討會活動程式中建立為本機資產。
 
 您可以在登入頁面上啟用表單，並將表單點按連結至互動式網路研討會事件程式中已啟用的註冊，以請求註冊此網路研討會。 接著可以建立行銷活動，使用表單提交作為觸發器，並將方案狀態從「已邀請」變更為「已註冊」。
 
@@ -41,3 +41,22 @@ ht-degree: 0%
 ![](assets/promoting-an-interactive-webinar-2.png)
 
 互動式網路研討會可讓您在網路研討會之前、期間或之後索取報名。 在所有情況下，您只需要與潛在客戶共用網路研討會URL即可。 在網路研討會開始前按一下連結，即會將連結傳送至網路研討會前登陸頁面。 在網路研討會期間按一下，系統就會將他們導向進行中的網路研討會。 在網路研討會後按一下，系統會將他們導向至網路研討會的錄影。
+
+## 互動式網路研討會Token {#interactive-webinars-tokens}
+
+使用權杖，在電子郵件和登陸頁面中推廣互動式網路研討會，無需手動新增網路研討會詳細資訊。 這麼做可改善整體效率，因為對網路研討會中繼資料所做的任何變更（例如網路研討會標題、開始日期等）都會自動反映在您的資產中。
+
+![](assets/promoting-an-interactive-webinar-3.png)
+
+**權杖清單**
+
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle

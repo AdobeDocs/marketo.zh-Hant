@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
+source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '507'
 ht-degree: 2%
 
 ---
@@ -32,19 +32,9 @@ ht-degree: 2%
    <th style="width:25%">檔案</th>
   </tr>
     <tr> 
-   <td><strong>互動式網路研討會參與儀表板的增強型註冊資料</strong>：您現在可以看到哪些公司的出席率最高，並在參與儀表板提供的報表中，以潛在客戶層級更新公司、職稱和產業。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  </tr>
-    <tr> 
    <td><strong>互動式網路研討會的權杖化</strong>：您現在可以使用權杖在電子郵件和登陸頁面中推廣互動式網路研討會，而無需手動新增網路研討會詳細資訊。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">推廣互動式網路研討會</a></td>
   </tr>
   <tr> 
    <td> </td> 
