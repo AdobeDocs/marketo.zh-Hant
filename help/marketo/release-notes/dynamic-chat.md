@@ -3,10 +3,10 @@ description: Dynamic Chat 發行說明 - Marketo 文件 - 產品文件
 title: Dynamic Chat 發行說明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
 workflow-type: tm+mt
-source-wordcount: '1869'
-ht-degree: 2%
+source-wordcount: '2427'
+ht-degree: 1%
 
 ---
 
@@ -15,6 +15,134 @@ ht-degree: 2%
 Adobe Dynamic Chat版本會在持續傳遞模式上運作，允許以更可擴充的方法進行功能部署。 有時候一個月會有多個版本，所以請定期回來檢視最新的資訊。
 
 Marketo Engage[的標準發行說明頁面可在此處](/help/marketo/release-notes/current.md){target="_blank"}找到。
+
+## 2024年9/10月發行版本 {#sep-oct-release}
+
+### 增強型即時聊天分析 {#enhanced-live-chat-analytics}
+
+Analytics Dashboard已進行數個增強功能，包括：
+
+* 請求的即時聊天總數：「與代理商聊天」請求的訪客數
+
+* 連線的即時聊天總數：已連線的訪客數與「與代理商聊天」的請求總數
+
+* 未接的即時聊天請求總數：「與代理聊天」的無人參與訪客數與請求總數
+
+* 以分鐘為單位的平均聊天長度：分析訪客與您的代理之間的「平均聊天長度」
+
+* 平均代理程式回應時間（秒）：分析代理程式回應其即時聊天問答的「平均所用時間」
+
+* 每日儀表板：即時聊天請求已成功連線、即時聊天請求已錯過、排序和篩選最近的即時聊天活動
+
+![](assets/dynamic-chat-sep-oct-2024-release-1.png)
+
+### 交談評分 {#conversation-scoring}
+
+根據潛在客戶聊天互動的品質來量化潛在客戶，並將該量度用作「Marketo Engage智慧行銷活動」中的觸發器/篩選器。 在下列活動中使用新屬性&#x200B;_交談分數_：
+
+* 與對話方塊互動
+* 已參與交談流程
+* 與代理程式互動
+
+**注意事項：**
+
+* 分數值將來自0、1、2、3 （預設值為空值）
+
+* 當交談完成或捨棄時，無法編輯評分值
+
+* 設定分數：
+
+   * 在代理程式收件匣中 — 在即時聊天期間，代理程式可以更新或設定對話的分數，該分數會儲存在對話活動中
+
+   * 在資料流設計工具中 — 在目標卡片中，使用者可以更新或設定交談的分數
+
+![](assets/dynamic-chat-sep-oct-2024-release-2.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-3.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-4.png)
+
+### 新的潛在客戶建立邏輯 {#new-lead-creation-logic}
+
+如果潛在客戶填入具有電子郵件`abc@test.com`的表單並以xyz編碼，稍後再填入具有電子郵件`def@test.com`的相同表單，則會建立新的人員記錄，但cookie xyz會與新的人員產生關聯並從人員`abc@test.com`中移除。
+
+因此，當具有Cookie abc的訪客登陸頁面並提供電子郵件ID為`abc@test.com`時：
+
+<table><thead>
+  <tr>
+    <th>Visitor</th>
+    <th>Cookie</th>
+    <th>已提供電子郵件</th>
+    <th>預期行為</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>匿名</td>
+    <td>abc</td>
+    <td>資料庫中不存在</td>
+    <td>建立新人員</td>
+  </tr>
+  <tr>
+    <td>匿名</td>
+    <td>abc</td>
+    <td>存在於資料庫中</td>
+    <td>合併人員</td>
+  </tr>
+  <tr>
+    <td>匿名</td>
+    <td>xyz</td>
+    <td>存在於資料庫中</td>
+    <td>合併人員</td>
+  </tr>
+  <tr>
+    <td>已知人員</td>
+    <td>abc</td>
+    <td>與現有人員相同</td>
+    <td>更新人員</td>
+  </tr>
+  <tr>
+    <td>已知人員</td>
+    <td>abc</td>
+    <td>與現有人員不同</td>
+    <td>如果已經有已知人員存在，則轉移Cookie並解析該設定檔。 如果此電子郵件中沒有人員，請建立新的人員記錄並轉移Cookie</td>
+  </tr>
+  <tr>
+    <td>已知人員</td>
+    <td>xyz</td>
+    <td>與現有人員相同</td>
+    <td>將新Cookie新增至同一個人</td>
+  </tr>
+  <tr>
+    <td>已知人員</td>
+    <td>xyz</td>
+    <td>與現有人員不同</td>
+    <td>這種情況不可能發生，就好像它是新的Cookie，來自   預設為新的匿名設定檔</td>
+  </tr>
+</tbody></table>
+
+### 最佳化的交談流程載入時間 {#optimized-conversation-flow-load-time}
+
+為了改善使用者體驗，現在會在載入對話流程時顯示閃爍的載入器，而非空白區域。
+
+**在**&#x200B;之前
+
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
+
+**After**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
+
+### 繼承字型的選項 {#option-to-inherit-font}
+
+您現在可以啟用聊天機器人直接從託管它的網頁繼承字型，而不是在Dynamic Chat中管理品牌字型。 啟用此選項時，聊天機器人會採用頁面`<body>`標籤上定義的字型。
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+
+### Demandbase與Dynamic Chat整合 {#demandbase-integration-with-dynamic-chat}
+
+Demandbase使用者能夠自攜Demandbase授權並啟用整合。 使用Demandbase人員屬性進行對話方塊目標定位、條件式品牌和自訂路由。
+
+這些屬性值對個人的解決會即時完成，並儲存在各自的人員設定檔中。
 
 ## 2024 年 8 月發行版本 {#august-release}
 
