@@ -3,16 +3,16 @@ description: AdobeIdentity Management概觀 — Marketo檔案 — 產品檔案
 title: AdobeIdentity Management概觀
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 1defe6e8c7b4e458203169150ec77df4f615e5d2
+source-git-commit: 8d4a542687119e7e4044b26eeafcc71315609f19
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
 
 # AdobeIdentity Management概觀 {#adobe-identity-management-overview}
 
-所有新Adobe Marketo Engage訂閱（2023年7月31日或以上）都與AdobeIdentity Management System整合。 現有Marketo Engage訂閱目前正在任何銷售活動後移轉至AdobeIdentity Management系統，包括續約、重新合約活動及/或增補專案。 目前不支援在銷售事件外部進行移轉。
+所有新Adobe Marketo Engage訂閱（2023年7月31日或以上）都與AdobeIdentity Management System整合。 現有Marketo Engage訂閱目前正在任何銷售活動後移轉至AdobeIdentity Management系統，包括續約、重新合約活動及/或增補專案。 自2024年10月起，支援銷售活動以外的移轉。 如果計畫將訂閱移轉至銷售活動以外，Marketo管理員將提前2-4週收到通知。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 對於上架到Adobe身分的訂閱，Adobe Admin Console會用於使用者管理。 身分相關概念（例如單一登入）也會在Admin Console中管理。
 
 * 尋找有關[Adobe Admin Console](https://helpx.adobe.com/tw/enterprise/using/admin-console.html){target="_blank"}的詳細資訊。
-* 尋找與Marketo訂閱](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}相關的[設定Adobe組織的詳細資訊。
+* 尋找與Marketo訂閱](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}相關的[設定Adobe組織的詳細資訊。
 
 >[!NOTE]
 >
