@@ -4,7 +4,7 @@ description: 從智慧清單執行單一流程步驟 — Marketo檔案 — 產�
 title: 從智慧清單執行單一流程步驟
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-1.png)
 
 1. 選取清單或包含人員的智慧清單，然後前往&#x200B;**[!UICONTROL 人員]**&#x200B;標籤。
 
-   ![](assets/smartlistpeopletab-hands.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-2.png)
 
    >[!TIP]
    >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 1. 按一下&#x200B;**[!UICONTROL 全選]**。 您也可以使用&#x200B;**Ctrl/Cmd**，然後按一下以手動選取一些記錄。
 
-   ![](assets/smartlist-selectallhand.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-3.png)
 
    >[!NOTE]
    >
@@ -41,22 +41,22 @@ ht-degree: 0%
 
 1. 在&#x200B;**[!UICONTROL 人員動作]**&#x200B;下，選取您選擇的流程步驟。 在此範例中，我們將使用[變更資料值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}。
 
-   ![](assets/personactions-hands.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-4.png)
 
 1. 尋找並選取&#x200B;**[!UICONTROL 屬性]**。 在此範例中，我們將接受所有擁有州「加州」的人，並將其變更為「CA」。
 
-   ![](assets/runaction-hands.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-5.png)
 
 1. 輸入新值。 按一下&#x200B;**[!UICONTROL 立即執行]**。
 
-   ![](assets/runactionnewvalue-hands.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-6.png)
 
 1. 如果您要變更大量人員的資料值，您可能需要輸入數字以確認變更。 按一下&#x200B;**[!UICONTROL 前往它]**。
 
-   ![](assets/changedatavalue.jpg)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-7.png)
 
 做得棒極了！ 您會在右上角看到單一流程步驟的狀態。
 
-![](assets/completesingleflowaction.jpg)
+![](assets/run-a-single-flow-step-from-a-smart-list-8.png)
 
 完成後，請重新整理清單，您就會看到更新的資訊。

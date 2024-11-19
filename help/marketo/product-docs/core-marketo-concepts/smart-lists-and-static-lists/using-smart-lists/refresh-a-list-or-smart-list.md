@@ -4,7 +4,7 @@ description: 重新整理清單或智慧清單 — Marketo檔案 — 產品檔�
 title: 重新整理清單或智慧清單
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 1. 若要更新智慧清單&#x200B;**[!UICONTROL 人員]**&#x200B;索引標籤中的資料，請按一下重新整理圖示。
 
-   ![](assets/refreshbutton.png)
+   ![](assets/refresh-a-list-or-smart-list-1.png)
 
 1. 「智慧清單」會重新執行，並顯示最新的結果集。
 
-   ![](assets/loadingrefresh.png)
+   ![](assets/refresh-a-list-or-smart-list-2.png)
 
 >[!TIP]
 >
