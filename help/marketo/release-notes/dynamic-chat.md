@@ -3,7 +3,7 @@ description: Dynamic Chat 發行說明 - Marketo 文件 - 產品文件
 title: Dynamic Chat 發行說明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: b6fb381527a24286fef5e438d7bf12b029810e64
+source-git-commit: c0ccf1c515dbde48a131242939c077b44ffd5c1b
 workflow-type: tm+mt
 source-wordcount: '2427'
 ht-degree: 1%
@@ -120,29 +120,29 @@ Analytics Dashboard已進行數個增強功能，包括：
   </tr>
 </tbody></table>
 
-### 最佳化的交談流程載入時間 {#optimized-conversation-flow-load-time}
-
-為了改善使用者體驗，現在會在載入對話流程時顯示閃爍的載入器，而非空白區域。
-
-**在**&#x200B;之前
-
-![](assets/dynamic-chat-sep-oct-2024-release-5.png)
-
-**After**
-
-![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
-
 ### 繼承字型的選項 {#option-to-inherit-font}
 
 您現在可以啟用聊天機器人直接從託管它的網頁繼承字型，而不是在Dynamic Chat中管理品牌字型。 啟用此選項時，聊天機器人會採用頁面`<body>`標籤上定義的字型。
 
-![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
 ### Demandbase與Dynamic Chat整合 {#demandbase-integration-with-dynamic-chat}
 
 Demandbase使用者能夠自攜Demandbase授權並啟用整合。 使用Demandbase人員屬性進行對話方塊目標定位、條件式品牌和自訂路由。
 
 這些屬性值對個人的解決會即時完成，並儲存在各自的人員設定檔中。
+
+### 最佳化的交談流程載入時間 {#optimized-conversation-flow-load-time}
+
+為了改善使用者體驗，現在會在載入對話流程時顯示閃爍的載入器，而非空白區域。
+
+**在**&#x200B;之前
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.png)
+
+**After**
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.gif)
 
 ## 2024 年 8 月發行版本 {#august-release}
 
