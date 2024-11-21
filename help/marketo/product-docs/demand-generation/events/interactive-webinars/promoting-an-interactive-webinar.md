@@ -3,20 +3,20 @@ description: 推廣互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 推廣互動式網路研討會
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
+source-git-commit: e4a6123684162d9bbf2edddbd9aaf190030dc728
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
 
 # 推廣互動式網路研討會 {#promoting-an-interactive-webinar}
 
-宣傳互動式網路研討會與透過Launchpoint宣傳合作夥伴網路研討會類似。 建立互動式網路研討會事件程式時，您可以透過執行促銷活動或將成員匯入程式來將成員新增至程式。 若要檢查已新增至互動式網路研討會事件程式的成員，請按一下「成員」標籤。
+宣傳互動式網路研討會與透過Launchpoint宣傳合作夥伴網路研討會類似。 建立互動式網路研討會事件程式時，您可以執行行銷活動或將成員匯入程式來新增成員。 若要檢查已新增至互動式網路研討會活動程式的成員，請按一下&#x200B;**成員**&#x200B;標籤。
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
-成員新增或匯入方案後，您可以在互動式網路研討會活動方案中建立電子郵件促銷活動，以傳送邀請給所有方案成員，並在傳送電子郵件後將其狀態變更為「已邀請」。
+新增或匯入成員後，您可以在互動式網路研討會活動方案內建立電子郵件促銷活動，以傳送邀請給所有方案成員，並在傳送電子郵件後將其狀態變更為「已邀請」。
 
 >[!NOTE]
 >
