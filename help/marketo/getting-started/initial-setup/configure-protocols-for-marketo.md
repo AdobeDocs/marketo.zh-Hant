@@ -4,9 +4,9 @@ description: 設定Marketo Engage的通訊協定 — Marketo Engage檔案 — �
 title: 設定Marketo Engage通訊協定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: ed42e3662dc1f9c3b3b27d86d1df816ce26e1076
 workflow-type: tm+mt
-source-wordcount: '2145'
+source-wordcount: '2148'
 ht-degree: 0%
 
 ---
@@ -88,7 +88,7 @@ CNAME `[MktoTrackingLink]`中的`[YourEmailCNAME].[YourDomain].com`
 
 ## 步驟3：設定SPF和DKIM {#step-set-up-spf-and-dkim}
 
-您的行銷團隊也應傳送要新增至DNS資源記錄（亦列於下方）的DKIM （網域金鑰識別郵件）資訊給您。 按照步驟成功設定DKIM和SPF (Sender Policy Framework)，然後通知您的行銷團隊這已更新。
+您的行銷團隊也應已將DKIM (Domain Keys Identified Mail)資訊傳送給您，以新增至DNS資源記錄（亦列於下方）。 依照步驟成功設定DKIM和SPF (Sender Policy Framework)，然後通知您的行銷團隊此專案已更新。
 
 1. 若要設定SPF，請在我們的DNS專案中新增下列行：
 
@@ -100,7 +100,7 @@ CNAME `[MktoTrackingLink]`中的`[YourEmailCNAME].[YourDomain].com`
 
    將CompanyDomain取代為您網站的主網域（例如： &quot;`(company.com/)`&quot;），將CorpIP取代為您公司電子郵件伺服器的IP位址(例如： 「255.255.255.255」)。 如果您要透過Marketo Engage從多個網域傳送電子郵件，您應該讓IT人員為每個網域新增此行（一行）。
 
-1. 針對DKIM，請為每個要設定的網域建立DNS資源記錄。 我們將簽署的每個網域的主機記錄和TXT值如下：
+1. 針對DKIM，請為每個我們要設定的網域建立DNS資源記錄。 我們將簽署的每個網域的主機記錄和TXT值如下：
 
    `[DKIMDomain1]`：主機記錄為`[HostRecord1]`，且TXT值為`[TXTValue1]`。
 
@@ -110,16 +110,16 @@ CNAME `[MktoTrackingLink]`中的`[YourEmailCNAME].[YourDomain].com`
 
 ## 步驟4：設定DMARC {#set-up-dmarc}
 
-DMARC （網域型訊息驗證、報告和一致性）是一種驗證通訊協定，用於協助組織保護其網域免受未經授權的使用。 DMARC會擴充現有的驗證通訊協定（例如SPF和DKIM），以通知收件者伺服器如果網域發生驗證失敗，應採取的動作。 雖然DMARC目前是選用專案，但強烈建議您使用，因為這樣可以更有效保護組織的品牌和聲譽。 自2024年2月起，Google和Yahoo等主要提供者將要求針對大量傳送者使用DMARC。
+DMARC （網域型訊息驗證、報告和一致性）是一種驗證通訊協定，用於協助組織保護其網域免受未經授權的使用。 DMARC會擴充現有的驗證通訊協定(例如SPF和DKIM)，以通知收件者伺服器如果網域發生驗證失敗時應採取的動作。 雖然DMARC目前是選用專案，但強烈建議您使用，因為這樣可以更有效保護組織的品牌和聲譽。 自2024年2月起，Google和Yahoo等主要提供者將要求針對大量傳送者使用DMARC。
 
 若要讓DMARC正常運作，您必須至少擁有下列其中一個DNS TXT記錄：
 
 * 有效的SPF
-* 您的FROM：網域的有效DKIM記錄(建議用於Marketo Engage)
+* 您的起始位置的有效DKIM記錄：網域(建議用於Marketo Engage)
 
 此外，您必須擁有您的FROM：網域的DMARC特定DNS TXT記錄。 您可選擇定義您選擇的電子郵件地址，指出DMARC報表應在組織內的哪個位置，以便您監視報表。
 
-根據最佳實務，建議您將DMARC政策從p=none提升至p=quarantine、至p=reject，藉此慢慢推出DMARC實作，因為您瞭解DMARC的潛在影響，並將DMARC政策設定為放鬆SPF和DKIM的一致性。
+建議您逐步推出DMARC實作，將DMARC政策從p=none提升至p=quarantine、至p=reject，以瞭解DMARC的潛在影響，並將DMARC政策設定為放鬆SPF和DKIM上的一致，因為這樣會是最理想的作法。
 
 ### DMARC範例工作流程 {#dmarc-example-workflow}
 
@@ -129,7 +129,7 @@ DMARC （網域型訊息驗證、報告和一致性）是一種驗證通訊協�
 
    II. 如果合法的訊息驗證失敗，請檢閱並修正SPF/DKIM的問題。
 
-   三、 判斷SPF或DKIM是否已對齊，並傳遞所有合法電子郵件的驗證。
+   三、 判斷SPF或DKIM是否已對齊，並透過驗證所有合法電子郵件。
 
    四、 請檢閱報告，以確保根據SPF/DKIM政策得出的結果符合您的預期。
 
@@ -145,7 +145,7 @@ DMARC （網域型訊息驗證、報告和一致性）是一種驗證通訊協�
 
 ### DMARC報告 {#dmarc-reporting}
 
-DMARC提供接收有關SPF/DKIM失敗的電子郵件報表的功能。 在驗證流程中，ISP服務程式會產生兩種不同的報告，讓傳送者可透過其DMARC原則中的RUA/RUF標籤接收。
+DMARC提供接收有關未通過SPF/DKIM之電子郵件的報表的功能。 在驗證流程中，ISP服務程式會產生兩種不同的報告，讓傳送者可透過其DMARC原則中的RUA/RUF標籤接收。
 
 * 彙總報表(RUA)：不包含任何會對GDPR （一般資料保護規範）敏感的PII （個人識別資訊）。
 
@@ -229,7 +229,7 @@ DMARC記錄有多個稱為DMARC標籤的元件。 每個標籤都有一個值，
   <tr>
     <td>adkim</td>
     <td>選填</td>
-    <td>可以是「嚴格」(Strict) (s)或「寬鬆」®數。 寬鬆的對齊表示DKIM簽章中使用的網域可以是「寄件者」位址的子網域。 嚴格對齊表示DKIM簽章中使用的網域必須與寄件者位址中使用的網域完全相符。</td>
+    <td>可以是「嚴格」(Strict) (s)或「寬鬆」®數。 寬鬆的對齊表示DKIM簽章中使用的網域可以是「寄件者」位址的子網域。 嚴格對齊表示DKIM簽章中使用的網域必須與寄件者地址中使用的網域完全相符。</td>
     <td>adkim=r </td>
     <td>r</td>
   </tr>
@@ -251,11 +251,11 @@ DMARC有兩種對齊方式：DKIM對齊方式和SPF對齊方式。
 
 >[!NOTE]
 >
->建議在DKIM與SPF上執行DMARC校準以進行Marketo Engage。
+>建議在DKIM與SPF上進行DMARC校準以進行Marketo Engage。
 
-* DKIM-aligned DMARC — 若要設定DKIM-aligned DMARC，您必須：
+* DKIM校準的DMARC — 若要設定DKIM校準的DMARC ，您必須：
 
-   * 為訊息的FROM：網域設定DKIM。 使用本文章](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}中的指示[。
+   * 針對您訊息的「寄件者：網域」設定DKIM。 使用本文章](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}中的指示[。
    * 為先前設定的FROM：/DKIM網域設定DMARC
 
 * DMARC對齊的SPF — 若要透過品牌傳迴路徑設定DMARC對齊的SPF，您必須：
@@ -369,13 +369,20 @@ Marketo Engage[Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesfor
    <tr>
    <td>54.237.141.197</td>
   </tr>
+  <tr>
+   <td>124.47.174.193</td>
   </tr>
-   <tr>
+  <tr>
    <td>130.248.168.16</td>
-  </tr>
   </tr>
    <tr>
    <td>130.248.168.17</td>
+  </tr>
+  <tr>
+   <td>199.15.213.245</td>
+  </tr>
+  <tr>
+   <td>199.15.215.245</td>
   </tr>
  </tbody>
 </table>
