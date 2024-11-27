@@ -4,7 +4,7 @@ description: 使用進階智慧清單規則邏輯 — Marketo檔案 — 產品�
 title: 使用進階智慧清單規則邏輯
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 1. 從下拉式清單中選取&#x200B;**[!UICONTROL 使用進階篩選器]**。
 
-   ![](assets/one.png)
+   ![](assets/using-advanced-smart-list-rule-logic-1.png)
 
    >[!NOTE]
    >
@@ -40,11 +40,11 @@ ht-degree: 0%
 
 1. **[!UICONTROL 進階篩選器]**&#x200B;文字方塊會顯示「與」作為所有篩選器之間的預設值。
 
-   ![](assets/two-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-2.png)
 
 1. 在「2和3」周圍鍵入一對括弧。
 
-   ![](assets/three-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-3.png)
 
    >[!CAUTION]
    >
@@ -52,19 +52,19 @@ ht-degree: 0%
 
 1. 將「2 and 3」之間的「and」變更為「or」。
 
-   ![](assets/four-1.png)
+   ![](assets/using-advanced-smart-list-rule-logic-4.png)
 
 ## 混合「And」和「Or」時使用括弧 {#use-parentheses-when-mixing-and-and-or}
 
 混合「and」和「or」邏輯需要括弧來清楚表示您的意圖。
 
-![](assets/advancedfilters-parent.png)
+![](assets/using-advanced-smart-list-rule-logic-5.png)
 
 ## 視需要使用巢狀括弧括住四個或更多篩選器 {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 根據您的意圖，在使用四個或更多篩選器時，您可能需要新增巢狀括弧。
 
-![](assets/advancedfilters-nested.png)
+![](assets/using-advanced-smart-list-rule-logic-6.png)
 
 >[!TIP]
 >
