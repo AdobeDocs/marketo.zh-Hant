@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6095008
-description: 「新增 [!DNL Google AdWords] 作為 [!DNL LaunchPoint] 服務 — Marketo檔案 — 產品檔案」
-title: 「將 [!DNL Google AdWords] 新增為 [!DNL LaunchPoint] 服務」
+description: 新增 [!DNL Google AdWords] 作為 [!DNL LaunchPoint] 服務 — Marketo檔案 — 產品檔案
+title: 將 [!DNL Google AdWords] 新增為 [!DNL LaunchPoint] 服務
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

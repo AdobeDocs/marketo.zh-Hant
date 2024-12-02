@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10096583
-description: 「新一代 [!DNL Munchkin] 追蹤常見問題集 — Marketo檔案 — 產品檔案」
-title: 「新一代 [!DNL Munchkin] 追蹤常見問題集」
+description: 新一代 [!DNL Munchkin] 追蹤常見問題集 — Marketo檔案 — 產品檔案
+title: 新一代 [!DNL Munchkin] 追蹤常見問題集
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 我是否需要變更網站上的[!DNL Munchkin]追蹤？ {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-不適用。 [!DNL Munchkin]追蹤程式碼維持不變。 您的網站不需要任何變更。
+不可以。 [!DNL Munchkin]追蹤程式碼維持不變。 您的網站不需要任何變更。
 
 >[!NOTE]
 >

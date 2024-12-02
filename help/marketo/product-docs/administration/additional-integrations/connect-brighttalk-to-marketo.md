@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15695874
 description: 連線 [!DNL BrightTALK] 至Marketo - Marketo檔案 — 產品檔案
-title: "連線 [!DNL BrightTALK] 至Marketo"
+title: 連線 [!DNL BrightTALK] 至Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '309'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

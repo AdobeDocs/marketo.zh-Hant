@@ -1,6 +1,6 @@
 ---
-description: 「變更 [!DNL Velocity Scripting] - Marketo檔案 — 產品檔案中的自訂物件擷取限制」
-title: 「變更 [!DNL Velocity Scripting]中的自訂物件擷取限制」
+description: 在 [!DNL Velocity Scripting] - Marketo檔案 — 產品檔案中變更自訂物件擷取限制
+title: 變更 [!DNL Velocity Scripting]中的自訂物件擷取限制
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f

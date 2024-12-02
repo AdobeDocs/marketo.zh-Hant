@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512289
-description: 「新增 [!DNL GoToWebinar] 作為 [!DNL LaunchPoint] 服務 — Marketo檔案 — 產品檔案」
-title: 「將 [!DNL GoToWebinar] 新增為 [!DNL LaunchPoint] 服務」
+description: 新增 [!DNL GoToWebinar] 作為 [!DNL LaunchPoint] 服務 — Marketo檔案 — 產品檔案
+title: 將 [!DNL GoToWebinar] 新增為 [!DNL LaunchPoint] 服務
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b

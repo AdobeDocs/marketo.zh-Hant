@@ -1,7 +1,7 @@
 ---
 unique-page-id: 17728028
-description: 「新增 [!DNL Zoom] 作為 [!DNL LaunchPoint] 服務 — Marketo檔案 — 產品檔案」
-title: 「將 [!DNL Zoom] 新增為 [!DNL LaunchPoint] 服務」
+description: 新增 [!DNL Zoom] 作為 [!DNL LaunchPoint] 服務 — Marketo檔案 — 產品檔案
+title: 將 [!DNL Zoom] 新增為 [!DNL LaunchPoint] 服務
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b

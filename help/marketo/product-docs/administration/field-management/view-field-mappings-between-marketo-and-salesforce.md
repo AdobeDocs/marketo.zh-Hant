@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360344
-description: 「檢視Marketo與 [!DNL Salesforce] - Marketo檔案 — 產品檔案之間的欄位對應」
-title: 「檢視Marketo與 [!DNL Salesforce]之間的欄位對應」
+description: 檢視Marketo與 [!DNL Salesforce] - Marketo檔案之間的欄位對應 — 產品檔案
+title: 檢視Marketo與 [!DNL Salesforce]之間的欄位對應
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5

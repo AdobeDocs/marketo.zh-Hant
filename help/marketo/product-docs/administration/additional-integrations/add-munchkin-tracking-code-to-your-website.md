@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360354
-description: 「新增 [!DNL Munchkin] 追蹤程式碼至您的網站 — Marketo檔案 — 產品檔案」
-title: 「新增 [!DNL Munchkin] 追蹤程式碼至您的網站」
+description: 新增 [!DNL Munchkin] 追蹤程式碼至您的網站 — Marketo檔案 — 產品檔案
+title: 新增 [!DNL Munchkin] 追蹤程式碼至您的網站
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
@@ -39,7 +39,7 @@ Marketo的自訂JavaScript追蹤程式碼([!DNL Munchkin])會追蹤造訪您網�
 
    >[!NOTE]
    >
-   >在幾乎所有情況下，您都應該使用非同步程式碼。 [深入瞭解](#types-of-munchkin-tracking-codes)。
+   >在幾乎所有情況下，您都應該使用非同步程式碼。 [了解更多](#types-of-munchkin-tracking-codes)。
 
 1. 按一下並複製Javascript追蹤程式碼，以放置到您的網站上。
 
@@ -59,7 +59,7 @@ Marketo的自訂JavaScript追蹤程式碼([!DNL Munchkin])會追蹤造訪您網�
 
    >[!TIP]
    >
-   >若是網站發生大量流量（亦即每月有數十萬次造訪），建議您不要追蹤匿名人員。 [深入瞭解](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking/){target="_blank"}。
+   >若是網站發生大量流量（亦即每月有數十萬次造訪），建議您不要追蹤匿名人員。 [了解更多](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking/){target="_blank"}。
 
 ## 使用多個工作區時新增追蹤程式碼 {#add-tracking-code-when-using-multiple-workspaces}
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512292
-description: 「新增 [!DNL Level 3 Web Meeting] 作為 [!DNL LaunchPoint] 服務 — Marketo檔案 — 產品檔案」
-title: 「將 [!DNL Level 3 Web Meeting] 新增為 [!DNL LaunchPoint Service]」
+description: 新增 [!DNL Level 3 Web Meeting] 作為 [!DNL LaunchPoint] 服務 — Marketo檔案 — 產品檔案
+title: 將 [!DNL Level 3 Web Meeting] 新增為 [!DNL LaunchPoint Service]
 exl-id: f419b019-33bb-446d-baf5-55393770a703
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b

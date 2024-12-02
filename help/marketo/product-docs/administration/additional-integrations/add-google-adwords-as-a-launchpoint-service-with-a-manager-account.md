@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504893
-description: 「使用管理員帳戶新增 [!DNL Google AdWords] as a [!DNL Launchpoint] 服務 — Marketo檔案 — 產品檔案」
-title: 「將 [!DNL Google AdWords] 新增為具有管理員帳戶的 [!DNL Launchpoint] 服務」
+description: 將 [!DNL Google AdWords] 新增為具有管理員帳戶的 [!DNL Launchpoint] 服務 — Marketo檔案 — 產品檔案
+title: 將 [!DNL Google AdWords] 新增為具有管理員帳戶的 [!DNL Launchpoint] 服務
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
