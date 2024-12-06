@@ -4,16 +4,16 @@ short-description: 完成初步設定步驟後，了解如何建立基本元素�
 title: 使用者設定檢查清單
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
 workflow-type: tm+mt
-source-wordcount: '811'
+source-wordcount: '823'
 ht-degree: 7%
 
 ---
 
 # 使用者設定檢查清單 {#user-setup-checklist}
 
-現在您已完成所有[初始設定步驟](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}，您可以建立一些基礎元素，以確保順利進行使用。 這將為您使用Marketo Engage的旅程奠定基礎，並幫助您充分利用其功能。 讓我們開始吧！
+現在您已完成所有[初始設定步驟](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}，您可以建立一些基礎元素，以確保順利進行使用。 這將為您使用Marketo Engage的旅程奠定基礎，並幫助您充分利用其功能。 我們開始吧！
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ ht-degree: 7%
 <table>
 <thead>
   <tr>
-    <th style="width:20%">面積圖</th>
+    <th style="width:20%">區域圖</th>
     <th style="width:80%">動作專案</th>
   </tr>
 </thead>
@@ -48,6 +48,7 @@ ht-degree: 7%
   <tr>
     <td>使用者</td>
     <td><li>建立原則於何時<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">建立使用者</a>。</li> <li>在何時移除使用者時建立原則。</li>
+    <p><img src="assets/note-icon.png" alt="附註圖示"> 注意：您必須是系統管理員才能移除使用者。
     <li>決定誰應該擁有<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe系統管理員和Marketo Engage產品管理員許可權。</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">將使用者</a>新增到所需的產品設定檔。</li>
     <li>為每個API使用案例建立一個API使用者。</li></td>
   </tr>
@@ -73,7 +74,7 @@ ht-degree: 7%
 <table>
 <thead>
   <tr>
-    <th style="width:20%">面積圖</th>
+    <th style="width:20%">區域圖</th>
     <th style="width:80%">動作專案</th>
   </tr>
 </thead>
@@ -105,7 +106,7 @@ ht-degree: 7%
 <table>
 <thead>
   <tr>
-    <th style="width:20%">面積圖</th>
+    <th style="width:20%">區域圖</th>
     <th style="width:80%">動作專案</th>
   </tr>
 </thead>

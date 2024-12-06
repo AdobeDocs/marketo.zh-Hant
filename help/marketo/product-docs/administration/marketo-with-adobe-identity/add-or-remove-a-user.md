@@ -3,9 +3,9 @@ description: 新增或移除使用者 — Marketo檔案 — 產品檔案
 title: 新增或移除使用者
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 2%
    >
    >使用者&#x200B;_必須_&#x200B;新增至產品設定檔才能存取Marketo Engage。
 
-1. 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/add-or-remove-a-user-8.png)
 
@@ -57,6 +57,10 @@ ht-degree: 2%
 >透過Adobe Admin Console將使用者新增到Marketo Engage時，他們將在訂閱的預設工作區中獲得「標準使用者」角色。 如果需要調整使用者在工作區中的角色，則以Marketo Engage完成，[如此處所述](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}。
 
 ## 移除使用者 {#remove-a-user}
+
+>[!NOTE]
+>
+>您必須是系統管理員才能移除使用者。
 
 1. 登入[Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}。
 
@@ -87,4 +91,4 @@ ht-degree: 2%
 >[!MORELIKETHIS]
 >
 >* [Adobe Admin Console使用者](https://helpx.adobe.com/tw/enterprise/using/users.html){target="_blank"}
->* [個別管理使用者](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [個別管理使用者](https://helpx.adobe.com/tw/enterprise/using/manage-users-individually.html){target="_blank"}
