@@ -3,10 +3,10 @@ description: 傳統圖示字彙表 — Marketo檔案 — 產品檔案
 title: 傳統圖示字彙表
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '563'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -220,7 +220,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-9-8-3a40-3a3.png"> 
     </td> 
-   <td>管理員</td> 
+   <td>管理</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-8-3a46-3a19.png"> 
@@ -351,7 +351,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a42-3a29.png"> 
     </td> 
-   <td>Social</td> 
+   <td>社交</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a43-3a17.png"> 
@@ -617,7 +617,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a8-3a40.png"> 
     </td> 
-   <td>最新</td> 
+   <td>新增</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a8-3a47.png"> 
@@ -668,7 +668,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-9-12-3a55-3a51.png"> 
     </td> 
-   <td>報告</td> 
+   <td>報表</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-12-3a56-3a29.png"> 
@@ -734,12 +734,12 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a27-3a2.png"> 
     </td> 
-   <td>數量</td> 
+   <td>數字</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </td> 
-   <td>Salesforce （同樣適用於所有SFDC相關料號）</td> 
+   <td>Salesforce (也會出現在所有SFDC相關專案中)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a44-3a30.png"> 
@@ -790,7 +790,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </td> 
-   <td>Salesforce （同樣適用於所有SFDC相關料號）</td> 
+   <td>Salesforce (也會出現在所有SFDC相關專案中)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a33-3a11.png"> 
@@ -871,7 +871,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a9-3a33.png"> 
     </td> 
-   <td>最新</td> 
+   <td>新增</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a9-3a39.png"> 
@@ -881,7 +881,8 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a9-3a47.png"> 
     </td> 
-   <td>匯入</td> 
+   <td>讀入</td> 
   </tr> 
  </tbody> 
 </table>
+ 

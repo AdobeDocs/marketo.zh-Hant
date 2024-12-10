@@ -4,7 +4,7 @@ description: 在電子郵件中轉寄給朋友連結 — Marketo檔案 — 產�
 title: 在電子郵件中轉寄給朋友連結
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 1. 將下列HTML程式碼貼到您希望[轉寄給朋友]連結出現的位置（如果您需要此部分的協助，請洽詢您的網頁開發人員）：
 
-   `<pre data-theme="Confluence"><a href="{{system.forwardToFriendLink}}">Forward to Friend</a></pre>`
+   `<a href="{{system.forwardToFriendLink}}">Forward to Friend</a>`
 
    ![](assets/three-7.png)
 
@@ -122,9 +122,9 @@ ht-degree: 0%
 
    ![](assets/sixteen.png)
 
-1. 若要依ID檢視人員，請將&#x200B;**人員ID**&#x200B;複製並貼到URL結尾(上述URL的開頭取決於您的Marketo執行個體)：
+1. 若要依ID檢視人員，請將&#x200B;**人員ID**&#x200B;複製並貼到URL結尾(URL的開頭取決於您的Marketo執行個體)：
 
-   `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
+   `...marketo.com/Database/loadPersonDetail?personId=`
 
    >[!NOTE]
    >

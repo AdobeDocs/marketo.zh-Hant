@@ -4,9 +4,9 @@ description: 一次核准多個登陸頁面 — Marketo檔案 — 產品檔案
 title: 一次核准多個登陸頁面
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 1. 移至&#x200B;**設計工作室**。
 
-   ![](assets/image2014-9-17-11-3a35-3a5.png)
+   ![](assets/approve-multiple-landing-pages-at-once-1.png)
 
 1. 按一下&#x200B;**登陸頁面**。
 
-   ![](assets/image2014-9-17-11-3a35-3a11.png)
+   ![](assets/approve-multiple-landing-pages-at-once-2.png)
 
-1. 按住Ctrl鍵(Windows)或Command鍵(Mac)，然後按一下以選取多個登陸頁面。
+1. 選取所需的登陸頁面。
 
-   ![](assets/image2014-9-17-11-3a35-3a19.png)
+   ![](assets/approve-multiple-landing-pages-at-once-3.png)
 
    >[!TIP]
    >
-   >請勿按一下實際的登入頁面名稱，這些是連結，會帶您前往頁面本身。
+   >請勿按一下實際的登陸頁面名稱，這些是連結，會帶您前往頁面本身。
 
-1. 選取您的登入頁面後，移至&#x200B;**登入頁面動作**&#x200B;並按一下&#x200B;**核准**。
+1. 選取登陸頁面後，按一下&#x200B;**登陸頁面動作**&#x200B;下拉式清單，然後選取&#x200B;**核准**。
 
-   ![](assets/image2014-9-17-11-3a35-3a27.png)
+   ![](assets/approve-multiple-landing-pages-at-once-4.png)
 
-   好了！ 您現在可以快速輕鬆地核准多個登陸頁面。
+1. 按一下&#x200B;**核准**。
 
-   ![](assets/image2014-9-17-11-3a35-3a36.png)
+   ![](assets/approve-multiple-landing-pages-at-once-5.png)
 
    >[!TIP]
    >

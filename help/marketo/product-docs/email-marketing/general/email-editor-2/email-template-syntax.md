@@ -4,7 +4,7 @@ description: 電子郵件範本語法 — Marketo檔案 — 產品檔案
 title: 電子郵件範本語法
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '2449'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Marketo電子郵件語法只適用於範本和個別電子郵件；如果內嵌�
 
 * RTF文字
 * 影像
-* 代碼片段
+* 程式碼片段
 * 影片
 
 ## RTF文字 {#rich-text}
@@ -57,7 +57,7 @@ HTML元素（如果提供）中具有class=&quot;mktEditable&quot;的內容將�
 
 範例：
 
-`<pre data-theme="Confluence"><div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ### 選項2 - mktoText {#option-mktotext}
 
@@ -75,7 +75,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的內容將用�
 
 範例：
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ## 影像 {#images}
 
@@ -106,7 +106,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的內容將用�
 
 範例：
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### 選項2 — 使用\&lt;img\> {#option-use-an-img}
 
@@ -124,9 +124,9 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的內容將用�
 * **mktoLockImgStyle：**&#x200B;用於鎖定`<img>`專案的樣式屬性（預設為false）。
 
 範例：
-`<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
+`<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
-## 代碼片段 {#snippets}
+## 程式碼片段 {#snippets}
 
 如果您將區域定義為程式碼片段，一般使用者將可以選擇他們要插入此區域的已核准[程式碼片段](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)。 雖然RTF元素可以從電子郵件編輯器內轉換為代碼片段，但當您明確將區域定義為代碼片段時，無法將它轉換為RTF。 您可以使用`<div>`搭配class=&quot;mktoSnippet&quot;來指定代碼片段區域
 
@@ -141,7 +141,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的內容將用�
 
 範例：
 
-`<pre data-theme="Confluence"><div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div></pre>`
+`<div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div>`
 
 ## 影片 {#video}
 
@@ -158,7 +158,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的內容將用�
 
 範例：
 
-`<pre data-theme="Confluence"><div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div></pre>`
+`<div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div>`
 
 ## 變數 {#variables}
 
@@ -181,11 +181,11 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的內容將用�
 
 宣告範例：
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me"></pre>`
+`<meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me">`
 
 使用範例：
 
-`<pre data-theme="Confluence">${textHeader}</pre>`
+`${textHeader}`
 
 ## 清單 {#list}
 
@@ -204,13 +204,13 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的內容將用�
 
 宣告範例：
 
-`<pre data-theme="Confluence"><meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman"></pre>`
+`<meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman">`
 
 使用範例：
 
-`<pre data-theme="Confluence">${textFontFamily}</pre>`
+`${textFontFamily}`
 
-## 數量 {#number}
+## 數字 {#number}
 
 如果您指定變數作為數字，一般使用者可在電子郵件編輯器中輸入數字。 您指定使用`<meta>`搭配class=&quot;mktoNumber&quot;的數字變數
 
@@ -224,17 +224,17 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的內容將用�
 
 * **分鐘：**&#x200B;分鐘接受的值。
 * **最大值：**&#x200B;接受的最大值。
-* **單位：**&#x200B;要附加至數字值的單位（例如：px、pt、em等） 在電子郵件編輯器中顯示時，以及在產生的程式碼中顯示。
+* **單位：**&#x200B;當顯示在電子郵件編輯器以及產生的程式碼中時，附加至數字值（例如：px、pt、em等）的單位。
 * **步驟：**&#x200B;數字變數應該增加/減少多少單位（0.1、1、10等）。 如果省略，預設值為1。
 * **mktoModuleScope**：布林值。 控制變數在模組中使用時為本機(true)或全域(false)。 如果省略，則預設為False。
 
 宣告範例：
 
-`<pre data-theme="Confluence"><meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> </pre>`
+`<meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> `
 
 使用範例：
 
-`<pre data-theme="Confluence">${textFontSize}</pre>`
+`${textFontSize}`
 
 ## 顏色 {#color}
 
@@ -252,11 +252,11 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的內容將用�
 
 宣告範例：
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF"></pre>`
+`<meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF">`
 
 使用範例：
 
-`<pre data-theme="Confluence">${textColor}</pre>`
+`${textColor}`
 
 ## 布林值 {#boolean}
 
@@ -278,11 +278,11 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的內容將用�
 
 宣告範例：
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES"></pre>`
+`<meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES">`
 
 使用範例：
 
-`<pre data-theme="Confluence">${showFooter}</pre>`
+`${showFooter}`
 
 ## HTML區塊 {#html-block}
 
@@ -300,11 +300,11 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的內容將用�
 
 宣告範例：
 
-`<pre data-theme="Confluence"><meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel"></pre>`
+`<meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel">`
 
 使用範例：
 
-`<pre data-theme="Confluence">${trackingPixel}</pre>`
+`${trackingPixel}`
 
 ## 影像變數 {#image-variable}
 
@@ -322,11 +322,11 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的內容將用�
 
 宣告範例：
 
-`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg"></pre>`
+`<meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg">`
 
 使用範例：
 
-`<pre data-theme="Confluence">${heroBackgroundImage}</pre>`
+`${heroBackgroundImage}`
 
 ## 模組 {#modules}
 
