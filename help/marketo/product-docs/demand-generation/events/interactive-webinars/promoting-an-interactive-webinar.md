@@ -3,9 +3,9 @@ description: 推廣互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 推廣互動式網路研討會
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
+source-git-commit: 6747a7b85047024d295ecc2c061bb6370ccfe0b9
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 在註冊後的幾分鐘內，成員的「網路研討會URL」就會填入到「成員」標籤中。 如果您找不到網路研討會URL的欄，請確定該欄已新增至您的檢視。 這是每個註冊會員的個人化URL，可讓您在排程時間參加網路研討會，而不需要任何驗證。 內部交換的權杖會處理成員的驗證。
 
-您可以使用權杖，將網路研討會URL加入電子郵件促銷活動中的個別成員，以傳達他們已在事件中註冊，並使用加入URL在排程時間進入網路研討會。 行事曆權杖可用於相同的電子郵件行銷活動，以確保網路研討會排程可新增到成員的行事曆。
+您可以使用`{{member.webinar url}}` [權杖](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}將網路研討會URL加入電子郵件促銷活動中的個別成員，以傳達他們已在事件中註冊，並使用加入URL在排程時間進入網路研討會。 行事曆權杖可用於相同的電子郵件行銷活動，以確保網路研討會排程可新增到成員的行事曆。
 
 連結可在您的Event Program中的「概觀」標籤右側取得，以建立登入頁面以及電子郵件促銷活動。 與活動相關的其餘促銷活動，與使用Launchpoint整合的合作夥伴網路研討會相同。
 
