@@ -4,9 +4,9 @@ description: 使用縮放建立事件 — Marketo檔案 — 產品檔案
 title: 以縮放建立事件
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 0%
 
    ![](assets/selectevent.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下&#x200B;**儲存**。
 
    ![](assets/eventsettingssave.png)
 
@@ -103,4 +103,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >資料可能需要48小時才會出現在Marketo中。 如果等了這麼久，您仍然看不到任何內容，請從您事件的&#x200B;**摘要**&#x200B;索引標籤中的[事件動作]功能表，選取[網路研討會提供者]的&#x200B;**重新整理**。
+   >資料可能需要48小時才會出現在Marketo中。 如果等了這麼久，您還是看不到任何內容，請從您事件的&#x200B;**摘要**&#x200B;索引標籤中的[事件動作]功能表，選取[網路研討會提供者]中的[重新整理]****，然後按一下畫面右下方的重新整理圖示。

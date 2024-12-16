@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2360364
-description: 步驟3之2 — 建立Marketo (Enterprise/Unlimited)的Salesforce使用者 — Marketo檔案 — 產品檔案
+description: 步驟3之2 — 建立Marketo的Salesforce使用者(Enterprise/Unlimited) - Marketo檔案 — 產品檔案
 title: 步驟3之2 — 建立Marketo的Salesforce使用者(Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 3%
@@ -124,20 +124,20 @@ ht-degree: 3%
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1" rowspan="1"><p>物件</p></th> 
-   <th colspan="1" rowspan="1"><p>欄位</p></th> 
+   <th>物件</th> 
+   <th>欄位</th> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>帳戶</p></td> 
-   <td colspan="1" rowspan="1"><p>型別欄位</p></td> 
+   <td>帳戶</td> 
+   <td>型別欄位</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>事件</p></td> 
-   <td colspan="1" rowspan="1"><p>所有欄位</p></td> 
+   <td>活動</td> 
+   <td>所有欄位</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>任務</p></td> 
-   <td colspan="1" rowspan="1"><p>所有欄位</p></td> 
+   <td>任務</td> 
+   <td>所有欄位</td> 
   </tr> 
  </tbody> 
 </table>
@@ -162,4 +162,4 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[步驟3之3：連線Marketo與Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}
+>[步驟3之3：連線Marketo和Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}

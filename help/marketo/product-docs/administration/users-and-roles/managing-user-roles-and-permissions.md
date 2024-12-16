@@ -4,9 +4,9 @@ description: 管理使用者角色和許可權 — Marketo檔案 — 產品檔�
 title: 管理使用者角色和許可權
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -103,7 +103,7 @@ Marketo提供數個內建角色，具有不同的存取層級：
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. 必要時，請變更&#x200B;**[!UICONTROL 角色名稱]**&#x200B;和&#x200B;**[!UICONTROL 描述]**，然後變更相關&#x200B;**[!UICONTROL 許可權]**&#x200B;的選取專案。
+1. 必要時變更&#x200B;**[!UICONTROL 角色名稱]**&#x200B;和&#x200B;**[!UICONTROL 描述]**，變更相關&#x200B;**[!UICONTROL 許可權]**&#x200B;的選擇，並在完成時按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 
