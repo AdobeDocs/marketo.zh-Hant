@@ -3,7 +3,7 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 2%
@@ -41,23 +41,21 @@ ht-degree: 2%
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
   <tr> 
    <td><strong>在互動式網路研討會中取消註冊註冊者</strong>：現在，如果您由於任何原因不想讓註冊者參加網路研討會，可以取消註冊。 工作流程會從Marketo事件計畫和Adobe Connect中移除註冊者。</td> 
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
   <tr> 
-  <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
+  </tr>
   <tr> 
    <td><strong>停用封存的行銷活動</strong>：停用作用中觸發行銷活動，並在封存時取消資料夾中行銷活動的任何排程批次執行。 由於對包含有效行銷活動的封存資料夾有額外的許可權檢查（啟用觸發行銷活動和排程批次行銷活動），因此此功能在此版本中預設為停用，並可在您的Marketo Engage訂閱中導覽至<b>管理員</b> &gt; <b>Treasure Chest</b>來啟用。</td> 
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
-  <tr> 
  </tbody> 
 </table>
 <br/>
