@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: b97888aba47d98e26f9a7c6afb7d7fc60a3eb31b
+source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
 workflow-type: tm+mt
-source-wordcount: '9379'
+source-wordcount: '9383'
 ht-degree: 0%
 
 ---
@@ -1018,8 +1018,8 @@ ht-degree: 0%
          + [持久取消訂閱](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Email Deliverability Power Pack：如何匯入種子清單](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [電子郵件中的硬跳出和軟跳出](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
-         + [設定自訂DKIM簽章](product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)
-         + [設定SPF和DKIM以提供電子郵件傳遞能力](product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)
+         + [設定自訂DKIM簽名](product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)
+         + [設定SPF和DKIM以提供您的電子郵件傳遞能力](product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)
          + [共用和專用IP位址](product-docs/email-marketing/deliverability/shared-and-dedicated-ip-addresses.md)
          + [瞭解取消訂閱](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [使用您的專用IP位址傳送電子郵件](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
@@ -1625,7 +1625,7 @@ ht-degree: 0%
          + [設定行動應用程式Android推送存取權](product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
          + [設定行動應用程式iOS推送存取權](product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
          + [刪除行動應用程式](product-docs/mobile-marketing/admin/delete-mobile-app.md)
-         + [傳送SDK程式碼給開發人員](product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)
+         + [將SDK程式碼傳送給開發人員](product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)
          + [驗證推播設定](product-docs/mobile-marketing/admin/verify-push-configuration.md)
       + 應用程式內訊息{#in-app-messages}
          + [瞭解應用程式內訊息](product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
@@ -1982,6 +1982,7 @@ ht-degree: 0%
          + [發行說明： 2024年4月](release-notes/previous-releases/2024/release-notes-apr-24.md)
          + [發行說明： 2024年6月](release-notes/previous-releases/2024/release-notes-june-24.md)
          + [發行說明： 2024年7月](release-notes/previous-releases/2024/release-notes-july-24.md)
+         + [發行說明： 2024年10月](release-notes/previous-releases/2024/release-notes-oct-24.md)
       + 2023 {#2023}
          + [發行說明： 2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [發行說明： 2023年3月](release-notes/previous-releases/2023/release-notes-mar-23.md)
