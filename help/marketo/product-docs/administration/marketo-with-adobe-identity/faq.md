@@ -3,9 +3,9 @@ description: AdobeIdentity Management常見問題集 — Marketo檔案 — 產�
 title: AdobeIdentity Management常見問題集
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 525417cc289d918f6ff8038c1c293f5c4aca0f9c
+source-git-commit: ec0fcba763a50348c3424a1ba33c5fc700093c68
 workflow-type: tm+mt
-source-wordcount: '1484'
+source-wordcount: '1521'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ AdobeIdentity Management系統包含三個元件。
 
 可以。移轉後，Marketo Engage會從experience.adobe.com傳送至Adobe Experience Cloud。 您必須與您的IT團隊合作，允許列出本文](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}頂端所列[的所有Adobe網域，以防止Marketo Engage存取中斷。
 
-先前在engage-xx.marketo.com網域&#x200B;_上Marketo Engage資產的連結和書籤將_&#x200B;繼續運作。 不過，您必須先登入您要導覽至的URL的Marketo Engage例項。 例如，若要導覽至Munchkin ID為123-ABC-456之Smart Campaign執行個體的書籤，您必須先以Munchkin ID 123-ABC-456登入Marketo Engage執行個體。
+先前在engage-xx.marketo.com網域&#x200B;_上Marketo Engage資產的連結和書籤將_&#x200B;繼續運作。 不過，您必須先登入您要導覽至的URL的Marketo Engage例項。 例如，若要導覽至Munchkin ID為123-ABC-456之執行個體中Smart Campaign的書籤，您必須先以Munchkin ID 123-ABC-456登入Marketo Engage執行個體。
 
 **Adobe產品管理員和Marketo Engage管理員之間有何差異？**
 
@@ -56,7 +56,7 @@ AdobeIdentity Management系統包含三個元件。
 
 * 支援後遷移完成：產品支援管理員可以透過Experience League支援入口網站提出案例。
 
-如果您擁有最終成功，則可存取Admin Console移轉白手套服務。 請聯絡Adobe客戶團隊（您的客戶經理）以尋求協助。
+如果您有Ultimate Success，便能存取Admin Console移轉白手套服務。 請聯絡Adobe客戶團隊（您的客戶經理）以尋求協助。
 
 **如果我使用Adobe識別來存取其他Adobe應用程式，可以使用該識別來存取Marketo嗎？**
 
@@ -130,9 +130,13 @@ Adobe Identity Management System將於2025年初推出一項功能，僅支援�
 
 當訂閱上架到Adobe身分時，單一登入(SSO)會在Adobe組織層級設定。 這表示SSO適用於Adobe組織中的所有產品執行個體。SSO設定後，將套用至該Adobe組織中的所有Marketo執行個體。之前，Marketo在執行個體層級支援此設定。 Adobe Identity Management系統不支援此功能。
 
-**在Adobe識別移轉後，我們目前用於Marketo Engage的CNAME、SPF或DKIM是否需要任何變更？**
+**在Adobe身分移轉後，我們目前用於Marketo Engage的CNAME、SPF或DKIM是否需要任何變更？**
 
 否，這些設定不受影響。
+
+**如何防止工作階段逾時？**
+
+在[進階設定](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings)中，您可以自訂想要的最長工作階段存留期（需要系統管理員許可權）。 建議在產品移轉後、使用者移轉前建立此設定。
 
 **我現在必須瀏覽到Experience Cloud才能存取Marketo Engage。 有辦法簡化此流程嗎？**
 
