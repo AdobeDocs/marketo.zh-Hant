@@ -4,7 +4,7 @@ description: 步驟3之1 — 將Marketo欄位新增至Salesforce (Enterprise/Unl
 title: 步驟3之1 — 將Marketo欄位新增至Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
 workflow-type: tm+mt
 source-wordcount: '766'
 ht-degree: 7%
@@ -19,15 +19,15 @@ ht-degree: 7%
 
 Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 如果您想在Salesforce中使用此資料，請遵循下列指示。
 
-1. 在銷售機會和聯絡人物件的Salesforce中建立三個自訂欄位：分數、贏取方案和贏取日期。
-1. 在銷售機會和聯絡人之間對應這些自訂欄位，以便在Salesforce中的轉換時值能延續。
+1. 在潛在客戶和聯絡物件的Salesforce中建立三個自訂欄位：分數、贏取方案和贏取日期。
+1. 在潛在客戶與聯絡人之間對應這些自訂欄位，以便在Salesforce中進行轉換時值能延續。
 1. 如有需要，您可以建立其他欄位（請參閱下表）。
 
 所有這些自訂欄位都是選用欄位，不需要用來同步Marketo和Salesforce。 根據最佳實務，建議您建立「分數」、「贏取方案」和「贏取日期」欄位。
 
 ## 將Marketo欄位新增至Salesforce {#add-marketo-fields-to-salesforce}
 
-在以上列出的Salesforce中的潛在客戶與聯絡人物件上新增三個自訂欄位。 如果您想要新增更多欄位，請參閱本區段末尾的可用欄位表。
+在以上列出的Salesforce中的潛在客戶與聯絡人物件上，新增三個自訂欄位。 如果您想要新增更多欄位，請參閱本區段末尾的可用欄位表。
 
 對三個自訂欄位中的每一個執行以下步驟以新增它們。 從分數開始。
 
@@ -78,7 +78,7 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 如果您
   <tr> 
    <td>分數</td> 
    <td>mkto71_Lead_Score</td> 
-   <td>數量</td> 
+   <td>數字</td> 
    <td>長度10<br>小數位數0 </td> 
   </tr> 
   <tr> 
@@ -158,7 +158,7 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 如果您
   <tr> 
    <td>贏取方案ID</td> 
    <td>mkto71_Acquisition_Program_Id</td> 
-   <td>數量</td> 
+   <td>數字</td> 
    <td>長度18<br>小數位數0 </td> 
   </tr> 
   <tr> 
@@ -238,11 +238,11 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 如果您
 
 >[!NOTE]
 >
->建立新欄位後，Marketo自動指派的欄位值將無法立即在Salesforce中使用。 Marketo會在下次更新任一系統上的記錄時(即更新在Marketo和Salesforce之間同步的任何欄位)，將資料同步至Salesforce。
+>建立新欄位後，Marketo自動指派的欄位值將無法立即在Salesforce中使用。 下次更新任一系統上的記錄時(即更新任何在Salesforce和Marketo之間同步的欄位)，Marketo會將資料同步至Salesforce。
 
 ## 對應自訂欄位以進行轉換 {#map-custom-fields-for-conversions}
 
-Salesforce中潛在客戶物件上的自訂欄位應該對應到聯絡人物件上的聯絡人欄位，以便在轉換發生時傳遞資料。
+Salesforce中潛在客戶物件上的自訂欄位應對應至聯絡人物件上的聯絡人欄位，以便在轉換發生時保留資料。
 
 1. 按一下右上角的&#x200B;**[!UICONTROL 設定]**。
 
