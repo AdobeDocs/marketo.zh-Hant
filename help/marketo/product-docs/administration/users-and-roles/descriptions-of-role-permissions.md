@@ -4,9 +4,9 @@ description: 角色許可權說明 — Marketo檔案 — 產品檔案
 title: 角色許可權說明
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 548f3f84bf6a7d39dadbf1eb5069618c4f4d44b5
+source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
 workflow-type: tm+mt
-source-wordcount: '1429'
+source-wordcount: '1448'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,7 @@ ht-degree: 0%
 * 存取[[!DNL Data.com]](https://data.com) — 讓使用者存取Data.com流程動作
 * 存取電子郵件管理員 — 讓使用者存取電子郵件管理員，以變更預設設定，例如取消訂閱和品牌化網域
 * 存取事件合作夥伴 — 讓使用者在管理員中存取LaunchPoint
+* 存取Experience Cloud受眾共用 — 讓使用者有權將受眾從Adobe Experience Cloud同步至Marketo Engage
 * 存取欄位管理 — 提供使用者存取管理員欄位管理的許可權
 * 存取檔案上傳 — 讓使用者能夠將影像和檔案上傳到Design Studio
 * 存取登陸頁面 — 提供使用者在Admin中存取登陸頁面的許可權
