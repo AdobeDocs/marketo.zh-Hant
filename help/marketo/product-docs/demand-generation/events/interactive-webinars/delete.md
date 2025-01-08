@@ -2,16 +2,17 @@
 description: 推廣互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 推廣互動式網路研討會
 feature: Interactive Webinars
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
 source-git-commit: 75035e6ae7989aaf3ed6cedd7fdab42c79ab8f37
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
 
 # 推廣互動式網路研討會 {#promoting-an-interactive-webinar}
 
-宣傳互動式網路研討會與透過Launchpoint宣傳合作夥伴網路研討會類似。 建立互動式網路研討會事件程式時，您可以執行行銷活動或將成員匯入程式來新增成員。 若要檢查已新增至互動式網路研討會活動程式的成員，請按一下&#x200B;**[!UICONTROL 成員]**&#x200B;標籤。
+宣傳互動式網路研討會與透過Launchpoint宣傳合作夥伴網路研討會類似。 建立互動式網路研討會事件程式時，您可以執行行銷活動或將成員匯入程式來新增成員。 若要檢查已新增至互動式網路研討會活動程式的成員，請按一下&#x200B;**成員**&#x200B;標籤。
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
@@ -49,50 +50,13 @@ ht-degree: 0%
 
 **權杖清單**
 
-<table><thead>
-  <tr>
-    <th>Token</th>
-    <th>定義</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>program.webinarCapacity</td>
-    <td>可參與互動式網路研討會的最大出席人數。</td>
-  </tr>
-  <tr>
-    <td>program.webinarDuration</td>
-    <td>互動式網路研討會排程的持續時間。</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndDate</td>
-    <td>已排程的互動式網路研討會結束日期。</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndTime</td>
-    <td>互動式網路研討會排程的結束時間。</td>
-  </tr>
-  <tr>
-    <td>program.webinarGenericURL</td>
-    <td>可與對象分享的常規錄製URL，後續網路研討會。 此URL不適合參加即時網路研討會，且不會追蹤對象的活動。</td>
-  </tr>
-  <tr>
-    <td>program.webinarLanguage</td>
-    <td>進行網路研討會所用的語言。</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartDate</td>
-    <td>排程的互動式網路研討會開始日期。</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartTime</td>
-    <td>互動式網路研討會排程的開始時間。</td>
-  </tr>
-  <tr>
-    <td>program.webinarTimezone</td>
-    <td>互動式網路研討會排程所在的時區。</td>
-  </tr>
-  <tr>
-    <td>program.webinarTitle</td>
-    <td>互動式網路研討會的標題，可於網路研討會入口Screens向受眾顯示。</td>
-  </tr>
-</tbody></table>
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle
