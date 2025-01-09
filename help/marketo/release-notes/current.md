@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
+source-git-commit: fa149bb386e98a5b9daa1c7b8933d66b708047c1
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 2%
+source-wordcount: '471'
+ht-degree: 3%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 2%
   <tr> 
    <th style="width:65%">功能</th> 
    <th style="width:10%">狀態</th>
-   <th style="width:25%">檔案</th>
+   <th style="width:25%">文件</th>
   </tr>
     <tr> 
    <td><strong>新電子郵件Designer</strong>：使用Marketo Engage中的新原生電子郵件Designer建立現代且有效的電子郵件。 存取其中一個預先設計的現成電子郵件範本，或輕鬆建立您自己的範本。 使用動態內容並從Adobe Experience Manager雲端服務存取影像。</td> 
@@ -61,6 +61,16 @@ ht-degree: 2%
 <br/>
 
 ## 公告 {#announcements}
+
+* **棄用社交功能**： 2024年7月31日星期三，Marketo Engage開始棄用產品中的下列社交功能：
+
+   * 投票
+   * 社交按鈕
+   * 推薦人特賣優惠
+   * 影片分享
+   * 抽獎
+
+截至目前，使用者無法在Marketo Engage中建立、複製或嵌入任何這些Social功能。 現有的社交資產可持續使用至2025年1月31日。 在2025年2月1日，社交資產將停止運作。 需要移除內嵌在登陸頁面中的社交功能。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **取得方案成員API更新**：我們已增強[取得方案成員](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} API以支援擷取方案成員識別碼的功能。 做法是將ID新增至API請求的欄位引數中指定的欄位清單中。
 
