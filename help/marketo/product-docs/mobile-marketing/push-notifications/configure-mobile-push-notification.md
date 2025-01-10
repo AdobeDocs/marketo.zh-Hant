@@ -4,7 +4,7 @@ description: 設定行動推播通知 — Marketo檔案 — 產品檔案
 title: 設定行動推播通知
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 736e21d45d8a62e50f449e0ee6d0fc4df5963dfb
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 0%
@@ -49,13 +49,13 @@ ht-degree: 0%
    >
    >有三種型別的點選動作：
    >
-   >**啟動應用程式** - **此應用程式**&#x200B;會在您點選通知時開啟應用程式的首頁。 **自訂**&#x200B;會使用深層連結來開啟您應用程式的其他區域或您有連結的任何其他應用程式（如需詳細資訊，請參閱下方的[深層連結URI](#Deeplink)）。
+   >**啟動應用程式** - **此應用程式**&#x200B;會在您點選通知時開啟應用程式的首頁。 **自訂**&#x200B;會使用深層連結來開啟您應用程式的其他區域或您有連結的任何其他應用程式（如需詳細資訊，請參閱下方的[深層連結URI](#deep-link-uris)）。
    >
    >**登陸頁面** — 將您導向至指定的Marketo登陸頁面。
    >
    >**外部URL** — 將您帶往非Marketo登陸頁面。
 
-1. 若要插入自訂點選動作的深層連結，請按一下[自訂]，然後在欄位中輸入[深層連結URI](#Deeplink)。
+1. 若要插入自訂點選動作的深層連結，請按一下[自訂]，然後在欄位中輸入[深層連結URI](#deep-link-uris)。
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
