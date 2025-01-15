@@ -4,9 +4,9 @@ description: 將單一登入新增至入口網站 — Marketo檔案 — 產品�
 title: 新增單一登入至入口網站
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: c46800149cc517e3684db150e1f7b415f0a5783e
+source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Marketo的作用就像是SAML服務提供者(SP)，並且仰賴外部身分提�
 
 >[!IMPORTANT]
 >
->這不適用於已上線至Adobe身分的訂閱。 對於已上線至Adobe身分的訂閱，單一登入是在Adobe Admin Console中的Adobe組織層級設定。 [在這裡瞭解更多](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}。
+>這不適用於已上線至Adobe身分的訂閱。 對於已上線至Adobe身分的訂閱，單一登入是在Adobe Admin Console中的Adobe組織層級設定。 Adobe Admin Console目前僅支援SP起始。 [在這裡瞭解更多](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ Marketo的作用就像是SAML服務提供者(SP)，並且仰賴外部身分提�
 
 >[!NOTE]
 >
->Marketo僅支援身分提供者起始（也稱為IdP起始），使用者在啟動時先啟動Idp登入頁面、進行驗證，然後導覽至「我的Marketo」。
+>Marketo僅支援身分提供者起始（也稱為IdP起始），使用者在啟動時會先啟動IdP登入頁面、進行驗證，然後導覽至「我的Marketo」。 如果您的Marketo訂閱已移至Admin Console，Adobe Admin Console目前僅支援服務提供者起始的（也稱為SP起始的）。 您的SSO體驗可能會有所變更。
 
 ## 其他附註 {#additional-notes}
 
@@ -87,7 +87,7 @@ SSO預設為停用。 請依照以下步驟啟用SAML並進行設定。
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
-1. 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
@@ -105,7 +105,7 @@ SSO預設為停用。 請依照以下步驟啟用SAML並進行設定。
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. 輸入&#x200B;**[!UICONTROL 錯誤URL]**。 這是您希望在登入Marketo失敗時導向使用者的URL。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 輸入&#x200B;**[!UICONTROL 錯誤URL]**。 這是您希望在登入Marketo失敗時導向使用者的URL。 按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 

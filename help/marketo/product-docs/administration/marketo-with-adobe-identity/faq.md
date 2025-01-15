@@ -3,9 +3,9 @@ description: AdobeIdentity Management常見問題集 — Marketo檔案 — 產�
 title: AdobeIdentity Management常見問題集
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
 workflow-type: tm+mt
-source-wordcount: '1521'
+source-wordcount: '1595'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,10 @@ AdobeIdentity Management系統包含三個元件。
 可以。移轉後，Marketo Engage會從experience.adobe.com傳送至Adobe Experience Cloud。 您必須與您的IT團隊合作，允許列出本文](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}頂端所列[的所有Adobe網域，以防止Marketo Engage存取中斷。
 
 先前在engage-xx.marketo.com網域&#x200B;_上Marketo Engage資產的連結和書籤將_&#x200B;繼續運作。 不過，您必須先登入您要導覽至的URL的Marketo Engage例項。 例如，若要導覽至Munchkin ID為123-ABC-456之執行個體中Smart Campaign的書籤，您必須先以Munchkin ID 123-ABC-456登入Marketo Engage執行個體。
+
+**這是否適用於SSO？**
+
+可以。與Adobe IMS的整合可支援通用ID使用者和SSO。 SSO現在由Adobe IMS驅動，並在Adobe Admin Console中的組織層級設定。 不過，與Marketo EngageSP啟動的支援相比，AdobeIdP啟動的支援有所不同（[在這裡瞭解更多](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}）。 若您在移轉至Admin Console後需要有關SSO差異的協助，請聯絡[Adobe客戶服務](https://helpx.adobe.com/contact.html){target="_blank"}。
 
 **Adobe產品管理員和Marketo Engage管理員之間有何差異？**
 
