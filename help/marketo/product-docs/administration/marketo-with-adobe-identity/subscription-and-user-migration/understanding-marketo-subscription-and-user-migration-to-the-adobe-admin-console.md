@@ -3,9 +3,9 @@ description: 瞭解Marketo訂閱和使用者移轉至Adobe Admin Console - Marke
 title: 瞭解Marketo訂閱和使用者移轉至Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: df7b29f9b7bb31b2762dd6a6d48eb237f4ccb9f0
+source-git-commit: c8b243bc90175e92aa163032b2d368bf80ff3f81
 workflow-type: tm+mt
-source-wordcount: '1573'
+source-wordcount: '1511'
 ht-degree: 0%
 
 ---
@@ -86,10 +86,6 @@ Marketo產品管理員將：
 
 * 為所有使用者準備即將移轉至Adobe身分識別。
 
->[!NOTE]
->
->當使用者移轉時，他們會收到Adobe的電子郵件，通知他們登入Marketo的方式已變更。 使用者將獲邀接受邀請，以使用Adobe身分識別首次登入，方法為使用現有Adobe ID登入，或使用相同的電子郵件地址設定新帳戶。
-
 >[!IMPORTANT]
 >
 >如果Marketo Engage使用者未驗證其電子郵件地址，或在使用者移轉時鎖定，則不會移轉到Adobe ID，而且會在移轉訂閱完成後無法存取Marketo訂閱。 若要重新取得存取權，Marketo產品管理員需要將使用者新增為新使用者。
@@ -108,7 +104,7 @@ Marketo產品管理員將：
 >
 >使用者移轉期間，不會失去對產品的存取權。 如果使用者在其使用者移轉期間登入，則會在移轉完成後在幾分鐘內，使用Adobe身分識別提示使用者重新登入。 使用者必須在成功的使用者移轉結束時，按一下軟體權利檔案電子郵件中的連結，以接受邀請。
 
-使用者移轉後，會收到Adobe的電子郵件，通知他們登入Marketo的方式有所變更。 使用者&#x200B;**必須**&#x200B;接受第一次使用Adobe身分登入的邀請，方法是使用現有的Adobe ID登入，或使用相同的電子郵件地址設定新的Adobe ID
+使用者移轉後，會收到Adobe的電子郵件，通知他們登入Marketo的方式有所變更。 使用者&#x200B;**必須**&#x200B;接受第一次使用Adobe身分登入的邀請，方法是使用現有的Adobe ID登入，或使用相同的電子郵件地址設定新的Adobe ID。
 
 如需詳細資訊，請參閱[移轉至Adobe身分識別](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}、[使用Adobe登入的使用者](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}以及[AdobeIdentity Management常見問答](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}。
 
