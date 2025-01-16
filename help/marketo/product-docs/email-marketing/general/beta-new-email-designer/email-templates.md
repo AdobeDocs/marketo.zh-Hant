@@ -4,9 +4,10 @@ title: 電子郵件範本
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
+exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
+source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
 workflow-type: tm+mt
-source-wordcount: '1683'
+source-wordcount: '1732'
 ht-degree: 1%
 
 ---
@@ -18,6 +19,10 @@ ht-degree: 1%
 >[!IMPORTANT]
 >
 >本文章僅適用於新Marketo Engage電子郵件Designer測試版的成員。 請勿散播。
+
+>[!PREREQUISITES]
+>
+>若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[AdobeIdentity Management系統(IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的請求，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 >[!NOTE]
 >
