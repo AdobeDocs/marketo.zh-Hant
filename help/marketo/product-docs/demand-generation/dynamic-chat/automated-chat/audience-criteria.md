@@ -3,9 +3,9 @@ description: 對象條件 — Marketo檔案 — 產品檔案
 title: 對象條件
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d255c1c4c15d5aca5d89687f50ee0e6f0dedfb7d
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '605'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 ![](assets/audience-criteria-1.png)
 
-## 事件 {#events}
+## 活動 {#events}
 
 事件可讓您根據訪客的捲動次數或他們在您的頁面/網站上的時間長度來鎖定訪客。 在以下範例中，我們鎖定了在特定頁面上停留超過20秒的訪客。
 
@@ -129,7 +129,9 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->使用星號就像是一張全方位的萬用字元。 因此`https://*.website.com`會將對話方塊放在網站的每個頁面上，包括子網域（例如： `support.website.com`）。 而`https://website.com/folder/*`會將對話方塊放在後續資料夾的每個HTML頁面上(例如：在此案例中假設資料夾為&quot;sports&quot;，所以：website.com/sports/baseball.html、website.com/sports/football.html等)。
+>* 使用星號就像是一張全方位的萬用字元。 因此`https://*.website.com`會將對話方塊放在網站的每個頁面上，包括子網域（例如： `support.website.com`）。 而`https://website.com/folder/*`會將對話方塊放在後續資料夾的每個HTML頁面上(例如：在此案例中假設資料夾為&quot;sports&quot;，所以：website.com/sports/baseball.html、website.com/sports/football.html等)。
+>
+>* 目前不支援URL引數。
 
 **排除專案**
 
