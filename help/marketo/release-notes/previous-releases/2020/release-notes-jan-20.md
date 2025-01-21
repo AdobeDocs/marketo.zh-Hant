@@ -4,7 +4,7 @@ description: 發行說明 — 2020年1月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2020年1月
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '827'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ![（星形）](assets/yellow-star.png)
 
-* **[新帳戶探索(BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/yellow-star.png)**：使用帳戶設定檔來根據您的AI支援的理想客戶設定檔模型，探索ABM策略的全新目標帳戶。 檢視、選取和匯入建議的新帳戶，以及其以AI為基礎的配合與意圖資料指標，這些尚未存在於您的Marketo Engage銷售機會和帳戶資料庫中，以進行ABM目標定位。 立即可供符合帳戶分析客戶資格的客戶使用。
+* [新帳戶探索(BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/yellow-star.png)：使用帳戶設定檔來根據您的AI支援的理想客戶設定檔模型，探索ABM策略的全新目標帳戶。 檢視、選取和匯入建議的新帳戶，以及其以AI為基礎的配合與意圖資料指標，這些尚未存在於您的Marketo Engage銷售機會和帳戶資料庫中，以進行ABM目標定位。 立即可供符合帳戶分析客戶資格的客戶使用。
 
 <br> 
 
@@ -61,8 +61,8 @@ ht-degree: 0%
 
 ## 銷售分析 {#sales-insight}
 
-* **Salesforce Lightning Bulk Actions**：提升銷售效率，讓買家持續參與，能夠新增最多200個連絡人/銷售機會至行銷活動，並使用Salesforce Lightning大量傳送Marketo Engage電子郵件。
-* **Salesforce的行動支援1**：您現在可以在Salesforce1應用程式中，行動存取所有Sales Insight功能，例如「有趣的時刻」和「網頁活動和電子郵件」。
+* **Salesforce Lightning Bulk Actions**：提升銷售效率，讓買家持續參與，能夠新增最多200個連絡人/銷售機會至行銷活動，並使用Salesforce Lightning大量傳送Marketo Engage電子郵件給他們。
+* **Salesforce1**&#x200B;的行動支援：您現在可以在Salesforce1應用程式中，行動存取所有Sales Insight功能，例如「有趣的時刻」和「網頁活動和電子郵件」。
 * **UI增強功能**：更新介面，提供可讀性增強功能，以及符合我們Marketo Sky體驗的設計。
 
 ## Sales Connect {#sales-connect}
@@ -74,6 +74,6 @@ ht-degree: 0%
 >
 >* **TLS 1.0和1.1淘汰**：為了持續整合Adobe的發行結構，我們將TLS 1.0和TLS 1.1的淘汰轉移到2020年1月13日。 在[這裡](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq)可找到更多詳細資訊。
 >
->* **ITP 2.1+ Munchkin更新**：由於Safari的Cookie原則變更，Munchkin追蹤相同網域上不同工作階段之使用者的能力將受ITP限制，根據訪客使用的瀏覽器和瀏覽器版本，為1或7天。 為此，我們正在實作新的Web服務，以允許透過HTTP回應以Set-Cookie標頭設定Munchkin Cookie。 如需有關如何實作此新服務的詳細資訊，請參閱[這裡](https://nation.marketo.com/docs/DOC-7351)。
+>* **ITP 2.1+ Munchkin更新**：由於Safari的Cookie原則變更，Munchkin在同一網域上跨工作階段追蹤使用者的能力，將受ITP限制，根據訪客使用的瀏覽器和瀏覽器版本，為1或7天。 為了解決這個問題，我們正在實作新的網站服務，以允許透過HTTP回應以Set-Cookie標頭設定Munchkin Cookie。 如需有關如何實作此新服務的詳細資訊，請參閱[這裡](https://nation.marketo.com/docs/DOC-7351)。
 
 **_產品發行網路研討會_** [於3月3日上午11:00點/下午2:00點（東部時間）加入我們](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)，參加我們產品團隊舉辦的即時網路研討會，並深入瞭解此發行版本包含的功能。

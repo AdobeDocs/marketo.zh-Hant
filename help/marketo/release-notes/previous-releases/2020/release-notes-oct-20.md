@@ -4,7 +4,7 @@ description: 發行說明 — 2020年10月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2020年10月
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 電子郵件行銷 {#email-marketing}
 
-* **批次電子郵件提升![(star)](assets/yellow-star.png)**：傳送更多電子郵件，每小時最多可傳送500萬封批次電子郵件。 擴充的電子郵件傳遞能力選項，讓您不必在電子郵件批次之間等待：依排程準時傳送所有電子郵件。
+* **批次電子郵件提升** ![(star)](assets/yellow-star.png)：傳送更多電子郵件，每小時最多可傳送500萬封批次電子郵件。 擴充的電子郵件傳遞能力選項，讓您不必在電子郵件批次之間等待：依排程準時傳送所有電子郵件。
 
 ## 網站行銷 {#website-marketing}
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 * **Salesforce CRM Sync**：使用兩個新的Salesforce Sync和Errors儀表板，識別並修正同步處理錯誤和失敗。 監視新記錄更新、刪除、失敗和同步處理程式的完成。 您可以依日期、作業型別或物件型別來篩選報表。
 
-* **Microsoft Dynamics 365整合**：將銷售機會和聯絡人自動註冊至Microsoft Dynamics 365行銷活動。 透過新的智慧行銷活動流程動作，輕鬆新增或移除MS Dynamics行銷活動中的Marketo Engage銷售機會和聯絡人。 將銷售機會從行銷順暢地傳遞給銷售，並更快地完成交易。
+* **Microsoft Dynamics 365整合**：將銷售機會和聯絡人自動註冊到Microsoft Dynamics 365行銷活動中。 透過新的智慧行銷活動流程動作，輕鬆新增或移除MS Dynamics行銷活動中的Marketo Engage銷售機會和聯絡人。 將銷售機會從行銷順暢地傳遞給銷售，並更快地完成交易。
 
 ## 付費媒體目標定位 {#paid-media-targeting}
 
