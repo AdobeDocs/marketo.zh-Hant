@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 50c60e6b82215f59ec20e4872ff7a72edbb3681f
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '551'
 ht-degree: 3%
 
 ---
@@ -32,8 +32,8 @@ ht-degree: 3%
    <th style="width:25%">文件</th>
   </tr>
     <tr> 
-   <td><strong>新電子郵件Designer</strong>：使用Marketo Engage中的新原生電子郵件Designer建立現代且有效的電子郵件。 存取其中一個預先設計的現成電子郵件範本，或輕鬆建立您自己的範本。 使用動態內容並從Adobe Experience Manager雲端服務存取影像。
-   <p><img src="assets/note-icon.png" alt="附註圖示"> 注意：若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">AdobeIdentity Management系統(IMS)</a>。 如果尚未收到您的請求，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或<a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo支援</a>。</td> 
+   <td><strong>新電子郵件Designer</strong>：使用Marketo Engage中的新原生電子郵件Designer建立現代且有效的電子郵件。 存取其中一個預先設計的現成電子郵件範本，或輕鬆建立您自己的範本。 使用動態內容並從Adobe Experience Manager雲端服務存取影像。 使用Content Accelerator Gen-AI功能，大規模建立創新且高效能的電子郵件。
+   <p><img src="assets/note-icon.png" alt="附註圖示"> 注意：若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">AdobeIdentity Management系統(IMS)</a>。 如果尚未收到您的請求，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或<a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo支援</a>。 若要存取Content Accelerator Gen-AI功能，請聯絡Adobe客戶團隊。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
