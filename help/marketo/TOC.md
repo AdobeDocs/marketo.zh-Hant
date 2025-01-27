@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 03d6ff3567910ac12898c9b428d14f5d60323039
+source-git-commit: ace80b7c19979c48927f37adf0d09471fec3f93b
 workflow-type: tm+mt
-source-wordcount: '9391'
+source-wordcount: '9394'
 ht-degree: 0%
 
 ---
@@ -740,7 +740,7 @@ ht-degree: 0%
             + [隨選網路研討會](product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md)
             + [事件工作流程](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
             + [參與儀表板](product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md)
-            + [適用於IW的MSI](product-docs/demand-generation/events/interactive-webinars/msi-for-iw.md)
+            + [Marketo Sales Insight中的互動式網路研討會](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-in-marketo-sales-insight.md)
       + facebook {#facebook}
          + [在Facebook中新增銷售機會至自訂對象](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [在Facebook中建立自訂對象](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
