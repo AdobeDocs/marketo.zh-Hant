@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: ace80b7c19979c48927f37adf0d09471fec3f93b
+source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
 workflow-type: tm+mt
-source-wordcount: '9394'
+source-wordcount: '9406'
 ht-degree: 0%
 
 ---
@@ -1061,6 +1061,12 @@ ht-degree: 0%
             + [編輯串流內容的可用性](product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
             + [排定串流內容的優先順序](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
             + [移除資料流內容](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
+      + 以電子郵件傳送Designer {#email-designer}
+         + [概觀](product-docs/email-marketing/email-designer/overview.md)
+         + [電子郵件製作](product-docs/email-marketing/email-designer/email-authoring.md)
+         + [電子郵件範本](product-docs/email-marketing/email-designer/email-templates.md)
+         + [使用AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
+         + [片段](product-docs/email-marketing/email-designer/fragments.md)
       + 電子郵件程式{#email-programs}
          + 正在建立電子郵件程式{#creating-an-email-program}
             + [建立電子郵件程式](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
