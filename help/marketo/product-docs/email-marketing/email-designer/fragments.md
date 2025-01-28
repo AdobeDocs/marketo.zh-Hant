@@ -3,9 +3,9 @@ title: 片段
 description: 瞭解如何建立視覺化內容片段，並將其用作電子郵件和電子郵件範本的可重複使用元件。
 hide: true
 hidefromtoc: true
-source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
+source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
 workflow-type: tm+mt
-source-wordcount: '2428'
+source-wordcount: '2429'
 ht-degree: 3%
 
 ---
@@ -236,7 +236,7 @@ ht-degree: 3%
 
 1. 若要更新內容，請按一下右上方的&#x200B;**[!UICONTROL 建立草稿版本]**。
 
-   在對話方塊中按一下「**[!UICONTROL 確定]**」，在視覺化設計工具中開啟草稿版本。 您可以視需要變更[影像來源](./assets-overview.md#choose-an-asset-source)。
+   在對話方塊中按一下「**[!UICONTROL 確定]**」，在視覺化設計工具中開啟草稿版本。 您可以視需要變更`image source`公斤 — 此處連結。
 
 熒幕擷圖
 
