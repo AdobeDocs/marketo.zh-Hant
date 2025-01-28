@@ -3,7 +3,7 @@ title: 片段
 description: 瞭解如何建立視覺化內容片段，並將其用作電子郵件和電子郵件範本的可重複使用元件。
 hide: true
 hidefromtoc: true
-source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
+source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
 workflow-type: tm+mt
 source-wordcount: '2428'
 ht-degree: 3%
@@ -76,13 +76,13 @@ ht-degree: 3%
 
 ### 篩選片段清單 {#filter-the-fragments-list}
 
-使用搜尋列依名稱尋找片段。 按一下&#x200B;_篩選器_&#x200B;圖示（![顯示或隱藏篩選器圖示](../assets/do-not-localize/icon-filter.svg)）以顯示可用的篩選器選項，並選擇所需的設定。
+使用搜尋列依名稱尋找片段。 按一下&#x200B;_篩選器_&#x200B;圖示（![顯示或隱藏篩選器圖示](assets/icon-filter.svg)）以顯示可用的篩選器選項，並選擇所需的設定。
 
 熒幕擷圖
 
 ### 自訂欄顯示 {#customize-the-column-display}
 
-按一下右上角的&#x200B;_自訂表格_&#x200B;圖示（![自訂表格圖示](../assets/do-not-localize/icon-column-settings.svg)），自訂您要顯示在表格中的欄。
+按一下右上角的&#x200B;_自訂表格_&#x200B;圖示（![自訂表格圖示](assets/icon-column-settings.svg)），自訂您要顯示在表格中的欄。
 
 在對話方塊中，選取所要的資料行，然後按一下&#x200B;**[!UICONTROL 套用]**。
 
