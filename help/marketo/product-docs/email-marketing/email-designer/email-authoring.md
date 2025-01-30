@@ -4,9 +4,10 @@ title: 電子郵件製作
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '1486'
+source-wordcount: '1611'
 ht-degree: 1%
 
 ---
@@ -20,6 +21,12 @@ ht-degree: 1%
 >若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[AdobeIdentity Management系統(IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的請求，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ## 建立電子郵件 {#create-an-email}
+
+來自電子郵件Designer的電子郵件目前只能在Design Studio中建立並在智慧行銷活動/清單中參照，或直接在電子郵件方案中建立/使用。
+
+>[!BEGINTABS]
+
+>[!TAB 設計工作室]
 
 1. 透過[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}登入Marketo Engage。
 
@@ -38,6 +45,28 @@ ht-degree: 1%
 1. 輸入電子郵件名稱和主旨列。 按一下&#x200B;**建立**。
 
    ![](assets/create-an-email-4.png)
+
+>[!TAB 電子郵件程式]
+
+1. 透過[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}登入Marketo Engage。
+
+1. 尋找並選取（或建立）您的電子郵件程式。
+
+   ![](assets/create-an-email-5.png)
+
+1. 若要建立新電子郵件，您有兩個選項。 以滑鼠右鍵按一下您的電子郵件方案名稱，然後選取&#x200B;**新增本機資產**，或按一下儀表板上電子郵件方塊中的&#x200B;**+新增電子郵件**&#x200B;按鈕。 在此範例中，我們會執行前者。
+
+   ![](assets/create-an-email-6.png)
+
+1. 選取&#x200B;**電子郵件（新編輯器）**。
+
+   ![](assets/create-an-email-7.png)
+
+1. 輸入電子郵件名稱和主旨列。 按一下&#x200B;**建立**。
+
+   ![](assets/create-an-email-8.png)
+
+>[!ENDTABS]
 
 就是這樣。 現在該設計您的電子郵件了。
 
@@ -308,7 +337,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 ## 參考電子郵件 {#reference-an-email}
 
-在新編輯器中建立電子郵件後，您可以在「智慧行銷活動」和/或「智慧列示」中參考該電子郵件，操作方法與使用任何其他電子郵件時相同。
+如果您在電子郵件程式中建立電子郵件，則只能用於該程式。 如果您在Design Studio中建立電子郵件，則可像使用任何其他電子郵件一樣，從「智慧行銷活動」和/或「智慧清單」參考該電子郵件。
 
 * 依照一般步驟](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，由[在智慧清單中參照它。
 
@@ -320,4 +349,4 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 >[!MORELIKETHIS]
 >
->[電子郵件範本](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}：瞭解如何在新的設計工具中建立、設計和存取電子郵件範本。
+>[電子郵件範本](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}：瞭解如何在新的設計工具中建立、設計和存取電子郵件範本。

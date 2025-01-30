@@ -3,10 +3,11 @@ title: 片段
 description: 瞭解如何建立視覺化內容片段，並將其用作電子郵件和電子郵件範本的可重複使用元件。
 hide: true
 hidefromtoc: true
-source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
+exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '2429'
-ht-degree: 3%
+source-wordcount: '2371'
+ht-degree: 1%
 
 ---
 
@@ -25,13 +26,13 @@ ht-degree: 3%
 
 ## 存取及管理片段 {#access-and-manage-fragments}
 
-若要存取視覺片段，請前往左側導覽並按一下&#x200B;**[!UICONTROL 內容管理]** > **[!UICONTROL 片段]**。 此動作會開啟一個清單頁面，其中包含在表格中列出的執行個體中建立的所有片段。
+若要存取視覺化片段，請前往Design Studio。 在左側的樹狀結構中，按一下&#x200B;**[!UICONTROL 片段（新增）]**。
 
 熒幕擷圖
 
-此表格是依&#x200B;_[!UICONTROL 已修改]_&#x200B;欄排序，最近更新的片段預設會排在頂端。 按一下欄標題，在升序和降序之間變更。
+依預設，表格會依&#x200B;_[!UICONTROL 已修改]_&#x200B;欄排序，最新的更新片段會位於頂端。 按一下其他欄標題以變更排序。 再按一下可在升序和降序之間切換。
 
-### 片段狀態和生命週期
+### 片段狀態 {#fragment-status}
 
 片段狀態會決定其是否可用於電子郵件或電子郵件範本，以及您可以對其進行的變更。
 
@@ -121,17 +122,7 @@ ht-degree: 3%
 
 ### 新增結構和內容 {#add-structure-and-content}
 
->[!CONTEXTUALHELP]
->id="ajo-b2b_structure_components_fragment"
->title="新增結構元件"
->abstract="結構元件會定義區段的版面。將&#x200B;**結構**&#x200B;元件拖放到畫布中開始設計您的片段內容。"
-
->[!CONTEXTUALHELP]
->id="ajo-b2b_content_components_fragment"
->title="關於內容元件"
->abstract="內容元件指可用於建立片段版面的空白內容預留位置。"
-
-{{$include /help/_includes/content-design-components.md}}
+{{$include /help/marketo/_includes/content-design-components.md}}
 
 ### 新增資產
 
@@ -327,7 +318,7 @@ ht-degree: 3%
 
 1. 導覽至&#x200B;**[!UICONTROL 帳戶歷程]**&#x200B;並開啟現有歷程或建立新歷程。 &lt; — 仔細檢查這個
 
-----------已停止在此編輯---------
+---------已停止在此編輯---------
 
 1. 建立[_[!UICONTROL 傳送電子郵件&#x200B;]_節點](./email-authoring.md#add-an-email-action-in-an-account-journey)。
 
