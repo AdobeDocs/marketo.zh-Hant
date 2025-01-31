@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 * [電子郵件編寫](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}：瞭解如何在新的編輯器中建立、設計和參考電子郵件。
 
-* [電子郵件範本](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}：瞭解如何在新的編輯器中建立、設計和存取電子郵件範本。
+* [電子郵件範本](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：瞭解如何在新的編輯器中建立、設計和存取電子郵件範本。
 
 ## 常見問題集 {#faq}
 
@@ -63,4 +63,4 @@ ht-degree: 0%
 
 **如何判斷我們的Marketo Engage訂閱是否已移轉至IMS (Adobe Admin Console)？**
 
-如果您透過[experience.adobe.com](experience.adobe.com)登入Marketo Engage，表示您的訂閱已移轉。
+如果您透過[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}登入Marketo Engage，表示您的訂閱已移轉。
