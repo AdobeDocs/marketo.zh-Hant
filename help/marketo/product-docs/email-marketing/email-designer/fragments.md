@@ -4,9 +4,9 @@ description: 瞭解如何建立視覺化內容片段，並將其用作電子郵�
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: 7076f020035b5751328e34620f3992f49da82290
 workflow-type: tm+mt
-source-wordcount: '2395'
+source-wordcount: '2396'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 1%
 
 若要存取視覺化片段，請前往Design Studio。 在左側的樹狀結構中，按一下&#x200B;**[!UICONTROL 片段（新增）]**。
 
-熒幕擷圖
+![存取片段](assets/fragments-1.png){width="600" zoomable="yes"}
 
 依預設，資料表是依&#x200B;_[!UICONTROL 已修改]_&#x200B;資料行排序。 按一下其他欄標題以變更表格排序依據。 再按一下可在升序和降序之間切換。
 
