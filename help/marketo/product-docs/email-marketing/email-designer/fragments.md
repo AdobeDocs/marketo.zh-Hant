@@ -4,25 +4,25 @@ description: 瞭解如何建立視覺化內容片段，並將其用作電子郵�
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
+source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
 workflow-type: tm+mt
-source-wordcount: '2371'
+source-wordcount: '2395'
 ht-degree: 1%
 
 ---
 
 # 片段
 
-片段是可重複使用的元件，可在一或多個電子郵件和電子郵件範本中參照。 這通常是可以建立並快速插入專案中的內容區塊（文字、影像或兩者）。 透過此功能，您可以預先建置多個自訂內容區塊，以供行銷團隊成員用於組合電子郵件內容，以改善設計流程。 常見的使用案例包括電子郵件的頁首/頁尾內容區塊、事件邀請橫幅、季節性訊息等。
+片段是可重複使用的元件，可在一或多個電子郵件和電子郵件範本中參照。 這通常是可以建立並快速插入專案中的內容區塊（文字、影像或兩者）。 透過此功能，您可以預先建置多個自訂內容區塊，以組合電子郵件內容來改進設計流程。 常見的使用案例包括電子郵件的頁首/頁尾內容區塊、事件邀請橫幅、季節性訊息等。
 
 若要在工作流程中善用片段：
 
-* _建立您自己的片段_ — 從草稿開始建立視覺化片段，或是從視覺化內容編輯器將內容儲存為片段。
+* _建立片段_ — 從頭開始建立視覺化片段，或是從視覺化內容編輯器將內容儲存為片段。
 * _重複使用片段_ — 視需要在您的內容中多次使用這些片段。
 
 ## 視覺片段 {#visual-fragments}
 
-視覺片段是使用視覺化內容編輯器建置的預定義視覺化區塊，您可以在多個電子郵件或電子郵件範本中重複使用。
+視覺片段是預先定義的視覺化區塊，可建置（使用視覺化內容編輯器）於多個電子郵件或電子郵件範本中重複使用。
 
 ## 存取及管理片段 {#access-and-manage-fragments}
 
@@ -30,7 +30,7 @@ ht-degree: 1%
 
 熒幕擷圖
 
-依預設，表格會依&#x200B;_[!UICONTROL 已修改]_&#x200B;欄排序，最新的更新片段會位於頂端。 按一下其他欄標題以變更排序。 再按一下可在升序和降序之間切換。
+依預設，資料表是依&#x200B;_[!UICONTROL 已修改]_&#x200B;資料行排序。 按一下其他欄標題以變更表格排序依據。 再按一下可在升序和降序之間切換。
 
 ### 片段狀態 {#fragment-status}
 
@@ -73,13 +73,11 @@ ht-degree: 1%
   </tr>
 </tbody></table>
 
-熒幕擷圖
-
 ### 篩選片段清單 {#filter-the-fragments-list}
 
 使用搜尋列依名稱尋找片段。 按一下&#x200B;_篩選器_&#x200B;圖示（![顯示或隱藏篩選器圖示](assets/icon-filter.svg)）以顯示可用的篩選器選項，並選擇所需的設定。
 
-熒幕擷圖
+![篩選顯示的片段](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
 
 ### 自訂欄顯示 {#customize-the-column-display}
 
@@ -148,7 +146,7 @@ ht-degree: 1%
 >
 >如果電子郵件或電子郵件範本正在使用已發佈的片段，則您無法變更其名稱或編輯內容。 如果您想對片段進行變更，可以建立草稿版本。
 
-熒幕擷圖
+![檢視已發佈片段的詳細資料](assets/fragment-details-published.png){width="600" zoomable="yes"}
 
 按一下「**[!UICONTROL 編輯片段]**」以在視覺內容編輯器中開啟片段。
 
@@ -164,7 +162,7 @@ ht-degree: 1%
 
 根據類別顯示參考： _電子郵件_&#x200B;或&#x200B;_電子郵件範本_。 Journey Optimizer B2B edition中的電子郵件內嵌於帳戶歷程中並加以撰寫，因此使用片段的電子郵件上層歷程會顯示在參考中。 &lt; — 這個部分怎麼辦，尼萊什
 
-熒幕擷圖
+![由片段](assets/fragment-used-by-published.png){width="600" zoomable="yes"}的參考使用
 
 按一下連結，開啟使用片段之對應的電子郵件或電子郵件範本。
 
@@ -179,9 +177,9 @@ ht-degree: 1%
 
 此動作會開啟確認對話方塊。 您可以按一下&#x200B;**[!UICONTROL 取消]**，或按一下&#x200B;**[!UICONTROL 刪除]**&#x200B;確認刪除，以中止程式。
 
-熒幕擷圖
+![刪除片段對話方塊](assets/fragment-delete-dialog.png){width="400"}
 
-## 編輯片段
+## 編輯片段 {#edit-fragments}
 
 對片段的編輯取決於其目前狀態：
 
@@ -199,7 +197,7 @@ ht-degree: 1%
 
 1. 進行所需的編輯。
 
-熒幕擷圖
+   ![具有草稿狀態的片段詳細資料](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
 1. 若要變更視覺化設計工具中的內容，請按一下[編輯片段]。****
 
@@ -229,17 +227,17 @@ ht-degree: 1%
 
    在對話方塊中按一下「**[!UICONTROL 確定]**」，在視覺化設計工具中開啟草稿版本。 您可以視需要變更`image source`公斤 — 此處連結。
 
-熒幕擷圖
+   ![建立草稿版本對話方塊](assets/fragments-create-draft-version.png){width="300"}
 
-視需要使用視覺化設計工具工具：
+   視需要使用視覺化設計工具工具：
 
-* [新增結構和內容](#add-structure-and-content)
-* [新增Assets](#add-assets)
-* [導覽圖層、設定和樣式](#navigate-the-layers-settings-and-styles)
-* [個人化內容](#personalize-content)
-* [編輯連結的URL追蹤](#edit-linked-url-tracking)
+   * [新增結構和內容](#add-structure-and-content)
+   * [新增Assets](#add-assets)
+   * [導覽圖層、設定和樣式](#navigate-the-layers-settings-and-styles)
+   * [個人化內容](#personalize-content)
+   * [編輯連結的URL追蹤](#edit-linked-url-tracking)
 
-按一下「**[!UICONTROL 儲存]**」或「**[!UICONTROL 儲存並關閉]**」以返回片段詳細資料。
+   按一下「**[!UICONTROL 儲存]**」或「**[!UICONTROL 儲存並關閉]**」以返回片段詳細資料。
 
 1. 當草稿片段符合您的條件，而您想要讓變更可用於電子郵件或電子郵件範本時，請按一下&#x200B;**[!UICONTROL Publish]**。
 
@@ -251,7 +249,7 @@ ht-degree: 1%
 
 * 按一下片段名稱旁的&#x200B;_更多_&#x200B;圖示(**...**)，然後選擇&#x200B;**[!UICONTROL 開啟草稿版本]**。
 
-熒幕擷圖
+  ![開啟草稿版本](assets/fragments-create-draft-version.png){width="300"}
 
 * 按一下片段名稱以開啟。 然後，按一下右上方的&#x200B;**[!UICONTROL 開啟草稿版本]**。
 
@@ -282,11 +280,11 @@ ht-degree: 1%
 * 從&#x200B;_[!UICONTROL 片段]_&#x200B;清單頁面，按一下片段名稱旁的&#x200B;_更多_&#x200B;圖示(**...**)，然後選擇&#x200B;**[!UICONTROL 複製]**。
 * 在片段詳細資料頁面的右上方，按一下&#x200B;**[!UICONTROL ...更多]**&#x200B;並選擇&#x200B;**[!UICONTROL 複製]**。
 
-熒幕擷圖
+![復製片段](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
 在對話方塊中，輸入唯一名稱與選擇性說明。 按一下&#x200B;**[!UICONTROL 複製]**&#x200B;以完成動作。
 
-熒幕擷圖
+![輸入複製的片段的名稱和描述](assets/fragment-duplicate-dialog.png){width="400"}
 
 然後，複製的片段會顯示在&#x200B;_片段_&#x200B;清單中。
 
@@ -394,4 +392,4 @@ ht-degree: 1%
 
 在編輯器頁面上選取片段時，可以從右側的內容工具列和屬性面板中取得這些動作。
 
-熒幕擷圖
+![套用動作至選取的片段](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"}

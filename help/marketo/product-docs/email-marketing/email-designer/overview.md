@@ -4,10 +4,11 @@ title: 概觀
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
+source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 2%
+source-wordcount: '543'
+ht-degree: 0%
 
 ---
 
@@ -21,14 +22,45 @@ ht-degree: 2%
 
 新的電子郵件Designer是Marketo Engage的最新創新，旨在提供經過改版的電子郵件和電子郵件範本建立體驗，透過提供視覺拖放編輯器和標準現成範本來提高生產力和效率。 輕鬆建立自訂的電子郵件範本，無需花錢購買廠商。
 
-在新設計工具中建立的電子郵件，可用於智慧列示和智慧行銷活動。 未來計畫推出更多增強功能，讓新設計人員更臻完美。
+在新設計工具中建立的電子郵件可用於電子郵件計畫以及智慧清單/行銷活動。 即將推出針對設計工具的強大新增強功能。
 
-**可用文章**
+## 可用文章 {#available-articles}
 
 * [電子郵件編寫](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}：瞭解如何在新的編輯器中建立、設計和參考電子郵件。
 
 * [電子郵件範本](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}：瞭解如何在新的編輯器中建立、設計和存取電子郵件範本。
 
-* AEM Assets
+## 常見問題集 {#faq}
 
-* 片段
+**舊的電子郵件編輯器是否會繼續運作？ 如果是，持續多長時間？**
+
+是的，舊的（傳統）電子郵件編輯器將與新的電子郵件設計工具並存。 在傳統編輯器中建立的電子郵件仍會保留。 目前無法得知過時傳統編輯器的日期，但此編輯器將在2025年全年繼續運作。
+
+**我們現有的電子郵件範本是否可以在新的設計工具中運作？ 如果沒有，我們是否需要使用新的設計工具來建立範本，以便讓所有區段/模組都對應到我們想要的內容外觀？**
+
+否，新設計工具無法參照傳統編輯器的電子郵件範本。 您將需要在新的設計工具中建立新的範本。 不過，您&#x200B;_可以_&#x200B;將範本HTML匯入新設計工具，然後進行必要的調整。 我們也在研究將範本從傳統編輯器輕鬆移轉到新設計工具的方法。
+
+**是否有辦法強制執行品牌化（字型、標誌和顏色）？**
+
+鎖定內容區段是新設計工具的一部分，鎖定樣式、顏色等將在今年晚些時候推出。
+
+**範本模組是否更可自訂且可擴充？**
+
+是的，當然，我們的WYSIWYG（所見即所得）編輯器更可自訂。
+
+**電子郵件範本建立程式在新設計工具中如何運作？ 是WYSIWYG，還是需要HTML知識？**
+
+它是WYSIWYG；不需要HTML知識。 您可以輕鬆建立
+使用設計工具中的範本，減少外部Web開發人員的需求。 不過，您仍可選擇透過HTML更新CSS及編輯個別區段。 我們也在研究將範本從傳統編輯器輕鬆移轉到新設計工具的方法。
+
+**新的電子郵件設計工具是否支援AMP語言？**
+
+基礎版本目前不支援AMP。
+
+**依屬性的動態內容很好，但依區段的動態內容是否仍然有效？**
+
+目前，新設計工具僅支援屬性，但我們正在努力在未來版本中新增區段。
+
+**如何判斷我們的Marketo Engage訂閱是否已移轉至IMS (Adobe Admin Console)？**
+
+如果您透過[experience.adobe.com](experience.adobe.com)登入Marketo Engage，表示您的訂閱已移轉。
