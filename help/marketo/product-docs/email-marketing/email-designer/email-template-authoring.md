@@ -3,14 +3,14 @@ description: 電子郵件範本 — Marketo檔案 — 產品檔案
 title: 電子郵件範本
 feature: Email Editor
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
+source-git-commit: 4ebefa5eff49d2b703f0b4885c663945b215fa5c
 workflow-type: tm+mt
-source-wordcount: '1842'
+source-wordcount: '1843'
 ht-degree: 1%
 
 ---
 
-# 電子郵件範本 {#email-templates}
+# 電子郵件範本製作 {#email-template-authoring}
 
 為了加速並改善設計流程，您可以建立獨立的電子郵件範本，以輕鬆重複使用自訂內容。
 
