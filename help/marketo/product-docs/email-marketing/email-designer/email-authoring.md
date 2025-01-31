@@ -1,11 +1,9 @@
 ---
 description: 電子郵件製作 — Marketo檔案 — 產品檔案
 title: 電子郵件製作
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 35b5638ff62a25630a273ad320ee6d6c40191cc2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
 source-wordcount: '1739'
 ht-degree: 1%
@@ -22,7 +20,7 @@ ht-degree: 1%
 
 ## 建立電子郵件 {#create-an-email}
 
-來自電子郵件Designer的電子郵件目前只能在Design Studio中建立並在智慧行銷活動/清單中參照，或直接在電子郵件方案中建立/使用。
+來自電子郵件設計工具的電子郵件目前只能在Design Studio中建立並在智慧行銷活動/清單中參照，或直接在電子郵件方案中建立/使用。
 
 >[!BEGINTABS]
 

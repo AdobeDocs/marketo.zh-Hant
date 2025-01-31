@@ -1,13 +1,11 @@
 ---
 description: 概覽 — Marketo檔案 — 產品檔案
 title: 概觀
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -20,7 +18,7 @@ ht-degree: 0%
 >
 >若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[AdobeIdentity Management系統(IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的請求，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
-新的電子郵件Designer是Marketo Engage的最新創新，旨在提供經過改版的電子郵件和電子郵件範本建立體驗，透過提供視覺拖放編輯器和標準現成範本來提高生產力和效率。 輕鬆建立自訂的電子郵件範本，無需花錢購買廠商。
+新的電子郵件設計工具是Marketo Engage的最新創新，旨在提供經過改寫的電子郵件和電子郵件範本建立體驗，透過視覺拖放編輯器和標準現成範本來提高生產力和效率。 輕鬆建立自訂的電子郵件範本，無需花錢購買廠商。
 
 在新設計工具中建立的電子郵件可用於電子郵件計畫以及智慧清單/行銷活動。 即將推出針對設計工具的強大新增強功能。
 
@@ -55,7 +53,7 @@ ht-degree: 0%
 
 **新的電子郵件設計工具是否支援AMP語言？**
 
-基礎版本目前不支援AMP。
+目前不支援AMP。
 
 **依屬性的動態內容很好，但依區段的動態內容是否仍然有效？**
 
