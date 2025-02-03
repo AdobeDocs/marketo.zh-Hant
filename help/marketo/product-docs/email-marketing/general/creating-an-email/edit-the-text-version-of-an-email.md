@@ -4,9 +4,9 @@ description: 編輯電子郵件的文字版本 — Marketo檔案 — 產品檔�
 title: 編輯電子郵件的文字版本
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: d903c7d8adf817bd3aae2ea6bebc291a3f8bffb5
+source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->選取&#x200B;**從HTML**&#x200B;複製，或重新選取&#x200B;**在包含動態內容的電子郵件中自動從HTML**&#x200B;複製，將會針對電子郵件的HTML和文字版本中的所有區段，將「已檢閱」旗標設定為&#x200B;_true_。
+>選取&#x200B;**從HTML**&#x200B;複製，或重新選取&#x200B;**在包含動態內容的電子郵件中自動從HTML**&#x200B;複製，將會在電子郵件的HTML和文字版本中，將所有區段的「已稽核」旗標設為&#x200B;_true_ （產生綠色勾號，表示已稽核）。 如果您執行上述任一動作，在傳送前請務必仔細檢查您的內容。
