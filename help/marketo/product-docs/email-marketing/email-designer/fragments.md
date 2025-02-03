@@ -4,9 +4,9 @@ description: 瞭解如何建立視覺化內容片段，並將其用作電子郵�
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7076f020035b5751328e34620f3992f49da82290
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
-source-wordcount: '2396'
+source-wordcount: '2402'
 ht-degree: 1%
 
 ---
@@ -314,7 +314,7 @@ ht-degree: 1%
 
 >[!TAB 新增片段至電子郵件]
 
-1. 導覽至&#x200B;**[!UICONTROL 帳戶歷程]**&#x200B;並開啟現有歷程或建立新歷程。 &lt; — 仔細檢查這個
+1. 導覽至&#x200B;**[!UICONTROL 帳戶歷程]**&#x200B;並開啟現有歷程或建立新歷程。 &lt; — 僅在電子郵件或電子郵件範本內時
 
 ---------已停止在此編輯---------
 

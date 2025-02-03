@@ -2,10 +2,12 @@
 description: 概覽 — Marketo檔案 — 產品檔案
 title: 概觀
 feature: Email Editor
+hide: true
+hidefromtoc: true
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 009388b94208729c85ec3b72117b3e0daf4149c5
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
@@ -26,7 +28,7 @@ ht-degree: 0%
 
 * [電子郵件編寫](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}：瞭解如何在新的編輯器中建立、設計和參考電子郵件。
 
-* [電子郵件範本](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：瞭解如何在新的編輯器中建立、設計和存取電子郵件範本。
+* [電子郵件範本製作](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：瞭解如何在新的編輯器中建立、設計和存取電子郵件範本。
 
 ## 常見問題集 {#faq}
 

@@ -2,8 +2,10 @@
 description: 電子郵件範本 — Marketo檔案 — 產品檔案
 title: 電子郵件範本
 feature: Email Editor
+hide: true
+hidefromtoc: true
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4ebefa5eff49d2b703f0b4885c663945b215fa5c
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
 source-wordcount: '1843'
 ht-degree: 1%
@@ -162,7 +164,7 @@ ht-degree: 1%
 
 儲存電子郵件後，它出現在片段詳細資訊頁面的&#x200B;_[!UICONTROL 使用者]_&#x200B;索引標籤中。 新增到電子郵件範本的片段在範本中無法編輯；來源片段會定義內容。
 
-### 新增Assets {#add-assets}
+### 新增資產 {#add-assets}
 
 新增儲存在Marketo Engage執行個體的[影像和檔案](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"}區段中的影像。
 
