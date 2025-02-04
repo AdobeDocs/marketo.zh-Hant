@@ -4,9 +4,9 @@ description: 匯入人員清單 — Marketo檔案 — 產品檔案
 title: 匯入人員清單
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,8 @@ ht-degree: 0%
    >* 請確定電子郵件地址只包含ASCII字元。
    >
    >* Marketo **不**&#x200B;支援包含emoji的電子郵件地址。
+   >
+   >* 透過CSV匯入`NULL`值，可能會為人員[活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}、_中的數值欄位產生「變更資料值」，即使欄位已經空白_。 如果您有使用「資料值已變更」篩選器或「資料值變更」觸發器的任何[智慧行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}，請務必使用[限制](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}，以確保在執行匯入時不會不必要地觸發這些限制。
 
 ## 步驟2：建立方案 {#step-create-a-program}
 
