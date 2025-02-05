@@ -4,16 +4,16 @@ description: 瞭解如何在Adobe Marketo Engage中編寫內容時使用已連�
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
+source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '598'
 ht-degree: 1%
 
 ---
 
 # 使用Experience Manager資產 {#work-with-experience-manager-assets}
 
-當&#x200B;_Adobe Experience Manager Assets as a Cloud Service_&#x200B;與Adobe Marketo Engage整合時，您可以輕鬆存取數位資產，以用於行銷內容。 當您編寫內容時，可從左側導覽中的&#x200B;_[!UICONTROL Experience Manager Assets]_&#x200B;專案存取資產。
+當&#x200B;_Adobe Experience Manager Assets as a Cloud Service_&#x200B;與Adobe Marketo Engage整合時，您可以輕鬆存取數位資產，以用於行銷內容。
 
 >[!PREREQUISITES]
 >
