@@ -4,10 +4,10 @@ description: 發行排程 - Marketo 文件 - 產品文件
 title: 發行排程
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 47c3750e412f5f21ab5e497edab7edaa1f4abfcb
+source-git-commit: 079ba0f96d40044d19349517159ffe84aa677f39
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 10%
+source-wordcount: '134'
+ht-degree: 8%
 
 ---
 
@@ -33,11 +33,6 @@ _發行日期/功能可能會有所變更_
    <th width="250px">狀態</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-july-24.md">2024年7月</a></td>
-   <td>2024年7月26日</td>
-   <td>已送出</td>
-  </tr>
-  <tr> 
    <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-oct-24.md">2024年10月</td>
    <td>2024年10月4日</td>
    <td>已送出</td>
@@ -45,6 +40,31 @@ _發行日期/功能可能會有所變更_
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">2025年1月</td>
    <td>2025年1月17日</td>
+   <td>進行中</td>
+  </tr>
+   <tr> 
+   <td>2025年3月</td>
+   <td>2025年3月28日</td>
+   <td>依排程</td>
+  </tr>
+  <tr> 
+   <td>2025年4月</td>
+   <td>2025年4月25日</td>
+   <td>依排程</td>
+  </tr>
+  <tr> 
+   <td>2025年5月</td>
+   <td>2025年5月23日</td>
+   <td>依排程</td>
+  </tr>
+  <tr> 
+   <td>2025年6月</td>
+   <td>2025年6月27日</td>
+   <td>依排程</td>
+  </tr>
+  <tr> 
+   <td>2025年7月</td>
+   <td>2025年7月25日</td>
    <td>依排程</td>
   </tr>
  </tbody>
