@@ -3,7 +3,7 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 50c60e6b82215f59ec20e4872ff7a72edbb3681f
+source-git-commit: 6f2c91d31b1d2ea3f2977aa3c9b1ca40e5459a16
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 3%
@@ -34,8 +34,8 @@ ht-degree: 3%
     <tr> 
    <td><strong>新電子郵件Designer</strong>：使用Marketo Engage中的新原生電子郵件Designer建立現代且有效的電子郵件。 存取其中一個預先設計的現成電子郵件範本，或輕鬆建立您自己的範本。 使用動態內容並從Adobe Experience Manager雲端服務存取影像。 使用Content Accelerator Gen-AI功能，大規模建立創新且高效能的電子郵件。
    <p><img src="assets/note-icon.png" alt="附註圖示"> 注意：若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">AdobeIdentity Management系統(IMS)</a>。 如果尚未收到您的請求，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或<a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo支援</a>。 若要存取Content Accelerator Gen-AI功能，請聯絡Adobe客戶團隊。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">透過電子郵件傳送Designer概覽</a></td>
   </tr>
   <tr> 
    <td> </td> 
