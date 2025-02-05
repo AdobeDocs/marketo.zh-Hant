@@ -2,10 +2,8 @@
 description: 概覽 — Marketo檔案 — 產品檔案
 title: 概觀
 feature: Email Editor
-hide: true
-hidefromtoc: true
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
+source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%

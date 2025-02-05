@@ -2,10 +2,8 @@
 description: 電子郵件範本 — Marketo檔案 — 產品檔案
 title: 電子郵件範本
 feature: Email Editor
-hide: true
-hidefromtoc: true
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
+source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
 workflow-type: tm+mt
 source-wordcount: '1843'
 ht-degree: 1%
