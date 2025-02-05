@@ -4,7 +4,7 @@ description: 瞭解如何在Adobe Marketo Engage中編寫內容時使用已連�
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
 workflow-type: tm+mt
 source-wordcount: '617'
 ht-degree: 1%
@@ -53,13 +53,13 @@ ht-degree: 1%
 
 選擇所需的存放庫。
 
-![選擇AEM Assets存放庫以存取影像資產](assets/work-with-experience-manager-assets-five.png)
+![選擇AEM Assets存放庫以存取影像資產](assets/work-with-experience-manager-assets-5.png)
 
 將影像資產新增至視覺畫布的方法有很多種：
 
 * 從左側導覽拖放影像縮圖。
 
-![選擇AEM Assets存放庫以存取影像資產](assets/work-with-experience-manager-assets-5.png){width="700" zoomable="yes"}
+![選擇AEM Assets存放庫以存取影像資產](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
 * 將影像元件新增至畫布並按一下&#x200B;**[!UICONTROL 瀏覽]**&#x200B;以開啟&#x200B;_[!UICONTROL 選取Assets]_&#x200B;對話方塊。
 
@@ -67,7 +67,7 @@ ht-degree: 1%
 
   有多種工具可協助您找到所需的資產。
 
-![在[選取Assets]對話方塊中使用工具來尋找及選取影像資產](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
+![在[選取Assets]對話方塊中使用工具來尋找及選取影像資產](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
 
 * 變更右上角的&#x200B;**[!UICONTROL 存放庫]**。
 
@@ -83,4 +83,4 @@ ht-degree: 1%
 
 * 在搜尋欄位中輸入文字，以篩選顯示的專案以符合資產名稱。
 
-![使用篩選和搜尋欄位來尋找資產](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
+![使用篩選和搜尋欄位來尋找資產](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"}
