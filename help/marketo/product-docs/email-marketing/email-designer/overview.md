@@ -3,7 +3,7 @@ description: 概覽 — Marketo檔案 — 產品檔案
 title: 概觀
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
+source-git-commit: 56f40040f6a6eae9ec80393727b89b7902d22816
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 * [電子郵件範本製作](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：瞭解如何在新的編輯器中建立、設計和存取電子郵件範本。
 
-* [使用AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}：瞭解如何輕鬆存取您的AEM數位資產，以用於Marketo Engage。
+* [使用AEM Assets](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}：瞭解如何輕鬆存取您的AEM數位資產，以用於Marketo Engage。
 
 ## 常見問題集 {#faq}
 
