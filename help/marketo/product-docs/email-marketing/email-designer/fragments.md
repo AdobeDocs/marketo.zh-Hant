@@ -4,9 +4,9 @@ description: 瞭解如何建立視覺化內容片段，並將其用作電子郵�
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '2029'
+source-wordcount: '2052'
 ht-degree: 1%
 
 ---
@@ -26,11 +26,25 @@ ht-degree: 1%
 
 ## 存取及管理片段 {#access-and-manage-fragments}
 
-若要存取視覺化片段，請移至&#x200B;**設計工作室**。 在左側的樹狀結構中，按一下&#x200B;**[!UICONTROL 片段（新增）]**。
+若要存取視覺化片段，請移至Marketo Engage中的&#x200B;**設計工作室**。 在左側的樹狀結構中，按一下&#x200B;**[!UICONTROL 片段（新增）]**。
 
-![存取片段](assets/fragments-1.png){width="600" zoomable="yes"}
+![存取片段](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
 依預設，資料表是依&#x200B;_[!UICONTROL 已修改]_&#x200B;資料行排序。 按一下其他欄標題以變更表格排序依據。 再按一下相同標題，在升序和降序之間切換。
+
+### 尋找和篩選
+
+使用搜尋列依名稱尋找片段。 按一下&#x200B;_篩選器_&#x200B;圖示（ ![篩選器圖示](assets/icon-filter.svg)）以顯示可用的篩選器選項，並選擇所需的設定。
+
+![篩選顯示的片段](assets/access-and-manage-fragments-2.png){width="700" zoomable="yes"}
+
+### 自訂欄 {#customize-the-column-display}
+
+按一下右上角的&#x200B;_自訂表格_&#x200B;圖示（![自訂表格圖示](assets/icon-column-settings.svg)），自訂您要顯示在表格中的欄。
+
+選取您想要的資料行，然後按一下&#x200B;**[!UICONTROL 套用]**。
+
+![自訂資料表模型](assets/access-and-manage-fragments-3.png){width="400" zoomable="yes"}
 
 ### 片段狀態 {#fragment-status}
 
@@ -73,36 +87,30 @@ ht-degree: 1%
   </tr>
 </tbody></table>
 
-### 篩選片段清單 {#filter-the-fragments-list}
-
-使用搜尋列依名稱尋找片段。 按一下&#x200B;_篩選器_&#x200B;圖示（ ![篩選器圖示](assets/icon-filter.svg)）以顯示可用的篩選器選項，並選擇所需的設定。
-
-![篩選顯示的片段](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
-
-### 自訂欄顯示 {#customize-the-column-display}
-
-按一下右上角的&#x200B;_自訂表格_&#x200B;圖示（![自訂表格圖示](assets/icon-column-settings.svg)），自訂您要顯示在表格中的欄。
-
-在對話方塊中，選取所要的資料行，然後按一下&#x200B;**[!UICONTROL 套用]**。
-
-熒幕擷圖
-
 ## 建立內容片段 {#create-fragments}
 
-按一下右上角的&#x200B;**[!UICONTROL 建立片段]**，以建立新的視覺片段。
+1. 若要建立新的視覺片段，請按一下片段清單頁面右上角的&#x200B;**[!UICONTROL 建立片段]**。
 
-1. 在&#x200B;_[!UICONTROL 建立片段]_&#x200B;對話方塊中，輸入&#x200B;**[!UICONTROL 名稱]**&#x200B;和選擇性的&#x200B;**[!UICONTROL 描述]**。
+   ![建立片段按鈕](assets/create-fragments-1.png){width="700" zoomable="yes"}
 
-   片段需求：
+1. 為您的片段提供&#x200B;**[!UICONTROL 名稱]**&#x200B;和選用的&#x200B;**[!UICONTROL 描述]**。
 
-   * 名稱 — 最多100個字元，必須是唯一的、不區分大小寫
-   * 說明 — 最多300個字元
-   * Alpha、數值和特殊字元都可以
+   _片段需求_
+
+   * 名稱：最多100個字元，必須是唯一的，不區分大小寫
+   * 說明：最多300個字元
+   * 字元：可使用字母、數字和特殊字元
    * 保留的字元是&#x200B;**_不允許_**： `\ / : * ? " < > |`
 
-熒幕擷圖
+   ![建立片段模組](assets/create-fragments-2.png){width="400" zoomable="yes"}
 
 1. 按一下&#x200B;**[!UICONTROL 建立]**。
+
+   ![建立片段模組](assets/create-fragments-3.png){width="400" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >目前無法修改片段的&#x200B;**型別**。
 
    視覺化設計工具會以空白畫布開啟。
 

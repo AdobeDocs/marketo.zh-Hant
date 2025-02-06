@@ -1,12 +1,10 @@
 ---
 title: 使用 Experience Manager Assets
 description: 瞭解如何在Adobe Marketo Engage中編寫內容時使用已連線AEM Assets存放庫中的影像資產。
-hide: true
-hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '607'
 ht-degree: 1%
 
 ---
@@ -17,13 +15,13 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->連線MKTO/AEM檔案。
+>[將您的Adobe Experience ManagerCloud Service連線至您的Adobe Marketo Engage執行個體](/help/marketo/product-docs/email-marketing/email-designer/aem-cloud-services.md){target="_blank"}
 
 >[!NOTE]
 >
->目前，Marketo Engage僅支援來自&#x200B;_Adobe Experience Manager Assets_&#x200B;的影像資產。 必須從Adobe Experience Manager Assets中央存放庫變更資產。 [了解更多](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
+>目前，Marketo Engage僅支援來自&#x200B;_Adobe Experience Manager Assets_&#x200B;的影像資產。 必須從Adobe Experience Manager Assets中央存放庫變更資產。 [了解更多](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
-當您使用這些數位資產時，_Assets as a Cloud Service_&#x200B;中的最新變更會透過連結的參考自動傳播至即時電子郵件行銷活動。 如果在&#x200B;_Adobe Experience Manager Assets as a Cloud Service_&#x200B;中刪除影像，這些影像在電子郵件中會顯示為損壞的參考。 當目前用於Marketo Engage的資產被修改或刪除時，電子郵件作者會收到有關影像變更的通知。 對資產的所有變更必須在Adobe Experience Manager Assets中央存放庫中完成。
+當您使用這些數位資產時，_Assets as a Cloud Service_&#x200B;中的最新變更會透過連結的參考自動傳播至即時電子郵件行銷活動。 若在&#x200B;_Adobe Experience Manager Assets as a Cloud Service_&#x200B;中刪除影像，這些影像會在您的電子郵件中顯示為損壞的參考。 當目前用於Marketo Engage的資產被修改或刪除時，電子郵件作者會收到有關影像變更的通知。 對資產的所有變更必須在Adobe Experience Manager Assets中央存放庫中完成。
 
 ## 使用AEM Assets作為影像來源 {#use-aem-assets-as-the-image-source}
 
