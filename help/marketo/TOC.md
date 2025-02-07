@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
+source-git-commit: dd0da9d57331cf82055b0caca80b8610dbddca57
 workflow-type: tm+mt
-source-wordcount: '9413'
+source-wordcount: '9411'
 ht-degree: 0%
 
 ---
@@ -1065,9 +1065,10 @@ ht-degree: 0%
          + [概觀](product-docs/email-marketing/email-designer/overview.md)
          + [電子郵件製作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [電子郵件範本製作](product-docs/email-marketing/email-designer/email-template-authoring.md)
-         + [連線Adobe Experience ManagerCloud Service](product-docs/email-marketing/email-designer/aem-cloud-services.md)
          + [使用AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
          + [片段](product-docs/email-marketing/email-designer/fragments.md)
+         + [內容鎖定](product-docs/email-marketing/email-designer/content-locking.md)
+         + [內容加速器](product-docs/email-marketing/email-designer/content-accelerator.md)
       + 電子郵件程式{#email-programs}
          + 正在建立電子郵件程式{#creating-an-email-program}
             + [建立電子郵件程式](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
