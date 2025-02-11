@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
+source-git-commit: a5fafa0fb218a366b6e2c9b3adfb785791b52447
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '804'
 ht-degree: 1%
 
 ---
@@ -44,11 +44,11 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
    >[!NOTE]
    >
-   >* 若要依工作區和資料夾檢視資產，請按一下左上方的&#x200B;**顯示資料夾**&#x200B;圖示以開啟結構。
+   >* 若要依工作區和資料夾檢視資產，請按一下左上方的&#x200B;**[!UICONTROL 顯示資料夾]**&#x200B;圖示以開啟結構。
    >
    >* 若要依任何欄排序表格，請按一下欄標題。 標題列中的箭頭表示目前的排序欄和順序。
 
-1. 在影像&#x200B;_詳細資料_&#x200B;索引標籤中，按一下&#x200B;**在Adobe Express中編輯**。
+1. 在影像&#x200B;_詳細資料_&#x200B;索引標籤中，按一下&#x200B;**[!UICONTROL 在Adobe Express中編輯]**。
 
    熒幕擷圖3a
 
@@ -64,7 +64,7 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
    >[!NOTE]
    >
-   >* 若要依工作區和資料夾檢視資產，請按一下左上方的&#x200B;**顯示資料夾**&#x200B;圖示以開啟結構。
+   >* 若要依工作區和資料夾檢視資產，請按一下左上方的&#x200B;**[!UICONTROL 顯示資料夾]**&#x200B;圖示以開啟結構。
    >
    >* 若要依任何欄排序表格，請按一下欄標題。 標題列中的箭頭表示目前的排序欄和順序。
 
@@ -90,7 +90,7 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 >
 >購買的授權必須與您的Marketo Engage訂閱屬於同一個IMS組織，才能存取所有Adobe Express編輯功能。 此外，每位使用者都必須擁有Adobe Express的授權。 沒有授權的使用者[](#users-without-an-enterprise-license)只能存取Adobe Express中的快速動作。
 
-## 沒有企業授權的使用者 {#users-without-an-enterprise-license}
+### 沒有企業授權的使用者 {#users-without-an-enterprise-license}
 
 對於沒有Enterprise授權的使用者，您仍可存取數種快速動作編輯功能。 這些功能包括：
 
@@ -103,9 +103,11 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 熒幕擷圖
 
-### 調整影像大小 {#resize-image}
+#### 調整影像大小 {#resize-image}
 
-進行您想要的變更，完成時按一下&#x200B;**套用**。
+1. 按一下&#x200B;**調整影像大小**。
+
+1. 進行您想要的變更，完成時按一下&#x200B;**套用**。
 
 熒幕擷圖
 
@@ -124,22 +126,42 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
   </tr>
   <tr>
     <td><b>縮放和裁切</b></td>
-    <td>按一下「縮放和裁切」以放大影像的特定區域。</td>
+    <td>按一下<b>縮放與裁切</b>以放大影像的特定區域。</td>
   </tr>
 </tbody>
 </table>
 
+#### 移除背景 {#remove-background}
 
+1. 按一下&#x200B;**移除背景**。
 
-### 移除背景 {#remove-background}
+1. Adobe Express會顯示沒有背景的影像。 按一下&#x200B;**套用**。
 
-文字
+PIC
 
-### 裁切影像 {#crop-image}
+>[!TIP]
+>
+>若要還原背景，請選取影像並再次選取&#x200B;**移除背景**。
 
-文字
+#### 裁切影像 {#crop-image}
 
-### 轉換為PNG/JPEG {#convert-to-png-jpeg}
+1. 按一下「裁切影像」。
+
+1. 拖曳影像的邊角，以建立您想要的裁切。
+
+熒幕擷圖
+
+1. 完成時，按一下&#x200B;**套用**。
+
+#### 轉換為PNG/JPEG {#convert-to-png-jpeg}
+
+將PNG轉換為JPEG，或將JPEG轉換為PNG。
+
+1. 按一下「**轉換為PNG/JPEG**」。
+
+1. 按一下&#x200B;**套用**。
+
+裁切以下內容
 
 按一下頁面上的裁切影像。
 
@@ -151,21 +173,10 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 按一下儲存以完成動作。
 
-從影像和檔案清單頁面存取編輯器
-在清單頁面上，選取您要編輯的影像，然後按一下頁面上的「影像和檔案上的V形」動作按鈕。
+## 儲存您的工作 {#save-your-work}
 
-按一下使用Adobe Express編輯
+完成所有編輯後，按一下「儲存」以儲存作業。
 
-存取電子郵件Designer中的編輯器
+熒幕擷圖
 
-在新的電子郵件Designer中，選取您要編輯的影像。
-
-隨即顯示使用Adobe Express編輯的選項。 按一下按鈕以繼續。
-
-注意：此動作適用於原本來源於Marketo Design Studio存放庫的影像。
-
-如果影像正在使用中，則會出現警示對話方塊，通知您所做的任何變更都將影響該內容。 按一下「繼續」以繼續前往Adobe Express編輯器。
-
-在Adobe Express上完成編輯
-
-按一下儲存以完成動作。  編輯後的影像將會儲存在與原始影像相同的資料夾中，並會在電子郵件編輯畫布上更新。
+已編輯的影像會儲存在與原始影像相同的資料夾中。
