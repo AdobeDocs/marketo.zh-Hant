@@ -3,13 +3,12 @@ solution: Marketo Engage
 product: marketo engage
 title: 鎖定電子郵件範本中的內容
 description: 瞭解如何鎖定電子郵件範本中的內容。
-hide: true
-hidefromtoc: true
 level: Beginner, Intermediate
-source-git-commit: dd0da9d57331cf82055b0caca80b8610dbddca57
+exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
+source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
 workflow-type: tm+mt
-source-wordcount: '919'
-ht-degree: 11%
+source-wordcount: '891'
+ht-degree: 9%
 
 ---
 
@@ -41,11 +40,9 @@ Marketo Engage可讓您透過鎖定整個範本或特定結構/元件來鎖定�
 
 無論您是要建立新範本或編輯現有範本，都可直接在電子郵件Designer中啟用電子郵件範本的內容鎖定。
 
- — 已停止在此編輯 — 
-
 1. 開啟或建立電子郵件範本，並存取電子郵件Designer中的內容編輯畫面。
 
-1. 在右側的&#x200B;**[!UICONTROL 內文]**&#x200B;窗格中，開啟&#x200B;**[!UICONTROL 治理]**&#x200B;選項。
+1. 在右側的&#x200B;**[!UICONTROL 內文]**&#x200B;窗格中，啟用&#x200B;**[!UICONTROL 治理]**&#x200B;選項。
 
 1. 從&#x200B;**[!UICONTROL 模式]**&#x200B;下拉式清單中，選取範本所需的鎖定模式：
 
@@ -54,18 +51,18 @@ Marketo Engage可讓您透過鎖定整個範本或特定結構/元件來鎖定�
 
    ![](assets/content-locking-1.png){width="800" zoomable="yes"}
 
-1. 如果您選取&#x200B;**[!UICONTROL 內容鎖定]**&#x200B;模式，您可以進一步定義使用者如何與範本互動。 開啟&#x200B;**[!UICONTROL 啟用內容版本]**&#x200B;選項，並選擇下列其中一項：
+1. 如果您選取&#x200B;**[!UICONTROL 內容鎖定]**&#x200B;模式，您可以進一步定義使用者如何與範本互動。 啟用&#x200B;**[!UICONTROL 啟用內容版本]**&#x200B;選項，並選擇下列其中一項：
 
    * **[!UICONTROL 允許結構和內容新增]**：使用者可以在現有結構之間新增結構，並在可編輯的結構中新增內容元件或片段。
 
    * **[!UICONTROL 僅允許新增內容]**：使用者可以在可編輯的結構中新增內容元件或片段，但無法新增或重複結構。
 
-1. 選取鎖定模式後，您可以定義哪些結構和/或元件要鎖定（如果您已選取&#x200B;**[!UICONTROL 內容鎖定]**&#x200B;模式）：
+1. 選取鎖定模式後，您可以定義若選取&#x200B;**[!UICONTROL 內容鎖定]**&#x200B;模式，要鎖定的結構和/或元件：
 
    * [瞭解如何鎖定結構](#lock-structures)
    * [瞭解如何鎖定元件](#lock-components)
 
-   如果您選擇&#x200B;**[!UICONTROL 唯讀]**&#x200B;模式，您可以照常完成並儲存範本。
+   如果您選擇&#x200B;**[!UICONTROL 唯讀]**&#x200B;模式，您可以繼續完成並儲存範本。
 
 您可以在設計範本時，透過選取範本主體隨時調整&#x200B;**[!UICONTROL 治理]**&#x200B;設定。 若要這麼做，請按一下右側窗格頂端導覽邊欄中的&#x200B;**[!UICONTROL 內文]**&#x200B;連結。
 
@@ -89,7 +86,7 @@ Marketo Engage可讓您透過鎖定整個範本或特定結構/元件來鎖定�
 
 1. 選取您要解除鎖定的元件。
 
-1. 開啟&#x200B;**[!UICONTROL 使用特定鎖定]**&#x200B;選項。
+1. 啟用&#x200B;**[!UICONTROL 使用特定鎖定]**&#x200B;選項。
 
 1. 在&#x200B;**[!UICONTROL 鎖定型別]**&#x200B;下拉式清單中，選擇&#x200B;**[!UICONTROL 可編輯]**。 若要在鎖定樣式時允許編輯內容，請選取&#x200B;**[!UICONTROL 僅可編輯的內容]**。 [瞭解如何鎖定元件](#lock-components)
 
@@ -126,16 +123,11 @@ Marketo Engage可讓您透過鎖定整個範本或特定結構/元件來鎖定�
 
 使用包含鎖定內容的範本時，**[!UICONTROL 啟用治理]**&#x200B;訊息會顯示在右窗格中。
 
-根據套用於範本的鎖定類型，您可以在範本的結構和元件執行不同的動作。若要迅速識別範本中的所有可編輯區域，請切換「**[!UICONTROL 醒目標示可編輯區域]**」選項。
+根據套用於範本的鎖定類型，您可以在範本的結構和元件執行不同的動作。若要快速識別範本中的所有可編輯區域，請啟用&#x200B;**[!UICONTROL 反白可編輯區域]**&#x200B;選項。
 
 例如，在下方的範本中，除了已鎖定的頂端影像之外，所有區域都是可編輯的，這表示您無法編輯或移除它。
 
 ![](assets/content-locking-7.png){width="800" zoomable="yes"}
-
-有關可套用之不同鎖定型別的詳細資訊，請參閱下列章節：
-
-* [鎖定結構](#lock-structures)
-* [鎖定元件](#lock-components)
 
 以下是一些電子郵件編輯的範例，以及已設定的相關內容鎖定設定：
 

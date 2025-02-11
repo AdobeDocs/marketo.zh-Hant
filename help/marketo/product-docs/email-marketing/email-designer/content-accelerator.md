@@ -2,10 +2,10 @@
 solution: Marketo Engage
 product: marketo engage
 title: 使用AI Assistant內容加速器
-description: 利用Adobe的創作AI技術，在電子郵件中新增有用的文字或令人驚豔的影像。
+description: 利用Adobe的創作AI技術，將有用的文字和/或影像新增至您的電子郵件。
 feature: Email Editor
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: a60fad2162ee963c37124fbeedab561dfd52884f
+source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 0%
@@ -46,27 +46,27 @@ AI Assistant Content Accelerator有三個主要使用案例：
 
 <table><tbody>
   <tr>
-    <td><b>購買群組</b></td>
+    <td style="width:25%"><b>購買群組</b></td>
     <td>您鎖定目標的特定購買群組（例如，從業人員、影響者、決策者）。</td>
   </tr>
   <tr>
-    <td><b>行銷歷程階段</b></td>
+    <td style="width:25%"><b>行銷歷程階段</b></td>
     <td>特定行銷歷程階段的收件者（例如，探索、評估、認可）。</td>
   </tr>
   <tr>
-    <td><b>溝通策略</b></td>
+    <td style="width:25%"><b>溝通策略</b></td>
     <td>通訊的目標（例如，緊急、社交證明、資訊）。</td>
   </tr>
   <tr>
-    <td><b>語言</b></td>
+    <td style="width:25%"><b>語言</b></td>
     <td>您要產生主旨行的語言。</td>
   </tr>
   <tr>
-    <td><b>色調</b></td>
+    <td style="width:25%"><b>色調</b></td>
     <td>您希望產生內容的語調（例如，勵志、興奮、幽默）。</td>
   </tr>
   <tr>
-    <td><b>表情符號</b></td>
+    <td style="width:25%"><b>表情符號</b></td>
     <td>允許在產生的內容中包含表情符號。</td>
   </tr>
 </tbody>
