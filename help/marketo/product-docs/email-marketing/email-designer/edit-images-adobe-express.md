@@ -6,18 +6,19 @@ description: 瞭解如何使用Adobe Express在Adobe Marketo Engage電子郵件�
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 803ab5d02f1e2f66ca0fe9176a8dd248fd91b564
+exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '763'
 ht-degree: 1%
 
 ---
 
 # 使用 Adobe Express 編輯影像 {#edit-images-with-adobe-express}
 
-Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像編輯工具。 您可以使用這些工具在Marketo EngageDesign Studio中修改影像。 整合提供下列主要優點：
+Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像編輯工具。 您可以使用這些工具在Marketo Engage Design Studio中修改影像。 整合提供下列主要優點：
 
-* 透過編輯和儲存Marketo Engage的新影像，增加內容重複使用率。
+* 透過在Marketo Engage中編輯和儲存新影像，增加內容重複使用率。
 
 * 減少更新影像或建立現有影像新版本的時間和精力。
 
@@ -81,11 +82,11 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 ## 擁有企業授權的使用者 {#users-with-an-enterprise-license}
 
-如果您擁有適用於Adobe Express的企業授權，便可以存取快速編輯器。 您可以調整影像的顏色、亮度、銳利度、對比度、大小等設定。 「AI魔術」選項可讓您移除背景、插入和移除物件，以及拭除影像的零件。
+如果您有Adobe Express的企業版授權，便可以存取完整的Express編輯器。 您可以調整影像設定，例如顏色、亮度、銳利度、對比度、大小等等。 「AI魔術」選項可讓您移除背景、插入和移除物件，以及拭除影像的零件。
 
 >[!IMPORTANT]
 >
->購買的授權必須與您的Marketo Engage訂閱屬於同一個IMS組織，才能存取所有Adobe Express編輯功能。 此外，每位使用者在Adobe Express中都必須擁有授權。 沒有授權的使用者[](#users-without-an-enterprise-license)只能存取Adobe Express中的快速動作。
+>購買的授權必須與您的Marketo Engage訂閱屬於同一個IMS組織，才能存取所有Adobe Express編輯功能。 此外，每位使用者都必須擁有Adobe Express的授權。 沒有授權的使用者[](#users-without-an-enterprise-license)只能存取Adobe Express中的快速動作。
 
 按一下「使用Adobe Express編輯」以開啟影像。
 
@@ -126,7 +127,7 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 在新的電子郵件Designer中，選取您要編輯的影像。
 
-將會顯示「使用Adobe Express編輯」的選項。 按一下按鈕以繼續。
+隨即顯示使用Adobe Express編輯的選項。 按一下按鈕以繼續。
 
 注意：此動作適用於原本來源於Marketo Design Studio存放庫的影像。
 

@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: dbdd1e1f50203e7122219aab55780761d9df99e3
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
 source-wordcount: '9416'
 ht-degree: 1%
@@ -14,13 +14,13 @@ ht-degree: 1%
 # Marketo 指南 {#using}
 
 + [首頁](home.md)
-+ 開始使用Marketo Engage{#getting-started}
++ 開始使用Marketo Engage {#getting-started}
    + [什麼是Adobe Marketo Engage？](getting-started/what-is-adobe-marketo-engage.md)
    + 初始設定{#initial-setup}
       + [設定步驟](getting-started/initial-setup/setup-steps.md)
       + [設定通訊協定](getting-started/initial-setup/configure-protocols-for-marketo.md)
       + [使用者設定](getting-started/initial-setup/user-setup.md)
-   + 正在實作新的Marketo Engage執行個體{#implementing-a-new-marketo-engage-instance}
+   + 實作新的Marketo Engage執行個體{#implementing-a-new-marketo-engage-instance}
       + [從何處開始](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
       + [新執行個體最佳實務：管理員區段檢查清單](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
       + [新執行個體最佳實務：資料庫檢查清單](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
@@ -60,7 +60,7 @@ ht-degree: 1%
       + SEO {#seo}
          + 瞭解SEO {#understanding-seo}
             + [瞭解搜尋引擎最佳化](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-            + [瞭解SEO控制面板：SEO Recommendations](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+            + [瞭解SEO控制面板：SEO建議](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
             + [瞭解SEO儀表板：SEO快照](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
             + [SEO — 新增網站/刪除網站](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
             + [SEO — 新增競爭者](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
@@ -170,7 +170,7 @@ ht-degree: 1%
          + [新增/編輯/刪除Marketo自訂活動欄位](product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)
          + [建立自訂活動](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [編輯自訂活動](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
-         + [Publish自訂活動](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
+         + [發佈自訂活動](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
          + [自訂活動中繼資料匯出](product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)
       + Marketo自訂物件{#marketo-custom-objects}
          + [瞭解Marketo自訂物件](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
@@ -185,7 +185,7 @@ ht-degree: 1%
          + [自訂物件中繼資料匯出](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + 具有Adobe識別碼{#marketo-with-adobe-identity}的Marketo
          + [快速指南](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
-         + [AdobeIdentity Management概觀](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
+         + [Adobe Identity Management概觀](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [管理員設定](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [產品管理員設定](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [為啟用Adobe IMS的訂閱新增「僅限API使用者」](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
@@ -194,7 +194,7 @@ ht-degree: 1%
          + [常見問題集](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [使用Adobe ID登入的使用者](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + 訂閱和使用者移轉{#subscription-and-user-migration}
-            + [移轉至Adobe身分](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
+            + [移轉至Adobe Identity](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
             + [瞭解Marketo訂閱和使用者移轉至Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
             + [Marketo Engage支援移轉](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
       + 設定{#settings}
@@ -636,8 +636,8 @@ ht-degree: 1%
          + [瞭解Veeva CRM Sync](product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md)
          + 設定{#setup}
             + [步驟3之1：將Marketo欄位新增至Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
-            + [步驟3之2：建立Veeva CRM使用者以進行Marketo Engage](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
-            + [步驟3之3：連結Marketo Engage和Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
+            + [步驟3之2：建立Marketo Engage的Veeva CRM使用者](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
+            + [步驟3之3：連線Marketo Engage和Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
          + 同步處理詳細資料{#sync-details}
             + [新增/移除自訂物件欄位做為智慧清單/觸發條件約束](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
             + [自訂物件同步](product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md)
@@ -652,10 +652,10 @@ ht-degree: 1%
          + [瞭解廣告網路整合](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [將Facebook自訂對象新增為LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
          + [將Google Customer Match新增為LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
-         + [將LinkedIn相符的受眾新增為LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+         + [將LinkedIn相符的對象新增為LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [傳送清單至廣告網路](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
          + [傳送清單至Google](product-docs/demand-generation/ad-network-integrations/send-a-list-to-google.md)
-      + Dynamic Chat{#dynamic-chat}
+      + Dynamic Chat {#dynamic-chat}
          + [Dynamic Chat概觀](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [聊天機器人行為](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [會議清單](product-docs/demand-generation/dynamic-chat/meeting-list.md)
@@ -676,7 +676,7 @@ ht-degree: 1%
          + 自動聊天{#automated-chat}
             + [對話流程概觀](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
             + [建立對話流程](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
-            + [Marketo EngageForms的對話流量設定](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
+            + [Marketo Engage Forms的對話流量設定](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
             + [對話方塊概述](product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md)
             + [建立對話方塊](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md)
             + [對象條件](product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md)
@@ -741,15 +741,15 @@ ht-degree: 1%
             + [事件工作流程](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
             + [參與儀表板](product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md)
             + [Marketo Sales Insight中的互動式網路研討會](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-in-marketo-sales-insight.md)
-      + facebook {#facebook}
-         + [在Facebook中新增銷售機會至自訂對象](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+      + Facebook {#facebook}
+         + [在Facebook中將潛在客戶新增至自訂對象](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [在Facebook中建立自訂對象](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
          + [編輯Facebook Rich Post設定](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
-         + [Publish登陸頁面至Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
-         + [設定Facebook銷售機會廣告](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+         + [將登陸頁面發佈至Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+         + [設定Facebook潛在客戶廣告](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [將自訂欄位對應至Marketo](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
          + [設定Facebook離線轉換](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-         + [測試案頭與Marketo整合的Facebook銷售機會廣告](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
+         + [測試Facebook案頭整合Marketo的銷售機會廣告](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
          + [測試Facebook銷售機會廣告，以透過Marketo進行行動整合](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [瞭解Facebook離線轉換](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
          + [在智慧型行銷活動中使用潛在客戶廣告篩選器和觸發器](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
@@ -775,7 +775,7 @@ ht-degree: 1%
             + [編輯表單](product-docs/demand-generation/forms/form-actions/edit-a-form.md)
             + [在您的網站上內嵌表單](product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md)
             + [啟用社交表單填寫表單](product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)
-            + [linkedIn社交表單填寫常見問題集](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
+            + [LinkedIn社交表單填寫常見問題集](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
             + [顯示已知人員的自訂HTML表單](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
             + [在Lightbox中使用表單](product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)
          + 表單設計{#form-design}
@@ -827,7 +827,7 @@ ht-degree: 1%
             + [將影片新增至自由格式的登陸頁面](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)
             + [將影像新增至自由格式的登陸頁面](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
             + [新增矩形至自由表單登陸頁面](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-a-rectangle-to-a-free-form-landing-page.md)
-            + [新增自訂HTML至自由表單登陸頁面](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
+            + [新增自訂HTML至自由格式的登陸頁面](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
             + [建立自由格式的登陸頁面](product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
             + [自訂您自由表單登陸頁面的行動裝置檢視](product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
             + [在自由格式的登陸頁面中使用動態內容](product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
@@ -986,11 +986,11 @@ ht-degree: 1%
          + 正在建立輪詢{#creating-a-poll}
             + [建立投票](product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
             + [自訂輪詢設定](product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md)
-            + [Publish意見調查](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
+            + [發佈投票](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
             + [檢閱投票中所投的票](product-docs/demand-generation/social/creating-a-poll/review-votes-cast-in-poll.md)
          + 轉介優惠方案{#referral-offers}
             + [建立反向連結選件](product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-            + [Publish a轉介選件](product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)
+            + [發佈反向連結選件](product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)
             + [傳送轉介優惠履行電子郵件](product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)
             + [指定轉介優惠的目標](product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
          + 社交功能{#social-functions}
@@ -1003,17 +1003,17 @@ ht-degree: 1%
             + [啟用社交表單填寫表單（社交）](product-docs/demand-generation/social/social-functions/enable-social-form-fill-on-a-form-social.md)
             + [管理社交設定檔資料](product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)
             + [設定社交分享需求](product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
-            + [設定LinkedIn Lead Gen Forms](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
+            + [設定LinkedIn潛在客戶Gen Forms](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
             + [社交活動的觸發器和篩選器](product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)
-            + [使用Marketo清單或智慧清單作為LinkedIn受眾區段](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+            + [使用Marketo清單或智慧清單做為LinkedIn對象區段](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
             + [在社交促銷活動中使用電子郵件](product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
-            + [在Smart Campaign中使用LinkedIn Lead Gen表單篩選器和觸發器](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+            + [在Smart Campaign中使用LinkedIn銷售機會一般表單篩選器和觸發器](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
             + [使用優惠履行的促銷代碼](product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)
             + [檢視社交績效](product-docs/demand-generation/social/social-functions/view-social-performance.md)
          + 抽獎{#sweepstakes}
             + [建立抽獎](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
             + [自訂抽獎樣式](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
-            + [Publish抽獎](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
+            + [發佈抽獎](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [選取抽獎活動獲勝者](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + 電子郵件行銷{#email-marketing}
       + 傳遞能力 {#deliverability}
@@ -1026,7 +1026,7 @@ ht-degree: 1%
          + [瞭解取消訂閱](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [使用您的專用IP位址傳送電子郵件](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
          + 收件匣追蹤器{#inbox-tracker}
-            + [收件匣追蹤器Tutorials](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
+            + [收件匣追蹤器教學課程](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
       + 滴管培養{#drip-nurturing}
          + 建立參與方案{#creating-an-engagement-program}
             + [新增資料流](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
@@ -1069,7 +1069,7 @@ ht-degree: 1%
          + [使用 Adobe Express 編輯影像](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [片段](product-docs/email-marketing/email-designer/fragments.md)
          + [內容鎖定](product-docs/email-marketing/email-designer/content-locking.md)
-         + [內容加速器](product-docs/email-marketing/email-designer/content-accelerator.md)
+         + [AI 助理](product-docs/email-marketing/email-designer/ai-assistant.md)
       + 電子郵件程式{#email-programs}
          + 正在建立電子郵件程式{#creating-an-email-program}
             + [建立電子郵件程式](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
@@ -1167,7 +1167,7 @@ ht-degree: 1%
             + [使用傳送警報資訊權杖](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [在我的Token中使用URL](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [電子郵件副本](product-docs/email-marketing/general/email-cc.md)
-   + Marketo Engage新式UX {#marketo-engage-modern-ux}
+   + Marketo Engage Modern UX {#marketo-engage-modern-ux}
       + [概觀](product-docs/marketo-engage-modern-ux/overview.md)
       + [使用全域搜尋](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [切換開關](product-docs/marketo-engage-modern-ux/toggle-switch.md)
@@ -1561,7 +1561,7 @@ ht-degree: 1%
             + [升級適用於Microsoft Dynamics的Marketo Sales Insight Solution](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + Salesforce {#msi-for-salesforce}的MSI
          + 安裝{#installation}
-            + [在SalesforceAppExchange中安裝Marketo Sales Insight套件](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+            + [在Salesforce AppExchange中安裝Marketo Sales Insight套件](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + 設定 {#configuration}
             + [在Salesforce Enterprise/Unlimited中設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [在Salesforce Professional Edition中設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
@@ -1583,7 +1583,7 @@ ht-degree: 1%
                + [在Sales Insight中選擇動作](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [在Marketo Sales Insight中設定取消訂閱頁尾](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [鎖定銷售範本](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
-               + [Publish傳送電子郵件給Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+               + [發佈電子郵件至Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [傳送測試電子郵件](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + 語言支援{#language-support}
                + [準備Sales Insight以獲得Salesforce中的多語言支援](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
@@ -1625,7 +1625,7 @@ ht-degree: 1%
          + [升級您的Outlook版Marketo電子郵件增益集](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
       + [非原生MS Dynamics整合的Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
       + [非原生Salesforce整合的Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
-   + Marketo Sky{#marketo-sky}
+   + Marketo Sky {#marketo-sky}
       + [預期行為](product-docs/marketo-sky/expected-behavior.md)
    + 行動裝置行銷{#mobile-marketing}
       + 管理員{#admin}
@@ -1772,7 +1772,7 @@ ht-degree: 1%
             + [已檢視的網頁、網頁活動報表](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + 電子郵件深入分析{#email-insights}
          + [電子郵件深入分析概觀](product-docs/reporting/email-insights/email-insights-overview.md)
-         + [電子郵件深入分析的自訂Dimension](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
+         + [電子郵件深入分析的自訂維度](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
          + [電子郵件分析Analytics概觀](product-docs/reporting/email-insights/email-insights-analytics-overview.md)
          + [電子郵件深入分析常見問題集](product-docs/reporting/email-insights/email-insights-faq.md)
          + [電子郵件深入分析快速圖表](product-docs/reporting/email-insights/email-insights-quick-charts.md)
@@ -1956,7 +1956,7 @@ ht-degree: 1%
          + [從特定標籤檢視區段](product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
          + [網頁區段](product-docs/web-personalization/using-web-segments/web-segments.md)
       + 網站正在重新目標定位{#website-retargeting}
-         + [facebook中的個人化再行銷](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
+         + [Facebook中的個人化再行銷](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Google中的個人化再行銷](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
          + [使用網頁Personalization資料重新進行目標定位](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + 使用網站行銷活動{#working-with-web-campaigns}

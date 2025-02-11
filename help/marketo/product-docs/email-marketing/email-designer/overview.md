@@ -5,9 +5,9 @@ description: 概覽 — Marketo檔案 — 產品檔案
 title: 概觀
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 57b391e568417e34bf1b124d47be13dd22ab98a1
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 歡迎使用新的Adobe Marketo Engage電子郵件Designer。
 
-電子郵件設計工具是Marketo Engage的最新創新，旨在提供經過改版的電子郵件和電子郵件範本建立體驗，透過提供視覺化的拖放編輯器以及標準的現成範本來提高生產力和效率。 輕鬆建立自訂的電子郵件範本，無需花錢購買廠商。
+電子郵件設計工具是Marketo Engage的最新創新，旨在提供改版後的電子郵件和電子郵件範本建立體驗，藉由提供視覺化的拖放編輯器以及標準的現成可用範本，以改善生產力和效率。 輕鬆建立自訂的電子郵件範本，無需花錢購買廠商。
 
 在新設計工具中建立的電子郵件可用於電子郵件計畫以及智慧清單/行銷活動。 即將推出針對設計工具的強大新增強功能。
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 +++瞭解如何存取電子郵件設計工具
 
-若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[AdobeIdentity Management系統(IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的請求，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
+若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ### 新增使用者 {#add-users}
 
@@ -48,9 +48,9 @@ ht-degree: 0%
 
 * [電子郵件範本製作](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：瞭解如何在新的編輯器中建立、設計和存取電子郵件範本。
 
-* [使用AEM資產](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}：瞭解如何輕鬆存取您的AEM數位資產，以用於Marketo Engage。
+* [使用AEM資產](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}：瞭解如何輕鬆存取AEM數位資產，以用於Marketo Engage。
 
-* [使用AI Assistant內容加速器](/help/marketo/product-docs/email-marketing/email-designer/content-accelerator.md){target="_blank"}：利用Adobe的創作AI技術，將有用的文字和/或影像新增至您的電子郵件。
+* [使用AI助理](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}：利用Adobe的創作AI技術，將有用的文字和/或影像新增到您的電子郵件中。
 
 * [鎖定電子郵件範本中的內容](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}：瞭解如何鎖定電子郵件範本中的內容，以防止無意編輯或刪除。
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 **我們現有的電子郵件範本是否可以在新的設計工具中運作？ 如果沒有，我們是否需要使用新的設計工具來建立範本，以便讓所有區段/模組都對應到我們想要的內容外觀？**
 
-否，新設計工具無法參照傳統編輯器的電子郵件範本。 您將需要在新的設計工具中建立新的範本。 不過，您&#x200B;_可以_&#x200B;將範本HTML匯入新設計工具，然後進行必要的調整。 我們也在研究將範本從傳統編輯器輕鬆移轉到新設計工具的方法。
+否，新設計工具無法參照傳統編輯器的電子郵件範本。 您將需要在新的設計工具中建立新的範本。 不過，您&#x200B;_可以_&#x200B;將範本HTML匯入新的設計工具，然後進行必要的調整。 我們也在研究將範本從傳統編輯器輕鬆移轉到新設計工具的方法。
 
 **是否有辦法強制執行品牌化（字型、標誌和顏色）？**
 
