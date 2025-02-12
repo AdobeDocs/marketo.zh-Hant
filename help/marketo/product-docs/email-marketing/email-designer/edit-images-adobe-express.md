@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: a5fafa0fb218a366b6e2c9b3adfb785791b52447
+source-git-commit: 844f9c9b7402974b8e0f2e54159b451818b505c6
 workflow-type: tm+mt
 source-wordcount: '804'
 ht-degree: 1%
@@ -161,7 +161,7 @@ PIC
 
 1. 按一下&#x200B;**套用**。
 
-裁切以下內容
+ — 裁切以下內容 — 
 
 按一下頁面上的裁切影像。
 
