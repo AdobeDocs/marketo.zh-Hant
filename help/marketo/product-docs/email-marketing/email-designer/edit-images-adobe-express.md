@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 844f9c9b7402974b8e0f2e54159b451818b505c6
+source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '851'
 ht-degree: 1%
 
 ---
@@ -38,9 +38,9 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
    ![在Design Studio的左側導覽中選取影像和檔案](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
-1. 選取您要編輯的影像（或建立新影像）。
+1. 選取您要編輯的影像。
 
-   熒幕擷圖2a
+   ![按一下影像的名稱](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 1. 在影像&#x200B;_詳細資料_&#x200B;索引標籤中，按一下&#x200B;**[!UICONTROL 在Adobe Express中編輯]**。
 
-   熒幕擷圖3a
+   ![按一下「在Adobe Express中編輯」按鈕](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -68,11 +68,9 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
    >
    >* 若要依任何欄排序表格，請按一下欄標題。 標題列中的箭頭表示目前的排序欄和順序。
 
-1. 選取您要編輯之影像旁的核取方塊。
+1. 選取您要編輯之影像旁的核取方塊。 在&#x200B;**[!UICONTROL 影像和檔案動作]**&#x200B;下拉式清單中，選取&#x200B;**[!UICONTROL 在Adobe Express中編輯]**。
 
-   熒幕擷圖2b
-
-1. 在&#x200B;**[!UICONTROL 影像和檔案動作]**&#x200B;下拉式清單中，選取&#x200B;**[!UICONTROL 在Adobe Express中編輯]**。
+   ![選取影像名稱旁的核取方塊，並使用影像和檔案動作下拉式清單](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -99,9 +97,9 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 * [裁切影像](#crop-image)
 * [轉換為PNG/JPEG](#convert-to-png-jpeg)
 
-您可以在影像頁面的左上角存取這些功能。
+這些功能可在影像頁面左側存取。
 
-熒幕擷圖
+顯示Adobe Express編輯選項的![影像頁面](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
 
 #### 調整影像大小 {#resize-image}
 
@@ -109,24 +107,24 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 1. 進行您想要的變更，完成時按一下&#x200B;**套用**。
 
-熒幕擷圖
+![文字文字](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
-    <td><b>外觀比例</b></td>
+    <td style="width:25%"><b>外觀比例</b></td>
     <td>在<b>外觀比例</b>下拉式清單中，選擇<b>標準</b>至空白，或選擇<b>自訂</b>設定您自己的寬度/高度。</td>
   </tr>
   <tr>
-    <td><b>寬度和高度</b></td>
+    <td style="width:25%"><b>寬度和高度</b></td>
     <td>依預設，外觀比例會鎖定，當您調整其大小時，影像比例會保持相同。 如有需要，您可以選取「鎖定」按鈕來解除鎖定長寬比。</td>
   </tr>
   <tr>
-    <td><b>重設</b></td>
+    <td style="width:25%"><b>重設</b></td>
     <td>按一下<b>重設</b>，移除對影像所做的任何編輯，並將其恢復為原始狀態。</td>
   </tr>
   <tr>
-    <td><b>縮放和裁切</b></td>
-    <td>按一下<b>縮放與裁切</b>以放大影像的特定區域。</td>
+    <td style="width:25%"><b>縮放和裁切</b></td>
+    <td>按一下<b>縮放與裁切</b>以放大影像的特定區域。 縮放後按一下<b>套用</b>，將影像裁切成目前顯示的影像。</td>
   </tr>
 </tbody>
 </table>
@@ -135,9 +133,9 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 1. 按一下&#x200B;**移除背景**。
 
-1. Adobe Express會顯示沒有背景的影像。 按一下&#x200B;**套用**。
+1. Adobe Express會顯示沒有背景的影像。 如果符合您的需求，請按一下[套用]。****
 
-PIC
+![文字文字](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
@@ -145,21 +143,23 @@ PIC
 
 #### 裁切影像 {#crop-image}
 
-1. 按一下「裁切影像」。
+1. 按一下&#x200B;**[!UICONTROL 裁切影像]**。
 
 1. 拖曳影像的邊角，以建立您想要的裁切。
 
-熒幕擷圖
+![文字文字](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
-1. 完成時，按一下&#x200B;**套用**。
+1. 完成時，按一下&#x200B;**[!UICONTROL 套用]**。
 
 #### 轉換為PNG/JPEG {#convert-to-png-jpeg}
 
-將PNG轉換為JPEG，或將JPEG轉換為PNG。
+將PNG檔案轉換為JPEG檔案，或將JPEG檔案轉換為PNG檔案。
 
-1. 按一下「**轉換為PNG/JPEG**」。
+1. 按一下「**[!UICONTROL 轉換為PNG/JPEG]**」。
 
-1. 按一下&#x200B;**套用**。
+![文字文字](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+
+1. 按一下&#x200B;**[!UICONTROL 套用]**。
 
  — 裁切以下內容 — 
 
