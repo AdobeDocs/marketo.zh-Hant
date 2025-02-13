@@ -5,9 +5,9 @@ description: 概覽 — Marketo檔案 — 產品檔案
 title: 概觀
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
+source-git-commit: e5d02f0a288cbd5c3f234c9bd5d202b60fdc629e
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '699'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,11 @@ ht-degree: 0%
 
 * [電子郵件範本製作](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：瞭解如何在新的編輯器中建立、設計和存取電子郵件範本。
 
+* [片段](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}：瞭解如何建立和使用視覺內容片段，作為電子郵件和電子郵件範本的可重複使用元件。
+
 * [使用AEM資產](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}：瞭解如何輕鬆存取AEM數位資產，以用於Marketo Engage。
+
+* [使用Adobe Express編輯影像](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}：瞭解如何使用Adobe Express在Adobe Marketo Engage電子郵件編輯器中編輯影像。
 
 * [使用AI助理](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}：利用Adobe的創作AI技術，將有用的文字和/或影像新增到您的電子郵件中。
 
