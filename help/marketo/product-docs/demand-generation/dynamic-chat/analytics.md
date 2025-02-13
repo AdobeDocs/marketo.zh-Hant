@@ -3,9 +3,9 @@ description: Analytics - Marketo檔案 — 產品檔案
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 24d5c7f1135857e387031d043a3855e1779233e6
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '242'
 ht-degree: 2%
 
 ---
@@ -54,14 +54,22 @@ ht-degree: 2%
 <thead>
 <tbody>
   <tr>
-    <td style="width:25%"><b>已完成</b></td>
+    <td style="width:30%"><b>已完成</b></td>
     <td>當訪客用盡對話中的所有內容時，當訪客到達對話中<i>或</i>的最後一個提示時，就會發生已完成的事件。
     <br>每個訪客、每個工作階段一個已完成的事件。</td>
   </tr>
   <tr>
-    <td style="width:25%"><b>已獲取的人員</b></td>
+    <td style="width:30%"><b>已獲取的人員</b></td>
     <td>當訪客提交其電子郵件地址時發生。
     <br>每個訪客、每個工作階段一個贏取。</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>參與率</b></td>
+    <td>已回應的使用者數（使用者第一次輸入）/觸發器數（顯示聊天機器人）。</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>轉換率</b></td>
+    <td>使用者已取得（已擷取新電子郵件）/使用者參與。</td>
   </tr>
 </tbody>
 </table>
