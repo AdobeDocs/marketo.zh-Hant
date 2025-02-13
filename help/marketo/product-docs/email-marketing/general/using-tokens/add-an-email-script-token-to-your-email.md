@@ -4,10 +4,10 @@ description: 新增電子郵件指令碼Token至您的電子郵件 — Marketo�
 title: 新增電子郵件指令碼Token至您的電子郵件
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9d6dd17ea20fb75a2931254addff570787ee2f8b
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 1%
+source-wordcount: '164'
+ht-degree: 2%
 
 ---
 
@@ -43,11 +43,7 @@ ht-degree: 1%
 
    ![](assets/five-1.png)
 
-   >[!TIP]
-   >
-   >如有需要，可新增預設值。
-
-1. 按一下&#x200B;**保存**。
+1. 按一下&#x200B;**儲存**。
 
    ![](assets/six.png)
 
@@ -55,4 +51,4 @@ ht-degree: 1%
 >
 >別忘記[核准電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
 
-完成了！ 傳送此電子郵件時，Token後的指令碼將會執行並填入內容。
+完成了！傳送此電子郵件時，Token後的指令碼將會執行並填入內容。
