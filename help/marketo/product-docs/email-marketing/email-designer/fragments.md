@@ -1,12 +1,13 @@
 ---
+solution: Marketo Engage
+product: marketo engage
 title: 片段
-description: 瞭解如何建立/使用視覺內容片段，作為電子郵件和電子郵件範本的可重複使用元件。
-hide: true
-hidefromtoc: true
+description: 瞭解如何建立視覺化內容片段，並將其用作電子郵件和電子郵件範本的可重複使用元件。
+level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 45961ce486231ab2512d65ffa934369a014fe016
+source-git-commit: a8e8640a8fe69bd0ae40329a915fe89a3a90854d
 workflow-type: tm+mt
-source-wordcount: '1908'
+source-wordcount: '1909'
 ht-degree: 0%
 
 ---
@@ -54,7 +55,7 @@ ht-degree: 0%
 <tbody>
   <tr>
     <td width="25%"><b>草稿</b></td>
-    <td width="70%">當您建立片段時，它處於草稿狀態。 在您發佈以供電子郵件或電子郵件範本使用之前，這仍然是草稿。
+    <td width="75%">當您建立片段時，它處於草稿狀態。 在您發佈以供電子郵件或電子郵件範本使用之前，這仍然是草稿。
     <p>可用的動作：
     <li>編輯所有詳細資料</li>
     <li>在視覺化設計工具中編輯</li>
@@ -74,8 +75,8 @@ ht-degree: 0%
     </td>
   </tr>
   <tr>
-    <td><b>已與草稿一起發佈</b></td>
-    <td>當您從已發佈的片段建立草稿時，已發佈的版本仍可在電子郵件或電子郵件範本中使用，且草稿內容可在視覺化設計工具中修改。 如果您發佈草稿版本，草稿版本會取代目前發佈的版本，而且內容會在<i>所有</i>使用草稿的電子郵件和電子郵件範本中更新。 
+    <td style="width:25%"><b>已與草稿一起發佈</b></td>
+    <td style="width:75%">當您從已發佈的片段建立草稿時，已發佈的版本仍可在電子郵件或電子郵件範本中使用，且草稿內容可在視覺化設計工具中修改。 如果您發佈草稿版本，草稿版本會取代目前發佈的版本，而且內容會在<i>所有</i>使用草稿的電子郵件和電子郵件範本中更新。 
     <p>可用的動作：
     <li>編輯說明</li>
     <li>新增至電子郵件或範本</li>
@@ -85,7 +86,8 @@ ht-degree: 0%
     <li>刪除（若未使用）</li>
     </td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ## 建立內容片段 {#create-fragments}
 
