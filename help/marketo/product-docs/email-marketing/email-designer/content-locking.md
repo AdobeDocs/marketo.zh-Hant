@@ -1,11 +1,11 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: 鎖定電子郵件範本中的內容
 description: 瞭解如何鎖定電子郵件範本中的內容。
 level: Beginner, Intermediate
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
+source-git-commit: 76d854176c3c462596596689b43d3567517fee63
 workflow-type: tm+mt
 source-wordcount: '891'
 ht-degree: 9%
@@ -14,7 +14,7 @@ ht-degree: 9%
 
 # 鎖定電子郵件範本中的內容 {#lock-content-email-templates}
 
-Marketo Engage可讓您透過鎖定整個範本或特定結構/元件來鎖定電子郵件範本中的內容。 這樣做讓您可以防止無意間不小心編輯或刪除內容，讓您更能掌控範本自訂，進而提高電子郵件行銷活動的效率和可靠性。
+Marketo Engage可讓您透過鎖定整個範本或特定結構/元件，來鎖定電子郵件範本中的內容。 這樣做讓您可以防止無意間不小心編輯或刪除內容，讓您更能掌控範本自訂，進而提高電子郵件行銷活動的效率和可靠性。
 
 >[!AVAILABILITY]
 >

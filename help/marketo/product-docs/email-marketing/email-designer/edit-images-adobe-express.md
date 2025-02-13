@@ -1,11 +1,11 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: 使用 Adobe Express 編輯影像
 description: 瞭解如何使用Adobe Express在Adobe Marketo Engage電子郵件編輯器中編輯影像。
 level: Beginner, Intermediate
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
+source-git-commit: 76d854176c3c462596596689b43d3567517fee63
 workflow-type: tm+mt
 source-wordcount: '841'
 ht-degree: 1%

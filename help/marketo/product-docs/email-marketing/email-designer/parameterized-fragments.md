@@ -1,6 +1,6 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: 引數化片段
 description: 瞭解如何透過將其部分欄位設為可編輯來自訂片段。
 feature: Email Editor
@@ -8,9 +8,9 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: f50fe3ff6ce2d9e98fa98cc72fd756844d55660c
+source-git-commit: 76d854176c3c462596596689b43d3567517fee63
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 視覺效果和運算式片段都可以標示為可自訂。 有關如何繼續處理每種型別片段的詳細說明，請參閱以下章節。
 
-熒幕擷圖
+熒幕擷圖 — GIF？
 
  — 已停止在此編輯 — 
 
@@ -45,17 +45,17 @@ ht-degree: 0%
 
    在以下範例中，我們允許編輯「按一下這裡」按鈕URL。
 
-熒幕擷圖
+   ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
 1. 按一下&#x200B;**總覽**&#x200B;以檢查所有可編輯的欄位及其預設值。
 
    在此範例中，按鈕URL欄位會以元件中定義的預設值顯示。 使用者將片段新增至內容後，即可自訂此值。
 
-熒幕擷圖
+   ![](assets/fragment-param-preview.png){width="800" zoomable="yes"}
 
 1. 準備就緒後，儲存您的變更以更新片段。
 
-1. 將片段新增到電子郵件後，使用者將能夠自訂片段中設定的所有可編輯欄位。 [瞭解如何自訂視覺片段中的可編輯欄位](../email/use-visual-fragments.md#customize-fields)
+1. 將片段新增到電子郵件後，使用者將能夠自訂片段中設定的所有可編輯欄位。
 
 ## 在HTML元件和運算式片段中新增可編輯的欄位 {#expression}
 
@@ -75,6 +75,6 @@ ht-degree: 0%
 
 例如，在下列程式碼中，每個以紅色反白顯示的元素都可以成為屬性：
 
-![](assets/fragment-html.png){width="70%"}
+![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
