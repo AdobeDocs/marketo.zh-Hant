@@ -4,12 +4,10 @@ product: marketo engage
 title: 使用 Adobe Express 編輯影像
 description: 瞭解如何使用Adobe Express在Adobe Marketo Engage電子郵件編輯器中編輯影像。
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
+source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '841'
 ht-degree: 1%
 
 ---
@@ -28,7 +26,10 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 ## 存取Adobe Express編輯器 {#access-the-adobe-express-editor}
 
-存取Adobe Express編輯器有兩個方法。
+存取Adobe Express編輯器有兩個方法：
+
+* 按一下影像名稱
+* _影像和檔案動作_&#x200B;下拉式功能表
 
 >[!BEGINTABS]
 
@@ -82,7 +83,7 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 ### 擁有企業授權的使用者 {#users-with-an-enterprise-license}
 
-如果您有Adobe Express的企業版授權，便可以存取完整的Express編輯器。 您可以調整影像設定，例如顏色、亮度、銳利度、對比度、大小等等。 「AI魔術」選項可讓您移除背景、插入和移除物件，以及拭除影像的零件。
+如果您有Adobe Express的企業版授權，便可以存取完整的Express編輯器。 您可以調整影像設定，例如顏色、亮度、銳利度、對比度、大小等等。 「AI魔術」選項可讓您移除背景、插入和移除物件，以及拭除影像的零件。 請造訪[Adobe Express使用手冊](https://helpx.adobe.com/express/user-guide.html){target="_blank"}以瞭解每個設定。
 
 >[!IMPORTANT]
 >
@@ -107,12 +108,12 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 1. 進行您想要的變更，完成時按一下&#x200B;**套用**。
 
-![文字文字](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![調整影像視窗大小，顯示所有可用的選項](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
     <td style="width:25%"><b>外觀比例</b></td>
-    <td>在<b>外觀比例</b>下拉式清單中，選擇<b>標準</b>至空白，或選擇<b>自訂</b>設定您自己的寬度/高度。</td>
+    <td>在<b>外觀比例</b>下拉式清單中，選擇<b>標準</b>以選擇預先計算的常用像片大小，或選擇<b>自訂</b>以設定您自己的寬度/高度。 您也可以選擇特定社群媒體平台的標準大小(Pinterest、Snapchat等)。</td>
   </tr>
   <tr>
     <td style="width:25%"><b>寬度和高度</b></td>
@@ -135,11 +136,11 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 1. Adobe Express會顯示沒有背景的影像。 如果符合您的需求，請按一下[套用]。****
 
-![文字文字](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
+![剛移除背景的狗影像](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
->若要還原背景，請選取影像並再次選取&#x200B;**移除背景**。
+>如果您對結果不滿意，只要按一下&#x200B;**X**&#x200B;關閉視窗即可。
 
 #### 裁切影像 {#crop-image}
 
@@ -147,7 +148,7 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 1. 拖曳影像的邊角，以建立您想要的裁切。
 
-![文字文字](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
+![拖曳像片邊角以裁切影像](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
 1. 完成時，按一下&#x200B;**[!UICONTROL 套用]**。
 
@@ -157,26 +158,14 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 1. 按一下「**[!UICONTROL 轉換為PNG/JPEG]**」。
 
-![文字文字](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+![轉換成PNG/JPEG視窗](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
 1. 按一下&#x200B;**[!UICONTROL 套用]**。
 
- — 裁切以下內容 — 
-
-按一下頁面上的裁切影像。
-
-在Adobe Express編輯器上，對影像執行裁切，然後按一下「儲存」。
-
-注意：此動作不會覆寫影像，但會顯示影像以供您進一步編輯。
-
-您可以使用左側面板上的另一個選項執行進一步更新，按一下「儲存」以覆寫現有影像，或按一下「另存新資產」以儲存為新影像。
-
-按一下儲存以完成動作。
-
 ## 儲存您的工作 {#save-your-work}
 
-完成所有編輯後，按一下「儲存」以儲存作業。
+完成所有編輯後，按一下&#x200B;**儲存**&#x200B;以儲存作業。
 
-熒幕擷圖
+![儲存按鈕](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 
 已編輯的影像會儲存在與原始影像相同的資料夾中。

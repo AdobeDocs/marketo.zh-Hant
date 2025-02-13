@@ -4,10 +4,10 @@ description: 瞭解如何建立視覺化內容片段，並將其用作電子郵�
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
+source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
 workflow-type: tm+mt
-source-wordcount: '2052'
-ht-degree: 1%
+source-wordcount: '1909'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 1%
 
 ## 存取及管理片段 {#access-and-manage-fragments}
 
-若要存取視覺化片段，請移至Marketo Engage中的&#x200B;**設計工作室**。 在左側的樹狀結構中，按一下&#x200B;**[!UICONTROL 片段（新增）]**。
+若要存取視覺化片段，請前往Marketo Engage中的&#x200B;**Design Studio**。 在左側的樹狀結構中，按一下&#x200B;**[!UICONTROL 片段（新增）]**。
 
 ![存取片段](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
@@ -53,7 +53,7 @@ ht-degree: 1%
 <table>
 <tbody>
   <tr>
-    <td><b>草稿</b></td>
+    <td style="width:25%"><b>草稿</b></td>
     <td>當您建立片段時，它處於草稿狀態。 在您發佈以供電子郵件或電子郵件範本使用之前，這仍然是草稿。
     <p>可用的動作：
     <li>編輯所有詳細資料</li>
@@ -63,7 +63,7 @@ ht-degree: 1%
     <li>刪除</li>
   </td>
   <tr>
-    <td><b>發佈日期</b></td>
+    <td style="width:25%"><b>發佈日期</b></td>
     <td>當您發佈片段時，該片段將可用於電子郵件或電子郵件範本。 在視覺化設計工具中無法修改已發佈的片段內容。
     <p>可用的動作：
     <li>編輯說明</li>
@@ -74,13 +74,13 @@ ht-degree: 1%
     </td>
   </tr>
   <tr>
-    <td><b>已與草稿一起發佈</b></td>
+    <td style="width:25%"><b>已與草稿一起發佈</b></td>
     <td>當您從已發佈的片段建立草稿時，已發佈的版本仍可在電子郵件或電子郵件範本中使用，且草稿內容可在視覺化設計工具中修改。 如果您發佈草稿版本，草稿版本會取代目前發佈的版本，而且內容會在<i>所有</i>使用草稿的電子郵件和電子郵件範本中更新。 
     <p>可用的動作：
     <li>編輯說明</li>
     <li>新增至電子郵件或範本</li>
     <li>在視覺化設計工具中編輯草稿版本</li>
-    <li>Publish草稿版本</li>
+    <li>發佈草稿版本</li>
     <li>複製</li>
     <li>刪除（若未使用）</li>
     </td>
@@ -114,37 +114,11 @@ ht-degree: 1%
 
    視覺化設計工具會以空白畫布開啟。
 
-1. 使用內容設計工具建立視覺片段內容：
-
-   * [新增結構和內容](#add-structure-and-content)
-   * [新增Assets](#add-assets)
-   * [導覽圖層、設定和樣式](#navigate-the-layers-settings-and-styles)
-   * [個人化內容](#personalize-content)
-   * [編輯連結的URL追蹤](#edit-linked-url-tracking)
+1. 使用[內容設計工具](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"}來建立視覺片段內容。
 
 1. 隨時按一下&#x200B;**[!UICONTROL 儲存]**&#x200B;以儲存草稿片段。
 
-1. 當您準備好讓片段可用於電子郵件或電子郵件範本時，請按一下&#x200B;**[!UICONTROL Publish]**。
-
-### 新增結構和內容 {#add-structure-and-content}
-
-{{$include /help/marketo/_includes/content-design-components.md}}
-
-### 新增資產
-
-{{$include /help/_includes/content-design-assets.md}}
-
-### 導覽圖層、設定和樣式
-
-{{$include /help/_includes/content-design-navigation.md}}
-
-### 個人化內容
-
-{{$include /help/_includes/content-design-personalization.md}}
-
-### 編輯連結的URL追蹤
-
-{{$include /help/_includes/content-design-links.md}}
+1. 當您準備好讓片段可用於電子郵件或電子郵件範本時，請按一下[發佈]。****
 
 ## 檢視片段詳細資訊 {#view-fragment-details}
 
@@ -205,19 +179,11 @@ ht-degree: 1%
 
    ![具有草稿狀態的片段詳細資料](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
-1. 若要變更視覺化設計工具中的內容，請按一下[編輯片段]。****
+1. 若要變更視覺化設計工具中的內容，請按一下[編輯片段]。**** 完成時，按一下&#x200B;**儲存**。
 
-   視需要使用視覺化設計工具工具：
+1. 按一下「**[!UICONTROL 儲存]**」或「**[!UICONTROL 儲存並關閉]**」以返回片段詳細資料。
 
-   * [新增結構和內容](#add-structure-and-content)
-   * [新增Assets](#add-assets)
-   * [導覽圖層、設定和樣式](#navigate-the-layers-settings-and-styles)
-   * [個人化內容](#personalize-content)
-   * [編輯連結的URL追蹤](#edit-linked-url-tracking)
-
-   按一下「**[!UICONTROL 儲存]**」或「**[!UICONTROL 儲存並關閉]**」以返回片段詳細資料。
-
-1. 當片段符合您的條件且您想要將其用於電子郵件或電子郵件範本時，請按一下&#x200B;**[!UICONTROL Publish]**。
+1. 當您想要讓片段可用於電子郵件或電子郵件範本時，請按一下[發佈]。****
 
 >[!TAB 已發佈]
 
@@ -235,19 +201,13 @@ ht-degree: 1%
 
    ![建立草稿版本對話方塊](assets/fragments-create-draft-version.png){width="300"}
 
-   視需要使用視覺化設計工具工具：
+1. 按一下「**[!UICONTROL 儲存]**」或「**[!UICONTROL 儲存並關閉]**」以返回片段詳細資料。
 
-   * [新增結構和內容](#add-structure-and-content)
-   * [新增Assets](#add-assets)
-   * [導覽圖層、設定和樣式](#navigate-the-layers-settings-and-styles)
-   * [個人化內容](#personalize-content)
-   * [編輯連結的URL追蹤](#edit-linked-url-tracking)
+1. 當您想要讓片段可用於電子郵件或電子郵件範本時，請按一下[發佈]。****
 
-   按一下「**[!UICONTROL 儲存]**」或「**[!UICONTROL 儲存並關閉]**」以返回片段詳細資料。
-
-1. 當草稿片段符合您的條件，而您想要讓變更可用於電子郵件或電子郵件範本時，請按一下&#x200B;**[!UICONTROL Publish]**。
-
-   當您發佈草稿版本時，草稿版本會取代目前發佈的版本，而內容會更新到已使用草稿的電子郵件和電子郵件範本中。
+>[!NOTE]
+>
+>當您發佈草稿版本時，草稿版本會取代目前發佈的版本，而內容會更新到已使用草稿的電子郵件和電子郵件範本中。
 
 >[!TAB 已發佈草稿]
 
@@ -259,23 +219,19 @@ ht-degree: 1%
 
 * 按一下片段名稱以開啟。 然後，按一下右上方的&#x200B;**[!UICONTROL 開啟草稿版本]**。
 
-  將顯示草稿版本的視覺內容預覽，片段詳細資訊在右側。
+將顯示草稿版本的視覺內容預覽，片段詳細資訊在右側。
 
 若要更新內容：
 
-1. 按一下右上方的&#x200B;**[!UICONTROL 編輯片段]**。 視需要使用視覺化設計工具工具：
+1. 按一下右上方的&#x200B;**[!UICONTROL 編輯片段]**。 完成時，按一下&#x200B;**儲存**。
 
-   * [新增結構和內容](#add-structure-and-content)
-   * [新增Assets](#add-assets)
-   * [導覽圖層、設定和樣式](#navigate-the-layers-settings-and-styles)
-   * [個人化內容](#personalize-content)
-   * [編輯連結的URL追蹤](#edit-linked-url-tracking)
+1. 按一下「**[!UICONTROL 儲存]**」或「**[!UICONTROL 儲存並關閉]**」以返回片段詳細資料。
 
-   按一下「**[!UICONTROL 儲存]**」或「**[!UICONTROL 儲存並關閉]**」以返回片段詳細資料。
+1. 當您想要讓片段可用於電子郵件或電子郵件範本時，請按一下[發佈]。****
 
-1. 當草稿片段符合您的條件，而您想要讓變更可用於電子郵件或電子郵件範本時，請按一下&#x200B;**[!UICONTROL Publish]**。
-
-   當您發佈草稿版本時，草稿版本會取代目前發佈的版本，而內容會更新到已使用草稿的電子郵件和電子郵件範本中。
+>[!NOTE]
+>
+>當您發佈草稿版本時，草稿版本會取代目前發佈的版本，而內容會更新到已使用草稿的電子郵件和電子郵件範本中。
 
 >[!ENDTABS]
 
@@ -288,7 +244,7 @@ ht-degree: 1%
 
 ![復製片段](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
-在對話方塊中，輸入唯一名稱與選擇性說明。 按一下&#x200B;**[!UICONTROL 複製]**&#x200B;以完成動作。
+在對話方塊中，輸入唯一名稱與選擇性說明。 按一下&#x200B;**[!UICONTROL 複製]**。
 
 ![輸入複製的片段的名稱和描述](assets/fragment-duplicate-dialog.png){width="400"}
 
@@ -296,7 +252,7 @@ ht-degree: 1%
 
 ## 從電子郵件或範本內容儲存新片段 {#save-a-new-fragment-from-email-or-template-content}
 
-在視覺內容編輯器中建立/編輯電子郵件或電子郵件範本時，您可以將全部或部分內容儲存為片段，以便重複使用。
+在視覺內容編輯器中建立/編輯電子郵件或電子郵件範本時，您可以將全部或部分內容儲存為片段以供重複使用。
 
 1. 若要將內容另存為片段，請按一下[其他] ****，然後選擇[另存為片段] ]**。**[!UICONTROL 
 
@@ -304,13 +260,13 @@ ht-degree: 1%
 
    按住Shift或Control按鈕，選取多個結構。
 
-   您只能選取彼此相鄰的結構，而且介面不允許您選取不相鄰的元素。
+   您只能選取彼此相鄰的結構。
 
 1. 選取內容後，按一下右上角的&#x200B;**[!UICONTROL 建立]**。
 
 1. 在對話方塊中，輸入片段的名稱和選擇性說明，然後按一下&#x200B;**[!UICONTROL 建立]**。
 
-   然後片段會顯示在&#x200B;_片段_&#x200B;清單頁面中，也可在電子郵件和電子郵件範本中使用。
+然後片段會顯示在&#x200B;_片段_&#x200B;清單頁面中，並可用於電子郵件和電子郵件範本。
 
 ## 將視覺化片段新增至您的電子郵件或範本內容 {#add-visual-fragments-to-your-email-or-template-content}
 
