@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: f50fe3ff6ce2d9e98fa98cc72fd756844d55660c
+source-git-commit: d5e3438526ca2d5b18fb7d796f76443a8de6b18c
 workflow-type: tm+mt
-source-wordcount: '9418'
+source-wordcount: '9420'
 ht-degree: 1%
 
 ---
@@ -197,6 +197,7 @@ ht-degree: 1%
             + [移轉至Adobe Identity](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
             + [瞭解Marketo訂閱和使用者移轉至Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
             + [Marketo Engage支援移轉](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
+            + [疑難排解指南](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/troubleshooting.md)
       + 設定{#settings}
          + [大量匯出API資訊](product-docs/administration/settings/bulk-export-api-information.md)
          + [行銷活動檢視窗](product-docs/administration/settings/campaign-inspector.md)
