@@ -4,7 +4,8 @@ title: Adobe IMS疑難排解指南
 hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
-source-git-commit: eccebb8352c56770dea5af9395c8bc83a08525dd
+exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
+source-git-commit: e5c6ac7df0f8f6e7726de1ced598d390a6cf1deb
 workflow-type: tm+mt
 source-wordcount: '543'
 ht-degree: 0%
@@ -23,8 +24,6 @@ ht-degree: 0%
 * <a href="#not-in-domain">不在網域</a>中
 * <a href="#create-failure">建立失敗</a>
 * <a href="#type2e-user-failure">Type2e使用者失敗</a>
-
-
 
 <table>
 <thead>
