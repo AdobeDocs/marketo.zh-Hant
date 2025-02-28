@@ -5,9 +5,9 @@ description: 歡迎使用新的Adobe Marketo Engage電子郵件Designer。
 title: 概觀
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '717'
 ht-degree: 0%
 
 ---
@@ -49,6 +49,8 @@ ht-degree: 0%
 * [電子郵件範本製作](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：瞭解如何在新的編輯器中建立、設計和存取電子郵件範本。
 
 * [片段](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}：瞭解如何建立和使用視覺內容片段，作為電子郵件和電子郵件範本的可重複使用元件。
+
+* [可自訂的片段](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}：瞭解如何透過編輯某些欄位來自訂片段。
 
 * [使用AEM資產](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}：瞭解如何輕鬆存取AEM數位資產，以用於Marketo Engage。
 

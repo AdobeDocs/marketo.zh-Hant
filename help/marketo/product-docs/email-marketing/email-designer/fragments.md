@@ -5,9 +5,9 @@ title: 片段
 description: 瞭解如何建立視覺化內容片段，並將其用作電子郵件和電子郵件範本的可重複使用元件。
 level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
-source-wordcount: '1909'
+source-wordcount: '1911'
 ht-degree: 0%
 
 ---
@@ -299,3 +299,7 @@ ht-degree: 0%
 在編輯器頁面上選取片段時，可以從右側的內容工具列和屬性面板中取得這些動作。
 
 ![套用動作至選取的片段](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"}
+
+>[!MORELIKETHIS]
+>
+>[可自訂的片段](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md)

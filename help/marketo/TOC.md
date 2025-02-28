@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: d5e3438526ca2d5b18fb7d796f76443a8de6b18c
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
 source-wordcount: '9420'
 ht-degree: 1%
@@ -1069,7 +1069,7 @@ ht-degree: 1%
          + [使用AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
          + [使用 Adobe Express 編輯影像](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [片段](product-docs/email-marketing/email-designer/fragments.md)
-         + [引數化片段](product-docs/email-marketing/email-designer/parameterized-fragments.md)
+         + [可自訂的片段](product-docs/email-marketing/email-designer/customizable-fragments.md)
          + [內容鎖定](product-docs/email-marketing/email-designer/content-locking.md)
          + [AI 助理](product-docs/email-marketing/email-designer/ai-assistant.md)
       + 電子郵件程式{#email-programs}
@@ -1989,14 +1989,14 @@ ht-degree: 1%
    + [最新版本](release-notes/current.md)
    + [Dynamic Chat版本](release-notes/dynamic-chat.md)
    + 舊版{#previous-releases}
-      + 2024 {#2024}
+      + 2024 年{#2024}
          + [發行說明： 2024年1月](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [發行說明： 2024年3月](release-notes/previous-releases/2024/release-notes-mar-24.md)
          + [發行說明： 2024年4月](release-notes/previous-releases/2024/release-notes-apr-24.md)
          + [發行說明： 2024年6月](release-notes/previous-releases/2024/release-notes-june-24.md)
          + [發行說明： 2024年7月](release-notes/previous-releases/2024/release-notes-july-24.md)
          + [發行說明： 2024年10月](release-notes/previous-releases/2024/release-notes-oct-24.md)
-      + 2023 {#2023}
+      + 2023 年{#2023}
          + [發行說明： 2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [發行說明： 2023年3月](release-notes/previous-releases/2023/release-notes-mar-23.md)
          + [發行說明： 2023年5月](release-notes/previous-releases/2023/release-notes-may-23.md)
