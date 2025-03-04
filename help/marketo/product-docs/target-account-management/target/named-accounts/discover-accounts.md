@@ -4,9 +4,9 @@ description: 探索帳戶 — Marketo檔案 — 產品檔案
 title: 探索帳戶
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: dd4c8472ec3f453462bd8046daf70c89c587724a
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '558'
 ht-degree: 0%
 
 ---
@@ -76,8 +76,6 @@ ht-degree: 0%
    >* 將大多數網際網路服務提供者和公用網域(例如yahoo.com、gmail.com)篩選為公司名稱
    >
    >* 刪除CRM帳戶的重複專案。 如果您有一筆記錄中有「Acme」且「Acme Inc」（或下列任一尾碼：Co， Corp， Corporation， Gmbh， Inc， Incorporated， LLC， LLP， LP， Ltd， PA， PC， PLC， PLLC），我們會將它們合併到TAM中，就像「Acme」一樣
-   >
-   >如果您希望Marketo依CRM ID或帳戶擁有者（而非公司名稱）刪除重複帳戶，請聯絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 1. 按一下具名帳戶欄下方的向下箭頭，以顯示下拉式清單。
 
