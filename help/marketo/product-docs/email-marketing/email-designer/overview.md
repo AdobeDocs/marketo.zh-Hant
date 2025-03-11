@@ -5,9 +5,9 @@ description: 歡迎使用新的Adobe Marketo Engage電子郵件Designer。
 title: 概觀
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
+source-git-commit: b7e378af0d606202f022848d2a099d5170061024
 workflow-type: tm+mt
-source-wordcount: '717'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
@@ -28,15 +28,15 @@ ht-degree: 0%
 
 ### 新增使用者 {#add-users}
 
-1. 在Marketo Engage中，移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域並選取&#x200B;**[!UICONTROL 新電子郵件Designer]**。
+1. 在Marketo Engage中，移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域並選取&#x200B;**[!UICONTROL New Email Designer]**。
 
    ![在管理員的左側導覽中選取新的電子郵件Designer](assets/overview-1.png){width="600" zoomable="yes"}
 
-1. 按一下&#x200B;**[!UICONTROL 新增使用者]**。
+1. 按一下「**[!UICONTROL Add Users]**」。
 
    ![新增使用者按鈕](assets/overview-2.png){width="600" zoomable="yes"}
 
-1. 在&#x200B;**[!UICONTROL 新增值]**&#x200B;下拉式清單中，選取所需的使用者。 完成時，按一下&#x200B;**[!UICONTROL 確定]**。
+1. 在&#x200B;**[!UICONTROL Add New Values]**&#x200B;下拉式清單中，選取所需的使用者。 完成時，按一下&#x200B;**[!UICONTROL OK]**。
 
    ![從清單選擇使用者](assets/overview-3.png){width="600" zoomable="yes"}
 
@@ -86,6 +86,10 @@ ht-degree: 0%
 **新的電子郵件設計工具是否支援AMP語言？**
 
 目前不支援AMP。
+
+**是否可以在新的電子郵件設計工具中透過API編輯資產？**
+
+新的電子郵件設計工具目前不支援透過API編輯的Assets。
 
 **依屬性的動態內容很好，但依區段的動態內容是否仍然有效？**
 
