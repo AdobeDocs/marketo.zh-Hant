@@ -4,9 +4,9 @@ description: 瞭解Marketo自訂物件 — Marketo檔案 — 產品檔案
 title: 瞭解Marketo自訂物件
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7fd4d4e12b348ad4d0d69cd3f62cf441eda258b8
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '689'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,11 @@ ht-degree: 0%
 
 ## 存取Marketo自訂物件 {#accessing-marketo-custom-objects}
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL Marketo自訂物件]**。
+1. 按一下「**[!UICONTROL Marketo Custom Objects]**」。
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -69,23 +69,27 @@ ht-degree: 0%
 
 ## 檢視與個人相關聯的自訂物件 {#view-custom-objects-associated-to-a-person}
 
-建立自訂物件結構後，當您上傳特定自訂物件資料時，自訂物件會自動使用自訂物件中的連結欄位與資料庫中的人員建立關聯。 您可以從人員詳細資訊頁面上的[!UICONTROL 自訂物件]索引標籤檢視資訊。
+建立自訂物件結構後，當您上傳特定自訂物件資料時，自訂物件會自動使用自訂物件中的連結欄位與資料庫中的人員建立關聯。 您可以從人員詳細資訊頁面上的[!UICONTROL Custom Objects]索引標籤檢視資訊。
 
-1. 移至&#x200B;**[!UICONTROL 資料庫]**。
+1. 移至&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. 開啟您的資料庫，然後按一下&#x200B;**[!UICONTROL 人員]**&#x200B;索引標籤。 連按兩下您與自訂物件相關聯之人員的記錄。
+1. 開啟您的資料庫，然後按一下&#x200B;**[!UICONTROL People]**&#x200B;索引標籤。 連按兩下您與自訂物件相關聯之人員的記錄。
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. 在人員詳細資訊頁面上，按一下&#x200B;**[!UICONTROL 自訂物件]**&#x200B;標籤。 從下拉式清單中選取物件。
+1. 在人員詳細資料頁面上，按一下「**[!UICONTROL Custom Objects]**」標籤。 從下拉式清單中選取物件。
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 
 1. 現在您可以檢視與該人員相關聯之該型別的所有自訂物件清單。
 
    ![](assets/understanding-marketo-custom-objects-8.png)
+
+   >[!NOTE]
+   >
+   >在個人記錄中，「自訂物件」索引標籤最多可顯示100筆記錄，並依ID遞減排序。
 
 ## 搭配公司使用自訂物件 {#using-custom-objects-with-companies}
 
