@@ -4,9 +4,10 @@ title: GenAI功能
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
+exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
+source-git-commit: 827e5acdf901201c16a4265f35e9be0fc45cdf2f
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
@@ -57,10 +58,11 @@ ht-degree: 0%
 
      ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
-
    >[!NOTE]
    >
-   >如有需要，您可以使用&#x200B;_向上縮圖_ ![向上縮圖圖示](assets/icon-thumbs-up.png)或&#x200B;_向下縮圖_ ![向下縮圖圖示](assets/icon-thumbs-down.png)圖示，來評等產生的章節/摘要品質。 您也可以按一下標幟圖示![標幟圖示](assets/icon-flag.png)來標幟任何有問題的內容。
+   >* 如有需要，您可以使用&#x200B;_向上縮圖_ ![向上縮圖圖示](assets/icon-thumbs-up.png)或&#x200B;_向下縮圖_ ![向下縮圖圖示](assets/icon-thumbs-down.png)圖示，來評等產生的章節/摘要品質。 您也可以按一下標幟圖示![標幟圖示](assets/icon-flag.png)來標幟任何有問題的內容。
+   >
+   >* 如果您對初始摘要不滿意，可以按一下「**重新產生摘要**」按鈕，然後產生另一個版本。
 
 1. 按一下熒幕右上方的&#x200B;**儲存**&#x200B;按鈕，儲存您的變更。
 
