@@ -4,7 +4,7 @@ title: GenAI功能
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
+source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 1. 按一下&#x200B;**產生**。
 
-   ![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+   ![](assets/gen-ai-features-1.png){width="750" zoomable="yes"}
 
 1. 隨即開啟新標籤，顯示AI產生的章節和文字摘要。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 1. 如果需要變更，請按一下&#x200B;**編輯**&#x200B;按鈕。
 
-   若要進行修改：
+   進行修改：
 
    * 編輯摘要和/或章節標題中的文字。
 
@@ -55,14 +55,14 @@ ht-degree: 0%
 
       * 若要合併多個章節，您必須一次合併兩個章節
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
 
    >[!NOTE]
    >
    >如有需要，您可以使用&#x200B;_向上縮圖_ ![向上縮圖圖示](assets/icon-thumbs-up.png)或&#x200B;_向下縮圖_ ![向下縮圖圖示](assets/icon-thumbs-down.png)圖示，來評等產生的章節/摘要品質。 您也可以按一下標幟圖示![標幟圖示](assets/icon-flag.png)來標幟任何有問題的內容。
 
-1. 按一下熒幕左上方的&#x200B;**儲存**&#x200B;按鈕，儲存您的變更。
+1. 按一下熒幕右上方的&#x200B;**儲存**&#x200B;按鈕，儲存您的變更。
 
 ## 使用產生的內容 {#use-generated-content}
 
@@ -88,4 +88,4 @@ ht-degree: 0%
 
 * 刪除網路研討會也會刪除GenAI內容。
 
-* 如需進一步澄清或資料刪除請求，請聯絡Adobe客戶團隊（您的客戶經理），或在這裡給我們傳送電子郵件： `marketo-webinar-genai-alerts@adobe.com`。
+* 如需進一步澄清或提出資料刪除請求，請聯絡Adobe客戶團隊（您的客戶經理），或傳送電子郵件至： `marketo-webinar-genai-alerts@adobe.com`。
