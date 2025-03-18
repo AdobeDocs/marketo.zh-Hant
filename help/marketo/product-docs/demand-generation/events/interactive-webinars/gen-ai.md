@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 827e5acdf901201c16a4265f35e9be0fc45cdf2f
+source-git-commit: c00d6bbe7b7c4589446a42bbd31087bf6d4e8ddf
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -90,4 +90,4 @@ ht-degree: 0%
 
 * 刪除網路研討會也會刪除GenAI內容。
 
-* 如需進一步澄清或提出資料刪除請求，請聯絡Adobe客戶團隊（您的客戶經理），或傳送電子郵件至： `marketo-webinar-genai-alerts@adobe.com`。
+* 如果您想要刪除GenAI內容而不刪除網路研討會，請聯絡Adobe帳戶團隊（您的帳戶經理），或傳送資料刪除請求到： `marketo-webinar-genai-alerts@adobe.com`。
