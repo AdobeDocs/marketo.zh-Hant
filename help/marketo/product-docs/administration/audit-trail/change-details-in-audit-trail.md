@@ -4,7 +4,7 @@ description: 稽核軌跡 — Marketo檔案 — 產品檔案中的變更詳細�
 title: 變更稽核軌跡的詳細資料
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1477b889f74597396b3467371229a511e4390f91
 workflow-type: tm+mt
 source-wordcount: '1902'
 ht-degree: 10%
@@ -137,7 +137,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>編輯</td> 
-   <td>編輯模組 <module name><attribute> 至「value」</td> 
+   <td>將模組<code>"&lt;module name&gt;" &lt;attribute&gt;</code>編輯為「value」</td> 
   </tr> 
   <tr> 
    <td>刪除</td> 
@@ -598,7 +598,7 @@ ht-degree: 10%
    <td>不適用</td> 
   </tr> 
   <tr> 
-   <td>啟用</td> 
+   <td>啟動</td> 
    <td>不適用</td> 
   </tr> 
   <tr> 
