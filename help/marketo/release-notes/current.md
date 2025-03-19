@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7a583a482af64290d08644945e569612f4be8ab9
+source-git-commit: f8d75117254b20672fde3bcfd4fbbd4d8a6506e1
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '446'
 ht-degree: 4%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 4%
    <th style="width:25%">文件</th>
   </tr>
     <tr> 
-   <td><strong>所有程式都可使用Designer電子郵件</strong>：參與、預設和事件程式現在都可存取新的Designer電子郵件（互動式網路研討會程式除外）。 以前它們只能用於電子郵件計畫。</td>
+   <td><strong>所有程式都可使用Designer電子郵件</strong>：參與、預設和事件程式現在都可存取新的Designer電子郵件（互動式網路研討會程式除外）。 以前它們只能用於電子郵件計畫。 透過這項更新，複製功能也可供使用。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
