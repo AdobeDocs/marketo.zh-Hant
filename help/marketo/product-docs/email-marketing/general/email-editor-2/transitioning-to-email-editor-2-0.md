@@ -3,8 +3,10 @@ unique-page-id: 11373011
 description: 轉換至電子郵件編輯器2.0 - Marketo檔案 — 產品檔案
 title: 轉換至電子郵件編輯器2.0
 exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
+hide: true
+hidefromtoc: true
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 0%

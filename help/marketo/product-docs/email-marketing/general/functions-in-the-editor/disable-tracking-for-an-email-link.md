@@ -4,9 +4,9 @@ description: 停用電子郵件連結的追蹤 — Marketo檔案 — 產品檔�
 title: 停用電子郵件連結的追蹤
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 0%
 # 停用電子郵件連結的追蹤 {#disable-tracking-for-an-email-link}
 
 有時您並不想在電子郵件中的連結上啟用&#x200B;**Marketo追蹤URL**。 當目的地頁面不支援URL引數並且可能導致連結中斷時，這項功能會很有用。
+
+此外，如果電子郵件是在&#x200B;**且** 365天前傳送，且過去180天內沒有人點按任何連結，Marketo Engage會從資料庫中刪減指向URL的路由，進而導致連結中斷。 因此，如果您需要讓連結成為永久連結，您應停用追蹤。
 
 1. 選取您的電子郵件並按一下&#x200B;**編輯草稿**。
 
@@ -39,7 +41,7 @@ ht-degree: 0%
    >
    >取消僅核取&#x200B;**包含mkt_tok**&#x200B;仍可追蹤連結，但在重新導向後，目的地URL將不會包含mkt_tok查詢字串引數。 Marketo登陸頁面和Munchkin會使用此引數，以確保正確追蹤人員活動（例如當人員取消訂閱電子郵件時）。 您應該避免使用此功能，除非您因引數出現而在網站上看到奇怪的行為。
 
-1. 按一下&#x200B;**保存**。
+1. 按一下&#x200B;**儲存**。
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 
