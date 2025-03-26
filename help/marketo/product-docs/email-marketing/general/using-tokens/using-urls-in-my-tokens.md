@@ -4,9 +4,9 @@ description: 在My Token中使用URL - Marketo檔案 — 產品檔案
 title: 在我的Token中使用URL
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >若要確定您的電子郵件會追蹤點按，請&#x200B;**勿**&#x200B;在Token的值內輸入https://。
+   >**使用http/https...**
+   >
+   >* 若要確定在您的電子郵件中追蹤點按，請&#x200B;**不**&#x200B;輸入https:// _在裡面_&#x200B;權杖的值。 在Token之外使用它，如步驟7所示。
+   >
+   >* 強烈建議您不要遺漏http/https。 這麼做可能會造成您電子郵件的[網頁版本](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"}無法正確呈現。
 
 1. 在您的程式中選取電子郵件。
 
@@ -43,13 +47,13 @@ ht-degree: 0%
 
    ![](assets/six-1.png)
 
-1. 在電子郵件中的任一處，輸入「https://」（後面不留空格）並按一下「插入Token」圖示。
+1. 在電子郵件中的任一處，輸入`https://` （後面不留空格），然後按一下「插入Token」圖示。
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >如果您的網站使用「https」，您當然也可以選擇輸入。
+   >如果您的網站未使用https，您當然也可以選擇輸入`http://`。
 
 1. 找到您的「我的Token」，選取它，然後按一下[插入]。****
 
@@ -67,7 +71,7 @@ ht-degree: 0%
 
    ![](assets/eleven.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下&#x200B;**儲存**。
 
    ![](assets/twelve.png)
 
