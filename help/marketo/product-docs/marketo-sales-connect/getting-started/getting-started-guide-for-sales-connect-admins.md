@@ -3,7 +3,7 @@ description: Sales Connect管理員快速入門手冊 — Marketo檔案 — 產�
 title: Sales Connect管理員快速入門手冊
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9a43f9bce9664523334b55dcca3d9ea79d5f5093
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 ## 正在連線到Salesforce {#connecting-to-salesforce}
 
-所有使用者都必須個別連線至Salesforce，才能將Sales活動記錄到Salesforce，例如電子郵件、電話和工作。 不過，當您以管理員身分連線至Salesforce時，將有機會為整個團隊設定活動記錄設定，因此全域記錄設定將套用至所有Sales Connect使用者。
+所有使用者都需要個別連線至Salesforce，才能將銷售活動記錄到Salesforce，例如電子郵件、電話和工作。 不過，當您以管理員身分連線至Salesforce時，將有機會為整個團隊設定活動記錄設定，因此全域記錄設定將套用至所有Sales Connect使用者。
 
-若要將您的Sales Connect執行個體連線到您的Salesforce執行個體（以管理員或非管理員身分），請依照[本文章](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)中的步驟操作。
+若要以管理員或非管理員身分，將您的Sales Connect執行個體連線到您的Salesforce執行個體，請依照[本文章](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)中的步驟操作。
 
 ![](assets/getting-started-guide-for-sales-connect-admins-3.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 * 將[有趣的時刻](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)推播到即時摘要
 * 將銷售活動記錄到Marketo
 
-若要深入瞭解如何連線至Marketo以及授與銷售使用者連線的存取權，請按一下這裡。
+若要進一步瞭解如何連線至Marketo以及授與銷售使用者連線的存取權，[請按一下這裡](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)。
 
 ## 安裝Salesforce自訂套件 {#installing-salesforce-customization-package}
 
