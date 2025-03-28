@@ -4,9 +4,9 @@ description: 永續性取消訂閱 — Marketo檔案 — 產品檔案
 title: 持久取消訂閱
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 35f5b33b01462b1cd00e29360daee465c7f18cf0
+source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Marketo已增強取消訂閱功能的行為，讓其「經久耐用」。 我們
 
 有數種方式可重新訂閱使用者。
 
-在Salesforce中，**清除**&#x200B;潛在客戶/連絡人記錄上的電子郵件選擇退出欄位。 這將會同步至Marketo。
+在Salesforce中，**清除**&#x200B;潛在客戶/連絡人記錄上的「電子郵件選擇退出」欄位。 這將會同步至Marketo。
 
 ![](assets/one.png)
 
@@ -45,9 +45,7 @@ Marketo已增強取消訂閱功能的行為，讓其「經久耐用」。 我們
 
 ## 變更電子郵件地址 {#changing-an-email-address}
 
-如果您將某人的電子郵件地址變更為已取消訂閱的電子郵件地址，則會取消訂閱該人。 此變更可在Marketo或Salesforce中發生。
-
-如果您將取消訂閱的電子郵件地址變更為已訂閱的電子郵件地址，則該人員將會變為已訂閱。
+如果您將某人的電子郵件地址變更為已取消訂閱的電子郵件地址，則會取消訂閱該人。 這項變更可能發生在Marketo或Salesforce中。
 
 ## 重新訂閱 {#re-subscribing}
 

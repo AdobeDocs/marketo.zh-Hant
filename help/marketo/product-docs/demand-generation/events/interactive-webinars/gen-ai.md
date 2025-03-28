@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '518'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 # GenAI功能 {#gen-ai-features}
 
 為您錄製的網路研討會自動產生章節和摘要，讓對象更容易存取和導覽。
+
+>[!PREREQUISITES]
+>
+>在使用這些功能之前，您必須先接受Adobe GenAI條款與條件。 如果您尚未這麼做，請聯絡Adobe客戶團隊（您的客戶經理）以取得詳細資料。
 
 * **自動產生章節**： AI支援的技術會為您的網路研討會內容建立章節。
 
