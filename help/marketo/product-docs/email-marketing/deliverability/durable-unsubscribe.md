@@ -4,9 +4,9 @@ description: 永續性取消訂閱 — Marketo檔案 — 產品檔案
 title: 持久取消訂閱
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
+source-git-commit: 366de1bf0ec858da50aa19dcea1cb5b36b624394
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -27,15 +27,15 @@ Marketo已增強取消訂閱功能的行為，讓其「經久耐用」。 我們
 
 在Salesforce中，**清除**&#x200B;潛在客戶/連絡人記錄上的「電子郵件選擇退出」欄位。 這將會同步至Marketo。
 
-![](assets/one.png)
+![Salesforce畫面](assets/durable-unsubscribe-1.png)
 
 在Marketo中，**清除**&#x200B;個人記錄之[資訊]索引標籤中的取消訂閱方塊。
 
-![](assets/two.png)
+![清除個人記錄中的取消訂閱方塊](assets/durable-unsubscribe-2.png)
 
 對一或多個人員執行&#x200B;**變更資料值**&#x200B;流程步驟，如下所示。
 
-![](assets/three.png)
+![變更資料值流程步驟](assets/durable-unsubscribe-3.png)
 
 透過SOAP API更新現有人員。
 
