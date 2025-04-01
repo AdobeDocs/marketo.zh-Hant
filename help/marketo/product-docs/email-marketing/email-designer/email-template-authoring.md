@@ -3,9 +3,9 @@ description: 電子郵件範本 — Marketo檔案 — 產品檔案
 title: 電子郵件範本
 feature: Email Editor
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '1843'
+source-wordcount: '1821'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[AdobeIdentity Management系統(IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的請求，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
+>若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 >[!NOTE]
 >
@@ -44,7 +44,7 @@ ht-degree: 1%
 
 ## 設計您的範本 {#design-your-template}
 
-在&#x200B;_設計您的範本_&#x200B;頁面中，您可以選擇幾個選項。 [從頭開始設計](#design-from-scratch)、[匯入您自己的HTML](#import-html)，或[選取現有的範本](#choose-a-template) （我們的範例或您已儲存的範本）。
+在&#x200B;_設計您的範本_&#x200B;頁面中，您可以選擇幾個選項。 [從頭開始設計](#design-from-scratch)、[匯入您自己的HTML](#import-html)，或[選取現有的範本](#choose-a-template) （我們的其中一個範例或您已儲存的範本）。
 
 ![](assets/design-your-template-1.png)
 
@@ -58,7 +58,7 @@ ht-degree: 1%
 
 ### 匯入您的HTML {#import-your-html}
 
-您可以匯入現有的HTML內容來設計您的電子郵件範本。 內容可以是：
+您可以匯入現有的HTML內容，以設計您的電子郵件範本。 內容可以是：
 
 * 包含內建樣式表的HTML檔案
 
@@ -76,13 +76,13 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >上傳HTML內容時，您的內容將處於相容模式。 在此模式中，您只能個人化您的文字、新增連結或新增資產至您的內容。
+   >上傳HTML內容時，您的內容會處於相容模式。 在此模式中，您只能個人化您的文字、新增連結或新增資產至您的內容。
 
-1. 若要利用電子郵件Designer內容元件，請按一下&#x200B;**HTML轉換器**&#x200B;標籤，然後按一下&#x200B;**轉換**。
+1. 若要利用電子郵件Designer內容元件，請按一下&#x200B;**HTML轉換工具**&#x200B;標籤，然後按一下&#x200B;**轉換**。
 
    >[!CAUTION]
    >
-   >使用`<table>`標籤做為HTML檔案中的第一個圖層可能會造成樣式遺失，包括上層圖層標籤中的背景和寬度設定。
+   >在HTML檔案中使用`<table>`標籤做為第一個圖層可能會造成樣式遺失，包括上層圖層標籤中的背景和寬度設定。
 
 您現在可以根據需要使用視覺化電子郵件編輯器個人化匯入的檔案。
 
@@ -160,7 +160,7 @@ ht-degree: 1%
 >
 >如果您希望片段佔據電子郵件內的整個水準版面，請新增1:1欄結構，然後將片段拖放至其中。
 
-儲存電子郵件後，它出現在片段詳細資訊頁面的&#x200B;_[!UICONTROL 使用者]_&#x200B;索引標籤中。 新增到電子郵件範本的片段在範本中無法編輯；來源片段會定義內容。
+儲存電子郵件後，它會顯示在片段詳細資訊頁面的&#x200B;_[!UICONTROL Used By]_標籤中。 新增到電子郵件範本的片段在範本中無法編輯；來源片段會定義內容。
 
 ### 新增資產 {#add-assets}
 
@@ -192,24 +192,24 @@ ht-degree: 1%
 
 1. 直接在畫布中選取結構元件中的欄，或使用左側顯示的&#x200B;_導覽樹狀結構_。
 
-1. 在欄工具列中，按一下&#x200B;_[!UICONTROL 選取欄]_&#x200B;工具，然後選擇您要編輯的工具。
+1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_工具並選擇您要編輯的工具。
 
-   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL 設定]_&#x200B;和&#x200B;_[!UICONTROL 樣式]_&#x200B;索引標籤中。
+   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;索引標籤中。
 
    ![](assets/layers-settings-styles-2.png)
 
-1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL 樣式]_&#x200B;索引標籤，並根據您的需求加以變更：
+1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL Styles]_標籤，並根據您的需求加以變更：
 
-   * 針對&#x200B;**[!UICONTROL 背景]**，視需要變更背景顏色。
+   * 針對&#x200B;**[!UICONTROL Background]**，視需要變更背景顏色。
 
-     清除透明背景的核取方塊。 啟用&#x200B;**[!UICONTROL 背景影像]**&#x200B;設定，以使用影像做為背景，而非純色。
+     清除透明背景的核取方塊。 啟用&#x200B;**[!UICONTROL Background image]**&#x200B;設定以影像作為背景，而非純色。
 
-   * 針對&#x200B;**[!UICONTROL 對齊]**，請選取&#x200B;_上_、_中_&#x200B;或&#x200B;_下_&#x200B;圖示。
-   * 針對&#x200B;**[!UICONTROL 內距]**，定義所有邊的內距。
+   * 針對&#x200B;**[!UICONTROL Alignment]**，選取&#x200B;_Top_、_Middle_&#x200B;或&#x200B;_Bottom_&#x200B;圖示。
+   * 針對&#x200B;**[!UICONTROL Padding]**，定義所有邊的內距。
 
-     如果要調整內距，請選取&#x200B;**[!UICONTROL 每一邊不同的內距]**。 按一下&#x200B;_鎖定_&#x200B;圖示以中斷同步處理。
+     若要調整內距，請選取&#x200B;**[!UICONTROL Different padding for each side]**。 按一下&#x200B;_鎖定_&#x200B;圖示以中斷同步處理。
 
-   * 展開&#x200B;**[!UICONTROL 進階]**&#x200B;區段以定義資料行的內嵌樣式。
+   * 展開&#x200B;**[!UICONTROL Advanced]**&#x200B;區段以定義欄的內嵌樣式。
 
    ![](assets/layers-settings-styles-3.png)
 
@@ -305,7 +305,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 在&#x200B;_電子郵件範本_&#x200B;清單頁面中，按一下電子郵件範本的名稱以檢視其詳細資料。
 
-(assets/view-template-details-1.png
+![](assets/view-template-details-1.png)
 
 可編輯名稱和說明等基本細節。 在您編輯的欄位外按一下，以儲存變更。
 
