@@ -4,10 +4,10 @@ description: 網頁活動報表 — Marketo檔案 — 產品檔案
 title: 網頁活動報表
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 0%
+source-wordcount: '322'
+ht-degree: 1%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 1. 準備好了！ 請檢閱您的報告，以瞭解誰正在造訪您的網站。
 
-   ![](assets/image2017-3-29-9-3a21-3a36.png)
+   ![](assets/web-page-activity-report-1.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -51,7 +51,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td>個人</td> 
-   <td>訪客的名稱、職稱和公司。<br><strong>按一下</strong>以檢視人員詳細資料和活動記錄。</td> 
+   <td>訪客的名稱、職稱和公司。<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">按一下</a></strong>以檢視造訪的頁面。</td>
   </tr> 
   <tr> 
    <td>首次/上次造訪（時區）</td> 
@@ -59,7 +59,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>頁面檢視</td> 
-   <td>此訪客載入的頁數。<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">按一下</a></strong>以檢視造訪過的頁面。</td> 
+   <td>此訪客載入的頁數。</td>
   </tr> 
   <tr> 
    <td>HTTP查閱者</td> 
