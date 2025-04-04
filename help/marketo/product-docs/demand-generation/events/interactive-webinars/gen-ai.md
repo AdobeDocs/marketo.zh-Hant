@@ -5,7 +5,7 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 374226d3b12cdffe1d0f2e04a1cb00d2f3135d22
+source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 在您接受Adobe GenAI條款與條件後，下一步就是為個別使用者啟用它。 方法是前往「**[!UICONTROL Admin]** > **[!UICONTROL Interactive Webinars]**」並選取哪些使用者應該可以存取GenAI。
 
-![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
 
 ## 如何存取 {#how-to-access}
 
