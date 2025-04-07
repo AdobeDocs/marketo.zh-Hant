@@ -6,10 +6,8 @@ description: 使用下表來比較先前電子郵件編輯器（電子郵件編�
 feature: Email Editor
 role: User
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 659fca6a02251b35fc8443d235b831a383a43d35
+source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 9%
@@ -32,7 +30,7 @@ ht-degree: 9%
 <tbody>
   <tr>
     <td>OOTB入門電子郵件範本</td>
-    <td>能夠使用電子郵件Designer提供的OOTB範本。</td>
+    <td>能夠使用電子郵件Designer提供的現成範本。</td>
     <td>可用</td>
     <td>可用</td>
   </tr>
@@ -98,7 +96,7 @@ ht-degree: 9%
   </tr>
   <tr>
     <td>AI 助理</td>
-    <td>能夠透過Generative AI模型產生主旨行、部分內容或整個電子郵件。</td>
+    <td>能夠透過<a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md">Generative AI</a>模型產生主旨列、部分內容或整個電子郵件。</td>
     <td>不可用</td>
     <td>可用</td>
   </tr>
@@ -110,7 +108,7 @@ ht-degree: 9%
   </tr>
   <tr>
     <td>內容鎖定</td>
-    <td>可鎖定電子郵件範本中的內容，以便在建立電子郵件時無法修改內容。</td>
+    <td>能夠<a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md">鎖定電子郵件範本中的內容</a>，以便在建立電子郵件時無法修改內容。</td>
     <td>不可用</td>
     <td>可用</td>
   </tr>
@@ -164,7 +162,7 @@ ht-degree: 9%
   </tr>
   <tr>
     <td>與 Adobe Analytics 的整合</td>
-    <td>能夠使用Adobe Express建立/修改影像。</td>
+    <td>能夠使用<a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md">Adobe Express</a>建立/修改影像。</td>
     <td>不可用</td>
     <td>可用</td>
   </tr>
@@ -178,7 +176,7 @@ ht-degree: 9%
     <td>模組</td>
     <td>能夠預先建立要在電子郵件中重複使用的特定結構和內容預設集。</td>
     <td>可用</td>
-    <td>可用作可自訂的片段</td>
+    <td>可用作<a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md">可自訂的片段</a></td>
   </tr>
   <tr>
     <td>AEM Assets Cloud Service整合</td>
@@ -241,6 +239,18 @@ ht-degree: 9%
     <td>即將推出</td>
   </tr>
   <tr>
+    <td>Velocity指令碼</td>
+    <td>能夠在電子郵件中使用Velocity指令碼。</td>
+    <td>可用</td>
+    <td>不需要</td>
+  </tr>
+   <tr>
+    <td>Handlebar指令碼</td>
+    <td>能夠在電子郵件中使用Handlebar指令碼。</td>
+    <td>不可用</td>
+    <td>計畫於2025年第3季度推出</td>
+  </tr>
+  <tr>
     <td>Litmus整合</td>
     <td>能夠與Litmus整合，以檢視您的電子郵件在不同電子郵件使用者端中的呈現方式。</td>
     <td>不可用</td>
@@ -255,12 +265,6 @@ ht-degree: 9%
   <tr>
     <td>Spam Assassin整合</td>
     <td>能夠在傳遞前偵測標籤為垃圾郵件的潛在電子郵件。</td>
-    <td>不可用</td>
-    <td>計畫於2025年第3季度推出</td>
-  </tr>
-  <tr>
-    <td>Handlebar指令碼</td>
-    <td>能夠在電子郵件中使用Handlebar指令碼。</td>
     <td>不可用</td>
     <td>計畫於2025年第3季度推出</td>
   </tr>
@@ -300,10 +304,5 @@ ht-degree: 9%
     <td>可用</td>
     <td>不可用</td>
   </tr>
-  <tr>
-    <td>Velocity指令碼</td>
-    <td>能夠在電子郵件中使用Velocity指令碼。</td>
-    <td>可用</td>
-    <td>不需要</td>
-  </tr>
 </tbody></table>
+
