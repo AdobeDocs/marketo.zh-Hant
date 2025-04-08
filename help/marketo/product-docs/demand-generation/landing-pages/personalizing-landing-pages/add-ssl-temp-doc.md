@@ -4,9 +4,9 @@ title: 新增SSL至您的登入頁面
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -41,8 +41,8 @@ ht-degree: 0%
 
 熒幕擷圖
 
-注意：
-
-清單中的「SSL憑證」欄會顯示在此功能發行後建立的所有網域別名的SSL憑證狀態。 如果您已透過支援為網域啟用SSL，則個別的SSL憑證將繼續存在，但此表格僅反映使用此功能新增之網域的SSL憑證
-
-SSL處於就緒狀態最多可能需要3分鐘，而且必須重新整理頁面，變更才會傳播到UI。
+>[!NOTE]
+>
+>* 清單中的「SSL憑證」欄會顯示在此功能發行後建立的所有網域別名的憑證狀態(DATE)。 如果您透過Marketo支援為網域啟用SSL，憑證將繼續存在，但不會顯示在表格中。 此表格僅反映使用本文中步驟新增之網域的SSL憑證。
+>
+>* SSL可能最多需要三分鐘的時間才會進入「就緒」狀態。 您必須重新整理頁面，變更才會顯示。

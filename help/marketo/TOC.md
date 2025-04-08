@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '9429'
+source-wordcount: '9433'
 ht-degree: 1%
 
 ---
@@ -20,12 +20,12 @@ ht-degree: 1%
       + [設定步驟](getting-started/initial-setup/setup-steps.md)
       + [設定通訊協定](getting-started/initial-setup/configure-protocols-for-marketo.md)
       + [使用者設定](getting-started/initial-setup/user-setup.md)
-   + 實作 新 Marketo Engage 實例 {#implementing-a-new-marketo-engage-instance}
-      + [開始](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [新例項最佳實務：管理區域檢查清單](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [新實例最佳實踐：資料庫清單](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [新例項最佳實務：Design Studio 檢查清單](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [新例項最佳實務：營銷活動檢查清單](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+   + 實作新的Marketo Engage執行個體{#implementing-a-new-marketo-engage-instance}
+      + [從何處開始](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
+      + [新執行個體最佳實務：管理員區段檢查清單](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [新執行個體最佳實務：資料庫檢查清單](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [新執行個體最佳實務：Design Studio檢查清單](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [新執行個體最佳實務：行銷活動檢查清單](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [新執行個體最佳實務：Analytics檢查清單](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [新執行個體最佳實務：記錄您的設定](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 須知{#things-to-know}
@@ -251,9 +251,9 @@ ht-degree: 1%
          + [刪除Workspace](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
          + [編輯Workspace](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
          + [編輯現有的人員資料分割](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
-         + [在Workspaces和分區之間共用分段](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
-   + Adobe Experience Cloud 整合 {#adobe-experience-cloud-integrations}
-      + [Adobe Experience Cloud整合概述](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
+         + [在工作區與分割區之間共用區段](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
+   + Adobe Experience Cloud整合{#adobe-experience-cloud-integrations}
+      + [Adobe Experience Cloud整合總覽](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
       + [設定Adobe組織對應](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [從Adobe Experience Cloud同步對象](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [使用Adobe Experience Manager匯入Assets](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
@@ -647,17 +647,17 @@ ht-degree: 1%
             + [個人帳戶同步常見問題集](product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md)
             + [同步呼叫和呼叫重要訊息](product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md)
          + Veeva CRM流程動作{#veeva-crm-flow-actions}
-            + [Veeva建立任務](product-docs/crm-sync/veeva-crm-sync/veeva-crm-flow-actions/create-task-in-veeva.md)
-   + 需求開發 {#demand-generation}
-      + 廣告網路整合 {#ad-network-integrations}
+            + [在Veeva中建立任務](product-docs/crm-sync/veeva-crm-sync/veeva-crm-flow-actions/create-task-in-veeva.md)
+   + 需求產生{#demand-generation}
+      + 廣告網路整合{#ad-network-integrations}
          + [瞭解廣告網路整合](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [將Facebook自訂對象新增為LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
          + [將Google Customer Match新增為LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
-         + [新增LinkedIn的Audiences為 LaunchPoint 服務](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+         + [將LinkedIn相符的對象新增為LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [傳送清單至廣告網路](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
          + [傳送清單至Google](product-docs/demand-generation/ad-network-integrations/send-a-list-to-google.md)
-      + 動態聊天 {#dynamic-chat}
-         + [動態聊天概述](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+      + Dynamic Chat {#dynamic-chat}
+         + [Dynamic Chat概觀](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [聊天機器人行為](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [會議清單](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat活動](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
@@ -675,28 +675,28 @@ ht-degree: 1%
             + [回呼函式](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
             + [使用量限制](product-docs/demand-generation/dynamic-chat/setup-and-configuration/usage-limits.md)
          + 自動聊天{#automated-chat}
-            + [會話流量概述](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
-            + [建立會話流量](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
-            + [適用於Marketo Engage Forms的會話流量設定](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
-            + [對話概述](product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md)
+            + [對話流程概觀](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
+            + [建立對話流程](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
+            + [Marketo Engage Forms的對話流量設定](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
+            + [對話方塊概述](product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md)
             + [建立對話方塊](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md)
             + [對象條件](product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md)
             + [流程設計工具](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md)
-         + 集成 {#integrations}
+         + 整合{#integrations}
             + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md)
             + [Adobe PDF 嵌入式 API](product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md)
             + [Demandbase](product-docs/demand-generation/dynamic-chat/integrations/demandbase.md)
-         + 即時聊天 {#live-chat}
-            + [即時聊天概述](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
+         + 即時交談{#live-chat}
+            + [即時聊天總覽](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [專員收件匣](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
             + [通知](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
-         + 生成式 AI {#generative-ai}
+         + Generative AI {#generative-ai}
             + [Generative AI概述](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)
             + [問題產生](product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)
             + [回應程式庫](product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)
             + [活動記錄](product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md)
             + [未回答的問題](product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md)
-      + 事件 {#events}
+      + 事件{#events}
          + 瞭解事件{#understanding-events}
             + [將成員新增至事件程式](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
             + [建立新的事件程式](product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
@@ -964,6 +964,7 @@ ht-degree: 1%
             + [將程式碼片段新增至登陸頁面](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
             + [新增其他登陸頁面CNAME](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
             + [新增SSL至您的登入頁面](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md)
+            + [新增SSL臨時檔案](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-temp-doc.md)
             + [新增文字和權杖至登陸頁面](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
             + [為登陸頁面啟用個人化URL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
             + [為您的帳戶啟用個人化URL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
@@ -1071,16 +1072,16 @@ ht-degree: 1%
          + [使用AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
          + [使用 Adobe Express 編輯影像](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [片段](product-docs/email-marketing/email-designer/fragments.md)
-         + [可自定義片段](product-docs/email-marketing/email-designer/customizable-fragments.md)
+         + [可自訂的片段](product-docs/email-marketing/email-designer/customizable-fragments.md)
          + [內容鎖定](product-docs/email-marketing/email-designer/content-locking.md)
          + [AI 助理](product-docs/email-marketing/email-designer/ai-assistant.md)
       + 電子郵件程式{#email-programs}
          + 正在建立電子郵件程式{#creating-an-email-program}
             + [建立電子郵件程式](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
             + [瞭解電子郵件程式](product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)
-         + 電子郵件程序動作 {#email-program-actions}
+         + 電子郵件程式動作{#email-program-actions}
             + [中止電子郵件程式](product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
-            + [批准/取消批准電子郵件程式](product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
+            + [核准/取消核准電子郵件方案](product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
             + [選擇現有電子郵件](product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
             + [為電子郵件計畫建立電子郵件](product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
             + 電子郵件測試 — A/B測試{#email-test-a-b-test}
@@ -1109,12 +1110,12 @@ ht-degree: 1%
             + [使用電子郵件程式控制面板](product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
             + [檢視電子郵件程式結果](product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md)
             + [檢視電子郵件計畫控制面板](product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md)
-         + 在電子郵件程式中管理人員 {#managing-people-in-email-programs}
-            + [透過匯入清單來定義物件](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-            + [使用智慧清單定義物件](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+         + 管理電子郵件程式{#managing-people-in-email-programs}中的人員
+            + [透過匯入清單來定義對象](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+            + [使用智慧清單定義對象](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
             + [匯入非拉丁字元清單](product-docs/email-marketing/email-programs/managing-people-in-email-programs/import-a-non-latin-characters-list.md)
-      + 常規 {#general}
-         + 瞭解電子郵件編輯器 {#understanding-the-email-editor}
+      + 一般{#general}
+         + 瞭解電子郵件編輯器{#understanding-the-email-editor}
             + [瞭解電子郵件事件記錄](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [使用RTF編輯器](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
          + Beta新電子郵件Designer {#beta-new-email-designer}
@@ -1340,22 +1341,22 @@ ht-degree: 1%
          + [Sales Connect與GDPR法規遵循](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + 管理連絡人{#managing-contacts}
             + [對人員的大量動作](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
-            + [創建和刪除連絡人](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
-            + [群組類型](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
+            + [建立和刪除連絡人](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
+            + [群組型別](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Sales Connect如何處理電子郵件重複資料刪除](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
-            + [透過CSV匯入聯繫人](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
+            + [透過CSV匯入連絡人](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [管理群組](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [人員頁面欄](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
       + 電話{#phone}
-         + [呼叫未記錄至 Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
+         + [呼叫未記錄到Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
          + [呼叫結果](product-docs/marketo-sales-connect/phone/call-outcomes.md)
-         + [呼叫原因](product-docs/marketo-sales-connect/phone/call-reasons.md)
+         + [來電原因](product-docs/marketo-sales-connect/phone/call-reasons.md)
          + [未記錄至活動歷史記錄](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
-         + [未登入 Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
-         + [啟用通話錄音](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
-         + [將呼叫原因和呼叫結果記錄到 Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
-         + [銷售電話 國際長途電話](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
-         + [銷售電話 本地存在](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
+         + [未登入Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
+         + [啟用通話錄製](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
+         + [將來電原因與來電結果記錄到Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+         + [銷售電話國際通話](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
+         + [銷售電話當地狀態](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
          + [銷售電話概觀](product-docs/marketo-sales-connect/phone/sales-phone-overview.md)
          + [與您的團隊共用通話錄製](product-docs/marketo-sales-connect/phone/share-call-recordings-with-your-team.md)
          + [雙方同意設定](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
@@ -1587,17 +1588,17 @@ ht-degree: 1%
                + [在Sales Insight中選擇動作](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [在Marketo Sales Insight中設定取消訂閱頁尾](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [鎖定銷售範本](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
-               + [Publish電子郵件給銷售Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+               + [發佈電子郵件至Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [傳送測試電子郵件](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
-            + 語言支持 {#language-support}
+            + 語言支援{#language-support}
                + [準備Sales Insight以獲得Salesforce中的多語言支援](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
-            + Marketo 標籤 {#marketo-tab}
-               + [最佳出價](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
-               + [使用銷售機會饋送](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
-            + MSI 設定選項卡 {#msi-configuration-tab}
-               + [為銷售Insight啟用 RSS](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
-            + 效能報表 {#performance-reports}
-               + [銷售Insight電子郵件績效報表](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
+            + Marketo索引標籤{#marketo-tab}
+               + [首選](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
+               + [使用潛在客戶摘要](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
+            + MSI組態標籤{#msi-configuration-tab}
+               + [啟用Sales Insight的RSS](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
+            + 效能報告{#performance-reports}
+               + [銷售分析電子郵件績效報表](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
             + 星星和火焰{#stars-and-flames}
                + [自訂星星和火焰](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
                + [優先順序、急迫性、相對分數和首選](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
@@ -1728,24 +1729,24 @@ ht-degree: 1%
       + [報表概觀](product-docs/reporting/reporting-overview.md)
       + 基本報告{#basic-reporting}
          + 正在建立報告{#creating-reports}
-            + [建立程式中的報表](product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)
+            + [在方案中建立報告](product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)
             + [瀏覽Analytics首頁](product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)
             + [重新整理報告](product-docs/reporting/basic-reporting/creating-reports/refresh-a-report.md)
             + [儲存報表](product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
             + [瞭解我的報表和群組報表](product-docs/reporting/basic-reporting/creating-reports/understanding-my-reports-and-group-reports.md)
          + 編輯報告{#editing-reports}
             + [新增自訂欄至個人報表](product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
-            + [向潛在顧客報表添加機會列](product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md)
+            + [新增商機欄位至銷售機會報表](product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md)
             + [變更報表時間範圍](product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)
             + [設定報表大小](product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)
             + [使用智慧清單篩選報表中的人員](product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
             + [重新排序報表欄](product-docs/reporting/basic-reporting/editing-reports/reorder-report-columns.md)
             + [選取報表欄](product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
-            + [依欄排序報表](product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
-         + 報表活動 {#report-activity}
-            + [利用行動Platform欄建立人員績效報告](product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md)
-            + [變更報表電子郵件中 URL 的到期時間](product-docs/reporting/basic-reporting/report-activity/change-the-expiration-time-for-urls-in-report-emails.md)
-            + [原地複製報表以將報表分組](product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
+            + [對報表進行欄排序](product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
+         + 報告活動{#report-activity}
+            + [使用行動平台欄建立人員績效報表](product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md)
+            + [變更報告電子郵件中URL的到期時間](product-docs/reporting/basic-reporting/report-activity/change-the-expiration-time-for-urls-in-report-emails.md)
+            + [將報表複製到群組報表](product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
             + [複製報告](product-docs/reporting/basic-reporting/report-activity/clone-a-report.md)
             + [刪除報告](product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)
             + [在網頁報表中顯示人員或匿名訪客](product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
@@ -1763,28 +1764,28 @@ ht-degree: 1%
             + [編輯智慧清單訂閱](product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
             + [管理報表訂閱](product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)
             + [保護訂閱管理設定](product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
-            + [訂閱至基本報表](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
-            + [訂閱至智能列表](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
+            + [訂閱基本報表](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+            + [訂閱智慧清單](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + 報表類型 {#report-types}
-            + [Campaign活動報表](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
+            + [行銷活動報表](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [行銷活動電子郵件效能報表](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [公司網站活動報表](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [依狀態顯示人員報表](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [人員績效報表](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
-            + [報表類型概述](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
-            + [網站頁面活動報表](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
-            + [檢視的網頁、網頁頁面活動報表](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
-      + 電子郵件Insights {#email-insights}
-         + [電子郵件Insights概述](product-docs/reporting/email-insights/email-insights-overview.md)
-         + [電子郵件Insights的自定義維度](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
-         + [電子郵件Insights Analytics概述](product-docs/reporting/email-insights/email-insights-analytics-overview.md)
-         + [電子郵件Insights常見問題](product-docs/reporting/email-insights/email-insights-faq.md)
+            + [報表型別概觀](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
+            + [網頁活動報表](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
+            + [已檢視的網頁、網頁活動報表](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
+      + 電子郵件深入分析{#email-insights}
+         + [電子郵件深入分析概觀](product-docs/reporting/email-insights/email-insights-overview.md)
+         + [電子郵件深入分析的自訂維度](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
+         + [電子郵件分析Analytics概觀](product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+         + [電子郵件深入分析常見問題集](product-docs/reporting/email-insights/email-insights-faq.md)
          + [電子郵件深入分析快速圖表](product-docs/reporting/email-insights/email-insights-quick-charts.md)
          + [電子郵件深入分析傳送概覽](product-docs/reporting/email-insights/email-insights-sends-overview.md)
          + [在電子郵件深入分析中篩選](product-docs/reporting/email-insights/filtering-in-email-insights.md)
       + 效能分析{#performance-insights}
-         + [效能Insights概述](product-docs/reporting/performance-insights/performance-insights-overview.md)
-         + [在性能Insights中進行篩選](product-docs/reporting/performance-insights/filtering-in-performance-insights.md)
+         + [效能分析概觀](product-docs/reporting/performance-insights/performance-insights-overview.md)
+         + [在效能深入分析中進行篩選](product-docs/reporting/performance-insights/filtering-in-performance-insights.md)
          + [績效分析貢獻概述](product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)
          + [效能分析控制面板](product-docs/reporting/performance-insights/performance-insights-dashboards.md)
          + [效能深入分析常見問題集](product-docs/reporting/performance-insights/performance-insights-faq.md)
@@ -2005,22 +2006,22 @@ ht-degree: 1%
          + [發行說明： 2023年3月](release-notes/previous-releases/2023/release-notes-mar-23.md)
          + [發行說明： 2023年5月](release-notes/previous-releases/2023/release-notes-may-23.md)
          + [發行說明： 2023年7月](release-notes/previous-releases/2023/release-notes-july-23.md)
-         + [發行說明： 九月 &#39;23](release-notes/previous-releases/2023/release-notes-sep-23.md)
-         + [發行說明： 十月 &#39;23](release-notes/previous-releases/2023/release-notes-oct-23.md)
+         + [發行說明： 2023年9月](release-notes/previous-releases/2023/release-notes-sep-23.md)
+         + [發行說明： 2023年10月](release-notes/previous-releases/2023/release-notes-oct-23.md)
       + 2022 年{#2022}
          + [發行說明： 2022年1月](release-notes/previous-releases/2022/release-notes-jan-22.md)
          + [發行說明： 2022年3月](release-notes/previous-releases/2022/release-notes-mar-22.md)
-         + [發行說明：22年 5 月](release-notes/previous-releases/2022/release-notes-may-22.md)
-         + [發行說明： 六月 &#39;22](release-notes/previous-releases/2022/release-notes-june-22.md)
-         + [發行說明：22 年 8 月](release-notes/previous-releases/2022/release-notes-aug-22.md)
-         + [發行說明： 22 年 10 月](release-notes/previous-releases/2022/release-notes-oct-22.md)
+         + [發行說明： 2022年5月](release-notes/previous-releases/2022/release-notes-may-22.md)
+         + [發行說明： 2022年6月](release-notes/previous-releases/2022/release-notes-june-22.md)
+         + [發行說明： 2022年8月](release-notes/previous-releases/2022/release-notes-aug-22.md)
+         + [發行說明： 2022年10月](release-notes/previous-releases/2022/release-notes-oct-22.md)
       + 2021 年 {#2021}
-         + [發行說明：21年1月](release-notes/previous-releases/2021/release-notes-jan-21.md)
-         + [發行說明： 五月 &#39;21](release-notes/previous-releases/2021/release-notes-may-21.md)
-         + [發行說明：21年8月](release-notes/previous-releases/2021/release-notes-aug-21.md)
-         + [發行說明： 21 年 10 月](release-notes/previous-releases/2021/release-notes-oct-21.md)
+         + [發行說明： 2021年1月](release-notes/previous-releases/2021/release-notes-jan-21.md)
+         + [發行說明： 2021年5月](release-notes/previous-releases/2021/release-notes-may-21.md)
+         + [發行說明： 2021年8月](release-notes/previous-releases/2021/release-notes-aug-21.md)
+         + [發行說明： 2021年10月](release-notes/previous-releases/2021/release-notes-oct-21.md)
       + 2020 年 {#2020}
-         + [發行說明： 20 年 1 月](release-notes/previous-releases/2020/release-notes-jan-20.md)
+         + [發行說明： 2020年1月](release-notes/previous-releases/2020/release-notes-jan-20.md)
          + [發行說明： 2020年2月](release-notes/previous-releases/2020/release-notes-feb-20.md)
          + [發行說明： 2020年6月](release-notes/previous-releases/2020/release-notes-june-20.md)
          + [發行說明： 2020年7月](release-notes/previous-releases/2020/release-notes-july-20.md)
