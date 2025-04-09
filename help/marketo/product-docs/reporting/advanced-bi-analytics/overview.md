@@ -1,13 +1,11 @@
 ---
 description: 進階BI Analytics概觀 — Marketo檔案 — 產品檔案
 title: 進階BI Analytics概觀
-hide: true
-hidefromtoc: true
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: c123899d8f2ef47cee542d244a6655c6d86e181e
+source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
 workflow-type: tm+mt
-source-wordcount: '969'
+source-wordcount: '989'
 ht-degree: 0%
 
 ---
@@ -21,6 +19,10 @@ Advanced BI Analytics (先前稱為Revenue Explorer和Advanced Report Builder)�
 >[!PREREQUISITES]
 >
 >若要存取此功能，您必須已購買進階BI Analytics附加元件。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+
+>[!NOTE]
+>
+>如果您對此功能在測試版（至2025年6月1日）有任何疑問，請傳送電子郵件至： `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com`。
 
 ## 主要功能與優點 {#key-features-and-benefits}
 
@@ -36,29 +38,29 @@ Advanced BI Analytics (先前稱為Revenue Explorer和Advanced Report Builder)�
 
 ## 建立報告 {#create-a-report}
 
-1. 在「我的Marketo」中，按一下&#x200B;**進階BI Analytics (Beta)**&#x200B;圖磚。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Advanced BI Analytics (Beta)]**」圖磚。
 
-   熒幕擷圖
+   ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
-1. 在&#x200B;**報表**&#x200B;索引標籤中，按一下&#x200B;**建立報表**。
+1. 在&#x200B;**[!UICONTROL Reports]**&#x200B;索引標籤中，按一下&#x200B;**[!UICONTROL Create Report]**。
 
-   熒幕擷圖
+   ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}
 
 1. 選取所需的量值。
 
-   熒幕擷圖
+   ![](assets/advanced-bi-analytics-overview-3.png){width="800" zoomable="yes"}
 
 1. 選取所需的尺寸。
 
-   熒幕擷圖
+   ![](assets/advanced-bi-analytics-overview-4.png){width="800" zoomable="yes"}
 
 1. 選擇您偏好的視覺效果。
 
-   熒幕擷圖
+   ![](assets/advanced-bi-analytics-overview-5.png){width="800" zoomable="yes"}
 
 1. 拖放維度屬性以新增篩選器。
 
-   熒幕擷圖
+   ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
 
 ## 影片示範 {#video}
 
@@ -184,7 +186,7 @@ _在公開測試期間：_
 
   >[!IMPORTANT]
   >
-  >自訂報表的復寫將在同類群組中執行。 將您的自訂報告複製到新體驗後，為確保兩個體驗之間的一致性，在傳統體驗中所做的任何變更也將需要手動套用至新體驗中的對應報告。 復寫客戶報表時，上述資訊備註會在經典體驗中醒目提示。
+  >自訂報表的復寫作業將會以群組方式執行。 將您的自訂報告複製到新體驗後，為確保兩個體驗之間的一致性，在傳統體驗中所做的任何變更也將需要手動套用至新體驗中的對應報告。 復寫客戶報表時，上述資訊備註會在經典體驗中醒目提示。
 
    * 傳統體驗中的儀表板無法傳輸，因此必須在新體驗中重新建立。 它們應該重新建立為新體驗中的報表，而新體驗中的篩選器會自動提取可能的值，而不是要求您在傳統體驗中個別手動輸入所有可能的值。
 
@@ -200,7 +202,7 @@ _在公開測試期間：_
 
 新的視覺效果體驗是透過內嵌Power BI服務提供。
 
-如需視覺效果體驗的快速教學課程，請造訪Microsoft的[在Power BI中使用視覺效果](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"}檔案。
+如需視覺效果體驗的快速教學課程，請造訪Microsoft的[在Power BI中使用視覺效果](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"}檔案。 請注意，您可能不會在Marketo Engage中看到所有這些功能。
 
 ### 重大體驗變更 {#notable-experience-changes}
 
@@ -226,5 +228,4 @@ _在公開測試期間：_
 
 >[!MORELIKETHIS]
 >
->[度量和維度](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
-
+>[度量和維度](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
