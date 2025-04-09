@@ -1,77 +1,77 @@
 ---
 unique-page-id: 2359644
-description: 顯示已知人員的自訂HTML表單 — Marketo檔案 — 產品檔案
+description: Show Custom HTML Form for Known People - Marketo Docs - Product Documentation
 title: 顯示已知人員的自訂HTML表單
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 55964499f5d49258539492f952513833af5692b5
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 0%
+source-wordcount: '254'
+ht-degree: 1%
 
 ---
 
 # 顯示已知人員的自訂HTML表單 {#show-custom-html-form-for-known-people}
 
-如果訪客已編碼（過去提供電子郵件地址的已知人員），為何還要麻煩使用表格？ 只要給他們下載按鈕即可。 方法如下。
+If a visitor has provided their full name and email address in the past, and you don&#39;t want them to get the whole form, learn how to show them some custom HTML (e.g., just a download button).
 
-1. 移至&#x200B;**行銷活動**。
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. 在&#x200B;**行銷活動**&#x200B;下，選取您的表單並按一下&#x200B;**編輯表單**。
+1. Under **Marketing Activities**, select your form and click **Edit Form**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. 在&#x200B;**表單設定**&#x200B;下，按一下&#x200B;**設定**。
+1. Under **Form Settings**, click on **Settings**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. 設定&#x200B;**已知訪客，顯示**：為&#x200B;**自訂HTML**。
+1. Set If **Known Visitor, Show**: to **Custom HTML**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. 按一下![—](assets/image2014-9-25-14-3a1-3a26.png)以編輯將顯示給已知人員的&#x200B;**自訂HTML**。
+1. Click the ![--](assets/image2014-9-25-14-3a1-3a26.png) to edit the **Custom HTML** that will be shown to known people.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
-1. 雖然有部分預設內容，但您可以隨時變更內容。
+1. There&#39;s some default content, but feel free to change it up.
 
    ![](assets/image2014-9-15-12-3a25-3a49.png)
 
-   可用Token：
+   Available tokens:
 
    | Token | 說明 |
    |---|---|
-   | `{{lead.FirstName}}` | 這會顯示使用者的名字。 |
-   | `{{lead.LastName}}` | 這會顯示人員的姓氏。 |
-   | `{{form.Button:default=Download}}` | 這會顯示表單按鈕。 取代`=`之後的區域以變更按鈕文字。 |
-   | `{{form.NotYou:default=Not you?}}` | 若此人是其他人，此畫面會顯示連結。 取代`=`之後的區域以變更連結文字。 |
+   | `{{lead.FirstName}}` | This will display the person&#39;s first name. |
+   | `{{lead.LastName}}` | This will display the person&#39;s last name. |
+   | `{{form.Button:default=Download}}` | 這會顯示表單按鈕。 Replace the area after the `=` to change the button text. |
+   | `{{form.NotYou:default=Not you?}}` | This will display a link in case the person is someone else. Replace the area after the `=` to change the link text. |
 
    >[!CAUTION]
    >
-   >上述四個代號只能使用。 此處無法使用任何其他權杖。
+   >Only the four tokens above can be used. Any other token will not work here.
 
 1. 按一下&#x200B;**完成**。
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. 按一下&#x200B;**核准並關閉**。
+1. Click **Approve and Close**.
 
    >[!NOTE]
    >
-   >此表單必須經過核准才能用於登入頁面。
+   >The form must be approved to be used on landing pages.
 
    ![](assets/image2014-9-15-12-3a27-3a53.png)
 
    >[!NOTE]
    >
-   >記得要[核准表單變更所建立的登入頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
+   >Remember to [approve the landing page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) created by the form changes.
 
-   小菜一碟！ 檢視某人返回相同表單時會看到什麼內容：
+   Piece of cake! Check out what a person would see if they came back to the same form:
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
    >[!TIP]
    >
-   >您可以將表單後續追蹤頁面設定為檔案的URL，將按鈕的點選導向資產。
+   >You can direct the click of the button to the asset by setting the form follow-up page to the file&#39;s URL.
