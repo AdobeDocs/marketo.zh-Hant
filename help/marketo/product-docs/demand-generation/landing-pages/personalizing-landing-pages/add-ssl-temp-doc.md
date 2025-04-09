@@ -4,16 +4,21 @@ title: 新增SSL至您的登入頁面
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
+exl-id: 00ec2d91-3d4f-4671-af9d-9750c1642d40
+source-git-commit: 1112af01c08835876f4a2385f304a33e2ddd48ff
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
 # 新增SSL至您的登入頁面 {#add-ssl-to-your-landing-pages}
 
-瞭解如何將品牌網域的別名（例如， `http://business.adobe.com`）新增到Marketo Engage中建立的登入頁面，以便在其品牌網域下存取這些頁面。
+SSL （安全通訊端層）加密可讓您保護Marketo Engage執行個體所有登陸頁面的安全。
+
+填寫網頁表單或造訪Marketo Engage託管的登陸頁面時，系統會依預設透過非安全通訊協定(HTTP)傳送資訊。 根據貴公司的原則，您可能想要保護透過(HTTPS)提交給Marketo的資訊。 例如，當您造訪`http://info.mydomain.com/`時，它將是`https://info.mydomain.com/`。
+
+根據預設，Marketo Engage會透過不安全的HTTP通訊協定，追蹤「造訪的網頁」和「點按網頁上的連結」。 如果您想要使用自己的憑證來保護您的追蹤連結，您需要讓Marketo建置單獨的非共用伺服器來啟用它。 為了確保連絡人與您互動的各個層面安全，通常需要同時保護登陸頁面和追蹤連結。
 
 熒幕擷圖
 
@@ -37,7 +42,7 @@ ht-degree: 0%
 
 熒幕擷圖
 
-## 為您的預設網域啟用SSL
+## 為您的預設網域啟用SSL {#enable-ssl-default-domain}
 
 熒幕擷圖
 
