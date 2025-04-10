@@ -4,10 +4,10 @@ description: 自訂活動同步 — Marketo檔案 — 產品檔案
 title: 自訂活動同步
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 2%
 
 ---
 
@@ -15,15 +15,19 @@ ht-degree: 0%
 
 如果您沒有使用Marketo Sales Insight，Marketo Engage可以為某些事件建立Salesforce活動歷程記錄。 以下說明啟用方法。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**。
+>[!NOTE]
+>
+>Salesforce/Marketo Engage同步不會將任何人推送至Salesforce前發生的任何活動推送至Salesforce。
 
-   ![](assets/admin.png)
+1. 移至&#x200B;**[!UICONTROL Admin]**。
 
-1. 按一下&#x200B;**[!DNL Salesforce]**，然後按一下&#x200B;**[!UICONTROL 編輯同步選項]**。
+   ![](assets/customize-activities-sync-1.png)
+
+1. 按一下「**[!DNL Salesforce]**」，然後按一下「**[!UICONTROL Edit Sync Options]**」。
 
    ![](assets/two-1.png)
 
-1. 勾選您要Marketo推送至Salesforce之活動旁的方塊，然後按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 勾選您要Marketo推送至Salesforce的活動旁的方塊，然後按一下「**[!UICONTROL Save]**」。
 
    ![](assets/three-1.png)
 
@@ -44,7 +48,7 @@ ht-degree: 0%
  </thead> 
  <tbody> 
   <tr> 
-   <td>已填寫的表單</td> 
+   <td>已填寫表單</td> 
    <td>填寫任何Marketo表單</td> 
   </tr> 
   <tr> 
@@ -77,11 +81,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>已傳送銷售電子郵件</td> 
-   <td>已透過Marketo銷售分析傳送電子郵件</td> 
+   <td>已透過Marketo Sales Insight傳送電子郵件</td> 
   </tr> 
   <tr> 
    <td>已開啟銷售電子郵件</td> 
-   <td>開啟透過Marketo Sales Insight傳送的電子郵件</td> 
+   <td>已開啟透過Marketo Sales Insight傳送的電子郵件</td> 
   </tr> 
   <tr> 
    <td>按一下銷售電子郵件中的連結</td> 
@@ -100,4 +104,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您有興趣在Salesforce中取得更多Marketo資訊，請參閱我們的[Marketo銷售分析](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}產品。
+>如果您有興趣在Salesforce中取得更多Marketo資訊，請參閱我們的[Marketo銷售Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}產品。
