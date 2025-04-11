@@ -1,16 +1,753 @@
 ---
-description: 量度和維度 — Marketo檔案 — 產品檔案
+description: 度量與維度 - Marketo 檔 - 產品檔
 title: 度量和維度
-hide: true
-hidefromtoc: true
 feature: Reporting
-source-git-commit: 4f1a226791ac1db1e4c03da28d7601de18931a31
+exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
+source-git-commit: 90242f8b08b0c4773ae73134d67f571f66730878
 workflow-type: tm+mt
-source-wordcount: '15'
-ht-degree: 13%
+source-wordcount: '1040'
+ht-degree: 5%
 
 ---
 
 # 度量和維度 {#metrics-and-dimensions}
 
-即將推出
+以下是收入週期分析報表可用的所有量度和維度。
+
+>[!TIP]
+>
+>如果任何表格看起來太窄，您可以通過按兩下此頁面頂部的向左 （![](assets/icon-left-arrow.png)） 和向右 （![](assets/icon-right-arrow.png)） 箭頭來展開視圖，同時摺疊左側和右側邊欄。
+
+## 維度和測量 {#dimensions-and-measures}
+
+<table>
+ <tbody>
+    <tr>
+      <th>分析報告</th>
+      <th colspan="3" scope="colgroup">維度</th>
+      <th>測量(M)</th>
+    </tr>
+    <tr>
+      <th> </th>
+      <th>時間範圍</th>
+      <th>屬性</th>
+      <th>自訂屬性</th>
+      <th> </th>
+    </tr>
+    <tr>
+      <td>電子郵件分析</td>
+      <td>
+        <ul>
+          <li>季度時間範圍</li>
+          <li>月份時間範圍</li>
+          <li>週時間範圍</li>
+          <li>日期時間範圍</li>
+          <li>星期</li>
+          <li>小時</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>電子郵件屬性</li>
+          <li>潛在客戶屬性</li>
+          <li>公司屬性</li>
+          <li>計畫屬性</li>
+          <li>ABM帳戶屬性</li>
+          <li>計畫標籤</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>自訂公司屬性</li>
+          <li>自訂銷售機會屬性</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>度量 （M）</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>銷售機會分析</td>
+      <td>
+        <ul>
+          <li>銷售機會已建立時間範圍</li>
+          <li>機會建立時間範圍</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>潛在客戶屬性</li>
+          <li>公司屬性</li>
+          <li>ABM帳戶屬性</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>自訂銷售機會屬性</li>
+          <li>自訂公司屬性</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>測量(M)</li>
+          <li>自訂測量(M)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>模型效能分析（公司）</td>
+      <td>
+        <ul>
+          <li>時間範圍</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>模型屬性</li>
+        </ul>
+      </td>
+      <td> </td>
+      <td>
+        <ul>
+          <li>階段相關測量(M)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>模型效能分析（銷售機會）</td>
+      <td>
+        <ul>
+          <li>時間範圍</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>潛在客戶屬性</li>
+          <li>模型屬性</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>從管理員 RCA &gt;→潛在客戶屬性</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>關於階段的測量（m）</li>
+          <li>階段之間的度量 （m）</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>機會分析</td>
+      <td>
+        <ul>
+          <li>潛在客戶建立時間範圍</li>
+          <li>機會已創造時間範圍</li>
+          <li>商機結束時間範圍</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>ABM 帳戶屬性</li>
+          <li>公司屬性</li>
+          <li>潛在客戶屬性</li>
+          <li>機會屬性</li>
+          <li>機會角色</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>自訂公司屬性</li>
+          <li>自訂銷售機會屬性</li>
+          <li>自定義機會屬性</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>度量 （M）</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>方案成本分析</td>
+      <td>
+        <ul>
+          <li>方案成本時間範圍</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>計畫標籤</li>
+          <li>計畫屬性</li>
+        </ul>
+      </td>
+      <td> </td>
+      <td>
+        <ul>
+          <li>投資(M)</li>
+          <li>會籍(M)</li>
+          <li>成功(M)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>計畫會員資格分析</td>
+      <td>
+        <ul>
+          <li>計畫會籍時間範圍</li>
+          <li>計畫成功時間範圍</li>
+          <li>計畫贏取時間範圍</li>
+          <li>方案狀態時間範圍</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>計畫屬性</li>
+          <li>計畫狀態屬性</li>
+          <li>公司屬性</li>
+          <li>潛在客戶屬性</li>
+          <li>ABM 帳戶屬性</li>
+          <li>程序標記</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>自訂公司屬性</li>
+          <li>自訂銷售機會屬性</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>計畫會籍測量(M)</li>
+          <li>計劃成功度量 （M）</li>
+          <li>計劃狀態措施（M）</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>計劃機會分析</td>
+      <td>
+        <ul>
+          <li>機會時間範圍</li>
+          <li>計劃成本時間範圍</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>程序屬性</li>
+          <li>機會屬性</li>
+          <li>計畫標籤</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>自訂機會屬性</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>歸因(M)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>方案收入階段分析</td>
+      <td>
+        <ul>
+          <li>方案成本時間範圍</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>模型屬性</li>
+          <li>計畫屬性</li>
+          <li>程序標記</li>
+        </ul>
+      </td>
+      <td> </td>
+      <td>
+        <ul>
+          <li>舞台會員 （M）</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## 上述分析報表的詳細維度和量度 {#detailed-dimensions-and-metrics}
+
+### 維度 {#dimensions}
+
+<table>
+  <tbody>
+    <tr>
+      <th>電子郵件屬性</th>
+      <th>潛在客戶屬性</th>
+      <th>公司屬性</th>
+      <th>機會屬性</th>
+      <th>程序屬性</th>
+      <th>節目狀態屬性</th>
+      <th>ABM帳戶屬性</th>
+      <th>模型屬性</th>
+      <th>機會角色</th>
+    </tr>
+    <tr>
+      <td>
+          <ul>
+            <li>電子郵件名稱</li>
+            <li>電子郵件主旨</li>
+            <li>寄件者位址</li>
+            <li>電子郵件範本</li>
+            <li>電子郵件連結</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>收購計劃</li>
+            <li>列入黑名單</li>
+            <li>轉化為商機</li>
+            <li>請勿來電</li>
+            <li>全名</li>
+            <li>職稱</li>
+            <li>行銷活動已暫停</li>
+            <li>原始來源資訊</li>
+            <li>原始來源類型</li>
+            <li>潛在客戶分割</li>
+            <li>註冊來源類型</li>
+            <li>退訂</li>
+            <li>電子郵件地址</li>
+            <li>電子郵件無效</li>
+            <li>潛在客戶擁有者電子郵件地址</li>
+            <li>潛在客戶所有者職稱</li>
+            <li>潛在客戶所有者名稱</li>
+            <li>潛在客戶來源</li>
+            <li>潛在客戶狀態</li>
+            <li>網域名稱</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>年收入</li>
+            <li>帳單城市</li>
+            <li>帳單國家</li>
+            <li>帳單寄送州</li>
+            <li>帳單郵遞區號</li>
+            <li>公司名稱</li>
+            <li>行業</li>
+            <li>員工人數</li>
+            <li>SIC 代碼</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>（FT） 機會關閉前</li>
+            <li>(FT)商機建立前</li>
+            <li>行銷影響</li>
+            <li>(MT)商機結束前</li>
+            <li>(MT)建立機會之前</li>
+            <li>機會已結束</li>
+            <li>機會預測類別</li>
+            <li>機會名稱</li>
+            <li>機會階段</li>
+            <li>機會類型</li>
+            <li>機會擁有者名稱</li>
+            <li>已贏得的機會</li>
+            <li>機會機率(%)</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>節目頻道</li>
+            <li>節目名稱</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>管道狀態步驟</li>
+            <li>狀態為成功</li>
+            <li>計畫狀態</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>ABM國家</li>
+            <li>ABM CRM ID</li>
+            <li>具名帳戶</li>
+          </ul>
+      </td>
+      <td>MPA_C
+        <ul>
+            <li>模型作用中</li>
+            <li>舞臺活動時</li>
+            <li>在成功路徑上</li>
+            <li>為追蹤公司</li>
+            <li>模型</li>
+            <li>階段</li>
+            <li>舞臺類型</li>
+         </ul>
+          <p>
+          MPA_L
+          <ul>
+            <li>以上所有內容和一些附加內容</li>
+            <li>是直接過渡</li>
+            <li>舞臺是否處於活動狀態（至舞臺）
+            <li>在成功路徑上（進入階段）</li>
+            <li>舞臺類型 （至舞臺）</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>新增至商機</li>
+            <li>是主要的</li>
+            <li>角色</li>
+          </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<table>
+  <tbody>
+    <tr>
+      <th>季度時間範圍</th>
+      <th>月份時間範圍</th>
+      <th>週時間範圍</th>
+      <th>日期時間範圍</th>
+      <th>星期</th>
+      <th>小時</th>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>已傳送（季）</li>
+          <li>已傳遞（季）</li>
+          <li>硬跳出（季）</li>
+          <li>已開啟（季）</li>
+          <li>已點按（季）</li>
+          <li>已取消訂閱（季）</li>
+          <li>投訴（季）</li>
+        </ul>
+      </td>
+      <td>
+          <ul>
+            <li>已傳送（月）</li>
+            <li>已傳遞（月）</li>
+            <li>硬跳出（月）</li>
+            <li>已開啟（月）</li>
+            <li>已點按（月）</li>
+            <li>已取消訂閱（月）</li>
+            <li>投訴（月）</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>已傳送（周）</li>
+            <li>已傳遞（周）</li>
+            <li>硬跳出（周）</li>
+            <li>已開啟（周）</li>
+            <li>已點按（周）</li>
+            <li>已取消訂閱（周）</li>
+            <li>投訴（周）</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>已傳送 （日期）</li>
+            <li>已傳送 （日期）</li>
+            <li>硬跳出 （日期）</li>
+            <li>開啟 （ 日期 ）</li>
+            <li>點擊 （ 日期）</li>
+            <li>已取消訂閱（日期）</li>
+            <li>投訴（日期）</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>已傳送 （星期幾）</li>
+            <li>已傳送 （星期幾）</li>
+            <li>硬跳出 （星期幾）</li>
+            <li>開啟 （星期幾）</li>
+            <li>已點按（星期）</li>
+            <li>已取消訂閱（星期）</li>
+            <li>投訴（星期幾）</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>已傳送（小時）</li>
+            <li>已傳遞（小時）</li>
+            <li>硬跳出 （一天中的第幾個小時）</li>
+            <li>已開啟 （一天中的某小時）</li>
+            <li>已點按 （一天中的某小時）</li>
+            <li>已取消訂閱（小時）</li>
+            <li>投訴（小時）</li>
+          </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<table>
+  <tbody>
+    <tr>
+      <th>時間範圍</th>
+      <th>銷售機會已建立時間範圍</th>
+      <th>機會已創造時間範圍</th>
+      <th>商機結束時間範圍</th>
+      <th>計劃成本時間範圍</th>
+      <th>計劃成員資格時間範圍</th>
+      <th>計劃成功時間範圍</th>
+      <th>計劃獲取時間範圍</th>
+      <th>節目狀態時間範圍</th>
+    </tr>
+    <tr>
+      <td>
+          <ul>
+            <li>年</li>
+            <li>季度</li>
+            <li>月</li>
+            <li>週</li>
+            <li>日期</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>潛在客戶建立的年份</li>
+            <li>潛在客戶建立的季度</li>
+            <li>潛在客戶建立的月份</li>
+            <li>銷售機會建立的周</li>
+            <li>潛在客戶建立日期</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>建立的商機年份</li>
+            <li>商機建立的季度</li>
+            <li>商機建立的月份</li>
+            <li>每週建立的商機</li>
+            <li>商機建立日期</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>商機結束年份</li>
+            <li>商機已結束的季度</li>
+            <li>商機結束月份</li>
+            <li>商機已關閉周</li>
+            <li>商機結束日期</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>成本年度</li>
+            <li>成本季度</li>
+            <li>成本月份</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>會籍年份</li>
+            <li>會籍季度</li>
+            <li>會籍月份</li>
+            <li>會員周</li>
+            <li>會籍日期</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>成功年份</li>
+            <li>成功季度</li>
+            <li>成功月份</li>
+            <li>成功周</li>
+            <li>成功日期</li>
+          </ul>
+      </td>
+      <td>
+        <ul>
+            <li>收購年份</li>
+            <li>收購季度</li>
+            <li>贏取月份</li>
+            <li>贏取周</li>
+            <li>獲取日期</li>
+        </ul>
+      </td>
+      <td>
+          <ul>
+            <li>狀態年份</li>
+            <li>狀態季度</li>
+            <li>狀態月</li>
+            <li>狀態周</li>
+            <li>狀態日期</li>
+          </ul>
+       </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+### 測量值 {#measures}
+
+<table>
+  <tbody>
+    <tr>
+      <th>電子郵件測量</th>
+      <th>潛在客戶測量</th>
+      <th>階段相關測量</th>
+      <th>階段之間的度量</th>
+      <th>投資</th>
+      <th>會員/計劃會員措施</th>
+      <th>成功/方案成功度量</th>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+            <li>%點按</li>
+            <li>% 點擊開啟</li>
+            <li>% 投訴</li>
+            <li>% 已傳送</li>
+            <li>% 已開啟</li>
+            <li>%已取消訂閱</li>
+            <li>已點按</li>
+            <li>投訴</li>
+            <li>已傳遞</li>
+            <li>硬跳出</li>
+            <li>打開</li>
+            <li>已傳送</li>
+            <li>不重複點按次數</li>
+            <li>退訂</li>
+          </ul>
+      </td>
+      <td>
+         <ul>
+            <li>未轉換潛在客戶的平均年齡</li>
+            <li>將銷售機會轉換為商機的平均天數</li>
+            <li>平均分數</li>
+            <li>銷售機會轉換率</li>
+            <li>公司對機會轉換率</li>
+            <li>公司數目</li>
+            <li>公司數目（轉換為商機）</li>
+            <li>公司數目（未轉換為商機）</li>
+            <li>潛在客戶數量</li>
+            <li>銷售機會數（轉換為商機）</li>
+            <li>銷售機會數（未轉換為商機）</li>
+          </ul>
+      </td>
+      <td>MPA_C
+        <ul>
+            <li>期初餘額</li>
+            <li>期末餘額</li>
+            <li>流入量</li>
+            <li>輸出流量</li>
+          </ul>
+        </ul>
+        <p>
+        MPA_L
+        <ul>
+            <li>平均 年齡</li>
+            <li>已合併/已刪除</li>
+            <li>SLA到期日</li>
+            <li>SLA 過期</li>
+        </ul>
+      </td>
+      <td>
+          <ul>
+            <li>平均過渡 （天）</li>
+            <li>交談比例（所有型別）</li>
+            <li>交談配額（現有）</li>
+            <li>交談比例（新）</li>
+            <li>流量</li>
+            <li>流量 （現存）</li>
+            <li>流量 （僅限新）</li>
+        </ul>
+      </td>
+      <td>
+          <ul>
+            <li>每次會員成本</li>
+            <li>名稱的每次新成本</li>
+            <li>每次成功成本</li>
+            <li>每次成功的成本（新名稱）</li>
+            <li>計畫成本</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>%新名稱</li>
+            <li>成員</li>
+            <li>新名稱</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>%成功（新名稱）</li>
+            <li>%成功（總計）</li>
+            <li>成功（新名稱）</li>
+            <li>成功（總計）</li>
+          </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<table>
+  <tbody>
+    <tr>
+      <th>階段會籍(M)</th>
+      <th>歸因</th>
+      <th>程式狀態測量</th>
+    </tr>
+    <tr>
+      <td>
+          <ul>
+            <li>%新名稱（目前）</li>
+            <li>%新名稱（以前）</li>
+            <li>階段平均天數</li>
+            <li>每個新名稱的成本</li>
+            <li>新名稱（目前）</li>
+            <li>新名稱（曾經）</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>與計畫相關的機會數</li>
+            <li>(FT)機會成本</li>
+            <li>(FT)建立的商機</li>
+            <li>(FT)成功的機會</li>
+            <li>(FT)管道已建立</li>
+            <li>(FT)管道已建立 — 仍開啟</li>
+            <li>（英尺）預期收入</li>
+            <li>（英尺）投資收益</li>
+            <li>（英尺）贏得的收入</li>
+            <li>（MT）機會成本</li>
+            <li>（MT）創造的機會</li>
+            <li>(MT)成功的機會</li>
+            <li>(MT)管道已建立</li>
+            <li>(MT)管道已建立 — 仍然開啟</li>
+            <li>(MT)預期收入</li>
+            <li>(MT)投資收入</li>
+            <li>(MT)贏得的收入</li>
+            <li>每個已結束機會的平均成功數</li>
+            <li>每個建立的機會平均成功次數</li>
+            <li>新名稱</li>
+            <li>計畫成本</li>
+            <li>成功（總計）</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+            <li>狀態計數（目前）</li>
+            <li>狀態計數（以往）</li>
+          </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
