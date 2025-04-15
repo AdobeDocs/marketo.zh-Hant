@@ -3,26 +3,26 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
+source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 3%
+source-wordcount: '474'
+ht-degree: 4%
 
 ---
 
-# 版本說明：2025 年 3 月 {#release-notes-mar-25}
+# 發行說明： 2025年3月 {#release-notes-mar-25}
 
-您將在下面找到 March &#39;25 版本中包含的所有功能。 請查看您的 Adobe Systems Marketo Engage 版以瞭解功能可用性。
+下方提供2025年3月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
 
-可以在此處](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到Adobe Systems動態聊天[的發行說明。
+您可在此處](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到Adobe Dynamic Chat [專屬的發行說明。
 
 >[!AVAILABILITY]
 >
->用星號（星號](assets/yellow-star.png)）![表示的功能是付費附加元件。請聯繫您的Marketo Engage代表以瞭解更多資訊。
+>以星號（![星號](assets/yellow-star.png)）表示的功能是付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
 
-## 標準發佈週期功能 {#standard-release-cycle-features}
+## 標準發行週期功能 {#standard-release-cycle-features}
 
-以下功能屬於標準發佈週期，開始於 2025 **年 3 月 28 日**&#x200B;發佈，並在隨後幾周內分階段轉出剩餘功能。發行功能和日期可能會有所變更。 請檢查每個功能旁邊的狀態。
+下列功能屬於標準發行週期，並將於&#x200B;**2025年3月28日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行功能和日期可能會有所變更。 請檢查每個功能旁的狀態。
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -32,8 +32,8 @@ ht-degree: 3%
    <th style="width:25%">文件</th>
   </tr>
     <tr> 
-   <td><strong>電子郵件設計器可用於所有計劃</strong>：新 電子郵件設計器電子郵件現在可以跨參與、預設和活動計劃訪問（互動式網路研討會計劃是唯一例外）。 以前，它們只能在電子郵件程式中使用。 在此更新中，克隆也變得可用。</td>
-   <td>運</td>
+   <td><strong>所有程式都可使用Designer電子郵件</strong>：參與、預設和事件程式現在都可存取新的Designer電子郵件（互動式網路研討會程式除外）。 以前它們只能用於電子郵件計畫。 透過這項更新，複製功能也可供使用。</td>
+   <td>已送出</td>
    <td>不適用</td>
   </tr>
   <tr> 
@@ -42,7 +42,7 @@ ht-degree: 3%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>互動式網路研討會</strong>中的 GenAI 功能：您現在可以為點播網路研討會生成章節和摘要。 編輯並導出数据的 HTML 文件。</td>
+   <td><strong>互動式網路研討會中的GenAI功能</strong>：您現在可以產生章節以及隨選網路研討會的摘要。 編輯並匯出資料的HTML檔案。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -52,40 +52,30 @@ ht-degree: 3%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>全域和工作環境我的令牌</strong>：在工作環境和全域級別配置我的令牌，以提高工作效率並跨Marketo Engage工作區和平均整個實例控制品牌和行銷抵押品。</td> 
+   <td><strong>全域與Workspace My Token</strong>：在工作區與全域層級設定我的Token，以提升生產力並控制Marketo Engage工作區乃至整個執行個體的品牌與行銷宣傳資料。</td> 
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>任何觸發器屬性</strong>的令牌：從此文件中的 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments" target="_blank">清單擴展可用觸發令牌清單</a> ，以支持在行銷活動流字段中使用任何觸發活動屬性中的數據。 列印活動属性中的數據到有趣的時刻，或將自定義活動中銷售機會的最新交易 ID 設置到銷售機會字段中。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
- </tbody> 
+  </tbody> 
 </table>
 <br/>
 
 ## 公告 {#announcements}
 
-* **Social功能棄用**：2024 年 7 月 31 日星期三，Marketo Engage 開始棄用產品中的以下Social功能：
+* **棄用社交功能**： 2024年7月31日星期三，Marketo Engage開始棄用產品中的下列社交功能：
 
-   * 民意調查
-   * Social按鈕
+   * 投票
+   * 社交按鈕
    * 推薦人特賣優惠
    * 影片分享
    * 抽獎
 
-截至那時，用戶無法在Marketo Engage中創建、克隆或嵌入任何這些Social功能。 現有Social資產會持續運作到 2025 年 1 月 31 日。 2025年2月1日，Social資產停止運作。 登陸頁面中嵌入的任何社交功能均需予以移除。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+截至目前，使用者無法在Marketo Engage中建立、複製或嵌入任何這些Social功能。 現有的社交資產可持續使用至2025年1月31日。 2025年2月1日，社交資產停止運作。 登陸頁面中內嵌的任何社交功能都將需要移除。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **Rest API「access_token」參數棄用**： `access_token` 用於驗證 Marketo REST API 呼叫的 查詢 參數即將棄用，2025 年 6 月 30 日之後將無法使用。 如此處](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}所述，[所有新的和現有的整合都應使用「授權」標頭對 REST API 呼叫進行身份驗證。
+* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2025年6月30日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API 淘汰**：對 Marketo SOAP API 的支援將於 2025 年 10 月 31 日終止。 使用SOAP API功能的服務應遷移至 [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **棄用SOAP API**：對Marketo SOAP API的支援將於2025年10月31日結束。 使用SOAP API功能的服務應移轉至[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
 
-* **新 Analytics 功能 - 公共Beta**： [進階 BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} （以前稱為收入資源管理員和進階 Report Builder）將於 4 月中旬開始向所有當前的收入周期資源管理器使用者推出。 這個新工具為Marketo Engage數據提供了一個靈活的報告和可視化介面，提供有關進度、性能等的粒度詳細信息。 它具有更豐富的互動和可視化效果、更快的性能以及更無縫、更直觀的使用者體驗。
+* **全新Analytics功能 — 公用Beta**： [進階BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (先前稱為Revenue Explorer和Advanced Report Builder)在4月中旬開始向所有目前的Revenue Cycle Explorer使用者推出。 這個新工具針對Marketo Engage資料提供彈性的報表和視覺化介面，提供關於進度、效能等專案的詳細資訊。 它提供更豐富的互動性和視覺效果、更快的效能，以及更順暢且直覺的使用者體驗。
 
-若要存取此功能，您必須已購買 進階 BI Analytics 附加元件。 請洽詢 Adobe Systems 客戶團隊（您的客戶經理）以取得詳細資訊。
+若要存取此功能，您必須已購買進階BI Analytics附加元件。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
