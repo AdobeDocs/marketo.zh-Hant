@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 618aeadcdc032b005514387eb0a0e5f61990ed5d
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '473'
 ht-degree: 4%
 
 ---
@@ -53,8 +53,8 @@ ht-degree: 4%
   </tr>
   <tr> 
    <td><strong>全域與Workspace My Token</strong>：在工作區與全域層級設定我的Token，以提升生產力並控制Marketo Engage工作區乃至整個執行個體的品牌與行銷宣傳資料。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已送出</td>
+   <td>不適用</td>
   </tr>
   </tbody> 
 </table>
