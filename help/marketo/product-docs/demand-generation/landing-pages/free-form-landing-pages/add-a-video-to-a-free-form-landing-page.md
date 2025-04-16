@@ -3,8 +3,10 @@ unique-page-id: 2359722
 description: 將影片新增至自由格式登陸頁面 — Marketo檔案 — 產品檔案
 title: 將影片新增至自由格式的登陸頁面
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
+hide: true
+hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -43,8 +45,8 @@ ht-degree: 0%
 >
 >為了節省時間，您可以使用&#x200B;**從**&#x200B;複製選項，從現有的視訊共用複製所有設定。
 
-恭喜！您已新增視訊共用至您的自由格式登陸頁面。 核准登陸頁面，您的視訊共用即時。 您也可以[將登入頁面發佈至Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)，或[將視訊共用放在您的網站上](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)。
+恭喜！您已新增視訊共用至您的自由格式登陸頁面。 核准登陸頁面，您的視訊共用即時。 您也可以[將登入頁面發佈至Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)，或&#x200B;_將視訊共用放在您的網站上_。
 
 >[!MORELIKETHIS]
 >
->您已完成，但如有需要，您可以變更視訊共用的設定。 從[自訂共用流程](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)開始（共用提示開啟的時間和位置）。
+>您已完成，但如有需要，您可以變更視訊共用的設定。 從&#x200B;_自訂共用流程_&#x200B;開始（共用提示開啟的時間和位置）。

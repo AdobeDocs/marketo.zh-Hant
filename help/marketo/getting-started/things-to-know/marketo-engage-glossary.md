@@ -1,19 +1,19 @@
 ---
 description: Marketo Engage 術語表 - Marketo 文件 - 產品文件
 short-description: 了解 Marketo Engage 術語及其定義，幫助您快速上手。
-title: Marketo Engage字彙表
+title: Marketo Engage 字彙表
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '4098'
-ht-degree: 1%
+source-wordcount: '4065'
+ht-degree: 2%
 
 ---
 
-# Marketo Engage字彙表 {#marketo-engage-glossary}
+# Marketo Engage 字彙表 {#marketo-engage-glossary}
 
-以下是使用Marketo Engage時可能遇到的許多辭彙的定義。 若要要求新增字詞，請[傳送電子郵件](mailto:GRP-Marketo-articlefeedback@adobe.com)給我們。
+以下是使用Marketo Engage時可能遇到的許多字詞的定義。 若要要求新增字詞，請[傳送電子郵件](mailto:GRP-Marketo-articlefeedback@adobe.com)給我們。
 
 ## A {#a}
 
@@ -25,11 +25,11 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">A/B測試</a></strong></td>
-   <td colspan="1">可讓您修改電子郵件的元件（例如主旨列、寄件者地址等） 並設定測試准則，以判斷哪一組內容效果較佳。</td> 
+   <td colspan="1">可讓您修改電子郵件的元件（例如主旨列、來自地址等），並設定測試條件以判斷哪一組內容費率更佳。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>帳戶</strong></td> 
-   <td colspan="1">此辭彙可能有不同的含義：<br> — 您的Marketo執行個體本身可稱為您的Marketo帳戶。<br> — 在<strong>TAM</strong>中，<strong>具名帳戶</strong>是使用者已判斷要追蹤的目標帳戶。<br> — 在TAM中，CRM帳戶是從您連結的<strong>CRM</strong> （在<strong><span class="dnl">Salesforce</span></strong>、<strong><span class="dnl">MS Dynamics</span></strong>或<strong>API</strong>中的帳戶）對應的帳戶。<br> — 在您的CRM中，帳戶是潛在客戶與聯絡人相關聯的企業/公司。</td> 
+   <td colspan="1">此辭彙可能有不同的含義：<br> — 您的Marketo執行個體本身可稱為您的Marketo帳戶。<br> — 在<strong>TAM</strong>中，<strong>具名帳戶</strong>是使用者已判斷要追蹤的目標帳戶。<br> — 在TAM中，CRM帳戶是從您連結的<strong>CRM</strong> (在<strong><span class="dnl">Salesforce</span></strong>、<strong><span class="dnl">MS Dynamics</span></strong>或<strong>API</strong>中的帳戶)對應的帳戶。<br> — 在您的CRM中，帳戶是潛在客戶與聯絡人相關聯的企業/公司。</td> 
   </tr> 
   <tr> 
    <td><strong>帳戶清單</strong></td> 
@@ -144,7 +144,7 @@ ht-degree: 1%
    <td colspan="1">轉換是從<strong>參與程式</strong>傳送電子郵件的事件。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" rel="nofollow"><strong>管道</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" rel="nofollow"><strong>Channel</strong></a></td> 
    <td colspan="1">與<strong>方案</strong>相關的行銷活動型別（例如電子郵件、<strong>網路研討會、</strong>商展、路演、線上廣告等）。 </td> 
   </tr> 
   <tr> 
@@ -184,7 +184,7 @@ ht-degree: 1%
    <td colspan="1">（請參閱<strong><a href="#predictivecontent">預測性內容</a></strong>）</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>內容分析</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Content Analytics</strong></a></td> 
    <td colspan="1"><strong>網頁Personalization</strong>的區域，顯示從您的網站探索到的現有內容以及內容效能。</td> 
   </tr> 
   <tr> 
@@ -197,7 +197,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md" rel="nofollow">自訂對象</a></strong></td> 
-   <td colspan="1">在Facebook中，建立由特定現有人員(來自您的Marketo資料庫)組成的清單，以用於直接鎖定目標。</td> 
+   <td colspan="1">在Facebook中，建立由特定現有人員(來自您的Marketo資料庫)組成的清單以進行直接鎖定。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" rel="nofollow">自訂欄位</a></strong></td> 
@@ -217,7 +217,7 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## 第{#d}天
+## D {#d}
 
 <table> 
  <colgroup> 
@@ -239,7 +239,7 @@ ht-degree: 1%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><strong> 預設計畫</strong></p> 
+     <p><strong> 預設方案</strong></p> 
     </div></td> 
    <td colspan="1">Marketo中的方案型別。 電子郵件、活動或參與計畫不相關時，您會使用的通用計畫。 <br></td> 
   </tr> 
@@ -261,14 +261,14 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><strong>檔案</strong></td> 
-   <td colspan="1">檔案簡稱，檔案是協助客戶進一步瞭解產品的文章。 Marketo有多種不同型別的檔案：產品檔案（您目前所在的網站）、<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">開發人員</a>檔案，以及<a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">支援</a>檔案。</td> 
+   <td colspan="1">檔案簡稱，檔案是協助客戶進一步瞭解產品的文章。 Marketo有多種不同型別的檔案：產品檔案（您目前所在的網站）、<a href="https://experienceleague.adobe.com/zh-hant/docs/ marketo-developer/marketo/home" rel="nofollow">開發人員</a>檔案，以及<a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">支援</a>檔案。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>網域型訊息驗證、報告和符合性(DMARC)</strong></td> 
    <td colspan="1">以DNS為基礎的電子郵件安全性原則，可標準化<strong>SPF</strong>與<strong>DKIM</strong>的作業與解譯，允許信箱提供者驗證來自網域的郵件宣告來自該網域的有效來源。 它進一步允許寄件者指定如何處理驗證失敗的郵件。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">網域金鑰識別郵件</a> (DKIM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Domain Keys Identified Mail</a> (DKIM)</strong></td> 
    <td colspan="1">一種驗證機制，可保護傳送網域，讓傳送者將「寄件者地址」中的網域名稱與特定電子郵件訊息建立關聯。 這可讓接收者知道網域擁有者已合法傳送電子郵件。 寄件者將在郵件標頭中使用數位簽章來簽署電子郵件。 接收者可以使用網域擁有者在DNS中發佈的公開金鑰來解密該簽名，以確保該郵件是由網域擁有者合法傳送。</td> 
   </tr> 
   <tr> 
@@ -285,7 +285,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md" rel="nofollow">動態內容</a></strong></td> 
-   <td colspan="1">內容（例如影像、片段、文字等） 根據您指定的條件填入<strong>電子郵件</strong>或<strong>登陸頁面</strong>中的內容，讓您為讀者個人化體驗。 </td> 
+   <td colspan="1">根據您指定的條件，在<strong>電子郵件</strong>或<strong>登陸頁面</strong>中填入的內容（例如影像、片段、文字等），可讓您為讀者個人化體驗。 </td> 
   </tr> 
  </tbody> 
 </table>
@@ -300,7 +300,7 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td colspan="1"><strong>電子郵件</strong></td> 
-   <td colspan="1">在Marketo中，可以使用<strong>資產</strong>之一與客戶通訊。 電子郵件可以是HTML（圖形、自訂字型等）或僅限文字（無特殊格式的純文字訊息）。 只有HTML電子郵件可以記錄「開啟次數」。</td> 
+   <td colspan="1">在Marketo中，可以使用<strong>資產</strong>之一與客戶通訊。 電子郵件可以是HTML （圖形、自訂字型等）或僅限文字（無特殊格式的純文字訊息）。 只有HTML電子郵件可以記錄「開啟次數」。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>電子郵件無效</strong></td> 
@@ -309,7 +309,7 @@ ht-degree: 1%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><a href="/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md" rel="nofollow"><strong> 電子郵件程式</strong></a></p> 
+     <p><a href="/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md" rel="nofollow"><strong> 電子郵件方案</strong></a></p> 
     </div></td> 
    <td colspan="1">Marketo中的方案型別。 電子郵件程式用於一次性電子郵件傳送。 您可以利用<strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">A/B測試</a></strong>並追蹤您的電子郵件結果。<br></td> 
   </tr> 
@@ -320,7 +320,7 @@ ht-degree: 1%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" rel="nofollow">參與計畫</a></strong></p> 
+     <p><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" rel="nofollow">參與方案</a></strong></p> 
     </div></td> 
    <td colspan="1">Marketo中的方案型別。 參與計畫可讓您透過系統地提供內容（也稱為nurture program）來向新人行銷。<br></td> 
   </tr> 
@@ -329,7 +329,7 @@ ht-degree: 1%
    <td>根據專有演演算法的評分，該演演算法會考慮：參與行為（<strong>開啟</strong>、<strong>點選</strong>、程式成功）和脫離行為（取消訂閱）。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">事件</a></strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">活動</a></strong></td> 
    <td>為了讓您與客戶和潛在客戶溝通而發生的事。 離線活動通常包含集會或商展，線上活動通常是<strong>網路研討會</strong>。</td> 
   </tr> 
   <tr> 
@@ -339,7 +339,7 @@ ht-degree: 1%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">事件程式</a></strong></p> 
+     <p><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">事件方案</a></strong></p> 
     </div></td> 
    <td colspan="1">Marketo中的方案型別。 事件程式可用來自動執行<strong>事件</strong> （線上和離線皆可） （例如，網路研討會、聚會、商展等）。  </td> 
   </tr> 
@@ -367,7 +367,7 @@ ht-degree: 1%
    <td>用於<strong>智慧清單</strong>的工具，可讓您縮小對象範圍（例如，資料庫中住在加州的所有人）。 篩選器可同時用於<strong>批次</strong>和<strong>觸發行銷活動</strong>。</td> 
   </tr> 
   <tr> 
-   <td><strong>流程</strong></td> 
+   <td><strong>流量</strong></td> 
    <td><p><strong>智慧型行銷活動</strong>的區域，可決定您透過<strong>智慧型清單</strong>中設定的條件選擇之人員發生什麼事。 流程包含一或多個<strong>流程步驟</strong>。</p></td> 
   </tr> 
   <tr> 
@@ -419,7 +419,7 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## 我{#i}
+## I {#i}
 
 <table> 
  <colgroup> 
@@ -428,13 +428,13 @@ ht-degree: 1%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>有趣的時刻</strong></a></td> 
-   <td><p>在<strong>Marketo Sales Insight</strong>中，您認為與特定相關的事件（例如，當某人造訪您網站上的特定頁面、按一下電子郵件中的特定連結等） 您希望銷售團隊注意的事項。</p></td> 
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>精彩時刻</strong></a></td> 
+   <td><p>在<strong>Marketo Sales Insight</strong>中，您認為與您的銷售團隊有特定關聯性的事件（例如，當某人造訪您網站上的特定頁面、按一下電子郵件中的特定連結等）。</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## K {#k}
+## 千次 {#k}
 
 <table> 
  <colgroup> 
@@ -444,7 +444,7 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>已知人員</strong></a></td> 
-   <td><p>Marketo <strong>資料庫</strong>中的任何人員資料都視為已知人員資料。 使用者有多種方式可輸入您的資料庫，包括：CRM同步、填寫表單、清單匯入/手動輸入、程式化（rest API/合作夥伴整合）等等。 網路訪客最初是透過Marketo的<strong>Munchkin</strong>網路追蹤進行<strong>識別</strong> （且為匿名），接著在可識別動作發生時(例如，按一下Marketo電子郵件中的追蹤連結、填寫電子郵件地址的表單，或透過<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a>和<a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a>中的Marketo關聯銷售機會API手動對應)，對應到對應的已知個人記錄</p></td> 
+   <td><p>Marketo <strong>資料庫</strong>中的任何人員資料都視為已知人員資料。 使用者有多種方式可輸入您的資料庫，包括：CRM同步、填寫表單、清單匯入/手動輸入、程式化（rest API/合作夥伴整合）等等。 網路訪客最初是透過Marketo的<strong>Munchkin</strong>網路追蹤進行<strong>編碼</strong> （且為匿名），接著在可識別動作發生時對應至對應的已知個人記錄(例如，按一下Marketo電子郵件中的追蹤連結、填寫帶有電子郵件地址的表單，或透過<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a>和<a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a>中的Marketo關聯銷售機會API手動對應)</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -490,7 +490,7 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## M {#m}
+## 百萬次 {#m}
 
 <table> 
  <colgroup> 
@@ -527,12 +527,12 @@ ht-degree: 1%
    <td>此附加的多方面銷售工具可協助行銷人員與潛在客戶互動並追蹤成效。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Marketo銷售分析(MSI)</strong></td> 
+   <td colspan="1"><strong>Marketo Sales Insight (MSI)</strong></td> 
    <td colspan="1">此附加功能可讓行銷人員使用其<strong>CRM</strong>的行銷分析來強化其賣家。</td> 
   </tr>
   <tr> 
    <td><strong>Microsoft Dynamics</strong></td> 
-   <td>亦稱為MSD。 Marketo與的兩個CRM其中之一原生整合（請參閱<a href="#c"><strong>CRM</strong></a>）。</td> 
+   <td>也稱為MSD。 Marketo與的兩個CRM其中之一原生整合（請參閱<a href="#c"><strong>CRM</strong></a>）。</td> 
   </tr> 
   <tr> 
    <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
@@ -543,7 +543,7 @@ ht-degree: 1%
    <td colspan="1">Adobe Marketo Engage的標準區段之一。 將當作您的Marketo「首頁」，在您有權存取的Marketo所有區段顯示圖磚。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>我的Token</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>我的代號</strong></a></td> 
    <td colspan="1">任何人都能建立的自訂變數。 已在<strong>行銷活動資料夾</strong>或<strong>方案</strong>中<a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md" rel="nofollow">建立</a>。</td> 
   </tr> 
  </tbody> 
@@ -633,11 +633,7 @@ ht-degree: 1%
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>角色</strong></a></td> 
    <td colspan="1">在Marketo的<strong>目標帳戶管理</strong>中，角色是對象的子集，允許更具體的目標定位。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>投票</strong></a></td> 
-   <td colspan="1">Marketo中的投票就像定期投票。 建立可供人員投票的主題，並在您的Marketo <strong>登陸頁面</strong>、您的網站和/或社群媒體上分享。</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td> 
     <div> 
@@ -739,7 +735,7 @@ ht-degree: 1%
    <td colspan="1"><p>一種驗證機制，可識別允許為特定網域傳送郵件的電子郵件伺服器。</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Smart Campaign</strong></a></td> 
+   <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>智慧行銷活動</strong></a></td> 
    <td colspan="1">Marketo中最重要的工具之一。 它們會根據您決定的條件執行您指定的動作。 （另請參閱<strong><a href="#b">批次行銷活動</a></strong>和<strong><a href="#t">觸發行銷活動</a></strong>）</td> 
   </tr> 
   <tr> 
@@ -849,7 +845,7 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## 周{#w}
+## W {#w}
 
 <table> 
  <colgroup> 
@@ -881,12 +877,12 @@ ht-degree: 1%
    <td>附加功能可協助Marketo使用者利用根據產業、具名帳戶和已知資料的相關廣告，鎖定已知和匿名訪客(透過Facebook和Google)。</td> 
   </tr> 
   <tr> 
-   <td><strong>所見即所得（所見即所得）</strong></td> 
+   <td><strong>What You See Is What You Get (WYSIWYG)</strong></td> 
    <td>一個通用術語，指稱可讓您在建立您的<strong>內容</strong>時檢視其最終結果的應用程式或編輯器。 Marketo有WYSIWYG編輯器。</td> 
   </tr> 
   <tr> 
    <td><strong>Widget</strong></td> 
-   <td>應用程式中允許特定互動的小型圖形元素。 Widget僅適用於Marketo Sky （與<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widget網頁行銷活動不同）</a></td> 
+   <td>應用程式中允許特定互動的小型圖形元素。 Widget僅適用於Marketo Sky （與<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widget網路行銷活動不同）</a></td> 
   </tr> 
   <tr> 
    <td><strong>萬用字元</strong></td> 

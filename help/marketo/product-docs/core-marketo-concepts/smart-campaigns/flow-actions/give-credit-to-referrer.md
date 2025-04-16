@@ -3,8 +3,10 @@ unique-page-id: 1147040
 description: 將評分給予反向連結 — Marketo檔案 — 產品檔案
 title: 將評分給予反向連結
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
+hide: true
+hidefromtoc: true
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 1%
@@ -13,7 +15,7 @@ ht-degree: 1%
 
 # 將評分給予反向連結 {#give-credit-to-referrer}
 
-執行[轉介優惠方案](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"}或[抽獎](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}時，您可以使用不同方法將評分給予轉介者：
+執行&#x200B;_轉介優惠方案_&#x200B;或&#x200B;_抽獎_&#x200B;時，您可以使用不同方法將評分給予轉介者：
 
 * 推薦造訪
 * 引用的註冊
@@ -30,6 +32,6 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >確認您的社交應用程式已設定為使用智慧清單觸發程式。 如需詳細資訊，請參閱[指定轉介選件的目標](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md){target="_blank"}。
+   >確認您的社交應用程式已設定為使用智慧清單觸發程式。 如需詳細資訊，請參閱&#x200B;_指定轉介選件的目標_。
 
 太好了！ 此流程步驟處理的任何人員現在都會將評分給予其反向連結。

@@ -3,8 +3,10 @@ unique-page-id: 2950555
 description: 編輯Facebook Rich Post設定 — Marketo檔案 — 產品檔案
 title: 編輯Facebook Rich Post設定
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
+hide: true
+hidefromtoc: true
 feature: Integrations
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -19,11 +21,11 @@ ht-degree: 0%
 >
 >並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-Marketo [社交應用程式](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md)可讓您的潛在客戶與其在Facebook、Twitter等社交網路上的連線共用您的登陸頁面。 facebook OpenGraph標籤（OG標籤）可讓您指定登陸頁面中的哪些資訊包含在Facebook貼文中。
+Marketo _社交應用程式_&#x200B;可讓您的潛在客戶透過其在Facebook、Twitter等社交網路上的連線，共用您的登陸頁面。 Facebook OpenGraph標籤（OG標籤）可讓您指定要將登陸頁面中的哪些資訊包含在Facebook貼文中。
 
 ## 選取Rich Post選項 {#select-rich-post-options}
 
-您可以指定要在由登入頁面中的分享所產生的Facebook豐富貼文中使用的頁面資訊型別。
+您可以指定要在由登入頁面中的分享所產生的Facebook Rich Posts中使用的頁面資訊型別。
 
 1. 在編輯器中選取&#x200B;**YouTube**&#x200B;視訊或社交按鈕的&#x200B;**Facebook訊息**。
 
@@ -41,9 +43,9 @@ Marketo [社交應用程式](/help/marketo/product-docs/demand-generation/social
 
    >[!NOTE]
    >
-   >這些應該已存在於頁面來源中，但如需更多控制權，您可以將特定的Facebook OG標籤新增至登入頁面。
+   >這些應該已存在於頁面來源中，但為了取得更多控制權，您可以新增特定Facebook OG標籤至您的登入頁面。
 
-   * 不要新增豐富的內容：將登入頁面的Facebook貼文限製為僅限主要訊息和連結。
+   * 不要新增豐富的內容：將Facebook文章從您的登陸頁面限製為僅限主要訊息和連結。
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
