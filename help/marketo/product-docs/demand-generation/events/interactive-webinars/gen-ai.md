@@ -2,10 +2,8 @@
 description: GenAI功能 — Marketo檔案 — 產品檔案
 title: GenAI功能
 feature: Interactive Webinars
-hide: true
-hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
+source-git-commit: a4db7dbc6d62edd3d2efdba08c402d762fdaf921
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
