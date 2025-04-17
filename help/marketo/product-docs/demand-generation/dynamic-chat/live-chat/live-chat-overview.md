@@ -3,7 +3,7 @@ description: 即時聊天概述 — Marketo檔案 — 產品檔案
 title: 即時聊天總覽
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->對於Dynamic ChatSelect套件上的使用者，即時聊天是試用功能，期限限製為100次參與。 當達到此限制時，所有要求與即時代理程式交談的訪客都不會連線，而是會收到全域遞補訊息。 若要提高上限，請聯絡您的Adobe客戶代表，討論套件升級選項。
+>若您是Dynamic Chat Select套件上的使用者，即時聊天功能為試用功能，期限限製為100次參與。 當達到此限制時，所有要求與即時代理程式交談的訪客都不會連線，而是會收到全域遞補訊息。 若要提高上限，請聯絡您的Adobe客戶代表，討論套件升級選項。
 
 ## 新增即時聊天代理 {#add-live-chat-agents}
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->即時代理程式頭像會使用代理程式Adobe帳戶設定檔中的設定檔圖片。 若要更新影像，請依照[這些步驟](https://helpx.adobe.com/tw/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}執行。
+>即時代理程式頭像會使用代理程式的Adobe帳戶設定檔中的設定檔圖片。 若要更新影像，請執行[這些步驟](https://helpx.adobe.com/tw/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}。
 
 ## 使用即時聊天卡 {#using-the-live-chat-card}
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->為了接收即時聊天所需的瀏覽器通知，所有即時聊天代理程式必須在提示時啟用瀏覽器通知以進行Dynamic Chat。
+>為了接收即時聊天所需的瀏覽器通知，所有即時聊天代理程式必須在出現提示時啟用Dynamic Chat的瀏覽器通知。
 
 ### 啟用通知 {#enabling-notifications}
 
@@ -113,7 +113,7 @@ ht-degree: 0%
 
 ### 注意事項 {#things-to-note}
 
-* 在「接受聊天」訊息逾時之前，代理程式有45秒的時間回應。 之後，訪客將會收到[遞補訊息](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}。 對於路由選項設為&#x200B;**團隊**&#x200B;的Dynamic ChatPrime訂閱者，將會在後援訊息出現之前再嘗試一個代理程式。
+* 在「接受聊天」訊息逾時之前，代理程式有100秒的時間回應。 之後，訪客將會收到[遞補訊息](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}。 對於路由選項設為&#x200B;**團隊**&#x200B;的Dynamic Chat Prime訂閱者，將會在後援訊息出現之前再嘗試一個代理程式。
 * 目前每個代理程式限製為10個即時聊天。
 
 >[!MORELIKETHIS]
