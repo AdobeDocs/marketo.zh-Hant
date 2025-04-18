@@ -4,9 +4,9 @@ title: 最新發行說明
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '429'
 ht-degree: 4%
 
 ---
@@ -43,17 +43,7 @@ ht-degree: 4%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>標題</strong>：文字。</td> 
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>標題</strong>：文字。</td> 
+   <td><strong>安全通訊端層(SSL)自助服務</strong>： SSL加密可讓您保護Marketo Engage執行個體的登入頁面。 啟用此功能過去需要Adobe支援團隊的協助。 Marketo使用者現在可以自行啟用，節省寶貴時間。</td> 
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
