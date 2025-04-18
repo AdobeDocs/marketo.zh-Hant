@@ -4,10 +4,10 @@ description: 瞭解程式中的我的Token - Marketo檔案 — 產品檔案
 title: 瞭解程式中的我的Token
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 0%
+source-wordcount: '417'
+ht-degree: 1%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 除了「我的Token」，您也可以在程式中使用任何內建的Token。 檢視[Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}。
 
-## 我的Token  {#my-tokens}
+## 我的代號  {#my-tokens}
 
-我的Token是任何人都可以建立的自訂變數。 它們是[在行銷活動資料夾或方案中建立的](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}。
+我的Token是任何人都可以建立的自訂變數。 在本機上，它們是在[建立的行銷活動資料夾或方案中](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}。
 
 我的Token顯示如下： `{{my.Name Of Token}}`
 
@@ -62,7 +62,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1">SFDC行銷活動 <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td> 
-   <td colspan="1">使用此代號，可將成為Marketo計劃一部分的潛在客戶也新增至新增的任何一個SFDC Campaign。</td> 
+   <td colspan="1">使用此代號，可將成為Marketo計劃一部分的潛在客戶也新增至新增的任何其他SFDC Campaign。</td> 
   </tr> 
   <tr> 
    <td>文字 <img alt="--" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->在Microsoft Dynamics或Salesforce上從Sales Insight傳送電子郵件時，我的Token無法解析；只會填入標準代號（銷售機會、公司等）。 但是，權杖&#x200B;_的預設值將_&#x200B;有效。
+>在Microsoft Dynamics或Salesforce上從Sales Insight傳送電子郵件時，我的Token無法解析；只有標準Token會填入（銷售機會、公司等）。 但是，權杖&#x200B;_的預設值將_&#x200B;有效。
 
 ## 巢狀代號 {#nesting-tokens}
 

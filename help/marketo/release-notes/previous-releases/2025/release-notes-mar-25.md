@@ -2,10 +2,11 @@
 description: 發行說明 — 2025年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2025 年 3 月
 feature: Release Information
-source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
+exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
+source-git-commit: 0fa36f119e26b7bc1882a2ed1f73d71e6af42c5f
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 4%
+source-wordcount: '478'
+ht-degree: 3%
 
 ---
 
@@ -53,7 +54,7 @@ ht-degree: 4%
   <tr> 
    <td><strong>全域與Workspace My Token</strong>：在工作區與全域層級設定我的Token，以提升生產力並控制Marketo Engage工作區乃至整個執行個體的品牌與行銷宣傳資料。</td> 
    <td>已送出</td>
-   <td>不適用</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md#create-a-my-token">建立全域「我的Token」</a></td>
   </tr>
   </tbody> 
 </table>
