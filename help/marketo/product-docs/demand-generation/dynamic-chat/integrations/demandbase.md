@@ -2,12 +2,10 @@
 description: Demandbase - Marketo檔案 — 產品檔案
 title: Demandbase
 feature: Dynamic Chat
-hide: true
-hidefromtoc: true
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: 4b8ad353dac509ab901cb6672a649f85d8a6f150
+source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -33,6 +31,8 @@ Demandbase使用者可以使用Demandbase人員屬性來進行Dynamic Chat中的
 1. 按一下&#x200B;**建立**。
 
 1. 使用&#x200B;_複製_&#x200B;圖示，複製頁面底部的API Token字串。
+
+1. 提交具有[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)的票證，並提供API權杖字串以啟用Demandbase整合。
 
 >[!NOTE]
 >
