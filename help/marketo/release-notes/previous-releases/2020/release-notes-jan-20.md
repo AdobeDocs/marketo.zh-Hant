@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## Marketo Sky {#marketo-sky}
 
-* [影像編輯](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio)：存取Adobe的編輯功能，無需離開Marketo Engage。 這項新功能可讓您直接在Design Studio中輕鬆增強、裁切及新增文字至影像。
+* [影像編輯](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=zh-Hant#design-studio)：存取Adobe的編輯功能，無需離開Marketo Engage。 這項新功能可讓您直接在Design Studio中輕鬆增強、裁切及新增文字至影像。
 
 ## 銷售分析 {#sales-insight}
 

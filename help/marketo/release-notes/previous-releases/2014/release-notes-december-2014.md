@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ·合併銷售機會
 
-發行後，完整詳細資料將可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)取得
+發行後，完整詳細資料將可在[https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home)取得
 
 ## Munchkin Javascript相容性增強功能 {#munchkin-javascript-compatibility-enhancements}
 

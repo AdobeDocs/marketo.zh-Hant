@@ -49,13 +49,13 @@ Lead資料庫已更新Summary Dashboard，其中包含人員資料庫大小總�
 
 ## [行動行銷增強功能](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap支援：**&#x200B;我們現在為您的行動應用程式提供PhoneGap支援。 [深入瞭解](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap)。
+**PhoneGap支援：**&#x200B;我們現在為您的行動應用程式提供PhoneGap支援。 [深入瞭解](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/phonegap)。
 
 **支援沙箱應用程式**：
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [程式API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
+## [程式API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
 透過REST API建立、更新和復製程式。 這不包括方案中智慧列示和智慧行銷活動的建立或更新作業。
 

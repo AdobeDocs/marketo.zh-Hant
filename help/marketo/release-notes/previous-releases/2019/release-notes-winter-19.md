@@ -105,7 +105,7 @@ ht-degree: 0%
 
 我們已將Android的SDK更新為更現代、穩定且可擴展的架構，其中包含更多彈性和新的工程功能。 Android應用程式開發人員現在可以直接將Google的[Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM)與此新SDK搭配使用。
 
-* [開發人員指示]https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [開發人員指示]https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
 
 >[!NOTE]
 >

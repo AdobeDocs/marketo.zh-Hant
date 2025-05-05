@@ -68,7 +68,7 @@ ht-degree: 1%
 * 程式成員物件最多可以有20個自訂欄位。 這些欄位適用於任何計畫。
 * 當您移除某個方案的成員時，如果他們的方案成員自訂欄位中有任何資料，則會從該欄位中清除該資料。
 * 若要檢視資料，請按一下方案中的成員索引標籤，並建立包含上述欄位的自訂檢視。
-* 支援透過[清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}和[API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"}匯入和匯出。 匯出僅適用於「方案成員」清單，不適用於靜態清單。
+* 支援透過[清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}和[API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home){target="_blank"}匯入和匯出。 匯出僅適用於「方案成員」清單，不適用於靜態清單。
 * 合併兩個人時，將會使用獲勝者的方案成員自訂欄位資料。 但如果成功者沒有值，則會使用失敗者的值。
 * 計畫成員資訊欄位不允許變更型別。
 * 「方案成員」自訂欄位不支援「包含」智慧清單限制。

@@ -35,7 +35,7 @@ Marketo與LinkedIn Lead Gen Forms的整合會自動擷取銷售機會在Lead Gen
 
 ![](assets/four-281-29.png)
 
-## [大量擷取人員與活動的API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
+## [大量擷取人員與活動的API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 輕鬆將大量人員和活動資料從Marketo傳輸至您的外部系統。
 
@@ -49,7 +49,7 @@ ABM具名帳戶上的&#x200B;**[百分位數評分](https://docs.marketo.com/dis
 
 具名帳戶的分數可能大不相同。 Marketo ABM現在會自動計算每個評分的百分位數，因此您可以一眼看出每個具名帳戶與其他具名帳戶之間的排名。
 
-**[ABM帳戶清單API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
+**[ABM帳戶清單API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 利用豐富且強大的ABM合作夥伴整合，以及針對具名帳戶清單提供的增強API支援。
 

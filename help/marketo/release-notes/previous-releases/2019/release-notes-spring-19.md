@@ -25,7 +25,7 @@ ht-degree: 0%
 
 * **已輪候：**&#x200B;當您要[保留成員](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)直到空缺開啟為止，要輪候成員的新計畫/事件狀態。 這適用於與Marketo Classic中的事件計畫相關的管道，以及與Marketo Sky中的網路研討會計畫相關的事件和事件。 依預設，「輪候」與「已註冊」的步驟值相同。
 * **[自訂通訊限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**：管理員現在可以設定自訂每日或每週通訊限制。
-* **[Smart Campaign Asset API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**：透過更新日期和ID的智慧行銷活動記錄擷取，讓您在Marketo外部的分析更為豐富。
+* **[Smart Campaign Asset API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**：透過更新日期和ID的智慧行銷活動記錄擷取，讓您在Marketo外部的分析更為豐富。
 * **電子郵件的HTTPS追蹤連結：**&#x200B;對於已購買「追蹤連結的安全網域」的客戶，品牌追蹤連結現在可以在您的電子郵件中顯示為HTTPS。
 * **電子郵件傳遞能力Powerpack更新**：能夠標幟並評論特定測試結果、透過URL與利害關係人分享結果，以及追蹤變更，以便在利害關係人編輯內容時檢視電子郵件的演變。
 

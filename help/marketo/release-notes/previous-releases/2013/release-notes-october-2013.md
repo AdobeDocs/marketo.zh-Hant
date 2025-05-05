@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)適用於想建置整合至Marketo的開發人員。 您可以參考不同的整合選項，包括Munchkin JavaScript API、SOAP API程式碼範例、Webhook和電子郵件指令碼。 [GitHub](https://github.com/Marketo/SOAP-API-Java-Client)上也提供Java SDK。
+[Developer.adobe.com](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home)適用於想建置整合至Marketo的開發人員。 您可以參考不同的整合選項，包括Munchkin JavaScript API、SOAP API程式碼範例、Webhook和電子郵件指令碼。 [GitHub](https://github.com/Marketo/SOAP-API-Java-Client)上也提供Java SDK。
 
 ## 已更新BrightTALK事件轉接器 {#updated-brighttalk-event-adapter}
 

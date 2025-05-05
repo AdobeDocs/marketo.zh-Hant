@@ -63,7 +63,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您只能透過清單匯入或[API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)填入Marketo自訂物件。
+   >您只能透過清單匯入或[API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api)填入Marketo自訂物件。
 
 ## 為多對多結構建立自訂物件 {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您只能透過清單匯入或[API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)填入Marketo自訂物件。
+   >您只能透過清單匯入或[API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api)填入Marketo自訂物件。
 
 下一步是建立您的中介物件（請參閱下文）。 但在那之前，您需要建立一個欄位與之連結。
 

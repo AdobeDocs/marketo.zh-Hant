@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 建立僅限API的使用者角色 {#create-an-api-only-user-role}
 
-如果您想要透過[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)與Marketo整合，最佳實務是[將僅限API的角色指派給使用者](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)，然後[建立自訂服務以與REST API搭配使用](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)。 以下說明如何建立僅限API的使用者角色。
+如果您想要透過[REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api)與Marketo整合，最佳實務是[將僅限API的角色指派給使用者](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)，然後[建立自訂服務以與REST API搭配使用](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)。 以下說明如何建立僅限API的使用者角色。
 
 >[!NOTE]
 >

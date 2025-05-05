@@ -94,7 +94,7 @@ ht-degree: 1%
 
 **共用至Adobe Analytics**
 
-* 對於同時擁有Adobe Audience Manager和Adobe Analytics的客戶，此整合可讓對象從Marketo分享至您的Adobe Analytics報表套裝，不過，若要啟用此功能，必須在Adobe Audience Manager中執行一些額外的設定步驟。 請檢閱[Adobe Audience Manager的檔案](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"}，以取得如何設定此專案的詳細資訊。
+* 對於同時擁有Adobe Audience Manager和Adobe Analytics的客戶，此整合可讓對象從Marketo分享至您的Adobe Analytics報表套裝，不過，若要啟用此功能，必須在Adobe Audience Manager中執行一些額外的設定步驟。 請檢閱[Adobe Audience Manager的檔案](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=zh-Hant){target="_blank"}，以取得如何設定此專案的詳細資訊。
 
 * 如果清單為空白，或沒有具有ECID值的使用者，系統不會推送清單名稱以在Marketo Engage外部參照。
 

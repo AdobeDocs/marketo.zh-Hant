@@ -53,7 +53,7 @@ ht-degree: 0%
 
 **REST API**
 
-此版本也可讓您使用Marketo REST API在ABM中管理具名帳戶屬性和帳戶分數。 如需API作業的詳細資訊，請造訪[Marketo開發人員網站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts)。
+此版本也可讓您使用Marketo REST API在ABM中管理具名帳戶屬性和帳戶分數。 如需API作業的詳細資訊，請造訪[Marketo開發人員網站](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/named-accounts)。
 
 ## [稽核軌跡增強功能](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -84,11 +84,11 @@ ht-degree: 0%
 
 Market Sales Insight現在相容於Salesforce Shield Encryption。 所有Sales Insight客戶都應該升級至這個最新的Managed套件（1.4359.2版），此套件[可在Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)上取得。
 
-## [具名帳戶API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
+## [具名帳戶API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 在此版本中，Marketo ABM使用者可以透過指定帳戶API管理指定帳戶。 使用者可以建立、更新和刪除具名帳戶，以及讀取和更新ABM具名帳戶分數。
 
-## [電子郵件編輯器v2.0 API支援](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
+## [電子郵件編輯器v2.0 API支援](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 使用Marketo REST API管理v2.0格式的電子郵件變數和模組。
 

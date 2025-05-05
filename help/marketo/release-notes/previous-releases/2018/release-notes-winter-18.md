@@ -87,7 +87,7 @@ Web Personalization現在可以將內容個人化給屬於行銷活動(MLM)中�
 
 ## 整合 {#integration}
 
-**[啟用/停用行銷活動API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[啟用/停用行銷活動API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 此新API可讓您從遠端啟用和停用觸發程式行銷活動，因此您現在可以建立完全自動化的方案範本。 一次建立方案範本，然後自動複製、行銷宣傳品更新，現在則啟動/排程智慧型行銷活動。
 

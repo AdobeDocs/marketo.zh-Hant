@@ -81,7 +81,7 @@ ht-degree: 0%
 
 影像URL和中繼資料現在用於內容自動探索程式。
 
-## [SDK增強功能](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
+## [SDK增強功能](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 開發人員現在可透過新增的SDK API呼叫，進一步控制推送通知的傳送方式，進而允許開發人員移除推送代號。
 

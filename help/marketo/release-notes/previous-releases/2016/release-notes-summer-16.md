@@ -104,7 +104,7 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 先前僅與v1.0電子郵件和範本相容的既有資產API，現在可供v2.0電子郵件資產使用。
 
-## [Marketo開發人員網站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Marketo開發人員網站](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 全新及改良！
 

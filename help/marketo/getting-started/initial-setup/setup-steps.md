@@ -270,7 +270,7 @@ Marketo Engage有自訂追蹤JavaScript （稱為[!DNL Munchkin]），您可以�
 
 ## 效能期望 {#performance-expectations}
 
-Marketo的效能表現如何？ 其可能會因行銷活動的規模和複雜性而異。 但是在[Marketo Engage產品說明](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中找到的數個表格中，您可以預期與「標準」欄中概述的效能等級相同。 「效能」和「效能加號」欄是指提供[較高效能等級](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的效能層級套件。
+Marketo的效能表現如何？ 其可能會因行銷活動的規模和複雜性而異。 但是在[Marketo Engage產品說明](https://helpx.adobe.com/tw/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中找到的數個表格中，您可以預期與「標準」欄中概述的效能等級相同。 「效能」和「效能加號」欄是指提供[較高效能等級](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的效能層級套件。
 
 >[!MORELIKETHIS]
 >

@@ -33,7 +33,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
   <tr> 
    <td>訂閱和Marketo Engage產品管理員</td> 
    <td><li>您的Marketo Engage訂閱是否已移轉至<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a>？ 
-<br/>     若是如此，您的「Adobe Admin Console系統管理員」是否已授予您「Adobe Admin Console產品管理員」角色？ 如果您不確定組織中的哪些人擁有主控台中的管理員許可權，請聯絡<a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe客戶服務</a>。</li>
+<br/>     若是如此，您的「Adobe Admin Console系統管理員」是否已授予您「Adobe Admin Console產品管理員」角色？ 如果您不確定組織中的哪些人擁有主控台中的管理員許可權，請聯絡<a href="https://helpx.adobe.com/tw/contact.html" target="_blank">Adobe客戶服務</a>。</li>
 <li>您是否接受「Marketo Engage產品管理員」邀請？ 在Adobe Admin Console中指派角色時，會傳送電子郵件。
 <br/>     如果沒有，請在收件匣中尋找<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">歡迎電子郵件</a>，並接受邀請以啟用您的Adobe ID。</li></td>
   </tr>
@@ -293,7 +293,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
   </tr>
   <tr> 
    <td>Adobe Dynamic Chat（如果適用）</td> 
-<td>若要遵循下列步驟，必須存取<a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>。 如果您尚未設定Adobe ID，請<a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">在這裡瞭解如何設定</a>。
+<td>若要遵循下列步驟，必須存取<a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>。 如果您尚未設定Adobe ID，請<a href="https://helpx.adobe.com/tw/manage-account/using/create-update-adobe-id.html" target="_blank">在這裡瞭解如何設定</a>。
 <br/>
 <li>您是否接受<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat產品管理員</a>邀請？ 在您的Marketo Engage執行個體中啟用Dynamic Chat且您被指定為系統管理員時，會傳送電子郵件。
 <br/>     如果沒有，請在收件匣中尋找歡迎電子郵件，並接受邀請以設定您的Adobe ID。</li>   

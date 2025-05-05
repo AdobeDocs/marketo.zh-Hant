@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本4C {#template-4c}
 
-按一下滑鼠右鍵以[下載範本4C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)
+按一下滑鼠右鍵以[下載範本4C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html?lang=zh-Hant)
 
 ![](assets/image2015-7-28-16-3a32-3a2.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本4C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)
+[範本4C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html?lang=zh-Hant)

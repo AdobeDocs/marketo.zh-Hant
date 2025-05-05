@@ -187,7 +187,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->具名帳戶清單名稱旁方括弧內的數字會作為網頁Personalization [讀取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)清單的索引參考。
+>具名帳戶清單名稱旁方括弧內的數字會作為網頁Personalization [讀取API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/web-personalization)清單的索引參考。
 
 **排除ISP**
 
@@ -286,7 +286,7 @@ Web Personalization與您的Marketo資料庫整合，可讓您依據已知的個
 
 **使用者內容API**
 
-網頁Personalization API呼叫[請在此閱讀更多相關資訊。](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+網頁Personalization API呼叫[請在此閱讀更多相關資訊。](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

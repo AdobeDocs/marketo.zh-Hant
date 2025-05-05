@@ -16,7 +16,7 @@ Dynamic Chat可讓您運用易用的介面，將目標同時鎖定於造訪您�
 
 >[!TIP]
 >
->造訪[此頁面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"}以檢視Dynamic Chat的教學課程影片。
+>造訪[此頁面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=zh-Hant){target="_blank"}以檢視Dynamic Chat的教學課程影片。
 
 ## 整合 {#integrations}
 
@@ -88,7 +88,7 @@ Adobe Dynamic Chat中的[產生式AI](/help/marketo/product-docs/demand-generati
 
 ## Dynamic Chat資料保留限制 {#dynamic-chat-data-retention-limits}
 
-以下是Dynamic Chat中的部分限制/引數。 如需完整清單，請參閱Marketo Engage[產品說明頁面](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}。
+以下是Dynamic Chat中的部分限制/引數。 如需完整清單，請參閱Marketo Engage[產品說明頁面](https://helpx.adobe.com/tw/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}。
 
 <table>
   <th>資料類型</th>

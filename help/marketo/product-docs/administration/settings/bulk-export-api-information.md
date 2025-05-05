@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 大量匯出API資訊 {#bulk-export-api-information}
 
-瞭解如何檢查您的Marketo Engage執行個體過去七天佔用了多少[大量擷取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}容量。
+瞭解如何檢查您的Marketo Engage執行個體過去七天佔用了多少[大量擷取API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}容量。
 
 >[!NOTE]
 >

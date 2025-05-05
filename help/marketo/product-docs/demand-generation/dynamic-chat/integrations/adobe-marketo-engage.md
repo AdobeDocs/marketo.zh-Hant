@@ -18,7 +18,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Dynamic Chat支援同步[Marketo原生](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}和自訂人員欄位和公司欄位。
+>Dynamic Chat支援同步[Marketo原生](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}和自訂人員欄位和公司欄位。
 
 1. 在「我的Marketo」中，按一下&#x200B;**[!UICONTROL Dynamic Chat]**&#x200B;圖磚。
 
@@ -28,7 +28,7 @@ ht-degree: 2%
    >
    >如果沒有看見圖磚，請聯絡您的Marketo管理員。
 
-1. 如果您先前曾透過Adobe ID存取應用程式，您將會直接Dynamic Chat。 如果沒有，[請設定您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}。
+1. 如果您先前曾透過Adobe ID存取應用程式，您將會直接Dynamic Chat。 如果沒有，[請設定您的Adobe ID](https://helpx.adobe.com/tw/manage-account/using/create-update-adobe-id.html){target="_blank"}。
 
 1. 若要連線您的Marketo執行個體，請選取&#x200B;**[!UICONTROL 整合]**。
 
