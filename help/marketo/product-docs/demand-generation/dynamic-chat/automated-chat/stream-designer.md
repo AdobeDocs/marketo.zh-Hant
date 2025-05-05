@@ -109,7 +109,7 @@ ht-degree: 2%
 
    ![](assets/stream-designer-6.png)
 
-1. 拖放&#x200B;_[!UICONTROL Question]_卡片。
+1. 拖放&#x200B;_[!UICONTROL Question]_&#x200B;卡片。
 
    ![](assets/stream-designer-7.png)
 

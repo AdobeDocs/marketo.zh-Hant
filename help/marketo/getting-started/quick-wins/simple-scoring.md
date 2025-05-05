@@ -60,7 +60,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您以表單](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速成功完成[登陸頁面，您應該有表單。 如果您的表單使用不同的名稱，請選取該名稱。
+   >如果您以表單[&#128279;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速成功完成登陸頁面，您應該有表單。 如果您的表單使用不同的名稱，請選取該名稱。
 
 1. 按一下「**[!UICONTROL 流量]**」標籤。
 

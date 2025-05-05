@@ -57,7 +57,7 @@ Marketo **方案成員**&#x200B;及其&#x200B;**[進度狀態](/help/marketo/pro
 
 ## 我可以使用Marketo變更行銷活動會員狀態嗎？ {#can-i-change-campaign-member-status-using-marketo}
 
-是，使用SFDC促銷活動流程動作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}中的[變更狀態。
+是，使用SFDC促銷活動流程動作[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}中的變更狀態。
 
 ## 為什麼我看不到任何Salesforce行銷活動？ {#why-cant-i-see-any-of-my-salesforce-campaigns}
 

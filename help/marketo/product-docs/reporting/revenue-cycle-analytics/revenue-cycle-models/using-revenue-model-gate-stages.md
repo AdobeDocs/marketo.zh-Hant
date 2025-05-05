@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 編輯閘道階段 {#edit-a-gate-stage}
 
-編輯「名稱」、「說明」，並調整「閘道」階段的「型別」。 您也可以選擇依帳戶](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)開始追蹤[。
+編輯「名稱」、「說明」，並調整「閘道」階段的「型別」。 您也可以選擇依帳戶[&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)開始追蹤。
 
 1. 按一下&#x200B;**閘道**&#x200B;階段圖示。
 

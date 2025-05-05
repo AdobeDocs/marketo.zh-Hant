@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/recommended-templates-2.png)
 
-1. 在[建議的範本]卡片中，按一下[編輯]。****
+1. 在[建議的範本]卡片中，按一下[編輯]。**&#x200B;**
 
    ![](assets/recommended-templates-3.png)
 

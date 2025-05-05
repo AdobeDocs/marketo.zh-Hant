@@ -93,7 +93,7 @@ ht-degree: 0%
 
    ![](assets/add-sales-insight-permission-set-2.png)
 
-1. 在[所有使用者]下，選取您要提供存取權的使用者，然後按一下[許可權集指派] ****。
+1. 在[所有使用者]下，選取您要提供存取權的使用者，然後按一下[許可權集指派] **&#x200B;**。
 
    ![](assets/add-sales-insight-permission-set-3.png)
 

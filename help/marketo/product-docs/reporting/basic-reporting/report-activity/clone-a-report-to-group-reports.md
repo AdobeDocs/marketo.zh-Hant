@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 將報表複製到群組報表 {#clone-a-report-to-group-reports}
 
-**我的報表**中的所有報表僅對您可見。 如果您希望讓其他所有人都能存取報告，該怎麼做？ 以下提供相關操作說明：
+**我的報表**&#x200B;中的所有報表僅對您可見。 如果您希望讓其他所有人都能存取報告，該怎麼做？ 以下提供相關操作說明：
 
 1. 在&#x200B;**Analytics**&#x200B;區域中，按一下所需的[儲存的報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)。
 

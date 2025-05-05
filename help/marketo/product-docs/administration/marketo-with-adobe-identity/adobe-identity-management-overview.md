@@ -21,7 +21,7 @@ ht-degree: 0%
 對於上架到Adobe身分的訂閱，Adobe Admin Console會用於使用者管理。 身分相關概念（例如單一登入）也會在Admin Console中管理。
 
 * 尋找有關[Adobe Admin Console](https://helpx.adobe.com/tw/enterprise/using/admin-console.html){target="_blank"}的詳細資訊。
-* 尋找與Marketo訂閱](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}相關的[設定Adobe組織的詳細資訊。
+* 尋找與Marketo訂閱[&#128279;](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}相關的設定Adobe組織的詳細資訊。
 
 >[!NOTE]
 >

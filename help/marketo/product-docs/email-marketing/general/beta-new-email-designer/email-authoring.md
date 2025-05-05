@@ -233,7 +233,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
    >
    >「遞補文字」是預設值的新編輯器辭彙。 範例： ``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
 
-1. 設定您的遞補文字，然後按一下[新增]。****
+1. 設定您的遞補文字，然後按一下[新增]。**&#x200B;**
 
    ![](assets/authoring-personalize-content-4.png)
 
@@ -315,9 +315,9 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 在新編輯器中建立電子郵件後，您可以在「智慧行銷活動」和/或「智慧列示」中參考該電子郵件，操作方法與使用任何其他電子郵件時相同。
 
-* 依照一般步驟](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，由[在智慧清單中參照它。
+* 依照一般步驟[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，由在智慧清單中參照它。
 
-* 按照一般步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，由[在Smart Campaign中參考它。
+* 按照一般步驟[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，由在Smart Campaign中參考它。
 
 >[!NOTE]
 >

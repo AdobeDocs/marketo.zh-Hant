@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. 按一下「**使用者存取**」標籤。 選取一或多個使用者，然後按一下[連線]。****
+1. 按一下「**使用者存取**」標籤。 選取一或多個使用者，然後按一下[連線]。**&#x200B;**
 
    ![](assets/grant-marketo-access-to-users-3.png)
 

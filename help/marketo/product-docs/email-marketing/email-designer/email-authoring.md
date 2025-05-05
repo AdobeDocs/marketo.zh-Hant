@@ -194,7 +194,7 @@ ht-degree: 1%
 >
 >如果您希望片段佔據電子郵件內的整個水準版面，請新增1:1欄結構，然後將片段拖放至其中。
 
-儲存電子郵件後，它會顯示在片段詳細資訊頁面的&#x200B;_[!UICONTROL Used By]_標籤中。 新增到電子郵件範本的片段在範本中無法編輯；來源片段會定義內容。
+儲存電子郵件後，它會顯示在片段詳細資訊頁面的&#x200B;_[!UICONTROL Used By]_&#x200B;標籤中。 新增到電子郵件範本的片段在範本中無法編輯；來源片段會定義內容。
 
 ### 新增Assets {#add-assets}
 
@@ -226,13 +226,13 @@ ht-degree: 1%
 
 1. 直接在畫布中選取結構元件中的欄，或使用左側顯示的&#x200B;_導覽樹狀結構_。
 
-1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_工具並選擇您要編輯的工具。
+1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_&#x200B;工具並選擇您要編輯的工具。
 
-   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;索引標籤中。
+   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_&#x200B;和_[!UICONTROL Styles]_&#x200B;索引標籤中。
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL Styles]_標籤，並根據您的需求加以變更：
+1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL Styles]_&#x200B;標籤，並根據您的需求加以變更：
 
    * 針對&#x200B;**[!UICONTROL Background]**，視需要變更背景顏色。
 
@@ -271,7 +271,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
    >
    >「遞補文字」是預設值的新編輯器辭彙。 範例： ``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
 
-1. 設定您的遞補文字，然後按一下[新增]。****
+1. 設定您的遞補文字，然後按一下[新增]。**&#x200B;**
 
    ![](assets/authoring-personalize-content-4.png)
 
@@ -353,9 +353,9 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 電子郵件Designer電子郵件可在電子郵件、參與、預設和事件程式中存取（互動式網路研討會程式除外）。 如果您在Design Studio中建立電子郵件，則可像使用任何其他電子郵件一樣，從「智慧行銷活動」和/或「智慧清單」參考該電子郵件。
 
-* 依照一般步驟](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，由[在智慧清單中參照它。
+* 依照一般步驟[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，由在智慧清單中參照它。
 
-* 按照一般步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，由[在Smart Campaign中參考它。
+* 按照一般步驟[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，由在Smart Campaign中參考它。
 
 >[!NOTE]
 >

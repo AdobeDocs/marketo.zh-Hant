@@ -58,7 +58,7 @@ ht-degree: 2%
 
    ![](assets/adobe-marketo-engage-6.png)
 
-1. 選取您要新增的屬性，然後按一下[下一步] ****。
+1. 選取您要新增的屬性，然後按一下[下一步] **&#x200B;**。
 
    ![](assets/adobe-marketo-engage-7.png)
 

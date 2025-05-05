@@ -24,7 +24,7 @@ ht-degree: 1%
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. 在[整合]下，按一下[Salesforce] **，然後按一下[同步處理錯誤]]**&#x200B;索引標籤。****[!UICONTROL 
+1. 在[整合]下，按一下[Salesforce] **，然後按一下[同步處理錯誤]**&#x200B;索引標籤。**&#x200B;**
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -52,6 +52,6 @@ ht-degree: 1%
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**選擇性步驟**：若要匯出同步處理錯誤，請按一下[匯出]。**** 資料將會匯出為CSV檔。
+**選擇性步驟**：若要匯出同步處理錯誤，請按一下[匯出]。**&#x200B;** 資料將會匯出為CSV檔。
 
 ![](assets/salesforce-sync-errors-5.png)

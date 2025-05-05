@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/enable-campaign-sync-2.png)
 
-1. 在[同步選項]下，按一下[編輯]。****
+1. 在[同步選項]下，按一下[編輯]。**&#x200B;**
 
    ![](assets/enable-campaign-sync-3.png)
 

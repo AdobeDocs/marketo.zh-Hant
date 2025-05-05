@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 自訂Javascript程式碼並將其內嵌至您的網站  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-請參閱Marketo開發人員網站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}上Rich Media Recommendation範本[的檔案。 以下說明如何自訂網站的範本。
+請參閱Marketo開發人員網站[&#128279;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}上Rich Media Recommendation範本的檔案。 以下說明如何自訂網站的範本。
 
 將JavaScript程式碼貼入網站中您要顯示範本的位置。
 

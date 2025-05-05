@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >會出現哪些智慧型行銷活動？ 具有「已要求Campaign」觸發器的事件。 瞭解如何使用「要求行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)」設定[觸發的行銷活動。
+   >會出現哪些智慧型行銷活動？ 具有「已要求Campaign」觸發器的事件。 瞭解如何使用「要求行銷活動[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)」設定觸發的行銷活動。
 
 酷，現在您的銷售人員可以積極參與行銷工作。
 

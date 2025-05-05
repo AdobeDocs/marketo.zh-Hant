@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->如果您正在訂閱中建立已上線到Adobe身分識別的「僅限API使用者」，則您的步驟不同，您可在此處](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}找到[。
+>如果您正在訂閱中建立已上線到Adobe身分識別的「僅限API使用者」，則您的步驟不同，您可在此處[&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}找到。
 
 >[!PREREQUISITES]
 >

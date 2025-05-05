@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/delete-person-from-sfdc-2.png)
 
-1. 請確定Marketo ]**中的**[!UICONTROL &#x200B;刪除&#x200B;**[!UICONTROL false]**&#x200B;設定，然後按一下&#x200B;**[!UICONTROL 立即執行]**。
+1. 請確定Marketo **中的**&#x200B;刪除&#x200B;**[!UICONTROL false]**&#x200B;設定，然後按一下&#x200B;**[!UICONTROL 立即執行]**。
 
    ![](assets/delete-person-from-sfdc-3.png)
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果您將Marketo ]**中的**[!UICONTROL &#x200B;刪除設定為&#x200B;**[!UICONTROL true]**，並從Marketo中刪除人員和Salesforce的銷售機會，則為永久性刪除。 此動作無法還原。
+   >如果您將Marketo **中的**&#x200B;刪除設定為&#x200B;**[!UICONTROL true]**，並從Marketo中刪除人員和Salesforce的銷售機會，則為永久性刪除。 此動作無法還原。

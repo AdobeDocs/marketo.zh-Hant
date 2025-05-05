@@ -109,7 +109,7 @@ ht-degree: 1%
 
    ![](assets/save-search-1.png)
 
-1. 提供搜尋名稱，然後按一下[儲存]。****
+1. 提供搜尋名稱，然後按一下[儲存]。**&#x200B;**
 
    ![](assets/save-search-2.png)
 

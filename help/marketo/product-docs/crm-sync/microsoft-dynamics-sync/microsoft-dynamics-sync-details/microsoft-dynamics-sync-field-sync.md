@@ -31,7 +31,7 @@ Dynamics同步的Marketo Engage功能非常強大。 詳情如下。
 
 ## 我在Dynamics中建立了一個欄位。 我可以將其同步至Marketo嗎？ {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-可以，只要您的同步使用者在Dynamics中擁有欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"}的存取權，您就可以[同步欄位。
+可以，只要您的同步使用者在Dynamics中擁有欄位[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"}的存取權，您就可以同步欄位。
 
 ## 哪些欄位會同步至Marketo？ {#what-fields-will-sync-to-marketo}
 

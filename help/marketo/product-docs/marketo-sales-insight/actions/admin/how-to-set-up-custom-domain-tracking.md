@@ -36,6 +36,6 @@ ht-degree: 0%
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 
-1. 在[自訂網域追蹤]索引標籤中，輸入您的CNAME並按一下[連線]。****
+1. 在[自訂網域追蹤]索引標籤中，輸入您的CNAME並按一下[連線]。**&#x200B;**
 
    ![](assets/how-to-set-up-custom-domain-tracking-3.png)

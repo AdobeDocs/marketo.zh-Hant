@@ -83,13 +83,13 @@ ht-degree: 1%
 
 ![](assets/advanced-search-overview-9.png)
 
-_**狀態：已傳送**_
+_&#x200B;**狀態：已傳送**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
 依您傳送的電子郵件活動篩選。 您可以選擇檢視/沒有檢視、點選/沒有點選，和/或回覆/沒有回覆。
 
-_**狀態：擱置中**_
+_&#x200B;**狀態：擱置中**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ _**狀態：擱置中**_
  </tr>
 </table>
 
-_**狀態：未傳遞**_
+_&#x200B;**狀態：未傳遞**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 
@@ -147,7 +147,7 @@ _**狀態：未傳遞**_
 
    ![](assets/advanced-search-overview-13.png)
 
-1. 提供搜尋名稱，然後按一下[儲存]。****
+1. 提供搜尋名稱，然後按一下[儲存]。**&#x200B;**
 
    ![](assets/advanced-search-overview-14.png)
 

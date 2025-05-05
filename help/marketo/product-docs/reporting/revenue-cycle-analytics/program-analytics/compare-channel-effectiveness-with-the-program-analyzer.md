@@ -41,7 +41,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可在程式分析器中選擇的許多量度，都適用於首次接觸(FT)和多點接觸(MT)計算。 瞭解FT和MT歸因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)之間的[差異很重要。
+   >您可在程式分析器中選擇的許多量度，都適用於首次接觸(FT)和多點接觸(MT)計算。 瞭解FT和MT歸因[&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)之間的差異很重要。
 
 1. 使用&#x200B;**Y軸**&#x200B;下拉式清單來選擇已建立的&#x200B;**(MT)管道**。
 

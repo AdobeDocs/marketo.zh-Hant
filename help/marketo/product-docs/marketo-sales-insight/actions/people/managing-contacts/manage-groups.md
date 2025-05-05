@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/manage-groups-1.png)
 
-1. 為群組命名，然後按一下[建立]。****
+1. 為群組命名，然後按一下[建立]。**&#x200B;**
 
    ![](assets/manage-groups-2.png)
 

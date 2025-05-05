@@ -54,4 +54,4 @@ ht-degree: 0%
 
 1. 如果您&#x200B;_尚未_&#x200B;登入，新的索引標籤/視窗中將會出現快顯視窗。 登入您的Adobe組織（此動作會驗證組織存取權）。
 
-就是這樣！ 您現在可以[與共用對象資料](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"}，或從Adobe Experience Cloud同步對象](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}。[
+就是這樣！ 您現在可以[與共用對象資料](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"}，或從Adobe Experience Cloud同步對象[&#128279;](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}。

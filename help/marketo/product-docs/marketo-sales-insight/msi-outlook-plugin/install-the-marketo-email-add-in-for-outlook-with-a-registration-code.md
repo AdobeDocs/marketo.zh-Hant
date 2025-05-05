@@ -90,7 +90,7 @@ ht-degree: 1%
    >
    >如果安裝失敗，請洽詢您的IT部門，以確保不會封鎖HTTPS流量。 安裝程式需要開啟HTTPS流量。
 
-1. 按一下[下一步]****&#x200B;以安裝在預設位置。
+1. 按一下[下一步]&#x200B;**&#x200B;**&#x200B;以安裝在預設位置。
 
    ![](assets/select-installation-folder-hand.png)
 

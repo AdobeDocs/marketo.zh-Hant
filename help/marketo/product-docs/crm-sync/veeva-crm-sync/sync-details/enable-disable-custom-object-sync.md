@@ -24,11 +24,11 @@ ht-degree: 0%
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. 如果這是您的第一個自訂物件，請按一下「同步結構描述」。 如果沒有，請按一下[重新整理結構描述]****，確保您有最新的結構描述。
+1. 如果這是您的第一個自訂物件，請按一下「同步結構描述」。 如果沒有，請按一下[重新整理結構描述]&#x200B;**&#x200B;**，確保您有最新的結構描述。
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. 如果您的全域同步正在執行，請按一下[停用全域同步] ****&#x200B;來停用它。
+1. 如果您的全域同步正在執行，請按一下[停用全域同步] **&#x200B;**&#x200B;來停用它。
 
    ![](assets/enable-disable-custom-object-sync-3.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
-1. 返回[Veeva]索引標籤，然後按一下[啟用同步]。****
+1. 返回[Veeva]索引標籤，然後按一下[啟用同步]。**&#x200B;**
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 

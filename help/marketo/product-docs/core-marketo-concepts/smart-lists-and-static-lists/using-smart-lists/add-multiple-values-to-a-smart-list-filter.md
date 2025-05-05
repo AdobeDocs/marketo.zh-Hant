@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-3.png)
 
-1. 您可以從左邊選擇值，或直接在右邊輸入值，然後按一下[確定]。****
+1. 您可以從左邊選擇值，或直接在右邊輸入值，然後按一下[確定]。**&#x200B;**
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-4.png)
 

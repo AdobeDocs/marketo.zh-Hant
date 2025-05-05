@@ -77,7 +77,7 @@ ht-degree: 0%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
-1. 輸入新名稱和Api名稱，然後按一下[儲存]。****
+1. 輸入新名稱和Api名稱，然後按一下[儲存]。**&#x200B;**
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 

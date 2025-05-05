@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/create-delete-edit-and-change-a-user-role-3.png)
 
-1. 命名您的新角色，檢查您要授與角色相關之使用者的所有許可權，然後按一下[建立]。****
+1. 命名您的新角色，檢查您要授與角色相關之使用者的所有許可權，然後按一下[建立]。**&#x200B;**
 
    ![](assets/create-delete-edit-and-change-a-user-role-4.png)
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
    ![](assets/create-delete-edit-and-change-a-user-role-12.png)
 
-1. 進行所有需要的變更，然後按一下[儲存]。****
+1. 進行所有需要的變更，然後按一下[儲存]。**&#x200B;**
 
    ![](assets/create-delete-edit-and-change-a-user-role-13.png)
 
@@ -117,7 +117,7 @@ ht-degree: 0%
 
    ![](assets/create-delete-edit-and-change-a-user-role-16.png)
 
-1. 取消核取上一個角色，選取新角色，然後按一下[儲存]。****
+1. 取消核取上一個角色，選取新角色，然後按一下[儲存]。**&#x200B;**
 
    ![](assets/create-delete-edit-and-change-a-user-role-17.png)
 

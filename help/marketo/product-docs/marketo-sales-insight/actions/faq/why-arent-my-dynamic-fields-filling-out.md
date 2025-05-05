@@ -22,7 +22,7 @@ Sales Insight Actions中有三種動態欄位型別： Basic、Custom和Salesfor
 
 Salesforce欄位：例如`{{sfdc_account_name}}`
 
-* 請確定它與Sales Insight動作有正確連線。 移至[設定](https://toutapp.com/login{target="_blank"}頁面，然後按一下您CRM旁的&#x200B;**管理**。
+* 請確定它與Sales Insight動作有正確連線。 移至[設定] (https://toutapp.com/login{target="_blank"}頁面，然後按一下您CRM旁的&#x200B;**管理**。
 
 **基本和自訂欄位疑難排解**
 

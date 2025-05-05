@@ -37,7 +37,7 @@ Sales Connect會在瀏覽器中儲存Cookie，以防止在從Outlook Web App和G
 
    ![](assets/win-2.png)
 
-1. 在[Outlook選項]對話方塊中，按一下[信任中心] ****。
+1. 在[Outlook選項]對話方塊中，按一下[信任中心] **&#x200B;**。
 
    ![](assets/win-3.png)
 
@@ -45,15 +45,15 @@ Sales Connect會在瀏覽器中儲存Cookie，以防止在從Outlook Web App和G
 
    ![](assets/win-4.png)
 
-1. 按一下左側功能表中的[自動下載]，然後選取[不要自動下載HTML電子郵件或RSS專案中的圖片]核取方塊&#x200B;****。
+1. 按一下左側功能表中的[自動下載]，然後選取[不要自動下載HTML電子郵件或RSS專案中的圖片]核取方塊&#x200B;**&#x200B;**。
 
    ![](assets/win-5.png)
 
-1. 在[信任中心]對話方塊中，按一下[確定]。****
+1. 在[信任中心]對話方塊中，按一下[確定]。**&#x200B;**
 
    ![](assets/win-6.png)
 
-1. 在[Outlook選項]對話方塊中，按一下[確定]。****
+1. 在[Outlook選項]對話方塊中，按一下[確定]。**&#x200B;**
 
    ![](assets/win-6.png)
 

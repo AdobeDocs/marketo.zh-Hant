@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/setting-an-event-cap-2.png)
 
-1. 輸入您想註冊活動的人數上限，然後按一下[下一步] ****。
+1. 輸入您想註冊活動的人數上限，然後按一下[下一步] **&#x200B;**。
 
    ![](assets/setting-an-event-cap-3.png)
 

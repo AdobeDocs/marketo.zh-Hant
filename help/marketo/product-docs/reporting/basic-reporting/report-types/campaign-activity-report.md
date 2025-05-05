@@ -29,7 +29,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->若要尋找處理最多人員的行銷活動，例如，依&#x200B;_處理的總人數_&#x200B;排序您的報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}，並選擇&#x200B;**遞減排序**。[
+>若要尋找處理最多人員的行銷活動，例如，依&#x200B;_處理的總人數_&#x200B;排序您的報表[&#128279;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}，並選擇&#x200B;**遞減排序**。
 
 **[您可以為行銷活動報告包含](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)欄**：
 

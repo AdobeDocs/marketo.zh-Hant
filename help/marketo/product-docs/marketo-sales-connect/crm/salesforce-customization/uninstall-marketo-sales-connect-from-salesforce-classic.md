@@ -89,7 +89,7 @@ ht-degree: 6%
 
    ![](assets/uninstall-salesforce-classic-customization-package-13.png)
 
-1. 選取&#x200B;**新增至MSC Campaign (Classic)**、**使用MSC (Classic)的電子郵件**&#x200B;和&#x200B;**推送至MSC (Classic)**，然後按一下[移除]箭頭。 然後按一下[儲存]。****
+1. 選取&#x200B;**新增至MSC Campaign (Classic)**、**使用MSC (Classic)的電子郵件**&#x200B;和&#x200B;**推送至MSC (Classic)**，然後按一下[移除]箭頭。 然後按一下[儲存]。**&#x200B;**
 
    ![](assets/uninstall-salesforce-classic-customization-package-14.png)
 
@@ -111,7 +111,7 @@ ht-degree: 6%
 
 1. 在左側導覽的建置下方，展開（但不按一下）自訂，然後展開機會。 然後，選取&#x200B;**頁面配置**。
 
-1. 在[機會配置]旁，按一下[編輯]。****
+1. 在[機會配置]旁，按一下[編輯]。**&#x200B;**
 
 1. 從所有三個區段重複步驟。
 
@@ -125,7 +125,7 @@ ht-degree: 6%
 
 1. 在左側導覽的建置下方，展開（但不按一下）自訂，然後展開帳戶。 然後，選取&#x200B;**頁面配置**。
 
-1. 在[帳戶配置]旁邊，按一下[編輯]。****
+1. 在[帳戶配置]旁邊，按一下[編輯]。**&#x200B;**
 
 1. 從所有三個區段重複步驟。
 
@@ -139,7 +139,7 @@ ht-degree: 6%
 
 1. 按一下&#x200B;**自訂我的標籤**。
 
-1. 從右側選取「Marketo銷售寄件匣」選項。 按一下[移除]箭頭，然後按一下[儲存]。****。
+1. 從右側選取「Marketo銷售寄件匣」選項。 按一下[移除]箭頭，然後按一下[儲存]。**&#x200B;**。
 
 ## 刪除Sales Connect封裝 {#delete-sales-connect-package}
 

@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/add-an-attachment-or-trackable-content-3.png)
 
-1. 選取您要附加的檔案，然後按一下[插入]。****
+1. 選取您要附加的檔案，然後按一下[插入]。**&#x200B;**
 
    ![](assets/add-an-attachment-or-trackable-content-4.png)
 

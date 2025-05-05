@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![影像三](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-3.png)
 
-1. 輸入應用程式內訊息的名稱、提供選擇性說明，然後按一下[建立]。****
+1. 輸入應用程式內訊息的名稱、提供選擇性說明，然後按一下[建立]。**&#x200B;**
 
    ![影像四](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-4.png)
 

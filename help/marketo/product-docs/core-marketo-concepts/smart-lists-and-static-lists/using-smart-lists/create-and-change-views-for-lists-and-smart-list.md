@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-2.png)
 
-1. 新增/移除您想要的資料行，然後按一下[建立]。****
+1. 新增/移除您想要的資料行，然後按一下[建立]。**&#x200B;**
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-3.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-6.png)
 
-1. 進行您想要的變更，然後按一下[儲存]。****
+1. 進行您想要的變更，然後按一下[儲存]。**&#x200B;**
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-7.png)
 

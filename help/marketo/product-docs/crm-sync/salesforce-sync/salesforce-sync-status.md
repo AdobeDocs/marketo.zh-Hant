@@ -48,7 +48,7 @@ ht-degree: 4%
 
    ![](assets/salesforce-sync-status-6.png)
 
-**選擇性步驟**：若要匯出同步處理錯誤，請按一下[匯出]。**** 資料將會匯出為CSV檔。
+**選擇性步驟**：若要匯出同步處理錯誤，請按一下[匯出]。**&#x200B;** 資料將會匯出為CSV檔。
 
 ![](assets/salesforce-sync-status-7.png)
 

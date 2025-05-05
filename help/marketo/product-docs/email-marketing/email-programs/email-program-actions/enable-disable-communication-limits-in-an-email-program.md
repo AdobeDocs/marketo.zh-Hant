@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->通訊限制在管理員區段](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)中設定為[，可協助您避免傳送過多電子郵件給某人。
+>通訊限制在管理員區段[&#128279;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)中設定為，可協助您避免傳送過多電子郵件給某人。
 
 1. 移至&#x200B;**行銷活動**。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/blockoperational.png)
 
-1. 根據預設，如果達到通訊限制，則會封鎖非作業電子郵件，但如果您要略過這些限制，請清除核取方塊並按一下[儲存]。****
+1. 根據預設，如果達到通訊限制，則會封鎖非作業電子郵件，但如果您要略過這些限制，請清除核取方塊並按一下[儲存]。**&#x200B;**
 
    ![](assets/ifaperson.jpg)
 

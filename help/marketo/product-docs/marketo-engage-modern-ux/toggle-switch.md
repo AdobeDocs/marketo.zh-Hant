@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ![](assets/toggle-switch-6.png)
 
-選取「啟用所有可用功能」****，然後按一下「確定」****。
+選取「啟用所有可用功能」**&#x200B;**，然後按一下「確定」**&#x200B;**。
 
 ![](assets/toggle-switch-7.png)
 

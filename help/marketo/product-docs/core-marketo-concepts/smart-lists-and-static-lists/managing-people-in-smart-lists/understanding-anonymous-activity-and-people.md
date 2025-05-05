@@ -31,7 +31,7 @@ ht-degree: 0%
 
 在下列情況下，匿名活動會合併至新的或現有人員：
 
-* 按一下Marketo電子郵件](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}中的[連結。
+* 按一下Marketo電子郵件[&#128279;](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}中的連結。
 * 填寫Marketo [表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}。
 * 使用Marketo的[SOAP](/help/marketo/product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md){target="_blank"}或[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} API （適用於開發人員），將匿名人員與已知記錄建立關聯。
 

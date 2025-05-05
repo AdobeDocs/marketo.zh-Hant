@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/salesforce-diagnostics-1.png)
 
-1. 在[整合]下，按一下[診斷]。****。
+1. 在[整合]下，按一下[診斷]。**&#x200B;**。
 
    ![](assets/salesforce-diagnostics-2.png)
 
@@ -64,9 +64,9 @@ ht-degree: 0%
 **疑難排解步驟：**&#x200B;請參閱上文。
 
 **錯誤：** EXPIRED_Access
-**類別：**驗證
+**類別：**&#x200B;驗證
 **訊息：** invalid_grant：存取權/重新整理權杖已過期
-**發生狀況：**&#x200B;存取或重新整理Token已過期。 Token會根據Salesforce](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)中的[工作階段設定而到期。
+**發生狀況：**&#x200B;存取或重新整理Token已過期。 Token會根據Salesforce[&#128279;](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)中的工作階段設定而到期。
 **疑難排解步驟：**&#x200B;您需要重新驗證。 中斷Salesforce連線並重新連線。
 
 **錯誤：** FAILED_WRITE\
@@ -76,9 +76,9 @@ ht-degree: 0%
 **疑難排解步驟：**&#x200B;重試邏輯應該處理這個問題。 如果仍無法正常運作，請與Salesforce管理員合作，疑難排解有問題的觸發器。
 
 **錯誤：** FIELD_CUSTOM_VALIDATION_EXCEPTION
-**類別：**存取/驗證
-**訊息：**因客戶而異。
-**發生狀況：**物件的自訂驗證規則失敗。
+**類別：**&#x200B;存取/驗證
+**訊息：**&#x200B;因客戶而異。
+**發生狀況：**&#x200B;物件的自訂驗證規則失敗。
 **疑難排解步驟：**&#x200B;檢查造成此錯誤的自訂驗證規則。 由於這是自訂規則，因此必須一次性處理錯誤。
 
 **錯誤：** FIELD_FILTER_VALIDATION_EXCEPTION\
@@ -96,11 +96,11 @@ ht-degree: 0%
 **錯誤：** INACTIVE_ORGANIZATION\
 **類別：**&#x200B;驗證\
 **訊息：** invalid_grant：非使用中組織\
-**發生狀況：**您的Salesforce組織已不在作用中。
+**發生狀況：**&#x200B;您的Salesforce組織已不在作用中。
 **疑難排解步驟：**&#x200B;中斷連線，然後從Salesforce重新連線。
 
-**錯誤：**非使用中使用者
-**類別：**驗證
+**錯誤：**&#x200B;非使用中使用者
+**類別：**&#x200B;驗證
 **訊息：** invalid_grant：非使用中的使用者
 **發生狀況：** Salesforce使用者已不在作用中
 **疑難排解步驟：**&#x200B;中斷連線，然後從Salesforce重新連線。
@@ -112,14 +112,14 @@ ht-degree: 0%
 **疑難排解步驟：**&#x200B;等到系統維護完成後再重試記錄。
 
 **錯誤：** INSUFFICIENT_ACCESS_ON_CROSS_REFERENCE_ENTITY
-**類別：**存取/驗證
-**訊息：**物件識別碼的存取許可權不足
-**正在發生的事情：**無法存取任務的父記錄。
+**類別：**&#x200B;存取/驗證
+**訊息：**&#x200B;物件識別碼的存取許可權不足
+**正在發生的事情：**&#x200B;無法存取任務的父記錄。
 **疑難排解步驟：**&#x200B;請參閱上文。
 
 **錯誤：** INSUFFICIENT_ACCESS_OR_READONLY\
-**類別：**存取/驗證
-**訊息：**物件識別碼的存取許可權不足
+**類別：**&#x200B;存取/驗證
+**訊息：**&#x200B;物件識別碼的存取許可權不足
 **發生狀況：**&#x200B;最近活動記錄無法編輯特定記錄，因為使用者沒有寫入許可權。\
 **疑難排解步驟：**&#x200B;在Salesforce中授與使用者存取權，或停用該使用者最近活動的記錄。
 
@@ -131,7 +131,7 @@ ht-degree: 0%
 
 **錯誤：** INVALID_FIELD_FOR_INSERT_UPDATE\
 **類別：**&#x200B;存取/驗證\
-**訊息：**無法建立/更新欄位： MSE_Replied__c。請檢查此欄位的安全性設定。
+**訊息：**&#x200B;無法建立/更新欄位： MSE_Replied__c。請檢查此欄位的安全性設定。
 **發生狀況：**&#x200B;使用者沒有執行「最近活動」記錄交易所需的「銷售分析動作」自訂欄位的寫入許可權。 Team可能已經安裝封裝，但尚未為使用者啟用正確的欄位。\
 **疑難排解步驟：** Salesforce管理員必須授與自訂欄位的存取權，或關閉最近活動記錄。
 
@@ -180,7 +180,7 @@ ht-degree: 0%
 
 **錯誤：** TXN_SECURITY_NO_ACCESS\
 **類別：**&#x200B;存取/驗證\
-**訊息：**由於貴組織有安全性原則，因此不允許您要求的作業。 請連絡您的管理員。
+**訊息：**&#x200B;由於貴組織有安全性原則，因此不允許您要求的作業。 請連絡您的管理員。
 **發生狀況：**&#x200B;已設定某種安全性限制 — 請參閱https://developer.salesforce.com/forums/?id=記錄識別碼\
 **疑難排解步驟：**&#x200B;請洽詢您的Salesforce系統管理員，並瞭解可能的具體限制。
 

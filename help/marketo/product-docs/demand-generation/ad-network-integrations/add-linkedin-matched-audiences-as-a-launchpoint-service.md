@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. 若要連線LinkedIn帳戶，請按一下[授權]。****
+1. 若要連線LinkedIn帳戶，請按一下[授權]。**&#x200B;**
 
    ![](assets/authorizeaccount.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
-1. 檢閱要求的許可權，然後按一下[允許]。****
+1. 檢閱要求的許可權，然後按一下[允許]。**&#x200B;**
 
    ![](assets/li-permissions.png)
 

@@ -27,7 +27,7 @@ Marketo效能深入分析可協助您最佳化通路組合，以發揮最大效�
 
 ## 貢獻 {#contribution}
 
-評估行銷對收入](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)的[貢獻，作為客戶贏取、影響力、轉換，甚至安裝基礎增長的函式。
+評估行銷對收入[&#128279;](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)的貢獻，作為客戶贏取、影響力、轉換，甚至安裝基礎增長的函式。
 
 ![](assets/two.png)
 

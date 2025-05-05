@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/get-set-up-and-add-a-person-7.png)
 
-1. 輸入您的名字和姓氏、電子郵件地址和公司名稱，然後按一下[建立]，將您新增為個人。****
+1. 輸入您的名字和姓氏、電子郵件地址和公司名稱，然後按一下[建立]，將您新增為個人。**&#x200B;**
 
    ![](assets/get-set-up-and-add-a-person-8.png)
 

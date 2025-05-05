@@ -43,6 +43,7 @@ Google Universal Analytics搭配RTP的資料，可讓您更瞭解B2B使用者如
    1. 選取&#x200B;**帳戶。**
    1. 選取&#x200B;**屬性。**
    1. 選取&#x200B;**自訂定義**&#x200B;和&#x200B;**自訂Dimension**。
+
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. 新增自訂維度。 按一下&#x200B;**+新增自訂Dimension**

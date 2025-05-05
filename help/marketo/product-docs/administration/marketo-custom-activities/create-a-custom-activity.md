@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-activity-3.png)
 
-1. 輸入名稱及選用的[!UICONTROL 描述]，然後按一下[下一步]****。 API名稱會自動填滿，但您可以加以自訂。
+1. 輸入名稱及選用的[!UICONTROL 描述]，然後按一下[下一步]&#x200B;**&#x200B;**。 API名稱會自動填滿，但您可以加以自訂。
 
    ![](assets/create-a-custom-activity-4.png)
 

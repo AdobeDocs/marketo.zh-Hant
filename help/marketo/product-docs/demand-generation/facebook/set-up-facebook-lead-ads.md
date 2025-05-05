@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. 若要接受預設的Facebook與Marketo欄位對應，只要按一下[建立]。****
+1. 若要接受預設的Facebook與Marketo欄位對應，只要按一下[建立]。**&#x200B;**
 
    >[!TIP]
    >

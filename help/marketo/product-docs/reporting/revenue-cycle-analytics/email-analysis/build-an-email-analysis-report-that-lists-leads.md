@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/report-that-lists-leads-2.png)
 
-1. 選取[電子郵件分析]，然後按一下[確定]。****
+1. 選取[電子郵件分析]，然後按一下[確定]。**&#x200B;**
 
    ![](assets/report-that-lists-leads-3.png)
 

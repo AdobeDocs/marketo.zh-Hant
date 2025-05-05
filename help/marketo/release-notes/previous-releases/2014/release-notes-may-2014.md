@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ## 方案會員資格分析中的方案狀態和成功時間範圍 {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-檢視每個方案狀態](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)中的[成員數目以及他們變更到每個狀態的時間，包括他們取得方案成功的日期。
+檢視每個方案狀態[&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)中的成員數目以及他們變更到每個狀態的時間，包括他們取得方案成功的日期。
 
 ## 電子郵件分析中的A/B測試電子郵件 {#a-b-test-emails-in-email-analysis}
 

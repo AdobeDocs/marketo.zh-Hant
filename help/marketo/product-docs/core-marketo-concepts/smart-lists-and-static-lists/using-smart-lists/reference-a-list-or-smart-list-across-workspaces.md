@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >如果Assets巢狀內嵌於資料夾中，只能跨工作區共用。
 
-1. 為資料夾命名，然後按一下[建立]。****
+1. 為資料夾命名，然後按一下[建立]。**&#x200B;**
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 

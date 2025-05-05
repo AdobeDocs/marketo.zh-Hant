@@ -69,7 +69,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->個人可能符合不同區段的資格，但最終僅屬於一個依賴區段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)的[優先順序的區段。
+>個人可能符合不同區段的資格，但最終僅屬於一個依賴區段[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)的優先順序的區段。
 
 >[!NOTE]
 >

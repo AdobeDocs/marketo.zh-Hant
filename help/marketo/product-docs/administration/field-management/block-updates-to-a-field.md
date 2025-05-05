@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >您也可以封鎖[程式成員自訂欄位](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)的更新。
 
-1. 選取您要封鎖的&#x200B;**[!UICONTROL 輸入來源]**，然後按一下[套用]。****
+1. 選取您要封鎖的&#x200B;**[!UICONTROL 輸入來源]**，然後按一下[套用]。**&#x200B;**
 
    ![](assets/block-updates-to-a-field-4.png)
 

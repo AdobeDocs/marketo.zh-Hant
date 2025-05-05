@@ -133,7 +133,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-12.png)
 
-1. 命名您的目標（或選擇現有的目標），然後按一下[儲存]。****
+1. 命名您的目標（或選擇現有的目標），然後按一下[儲存]。**&#x200B;**
 
    ![](assets/stream-designer-13.png)
 
@@ -157,7 +157,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-17.png)
 
-1. 輸入聊天機器人訊息和預留位置。 確定屬性已對應到Marketo Engage中的適當欄位，然後按一下[儲存]。****
+1. 輸入聊天機器人訊息和預留位置。 確定屬性已對應到Marketo Engage中的適當欄位，然後按一下[儲存]。**&#x200B;**
 
    ![](assets/stream-designer-18.png)
 
@@ -184,7 +184,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-19.png)
 
-1. 命名您的目標（或選擇現有的目標），然後按一下[儲存]。****
+1. 命名您的目標（或選擇現有的目標），然後按一下[儲存]。**&#x200B;**
 
    ![](assets/stream-designer-20.png)
 

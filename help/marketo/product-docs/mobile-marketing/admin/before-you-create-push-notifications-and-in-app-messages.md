@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. 開發人員[會產生Android的伺服器API金鑰和專案編號](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS的憑證和密碼](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios)，並將其傳送給Marketo管理員。
 
-1. Marketo管理員使用伺服器API金鑰(Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)設定推播通知存取[，或使用憑證(iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)設定[。
+1. Marketo管理員使用伺服器API金鑰(Android) [&#128279;](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)設定推播通知存取[，或使用憑證(iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)設定。
 
 >[!TIP]
 >

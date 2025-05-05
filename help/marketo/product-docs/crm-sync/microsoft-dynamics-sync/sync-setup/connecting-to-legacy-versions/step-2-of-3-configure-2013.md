@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您沒有看到角色，請返回3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md){target="_blank"}的[步驟1並匯入解決方案。
+   >如果您沒有看到角色，請返回3[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md){target="_blank"}的步驟1並匯入解決方案。
 
    >[!NOTE]
    >

@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/content-discovery-categories-hand.png)
 
-1. 會顯示現有的類別標籤。 輸入新的類別標籤，然後按一下[新建] ****。
+1. 會顯示現有的類別標籤。 輸入新的類別標籤，然後按一下[新建] **&#x200B;**。
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 

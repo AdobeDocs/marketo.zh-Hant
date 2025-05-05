@@ -44,7 +44,7 @@ ht-degree: 0%
 | [!UICONTROL Facebook贊] | 此頁面共用在[!DNL Facebook]上的點按次數。 |
 | [!UICONTROL Facebook點按次數] | 來自[!DNL Facebook share]的點按次數。 |
 
-## 頁面針對]最佳化的[!UICONTROL 關鍵字 {#keyword-s-that-page-is-optimized-for}
+## 頁面針對最佳化的關鍵字 {#keyword-s-that-page-is-optimized-for}
 
 您可以[在此選取要針對](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)最佳化網頁的關鍵字。
 

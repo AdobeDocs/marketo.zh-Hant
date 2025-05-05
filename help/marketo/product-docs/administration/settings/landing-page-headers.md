@@ -32,11 +32,11 @@ ht-degree: 0%
 
 <table>
  <tr>
-  <td><strong>[！UICONTROL Strict-Transport-Security]</strong></td>
+  <td><strong>[!UICONTROL Strict-Transport-Security]</strong></td>
   <td>使用此專案來保證登陸頁面的連線一律會透過HTTPS提供（應僅針對具有SSL安全保護的登陸頁面的訂閱設定）</td>
  </tr>
  <tr>
-  <td><strong>[！UICONTROL X-Frame-Options]</strong></td>
+  <td><strong>[!UICONTROL X-Frame-Options]</strong></td>
   <td>可讓您定義是否可將Marketo Engage託管資產內嵌在外部網頁中</td>
  </tr>
 </table>

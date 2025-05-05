@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/managing-tag-values-5.png)
 
-1. 新增剩餘的值，然後按一下[建立]。****
+1. 新增剩餘的值，然後按一下[建立]。**&#x200B;**
 
    ![](assets/managing-tag-values-6.png)
 

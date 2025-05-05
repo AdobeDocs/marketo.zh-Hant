@@ -45,13 +45,13 @@ ht-degree: 0%
 
    ![](assets/enable-no-draft-for-snippets-5.png)
 
-1. 展開&#x200B;**[!UICONTROL 核准程式碼片段]**&#x200B;許可權，並勾選&#x200B;**[!UICONTROL No-Draft]**&#x200B;方塊。 然後按一下[儲存]。****
+1. 展開&#x200B;**[!UICONTROL 核准程式碼片段]**&#x200B;許可權，並勾選&#x200B;**[!UICONTROL No-Draft]**&#x200B;方塊。 然後按一下[儲存]。**&#x200B;**
 
    ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
->若要停用無草稿，請依照上述步驟1-4，清除[無草稿]核取方塊，然後按一下[儲存]****。
+>若要停用無草稿，請依照上述步驟1-4，清除[無草稿]核取方塊，然後按一下[儲存]&#x200B;**&#x200B;**。
 
 >[!MORELIKETHIS]
 >

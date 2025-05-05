@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/login-management-settings-1.png)
 
-1. 在[管理設定]下，按一下[一般] ****。
+1. 在[管理設定]下，按一下[一般] **&#x200B;**。
 
    ![](assets/login-management-settings-2.png)
 

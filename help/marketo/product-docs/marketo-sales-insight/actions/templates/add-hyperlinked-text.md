@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. 輸入您希望連結的URL （亦即`https://experienceleague.adobe.com/docs/marketo/using/home.html`）。 選擇您要在相同或新視窗中開啟URL，然後按一下[儲存]。****
+1. 輸入您希望連結的URL （亦即`https://experienceleague.adobe.com/docs/marketo/using/home.html`）。 選擇您要在相同或新視窗中開啟URL，然後按一下[儲存]。**&#x200B;**
 
    ![](assets/add-hyperlinked-text-4.png)
 

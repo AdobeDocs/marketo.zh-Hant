@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
-1. 輸入您想從追蹤和報告中排除的個別IP或範圍，然後按一下[儲存]。****
+1. 輸入您想從追蹤和報告中排除的個別IP或範圍，然後按一下[儲存]。**&#x200B;**
 
    ![](assets/exclude-ips-form-hands.png)
 

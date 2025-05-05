@@ -36,7 +36,7 @@ Marketo電子郵件語法只適用於範本和個別電子郵件；如果內嵌�
 
 ## RTF文字 {#rich-text}
 
-如果您將區域定義為RTF格式，使用者將可以使用Marketo的RTF編輯器](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)編輯其內容[。 在電子郵件範本內定義RTF元素有兩個方法： mktEditable和mktoText。 請記住，RTF元素永遠都可以在電子郵件編輯器中轉換為程式碼片段。
+如果您將區域定義為RTF格式，使用者將可以使用Marketo的RTF編輯器[&#128279;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)編輯其內容。 在電子郵件範本內定義RTF元素有兩個方法： mktEditable和mktoText。 請記住，RTF元素永遠都可以在電子郵件編輯器中轉換為程式碼片段。
 
 ### 選項1 - mktEditable {#option-mkteditable}
 

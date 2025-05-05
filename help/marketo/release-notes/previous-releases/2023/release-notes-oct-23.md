@@ -65,4 +65,4 @@ ht-degree: 1%
 
 * **Marketo EngageForms jQuery 1.x**：在2024年1月版本中，我們將將FormsMarketo Engage的jQuery更新為jQuery 3.x。這可能會影響依賴舊版jQuery的自訂表單實施。 [在這裡瞭解更多](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705#M2597){target="_blank"}。
 
-* **棄用Marketo事件和Marketo時刻**：Adobe是從2023年10月2日起從所有應用程式商店移除Marketo事件和Marketo時刻](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。 [現有使用者 — 您可以繼續使用這些應用程式，直到您將您的Marketo Engage執行個體移轉至Adobe身分識別為止。 這些應用程式不支援使用Adobe ID登入。
+* **棄用Marketo事件和Marketo時刻**：Adobe是從2023年10月2日起從所有應用程式商店移除Marketo事件和Marketo時刻[&#128279;](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。 現有使用者 — 您可以繼續使用這些應用程式，直到您將您的Marketo Engage執行個體移轉至Adobe身分識別為止。 這些應用程式不支援使用Adobe ID登入。

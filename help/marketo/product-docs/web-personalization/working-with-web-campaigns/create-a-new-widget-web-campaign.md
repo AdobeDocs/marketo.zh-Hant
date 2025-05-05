@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 建立新的Widget Web行銷活動 {#create-a-new-widget-web-campaign}
 
-網路行銷活動是與特定區段關聯的自訂反應，可以是您網站上的[對話方塊](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、區域取代](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的[、Widget功能或電子郵件警示。 Widget網路促銷活動是出現在網頁垂直側的文字或橫幅，能夠展開和收縮，同時在整個造訪期間都固定在網站頁面上。
+網路行銷活動是與特定區段關聯的自訂反應，可以是您網站上的[對話方塊](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、區域取代[&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的、Widget功能或電子郵件警示。 Widget網路促銷活動是出現在網頁垂直側的文字或橫幅，能夠展開和收縮，同時在整個造訪期間都固定在網站頁面上。
 
 ## 建立Widget Web行銷活動 {#create-a-widget-web-campaign}
 

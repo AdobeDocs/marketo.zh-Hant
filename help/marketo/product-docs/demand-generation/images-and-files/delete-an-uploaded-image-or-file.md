@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/delete-an-uploaded-image-or-file-3.png)
 
-1. 確認您已選取正確的檔案，然後按一下[刪除]。****
+1. 確認您已選取正確的檔案，然後按一下[刪除]。**&#x200B;**
 
    ![](assets/delete-an-uploaded-image-or-file-4.png)
 

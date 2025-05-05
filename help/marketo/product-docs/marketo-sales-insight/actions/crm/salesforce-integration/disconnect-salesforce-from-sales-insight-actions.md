@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
-1. 在[連線與自訂]索引標籤中，按一下[中斷連線]。****
+1. 在[連線與自訂]索引標籤中，按一下[中斷連線]。**&#x200B;**
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
@@ -40,6 +40,6 @@ ht-degree: 0%
 
 PICC
 
-1. 在[連線與自訂]索引標籤中，按一下[中斷連線]。****
+1. 在[連線與自訂]索引標籤中，按一下[中斷連線]。**&#x200B;**
 
 PICC

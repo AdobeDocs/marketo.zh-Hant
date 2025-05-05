@@ -45,7 +45,7 @@ ht-degree: 0%
    >
    >您也可以[編輯表單主題的CSS](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)。
 
-1. 按一下[下一步]****&#x200B;設定其他表單選項，或按一下[完成]**** （如果您只想變更表單主題）。
+1. 按一下[下一步]&#x200B;**&#x200B;**&#x200B;設定其他表單選項，或按一下[完成]&#x200B;**&#x200B;** （如果您只想變更表單主題）。
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 

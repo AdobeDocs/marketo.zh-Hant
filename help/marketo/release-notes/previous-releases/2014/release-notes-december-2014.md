@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## facebook自訂對象 {#facebook-custom-audiences}
 
-一旦您的Marketo管理員透過「管理員> Launchpoint」新增[Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)，您就可以輕鬆地建立、更新或將Facebook自訂對象取代為Marketo靜態或智慧清單中的潛在客戶](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 [在任何靜態或智慧清單的銷售機會格線底部尋找新的Facebook圖示。
+一旦您的Marketo管理員透過「管理員> Launchpoint」新增[Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)，您就可以輕鬆地建立、更新或將Facebook自訂對象取代為Marketo靜態或智慧清單中的潛在客戶[&#128279;](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任何靜態或智慧清單的銷售機會格線底部尋找新的Facebook圖示。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 

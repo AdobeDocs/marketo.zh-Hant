@@ -52,7 +52,7 @@ ht-degree: 0%
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. 為資料夾命名，然後按一下[建立]。****
+1. 為資料夾命名，然後按一下[建立]。**&#x200B;**
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. 選取您要共用資料夾的工作區，然後按一下[儲存]。**** 「共用資料夾」對話方塊只會顯示您有檢視許可權的工作區。
+1. 選取您要共用資料夾的工作區，然後按一下[儲存]。**&#x200B;** 「共用資料夾」對話方塊只會顯示您有檢視許可權的工作區。
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 

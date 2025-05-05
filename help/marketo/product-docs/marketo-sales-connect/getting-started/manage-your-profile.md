@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/manage-your-profile-1.png)
 
-1. 您的「我的設定檔」頁面預設會開啟。 若要更新您的名稱，只要輸入變更並按一下[儲存]。****
+1. 您的「我的設定檔」頁面預設會開啟。 若要更新您的名稱，只要輸入變更並按一下[儲存]。**&#x200B;**
 
    ![](assets/manage-your-profile-2.png)
 

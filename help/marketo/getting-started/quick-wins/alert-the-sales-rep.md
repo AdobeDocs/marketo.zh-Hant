@@ -107,7 +107,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >每次&#x200B;]**（透過編輯Smart Campaign）將**[!UICONTROL &#x200B;資格規則&#x200B;]**設為**[!UICONTROL &#x200B;可允許同一人多次觸發警示。
+   >每次&#x200B;**（透過編輯Smart Campaign）將**&#x200B;[!UICONTROL &#x200B;資格規則&#x200B;]&#x200B;**設為**&#x200B;可允許同一人多次觸發警示。
 
 1. 在確認畫面上按一下&#x200B;**[!UICONTROL 啟動]**。
 

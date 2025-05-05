@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 啟動/暫停網站行銷活動 {#launch-pause-a-web-campaign}
 
-網路行銷活動是與特定區段關聯的自訂反應，可以是您網站上的[對話方塊](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、區域取代](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的[、Widget功能或電子郵件警示。
+網路行銷活動是與特定區段關聯的自訂反應，可以是您網站上的[對話方塊](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、區域取代[&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的、Widget功能或電子郵件警示。
 
 您可以從網站行銷活動頁面或設定網站行銷活動頁面，以兩種方式啟動或暫停網站行銷活動。
 

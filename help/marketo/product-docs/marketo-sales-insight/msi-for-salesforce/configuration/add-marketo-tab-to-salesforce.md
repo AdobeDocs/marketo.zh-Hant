@@ -16,7 +16,7 @@ ht-degree: 0%
 
    ![](assets/add-marketo-tab-to-salesforce-1.png)
 
-1. 在左側清單中選取Marketo 。 然後按一下[新增]****，將其新增至&#x200B;**選取的索引標籤**。
+1. 在左側清單中選取Marketo 。 然後按一下[新增]&#x200B;**&#x200B;**，將其新增至&#x200B;**選取的索引標籤**。
 
    >[!TIP]
    >

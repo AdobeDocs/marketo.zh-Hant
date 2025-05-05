@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/organize-your-images-and-files-using-folders-2.png)
 
-1. 為資料夾命名，然後按一下[建立]。****
+1. 為資料夾命名，然後按一下[建立]。**&#x200B;**
 
    ![](assets/organize-your-images-and-files-using-folders-3.png)
 

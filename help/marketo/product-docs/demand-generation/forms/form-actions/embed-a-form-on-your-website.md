@@ -35,7 +35,7 @@ Marketo可讓您將我們的表單內嵌在您自己的網站上。 以下說明
    >
    >在您自己的頁面&#x200B;_或_ Marketo登陸頁面上使用表單內嵌程式碼時，**[表單預填](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)**&#x200B;無法運作。 只有在Marketo登陸頁面透過「插入元素」選項使用表單時，「表單預填」才能運作。
 
-1. 選取/複製內嵌程式碼，然後按一下[關閉]。****
+1. 選取/複製內嵌程式碼，然後按一下[關閉]。**&#x200B;**
 
    ![](assets/image2014-9-15-12-3a12-3a31.png)
 

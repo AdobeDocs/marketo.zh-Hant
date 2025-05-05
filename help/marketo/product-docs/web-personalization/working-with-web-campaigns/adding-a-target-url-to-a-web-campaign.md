@@ -57,8 +57,8 @@ ht-degree: 0%
 >[!NOTE]
 >
 >* 對話方塊和Widget網頁行銷活動可以使用任何頁面和萬用字元(&#42;)選項。
-* 在進階使用案例中，在區域中網路行銷活動可在URL路徑末端使用萬用字元。 範例： [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
-* URL區分大小寫
+>* 在進階使用案例中，在區域中網路行銷活動可在URL路徑末端使用萬用字元。 範例： [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+>* URL區分大小寫
 
 ## 為區域網路行銷活動新增目標URL {#adding-a-target-url-for-in-zone-web-campaigns}
 
@@ -74,12 +74,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   具有「在區域中」的目標URL必須定義一或多個URL。 在進階使用案例中，在區域中網路行銷活動可在URL路徑末端使用萬用字元。 範例： [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+   >具有「在區域中」的目標URL必須定義一或多個URL。 在進階使用案例中，在區域中網路行銷活動可在URL路徑末端使用萬用字元。 範例： [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
 >
-* [建立對話方塊行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [在區域行銷活動中建立RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [建立RTP Widget行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [建立對話方塊行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [在區域行銷活動中建立RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [建立RTP Widget行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

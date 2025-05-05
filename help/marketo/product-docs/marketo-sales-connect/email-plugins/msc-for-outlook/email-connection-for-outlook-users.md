@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/five-a.png)
 
-1. 選取您正在使用的Outlook版本，然後按一下[下一步] ****。 在此範例中，我們選擇Outlook Online。
+1. 選取您正在使用的Outlook版本，然後按一下[下一步] **&#x200B;**。 在此範例中，我們選擇Outlook Online。
 
    ![](assets/six-a.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/seven-a.png)
 
-1. 如果您尚未登入Outlook，請輸入您的登入資訊，然後按一下[下一步] ****。 如果是，請選擇您要連線的帳戶，然後按一下[下一步] ****。 在此範例中，我們已登入。
+1. 如果您尚未登入Outlook，請輸入您的登入資訊，然後按一下[下一步] **&#x200B;**。 如果是，請選擇您要連線的帳戶，然後按一下[下一步] **&#x200B;**。 在此範例中，我們已登入。
 
    ![](assets/eight-a.png)
 
@@ -106,7 +106,7 @@ ht-degree: 0%
 
    ![](assets/five-a.png)
 
-1. 選取您正在使用的Outlook版本，然後按一下[下一步] ****。 在此範例中，我們選擇Exchange On-premise。
+1. 選取您正在使用的Outlook版本，然後按一下[下一步] **&#x200B;**。 在此範例中，我們選擇Exchange On-premise。
 
    ![](assets/six-b.png)
 

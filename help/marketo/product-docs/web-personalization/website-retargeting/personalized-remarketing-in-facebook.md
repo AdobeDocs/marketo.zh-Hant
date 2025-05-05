@@ -18,7 +18,7 @@ ht-degree: 1%
 >[!PREREQUISITES]
 >
 >* 完成使用Web Personalization資料重新鎖定目標的[設定](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* 檢閱關於自訂對象](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)和再行銷的[](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook檔案。
+>* 檢閱關於自訂對象[&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)和再行銷的[&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebook檔案。
 
 ## 在Facebook中建立對象 {#creating-an-audience-in-facebook}
 

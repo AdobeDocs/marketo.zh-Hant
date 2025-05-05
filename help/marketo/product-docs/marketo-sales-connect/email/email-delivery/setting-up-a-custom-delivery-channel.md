@@ -75,7 +75,7 @@ Marketo Sales Connect可讓您整合自訂SMTP伺服器，以傳送您的電子�
 
    ![](assets/setting-up-a-custom-delivery-channel-9.png)
 
-1. 在[管理設定]下，按一下[一般] ****。
+1. 在[管理設定]下，按一下[一般] **&#x200B;**。
 
    ![](assets/setting-up-a-custom-delivery-channel-10.png)
 

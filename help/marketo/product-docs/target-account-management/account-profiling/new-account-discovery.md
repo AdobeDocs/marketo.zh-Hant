@@ -57,7 +57,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >若要將其儲存到現有的帳戶清單，請選取該選項，按一下下拉式清單並選取所需的[帳戶清單]，然後按一下[下一步]****。
+   >若要將其儲存到現有的帳戶清單，請選取該選項，按一下下拉式清單並選取所需的[帳戶清單]，然後按一下[下一步]&#x200B;**&#x200B;**。
 
 1. 按一下&#x200B;**保存**。
 
@@ -73,4 +73,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >儲存帳戶後，您可以使用LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)上的[相符對象來鎖定這些帳戶。
+   >儲存帳戶後，您可以使用LinkedIn[&#128279;](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)上的相符對象來鎖定這些帳戶。

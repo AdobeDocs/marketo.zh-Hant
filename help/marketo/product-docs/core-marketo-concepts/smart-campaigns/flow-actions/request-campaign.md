@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/request-campaign-2.png)
 
-1. 選取您希望人員進入的行銷活動，然後按一下[立即執行] ****。
+1. 選取您希望人員進入的行銷活動，然後按一下[立即執行] **&#x200B;**。
 
    ![](assets/request-campaign-3.png)
 

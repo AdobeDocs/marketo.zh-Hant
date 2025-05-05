@@ -18,7 +18,7 @@ ht-degree: 0%
 
    ![](assets/enable-call-recording-1.png)
 
-1. 在[管理設定]下，按一下[撥號器]。****
+1. 在[管理設定]下，按一下[撥號器]。**&#x200B;**
 
    ![](assets/enable-call-recording-2.png)
 

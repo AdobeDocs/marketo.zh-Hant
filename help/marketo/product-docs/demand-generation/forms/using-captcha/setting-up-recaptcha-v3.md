@@ -44,7 +44,7 @@ ReCAPTCHA v3是一款順暢的體驗，可依據提交表單的可疑程度為�
 
 1. 選擇型別&#x200B;**reCAPTCHA v3**。 Marketo Engage目前不支援reCAPTCHA v2。
 
-1. 新增Marketo Engage訂閱使用的每個網域。 若未在此處設定網域，則會在啟用reCAPTCHA的表單上傳回錯誤。 請記得將&#39;datacenter&#39;和&#39;munchkinID&#39;取代為您訂閱](#retrieve-your-data-center-and-munchkin-id)中的[資料。
+1. 新增Marketo Engage訂閱使用的每個網域。 若未在此處設定網域，則會在啟用reCAPTCHA的表單上傳回錯誤。 請記得將&#39;datacenter&#39;和&#39;munchkinID&#39;取代為您訂閱[&#128279;](#retrieve-your-data-center-and-munchkin-id)中的資料。
 
    * app-datacenter.marketo.com
    * munchkinID.mktoweb.com
@@ -68,7 +68,7 @@ ReCAPTCHA v3是一款順暢的體驗，可依據提交表單的可疑程度為�
 
 >[!IMPORTANT]
 >
->按照這些步驟操作，並在第一個Marketo表單](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}中[啟用驗證碼後，請務必立即測試表單，因為reCAPTCHA設定中的任何錯誤設定都會破壞表單。
+>按照這些步驟操作，並在第一個Marketo表單[&#128279;](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}中啟用驗證碼後，請務必立即測試表單，因為reCAPTCHA設定中的任何錯誤設定都會破壞表單。
 
 1. 在Marketo中，按一下&#x200B;**管理員**。
 

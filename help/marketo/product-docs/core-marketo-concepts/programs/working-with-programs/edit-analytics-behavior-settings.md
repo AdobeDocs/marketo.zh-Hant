@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 編輯Analytics行為設定 {#edit-analytics-behavior-settings}
 
-您可以在頻道](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}的管理員層級設定[分析行為，但您也可以在方案層級進行編輯。 方法如下。
+您可以在頻道[&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}的管理員層級設定分析行為，但您也可以在方案層級進行編輯。 方法如下。
 
 1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
 

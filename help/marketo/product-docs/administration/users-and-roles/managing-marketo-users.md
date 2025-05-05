@@ -75,7 +75,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果要刪除的使用者也是Dynamic Chat使用者，您必須先從Admin Console的Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"}中[移除這些使用者，才能在Marketo Engage中刪除它們。
+>如果要刪除的使用者也是Dynamic Chat使用者，您必須先從Admin Console的Dynamic Chat[&#128279;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"}中移除這些使用者，才能在Marketo Engage中刪除它們。
 
 1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 

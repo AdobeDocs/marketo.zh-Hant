@@ -37,7 +37,7 @@ ht-degree: 0%
 
    * **[!UICONTROL URL]**：輸入您在向Web服務提出的要求中使用的URL。 若要在您的要求中插入權杖，例如人員的電子郵件地址(**`{{lead.Email Address}}`**)，請按一下[插入Token] **[!UICONTROL 。]**
 
-   * **[!UICONTROL 範本]**：如果您想要在要求內文中傳輸資訊，請透過裝載範本輸入。 允許用於以下請求型別的範本：POST、DELETE、PATCH或PUT。 您可以使用JSON或XML等資料格式。 若要在範本中插入權杖，請按一下[插入Token] ****。
+   * **[!UICONTROL 範本]**：如果您想要在要求內文中傳輸資訊，請透過裝載範本輸入。 允許用於以下請求型別的範本：POST、DELETE、PATCH或PUT。 您可以使用JSON或XML等資料格式。 若要在範本中插入權杖，請按一下[插入Token] **&#x200B;**。
 
    * **[!UICONTROL 要求權杖編碼]**：如果權杖值包含特殊字元（例如&amp;符號、&#39;&amp;&#39;），請指出您要求的格式（**JSON**&#x200B;或&#x200B;**表單/URL**）。
 

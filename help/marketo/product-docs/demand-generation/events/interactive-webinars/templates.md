@@ -56,7 +56,7 @@ ht-degree: 0%
 
    ![](assets/templates-for-interactive-webinars-9.png)
 
-1. 在[標準範本]索引標籤中，選取所需的範本，然後按一下[下一步] ****。
+1. 在[標準範本]索引標籤中，選取所需的範本，然後按一下[下一步] **&#x200B;**。
 
    ![](assets/templates-for-interactive-webinars-10.png)
 

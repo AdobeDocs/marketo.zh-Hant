@@ -22,7 +22,7 @@ ht-degree: 0%
 
 若要開始安裝，您必須先取得定義您服務的OpenAPI檔案的URL。 您的服務提供者應該能夠提供此資訊給您，而且通常會有以`/openapi.json`結尾的URL。 完整的URL看起來會類似`https://www.example.com/OpenAPI.json`。 有了此URL後，請前往「管理員」區段中的「服務提供者」功能表。
 
-按一下[下一步]****，移至[輸入服務認證]區段。
+按一下[下一步]&#x200B;**&#x200B;**，移至[輸入服務認證]區段。
 
 ![](assets/flow-step-service-1.png)
 

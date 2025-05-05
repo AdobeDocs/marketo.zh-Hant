@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/change-your-marketo-password-3.png)
 
-1. 輸入舊密碼與新密碼，然後按一下[儲存]。****
+1. 輸入舊密碼與新密碼，然後按一下[儲存]。**&#x200B;**
 
    ![](assets/change-your-marketo-password-4.png)
 

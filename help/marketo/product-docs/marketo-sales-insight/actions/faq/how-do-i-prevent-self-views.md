@@ -34,7 +34,7 @@ Marketo銷售人員會在您的瀏覽器中儲存Cookie，以防止在從Outlook
 
    ![](assets/how-do-i-prevent-self-views-2.png)
 
-1. 在[Outlook選項]對話方塊中，按一下[信任中心] ****。
+1. 在[Outlook選項]對話方塊中，按一下[信任中心] **&#x200B;**。
 
    ![](assets/how-do-i-prevent-self-views-3.png)
 
@@ -42,15 +42,15 @@ Marketo銷售人員會在您的瀏覽器中儲存Cookie，以防止在從Outlook
 
    ![](assets/how-do-i-prevent-self-views-4.png)
 
-1. 按一下左側功能表中的[自動下載]，然後選取[不要自動下載HTML電子郵件或RSS專案中的圖片]核取方塊&#x200B;****。
+1. 按一下左側功能表中的[自動下載]，然後選取[不要自動下載HTML電子郵件或RSS專案中的圖片]核取方塊&#x200B;**&#x200B;**。
 
    ![](assets/how-do-i-prevent-self-views-5.png)
 
-1. 在[信任中心]對話方塊中，按一下[確定]。****
+1. 在[信任中心]對話方塊中，按一下[確定]。**&#x200B;**
 
    ![](assets/how-do-i-prevent-self-views-6.png)
 
-1. 在[Outlook選項]對話方塊中，按一下[確定]。****
+1. 在[Outlook選項]對話方塊中，按一下[確定]。**&#x200B;**
 
    ![](assets/how-do-i-prevent-self-views-7.png)
 

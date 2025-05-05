@@ -52,9 +52,9 @@ ht-degree: 0%
    >* 顯示URL應為網域的路徑
    >* 請勿包含https://或https://
    >* 使用萬用字元&#42;
-   * 使用分號作為分隔符號
-   * 範例： /contact_us&#42;； &#42;動作=登出&#42;
-   * 此欄位區分大小寫
+   >* 使用分號作為分隔符號
+   >* 範例： /contact_us&#42;； &#42;動作=登出&#42;
+   >* 此欄位區分大小寫
 
 ## 建議列考量事項 {#recommendation-bar-considerations}
 
@@ -65,4 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
-[啟用Web Rich Media的預測內容](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>[啟用Web Rich Media的預測內容](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

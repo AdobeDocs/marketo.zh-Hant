@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
-1. 進行變更，然後按一下[儲存]。****
+1. 進行變更，然後按一下[儲存]。**&#x200B;**
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-3.png)
 

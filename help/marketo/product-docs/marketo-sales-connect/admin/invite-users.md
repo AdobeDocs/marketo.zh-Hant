@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/invite-team-members-3.png)
 
-1. 輸入您要新增之個人的電子郵件地址，然後按一下[下一步] ****。
+1. 輸入您要新增之個人的電子郵件地址，然後按一下[下一步] **&#x200B;**。
 
    ![](assets/four.png)
 

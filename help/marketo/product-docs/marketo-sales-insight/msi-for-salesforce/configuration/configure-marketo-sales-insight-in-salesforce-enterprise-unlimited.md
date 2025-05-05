@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4.png)
 
-1. 當您看到確認對話方塊時，請按一下[確定]。****
+1. 當您看到確認對話方塊時，請按一下[確定]。**&#x200B;**
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5.png)
 

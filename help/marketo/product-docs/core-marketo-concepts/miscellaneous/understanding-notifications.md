@@ -28,7 +28,7 @@ ht-degree: 0%
 
 您可以訂閱通知，以便在電子郵件中接收這些通知。
 
-1. 移至[通知]並按一下[訂閱]。****
+1. 移至[通知]並按一下[訂閱]。**&#x200B;**
 
    ![](assets/understanding-notifications-3.png)
 

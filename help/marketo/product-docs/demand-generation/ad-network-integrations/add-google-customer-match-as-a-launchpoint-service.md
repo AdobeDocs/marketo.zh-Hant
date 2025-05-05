@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/chooseservice.png)
 
-1. 若要連線Google AdWords帳戶，請按一下[授權]。****
+1. 若要連線Google AdWords帳戶，請按一下[授權]。**&#x200B;**
 
    ![](assets/authorizeaccount-1.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/chooseaccount.png)
 
-1. 檢閱要求的許可權，然後按一下[允許]。****
+1. 檢閱要求的許可權，然後按一下[允許]。**&#x200B;**
 
    ![](assets/reviewpermissions.png)
 

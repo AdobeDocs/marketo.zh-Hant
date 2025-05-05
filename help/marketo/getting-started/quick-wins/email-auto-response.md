@@ -94,7 +94,7 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-16.png)
 
-1. 每次選取&#x200B;****&#x200B;並按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 每次選取&#x200B;**&#x200B;**&#x200B;並按一下&#x200B;**[!UICONTROL 儲存]**。
 
    ![](assets/email-auto-response-17.png)
 
@@ -112,7 +112,7 @@ ht-degree: 0%
 
 ## 步驟3：填寫表單 {#step-fill-out-the-form}
 
-1. 選取&#x200B;**我的頁面** （這是使用表單](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速入選在[登陸頁面中建立的）並按一下&#x200B;**[!UICONTROL 預覽]**。
+1. 選取&#x200B;**我的頁面** （這是使用表單[&#128279;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速入選在登陸頁面中建立的）並按一下&#x200B;**[!UICONTROL 預覽]**。
 
    ![](assets/email-auto-response-20.png)
 

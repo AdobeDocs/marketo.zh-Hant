@@ -23,7 +23,7 @@ Marketo提供[目標帳戶管理](/help/marketo/product-docs/target-account-mana
 
    * **注意**：同步處理最多可能需要5分鐘
 
-* 在Web Personalization中，您可以從您在TAM中建立的帳戶清單](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)建立目標帳戶的[區段，並個人化這些帳戶的內容
+* 在Web Personalization中，您可以從您在TAM中建立的帳戶清單[&#128279;](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)建立目標帳戶的區段，並個人化這些帳戶的內容
 
 ## 針對現有ABWM客戶 {#for-existing-abwm-customers}
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 建立網站行銷活動，即時個人化您的網站內容，並在適當的時間向適當的使用者提供適當的訊息。
 
-網路行銷活動是與特定區段相關聯的自訂反應。 回應可以是您網站上的對話方塊、區域取代](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的[、[Widget功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或電子郵件警示。
+網路行銷活動是與特定區段相關聯的自訂反應。 回應可以是您網站上的對話方塊、區域取代[&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的、[Widget功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或電子郵件警示。
 
 1. 前往&#x200B;**網路行銷活動**。
 

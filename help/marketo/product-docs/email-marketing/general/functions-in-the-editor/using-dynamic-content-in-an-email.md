@@ -41,7 +41,7 @@ ht-degree: 0%
    >
    >您也可以將電子郵件內的元素設為動態。 若要這麼做，請選取區域、按一下齒輪圖示，然後選取&#x200B;**建立動態** （或[以程式碼片段取代](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)，視您正在執行的動作而定）。
 
-1. 輸入區段名稱，選取該名稱，然後按一下[儲存]。****
+1. 輸入區段名稱，選取該名稱，然後按一下[儲存]。**&#x200B;**
 
    ![](assets/1.4.png)
 

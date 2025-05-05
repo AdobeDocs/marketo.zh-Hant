@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您在Marketo for Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}中輸入的[認證可用來同步資料。 只有這些認證有權存取的資料才會包括在內。
+>您在Marketo for Salesforce[&#128279;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}中輸入的認證可用來同步資料。 只有這些認證有權存取的資料才會包括在內。
 
 ## 我可以起始機會同步處理嗎？ {#can-i-initiate-an-opportunity-sync}
 

@@ -76,7 +76,7 @@ Adobe Dynamic Chat中的[產生式AI](/help/marketo/product-docs/demand-generati
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. 選擇您的新語言（第二種語言是選擇性的），然後按一下[儲存]。****
+1. 選擇您的新語言（第二種語言是選擇性的），然後按一下[儲存]。**&#x200B;**
 
    ![](assets/dynamic-chat-overview-3.png)
 

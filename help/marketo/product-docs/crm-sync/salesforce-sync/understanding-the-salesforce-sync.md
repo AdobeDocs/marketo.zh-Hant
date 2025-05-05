@@ -40,6 +40,6 @@ Salesforce和Marketo之間的同步只適用於潛在客戶、聯絡人和Salesf
 
 >[!NOTE]
 >
->您在Marketo for Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}中輸入的[認證可用來同步資料。 只有這些認證有權存取的資料才會包括在內。
+>您在Marketo for Salesforce[&#128279;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}中輸入的認證可用來同步資料。 只有這些認證有權存取的資料才會包括在內。
 
 Marketo與Salesforce的同步處理是世界上同類產品中最強大的。 感覺就像魔術一樣；變更完成，另一個系統即刻更新。

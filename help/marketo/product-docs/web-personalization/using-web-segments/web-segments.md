@@ -314,13 +314,13 @@ Web Personalization與您的Marketo資料庫整合，可讓您依據已知的個
 
 >[!NOTE]
 >
-您無法刪除與行銷活動相關聯的區段。 首先，您需要刪除行銷活動，然後刪除區段。
+>您無法刪除與行銷活動相關聯的區段。 首先，您需要刪除行銷活動，然後刪除區段。
 
 太棒了！ 現在您已瞭解區段區段，接下來來瞭解行銷活動。
 
 >[!MORELIKETHIS]
 >
-* [建立基本網頁區段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
-* [建立新的對話方塊網頁行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [建立新的區域網路行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [建立新的Widget Web行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [建立基本網頁區段](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+>* [建立新的對話方塊網頁行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [建立新的區域網路行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [建立新的Widget Web行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

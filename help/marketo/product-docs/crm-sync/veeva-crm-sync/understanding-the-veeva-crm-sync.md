@@ -35,7 +35,7 @@ Veeva和Marketo Engage之間的同步僅針對Person帳戶物件上的Contact欄
 
 ## 須知 {#things-to-know}
 
-* 您為Veeva](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}輸入Marketo Engage的[認證可用來同步資料。 只有這些認證有權存取的資料才會包括在內。
+* 您為Veeva[&#128279;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}輸入Marketo Engage的認證可用來同步資料。 只有這些認證有權存取的資料才會包括在內。
 
 * Veeva CRM以force.com為基礎，此同步會繼承與平台搭配使用的豐富體驗Marketo Engage。
 

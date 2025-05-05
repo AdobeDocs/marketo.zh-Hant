@@ -122,7 +122,7 @@ ht-degree: 0%
 
    ![](assets/drip-drip-nurture-17.png)
 
-1. 編輯設定以符合您想要的排程，然後按一下[儲存]。****
+1. 編輯設定以符合您想要的排程，然後按一下[儲存]。**&#x200B;**
 
    ![](assets/drip-drip-nurture-18.png)
 
@@ -150,7 +150,7 @@ ht-degree: 0%
 
    ![](assets/drip-drip-nurture-21.png)
 
-1. 選取您的&#x200B;**[!UICONTROL 程式]**&#x200B;和&#x200B;**[!UICONTROL 串流]**，然後按一下[立即執行]****。
+1. 選取您的&#x200B;**[!UICONTROL 程式]**&#x200B;和&#x200B;**[!UICONTROL 串流]**，然後按一下[立即執行]&#x200B;**&#x200B;**。
 
    ![](assets/drip-drip-nurture-22.png)
 

@@ -50,6 +50,6 @@ ht-degree: 0%
 
    ![](assets/assigning-tasks-to-team-members-8.png)
 
-1. 新增與您的隊友相關的任何重要詳細資料（選擇性），然後按一下[建立]。****
+1. 新增與您的隊友相關的任何重要詳細資料（選擇性），然後按一下[建立]。**&#x200B;**
 
    ![](assets/assigning-tasks-to-team-members-9.png)

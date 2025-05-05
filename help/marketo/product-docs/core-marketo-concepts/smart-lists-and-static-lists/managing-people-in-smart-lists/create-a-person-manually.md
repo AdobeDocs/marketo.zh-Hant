@@ -27,6 +27,6 @@ ht-degree: 0%
 
    ![](assets/create-a-person-manually-2.png)
 
-1. 輸入人員資訊，然後按一下[建立]。****
+1. 輸入人員資訊，然後按一下[建立]。**&#x200B;**
 
    ![](assets/create-a-person-manually-3.png)

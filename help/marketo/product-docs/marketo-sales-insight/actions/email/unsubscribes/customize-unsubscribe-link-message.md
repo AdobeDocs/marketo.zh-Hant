@@ -42,6 +42,6 @@ ht-degree: 0%
 
    ![](assets/customize-unsubscribe-link-message-5.png)
 
-1. 按一下底部的「儲存&#x200B;****」以儲存您的變更。
+1. 按一下底部的「儲存&#x200B;**&#x200B;**」以儲存您的變更。
 
    ![](assets/customize-unsubscribe-link-message-6.png)

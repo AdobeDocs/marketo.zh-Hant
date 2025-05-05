@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/url-patterns-add2.png)
 
-1. 新增其他路徑的副檔名和類別，然後按一下[儲存]。****
+1. 新增其他路徑的副檔名和類別，然後按一下[儲存]。**&#x200B;**
 
    ![](assets/url-patterns-save.png)
 

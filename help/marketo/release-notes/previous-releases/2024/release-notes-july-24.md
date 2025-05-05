@@ -13,7 +13,7 @@ ht-degree: 3%
 
 以下是2024年7月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
 
-您可以在](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到專為Adobe Dynamic Chat[的發行說明。
+您可以在[&#128279;](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到專為Adobe Dynamic Chat的發行說明。
 
 >[!AVAILABILITY]
 >
@@ -86,6 +86,6 @@ ht-degree: 3%
 
 使用者將無法再在Marketo Engage中建立、複製或嵌入任何社交功能。 現有的社交資產將持續運作至2025年1月31日。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **查詢引數棄用中的存取權杖**：未來版本將移除在Marketo EngageREST API呼叫的查詢引數中使用存取權杖的驗證支援（特定日期待定）。 現有的整合應該移轉至此處](https://developers.marketo.com/rest-api/authentication/){target="_blank"}說明的Authorization標頭[的使用。 新開發應僅使用Authorization標頭進行Marketo Engage驗證。
+* **查詢引數棄用中的存取權杖**：未來版本將移除在Marketo EngageREST API呼叫的查詢引數中使用存取權杖的驗證支援（特定日期待定）。 現有的整合應該移轉至此處[&#128279;](https://developers.marketo.com/rest-api/authentication/){target="_blank"}說明的Authorization標頭的使用。 新開發應僅使用Authorization標頭進行Marketo Engage驗證。
 
 * **需要重新驗證LinkedIn**： LinkedIn正在升級Marketo EngageLinkedIn整合所使用的行銷API。 這些變更需要在2024年7月26日至12月15日期間，重新驗證您&#x200B;**管理員** > **LaunchPoint**&#x200B;功能表中的所有LinkedIn LaunchPoint服務，以避免服務中斷。 您可以在[這裡找到有關Forms銷售機會主管](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"}如何完成此專案的指示，以及在[這裡找到相符對象](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}的說明。 Lead Gen Form服務的型別為「LinkedIn Lead Gen」，而Matched Audience服務的型別為「LinkedIn Matched Audiences」。 如需詳細資訊，請瀏覽[移轉常見問題集](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}。

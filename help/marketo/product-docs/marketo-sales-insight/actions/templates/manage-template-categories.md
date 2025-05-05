@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![](assets/manage-template-categories-2.png)
 
-1. 輸入新類別的名稱，然後按一下[建立]。****
+1. 輸入新類別的名稱，然後按一下[建立]。**&#x200B;**
 
    ![](assets/manage-template-categories-3.png)
 

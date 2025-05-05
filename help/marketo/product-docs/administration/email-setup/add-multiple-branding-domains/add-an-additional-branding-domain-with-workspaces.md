@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >您必須先[編輯預設品牌化網域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)。
 >
->您必須先以品牌化網域取代一般追蹤連結](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)，才能新增其他品牌化網域。[
+>您必須先以品牌化網域取代一般追蹤連結[&#128279;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)，才能新增其他品牌化網域。
 
 1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
 

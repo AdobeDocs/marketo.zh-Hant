@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. 按一下&#x200B;**[!UICONTROL 檢視]**&#x200B;下拉式清單。 選取&#x200B;]**使用的**[!UICONTROL 。
+1. 按一下&#x200B;**[!UICONTROL 檢視]**&#x200B;下拉式清單。 選取&#x200B;**使用的**。
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 

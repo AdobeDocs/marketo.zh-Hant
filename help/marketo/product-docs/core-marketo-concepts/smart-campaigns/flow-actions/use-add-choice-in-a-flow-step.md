@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >只有第一個相符選擇會套用到流程步驟。 瞭解如何在流程動作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}中[重新排序「新增選擇」。
+   >只有第一個相符選擇會套用到流程步驟。 瞭解如何在流程動作[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}中重新排序「新增選擇」。
 
    太棒了！ 您現在可以建立具有流程步驟選擇的單一Smart Campaign，而不是為每個選擇建立多個Smart Campaign。
 

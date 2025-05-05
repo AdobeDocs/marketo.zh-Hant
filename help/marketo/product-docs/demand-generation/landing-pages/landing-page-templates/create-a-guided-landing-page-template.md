@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## 文字 {#text}
 
-如果您將區域定義為RTF格式，使用者將可以使用Marketo的RTF編輯器](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)編輯其內容[。
+如果您將區域定義為RTF格式，使用者將可以使用Marketo的RTF編輯器[&#128279;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)編輯其內容。
 
 必要的屬性：\
 **類別**： &quot;mktoText&quot;\

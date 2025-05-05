@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-`{{system.forwardToFriendLink}}`權杖可讓您控制電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md){target="_blank"}中[「轉寄給朋友連結」的位置。
+`{{system.forwardToFriendLink}}`權杖可讓您控制電子郵件[&#128279;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md){target="_blank"}中「轉寄給朋友連結」的位置。
 
 **工作位置：**
 

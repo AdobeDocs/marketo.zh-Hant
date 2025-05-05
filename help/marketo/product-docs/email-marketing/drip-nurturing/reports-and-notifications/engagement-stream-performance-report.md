@@ -48,7 +48,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. 選取您要報告的電子郵件，然後按一下[套用]。****
+1. 選取您要報告的電子郵件，然後按一下[套用]。**&#x200B;**
 
    ![](assets/engagementfilter.jpg)
 

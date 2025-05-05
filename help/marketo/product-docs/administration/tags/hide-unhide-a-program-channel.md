@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-如果任何程式未使用某個程式頻道](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)，您可以[刪除它。  不過，一旦使用，我們就需要加以儲存。  不過，如果您不再需要它，可以將其隱藏。
+如果任何程式未使用某個程式頻道[&#128279;](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)，您可以刪除它。  不過，一旦使用，我們就需要加以儲存。  不過，如果您不再需要它，可以將其隱藏。
 
 ## 隱藏方案頻道 {#hide-a-program-channel}
 

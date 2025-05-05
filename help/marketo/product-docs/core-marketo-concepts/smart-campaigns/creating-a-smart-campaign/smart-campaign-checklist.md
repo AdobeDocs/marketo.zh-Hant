@@ -55,7 +55,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如有需要，您可以在Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)中[覆寫人員限制。
+>如有需要，您可以在Smart Campaign[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)中覆寫人員限制。
 
 >[!NOTE]
 >

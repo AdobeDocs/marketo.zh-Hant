@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/add-person-to-blocklist-2.png)
 
-1. 為清單命名，然後按一下[建立]。****
+1. 為清單命名，然後按一下[建立]。**&#x200B;**
 
    ![](assets/add-person-to-blocklist-3.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/add-person-to-blocklist-7.png)
 
-1. 拖放智慧列示&#x200B;]**的**[!UICONTROL &#x200B;成員。
+1. 拖放智慧列示&#x200B;**的**&#x200B;成員。
 
    ![](assets/add-person-to-blocklist-8.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    ![](assets/add-person-to-blocklist-12.png)
 
-1. 選取「立即執行」****&#x200B;並按一下「執行」****。
+1. 選取「立即執行」**&#x200B;**&#x200B;並按一下「執行」**&#x200B;**。
 
    ![](assets/add-person-to-blocklist-13.png)
 

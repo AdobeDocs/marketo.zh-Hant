@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
-1. 輸入欄位的&#x200B;**[!UICONTROL 名稱]**，然後按一下[建立]。****
+1. 輸入欄位的&#x200B;**[!UICONTROL 名稱]**，然後按一下[建立]。**&#x200B;**
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >深入瞭解流程步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)的[權杖。
+   >深入瞭解流程步驟[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)的權杖。
 
 1. 現在您可以在電子郵件中新增公式欄位做為代號。
 

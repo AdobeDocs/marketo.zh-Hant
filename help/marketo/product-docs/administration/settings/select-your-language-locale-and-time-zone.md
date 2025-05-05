@@ -68,7 +68,7 @@ ht-degree: 4%
 
 ## 儲存 {#save}
 
-1. 變更所需的設定後，只要按一下[儲存]。****
+1. 變更所需的設定後，只要按一下[儲存]。**&#x200B;**
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 

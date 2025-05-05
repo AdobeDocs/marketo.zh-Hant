@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 覆寫方案層級的Analytics行為 {#override-analytics-behavior-at-the-program-level}
 
-您可以在頻道](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)的管理員層級設定[分析行為，但您也可以在方案層級覆寫。 方法如下：
+您可以在頻道[&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)的管理員層級設定分析行為，但您也可以在方案層級覆寫。 方法如下：
 
 1. 前往&#x200B;**行銷活動**&#x200B;區域。
 

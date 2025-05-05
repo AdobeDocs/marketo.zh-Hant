@@ -119,7 +119,7 @@ ht-degree: 1%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-20.png)
 
-1. 若要測試它，請按一下[上一步]。****...
+1. 若要測試它，請按一下[上一步]。**&#x200B;**...
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-21.png)
 

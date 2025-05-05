@@ -261,7 +261,7 @@ ht-degree: 2%
   </tr> 
   <tr> 
    <td colspan="1"><strong>檔案</strong></td> 
-   <td colspan="1">檔案簡稱，檔案是協助客戶進一步瞭解產品的文章。 Marketo有多種不同型別的檔案：產品檔案（您目前所在的網站）、<a href="https://experienceleague.adobe.com/zh-hant/docs/ marketo-developer/marketo/home" rel="nofollow">開發人員</a>檔案，以及<a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">支援</a>檔案。</td> 
+   <td colspan="1">檔案簡稱，檔案是協助客戶進一步瞭解產品的文章。 Marketo有多種不同型別的檔案：產品檔案（您目前所在的網站）、<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home" rel="nofollow">開發人員</a>檔案，以及<a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">支援</a>檔案。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>網域型訊息驗證、報告和符合性(DMARC)</strong></td> 

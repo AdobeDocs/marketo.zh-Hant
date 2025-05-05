@@ -74,7 +74,7 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-11.png)
 
-1. 選擇您要傳送至Marketo的區段，然後按一下[下一步]。****
+1. 選擇您要傳送至Marketo的區段，然後按一下[下一步]。**&#x200B;**
 
    ![](assets/push-an-adobe-experience-platform-segment-12.png)
 

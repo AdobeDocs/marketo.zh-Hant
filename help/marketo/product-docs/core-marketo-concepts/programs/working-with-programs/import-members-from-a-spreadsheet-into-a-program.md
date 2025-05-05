@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. 選取CSV並按一下[下一步] ****。
+1. 選取CSV並按一下[下一步] **&#x200B;**。
 
    ![](assets/importlist1.png)
 

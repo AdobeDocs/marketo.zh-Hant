@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. 房間將會載入。 如果要變更會議室，請從「會議室」下拉式清單中選取一個會議室。 若要更新您的範本，請按一下[使用聊天室]。****
+1. 房間將會載入。 如果要變更會議室，請從「會議室」下拉式清單中選取一個會議室。 若要更新您的範本，請按一下[使用聊天室]。**&#x200B;**
 
    ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
@@ -64,7 +64,7 @@ ht-degree: 0%
    >
    >您也可以在樹狀結構中的Event Program上按一下滑鼠右鍵，然後選取&#x200B;**複製**。
 
-1. 為複製的程式命名，設定Workspace和目的地（如果您希望程式存放在其他地方），然後按一下[儲存]。****
+1. 為複製的程式命名，設定Workspace和目的地（如果您希望程式存放在其他地方），然後按一下[儲存]。**&#x200B;**
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 

@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/change-the-name-of-a-workspace-3.png)
 
-1. 輸入您Workspace的新&#x200B;**[!UICONTROL 名稱]**，然後按一下[儲存]。****
+1. 輸入您Workspace的新&#x200B;**[!UICONTROL 名稱]**，然後按一下[儲存]。**&#x200B;**
 
    ![](assets/change-the-name-of-a-workspace-4.png)
 

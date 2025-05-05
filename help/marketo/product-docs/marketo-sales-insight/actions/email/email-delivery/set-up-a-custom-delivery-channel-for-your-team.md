@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-1.png)
 
-1. 在[管理設定]下，按一下[一般] ****。
+1. 在[管理設定]下，按一下[一般] **&#x200B;**。
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-2.png)
 

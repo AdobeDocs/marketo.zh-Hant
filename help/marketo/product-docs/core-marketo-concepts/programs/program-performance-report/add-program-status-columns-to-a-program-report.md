@@ -45,7 +45,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您在程式中沒有看到每個狀態的欄，請確定您已選取要在報表中顯示](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}的欄[。
+>如果您在程式中沒有看到每個狀態的欄，請確定您已選取要在報表中顯示[&#128279;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}的欄。
 
 >[!MORELIKETHIS]
 >
