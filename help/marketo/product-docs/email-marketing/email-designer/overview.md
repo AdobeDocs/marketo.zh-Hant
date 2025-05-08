@@ -5,9 +5,9 @@ description: 歡迎使用新的Adobe Marketo Engage電子郵件Designer。
 title: 概觀
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
+source-git-commit: 8c1e165a1d1d3fc00bf34c983a8edcb974294150
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,15 @@ ht-degree: 0%
 
 電子郵件設計工具是Marketo Engage的最新創新，旨在提供改版後的電子郵件和電子郵件範本建立體驗，藉由提供視覺化的拖放編輯器以及標準的現成可用範本，以改善生產力和效率。 輕鬆建立自訂的電子郵件範本，無需花錢購買廠商。
 
+>[!NOTE]
+>
+>雖然電子郵件Designer可在所有主要瀏覽器中存取，但目前不支援Firefox的完整功能。
+
 ## 如何存取 {#how-to-access}
 
 +++瞭解如何存取電子郵件設計工具
 
-若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
+若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ### 新增使用者 {#add-users}
 
@@ -102,3 +106,7 @@ ht-degree: 0%
 **如何判斷我們的Marketo Engage訂閱是否已移轉至IMS (Adobe Admin Console)？**
 
 如果您透過[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}登入Marketo Engage，表示您的訂閱已移轉。
+
+**哪些瀏覽器可以與新電子郵件Designer搭配使用？**
+
+建議您使用Google Chrome、Apple Safari或Microsoft Edge。 我們日後將提供Mozilla Firefox的完整支援。
