@@ -109,7 +109,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-6.png)
 
-1. 拖放&#x200B;_[!UICONTROL Question]_卡片。
+1. 拖放&#x200B;_[!UICONTROL Question]_&#x200B;卡片。
 
    ![](assets/stream-designer-7.png)
 
@@ -145,7 +145,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-11.png)
 
-1. 由於這是目標，請將&#x200B;_[!UICONTROL Goal]_卡片拖曳到會議預約下方。
+1. 由於這是目標，請將&#x200B;_[!UICONTROL Goal]_&#x200B;卡片拖曳到會議預約下方。
 
    ![](assets/stream-designer-12.png)
 
@@ -177,7 +177,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-18.png)
 
-1. 由於收集他們的電子郵件是目標，請將&#x200B;_[!UICONTROL Goal]_卡片拖曳至「資訊擷取」下方。
+1. 由於收集他們的電子郵件是目標，請將&#x200B;_[!UICONTROL Goal]_&#x200B;卡片拖曳至「資訊擷取」下方。
 
    ![](assets/stream-designer-19.png)
 
