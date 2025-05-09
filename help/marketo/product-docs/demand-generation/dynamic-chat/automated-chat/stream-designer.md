@@ -3,10 +3,10 @@ description: 串流Designer - Marketo檔案 — 產品檔案
 title: 流程設計工具
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+source-git-commit: 11006e3244fd7a145a955dd08b669a897dae826b
 workflow-type: tm+mt
-source-wordcount: '1225'
-ht-degree: 2%
+source-wordcount: '1175'
+ht-degree: 1%
 
 ---
 
@@ -109,7 +109,7 @@ ht-degree: 2%
 
    ![](assets/stream-designer-6.png)
 
-1. 拖放&#x200B;_[!UICONTROL Question]_&#x200B;卡片。
+1. 拖放&#x200B;_[!UICONTROL Question]_卡片。
 
    ![](assets/stream-designer-7.png)
 
@@ -141,15 +141,15 @@ ht-degree: 2%
 
    ![](assets/stream-designer-10.png)
 
-1. 在右邊的欄中，按一下&#x200B;**[!UICONTROL Save]**。
+1. 選擇您的路由選項並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/stream-designer-11.png)
 
-1. 由於這是目標，請將[!UICONTROL Goal]卡片拖曳到約會排程器下方。
+1. 由於這是目標，請將&#x200B;_[!UICONTROL Goal]_卡片拖曳到會議預約下方。
 
    ![](assets/stream-designer-12.png)
 
-1. 命名您的目標（或選擇現有的目標），然後按一下&#x200B;**[!UICONTROL Save]**。
+1. 命名您的目標（或選擇現有的目標），然後按一下&#x200B;**[!UICONTROL Save]**。 指派交談分數為選用。
 
    ![](assets/stream-designer-13.png)
 
@@ -165,38 +165,19 @@ ht-degree: 2%
    >
    >您可以按一下「**[!UICONTROL Add Response]**」以新增更多回應。
 
-1. 在「是」回應下方，拖曳至「資訊擷取」卡片上方，以便收集訪客的電子郵件。
+1. 在「是」回應下方，拖曳至&#x200B;_資訊擷取_&#x200B;卡片，以便收集訪客的電子郵件。
 
    ![](assets/stream-designer-16.png)
 
-1. 按一下&#x200B;**[!UICONTROL Type]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Email]**。
+1. 按一下下拉式清單，然後選取&#x200B;**[!UICONTROL Email Address]**。
 
    ![](assets/stream-designer-17.png)
 
-1. 輸入聊天機器人訊息和預留位置。 確定屬性已對應到Marketo Engage中的適當欄位，然後按一下&#x200B;**[!UICONTROL Save]**。
+1. 輸入聊天機器人訊息和預留位置。 如果您的資料庫中已有此屬性的值，請選擇是否要略過，或讓此資料覆寫它。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/stream-designer-18.png)
 
-   <table>
-    <tr>
-     <td style="width:30%"><strong>類型</strong></td>
-     <td>您要擷取的資訊型別：電話、文字、電子郵件。</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>聊天機器人訊息</strong></td>
-     <td>訪客看到的訊息，提示他們提供資訊。</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>預留位置</strong></td>
-     <td>範例文字可協助訪客檢視要輸入的內容。</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>將回應對應到屬性</strong></td>
-     <td>可讓您將訪客的回應同步至您Marketo Engage訂閱中其「人員」記錄中的對應欄位。</td>
-    </tr>
-   </table>
-
-1. 由於收集他們的電子郵件是目標，請將[!UICONTROL Goal]卡片拖曳至「資訊擷取」下方。
+1. 由於收集他們的電子郵件是目標，請將&#x200B;_[!UICONTROL Goal]_卡片拖曳至「資訊擷取」下方。
 
    ![](assets/stream-designer-19.png)
 
@@ -212,13 +193,9 @@ ht-degree: 2%
 
    ![](assets/stream-designer-22.png)
 
-1. 選取&#x200B;**[!UICONTROL Preview]**&#x200B;切換以預覽您的對話方塊。
-
-   ![](assets/stream-designer-23.png)
-
 1. 當您準備好啟動對話方塊時，請按一下&#x200B;**[!UICONTROL Publish]**。
 
-   ![](assets/stream-designer-24.png)
+   ![](assets/stream-designer-23.png)
 
 >[!NOTE]
 >
