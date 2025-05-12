@@ -1,18 +1,18 @@
 ---
 description: Generative AI概述 — Marketo檔案 — 產品檔案
-title: Generative AI概述
+title: Dynamic Chat中的Generative AI
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 338f7ab16b3eea1a5d9777ca5283a1b1629376e6
+source-git-commit: a027acc6da55fb9316f4e34c0445b17dba9f60f1
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '449'
 ht-degree: 2%
 
 ---
 
-# Generative AI概述 {#generative-ai-overview}
+# Dynamic Chat中的Generative AI {#generative-ai-overview}
 
-Adobe Dynamic Chat中由創作AI支援的功能可讓您最佳化銷售代理商的生產力、取得您網站訪客意圖的深入分析，並以安全的方式回應訪客問題。
+Adobe Dynamic Chat中由創作AI支援的功能可讓您最佳化銷售代理的生產力、深入瞭解網站的訪客意圖，並以安全的方式回應訪客問題。
 
 ## 權限 {#permissions}
 
@@ -28,7 +28,7 @@ Adobe Dynamic Chat中由創作AI支援的功能可讓您最佳化銷售代理商
 
 ## 交談摘要 {#conversation-summary}
 
-通常要取得訪客交談的完整內容，您必須捲動瀏覽整個聊天記錄。 交談摘要會即時為您產生摘要，甚至包括訪客表示有興趣的主題。 這對於需要在與多位訪客的聊天之間切換時快速設定交談內容的聊天代理程式特別有用。 除了顯示在「代理程式收件匣」聊天畫面之外，您也可以在訪客個人記錄的Marketo Engage記錄檔（位於您的活動資料庫中）中找到已完成的交談摘要。
+通常要取得訪客交談的完整內容，您必須捲動瀏覽整個聊天記錄。 交談摘要會即時為您產生摘要，甚至包括訪客表示有興趣的主題。 這對於需要在與多位訪客的聊天之間切換時快速設定交談內容的聊天代理程式特別有用。 除了顯示在「代理程式收件匣」聊天畫面中，您也可以在訪客Marketo Engage資料庫中個人記錄的活動記錄中找到已完成的交談摘要。
 
 ![](assets/generative-ai-overview-3.png)
 
@@ -64,13 +64,13 @@ Adobe Dynamic Chat中由創作AI支援的功能可讓您最佳化銷售代理商
 
 ## 討論的主題 {#discussed-topics}
 
-討論的主題可在智慧清單觸發器和篩選器中作為限制使用，可讓您更深入探究您的Dynamic Chat見解。
+討論的主題可在智慧清單觸發器和篩選器中作為限制使用，可讓您更深入探究您的Dynamic Chat深入分析。
 
 ![](assets/generative-ai-overview-9.png)
 
 >[!IMPORTANT]
 >
->使用創作AI時，您必須遵守[Adobe Experience Cloud創作AI使用指南](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)，這樣我們才能確保合併創作AI的Adobe Experience Cloud功能以安全負責的方式使用。
+>使用創作AI時，您必須遵守[Adobe Experience Cloud創作AI使用指南](https://www.adobe.com/tw/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)，這樣我們才能確保合併創作AI的Adobe Experience Cloud功能以安全負責的方式使用。
 
 ## 常見問題集 {#faq}
 
@@ -80,7 +80,7 @@ Generative AI僅適用於Dynamic Chat Prime訂閱者。 如需詳細資訊，請
 
 **我可以產生的問題和答案數量是否有限制？**
 
-有。目前存在1000的期限限制。
+可以。目前存在1000的期限限制。
 
 **產生AI中有哪些語言？**
 
