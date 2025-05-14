@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2953338
-description: 從Marketo Dynamics - Marketo檔案 — 產品檔案傳送Microsoft銷售電子郵件
+description: 從Microsoft Dynamics傳送Marketo銷售電子郵件 — Marketo檔案 — 產品檔案
 title: 從Microsoft Dynamics傳送Marketo銷售電子郵件
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 22385fc545378f8835c36564b1029bedbdbb3848
+source-git-commit: a571a312477c6c1b08241ef2cfb011ce525fba07
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -41,14 +41,14 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以先按一下&#x200B;**傳送測試電子郵件**，然後在傳送實際電子郵件之前，將電子郵件傳送給您(Microsoft Dynamics中的主要電子郵件地址)。
+   >您可以先按一下&#x200B;**傳送測試電子郵件**，然後在傳送實際電子郵件之前，會先將電子郵件傳送給您(Microsoft Dynamics中的主要電子郵件地址)。
 
    >[!NOTE]
    >
-   >您一次最多可以傳送2000封Marketo電子郵件。
+   >您一次最多可以傳送300封Marketo電子郵件。
 
-做得很好！ 現在您知道如何直接從Marketo Dynamics傳送Microsoft追蹤的電子郵件了。
+做得很好！ 現在您知道如何直接從Microsoft Dynamics傳送Marketo追蹤的電子郵件了。
 
 >[!MORELIKETHIS]
 >
->[從Microsoft Dynamics新增銷售機會/連絡人至Marketo行銷活動](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+>[從Microsoft Dynamics將銷售機會/連絡人新增至Marketo行銷活動](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
