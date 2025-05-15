@@ -3,9 +3,9 @@ description: 瞭解Marketo訂閱和使用者移轉至Adobe Admin Console - Marke
 title: 瞭解Marketo訂閱和使用者移轉至Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: d6cf2b994f56a0fa4f2118fb3da3fd874644d8ae
+source-git-commit: 8b44c3b2ccabeb796a3a8f7775848a5063279076
 workflow-type: tm+mt
-source-wordcount: '1511'
+source-wordcount: '1571'
 ht-degree: 0%
 
 ---
@@ -28,13 +28,15 @@ Adobe正在改善您管理Adobe Marketo Engage訂閱和使用者的方式，為�
 
 * **使用者將使用Adobe身分識別登入**。 Adobe會將現有使用者移轉至Adobe Admin Console。 使用者將使用新的Adobe Identity (Adobe ID或Adobe Federated ID (SSO))登入其Marketo訂閱。
 
-* 移轉後&#x200B;**個URL看起來會不同**。 移轉後，Marketo Engage會從experience.adobe.com改用Adobe Experience Cloud。 您必須與IT團隊合作，將所有Adobe網域加入允許清單（列於本文頂端[） ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}，以防止對Marketo Engage存取的中斷。
+* 移轉後&#x200B;**個URL看起來會不同**。 Marketo Engage將從experience.adobe.com提供至Adobe Experience Cloud，URL的格式如下： `https://experience.adobe.com/#/@tenantID/so:XXX-XXX-XXX/marketo-engage/classic/` (XXX代表Munchkin ID，@tenantID來自您的Adobe組織)。 您必須與IT團隊合作，將所有Adobe網域加入允許清單（列於本文頂端[） ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}，以防止對Marketo Engage存取的中斷。
 
 資產的ID號碼維持不變。 而且engage-xx.marketo.com網域&#x200B;_上Marketo Engage資產的先前連結和書籤將會_&#x200B;繼續運作。 不過，您必須先登入要導覽至的URL的Marketo Engage執行個體。 例如，若要導覽至Munchkin ID為123-ABC-456之執行個體中Smart Campaign的書籤，您必須先以Munchkin ID 123-ABC-456登入Marketo Engage執行個體。
 
+雖然未規劃，但未來的開發工作可能會破壞此重新導向功能。 為避免意外中斷，建議您儘早更新書籤。
+
 ## 哪些部分沒有改變？ {#what-is-not-changing}
 
-* **您管理Marketo Engage應用程式本身所有其他功能的方式並無改變**，包括功能、使用者角色、工作區、功能及行為的管理。
+* **您管理Marketo Engage應用程式本身所有其他功能的方式並無改變**，包括功能、使用者角色、工作區、功能及行為的管理。 本機（僅限API）使用者管理仍保留在Marketo管理區域的&#x200B;_使用者和角色_&#x200B;索引標籤中。
 
 ## 移轉歷程時間表 {#migration-journey-timeline}
 
@@ -56,7 +58,7 @@ Adobe會先將您的Marketo Engage訂閱移轉至Adobe Admin Console，然後移
 
 >[!NOTE]
 >
->如果您目前未使用SSO，但考慮實施，我們建議在使用者移轉發生之前實施。 如果您想要實作單一登入，而且您的訂閱已上線到Adobe Identity而未在Adobe組織中實作SSO，請向[Marketo支援](https://nation.marketo.com/){target="_blank"}提交票證，並將主題指定為「在Admin Console上實作Marketo SSO」。
+>如果您目前未使用SSO，但考慮實施，我們建議在使用者移轉發生之前實施。 如果您想要實作單一登入，而且您的訂閱已上線到Adobe Identity而未在Adobe組織中實作SSO，請提交票證至[Marketo支援](https://nation.marketo.com/){target="_blank"}，並將主題指定為「在Admin Console上實作Marketo SSO」。
 
 ### 排程使用者移轉 {#schedule-user-migration}
 
@@ -94,11 +96,11 @@ Marketo產品管理員將：
 
 所有採用美國時區的Marketo訂閱將會從移轉開始日期的太平洋標準時間午夜開始移轉。 所有其他訂閱的使用者移轉將於訂閱的指定時區午夜開始。
 
-**Adobe將會先自動移轉Marketo管理員**。 Marketo管理員移轉至Adobe Identity時，會在Marketo應用程式中獲得Adobe產品管理員角色，以及先前擁有的任何其他角色。
+**Adobe將會先自動移轉Marketo管理員（具有標準管理員角色）**。 當Marketo管理員移轉至Adobe身分識別(具有Admin Console產品管理員角色)時，系統將在Marketo應用程式中為其指派Adobe產品管理員角色，以及先前擁有的任何其他角色。
 
-**如果您的Marketo訂閱使用者少於75名，且在Marketo和/或Adobe組織**&#x200B;中沒有SSO，Adobe會自動移轉其餘的使用者。 此工作流程旨在提供最高等級的自動化，以儘量降低Adobe Marketo使用者的額外負荷。 您不需要採取任何動作即可執行移轉。
+**如果您的Marketo訂閱在Marketo和/或Adobe組織**&#x200B;中沒有SSO，Adobe會自動移轉其餘的使用者。 此工作流程旨在提供最高等級的自動化，以儘量降低Adobe Marketo使用者的額外負荷。 您不需要採取任何動作即可執行移轉。
 
-**如果您的Marketo訂閱擁有超過75名使用者，或在Marketo和/或Adobe組織**&#x200B;中擁有SSO，Marketo產品管理員將可存取Marketo管理區域內Marketo移轉主控台的「自助使用者移轉」區域。 若在使用者移轉程式期間需要加強控制，Marketo產品管理員將能一次選取或分批移轉的使用者。 選取使用者後，管理員可選取「立即移轉」或「排程移轉」以供稍後使用，讓管理員在移轉使用者時擁有最大的彈性和控制權。
+**如果您的Marketo訂閱在Marketo和/或Adobe組織**&#x200B;中具有SSO，Marketo管理員將可存取Marketo管理區域中的Marketo移轉主控台的「自助使用者移轉」區域。 對於在使用者移轉程式期間需要加強控制的使用者，Marketo管理員將能開始選取要批次移轉的使用者，或一次選取所有使用者。 選取使用者後，管理員可選取「立即移轉」或「排程移轉」以供稍後使用，讓管理員在移轉使用者時擁有最大的彈性和控制權。
 
 >[!NOTE]
 >
@@ -121,4 +123,4 @@ Marketo產品管理員將：
 >* [移轉至Adobe身分識別總覽](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
 >* [使用Adobe登入的使用者](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 >* [Adobe Identity Management常見問題集](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
->* [移轉至Adobe Identity Management教學課程](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
+>* [移轉至Adobe Identity Management教學課程](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
