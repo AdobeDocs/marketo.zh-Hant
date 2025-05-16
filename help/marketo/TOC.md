@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
+source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
 workflow-type: tm+mt
-source-wordcount: '9265'
+source-wordcount: '9261'
 ht-degree: 1%
 
 ---
@@ -964,7 +964,6 @@ ht-degree: 1%
             + [將程式碼片段新增至登陸頁面](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
             + [新增其他登陸頁面CNAME](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
             + [新增SSL至您的登入頁面](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md)
-            + [新增SSL臨時檔案](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-temp-doc.md)
             + [新增文字和權杖至登陸頁面](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
             + [為登陸頁面啟用個人化URL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
             + [為您的帳戶啟用個人化URL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
@@ -1956,10 +1955,10 @@ ht-degree: 1%
    + [最新版本](release-notes/current.md)
    + [Dynamic Chat版本](release-notes/dynamic-chat.md)
    + 舊版 {#previous-releases}
-      + 2025 {#2025}
+      + 2025 版 {#2025}
          + [發行說明： 2025年1月](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [發行說明： 2025年3月](release-notes/previous-releases/2025/release-notes-mar-25.md)
-      + 2024 年 {#2024}
+      + 2024 版 {#2024}
          + [發行說明： 2024年1月](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [發行說明： 2024年3月](release-notes/previous-releases/2024/release-notes-mar-24.md)
          + [發行說明： 2024年4月](release-notes/previous-releases/2024/release-notes-apr-24.md)
