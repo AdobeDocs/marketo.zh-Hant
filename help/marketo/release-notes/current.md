@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 3%
+source-wordcount: '473'
+ht-degree: 2%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 以下是2025年5月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
 
-您可在此處[&#128279;](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到Adobe Dynamic Chat 專屬的發行說明。
+您可在此處](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到Adobe Dynamic Chat [專屬的發行說明。
 
 >[!AVAILABILITY]
 >
@@ -42,7 +42,47 @@ ht-degree: 3%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>任何屬性的觸發權杖</strong>：擴充的觸發權杖清單，可支援使用Smart Campaign欄位中任何活動屬性的資料。</td> 
+   <td><strong>任何屬性的觸發權杖</strong>：擴充的觸發權杖清單，可支援在Smart Campaign欄位中使用任何活動屬性的資料。</td> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>電子郵件內容Personalization</strong>： Marketo Engage現在會遵循與其他AEP應用程式權杖相同的駝峰式大小寫語法，因此在Adobe DX產品中提供一致的體驗。 所有標準代號以及Marketo Engage特定代號（例如「成員」、「方案」和「我的代號」）都可在新的電子郵件Designer中使用。</td> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>電子郵件Designer Assets的角色型存取控制</strong>：角色型存取控制(RBAC)系統的新增強功能，提供更精細的許可權，並改善新電子郵件Designer所支援的資產使用者管理。</td> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>複製在電子郵件Designer中建立的電子郵件</strong>：您現在可以複製使用新電子郵件Designer建立的現有電子郵件。</td> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>GenStudio整合</strong>：在電子郵件中整合GenStudio以進行效能行銷，以提高行銷效率並維持品牌一致性。</td> 
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -56,6 +96,6 @@ ht-degree: 3%
 
 若要存取此功能，您必須已購買進階BI Analytics附加元件。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2025年10月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2025年10月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API淘汰**：對Marketo SOAP API的支援將於2025年10月31日終止。 使用SOAP API功能的服務應移轉至[REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API淘汰**：對Marketo SOAP API的支援將於2025年10月31日終止。 使用SOAP API功能的服務應移轉至[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。

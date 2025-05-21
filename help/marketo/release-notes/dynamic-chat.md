@@ -3,9 +3,9 @@ description: Dynamic Chat 發行說明 - Marketo 文件 - 產品文件
 title: Dynamic Chat 發行說明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: c0ccf1c515dbde48a131242939c077b44ffd5c1b
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
-source-wordcount: '2427'
+source-wordcount: '2571'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,25 @@ ht-degree: 1%
 
 Adobe Dynamic Chat版本會在持續傳遞模式上運作，允許以更可擴充的方法進行功能部署。 有時候一個月會有多個版本，所以請定期回來檢視最新的資訊。
 
-Marketo Engage[的標準發行說明頁面可在此處](/help/marketo/release-notes/current.md){target="_blank"}找到。
+您可在此處](/help/marketo/release-notes/current.md){target="_blank"}找到Marketo Engage [的標準發行說明頁面。
+
+## 2025年4/5月發行版本 {#apr-may-25-release}
+
+### 訊息通知音效 {#message-notification-sound}
+
+您現在可以選擇在工作階段中每次觸發聊天機器人時都為訪客啟用音效。 有多種聲音可供選擇。
+
+### 在行動裝置上啟用Poke訊息 {#enable-poke-messages-on-mobile}
+
+「撥號」會顯示在聊天圖示旁的開頭問題，訪客不需要按一下即可檢視，現在為使用行動裝置的訪客啟用此選項。
+
+### 預設遞補更新 {#default-fallback-update}
+
+對於任何作為即時聊天卡的自訂規則/團隊 — 如果沒有可用的代理程式（或聊天無法連線），它會回退到可用代理程式的Round Robin （無論將哪個路由邏輯/規則放在資料流中，當時所有可用的代理程式）。
+
+### Demandbase整合 {#demandbase-integration}
+
+Demandbase使用者可以使用Demandbase人員屬性來進行Dynamic Chat中的對話方塊目標定位、條件式品牌和自訂路由。
 
 ## 2024年9/10月發行版本 {#sep-oct-release}
 
@@ -38,7 +56,7 @@ Analytics Dashboard已進行數個增強功能，包括：
 
 ### 交談評分 {#conversation-scoring}
 
-根據潛在客戶聊天互動的品質來量化潛在客戶，並將該量度用作「Marketo Engage智慧行銷活動」中的觸發器/篩選器。 在下列活動中使用新屬性&#x200B;_交談分數_：
+根據聊天互動的品品質化您的銷售機會，並將該量度用作Marketo Engage Smart Campaigns中的觸發器/篩選器。 在下列活動中使用新屬性&#x200B;_交談分數_：
 
 * 與對話方塊互動
 * 已參與交談流程
@@ -150,7 +168,7 @@ Demandbase使用者能夠自攜Demandbase授權並啟用整合。 使用Demandba
 
 ### 自訂您的交談訊息格式 {#custom-format-conversation-messages}
 
-串流設計工具現在支援[插入HTML](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}，以自訂您交談的外觀與感覺。
+串流設計工具現在支援[插入HTML](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}，以自訂您交談的外觀與風格。
 
 ![](assets/dynamic-chat-aug-2024-release-1.png)
 
@@ -182,11 +200,11 @@ Demandbase使用者能夠自攜Demandbase授權並啟用整合。 使用Demandba
 
 ### 從Marketo Engage同步沒有Cookie的銷售機會 {#syncing-leads-without-cookies}
 
-先前，當啟動Marketo Engage同步時，Dynamic Chat僅會將已知的銷售機會與來自Marketo Engage的一或多個Cookie ID同步。 現在，所有已知的潛在客戶（無論是否有Cookie ID）都會同步至Dynamic Chat，且可用於個人化的交談。
+先前，啟動Marketo Engage同步時，Dynamic Chat只會將已知的銷售機會與Marketo Engage的一或多個Cookie ID同步。 現在，所有已知的潛在客戶（無論是否有Cookie ID）都會同步至Dynamic Chat，並可用於個人化的交談。
 
 ### 將其他訪客資料傳遞至對話流程 {#pass-additional-visitor-data}
 
-如果您透過其他管道（如表單或登入）擷取訪客資訊，現在可以直接將此資訊傳遞給Dynamic Chat。
+如果您透過其他管道（如表單或登入）擷取訪客資訊，現在可以直接將此資訊傳遞至Dynamic Chat。
 
 ![](assets/dynamic-chat-aug-2024-release-5.png)
 
@@ -260,7 +278,7 @@ Demandbase使用者能夠自攜Demandbase授權並啟用整合。 使用Demandba
 
 ### 交談輕推 {#conversation-nudges}
 
-透過行動號召來輕推網頁訪客，以促使對話結束。
+透過call-to-action輕推網頁訪客，推動對話結束。
 
 <p>
 
@@ -276,17 +294,17 @@ _&#42;先前提供試用功能，包含100個期限參與專案。 對話流程�
 
 ### 回呼函式 {#callback-functions}
 
-[回撥函式](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"}可讓您在訪客參與Dynamic Chat對話時，收集外部系統(例如Adobe Analytics或Google Analytics)中的Dynamic Chat分析事件。 您可以使用API註冊回呼來監聽事件，藉此啟用Dynamic Chat分析事件。 這可讓您在與其他關鍵資料（例如網站流量）相關時，以更全面的方式檢視Dynamic Chat參與。
+[回撥函式](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"}可讓您在訪客參與Dynamic Chat對話時，收集Adobe Analytics或Google Analytics等外部系統中的Dynamic Chat分析事件。 您可以使用API註冊回呼來監聽事件，藉此啟用Dynamic Chat Analytics事件。 這可讓您在與其他關鍵資料（例如網站流量）相關時，以更整體的方式檢視Dynamic Chat參與。
 
 ### 即時代理程式可用性條件已新增到條件式分支 {#live-agent-availability-conditional-branching}
 
-除了原生和自訂Marketo Engage欄位之外，您現在還可以使用條件式分支，根據代理程式可用性來建立分支。 如果您只想讓訪客在有可用的即時代理程式時選擇與即時代理程式交談，這個功能會很有用。
+除了原生和自訂Marketo Engage欄位以外，您現在還可以使用條件式分支，根據代理程式可用性建立分支。 如果您只想讓訪客在有可用的即時代理程式時選擇與即時代理程式交談，這個功能會很有用。
 
 ![](assets/dynamic-chat-release-1.png)
 
 ### 智慧清單條件已新增到條件式分支 {#smart-list-condition}
 
-在條件式分支中新增新的「Marketo Engage智慧列示」條件後，您可以根據已在Dynamic Chat中建立的現有對象建立分支，而非在Marketo Engage中定義對象分支條件。
+在條件式分支中新增新的Marketo Engage智慧清單條件後，您可以根據已在Marketo Engage中建立的現有對象建立分支，而非在Dynamic Chat中定義對象分支條件。
 
 ![](assets/dynamic-chat-release-2.png)
 
@@ -296,22 +314,22 @@ _&#42;先前提供試用功能，包含100個期限參與專案。 對話流程�
 
 ### 對話流程的即時聊天 {#live-chat-for-conversational-flows}
 
-我們在2023年發佈了對話的即時聊天功能，現在您也可以將即時聊天參與新增到對話流程中。 如果您正在使用對話式流程進行Marketo Engage表單，您現在可以允許合格訪客在表單提交後立即與即時代理程式聊天！
+我們在2023年發佈了對話的即時聊天功能，現在您也可以將即時聊天參與新增到對話流程中。 如果您搭配Marketo Engage表單使用對話流程，您現在可以允許合格訪客在表單提交後立即與即時代理程式聊天！
 
 ### 代理程式收件匣中最近的Marketo Engage活動 {#recent-marketo-engage-activities-in-agent-inbox}
 
-我們已將最近的Marketo Engage活動新增到「代理程式收件匣」的「最近的活動」區段，因此當網站訪客請求與代理程式聊天時，代理程式可以快速檢視訪客最近是否參與了以下任何Marketo Engage活動（最近25個活動）：
+我們已將最近的Marketo Engage活動新增到「代理程式收件匣」的「最近活動」區段，因此當網站訪客請求與代理程式聊天時，代理程式可以快速檢視該訪客最近是否參與了以下任何Marketo Engage活動（最近25個活動）：
 
 * 已開啟的電子郵件
-* 造訪的網頁
-* 已填寫的表單
+* 已造訪的網頁
+* 已填寫表單
 * 曾有過關鍵時刻
 
 ![](assets/dynamic-chat-release-3.png)
 
 ### 代理程式管理中的行事曆連線狀態 {#calendar-connection-status-in-agent-management}
 
-管理員現在可以輕鬆檢視哪些具有會議預訂許可權的代理已以Dynamic Chat連線其行事曆。 這可讓您確保整個銷售團隊都已連線，且準備好接受Dynamic Chat的會議邀請。
+管理員現在可以輕鬆檢視哪些具有會議預訂許可權的代理已連線他們在Dynamic Chat中的行事曆。 這可讓您確保整個銷售團隊都已連線，並準備好接受來自Dynamic Chat的會議要求。
 
 ![](assets/dynamic-chat-release-4.png)
 
@@ -325,9 +343,9 @@ _&#42;先前提供試用功能，包含100個期限參與專案。 對話流程�
 
 有些使用者表示在Dynamic Chat中新增和移除代理程式時發生問題，因此我們進行了一些變更以解決這些問題。
 
-當使用者新增到具有即時聊天或會議預約許可權的Admin Console時，他們將立即出現在「代理管理」清單中，並可用於新增到對話方塊、對話流程、路由規則和團隊。
+當使用者新增到Admin Console並擁有即時聊天或會議預約許可權時，他們將立即出現在「代理管理」清單中，並可用於新增到對話方塊、對話流程、路由規則和團隊。
 
-當具有會議預約或即時聊天許可權的使用者從Admin Console中移除時，他們將會立即從Dynamic Chat中移除，將無法再用於即時聊天或會議路由，並且不再計入授許可權制。
+具有會議預約或即時聊天許可權的使用者從Admin Console中移除時，將會立即從Dynamic Chat中移除、無法再用於即時聊天或會議路由，且不再計入授許可權制。
 
 ### 改善交談層級報告效能 {#improved-conversation-level-report-performance}
 
