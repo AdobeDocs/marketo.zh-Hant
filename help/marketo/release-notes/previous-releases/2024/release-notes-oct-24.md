@@ -2,7 +2,8 @@
 description: 發行說明 — 2024年10月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2024 年 10 月
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
+source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 2%
@@ -13,7 +14,7 @@ ht-degree: 2%
 
 下方提供2024年10月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
 
-您可以在[&#128279;](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到專為Adobe Dynamic Chat的發行說明。
+您可在此處](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到Adobe Dynamic Chat [專屬的發行說明。
 
 >[!AVAILABILITY]
 >
@@ -53,7 +54,7 @@ ht-degree: 2%
   </tr>
   </tr>
    <tr> 
-   <td><strong>導覽邊欄中的「我的帳戶」按鈕</strong>：對於已移轉至AdobeIdentity Management系統的使用者，左側導覽邊欄中新的「我的帳戶」按鈕可讓您設定時區並存取訂閱詳細資料。</td> 
+   <td><strong>導覽邊欄中的「我的帳戶」按鈕</strong>：對於已移轉至Adobe Identity Management系統的使用者，左側導覽邊欄中新的「我的帳戶」按鈕可讓您設定時區並存取訂閱詳細資料。</td> 
    <td>已送出</td>
    <td>不適用</td>
   </tr>
@@ -91,13 +92,13 @@ ht-degree: 2%
 
 * **大量擷取API更新**：我們已修正大量擷取API中涉及columnHeaderNames選項的問題，該選項可讓您在匯出的檔案中指定自訂欄標題名稱。 以前，包含非ASCII字元的欄標題名稱可能會損毀。
 
-* **Rest API access_token引數淘汰**：用於驗證Marketo REST API呼叫的「access_token」查詢引數已淘汰，並將於2025年6月30日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)。
+* **Rest API access_token引數淘汰**：用於驗證Marketo REST API呼叫的「access_token」查詢引數已淘汰，並將於2025年10月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)。
 
 
-* **QR碼淘汰**：自2024年10月4日起，推播通知和應用程式內訊息資產中使用的QR碼功能將被淘汰。 這包括使用新測試裝置的QR碼，以及使用QR碼建立新資產。 淘汰使用率較低的功能，可讓我們重新分配其資源，以便整體維護Marketo Engage。
+* **QR碼淘汰**：自2024年10月4日起，推播通知和應用程式內訊息資產中使用的QR碼功能將被淘汰。 這包括使用新測試裝置的QR碼，以及使用QR碼建立新資產。 淘汰使用率較低的功能，可讓我們重新分配其資源，以進行Marketo Engage的整體維護。
 
 * **Munchkin變更**
 
-   * **新版本**：自2024年9月17日起，[Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164將開始推出以Marketo Engage在&#x200B;**Admin** > **Treasure Chest**&#x200B;中啟用「Munchkin Beta」設定的執行個體。 排程在10月29日開始推出至所有其他執行個體。 此版本會更新Munchkin Cookie的建立。 功能沒有變更。
+   * **新版本**：自2024年9月17日起，[Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164將開始在&#x200B;**管理員** > **Treasure Chest**&#x200B;中啟用「Munchkin Beta」設定的Marketo Engage執行個體推出。 排程在10月29日開始推出至所有其他執行個體。 此版本會更新Munchkin Cookie的建立。 功能沒有變更。
 
-   * **已移除URL中的字元**： Munchkin JS建立的「瀏覽網頁」和「點按連結」活動現在會移除所有URL欄位中的非URL編碼控制字元。 此變更旨在防止這些型別的字元傳播到不支援這些字元且在Marketo Engage中沒有有效使用的系統時發生錯誤。
+   * **已移除URL中的字元**： Munchkin JS建立的「瀏覽網頁」和「點按連結」活動現在會移除所有URL欄位中的非URL編碼控制字元。 此項變更旨在防止錯誤傳播至不支援這些字元型別，且在Marketo Engage中沒有有效使用的系統。
