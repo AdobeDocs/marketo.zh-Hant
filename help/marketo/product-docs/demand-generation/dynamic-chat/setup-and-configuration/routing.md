@@ -3,16 +3,16 @@ description: 路由 — Marketo檔案 — 產品檔案
 title: 路由
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
 # 路由 {#routing}
 
-以Dynamic Chat預約的會議可以兩種方式傳送。 循環配置資源，或使用自訂規則。
+在Dynamic Chat中預約的會議可以兩種方式路由。 循環配置資源，或使用自訂規則。
 
 循環配置資源：會議會依序指派給代理程式。 因此，如果您有五個代理程式，而代理程式三參加最後一個會議，則代理程式四會取得下一個會議，接著是代理程式五，然後回到代理程式一。
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 在此範例中，我們會將推斷的CA、OR和WA狀態的所有會議傳送給代理程式John。
 
-1. 在[設定]下，按一下[路由規則]。**&#x200B;**。
+1. 在[設定]下，按一下[路由規則]。****。
 
    ![](assets/routing-1.png)
 
-1. 按一下「**自訂規則**」標籤。
+1. 預設會開啟&#x200B;**自訂規則**&#x200B;標籤。
 
    ![](assets/routing-2.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/routing-7.png)
 
-1. 選取所有所需值時，按一下[儲存]。**&#x200B;**
+1. 選取所有所需值時，按一下[儲存]。****
 
    ![](assets/routing-8.png)
 

@@ -3,10 +3,10 @@ description: 代理程式管理 — Marketo檔案 — 產品檔案
 title: 代理程式管理
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 0%
+source-wordcount: '284'
+ht-degree: 1%
 
 ---
 
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 ## 專員 {#agents}
 
-此索引標籤會列出您Dynamic Chat執行個體中的所有代理程式，並包含其名稱、電子郵件地址、即時聊天狀態等資訊。
+此標籤會列出您Dynamic Chat執行個體中的所有代理程式，並包含其名稱、電子郵件地址、即時聊天狀態等資訊。
 
-![](assets/agent-management-2.png)
+![](assets/agent-management-2.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
->沒有看到您&#x200B;_只是_&#x200B;新增的代理程式？ 在AdobeAdmin Console中新增這些量度後，最多可能需要兩個小時才會顯示在這裡。
+>沒有看到您&#x200B;_只是_&#x200B;新增的代理程式？ 在Adobe Admin Console中新增這些量度後，最多可能需要兩個小時才會顯示在這裡。
 
 ## 團隊 {#teams}
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->若要存取Teams，必須訂閱Dynamic Chat Prime。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+>若要存取Teams需要Dynamic Chat Prime訂閱。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 ![](assets/agent-management-3.png)
 
@@ -70,7 +70,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->選取&#x200B;**包含會議預約選項**&#x200B;核取方塊會讓聊天訪客在沒有代理程式可供即時聊天時預約會議。
+>* 選取&#x200B;_包含會議預約選項_&#x200B;核取方塊會讓聊天訪客在沒有代理程式可供即時聊天時預約會議。
+>
+>* **對於任何自訂規則/團隊作為即時聊天卡**：檢查代理時，如果代理無法使用或無法連線，則會退回循環配置資源以嘗試「可用的代理」（所有當時可用的代理，無論將哪個路由邏輯/規則放在資料流中）。
 
 >[!TIP]
 >
