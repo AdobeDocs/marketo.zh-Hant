@@ -4,16 +4,20 @@ description: 帳戶分析排名和調整 — Marketo檔案 — 產品檔案
 title: 帳戶設定檔排名與調整
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 0%
+source-wordcount: '401'
+ht-degree: 1%
 
 ---
 
 # 帳戶設定檔排名與調整 {#account-profiling-ranking-and-tuning}
 
 帳戶設定檔會識別您的理想客戶設定檔(ICP)、根據ICP對資料庫中的公司進行排名，並將ICP指標資料新增至升級為具名帳戶的帳戶。
+
+>[!IMPORTANT]
+>
+>自2025年起，新使用者將無法再使用「帳戶分析」。 它將繼續適用於現有使用者。
 
 ## 模型結果 {#model-results}
 
@@ -78,7 +82,7 @@ ht-degree: 0%
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>作業</strong></td> 
+   <td><strong>運作</strong></td> 
    <td> 
     <div>
       與作業相關的職位/聘用。 
@@ -134,7 +138,7 @@ ht-degree: 0%
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>企業</strong></td> 
+   <td><strong>商務</strong></td> 
    <td> 
     <div>
       Forbes或Inc的上市或商業合作關係。 

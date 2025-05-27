@@ -4,16 +4,20 @@ description: 新帳戶探索 — Marketo檔案 — 產品檔案
 title: 新帳戶探索
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 0%
+source-wordcount: '301'
+ht-degree: 1%
 
 ---
 
 # 新帳戶探索 {#new-account-discovery}
 
 新帳戶探索可協助您使用理想客戶設定檔中的AI支援建議，尋找要鎖定的新帳戶。
+
+>[!IMPORTANT]
+>
+>自2025年起，新使用者將無法再使用「帳戶分析」。 它將繼續適用於現有使用者。
 
 >[!PREREQUISITES]
 >
@@ -57,9 +61,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >若要將其儲存到現有的帳戶清單，請選取該選項，按一下下拉式清單並選取所需的[帳戶清單]，然後按一下[下一步]&#x200B;**&#x200B;**。
+   >若要將其儲存到現有的帳戶清單，請選取該選項，按一下下拉式清單並選取所需的[帳戶清單]，然後按一下[下一步]****。
 
-1. 按一下&#x200B;**保存**。
+1. 按一下&#x200B;**儲存**。
 
    ![](assets/seven-1.png)
 
@@ -67,10 +71,10 @@ ht-degree: 0%
    >
    >您一次最多只能儲存5,000個帳戶。 如果您的搜尋產生10,000個結果，您必須儲存前（前）5,000個結果，然後重設篩選器並儲存後5,000個結果。 **總計**&#x200B;帳戶限製為100萬。
 
-1. 按一下&#x200B;**確定**。
+1. 按一下&#x200B;**「確定」**。
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >儲存帳戶後，您可以使用LinkedIn[&#128279;](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)上的相符對象來鎖定這些帳戶。
+   >儲存帳戶後，您可以在LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)上使用[相符的對象來鎖定這些對象。

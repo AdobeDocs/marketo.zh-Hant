@@ -4,9 +4,9 @@ description: 設定帳戶分析 — Marketo檔案 — 產品檔案
 title: 設定帳戶分析
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '169'
 ht-degree: 2%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 2%
 
 請依照下列步驟，開始使用[帳戶分析]。
 
+>[!IMPORTANT]
+>
+>自2025年起，新使用者將無法再使用「帳戶分析」。 它將繼續適用於現有使用者。
+
 >[!CAUTION]
 >
 >下列欄位必須&#x200B;**不**&#x200B;隱藏，帳戶設定檔才能正常運作。
@@ -22,7 +26,7 @@ ht-degree: 2%
 >* 網站
 >* 公司
 >* 電子郵件
->* 國家
+>* 國家/地區
 >
 >在此瞭解如何[取消隱藏欄位](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field)。
 
