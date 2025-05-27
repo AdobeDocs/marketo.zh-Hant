@@ -60,7 +60,7 @@ ht-degree: 0%
 >
 >Poke只適用於交談中的前[張卡片](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}。
 
-完成變更後，請記得按一下[儲存]。****
+完成變更後，請記得按一下[儲存]。**&#x200B;**
 
 ![](assets/configuration-7.png)
 
