@@ -3,7 +3,7 @@ description: Demandbase - Marketo檔案 — 產品檔案
 title: Demandbase
 feature: Dynamic Chat
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+source-git-commit: 14bf3ca81a3732c2687f66ca71ac832ae3177623
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 2%
@@ -19,6 +19,8 @@ Demandbase使用者可以使用Demandbase人員屬性來進行Dynamic Chat中的
 下列步驟將在您的Demandbase帳戶&#x200B;_中完成_。
 
 1. 在Demandbase中，按一下&#x200B;_設定_&#x200B;圖示。
+
+   ![](assets/demandbase-1.png)
 
 1. 在&#x200B;_整合_&#x200B;下，選取&#x200B;**帳戶聯結器**。
 
@@ -42,12 +44,12 @@ Demandbase使用者可以使用Demandbase人員屬性來進行Dynamic Chat中的
 
 除了原生和自訂屬性，在建立對話方塊或對話流程時，還可根據Demandbase屬性鎖定對象。
 
-![](assets/demandbase-1.png)
+![](assets/demandbase-2.png)
 
 使用Demandbase屬性作為條件式分支、對話方塊或對話流程中的條件。
 
-![](assets/demandbase-2.png)
+![](assets/demandbase-3.png)
 
 定義任何自訂路由邏輯時，請使用Demandbase屬性。
 
-![](assets/demandbase-3.png)
+![](assets/demandbase-4.png)
