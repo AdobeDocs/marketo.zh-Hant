@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 主要使用案例 {#primary-use-case}
 
-此增強功能主要有利於從[Velocity指令碼](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"}轉換成Handlebar指令碼的使用者。 新的電子郵件Designer僅支援新的權杖格式。 更新後的格式消除了空格，並引進了修訂後的預設文字結構，以確保更順暢且更有效的指令碼體驗。
+此增強功能主要有利於從[Velocity指令碼](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting){target="_blank"}轉換成Handlebar指令碼的使用者。 新的電子郵件Designer僅支援新的權杖格式。 更新後的格式消除了空格，並引進了修訂後的預設文字結構，以確保更順暢且更有效的指令碼體驗。
 
 ## 權杖體驗 {#token-experience}
 
