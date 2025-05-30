@@ -3,9 +3,9 @@ description: 即時聊天概述 — Marketo檔案 — 產品檔案
 title: 即時聊天總覽
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -115,6 +115,10 @@ ht-degree: 0%
 
 * 在「接受聊天」訊息逾時之前，代理程式有100秒的時間回應。 之後，訪客將會收到[遞補訊息](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}。 對於路由選項設為&#x200B;**團隊**&#x200B;的Dynamic Chat Prime訂閱者，將會在後援訊息出現之前再嘗試一個代理程式。
 * 目前每個代理程式限製為10個即時聊天。
+* 代理程式收件匣僅供即時聊天對話使用。 如果代理程式不接受聊天，該聊天將不會出現在「代理程式收件匣」中，因為它不符合即時聊天資格。
+* Conversation索引標籤會顯示所有交談，包括Live和Automated聊天。 因此，如果代理程式不接受交談，就會列在[交談]索引標籤中。 由於「交談」標籤並非即時顯示，因此延遲達24小時。 不過，「代理程式收件匣」是即時的。
+* 如果10分鐘後沒有聊天活動（由代理或訪客），聊天將逾時。
+* 如果代理程式在&#x200B;_即時聊天期間變更其設定檔影像(在account.adobe.com中)_，訪客在聊天結束前仍會看到舊影像。 訪客下次進來聊天並取得該代理時，就會看到新影像。
 
 >[!MORELIKETHIS]
 >

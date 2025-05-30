@@ -3,9 +3,9 @@ description: 代理程式設定 — Marketo檔案 — 產品檔案
 title: 專員設定
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '543'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 2%
 
 ![](assets/agent-settings-2.png)
 
-一旦使用者的行事曆連線到Dynamic Chat，他們就會新增到佇列中，網站訪客將可使用此行事曆排程約會。
+使用者的行事曆連線至Dynamic Chat後，即會新增至佇列，且網站訪客的行事曆可用於排程約會。
 
 >[!NOTE]
 >
@@ -95,3 +95,11 @@ ht-degree: 2%
 >[!TIP]
 >
 >您可以按一下右側的&#x200B;**+**&#x200B;符號，選取同一天的多重時間區塊（例如，8a-12p _和_ 1p-5p的星期五）。
+
+## 代理程式設定檔像片
+
+雖然代理程式可以上傳自己的設定檔像片，但該動作不會在Dynamic Chat中執行。 他們需要導覽至`account.adobe.com/profile`。 在這裡瞭解更多： [更新您的帳戶設定檔](https://helpx.adobe.com/tw/manage-account/using/edit-adobe-account-personal-profile.html)。
+
+>[!NOTE]
+>
+>`experience.adobe.com`中顯示的設定檔影像&#x200B;**不支援**。

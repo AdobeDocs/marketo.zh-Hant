@@ -3,9 +3,9 @@ description: 路由 — Marketo檔案 — 產品檔案
 title: 路由
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 在此範例中，我們會將推斷的CA、OR和WA狀態的所有會議傳送給代理程式John。
 
-1. 在[設定]下，按一下[路由規則]。**&#x200B;**。
+1. 在[設定]下，按一下[路由規則]。****。
 
    ![](assets/routing-1.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/routing-7.png)
 
-1. 選取所有所需值時，按一下[儲存]。**&#x200B;**
+1. 選取所有所需值時，按一下[儲存]。****
 
    ![](assets/routing-8.png)
 
@@ -64,13 +64,47 @@ ht-degree: 0%
 
 ![](assets/routing-9.png)
 
+>[!PREREQUISITES]
+>
+>在Dynamic Chat中看到&#x200B;_帳戶路由_&#x200B;之前，必須在Admin Console中啟用許可權。 請參閱下方的[啟用許可權](#enable-permissions)。
+
+### 啟用許可權 {#enable-permissions}
+
++++ 啟用帳戶路由許可權
+
+1. 登入[https://adminconsole.adobe.com/](https://adminconsole.adobe.com/){target="_blank"}。
+
+1. 在&#x200B;_產品_&#x200B;底下，選取&#x200B;**Dynamic Chat**。
+
+   ![](assets/routing-10.png)
+
+1. 在&#x200B;_產品設定檔_&#x200B;下，選取所需的設定檔。
+
+   ![](assets/routing-11.png)
+
+1. 按一下「**許可權**」標籤。
+
+   ![](assets/routing-12.png)
+
+1. 按一下&#x200B;_組態_&#x200B;旁的編輯圖示（![編輯圖示](assets/icon-routing-edit.png)）。
+
+   ![](assets/routing-13.png)
+
+1. 按一下&#x200B;_檢視帳戶路由_&#x200B;旁的&#x200B;**+**&#x200B;符號。
+
+   ![](assets/routing-14.png){width="600" zoomable="yes"}
+
+1. 完成時，按一下&#x200B;**儲存**。
+
++++
+
 ### 新增帳戶 {#add-an-account}
 
 在此範例中，我們會直接將所有員工從樂高路由到代理程式Steven。
 
 1. 在[帳戶路由]索引標籤中，按一下[**+新增帳戶**]。
 
-   ![](assets/routing-10.png)
+   ![](assets/routing-15.png)
 
    >[!TIP]
    >
@@ -78,4 +112,4 @@ ht-degree: 0%
 
 1. 輸入公司名稱、網域，然後選取所需的代理程式。
 
-   ![](assets/routing-11.png)
+   ![](assets/routing-16.png)
