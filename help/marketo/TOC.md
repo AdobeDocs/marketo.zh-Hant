@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 0abb2a7499541b8efbf3000bcd9fc9c1a79e43e1
+source-git-commit: f3bc58c0d65e8110c5366269fdb4abf817370aee
 workflow-type: tm+mt
-source-wordcount: '9261'
+source-wordcount: '9264'
 ht-degree: 1%
 
 ---
@@ -215,6 +215,7 @@ ht-degree: 1%
          + [為您的帳戶啟用個人化URL](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
          + [全域表單驗證規則](product-docs/administration/settings/global-form-validation-rules.md)
          + [登陸頁面標頭](product-docs/administration/settings/landing-page-headers.md)
+         + [產品使用情況儀表板](product-docs/administration/settings/product-usage-dashboards.md)
          + [根據IP限制Marketo登入](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [選取您的語言、地區設定和時區](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [設定遞補頁面](product-docs/administration/settings/set-a-fallback-page.md)
