@@ -4,9 +4,9 @@ description: 新增SSL至您的登陸頁面 — Marketo檔案 — 產品檔案
 title: 新增SSL至您的登入頁面
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
+source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '765'
 ht-degree: 0%
 
 ---
@@ -97,15 +97,13 @@ SSL （安全通訊端層）加密可讓您保護Marketo Engage執行個體所�
 
 ## 注意事項 {#things-to-note}
 
-* **網域與Marketo Engage的DNS對應**：在UI中新增網域之前，您必須[將CNAME對應到Marketo提供的網域](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
+* **網域與Marketo Engage的DNS對應**：在UI中新增網域之前，您必須[將CNAME對應到Marketo提供的網域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
 
 * **自訂SSL**：如果您需要自訂SSL，請提交[支援票證](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 請勿使用自助核取方塊來建立SSL。
 
 * **預先存在的SSL**：新增網域時，系統會檢查預先存在的SSL （可能之前已手動建立）。 如果您遇到此驗證，請在不選取SSL建立的情況下建立您的網域，我們會為您連線。 [連絡支援人員](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}更多詳細資料/選項。
 
 * **首次追蹤網域**：首次建立電子郵件追蹤連結網域需要[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}的手動介入。 UI中允許在同一網域下後續建立子網域。
-
-* **僅限Marketo內部部署**：目前，此功能僅適用於內部部署。 Cloud Services上的Marketo Engage需要透過聯絡[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}來設定SSL。
 
 * **將憑證新增至現有的網域**：目前不支援將憑證新增至現有的網域。 若是預先存在的網域，或您未勾選SSL憑證方塊，則必須連絡[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以新增憑證。
 
