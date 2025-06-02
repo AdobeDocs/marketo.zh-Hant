@@ -4,10 +4,10 @@ description: 使用註冊代碼安裝適用於Outlook的Marketo電子郵件增�
 title: 使用註冊代碼安裝適用於Outlook的Marketo電子郵件增益集
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
+source-git-commit: ac6c84a82b9bcb535d5f50897d1a068a5a746287
 workflow-type: tm+mt
-source-wordcount: '532'
-ht-degree: 1%
+source-wordcount: '551'
+ht-degree: 3%
 
 ---
 
@@ -27,36 +27,84 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->「銷售分析動作」功能（包括「傳送銷售電子郵件」、「新增至銷售促銷活動」和「工作」）在Gmail和Outlook的「銷售分析電子郵件」外掛程式中無法使用。 目前，使用Sales Insight電子郵件外掛程式時，使用者只能從電子郵件使用者端傳送包含或不包含Marketo電子郵件範本的可追蹤電子郵件。
+>Sales Insight的Gmail和Outlook電子郵件外掛程式中不提供「銷售Insight動作」功能，包括「傳送銷售電子郵件」、「新增至銷售促銷活動」和「工作」。 目前，使用者只有在使用銷售Marketo電子郵件外掛程式時，才能從電子郵件使用者端傳送包含或不包含Insight電子郵件範本的可追蹤電子郵件。
 
 ## 下載安裝程式 {#download-installer}
 
-1. 識別您的[Microsoft Outlook版本](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
+1. 識別您的[Microsoft Outlook版本](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}。
 
-1. 按一下連結，即可下載適用於您Microsoft Outlook版本的安裝程式。
+1. 在下表中，按一下連結，即可下載適用於您Microsoft Outlook版本的適當.ZIP檔案。
+
+1. 解壓縮檔案以存取必要的.MSI檔案，然後繼續安裝。
 
    >[!NOTE]
    >
    >目前，下列連結僅可在Microsoft Edge中使用，或在Chrome中按一下右鍵。 造成任何不便，敬請見諒。
 
-   | Outlook版本 | 32位元Outlook | 64位元Outlook |
-   |---|---|---|
-   | Outlook 2000 | 不支援 | 不適用 |
-   | Outlook 2003 | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | 不適用 |
-   | Outlook 2007 | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | 不適用 |
-   | Outlook 2010 | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2013 | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2016 | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2019 | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | 適用於Mac的Outlook | 不支援 | 不支援 |
-   | Outlook Web App | 不支援 | 不支援 |
-   | Office 365* | [下載](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [下載](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+<table><thead>
+  <tr>
+    <th>Outlook版本</th>
+    <th>32位元Outlook</th>
+    <th>64位元Outlook</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Outlook 2000</td>
+    <td>不支援</td>
+    <td>不適用</td>
+  </tr>
+  <tr>
+    <td>Outlook 2003</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">下載</a></td>
+    <td>不適用</td>
+  </tr>
+  <tr>
+    <td>Outlook 2007</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">下載</a></td>
+    <td>不適用</td>
+  </tr>
+  <tr>
+    <td>Outlook 2010</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">下載</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">下載</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2013</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">下載</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">下載</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2016</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">下載</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">下載</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2019</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">下載</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">下載</a></td>
+  </tr>
+  <tr>
+    <td>適用於Mac的Outlook</td>
+    <td>不支援</td>
+    <td>不支援</td>
+  </tr>
+  <tr>
+    <td>Outlook Web App</td>
+    <td>不支援</td>
+    <td>不支援</td>
+  </tr>
+  <tr>
+    <td>Office 365*</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">下載</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">下載</a></td>
+  </tr>
+</tbody></table>
 
-   *Office 365版本：僅限Windows使用者端（在Windows 10、Enterprise或Pro）。
+*Office 365版本：僅限Windows使用者端（在Windows 10、Enterprise或Pro）。
 
-   >[!IMPORTANT]
-   >
-   >Microsoft已發行適用於Windows的[新版Outlook](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}。 這個新版本不支援現有的MSI Outlook外掛程式。 MSI Outlook外掛程式將繼續在執行Classic版Outlook的Windows案頭上運作。 若要進一步瞭解適用於組織的新版Windows Outlook，[請按一下這裡](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}。
+>[!IMPORTANT]
+>
+>Microsoft已發行適用於Windows ](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}的[新版Outlook。 這個新版本不支援現有的MSI Outlook外掛程式。 MSI Outlook外掛程式將繼續在執行Classic版Outlook的Windows案頭上運作。 若要進一步瞭解適用於組織的新版Windows Outlook，[請按一下這裡](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}。
 
 ## 複製您的註冊代碼 {#copy-your-registration-code}
 
@@ -90,7 +138,7 @@ ht-degree: 1%
    >
    >如果安裝失敗，請洽詢您的IT部門，以確保不會封鎖HTTPS流量。 安裝程式需要開啟HTTPS流量。
 
-1. 按一下[下一步]&#x200B;**&#x200B;**&#x200B;以安裝在預設位置。
+1. 按一下[下一步]****&#x200B;以安裝在預設位置。
 
    ![](assets/select-installation-folder-hand.png)
 
