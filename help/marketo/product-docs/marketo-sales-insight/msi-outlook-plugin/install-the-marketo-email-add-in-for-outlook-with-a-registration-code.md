@@ -104,7 +104,7 @@ ht-degree: 3%
 
 >[!IMPORTANT]
 >
->Microsoft已發行適用於Windows ](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}的[新版Outlook。 這個新版本不支援現有的MSI Outlook外掛程式。 MSI Outlook外掛程式將繼續在執行Classic版Outlook的Windows案頭上運作。 若要進一步瞭解適用於組織的新版Windows Outlook，[請按一下這裡](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}。
+>Microsoft已發行適用於Windows [&#128279;](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}的新版Outlook。 這個新版本不支援現有的MSI Outlook外掛程式。 MSI Outlook外掛程式將繼續在執行Classic版Outlook的Windows案頭上運作。 若要進一步瞭解適用於組織的新版Windows Outlook，[請按一下這裡](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}。
 
 ## 複製您的註冊代碼 {#copy-your-registration-code}
 
@@ -138,7 +138,7 @@ ht-degree: 3%
    >
    >如果安裝失敗，請洽詢您的IT部門，以確保不會封鎖HTTPS流量。 安裝程式需要開啟HTTPS流量。
 
-1. 按一下[下一步]****&#x200B;以安裝在預設位置。
+1. 按一下[下一步]&#x200B;**&#x200B;**&#x200B;以安裝在預設位置。
 
    ![](assets/select-installation-folder-hand.png)
 
