@@ -3,9 +3,9 @@ description: 進階BI Analytics概觀 — Marketo檔案 — 產品檔案
 title: 進階BI Analytics概觀
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
+source-git-commit: acf1070ff8e29f77677d9dba0f79ba45b48b1ee8
 workflow-type: tm+mt
-source-wordcount: '989'
+source-wordcount: '988'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,6 @@ Advanced BI Analytics (先前稱為Revenue Explorer和Advanced Report Builder)�
 >[!PREREQUISITES]
 >
 >若要存取此功能，您必須已購買進階BI Analytics附加元件。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
-
->[!NOTE]
->
->如果您對此功能在測試版（至2025年6月1日）有任何疑問，請傳送電子郵件至： `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com`。
 
 ## 主要功能與優點 {#key-features-and-benefits}
 
@@ -38,7 +34,7 @@ Advanced BI Analytics (先前稱為Revenue Explorer和Advanced Report Builder)�
 
 ## 建立報告 {#create-a-report}
 
-1. 在「我的Marketo」中，按一下「**[!UICONTROL Advanced BI Analytics (Beta)]**」圖磚。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Advanced BI Analytics]**」圖磚。
 
    ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
@@ -66,7 +62,7 @@ Advanced BI Analytics (先前稱為Revenue Explorer和Advanced Report Builder)�
 
 觀看以下影片，瞭解多頁面、鑽研報表體驗的範例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451693/?quality=12&learn=on&captions=chi_hant){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## 進階BI Analytics中的標準報表 {#standard-reports}
 
@@ -177,11 +173,8 @@ Advanced BI Analytics (先前稱為Revenue Explorer和Advanced Report Builder)�
 
 ## 注意事項 {#note}
 
-公開測試版將於2025年6月1日執行，屆時透過「Revenue Explorer」的經典體驗將永久淘汰。
+* 經典的「Revenue Explorer」體驗將於2025年6月10日永久淘汰。 同時，您可以存取、建立、更新和刪除兩個體驗中的報告。
 
-_在公開測試期間：_
-
-* 您可以存取、建立、更新和刪除兩個體驗中的報表。
 * 您的自訂報告將會從傳統體驗複製到新的體驗，並包含下方[學習新體驗](#learning-the-new-experience)一節中提到的重大行為變更。
 
   >[!IMPORTANT]
@@ -194,9 +187,13 @@ _在公開測試期間：_
      >
      >新體驗中的儀表板只是單一頁面上的報告集合。 新體驗中儀表板的主要價值，是允許您針對不同的報告區域提供分析見解。
 
-* 您在傳統體驗中的電子郵件訂閱將會復寫到新體驗。 傳統體驗中的電子郵件訂閱將繼續運作，直到2025年6月1日傳統體驗淘汰。
+* 您在傳統體驗中的電子郵件訂閱將會復寫到新體驗。 傳統體驗中的電子郵件訂閱將繼續運作，直到2025年6月10日傳統體驗淘汰。
 
-* 現有的Revenue Explorer使用者會自動存取新的進階BI Analytics (Beta)體驗。
+* 現有的Revenue Explorer使用者會自動存取新的進階BI Analytics體驗。
+
+* 您可以在進階BI Analytics中建立最多700個報表。
+
+* 任何特定視覺效果的每個查詢有100萬列的限制。 如果查詢超過此限制，您將收到下列錯誤： `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`。 若要修正此問題，請縮小日期範圍，和/或調整報表中的篩選器，以減少查詢結果中的列數。
 
 ## 瞭解新體驗 {#learning-the-new-experience}
 
@@ -217,8 +214,6 @@ _在公開測試期間：_
 * 電子郵件訂閱包括PDF匯出，而非報表的HTML。 新的電子郵件訂閱將不包含報告定義。
 
 * 目前不支援報表的深層連結。
-
-* 報表資料夾體驗目前無法使用，並暫時取代為包含預先輸入搜尋的平面清單。 復寫報告的名稱將包含資料夾路徑，例如`/folder1/folder2/report`。
 
 * 新版Experience中的PDF匯出是同步的，而非舊版Experience中的非同步。
 
