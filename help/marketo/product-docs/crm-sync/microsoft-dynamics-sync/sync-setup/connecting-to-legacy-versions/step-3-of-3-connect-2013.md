@@ -4,9 +4,9 @@ description: 步驟3之3 — 連線Marketo和Dynamics （2013內部部署） - M
 title: 步驟3之3 — 連線Marketo和Dynamics （2013內部部署）
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 輸入Dynamics同步使用者資訊 {#enter-dynamics-sync-user-information}
 
-1. 登入Marketo並按一下&#x200B;**[!UICONTROL 管理員]**。
+1. 登入Marketo並按一下&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/login-admin.png)
 
@@ -34,11 +34,11 @@ ht-degree: 0%
 
    ![](assets/image2014-12-11-11-3a53-3a59.png)
 
-1. 選取&#x200B;**[!DNL Microsoft]**。
+1. 選擇「**[!DNL Microsoft]**」。
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. 在&#x200B;**[!UICONTROL 輸入認證]**&#x200B;中按一下&#x200B;**[!UICONTROL 編輯]**。
+1. 在&#x200B;**[!UICONTROL Enter Credentials]**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
    >
    >請確認您的認證正確無誤，因為提交後就無法回覆後續的結構描述變更。 如果儲存不正確的認證，您必須取得新的Marketo訂閱。
 
-1. 輸入&#x200B;**[!UICONTROL 使用者名稱]**、**[!UICONTROL 密碼]**&#x200B;和Microsoft Dynamics **[!UICONTROL URL]**，然後按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 輸入&#x200B;**[!UICONTROL Username]**、**[!UICONTROL Password]**&#x200B;和Microsoft Dynamics **[!UICONTROL URL]**，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2015-3-26-11-3a47-3a59.png)
 
@@ -59,11 +59,11 @@ ht-degree: 0%
 
 現在，我們需要選取要同步處理的欄位。
 
-1. 在&#x200B;**[!UICONTROL 選取要同步處理的欄位]**&#x200B;中按一下&#x200B;**[!UICONTROL 編輯]**。
+1. 在&#x200B;**[!UICONTROL Select Fields to Sync]**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. 選取您要同步至Marketo的欄位，以便預先選取它們。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 選取您要同步至Marketo的欄位，以便預先選取它們。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2016-8-25-15-3a10-3a17.png)
 
@@ -79,17 +79,17 @@ ht-degree: 0%
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 按一下欄位同步處理詳細資料上的&#x200B;**[!UICONTROL 編輯]**。
+1. 按一下[欄位同步處理詳細資料]上的&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 向下捲動至欄位並進行核取。 實際名稱必須是new_synctomkto，但「顯示名稱」可以是任何內容。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 向下捲動至欄位並進行核取。 實際名稱必須是new_synctomkto，但「顯示名稱」可以是任何內容。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2016-8-25-15-3a11-3a4.png)
 
 ## 啟用同步 {#enable-sync}
 
-1. 在&#x200B;**[!UICONTROL 啟用同步處理]**&#x200B;中按一下&#x200B;**[!UICONTROL 編輯]**。
+1. 在&#x200B;**[!UICONTROL Enable Sync]**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -97,16 +97,15 @@ ht-degree: 0%
    >
    >Marketo不會針對Microsoft Dynamics同步處理或手動輸入人員或潛在客戶時，自動進行重複資料刪除。
 
-1. 讀取快顯視窗中的所有內容，輸入您的電子郵件，然後按一下[開始同步]。**&#x200B;**
+1. 閱讀快顯視窗中的所有內容，輸入您的電子郵件，然後按一下&#x200B;**[!UICONTROL Start Sync]**。
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. 第一次同步可能需要幾個小時。 完成後，您將會收到電子郵件通知。
+1. 視記錄數量而定，初始同步可能需要數小時至數天的時間。 完成後，您將會收到電子郵件通知。
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 
-做得很好！ 您剛剛釋放了Marketo和Microsoft Dynamics之間的雙向同步功能。 如果您已購買Marketo Sales Insight，會覺得更有趣：
 
 >[!MORELIKETHIS]
 >
->[在Microsoft Dynamics 2013中安裝及設定Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md){target="_blank"}
+>[在Microsoft Dynamics 2013中安裝和設定Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md){target="_blank"}

@@ -3,9 +3,9 @@ description: 步驟4之4 — 使用資源所有者密碼控制連線來連線Mar
 title: 步驟4之4 — 使用資源擁有者密碼控制連線來連線Marketo解決方案
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -34,15 +34,15 @@ ht-degree: 0%
 
    ![](assets/login-admin.png)
 
-1. 按一下&#x200B;**[!UICONTROL CRM]**。
+1. 按一下「**[!UICONTROL CRM]**」。
 
    ![](assets/image2015-3-16-9-3a47-3a34.png)
 
-1. 選取&#x200B;**[!UICONTROL Microsoft]**。
+1. 選擇「**[!UICONTROL Microsoft]**」。
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. 在&#x200B;**[!UICONTROL 輸入認證]**&#x200B;中按一下&#x200B;**[!UICONTROL 編輯]**。
+1. 在&#x200B;**[!UICONTROL Enter Credentials]**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
    >
    >輸入新認證之前，您可以[在此驗證認證](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}。
 
-1. 輸入&#x200B;**[!UICONTROL 使用者名稱]**、**[!UICONTROL 密碼]**、Microsoft Dynamics **URL**、**[!UICONTROL 使用者端識別碼]**&#x200B;以及&#x200B;**[!UICONTROL 使用者端密碼]**。 完成時，按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 輸入&#x200B;**[!UICONTROL Username]**、**[!UICONTROL Password]**、Microsoft Dynamics **URL**、**[!UICONTROL Client ID]**&#x200B;和&#x200B;**[!UICONTROL Client Secret]**。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/step-4-of-4-connect-ropc-5.png)
 
@@ -64,11 +64,11 @@ ht-degree: 0%
 
 ## 選取要同步的欄位 {#select-fields-to-sync}
 
-1. 在&#x200B;**[!UICONTROL 選取要同步處理的欄位]**&#x200B;中按一下&#x200B;**[!UICONTROL 編輯]**。
+1. 在&#x200B;**[!UICONTROL Select Fields to Sync]**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. 選取您要同步至Marketo的欄位，以便預先選取它們。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 選取您要同步至Marketo的欄位，以便預先選取它們。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
@@ -84,17 +84,17 @@ ht-degree: 0%
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 按一下欄位同步處理詳細資料上的&#x200B;**[!UICONTROL 編輯]**。
+1. 按一下[欄位同步處理詳細資料]上的&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 向下捲動至欄位並進行核取。 實際名稱必須是new_synctomkto，但「顯示名稱」可以是任何內容。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 向下捲動至欄位並進行核取。 實際名稱必須是new_synctomkto，但「顯示名稱」可以是任何內容。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 
 ## 啟用同步 {#enable-sync}
 
-1. 在&#x200B;**[!UICONTROL 啟用同步處理]**&#x200B;中按一下&#x200B;**[!UICONTROL 編輯]**。
+1. 在&#x200B;**[!UICONTROL Enable Sync]**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -102,15 +102,13 @@ ht-degree: 0%
    >
    >Marketo不會針對Microsoft Dynamics同步處理或手動輸入人員或潛在客戶時，自動進行重複資料刪除。
 
-1. 讀取快顯視窗中的所有內容，輸入您的電子郵件地址，然後按一下[開始同步]。**&#x200B;**
+1. 讀取快顯視窗中的所有內容，輸入您的電子郵件地址，然後按一下&#x200B;**[!UICONTROL Start Sync]**。
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. 第一次同步可能需要幾個小時。 完成後，您將會收到電子郵件通知。
+1. 視記錄數量而定，初始同步可能需要數小時至數天的時間。 完成後，您將會收到電子郵件通知。
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
-
-做得很好！
 
 >[!MORELIKETHIS]
 >
