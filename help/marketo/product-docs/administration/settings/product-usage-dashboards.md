@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
+source-git-commit: 73e5b80de146512bc2f00cc7a6891911be20d9fc
 workflow-type: tm+mt
 source-wordcount: '656'
 ht-degree: 0%
@@ -64,21 +64,26 @@ Marketo Engage產品使用情況儀表板可讓您根據特定限制或待處理
 >
 >* 儀表板只會顯示前20個活動型別，而其餘活動型別會排序到名為「其他」的類別中。
 
-![](assets/product-usage-dashboards-4.png){width="800" zoomable="yes"}
-
 活動使用方式可顯示正在執行多少行銷，並有助於對照已識別之合約產品層級以視覺化方式成長。 儀表板也可用作為指南，以透過減少正在更新的欄位來決定可以/應該進行多少最佳化。
 
 ### 依型別 {#by-type}
 
 依過去七天內最常見的活動型別將活動分組。 這可能包括&#x200B;_變更資料值_、_新增至清單_&#x200B;或&#x200B;_傳送電子郵件_&#x200B;等類別。 這可讓您檢視Marketo Engage帳戶中最常發生的活動型別。
 
+![](assets/product-usage-dashboards-4.png){width="600" zoomable="yes"}
+
+
 ### 透過變更資料值屬性 {#by-change-data-value-attribute}
 
 _變更資料值_&#x200B;是最常見的活動型別。 這表示人員/潛在客戶記錄上的資訊何時更新。 在此處，我們會根據最常變更的欄位進行分組，以便您判斷哪些資訊對行銷作業有用、是否有機會最佳化平台使用率等。
 
+![](assets/product-usage-dashboards-5.png){width="600" zoomable="yes"}
+
 ### 依行銷活動 {#by-campaign}
 
 行銷活動產生最多活動的群組。 這可讓您檢視是否有任何特別「嘈雜」的行銷活動，其建立的活動多於必要的活動。 快速瞭解應停止運作的行銷活動，或執行的工作超出預期的行銷活動。
+
+![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
 
 ### 依Source （即將推出） {#by-source}
 
