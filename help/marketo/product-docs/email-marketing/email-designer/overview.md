@@ -5,9 +5,9 @@ description: 歡迎使用新的Adobe Marketo Engage電子郵件Designer。
 title: 概觀
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 8c1e165a1d1d3fc00bf34c983a8edcb974294150
+source-git-commit: d7cb61fabcf82bb5fe9a0411cc94abf5445de689
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '824'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 +++瞭解如何存取電子郵件設計工具
 
-若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
+若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ### 新增使用者 {#add-users}
 
@@ -76,11 +76,19 @@ ht-degree: 0%
 
 **我們現有的電子郵件範本是否可以在新的設計工具中運作？ 如果沒有，我們是否需要使用新的設計工具來建立範本，以便讓所有區段/模組都對應到我們想要的內容外觀？**
 
-否，新設計工具無法參照傳統編輯器的電子郵件範本。 您將需要在新的設計工具中建立新的範本。 不過，您&#x200B;_可以_&#x200B;將範本HTML匯入新的設計工具，然後進行必要的調整。 我們也在研究將範本從傳統編輯器輕鬆移轉到新設計工具的方法。
+來自傳統編輯器的電子郵件範本無法在新設計工具中參照。 您將需要在新的設計工具中建立新的範本。 不過，您&#x200B;_可以_&#x200B;將範本HTML匯入新的設計工具，然後進行必要的調整。 **注意**：即將推出與新設計工具的傳統編輯器範本相容性。
+
+**我可以輕鬆地將新的設計工具資產移至其他程式嗎？**
+
+目前不可以。 但是，此功能即將推出。
+
+**是否可以在新的電子郵件設計工具中透過API編輯資產？**
+
+新的電子郵件設計工具目前不支援透過API編輯的Assets。
 
 **是否有辦法強制執行品牌化（字型、標誌和顏色）？**
 
-鎖定內容區段是新設計工具的一部分，鎖定樣式、顏色等將在今年晚些時候推出。
+鎖定內容區段是新設計工具的一部分，並且即將推出鎖定樣式、顏色等。
 
 **範本模組是否更可自訂且可擴充？**
 
@@ -88,16 +96,11 @@ ht-degree: 0%
 
 **電子郵件範本建立程式在新設計工具中如何運作？ 是WYSIWYG，還是需要HTML知識？**
 
-它是WYSIWYG；不需要HTML知識。 您可以輕鬆建立
-使用設計工具中的範本，減少外部Web開發人員的需求。 不過，您仍可選擇透過HTML更新CSS及編輯個別區段。 我們也在研究將範本從傳統編輯器輕鬆移轉到新設計工具的方法。
+它是WYSIWYG；不需要HTML知識。 您可以輕鬆在設計工具中建立範本，減少外部Web開發人員的需求。 不過，您仍可選擇透過HTML更新CSS及編輯個別區段。 我們也在研究將範本從傳統編輯器輕鬆移轉到新設計工具的方法。
 
 **新的電子郵件設計工具是否支援AMP語言？**
 
 目前不支援AMP。
-
-**是否可以在新的電子郵件設計工具中透過API編輯資產？**
-
-新的電子郵件設計工具目前不支援透過API編輯的Assets。
 
 **依屬性的動態內容很好，但依區段的動態內容是否仍然有效？**
 
