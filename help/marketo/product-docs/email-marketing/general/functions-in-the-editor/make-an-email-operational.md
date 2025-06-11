@@ -4,20 +4,20 @@ description: 讓電子郵件可正常運作 — Marketo檔案 — 產品檔案
 title: 讓電子郵件運作正常
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 7c1bf673c2f7917c244dafdd3e8207203cd56bfb
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # 讓電子郵件運作正常 {#make-an-email-operational}
 
-營運電子郵件會忽略取消訂閱和行銷暫停狀態。 他們無論如何都會傳送。
+營運電子郵件會忽略取消訂閱和行銷暫停狀態。 它們也不受通訊限制的約束。 他們無論如何都會傳送。
 
 >[!NOTE]
 >
->營運電子郵件不受通訊限制的約束。
+>營運電子郵件不計入通訊限制。 例如，如果某人每週只能收到一封電子郵件，而您已傳送行銷電子郵件給他們，則您仍可視需要傳送營運電子郵件給他們。
 
 1. 尋找您的電子郵件，選取並按一下&#x200B;**編輯草稿**。
 
