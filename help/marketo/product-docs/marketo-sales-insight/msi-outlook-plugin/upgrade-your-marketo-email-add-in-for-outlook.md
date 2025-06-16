@@ -4,9 +4,9 @@ description: 升級適用於Outlook的Marketo電子郵件增益集 — Marketo�
 title: 升級您的Outlook版Marketo電子郵件增益集
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '337'
 ht-degree: 10%
 
 ---
@@ -117,11 +117,11 @@ ht-degree: 10%
  </tbody> 
 </table>
 
-&#42;Office 365版本：僅限Windows使用者端（在Windows 10、Enterprise或Pro）。
+&#42;Office 365版本：僅限Windows使用者端（在Windows 10、Windows 11、Enterprise或Pro）。
 
-## 升級 {#upgrade}
+## Upgrade {#upgrade}
 
-1. 識別您的[Microsoft Outlook版本](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us)。
+1. 識別您的[Microsoft Outlook版本](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us)。
 
 1. 從上方清單中選取您的版本。
 
@@ -149,7 +149,7 @@ ht-degree: 10%
    >
    >如果安裝失敗，請與您的IT部門合作，確保HTTPS流量不會遭到封鎖。 安裝程式需要開啟HTTPS流量。
 
-1. 按一下[下一步]&#x200B;**&#x200B;**&#x200B;以安裝在預設位置。
+1. 按一下[下一步]****&#x200B;以安裝在預設位置。
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
