@@ -4,9 +4,9 @@ description: 新增其他品牌領域 — Marketo檔案 — 產品檔案
 title: 新增其他品牌網域
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '598'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 ## 注意事項 {#things-to-note}
 
-* **網域與Marketo Engage的DNS對應**：在UI中新增網域之前，您必須[將CNAME對應到Marketo提供的網域](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
+* **網域與Marketo Engage的DNS對應**：在UI中新增網域之前，您必須[將CNAME對應到Marketo提供的網域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
 
 * **自訂SSL**：如果您需要自訂SSL，請提交[支援票證](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 請勿使用自助核取方塊來建立SSL。
 
@@ -86,6 +86,8 @@ ht-degree: 0%
 * **首次追蹤網域**：首次建立電子郵件追蹤連結網域需要[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}的手動介入。 UI中允許在同一網域下後續建立子網域。
 
 * **將憑證新增至現有的網域**：目前不支援將憑證新增至現有的網域。 若是預先存在的網域，或您未勾選SSL憑證方塊，則必須連絡[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以新增憑證。
+
+* **在現有網域上編輯或移除憑證**：如果您需要更新或移除現有的SSL，請聯絡[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
 
 * **刪除網域**：刪除網域目前不會自動刪除SSL憑證。 此問題將在未來版本中解決。
 
