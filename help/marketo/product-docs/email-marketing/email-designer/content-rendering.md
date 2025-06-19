@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Editor
 hide: true
 hidefromtoc: true
-source-git-commit: 0157bc64444151a43bf464158d508e84d75b3427
+source-git-commit: c10984c5c4076103a4ccc81e94d595e0ec41c535
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 利用您在Marketo Engage中的[Litmus](https://www.litmus.com/email-testing)帳戶，立即檢視您的電子郵件在常見電子郵件使用者端中的呈現方式。
 
-## 使用方式 &lbrace;how-to-use&rbrace;
+## 使用方式 {#how-to-use}
 
 1. 從訊息的編輯內容畫面或電子郵件Designer中，按一下「模擬內容」按鈕。
 
