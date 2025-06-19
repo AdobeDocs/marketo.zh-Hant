@@ -4,8 +4,9 @@ product: marketo
 title: 片段
 description: 瞭解如何建立視覺化內容片段，並將其用作電子郵件和電子郵件範本的可重複使用元件。
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '1850'
 ht-degree: 1%
@@ -35,7 +36,7 @@ ht-degree: 1%
 
 ![存取片段](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
-依預設，表格是依&#x200B;_[!UICONTROL Modified]_&#x200B;欄排序。 按一下其他欄標題以變更表格排序依據。 再按一下相同標題，在升序和降序之間切換。
+依預設，表格是依&#x200B;_[!UICONTROL Modified]_欄排序。 按一下其他欄標題以變更表格排序依據。 再按一下相同標題，在升序和降序之間切換。
 
 ### 尋找和篩選
 
@@ -75,7 +76,7 @@ ht-degree: 1%
     <li>新增至電子郵件或範本</li>
     <li>建立草稿版本</li>
     <li>重複</li>
-    <li>刪除（如果未使用）</li>
+    <li>刪除（若未使用）</li>
     </td>
   </tr>
   <tr>
@@ -84,10 +85,10 @@ ht-degree: 1%
     <p>可用的動作：
     <li>編輯說明</li>
     <li>新增至電子郵件或範本</li>
-    <li>編輯可視化設計器中的草稿版本</li>
-    <li>Publish草案版本</li>
+    <li>在視覺化設計工具中編輯草稿版本</li>
+    <li>發佈草稿版本</li>
     <li>重複</li>
-    <li>刪除（如果未使用）</li>
+    <li>刪除（若未使用）</li>
     </td>
   </tr>
 </tbody>
@@ -99,12 +100,12 @@ ht-degree: 1%
 
    ![建立片段按鈕](assets/create-fragments-1.png){width="700" zoomable="yes"}
 
-1. 為您的片段提供 a **[!UICONTROL Name]** 和一個可選的 **[!UICONTROL Description]**.
+1. 為您的片段提供&#x200B;**[!UICONTROL Name]**&#x200B;和選用的&#x200B;**[!UICONTROL Description]**。
 
    _片段需求_
 
-   * 名稱：最多 100 個字符，必須是唯一的，不能區分大小寫
-   * 說明： 最多 300 個字符
+   * 名稱：最多100個字元，必須是唯一的，不區分大小寫
+   * 說明：最多300個字元
    * 字元：可使用字母、數字和特殊字元
    * 保留的字元是&#x200B;**_不允許_**： `\ / : * ? " < > |`
 
@@ -159,7 +160,7 @@ ht-degree: 1%
 您可以使用下列其中一種方法來刪除片段：
 
 * 從右側的片段詳細資料中，按一下&#x200B;**[!UICONTROL Delete]**。
-* 從&#x200B;_[!UICONTROL Fragments]_&#x200B;清單頁面，按一下片段旁的省略符號，然後選擇&#x200B;**[!UICONTROL Delete]**。
+* 從&#x200B;_[!UICONTROL Fragments]_清單頁面，按一下片段旁的省略符號，然後選擇&#x200B;**[!UICONTROL Delete]**。
 
 此動作會開啟確認對話方塊。 您可以按一下&#x200B;**[!UICONTROL Cancel]**&#x200B;或按一下&#x200B;**[!UICONTROL Delete]**&#x200B;確認刪除，以中止程式。
 
@@ -169,15 +170,15 @@ ht-degree: 1%
 
 對片段的編輯取決於其目前狀態：
 
-* 當片段處於 _「草稿_ 」狀態時，您可以編輯其任何詳細信息和視覺內容。
-* 當片段處於 _已發佈狀態_ 時，您可以編輯片段描述，但不能編輯名稱。 您無法編輯視覺內容。
+* 當片段處於&#x200B;_草稿_&#x200B;狀態時，您可以編輯其任何詳細資訊和視覺內容。
+* 當片段處於&#x200B;_已發佈_&#x200B;狀態時，您可以編輯片段說明，但不能編輯名稱。 您無法編輯視覺內容。
 * 當片段處於&#x200B;_以草稿_&#x200B;狀態發佈時，編輯詳細資料僅限於說明。 您也可以編輯草稿版本的視覺內容。
 
 >[!BEGINTABS]
 
 >[!TAB 草稿]
 
-1. 從&#x200B;_[!UICONTROL Fragments]_&#x200B;清單頁面，按一下片段名稱以開啟。
+1. 從&#x200B;_[!UICONTROL Fragments]_清單頁面，按一下片段名稱以開啟。
 
    接著會顯示視覺內容的預覽，片段詳細資訊位於右側。
 
@@ -193,35 +194,35 @@ ht-degree: 1%
 
 >[!TAB 已發佈]
 
-1. 從&#x200B;_[!UICONTROL Fragments]_&#x200B;清單頁面，按一下片段名稱以開啟。
+1. 從&#x200B;_[!UICONTROL Fragments]_清單頁面，按一下片段名稱以開啟。
 
    接著會顯示視覺內容的預覽，片段詳細資訊位於右側。
 
 1. 視需要修改說明。
 
-   對於已發佈的片段，所有其他詳細資訊都無法更改。
+   針對已發佈的片段，無法變更所有其他詳細資料。
 
-1. 如果您想更新內容，請按兩下 **[!UICONTROL Create draft version]** 右上角。
+1. 若要更新內容，請按一下右上方的&#x200B;**[!UICONTROL Create draft version]**。
 
-   在對話框中按兩下 **[!UICONTROL OK]** 以在視覺化設計器中打開草稿版本。 如果需要，您可以在此處更改 `image source` KG - 連結。
+   在對話方塊中按一下&#x200B;**[!UICONTROL OK]**，在視覺化設計工具中開啟草稿版本。 您可以視需要變更`image source`公斤 — 此處連結。
 
-   ![建立草稿版本對話框](assets/fragments-create-draft-version.png){width="300"}
+   ![建立草稿版本對話方塊](assets/fragments-create-draft-version.png){width="300"}
 
-1. 按兩下 **[!UICONTROL Save]**，或 **[!UICONTROL Save & close]** 返回片段詳細數據。
+1. 按一下&#x200B;**[!UICONTROL Save]**&#x200B;或&#x200B;**[!UICONTROL Save & close]**&#x200B;以返回片段詳細資料。
 
-1. 如果您要在電子郵件或電子郵件範本中提供片段，請按下 **[!UICONTROL Publish]**。
+1. 當您想要讓片段可用於電子郵件或電子郵件範本時，請按一下&#x200B;**[!UICONTROL Publish]**。
 
 >[!NOTE]
 >
->當您發佈草稿版本時，它將替換當前發佈的版本，並且內容將在已使用的電子郵件和電子郵件範本中更新。
+>當您發佈草稿版本時，草稿版本會取代目前發佈的版本，而內容會更新到已使用草稿的電子郵件和電子郵件範本中。
 
->[!TAB 與草稿一起發佈]
+>[!TAB 已發佈草稿]
 
-有兩種方法可以從列表頁面打開 _[!UICONTROL Fragments]_&#x200B;草稿版本進行編輯：
+有兩種方式可開啟草稿版本，以從&#x200B;_[!UICONTROL Fragments]_清單頁面進行編輯：
 
-* _點選片段名稱旁邊的更多_&#x200B;圖示 （**...**），然後選擇 **[!UICONTROL Open draft version]**。
+* 按一下片段名稱旁的&#x200B;_更多_&#x200B;圖示(**...**)，然後選擇&#x200B;**[!UICONTROL Open draft version]**。
 
-  ![打開草稿版本](assets/fragments-create-draft-version.png){width="300"}
+  ![開啟草稿版本](assets/fragments-create-draft-version.png){width="300"}
 
 * 按一下片段名稱以開啟。 然後，按一下右上方的&#x200B;**[!UICONTROL Open draft version]**。
 
@@ -245,7 +246,7 @@ ht-degree: 1%
 
 您可以使用以下任一方法復製片段：
 
-* 從&#x200B;_[!UICONTROL Fragments]_&#x200B;清單頁面，按一下片段名稱旁的_&#x200B;更多&#x200B;_圖示(**...**)，然後選擇&#x200B;**[!UICONTROL Duplicate]**。
+* 從&#x200B;_[!UICONTROL Fragments]_清單頁面，按一下片段名稱旁的_&#x200B;更多&#x200B;_圖示(**...**)，然後選擇&#x200B;**[!UICONTROL Duplicate]**。
 * 在片段詳細資訊頁面的右上方，按一下&#x200B;**[!UICONTROL ... More]**&#x200B;並選擇&#x200B;**[!UICONTROL Duplicate]**。
 
 ![復製片段](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
@@ -288,7 +289,7 @@ ht-degree: 1%
 >
 >如果您希望片段佔據電子郵件內的整個水準版面，請新增[!UICONTROL 1:1 column]結構，然後將片段拖放至其中。
 
-儲存電子郵件/電子郵件範本後，當選取&#x200B;_[!UICONTROL Used By]_&#x200B;索引標籤時，其會出現在片段詳細資訊頁面中。 新增的片段在電子郵件或範本中無法編輯 — 發佈的來源片段會定義內容。
+儲存電子郵件/電子郵件範本後，當選取&#x200B;_[!UICONTROL Used By]_索引標籤時，其會出現在片段詳細資訊頁面中。 新增的片段在電子郵件或範本中無法編輯 — 發佈的來源片段會定義內容。
 
 ## 電子郵件和範本製作期間的片段動作 {#fragment-actions-during-email-and-template-authoring}
 

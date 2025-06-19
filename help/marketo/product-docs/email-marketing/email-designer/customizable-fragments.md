@@ -3,13 +3,13 @@ solution: Marketo Engage
 product: marketo
 title: 可自訂的片段
 description: 瞭解如何透過將其部分欄位設為可編輯來自訂片段。
-feature: Email Editor
-role: User
 level: Beginner, Intermediate
+feature: Email Designer
+role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '622'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 1. 選取片段中要設定可編輯欄位的元件。
 
-1. 元件屬性窗格會在右側開啟。 選取&#x200B;**[!UICONTROL 可編輯欄位]**&#x200B;索引標籤，然後切換&#x200B;**[!UICONTROL 啟用版本]**&#x200B;選項。
+1. 元件屬性窗格會在右側開啟。 選取「**[!UICONTROL Editable fields]**」標籤，然後切換「**[!UICONTROL Enable edition]**」選項。
 
 1. 窗格中會列出所有可編輯所選元件的欄位。 可編輯的欄位取決於所選的元件型別。
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
-1. 按一下&#x200B;**[!UICONTROL 總覽]**&#x200B;以檢查所有可編輯的欄位及其預設值。
+1. 按一下&#x200B;**[!UICONTROL Overview]**&#x200B;以檢查所有可編輯的欄位及其預設值。
 
    在此範例中，按鈕URL欄位會以元件中定義的預設值顯示。 使用者將片段新增至內容後，即可自訂此值。
 

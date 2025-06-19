@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
-source-wordcount: '9269'
-ht-degree: 1%
+source-wordcount: '9279'
+ht-degree: 2%
 
 ---
 
@@ -1029,6 +1029,7 @@ ht-degree: 1%
          + [功能比較](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [電子郵件製作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [電子郵件範本製作](product-docs/email-marketing/email-designer/email-template-authoring.md)
+         + [使用Litmus測試電子郵件呈現](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization Token](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [使用AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
          + [使用 Adobe Express 編輯影像](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
@@ -1037,7 +1038,8 @@ ht-degree: 1%
          + [適用於Marketo Engage的GenStudio整合](product-docs/email-marketing/email-designer/genstudio.md)
          + [內容鎖定](product-docs/email-marketing/email-designer/content-locking.md)
          + [AI 助理](product-docs/email-marketing/email-designer/ai-assistant.md)
-      + 電子郵件程式 {#email-programs}
+         + [使用SpamAssassin的電子郵件垃圾郵件報告](product-docs/email-marketing/email-designer/spam-report.md)
+      + 電子郵件方案 {#email-programs}
          + 建立電子郵件程式 {#creating-an-email-program}
             + [建立電子郵件程式](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
             + [瞭解電子郵件程式](product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)

@@ -4,10 +4,11 @@ product: marketo
 title: 使用 Adobe Express 編輯影像
 description: 瞭解如何使用Adobe Express在Adobe Marketo Engage電子郵件編輯器中編輯影像。
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '807'
 ht-degree: 1%
 
 ---
@@ -35,7 +36,7 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 >[!TAB 按一下影像名稱]
 
-1. 在Marketo Engage中，移至&#x200B;**[!UICONTROL Design Studio]**&#x200B;並選取&#x200B;**[!UICONTROL 影像和檔案]**。
+1. 在Marketo Engage中，移至&#x200B;**[!UICONTROL Design Studio]**&#x200B;並選取&#x200B;**[!UICONTROL Images and Files]**。
 
    ![在Design Studio的左側導覽中選取影像和檔案](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
@@ -45,11 +46,11 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
    >[!NOTE]
    >
-   >* 若要依工作區和資料夾檢視資產，請按一下左上方的&#x200B;**[!UICONTROL 顯示資料夾]**&#x200B;圖示以開啟結構。
+   >* 若要依工作區和資料夾檢視資產，請按一下左上方的&#x200B;**[!UICONTROL Show Folders]**&#x200B;圖示以開啟結構。
    >
    >* 若要依任何欄排序表格，請按一下欄標題。 標題列中的箭頭表示目前的排序欄和順序。
 
-1. 在影像&#x200B;_詳細資料_&#x200B;索引標籤中，按一下&#x200B;**[!UICONTROL 在Adobe Express中編輯]**。
+1. 在影像&#x200B;_詳細資料_&#x200B;索引標籤中，按一下&#x200B;**[!UICONTROL Edit in Adobe Express]**。
 
    ![按一下「在Adobe Express中編輯」按鈕](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
@@ -59,17 +60,17 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 >[!TAB 影像和檔案動作]
 
-1. 在Marketo Engage中，移至&#x200B;**[!UICONTROL Design Studio]**&#x200B;並選取&#x200B;**[!UICONTROL 影像和檔案]**。
+1. 在Marketo Engage中，移至&#x200B;**[!UICONTROL Design Studio]**&#x200B;並選取&#x200B;**[!UICONTROL Images and Files]**。
 
    ![在Design Studio的左側導覽中選取影像和檔案](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
-   >* 若要依工作區和資料夾檢視資產，請按一下左上方的&#x200B;**[!UICONTROL 顯示資料夾]**&#x200B;圖示以開啟結構。
+   >* 若要依工作區和資料夾檢視資產，請按一下左上方的&#x200B;**[!UICONTROL Show Folders]**&#x200B;圖示以開啟結構。
    >
    >* 若要依任何欄排序表格，請按一下欄標題。 標題列中的箭頭表示目前的排序欄和順序。
 
-1. 選取您要編輯之影像旁的核取方塊。 在&#x200B;**[!UICONTROL 影像和檔案動作]**&#x200B;下拉式清單中，選取&#x200B;**[!UICONTROL 在Adobe Express中編輯]**。
+1. 選取您要編輯之影像旁的核取方塊。 在&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉式清單中，選取&#x200B;**[!UICONTROL Edit in Adobe Express]**。
 
    ![選取影像名稱旁的核取方塊，並使用影像和檔案動作下拉式清單](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
@@ -83,11 +84,11 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 ### 擁有企業授權的使用者 {#users-with-an-enterprise-license}
 
-如果您有Adobe Express的企業版授權，便可以存取完整的Express編輯器。 您可以調整影像設定，例如顏色、亮度、銳利度、對比度、大小等等。 「AI魔術」選項可讓您移除背景、插入和移除物件，以及拭除影像的零件。 請造訪[Adobe Express使用手冊](https://helpx.adobe.com/tw/express/user-guide.html){target="_blank"}以瞭解每個設定。
+如果您有Adobe Express的企業版授權，便可以存取完整的Express編輯器。 您可以調整影像設定，例如顏色、亮度、銳利度、對比度、大小等等。 「AI魔術」選項可讓您移除背景、插入和移除物件，以及拭除影像的零件。 請造訪[Adobe Express使用手冊](https://helpx.adobe.com/tw/express/user-guide.html){target="_blank"}，瞭解每個設定。
 
 >[!IMPORTANT]
 >
->購買的授權必須與您的Marketo Engage訂閱屬於同一個IMS組織，才能存取所有Adobe Express編輯功能。 此外，每位使用者都必須擁有Adobe Express的授權。 沒有授權的使用者[&#128279;](#users-without-an-enterprise-license)只能存取Adobe Express中的快速動作。
+>購買的授權必須與您的Marketo Engage訂閱屬於同一個IMS組織，才能存取所有Adobe Express編輯功能。 此外，每位使用者都必須擁有Adobe Express的授權。 沒有授權的使用者[](#users-without-an-enterprise-license)只能存取Adobe Express中的快速動作。
 
 ### 沒有企業授權的使用者 {#users-without-an-enterprise-license}
 
@@ -134,7 +135,7 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 1. 按一下&#x200B;**移除背景**。
 
-1. Adobe Express會顯示沒有背景的影像。 如果符合您的需求，請按一下[套用]。**&#x200B;**
+1. Adobe Express會顯示沒有背景的影像。 如果符合您的需求，請按一下[套用]。****
 
 ![剛移除背景的狗影像](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
@@ -144,23 +145,23 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 #### 裁切影像 {#crop-image}
 
-1. 按一下&#x200B;**[!UICONTROL 裁切影像]**。
+1. 按一下「**[!UICONTROL Crop Image]**」。
 
 1. 拖曳影像的邊角，以建立您想要的裁切。
 
 ![拖曳像片邊角以裁切影像](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
-1. 完成時，按一下&#x200B;**[!UICONTROL 套用]**。
+1. 完成時，按一下&#x200B;**[!UICONTROL Apply]**。
 
 #### 轉換為PNG/JPEG {#convert-to-png-jpeg}
 
 將PNG檔案轉換為JPEG檔案，或將JPEG檔案轉換為PNG檔案。
 
-1. 按一下「**[!UICONTROL 轉換為PNG/JPEG]**」。
+1. 按一下「**[!UICONTROL Convert to PNG/JPEG]**」。
 
 ![轉換成PNG/JPEG視窗](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
-1. 按一下&#x200B;**[!UICONTROL 套用]**。
+1. 按一下「**[!UICONTROL Apply]**」。
 
 ## 儲存您的工作 {#save-your-work}
 

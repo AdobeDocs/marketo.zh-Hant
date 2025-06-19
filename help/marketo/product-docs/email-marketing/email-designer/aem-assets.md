@@ -1,8 +1,10 @@
 ---
 title: 使用 Experience Manager Assets
 description: 瞭解如何在Adobe Marketo Engage中編寫內容時使用已連線AEM Assets存放庫中的影像資產。
+level: Beginner, Intermediate
+feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 1%
@@ -15,7 +17,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->目前，Marketo Engage僅支援來自&#x200B;_Adobe Experience Manager Assets_&#x200B;的影像資產。 必須從Adobe Experience Manager Assets中央存放庫變更資產。 [了解更多](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>目前，Marketo Engage僅支援來自&#x200B;_Adobe Experience Manager Assets_&#x200B;的影像資產。 必須從Adobe Experience Manager Assets中央存放庫變更資產。 [了解更多](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## 連結至您的AEM雲端服務 {#link-to-your-aem-cloud-services}
 
@@ -71,7 +73,7 @@ ht-degree: 1%
 
 ![在建立對話方塊中選取AEM Assets作為影像來源](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
 
-* 開啟現有的內容資源時，請在右側的&#x200B;_[!UICONTROL Body]_&#x200B;區段中選擇`AEM Assets`。
+* 開啟現有的內容資源時，請在右側的&#x200B;_[!UICONTROL Body]_區段中選擇`AEM Assets`。
 
 ![在屬性中選取AEM Assets作為影像來源](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
@@ -79,7 +81,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->管理員必須將需要存取資產的使用者新增至Assets消費者使用者和/或Assets使用者產品設定檔。 [了解更多](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>管理員必須將需要存取資產的使用者新增至Assets消費者使用者和/或Assets使用者產品設定檔。 [了解更多](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 在視覺內容編輯器中，按一下左側邊欄中的&#x200B;_Experience Manager資產選擇器_&#x200B;圖示。 這會將工具面板變更為所選存放庫中的可用資產清單。
 
@@ -99,7 +101,7 @@ ht-degree: 1%
 
 ![選擇AEM Assets存放庫以存取影像資產](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
-* 將影像元件新增至畫布並按一下&#x200B;**[!UICONTROL Browse]**&#x200B;以開啟&#x200B;_[!UICONTROL Select Assets]_&#x200B;對話方塊。
+* 將影像元件新增至畫布並按一下&#x200B;**[!UICONTROL Browse]**&#x200B;以開啟&#x200B;_[!UICONTROL Select Assets]_對話方塊。
 
   從對話方塊中，您可以從選取的存放庫中選擇影像。
 

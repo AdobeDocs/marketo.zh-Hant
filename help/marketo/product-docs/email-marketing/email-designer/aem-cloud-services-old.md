@@ -1,28 +1,30 @@
 ---
 title: 連線Experience Manager檔案
-description: 瞭解如何將Adobe Experience ManagerCloud Service連結至Adobe Marketo Engage，讓您能夠利用AEM資產。
+description: 瞭解如何將Adobe Experience Manager雲端服務連結至Adobe Marketo Engage，讓您能夠運用AEM資產。
+level: Beginner, Intermediate
+feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 3a3c3dae689760b720c4823bc1d11bf39da998fe
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# 連線Adobe Experience ManagerCloud Service {#connect-adobe-experience-manager-cloud-services}
+# 連線Adobe Experience Manager雲端服務 {#connect-adobe-experience-manager-cloud-services}
 
-瞭解如何將您的AEM Assets Cloud Service帳戶連結至Adobe Marketo Engage執行個體，以便在Marketo Engage電子郵件Designer中善用您的AEM Asset存放庫。
+瞭解如何將您的AEM Assets Cloud Services帳戶連結至Adobe Marketo Engage執行個體，以便在Marketo Engage電子郵件Designer中善用AEM資產存放庫。
 
 >[!NOTE]
 >
 >**需要管理員許可權**
 
-1. 在Marketo Engage中，移至&#x200B;**管理員**&#x200B;區域並在左側導覽樹狀結構中選取&#x200B;**Adobe Experience Manager**。
+1. 在Marketo Engage中，移至&#x200B;**管理員**&#x200B;區域，然後在左側導覽樹狀結構中選取&#x200B;**Adobe Experience Manager**。
 
 熒幕擷圖
 
-1. 按一下&#x200B;_Adobe Experience ManagerCloud Service_&#x200B;旁的&#x200B;**編輯**。
+1. 按一下&#x200B;_Adobe Experience Manager雲端服務_&#x200B;旁的&#x200B;**編輯**。
 
 熒幕擷圖
 
@@ -32,7 +34,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->只會列出與您的Marketo Engage訂閱在同一IMS組織中關聯的存放庫。
+>系統只會列出與您的Marketo Engage訂閱在同一IMS組織中關聯的存放庫。
 
 1. 您必須新增[服務認證憑證](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials)才能設定存放庫。 按一下&#x200B;**+新增憑證**&#x200B;按鈕。
 
@@ -46,7 +48,7 @@ ht-degree: 0%
 
 熒幕擷圖
 
-現在，您可以從Marketo Engage電子郵件Designer存取該存放庫中數位資產管理資料庫的所有影像。
+現在，您可以從Marketo Engage Email Designer存取該存放庫中數位資產管理資料庫的所有影像。
 
 >[!MORELIKETHIS]
 >

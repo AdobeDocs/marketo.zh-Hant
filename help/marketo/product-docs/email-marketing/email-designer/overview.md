@@ -3,9 +3,9 @@ solution: Marketo Engage
 product: marketo
 description: 歡迎使用新的Adobe Marketo Engage電子郵件Designer。
 title: 概觀
-feature: Email Editor
+feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: d7cb61fabcf82bb5fe9a0411cc94abf5445de689
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '824'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 +++瞭解如何存取電子郵件設計工具
 
-若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
+若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ### 新增使用者 {#add-users}
 

@@ -3,11 +3,11 @@ solution: Marketo Engage
 product: marketo
 title: 電子郵件Designer和電子郵件編輯器功能比較
 description: 使用下表來比較先前電子郵件編輯器（電子郵件編輯器2.0）和新電子郵件編輯器Designer中各項功能的可用性。
-feature: Email Editor
-role: User
 level: Beginner, Intermediate
+feature: Email Designer
+role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: f5d0e85ab6aa4227c15685de337afa12f7d8f761
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 9%
