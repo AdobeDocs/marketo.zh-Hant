@@ -5,9 +5,10 @@ title: 使用Litmus測試電子郵件呈現
 description: Marketo Engage使用者可以整合他們的Litmus帳戶，以似乎測試各種電子郵件使用者端中的內容呈現。
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
+source-git-commit: ac1a80c3f337b71109f29583fdfd318e43fd3c79
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 ## 使用方式 {#how-to-use}
 
-1. 在&#x200B;_編輯電子郵件內容_&#x200B;畫面中，按一下&#x200B;**模擬內容**&#x200B;按鈕。
+1. 在&#x200B;_編輯電子郵件內容_&#x200B;畫面上，按一下&#x200B;**模擬內容**&#x200B;按鈕。
 
    ![](assets/test-email-rendering-with-litmus-1.png)
 
@@ -54,10 +55,10 @@ ht-degree: 0%
    >
    >瞭解如何[自訂您的預設電子郵件使用者端清單](https://help.litmus.com/article/227-change-your-default-email-clients-list)。
 
-1. 完成測試後，按一下畫面左上角的向後箭頭，返回&#x200B;_模擬內容_&#x200B;畫面。
+1. 完成測試後，按一下左上方的向後箭頭，返回&#x200B;_模擬內容_&#x200B;畫面。
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**選擇性步驟**：如果您決定變更您的電子郵件，在您按一下&#x200B;**轉譯電子郵件**&#x200B;進行檢視之後，請務必也按一下Litmus熒幕右上角的&#x200B;**重新測試**&#x200B;按鈕。
+**選擇性步驟**：如果您決定變更您的電子郵件，在您按一下&#x200B;**轉譯電子郵件**&#x200B;進行檢視之後，請務必也按一下Litmus _電子郵件預覽_&#x200B;畫面右上角的&#x200B;**重新測試**&#x200B;按鈕。
 
 ![](assets/test-email-rendering-with-litmus-7.png)

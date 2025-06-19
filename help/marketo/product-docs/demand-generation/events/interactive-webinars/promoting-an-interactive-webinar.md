@@ -3,16 +3,16 @@ description: 推廣互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 推廣互動式網路研討會
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: f5b66521f678b2aa618d270077292ddd9b8775c3
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
 
 # 推廣互動式網路研討會 {#promoting-an-interactive-webinar}
 
-宣傳互動式網路研討會與透過Launchpoint宣傳合作夥伴網路研討會類似。 建立互動式網路研討會事件程式時，您可以執行行銷活動或將成員匯入程式來新增成員。 若要檢查已新增至互動式網路研討會活動程式的成員，請按一下&#x200B;**[!UICONTROL 成員]**&#x200B;標籤。
+宣傳互動式網路研討會與透過Launchpoint宣傳合作夥伴網路研討會類似。 建立互動式網路研討會事件程式時，您可以執行行銷活動或將成員匯入程式來新增成員。 若要檢查已新增至互動式網路研討會事件程式的成員，請按一下&#x200B;**[!UICONTROL Members]**&#x200B;標籤。
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
@@ -46,9 +46,13 @@ ht-degree: 0%
 
 ## 互動式網路研討會Token {#interactive-webinars-tokens}
 
-使用權杖，在電子郵件和登陸頁面中推廣互動式網路研討會，無需手動新增網路研討會詳細資訊。 這麼做可改善整體效率，因為對網路研討會中繼資料所做的任何變更（例如網路研討會標題、開始日期等）都會自動反映在您的資產中。
+使用權杖，在電子郵件中推廣互動式網路研討會，無需手動新增網路研討會詳細資訊。 這麼做可改善整體效率，因為對網路研討會中繼資料所做的任何變更（例如網路研討會標題、開始日期等）都會自動反映在您的資產中。
 
 ![](assets/promoting-an-interactive-webinar-3.png)
+
+>[!NOTE]
+>
+>登陸頁面目前不支援互動式網路研討會Token。
 
 **權杖清單**
 

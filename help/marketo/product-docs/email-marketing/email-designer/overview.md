@@ -5,14 +5,14 @@ description: 歡迎使用新的Adobe Marketo Engage電子郵件Designer。
 title: 概觀
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
 workflow-type: tm+mt
-source-wordcount: '824'
+source-wordcount: '861'
 ht-degree: 0%
 
 ---
 
-# 概觀 {#overview}
+# 透過電子郵件傳送Designer概覽 {#overview}
 
 歡迎使用新的Adobe Marketo Engage電子郵件Designer。
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 +++瞭解如何存取電子郵件設計工具
 
-若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
+若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ### 新增使用者 {#add-users}
 
@@ -54,6 +54,8 @@ ht-degree: 0%
 
 * [可自訂的片段](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}：瞭解如何透過編輯某些欄位來自訂片段。
 
+* [Personalization權杖](/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md){target="_blank"}：瞭解新的電子郵件設計工具中個人化權杖的新格式。
+
 * [使用AEM資產](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}：瞭解如何輕鬆存取AEM數位資產，以用於Marketo Engage。
 
 * [使用Adobe Express編輯影像](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}：瞭解如何使用Adobe Express在Adobe Marketo Engage電子郵件編輯器中編輯影像。
@@ -61,6 +63,8 @@ ht-degree: 0%
 * [使用AI助理](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}：利用Adobe的創作AI技術，將有用的文字和/或影像新增到您的電子郵件中。
 
 * [鎖定電子郵件範本中的內容](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}：瞭解如何鎖定電子郵件範本中的內容，以防止無意編輯或刪除。
+
+* [使用Litmus測試電子郵件呈現](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}：利用您在Marketo Engage中的Litmus帳戶，立即檢視您的電子郵件在常見電子郵件使用者端中的呈現方式。
 
 * [功能比較](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：比較舊版電子郵件編輯器(Email Editor 2.0)與新版Email Designer中功能的可用性。
 
@@ -112,4 +116,4 @@ ht-degree: 0%
 
 **哪些瀏覽器可以與新電子郵件Designer搭配使用？**
 
-建議您使用Google Chrome、Apple Safari或Microsoft Edge。 我們日後將提供Mozilla Firefox的完整支援。
+建議您使用Google Chrome、Apple Safari或Microsoft Edge。 我們即將推出對Mozilla Firefox的完整支援。
