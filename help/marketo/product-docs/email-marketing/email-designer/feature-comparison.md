@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 2dc4a0db97f8c7c3e5eee2456da9831ccd6f79cf
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '913'
 ht-degree: 9%
 
 ---
@@ -173,6 +173,12 @@ ht-degree: 9%
     <td>可用</td>
   </tr>
   <tr>
+    <td>Litmus整合</td>
+    <td>能夠<a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">與Litmus</a>整合，以檢視您的電子郵件在不同電子郵件使用者端中的呈現方式。</td>
+    <td>不可用</td>
+    <td>可用</td>
+  </tr>
+  <tr>
     <td>Personalization編輯器</td>
     <td>能夠使用權杖個人化電子郵件中的內容。</td>
     <td>可用</td>
@@ -253,12 +259,6 @@ ht-degree: 9%
    <tr>
     <td>Handlebar指令碼</td>
     <td>能夠在電子郵件中使用Handlebar指令碼。</td>
-    <td>不可用</td>
-    <td>計畫於2025年第3季度推出</td>
-  </tr>
-  <tr>
-    <td>Litmus整合</td>
-    <td>能夠與Litmus整合，以檢視您的電子郵件在不同電子郵件使用者端中的呈現方式。</td>
     <td>不可用</td>
     <td>計畫於2025年第3季度推出</td>
   </tr>
