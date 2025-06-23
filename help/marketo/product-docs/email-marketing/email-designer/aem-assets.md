@@ -75,7 +75,7 @@ ht-degree: 1%
 
 ![在建立對話方塊中選取AEM Assets作為影像來源](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
 
-* 開啟現有的內容資源時，請在右側的&#x200B;_[!UICONTROL Body]_區段中選擇`AEM Assets`。
+* 開啟現有的內容資源時，請在右側的&#x200B;_[!UICONTROL Body]_&#x200B;區段中選擇`AEM Assets`。
 
 ![在屬性中選取AEM Assets作為影像來源](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
@@ -103,7 +103,7 @@ ht-degree: 1%
 
 ![選擇AEM Assets存放庫以存取影像資產](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
-* 將影像元件新增至畫布並按一下&#x200B;**[!UICONTROL Browse]**&#x200B;以開啟&#x200B;_[!UICONTROL Select Assets]_對話方塊。
+* 將影像元件新增至畫布並按一下&#x200B;**[!UICONTROL Browse]**&#x200B;以開啟&#x200B;_[!UICONTROL Select Assets]_&#x200B;對話方塊。
 
   從對話方塊中，您可以從選取的存放庫中選擇影像。
 
