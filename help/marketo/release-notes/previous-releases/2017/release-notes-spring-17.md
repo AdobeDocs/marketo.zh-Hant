@@ -68,7 +68,7 @@ ABM具名帳戶上的&#x200B;**[百分位數評分](https://docs.marketo.com/dis
 
 在訪客關閉您的頁面之前吸引訪客的注意。 設定您的個人化[!UICONTROL Web Campaigns]，使其僅在滑鼠手勢指出訪客正在離開頁面時顯示。
 
-[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**的**[&#x200B;動畫效果
+[!UICONTROL Web Campaigns][&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**的**&#x200B;動畫效果
 
 設定對話方塊網路促銷活動的動畫效果，以自訂進入或退出網頁時促銷活動的顯示方式。 您可以從6種不同的效果中選取，並控制對話方塊的時機和方向。
 

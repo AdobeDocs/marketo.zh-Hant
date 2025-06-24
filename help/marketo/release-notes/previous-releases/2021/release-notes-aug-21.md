@@ -75,7 +75,7 @@ ht-degree: 0%
 
 * **[!DNL Bizible]與Adobe Privacy Service**&#x200B;的整合（2021年9月推出）： [!DNL Bizible]與Adobe Privacy Service的整合可跨Adobe Experience Cloud應用程式集中遵循關鍵資料隱私權法規（例如GDPR）。 您現在可以善用此服務，集中管理所有隱私權要求，以便在[!DNL Bizible]和其他Adobe產品中反映的變更要求。
 
-* Adobe Unified Shell **上的**[!DNL Bizible]： [!DNL Bizible]採用Adobe Unified Shell後，使用者可擁有新功能，這些功能將出現在[!DNL Bizible]應用程式標題列中，並可更輕鬆存取支援資源及應用程式切換。 Adobe Unified Shell可協助在[!DNL Bizible]和其他Adobe Experience Cloud應用程式之間建立一致的體驗。
+* Adobe Unified Shell **上的**&#x200B;[!DNL Bizible]： [!DNL Bizible]採用Adobe Unified Shell後，使用者可擁有新功能，這些功能將出現在[!DNL Bizible]應用程式標題列中，並可更輕鬆存取支援資源及應用程式切換。 Adobe Unified Shell可協助在[!DNL Bizible]和其他Adobe Experience Cloud應用程式之間建立一致的體驗。
 
 * **[!DNL Bizible]網域擁有權和自我管理**： [!DNL Bizible]使用者可運用Adobe Admin Console來管理他們要[!DNL Bizible]追蹤的網域。 這可為先前手動的流程帶來自助服務，並提供在Adobe Experience Cloud應用程式間管理網域所有權和追蹤的一致體驗。
 

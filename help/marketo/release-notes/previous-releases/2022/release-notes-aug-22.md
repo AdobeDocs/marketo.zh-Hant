@@ -50,7 +50,7 @@ ht-degree: 0%
 
 * **Webhook自訂標題可見性**： Webhook自訂標題現在顯示在[!UICONTROL Admin] > [!UICONTROL Webhooks]索引標籤中，以便更佳的可見性。
 
-* **CAPTCHA**：使用reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}評估表單提交的有效性[以評分傳入的表單流量。 建立行銷工作流程，以自動排除、隔離或刪除可疑的機器人流量。
+* **CAPTCHA**：使用reCAPTCHA v3[&#128279;](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}評估表單提交的有效性以評分傳入的表單流量。 建立行銷工作流程，以自動排除、隔離或刪除可疑的機器人流量。
 
 * **核准表單的許可權**：新許可權，可控制哪些設計人員可核准與其他[!UICONTROL Design Studio]資產一致的表單變更。 這可以防止其他設計人員在沒有其他具有核准許可權的人員審閱表單的情況下，將變更推送至表單。
 

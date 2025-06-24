@@ -77,7 +77,7 @@ ht-degree: 0%
 
 **_公告與棄用_**
 
-* 所有使用者必須在2021年1月15日&#x200B;**之前升級至最新版本的Sales Insight**。 如果您尚未完成升級，系統會在您登入應用程式時，提示您完成升級。 請依照本指南](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)中的指示[操作。 更新版本包含已識別安全性弱點的修補程式。 此修補程式最初於2016年4月6日發行。 注意： **1.4363版或以上版本**&#x200B;不需要執行升級。
+* 所有使用者必須在2021年1月15日&#x200B;**之前升級至最新版本的Sales Insight**。 如果您尚未完成升級，系統會在您登入應用程式時，提示您完成升級。 請依照本指南[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)中的指示操作。 更新版本包含已識別安全性弱點的修補程式。 此修補程式最初於2016年4月6日發行。 注意： **1.4363版或以上版本**&#x200B;不需要執行升級。
 * Form 1.0服務的棄用將在&#x200B;**2021年5月**&#x200B;發行版本中生效。 Forms 1.0服務將完全淘汰，導致任何仍在使用的Forms 1.0資產失去功能。 此外，透過不支援的方法（例如程式化表單POST至leadCapture/save和leadCapture/save2端點）提交的表單將會遭到拒絕。 如需詳細資訊與補救，請參閱[我們在Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-the-Marketo-Engage-Form-Platform/ta-p/306631)的貼文。
 * 2021年，Marketo Engage將變更登陸頁面、表單及影像和檔案資產的URL結構。 對於現有的Marketo Engage訂閱，我們將於2021年4月1日開始逐步推出。 有關轉出時間表的更多詳細資訊將於2021年3月發佈。 如需每個受影響資產型別將如何變更的詳細資訊，請參閱[我們在Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-Design-Studio-URLs/ta-p/306632)的貼文。
 
