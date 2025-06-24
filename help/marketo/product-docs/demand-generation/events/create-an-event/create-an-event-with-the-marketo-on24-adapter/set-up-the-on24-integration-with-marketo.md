@@ -3,10 +3,10 @@ description: 設定ON24與Marketo的整合 — Marketo檔案 — 產品檔案
 title: 設定ON24與Marketo的整合
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 0%
+source-wordcount: '263'
+ht-degree: 1%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 建立新使用者 {#create-a-new-user}
 
-1. 仍然在[使用者與角色]中，按一下[使用者]索引標籤&#x200B;**&#x200B;**，然後按一下[邀請新使用者]&#x200B;**&#x200B;**。
+1. 仍然在[使用者與角色]中，按一下[使用者]索引標籤&#x200B;****，然後按一下[邀請新使用者]****。
 
    ![](assets/set-up-the-on24-integration-with-marketo-5.png)
 
@@ -84,4 +84,4 @@ ht-degree: 0%
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 
-1. 使用您儲存的使用者端ID、使用者端密碼和身分識別，導覽至您的ON24帳戶。 其餘步驟均在此執行，並[在此概述](https://on24support.force.com/Support/s/article/Connect-Marketo-ON24-Connect-Data-Integration#Step6){target="_blank"}。
+1. 使用您儲存的使用者端ID、使用者端密碼和身分識別，導覽至您的ON24帳戶。 其餘步驟均在此執行，可在[ON24檔案](https://support.on24.com/hc/en-us/articles/21420762650523-Data-Integration-Setup-Instructions-When-Using-Marketo-Registration-Option-1){target="_blank"}中找到。

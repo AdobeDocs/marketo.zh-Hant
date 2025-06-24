@@ -4,9 +4,9 @@ description: 角色許可權說明 — Marketo檔案 — 產品檔案
 title: 角色許可權說明
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '1448'
+source-wordcount: '1447'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 * 存取Adobe Connect — 提供使用者存取Adobe Connect畫面的許可權
 * 存取Adobe Experience Manager&#42; — 提供使用者存取Adobe Experience Manager畫面的許可權
-* 存取Adobe組織對應&#42; — 讓使用者存取Adobe組織對應畫面
+* 存取Adobe組織對應&#42; — 提供使用者存取Adobe組織對應畫面的許可權
 * 存取管理員稽核軌跡&#42; — 讓使用者可以存取管理員稽核軌跡畫面
 * 存取稽核軌跡&#42; — 讓使用者存取存取稽核軌跡
 * 存取稽核軌跡 — 可讓使用者存取資產稽核軌跡和管理稽核軌跡
@@ -41,7 +41,7 @@ ht-degree: 0%
 * 存取頻道 — 僅授予使用者修改頻道標籤的存取權，不授予其他自訂標籤
 * 存取通訊限制 — 提供使用者存取權，以便在「管理員」中啟用通訊限制
 * 存取CRM — 讓使用者在管理員中存取CRM （例如[!DNL Salesforce]或[!DNL Microsoft Dynamics]）
-* 存取[[!DNL Data.com]](https://data.com) — 讓使用者存取Data.com流程動作
+* 存取`Data.com` — 讓使用者存取Data.com流程動作
 * 存取電子郵件管理員 — 讓使用者存取電子郵件管理員，以變更預設設定，例如取消訂閱和品牌化網域
 * 存取事件合作夥伴 — 讓使用者在管理員中存取LaunchPoint
 * 存取Experience Cloud受眾共用 — 讓使用者有權將受眾從Adobe Experience Cloud同步至Marketo Engage
@@ -58,10 +58,10 @@ ht-degree: 0%
 * 存取預測對象&#42; — 讓使用者可以存取預測對象畫面
 * 存取Revenue Cycle Analytics — 讓使用者能夠存取Admin中的Revenue Cycle Analytics，以設定同步摘要和歸因
 * 存取角色 — 提供使用者管理和編輯角色的存取權，但不提供使用者
-* 存取銷售分析 — 可讓使用者存取管理中的銷售分析，用於設定狀態、API設定、人員評分和其他設定
+* 存取Sales Insight — 讓使用者能在Admin中管理Sales Insight，設定Status、API設定、人員評分和其他設定
 * 存取單一登入 — 提供使用者在Admin中管理單一登入的存取權，可啟用SAML並使用SAML設定和重新導向頁面URL
 * 存取Smart Campaign — 讓使用者可存取Admin中的Smart Campaign，以限制合格人員的限制
-* 存取SOAP API — 讓使用者能夠在Admin中管理網站服務中的SOAP API
+* 存取SOAP API — 讓使用者能在Admin中管理網站服務中的SOAP API
 * 存取標籤 — 讓使用者可存取所有自訂標籤，但通道標籤除外
 * 存取Treasure Check — 讓使用者在Admin中存取Treasure Check的實驗功能
 * 存取使用者 — 提供使用者在管理員中編輯和管理使用者（而非角色）的存取權
@@ -108,11 +108,11 @@ _&#42;為避免現有使用者中斷，此許可權將以被動模式引入，�
 
 _&#42;為避免現有使用者中斷，此許可權將以被動模式引入，目前可見但無法存取。 我們將傳達當它在2024年中成為使用中狀態時如何實作它。_
 
-## 存取行事曆Presentations {#access-calendar-presentations}
+## 存取行事曆簡報 {#access-calendar-presentations}
 
-讓使用者能存取行事曆簡報 — 在底部顯示Presentations按鈕。
+讓使用者可以存取「行事曆」簡報 — 在底部顯示「簡報」按鈕。
 
-* 編輯行事曆Presentations — 讓使用者能在行事曆中編輯簡報
+* 編輯行事曆簡報 — 可讓使用者編輯行事曆中的簡報
 
 ## 存取Design Studio {#access-design-studio}
 

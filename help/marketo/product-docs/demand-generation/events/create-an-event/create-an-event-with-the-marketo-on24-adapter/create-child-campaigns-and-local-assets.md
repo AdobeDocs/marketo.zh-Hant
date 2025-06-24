@@ -4,7 +4,7 @@ description: 建立子行銷活動和本機Assets - Marketo檔案 — 產品檔�
 title: 建立子行銷活動和本機Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '665'
 ht-degree: 1%
@@ -50,7 +50,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->您可以設定ON24以傳送確認、提醒或後續電子郵件。 如需詳細資訊，請參閱[ON24說明網站](https://www.on24.com/live-webcast-elite/){target="_blank"}。
+>您可以設定ON24以傳送確認、提醒或後續電子郵件。 如需詳細資訊，請參閱[ON24說明網站](https://support.on24.com/hc/en-us/categories/26127314569115-Webcast-Elite){target="_blank"}。
 
 ## 註冊子行銷活動要求 {#registration-child-campaign-requirements}
 

@@ -4,9 +4,9 @@ description: 將單一登入新增至入口網站 — Marketo檔案 — 產品�
 title: 新增單一登入至入口網站
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Marketo的作用就像是SAML服務提供者(SP)，並且仰賴外部身分提�
 
 >[!IMPORTANT]
 >
->這不適用於已上線至Adobe身分的訂閱。 對於已上線至Adobe身分的訂閱，單一登入是在Adobe Admin Console中的Adobe組織層級設定。 Adobe Admin Console目前僅支援SP起始。 [在這裡瞭解更多](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
+>這不適用於已上線至Adobe Identity的訂閱。 對於已上線至Adobe Identity的訂閱，單一登入是在Adobe Admin Console中的Adobe組織層級設定。 Adobe Admin Console目前僅支援SP起始。 [在這裡瞭解更多](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
 
 >[!NOTE]
 >
->您是[!DNL Microsoft Azure]使用者嗎？ 檢視他們的[整合教學課程](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}。 僅供參考，其教學課程的步驟5c中有一個錯字。 請將轉送狀態設定為`https://<munchkinid>.mktoweb.com`，**_不是_** `https://<munchkinid>.marketo.com`。
+>您是[!DNL Microsoft Azure]使用者嗎？ 檢視他們的[整合教學課程](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}。 僅供參考，其教學課程的步驟5c中有一個錯字。 請將轉送狀態設定為`https://<munchkinid>.mktoweb.com`，**_不是_** `https://<munchkinid>.marketo.com`。
 
 ## 如何傳送請求 {#how-to-send-the-request}
 
@@ -59,53 +59,53 @@ Marketo的作用就像是SAML服務提供者(SP)，並且仰賴外部身分提�
 
 SSO預設為停用。 請依照以下步驟啟用SAML並進行設定。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 單一登入]**。
+1. 按一下「**[!UICONTROL Single Sign-On]**」。
 
    ![](assets/add-single-sign-on-to-a-portal-2.png)
 
    >[!NOTE]
    >
-   >如果您在&#x200B;**[!UICONTROL 管理員]**&#x200B;底下看不到&#x200B;**[!UICONTROL 單一登入]**，請連絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}。
+   >如果您在&#x200B;**[!UICONTROL Admin]**&#x200B;下沒有看到&#x200B;**[!UICONTROL Single Sign-On]**，請連絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}。
 
-1. 在&#x200B;**[!UICONTROL SAML設定]**&#x200B;區段下，按一下&#x200B;**[!UICONTROL 編輯]**。
+1. 在&#x200B;**[!UICONTROL SAML Settings]**&#x200B;區段下，按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/add-single-sign-on-to-a-portal-3.png)
 
-1. 將&#x200B;**[!UICONTROL SAML單一登入]**&#x200B;變更為&#x200B;**[!UICONTROL 已啟用]**。
+1. 將&#x200B;**[!UICONTROL SAML Single Sign-On]**&#x200B;變更為&#x200B;**[!UICONTROL Enabled]**。
 
    ![](assets/add-single-sign-on-to-a-portal-4.png)
 
-1. 輸入您的&#x200B;**[!UICONTROL 簽發者識別碼]**、**[!UICONTROL 實體識別碼]**，選取&#x200B;**[!UICONTROL 使用者識別碼位置]**，然後按一下&#x200B;**[!UICONTROL 瀏覽]**。
+1. 輸入您的&#x200B;**[!UICONTROL Issuer ID]**、**[!UICONTROL Entity ID]**、選取&#x200B;**[!UICONTROL User ID Location]**，然後按一下&#x200B;**[!UICONTROL Browse]**。
 
    ![](assets/add-single-sign-on-to-a-portal-5.png)
 
-1. 選取您的&#x200B;**[!UICONTROL 身分提供者憑證]**&#x200B;檔案。
+1. 選取您的&#x200B;**[!UICONTROL Identity Provider Certificate]**&#x200B;檔案。
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
-1. 按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
 ## 更新重新導向頁面設定 {#update-redirect-page-settings}
 
-1. 在&#x200B;**[!UICONTROL 重新導向頁面]**&#x200B;區段下，按一下&#x200B;**[!UICONTROL 編輯]**。
+1. 在&#x200B;**[!UICONTROL Redirect Pages]**&#x200B;區段下，按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/add-single-sign-on-to-a-portal-8.png)
 
    >[!NOTE]
    >
-   >使用通用ID及SSO的客戶必須在&#x200B;**[!UICONTROL 登入URL]**&#x200B;欄位中輸入身分提供者的登入URL。
+   >使用通用ID及SSO的客戶必須在&#x200B;**[!UICONTROL Login URL]**&#x200B;欄位中輸入身分提供者的登入URL。
 
-1. 輸入&#x200B;**[!UICONTROL 登出URL]**。 這是您希望在使用者登出Marketo時導向他們的URL。
+1. 輸入&#x200B;**[!UICONTROL Logout URL]**。 這是您希望在使用者登出Marketo時導向他們的URL。
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. 輸入&#x200B;**[!UICONTROL 錯誤URL]**。 這是您希望在登入Marketo失敗時導向使用者的URL。 按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 輸入&#x200B;**[!UICONTROL Error URL]**。 這是您希望在登入Marketo失敗時導向使用者的URL。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 

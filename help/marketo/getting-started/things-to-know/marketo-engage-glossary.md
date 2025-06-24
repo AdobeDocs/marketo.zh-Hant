@@ -4,7 +4,7 @@ short-description: 了解 Marketo Engage 術語及其定義，幫助您快速上
 title: Marketo Engage 字彙表
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '4065'
 ht-degree: 2%
@@ -444,7 +444,7 @@ ht-degree: 2%
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>已知人員</strong></a></td> 
-   <td><p>Marketo <strong>資料庫</strong>中的任何人員資料都視為已知人員資料。 使用者有多種方式可輸入您的資料庫，包括：CRM同步、填寫表單、清單匯入/手動輸入、程式化（rest API/合作夥伴整合）等等。 網路訪客最初是透過Marketo的<strong>Munchkin</strong>網路追蹤進行<strong>編碼</strong> （且為匿名），接著在可識別動作發生時對應至對應的已知個人記錄(例如，按一下Marketo電子郵件中的追蹤連結、填寫帶有電子郵件地址的表單，或透過<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a>和<a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a>中的Marketo關聯銷售機會API手動對應)</p></td> 
+   <td><p>Marketo <strong>資料庫</strong>中的任何人員資料都視為已知人員資料。 使用者有多種方式可輸入您的資料庫，包括：CRM同步、填寫表單、清單匯入/手動輸入、程式化（rest API/合作夥伴整合）等等。 網路訪客最初是透過Marketo的<strong>Munchkin</strong>網路追蹤進行<strong>編碼</strong> （且為匿名），接著在可識別動作發生時對應至對應的已知個人記錄(例如，按一下Marketo電子郵件中的追蹤連結、填寫帶有電子郵件地址的表單，或透過<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking#known-and-anonymous-leads">Munchkin</a>和<a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a>中的Marketo關聯銷售機會API手動對應)</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -535,7 +535,7 @@ ht-degree: 2%
    <td>也稱為MSD。 Marketo與的兩個CRM其中之一原生整合（請參閱<a href="#c"><strong>CRM</strong></a>）。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin</a></strong></td> 
    <td>Marketo的自訂JavaScript追蹤代碼。 它會追蹤造訪您網站的所有個人。 這包括匿名訪客（連同其IP位址和其他資訊）。 </td> 
   </tr> 
   <tr> 
@@ -727,7 +727,7 @@ ht-degree: 2%
    <td>區段內的類別（請參閱<strong>區段</strong>）。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">區段</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">分段</a></strong></td> 
    <td colspan="1">根據您指定的<strong>智慧清單</strong>規則，將<strong>資料庫</strong>中的人員分組。 例如，您可以有一個稱為產業的分段，其中的類別可以是：醫療保健、技術、金融等。 區段可讓您根據所選的人口統計將產品行銷給整個人群組。</td> 
   </tr> 
   <tr> 

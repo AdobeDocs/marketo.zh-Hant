@@ -4,9 +4,9 @@ description: 在Facebook中建立自訂對象 — Marketo檔案 — 產品檔案
 title: 在Facebook中建立自訂對象
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [在管理區段中新增Facebook自訂對象做為LaunchPoint Service](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"}。
+>* [在管理員區段中新增Facebook自訂對象做為LaunchPoint Service](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"}。
 >* 在您的Facebook帳戶中[接受Facebook的自訂對象條款](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"}。
 
 >[!TIP]
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >facebook API允許每個Facebook廣告帳戶最多500個自訂對象。
+   >Facebook API允許每個Facebook廣告帳戶最多500個自訂對象。
 
 1. 輸入&#x200B;**對象名稱**。 按一下&#x200B;**更新**。
 
@@ -64,11 +64,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您推送至Facebook的所有清單都會變成靜態。 Marketo中的智慧列示不會自動更新Facebook中的對象清單以反映傳輸後所做的任何變更。
-
-   >[!TIP]
-   >
-   >檢視Marketo客戶的[Facebook學習路徑](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}。 它涵蓋您需要瞭解的所有內容，從建立Facebook頁面，到使用Marketo的廣告網路整合來鎖定您的Facebook廣告作為目標。
+   >您推送到Facebook的所有清單都會變成靜態。 Marketo中的智慧列示不會自動更新Facebook中的對象清單，以反映傳輸後所做的任何變更。
 
    >[!MORELIKETHIS]
    >
