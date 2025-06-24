@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 新資產REST API {#new-asset-rest-apis}
 
-[新資產REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
+[新資產REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/assets/assets)
 
 我們現在支援透過API建立和編輯電子郵件、範本、我的Token、檔案和程式碼片段[&#128279;](https://developer.adobe.com/marketo-apis/api/asset/)！
 

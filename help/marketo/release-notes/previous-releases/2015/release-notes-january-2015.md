@@ -31,7 +31,7 @@ ht-degree: 0%
 * 依計畫ID取得銷售機會
 * 取得已刪除的銷售機會
 
-此外，Sync Lead也有新選項，可非同步寫入潛在客戶變更，以加快API呼叫速度。 發行後，完整詳細資料將可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home)取得
+此外，Sync Lead也有新選項，可非同步寫入潛在客戶變更，以加快API呼叫速度。 發行後，完整詳細資料將可在[https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home)取得
 
 **電子郵件指令碼自訂物件支援**
 
@@ -62,6 +62,6 @@ ht-degree: 0%
 1. 不含CDN的非同步標籤
 1. 不含CDN的同步標籤
 
-為獲得最佳效能，建議在`<head>`之後將標籤放在網頁標題的頂端。 所有標籤都允許使用[RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。 如需如何部署RTP標籤的詳細資訊，請參閱[這裡](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)。
+為獲得最佳效能，建議在`<head>`之後將標籤放在網頁標題的頂端。 所有標籤都允許使用[RTP API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。 如需如何部署RTP標籤的詳細資訊，請參閱[這裡](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)。
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

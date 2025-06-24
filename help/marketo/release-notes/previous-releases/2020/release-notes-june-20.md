@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 核心Marketo Engage {#core-marketo-engage}
 
-* **[預測對象](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(star)](assets/yellow-star.png)：由Adobe Sensei支援的新智慧列示和智慧行銷活動篩選器可讓您為電子郵件、事件和網路研討會行銷方案建立AI支援的對象區段。 使用AI可協助您根據潛在客戶註冊事件、出席事件或取消訂閱的可能性來細分對象。 根據過去的計畫建立相似的受眾，以有效復寫先前的成功。 透過預測性目標追蹤達成轉換目標，並取得有關如何調整事件方案對象區段的建議。
+* **[預測對象](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=zh-Hant#predictive-audiences)** ![(star)](assets/yellow-star.png)：由Adobe Sensei支援的新智慧列示和智慧行銷活動篩選器可讓您為電子郵件、事件和網路研討會行銷方案建立AI支援的對象區段。 使用AI可協助您根據潛在客戶註冊事件、出席事件或取消訂閱的可能性來細分對象。 根據過去的計畫建立相似的受眾，以有效復寫先前的成功。 透過預測性目標追蹤達成轉換目標，並取得有關如何調整事件方案對象區段的建議。
 * **批次電子郵件提升** ![(star)](assets/yellow-star.png)：增強我們的電子郵件行銷功能，可讓您每小時最多傳送300萬封批次電子郵件。 我們已重新架構批次行銷活動和電子郵件報告處理，以提升電子郵件程式和批次電子郵件行銷活動的效能。 這會縮短傳送的前置時間，並改善完成時間。 設定您的電子郵件傳送，如同您一般的作法，不會增加複雜性。 此增強功能可作為產品附加元件提供，其中也包含傳遞服務啟動套件、電子郵件傳遞工具和多個專用IP位址。
 * **[與Adobe Experience Cloud (AEC)的受眾整合](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**：全新的Adobe Experience Cloud (AEC)整合，可讓您將Marketo Engage的已知潛在客戶靜態清單與多個AEC應用程式同步，以強化現有計畫、解鎖新使用案例，以及協調多管道行銷活動。 此整合包括Adobe Analytics、Adobe Target、Adobe Experience Manager、Adobe Audience Manager和Adobe Advertising Cloud。
 * **[方案成員自訂欄位](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**：擷取並利用方案成員的相關自訂欄位。 在Marketo Engage表單中使用這些新欄位、在方案的成員清單中檢視這些欄位、在智慧清單篩選器和觸發器中運用這些欄位，並將其納入新的智慧行銷活動流量動作中，以增強自動化和更精細的個人化。 您也可以透過UI和API匯入及匯出這些內容。 增強我們的自訂資料物件和欄位功能。
