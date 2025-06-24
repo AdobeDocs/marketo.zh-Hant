@@ -4,9 +4,9 @@ description: 發行說明 — 2014年12月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年12月
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 2014年12月發行版本包含下列功能。 請檢查您的Marketo版本是否有功能可用。 發行後，請務必返回尋找每個功能的詳細文章連結！
 
-## 銷售分析報表 {#sales-insight-reports}
+## [!DNL Sales Insight]個報告 {#sales-insight-reports}
 
-[銷售分析電子郵件績效報表](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)可讓您透過電子郵件和銷售代表來檢視電子郵件量度。 它支援透過Salesforce、Microsoft Dynamics、Outlook外掛程式和Gmail外掛程式傳送的電子郵件。
+[[!DNL Sales Insight] 電子郵件效能報表](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)可讓您透過電子郵件和銷售代表來檢視電子郵件量度。 它支援透過[!DNL Salesforce]、[!DNL Microsoft Dynamics]、[!DNL Outlook]外掛程式和[!DNL Gmail]外掛程式傳送的電子郵件。
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## facebook自訂對象 {#facebook-custom-audiences}
+## [!DNL Facebook]個自訂對象 {#facebook-custom-audiences}
 
-一旦您的Marketo管理員透過「管理員> Launchpoint」新增[Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)，您就可以輕鬆地建立、更新或將Facebook自訂對象取代為Marketo靜態或智慧清單中的潛在客戶[&#128279;](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任何靜態或智慧清單的銷售機會格線底部尋找新的Facebook圖示。
+在您的Marketo管理員透過[!UICONTROL Admin] > [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)新增[[!DNL Facebook] 後，您就可以輕鬆地建立、更新或[以Marketo靜態或智慧清單中的潛在客戶取代 [!DNL Facebook] 自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任何靜態或智慧清單的銷售機會格線底部尋找新的[!DNL Facebook]圖示。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
 ## 權杖編碼設定 {#token-encoding-setting}
 
-我們已推出新的安全性功能，自動HTML編碼權杖，此功能將於2015年3月預設啟用。 在此之前，請在欄位管理中切換此功能，以提前測試行為。 所有潛在客戶和公司代號都會在插入電子郵件或登入頁面時進行編碼。 個別欄位也提供選項。
+我們已推出新的安全性功能，自動為HTML編碼權杖啟用，此功能將於2015年3月預設啟用。 在此之前，請在欄位管理中切換此功能，以提前測試行為。 所有潛在客戶和公司代號都會在插入電子郵件或登入頁面時進行編碼。 個別欄位也提供選項。
 
-## 新的ReST API呼叫 {#new-rest-api-calls}
+## 新的REST API呼叫 {#new-rest-api-calls}
 
-潛在客戶與活動ReST API的三個新呼叫：
+潛在客戶與活動REST API的三次新呼叫：
 
 ·取得潛在客戶分割區
 
@@ -65,15 +65,15 @@ ht-degree: 0%
 
 ·合併銷售機會
 
-發行後，完整詳細資料將可在[https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home)取得
+發行後，完整詳細資料將可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home)取得
 
-## Munchkin Javascript相容性增強功能 {#munchkin-javascript-compatibility-enhancements}
+## [!DNL Munchkin Javascript]相容性增強功能 {#munchkin-javascript-compatibility-enhancements}
 
-我們已對Munchkin進行幾項微幅增強，以確保其持續快速載入，並可在頁面上搭配其他JavaScript的情況下正常運作。
+我們已對[!DNL Munchkin]進行數個微幅增強，以確保其持續快速載入，並可在頁面上搭配其他JavaScript的情況下正常運作。
 
 推出將從12月中旬開始，並持續幾個月。
 
-## Revenue Explorer升級外觀 {#revenue-explorer-upgraded-look-and-feel}
+## [!UICONTROL Revenue Explorer]升級外觀 {#revenue-explorer-upgraded-look-and-feel}
 
 ![](assets/image2014-12-5-11-3a8-3a4.png)
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
 ## RTP：具名帳戶清單模組 {#rtp-named-account-list-module}
 
-在新的「已命名的帳戶」頁面中管理並監視您的關鍵高收益帳戶。 上傳具名帳戶的新清單，以識別並鎖定這些組織。 我們已將此程式自動化，為您提供更大的控制力和彈性，以實施以帳戶為基礎的行銷計畫，並跨不同管道（網頁和廣告）鎖定您的關鍵帳戶。
+在新的[!UICONTROL Named Accounts]頁面中管理和監視您的關鍵高產量帳戶。 上傳具名帳戶的新清單，以識別並鎖定這些組織。 我們已將此程式自動化，為您提供更大的控制力和彈性，以實施以帳戶為基礎的行銷計畫，並跨不同管道（網頁和廣告）鎖定您的關鍵帳戶。
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 

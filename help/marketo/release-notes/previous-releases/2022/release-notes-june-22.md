@@ -1,11 +1,11 @@
 ---
 description: 發行說明 — 2022年6月 — Marketo檔案 — 產品檔案
-title: 發行說明 — 2022年6月
+title: 發行說明 - 2022 年 6 月
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '640'
+source-wordcount: '600'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,17 @@ ht-degree: 0%
 
 ## 行銷資料環境 {#marketing-data-environment}
 
-* **公開自訂物件的CreatedAt/UpdatedAt欄位**：讓您能夠在「人員詳細資料」畫面中檢查這些欄位，以獲得更多深入分析。
+* **公開自訂物件的CreatedAt/UpdatedAt欄位**：讓您能夠在「人員詳細資料」畫面中檢查這些欄位，以取得額外的insight。
 
 ## 跨頻道協調 {#cross-channel-orchestration}
 
-* **改善Dynamic Chat的串流Designer可用性**：無需拖放，即可直接從Designer串流畫布新增卡片。 Dynamic Chat介面也已經過改良，以便提供更清楚的個別卡片內容顯示。
+* **改善[!DNL Dynamic Chat]**&#x200B;的串流Designer可用性：無需拖放，即可直接從Designer串流畫布新增卡片。 [!DNL Dynamic Chat]介面也已經過改良，以提供更清楚的個別卡片內容可見度。
 
-* **Dynamic Chat的進階約會路由規則**： Dynamic Chat提供更多目標約會路由的選項。 指定應根據Marketo Engage屬性路由哪些代理程式約會，確保將銷售機會路由至適當的代理程式。
+* **[!DNL Dynamic Chat]**&#x200B;的進階約會路由規則： [!DNL Dynamic Chat]可提供更多目標約會路由的選項。 指定應根據Marketo Engage屬性路由哪些代理程式約會，確保將銷售機會路由至適當的代理程式。
 
-* **Dynamic Chat的進階對話方塊報告**：使用參與和轉換量度的全新資料視覺效果，更詳細地檢視Dynamic Chat行銷活動的效能。
+* **[!DNL Dynamic Chat]**&#x200B;的進階對話方塊報告：使用參與和轉換量度的全新資料視覺效果，更詳細地檢視[!DNL Dynamic Chat]行銷活動的績效。
 
-* **取消同步處理Dynamic Chat未使用的Marketo Engage屬性**：取消同步處理未使用的Dynamic Chat訂閱中的Marketo Engage屬性，協助您提升資料整潔度，並視需要同步處理其他屬性。
+* **取消同步處理[!DNL Dynamic Chat]**&#x200B;未使用的Marketo Engage屬性：取消同步處理未使用的[!DNL Dynamic Chat]訂閱中的Marketo Engage屬性，協助您進行資料清理，並視需要同步替代屬性。
 
 ## 次世代體驗
 
@@ -45,25 +45,25 @@ ht-degree: 0%
 
 * **全域表單欄位驗證規則排除**：從全域表單驗證規則中排除特定表單，以便訂閱中心和其他重要業務工作流程可以接受所有值。
 
-* **自助服務流程步驟**：擴充Marketo Engage與您棧疊其他部分之間的連線，能夠撰寫自訂的流程步驟以用於Smart Campaigns。 Marketo Engage使用者和合作夥伴均可運用此功能，在「觸發器」、「批次」和「可執行促銷活動」中使用外部Web服務，而非Webhook，後者只能用於「觸發促銷活動」。
+* **自助服務流程步驟**：擴充Marketo Engage與您棧疊其他部分之間的連線，並有能力編寫自訂的流程步驟以用於Smart Campaigns。 Marketo Engage使用者和合作夥伴均可運用此功能，在「觸發器」、「批次」和「可執行促銷活動」中使用外部Web服務，而非Webhook，後者只能用於「觸發促銷活動」。
 
-* **Munchkin通訊協定不可知的連結追蹤**：使用Munchkin延伸對`tel`和`mailto`連結的追蹤支援，以追蹤擴充的網頁行為集。
+* **Munchkin通訊協定無關連結追蹤**：透過Munchkin延伸對`tel`和`mailto`連結追蹤的支援，以追蹤擴展的網頁行為集。
 
-* **適用於Webhook的其他HTTP方法**：將PUT、PATCH和DELETE指定為與Web服務互動的要求型別。
+* **適用於Webhook的其他HTTP方法**：將PUT、PATCH和DELETE指定為與Web服務互動的請求型別。
 
-## 銷售分析 {#sales-insight}
-
-![（星形）](assets/yellow-star.png)
-
-* **Salesforce中的Sales Insight許可權集**：管理員可以透過Marketo App許可權集（屬於Sales Insight Salesforce套件的一部分），提供使用者層級上有限一組人員的Sales Insight存取權，而非設定檔層級。
-
-* **我的Marketo動態磚更新 — Sales Insight動作**： Marketo管理員（以及他們指定的使用者）現在可以透過「我的Marketo」頁面上的新「Sales Insight動作」動態磚，快速導覽至他們的Sales Insight Actions執行個體。
-
-## Sales Connect {#sales-connect}
+## [!DNL Sales Insight] {#sales-insight}
 
 ![（星形）](assets/yellow-star.png)
 
-* **Salesforce API更新**：隨著Salesforce Summer的22年發行版本，Salesforce將不再支援API舊版21-30。 透過此Marketo Engage版本，使用舊版API的所有Sales Connect請求都已更新，以保持在支援的版本中。 如需Salesforce API處分計畫的完整詳細資料，請按一下[這裡](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"}。
+* 在&#x200B;[!DNL Salesforce]**中設定的**[!DNL Sales Insight]&#x200B;許可權：管理員可以透過Marketo App許可權集（屬於[!DNL Sales Insight] [!DNL Salesforce]套件的一部分）提供[!DNL Sales Insight]存取權給使用者層級的有限人員集合，而非設定檔層級。
+
+* **我的Marketo動態磚更新 — [!DNL Sales Insight]動作**： Marketo管理員（以及他們指定的使用者）現在可以透過位於「我的Marketo」頁面上的新[!DNL Sales Insight]動作動態磚，快速導覽至他們的[!DNL Sales Insight]動作執行個體。
+
+## [!DNL Sales Connect] {#sales-connect}
+
+![（星形）](assets/yellow-star.png)
+
+* **[!DNL Salesforce]API更新**：隨著[!DNL Salesforce]夏季&#39;22的發行，[!DNL Salesforce]將不再支援API舊版21-30。 透過此Marketo Engage版本，使用舊版API的所有[!DNL Sales Connect]請求都已更新，以保持在支援的版本中。 如需[!DNL Salesforce] API淘汰計畫的完整詳細資料，請按一下[這裡](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"}。
 
 ## API增強功能 {#api-enhancements}
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 ## 公告 {#announcements}
 
-* **Forms淘汰 — Forms 1.0、銷售機會擷取/儲存端點，以及無指令碼版本的forms**：對Forms 1.0資產的支援將在2022年10月前從Marketo Engage中完全移除。 所有現有的Forms 1.0資產都將停止運作。 Marketo Engage表單將需要JavaScript在登陸頁面和網站上載入。
+* **Forms淘汰 — Forms 1.0、銷售機會擷取/儲存端點，以及無指令碼版本的forms**：對Forms 1.0資產的支援將於2022年10月前從Marketo Engage中完全移除。 所有現有的Forms 1.0資產都將停止運作。 Marketo Engage表單將需要JavaScript才能載入登陸頁面和網站。
 
 **_產品發行網路研討會_**
 

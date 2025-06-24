@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951109
 description: 發行說明 — 2012年10月 — Marketo檔案 — 產品檔案
-title: 發行說明 — 2012年10月
+title: 版本注意事項 - 2012 年 10 月
 exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 0%
+source-wordcount: '346'
+ht-degree: 1%
 
 ---
 
@@ -47,14 +47,14 @@ ht-degree: 0%
 
 ## 社交設定檔 {#social-profiles}
 
-您現在可以在潛在客戶共用內容或使用其社交設定檔填寫表單時，收集有關他們的資訊。 其中包括Facebook、LinkedIn和Twitter控點、他們擁有的朋友數量等。
+您現在可以在潛在客戶共用內容或使用其社交設定檔填寫表單時，收集有關他們的資訊。 這包括[!DNL Facebook]、[!DNL LinkedIn]和[!DNL Twitter]控制代碼、他們擁有的朋友數量等等。
 
-## 收入總管報表訂閱 {#revenue-explorer-report-subscriptions}
+## [!UICONTROL Revenue Explorer]個報告訂閱 {#revenue-explorer-report-subscriptions}
 
-建立報告訂閱並定期傳送收入總管報告給您的關鍵利害關係人，包括非Marketo使用者。 電子郵件會包含報表資料表格或圖表的預覽，以及包含所有報表資料的Excel試算表。
+建立報告訂閱並定期傳送[!UICONTROL Revenue Explorer]報告給您的關鍵利害關係人，包括非Marketo使用者。 電子郵件包含報表資料表或圖表的預覽，以及包含所有報表資料的[!DNL Excel]試算表。
 
 ![](assets/image2014-9-23-10-3a47-3a33.png)
 
 >[!NOTE]
 >
->僅適用於擁有Revenue Explorer的使用者，方法是使用Enterprise或Select Edition購買Revenue Cycle Analytics。
+>僅適用於擁有[!UICONTROL Revenue Explorer]的使用者，方法是向Enterprise或Select Edition購買Revenue Cycle Analytics。

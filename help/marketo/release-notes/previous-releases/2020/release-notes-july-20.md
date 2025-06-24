@@ -4,9 +4,9 @@ description: 發行說明–2020年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2020年7月
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '629'
 ht-degree: 0%
 
 ---
@@ -45,24 +45,24 @@ ht-degree: 0%
 
 * **增加資產API URI大小限制**：統一資源識別碼(URI)大小限制在移除「_method」引數之前，已從8KB增加到65KB。 執行長查詢字串時，此大小限制增加會讓資料更輕鬆地傳遞。 移除「_method」引數是即將進行的安全性升級的一部分。
 
-## 銷售分析 {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
 ![（星形）](assets/yellow-star.png)
 
-* **[為具有非原生Salesforce CRM整合的客戶啟用Sales Insight](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) (Beta)**：具有非原生Salesforce CRM整合的Marketo Engage客戶現在可以使用Sales Insight來幫助他們的銷售團隊瞭解、排定優先順序並與參與度最高的潛在客戶及機會互動，以啟用智慧銷售和更快的交易。
+* **[[!DNL Sales Insight] 針對非原生客戶啟用 [!DNL Salesforce] CRM整合](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) (Beta)**：具有非原生[!DNL Salesforce] CRM整合的Marketo Engage客戶現在可以使用[!DNL Sales Insight]，協助其銷售團隊瞭解、排定優先順序並與參與度最高的銷售機會和機會互動，以實現聰明銷售和更快的交易。
 
-## Sales Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
 ![（星形）](assets/yellow-star.png)
 
 * **[銷售電話的增強型雙方同意：](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)**&#x200B;管理員現在對電話錄製設定有更大的控制權。 [啟用通話錄製](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md)，並確信您遵守雙方同意法。 自動通知正在錄製的通話，並啟動通話前要播放的音訊片段。
 
-<br> 
+&quot;<br>&quot;
 
 ## 公告與淘汰 {#announcements-deprecations}
 
 * **資產API「_method」引數移除**： 2020年9月後，資產API端點將不再接受於POST主體中使用「_method」傳遞查詢引數，以略過URI長度限制。 為因應需要此引數的請求，資產API的URI限制將從8KB增加到65KB。
-* **[Munchkin Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**：在此版本的Munchkin JavaScript Client （版本159）中，我們將開始淘汰Munchkin Associate Lead方法。 如果叫用，您將會收到警告，指出將在未來版本中移除方法。 移除後，方法將無法繼續運作，並且嘗試使用它將失敗。 最近使用過此方法的Marketo Engage客戶將會個別收到使用通知。
-* **支援Internet Explorer**：如先前宣佈的，對Internet Explorer 11的Marketo Engage支援將於&#x200B;**2020年7月31日**&#x200B;結束。 我們將繼續支援Google Chrome、Mozilla Firefox、Apple Safari和Microsoft Edge。
-* **Sky預設體驗**：管理員或使用者將Marketo Sky設定為預設體驗的選項將在此版本中移除，以準備更新主要使用者體驗。 主要體驗更新的更多詳細資訊預計在今年晚些時候推出，將於7月推出。 已將Marketo Sky設定為其預設體驗，或已獲得Marketo Sky存取許可權的使用者，可以繼續從「我的Marketo」首頁上的圖磚存取Marketo Sky。
-* **EdgeHTML （非Chromium） Microsoft Edge支援**： 2020年底，Marketo Engage將不再支援Microsoft Edge的EdgeHTML版本。 自2021年1月1日起，我們將僅支援最新的Microsoft Edge Chromium版本。
+* **[[!DNL Munchkin] 關聯銷售機會](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**：在此版本的Munchkin JavaScript Client （版本159）中，我們將開始棄用[!DNL Munchkin] Associate Lead方法。 如果叫用，您將會收到警告，指出將在未來版本中移除方法。 移除後，方法將無法繼續運作，並且嘗試使用它將失敗。 最近使用過此方法的Marketo Engage客戶將會個別收到使用通知。
+* **支援Internet Explorer**：如先前宣佈的，Marketo Engage對Internet Explorer 11的支援將於&#x200B;**2020年7月31日**&#x200B;結束。 我們將繼續支援[!DNL Google Chrome]、[!DNL Mozilla Firefox]、[!DNL  Apple Safari]和[!DNL Microsoft Edge]。
+* **Sky預設體驗**：管理員或使用者將[!DNL Marketo Sky]設定為預設體驗的選項將在此版本中移除，以準備更新主要使用者體驗。 主要體驗更新的更多詳細資訊預計在今年晚些時候推出，將於7月推出。 已將[!DNL Marketo Sky]設定為其預設體驗，或已授與[!DNL Marketo Sky]存取許可權的使用者，可以繼續從「我的Marketo」首頁上的圖磚存取[!DNL Marketo Sky]。
+* **支援EdgeHTML （非Chromium） [!DNL Microsoft Edge]**： 2020年底Marketo Engage將不再支援Microsoft Edge的EdgeHTML版本。 自2021年1月1日起，我們將僅支援最新的Microsoft Edge Chromium版本。

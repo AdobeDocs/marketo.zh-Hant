@@ -4,9 +4,9 @@ description: 發行說明 — 2012年12月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2012年12月
 exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -29,31 +29,31 @@ ht-degree: 0%
 
 ## 精細管理許可權 {#granular-admin-permissions}
 
-我們的最新版本藉由控制每個角色對Marketo管理區域中不同功能的存取，讓您擁有對管理員角色的更大存取權和控制權。 建立新角色時，您可以指派角色可存取的特定管理員功能。
+我們的最新版本藉由控制每個角色在Marketo [!UICONTROL Admin]區域中不同功能的存取權，讓您對[!UICONTROL Admin]角色有更佳的存取權和控制權。 當您建立新角色時，可以指派該角色可存取的特定[!UICONTROL Admin]功能。
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
 >[!NOTE]
 >
->依預設，具有「存取管理員」許可權的現有角色可以存取所有管理員功能，直到修改為止。
+>依預設，在修改之前，具有&#39;[!UICONTROL Access Admin]&#39;許可權的現有角色都可以存取所有[!UICONTROL Admin]函式。
 
-## BrightTALK介面卡 {#brighttalk-adapter}
+## [!UICONTROL BrightTALK]介面卡 {#brighttalk-adapter}
 
-Marketo BrightTALK配接卡可讓您從即時或隨選網路廣播擷取出席資訊，直接放入Marketo活動中！
+Marketo [!UICONTROL BrightTALK]配接卡可讓您從即時或隨選網路廣播擷取出席資訊，直接放入Marketo活動中！
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
-## Microsoft Dynamics的Marketo Sales Insight {#marketo-sales-insight-for-microsoft-dynamics}
+## [!DNL Microsoft Dynamics]的Marketo [!DNL Sales Insight] {#marketo-sales-insight-for-microsoft-dynamics}
 
-Sales Insight現在可供Microsoft Dynamics客戶使用！
+[!DNL Sales Insight]現在可供[!DNL Microsoft Dynamics]個客戶使用！
 
-## Dynamics機會同步 {#dynamics-opportunity-sync}
+## [!DNL Dynamics]個機會同步 {#dynamics-opportunity-sync}
 
-在Marketo和Microsoft Dynamics之間同步機會資料。
+在Marketo和[!DNL Microsoft Dynamics]之間同步機會資料。
 
 ## 行銷影響的機會報告&#42; {#marketing-influenced-opportunities-report}
 
-檢視您的行銷方案影響了公司管道和收入的百分比。 在&#x200B;**收入總管**&#x200B;中，您現在可以在機會分析中以新的「行銷受影響機會」黃點建立自訂報表。 您也可以在「標準」資料夾中使用下列兩個報表：
+檢視您的行銷方案影響了公司管道和收入的百分比。 在&#x200B;**[!UICONTROL Revenue Explorer]**&#x200B;中，您現在可以在機會分析中使用新的「行銷受影響機會」黃點來建立自訂報表。 您也可以在「標準」資料夾中使用下列兩個報表：
 
 * 行銷對所建立機會的影響
 * 對已結束成功的機會的行銷影響
@@ -62,14 +62,14 @@ Sales Insight現在可供Microsoft Dynamics客戶使用！
 
 ## 方案機會分析中的自訂機會欄位&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
-新增自訂機會欄位，以擴充收入總管中的方案機會分析報表。
+新增自訂機會欄位，讓您的[!UICONTROL Revenue Explorer]方案機會分析報表更為豐富。
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
 ## 行銷活動檢視窗 {#campaign-inspector}
 
-您是否曾想過哪些行銷活動正在使用特定的流量動作，例如變更分數或請求行銷活動？ 或是使用特定篩選器的位置？ 全新的行銷活動檢查程式（可從「寶藏箱」取得）可讓您識別這些行銷活動，以及發生錯誤的作用中行銷活動和行銷活動。
+您是否曾想過哪些行銷活動正在使用特定流量動作，例如[!UICONTROL Change Score]或[!UICONTROL Request Campaign]？ 或是使用特定篩選器的位置？ 新的[!UICONTROL Campaign Inspector] （可從Treasure Check取得）可讓您識別這些行銷活動，以及發生錯誤的作用中行銷活動和行銷活動。
 
-移至&#x200B;**管理員** > **寶藏箱**&#x200B;以啟用&#x200B;**行銷活動檢視窗**。
+移至&#x200B;**[!UICONTROL Admin]** > **[!UICONTROL Treasure Chest]**&#x200B;以啟用&#x200B;**[!UICONTROL Campaign Inspector]**。
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)

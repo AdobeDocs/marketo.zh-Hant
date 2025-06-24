@@ -1,11 +1,11 @@
 ---
 description: 發行說明 — 2021年5月 — Marketo檔案 — 產品檔案
-title: 發行說明 — 2021年5月
+title: 發行說明 - 2021 年 5 月
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '1450'
+source-wordcount: '1436'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 新一代的使用者體驗 {#next-generation-user-experience}
 
-透過全域搜尋預覽，行銷人員可快速檢視共用資產存在於其例項中的位置。 瀏覽器標籤會顯示可改善行銷活動或Design Studio中導覽的位置。 其他樹狀結構和全域搜尋篩選器有助於縮小您的搜尋條件。 樹狀結構中的拖放功能已恢復，讓您在主要應用程式區域中快速且有效率地行動資料夾和資產。 最新更新的圖示(符合Adobe的協助工具標準)和狀態徽章可讓行銷人員在樹狀結構中快速輕鬆地區分資料夾和資產，並識別計畫和資產的狀態。
+透過全域搜尋預覽，行銷人員可快速檢視共用資產存在於其例項中的位置。 瀏覽器索引標籤會顯示位置，以改善[!UICONTROL Marketing Activities]或[!UICONTROL Design Studio]中的導覽。 其他樹狀結構和全域搜尋篩選器有助於縮小您的搜尋條件。 樹狀結構中的拖放功能已恢復，讓您在主要應用程式區域中快速且有效率地行動資料夾和資產。 最新更新的圖示(符合Adobe的協助工具標準)和狀態徽章可讓行銷人員在樹狀結構中快速輕鬆地區分資料夾和資產，並識別計畫和資產的狀態。
 
 ## 體驗自動化 {#experience-automation}
 
@@ -36,9 +36,9 @@ ht-degree: 0%
 
 ## 跨頻道協調 {#cross-channel-orchestration}
 
-* **Forms中的敏感資料欄位**：將資料欄位定義為敏感，並限制這些欄位的表單預填，Protect客戶的個人識別資訊(PII)就不會顯示在Adobe Marketo Engage表單中。 每當訪客檢視登入頁面上的表單時，定義為敏感的欄位都不會顯示任何預先填入的資料。
+* **Forms中的敏感資料欄位**：將資料欄位定義為敏感，並限制這些欄位的表單預填，以保護客戶的個人識別資訊(PII)不顯示在Adobe Marketo Engage表單中。 每當訪客檢視登入頁面上的表單時，定義為敏感的欄位都不會顯示任何預先填入的資料。
 
-* **封鎖垃圾訊息表單提交**： Protect您的Adobe Marketo Engage資料庫，防止垃圾資料對銷售人員造成無效警示、觸發行銷活動積壓，以及建立不想要的活動。 新的驗證機制會拒絕無效的表單提交並停止機器人攻擊。 您的資料更乾淨，行銷活動會如預期運作，將傳送不合格銷售線索的風險降至最低。
+* **封鎖垃圾訊息表單提交**：保護您的Adobe Marketo Engage資料庫，使其免受垃圾資料的影響，這些垃圾資料可能會對銷售人員造成無效警示、觸發行銷活動積壓，以及建立不必要的活動。 新的驗證機制會拒絕無效的表單提交並停止機器人攻擊。 您的資料更乾淨，行銷活動會如預期運作，將傳送不合格銷售線索的風險降至最低。
 
 * **電子郵件程式核准警告**：在對先前核准的程式進行新編輯時，防止傳送錯誤的電子郵件。  當行銷人員將變更套用至已核准的電子郵件，但隨後忘記核准最新變更時，警告會充當護欄，並傳送電子郵件給沒有內容、不良內容或舊內容的大型對象。
 
@@ -60,11 +60,11 @@ ht-degree: 0%
 
 * **大量活動擷取API**：執行大量擷取時，可控制資料的數量和型別。 篩選掉不必要的資料點，並控制大量擷取活動資料所需的API呼叫數。  例如，選取開啟的電子郵件、造訪網頁，或變更潛在客戶分數，並留下您不想分析的其他值變更。 簡化程式，減少API呼叫和資料清理的數量。
 
-* **銷售機會API**：識別Adobe Marketo Engage中具有AdobeECID (Experience CloudID)相關的銷售機會。  Adobe Marketo Engage客戶可以從選取的行銷活動建立銷售機會清單，並使用ECID (Experience CloudID)在Adobe Analytics中建立該特定清單的報告。 Adobe Marketo Engage與Adobe Experience Cloud的整合為細分、鎖定目標和報告開啟了無限商機。
+* **銷售機會API**：識別Adobe Marketo Engage中具有Adobe ECID (Experience Cloud ID)相關聯的銷售機會。  Adobe Marketo Engage客戶可以從選取的行銷活動建立銷售機會清單，並使用ECID (Experience Cloud ID)在Adobe Analytics中建立該特定清單的報告。 Adobe Marketo Engage與Adobe Experience Cloud的整合為細分、鎖定目標和報告開啟了無限商機。
 
 * **大量潛在客戶匯入API**：控制大量潛在客戶匯入及其所使用的資源。 此增強功能會在大量潛在客戶匯入程式期間，建立潛在客戶與公司之間的關聯。 如果API呼叫，可提升處理資料的效率並降低使用量。
 
-* **適用於Microsoft Dynamics Online客戶的Web API型整合**： MS Dynamics Web API是以8.0版REST通訊協定引進的，並實作OData （開放式資料通訊協定） v4。 OData是OASIS (Organization for the Advanced of Structured Information Standards)標準，用於建置和使用RESTful服務以取代豐富的資料。 需要使用此方法與Microsoft Dynamics整合的Adobe Marketo Engage客戶，目前正在從SOAP (Simple Object Access Protocol)移轉至Web API型連線。
+* **適用於[!DNL Microsoft Dynamics Online]客戶的Web API整合**： [!DNL MS Dynamics] Web API是以8.0 REST通訊協定版本引入，並實作OData （開放資料通訊協定） v4。 OData是OASIS (Organization for the Advanced of Structured Information Standards)標準，用於建置和使用RESTful服務以取代豐富的資料。 需要使用此方法與[!DNL Microsoft Dynamics]整合的Adobe Marketo Engage客戶目前正在從SOAP (Simple Object Access Protocol)移轉至Web API型連線。
 
 ## 行銷資料環境 {#marketing-data-environment}
 
@@ -76,13 +76,13 @@ ht-degree: 0%
 
 ![](assets/yellow-star.png)
 
-* **與LinkedIn Lead Gen Forms (Beta)整合**：透過Bizible進階歸因解決方案，深入瞭解您的LinkedIn通路支出和ROI。 透過與LinkedIn的Lead Gen Forms的最新整合，Bizible得以深入瞭解在LinkedIn平台內提交的表單。 這些表單填寫會比對您CRM （客戶關係管理）或Adobe Marketo Engage執行個體的銷售機會，因此符合歸因資格，並可根據您的其他行銷活動進行追蹤。
+* **與[!DNL LinkedIn] Lead Gen Forms (Beta)整合**：透過Bizible優質歸因解決方案，深入瞭解您的[!DNL LinkedIn]通路支出和ROI。 透過與[!DNL LinkedIn]的Lead Gen Forms的最新整合，Bizible將insight帶入已在[!DNL LinkedIn]平台內提交的表單。 這些表單填寫會比對您CRM （客戶關係管理）或Adobe Marketo Engage執行個體的銷售機會，因此符合歸因資格，並可根據您的其他行銷活動進行追蹤。
 
 ## 公告 {#announcements}
 
 * **Marketo產品檔案切換平台**：我們很高興宣佈，自5月7日星期五起，Marketo產品檔案已加入Adobe Experience League。 您仍可使用URL： docs.marketo.com ，如果您有任何已建立書籤的現有文章，系統將會重新導向您。 新平台提供所有產品檔案，並計畫於今年晚些時候推出增強功能。
 
-* **簡化使用者管理及單一登入(由Adobe識別系統支援)**：自2021年7月起，新的Adobe Marketo Engage客戶將使用Adobe使用者認證上線。 目前客戶至整合式身分系統的移轉作業要到2022年年中才會進行，且客戶須另行通知後才能採取行動。 單一登入可讓IT/安全性管理員管理多個Adobe Marketo Engage產品執行個體及其他Experience Cloud解決方案，並透過共用主控台設定SSO （Shared Services組織）。 管理員可以透過通用Admin Console方便地管理使用者群組和使用者權益。
+* **簡化使用者管理及單一登入(由Adobe Identity System提供技術支援)**：自2021年7月起，新的Adobe Marketo Engage客戶將使用Adobe使用者認證上線。 目前客戶至整合式身分系統的移轉作業要到2022年年中才會進行，且客戶須另行通知後才能採取行動。 單一登入可讓IT/安全性管理員管理多個Adobe Marketo Engage產品執行個體及其他Experience Cloud解決方案，並透過共用主控台設定SSO （Shared Services組織）。 管理員可以透過通用Admin Console方便地管理使用者群組和使用者權益。
 
 **_產品發行網路研討會_**
 

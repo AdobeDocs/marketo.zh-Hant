@@ -4,9 +4,9 @@ description: 發行說明 — 2014年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年7月
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 行銷行事曆 {#marketing-calendar}
 
-檢視所有跨計畫的事件、電子郵件等。 [此新產品](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)將免費提供給擁有10位或更少Marketo Lead Management或Dialog使用者的客戶。
+檢視所有跨計畫的事件、電子郵件等。 [此新產品](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)將免費提供給擁有10位或10位以下的[!DNL Marketo Lead Management]或Dialog使用者的客戶。
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
-Marketo Lead Management將更新為時尚現代的新外觀，並包含更新的導覽。
+[!DNL Marketo Lead Management]將更新為時尚的新外觀，並包含更新的導覽。
 
 ## 日期運運算元 {#date-operators}
 
-「過去之前」、「未來」和「未來之後」的[進階篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)。 例如，尋找未來3個月內有出生日期的銷售機會，或在6個月後到期的合約。
+「[!UICONTROL in past before]」、「[!UICONTROL in future]」和「[!UICONTROL in future after]」的[進階篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)。 例如，尋找未來3個月內有出生日期的銷售機會，或在6個月後到期的合約。
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -45,9 +45,9 @@ Marketo Lead Management將更新為時尚現代的新外觀，並包含更新的
 * 新的暫定日期 — 請將其入筆！
 * 自訂專案型別 — 待辦事項、新聞稿、任何您想要的專案
 
-## ReST API中的清單作業 {#list-operations-in-the-rest-api}
+## REST API中的清單作業 {#list-operations-in-the-rest-api}
 
-我們在ReST中新增了以下與清單作業相關的呼叫。 如需完整檔案，請參閱[https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api)。
+我們在ReST中新增了以下與清單作業相關的呼叫。 如需完整檔案，請參閱[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)。
 
 * 依ID取得清單
 * 取得多個清單
@@ -60,11 +60,11 @@ Marketo Lead Management將更新為時尚現代的新外觀，並包含更新的
 
 「略過新的銷售機會和更新」選項維持不變。
 
-## 新改良的Munchkin！ {#new-improved-munchkin}
+## 全新改良的Munchkin！ {#new-improved-munchkin}
 
 推出將於7月中旬開始，並持續數月。
 
-* 移除相依性jQuery，以提供完整和未來的相容性
+* 移除相依性[!DNL jQuery]，以取得完整及未來的相容性
 * 與網站上的其他JavaScript更相容
 * 在過去一年中，已在許多網站上經過全面測試！
 
@@ -78,7 +78,7 @@ RTP設定行銷活動頁面現在[包含現成的範本](/help/marketo/product-d
 
 ## RTP： JavaScript API增強功能 {#rtp-javascript-api-enhancements}
 
-新的RTP API呼叫可取得即時訪客資料，例如組織、產業、地點和區段代碼相符。 此外，將游標暫留在「區段」頁面中的區段名稱上，會顯示顯示區段代碼的工具提示。 如需完整檔案，請參閱我們的[開發人員網站](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
+新的RTP API呼叫可取得即時訪客資料，例如組織、產業、地點和區段代碼相符。 此外，將游標暫留在「區段」頁面中的區段名稱上，會顯示顯示區段代碼的工具提示。 如需完整檔案，請參閱我們的[開發人員網站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

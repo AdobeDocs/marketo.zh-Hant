@@ -4,9 +4,9 @@ description: 發行說明 — 2014年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年3月
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## Analytics的包含與作業程式 {#inclusive-and-operational-programs-for-analytics}
 
-您現在可以在收入總管和分析程式中[包含不含期間成本的程式](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)，方法是在編輯程式頻道時將Analytics行為選項設為「包含」。 您也可以選擇「作業」，將作業程式排除在報表之外。
+您現在可以在[!UICONTROL Revenue Explorer]和分析程式中[包含不含期間成本的程式](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)，方法是在編輯程式頻道時將Analytics Behavior選項設為「包含」。 您也可以選擇「作業」，將作業程式排除在報表之外。
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 

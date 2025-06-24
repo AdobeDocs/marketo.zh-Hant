@@ -4,9 +4,9 @@ description: 發行說明 — 2012年6月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2012年6月
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '670'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ## 匯入欄位對應 {#import-field-mapping}
 
-我們簡化將清單匯入Marketo的程式！ 在匯入過程中，您可以將Marketo欄位的名稱對應到匯入檔案中的欄標題名稱。 此外，在Admin中，您可以設定對應至Marketo中欄位名稱的別名，確保您的使用者每次都選取正確的欄位。
+我們簡化將清單匯入Marketo的程式！ 在匯入過程中，您可以將Marketo欄位的名稱對應到匯入檔案中的欄標題名稱。 此外，您可以在[!UICONTROL Admin]中設定對應至Marketo中欄位名稱的別名，確保您的使用者每次都選取正確的欄位。
 
 當您繼續匯入及對應欄位時，Marketo會在匯入期間記住並顯示對應，以方便使用。 若要讓生活更輕鬆，您可以按一下「範例值」標題，檢視將填入欄位中的不同值。 這有助於確保您每次都對應正確的欄位！
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
-## 智慧列示和靜態清單的摘要頁面 {#summary-page-for-smart-lists-and-static-lists}
+## 智慧列示和靜態清單的[!UICONTROL Summary]頁面 {#summary-page-for-smart-lists-and-static-lists}
 
 您是否曾想過清單的使用位置？ 或清單的建立者或上次修改者？ 智慧列示和靜態清單中可用的新摘要頁面，將為您提供這些重要詳細資訊。
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## 用於Assets {#used-by-for-assets}
+## 適用於Assets的[!UICONTROL Used By] {#used-by-for-assets}
 
-我們在資產摘要頁面中新增了一個索引標籤，稱為「使用者」！
+我們在資產[!UICONTROL Summary]頁面中新增了一個索引標籤，稱為[!UICONTROL Used By]！
 
 ![](assets/image2014-9-23-10-3a24-3a5.png)
 
-範例：用於靜態清單
+範例： [!UICONTROL Used By]靜態清單
 
 ## 登陸頁面格線 {#landing-page-gridlines}
 
@@ -63,13 +63,13 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a24-3a51.png)
 
-## 等待步驟 — 銷售機會代號和我的代號 {#wait-step-lead-token-and-my-token}
+## [!UICONTROL Wait]步驟 — 潛在客戶權杖和我的權杖 {#wait-step-lead-token-and-my-token}
 
-在5月版本中，我們在「等待流程」步驟中新增了進階選項。 透過這些變更，您可以指定營業日、日期和時間。 在此版本中，我們新增了在等待步驟中使用權杖的功能。 例如，您可能會想要使用`{{lead.Birthday}}`在他們的生日傳送電子郵件，或使用`{{my.Event Date}}`傳送最終的網路研討會提醒。
+在5月版本中，我們已將進階選項新增至「[!UICONTROL Wait]」流程步驟。 透過這些變更，您可以指定營業日、日期和時間。 在此版本中，我們新增了在等待步驟中使用權杖的功能。 例如，您可能會想要使用`{{lead.Birthday}}`在他們的生日傳送電子郵件，或使用`{{my.Event Date}}`傳送最終的網路研討會提醒。
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
-## 在Design Studio中以縮圖檢視 {#view-as-thumbnails-in-design-studio}
+## 在Design Studio中以[!UICONTROL Thumbnails]身分[!UICONTROL View] {#view-as-thumbnails-in-design-studio}
 
 將檢視從影像清單切換為縮圖檢視！
 

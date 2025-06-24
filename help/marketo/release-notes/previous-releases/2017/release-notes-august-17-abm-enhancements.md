@@ -4,9 +4,9 @@ description: 發行說明 — 2017年8月ABM增強功能 — Marketo檔案 — �
 title: 發行說明 — 2017年8月ABM增強功能
 exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 請按一下標題連結以檢視每個功能的詳細文章。
 
-## 帳戶分析 {#account-insight}
+## [!DNL Account Insight] {#account-insight}
 
-**[Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)**&#x200B;是Google Chrome外掛程式，可為您的銷售團隊呈現可採取行動的ABM和帳戶分析，讓他們與行銷密切合作，以有效與帳戶互動。 銷售團隊將能看見針對他們擁有的每個具名帳戶所產生的資料和深入分析。 這將包括帳戶分數百分比、其具名帳戶的優先順序清單、這些帳戶中的參與人員，以及帳戶中最近活動的即時活動資料流。
+**[[!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)**&#x200B;是[!DNL Google Chrome]外掛程式，可向您的銷售團隊呈現可操作的ABM和帳戶分析，讓他們能與行銷密切合作，以有效與帳戶互動。 銷售團隊將能看見針對他們擁有的每個具名帳戶所產生的資料和深入分析。 這將包括帳戶分數百分比、其具名帳戶的優先順序清單、這些帳戶中的參與人員，以及帳戶中最近活動的即時活動資料流。
 
 ![](assets/image001.png) ![](assets/image002.png)
 

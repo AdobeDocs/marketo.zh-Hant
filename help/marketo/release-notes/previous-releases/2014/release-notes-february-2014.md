@@ -4,9 +4,9 @@ description: 發行說明 — 2014年2月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年2月
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 2014年2月發行版本包含下列功能。 請檢查您的Marketo版本是否有功能可用。 發行後，請務必返回尋找每個功能的詳細知識庫文章連結！
 
-## 參與分數作為成功標準 {#engagement-score-as-winning-criteria}
+## [!UICONTROL Engagement Score]為獲勝條件 {#engagement-score-as-winning-criteria}
 
 [使用參與分數](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)來決定A/B分割測試或冠軍/挑戰者測試中的成功變體。 測試必須執行至少24小時，以提供足夠的參與分數。
 
 ![](assets/image2014-9-22-10-3a46-3a49.png)
 
-## 以電子郵件傳送方案結果標籤 {#email-program-results-tab}
+## 電子郵件程式[!UICONTROL Results]索引標籤 {#email-program-results-tab}
 
 [檢視結果](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md)和為電子郵件程式記錄的活動。
 
 ![](assets/image2014-9-22-10-3a47-3a19.png)
 
-## 封鎖郵寄的人員/銷售機會 {#people-leads-blocked-from-mailing}
+## 人員/[!UICONTROL Leads]已封鎖郵寄 {#people-leads-blocked-from-mailing}
 
 [按一下封鎖郵寄的人員/銷售機會](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)號碼，檢視哪些人不會收到因取消訂閱、列入黑名單、電子郵件地址無效或空白，或行銷活動被暫停而收到的電子郵件。
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 ## 匯出電子郵件程式資料 {#export-email-program-data}
 
-[將電子郵件度量匯出至Excel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)，包括AB測試變體資料。
+[將電子郵件度量匯出至 [!DNL Excel]](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)，包括AB測試變體資料。
 
-## [!UICONTROL 參與資料流績效]報告中的[!UICONTROL 參與分數] {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Engagement Stream Performance]報告中的[!UICONTROL Engagement Score] {#engagement-score-in-engagement-stream-performance-report}
 
-我們已將參與分數新增至[[!UICONTROL 參與資料流效能]報告](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)，協助您瞭解參與計畫中的內容有多有效。
+我們已將參與分數新增到[[!UICONTROL Engagement Stream Performance]報告](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)，以協助您瞭解參與計畫中的內容有多有效。
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
@@ -53,9 +53,9 @@ ht-degree: 0%
 
 已更新下列篩選器和觸發器名稱：
 
-* 點按連結至網頁上的點按連結
-* 指向網頁上已點按連結的點按連結
-* 未點按連結至未點按網頁上的連結
+* 按一下連結至[!UICONTROL Clicks Link on Web Page]
+* 已點按連結至[!UICONTROL Clicked Link on Web Page]
+* 未點按[!UICONTROL Not Clicked Link on Web Page]的連結
 
 ![](assets/image2014-9-22-10-3a51-3a31.png)
 

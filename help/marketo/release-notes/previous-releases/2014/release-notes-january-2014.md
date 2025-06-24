@@ -4,9 +4,9 @@ description: 發行說明 — 2014年1月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年1月
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,13 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
-想要僅在使用者選取美國作為其「國家/地區」時顯示「州」嗎？ 如何根據客戶回答您表單上的問題，向客戶展示不同的白皮書？ 直接從編輯器將條件式邏輯建置到您的表單中。 不需要javascript！
+想要僅在使用者選取美國作為其「國家/地區」時顯示「州」嗎？ 如何根據客戶回答您表單上的問題，向客戶展示不同的白皮書？ 直接從編輯器將條件式邏輯建置到您的表單中。 不需要[!DNL javascript]！
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
 **輕鬆將Forms內嵌在您自己的登陸頁面上：**
 
-從放置於Marketo登陸頁面上的表單中提取html程式碼並將它們拖放到iFrame中的日子已經一去不復返了。 只要抓住內嵌程式碼，並將其放置在您要轉譯表單的登陸頁面上。 兩種模式（一般和燈箱）可讓您在網站上使用Marketo表單獲得更大的彈性。
+從放置在Marketo登陸頁面上的表單中提取html程式碼並將它們拖放到[!DNL iFrame]中的日子已經過去。 只要抓住內嵌程式碼，並將其放置在您要轉譯表單的登陸頁面上。 兩種模式（一般和燈箱）可讓您在網站上使用Marketo表單獲得更大的彈性。
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 

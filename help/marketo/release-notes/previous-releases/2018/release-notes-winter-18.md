@@ -3,10 +3,9 @@ unique-page-id: 13795395
 description: 發行說明 — 冬季』18年 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2018年冬季
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -21,9 +20,9 @@ ht-degree: 0%
 
 Marketo運用我們的大型資料架構，提高觸發行銷活動的輸送量，並改善網路活動處理，讓您更迅速地回應對象的動作。
 
-## Marketo Salesforce CRM整合的增強功能 {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Marketo [!DNL Salesforce] CRM整合的增強功能 {#enhancements-to-marketo-s-salesforce-crm-integration}
 
-Salesforce CRM整合有兩項增強功能：
+我們的[!DNL Salesforce] CRM整合有兩項增強功能：
 
 * 針對某些CRM同步處理失敗（憑證過期、達到API限制等），[Marketo管理員通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
 
@@ -35,7 +34,7 @@ Salesforce CRM整合有兩項增強功能：
 
 >[!AVAILABILITY]
 >
->效能深入分析是一項附加產品。 如需報價，請聯絡您的Marketo客戶經理或客戶主管。
+>[!UICONTROL Performance Insights]是附加產品。 如需報價，請聯絡您的Marketo客戶成功經理或客戶主管。
 
 透過Attribution Analytics、互動式視覺效果和詳細的資料表格，探索行銷活動和管道如何影響業務結果。
 
@@ -45,7 +44,7 @@ Salesforce CRM整合有兩項增強功能：
 
 **[ABM階層](/help/marketo/product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)**
 
-對於擁有Salesforce或Microsoft Dynamics的ABM客戶，ABM現在會自動繼承（及顯示）在CRM中建立的父子關係。 您就可以在統計報表和行銷活動執行中使用這些關係。
+對於具有[!DNL Salesforce]或[!DNL Microsoft Dynamics]的ABM客戶，ABM現在將自動繼承（及顯示）在CRM中建立的父子關係。 您就可以在統計報表和行銷活動執行中使用這些關係。
 
 ## 電子郵件行銷 {#email-marketing}
 
@@ -63,11 +62,11 @@ Salesforce CRM整合有兩項增強功能：
 
 **[Google Customer Match整合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-透過這項整合，您可以傳送Marketo對象至Google，以使用Google AdWords設為目標，並跨YouTube、Search和Gmail重新鎖定對象。
+透過這項整合，您可以傳送Marketo對象至Google以使用[!DNL Google AdWords]定位，以及跨[!DNL YouTube]、搜尋和[!DNL Gmail]重新定位對象。
 
-**[LinkedIn Matched Audiences API增強功能](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[[!DNL LinkedIn] 相符的Audiences API增強功能](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
-現在，新的LinkedIn API可讓您跨多個Marketo Campaign Manager帳戶，重新鎖定LinkedIn資料庫中的使用者。
+我們的新[!DNL LinkedIn] API現在可讓您跨多個[!DNL LinkedIn]行銷活動經理帳戶，重新鎖定Marketo資料庫中的人員。
 
 ## 網頁Personalization {#web-personalization}
 
@@ -87,15 +86,15 @@ Web Personalization現在可以將內容個人化給屬於行銷活動(MLM)中�
 
 ## 整合 {#integration}
 
-**[啟用/停用行銷活動API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[啟用/停用行銷活動API](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 
 此新API可讓您從遠端啟用和停用觸發程式行銷活動，因此您現在可以建立完全自動化的方案範本。 一次建立方案範本，然後自動複製、行銷宣傳品更新，現在則啟動/排程智慧型行銷活動。
 
-## ToutApp {#toutapp}
+## [!DNL ToutApp] {#toutapp}
 
 **取消訂閱更新**
 
-自2018年3月1日起，從[ToutApp.com](https://ToutApp.com)傳送的所有電子郵件（以及使用Salesforce中的「含Tout的電子郵件」按鈕）底部都會附加一個取消訂閱連結。
+自2018年3月1日起，從[ToutApp.com](https://ToutApp.com)傳送的所有電子郵件（以及使用[!DNL Salesforce]中的[包含[!DNL Tout]的電子郵件]按鈕）底部都會附加一個取消訂閱連結。
 
 **即時摘要更新**
 
@@ -103,4 +102,4 @@ Web Personalization現在可以將內容個人化給屬於行銷活動(MLM)中�
 
 **人員詳細資料檢視更新**
 
-改善的People Detail View (PDV)將您的Tout和Salesforce CRM聯絡人詳細資料彙集在一起，提供您聯絡人的全面檢視。
+改善的人員詳細資料檢視(PDV)將您的[!DNL Tout]和[!DNL Salesforce] CRM連絡人詳細資料彙集在一起，提供您連絡人的完整檢視。

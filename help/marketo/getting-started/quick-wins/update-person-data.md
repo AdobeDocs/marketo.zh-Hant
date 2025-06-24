@@ -4,9 +4,9 @@ description: 更新人員資料 — Marketo檔案 — 產品檔案
 title: 更新個人資料
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 尋找需要更新的人員 {#find-the-person-you-need-to-update}
 
-1. 移至您的&#x200B;**[!UICONTROL 資料庫]**。
+1. 前往您的[!UICONTROL Database]。
 
    ![](assets/update-person-data-1.png)
 
@@ -66,6 +66,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄ Mission 8：警示銷售代表](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[◄任務8：警示銷售代表](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
 [任務10：重新導向登陸頁面►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)

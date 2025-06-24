@@ -3,10 +3,9 @@ unique-page-id: 12977439
 description: 發行說明–2017年春季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2017年春季
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '633'
 ht-degree: 0%
 
 ---
@@ -17,25 +16,25 @@ ht-degree: 0%
 
 請按一下標題連結以檢視每個功能的詳細文章。 **注意**：如果主題有多個副標題，連結會放在那裡。
 
-## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [LinkedIn潛在客戶Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[LinkedIn銷售機會開發Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads)是企業在LinkedIn上執行銷售機會開發行銷活動的更直接方式。 人員可以填寫表格來表達對產品或服務的興趣，讓企業能夠擷取人員的詳細資訊，並將其同步至Marketo，以便進行自動化後續流程和潛在客戶路由活動。
+[[!UICONTROL LinkedIn Lead Gen] Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads)是公司在[!DNL LinkedIn]上執行潛在客戶產生行銷活動的更直接方式。 人員可以填寫表格來表達對產品或服務的興趣，讓企業能夠擷取人員的詳細資訊，並將其同步至Marketo，以便進行自動化後續流程和潛在客戶路由活動。
 
-Marketo與LinkedIn Lead Gen Forms的整合會自動擷取銷售機會在Lead Gen表單中提供的資訊。 後續動作和通知可以使用新的&#x200B;**填寫LinkedIn銷售機會一般表單**&#x200B;觸發器和篩選器自動執行。
+Marketo與[!UICONTROL LinkedIn Lead Gen] Forms的整合會自動擷取銷售機會在Lead Gen表單中提供的資訊。 後續動作和通知可以使用新的&#x200B;**填寫[!DNL LinkedIn Lead Gen]表單**&#x200B;觸發器和篩選器自動執行。
 
 ![](assets/release-notes-image.png)
 
 ## [使MSI範本過期](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
 
-清除Sales Insight中過時範本的日子已經過去。 設定您發佈電子郵件的到期日，我們會在到期日臨近時為您負責取消發佈。
+在[!DNL Sales Insight]中清除過時範本的日子已經過去。 設定您發佈電子郵件的到期日，我們會在到期日臨近時為您負責取消發佈。
 
 >[!NOTE]
 >
->設定2017年5月31日的到期日表示範本將在2017年5月31日當天結束時從Sales Insight中移除。
+>設定2017年5月31日的到期日表示範本將在2017年5月31日當天結束時從[!DNL Sales Insight]中移除。
 
 ![](assets/four-281-29.png)
 
-## [大量擷取人員與活動的API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
+## [大量擷取人員與活動的API](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
 
 輕鬆將大量人員和活動資料從Marketo傳輸至您的外部系統。
 
@@ -49,7 +48,7 @@ ABM具名帳戶上的&#x200B;**[百分位數評分](https://docs.marketo.com/dis
 
 具名帳戶的分數可能大不相同。 Marketo ABM現在會自動計算每個評分的百分位數，因此您可以一眼看出每個具名帳戶與其他具名帳戶之間的排名。
 
-**[ABM帳戶清單API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
+**[ABM帳戶清單API](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 利用豐富且強大的ABM合作夥伴整合，以及針對具名帳戶清單提供的增強API支援。
 
@@ -59,7 +58,7 @@ ABM具名帳戶上的&#x200B;**[百分位數評分](https://docs.marketo.com/dis
 
 捲動時&#x200B;**[網頁行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-新的Web Campaign效果為網頁訪客提供更個人化的體驗。 將您的個人化網站行銷活動設定為僅在網站訪客向下捲動您的網頁時顯示。 您可以根據下列條件設定在捲動時顯示對話方塊網頁行銷活動：
+新的Web Campaign效果為網頁訪客提供更個人化的體驗。 將您的個人化[!UICONTROL Web Campaigns]設定為僅在網頁訪客向下捲動您的網頁時顯示。 您可以設定對話方塊[!UICONTROL Web Campaigns]在捲動時根據以下條件顯示：
 
 * 已捲動頁面的百分比
 * 已達到畫素
@@ -67,9 +66,9 @@ ABM具名帳戶上的&#x200B;**[百分位數評分](https://docs.marketo.com/dis
 
 **[退出意圖時的網頁行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-在訪客關閉您的頁面之前吸引訪客的注意。 將您的個人化網頁行銷活動設定為僅在滑鼠手勢指出訪客正在離開頁面時顯示。
+在訪客關閉您的頁面之前吸引訪客的注意。 設定您的個人化[!UICONTROL Web Campaigns]，使其僅在滑鼠手勢指出訪客正在離開頁面時顯示。
 
-網路行銷活動的&#x200B;**[動畫效果](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
+[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**的**[&#x200B;動畫效果
 
 設定對話方塊網路促銷活動的動畫效果，以自訂進入或退出網頁時促銷活動的顯示方式。 您可以從6種不同的效果中選取，並控制對話方塊的時機和方向。
 
@@ -77,13 +76,13 @@ ABM具名帳戶上的&#x200B;**[百分位數評分](https://docs.marketo.com/dis
 
 **[對話方塊關閉按鈕自訂](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
-自訂對話方塊的關閉按鈕。 從透明對話方塊樣式網頁行銷活動中使用的選項範圍中選取。 選取「關閉」按鈕的圖示、顏色和位置。 您也可以新增自己的按鈕影像。
+自訂對話方塊的關閉按鈕。 從透明對話方塊樣式[!UICONTROL Web Campaigns]中使用的選項範圍中選取。 選取「關閉」按鈕的圖示、顏色和位置。 您也可以新增自己的按鈕影像。
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
 **[封存網頁行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
 
-封存是一種新的網站行銷活動狀態，可讓您封存網站行銷活動，並將其從預設網站行銷活動檢視中隱藏。 這讓您可以專注於最相關、最活躍的行銷活動，並隨選擷取較舊的已封存行銷活動。
+封存是新的網頁行銷活動狀態，可讓您封存[!UICONTROL Web Campaigns]並在預設的網頁行銷活動檢視中隱藏它們。 這讓您可以專注於最相關、最活躍的行銷活動，並隨選擷取較舊的已封存行銷活動。
 
 ![](assets/archive-campaign-5b2-5d.png)
 

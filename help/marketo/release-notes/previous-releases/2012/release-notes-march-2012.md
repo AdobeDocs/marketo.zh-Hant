@@ -4,9 +4,9 @@ description: 發行說明 — 2012年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2012年3月
 exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 程式碼片段預覽器 {#snippet-previewer}
 
-從功能表選取「預覽程式碼片段」，可讓您檢視程式碼片段，而不會將其設為草稿。此外，如果您對共用程式碼片段具有唯讀存取權（透過工作區），則可使用此動作檢視程式碼片段
+從選單中選取「預覽程式碼片段」，可讓您檢視程式碼片段，而不會將其設為草稿。 此外，如果您對共用程式碼片段具有唯讀存取權（透過工作區），則可使用此動作檢視程式碼片段。
 
 ![](assets/image2014-9-23-10-3a0-3a37.png)
 

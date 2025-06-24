@@ -4,9 +4,9 @@ description: 簡單評分 — Marketo檔案 — 產品檔案
 title: 簡單分數
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 ## 步驟1：建立評分行銷活動 {#step-create-a-scoring-campaign}
 
-1. 前往&#x200B;**[!UICONTROL 行銷活動]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
 
    ![](assets/simple-scoring-1.png)
 
-1. 用滑鼠右鍵按一下您的&#x200B;**學習**&#x200B;資料夾，然後按一下&#x200B;**[!UICONTROL 新增Campaign資料夾]**。
+1. 用滑鼠右鍵按一下您的&#x200B;**學習**&#x200B;資料夾，然後按一下&#x200B;**[!UICONTROL New Campaign Folder]**。
 
    ![](assets/simple-scoring-2.png)
 
-1. 將行銷活動資料夾命名為「評分」，然後按一下&#x200B;**[!UICONTROL 建立]**。
+1. 將行銷活動資料夾命名為「評分」，然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/simple-scoring-3.png)
 
@@ -36,21 +36,21 @@ ht-degree: 0%
    >
    >如果您已經有評分資料夾，請為這個資料夾命名不同的名稱，例如評分1。 資料夾名稱必須是唯一的。
 
-1. 用滑鼠右鍵按一下您的&#x200B;**評分**&#x200B;資料夾，然後選取&#x200B;**[!UICONTROL 新增智慧行銷活動]**。
+1. 用滑鼠右鍵按一下您的&#x200B;**評分**&#x200B;資料夾，然後選取&#x200B;**[!UICONTROL New Smart Campaign]**。
 
    ![](assets/simple-scoring-4.png)
 
-1. 將行銷活動命名為「變更分數」並按一下「**[!UICONTROL 建立]**」。
+1. 將行銷活動命名為「Change Score」，然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/simple-scoring-5.png)
 
-1. 按一下&#x200B;**[!UICONTROL 智慧清單]**&#x200B;索引標籤。
+1. 按一下「**[!UICONTROL Smart List]**」標籤。
 
    ![](assets/simple-scoring-6.png)
 
    我們希望每當有人填寫您的&#x200B;**試用申請表單**&#x200B;時，就會執行此行銷活動。
 
-1. 尋找&#x200B;**[!UICONTROL 填寫表單]**&#x200B;觸發器，並將其拖曳至左側畫布。
+1. 尋找&#x200B;**[!UICONTROL Fills Out Form]**&#x200B;觸發程式並將其拖曳至左側畫布。
 
    ![](assets/simple-scoring-7.png)
 
@@ -60,17 +60,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您以表單[&#128279;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速成功完成登陸頁面，您應該有表單。 如果您的表單使用不同的名稱，請選取該名稱。
+   >如果您以表單](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速成功完成[登陸頁面，您應該有表單。 如果您的表單使用不同的名稱，請選取該名稱。
 
-1. 按一下「**[!UICONTROL 流量]**」標籤。
+1. 按一下「**[!UICONTROL Flow]**」標籤。
 
    ![](assets/simple-scoring-9.png)
 
-1. 將&#x200B;**變更分數**&#x200B;流量動作拖曳至左側畫布。
+1. 將&#x200B;**[!UICONTROL Change Score]**&#x200B;流程動作拖曳至左側畫布。
 
    ![](assets/simple-scoring-10.png)
 
-1. 您可以輸入任何值以新增至人員分數。 在&#x200B;**[!UICONTROL 變更]**&#x200B;欄位中輸入&quot;+5&quot;。
+1. 您可以輸入任何值以新增至人員分數。 讓我們在&#x200B;**[!UICONTROL Change]**&#x200B;欄位中輸入&quot;+5&quot;。
 
    ![](assets/simple-scoring-11.png)
 
@@ -78,11 +78,11 @@ ht-degree: 0%
    >
    >良好的評分行銷活動是為銷售人員提供高品質人員的關鍵。 閱讀&#x200B;[**引導評分的最終指南**](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}。
 
-1. 按一下「**[!UICONTROL 排程]**」索引標籤及「**[!UICONTROL 啟動]**」按鈕。
+1. 按一下「**[!UICONTROL Schedule]**」標籤與「**[!UICONTROL Activate]**」按鈕。
 
    ![](assets/simple-scoring-12.png)
 
-1. 在確認畫面上按一下&#x200B;**[!UICONTROL 啟動]**。
+1. 按一下確認畫面上的&#x200B;**[!UICONTROL Activate]**。
 
    ![](assets/simple-scoring-13.png)
 
@@ -96,11 +96,11 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-14.png)
 
-1. 按一下&#x200B;**[!UICONTROL 預覽]**。 登入頁面將在新標籤中開啟。
+1. 按一下&#x200B;**[!UICONTROL Preview]**。 登入頁面將在新標籤中開啟。
 
    ![](assets/simple-scoring-15.png)
 
-1. 填寫您的名字、姓氏和電子郵件地址，然後按一下&#x200B;**[!UICONTROL 提交]**。
+1. 填寫您的名字、姓氏和電子郵件地址，然後按一下&#x200B;**[!UICONTROL Submit]**。
 
    ![](assets/simple-scoring-16.png)
 
@@ -110,7 +110,7 @@ ht-degree: 0%
 
 ## 步驟3：檢視人員資訊 {#step-view-the-person-info}
 
-1. 移至&#x200B;**[!UICONTROL 資料庫]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Database]**&#x200B;區域。
 
    ![](assets/simple-scoring-17.png)
 

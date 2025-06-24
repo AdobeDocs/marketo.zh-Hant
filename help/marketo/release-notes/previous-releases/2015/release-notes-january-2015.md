@@ -4,9 +4,9 @@ description: 發行說明 — 2015年1月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2015年1月
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ ht-degree: 0%
 
 [ — 登陸頁面逐步解說影片 — ](https://youtu.be/aPQHlG2X6c0)
 
-**新Rest API呼叫**
+**新REST API呼叫**
 
-潛在客戶與活動ReST API的三個新呼叫：
+潛在客戶與活動REST API的三次新呼叫：
 
 * 刪除銷售機會
 * 依計畫ID取得銷售機會
 * 取得已刪除的銷售機會
 
-此外，Sync Lead也有新選項，可非同步寫入潛在客戶變更，以加快API呼叫速度。 發行後，完整詳細資料將可在[https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home)取得
+此外，Sync Lead也有新選項，可非同步寫入潛在客戶變更，以加快API呼叫速度。 發行後，完整詳細資料將可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home)取得
 
 **電子郵件指令碼自訂物件支援**
 
@@ -39,9 +39,9 @@ ht-degree: 0%
 
 ## 即時Personalization {#real-time-personalization}
 
-**Google和Facebook的個人化再行銷**
+**Google和[!DNL Facebook]**&#x200B;的個人化再行銷
 
-再行銷會向造訪過您網站的人顯示廣告。 您現在可以使用即時Personalization的資料，在[Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)和[Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)上個人化您的再行銷活動。 向不同產業的受眾、指定的帳戶清單、公司規模或任何已知潛在客戶的資料進行再行銷。
+再行銷會向造訪過您網站的人顯示廣告。 您現在可以使用即時Personalization中的資料，在[Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)和[[!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)上個人化您的再行銷活動。 向不同產業的受眾、指定的帳戶清單、公司規模或任何已知潛在客戶的資料進行再行銷。
 
 [具名帳戶清單模組](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
@@ -62,6 +62,6 @@ ht-degree: 0%
 1. 不含CDN的非同步標籤
 1. 不含CDN的同步標籤
 
-為獲得最佳效能，建議在`<head>`之後將標籤放在網頁標題的頂端。 所有標籤都允許使用[RTP API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。 如需如何部署RTP標籤的詳細資訊，請參閱[這裡](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)。
+為獲得最佳效能，建議在`<head>`之後將標籤放在網頁標題的頂端。 所有標籤都允許使用[RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。 如需如何部署RTP標籤的詳細資訊，請參閱[這裡](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)。
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

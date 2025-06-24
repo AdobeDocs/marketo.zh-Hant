@@ -4,9 +4,9 @@ description: 發行說明 — 2014年8月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年8月
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 行銷行事曆授權 {#marketing-calendar-licenses}
 
-2014年9月5日之後，只有5位使用者可以免費存取行銷行事曆。 請務必先將行銷行事曆授權[&#128279;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)問題/撤銷給您選擇的使用者，再將其設為未中斷存取。
+2014年9月5日之後，只有5位使用者可以免費存取行銷行事曆。 請務必先將行銷行事曆授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)問題/撤銷給您選擇的使用者，再將其設為未中斷存取。[
 
 ![—](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 | 啟動觸發程式行銷活動 | 控制誰可以和無法啟動觸發行銷活動。 |
 | 排程批次行銷活動 | 控制誰可以和無法排程批次行銷活動執行。 |
 
-## 從管理員匯出使用者和角色 {#export-users-and-roles-from-admin}
+## 從[!UICONTROL Admin]匯出使用者和角色 {#export-users-and-roles-from-admin}
 
 您現在可以從Marketo [匯出使用者和角色清單](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)。 您也可以加入要包含在匯出中的「上次登入」時間戳記。
 
@@ -47,15 +47,15 @@ ht-degree: 0%
 
 ![](assets/image2014-9-16-12-3a23-3a4.png)
 
-## 自動化DKIM {#automated-dkim}
+## 自動化[!DNL DKIM] {#automated-dkim}
 
-為了提高傳遞能力，所有傳出電子郵件都將經過DKIM (DomainKeys Indified Mail)簽署。 依預設，電子郵件將使用Marketo的共用DKIM簽名。 您將可以選擇自訂此簽章。
+為了改善傳遞能力，所有寄出的電子郵件都會經過[!DNL DKIM] (DomainKeys Indified Mail)簽署。 依預設，電子郵件將使用Marketo的共用[!DNL DKIM]簽名。 您將可以選擇自訂此簽章。
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
 >[!NOTE]
 >
->DKIM將緩慢推出，您可能會好幾週都看不到它。
+>[!DNL DKIM]將緩慢轉出，您可能會好幾週都看不到它。
 
 ## 即時Personalization更新 {#real-time-personalization-updates}
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ## 行動裝置定位 {#mobile-targeting}
 
-您在社群上提出要求，我們便完成了交付！ 您現在可以為行動裝置和平板電腦使用者包含、排除或設定特定的行動號召。
+您在社群上提出要求，我們便完成了交付！ 您現在可以為行動裝置和平板電腦使用者包含、排除或設定特定的call to action。
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 

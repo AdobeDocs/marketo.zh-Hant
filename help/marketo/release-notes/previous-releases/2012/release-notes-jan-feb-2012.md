@@ -4,9 +4,9 @@ description: 發行說明–2012年1月/2月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2012年1月/2月
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ _適用於Pro和Enterprise版本_
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## 區段  {#segmentation}
+## 分段  {#segmentation}
 
 _適用於Pro和Enterprise版本_
 
@@ -31,7 +31,7 @@ _適用於Pro和Enterprise版本_
 
 ![](assets/image2014-9-23-9-3a50-3a42.png)
 
-## 代碼片段 {#snippets}
+## 程式碼片段 {#snippets}
 
 _適用於Pro和Enterprise版本_
 
@@ -61,7 +61,7 @@ _適用於Pro和Enterprise版本_
 
 電子郵件和登陸頁面編輯器經過重新設計，提供更吸引人的介面、直覺式導覽，以及大幅改善的使用者體驗，其中包括：
 
-並排HTML和文字檢視
+並排的HTML和文字檢視
 
 ![](assets/image2014-9-23-9-3a51-3a54.png)
 
@@ -69,10 +69,10 @@ _適用於Pro和Enterprise版本_
 
 ## 瀏覽器支援 {#browser-support}
 
-* Mozilla Firefox 9.0
-* Google Chrome 16
-* Microsoft Internet Explorer 8和9
-* **注意**：我們不再支援Internet Explorer 7
+* [!DNL Mozilla Firefox] 9.0
+* [!DNL Google Chrome] 16
+* [!DNL Microsoft Internet Explorer] 8和9
+* **附註**：我們不再支援[!DNL Internet Explorer] 7
 
 ## 方案管理 {#program-management}
 
@@ -96,6 +96,6 @@ _適用於Pro和Enterprise版本_
 
 ## 方案收入階段分析 {#program-revenue-stage-analysis}
 
-透過瞭解哪些計畫獲得了快速推動者，深入瞭解計畫潛在客戶速度
+瞭解哪些程式擁有快速行動者，以提升insight的程式領先速度
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)

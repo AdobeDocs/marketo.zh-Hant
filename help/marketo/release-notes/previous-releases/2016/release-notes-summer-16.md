@@ -3,10 +3,9 @@ unique-page-id: 11380218
 description: 發行說明 — 夏季16年 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2016年夏天
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '773'
 ht-degree: 0%
 
 ---
@@ -29,7 +28,7 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 >
 >ABM可作為您的Marketo訂閱的附加元件，因此請聯絡您的銷售代表以實作它。
 
-## [稽核軌跡](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
+## [稽核記錄](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
 
 稽核軌跡提供在Marketo訂閱中所做變更的完整記錄。 如此一來，使用者和管理員將可共同承擔責任，協助找出非預期行為的成因，並確保安全掌握相關資訊。 此資訊將在任何時間點提供，並可用於回答以下問題：
 
@@ -39,13 +38,13 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint整合](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## Marketo-Vibes SMS LaunchPoint整合
 
 直接在Marketo中輕鬆建立簡訊。 使用豐富的Marketo資料個人化和鎖定您的訊息，並使用SMS訊息儀表板輕鬆監控其效能。
 
 >[!NOTE]
 >
->若要使用此功能，您必須具備現有的Vibes SMS帳戶。
+>此功能需要您擁有現有的[!DNL Vibes SMS]帳戶。
 
 ![](assets/vibes-sms2.png)
 
@@ -60,7 +59,7 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 **語法更新**
 
 * 您現在可以在電子郵件2.0範本中指定的模組上使用「mktoAddByDefault」，以指示預設應在新電子郵件中顯示的模組。 如果您要建置包含大量模組的電子郵件範本，這會更方便。
-* 在影像元素上，您現在可以指定一般使用者是否應該鎖定基礎`<img>`HTML元素的「高度」和「寬度」屬性，或是可編輯這些屬性。 mktoLockImgSize=&quot;true&quot;會導致系統鎖定高度/寬度（即使影像已變更）。 同樣地，mktoLockImgStyle=&quot;true&quot;會導致&quot;style&quot;屬性被鎖定。
+* 在影像元素上，您現在可以指定一般使用者是否應該鎖定基礎`<img>` HTML元素的「高度」和「寬度」屬性，或是可編輯這些屬性。 mktoLockImgSize=&quot;true&quot;會導致系統鎖定高度/寬度（即使影像已變更）。 同樣地，mktoLockImgStyle=&quot;true&quot;會導致&quot;style&quot;屬性被鎖定。
 
 **程式碼搜尋**
 
@@ -86,7 +85,7 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 ## [企業金鑰](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-要求您的銷售團隊中的每個人安裝適用於Outlook的Sales Insight外掛程式，可能會相當繁瑣。 我們已推出新的方式，使用企業金鑰從遠端安裝Outlook外掛程式。 傳送您在「管理員」的「Marketo銷售分析專案」區段中找到的唯一金鑰給您的IT團隊，讓他們完成其餘工作。
+要求您銷售團隊中的每個人安裝[!DNL Outlook]的[!DNL Sales Insight]外掛程式，可能會很繁瑣。 我們引進了使用企業金鑰從遠端安裝[!DNL Outlook]外掛程式的新方式。 將您在[!UICONTROL Admin]的Marketo [!DNL Sales Insight]區段中找到的唯一金鑰傳送給您的IT團隊，讓他們完成其餘工作。
 
 ![](assets/enterprise-key.png)
 
@@ -96,20 +95,20 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 ![](assets/dialog-campaign-delay.png)
 
-## [內容分析和Recommendations匯出](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## [Content Analytics和Recommendations匯出](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
 
 離線檢視內容分析和建議資料。
 
-## [電子郵件編輯器2.0的API支援](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
+## 電子郵件編輯器2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}的[API支援
 
 先前僅與v1.0電子郵件和範本相容的既有資產API，現在可供v2.0電子郵件資產使用。
 
-## [Marketo開發人員網站](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Marketo開發人員網站](https://developers.marketo.com/) {#marketo-developers-site}
 
 全新及改良！
 
 ## [隱私權設定](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-行銷人員可使用隱私權設定，決定是否使用Munchkin和Web Personalization功能來追蹤訪客。 追蹤層級可透過使用瀏覽器的Do Not Track設定、選擇退出Cookie或非特定IP來控制。 這些方法可能會影響Marketo在特定區域中的價值和功能，但若行銷人員未變更任何專案，Marketo功能將會維持不變。
+行銷人員可使用隱私權設定，決定是否使用[!DNL Munchkin]和Web Personalization功能來追蹤訪客。 追蹤層級可透過使用瀏覽器的Do Not Track設定、選擇退出Cookie或非特定IP來控制。 這些方法可能會影響Marketo在特定區域中的價值和功能，但若行銷人員未變更任何專案，Marketo功能將會維持不變。
 
 此功能將在六週後逐步發行給客戶。 如果您需要立即取得此資訊，請聯絡Marketo支援。

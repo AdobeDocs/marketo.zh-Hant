@@ -4,9 +4,9 @@ description: 發行說明–2017年秋季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2017年秋季
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ## 系統可靠性 {#system-reliability}
 
-我們已進一步改善核心Marketo基礎架構，包括更優異的排序、更少的不相符，以及更佳的Munchkin穩定性。
+我們已進一步改善核心Marketo基礎結構，包括更順暢的排序、更少的不相符，以及改善[!DNL Munchkin]穩定性。
 
 ## SFDC同步效能 {#sfdc-sync-performance}
 
-利用Marketo和Salesforce之間更豐富且更快速的同步處理。 需要大量更新帳戶或銷售機會的資料變更，可分割為平行佇列以避免積壓。 事件和任務同步速度現在也加快了50%。
+利用Marketo和[!DNL Salesforce]之間更豐富且更快速的同步處理。 需要大量更新帳戶或銷售機會的資料變更，可分割為平行佇列以避免積壓。 事件和任務同步速度現在也加快了50%。
 
 ## Analytics效能改善 {#analytics-performance-improvements}
 
@@ -45,14 +45,14 @@ ht-degree: 0%
 
 ## [LinkedIn潛在客戶一般自訂問題](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-自訂您的LinkedIn銷售機會一般表單，以收集自訂銷售機會屬性。 您現在可以在每個表單中詢問最多三個自訂問題、從單行文字輸入或多選問題中進行選擇，並對應回Marketo潛在客戶欄位。
+自訂您的[!UICONTROL LinkedIn Lead Gen]表單以收集自訂銷售機會屬性。 您現在可以在每個表單中詢問最多三個自訂問題、從單行文字輸入或多選問題中進行選擇，並對應回Marketo潛在客戶欄位。
 
 ## Slack整合 {#slack-integration}
 
-我們發行了兩項功能，作為新Slack整合的一部分：
+我們發行了兩項功能，屬於新的Slack整合的一部分：
 
-* 系統通知：取得有關Marketo執行個體中重要事件的Slack通知，例如有關目前行銷活動狀態的警示以及任何需要立即關注的問題。
-* 有趣的時刻：當銷售帳戶中的已知個人觸發Marketo Insight時，系統會透過Slack通知潛在客戶擁有者。 通知包括潛在客戶資訊以及銷售帳戶的相關細節。
+* 系統通知：取得Marketo例項中重要事件的Slack通知，例如目前行銷活動狀態的警示以及需要立即關注的任何問題。
+* 有趣的時刻：當銷售帳戶中的已知個人觸發了Marketo Insight時，可以透過Slack通知潛在擁有者。 通知包括潛在客戶資訊以及銷售帳戶的相關細節。
 
 ## ABM增強功能 {#abm-enhancements}
 
@@ -86,10 +86,10 @@ Token現在可用於網頁行銷活動。 運用代號來提供個人化訊息�
 
 ## 整合  {#integration}
 
-**[電子郵件預覽API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting)**
+**[電子郵件預覽API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 您現在可以在Marketo外部遠端預覽電子郵件，簡化電子郵件內容本地化的程式，並減少錯誤。
 
-**[取代HTMLAPI](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting)**
+**[取代HTML API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 開發人員可從遠端更新電子郵件資產的HTML內容，讓他們能在單一系統中工作，以維護資產。

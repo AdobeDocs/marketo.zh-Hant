@@ -4,10 +4,10 @@ description: 發行說明 — 2012年5月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2012年5月
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '660'
-ht-degree: 0%
+source-wordcount: '638'
+ht-degree: 4%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a14-3a13.png)
 
-圖1. 指定要在營業日結束的等待步驟
+圖 1。指定要在營業日結束的等待步驟
 
 ## 已封存的Assets已隱藏 {#archived-assets-hidden}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a14-3a28.png)
 
-圖2. 已封存電子郵件篩選的範例
+圖 2。已封存電子郵件篩選的範例
 
 ## 適用於iPad的新事件簽入應用程式 {#new-event-check-in-app-for-ipad}
 
@@ -43,23 +43,23 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a14-3a46.png)
 
-圖3. 事件簽入首頁
+圖 3。事件簽入首頁
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
-圖4. 活動簽入：選取您的活動！
+圖 4。活動簽入：選取您的活動！
 
 ![](assets/image2014-9-23-10-3a15-3a27.png)
 
-圖5. 存回
+圖 5。存回
 
 ## 增強型網路研討會確認URL {#enhanced-webinar-confirmation-url}
 
-現在適用於ON24和Adobe Connect！ 使用新`{{member.webinar URL}}`權杖的每位註冊出席者，在確認電子郵件中包含唯一連結。 Adobe Connect增強功能也包含開啟/關閉Adobe帳戶資訊電子郵件的功能，其中包含使用者的登入ID和密碼。
+現在可供[!DNL ON24]和Adobe Connect使用！ 使用新`{{member.webinar URL}}`權杖的每位註冊出席者，在確認電子郵件中包含唯一連結。 Adobe Connect增強功能也包含開啟/關閉Adobe帳戶資訊電子郵件的功能，其中包含使用者的登入ID和密碼。
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
-圖6. 讓人員參加您的網路研討會
+圖 6。讓人員參加您的網路研討會
 
 ## 範本預覽 {#template-preview}
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a16-3a4.png)
 
-圖7. 預覽您選擇的範本
+圖 7。預覽您選擇的範本
 
 ## 可設定的表單預填 {#configurable-form-prefill}
 
@@ -75,11 +75,11 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a16-3a22.png)
 
-圖8. 在Admin中的表單預填設定
+圖 8。在Admin中的表單預填設定
 
 ![](assets/image2014-9-23-10-3a16-3a34.png)
 
-圖9. 編輯登陸頁面上的表單預填設定
+圖 9。編輯登陸頁面上的表單預填設定
 
 ## Marketo國寶箱 {#marketo-treasure-chest}
 
@@ -87,53 +87,53 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a16-3a51.png)\
 
-圖10。 Admin中的Manager Treasure Chest功能
+圖 10。Admin中的Manager Treasure Chest功能
 
-## Microsoft Dynamics® CRM整合 {#microsoft-dynamics-crm-integration}
+## [!DNL Microsoft Dynamics]® CRM整合 {#microsoft-dynamics-crm-integration}
 
-使用我們預先建立的新整合功能，在Marketo和Microsoft Dynamics CRM Online之間同步帳戶、聯絡人和銷售機會！
+使用我們預先建立的新整合功能，在Marketo和[!DNL Microsoft Dynamics] CRM Online之間同步帳戶、連絡人和銷售機會！
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
-圖11。 Microsoft Dynamics設定
+圖 11。[!DNL Microsoft Dynamics]設定
 
-## Marketo Sales Insight增強功能 {#marketo-sales-insight-enhancements}
+## Marketo [!DNL Sales Insight]增強功能 {#marketo-sales-insight-enhancements}
 
 **取消訂閱頁尾選項**
 
-針對透過Sales Insight傳送的電子郵件，設定何時及是否顯示取消訂閱頁尾。
+設定透過[!DNL Sales Insight]傳送的電子郵件何時及是否顯示取消訂閱頁尾。
 
 ![](assets/image2014-9-23-10-3a17-3a20.png)
 
-圖12。 Admin中的Sales Insight設定
+圖 12。Admin中的[!DNL Sales Insight]設定
 
 ## 銷售電子郵件範本的資料夾 {#folders-for-sales-email-templates}
 
-您現在可以將與Marketo Sales Insight共用的電子郵件範本整理到指定的資料夾，讓銷售代表更容易找到正確的電子郵件。
+您現在可以將與Marketo [!DNL Sales Insight]共用的電子郵件範本整理到指定的資料夾中，讓銷售代表更容易找到正確的電子郵件。
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
-圖13。 選擇電子郵件的資料夾
+圖 13。選擇電子郵件的資料夾
 
-## 從Sales Insight存取Opportunity Analyzer {#access-opportunity-analyzer-from-sales-insight}
+## 從[!DNL Sales Insight]存取機會分析器 {#access-opportunity-analyzer-from-sales-insight}
 
-透過Marketo Sales Insight中的直接存取Opportunity Analyzer ，為您的銷售代表提供哪些行銷活動正在提升參與度的深入分析。 注意。 需要Revenue Cycle Analytics授權。
+使用從Marketo [!DNL Sales Insight]直接存取Opportunity Analyzer的方式，將行銷活動帶動參與的insight提供給您的銷售代表。 注意。 需要Revenue Cycle Analytics授權。
 
 ## 連絡人狀態的自訂欄位 {#custom-field-for-contact-status}
 
-您現在可以在Salesforce中對應自訂欄位，以在「我的首選」、「我的團隊的首選」和自訂檢視中填入連絡人的狀態列位。
+您現在可以在[!DNL Salesforce]中對應自訂欄位，以在「我的首選」、「我的團隊的首選」和自訂檢視中填入連絡人的狀態列位。
 
 ![](assets/image2014-9-23-10-3a17-3a47.png)
 
-圖14。 將自訂欄位對應至聯絡人
+圖 14。將自訂欄位對應至聯絡人
 
 檢視匿名潛在客戶造訪的頁面
 
-從「匿名網路活動」檢視中，向下展開至匿名潛在客戶所檢視的頁面。
+從[!UICONTROL Anonymous Web Activity]檢視向下展開至匿名潛在客戶檢視的頁面。
 
 ![](assets/image2014-9-23-10-3a17-3a59.png)
 
-圖15。 請參閱匿名網路活動
+圖 15。請參閱匿名網路活動
 
 ## 增強型銷售機會與聯絡人訂閱 {#enhanced-lead-and-contact-subscribe}
 

@@ -4,9 +4,9 @@ description: 發行說明 — 2013年12月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2013年12月
 exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 發行後，請務必檢視Community中的新發行版本索引標籤，以取得每個功能的詳細知識庫文章！
 
-## 電子郵件程式 {#email-program}
+## 電子郵件方案 {#email-program}
 
 傳送電子郵件從未如此容易。 使用新的[電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)來傳送批次電子郵件，而非預設程式。 定義智慧清單、電子郵件、排程，然後您就會關閉！
 
@@ -35,14 +35,14 @@ ht-degree: 0%
 
 [冠軍/挑戰者測試](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)類似於A/B測試，但不同之處在於它會用於觸發的電子郵件，而且您不會自動傳送獲勝者。 此測試可讓您挑戰既定的做事方式，稱為冠軍，並且透過引入挑戰者來測試其是否仍然是最棒的。 此外，冠軍/挑戰者電子郵件測試可用於參與計畫串流中。
 
-## 電子郵件分析中的潛在客戶詳細資訊 {#lead-details-in-email-analysis}
+## [!UICONTROL Email Analysis]中的潛在客戶詳細資料 {#lead-details-in-email-analysis}
 
-我們在電子郵件分析中引進了額外的銷售機會和公司屬性。 您現在可以檢視依新屬性分組的電子郵件統計資料，例如產業和銷售機會Source。
+我們在[!UICONTROL Email Analysis]中引進了其他銷售機會和公司屬性。 您現在可以檢視依新屬性（例如[!UICONTROL Industry]和[!UICONTROL Lead Source]）分組的電子郵件統計資料。
 
 ![](assets/image2014-9-22-17-3a20-3a43.png)
 
 ![](assets/image2014-9-22-17-3a21-3a18.png)
 
-## 增強型BrightTALK事件轉接器 {#enhanced-brighttalk-event-adapter}
+## 增強的[!DNL BrightTALK]事件配接器 {#enhanced-brighttalk-event-adapter}
 
-現在您可以從您的BrightTALK頻道和活動將註冊者拉入Marketo。 您可以利用此資訊來通知其他行銷活動！
+現在您可以從您的[!DNL BrightTALK]頻道和活動將註冊者拉入Marketo。 您可以利用此資訊來通知其他行銷活動！

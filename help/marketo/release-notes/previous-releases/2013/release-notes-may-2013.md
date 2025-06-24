@@ -4,9 +4,9 @@ description: 發行說明 — 2013年5月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2013年5月
 exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 模型成員資格標籤 {#model-membership-tab}
 
-在一個位置檢視模型成員的所有資料，以便輕鬆進行監控和疑難排解。 當您選取核准的「收入週期模型」時，新的「成員」標籤是唯讀的檢視。
+在一個位置檢視模型成員的所有資料，以便輕鬆進行監控和疑難排解。 當您選取已核准的收入週期模型時，新的[!UICONTROL Members]索引標籤是唯讀的檢視，可供使用。
 
 ![](assets/image2014-9-22-16-3a3-3a33.png)
 
@@ -35,6 +35,6 @@ ht-degree: 0%
 
 ## 已重新命名流量動作 {#renamed-flow-actions}
 
-「變更進度狀態」現在是「變更方案狀態」。 變更方案資料現在變更方案成功
+變更進度狀態現在是[!UICONTROL Change Program Status]。 變更方案資料現在是[!UICONTROL Change Program Success]。
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)

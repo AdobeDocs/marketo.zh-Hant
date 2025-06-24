@@ -4,9 +4,9 @@ description: 發行說明 — 2015年秋季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2015年秋季
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '967'
 ht-degree: 0%
 
 ---
@@ -41,17 +41,17 @@ ht-degree: 0%
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Google Chrome的Marketo Insights {#marketo-insights-for-google-chrome}
+## [!DNL Google Chrome]的Marketo深入分析 {#marketo-insights-for-google-chrome}
 
-[Google Chrome的Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[ [!DNL Google Chrome]的Marketo深入分析](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-我們很高興宣佈推出Google Mail Sales Insight擴充功能的更新版本！ 在[Chrome市集](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)中檢視它。
+我們很高興宣佈[!DNL Google Mail] [!DNL Sales Insight]擴充功能的更新發行！ 在[[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)中檢視它。
 
 此更新包含許多新功能：
 
-* 參與之前，銷售人員可以直接在Google Mail中檢視潛在客戶的相關資訊，包括職稱、twitter設定檔、公司資訊、像片等。
+* 參與之前，銷售人員可以直接在[!DNL Google Mail]中檢視其潛在客戶的相關資訊，包括職稱、Twitter設定檔、公司資訊、像片等。
 * 銷售人員可以即時檢視跨頻道潛在客戶正在互動的內容內容，例如已開啟或點按的電子郵件、已出席的線上或面對面活動、已瀏覽的網頁、已下載的eBook等等。
-* 透過Google Mail傳送的電子郵件會記錄在Marketo中並即時追蹤。 這麼做可讓銷售人員檢視潛在客戶何時檢視其電子郵件，方便他們在適當的時間進行追蹤。 透過Google Mail的Marketo Sales Insight，銷售人員也能輕鬆運用行銷建立的範本，傳送精美的邀請、優惠方案和其他型別的內容。
+* 透過[!DNL Google Mail]傳送的電子郵件會登入Marketo並即時追蹤。 這麼做可讓銷售人員檢視潛在客戶何時檢視其電子郵件，方便他們在適當的時間進行追蹤。 適用於[!DNL Google Mail]的Marketo [!DNL Sales Insight]也可讓銷售人員輕鬆運用行銷所建立的範本，以傳送精美的邀請、優惠方案和其他型別的內容。
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
@@ -84,20 +84,20 @@ ht-degree: 0%
 
 ![](assets/image2015-10-1-13-3a58-3a27.png)
 
-## RTP — 內容分析和Recommendations {#rtp-content-analytics-and-recommendations}
+## RTP - Content Analytics和Recommendations {#rtp-content-analytics-and-recommendations}
 
-[內容分析](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)和Recommendations
+[Content Analytics](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)與建議
 
-「RTP內容分析」會顯示您從定期網站造訪以及從RTP內容推薦引擎產生的造訪中，所取得的網站內容資產效能。
+RTP Content Analytics會顯示您從定期網站造訪以及從RTP內容推薦引擎產生的造訪中，所取得的網站內容資產效能。
 
 * 檢視哪些內容成效最佳並帶來最多銷售機會
 * 啟用RTP的預測性內容引擎中的內容，自動向適當的訪客建議最佳內容，大幅增加您的內容使用量
 * 向下展開每個內容資產，檢視更深入的量度、圖表和效能
 
-RTP的Assets頁面現在分為內容分析和內容Recommendations。
+RTP的Assets頁面現在分為Content Analytics和內容建議。
 
-* **內容分析：**&#x200B;顯示所有探索與定義之網頁內容的檢視與直接銷售機會，協助您分析最佳表現內容
-* **內容Recommendations**：顯示RTP建議內容的曝光次數與點按次數，以及相關的潛在客戶歸因。 您也可以編輯和啟用此頁面的[列](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)和[多媒體](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)建議的內容建議。
+* **Content Analytics：**&#x200B;顯示所有探索與定義之網頁內容的檢視與直接銷售機會，協助您分析最佳表現內容
+* **內容建議**：顯示RTP建議內容的曝光次數與點按次數，以及相關的潛在客戶歸因。 您也可以編輯和啟用此頁面的[列](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)和[多媒體](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)建議的內容建議。
 
 * 這兩個頁面中的所有直接銷售機會資料，自今年年初（2015年1月1日）起已追溯更新。
 
@@ -127,7 +127,7 @@ RTP的Assets頁面現在分為內容分析和內容Recommendations。
 
 * 請勿將空白表格儲存格填入`&nbsp;`
 
-* 將「最大化/最小化」按鈕新增到HTML來源編輯器
+* HTML原始碼編輯器新增了最大化/最小化按鈕
 * 現在可在「表格屬性」對話方塊中識別並顯示預先存在的表格屬性
 * 現在，預設會顯示這兩列按鈕。
 * 編輯器現在將接受任何元素（甚至是已棄用或非標準元素）：
@@ -141,9 +141,9 @@ RTP的Assets頁面現在分為內容分析和內容Recommendations。
 <td background="someImage.png"> 
 ```
 
-## Microsoft Dynamics — 驗證同步 {#microsoft-dynamics-validate-sync}
+## [!DNL Microsoft Dynamics] — 驗證同步 {#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics — 驗證同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[[!DNL Microsoft Dynamics] — 驗證同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 這個新的管理工具會執行一系列檢查，以檢視您的同步設定是否已正確設定。
 
@@ -151,7 +151,7 @@ RTP的Assets頁面現在分為內容分析和內容Recommendations。
 
 ## 新增欄位至CRM自訂物件同步 {#add-fields-to-crm-custom-object-sync}
 
-輕鬆將新欄位新增至從Salesforce和Dynamics同步的自訂物件。 您現在可以將新欄位新增至自訂物件同步處理，而無需停用及啟用整個自訂物件。
+輕鬆新增欄位至從[!DNL Salesforce]和[!DNL Dynamics]同步的自訂物件。 您現在可以將新欄位新增至自訂物件同步處理，而無需停用及啟用整個自訂物件。
 
 ## 安全性功能的變更 {#changes-to-security-features}
 
@@ -162,13 +162,13 @@ RTP的Assets頁面現在分為內容分析和內容Recommendations。
 
 ## IE 11支援（及不再支援IE 9） {#ie-support-and-deprecating-support-for-ie}
 
-我們現在正式支援Microsoft Internet Explorer 11瀏覽器，並移除對Microsoft Internet Explorer 9瀏覽器的支援。
+我們現在正式支援[!DNL Microsoft Internet Explorer] 11瀏覽器，並正在移除對[!DNL Microsoft Internet Explorer] 9瀏覽器的支援。
 
 ## MSI的Lightning UI支援 {#lightning-ui-support-for-msi}
 
-應用程式交換上的最新MSI套件適用於Lightning和舊版Salesforce UI。
+應用程式交換上的最新MSI套件可搭配Lightning和舊版[!DNL Salesforce] UI使用。
 
-## 新增Dynamics外掛程式 {#new-dynamics-plug-in}
+## 新[!DNL Dynamics]外掛程式 {#new-dynamics-plug-in}
 
 此外掛程式會以非同步模式執行各種動作，協助提高效能。
 

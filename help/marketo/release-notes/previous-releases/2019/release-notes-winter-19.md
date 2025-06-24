@@ -3,10 +3,9 @@ unique-page-id: 17727823
 description: 發行說明 — 冬季』19年 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2019年冬季
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '1079'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
@@ -19,11 +18,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->facebook現在需要Business Manager帳戶才能運用您的自訂對象整合。 您的Facebook LaunchPoint服務&#x200B;*必須*&#x200B;與Business Manager帳戶相關聯，或&#x200B;**您的整合在2019年1月14日之後將不再有效**。 若要設定Business Manager帳戶，請參閱[Facebook說明](https://www.facebook.com/business/help/1710077379203657)。
+>[!DNL Facebook]現在需要Business Manager帳戶才能運用您的自訂對象整合。 您的[!DNL Facebook] LaunchPoint服務&#x200B;*必須*&#x200B;與Business Manager帳戶相關聯，或&#x200B;**您的整合在2019年1月14日之後將不再運作**。 若要設定Business Manager帳戶，請參閱[[!DNL Facebook] 說明](https://www.facebook.com/business/help/1710077379203657)。
 
 >[!NOTE]
 >
->Microsoft正推動所有線上客戶升級至Microsoft Dynamics最新版本。 如果您正在整合Marketo執行個體與Dynamics Online，您必須在&#x200B;**2019年1月31日**&#x200B;之前[升級到最新版本的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)，以確保您的整合可繼續運作。
+>Microsoft正在推送所有線上客戶升級至[!DNL Microsoft Dynamics]的最新版本。 如果您正在整合您的Marketo執行個體與[!DNL Dynamics Online]，您需要在&#x200B;**2019年1月31日**&#x200B;之前[升級至最新版本的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)，以確保您的整合可繼續運作。
 
 >[!NOTE]
 >
@@ -40,33 +39,33 @@ ht-degree: 0%
 * **資產API的多品牌網域支援：**&#x200B;核准和複製資產會在API和UI中產生相同的結果。
 * **資產API的電子郵件CC支援**：使用者透過API複製、核准及處理電子郵件，將能維持與UI設定的同等性。
 
-**[Munchkin v155 (Beta)](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)**
+**[[!DNL Munchkin] v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **僅限API模式**：使用者現在可以決定何時及如何追蹤其資料庫成員，方法為允許單頁網頁應用程式在想要記錄網頁造訪時明確呼叫，而非依賴Marketo的自動追蹤。
-* **選擇退出管理**：將選擇退出Cookie網域與Munchkin追蹤Cookie網域比對，以輕鬆管理選擇退出。
+* **選擇退出管理**：將選擇退出Cookie網域與[!DNL Munchkin]追蹤Cookie網域比對，以輕鬆管理選擇退出。
 * **網域層級決定程式引數**：兩個字母的網域（即「[website.io](https://website.io)」）將在Marketo中自動追蹤，不需要額外的設定需求。
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Salesforce自訂設定檔**： Sales Engage現在支援無限制的自訂設定檔。
+* **[!DNL Salesforce]自訂設定檔**： Sales Engage現在支援無限制的自訂設定檔。
 
-* **Salesforce自訂**：透過移除非關鍵性自訂活動欄位，使用者可以更有效率地設定CRM平台中的Sales Engage。
-* **電子郵件服務**：透過連線至Microsoft Outlook （透過Office365或透過[電子郵件連線]索引標籤在內部部署），享受更優異的傳遞能力，以及更優異的回覆追蹤、排程電子郵件功能和大量電子郵件功能。
+* **[!DNL Salesforce]自訂**：透過移除非關鍵自訂活動欄位，使用者可以更有效率地設定CRM平台中的Sales Engage。
+* **電子郵件服務**：透過連線至[!DNL Microsoft Outlook] （透過Office365或透過[電子郵件連線]索引標籤在內部部署），享受更好的傳遞能力，並改善回覆追蹤、排程電子郵件功能和大量電子郵件功能。
 * **新的管理員設定**：已新增兩個管理員頁面，以最佳化您的Sales Engage執行個體
 
    * _團隊管理_&#x200B;允許管理員編輯訂閱和團隊，支援順暢的帳戶設定程式。
-   * _Salesforce管理設定_&#x200B;可協助團隊更快速且更輕鬆地設定SFDC同步處理。
+   * _Salesforce管理設定_&#x200B;可協助團隊更快且更輕鬆地設定SFDC同步處理。
 
-* **適用於Windows的OWA外掛程式**：透過單一增益集，所有Windows Office365使用者端將可支援Sales Engage，提供在Outlook中使用即時摘要的功能。 新的外掛程式可在Microsoft商店中使用。
+* **適用於[!DNL Windows]**&#x200B;的OWA外掛程式：透過單一增益集，所有[!DNL Windows Office365]使用者端將可支援Sales Engage，因此能夠在Outlook中使用即時摘要。 新的外掛程式可在Microsoft商店中使用。
 * **活動推播程式**：將銷售參與同步處理至核心Marketo平台，以運用即時行銷深入分析。
 
-## Marketo Sky {#marketo-sky}
+## [!DNL Marketo Sky] {#marketo-sky}
 
 >[!NOTE]
 >
->Marketo Sky發行會更頻繁地進行。 下列功能和增強功能預計會在第4季後期/第1季初期發行。 如需詳細資訊和更新，請參閱我們的[Sky檔案](https://help.marketo.com/)。
+>[!DNL Marketo Sky]發行更頻繁地進行。 下列功能和增強功能預計會在第4季後期/第1季初期發行。 如需詳細資訊和更新，請參閱我們的[Sky檔案](https://help.marketo.com/)。
 
-* **選用的預設體驗**：如果管理員已提供Marketo使用者的存取權，則他們可將Marketo Sky設定為其預設體驗。
+* **選用的預設體驗**：如果管理員已提供存取權，Marketo使用者可將[!DNL Marketo Sky]設定為其預設體驗。
 
 * **重新想像我的Marketo**：新增提供重要資訊、通知和您最常造訪區域連結的Widget，以自訂您的體驗。
 
@@ -74,10 +73,10 @@ ht-degree: 0%
 
 * **全域搜尋**： Marketo現在可在整個平台提供更快速、更強大的全域搜尋功能。 搜尋查詢現在會在所有可存取的工作區中執行，並且可以搜尋資產（使用中及已封存）、標籤、行銷活動和方案。 搜尋結果會透過覆蓋圖提供，每個結果都包含其檔案位置軌跡，以指定資產所在的位置。
 
-* **改善的使用者介面**：新的圖示、模式和按鈕，以及新的調色盤，可反映我們的品牌更新，讓Marketo Sky更令人驚豔且功能更強大。
+* **改善的使用者介面**：新的圖示、模式和按鈕，以及新的調色盤，可反映我們的品牌更新，讓[!DNL Marketo Sky]更令人驚豔且功能更強大。
 
-* **電子郵件方案可用性增強功能**：我們持續邁向傳統Marketo銷售機會管理平台與新Marketo Sky體驗之間的電子郵件方案功能對等化。
-* **具有網路研討會程式**：具有網路研討會程式Marketo Sky現已推出（注意：此版本僅支援GoToWebinar，並會隨著時間建立進一步的整合）。
+* **電子郵件方案可用性增強功能**：我們持續邁向在傳統Marketo銷售機會管理平台與新的[!DNL Marketo Sky]體驗之間實現電子郵件方案功能的對等化。
+* **具有網路研討會程式**：具有網路研討會程式[!DNL Marketo Sky]現已提供使用（注意：此版本僅支援GoToWebinar，並隨著時間建立進一步的整合）。
 
 ## Account-Based Marketing {#account-based-marketing}
 
@@ -87,13 +86,13 @@ ht-degree: 0%
 
 ## Analytics {#analytics}
 
-**Bizible**
+**[!DNL Bizible]**
 
-* **自訂計算欄位**：使用任何Bizible屬性來建置可用於儀表板報告和分段的自訂欄位。
+* **自訂計算欄位**：使用任何[!DNL Bizible]屬性來建立可用於儀表板報告和分段的自訂欄位。
 
 * **SOC II Type II Certification**：新的安全性與隱私權認證是以今年早些時候的Type I認證為基礎。
 
-## 網頁Personalization {#web-personalization}
+## [!DNL Web Personalization] {#web-personalization}
 
 **[在帳戶設定中新增子網域](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
@@ -101,15 +100,16 @@ ht-degree: 0%
 
 ## Marketo Mobile Engagement (MME) {#marketo-mobile-engagement-mme}
 
-**已更新Android的MME軟體開發套件(SDK)**
+**已更新Android的MME Software Development Kit (SDK)**
 
-我們已將Android的SDK更新為更現代、穩定且可擴展的架構，其中包含更多彈性和新的工程功能。 Android應用程式開發人員現在可以直接將Google的[Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM)與此新SDK搭配使用。
+我們已將適用於Android的SDK更新為更現代、更穩定且可擴展的架構，其中包含更多彈性和新的工程功能。 Android應用程式開發人員現在可以直接將Google的[Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM)與此新的SDK搭配使用。
 
-* [開發人員指示]https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [開發人員指示](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
+* [開發人員常見問題集](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >
->應用程式開發人員&#x200B;**必須**&#x200B;在2019年3月31日之前更新為新版本。 如果您未在2019年3月31日之前更新SDK，任何在此日期後下載您的應用程式的新使用者，將無法收到推播通知，直到您更新至最新版SDK為止。 SDK更新不需要您目前的行動應用程式使用者重新下載新版的應用程式。
+>應用程式開發人員&#x200B;**必須**&#x200B;在2019年3月31日之前更新為新版本。 如果您未在2019年3月31日之前更新SDK，則在此日期之後下載您的應用程式的任何新使用者，都將無法接收推播通知，直到您更新至最新版本的SDK為止。 SDK更新不需要您目前的行動應用程式使用者重新下載新版的應用程式。
 
 ## 其他更新 {#additional-updates}
 

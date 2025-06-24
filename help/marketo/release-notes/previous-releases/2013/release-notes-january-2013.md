@@ -4,16 +4,16 @@ description: 發行說明 — 2013年1月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2013年1月
 exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
 
 # 發行說明： 2013年1月 {#release-notes-january}
 
-1月發行版本透過&#x200B;**轉介優惠方案**&#x200B;擴充我們的社交優惠方案。 此外，Marketo銷售機會管理的使用者可以設定他們的時區、語言和區域設定偏好設定。 請注意，標示&#42;的功能僅適用於Select版本。
+1月發行版本透過&#x200B;**轉介優惠方案**&#x200B;擴充我們的社交優惠方案。 此外，[!DNL Marketo Lead Management]使用者可以設定其時區、語言和區域設定喜好設定。 請注意，標示&#42;的功能僅適用於Select版本。
 
 ## 反向連結選件 {#referral-offers}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-15-3a21-3a2.png)
 
-## 選取您的Marketo銷售機會管理語言 {#select-your-marketo-lead-management-language}
+## 選取您的[!DNL Marketo Lead Management]語言 {#select-your-marketo-lead-management-language}
 
 您可以變更Marketo使用者帳戶的預設語言。 即使訂閱的預設為英文，您也可以將其變更為德文或法文以供您自用。
 
@@ -45,9 +45,9 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-15-3a22-3a2.png)
 
-## 選取您的Sales Insight語言（僅限Salesforce） {#select-your-sales-insight-language-salesforce-only}
+## 選取您的[!DNL Sales Insight]語言（僅限[!DNL Salesforce]） {#select-your-sales-insight-language-salesforce-only}
 
-如果您的Salesforce語言偏好設定設為法文或德文，Marketo Sales Insight將會遵循此偏好設定。 下載最新的MSI套件以取得此功能（1月14日當週提供）。
+如果您的[!DNL Salesforce]語言偏好設定設為法文或德文，Marketo [!DNL Sales Insight]將遵循此偏好設定。 下載最新的MSI套件以取得此功能（1月14日當週提供）。
 
 ![](assets/image2014-9-22-15-3a22-3a31.png)
 
@@ -59,6 +59,6 @@ ht-degree: 0%
 
 ## 變更方案資料 {#change-program-data}
 
-「變更方案資料」流程步驟可讓您透過行銷活動手動變更方案成員的成功狀態和成功日期。 您可以使用此流程步驟來更正錯誤，或手動變更可能未如預期參與計畫的成員。
+[!UICONTROL Change Program Data]流程步驟可讓您透過行銷活動手動變更方案成員的[!UICONTROL Success]狀態和[!UICONTROL Success Date]。 您可以使用此流程步驟來更正錯誤，或手動變更可能未如預期參與計畫的成員。
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)

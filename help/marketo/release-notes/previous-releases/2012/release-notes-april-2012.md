@@ -4,9 +4,9 @@ description: 發行說明 — 2012年4月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2012年4月
 exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -24,17 +24,17 @@ ht-degree: 0%
 * Request Campaign API現在可讓您針對該特定行銷活動執行，傳送「我的Token」的值，這對透過API填入電子郵件內容特別有用
 * 新的上傳至清單和排程Campaign API對以上銷售機會清單和批次行銷活動的支援。
 
-## GoToWebinar和WebEx更輕鬆的確認電子郵件(Adobe Connect和ON24即將推出！) {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
+## [!DNL GoToWebinar]和[!DNL WebEx]的更簡單確認電子郵件(Adobe Connect和[!DNL ON24]即將推出！) {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
 
-我們已建立會顯示每個潛在客戶之唯一註冊確認URL的成員權杖，以簡化確認URL。 您將不再需要使用不同的權杖來建立此URL。 這目前可供GoToWebinar和WebEx客戶使用，並將在我們下一個版本中供Adobe Connect和ON24使用。
+我們已建立會顯示每個潛在客戶之唯一註冊確認URL的成員權杖，以簡化確認URL。 您將不再需要使用不同的權杖來建立此URL。 這目前可供[!DNL GoToWebinar]和[!DNL WebEx]客戶使用，並將在我們下一個版本中供Adobe Connect和[!DNL ON24]使用。
 
 ![](assets/image2014-9-23-10-3a4-3a18.png)
 
 ## 按一下即可上傳多個影像和檔案！ {#upload-multiple-images-and-files-with-a-single-click}
 
-將影像和檔案匯入Marketo時，可以節省時間並提高效率！ 如果您使用Firefox或Google Chrome，您可以多選檔案並一次上傳所有檔案。 雖然您可以上傳的檔案數量沒有限制，但每個檔案的個別大小限製為50MB。
+將影像和檔案匯入Marketo時，可以節省時間並提高效率！ 如果您使用[!DNL Firefox]或[!DNL Google Chrome]，您可以多選檔案並一次上傳所有檔案。 雖然您可以上傳的檔案數量沒有限制，但每個檔案的個別大小限製為50MB。
 
-注意：由於瀏覽器的限制，目前Internet Explorer不支援此功能。
+注意：由於瀏覽器的限制，[!DNL Internet Explorer]目前不支援此功能。
 
 ![](assets/image2014-9-23-10-3a4-3a32.png)
 
@@ -46,9 +46,9 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a5-3a1.png)
 
-## 已移除非Salesforce使用者的Salesforce參考 {#salesforce-references-removed-for-non-salesforce-users}
+## 已移除非[!DNL Salesforce]使用者的[!DNL Salesforce]個參考 {#salesforce-references-removed-for-non-salesforce-users}
 
-如果您沒有將訂閱與Salesforce同步，您會注意到參考Salesforce的所有資料夾和流程動作都會被移除。
+如果您未與[!DNL Salesforce]同步處理您的訂閱，您將會注意到所有參考[!DNL Salesforce]的資料夾和流程動作都已移除。
 
 ## Marketo收入週期Analytics {#marketo-revenue-cycle-analytics}
 
