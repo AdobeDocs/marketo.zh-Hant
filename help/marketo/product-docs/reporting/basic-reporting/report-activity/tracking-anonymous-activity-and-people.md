@@ -27,7 +27,7 @@ ht-degree: 0%
 
    在下列情況下，匿名活動會合併至新的或現有人員：
 
-   * 按一下Marketo電子郵件](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)中的[連結。
+   * 按一下Marketo電子郵件[&#128279;](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)中的連結。
    * 填寫Marketo [表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)。
    * 使用Marketo的[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads)或[Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) API （適用於開發人員），將匿名活動與已知記錄建立關聯。
 

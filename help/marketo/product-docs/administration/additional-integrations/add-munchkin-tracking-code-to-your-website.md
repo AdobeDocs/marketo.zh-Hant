@@ -23,7 +23,7 @@ Marketo的自訂JavaScript追蹤程式碼([!DNL Munchkin])會追蹤造訪您網�
 
 >[!NOTE]
 >
->Adobe Experience Cloud使用者也可以在Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}中使用[Marketo整合，以在其網頁上包含[!DNL Munchkin]指令碼。 如果您使用Adobe Launch，_會自動新增[!DNL Munchkin]指令碼_，因此您不需要自行新增。
+>Adobe Experience Cloud使用者也可以在Adobe Launch[&#128279;](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}中使用Marketo整合，以在其網頁上包含[!DNL Munchkin]指令碼。 如果您使用Adobe Launch，_會自動新增[!DNL Munchkin]指令碼_，因此您不需要自行新增。
 
 1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
