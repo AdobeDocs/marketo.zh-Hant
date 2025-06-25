@@ -3,7 +3,7 @@ description: 說明中心 — Marketo Engage檔案 — 產品檔案
 title: 支援中心
 feature: Getting Started
 exl-id: 3dd7c005-a416-4808-9418-9114df76d963
-source-git-commit: 78497d45949d40486ee87bd888477ba6a85d76ba
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 2%
@@ -16,13 +16,13 @@ Adobe Marketo Engage中的說明中心是取得協助的集中位置。 除了�
 
 ## 如何存取 {#how-to-access}
 
-根據您的訂閱是否已移轉至AdobeIdentity Management系統(IMS)，有兩種不同的體驗。
+根據您的訂閱是否已移轉至Adobe Identity Management系統(IMS)，會有兩種不同的體驗。
 
 ### Adobe IMS前移轉 {#pre-adobe-ims-integration}
 
-這些步驟適用於&#x200B;_尚未_&#x200B;移轉至[Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)的Marketo Engage使用者。
+這些步驟適用於尚&#x200B;_未_&#x200B;移轉至[Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的Marketo Engage使用者。
 
-[登入](http://login.marketo.com/)Marketo Engage並按一下[說明]圖示。
+[登入](https://login.marketo.com/){target="_blank"}Marketo Engage並按一下[說明]圖示。
 
 ![](assets/help-center-1.png)
 
@@ -40,7 +40,7 @@ Adobe Marketo Engage中的說明中心是取得協助的集中位置。 除了�
 
    ![](assets/help-center-4.png)
 
-1. 按一下[下一步]&#x200B;**&#x200B;**&#x200B;繼續。
+1. 按一下[下一步]****&#x200B;繼續。
 
    ![](assets/help-center-5.png)
 
@@ -60,19 +60,19 @@ Adobe Marketo Engage中的說明中心是取得協助的集中位置。 除了�
 
 >[!TIP]
 >
->按一下底部的箭頭圖示，以Experience League檢視頁面。
+>按一下底部的箭頭圖示，以在Experience League中檢視頁面。
 
 #### 資源 {#resources}
 
-「資源」標籤可讓您快速而直接地存取各種方式，以取得Marketo Engage執行個體的額外協助。
+「資源」索引標籤可讓您快速而直接地存取各種方法，以取得Marketo Engage執行個體的額外協助。
 
 ![](assets/help-center-8.png)
 
 ### Adobe IMS後移轉 {#post-adobe-ims-integration}
 
-這些步驟適用於已移轉至[Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)的Marketo Engage使用者。
+這些步驟適用於已移轉至[Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的Marketo Engage使用者。
 
-[登入](https://experience.adobe.com/)Marketo Engage並按一下[說明]圖示。
+[登入](https://experience.adobe.com/){target="_blank"}Marketo Engage並按一下[說明]圖示。
 
 ![](assets/help-center-9.png)
 
@@ -84,7 +84,7 @@ Guides （先前是Adobe IMS移轉前說明中心的一部分）現在位於左�
 
 ![](assets/help-center-11.png)
 
-「指南中心」有兩個標籤，「指南」和「新增功能」。 指南可作為Marketo Engage中常用功能的快速逐步解說。 按一下所需的指南，或搜尋特定指南。
+「指南中心」有兩個標籤，「指南」和「新增功能」。 指南可作為Marketo Engage中常用功能的快速逐步說明。 按一下所需的指南，或搜尋特定指南。
 
 ![](assets/help-center-12.png)
 

@@ -4,10 +4,10 @@ description: 變更表單字型系列 — Marketo檔案 — 產品檔案
 title: 變更表單字型系列
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -35,7 +35,7 @@ Google字型非常棒，我們直接在表單編輯器中建立它們。 立即�
 
    >[!TIP]
    >
-   >一組[Google字型](https://www.google.com/fonts)可供使用。
+   >一組[Google字型](https://fonts.google.com/){target="_blank"}可供使用。
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
