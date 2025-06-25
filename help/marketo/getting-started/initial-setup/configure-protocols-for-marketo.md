@@ -255,7 +255,7 @@ DMARC有兩種對齊方式：DKIM對齊方式和SPF對齊方式。
 
 * DKIM校準的DMARC — 若要設定DKIM校準的DMARC ，您必須：
 
-   * 針對您訊息的「寄件者：網域」設定DKIM。 使用本文章](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}中的指示[。
+   * 針對您訊息的「寄件者：網域」設定DKIM。 使用本文章[&#128279;](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}中的指示。
    * 為先前設定的FROM：/DKIM網域設定DMARC
 
 * DMARC對齊的SPF — 若要透過品牌傳迴路徑設定DMARC對齊的SPF，您必須：
