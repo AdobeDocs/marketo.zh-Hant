@@ -3,7 +3,7 @@ description: 繼承執行個體管理員檢查清單 — Marketo檔案 — 產�
 title: 繼承執行個體管理員檢查清單
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
 workflow-type: tm+mt
 source-wordcount: '1858'
 ht-degree: 1%
@@ -16,31 +16,31 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 
 >[!TIP]
 >
->如果您是新的Marketo Engage使用者，且不熟悉許多術語，請檢視[Marketo Engage字彙表](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}。
+>如果您是Marketo Engage的新使用者，且不熟悉許多術語，請檢視[Marketo Engage字彙表](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}。
 
-## AdobeIdentity Management {#adobe-identity-management}
+## Adobe Identity Management {#adobe-identity-management}
 
 >[!NOTE]
 >
->這僅適用於已上線到[AdobeIdentity Management系統(IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的Marketo Engage訂閱。 如果您的訂閱尚未上線Adobe IMS，請在「Marketo Engage>管理員>使用者和角色」中繼續進行[舊版使用者角色和許可權體驗](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}。
+>這僅適用於上架到[Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的Marketo Engage訂閱。 如果您的訂閱尚未上線Adobe IMS，請在「Marketo Engage >管理員>使用者和角色」中繼續進行[舊版使用者角色和許可權體驗](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}。
 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面積圖</th> 
+   <th style="width:20%">區域圖</th> 
    <th>評論焦點</th>
   </tr> 
   <tr> 
-   <td>訂閱和Marketo Engage產品管理員</td> 
+   <td>訂閱與Marketo Engage產品管理員</td> 
    <td><li>您的Marketo Engage訂閱是否已移轉至<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a>？ 
-<br/>     若是如此，您的「Adobe Admin Console系統管理員」是否已授予您「Adobe Admin Console產品管理員」角色？ 如果您不確定組織中的哪些人擁有主控台中的管理員許可權，請聯絡<a href="https://helpx.adobe.com/tw/contact.html" target="_blank">Adobe客戶服務</a>。</li>
+<br/>     若是如此，您的「Adobe Admin Console系統管理員」是否已授予您「Adobe Admin Console產品管理員」角色？ 如果您不確定組織中的哪些人擁有主控台中的管理員許可權，請聯絡<a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe客戶服務</a>。</li>
 <li>您是否接受「Marketo Engage產品管理員」邀請？ 在Adobe Admin Console中指派角色時，會傳送電子郵件。
 <br/>     如果沒有，請在收件匣中尋找<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">歡迎電子郵件</a>，並接受邀請以啟用您的Adobe ID。</li></td>
   </tr>
   <tr> 
    <td>產品設定檔</td> 
    <td><li>在Adobe Admin Console中，是否已將所有適當的使用者指派給Marketo Engage的產品設定檔？
-<br/>     如果沒有，請確定<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">新增和/或移除使用者</a> (從Adobe Admin Console中的Marketo Engage產品設定檔中)。 如果您將使用者新增至產品設定檔，您無法在「Marketo Engage&gt;管理員&gt;使用者和角色」中指派使用者。</li>
+<br/>     如果沒有，請確定<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">在Adobe Admin Console中，從Marketo Engage產品設定檔新增和/或移除使用者</a>。 如果您將使用者新增至產品設定檔，您無法在「Marketo Engage &gt;管理員&gt;使用者和角色」中指派使用者。</li>
 <p><img src="assets/note-icon.png" alt="附註圖示"> 注意：如果將不需要的使用者新增到多個產品設定檔，您必須從所有產品設定檔中移除該使用者。 否則，他們仍可存取Marketo Engage。</td>
   </tr>
   <tr> 
@@ -57,7 +57,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面積圖</th>
+   <th style="width:20%">區域圖</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -73,13 +73,13 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
   </tr>
   <tr> 
    <td>角色</td> 
-   <td><img src="assets/note-icon.png" alt="附註圖示"> 注意：無論您是否將Marketo與Adobe身分搭配使用，請繼續在「管理員&gt;使用者和角色&gt;角色」中檢閱Marketo Engage的角色許可權。
+   <td><img src="assets/note-icon.png" alt="附註圖示"> 注意：無論您是否將Marketo與Adobe身分搭配使用，請繼續在「管理員&gt;使用者和角色&gt;角色」底下檢閱Marketo Engage中的角色許可權。
    <p><li>有多少角色？</li>  
 <li>每個角色都有哪些<a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">許可權/存取權</a>？ 是否應對任何專案進行調整？</li>
 <li>每個角色有多少使用者？</li>
 <li>使用者<a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">登入</a>的頻率為何？</li>
 <li>每個API使用者是否有自己的<a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">使用者角色</a>？ 如果不能，請考慮實作此專案以更輕鬆進行疑難排解。</li> 
-<li>您的使用者角色和許可權是否符合法規遵循的企業資料隱私權政策（例如<a href="https://gdpr-info.eu/" target="_blank">GDPR</a>）？ 公司資料<a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">隱私權原則</a>是否允許使用者下載和共用Marketo Engage的使用者資料？ 需要許可業務嗎？</li></td>
+<li>您的使用者角色和許可權是否符合法規遵循的企業資料隱私權政策（例如<a href="https://gdpr-info.eu/" target="_blank">GDPR</a>）？ 公司資料<a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">隱私權原則</a>是否允許使用者下載及共用Marketo Engage使用者資料？ 需要許可業務嗎？</li></td>
   </tr>
   <tr> 
    <td>支援使用者</td> 
@@ -104,7 +104,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面積圖</th>
+   <th style="width:20%">區域圖</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -119,7 +119,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面積圖</th>
+   <th style="width:20%">區域圖</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -143,7 +143,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面積圖</th>
+   <th style="width:20%">區域圖</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -159,7 +159,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面積圖</th>
+   <th style="width:20%">區域圖</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -175,7 +175,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面積圖</th>
+   <th style="width:20%">區域圖</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -184,13 +184,13 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 <li>您的程式是否需要標籤？</li></td>
   </tr>
   <tr> 
-   <td>頻道</td> 
+   <td>管道</td> 
    <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">有多少管道</a>？ 目前使用多少個？</li>
 <li>所有<a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">頻道方案狀態是否適當</a>？ 它們是否在計畫中顯示進度？</li>
 <li>您的管道是否與特定計畫型別有關？</li>
 <li>每個管道的哪些狀態被視為成功？ 這些是否符合您的行銷目標？</li>
 <li>是否正確使用營運管道？</li>
-<li>針對進階Report Builder（收入週期總管/RCE），您的管道分析行為是否設定為符合納入期間成本的方案實務？</li></td>
+<li>針對進階Report Builder （收入週期總管/RCE），您的管道分析行為是否設定為符合納入期間成本的方案實務？</li></td>
   </tr>
   <tr> 
    <td>行銷行事曆（如果適用）</td> 
@@ -204,7 +204,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面積圖</th>
+   <th style="width:20%">區域圖</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -240,7 +240,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面積圖</th>
+   <th style="width:20%">區域圖</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -255,7 +255,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面積圖</th>
+   <th style="width:20%">區域圖</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -281,7 +281,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
    <td>Munchkin</td> 
    <td><li>您的<a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin追蹤代碼</a>是否在您的網站上(不是Marketo Engage登陸頁面)？</li>
 <li><a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Do Not Track</a>瀏覽器請求是否已啟用？</li>
-<li>是否已設定您的<a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/javascriptapi/lead-tracking.html" target="_blank">Munchkin API</a>？ 
+<li>是否已設定您的<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin API</a>？ 
 <p><img src="assets/tip-icon.png" alt="提示圖示">提示：如果您遺失munchkin程式碼在您網站上的位置檔案，您可以建立<a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">網頁活動報告</a>來檢視所有URL。</li></td>
   </tr>
   <tr> 
@@ -292,23 +292,23 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 <br/>     如果是這樣的話，請考慮增加此功能或稽核您的執行個體，以叫停這些API呼叫。</li></td>
   </tr>
   <tr> 
-   <td>Adobe Dynamic Chat（如果適用）</td> 
-<td>若要遵循下列步驟，必須存取<a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>。 如果您尚未設定Adobe ID，請<a href="https://helpx.adobe.com/tw/manage-account/using/create-update-adobe-id.html" target="_blank">在這裡瞭解如何設定</a>。
+   <td>Adobe Dynamic Chat （如果適用）</td> 
+<td>若要遵循下列步驟，必須存取<a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>。 如果您尚未設定Adobe ID，請<a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">在這裡瞭解如何設定</a>。
 <br/>
-<li>您是否接受<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat產品管理員</a>邀請？ 在您的Marketo Engage執行個體中啟用Dynamic Chat且您被指定為系統管理員時，會傳送電子郵件。
+<li>您是否接受<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat產品管理員</a>邀請？ 電子郵件會在您的Marketo Engage執行個體中啟用Dynamic Chat時傳送，而且您會指定為系統管理員。
 <br/>     如果沒有，請在收件匣中尋找歡迎電子郵件，並接受邀請以設定您的Adobe ID。</li>   
-<li>您是否已將<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">想要的使用者</a>新增至Adobe Admin Console中的Dynamic Chat產品設定檔？
-<li>請確認符合資格的使用者已在Adobe身分中新增Dynamic Chat產品設定檔。 如果您的「存取Dynamic Chat」角色已新增至產品設定檔，您無法在「Marketo Engage&gt;管理員&gt;使用者和角色」中指派這些角色。</li>
+<li>您是否已將<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">所要的使用者</a>新增至Adobe Admin Console中的Dynamic Chat產品設定檔？
+<li>請確認符合資格的使用者已將其Dynamic Chat產品設定檔新增至其Adobe身分識別中。 如果您已將「存取Dynamic Chat」角色新增至產品設定檔，您無法在「Marketo Engage &gt;管理員&gt;使用者和角色」中指派這些角色。</li>
 <li>在「產品設定檔」索引標籤中，預設設定檔許可權是否符合您組織的需求？<br/> 
 如果沒有，請編輯特定設定檔的許可權。 </li>
 <li>如果您有多個訂閱，您的使用者是否會新增至正確的訂閱？</li>
 <br>
-完成稽核「使用者與角色」設定後，請登入Dynamic Chat以繼續稽核。  
-<li>您<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">已將您的Marketo Engage執行個體</a>連線到Dynamic Chat嗎？</li>
+完成稽核使用者與角色設定後，請登入Dynamic Chat以繼續稽核。  
+<li>您<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">已將您的Marketo Engage執行個體</a>連線至Dynamic Chat嗎？</li>
 <li>具有預先定義許可權的五個預設設定檔是否適用於您的組織？<br/> 
-     如果沒有，您可以<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">在Dynamic Chat</a>中編輯它們。 您也可以<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">建立具有自訂許可權集的自訂設定檔</a>。</li>
-<li>為了提供使用者存取Dynamic Chat的許可權，您是否已在「管理員&gt;使用者和角色&gt;角色」下核取適用的Marketo EngageDynamic Chat的「存取角色」？
-<br/><img src="assets/note-icon.png" alt="附註圖示">注意：「管理員」和「行銷使用者」角色應該要有Dynamic Chat的存取權。</li>
+     如果沒有，您可以<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">在Dynamic Chat中編輯它們</a>。 您也可以<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">建立具有自訂許可權集的自訂設定檔</a>。</li>
+<li>若要讓使用者存取Dynamic Chat，您已核取「管理員&gt;使用者和角色&gt;角色」中適用的Marketo Engage角色的「存取Dynamic Chat」嗎？
+<br/><img src="assets/note-icon.png" alt="附註圖示">注意：「管理員」和「行銷使用者」角色應該要能存取Dynamic Chat。</li>
 </td>
   </tr>
   <td>Marketo Sales Insight （如果適用）</td> 
@@ -342,7 +342,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面積圖</th>
+   <th style="width:20%">區域圖</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -363,7 +363,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">面積圖</th>
+   <th style="width:20%">區域圖</th>
    <th>評論焦點</th>
   </tr> 
   <tr> 
@@ -372,7 +372,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
   </tr>
   <tr> 
    <td>警報</td> 
-   <td><li>是否有任何從Marketo Engage傳送給內部團隊的<a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">作用中警示</a>？</li>
+   <td><li>是否有任何<a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">作用中警示</a>從Marketo Engage傳送給內部團隊？</li>
 <li>如果有的話，這些警報是否可正常運作？</li></td>
   </tr>
   <tr> 
