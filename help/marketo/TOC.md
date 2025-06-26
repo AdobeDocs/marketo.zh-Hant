@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: ce7142e471271dfb33b265e226b67bcc3b35594b
 workflow-type: tm+mt
-source-wordcount: '9279'
+source-wordcount: '9283'
 ht-degree: 2%
 
 ---
@@ -1642,7 +1642,7 @@ ht-degree: 2%
          + [簡訊字彙表](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
    + 個人化 {#personalization}
       + 分段與代碼片段 {#segmentation-and-snippets}
-         + 區段 {#segmentation}
+         + 分段 {#segmentation}
             + [核准分段](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
             + [建立細分](product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
             + [定義區段規則](product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
@@ -1958,6 +1958,7 @@ ht-degree: 2%
    + [發行排程](release-notes/release-schedule.md)
    + [最新版本](release-notes/current.md)
    + [Dynamic Chat版本](release-notes/dynamic-chat.md)
+   + [Dynamic Chat發行臨時](release-notes/dynamic-chat-temp.md)
    + 舊版 {#previous-releases}
       + 2025 版 {#2025}
          + [發行說明： 2025年1月](release-notes/previous-releases/2025/release-notes-jan-25.md)
