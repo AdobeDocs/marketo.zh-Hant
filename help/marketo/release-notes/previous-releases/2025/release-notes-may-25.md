@@ -71,12 +71,12 @@ ht-degree: 2%
 
 ## 公告 {#announcements}
 
-* **Facebook離線轉換整合更新**：在2025年5月29日，Marketo Engage的[Facebook離線轉換](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"}整合將移轉到新的中繼資料[轉換API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}，因為中繼資料已棄用[離線轉換API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"}，與Graph API版本設定一致。 如需詳細資訊，請檢視Meta的指南，以[透過Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI for Offline)傳送離線事件。
+* **Facebook離線轉換整合更新**：在2025年5月29日，Marketo Engage的[Facebook離線轉換](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"}整合將移轉到新的中繼資料[轉換API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}，因為中繼資料已棄用[離線轉換API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"}，與Graph API版本設定一致。 如需詳細資訊，請檢視Meta的指南，以[透過Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI for Offline)傳送離線事件。
 
 * **全新Analytics功能 — 公用Beta**： [進階BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (先前稱為Revenue Explorer和Advanced Report Builder)已於4月中旬開始向所有目前的Revenue Cycle Explorer使用者推出。 這個新工具針對Marketo Engage資料提供彈性的報表和視覺化介面，提供關於進度、效能等專案的詳細資訊。 它提供更豐富的互動性和視覺效果、更快的效能，以及更順暢且直覺的使用者體驗。
 
 若要存取此功能，您必須已購買進階BI Analytics附加元件。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2025年10月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2025年10月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API淘汰**：對Marketo SOAP API的支援將於2025年10月31日終止。 使用SOAP API功能的服務應移轉至[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API淘汰**：對Marketo SOAP API的支援將於2025年10月31日終止。 使用SOAP API功能的服務應移轉至[REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
