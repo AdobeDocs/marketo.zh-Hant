@@ -4,10 +4,11 @@ title: 最新發行說明
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 67b1c61d9051043cb9fb6e4252ffd94c77ff6f22
+exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
+source-git-commit: 320be450e0dcf0d1bcbeeb590b1a3207b5e79955
 workflow-type: tm+mt
-source-wordcount: '450'
-ht-degree: 2%
+source-wordcount: '562'
+ht-degree: 1%
 
 ---
 
@@ -113,7 +114,7 @@ ht-degree: 2%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>標題</strong>：說明。</td> 
+   <td><strong>電子郵件Designer - GenStudio整合</strong>：在電子郵件中整合GenStudio以進行高效能行銷，以提高行銷效率並維持品牌一致性。</td> 
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -123,7 +124,7 @@ ht-degree: 2%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>標題</strong>：說明。</td> 
+   <td><strong>REST API錯誤碼通知更新</strong>：已在應用程式內通知中新增另外兩個REST API錯誤類別： 606 — 超過最大速率限制和607 — 達到每日配額。</td> 
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -133,7 +134,7 @@ ht-degree: 2%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>標題</strong>：說明。</td> 
+   <td><strong>在欄位管理中顯示程式成員標準欄位</strong>： <i>欄位管理</i>中的標準和自訂程式成員欄位現在都可見。</td> 
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -143,7 +144,17 @@ ht-degree: 2%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>標題</strong>：說明。</td> 
+   <td><strong>欄位管理中的REST API名稱</strong>：此更新可讓管理員檢視REST API欄位名稱，而不需匯出清單。</td> 
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>清單使用的Token</strong>：檢視使用My Token的資產清單（一次最多50個資產）。</td> 
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -153,6 +164,6 @@ ht-degree: 2%
 
 ## 公告 {#announcements}
 
-* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2025年10月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2025年10月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API淘汰**：對Marketo SOAP API的支援將於2025年10月31日終止。 使用SOAP API功能的服務應移轉至[REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API淘汰**：對Marketo SOAP API的支援將於2025年10月31日終止。 使用SOAP API功能的服務應移轉至[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
