@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 1bb3bfdef8a74c0f990c5e274391348c9c111f28
+source-git-commit: 25a218896c84a7145f05079fe8adcf3d657adcad
 workflow-type: tm+mt
 source-wordcount: '1178'
 ht-degree: 9%
@@ -107,7 +107,7 @@ ht-degree: 9%
 
 您可以指定預設品牌，在建立行銷活動期間產生內容及計算一致性分數時自動套用。
 
-若要設定預設品牌，請移至您的&#x200B;**[!UICONTROL Brands]**&#x200B;儀表板。 按一下![](assets/do-not-localize/Smock_More_18_N.svg)圖示並選取&#x200B;**[!UICONTROL Mark as default brand]**，以開啟進階功能表。
+若要設定預設品牌，請移至您的&#x200B;**[!UICONTROL Brands]**&#x200B;儀表板。 按一下圖示以開啟進階功能表，然後選取&#x200B;**[!UICONTROL Mark as default brand]**。
 
 熒幕擷圖
 
