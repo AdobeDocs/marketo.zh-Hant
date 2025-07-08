@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 4d6c929bf7dc5b8c825fe7d7ab613dd8fd750aa0
+source-git-commit: c5f0e8ef41618ec0723e4c6ca534e6ed3c1ec1f9
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '666'
 ht-degree: 1%
 
 ---
@@ -152,12 +152,12 @@ ht-degree: 1%
 
 ## 公告 {#announcements}
 
-* **Marketo Engage Identity生命週期結束**：自2025年8月起，Adobe將開始逐步停止支援Marketo Engage Identity （透過`login.marketo.com`登入）。 為避免中斷存取Marketo Engage，您必須在2025年9月30日之前轉換至[Adobe身分識別](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
+* **Marketo Engage Identity生命週期結束**：自2025年8月起，Adobe將開始逐步停止支援Marketo Engage Identity （透過`login.marketo.com`登入）。 為避免中斷存取Marketo Engage，您必須在2025年9月30日之前轉換至[Adobe身分識別](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
 
-   * _不再使用IP限制_：對[根據IP限制Marketo登入](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}的支援將於2025年7月30日結束。 此功能將可繼續運作，直到轉換至Adobe身分識別完成。 Adobe Admin Console中Adobe Identity的一項全新位置型存取控制功能預計於2025年8月發行。
+   * _不再使用IP限制_：支援[根據IP限制Marketo登入](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}將於2025年7月30日結束。 此功能將可繼續運作，直到轉換至Adobe身分識別完成。 Adobe Admin Console中Adobe Identity的一項全新位置型存取控制功能預計於2025年8月發行。
 
-   * _單一登入(SSO)淘汰_：對[Marketo身分SSO](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}的支援將於2025年7月30日結束。 此功能將可繼續運作，直到轉換至Adobe身分識別完成。 Adobe Admin Console中Adobe身分識別的單一登入必須個別設定。 如需設定步驟，請參閱[設定身分和單一登入](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
+   * _單一登入(SSO)淘汰_：對[Marketo身分SSO](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}的支援將於2025年7月30日結束。 此功能將可繼續運作，直到轉換至Adobe身分識別完成。 Adobe Admin Console中Adobe身分識別的單一登入必須個別設定。 如需設定步驟，請參閱[設定身分和單一登入](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
 
-* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2025年10月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2025年10月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API淘汰**：對Marketo SOAP API的支援將於2025年10月31日終止。 使用SOAP API功能的服務應移轉至[REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API淘汰**：對Marketo SOAP API的支援將於2025年10月31日終止。 使用SOAP API功能的服務應移轉至[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
