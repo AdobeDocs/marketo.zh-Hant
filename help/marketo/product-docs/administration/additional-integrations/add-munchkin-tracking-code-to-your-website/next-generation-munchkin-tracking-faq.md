@@ -4,7 +4,9 @@ description: 新一代 [!DNL Munchkin] 追蹤常見問題集 — Marketo檔案 �
 title: 新一代 [!DNL Munchkin] 追蹤常見問題集
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+hide: true
+hidefromtoc: true
+source-git-commit: ea07c5c83c51fef4eb454562f041db685cf13775
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 0%
@@ -45,7 +47,7 @@ ht-degree: 0%
 >
 >**觸發器**：瀏覽網頁，網頁為定價頁面\
 >**流量**：變更分數+10和有趣的時刻
->**Web**：已檢視的定價頁面
+>>**Web**：已檢視的定價頁面
 >
 >透過[!DNL Munchkin] V2，如果匿名人員造訪定價頁面，她不會立即進入行銷活動。 當匿名人士成為已知人時，我們會針對她執行此行銷活動。 她會：
 >
@@ -84,7 +86,7 @@ ht-degree: 0%
 
 [匿名銷售機會升級 — 發行排程](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
 
-[匿名銷售機會升級 — 未受保護](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
+[匿名銷售機會升級 — 潛在](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
 
 [匿名銷售機會促銷活動給已知銷售機會 —  [!DNL Munchkin] V2行為](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
 
