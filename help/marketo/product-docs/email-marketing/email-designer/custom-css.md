@@ -7,32 +7,31 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 55c0e4f011944eb30f5f48bf99ba9558185ca46d
+exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
+source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '587'
 ht-degree: 2%
 
 ---
 
 # 將自訂 CSS 新增至您的電子郵件內容 {#email-metadata}
 
-設計電子郵件時，您可以直接在Marketo Engage Email Designer中新增自己的自訂CSS。 此功能可讓您套用進階和特定的樣式，以更靈活的方式控制內容的外觀。
+直接在Marketo Engage電子郵件Designer中新增您自己的自訂CSS，用於進階和特定樣式。
 
 ## 定義自訂CSS {#define-custom-css}
 
-若要將自訂CSS新增至您的電子郵件內容，請遵循下列步驟。
+1. 新增至少一個元件，以確保電子郵件Designer中已定義一些內容。
 
-1. 新增至少一個元件，以確保電子郵件Designer中已定義一些內容。 連結 — 要保留嗎？
-
-1. 從左邊窗格的&#x200B;**[!UICONTROL Body]**&#x200B;或右窗格頂端選取&#x200B;**[!UICONTROL Navigation tree]**。 **[!UICONTROL CSS styles]**&#x200B;區段會顯示在右側。
+1. 從左側的&#x200B;**[!UICONTROL Body]**&#x200B;或右側窗格中選取&#x200B;**[!UICONTROL Navigation tree]**。 **[!UICONTROL CSS styles]**&#x200B;顯示在右側。
 
    熒幕擷圖
 
    >[!NOTE]
    >
-   >**[!UICONTROL CSS styles]**&#x200B;區段僅在內容已存在於編輯器中時可用。
+   >**[!UICONTROL CSS styles]**&#x200B;區段僅在內容存在於編輯器中時可用。
 
-1. 按一下&#x200B;**[!UICONTROL Add Custom CSS]**&#x200B;按鈕。
+1. 按一下&#x200B;**[!UICONTROL + Add custom CSS]**&#x200B;按鈕。
 
    >[!NOTE]
    >
@@ -44,27 +43,27 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >使用具有鎖定內容[的](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md)範本時，您無法新增自訂CSS至您的內容。 按鈕標籤變更為&#x200B;**[!UICONTROL View custom CSS]**，而且內容中已存在的任何自訂CSS都是唯讀的。
+   >使用包含鎖定內容[的](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md)範本時，您無法新增自訂CSS至您的內容。 按鈕標籤變更為&#x200B;**[!UICONTROL View custom CSS]**，且顯示的任何自訂CSS都是唯讀的。
 
-1. 儲存自訂CSS並確認自訂CSS已正確套用至您的內容。 如果不是這種情況，請檢視[疑難排解](#troubleshooting)區段。
+1. 儲存您的自訂CSS，並確定其適用於您的內容。 如果不適用，請檢查[疑難排解](#troubleshooting)區段。
 
    熒幕擷圖
 
-1. 如果您移除所有內容，該區段會消失，並且先前定義的自訂CSS將不再套用。
+   >[!NOTE]
+   >
+   >如果您移除所有內容，該區段會消失，並且先前定義的自訂CSS將不再套用。 新增內容回以使&#x200B;**[!UICONTROL CSS styles]**&#x200B;區段重新出現。 再次套用自訂CSS。
 
-1. 將內容新增回編輯器，以使&#x200B;**[!UICONTROL CSS styles]**&#x200B;區段重新出現。 再次套用自訂CSS。
-
-## 確保使用有效的CSS {#use-valid-css}
+## 使用有效的CSS {#using-valid-css}
 
 您可以在&#x200B;**[!UICONTROL Add custom CSS]**&#x200B;文字區域中輸入任何有效的CSS字串。 格式正確的CSS會立即套用至內容。
 
 >[!CAUTION]
 >
->使用者須負責其自訂CSS的安全性。 確保您的CSS不會引進漏洞或與現有內容衝突。
+>您需自行負責自訂CSS的安全性。 確保您的CSS不會帶來漏洞或與現有內容衝突。
 >
 >避免使用可能無意中破壞內容版面或功能的CSS。
 
-+++ CSS範例
++++ 有效CSS的範例
 
 以下是有效CSS的範例。
 
@@ -207,23 +206,23 @@ body {
 
 電子郵件Designer的&#x200B;**[!UICONTROL Settings]**&#x200B;窗格不會解譯或驗證自訂CSS。 它是完全獨立的，而且只能透過&#x200B;**[!UICONTROL Add Custom CSS]**&#x200B;選項修改。
 
-### 護欄 — 匯入內容
+### 護欄 — 匯入內容 {#guardrails}
 
 如果您想要搭配匯入電子郵件Designer的內容使用自訂CSS，請考慮下列事項：
 
-* 如果[匯入包含CSS的外部HTML](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html)內容，除非轉換該內容，否則將會在&#x200B;**[!UICONTROL Compatibility mode]**&#x200B;中，其中&#x200B;**[!UICONTROL CSS styles]**&#x200B;區段無法使用。
+* 如果[匯入外部HTML](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html)內容（包括CSS），除非您轉換該內容，否則將會在&#x200B;**[!UICONTROL Compatibility mode]**&#x200B;中，其中&#x200B;**[!UICONTROL CSS styles]**&#x200B;區段無法使用。
 
-* 如果匯入使用電子郵件Designer建立的內容，包括透過&#x200B;**[!UICONTROL Add custom CSS]**&#x200B;選項套用的CSS，則先前套用的CSS將可透過相同選項顯示和編輯。
+* 如果匯入使用電子郵件Designer建立的內容包含透過&#x200B;**[!UICONTROL Add custom CSS]**&#x200B;選項套用的CSS，則先前套用的CSS將可透過相同選項顯示和編輯。
 
 ## 疑難排解 {#troubleshooting}
 
-如果未套用您的自訂CSS，請考慮下列選項。
+如果未套用您的自訂CSS，請嘗試下列建議。
 
-* 請確定您的CSS有效，且沒有語法錯誤（例如缺少大括弧、屬性名稱不正確）。 [了解作法](#use-valid-css)
+* 請確定您的CSS有效且沒有語法錯誤（例如缺少大括弧、屬性名稱不正確）。 [了解作法](#use-valid-css)
 
 * 確定您的CSS已新增至具有`<style>`屬性的`data-name="global-custom"`標籤。
 
-* 檢查`global-custom`樣式標籤是否已將屬性`data-disabled`設定為`true`。 若是如此，則不會套用自訂CSS。
+* 檢查`global-custom`樣式標籤是否已將屬性`data-disabled`設定為`true`。 若存在，則不會套用自訂CSS。
 
 +++ 例如：
 
@@ -248,3 +247,7 @@ body {
      ```
 
 +++
+
+>[!NOTE]
+>
+>Marketo Engage支援未設定為協助疑難排解自訂CSS。 如需CSS協助，請洽詢網頁開發人員。
