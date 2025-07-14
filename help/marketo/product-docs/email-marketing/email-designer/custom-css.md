@@ -1,23 +1,23 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: 標題
+title: 將自訂 CSS 新增至您的電子郵件內容
 description: 瞭解如何直接在Marketo Engage的電子郵件Designer中，將自訂CSS新增至您的電子郵件內容。
 level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 37938db9eafbe7860448d438e2fa03adccd043ec
 workflow-type: tm+mt
 source-wordcount: '587'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# 將自訂 CSS 新增至您的電子郵件內容 {#email-metadata}
+# 將自訂 CSS 新增至您的電子郵件內容 {#custom-css}
 
-直接在Marketo Engage電子郵件Designer中新增您自己的自訂CSS，用於進階和特定樣式。
+直接在Marketo Engage電子郵件Designer中新增您自己的自訂CSS，用於進階、特定的樣式。
 
 ## 定義自訂CSS {#define-custom-css}
 
@@ -25,7 +25,7 @@ ht-degree: 2%
 
 1. 從左側的&#x200B;**[!UICONTROL Body]**&#x200B;或右側窗格中選取&#x200B;**[!UICONTROL Navigation tree]**。 **[!UICONTROL CSS styles]**&#x200B;顯示在右側。
 
-   熒幕擷圖
+   ![](assets/custom-css-1.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -37,17 +37,17 @@ ht-degree: 2%
    >
    >**[!UICONTROL Add custom CSS]**&#x200B;按鈕僅在選取&#x200B;**[!UICONTROL Body]**&#x200B;時可用。 不過，您可以將自訂CSS樣式套用至內容內的所有元件。
 
-1. 在彈出的專用文字區域中輸入您的CSS代碼。 請確定自訂CSS有效並遵循正確語法。 [了解更多](#use-valid-css)
+1. 在彈出的專用文字區域中輸入您的CSS代碼。 請確定自訂CSS [有效並遵循正確的語法](#use-valid-css)。 完成時，按一下&#x200B;**儲存**。
 
-   熒幕擷圖
+   ![](assets/custom-css-2.png)
 
    >[!NOTE]
    >
    >使用包含鎖定內容[的](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md)範本時，您無法新增自訂CSS至您的內容。 按鈕標籤變更為&#x200B;**[!UICONTROL View custom CSS]**，且顯示的任何自訂CSS都是唯讀的。
 
-1. 儲存您的自訂CSS，並確定其適用於您的內容。 如果不適用，請檢查[疑難排解](#troubleshooting)區段。
+1. 請確定CSS套用至您的內容。 如果不適用，請檢查[疑難排解](#troubleshooting)區段。
 
-   熒幕擷圖
+   ![](assets/custom-css-3.png)
 
    >[!NOTE]
    >
