@@ -6,9 +6,9 @@ description: Marketo Engage使用者可以整合他們的Litmus帳戶，以似�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: e5bb92d007db05fc6d0ee1319cb989ad60063e48
+source-git-commit: 919406f948456bc265a73841c87a6d74605f045e
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能適用於擁有使用中[Litmus Enterprise](https://www.litmus.com/enterprise){target="_blank"}帳戶的所有Marketo Engage使用者。
+>在[企業計畫](https://www.litmus.com/pricing/enterprise){target="_blank"}帳戶擁有使用中Litmus帳戶的所有Marketo Engage使用者皆可使用此功能。
 
 ## 使用方式 {#how-to-use}
 
