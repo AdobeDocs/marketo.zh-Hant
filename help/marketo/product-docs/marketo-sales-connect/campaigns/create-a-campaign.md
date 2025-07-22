@@ -36,7 +36,7 @@ ht-degree: 2%
    >
    >按一下&#x200B;**旁的**+**[!UICONTROL Categories]**&#x200B;以建立新類別。
 
-1. 將會選取您選擇的類別。 如果您改變心意，請按一下下拉式清單並選取其他選項。 完成後，按一下「**[!UICONTROL  Continue]**」。
+1. 將會選取您選擇的類別。 如果您改變心意，請按一下下拉式清單並選取其他選項。 完成後，按一下「**[!UICONTROL &#x200B; Continue]**」。
 
    ![](assets/three-1.png)
 

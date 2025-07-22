@@ -15,7 +15,7 @@ ht-degree: 1%
 
 當行銷活動自動化時，您可能不希望您的電子郵件在星期六或星期日外寄。 如果沒有，您可以略過週末。
 
-1. 在[!DNL Sales Connect]中，按一下&#x200B;**[!UICONTROL  Campaigns]**&#x200B;標籤。
+1. 在[!DNL Sales Connect]中，按一下&#x200B;**[!UICONTROL &#x200B; Campaigns]**&#x200B;標籤。
 
    ![](assets/one-2.png)
 

@@ -43,6 +43,7 @@ ht-degree: 2%
    1. 選取&#x200B;**[!UICONTROL Account].**
    1. 選取&#x200B;**[!UICONTROL Property].**
    1. 選取&#x200B;**[!UICONTROL Custom Definitions]**&#x200B;和&#x200B;**[!UICONTROL Custom Dimensions]**。
+
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. 新增自訂維度。 按一下 **[!UICONTROL +New Custom Dimension]**

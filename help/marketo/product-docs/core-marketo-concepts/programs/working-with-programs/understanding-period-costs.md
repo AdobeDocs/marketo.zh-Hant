@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >如果您花費$1000僱傭illustrator為將於7月啟動的[!DNL eBook]進行插圖 — [!DNL eBook]方案在7月的期間成本為$1000。
 >
->如果您每月在[!DNL Google Adwords]上花費$200 - [!DNL Google Adwords]方案的期間成本為每月&#x200B;_200 $3}。_
+>如果您每月在[!DNL Google Adwords]上花費$200 - [!DNL Google Adwords]方案的期間成本為每月&#x200B;_200 $3&rbrace;。_
 
 >[!NOTE]
 >

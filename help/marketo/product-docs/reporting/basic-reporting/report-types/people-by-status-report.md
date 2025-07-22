@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 依狀態顯示人員報表 {#people-by-status-report}
 
-檢查每個月有多少人員出現在每個&#x200B;_[!UICONTROL Person Status]_值中，檢視您在流程中移動人員的程度。
+檢查每個月有多少人員出現在每個&#x200B;_[!UICONTROL Person Status]_&#x200B;值中，檢視您在流程中移動人員的程度。
 
 1. [建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)並選取&#x200B;**[!UICONTROL People by Status]** [報告型別](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
 
 1. [設定報告的時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)，然後按一下&#x200B;**[!UICONTROL Report]**&#x200B;標籤。
 
-1. 太棒了！ 現在您可以逐月檢視每個&#x200B;_[!UICONTROL Person Status]_有多少人。
+1. 太棒了！ 現在您可以逐月檢視每個&#x200B;_[!UICONTROL Person Status]_&#x200B;有多少人。
 
    ![](assets/image2017-3-27-11-3a17-3a4.png)
 

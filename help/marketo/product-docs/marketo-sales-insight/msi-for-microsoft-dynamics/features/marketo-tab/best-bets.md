@@ -18,6 +18,6 @@ ht-degree: 0%
 * [!UICONTROL Send Marketo Email]
 * [!UICONTROL Add to Marketo Campaign]
 
-您也可以從[!DNL Best Bets]索引標籤中選取多個銷售機會，然後選擇&#x200B;_[!UICONTROL Send Marketo Email]_或_[!UICONTROL Add to Marketo Campaign]_。
+您也可以從[!DNL Best Bets]索引標籤中選取多個銷售機會，然後選擇&#x200B;_[!UICONTROL Send Marketo Email]_&#x200B;或_[!UICONTROL Add to Marketo Campaign]_。
 
 ![](assets/best-bets-1.png)

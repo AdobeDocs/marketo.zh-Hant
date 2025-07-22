@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->本文適用於目前擁有使用中Everest訂閱的使用者。 如果您使用Inbox Tracker by Bird （先前稱為MessageBird），您可以在此找到教學課程[](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}。
+>本文適用於目前擁有使用中Everest訂閱的使用者。 如果您使用Inbox Tracker by Bird （先前稱為MessageBird），您可以在此找到教學課程[&#128279;](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}。
 
 ## 匯入種子清單 {#import-a-seed-list}
 

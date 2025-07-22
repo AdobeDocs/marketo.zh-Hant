@@ -43,7 +43,7 @@ ht-degree: 2%
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. 輸入服務的&#x200B;**[!UICONTROL Display Name]**。 選取先前建立的&#x200B;**[!UICONTROL API Only User]** [](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)。
+1. 輸入服務的&#x200B;**[!UICONTROL Display Name]**。 選取先前建立的&#x200B;**[!UICONTROL API Only User]** [&#128279;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 

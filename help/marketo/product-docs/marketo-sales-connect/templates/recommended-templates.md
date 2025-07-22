@@ -17,7 +17,7 @@ ht-degree: 0%
 
 1. 前往您的[!UICONTROL Templates]標籤。
 
-1. 選取您要建議的範本，然後按一下[編輯]。****
+1. 選取您要建議的範本，然後按一下[編輯]。**&#x200B;**
 
 1. 若要在範本上啟用建議的範本功能，請核取&#x200B;**[!UICONTROL Auto-Suggest this template when]**。
 
