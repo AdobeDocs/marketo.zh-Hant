@@ -4,9 +4,9 @@ description: 瞭解自由格式與引導式登陸頁面 — Marketo檔案 — �
 title: 瞭解自由格式與引導式登陸頁面
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 ## 自由格式頁面 {#free-form-pages}
 
 * 您可以隨意拖放任何想要放置的內容。
-* 範本就像PowerPoint中的SlideMaster，只是背景。
+* 範本就像[!DNL SlideMaster]中的[!DNL PowerPoint]，只是背景。
 * 只要按一下按鈕，即可建立頁面的簡單行動版本。
 * 如果您沒有太多時間或技術資源可以支配，最好使用。
 

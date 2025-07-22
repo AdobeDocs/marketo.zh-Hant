@@ -4,9 +4,9 @@ description: 建立和變更清單與智慧清單的檢視 — Marketo檔案 —
 title: 建立和變更清單和智慧清單的檢視
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 建立檢視 {#create-a-view}
 
-1. 前往清單或智慧清單，按一下&#x200B;**[!UICONTROL 人員]**&#x200B;標籤，然後按一下&#x200B;**[!UICONTROL 檢視]**&#x200B;下拉式清單下的&#x200B;**[!UICONTROL 建立檢視]**。
+1. 移至清單或智慧清單，按一下&#x200B;**[!UICONTROL People]**&#x200B;標籤，然後按一下&#x200B;**[!UICONTROL Create View]**&#x200B;下拉式清單下的&#x200B;**[!UICONTROL View]**。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-1.png)
 
@@ -25,17 +25,17 @@ ht-degree: 0%
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-2.png)
 
-1. 新增/移除您想要的資料行，然後按一下[建立]。**&#x200B;**
+1. 新增/移除您想要的欄，然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-3.png)
 
 >[!TIP]
 >
->若要快速搜尋，請使用&#x200B;**尋找**&#x200B;方塊。
+>若要快速搜尋，請使用&#x200B;**[!UICONTROL Find]**&#x200B;方塊。
 
 ## 切換檢視 {#switch-views}
 
-1. 按一下&#x200B;**[!UICONTROL 檢視]**&#x200B;下拉式清單，然後選取您要的檢視。 視需要在檢視之間來回切換。
+1. 按一下&#x200B;**[!UICONTROL View]**&#x200B;下拉式清單，然後選取您要的檢視。 視需要在檢視之間來回切換。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-4.png)
 
@@ -45,25 +45,25 @@ ht-degree: 0%
 
 ## 編輯檢視 {#edit-a-view}
 
-1. 確定已在&#x200B;**[!UICONTROL 檢視]**&#x200B;下拉式清單中選取您要編輯的檢視。
+1. 確定已在&#x200B;**[!UICONTROL View]**&#x200B;下拉式清單中選取您要編輯的檢視。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-5.png)
 
-1. 按一下&#x200B;**[!UICONTROL 編輯]**&#x200B;選項。
+1. 按一下&#x200B;**[!UICONTROL Edit]**&#x200B;選項。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-6.png)
 
-1. 進行您想要的變更，然後按一下[儲存]。**&#x200B;**
+1. 進行您想要的變更，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-7.png)
 
 ## 刪除檢視 {#delete-a-view}
 
-1. 選取您要從&#x200B;**[!UICONTROL 檢視]**&#x200B;下拉式清單刪除之檢視的&#x200B;**[!UICONTROL 編輯]**&#x200B;選項。
+1. 從&#x200B;**[!UICONTROL Edit]**&#x200B;下拉式清單中選取要刪除之檢視的&#x200B;**[!UICONTROL View]**&#x200B;選項。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-8.png)
 
-1. 按一下&#x200B;**[!UICONTROL 刪除]**。
+1. 按一下「**[!UICONTROL Delete]**」。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-9.png)
 

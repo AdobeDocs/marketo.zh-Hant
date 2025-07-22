@@ -4,9 +4,9 @@ description: 鎖定銷售範本 — Marketo檔案 — 產品檔案
 title: 鎖定銷售範本
 exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '183'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!CAUTION]
 >
->此功能僅適用於Salesforce，與Microsoft Dynamics或其他CRM不相容。 不會鎖定從Outlook或Gmail外掛程式存取的範本，因為編輯器並非由Marketo控制。
+>此功能僅適用於[!DNL Salesforce]，與[!DNL Microsoft Dynamics]或其他CRM不相容。 不會鎖定從[!DNL Outlook]或Gmail外掛程式存取的範本，因為編輯器不受Marketo控制。
 
 ## 啟用鎖定範本 {#enable-lock-template}
 
@@ -25,15 +25,15 @@ ht-degree: 1%
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**管理員**，然後按一下&#x200B;**銷售分析**。
+1. 移至&#x200B;**[!UICONTROL Admin]**，然後按一下&#x200B;**[!UICONTROL Sales Insight]**。
 
    ![](assets/1.png)
 
-1. 在&#x200B;**設定**&#x200B;下，按一下&#x200B;**編輯**。
+1. 在&#x200B;**[!UICONTROL Settings]**&#x200B;底下，按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/2.png)
 
-1. 檢查&#x200B;**啟用鎖定範本的功能**。 按一下&#x200B;**保存**。
+1. 檢查&#x200B;**[!UICONTROL Enable ability to lock templates]**。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -47,15 +47,15 @@ ht-degree: 1%
 
 ## 在電子郵件編輯器中鎖定範本 {#lock-template-in-the-email-editor}
 
-1. 選取您要鎖定的電子郵件，然後按一下&#x200B;**編輯草稿**。
+1. 選取您要鎖定的電子郵件，然後按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/5.png)
 
-1. 在電子郵件編輯器中，按一下&#x200B;**電子郵件設定**。
+1. 在電子郵件編輯器中，按一下&#x200B;**[!UICONTROL Email Settings]**。
 
    ![](assets/6.png)
 
-1. 檢查&#x200B;**Publish到Marketo Sales Insight** （如果尚未檢查）。 您現在可以取消勾選&#x200B;**允許CRM使用者編輯電子郵件**&#x200B;以鎖定範本。 按一下&#x200B;**保存**。
+1. 檢查&#x200B;**[!UICONTROL Publish to Marketo Sales Insight]** （如果尚未檢查）。 您現在可以取消核取&#x200B;**[!UICONTROL Allow CRM user to edit email]**&#x200B;以鎖定範本。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/7.png)
 

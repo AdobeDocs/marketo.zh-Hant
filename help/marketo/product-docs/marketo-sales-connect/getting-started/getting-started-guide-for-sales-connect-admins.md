@@ -1,18 +1,18 @@
 ---
-description: Sales Connect管理員快速入門手冊 — Marketo檔案 — 產品檔案
-title: Sales Connect管理員快速入門手冊
+description: ' [!DNL Sales Connect] 管理員快速入門手冊 — Marketo檔案 — 產品檔案'
+title: ' [!DNL Sales Connect] 管理員快速入門手冊'
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 7005be3c62987e1f8beb7301fbb28293d96aad18
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
 
-# Sales Connect管理員快速入門手冊 {#getting-started-guide-for-sales-connect-admins}
+# [!DNL Sales Connect]管理員快速入門手冊 {#getting-started-guide-for-sales-connect-admins}
 
-本檔案將引導您完成設定新Sales Connect執行個體的初始步驟。 其中部分步驟需要以Marketo管理員、Salesforce管理員和Sales Connect管理員身分存取。 請遵循下列指南，以完成您的執行個體設定。
+本檔案將引導您完成設定新[!DNL Sales Connect]執行個體的初始步驟。 其中部分步驟需要以Marketo管理員、[!DNL Salesforce]管理員和[!DNL Sales Connect]管理員身分存取。 請遵循下列指南，以完成您的執行個體設定。
 
 >[!NOTE]
 >
@@ -30,9 +30,9 @@ ht-degree: 0%
 
 ![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
-## 正在連線到Salesforce {#connecting-to-salesforce}
+## 正在連線到[!DNL Salesforce] {#connecting-to-salesforce}
 
-所有使用者都需要個別連線至Salesforce，才能將銷售活動記錄到Salesforce，例如電子郵件、電話和工作。 不過，當您以管理員身分連線至Salesforce時，將有機會為整個團隊設定活動記錄設定，因此全域記錄設定將套用至所有Sales Connect使用者。
+所有使用者都需要個別連線至[!DNL Salesforce]，才能啟用記錄銷售活動至Salesforce，例如電子郵件、電話和工作。 不過，當您以管理員身分連線至Salesforce時，將有機會為整個團隊設定活動記錄設定，因此全域記錄設定將套用至所有[!DNL Sales Connect]使用者。
 
 若要以管理員或非管理員身分，將您的Sales Connect執行個體連線到您的Salesforce執行個體，請依照[本文章](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}中的步驟操作。
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 若要進一步瞭解如何連線至Marketo以及授與銷售使用者連線的存取權，[請按一下這裡](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"}。
 
-## 安裝Salesforce自訂套件 {#installing-salesforce-customization-package}
+## 正在安裝[!DNL Salesforce]自訂套件 {#installing-salesforce-customization-package}
 
 確保銷售成功的一部分就是要在主要工作環境中擁有適當的功能。 Sales Connect自訂套件可讓您從Salesforce存取參與功能和主要銷售活動屬性。
 

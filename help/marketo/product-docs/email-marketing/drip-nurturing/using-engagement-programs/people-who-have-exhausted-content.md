@@ -4,9 +4,9 @@ description: 已用盡內容的人 — Marketo檔案 — 產品檔案
 title: 已用完內容的人
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 參與計畫篩選器成員 {#member-of-engagement-program-filter}
 
-1. 建立新的智慧清單，然後在&#x200B;**參與計畫成員**&#x200B;篩選器中尋找並拖曳。
+1. 建立新的智慧清單，然後在&#x200B;**[!UICONTROL Member of Engagement Program]**&#x200B;篩選器中尋找並拖曳。
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. 在&#x200B;**新增限制**&#x200B;下，選取&#x200B;**已用完的內容**。
+1. 在&#x200B;**[!UICONTROL Add Constraint]**&#x200B;下，選取&#x200B;**[!UICONTROL Exhausted Content]**。
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. 將&#x200B;**已用完的內容**&#x200B;設定為&#x200B;**true**。
+1. 將&#x200B;**[!UICONTROL Exhausted Content]**&#x200B;設為&#x200B;**[!UICONTROL true]**。
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -37,15 +37,15 @@ ht-degree: 0%
 
 ## 「成員」標籤 {#members-tab}
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 
-1. 選取您的參與方案，然後前往&#x200B;**成員**&#x200B;標籤。
+1. 選取您的參與方案，然後前往&#x200B;**[!UICONTROL Members]**&#x200B;標籤。
 
    ![](assets/memberstab.jpg)
 
-1. 請注意名為&#x200B;**已用完的內容**&#x200B;的欄。
+1. 請注意名為&#x200B;**[!UICONTROL Exhausted Content]**&#x200B;的資料行。
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## 資料流 {#stream}
 
-1. 您也可以在資料流本身的「資料流」標籤下檢視已用完內容的總人數。
+1. 您也可以在資料流本身的[!UICONTROL Streams]標籤下檢視已用完內容的總人數。
 
    ![](assets/image2014-9-15-18-3a21-3a38.png)
 

@@ -4,9 +4,9 @@ description: 變更表單的地區設定 — Marketo檔案 — 產品檔案
 title: 變更表單的地區設定
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 處理國際表格時，您會想要以正確的格式顯示日期/時間。 Marketo會自動為您執行此操作，您只需設定表單的地區設定，其餘一切由我們處理。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-7.png)
 
-1. 選取您的表單並按一下&#x200B;**編輯表單**。
+1. 選取您的表單並按一下&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. 在&#x200B;**表單設定**&#x200B;下，按一下&#x200B;**設定**。
+1. 在&#x200B;**[!UICONTROL Form Settings]**&#x200B;底下，按一下&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. 選取您選擇的&#x200B;**地區設定**。
+1. 選取您選擇的&#x200B;**[!UICONTROL Form Locale]**。
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
-1. 按一下&#x200B;**完成**。
+1. 按一下「**[!UICONTROL Finish]**」。
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. 按一下&#x200B;**核准並關閉**&#x200B;以套用並儲存變更。
+1. 按一下&#x200B;**[!UICONTROL Approve and Close]**&#x200B;以套用並儲存變更。
 
    >[!NOTE]
    >

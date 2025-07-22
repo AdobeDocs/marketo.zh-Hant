@@ -3,18 +3,18 @@ description: 建議範本 — Marketo檔案 — 產品檔案
 title: 建議的範本
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
 
 # 建議的範本 {#recommended-templates}
 
-銷售分析動作的建議範本可幫助您取得正確的訊息，同時節省您的時間。 這樣可讓您在傳送電子郵件時獲得更大的流程，並在嘗試為合適的人尋找合適電子郵件時減少不確定性。
+[!DNL Sales Insight Action]的建議範本可幫助您取得正確的訊息，同時節省您的時間。 這樣可讓您在傳送電子郵件時獲得更大的流程，並在嘗試為合適的人尋找合適電子郵件時減少不確定性。
 
-1. 前往您的「範本」標籤。
+1. 前往您的&#x200B;**[!UICONTROL Templates]**&#x200B;標籤。
 
    ![](assets/recommended-templates-1.png)
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 
    ![](assets/recommended-templates-2.png)
 
-1. 在[建議的範本]卡片中，按一下[編輯]。**&#x200B;**
+1. 在[!UICONTROL Recommended Template]卡片中，按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/recommended-templates-3.png)
 
-1. 選取&#x200B;**建立建議的範本**&#x200B;核取方塊，然後按一下&#x200B;**儲存**。
+1. 選取&#x200B;**[!UICONTROL Make a Recommended Template]**&#x200B;核取方塊並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/recommended-templates-4.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 ## 全部與任何 {#all-vs-any}
 
-如果您想要在符合所有條件時推薦您的範本，請選取&#x200B;**全部**。 如果想要在符合任一條件時建議您的範本，請選取&#x200B;**任何**。
+如果您想要在符合所有條件時推薦您的範本，請選取&#x200B;**[!UICONTROL All]**。 如果想要在符合任一條件時建議您的範本，請選取&#x200B;**[!UICONTROL Any]**。
 
 ## 設定條件 {#setting-criteria}
 
@@ -46,13 +46,13 @@ ht-degree: 0%
 
 現在，請選取您的條件。 當您的動態欄位條件符合時，將建議使用範本。 從4個不同條件中選擇。
 
-**等於**：值必須為完全相符的值(例如Marketo等於Marketo)
+**[!UICONTROL Equals]**：值必須為完全相符的值(例如Marketo等於Marketo)
 
-**不等於**：值必須是完全相符的專案（例如，「行銷國家」不等於「行銷」）
+**[!UICONTROL Does not Equal]**：值必須為完全相符的專案（例如，「行銷國家」不等於「行銷」）
 
-**包含**：只需要包含值(例如Marketo Rocks！ 包含Marketo)
+**[!UICONTROL Contains]**：只需要包含值(例如Marketo Rocks！ 包含Marketo)
 
-**不包含**：值不得在動態欄位中(例如Marketo Rocks！ 不包含「棒極了」)
+**[!UICONTROL Does Not Contain]**：值不得位於動態欄位中(例如Marketo Rocks！ 不包含「棒極了」)
 
 ## 建議的範本是什麼樣子 {#what-a-recommended-template-looks-like}
 

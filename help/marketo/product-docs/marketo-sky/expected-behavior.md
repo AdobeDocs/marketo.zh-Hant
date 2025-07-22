@@ -4,25 +4,25 @@ title: 預期行為
 hide: true
 hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: fb77478cdcd2b455e9f2359e16aca50143ce492c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
 
 # 預期行為 {#expected-behavior}
 
-在本文中，您將找到與預測對象(PA)相關的預期行為資訊。
+在本文中，您將找到與[!UICONTROL Predictive Audiences] (PA)相關的預期行為資訊。
 
 ## 資料和隱私權考量事項
 
 * AI/ML模型的所有必要資料處理都在北美進行。
 * AI/ML模型不使用特定的潛在客戶資訊，例如名字或姓氏、性別、電子郵件、聯絡電話等。 模型只會利用衍生自電影和活動記錄的一般屬性。
 
-**針對預測對象，您可以預期下列行為**
+**對於[!UICONTROL Predictive Audiences]，您可以預期下列行為**
 
-* PA可在Marketo Sky和Marketo Classic體驗中存取。 特定功能的可用性如下：
+* PA可在[!DNL Marketo Sky]和[!DNL Marketo Classic]體驗中存取。 特定功能的可用性如下：
    * 預測性篩選器 — [!DNL Sky/Classic]
    * 專案註冊 — [!DNL Sky/Classic]
    * 潛在客戶層級可能性預測 — [!DNL Sky/Classic]

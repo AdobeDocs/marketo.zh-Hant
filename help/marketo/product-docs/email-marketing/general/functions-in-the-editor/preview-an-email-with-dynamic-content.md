@@ -4,9 +4,9 @@ description: 預覽包含動態內容的電子郵件 — Marketo檔案 — 產�
 title: 預覽包含動態內容的電子郵件
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 新增動態內容後預覽您的電子郵件以進行驗證。
 
-1. 選取您的電子郵件，然後按一下&#x200B;**預覽電子郵件**。
+1. 選取您的電子郵件並按一下&#x200B;**[!UICONTROL Preview Email]**。
 
    ![](assets/one-3.png)
 
-1. 按一下「檢視依據」下拉式清單，然後選取您要預覽的動態內容型別。
+1. 按一下&#x200B;**[!UICONTROL View By]**&#x200B;下拉式清單，然後選取您要預覽的動態內容型別。
 
    ![](assets/two-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 您也可以直接在電子郵件編輯器中預覽動態內容。
 
-1. 在&#x200B;**Content**&#x200B;下，按一下&#x200B;**動態**&#x200B;標籤。
+1. 在&#x200B;**[!UICONTROL Content]**&#x200B;下，按一下&#x200B;**[!UICONTROL Dynamic]**&#x200B;標籤。
 
    ![](assets/five-1.png)
 

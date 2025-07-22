@@ -4,9 +4,9 @@ description: 在行銷活動中使用任務 — Marketo檔案 — 產品檔案
 title: 在行銷活動中使用任務
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 傳送電子郵件的任務和呼叫聯絡人的任務是「行銷活動」中任務最常見的用法。
 
-如果這是工作流程的一部分，您也可以將「Task to Inmail」設為LinkedIn上的連絡人。 您也可以進行自訂工作，以提醒您邀請他們參加歡樂時光、詢問他們的慈善活動，或是在遊戲5之後登記入住等。
+如果是LinkedIn工作流程的一部分，您也可以將「Task to Inmail」設為連絡人。 您也可以進行自訂工作，以提醒您邀請他們參加歡樂時光、詢問他們的慈善活動，或是在遊戲5之後登記入住等。
 
 >[!NOTE]
 >
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 任務將一律與行銷活動中的每個人相關聯。 這表示您必須進入每個人並關閉工作，才能繼續其個別行銷活動。
 
-您可以在下列位置管理您的任務：在Campaigns 2.0中，直接從命令中心或從Live Feed的Tasks區段管理Campaign的任務標籤。 此外，您也可以從Salesforce管理您的工作。
+您可以在下列位置管理您的任務：在Campaigns 2.0中，直接從命令中心或從Live Feed的Tasks區段管理Campaign的任務標籤。 此外，您也可以從[!DNL Salesforce]管理您的工作。

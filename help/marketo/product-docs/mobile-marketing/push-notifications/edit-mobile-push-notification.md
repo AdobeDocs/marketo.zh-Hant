@@ -4,20 +4,20 @@ description: 編輯行動推播通知 — Marketo檔案 — 產品檔案
 title: 編輯行動推播通知
 exl-id: 3ed36e77-642c-42f9-8714-fc4f718eb073
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '33'
 ht-degree: 0%
 
 ---
 
 # 編輯行動推播通知 {#edit-mobile-push-notification}
 
-1. 前往&#x200B;**行銷活動**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
 
 ![](assets/image2015-4-22-18-3a44-3a42.png)
 
-1. 選取您的行動應用程式並按一下&#x200B;**編輯草稿**。
+1. 選取您的行動應用程式並按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/image2015-4-22-18-3a45-3a13.png)
 

@@ -3,21 +3,21 @@ description: 步驟4之1 — 安裝具有資源所有者密碼控制連線的Mar
 title: 步驟4之1 — 安裝具有資源擁有者密碼控制連線的Marketo解決方案
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 2eb61d43f2f470d42e1b50ab8edc99e4e25c23cf
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 1%
+source-wordcount: '282'
+ht-degree: 2%
 
 ---
 
 # 步驟4之1：安裝具有資源擁有者密碼控制連線的Marketo解決方案 {#step-1-of-4-install-the-marketo-solution-ropc}
 
-在同步Microsoft Dynamics 365和Marketo Engage之前，您必須先在Dynamics中安裝Marketo解決方案。 **需要Dynamics管理員許可權**。
+在同步處理[!DNL Microsoft Dynamics] 365與Marketo之前，您必須先在[!DNL Dynamics]中安裝Marketo解決方案。 需要&#x200B;**[!DNL Dynamics]管理員許可權。**
 
 >[!CAUTION]
 >
 >* 初始同步處理完成之前，請勿啟用自訂實體同步處理。 初始同步完成後，您將會收到電子郵件通知。
->* 如果您的Dynamics Sync已啟用多重驗證(MFA)，您必須將其停用，Dynamics才能正確地與Marketo同步。 如需其他資訊，請連絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}。
+>* 如果您為[!DNL Dynamics]同步處理啟用多重驗證(MFA)，您必須停用它才能讓[!DNL Dynamics]與Marketo正確同步。 如需其他資訊，請連絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 1%
 >
 >[下載Marketo銷售機會管理解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
-1. 登入&#x200B;**[Microsoft Office 365](https://login.microsoftonline.com/)**。
+1. 登入&#x200B;**[[!DNL Microsoft Office 365]](https://login.microsoftonline.com/)**。
 
    ![](assets/image2015-3-16-15-3a58-3a55.png)
 
@@ -35,31 +35,31 @@ ht-degree: 1%
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
-1. 按一下![](assets/image2015-5-13-10-3a5-3a8.png)功能表。 在下拉式功能表中選取&#x200B;**[!UICONTROL 設定]**，然後選取&#x200B;**[!UICONTROL 解決方案]**。
+1. 按一下![](assets/image2015-5-13-10-3a5-3a8.png)功能表。 在下拉式功能表中選取&#x200B;**[!UICONTROL Settings]**，然後選取&#x200B;**[!UICONTROL Solutions]**。
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 匯入]**。
+1. 按一下「**[!UICONTROL Import]**」。
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. 按一下&#x200B;**[!UICONTROL 選擇檔案]**。 選取您[下載的Marketo銷售機會管理解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}。 按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 按一下&#x200B;**[!UICONTROL Choose File]**。 選取您[下載的Marketo銷售機會管理解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
-1. 檢視方案資訊，然後按一下&#x200B;**[!UICONTROL 檢視方案封裝詳細資料]**。
+1. 檢視方案資訊並按一下&#x200B;**[!UICONTROL View solution package details]**。
 
    ![](assets/image2015-10-9-15-3a4-3a16.png)
 
-1. 檢查完所有詳細資料後，按一下[關閉]。**&#x200B;**
+1. 檢查完所有詳細資料後，按一下&#x200B;**[!UICONTROL Close]**。
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. 現在，返回[方案資訊]頁面，按一下[下一步]。**&#x200B;**
+1. 現在，返回[方案資訊]頁面，按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
-1. 確認已選取SDK選項核取方塊。 按一下&#x200B;**[!UICONTROL 匯入]**。
+1. 確認已選取SDK選項核取方塊。 按一下「**[!UICONTROL Import]**」。
 
    ![](assets/image2015-10-9-15-3a7-3a12.png)
 
@@ -71,7 +71,7 @@ ht-degree: 1%
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
-1. 按一下 **[!UICONTROL 關閉]**。
+1. 按一下「**[!UICONTROL Close]**」。
 
    >[!NOTE]
    >
@@ -83,7 +83,7 @@ ht-degree: 1%
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. 選取&#x200B;**[!UICONTROL Marketo銷售機會管理]**，然後按一下&#x200B;**[!UICONTROL Publish所有自訂]**。
+1. 選取&#x200B;**[!UICONTROL Marketo Lead Management]**&#x200B;並按一下&#x200B;**[!UICONTROL Publish All Customizations]**。
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 

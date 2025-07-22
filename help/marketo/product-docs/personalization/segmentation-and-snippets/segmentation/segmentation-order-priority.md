@@ -4,9 +4,9 @@ description: 區段訂單優先順序 — Marketo檔案 — 產品檔案
 title: 分段順序優先順序
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 feature: Segmentation
-source-git-commit: 0dd2aa60bd1cac141d57188d0e618702143e2671
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >[建立分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->[定義區段規則](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>>[定義區段規則](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/segmentation-order-priority-1.png)
 
-1. 選取您的&#x200B;**分段**。 在&#x200B;**分段動作**&#x200B;中，按一下&#x200B;**編輯區段**。
+1. 選取您的&#x200B;**分段**。 在&#x200B;**[!UICONTROL Segmentation Actions]**&#x200B;中，按一下&#x200B;**[!UICONTROL Edit Segments]**。
 
    ![](assets/segmentation-order-priority-2.png)
 

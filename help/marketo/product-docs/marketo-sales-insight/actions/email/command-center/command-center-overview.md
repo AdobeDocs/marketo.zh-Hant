@@ -3,20 +3,20 @@ description: 命令中心總覽 — Marketo檔案 — 產品檔案
 title: 命令中心概述
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 1%
+source-wordcount: '472'
+ht-degree: 0%
 
 ---
 
 # 命令中心概述 {#command-center-overview}
 
-Command Center是單一、統一的檢視，可協助您找出下一個步驟，同時確保不會有任何東西漏掉。
+[!UICONTROL Command Center]是單一、統一的檢視，可協助您找出下一個步驟，同時確保不會有任何東西漏掉。
 
 ## 管理電子郵件 {#manage-emails}
 
-指揮中心的電子郵件區段是您管理所有電子郵件活動的位置。 您可以將其視為您的電子郵件寄件匣，以檢閱從Sales Connect傳送的電子郵件。 管理您的排程電子郵件、檢視誰一直在處理您的電子郵件、檢視您的電子郵件是否傳送有任何問題等。
+[!UICONTROL Command Center]的電子郵件區段可讓您管理所有電子郵件活動。 將其視為您的電子郵件寄件匣，以檢閱從[!DNL Sales Connect]傳送的電子郵件。 管理您的排程電子郵件、檢視誰一直在處理您的電子郵件、檢視您的電子郵件是否傳送有任何問題等。
 
 ![](assets/command-center-overview-1.png)
 
@@ -29,41 +29,41 @@ Command Center是單一、統一的檢視，可協助您找出下一個步驟，
   <th>說明</th>
  </tr>
  <tr>
-  <th rowspan="2">已傳送</th>
-  <td>已傳遞</td>
+  <th rowspan="2">[!UICONTROL Sent]</th>
+  <td>[!UICONTROL Delivered]</td>
   <td>已傳遞給收件者的電子郵件。</td>
  </tr>
  <tr>
-  <td>已封存</td>
+  <td>[!UICONTROL Archived]</td>
   <td>使用者為了停用電子郵件追蹤而封存的電子郵件。</td>
  </tr>
  <tr>
-  <th rowspan="3">待處理</th>
-  <td>已排程</td>
+  <th rowspan="3">[!UICONTROL Pending]</th>
+  <td>[!UICONTROL Scheduled]</td>
   <td>目前排程要發出的電子郵件。 電子郵件一經傳送，就會移至傳送的資料夾。</td>
  </tr>
  <tr>
-  <td>草稿</td>
+  <td>[!UICONTROL Draft]</td>
   <td>已儲存為草稿的電子郵件。<br/>
   <strong>附註</strong>：只有單一電子郵件可以儲存為草稿。 大量電子郵件（選取和傳送電子郵件及群組電子郵件）將不會儲存為草稿。</td>
  </tr>
  <tr>
-  <td>進行中</td>
+  <td>[!UICONTROL In] 進度</td>
   <td>這是電子郵件處於傳送動作時進入的中間狀態。 電子郵件應該只有幾分鐘在進行中。</td>
  </tr>
  <tr>
-  <th rowspan="3">未傳遞</th>
-  <td>失敗</td>
+  <th rowspan="3">[!UICONTROL Undelivered]</th>
+  <td>[!UICONTROL Failed]</td>
   <td>傳送失敗的電子郵件。
 </td>
  </tr>
  <tr>
-  <td>已退回</td>
+  <td>[!UICONTROL Bounced]</td>
   <td>收件者電子郵件伺服器拒絕的電子郵件。<br/>
   <strong>注意</strong>：只有當您是舊版ToutApp使用者，並且有權存取MSC伺服器作為傳遞通道時，才會偵測到這個問題。</td>
  </tr>
  <tr>
-  <td>垃圾訊息</td>
+  <td>[!UICONTROL Spam]</td>
   <td>收件者手動標籤為垃圾郵件的電子郵件。<br/>
   <strong>注意</strong>：只有當您是舊版ToutApp使用者，並且有權存取MSC伺服器作為傳遞通道時，才會偵測到這個問題。</td>
  </tr>

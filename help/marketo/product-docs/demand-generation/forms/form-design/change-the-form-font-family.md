@@ -4,9 +4,9 @@ description: 變更表單字型系列 — Marketo檔案 — 產品檔案
 title: 變更表單字型系列
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '128'
 ht-degree: 1%
 
 ---
@@ -19,19 +19,19 @@ Google字型非常棒，我們直接在表單編輯器中建立它們。 立即�
 >
 >此設定會影響表單標籤、輸入文字和任何RTF文字。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取您的表單並按一下&#x200B;**編輯表單**。
+1. 選取您的表單並按一下&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. 在&#x200B;**表單設定**&#x200B;下，選取&#x200B;**設定**。
+1. 在&#x200B;**[!UICONTROL Form Settings]**&#x200B;下，選取&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. 選取您想要的&#x200B;**字型系列**。
+1. 選取您想要的&#x200B;**[!UICONTROL Font Family]**。
 
    >[!TIP]
    >
@@ -39,11 +39,11 @@ Google字型非常棒，我們直接在表單編輯器中建立它們。 立即�
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. 按一下&#x200B;**完成**。
+1. 按一下「**[!UICONTROL Finish]**」。
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. 按一下&#x200B;**核准並關閉**。
+1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    >[!NOTE]
    >

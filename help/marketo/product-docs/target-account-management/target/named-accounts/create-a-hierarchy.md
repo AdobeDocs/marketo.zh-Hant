@@ -4,9 +4,9 @@ description: 建立階層 — Marketo檔案 — 產品檔案
 title: 建立階層
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 階層是指在CRM中建立。 不過，如果您沒有CRM，請依照下列步驟手動建立階層。
 
-1. 在具名帳戶中，按一下&#x200B;**依階層群組**&#x200B;核取方塊。
+1. 在[!UICONTROL Named Accounts]中，按一下&#x200B;**[!UICONTROL Group by Hierarchy]**&#x200B;核取方塊。
 
    ![](assets/create-a-hierarchy-1.png)
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. 按一下&#x200B;**具名帳戶動作**&#x200B;下拉式清單，然後選取&#x200B;**連結至具名帳戶**。
+1. 按一下&#x200B;**[!UICONTROL Named Account Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Link to Named Account]**。
 
    ![](assets/create-a-hierarchy-3.png)
 
    >[!NOTE]
    >
-   >若要取消帳戶連結，請遵循上述步驟，但請選擇[從具名帳戶取消連結]&#x200B;**&#x200B;**。
+   >若要取消帳戶連結，請依照上述步驟進行，然後選擇&#x200B;**[!UICONTROL Unlink From Named Account]**。
 
-1. 從下拉式清單中選取父系具名帳戶，然後按一下&#x200B;**連結**。
+1. 從下拉式清單中選取父級具名帳戶，然後按一下&#x200B;**[!UICONTROL Link]**。
 
    ![](assets/create-a-hierarchy-4.png)
 

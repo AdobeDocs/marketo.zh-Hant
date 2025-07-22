@@ -4,14 +4,14 @@ description: 刪除收入總管報表中的欄位 — Marketo檔案 — 產品�
 title: 刪除收入總管報表中的欄位
 exl-id: 4eeedd8e-da00-4bcf-9f7a-25b3683ad0a1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# 刪除收入總管報表中的欄位 {#deleting-a-field-in-a-revenue-explorer-report}
+# 刪除[!UICONTROL Revenue Explorer]報告中的欄位 {#deleting-a-field-in-a-revenue-explorer-report}
 
 有時候，您可能會將錯誤的欄位拖曳到報表中。 以下是其移除方式：
 
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[儲存收入總管報告](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[儲存[!UICONTROL Revenue Explorer]報告](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

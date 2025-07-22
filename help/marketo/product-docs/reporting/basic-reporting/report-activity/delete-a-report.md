@@ -4,9 +4,9 @@ description: 刪除報表 — Marketo檔案 — 產品檔案
 title: 刪除報告
 exl-id: 6b98a2e4-13a4-4a85-8ccd-0f74e6dfcaa9
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 一旦您開始[建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)，您很快就會收到許多報告。 請記得刪除您不再需要的報表。
 
-1. 在樹狀結構中用滑鼠右鍵按一下不需要的報告，然後選取&#x200B;**刪除報告**。
+1. 以滑鼠右鍵按一下樹狀結構中不需要的報告，然後選取&#x200B;**[!UICONTROL Delete Report]**。
 
    ![](assets/image2014-9-16-14-3a26-3a48.png)
 

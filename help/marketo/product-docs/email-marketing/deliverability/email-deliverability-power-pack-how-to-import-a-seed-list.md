@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099077
-description: 瞭解如何將種子清單匯入Marketo Engage例項。
+description: 瞭解如何將種子清單匯入Marketo Engage執行個體。
 title: 電子郵件傳遞能力套件 — 如何匯入種子清單
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
@@ -17,29 +17,29 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->本文適用於目前擁有使用中Everest訂閱的使用者。 如果您使用Inbox Tracker by Bird （先前稱為MessageBird），您可以在此找到教學課程[&#128279;](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}。
+>本文適用於目前擁有使用中Everest訂閱的使用者。 如果您使用Inbox Tracker by Bird （先前稱為MessageBird），您可以在此找到教學課程[](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}。
 
 ## 匯入種子清單 {#import-a-seed-list}
 
-1. 在「我的Marketo」中，選取&#x200B;**傳遞工具**。
+1. 在「我的Marketo」中，選取&#x200B;**[!UICONTROL Deliverability Tools]**。
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Everest應用程式將會開啟。 在左側導覽中，按一下&#x200B;**In-Flight**，然後選取&#x200B;**收件匣位置**。
+1. 將會開啟[!DNL Everest]應用程式。 在左側導覽中，按一下&#x200B;**[!UICONTROL In-Flight]**&#x200B;並選取&#x200B;**[!UICONTROL Inbox Placement]**。
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. 按一下&#x200B;**管理種子清單**&#x200B;標籤。
+1. 按一下「**[!UICONTROL Manage Seed List]**」標籤。
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. 按一下「動作」下拉式清單，然後選取&#x200B;**每行下載一個**。
+1. 按一下&#x200B;**[!UICONTROL Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Download: One Per Line]**。
 
    ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >如果您希望Everest為您最佳化清單，請使用「種子清單最佳化程式」（位於頁面頂端）。
+   >如果您希望[!DNL Everest]為您最佳化您的清單，請使用種子清單最佳化程式（在頁面頂端）。
 
 1. 匯出後，清單會在瀏覽器的下載資料夾中顯示為.txt檔案。 擷取它，然後[將它匯入](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)您的Marketo執行個體作為靜態清單。
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >您每月獲得的這些收件匣放置行銷活動數量有限。 若要瞭解您的訂閱金額，請參閱珠穆朗瑪峰中「帳戶設定>訂閱」下的「訂閱」區段。 若要取得更多資訊，請聯絡您的Marketo銷售代表。
+   >您每月獲得的這些收件匣放置行銷活動數量有限。 若要檢視您獲得的數量，請檢視[!UICONTROL Subscription]中[!UICONTROL Account Settings] > [!UICONTROL Subscription]下的[!DNL Everest]區段。 若要取得更多資訊，請聯絡您的Marketo銷售代表。
 
 ## 取得新的種子清單 {#acquiring-new-seedlists}
 

@@ -4,10 +4,10 @@ description: 建立Marketo自訂物件 — Marketo檔案 — 產品檔案
 title: 建立Marketo自訂物件
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 0%
+source-wordcount: '616'
+ht-degree: 1%
 
 ---
 
@@ -27,35 +27,35 @@ ht-degree: 0%
 
 此範例顯示Car自訂物件，用於一對多結構。 稍後您將建立課程自訂物件與中介物件，以用於多對多結構。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/create-marketo-custom-objects-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL Marketo自訂物件]**。
+1. 按一下「**[!UICONTROL Marketo Custom Objects]**」。
 
    ![](assets/create-marketo-custom-objects-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL 新增自訂物件]**。
+1. 按一下「**[!UICONTROL New Custom Object]**」。
 
    ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
-   >[!UICONTROL Marketo自訂物件]標籤會在右側顯示所有自訂物件，以及任何已核准物件的詳細資料，包括最近更新的記錄數目和欄位。
+   >[!UICONTROL Marketo Custom Objects]索引標籤會在右側顯示所有自訂物件，以及任何已核准物件的詳細資料，包括最近更新的記錄數目和欄位。
 
-1. 輸入[!UICONTROL 顯示名稱]。 [!UICONTROL API名稱]和[!UICONTROL Plural名稱]會自動填入。 輸入[!UICONTROL 描述] （選擇性）。
+1. 輸入[!UICONTROL Display Name]。 [!UICONTROL API Name]和[!UICONTROL Plural Name]會自動填入。 輸入[!UICONTROL Description] （選擇性）。
 
    ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
-   >您可在建立這些欄位時加以編輯，但在儲存後，您只能編輯[!UICONTROL Plural Name]欄位和&#x200B;**[!UICONTROL 在潛在客戶詳細資料中顯示]**&#x200B;滑桿。
+   >您可在建立這些欄位時加以編輯，但在儲存後，您只能編輯[!UICONTROL Plural Name]欄位和&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑桿。
 
-1. 如果您想要檢視資料庫頁面上的自訂物件資料，請將&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑桿移到上方以顯示&#x200B;**[!UICONTROL Show]**。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 如果您想要檢視[資料庫]頁面上的自訂物件資料，請將&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑桿移到上面以顯示&#x200B;**[!UICONTROL Show]**。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/create-marketo-custom-objects-5.png)
 
-1. 自訂物件資訊會顯示您輸入的內容。 請注意，它處於「草稿」狀態。
+1. 自訂物件資訊會顯示您輸入的內容。 請注意，它處於&#x200B;**[!UICONTROL Draft]**&#x200B;狀態。
 
    ![](assets/create-marketo-custom-objects-6.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您只能透過清單匯入或[API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api)填入Marketo自訂物件。
+   >您只能透過清單匯入或[API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)填入Marketo自訂物件。
 
 ## 為多對多結構建立自訂物件 {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -73,37 +73,37 @@ ht-degree: 0%
 >
 >對於多對多關係，您不需要在自訂物件中建立連結。 而是將兩個連結新增至中介物件（請參閱下文）。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/create-marketo-custom-objects-7.png)
 
-1. 按一下&#x200B;**[!UICONTROL Marketo自訂物件]**。
+1. 按一下「**[!UICONTROL Marketo Custom Objects]**」。
 
    ![](assets/create-marketo-custom-objects-8.png)
 
-1. 按一下&#x200B;**[!UICONTROL 新增自訂物件]**。
+1. 按一下「**[!UICONTROL New Custom Object]**」。
 
    ![](assets/create-marketo-custom-objects-9.png)
 
-1. 輸入[!UICONTROL 顯示名稱]。 [!UICONTROL API名稱]和[!UICONTROL Plural名稱]會自動填入。 輸入[!UICONTROL 描述] （選擇性）。
+1. 輸入[!UICONTROL Display Name]。 [!UICONTROL API Name]和[!UICONTROL Plural Name]會自動填入。 輸入[!UICONTROL Description] （選擇性）。
 
    ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
-   >您可在建立這些欄位時加以編輯，但在儲存後，您只能編輯[!UICONTROL Plural Name]欄位和&#x200B;**[!UICONTROL 在潛在客戶詳細資料中顯示]**&#x200B;滑桿。
+   >您可在建立這些欄位時加以編輯，但在儲存後，您只能編輯[!UICONTROL Plural Name]欄位和&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑桿。
 
-1. 如果您想要檢視資料庫頁面上的自訂物件資料，請將&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑桿移到上方以顯示&#x200B;**[!UICONTROL Show]**。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 如果您想要檢視[資料庫]頁面上的自訂物件資料，請將&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑桿移到上面以顯示&#x200B;**[!UICONTROL Show]**。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/create-marketo-custom-objects-11.png)
 
-1. 自訂物件資訊會顯示您輸入的內容。 請注意，它處於「草稿」狀態。
+1. 自訂物件資訊會顯示您輸入的內容。 請注意，它處於&#x200B;**[!UICONTROL Draft]**&#x200B;狀態。
 
    ![](assets/create-marketo-custom-objects-12.png)
 
    >[!NOTE]
    >
-   >您只能透過清單匯入或[API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api)填入Marketo自訂物件。
+   >您只能透過清單匯入或[API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)填入Marketo自訂物件。
 
 下一步是建立您的中介物件（請參閱下文）。 但在那之前，您需要建立一個欄位與之連結。
 
@@ -115,31 +115,31 @@ ht-degree: 0%
 >
 >您不需要針對一對多自訂物件結構建立中介物件。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/create-marketo-custom-objects-13.png)
 
-1. 按一下&#x200B;**[!UICONTROL Marketo自訂物件]**。
+1. 按一下「**[!UICONTROL Marketo Custom Objects]**」。
 
    ![](assets/create-marketo-custom-objects-14.png)
 
-1. 按一下&#x200B;**[!UICONTROL 新增自訂物件]**。
+1. 按一下「**[!UICONTROL New Custom Object]**」。
 
    ![](assets/create-marketo-custom-objects-15.png)
 
-1. 輸入[!UICONTROL 顯示名稱]。 [!UICONTROL API名稱]和[!UICONTROL Plural名稱]會自動填入。 輸入[!UICONTROL 描述] （選擇性）。
+1. 輸入[!UICONTROL Display Name]。 [!UICONTROL API Name]和[!UICONTROL Plural Name]會自動填入。 輸入[!UICONTROL Description] （選擇性）。
 
    ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
-   >您可在建立這些欄位時加以編輯，但在儲存後，您只能編輯[!UICONTROL Plural Name]欄位和[!UICONTROL 在潛在客戶詳細資料中顯示]滑桿。
+   >您可在建立這些欄位時加以編輯，但在儲存後，您只能編輯[!UICONTROL Plural Name]欄位和[!UICONTROL Show in Lead Detail]滑桿。
 
-1. 如果您想要檢視資料庫頁面上的自訂物件資料，請將&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑桿移到上方以顯示&#x200B;**Show**。 按一下&#x200B;**保存**。
+1. 如果您想要檢視[資料庫]頁面上的自訂物件資料，請將&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑桿移到上方以顯示&#x200B;**顯示**。 按一下&#x200B;**儲存**。
 
    ![](assets/create-marketo-custom-objects-17.png)
 
-1. 自訂物件資訊會顯示您輸入的內容。 請注意，它處於「草稿」狀態。
+1. 自訂物件資訊會顯示您輸入的內容。 請注意，它處於&#x200B;**[!UICONTROL Draft]**&#x200B;狀態。
 
    下一步是讓您[新增連結欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)，以將您的中介物件連線到人員/公司和自訂物件。
 

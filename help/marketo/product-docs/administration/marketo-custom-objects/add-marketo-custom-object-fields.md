@@ -4,9 +4,9 @@ description: 新增Marketo自訂物件欄位 — Marketo檔案 — 產品檔案
 title: 新增Marketo自訂物件欄位
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 欄位會定義自訂物件所使用的特定資訊。 連結欄位有特殊工作可連線自訂物件，而且包含在[個別文章](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)中。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL Marketo自訂物件]**。
+1. 按一下「**[!UICONTROL Marketo Custom Objects]**」。
 
    ![](assets/add-marketo-custom-object-fields-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/add-marketo-custom-object-fields-3.png)
 
-1. 按一下&#x200B;**[!UICONTROL 欄位]**&#x200B;標籤，然後按&#x200B;**[!UICONTROL 新增欄位]**。
+1. 按一下「**[!UICONTROL Fields]**」標籤，然後按&#x200B;**[!UICONTROL New Field]**。
 
    ![](assets/add-marketo-custom-object-fields-4.png)
 
@@ -37,19 +37,19 @@ ht-degree: 0%
    >
    >當您建立自訂物件時，Marketo會自動建立以上顯示的三個欄位。 Marketo會自動管理這些欄位，您無法編輯或刪除它們。
 
-1. 輸入[!UICONTROL 顯示名稱]和（選擇性） [!UICONTROL 描述]。
+1. 輸入[!UICONTROL Display Name]和（選擇性） [!UICONTROL Description]。
 
    ![](assets/add-marketo-custom-object-fields-5.png)
 
    >[!NOTE]
    >
-   >API名稱只能編輯，直到獲得核准為止。
+   >[!UICONTROL API Name]只有在獲得核准後才能編輯。
 
-1. 現在，從清單中選擇適當的[!UICONTROL 資料型別]。
+1. 現在，從清單中選擇適當的[!UICONTROL Data Type]。
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 
-1. 如果要使用新欄位做為唯一識別碼，請將[!UICONTROL 重複資料刪除]滑桿移過來。 按一下&#x200B;**[!UICONTROL 儲存]**&#x200B;即可完成。
+1. 如果要使用新欄位做為唯一識別碼，請將[!UICONTROL Dedupe]滑桿移過來。 按一下&#x200B;**[!UICONTROL Save]**&#x200B;完成。
 
    ![](assets/add-marketo-custom-object-fields-7.png)
 

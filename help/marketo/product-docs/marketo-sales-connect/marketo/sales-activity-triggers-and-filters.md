@@ -3,9 +3,9 @@ description: 銷售活動觸發器和篩選器 — Marketo檔案 — 產品檔�
 title: 銷售活動觸發程式與篩選器
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. 在&#x200B;**智慧清單**&#x200B;索引標籤中，搜尋「銷售應用程式」。
+1. 在&#x200B;**[!UICONTROL Smart List]**&#x200B;索引標籤中，搜尋&quot;[!UICONTROL Sales Apps]&quot;。
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 

@@ -4,32 +4,32 @@ description: 設定效能深入分析 — Marketo檔案 — 產品檔案
 title: 設定效能分析
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 0%
+source-wordcount: '277'
+ht-degree: 2%
 
 ---
 
-# 設定效能分析 {#setting-up-performance-insights}
+# 正在設定[!UICONTROL Performance Insights] {#setting-up-performance-insights}
 
 請依照下列步驟設定MPI。
 
 ## 機會設定 {#opportunity-setup}
 
-1. 按一下&#x200B;**管理員**。
+1. 按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/admin.png)
 
-1. 按一下&#x200B;**收入週期分析**。
+1. 按一下「**[!UICONTROL Revenue Cycle Analytics]**」。
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >如果您沒有RCA，則必須為步驟2選取&#x200B;**程式分析**。
+   >如果您沒有RCA，則必須為步驟2選取&#x200B;**[!UICONTROL Program Analysis]**。
 
-1. 在歸因底下，按一下&#x200B;**編輯**。
+1. 在歸因底下，按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/three-1.png)
 
@@ -45,18 +45,18 @@ ht-degree: 0%
    >
    >請確認所有商機皆已填入適當的欄位：
    >
-   >* 機會金額
-   >* 已關閉
-   >* 獲勝
-   >* 建立日期（您的案例中可能未設定此日期）
-   >* 關閉日期（您的案例中可能未設定此日期）
-   >* 機會型別
+   >* [!UICONTROL Opportunity Amount]
+   >* [!UICONTROL Is Closed]
+   >* [!UICONTROL Is Won]
+   >* [!UICONTROL Creation Date] （您的案例中可能未設定此專案）
+   >* [!UICONTROL Closed Date] （您的案例中可能未設定此專案）
+   >* [!UICONTROL Opportunity Type]
 
 ## 計畫設定 {#program-setup}
 
 更新計畫成本至少12個月。 您可以手動或使用程式API執行此操作。 在此範例中，我們會手動進行。
 
-1. 按一下&#x200B;**行銷活動**。
+1. 按一下「**[!UICONTROL Marketing Activities]**」。
 
    ![](assets/ma.png)
 
@@ -64,29 +64,29 @@ ht-degree: 0%
 
    ![](assets/select-program.png)
 
-1. 按一下「**設定**」標籤。
+1. 按一下「**[!UICONTROL Setup]**」標籤。
 
    ![](assets/setup-tab.png)
 
-1. 將&#x200B;**期間成本**&#x200B;拖曳到畫布上。
+1. 將&#x200B;**[!UICONTROL Period Cost]**&#x200B;拖曳到畫布上。
 
    ![](assets/period-cost.png)
 
-1. 設定至少12個月前的計畫月份，然後按一下&#x200B;**確定**。
+1. 設定至少12個月前的計畫月份，然後按一下&#x200B;**[!UICONTROL Ok]**。
 
    ![](assets/set-period.png)
 
-1. 設定期間成本並按一下&#x200B;**儲存**。
+1. 設定期間成本並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/set-cost.png)
 
 接下來，檢閱分析行為，指出分析中是否應包含特定管道。 設定Analytics行為（正常、包含、運作）。
 
-1. 按一下&#x200B;**管理員**。
+1. 按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/admin.png)
 
-1. 按一下&#x200B;**標籤**。
+1. 按一下「**[!UICONTROL Tags]**」。
 
    ![](assets/tags.png)
 
@@ -98,7 +98,7 @@ ht-degree: 0%
 
    ![](assets/channel-click.png)
 
-1. 按一下&#x200B;**Analytics行為**&#x200B;下拉式清單，然後選取想要的行為。
+1. 按一下&#x200B;**[!UICONTROL Analytics Behavior]**&#x200B;下拉式清單，然後選取想要的行為。
 
    ![](assets/edit-channel.png)
 
@@ -106,7 +106,7 @@ ht-degree: 0%
 
    ![](assets/success.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/save.png)
 

@@ -4,9 +4,9 @@ description: 建立僅限文字的電子郵件 — Marketo檔案 — 產品檔�
 title: 建立僅限文字的電子郵件
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -19,27 +19,27 @@ ht-degree: 0%
 >
 >由於開啟是由下載電子郵件影像（包括隱藏的追蹤畫素）的收件者追蹤，因此開啟&#x200B;**無法**&#x200B;追蹤「僅限文字」電子郵件。
 
-1. 前往&#x200B;**行銷活動**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
 
    ![](assets/one-1.png)
 
-1. 選取您的程式，按一下&#x200B;**新增**&#x200B;下拉式清單，然後選取&#x200B;**新增本機資產**。
+1. 選取您的程式，按一下&#x200B;**[!UICONTROL New]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL New Local Asset]**。
 
    ![](assets/two-1.png)
 
-1. 選取&#x200B;**電子郵件**。
+1. 選擇「**[!UICONTROL Email]**」。
 
    ![](assets/three-1.png)
 
-1. 輸入&#x200B;**名稱**，選取範本並按一下&#x200B;**建立**。
+1. 輸入&#x200B;**[!UICONTROL Name]**、選取範本並按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/four-1.png)
 
-1. 在電子郵件編輯器中，按一下&#x200B;**電子郵件設定**。
+1. 在電子郵件編輯器中，按一下&#x200B;**[!UICONTROL Email Settings]**。
 
    ![](assets/five.png)
 
-1. 核取&#x200B;**僅文字**&#x200B;並按一下&#x200B;**儲存**。
+1. 檢查&#x200B;**[!UICONTROL Text Only]**&#x200B;並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/six.png)
 
@@ -51,19 +51,19 @@ ht-degree: 0%
    >
    >您也可以編輯現有電子郵件並變更此設定。 別忘了核准草稿。
 
-1. 取消勾選&#x200B;**自動從HTML**&#x200B;複製核取方塊。
+1. 取消勾選&#x200B;**[!UICONTROL Automatically copy from HTML]**&#x200B;核取方塊。
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >在電子郵件傳送時，新增至HTML區段的任何內容都將被忽略。
+   >在電子郵件傳送時，新增至HTML區段的任何內容都會被忽略。
 
 1. 連按兩下文字區域。
 
    ![](assets/eight.png)
 
-1. 編輯您的文字並按一下&#x200B;**儲存**。
+1. 編輯您的文字並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/nine.png)
 

@@ -4,28 +4,28 @@ description: 建立新的Widget網頁促銷活動 — Marketo檔案 — 產品�
 title: 建立新的Widget Web行銷活動
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
 
 # 建立新的Widget Web行銷活動 {#create-a-new-widget-web-campaign}
 
-網路行銷活動是與特定區段關聯的自訂反應，可以是您網站上的[對話方塊](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、區域取代[&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的、Widget功能或電子郵件警示。 Widget網路促銷活動是出現在網頁垂直側的文字或橫幅，能夠展開和收縮，同時在整個造訪期間都固定在網站頁面上。
+網路行銷活動是與特定區段關聯的自訂反應，可以是您網站上的[對話方塊](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、區域取代[中的](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、Widget功能或電子郵件警示。 Widget網路促銷活動是出現在網頁垂直側的文字或橫幅，能夠展開和收縮，同時在整個造訪期間都固定在網站頁面上。
 
 ## 建立Widget Web行銷活動 {#create-a-widget-web-campaign}
 
-1. 前往&#x200B;**網路行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. 選取&#x200B;**建立新的網站行銷活動**。
+1. 選擇「**[!UICONTROL Create New Web Campaign]**」。
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. 選取&#x200B;**Widget**&#x200B;行銷活動型別。
+1. 選取&#x200B;**[!UICONTROL Widget]**&#x200B;行銷活動型別。
 
    ![](assets/3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-1. 按一下&#x200B;**預覽**，檢視網站行銷活動在您網站上的反應。
+1. 按一下&#x200B;**[!UICONTROL Preview]**&#x200B;以檢視網站行銷活動在您網站上的反應。
 
    ![](assets/preview.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Widget按鈕</strong><br></p></td> 
-   <td colspan="1" rowspan="1">自訂介面工具按鈕本身。<br>箭號：可讓您從右方下拉式功能表中的多個不同圖示中選擇。 左側下拉式清單決定其顏色。<br>自訂：插入任何託管影像的URL。 接受的檔案型別 — .JPEG、.GIF（包括動畫）、.PNG、.APNG、.SVG、.BMP。<br>文字： Widget可以是文字 — 自訂其顏色、大小和字型。</td> 
+   <td colspan="1" rowspan="1">自訂介面工具按鈕本身。<br>箭號：可讓您從右方下拉式功能表中的多個不同圖示中選擇。 左側下拉式清單決定其顏色。<br>自訂：插入任何託管影像的URL。 接受的檔案型別 — .JPEG、.GIF （包括動畫）、.PNG、.APNG、.SVG、.BMP。<br>文字： Widget可以是文字 — 自訂其顏色、大小和字型。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>粘性</strong></td> 
@@ -95,11 +95,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**要A/B測試您的網站行銷活動嗎？**&#x200B;一或多個網頁行銷活動可以[A/B測試以取得最佳結果](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)。 透過自動調整功能，平台會自動辨識表現較好的行銷活動，並繼續最高轉換的行銷活動，並暫停其他行銷活動。
+>**要A/B測試您的網站行銷活動嗎？**&#x200B;一或多個網頁行銷活動可以[A/B測試以取得最佳結果](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)。 透過[!UICONTROL Auto Tune]功能，平台會自動辨識表現較佳的促銷活動，繼續最高的轉換促銷活動，並暫停其他促銷活動。
 
 ## 編輯網站行銷活動 {#edit-a-web-campaign}
 
-從網頁行銷活動頁面，按一下行銷活動上的&#x200B;**編輯**。
+從[!UICONTROL Web Campaigns]頁面，按一下行銷活動上的&#x200B;**[!UICONTROL Edit]**。
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
@@ -113,13 +113,13 @@ ht-degree: 0%
 
 ## 預覽網站行銷活動 {#preview-a-web-campaign}
 
-從網路行銷活動頁面，在您要預覽的網路行銷活動上按一下&#x200B;**預覽**
+從[!UICONTROL Web Campaigns]頁面，在您要預覽的網頁行銷活動上按一下&#x200B;**[!UICONTROL Preview]**
 
 ![](assets/widget-campaign-preview-hand.png)
 
 ## 刪除網站行銷活動 {#delete-a-web-campaign}
 
-1. 在網頁行銷活動頁面中，按一下您要刪除之網頁行銷活動上的&#x200B;**刪除**。
+1. 從[!UICONTROL Web Campaigns]頁面，按一下您要刪除之網路促銷活動的&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/widget-campaign-delete-hand.png)
 

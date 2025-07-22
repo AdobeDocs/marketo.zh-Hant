@@ -4,9 +4,9 @@ description: 建立程式碼片段 — Marketo檔案 — 產品檔案
 title: 建立代碼片段
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 程式碼片段可以在&#x200B;**電子郵件**&#x200B;和&#x200B;**登入頁面**&#x200B;上當作動態內容區塊使用。
 
-1. 移至&#x200B;**設計工作室。**
+1. 移至&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/designstudio.png)
 
-1. 按一下&#x200B;**新增**，然後按一下&#x200B;**新增程式碼片段**。
+1. 按一下&#x200B;**[!UICONTROL New]**，然後再按&#x200B;**[!UICONTROL New Snippet]**。
 
    ![](assets/image2014-9-16-8-50-4.png)
 
-1. 輸入必要的詳細資料，然後按一下&#x200B;**建立**。
+1. 輸入必要的詳細資料，然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 

@@ -4,9 +4,9 @@ description: 檢視電子郵件程式控制面板 — Marketo檔案 — 產品�
 title: 檢視電子郵件計畫控制面板
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 選取您的電子郵件程式 {#select-your-email-program}
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

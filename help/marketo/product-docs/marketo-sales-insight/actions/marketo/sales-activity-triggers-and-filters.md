@@ -3,9 +3,9 @@ description: 銷售活動觸發器和篩選器 — Marketo檔案 — 產品檔�
 title: 銷售活動觸發程式與篩選器
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. 在&#x200B;**智慧清單**&#x200B;索引標籤中，搜尋「銷售應用程式」。
+1. 在&#x200B;**[!UICONTROL Smart List]**&#x200B;索引標籤中，搜尋&quot;[!UICONTROL Sales Apps]&quot;。
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如需活動、限制和定義的完整清單，請參閱我們的[銷售分析動作活動字彙表](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)。
+>如需活動、限制和定義的完整清單，請參閱我們的[[!DNL Sales Insight Actions] 活動字彙表](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)。

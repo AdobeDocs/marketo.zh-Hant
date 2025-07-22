@@ -4,26 +4,26 @@ description: 在My Token中使用URL - Marketo檔案 — 產品檔案
 title: 在我的Token中使用URL
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
 
 # 在我的Token中使用URL {#using-urls-in-my-tokens}
 
-請依照下列步驟，使用「我的代號」將URL插入您的電子郵件。
+請依照下列步驟，使用[!UICONTROL My Tokens]將URL插入您的電子郵件中。
 
-1. 選取您的程式，然後按一下&#x200B;**我的Token**。
+1. 選取您的程式並按一下&#x200B;**[!UICONTROL My Tokens]**。
 
    ![](assets/one-4.png)
 
-1. 選取&#x200B;**文字**&#x200B;我的Token，將其拖放到畫布上。
+1. 選取「**[!UICONTROL Text]**&#x200B;我的Token」，將其拖放到畫布上。
 
    ![](assets/two-4.png)
 
-1. 為權杖指定唯一的名稱，輸入URL (不含https://)並按一下&#x200B;**儲存**。
+1. 為權杖指定唯一的名稱，輸入URL (不含https://)並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/three-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/four-3.png)
 
-1. 按一下&#x200B;**編輯草稿**。
+1. 按一下「**[!UICONTROL Edit Draft]**」。
 
    ![](assets/five-3.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
    >
    >如果您的網站未使用https，您當然也可以選擇輸入`http://`。
 
-1. 找到您的「我的Token」，選取它，然後按一下[插入]。**&#x200B;**
+1. 找到您的「我的Token」，選取並按一下&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/eight.png)
 
@@ -63,15 +63,15 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 反白您要顯示連結的文字，然後按一下插入/編輯連結圖示。
+1. 反白您要顯示連結的文字，然後按一下[!UICONTROL Insert/Edit Link]圖示。
 
    ![](assets/ten.png)
 
-1. 按Ctrl/Cmd+V將內容貼到&#x200B;**URL**&#x200B;方塊中，然後按一下&#x200B;**插入**。
+1. 按Ctrl/Cmd+V將內容貼到&#x200B;**[!UICONTROL URL]**&#x200B;方塊中，然後按一下&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/eleven.png)
 
-1. 按一下&#x200B;**儲存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/twelve.png)
 

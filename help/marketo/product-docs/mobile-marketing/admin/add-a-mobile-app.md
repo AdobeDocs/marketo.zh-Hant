@@ -4,10 +4,10 @@ description: 新增行動應用程式 — Marketo檔案 — 產品檔案
 title: 新增行動應用程式
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 1%
+source-wordcount: '185'
+ht-degree: 2%
 
 ---
 
@@ -22,25 +22,25 @@ ht-degree: 1%
 >
 >並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-1. 按一下&#x200B;**管理員**。
+1. 按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 按一下&#x200B;**行動應用程式與裝置**。
+1. 按一下「**[!UICONTROL Mobile Apps & Devices]**」。
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-1. 按一下&#x200B;**新增行動應用程式**。
+1. 按一下「**[!UICONTROL New Mobile App]**」。
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. 輸入名稱。 在&#x200B;**型別**&#x200B;下拉式清單中，選取您正在使用的環境型別：沙箱或生產。 按一下&#x200B;**保存**。
+1. 輸入名稱。 在&#x200B;**[!UICONTROL Type]**&#x200B;下拉式清單中，選取您正在使用的環境型別 — [!UICONTROL Sandbox]或[!UICONTROL Production]。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
    >[!NOTE]
    >
-   >我們建議您在生產環境中使用生產通知憑證。 沙箱憑證將會順利安裝在生產環境中，但您將不會收到通知。 如果您對環境或通知憑證有任何疑問，請聯絡您的Marketo管理員或行動應用程式開發人員。
+   >我們建議您在[!UICONTROL Production]環境中使用[!UICONTROL Production]通知憑證。 [!UICONTROL Sandbox]憑證將順利安裝在[!UICONTROL Production]環境中，但您將不會收到通知。 如果您對環境或通知憑證有任何疑問，請聯絡您的Marketo管理員或行動應用程式開發人員。
 
    很好！ 現在，讓我們設定您的應用程式以搭配Android和iOS裝置使用。
 

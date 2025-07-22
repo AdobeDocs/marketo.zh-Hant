@@ -4,30 +4,30 @@ description: 如何修正連線至Salesforce時「我們無法驗證您的請求
 title: 如何修正連線至Salesforce時「我們無法驗證您的請求」的問題
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 0%
+source-wordcount: '154'
+ht-degree: 3%
 
 ---
 
-# 如何修正連線至Salesforce時「我們無法驗證您的請求」的問題 {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
+# 如何修正連線到[!DNL Salesforce]時「我們無法驗證您的請求」 {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
-如果您在嘗試將Sales Connect連線至Salesforce時收到錯誤訊息「我們無法驗證您的請求」，表示您對Salesforce之API的存取可能會受到限制。 請洽詢您的Salesforce管理員，確認是否有下列專案。
+如果您在嘗試將[!DNL Sales Connect]連線到[!DNL Salesforce]時收到錯誤訊息「我們無法驗證您的要求」，則您的存取[!DNL Salesforce]的API可能會受到限制。 請洽詢您的[!DNL Salesforce]管理員，確認下列專案已準備就緒。
 
 ## 在使用者許可權中啟用API {#enable-api-in-user-permissions}
 
-1. 讓Salesforce管理員登入SFDC。
-1. 選取&#x200B;**安裝程式**。
-1. 選取&#x200B;**管理使用者**。
-1. 選取&#x200B;**設定檔**。
-1. 尋找ToutApp使用者所在的設定檔，然後按一下&#x200B;**編輯**。
-1. 向下捲動至&#x200B;**系統管理許可權**，並確認已勾選&#x200B;**已啟用API**。
+1. 讓[!DNL Salesforce]管理員登入SFDC。
+1. 選擇「**[!UICONTROL Setup]**」。
+1. 選擇「**[!UICONTROL Manage Users]**」。
+1. 選擇「**[!UICONTROL Profiles]**」。
+1. 尋找ToutApp使用者所在的設定檔，然後按一下&#x200B;**[!UICONTROL Edit]**。
+1. 向下捲動至&#x200B;**[!UICONTROL Administrative Permissions]**，並確認已勾選&#x200B;**[!UICONTROL API Enabled]**。
 
-## 檢查Salesforce是否封鎖Sales Connect連線 {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
+## 檢查[!DNL Salesforce]是否正在封鎖[!DNL Sales Connect]的連線 {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
 
-1. 請Salesforce管理員登入SFDC。
-1. 選取&#x200B;**安裝程式**。
-1. 選取&#x200B;**管理應用程式**。
-1. 選取&#x200B;**連線應用程式OAuth使用方式**。
-1. 請確定Sales Connect旁邊顯示「封鎖」。 如果您看到「解除封鎖」，請按一下按鈕以解除封鎖Sales Connect對Salesforce的存取。
+1. 讓[!DNL Salesforce]管理員登入SFDC。
+1. 選擇「**[!UICONTROL Setup]**」。
+1. 選擇「**[!UICONTROL Manage Apps]**」。
+1. 選擇「**[!UICONTROL Connected Apps OAuth Usage]**」。
+1. 請確定[!DNL Sales Connect]旁邊顯示「[!UICONTROL Block]」。 如果您看到&quot;[!UICONTROL Unblock]&quot;，請按一下按鈕以解除封鎖[!DNL Sales Connect]對[!DNL Salesforce]的存取權。

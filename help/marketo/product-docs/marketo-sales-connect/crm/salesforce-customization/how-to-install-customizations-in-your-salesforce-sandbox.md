@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15368208
-description: 如何在Salesforce沙箱中安裝自訂 — Marketo檔案 — 產品檔案
+description: 如何在您的Salesforce沙箱中安裝自訂 — Marketo檔案 — 產品檔案
 title: 如何在您的Salesforce沙箱中安裝自訂
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 1%
 
 ---
 
@@ -21,16 +21,16 @@ ht-degree: 0%
 >
 >[將Sales Connect連線至您的Salesforce沙箱](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
-1. 在Sales Connect中，按一下右上方的齒輪圖示並選取&#x200B;**設定**。
+1. 在[!DNL Sales Connect]中，按一下右上方的齒輪圖示並選取&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/one-3.png)
 
-1. 在[管理設定]下，按一下&#x200B;**Salesforce。**
+1. 在[!UICONTROL Admin Settings]底下，按一下&#x200B;**[!UICONTROL Salesforce]**。
 
    ![](assets/two-3.png)
 
-1. 按一下&#x200B;**安裝自訂專案**。
+1. 按一下「**[!UICONTROL Install Customizations]**」。
 
    ![](assets/three-3.png)
 
-   接下來，只需依照您在一般Salesforce帳戶上的操作，進行安裝自訂的步驟。
+   接下來，請依照您在一般[!DNL Salesforce]帳戶上的方式，執行安裝自訂的步驟。

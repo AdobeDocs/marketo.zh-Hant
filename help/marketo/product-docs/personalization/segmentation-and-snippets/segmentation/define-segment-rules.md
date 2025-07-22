@@ -4,9 +4,9 @@ description: 定義區段規則 — Marketo檔案 — 產品檔案
 title: 定義區段規則
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >[建立分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
-1. 移至&#x200B;**資料庫。**
+1. 移至&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/image2017-3-28-14-3a7-3a42.png)
 
-1. 從樹狀結構選取&#x200B;**區段**，然後按一下特定的&#x200B;**區段**。
+1. 從樹狀結構中選取&#x200B;**[!UICONTROL Segmentations]**，然後按一下特定的&#x200B;**區段**。
 
    ![](assets/image2017-3-28-14-3a11-3a15.png)
 
-1. 按一下&#x200B;**智慧清單**&#x200B;並新增篩選器。
+1. 按一下&#x200B;**[!UICONTROL Smart List]**&#x200B;並新增篩選器。
 
    ![](assets/image2017-3-28-14-3a18-3a19.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
    >
    >帳戶欄位的活動記錄行為可能會影響資格。 因此，我們建議不要在定義區段規則時使用「科目」欄位。
 
-1. 按一下&#x200B;**人員（草稿）**&#x200B;索引標籤，以檢視可能符合此區段成員資格的人員。
+1. 按一下&#x200B;**[!UICONTROL People (Draft)]**&#x200B;標籤以檢視可能符合此區段成員資格的人員。
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
-1. 移至&#x200B;**分段動作**。 按一下&#x200B;**核准**。
+1. 移至&#x200B;**[!UICONTROL Segmentation Actions]**。 按一下「**[!UICONTROL Approve]**」。
 
    ![](assets/image2014-9-15-11-3a36-3a7.png)
 
@@ -69,11 +69,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->個人可能符合不同區段的資格，但最終僅屬於一個依賴區段[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)的優先順序的區段。
+>個人可能符合不同區段的資格，但最終僅屬於一個依賴區段[的](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)優先順序的區段。
 
 >[!NOTE]
 >
->「人物（草稿）」畫面會顯示所有符合成員資格的人，而且不一定是最終的人物清單。 核准您的區段以檢視最終清單。
+>[!UICONTROL People (Draft)]畫面會顯示所有符合成員資格的人員，且不一定是最終人員清單。 核准您的區段以檢視最終清單。
 
 >[!MORELIKETHIS]
 >

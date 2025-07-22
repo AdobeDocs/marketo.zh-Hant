@@ -3,9 +3,9 @@ description: 在撰寫視窗中使用範本 — Marketo檔案 — 產品檔案
 title: 在撰寫視窗中使用範本
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ## 尋找及使用範本 {#finding-and-using-templates}
 
-1. 建立您的電子郵件草稿（有多種方式可以達成此目的，在此範例中，我們在標題中選擇&#x200B;**撰寫**）。
+1. 建立您的電子郵件草稿（有多種方法可這麼做，在此範例中，我們在標題中選擇&#x200B;**[!UICONTROL Compose]**）。
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
-1. 填入「收件者」欄位。
+1. 填入[!UICONTROL To]欄位。
 
    ![](assets/using-a-template-in-the-compose-window-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
 
-1. 選取要搜尋的類別（或選取全部以搜尋所有類別）。
+1. 選取要搜尋的類別（或選取[!UICONTROL All]以搜尋所有類別）。
 
    ![](assets/using-a-template-in-the-compose-window-4.png)
 
@@ -42,15 +42,15 @@ ht-degree: 0%
 
 最愛&#x200B;**最多5個**&#x200B;特定範本類別，以快速存取您最常用的範本。
 
-1. 建立您的電子郵件草稿（有多種方式可以達成此目的，在此範例中，我們在標題中選擇&#x200B;**撰寫**）。
+1. 建立您的電子郵件草稿（有多種方法可這麼做，在此範例中，我們在標題中選擇&#x200B;**[!UICONTROL Compose]**）。
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. 按一下我的最愛旁的&#x200B;**+**&#x200B;圖示。
+1. 按一下&#x200B;**旁的**+[!UICONTROL Favorites]圖示。
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. 按一下&#x200B;**釘選類別**&#x200B;下拉式清單，然後選取您想要的類別。
+1. 按一下&#x200B;**[!UICONTROL Pin a Category]**&#x200B;下拉式清單，然後選取您想要的類別。
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
@@ -70,6 +70,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**我的最愛**&#x200B;預設存在。 其中會包含最愛的電子郵件範本，而非類別。
+   >**[!UICONTROL Favorites]**&#x200B;預設存在。 其中會包含最愛的電子郵件範本，而非類別。
 
    現在已釘選您選取的類別。

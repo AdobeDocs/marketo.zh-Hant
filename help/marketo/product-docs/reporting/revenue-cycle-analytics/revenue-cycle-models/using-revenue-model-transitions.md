@@ -4,9 +4,9 @@ description: 使用收入模型轉換 — Marketo檔案 — 產品檔案
 title: 使用收入模型轉變
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,19 @@ ht-degree: 0%
 
 ![](assets/one-2.png)
 
-1. 用滑鼠右鍵（您也可以按兩下）按一下其中一個箭頭以開始，然後選取&#x200B;**編輯轉變**。
+1. 以滑鼠右鍵（您也可以按兩下）按一下其中一個箭頭以開始，然後選取&#x200B;**[!UICONTROL Edit Transition]**。
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >無法編輯「匿名⇒已知」轉變規則。
+   >無法編輯&#39;[!UICONTROL Anonymous] ⇒ [!UICONTROL Known]&#39;轉換規則。
 
 1. 將會為您選取的轉變開啟一個新標籤。
 
    ![](assets/three-1.png)
 
-1. 轉換可控制潛在客戶在階段之間的移動方式。 從右邊拖曳您選擇的觸發器（或篩選器），然後隨處將觸發器釋放到畫布上。 在此範例中，我們將選取「填寫表單」觸發器。
+1. 轉換可控制潛在客戶在階段之間的移動方式。 從右邊拖曳您選擇的觸發器（或篩選器），然後隨處將觸發器釋放到畫布上。 在此範例中，我們將選取&#x200B;**[!UICONTROL Fills Out Form]**&#x200B;觸發器。
 
    >[!TIP]
    >
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/five-2.png)
 
-1. 若要返回您的模型，請按一下&#x200B;**Modeler**。
+1. 若要返回您的模型，請按一下&#x200B;**[!UICONTROL Modeler]**。
 
    ![](assets/six.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 設定好所有轉換的規則後，請按一下[驗證]。**&#x200B;**&#x200B;以進行驗證。
+1. 設定好所有轉換的規則後，請按一下&#x200B;**[!UICONTROL Validate]**&#x200B;進行驗證。
 
    ![](assets/eight.png)
 

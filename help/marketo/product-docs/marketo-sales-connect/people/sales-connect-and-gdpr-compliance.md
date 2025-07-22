@@ -4,14 +4,14 @@ description: Sales Connect與GDPR法規遵循 — Marketo檔案 — 產品檔案
 title: Sales Connect與GDPR法規遵循
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1386'
-ht-degree: 1%
+source-wordcount: '1299'
+ht-degree: 0%
 
 ---
 
-# Sales Connect與GDPR法規遵循 {#sales-connect-and-gdpr-compliance}
+# [!DNL Sales Connect]與GDPR法規遵循 {#sales-connect-and-gdpr-compliance}
 
 一般資料保護規範(GDPR)是歐盟法律，於2018年5月25日生效。
 
@@ -42,21 +42,21 @@ GDPR適用於歐盟內或歐盟以外任何向歐盟及EEA內的資料主體行�
 
 GDPR有兩個主要層面，行銷人員需要檢閱過去、目前和未來的實務。 第一個是個人同意處理其個人資料，第二個是責任，即能夠示範GDPR原則如何得到遵守。
 
-我們在電子書[GDPR和行銷人員](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/)中，針對Marketo平台的同意與責任提供詳盡的資訊。 不過，在本文中，我們將具體說明Marketo Sales Connect的新功能，協助您的組織遵守GDPR規則。
+我們在電子書[GDPR和行銷人員](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/)中，針對Marketo平台的同意與責任提供詳盡的資訊。 不過，在本文中，我們將特別關注[!DNL Marketo Sales Connect]中的新功能，協助您的組織遵守GDPR規則。
 
-## Marketo Sales Connect符合GDPR規定 {#gdpr-compliance-in-marketo-sales-connect}
+## [!DNL Marketo Sales Connect]中的GDPR法規遵循 {#gdpr-compliance-in-marketo-sales-connect}
 
-Marketo Sales Connect是一款功能強大的應用程式，屬於Marketo Engagement Platform的一部分，可提供單一工作流程和檢視，供銷售和行銷人員透過合作參與加速共同推動銷售管道。 Marketo Sales Connect中的新功能是針對GDPR法規遵循專門建立的。 我們將概述所有這三個功能，並說明其在正確使用時，將如何協助貴組織的GDPR法規遵循工作。
+[!DNL Marketo Sales Connect]是一個功能強大的應用程式，是[!DNL Marketo Engagement Platform]的一部分，可提供單一工作流程和檢視，供銷售和行銷人員透過合作參與加速共同推動管道。 [!DNL Marketo Sales Connect]中的新功能是針對GDPR法規遵循而特別建立的。 我們將概述所有這三個功能，並說明其在正確使用時，將如何協助貴組織的GDPR法規遵循工作。
 
 ## 合規性卡 {#compliance-card}
 
-Marketo Sales Connect在人員詳細資料檢視中包含合規卡，可提供連絡人的授權型別及其Source型別的重要資訊。 這可讓使用者輕鬆新增及追蹤對資料隱私權至關重要的資訊，並協助他們針對行銷活動/外聯策略做出更明智的決策。
+[!DNL Marketo Sales Connect]在人員詳細資料檢視中包含合規卡，以提供連絡人授權型別及其Source型別的關鍵資訊。 這可讓使用者輕鬆新增及追蹤對資料隱私權至關重要的資訊，並協助他們針對行銷活動/外聯策略做出更明智的決策。
 
 ![](assets/1.png)
 
 連絡人授權型別
 
-在「合規性卡」中，使用者可透過「授權」下拉式清單，追蹤處理連絡人個人資料的法律依據。 瞭解聯絡人的授權型別，可協助Marketo Sales Connect使用者針對外聯實務做出更明智的決策，確保每個行銷活動或參與都合法且適當。
+在「合規性卡」中，使用者可透過「授權」下拉式清單，追蹤處理連絡人個人資料的法律依據。 瞭解連絡人的授權型別可協助[!DNL Marketo Sales Connect]使用者針對外聯實務做出更明智的決策，確保每個行銷活動或參與均合法且適當。
 
 使用者有許多選項可供選擇，包括：
 
@@ -70,37 +70,37 @@ Marketo Sales Connect在人員詳細資料檢視中包含合規卡，可提供�
 
 聯絡Source型別
 
-在新的合規性卡片中，使用者可以追蹤聯絡人的來源。 Source型別定義聯絡人的資訊最初上傳至Marketo Sales Connect時的來源。 瞭解聯絡人的來源型別也有助於就外聯活動實踐做出決策，以及確定儲存個人資料的其他系統或位置，確保每個參與都符合GDPR法規。
+在新的合規性卡片中，使用者可以追蹤聯絡人的來源。 Source型別定義連絡人資訊最初上傳至[!DNL Marketo Sales Connect]時的來源。 瞭解聯絡人的來源型別也有助於就外聯活動實踐做出決策，以及確定儲存個人資料的其他系統或位置，確保每個參與都符合GDPR法規。
 
 同樣地，使用者有許多下拉式清單選項可供選擇，包括：
 
 * CRM同步
-* 匯入
+* 讀入
 * 手動上傳
-* Chrome擴充功能
+* [!DNL Chrome] 擴充功能
 * 其他
 
 編輯合規性卡片
 
-當人員詳細資料檢視開啟時，按一下合規性卡片中的&#x200B;**編輯**。
+當人員詳細資料檢視開啟時，按一下合規性卡片中的&#x200B;**[!UICONTROL Edit]**。
 
 ![](assets/four.png)
 
-您會看到兩個下拉式清單：授權型別和Source型別。
+您會看到兩個下拉式清單：[!UICONTROL Authorization Type]和[!UICONTROL Source Type]。
 
 ![](assets/5.png)
 
-如果您選擇「同意」作為授權型別，則會出現兩個必填欄位：「同意日期」和「處理的目的」。 這兩個欄位不適用於其他選項。
+如果您選擇&quot;[!UICONTROL Consent]&quot;作為[!UICONTROL Authorization Type]，則會出現兩個必要欄位：&quot;[!UICONTROL Date of Consent]&quot;和&quot;[!UICONTROL Purpose of Processing]&quot;。 這兩個欄位不適用於其他選項。
 
 ![](assets/6.png)
 
-如果為「授權型別」或「Source型別」選擇了「其他」，您可以輸入文字來說明「Source型別」。
+如果為[!UICONTROL Other]或[!UICONTROL Authorization Type]選擇「[!UICONTROL Source Type]」，您可以輸入描述Source型別的文字。
 
 ![](assets/7.png)
 
-大量動作** Marketo Sales Connect也可讓您大量更新連絡人的授權和Source型別，在法規遵循程式中節省寶貴時間。
+大量動作** [!DNL Marketo Sales Connect]也允許大量更新連絡人的授權和Source型別，以節省合規程式中的寶貴時間。
 
-當您從「人員」頁面選取一或多個連絡人時，「授權」和「Source」按鈕會顯示在頂端容器中。 使用這些按鈕，您可以同時設定多個聯絡人的授權或Source。
+當您從[!UICONTROL People]頁面選取一或多個連絡人時，授權和Source按鈕會顯示在頂端容器中。 使用這些按鈕，您可以同時設定多個聯絡人的授權或Source。
 
 ![](assets/eight.jpg)
 
@@ -120,7 +120,7 @@ Marketo Sales Connect在人員詳細資料檢視中包含合規卡，可提供�
 
 ![](assets/12.png)
 
-## 從Marketo Sales Connect匯出聯絡資料 {#exporting-contact-data-from-marketo-sales-connect}
+## 正在從[!DNL Marketo Sales Connect]匯出連絡人資料 {#exporting-contact-data-from-marketo-sales-connect}
 
 您可以從「人員詳細資料檢視」匯出聯絡資訊。 匯出將會下載包含下列欄位的.CSV檔案：
 
@@ -132,33 +132,33 @@ Marketo Sales Connect在人員詳細資料檢視中包含合規卡，可提供�
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>名字</td> 
-   <td>網站</td> 
-   <td>Facebook</td> 
+   <td>[!UICONTROL First Name]</td> 
+   <td>[!UICONTROL Website]</td> 
+   <td>[!DNL Facebook]</td> 
   </tr> 
   <tr> 
-   <td>姓氏</td> 
-   <td>其他</td> 
-   <td>Twitter</td> 
+   <td>[!UICONTROL Last Name]</td> 
+   <td>[!UICONTROL Other]</td> 
+   <td>[!DNL Twitter]</td> 
   </tr> 
   <tr> 
-   <td>公司</td> 
-   <td>更新時間</td> 
-   <td>LinkedIn</td> 
+   <td>[!UICONTROL Company]</td> 
+   <td>[!UICONTROL Updated At]</td> 
+   <td>[!DNL LinkedIn]</td> 
   </tr> 
   <tr> 
-   <td>標題</td> 
-   <td>建立時間</td> 
-   <td>匯出時間</td> 
+   <td>[!UICONTROL Title]</td> 
+   <td>[!UICONTROL Created At]</td> 
+   <td>[!UICONTROL Exported At]</td> 
   </tr> 
   <tr> 
-   <td>電子郵件ID</td> 
-   <td>Salesforce ID</td> 
+   <td>[!UICONTROL Email ID]</td> 
+   <td>[!UICONTROL Salesforce ID]</td> 
    <td><br></td> 
   </tr> 
   <tr> 
-   <td>電話號碼</td> 
-   <td>人員 ID</td> 
+   <td>[!UICONTROL Phone Number]</td> 
+   <td>[!UICONTROL Person ID]</td> 
    <td><br></td> 
   </tr> 
  </tbody> 
@@ -168,20 +168,20 @@ Marketo Sales Connect在人員詳細資料檢視中包含合規卡，可提供�
 >
 >一次只能進行一個連絡人。 目前沒有允許大量匯出連絡人的功能。
 
-若要匯出聯絡資訊，請按一下人員詳細資料檢視標題中的三個垂直點，並選取&#x200B;**匯出**。 將自動下載.CSV檔案。
+若要匯出聯絡資訊，請按一下人員詳細資料檢視標題中的三個垂直點，並選取&#x200B;**[!UICONTROL Export]**。 將自動下載.CSV檔案。
 
 ![](assets/thirteen.png)
 
 >[!NOTE]
 >
->GDPR也要求能夠從UI刪除連絡人，但Marketo Sales Connect已具備此功能。
+>GDPR也需要從UI刪除連絡人的功能，但[!DNL Marketo Sales Connect]已經擁有此功能。
 
 ## 取消訂閱 {#unsubscribes}
 
-GDPR的一個普遍誤解領域涉及從組織資料庫取消訂閱的聯絡人。 為了遵守新的規則，保護選擇取消訂閱者的資料，Marketo Sales Connect已包含下列功能：
+GDPR的一個普遍誤解領域涉及從組織資料庫取消訂閱的聯絡人。 為了遵守關於保護選擇取消訂閱者的資料的新規則，[!DNL Marketo Sales Connect]已包含下列功能：
 
-**取消訂閱連結：**&#x200B;取消訂閱連結會自動附加至Sales Connect Web應用程式所傳送的所有電子郵件，以確保連絡人有可存取的方式選擇退出。\
-**取消訂閱同步處理：**&#x200B;使用者可以同步處理其CRM (Salesforce)的取消訂閱與取消訂閱，以確保選擇退出為最新狀態。\
+**取消訂閱連結：**&#x200B;取消訂閱連結會自動附加至從[!DNL Sales Connect]網頁應用程式傳送的所有電子郵件，以確保連絡人有可存取的方式選擇退出。\
+**取消訂閱同步處理：**&#x200B;使用者可以同步處理其CRM ([!DNL Salesforce])的取消訂閱與取消訂閱，以確保選擇退出為最新狀態。\
 **取消訂閱歷史記錄：**&#x200B;使用者可在人員詳細資料檢視中檢視歷史選擇退出和選擇加入。\
 **取消訂閱移除：**&#x200B;選擇取消訂閱的連絡人重新加入，需要使用者具有管理員許可權，並證明連絡人已同意重新連絡他們。
 

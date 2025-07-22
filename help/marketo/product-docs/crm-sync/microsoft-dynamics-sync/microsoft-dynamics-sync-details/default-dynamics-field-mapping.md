@@ -3,10 +3,10 @@ description: 預設動態欄位對應 — Marketo檔案 — 產品檔案
 title: 預設動態欄位對應
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 18%
+source-wordcount: '332'
+ht-degree: 2%
 
 ---
 
@@ -29,203 +29,203 @@ ht-degree: 18%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>Microsoft 建立日期</td>
-      <td>建立日期</td>
+      <td>[!UICONTROL Microsoft Created Date]</td>
+      <td>[!UICONTROL Created On]</td>
       <td>建立</td>
     </tr>
     <tr>
-      <td>問候語</td>
-      <td>問候語</td>
+      <td>[!UICONTROL Salutation]</td>
+      <td>[!UICONTROL Salutation]</td>
       <td>salutation</td>
     </tr>
     <tr>
-      <td>第一</td>
-      <td>名字</td>
+      <td>[!UICONTROL First]</td>
+      <td>[!UICONTROL First Name]</td>
       <td>firstname</td>
     </tr>
     <tr>
-      <td>中間</td>
-      <td>中間名</td>
+      <td>[!UICONTROL Middle]</td>
+      <td>[!UICONTROL Middle Name]</td>
       <td>middlename</td>
     </tr>
     <tr>
-      <td>上次</td>
-      <td>姓氏</td>
+      <td>[!UICONTROL Last]</td>
+      <td>[!UICONTROL Last Name]</td>
       <td>姓氏</td>
     </tr>
     <tr>
-      <td>電子郵件</td>
-      <td>電子郵件</td>
+      <td>[!UICONTROL Email]</td>
+      <td>[!UICONTROL Email]</td>
       <td>電子郵件地址1</td>
     </tr>
     <tr>
-      <td>職稱</td>
-      <td>職稱</td>
+      <td>[!UICONTROL Job Title]</td>
+      <td>[!UICONTROL Job title]</td>
       <td>工作標題</td>
     </tr>
     <tr>
-      <td>電話</td>
-      <td>公司電話</td>
+      <td>[!UICONTROL Phone]</td>
+      <td>[!UICONTROL Business Phone]</td>
       <td>電話1</td>
     </tr>
     <tr>
-      <td>行動</td>
-      <td>行動電話</td>
+      <td>[!UICONTROL Mobile]</td>
+      <td>[!UICONTROL Mobile Phone]</td>
       <td>行動電話</td>
     </tr>
     <tr>
-      <td>傳真</td>
-      <td>傳真</td>
+      <td>[!UICONTROL Fax]</td>
+      <td>[!UICONTROL Fax]</td>
       <td>傳真</td>
     </tr>
     <tr>
-      <td>地址</td>
-      <td>街道1</td>
+      <td>[!UICONTROL Address]</td>
+      <td>[!UICONTROL Street 1]</td>
       <td>address1_line1</td>
     </tr>
     <tr>
-      <td>城市</td>
-      <td>城市</td>
+      <td>[!UICONTROL City]</td>
+      <td>[!UICONTROL City]</td>
       <td>地址1_city</td>
     </tr>
     <tr>
-      <td>州別</td>
-      <td>州/省</td>
+      <td>[!UICONTROL State]</td>
+      <td>[!UICONTROL State/Province]</td>
       <td>address1_stateorprovidle</td>
     </tr>
     <tr>
-      <td>國家</td>
-      <td>國家/地區</td>
+      <td>[!UICONTROL Country]</td>
+      <td>[!UICONTROL Country/Region]</td>
       <td>address1country</td>
     </tr>
     <tr>
-      <td>郵遞區號</td>
-      <td>郵遞區號</td>
+      <td>[!UICONTROL Postal Code]</td>
+      <td>[!UICONTROL Zip/Postal Code]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>Source人員</td>
-      <td>銷售機會來源</td>
+      <td>[!UICONTROL Person Source]</td>
+      <td>[!UICONTROL Lead Source]</td>
       <td>leadsourcecode</td>
     </tr>
     <tr>
-      <td>個人狀態</td>
-      <td>狀態</td>
+      <td>[!UICONTROL Person Status]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>狀態原因</td>
-      <td>狀態原因</td>
+      <td>[!UICONTROL Status Reason]</td>
+      <td>[!UICONTROL Status Reason]</td>
       <td>狀態代碼</td>
     </tr>
     <tr>
-      <td>個人附註</td>
-      <td>說明</td>
+      <td>[!UICONTROL Person Notes]</td>
+      <td>[!UICONTROL Description]</td>
       <td>說明</td>
     </tr>
     <tr>
-      <td>請勿來電</td>
-      <td>不允許通話</td>
+      <td>[!UICONTROL Do Not Call]</td>
+      <td>[!UICONTROL Do Not Allow Phone Calls]</td>
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>退訂</td>
-      <td>不要大量電子郵件</td>
+      <td>[!UICONTROL Unsubscribed]</td>
+      <td>[!UICONTROL Do not bulk email]</td>
       <td>donotbulkemail</td>
     </tr>
     <tr>
-      <td>個人評等</td>
-      <td>評等</td>
+      <td>[!UICONTROL Person Rating]</td>
+      <td>[!UICONTROL Rating]</td>
       <td>leadqualitycode</td>
     </tr>
     <tr>
-      <td>Microsoft地址2</td>
-      <td>街道2</td>
+      <td>[!UICONTROL Microsoft Address 2]</td>
+      <td>[!UICONTROL Street 2]</td>
       <td>address1_line2</td>
     </tr>
     <tr>
-      <td>Microsoft地址3</td>
-      <td>街道3</td>
+      <td>[!UICONTROL Microsoft Address 3]</td>
+      <td>[!UICONTROL Street 3]</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft不傳送電子郵件</td>
-      <td>不允許電子郵件</td>
+      <td>[!UICONTROL Microsoft Do Not Email]</td>
+      <td>[!UICONTROL Do Not Allow Emails]</td>
       <td>donotemail</td>
     </tr>
     <tr>
-      <td>Microsoft不傳真</td>
-      <td>不允許傳真</td>
+      <td>[!UICONTROL Microsoft Do Not Fax]</td>
+      <td>[!UICONTROL Do Not Allow Faxes]</td>
       <td>donotfax</td>
     </tr>
     <tr>
-      <td>Microsoft不傳送行銷資料</td>
-      <td>行銷資料</td>
+      <td>[!UICONTROL Microsoft Do Not Send Marketing Material]</td>
+      <td>[!UICONTROL Marketing Material]</td>
       <td>donotsendmm</td>
     </tr>
     <tr>
-      <td>Microsoft家庭電話</td>
-      <td>住家電話</td>
+      <td>[!UICONTROL Microsoft Home Phone]</td>
+      <td>[!UICONTROL Home Phone]</td>
       <td>電話2</td>
     </tr>
     <tr>
-      <td>Microsoft慣用的聯絡方式</td>
-      <td>偏好的聯絡方式</td>
+      <td>[!UICONTROL Microsoft Preferred Method Of Contact]</td>
+      <td>[!UICONTROL Preferred Method of Contact]</td>
       <td>preferredcontactmethodcode</td>
     </tr>
     <tr>
-      <td>Microsoft主題</td>
-      <td>主題</td>
+      <td>[!UICONTROL Microsoft Topic]</td>
+      <td>[!UICONTROL Topic]</td>
       <td>主旨</td>
     </tr>
     <tr>
-      <td>上一個有趣的時刻日期</td>
-      <td>上一個有趣的時刻日期</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
       <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
-      <td>上一個有趣時刻說明</td>
-      <td>上一個有趣時刻說明</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
       <td>mkt_lastinterestingmomentdesc</td>
     </tr>
     <tr>
-      <td>上一個有趣時刻來源</td>
-      <td>上一個有趣時刻來源</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
       <td>mkt_leadinterestingmomentsource</td>
     </tr>
     <tr>
-      <td>上一個有趣的時刻型別</td>
-      <td>上一個有趣的時刻型別</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
       <td>mkt_lastinterestingmomenttype</td>
     </tr>
     <tr>
-      <td>公司</td>
-      <td>公司名稱</td>
+      <td>[!UICONTROL Company]</td>
+      <td>[!UICONTROL Company Name]</td>
       <td>companyname</td>
     </tr>
     <tr>
-      <td>相對分數</td>
-      <td>相對分數</td>
+      <td>[!UICONTROL Relative Score]</td>
+      <td>[!UICONTROL Relative Score]</td>
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>優先順序</td>
-      <td>優先順序</td>
+      <td>[!UICONTROL Priority]</td>
+      <td>[!UICONTROL Priority]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>相對急迫性</td>
-      <td>急迫性</td>
+      <td>[!UICONTROL Relative Urgency]</td>
+      <td>[!UICONTROL Urgency]</td>
       <td>mkt_urgency</td>
     </tr>
     <tr>
-      <td>主旨</td>
-      <td>主題</td>
+      <td>[!UICONTROL Subject]</td>
+      <td>[!UICONTROL Topic]</td>
       <td>主旨</td>
     </tr>
     <tr>
-      <td>年收入</td>
-      <td>年收入</td>
+      <td>[!UICONTROL Annual Revenue]</td>
+      <td>[!UICONTROL Annual Revenue]</td>
       <td>收入</td>
     </tr>
   </tbody>
@@ -244,11 +244,11 @@ ht-degree: 18%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>所有者</td>
+      <td>[!UICONTROL Owner] </td>
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>建立日期</td>
+      <td>[!UICONTROL Created On]</td>
       <td>建立</td>
     </tr>
   </tbody>
@@ -269,179 +269,179 @@ ht-degree: 18%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>Microsoft 建立日期</td>
-      <td>建立日期</td>
+      <td>[!UICONTROL Microsoft Created Date]</td>
+      <td>[!UICONTROL Created On]</td>
       <td>建立</td>
     </tr>
     <tr>
-      <td>問候語</td>
-      <td>問候語</td>
+      <td>[!UICONTROL Salutation]</td>
+      <td>[!UICONTROL Salutation]</td>
       <td>salutation</td>
     </tr>
     <tr>
-      <td>第一</td>
-      <td>名字</td>
+      <td>[!UICONTROL First]</td>
+      <td>[!UICONTROL First Name]</td>
       <td>firstname</td>
     </tr>
     <tr>
-      <td>中間</td>
-      <td>中間名</td>
+      <td>[!UICONTROL Middle]</td>
+      <td>[!UICONTROL Middle Name]</td>
       <td>middlename</td>
     </tr>
     <tr>
-      <td>上次</td>
-      <td>姓氏</td>
+      <td>[!UICONTROL Last]</td>
+      <td>[!UICONTROL Last Name]</td>
       <td>姓氏</td>
     </tr>
     <tr>
-      <td>電子郵件</td>
-      <td>電子郵件</td>
+      <td>[!UICONTROL Email]</td>
+      <td>[!UICONTROL Email]</td>
       <td>電子郵件地址1</td>
     </tr>
     <tr>
-      <td>職稱</td>
-      <td>職稱</td>
+      <td>[!UICONTROL Job Title]</td>
+      <td>[!UICONTROL Job Title]</td>
       <td>工作標題</td>
     </tr>
     <tr>
-      <td>電話</td>
-      <td>公司電話</td>
+      <td>[!UICONTROL Phone]</td>
+      <td>[!UICONTROL Business Phone]</td>
       <td>電話1</td>
     </tr>
     <tr>
-      <td>行動</td>
-      <td>行動電話</td>
+      <td>[!UICONTROL Mobile]</td>
+      <td>[!UICONTROL Mobile Phone]</td>
       <td>行動電話</td>
     </tr>
     <tr>
-      <td>地址</td>
-      <td>地址1：街道1</td>
+      <td>[!UICONTROL Address]</td>
+      <td>[!UICONTROL Address 1: Street 1]</td>
       <td>address1_line1</td>
     </tr>
     <tr>
-      <td>城市</td>
-      <td>地址1：城市</td>
+      <td>[!UICONTROL City]</td>
+      <td>[!UICONTROL Address 1: City]</td>
       <td>地址1_city</td>
     </tr>
     <tr>
-      <td>州別</td>
-      <td>地址1：州/省</td>
+      <td>[!UICONTROL State]</td>
+      <td>[!UICONTROL Address 1: State/Province]</td>
       <td>address1_stateorprovidle</td>
     </tr>
     <tr>
-      <td>國家</td>
-      <td>地址1：國家/地區</td>
+      <td>[!UICONTROL Country]</td>
+      <td>[!UICONTROL Address 1: Country/Region]</td>
       <td>address1country</td>
     </tr>
     <tr>
-      <td>郵遞區號</td>
-      <td>地址1：郵遞區號</td>
+      <td>[!UICONTROL Postal Code]</td>
+      <td>[!UICONTROL Address 1: Zip/Postal Code]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>個人狀態</td>
-      <td>狀態</td>
+      <td>[!UICONTROL Person Status]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>狀態原因</td>
-      <td>狀態原因</td>
+      <td>[!UICONTROL Status Reason]</td>
+      <td>[!UICONTROL Status Reason]</td>
       <td>狀態代碼</td>
     </tr>
     <tr>
-      <td>請勿來電</td>
-      <td>不允許通話</td>
+      <td>[!UICONTROL Do Not Call]</td>
+      <td>[!UICONTROL Do Not Allow Phone Calls]</td>
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>退訂</td>
-      <td>不要大量電子郵件</td>
+      <td>[!UICONTROL Unsubscribed]</td>
+      <td>[!UICONTROL Do not bulk email]</td>
       <td>donotbulkemail</td>
     </tr>
     <tr>
-      <td>Microsoft地址2</td>
-      <td>地址1：街道2</td>
+      <td>[!UICONTROL Microsoft Address 2]</td>
+      <td>[!UICONTROL Address 1: Street 2]</td>
       <td>address1_line2</td>
     </tr>
     <tr>
-      <td>Microsoft地址3</td>
-      <td>地址1：街道3</td>
+      <td>[!UICONTROL Microsoft Address 3]</td>
+      <td>[!UICONTROL Address 1: Street 3]</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft不傳送電子郵件</td>
-      <td>不允許電子郵件</td>
+      <td>[!UICONTROL Microsoft Do Not Email]</td>
+      <td>[!UICONTROL Do Not Allow Emails]</td>
       <td>donotemail</td>
     </tr>
     <tr>
-      <td>Microsoft家庭電話</td>
-      <td>住家電話</td>
+      <td>[!UICONTROL Microsoft Home Phone]</td>
+      <td>[!UICONTROL Home Phone]</td>
       <td>電話2</td>
     </tr>
     <tr>
-      <td>Microsoft慣用的聯絡方式</td>
-      <td>偏好的聯絡方式</td>
+      <td>[!UICONTROL Microsoft Preferred Method Of Contact]</td>
+      <td>[!UICONTROL Preferred Method Of Contact]</td>
       <td>preferredcontactmethodcode</td>
     </tr>
     <tr>
-      <td>上一個有趣的時刻日期</td>
-      <td>上一個有趣的時刻日期</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
       <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
-      <td>上一個有趣的時刻型別</td>
-      <td>上一個有趣的時刻型別</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
       <td>mkt_lastinterestingmomenttype</td>
     </tr>
     <tr>
-      <td>上一個有趣時刻來源</td>
-      <td>上一個有趣時刻來源</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
       <td>mkt_leadinterestingmomentsource</td>
     </tr>
     <tr>
-      <td>上一個有趣時刻說明</td>
-      <td>上一個有趣時刻說明</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
       <td>mkt_lastinterestingmomentdesc</td>
     </tr>
     <tr>
-      <td>Microsoft不傳送行銷資料</td>
-      <td>行銷資料</td>
+      <td>[!UICONTROL Microsoft Do Not Send Marketing Material]</td>
+      <td>[!UICONTROL Marketing Material]</td>
       <td>donotsendmm</td>
     </tr>
     <tr>
-      <td>Microsoft不傳真</td>
-      <td>Microsoft不傳真</td>
+      <td>[!UICONTROL Microsoft Do Not Fax]</td>
+      <td>[!UICONTROL Microsoft Do Not Fax]</td>
       <td>donotfax</td>
     </tr>
     <tr>
-      <td>優先順序</td>
-      <td>優先順序</td>
+      <td>[!UICONTROL Priority]</td>
+      <td>[!UICONTROL Priority]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>相對急迫性</td>
-      <td>急迫性</td>
+      <td>[!UICONTROL Relative Urgency]</td>
+      <td>[!UICONTROL Urgency]</td>
       <td>mkt_urgency</td>
     </tr>
     <tr>
-      <td>相對分數</td>
-      <td>相對分數</td>
+      <td>[!UICONTROL Relative Score]</td>
+      <td>[!UICONTROL Relative Score]</td>
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>個人附註</td>
-      <td>說明</td>
-      <td>說明</td>
+      <td>[!UICONTROL Person Notes]</td>
+      <td>[!UICONTROL Description]</td>
+      <td>說明 </td>
     </tr>
     <tr>
-      <td>個人分數</td>
-      <td>銷售機會分數</td>
+      <td>[!UICONTROL Person Score]</td>
+      <td>[!UICONTROL Lead Score]</td>
       <td>mkt_leadscore</td>
     </tr>
     <tr>
-      <td>個人附註</td>
-      <td>說明</td>
-      <td>說明</td>
+      <td>[!UICONTROL Person Notes]</td>
+      <td>[!UICONTROL Description]</td>
+      <td>說明 </td>
     </tr>
   </tbody>
 </table>
@@ -459,16 +459,16 @@ ht-degree: 18%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>所有者</td>
+      <td>[!UICONTROL Owner] </td>
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>建立日期</td>
+      <td>[!UICONTROL Created On]</td>
       <td>建立</td>
     </tr>
     <tr>
+      <td>[!UICONTROL Company Name]</td>
       <td>parentcustomerid</td>
-      <td>公司名稱</td>
     </tr>
   </tbody>
 </table>
@@ -488,103 +488,103 @@ ht-degree: 18%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>帳戶(a)</td>
-      <td>帳戶</td>
+      <td>[!UICONTROL Account (a)]</td>
+      <td>[!UICONTROL Account]</td>
       <td>accountid</td>
     </tr>
     <tr>
-      <td>帳單地址</td>
-      <td>地址1：街道1</td>
+      <td>[!UICONTROL Billing Address]</td>
+      <td>[!UICONTROL Address 1: Street 1]</td>
       <td>address1_line1</td>
     </tr>
     <tr>
-      <td>帳單城市</td>
-      <td>地址1：城市</td>
+      <td>[!UICONTROL Billing City]</td>
+      <td>[!UICONTROL Address 1: City]</td>
       <td>地址1_city</td>
     </tr>
     <tr>
-      <td>帳單國家</td>
-      <td>地址1：國家/地區</td>
+      <td>[!UICONTROL Billing Country]</td>
+      <td>[!UICONTROL Address 1: Country/Region]</td>
       <td>address1country</td>
     </tr>
     <tr>
-      <td>帳單郵遞區號</td>
-      <td>地址1：郵遞區號</td>
+      <td>[!UICONTROL Billing Postal Code]</td>
+      <td>[!UICONTROL Address 1: Zip/Postal Code]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>Microsoft帳單地址2</td>
-      <td>地址1：街道2</td>
+      <td>[!UICONTROL Microsoft Billing Address 2]</td>
+      <td>[!UICONTROL Address 1: Street 2]</td>
       <td>address1_line2</td>
     </tr>
     <tr>
-      <td>Microsoft帳單地址3</td>
-      <td>地址1：街道3</td>
+      <td>[!UICONTROL Microsoft Billing Address 3]</td>
+      <td>[!UICONTROL Address 1: Street 3]</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>主要電話</td>
-      <td>主要電話</td>
+      <td>[!UICONTROL Main Phone]</td>
+      <td>[!UICONTROL Main Phone]</td>
       <td>電話1</td>
     </tr>
     <tr>
-      <td>業務型別</td>
-      <td>業務型別</td>
+      <td>[!UICONTROL Business Type]</td>
+      <td>[!UICONTROL Business Type]</td>
       <td>businesstypecode</td>
     </tr>
     <tr>
-      <td>Microsoft帳號</td>
-      <td>帳號</td>
+      <td>[!UICONTROL Microsoft Account Number]</td>
+      <td>[!UICONTROL Account Number]</td>
       <td>accountnumber</td>
     </tr>
     <tr>
-      <td>Microsoft公司狀態</td>
-      <td>狀態</td>
+      <td>[!UICONTROL Microsoft Company Status]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>年收入</td>
-      <td>年收入</td>
+      <td>[!UICONTROL Annual Revenue]</td>
+      <td>[!UICONTROL Annual Revenue]</td>
       <td>收入</td>
     </tr>
     <tr>
-      <td>公司附註</td>
-      <td>說明</td>
+      <td>[!UICONTROL Company Notes]</td>
+      <td>[!UICONTROL Description]</td>
       <td>說明</td>
     </tr>
     <tr>
-      <td>產業</td>
-      <td>產業</td>
+      <td>[!UICONTROL Industry]</td>
+      <td>[!UICONTROL Industry]</td>
       <td>industrycode</td>
     </tr>
     <tr>
-      <td>SIC 代碼</td>
-      <td>SIC 代碼</td>
+      <td>[!UICONTROL SIC Code]</td>
+      <td>[!UICONTROL SIC Code]</td>
       <td>sic</td>
     </tr>
     <tr>
-      <td>網站</td>
-      <td>網站</td>
+      <td>[!UICONTROL Website]</td>
+      <td>[!UICONTROL Website]</td>
       <td>網站</td>
     </tr>
     <tr>
-      <td>員工人數</td>
-      <td>員工人數</td>
+      <td>[!UICONTROL Num Employees]</td>
+      <td>[!UICONTROL Number of Employees]</td>
       <td>number女性</td>
     </tr>
     <tr>
-      <td>SIC 代碼</td>
-      <td>SIC 代碼</td>
+      <td>[!UICONTROL SIC Code]</td>
+      <td>[!UICONTROL SIC Code]</td>
       <td>sic</td>
     </tr>
     <tr>
-      <td>公司</td>
-      <td>帳戶名稱</td>
+      <td>[!UICONTROL Company]</td>
+      <td>[!UICONTROL Account Name]</td>
       <td>名稱</td>
     </tr>
     <tr>
-      <td>員工人數</td>
-      <td>員工人數</td>
+      <td>[!UICONTROL Num Employees]</td>
+      <td>[!UICONTROL Number of Employees]</td>
       <td>number女性</td>
     </tr>
   </tbody>
@@ -603,11 +603,11 @@ ht-degree: 18%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>所有者</td>
+      <td>[!UICONTROL Owner] </td>
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>建立日期</td>
+      <td>[!UICONTROL Created On]</td>
       <td>建立</td>
     </tr>
   </tbody>
@@ -628,33 +628,33 @@ ht-degree: 18%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>關閉機率</td>
-      <td>可能性</td>
+      <td>[!UICONTROL Close Probability]</td>
+      <td>[!UICONTROL Probabliity]</td>
       <td>closeprobability</td>
     </tr>
     <tr>
-      <td>階段</td>
-      <td>狀態</td>
+      <td>[!UICONTROL Stage]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>實際關閉日期</td>
-      <td>實際關閉日期</td>
+      <td>[!UICONTROL Actual Close Date]</td>
+      <td>[!UICONTROL Actual Close Date]</td>
       <td>actualclosedate</td>
     </tr>
     <tr>
-      <td>名稱</td>
-      <td>主題</td>
+      <td>[!UICONTROL Name]</td>
+      <td>[!UICONTROL Topic]</td>
       <td>名稱</td>
     </tr>
     <tr>
-      <td>預計值</td>
-      <td>估計 收入</td>
+      <td>[!UICONTROL Estimated Value]</td>
+      <td>[!UICONTROL Est. Revenue]</td>
       <td>estimatedValue</td>
     </tr>
     <tr>
-      <td>說明</td>
-      <td>說明</td>
+      <td>[!UICONTROL Description]</td>
+      <td>[!UICONTROL Description]</td>
       <td>說明</td>
     </tr>
   </tbody>
@@ -673,15 +673,15 @@ ht-degree: 18%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>所有者</td>
+      <td>[!UICONTROL Owner] </td>
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>機會</td>
+      <td>[!UICONTROL Opportunity]</td>
       <td>opportunityId</td>
     </tr>
     <tr>
-      <td>潛在客戶</td>
+      <td>[!UICONTROL Potential Customer]</td>
       <td>customerId</td>
     </tr>
   </tbody>
@@ -702,15 +702,15 @@ ht-degree: 18%
       <th>說明</th>
     </tr>
     <tr>
-      <td>Microsoft 類型</td>
+      <td>[!UICONTROL Microsoft Type]</td>
       <td>潛在客戶或連絡人。 如果空白，該潛在客戶在Marketo中只會以個人身分存在</td>
     </tr>
     <tr>
-      <td>Microsoft 建立日期</td>
-      <td>在MS Dynamics中建立的日期(可能與Marketo中的建立日期不同)</td>
+      <td>[!UICONTROL Microsoft Created Date]</td>
+      <td>在[!DNL MS Dynamics]中建立的日期(可能與Marketo中的建立日期不同)</td>
     </tr>
     <tr>
-      <td>Microsoft已刪除</td>
+      <td>[!UICONTROL Microsoft is Deleted]</td>
       <td>此人之前在Microsoft但遭到刪除，現在僅居住在Marketo</td>
     </tr>
   </tbody>

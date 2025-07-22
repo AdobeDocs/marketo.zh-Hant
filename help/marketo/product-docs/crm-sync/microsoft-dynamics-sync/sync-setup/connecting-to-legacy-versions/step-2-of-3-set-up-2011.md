@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571807
-description: 步驟3之2 — 在Dynamics中設定Marketo同步使用者（2011內部部署） - Marketo檔案 — 產品檔案
-title: 步驟3之2 — 在Dynamics中設定Marketo同步使用者（2011內部部署）
+description: 步驟3之2 — 在 [!DNL Dynamics] 中設定Marketo同步使用者（2011年內部部署） - Marketo檔案 — 產品檔案
+title: 步驟3之2 — 在 [!DNL Dynamics] 中設定Marketo同步使用者（2011內部部署）
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '345'
 ht-degree: 1%
 
 ---
 
-# 步驟3之2：在Dynamics中設定Marketo同步使用者（2011內部部署） {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
+# 步驟2之3：在[!DNL Dynamics]中設定Marketo同步使用者（2011內部部署） {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
 
 完成先前步驟的偉大工作，讓我們繼續探討這個問題。
 
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->這適用於Marketo外掛程式版本4.0.0.14和更新版本。 對於舊版，所有使用者都必須擁有同步使用者角色。 若要升級Marketo，請參閱[升級Microsoft Dynamics的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}。
+>這適用於Marketo外掛程式版本4.0.0.14和更新版本。 對於舊版，所有使用者都必須擁有同步使用者角色。 若要升級Marketo，請參閱[升級 [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)的Marketo解決方案。
 
 >[!IMPORTANT]
 >
@@ -43,7 +43,7 @@ ht-degree: 1%
 
    ![](assets/image2015-4-2-14-3a4-3a37.png)
 
-1. 您將會在這裡看到使用者清單。 選取您的專用Marketo同步使用者，或連絡您的[Active Directory Federation Services (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"}系統管理員，以建立專用於Marketo的新使用者。 按一下「**[!UICONTROL Manage Roles]**」。
+1. 您將會在這裡看到使用者清單。 選取您的專用Marketo同步使用者，或連絡您的[Active Directory Federation Services (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx)系統管理員，以建立專用於Marketo的新使用者。 按一下「**[!UICONTROL Manage Roles]**」。
 
    ![](assets/image2015-4-2-14-3a11-3a7.png)
 
@@ -53,7 +53,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >如果您沒有看到角色，請返回3[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"}的步驟1並匯入解決方案。
+   >如果您沒有看到角色，請返回3[的](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"}步驟1並匯入解決方案。
 
    >[!NOTE]
    >
@@ -69,7 +69,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >如果缺少Marketo設定，請嘗試重新整理頁面。 如果問題持續發生，[請再次發佈Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"}或登出並重新登入。
+   >如果缺少[!UICONTROL Marketo Config]，請嘗試重新整理頁面。 如果問題持續發生，[請再次發佈Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)或登出並重新登入。
 
 1. 按一下「**[!UICONTROL Default]**」。
 
@@ -93,12 +93,12 @@ ht-degree: 1%
 
 ## 繼續進行步驟3之前 {#before-proceeding-to-step}
 
-* 若要限制同步處理的記錄數目，請立即[設定自訂同步處理篩選器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"}。
-* 執行[驗證Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}程式。 它可驗證您的初始設定是否正確完成。
-* 在Microsoft Dynamics CRM中登入Marketo Sync User 。
-
-  做得好！
+    *如果您想要限制同步處理的記錄數目，請立即[設定自訂同步篩選器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)。
+    *執行[Validate [!DNL Microsoft Dynamics] Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)程式。 它可驗證您的初始設定是否正確完成。
+    *登入 [!DNL Microsoft Dynamics] CRM.
+中的Marketo Sync User
+做得好！
 
 >[!MORELIKETHIS]
 >
->[步驟3之3：連線Microsoft Dynamics與Marketo （2011年內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md){target="_blank"}
+>[步驟3之3：連線 [!DNL Microsoft Dynamics] 與Marketo （2011內部部署）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)

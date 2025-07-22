@@ -4,9 +4,9 @@ description: 在撰寫視窗中使用範本 — Marketo檔案 — 產品檔案
 title: 在撰寫視窗中使用範本
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## 尋找及使用範本 {#finding-and-using-templates}
 
-1. 建立您的電子郵件草稿（有多種方式可以達成此目的，在此範例中，我們在標題中選擇&#x200B;**撰寫**）。
+1. 建立您的電子郵件草稿（有多種方法可這麼做，在此範例中，我們在標題中選擇&#x200B;**[!UICONTROL Compose]**）。
 
    ![](assets/one-6.png)
 
-1. 填入「收件者」欄位。
+1. 填入[!UICONTROL To]欄位。
 
    ![](assets/searching-two.png)
 
@@ -43,19 +43,19 @@ ht-degree: 0%
 
 最愛&#x200B;**最多5個**&#x200B;特定範本類別，以快速存取您最常用的範本。
 
-1. 建立您的電子郵件草稿（有多種方式可以達成此目的，在此範例中，我們在標題中選擇&#x200B;**撰寫**）。
+1. 建立您的電子郵件草稿（有多種方法可這麼做，在此範例中，我們在標題中選擇&#x200B;**[!UICONTROL Compose]**）。
 
    ![](assets/one-6.png)
 
-1. 按一下我的最愛旁的&#x200B;**+**&#x200B;圖示。
+1. 按一下&#x200B;**旁的**+[!UICONTROL Favorites]圖示。
 
    ![](assets/pinning-two.png)
 
-1. 按一下&#x200B;**釘選類別**&#x200B;下拉式清單，然後選取您想要的類別。
+1. 按一下&#x200B;**[!UICONTROL Pin a Category]**&#x200B;下拉式清單，然後選取您想要的類別。
 
    ![](assets/pinning-three.png)
 
-1. 完成時，按一下&#x200B;**儲存變更** （選用：重複步驟3以新增更多）。
+1. 完成時按一下&#x200B;**[!UICONTROL Save Changes]** （選用：重複步驟3以新增更多）。
 
    ![](assets/pinning-four.png)
 
@@ -67,6 +67,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**我的最愛**&#x200B;預設存在。 其中會包含最愛的電子郵件範本，而非類別。
+   >**[!UICONTROL Favorites]**&#x200B;預設存在。 其中會包含最愛的電子郵件範本，而非類別。
 
    現在已釘選您選取的類別。

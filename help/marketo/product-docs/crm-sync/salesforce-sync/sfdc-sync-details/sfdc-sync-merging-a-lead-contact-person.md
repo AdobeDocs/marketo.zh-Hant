@@ -1,22 +1,22 @@
 ---
 unique-page-id: 7515133
-description: SFDC Sync — 合併銷售機會/聯絡人/人員 — Marketo檔案 — 產品檔案
-title: SFDC Sync — 合併銷售機會/聯絡人/人員
+description: SFDC同步 — 合併銷售機會/聯絡人/人員 — Marketo檔案 — 產品檔案
+title: SFDC同步 — 合併銷售機會/聯絡人/人員
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-# SFDC同步：合併銷售機會/連絡人/人員 {#sfdc-sync-merging-a-lead-contact-person}
+# SFDC同步：合併銷售機會/聯絡人/人員 {#sfdc-sync-merging-a-lead-contact-person}
 
 有時最好只列出規則。 開始吧：
 
-* 當您在&#x200B;**Salesforce**&#x200B;中合併兩個銷售機會時，一般的同步處理會告訴Marketo Engage，並且這些銷售機會會自動合併為Marketo中的人員。
-* 在&#x200B;**Marketo**&#x200B;中合併兩個人實際上會叫用與在Salesforce中合併他們相同的程式。 仍可自動運作。
+* 當您在&#x200B;**[!DNL Salesforce]**&#x200B;中合併兩個銷售機會時，一般的同步會告知Marketo，而銷售機會會自動合併為Marketo中的人員。
+* 在&#x200B;**Marketo**&#x200B;中合併兩個人實際上會叫用與在[!DNL Salesforce]中合併潛在客戶相同的程式。 仍可自動運作。
 * 將&#x200B;**銷售機會（人員）合併至連絡人**&#x200B;的工作方式相同。 最後兩邊只有一個接觸點。
 * 合併時，會加總預設分數。
 

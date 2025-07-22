@@ -4,9 +4,9 @@ description: 程式成員自訂欄位權杖 — Marketo檔案 — 產品檔案
 title: 方案成員自訂欄位權杖
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ PMCF權杖將在權杖系列的成員網域下受到支援。
 
 **電子郵件**
 
-1. 選取想要的電子郵件，然後按一下&#x200B;**[!UICONTROL 編輯草稿]**。
+1. 選取所需的電子郵件，然後按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -41,11 +41,11 @@ PMCF權杖將在權杖系列的成員網域下受到支援。
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. 尋找並選取所需的程式成員自訂欄位權杖，輸入預設值，然後按一下&#x200B;**[!UICONTROL 插入]**。
+1. 尋找並選取所需的程式成員自訂欄位權杖，輸入預設值，然後按一下&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -55,7 +55,7 @@ PMCF權杖將在權杖系列的成員網域下受到支援。
 
 **登陸頁面**
 
-1. 選取您的登入頁面，然後按一下&#x200B;**[!UICONTROL 編輯草稿]**。
+1. 選取您的登陸頁面，然後按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,17 +75,17 @@ PMCF權杖將在權杖系列的成員網域下受到支援。
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. 輸入預設值並按一下&#x200B;**[!UICONTROL 插入]**。
+1. 輸入預設值並按一下&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
 **簡訊**
 
-1. 選取想要的SMS並按一下&#x200B;**[!UICONTROL 編輯草稿]**。
+1. 選取想要的SMS並按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
@@ -93,21 +93,21 @@ PMCF權杖將在權杖系列的成員網域下受到支援。
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. 尋找並選取所需的程式成員自訂欄位權杖。 輸入預設值，然後按一下「插入」。
+1. 尋找並選取所需的程式成員自訂欄位權杖。 輸入[!UICONTROL default value]並按一下&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. 按一下「簡訊動作」下拉式清單，然後選取&#x200B;**[!UICONTROL 核准並關閉]**。
+1. 按一下SMS動作下拉式清單，然後選取&#x200B;**[!UICONTROL Approve & Close]**。
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
 **推播通知**
 
-1. 選取想要的推播通知，然後按一下&#x200B;**[!UICONTROL 編輯草稿]**。
+1. 選取想要的推播通知，然後按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. 按一下&#x200B;**[!UICONTROL 推播通知]**。
+1. 按一下「**[!UICONTROL Push Notification]**」。
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
@@ -115,11 +115,11 @@ PMCF權杖將在權杖系列的成員網域下受到支援。
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. 尋找並選取所需的程式成員自訂欄位權杖。 輸入預設值，然後按一下&#x200B;**[!UICONTROL 插入]**。
+1. 尋找並選取所需的程式成員自訂欄位權杖。 輸入預設值並按一下&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. 按一下&#x200B;**[!UICONTROL 完成]**&#x200B;以儲存並結束（或按一下&#x200B;**[!UICONTROL 下一步]**&#x200B;以先檢閱）。
+1. 按一下&#x200B;**[!UICONTROL Finish]**&#x200B;儲存並結束（或按一下&#x200B;**[!UICONTROL Next]**&#x200B;先檢閱）。
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

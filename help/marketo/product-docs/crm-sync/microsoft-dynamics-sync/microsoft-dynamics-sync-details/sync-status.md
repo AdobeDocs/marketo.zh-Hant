@@ -4,24 +4,24 @@ description: 同步狀態 — Marketo檔案 — 產品檔案
 title: 同步狀態
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
 # 同步狀態 {#sync-status}
 
-您可以在[同步狀態]和[同步錯誤]索引標籤上記錄同步處理程式的目前輸送量和待處理專案。
+您可以在[!UICONTROL Sync Status]和[!UICONTROL Sync Errors]索引標籤上持續關注同步處理程式的目前輸送量和待處理專案。
 
-## 同步狀態標籤 {#sync-status-tab}
+## [!UICONTROL Sync Status]索引標籤 {#sync-status-tab}
 
-1. 按一下&#x200B;**[!UICONTROL 管理員]**，然後按一下&#x200B;**[!UICONTROL Microsoft Dynamics]**。
+1. 按一下&#x200B;**[!UICONTROL Admin]**&#x200B;和&#x200B;**[!UICONTROL Microsoft Dynamics]**。
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. 按一下&#x200B;**[!UICONTROL 同步處理狀態]**&#x200B;索引標籤。
+1. 按一下「**[!UICONTROL Sync Status]**」標籤。
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. 按一下&#x200B;**[!UICONTROL 檢視]**&#x200B;下拉式清單，並選取&#x200B;**[!UICONTROL 上一小時]**&#x200B;以檢視輸送量資訊。
+1. 按一下&#x200B;**[!UICONTROL View]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Last Hour]**&#x200B;以檢視輸送量資訊。
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -45,9 +45,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >當您檢視「最後一小時」檢視時，「插入」和「更新」欄會顯示N/A。這是預期行為。
+   >當您檢視[!UICONTROL Last Hour]檢視時，[!UICONTROL Inserts]和[!UICONTROL Updates]欄顯示不適用。這是預期行為。
 
-## 同步錯誤標籤 {#sync-errors-tab}
+## [!UICONTROL Sync Errors]索引標籤 {#sync-errors-tab}
 
 瀏覽、搜尋或匯出無法與操作、方向、錯誤代碼和錯誤訊息等詳細資訊同步化的潛在客戶（和其他物件）。
 

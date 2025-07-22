@@ -4,18 +4,18 @@ description: 新增內容 — Marketo檔案 — 產品檔案
 title: 新增內容
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 0%
+source-wordcount: '77'
+ht-degree: 1%
 
 ---
 
 # 新增內容 {#add-new-content}
 
-您可以輕鬆地將內容手動新增至「所有內容」頁面。
+您可以輕鬆地手動新增內容至[!UICONTROL All Content]頁面。
 
-1. 按一下&#x200B;**新增內容**&#x200B;下拉式清單，然後選取&#x200B;**新增內容**。
+1. 按一下&#x200B;**[!UICONTROL Add Content]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Add Content]**。
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. 按一下&#x200B;**新增**。
+1. 按一下「**[!UICONTROL Add]**」。
 
    ![](assets/all-content-add-hand.png)
 
-1. 新標題現在會顯示在&#x200B;**所有內容**&#x200B;頁面上。 請注意，尚未核准預測性內容。
+1. 新標題現在會顯示在&#x200B;**[!UICONTROL All Content]**&#x200B;頁面上。 請注意，尚未核准預測性內容。
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 

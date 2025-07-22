@@ -4,9 +4,9 @@ description: 使用靜態清單建立區段 — Marketo檔案 — 產品檔案
 title: 使用靜態清單建立區段
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 根據已知的Web訪客是否在Marketo [靜態清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)中，在訪客造訪您的網站時劃分已知的Web訪客。
 
-1. 移至&#x200B;**區段**。
+1. 移至&#x200B;**[!UICONTROL Segments]**。
 
    ![](assets/1.jpg)
 
-1. 按一下&#x200B;**新建**。
+1. 按一下「**[!UICONTROL Create New]**」。
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 在已知的銷售機會中，將&#x200B;**靜態清單**&#x200B;拖曳到畫布上。
+1. 在已知銷售機會中，將&#x200B;**[!UICONTROL Static Lists]**&#x200B;拖曳到畫布上。
 
    ![](assets/four-2.png)
 
-1. 按一下下拉式清單以選取&#x200B;**是**&#x200B;或&#x200B;**不是** （視您想要的而定），然後輸入靜態清單的名稱。
+1. 按一下下拉式清單以選取&#x200B;**[!UICONTROL is]**&#x200B;或&#x200B;**[!UICONTROL is not]** （視您想要而定），然後輸入靜態清單的名稱。
 
    ![](assets/five-2.png)
 
@@ -45,8 +45,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >和/或下拉式清單正是如此。 按一下以選取&#x200B;**與**、**或**，或&#x200B;**與/或**。
+   >和/或下拉式清單正是如此。 按一下以選取&#x200B;**[!UICONTROL and]**、**[!UICONTROL or]**&#x200B;或&#x200B;**[!UICONTROL and/or]**。
 
-1. 按一下「**儲存**」以儲存區段，或按一下「**儲存並定義行銷活動**」以儲存並移至「行銷活動」頁面。
+1. 按一下&#x200B;**[!UICONTROL Save]**&#x200B;儲存區段，或按一下&#x200B;**[!UICONTROL Save & Define Campaign]**&#x200B;儲存並移至[!UICONTROL Campaigns]頁面。
 
    ![](assets/eight-1.png)

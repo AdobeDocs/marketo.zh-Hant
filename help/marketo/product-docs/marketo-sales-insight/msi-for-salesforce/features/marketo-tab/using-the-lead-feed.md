@@ -4,16 +4,16 @@ description: 使用銷售機會摘要 — Marketo檔案 — 產品檔案
 title: 使用潛在客戶摘要
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 0%
+source-wordcount: '328'
+ht-degree: 1%
 
 ---
 
 # 使用潛在客戶摘要 {#using-the-lead-feed}
 
-潛在客戶摘要是潛在客戶所進行有趣事件的最新清單。 按一下Marketo標籤後，您會在右側找到它。 這類似於RSS或Twitter摘要 — 最新的更新位於清單頂端。 趁您還記憶猶新，使用此功能快速瀏覽潛在客戶。
+潛在客戶摘要是潛在客戶所進行有趣事件的最新清單。 按一下Marketo標籤後，您會在右側找到它。 這類似於RSS或[!DNL Twitter]摘要 — 最近的更新在清單頂端。 趁您還記憶猶新，使用此功能快速瀏覽潛在客戶。
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 潛在客戶摘要中的每個專案都是一個有趣的時刻 — 這是此潛在客戶行銷記錄中值得注意的活動或事件。
 
-在Salesforce中檢視時，每個專案都會：
+在[!DNL Salesforce]中檢視時，每個專案都有：
 
 ![](assets/using-the-lead-feed-2.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><p>專案</p></td> 
+   <td><p>項目</p></td> 
    <td><p>說明</p></td> 
   </tr> 
   <tr> 
@@ -72,7 +72,7 @@ ht-degree: 0%
 
 ## 取得RSS更新 {#getting-rss-updates}
 
-您也可以透過RSS摘要取得銷售機會摘要更新。  RSS摘要可讓您在銷售機會上接收更新，即使您未連線至Salesforce。 摘要的資訊與Salesforce中的潛在客戶摘要相同，而且有以下資訊（如果有的話）：
+您也可以透過RSS摘要取得銷售機會摘要更新。  RSS摘要可讓您在銷售機會上接收更新，即使您未連線到[!DNL Salesforce]。 摘要的資訊與[!DNL Salesforce]中的潛在客戶摘要相同，而且有以下資訊（如果有的話）：
 
 * 電子郵件地址
 * 電話號碼

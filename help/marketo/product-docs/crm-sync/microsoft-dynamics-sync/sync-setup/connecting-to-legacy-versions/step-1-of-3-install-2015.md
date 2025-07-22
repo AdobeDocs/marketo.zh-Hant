@@ -4,16 +4,16 @@ description: 安裝適用於Microsoft Dynamics 2015的Marketo內部部署步驟1
 title: 安裝適用於Microsoft Dynamics 2015內部部署的Marketo步驟3之1
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '261'
 ht-degree: 1%
 
 ---
 
 # 步驟3之1：設定Marketo的同步使用者（2015年內部部署） {#step-of-configure-sync-user-for-marketo-on-premises-2015}
 
-您必須先在Dynamics中安裝Microsoft Dynamics 2015內部部署Marketo解決方案，才能與Marketo Engage同步。
+您必須先在[!DNL Microsoft Dynamics]中安裝Marketo解決方案，才能與Marketo同步[!DNL Dynamics] 2015內部部署。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->如果您使用Microsoft Dynamics內部部署，則必須設定[網際網路對向部署](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD)及[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS)。 附註：當您按一下連結時，IFD檔案會自動下載。
+>如果您使用[!DNL Microsoft Dynamics]內部部署，則必須設定[網際網路對向部署](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD)及[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS)。 附註：當您按一下連結時，IFD檔案會自動下載。
 >
 >開始之前[請下載Marketo銷售機會管理解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}。
 
@@ -31,7 +31,7 @@ ht-degree: 1%
 >
 >您需要CRM系統管理員許可權才能執行此同步處理。
 
-1. 登入Dynamics。 按一下&#x200B;**[!UICONTROL Microsoft Dynamics CRM]**&#x200B;下拉式功能表並選取&#x200B;**[!UICONTROL Settings]**。
+1. 登入&#x200B;**[!DNL Dynamics]。**&#x200B;按一下&#x200B;**[!UICONTROL Microsoft Dynamics CRM]**&#x200B;下拉式功能表並選取&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/image2015-3-19-8-33-29.png)
 
@@ -47,7 +47,7 @@ ht-degree: 1%
 
    ![](assets/image2015-3-19-9-20-56.png)
 
-1. 檢視方案資訊並按一下&#x200B;**[!UICONTROL View solution package details]**。
+1. 檢視[!UICONTROL Solution Information]並按一下&#x200B;**[!UICONTROL View solution package details]**。
 
    ![](assets/image2015-11-18-11-12-8.png)
 
@@ -55,7 +55,7 @@ ht-degree: 1%
 
    ![](assets/step6.png)
 
-1. 返回[方案資訊]頁面，按一下&#x200B;**[!UICONTROL Next]**。
+1. 返回[!UICONTROL Solution Information]頁面，按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/image2015-3-19-9-21-50.png)
 
@@ -95,4 +95,4 @@ ht-degree: 1%
 
    >[!MORELIKETHIS]
    >
-   >[安裝適用於Microsoft Dynamics 2015內部部署的Marketo步驟2 （共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md){target="_blank"}
+   >[為 [!DNL Microsoft Dynamics] 2015內部部署第2步（共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)安裝Marketo

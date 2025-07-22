@@ -1,39 +1,39 @@
 ---
 unique-page-id: 14352477
-description: 推送至Sales Connect - Marketo檔案 — 產品檔案
-title: 推送至Sales Connect
+description: 推送至 [!DNL Sales Connect] - Marketo檔案 — 產品檔案
+title: 推送至 [!DNL Sales Connect]
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 0%
+source-wordcount: '146'
+ht-degree: 2%
 
 ---
 
-# 推送至Sales Connect {#push-to-sales-connect}
+# 推送到[!DNL Sales Connect] {#push-to-sales-connect}
 
-我們的Push to Tout按鈕將取得您在Salesforce中的銷售機會/聯絡人清單，並將他們推送到Sales Connect中的群組。 接著，您就可以快速傳送附有Tout追蹤的可自訂群組電子郵件。
+我們的「[!UICONTROL Push to Tout]」按鈕將取得您在[!DNL Salesforce]中的銷售機會/聯絡人清單，並將他們推送到[!DNL Sales Connect]中的群組中。 接著，您就可以快速傳送附有Tout追蹤的可自訂群組電子郵件。
 
 ## 需求 {#requirements}
 
-* 由Salesforce管理員安裝的Sales Connect Salesforce套件
+* 由[!DNL Sales Connect Salesforce]管理員安裝的[!DNL Salesforce]套件
 
-* 推播至Sales Connect按鈕已安裝，以由Salesforce管理員列出檢視
+* 已安裝[!UICONTROL Push to Sales Connect]按鈕以列出由[!DNL Salesforce]管理員檢視
 
-* 使用Sales Connect建立的Salesforce連線，以供進行推播的使用者使用
+* 已針對進行推播的使用者與[!DNL Salesforce]建立[!DNL Sales Connect]連線
 
 ## 操作說明 {#how-to}
 
-1. 按一下Salesforce中的&#x200B;**銷售機會/連絡人**&#x200B;標籤。
-1. 切換至[執行]按鈕旁的[清單檢視]，以便推送至Sales Connect。
-1. 按一下&#x200B;**執行**。
+1. 按一下&#x200B;**[!UICONTROL Lead/Contact]**&#x200B;中的[!DNL Salesforce]索引標籤。
+1. 切換至[!DNL Sales Connect]按鈕旁的清單檢視，您要推送至[!UICONTROL Go]。
+1. 按一下「**[!UICONTROL Go]**」。
 1. 選取您要推播到推播的所有潛在客戶/連絡人。
-1. 選取&#x200B;**推送至MSE**。
-1. 隨後會出現新視窗，驗證您要推播的潛在客戶/聯絡人數量。 選取&#x200B;**繼續前往群組**。 Sales Connect不會推播任何在Salesforce中標示為「電子郵件選擇退出」或在Sales Connect中標示為「已取消訂閱」的連絡人。
+1. 選擇「**[!UICONTROL Push to MSE]**」。
+1. 隨後會出現新視窗，驗證您要推播的潛在客戶/聯絡人數量。 選擇「**[!UICONTROL Proceed to Group]**」。[!DNL Sales Connect]不會推播任何在[!UICONTROL Email Opt Out]中標示為[!DNL Salesforce]或在[!UICONTROL Unsubscribed]中標示為[!DNL Sales Connect]的連絡人。
 
    >[!NOTE]
    >
-   >Sales Connect會將此標題為「SFDC-...」的群組新增至[網頁應用程式](https://toutapp.com/login)上的[關係]頁面。
+   >[!DNL Sales Connect]會將此標題為「SFDC-...」的群組新增至[網頁應用程式](https://toutapp.com/login)上的[關係]頁面。
 
-1. 選取&#x200B;**傳送電子郵件給整個群組**&#x200B;以寄出此群組電子郵件。
+1. 選取&#x200B;**[!UICONTROL Email Entire Group]**&#x200B;以寄出此群組電子郵件。

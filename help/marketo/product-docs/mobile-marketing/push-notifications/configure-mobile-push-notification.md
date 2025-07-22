@@ -4,20 +4,20 @@ description: 設定行動推播通知 — Marketo檔案 — 產品檔案
 title: 設定行動推播通知
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 7007c9f61bac2d5b860e166f285c87f565683933
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
 
 # 設定行動推播通知 {#configure-mobile-push-notification}
 
-1. 前往&#x200B;**行銷活動**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
 
    ![](assets/configure-mobile-push-notification-1.png)
 
-1. 選取您的推播資產，然後按一下&#x200B;**編輯草稿**。
+1. 選取您的推送資產，然後按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/configure-mobile-push-notification-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >如果您的推送訊息僅套用至一個平台(例如iOS)，您可以手動將其選取器滑動至「**已停用**」以排除另一個平台。
 
-1. 按一下&#x200B;**下一步**。
+1. 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/configure-mobile-push-notification-4.png)
 
@@ -43,13 +43,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >有三種型別的點選動作：
+   >有三種型別的[!UICONTROL Tap Actions]：
    >
    >**啟動應用程式** - **此應用程式**&#x200B;會在您點選通知時開啟應用程式的首頁。 **自訂**&#x200B;會使用深層連結來開啟您應用程式的其他區域或您有連結的任何其他應用程式（如需詳細資訊，請參閱下方的[深層連結URI](#deep-link-uris)）。
    >
-   >**登陸頁面** — 將您導向至指定的Marketo登陸頁面。
+   >**[!UICONTROL Landing Page]** — 將您導向至指定的Marketo登陸頁面。
    >
-   >**外部URL** — 將您帶往非Marketo登陸頁面。
+   >**[!UICONTROL External URL]** — 將您帶往非Marketo登陸頁面。
 
 1. 若要插入自訂點選動作的深層連結，請選取&#x200B;**自訂**，然後在欄位中輸入[深層連結URI](#deep-link-uris)。
 
@@ -63,11 +63,11 @@ ht-degree: 0%
 
    ![](assets/configure-mobile-push-notification-7.png)
 
-1. 預覽其他平台並按一下&#x200B;**完成**。
+1. 預覽其他平台並按一下&#x200B;**[!UICONTROL Finish]**。
 
    ![](assets/configure-mobile-push-notification-8.png)
 
-1. 按一下&#x200B;**核准並關閉**。
+1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    ![](assets/configure-mobile-push-notification-9.png)
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-也就是說，您應用程式的深層連結結構可能與上述範例不同。 您的開發人員在定義深層連結URI時有許多選項，因此請要求您的開發人員將您有意使用的頁面的URI （連結）傳送給您。 這可確保您在推送訊息中輸入的URI會指向正確的位置。 您的開發人員可以[在這裡找到更多資訊](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)。
+也就是說，您應用程式的深層連結結構可能與上述範例不同。 您的開發人員在定義深層連結URI時有許多選項，因此請要求您的開發人員將您有意使用的頁面的URI （連結）傳送給您。 這可確保您在推送訊息中輸入的URI會指向正確的位置。 您的開發人員可以[在這裡找到更多資訊](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)。
 
 >[!MORELIKETHIS]
 >

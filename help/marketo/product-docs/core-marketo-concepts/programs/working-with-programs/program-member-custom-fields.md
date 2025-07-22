@@ -4,9 +4,9 @@ description: 程式成員自訂欄位 — Marketo檔案 — 產品檔案
 title: 方案成員自訂欄位
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '403'
 ht-degree: 1%
 
 ---
@@ -17,33 +17,33 @@ ht-degree: 1%
 
 ## 建立方案成員自訂欄位 {#create-a-program-member-custom-field}
 
-1. 在Marketo中，按一下&#x200B;**[!UICONTROL 管理員]**。
+1. 在Marketo中，按一下&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/one.png)
 
-1. 按一下&#x200B;**[!UICONTROL 欄位管理]**。
+1. 按一下「**[!UICONTROL Field Management]**」。
 
    ![](assets/two.png)
 
-1. 按一下&#x200B;**[!UICONTROL 新增自訂欄位]**。
+1. 按一下「**[!UICONTROL New Custom Field]**」。
 
    ![](assets/three.png)
 
-1. 按一下「物件」下拉式清單，然後選取所需的物件。
+1. 按一下&#x200B;**[!UICONTROL Object]**&#x200B;下拉式清單，然後選取所要的物件。
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >「人員」和「方案成員」自訂欄位不能共用相同的名稱。
+   >[!UICONTROL Person]和[!UICONTROL Program Member]自訂欄位無法共用相同的名稱。
 
-1. 填寫其餘欄位，然後按一下[建立]。**&#x200B;**
+1. 填寫其餘欄位並按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >程式成員自訂欄位支援的型別為：布林值、日期、日期時間、浮點數、整數、字串、URL。 [進一步瞭解欄位型別](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}。
+   >[!UICONTROL Program Member]自訂欄位支援的型別為：布林值、日期、日期時間、浮點數、整數、字串、URL。 [進一步瞭解欄位型別](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}。
 
 ## 物件說明 {#object-descriptions}
 

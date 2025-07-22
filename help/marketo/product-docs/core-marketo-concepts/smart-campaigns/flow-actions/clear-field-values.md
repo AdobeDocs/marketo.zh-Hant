@@ -4,9 +4,9 @@ description: 清除欄位值 — Marketo檔案 — 產品檔案
 title: 清除欄位值
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 [變更資料值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)很好，但您如何&#x200B;_完全移除_&#x200B;值？ 好問題！
 
-1. 在流程步驟中，選擇要清除的欄位，並輸入&#x200B;**NULL** （全部大寫）作為&#x200B;**新值**。
+1. 在流程步驟中，選擇要清除的欄位，並輸入&#x200B;**[!UICONTROL NULL]** （全部大寫）作為&#x200B;**[!UICONTROL New Value]**。
 
    ![](assets/clear-field-values-1.png)
 

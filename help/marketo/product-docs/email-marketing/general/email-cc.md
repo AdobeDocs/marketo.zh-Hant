@@ -4,9 +4,9 @@ description: 電子郵件副本 — Marketo檔案 — 產品檔案
 title: 電子郵件副本
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 電子郵件副本可允許透過Marketo傳送的指定電子郵件包含副本收件人。
 
-此功能適用於所有Marketo電子郵件資產，無論電子郵件的傳送方式（批次或觸發行銷活動）為何。 副本抄送收件者將收到寄給選定Marketo人員之電子郵件的完整副本。 因此，任何參與活動（開啟、點按等）都會記錄到電子郵件「收件者」行中Marketo人員的活動記錄。 但是，「軟退信」以外的傳遞活動（已傳送、已傳遞、硬退信等）_將&#x200B;**不會**&#x200B;註冊，因為Marketo無法區分「Marketo人員」的傳遞事件和「副本抄送收件者」。_ Marketo一次最多只能副本10萬人。 如果您的智慧清單超過100,000且清單上的每個人都必須收到副本，我們建議您分拆清單。
+此功能適用於所有Marketo電子郵件資產，無論電子郵件的傳送方式（批次或觸發行銷活動）為何。 副本抄送收件者將收到寄給選定Marketo人員之電子郵件的完整副本。 因此，任何參與活動（開啟、點按等）都會記錄到電子郵件「收件者」行中Marketo人員的活動記錄。 但是，「軟退信」以外的傳遞活動（已傳送、已傳遞、硬退信等）_將_&#x200B;不會&#x200B;**註冊，因為Marketo無法區分「Marketo人員」的傳遞事件和「副本抄送收件者」。** Marketo一次最多只能副本10萬人。 如果您的智慧清單超過100,000且清單上的每個人都必須收到副本，我們建議您分拆清單。
 
 >[!NOTE]
 >
@@ -23,15 +23,15 @@ ht-degree: 0%
 
 ## 設定電子郵件副本 {#set-up-email-cc}
 
-1. 在「我的Marketo」中，按一下&#x200B;**管理員**。
+1. 在「我的Marketo」中，按一下&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/one.png)
 
-1. 在樹狀結構中，選取&#x200B;**電子郵件**。
+1. 在樹狀結構中，選取&#x200B;**[!UICONTROL Email]**。
 
    ![](assets/two.png)
 
-1. 按一下&#x200B;**編輯電子郵件副本設定**。
+1. 按一下「**[!UICONTROL Edit Email CC Settings]**」。
 
    ![](assets/three.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 ## 使用電子郵件副本 {#using-email-cc}
 
-1. 選取您的電子郵件並按一下&#x200B;**編輯草稿**。
+1. 選取您的電子郵件並按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/five.png)
 
-1. 按一下&#x200B;**電子郵件設定**。
+1. 按一下「**[!UICONTROL Email Settings]**」。
 
    ![](assets/six.png)
 

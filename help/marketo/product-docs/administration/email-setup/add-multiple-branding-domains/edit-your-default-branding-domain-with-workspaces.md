@@ -4,38 +4,38 @@ description: 使用工作區編輯您的預設品牌化網域 — Marketo檔案 
 title: 使用工作區編輯您的預設品牌化網域
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '145'
 ht-degree: 1%
 
 ---
 
 # 使用工作區編輯您的預設品牌化網域 {#edit-your-default-branding-domain-with-workspaces}
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 電子郵件]**。
+1. 按一下「**[!UICONTROL Email]**」。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
-1. 在「品牌領域」表格中，選取目前的一般領域，然後按一下「編輯」將其變更為您公司的品牌領域。
+1. 在[!UICONTROL Branding Domains]表格中，選取目前的一般網域，然後按一下&#x200B;**[!UICONTROL Edit]**&#x200B;以將其變更為您公司的品牌網域。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 
    >[!NOTE]
    >
-   >在您編輯一般網域之前，**[!UICONTROL 新增]**&#x200B;無法運作。 在您新增第二個網域之前，**[!UICONTROL 刪除]**&#x200B;無法運作。
+   >在您編輯一般網域之前，**[!UICONTROL Add]**&#x200B;無法運作。 在您新增第二個網域之前，**[!UICONTROL Delete]**&#x200B;無法運作。
    >
    >您必須先編輯一般領域，才能新增其他領域。
 
-1. 輸入預設網域的名稱，然後按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 輸入預設網域的名稱，然後按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-4.png)
 
-1. 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-5.png)
 

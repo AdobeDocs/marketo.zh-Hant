@@ -4,10 +4,10 @@ description: 編輯表單主題的CSS - Marketo檔案 — 產品檔案
 title: 編輯表單主題的CSS
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 1%
+source-wordcount: '166'
+ht-degree: 0%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 1%
 >
 >如果您想要嘗試此動作，請務必知道CSS，因為Marketo支援未設定為協助自訂編碼。 此外，所做的任何變更只會套用至您目前編輯的表單。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-5.png)
 
-1. 選取您的表單並按一下&#x200B;**編輯表單**。
+1. 選取您的表單並按一下&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. 移至&#x200B;**表單設定**。
+1. 移至&#x200B;**[!UICONTROL Form Settings]**。
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-14-3a37-3a54.png)
 
-1. 在齒輪圖示下，按一下&#x200B;**檢視主題CSS**。
+1. 在齒輪圖示下，按一下&#x200B;**[!UICONTROL View Theme CSS]**。
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
@@ -43,11 +43,11 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
-1. 按一下 **關閉**。
+1. 按一下「**[!UICONTROL Close]**」。
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. 在齒輪圖示下，按一下&#x200B;**編輯自訂CSS**。
+1. 在齒輪圖示下，按一下&#x200B;**[!UICONTROL Edit Custom CSS]**。
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
@@ -55,11 +55,11 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-14-3a39-3a21.png)
 
-1. 完成時，按一下&#x200B;**儲存**。
+1. 完成後，按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. 若要檢視您的自訂表格，請按一下&#x200B;**預覽草稿**。
+1. 若要檢視自訂表格，請按一下&#x200B;**[!UICONTROL Preview Draft]**。
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 

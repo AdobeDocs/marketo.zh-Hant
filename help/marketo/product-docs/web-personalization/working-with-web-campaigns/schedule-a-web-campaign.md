@@ -4,9 +4,9 @@ description: 排程網站行銷活動 — Marketo檔案 — 產品檔案
 title: 排程網站行銷活動
 exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >對於在特定期間執行的已排程事件（例如網路研討會），排程開始和停止日期是最佳選擇。 重複是每週只在特定天執行的特殊優惠的完美選擇。
 
-1. 前往&#x200B;**網路行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-16-3a38-3a47.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >若要更輕鬆地尋找您想要的行銷活動，請使用[篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
-1. 開啟[促銷活動狀態]功能表，然後選取&#x200B;**排程**。
+1. 開啟[促銷活動狀態]功能表，然後選取&#x200B;**[!UICONTROL Schedule]**。
 
    ![](assets/image2016-8-18-16-3a41-3a45.png)
 
@@ -51,18 +51,18 @@ ht-degree: 0%
    >
    >您可以從下拉式選單和行事曆中選取日期和時間，或手動輸入。 時間為上午/下午12小時。
 
-1. 根據預設，從開始日期到結束日期期間，行銷活動每天都會執行。 如果您只想在特定日期或特定時間執行行銷活動，請使用&#x200B;**重複**&#x200B;設定。 選取日、開始和結束時間以顯示行銷活動。 使用加號+新增額外天數。
+1. 根據預設，從開始日期到結束日期期間，行銷活動每天都會執行。 如果您只想在特定日期或特定時間執行行銷活動，請使用&#x200B;**[!UICONTROL Repeat]**&#x200B;設定。 選取日、開始和結束時間以顯示行銷活動。 使用加號+新增額外天數。
 
    ![](assets/image2016-1-14-8-3a19-3a37.png)
 
-1. 按一下&#x200B;**排程**。
+1. 按一下「**[!UICONTROL Schedule]**」。
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. 行銷活動頁面上的行銷活動狀態變更為&#x200B;**已排程**，且時鐘/行事曆圖示顯示。 按一下此圖示可編輯行銷活動排程。
+1. 行銷活動頁面上的行銷活動狀態變更為&#x200B;**[!UICONTROL Scheduled]**，且時鐘/行事曆圖示顯示。 按一下此圖示可編輯行銷活動排程。
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
-   >即使行銷活動在選取的排程時間執行，行銷活動狀態仍維持為&#x200B;**已排程**。 排定的結束日期過後，行銷活動狀態會變更為&#x200B;**已暫停**。
+   >即使行銷活動在選取的排程時間執行，行銷活動狀態仍為&#x200B;**[!UICONTROL Scheduled]**。 排定的結束日期過後，行銷活動狀態會變更為&#x200B;**[!UICONTROL Paused]**。

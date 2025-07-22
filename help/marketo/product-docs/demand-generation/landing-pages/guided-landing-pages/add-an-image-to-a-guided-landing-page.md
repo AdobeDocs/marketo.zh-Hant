@@ -4,9 +4,9 @@ description: 新增影像至引導式登陸頁面 — Marketo檔案 — 產品�
 title: 新增影像至引導式登陸頁面
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 與自由格式的登陸頁面不同，引導式登陸頁面有預先定義的鎖定空間，您可在此新增影像。
 
-1. 選取引導式登陸頁面。 按一下&#x200B;**編輯草稿**。
+1. 選取引導式登陸頁面。 按一下「**[!UICONTROL Edit Draft]**」。
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
-1. 選取您想要的影像，然後按一下&#x200B;**插入**。
+1. 選取您想要的影像，然後按一下&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 

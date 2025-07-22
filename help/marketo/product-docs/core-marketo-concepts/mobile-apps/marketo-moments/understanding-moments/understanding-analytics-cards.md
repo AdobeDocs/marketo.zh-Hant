@@ -4,20 +4,20 @@ description: 瞭解Analytics卡片 — Marketo檔案 — 產品檔案
 title: 瞭解Analytics卡片
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # 瞭解Analytics卡片 {#understanding-analytics-cards}
 
-每個月初，Marketo時刻提供三種不同的報表卡片：已取得的銷售機會、新的銷售機會和取消訂閱。 每個報表會顯示六個月的每月績效和趨勢。
+每個月初，「Marketo時刻」會提供三種不同的報表卡片： [!UICONTROL Acquired Leads]、[!UICONTROL New Leads]和[!UICONTROL Unsubscribes]。 每個報表會顯示六個月的每月績效和趨勢。
 
 >[!IMPORTANT]
 >
->在2023年10月2日，Adobe已從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入瞭解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023年10月2日，Adobe從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe Identity以驗證Marketo，您將無法再存取應用程式。 [了解更多](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 ## Analytics卡 {#analytics-cards}
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 * 逐月比較
 * 最多或前三個的橫條圖（視卡片而定）
 
-例如，讓我們來看一下「已獲得銷售機會」分析卡片的詳細資料：
+例如，讓我們看看[!UICONTROL Acquired Leads] Analytics卡片的詳細資料：
 
 ![](assets/image2015-7-6-14-3a5-3a25.png)
 
 在此範例中，紅色表示值在選取的日期範圍內已減少（嗯！）。 綠色表示值已增加(yay！)。
 
-## 已取得的銷售機會 {#acquired-leads}
+## [!UICONTROL Acquired Leads] {#acquired-leads}
 
-**已取得的銷售機會**&#x200B;卡片會顯示新銷售機會數目的每月趨勢報告。
+**[!UICONTROL Acquired Leads]**&#x200B;卡片會顯示新潛在客戶數量的逐月趨勢報告。
 
 >[!NOTE]
 >
@@ -49,15 +49,15 @@ ht-degree: 0%
 
 ![](assets/image2015-6-30-14-3a31-3a40.png)
 
-## 新銷售機會 {#new-leads}
+## [!UICONTROL New Leads] {#new-leads}
 
-**[!UICONTROL 新銷售機會]**&#x200B;卡片會顯示過去六個月執行個體中新銷售機會總數的月趨勢報表。
+「**[!UICONTROL New Leads]**」卡片會顯示過去六個月執行個體中新潛在客戶總數的趨勢月對月報告。
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## 取消訂閱 {#unsubscribes}
+## [!UICONTROL Unsubscribes] {#unsubscribes}
 
-**[!UICONTROL 取消訂閱]**&#x200B;卡片會顯示您過去六個月取消訂閱率的月趨勢報告。
+**[!UICONTROL Unsubscribes]**&#x200B;卡片會顯示您過去六個月取消訂閱率的月趨勢報告。
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 

@@ -4,9 +4,9 @@ description: 跨工作區共用模型 — Marketo檔案 — 產品檔案
 title: 跨工作區共用模型
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo可讓您跨工作區共用模型。 方法如下。
 
-1. 移至&#x200B;**Analytics**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Analytics]**&#x200B;區段。
 
    ![](assets/analytics.png)
 
-1. 用滑鼠右鍵按一下&#x200B;**我的模型**&#x200B;資料夾，然後按一下&#x200B;**新增資料夾**。
+1. 以滑鼠右鍵按一下&#x200B;**[!UICONTROL My Models]**&#x200B;資料夾，然後按一下&#x200B;**[!UICONTROL New Folder]**。
 
    ![](assets/image2014-10-3-14-3a5-3a23.png)
 
@@ -27,11 +27,11 @@ Marketo可讓您跨工作區共用模型。 方法如下。
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. 將您要共用的模型拖曳至&#x200B;**共用資料夾**。
+1. 將您要共用的模型拖曳至&#x200B;**[!UICONTROL Share Folder]**。
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 
-1. 用滑鼠右鍵按一下資料夾，然後按一下&#x200B;**共用資料夾**。
+1. 用滑鼠右鍵按一下資料夾，然後按一下&#x200B;**[!UICONTROL Share Folder]**。
 
    ![](assets/image2014-10-3-14-3a6-3a9.png)
 
@@ -39,7 +39,7 @@ Marketo可讓您跨工作區共用模型。 方法如下。
    >
    >與其他工作區共用模型可讓這些使用者根據模型執行報表。
 
-1. 選取您要共用資料夾的工作區，然後按一下[儲存]。**&#x200B;**
+1. 選取您要共用資料夾的工作區，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 

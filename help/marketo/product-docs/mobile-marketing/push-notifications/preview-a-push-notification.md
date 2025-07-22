@@ -4,9 +4,9 @@ description: 預覽推播通知 — Marketo檔案 — 產品檔案
 title: 預覽推播通知
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可輕鬆預覽Android或iOS的推播通知外觀。 有四種方法可以做到。
 
-在導覽樹狀結構中，用滑鼠右鍵按一下您要預覽之通知的檔案，然後按一下&#x200B;**預覽**。
+在導覽樹狀結構中，用滑鼠右鍵按一下您要預覽之通知的檔案，然後按一下&#x200B;**[!UICONTROL Preview]**。
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-或者，在推播通知檢視頁面上，按一下&#x200B;**推播通知動作**，然後按&#x200B;**預覽**。 或者，按一下最右邊的&#x200B;**預覽**。
+或者，在推播通知檢視頁面上，按一下&#x200B;**[!UICONTROL Push Notifications Actions]**，然後再按&#x200B;**[!UICONTROL Preview]**。 或者，按一下最右邊的&#x200B;**[!UICONTROL Preview]**。
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-最後，在編輯器中，您可在處理通知時按一下右上角的&#x200B;**預覽草稿**&#x200B;標籤。
+最後，在編輯器中，您可在處理通知時按一下右上角的&#x200B;**[!UICONTROL Preview Draft]**&#x200B;標籤。
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 

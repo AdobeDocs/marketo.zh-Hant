@@ -4,9 +4,9 @@ description: 從排程檢視重新排程整個計畫 — Marketo檔案 — 產�
 title: 從排程檢視重新排程整個方案
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. 選取「事件動作」下拉式清單。 選擇&#x200B;**[!UICONTROL 重新排程專案]**。
+1. 選取「事件動作」下拉式清單。 選擇&#x200B;**[!UICONTROL Reschedule Entries]**。
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
-1. 選取錨點專案。 根據此移動，所有其他專案將隨之移動。
+1. 選取[!UICONTROL Anchor Entry]。 根據此移動，所有其他專案將隨之移動。
 
    ![](assets/image2014-9-23-15-3a18-3a23.png)
 
-1. 選擇新的開始日期。
+1. 選擇[!UICONTROL New Start]日期。
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. 按一下&#x200B;**[!UICONTROL 重新排程]**。
+1. 按一下「**[!UICONTROL Reschedule]**」。
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 

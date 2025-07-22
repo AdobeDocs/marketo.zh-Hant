@@ -1,37 +1,37 @@
 ---
 unique-page-id: 6849099
-description: 升級Marketo Sales Insight Solution for Microsoft Dynamics - Marketo檔案 — 產品檔案
+description: 升級適用於Microsoft Dynamics的Marketo銷售Insight解決方案 — Marketo檔案 — 產品檔案
 title: 升級適用於Microsoft Dynamics的Marketo Sales Insight解決方案
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 0%
+source-wordcount: '118'
+ht-degree: 1%
 
 ---
 
-# 升級適用於Microsoft Dynamics的Marketo Sales Insight解決方案 {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# 升級[!DNL Marketo Sales Insight]的[!DNL Microsoft Dynamics]解決方案 {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
-針對Sales Insight發行新的Microsoft Dynamics解決方案時，您可以從帳戶的「管理員」區域下載升級。
+當針對[!DNL Microsoft Dynamics]發行新的[!DNL Sales Insight]解決方案時，您可以從帳戶的[!UICONTROL Admin]區域下載升級。
 
 >[!NOTE]
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**管理員**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 
-1. 按一下&#x200B;**Microsoft Dynamics**。
+1. 按一下「**[!UICONTROL Microsoft Dynamics]**」。
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-2.png)
 
-1. 選取&#x200B;**下載Marketo解決方案**。
+1. 選擇「**[!UICONTROL Download Marketo Solution]**」。
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-3.png)
 
-1. 為您的Microsoft Dynamics版本選取適當的解決方案。
+1. 為您的[!DNL Microsoft Dynamics]版本選取適當的解決方案。
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-4.png)
 
@@ -39,8 +39,8 @@ ht-degree: 0%
 
 ## 執行升級 {#performing-the-upgrade}
 
-1. 匯入最新版本的解決方案，以取代現有的Dynamics CRM版本（例如：如果您的Dynamics CRM版本為1.4，而最新版本為1.5，則您會匯入&#x200B;_超過_&#x200B;版本1.4）。
+1. 匯入解決方案的最新版本，而非您[!DNL Dynamics CRM]的現有版本（例如：如果您的[!DNL Dynamics CRM]版本為1.4，而最新版本為1.5，您將會匯入&#x200B;_超過_&#x200B;版本1.4）。
 
-2. 您會看到下列快顯視窗。 選取&#x200B;**升級階段**&#x200B;和&#x200B;**維護自訂**，然後按一下&#x200B;**匯入**。
+2. 您會看到下列快顯視窗。 選取&#x200B;**[!UICONTROL Stage for Upgrade]**&#x200B;和&#x200B;**[!UICONTROL Maintain customizations]**，然後按一下&#x200B;**[!UICONTROL Import]**。
 
 ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-5.png)

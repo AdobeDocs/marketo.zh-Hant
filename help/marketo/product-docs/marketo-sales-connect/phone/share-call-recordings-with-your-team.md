@@ -4,9 +4,9 @@ description: 與團隊共用通話錄製 — Marketo檔案 — 產品檔案
 title: 與您的團隊共用通話錄製
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,17 @@ ht-degree: 0%
 
 1. 開啟人員詳細資料。
 
-1. 在活動清單下尋找呼叫活動。
+1. 在活動清單下尋找[!UICONTROL Call Activity]。
 
 1. 以滑鼠右鍵按一下通話錄製，並複製連結URL。
 
-## 從Salesforce工作複製錄製連結 {#copy-recording-link-from-the-salesforce-task}
+## 從[!DNL Salesforce]工作複製錄製連結 {#copy-recording-link-from-the-salesforce-task}
 
 >[!NOTE]
 >
->您需要將呼叫記錄到Salesforce才能取得此連結。
+>您必須將您的通話記錄到[!DNL Salesforce]才能取得此連結。
 
-1. 導覽至在Salesforce中為通話建立的工作。
+1. 導覽至在[!DNL Salesforce]中為通話建立的任務。
 
 1. 複製「銷售電話錄音」欄位中列出的連結。
 

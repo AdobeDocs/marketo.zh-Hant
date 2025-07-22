@@ -3,16 +3,16 @@ description: 電子郵件連線節流 — Marketo檔案 — 產品檔案
 title: 電子郵件連線節流
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
 
 # 電子郵件連線節流 {#email-connection-throttling}
 
-整合要透過Exchange或Gmail電子郵件供應商傳送的Sales Connect帳戶，提供簡化的設定，並最佳化一對一銷售通訊的電子郵件傳遞能力。 不過，為了維持系統健康且帳戶安全，Gmail和Exchange會強制實施電子郵件傳送限制。 這些限制可由提供者自行決定增加或減少。
+整合要透過[!DNL Sales Connect]或Gmail電子郵件提供者傳送的[!DNL Exchange]帳戶，提供簡化的設定，並最佳化1:1銷售通訊的電子郵件傳遞能力。 不過，為了維持系統健康且帳戶安全，Gmail和[!DNL Exchange]會強制執行電子郵件傳送限制。 這些限制可由提供者自行決定增加或減少。
 
 ## 電子郵件連線節流(Beta) {#email-connection-throttling-beta}
 
@@ -22,22 +22,22 @@ ht-degree: 0%
 
 **附註/重點提示**
 
-* 當使用者連線至Gmail或Exchange時自動啟用
+* 使用者連線至Gmail或[!DNL Exchange]後自動啟用
 * 如果您想要從建議中增加或減少設定以符合您的需求，則可自訂
-* 僅節流透過Gmail或Exchange傳送的電子郵件，不會節流自訂傳遞通道
+* 僅節流透過Gmail或[!DNL Exchange]傳送的電子郵件，不會節流自訂傳遞通道
 * 電子郵件連線節流會個別將每位使用者的電子郵件加入佇列，因為每位使用者有其自己與電子郵件提供者的連線
 
 **正在設定您的電子郵件連線節流設定**
 
-1. 按一下齒輪圖示並選取&#x200B;**設定**。
+1. 按一下齒輪圖示並選取&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/email-connection-throttling-1.png)
 
-1. 在[管理設定]下，按一下[一般] **&#x200B;**。
+1. 在[!UICONTROL Admin Settings]底下，按一下&#x200B;**[!UICONTROL General]**。
 
    ![](assets/email-connection-throttling-2.png)
 
-1. 在右側的電子郵件連線節流卡中，按一下&#x200B;**啟用電子郵件節流功能**&#x200B;滑桿。
+1. 在右側的電子郵件連線節流卡中，按一下&#x200B;**[!UICONTROL Enable Email Throttling]**&#x200B;滑桿。
 
    ![](assets/email-connection-throttling-3.png)
 
@@ -49,15 +49,15 @@ ht-degree: 0%
 
    ![](assets/email-connection-throttling-5.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/email-connection-throttling-6.png)
 
-儲存變更後，所有使用者都會將電子郵件批次傳送至其連線的Gmail或Exchange帳戶以進行傳遞。
+儲存變更後，所有使用者都會將電子郵件批次傳送至其連線的Gmail或[!DNL Exchange]帳戶以進行傳遞。
 
 ## 電子郵件提供者限制 {#email-provider-limits}
 
-**Outlook 365**
+**[!DNL Outlook 365]**
 
 商業/企業
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 
 如需詳細資訊[，請參閱此處](https://support.google.com/a/answer/166852?hl=en)。
 
-**Microsoft Exchange Server (2010， 2013)**
+**[!DNL Microsoft Exchange Server (2010, 2013)]**
 
 限制由組織的IT部門設定，因為伺服器由組織託管。 如有其他資訊，請聯絡網路或系統管理員。
 

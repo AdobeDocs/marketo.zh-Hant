@@ -4,9 +4,9 @@ description: 排程行銷活動 — Marketo檔案 — 產品檔案
 title: 排程行銷活動
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 您只需選擇要在建立行銷活動時傳送電子郵件的時間。
 
-如果您未排程您的第一個步驟，或需要選擇「傳送時間」時間，則系統會在您每次新增人員或群組時，要求您選擇應該傳送行銷活動的時間。
+如果您未排程您的第一個步驟，或需要選擇&quot;[!UICONTROL Send at]&quot;時間，則系統會在您每次新增人員或群組時，要求您選擇傳送行銷活動的時間。
 
-透過新增個人、群組或選取的人員並按一下&#x200B;**下一步**，開啟「新增至促銷活動」強制回應視窗。
+透過新增個人、群組或選取的人員並按一下[!UICONTROL Add to Campaign]來開啟&#x200B;**[!UICONTROL Next]**&#x200B;強制回應視窗。
 
-按一下&#x200B;**下一步**&#x200B;之後，您可以預覽第一封電子郵件。
+按一下&#x200B;**[!UICONTROL Next]**&#x200B;後，即可預覽第一封電子郵件。
 
-再次按一下&#x200B;**下一步**&#x200B;後，您將會進入想要促銷活動結束的選項。 您可以讓行銷活動立即開始，或排程稍後開始行銷活動的時間。
+再次按一下「**[!UICONTROL Next]**」後，您將會進入一個選項，讓您選擇要讓行銷活動何時結束。 您可以讓行銷活動立即開始，或排程稍後開始行銷活動的時間。

@@ -4,9 +4,9 @@ description: 帳戶智慧清單 — Marketo檔案 — 產品檔案
 title: 帳戶智慧清單
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此功能僅適用於同時具有Target帳戶管理附加元件和已核發TAM授權的使用者。
+>此功能僅適用於同時具有[!UICONTROL Target Account Management]附加元件和已核發的TAM的使用者。
 
-## 建立帳戶智慧清單 {#create-an-account-smart-list}
+## 建立[!UICONTROL Account Smart List] {#create-an-account-smart-list}
 
-1. 在Marketo中，移至&#x200B;**行銷活動**。
+1. 在Marketo中，移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/account-smart-lists-1.png)
 
@@ -29,29 +29,29 @@ ht-degree: 0%
 
    ![](assets/account-smart-lists-2.png)
 
-1. 按一下&#x200B;**新增**&#x200B;下拉式清單，然後選取&#x200B;**新增本機資產**。
+1. 按一下&#x200B;**[!UICONTROL New]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL New Local Asset]**。
 
    ![](assets/account-smart-lists-3.png)
 
-1. 按一下&#x200B;**帳戶智慧清單**。
+1. 按一下「**[!UICONTROL Account Smart List]**」。
 
    ![](assets/account-smart-lists-4.png)
 
-1. 輸入名稱，然後按一下&#x200B;**建立** （說明和標籤是選擇性的）。
+1. 輸入名稱並按一下&#x200B;**[!UICONTROL Create]** （說明和標籤為選用）。
 
    ![](assets/account-smart-lists-5.png)
 
-您的帳戶智慧清單已建立！ 如需定義其規則的步驟，請參閱下文。
+已建立您的[!UICONTROL Account Smart List]！ 如需定義其規則的步驟，請參閱下文。
 
-## 帳戶智慧清單規則 {#account-smart-list-rules}
+## [!UICONTROL Account Smart List]個規則 {#account-smart-list-rules}
 
-帳戶智慧列示的運作方式與標準智慧列示類似，但有顯著的例外：容器。
+[!UICONTROL Account Smart Lists]的工作方式與標準智慧列示類似，但有顯著的例外狀況：容器。
 
-1. 若要定義您的帳戶智慧清單，請按一下&#x200B;**帳戶智慧清單規則**&#x200B;標籤。
+1. 若要定義您的[!UICONTROL Account Smart List]，請按一下&#x200B;**[!UICONTROL Account Smart List Rules]**&#x200B;標籤。
 
    ![](assets/account-smart-lists-6.png)
 
-1. 選擇您需要的帳戶篩選器。 在此範例中，我們選擇&#x200B;_產業是醫療保健_。
+1. 選擇您需要的帳戶篩選器。 在此範例中，我們選擇&#x200B;_[!UICONTROL Industry]為[!UICONTROL Healthcare]_。
 
    ![](assets/account-smart-lists-7.png)
 
@@ -77,32 +77,32 @@ ht-degree: 0%
 >
 >建立篩選器的容器會建立「and」規則，這表示它只會傳回所有合併的結果。 在此範例中，帳戶擁有醫療保健產業，以及位於加州&#x200B;_和_，且某人被列為CFO。 如果您不想使用容器，只需將篩選器拖曳至現有篩選器的下方/上方。
 
-就是這樣！ 請參閱下節，瞭解如何運用您的帳戶智慧清單。
+就是這樣！ 請參閱下節以瞭解如何善用您的[!UICONTROL Account Smart List]。
 
 >[!TIP]
 >
->就像使用標準智慧列示一樣，您可以使用進階邏輯來進一步調整結果。 若要這麼做，您至少需要三個篩選器，而在「帳戶智慧清單」中，一個容器（無論其本身包含多少篩選器）等於一個篩選器。
+>就像使用標準智慧列示一樣，您可以使用進階邏輯來進一步調整結果。 若要這麼做，您至少需要三個篩選器，而在[!UICONTROL Account Smart Lists]中，一個容器（無論其本身包含多少篩選器）等於一個篩選器。
 
-## 帳戶智慧清單動作 {#account-smart-list-actions}
+## [!UICONTROL Account Smart List]個動作 {#account-smart-list-actions}
 
-在帳戶智慧清單的「概觀」標籤中，您會注意到一些動作選項。
+在[!UICONTROL Account Smart List]的「概觀」標籤中，您會注意到一些動作選項。
 
-**匯出**：這會將您帳戶智慧清單的結果匯出為CSV。
+**[!UICONTROL Export]**：這會將您[!UICONTROL Account Smart List]的結果匯出為CSV。
 
-**複製**：製作帳戶智慧清單的復本。
+**[!UICONTROL Clone]**：製作您的[!UICONTROL Account Smart List]復本。
 
-**傳送至廣告網路**：將清單作為新的相符對象傳送至LinkedIn。
+**[!UICONTROL Send to Ad Network]**：將清單當作新的相符對象傳送給[!DNL LinkedIn]。
 
-您也可以使用&#x200B;_帳戶智慧清單的人員_&#x200B;篩選器，在標準智慧行銷活動/清單中參考您的帳戶智慧清單。
+您也可以使用[!UICONTROL Account Smart List]篩選器，在標準智慧行銷活動/清單中參考您的&#x200B;_[!UICONTROL People Member of Account Smart List]_。
 
 ![](assets/account-smart-lists-12.png)
 
 >[!NOTE]
 >
->「帳戶智慧清單中的人員」成員的結果將顯示已識別帳戶中的每個人，而不僅僅是透過帳戶智慧清單中的相符人員篩選器找到的人員。
+>[!UICONTROL People Member of Account Smart List]的結果將顯示已識別帳戶中的每個人，而不僅僅是透過帳戶智慧清單中的相符人員篩選器找到的人。
 
 >[!NOTE]
 >
 >**定義**
 >
->**帳戶智慧清單的人員成員**：在此案例中，「成員」一詞是指帳戶本身，因此「人員成員」是指這些帳戶中的實際人員(Marketo記錄)。
+>**[!UICONTROL People Member of Account Smart List]**：在此案例中，「會員」一詞是指帳戶本身，因此「人員會員」是指這些帳戶中的實際人員(Marketo記錄)。

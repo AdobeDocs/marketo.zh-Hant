@@ -4,18 +4,18 @@ description: 動態欄位字彙表 — Marketo檔案 — 產品檔案
 title: 動態欄位字彙表
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 0%
+source-wordcount: '242'
+ht-degree: 1%
 
 ---
 
 # 動態欄位字彙表 {#dynamic-fields-glossary}
 
-在Sales Connect中建立範本時，我們一律建議使用&#x200B;**MSE動態欄位**&#x200B;按鈕來整合動態欄位。
+在[!DNL Sales Connect]中建立範本時，我們一律建議使用&#x200B;**[!UICONTROL MSE Dynamic Fields]**&#x200B;按鈕整合動態欄位。
 
-此工具用來`auto-personalize your email`，並由`pulling information from the People page`為您節省大量時間。
+此工具用來`auto-personalize your email`，並由`pulling information from the [!UICONTROL People] page`為您節省大量時間。
 
 | 動態欄位 | 電子郵件中所顯示內容的範例 |
 |---|---|
@@ -28,7 +28,7 @@ ht-degree: 0%
 | `{{my_signature}}` | Keith Flynn，資深技術撰稿人 — Adobe |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | 資深技術撰稿人 |
-| `{{work_website}}` | https://www.adobe.com |
+| `{{work_website}}` | https://www.adobe.com/tw/ |
 
 **注意事項**：
 

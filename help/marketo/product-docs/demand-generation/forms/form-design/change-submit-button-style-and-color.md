@@ -4,10 +4,10 @@ description: 變更提交按鈕樣式和色彩 — Marketo檔案 — 產品檔�
 title: 變更提交按鈕樣式和顏色
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 2%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 如果您發現標準提交按鈕很枯燥，或者您需要一些更精緻的按鈕，歡迎您選擇多種現成的按鈕樣式。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 選取您的表單並按一下&#x200B;**編輯表單**。
+1. 選取您的表單並按一下&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. 選取&#x200B;**提交**&#x200B;按鈕，然後按一下按鈕樣式旁的&#x200B;**編輯**。
+1. 選取&#x200B;**[!UICONTROL Submit]**&#x200B;按鈕，然後按一下「按鈕樣式」旁的&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
@@ -43,15 +43,15 @@ ht-degree: 0%
    >
    >您也可以手動輸入色彩代碼。
 
-1. 按一下&#x200B;**選取**。
+1. 按一下「**[!UICONTROL Select]**」。
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. 按一下&#x200B;**完成**。
+1. 按一下「**[!UICONTROL Finish]**」。
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. 按一下&#x200B;**核准並關閉**。
+1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 

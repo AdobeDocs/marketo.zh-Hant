@@ -4,24 +4,24 @@ description: 管理群組 — Marketo檔案 — 產品檔案
 title: 管理群組
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
 # 管理群組 {#manage-groups}
 
-瞭解如何在Sales Connect中管理您的群組。
+瞭解如何在[!DNL Sales Connect]中管理您的群組。
 
 ## 建立群組 {#create-a-group}
 
-1. 在「人員」頁面中，按一下「群組」旁的&#x200B;**+**。
+1. 在[!UICONTROL People]頁面中，按一下&#x200B;**旁的**+[!UICONTROL Groups]。
 
    ![](assets/one-4.png)
 
-1. 為群組命名，然後按一下[建立]。**&#x200B;**
+1. 命名您的群組並按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/two-3.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
 ## 新增連絡人至群組 {#add-contacts-to-a-group}
 
-1. 在「人員」頁面中，尋找並選取要新增人員的群組。
+1. 在[!UICONTROL People]頁面中，尋找並選取您要新增人員的群組。
 
    ![](assets/three-3.png)
 
-1. 按一下&#x200B;**群組動作**&#x200B;並選取&#x200B;**建立連絡人**。
+1. 按一下&#x200B;**[!UICONTROL Group Actions]**&#x200B;並選取&#x200B;**[!UICONTROL Create Contact]**。
 
    ![](assets/four-3.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
    >
    >這將會一次新增一個連絡人。 若要同時新增多個連絡人，請遵循[這些步驟](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)。
 
-1. 填寫連絡人資訊，然後按一下&#x200B;**建立** （或&#x200B;**建立並新增新的**&#x200B;以新增其他）。
+1. 填寫連絡人資訊，然後按一下&#x200B;**[!UICONTROL Create]** （或&#x200B;**[!UICONTROL Create and Add New]**&#x200B;新增其他連絡人）。
 
    ![](assets/five-3.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
 ## 共用群組 {#share-a-group}
 
-1. 在「人員」頁面中，尋找並選取您要共用的群組。
+1. 在[!UICONTROL People]頁面中，尋找並選取您要共用的群組。
 
    ![](assets/six.png)
 
-1. 按一下dota （三個垂直點）並選取&#x200B;**共用**。
+1. 按一下dota （三個垂直點）並選取&#x200B;**[!UICONTROL Share]**。
 
    ![](assets/seven.png)
 
@@ -65,19 +65,19 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 按一下&#x200B;**共用**。
+1. 按一下「**[!UICONTROL Share]**」。
 
    ![](assets/nine.png)
 
-   您仍然擁有群組，但它現在會出現在團隊群組下方。
+   您仍擁有群組，但它現在會顯示在[!UICONTROL Team Groups]下方。
 
 ## 取消共用群組 {#unshare-a-group}
 
-1. 在「人員」頁面中，尋找並選取您要取消共用的群組。
+1. 在[!UICONTROL People]頁面中，尋找並選取您要取消共用的群組。
 
    ![](assets/ten.png)
 
-1. 按一下dota （三個垂直點）並選取&#x200B;**共用**。
+1. 按一下dota （三個垂直點）並選取&#x200B;**[!UICONTROL Share]**。
 
    ![](assets/eleven.png)
 
@@ -89,11 +89,11 @@ ht-degree: 0%
 
 ## 重新命名群組 {#rename-a-group}
 
-1. 在「人員」頁面中，尋找並選取您要重新命名的群組。
+1. 在[!UICONTROL People]頁面中，尋找並選取您要重新命名的群組。
 
    ![](assets/six.png)
 
-1. 按一下dota （三個垂直點）並選取&#x200B;**重新命名**。
+1. 按一下dota （三個垂直點）並選取&#x200B;**[!UICONTROL Rename]**。
 
    ![](assets/thirteen.png)
 
@@ -103,14 +103,14 @@ ht-degree: 0%
 
 ## 刪除群組 {#delete-a-group}
 
-1. 在「人員」頁面中，尋找並選取您要刪除的群組。
+1. 在[!UICONTROL People]頁面中，尋找並選取您要刪除的群組。
 
    ![](assets/fifteen.png)
 
-1. 按一下dota （三個垂直點）並選取&#x200B;**刪除**。
+1. 按一下dota （三個垂直點）並選取&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/sixteen.png)
 
-1. 按一下&#x200B;**刪除**&#x200B;確認。
+1. 按一下&#x200B;**[!UICONTROL Delete]**&#x200B;確認。
 
    ![](assets/seventeen.png)

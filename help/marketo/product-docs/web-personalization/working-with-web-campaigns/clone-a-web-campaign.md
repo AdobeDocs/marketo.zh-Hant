@@ -4,20 +4,20 @@ description: 複製網站行銷活動 — Marketo檔案 — 產品檔案
 title: 複製網站行銷活動
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # 複製網站行銷活動 {#clone-a-web-campaign}
 
-使用「網站行銷活動」頁面上的複製功能，可以複製行銷活動設定並變更內容以進行分割測試最佳化，或複製具有相同內容的行銷活動並將其定位到不同的區段。 數秒內建立網站行銷活動！
+使用「[!UICONTROL Web Campaigns]」頁面上的複製功能來複製行銷活動設定，並變更內容以進行分割測試最佳化，或複製具有相同內容的行銷活動，並將其鎖定到不同的區段。 數秒內建立網站行銷活動！
 
 ## 建立複製行銷活動 {#create-a-clone-campaign}
 
-1. 前往&#x200B;**網路行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 

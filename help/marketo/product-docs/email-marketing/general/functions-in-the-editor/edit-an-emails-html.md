@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900554
-description: 編輯電子郵件HTML- Marketo檔案 — 產品檔案
+description: 編輯電子郵件的HTML - Marketo檔案 — 產品檔案
 title: 編輯電子郵件的HTML
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 編輯HTML {#edit-html}
 
-1. 選取您的電子郵件並按一下&#x200B;**編輯草稿**。
+1. 選取您的電子郵件並按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/teamspidey.jpg)
 
-1. 按一下&#x200B;**編輯代碼**。
+1. 按一下「**[!UICONTROL Edit Code]**」。
 
    ![](assets/two-4.png)
 
-1. 進行任何變更。 完成時，按一下&#x200B;**儲存**。
+1. 進行任何變更。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/three-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >隨心所欲地變更。 您可以取代整個HTML或進行微幅調整。
 
-1. 按一下&#x200B;**程式碼動作**&#x200B;下拉式清單，將程式碼下載為.html檔案、內嵌CSS或驗證HTML。
+1. 按一下&#x200B;**[!UICONTROL Code Actions]**&#x200B;下拉式清單，將程式碼下載為.html檔案、內嵌您的CSS或驗證HTML。
 
    ![](assets/four-2.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 * 從容器中刪除模組
 
 * 變更模組外任何元素的mkto特定屬性（例如「mktoName」或「mktoImgUrl」）
-* 編輯任何元素的內容（RTF文字、影像、視訊等） 模組外
+* 在模組外編輯任何元素的內容（RTF文字、影像、視訊等）
 
 您可以在程式碼編輯器&#x200B;**中執行的下列操作會**&#x200B;中斷電子郵件範本中的郵件：
 
@@ -60,17 +60,17 @@ ht-degree: 0%
 
 ## 搜尋代碼 {#search-code}
 
-使用搜尋代碼功能，能夠有效地尋找及取代電子郵件HTML代碼中的內容。
+使用搜尋代碼功能，有效率地尋找及取代您電子郵件之HTML代碼中的內容。
 
-1. 在您的電子郵件代碼中，按一下&#x200B;**搜尋代碼**。
+1. 在電子郵件的程式碼中，按一下&#x200B;**[!UICONTROL Search Code]**。
 
    ![](assets/five-2.png)
 
-1. 輸入您要尋找的內容，然後按一下&#x200B;**尋找下一個**&#x200B;往前搜尋，或按一下&#x200B;**尋找上一個**&#x200B;往後搜尋。 您也可以選擇&#x200B;**取代**&#x200B;和&#x200B;**全部取代**。
+1. 輸入您要尋找的內容，然後按一下&#x200B;**[!UICONTROL Find Next]**&#x200B;往前搜尋，或按一下&#x200B;**[!UICONTROL Find Previous]**&#x200B;往後搜尋。 您也有選項&#x200B;**[!UICONTROL Replace]**&#x200B;和&#x200B;**[!UICONTROL Replace All]**。
 
    ![](assets/six-1.png)
 
-1. 完成時，按一下&#x200B;**關閉**。
+1. 完成時，按一下&#x200B;**[!UICONTROL Close]**。
 
    ![](assets/seven.png)
 

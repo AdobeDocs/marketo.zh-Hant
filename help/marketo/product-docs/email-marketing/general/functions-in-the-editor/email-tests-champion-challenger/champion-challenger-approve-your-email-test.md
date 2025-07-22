@@ -4,9 +4,9 @@ description: 冠軍/挑戰者 — 核准您的電子郵件測試 — Marketo檔�
 title: 冠軍/挑戰者 — 核准您的電子郵件測試
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >[設定報表警示](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 尋找並按一下滑鼠右鍵&#x200B;**電子郵件測試**，然後按一下&#x200B;**核准測試**。
+1. 尋找並按一下滑鼠右鍵&#x200B;**[!UICONTROL Email Test]**，然後按一下&#x200B;**[!UICONTROL Approve Test]**。
 
    ![](assets/champion3.jpg)
 

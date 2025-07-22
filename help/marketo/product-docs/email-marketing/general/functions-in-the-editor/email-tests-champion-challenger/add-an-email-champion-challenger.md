@@ -4,9 +4,9 @@ description: 新增電子郵件達人/挑戰者 — Marketo檔案 — 產品檔�
 title: 新增電子郵件達人/挑戰者
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 >
 >Champion/Challenger電子郵件僅適用於觸發行銷活動和參與方案資料流。 若要批次寄送，請使用電子郵件程式的[A/B測試功能](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
    >
    >針對一次性郵件爆炸，深入瞭解[電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)。
 
-1. 在&#x200B;**電子郵件動作**&#x200B;下，按一下&#x200B;**新增測試**。
+1. 在&#x200B;**[!UICONTROL Email Actions]**&#x200B;底下，按一下&#x200B;**[!UICONTROL New Test]**。
 
    ![](assets/chmapion2.jpg)
 

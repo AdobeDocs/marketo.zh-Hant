@@ -3,16 +3,16 @@ description: 首選 — Marketo檔案 — 產品檔案
 title: 首選
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-# 首選 {#best-bets}
+# [!DNL Best Bets] {#best-bets}
 
-Best Bets索引標籤會根據您的優先順序包含所有熱門潛在客戶的清單，並使用急迫性和相對分數計算。
+[!DNL Best Bets]索引標籤會根據您的優先順序包含所有熱門銷售機會的清單，並使用緊急性和相對分數計算。
 
 >[!CAUTION]
 >
@@ -20,12 +20,12 @@ Best Bets索引標籤會根據您的優先順序包含所有熱門潛在客戶�
 
 **篩選器選項**
 
-您可以按一下下列各個按鈕，檢視「首選」：
+您可以按一下下列各個按鈕來檢視[!DNL Best Bets]：
 
-* 銷售機會：您可以在CRM中檢視指派給您的所有銷售機會的最佳選擇
-* 連絡人：您可以在CRM中檢視指派給您的所有連絡人的首選
-* 帳戶連絡人：您可以在CRM中檢視屬於已指派給您的帳戶的所有連絡人的首選，即使連絡人本身未指派給您
-* 商機聯絡人：您可以在CRM中檢視屬於已指派給您的商機之所有聯絡人的「首選」，即使未指派給您的聯絡人本身
+* 銷售機會：您可以在CRM中看到指派給您的所有銷售機會的[!DNL Best Bets]
+* 連絡人：您可以在CRM中看到指派給您的所有連絡人的[!DNL Best Bets]
+* 帳戶連絡人：您可以在CRM中看到屬於指派給您的帳戶的所有連絡人[!DNL Best Bets]，即使連絡人本身未指派給您
+* 機會聯絡人：您可以在CRM中看到屬於已指派給您的機會的所有聯絡人[!DNL Best Bets]，即使未指派給您的聯絡人本身
 
 **注意事項**
 
@@ -35,22 +35,22 @@ Best Bets索引標籤會根據您的優先順序包含所有熱門潛在客戶�
 
 **內嵌參與**
 
-按一下「動作」欄下方的圓點功能表，您可以使用以下參與選項聯絡特定銷售機會或聯絡人：
+按一下[!UICONTROL Actions]欄下的圓點選單，您可以使用以下參與選項聯絡特定銷售機會或聯絡人：
 
-* 傳送Marketo電子郵件
-* 新增至Marketo Campaign
-* 在Marketo中檢視
-* 新增至關注清單
+* [!UICONTROL Send Marketo Email]
+* [!UICONTROL Add to Marketo Campaign]
+* [!UICONTROL View in Marketo]
+* [!UICONTROL Add to Watchlist]
 
 ![](assets/best-bets-1.png)
 
 **大量動作**
 
-您可以使用核取方塊從「首選」頁面選取一或多個銷售機會或聯絡人，並使用以下參與選項以群組身分聯絡他們：
+您可以使用核取方塊從[!DNL Best Bets]頁面選取一或多個潛在客戶或聯絡人，並使用下列參與選項以群組身分與他們聯絡：
 
-* 傳送Marketo電子郵件
-* 新增至Marketo Campaign
-* 新增至關注清單
+* [!UICONTROL Send Marketo Email]
+* [!UICONTROL Add to Marketo Campaign]
+* [!UICONTROL Add to Watchlist]
 
 ![](assets/best-bets-2.png)
 

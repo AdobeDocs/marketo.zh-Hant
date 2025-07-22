@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949711
-description: 使用註冊代碼安裝適用於Outlook的Marketo電子郵件增益集 — Marketo檔案 — 產品檔案
-title: 使用註冊代碼安裝適用於Outlook的Marketo電子郵件增益集
+description: 使用註冊代碼為 [!DNL Outlook] 安裝Marketo電子郵件增益集 — Marketo檔案 — 產品檔案
+title: 使用註冊代碼為 [!DNL Outlook] 安裝Marketo電子郵件增益集
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: ac6c84a82b9bcb535d5f50897d1a068a5a746287
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 3%
+source-wordcount: '522'
+ht-degree: 4%
 
 ---
 
-# 使用註冊代碼安裝適用於Outlook的Marketo電子郵件增益集 {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# 使用註冊代碼為[!DNL Outlook]安裝Marketo電子郵件增益集 {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 如果使用者可以存取其筆記型電腦上的管理員設定，您可以直接將註冊代碼傳送給他們。
 
@@ -39,7 +39,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >目前，下列連結僅可在Microsoft Edge中使用，或在Chrome中按一下右鍵。 造成任何不便，敬請見諒。
+   >目前，下列連結僅在[!DNL Microsoft Edge]中運作，或在[!DNL Chrome]中按一下滑鼠右鍵。 造成任何不便，敬請見諒。
 
 <table><thead>
   <tr>
@@ -100,11 +100,11 @@ ht-degree: 3%
   </tr>
 </tbody></table>
 
-*Office 365版本：僅限Windows使用者端（在Windows 10、Enterprise或Pro）。
+*[!DNL Office] 365版本：僅[!DNL Windows]使用者端（[!DNL Windows] 10、[!DNL Enterprise]或[!DNL Pro]）。
 
 >[!IMPORTANT]
 >
->Microsoft已發行適用於Windows [&#128279;](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}的新版Outlook。 這個新版本不支援現有的MSI Outlook外掛程式。 MSI Outlook外掛程式將繼續在執行Classic版Outlook的Windows案頭上運作。 若要進一步瞭解適用於組織的新版Windows Outlook，[請按一下這裡](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}。
+>Microsoft已發行適用於Windows [的](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}新版Outlook。 這個新版本不支援現有的MSI Outlook外掛程式。 MSI Outlook外掛程式將繼續在執行Classic版Outlook的Windows案頭上運作。 若要進一步瞭解適用於組織的新版Windows Outlook，[請按一下這裡](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}。
 
 ## 複製您的註冊代碼 {#copy-your-registration-code}
 
@@ -112,7 +112,7 @@ ht-degree: 3%
 
    ![](assets/image2016-7-22-10-3a45-3a10.png)
 
-1. 關閉Microsoft Outlook。
+1. 關閉[!DNL Microsoft Outlook]。
 
    ![](assets/ent-key-close-outlook-hand.png)
 
@@ -126,11 +126,11 @@ ht-degree: 3%
    >
    >如果您收到安全性警告，請不要擔心！ 只需按一下&#x200B;**執行**。
 
-1. 按一下&#x200B;**下一步**。
+1. 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. 填寫&#x200B;**名字**，**姓氏**，**電子郵件地址**，然後複製並貼上電子郵件中的&#x200B;**註冊代碼**&#x200B;至表單，然後按一下&#x200B;**下一步**。
+1. 填入&#x200B;**[!UICONTROL First Name]**、**[!UICONTROL Last Name]**、**[!UICONTROL Email Address]**，然後複製電子郵件中的&#x200B;**[!UICONTROL Registration code]**&#x200B;並貼入表單，然後按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/enter-your-information-hands.png)
 
@@ -138,23 +138,23 @@ ht-degree: 3%
    >
    >如果安裝失敗，請洽詢您的IT部門，以確保不會封鎖HTTPS流量。 安裝程式需要開啟HTTPS流量。
 
-1. 按一下[下一步]&#x200B;**&#x200B;**&#x200B;以安裝在預設位置。
+1. 按一下&#x200B;**[!UICONTROL Next]**&#x200B;以安裝在預設位置。
 
    ![](assets/select-installation-folder-hand.png)
 
-1. 按一下&#x200B;**下一步**。
+1. 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >如果您收到有關未知發行者的安全性提示，請按一下&#x200B;**是**。
+   >如果您收到有關未知發行者的安全性提示，請按一下&#x200B;**[!UICONTROL Yes]**。
 
-1. 安裝現已完成，請按一下&#x200B;**關閉**。
+1. 安裝現已完成，請按一下&#x200B;**[!UICONTROL Close]**。
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. 現在開啟Microsoft Outlook並檢視Marketo按鈕。
+1. 現在開啟[!DNL Microsoft Outlook]並檢視Marketo按鈕。
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 

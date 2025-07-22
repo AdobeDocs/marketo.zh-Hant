@@ -4,9 +4,9 @@ description: 建立新的Dialog網頁行銷活動 — Marketo檔案 — 產品�
 title: 建立新的對話方塊網頁行銷活動
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 建立網站行銷活動，即時個人化您的網站內容，並在適當的時間向適當的使用者提供適當的訊息。
 
-網路行銷活動是與特定區段相關聯的自訂反應。 回應可以是您網站上的對話方塊、區域取代[&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的、[Widget功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或電子郵件警示。
+網路行銷活動是與特定區段相關聯的自訂反應。 回應可以是您網站上的對話方塊、區域取代[中的](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、[Widget功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或電子郵件警示。
 
-1. 前往&#x200B;**網路行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. 選取&#x200B;**建立新的網站行銷活動**。
+1. 選擇「**[!UICONTROL Create New Web Campaign]**」。
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. 選取&#x200B;**對話方塊**&#x200B;網頁行銷活動型別。 在編輯器中設計和新增您的創意。 按一下&#x200B;**預覽**，檢視網站行銷活動在您網站上的反應。
+1. 選取&#x200B;**[!UICONTROL Dialog]**&#x200B;網頁行銷活動型別。 在編輯器中設計和新增您的創意。 按一下&#x200B;**[!UICONTROL Preview]**&#x200B;以檢視網站行銷活動在您網站上的反應。
 
    ![](assets/new-3.png)
 
@@ -110,7 +110,7 @@ ht-degree: 0%
    <td colspan="1">選取可調整大小核取方塊可讓使用者調整對話方塊的大小。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>RTF編輯器</strong></td> 
+   <td colspan="1"><strong>RTF 編輯器</strong></td> 
    <td colspan="1"><p>RTF編輯器允許文字格式、連結和影像插入。 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">在此閱讀更多資訊</a>。</p></td> 
   </tr> 
   <tr> 
@@ -132,7 +132,7 @@ ht-degree: 0%
 
 ## 編輯網站行銷活動 {#edit-a-web-campaign}
 
-1. 從&#x200B;**網頁行銷活動**&#x200B;頁面，按一下網頁行銷活動上的&#x200B;**編輯**。
+1. 從&#x200B;**[!UICONTROL Web Campaigns]**&#x200B;頁面，按一下網頁行銷活動上的&#x200B;**[!UICONTROL Edit]**。
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
@@ -142,7 +142,7 @@ ht-degree: 0%
 
 ## 預覽網站行銷活動 {#preview-a-web-campaign}
 
-1. 從&#x200B;**網頁行銷活動**&#x200B;頁面，在您要檢視的網頁行銷活動上按一下&#x200B;**預覽**。
+1. 從&#x200B;**[!UICONTROL Web Campaigns]**&#x200B;頁面，按一下您要檢視之網頁行銷活動的&#x200B;**[!UICONTROL Preview]**。
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
@@ -152,7 +152,7 @@ ht-degree: 0%
 
 ## 刪除網站行銷活動 {#delete-a-web-campaign}
 
-1. 從&#x200B;**網頁行銷活動**&#x200B;頁面，按一下您要刪除之網頁行銷活動的&#x200B;**刪除**。
+1. 從&#x200B;**[!UICONTROL Web Campaigns]**&#x200B;頁面，按一下您要刪除之網路促銷活動的&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/web-campaigns-1-delete-hand.png)
 

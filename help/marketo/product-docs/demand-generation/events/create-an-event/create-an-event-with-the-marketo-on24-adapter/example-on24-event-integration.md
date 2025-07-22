@@ -4,9 +4,9 @@ description: ON24事件整合範例 — Marketo檔案 — 產品檔案
 title: ON24事件整合範例
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,27 +17,27 @@ ht-degree: 0%
 
 ## 在行銷活動中建立新事件 {#create-a-new-event-in-marketing-activities}
 
-1. 選取&#x200B;**新增** > **新增程式**。
+1. 選取&#x200B;**[!UICONTROL New]** > **[!UICONTROL New Program]**。
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. 選取活動將進行所在的&#x200B;**行銷活動資料夾**。
+1. 選取活動將進行所在的&#x200B;**[!UICONTROL Campaign Folder]**。
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
-1. 輸入事件的&#x200B;**名稱**。
+1. 輸入事件的&#x200B;**[!UICONTROL Name]**。
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. 選取&#x200B;**事件**&#x200B;做為&#x200B;**程式型別**。
+1. 選取&#x200B;**[!UICONTROL Event]**&#x200B;做為&#x200B;**[!UICONTROL Program Type]**。
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. 選取&#x200B;**網路研討會**&#x200B;作為事件的&#x200B;**管道**。
+1. 選取&#x200B;**[!UICONTROL Webinar]**&#x200B;作為事件的&#x200B;**[!UICONTROL Channel]**。
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
-1. 按一下&#x200B;**建立**。
+1. 按一下「**[!UICONTROL Create]**」。
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 
@@ -55,11 +55,11 @@ ht-degree: 0%
 
 * **智慧清單**
 
-   * 根據&#x200B;**填寫表單**&#x200B;觸發行銷活動。 使用&#x200B;**新增限制**&#x200B;以包含表單所在的登陸頁面，尤其是表單用於多個登陸頁面時。
+   * 根據&#x200B;**[!UICONTROL Fills Out Form]**&#x200B;觸發行銷活動。 請務必使用&#x200B;**[!UICONTROL Add Constraint]**&#x200B;加入表單所在的登陸頁面，尤其是表單用於多個登陸頁面時。
 
 >[!CAUTION]
 >
->您必須使用Marketo表單註冊事件人員，或非Marketo表單搭配適當的API整合，將註冊資料推送至Marketo。 這對於事件合作夥伴整合的成功至關重要。 **注意**：如果您在非Marketo登陸頁面上使用Marketo表單，您的觸發程式將是&#x200B;**以表單名稱填寫表單**。
+>您必須使用Marketo表單註冊事件人員，或非Marketo表單搭配適當的API整合，將註冊資料推送至Marketo。 這對於您的[!UICONTROL Event Partner]整合的成功至關重要。 **注意**：如果您在非Marketo登陸頁面上使用Marketo表單，則您的觸發程式將是&#x200B;**[!UICONTROL Fills Out Form]**&#x200B;和[!UICONTROL Form Name]。
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 

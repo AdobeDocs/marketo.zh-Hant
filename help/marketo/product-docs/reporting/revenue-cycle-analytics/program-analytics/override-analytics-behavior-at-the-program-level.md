@@ -4,18 +4,18 @@ description: 覆寫方案層級的Analytics行為 — Marketo檔案 — 產品�
 title: 覆寫方案層級的Analytics行為
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 1%
+source-wordcount: '184'
+ht-degree: 0%
 
 ---
 
 # 覆寫方案層級的Analytics行為 {#override-analytics-behavior-at-the-program-level}
 
-您可以在頻道[&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)的管理員層級設定分析行為，但您也可以在方案層級覆寫。 方法如下：
+您可以在頻道[的管理員層級設定](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)分析行為，但您也可以在方案層級覆寫。 方法如下：
 
-1. 前往&#x200B;**行銷活動**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,11 +23,11 @@ ht-degree: 1%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. 在「**設定**」標籤下，將「Analytics行為」拖曳至畫布。
+1. 在&#x200B;**[!UICONTROL Setup]**&#x200B;標籤下，將[!UICONTROL Analytics Behavior]拖曳到畫布中。
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. 選取您想要的Analytics行為。
+1. 選取您想要的[!UICONTROL Analytics Behavior]。
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

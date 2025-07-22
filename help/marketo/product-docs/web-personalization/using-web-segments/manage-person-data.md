@@ -4,22 +4,22 @@ description: 管理個人資料 — Marketo檔案 — 產品檔案
 title: 管理個人資料
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '192'
 ht-degree: 7%
 
 ---
 
 # 管理個人資料 {#manage-person-data}
 
-選取要用於細分的個人欄位，善用網頁Personalization的人員資料。
+選取要用於細分中的人員欄位，以運用[!DNL Web Personalization]的人員資料。
 
-1. 移至&#x200B;**帳戶設定**。
+1. 移至&#x200B;**[!UICONTROL Account Settings]**。
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. 移至&#x200B;**資料庫**。
+1. 移至&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/account-settings-dropdown-database.jpg)
 
@@ -35,7 +35,7 @@ ht-degree: 7%
 
 ## 刪除人員欄位 {#deleting-a-person-field}
 
-1. 按一下刪除圖示( ![—](assets/image2015-3-24-13-3a45-3a56.png))以從清單中移除欄位。 按一下&#x200B;**是**&#x200B;以確認您要刪除欄位。
+1. 按一下刪除圖示( ![—](assets/image2015-3-24-13-3a45-3a56.png))以從清單中移除欄位。 按一下&#x200B;**[!UICONTROL Yes]**&#x200B;以確認您要刪除欄位。
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -99,7 +99,7 @@ ht-degree: 7%
  </tbody> 
 </table>
 
-新的網頁Personalization帳戶可立即使用下列銷售機會欄位：
+為新[!DNL Web Personalization]帳戶提供的現成可用的潛在客戶欄位如下：
 
 >[!MORELIKETHIS]
 >

@@ -4,16 +4,16 @@ description: SFDC同步 — 銷售機會/帳戶擁有者同步 — Marketo檔案
 title: SFDC同步 — 銷售機會/帳戶擁有者同步
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
 # SFDC同步：銷售機會/帳戶擁有者同步 {#sfdc-sync-lead-account-owner-sync}
 
-技術上來說，這會同步Salesforce中的「使用者」表格，但我們會將其稱為銷售機會/帳戶擁有者欄位。
+這些從技術上來說，正在同步[!DNL Salesforce]中的「使用者」表格，但我們會將其稱為銷售機會/帳戶擁有者欄位。
 
 ## 哪些欄位會同步至Marketo Engage？ {#which-fields-will-sync-to-marketo-engage}
 
@@ -48,4 +48,4 @@ ht-degree: 0%
 * Marketo中的指派（和重新指派）規則
 * 在[變更擁有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}、[將人員同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}和[建立任務](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}流程動作中使用它們
 
-Marketo的Salesforce同步處理確實非常棒。 沒有人能做得這麼好！
+Marketo確實有很棒的[!DNL Salesforce]同步處理。 沒有人能做得這麼好！

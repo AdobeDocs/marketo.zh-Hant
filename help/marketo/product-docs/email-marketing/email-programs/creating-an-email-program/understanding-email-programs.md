@@ -4,9 +4,9 @@ description: 瞭解電子郵件程式 — Marketo檔案 — 產品檔案
 title: 瞭解電子郵件程式
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 控制面板 {#control-panel}
 
-四個方塊讓您保持焦點。 **對象**&#x200B;定義「誰」，**電子郵件**&#x200B;提供「什麼」，**排程**&#x200B;定義「何時」，且&#x200B;**核准**&#x200B;使其準備就緒。
+四個方塊讓您保持焦點。 **[!UICONTROL Audience]**&#x200B;定義「誰」，**[!UICONTROL Email]**&#x200B;提供「什麼」，**[!UICONTROL Schedule]**&#x200B;定義「何時」，**[!UICONTROL Approval]**&#x200B;使其準備就緒。
 
 ![](assets/emailprogram.png)
 

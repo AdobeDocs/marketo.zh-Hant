@@ -4,19 +4,19 @@ description: 編輯Salesforce欄位協助工具 — Marketo檔案 — 產品檔�
 title: 編輯Salesforce欄位輔助功能
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
 # 編輯Salesforce欄位輔助功能 {#edit-salesforce-field-accesibility}
 
-如果您沒有看到Salesforce的電子郵件活動記錄，可能是因為您團隊的欄位可存取性有所限制。
+如果您沒有看到記錄到[!DNL Salesforce]的電子郵件活動，可能是因為您團隊的欄位可存取性有所限制。
 
-* Salesforce的欄位層級安全性讓Salesforce管理員能夠限制使用者可檢視和編輯的資訊。 設定欄位層級安全性時，請確定它不會影響使用者檢視Sales Connect欄位的功能。
+* Salesforce的欄位層級安全性讓[!DNL Salesforce]管理員能夠限制使用者可檢視和編輯的資訊。 設定欄位層級安全性時，請確定它不會影響使用者檢視[!DNL Sales Connect]欄位的功能。
 
-* 請與您的Salesforce管理員合作，確保這些安全性設定不會干擾Sales Connect。
+* 請與您的[!DNL Salesforce]系統管理員合作，確保這些安全性設定不會干擾[!DNL Sales Connect]。
 
-* 如果您是Salesforce管理員，則可以在安全性控制項標籤下看到您的欄位存取功能。 與Sales Connect互動的主要欄位有：客戶、聯絡人、商機、銷售線索及作業。
+* 如果您是[!DNL Salesforce]管理員，可以在[!UICONTROL Security Controls]標籤下看到您的欄位協助工具。 與[!DNL Sales Connect]互動的主要欄位為： [!UICONTROL Account]、[!UICONTROL Contacts]、[!UICONTROL Opportunity]、[!UICONTROL Lead]和[!UICONTROL Task]。

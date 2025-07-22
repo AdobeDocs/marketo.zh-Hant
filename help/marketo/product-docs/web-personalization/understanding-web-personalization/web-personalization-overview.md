@@ -4,10 +4,10 @@ description: 網頁Personalization概觀 — Marketo檔案 — 產品檔案
 title: Web Personalization概觀
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '836'
-ht-degree: 0%
+source-wordcount: '775'
+ht-degree: 1%
 
 ---
 
@@ -15,38 +15,38 @@ ht-degree: 0%
 
 ## 簡介 {#introduction}
 
-針對新的Marketo客戶，即時Personalization分為四個應用程式，使用下列兩個圖磚進行存取：Web Personalization和ContentAI。
+對於新的Marketo客戶，[!UICONTROL Real-Time Personalization]會分成四個應用程式，使用這兩個圖磚來存取： [!UICONTROL Web Personalization]和[!UICONTROL ContentAI]。
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->Web Personalization和ContentAI提供所有Marketo支援的語言版本（英文、法文、德文、日文、葡萄牙文、西班牙文）。
+>[!UICONTROL Web Personalization]和[!UICONTROL ContentAI]提供所有Marketo支援的語言（英文、法文、德文、日文、葡萄牙文、西班牙文）。
 
 現有客戶可繼續透過「即時Personalization」圖磚存取應用程式，直到續訂為止，此時他們將使用上述登入。
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-按一下「網頁Personalization」圖磚，就會顯示「控制面板」頁面。 按一下ContentAI圖磚，即可直接前往「內容Recommendations」頁面。
+當您按一下[!UICONTROL Web Personalization]圖磚，就會顯示[儀表板]頁面。 按一下「[!UICONTROL ContentAI]」圖磚，即可直接前往「內容建議」頁面。
 
 四個應用程式為：
 
-* 網頁Personalization
-* 帳戶型網頁行銷
-* 網站重新目標定位
-* contentai
+* [!UICONTROL Web Personalization]
+* [!UICONTROL Account-Based Web Marketing]
+* [!UICONTROL Website Retargeting]
+* [!UICONTROL ContentAI]
 
-**網頁Personalization**&#x200B;圖磚是您建立個人化網頁行銷活動的存取點。 以帳戶為基礎的網頁行銷與網頁重新目標定位。 您可以在內容分析頁面上新增內容。
+**[!UICONTROL Web Personalization]**&#x200B;圖磚是您建立個人化Web行銷活動的存取點。 以帳戶為基礎的網頁行銷與網頁重新目標定位。 您可以在Content Analytics頁面上新增內容。
 
-**以帳戶為基礎的網頁行銷**&#x200B;與網頁Personalization搭配使用，並具備指定帳戶的功能。 「具名帳戶」頁面會提供有關現有客戶、參與總計和組織趨勢的圖形資訊，以及帳戶清單。 您也可以在那裡建立新的具名帳戶。
+**[!UICONTROL Account-Based Web Marketing]**&#x200B;可搭配使用Web Personalization和功能具名帳戶。 「具名帳戶」頁面會提供有關現有客戶、參與總計和組織趨勢的圖形資訊，以及帳戶清單。 您也可以在那裡建立新的具名帳戶。
 
-**網站重新目標定位**&#x200B;可讓您對細分對象進行再行銷。 您可以設定區段，但不能在篩選器中使用具名帳戶。
+**[!UICONTROL Website Retargeting]**&#x200B;可讓您對細分對象進行再行銷。 您可以設定區段，但不能在篩選器中使用具名帳戶。
 
-**ContentAI**&#x200B;是提供內容建議的位置。 您可以輕鬆將內容新增至內容Recommendations頁面。
+**[!UICONTROL ContentAI]**&#x200B;是提供內容建議的位置。 您可以輕鬆新增內容至「內容建議」頁面。
 
 >[!NOTE]
 >
->若要存取以帳戶為基礎的網站行銷或網站重新目標定位，即使您沒有Web Personalization應用程式，也必須按一下「Web Personalization」方塊。
+>若要存取[!UICONTROL Account-Based Web Marketing]或[!UICONTROL Website Retargeting]，即使您沒有[!UICONTROL Web Personalization]應用程式，也必須按一下[!UICONTROL Web Personalization]圖磚。
 
 ## 組織 {#organizations}
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>試算表圖示</strong>：圖示位於面板的右上方，會以CSV格式下載「組織」表格以供離線使用</p><p><strong>設定電子郵件警示</strong>：每次在選取的組織造訪網站時，都會傳送電子郵件給登入的使用者</p><p><strong>銷售機會</strong>：開啟所選組織的銷售機會表</p><p><strong>共用</strong>：開啟快顯視窗以傳送電子郵件並共用造訪網頁之組織的詳細資料</p><p><strong>地點圖示</strong>：顯示所選組織的國家/地區和城市</p><p><strong>連結</strong>： Jigsaw、Whois、Linkedin、Google、Twitter會開啟新視窗，其中包含個別網頁的其他資訊，提供所選組織的額外深入分析</p><p><strong>搜尋</strong>：顯示訪客透過搜尋引擎到達時使用的關鍵字</p><p><strong>反向連結</strong>：顯示將流量反向連結至您網站的頁面的URL連結</p><p><strong>訪客</strong>：顯示造訪次數、所選組織檢視的頁面數及其電子郵件地址（如果他們已完成提交表單），以及上次造訪的時間和日期</p><p><strong>點按資料流</strong>：顯示網站上的使用者活動和URL路徑表格，以及使用者造訪每個頁面的時間</p></td> 
+   <td><p><strong>試算表圖示</strong>：圖示位於面板的右上方，會以CSV格式下載「組織」表格以供離線使用</p><p><strong>[!UICONTROL Set Email Alert]</strong>：每次在選取的組織造訪網站時，都會傳送電子郵件給已登入的使用者</p><p><strong>[!UICONTROL Leads]</strong>：開啟所選組織的銷售機會表格</p><p><strong>[!UICONTROL Share]</strong>：開啟快顯視窗，透過電子郵件傳送並分享瀏覽網頁之組織的詳細資訊</p><p><strong>地點圖示</strong>：顯示所選組織的國家/地區和城市</p><p><strong>連結</strong>： Jigsaw、Whois、Linkedin、Google、Twitter會開啟新視窗，其中包含個別網頁的其他資訊，這些網頁會提供額外的insight至選取的組織</p><p><strong>[!UICONTROL Search]</strong>：顯示訪客透過搜尋引擎到達時使用的關鍵字</p><p><strong>[!UICONTROL Referrers]</strong>：顯示將流量反向連結至您網站的頁面之URL連結</p><p><strong>[!UICONTROL Visitors]</strong>：顯示瀏覽次數、所選組織檢視的頁面數及其電子郵件地址（如果他們已完成提交表單），以及上次瀏覽的時間和日期</p><p><strong>[!UICONTROL Clickstream]</strong>：顯示一個表格，內含網站上的使用者活動和URL路徑以及他們造訪每個頁面的時間</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 想要將網站訪客的資訊分享給同事嗎？ 按一下組織，然後按一下右側面板上的「共用」連結。
 
-這會啟用「共用此組織」覆蓋圖，您可以在此傳送電子郵件，共用造訪網站之組織的名稱和詳細資料。
+這會啟用[!UICONTROL Share this Organization]覆蓋，您可以在此傳送一封電子郵件，分享造訪網站之組織的名稱和詳細資料。
 
 ![](assets/image2014-11-10-19-3a25-3a42.png)
 
@@ -87,11 +87,11 @@ ht-degree: 0%
 
 ![](assets/wp-vis.jpg)
 
-「訪客」頁面會顯示指定時段內到達您網站的每位訪客的所有詳細資訊和線上行為。 此頁面可深入分析每位訪客的活動和線上行為。 表格中的訪客資料會在24到48小時內更新。
+「訪客」頁面會顯示指定時段內到達您網站的每位訪客的所有詳細資訊和線上行為。 此頁面提供深入分析每位訪客活動和線上行為的insight。 表格中的訪客資料會在24到48小時內更新。
 
 ![](assets/image2014-11-10-19-3a45-3a49.png)
 
-「訪客」頁面的右側面板提供下列深入分析：
+[!UICONTROL Visitors]頁面的右側面板提供下列深入分析：
 
 <table> 
  <thead> 
@@ -143,27 +143,27 @@ ht-degree: 0%
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>訪客</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitors]</strong></td> 
    <td colspan="1" rowspan="1"> 代表您網站上目前的訪客數量</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>每分鐘點按次數</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Clicks per minute]</strong></p></td> 
    <td colspan="1" rowspan="1"> 顯示每分鐘網站點按次數的即時折線圖</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>排名在前的組織</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Organizations]</strong></td> 
    <td colspan="1" rowspan="1">組織表格的簡短版本</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>即時區段</strong></td> 
+   <td colspan="1"><strong>[!UICONTROL Real-Time Segment]</strong></td> 
    <td colspan="1">目前站上符合指定區段的訪客數量</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>目前正在瀏覽</strong></td> 
+   <td colspan="1"><strong>[!UICONTROL Currently Browsing]</strong></td> 
    <td colspan="1">站上訪客目前正在檢視的頁面URL</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>熱門轉介</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Referrals]</strong></td> 
    <td colspan="1" rowspan="1">將訪客帶往您網站的轉介URL</td> 
   </tr> 
  </tbody> 

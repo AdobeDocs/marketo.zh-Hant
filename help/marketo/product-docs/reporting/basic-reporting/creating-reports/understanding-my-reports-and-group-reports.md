@@ -4,24 +4,24 @@ description: 瞭解我的報表和群組報表 — Marketo檔案 — 產品檔�
 title: 瞭解我的報表和群組報表
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 # 瞭解我的報表和群組報表 {#understanding-my-reports-and-group-reports}
 
-您可以從[Analytics首頁](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)建立&#x200B;**我的報告**&#x200B;和&#x200B;**群組報告**。
+您可以從&#x200B;**[!UICONTROL My Reports]** Analytics首頁&#x200B;**[!UICONTROL Group Reports]**&#x200B;建立[和](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)。
 
-**我的報告**&#x200B;只對您可見。
+**[!UICONTROL My Reports]**&#x200B;只對您可見。
 
-該工作區中的所有使用者都可以看到&#x200B;**群組報表**。
+**[!UICONTROL Group Reports]**&#x200B;對該工作區中的所有使用者可見。
 
 >[!NOTE]
 >
->每個工作區都有一組&#x200B;**我的報告**&#x200B;和&#x200B;**群組報告**。
+>每個工作區都有一組&#x200B;**[!UICONTROL My Reports]**&#x200B;和&#x200B;**[!UICONTROL Group Reports]**。
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 

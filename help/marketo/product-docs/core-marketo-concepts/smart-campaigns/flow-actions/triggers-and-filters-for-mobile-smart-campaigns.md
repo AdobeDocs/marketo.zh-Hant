@@ -4,10 +4,10 @@ description: Mobile Smart Campaigns的觸發器和篩選器 — Marketo檔案 �
 title: 行動智慧型行銷活動的觸發器和篩選器
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '820'
-ht-degree: 0%
+source-wordcount: '814'
+ht-degree: 1%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 除了「已傳送推播通知」之外，所有觸發器和篩選器都包含這兩個標準限制：
 
-* 裝置型別 — iPod、iPhone、iPhone 6 Plus、iPad mini、iPad、Android智慧型手機、Android平板電腦、未知（這是預設集清單）
+* 裝置型別 — [!DNL iPod]、iPhone、[!DNL iPhone 6 Plus]、[!DNL iPad mini]、iPad、Android智慧型手機、Android平板電腦、未知（這是預設集清單）
 
 * 平台 — iPhone或Android
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 有/曾經有行動應用程式活動
 
-這些提供強大的方式可追蹤自訂行動活動。 您必須與開發人員合作，才能為Android[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}設定追蹤[，並為iOS](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}設定。
+這些提供強大的方式可追蹤自訂行動活動。 您需要與開發人員合作，為Android[設定追蹤](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}，為iOS[設定](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}。
 
 * 具有行動應用程式活動 — 觸發器
 
@@ -146,7 +146,7 @@ ht-degree: 0%
 >
 >在相同動作型別下，您可以有多個動作。 事實上，您的一般購物體驗可能包括「購物」底下的數個欄！ 來點襪子吧？
 >
->| 動作型別 | 購物 | 購物 |
+>| 動作類型 | 購物 | 購物 |
 >|---|---|---|
 >| 動作 | 買的襯衫 | 買來的褲子 |
 >| 動作詳細資料 | 顏色 | 顏色 |

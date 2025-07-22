@@ -4,9 +4,9 @@ description: 在自由格式登陸頁面中新增影像連結 — Marketo檔案 
 title: 在自由格式登陸頁面中新增影像的連結
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/click-on-image.png)
 
-1. 展開&#x200B;**屬性工作表**。
+1. 展開&#x200B;**[!UICONTROL Property Sheet]**。
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. 將連結複製或輸入到&#x200B;**linkUrl**&#x200B;方塊中。
+1. 將連結複製或輸入到&#x200B;**[!UICONTROL linkUrl]**&#x200B;方塊中。
 
    ![](assets/add-link.png)
 

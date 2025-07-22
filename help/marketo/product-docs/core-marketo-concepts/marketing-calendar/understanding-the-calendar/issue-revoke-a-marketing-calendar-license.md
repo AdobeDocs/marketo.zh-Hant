@@ -4,10 +4,10 @@ description: 問題/撤銷行銷行事曆授權 — Marketo檔案 — 產品檔�
 title: 發行/撤銷行銷行事曆授權
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 1%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 若要使用您的[行銷行事曆](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}名額，您必須向需要存取許可權的使用者發行授權。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區段。
 
    ![](assets/adminhand.png)
 
-1. 按一下&#x200B;**[!UICONTROL 使用者與角色]**。
+1. 按一下「**[!UICONTROL Users & Roles]**」。
 
    ![](assets/2.png)
 
-1. 選取使用者並按一下&#x200B;**[!UICONTROL 發行授權]**。
+1. 選取使用者並按一下&#x200B;**[!UICONTROL Issue License]**。
 
    >[!TIP]
    >
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/3.png)
 
-1. 勾選&#x200B;**[!UICONTROL 啟用授權]**&#x200B;並按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 檢查&#x200B;**[!UICONTROL Enable License]**&#x200B;並按一下&#x200B;**[!UICONTROL Save]**。
 
    >[!NOTE]
    >
@@ -43,6 +43,6 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-   做得很好！ 檢視「行事曆？」下方的綠色核取記號
+   做得很好！ 在&#39;[!UICONTROL Calendar]？&#39;下看到綠色核取記號
 
    ![](assets/5.png)

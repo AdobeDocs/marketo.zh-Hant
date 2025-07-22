@@ -3,10 +3,10 @@ description: 促銷活動設定 — Marketo檔案 — 產品檔案
 title: Sales Campaign設定
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 0%
+source-wordcount: '208'
+ht-degree: 1%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->若啟用「略過週末」，電子郵件將排程在5天當週。 這表示在排程步驟時，週末會忽略為天數。
+>啟用[!UICONTROL Skip Weekends]後，電子郵件將排程在5天工作週。 這表示在排程步驟時，週末會忽略為天數。
 
-1. 按一下&#x200B;**行銷活動**。
+1. 按一下「**[!UICONTROL Campaigns]**」。
 
    ![](assets/sales-campaign-settings-1.png)
 
@@ -30,11 +30,11 @@ ht-degree: 0%
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. 按一下「**設定**」標籤。
+1. 按一下「**[!UICONTROL Settings]**」標籤。
 
    ![](assets/sales-campaign-settings-3.png)
 
-1. 選取&#x200B;**略過週末**&#x200B;核取方塊。
+1. 選取&#x200B;**[!UICONTROL Skip Weekends]**&#x200B;核取方塊。
 
    ![](assets/sales-campaign-settings-4.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 如果您使用電子郵件連線，我們將會根據傳送至使用者收件匣的退信來偵測退信。 此外，偵測到跳出時，我們還可以將人員從銷售行銷活動中移除。
 
-1. 按一下&#x200B;**行銷活動**。
+1. 按一下「**[!UICONTROL Campaigns]**」。
 
    ![](assets/sales-campaign-settings-5.png)
 
@@ -50,19 +50,19 @@ ht-degree: 0%
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. 按一下「**設定**」標籤。
+1. 按一下「**[!UICONTROL Settings]**」標籤。
 
    ![](assets/sales-campaign-settings-7.png)
 
-1. 選取「**彈回時移除**」核取方塊。
+1. 選取&#x200B;**[!UICONTROL Remove on Bounce]**&#x200B;核取方塊。
 
    ![](assets/sales-campaign-settings-8.png)
 
 ## 如果回覆 {#if-a-reply-occurs}
 
-如果您已啟用Gmail或Exchange的回覆追蹤，當收件者回覆您的電子郵件時，我們就能自動結束您的促銷活動。
+如果您已啟用Gmail或[!DNL Exchange]的回覆追蹤，當收件者回覆您的電子郵件時，我們就能自動結束您的促銷活動。
 
-1. 按一下&#x200B;**行銷活動**。
+1. 按一下「**[!UICONTROL Campaigns]**」。
 
    ![](assets/sales-campaign-settings-9.png)
 
@@ -70,11 +70,11 @@ ht-degree: 0%
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. 按一下「**設定**」標籤。
+1. 按一下「**[!UICONTROL Settings]**」標籤。
 
    ![](assets/sales-campaign-settings-11.png)
 
-1. 在&#x200B;**下，如果發生回覆**，請選取您想要的選項。
+1. 在&#x200B;**[!UICONTROL If a Reply Occurs]**&#x200B;底下，進行您想要的選取。
 
    ![](assets/sales-campaign-settings-12.png)
 

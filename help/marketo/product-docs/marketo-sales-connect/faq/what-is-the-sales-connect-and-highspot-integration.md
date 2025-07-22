@@ -4,47 +4,47 @@ description: 什麼是Sales Connect and Highspot Integration？ - Marketo檔案 
 title: 什麼是Sales Connect and Highspot Integration？
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 
-# 什麼是Sales Connect and Highspot Integration？ {#what-is-the-sales-connect-and-highspot-integration}
+# 什麼是[!DNL Sales Connect]與[!DNL Highspot]整合？ {#what-is-the-sales-connect-and-highspot-integration}
 
-Sales Connect支援與內容管理系統[Highspot](https://www.highspot.com/)整合。 同時身為Highspot客戶的Sales Connect客戶可以從網頁應用程式記憶體取其Highspot內容。
+[!DNL Sales Connect]支援與內容管理系統[Highspot](https://www.highspot.com/)整合。 同時是[!DNL Sales Connect]位客戶的[!DNL Highspot]位客戶可以從網頁應用程式記憶體取其[!DNL Highspot]內容。
 
 ## 需求 {#requirements}
 
-若要使用Sales Connect與Highspot的整合，您需要下列專案：
+您需要下列專案，才能使用[!DNL Sales Connect]與[!DNL Highspot]的整合：
 
-* **瀏覽器 — 最新版本的Chrome和Safari、Edge、IE或Firefox**
+* **瀏覽器 — 最新版本的[!DNL Chrome]和[!DNL Safari]、[!DNL Edge]、IE或Firefox**
 
-除了在瀏覽器中使用Sales Connect之外，Highspot整合還可在Outlook .Net電子郵件使用者端中使用。 需求如下：
+除了在瀏覽器中處理[!DNL Sales Connect]之外，[!DNL Highspot]電子郵件使用者端中還可使用[!DNL Outlook .Net]整合。 需求如下：
 
-* **Outlook .Net &amp; Exchange** - Sales Connect支援的Outlook .Net、Exchange Online、Exchange 2016版本
+* **[!DNL Outlook .Net]&amp;[!DNL Exchange]** - [!DNL Sales Connect]支援的[!DNL Outlook .Net]、[!DNL Exchange Online]、[!DNL Exchange 2016]版本
 
 >[!NOTE]
 >
->Sales Connect Gmail擴充功能目前不支援Highspot整合
+>[!DNL Sales Connect] Gmail延伸目前不支援[!DNL Highspot]整合
 
-## 啟用Sales Connect與Highspot整合 {#enabling-the-sales-connect-and-highspot-integration}
+## 正在啟用[!DNL Sales Connect]與[!DNL Highspot]整合 {#enabling-the-sales-connect-and-highspot-integration}
 
-如果您有興趣為團隊啟用Highspot整合，請聯絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support#)。
+如果您有興趣為團隊啟用[!DNL Highspot]整合，請聯絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support#)。
 
 ## 如何使用整合 {#how-to-use-the-integration}
 
-啟用後，以下說明如何在Sales Connect中存取您的Highspot內容。
+啟用後，以下說明如何在[!DNL Highspot]中存取您的[!DNL Sales Connect]內容。
 
-1. 在Sales Connect或Outlook中撰寫電子郵件時，請選擇&#x200B;**新增內容**。
+1. 在[!DNL Sales Connect]或[!DNL Outlook]中撰寫電子郵件時，請選擇&#x200B;**[!UICONTROL Add Content]**。
 
-1. 選取&#x200B;**亮點**。
+1. 選擇「**[!UICONTROL Highspot]**」。
 
-1. 輸入您的Highspot帳戶電子郵件，然後按一下&#x200B;**繼續**。
+1. 輸入您的[!DNL Highspot]帳戶電子郵件並按一下&#x200B;**[!UICONTROL Continue]**。
 
-1. 輸入您的Highspot帳戶密碼，然後按一下&#x200B;**登入**。
+1. 輸入您的[!DNL Highspot]帳戶密碼並按一下&#x200B;**[!UICONTROL Sign In]**。
 
-1. 從Highspot中選取您要插入電子郵件或範本的內容，然後按一下&#x200B;**新增內容**。
+1. 從[!DNL Highspot]中選取您要插入電子郵件或範本的內容，然後按一下&#x200B;**[!UICONTROL Add Content]**。
 
 1. 內容會插入電子郵件或範本中。

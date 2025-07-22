@@ -4,9 +4,9 @@ description: 使用傳送警報資訊權杖{{SP_Send_Alert_Info}} - Marketo檔�
 title: 使用傳送警報資訊權杖
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 將SP_Send_Alert_Info權杖新增至電子郵件 {#add-the-sp-send-alert-info-token-to-an-email}
 
-1. 選取電子郵件並按一下&#x200B;**編輯草稿**。
+1. 選取電子郵件並按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/one-3.png)
 
@@ -48,15 +48,15 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. 將游標放在您要標籤的位置，然後按一下&#x200B;**插入標籤**&#x200B;按鈕。
+1. 將游標置於您想要的權杖所在位置，然後按一下&#x200B;**[!UICONTROL Insert Token]**&#x200B;按鈕。
 
    ![](assets/three-3.png)
 
-1. 尋找並選取&#x200B;**`{{SP_Send_Alert_Info}}`**&#x200B;權杖並按一下&#x200B;**插入**。
+1. 尋找並選取&#x200B;**[!UICONTROL {{SP_Send_Alert_Info}}]** Token，然後按一下&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 

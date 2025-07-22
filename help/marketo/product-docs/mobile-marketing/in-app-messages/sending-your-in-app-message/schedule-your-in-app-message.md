@@ -4,9 +4,9 @@ description: 排程您的應用程式內訊息 — Marketo檔案 — 產品檔�
 title: 排程您的應用程式內訊息
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 立即傳送您的訊息，或排程稍後傳送。
 
-1. 若要排程應用程式內訊息，請選取&#x200B;**設定未來日期**，然後從下拉式行事曆中選擇開始日期。
+1. 若要排程應用程式內訊息，請選取&#x200B;**[!UICONTROL Set future date]**，然後從下拉式行事曆中選擇開始日期。
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. 或者，若要立即執行程式，請選取&#x200B;**立即執行**。 開始日期欄位消失。
+1. 或者，若要立即執行程式，請選取&#x200B;**[!UICONTROL Run Immediately]**。 開始日期欄位消失。
 
    ![](assets/schedule-your-in-app-message-4.png)
 

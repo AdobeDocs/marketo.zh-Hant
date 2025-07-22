@@ -4,10 +4,10 @@ description: 使用人員詳細資料頁面 — Marketo檔案 — 產品檔案
 title: 使用人員詳細資料頁面
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 22%
+source-wordcount: '525'
+ht-degree: 23%
 
 ---
 
@@ -38,18 +38,18 @@ ht-degree: 22%
 
 人員資訊會分類為下列標籤：
 
-| 標籤 | 說明 |
+| 標記 | 說明 |
 |---|---|
 | 資訊 | 聯絡資訊和個人相關自訂欄位。 |
 | 公司資訊 | 個人的公司資訊和地址。 |
 | 機會資訊 | 已從Salesforce同步機會資訊。 |
-| SFDC銷售機會欄位 | 內建Salesforce欄位。 |
+| SFDC潛在客戶欄位 | 內建Salesforce欄位。 |
 | SFDC自訂欄位 | 自訂Salesforce欄位。 |
 | 活動記錄 | 與個人相關的所有活動。 |
 
 ## 頁面組織 — Microsoft Dynamics {#page-organization-microsoft-dynamics}
 
-| 標籤 | 說明 |
+| 標記 | 說明 |
 |---|---|
 | 資訊 | 聯絡資訊和個人相關自訂欄位。 |
 | 公司資訊 | 個人的公司資訊和地址。 |
@@ -60,7 +60,7 @@ ht-degree: 22%
 
 >[!NOTE]
 >
->您也可以看到透過API[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/opportunities)插入的商機資訊，瞭解未與CRM同步的執行個體。
+>您也可以看到透過API[插入的商機資訊](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities)，瞭解未與CRM同步的執行個體。
 
 ## 編輯欄位 {#editing-a-field}
 
@@ -74,21 +74,21 @@ ht-degree: 22%
 |---|---|---|---|---|
 | 地址 | 年營業額 | 匿名IP | 帳單寄送地址 | 帳單寄送城市 |
 | 帳單國家 | 帳單郵遞區號 | 帳單州別 | 城市 | 公司名稱 |
-| 國家 | 建立時間 | 出生日期 | 部門 | 請勿來電 |
+| 國家/地區 | 建立時間 | 出生日期 | 部門 | 請勿來電 |
 | 不要呼叫原因 | 請勿來電的理由 | 電子郵件地址 | 電子郵件無效 | 電子郵件無效原因 |
 | 外部公司 ID | 外部銷售人員 ID | 傳真號碼 | 名字 | 全名 |
-| 產業 | 推斷的城市 | 推斷公司 | 推斷國家 | 推斷的大都會區 |
+| 行業 | 推斷的城市 | 推斷公司 | 推斷國家 | 推斷的大都會區 |
 | 推斷的電話區碼 | 推斷的郵遞區號 | 推斷的州別區域 | 匿名 | 是客戶 |
 | 是合作夥伴 | 職稱 | 姓氏 | 評等 | 分數 |
-| Source人員 | 狀態 | 主要電話 | Marketo Social Facebook顯示名稱 | Marketo Social Facebook Id |
-| Marketo Social Facebook像片URL | Marketo社交Facebook設定檔URL | Marketo Social Facebook觸及 | Marketo Social Facebook轉介註冊 | Marketo Social Facebook轉介造訪 |
-| Marketo社交性別 | Marketo社交上次反向連結註冊 | Marketo Social上次轉介的造訪 | Marketo Social LinkedIn顯示名稱 | Marketo Social LinkedIn Id |
-| Marketo Social LinkedIn像片URL | Marketo社交LinkedIn設定檔URL | Marketo Social LinkedIn觸及 | Marketo Social LinkedIn轉介註冊 | Marketo Social LinkedIn轉介造訪 |
-| Marketo社交整合ID | Marketo 社交轉介註冊總次數 | Marketo 社交轉介造訪總次數 | Marketo社交Twitter顯示名稱 | Marketo社交TwitterID |
-| Marketo社交Twitter像片URL | Marketo社交Twitter設定檔URL | Marketo社交Twitter觸及 | Marketo社交Twitter反向註冊 | Marketo社交Twitter轉介造訪 |
+| Source人員 | 狀態 | 主要電話 | Marketo社交[!DNL Facebook]顯示名稱 | Marketo社交[!DNL Facebook] Id |
+| Marketo社交[!DNL Facebook]像片URL | Marketo社交[!DNL Facebook]設定檔URL | Marketo社交[!DNL Facebook]觸及 | Marketo社交[!DNL Facebook]反向註冊 | Marketo社交[!DNL Facebook]轉介的造訪 |
+| Marketo社交性別 | Marketo社交上次反向連結註冊 | Marketo Social上次轉介的造訪 | Marketo社交[!DNL LinkedIn]顯示名稱 | Marketo社交[!DNL LinkedIn] Id |
+| Marketo社交[!DNL LinkedIn]像片URL | Marketo社交[!DNL LinkedIn]設定檔URL | Marketo社交[!DNL LinkedIn]觸及 | Marketo社交[!DNL LinkedIn]反向註冊 | Marketo社交[!DNL LinkedIn]轉介的造訪 |
+| Marketo社交整合ID | Marketo 社交轉介註冊總次數 | Marketo 社交轉介造訪總次數 | Marketo社交[!DNL Twitter]顯示名稱 | Marketo社交[!DNL Twitter] Id |
+| Marketo社交[!DNL Twitter]像片URL | Marketo社交[!DNL Twitter]設定檔URL | Marketo社交[!DNL Twitter]觸及 | Marketo社交[!DNL Twitter]反向註冊 | Marketo社交[!DNL Twitter]轉介的造訪 |
 | 中間名 | 手機號碼 | 員工數 | 電話號碼 | 郵遞區號 |
 | 優先順序 | 相對分數 | 角色 | 稱謂 | 標準產業分類（SIC）代碼 |
-| 現場 | 州別 | 退訂 | 退訂原因 | 更新時間 |
+| 現場 | 狀態 | 退訂 | 退訂原因 | 更新時間 |
 | 急迫性 | 網站 |  |  |  |
 
 >[!NOTE]
@@ -97,7 +97,7 @@ ht-degree: 22%
 >
 >* 活動記錄
 >* 公司資訊
->* SFDC連絡人的機會
+>* SFDC聯絡人的機會
 >* 特定Marketo欄位，例如「建立日期」和「原始Source型別」。
 >
 >深入瞭解[系統管理的欄位](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}。

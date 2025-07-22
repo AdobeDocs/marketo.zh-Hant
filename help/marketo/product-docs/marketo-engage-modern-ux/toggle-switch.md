@@ -3,9 +3,9 @@ description: 切換開關 — Marketo檔案 — 產品檔案
 title: 切換開關
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 為個別角色或所有角色啟用切換開關。 方法如下。
 
-1. 在Marketo Engage中，按一下&#x200B;**管理員**。
+1. 在Marketo Engage中，按一下&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/toggle-switch-1.png)
 
-1. 按一下&#x200B;**新增體驗**。
+1. 按一下「**[!UICONTROL New Experience]**」。
 
    ![](assets/toggle-switch-2.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 ## 啟用功能 {#enable-for-features}
 
-您可以選擇手動為個別功能或所有可用功能（目前和即將推出）啟用Marketo EngageModern UX。
+您可以選擇手動為個別功能或所有可用功能（目前和即將推出）啟用Marketo Engage Modern UX。
 
 在目前具有切換開關的區域中（在此範例中，我們位於電子郵件清單檢視中），只要按一下頁面右下方的切換開關即可。
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ![](assets/toggle-switch-6.png)
 
-選取「啟用所有可用功能」**&#x200B;**，然後按一下「確定」**&#x200B;**。
+選取&#x200B;**[!UICONTROL Enable for all available features]**&#x200B;並按一下&#x200B;**[!UICONTROL OK]**。
 
 ![](assets/toggle-switch-7.png)
 

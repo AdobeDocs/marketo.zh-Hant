@@ -4,16 +4,16 @@ description: 電子郵件報表 — Marketo檔案 — 產品檔案
 title: 以電子郵件傳送報告
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
 
 # 以電子郵件傳送報告 {#email-reports}
 
-若要自訂使用者收到的自動化電子郵件報表，請參閱[使用者設定區段](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)。
+若要自訂使用者收到的自動化電子郵件報表，請參閱[[!UICONTROL User Settings]區段](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)。
 
 ## 網頁Personalization電子郵件報表 {#web-personalization-email-reports}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 每日/每週「人員報表」會根據人員的電子郵件地址、組織名稱、地點、州、人員擷取的日期及該人員所屬的區段，從網站傳送最近100人的電子郵件。
 
-## 績效最佳的即時行銷活動 {#top-performing-real-time-campaigns}
+## [!UICONTROL Top Performing Real-time Campaigns] {#top-performing-real-time-campaigns}
 
 ![](assets/image2014-12-6-13-3a32-3a31.png)
 
@@ -55,18 +55,18 @@ ht-degree: 0%
 
 ![](assets/six.png)
 
-摘要報表會根據點按次數和參與個人化行銷活動或建議內容的人數（直接或協助），然後成為已知人士的人數，以電子郵件（每月或每季）傳送所有行銷活動和建議內容績效給使用者。 報表會將結果與上個月或上一季比較。
+摘要報表會根據點按次數和參與個人化行銷活動或建議內容然後成為已知人士的人數（直接或協助），以電子郵件（每月或每季）傳送所有行銷活動和建議內容績效的使用者。 報表會將結果與上個月或上一季比較。
 
 >[!NOTE]
 >
 >**定義**
 >
->**直接轉換**：網路訪客若在同一個瀏覽工作階段中點按個人化行銷活動或建議的內容資產，會繼續填寫網站上的任何表單及其電子郵件地址。
+>**[!UICONTROL Direct Conversions]**：網站訪客若在同一個造訪工作階段中點選「個人化行銷活動」或「建議內容」資產，會繼續填寫網站上的任何表單及其電子郵件地址。
 >
->**輔助轉換**：填寫網站上的任何表單並保留電子郵件地址的網頁訪客，而在先前的造訪中（過去6個月內），點選了個人化行銷活動或建議的內容資產。
+>**[!UICONTROL Assisted Conversions]**：填寫網站上的任何表單並保留電子郵件地址的網頁訪客，在上次造訪中（過去6個月內）點選了個人化行銷活動或建議的內容資產。
 
 >[!NOTE]
 >
->Marketo Web Personalization會針對網站上完成的任何表單，擷取網站訪客的電子郵件地址。 此資訊會在Personalization網站的「人員」頁面中檢視，且是摘要報表中所使用的人員。
+>Marketo Web Personalization會針對網站上完成的任何表單，擷取網站訪客的電子郵件地址。 這已在[!UICONTROL Web Personalization] [!UICONTROL People]頁面中檢視，且是摘要報表中所使用的使用者。
 
 若要自訂使用者收到的自動化電子郵件報表，請參閱[使用者設定區段](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)。

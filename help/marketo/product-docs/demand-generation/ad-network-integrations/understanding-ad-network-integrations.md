@@ -4,9 +4,9 @@ description: 瞭解廣告網路整合 — Marketo檔案 — 產品檔案
 title: 瞭解廣告網路整合
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 廣告網路整合的運作方式 {#how-ad-network-integrations-work}
 
-廣告網路整合可將Marketo的獨特受眾資料連線至您的付費媒體系統，讓您可執行更具針對性的個人化數位廣告行銷活動。 這些整合目前可與Facebook、LinkedIn和Google搭配使用。
+廣告網路整合可將Marketo的獨特受眾資料連線至您的付費媒體系統，讓您可執行更具針對性的個人化數位廣告行銷活動。 這些整合目前可搭配[!DNL Facebook]、[!DNL LinkedIn]和Google使用。
 
 功能包括：
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 * 從付費媒體系統擷取銷售機會或資料至Marketo
 
-   * 例如，Facebook使用者按一下「訂閱」按鈕並提供名稱和電子郵件地址
+   * 例如，[!DNL Facebook]使用者按一下「訂閱」按鈕並提供名稱和電子郵件地址
 
 * 將離線轉換資料上傳至付費媒體系統，最佳化銷售機會贏取和培育工作
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 
 您可以使用整合來：
 
-* [將Google AdWords新增為LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
-* [在Facebook中新增銷售機會至自訂對象](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
-* [在Facebook中建立自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
-* [設定Facebook離線轉換](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
-* [使用Marketo清單或智慧清單做為LinkedIn對象區段](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
+* [將Google [!DNL AdWords] 新增為 [!DNL LaunchPoint] 服務](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+* [在 [!DNL Facebook]中新增銷售機會至自訂對象](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+* [在 [!DNL Facebook]中建立自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [設定 [!DNL Facebook] 離線轉換](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+* [使用Marketo清單或智慧清單做為 [!DNL LinkedIn] 對象區段](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
 |   | 對象資料 | 潛在客戶擷取 | 離線轉換 |
 |---|---|---|---|

@@ -4,16 +4,16 @@ description: 網頁Personalization字彙表 — Marketo檔案 — 產品檔案
 title: Web Personalization字彙表
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 0%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
-# Web Personalization字彙表 {#web-personalization-glossary}
+# [!DNL Web Personalization]字彙表 {#web-personalization-glossary}
 
-對Marketo Web Personalization的世界和語言的一些見解。
+對[!DNL Marketo Web Personalization]的世界和語言有一些深入分析。
 
 | 詞語 | 定義 |
 |---|---|
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 萬用字元範例 {#wildcard-examples}
 
-以下是您在網頁Personalization中使用萬用字元的三種方式。
+以下是[!DNL Web Personalization]中使用萬用字元的三種方式。
 
 比對頁面URL上以定價結尾的所有訪客（例如，`www.marketo.com/pricing`）
 

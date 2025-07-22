@@ -3,9 +3,9 @@ description: 步驟4之2 — 使用資源擁有者密碼控制連線設定Market
 title: 步驟4之2 — 使用資源擁有者密碼控制連線設定Marketo解決方案
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '397'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 ## 建立新使用者 {#create-a-new-user}
 
-1. 登入Dynamics。 按一下「設定」圖示並選取&#x200B;**[!UICONTROL Advanced Settings]**。
+1. 登入[!DNL Dynamics]。 按一下[!UICONTROL Settings]圖示並選取&#x200B;**[!UICONTROL Advanced Settings]**。
 
    ![](assets/one.png)
 
@@ -70,13 +70,13 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->這適用於Marketo版本4.0.0.14和更新版本。 對於舊版，所有使用者都必須擁有同步使用者角色。 若要升級Marketo，請參閱[升級Microsoft Dynamics的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}。
+>這適用於Marketo版本4.0.0.14和更新版本。 對於舊版，所有使用者都必須擁有同步使用者角色。 若要升級Marketo，請參閱[升級 [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)的Marketo解決方案。
 
 >[!IMPORTANT]
 >
 >同步處理使用者[的語言設定應該設定為英文](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}。
 
-1. 返回&#x200B;**[!UICONTROL Enabled Users]**&#x200B;標籤並重新整理使用者清單。
+1. 返回[!UICONTROL Enabled Users]標籤並重新整理使用者清單。
 
    ![](assets/ten.png)
 
@@ -100,13 +100,13 @@ ht-degree: 1%
 
 即將完成！ 我們只剩下通知Marketo解決方案有關建立的新使用者。
 
-1. 返回「進階設定」區段，按一下「設定」旁的![](assets/image2015-5-13-15-3a49-3a19.png)圖示，然後選取&#x200B;**[!UICONTROL Marketo Config]**。
+1. 返回[!UICONTROL Advanced Settings]區段並按一下![](assets/image2015-5-13-15-3a49-3a19.png)旁的[!UICONTROL Settings]圖示，然後選取&#x200B;**[!UICONTROL Marketo Config]**。
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >如果您在[設定]功能表中看不到&#x200B;**[!UICONTROL Marketo Config]**，請重新整理頁面。 如果仍無法解決問題，請再試一次[發佈Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"}，或登出再重新登入。
+   >如果您在&#x200B;**[!UICONTROL Marketo Config]**&#x200B;功能表中看不到[!UICONTROL Settings]，請重新整理頁面。 如果仍無法解決問題，請再試一次[發佈Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)，或登出再重新登入。
 
 1. 按一下「**[!UICONTROL Default]**」。
 
@@ -124,7 +124,7 @@ ht-degree: 1%
 
    ![](assets/seventeen.png)
 
-1. 按一下「設定」旁的![](assets/image2015-5-13-15-3a49-3a19-1.png)圖示，然後選取&#x200B;**[!UICONTROL Solutions]**。
+1. 按一下![](assets/image2015-5-13-15-3a49-3a19-1.png)旁的[!UICONTROL Settings]圖示，然後選取&#x200B;**[!UICONTROL Solutions]**。
 
    ![](assets/eighteen.png)
 

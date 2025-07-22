@@ -4,9 +4,9 @@ description: 將自訂HTML新增至自由格式登陸頁面 — Marketo檔案 �
 title: 新增自訂HTML至自由格式的登陸頁面
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Marketo Engage支援未設定為協助疑難排解自訂HTML。 如需HTML的協助，請洽詢網頁開發人員。
 
-1. 選取您的登入頁面，然後按一下&#x200B;**編輯草稿**。
+1. 選取您的登入頁面並按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. 輸入您的自訂HTML程式碼，然後按一下&#x200B;**儲存**。
+1. 輸入您的自訂HTML程式碼並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 

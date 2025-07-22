@@ -4,14 +4,14 @@ description: 效能深入分析設定 — Marketo檔案 — 產品檔案
 title: 效能深入分析設定
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
 
-# 效能深入分析設定 {#performance-insights-settings}
+# [!UICONTROL Performance Insights]設定 {#performance-insights-settings}
 
 瞭解MPI中的不同設定選項。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 檢視方案成功案例的方式 {#view-program-success-by}
 
-**參與儀表板 — 貢獻和趨勢**
+**[!UICONTROL Engagement]儀表板 — 貢獻和趨勢**
 
 <table> 
  <tbody> 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 上一期間設定 {#previous-period-configuration}
 
-**參與度、管道、收入儀表板 — 僅貢獻**
+**[!UICONTROL Engagement]、[!UICONTROL Pipeline]、[!UICONTROL Revenue]儀表板 — 僅貢獻**
 
 <table> 
  <tbody> 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## 受行銷影響的機會 {#marketing-influenced-opportunities}
 
-**管道儀表板 — 貢獻和趨勢**
+**[!UICONTROL Pipeline]儀表板 — 貢獻和趨勢**
 
 <table> 
  <tbody> 
@@ -72,7 +72,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-**收入儀表板 — 貢獻和趨勢**
+**[!UICONTROL Revenue]儀表板 — 貢獻和趨勢**
 
 <table> 
  <tbody> 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 ## 成本計算 {#cost-calculation}
 
-**管道和收入儀表板 — 貢獻和趨勢**
+**[!UICONTROL Pipeline]和[!UICONTROL Revenue]儀表板 — 貢獻和趨勢**
 
 <table> 
  <tbody> 

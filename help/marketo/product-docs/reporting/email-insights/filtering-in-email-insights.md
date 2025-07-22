@@ -4,18 +4,18 @@ description: 在電子郵件深入分析中篩選 — Marketo檔案 — 產品�
 title: 在電子郵件深入分析中篩選
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-# 在電子郵件深入分析中篩選 {#filtering-in-email-insights}
+# 在[!UICONTROL Email Insights]中篩選 {#filtering-in-email-insights}
 
-在電子郵件深入分析中，有不同的方式可篩選您的資料。
+在[!UICONTROL Email Insights]中，有不同的篩選資料方式。
 
-## 電子郵件深入分析 {#email-insights}
+## [!UICONTROL Email Insights] {#email-insights}
 
 按一下+以開始新增篩選器。 新增任意數量的專案。
 
@@ -59,10 +59,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->日期範圍會同時套用至「Analytics」頁面和「傳送」頁面。 但是，**比較**&#x200B;選項僅適用於Analytics頁面。
+>日期範圍同時適用於[!UICONTROL Analytics]頁面和[!UICONTROL Sends]頁面。 但是，**比較**&#x200B;選項僅適用於[!UICONTROL Analytics]頁面。
 
 ## 帳戶型行銷 {#account-based-marketing}
 
-如果您使用[Target帳戶管理](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)，會有您專屬的篩選器。
+如果您使用[[!UICONTROL Target Account Management]](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)，會有專門為您提供的篩選器。
 
 ![](assets/abm.png)

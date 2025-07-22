@@ -4,9 +4,9 @@ description: 新增 [!DNL Munchkin] 追蹤程式碼至您的網站 — Marketo�
 title: 新增 [!DNL Munchkin] 追蹤程式碼至您的網站
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '633'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Marketo的自訂JavaScript追蹤程式碼([!DNL Munchkin])會追蹤造訪您網�
 
 >[!NOTE]
 >
->Adobe Experience Cloud使用者也可以在Adobe Launch[&#128279;](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}中使用Marketo整合，以在其網頁上包含[!DNL Munchkin]指令碼。 如果您使用Adobe Launch，_會自動新增[!DNL Munchkin]指令碼_，因此您不需要自行新增。
+>Adobe Experience Cloud使用者也可以在Adobe Launch[中使用](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}Marketo整合，以在其網頁上包含[!DNL Munchkin]指令碼。 如果您使用Adobe Launch，_會自動新增[!DNL Munchkin]指令碼_，因此您不需要自行新增。
 
 1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
@@ -33,7 +33,7 @@ Marketo的自訂JavaScript追蹤程式碼([!DNL Munchkin])會追蹤造訪您網�
 
    ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
 
-1. 為&#x200B;**[!UICONTROL Tracking Code Type]**&#x200B;選取&#x200B;**[!UICONTROL Asynchronous]**。
+1. 為&#x200B;**[!UICONTROL Asynchronous]**&#x200B;選取&#x200B;**[!UICONTROL Tracking Code Type]**。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-3.png)
 
@@ -59,7 +59,7 @@ Marketo的自訂JavaScript追蹤程式碼([!DNL Munchkin])會追蹤造訪您網�
 
    >[!TIP]
    >
-   >若是網站發生大量流量（亦即每月有數十萬次造訪），建議您不要追蹤匿名人員。 [了解更多](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}。
+   >若是網站發生大量流量（亦即每月有數十萬次造訪），建議您不要追蹤匿名人員。 [了解更多](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}。
 
 ## 使用多個工作區時新增追蹤程式碼 {#add-tracking-code-when-using-multiple-workspaces}
 
@@ -81,7 +81,7 @@ Marketo的自訂JavaScript追蹤程式碼([!DNL Munchkin])會追蹤造訪您網�
    >
    >如果您不使用特殊工作區[!DNL Munchkin]程式碼，則會將人員指派給設定帳戶時所建立的預設分割區。 它最初名為&quot;[!UICONTROL Default]&quot;，但您可能在自己的Marketo帳戶中變更了名稱。
 
-1. 為&#x200B;**[!UICONTROL Tracking Code Type]**&#x200B;選取&#x200B;**[!UICONTROL Asynchronous]**。
+1. 為&#x200B;**[!UICONTROL Asynchronous]**&#x200B;選取&#x200B;**[!UICONTROL Tracking Code Type]**。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
@@ -141,4 +141,4 @@ Marketo的自訂JavaScript追蹤程式碼([!DNL Munchkin])會追蹤造訪您網�
 
    >[!NOTE]
    >
-   >如果沒有看到任何資料，請等待幾分鐘，然後按一下底部的重新整理圖示。
+   >如果您沒有看到任何資料，請稍候幾分鐘，然後按一下底部的[!UICONTROL refresh]圖示。

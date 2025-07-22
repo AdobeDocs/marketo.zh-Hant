@@ -4,9 +4,9 @@ description: 取消訂閱群組 — Marketo檔案 — 產品檔案
 title: 取消訂閱群組
 exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 ![](assets/2_c3.png)
 
-如果您是管理員，您可以移至取消訂閱群組來依「帳戶取消訂閱」篩選，並檢視已在您的人員資料庫中收集的所有取消訂閱。
+如果您是管理員，您可以移至取消訂閱群組來依[!UICONTROL Account Unsubscribes]篩選，並檢視已在您的人員資料庫中收集的所有取消訂閱。
 
 ![](assets/3_c3.png)

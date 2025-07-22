@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11382829
-description: Marketo Outlook外掛程式由IT解除安裝 — Marketo檔案 — 產品檔案
-title: Marketo Outlook外掛程式由IT解除安裝
+description: Marketo [!DNL Outlook] Plugin Uninstall by IT - Marketo檔案 — 產品檔案
+title: Marketo [!DNL Outlook] 外掛程式由IT解除安裝
 exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 0%
+source-wordcount: '114'
+ht-degree: 2%
 
 ---
 
-# Marketo Outlook外掛程式由IT解除安裝 {#marketo-outlook-plugin-uninstall-by-it}
+# Marketo [!DNL Outlook]外掛程式由IT解除安裝 {#marketo-outlook-plugin-uninstall-by-it}
 
-以下是IT如何從遠端解除安裝Marketo Outlook外掛程式。
+以下是IT如何從遠端解除安裝Marketo [!DNL Outlook]外掛程式。
 
 以&#39;System&#39;的身分執行以下命令列，或以/x引數的[系統管理]使用者帳戶執行解除安裝。
 
@@ -47,6 +47,6 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->從遠端解除安裝外掛程式將會強制關閉使用者電腦上的Outlook。
+>從遠端解除安裝外掛程式將會強制關閉使用者電腦上的[!DNL Outlook]。
 
 如果您想要嘗試不同的記錄層級或使用者介面層級，請參閱[Microsoft的完整交換器清單](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6)。

@@ -4,16 +4,16 @@ description: 刪除網站行銷活動 — Marketo檔案 — 產品檔案
 title: 刪除網站行銷活動
 exl-id: ec81c3c0-5822-4df4-b9ff-5635f44bc3c6
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
 # 刪除網站行銷活動 {#delete-a-web-campaign}
 
-1. 前往&#x200B;**網路行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-3.jpg)
 
@@ -21,7 +21,7 @@ ht-degree: 0%
    >
    >若要更輕鬆地尋找您想要的網頁行銷活動，請使用[篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
-1. 在網頁行銷活動頁面上，按一下您要刪除行銷活動上的&#x200B;**刪除**。
+1. 在[!UICONTROL Web Campaigns]頁面上，按一下您要刪除之行銷活動上的&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 

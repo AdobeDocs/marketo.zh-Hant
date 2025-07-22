@@ -4,9 +4,9 @@ description: 檢視推播通知控制面板 — Marketo檔案 — 產品檔案
 title: 檢視推播通知控制面板
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可輕鬆瞭解推播通知的運作方式。
 
-1. 前往&#x200B;**行銷活動**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. 按一下&#x200B;**檢視：摘要**&#x200B;並選取&#x200B;**儀表板**。
+1. 按一下&#x200B;**[!UICONTROL View: Summary]**&#x200B;並選取&#x200B;**[!UICONTROL Dashboard]**。
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. 您可以在圓形圖表中檢視iOS和Android的「已傳送總數」和「總點按」次數。 向下捲動以檢視點選長條圖中的「衰減」。
+1. 您可以在圓形圖表中檢視iOS和Android的[!UICONTROL Total Sent]和[!UICONTROL Total Taps]。 向下捲動以檢視長條圖中的[!UICONTROL Tap Decay]。
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 

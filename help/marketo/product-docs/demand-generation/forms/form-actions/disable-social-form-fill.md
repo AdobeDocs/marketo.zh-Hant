@@ -4,10 +4,10 @@ description: 停用社交表單填寫 — Marketo檔案 — 產品檔案
 title: 停用社交表單填寫
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '71'
+ht-degree: 2%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >並非所有客戶都已購買此功能。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-10.png)
 
-1. 選取您的表單並按一下&#x200B;**編輯表單**。
+1. 選取您的表單並按一下&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. 在[表單設定]下，按一下[**設定**]。
+1. 在[!UICONTROL Form Settings]底下，按一下&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/image2016-4-28-16-3a49-3a23.png)
 
-1. 按一下&#x200B;**完成**。
+1. 按一下「**[!UICONTROL Finish]**」。
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. 按一下&#x200B;**核准並關閉**。
+1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

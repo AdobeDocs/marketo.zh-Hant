@@ -4,9 +4,9 @@ description: 設定關閉按鈕並核准訊息 — Marketo檔案 — 產品檔�
 title: 設定解除按鈕並核准訊息
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-9-10-3a23-3a37.png)
 
-1. 如果要變更按鈕顏色，請按一下顏色選取方塊。 按一下顏色，或在檢色器上輸入十六進位或RGB編號來選取顏色。 預設值為黑色。
+1. 如果要變更按鈕顏色，請按一下顏色選取方塊。 按一下顏色，或在檢色器上輸入十六進位或RGB數字來選取顏色。 預設值為黑色。
 
    ![](assets/image2016-5-9-10-3a33-3a17.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 您對圖形、文字和按鈕的所有選取項都已自動儲存。 現在您已準備好完成工作。
 
-1. 若要預覽您的應用程式內訊息，請按一下&#x200B;**訊息動作**&#x200B;下拉式清單，然後選取&#x200B;**預覽**。
+1. 若要預覽您的應用程式內訊息，請按一下&#x200B;**[!UICONTROL Message Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Preview]**。
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -57,13 +57,13 @@ ht-degree: 0%
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. 如果您對應用程式內訊息感到滿意，請按一下[核准並關閉]。**&#x200B;**
+1. 如果您對應用程式內訊息感到滿意，請按一下&#x200B;**[!UICONTROL Approve & Close]**。
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >您也可以直接從[訊息動作]下拉式清單中選取&#x200B;**核准並關閉** （請參閱步驟1），但為了安全起見，為什麼不先預覽訊息？
+   >您也可以直接從&#x200B;**[!UICONTROL Approve & Close]**&#x200B;下拉式清單中選取[!UICONTROL Message Actions] （請參閱步驟1），但為了安全起見，為什麼不先預覽郵件？
 
 1. 若要關閉編輯器而不核准，只需關閉標籤。 它會自動儲存，以便您稍後可以返回並核准。
 

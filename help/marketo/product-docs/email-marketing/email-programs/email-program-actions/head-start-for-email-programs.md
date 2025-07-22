@@ -4,9 +4,9 @@ description: 電子郵件計畫快速入門 — Marketo檔案 — 產品檔案
 title: 電子郵件程式快速入門
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 標準開端 {#standard-head-start}
 
-1. 按一下&#x200B;**行銷活動**。
+1. 按一下「**[!UICONTROL Marketing Activities]**」。
 
    ![](assets/one-1.png)
 
@@ -33,30 +33,30 @@ ht-degree: 0%
    >
    >Head Start不適用於A/B測試。
 
-1. 在「排程」方塊中，排程您的電子郵件，然後選取&#x200B;**Head Start**&#x200B;方塊。
+1. 在[!UICONTROL Schedule]圖磚中，排程您的電子郵件，然後選取&#x200B;**[!UICONTROL Head Start]**&#x200B;方塊。
 
    ![](assets/three-1.png)
 
-   選擇開始時間後，程式將在排程時間前約12小時開始處理。 處理開始後，程式即會鎖定。
+   選取[!UICONTROL Head Start]後，程式將在排程時間前約12小時開始處理。 處理開始後，程式即會鎖定。
 
    >[!CAUTION]
    >
    >您的對象中，在方案鎖定後取消訂閱的任何人仍會收到電子郵件。 我們建議您調整取消訂閱通知，以反映取消訂閱可能需要1-2個工作日才能處理。
 
-1. 按一下&#x200B;**核准方案**。
+1. 按一下「**[!UICONTROL Approve Program]**」。
 
    ![](assets/four-1.png)
 
    方案核准後，您可能會在核准圖磚上看到四種不同的狀態。
 
-   * **正在等候執行：**&#x200B;程式核准後。
-   * **處理已開始，正在等候執行：**&#x200B;處理進行中。
-   * **處理完成，等待執行：**&#x200B;處理完成，電子郵件現在等待排定的啟動時間。
-   * **已完成：**&#x200B;程式已完成。
+   * **[!UICONTROL Waiting to run]：**&#x200B;方案核准後。
+   * **[!UICONTROL Processing started, waiting to run]：**&#x200B;處理進行中。
+   * **[!UICONTROL Processing finished, waiting to run]：**&#x200B;處理完成，電子郵件正在等待排定的啟動時間。
+   * **[!UICONTROL Finished]：**&#x200B;程式已完成。
 
    >[!TIP]
    >
-   >想要在程式鎖定後但在電子郵件傳送前取消？ 沒問題！ 只要按一下[核准]方塊右下角的&#x200B;**中止程式**&#x200B;即可。
+   >想要在程式鎖定後但在電子郵件傳送前取消？ 沒問題！ 只要按一下[核准]方塊右下角的&#x200B;**[!UICONTROL Abort Program]**&#x200B;即可。
 
    >[!NOTE]
    >

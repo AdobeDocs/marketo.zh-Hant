@@ -4,9 +4,9 @@ description: 在電子郵件中轉寄給朋友連結 — Marketo檔案 — 產�
 title: 在電子郵件中轉寄給朋友連結
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '681'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 ## 將連結新增至電子郵件範本 {#add-the-link-to-an-email-template}
 
-1. 移至&#x200B;**設計工作室**。
+1. 移至&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/one-8.png)
 
-1. 尋找並選取您要新增連結的電子郵件範本。 按一下&#x200B;**編輯草稿**。
+1. 尋找並選取您要新增連結的電子郵件範本。 按一下「**[!UICONTROL Edit Draft]**」。
 
    ![](assets/two-7.png)
 
-1. 將下列HTML程式碼貼到您希望[轉寄給朋友]連結出現的位置（如果您需要此部分的協助，請洽詢您的網頁開發人員）：
+1. 將下列HTML程式碼貼到您希望「轉寄給朋友」連結出現的位置（如果您需要此部分的協助，請洽詢您的網頁開發人員）：
 
    `<a href="{{system.forwardToFriendLink}}">Forward to Friend</a>`
 
@@ -42,9 +42,9 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >我們不建議在電子郵件範本中使用樣式&#x200B;**position：relative**。 這可能會造成「轉寄給朋友」方塊的位置和顯示問題。
+   >我們不建議在您的電子郵件範本中使用樣式&#x200B;**position:relative**。 這可能會造成「轉寄給朋友」方塊的位置和顯示問題。
 
-1. 按一下&#x200B;**預覽草稿**，確定範本看起來是您想要的方式。
+1. 按一下&#x200B;**[!UICONTROL Preview Draft]**&#x200B;以確定範本看起來是您想要的。
 
    ![](assets/four-5.png)
 
@@ -84,7 +84,7 @@ ht-degree: 0%
 
    ![](assets/eight-1.png)
 
-1. 使用Ctrl/Cmd+V將&#x200B;**`{{system.forwardToFriendLink}}`**&#x200B;權杖貼到&#x200B;**URL**&#x200B;方塊中，然後按一下&#x200B;**插入**。
+1. 使用Ctrl/Cmd+V將&#x200B;**`{{system.forwardToFriendLink}}`**&#x200B;權杖貼到&#x200B;**URL**&#x200B;方塊中，然後按一下&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/nine.png)
 
@@ -100,7 +100,7 @@ ht-degree: 0%
 
 您可以在個人的活動記錄中檢視誰轉寄及收到電子郵件。
 
-1. 移至&#x200B;**`Database`**。
+1. 移至&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/db.png)
 
@@ -108,7 +108,7 @@ ht-degree: 0%
 
    ![](assets/fourteen.png)
 
-1. 移至&#x200B;**活動記錄**&#x200B;標籤。 按兩下&#x200B;**已接收轉寄給朋友的電子郵件**&#x200B;或&#x200B;**已轉寄給朋友的電子郵件**&#x200B;以檢視詳細資料。
+1. 前往&#x200B;**[!UICONTROL Activity Log]**&#x200B;標籤。 連按兩下&#x200B;**[!UICONTROL Received Forward to Friend Email]**&#x200B;或&#x200B;**[!UICONTROL Sent Forward to Friend Email]**&#x200B;以檢視詳細資料。
 
    ![](assets/fifteen.png)
 
@@ -128,13 +128,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >我們會在即將推出的修補程式中讓&#x200B;**人員ID**&#x200B;可供點按，並直接連結至該人員。
+   >我們會在即將推出的修補程式中將&#x200B;**[!UICONTROL Person ID]**&#x200B;設定為可點按，並直接連結至人員。
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
-   >如果接收轉寄的朋友是未知人員，則會建立新人員，並標示為人員的&#x200B;**Source**&#x200B;的「轉寄給朋友」。
+   >如果接收轉寄的朋友是未知人員，則會建立新人員，並標示為人員的&#x200B;**Source**的「轉寄給朋友」。
    >如果電子郵件是方案的本機資產，則方案會標示為人員的&#x200B;**贏取方案**。
 
 ## 使用轉送活動觸發或篩選 {#trigger-or-filter-using-forwarding-activity}

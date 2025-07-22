@@ -4,16 +4,16 @@ description: Marketo取消訂閱檢查 — Marketo檔案 — 產品檔案
 title: Marketo取消訂閱檢查
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
 # Marketo取消訂閱檢查 {#marketo-unsubscribe-check}
 
-Marketo取消訂閱檢查會使用您團隊與Marketo的連線，防止電子郵件傳送給在Marketo的銷售機會管理系統中取消訂閱的人。 當銷售使用者傳送包含Sales Connect的電子郵件時，將會對Marketo進行API呼叫以檢查電子郵件ID是否已取消訂閱。 如果是，我們將封鎖電子郵件的傳送。
+[!UICONTROL Marketo Unsubscribe Check]會使用您團隊與Marketo的連線，防止電子郵件傳送給已在Marketo的潛在客戶管理系統中取消訂閱的使用者。 當銷售使用者傳送包含[!DNL Sales Connect]的電子郵件時，將會對Marketo進行API呼叫，以檢查電子郵件ID是否已取消訂閱。 如果是，我們將封鎖電子郵件的傳送。
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ Marketo取消訂閱檢查會使用您團隊與Marketo的連線，防止電子郵
 
 ## 開啟 {#turning-it-on}
 
-1. 在網頁應用程式中，按一下齒輪圖示並選取&#x200B;**設定**。
+1. 在網頁應用程式中，按一下齒輪圖示並選取&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/one-2.png)
 
-1. 在[管理設定]下，按一下[**取消訂閱**]。
+1. 在[!UICONTROL Admin Settings]底下，按一下&#x200B;**[!UICONTROL Unsubscribes]**。
 
    ![](assets/two-3.png)
 
-1. 按一下&#x200B;**整合**。
+1. 按一下「**[!UICONTROL Integrations]**」。
 
    ![](assets/three-3.png)
 
-1. 在Marketo取消訂閱檢查區段中，按一下滑桿以啟動檢查。
+1. 在[!UICONTROL Marketo Unsubscribe Check]區段中，按一下滑桿以啟動檢查。
 
    ![](assets/four-2.png)
 

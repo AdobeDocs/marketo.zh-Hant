@@ -4,9 +4,9 @@ description: 瞭解所有內容 — Marketo檔案 — 產品檔案
 title: 瞭解所有內容
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 頁面欄位包括：
 
-* **標題**：內容專案的名稱
-* **類別**：由您建立，用來群組您的網路或電子郵件預測性結果
-* **檢視**：探索到的網頁內容的總點按次數（包括所有來源）
-* **轉換**：在同一次造訪中檢視內容片段並完成表單的訪客數量
-* **轉換率**：由直接轉換除以點按次數計算的百分比
-* **核准預測性專案**：如果內容已核准，便會顯示圖示
+* **[!UICONTROL Title]**：內容專案的名稱
+* **[!UICONTROL Categories]**：由您建立，用來群組您的網路或電子郵件預測性結果
+* **[!UICONTROL Views]**：探索到的網頁內容的總點按次數（包括所有來源）
+* **[!UICONTROL Conversions]**：在同一次造訪中檢視內容片段並完成表單的訪客數量
+* **[!UICONTROL Conversion Rate]**：由直接轉換除以點按次數計算的百分比
+* **[!UICONTROL Approve for Predictive]**：如果內容已核准，圖示就會顯示
 
 您可以新增內容片段並加以追蹤、移除內容片段或核准內容片段。 核准內容後，您可以在「預測性內容」頁面上編輯內容。
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 選取一或多個類別以篩選內容。 接著，使用標準或自訂設定來設定內容分析的日期或日期範圍。
 
-1. 在&#x200B;**所有內容**&#x200B;頁面上，按一下篩選圖示，然後在&#x200B;**類別**&#x200B;下選取一或多個內容類別。
+1. 在&#x200B;**[!UICONTROL All Content]**&#x200B;頁面上，按一下篩選圖示，然後在&#x200B;**[!UICONTROL Category]**&#x200B;下方選取一或多個內容類別。
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ## 顯示日期或日期範圍的Analytics {#display-analytics-for-a-date-or-date-range}
 
-1. 若要顯示特定日期或日期範圍的資料，請按一下日曆圖示，然後從左側面板選取。 若是自訂日期範圍，請按一下日曆上日期範圍的第一天和最後一天（如所示）。 按一下&#x200B;**套用**。
+1. 若要顯示特定日期或日期範圍的資料，請按一下日曆圖示，然後從左側面板選取。 若是自訂日期範圍，請按一下日曆上日期範圍的第一天和最後一天（如所示）。 按一下「**[!UICONTROL Apply]**」。
 
    ![](assets/all-content-calendar-filter-hands.png)
 

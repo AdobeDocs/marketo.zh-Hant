@@ -1,18 +1,18 @@
 ---
-description: Sales Insight Actions中的有趣時刻 — Marketo檔案 — 產品檔案
-title: Sales Insight動作中的有趣時刻
+description: 銷售Insight動作中的有趣時刻 — Marketo檔案 — 產品檔案
+title: 銷售Insight動作中的有趣時刻
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# Sales Insight動作中的有趣時刻 {#interesting-moments-in-sales-insight-actions}
+# [!DNL Sales Insight Actions]中的有趣時刻 {#interesting-moments-in-sales-insight-actions}
 
-有趣的時刻是透過Marketo Sales Insight Actions與您的銷售團隊溝通的關鍵。
+有趣的時刻是透過[!DNL Marketo Sales Insight Actions]與您的銷售團隊溝通的關鍵。
 
 ## 什麼是有趣的時刻？ {#what-is-an-interesting-moment}
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
-1. 拖曳到&#x200B;**有趣的時刻**&#x200B;流程步驟上。
+1. 拖曳至&#x200B;**[!UICONTROL Interesting Moments]**&#x200B;流程步驟上。
 
    ![](assets/interesting-moments-in-sales-insight-actions-2.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/interesting-moments-in-sales-insight-actions-3.png)
 
-1. 在&#x200B;**描述**&#x200B;欄位中寫訊息給您的銷售團隊，說明此動作重要的原因。
+1. 在&#x200B;**[!UICONTROL Description]**&#x200B;欄位中寫入訊息給您的銷售團隊，說明此動作重要的原因。
 
    ![](assets/interesting-moments-in-sales-insight-actions-4.png)
 
@@ -50,8 +50,8 @@ ht-degree: 0%
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 
-## Sales Insight Actions中某個有趣的時刻看起來像什麼？ {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
+## [!DNL Sales Insight Actions]中某個有趣的時刻是什麼樣子？ {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
 
-有趣的時刻將會即時顯示在使用者的即時摘要中。 我們利用Salesforce中的銷售機會擁有者ID，向使用者展示他們擁有之相關銷售機會的有趣時刻。 使用者可以按一下潛在客戶名稱旁邊的下拉式清單，透過電子郵件/電話/銷售促銷活動快速後續追蹤潛在客戶。
+有趣的時刻將會即時顯示在使用者的即時摘要中。 我們利用[!DNL Salesforce]中的潛在客戶擁有者ID來顯示使用者對於他們擁有的相關潛在客戶所感興趣的時刻。 使用者可以按一下潛在客戶名稱旁邊的下拉式清單，透過電子郵件/電話/銷售促銷活動快速後續追蹤潛在客戶。
 
 ![](assets/interesting-moments-in-sales-insight-actions-6.png)

@@ -4,10 +4,10 @@ description: 公司網站活動報表 — Marketo檔案 — 產品檔案
 title: 公司網站活動報表
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 1%
+source-wordcount: '248'
+ht-degree: 2%
 
 ---
 
@@ -19,21 +19,21 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->若要從Marketo中的網站擷取活動，您必須先在網站上設定[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
+>若要從Marketo中的網站擷取活動，您必須先在您的網站[上設定 [!DNL Munchkin] up](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
 
-1. [建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)並選取公司網站活動報告[報告型別](report-type-overview.md)。
+1. [建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)並選取[!UICONTROL Company Web Activity]報告[報告型別](report-type-overview.md)。
 
 1. 選擇在報告中[顯示已知或匿名的使用者](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)。
 
-1. [設定報告的時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)，然後按一下&#x200B;**報告**&#x200B;索引標籤。
+1. [設定報告的時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)，然後按一下&#x200B;**[!UICONTROL Report]**&#x200B;標籤。
 
-1. 完成了！ 請檢閱您的報告，以瞭解哪些公司正在造訪您的網站。
+1. 完成了！請檢閱您的報告，以瞭解哪些公司正在造訪您的網站。
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 
    >[!TIP]
    >
-   >若要尋找最常造訪您網站的公司，請在&#x200B;_頁面檢視_&#x200B;欄位中[排序您的報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)，然後選擇&#x200B;**遞減排序**。
+   >若要尋找最常造訪您網站的公司，請在[欄位中](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)排序您的報表&#x200B;_[!UICONTROL Page Views]_，然後選擇&#x200B;**[!UICONTROL Sort Descending]**。
 
    您可以為公司網站活動報告選取[欄，包括：](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
 

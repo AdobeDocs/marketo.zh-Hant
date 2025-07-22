@@ -4,9 +4,9 @@ description: 網頁活動報表 — Marketo檔案 — 產品檔案
 title: 網頁活動報表
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -32,11 +32,11 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >可能需要最多24小時的時間，資料才會反映在網頁活動報表中。
+   >資料最多可能需要24小時的時間，才能反映在[!UICONTROL Web Page Activity]報表中。
 
    >[!TIP]
    >
-   >若要找出造訪您網站次數最多的訪客，請在&#x200B;_頁面檢視次數_&#x200B;欄位上[排序您的報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}，然後選擇「遞減排序」。
+   >若要找出造訪您網站次數最多的訪客，請在[頁面檢視次數](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}欄位上&#x200B;_排序您的報表_，然後選擇「遞減排序」。
 
    [Marketo會將匿名](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}網站訪客新增至您的資料庫，您可以選擇在此報告中顯示這些訪客。 即使是不記名的，也能提供豐富的資訊。\
    您可以為網頁活動報告選取[欄：](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}

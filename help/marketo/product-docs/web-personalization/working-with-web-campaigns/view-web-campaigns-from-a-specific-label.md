@@ -4,9 +4,9 @@ description: 從特定標籤檢視網頁行銷活動 — Marketo檔案 — 產�
 title: 從特定標籤檢視網站行銷活動
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 依現有標籤篩選 {#filter-by-existing-labels}
 
-1. 前往&#x200B;**網路行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-4.jpg)
 
@@ -31,6 +31,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [為您的網頁行銷活動加上標籤](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [為您的[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)加上標籤
 >* [從特定標籤檢視區段](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
 >* [標籤您的區段](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

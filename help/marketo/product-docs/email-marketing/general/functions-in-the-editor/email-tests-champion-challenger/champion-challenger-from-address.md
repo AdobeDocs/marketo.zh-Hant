@@ -4,9 +4,9 @@ description: 冠軍/挑戰者 — 寄件者地址 — Marketo檔案 — 產品�
 title: 冠軍/挑戰者 — 寄件者地址
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >[新增電子郵件冠軍/挑戰者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. 在電子郵件測試編輯器中，選取&#x200B;**測試型別**&#x200B;下拉式清單中的&#x200B;**寄件者地址**。
+1. 在電子郵件測試編輯器中，選取&#x200B;**[!UICONTROL From Address]**&#x200B;下拉式清單中的&#x200B;**[!UICONTROL Test Type]**。
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >第一個寄件者地址被指定為&#x200B;**冠軍**。 後續的來自位址稱為&#x200B;**挑戰者**。
+   >第一個寄件者地址指定為&#x200B;**[!UICONTROL Champion]**。 後續的來自位址稱為&#x200B;**[!UICONTROL Challengers]**。
 
 1. 輸入挑戰者的&#x200B;**寄件者名稱** （左）和&#x200B;**寄件者地址** （右）。
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    若要取得統計可信度，請務必選擇包含足夠人員的百分比，讓您的測試有效。 不要被不確定的結果所愚弄。
 
-1. 按一下&#x200B;**下一步**。
+1. 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 

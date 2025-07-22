@@ -4,10 +4,10 @@ description: 功能概述 — Marketo檔案 — 產品檔案
 title: 功能概述
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 5%
+source-wordcount: '168'
+ht-degree: 11%
 
 ---
 
@@ -15,60 +15,60 @@ ht-degree: 5%
 
 以下功能可在新的MSI MSD解決方案中使用。
 
-## 潛在客戶版面配置中的Marketo銷售分析面板  {#marketo-sales-insight-panel-in-lead-layout}
+## 潛在客戶配置中的[!DNL Marketo Sales Insight]面板  {#marketo-sales-insight-panel-in-lead-layout}
 
 * 星星和火焰
-* 有趣的時刻
+* 精彩時刻
 * 網頁活動
 * 分數
 * 電子郵件（開啟並按一下）
 
-## 潛在客戶配置中的Marketo銷售分析自訂欄位  {#marketo-sales-insight-custom-fields-in-lead-layout}
+## 潛在客戶配置中的[!DNL Marketo Sales Insight]個自訂欄位  {#marketo-sales-insight-custom-fields-in-lead-layout}
 
 * 銷售機會分數
 * 相對分數
 * 優先順序
 * 急迫性
 
-## 潛在客戶配置中的Marketo銷售分析呼叫動作按鈕  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
+## 潛在客戶配置中的[!DNL Marketo Sales Insight] call to action按鈕  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
 
 * 新增至Marketo Campaign
 * 傳送Marketo電子郵件
 
-## 潛在客戶清單檢視中的Marketo銷售分析大量動作按鈕  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
+## 潛在客戶清單檢視中的[!DNL Marketo Sales Insight]大量動作按鈕  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
 
 * 新增至Marketo Campaign
 * 傳送Marketo電子郵件
 
-## 連絡人版面配置中的Marketo Sales Insight面板  {#marketo-sales-insight-panel-in-contact-layout}
+## 連絡人版面配置中的[!DNL Marketo Sales Insight]面板  {#marketo-sales-insight-panel-in-contact-layout}
 
 * 星星和火焰
-* 有趣的時刻
+* 精彩時刻
 * 網頁活動
 * 分數
 * 電子郵件（開啟並按一下）
 
-## 聯絡人版面配置中的Marketo Sales Insight自訂欄位  {#marketo-sales-insight-custom-fields-in-contact-layout}
+## 連絡人配置中的[!DNL Marketo Sales Insight]個自訂欄位  {#marketo-sales-insight-custom-fields-in-contact-layout}
 
 * 銷售機會分數
 * 相對分數
 * 優先順序
 * 急迫性
 
-## 聯絡人版面配置中的Marketo銷售分析呼叫動作按鈕  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
+## 連絡人配置中的[!DNL Marketo Sales Insight] call to action按鈕  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
 
 * 新增至Marketo Campaign
 * 傳送Marketo電子郵件
 
-## 連絡人清單檢視中的Marketo銷售分析大量動作按鈕  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
+## 連絡人清單檢視中的[!DNL Marketo Sales Insight]大量動作按鈕  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
 
 * 新增至Marketo Campaign
 * 傳送Marketo電子郵件
 
-## 帳戶配置中的Marketo Sales Insight面板 {#marketo-sales-insight-panel-in-account-layout}
+## 帳戶配置中的[!DNL Marketo Sales Insight]面板 {#marketo-sales-insight-panel-in-account-layout}
 
 * 星星和火焰
-* 有趣的時刻
+* 精彩時刻
 * 網頁活動
 * 分數
 * 電子郵件（開啟並按一下）
@@ -78,6 +78,6 @@ ht-degree: 5%
 * 優先順序（星星和火焰）
 * 名稱（超連結至銷售機會/聯絡人頁面）
 * 帳戶
-* 有趣的時刻
+* 精彩時刻
 * 狀態
 * 銷售機會摘要 — 包含訂閱IM的功能

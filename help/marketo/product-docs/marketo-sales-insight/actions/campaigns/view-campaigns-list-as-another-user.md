@@ -3,9 +3,9 @@ description: 以其他使用者身分檢視行銷活動清單 — Marketo檔案 
 title: 以其他使用者身分檢視行銷活動清單
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 在網頁應用程式中，按一下&#x200B;**行銷活動**。
+1. 在網頁應用程式中，按一下&#x200B;**[!UICONTROL Campaigns]**。
 
    ![](assets/view-campaigns-list-as-another-user-1.png)
 
-1. 按一下&#x200B;**以**&#x200B;檢視下拉式清單，然後選取想要的使用者。
+1. 按一下&#x200B;**[!UICONTROL View As]**&#x200B;下拉式清單，然後選取想要的使用者。
 
    ![](assets/view-campaigns-list-as-another-user-2.png)
 
@@ -32,4 +32,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您也可以使用篩選器或搜尋功能搭配「檢視方式」來檢視與您最相關的專案。
+   >您也可以使用篩選器或搜尋功能搭配[!UICONTROL View As]來檢視與您最相關的專案。

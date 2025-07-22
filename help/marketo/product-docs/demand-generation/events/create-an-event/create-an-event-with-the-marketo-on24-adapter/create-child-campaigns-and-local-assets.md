@@ -4,9 +4,9 @@ description: 建立子行銷活動和本機Assets - Marketo檔案 — 產品檔�
 title: 建立子行銷活動和本機Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '650'
 ht-degree: 1%
 
 ---
@@ -73,25 +73,25 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->如果您在非Marketo登陸頁面上使用Marketo表單，您的觸發程式將是&#x200B;**以表單名稱填寫表單**。
+>如果您在非Marketo登陸頁面上使用Marketo表單，則您的觸發程式將為&#x200B;**[!UICONTROL Fills out Form]**&#x200B;搭配[!UICONTROL Form Name]。
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
 **流量**
 
-* **變更方案狀態** — 設定為網路研討會 — >已註冊。
+* **[!UICONTROL Change Program Status]** — 設定為網路研討會 — >已註冊。
 
 設定您的子行銷活動時，此流程步驟是第一個流程步驟的必要專案。 當個人的計畫狀態變更為已註冊時，Marketo會將註冊資訊推送到ON24。 沒有其他狀態會將人員推到。
 
-* **傳送電子郵件** — 確認電子郵件。 將此電子郵件設定為&#x200B;**營運**，讓已註冊的已取消訂閱人員仍可接收此電子郵件。
+* **[!UICONTROL Send Email]** — 確認電子郵件。 將此電子郵件設定為&#x200B;**營運**，讓已註冊的已取消訂閱人員仍可接收此電子郵件。
 
-**傳送電子郵件**&#x200B;流程步驟必須是第二個步驟。 確認電子郵件包含`{{member.webinar url}}`，其中已填入從ON24傳回Marketo的資訊。
+**[!UICONTROL Send Email]**&#x200B;流程步驟必須是第二個步驟。 確認電子郵件包含`{{member.webinar url}}`，其中已填入從ON24傳回Marketo的資訊。
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->這些流程步驟的順序很重要，因為動作在Marketo中的執行順序。 **變更方案狀態**&#x200B;步驟會將人員傳送到ON24進行註冊，並產生唯一的URL。 發生此情況後，您可以使用`{{member.webinar URL}}`權杖傳送包含此唯一URL的確認電子郵件。
+>這些流程步驟的順序很重要，因為動作在Marketo中的執行順序。 **[!UICONTROL Change Program Status]**&#x200B;步驟會將人員傳送到ON24進行註冊，並產生唯一URL。 發生此情況後，您可以使用`{{member.webinar URL}}`權杖傳送包含此唯一URL的確認電子郵件。
 >
 >如果人員因註冊錯誤而返回，他們將不會收到電子郵件確認。
 

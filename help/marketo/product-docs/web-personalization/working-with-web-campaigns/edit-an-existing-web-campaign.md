@@ -4,20 +4,20 @@ description: 編輯現有的網站行銷活動 — Marketo檔案 — 產品檔�
 title: 編輯現有的網站行銷活動
 exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
 # 編輯現有的網站行銷活動 {#edit-an-existing-web-campaign}
 
-1. 前往&#x200B;**網路行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. 在&#x200B;**網頁行銷活動**&#x200B;頁面上，按一下您要編輯行銷活動上的&#x200B;**編輯**。
+1. 在&#x200B;**[!UICONTROL Web Campaigns]**&#x200B;頁面上，按一下您要編輯之行銷活動上的&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/web-campaigns-1-edit-hand.png)
 

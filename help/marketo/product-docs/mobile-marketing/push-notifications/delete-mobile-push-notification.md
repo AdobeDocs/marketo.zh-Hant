@@ -4,16 +4,16 @@ description: 刪除行動推播通知 — Marketo檔案 — 產品檔案
 title: 刪除行動推播通知
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # 刪除行動推播通知 {#delete-mobile-push-notification}
 
-1. 前往&#x200B;**行銷活動**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
-1. 在&#x200B;**推播通知動作**&#x200B;下，按一下&#x200B;**刪除**。
+1. 在&#x200B;**[!UICONTROL Push Notification Actions]**&#x200B;底下，按一下&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
-1. 按一下&#x200B;**刪除**&#x200B;以確認。
+1. 按一下&#x200B;**[!UICONTROL Delete]**&#x200B;確認。
 
    ![](assets/image2015-4-22-18-3a43-3a51.png)
 

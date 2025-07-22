@@ -4,9 +4,9 @@ description: 使用角色 — Marketo檔案 — 產品檔案
 title: 使用角色
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 新增角色 {#add-a-persona}
 
-1. 在「我的Marketo」中，按一下&#x200B;**管理員**。
+1. 在「我的Marketo」中，按一下&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/one.png)
 
-1. 在樹狀結構中，選取&#x200B;**目標帳戶管理**。
+1. 在樹狀結構中，選取&#x200B;**[!UICONTROL Target Account Management]**。
 
    ![](assets/using-personas-2.png)
 
-1. 按一下&#x200B;**編輯**。
+1. 按一下「**[!UICONTROL Edit]**」。
 
    ![](assets/three.png)
 
@@ -33,27 +33,27 @@ ht-degree: 0%
    >
    >預設會包含「職稱」角色。 無法修改或刪除。
 
-1. 若要新增其他角色，請按一下&#x200B;**+新增**。
+1. 若要新增其他角色，請按一下&#x200B;**[!UICONTROL +Add]**。
 
    ![](assets/four.png)
 
-1. 為您的角色命名，然後在下拉式選單中選取對應的欄位。 您最多可以新增兩個其他角色。 完成時，按一下&#x200B;**儲存**。
+1. 為您的角色命名，然後在下拉式選單中選取對應的欄位。 您最多可以新增兩個其他角色。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >建立角色時，角色欄位下拉式清單中只有已同步至您Marketo執行個體的「挑選清單」型別Salesforce自訂欄位。
+   >建立角色時，角色欄位下拉式清單中只有已同步至您Salesforce執行個體的「挑選清單」型別Marketo自訂欄位。
 
 ## 檢視您的角色 {#view-your-personas}
 
-造訪特定具名帳戶以檢視您的角色。
+造訪特定[!UICONTROL Named Account]以檢視您的角色。
 
-1. 選取所需的具名帳戶。
+1. 選取所需的[!UICONTROL Named Account]。
 
    ![](assets/one-a.png)
 
-1. 按一下&#x200B;**角色**&#x200B;標籤。
+1. 按一下「**[!UICONTROL Personas]**」標籤。
 
    ![](assets/two-a.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >標題角色中的X可作為萬用字元。 例如，「CXO」將包含CEO、CFO等
+   >[!UICONTROL Title Persona]中的X會做為萬用字元。 例如，「CXO」將包含CEO、CFO等
 
 ## 角色篩選器 {#persona-filters}
 

@@ -4,9 +4,9 @@ description: 即時摘要概觀 — Marketo檔案 — 產品檔案
 title: 即時摘要概觀
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 0%
 >
 >您無法在「即時摘要」中使用自訂日期篩選器，但可以在Web應用程式中使用。
 
-使用快速動作按鈕來快速撥打電話、傳送電子郵件或導覽至個人的Linkedin設定檔。
+使用快速動作按鈕以快速撥打電話、傳送電子郵件或導覽至人員的[!DNL Linkedin]設定檔。
 
 ## Target標籤 {#target-tab}
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 * 當其個人分數在Marketo中增加時，將會產生銷售機會。
 * 我們顯示前50個銷售機會。
-* 您只會在Salesforce中看到指派給您的人員。
+* 您只會在[!DNL Salesforce]中看到指派給您的人員。
 
 ## 圖示字彙表 {#icon-glossary}
 

@@ -4,9 +4,9 @@ description: 瞭解程式中的我的Token - Marketo檔案 — 產品檔案
 title: 瞭解程式中的我的Token
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '414'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>電子郵件指令碼 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>使用此代號在您的電子郵件中執行Velocity指令碼。 在<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting" title="關注連結" rel="nofollow">此處</a>瞭解更多資訊。 </td> 
+   <td>使用此代號在您的電子郵件中執行Velocity指令碼。 在<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="關注連結" rel="nofollow">此處</a>瞭解更多資訊。 </td> 
   </tr> 
   <tr> 
    <td>數字<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -73,7 +73,7 @@ ht-degree: 1%
 
 >[!CAUTION]
 >
->在Microsoft Dynamics或Salesforce上從Sales Insight傳送電子郵件時，我的Token無法解析；只有標準Token會填入（銷售機會、公司等）。 但是，權杖&#x200B;_的預設值將_&#x200B;有效。
+>在[!DNL Microsoft Dynamics]或[!DNL Salesforce]上從Sales Insight傳送電子郵件時，我的Token無法解析；只會填入標準權杖（銷售機會、公司等）。 但是，權杖&#x200B;_的預設值將_&#x200B;有效。
 
 ## 巢狀代號 {#nesting-tokens}
 

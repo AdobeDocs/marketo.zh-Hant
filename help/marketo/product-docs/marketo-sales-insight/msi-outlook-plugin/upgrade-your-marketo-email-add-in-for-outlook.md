@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2949279
-description: 升級適用於Outlook的Marketo電子郵件增益集 — Marketo檔案 — 產品檔案
-title: 升級您的Outlook版Marketo電子郵件增益集
+description: 針對 [!DNL Outlook] 升級Marketo電子郵件增益集 — Marketo檔案 — 產品檔案
+title: 升級 [!DNL Outlook]的Marketo電子郵件增益集
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '337'
-ht-degree: 10%
+source-wordcount: '317'
+ht-degree: 11%
 
 ---
 
-# 升級您的Outlook版Marketo電子郵件增益集 {#upgrade-your-marketo-email-add-in-for-outlook}
+# 升級[!DNL Outlook]的Marketo電子郵件增益集 {#upgrade-your-marketo-email-add-in-for-outlook}
 
-有適用於Outlook的新版Marketo電子郵件增益集可用時，請依照下列指示進行升級。
+當適用於[!DNL Outlook]的新版Marketo電子郵件增益集可用時，請依照這些指示進行升級。
 
 >[!NOTE]
 >
->自2020年10月1日起，最新版本的Outlook外掛程式不再支援離線模式。 在10/1上或之後安裝/升級後，這就會生效。
+>自2020年10月1日起，[!DNL Outlook]外掛程式的最新版本不再支援離線模式。 在10/1上或之後安裝/升級後，這就會生效。
 
 ## 下載安裝程式 {#download-installer}
 
-下載適用於您Microsoft Outlook版本的安裝程式。
+下載適用於您的Microsoft [!DNL Outlook]版本的安裝程式。
 
 <table> 
  <colgroup> 
@@ -38,77 +38,77 @@ ht-degree: 10%
    <th colspan="2">企業金鑰安裝</th> 
   </tr> 
   <tr> 
-   <td><strong>Outlook版本</strong></td> 
+   <td><strong><span class="dnl">Outlook</span>版本</strong></td> 
    <td><strong>32位元</strong></td> 
    <td><strong>64位元</strong></td> 
    <td><strong>32位元</strong></td> 
    <td><strong>64位元</strong></td> 
   </tr> 
   <tr> 
-   <td>Outlook 2000</td> 
+   <td><span class="dnl">Outlook</span> 2000</td> 
    <td>不支援</td> 
    <td>不適用</td> 
    <td>不支援</td> 
    <td>不適用</td> 
   </tr> 
   <tr> 
-   <td>Outlook 2003</td> 
+   <td><span class="dnl">Outlook 2003</span></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
    <td>不適用</td> 
    <td>不支援</td> 
    <td>不適用</td> 
   </tr> 
   <tr> 
-   <td>Outlook 2007</td> 
+   <td><span class="dnl">Outlook</span> 2007</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
    <td>不適用</td> 
    <td>不支援</td> 
    <td>不適用</td> 
   </tr> 
   <tr> 
-   <td>Outlook 2010</td> 
+   <td><span class="dnl">Outlook</span> 2010</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
   </tr> 
   <tr> 
-   <td>Outlook 2013</td> 
+   <td><span class="dnl">Outlook</span> 2013</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
   </tr> 
   <tr> 
-   <td>Outlook 2016</td> 
+   <td><span class="dnl">Outlook</span> 2016</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Outlook 2019</td> 
+   <td colspan="1"><span class="dnl">Outlook</span> 2019</td> 
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
   </tr> 
   <tr> 
-   <td>適用於Mac的Outlook</td> 
+   <td>適用於Mac的<span class="dnl">Outlook</span></td> 
    <td>不支援</td> 
    <td>不支援</td> 
    <td>不支援</td> 
    <td>不支援</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Outlook Web App</td> 
+   <td colspan="1"><span class="dnl">Outlook</span>網頁應用程式</td> 
    <td colspan="1">不支援</td> 
    <td colspan="1">不支援</td> 
    <td colspan="1">不支援</td> 
    <td colspan="1">不支援</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Office 365*</td> 
+   <td colspan="1"><span class="dnl">Office</span> 365*</td> 
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
@@ -121,7 +121,7 @@ ht-degree: 10%
 
 ## Upgrade {#upgrade}
 
-1. 識別您的[Microsoft Outlook版本](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us)。
+1. 識別您的[[!DNL Microsoft Outlook] 版本](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us)。
 
 1. 從上方清單中選取您的版本。
 
@@ -129,19 +129,19 @@ ht-degree: 10%
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-1. 按一下&#x200B;**下一步**。
+1. 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
    >[!NOTE]
    >
-   >在某些情況下，將會遺失資料。 從註冊電子郵件複製它，然後關閉Outlook。
+   >在某些情況下，將會遺失資料。 從註冊電子郵件複製它，然後關閉[!DNL Outlook]。
 
-1. 關閉Microsoft Outlook。
+1. 關閉[!DNL Microsoft Outlook]。
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. 您會注意到所有資訊都已預先填入。 按&#x200B;**下一步**&#x200B;即可。
+1. 您會注意到所有資訊都已預先填入。 只要按一下&#x200B;**[!UICONTROL Next]**&#x200B;即可。
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
@@ -149,23 +149,23 @@ ht-degree: 10%
    >
    >如果安裝失敗，請與您的IT部門合作，確保HTTPS流量不會遭到封鎖。 安裝程式需要開啟HTTPS流量。
 
-1. 按一下[下一步]&#x200B;**&#x200B;**&#x200B;以安裝在預設位置。
+1. 按一下&#x200B;**[!UICONTROL Next]**&#x200B;以安裝在預設位置。
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. 按一下&#x200B;**下一步**。
+1. 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
-1. 安裝現已完成。 按一下 **關閉**。
+1. 安裝現已完成。 按一下「**[!UICONTROL Close]**」。
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 
-1. 現在開啟Microsoft Outlook以檢視最新版本的Marketo按鈕。
+1. 現在開啟[!UICONTROL Microsoft Outlook]以檢視最新版本的Marketo按鈕。
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
 >[!MORELIKETHIS]
 >
->* [使用Outlook的Marketo電子郵件增益集傳送及追蹤電子郵件](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [使用Marketo範本從Outlook傳送及追蹤](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [使用[!UICONTROL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)的Marketo電子郵件增益集傳送及追蹤電子郵件
+>* [使用Marketo範本從[!UICONTROL Outlook]傳送及追蹤](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

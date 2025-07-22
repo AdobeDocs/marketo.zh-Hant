@@ -4,10 +4,10 @@ description: 在選項或表單的選取欄位中定義值 — Marketo檔案 —
 title: 定義表格中無線電或選取欄位的值
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 0%
+source-wordcount: '172'
+ht-degree: 1%
 
 ---
 
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 一旦您[將欄位型別](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)設定為選項按鈕或選取型別，您就會想要定義使用者可選擇的值。 方法如下。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 
-1. 選取您的表單並按一下&#x200B;**編輯表單**。
+1. 選取您的表單並按一下&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
-1. 選取欄位並按一下&#x200B;**編輯**。
+1. 選取欄位並按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2014-9-15-16-3a29-3a6.png)
 
    >[!NOTE]
    >
-   >第一個和預設值一律為「選取……」 歡迎編輯此內容。 如果您將預設選項按鈕變更為其他列，「選取……」將不會在表單中顯示為選項。
+   >第一個和預設值一律為&quot;[!UICONTROL Select...]&quot;，請隨意編輯。 如果您將預設選項按鈕變更為其他列，&quot;[!UICONTROL Select...]&quot;將不會在表單中顯示為選項。
 
 1. 按一下以新增您的值。
 
@@ -39,27 +39,27 @@ ht-degree: 0%
    >
    >**定義**
    >
-   >**顯示值：**&#x200B;顯示給訪客的內容。
+   >**[!UICONTROL Display Value]：**&#x200B;向訪客顯示的內容。
    >
-   >**儲存值：** Marketo中記錄的值。
+   >**[!UICONTROL Stored Value]：** Marketo中的記錄內容。
 
-1. 新增您需要的值，然後按一下[儲存]。**&#x200B;**
+1. 新增您需要的值，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    >[!NOTE]
    >
-   >如果您未輸入「預存值」，Marketo將會使用「顯示值」並加以儲存。
+   >如果您未輸入[!UICONTROL Stored Value]，Marketo將會使用[!UICONTROL Display Value]並加以儲存。
 
    ![](assets/image2014-9-15-16-3a29-3a30.png)
 
    >[!TIP]
    >
-   >按一下&#x200B;**進階編輯器**，以複製/貼上您想要的值清單。 它可以成為即時節省工具。
+   >如果您需要，請按一下&#x200B;**[!UICONTROL Advanced Editor]**&#x200B;以複製/貼上值清單。 它可以成為即時節省工具。
 
-1. 按一下&#x200B;**完成**。
+1. 按一下「**[!UICONTROL Finish]**」。
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. 按一下&#x200B;**核准並關閉**。
+1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 

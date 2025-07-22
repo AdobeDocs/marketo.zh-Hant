@@ -4,9 +4,9 @@ description: 排程您的電子郵件程式 — Marketo檔案 — 產品檔案
 title: 排程您的電子郵件程式
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 建立您的電子郵件程式、定義對象並選取電子郵件後，您將會想要通知程式&#x200B;*何時*&#x200B;傳送電子郵件。 方法如下。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. 在&#x200B;**排程**&#x200B;圖磚下，設定日期。
+1. 在&#x200B;**[!UICONTROL Schedule]**&#x200B;圖磚下，設定日期。
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. 您也可以選擇使用[收件者時區](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)和/或[開始使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)功能。
+1. 您也可以選擇使用[[!UICONTROL Recipient Time Zone]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)及/或[[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)功能。
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 

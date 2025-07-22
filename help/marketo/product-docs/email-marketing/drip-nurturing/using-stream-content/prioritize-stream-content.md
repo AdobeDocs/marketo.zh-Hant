@@ -4,9 +4,9 @@ description: 排定串流內容的優先順序 — Marketo檔案 — 產品檔�
 title: 排定串流內容的優先順序
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 將內容新增到串流後，您可以變更優先順序。 內容一律由上而下在每次轉換中傳送，不會將任何內容傳送給同一個人兩次。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 
-1. 選取您的參與方案，然後按一下&#x200B;**串流**&#x200B;索引標籤。
+1. 選取您的參與方案，然後按一下「**[!UICONTROL Streams]**」標籤。
 
    ![](assets/cloneasteam-1.jpg)
 

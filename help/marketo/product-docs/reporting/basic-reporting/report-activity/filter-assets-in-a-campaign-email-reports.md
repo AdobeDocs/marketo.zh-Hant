@@ -4,9 +4,9 @@ description: 在行銷活動電子郵件報告中篩選Assets - Marketo檔案 �
 title: 在行銷活動電子郵件報告中篩選Assets
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -27,12 +27,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. 按一下「**設定**」標籤，然後拖曳至篩選器上。
+1. 按一下「**[!UICONTROL Setup]**」索引標籤並拖曳至篩選器上。
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
-   * **行銷活動**： Marketo帳戶中的作用中智慧型行銷活動。
-   * **已封存的行銷活動**：非作用中、已棄用的智慧行銷活動。
+   * **[!UICONTROL Campaigns]**：在您的Marketo帳戶中使用中的智慧型行銷活動。
+   * **[!UICONTROL Archived Campaigns]**：非作用中、已淘汰的智慧行銷活動。
 
 1. 選擇要包含在報表中的資料夾和特定智慧行銷活動。
 
@@ -42,7 +42,7 @@ ht-degree: 0%
    >
    >如果您選取資料夾，報表會包含報表執行時資料夾所包含的所有內容。
 
-1. 您已完成！ 按一下「**報表**」索引標籤以檢視篩選報表。
+1. 您已完成！ 按一下「**[!UICONTROL Report]**」索引標籤以檢視篩選的報告。
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 

@@ -3,9 +3,9 @@ description: 新增或更新您的電子郵件簽名 — Marketo檔案 — 產�
 title: 新增或更新您的電子郵件簽章
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 我們希望從Marketo銷售處傳送電子郵件，能讓您從自己的電子郵件使用者端傳送電子郵件，獲得順暢的體驗。 一個很好的做法是新增您的電子郵件簽名。
 
-1. 按一下齒輪圖示並選取&#x200B;**設定**。
+1. 按一下齒輪圖示並選取&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/add-or-update-your-email-signature-1.png)
 
-1. 在「我的帳戶」底下，選取&#x200B;**電子郵件設定**。
+1. 在[!UICONTROL My Account]下，選取&#x200B;**[!UICONTROL Email Settings]**。
 
    ![](assets/add-or-update-your-email-signature-2.png)
 
-1. 在&#x200B;**地址與簽章**&#x200B;索引標籤中，選取您要建立簽章的電子郵件身分識別。
+1. 在&#x200B;**[!UICONTROL Address and Signature]**&#x200B;索引標籤中，選取您要建立簽章的電子郵件身分識別。
 
    ![](assets/add-or-update-your-email-signature-3.png)
 
-1. 在簽章卡中，按一下&#x200B;**編輯**。
+1. 在[!UICONTROL Signature]卡片中，按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/add-or-update-your-email-signature-4.png)
 
-1. 輸入您想要的文字（或影像）並按一下&#x200B;**儲存**。
+1. 輸入您想要的文字（或影像）並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/add-or-update-your-email-signature-5.png)
 

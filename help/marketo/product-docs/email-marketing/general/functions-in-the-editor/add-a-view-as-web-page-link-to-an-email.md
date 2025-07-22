@@ -4,30 +4,30 @@ description: 將檢視新增為網頁連結至電子郵件 — Marketo檔案 —
 title: 將檢視新增為網頁連結至電子郵件
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
 # 將檢視新增為網頁連結至電子郵件 {#add-a-view-as-web-page-link-to-an-email}
 
-電子郵件的功能有限(CSS有限，無JavaScript或表單)。 使用「以網頁形式檢視」來提供連結，以在瀏覽器中顯示您的電子郵件。 這樣會使用Munchkin來Cookie收件者。
+電子郵件的功能有限(CSS有限，無JavaScript或表單)。 使用「以網頁形式檢視」來提供連結，以在瀏覽器中顯示您的電子郵件。 這將使用[!DNL Munchkin]對收件者進行Cookie。
 
 >[!NOTE]
 >
 >建立新電子郵件時，未啟用以網頁檢視。 如果啟用並複製電子郵件，則會複製此設定。
 
-1. 選取您的電子郵件並按一下&#x200B;**編輯草稿**。
+1. 選取您的電子郵件並按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/one-5.png)
 
-1. 在電子郵件編輯器中，按一下&#x200B;**電子郵件設定**。
+1. 在電子郵件編輯器中，按一下&#x200B;**[!UICONTROL Email Settings]**。
 
    ![](assets/two-5.png)
 
-1. 勾選&#x200B;**以網頁形式包含檢視**&#x200B;方塊，然後按一下&#x200B;**儲存**。
+1. 核取&#x200B;**[!UICONTROL Include View as Web Page Link]**&#x200B;方塊並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/three-4.png)
 

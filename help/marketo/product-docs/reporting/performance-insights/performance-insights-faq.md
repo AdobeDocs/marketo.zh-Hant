@@ -4,16 +4,16 @@ description: 效能深入分析常見問題集 — Marketo檔案 — 產品檔�
 title: 效能深入分析常見問題集
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1346'
+source-wordcount: '1343'
 ht-degree: 0%
 
 ---
 
-# 效能深入分析常見問題集 {#performance-insights-faq}
+# [!UICONTROL Performance Insights]常見問題集 {#performance-insights-faq}
 
-## 「參與」標籤中「成功」的定義是什麼？ {#what-is-the-definition-of-success-in-the-engagement-tab}
+## [!UICONTROL Engagement]索引標籤中「success」的定義是什麼？ {#what-is-the-definition-of-success-in-the-engagement-tab}
 
 在Marketo中，成功是衡量有意義的互動。 方案的目的是建立與人員或潛在客戶的有意義的互動。 當個人達到達到達到該目標的狀態時會標籤成功。 可能是參加網路研討會、按一下電子郵件中的連結，或填寫網路表單。 成功與否因方案管道而異。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## MPI是否可與任何CRM搭配使用？ {#will-mpi-work-with-any-crm}
 
-有。就技術方面而言，MPI不會直接與CRM互動以進行資料同步。 MPI會利用Marketo AnalyticsData Warehouse中儲存的資料。 由於CRM同步作業會在銷售機會管理應用程式中進行，因此Marketo支援的與銷售機會管理應用程式整合的任何CRM都會正確顯示資料。 不過，CRM機會欄位確實需要正確對應到Marketo機會欄位。
+可以。就技術方面而言，MPI不會直接與CRM互動以進行資料同步。 MPI會利用儲存在Marketo Analytics Data Warehouse中的資料。 由於CRM同步作業會在銷售機會管理應用程式中進行，因此Marketo支援的與銷售機會管理應用程式整合的任何CRM都會正確顯示資料。 不過，CRM機會欄位確實需要正確對應到Marketo機會欄位。
 
 ## 我沒有其他任何Marketing Analytics產品(ARB、RCE、RCA、Program Analysis)。 MPI是否適合我？ {#i-do-not-have-any-other-marketing-analytics-products-arb-rce-rca-program-analysis-will-mpi-work-for-me}
 
@@ -31,7 +31,7 @@ MPI是Lead Management應用程式的獨立附加元件。 它不需要使用任�
 
 ## RCA也會顯示程式效能資料。 MPI和RCA中顯示的資料之間是否有差異？ {#rca-shows-me-program-performance-data-as-well-is-there-a-difference-between-the-data-shown-in-mpi-and-rca}
 
-不適用。 MPI會從與RCA相同的資料倉儲取得資料。 因此，您將不會看到兩者之間的任何資料差異。 RCA可讓您即時建立自己的報表。 MPI可讓您存取容易理解的視覺儀表板。
+不可以。 MPI會從與RCA相同的資料倉儲取得資料。 因此，您將不會看到兩者之間的任何資料差異。 RCA可讓您即時建立自己的報表。 MPI可讓您存取容易理解的視覺儀表板。
 
 ## 我不希望我的某些程式（例如作業）顯示在MPI中。 我該如何控制特定程式的可見度？ {#i-don-t-want-some-of-my-programs-e-g-operational-to-show-up-in-mpi-how-do-i-control-the-visibility-of-specific-programs}
 
@@ -80,9 +80,9 @@ MPI會計算您的所有機會是否都包含在Analytics中。 如果沒有，�
 
 自訂欄位、機會型別和ABM篩選器都是與機會相關的屬性。 「業務開發」儀表板可讓您測量您的業務開發，以及潛在客戶贏取，無論他們是否與商機相關聯。 由於Engagement儀表板未考慮機會，因此自訂欄位、機會型別和ABM篩選器不適用。
 
-## 我想使用自訂Salesforce機會欄位來報告收入，而不是標準Salesforce機會金額欄位。 MPI允許我這麼做嗎？ {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
+## 我想要使用自訂Salesforce機會欄位來報告收入，而不是使用標準Salesforce機會金額欄位。 MPI允許我這麼做嗎？ {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-有。只要欄位型別為貨幣，[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)就能將Marketo的「機會金額」欄位重新對應到自訂Salesforce「機會」欄位。 由於MPI指向Marketo機會數量欄位，因此MPI可以使用重新對應的自訂Salesforce欄位中的資料。
+可以。只要欄位型別為貨幣，[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)就能將Marketo的「機會金額」欄位重新對應到自訂Salesforce「機會」欄位。 由於MPI指向Marketo機會數量欄位，因此MPI可以使用重新對應的自訂Salesforce欄位中的資料。
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ MPI的設計可讓您從漏斗的頂部開始測量計畫效能，直到收入�
 
 ## 我可以測量MPI中帳戶型策略的成功程度嗎？ {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-有。MPI與[Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)整合，可順暢地將ABM帳戶清單提取至MPI。 您可以使用「ABM帳戶清單」篩選器來選擇所需的ABM清單以篩選資料。
+可以。MPI與[Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)整合，可順暢地將ABM帳戶清單提取至MPI。 您可以使用「ABM帳戶清單」篩選器來選擇所需的ABM清單以篩選資料。
 
 ## 購買MPI時，是否可以立即使用歸因？ {#is-attribution-instantly-available-when-i-purchase-mpi}
 
@@ -131,9 +131,9 @@ MPI的設計可讓您從漏斗的頂部開始測量計畫效能，直到收入�
 
 Program Analyzer可讓您比較您最多四個測量中的計畫。 MPI可讓您分析您的管道和方案對所選量度（例如成功、建立的新機會等）的貢獻。 也可讓您根據所選的特定量度檢視12個月的管道趨勢。
 
-## MPI和進階Report Builder之間有何差異？ {#whats-the-difference-between-mpi-and-the-advanced-report-builder}
+## MPI與進階Report Builder之間有何差異？ {#whats-the-difference-between-mpi-and-the-advanced-report-builder}
 
-進階Report Builder（有時稱為RCE）是專為自助式（或臨機）報表所設計，通常由行銷運作完成。 MPI的設計可讓行銷主管和行銷人員按一下即可存取效能分析。 需要最少的設定。
+進階Report Builder （有時稱為RCE）是專為自助式（或臨機）報表所設計，通常由行銷作業完成。 MPI的設計可讓行銷主管和行銷人員按一下即可存取效能分析。 需要最少的設定。
 
 ## 貢獻日期篩選器中的「上一年」選項有什麼改變？ {#what-happened-to-the-previous-year-option-in-contributions-date-filter}
 

@@ -3,10 +3,10 @@ description: 建立及指派提醒工作 — Marketo檔案 — 產品檔案
 title: 建立及指派提醒工作
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 0%
+source-wordcount: '134'
+ht-degree: 1%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 提醒工作是瞭解客戶和潛在客戶參與情況的絕佳方式。 若要建立任務，請依照下列步驟進行。
 
-1. 按一下&#x200B;**指揮中心**。
+1. 按一下「**[!UICONTROL Command Center]**」。
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. 預設會開啟任務。 按一下&#x200B;**新增工作**。
+1. 預設會開啟任務。 按一下「**[!UICONTROL Add Task]**」。
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
-1. 從「電子郵件」、「呼叫」、「InMail」或「自訂任務」選取任務型別。
+1. 從[!UICONTROL Email]、[!UICONTROL Call]、[!UICONTROL InMail]或[!UICONTROL Custom]任務中選取任務型別。
 
    ![](assets/create-and-assign-reminder-tasks-3.png)
 
@@ -46,6 +46,6 @@ ht-degree: 0%
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. 新增完成工作時您想要取得的任何工作詳細資訊，例如通話留言、InMail訊息範本，或甚至有關人員的備註。 完成時，按一下&#x200B;**建立**。
+1. 新增完成工作時您想要取得的任何工作詳細資訊，例如通話留言、InMail訊息範本，或甚至有關人員的備註。 完成時，按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

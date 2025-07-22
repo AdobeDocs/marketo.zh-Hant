@@ -4,9 +4,9 @@ description: 永續性取消訂閱 — Marketo檔案 — 產品檔案
 title: 持久取消訂閱
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 777413b4256ab5342b933fa04c34d8a8d1201c0e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Marketo已增強取消訂閱功能的行為，讓其「經久耐用」。 我們
 
 ## 變更電子郵件地址 {#changing-an-email-address}
 
-如果您將某人的電子郵件地址變更為已取消訂閱的電子郵件地址，則會取消訂閱該人。 這項變更可能發生在Marketo或Salesforce中。
+如果您將某人的電子郵件地址變更為已取消訂閱的電子郵件地址，則會取消訂閱該人。 此變更可在Marketo或[!DNL Salesforce]中發生。
 
 ## 重新訂閱 {#re-subscribing}
 

@@ -4,10 +4,10 @@ description: 達人/挑戰者 — 定義達人條件 — Marketo檔案 — 產�
 title: 冠軍/挑戰者 — 定義冠軍標準
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 1%
+source-wordcount: '166'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 ## 標準擁護者條件 {#standard-champion-criteria}
 
-1. 從可用的&#x200B;**達人條件**&#x200B;中選擇一個。
+1. 從可用的&#x200B;**[!UICONTROL Champion Criteria]**&#x200B;中選擇一個。
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## 自訂冠軍條件 {#custom-champion-criteria}
 
-1. 如果您想要獲得精彩，可以選取&#x200B;**自訂轉換**&#x200B;並按一下&#x200B;**編輯**&#x200B;進行自訂。
+1. 如果您想要變得花哨，可以選取&#x200B;**[!UICONTROL Custom Conversion Ratio]**&#x200B;並按一下&#x200B;**[!UICONTROL Edit]**&#x200B;進行自訂。
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -49,9 +49,9 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo僅允許已從此電子郵件程式傳送電子郵件之人員的觸發器。 無需新增「已傳送電子郵件」篩選器。
+   Marketo僅允許已從此電子郵件程式傳送電子郵件之人員的觸發器。 不需要新增&quot;[!UICONTROL Was Sent Email]&quot;篩選器。
 
-1. 按一下 **關閉**。
+1. 按一下「**[!UICONTROL Close]**」。
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 

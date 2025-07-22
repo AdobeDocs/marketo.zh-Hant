@@ -1,27 +1,27 @@
 ---
 unique-page-id: 10099389
-description: 適用於Marketo Dynamics的Microsoft外掛程式版本 — Marketo檔案 — 產品檔案
-title: 適用於Microsoft Dynamics的Marketo外掛程式版本
+description: 適用於 [!DNL Microsoft Dynamics] 的Marketo外掛程式發行版本 — Marketo檔案 — 產品檔案
+title: 適用於 [!DNL Microsoft Dynamics]的Marketo外掛程式發行版本
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: f1fd9564abe4702c3a124442ee26027d4d22f23d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
 
-# 適用於Microsoft Dynamics的Marketo外掛程式版本 {#marketo-plugin-releases-for-microsoft-dynamics}
+# [!DNL Microsoft Dynamics]的Marketo外掛程式發行版本 {#marketo-plugin-releases-for-microsoft-dynamics}
 
-當您首次同步至Microsoft Dynamics時，需下載最新版的Marketo外掛程式。 Marketo會定期更新這些外掛程式，讓您能夠返回相同位置下載新版本。
+當您首次同步至[!DNL Microsoft Dynamics]時，您會下載最新版的Marketo外掛程式。 Marketo會定期更新這些外掛程式，讓您能夠返回相同位置下載新版本。
 
-[下載與您的Dynamics版本對應的最新外掛程式](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}。
+[下載與您的](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)版本對應的最新外掛程式[!DNL Dynamics]。
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
-## 正在更新您的Dynamics解決方案 {#updating-your-dynamics-solution}
+## 正在更新您的[!DNL Dynamics]解決方案 {#updating-your-dynamics-solution}
 
-1. 匯入最新版本的解決方案，以取代現有的Dynamics CRM版本（例如：如果您的Dynamics CRM版本為1.4，而最新版本為1.5，則您會匯入&#x200B;_超過_&#x200B;版本1.4）。
+1. 匯入最新版本的解決方案會取代您現有的[!DNL Dynamics] CRM版本（例如：如果您的[!DNL Dynamics] CRM版本為1.4，而最新版本為1.5，您將會匯入&#x200B;_超過_&#x200B;版本1.4）。
 
 1. 您會看到下列快顯視窗。 選取&#x200B;**更新**&#x200B;和&#x200B;**維護自訂**，然後按一下&#x200B;**匯入**。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這些版本適用於Dynamics的內部部署和線上版本。
+>這些版本適用於[!DNL Dynamics]的內部部署和線上版本。
 
 <table> 
  <tbody> 
@@ -51,31 +51,29 @@ ht-degree: 0%
    <td>錯誤修正：修正無法在MS Dynamics上合併連絡人的錯誤。</td> 
   </tr> 
   <tr> 
-   <td>5.0.1.8</td> 
-   <td>03/27/23</td> 
-   <td>錯誤修正：防止外掛程式覆寫MS Dynamics中UI元素的其他自訂。
-   <p>
-   錯誤修正：恢復5.0.1.1中遺失的導覽圖磚。</td> 
+   <td colspan="1">4.2.0.0</td> 
+   <td colspan="1">10/16/20</td> 
+   <td colspan="1">新增與MS [!DNL Dynamics]同步Campaign的支援。</td> 
   </tr> 
   <tr> 
-   <td>5.0.1.1</td> 
-   <td>02/04/21</td> 
-   <td>支援多選選項集欄位同步（此功能僅適用於V9.X及更高版本）。</td> 
+   <td colspan="1">4.0.0.24</td> 
+   <td colspan="1">8/22/18</td> 
+   <td colspan="1">新增立即可用支援，讓lead符合[!DNL Microsoft Dynamics] 9.x版的連絡流程。</td> 
   </tr> 
   <tr> 
-   <td>4.2.0.0</td> 
-   <td>10/16/20</td> 
-   <td>新增與MS Dynamics同步Campaign的支援。</td> 
+   <td colspan="1">4.0.0.23</td> 
+   <td colspan="1">6/27/18</td> 
+   <td colspan="1">錯誤修正：嘗試安裝[!DNL Dynamics] 2013的Marketo解決方案時發生業務流程錯誤。</td> 
   </tr> 
   <tr> 
    <td>4.0.0.24</td> 
    <td>8/22/18</td> 
-   <td>新增立即可用的支援，讓銷售機會符合Microsoft Dynamics 9.x版的聯絡流程。</td> 
+   <td>新增立即可用的支援，讓Microsoft Dynamics 9.x版的銷售機會符合聯絡流程。</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.23</td> 
-   <td>6/27/18</td> 
-   <td>錯誤修正：嘗試安裝適用於Dynamics 2013的Marketo解決方案時發生業務流程錯誤。</td> 
+   <td colspan="1"><p>4.0.0.21</p></td> 
+   <td colspan="1">11/9/16</td> 
+   <td colspan="1">錯誤修正：外掛程式未訂閱擷取自訂物件狀態變更的事件。 此修正專屬於[!DNL Dynamics] CRM On Premise 2011。 </td> 
   </tr> 
   <tr> 
    <td>4.0.0.22</td> 
@@ -118,14 +116,14 @@ ht-degree: 0%
    <td>錯誤修正：客戶無法在CRM中建立銷售機會，因為登入使用者沒有Marketo設定許可權。</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.14</td> 
-   <td>1/18/16</td> 
-   <td>錯誤修正：為一般Dynamics使用者建立存取限制，以解決安全性問題。</td> 
+   <td colspan="1">4.0.0.14</td> 
+   <td colspan="1">1/18/16</td> 
+   <td colspan="1">錯誤修正：已建立一般[!DNL Dynamics]使用者的存取限制，以解決安全性問題。</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.13</td> 
-   <td>12/30/15</td> 
-   <td>錯誤修正： Dynamics中的更新未同步至Marketo的步驟和影像。</td> 
+   <td colspan="1">4.0.0.13</td> 
+   <td colspan="1">12/30/15</td> 
+   <td>錯誤修正： [!DNL Dynamics]中的更新未同步至Marketo的步驟和影像。</td> 
   </tr> 
   <tr> 
    <td>4.0.0.12</td> 

@@ -4,22 +4,22 @@ description: 編輯地區 — Marketo檔案 — 產品檔案
 title: 編輯區域
 exl-id: 606f3b1b-2180-44b7-b02f-3250b542a4b7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 0%
+source-wordcount: '55'
+ht-degree: 1%
 
 ---
 
-# 編輯區域 {#edit-regions}
+# [!UICONTROL Edit Regions] {#edit-regions}
 
 想要變更您的使用者地區設定，以僅檢視您特定地區的資料嗎？
 
-1. 移至&#x200B;**使用者設定**。
+1. 移至&#x200B;**[!UICONTROL User Settings]**。
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
-1. 按一下&#x200B;**編輯區域**。
+1. 按一下「**[!UICONTROL Edit Regions]**」。
 
    ![](assets/image2014-12-3-18-3a55-3a25.png)
 

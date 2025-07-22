@@ -4,9 +4,9 @@ description: 如何將電子郵件記錄到其他CRM - Marketo檔案 — 產品�
 title: 如何將電子郵件記錄到其他CRM
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,18 @@ ht-degree: 0%
 
 **幾乎每個CRM**：
 
-* 我們的自動密件副本功能適用於您透過Sales Connect傳送給潛在客戶的幾乎所有記錄電子郵件。 只要確定您選擇的CRM提供密件副本地址，您就能妥善運用。
+* 我們的自動密件副本功能適用於您隨[!DNL Sales Connect]傳送給潛在客戶的幾乎所有的CRM記錄電子郵件。 只要確定您選擇的CRM提供密件副本地址，您就能妥善運用。
 
-**Salesforce**：
+**[!DNL Salesforce]**：
 
 * 我們執行了上述所有工作，還有更多工作！
 
 ## 如何連線到其他CRM {#how-to-connect-to-other-crms}
 
-1. 按一下&#x200B;**設定**。
+1. 按一下「**[!UICONTROL Settings]**」。
 1. 按一下&#x200B;**CRM**。
-1. 按一下[其他CRM]下的[連線]。**[連線]**
-1. 按一下&#x200B;**設定**，然後將您的密件副本地址貼到[電子郵件至密件副本]下方。
-1. 按一下「儲存」**&#x200B;**，您的密件副本地址就會儲存到Sales Connect。
+1. 按一下「其他CRM」底下的&#x200B;**[!UICONTROL Connect]**。
+1. 按一下&#x200B;**[!UICONTROL Configure]**，然後將密件副本地址貼到「寄送電子郵件給密件副本」下方。
+1. 按一下&#x200B;**[!UICONTROL Save]**，您的密件副本地址將會儲存至[!DNL Sales Connect]。
 
    電子郵件現在會透過密件副本記錄至您的CRM。

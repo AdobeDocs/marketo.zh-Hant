@@ -4,9 +4,9 @@ description: 登陸頁面效能報表 — Marketo檔案 — 產品檔案
 title: 登陸頁面效能報表
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,8 @@ ht-degree: 0%
 >
 >如果您發現智慧清單和登陸頁面績效報表之間的數字不一致，可能是因為智慧清單僅篩選「人物」的資料，而「登陸頁面績效報表」則包含「人物」資料以外的社交(Facebook、Google Ads等)和匿名活動。
 
-1. [建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)並選取登陸頁面效能[報告型別](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
-1. [設定報告的時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)，然後按一下[報告]索引標籤。
+1. [建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)並選取[!UICONTROL Landing Page Performance] [報告型別](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+1. [設定報告的時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)，然後按一下[!UICONTROL Report]標籤。
 1. 完成了！探索您的報告以評估您的登入頁面執行狀況。
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)

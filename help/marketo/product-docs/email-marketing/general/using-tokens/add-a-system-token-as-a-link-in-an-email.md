@@ -4,9 +4,9 @@ description: 新增系統權杖作為電子郵件中的連結 — Marketo檔案 
 title: 新增系統權杖作為電子郵件中的連結
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 以下說明將它們新增至電子郵件的方式：
 
-1. 尋找並選取您的電子郵件，然後按一下&#x200B;**編輯草稿**。
+1. 尋找並選取您的電子郵件，然後按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/one-1.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 反白您要轉換成具有權杖的連結的文字，然後按一下&#x200B;**插入/編輯連結**&#x200B;按鈕。
+1. 反白您要轉換成連結的文字，該連結將具有權杖，然後按一下&#x200B;**[!UICONTROL Insert/Edit Link]**&#x200B;按鈕。
 
    ![](assets/three-1.png)
 
-1. 在連結URL中輸入權杖，然後按一下&#x200B;**插入**。
+1. 在連結URL中輸入權杖並按一下&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/four-1.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
    >
    >複製/貼上您想要的Token： **`{{system.forwardToFriendLink}}`**、**`{{system.unsubscribeLink}}`**&#x200B;或&#x200B;**`{{system.viewAsWebpageLink}}`**
 
-1. 按一下&#x200B;**保存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 

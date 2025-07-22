@@ -4,9 +4,9 @@ description: 網頁區段 — Marketo檔案 — 產品檔案
 title: 網頁區段
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '2051'
+source-wordcount: '1980'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 「區段」標籤會顯示您根據各種屬性設定之所有自訂已定義的區段。  **區段是符合「設定區段」頁面中定義之指定條件的訪客集合。**&#x200B;區段可以是來自特定產業、位置的訪客，或根據訪客的現場活動而定。
 
-在網頁Personalization中，訪客可比對多個區段。 例如，如果有美國訪客的區段和金融公司的區段，則來自美國銀行的Web訪客會比對&#x200B;**美國訪客的**&#x200B;區段和金融公司的區段。
+在[!DNL Web Personalizatio]中，訪客可比對多個區段。 例如，如果有美國訪客的區段和金融公司的區段，則來自美國銀行的Web訪客會比對&#x200B;**美國訪客的**&#x200B;區段和金融公司的區段。
 
 **圖表：**&#x200B;區段頁面會根據區段的訪客數（y軸）和區段名稱（x軸）來顯示選取區段的長條圖。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>設定行銷活動</strong></td> 
-   <td colspan="1" rowspan="1">可讓您設定與所選搜尋字詞相關聯的行銷活動CTA</td> 
+   <td colspan="1" rowspan="1">可讓您設定與所選搜尋字詞相關聯的促銷活動CTA</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>訪客</strong></td> 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 * 區段名稱
 * 區段的建立日期
-* 顯示以此區段運作的行銷活動的相關行銷活動。 按一下回應數，您就會前往行銷活動頁面，顯示區段的行銷活動CTA （行動號召）
+* 顯示以此區段運作的行銷活動的相關行銷活動。 按一下反應數量會前往行銷活動頁面，顯示該區段的行銷活動CTA (Call to action)
 * 區段的符合數量（符合區段條件的訪客數量）以及符合區段的相異（不重複）訪客數量。 按一下「不重複訪客」連結，您會前往訪客顯示區段結果的頁面
 * 區段的所有者/使用者建立者
 * 與區段相關聯的網域網站
@@ -76,15 +76,15 @@ ht-degree: 0%
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-若要啟用或停用區段，請選取表格中該區段的核取方塊，然後在表格底部的「選擇動作」下拉式方塊中，選取「啟用」或「停用」動作。 區段停用時，「狀態」欄下會顯示「停用」一詞。
+若要啟用或停用區段，請選取表格中該區段的核取方塊，並在表格底部的&quot;[!UICONTROL Choose Action]&quot;下拉式方塊中，選取動作&quot;[!UICONTROL Enable]&quot;或&quot;[!UICONTROL Disable]&quot;。 區段停用時，「停用」一詞會顯示在[!UICONTROL State]欄下方。
 
 ## 建立區段 {#create-segments}
 
-您建立的區段符合您在&#x200B;**設定區段**&#x200B;頁面中定義的任何特定條件。 您也可以根據條件組合來自訂區段，在您的行銷活動中定位特定對象。
+您建立的區段符合您在&#x200B;**[!UICONTROL Set Segment]**&#x200B;頁面中定義的任何特定條件。 您也可以根據條件組合來自訂區段，在您的行銷活動中定位特定對象。
 
 建立新區段的方式
 
-從&#x200B;**區段**&#x200B;頁面，按一下圖形下方的&#x200B;**新建**。 下列畫面隨即顯示。
+從&#x200B;**[!UICONTROL Segments]**&#x200B;頁面，按一下圖表下方的&#x200B;**[!UICONTROL Create New]**。 下列畫面隨即顯示。
 
 ![](assets/four.png)
 
@@ -134,33 +134,33 @@ ht-degree: 0%
 
 **位置**
 
-將&#x200B;**位置**&#x200B;拖放到區段編輯器中。
+將&#x200B;**[!UICONTROL Location]**&#x200B;拖放到區段編輯器中。
 
 * 從下列引數中選取：
 
-   * **包含** — 選取您要讓行銷活動包含或排除位置。
-   * **選取要新增的國家/地區** — 從下拉式方塊中，選取要納入區段中的國家/地區。 國家/地區名稱會顯示在右側。 您可以選擇多個國家/地區。
+   * **[!UICONTROL Include]** — 選取您要讓行銷活動包含或排除位置。
+   * **[!UICONTROL Select country to add]** — 從下拉式方塊中，選取要納入區段的國家/地區。 國家/地區名稱會顯示在右側。 您可以選擇多個國家/地區。
 
 新增國家/地區後，您就可以指定區段的州、城市和郵遞區號。
 
-* **選取要新增的州或省** — 從下拉式方塊中，選取要納入的美國州或加拿大省。 您可以選取多個專案。
-* **郵遞區號** — 輸入您要納入區段的郵遞區號。
-* **城市** — 輸入您要納入的城市。 在城市之間使用分號。
+* **[!UICONTROL Select State or Province to add]** — 從下拉式方塊中，選取要納入的美國州或加拿大省份。 您可以選取多個專案。
+* **[!UICONTROL Zip Code]** — 輸入您要納入區段中的郵遞區號。
+* **[!UICONTROL Cities]** — 輸入您要納入的城市。 在城市之間使用分號。
 
 >[!TIP]
 >
 >**我選擇哪些區段條件？ &#39;AND&#39;或&#39;OR&#39;？** OR在每個欄位中作為其他選項運作。 潛在客戶只需符合在每個欄位中選取的多個條件中的一個條件，即可符合該區段的資格。 （例如，潛在客戶可能來自美國&#x200B;*或來自國防工業的*）。 AND會當作此區段必須符合的額外必要引數。 （例如，潛在客戶必須同時來自美國與國防工業）。 在每個分段設定檔中，視選取的區段條件而定，每個個別欄位都可作為兩者使用，即「與」或「或」。
 
-**產業**&#x200B;在&#x200B;**設定檔分段**&#x200B;區段下，勾選&#x200B;**產業**&#x200B;旁的方塊。
+**產業**&#x200B;在&#x200B;**[!UICONTROL Profile Segmentation]**&#x200B;區段下，勾選&#x200B;**[!UICONTROL Industry]**&#x200B;旁的方塊。
 
 * 從下列引數中選取：
 
-   * **包含** — 選取您要讓區段包含或排除某個產業。
-   * **選取要新增的產業** — 選取您要納入此區段的產業。 產業會出現在下拉式方塊下方。 您可以選擇多個產業。
+   * **[!UICONTROL Includes]** — 選取您要讓區段包含或排除某個產業。
+   * **[!UICONTROL Select Industries to add]** — 選取您要納入此區段的產業。 產業會出現在下拉式方塊下方。 您可以選擇多個產業。
 
 **組織群組**
 
-在&#x200B;**設定檔分段**&#x200B;區段下，勾選&#x200B;**組織群組**&#x200B;旁的方塊。
+在&#x200B;**[!UICONTROL Profile Segmentation]**&#x200B;區段下，勾選&#x200B;**[!UICONTROL Organization Group].**&#x200B;旁的方塊
 
 * 從下拉式方塊中，選取下列選項：
 
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->具名帳戶清單名稱旁方括弧內的數字會作為網頁Personalization [讀取API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/web-personalization)清單的索引參考。
+>具名帳戶清單名稱旁方括弧內的數字會作為網頁Personalization [讀取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)清單的索引參考。
 
 **排除ISP**
 
@@ -195,9 +195,9 @@ ht-degree: 0%
 
 ### 已知人員 {#known-people}
 
-**資料庫**
+**[!UICONTROL Database]**
 
-Web Personalization與您的Marketo資料庫整合，可讓您依據已知的個人屬性和資料來細分和個人化行銷活動。
+[!DNL Web Personalization]與您的Marketo資料庫整合，可讓您依據已知的個人屬性和資料來細分和個人化行銷活動。
 
 選取資料庫，然後從下拉式清單中選取人員資料欄位。 從下拉式清單中選取&#x200B;**+**&#x200B;以新增欄位。
 
@@ -211,22 +211,22 @@ Web Personalization與您的Marketo資料庫整合，可讓您依據已知的個
 >
 >例如： 「職稱等於CMO」以及「分數小於或等於50」
 
-**Marketo電子郵件行銷活動**&#x200B;透過訪客點選Marketo電子郵件並到達網站時的電子郵件轉介，將行銷活動分段和個人化。 依Marketo方案名稱或行銷活動名稱進行細分，並繼續從電子郵件到網頁的對話。 從下拉式清單中選取+以新增欄位。
+**[!UICONTROL Marketo Email Campaign]**&#x200B;透過訪客點選Marketo電子郵件並到達網站時的電子郵件轉介，將行銷活動劃分和個人化。 依Marketo方案名稱或行銷活動名稱進行細分，並繼續從電子郵件到網頁的對話。 從下拉式清單中選取+以新增欄位。
 
 ![](assets/image2015-5-27-17-3a20-3a34.png)
 
-**狀態**
+**[!UICONTROL Status]**
 
 根據潛在客戶狀態定義您的區段：已知或匿名。
 
-* 已知 — 從已知訪客的下拉式方塊中選取此選項。 訪客在您的網站上提交表單並出現在Personalization的「人員」網頁時，即可得知訪客。
+* 已知 — 從已知訪客的下拉式方塊中選取此選項。 當訪客在您的網站上提交表單並出現在[!DNL Web Personalization] [!UICONTROL People]頁面時，就表示訪客是已知的。
 * 匿名 — 從匿名訪客的下拉式方塊中選取此選項。
 
 ![](assets/image2015-5-27-17-3a23-3a2.png)
 
 ### 行為 {#behavioral}
 
-**造訪 —**&#x200B;根據訪客行為或識別來定義您的區段。
+**[!UICONTROL Visits]-**&#x200B;根據訪客行為或識別來定義您的區段。
 
 * 造訪次數 — 從下拉式方塊中選取此選項，以指定潛在客戶在網站上的造訪次數。
 
@@ -234,21 +234,21 @@ Web Personalization與您的Marketo資料庫整合，可讓您依據已知的個
 
 * 特定造訪 — 從下拉式方塊中選取此選項，以指定特定訪客。
 
-   * 在右側的文字方塊中，輸入您要追蹤的訪客編號。 按一下訪客（在訪客頁面中）並在右側面板的「設定促銷活動」時，可找到唯一的網頁Personalization訪客識別碼。 訪客ID位於進階設定區段中。 訪客ID也可在URL中找到（例如VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS）。
+   * 在右側的文字方塊中，輸入您要追蹤的訪客編號。 按一下訪客（在訪客頁面中）和右側面板的「設定行銷活動」時，可找到唯一的[!DNL Web Personalization]訪客識別碼。 訪客ID位於進階設定區段中。 訪客ID也可在URL中找到（例如VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS）。
 
 **搜尋詞** — 根據潛在客戶的搜尋詞定義區段。
 
 * 搜尋的訪客 — 從下拉式清單中，從訪客搜尋中選取您要追蹤的字詞，或新增您自己的搜尋字詞。 （搜尋字詞上不需要萬用字元&#42;，因為已設定為預設包含搜尋字詞的片語）。
 
-**轉介** — 新增訪客轉介的URL。
+**[!UICONTROL Referrals]** — 新增訪客參考的URL。
 
 * 選取要新增的轉介 — 從下拉式清單中，選取您要追蹤的轉介網站或新增您自己的轉介。 選取之後，反向連結將會顯示在下面的方塊中。 （允許使用&#42;做為萬用字元）
 
-**包含頁面** — 追蹤潛在客戶在您網站上瀏覽的特定頁面。
+**[!UICONTROL Include Pages]** — 追蹤潛在客戶在您網站上瀏覽的特定頁面。
 
 * URL相符 — 新增您想要追蹤的特定網頁的URL。 您可用分號分隔多個URL，以新增這些URL。 （允許使用&#42;做為萬用字元）。
 
-**排除頁面** — 排除您不想要在區段中相符的特定頁面。 （允許使用&#42;做為萬用字元）。
+**[!UICONTROL Exclude Pages]** — 排除您不想要在區段中比對的特定頁面。 （允許使用&#42;做為萬用字元）。
 
 * URL不符合 — 新增您想從追蹤中排除的特定網頁URL。 您可以新增多個URL，方法是以分號分隔
 
@@ -256,20 +256,20 @@ Web Personalization與您的Marketo資料庫整合，可讓您依據已知的個
 
 ### 裝置/瀏覽器 {#device-browser}
 
-**行動作業系統**
+**[!UICONTROL Mobile OS]**
 
-將行動作業系統拖放至區段編輯器中
+將[!UICONTROL Mobile OS]拖放至區段編輯器中
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
 * **訪客型別**<br />
-  **行動作業系統** — 從下拉式方塊中，選取一或多個列出的行動作業系統。 選取的行動作業系統會顯示於下方。
+  **[!UICONTROL Mobile OS]** — 從下拉式方塊中，選取一或多個列出的行動作業系統。 選取的行動作業系統會顯示於下方。
 
    * 訪客使用任何行動裝置
    * 訪客使用此特定裝置/作業系統
    * 訪客未使用任何行動裝置
 
-* **裝置** — 從下拉式清單中選取一或多個裝置(Apple、Samsung、LG、HTC、Nexus、Blackberry等……)。 選取的裝置會顯示在下方。
+* **[!UICONTROL Device]** — 從下拉式清單中選取一或多個裝置(Apple、Samsung、LG、HTC、Nexus、Blackberry等……)。 選取的裝置會顯示在下方。
 
 **瀏覽器**
 
@@ -286,29 +286,29 @@ Web Personalization與您的Marketo資料庫整合，可讓您依據已知的個
 
 **使用者內容API**
 
-網頁Personalization API呼叫[請在此閱讀更多相關資訊。](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+網頁Personalization API呼叫[請在此閱讀更多相關資訊。](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
 >**使用萬用字元 —**&#x200B;當您想要包含任何搜尋字詞或URL且其中包含&#39;&#39;[google.com](https://google.com)&#39;&#39;或&#39;&#39;搜尋字詞產品&#39;&#39;時，我們稱此為萬用字元，而且應該在每一端輸入星號 — 這個小傢伙&#42;。 因此，來自[google.com](https://google.com)的任何內容都應輸入為&#42; [google.com](https://google.com)&#42;
 
-## 編輯區段 {#edit-segments}
+## 編輯[!UICONTROL Segments] {#edit-segments}
 
 您可以編輯已建立的區段。
 
-1. 若要編輯區段，請移至&#x200B;**區段**。
+1. 若要編輯區段，請前往&#x200B;**[!UICONTROL Segments]**。
 
    ![](assets/image2014-11-12-11-3a38-3a22.png)
 
-1. 在&#x200B;**區段**&#x200B;表格中，按一下您要編輯區段的編輯圖示( ![](assets/segment-edit.png))。 **設定區段**&#x200B;頁面會以選取的區段開啟。
+1. 在&#x200B;**[!UICONTROL Segments]**&#x200B;表格中，按一下您要編輯之區段的編輯圖示( ![](assets/segment-edit.png))。 **[!UICONTROL Set Segment]**&#x200B;頁面會以選取的區段開啟。
 1. 套用您想要對區段進行的任何編輯或變更。
-1. 按一下&#x200B;**保存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
 ## 刪除區段 {#delete-segments}
 
 您可以刪除已建立的區段。
 
-1. 從上方的&#x200B;**區段**&#x200B;頁面中，選取區段。
+1. 從上方的&#x200B;**[!UICONTROL Segments]**&#x200B;頁面中，選取區段。
 1. 按一下要刪除之區段的刪除圖示( ![](assets/segment-delete.png) )。
 1. 出現確認訊息，確認您即將刪除&#x200B;**區段**。
 

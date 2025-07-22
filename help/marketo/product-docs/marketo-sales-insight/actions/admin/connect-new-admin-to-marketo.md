@@ -3,9 +3,9 @@ description: 將新管理員連線至Marketo - Marketo檔案 — 產品檔案
 title: 連線新管理員至Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '478'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 如果第二個管理員未以管理員身分連線至Marketo...
 
-1. 主要管理員需要從「設定> Marketo >使用者存取」中斷第二位管理員與Marketo的連線。
+1. 主要管理員需要從[!UICONTROL Settings] > Marketo > [!UICONTROL User Access]中斷第二位管理員與Marketo的連線。
 
-1. 次要管理員登入其MSC帳戶，前往「設定> Marketo」，然後按一下&#x200B;**連線**。
+1. 次要管理員登入其MSC帳戶，前往[!UICONTROL Settings] > Marketo，然後按一下&#x200B;**[!UICONTROL Connect]**。
 
 1. 現在，次要使用者以管理員身分連線至Marketo。
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 如果您決定要移除設定Marketo整合的管理員，請參閱本文以瞭解如何進行。
 
-Marketo整合會繫結至Sales Connect/Actions管理員使用者。 通常，這是先按一下Marketo連線頁面上的「連線」按鈕並建立連線的管理員。
+Marketo整合將繫結至[!DNL Sales Connect]/Actions管理員使用者。 通常，這是先按一下Marketo連線頁面上的&#x200B;**[!UICONTROL Connect]**&#x200B;按鈕並建立連線的管理員。
 
 若要移除建立Marketo連線的管理員，必須先由其他管理員使用者建立新連線。 我們已列出以下需要完成才能完成的工作。
 
@@ -52,11 +52,11 @@ Marketo整合會繫結至Sales Connect/Actions管理員使用者。 通常，這
 
 管理員A （最初負責連線的管理員）應遵循下列步驟。
 
-1. 在網頁應用程式中，按一下齒輪圖示並選取&#x200B;**設定**。
+1. 在網頁應用程式中，按一下齒輪圖示並選取&#x200B;**[!UICONTROL Settings]**。
 
 1. 按一下&#x200B;**Marketo**。
 
-1. 按一下&#x200B;**使用者存取**。
+1. 按一下「**[!UICONTROL User Access]**」。
 
 1. 搜尋您要為其建立新Marketo連線的管理員。
 
@@ -66,20 +66,20 @@ Marketo整合會繫結至Sales Connect/Actions管理員使用者。 通常，這
 
 管理員B （新管理員）應完成這些步驟
 
-1. 在網頁應用程式中，按一下齒輪圖示並選取&#x200B;**設定**。
+1. 在網頁應用程式中，按一下齒輪圖示並選取&#x200B;**[!UICONTROL Settings]**。
 
 1. 按一下&#x200B;**Marketo**。
 
-1. 按一下&#x200B;**中斷連線**。
+1. 按一下「**[!UICONTROL Disconnect]**」。
 
 **中斷管理員A**&#x200B;的Marketo整合
 
 管理員A （原本連線的管理員）應完成這些步驟。
 
-1. 在網頁應用程式中，按一下齒輪圖示並選取&#x200B;**設定**。
+1. 在網頁應用程式中，按一下齒輪圖示並選取&#x200B;**[!UICONTROL Settings]**。
 
 1. 按一下&#x200B;**Marketo**。
 
-1. 按一下&#x200B;**中斷連線**。
+1. 按一下「**[!UICONTROL Disconnect]**」。
 
-現在，新的管理員已建立與Marketo的連線，且原始管理員已中斷連線，可以安全地從Sales Connect/Actions執行個體移除原始連線的管理員。
+現在，新的管理員已建立與Marketo的連線，且原始管理員已中斷連線，可以安全地從[!DNL Sales Connect]/Actions執行個體移除原始連線的管理員。

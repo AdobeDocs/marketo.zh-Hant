@@ -4,9 +4,9 @@ description: Google Universal Analytics中的自訂RTP儀表板 — Marketo檔�
 title: Google Universal Analytics中的自訂RTP儀表板
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 ## 設定自訂儀表板 {#setting-up-a-custom-dashboard}
 
-1. 登入Google Analytics。 按一下頂端功能表中的&#x200B;**報表**。 按一下&#x200B;**儀表板**&#x200B;和&#x200B;**+新自訂儀表板**。
+1. 登入Google Analytics。 按一下頂端功能表中的&#x200B;**[!UICONTROL Reporting]**。 按一下&#x200B;**[!UICONTROL Dashboards]**&#x200B;和&#x200B;**[!UICONTROL New Dashboard]**。
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
-1. 選取&#x200B;**空白畫布**，新增&#x200B;**儀表板名稱**，然後按一下&#x200B;**建立儀表板**。
+1. 選取&#x200B;**空白畫布**，新增&#x200B;**儀表板名稱**，然後按一下&#x200B;**[!UICONTROL Create Dashboard]**。
 
-1. 按一下&#x200B;**新增Widget**&#x200B;以建立新的Widget。
+1. 按一下&#x200B;**[!UICONTROL Add Widget]**&#x200B;以建立新的Widget。
 
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 儀表板包含3欄
 
 * 流量來源
-* 區段
+* 分段
 * 第一層向下切入
 
 1. 建立名為&#x200B;**RTP B2B儀表板**&#x200B;的新儀表板，並定義下列Widget：
@@ -70,50 +70,50 @@ ht-degree: 0%
    <td> 
     <ul> 
      <li>名稱：依區段和管道區分的工作階段</li> 
-     <li>Widget型別：長條圖<br></li> 
-     <li>建立長條圖，顯示：工作階段</li> 
-     <li>分組依據：事件標籤</li> 
-     <li>樞紐分析依據：預設通道群組</li> 
-     <li>篩選器：<br>僅顯示 | 事件類別（包含） RTP區段</li> 
+     <li>Widget型別： <span class="uicontrol">列</span><br></li> 
+     <li><span class="uicontrol">建立顯示</span>： <span class="uicontrol">工作階段</span>的橫條圖</li> 
+     <li><span class="uicontrol">依</span>分組： <span class="uicontrol">事件標籤</span></li> 
+     <li><span class="uicontrol">樞紐分析依據</span>： <span class="uicontrol">預設通道群組</span></li> 
+     <li>篩選器： <br><span class="uicontrol">僅顯示</span> | <span class="uicontrol">事件類別</span> （<span class="uicontrol">包含</span>） RTP區段</li> 
     </ul><p><img width="300" src="assets/image2015-3-23-11-3a32-3a13.png" data-linked-resource-id="7504247" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>名稱： RTP分段使用者數</li> 
-     <li>型別： 2.1公制</li> 
-     <li>顯示下列量度：使用者<br></li> 
-     <li>篩選器：<br>僅顯示 | 事件類別（包含） RTP區段</li> 
+     <li>型別： <span class="uicontrol">2.1量度</span></li> 
+     <li><span class="uicontrol">顯示下列量度</span>： <span class="uicontrol">使用者</span><br></li> 
+     <li>篩選器： <br><span class="uicontrol">僅顯示</span> | <span class="uicontrol">事件類別</span> （包含） RTP區段</li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a6.png" data-linked-resource-id="7504249" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>名稱：依產業區分的工作階段</li> 
-     <li>型別：圓形圖<br></li> 
-     <li>建立圓形圖，顯示：階段作業</li> 
-     <li>分組依據：RTP — 產業</li> 
+     <li>型別： <span class="uicontrol">圓形圖</span><br></li> 
+     <li><span class="uicontrol">建立圓形圖，顯示</span>： <span class="uicontrol">工作階段</span></li> 
+     <li><span class="uicontrol">依</span>分組： <span class="uicontrol">RTP — 產業</span></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a27.png" data-linked-resource-id="7504250" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
    <th> 
     <ul> 
      <li><strong>名稱：依產業和管道區分的工作階段</strong></li> 
-     <li><strong>Widget型別：長條圖</strong></li> 
-     <li><strong>建立長條圖，顯示：工作階段</strong></li> 
-     <li><strong>分組依據：RTP — 產業</strong></li> 
-     <li><strong>樞紐分析依據：預設通道群組</strong><br><img width="300" src="assets/image2015-3-23-11-3a33-3a52.png" data-linked-resource-id="7504252" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></li> 
+     <li><strong>Widget型別： <span class="uicontrol">列</span></strong></li> 
+     <li><strong><span class="uicontrol">建立顯示</span>： <span class="uicontrol">工作階段</span>的橫條圖</strong></li> 
+     <li><strong><span class="uicontrol">分組依據</span>： <span class="uicontrol">RTP — 產業</span></strong></li> 
+     <li><strong><span class="uicontrol">樞紐分析依據</span>： <span class="uicontrol">預設通道群組</span></strong><br><img width="300" src="assets/image2015-3-23-11-3a33-3a52.png" data-linked-resource-id="7504252" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></li> 
     </ul></th> 
    <th> 
     <ul> 
      <li><strong>名稱：依國家/地區劃分的工作階段</strong></li> 
-     <li><strong>型別： Geomap</strong></li> 
-     <li><strong>繪製所選量度：國家/地區 | 工作階段</strong></li> 
-     <li><strong>選取區域：世界</strong></li> 
-     <li><strong>篩選器：僅顯示 | 事件類別（包含） RTP區段</strong></li> 
+     <li><strong>型別： <span class="uicontrol">Geomap</span></strong></li> 
+     <li><strong><span class="uicontrol">繪製選取的量度</span>： <span class="uicontrol">國家/地區</span> | <span class="uicontrol">個工作階段</span></strong></li> 
+     <li><strong><span class="uicontrol">選取地區</span>： <span class="uicontrol">世界</span></strong></li> 
+     <li><strong>篩選器： <span class="uicontrol">僅顯示</span> | <span class="uicontrol">事件類別</span> （包含） RTP區段</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a34-3a18.png" data-linked-resource-id="7504253" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
    <th> 
     <ul> 
      <li><strong>名稱：按RTP類別排列的階段作業</strong></li> 
-     <li><strong>型別：圓形圖</strong></li> 
-     <li><strong>建立圓形圖，顯示：階段作業</strong></li> 
-     <li><strong>分組依據：RTP — 類別</strong></li> 
+     <li><strong>型別： <span class="uicontrol">圓形圖</span></strong></li> 
+     <li><strong><span class="uicontrol">建立圓形圖，顯示</span>： <span class="uicontrol">工作階段</span></strong></li> 
+     <li><strong><span class="uicontrol">分組依據</span>： <span class="uicontrol">RTP類別</span></strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a35-3a1.png" data-linked-resource-id="7504254" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
   </tr> 
   <tr> 
@@ -121,10 +121,10 @@ ht-degree: 0%
    <th> 
     <ul> 
      <li>名稱：排名在前的目標區段</li> 
-     <li>型別：長條圖</li> 
-     <li>建立長條圖，顯示：使用者</li> 
-     <li>分組依據：事件動作</li> 
-     <li>篩選器：僅顯示 | 事件類別（包含） RTP區段</li> 
+     <li>型別： <span class="uicontrol">列</span></li> 
+     <li><span class="uicontrol">建立顯示</span>： <span class="uicontrol">使用者</span>的橫條圖</li> 
+     <li><span class="uicontrol">依</span>分組： <span class="uicontrol">事件動作</span></li> 
+     <li>篩選器： <span class="uicontrol">僅顯示</span> | <span class="uicontrol">事件類別</span> （包含） RTP區段</li> 
     </ul><p><img width="350" src="assets/add-a-widget.png" data-linked-resource-id="11382874" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
    <th> 
     <ul> 
@@ -193,9 +193,9 @@ ht-degree: 0%
    <td> 
     <ul> 
      <li>名稱： <strong>CRE — 總點按</strong></li> 
-     <li>型別： <strong>2.1量度</strong><br></li> 
-     <li>顯示下列量度： <strong>頁面檢視</strong></li> 
-     <li>篩選器： <strong>[僅顯示]頁面（包含）： rcmd</strong></li> 
+     <li>型別： <strong><span class="uicontrol">2.1量度</span></strong><br></li> 
+     <li><span class="uicontrol">顯示下列量度</span>： <strong><span class="uicontrol">頁面檢視</span></strong></li> 
+     <li>篩選器： <strong>[<span class="uicontrol">僅顯示</span>] <span class="uicontrol">頁面</span> （<span class="uicontrol">包含</span>）： rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a38-3a30.png" data-linked-resource-id="7504262" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
@@ -216,20 +216,20 @@ ht-degree: 0%
    <td colspan="1"> 
     <ul> 
      <li>名稱： <strong>CRE — 最常建議的內容</strong></li> 
-     <li>型別： <strong>資料表</strong><br></li> 
-     <li>顯示下列資料行： <br><strong>頁面標題 | 頁面檢視</strong><br></li> 
-     <li>篩選器：<br>篩選器： <strong>[僅顯示]頁面（包含）： rcmd</strong></li> 
+     <li>型別： <strong><span class="uicontrol">資料表</span></strong><br></li> 
+     <li><span class="uicontrol">顯示下列資料行</span>： <br><strong><span class="uicontrol">頁面標題</span> | <span class="uicontrol">頁面檢視</span></strong><br></li> 
+     <li>篩選器：<br>篩選器： <strong>[<span class="uicontrol">僅顯示</span>] <span class="uicontrol">頁面</span> （<span class="uicontrol">包含</span>）： rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a51.png" data-linked-resource-id="7504266" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
    <td> 
     <ul> 
      <li>名稱： <strong>頁面/工作階段（參與）</strong></li> 
-     <li>型別： <strong>2.1量度</strong></li> 
-     <li>顯示下列量度： <strong>頁面/工作階段</strong></li> 
-     <li>篩選器：<br><strong>[僅顯示]事件類別（完全相符）： RTP — 促銷活動</strong></li> 
-     <li><strong>[only show]事件動作（完全相符）： impression</strong></li> 
-     <li><strong>[不要顯示]事件標籤（包含）： #</strong></li> 
+     <li>型別： <strong><span class="uicontrol">2.1量度</span> </strong></li> 
+     <li><span class="uicontrol">顯示下列量度</span>： <strong><span class="uicontrol">頁面/工作階段</span></strong></li> 
+     <li>篩選器：<br><strong>[<span class="uicontrol">僅顯示</span>] <span class="uicontrol">事件類別</span> （<span class="uicontrol">完全符合</span>）： RTP-Campaigns</strong></li> 
+     <li><strong>[<span class="uicontrol">只顯示</span>] <span class="uicontrol">事件動作</span> （<span class="uicontrol">完全符合</span>）： impression</strong></li> 
+     <li><strong>[<span class="uicontrol">不顯示</span>] <span class="uicontrol">事件標籤</span> （<span class="uicontrol">包含</span>）： #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a10.png" data-linked-resource-id="7504267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
@@ -246,16 +246,16 @@ ht-degree: 0%
    <td> 
     <ul> 
      <li>名稱： <strong>CTA的曝光數</strong></li> 
-     <li>型別： <strong>資料表</strong></li> 
-     <li>顯示下列資料行： <strong>事件標籤 | 事件總數 | 使用者</strong></li> 
-     <li>篩選器：<br><strong>[僅顯示]事件類別（完全符合）： RTP-Campaigns</strong><br><strong>[僅顯示]事件動作（完全符合）： impression</strong><strong>[不顯示]事件標籤（包含）： #</strong></li> 
+     <li>型別： <strong><span class="uicontrol">資料表</span></strong></li> 
+     <li><span class="uicontrol">顯示下列資料行</span>： <strong><span class="uicontrol">事件標籤</span> | <span class="uicontrol">事件總數</span> | <span class="uicontrol">位使用者</span></strong></li> 
+     <li>篩選器：<br><strong>[<span class="uicontrol">僅顯示</span>] <span class="uicontrol">事件類別</span> （<span class="uicontrol">完全符合</span>）： RTP — 行銷活動</strong><br><strong>[<span class="uicontrol">僅顯示</span>] <span class="uicontrol">事件動作</span> （<span class="uicontrol">完全符合</span>）： impression</strong><strong>[<span class="uicontrol">不顯示</span>] <span class="uicontrol">事件標籤</span> （<span class="uicontrol">包含</span>）： #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>名稱： <strong>CTA的點進</strong></li> 
-     <li>型別： <strong>資料表</strong></li> 
-     <li>顯示下列資料行： <strong>事件標籤 | 事件總數 | 使用者</strong></li> 
-     <li>篩選器：<br><strong>[僅顯示]事件類別（完全相符）： RTP — 行銷活動</strong><br><strong>[僅顯示]事件動作（完全相符）：點按</strong></li> 
+     <li>型別： <strong><span class="uicontrol">資料表</span></strong></li> 
+     <li><span class="uicontrol">顯示下列資料行</span>： <strong><span class="uicontrol">事件標籤</span> | <span class="uicontrol">事件總數</span> | <span class="uicontrol">位使用者</span></strong></li> 
+     <li>篩選器：<br><strong>[<span class="uicontrol">僅顯示</span>] <span class="uicontrol">事件類別</span> （<span class="uicontrol">完全符合</span>）： RTP — 行銷活動</strong><br><strong>[<span class="uicontrol">僅顯示</span>] <span class="uicontrol">事件動作</span> （<span class="uicontrol">完全符合</span>）：點按</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a43-3a4.png" data-linked-resource-id="7504270" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
   </tr> 

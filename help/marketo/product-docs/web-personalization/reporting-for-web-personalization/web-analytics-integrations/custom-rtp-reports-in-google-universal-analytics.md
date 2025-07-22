@@ -4,10 +4,10 @@ description: Google Universal Analytics中的自訂RTP報表 — Marketo檔案 �
 title: Google Universal Analytics中的自訂RTP報表
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 2%
+source-wordcount: '362'
+ht-degree: 3%
 
 ---
 
@@ -22,13 +22,13 @@ ht-degree: 2%
 * RTP B2B
 * RTP參與
 
-## 設定自訂報表 {#setting-up-a-custom-report}
+## 設定[!UICONTROL Custom Report] {#setting-up-a-custom-report}
 
 1. 登入Google Analytics。
 
-1. 按一下頂端功能表中的&#x200B;**自訂**。
+1. 按一下頂端功能表中的&#x200B;**[!UICONTROL Customization]**。
 
-1. 按一下&#x200B;**+新增自訂報告**。
+1. 按一下「**[!UICONTROL New Custom Report]**」。
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
@@ -36,17 +36,17 @@ ht-degree: 2%
 
 1. 命名報告&#x200B;**RTP B2B報告**。
 
-1. 將第一個索引標籤命名為&#x200B;**產業**。
+1. 為第一個索引標籤命名&#x200B;**[!UICONTROL Industry]**。
 
 >[!NOTE]
 >
 >您將&#x200B;**複製此索引標籤**&#x200B;並建立其他類似的索引標籤 — 步驟5)
 
-1. 選取&#x200B;**Explorer**&#x200B;報告型別。
+1. 選取&#x200B;**[!UICONTROL Explorer]**&#x200B;報告型別。
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. 在&#x200B;**量度群組**&#x200B;區段中，選取與您的業務相關的量度。
+1. 在&#x200B;**[!UICONTROL Metric Groups]**&#x200B;區段中，選取與您的業務相關的量度。
 
    a.我們建議以下事項：
 
@@ -79,7 +79,7 @@ ht-degree: 2%
  </thead> 
  <tbody> 
   <tr> 
-   <td>產業</td> 
+   <td>行業</td> 
    <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
@@ -101,9 +101,9 @@ ht-degree: 2%
  </tbody> 
 </table>
 
-1. 請勿設定任何篩選器，並將此報表設定為&#x200B;**所有網站資料** （或若與特定Analytics帳戶相關則變更）都可使用。
+1. 請勿設定任何篩選器，並將此報表設定為可供&#x200B;**[!UICONTROL All Web Site Data]**&#x200B;使用（或在與特定Analytics帳戶相關時變更）。
 
-1. 按一下&#x200B;**保存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
@@ -111,17 +111,17 @@ ht-degree: 2%
 
 1. 命名報告&#x200B;**RTP參與報告**。
 
-1. 將第一個索引標簽名稱設為&#x200B;**所有參與**。
+1. 將第一個索引標簽名稱設為&#x200B;**[!UICONTROL All Engagement]**。
 
 >[!NOTE]
 >
 >您將重複此標籤並建立其他類似的標籤 — 步驟5)
 
-1. 選取&#x200B;**Explorer**&#x200B;報告型別。
+1. 選取&#x200B;**[!UICONTROL Explorer]**&#x200B;報告型別。
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. 在「量度群組」段落中，選取與您的業務相關的量度。 建議如下：
+1. 在[!UICONTROL Metric Groups]區段中，選取與您的業務相關的量度。 建議如下：
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
@@ -135,7 +135,7 @@ ht-degree: 2%
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. 在&#x200B;**Dimension深入研究**&#x200B;區段中，為每個標籤設定相關維度，如下所示：
+1. 在&#x200B;**Dimension深入研究**&#x200B;區段中，設定每個標籤的相關維度，如下所示：
 
 <table> 
  <thead> 
@@ -204,26 +204,26 @@ ht-degree: 2%
  <tbody> 
   <tr> 
    <td><p>包含</p></td> 
-   <td><p>事件類別</p></td> 
-   <td>規則運算式</td> 
+   <td><p><span class="uicontrol">事件類別</span></p></td> 
+   <td>Regex</td> 
    <td>RTP-Campaigns|RTP-Recommendations|RTP-Segments</td> 
    <td colspan="1">將篩選與RTP無關的所有其他自訂事件</td> 
   </tr> 
   <tr> 
    <td>排除</td> 
-   <td>事件標籤</td> 
-   <td>規則運算式</td> 
+   <td><span class="uicontrol">事件標籤</span></td> 
+   <td>Regex</td> 
    <td>#</td> 
    <td colspan="1">可讓您使用行銷活動名稱中的#，從報表行銷活動中進行篩選</td> 
   </tr> 
  </tbody> 
 </table>
 
-1. 將此報告設定為&#x200B;**所有網站資料**&#x200B;都可使用（或視需要變更）。
+1. 將此報告設定為&#x200B;**[!UICONTROL All Web Site Data]**&#x200B;可用（或視需要變更）。
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 

@@ -4,9 +4,9 @@ description: 重新整理報表 — Marketo檔案 — 產品檔案
 title: 重新整理報告
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 您也可以按一下&#x200B;**報告動作**&#x200B;功能表，並選取&#x200B;**重新整理報告**，以重新整理報告。
+1. 您也可以按一下&#x200B;**[!UICONTROL Report Actions]**&#x200B;功能表並選取&#x200B;**[!UICONTROL Refresh Report]**&#x200B;以重新整理報告。
 
    ![](assets/three.png)
 

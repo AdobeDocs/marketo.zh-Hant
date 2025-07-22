@@ -4,10 +4,10 @@ description: 編輯Marketo登陸頁面範本 — Marketo檔案 — 產品檔案
 title: 編輯Marketo登陸頁面範本
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 0%
+source-wordcount: '86'
+ht-degree: 1%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 您可以在Marketo中編輯任何登入頁面範本。
 
-1. 移至&#x200B;**設計工作室**。
+1. 移至&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/designstudio.png)
 
-1. 展開&#x200B;**登陸頁面**&#x200B;以顯示範本。
+1. 展開&#x200B;**[!UICONTROL Landing Pages]**&#x200B;以顯示範本。
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. 選取您要編輯的&#x200B;**範本**。 按一下&#x200B;**編輯草稿**。
+1. 選取您要編輯的&#x200B;**[!UICONTROL Template]**。 按一下「**[!UICONTROL Edit Draft]**」。
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 

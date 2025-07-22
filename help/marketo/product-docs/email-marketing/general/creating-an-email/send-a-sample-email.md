@@ -4,9 +4,9 @@ description: 傳送範例電子郵件 — Marketo檔案 — 產品檔案
 title: 傳送範例電子郵件
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,14 @@ ht-degree: 0%
 
 ## 傳送範例電子郵件 {#send-a-sample-email-1}
 
-1. 尋找並選取您的電子郵件。 按一下&#x200B;**電子郵件動作**&#x200B;下拉式清單，然後選取&#x200B;**傳送範例**。\
+1. 尋找並選取您的電子郵件。 按一下&#x200B;**[!UICONTROL Email Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Send Sample]**。\
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
    >
    >我的Token會解析為適用於電子郵件程式的值。
 
-1. 輸入一或多個要傳送的電子郵件地址。 如果有多個電子郵件地址，請使用逗號來區隔。 完成時，按一下&#x200B;**傳送**。
+1. 輸入一或多個要傳送的電子郵件地址。 如果有多個電子郵件地址，請使用逗號來區隔。 完成時，按一下&#x200B;**[!UICONTROL Send]**。
 
    ![](assets/two.png)
 
@@ -42,21 +42,21 @@ ht-degree: 0%
 
 ## 編輯時傳送範例電子郵件 {#send-a-sample-email-while-editing}
 
-1. 尋找您的電子郵件，選取它並按一下&#x200B;**編輯草稿**&#x200B;索引標籤。
+1. 尋找您的電子郵件，選取它並按一下&#x200B;**[!UICONTROL Edit Draft]**&#x200B;標籤。
 
    ![](assets/three-281-29.jpg)
 
-1. 按一下&#x200B;**電子郵件動作**，選取&#x200B;**傳送範例**。
+1. 按一下&#x200B;**[!UICONTROL Email Actions]**，選取&#x200B;**[!UICONTROL Send Sample]**。
 
    ![](assets/four.png)
 
-1. 輸入傳遞的電子郵件地址，然後按一下&#x200B;**傳送**。
+1. 輸入傳遞的電子郵件地址，然後按一下&#x200B;**[!UICONTROL Send]**。
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >觸發欄位僅適用於使用[電子郵件指令碼](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting)的使用者。
+   >觸發欄位僅適用於使用[電子郵件指令碼](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)的使用者。
 
 ## 根據區段傳送範例電子郵件 {#send-a-sample-email-based-on-a-segment}
 
@@ -64,15 +64,15 @@ ht-degree: 0%
 >
 >[將分段套用至您的電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)。
 
-1. 尋找您的電子郵件，選取它並按一下&#x200B;**編輯草稿**&#x200B;索引標籤。
+1. 尋找您的電子郵件，選取它並按一下&#x200B;**[!UICONTROL Edit Draft]**&#x200B;標籤。
 
    ![](assets/three-281-29.jpg)
 
-1. 按一下&#x200B;**預覽**。
+1. 按一下「**[!UICONTROL Preview]**」。
 
    ![](assets/1.png)
 
-1. 按一下&#x200B;**檢視依據**&#x200B;下拉式清單，然後選取&#x200B;**分段**。
+1. 按一下&#x200B;**[!UICONTROL View By]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Segmentation]**。
 
    ![](assets/2.png)
 
@@ -84,12 +84,12 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-1. 按一下&#x200B;**傳送範例**&#x200B;以接收使用中區段的測試電子郵件。
+1. 按一下「**[!UICONTROL Send Sample]**」以接收使用中區段的測試電子郵件。
 
    ![](assets/5.png)
 
    >[!TIP]
    >
-   >您也可以在電子郵件的編輯模式下，根據區段傳送範例電子郵件。 按一下&#x200B;**電子郵件動作**&#x200B;下拉式清單，選取&#x200B;**傳送範例**，然後選擇您的區段。
+   >您也可以在電子郵件的編輯模式下，根據區段傳送範例電子郵件。 按一下&#x200B;**[!UICONTROL Email Actions]**&#x200B;下拉式清單，選取&#x200B;**[!UICONTROL Send Sample]**，然後選擇您的區段。
 
 在啟動行銷活動之前取樣內容非常重要。 測量兩次，剪下一次！

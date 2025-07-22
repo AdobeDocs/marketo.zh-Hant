@@ -3,16 +3,16 @@ description: 瞭解內容標籤 — Marketo檔案 — 產品檔案
 title: 瞭解「內容」標籤
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-# 瞭解「內容」標籤 {#understanding-the-content-tab}
+# 瞭解[!UICONTROL Content]標籤 {#understanding-the-content-tab}
 
-內容標籤與團隊使用範本時的電子郵件參與度有關。 我們會自動向上反升至我們認為重要的三個量度。
+[!UICONTROL Content]索引標籤與使用範本時您團隊的電子郵件參與有關。 我們會自動向上反升至我們認為重要的三個量度。
 
 ## 秘密武器 {#secret-weapon}
 

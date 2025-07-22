@@ -3,10 +3,10 @@ description: 新增身分 — Marketo檔案 — 產品檔案
 title: 新增身分
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 0%
+source-wordcount: '174'
+ht-degree: 1%
 
 ---
 
@@ -22,19 +22,19 @@ ht-degree: 0%
 
    ![](assets/add-identity-1.png)
 
-1. 按一下&#x200B;**電子郵件設定**。
+1. 按一下「**[!UICONTROL Email Settings]**」。
 
    ![](assets/add-identity-2.png)
 
-1. 按一下&#x200B;**新增身分**。
+1. 按一下「**[!UICONTROL Add Identity]**」。
 
    ![](assets/add-identity-3.png)
 
-1. 輸入資訊（電子郵件和名稱是必填欄位），然後按一下&#x200B;**建立**。
+1. 輸入資訊（電子郵件和名稱是必填欄位），然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/add-identity-4.png)
 
-1. 然後您會收到「請驗證電子郵件地址」電子郵件。 若要驗證，請按一下[驗證電子郵件地址]。**&#x200B;**
+1. 然後您會收到「請驗證電子郵件地址」電子郵件。 若要驗證，請按一下&#x200B;**[!UICONTROL Verify Email Address]**。
 
    ![](assets/add-identity-5.png)
 

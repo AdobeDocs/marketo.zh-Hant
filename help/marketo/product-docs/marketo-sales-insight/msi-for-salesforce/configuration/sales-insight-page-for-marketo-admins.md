@@ -1,44 +1,44 @@
 ---
 unique-page-id: 42762409
-description: Marketo管理員的銷售分析頁面 — Marketo檔案 — 產品檔案
-title: Marketo管理員的銷售分析頁面
+description: Marketo管理員銷售Insight頁面 — Marketo檔案 — 產品檔案
+title: Marketo管理員專用的Insight銷售頁面
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
 
-# Marketo管理員的銷售分析頁面 {#sales-insight-page-for-marketo-admins}
+# Marketo管理員的[!DNL Sales Insight]頁面 {#sales-insight-page-for-marketo-admins}
 
-Marketo管理員在Sales Insight中有某些許可權。 瞭解以下內容。
+Marketo管理員在[!DNL Sales Insight]中擁有特定許可權。 瞭解以下內容。
 
 ## Soap API設定 {#soap-api-configuration}
 
-這些憑證可用來將您的Salesforce帳戶連線至您的Marketo執行個體，以便在Salesforce中使用MSI。
+這些認證可用來將您的[!DNL Salesforce]帳戶連線至您的Marketo執行個體，以便在[!DNL Salesforce]中使用MSI。
 
 ![](assets/one-1.png)
 
 ## Rest API設定 {#rest-api-configuration}
 
-這些憑證可用來將您的Salesforce帳戶連線至您的Marketo執行個體，以便在Salesforce中使用MSI前瞻分析控制面板。
+這些認證可用來將您的[!DNL Salesforce]帳戶連線至您的Marketo執行個體，以便在[!DNL Salesforce]中使用MSI深入分析儀表板。
 
 ![](assets/two-1.png)
 
 ## 個人分數設定 {#person-score-settings}
 
-* **顆星**：顆星代表與其他潛在客戶相較之下的潛在客戶總分數。
-* **火焰**：火焰代表急迫性 — 潛在客戶的分數最近已變更多少。
+* **[!UICONTROL Stars]**：星星代表和其他潛在客戶相較之下的潛在客戶總分。
+* **[!UICONTROL Flames]**：火焰代表急迫性 — 潛在客戶的分數最近已變更多少。
 
-依預設，Marketo Sales Insight會使用「潛在客戶分數」欄位來計算星星和火焰。 但如果您想挑選不同的欄位，選擇方法如下：
+根據預設，[!DNL Marketo Sales Insight]會使用「潛在客戶分數」欄位來計算星星和火焰。 但如果您想挑選不同的欄位，選擇方法如下：
 
-1. 在Marketo的&#x200B;**管理員**&#x200B;區域中，按一下&#x200B;**銷售分析**。
+1. 在Marketo的&#x200B;**[!UICONTROL Admin]**&#x200B;區域中，按一下&#x200B;**[!UICONTROL Sales Insight]**。
 
    ![](assets/four.png)
 
-1. 在[潛在客戶評分設定]下，按一下[編輯]。**&#x200B;**
+1. 在[!UICONTROL Lead Scoring Settings]底下，按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/five.png)
 
@@ -50,7 +50,7 @@ Marketo管理員在Sales Insight中有某些許可權。 瞭解以下內容。
 
    ![](assets/seven.png)
 
-1. 按一下&#x200B;**儲存**。 銷售分析需要一些時間重新計算。 您可以稍後檢視您的CRM，以檢視星星和火焰。
+1. 按一下&#x200B;**[!UICONTROL Save]**。 銷售insight將需要一些時間重新計算。 您可以稍後檢視您的CRM，以檢視星星和火焰。
 
    ![](assets/eight.png)
 
@@ -68,20 +68,20 @@ Marketo管理員在Sales Insight中有某些許可權。 瞭解以下內容。
 
 **取消訂閱設定：**
 
-您可以從以下取消訂閱設定中選擇無範本、標準電子郵件和操作電子郵件
+您可以從下列[!UICONTROL No Template]、[!UICONTROL Standard Emails]與[!UICONTROL Operational emails]的取消訂閱設定中選擇
 
-* 遵循取消訂閱設定
-* 超過1位收件者時遵循取消訂閱設定
-* 當超過5位收件者時，請遵循取消訂閱設定
-* 忽略取消訂閱設定
+* [!UICONTROL Respect Unsubscribe Setting]
+* [!UICONTROL Respect Unsubscribe Settings when more than 1 recipient]
+* [!UICONTROL Respect Unsubscribe Settings when more than 5 recipients]
+* [!UICONTROL Ignore Unsubscribe Settings]
 
 **啟用鎖定範本的功能：**
 
-啟用後，MSI使用者將無法從Salesforce傳送電子郵件時編輯範本
+啟用後，MSI使用者將無法從[!DNL Salesforce]傳送電子郵件時編輯範本
 
 **啟用RSS摘要：**
 
-啟用後，MSI使用者可以在RSS摘要中檢視他們的銷售機會摘要（除了Salesforce中的銷售機會摘要之外）。 RSS摘要只有在「權杖有效期」功能停用時才能運作。
+啟用後，MSI使用者可以在RSS摘要中檢視他們的銷售機會摘要（除了[!DNL Salesforce]中的銷售機會摘要之外）。 RSS摘要只有在停用&quot;[!UICONTROL Token Expiration]&quot;功能時才能運作。
 
 **權杖到期日：**
 

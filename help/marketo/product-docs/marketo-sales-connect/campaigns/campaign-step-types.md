@@ -4,10 +4,10 @@ description: 行銷活動步驟型別 — Marketo檔案 — 產品檔案
 title: 行銷活動步驟型別
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 0%
+source-wordcount: '180'
+ht-degree: 1%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 >
 >瞭解關於您的[傳送選項](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md)的詳細資料。
 
-## 呼叫 {#call}
+## 號召 {#call}
 
 設定透過電話追蹤連絡人的提醒。 您也可以儲存筆記，以便在通話期間作為談話追蹤。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## InMail {#inmail}
 
-在多個管道上追蹤是聯絡潛在客戶的絕佳方式。 若使用InMail工作，您可以設定提醒透過LinkedIn聯絡。
+在多個管道上追蹤是聯絡潛在客戶的絕佳方式。 若使用InMail工作，您可以設定提醒透過[!DNL LinkedIn]連絡。
 
 ![](assets/inmail.png)
 

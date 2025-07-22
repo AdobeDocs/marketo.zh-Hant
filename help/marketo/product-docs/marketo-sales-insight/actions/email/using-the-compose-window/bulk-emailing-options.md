@@ -3,16 +3,16 @@ description: 大量電子郵件選項 — Marketo檔案 — 產品檔案
 title: 大量電子郵件選項
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '252'
 ht-degree: 3%
 
 ---
 
 # 大量電子郵件選項 {#bulk-emailing-options}
 
-大量傳送電子郵件是加速潛在客戶參與的絕佳方式。 Marketo銷售提供兩種大量傳送電子郵件的方式：**群組電子郵件**&#x200B;和&#x200B;**選取並傳送**。 群組電子郵件是快速傳送數百封電子郵件至目標群組的絕佳方式。 使用選取並傳送表示電子郵件限制較低，但為使用者提供更多的自訂機會。
+大量傳送電子郵件是加速潛在客戶參與的絕佳方式。 [!DNL Marketo Sales]提供兩種大量傳送電子郵件的方式：**群組電子郵件**&#x200B;和&#x200B;**選取並傳送**。 群組電子郵件是快速傳送數百封電子郵件至目標群組的絕佳方式。 使用選取並傳送表示電子郵件限制較低，但為使用者提供更多的自訂機會。
 
 **群組電子郵件與選取和傳送**
 
@@ -37,15 +37,15 @@ ht-degree: 3%
   <tr> 
    <td>群組電子郵件</td> 
    <td>1,000</td> 
-   <td>選取群組並按一下「群組動作」按鈕，或在「至」欄位中輸入群組名稱。</td> 
+   <td>選取群組並按一下"[!UICONTROL Group Actions]"按鈕，或在[收件者]欄位中輸入群組名稱。</td> 
    <td>是</td> 
-   <td>否</td> 
+   <td>無</td> 
    <td>是</td> 
   </tr> 
   <tr> 
    <td>選取並傳送</td> 
    <td>200</td> 
-   <td>在格線中選取人員，然後按一下動作列中的「選取電子郵件」按鈕，或在大量電子郵件側邊欄中輸入收件者。</td> 
+   <td>在格線中選取人員，然後按一下動作列中的「[!UICONTROL Email Selected]」按鈕，或在大量電子郵件側邊欄中輸入收件者。</td> 
    <td>是</td> 
    <td>是</td> 
    <td>是</td> 

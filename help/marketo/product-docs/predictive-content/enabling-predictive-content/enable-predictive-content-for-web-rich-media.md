@@ -4,9 +4,9 @@ description: 為網頁多媒體啟用預測性內容 — Marketo檔案 — 產�
 title: 為網頁多媒體啟用預測性內容
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -33,21 +33,21 @@ ht-degree: 0%
 
 準備好豐富媒體的內容標題、說明和影像後，您就可以啟用個別或多個內容片段。
 
-1. 若要啟用個別標題，請按一下標題以開啟編輯器。 按一下「豐富型媒體」，然後勾選「**啟用豐富型媒體中的預測性內容**」方塊，並按一下「儲存&#x200B;**」**。
+1. 若要啟用個別標題，請按一下標題以開啟編輯器。 按一下&#x200B;**[!UICONTROL Rich Media]**，然後核取&#x200B;**[!UICONTROL Enabled for Predictive Content in Rich Media]**&#x200B;方塊並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. 針對多個內容，在&#x200B;**預測性內容**&#x200B;頁面上，勾選標題旁的方塊。
+1. 針對多個內容片段，在&#x200B;**[!UICONTROL Predictive Content]**&#x200B;頁面上，勾選標題旁的方塊。
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. 按一下&#x200B;**內容動作**&#x200B;下拉式清單，然後選取&#x200B;**啟用Web Rich Media**。
+1. 按一下&#x200B;**[!UICONTROL Content Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Enable for Web Rich Media]**。
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## 自訂Javascript程式碼並將其內嵌至您的網站  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-請參閱Marketo開發人員網站[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}上Rich Media Recommendation範本的檔案。 以下說明如何自訂網站的範本。
+請參閱Marketo開發人員網站[上Rich Media Recommendation範本](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}的檔案。 以下說明如何自訂網站的範本。
 
 將JavaScript程式碼貼入網站中您要顯示範本的位置。
 

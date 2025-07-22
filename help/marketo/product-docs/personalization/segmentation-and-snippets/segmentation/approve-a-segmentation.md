@@ -4,9 +4,9 @@ description: 核准區段 — Marketo檔案 — 產品檔案
 title: 核准分段
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -24,30 +24,30 @@ ht-degree: 0%
 >
 >一次最多可核准20個區段。
 
-1. 移至&#x200B;**資料庫**。
+1. 移至&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/image2017-3-28-14-3a25-3a49.png)
 
-1. 在分段中，按一下&#x200B;**分段動作**，然後按&#x200B;**核准**。
+1. 在「分段」中，按一下&#x200B;**[!UICONTROL Segmentation Actions]**，然後按一下&#x200B;**[!UICONTROL Approve]**。
 
    ![](assets/image2017-3-28-14-3a46-3a22.png)
 
    >[!NOTE]
    >
-   >核准處理期間，狀態會變更為使用旋轉滾輪( ![](assets/image2014-9-15-15-3a31-3a43.png))進行核准。
+   >核准進行中時，狀態會變更為具有旋轉滾輪( [!UICONTROL Approving])的![](assets/image2014-9-15-15-3a31-3a43.png)。
 
    >[!CAUTION]
    >
    >核准可能需要幾分鐘甚至一天以上的時間才能完成，視資料庫大小而定。
 
-   核准後，狀態會從核准變更為已核准。
+   核准後，[!UICONTROL Status]會從[!UICONTROL Approving]變更為[!UICONTROL Approved]。
    ![](assets/image2017-3-28-14-3a46-3a44.png)
 
    >[!TIP]
    >
    >每個區段中的人數會顯示在區段名稱旁的方括弧中。
 
-1. **區段**&#x200B;中的&#x200B;**人員**&#x200B;索引標籤現在會顯示該區段的最終人員清單。
+1. **[!UICONTROL People]**&#x200B;中的&#x200B;**[!UICONTROL Segment]**&#x200B;索引標籤現在會顯示該區段的最終人員清單。
 
    ![](assets/image2017-3-28-14-3a47-3a10.png)
 

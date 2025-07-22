@@ -4,10 +4,10 @@ description: 為您的帳戶啟用個人化URL - Marketo檔案 — 產品檔案
 title: 為您的帳戶啟用個人化URL
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 1%
+source-wordcount: '93'
+ht-degree: 4%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 1%
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**管理員**&#x200B;區段，然後按一下&#x200B;**登陸頁面**。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區段並按一下&#x200B;**[!UICONTROL Landing Pages]**。
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
-1. 按一下&#x200B;**編輯**。
+1. 按一下「**[!UICONTROL Edit]**」。
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. 勾選&#x200B;**啟用個人化URL**&#x200B;方塊，然後按一下&#x200B;**儲存**。
+1. 核取&#x200B;**[!UICONTROL Enable Personalized URLs]**&#x200B;方塊並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 

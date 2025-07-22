@@ -4,9 +4,9 @@ description: 定義預測性內容活動的智慧清單 — Marketo檔案 — �
 title: 定義預測性內容活動的智慧清單
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 當您在智慧行銷活動中定義智慧清單時，可以在觸發器和篩選器中使用預測性內容活動。 任何透過[Rich Media範本](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)、[內容建議列](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)或[電子郵件](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)按一下預測性內容的人，都可以觸發動作。
 
-1. 在您的智慧行銷活動中，導覽至&#x200B;**智慧清單**&#x200B;索引標籤。
+1. 在您的智慧行銷活動中，導覽至「**[!UICONTROL Smart List]**」標籤。
 
    ![](assets/smart-list-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >具有觸發器的智慧行銷活動會在觸發模式下執行。 它會根據觸發的事件和新增的篩選器，一次只對一個人執行。
 
-1. 按一下&#x200B;**名稱**&#x200B;下拉式清單，然後選取運運算元。
+1. 按一下&#x200B;**[!UICONTROL Name]**&#x200B;下拉式清單，然後選取運運算元。
 
    ![](assets/smart-list-dropdown-hands.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. 新增&#x200B;**Type**&#x200B;條件約束。
+1. 新增&#x200B;**[!UICONTROL Type]**&#x200B;條件約束。
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/pc-add-constraint.png)
 
-1. 如果您將電子郵件來源用於預測性內容，請在電子郵件&#x200B;**觸發器中新增**&#x200B;點按連結。 選取您的電子郵件並新增&#x200B;**Is Predictive**&#x200B;條件約束（定義為&#x200B;**true**）。
+1. 如果您將電子郵件來源用於預測性內容，請新增&#x200B;**[!UICONTROL Clicks Link in Email]**&#x200B;觸發器。 選取您的電子郵件並新增定義為&#x200B;**[!UICONTROL Is Predictive]**&#x200B;的&#x200B;**[!UICONTROL true]**&#x200B;條件約束。
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 

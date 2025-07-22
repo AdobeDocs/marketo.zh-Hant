@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 按一下&#x200B;**範本**。
+1. 按一下「**[!UICONTROL Templates]**」。
 
    ![](assets/view-template-list-as-another-user-1.png)
 
-1. 按一下&#x200B;**以**&#x200B;檢視下拉式清單，然後選取想要的使用者。
+1. 按一下&#x200B;**[!UICONTROL View As]**&#x200B;下拉式清單，然後選取想要的使用者。
 
    ![](assets/view-template-list-as-another-user-2.png)
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您也可以使用篩選器或搜尋功能搭配&#x200B;_以_&#x200B;檢視身分來檢視與您最相關的內容。
+   >您也可以使用篩選器或搜尋功能搭配&#x200B;_[!UICONTROL View As]_來檢視與您最相關的專案。

@@ -4,9 +4,9 @@ description: 使用智慧清單篩選報表中的人員 — Marketo檔案 — �
 title: 使用智慧清單篩選報表中的人員
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ ht-degree: 0%
 * [公司網頁活動](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [網頁活動](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. 前往&#x200B;**行銷活動**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. 從導覽樹狀結構選取您的報表，然後按一下&#x200B;**智慧列示**&#x200B;索引標籤。
+1. 從導覽樹狀結構選取您的報告，然後按一下&#x200B;**[!UICONTROL Smart List]**&#x200B;標籤。
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
-1. 按一下「**報表**」索引標籤以檢視篩選報表。
+1. 按一下「**[!UICONTROL Report]**」索引標籤以檢視篩選的報告。
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 

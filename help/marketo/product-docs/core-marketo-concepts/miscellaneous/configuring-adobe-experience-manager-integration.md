@@ -6,9 +6,9 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -31,15 +31,15 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 您可以使用Adobe登入或本機登入。 在此範例中，我們會在本機登入。
+1. 您可以使用Adobe登入或在本機登入。 在此範例中，我們會在本機登入。
 
    ![](assets/two.png)
 
-1. 在&#x200B;**[!UICONTROL 工具]**&#x200B;中，按一下&#x200B;**[!UICONTROL 作業]**&#x200B;並選取&#x200B;**[!UICONTROL 網頁主控台]**。
+1. 在&#x200B;**[!UICONTROL Tools]**&#x200B;中，按一下&#x200B;**[!UICONTROL Operations]**&#x200B;並選取&#x200B;**[!UICONTROL Web Console]**。
 
    ![](assets/2a.png)
 
-1. 在您的瀏覽器中，搜尋(Windows上ctrl+f，Mac上cmd+f)以尋找「AdobeGranite跨原始資源共用原則」。
+1. 在您的瀏覽器中，搜尋「[!UICONTROL Adobe Granite Cross-Origin Resource Sharing Policy]」的(Windows上的ctrl+f，Mac上的cmd+f)。
 
    ![](assets/three.png)
 
@@ -47,34 +47,34 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 在&#x200B;**[!UICONTROL 允許的來源(Regexp)]**&#x200B;文字方塊中，輸入`https://.*\.marketo\.com`並按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 在&#x200B;**[!UICONTROL Allowed Origins (Regexp)]**&#x200B;文字方塊中，輸入`https://.*\.marketo\.com`並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/five-psd.png)
 
-1. 在頁面頂端的標題中，按一下&#x200B;**[!UICONTROL 網頁主控台]**&#x200B;並選取&#x200B;**[!UICONTROL 系統資訊]**。
+1. 在頁面頂端的標題中，按一下&#x200B;**[!UICONTROL Web Console]**&#x200B;並選取&#x200B;**[!UICONTROL System Information]**。
 
    ![](assets/six.png)
 
-1. 在[伺服器資訊]下，按一下[重新啟動]。**&#x200B;**&#x200B;按鈕。
+1. 在[伺服器資訊]下，按一下&#x200B;**[!UICONTROL Restart]**&#x200B;按鈕。
 
    ![](assets/seven.png)
 
-1. 按一下&#x200B;**[!UICONTROL 確定]**&#x200B;確認。
+1. 按一下&#x200B;**[!UICONTROL OK]**&#x200B;確認。
 
    ![](assets/eight.png)
 
-1. 在Marketo Engage中，按一下&#x200B;**[!UICONTROL 管理員]**。
+1. 在Marketo Engage中，按一下&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/nine.png)
 
-1. 在[整合]下，選取&#x200B;**[!UICONTROL Adobe Experience Manager]**。
+1. 在整合下，選取&#x200B;**[!UICONTROL Adobe Experience Manager]**。
 
    ![](assets/ten.png)
 
-1. 按一下&#x200B;**[!UICONTROL 編輯]**。
+1. 按一下「**[!UICONTROL Edit]**」。
 
    ![](assets/eleven.png)
 
-1. 輸入您的AEM URL，然後按一下&#x200B;**[!UICONTROL 確定]**。
+1. 輸入您的AEM URL並按一下&#x200B;**[!UICONTROL OK]**。
 
    ![](assets/twelve.png)

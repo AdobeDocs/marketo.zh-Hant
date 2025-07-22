@@ -4,9 +4,9 @@ description: 預測性內容摘要 — Marketo檔案 — 產品檔案
 title: 預測性內容摘要
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ ht-degree: 0%
 
 ![](assets/image2017-10-3-10-3a4-3a40.png)
 
-## 預測性參與 {#predictive-engagement}
+## [!UICONTROL Predictive Engagement] {#predictive-engagement}
 
 透過比較總點按次數和直接銷售機會，以及比較不同來源的效能，來檢視您的轉換率。
 
 ![](assets/predictive-engagement-actual.png)
 
-## 依檢視的內容趨勢  {#content-trend-by-views}
+## [!UICONTROL Content Trend by Views]  {#content-trend-by-views}
 
 比較您所有內容的檢視如何與預測性內容相符。
 
 ![](assets/4.png)
 
-## 依參與排名最前的類別 {#top-categories-by-engagement}
+## [!UICONTROL Top Categories by Engagement] {#top-categories-by-engagement}
 
 哪些內容類別最吸引人？ 請參閱此圖表。
 
@@ -47,4 +47,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您按一下類別連結（上圖中的範例：leadgen、電子郵件等） 它會開啟「所有內容」頁面，並將您點按的類別新增至篩選器，顯示該類別中的內容分析。
+>如果您按一下類別連結（以上影像中的範例：leadgen、電子郵件等），就會開啟「所有內容」頁面，且您已按一下類別的該頁面會新增至篩選器中，並顯示該類別中的內容分析。

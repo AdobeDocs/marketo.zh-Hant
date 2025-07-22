@@ -1,29 +1,29 @@
 ---
 unique-page-id: 7511931
-description: 在Salesforce1 - Marketo檔案 — 產品檔案中傳送Marketo電子郵件和行銷活動以及監看清單動作
-title: 在Salesforce1中傳送Marketo電子郵件和Campaign及監看清單動作
+description: 在Salesforce1中傳送Marketo電子郵件和行銷活動以及關注清單動作 — Marketo檔案 — 產品檔案
+title: 在Salesforce1中傳送Marketo電子郵件和行銷活動以及監看清單動作
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-# 在Salesforce1中傳送Marketo電子郵件和Campaign及監看清單動作 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# 在[!DNL Salesforce1]中傳送Marketo電子郵件和行銷活動及監看清單動作 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. 前往Salesforce1中的「銷售機會詳細資訊」區域，然後按一下「**相關**」標籤。
+1. 前往[!DNL Salesforce1]中的[潛在客戶詳細資訊]區域，然後按一下&#x200B;**[!UICONTROL Related]**&#x200B;標籤。
 
    ![](assets/one-1.png)
 
-1. 按一下圓點（三個小點）。 在底部，您可以選擇：「新增至Marketo Campaign」、「傳送Marketo電子郵件」、「在Marketo中檢視」、「在監看清單中新增/移除」。
+1. 按一下圓點（三個小點）。 您可以在底部選擇： &quot;[!UICONTROL Add to Marketo Campaign]&quot;、&quot;[!UICONTROL Send Marketo Email]&quot;、&quot;[!UICONTROL View in Marketo]&quot;、&quot;[!UICONTROL Add from Watchlist]&quot;、&quot;[!UICONTROL Remove from Watchlist]&quot;。
 
    ![](assets/two-1.png)
 
    >[!NOTE]
    >
-   >會出現哪些智慧型行銷活動？ 具有「已要求Campaign」觸發器的事件。 瞭解如何使用「要求行銷活動[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)」設定觸發的行銷活動。
+   >會出現哪些智慧型行銷活動？ 具有「已要求Campaign」觸發器的事件。 瞭解如何使用「要求行銷活動[」設定](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)觸發的行銷活動。
 
 酷，現在您的銷售人員可以積極參與行銷工作。
 

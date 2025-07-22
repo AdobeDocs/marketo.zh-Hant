@@ -4,20 +4,20 @@ description: 已檢視的網頁、網頁活動報表 — Marketo檔案 — 產�
 title: 已檢視的網頁、網頁活動報表
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 # 已檢視的網頁、網頁活動報表 {#web-pages-viewed-web-page-activity-report}
 
-您可以從[網頁活動報告](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)中檢視使用者在報告中檢視的特定頁面。
+從[[!UICONTROL Web Page Activity]報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)，您可以在報表中看到人員檢視的特定頁面。
 
 >[!PREREQUISITES]
 >
->若要從Marketo中的網站擷取活動，您必須先在您的網站上[設定Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
+>若要從Marketo中的網站擷取活動，您必須先在您的網站[上 [!DNL Munchkin] 設定](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
 
 1. 在您的[網頁活動報告](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)中，按一下人員名稱。
 

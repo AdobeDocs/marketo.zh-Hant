@@ -3,9 +3,9 @@ description: 範本參與 — Marketo檔案 — 產品檔案
 title: 範本參與
 exl-id: b59677a9-8192-4c80-9105-42192a128ef7
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 1. 導覽至&#x200B;**Analytics**&#x200B;頁面。
 
-1. 按一下&#x200B;**Content**&#x200B;按鈕，並依所需的日期範圍篩選。
+1. 按一下「**[!UICONTROL Content]**」按鈕，並依所需的日期範圍篩選。
 
 1. 根據選取的日期範圍，您可以在頁面頂端檢視整個團隊使用的電子郵件和範本總數。
 

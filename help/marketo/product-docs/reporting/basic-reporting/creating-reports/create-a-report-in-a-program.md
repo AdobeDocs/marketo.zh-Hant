@@ -4,9 +4,9 @@ description: 在程式中建立報表 — Marketo檔案 — 產品檔案
 title: 在方案中建立報告
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 執行報告以分析人員、您的方案、登陸頁面、電子郵件和社交資產。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -25,17 +25,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您也可以從&#x200B;**Analytics**&#x200B;索引標籤建立報告。
+   >您也可以從&#x200B;**[!UICONTROL Analytics]**&#x200B;索引標籤建立報告。
 
-1. 用滑鼠右鍵按一下該程式，然後選取&#x200B;**新增本機資產**。
+1. 用滑鼠右鍵按一下程式並選取&#x200B;**[!UICONTROL New Local Asset]**。
 
    ![](assets/programrightclick-asset.png)
 
-1. 按一下&#x200B;**報表**。
+1. 按一下「**[!UICONTROL Report]**」。
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. 選取報告&#x200B;**型別**。
+1. 選取報告&#x200B;**[!UICONTROL Type]**。
 
    ![](assets/choosereport.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 1. 設定報表的時間範圍。 如需詳細資訊，請參閱[變更報表時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)。
 
-1. 按一下「**報表**」索引標籤以檢視您的統計資料。
+1. 按一下&#x200B;**[!UICONTROL Report]**&#x200B;索引標籤以檢視您的統計資料。
 
    ![](assets/image2014-9-15-18-3a38-3a5.png)
 

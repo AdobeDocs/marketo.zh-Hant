@@ -4,10 +4,10 @@ description: 電子郵件連結效能報表 — Marketo檔案 — 產品檔案
 title: 以電子郵件傳送連結效能報表
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 2%
+source-wordcount: '217'
+ht-degree: 1%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 2%
 
 建立電子郵件連結效能報表，以檢視您電子郵件中連結的效能如何。
 
-1. [在方案中建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)，並選取&#x200B;**電子郵件連結效能**&#x200B;作為報告型別。
+1. [在方案中建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)，並選取&#x200B;**[!UICONTROL Email Link Performance]**&#x200B;作為報告型別。
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
-1. 按一下&#x200B;**設定**。
+1. 按一下「**[!UICONTROL Setup]**」。
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
-1. 在&#x200B;**設定**&#x200B;底下的&#x200B;**活動日期**&#x200B;上按兩下。
+1. 連按兩下&#x200B;**[!UICONTROL Date of Activity]**&#x200B;下的&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. 為報表設定適當的時間範圍。 按一下&#x200B;**保存**。
+1. 為報表設定適當的時間範圍。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
-1. 按一下&#x200B;**報表**。
+1. 按一下「**[!UICONTROL Report]**」。
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
@@ -44,29 +44,29 @@ ht-degree: 2%
 <table> 
  <thead> 
   <tr> 
-   <th colspan="1" rowspan="1">欄</th> 
+   <th colspan="1" rowspan="1">[!UICONTROL Column]</th> 
    <th colspan="1" rowspan="1">說明</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">連結</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL Link]</td> 
    <td colspan="1" rowspan="1">依電子郵件名稱分組。<br>按一下加號(+)檢視該電子郵件包含的所有連結。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">點按次數</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL Clicks]</td> 
    <td colspan="1" rowspan="1">該連結的點按次數。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">%點按次數</td> 
+   <td colspan="1" rowspan="1">% [!UICONTROL Clicks]</td> 
    <td colspan="1" rowspan="1">在該電子郵件中所有連結的總點按次數中，此連結的百分比。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">人員</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL People]</td> 
    <td colspan="1" rowspan="1">點選連結的不重複使用者人數。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">%人員</td> 
+   <td colspan="1" rowspan="1">% [!UICONTROL People]</td> 
    <td colspan="1" rowspan="1">在該電子郵件中點選連結的不重複使用者總數中，此連結的百分比。</td> 
   </tr> 
  </tbody> 
@@ -78,7 +78,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->若您想瞭解個人確實做了什麼，您可以從方案的[成員]索引標籤開啟[個人詳細資料](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)頁面中的[活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)。
+>若您想瞭解個人確實做了什麼，您可以從方案的[成員]索引標籤開啟[個人詳細資料](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)頁面中的[活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)。
 
 >[!MORELIKETHIS]
 >

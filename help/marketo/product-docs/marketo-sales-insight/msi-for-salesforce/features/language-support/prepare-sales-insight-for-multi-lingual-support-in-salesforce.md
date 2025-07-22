@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7516460
-description: 準備Salesforce多語言支援的銷售分析 — Marketo檔案 — 產品檔案
-title: 準備Sales Insight以在Salesforce中提供多語言支援
+description: 準備銷售Insight以在Salesforce中獲得多語言支援 — Marketo檔案 — 產品檔案
+title: 為Salesforce中的多語言支援準備銷售Insight
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 1%
+source-wordcount: '202'
+ht-degree: 2%
 
 ---
 
-# 準備Sales Insight以在Salesforce中提供多語言支援 {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
+# 為Salesforce中的多語言支援準備銷售Insight {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Marketo Sales Insight是依語言儲存。 因此，如果您希望它適用於�
 
 >[!NOTE]
 >
->Sales Insight目前支援：
+>[!DNL Sales Insight]目前支援：
 >
 >* 英文
 >* 法文
@@ -29,62 +29,62 @@ Marketo Sales Insight是依語言儲存。 因此，如果您希望它適用於�
 >
 >任何其他語言預設為英文。
 
-## 為Marketo Sales Insight新增語言 {#adding-a-new-language-for-marketo-sales-insight}
+## 正在新增[!DNL Marketo Sales Insight]的語言 {#adding-a-new-language-for-marketo-sales-insight}
 
-1. 登入Salesforce。 在右上角名稱下方的下拉式清單中，按一下&#x200B;**設定**。
+1. 登入[!DNL Salesforce]。 在右上角名稱下方的下拉式清單中，按一下&#x200B;**[!UICONTROL Setup]**。
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. 在&#x200B;**我的個人資訊**&#x200B;下，按一下&#x200B;**個人資訊**。
+1. 在&#x200B;**[!UICONTROL My Personal Information]**&#x200B;底下，按一下&#x200B;**[!UICONTROL Personal Information]**。
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
-1. 按一下&#x200B;**編輯**。
+1. 按一下「**[!UICONTROL Edit]**」。
 
    ![](assets/image2015-7-6-16-3a5-3a38.png)
 
-1. 選取語言並按一下&#x200B;**儲存**。
+1. 選取語言並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2015-7-6-16-3a5-3a47.png)
 
-1. 您的Salesforce介面現在使用選取的語言。 您可以按一下&#x200B;**+**&#x200B;圖示以檢視所有可用的標籤。
+1. 您的[!DNL Salesforce]介面現在使用選取的語言。 您可以按一下&#x200B;**+**&#x200B;圖示以檢視所有可用的標籤。
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
-1. 按一下&#x200B;**設定Marketo銷售分析** （使用選取的語言）。
+1. 按一下&#x200B;**[!UICONTROL Configure Marketo Sales Insight]** （使用選取的語言）。
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. 前往Marketo。 找出您的[Marketo Sales Insight **API組態**&#x200B;詳細資料](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight)。
+1. 前往Marketo。 找到您的&#x200B;[[!DNL Marketo Sales Insight] **[!UICONTROL API configuration]**詳細資料](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight)。
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
-1. 輸入Marketo的API詳細資料，然後按一下&#x200B;**儲存**。
+1. 輸入Marketo的API詳細資料，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2015-7-6-16-3a7-3a43.png)
 
-## 將Salesforce變更為英文 {#change-salesforce-back-to-english}
+## 將[!DNL Salesforce]變更回英文 {#change-salesforce-back-to-english}
 
-完成自訂Salesforce組織後，以下說明如何將您的個人設定傳回英文。
+當您完成自訂[!DNL Salesforce]組織時，以下說明如何將您的個人設定傳回英文。
 
 >[!NOTE]
 >
 >下列熒幕擷取畫面為法文，並附有英文指示。  您會看到與您在上一步中選取之語言文字相同的畫面。
 
-1. 在您的名稱底下，按一下&#x200B;**設定**。
+1. 在您的名稱下，按一下&#x200B;**[!UICONTROL Setup]**。
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. 按一下&#x200B;**我的個人資訊**&#x200B;下的&#x200B;**個人資訊**。
+1. 按一下&#x200B;**[!UICONTROL Personal Information]**&#x200B;下的&#x200B;**[!UICONTROL My Personal Information]**。
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
-1. 按一下&#x200B;**編輯**。
+1. 按一下「**[!UICONTROL Edit]**」。
 
    ![](assets/image2015-7-6-16-3a8-3a19.png)
 
-1. 從「語言」下拉式清單中選取&#x200B;**英文**，然後按一下&#x200B;**儲存**。
+1. 從[語言]下拉式清單中選取&#x200B;**[!UICONTROL English]**，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 
-   現在您的Salesforce恢復英文版！
+   現在您的[!DNL Salesforce]已恢復為英文！

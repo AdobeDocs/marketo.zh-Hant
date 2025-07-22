@@ -4,9 +4,9 @@ description: 使用動態內容編輯代碼片段 — Marketo檔案 — 產品�
 title: 使用動態內容編輯代碼片段
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -22,19 +22,19 @@ ht-degree: 0%
 
 ## 新增分段 {#add-segmentation}
 
-1. 移至&#x200B;**設計工作室**。
+1. 移至&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/designstudio-1.png)
 
-1. 按一下您的&#x200B;**程式碼片段**，然後&#x200B;**編輯草稿**。
+1. 按一下您的&#x200B;**程式碼片段**，然後按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. 按一下&#x200B;**分段依據**。
+1. 按一下&#x200B;**[!UICONTROL Segment By]**。
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. 輸入&#x200B;**分段**&#x200B;並按一下&#x200B;**儲存**。
+1. 輸入&#x200B;**[!UICONTROL Segmentation]**&#x200B;並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 

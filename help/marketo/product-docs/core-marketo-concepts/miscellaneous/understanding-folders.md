@@ -3,10 +3,10 @@ unique-page-id: 4720779
 description: 瞭解資料夾 — Marketo檔案 — 產品檔案
 title: 瞭解資料夾
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 0%
+source-wordcount: '252'
+ht-degree: 1%
 
 ---
 
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ## 建立資料夾 {#create-a-folder}
 
-1. 前往&#x200B;**[!UICONTROL 行銷活動]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
 
    ![](assets/ma.png)
 
-1. 用滑鼠右鍵按一下程式，然後選取&#x200B;**[!UICONTROL 新資料夾]**。
+1. 以滑鼠右鍵按一下方案，然後選取&#x200B;**[!UICONTROL New Folder]**。
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 您可以改變心意。
 
-1. 在資料夾上按一下滑鼠右鍵，然後選取&#x200B;**[!UICONTROL 重新命名資料夾]**。
+1. 在資料夾上按一下滑鼠右鍵，然後選取&#x200B;**[!UICONTROL Rename Folder]**。
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
@@ -48,13 +48,13 @@ ht-degree: 0%
 >
 >在刪除資料夾之前，請確定資料夾是空的。
 
-1. 在資料夾上按一下滑鼠右鍵，然後選取&#x200B;**[!UICONTROL 刪除資料夾]**。
+1. 在資料夾上按一下滑鼠右鍵，然後選取&#x200B;**[!UICONTROL Delete Folder]**。
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 
 ## 封存資料夾 {#archive-a-folder}
 
-在Marketo中，您可以將現有資料夾轉換為封存資料夾。 行銷活動、資料庫和Design Studio中都有封存資料夾。
+在Marketo中，您可以將現有資料夾轉換為封存資料夾。 封存資料夾存在於[!UICONTROL Marketing Activities]、[!UICONTROL Database]和[!UICONTROL Design Studio]中。
 
 ![](assets/image2015-4-20-19-3a3-3a46.png)
 

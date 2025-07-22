@@ -4,9 +4,9 @@ description: 個人詳細資料檢視 — Marketo檔案 — 產品檔案
 title: 個人詳細資料檢視
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 如何存取 {#how-to-access}
 
-1. 若要存取人員詳細資料檢視，請按一下&#x200B;**人員**&#x200B;標籤。
+1. 若要存取人員詳細資料檢視，請按一下&#x200B;**[!UICONTROL People]**&#x200B;標籤。
 
    ![](assets/person-detail-view-1.png)
 
@@ -45,8 +45,8 @@ ht-degree: 0%
 
 **帳戶資訊**
 
-* 可以將人員新增至Salesforce
-* 從Salesforce提取帳戶和銷售機會/聯絡資訊
+* 可以將人員新增至[!DNL Salesforce]
+* 從[!DNL Salesforce]提取帳戶和銷售機會/聯絡資訊
 
 **自訂欄位**
 
@@ -76,19 +76,19 @@ ht-degree: 0%
 
 ![](assets/person-detail-view-5.png)
 
-**促銷活動**
+**[!UICONTROL Sales Campaigns]**
 
 * 檢視此人所屬的任何作用中或完成的行銷活動
 
-**行銷活動**
+**[!UICONTROL Marketing Campaigns]**
 
 * 檢視此人所屬的任何行銷活動
 
-**銷售電子郵件**
+**[!UICONTROL Sales Emails]**
 
 * 檢視您傳送給此人的任何電子郵件和參與量度
 
-**銷售電話**
+**[!UICONTROL Sales Calls]**
 
 * 檢視您給此人撥打的所有電話
 

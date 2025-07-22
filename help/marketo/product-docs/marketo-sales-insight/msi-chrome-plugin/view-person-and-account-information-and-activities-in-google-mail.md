@@ -4,9 +4,9 @@ description: 在Google郵件中檢視個人和帳戶資訊與活動 — Marketo�
 title: 在Google Mail中檢視個人和帳戶資訊與活動
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,9 @@ ht-degree: 0%
 
 ![](assets/image2015-10-6-15-3a43-3a22.png)
 
-## 在Google Chrome中檢視活動 {#view-activities-in-google-chrome}
+## 在[!DNL Google Chrome]中檢視活動 {#view-activities-in-google-chrome}
 
-您也可以使用Google Chrome中的「全域活動窗格」，檢視最近發生之所有人員的活動完整清單。 這是即時更新的摘要，會持續在圖示上顯示未讀取的活動數目。
+您也可以使用[!DNL Google Chrome]中的「全域活動窗格」，檢視最近發生之所有人員的完整活動清單。 這是即時更新的摘要，會持續在圖示上顯示未讀取的活動數目。
 
 按一下Marketo圖示以開啟窗格。
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[對Google Chrome使用Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[針對 [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)使用Marketo Insights

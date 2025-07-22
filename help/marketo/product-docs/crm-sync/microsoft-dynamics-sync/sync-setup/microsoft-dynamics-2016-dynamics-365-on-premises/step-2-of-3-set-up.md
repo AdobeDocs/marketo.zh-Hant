@@ -1,26 +1,26 @@
 ---
-description: Marketo安裝適用於Microsoft Dynamics 2016/Dynamics 365內部部署的第2步（共3步） - Marketo檔案 — 產品檔案
-title: 安裝適用於Microsoft Dynamics 2016/Dynamics 365內部部署的Marketo步驟3之2
+description: 安裝Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365內部部署步驟2之3 - Marketo檔案 — 產品檔案
+title: 為 [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365內部部署步驟2之3安裝Marketo
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '445'
 ht-degree: 1%
 
 ---
 
-# 步驟3之2：設定Marketo for Dynamics （2016內部部署/Dynamics 365內部部署）{#step-of-set-up-for-marketo-on-premises-2016}
+# 步驟3之2為[!DNL Dynamics]設定Marketo （2016內部部署/[!DNL Dynamics] 365內部部署）{#step-of-set-up-for-marketo-on-premises-2016}
 
 完成上述步驟的絕佳工作。 讓我們繼續討論這個問題。
 
 >[!PREREQUISITES]
 >
->[安裝Marketo for Microsoft Dynamics 2016/Dynamics 365內部部署步驟1 （共3步）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md){target="_blank"}
+>[為 [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365內部部署步驟1 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)安裝Marketo
 
 ## 建立新使用者 {#create-a-new-user}
 
-1. 登入Dynamics。 按一下「設定」圖示並選取「進階設定」。
+1. 登入[!DNL Dynamics]。 按一下「設定」圖示並選取「進階設定」。
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-1.png)
 
@@ -62,7 +62,7 @@ ht-degree: 1%
 
 ## 建立新的使用者端應用程式 {#create-a-new-client-application}
 
-依照[此Microsoft文章](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later){target="_blank"}中的步驟來建立新的使用者端應用程式並授與許可權。 請記下Dynamics使用者端應用程式的使用者端ID/密碼。
+依照[此Microsoft文章](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later)中的步驟來建立新的使用者端應用程式並授與許可權。 請記下[!DNL Dynamics]使用者端應用程式的使用者端識別碼/密碼。
 
 ## 指派同步使用者角色 {#assign-sync-user-role}
 
@@ -70,7 +70,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->這適用於Marketo版本4.0.0.14和更新版本。 對於舊版，所有使用者都必須擁有同步使用者角色。 若要升級您的Marketo，請參閱[升級Microsoft Dynamics的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}。
+>這適用於Marketo版本4.0.0.14和更新版本。 對於舊版，所有使用者都必須擁有同步使用者角色。 若要升級您的Marketo，請參閱[升級 [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)的Marketo解決方案。
 
 >[!IMPORTANT]
 >
@@ -98,7 +98,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >如果您沒有看到角色，請返回3[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)的步驟1並匯入解決方案。
+   >如果您沒有看到角色，請返回3[的](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)步驟1並匯入解決方案。
 
    >[!NOTE]
    >
@@ -134,10 +134,10 @@ ht-degree: 1%
 
 ## 繼續進行步驟3之前 {#before-proceeding-to-step}
 
-* 若要限制同步處理的記錄數目，請立即[設定自訂同步處理篩選器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"}。
-* 執行[驗證Microsoft Dynamics同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}程式。 它可驗證您的初始設定是否正確完成。
-* 在Microsoft Dynamics CRM中登入Marketo Sync User 。
+* 若要限制同步處理的記錄數目，請立即[設定自訂同步處理篩選器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)。
+* 執行[驗證 [!DNL Microsoft Dynamics] 同步](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)程式。 它可驗證您的初始設定是否正確完成。
+* 在[!DNL Microsoft Dynamics] CRM中登入Marketo Sync User。
 
 >[!MORELIKETHIS]
 >
->[安裝Marketo for Microsoft Dynamics 2016/Dynamics 365內部部署步驟3 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md){target="_blank"}
+>[為 [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365內部部署步驟3 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)安裝Marketo

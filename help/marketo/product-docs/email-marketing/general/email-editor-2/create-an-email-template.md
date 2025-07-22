@@ -4,9 +4,9 @@ description: 建立電子郵件範本 — Marketo檔案 — 產品檔案
 title: 建立電子郵件範本
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo支援未設定為協助疑難排解自訂HTML。 如需HTML協助，請洽詢網頁開發人員。
+>Marketo支援未設定為協助疑難排解自訂HTML。 如需HTML的協助，請洽詢網頁開發人員。
 
 >[!CAUTION]
 >
@@ -25,19 +25,19 @@ ht-degree: 0%
 
 ## 建立新的電子郵件範本 {#create-a-new-email-template}
 
-1. 按一下&#x200B;**Design Studio**。
+1. 按一下「**[!UICONTROL Design Studio]**」。
 
    ![](assets/designstudio.png)
 
-1. 按一下&#x200B;**新增**，然後選取&#x200B;**新增電子郵件範本**。
+1. 按一下&#x200B;**[!UICONTROL New]**，然後選取&#x200B;**[!UICONTROL New Email Template]**。
 
    ![](assets/ds-two.png)
 
-1. 為您的新範本命名，然後按一下[建立]。**&#x200B;**
+1. 提供您的新範本名稱，然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/three-1.png)
 
-1. 若要開始編輯您的新範本，請按一下[編輯草稿]。**&#x200B;**
+1. 若要開始編輯您的新範本，請按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/4.png)
 
@@ -49,19 +49,19 @@ ht-degree: 0%
 
 如果您已建立要儲存為範本以供日後使用的電子郵件，請遵循下列簡單步驟。
 
-1. 按一下&#x200B;**行銷活動**。
+1. 按一下「**[!UICONTROL Marketing Activities]**」。
 
    ![](assets/one.png)
 
-1. 尋找並選取您的電子郵件，然後按一下&#x200B;**編輯草稿**。
+1. 尋找並選取您的電子郵件，然後按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/two-1.png)
 
-1. 按一下&#x200B;**電子郵件動作**&#x200B;下拉式清單，然後選取&#x200B;**另存為範本**。
+1. 按一下&#x200B;**[!UICONTROL Email Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Save as Template]**。
 
    ![](assets/four-1.png)
 
-1. 按一下&#x200B;**資料夾**&#x200B;下拉式清單，選取您要範本存留的位置，然後按一下&#x200B;**儲存**。
+1. 按一下&#x200B;**[!UICONTROL Folder]**&#x200B;下拉式清單，選取您要讓範本存留的位置，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/five-1.png)
 

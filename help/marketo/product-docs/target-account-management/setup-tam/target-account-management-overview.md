@@ -1,27 +1,27 @@
 ---
 unique-page-id: 11381917
-description: Target帳戶管理 — Marketo檔案 — 產品檔案
-title: 目標帳戶管理
+description: '[!UICONTROL Target Account Management] - Marketo檔案 — 產品檔案'
+title: '[!UICONTROL Target Account Management]'
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-# 目標帳戶管理 {#target-account-management-overview}
+# [!UICONTROL Target Account Management] {#target-account-management-overview}
 
-行銷人員，瞭解Target帳戶管理。 Target帳戶管理，認識行銷人員。
+行銷人員，認識[!UICONTROL Target Account Management]。 [!UICONTROL Target Account Management]，認識行銷人員。
 
 ![](assets/photo-collage.png)
 
-什麼是Marketo Target帳戶管理？
+什麼是Marketo [!UICONTROL Target Account Management]？
 
-Marketo Target客戶管理將銷售與行銷團隊集合在一起，以高度協調的方式鎖定關鍵客戶並與其互動，消除以客戶為中心的策略、執行和成功之間的差距 — 所有這些都在單一平台中完成。
+Marketo [!UICONTROL Target Account Management]將銷售和行銷團隊集合在一起，以高度協調的方式鎖定關鍵客戶並與其互動，縮短以客戶為中心的策略、執行和成功之間的差距 — 所有這些都在單一平台中完成。
 
-為何使用Marketo Target帳戶管理？
+為何使用Marketo [!UICONTROL Target Account Management]？
 
 Marketo將TAM和銷售機會管理統整於一個解決方案中，讓行銷人員能夠輕鬆地以單一動作針對帳戶和銷售機會執行個人化行銷活動。 您也可以從接觸關鍵決策者和交易影響者中獲益。
 

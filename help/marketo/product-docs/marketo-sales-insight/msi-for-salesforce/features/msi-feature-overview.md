@@ -4,16 +4,16 @@ description: MSI功能總覽 — Marketo檔案 — 產品檔案
 title: MSI功能概述
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: bda95da160c5a27a0a460d26c102e6166c1ddea0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '931'
 ht-degree: 0%
 
 ---
 
 # MSI功能概述 {#msi-feature-overview}
 
-MSI在Salesforce Lightning and Classic中提供下列功能。
+MSI在[!DNL Salesforce] Lightning and Classic中有以下可用的功能。
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ MSI Visualforce面板包含下列功能：
 
 Visualforce頁面：
 
-* 銷售機會 — 包含按一下「前往完整清單」的超選項，您將會被送到Salesforce中的新索引標籤，其中MSI面板將顯示在全頁版面配置中
+* 銷售機會 — 包含按一下「前往完整清單」的超選項，您將會被帶到Salesforce中的新索引標籤，其中MSI面板將顯示在完整版面配置中
 * 潛在客戶完整清單 — 不包含「前往完整清單」選項
 * 潛在客戶行動 — 顯示在Salesforce行動應用程式中
 * 潛在客戶聯絡人Bridge — 顯示您已新增至MSI聯絡人ID欄位之聯絡人的MSI面板
@@ -62,13 +62,13 @@ Visualforce頁面：
 * 急迫性
 * 緊急值
 * 在Marketo中檢視 — 按一下此欄位可開啟Marketo中潛在客戶的不可編輯檢視。 包括：銷售機會資訊、公司資訊、SFDC銷售機會資訊、SFDC自訂欄位、活動記錄
-* MSI聯絡人ID — 將Salesforce聯絡人新增至此欄位，並在潛在客戶配置中包含「潛在客戶聯絡人Bridge」面板，以檢視聯絡人的MSI面板
+* MSI聯絡人ID — 將Salesforce聯絡人新增至此欄位，並在潛在客戶配置中加入「潛在客戶聯絡人Bridge」面板，以檢視聯絡人的MSI面板
 
 ## 連絡人配置 {#contact-layout}
 
 Visualforce頁面：
 
-* 連絡人 — 包含按一下hyper「前往完整清單」的選項，您將會被送到Salesforce中的新索引標籤，而MSI面板將會以全頁版面配置顯示
+* 連絡人 — 包含按一下hyper「前往完整清單」的選項，您將會被帶到Salesforce中的新索引標籤，其中MSI面板將顯示在全頁版面配置中
 * 連絡人完整清單 — 不包含「前往完整清單」選項
 * 連絡人行動裝置 — 顯示在Salesforce行動應用程式中
 * 新增至Marketo Campaign ContactPage — 此面板中提供新增至Marketo Campaign功能
@@ -87,19 +87,19 @@ Visualforce頁面：
 * 緊急值
 * 在Marketo中檢視 — 按一下此欄位可開啟Marketo中潛在客戶的不可編輯檢視。 包括：銷售機會資訊、公司資訊、SFDC銷售機會資訊、SFDC自訂欄位、活動記錄
 * Mkto銷售機會分數
-* 銷售分析 — 開啟連絡人完整清單頁面
+* [!DNL Sales Insight] — 開啟連絡人完整清單頁面
 
 ## 帳戶配置 {#account-layout}
 
 Visualforce頁面：
 
-* 帳戶 — 包含按一下「前往完整清單」的超選項，您將會被送到Salesforce中的新索引標籤，其中MSI面板將顯示在全頁版面配置中
+* 帳戶 — 包含按一下「前往完整清單」的超選項，您將會被帶到Salesforce中的新索引標籤，其中MSI面板將顯示在全頁版面配置中
 * 帳戶完整清單 — 不包含「移至完整清單」選項
 * 帳戶行動 — 顯示在Salesforce行動應用程式中
 
 欄位：
 
-* 銷售分析 — 開啟連絡人完整清單頁面
+* [!DNL Sales Insight] — 開啟連絡人完整清單頁面
 
 動作：
 
@@ -115,13 +115,13 @@ Visualforce頁面：
 
 Visualforce頁面：
 
-* 商機 — 包含按一下hyper「前往完整清單」的選項，您將會被送到Salesforce中的新索引標籤，其中MSI面板將顯示在全頁版面配置中
+* 商機 — 包含按一下「前往完整清單」的超選項，您將會被帶到Salesforce中的新索引標籤，其中MSI面板將顯示在全頁版面配置中
 * 機會完整清單 — 不包含「移至完整清單」選項
 * Opportunity Mobile — 顯示在Salesforce行動應用程式中
 
 欄位：
 
-* 銷售分析 — 開啟連絡人完整清單頁面
+* [!DNL Sales Insight] — 開啟連絡人完整清單頁面
 * Marketo機會分析 — 在Marketo中開啟機會影響分析器
 
 動作：
@@ -136,13 +136,13 @@ Visualforce頁面：
 
 ## 潛在客戶與聯絡人清單檢視（大量動作） {#lead-and-contact-list-view-bulk-actions}
 
-Salesforce Lightning：新增到觀察清單、新增到Marketo Campaign並在潛在客戶與聯絡人清單檢視中傳送Marketo電子郵件大量動作按鈕。
+[!DNL Salesforce Lightning]：新增至關注清單、新增至Marketo Campaign，以及在「潛在客戶」和「連絡人清單」檢視中傳送Marketo電子郵件大量動作按鈕。
 
-Salesforce Classic：新增到監看清單、新增到Marketo Campaign，以及在「銷售機會」和「連絡人清單」檢視中傳送Marketo電子郵件大量動作按鈕。
+[!DNL Salesforce Classic]：新增至關注清單、新增至Marketo Campaign，以及在「潛在客戶」和「連絡人清單」檢視中傳送Marketo電子郵件大量動作按鈕。
 
 ## Marketo索引標籤 {#marketo-tab}
 
-* 首選
+* [!DNL Best Bets]
 
    * 包含建立和編輯檢視的功能。 可根據Marketo「設定」頁面中「預設隱藏」選項的設定，隱藏首選
    * 欄 — 名稱、帳戶、上一個有趣的時刻、狀態標題、參與（星星和火焰）、隱藏
@@ -160,7 +160,7 @@ Salesforce Classic：新增到監看清單、新增到Marketo Campaign，以及�
 * 匿名網路活動
 
    * 包括建立和編輯檢視的功能、時間範圍篩選功能
-   * 欄 — 頁面檢視、公司、上次造訪、研究(開啟公司的LinkedIn頁面)
+   * 欄 — 頁面檢視、公司、上次造訪、研究（開啟公司的LinkedIn頁面）
 
 * 我的電子郵件
 
@@ -176,30 +176,30 @@ Salesforce Classic：新增到監看清單、新增到Marketo Campaign，以及�
    * 訂閱選項以接收此類事件的電子郵件通知
    * 高優先順序圖示可顯示此人員為最佳匹配
 
-## Marketo Sales Insight設定索引標籤 {#marketo-sales-insight-configuration-tab}
+## [!DNL Marketo Sales Insight]設定標籤 {#marketo-sales-insight-configuration-tab}
 
-* 操作設定：包含在SFDC中設定MSI所需的Soap與Rest API認證
+* 操作設定：包含在SFDC中設定MSI所需的Soap和Rest API認證
 * MSI設定：包含Marketo索引標籤和MSI Visualforce面板的設定
-* 重設Marketo Sales Insight：包含清除所有設定的功能
+* 重設[!DNL Marketo Sales Insight]：包含清除所有設定的功能
 
 >[!MORELIKETHIS]
 >
->[Salesforce中的Marketo Sales Insight設定索引標籤](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+>[[!DNL Marketo Sales Insight] 中的 [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)設定索引標籤
 
-## 銷售分析績效報表 {#sales-insight-performance-reports}
+## [!DNL Sales Insight]效能報表 {#sales-insight-performance-reports}
 
-檢視透過Salesforce、Microsoft Dynamics或Gmail或Outlook外掛程式傳送的電子郵件效能
+檢視透過[!DNL Salesforce]、[!DNL Microsoft Dynamics]或Gmail或[!DNL Outlook]外掛程式傳送的電子郵件效能
 
 ## 適用於行動裝置的MSI {#msi-for-mobile}
 
-Salesforce行動應用程式支援MSI功能
+[!DNL Salesforce]行動應用程式支援MSI功能
 
 ## 語言支援 {#language-support}
 
-Marketo Sales Insight是依語言儲存。 因此，如果您希望它適用於多種語言，則必須分別輸入每種語言的認證。
+[!DNL Marketo Sales Insight]是以語言儲存。 因此，如果您希望它適用於多種語言，則必須分別輸入每種語言的認證。
 
 >[!NOTE]
 >
 >* 連絡人/潛在客戶必須位於「預設」分割中，才能新增至「監看清單」。
 >
->* MSI Salesforce套件不支援具有相依欄位的自訂檢視。
+>* MSI [!DNL Salesforce]封裝不支援具有相依欄位的自訂檢視。

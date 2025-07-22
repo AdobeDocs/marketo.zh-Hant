@@ -1,10 +1,10 @@
 ---
 unique-page-id: 11377945
-description: 稽核軌跡概述 — Marketo檔案 — 產品檔案
+description: 稽核軌跡]概觀 — Marketo檔案 — 產品檔案
 title: 稽核軌跡概觀
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Marketo將稽核[建立、編輯和刪除](/help/marketo/product-docs/administra
 
 >[!NOTE]
 >
->Marketo目前正在&#x200B;_非_&#x200B;稽核在Web Personalization、預測性內容或銷售分析中所做的變更。
+>Marketo目前正在&#x200B;_非_&#x200B;稽核在Web Personalization、預測性內容或銷售Insight中所做的變更。
 
 ## 稽核軌跡元件 {#audit-trail-components}
 

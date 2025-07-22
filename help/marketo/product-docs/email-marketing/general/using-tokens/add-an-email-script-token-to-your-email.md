@@ -4,9 +4,9 @@ description: 新增電子郵件指令碼Token至您的電子郵件 — Marketo�
 title: 新增電子郵件指令碼Token至您的電子郵件
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 9d6dd17ea20fb75a2931254addff570787ee2f8b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '159'
 ht-degree: 2%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 2%
 >
 >插入單一電子郵件中所有指令碼Token的總計大小不得超過100KB。
 
-1. 前往&#x200B;**行銷活動**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
 
    ![](assets/one-2.png)
 
-1. 尋找並選取您要新增權杖的電子郵件，然後按一下&#x200B;**編輯草稿**。
+1. 尋找並選取您要新增權杖的電子郵件，然後按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/two-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 2%
 
    ![](assets/four-2.png)
 
-1. 尋找並選取您先前建立的電子郵件指令碼Token，然後按一下&#x200B;**插入**。
+1. 尋找並選取您先前建立的電子郵件指令碼權杖，然後按一下&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/five-1.png)
 

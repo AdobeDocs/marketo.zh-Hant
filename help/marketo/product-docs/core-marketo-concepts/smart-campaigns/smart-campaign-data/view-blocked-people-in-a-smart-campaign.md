@@ -4,9 +4,9 @@ description: 在Smart Campaign中檢視封鎖的人員 — Marketo檔案 — 產
 title: 在Smart Campaign中檢視封鎖的人員
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo Engage資料庫中遭封鎖的人員會標籤為已列入封鎖名單、已取消訂閱、行銷活動已暫停，及/或電子郵件無效或空白。
 
-1. 在您的Smart Campaign中，按一下&#x200B;**[!UICONTROL 排程]**。 在&#x200B;**[!UICONTROL 智慧列示狀態]**&#x200B;下，按一下第二個連結。
+1. 在您的Smart Campaign中，按一下&#x200B;**[!UICONTROL Schedule]**。 在&#x200B;**[!UICONTROL Smart List Status]**&#x200B;下，按一下第二個連結。
 
    ![](assets/view-blocked-people-in-a-smart-campaign-1.png)
 
@@ -23,7 +23,7 @@ Marketo Engage資料庫中遭封鎖的人員會標籤為已列入封鎖名單、
    >
    >達到通訊限制的人也可能遭到封鎖，無法接收郵件。 瞭解如何在管理員區段中[編輯通訊限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}。
 
-   「已封鎖的人員」索引標籤會顯示可能未接收郵件的人員。
+   **[!UICONTROL Blocked Leads]**&#x200B;索引標籤顯示可能未收到郵件的人。
 
    ![](assets/view-blocked-people-in-a-smart-campaign-2.png)
 

@@ -4,9 +4,9 @@ description: 選擇現有電子郵件 — Marketo檔案 — 產品檔案
 title: 選擇現有電子郵件
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 在您[建立電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)並定義您的對象後，您將會想要決定要傳送哪些電子郵件。 您可以從草稿開始[為電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)建立電子郵件，或挑選已存在的電子郵件。 以下說明如何挑選已存在的專案。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram.jpg)
 
-1. 在&#x200B;**電子郵件**&#x200B;圖磚下，選取您要傳送的圖磚。
+1. 在&#x200B;**[!UICONTROL Email]**&#x200B;圖磚下，選取您要傳送的圖磚。
 
    ![](assets/image2014-9-12-11-3a28-3a10.png)
 

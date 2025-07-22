@@ -4,9 +4,9 @@ description: 使用URL產生器 — Marketo檔案 — 產品檔案
 title: 使用URL產生器
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ URL產生器可協助您建構可填入Marketo隱藏表單欄位的URL。
 >
 >瞭解如何在表單中建立隱藏欄位，以及在[將表單欄位設定為隱藏](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)中編輯其設定。
 
-1. 選取登陸頁面，按一下&#x200B;**登陸頁面動作**，將游標暫留在&#x200B;**URL工具**&#x200B;上，然後按一下&#x200B;**URL產生器**。
+1. 選取登入頁面，按一下&#x200B;**[!UICONTROL Landing Page Actions]**，將游標暫留在&#x200B;**[!UICONTROL URL Tools]**&#x200B;上，然後按一下&#x200B;**[!UICONTROL URL Builder]**。
 
    ![](assets/image2014-9-18-13-3a5-3a19.png)
 
-1. 選取您要使用的欄位，輸入值，然後按一下&#x200B;**更新URL**。
+1. 選取您要使用的欄位，輸入值，然後按一下&#x200B;**[!UICONTROL Update URL]**。
 
    ![](assets/image2014-9-18-13-3a5-3a28.png)
 

@@ -4,9 +4,9 @@ description: 在電子郵件中啟用預測性內容 — Marketo檔案 — 產�
 title: 啟用電子郵件中的預測性內容
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
@@ -33,19 +33,19 @@ ht-degree: 0%
 
 ## 使用電子郵件2.0編輯器新增預測性內容 {#adding-predictive-content-using-the-email-editor}
 
-1. 按一下&#x200B;**行銷活動**。
+1. 按一下「**[!UICONTROL Marketing Activities]**」。
 
    ![](assets/one.png)
 
-1. 選取您的電子郵件並按一下&#x200B;**編輯草稿**。
+1. 選取您的電子郵件並按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/two.png)
 
-1. 按一下您要進行預測性的影像。 當齒輪圖示出現時，按一下並按一下並選取&#x200B;**啟用ContentAI** （ContentAI是預測性內容的舊名稱）。
+1. 按一下您要進行預測性的影像。 當齒輪圖示出現時，按一下它並選取&#x200B;**[!UICONTROL Enable ContentAI]** （ContentAI是預測性內容的舊名稱）。
 
    ![](assets/three.png)
 
-1. 若要選取一或多個類別，請按一下&#x200B;**類別**&#x200B;下拉式清單、選取專案，然後按一下&#x200B;**套用**。
+1. 若要選取一或多個類別，請按一下&#x200B;**[!UICONTROL Categories]**&#x200B;下拉式清單、選取專案，然後按一下&#x200B;**[!UICONTROL Apply]**。
 
    ![](assets/four.png)
 
@@ -57,19 +57,19 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 若要預覽電子郵件，請按一下右上角的&#x200B;**預覽**。
+1. 若要預覽電子郵件，請按一下右上角的&#x200B;**[!UICONTROL Preview]**。
 
    ![](assets/six.png)
 
-1. 若要檢視其他可能的影像，請按一下[重新整理]。**&#x200B;**
+1. 若要檢視其他可能的影像，請按一下&#x200B;**[!UICONTROL Refresh]**。
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >在收件者開啟電子郵件&#x200B;_&#x200B;**之前，不會選取影像**&#x200B;_。 所以您在預覽中看到的只是一個範例，不一定是收件者看到的影像。
+   >在收件者開啟電子郵件&#x200B;**_之前，不會選取影像_**。 所以您在預覽中看到的只是一個範例，不一定是收件者看到的影像。
 
-1. 預覽完電子郵件後，請按一下&#x200B;**預覽動作**&#x200B;下拉式清單，然後選取&#x200B;**核准並關閉**。 或者，如果您仍然需要編輯，請按一下右側的&#x200B;**編輯草稿**。
+1. 預覽完電子郵件後，請按一下&#x200B;**[!UICONTROL Preview Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Approve and Close]**。 或者，如果您仍然需要編輯，請按一下右側的&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/eight.png)
 

@@ -4,9 +4,9 @@ description: 在收入週期模型中尋找所有銷售機會 — Marketo檔案 
 title: 在收入週期模型中尋找所有銷售機會
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -19,29 +19,29 @@ ht-degree: 0%
 >
 >[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. 選取智慧列示後，按一下&#x200B;**智慧列示**&#x200B;標籤。
+1. 選取智慧列示後，按一下「**[!UICONTROL Smart List]**」標籤。
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. 尋找&#x200B;**收入模型成員**&#x200B;篩選器，並將其拖曳至畫布中。
+1. 找到&#x200B;**[!UICONTROL Member of Revenue Model]**&#x200B;篩選器並將其拖曳到畫布中。
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. 選取&#x200B;**模型**。
+1. 選取&#x200B;**[!UICONTROL Model]**。
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
    這將為您提供該模型中的所有銷售機會，無論階段為何。 通常您需要特定階段。 請改用以下篩選器。
 
-1. 尋找&#x200B;**收入階段**&#x200B;篩選器，並將其拖曳至畫布中。
+1. 找到&#x200B;**[!UICONTROL Revenue Stage]**&#x200B;篩選器並將其拖曳到畫布中。
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. 選取&#x200B;**階段**。
+1. 選取&#x200B;**[!UICONTROL Stage]**。
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. 移至&#x200B;**銷售機會**&#x200B;標籤以檢視結果。
+1. 移至&#x200B;**[!UICONTROL Leads]**&#x200B;標籤以檢視結果。
 
    ![](assets/2.png)
 

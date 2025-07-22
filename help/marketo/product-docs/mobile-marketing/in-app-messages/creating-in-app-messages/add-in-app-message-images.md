@@ -4,9 +4,9 @@ description: 新增應用程式內訊息影像 — Marketo檔案 — 產品檔�
 title: 新增應用程式內訊息影像
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可在此處選擇及自訂應用程式內訊息影像。
 
-1. 選取應用程式內訊息並按一下&#x200B;**編輯草稿**。
+1. 選取應用程式內訊息並按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/image2016-5-4-10-3a20-3a14.png)
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. 按一下&#x200B;**樣式**&#x200B;標籤，然後按一下範本的影像區域。
+1. 按一下&#x200B;**[!UICONTROL Style]**&#x200B;標籤，然後按一下範本的影像區域。
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. 按一下&#x200B;**選取影像**。
+1. 按一下「**[!UICONTROL Select Image]**」。
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. 從Design Studio選取您的影像，然後按一下&#x200B;**選取**。
+1. 從Design Studio選取您的影像，然後按一下&#x200B;**[!UICONTROL Select]**。
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
@@ -47,15 +47,15 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. 按一下&#x200B;**移除**。 現在，您可以選取其他選項。
+1. 按一下&#x200B;**[!UICONTROL Remove]**。 現在，您可以選取其他選項。
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
-1. 設定好所需的影像後，在「影像屬性」中選取按鈕，依「高度」、「寬度」或「兩者」來符合影像。
+1. 設定好所需的影像後，在[!UICONTROL Image Properties]中，選取按鈕以依「高度」、「寬度」或「兩者」調整影像。
 
    ![](assets/image2016-5-6-9-3a4-3a47.png)
 
-1. 可選擇套用影像邊框。 預設設定為&#x200B;**關閉**。 首先，按一下顏色或在檢色器上輸入十六進位或RGB編號來選取顏色。
+1. 可選擇套用影像邊框。 預設設定為&#x200B;**關閉**。 首先，按一下顏色或在檢色器上輸入十六進位或RGB數字來選取顏色。
 
    ![](assets/image2016-5-6-9-3a9-3a0.png)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >針對影像、按鈕或背景的點選動作，您可以為Apple和Android平台設定不同的動作。 例如，Apple和Android的深層連結處理方式不同。 如果您的訊息只傳送到其中一個平台，請將另一個平台保留為預設設定，或選取&#x200B;**無**。
+   >針對影像、按鈕或背景的點選動作，您可以為Apple和Android平台設定不同的動作。 例如，Apple和Android的深層連結處理方式不同。 如果您的訊息只傳送到其中一個平台，請將另一個平台保留為預設設定，或選取&#x200B;**[!UICONTROL None]**。
 
 做得很好！ 現在是[為您的應用程式內訊息](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)建立文字的時間。
 

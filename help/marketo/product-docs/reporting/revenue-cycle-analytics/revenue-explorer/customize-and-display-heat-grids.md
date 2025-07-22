@@ -4,9 +4,9 @@ description: 自訂和顯示熱網格 — Marketo檔案 — 產品檔案
 title: 自訂和顯示熱格線
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 熱格線以彩色格線以視覺化方式呈現資料，讓您更輕鬆快速地識別好樣式和壞樣式。
 
-1. 在您的報表中，按一下圖表圖示，然後按一下&#x200B;**熱格線**。
+1. 在報表中，按一下圖表圖示，然後按&#x200B;**[!UICONTROL Heat Grid]**。
 
    ![](assets/image2015-5-4-15-3a2-3a17.png)
 
-1. 若要變更您的&#x200B;**熱格線**，請移至&#x200B;**屬性**&#x200B;區域。
+1. 若要變更您的&#x200B;**[!UICONTROL Heat Grid]**，請移至&#x200B;**[!UICONTROL Properties]**&#x200B;區域。
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
-   棒極了！ 您現在已擁有&#x200B;**熱網**！
+   棒極了！ 您現在已擁有&#x200B;**[!UICONTROL Heat Grid]**！

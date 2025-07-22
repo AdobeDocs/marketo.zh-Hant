@@ -4,9 +4,9 @@ description: 取消排程的週期性批次行銷活動執行 — Marketo檔案 
 title: 取消排程的週期性批次行銷活動執行
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. 按一下&#x200B;**排程週期**。
+1. 按一下「**[!UICONTROL Schedule Recurrence]**」。
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >您可以按一下單一回合旁邊的![紅色x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png)來取消單一回合。 瞭解如何[取消已排程的批次行銷活動執行](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}。
 
-1. 將排程設定為&#x200B;**[!UICONTROL 無]**&#x200B;並按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 將排程設定為&#x200B;**[!UICONTROL None]**&#x200B;並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 

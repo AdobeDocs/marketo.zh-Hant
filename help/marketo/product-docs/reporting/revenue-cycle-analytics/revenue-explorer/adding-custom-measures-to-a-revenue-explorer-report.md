@@ -4,9 +4,9 @@ description: 新增自訂測量至收入總管報表 — Marketo檔案 — 產�
 title: 新增自訂計量至收入總管報表
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 1. 取用報告所需的欄位。 如需詳細資訊，請參閱[新增欄位至收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)。
 
-1. 以滑鼠右鍵按一下現有的量度（藍色儲存格），按一下&#x200B;**使用者定義的量值**，然後選取&#x200B;**計算的量值**。
+1. 以滑鼠右鍵按一下現有的量度（藍色儲存格），按一下&#x200B;**[!UICONTROL User Defined Measure]**&#x200B;並選取&#x200B;**[!UICONTROL Calculated Measure]**。
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >您可以自行鍵入數學符號，或使用選取方塊。
 
-1. 完成時，按一下&#x200B;**確定**。
+1. 完成後，按一下「**[!UICONTROL OK]**」。
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 

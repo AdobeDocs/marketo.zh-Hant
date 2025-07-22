@@ -4,10 +4,10 @@ description: 帳戶團隊設定 — Marketo檔案 — 產品檔案
 title: 帳戶團隊設定
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 0%
+source-wordcount: '169'
+ht-degree: 1%
 
 ---
 
@@ -15,31 +15,31 @@ ht-degree: 0%
 
 帳戶團隊是在指定帳戶中共同作業的利害關係人群組。 請依照下列步驟，選擇應新增的CRM帳戶角色。
 
-1. 按一下&#x200B;**管理員**。
+1. 按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/one-3.png)
 
-1. 按一下&#x200B;**目標帳戶管理**。
+1. 按一下「**[!UICONTROL Target Account Management]**」。
 
    ![](assets/account-team-setup-2.png)
 
-1. 在「帳戶團隊成員」底下，按一下「**編輯**」。
+1. 在帳戶團隊成員底下，按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/3.png)
 
    >[!NOTE]
    >
-   >若為帳戶角色，請為其命名，並將其比對至您CRM中所需的使用者查詢欄位。
+   >為[!UICONTROL Account Role]命名，並將其與CRM中所需的使用者查詢欄位比對。
 
-1. 輸入您的帳戶角色名稱，並選取&#x200B;**CRM**&#x200B;欄位。 最多新增10個。
+1. 輸入您的[!UICONTROL Account Role]名稱，並選取&#x200B;**CRM**&#x200B;欄位。 最多新增10個。
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >您無法選取帳戶擁有者。 預設會從CRM中的帳戶層級選擇。
+   >您無法選取[!UICONTROL Account Owner]。 預設會從CRM中的帳戶層級選擇。
 
-1. 完成時，按一下&#x200B;**儲存**。
+1. 完成時，按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/five-2.png)
 

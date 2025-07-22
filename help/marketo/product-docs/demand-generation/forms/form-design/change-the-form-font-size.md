@@ -4,10 +4,10 @@ description: 變更表單字型大小 — Marketo檔案 — 產品檔案
 title: 變更表單字型大小
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 1%
 
 ---
 
@@ -19,27 +19,27 @@ Marketo可讓您輕鬆自訂表單的外觀和風格。 您可能想要變更字
 >
 >此設定會影響表單標籤、輸入文字及提交按鈕文字。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 選取您的表單並按一下&#x200B;**編輯表單**。
+1. 選取您的表單並按一下&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. 在&#x200B;**表單設定**&#x200B;下，選取&#x200B;**設定**。
+1. 在&#x200B;**[!UICONTROL Form Settings]**&#x200B;下，選取&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. 選取您想要的&#x200B;**字型大小**。
+1. 選取您想要的&#x200B;**[!UICONTROL Font Size]**。
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
-1. 按一下&#x200B;**完成**。
+1. 按一下「**[!UICONTROL Finish]**」。
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
-1. 按一下&#x200B;**核准並關閉**。
+1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    >[!NOTE]
    >

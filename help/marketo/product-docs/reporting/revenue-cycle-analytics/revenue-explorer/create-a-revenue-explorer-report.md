@@ -4,16 +4,16 @@ description: 建立收入總管報表 — Marketo檔案 — 產品檔案
 title: 建立收入總管報表
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 2deab35807a078a490916bf379198c3537859e7b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-# 建立收入總管報表 {#create-a-revenue-explorer-report}
+# 建立[!UICONTROL Revenue Explorer]報告 {#create-a-revenue-explorer-report}
 
-「收入總管」報表可讓您追蹤行銷方案的ROI。
+[!UICONTROL Revenue Explorer]報告可讓您追蹤行銷方案的ROI。
 
 >[!AVAILABILITY]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 >
 >由於技術問題，收入週期總管中的垃圾桶資料夾已暫時隱藏。 我們目前正在進行修正，您的檔案是安全的。 如果您有任何需要還原的檔案，請聯絡[Adobe支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
-1. 前往&#x200B;**收入總管**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Revenue Explorer]**&#x200B;區域。
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. 按一下&#x200B;**新建**，然後選取&#x200B;**報表**。
+1. 按一下&#x200B;**[!UICONTROL Create New]**，然後選取&#x200B;**[!UICONTROL Report]**。
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 
@@ -41,5 +41,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[新增欄位至收入總管報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->[新增自訂計量至Revenue Explorer報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
+>* [新增欄位至[!UICONTROL Revenue Explorer]報告](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [新增自訂測量至[!UICONTROL Revenue Explorer]報告](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)

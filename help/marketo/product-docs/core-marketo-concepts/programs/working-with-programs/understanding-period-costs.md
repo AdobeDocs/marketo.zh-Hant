@@ -4,9 +4,9 @@ description: 瞭解期間成本 — Marketo檔案 — 產品檔案
 title: 瞭解期間成本
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 >
 >**範例**
 >
->如果您花$1000僱一名插圖師，以製作將於7月推出的電子書，則電子書計畫的期間成本在7月為$1000。
+>如果您花費$1000僱傭illustrator為將於7月啟動的[!DNL eBook]進行插圖 — [!DNL eBook]方案在7月的期間成本為$1000。
 >
->如果您每月在[!DNL Google Adwords]上花費$200 - [!DNL Google Adwords]方案的期間成本為每月&#x200B;_200 $3&rbrace;。_
+>如果您每月在[!DNL Google Adwords]上花費$200 - [!DNL Google Adwords]方案的期間成本為每月&#x200B;_200 $3}。_
 
 >[!NOTE]
 >

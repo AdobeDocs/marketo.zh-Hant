@@ -4,9 +4,9 @@ description: 建立新的事件程式 — Marketo檔案 — 產品檔案
 title: 建立新的事件程式
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 事件可讓您自動執行線上和離線事件！ 擷取您的人員在不同階段進行中的狀態，並取得行銷方案ROI的準確測量。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 
-1. 選取新方案的資料夾。 選取&#x200B;**新增**，然後按一下&#x200B;**新增程式**。
+1. 選取新方案的資料夾。 選取&#x200B;**[!UICONTROL New]**&#x200B;並按一下&#x200B;**[!UICONTROL New Program]**。
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
-1. 選擇事件的名稱。 然後在&#x200B;**程式型別**&#x200B;下，選取&#x200B;**事件**。
+1. 選擇事件的名稱。 然後，在&#x200B;**[!UICONTROL Program Type]**&#x200B;下選取&#x200B;**[!UICONTROL Event]**。
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
-1. 選取&#x200B;**頻道**。
+1. 選取&#x200B;**[!UICONTROL Channel]**。
 
    >[!NOTE]
    >
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
-1. 按一下&#x200B;**建立**。
+1. 按一下「**[!UICONTROL Create]**」。
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 
-1. 若要排程您的活動，請選取&#x200B;**排程檢視**，然後在行事曆中按一下以開啟快顯視窗。 輸入日期和時間。
+1. 若要排程您的活動，請選取&#x200B;**[!UICONTROL Schedule View]**&#x200B;並在行事曆中按一下以開啟快顯視窗。 輸入日期和時間。
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
-1. 完成後，將列滑動到&#x200B;**已確認**。
+1. 完成後，將列滑動到&#x200B;**[!UICONTROL Confirmed]**。
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 

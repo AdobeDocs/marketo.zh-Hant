@@ -4,43 +4,43 @@ description: 瞭解預測性內容 — Marketo檔案 — 產品檔案
 title: 瞭解預測性內容
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
 # 瞭解預測性內容 {#understanding-predictive-content}
 
-在您[核准預測性內容的標題](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)後，請在這裡處理它。 「預測性內容」頁面會顯示您已核准用於預測性內容的所有標題。
+在您[核准預測性內容的標題](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)後，請在這裡處理它。 [!UICONTROL Predictive Content]頁面會顯示您已核准用於預測性內容的所有標題。
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
 頁面欄位包括：
 
-* **影像和標題**：內容片段和選取影像的名稱
-* **由Source啟用**：顯示標題是否核准給多媒體、電子郵件或推薦列。
-* **類別**：由您建立，用來群組您的網路或電子郵件預測性結果
-* **點按次數**：建議內容的點按總數（包括所有來源）
-* **轉換率**：由直接轉換除以點按次數計算的百分比。 暫留以檢視其他資料（請參閱下文）
-* **輔助轉換**：在上次造訪中點按建議內容，並於稍後完成表單的訪客
+* **[!UICONTROL Image and Name]**：內容片段和選取影像的名稱
+* **[!UICONTROL Enabled by Source]**：顯示標題是否核准給多媒體、電子郵件或建議列。
+* **[!UICONTROL Categories]**：由您建立，用來群組您的網路或電子郵件預測性結果
+* **[!UICONTROL Clicks]**：建議內容的點按總數（包括所有來源）
+* **[!UICONTROL Conversion Rate]**：由直接轉換除以點按次數計算的百分比。 暫留以檢視其他資料（請參閱下文）
+* **[!UICONTROL Assisted Conversion]**：在上次造訪中點按建議內容並於稍後完成表單的訪客
 
 ## 篩選內容 {#filtering-content}
 
-**類別**
+**[!UICONTROL Category]**
 
-您可以依已建立的類別篩選內容。 按一下篩選圖示，然後在&#x200B;**類別**&#x200B;下選取一或多個內容類別。
+您可以依已建立的類別篩選內容。 按一下篩選圖示，然後在&#x200B;**[!UICONTROL Category]**&#x200B;下選取一或多個內容類別。
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
-**已啟用Source**
+**[!UICONTROL Enabled Source]**
 
-依已啟用內容的每種型別篩選：電子郵件、多媒體、建議列。
+依每個啟用的內容型別篩選： [!UICONTROL Email]、[!UICONTROL Rich Media]、[!UICONTROL Recommendation Bar]。
 
 ![](assets/image2017-10-3-9-3a25-3a9.png)
 
-**Source的Analytics**
+**[!UICONTROL Analytics by Source]**
 
 篩選啟用的內容分析讓您能夠檢視每個來源的執行狀況。
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ## 依日期顯示Analytics {#display-analytics-by-date}
 
-1. 選取右側的開始和結束日期（如所示）。 按一下&#x200B;**套用**。
+1. 選取右側的開始和結束日期（如所示）。 按一下「**[!UICONTROL Apply]**」。
 
    ![](assets/predictive-content-filter-by-date-hands.png)
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
-將游標暫留在「轉換率」欄中的長條上，即可檢視轉換率、直接轉換和點按資料。
+將游標暫留在[!UICONTROL Conversion Rate]欄中的長條上，即可檢視轉換率、直接轉換和點按資料。
 
 ![](assets/predictive-content-conversion-rate-popup-hand.png)
 
@@ -66,8 +66,8 @@ ht-degree: 0%
 >
 >**定義**
 >
->**轉換率**：由直接轉換除以點按次數計算的百分比
+>**[!UICONTROL Conversion Rate]**：由直接轉換除以點按次數計算的百分比
 >
->**直接轉換**：在同次造訪中點按建議內容並完成表單的訪客
+>**[!UICONTROL Direct Conversion]**：在同次造訪中點按建議內容並完成表單的訪客
 >
->**點按**：建議內容的點按總數（包括所有三個來源）
+>**[!UICONTROL Clicked]**：建議內容的總點按次數（包括所有三個來源）

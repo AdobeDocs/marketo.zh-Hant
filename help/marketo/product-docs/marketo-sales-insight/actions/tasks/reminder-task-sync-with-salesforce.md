@@ -3,82 +3,82 @@ description: 提醒任務與Salesforce同步 — Marketo檔案 — 產品檔案
 title: 提醒任務與Salesforce同步
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
 
-# 提醒任務與Salesforce同步 {#reminder-task-sync-with-salesforce}
+# 與[!DNL Salesforce]同步處理提醒工作 {#reminder-task-sync-with-salesforce}
 
 >[!NOTE]
 >
->若要瞭解如何啟用「工作同步」，請取出[將Sales Insight動作工作/提醒同步到Salesforce工作](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks)。
+>若要瞭解如何啟用「工作同步」，請取出[將銷售Insight動作工作/提醒同步到Salesforce工作](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks)。
 
-啟用工作同步設定後，使用者會看到他們的提醒工作與Salesforce雙向同步。 這表示使用者可以從Salesforce或Sales Insight Actions管理任務，並確信系統將會保持一致。
+啟用工作同步設定後，使用者會看到他們的提醒工作與[!DNL Salesforce]雙向同步。 這表示使用者可以管理來自[!DNL Salesforce]或[!DNL Sales Insight Actions]的工作，並確信系統將會保持一致。
 
 ## 提醒工作列位同步 {#reminder-task-field-sync}
 
 ![](assets/reminder-task-sync-with-salesforce-1.png)
 
-以下是「銷售分析動作」中的提醒工作欄位清單，以及透過雙向工作同步支援的對應Salesforce欄位。
+以下是[!DNL Sales Insight Actions]中的提醒工作列位清單，以及透過雙向任務同步支援的其對應的[!DNL Salesforce]欄位。
 
 <table>
  <tr>
-  <th>銷售分析動作工作列位</th>
-  <th>Salesforce工作欄位</th>
-  <th>Salesforce工作</th>
+  <th>[!DNL Sales Insight Actions] 工作列位</th>
+  <th>[!DNL Salesforce] 工作列位</th>
+  <th>[!DNL Salesforce] 任務</th>
  </tr>
  <tr>
-  <td>任務名稱</td>
-  <td>主題欄位</td>
+  <td>[!UICONTROL Task Name]</td>
+  <td>[!UICONTROL Subject Field]</td>
   <td>旨在顯示任務標題的簡短摘要欄位。</td>
  </tr>
  <tr>
-  <td>狀態</td>
-  <td>任務狀態</td>
-  <td><p>顯示工作的狀態。 Sales Insight Actions工作有兩個狀態，對應至Salesforce工作狀態選擇清單中的兩個值。</p>
-  <p>在Sales Insight中開啟=未在Salesforce中啟動。</p>
-  <p>在Sales Insight中完成=在Salesforce中完成。</p>
-  <p>Salesforce中的其他狀態值將不會同步至Sales Insight動作。</p></td>
+  <td>[!UICONTROL Status]</td>
+  <td>[!UICONTROL Task Status]</td>
+  <td><p>顯示工作的狀態。 [!DNL Sales Insight Actions]個任務有兩個狀態，對應至[!DNL Salesforce]任務狀態選擇清單中的兩個值。</p>
+  <p>在[!DNL Sales Insight Actions]中開啟=未在[!DNL Salesforce]中啟動。</p>
+  <p>完成於[!DNL Sales Insight Actions] =完成於[!DNL Salesforce]。</p>
+  <p>[!DNL Salesforce]中的其他狀態值將不會同步至[!DNL Sales Insight Actions]。</p></td>
  </tr>
  <tr>
-  <td>優先順序</td>
-  <td>優先順序</td>
-  <td><p>「銷售分析動作」優先順序可以是「一般」或「高」，對應至Salesforce中的「一般」和「高」優先順序值。</p>
-  <p>Salesforce中的低優先順序值不會同步至Sales Insight動作。</p></td>
+  <td>[!UICONTROL Priority]</td>
+  <td>[!UICONTROL Priority]</td>
+  <td><p>[!DNL Sales Insight Actions] 優先順序可以是「一般」或「高」，對應到[!DNL Salesforce]中的「一般」和「高」優先順序值。</p>
+  <p>[!DNL Salesforce]中的低優先順序值將不會同步至[!DNL Sales Insight Actions]。</p></td>
  </tr>
  <tr>
-  <td>到期日期</td>
-  <td>到期日期</td>
+  <td>[!UICONTROL Due Date]</td>
+  <td>[!UICONTROL Due Date]</td>
   <td>任務的到期日。</td>
  </tr>
  <tr>
-  <td>詳細資料</td>
-  <td>註解</td>
+  <td>[!UICONTROL Details]</td>
+  <td>[!UICONTROL Comments]</td>
   <td>顯示有關應該完成提醒工作的詳細資訊。</td>
  </tr>
 </table>
 
-## 首次與Salesforce同步銷售分析動作工作 {#syncing-sales-insight-actions-tasks-with-salesforce-for-the-first-time}
+## 第一次將[!DNL Sales Insight Actions]個任務與[!DNL Salesforce]同步 {#syncing-sales-insight-actions-tasks-with-salesforce-for-the-first-time}
 
-當您首次開啟Sales Insight Actions與Salesforce工作之間的同步時，我們會匯入您的Salesforce工作。 我們&#x200B;**不會**&#x200B;將您在Sales Insight Actions中擁有的任何目前工作推送到Salesforce。 為了減少雜湊和重複專案，從Sales Insight Actions同步到Salesforce的唯一工作是在您將Sales Insight Actions與SFDC同步的&#x200B;*之後*&#x200B;建立的工作。
+當您首次開啟[!DNL Sales Insight Actions]與[!DNL Salesforce]個任務之間的同步時，我們會匯入您的[!DNL Salesforce]個任務。 我們&#x200B;**不會**&#x200B;將您在[!DNL Sales Insight Actions]中擁有的任何目前任務推播到[!DNL Salesforce]。 若要減少雜訊和重複專案，從[!DNL Sales Insight Actions]同步到[!DNL Salesforce]的唯一工作是在您將&#x200B;*與SFDC同步*&#x200B;後[!DNL Sales Insight Actions]建立的工作。
 
-以下是同步處理Sales Insight動作和SFDC工作時所發生的情況：
+以下是當您同步[!DNL Sales Insight Actions]和SFDC任務時發生的情況：
 
 * 當您在同步處理任務時按一下「儲存」，任務就會開始進行同步處理。 這最初需要一些時間。
 
-* 過去24小時內已更新或建立的任何提醒都會從SFDC提取至Sales Insight Actions。 同步是以到期日為基礎，所有這些工作都會在後端進行同步，但在指揮中心，您只會看到今天和明天到期的工作。
+* 任何在過去24小時內已更新或建立的提醒將會從SFDC提取至[!DNL Sales Insight Actions]。 同步是以到期日為基礎，所有這些工作都會在後端進行同步，但在指揮中心，您只會看到今天和明天到期的工作。
 
-* 如果先前已開啟同步，而您刪除了SFDC中的任何工作，則過去15天刪除的任何工作都會從指揮中心刪除。
+* 如果先前已開啟同步功能，而您又刪除了SFDC中的任何工作，則任何過去15天中刪除的工作都會從命令中心刪除。
 
-* 只要同步功能已啟用，我們就會持續在Sales Insight Actions與SFDC之間同步工作。
+* 只要同步處理已啟用，我們就會持續在[!DNL Sales Insight Actions]和SFDC之間同步處理工作。
 
-初次同步後，您在Sales Insight Actions中建立、編輯、完成或刪除的任何工作都會同步至Salesforce中的工作清單。 在Salesforce中建立、編輯、完成或刪除的任何專案，都會更新Sales Insight Actions中的任務清單。
+初次同步之後，您在[!DNL Sales Insight Actions]中建立、編輯、完成或刪除的任何工作都會同步至[!DNL Salesforce]中的工作清單。 在[!DNL Salesforce]中建立、編輯、完成或刪除的任何專案都會在[!DNL Sales Insight Actions]中更新您的任務清單。
 
 若要開啟此同步，只要在Web應用程式的[設定頁面](https://toutapp.com/login)中勾選同步方塊即可。
 
 >[!NOTE]
 >
->若您在[活動詳細資料自訂](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)設定中使用`{{activity_subject}}`動態欄位，則可在Sales Insight Actions中更新任務的主旨欄位，而且此更新將會同步至對應同步任務的Salesforce主旨欄位。 相反地，對Salesforce中的主旨欄位所做的任何更新將&#x200B;_不會_&#x200B;同步到Sales Insight Actions提醒任務主旨欄位。
+>若您在[!DNL Sales Insight Actions]活動詳細資料自訂[!DNL Salesforce]設定中使用`{{activity_subject}}`動態欄位，則可在[中更新任務的主旨欄位，且此更新將會同步至對應同步任務的](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)主旨欄位。 相反地，對[!DNL Salesforce]中主旨欄位所做的任何更新將&#x200B;_不會_&#x200B;同步到[!DNL Sales Insight Actions]提醒任務主旨欄位。

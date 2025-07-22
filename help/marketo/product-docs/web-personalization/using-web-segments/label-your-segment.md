@@ -4,9 +4,9 @@ description: 標示您的區段 — Marketo檔案 — 產品檔案
 title: 為區段加上標籤
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 標籤區段 {#tag-a-segment}
 
-1. 登入Web Personalization並移至&#x200B;**區段**。
+1. 登入[!DNL Web Personalization]並移至&#x200B;**[!UICONTROL Segments]**。
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 
-1. 若要使用現有標籤，請按一下[設定標籤] **&#x200B;**，核取方塊，然後按一下[套用] **&#x200B;**。
+1. 若要使用現有標籤，請按一下&#x200B;**[!UICONTROL Set Label]**、核取方塊，然後按一下&#x200B;**[!UICONTROL Apply]**。
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. 或者，若要建立新標籤，請按一下[設定標籤] **&#x200B;**，輸入新標簽名稱，然後按一下[新建] **&#x200B;**。
+1. 或者，若要建立新標籤，請按一下&#x200B;**[!UICONTROL Set Label]**，輸入新標簽名稱，然後按一下&#x200B;**新建**。
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 

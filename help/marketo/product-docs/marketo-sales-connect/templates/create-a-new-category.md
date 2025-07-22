@@ -4,19 +4,19 @@ description: 建立新類別 — Marketo檔案 — 產品檔案
 title: 建立新類別
 exl-id: 0bb6b244-dfc9-442d-bf85-1535bbe00f8a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
 # 建立新類別 {#create-a-new-category}
 
-Sales Connect提供兩種預設類別，協助您組織範本。
+[!DNL Sales Connect]附有兩個預設類別，可協助組織您的範本。
 
-1. 按一下&#x200B;**類別**&#x200B;旁的&#x200B;**+**&#x200B;圖示。
+1. 按一下&#x200B;**旁的**+**[!UICONTROL Categories]**&#x200B;圖示。
 
-1. 輸入新類別的名稱，然後按一下[建立]。**&#x200B;**
+1. 輸入新類別的名稱，然後按一下&#x200B;**[!UICONTROL Create]**。
 
 新類別現在會出現在導覽功能表中。

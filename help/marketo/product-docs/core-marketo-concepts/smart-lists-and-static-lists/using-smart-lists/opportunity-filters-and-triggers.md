@@ -4,20 +4,20 @@ description: 機會篩選器和觸發器 — Marketo檔案 — 產品檔案
 title: 機會篩選器和觸發程式
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
 
 # 機會篩選器和觸發程式 {#opportunity-filters-and-triggers}
 
-機會篩選器和觸發器可讓您從Salesforce追蹤機會事件。 與其他篩選器和觸發程式相比，這些功能稍有不同。
+機會篩選器和觸發器可讓您從[!DNL Salesforce]追蹤機會事件。 與其他篩選器和觸發程式相比，這些功能稍有不同。
 
 ## 機會篩選器 {#opportunity-filters}
 
-機會篩選器可讓您深入探究具有機會的Salesforce潛在客戶。 編輯「智慧列示」時，您可以在「浮動視窗」的「機會」資料夾中找到它們。 有幾種口味。
+機會篩選器可讓您深入瞭解具有機會的Salesforce潛在客戶。 編輯「智慧列示」時，您可以在「浮動視窗」的「機會」資料夾中找到它們。 有幾種口味。
 
 * 選件數目
 * 總商機金額

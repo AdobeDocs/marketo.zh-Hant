@@ -3,28 +3,28 @@ description: 將大量動作按鈕新增至Salesforce Classic - Marketo檔案 �
 title: 將大量動作按鈕新增至Salesforce Classic
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# 將大量動作按鈕新增至Salesforce Classic{#add-bulk-action-buttons-to-salesforce-classic}
+# 將大量動作按鈕新增至[!DNL Salesforce]傳統{#add-bulk-action-buttons-to-salesforce-classic}
 
-您可以將Marketo按鈕新增至Salesforce配置圖。 範例如下：
+您可以將Marketo按鈕新增至[!DNL Salesforce]版面。 範例如下：
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. 按一下&#x200B;**設定**。 搜尋「搜尋配置」，然後按一下&#x200B;**銷售機會**&#x200B;底下的&#x200B;**搜尋配置**。
+1. 按一下&#x200B;**[!UICONTROL Setup]**。 搜尋&quot;[!UICONTROL search layout]&quot;並按一下&#x200B;**[!UICONTROL Search Layouts]**&#x200B;底下的&#x200B;**[!UICONTROL Leads]**。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. 按一下&#x200B;**潛在客戶清單檢視**&#x200B;列中的&#x200B;**編輯**。
+1. 按一下&#x200B;**[!UICONTROL Edit]**&#x200B;列中的&#x200B;**[!UICONTROL Leads List View]**。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. 新增&#x200B;**新增至Marketo Campaign**、**傳送Marketo電子郵件**&#x200B;以及&#x200B;**新增至監看清單**&#x200B;按鈕至&#x200B;**選取的按鈕**&#x200B;和&#x200B;**儲存**。
+1. 將&#x200B;**[!UICONTROL Add to Marketo Campaign]**、**[!UICONTROL Send Marketo Email]**&#x200B;和&#x200B;**[!UICONTROL Add to Watch List]**&#x200B;按鈕新增至&#x200B;**[!UICONTROL Selected Buttons]**&#x200B;和&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 

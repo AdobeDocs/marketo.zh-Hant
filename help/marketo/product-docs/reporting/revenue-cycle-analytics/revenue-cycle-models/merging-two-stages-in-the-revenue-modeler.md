@@ -4,10 +4,10 @@ description: 在收入Modeler - Marketo檔案 — 產品檔案中合併兩個階
 title: 在收入Modeler中合併兩個階段
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 核准模型後，您便無法在編輯草稿時刪除階段。 您可以將該階段與另一個階段合併。
 
-1. 按一下&#x200B;**Marketo首頁**&#x200B;並選取&#x200B;**Analytics**。
+1. 按一下&#x200B;**Marketo首頁**&#x200B;並選取&#x200B;**[!UICONTROL Analytics]**。
 
    ![](assets/image2015-4-29-14-3a59-3a9.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-29-15-3a3-3a15.png)
 
-1. 按一下&#x200B;**編輯草稿。**
+1. 按一下 **[!UICONTROL Edit Draft.]**
 
    ![](assets/image2015-4-29-15-3a7-3a3.png)
 
-1. 用滑鼠右鍵按一下您要合併的階段，然後在功能表中選取&#x200B;**合併階段**。
+1. 用滑鼠右鍵按一下您要合併的階段，然後在功能表中選取&#x200B;**[!UICONTROL Merge]階段**。
 
    ![](assets/image2015-4-29-15-3a10-3a6.png)
 
@@ -35,10 +35,10 @@ ht-degree: 0%
 
    ![](assets/image2015-4-29-15-3a52-3a5.png)
 
-1. 您可以在&#x200B;**模型動作**&#x200B;功能表中選取&#x200B;**核准模型草稿**，以重新核准模型。
+1. 您可以在&#x200B;**[!UICONTROL Approve Model Draft]**&#x200B;功能表中選取&#x200B;**[!UICONTROL Model Actions]**，以重新核准模型。
 
    ![](assets/image2015-4-29-16-3a5-3a53.png)
 
 >[!NOTE]
 >
->在合併階段下拉式功能表中選取&#x200B;**無**，將潛在客戶從模型中移除
+>在&#x200B;**[!UICONTROL None]**&#x200B;下拉式選單中選取[!UICONTROL Merge Stage]，將潛在客戶從模型中移除

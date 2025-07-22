@@ -4,10 +4,10 @@ description: 新增/移除自訂物件欄位做為智慧清單/觸發條件約�
 title: 新增/移除自訂物件欄位做為智慧清單/觸發條件約束
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 1%
+source-wordcount: '173'
+ht-degree: 0%
 
 ---
 
@@ -19,11 +19,11 @@ Marketo Engage可讓您對Salesforce自訂物件同步處理執行更細微的�
 >
 >**需要管理員許可權**
 
-1. 已移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 按一下&#x200B;**[!UICONTROL Admin].**
 
    ![](assets/add-remove-custom-object-field-1.png)
 
-1. 按一下「**[!UICONTROL Salesforce Objects Sync]**」。
+1. 按一下&#x200B;**[!UICONTROL Admin]**，然後按&#x200B;**[!UICONTROL Salesforce Objects Sync].**
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
@@ -39,7 +39,7 @@ Marketo Engage可讓您對Salesforce自訂物件同步處理執行更細微的�
 
    >[!TIP]
    >
-   >如果&#x200B;**[!UICONTROL Edit Visible Fields]**&#x200B;按鈕呈現灰色，表示該物件目前正在智慧清單或智慧行銷活動中使用。 移除所有關聯以繼續。
+   >如果&#x200B;**[!UICONTROL Edit Visible Fields]**&#x200B;按鈕呈現灰色，表示物件目前正在智慧清單或智慧行銷活動中使用。 移除所有關聯以繼續。
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 

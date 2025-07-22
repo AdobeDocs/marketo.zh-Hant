@@ -4,9 +4,9 @@ description: 設定Facebook銷售機會廣告 — Marketo檔案 — 產品檔案
 title: 設定Facebook潛在客戶廣告
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/set-up-facebook-lead-ads-2.png)
 
-1. 輸入您服務的&#x200B;**顯示名稱**，從下拉式清單中選取&#x200B;**Facebook銷售機會廣告**&#x200B;服務，然後按一下&#x200B;**建立**。
+1. 為您的服務輸入&#x200B;**[!UICONTROL Display Name]**，從下拉式清單中選取&#x200B;**[!UICONTROL Facebook Lead Ads]**&#x200B;服務，然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/set-up-facebook-lead-ads-3.png)
 
@@ -39,31 +39,31 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Facebook帳戶需要存取您要從中提取潛在客戶廣告的所有Facebook商業頁面。
+   >[!DNL Facebook]帳戶需要存取您想要從中提取潛在客戶廣告的所有[!DNL Facebook]商業頁面。
 
    ![](assets/set-up-facebook-lead-ads-4.png)
 
-1. 登入Facebook後，請返回Marketo並按一下&#x200B;**授權**。
+1. 在您登入[!DNL Facebook]後，請返回Marketo並按一下&#x200B;**[!UICONTROL Authorize]**。
 
    ![](assets/set-up-facebook-lead-ads-5.png)
 
-1. 如果出現提示，請按一下&#x200B;**確定**，接受將Marketo應用程式安裝到Facebook中。
+1. 如果出現提示，請按一下&#x200B;**[!UICONTROL OK]**&#x200B;接受Marketo應用程式安裝到[!DNL Facebook]。
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. 您會發現現在已獲得授權。 按一下&#x200B;**下一步**。
+1. 您會發現現在已獲得授權。 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
-1. 選取您希望Marketo從中提取Facebook潛在客戶廣告的頁面，然後按一下&#x200B;**下一步**。
+1. 選取您要Marketo從中提取[!UICONTROL Facebook Lead Ads]的頁面，然後按一下&#x200B;**[!UICONTROL Next]**。
 
    >[!TIP]
    >
-   >如果您沒有看到預期的頁面，請確保用於驗證的Facebook帳戶已新增到Facebook上的頁面，然後再試一次。
+   >如果您沒有看到預期的頁面，請確定用於驗證的[!DNL Facebook]帳戶已新增到[!DNL Facebook]上的頁面，然後再試一次。
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. 若要接受預設的Facebook與Marketo欄位對應，只要按一下[建立]。**&#x200B;**
+1. 若要接受預設的[!DNL Facebook]到Marketo欄位對應，只要按一下&#x200B;**[!UICONTROL Create]**&#x200B;即可。
 
    >[!TIP]
    >
@@ -71,11 +71,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketo不支援將兩個Facebook欄位對應到單一Marketo欄位，只有1對1。 如果將2對應至1，潛在客戶可能無法進入Marketo系統。
+   >Marketo不支援將兩個[!DNL Facebook]欄位對應到單一Marketo欄位，只有1對1。 如果將2對應至1，潛在客戶可能無法進入Marketo系統。
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   做得很好！ 當您執行成功的Facebook潛在客戶廣告行銷活動時，潛在客戶將開始流入Marketo。
+   做得很好！ 當您執行成功的[!DNL Facebook]個潛在客戶廣告行銷活動時，潛在客戶將開始流入Marketo。
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

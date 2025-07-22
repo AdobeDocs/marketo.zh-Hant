@@ -4,9 +4,9 @@ description: 建立電子郵件指令碼權杖 — Marketo檔案 — 產品檔�
 title: 建立電子郵件指令碼Token
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 對於進階開發人員，您可以在電子郵件中使用[Velocity指令碼](https://velocity.apache.org/engine/1.7/user-guide.html)。 以下是其操作方式。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. 在&#x200B;**我的Token**&#x200B;標籤下，拖入&#x200B;**電子郵件指令碼** Token。
+1. 在&#x200B;**[!UICONTROL My Tokens]**&#x200B;標籤下，拖入&#x200B;**[!UICONTROL Email Script]**&#x200B;權杖。
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. 為您的電子郵件指令碼Token命名，並&#x200B;**按一下以編輯**&#x200B;其內容。
+1. 為您的電子郵件指令碼Token命名，並&#x200B;**[!UICONTROL Click to Edit]**&#x200B;其內容。
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. 使用右側的樹狀結構以拖入&#x200B;**人員、機會**&#x200B;或&#x200B;**自訂物件**&#x200B;代號。
+1. 使用右側的樹狀結構來拖曳&#x200B;**[!UICONTROL Person]**、**[!UICONTROL Opportunity]**&#x200B;或&#x200B;**[!UICONTROL Custom Object]**&#x200B;代號。
 
    ![](assets/five-2.png)
 
@@ -49,16 +49,16 @@ ht-degree: 0%
 
 1. 在Velocity中撰寫指令碼。 以下是一些實用的資源：
 
-   * [Marketo開發人員電子郵件指令碼檔案](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting)
+   * [Marketo開發人員電子郵件指令碼檔案](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Velocity使用手冊](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Velocity參考指南](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. 完成您的指令碼後，按一下&#x200B;**儲存**。
+1. 您的指令碼完成後，請按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. 再按一次&#x200B;**儲存**。
+1. 再按一次&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 

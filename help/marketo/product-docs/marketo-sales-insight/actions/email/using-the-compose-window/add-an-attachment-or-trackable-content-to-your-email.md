@@ -3,16 +3,16 @@ description: 新增附件或可追蹤內容至您的電子郵件 — Marketo檔�
 title: 新增附件或可追蹤的內容至您的電子郵件
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
 # 新增附件或可追蹤的內容至您的電子郵件 {#add-an-attachment-or-trackable-content-to-your-email}
 
-透過Marketo Sales傳送電子郵件時，您可以選擇新增檔案作為附件，或讓檔案成為可下載（且可追蹤）連結。
+透過[!DNL Marketo Sales]傳送電子郵件時，您可以選擇新增檔案作為附件，或將檔案設為可下載（且可追蹤）連結。
 
 >[!NOTE]
 >
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 ## 新增附件 {#add-an-attachment}
 
-1. 建立您的電子郵件草稿（有多種方式可以達成此目的，在此範例中，我們在標題中選擇&#x200B;**撰寫**）。
+1. 建立您的電子郵件草稿（有多種方法可這麼做，在此範例中，我們在標題中選擇&#x200B;**[!UICONTROL Compose]**）。
 
    ![](assets/add-an-attachment-or-trackable-content-1.png)
 
-1. 填入「收件者」欄位並輸入「主旨」。
+1. 填入[!UICONTROL To]欄位並輸入[!UICONTROL Subject]。
 
    ![](assets/add-an-attachment-or-trackable-content-2.png)
 
@@ -32,13 +32,13 @@ ht-degree: 0%
 
    ![](assets/add-an-attachment-or-trackable-content-3.png)
 
-1. 選取您要附加的檔案，然後按一下[插入]。**&#x200B;**
+1. 選取您要附加的檔案，然後按一下&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/add-an-attachment-or-trackable-content-4.png)
 
    >[!NOTE]
    >
-   >如果您需要上傳檔案，請按一下視窗右上角的&#x200B;**上傳內容**&#x200B;按鈕。
+   >如果您需要上傳檔案，請按一下視窗右上角的&#x200B;**[!UICONTROL Upload Content]**&#x200B;按鈕。
 
    附件會顯示在您電子郵件的底部。
 
@@ -46,11 +46,11 @@ ht-degree: 0%
 
 ## 新增可追蹤內容 {#add-trackable-content}
 
-1. 建立您的電子郵件草稿（有多種方法可這麼做，在此範例中，我們選擇「撰寫」視窗）。
+1. 建立您的電子郵件草稿（有多種方法可這麼做，在此範例中，我們選擇&#x200B;**[!UICONTROL Compose]**&#x200B;視窗）。
 
    ![](assets/add-an-attachment-or-trackable-content-6.png)
 
-1. 填入「收件者」欄位並輸入「主旨」。
+1. 填入[!UICONTROL To]欄位並輸入[!UICONTROL Subject]。
 
    ![](assets/add-an-attachment-or-trackable-content-7.png)
 
@@ -58,13 +58,13 @@ ht-degree: 0%
 
    ![](assets/add-an-attachment-or-trackable-content-8.png)
 
-1. 選取您要新增的內容，按一下&#x200B;**已追蹤的內容**&#x200B;滑桿，然後按一下&#x200B;**插入**。
+1. 選取您要新增的內容，按一下&#x200B;**[!UICONTROL Content is tracked]**&#x200B;滑桿，然後按一下&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
-   >如果您需要上傳檔案，請按一下視窗右上角的&#x200B;**上傳內容**&#x200B;按鈕。
+   >如果您需要上傳檔案，請按一下視窗右上角的&#x200B;**[!UICONTROL Upload Content]**&#x200B;按鈕。
 
    內容會以連結的形式顯示在您的電子郵件中。 收件者可以按一下連結以下載內容。
 

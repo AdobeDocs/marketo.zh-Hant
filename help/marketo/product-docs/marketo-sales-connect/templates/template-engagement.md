@@ -4,9 +4,9 @@ description: 範本參與 — Marketo檔案 — 產品檔案
 title: 範本參與
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 請依照下列步驟檢視您的範本參與。
 
-1. 導覽至&#x200B;**Analytics**&#x200B;頁面。
+1. 導覽至&#x200B;**[!UICONTROL Analytics]**&#x200B;頁面。
 
-1. 按一下&#x200B;**Content**&#x200B;按鈕，並依所需的日期範圍篩選。
+1. 按一下「**[!UICONTROL Content]**」按鈕，並依所需的日期範圍篩選。
 
 1. 根據選取的日期範圍，您可以在頁面頂端檢視整個團隊使用的電子郵件和範本總數。
 

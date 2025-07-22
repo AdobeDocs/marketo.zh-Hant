@@ -4,29 +4,29 @@ description: 停用全域MS Dynamics同步處理 — Marketo檔案 — 產品檔
 title: 停用全域MS Dynamics同步處理
 exl-id: a8c64e4a-4932-4686-8563-63452d3753e2
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 0%
+source-wordcount: '46'
+ht-degree: 2%
 
 ---
 
-# 停用全域MS Dynamics同步處理 {#disable-global-ms-dynamics-sync}
+# 停用全域[!DNL MS Dynamics]同步處理 {#disable-global-ms-dynamics-sync}
 
-請依照下列簡單步驟停用MS Dynamics同步處理。
+請依照下列簡單步驟停用您的[!DNL MS Dynamics]同步處理。
 
-1. 在Marketo中，按一下&#x200B;**管理員**。
+1. 在Marketo中，按一下&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/one.png)
 
-1. 在[整合]下，按一下&#x200B;**Microsoft Dynamics**。
+1. 在[!UICONTROL Integration]底下，按一下&#x200B;**[!UICONTROL Microsoft Dynamics]**。
 
    ![](assets/two.png)
 
-1. 按一下&#x200B;**停用同步**。
+1. 按一下「**[!UICONTROL Disable Sync]**」。
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >如果您在執行個體中未看到[停用同步處理]按鈕，請連絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
+   >如果您在執行個體中未看到[!UICONTROL Disable Sync]按鈕，請聯絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)。

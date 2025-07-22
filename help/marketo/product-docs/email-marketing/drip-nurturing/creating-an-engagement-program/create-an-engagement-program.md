@@ -4,9 +4,9 @@ description: 建立參與計畫 — Marketo檔案 — 產品檔案
 title: 建立參與計畫
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 您可以使用Marketo中的參與計畫，輕鬆完成電子郵件培育。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取您要建立參與計畫的資料夾，然後按一下&#x200B;**新增**&#x200B;和&#x200B;**新增計畫**。
+1. 選取您要建立參與計畫的資料夾，然後按一下&#x200B;**[!UICONTROL New]**&#x200B;和&#x200B;**[!UICONTROL New Program]**。
 
    ![](assets/newprogramlifecycle.jpg)
 
-1. 輸入&#x200B;**名稱**，為&#x200B;**方案型別**&#x200B;選取&#x200B;**參與**，然後按一下&#x200B;**建立**。
+1. 輸入&#x200B;**[!UICONTROL Name]**，選取&#x200B;**[!UICONTROL Engagement]**&#x200B;的&#x200B;**[!UICONTROL Program Type]**，然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 

@@ -4,9 +4,9 @@ description: 與Adobe Analytics整合 — Marketo檔案 — 產品檔案
 title: 整合Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '984'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## 介紹 {#intro}
 
-在Adobe Analytics帳戶中檢視組織、產業和Marketo Real-Time Personalization (RTP)行銷活動資料，從B2B角度分析您的網站分析。
+檢視Adobe Analytics帳戶中的組織、產業和[!DNL Marketo Real-Time Personalization] (RTP)行銷活動資料，從B2B角度分析您的網站分析。
 
-本檔案啟用Marketo即時Personalization (RTP)與AdobeAdobe Analytics之間的整合。 來自RTP的資料可讓您偵測和分析所有產業區段和造訪您網站的組織中的趨勢，並測量RTP行銷活動的有效性，提供深入見解和分析，以獲得最佳結果。
+此檔案可啟用[!DNL Marketo Real-Time Personalization] (RTP)與Adobe Adobe Analytics之間的整合。 來自RTP的資料可讓您偵測和分析所有產業區段和造訪您網站的組織中的趨勢，並測量RTP行銷活動的有效性，提供深入見解和分析，以獲得最佳結果。
 
 您可以檢視每個區段的新訪客與回訪訪客數量等量度，分析行銷活動的點按率，並找出哪些產業和自訂區段和即時行銷活動產生最佳轉換潛在客戶，藉此達成此目標。 利用此功能從您的RTP帳戶中獲得最大利益。
 
-## RTPAUDIENCE ANALYTICS {#rtp-audience-analytics}
+## RTP AUDIENCE ANALYTICS {#rtp-audience-analytics}
 
 透過RTP - AA整合，您的網頁分析介面中會有新的維度。 RTP會透過以下功能自動增強您的Web Analytics控制面板：
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 1. 傳出頻道
 1. 內容
-1. 重新目標定位
+1. 重新鎖定
 
 ## 管道報表 {#channel-report}
 
@@ -62,9 +62,9 @@ RTP儀表板可協助您根據垂直和RTP區段來瞭解訪客的劃分情形�
 
 請完成下列步驟，在AA中設定這些變數：
 
-1. 前往您AA帳戶中的&#x200B;**管理工具**。
-1. 選取要與整合搭配使用的&#x200B;**報表套裝**。
-1. 在&#x200B;**編輯設定**&#x200B;下，移至&#x200B;**轉換**&#x200B;並選取&#x200B;**[轉換變數](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**。\
+1. 前往您AA帳戶中的&#x200B;**[!UICONTROL Admin Tools]**。
+1. 選取要與整合搭配使用的&#x200B;**[!UICONTROL Report Suite]**。
+1. 在&#x200B;**[!UICONTROL Edit Settings]**&#x200B;底下，移至&#x200B;**[!UICONTROL Conversion]**&#x200B;並選取&#x200B;**[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**。\
    選取[轉換變數](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar)數字（我們建議）：
 
    1. 適用於產業自訂轉換的Evar # 20
@@ -74,13 +74,13 @@ RTP儀表板可協助您根據垂直和RTP區段來瞭解訪客的劃分情形�
    >
    >如果採用這些#，請選取其他可用的數字。 將此號碼與「RTP帳戶設定」中的位置號碼對齊。
 
-   1. 變更狀態為&#x200B;_已啟用_。
+   1. 變更狀態為_[!UICONTROL Enabled_]。
 
       1. 將名稱變更為&#x200B;**產業**&#x200B;和&#x200B;**組織**。 （這是該變數在報表套裝中的顯示方式。）
 
-      1. 將[過期時間]欄位變更為&#x200B;**造訪**。
+      1. 將[過期時間]欄位變更為&#x200B;**[!UICONTROL Visit]**。
 
-1. 在&#x200B;**編輯設定**&#x200B;下移至&#x200B;**轉換**&#x200B;並選取&#x200B;**[成功事件](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**。
+1. 在&#x200B;**[!UICONTROL Edit Settings]**&#x200B;下移至&#x200B;**[!UICONTROL Conversion]**&#x200B;並選取&#x200B;**[[!UICONTROL Success Events]](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**。
 
    1. 選取自訂成功事件事件編號（我們建議）：
 
@@ -95,7 +95,7 @@ RTP儀表板可協助您根據垂直和RTP區段來瞭解訪客的劃分情形�
 
    1. 選取[型別]欄位為&#x200B;**計數器（無子關聯）**
 
-1. 在&#x200B;**編輯設定**&#x200B;下，移至&#x200B;**[流量](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)**&#x200B;並選取&#x200B;**[流量變數](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**。
+1. 在&#x200B;**[!UICONTROL Edit Settings]**&#x200B;底下，移至&#x200B;**[流量](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)**&#x200B;並選取&#x200B;**[流量變數](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**。
 
    1. 選取流量變數屬性# （建議使用）：
 
@@ -110,21 +110,21 @@ RTP儀表板可協助您根據垂直和RTP區段來瞭解訪客的劃分情形�
 
       1. 變更4個屬性名稱。 這是會出現在報表套裝中的名稱。
 
-   1. 選取[已啟用]欄位以&#x200B;**已啟用**。
+   1. 選取[!UICONTROL Enabled]欄位至&#x200B;**[!UICONTROL Enabled]**。
 
-   1. 選取&#x200B;**已啟用**&#x200B;的路徑報告欄位。
+   1. 選取[!UICONTROL Path Reports]欄位至&#x200B;**[!UICONTROL Enabled]**。
 
-## 在Marketo Real-Time Personalization (RTP)中設定 {#set-up-in-marketo-real-time-personalization-rtp}
+## 在[!DNL Marketo Real-Time Personalization] (RTP)中設定 {#set-up-in-marketo-real-time-personalization-rtp}
 
-1. 在RTP平台中，移至&#x200B;**帳戶設定**。
+1. 在RTP平台中，移至&#x200B;**[!UICONTROL Account Settings]**。
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. 在&#x200B;**帳戶設定**&#x200B;下，按一下&#x200B;**網域**。
-1. 在&#x200B;**Analytics底下，按一下** **Adobe Analytics**。
-1. 開啟&#x200B;**轉換**&#x200B;自訂和流量變數切換。
+1. 在&#x200B;**[!UICONTROL Account Settings]**&#x200B;底下，按一下&#x200B;**[!UICONTROL Domain]**。
+1. 在&#x200B;**[!UICONTROL Analytics]**&#x200B;底下，按一下&#x200B;**Adobe Analytics**。
+1. 將&#x200B;**[!UICONTROL On]**&#x200B;轉換、自訂和流量變數切換。
 1. 指派轉換、事件和流量變數&#x200B;**位置編號**&#x200B;以符合AA中建立的位置編號
-1. 按一下&#x200B;**保存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 
@@ -134,20 +134,20 @@ RTP儀表板可協助您根據垂直和RTP區段來瞭解訪客的劃分情形�
 >
 >**轉換變數**
 >
->* 業界自訂轉換 — 第20插槽
->* 組織自訂轉換 — 第21槽
+>* [!UICONTROL Industry Custom Conversions] — 插槽20
+>* [!UICONTROL Organization Custom Conversions] — 插槽21
 >
 >**自訂事件**
 >
->* Campaign自訂事件 — 時段20
->* 區段自訂事件 — 插槽21
+>* [!UICONTROL Campaign Custom Event] — 插槽20
+>* [!UICONTROL Segment Custom Event] — 插槽21
 >
 >**流量變數**
 >
->* 區段組織流量變數 — 位置20
->* 區段產業流量變數 — Slot 21
->* 促銷活動組織流量變數 — 位置22
->* 行銷活動產業流量變數 — 第23位
+>* [!UICONTROL Segment Organization Traffic Variable] — 插槽20
+>* [!UICONTROL Segment Industry Traffic Variable] — 插槽21
+>* [!UICONTROL Campaign Organization Traffic Variable] — 插槽22
+>* [!UICONTROL Campaign Industry Traffic Variable] — 插槽23
 >
 >**請確定這些位置編號與AA中建立的變數和事件編號一致。**
 
@@ -176,7 +176,7 @@ AA中的自訂報告和儀表板範例包括：
 
 建立[新儀表板](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)，稱為&#x200B;**RTP儀表板**。 此儀表板有助於瞭解根據垂直和RTP區段劃分訪客的情況。
 
-1. 按一下&#x200B;**儀表板，**&#x200B;按一下&#x200B;**新增儀表板**。
+1. 按一下&#x200B;**[!UICONTROL Dashboard]，**&#x200B;按一下&#x200B;**[!UICONTROL Add Dashboard]**。
 
 1. 命名儀表板&#x200B;**RTP儀表板**。
 
@@ -186,11 +186,11 @@ AA中的自訂報告和儀表板範例包括：
 
 將產業小報表新增到控制面板
 
-1. 移至&#x200B;**自訂轉換**，按一下&#x200B;**產業**。
+1. 移至&#x200B;**[!UICONTROL Custom Conversions]**，按一下&#x200B;**[!UICONTROL Industry]**。
 
 1. 將圖表設定為&#x200B;**圓形圖**。
 
-1. 按一下&#x200B;**儀表板**，新增&#x200B;**小報告**。
+1. 按一下&#x200B;**[!UICONTROL Dashboard]**，新增&#x200B;**[!UICONTROL Reportlet]**。
 
 1. 為報告命名&#x200B;**熱門產業**。
 
@@ -200,11 +200,11 @@ AA中的自訂報告和儀表板範例包括：
 
 新增區段小報表至控制面板
 
-1. 移至&#x200B;**網站量度**。 按一下&#x200B;**自訂事件**，**區段**。
+1. 移至&#x200B;**[!UICONTROL Site Metrics]**。 按一下&#x200B;**[!UICONTROL Custom Events]**，**[!UICONTROL Segments]**。
 
 1. 將圖表設定為&#x200B;**垂直條**。
 
-1. 按一下&#x200B;**儀表板**，新增&#x200B;**小報告**。
+1. 按一下&#x200B;**[!UICONTROL Dashboard]**，新增&#x200B;**[!UICONTROL Reportlet]**。
 
 1. 為報表命名&#x200B;**排名最前的區段**。
 
@@ -216,7 +216,7 @@ AA中的自訂報告和儀表板範例包括：
 
 ## 在Adobe Analytics中檢視曝光數和點按數（轉換） {#view-impressions-and-clicks-conversions-in-adobe-analytics}
 
-1. 按一下&#x200B;**自訂連結**。
+1. 按一下&#x200B;**[!UICONTROL Custom]連結**。
 
    ![](assets/sitecatalyst1-1.png)
 

@@ -4,9 +4,9 @@ description: 在程式中使用標籤 — Marketo檔案 — 產品檔案
 title: 在程式中使用標籤
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '156'
 ht-degree: 3%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 3%
 
 ## 在程式中使用標籤 {#use-a-tag-in-a-program}
 
-1. 選取您的程式。 按一下&#x200B;**設定**。
+1. 選取您的程式。 按一下「**[!UICONTROL Setup]**」。
 
    ![](assets/use-tags-in-a-program-1.png)
 
@@ -33,7 +33,7 @@ ht-degree: 3%
 
    ![](assets/use-tags-in-a-program-3.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/use-tags-in-a-program-4.png)
 
@@ -43,7 +43,7 @@ ht-degree: 3%
 
 ## 編輯標籤 {#edit-a-tag}
 
-1. 前往&#x200B;**設定**&#x200B;標籤。 以滑鼠右鍵按一下標籤。 選取&#x200B;**編輯**。
+1. 前往&#x200B;**[!UICONTROL Setup]**&#x200B;標籤。 以滑鼠右鍵按一下標籤。 選擇「**[!UICONTROL Edit]**」。
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -51,7 +51,7 @@ ht-degree: 3%
 
    ![](assets/use-tags-in-a-program-7.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/use-tags-in-a-program-8.png)
 
@@ -61,11 +61,11 @@ ht-degree: 3%
 
 ## 刪除標籤  {#delete-a-tag}
 
-1. 前往&#x200B;**設定**&#x200B;標籤。 用滑鼠右鍵按一下標籤，然後選取&#x200B;**刪除**。
+1. 前往&#x200B;**[!UICONTROL Setup]**&#x200B;標籤。 用滑鼠右鍵按一下標籤並選取&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. 按一下&#x200B;**刪除**&#x200B;確認。
+1. 按一下&#x200B;**[!UICONTROL Delete]**&#x200B;確認。
 
    ![](assets/use-tags-in-a-program-11.png)
 

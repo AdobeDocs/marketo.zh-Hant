@@ -4,9 +4,9 @@ description: 新增表單至引導式登陸頁面 — Marketo檔案 — 產品�
 title: 新增表單至引導式登陸頁面
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >[建立引導式登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. 前往&#x200B;**行銷活動**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
 
    ![](assets/one.png)
 
-1. 尋找並選取您的登入頁面，然後按一下&#x200B;**編輯草稿**。
+1. 尋找並選取您的登入頁面，然後按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/two.png)
 
@@ -41,15 +41,15 @@ ht-degree: 0%
 
 1. 選擇後續追蹤頁面時，有三個選項：
 
-   * 登陸頁面 — 挑選Marketo登陸頁面
-   * 外部URL — 挑選您想要的URL
-   * 已定義表單 — 使用在表單層級定義的設定
+   * **[!UICONTROL Landing Page]** — 選取Marketo登陸頁面
+   * **[!UICONTROL External URL]** — 挑選您想要的URL
+   * **[!UICONTROL Form Defined]** — 使用表單層級定義的設定
 
    >[!NOTE]
    >
    >後續追蹤頁面是使用者提交表單後所看到的頁面。
 
-1. 在此範例中，我們將使用「已定義表單」。 按一下&#x200B;**插入**。
+1. 在此範例中，我們將使用[!UICONTROL Form Defined]。 按一下「**[!UICONTROL Insert]**」。
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 

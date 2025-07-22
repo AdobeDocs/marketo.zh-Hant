@@ -4,9 +4,9 @@ description: 透過平板電腦將人員登記到您的活動中 — Marketo檔�
 title: 從平板電腦將人員加入您的活動
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->2023年10月2日，Adobe從所有應用程式商店移除Marketo事件應用程式。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入瞭解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023年10月2日，Adobe從所有應用程式商店移除Marketo事件應用程式。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe Identity以驗證Marketo，您將無法再存取應用程式。 [了解更多](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 應用程式在[!DNL iPad]和[!DNL Android]上的運作方式相同，除了佈局和設計上的細微差異。
 
@@ -29,17 +29,17 @@ ht-degree: 0%
 
 1. 在您的[!DNL iPad]或[!DNL Android]平板電腦上點選應用程式圖示。
 
-1. 點選&#x200B;**[!UICONTROL 登入]**&#x200B;以啟動Marketo活動應用程式。
+1. 點選&#x200B;**[!UICONTROL Login]**&#x200B;以啟動Marketo活動應用程式。
 
    ![](assets/1.jpg)
 
-1. 輸入您的Marketo使用者名稱與密碼，然後按一下&#x200B;**[!UICONTROL 登入]**。
+1. 輸入您的Marketo使用者名稱和密碼，然後按一下&#x200B;**[!UICONTROL Login]**。
 
    >[!NOTE]
    >
    >您必須擁有可存取資料庫的角色，才能檢視應用程式中的人員。
 
-1. 選取&#x200B;**[!UICONTROL 事件]**。
+1. 選取&#x200B;**[!UICONTROL Event]**。
 
    ![](assets/2.jpg)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
    ![](assets/image2016-4-15-14-3a50-3a19.png)
 
-1. 點選選取的名稱，然後在人員記錄上點選&#x200B;**[!UICONTROL [簽入]**]。
+1. 點選選取的名稱，然後在人員記錄上點選&#x200B;**[!UICONTROL Check-in]**。
 
    ![](assets/img-0068-35-hands.png)
 
@@ -81,13 +81,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果有人受邀但未註冊，您可以按一下[搜尋]方塊正下方的[伺服器&#x200B;]&#x200B;**上的**&#x200B;[!UICONTROL &#x200B;搜尋]來搜尋名稱。 已邀請狀態變更為活動的&#x200B;**[!UICONTROL 已參加]**。
+>如果有人受邀但未註冊，您可以按一下[搜尋]方塊正下方的&#x200B;**[!UICONTROL Search on Server]**&#x200B;來搜尋名稱。 事件的已邀請狀態變更為&#x200B;**[!UICONTROL Attended]**。
 
 ## 在平板電腦上建立新使用者 {#create-a-new-person-on-the-tablet}
 
 您可以手動新增Marketo資料庫中不是現有人員的來賓。 當您與Marketo同步時，系統會自動簽入這些物件，並將其新增至您的資料庫。
 
-1. 按一下&#x200B;**[!UICONTROL 新增]**。
+1. 按一下「**[!UICONTROL Add]**」。
 
    **[!DNL iPad]**
 
@@ -97,7 +97,7 @@ ht-degree: 0%
 
    ![](assets/image2016-4-15-15-3a2-3a38.png)
 
-1. 請儘可能填寫基本資訊欄位，然後點選&#x200B;**[!UICONTROL 完成]**。
+1. 請儘可能填寫基本資訊欄位，然後點選&#x200B;**[!UICONTROL Done]**。
 
    ![](assets/image2016-4-15-11-3a33-3a59.png)
 
@@ -113,9 +113,9 @@ ht-degree: 0%
 
 ## 反轉簽入 {#reverse-a-check-in}
 
-如果您在與Marketo _同步之前_&#x200B;誤簽到某人，您可以回覆「已出席」狀態。
+如果您在與Marketo _同步之前_&#x200B;誤簽到某人，您可以回覆[!UICONTROL Attended]狀態。
 
-1. 點選清單中的名稱，然後在個人記錄中，點選&#x200B;**[!UICONTROL 還原]**。
+1. 點選清單中的名稱，然後在個人記錄中點選&#x200B;**[!UICONTROL Undo]**。
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
@@ -125,11 +125,11 @@ ht-degree: 0%
 
 您可以在活動期間新增及修改來賓資訊！
 
-1. 點選人員清單中的名稱，然後點選&#x200B;**[!UICONTROL 編輯]**。
+1. 點選人員清單中的名稱，然後點選&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2016-4-15-11-3a43-3a46.png)
 
-1. 編輯資訊並新增至欄位，然後點選&#x200B;**[!UICONTROL 完成]**。
+1. 編輯資訊並新增至欄位，然後點選&#x200B;**[!UICONTROL Done]**。
 
    ![](assets/image2016-4-15-11-3a50-3a18.png)
 
@@ -149,7 +149,7 @@ Marketo Events應用程式會獨立運作，直到您將活動同步回Marketo�
 
 1. 在平板電腦上，開啟應用程式並導覽至您的活動。
 
-1. 點選&#x200B;**[!UICONTROL 同步]**。
+1. 點選&#x200B;**[!UICONTROL Sync]**。
 
    您的事件會以Marketo資料庫中的新簽入專案更新。 「同步」按鈕上的紅色計數器會清除，直到您簽入其他人為止。
 

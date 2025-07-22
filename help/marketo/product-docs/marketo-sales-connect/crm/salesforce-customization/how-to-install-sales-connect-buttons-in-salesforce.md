@@ -4,25 +4,25 @@ description: 如何在Salesforce中安裝Sales Connect按鈕 — Marketo檔案 �
 title: 如何在Salesforce中安裝Sales Connect按鈕
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 1%
+source-wordcount: '104'
+ht-degree: 4%
 
 ---
 
 # 如何在Salesforce中安裝Sales Connect按鈕 {#how-to-install-sales-connect-buttons-in-salesforce}
 
-使用Marketo Sales Connect輕鬆安裝通話、傳送Marketo銷售電子郵件，並新增至Campaign。 您必須擁有Salesforce管理員許可權，才能安裝這些欄位。
+使用Marketo Sales Connect輕鬆安裝通話、傳送Marketo銷售電子郵件，並新增至Campaign。 您必須有[!DNL Salesforce]中的管理員許可權才能安裝這些欄位。
 
 1. 登入[Salesforce.com.](https://salesforce.com)
-1. 按一下&#x200B;**自訂**。
-1. 按一下&#x200B;**銷售機會**。
-1. 按一下&#x200B;**頁面配置**。
-1. 按一下您要新增按鈕的Lead配置旁的&#x200B;**編輯**。
-1. 按一下&#x200B;**按鈕**。
-1. 將Sales Connect按鈕拖放至Lead Details區段。
-1. 按一下&#x200B;**保存**。
+1. 按一下「**[!UICONTROL Customize]**」。
+1. 按一下「**[!UICONTROL Leads]**」。
+1. 按一下「**[!UICONTROL Page Layouts]**」。
+1. 按一下您想要新增按鈕的&#x200B;**[!UICONTROL Edit]**&#x200B;旁的[!UICONTROL Lead Layout]。
+1. 按一下「**[!UICONTROL Buttons]**」。
+1. 將[!UICONTROL Sales Connect]按鈕拖放至[!UICONTROL Lead Details]區段。
+1. 按一下「**[!UICONTROL Save]**」。
 
    >[!NOTE]
    >

@@ -4,19 +4,24 @@ description: 將Salesforce ID匯入Sales Connect - Marketo檔案 — 產品檔�
 title: 將Salesforce ID匯入Sales Connect
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
 # 將Salesforce ID匯入Sales Connect {#import-a-salesforce-id-into-sales-connect}
 
-Sales Connect使用Contact或Lead ID （也稱為Salesforce ID），協助將資訊正確記錄到Salesforce。 有幾種方式可以將Salesforce ID附加至Sales Connect中的聯絡人。
+[!DNL Sales Connect]使用連絡人或潛在客戶ID （也稱為[!DNL Salesforce] ID），協助將資訊正確記錄到[!DNL Salesforce]。 有幾種方式可以將[!DNL Salesforce] ID附加至[!DNL Sales Connect]中的連絡人。
 
-[推送至Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)：使用Push to Sales Connect會在Sales Connect中建立具有所有重要連絡人資訊的連絡人，包括潛在客戶/連絡人的Salesforce ID。
+[推送至Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)：使用「推送至Sales Connect」將會建立連絡人
+[!DNL Sales Connect]包含所有主要連絡人資訊，包括銷售機會/連絡人的
+[!DNL Salesforce] ID。
 
-[傳送Marketo銷售電子郵件、新增至Campaign，以及按一下以呼叫SFDC中的按鈕](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md)：當您在Salesforce中使用這三個按鈕中的任何一個按鈕時，我們都會將連絡人推送到具有Salesforce ID的Sales Connect。
+[在SFDC中傳送Marketo銷售電子郵件、新增至行銷活動，以及按一下以呼叫按鈕](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md)：當您在中使用這三個按鈕之一時
+[!DNL Salesforce]，我們會將連絡人推送到
+[!DNL Sales Connect]與
+[!DNL Salesforce] ID。
 
-[匯入CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)：如果您從Salesforce匯出銷售機會/聯絡人清單，並包含具有Salesforce ID的欄，則可以在匯入時將欄位對應到Sales Connect。
+[匯入CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)：如果您從Salesforce匯出銷售機會/聯絡人清單，並包含具有[!DNL Salesforce] ID的欄，則可以在匯入時將欄位對應到[!DNL Sales Connect]。

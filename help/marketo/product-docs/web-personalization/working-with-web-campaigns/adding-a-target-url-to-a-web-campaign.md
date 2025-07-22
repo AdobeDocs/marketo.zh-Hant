@@ -4,10 +4,10 @@ description: 將Target URL新增至網站行銷活動 — Marketo檔案 — 產�
 title: 新增目標URL至網站行銷活動
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 0%
+source-wordcount: '221'
+ht-degree: 1%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 新增Dialog或Widget Web行銷活動的目標URL {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. 前往&#x200B;**網路行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. 選取&#x200B;**建立新的網站行銷活動**。
+1. 選擇「**[!UICONTROL Create New Web Campaign]**」。
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. 新增&#x200B;**行銷活動名稱**。 選取&#x200B;**目標區段**。 新增&#x200B;**目標URL**。
+1. 新增&#x200B;**[!UICONTROL Campaign Name]**。 選取&#x200B;**[!UICONTROL Target Segment]**。 新增&#x200B;**[!UICONTROL Target URL]**。
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -38,11 +38,11 @@ ht-degree: 0%
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>任何頁面</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Any Page]</strong></td> 
    <td colspan="1" rowspan="1"><p>允許行銷活動出現在任何頁面上。</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>比對時包含URL引數</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Include URL parameter when matching]</strong></p></td> 
    <td colspan="1" rowspan="1">新增URL引數以在包含此引數的URL上比對和顯示促銷活動。 例如： campaign=cpc</td> 
   </tr> 
  </tbody> 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ## 新增多個URL至目標URL {#adding-multiple-urls-to-target-url}
 
-按一下加號圖示(![—](assets/image2015-2-18-8-3a40-3a59.png))會開啟[多值專案]對話方塊以新增多個URL。 每行新增一個URL。
+按一下加號圖示(![—](assets/image2015-2-18-8-3a40-3a59.png))將會開啟[!UICONTROL Multiple Value Entry]對話方塊以新增多個URL。 每行新增一個URL。
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 
@@ -62,15 +62,15 @@ ht-degree: 0%
 
 ## 為區域網路行銷活動新增目標URL {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. 移至&#x200B;**網頁** **行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. 選取&#x200B;**建立新的網站行銷活動**。
+1. 選擇「**[!UICONTROL Create New Web Campaign]**」。
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. 新增&#x200B;**行銷活動名稱**。 選取&#x200B;**目標區段**。 新增&#x200B;**目標URL**。
+1. 新增&#x200B;**[!UICONTROL Campaign Name]**。 選取&#x200B;**[!UICONTROL Target Segment]**。 新增&#x200B;**[!UICONTROL Target URL]**。
 
    >[!NOTE]
    >

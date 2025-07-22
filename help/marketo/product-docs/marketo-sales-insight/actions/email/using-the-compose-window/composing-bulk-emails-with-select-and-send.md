@@ -5,20 +5,20 @@ hide: true
 hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
 
 # 使用「選取並傳送」來撰寫大量電子郵件 {#composing-bulk-emails-with-select-and-send}
 
-以下說明如何使用「選取並傳送」選項傳送/編輯電子郵件。
+以下說明如何使用[!UICONTROL Select]和[!UICONTROL Send]選項傳送/編輯電子郵件。
 
 ## 傳送電子郵件 {#sending-emails}
 
-1. 導覽至「人員」頁面。
+1. 導覽至&#x200B;**[!UICONTROL People page]**。
 
    ![](assets/composing-bulk-emails-with-select-and-send-1.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
    >
    >使用「選取並傳送」時，最多可選取200人。
 
-1. 按一下&#x200B;**選取的電子郵件**&#x200B;按鈕。
+1. 按一下&#x200B;**[!UICONTROL Email Selected]**&#x200B;按鈕。
 
    ![](assets/composing-bulk-emails-with-select-and-send-3.png)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您選取範本，且想要在傳送前檢查所有動態欄位是否都正確填入，請按一下&#x200B;**預覽動態欄位**。 確保大量側邊欄中的所有收件者都已選取來預覽所有電子郵件。 如果您選取一封電子郵件並按一下&#x200B;**預覽動態欄位**，則只會預覽該電子郵件。
+   >如果您選取範本，且想要在傳送前檢查所有動態欄位是否正確填入，請按一下&#x200B;**[!UICONTROL Preview Dynamic Fields]**。 確保大量側邊欄中的所有收件者都已選取來預覽所有電子郵件。 如果您選取一封電子郵件並按一下&#x200B;**[!UICONTROL Preview Dynamic Fields]**，則只會預覽該電子郵件。
 
 ## 編輯電子郵件 {#editing-emails}
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >預設會選取所有收件者。 如果您按一下個人且想要重新選取所有人，請按一下&#x200B;**所有收件者**。 提醒您，必須選取所有收件者才能進行大量編輯。
+   >預設會選取所有收件者。 如果您按一下個人且想要重新選取所有人，請按一下&#x200B;**[!UICONTROL All Recipients]**。 提醒您，必須選取所有收件者才能進行大量編輯。
 
 1. 在編輯器中變更內容。 您可以建立新電子郵件或編輯範本（在此範例中，我們正在建立新電子郵件）。
 
@@ -60,7 +60,7 @@ ht-degree: 0%
    >
    >您可以按一下特定的電子郵件收件者，以檢視傳送至該電子郵件的變更。
 
-1. 按一下&#x200B;**傳送** （或[排程](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)），以傳送您已大量更新之電子郵件給所有收件者。
+1. 按一下&#x200B;**[!UICONTROL Send]** （或[[!UICONTROL Schedule]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)）以傳送您進行的大量電子郵件更新給所有收件者。
 
    ![](assets/composing-bulk-emails-with-select-and-send-6.png)
 
@@ -72,7 +72,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >預設會選取所有收件者。 如果您按一下個人且想要重新選取所有人，請按一下&#x200B;**所有收件者**。 提醒您，必須選取所有收件者才能進行大量編輯。
+   >預設會選取所有收件者。 如果您按一下個人且想要重新選取所有人，請按一下&#x200B;**[!UICONTROL All Recipients]**。 提醒您，必須選取所有收件者才能進行大量編輯。
 
 1. 選取個別收件者。
 
@@ -90,7 +90,7 @@ ht-degree: 0%
    >
    >您可以按一下其他收件者，以檢視您對先前選取的收件者所做的變更不會顯示。
 
-1. 按一下&#x200B;**傳送** （或[排程](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)），以傳送您已大量更新之電子郵件給所有收件者。
+1. 按一下&#x200B;**[!UICONTROL Send]** （或[[!UICONTROL Schedule]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)）以傳送您進行的大量電子郵件更新給所有收件者。
 
    ![](assets/composing-bulk-emails-with-select-and-send-9.png)
 

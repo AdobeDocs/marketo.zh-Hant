@@ -4,10 +4,10 @@ description: 新增/編輯/刪除Marketo自訂活動欄位 — Marketo檔案 —
 title: 新增/編輯/刪除Marketo自訂活動欄位
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 0%
+source-wordcount: '262'
+ht-degree: 3%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 新增自訂活動欄位 {#add-a-custom-activity-field}
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL Marketo自訂活動]**。
+1. 按一下「**[!UICONTROL Marketo Custom Activities]**」。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL 欄位]**。
+1. 按一下「**[!UICONTROL Fields]**」。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-3.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-4.png)
 
-1. 按一下&#x200B;**[!UICONTROL 新增欄位]**。
+1. 按一下「**[!UICONTROL New Field]**」。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
-1. 選擇欄位的[!UICONTROL 資料型別]。
+1. 選擇欄位的[!UICONTROL data type]。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
@@ -45,23 +45,23 @@ ht-degree: 0%
    >
    >不確定要選取什麼專案？ 我們為您提供支援！ 所有可用的資料型別都定義於[此文章](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)。
 
-1. 為欄位命名。 Api名稱會自動填入。 完成時，按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 為欄位命名。 Api名稱會自動填入。 完成後，按一下「**[!UICONTROL Save]**」。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
-   完成了！ 已新增您的新欄位。
+   完成了！已新增您的新欄位。
 
 ## 編輯自訂活動欄位 {#edit-a-custom-activity-field}
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
-1. 按一下&#x200B;**[!UICONTROL Marketo自訂活動]**。
+1. 按一下「**[!UICONTROL Marketo Custom Activities]**」。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-9.png)
 
-1. 按一下&#x200B;**[!UICONTROL 欄位]**。
+1. 按一下「**[!UICONTROL Fields]**」。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-10.png)
 
@@ -69,21 +69,21 @@ ht-degree: 0%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-11.png)
 
-1. 選取您要編輯的欄位，按一下&#x200B;**[!UICONTROL 欄位動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 編輯欄位]**。
+1. 選取您要編輯的欄位，按一下&#x200B;**[!UICONTROL Field Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Edit Field]**。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
-   「編輯欄位」快顯視窗隨即出現。 在此範例中，讓我們變更欄位名稱。
+   **[!UICONTROL Edit Field]**&#x200B;快顯視窗會出現。 在此範例中，讓我們變更欄位名稱。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
-1. 輸入新名稱和Api名稱，然後按一下[儲存]。**&#x200B;**
+1. 輸入新的名稱和Api名稱，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
    >[!NOTE]
    >
-   >編輯欄位時不會自動填入Api名稱。 欄位名稱和Api名稱不一定必須相符，我們建議您這麼做。
+   >編輯欄位時不會自動填入[!UICONTROL Api Name]。 雖然欄位[!UICONTROL Name]和[!UICONTROL Api Name]不一定相符，但建議您這麼做。
 
    >[!CAUTION]
    >
@@ -97,15 +97,15 @@ ht-degree: 0%
 
 ## 刪除自訂活動欄位 {#delete-a-custom-activity-field}
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 
-1. 按一下&#x200B;**[!UICONTROL Marketo自訂活動]**。
+1. 按一下「**[!UICONTROL Marketo Custom Activities]**」。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-16.png)
 
-1. 按一下&#x200B;**[!UICONTROL 欄位]**。
+1. 按一下「**[!UICONTROL Fields]**」。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-17.png)
 
@@ -113,6 +113,6 @@ ht-degree: 0%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-18.png)
 
-1. 選取您要刪除的欄位，按一下&#x200B;**[!UICONTROL 欄位動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 刪除欄位]**。
+1. 選取您要刪除的欄位，按一下&#x200B;**[!UICONTROL Field Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Delete Field]**。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-19.png)

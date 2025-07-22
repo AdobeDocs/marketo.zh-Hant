@@ -4,16 +4,16 @@ description: 銷售電話當地訊息 — Marketo檔案 — 產品檔案
 title: 銷售電話當地狀態
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
 # 銷售電話當地狀態 {#sales-phone-local-presence}
 
-如果您想要看起來像是從某人的相同區碼撥打電話，只要在撥打電話前勾選&#x200B;**本機狀態**&#x200B;方塊即可。
+如果您想要看起來像是從某人的相同區碼撥打電話，只需在撥打電話前勾選&#x200B;**[!UICONTROL Local Presence]**&#x200B;方塊即可。
 
 ## 本機狀態常見問題集 {#local-presence-faq}
 

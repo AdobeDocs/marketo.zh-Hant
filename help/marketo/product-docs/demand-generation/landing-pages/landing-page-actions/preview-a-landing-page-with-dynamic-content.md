@@ -4,9 +4,9 @@ description: 使用動態內容預覽登陸頁面 — Marketo檔案 — 產品�
 title: 預覽具有動態內容的登陸頁面
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 >* [在登入頁面中使用動態內容](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
 >* [預覽登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
-1. 選取登入頁面並按一下&#x200B;**預覽頁面**。
+1. 選取登入頁面並按一下&#x200B;**[!UICONTROL Preview Page]**。
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 

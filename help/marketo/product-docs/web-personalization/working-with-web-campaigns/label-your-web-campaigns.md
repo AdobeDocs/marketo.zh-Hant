@@ -4,9 +4,9 @@ description: 為您的網頁行銷活動加上標籤 — Marketo檔案 — 產�
 title: 為您的網頁行銷活動加上標籤
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 新增標籤至網站行銷活動 {#add-a-label-to-a-web-campaign}
 
-1. 登入Web Personalization並前往「網站行銷活動」區域。
+1. 登入[!DNL Web Personalization]並移至[!UICONTROL Web Campaigns]區域。
 
    ![](assets/web-campaigns-hand.jpg)
 

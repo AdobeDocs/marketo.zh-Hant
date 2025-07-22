@@ -5,20 +5,20 @@ hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
 
 # 個人詳細資料檢視 {#person-detail-view}
 
-「人員詳細資訊」檢視可提供您Marketo Sales帳戶中每個人的詳細設定檔。
+個人詳細資料檢視會提供您[!DNL Marketo Sales]帳戶中每個人的詳細個人檔案。
 
 ## 如何存取 {#how-to-access}
 
-1. 若要存取人員詳細資料檢視，請按一下&#x200B;**人員**&#x200B;標籤。
+1. 若要存取人員詳細資料檢視，請按一下&#x200B;**[!UICONTROL People]**&#x200B;標籤。
 
    ![](assets/person-detail-view-1.png)
 
@@ -46,8 +46,8 @@ ht-degree: 0%
 
 **帳戶資訊**
 
-* 可以將人員新增至Salesforce
-* 從Salesforce提取帳戶和銷售機會/聯絡資訊
+* 可以將人員新增至[!DNL Salesforce]
+* 從[!DNL Salesforce]提取帳戶和銷售機會/聯絡資訊
 
 **自訂欄位**
 

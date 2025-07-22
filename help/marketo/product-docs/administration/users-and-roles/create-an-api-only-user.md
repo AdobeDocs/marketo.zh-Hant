@@ -4,20 +4,20 @@ description: 建立僅限API的使用者 — Marketo檔案 — 產品檔案
 title: 建立僅限API的使用者
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 0%
+source-wordcount: '172'
+ht-degree: 2%
 
 ---
 
 # 建立僅限API的使用者 {#create-an-api-only-user}
 
-如果您想要透過[REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}與Marketo整合，您將需要建立僅限API的使用者。 方法如下。
+如果您想要透過[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}與Marketo整合，您將需要建立「僅限API使用者」。 方法如下。
 
 >[!IMPORTANT]
 >
->如果您正在訂閱中建立已上線到Adobe身分識別的「僅限API使用者」，則您的步驟不同，您可在此處[&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}找到。
+>如果您在已上線至Adobe Identity的訂閱中建立「僅限API使用者」，則您的步驟會不同，您可在此處[找到](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}。
 
 >[!PREREQUISITES]
 >
@@ -27,31 +27,31 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/create-an-api-only-user-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 使用者與角色]**。
+1. 按一下「**[!UICONTROL Users & Roles]**」。
 
    ![](assets/create-an-api-only-user-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL 邀請新使用者]**。
+1. 按一下「**[!UICONTROL Invite New User]**」。
 
    ![](assets/create-an-api-only-user-3.png)
 
-1. 輸入API使用者的電子郵件、名字和姓氏。 按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 輸入API使用者的電子郵件、名字和姓氏。 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/create-an-api-only-user-4.png)
 
    >[!TIP]
    >
-   >新增選用原因或存取權到期日。 短期員工的存取權到期日很方便。
+   >新增選用的[!UICONTROL Reason]或[!UICONTROL Access Expiration]日期。 短期員工的存取權到期日很方便。
 
-1. 選取&#x200B;**[!UICONTROL 僅API]**&#x200B;角色，並勾選&#x200B;**[!UICONTROL 僅API]**&#x200B;核取方塊。 按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 選取&#x200B;**[!UICONTROL API Only]**&#x200B;角色並勾選&#x200B;**[!UICONTROL API Only]**&#x200B;核取方塊。 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/create-an-api-only-user-5.png)
 
-1. 按一下&#x200B;**[!UICONTROL 傳送]**。
+1. 按一下「**[!UICONTROL Send]**」。
 
    ![](assets/create-an-api-only-user-6.png)
 

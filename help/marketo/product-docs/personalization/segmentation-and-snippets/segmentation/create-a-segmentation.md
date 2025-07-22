@@ -4,9 +4,9 @@ description: 建立細分 — Marketo檔案 — 產品檔案
 title: 建立細分
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 區段可讓您將人員分組為不同的設定檔，以便報告和動態內容。 以下是其建立方式。
 
-1. 移至&#x200B;**資料庫**。
+1. 移至&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/image2017-3-28-13-3a44-3a54.png)
 
-1. 按一下「**新增**」，然後按一下「**新區段**」。
+1. 按一下&#x200B;**[!UICONTROL New]**，然後再按&#x200B;**[!UICONTROL New Segmentation]**。
 
    ![](assets/image2017-3-28-13-3a56-3a57.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >您最多可以建立20個區段。
 
-1. 輸入&#x200B;**名稱**，按一下&#x200B;**新增區段**&#x200B;並命名它。
+1. 輸入&#x200B;**[!UICONTROL Name]**，按一下&#x200B;**[!UICONTROL Add Segment]**&#x200B;並命名它。
 
    ![](assets/image2014-9-15-10-3a1-3a1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
    >
    >如果您在核准期間收到錯誤訊息，且需要協助以降低細分複雜度，請聯絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
-1. 拖放區段四處以變更其順序。 完成後，按一下&#x200B;**建立**。
+1. 拖放區段四處以變更其順序。 完成後，按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/image2014-9-15-10-3a1-3a30.png)
 

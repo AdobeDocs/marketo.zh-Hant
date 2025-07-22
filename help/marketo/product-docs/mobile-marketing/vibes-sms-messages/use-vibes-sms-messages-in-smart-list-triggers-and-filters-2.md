@@ -4,9 +4,9 @@ title: 在智慧清單觸發器和篩選器中使用Vibes SMS訊息
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 在您[建立Vibes SMS訊息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}後，您將會想要在Smart Campaign中使用智慧清單觸發器和篩選器來取得優點。 方法如下。
 
-1. 在「我的Marketo」中，按一下&#x200B;**行銷活動**。
+1. 在「我的Marketo」中，按一下&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
@@ -46,17 +46,17 @@ ht-degree: 0%
 
 ![](assets/sms-message-bounces-real.jpg)
 
-當人員訂閱時，**Subscribes to Vibes List**&#x200B;觸發程式會起始流程。
+當使用者訂閱時，**[!UICONTROL Subscribes to Vibes List]**&#x200B;觸發程式會起始流程。
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-當有人點按SMS訊息中的連結時，**點按SMS訊息中的連結**&#x200B;觸發器會起始流程。
+當有人點按SMS訊息中的連結時，**[!UICONTROL Clicks Link in SMS Message]**&#x200B;觸發器會起始流程。
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## 簡訊篩選器 {#sms-filters}
 
-您也可以在智慧清單中使用視覺效果濾鏡。 **已訂閱的Vibes清單**&#x200B;篩選器會尋找任何已&#x200B;*ever*&#x200B;訂閱Vibes的人。 這包括已取消訂閱和已刪除的人員，即使流程中省略了已刪除的人員。 此篩選器最適合用於報表。
+您也可以在智慧清單中使用視覺效果濾鏡。 **[!UICONTROL Subscribed to Vibes List]**&#x200B;篩選器會尋找任何已&#x200B;*曾*&#x200B;訂閱Vibes的人。 這包括已取消訂閱和已刪除的人員，即使流程中省略了已刪除的人員。 此篩選器最適合用於報表。
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->依預設，所有SMS篩選器都包含&#x200B;**活動日期**&#x200B;限制。
+>所有SMS篩選器預設都包含&#x200B;**[!UICONTROL Date of Activity]**&#x200B;條件約束。
 
 在智慧清單中設定Vibes觸發器和篩選器後，您可以[定義流量](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)。
 

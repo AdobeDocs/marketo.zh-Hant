@@ -4,9 +4,9 @@ description: 核准、取消核准或刪除登陸頁面 — Marketo檔案 — �
 title: 核准、取消核准或刪除登陸頁面
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 核准登陸頁面 {#approve-a-landing-page}
 
-1. 選取登陸頁面，前往&#x200B;**登陸頁面動作**&#x200B;並按一下&#x200B;**核准**。
+1. 選取登入頁面，前往&#x200B;**[!UICONTROL Landing Page Actions]**&#x200B;並按一下&#x200B;**[!UICONTROL Approve]**。
 
    >[!TIP]
    >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. 您也可以用滑鼠右鍵按一下登入頁面，然後按一下[核准]。**&#x200B;**
+1. 您也可以用滑鼠右鍵按一下登入頁面，然後按一下&#x200B;**[!UICONTROL Approve]**。
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 ## 取消核准登陸頁面 {#unapprove-a-landing-page}
 
-1. 選取登陸頁面，前往&#x200B;**登陸頁面動作**&#x200B;並按一下&#x200B;**取消核准**。
+1. 選取登入頁面，前往&#x200B;**[!UICONTROL Landing Page Actions]**&#x200B;並按一下&#x200B;**[!UICONTROL Unapprove]**。
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. 您也可以用滑鼠右鍵按一下您的登入頁面，然後按一下&#x200B;**取消核准**。
+1. 您也可以用滑鼠右鍵按一下您的登入頁面，然後按一下&#x200B;**[!UICONTROL Unapprove]**。
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 刪除登陸頁面 {#delete-a-landing-page}
 
-1. 選取登陸頁面，前往&#x200B;**登陸頁面動作**&#x200B;並按一下&#x200B;**刪除**。
+1. 選取登入頁面，前往&#x200B;**[!UICONTROL Landing Page Actions]**&#x200B;並按一下&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
    >
    >您無法刪除核准的登陸頁面。 先取消核准。
 
-1. 您也可以用滑鼠右鍵按一下登入頁面，然後按一下&#x200B;**刪除**。
+1. 您也可以用滑鼠右鍵按一下登入頁面，然後按一下&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/image2014-9-16-15-3a50-3a40.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 想要一次刪除多個登陸頁面？ 方法如下。
 
-1. 在Design Studio中，按一下&#x200B;**登陸頁面**。
+1. 在[!UICONTROL Design Studio]中，按一下&#x200B;**[!UICONTROL Landing Pages]**。
 
    ![](assets/one.png)
 
@@ -77,11 +77,11 @@ ht-degree: 0%
    >
    >您也可以使用Ctrl+Click來刪除多個非循序的登入頁面。
 
-1. 按一下&#x200B;**登陸頁面動作**&#x200B;下拉式清單，然後選取&#x200B;**刪除**。
+1. 按一下&#x200B;**[!UICONTROL Landing Page Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/three.png)
 
-1. 按一下&#x200B;**刪除**。
+1. 按一下「**[!UICONTROL Delete]**」。
 
    ![](assets/four.png)
 

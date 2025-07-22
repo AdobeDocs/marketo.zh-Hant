@@ -3,38 +3,38 @@ description: 在Marketo Forms中啟用驗證碼 — Marketo檔案 — 產品檔�
 title: 在Marketo Forms中啟用驗證碼
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 2%
 
 ---
 
 # 在Marketo Forms中啟用驗證碼 {#enable-captcha-in-marketo-forms}
 
-您可以根據每個表單來啟用/停用驗證碼。
+您可以為每個表單啟用/停用[!UICONTROL CAPTCHA]。
 
 1. 尋找並選取所需的表單。
 
    ![](assets/enable-captcha-in-marketo-forms-1.png)
 
-1. 按一下&#x200B;**編輯草稿** （如果表單已核准，請按一下[建立草稿]）。
+1. 按一下&#x200B;**[!UICONTROL Edit Draft]** （如果表單已核准，請按一下[!UICONTROL Create Draft]）。
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 
-1. 按一下&#x200B;**表單設定**，然後按一下&#x200B;**設定**。
+1. 按一下&#x200B;**[!UICONTROL Form Settings]**，然後按&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/enable-captcha-in-marketo-forms-3.png)
 
-1. 開啟CAPTCHA下拉式清單，然後選取&#x200B;**已啟用**。
+1. 開啟&#x200B;**[!UICONTROL CAPTCHA]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Enabled]**。
 
    ![](assets/enable-captcha-in-marketo-forms-4.png)
 
-1. 按一下&#x200B;**完成**。
+1. 按一下「**[!UICONTROL Finish]**」。
 
    ![](assets/enable-captcha-in-marketo-forms-5.png)
 
-1. 按一下&#x200B;**核准並關閉**。
+1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 

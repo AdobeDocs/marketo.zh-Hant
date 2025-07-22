@@ -1,45 +1,45 @@
 ---
 unique-page-id: 10099102
-description: Microsoft Dynamics MSI的外掛程式版本 — Marketo檔案 — 產品檔案
-title: Microsoft Dynamics MSI的外掛程式版本
+description: ' [!DNL Microsoft Dynamics] MSI的外掛程式發行版本 — Marketo檔案 — 產品檔案'
+title: ' [!DNL Microsoft Dynamics] MSI的外掛程式發行版本'
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 6dcda9b86555c17b3492a02f3985db7d2acd8a32
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 0%
+source-wordcount: '394'
+ht-degree: 1%
 
 ---
 
-# Microsoft Dynamics MSI的外掛程式版本 {#plug-in-releases-for-microsoft-dynamics-msi}
+# [!DNL Microsoft Dynamics] MSI的外掛程式版本 {#plug-in-releases-for-microsoft-dynamics-msi}
 
-當您首次同步至Microsoft Dynamics時，需下載並安裝Marketo Sales Insight (MSI)適用的最新版外掛程式。 請定期Marketo Engage更新這些外掛程式，以便您可以返回相同位置下載新版本。
+當您首次同步至[!DNL Microsoft Dynamics]時，請下載並安裝Marketo Sales Insight (MSI)適用的最新版外掛程式。 Marketo會定期更新這些外掛程式，方便您回到相同位置下載新版本。
 
-如果您使用Marketo原生CRM同步解決方案至Dynamics，請[下載與您的Dynamics版本對應的最新外掛程式](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"}。 若是擁有自訂同步處理且已購買Marketo Sales Insight的使用者，[套件就在這裡](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}。
+如果您使用Marketo的原生CRM同步解決方案至[!DNL Dynamics]，請[下載與您的](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"}版本對應的最新外掛程式[!DNL Dynamics]。 對於擁有自訂同步處理且已購買Marketo Sales Insight的使用者，[套件已在此處](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}。
 
 >[!NOTE]
 >
->這些版本適用於Dynamics的內部部署和線上版本。
+>這些版本適用於[!DNL Dynamics]的內部部署和線上版本。
 
 ## 升級MSI解決方案 {#upgrading-your-msi-solution}
 
-1. 按下Dynamics中的&#x200B;**[!UICONTROL 匯入]**&#x200B;按鈕，匯入解決方案&#x200B;_的最新版本，以取代現有的Dynamics CRM版本_。
+1. 按下&#x200B;_中的_&#x200B;按鈕，匯入解決方案[!DNL Dynamics]的最新版本，取代您&#x200B;**[!UICONTROL Import]** CRM的現有版本[!DNL Dynamics]。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->範例：如果您的Dynamics CRM版本為2.0.0.20，而最新版本為2.0.0.21，則您會匯入&#x200B;_超過_&#x200B;版本2.0.0.20。
+>範例：若您的[!DNL Dynamics] CRM有版本2.0.0.20，而最新版本為2.0.0.21，您將會匯入&#x200B;_超過_&#x200B;版本2.0.0.20。
 
-1. 按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
-1. 選取&#x200B;**[!UICONTROL 升級階段]**&#x200B;和&#x200B;**[!UICONTROL 維護自訂]**，然後按一下&#x200B;**[!UICONTROL 匯入]**。
+1. 選取&#x200B;**[!UICONTROL Stage for Upgrade]**&#x200B;和&#x200B;**[!UICONTROL Maintain customizations]**，然後按一下&#x200B;**[!UICONTROL Import]**。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. 按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
@@ -128,7 +128,7 @@ ht-degree: 0%
   <tr> 
    <td>04/28/20</td> 
    <td>2.0.0.16</td> 
-   <td>錯誤修正：正在移除MSD CRM Sitemap設定連結相依性。</td> 
+   <td>錯誤修正：移除MSD CRM Sitemap設定連結相依性。</td> 
   </tr> 
  </tbody> 
 </table>

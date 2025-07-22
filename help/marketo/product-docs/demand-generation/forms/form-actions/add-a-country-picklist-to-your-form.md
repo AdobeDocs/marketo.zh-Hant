@@ -4,10 +4,10 @@ description: 新增國家/地區選擇清單至您的表單 — Marketo檔案 �
 title: 新增國家/地區選擇清單至您的表單
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 1%
+source-wordcount: '171'
+ht-degree: 2%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 依照這些指示，將國家/地區欄位轉換為包含所有國家/地區清單的下拉式清單。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-9.png)
 
-1. 選取您的表單並按一下&#x200B;**編輯表單**。
+1. 選取您的表單並按一下&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/editform-1.png)
 
@@ -27,19 +27,19 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. 尋找並選取&#x200B;**國家**。
+1. 尋找並選取&#x200B;**[!UICONTROL Country]**。
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. 選取&#x200B;**國家**&#x200B;欄位後，將&#x200B;**欄位型別**&#x200B;變更為&#x200B;**選取**。
+1. 選取&#x200B;**[!UICONTROL Country]**&#x200B;欄位後，將&#x200B;**[!UICONTROL Field Type]**&#x200B;變更為&#x200B;**[!UICONTROL Select]**。
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **編輯** **值**&#x200B;以新增使用者可選擇的國家清單。
+1. **[!UICONTROL Edit]** **[!UICONTROL Values]**&#x200B;新增使用者可選擇的國家清單。
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. 按一下&#x200B;**進階** **編輯器**。
+1. 按一下「**[!UICONTROL Advanced Editor]**」。
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -57,15 +57,15 @@ ht-degree: 1%
    >
    >您可以隨意編輯清單或使用任何其他清單。
 
-1. 按一下&#x200B;**保存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. 按一下&#x200B;**完成**。
+1. 按一下「**[!UICONTROL Finish]**」。
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. 按一下&#x200B;**核准並關閉**。
+1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 

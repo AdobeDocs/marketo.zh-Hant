@@ -4,10 +4,10 @@ description: 參與資料流績效報表 — Marketo檔案 — 產品檔案
 title: 參與資料流績效報表
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 1%
+source-wordcount: '144'
+ht-degree: 2%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 1%
 
 ## 建立報告 {#create-the-report}
 
-1. 尋找並選取您的參與方案，然後在&#x200B;**新增**&#x200B;下按一下&#x200B;**新增本機資產**。
+1. 尋找並選取您的參與方案，然後在&#x200B;**[!UICONTROL New]**&#x200B;底下按一下&#x200B;**[!UICONTROL New Local Asset]**。
 
    ![](assets/localassetnutring.jpg)
 
-1. 選取&#x200B;**報表**。
+1. 選擇「**[!UICONTROL Report]**」。
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 
@@ -29,10 +29,10 @@ ht-degree: 1%
    >
    >在方案下建立報告會自動將其限制在方案內容內。
 
-   選取「參與資料流績效」作為報表型別。
+   選取&#x200B;**[!UICONTROL Engagement Stream Performance]**&#x200B;作為報告&#x200B;**[!UICONTROL Type]**。
    ![](assets/engagementreportchoose.png)
 
-1. 為報告命名，然後按一下&#x200B;**建立**。
+1. 為報告命名，然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
@@ -44,17 +44,17 @@ ht-degree: 1%
 
    ![](assets/engagementperformancereport.jpg)
 
-1. 在&#x200B;**設定**&#x200B;標籤下，連按兩下&#x200B;**參與計畫電子郵件**&#x200B;篩選器。
+1. 在&#x200B;**[!UICONTROL Setup]**&#x200B;標籤下，連按兩下&#x200B;**[!UICONTROL Engagement Program Emails]**&#x200B;篩選器。
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. 選取您要報告的電子郵件，然後按一下[套用]。**&#x200B;**
+1. 選取您要報告的電子郵件，然後按一下&#x200B;**[!UICONTROL Apply]**。
 
    ![](assets/engagementfilter.jpg)
 
 ## 執行報告 {#run-report}
 
-1. 若要執行報表，只要按一下&#x200B;**報表**&#x200B;索引標籤即可。
+1. 若要執行報表，只要按一下&#x200B;**[!UICONTROL Report]**&#x200B;索引標籤即可。
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 

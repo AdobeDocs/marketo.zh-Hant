@@ -4,10 +4,10 @@ description: 將任務指派給團隊成員 — Marketo檔案 — 產品檔案
 title: 將任務指派給團隊成員
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 2%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >您只能指派共用連絡人的工作。
 
-1. 按一下&#x200B;**指揮中心**。
+1. 按一下&#x200B;**[!UICONTROL Command Center]**。
 
    ![](assets/one-1.png)
 
-1. 按一下&#x200B;**新增工作**。
+1. 按一下「**[!UICONTROL Add Task]**」。
 
    ![](assets/two-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. 在「指派任務」欄位中，選取您團隊中要指派任務的人員。
+1. 在&#x200B;**[!UICONTROL Assign Task]**&#x200B;欄位中，選取您團隊中要指派任務的人。
 
    ![](assets/five.png)
 
@@ -43,14 +43,14 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 選取「到期日」。
+1. 選取 **[!UICONTROL Due Date]**。
 
    ![](assets/seven.png)
 
-1. 設定優先順序。
+1. 設定&#x200B;**[!UICONTROL Priority]**。
 
    ![](assets/eight.png)
 
-1. 新增與您的隊友相關的任何重要詳細資料（選擇性），然後按一下[建立]。**&#x200B;**
+1. 新增與您的隊友相關的任何重要詳細資料（選擇性），然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/nine.png)

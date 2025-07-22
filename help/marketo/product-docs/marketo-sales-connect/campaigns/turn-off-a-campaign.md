@@ -4,9 +4,9 @@ description: 關閉行銷活動 — Marketo檔案 — 產品檔案
 title: 關閉行銷活動
 exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -17,16 +17,16 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這僅適用於已與Gmail或Exchange整合且已啟用回覆追蹤的客戶。
+>這僅適用於已與[!DNL Gmail]或[!DNL Exchange]整合且已啟用回覆追蹤的客戶。
 
 ## 關閉一個人的行銷活動 {#turn-off-a-campaign-for-one-person}
 
-建立行銷活動後，只要移至&#x200B;**設定**&#x200B;標籤，並選擇當有人回覆時您想要的行銷活動行為方式。
+建立行銷活動後，只要移至「**[!UICONTROL Settings]**」標籤，並選擇當有人回覆時您想要的行銷活動行為方式。
 
 這兩個選項都會結束行銷活動，收件者不會再收到您寄來的電子郵件。
 
 ## 關閉多人的行銷活動 {#turn-off-a-campaign-for-multiple-people}
 
-在已傳送的資料夾中，選取連絡人，將其從設為「全部」的促銷活動移除，以擷取已收到促銷活動的人員。
+在您的已傳送資料夾中，選取連絡人，將其從篩選器設為&quot;[!UICONTROL All]&quot;的行銷活動中移除，以擷取已收到行銷活動的任何人。
 
 或者，您可以直接前往它們所在的Campaign，並大量移除它們。

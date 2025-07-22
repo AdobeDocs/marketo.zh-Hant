@@ -4,20 +4,20 @@ description: 設定行動應用程式iOS推送存取權 — Marketo檔案 — �
 title: 設定行動應用程式iOS推送存取權
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 0%
+source-wordcount: '129'
+ht-degree: 1%
 
 ---
 
 # 設定行動應用程式iOS推送存取權 {#configure-mobile-app-ios-push-access}
 
-1. 按一下&#x200B;**管理員**。
+1. 按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 選取&#x200B;**行動應用程式**。
+1. 選擇「**[!UICONTROL Mobile Apps]**」。
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,15 +25,15 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. 在「推送存取型別」下，選取iOS並按一下&#x200B;**設定**。
+1. 在[!UICONTROL Push Access Type]下，選取iOS並按一下&#x200B;**[!UICONTROL Configure]**。
 
    ![](assets/image2016-6-10-11-3a37-3a9.png)
 
    >[!NOTE]
    >
-   >您需要行動應用程式開發人員提供的&#x200B;**憑證**&#x200B;和&#x200B;**密碼**。 開發人員透過登入Apple開發人員成員中心、設定並下載應用程式的推播通知憑證及匯出內容來接收這些內容。 開發人員會在進行匯出時設定密碼。 **重要**：憑證應該適合您使用的環境型別 — 沙箱或生產。 請向您的Marketo管理員或行動應用程式開發人員確認。
+   >您需要來自行動應用程式開發人員的&#x200B;**[!UICONTROL Certificate]**&#x200B;和&#x200B;**[!UICONTROL Password]**。 開發人員透過登入Apple開發人員成員中心、設定並下載應用程式的推播通知憑證及匯出內容來接收這些內容。 開發人員會在進行匯出時設定密碼。 **重要**：憑證應該適合您使用的環境型別 — 沙箱或生產。 請向您的Marketo管理員或行動應用程式開發人員確認。
 
-1. 選取您的憑證，輸入密碼，然後按一下[儲存]。**&#x200B;**
+1. 選取您的[!UICONTROL Certificate]，輸入您的[!UICONTROL Password]，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2015-4-22-17-3a19-3a18.png)
 

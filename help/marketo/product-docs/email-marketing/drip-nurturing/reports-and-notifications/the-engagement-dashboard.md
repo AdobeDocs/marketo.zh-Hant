@@ -4,9 +4,9 @@ description: 參與儀表板 — Marketo檔案 — 產品檔案
 title: 參與儀表板
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 檢視參與儀表板 {#view-the-engagement-dashboard}
 
-選取您的參與方案，然後按一下&#x200B;**檢視** > **儀表板**。
+選取您的參與方案，然後按一下&#x200B;**檢視** > **[!UICONTROL Dashboard]**。
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您必須進入[設定]索引標籤，並確認已用完的內容通知為&#x200B;**開啟**，才能檢視上圖。 如果關閉，圖表看起來會不同。
+>您必須進入[!UICONTROL Setup]標籤並確定[!UICONTROL Exhausted Content Notifications]為&#x200B;**[!UICONTROL On]**&#x200B;才能檢視上圖。 如果關閉，圖表看起來會不同。
 
 >[!CAUTION]
 >

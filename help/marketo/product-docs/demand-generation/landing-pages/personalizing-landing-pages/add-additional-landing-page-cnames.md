@@ -4,9 +4,9 @@ description: 新增其他登陸頁面CNAME - Marketo檔案 — 產品檔案
 title: 新增其他登陸頁面CNAME
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## 傳送要求給IT {#send-request-to-it}
 
-1. 請您的IT部門設定下列CNAME： （將[CNAME]取代為您選擇的CNAME，並將[Munchkin ID]取代為您先前步驟的文字）。
+1. 請您的IT部門設定下列CNAME： (將[CNAME]取代為您選擇的CNAME，並將[Munchkin ID]取代為您先前步驟的文字)。
 
    [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
@@ -57,19 +57,19 @@ ht-degree: 0%
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. 按一下&#x200B;**新增**，然後選取&#x200B;**新增網域別名**。
+1. 按一下&#x200B;**[!UICONTROL New]**，然後選取&#x200B;**[!UICONTROL New Domain Alias]**。
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. 輸入您的&#x200B;**網域別名。**&#x200B;如果訪客未放入URL，則會顯示&#x200B;**預設頁面**。 輸入在這種情況下應該前往的位置。
+1. 輸入您的&#x200B;**[!UICONTROL Domain Alias]。**&#x200B;如果訪客未放入URL，則會顯示&#x200B;**[!UICONTROL Default Page]**。 輸入在這種情況下應該前往的位置。
 
    >[!NOTE]
    >
-   >對於「預設頁面」，您可以選取登入頁面或外部URL，例如您的公用網站。
+   >對於[!UICONTROL Default Page]，您可以選取登入頁面或外部URL，例如您的公用網站。
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. 輸入您的&#x200B;**預設頁面**&#x200B;並按一下&#x200B;**建立**。
+1. 輸入您的&#x200B;**[!UICONTROL Default Page]**&#x200B;並按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 

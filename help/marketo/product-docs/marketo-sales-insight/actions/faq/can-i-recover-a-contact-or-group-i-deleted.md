@@ -3,13 +3,13 @@ description: 我可以復原已刪除的連絡人或群組嗎？ - Marketo檔案
 title: 我可以復原已刪除的連絡人或群組嗎？
 exl-id: ef783d23-3b43-4e6c-9581-1e7d3958ae54
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
 # 我可以復原已刪除的連絡人或群組嗎？ {#can-i-recover-a-contact-or-group-i-deleted}
 
-很抱歉，刪除連絡人或群組後，我們無法復原連絡人或群組。 如果您只刪除群組（未選取人員），則所有連絡人仍會存在於[人員]索引標籤的[所有人]下，因此您可以選取他們並重新新增至新群組。
+很抱歉，刪除連絡人或群組後，我們無法復原連絡人或群組。 如果您只刪除群組（未選取人員），則所有連絡人仍會存在於「[!UICONTROL Everyone]」標籤的「[!UICONTROL People]」下，因此您可以選取他們並重新新增至新群組。

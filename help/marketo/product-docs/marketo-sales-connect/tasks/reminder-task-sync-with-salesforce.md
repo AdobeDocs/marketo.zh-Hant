@@ -3,82 +3,82 @@ description: 提醒任務與Salesforce同步 — Marketo檔案 — 產品檔案
 title: 提醒任務與Salesforce同步
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
 
-# 提醒任務與Salesforce同步 {#reminder-task-sync-with-salesforce}
+# 與[!DNL Salesforce]同步處理提醒工作 {#reminder-task-sync-with-salesforce}
 
 >[!NOTE]
 >
->若要瞭解如何啟用Task Sync，請取出[將Sales Connect工作/提醒同步到Salesforce工作](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks)。
+>若要瞭解如何啟用工作同步處理，請簽出[同步處理 [!DNL Sales Connect] 工作/提醒至 [!DNL Salesforce] 工作](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks)。
 
-啟用工作同步設定後，使用者會看到他們的提醒工作與Salesforce雙向同步。 這表示使用者可以從Salesforce或Sales Connect管理工作，並相信系統會維持一致。
+啟用工作同步設定後，使用者會看到他們的提醒工作與[!DNL Salesforce]雙向同步。 這表示使用者可以管理來自[!DNL Salesforce]或[!DNL Sales Connect]的工作，並確信系統將會保持一致。
 
 ## 提醒工作列位同步 {#reminder-task-field-sync}
 
 ![](assets/reminder-task-sync-with-salesforce-1.png)
 
-以下是Sales Connect中的提醒工作欄位清單，以及透過雙向工作同步支援的對應Salesforce欄位。
+以下是[!DNL Sales Connect]中的提醒工作列位清單，以及透過雙向任務同步支援的其對應的[!DNL Salesforce]欄位。
 
 <table>
  <tr>
-  <th>Sales Connect工作欄位</th>
-  <th>Salesforce工作欄位</th>
-  <th>Salesforce工作</th>
+  <th>[!DNL Sales Connect] 工作列位</th>
+  <th>[!DNL Salesforce] 工作列位</th>
+  <th>[!DNL Salesforce] 任務</th>
  </tr>
  <tr>
-  <td>任務名稱</td>
-  <td>主題欄位</td>
+  <td>[!UICONTROL Task Name]</td>
+  <td>[!UICONTROL Subject Field]</td>
   <td>旨在顯示任務標題的簡短摘要欄位。</td>
  </tr>
  <tr>
-  <td>狀態</td>
-  <td>任務狀態</td>
-  <td><p>顯示工作的狀態。 Sales Connect工作有兩個狀態，對應至Salesforce工作狀態選擇清單中的兩個值。</p>
-  <p>在Sales Connect中開啟=未在Salesforce中啟動。</p>
-  <p>在Sales Connect中完成=在Salesforce中完成。</p>
-  <p>Salesforce中的其他狀態值將不會同步至Sales Connect。</p></td>
+  <td>[!UICONTROL Status]</td>
+  <td>[!UICONTROL Task Status]</td>
+  <td><p>顯示工作的狀態。 [!DNL Sales Connect]個任務有兩個狀態，對應至[!DNL Salesforce]任務狀態選擇清單中的兩個值。</p>
+  <p>在[!DNL Sales Connect]中開啟=未在[!DNL Salesforce]中啟動。</p>
+  <p>完成於[!DNL Sales Connect] =完成於[!DNL Salesforce]。</p>
+  <p>[!DNL Salesforce]中的其他狀態值將不會同步至[!DNL Sales Connect]。</p></td>
  </tr>
  <tr>
-  <td>優先順序</td>
-  <td>優先順序</td>
-  <td><p>Sales Connect優先順序可以是「一般」或「高」，對應至Salesforce中的「一般」和「高」優先順序值。</p>
-  <p>Salesforce中的低優先順序值將不會同步至Sales Connect。</p></td>
+  <td>[!UICONTROL Priority]</td>
+  <td>[!UICONTROL Priority]</td>
+  <td><p>[!DNL Sales Connect] 優先順序可以是「一般」或「高」，對應到[!DNL Salesforce]中的「一般」和「高」優先順序值。</p>
+  <p>[!DNL Salesforce]中的低優先順序值將不會同步至[!DNL Sales Connect]。</p></td>
  </tr>
  <tr>
-  <td>到期日期</td>
-  <td>到期日期</td>
+  <td>[!UICONTROL Due Date]</td>
+  <td>[!UICONTROL Due Date]</td>
   <td>任務的到期日。</td>
  </tr>
  <tr>
-  <td>詳細資料</td>
-  <td>註解</td>
+  <td>[!UICONTROL Details]</td>
+  <td>[!UICONTROL Comments]</td>
   <td>顯示有關應該完成提醒工作的詳細資訊。</td>
  </tr>
 </table>
 
-## 首次將Sales Connect工作與Salesforce同步 {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
+## 第一次將[!DNL Sales Connect]個任務與[!DNL Salesforce]同步 {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-當您首次開啟Sales Connect與Salesforce工作之間的同步時，我們會匯入您的Salesforce工作。 我們&#x200B;**不會**&#x200B;推移您在Sales Connect to Salesforce中擁有的任何目前工作。 為了減少雜湊和重複專案，從Sales Connect同步至Salesforce的唯一工作是在您將Sales Connect與SFDC同步的&#x200B;*之後*&#x200B;建立的工作。
+當您首次開啟[!DNL Sales Connect]與[!DNL Salesforce]個任務之間的同步時，我們會匯入您的[!DNL Salesforce]個任務。 我們&#x200B;**不會**&#x200B;將您在[!DNL Sales Connect]中擁有的任何目前任務推播到[!DNL Salesforce]。 若要減少雜訊和重複專案，從[!DNL Sales Connect]同步到[!DNL Salesforce]的唯一工作是在您將&#x200B;*與SFDC同步*&#x200B;後[!DNL Sales Connect]建立的工作。
 
-以下是同步處理Sales Connect與SFDC工作時所發生的情況：
+以下是當您同步[!DNL Sales Connect]和SFDC任務時發生的情況：
 
 * 當您在同步處理任務時按一下「儲存」，任務就會開始進行同步處理。 這最初需要一些時間。
 
-* 過去24小時內已更新或建立的任何提醒都會從SFDC提取至Sales Connect。 同步是以到期日為基礎，所有這些工作都會在後端進行同步，但在指揮中心，您只會看到今天和明天到期的工作。
+* 任何在過去24小時內已更新或建立的提醒將會從SFDC提取至[!DNL Sales Connect]。 同步是以到期日為基礎，所有這些工作都會在後端進行同步，但在指揮中心，您只會看到今天和明天到期的工作。
 
-* 如果先前已開啟同步，而您刪除了SFDC中的任何工作，則過去15天刪除的任何工作都會從指揮中心刪除。
+* 如果先前已開啟同步功能，而您又刪除了SFDC中的任何工作，則任何過去15天中刪除的工作都會從命令中心刪除。
 
-* 只要已啟用同步處理，我們就會持續在Sales Connect與SFDC之間同步處理工作。
+* 只要同步處理已啟用，我們就會持續在[!DNL Sales Connect]和SFDC之間同步處理工作。
 
-初次同步後，您在Sales Connect中建立、編輯、完成或刪除的任何工作都會同步至Salesforce中的工作清單。 在Salesforce中建立、編輯、完成或刪除的任何專案，都會在Sales Connect中更新您的工作清單。
+初次同步之後，您在[!DNL Sales Connect]中建立、編輯、完成或刪除的任何工作都會同步至[!DNL Salesforce]中的工作清單。 在[!DNL Salesforce]中建立、編輯、完成或刪除的任何專案都會在[!DNL Sales Connect]中更新您的任務清單。
 
 若要開啟此同步，只要在Web應用程式的[設定頁面](https://toutapp.com/login)中勾選同步方塊即可。
 
 >[!NOTE]
 >
->若您在[活動詳細資料自訂](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)設定中使用`{{activity_subject}}`動態欄位，則可在Sales Connect中更新任務的主旨欄位，且此更新將會同步至對應同步任務的Salesforce主旨欄位。 相反地，對Salesforce中主旨欄位所做的任何更新將&#x200B;_不會_&#x200B;同步到Sales Connect提醒任務主旨欄位。
+>若您在[!DNL Sales Connect]活動詳細資料自訂[!DNL Salesforce]設定中使用`{{activity_subject}}`動態欄位，則可在[中更新任務的主旨欄位，且此更新將會同步至對應同步任務的](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)主旨欄位。 相反地，對[!DNL Salesforce]中主旨欄位所做的任何更新將&#x200B;_不會_&#x200B;同步到[!DNL Sales Connect]提醒任務主旨欄位。

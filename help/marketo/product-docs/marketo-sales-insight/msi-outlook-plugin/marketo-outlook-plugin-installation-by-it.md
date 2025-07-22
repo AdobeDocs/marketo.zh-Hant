@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11382815
-description: 由IT安裝Marketo Outlook外掛程式 — Marketo檔案 — 產品檔案
-title: Marketo Outlook外掛程式由IT安裝
+description: Marketo [!DNL Outlook] IT安裝外掛程式 — Marketo檔案 — 產品檔案
+title: 由IT安裝Marketo [!DNL Outlook] 外掛程式
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 1%
 
 ---
 
-# Marketo Outlook外掛程式由IT安裝 {#marketo-outlook-plugin-installation-by-it}
+# 由IT安裝Marketo [!DNL Outlook]外掛程式 {#marketo-outlook-plugin-installation-by-it}
 
 有時公司政策會要求其IT團隊在員工的電腦上安裝所有軟體。 在這些情況下，IT通常會使用自己的部署軟體從遠端執行這項作業。 此檔案提供您在部署程式期間用來作為輸入以遠端安裝Outlook外掛程式的命令列。
 
@@ -57,4 +57,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[由IT解除安裝Marketo Outlook外掛程式](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+>[Marketo [!DNL Outlook] IT解除安裝外掛程式](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)

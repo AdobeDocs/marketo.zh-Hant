@@ -4,10 +4,10 @@ description: 建立引導式登陸頁面 — Marketo檔案 — 產品檔案
 title: 建立引導式登陸頁面
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 0%
+source-wordcount: '172'
+ht-degree: 2%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 ## 在方案中建立引導式登陸頁面 {#create-a-guided-landing-page-in-a-program}
 
-引導式登陸頁面可以建立為方案的本機資產，或在Design Studio中以供全域使用。
+引導式登入頁面可建立為方案的本機資產，或在[!UICONTROL Design Studio]中建立以全域使用。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/one-1.png)
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. 按一下&#x200B;**新增**&#x200B;下拉式清單。 選取&#x200B;**新增本機資產**。
+1. 按一下&#x200B;**[!UICONTROL New]**&#x200B;下拉式清單。 選擇「**[!UICONTROL New Local Asset]**」。
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
-1. 選取&#x200B;**登陸頁面**。
+1. 選擇「**[!UICONTROL Landing Page]**」。
 
    ![](assets/four.png)
 
-1. 為您的登陸頁面命名。 按一下&#x200B;**範本**&#x200B;下拉式清單，然後選取&#x200B;**引導式範本**。
+1. 為您的登陸頁面命名。 按一下&#x200B;**[!UICONTROL Template]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Guided Template]**。
 
    >[!NOTE]
    >
@@ -51,24 +51,24 @@ ht-degree: 0%
 
 ## 在Design Studio中建立登陸頁面 {#create-a-landing-page-in-design-studio}
 
-1. 移至&#x200B;**設計工作室**。
+1. 移至&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/six.png)
 
-1. 按一下&#x200B;**新增**&#x200B;下拉式清單。 選取&#x200B;**新登陸頁面**。
+1. 按一下&#x200B;**[!UICONTROL New]**&#x200B;下拉式清單。 選擇「**[!UICONTROL New Landing Page]**」。
 
    ![](assets/seven.png)
 
-1. 為您的登陸頁面命名。 按一下&#x200B;**範本**&#x200B;下拉式清單，然後選取&#x200B;**引導式範本**。
+1. 為您的登陸頁面命名。 按一下&#x200B;**[!UICONTROL Template]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Guided Template]**。
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
-1. 按一下&#x200B;**建立**。
+1. 按一下「**[!UICONTROL Create]**」。
 
    ![](assets/image2015-5-26-9-3a28-3a8.png)
 
 >[!TIP]
 >
->URL會自動從程式和登入頁面名稱建構。 若要變更URL，請編輯&#x200B;**頁面URL**&#x200B;欄位。
+>URL會自動從程式和登入頁面名稱建構。 若要變更URL，請編輯&#x200B;**[!UICONTROL Page URL]**&#x200B;欄位。
 >
->如果您不想在按一下&#x200B;**建立**&#x200B;後立即開啟編輯器，請清除&#x200B;**在編輯器中開啟**&#x200B;核取方塊。
+>如果您不想在按一下&#x200B;**[!UICONTROL Open in editor]**&#x200B;後立即開啟編輯器，請清除&#x200B;**[!UICONTROL Create]**&#x200B;核取方塊。

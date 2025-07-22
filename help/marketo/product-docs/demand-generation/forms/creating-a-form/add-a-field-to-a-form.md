@@ -4,9 +4,9 @@ description: 新增欄位至表單 — Marketo檔案 — 產品檔案
 title: 新增欄位至表單
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 當您[建立表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)並[選取主題](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)後，您可能想要新增其他欄位供人員填寫。 方法如下。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 選取您的表單並按一下&#x200B;**編輯表單**。
+1. 選取您的表單並按一下&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/editform-1.png)
 
@@ -29,17 +29,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >當您建立新表單時，會自動新增「名字」、「姓氏」和「電子郵件地址」。
+   >當您建立新表單時，[!UICONTROL First Name]、[!UICONTROL Last Name]和[!UICONTROL Email Address]會自動新增。
 
 1. 尋找並選取您要新增至表單的欄位。
 
    ![](assets/image2014-9-15-17-3a18-3a26.png)
 
-1. 新增您需要的欄位，然後按一下&#x200B;**完成**。
+1. 新增您需要的欄位，然後按一下&#x200B;**[!UICONTROL Finish]**。
 
    ![](assets/image2014-9-15-17-3a18-3a35.png)
 
-1. 現在按一下&#x200B;**核准並關閉**。
+1. 現在按一下&#x200B;**[!UICONTROL Approve and Close]**。
 
    ![](assets/image2014-9-15-17-3a18-3a43.png)
 

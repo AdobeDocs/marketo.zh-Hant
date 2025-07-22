@@ -4,9 +4,9 @@ description: Token概述 — Marketo檔案 — 產品檔案
 title: Token概述
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->使用Marketo的電子郵件編輯器時，Token在預覽版中無法運作。 若要在預覽文字中使用權杖，該權杖必須透過您在電子郵件範本中的HTML取得。
+>使用Marketo的電子郵件編輯器時，Token在預覽版中無法運作。 若要在預覽文字中使用代號，必須透過電子郵件範本中您自己的HTML進行。
 
 >[!NOTE]
 >
@@ -157,9 +157,9 @@ ht-degree: 0%
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## 我的Token {#my-tokens}
+## [!UICONTROL My Tokens] {#my-tokens}
 
-我的Token是在程式中定義，且以`{{my.`開頭，後面接著您為該Token建立的名稱。 深入瞭解[我的方案](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)代號。
+[!UICONTROL My Tokens]是在程式中定義，且以`{{my.`開頭，後面接著您為權杖建立的名稱。 深入瞭解[我的方案](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)代號。
 
 ## 成員權杖 {#member-token}
 

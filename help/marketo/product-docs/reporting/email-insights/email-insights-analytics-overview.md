@@ -4,16 +4,16 @@ description: 電子郵件深入分析Analytics概觀 — Marketo檔案 — 產�
 title: 電子郵件分析Analytics概觀
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
 
 # 電子郵件分析Analytics概觀 {#email-insights-analytics-overview}
 
-在Analytics中，探索電子郵件傳送和參與彙總資料。 使用左側的圖表來探索資料，使用右側的深入分析以獲得更多引導式體驗。
+在[!UICONTROL Analytics]中，探索電子郵件傳遞和參與彙總資料。 使用左側的圖表來探索資料，使用右側的深入分析以獲得更多引導式體驗。
 
 ![](assets/emailanalytics-1.jpg)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->看到右上角的「重新整理」了嗎？ 看到時，您需要手動按一下以重新整理「深入分析」模組。 只有在您變更會使目前值失效的篩選器時，我們才會顯示它。
+>看到右上角的[!UICONTROL Refresh]了嗎？ 看到時，您需要手動按一下以重新整理「深入分析」模組。 只有在您變更會使目前值失效的篩選器時，我們才會顯示它。
 
 您也可以指定您所看到的內容（由左至右）：「全部」、「對象」、「內容」和「平台」。
 

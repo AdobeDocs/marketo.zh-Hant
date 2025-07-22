@@ -4,16 +4,16 @@ description: 大量傳送選項 — Marketo檔案 — 產品檔案
 title: 大量傳送選項
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
 
 # 大量傳送選項 {#bulk-sending-options}
 
-大量傳送電子郵件是加速潛在客戶參與的絕佳方式。 Sales Connect提供兩種大量傳送電子郵件的方式： **群組電子郵件**&#x200B;和&#x200B;**選取並傳送**。 群組電子郵件是快速傳送數百封電子郵件至目標群組的絕佳方式。 使用選取並傳送表示電子郵件限制較低，但為使用者提供更多的自訂機會。
+大量傳送電子郵件是加速潛在客戶參與的絕佳方式。 [!DNL Sales Connect]提供兩種大量傳送電子郵件的方式：**群組電子郵件**&#x200B;和&#x200B;**選取並傳送**。 群組電子郵件是快速傳送數百封電子郵件至目標群組的絕佳方式。 使用選取並傳送表示電子郵件限制較低，但為使用者提供更多的自訂機會。
 
 **群組電子郵件與選取和傳送**
 

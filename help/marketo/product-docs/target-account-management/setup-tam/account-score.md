@@ -4,16 +4,16 @@ description: 帳戶分數 — Marketo檔案 — 產品檔案
 title: 帳戶分數
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
-# 帳戶分數 {#account-score}
+# [!UICONTROL Account Score] {#account-score}
 
-帳戶評分是Target帳戶管理的重要一環。 它可協助您判斷帳戶的參與層級。
+帳戶評分是[!UICONTROL Target Account Management]的重要部分。 它可協助您判斷帳戶的參與層級。
 
 ## 什麼是帳戶評分？ {#what-is-account-scoring}
 
@@ -57,30 +57,30 @@ ht-degree: 0%
 
 設定好銷售機會分數後，請依照下列步驟繼續進行。
 
-1. 按一下&#x200B;**管理員**。
+1. 按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/account-score-1.png)
 
-1. 按一下&#x200B;**目標帳戶管理**。
+1. 按一下「**[!UICONTROL Target Account Management]**」。
 
    ![](assets/account-score-2.png)
 
-1. 在評分欄位中，按一下&#x200B;**編輯**。
+1. 在[!UICONTROL Scoring Fields]中，按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/account-score-3.png)
 
    >[!NOTE]
    >
-   >您最多可以選擇&#x200B;**5個**&#x200B;欄位來計算帳戶分數。
+   >您最多可以選擇&#x200B;**5個**&#x200B;欄位來計算[!UICONTROL Account Score]。
 
-1. 輸入帳戶分數名稱，按一下&#x200B;**選取個人分數**&#x200B;下拉式清單，然後選取對應的分數。
+1. 輸入[!UICONTROL Account Score]名稱，按一下&#x200B;**[!UICONTROL Select Person Score]**&#x200B;下拉式清單並選取對應的分數。
 
    ![](assets/account-score-4.png)
 
-1. 按一下「**+新增**」以新增更多分數。
+1. 按一下&#x200B;**[!UICONTROL +Add]**&#x200B;以新增更多分數。
 
    ![](assets/account-score-5.png)
 
-1. 新增所有想要的分數。 完成時，按一下&#x200B;**儲存**。
+1. 新增所有想要的分數。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/account-score-6.png)

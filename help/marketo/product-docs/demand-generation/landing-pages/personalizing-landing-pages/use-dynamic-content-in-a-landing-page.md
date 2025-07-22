@@ -4,9 +4,9 @@ description: 在登入頁面中使用動態內容 — Marketo檔案 — 產品�
 title: 在登入頁面中使用動態內容
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -23,43 +23,43 @@ ht-degree: 0%
 
 ## 新增分段 {#add-segmentation}
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
-   按一下您的登陸頁面，然後按一下「編輯草稿」。
+   按一下您的&#x200B;**[!UICONTROL Landing Page]**，然後按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/landingpageeditdraft.jpg)
 
-   按一下「分段依據」。
+   按一下「**[!UICONTROL Segment By]**」。
 
    ![](assets/image2015-5-21-12-3a31-3a20.png)
 
-   輸入區段名稱，然後按一下儲存。
+   輸入&#x200B;**[!UICONTROL Segmentation]**&#x200B;名稱並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-16-14-3a50-3a5.png)
 
-   您的區段及其區段會顯示在右側的「動態」下方。
+   您的區段及其區段會顯示在右側的&#x200B;**[!UICONTROL Dynamic]**&#x200B;下方。
 
    ![](assets/image2015-5-21-12-3a36-3a40.png)
 
    >[!NOTE]
    >
-   >所有登入頁面元素預設為靜態。
+   >所有登入頁面元素預設為&#x200B;**[!UICONTROL Static]**。
 
 ## 將元素設為動態 {#make-element-dynamic}
 
-1. 將元素從靜態拖放至&#x200B;**動態**。
+1. 將元素從&#x200B;**[!UICONTROL Static]**&#x200B;拖放至&#x200B;**[!UICONTROL Dynamic]**。
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. 您也可以從元素&#x200B;**設定**&#x200B;將元素設為「靜態」或「動態」。
+1. 您也可以從元素[!UICONTROL Static]建立元素[!UICONTROL Dynamic]或&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
 ## 套用動態內容 {#apply-dynamic-content}
 
-1. 選取區段下的元素，然後按一下[編輯]。**&#x200B;** 對每個區段重複。
+1. 選取區段下的元素，然後按一下&#x200B;**[!UICONTROL Edit]**。 對每個區段重複。
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 

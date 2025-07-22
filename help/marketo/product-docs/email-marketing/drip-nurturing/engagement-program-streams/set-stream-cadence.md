@@ -4,10 +4,10 @@ description: 設定串流步調 — Marketo檔案 — 產品檔案
 title: 設定資料流步調
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 0%
+source-wordcount: '361'
+ht-degree: 1%
 
 ---
 
@@ -17,25 +17,25 @@ ht-degree: 0%
 
 ## 設定步調 {#set-cadence}
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 尋找並選取您的參與計畫，按一下&#x200B;**串流**&#x200B;索引標籤，然後按一下&#x200B;**設定串流節奏**。
+1. 尋找並選取您的參與方案，按一下&#x200B;**[!UICONTROL Streams]**&#x200B;標籤，然後按一下&#x200B;**[!UICONTROL Set Stream Cadence]**。
 
    ![](assets/selectstreamcadence.jpg)
 
-1. 選取您要重複播放的頻率。 您可以選擇每週&#x200B;**或**&#x200B;每月&#x200B;**。**
+1. 選取您要重複播放的頻率。 您可以選擇&#x200B;**[!UICONTROL Weekly]**&#x200B;或&#x200B;**[!UICONTROL Monthly]**。
 
 ## 每週 {#weekly}
 
-1. 選取&#x200B;**每週**。
+1. 選擇「**[!UICONTROL Weekly]**」。
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
    >[!NOTE]
    >
-   >選取&#x200B;**無**&#x200B;將會關閉資料流。
+   >選取&#x200B;**[!UICONTROL None]**&#x200B;將會關閉資料流。
 
 1. 挑選第一次鑄造的日期。
 
@@ -51,9 +51,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以挑選重複專案&#x200B;**每週** / **每隔：1週** / **日期**：所有天，將您的步調設定為每天執行。
+   >您可以選擇&#x200B;**[!UICONTROL Repeats]：[!UICONTROL Weekly]** / **[!UICONTROL Every]： 1[!UICONTROL Week]** / **[!UICONTROL On]**：所有天數，將您的步調設定為每天執行。
 
-   現在選擇時間。 如果您要使用[收件者時區](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) （亦即根據當地時區傳遞），請核取方塊，然後按一下&#x200B;**儲存**。
+   現在選擇時間。 如果您要使用[收件者時區](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) （亦即根據當地時區傳遞），請核取方塊，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
@@ -69,11 +69,11 @@ ht-degree: 0%
    >
    >在此範例中，電子郵件將於星期四發出。 然後，我們略過一週，並在下週的週二、週三和週四再次傳送。 然後再重複一次。
 
-完成了！ 如果您想要設定每月頻率，請繼續閱讀。
+完成了！如果您想要設定每月頻率，請繼續閱讀。
 
 ## 每月 {#monthly}
 
-1. 選取&#x200B;**每月**&#x200B;重複頻率。
+1. 選取&#x200B;**[!UICONTROL Monthly]**&#x200B;重複頻率。
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -93,7 +93,7 @@ ht-degree: 0%
    >
    >或者，您可以選取一週中的某天。
 
-1. 選取&#x200B;**時間**&#x200B;並按一下&#x200B;**儲存**。
+1. 挑選&#x200B;**[!UICONTROL Time]**&#x200B;並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 

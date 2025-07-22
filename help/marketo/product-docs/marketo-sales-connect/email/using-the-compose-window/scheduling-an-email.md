@@ -4,9 +4,9 @@ description: 排程電子郵件 — Marketo檔案 — 產品檔案
 title: 排程電子郵件
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >若要更新預設時區，請前往「設定」頁面。
 
-1. 建立您的電子郵件草稿（有多種方式可以達成此目的，在此範例中，我們在標題中選擇&#x200B;**撰寫**）。
+1. 建立您的電子郵件草稿（有多種方法可這麼做，在此範例中，我們在標題中選擇&#x200B;**[!UICONTROL Compose]**）。
 
    ![](assets/one-1.png)
 
-1. 當您完成撰寫電子郵件時，請按一下右下角的&#x200B;**排程**
+1. 當您完成撰寫電子郵件時，請按一下右下方的&#x200B;**[!UICONTROL Schedule]**
 
    ![](assets/two-1.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. 輸入您要電子郵件發出的時間。 選取想要的時區，然後按一下[儲存]。**&#x200B;** 完成時關閉排程器。
+1. 輸入您要電子郵件發出的時間。 選取想要的時區並按一下&#x200B;**[!UICONTROL Save]**。 完成時關閉排程器。
 
    ![](assets/four-1.png)
 
-1. 現在已選取您排程的日期/時間，請按一下[傳送] **以排程電子郵件。**
+1. 現在已選取您排程的日期/時間，請按一下&#x200B;**[!UICONTROL Send]**&#x200B;以排程電子郵件。
 
    ![](assets/five-1.png)
 

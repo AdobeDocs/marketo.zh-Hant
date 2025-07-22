@@ -4,16 +4,16 @@ description: 為自訂實體啟用同步 — Marketo檔案 — 產品檔案
 title: 為自訂實體啟用同步
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 2a5ee44a7126d789b0fc819a26a2cf19084b34ee
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
 # 為自訂實體啟用同步 {#enable-sync-for-a-custom-entity}
 
-如果您需要來自Dynamics的自訂實體資料才能在Marketo Engage中使用，以下說明如何為其啟用同步。 **需要管理員許可權**。
+如果您需要來自[!DNL Dynamics]的自訂實體資料才能在Marketo中使用，以下說明如何為其啟用同步。
 
 >[!PREREQUISITES]
 >
@@ -28,11 +28,11 @@ ht-degree: 0%
 >
 >Marketo同步使用者需要自訂物件的讀取存取權，才能列出該物件並對其執行同步。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區段。
 
    ![](assets/enable-sync-for-a-custom-entity-1.png)
 
-1. 選取&#x200B;**[!UICONTROL Microsoft Dynamics]**&#x200B;並按一下&#x200B;**[!UICONTROL 停用同步]**。
+1. 選取&#x200B;**[!UICONTROL Microsoft Dynamics]**&#x200B;並按一下&#x200B;**[!UICONTROL Disable Sync]**。
 
    ![](assets/enable-sync-for-a-custom-entity-2.png)
 
@@ -40,25 +40,25 @@ ht-degree: 0%
    >
    >您必須暫時停用全域同步才能啟用或停用自訂實體。
 
-1. 在[資料庫管理]下，按一下&#x200B;**[!UICONTROL Dynamics Entities Sync]**。
+1. 在[!UICONTROL Database Management]底下，按一下&#x200B;**[!UICONTROL Dynamics Entities Sync]**&#x200B;連結。
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
-1. 按一下&#x200B;**[!UICONTROL 同步結構描述]**。
+1. 按一下&#x200B;**[!UICONTROL Sync schema]**&#x200B;連結。
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
-1. 選取您要同步的實體，然後按一下&#x200B;**[!UICONTROL 啟用同步]**。
+1. 選取您要同步的實體，然後按一下&#x200B;**[!UICONTROL Enable Sync]**。
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. 選取要在智慧清單中同步或用作[限制](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}和/或觸發器的欄位（針對新增的記錄，_未_&#x200B;更新）。 完成時，按一下&#x200B;**[!UICONTROL 啟用同步]**。
+1. 選取您要在智慧清單中同步或用作[限制](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)和/或觸發器的欄位。 完成時，按一下&#x200B;**[!UICONTROL Enable Sync]**。
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
    >[!NOTE]
    >
-   >在同步處理期間，您可能會注意到「[!UICONTROL 動態實體同步]」專案會從導覽樹狀結構中消失。 這是預期行為，同步完成後將會重新出現。
+   >在同步處理期間，您可能會注意到&quot;[!UICONTROL Dynamic Entities Sync]&quot;專案會從導覽樹狀結構中消失。 這是預期行為，同步完成後將會重新出現。
 
 1. 該實體現在有綠色核取記號。
 

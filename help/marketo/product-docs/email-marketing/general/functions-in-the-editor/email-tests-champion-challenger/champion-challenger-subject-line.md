@@ -4,9 +4,9 @@ description: 冠軍/挑戰者 — 主旨列 — Marketo檔案 — 產品檔案
 title: 冠軍/挑戰者 — 主旨列
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >[新增電子郵件冠軍/挑戰者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. 在電子郵件測試編輯器中，選取&#x200B;**測試型別**&#x200B;下拉式清單中的&#x200B;**主旨列**。
+1. 在電子郵件測試編輯器中，選取&#x200B;**[!UICONTROL Subject Line]**&#x200B;下拉式清單中的&#x200B;**[!UICONTROL Test Type]**。
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >在主旨測試中，輸入的第一個主旨列被指定為&#x200B;**Champion**。 後續的主旨列稱為&#x200B;**挑戰者**。
+   >在主旨測試中，輸入的第一個主旨列被指定為&#x200B;**[!UICONTROL Champion]**。 後續的主旨列稱為&#x200B;**[!UICONTROL Challengers]**。
 
-1. 輸入&#x200B;**挑戰者**&#x200B;的主旨列。
+1. 輸入&#x200B;**[!UICONTROL Challengers]**&#x200B;的主旨列。
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    若要取得統計可信度，請確定您選擇的百分比包含足夠的使用者，以便您的測試有效。 不要被不確定的結果所愚弄。
 
-1. 按一下&#x200B;**下一步**。
+1. 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 

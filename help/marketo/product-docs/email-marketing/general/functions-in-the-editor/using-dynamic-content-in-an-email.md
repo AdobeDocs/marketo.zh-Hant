@@ -4,9 +4,9 @@ description: 在電子郵件中使用動態內容 — Marketo檔案 — 產品�
 title: 在電子郵件中使用動態內容
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,15 @@ ht-degree: 0%
 
 ## 新增分段 {#add-segmentation}
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取您的電子郵件並按一下&#x200B;**編輯草稿**。
+1. 選取您的電子郵件並按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
    ![](assets/1.2.png)
 
-1. 在此範例中，我們讓主旨列成為動態的。 按一下[主旨]欄位，然後按一下[**建立動態**]按鈕。
+1. 在此範例中，我們讓主旨列成為動態的。 按一下「[!UICONTROL Subject]」欄位，然後按一下「**建立動態**」按鈕。
 
    ![](assets/1.3.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
    >
    >您也可以將電子郵件內的元素設為動態。 若要這麼做，請選取區域、按一下齒輪圖示，然後選取&#x200B;**建立動態** （或[以程式碼片段取代](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)，視您正在執行的動作而定）。
 
-1. 輸入區段名稱，選取該名稱，然後按一下[儲存]。**&#x200B;**
+1. 輸入區段名稱，選取該名稱，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/1.4.png)
 
-   您的區段及其區段會顯示在右側的「動態」標籤下方。
+   您的區段及其區段會顯示在右側的[!UICONTROL Dynamic]標籤下方。
 
    ![](assets/1.5.png)
 

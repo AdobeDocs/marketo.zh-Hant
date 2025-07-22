@@ -4,18 +4,18 @@ description: 封存範本 — Marketo檔案 — 產品檔案
 title: 封存範本
 exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 # 封存範本 {#archive-templates}
 
-封存內容以清理您的銷售內容帳戶，而不會遺失任何範本資料。
+封存內容以清除您的[!DNL Sales Content]帳戶，而不會遺失任何範本資料。
 
-核取範本旁的方塊，然後按一下&#x200B;**封存**。
+核取範本旁的方塊，然後按一下&#x200B;**[!UICONTROL Archive]**。
 
 >[!NOTE]
 >

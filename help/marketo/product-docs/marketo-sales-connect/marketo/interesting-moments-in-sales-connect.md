@@ -4,26 +4,26 @@ description: Sales Connect中的有趣時刻 — Marketo檔案 — 產品檔案
 title: Sales Connect中的有趣時刻
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-source-git-commit: 3a3287ed20962a052e0015161e34e33a95dd450a
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
-# Sales Connect中的有趣時刻 {#interesting-moments-in-sales-connect}
+# [!DNL Sales Connect]中的有趣時刻 {#interesting-moments-in-sales-connect}
 
-有趣的時刻是透過Marketo Sales Connect與您的銷售團隊溝通的關鍵。
+有趣的時刻是透過[!DNL Marketo Sales Connect]與您的銷售團隊溝通的關鍵。
 
 >[!AVAILABILITY]
 >
->這些僅適用於[Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)和Marketo Sales Connect客戶。
+>這些僅適用於[Marketo銷售Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)和[!DNL Marketo Sales Connect]客戶。
 
 >[!PREREQUISITES]
 >
->* 您必須有Salesforce CRM[&#128279;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}的連線
->* 您必須是Salesforce中的銷售機會或聯絡負責人
->* 您必須擁有[授與Marketo Engage連線](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}存取權的存取權
+>* 您必須有Salesforce CRM[的](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}連線
+>* 您必須是Salesforce中的銷售機會或聯絡人擁有者
+>* 您必須擁有[授與Marketo Engage連線存取權](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}的存取權
 
 ## 什麼是有趣的時刻？ {#what-is-an-interesting-moment}
 
@@ -39,15 +39,15 @@ ht-degree: 0%
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. 拖曳到&#x200B;**有趣的時刻**&#x200B;流程步驟上。
+1. 拖曳至&#x200B;**[!UICONTROL Interesting Moments]**&#x200B;流程步驟上。
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. 選取&#x200B;**型別** （電子郵件、里程碑或網頁）。
+1. 選取&#x200B;**型別** （[!UICONTROL Email]、[!UICONTROL Milestone]或[!UICONTROL Web]）。
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. 在&#x200B;**描述**&#x200B;欄位中寫訊息給您的銷售團隊，說明此動作重要的原因。
+1. 在&#x200B;**[!UICONTROL Description]**&#x200B;欄位中寫入訊息給您的銷售團隊，說明此動作重要的原因。
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -61,8 +61,8 @@ ht-degree: 0%
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
-## Sales Connect中某個有趣的時刻看起來像什麼？ {#what-does-an-interesting-moment-look-like-in-sales-connect}
+## [!DNL Sales Connect]中某個有趣的時刻是什麼樣子？ {#what-does-an-interesting-moment-look-like-in-sales-connect}
 
-有趣的時刻將會即時顯示在使用者的即時摘要中。 我們利用Salesforce中的銷售機會擁有者ID，向使用者展示他們擁有之相關銷售機會的有趣時刻。 使用者可以按一下潛在客戶名稱旁邊的下拉式清單，透過電子郵件/電話/銷售促銷活動快速後續追蹤潛在客戶。
+有趣的時刻將會即時顯示在使用者的即時摘要中。 我們利用[!DNL Salesforce]中的潛在客戶擁有者ID來顯示使用者對於他們擁有的相關潛在客戶所感興趣的時刻。 使用者可以按一下潛在客戶名稱旁邊的下拉式清單，透過電子郵件/電話/銷售促銷活動快速後續追蹤潛在客戶。
 
 ![](assets/engagement.jpg)

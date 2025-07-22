@@ -4,10 +4,10 @@ description: 將您的Campaign另存為範本 — Marketo檔案 — 產品檔案
 title: 將您的行銷活動儲存為範本
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您曾經花費時間建立完美的網路行銷活動嗎？ 您現在可以將它儲存為範本，以便日後輕鬆重複使用。
 
-1. 前往&#x200B;**網路行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -27,10 +27,10 @@ ht-degree: 0%
 
    ![](assets/my-campaign-edit.jpg)
 
-1. 勾選「使用為範本」，然後按一下「**儲存**」。
+1. 檢查&#x200B;**[!UICONTROL Use as template]**&#x200B;並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2015-2-25-19-3a56-3a58.png)   ![](assets/image2015-2-25-19-3a56-3a37.png)
 
-1. 完成了！ 下次建立行銷活動並選取範本時，請檢查「設定行銷活動」頁面中的「我的範本」以檢視您儲存的範本。
+1. 完成了！下次您建立行銷活動並選取範本時，請檢查「設定行銷活動」頁面中的[!UICONTROL My Templates]以檢視您儲存的範本。
 
    ![](assets/image2014-9-17-20-3a55-3a31.png)

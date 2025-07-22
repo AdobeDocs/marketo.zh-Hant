@@ -1,18 +1,18 @@
 ---
-description: 預設Veeva欄位對應 — Marketo檔案 — 產品檔案
-title: 預設Veeva欄位對應
+description: 預設 [!DNL Veeva] 欄位對應 — Marketo檔案 — 產品檔案
+title: 預設 [!DNL Veeva] 欄位對應
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 34%
+source-wordcount: '253'
+ht-degree: 36%
 
 ---
 
-# 預設Veeva欄位對應 {#default-veeva-field-mapping}
+# 預設[!DNL Veeva]欄位對應 {#default-veeva-field-mapping}
 
-當您初次將Marketo Engage帳戶與Veeva同步時，Marketo會自動在內建的Veeva和Marketo欄位之間建立這些關聯。 Marketo也會同步處理帳戶和連絡人上的自訂欄位。
+當您初次將Marketo Engage帳戶與[!DNL Veeva]同步時，Marketo會自動在內建[!DNL Veeva]與Marketo欄位之間建立這些關聯。 Marketo也會同步處理帳戶和連絡人上的自訂欄位。
 
 ## 連絡人欄位 {#contact-fields}
 
@@ -78,7 +78,7 @@ ht-degree: 34%
     </tr>
     <tr>
       <td>郵寄國家</td>
-      <td>國家</td>
+      <td>國家/地區</td>
     </tr>
     <tr>
       <td>MailingPostalCode</td>
@@ -86,7 +86,7 @@ ht-degree: 34%
     </tr>
     <tr>
       <td>MailingState</td>
-      <td>州別</td>
+      <td>狀態</td>
     </tr>
     <tr>
       <td>郵寄街</td>
@@ -154,8 +154,8 @@ ht-degree: 34%
       <td>公司附註</td>
     </tr>
     <tr>
-      <td>產業</td>
-      <td>產業</td>
+      <td>行業</td>
+      <td>行業</td>
     </tr>
     <tr>
       <td>已刪除</td>
@@ -192,7 +192,7 @@ ht-degree: 34%
   </tbody>
 </table>
 
-## Marketo中的Veeva相關系統欄位（唯讀） {#veeva-related-system-fields-in-marketo}
+## Marketo中與[!DNL Veeva]相關的系統欄位（唯讀） {#veeva-related-system-fields-in-marketo}
 
 這些欄位是在Marketo中建立，但客戶無法調整。
 
@@ -209,20 +209,20 @@ ht-degree: 34%
   </thead>
   <tbody>
     <tr>
-      <td>Veeva Id</td>
-      <td>18個字元的Salesforce Id</td>
+      <td>[!DNL Veeva] ID</td>
+      <td>18個字元的[!DNL Salesforce]識別碼</td>
     </tr>
     <tr>
-      <td>Veeva型別</td>
+      <td>[!DNL Veeva] 類型</td>
       <td>連絡人。 如果空白，該潛在客戶在Marketo中只會以個人身分存在</td>
     </tr>
     <tr>
-      <td>Veeva建立日期</td>
-      <td>以SFDC建立的日期(可能與Marketo中的建立日期不同)</td>
+      <td>[!DNL Veeva] 建立日期</td>
+      <td>在SFDC中建立的日期(可能與Marketo中的建立日期不同)</td>
     </tr>
     <tr>
-      <td>Veeva已刪除</td>
-      <td>此人之前在SFDC中，但現在已被刪除，僅居住在Marketo中</td>
+      <td>[!DNL Veeva] 已刪除</td>
+      <td>此人之前在SFDC但遭到刪除，現在僅居住在Marketo</td>
     </tr>
   </tbody>
 </table>

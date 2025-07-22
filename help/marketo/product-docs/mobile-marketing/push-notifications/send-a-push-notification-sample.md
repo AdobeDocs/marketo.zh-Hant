@@ -4,9 +4,9 @@ description: 傳送推播通知範例 — Marketo檔案 — 產品檔案
 title: 傳送推播通知範例
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 1. 您可透過三種方式傳送範例：
 
-   在左側的樹狀結構中，以滑鼠右鍵按一下推播通知資產，然後按一下&#x200B;**傳送範例**。
+   在左側的樹狀結構中，以滑鼠右鍵按一下推播通知資產，然後按一下&#x200B;**[!UICONTROL Send Sample]**。
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   或者，從[推播通知]動作功能表，按一下[傳送範例]。**&#x200B;**
+   或者，從推播通知動作功能表，按一下&#x200B;**[!UICONTROL Send Sample]**。
 
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
-   或者，在推播通知編輯器中，按一下&#x200B;**傳送範例**。
+   或者，在推播通知編輯器中按一下&#x200B;**[!UICONTROL Send Sample]**。
 
    ![](assets/image2015-7-20-13-3a29-3a3.png)
 
@@ -37,23 +37,23 @@ ht-degree: 0%
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   或者，按一下&#x200B;**新增裝置**&#x200B;至[新增測試裝置](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md)以傳送範例。
+   或者，按一下&#x200B;**[!UICONTROL Add Device]**&#x200B;以[新增測試裝置](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md)以傳送樣本。
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
 1. 您有兩種方式可將裝置連線至應用程式。
 
-   使用第一個選項，按一下&#x200B;**使用裝置瀏覽URL**&#x200B;按鈕，從欄位複製URL並以電子郵件或文字訊息傳送給您的裝置。 從裝置，點選URL。 當狀態顯示連線時，請按一下[傳送]。**&#x200B;**
+   使用第一個選項，按一下&#x200B;**[!UICONTROL Visit URL with device]**&#x200B;按鈕，從欄位複製URL並以電子郵件或文字訊息傳送至您的裝置。 從裝置，點選URL。 當狀態顯示連線時，請按一下&#x200B;**[!UICONTROL Send]**。
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
-   或者，使用第二個選項，按一下&#x200B;**使用裝置掃描QR碼**&#x200B;按鈕，然後使用裝置掃描QR碼。 當狀態顯示連線時，請按一下[傳送]。**&#x200B;**
+   或者，使用第二個選項，按一下&#x200B;**[!UICONTROL Scan QR code with device]**&#x200B;按鈕，然後使用裝置掃描QR碼。 當狀態顯示連線時，請按一下&#x200B;**[!UICONTROL Send]**。
 
    ![](assets/image2015-7-29-8-3a31-3a20.png)
 
    >[!TIP]
    >
-   >您是否已成功新增測試裝置，但未在&#x200B;**傳送至**&#x200B;欄位中看到該裝置？ 檢查這些以進行疑難排解：
+   >您是否已成功新增測試裝置，但未在&#x200B;**[!UICONTROL Send to]**&#x200B;欄位中看到該裝置？ 檢查這些以進行疑難排解：
    >
    >* 系統會針對與推播通知相關聯的應用程式開啟推播通知。
    >

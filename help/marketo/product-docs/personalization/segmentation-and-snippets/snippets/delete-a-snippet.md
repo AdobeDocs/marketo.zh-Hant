@@ -4,9 +4,9 @@ description: 刪除程式碼片段 — Marketo檔案 — 產品檔案
 title: 刪除程式碼片段
 exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 刪除您不再需要的片段。
 
-1. 移至&#x200B;**設計工作室**。
+1. 移至&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
-1. 移至您的程式碼片段，然後在&#x200B;**程式碼片段動作**&#x200B;下按一下&#x200B;**刪除**。
+1. 移至您的程式碼片段，然後在&#x200B;**[!UICONTROL Snippet Actions]**&#x200B;下方按一下&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
-1. 按一下「**刪除**」以確認，或僅按一下「**取消**」。
+1. 按一下「**[!UICONTROL Delete]**」以確認，或只按&#x200B;**[!UICONTROL Cancel]**。
 
    ![](assets/image2014-9-16-10-3a44-3a8.png)
 

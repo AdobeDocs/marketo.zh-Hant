@@ -4,9 +4,9 @@ description: 瞭解智慧清單 — Marketo檔案 — 產品檔案
 title: 瞭解智慧清單
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 智慧清單索引標籤 {#smart-list-tab}
 
-您可新增並定義篩選器，以在「人員」標籤中檢視特定群組。
+您新增並定義篩選器，以檢視[!UICONTROL People]索引標籤中的特定群組人員。
 
 ![](assets/understanding-smart-lists-3.png)
 

@@ -4,10 +4,10 @@ description: 進階搜尋概觀 — Marketo檔案 — 產品檔案
 title: 進階搜尋概觀
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 1%
+source-wordcount: '376'
+ht-degree: 2%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 1%
 
 ## 如何存取進階搜尋 {#how-to-access-advanced-search}
 
-1. 按一下&#x200B;**指揮中心**。
+1. 按一下「**[!UICONTROL Command Center]**」。
 
    ![](assets/one.png)
 
-1. 按一下&#x200B;**電子郵件**。
+1. 按一下「**[!UICONTROL Emails]**」。
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ ht-degree: 1%
 
    ![](assets/three.png)
 
-1. 按一下&#x200B;**進階搜尋**。
+1. 按一下「**[!UICONTROL Advanced Search]**」。
 
    ![](assets/four.png)
 
@@ -37,25 +37,25 @@ ht-degree: 1%
 
 **日期**
 
-選擇搜尋的日期範圍。 預設日期會根據您選擇的電子郵件狀態（已傳送、未傳遞、擱置中）而更新。
+選擇搜尋的日期範圍。 預設日期會根據您選擇的電子郵件狀態([!UICONTROL Sent]、[!UICONTROL Undelivered]、[!UICONTROL Pending])而更新。
 
 ![](assets/date.png)
 
 **誰**
 
-在「人員」區段中依電子郵件收件者/寄件者篩選。
+在[!UICONTROL Who]區段中依電子郵件收件者/寄件者篩選。
 
 ![](assets/who.png)
 
 | 下拉式清單 | 說明 |
 |---|---|
-| **以**&#x200B;檢視 | 在您的Sales Connect執行個體中依特定寄件者篩選（此選項僅供管理員使用）。 |
-| **依群組** | 依特定收件者群組篩選電子郵件。 |
-| **由人員** | 依特定收件者篩選。 |
+| **[!UICONTROL View As]** | 依您[!DNL Sales Connect]執行個體中的特定寄件者篩選（此選項僅供管理員使用）。 |
+| **[!UICONTROL By Group]** | 依特定收件者群組篩選電子郵件。 |
+| **[!UICONTROL By Person]** | 依特定收件者篩選。 |
 
 **時間**
 
-依建立日期、傳送日期、失敗日期或排程日期選擇。 可用選項會根據您選擇的電子郵件狀態（「已傳送」、「未傳遞」、「擱置中」）而變更。
+依建立日期、傳送日期、失敗日期或排程日期選擇。 可用選項會根據您選擇的電子郵件狀態而變更([!UICONTROL Sent]、[!UICONTROL Undelivered]、[!UICONTROL Pending])。
 
 ![](assets/when.png)
 
@@ -85,9 +85,9 @@ ht-degree: 1%
 
 | 狀態 | 說明 |
 |---|---|
-| **已排程** | 已從撰寫視窗（Salesforce或Web應用程式）、電子郵件外掛程式或促銷活動排程的電子郵件。 |
-| **草稿** | 目前處於草稿狀態的電子郵件。 電子郵件需要主旨行和收件者才能儲存為草稿。 |
-| **進行中** | 正在傳送的電子郵件。 電子郵件不應維持此狀態超過數秒鐘。 |
+| **[!UICONTROL Scheduled]** | 已從撰寫視窗（[!DNL Salesforce]或Web App）、電子郵件外掛程式或促銷活動排程的電子郵件。 |
+| **[!UICONTROL Drafts]** | 目前處於草稿狀態的電子郵件。 電子郵件需要主旨行和收件者才能儲存為草稿。 |
+| **[!UICONTROL In Progress]** | 正在傳送的電子郵件。 電子郵件不應維持此狀態超過數秒鐘。 |
 
 ***狀態：未傳遞***
 
@@ -97,19 +97,19 @@ ht-degree: 1%
 
 | 狀態 | 說明 |
 |---|---|
-| **失敗** | 當電子郵件無法從Sales Connect傳送時（常見原因包括：電子郵件會傳送給已取消訂閱/遭到封鎖的連絡人，或是在填入動態欄位時發生問題）。 |
-| **已退回** | 收件者的伺服器拒絕電子郵件時，該電子郵件會標示為已退回。 此處只會顯示透過Sales Connect伺服器傳送的電子郵件。 |
-| **垃圾訊息** | 收件者將電子郵件標示為垃圾訊息時（未經請求的電子郵件的常見詞語）。 此處只會顯示透過Sales Connect伺服器傳送的電子郵件。 |
+| **[!UICONTROL Failed]** | 當電子郵件無法從[!DNL Sales Connect]傳送時（常見原因包括：電子郵件正在傳送給已取消訂閱/封鎖的連絡人，或是在填入動態欄位時發生問題）。 |
+| **[!UICONTROL Bounced]** | 收件者的伺服器拒絕電子郵件時，該電子郵件會標示為已退回。 此處只會顯示透過[!DNL Sales Connect]伺服器傳送的電子郵件。 |
+| **[!UICONTROL Spam]** | 收件者將電子郵件標示為垃圾訊息時（未經請求的電子郵件的常見詞語）。 此處只會顯示透過[!DNL Sales Connect]伺服器傳送的電子郵件。 |
 
 ## 已儲存的搜尋 {#saved-searches}
 
 以下說明如何建立已儲存的搜尋。
 
-1. 所有篩選器都就緒後，按一下&#x200B;**儲存篩選器為**。
+1. 所有篩選器都就緒後，按一下&#x200B;**[!UICONTROL Save Filters As]**。
 
    ![](assets/save-search-1.png)
 
-1. 提供搜尋名稱，然後按一下[儲存]。**&#x200B;**
+1. 提供搜尋名稱，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/save-search-2.png)
 

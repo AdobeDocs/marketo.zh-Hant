@@ -4,9 +4,9 @@ description: 編輯電子郵件的預測性內容 — Marketo檔案 — 產品�
 title: 編輯電子郵件的預測性內容
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->所有內容頁面上的預測性內容[&#128279;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的內容必須是已核准。
+>在[頁面上的預測性內容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的內容必須是[!UICONTROL All Content]已核准。
 
-1. 在「預測性內容」頁面上，按一下標題以開啟編輯器。
+1. 在[!UICONTROL Predictive Content]頁面上，按一下標題以開啟編輯器。
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. 編輯頁面隨即開啟。 預設會顯示&#x200B;**電子郵件**。
+1. 編輯頁面隨即開啟。 預設會顯示&#x200B;**[!UICONTROL Email]**。
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >如果您變更了按鈕標籤，當您儲存變更或預覽影像時，按鈕標籤將會更新。
 
-1. 若要新增或編輯影像URL，請按一下&#x200B;**編輯影像**。
+1. 若要新增或編輯影像URL，請按一下&#x200B;**[!UICONTROL Edit Image]**。
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
    >
    >為確保最佳品質，影像必須等於或小於400x400畫素。
 
-1. 插入影像URL並按一下&#x200B;**新增**。
+1. 插入影像URL並按一下&#x200B;**[!UICONTROL Add]**。
 
    ![](assets/five.png)
 
-1. 按一下並拖曳滑桿以變更影像大小。 然後按一下並拖曳裁切方塊，以隔離您要使用的影像區域。 完成時，按一下&#x200B;**預覽**。
+1. 按一下並拖曳滑桿以變更影像大小。 然後按一下並拖曳裁切方塊，以隔離您要使用的影像區域。 完成時，按一下&#x200B;**[!UICONTROL Preview]**。
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ ht-degree: 0%
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. 選擇性地按一下&#x200B;**類別**&#x200B;欄位，並將類別新增至內容。 選項來自您已設定的[類別](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)。
+1. 或者，按一下&#x200B;**[!UICONTROL Categories]**&#x200B;欄位並新增類別至內容。 選項來自您已設定的[類別](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)。
 
    ![](assets/eight.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/save.png)
 

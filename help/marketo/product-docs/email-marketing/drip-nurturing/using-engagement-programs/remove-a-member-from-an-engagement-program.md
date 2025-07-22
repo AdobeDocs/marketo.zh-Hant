@@ -4,16 +4,16 @@ description: 從參與方案中移除成員 — Marketo檔案 — 產品檔案
 title: 從參與方案中移除成員
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
 # 從參與方案中移除成員 {#remove-a-member-from-an-engagement-program}
 
-糟糕！ 那些人是如何進去的？ 您可以使用&#x200B;**變更方案狀態**&#x200B;流程步驟，從參與方案中移除成員。
+糟糕！ 那些人是如何進去的？ 您可以使用&#x200B;**[!UICONTROL Change Program Status]**&#x200B;流程步驟從參與方案中移除成員。
 
 >[!TIP]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 流程步驟 {#flow-step}
 
-1. 拖曳至&#x200B;**變更方案狀態**&#x200B;流程步驟。
+1. 拖曳至&#x200B;**[!UICONTROL Change Program Status]**&#x200B;流程步驟。
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
-   選擇狀態，**不在程式**&#x200B;中。
+   選擇狀態&#x200B;**[!UICONTROL Not in Program]**。
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 暫停人員  {#pause-people}
 
-有時您只想暫停參與方案中的人員，不想將其移除。 這是透過&#x200B;**變更參與計畫節奏**&#x200B;完成的。
+有時您只想暫停參與方案中的人員，不想將其移除。 這已透過&#x200B;**[!UICONTROL Change Engagement Program Cadence]**&#x200B;完成。
 
 >[!MORELIKETHIS]
 >

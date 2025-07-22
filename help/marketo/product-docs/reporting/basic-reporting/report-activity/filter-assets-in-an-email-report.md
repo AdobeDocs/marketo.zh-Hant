@@ -4,9 +4,9 @@ description: 在電子郵件報告中篩選Assets - Marketo檔案 — 產品檔�
 title: 在電子郵件報告中篩選Assets
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -27,12 +27,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a53-3a29.png)
 
-1. 按一下「**設定**」標籤，然後拖曳至篩選器上。
+1. 按一下「**[!UICONTROL Setup]**」索引標籤並拖曳至篩選器上。
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
-   * **Design Studio電子郵件**：全域資產，在Design Studio中管理。
-   * **行銷活動電子郵件**：行銷活動標籤上方案中的本機資產。
+   * **[!UICONTROL Design Studio Emails]**：全域資產，在Design Studio中管理。
+   * **[!UICONTROL Marketing Activities Emails]**：行銷活動標籤上方案中的本機資產。
    * **封存的電子郵件**：非使用中、已淘汰的電子郵件。
 
 1. 選擇要包含在報告中的資料夾和特定電子郵件。
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >如果您選取資料夾，報表會包含報表執行時資料夾所包含的所有內容。
 
-1. 您已完成！ 按一下「**報表**」索引標籤以檢視篩選報表。
+1. 您已完成！ 按一下「**[!UICONTROL Report]**」索引標籤以檢視篩選的報告。
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 

@@ -4,9 +4,9 @@ description: 將成員新增至事件程式 — Marketo檔案 — 產品檔案
 title: 將成員新增至事件程式
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 1. [建立智慧型行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)。
 
-1. 在您於步驟二中建立的智慧行銷活動的智慧清單中，尋找並新增&#x200B;**清單**&#x200B;的成員。
+1. 在您於步驟二中建立之Smart Campaign的「智慧列示」中，尋找並新增&#x200B;**[!UICONTROL Member of List]**&#x200B;篩選器。
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 在流程中，尋找並新增&#x200B;**變更方案狀態**&#x200B;流程步驟。
+1. 在流程中，尋找並新增&#x200B;**[!UICONTROL Change Program Status]**&#x200B;流程步驟。
 
    ![](assets/five.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 在[排程]索引標籤中，按一下[**執行一次**]。
+1. 在[!UICONTROL Schedule]索引標籤中，按一下&#x200B;**[!UICONTROL Run Once]**。
 
    ![](assets/eight.png)
 
-1. 選取「立即執行」**&#x200B;**&#x200B;並按一下「執行」**&#x200B;**。
+1. 選取&#x200B;**[!UICONTROL Run Now]**&#x200B;並按一下&#x200B;**[!UICONTROL Run]**。
 
    ![](assets/nine.png)
 

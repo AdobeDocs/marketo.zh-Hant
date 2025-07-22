@@ -4,16 +4,16 @@ description: 前瞻分析儀表板功能概觀 — Marketo檔案 — 產品檔�
 title: 前瞻分析儀表板功能概觀
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1525'
+source-wordcount: '1473'
 ht-degree: 0%
 
 ---
 
 # 前瞻分析儀表板功能概觀 {#insights-dashboard-feature-overview}
 
-進一步瞭解Sales Insights儀表板中的可用功能。
+深入瞭解[!DNL Sales Insights]儀表板中可用的功能。
 
 >[!PREREQUISITES]
 >
@@ -26,7 +26,7 @@ ht-degree: 0%
 **參與Velocity網格**
 
 * 此智慧格線包含過去90天有趣的時刻、電子郵件和網頁活動
-* 使用者可以選擇「顯示帳戶」活動，這會將所有帳戶層級的「有趣時刻」、電子郵件和網頁活動，層層化於連絡人檢視中
+* 使用者可以選擇&quot;[!UICONTROL Show Account]&quot;活動，這會在連絡人檢視中分層顯示所有帳戶層級的「有趣的時刻」、電子郵件和Web活動
 * 使用者可反白標示特定的一週，以檢視該周內的活動
 * 預設檢視：選取本週
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 * 不是特定於聯絡人/銷售機會(也就是說，行銷活動清單是在Marketo執行個體中排程的所有電子郵件行銷活動的通用清單)。 所有銷售機會、連絡人、客戶和機會面板中的行銷活動清單將相同
 * 如果促銷活動週期是這樣的，在接下來的90天內執行超過三次，則只會在任何給定時間點顯示接下來的三次執行(類似Marketo中的行為)
 * 本區段中的活動詳細資訊卡將有一個預覽選項。 如果流程包含多個傳送電子郵件步驟，則所有電子郵件都可供預覽。 在傳送電子郵件流程步驟中，如果有多個「電子郵件選擇」，則預設選項將可供預覽
-* 篩選條件包括「搜尋」和「日期範圍」
+* 篩選器包括&quot;[!UICONTROL Search]&quot;和&quot;[!UICONTROL Date Range]&quot;
 
 ![](assets/insights-dashboard-feature-overview-2.png)
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 * 選取受邀事件會顯示特定連絡人受邀參與的事件，以及成員狀態
 * 選取所有事件將顯示未來90天內已排程的事件清單
 * 本區段中的活動詳細資訊卡片具有預覽選項
-* 篩選條件包括「搜尋」、「僅顯示受邀事件」和「日期範圍」
+* 篩選器包含&quot;[!UICONTROL Search]&quot;、&quot;[!UICONTROL Show only invited events]&quot;和&quot;[!UICONTROL Date Range]&quot;
 
 ![](assets/insights-dashboard-feature-overview-3.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 * 此智慧格線包含過去90天有趣的時刻、電子郵件和網頁活動
 * 使用者可反白標示特定的一週，以檢視該周內的活動
 * 預設檢視：選取本週
-* 潛在客戶無法使用「顯示帳戶活動」功能，因為在Salesforce將其轉換為聯絡人之前，它不屬於任何帳戶
+* 潛在客戶無法使用&quot;[!UICONTROL Show Account Activity]&quot;功能，因為在它轉換為聯絡人之前，它不是[!DNL Salesforce]中任何帳戶的一部分
 
 **參與向下展開與摘要**
 
@@ -88,7 +88,7 @@ ht-degree: 0%
 * 不是特定於聯絡人/銷售機會(也就是說，行銷活動清單是在Marketo執行個體中排程的所有電子郵件行銷活動的通用清單)。 所有銷售機會、連絡人、客戶和機會面板中的行銷活動清單將相同
 * 如果促銷活動週期是這樣的，在接下來的90天內執行超過三次，則只會在任何給定時間點顯示接下來的三次執行(類似Marketo中的行為)
 * 本區段中的活動詳細資訊卡將有一個預覽選項。 如果流程包含多個傳送電子郵件步驟，則所有電子郵件都可供預覽。 在傳送電子郵件流程步驟中，如果有多個「電子郵件選擇」，則預設選項將可供預覽
-* 篩選條件包括「搜尋」和「日期範圍」
+* 篩選器包括&quot;[!UICONTROL Search]&quot;和&quot;[!UICONTROL Date Range]&quot;
 
 ![](assets/insights-dashboard-feature-overview-4.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 * 選取受邀事件會顯示特定連絡人受邀參與的事件，以及成員狀態
 * 選取所有事件將顯示未來90天內已排程的事件清單
 * 本區段中的活動詳細資訊卡片具有預覽選項
-* 篩選條件包括「搜尋」、「僅顯示受邀事件」和「日期範圍」
+* 篩選器包含&quot;[!UICONTROL Search]&quot;、&quot;[!UICONTROL Show only invited events]&quot;和&quot;[!UICONTROL Date Range]&quot;
 
 ![](assets/insights-dashboard-feature-overview-5.png)
 
@@ -128,7 +128,7 @@ ht-degree: 0%
 * 不是特定於聯絡人/銷售機會(也就是說，行銷活動清單是在Marketo執行個體中排程的所有電子郵件行銷活動的通用清單)。 所有銷售機會、連絡人、客戶和機會面板中的行銷活動清單將相同
 * 如果促銷活動週期是這樣的，在接下來的90天內執行超過三次，則只會在任何給定時間點顯示接下來的三次執行(類似Marketo中的行為)
 * 本區段中的活動詳細資訊卡將有一個預覽選項。 如果流程包含多個傳送電子郵件步驟，則所有電子郵件都可供預覽。 在傳送電子郵件流程步驟中，如果有多個「電子郵件選擇」，則預設選項將可供預覽
-* 篩選條件包括「搜尋」和「日期範圍」
+* 篩選器包括&quot;[!UICONTROL Search]&quot;和&quot;[!UICONTROL Date Range]&quot;
 
 事件標籤：
 
@@ -137,7 +137,7 @@ ht-degree: 0%
 * 選取受邀事件會顯示特定連絡人受邀參與的事件，以及成員狀態
 * 選取所有事件將顯示未來90天內已排程的事件清單
 * 本區段中的活動詳細資訊卡片具有預覽選項
-* 篩選條件包括「搜尋」、「僅顯示受邀事件」和「日期範圍」
+* 篩選器包含&quot;[!UICONTROL Search]&quot;、&quot;[!UICONTROL Show only invited events]&quot;和&quot;[!UICONTROL Date Range]&quot;
 
 ## 機會配置 {#opportunity-layout}
 
@@ -162,7 +162,7 @@ ht-degree: 0%
 * 不是特定於聯絡人/銷售機會(也就是說，行銷活動清單是在Marketo執行個體中排程的所有電子郵件行銷活動的通用清單)。 所有銷售機會、連絡人、客戶和機會面板中的行銷活動清單將相同
 * 如果促銷活動週期是這樣的，在接下來的90天內執行超過三次，則只會在任何給定時間點顯示接下來的三次執行(類似Marketo中的行為)
 * 本區段中的活動詳細資訊卡將有一個預覽選項。 如果流程包含多個傳送電子郵件步驟，則所有電子郵件都可供預覽。 在傳送電子郵件流程步驟中，如果有多個「電子郵件選擇」，則預設選項將可供預覽
-* 篩選條件包括「搜尋」和「日期範圍」
+* 篩選器包括&quot;[!UICONTROL Search]&quot;和&quot;[!UICONTROL Date Range]&quot;
 
 事件標籤：
 
@@ -171,8 +171,8 @@ ht-degree: 0%
 * 選取受邀事件會顯示特定連絡人受邀參與的事件，以及成員狀態
 * 選取所有事件將顯示未來90天內已排程的事件清單
 * 本區段中的活動詳細資訊卡片具有預覽選項
-* 篩選條件包括「搜尋」、「僅顯示受邀事件」和「日期範圍」
+* 篩選器包含&quot;[!UICONTROL Search]&quot;、&quot;[!UICONTROL Show only invited events]&quot;和&quot;[!UICONTROL Date Range]&quot;
 
 >[!NOTE]
 >
->如果您的帳戶或機會有800位以上的連絡人，儀表板將不會顯示任何資料。 不過，您可以前往個別連絡人，檢視其見解和參與度。 如果您的帳戶有超過800個連絡人，「顯示帳戶層級活動」將會停用。
+>如果您的帳戶或機會有800位以上的連絡人，儀表板將不會顯示任何資料。 不過，您可以前往個別連絡人，檢視其見解和參與度。 如果您的帳戶有超過800位連絡人，&quot;[!UICONTROL Show Account Level Activity]&quot;將會停用。

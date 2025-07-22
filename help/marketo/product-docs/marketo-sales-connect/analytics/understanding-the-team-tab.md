@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352414
-description: 瞭解團隊標籤 — Marketo檔案 — 產品檔案
-title: 瞭解「專案團隊」標籤
+description: 瞭解[!UICONTROL Team]標籤 — Marketo檔案 — 產品檔案
+title: 瞭解[!UICONTROL Team]標籤
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-# 瞭解「專案團隊」標籤 {#understanding-the-team-tab}
+# 瞭解[!UICONTROL Team]標籤 {#understanding-the-team-tab}
 
-在「團隊」標籤中，我們會強調三個重要量度。
+在[!UICONTROL Team]索引標籤中，我們會強調三個重要量度。
 
 ## 使用範本傳送的電子郵件 {#emails-sent-with-template}
 

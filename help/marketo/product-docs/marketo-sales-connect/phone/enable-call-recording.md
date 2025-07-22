@@ -4,30 +4,30 @@ description: 啟用通話錄製 — Marketo檔案 — 產品檔案
 title: 啟用通話錄製
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # 啟用通話錄製 {#enable-call-recording}
 
-身為管理員，您可以為Sales Connect通話啟用通話錄製。 記錄團隊的電話是指導銷售代表最佳電話慣例的好方法。
+身為管理員，您可以啟用[!DNL Sales Connect]通話的通話錄製。 記錄團隊的電話是指導銷售代表最佳電話慣例的好方法。
 
-1. 按一下「設定」圖示並選取&#x200B;**設定**。
+1. 按一下「設定」圖示並選取&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/one.png)
 
-1. 在[管理設定]下，按一下[一般] **&#x200B;**。
+1. 在[!UICONTROL Admin Settings]底下，按一下&#x200B;**[!UICONTROL General]**。
 
    ![](assets/two.png)
 
-1. 向下捲動至「Sales Connect電話設定」，並選取&#x200B;**啟用通話錄製**&#x200B;切換按鈕。
+1. 向下捲動至「[!DNL Sales Connect]電話設定」並選取「**[!UICONTROL Enable call recording]**」切換按鈕。
 
    ![](assets/three.png)
 
-1. 如果您想要讓賣家能夠自行啟用或停用通話錄製，請按一下&#x200B;**所有團隊成員的可選錄製**。 如果您要自動錄製所有通話，請按一下&#x200B;**錄製所有通話**。
+1. 如果您想要讓賣家能夠自行啟用或停用通話錄製，請按一下&#x200B;**[!UICONTROL Optional recording for all team members]**。 如果您要自動記錄所有通話，請按一下&#x200B;**[!UICONTROL Record all calls]**。
 
    ![](assets/four.png)
 

@@ -4,10 +4,10 @@ description: 為您的自由表單登陸頁面新增行動裝置檢視 — Marke
 title: 為您的自由表單登陸頁面新增行動裝置檢視
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 1%
+source-wordcount: '126'
+ht-degree: 2%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->行動檢視可在480px寬（或更小）的熒幕上運作。 換句話說，就是智慧型手機。 以下是裝置解析度[&#128279;](https://www.mydevice.io/)的更多資訊。
+>行動檢視可在480px寬（或更小）的熒幕上運作。 換句話說，就是智慧型手機。 以下是裝置解析度[的更多](https://www.mydevice.io/)資訊。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,15 +27,15 @@ ht-degree: 1%
 
    ![](assets/choose-landing-page.jpg)
 
-1. 按一下&#x200B;**編輯草稿**。
+1. 按一下「**[!UICONTROL Edit Draft]**」。
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. 按一下&#x200B;**行動裝置**&#x200B;標籤。
+1. 按一下「**[!UICONTROL Mobile]**」標籤。
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
-1. 按一下&#x200B;**啟動**。
+1. 按一下「**[!UICONTROL Activate]**」。
 
    ![](assets/image2015-1-22-15-3a48-3a47.png)
 
@@ -43,7 +43,7 @@ ht-degree: 1%
    >
    >可能需要升級自由格式範本。 如果您看到該訊息，請快速閱讀如何[讓現有的自由格式登陸頁面範本行動裝置相容](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)。
 
-1. 太棒了！ 您現在已啟動登陸頁面的行動版本。 按一下 **關閉**。
+1. 太棒了！ 您現在已啟動登陸頁面的行動版本。 按一下「**[!UICONTROL Close]**」。
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 

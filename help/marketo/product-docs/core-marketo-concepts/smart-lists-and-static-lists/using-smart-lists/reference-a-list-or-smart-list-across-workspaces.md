@@ -4,9 +4,9 @@ description: 跨工作區參考清單或智慧清單 — Marketo檔案 — 產�
 title: 跨工作區參考清單或智慧清單
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 共用清單或智慧清單 {#share-a-list-or-smart-list}
 
-1. 移至&#x200B;**[!UICONTROL 資料庫]**。
+1. 移至&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
-1. 以滑鼠右鍵按一下行銷活動資料夾。 選取&#x200B;**新資料夾**。
+1. 以滑鼠右鍵按一下行銷活動資料夾。 選擇「**[!UICONTROL New Folder]**」。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >如果Assets巢狀內嵌於資料夾中，只能跨工作區共用。
 
-1. 為資料夾命名，然後按一下[建立]。**&#x200B;**
+1. 命名資料夾並按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-4.png)
 
-1. 用滑鼠右鍵按一下新資料夾，然後選取&#x200B;**[!UICONTROL 共用資料夾]**。
+1. 用滑鼠右鍵按一下新資料夾，然後選取&#x200B;**[!UICONTROL Share folder]**。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-5.png)
 
-1. 選擇要共用的&#x200B;**[!UICONTROL Workspace]**，然後按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 選擇要共用的&#x200B;**[!UICONTROL Workspace]**&#x200B;並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 

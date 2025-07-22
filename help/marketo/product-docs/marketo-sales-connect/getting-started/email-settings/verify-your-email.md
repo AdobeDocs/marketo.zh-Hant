@@ -4,10 +4,10 @@ description: 驗證您的電子郵件 — Marketo檔案 — 產品檔案
 title: 驗證您的電子郵件
 exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 如果您有未驗證的電子郵件身分，請遵循以下步驟。
 
-1. 按一下右上方的齒輪圖示，然後選擇&#x200B;**設定**。
+1. 按一下右上方的齒輪圖示，然後選擇&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/verify-your-email-1.png)
 
-1. 在「我的帳戶」底下，按一下&#x200B;**電子郵件設定**。
+1. 在[!UICONTROL My Account]底下，按一下&#x200B;**[!UICONTROL Email Settings]**。
 
    ![](assets/verify-your-email-2.png)
 
-1. 在[地址與簽章]下方，找到您要驗證的電子郵件身分識別，然後按一下[重新傳送驗證電子郵件] **&#x200B;**。 將會傳送新的驗證電子郵件。
+1. 在[!UICONTROL Address and Signature]下方，找到您要驗證的電子郵件身分識別，然後按一下&#x200B;**[!UICONTROL Resend Verify Email]**。 將會傳送新的驗證電子郵件。
 
    ![](assets/verify-your-email-3.png)
 
-1. 按一下&#x200B;**重新傳送**。
+1. 按一下「**[!UICONTROL Resend]**」。
 
    ![](assets/verify-your-email-4.png)
 

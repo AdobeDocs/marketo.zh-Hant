@@ -4,9 +4,9 @@ description: 核准/取消核准電子郵件方案 — Marketo檔案 — 產品�
 title: 核准/取消核准電子郵件方案
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 現在您的方案已準備就緒，最後一個步驟是核准它。 方法如下：
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
    >
    >如果您未核准電子郵件方案，電子郵件將不會寄出。
 
-1. 在&#x200B;**核准**&#x200B;方塊下，繼續並按一下&#x200B;**核准方案**。
+1. 在&#x200B;**[!UICONTROL Approval]**&#x200B;圖磚下，繼續並按一下&#x200B;**[!UICONTROL Approve Program]**。
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 如果您改變心意並決定不要將它外傳，您可以取消核准電子郵件程式。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. 在&#x200B;**核准**&#x200B;圖磚下，只要按一下&#x200B;**取消核准方案**&#x200B;即可。
+1. 在&#x200B;**[!UICONTROL Approval]**&#x200B;圖磚下，按一下&#x200B;**[!UICONTROL Unapprove Program]**&#x200B;即可。
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 

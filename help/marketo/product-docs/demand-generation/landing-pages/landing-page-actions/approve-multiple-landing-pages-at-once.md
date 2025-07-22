@@ -4,20 +4,20 @@ description: 一次核准多個登陸頁面 — Marketo檔案 — 產品檔案
 title: 一次核准多個登陸頁面
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 1%
 
 ---
 
 # 一次核准多個登陸頁面 {#approve-multiple-landing-pages-at-once}
 
-1. 移至&#x200B;**設計工作室**。
+1. 移至&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/approve-multiple-landing-pages-at-once-1.png)
 
-1. 按一下&#x200B;**登陸頁面**。
+1. 按一下「**[!UICONTROL Landing Pages]**」。
 
    ![](assets/approve-multiple-landing-pages-at-once-2.png)
 

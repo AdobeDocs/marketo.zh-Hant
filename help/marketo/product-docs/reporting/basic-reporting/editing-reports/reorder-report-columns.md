@@ -4,10 +4,10 @@ description: 重新排序報表欄 — Marketo檔案 — 產品檔案
 title: 重新排序報表欄
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 2%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 您可以變更報表中的欄順序。
 
-1. 移至&#x200B;**行銷活動** （或&#x200B;**Analytics**）區域。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]** （或&#x200B;**[!UICONTROL Analytics]**）區域。
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. 從導覽樹狀結構中選取您的報表，然後按一下「**報表**」標籤。
+1. 從導覽樹狀結構中選取您的報表，然後按一下「**[!UICONTROL Report]**」標籤。
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a50-3a34.png)
 
-1. 完成了！ 欄現在會以新順序顯示。
+1. 完成了！欄現在會以新順序顯示。
 
    ![](assets/image2014-9-16-10-3a50-3a37.png)
 

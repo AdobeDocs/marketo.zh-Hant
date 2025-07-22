@@ -4,10 +4,10 @@ description: 從Box上傳影像和檔案 — Marketo檔案 — 產品檔案
 title: 從方塊上傳影像和檔案
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 3%
 
 ---
 
@@ -15,31 +15,31 @@ ht-degree: 0%
 
 您可以從Box上傳檔案，以用於登入頁面和電子郵件。
 
-1. 移至&#x200B;**設計工作室**。
+1. 移至&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/designstudio-3.png)
 
-1. 移至&#x200B;**影像和檔案**。 按一下&#x200B;**檔案動作**&#x200B;並選取&#x200B;**從網頁抓取影像**。
+1. 移至&#x200B;**[!UICONTROL Images and Files]**。 按一下&#x200B;**[!UICONTROL File Actions]**&#x200B;並選取&#x200B;**[!UICONTROL Grab Images from Web]**。
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
-1. 按一下&#x200B;**方塊**。
+1. 按一下「**[!UICONTROL Box]**」。
 
    ![](assets/image2014-9-16-12-3a50-3a56.png)
 
-1. 輸入您的Box登入。
+1. 輸入您的[!DNL Box]登入資訊。
 
    ![](assets/image2014-9-16-12-3a51-3a10.png)
 
-1. 允許Marketo存取您的Box帳戶。
+1. 允許Marketo存取您的[!DNL Box]帳戶。
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. 選擇要儲存檔案的位置。 然後選取您要上傳的&#x200B;**Box**&#x200B;資料夾。 按一下&#x200B;**下一步**。
+1. 選擇要儲存檔案的位置。 然後選取您要從其中上載的&#x200B;**[!DNL Box]**&#x200B;資料夾。 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 
-1. 選取您要上載的檔案。 按一下&#x200B;**匯入**。
+1. 選取您要上載的檔案。 按一下「**[!UICONTROL Import]**」。
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 

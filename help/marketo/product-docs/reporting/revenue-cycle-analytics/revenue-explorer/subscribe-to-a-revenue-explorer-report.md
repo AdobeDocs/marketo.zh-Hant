@@ -4,18 +4,18 @@ description: 訂閱Revenue Explorer報表 — Marketo檔案 — 產品檔案
 title: 訂閱收入總管報表
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 0%
+source-wordcount: '127'
+ht-degree: 1%
 
 ---
 
-# 訂閱收入總管報表 {#subscribe-to-a-revenue-explorer-report}
+# 訂閱[!UICONTROL Revenue Explorer]報告 {#subscribe-to-a-revenue-explorer-report}
 
 若要接收來自Revenue Cycle Explorer報表的更新並共用這些更新，您可以訂閱現有報表的任何電子郵件地址。
 
-1. 移至&#x200B;**Analytics**&#x200B;並選取&#x200B;**新增** > **新增報表訂閱**。
+1. 移至&#x200B;**[!UICONTROL Analytics]**&#x200B;並選取&#x200B;**[!UICONTROL New]** > **[!UICONTROL New Report Subscription]**。
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
    >
    >若要訂閱您在方案中建立的基本報表，請參閱[訂閱基本報表。](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. 針對&#x200B;**報表Source**，選取&#x200B;**收入總管**。
+1. 針對 **[!UICONTROL Report Source]**，請選取 **[!UICONTROL Revenue Explorer]**。
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 

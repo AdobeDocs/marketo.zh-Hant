@@ -4,10 +4,10 @@ description: 瞭解參與計畫 — Marketo檔案 — 產品檔案
 title: 瞭解參與計畫
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 0%
+source-wordcount: '278'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >每個訂閱有100個&#x200B;**作用中**&#x200B;參與程式的限制。
 
-## 參與計畫 {#engagement-program}
+## 參與方案 {#engagement-program}
 
 **參與計畫**&#x200B;是一種可以輕鬆完成複雜培養的程式。
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 ## 個人步調 {#person-cadence}
 
-**人員步調**&#x200B;是一種狀態，可定義其從參與方案中接收內容的能力。 您可以使用&#x200B;**變更參與方案步調**&#x200B;流程步驟，將此步驟變更為「已暫停」或「正常」。
+**人員步調**&#x200B;是一種狀態，可定義其從參與方案中接收內容的能力。 您可以使用&#x200B;**[!UICONTROL Change Engagement Program Cadence]**&#x200B;流程步驟將此變更為[!UICONTROL Paused]或[!UICONTROL Normal]。
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 

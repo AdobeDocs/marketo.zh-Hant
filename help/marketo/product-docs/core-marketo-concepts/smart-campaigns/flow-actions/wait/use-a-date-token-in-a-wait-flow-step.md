@@ -4,9 +4,9 @@ description: 在等待流程步驟中使用日期權杖 — Marketo檔案 — �
 title: 在等待流程步驟中使用日期權杖
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >這僅適用於觸發行銷活動。 您無法在批次行銷活動中使用此功能。
 
-1. 在您的Smart Campaign **[!UICONTROL 流量]**&#x200B;索引標籤中，拖曳到&#x200B;**[!UICONTROL 等待]**&#x200B;流量步驟。
+1. 在您的Smart Campaign **[!UICONTROL Flow]**&#x200B;標籤中，拖曳至&#x200B;**[!UICONTROL Wait]**&#x200B;流程步驟上。
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-1.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-2.png)
 
-1. 從&#x200B;**[!UICONTROL 型別]**&#x200B;下拉式清單中，選取&#x200B;**[!UICONTROL 日期權杖]**。
+1. 從&#x200B;**[!UICONTROL Type]**&#x200B;下拉式清單中選取&#x200B;**[!UICONTROL Date Token]**。
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
-1. 選擇日期Token ，以指定等待步驟的結束時間：
+1. 選擇[!UICONTROL Date token]以指定等待步驟的結束時間：
 
    * `{{my._____}}`
    * `{{lead.______}}`
@@ -56,7 +56,7 @@ ht-degree: 0%
    >
    >您也可以使用代表整數欄位的`{{lead.`或`{{company.`權杖或數字型別的`{{my.`權杖來指定天數。
 
-1. 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-7.png)
 

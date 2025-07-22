@@ -4,9 +4,9 @@ description: 編輯多媒體預測性內容 — Marketo檔案 — 產品檔案
 title: 編輯多媒體預測性內容
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->所有內容頁面上的預測性內容[&#128279;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的內容必須是已核准。
+>在[頁面上的預測性內容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的內容必須是[!UICONTROL All Content]已核准。
 
-1. 在&#x200B;**預測性內容**&#x200B;頁面上，按一下標題以開啟編輯器。
+1. 在&#x200B;**[!UICONTROL Predictive Content]**&#x200B;頁面上，按一下標題以開啟編輯器。
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. 按一下&#x200B;**多媒體**。
+1. 按一下「**[!UICONTROL Rich Media]**」。
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >多媒體不支援使用色彩模式CMYK的JPEG影像。 必須使用色彩設定檔將JPEG轉換為sRGB。 從影像編輯器匯出時，請務必選擇此設定。
+   >多媒體不支援色彩模式CMYK的JPEG影像。 必須使用色彩設定檔將JPEG轉換為sRGB。 從影像編輯器匯出時，請務必選擇此設定。
 
 1. 輸入&#x200B;**描述**。
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. 按一下&#x200B;**類別**&#x200B;方塊以選取/新增您已設定的[類別](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) （選擇性）。
+1. 按一下&#x200B;**[!UICONTROL Categories]**&#x200B;方塊以選取/新增您已設定的[類別](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) （選擇性）。
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -55,6 +55,6 @@ ht-degree: 0%
 
    ![](assets/six-1.png)
 
-1. 按一下&#x200B;**儲存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/save.png)

@@ -4,10 +4,10 @@ description: Gmail使用者的電子郵件連線 — Marketo檔案 — 產品檔
 title: Gmail使用者的電子郵件連線
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 1%
 
 ---
 
@@ -19,39 +19,39 @@ ht-degree: 0%
 >
 >如果您[在Gmail帳戶中使用篩選器](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"}或規則來自動將電子郵件標示為已讀取，這可能會導致回覆追蹤發生問題。 建議您停用搭配Gmail使用回覆追蹤時，將電子郵件自動標示為已讀取的任何規則。
 
-1. 在Sales Connect中，按一下齒輪圖示並選取&#x200B;**設定**。
+1. 在[!DNL Sales Connect]中，按一下齒輪圖示並選取&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/one.png)
 
-1. 在「我的帳戶」底下，選取&#x200B;**電子郵件設定**。
+1. 在「我的帳戶」底下，選取&#x200B;**[!UICONTROL Email Settings]**。
 
    ![](assets/two.png)
 
-1. 按一下「**電子郵件連線**」標籤。
+1. 按一下「**[!UICONTROL Email Connection]**」標籤。
 
    ![](assets/three.png)
 
-1. 按一下&#x200B;**開始使用**。
+1. 按一下「**[!UICONTROL Get Started]**」。
 
    ![](assets/four.png)
 
-1. 選取&#x200B;**我使用Gmail傳送電子郵件**&#x200B;並按一下&#x200B;**下一步**。
+1. 選取&#x200B;**[!UICONTROL I use Gmail to send emails]**&#x200B;並按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/five.png)
 
-1. 按一下&#x200B;**確定**。
+1. 按一下「**[!UICONTROL OK]**」。
 
    ![](assets/six.png)
 
-1. 如果您已登入Gmail，請選擇您要連線的帳戶。 如果沒有，請輸入您的Gmail位址，然後按一下[下一步]。**&#x200B;** 在此範例中，我們尚未登入。
+1. 如果您已登入Gmail，請選擇您要連線的帳戶。 如果沒有，請輸入您的Gmail位址，然後按一下&#x200B;**[!UICONTROL Next]**。 在此範例中，我們尚未登入。
 
    ![](assets/seven.png)
 
-1. 輸入您的密碼，然後按一下&#x200B;**下一步**。
+1. 輸入您的密碼並按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/eight.png)
 
-1. 按一下&#x200B;**允許**。
+1. 按一下「**[!UICONTROL Allow]**」。
 
    ![](assets/nine.png)
 

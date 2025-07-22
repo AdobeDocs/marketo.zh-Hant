@@ -4,10 +4,10 @@ description: 驗證推送設定 — Marketo檔案 — 產品檔案
 title: 驗證推播設定
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 1%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 驗證推送設定，確保一切都已妥善同步。
 
-1. 按一下&#x200B;**管理員**。
+1. 按一下&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 選取&#x200B;**行動應用程式**。
+1. 選擇「**[!UICONTROL Mobile Apps]**」。
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. 按一下&#x200B;**行動應用程式動作**&#x200B;並選取&#x200B;**驗證推播設定**。
+1. 按一下&#x200B;**[!UICONTROL Mobile App Actions]**&#x200B;並選取&#x200B;**[!UICONTROL Verify Push Configuration]**。
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-1. 確認所需的平台已讀取驗證，然後按一下&#x200B;**關閉**。
+1. 確認所需的平台已讀取驗證，然後按一下&#x200B;**[!UICONTROL Close]**。
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)
 

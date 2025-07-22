@@ -4,9 +4,9 @@ description: 匯出網站行銷活動資料 — Marketo檔案 — 產品檔案
 title: 匯出網站行銷活動資料
 exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 請依照以下簡單步驟匯出您的網站行銷活動資料。
 
-1. 前往&#x200B;**網路行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/one-2.png)
 

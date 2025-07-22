@@ -1,12 +1,12 @@
 ---
-description: Sales Insight Actions使用者入門指南 — Marketo檔案 — 產品檔案
+description: 銷售Insight動作使用者入門指南 — Marketo檔案 — 產品檔案
 title: Sales Insight Actions使用者入門指南
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 1%
+source-wordcount: '299'
+ht-degree: 2%
 
 ---
 
@@ -19,51 +19,51 @@ ht-degree: 1%
 >[!PREREQUISITES]
 >
 >* 管理員需要邀請使用者開始使用MSI-Actions。
->* 若要透過Salesforce啟用您的帳戶，您需要在Salesforce設定檔許可權中啟用API。
+>* 若要使用[!DNL Salesforce]啟用您的帳戶，您需要在[!DNL Salesforce]設定檔許可權中啟用API。
 
 新使用者需要遵循以下步驟。
 
-1. 在歡迎電子郵件中，按一下&#x200B;**開始使用**。
+1. 在歡迎電子郵件中，按一下&#x200B;**[!UICONTROL Get Started]**。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-1.png)
 
-1. 按一下&#x200B;**使用Salesforce啟用帳戶**。
+1. 按一下「**[!UICONTROL Activate Account with Salesforce]**」。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-2.png)
 
-1. 如果您已登入Salesforce帳戶，系統會自動將您導向下一個畫面。 如果您未登入，請立即登入。
+1. 如果您已登入您的[!DNL Salesforce]帳戶，系統會自動將您導向下一個畫面。 如果您未登入，請立即登入。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-3.png)
 
 >[!NOTE]
 >
->您的Salesforce電子郵件ID和銷售帳戶電子郵件ID必須相同。
+>您的[!DNL Salesforce]電子郵件ID和銷售帳戶電子郵件ID必須相同。
 
-1. 按一下&#x200B;**允許**。
+1. 按一下「**[!UICONTROL Allow]**」。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-4.png)
 
-1. 按一下&#x200B;**開始**。
+1. 按一下「**[!UICONTROL Start]**」。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-5.png)
 
-1. 按一下&#x200B;**下一步**。
+1. 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-6.png)
 
-1. 選擇您使用的電子郵件使用者端（Gmail或Outlook），然後按一下&#x200B;**下一步**。
+1. 選擇您使用的電子郵件使用者端（Gmail或[!DNL Outlook]）並按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-7.png)
 
-1. 輸入您的電子郵件地址，然後按一下&#x200B;**下一步**。
+1. 輸入您的電子郵件地址，然後按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-8.png)
 
-1. 輸入您的密碼，然後按一下&#x200B;**下一步**。
+1. 輸入您的密碼並按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-9.png)
 
-1. 按一下&#x200B;**繼續**。
+1. 按一下「**[!UICONTROL Continue]**」。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-10.png)
 
@@ -75,22 +75,22 @@ ht-degree: 1%
 
    ![](assets/sales-insight-actions-user-onboarding-guide-11.png)
 
-1. 輸入您的自訂簽章，然後按一下&#x200B;**儲存** （如果您稍後要透過設定檔頁面執行此動作，請按一下&#x200B;**略過**）。
+1. 輸入您的自訂簽章，然後按一下&#x200B;**[!UICONTROL Save]** （如果您稍後要透過設定檔頁面執行此動作，請按一下&#x200B;**[!UICONTROL Skip]**）。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-12.png)
 
-1. 按一下&#x200B;**完成**。
+1. 按一下「**[!UICONTROL Finish]**」。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-13.png)
 
-1. 您會看到檢視Marketo銷售動作快速簡介的選項。 按一下&#x200B;**下一步**&#x200B;以檢視，或按一下&#x200B;**現在不要**&#x200B;以儲存以供稍後使用。
+1. 您會看到檢視Marketo銷售動作快速簡介的選項。 按一下&#x200B;**[!UICONTROL Next]**&#x200B;以檢視，或按一下&#x200B;**[!UICONTROL Not Now]**&#x200B;以儲存以供稍後使用。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-14.png)
 
-1. 完成導覽或略過導覽時，請選擇直接登入網頁應用程式或您的Salesforce帳戶，您可在此透過MSI面板存取所有功能（在此範例中，我們選擇&#x200B;**Launch Salesforce**）。
+1. 完成導覽或略過導覽時，請選擇直接登入網頁應用程式或您的[!DNL Salesforce]帳戶，您可在此透過MSI面板存取所有功能（在此範例中，我們選擇&#x200B;**[!UICONTROL Launch Salesforce]**）。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-15.png)
 
-1. 在Salesforce （Classic或Lightning）中，您可以導覽至任何銷售機會、聯絡人、客戶或商機。 您的所有銷售動作將可透過MSI面板中的下拉式清單取得。
+1. 在[!DNL Salesforce] （Classic或Lightning）中，您可以導覽至任何銷售機會、聯絡人、客戶或商機。 您的所有銷售動作將可透過MSI面板中的下拉式清單取得。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-16.png)

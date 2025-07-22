@@ -4,10 +4,10 @@ description: 瞭解標籤 — Marketo檔案 — 產品檔案
 title: 瞭解標籤
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 0%
+source-wordcount: '166'
+ht-degree: 2%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >**範例**
 >
->* 標籤型別=方案所有者
+>* [!UICONTROL Tag Type] =方案所有者
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
-## 管道 {#channel}
+## Channel {#channel}
 
 管道是用來報告您的[成員](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}如何透過您的方案移動。 每個管道都有一組進度狀態，以及一個設定為等於成功的狀態。
 

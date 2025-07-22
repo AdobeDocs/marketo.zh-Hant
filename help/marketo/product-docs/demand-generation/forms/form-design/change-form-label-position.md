@@ -4,10 +4,10 @@ description: 變更表單標籤位置 — Marketo檔案 — 產品檔案
 title: 變更表單標籤位置
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 0%
+source-wordcount: '112'
+ht-degree: 2%
 
 ---
 
@@ -15,32 +15,32 @@ ht-degree: 0%
 
 當[建立表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)時，您可以非常輕鬆地變更表單欄位標籤的位置。 方法如下。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 選取您的表單並按一下&#x200B;**編輯表單**。
+1. 選取您的表單並按一下&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. 選取&#x200B;**設定**。
+1. 選擇「**[!UICONTROL Settings]**」。
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. 選取您想要的&#x200B;**標籤位置**。
+1. 選取您想要的&#x200B;**[!UICONTROL Label Position]**。
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
    您目前有兩個選項：
 
-   * 左側（預設）
-   * 以上
+   * [!UICONTROL Left] （預設）
+   * [!UICONTROL Above]
 
-1. 按一下&#x200B;**完成**。
+1. 按一下「**[!UICONTROL Finish]**」。
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. 按一下&#x200B;**核准並關閉**。
+1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    >[!NOTE]
    >

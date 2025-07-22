@@ -4,9 +4,9 @@ description: 開啟和關閉Engagement Program - Marketo檔案 — 產品檔案
 title: 開啟和關閉參與計畫
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 只要按一下開關，您就可以關閉參與計畫。 這樣會停止傳送任何內容。 方法如下。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取參與方案並按一下&#x200B;**設定**。
+1. 選取參與方案並按一下&#x200B;**[!UICONTROL Setup]**。
 
    >[!NOTE]
    >
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. 連按兩下&#x200B;**程式狀態**。
+1. 連按兩下&#x200B;**[!UICONTROL Program Status]**。
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. 選取&#x200B;**關閉**&#x200B;並按一下&#x200B;**儲存**。
+1. 選取&#x200B;**[!UICONTROL Off]**&#x200B;並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 

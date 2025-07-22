@@ -4,9 +4,9 @@ description: 將Marketo登入頁面重新導向至其他頁面 — Marketo檔案
 title: 將Marketo登入頁面重新導向至其他頁面
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 在&#x200B;**管理員**&#x200B;底下，按一下&#x200B;**登陸頁面**。
+1. 在&#x200B;**[!UICONTROL Admin]**&#x200B;底下，按一下&#x200B;**[!UICONTROL Landing Pages]**。
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. 在&#x200B;**規則**&#x200B;標籤下，按一下&#x200B;**新增**，然後按一下&#x200B;**新增重新導向規則**。
+1. 在「**[!UICONTROL Rules]**」標籤下，按一下「**[!UICONTROL New]**」，然後按「**[!UICONTROL New Redirect Rule]**」。
 
    ![](assets/two-1.png)
 
-1. 按一下第一個&#x200B;**原始URL**&#x200B;下拉式清單，然後選取您的Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)。
+1. 按一下前&#x200B;**[!UICONTROL Original URL]**&#x200B;個下拉式清單，然後選取您的Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)。
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >請記住，您只能重新導向以Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)開頭的URL。
 
-1. 在第二個&#x200B;**原始URL**&#x200B;欄位中選擇要重新導向的登入頁面。
+1. 在第二個&#x200B;**[!UICONTROL Original URL]**&#x200B;欄位中選擇您要重新導向的登入頁面。
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
@@ -43,17 +43,17 @@ ht-degree: 0%
    >
    >即使頁面或目錄不存在，您也可以輸入任何URL路徑。
 
-1. 按一下&#x200B;**重新導向URL**&#x200B;下拉式清單，並選取您要重新導向訪客的頁面。
+1. 按一下&#x200B;**[!UICONTROL Redirect URL]**&#x200B;下拉式清單，然後選取您要重新導向訪客的頁面。
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 
-1. 按一下&#x200B;**建立**。
+1. 按一下「**[!UICONTROL Create]**」。
 
    ![](assets/image2014-9-25-15-3a48-3a5.png)
 
    >[!TIP]
    >
-   >若要重新導向至Marketo外部的網頁，請按一下&#x200B;**使用非Marketo登陸頁面**。
+   >若要重新導向至Marketo外部的網頁，請按一下&#x200B;**[!UICONTROL Use non-Marketo Landing Page]**。
 
    >[!MORELIKETHIS]
    >

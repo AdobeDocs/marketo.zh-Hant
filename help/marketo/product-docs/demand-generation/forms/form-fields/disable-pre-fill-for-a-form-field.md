@@ -4,10 +4,10 @@ description: 停用表單欄位的預填 — Marketo檔案 — 產品檔案
 title: 停用表單欄位的預填
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 1%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 ## 如何停用預填 {#how-to-disable-pre-fill}
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-7.png)
 
-1. 選取您的表單並按一下&#x200B;**編輯表單**。
+1. 選取您的表單並按一下&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >將表單內嵌在您自己的頁面上時，表單預填無法運作。 它只適用於Marketo登陸頁面。
 
-1. 選取其中一個欄位，並將&#x200B;**表單預填**&#x200B;設定為&#x200B;**已停用**。
+1. 選取其中一個欄位並將&#x200B;**[!UICONTROL Form Pre-fill]**&#x200B;設為&#x200B;**[!UICONTROL Disabled]**。
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
    >
    >您也可以停用登入頁面層級或管理員層級的表單預填。
 
-1. 按一下&#x200B;**完成**。
+1. 按一下「**[!UICONTROL Finish]**」。
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
-1. 按一下&#x200B;**核准並關閉**。
+1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 

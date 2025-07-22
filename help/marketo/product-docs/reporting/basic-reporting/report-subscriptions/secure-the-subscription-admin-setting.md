@@ -4,9 +4,9 @@ description: 保護訂閱管理設定 — Marketo檔案 — 產品檔案
 title: 保護訂閱管理設定
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 管理員可以選擇要求登入才能檢視報表。
 
-1. 按一下&#x200B;**管理員**，然後按一下&#x200B;**登入設定**。
+1. 按一下&#x200B;**[!UICONTROL Admin]**，然後再按&#x200B;**[!UICONTROL Login Settings]**。
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. 按一下&#x200B;**編輯**&#x200B;以取得智慧清單報表設定。
+1. 按一下&#x200B;**[!UICONTROL Edit]**&#x200B;以取得智慧清單報表設定。
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. 選取&#x200B;**是**&#x200B;要求登入才能下載報表。
+1. 選取&#x200B;**[!UICONTROL Yes]**&#x200B;要求登入才能下載報告。
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 

@@ -4,20 +4,20 @@ description: 定義網路Personalization活動的智慧清單 — Marketo檔案 
 title: 定義網頁Personalization活動的智慧清單
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
 
-# 定義網頁Personalization活動的智慧清單 {#define-a-smart-list-for-web-personalization-activities}
+# 為[!DNL Web Personalization]個活動定義智慧清單 {#define-a-smart-list-for-web-personalization-activities}
 
-當您在智慧行銷活動中定義智慧清單時，可以在篩選器和觸發器中使用網路Personalization活動。 在這裡，您要擷取按一下網路Personalization行動號召（行銷活動）的任何人。
+當您在智慧行銷活動中定義智慧清單時，可以在篩選器和觸發器中使用[!DNL Web Personalization]活動。 在這裡，您要擷取已按一下[!DNL Web Personalization] call to action （行銷活動）的任何人。
 
-使用觸發器來傳送電子郵件或警報，或根據訪客點選並參與網站Personalization行動號召來變更值或分數。 您也可以篩選並檢視那些點選Web Personalization行動號召的銷售機會。
+使用觸發器傳送電子郵件或警報，或根據訪客點選並參與[!DNL Web Personalization] call to action變更值或分數。 您也可以篩選並檢視在[!DNL Web Personalization] call to action上點按的潛在客戶。
 
-1. 在您的智慧行銷活動中，按一下&#x200B;**智慧清單**&#x200B;索引標籤。
+1. 在您的智慧行銷活動中，按一下「**[!UICONTROL Smart List]**」標籤。
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 

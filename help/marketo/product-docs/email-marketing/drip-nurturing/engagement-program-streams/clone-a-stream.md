@@ -4,9 +4,9 @@ description: 複製資料流 — Marketo檔案 — 產品檔案
 title: 複製資料流
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 基於各種原因複製資料流，包括測試不同的訂單和不同的步調。
 
-1. 選取您的參與方案，然後前往&#x200B;**串流**&#x200B;標籤。
+1. 選取您的參與方案，然後前往&#x200B;**[!UICONTROL Streams]**&#x200B;標籤。
 
    ![](assets/cloneasteam.jpg)
 
-1. 按一下串流齒輪圖示，然後按一下&#x200B;**複製**。
+1. 按一下串流齒輪圖示，然後按一下&#x200B;**[!UICONTROL Clone]**。
 
    ![](assets/image2014-9-15-17-3a0-3a23.png)
 

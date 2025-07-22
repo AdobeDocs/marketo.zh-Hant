@@ -3,9 +3,9 @@ description: 建立促銷活動 — Marketo檔案 — 產品檔案
 title: 建立銷售行銷活動
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -18,27 +18,27 @@ ht-degree: 0%
 
 * **組織**：在一個地方簡化所有外展活動，以有效執行。
 * **縮放**：排程您所有的外聯工作，以便您可以擴大工作規模、減少手動工作，並視需要個人化。
-* **Measure**：在自動登入Salesforce時，在一個位置追蹤您所有電子郵件和工作的成功。 瞭解哪些因素能引起共鳴並導致結果，您就能持續測試並改善結果。
+* **量值**：在自動登入[!DNL Salesforce]的同時，在一個位置追蹤您所有電子郵件和工作的成功。 瞭解哪些因素能引起共鳴並導致結果，您就能持續測試並改善結果。
 
 那麼，如何設定促銷活動？
 
-1. 按一下&#x200B;**行銷活動**&#x200B;標籤。
+1. 按一下「**[!UICONTROL Campaigns]**」標籤。
 
    ![](assets/create-a-sales-campaign-1.png)
 
-1. 選取類別並按一下&#x200B;**建立新行銷活動**&#x200B;按鈕。
+1. 選取類別並按一下&#x200B;**[!UICONTROL Create New Campaign]**&#x200B;按鈕。
 
    ![](assets/create-a-sales-campaign-2.png)
 
    >[!NOTE]
    >
-   >按一下&#x200B;**「類別」**&#x200B;旁的&#x200B;**+**，以建立新類別。
+   >按一下&#x200B;**旁的**+**[!UICONTROL Categories]**&#x200B;以建立新類別。
 
-1. 將會選取您選擇的類別。 如果您改變心意，請按一下下拉式清單並選取其他選項。 完成後，按一下&#x200B;**繼續**。
+1. 將會選取您選擇的類別。 如果您改變心意，請按一下下拉式清單並選取其他選項。 完成後，按一下「**[!UICONTROL Continue]**」。
 
    ![](assets/create-a-sales-campaign-3.png)
 
-1. 按一下&#x200B;**新增步驟**。
+1. 按一下「**[!UICONTROL Add a Step]**」。
 
    ![](assets/create-a-sales-campaign-4.png)
 
@@ -46,11 +46,11 @@ ht-degree: 0%
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. 當您[完成電子郵件](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}時，請按一下&#x200B;**新增**。
+1. 當您[完成電子郵件](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}時，請按一下&#x200B;**[!UICONTROL Add]**。
 
    ![](assets/create-a-sales-campaign-6.png)
 
-1. 在您建立第一天和步驟後，「新增一天」按鈕就會啟動，您可以根據銷售流程需要新增多少天和步驟。
+1. 在您建立第一天和步驟後，&quot;[!UICONTROL Add a Day]&quot;按鈕會啟用，而且您可以視銷售流程需要新增多少天和步驟。
 
    ![](assets/create-a-sales-campaign-7.png)
 
@@ -58,7 +58,7 @@ ht-degree: 0%
    >
    >「天數」不是動作之間的天數，而是順序中的天數。 例如，如果您的促銷活動將持續7天，輸入&#39;3&#39;表示動作將在7的第3天結束，**不會** 3天後結束。
 
-1. 請務必造訪您促銷活動的&#x200B;**設定標籤**&#x200B;來自訂排程和回複選項，例如略過週末（非常棒）。
+1. 請務必造訪您促銷活動的&#x200B;**[!UICONTROL Settings]標籤**&#x200B;來自訂排程和回複選項，例如略過週末（非常棒）。
 
    ![](assets/create-a-sales-campaign-8.png)
 

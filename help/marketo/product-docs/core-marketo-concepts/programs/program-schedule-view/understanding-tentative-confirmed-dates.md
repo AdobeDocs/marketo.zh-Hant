@@ -4,16 +4,16 @@ description: 瞭解暫定/確認日期 — Marketo檔案 — 產品檔案
 title: 瞭解暫定/確認日期
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
 # 瞭解暫定/確認日期 {#understanding-tentative-confirmed-dates}
 
-智慧型行銷活動和電子郵件程式具有強大的功能，可標示為&#x200B;**[!UICONTROL 暫定]**&#x200B;或&#x200B;**[!UICONTROL 已確認]**。 以下是其運作方式。
+智慧型行銷活動和電子郵件程式具有強大的功能，可標示為&#x200B;**[!UICONTROL Tentative]**&#x200B;或&#x200B;**[!UICONTROL Confirmed]**。 以下是其運作方式。
 
 ## 暫定 {#tentative}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 確認專案 {#confirming-entries}
 
-這就像核准資產一樣，因此專案必須先完全設定，您才能確認。 一旦所有的鴨子都排成一列，您就可以將暫定標籤滑至右邊來確認專案。
+這就像核准資產一樣，因此專案必須先完全設定，您才能確認。 一旦所有的鴨子都排成一列，您就可以將[!UICONTROL Tentative]標籤滑向右邊來確認專案。
 
 ![](assets/image2014-9-23-15-3a23-3a2.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 已完成  {#finished}
 
-已完成的專案已執行。 他們只能是過去（很顯然）。 一旦專案執行完成，且為&#x200B;**[!UICONTROL 已完成]**，您就無法移動它或將其設定為暫定。 （不會改變現實和干擾時間流連續體。）
+已完成的專案已執行。 他們只能是過去（很顯然）。 一旦專案執行且為&#x200B;**[!UICONTROL Finished]**，您就無法移動它或將其設定為暫定。 （不會改變現實和干擾時間流連續體。）
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

@@ -4,9 +4,9 @@ description: 調整表單中標籤/欄位寬度大小 — Marketo檔案 — 產�
 title: 調整表單中標籤/欄位寬度大小
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '93'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 2%
 
    ![](assets/image2014-9-15-15-3a24-3a28.png)
 
-1. 輸入「標籤寬度」和/或「欄位寬度」的畫素值。
+1. 輸入[!UICONTROL Label Width]和/或[!UICONTROL Field Width]的畫素值。
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 

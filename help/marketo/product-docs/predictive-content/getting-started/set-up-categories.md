@@ -4,20 +4,20 @@ description: 設定類別 — Marketo檔案 — 產品檔案
 title: 設定類別
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
 # 設定類別 {#set-up-categories}
 
-在預測性內容中建立類別，將您的預測性結果群組在網頁或電子郵件上。 例如，您只能使用部落格，或使用特定語言的內容。 也可讓您搜尋及篩選頁面檢視。  類別會顯示在所有內容和預測性內容頁面上，以方便參考。
+在預測性內容中建立類別，將您的預測性結果群組在網頁或電子郵件上。 例如，您只能使用部落格，或使用特定語言的內容。 也可讓您搜尋及篩選頁面檢視。  類別會顯示在[!UICONTROL All Content]和[!UICONTROL Predictive Content]頁面上，以方便參考。
 
 ![](assets/image2017-10-3-9-3a3-3a44.png)
 
-當您編輯探索到的內容時，請在編輯畫面中新增類別。 按一下&#x200B;**類別**&#x200B;欄位，然後從下拉式清單中選取它們。
+當您編輯探索到的內容時，請在編輯畫面中新增類別。 按一下&#x200B;**[!UICONTROL Categories]**&#x200B;欄位，然後從下拉式清單中選取它們。
 
 ![](assets/two.png)
 
@@ -29,15 +29,15 @@ ht-degree: 0%
 
 以下說明如何建立類別標籤。
 
-1. 移至&#x200B;**內容設定**。
+1. 移至&#x200B;**[!UICONTROL Content Settings]**。
 
    ![](assets/settings-dropdown-hand-1.png)
 
-1. 按一下&#x200B;**類別**。
+1. 按一下「**[!UICONTROL Categories]**」。
 
    ![](assets/content-discovery-categories-hand.png)
 
-1. 會顯示現有的類別標籤。 輸入新的類別標籤，然後按一下[新建] **&#x200B;**。
+1. 會顯示現有的類別標籤。 輸入新的類別標籤，然後按一下&#x200B;**[!UICONTROL Create New]**。
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/remove-category-tag-updated.png)
 
-1. 完成時，按一下&#x200B;**儲存**。
+1. 完成時，按一下「**[!UICONTROL Save]**」。
 
    ![](assets/save-new.png)
 

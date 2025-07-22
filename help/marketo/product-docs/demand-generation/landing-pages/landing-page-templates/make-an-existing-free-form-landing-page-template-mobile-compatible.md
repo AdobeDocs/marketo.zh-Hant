@@ -4,40 +4,40 @@ description: 讓現有的自由表單登陸頁面範本與行動裝置相容 —
 title: 讓現有的自由表單登陸頁面範本與行動裝置相容
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 0%
+source-wordcount: '228'
+ht-degree: 1%
 
 ---
 
-# 讓現有的自由表單登陸頁面範本與行動裝置相容 {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# 建立現有的自由格式登入頁面範本[!UICONTROL Mobile Compatible] {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 您可以在範本編輯器和登入頁面編輯器兩個位置執行此操作。
 
 ## 從範本編輯器升級 {#upgrade-from-the-template-editor}
 
-1. 移至&#x200B;**設計工作室**。
+1. 移至&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/designstudio-1.png)
 
-1. 選取&#x200B;**範本**。
+1. 選擇「**[!UICONTROL Templates]**」。
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. 選取&#x200B;**行動相容性**&#x200B;為&#x200B;**否**&#x200B;的範本。
+1. 選取&#x200B;**[!UICONTROL Mobile Compatible]**&#x200B;為&#x200B;**[!UICONTROL No]**&#x200B;的範本。
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. 按一下&#x200B;**編輯草稿**。
+1. 按一下「**[!UICONTROL Edit Draft]**」。
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. 按一下&#x200B;**讓行動裝置相容**。
+1. 按一下「**[!UICONTROL Make Mobile Compatible]**」。
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. 按一下&#x200B;**升級**。
+1. 按一下「**[!UICONTROL Upgrade]**」。
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-22-20-3a36-3a43.png)
 
-## 是什麼讓範本行動裝置相容？ {#what-makes-a-template-mobile-compatible}
+## 是什麼使範本[!UICONTROL Mobile Compatible]？ {#what-makes-a-template-mobile-compatible}
 
 好問題！ 您的範本必須有下列標籤：
 
@@ -63,17 +63,17 @@ ht-degree: 0%
 
 ![](assets/image2015-1-22-20-3a43-3a20.png)
 
-如果您對範本進行任何變更，請按一下範本動作並選取驗證行動相容性。
+如果您對範本進行任何變更，請按一下[!UICONTROL Template Actions]並選取[!UICONTROL Validate Mobile Compatibility]。
 
 ## 從自由格式登陸頁面編輯器升級範本 {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
 當您編輯登入頁面並按一下行動標籤時，您有時會注意到範本尚未升級。 不要害怕！ 您可以在這裡進行升級。
 
-1. 按一下&#x200B;**行動裝置**&#x200B;標籤。
+1. 按一下「**[!UICONTROL Mobile]**」標籤。
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. 按一下核取方塊，然後按一下&#x200B;**啟動**。
+1. 按一下核取方塊並按一下&#x200B;**[!UICONTROL Activate]**。
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 

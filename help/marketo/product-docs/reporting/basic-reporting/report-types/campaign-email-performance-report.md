@@ -4,10 +4,10 @@ description: 行銷活動電子郵件效能報表 — Marketo檔案 — 產品�
 title: 行銷活動電子郵件效能報表
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 1%
+source-wordcount: '206'
+ht-degree: 0%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 1%
 
 若要檢視依[智慧行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)分組的電子郵件效能統計資料，請執行行銷活動電子郵件效能報告。
 
-1. [建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)並選取&#x200B;**行銷活動電子郵件效能** [報告型別](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+1. [建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)並選取&#x200B;**[!UICONTROL Campaign Email Performance]** [報告型別](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
 
-1. [設定報告的時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)，然後按一下&#x200B;**報告**&#x200B;索引標籤。
+1. [設定報告的時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)，然後按一下&#x200B;**[!UICONTROL Report]**&#x200B;標籤。
 
 1. 現在瀏覽報告，瞭解行銷活動中的每個電子郵件的執行方式。
 
@@ -31,11 +31,11 @@ ht-degree: 1%
 
    | 欄 | 說明 |
    |---|---|
-   | 硬退回 | 電子郵件因永久狀況而遭拒，例如電子郵件地址不存在。 |
-   | 軟退信 | 電子郵件因暫時狀況而遭到拒絕，例如伺服器關機或收件匣已滿。 |
-   | 待處理 | 電子郵件仍在傳遞過程中。 |
-   | 已點按連結 | 按一下電子郵件中連結的電子郵件收件者人數。 |
-   | 退訂 | 按一下電子郵件中&#x200B;**取消訂閱**&#x200B;連結並填寫表單的電子郵件收件者人數。 |
+   | [!UICONTROL Hard Bounced] | 電子郵件因永久狀況而遭拒，例如電子郵件地址不存在。 |
+   | [!UICONTROL Soft Bounced] | 電子郵件因暫時狀況而遭到拒絕，例如伺服器關機或收件匣已滿。 |
+   | [!UICONTROL Pending] | 電子郵件仍在傳遞過程中。 |
+   | [!UICONTROL Clicked Link] | 按一下電子郵件中連結的電子郵件收件者人數。 |
+   | [!UICONTROL Unsubscribed] | 按一下電子郵件中&#x200B;**[!UICONTROL Unsubscribe]**&#x200B;連結並填寫表單的電子郵件收件者人數。 |
 
    >[!NOTE]
    >

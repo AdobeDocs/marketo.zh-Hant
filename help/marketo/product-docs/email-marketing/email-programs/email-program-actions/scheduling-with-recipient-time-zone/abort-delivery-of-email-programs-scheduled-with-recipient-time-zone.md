@@ -4,9 +4,9 @@ description: 中止傳送排程為收件者時區的電子郵件計畫 — Marke
 title: 中止以收件者時區排程的電子郵件程式傳遞
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 由於使用收件者時區排程的電子郵件程式最多可以執行24小時，因此中止程式傳送將會取消該時間點之後的任何後續傳送。
 
-1. 選取您要取消的電子郵件程式，然後按一下[控制檯]中[核准]方塊下的[中止傳遞] **。**
+1. 選取您要取消的電子郵件程式，然後按一下[控制檯]中&#x200B;**[!UICONTROL Abort Delivery]**&#x200B;方塊下的[!UICONTROL Approval]。
 
    ![](assets/ptz-abortdelivery.png)
 
-1. 按一下&#x200B;**中止**，確認您要取消傳遞。
+1. 按一下&#x200B;**[!UICONTROL Abort]**&#x200B;以確認您要取消傳遞。
 
    ![](assets/image2018-2-23-11-3a20-3a27.png)
 
-1. 取消之後，您電子郵件程式的&#x200B;**結果**&#x200B;方格將會看起來像下面的方格。 所有後續傳送都已取消，並將在&#x200B;**活動型別**&#x200B;欄中顯示為「電子郵件已退回」。
+1. 取消後，您電子郵件程式的&#x200B;**[!UICONTROL Results]**&#x200B;格線看起來會類似於下面的格線。 所有後續傳送都會被取消，並在&#x200B;**[!UICONTROL Activity Type]**&#x200B;欄中顯示為「電子郵件已軟退信」。
 
    ![](assets/image2018-2-23-11-3a22-3a11.png)
 

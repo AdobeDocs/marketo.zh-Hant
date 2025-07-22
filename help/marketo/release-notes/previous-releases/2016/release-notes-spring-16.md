@@ -4,9 +4,9 @@ description: 發行說明–2016年春季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2016年春季
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: c20ea4d17f6bf2d6f14a8fe71527dd9fa0c446a2
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
@@ -61,13 +61,13 @@ Marketo REST API現在支援控制Marketo登陸頁面、登陸頁面範本和表
 
 與Marketo使用者登入的IP允許清單功能類似，Marketo管理員現在可以設定IP位址允許清單，以存取Marketo SOAP和REST API，進而封鎖來自未授權IP位址的存取。 這為您的Marketo執行個體提供額外的安全層，並確保API存取只能從您組織的網路中進行。 有關如何進行此設定的詳細資訊，請參閱[Marketo檔案網站](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)。
 
-## [新的高速Microsoft Dynamics同步處理聯結器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
+## [新的高速Microsoft Dynamics同步聯結器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
 全新的高速Dynamics聯結器可提供高達20倍的初始同步處理速度，以及高達5倍的增量同步處理速度。 所有新客戶將在發行日期加入此聯結器，我們將在夏季發行時間範圍內逐步向現有客戶推出。
 
-**重新整理新欄位的資料**：您現在可以在任何時間點啟用新的同步欄位，而且該欄位的所有資料值都會從Dynamics CRM重新整理至Marketo。 不用擔心在初始設定期間必須選取所有欄位。 如果您停用現有的同步欄位並在稍後重新啟用，該欄位的所有資料值將會從Dynamics CRM重新整理至Marketo。
+**重新整理新欄位的資料**：您現在可以在任何時間點啟用新的同步欄位，並且該欄位的所有資料值將會從[!DNL Dynamics] CRM重新整理到Marketo中。 不用擔心在初始設定期間必須選取所有欄位。 如果您停用現有的同步欄位並在稍後重新啟用它，則該欄位的所有資料值將會從[!DNL Dynamics] CRM重新整理到Marketo中。
 
-**以聯絡人身份同步處理銷售機會**： 「同步處理銷售機會至Microsoft」流程動作有一個新選項，可用來以銷售機會或聯絡人的身份同步處理。
+**以連絡人同步處理銷售機會**： [!UICONTROL Sync Lead to Microsoft]流程動作有新選項可以同步處理為銷售機會或連絡人。
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
@@ -75,7 +75,7 @@ Marketo REST API現在支援控制Marketo登陸頁面、登陸頁面範本和表
 
 ![](assets/sync-errors.png)
 
-**Microsoft Dynamics 2016**：聯結器已針對Dynamics 2016線上和內部部署版本通過完整認證。
+**[!DNL Microsoft Dynamics]2016**：聯結器已針對[!DNL Dynamics] 2016 [!DNL Online]和[!DNL On-premise]版本完成認證。
 
 **外掛程式更新現在已記錄：**&#x200B;請參閱[外掛程式更新檔案文章](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
 

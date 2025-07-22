@@ -4,9 +4,9 @@ description: 進階計畫報告概觀 — Marketo檔案 — 產品檔案
 title: 進階計畫報告概觀
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 什麼是分析區域？ {#whats-an-analysis-area}
 
-分析區域在Revenue Explorer中各自包含不同的資料集和量度。 每個區域都與您選擇檢視的報告主題有關。
+每個分析區域在[!UICONTROL Revenue Explorer]中包含不同的資料集和量度。 每個區域都與您選擇檢視的報告主題有關。
 
 ## 方案分析區域 {#program-analysis-areas}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 * **機會影響分析器** — 透過測量方案的影響和產生機會的重要參與，證明行銷的貢獻。
 
-## 報表選項 {#report-options}
+## [!UICONTROL Report Options] {#report-options}
 
 在每個報表中，都有數個選項可協助您自訂體驗。
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 >
 >Revenue Cycle Explorer中的資料會每晚從您的Marketo執行個體更新。 因此，您在Marketo內對人員和帳戶活動所做的任何變更，都會反映在收入週期總管的下一營業日。
 
-熟悉Revenue Analytics可讓您深入瞭解方案及其影響。
+熟悉Revenue Analytics將為您提供完整的insight資訊及其影響。

@@ -4,10 +4,10 @@ description: 略過週末 — Marketo檔案 — 產品檔案
 title: 略過週末
 exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 0%
+source-wordcount: '63'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 當行銷活動自動化時，您可能不希望您的電子郵件在星期六或星期日外寄。 如果沒有，您可以略過週末。
 
-1. 在Sales Connect中，按一下&#x200B;**行銷活動**&#x200B;標籤。
+1. 在[!DNL Sales Connect]中，按一下&#x200B;**[!UICONTROL  Campaigns]**&#x200B;標籤。
 
    ![](assets/one-2.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two-2.png)
 
-1. 按一下&#x200B;**設定**。
+1. 按一下「**[!UICONTROL Settings]**」。
 
    ![](assets/three-2.png)
 
-1. 選取&#x200B;**略過週末**&#x200B;核取方塊。
+1. 選取&#x200B;**[!UICONTROL Skip weekends]**&#x200B;核取方塊。
 
    ![](assets/four-2.png)
 

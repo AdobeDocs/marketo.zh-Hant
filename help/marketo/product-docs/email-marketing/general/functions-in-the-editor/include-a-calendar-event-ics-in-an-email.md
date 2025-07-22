@@ -4,10 +4,10 @@ description: 在電子郵件中包含行事曆事件(.ics) - Marketo檔案 — �
 title: 在電子郵件中包含行事曆事件(.ics)
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 2%
+source-wordcount: '90'
+ht-degree: 1%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 2%
 >
 >[建立行事曆事件(.ics)檔案](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-1. 編輯程式的電子郵件時，請按一下您要權杖的所在位置，然後按一下插入權杖按鈕。
+1. 編輯程式的電子郵件時，請按一下您要標籤的位置，然後按一下&#x200B;**插入標籤**&#x200B;按鈕。
 
 ![](assets/one-6.png)
 
-1. 選取[行事曆檔案]權杖，然後按一下[插入]。**&#x200B;**
+1. 選取行事曆檔案權杖並按一下&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/three-5.png)
 

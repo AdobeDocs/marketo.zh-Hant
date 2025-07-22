@@ -4,30 +4,30 @@ description: 啟用收入週期Analytics的自訂欄位同步 — Marketo檔案 
 title: 啟用收入週期Analytics的自訂欄位同步
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 1%
 
 ---
 
-# 啟用收入週期Analytics的自訂欄位同步 {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+# 正在啟用[!UICONTROL Revenue Cycle Analytics]的自訂欄位同步 {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
 下列步驟可讓您利用RCA報告中的自訂欄位。
 
-1. 按一下&#x200B;**管理員**。
+1. 按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/one.png)
 
-1. 按一下&#x200B;**Revenue Cycle Analytics**，然後按一下&#x200B;**自訂欄位同步**。
+1. 按一下&#x200B;**[!UICONTROL Revenue Cycle Analytics]**，然後按&#x200B;**[!UICONTROL Custom Field Sync]**。
 
    ![](assets/two.png)
 
-1. 選取您的&#x200B;**欄位名稱**，然後按一下&#x200B;**編輯同步選項**。
+1. 選取您的&#x200B;**[!UICONTROL Field Name]**，然後按一下&#x200B;**[!UICONTROL Edit Sync Option]**。
 
    ![](assets/three.png)
 
-1. 在[同步狀態]下，選取[已啟用] **&#x200B;**，然後按一下[儲存] **&#x200B;**。
+1. 在&#x200B;**[!UICONTROL Sync Status]**&#x200B;下，選取&#x200B;**[!UICONTROL Enabled]**，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/four.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >啟用欄位後，資料第二天便可在Revenue Cycle Analytics中使用。
+   >啟用欄位後，資料第二天即可在[!UICONTROL Revenue Cycle Analytics]中使用。

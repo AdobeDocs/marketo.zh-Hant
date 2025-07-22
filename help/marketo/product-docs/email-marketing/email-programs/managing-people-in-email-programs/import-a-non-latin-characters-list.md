@@ -4,9 +4,9 @@ description: 匯入非拉丁字元清單 — Marketo檔案 — 產品檔案
 title: 匯入非拉丁字元清單
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 這是因為檔案未正確儲存，使得Marketo無法辨識所有非拉丁字元。 好消息是，您可以遵循一些簡單步驟來進行修正。
 
-1. 從Excel的&#x200B;**檔案**&#x200B;功能表選取&#x200B;**另存新檔……**。
+1. 從Excel的&#x200B;**[!UICONTROL Save As]功能表選取**...**[!UICONTROL File]**。
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. 選擇&#x200B;**UTF-16 Unicode文字(.txt)**&#x200B;作為&#x200B;**格式**&#x200B;選項。 這會以Marketo顯示檔案的方式進行編碼。
+1. 選擇&#x200B;**[!UICONTROL UTF-16 Unicode Text (.txt)]**&#x200B;作為&#x200B;**[!UICONTROL Format]**&#x200B;選項。 這會以Marketo顯示檔案的方式進行編碼。
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >如果您使用Windows，可以使用&#x200B;**記事本**&#x200B;開啟文字檔；如果您使用Mac，則可以使用&#x200B;**TextEdit**。
+   >如果您使用Windows，可以使用&#x200B;**[!DNL Notepad]**&#x200B;開啟文字檔；如果您使用Mac，可以使用&#x200B;**[!DNL TextEdit]**。
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,15 +47,15 @@ ht-degree: 0%
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. 從&#x200B;**編輯**&#x200B;功能表選取&#x200B;**尋找和取代……**。
+1. 從&#x200B;**[!UICONTROL Find and Replace]功能表選取**...**[!UICONTROL Edit]**。
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
    >[!TIP]
    >
-   >Windows使用者的同等動作為： **編輯>取代……**
+   >Windows使用者的同等動作為： **[!UICONTROL Edit]> [!UICONTROL Replace]...**
 
-1. 將您在步驟4中複製的標籤貼到第一個（要取代的）方塊中，並在第二個（取代為）方塊中輸入逗號。 然後按一下&#x200B;**全部**。
+1. 將您在步驟4中複製的標籤貼到第一個（要取代的）方塊中，並在第二個（取代為）方塊中輸入逗號。 然後按一下&#x200B;**[!UICONTROL All]**。
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 

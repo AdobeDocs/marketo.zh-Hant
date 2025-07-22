@@ -4,26 +4,26 @@ description: 效能深入分析貢獻概述 — Marketo檔案 — 產品檔案
 title: 績效分析貢獻概述
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
 
-# 績效分析貢獻概述 {#performance-insights-contribution-overview}
+# [!UICONTROL Performance Insights]貢獻概述 {#performance-insights-contribution-overview}
 
-在Marketo效能深入分析中，「貢獻」檢視依預設會顯示。
+在Marketo [!UICONTROL Performance Insights]中，預設會顯示貢獻檢視。
 
 ![](assets/one-1.png)
 
-選取您要用來檢視效能的測量結果。 在此範例中，我們將檢視在收入儀表板中透過多重接觸贏得的機會。
+選取您要用來檢視效能的測量結果。 在此範例中，我們將檢視透過&#x200B;**[!UICONTROL Multi-Touch]**&#x200B;儀表板中的&#x200B;_[!UICONTROL Revenue]_贏得的機會。
 
 ![](assets/2.png)
 
 >[!NOTE]
 >
->瞭解[首次接觸與多重接觸](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)。
+>瞭解[[!UICONTROL First-Touch]和[!UICONTROL Multi-Touch]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)。
 
 選擇您要檢視量度的時段。 在此範例中，我們會檢視當年（年初至今）。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->我們已暫時移除「上一年」選取專案。 您仍然可以選擇使用「自訂範圍」選項，檢視整年的效能資料。
+>我們已暫時移除「上一年」選取專案。 您仍然可以選擇使用&#x200B;**[!UICONTROL Custom Range]**&#x200B;選項來檢視整年績效資料。
 
 量度透過兩個圖表呈現：環圈圖和長條圖。
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您想要在捲動群組時放大圖形中的長條，請選取&#x200B;**縮放Y軸以符合**&#x200B;核取方塊。
+>如果您想要在捲動群組時放大圖形中的長條，請選取&#x200B;**[!UICONTROL Scale Y axis to fit]**&#x200B;核取方塊。
 
 將滑鼠移至橫條上方，即可檢視其他詳細資訊。
 
@@ -57,16 +57,16 @@ ht-degree: 0%
 
 ![](assets/eight.png)
 
-下方資料格線的功能就像試算表，顯示所選歸因模型（首次接觸/多重接觸）下的所有可用量度。 包含所選量度的欄會反白顯示。
+下列資料格線的功能就像試算表，顯示所選歸因模型([!UICONTROL First-Touch]/[!UICONTROL Multi-Touch])下的所有可用量度。 包含所選量度的欄會反白顯示。
 
 ![](assets/9.png)
 
-| **個機會獲勝** | 計畫收到的影響已贏得商機的信用部份（以數值表示） |
+| **[!UICONTROL Opportunities Won]** | 計畫收到的影響已贏得商機的信用部份（以數值表示） |
 |---|---|
-| **贏得** | 程式因影響成功的機會而收到的信用部份（以貨幣價值表示） |
-| **成本** | 方案總成本 |
-| **每個商機的成本已獲得** | 方案成本與因影響新商機建立而收到之方案信用部分（以數值表示）的比率 |
-| **收入與成本的比率** | 影響贏得的機會與方案成本而收到之方案的信用比例（以貨幣價值表示） |
+| **[!UICONTROL Revenue Won]** | 程式因影響成功的機會而收到的信用部份（以貨幣價值表示） |
+| **[!UICONTROL Cost]** | 方案總成本 |
+| **[!UICONTROL Cost Per Opportunity Won]** | 方案成本與因影響新商機建立而收到之方案信用部分（以數值表示）的比率 |
+| **[!UICONTROL Revenue Won To Cost Ratio]** | 影響贏得的機會與方案成本而收到之方案的信用比例（以貨幣價值表示） |
 
 展開管道可檢視其前10個計畫，其餘計畫合併在一起。
 

@@ -2,24 +2,24 @@
 description: 將銷售活動屬性記錄到Salesforce - Marketo檔案 — 產品檔案
 title: 將銷售活動屬性記錄到Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 8%
+source-wordcount: '225'
+ht-degree: 12%
 
 ---
 
-# 將銷售活動屬性記錄到Salesforce {#logging-sales-activity-attributes-to-salesforce}
+# 將銷售活動屬性記錄到[!DNL Salesforce] {#logging-sales-activity-attributes-to-salesforce}
 
-Salesforce管理員可以手動將自訂活動欄位新增到Salesforce。
+Salesforce管理員可以手動將自訂活動欄位新增到[!DNL Salesforce]。
 
-1. 在您的Salesforce帳戶中，按一下&#x200B;**設定**。
+1. 在您的[!DNL Salesforce]帳戶中，按一下&#x200B;**[!UICONTROL Setup]**。
 
 1. 在快速搜尋欄位中搜尋「活動自訂欄位」，然後按一下它。
 
-1. 按一下&#x200B;**新增**。
+1. 按一下「**[!UICONTROL New]**」。
 
-1. 根據下表，選取與您要新增的欄位對應的資料型別，然後按一下&#x200B;**下一步**。
+1. 根據下表，選取與您要新增的欄位對應的資料型別，然後按一下&#x200B;**[!UICONTROL Next]**。
 
 1. 輸入欄位名稱和標籤，對應到您要新增的欄位。
 
@@ -40,105 +40,105 @@ Salesforce管理員可以手動將自訂活動欄位新增到Salesforce。
   <th>大小</th>
  </tr>
   <tr>
-  <td>呼叫結果</td>
+  <td>[!UICONTROL Call Outcomes]</td>
   <td>mktosales_call_output</td>
   <td>mktosales_call_output__c</td>
   <td>文字</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>來電原因</td>
+  <td>[!UICONTROL Call Reasons]</td>
   <td>mktosales_call_reason</td>
   <td>mktosales_call_reason__c</td>
   <td>文字</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>Marketo銷售電話當地是否存在ID</td>
+  <td>[!UICONTROL Marketo Sales Call Local Presence ID]</td>
   <td>MSE_Call_Local_Presence_ID</td>
   <td>MSE_Call_Local_Presence_ID__c</td>
   <td>文字</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Marketo銷售電話錄音URL</td>
+  <td>[!UICONTROL Marketo Sales Call Recording URL]</td>
   <td>MSE_Call_Recording</td>
   <td>MSE_Call_Recording__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo促銷活動</td>
+  <td>[!UICONTROL Marketo Sales Campaign]</td>
   <td>MSE_Campaign</td>
   <td>MSE_Campaign__c</td>
   <td>文字</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Marketo促銷活動目前步驟</td>
+  <td>[!UICONTROL Marketo Sales Campaign Current Step]</td>
   <td>MSE_Current_Campaign_Step</td>
   <td>MSE_Current_Campaign_Step__c</td>
   <td>文字</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Marketo促銷活動URL</td>
+  <td>[!UICONTROL Marketo Sales Campaign URL]</td>
   <td>MSE_Campaign_Details_Link</td>
   <td>MSE_Campaign_Details_Link__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>已檢視的Marketo銷售電子郵件附件</td>
+  <td>[!UICONTROL Marketo Sales Email Attachment Viewed]</td>
   <td>MSE_Presentation_Viewed</td>
   <td>MSE_Presentation_Viewed__c</td>
   <td>核取方塊</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo銷售電子郵件已點按</td>
+  <td>[!UICONTROL Marketo Sales Email Clicked]</td>
   <td>mse_Clicked</td>
   <td>MSE_Clicked__c</td>
   <td>核取方塊</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo銷售電子郵件已回覆</td>
+  <td>[!UICONTROL Marketo Sales Email Replied]</td>
   <td>MSE_Replied</td>
   <td>MSE_Replied__c</td>
   <td>核取方塊</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo銷售電子郵件狀態</td>
+  <td>[!UICONTROL Marketo Sales Email Status]</td>
   <td>mse_Email_Status</td>
   <td>MSE_Email_Status__c</td>
   <td>文字</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo銷售電子郵件範本</td>
+  <td>[!UICONTROL Marketo Sales Email Template]</td>
   <td>MSE_Template</td>
   <td>MSE_Template__c</td>
   <td>文字</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Marketo銷售電子郵件範本URL</td>
+  <td>[!UICONTROL Marketo Sales Email Template URL]</td>
   <td>MSE_Template_Details</td>
   <td>MSE_Template_Details__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo銷售電子郵件URL</td>
+  <td>[!UICONTROL Marketo Sales Email URL]</td>
   <td>mse_Details</td>
   <td>MSE_Details__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>已檢視的Marketo銷售電子郵件</td>
+  <td>[!UICONTROL Marketo Sales Email Viewed]</td>
   <td>MSE_Viewed</td>
   <td>MSE_Viewed__c</td>
   <td>核取方塊</td>

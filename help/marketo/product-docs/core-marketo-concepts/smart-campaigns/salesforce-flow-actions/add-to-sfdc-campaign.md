@@ -4,26 +4,26 @@ description: 新增至SFDC Campaign - Marketo檔案 — 產品檔案
 title: 新增至SFDC Campaign
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
 # 新增至SFDC Campaign {#add-to-sfdc-campaign}
 
-此流程步驟可用於Marketo Engage行銷活動，或作為單一流程步驟，在Salesforce行銷活動中新增人員作為銷售機會。 如果Salesforce中尚未存在潛在客戶，則會自動將其同步並新增至具有指定狀態的促銷活動。
+此流程步驟可用於Marketo Engage行銷活動，或作為單一流程步驟，在Salesforce行銷活動中將人員新增為銷售機會。 如果Salesforce中尚未存在潛在客戶，則會自動將其同步並新增至具有指定狀態的促銷活動。
 
 >[!NOTE]
 >
->僅在與Salesforce整合時可用。
+>僅在與[!DNL Salesforce]整合時可用。
 
 ![](assets/add-to-sfdc-campaign-1.png)
 
-## 使用量 {#usage}
+## 使用情況 {#usage}
 
-1. 尋找並選取您要新增銷售機會的Salesforce行銷活動。
+1. 尋找並選取您要新增銷售機會的[!DNL Salesforce]行銷活動。
 
    ![](assets/add-to-sfdc-campaign-2.png)
 
@@ -36,12 +36,12 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您可以使用Salesforce促銷活動[My Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}，讓程式複製更容易。
+   >您可以使用Salesforce行銷活動[我的Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}，更輕鬆復製程式。
 
-1. 選取在新增潛在客戶時，您想要指派的Salesforce促銷活動成員狀態。
+1. 選取在新增潛在客戶時，您想要指派的[!DNL Salesforce]行銷活動成員狀態。
 
    ![](assets/add-to-sfdc-campaign-3.png)
 
    >[!CAUTION]
    >
-   >如果人員已經是Salesforce促銷活動的主要成員，則將略過這些人員且其狀態不會更新。 您可以改用[在SFDC行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}中變更其狀態。
+   >如果人員已經是Salesforce行銷活動的主要成員，則將略過他們且其狀態不會更新。 您可以改用[在SFDC行銷活動中變更其狀態](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}。

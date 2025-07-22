@@ -1,31 +1,31 @@
 ---
 unique-page-id: 12981204
-description: 預測性內容Analytics概觀 — Marketo檔案 — 產品檔案
-title: 預測性內容分析概述
+description: 預測性Content Analytics概觀 — Marketo檔案 — 產品檔案
+title: 預測性Content Analytics概觀
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
-# 預測性內容分析概述 {#predictive-content-analytics-overview}
+# 預測性Content Analytics概觀 {#predictive-content-analytics-overview}
 
 使用內容分析進一步深入瞭解您的現有內容、（根據AI和預測演演算法）瞭解哪些內容適合您的對象，並提高行銷工作的ROI。
 
 >[!NOTE]
 >
->Analytics標籤和內容分析功能僅適用於Marketo預測性內容。
+>[!UICONTROL Analytics]索引標籤和內容分析功能僅適用於Marketo預測性內容。
 
 ## 概觀 {#overview}
 
-在[摘要]頁面上，按一下[**分析**]。
+在[摘要]頁面上，按一下&#x200B;**[!UICONTROL Analytics]**。
 
 ![](assets/one.png)
 
-Analytics包含數個區段：依檢視排名最前的內容、依轉換率排名最前的內容、趨勢內容、建議內容和內容。
+[!UICONTROL Analytics]包含幾個區段： [!UICONTROL Top Content by Views]、[!UICONTROL Top Content by Conversion Rate]、[!UICONTROL Trending Content]、[!UICONTROL Suggested Content]和[!UICONTROL Content]。
 
 ![](assets/new-2.png)
 
@@ -37,7 +37,7 @@ Analytics包含數個區段：依檢視排名最前的內容、依轉換率排�
 
 ![](assets/new-3point5.png)
 
-您可以依各種屬性/屬性來篩選結果（例如ABM帳戶清單、國家/地區等）。
+您可以依各種屬性/屬性來篩選結果（例如[!UICONTROL ABM Account List]、[!UICONTROL Country]等）。
 
 ![](assets/pca.png)
 
@@ -45,13 +45,13 @@ Analytics包含數個區段：依檢視排名最前的內容、依轉換率排�
 
 ![](assets/dates.png)
 
-## 依檢視排名最前的內容 {#top-content-by-views}
+## [!UICONTROL Top Content by Views] {#top-content-by-views}
 
 依所選日期範圍的檢視次數顯示排名最前的內容片段。
 
 ![](assets/new-6.png)
 
-## 依轉換率排名最前的內容 {#top-content-by-conversion-rate}
+## [!UICONTROL Top Content by Conversion Rate] {#top-content-by-conversion-rate}
 
 顯示所選日期範圍依轉換率排名最前的轉換內容。
 
@@ -63,13 +63,13 @@ Analytics包含數個區段：依檢視排名最前的內容、依轉換率排�
 >
 >**轉換率**：由直接轉換除以點按次數計算的百分比。
 
-## 趨勢內容 {#trending-content}
+## [!UICONTROL Trending Content] {#trending-content}
 
 檢視與去年同期相比過去兩週的檢視增加，顯示內容片段人氣激增。
 
 ![](assets/new-8.png)
 
-## 建議內容 {#suggested-content}
+## [!UICONTROL Suggested Content] {#suggested-content}
 
 顯示我們建議您根據您定義的篩選器，在行銷活動中促銷的內容。
 
@@ -81,9 +81,9 @@ Analytics包含數個區段：依檢視排名最前的內容、依轉換率排�
 
 >[!NOTE]
 >
->看到底部的圖示了嗎？ 由左至右為：檢視內容、匯出至CSV、核准內容。
+>看到底部的圖示了嗎？ 從左至右分別為： [!UICONTROL View Content]、[!UICONTROL Export to CSV]、[!UICONTROL Approve Content]。
 
-## 內容 {#content}
+## [!UICONTROL Content] {#content}
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 

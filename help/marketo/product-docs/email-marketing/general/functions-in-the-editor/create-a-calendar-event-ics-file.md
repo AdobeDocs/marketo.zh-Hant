@@ -4,9 +4,9 @@ description: 建立日曆事件(.ics)檔案 — Marketo檔案 — 產品檔案
 title: 建立日曆事件(.ics)檔案
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 行事曆檔案Token可讓您將行事曆事件(.ics)連結新增到您的Marketo電子郵件和登入頁面。
 
-1. 在您的程式內，前往&#x200B;**我的Token**&#x200B;標籤。
+1. 在您的程式內，前往&#x200B;**[!UICONTROL My Tokens]**&#x200B;標籤。
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. 將&#x200B;**行事曆檔案**&#x200B;權杖拖曳至畫布。
+1. 將&#x200B;**[!UICONTROL Calendar File]**&#x200B;權杖拖曳至畫布。
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. 輸入&#x200B;**Token名稱**&#x200B;和&#x200B;**編輯**。
+1. 輸入&#x200B;**Token名稱**&#x200B;並按一下&#x200B;**[!UICONTROL Click to Edit]**。
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 
-1. 輸入詳細資料，然後按一下&#x200B;**儲存**。
+1. 輸入詳細資料，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-11-15-3a34-3a16.png)
 

@@ -4,9 +4,9 @@ description: 電子郵件範本選取器概覽 — Marketo檔案 — 產品檔�
 title: 電子郵件範本選取器概觀
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -17,27 +17,27 @@ ht-degree: 0%
 
 ![](assets/email-template-picker-overview-1.png)
 
-**名稱**&#x200B;將是您根據範本建立的電子郵件名稱，而非範本本身。 **描述**&#x200B;也適用於電子郵件，而且是選擇性的。
+**[!UICONTROL Name]**&#x200B;將是您根據範本建立的電子郵件名稱，而非範本本身。 **[!UICONTROL Description]**&#x200B;也適用於電子郵件，且是選擇性的。
 
 ![](assets/two-2.png)
 
-如果您的電子郵件很關鍵，而且您想要它避開通訊限制，請核取方塊[讓它運作](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)。 預設會選取&#x200B;**在編輯器中開啟**，這僅代表您想要立即開始編輯新電子郵件。 **建立**&#x200B;表示，建立！
+如果您的電子郵件很關鍵，而且您想要它避開通訊限制，請核取方塊[讓它運作](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)。 預設會選取&#x200B;**[!UICONTROL Open in editor]**，這僅代表您想要立即開始編輯新電子郵件。 **[!UICONTROL Create]**&#x200B;表示，建立！
 
 ![](assets/three-2.png)
 
-**入門範本**&#x200B;包含可立即使用的回應式電子郵件範本集合。 您可以照原樣使用，或根據您的喜好自訂這些功能。
+**[!UICONTROL Starter Templates]**&#x200B;包含立即可用的回應式電子郵件範本集合。 您可以照原樣使用，或根據您的喜好自訂這些功能。
 
 ![](assets/email-template-picker-overview-4.png)
 
-**我的範本**&#x200B;包含您已建立的所有範本。 您也可能有資料夾。
+**[!UICONTROL My Templates]**&#x200B;包含您已建立的所有範本。 您也可能有資料夾。
 
 ![](assets/five-2.png)
 
-在Design Studio樹狀結構中，顯示在[電子郵件] > [範本]下的所有資料夾都可在&#x200B;**[我的範本]**&#x200B;中使用。
+在&#x200B;**[!UICONTROL Emails]**&#x200B;樹狀結構中顯示在&#x200B;**[!UICONTROL Templates]** > [!UICONTROL Design Studio]下的所有資料夾都將可在&#x200B;**[!UICONTROL My Templates]**&#x200B;中使用。
 
 ![](assets/six-1.png)
 
-若要預覽範本，請將滑鼠移到其縮圖上，然後按一下[預覽]。**&#x200B;** 您也可以按兩下它。
+若要預覽範本，請將滑鼠停留在其縮圖上，然後按一下&#x200B;**[!UICONTROL Preview]**。 您也可以按兩下它。
 
 ![](assets/seven-1.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ![](assets/nine-1.png)
 
-如果您喜歡此範本，請按一下右下角的&#x200B;**選取**&#x200B;來選擇它。 想繼續找嗎？ 按一下右上角的&#x200B;**X**。 使用左右箭頭來捲動範本。
+如果您喜歡此範本，請按一下右下角的&#x200B;**[!UICONTROL Select]**&#x200B;來選擇它。 想繼續找嗎？ 按一下右上角的&#x200B;**X**。 使用左右箭頭來捲動範本。
 
 ![](assets/ten-1.png)
 

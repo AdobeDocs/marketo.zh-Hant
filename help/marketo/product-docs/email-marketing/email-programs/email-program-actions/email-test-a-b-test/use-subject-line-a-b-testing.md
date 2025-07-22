@@ -4,22 +4,22 @@ description: 使用「主旨列」A/B測試 — Marketo檔案 — 產品檔案
 title: 使用「主旨列」A/B測試
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # 使用「主旨列」A/B測試 {#use-subject-line-a-b-testing}
 
-您可以輕鬆對電子郵件進行A/B測試。 最常見的測試之一是&#x200B;**主旨列**&#x200B;測試。
+您可以輕鬆對電子郵件進行A/B測試。 最常見的測試之一是&#x200B;**[!UICONTROL Subject Line]**&#x200B;測試。
 
 >[!PREREQUISITES]
 >
 >[新增A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. 在「電子郵件」圖磚下，選取您的電子郵件後，按一下「新增A/B測試」 。
+1. 在&#x200B;**[!UICONTROL Email tile]**&#x200B;底下，選取您的電子郵件後，按一下&#x200B;**[!UICONTROL Add A/B Test]**。
 
 ![](assets/image2014-9-12-15-3a6-3a2.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >您可以按一下&#x200B;**+**&#x200B;以新增更多主旨列。
 
-1. 使用滑桿來選擇要接收A/B測試的對象百分比，然後按一下&#x200B;**下一步**。
+1. 使用滑桿選擇要接收A/B測試的對象百分比，然後按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/image2014-9-12-15-3a10-3a4.png)
 

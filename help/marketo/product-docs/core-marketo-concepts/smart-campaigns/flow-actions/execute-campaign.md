@@ -3,9 +3,9 @@ description: 執行行銷活動 — Marketo檔案 — 產品檔案
 title: 執行行銷活動
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '692'
 ht-degree: 0%
 
 ---
@@ -32,17 +32,17 @@ ht-degree: 0%
 
 ## 如何建立可執行的行銷活動 {#how-to-create-an-executable-campaign}
 
-1. 用滑鼠右鍵按一下您想要的程式，然後選取&#x200B;**[!UICONTROL 新增Smart Campaign]**。
+1. 用滑鼠右鍵按一下所需的程式，然後選取&#x200B;**[!UICONTROL New Smart Campaign]**。
 
    ![](assets/execute-campaign-1.png)
 
-1. 指定名稱，選取&#x200B;**[!UICONTROL 可執行檔]**&#x200B;核取方塊，然後按一下&#x200B;**[!UICONTROL 建立]**。
+1. 指定名稱，選取&#x200B;**[!UICONTROL Executable]**&#x200B;核取方塊，然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/execute-campaign-2.png)
 
 1. 定義智慧列示和流量，就像任何其他Smart Campaign。
 
-您也可以複製現有的Smart Campaign。 如果您複製現有的「可執行檔行銷活動」，您仍需在命名後選取「**[!UICONTROL 可執行檔]**」核取方塊。
+您也可以複製現有的Smart Campaign。 如果您複製現有的「可執行檔行銷活動」，則仍需在命名後選取「**[!UICONTROL Executable]**」核取方塊。
 
 >[!NOTE]
 >
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 設為true時，系統會將下列權杖內容傳送至子行銷活動（正在執行的行銷活動）：
 
-* 我的Token
+* 我的代號
 * 行銷活動Token
 * 計畫權杖
 * 成員Token
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **API互動**
 
-在API[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)中使用排程或請求促銷活動時，兩者都可以讓您傳遞「我的Token」的值，這會覆寫在您呼叫之促銷活動中為這些Token設定的值。 如果該行銷活動接著執行另一個行銷活動並設定「使用父項內容為True」，則它會使用透過API傳遞的值，而不是應用程式中設定的值。
+在API[中使用排程或請求促銷活動](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)時，兩者都可以讓您傳遞「我的Token」的值，這會覆寫在您呼叫之促銷活動中為這些Token設定的值。 如果該行銷活動接著執行另一個行銷活動並設定「使用父項內容為True」，則它會使用透過API傳遞的值，而不是應用程式中設定的值。
 
 ## 注意事項 {#things-to-note}
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 ### 範例一 — True {#example-one-true}
 
-在第一個父級促銷活動的「執行促銷活動」流程步驟中，「使用父級促銷活動代號內容」設為&#x200B;**True**。
+在第一個父級行銷活動的「執行行銷活動」流程步驟中，&quot;[!UICONTROL Use Parent Campaign Token Context]&quot;設為&#x200B;**[!UICONTROL True]**。
 
 ![](assets/execute-campaign-5.png)
 

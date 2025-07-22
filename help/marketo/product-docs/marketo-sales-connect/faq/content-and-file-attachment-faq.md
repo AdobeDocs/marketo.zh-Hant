@@ -4,9 +4,9 @@ description: 內容和檔案附件常見問題集 — Marketo檔案 — 產品�
 title: 內容和檔案附件常見問題集
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 **檔案附件**&#x200B;就像您在一般電子郵件使用者端中使用的檔案附件。
 
-**我們用來描述任何檔案(PPT、PDF、Word檔案等)的內容** 您希望由Sales Connect追蹤的專案。
+**內容**&#x200B;是用來描述您想由[!DNL Sales Connect]追蹤的任何檔案(PPT、PDF、Word檔案等)的內容。
 
 按一下該按鈕後，您就可以選擇已上傳的檔案，或上傳要追蹤的新檔案。 我們隨後會在您使用的電子郵件或範本中插入連結。
 
-在接收端，收件者按一下連結，內容即會填入瀏覽器。 這可讓我們追蹤每個頁面檢視，並在即時摘要中向Sales Connect使用者報告。
+在接收端，收件者按一下連結，內容即會填入瀏覽器。 這可讓我們追蹤每個頁面檢視，並在即時摘要中向[!DNL Sales Connect]使用者報告。
 
-檔案和內容選項適用於：一次性電子郵件、範本、行銷活動、Outlook (Windows和Mac)、Gmail和OWA。
+檔案和內容選項適用於：一次性電子郵件、範本、行銷活動、[!DNL Outlook] (包括[!DNL Windows]和Mac)、Gmail和OWA。
 
 ## 誰管理內容及其儲存位置？ {#who-manages-the-content-and-where-is-it-stored}
 
-任何能夠建立範本的使用者都可以將內容上傳至Sales Connect存放庫。 這表示使用者可以上傳他們選擇的內容。
+任何能夠建立範本的使用者都可以將內容上傳到[!DNL Sales Connect]存放庫。 這表示使用者可以上傳他們選擇的內容。
 
 ## 內容、教戰手冊、範本等是否可由團隊建立/組織？ {#can-content-playbooks-templates-etc-be-created-organized-by-teams}
 

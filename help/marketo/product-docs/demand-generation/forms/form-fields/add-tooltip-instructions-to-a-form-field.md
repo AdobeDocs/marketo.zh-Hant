@@ -4,10 +4,10 @@ description: 新增工具提示指示至表單欄位 — Marketo檔案 — 產�
 title: 新增工具提示指示到表單欄位
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 0%
+source-wordcount: '114'
+ht-degree: 1%
 
 ---
 
@@ -23,23 +23,23 @@ ht-degree: 0%
 >
 >表單&#x200B;**指示**&#x200B;是當訪客在欄位上暫留時快顯的小工具提示。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-6.png)
 
-1. 選取您的&#x200B;**表單**&#x200B;並按一下&#x200B;**編輯表單**。
+1. 選取您的&#x200B;**表單**&#x200B;並按一下&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. 選取您的欄位並輸入&#x200B;**指示**。
+1. 選取您的欄位並輸入&#x200B;**[!UICONTROL Instructions]**。
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. 按一下&#x200B;**完成**。
+1. 按一下「**[!UICONTROL Finish]**」。
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. 按一下&#x200B;**核准並關閉**。
+1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 

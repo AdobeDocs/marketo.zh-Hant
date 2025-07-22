@@ -4,22 +4,22 @@ description: 建立內容模式 — Marketo檔案 — 產品檔案
 title: 建立內容模式
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
 
 # 建立內容模式 {#create-content-patterns}
 
-當您設定內容模式時，當網站訪客點按與內容模式相關的HTML網頁時，就會自動探索內容。 可用來將HTML頁面（部落格、新聞稿、新聞文章）以內容片段的方式新增至「所有內容」頁面。 當自動探索是根據內容模式時，它會在Web訪客檢視或按一下頁面的連結時，探索並追蹤與定義的URL模式相關的HTML頁面。 此內容片段（URL、頁面名稱和中繼資料，包括影像URL和說明）會新增至「所有內容」頁面，以準備預測性內容。 若要自動探索其他內容，例如PDF和內嵌視訊，您需要[啟用內容探索](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)。
+當您設定內容模式時，當網站訪客點按與內容模式相關的HTML網頁時，就會自動探索內容。 可用來新增HTML頁面（部落格、新聞稿、新聞文章）作為內容片段至所有內容頁面。 當自動探索是根據內容模式時，它會在Web訪客檢視或按一下頁面的連結時，探索並追蹤與已定義URL模式相關的HTML頁面。 此內容片段（URL、頁面名稱和中繼資料，包括影像URL和說明）會新增至「所有內容」頁面，以準備預測性內容。 若要自動探索其他內容，例如PDF和內嵌視訊，您需要[啟用內容探索](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)。
 
-1. 移至&#x200B;**內容設定**。
+1. 移至&#x200B;**[!UICONTROL Content Settings]**。
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. 按一下&#x200B;**URL模式**。
+1. 按一下「**[!UICONTROL URL Patterns]**」。
 
    ![](assets/click-url-patterns-hand.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. 新增網頁所在網域的URL副檔名。 選取類別（例如，部落格、文章、資料表、新聞稿）。
+1. 新增網頁所在網域的URL副檔名。 選取類別（例如，[!UICONTROL Blog]、[!UICONTROL Article]、[!UICONTROL Data Sheet]、[!UICONTROL Press Release]）。
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/url-patterns-add2.png)
 
-1. 新增其他路徑的副檔名和類別，然後按一下[儲存]。**&#x200B;**
+1. 新增其他路徑的副檔名和類別，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/url-patterns-save.png)
 
@@ -76,7 +76,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>新聞稿</td> 
-   <td><p>只探索到一個完全相符的HTML頁面：</p><p>domain.com/press-release</p></td> 
+   <td><p>僅探索到一個完全相符的HTML頁面：</p><p>domain.com/press-release</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> </td> 

@@ -4,9 +4,9 @@ description: 測試您的ON24事件整合 — Marketo檔案 — 產品檔案
 title: 測試您的ON24事件整合
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 以下是事件發生後如何更新資料：
 
 * Marketo每晚都會從ON24擷取出席者資料。
-* 在與會者資料在Marketo和ON24之間同步後，Marketo會將會籍狀態更新為已參加、已出席隨選或未顯示。 在事件的&#x200B;**摘要**&#x200B;索引標籤中，事件狀態已更新為&#x200B;**事件完成**。
+* 在與會者資料在Marketo和ON24之間同步後，Marketo會將會籍狀態更新為[!UICONTROL Attended]、[!UICONTROL Attended On-demand]或[!UICONTROL No Show]。 在事件的&#x200B;**[!UICONTROL Summary]**&#x200B;標籤中，事件狀態已更新為&#x200B;**[!UICONTROL Event Complete]**。
 
 >[!MORELIKETHIS]
 >

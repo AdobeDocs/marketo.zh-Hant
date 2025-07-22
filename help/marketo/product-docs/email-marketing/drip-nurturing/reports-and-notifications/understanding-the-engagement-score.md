@@ -4,9 +4,9 @@ description: 瞭解參與分數 — Marketo檔案 — 產品檔案
 title: 瞭解參與分數
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![](assets/highestengagementwidget.jpg)
 
-此分數是以專屬演演算法為基礎，且考量參與行為（開啟、點選、方案成功）和脫離參與行為（取消訂閱）。 它以滴濾和培養風格的電子郵件為基準，平均為50封。 為了提供人們與您的內容互動的機會，參與分數會在每個演員陣容72小時後計算。 此外，分數僅涵蓋&#x200B;**您最後三個**&#x200B;轉換的資料。
+分數是以專有演演算法為基礎，該演演算法會考慮參與行為([!UICONTROL Open]、[!UICONTROL Click]、[!UICONTROL Program Success])和脫離行為([!UICONTROL Unsubscribe])。 它以滴濾和培養風格的電子郵件為基準，平均為50封。 為了提供人們與您的內容互動的機會，參與分數會在每個演員陣容72小時後計算。 此外，分數僅涵蓋&#x200B;**您最後三個**&#x200B;轉換的資料。
 
 >[!NOTE]
 >

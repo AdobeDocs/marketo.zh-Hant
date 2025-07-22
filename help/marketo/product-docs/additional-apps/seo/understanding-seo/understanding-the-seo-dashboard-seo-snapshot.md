@@ -4,9 +4,9 @@ description: 瞭解SEO控制面板 — SEO快照 — Marketo檔案 — 產品檔
 title: 瞭解SEO儀表板 — SEO快照
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 使用控制面板以取得關鍵字排名趨勢的高階檢視，以及您的網站針對SEO最佳化的程度。
 
-若要瞭解如何集中改善您的SEO工作，請使用此儀表板的[[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)區段。
+若要找出要著重改善您SEO工作的專案，請使用此儀表板的[[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)區段。
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
-## [!UICONTROL 關鍵字排名摘要] {#keyword-rank-summary}
+## [!UICONTROL Keyword Rank Summary] {#keyword-rank-summary}
 
 本區段顯示您的網站針對您鎖定目標的[關鍵字排名](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)。
 
@@ -39,9 +39,9 @@ ht-degree: 0%
 >
 >只會針對排名第1-100的關鍵字顯示資料。
 
-## [!UICONTROL 平均頁面最佳化分數] {#average-page-optimization-score}
+## [!UICONTROL Average Page Optimization Score] {#average-page-optimization-score}
 
-平均頁面最佳化分數是專有的Marketo分數，會以1到100的級數測量您網站上的所有頁面。
+[!UICONTROL Average Page Optimization Score]是專有的Marketo分數，會以1到100的級數測量您網站上的所有頁面。
 
 它以數十種最佳實務的彙編為基礎。 如果分數為70或以上，表示網站已妥善最佳化。
 
@@ -51,9 +51,9 @@ ht-degree: 0%
 >
 >您也可以檢視特定頁面清單的最佳化分數。 使用下拉式清單，選取您感興趣的專案。
 
-## [!UICONTROL 關鍵字排名趨勢] {#keyword-rank-trends}
+## [!UICONTROL Keyword Rank Trends] {#keyword-rank-trends}
 
-[!UICONTROL 關鍵字排名趨勢]圖表會以每月搜尋量最高的五個來提取您的關鍵字，並繪製這些關鍵字在一段時間內的排名圖表。
+[!UICONTROL Keyword Rank Trends]圖表會以每月搜尋量最高的五個來提取您的關鍵字，並繪製這些關鍵字在一段時間內的排名圖表。
 
 >[!TIP]
 >

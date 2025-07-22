@@ -4,10 +4,10 @@ description: 使用「欄位管理器」 — Marketo檔案 — 產品檔案建�
 title: 使用「欄位組織器」建立自訂欄位群組
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1000'
-ht-degree: 2%
+source-wordcount: '951'
+ht-degree: 3%
 
 ---
 
@@ -36,19 +36,19 @@ ht-degree: 2%
 
 ## 建立自訂欄位群組 — 字串編輯器 {#create-custom-field-group-string-editor}
 
-1. 按一下&#x200B;**潛在客戶資料庫**。
+1. 按一下「**[!UICONTROL Lead Database]**」。
 
    ![](assets/one.png)
 
-1. 按一下&#x200B;**新增**，然後選取&#x200B;**新增欄位組織器**。
+1. 按一下&#x200B;**[!UICONTROL New]**，然後選取&#x200B;**[!UICONTROL New Field Organizer]**。
 
    ![](assets/two.png)
 
-1. 按一下&#x200B;**欄位**&#x200B;並選取資料型別對應到字串編輯器的標準或自訂欄位（請參閱上一節中的表格）。 此處使用國家/地區。
+1. 按一下&#x200B;**[!UICONTROL Field]**&#x200B;並選取資料型別對應到字串編輯器的標準或自訂欄位（請參閱上一節中的表格）。 此處使用[!UICONTROL Country]。
 
    ![](assets/three.png)
 
-1. 按一下&#x200B;**建立**。
+1. 按一下「**[!UICONTROL Create]**」。
 
    ![](assets/four.png)
 
@@ -60,7 +60,7 @@ ht-degree: 2%
 
    ![](assets/five.png)
 
-1. 依預設，所有資料值都會放在「其他」子群組中。 若要將資料值分類，請按一下[新增群組] **&#x200B;**&#x200B;以建立子群組並為其命名。
+1. 依預設，所有資料值都會放在&quot;[!UICONTROL Other]&quot;子群組中。 若要分類資料值，請按一下&#x200B;**[!UICONTROL Add Group]**&#x200B;建立子群組並為其命名。
 
    >[!NOTE]
    >
@@ -72,7 +72,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >若要刪除子群組，只要按一下子群組名稱旁邊的紅色X即可。 如果群組中有任何資料值，資料值將會移至「其他」的預設群組。
+   >若要刪除子群組，只要按一下子群組名稱旁邊的紅色X即可。 如果群組中有任何資料值，資料值將會移至預設群組[!UICONTROL Other]。
 
 1. 反白顯示畫布中的資料值，並將資料值拖放至適當的子群組中。
 
@@ -92,19 +92,19 @@ ht-degree: 2%
 
 ## 建立自訂欄位群組 — 整數編輯器 {#create-custom-field-group-integer-editor}
 
-1. 按一下&#x200B;**潛在客戶資料庫**。
+1. 按一下「**[!UICONTROL Lead Database]**」。
 
    ![](assets/one.png)
 
-1. 按一下&#x200B;**新增**，然後選取&#x200B;**新增欄位組織器**。
+1. 按一下&#x200B;**[!UICONTROL New]**，然後選取&#x200B;**[!UICONTROL New Field Organizer]**。
 
    ![](assets/two.png)
 
-1. 按一下&#x200B;**欄位**&#x200B;並選取資料型別對應到字串編輯器的標準或自訂欄位（請參閱上一節中的表格）。 年度收入在此使用。
+1. 按一下&#x200B;**[!UICONTROL Field]**&#x200B;並選取資料型別對應到字串編輯器的標準或自訂欄位（請參閱上一節中的表格）。 此處使用[!UICONTROL Annual Revenue]。
 
    ![](assets/nine.png)
 
-1. 按一下&#x200B;**建立**。
+1. 按一下「**[!UICONTROL Create]**」。
 
    ![](assets/9.5.png)
 
@@ -112,13 +112,13 @@ ht-degree: 2%
 
    ![](assets/9.6.png)
 
-1. 按一下整數編輯器上方的預設自訂群組名稱，以自訂名稱。 例如，您可以將「年度收入群組」重新命名為「依大小的年度收入」。 按一下&#x200B;**保存**。
+1. 按一下整數編輯器上方的預設自訂群組名稱，以自訂名稱。 例如，您可以將「年度收入群組」重新命名為「依大小的年度收入」。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/eleven.png)
 
    整數編輯器可讓您建立多個子群組，依大小定義每個子群組。 在此範例中，將會為小型、Medium和企業企業建立三個群組。
 
-1. 若要新增您的第一個群組，請在&#x200B;**群組名稱**&#x200B;欄位中輸入名稱（範例：小），並在&#x200B;**群組範圍**&#x200B;欄位中輸入最大值(範例：200000)。 按一下&#x200B;**新增群組**。
+1. 若要新增您的第一個群組，請在&#x200B;**[!UICONTROL Group Name]**&#x200B;欄位中輸入名稱（例如：小），然後在&#x200B;**[!UICONTROL Group Range]**&#x200B;欄位中輸入最大值(例如：200000)。 按一下「**[!UICONTROL Add Group]**」。
 
    ![](assets/twelve.png)
 
@@ -146,19 +146,19 @@ ht-degree: 2%
 
 ## 建立自訂欄位群組 — 日期編輯器 {#create-custom-field-group-date-editor}
 
-1. 按一下&#x200B;**潛在客戶資料庫**。
+1. 按一下「**[!UICONTROL Lead Database]**」。
 
    ![](assets/one.png)
 
-1. 按一下&#x200B;**新增**，然後選取&#x200B;**新增欄位組織器**。
+1. 按一下&#x200B;**[!UICONTROL New]**，然後選取&#x200B;**[!UICONTROL New Field Organizer]**。
 
    ![](assets/two.png)
 
-1. 按一下&#x200B;**欄位**&#x200B;並選取資料型別對應到字串編輯器的標準或自訂欄位（請參閱上一節中的表格）。 贏取日期在此使用。
+1. 按一下&#x200B;**[!UICONTROL Field]**&#x200B;並選取資料型別對應到字串編輯器的標準或自訂欄位（請參閱上一節中的表格）。 此處使用[!UICONTROL Acquisition Date]。
 
    ![](assets/fourteen.png)
 
-1. 按一下&#x200B;**建立**。
+1. 按一下「**[!UICONTROL Create]**」。
 
    ![](assets/14.5.png)
 
@@ -166,19 +166,19 @@ ht-degree: 2%
 
    ![](assets/14.6.png)
 
-1. 按一下日期編輯器上方的預設自訂群組名稱以自訂名稱。 例如，您可以將「贏取日期群組」重新命名為「贏取日期類別」。 按一下&#x200B;**保存**。
+1. 按一下日期編輯器上方的預設自訂群組名稱以自訂名稱。 例如，您可以將「贏取日期群組」重新命名為「贏取日期類別」。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/fifteen.png)
 
    日期編輯器可讓您建立多個子群組，並按日期定義每個子群組。 在此範例中，將建立三個群組：Q1-15銷售機會、Q2-15銷售機會和Q3-15銷售機會。
 
-1. 若要新增您的第一個群組，請在&#x200B;**群組名稱**&#x200B;欄位中輸入名稱（例如：Q1-15銷售機會），並在日期欄位中輸入日期，該日期代表取得銷售機會的日期或之前的日期（例如：Q1-15最後一天的日期：3/31/2015）。 按一下&#x200B;**新增群組**。
+1. 若要新增您的第一個群組，請在&#x200B;**[!UICONTROL Group Name]**&#x200B;欄位中輸入名稱（例如：Q1-15銷售機會），然後在日期欄位中輸入日期，該日期代表取得銷售機會的日期或之前的日期（例如：Q1-15最後一天的日期：3/31/2015）。 按一下「**[!UICONTROL Add Group]**」。
 
    ![](assets/sixteen.png)
 
    >[!NOTE]
    >
-   >您可以新增最多10個子群組來分類資料值。 每個「群組範圍」專案都建立在上一個專案上。 如果您將您建立的最後一個自訂子群組的最後一個群組範圍專案保留空白，則不會設定結束日期值。
+   >您可以新增最多10個子群組來分類資料值。 每個[!UICONTROL Group Range]專案都建立在上一個專案上。 如果您將您建立的最後一個自訂子群組的最後[!UICONTROL Group Range]專案保留空白，則不會設定結束日期值。
 
    以下範例顯示2015年第1季到第3季的銷售線索專案。
 

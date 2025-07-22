@@ -4,9 +4,9 @@ description: 讓電子郵件可正常運作 — Marketo檔案 — 產品檔案
 title: 讓電子郵件運作正常
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 7c1bf673c2f7917c244dafdd3e8207203cd56bfb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >營運電子郵件不計入通訊限制。 例如，如果某人每週只能收到一封電子郵件，而您已傳送行銷電子郵件給他們，則您仍可視需要傳送營運電子郵件給他們。
 
-1. 尋找您的電子郵件，選取並按一下&#x200B;**編輯草稿**。
+1. 尋找您的電子郵件，選取並按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
 ![](assets/one-1.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 >
 >您應該只將營運電子郵件用於重要電子郵件和自動回應者。 它們不適用於行銷電子郵件。
 
-1. 編輯器開啟後，按一下&#x200B;**電子郵件設定**。
+1. 編輯器開啟後，按一下&#x200B;**[!UICONTROL Email Settings]**。
 
    ![](assets/two-1.png)
 
-1. 檢查&#x200B;**操作電子郵件**&#x200B;並按一下&#x200B;**儲存**。
+1. 檢查&#x200B;**[!UICONTROL Operational Email]**&#x200B;並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/three.png)
 

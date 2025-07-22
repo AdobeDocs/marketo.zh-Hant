@@ -4,9 +4,9 @@ description: 封鎖的網域 — Marketo檔案 — 產品檔案
 title: 封鎖的網域
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 在網頁應用程式中，按一下齒輪圖示並選取&#x200B;**設定**。
+1. 在網頁應用程式中，按一下齒輪圖示並選取&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/one-3.png)
 
-1. 在[管理設定]下，按一下[一般] **&#x200B;**。
+1. 在[!UICONTROL Admin Settings]底下，按一下&#x200B;**[!UICONTROL General]**。
 
    ![](assets/two-3.png)
 
-1. 輸入您要封鎖的網域，然後按一下&#x200B;**封鎖網域**。
+1. 輸入您要封鎖的網域，然後按一下&#x200B;**[!UICONTROL Block Domain]**。
 
    ![](assets/three-3.png)
 

@@ -4,9 +4,9 @@ description: 建立電子郵件程式的電子郵件 — Marketo檔案 — 產�
 title: 為電子郵件計畫建立電子郵件
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 建立電子郵件方案並定義對象後，您會想要決定要傳送的電子郵件。 您可以[選擇現有的電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)，或從頭開始建立電子郵件。 以下說明如何建立新電子郵件。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/one.png)
 
-1. 選取您的電子郵件程式。 在&#x200B;**電子郵件**&#x200B;方塊下，按一下&#x200B;**新增電子郵件**。
+1. 選取您的電子郵件程式。 在&#x200B;**[!UICONTROL Email]**&#x200B;圖磚下，按一下&#x200B;**[!UICONTROL New Email]**。
 
    ![](assets/newemaildashboard.png)
 
-1. 輸入&#x200B;**名稱**，選取您選擇的範本，然後按一下&#x200B;**建立**。
+1. 輸入&#x200B;**[!UICONTROL Name]**，選取您選擇的範本，然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/three.png)
 

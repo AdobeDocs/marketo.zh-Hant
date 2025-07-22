@@ -3,9 +3,9 @@ description: 自訂取消訂閱連結訊息 — Marketo檔案 — 產品檔案
 title: 自訂取消訂閱連結訊息
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您無法搭配Marketo Sales使用協力廠商取消訂閱連結，因為系統不會將這項資訊擷取回資料庫。
+>您無法搭配[!DNL Marketo Sales]使用協力廠商取消訂閱連結，因為系統不會擷取此資訊回資料庫。
 
-1. 按一下齒輪圖示並選取&#x200B;**設定**。
+1. 按一下齒輪圖示並選取&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. 在[管理設定]下，按一下[**取消訂閱**]。
+1. 在[!UICONTROL Admin Settings]底下，按一下&#x200B;**[!UICONTROL Unsubscribes]**。
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 
@@ -38,10 +38,10 @@ ht-degree: 0%
    >
    >您輸入的URL並不重要。 當電子郵件傳送時，第一個（或唯一）超連結將自動連結到預設的取消訂閱頁面。
 
-1. 輸入URL，決定您要在目前或新視窗中開啟連結，然後按一下&#x200B;**儲存**。
+1. 輸入URL，決定您要在目前或新視窗中開啟連結，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/customize-unsubscribe-link-message-5.png)
 
-1. 按一下底部的「儲存&#x200B;**&#x200B;**」以儲存您的變更。
+1. 按一下底部的&#x200B;**[!UICONTROL Save]**&#x200B;以儲存變更。
 
    ![](assets/customize-unsubscribe-link-message-6.png)

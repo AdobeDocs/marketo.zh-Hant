@@ -4,9 +4,9 @@ description: 選取您的應用程式內訊息 — Marketo檔案 — 產品檔�
 title: 選取您的應用程式內訊息
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >若要選取其他訊息，請在「應用程式內訊息」欄位中刪除該訊息。 接著，應用程式內訊息連結會重新出現。 按一下並選取其他訊息。
+   >若要選取其他訊息，請在[!UICONTROL In-App Message]欄位中刪除該訊息。 接著，[!UICONTROL New In-App Message]連結會回來。 按一下並選取其他訊息。
 
 您進展順利。 [排程傳送](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)的時間。

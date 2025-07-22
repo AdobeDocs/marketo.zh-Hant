@@ -4,24 +4,24 @@ description: Microsoft Dynamics Sync -Opportunity Sync - Marketo檔案 — 產�
 title: Microsoft Dynamics同步 — 機會同步
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 9a130e0b2ec84b638adf37188b65b565b090fe1b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
 
-# Microsoft Dynamics同步：機會同步 {#microsoft-dynamics-sync-opportunity-sync}
+# [!DNL Microsoft Dynamics]同步：機會同步 {#microsoft-dynamics-sync-opportunity-sync}
 
-Dynamics同步的Marketo Engage功能非常強大。 以下是機會同步處理的所有詳細資料。
+Marketo與[!DNL Dynamics]的同步處理功能非常強大。 以下是機會同步處理的所有詳細資料：
 
 ## 兩個系統之間的機會詳細資料如何保持同步？ {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
-機會同步是單向的 — Dynamics與Marketo。 如果您在Dynamics中變更商機，您的更新將會反映在Marketo中。
+機會同步是單向的 — [!DNL Dynamics]到Marketo。 如果您在[!DNL Dynamics]中變更商機，您的更新將會反映在Marketo中。
 
-## 我可以使用Marketo在Dynamics中建立機會嗎？ {#can-i-create-an-opportunity-in-dynamics-using-marketo}
+## 我可以使用Marketo在[!DNL Dynamics]中建立商機嗎？ {#can-i-create-an-opportunity-in-dynamics-using-marketo}
 
-否，您必須在Dynamics中建立機會，該機會會自動同步至Marketo。
+否，您必須在[!DNL Dynamics]中建立機會，該機會會自動同步至Marketo。
 
 ## 哪些欄位會同步至Marketo？ {#what-fields-will-sync-to-marketo}
 

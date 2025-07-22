@@ -4,9 +4,9 @@ description: 編輯電子郵件標題 — Marketo檔案 — 產品檔案
 title: 編輯您的電子郵件標題
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Marketo中的電子郵件標題是完全可自訂的。 它包含四個欄位：
 
-* **從** — 您要顯示的寄件者名稱
-* **寄件者地址** — 您要顯示的寄件者電子郵件地址
-* **回覆** — 您想要將某人回覆傳送至的電子郵件地址（可能與「寄件者地址」不同）
-* **主旨** — 電子郵件的主旨列
+* **[!UICONTROL From]** — 您要顯示的寄件者名稱
+* **[!UICONTROL From Address]** — 您要顯示的寄件者電子郵件地址
+* **[!UICONTROL Reply-to]** — 您想要將某人回覆傳送至的電子郵件地址（可能與[!UICONTROL From Address]不同）
+* **[!UICONTROL Subject]** — 電子郵件的主旨列
 
 若要編輯這些值，請在每個欄位中按一下，然後輸入您的資訊。
 
@@ -36,11 +36,11 @@ Marketo中的電子郵件標題是完全可自訂的。 它包含四個欄位：
 
 ![](assets/three-2.png)
 
-[寄件者地址]欄位最右側的鍵圖示可讓您知道您是否使用自訂DKIM簽章。
+[!UICONTROL From Address]欄位最右側的鍵圖示可讓您知道您是否使用自訂DKIM簽章。
 
 ![](assets/four-2.png)
 
-「主旨」欄位最右側的計數器可協助您將主旨列保持在建議的50個字元限制以下。
+[!UICONTROL Subject]欄位中最右側的計數器可協助您將主旨行保持在建議的50個字元限制以下。
 
 ![](assets/five-1.png)
 

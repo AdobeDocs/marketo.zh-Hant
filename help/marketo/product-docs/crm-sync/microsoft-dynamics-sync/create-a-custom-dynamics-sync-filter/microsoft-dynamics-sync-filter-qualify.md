@@ -4,16 +4,16 @@ description: Microsoft Dynamics同步篩選器 — 合格 — Marketo檔案 — 
 title: Microsoft Dynamics同步篩選器 — 合格
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 6%
+source-wordcount: '108'
+ht-degree: 0%
 
 ---
 
-# Microsoft Dynamics同步篩選器：合格 {#microsoft-dynamics-sync-filter-qualify}
+# [!DNL Microsoft Dynamics]同步篩選器：合格 {#microsoft-dynamics-sync-filter-qualify}
 
-當您想要在Microsoft Dynamics中將銷售機會轉換為聯絡人時，請務必使用此預設的資格程式。 然後，將其同步至Marketo Engage。
+當您想要在[!DNL Microsoft Dynamics]中將銷售機會轉換為聯絡人時，請務必使用此預設的資格程式。 然後，將其同步至Marketo。
 
 ## 轉換流程 {#the-conversion-process}
 
@@ -21,10 +21,10 @@ ht-degree: 6%
 
 | 如果潛在客戶同步篩選器為： | 連絡人同步篩選器為： | 這是Marketo中的結果 |
 |---|---|---|
-| 假 | 假 | Marketo中未同步任何專案 |
-| 真 | 真 | 連絡人已在Marketo中同步 |
-| 假 | 真 | 新的連絡人記錄是在Marketo中建立 |
-| 真 | 假 | MS Dynamics在Marketo中更新潛在客戶資訊，但聯絡人記錄未同步 |
+| [!UICONTROL False] | [!UICONTROL False] | Marketo中未同步任何專案 |
+| [!UICONTROL True] | [!UICONTROL True] | 連絡人已在Marketo中同步 |
+| [!UICONTROL False] | [!UICONTROL True] | 新的連絡人記錄是在Marketo中建立 |
+| [!UICONTROL True] | [!UICONTROL False] | 在Marketo中更新[!DNL MS Dynamics]銷售機會資訊，但聯絡人記錄未同步 |
 
 >[!CAUTION]
 >

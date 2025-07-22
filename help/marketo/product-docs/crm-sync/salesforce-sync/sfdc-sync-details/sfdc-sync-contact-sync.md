@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2953457
-description: SFDC同步 — 連絡人同步 — Marketo檔案 — 產品檔案
+description: SFDC同步處理 — 連絡人同步處理 — Marketo檔案 — 產品檔案
 title: SFDC同步 — 連絡人同步
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
-# SFDC同步處理：連絡人同步處理 {#sfdc-sync-contact-sync}
+# SFDC同步：連絡人同步 {#sfdc-sync-contact-sync}
 
-您知道Marketo Engage會將您的整個資料庫與Salesforce同步嗎？ 它會同步，然後等待5分鐘，然後每天再次同步。 以下是Marketo如何特別處理Salesforce聯絡人的部分細節。
+您知道Marketo會將您的整個資料庫與[!DNL Salesforce]同步嗎？ 它會同步，然後等待5分鐘，然後每天再次同步。 以下是Marketo如何特別處理[!DNL Salesforce]聯絡人的部分細節。
 
 ## 同步方向 {#sync-direction}
 
-連絡人同步是雙向的。 如果您在Salesforce或Marketo中變更連絡人，您的更新將會反映在兩個系統中。
+連絡人同步是雙向的。 如果您在[!DNL Salesforce]或Marketo中變更連絡人，您的更新將會反映在兩個系統中。
 
 ## 如果兩個系統同時進行變更，該怎麼辦？ {#what-if-changes-are-made-in-both-systems-at-the-same-time}
 
-我們很好，讓Salesforce獲勝。 很少發生這類資料衝突。
+我們很好，讓[!DNL Salesforce]獲勝。 很少發生這類資料衝突。
 
 ## 我可以在Marketo中將個人轉換為聯絡人嗎？ {#can-i-convert-a-person-into-a-contact-in-marketo}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->在Marketo中轉換人員將在Salesforce中產生新帳戶和機會。 如果您不想要重複的帳戶，請使用Salesforce進行轉換。
+>在Marketo中轉換人員將在[!DNL Salesforce]中產生新帳戶和機會。 如果您不想要重複的帳戶，請使用[!DNL Salesforce]進行轉換。
 
 ## 我可以手動強制同步處理連絡人嗎？ {#can-i-manually-force-a-sync-of-a-contact}
 
@@ -43,6 +43,6 @@ ht-degree: 0%
 >
 >Marketo將只會同步處理您的Marketo同步使用者有權存取的欄位。
 
-## Marketo是否會遵守Salesforce驗證規則？ {#will-marketo-respect-the-salesforce-validation-rules}
+## Marketo是否會遵守[!DNL Salesforce]驗證規則？ {#will-marketo-respect-the-salesforce-validation-rules}
 
 是，如果發生衝突，則會將結果記錄在潛在客戶活動記錄中。

@@ -4,9 +4,9 @@ description: 啟用/停用自訂物件同步 — Marketo檔案 — 產品檔案
 title: 啟用/停用自訂物件同步
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >同步Salesforce自訂物件結構描述可能需要幾分鐘的時間。
+   >同步[!DNL Salesforce]自訂物件結構描述可能需要幾分鐘的時間。
 
 1. 按一下「**[!UICONTROL Refresh Schema]**」。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Marketo若要同步處理自訂物件，必須與Salesforce中的潛在客戶、聯絡人或帳戶物件有直接關係。
+   >如果Marketo與[!DNL Salesforce]中的潛在客戶、連絡人或帳戶物件有直接關係，則只能同步處理自訂物件。
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 

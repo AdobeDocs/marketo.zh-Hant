@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 0%
+source-wordcount: '177'
+ht-degree: 1%
 
 ---
 
 # 自訂物件同步 {#custom-object-sync}
 
-在Veeva CRM執行個體中建立的自訂物件也可以是Marketo Engage的一部分。 以下說明設定方法。
+在您的[!DNL Veeva] CRM執行個體中建立的自訂物件也可以是Marketo Engage的一部分。 以下說明設定方法。
 
 >[!NOTE]
 >
@@ -22,25 +22,25 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->若要使用自訂物件，必須將其與Veeva CRM中的聯絡人或帳戶物件相關聯。
+>若要使用自訂物件，它必須關聯至[!DNL Veeva] CRM中的連絡人或帳戶物件。
 
 ## 啟用自訂物件 {#enable-custom-object}
 
-1. 在Marketo中，按一下&#x200B;**[!UICONTROL 管理員]**，然後按&#x200B;**[!UICONTROL Veeva物件同步]**。
+1. 在Marketo中，按一下&#x200B;**[!UICONTROL Admin]**，然後按&#x200B;**[!UICONTROL Veeva Objects Sync]**。
 
    ![](assets/custom-object-sync-1.png)
 
-1. 如果這是您的第一個自訂物件，請按一下&#x200B;**[!UICONTROL 同步結構描述]**。
+1. 如果這是您的第一個自訂物件，請按一下&#x200B;**[!UICONTROL Sync Schema]**。
 
    ![](assets/custom-object-sync-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL 停用全域同步處理]**。
+1. 按一下「**[!UICONTROL Disable Global Sync]**」。
 
    ![](assets/custom-object-sync-3.png)
 
    >[!NOTE]
    >
-   >Veeva自訂物件結構描述的初始同步處理可能需要幾分鐘的時間。
+   >[!DNL Veeva]自訂物件結構描述的初始同步處理可能需要幾分鐘的時間。
 
 1. 將您要同步的自訂物件拖曳至畫布。
 
@@ -50,11 +50,11 @@ ht-degree: 0%
    >
    >自訂物件必須具有唯一的名稱。 Marketo不支援兩個名稱相同的不同自訂物件。
 
-1. 按一下&#x200B;**[!UICONTROL 啟用同步]**。
+1. 按一下「**[!UICONTROL Enable Sync]**」。
 
    ![](assets/custom-object-sync-5.png)
 
-1. 再按一下&#x200B;**[!UICONTROL 啟用同步]**。
+1. 再按一下&#x200B;**[!UICONTROL Enable Sync]**。
 
    ![](assets/custom-object-sync-6.png)
 
@@ -62,11 +62,11 @@ ht-degree: 0%
 
    ![](assets/custom-object-sync-7.png)
 
-1. 按一下&#x200B;**[!UICONTROL 啟用同步]**。
+1. 按一下「**[!UICONTROL Enable Sync]**」。
 
    ![](assets/custom-object-sync-8.png)
 
-1. 若要檢視您的所有Veeva自訂物件，請按一下&#x200B;**[!UICONTROL 管理員]**&#x200B;和&#x200B;**[!UICONTROL Veeva物件同步]**。
+1. 若要檢視您所有的[!DNL Veeva]自訂物件，請按一下&#x200B;**[!UICONTROL Admin]**&#x200B;和&#x200B;**[!UICONTROL Veeva Objects Sync]**。
 
    ![](assets/custom-object-sync-9.png)
 

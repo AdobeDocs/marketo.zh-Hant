@@ -4,10 +4,10 @@ description: 設定表單感謝頁面 — Marketo檔案 — 產品檔案
 title: 設定表單感謝頁面
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '361'
-ht-degree: 0%
+source-wordcount: '321'
+ht-degree: 1%
 
 ---
 
@@ -17,25 +17,25 @@ ht-degree: 0%
 
 ## 編輯表單 {#edit-form}
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-5.png)
 
-1. 選取您的表單並按一下&#x200B;**編輯表單**。
+1. 選取您的表單並按一下&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. 在&#x200B;**表單設定**&#x200B;下，按一下&#x200B;**設定**。
+1. 在&#x200B;**[!UICONTROL Form Settings]**&#x200B;底下，按一下&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. 向下捲動至&#x200B;**感謝頁面**&#x200B;區段。
+1. 向下捲動至&#x200B;**[!UICONTROL Thank You Page]**&#x200B;區段。
 
 ## 停留在頁面上 {#stay-on-page}
 
 「停留在頁面上」選項可讓訪客在提交表單時停留在相同頁面。
 
-1. 選取&#x200B;**停留在頁面**&#x200B;以進行&#x200B;**後續追蹤**。
+1. 為&#x200B;**[!UICONTROL Stay On Page]**&#x200B;選取&#x200B;**[!UICONTROL Follow Up With]**。
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 外部URL設定可讓您將任何URL定義為後續頁面。 使用者提交表單後，系統會將他們導向指定的URL。
 
-1. 選取&#x200B;**外部URL**&#x200B;以進行&#x200B;**後續追蹤**。
+1. 為&#x200B;**[!UICONTROL External URL]**&#x200B;選取&#x200B;**[!UICONTROL Follow Up With]**。
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -53,13 +53,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->URL可以是託管位置檔案的URL — 如果這樣做，「提交」按鈕的行為類似於「下載」按鈕。
+>URL可以是某個地方託管的檔案 — 如果您這麼做，&quot;[!UICONTROL Submit]&quot;按鈕的行為會像&quot;[!UICONTROL Download]&quot;按鈕一樣。
 
 ## 登陸頁面 {#landing-page}
 
 您可以選取任何已核准的Marketo登陸頁面作為後續追蹤。
 
-1. 設定&#x200B;**後續追蹤**&#x200B;至&#x200B;**登陸頁面**。
+1. 將&#x200B;**[!UICONTROL Follow Up With]**&#x200B;設為&#x200B;**[!UICONTROL Landing Page]**。
 
    ![](assets/image2014-9-15-17-3a37-3a52.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
 您可以新增多個選項並建立選項，根據人員的回應顯示不同的後續追蹤。
 
-1. 按一下&#x200B;**新增選擇**。
+1. 按一下「**[!UICONTROL Add Choice]**」。
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. 為&#x200B;**後續追蹤**&#x200B;型別選擇適當的頁面。
+1. 為&#x200B;**[!UICONTROL Follow Up With]**&#x200B;型別選擇適當的頁面。
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -111,7 +111,7 @@ ht-degree: 0%
    >
    >您可以新增數個選項。 但是，如果您新增太多內容，則會影響表單的載入速度，因此請僅新增您需要的內容。
 
-1. 瀏覽並設定&#x200B;**選擇2**。
+1. 瀏覽並設定&#x200B;**[!UICONTROL Choice 2]**。
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
@@ -123,7 +123,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a40-3a10.png)
 
-1. 選取頁面本身，然後按一下&#x200B;**儲存**。
+1. 選取頁面本身，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-15-17-3a40-3a26.png)
 
@@ -131,11 +131,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
-1. 按一下&#x200B;**完成**。
+1. 按一下「**[!UICONTROL Finish]**」。
 
    ![](assets/image2014-9-15-17-3a40-3a42.png)
 
-1. 按一下&#x200B;**核准並關閉**。
+1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 

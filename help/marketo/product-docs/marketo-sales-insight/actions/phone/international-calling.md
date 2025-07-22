@@ -3,9 +3,9 @@ description: 國際通話 — Marketo檔案 — 產品檔案
 title: 國際通話
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '392'
 ht-degree: 5%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 5%
 <table> 
  <tbody> 
   <tr> 
-   <th>國家</th> 
+   <th>國家/地區</th> 
    <th>支援的國家代碼</th> 
   </tr> 
   <tr> 
@@ -143,7 +143,7 @@ ht-degree: 5%
 
 ## 國際電話常見問題集 {#international-calling-faq}
 
-**為什麼Sales Insight Actions不支援針對所有國家/地區的國際通話？**
+**為什麼[!DNL Sales Insight Actions]不支援所有國家/地區的國際通話？**
 
 現在，我們提供銷售撥號器的國際電話服務，不需額外付費。 我們希望讓您能夠更輕鬆地與您自己的潛在客戶和客戶溝通，因此我們推出了標準費率國際電話支援。 我們為美國、加拿大以外的34個國家/地區提供歐洲、亞洲和其他重要目的地的服務。 我們將繼續根據客戶的意見反應進行擴充。
 
@@ -153,8 +153,8 @@ ht-degree: 5%
 
 **是否有無法與銷售撥號者通話的特定號碼型別？**
 
-有。我們不支援撥打特價服務電話號碼（例如在美國為900號碼，在英國為+449號碼）。 一般而言，我們不支援撥打共用付費電話號碼，以及少數其他付費路由。
+可以。我們不支援撥打特價服務電話號碼（例如在美國為900號碼，在英國為+449號碼）。 一般而言，我們不支援撥打共用付費電話號碼，以及少數其他付費路由。
 
 **我可以在撥打國際電話時使用本地聯絡嗎？**
 
-不適用。 [本機是否存在](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md)僅適用於美國號碼。
+不可以。 [本機是否存在](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md)僅適用於美國號碼。

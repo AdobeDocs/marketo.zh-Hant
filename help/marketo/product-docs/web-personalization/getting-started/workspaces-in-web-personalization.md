@@ -4,16 +4,16 @@ description: Web Personalization中的工作區 — Marketo檔案 — 產品檔�
 title: Web Personalization中的工作區
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-# Web Personalization中的工作區 {#workspaces-in-web-personalization}
+# [!UICONTROL Web Personalization]中的工作區 {#workspaces-in-web-personalization}
 
-Web Personalization支援Web促銷活動和Web區段的多個工作區。
+[!UICONTROL Web Personalization]支援Web行銷活動和Web區段的多個工作區。
 
 ## 切換工作區 {#switch-workspaces}
 
@@ -23,11 +23,11 @@ Web Personalization支援Web促銷活動和Web區段的多個工作區。
 
 ## 變更區段的Workspace {#change-a-segments-workspace}
 
-1. 移至&#x200B;**區段**&#x200B;頁面，選取區段，然後按一下編輯圖示。
+1. 前往&#x200B;**[!UICONTROL Segments]**&#x200B;頁面，選取區段，然後按一下編輯圖示。
 
    ![](assets/ss4.png)
 
-1. 從&#x200B;**Workspace**&#x200B;下拉式清單中選取其他工作區。
+1. 從&#x200B;**[!UICONTROL Workspace]**&#x200B;下拉式清單中選取不同的工作區。
 
    ![](assets/ss6.png)
 

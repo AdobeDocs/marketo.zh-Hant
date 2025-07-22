@@ -4,9 +4,9 @@ description: 使用選取並傳送來撰寫大量電子郵件 — Marketo檔案 
 title: 使用「選取並傳送」來撰寫大量電子郵件
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 傳送電子郵件 {#sending-emails}
 
-1. 導覽至「人員」頁面。
+1. 導覽至&#x200B;**[!UICONTROL People]**&#x200B;頁面。
 
    ![](assets/one-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >使用「選取並傳送」時，最多可選取200人。
 
-1. 按一下&#x200B;**選取的電子郵件**&#x200B;按鈕。
+1. 按一下&#x200B;**[!UICONTROL Email Selected]**&#x200B;按鈕。
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您選取範本，且想要在傳送前檢查所有動態欄位是否都正確填入，請按一下&#x200B;**預覽動態欄位**。 確保大量側邊欄中的所有收件者都已選取來預覽所有電子郵件。 如果您選取一封電子郵件並按一下&#x200B;**預覽動態欄位**，則只會預覽該電子郵件。
+   >如果您選取範本，且想要在傳送前檢查所有動態欄位是否正確填入，請按一下&#x200B;**[!UICONTROL Preview Dynamic Fields]**。 確保大量側邊欄中的所有收件者都已選取來預覽所有電子郵件。 如果您選取一封電子郵件並按一下&#x200B;**[!UICONTROL Preview Dynamic Fields]**，則只會預覽該電子郵件。
 
 ## 編輯電子郵件 {#editing-emails}
 
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >您可以按一下特定的電子郵件收件者，以檢視傳送至該電子郵件的變更。
 
-1. 按一下&#x200B;**傳送** （或[排程](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)），以傳送您已大量更新之電子郵件給所有收件者。
+1. 按一下&#x200B;**[!UICONTROL Send]** （或[[!UICONTROL Schedule]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)）以傳送您進行的大量電子郵件更新給所有收件者。
 
    ![](assets/bulk-four.png)
 
@@ -89,7 +89,7 @@ ht-degree: 0%
    >
    >您可以按一下其他收件者，以檢視您對先前選取的收件者所做的變更不會顯示。
 
-1. 按一下&#x200B;**傳送** （或[排程](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)），以傳送您已大量更新之電子郵件給所有收件者。
+1. 按一下&#x200B;**[!UICONTROL Send]** （或[[!UICONTROL Schedule]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)）以傳送您進行的大量電子郵件更新給所有收件者。
 
    ![](assets/each-four.png)
 

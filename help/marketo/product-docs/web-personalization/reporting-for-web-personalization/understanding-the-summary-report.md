@@ -4,16 +4,16 @@ description: 瞭解摘要報表 — Marketo檔案 — 產品檔案
 title: 瞭解摘要報表
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
 
-# 瞭解摘要報表 {#understanding-the-summary-report}
+# 瞭解[!UICONTROL Summary Report] {#understanding-the-summary-report}
 
-摘要報表是所有行銷活動和建議內容績效的每月檢視。 這會根據點按次數和參與個人化行銷活動或建議內容，然後成為已知潛在客戶的潛在客戶數（直接或協助）。 該報告會將結果與上個月進行比較。
+[!UICONTROL Summary report]是所有行銷活動和建議內容績效的每月檢視。 這會根據點按次數和參與個人化行銷活動或建議內容，然後成為已知潛在客戶的潛在客戶數（直接或協助）。 該報告會將結果與上個月進行比較。
 
 >[!NOTE]
 >
@@ -23,33 +23,33 @@ ht-degree: 0%
 >
 >輔助轉換：填寫網站上的任何表單並保留電子郵件地址的網頁訪客，在上次造訪中（過去6個月內）點選了個人化促銷活動或建議的內容資產。
 
-在Web Personalization中，移至&#x200B;**Analytics**&#x200B;和&#x200B;**摘要報告**。
+在[!UICONTROL Web Personalization]中，移至&#x200B;**[!UICONTROL Analytics]**&#x200B;和&#x200B;**[!UICONTROL Summary Report]**。
 
 ![](assets/image2016-4-6-10-3a15-3a58.png)
 
-選取&#x200B;**月**&#x200B;並按一下&#x200B;**顯示報表**。
+選取&#x200B;**月**&#x200B;並按一下&#x200B;**[!UICONTROL Show Report]**。
 
 ![](assets/2.png)
 
 報表的第一部分與個人化網站Personalization行銷活動相關並顯示：
 
-* **點按** — 網頁Personalization行銷活動上的所有點按
-* **直接轉換** — 瀏覽期間點選網頁Personalization促銷活動並填寫表單的所有訪客
-* **直接轉換率** — 訪客在點選Web Personalization促銷活動後成為直接銷售機會的百分比。 直接潛在客戶除以點按次數
-* **輔助轉換** — 在上次造訪（過去6個月）中填寫表單並按一下網頁Personalization促銷活動的所有訪客
-* **秘訣** — 最佳化網站Personalization行銷活動績效的秘訣
-* **熱門行銷活動** — 在選取的時段內按點按次數排序的績效最佳的行銷活動
+* **[!UICONTROL Clicks]** — 網頁Personalization行銷活動的所有點按
+* **[!UICONTROL Direct Conversions]** — 瀏覽期間點選網頁Personalization促銷活動並填寫表單的所有訪客
+* **[!UICONTROL Direct Conversion Rate]** — 訪客在點選Web Personalization促銷活動後成為直接銷售線索的百分比。 直接潛在客戶除以點按次數
+* **[!UICONTROL Assisted Conversions]** — 填寫表單並在前次造訪（過去6個月）中按一下網頁Personalization促銷活動的所有訪客
+* **[!UICONTROL Tip]** — 最佳化網站Personalization行銷活動績效的秘訣
+* **[!UICONTROL Top Campaigns]** — 在選取的時段內績效最佳的行銷活動，依點按次數排序
 
 ![](assets/3.png)
 
 報表的第二部分與Web Personalization的內容推薦引擎的建議內容有關。 它顯示：
 
-* **點按** — 網頁Personalization的所有點按建議內容
-* **直接轉換** — 瀏覽期間點選建議內容並填寫表單的所有訪客
-* **直接轉換率** — 按一下建議內容後成為直接銷售機會的訪客百分比。 直接潛在客戶除以點按次數
-* **輔助轉換** — 在上次造訪（過去6個月）中填寫表單並按一下建議內容的所有訪客
-* **提示** — 使用內容推薦引擎最佳化的提示
-* **熱門Recommendations** — 在選取的時段內，依點按次數排序表現最佳的建議內容
+* **[!UICONTROL Clicks]** — 所有對Web Personalization建議內容的點按
+* **[!UICONTROL Direct Conversions]** — 瀏覽期間點選建議內容並填寫表單的所有訪客
+* **[!UICONTROL Direct Conversion Rate]** — 按一下建議內容後成為直接銷售機會的訪客百分比。 直接潛在客戶除以點按次數
+* **[!UICONTROL Assisted Conversions]** — 填寫表單並在上次造訪（過去6個月）中按一下建議內容的所有訪客
+* **[!UICONTROL Tip]** — 使用內容推薦引擎最佳化的秘訣
+* **[!UICONTROL Top Recommendations]** — 在選取的時段內，依點按次數排序的執行排名最前的建議內容
 
 >[!NOTE]
 >

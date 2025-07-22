@@ -4,9 +4,9 @@ description: 演演算法目標設定 — Marketo檔案 — 產品檔案
 title: 演演算法目標設定
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 「演演算法目標設定」可讓您設定Predictive Content人工智慧演演算法的最終目標，以符合您的業務目標。
 
-1. 在預測內容中，按一下您的登入名稱，然後選取&#x200B;**內容設定**。
+1. 在預測內容中，按一下您的登入名稱並選取&#x200B;**[!UICONTROL Content Settings]**。
 
    ![](assets/1.png)
 
-1. 在「內容設定」下，選取&#x200B;**演演算法**。
+1. 在「內容設定」下，選取&#x200B;**[!UICONTROL Algorithm]**。
 
    ![](assets/two-1.png)
 
@@ -27,10 +27,10 @@ ht-degree: 0%
 
    ![](assets/three-new.png)
 
-   | **點按** | 顯示最可能讓觀看者點選內容的內容 |
+   | **[!UICONTROL Clicks]** | 顯示最可能讓觀看者點選內容的內容 |
    |---|---|
-   | **轉換** | 顯示內容最有可能讓檢視內容的人提交表單 |
+   | **[!UICONTROL Conversions]** | 顯示內容最有可能讓檢視內容的人提交表單 |
 
-1. 完成時，按一下&#x200B;**儲存**。
+1. 完成時，按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/four.png)

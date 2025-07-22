@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949863
-description: 使用Webex建立事件 — Marketo檔案 — 產品檔案
-title: 使用Webex建立事件
+description: 使用 [!DNL Webex] - Marketo檔案建立事件 — 產品檔案
+title: 建立具有 [!DNL Webex]的事件
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 7edce24c2199a6a2eaa119d3ef77543bbd97999c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
 
-# 使用Webex建立事件 {#create-an-event-with-webex}
+# 建立具有[!DNL Webex]的事件 {#create-an-event-with-webex}
 
 在Webex中建立網路研討會後，您需要將活動與Marketo Engage同步。
 
 >[!PREREQUISITES]
 >
->* [將Webex新增為LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+>* [新增 [!DNL Webex] 為 [!DNL LaunchPoint] 服務](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [建立新的活動程式](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 設定適當的[流程動作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)以追蹤參與
 
@@ -27,8 +27,8 @@ ht-degree: 0%
 
 ### 基本資訊 {#basic-information}
 
-![](assets/create-an-event-with-webex-1.png)
-
+* **[!UICONTROL Event Name]-**&#x200B;此名稱可在Marketo中檢視。
+* **[!UICONTROL Unlisted Checkbox]**
 * **主題**：這是您的事件名稱，可在Marketo中檢視。
 * **日期和時間**：開始/結束日期、開始/結束時間、期間和時區都可在Marketo中檢視。
 * **出席者上限**：出席者人數上限決定支援哪些Webex功能。
@@ -91,7 +91,7 @@ ht-degree: 0%
 
    ![](assets/create-an-event-with-webex-8.png)
 
-1. 您的網路研討會詳細資訊將會填入。 按一下&#x200B;**保存**。
+1. 您的網路研討會詳細資訊將會填入。 按一下&#x200B;**儲存**。
 
    ![](assets/create-an-event-with-webex-9.png)
 

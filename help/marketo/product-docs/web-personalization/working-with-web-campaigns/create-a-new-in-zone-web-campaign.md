@@ -4,9 +4,9 @@ description: 在區域中建立新的網頁行銷活動 — Marketo檔案 — �
 title: 建立新的In Zone網頁行銷活動
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '693'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 建立區域內網路行銷活動 {#create-an-in-zone-web-campaign}
 
-1. 前往&#x200B;**網路行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 
-1. 選取&#x200B;**建立新的網站行銷活動。**
+1. 選取&#x200B;**[!UICONTROL Create New Web Campaign].**
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. 選取&#x200B;**在區域**&#x200B;行銷活動型別。 自訂並新增&#x200B;**區域識別碼。**&#x200B;將行銷活動設為&#x200B;**Sticky**，並在編輯器中新增您的創意內容。 新增要預覽的頁面URL，然後按一下&#x200B;**預覽**，檢視行銷活動在您網站上的反應。
+1. 選取&#x200B;**[!UICONTROL In Zone]**&#x200B;行銷活動型別。 自訂並新增&#x200B;**[!UICONTROL Zone id]。**&#x200B;將行銷活動設為&#x200B;**[!UICONTROL Sticky]**&#x200B;並在編輯器中新增您的創意。 新增要預覽的頁面URL，然後按一下&#x200B;**[!UICONTROL Preview]**&#x200B;以檢視行銷活動在您的網站上會如何回應。
 
    ![](assets/new-3-1.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >**什麼是區域ID？**
    >
-   >區域ID是您希望「所在區域」網路促銷活動位於現場的位置。 若要尋找「區域ID」，只要移至您的網站，選取您要取代為網路促銷活動的區域，然後按一下右鍵。 在Chrome中，選項為「Inspect元素」，在其他瀏覽器中可能有所不同。
+   >區域ID是您希望&quot;[!UICONTROL In Zone]&quot;網路促銷活動位於網站上的位置。 若要尋找&quot;[!UICONTROL Zone ID]&quot;，只要移至您的網站，選取您要取代為網頁行銷活動的區域，然後按一下右鍵。 在Chrome中，選項為「檢查元素」，但在其他瀏覽器中，選項可能會有所不同。
    >
    >接著，您會想要尋找與網站此區段相關聯的「id」，此區段會反白顯示，因為您正在檢查該元素。 例如，如果您在Chrome中按一下滑鼠右鍵，醒目提示的文字會顯示`<div id="featured-slider">`，則「featured-slider」是您應在「zone id」區段中輸入的文字。 通常會使用「div id」，但也可以使用任何ID，例如h1 id、p id等。
 
@@ -47,7 +47,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong> 區域ID </strong></td> 
-   <td colspan="1" rowspan="1"><p>輸入在促銷活動取代之網站元素的HTML代碼中找到的ID名稱。</p></td> 
+   <td colspan="1" rowspan="1"><p>輸入在促銷活動取代之網站元素的HTML程式碼中找到的識別碼名稱。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong> 粘性 </strong></p></td> 
@@ -62,7 +62,7 @@ ht-degree: 0%
    <td colspan="1">選取「使用效果」核取方塊及「滑動」選項，可讓網站上的「區域ID」區域產生滑動效果。 如果「位於區域」是圖形橫幅，則頁面會先載入，然後促銷活動以由左至右的滑動效果啟動。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong> RTF編輯器  </strong></td> 
+   <td colspan="1"><strong> RTF 編輯器  </strong></td> 
    <td colspan="1">RTF編輯器允許文字格式、連結和影像插入。 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">在此閱讀更多資訊</a> 。</td> 
   </tr> 
   <tr> 
@@ -98,7 +98,7 @@ ht-degree: 0%
 
 ## 預覽網站行銷活動 {#preview-a-web-campaign}
 
-1. 在網頁行銷活動頁面上，按一下您要檢視之網頁行銷活動上的&#x200B;**預覽**。
+1. 從[!UICONTROL Web Campaigns]頁面，按一下您要檢視之網頁行銷活動的&#x200B;**[!UICONTROL Preview]**。
 
    ![](assets/in-zone-web-campaign-preview.png)
 
@@ -108,7 +108,7 @@ ht-degree: 0%
 
 ## 刪除網站行銷活動 {#delete-a-web-campaign}
 
-1. 在網頁行銷活動頁面中，按一下您要刪除行銷活動上的&#x200B;**刪除**。
+1. 從網頁行銷活動頁面，按一下您要刪除行銷活動上的&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/in-zone-web-campaign-delete.png)
 

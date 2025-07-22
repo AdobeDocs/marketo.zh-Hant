@@ -4,10 +4,10 @@ description: 新增 [!DNL Zoom] 作為 [!DNL LaunchPoint] 服務 — Marketo檔�
 title: 將 [!DNL Zoom] 新增為 [!DNL LaunchPoint] 服務
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 0%
+source-wordcount: '113'
+ht-degree: 1%
 
 ---
 
@@ -23,31 +23,31 @@ Marketo會管理您的[!DNL Zoom]註冊和出席情況。
 >
 >此步驟需要[!DNL Zoom]的現有訂閱和管理許可權。 擁有您用來登入[!DNL Zoom]的電子郵件和密碼。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 啟動點]**。
+1. 按一下「**[!UICONTROL LaunchPoint]**」。
 
    ![](assets/add-zoom-as-a-launchpoint-service-2.png)
 
-1. 選取&#x200B;**[!UICONTROL 新增]**，然後選取&#x200B;**[!UICONTROL 新增服務]**。
+1. 選取&#x200B;**[!UICONTROL New]**，然後選取&#x200B;**[!UICONTROL New Service]**。
 
    ![](assets/add-zoom-as-a-launchpoint-service-3.png)
 
-1. 輸入&#x200B;**[!UICONTROL 顯示名稱]**。 在&#x200B;**[!UICONTROL 服務]**&#x200B;下，選取&#x200B;**[!UICONTROL 縮放]**。
+1. 輸入&#x200B;**[!UICONTROL Display Name]**。 在&#x200B;**[!UICONTROL Service]**&#x200B;下，選取&#x200B;**[!UICONTROL Zoom]**。
 
    ![](assets/add-zoom-as-a-launchpoint-service-4.png)
 
-1. 按一下&#x200B;**[!UICONTROL 登入縮放]**。
+1. 按一下「**[!UICONTROL Log Into Zoom]**」。
 
    ![](assets/add-zoom-as-a-launchpoint-service-5.png)
 
-1. 在[!DNL Zoom]登入視窗中，輸入您的[!DNL Zoom]認證並按一下&#x200B;**[!UICONTROL 登入]**。
+1. 在[!DNL Zoom]登入視窗中，輸入您的[!DNL Zoom]認證並按一下&#x200B;**[!UICONTROL Sign in]**。
 
    ![](assets/add-zoom-as-a-launchpoint-service-6.png)
 
-1. 視窗關閉後，按一下&#x200B;**[!UICONTROL 建立]**。
+1. 視窗關閉後，按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/add-zoom-as-a-launchpoint-service-7.png)
 
@@ -55,7 +55,7 @@ Marketo會管理您的[!DNL Zoom]註冊和出席情況。
 
 >[!CAUTION]
 >
->當您在Zoom中更新密碼時，也必須在Marketo中更新密碼。
+>當您在[!DNL Zoom]中更新密碼時，也必須在Marketo中更新密碼。
 
 >[!MORELIKETHIS]
 >

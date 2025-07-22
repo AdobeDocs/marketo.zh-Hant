@@ -4,10 +4,10 @@ description: 編輯表單中的欄位標籤 — Marketo檔案 — 產品檔案
 title: 編輯表單中的欄位標籤
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 0%
+source-wordcount: '136'
+ht-degree: 1%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 您可以將表單上的標籤變更為任何內容 — 您甚至可以使用影像或完全拭除！ 以下是其操作方式。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 選取您的表單並按一下&#x200B;**編輯表單**。
+1. 選取您的表單並按一下&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-17-3a26-3a27.png)
 
-1. 選取您的欄位，然後編輯&#x200B;**標籤**。 「表單設定」中的欄位將會反映您輸入的標籤。
+1. 選取您的欄位，然後編輯&#x200B;**[!UICONTROL Label]**。 「表單設定」中的欄位將會反映您輸入的標籤。
 
    ![](assets/image2014-9-15-17-3a26-3a42.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
    >
    >如果您想要變得花哨，可以按一下![鉛筆](assets/image2014-9-15-17-3a27-3a7.png)。 這將開啟RTF編輯器，讓您前往包含影像、連結等內容的市鎮！
 
-1. 按一下&#x200B;**完成**。
+1. 按一下「**[!UICONTROL Finish]**」。
 
    ![](assets/image2014-9-15-17-3a27-3a26.png)
 
-1. 按一下&#x200B;**核准並關閉**。
+1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    ![](assets/image2014-9-15-17-3a27-3a44.png)
 

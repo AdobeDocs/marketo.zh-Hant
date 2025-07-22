@@ -4,16 +4,16 @@ description: 新增/移除挑選清單值 — Marketo檔案 — 產品檔案
 title: 新增/移除挑選清單值
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
 # 新增/移除挑選清單值 {#add-remove-picklist-values}
 
-以下是有關在Salesforce中新增和移除挑選清單值的一些須知事項。
+以下是在[!DNL Salesforce]中新增和移除挑選清單值的一些須知事項。
 
 ## 新增挑選清單值 {#adding-picklist-values}
 
@@ -25,17 +25,17 @@ ht-degree: 0%
 
 ## 移除挑選清單值 {#remove-picklist-values}
 
-從Salesforce的欄位中移除挑選清單值時，您必須從託管此欄位的所有表單中手動移除此值。
+從[!DNL Salesforce]中的欄位移除挑選清單值時，您必須從託管此欄位的所有表單中手動移除此值。
 
 >[!NOTE]
 >
->如果Salesforce中的潛在客戶欄位和聯絡人欄位的值不同，則共同的值將可用於Marketo Engage。
+>如果Salesforce中的潛在客戶欄位和聯絡人欄位有不同的值，則共同值可用於Marketo Engage。
 
-如果Salesforce中的潛在客戶欄位和聯絡人欄位有不同的值：
+如果[!DNL Salesforce]中的潛在客戶欄位和聯絡人欄位有不同的值：
 
-1. 在SFDC中新增其他值至挑選清單將會收到通知。
+1. 在SFDC中新增其他值至選擇清單會收到通知。
 1. 通知會說明其使用位置。 如有需要，您現在可以將這個新值新增為表單上的選項。
 
-如果SFDC潛在客戶的挑選清單與SFDC連絡人的挑選清單具有不同的值，則通用值會用作表單中的預設值選項。
+如果SFDC潛在客戶選擇清單的值與SFDC聯絡人的選擇清單不同，則通用值會用作表單中的預設值選項。
 
 如果您從選擇清單中移除值，您必須手動將其從表單中移除作為選項。

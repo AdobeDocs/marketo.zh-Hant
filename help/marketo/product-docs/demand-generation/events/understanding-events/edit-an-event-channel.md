@@ -4,10 +4,10 @@ description: 編輯事件頻道 — Marketo檔案 — 產品檔案
 title: 編輯事件頻道
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 2%
+source-wordcount: '175'
+ht-degree: 1%
 
 ---
 
@@ -25,43 +25,43 @@ ht-degree: 2%
 
 ## 從「摘要」標籤 {#from-the-summary-tab}
 
-1. 從&#x200B;**行銷活動**，從樹狀結構中選取您的事件。
+1. 從&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;中，從樹狀結構中選取您的事件。
 
    ![](assets/eventprogramseelct.png)
 
-1. 導覽至&#x200B;**摘要**&#x200B;檢視。
+1. 導覽至&#x200B;**[!UICONTROL Summary]**&#x200B;檢視。
 
    ![](assets/eventprogramsummary.png)
 
-1. 在&#x200B;**設定**&#x200B;類別下，選取目前顯示為超連結的&#x200B;**頻道**。
+1. 在&#x200B;**[!UICONTROL Settings]**&#x200B;類別下，選取目前顯示為超連結的&#x200B;**[!UICONTROL Channel]**。
 
    ![](assets/channeltypeevent.png)
 
-1. 從下拉式清單中選取新管道。
+1. 從下拉式清單中選取新的&#x200B;**[!UICONTROL Channel]**。
 
    ![](assets/tradeshowchange.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/2017-06-13-09-35-53.png)
 
 ## 從「設定」標籤 {#from-the-setup-tab}
 
-也可以從事件的&#x200B;**設定**&#x200B;索引標籤指派新的管道型別。
+您也可以從事件的&#x200B;**[!UICONTROL Setup]**&#x200B;索引標籤指派新的管道型別。
 
 1. 從樹狀結構中選取事件。
 
    ![](assets/eventprogramseelct.png)
 
-1. 瀏覽至&#x200B;**設定**&#x200B;標籤。 連按兩下目前的&#x200B;**頻道**。
+1. 導覽至&#x200B;**[!UICONTROL Setup]**&#x200B;標籤。 連按兩下目前的&#x200B;**頻道**。
 
    ![](assets/setuptabchangechannel.png)
 
-1. 選取新的&#x200B;**管道**。
+1. 選取新的&#x200B;**[!UICONTROL Channel]**。
 
    ![](assets/tradeshowchange.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/2017-06-13-09-35-53.png)
 

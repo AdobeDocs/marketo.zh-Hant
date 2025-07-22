@@ -1,18 +1,17 @@
 ---
-description: Dynamic Chat活動 — Marketo檔案 — 產品檔案
-title: Dynamic Chat活動
-feature: Dynamic Chat
+description: '[!DNL Dynamic Chat]活動 — Marketo檔案 — 產品檔案'
+title: '[!DNL Dynamic Chat]個活動'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
-# Dynamic Chat活動 {#dynamic-chat-activities}
+# [!DNL Dynamic Chat]個活動 {#dynamic-chat-activities}
 
-Dynamic Chat提供數個篩選器和觸發器用於您的智慧清單。
+[!DNL Dynamic Chat]提供數個篩選器和觸發器以用於您的智慧清單。
 
 ![](assets/dynamic-chat-activities-1.png)
 
@@ -47,7 +46,7 @@ Dynamic Chat提供數個篩選器和觸發器用於您的智慧清單。
   </tr>
   <tr>
     <td style="width:25%"><b>排定的會議</b></td>
-    <td>當訪客與Dynamic Chat代理預訂會議時發生。
+    <td>當訪客與Dynamic Chat代理程式預約會議時發生。
     <br>每個訪客、每個工作階段可以有多個會議預約事件。</td>
   </tr>
 </tbody>
@@ -55,6 +54,6 @@ Dynamic Chat提供數個篩選器和觸發器用於您的智慧清單。
 
 ## 注意事項 {#things-to-note}
 
-* Dynamic Chat流程步驟支援條件
-* Dynamic Chat活動可以同步至[Marketo銷售分析](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}
-* 您可以在人員記錄的活動記錄中檢視個別Dynamic Chat活動
+* [!DNL Dynamic Chat]個流程步驟支援條件
+* [!DNL Dynamic Chat]個活動可以同步至[[!DNL Marketo Sales Insight]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}
+* 您可以在人員記錄的活動記錄檔中檢視個別[!DNL Dynamic Chat]活動

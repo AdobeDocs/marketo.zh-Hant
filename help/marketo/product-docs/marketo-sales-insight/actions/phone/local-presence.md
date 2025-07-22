@@ -3,9 +3,9 @@ description: 本地存在 — Marketo檔案 — 產品檔案
 title: 本地存在
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/local-presence-1.png)
 
-1. 選取&#x200B;**使用本機狀態**&#x200B;核取方塊。
+1. 選取&#x200B;**[!UICONTROL Use Local Presence]**&#x200B;核取方塊。
 
    ![](assets/local-presence-2.png)
 

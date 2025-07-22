@@ -4,16 +4,16 @@ description: SFDC同步 — 帳戶同步 — Marketo檔案 — 產品檔案
 title: SFDC同步 — 帳戶同步
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
 # SFDC同步：帳戶同步 {#sfdc-sync-account-sync}
 
-Marketo Engage也會將您的帳戶資訊與Salesforce同步。 以下是您應瞭解的一些特定事項！
+Marketo也會將您的帳戶資訊與[!DNL Salesforce]同步。 以下是您應瞭解的一些特定事項！
 
 ## 資訊會以何種方式同步？ {#which-way-does-the-information-sync}
 
@@ -25,7 +25,7 @@ Marketo Engage也會將您的帳戶資訊與Salesforce同步。 以下是您應�
 
 ## 連絡人可以屬於多個帳戶嗎？  {#can-a-contact-belong-to-multiple-accounts}
 
-不適用。 帳戶可以有多個連絡人，連絡人只能有一個帳戶。
+不可以。 帳戶可以有多個連絡人，連絡人只能有一個帳戶。
 
 ## 我可以從Marketo建立帳戶嗎？ {#can-i-create-accounts-from-marketo}
 
@@ -35,6 +35,6 @@ Marketo Engage也會將您的帳戶資訊與Salesforce同步。 以下是您應�
 >
 >此流程步驟的使用案例非常有限。 如果您不確定，就不應該使用。
 
-## Salesforce中「帳戶」欄位的變更是否會導致每個連絡人的變更資料值活動記錄？  {#does-a-change-in-an-account-field-in-salesforce-result-in-a-change-data-value-activity-log-for-each-contact}
+## [!DNL Salesforce]中帳戶欄位的變更是否會導致每個連絡人的變更資料值活動記錄？  {#does-a-change-in-an-account-field-in-salesforce-result-in-a-change-data-value-activity-log-for-each-contact}
 
-大部份是這樣。 但是，如果某個帳戶擁有超過5,000位連絡人，且該帳戶上的欄位在SFDC中變更，我們會同步處理變更，但不會記錄5,000多位連絡人的活動。
+大部份是這樣。 但是，如果某個帳戶擁有超過5,000個連絡人，且該帳戶上的欄位在SFDC中發生變更，則我們會同步處理變更，但不會記錄5,000多個連絡人的活動。

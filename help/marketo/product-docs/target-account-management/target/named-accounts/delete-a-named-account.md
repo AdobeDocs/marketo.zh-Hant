@@ -4,14 +4,14 @@ description: 刪除具名帳戶 — Marketo檔案 — 產品檔案
 title: 刪除具名帳戶
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
-# 刪除具名帳戶 {#delete-a-named-account}
+# 刪除[!UICONTROL Named Account] {#delete-a-named-account}
 
 請依照下列快速步驟刪除已命名的帳戶。
 
@@ -23,11 +23,11 @@ ht-degree: 0%
    >
    >按住Ctrl鍵並按一下(Windows)或按住Cmd鍵並按一下(Mac)以選取多個具名帳戶。
 
-1. 按一下&#x200B;**具名帳戶動作**&#x200B;下拉式清單，然後選取&#x200B;**刪除具名帳戶**。
+1. 按一下&#x200B;**[!UICONTROL Named Account Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Delete Named Account]**。
 
    ![](assets/eight-1.png)
 
-1. 按一下&#x200B;**刪除**。
+1. 按一下「**[!UICONTROL Delete]**」。
 
    ![](assets/nine-1.png)
 

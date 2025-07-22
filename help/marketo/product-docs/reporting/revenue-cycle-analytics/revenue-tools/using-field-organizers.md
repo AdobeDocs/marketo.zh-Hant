@@ -4,10 +4,10 @@ description: 使用欄位組織者 — Marketo檔案 — 產品檔案
 title: 使用欄位組織者
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 0%
+source-wordcount: '155'
+ht-degree: 1%
 
 ---
 
@@ -25,23 +25,23 @@ ht-degree: 0%
 
 ## 如何建立欄位召集人 {#how-to-create-field-organizers}
 
-1. 按一下&#x200B;**資料庫**。
+1. 按一下「**[!UICONTROL Database]**」。
 
    ![](assets/db.png)
 
-1. 在&#x200B;**新增**&#x200B;下，選取&#x200B;**新增欄位組織器**。
+1. 在&#x200B;**[!UICONTROL New]**&#x200B;下，選取&#x200B;**[!UICONTROL New Field Organizer]**。
 
    ![](assets/two-1.png)
 
-1. 在&#x200B;**欄位**&#x200B;下，選取屬性。 說明為選用。
+1. 在&#x200B;**[!UICONTROL Field]**&#x200B;下，選取屬性。 說明為選用。
 
    ![](assets/three-1.png)
 
-1. 按一下&#x200B;**建立**。
+1. 按一下「**[!UICONTROL Create]**」。
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. 為群組命名並輸入適當的資料（這取決於所選欄位的資料型別）。 按一下&#x200B;**新增群組**。
+1. 為群組命名並輸入適當的資料（這取決於所選欄位的資料型別）。 按一下「**[!UICONTROL Add Group]**」。
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 

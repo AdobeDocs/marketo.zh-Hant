@@ -4,9 +4,9 @@ description: 變更登陸頁面URL - Marketo檔案 — 產品檔案
 title: 變更登陸頁面URL
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 2c8c5bbbfef63f146111e31032fc70b7650239a4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/change-the-landing-page-url-2.png)
 
-1. 輸入&#x200B;**新URL**，選擇捨棄或重新導向舊URL，然後按一下&#x200B;**儲存**。
+1. 輸入&#x200B;**[!UICONTROL New URL]**，選擇捨棄或重新導向舊的URL，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/change-the-landing-page-url-3.png)
 

@@ -4,22 +4,22 @@ description: 效能深入分析快速圖表 — Marketo檔案 — 產品檔案
 title: 效能深入分析快速圖表
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# 效能深入分析快速圖表 {#performance-insights-quick-charts}
+# [!UICONTROL Performance Insights] [!UICONTROL Quick Charts] {#performance-insights-quick-charts}
 
-快速圖表是您自訂和儲存的縮圖，可讓您快速檢視您最常使用的圖表。
+[!UICONTROL Quick Charts]是您自訂和儲存的縮圖，可讓您快速檢視最常使用的圖表。
 
 ## 建立新的快速圖表 {#create-a-new-quick-chart}
 
-快速圖表衍生自您指定的資料。 在此範例中，我們將選擇： **新機會（首次接觸），機會型別=新業務，今年至今**。
+[!UICONTROL Quick Charts]衍生自您指定的資料。 在此範例中，我們將選擇： **新機會（首次接觸），機會型別=新業務，今年至今**。
 
-1. 按一下日期篩選，然後選擇&#x200B;**目前年份(YTD)**。
+1. 按一下日期篩選，然後選擇&#x200B;**[!UICONTROL Current Year (YTD)]**。
 
    ![](assets/1-2.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/3-3.png)
 
-1. 按一下「匯出」圖示並選取&#x200B;**另存為快速圖表**。
+1. 按一下匯出圖示並選取&#x200B;**[!UICONTROL Save as Quick Chart]**。
 
    ![](assets/4-2.png)
 
-1. 為快速圖表命名，然後按一下&#x200B;**儲存**。
+1. 為快速圖表命名，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/5-3.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 檢視現有的快速圖表 {#view-existing-quick-charts}
 
-1. 若要檢視您現有的快速圖表，只要按一下&#x200B;**快速圖表**&#x200B;圖示即可。
+1. 若要檢視您現有的快速圖表，只要按一下&#x200B;**[!UICONTROL Quick Charts]**&#x200B;圖示即可。
 
    ![](assets/7-1.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 如果您需要刪除快速圖表，請按照以下簡單步驟操作。
 
-1. 按一下&#x200B;**快速圖表**&#x200B;圖示。
+1. 按一下&#x200B;**[!UICONTROL Quick Charts]**&#x200B;圖示。
 
    ![](assets/8-1.png)
 
@@ -65,6 +65,6 @@ ht-degree: 0%
 
    ![](assets/9-2.png)
 
-1. 按一下&#x200B;**刪除**。
+1. 按一下「**[!UICONTROL Delete]**」。
 
    ![](assets/10-1.png)

@@ -3,24 +3,24 @@ description: 授予使用者存取權 — Marketo檔案 — 產品檔案
 title: 授予使用者存取權
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
 # 授予使用者存取權 {#granting-access-to-users}
 
-請依照本文的步驟，授予Sales Connect使用者存取Marketo連線的許可權。 這將可解鎖「即時摘要」中「有趣時刻」等功能以及行銷活動的存取權。
+請依照本文的步驟操作，授與您的[!DNL Sales Connect]使用者存取Marketo連線的許可權。 這將可解鎖「即時摘要」中「有趣時刻」等功能以及行銷活動的存取權。
 
-您必須先邀請使用者前往[這裡](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)的Sales Connect，才能顯示在Marketo > Team Access頁面（在Sales Connect中），此頁面授與使用者存取Marketo連線的許可權。
+您必須先邀請使用者[!DNL Sales Connect] [在此](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)，才能在Marketo > [!UICONTROL Team Access]頁面（在[!DNL Sales Connect]）中看到這些使用者，該頁面授予Marketo連線的存取權。
 
 >[!CAUTION]
 >
->將Sales Connect連線至Marketo後，請等待10分鐘再執行這些步驟。
+>將[!DNL Sales Connect]與Marketo連線後，請等待10分鐘再執行這些步驟。
 
-1. 選取一或多個使用者，然後按一下[連線]。**&#x200B;**
+1. 選取一或多個使用者，然後按一下&#x200B;**[!UICONTROL Connect]**。
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. 按一下Workspace下拉式清單，選取您想要的工作區，然後按一下&#x200B;**連線**。
+1. 按一下Workspace下拉式清單，選取您想要的工作區，然後按一下&#x200B;**[!UICONTROL Connect]**。
 
    ![](assets/granting-access-to-users-3.png)
 

@@ -3,16 +3,16 @@ description: 瞭解團隊標籤 — Marketo檔案 — 產品檔案
 title: 瞭解「專案團隊」標籤
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-# 瞭解「專案團隊」標籤 {#understanding-the-team-tab}
+# 瞭解[!UICONTROL Team]標籤 {#understanding-the-team-tab}
 
-在「團隊」標籤中，我們會強調三個重要量度。
+在[!UICONTROL Team]索引標籤中，我們會強調三個重要量度。
 
 ## 使用範本傳送的電子郵件 {#emails-sent-with-template}
 

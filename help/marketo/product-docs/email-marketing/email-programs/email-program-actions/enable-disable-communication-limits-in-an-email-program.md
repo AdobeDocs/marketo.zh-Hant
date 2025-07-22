@@ -4,9 +4,9 @@ description: 啟用/停用電子郵件程式中的通訊限制 — Marketo檔案
 title: 啟用/停用電子郵件程式中的通訊限制
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->通訊限制在管理員區段[&#128279;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)中設定為，可協助您避免傳送過多電子郵件給某人。
+>通訊限制在管理員區段[中設定為](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)，可協助您避免傳送過多電子郵件給某人。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,12 +27,12 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. 在&#x200B;**設定**&#x200B;標籤下，連按兩下通訊限制條列專案。
+1. 在&#x200B;**[!UICONTROL Setup]**&#x200B;標籤下，連按兩下通訊限制條列專案。
 
    ![](assets/blockoperational.png)
 
-1. 根據預設，如果達到通訊限制，則會封鎖非作業電子郵件，但如果您要略過這些限制，請清除核取方塊並按一下[儲存]。**&#x200B;**
+1. 根據預設，如果達到通訊限制，則會封鎖非作業電子郵件，但如果您要略過這些限制，請清除核取方塊並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/ifaperson.jpg)
 
-   若保留&#x200B;**封鎖非營運電子郵件**&#x200B;已核取，則將無法傳送電子郵件給收到超過系統管理員設定允許之電子郵件的任何人。
+   若保留&#x200B;**[!UICONTROL Block non-operational emails]**&#x200B;核取，將無法傳送電子郵件給收到超過您的管理員設定允許之電子郵件的任何人。

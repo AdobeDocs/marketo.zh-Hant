@@ -4,9 +4,9 @@ description: 停用和啟用已用完的內容通知 — Marketo檔案 — 產�
 title: 停用及啟用已用完的內容通知
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 當人們耗盡串流中的所有內容時，Marketo可以傳送通知給您。 您可以根據需求停用/啟用通知。 方法如下。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 選取參與方案，然後按一下&#x200B;**設定**&#x200B;標籤。
+1. 選取參與方案，然後按一下&#x200B;**[!UICONTROL Setup]**&#x200B;標籤。
 
    ![](assets/setuptab.jpg)
 
-1. 連按兩下&#x200B;**已用完的內容通知**。
+1. 連按兩下&#x200B;**[!UICONTROL Exhausted Content Notifications]**。
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. 選取&#x200B;**關閉** （或&#x200B;**開啟**）並按一下&#x200B;**儲存**。
+1. 選取&#x200B;**[!UICONTROL Off]** （或&#x200B;**[!UICONTROL On]**）並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 

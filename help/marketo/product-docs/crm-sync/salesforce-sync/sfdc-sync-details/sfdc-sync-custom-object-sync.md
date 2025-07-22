@@ -4,16 +4,16 @@ description: SFDC同步 — 自訂物件同步 — Marketo檔案 — 產品檔�
 title: SFDC同步 — 自訂物件同步
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 0%
+source-wordcount: '277'
+ht-degree: 1%
 
 ---
 
 # SFDC同步：自訂物件同步 {#sfdc-sync-custom-object-sync}
 
-在Salesforce例項中建立的自訂物件也可成為Marketo Engage的一部分。 以下說明設定方法。
+在您的[!DNL Salesforce]執行個體中建立的自訂物件也可以是Marketo的一部分。  以下說明設定方法。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->若要使用自訂物件，它必須關聯至Salesforce中的[銷售機會](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}、[連絡人](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}或[帳戶](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"}物件。
+>若要使用自訂物件，它必須關聯至[中的](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)銷售機會[、](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)連絡人[或](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)帳戶[!DNL Salesforce]物件。
 
 >[!IMPORTANT]
 >
@@ -29,21 +29,21 @@ ht-degree: 0%
 
 ## 啟用自訂物件  {#enable-custom-object}
 
-1. 按一下&#x200B;**[!UICONTROL 管理員]**&#x200B;和&#x200B;**[!UICONTROL Salesforce物件同步]**&#x200B;連結。
+1. 按一下&#x200B;**[!UICONTROL Admin]**&#x200B;和&#x200B;**[!UICONTROL Salesforce Objects Sync]**&#x200B;連結。
 
    ![](assets/image2015-11-19-10-3a28-3a5.png)。
 
-1. 如果這是您的第一個自訂物件，請按一下&#x200B;**[!UICONTROL 同步結構描述]**。
+1. 如果這是您的第一個自訂物件，請按一下&#x200B;**[!UICONTROL Sync Schema]**。
 
    ![](assets/rtaimage-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL 停用全域同步處理]**。
+1. 按一下「**[!UICONTROL Disable Global Sync]**」。
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
    >[!NOTE]
    >
-   >Salesforce自訂物件結構的初始同步可能需要幾分鐘的時間。
+   >[!DNL Salesforce]自訂物件結構描述的初始同步處理可能需要幾分鐘的時間。
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -55,11 +55,11 @@ ht-degree: 0%
    >
    >自訂物件必須具有唯一的名稱。 Marketo不支援兩個名稱相同的不同自訂物件。
 
-1. 按一下&#x200B;**[!UICONTROL 啟用同步]**。
+1. 按一下「**[!UICONTROL Enable Sync]**」。
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. 再按一下&#x200B;**[!UICONTROL 啟用同步]**。
+1. 再按一下&#x200B;**[!UICONTROL Enable Sync]**。
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -67,15 +67,15 @@ ht-degree: 0%
    >
    >別忘了重新啟用您的全域同步處理！
 
-1. 返回&#x200B;**Salesforce**&#x200B;標籤。
+1. 返回&#x200B;**[!UICONTROL Salesforce]**&#x200B;標籤。
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. 按一下&#x200B;**[!UICONTROL 啟用同步]**。
+1. 按一下「**[!UICONTROL Enable Sync]**」。
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. 若要檢視您所有的Salesforce自訂物件，請按一下&#x200B;**[!UICONTROL 管理員]**&#x200B;和&#x200B;**[!UICONTROL Salesforce物件同步]**&#x200B;連結（與上述步驟1相同）。
+1. 若要檢視您所有的[!DNL Salesforce]自訂物件，請按一下&#x200B;**[!UICONTROL Admin]**&#x200B;和&#x200B;**[!UICONTROL Salesforce Objects Sync]**&#x200B;連結（與上述步驟1相同）。
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 

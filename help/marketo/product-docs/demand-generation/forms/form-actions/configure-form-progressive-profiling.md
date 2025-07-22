@@ -4,9 +4,9 @@ description: 設定表單Progressive Profiling - Marketo檔案 — 產品檔案
 title: 設定表單Progressive設定檔
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -19,23 +19,23 @@ ht-degree: 0%
 >
 >為了讓此功能正常運作，請確定可見欄位已啟用表單預填，隱藏欄位則停用[已停用](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md)。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma-1.png)
 
-1. 選取您的表單並按一下&#x200B;**編輯表單**。
+1. 選取您的表單並按一下&#x200B;**[!UICONTROL Edit Form]**。
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. 在&#x200B;**表單設定**&#x200B;下，按一下&#x200B;**設定**。
+1. 在&#x200B;**[!UICONTROL Form Settings]**&#x200B;底下，按一下&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. 將&#x200B;**漸進式設定**&#x200B;設定為&#x200B;**已啟用**。
+1. 將&#x200B;**[!UICONTROL Progressive Profiling]**&#x200B;設為&#x200B;**[!UICONTROL Enabled]**。
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. 好，現在來設定它。 移至&#x200B;**欄位詳細資料**。
+1. 好，現在來設定它。 移至&#x200B;**[!UICONTROL Field Details]**。
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 
@@ -49,15 +49,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**漸進式設定檔**&#x200B;方塊之外的欄位一律會顯示在表單中，即使已填寫也是如此。
+   >**[!UICONTROL Progressive Profiling]**&#x200B;方塊之外的欄位一律會顯示在表單中，即使已填寫亦然。
 
-1. 選取&#x200B;**漸進式設定檔分析**&#x200B;方塊。
+1. 選取&#x200B;**[!UICONTROL Progressive Profiling]**&#x200B;方塊。
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
    >[!CAUTION]
    >
-   >在Progressive Profiling中使用必要欄位時請小心。 如果訪客在先前提交其他欄位的資料後輸入新的電子郵件地址（這將建立新人員），這些欄位仍可留空，因為它們將在最新表單上隱藏。
+   >在[!UICONTROL Progressive Profiling]中使用必要欄位時請小心。 如果訪客在先前提交其他欄位的資料後輸入新的電子郵件地址（這將建立新人員），這些欄位仍可留空，因為它們將在最新表單上隱藏。
 
 1. 現在選擇您想讓人員在任何指定時間從&#x200B;**漸進式設定檔**&#x200B;方塊中檢視多少空白欄位。
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您選擇&#x200B;**數字** **/** **空白** **欄位**&#x200B;為1，則訪客第一次看到此表單時，將會看到下列內容：
+   >如果您選擇&#x200B;**[!UICONTROL Number of Blank Fields]**&#x200B;為1，則訪客第一次看到此表單時，將會看到下列內容：
    >
    >* 名字（空白）
    >* 姓氏（空白）
@@ -86,11 +86,11 @@ ht-degree: 0%
    >* 電子郵件地址（預填）
    >* 國家/地區（空白）
 
-1. 按一下&#x200B;**完成**。
+1. 按一下「**[!UICONTROL Finish]**」。
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. 按一下&#x200B;**核准並關閉**。
+1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 

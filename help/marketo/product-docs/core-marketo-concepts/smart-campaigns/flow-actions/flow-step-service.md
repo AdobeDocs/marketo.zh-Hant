@@ -3,16 +3,16 @@ description: 流程步驟服務 — Marketo檔案 — 產品檔案
 title: 流程步驟服務
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: e511d2fda60eabd406bee5ee7441652a546fb35e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1234'
+source-wordcount: '1224'
 ht-degree: 0%
 
 ---
 
 # 流程步驟服務 {#flow-step-service}
 
-自助服務流程步驟是用於編寫、發佈和將Web服務整合到Adobe Marketo Engage Smart Campaigns中的框架和功能集。 本指南適用於Marketo Engage想要安裝及使用已建立並發佈之服務的一般使用者。 如需製作和發佈您自己的服務的資訊，請參閱服務提供者介面的[GitHub存放庫](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}。 [此處](https://github.com/adobe/mkto-flow-lookup){target="_blank"}可能有概念證明查閱表格實作。
+自助服務流程步驟是用於編寫、發佈和將Web服務整合到Adobe Marketo Engage Smart Campaigns中的框架和功能集。 本指南適用於想要安裝及使用已建立和發佈之服務的Marketo Engage使用者。 如需製作和發佈您自己的服務的資訊，請參閱服務提供者介面[[!DNL GitHub] 的](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}存放庫。 您可以在[這裡](https://github.com/adobe/mkto-flow-lookup){target="_blank"}找到概念證明查閱表格實作。
 
 ## 入門和管理服務 {#onboarding-and-managing-services}
 
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 ## 安裝URL {#installation-url}
 
-若要開始安裝，您必須先取得定義您服務的OpenAPI檔案的URL。 您的服務提供者應該能夠提供此資訊給您，而且通常會有以`/openapi.json`結尾的URL。 完整的URL看起來會類似`https://www.example.com/OpenAPI.json`。 有了此URL後，請前往「管理員」區段中的「服務提供者」功能表。
+若要開始安裝，您必須先取得定義您服務的OpenAPI檔案的URL。 您的服務提供者應該能夠提供此資訊給您，而且通常會有以`/openapi.json`結尾的URL。 完整的URL看起來會類似`https://www.example.com/OpenAPI.json`。 有了此URL後，請移至[!UICONTROL Service Providers]區段中的[!UICONTROL Admin]功能表。
 
-按一下[下一步]&#x200B;**&#x200B;**，移至[輸入服務認證]區段。
+按一下&#x200B;**[!UICONTROL Next]**，移至「輸入服務認證」區段。
 
 ![](assets/flow-step-service-1.png)
 
@@ -90,7 +90,7 @@ ht-degree: 0%
 
 ## 重新整理挑選清單 {#refreshing-picklists}
 
-Marketo會每晚重新整理服務的挑選清單選擇，但有時您需要新的可用選擇，例如建立行銷活動。 您可以使用重新整理按鈕，從流程步驟的任何執行個體中輕鬆重新整理這些內容，或前往管理員>服務提供者功能表，並在選取服務後按一下「重新整理挑選清單」。
+Marketo會每晚重新整理服務的挑選清單選擇，但有時您需要新的可用選擇，例如建立行銷活動。 您可以使用重新整理按鈕，從流程步驟的任何執行個體輕鬆重新整理這些內容，或前往「[!UICONTROL Admin] > [!UICONTROL Service Providers]」功能表，並在選取服務後按一下「[!UICONTROL Refresh Picklist]」。
 
 ## 檢查傳入欄位 {#checking-incoming-fields}
 

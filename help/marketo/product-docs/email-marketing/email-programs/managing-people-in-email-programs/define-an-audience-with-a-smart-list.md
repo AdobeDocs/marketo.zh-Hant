@@ -4,9 +4,9 @@ description: 使用智慧清單定義對象 — Marketo檔案 — 產品檔案
 title: 使用智慧清單定義對象
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '256'
 ht-degree: 1%
 
 ---
@@ -23,17 +23,17 @@ ht-degree: 1%
 >
 >只有當電子郵件計畫未獲核準時，定義您的對象才能運作。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取您的電子郵件程式，然後按一下&#x200B;**對象**&#x200B;圖磚下的&#x200B;**編輯智慧清單**。
+1. 選取您的電子郵件程式，然後按一下「**[!UICONTROL Edit Smart List]**」方塊下方的「**[!UICONTROL Audience]**」。
 
    ![](assets/2017-05-22-09-46-37.png)
 
    >[!TIP]
    >
-   >確定檢視已設為&#x200B;**控制檯**&#x200B;以尋找此設定。
+   >確定檢視已設為&#x200B;**[!UICONTROL Control Panel]**&#x200B;以尋找此設定。
 
 1. 找出您要使用的篩選器，然後將其拖曳至畫布中。
 
@@ -63,7 +63,7 @@ ht-degree: 1%
 >
 >按一下數字，即可取得封鎖郵件之人員的詳細清單。 **請注意：**&#x200B;操作電子郵件仍會傳送給標籤為已取消訂閱且行銷已暫停的人員。
 >
->使用「對象」方塊上的![—](assets/image2014-10-23-16-3a32-3a36.png)按鈕，檢視有多少人會收到電子郵件。
+>使用![圖磚上的](assets/image2014-10-23-16-3a32-3a36.png)—**[!UICONTROL Audience]**&#x200B;按鈕，檢視有多少人會收到電子郵件。
 
 >[!MORELIKETHIS]
 >

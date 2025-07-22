@@ -4,42 +4,42 @@ description: 在Salesforce Lightning中使用大量動作 — Marketo檔案 — 
 title: 在Salesforce Lightning中使用大量動作
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
 
-# 在Salesforce Lightning中使用大量動作 {#using-bulk-actions-in-salesforce-lightning}
+# 在[!DNL Salesforce Lightning]中使用大量動作 {#using-bulk-actions-in-salesforce-lightning}
 
-瞭解如何執行大量動作，例如將銷售機會新增至行銷活動、傳送大量電子郵件，或將銷售機會從Salesforce推送至Sales Connect。
+瞭解如何執行大量動作，例如將銷售機會新增至行銷活動、傳送大量電子郵件，或將銷售機會從[!DNL Salesforce]推播至[!DNL Sales Connect]。
 
 >[!PREREQUISITES]
 >
->更新至最新版的Sales Connect套件，並在您的銷售機會/聯絡人檢視中安裝大量動作按鈕。 [按一下這裡以取得指示](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)。
+>更新至[!DNL Sales Connect]封裝的最新版本，並在您的銷售機會/聯絡人檢視中安裝大量動作按鈕。 [按一下這裡以取得指示](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)。
 
 >[!NOTE]
 >
->在依照下列步驟操作之前，請確定您已登入您的Marketo Sales Connect帳戶。
+>在執行以下步驟之前，請確定您已登入您的[!DNL Marketo Sales Connect]帳戶。
 
 ## 大量電子郵件 {#bulk-email}
 
-1. 在Salesforce中，按一下&#x200B;**銷售機會**&#x200B;標籤，然後選擇想要的銷售機會清單。
+1. 在[!DNL Salesforce]中，按一下&#x200B;**[!UICONTROL Leads]**&#x200B;標籤，然後選擇想要的銷售機會清單。
 
    ![](assets/one-6.png)
 
    >[!NOTE]
    >
-   >如果您已經位於要使用的清單中，您必須從下拉式清單中選擇它，以確保MSC大量動作按鈕顯示，以再次執行它。 這是無法變更的Salesforce行為。
+   >如果您已經位於要使用的清單中，您必須從下拉式清單中選擇它，以確保MSC大量動作按鈕顯示，以再次執行它。 這是無法變更的[!DNL Salesforce]行為。
 
-1. 按一下箭號下拉式清單（在畫面的最右側），然後選取&#x200B;**使用MSC的電子郵件**。
+1. 按一下箭號下拉式清單（在畫面最右邊）並選取&#x200B;**[!UICONTROL Email with MSC]**。
 
    ![](assets/two-6.png)
 
 1. 將會出現MSC電子郵件。 它包含下列功能：
 
-   a. 「收件者」欄位會顯示「所有收款」 — 這對應於您在「潛在客戶清單檢視表」中所選擇的潛在客戶清單\
+   a. 「[!UICONTROL To]」欄位顯示「所有回條」 — 這對應於您在「潛在客戶清單檢視表」中選擇的潛在客戶清單\
    b.此清單會顯示在名為「大量撰寫」的左側面板上 — 您可以在此處新增/移除收件者\
    c.您可以選擇範本或建立您自己的電子郵件\
    d.您可以立即傳送電子郵件，或排程在稍後傳送
@@ -48,33 +48,33 @@ ht-degree: 0%
 
 ## 新增至行銷活動 {#add-to-campaign}
 
-1. 在Salesforce中，按一下&#x200B;**銷售機會**&#x200B;標籤，然後選擇想要的銷售機會清單。
+1. 在[!DNL Salesforce]中，按一下&#x200B;**[!UICONTROL Leads]**&#x200B;標籤，然後選擇想要的銷售機會清單。
 
    ![](assets/four-4.png)
 
-1. 按一下箭號下拉式清單（在畫面的最右側），並選取&#x200B;**新增至MSC促銷活動**。
+1. 按一下箭號下拉式清單（在畫面最右邊）並選取&#x200B;**[!UICONTROL Add to MSC Campaign]**。
 
    ![](assets/five-4.png)
 
-1. 將會出現「將人員新增至您的行銷活動」快顯視窗。 按一下「下一步&#x200B;**」**，然後透過一般行銷活動流程來觸發MSC行銷活動。
+1. 「[!UICONTROL Add People to Your Campaign]」快顯視窗將會出現。 按一下&#x200B;**[!UICONTROL Next]**&#x200B;並透過一般促銷活動流程來觸發MSC促銷活動。
 
    ![](assets/six-1.png)
 
-## 推送至Marketo Sales Connect {#push-to-marketo-sales-connect}
+## 推送到[!DNL Marketo Sales Connect] {#push-to-marketo-sales-connect}
 
-1. 在Salesforce中，按一下&#x200B;**銷售機會**&#x200B;標籤，然後選擇想要的銷售機會清單。
+1. 在[!DNL Salesforce]中，按一下&#x200B;**[!UICONTROL Leads]**&#x200B;標籤，然後選擇想要的銷售機會清單。
 
    ![](assets/seven-2.png)
 
-1. 按一下箭號下拉式清單（在畫面的最右側），然後選取&#x200B;**推送至MSC**。
+1. 按一下箭號下拉式清單（在畫面最右邊）並選取&#x200B;**[!UICONTROL Push to MSC]**。
 
    ![](assets/eight-2.png)
 
-1. 隨後將開啟名為「Salesforce Bridge」的新索引標籤。 按一下「**繼續群組→**」按鈕。
+1. 名為「[!DNL Salesforce] Bridge」的新標籤將會開啟。 按一下&#x200B;**[!UICONTROL Proceed to Group]→**&#x200B;按鈕。
 
    ![](assets/nine-2.png)
 
-1. 系統會將您傳送至您的MSC帳戶，您會在其中看到以日期/時間戳記建立的群組。 同步完成後，您將會收到通知，群組將包含從Salesforce同步的銷售機會。
+1. 系統會將您傳送至您的MSC帳戶，您會在其中看到以日期/時間戳記建立的群組。 同步完成後，您將會收到通知，群組將會包含從[!DNL Salesforce]同步的潛在客戶。
 
    ![](assets/ten-1.png)
 

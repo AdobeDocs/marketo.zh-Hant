@@ -4,10 +4,10 @@ description: 向下切入人員績效報表 — Marketo檔案 — 產品檔案
 title: 向下展開人員績效報表
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 1%
+source-wordcount: '127'
+ht-degree: 3%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 向下追溯至「人員績效報表」，以檢視其他人員資訊。
 
-1. 按一下「**報表**」索引標籤以檢視任何現有的報表。
+1. 按一下「**[!UICONTROL Report]**」標籤以檢視任何現有報表。
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ ht-degree: 1%
 
    ![](assets/two.png)
 
-1. 按一下&#x200B;**向下鑽研**。
+1. 按一下&#x200B;**[!UICONTROL Drill-Down]**。
 
    ![](assets/three.png)
 
-1. 在&#x200B;**向下切入**&#x200B;快顯視窗中，選取您要向下切入的屬性。 然後按一下&#x200B;**向下鑽研**。
+1. 在&#x200B;**[!UICONTROL Drill-Down]**&#x200B;快顯視窗中，選取您要向下鑽研的屬性。 然後按一下「**[!UICONTROL Drill-Down]**」。
 
    ![](assets/four.png)
 
@@ -39,6 +39,6 @@ ht-degree: 1%
 
    ![](assets/five.png)
 
-1. 若要儲存您的結果（選擇性），請按一下左下角的&#x200B;**匯出**&#x200B;圖示。
+1. 若要儲存您的結果（選擇性），請按一下左下方的&#x200B;**[!UICONTROL Export]**&#x200B;圖示。
 
    ![](assets/six.png)

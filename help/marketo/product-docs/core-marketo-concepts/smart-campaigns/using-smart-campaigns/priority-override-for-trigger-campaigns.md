@@ -3,9 +3,9 @@ description: 觸發器行銷活動的優先順序覆寫 — Marketo檔案 — �
 title: 觸發器行銷活動的優先順序覆寫
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -28,34 +28,34 @@ ht-degree: 0%
 >
 >只有管理員或具有管理員責任的使用者才應具有行銷活動優先順序覆寫存取權。
 
-1. 在[!UICONTROL 管理員]區域中，按一下&#x200B;**[!UICONTROL 使用者與角色]**。
+1. 在&#x200B;**[!UICONTROL Admin]**&#x200B;區域中，按一下&#x200B;**[!UICONTROL Users & Roles]**。
 
    ![](assets/priority-override-for-trigger-campaigns-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 角色]**&#x200B;標籤，選取您要授與存取權的使用者，然後按一下&#x200B;**[!UICONTROL 編輯角色]**。
+1. 按一下&#x200B;**[!UICONTROL Roles]**&#x200B;標籤，選取您要授與存取許可權的使用者，然後按一下&#x200B;**[!UICONTROL Edit Role]**。
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. 在[!UICONTROL 存取行銷活動]下，選取&#x200B;**[!UICONTROL 編輯觸發程式行銷活動優先順序]**。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 在&#x200B;**[!UICONTROL Access Marketing Activities]**&#x200B;下，選取&#x200B;**[!UICONTROL Edit Trigger Campaign Priority]**。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
 ## 覆寫優先順序 {#override-priority}
 
-1. 找出您的觸發程式行銷活動。 用滑鼠右鍵按一下並選取&#x200B;**[!UICONTROL 覆寫行銷活動優先順序]**。
+1. 找出您的觸發程式行銷活動。 用滑鼠右鍵按一下並選取&#x200B;**[!UICONTROL Override Campaign Priority]**。
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 
-1. 按一下&#x200B;**[!UICONTROL 覆寫行銷活動優先順序]**&#x200B;滑桿以啟用。 選擇新的優先順序層級，然後按一下&#x200B;**[!UICONTROL 確認]**。
+1. 按一下&#x200B;**[!UICONTROL Override Campaign Priority]**&#x200B;滑桿以啟用。 選擇新的優先順序層級，然後按一下&#x200B;**[!UICONTROL Confirm]**。
 
    ![](assets/priority-override-for-trigger-campaigns-5.png)
 
-   新的優先順序層級將顯示在「排程」標籤中。
+   新的優先順序層級將顯示在&#x200B;**[!UICONTROL Schedule]**&#x200B;索引標籤中。
 
    ![](assets/priority-override-for-trigger-campaigns-6.png)
 
 >[!NOTE]
 >
->* 您可以在[!UICONTROL 行銷活動]底下的[!UICONTROL 行銷活動佇列]中檢視行銷活動的預設優先順序。 若要提高執行率，建議將行銷活動優先順序設定為比預設值高一個層級。
+>* 您可以在[!UICONTROL Campaign Queue]中的[!UICONTROL Marketing Activities]下檢視行銷活動的預設優先順序。 若要提高執行率，建議將行銷活動優先順序設定為比預設值高一個層級。
 >* 使用者設定優先順序僅適用於符合促銷活動資格的新人員；已排入佇列的人不受影響。
 >* 已在[稽核軌跡](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}中擷取優先順序覆寫。

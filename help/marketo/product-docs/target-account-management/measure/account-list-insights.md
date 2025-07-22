@@ -4,9 +4,9 @@ description: 帳戶清單深入分析 — Marketo檔案 — 產品檔案
 title: 帳戶清單深入分析
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -32,11 +32,11 @@ ht-degree: 0%
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>管道</strong></td> 
+   <td colspan="1"><strong><span class="uicontrol">管道</span></strong></td> 
    <td colspan="1">檢視一段時間內的管道。 若要逐周判斷管道是否隨時間的變化，我們會在最後一天處理管道。</td> 
   </tr> 
   <tr> 
-   <td><strong>收入</strong></td> 
+   <td><strong><span class="uicontrol">收入</span></strong></td> 
    <td><p>檢視一段時間內的收入。 若要依周別判斷一段時間內的收入，我們會取得該周內所有收入的總和。</p></td> 
   </tr> 
  </tbody> 
@@ -44,16 +44,16 @@ ht-degree: 0%
 
 ## 具名帳戶標籤 {#named-accounts-tab}
 
-按一下&#x200B;**具名帳戶**&#x200B;標籤，檢視哪些具名帳戶屬於該帳戶清單。
+按一下「**[!UICONTROL Named Accounts]**」標籤，檢視哪些具名帳戶屬於該帳戶清單。
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->您可以在此索引標籤中移除已命名帳戶，方法是選取該帳戶並按一下&#x200B;**移除已命名帳戶**。
+>您可以選取此索引標籤中的具名帳戶，然後按一下&#x200B;**[!UICONTROL Remove Named Accounts]**&#x200B;以移除該帳戶。
 
-## 由索引標籤使用 {#used-by-tab}
+## [!UICONTROL Used By]索引標籤 {#used-by-tab}
 
-按一下&#x200B;**使用者**&#x200B;索引標籤，以檢視哪些資產正在參考該帳戶清單。
+按一下「**[!UICONTROL Used By]**」標籤，檢視參照該帳戶清單的資產。
 
 ![](assets/four-2.png)

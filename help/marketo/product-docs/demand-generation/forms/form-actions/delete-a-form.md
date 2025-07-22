@@ -4,9 +4,9 @@ description: 刪除表單 — Marketo檔案 — 產品檔案
 title: 刪除表單
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 如果您的表單不需要且未使用，可以將其刪除。 方法如下。
 
-1. 移至&#x200B;**行銷活動**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. 在&#x200B;**表單動作**&#x200B;下，按一下&#x200B;**刪除表單**。
+1. 在&#x200B;**[!UICONTROL Form Actions]**&#x200B;底下，按一下&#x200B;**[!UICONTROL Delete Form]**。
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >請記得從使用表單的任何/所有登入頁面中移除表單。 此外，請確認公用網站上未使用表單。
 
-1. 按一下&#x200B;**刪除**&#x200B;以確認。
+1. 按一下&#x200B;**[!UICONTROL Delete]**&#x200B;確認。
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 

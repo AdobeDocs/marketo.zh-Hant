@@ -4,10 +4,10 @@ description: 新增超連結文字 — Marketo檔案 — 產品檔案
 title: 新增超連結文字
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 0%
+source-wordcount: '46'
+ht-degree: 2%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 1. 輸入您希望連結的URL (即「https://www.mywebsite.com」)。
 
-1. 按一下&#x200B;**確定**。
+1. 按一下「**[!UICONTROL OK]**」。

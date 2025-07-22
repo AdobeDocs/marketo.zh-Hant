@@ -4,9 +4,9 @@ description: 欄排序報表 — Marketo檔案 — 產品檔案
 title: 對報表進行欄排序
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 使用欄來排序報表中的資料，並讓最重要的數字容易找到。
 
-1. 移至&#x200B;**Analytics** （或&#x200B;**行銷活動**）。
+1. 移至&#x200B;**[!UICONTROL Analytics]** （或&#x200B;**[!UICONTROL Marketing Activities]**）。
 
    ![](assets/login-marketing-activities.png)
 
-1. 從導覽樹狀結構中選取您的報表，然後按一下「**報表**」標籤。
+1. 從導覽樹狀結構中選取您的報表，然後按一下「**[!UICONTROL Report]**」標籤。
 
    ![](assets/reports2.jpg)
 

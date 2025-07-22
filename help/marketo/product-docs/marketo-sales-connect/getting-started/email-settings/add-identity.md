@@ -4,10 +4,10 @@ description: 新增身分 — Marketo檔案 — 產品檔案
 title: 新增身分
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 feature: Marketo Sales Connect
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 0%
+source-wordcount: '164'
+ht-degree: 1%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 1. 按一下「設定」圖示。
 
-1. 按一下&#x200B;**電子郵件設定**。
+1. 按一下「**[!UICONTROL Email Settings]**」。
 
-1. 按一下&#x200B;**新增身分**。
+1. 按一下「**[!UICONTROL Add Identity]**」。
 
-1. 輸入您的資訊（電子郵件和名稱為必填欄位），完成時請按一下&#x200B;**建立**。
+1. 輸入您的資訊（電子郵件和名稱為必填欄位），完成時請按一下&#x200B;**[!UICONTROL Create]**。
 
 1. 按一下您收到的驗證電子郵件中的連結。
 
