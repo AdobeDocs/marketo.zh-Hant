@@ -15,8 +15,8 @@ ht-degree: 1%
 
 您必須先讓開發人員設定並初始化適用於Android和iOS平台的行動應用程式SDK，才能建立應用程式內訊息或推播通知。
 
-* 適用於Android的[指示](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
-* 適用於iOS的[指示](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
+* 適用於Android的[指示](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* 適用於iOS的[指示](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## 將SDK程式碼傳送給開發人員 {#send-sdk-code-to-a-developer-1}
 

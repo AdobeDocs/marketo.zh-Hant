@@ -103,7 +103,7 @@ ht-degree: 1%
 
 有/曾經有行動應用程式活動
 
-這些提供強大的方式可追蹤自訂行動活動。 您需要與開發人員合作，為Android[設定追蹤](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}，為iOS[設定](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}。
+這些提供強大的方式可追蹤自訂行動活動。 您需要與開發人員合作，為Android[設定追蹤](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}，為iOS[設定](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}。
 
 * 具有行動應用程式活動 — 觸發器
 
