@@ -2,14 +2,15 @@
 solution: Marketo Engage
 product: marketo
 title: Spam刺客
-description: 文字移至此處
+description: 瞭解如何使用SpamAssassin測試您的電子郵件內容，並檢視將其標示為垃圾郵件的可能性。
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
+source-git-commit: d13bf2943f493579f75fe8c9a0c3f675f74a09f0
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '200'
 ht-degree: 3%
 
 ---

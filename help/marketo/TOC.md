@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: bf686092e8d574c9b8fd3e9e98d0e6d567354788
 workflow-type: tm+mt
-source-wordcount: '9296'
+source-wordcount: '9294'
 ht-degree: 2%
 
 ---
@@ -1029,8 +1029,8 @@ ht-degree: 2%
          + [功能比較](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [電子郵件製作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [電子郵件範本製作](product-docs/email-marketing/email-designer/email-template-authoring.md)
-         + [自訂CSS檔案](product-docs/email-marketing/email-designer/custom-css.md)
-         + [品牌套件檔案](product-docs/email-marketing/email-designer/brand-kit.md)
+         + [自訂CSS](product-docs/email-marketing/email-designer/custom-css.md)
+         + [品牌套件](product-docs/email-marketing/email-designer/brand-kit.md)
          + [使用Litmus測試電子郵件呈現](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization Token](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [使用AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
@@ -1355,11 +1355,11 @@ ht-degree: 2%
             + [在動態欄位中自我參照](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo銷售Insight {#marketo-sales-insight}
       + 動作 {#actions}
-         + [Sales Insight動作功能概觀](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
+         + [銷售Insight動作功能概觀](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + 快速入門 {#getting-started}
             + [Sales Insight Actions使用者入門指南](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-            + [銷售分析動作使用者入門檢查清單](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
-            + [Sales Insight Actions管理員設定指南](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
+            + [銷售Insight動作使用者入門檢查清單](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
+            + [Sales Insight Actions管理設定指南](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [變更您的Marketo銷售密碼](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + [產品使用量限制](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
             + 電子郵件設定 {#email-settings}
@@ -1397,11 +1397,11 @@ ht-degree: 2%
                + [檔案](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
             + Salesforce整合 {#salesforce-integration}
                + [設定Salesforce活動詳細資料自訂](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
-               + [將您的Sales Insight Actions帳戶連結至Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
-               + [中斷與Sales Insight動作的Salesforce連線](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
+               + [將您的Sales Insight Actions帳戶連線至Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
+               + [中斷與Salesforce的銷售Insight動作連線](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [回覆記錄](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce診斷](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
-               + [設定Sales Insight動作沙箱](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
+               + [設定銷售Insight動作沙箱](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
                + [將銷售活動同步至Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Salesforce套件設定 {#salesforce-package-configuration}
                + [Salesforce中的Sales Insight動作設定](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
@@ -1445,16 +1445,16 @@ ht-degree: 2%
             + [我可以使用副本/密件副本追蹤多個收件者嗎？](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [內容和檔案附件常見問題集](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
             + [電子郵件的「副本抄送」和「密件抄送」區段中所列收件者的檢視、點按和回覆是否受到追蹤？](product-docs/marketo-sales-insight/actions/faq/do-views-clicks-and-replies-from-cc-and-bcc-get-tracked.md)
-            + [Sales Insight動作有iPhone或Android應用程式嗎？](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
-            + [如何在伺服器上允許列出Sales Insight動作？](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
+            + [銷售Insight動作有iPhone或Android應用程式嗎？](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
+            + [如何在伺服器上將銷售Insight動作加入允許清單？](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [如何修正連線至Salesforce時「我們無法驗證您的請求」的問題？](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [如何防止自我檢視？](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [位置追蹤如何運作？](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
             + [我的帳戶已被鎖定。 該怎麼辦？](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
-            + [Sales Insight Actions是否與Salesforce Lightning相容？](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
-            + [Sales Insight Actions支援哪些瀏覽器？](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
-            + [Sales Insight Actions的服務條款為何？](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
-            + [為什麼我的任何聯絡人都不會被推送到Sales Insight動作？](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [銷售Insight動作是否與Salesforce Lightning相容？](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
+            + [Sales Insight動作支援哪些瀏覽器？](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
+            + [銷售Insight Actions的服務條款為何？](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
+            + [為什麼我的連絡人沒有推送至銷售人員Insight動作？](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [為什麼我的動態欄位沒有填寫？](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
             + [我的銷售活動和活動欄位為何未同步至Salesforce？](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [我為何刪除不了連絡人？](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
@@ -1466,14 +1466,14 @@ ht-degree: 2%
             + [Highspot整合](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
          + Marketo {#marketo}
             + [授予使用者存取Marketo的許可權](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
-            + [Sales Insight動作中的有趣時刻](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
+            + [銷售Insight動作中的有趣時刻](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
             + [讓Sales Connect使用者看到行銷活動](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [銷售活動觸發程式與篩選器](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
-            + [銷售分析動作活動字彙表](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
+            + [銷售Insight動作活動字彙表](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [設定您的Marketo連線](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
          + 人員 {#people}
             + [個人詳細資料檢視](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
-            + [Sales Insight Actions與GDPR法規遵循](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
+            + [銷售Insight行動與GDPR法規遵循](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
             + 管理連絡人 {#managing-contacts}
                + [對人員的大量動作](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [管理群組](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
@@ -1514,12 +1514,12 @@ ht-degree: 2%
                + [電子郵件活動](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
                + [網站活動](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
          + 安裝 {#installing}
-            + [下載適用於Microsoft Dynamics的Marketo Sales Insight Solution](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [下載適用於Microsoft Dynamics的Marketo Sales Insight解決方案](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
             + [在Microsoft Dynamics 2011中安裝並設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
-            + [在Microsoft Dynamics 2013中安裝和設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
-            + [在Microsoft Dynamics 2015中安裝和設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
+            + [在Microsoft Dynamics 2013中安裝並設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
+            + [在Microsoft Dynamics 2015中安裝並設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
             + [在Microsoft Dynamics 365中安裝及設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md)
-            + [在Microsoft Dynamics Online中安裝和設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
+            + [在Microsoft Dynamics Online中安裝並設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
          + 設定和使用 {#setting-up-and-using}
             + [從Microsoft Dynamics將銷售機會/聯絡人新增至Marketo行銷活動](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
             + [將Marketo與Dynamics同步所需的欄位](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
@@ -1529,20 +1529,20 @@ ht-degree: 2%
             + [停用全域MS Dynamics同步處理](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [從MS Dynamics執行個體解除安裝MSI](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
          + 正在更新 {#updating}
-            + [升級適用於Microsoft Dynamics的Marketo Sales Insight Solution](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [升級適用於Microsoft Dynamics的Marketo Sales Insight解決方案](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + 適用於Salesforce的MSI {#msi-for-salesforce}
          + 安裝 {#installation}
             + [在Salesforce AppExchange中安裝Marketo Sales Insight套件](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + 設定 {#configuration}
-            + [在Salesforce Enterprise/Unlimited中設定Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+            + [在Marketo Enterprise/Unlimited中設定Salesforce Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [在Marketo Professional Edition中設定Salesforce Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [現有客戶的設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Salesforce中的Marketo Sales Insight設定索引標籤](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [將Marketo標籤新增至Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
-            + [Marketo管理員的銷售分析頁面](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
-            + [新增銷售分析許可權集](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
-            + [移除Sales Insight存取權](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
-            + [將銷售分析存取權新增至設定檔](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md)
+            + [Marketo管理員專用的Insight銷售頁面](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
+            + [新增銷售Insight許可權集](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
+            + [移除銷售Insight存取權](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
+            + [將銷售Insight存取權新增至設定檔](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md)
             + [將大量動作按鈕新增至Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Salesforce Lightning中的大量動作](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
          + 功能 {#features}
@@ -1551,24 +1551,24 @@ ht-degree: 2%
             + [Dynamic Chat整合](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
             + [傳送電子郵件給Marketo Sales Insight中的多筆記錄](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + MSI面板中的動作 {#actions-in-the-msi-panel}
-               + [在Sales Insight中選擇動作](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
+               + [在銷售Insight中選擇動作](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [在Marketo Sales Insight中設定取消訂閱頁尾](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [鎖定銷售範本](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
-               + [發佈電子郵件至Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+               + [發佈電子郵件至銷售Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [傳送測試電子郵件](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + 語言支援 {#language-support}
-               + [準備Sales Insight以獲得Salesforce中的多語言支援](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
+               + [為Salesforce中的多語言支援準備銷售Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Marketo索引標籤 {#marketo-tab}
                + [首選](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [使用潛在客戶摘要](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + MSI組態標籤 {#msi-configuration-tab}
-               + [啟用Sales Insight的RSS](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
+               + [啟用銷售Insight的RSS](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
             + 效能報表 {#performance-reports}
-               + [銷售分析電子郵件績效報表](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
+               + [銷售Insight電子郵件效能報表](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
             + 星星和火焰 {#stars-and-flames}
                + [自訂星星和火焰](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
                + [優先順序、急迫性、相對分數和首選](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
-               + [設定要在Sales Insight中用於星星和火焰的分數欄位](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
+               + [在銷售Insight中設定用於星星和火焰的分數欄位](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
             + MSI面板中的標籤 {#tabs-in-the-msi-panel}
                + [電子郵件索引標籤](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
                + 有趣的時刻 {#interesting-moments}
@@ -1592,7 +1592,7 @@ ht-degree: 2%
          + [Marketo Outlook外掛程式由IT解除安裝](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
          + [使用Outlook的電子郵件增益集傳送及追蹤電子郵件](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
          + [使用Marketo範本從Outlook傳送及追蹤](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
-         + [指定Marketo Sales Insight外掛程式管理員](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
+         + [指定Marketo銷售Insight外掛程式管理員](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
          + [升級您的Outlook版Marketo電子郵件增益集](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
       + [非原生MS Dynamics整合的Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
       + [非原生Salesforce整合的Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
@@ -1668,7 +1668,7 @@ ht-degree: 2%
    + 預測性內容 {#predictive-content}
       + [預測性內容摘要](product-docs/predictive-content/the-predictive-content-summary.md)
       + [定義預測性內容活動的智慧清單](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
-      + [預測性內容分析概述](product-docs/predictive-content/predictive-content-analytics-overview.md)
+      + [預測性Content Analytics概觀](product-docs/predictive-content/predictive-content-analytics-overview.md)
       + 快速入門 {#getting-started}
          + [演演算法目標設定](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [建立內容模式](product-docs/predictive-content/getting-started/create-content-patterns.md)
@@ -1846,9 +1846,9 @@ ht-degree: 2%
          + [帳戶分數](product-docs/target-account-management/setup-tam/account-score.md)
          + [帳戶團隊設定](product-docs/target-account-management/setup-tam/account-team-setup.md)
          + [建立CRM探索的自訂欄位](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
-         + [設定帳戶分析](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
-         + [Account Insight外掛程式概述](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
-         + [邀請使用者存取帳戶分析](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
+         + [設定帳戶Insight](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+         + [帳戶Insight外掛程式概述](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
+         + [邀請使用者存取帳戶Insight](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
       + Target {#target}
          + 具名帳戶 {#named-accounts}
             + [具名帳戶總覽](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
@@ -1914,7 +1914,7 @@ ht-degree: 2%
             + [將RTP與Google Universal Analytics整合](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [整合Adobe Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
       + 瞭解網頁Personalization {#understanding-web-personalization}
-         + [瞭解內容分析](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
+         + [瞭解Content Analytics](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
          + [Web Personalization字彙表](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
          + [Web Personalization概觀](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
       + 使用範本 {#using-templates}
