@@ -5,9 +5,9 @@ description: 歡迎使用新的Adobe Marketo Engage電子郵件Designer。
 title: 概觀
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
+source-git-commit: fd34d8ff9e57a2c04ece1201a7b0ebaf1b2bd9c7
 workflow-type: tm+mt
-source-wordcount: '861'
+source-wordcount: '846'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 +++瞭解如何存取電子郵件設計工具
 
-若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
+若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ### 新增使用者 {#add-users}
 
@@ -53,8 +53,6 @@ ht-degree: 0%
 * [片段](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}：瞭解如何建立和使用視覺內容片段，作為電子郵件和電子郵件範本的可重複使用元件。
 
 * [可自訂的片段](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}：瞭解如何透過編輯某些欄位來自訂片段。
-
-* [Personalization權杖](/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md){target="_blank"}：瞭解新的電子郵件設計工具中個人化權杖的新格式。
 
 * [使用AEM資產](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}：瞭解如何輕鬆存取AEM數位資產，以用於Marketo Engage。
 
