@@ -5,9 +5,9 @@ description: 歡迎使用新的Adobe Marketo Engage電子郵件Designer。
 title: 概觀
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '860'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 歡迎使用新的Adobe Marketo Engage電子郵件Designer。
 
-電子郵件設計工具是Marketo Engage的最新創新，旨在提供改版後的電子郵件和電子郵件範本建立體驗，藉由提供視覺化的拖放編輯器以及標準的現成可用範本，以改善生產力和效率。 輕鬆建立自訂的電子郵件範本，無需花錢購買廠商。
+電子郵件Designer是Marketo Engage的最新創新，旨在提供改版後的電子郵件和電子郵件範本建立體驗，透過提供視覺拖放編輯器和標準現成範本來提高生產力和效率。 輕鬆建立自訂的電子郵件範本，無需花錢購買廠商。
 
 >[!NOTE]
 >
@@ -24,9 +24,9 @@ ht-degree: 0%
 
 ## 如何存取 {#how-to-access}
 
-+++瞭解如何存取電子郵件設計工具
++++瞭解如何存取電子郵件Designer
 
-若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
+若要存取新的電子郵件Designer，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ### 新增使用者 {#add-users}
 
@@ -64,13 +64,15 @@ ht-degree: 0%
 
 * [使用Litmus測試電子郵件呈現](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}：利用您在Marketo Engage中的Litmus帳戶，立即檢視您的電子郵件在常見電子郵件使用者端中的呈現方式。
 
+* [使用SpamAssassin偵測垃圾郵件](/help/marketo/product-docs/email-marketing/email-designer/spam-report.md){target="_blank"}：在Marketo Engage中使用SpamAssassin，您可以測試您的電子郵件內容並檢視ISP/信箱提供者標示為垃圾郵件的可能性。
+
 * [功能比較](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：比較舊版電子郵件編輯器(Email Editor 2.0)與新版Email Designer中功能的可用性。
 
 ## 常見問題集 {#faq}
 
 **舊的電子郵件編輯器是否會繼續運作？ 如果是，持續多長時間？**
 
-是的，舊的（傳統）電子郵件編輯器將與新的電子郵件設計工具並存。 在傳統編輯器中建立的電子郵件仍會保留。 目前無法得知過時傳統編輯器的日期，但此編輯器將在2025年全年繼續運作。
+是，舊的（傳統）電子郵件編輯器將與新的電子郵件Designer並存。 在傳統編輯器中建立的電子郵件仍會保留。 目前無法得知過時傳統編輯器的日期，但此編輯器將在2025年全年繼續運作。
 
 **我可以在哪些程式中使用新的電子郵件Designer電子郵件？**
 
@@ -82,11 +84,11 @@ ht-degree: 0%
 
 **我可以輕鬆地將新的設計工具資產移至其他程式嗎？**
 
-目前不可以。 但是，此功能即將推出。
+是！
 
-**是否可以在新的電子郵件設計工具中透過API編輯資產？**
+**是否可以在新的電子郵件Designer中透過API編輯資產？**
 
-新的電子郵件設計工具目前不支援透過API編輯的Assets。
+目前，新電子郵件Designer不支援透過API編輯的Assets。
 
 **是否有辦法強制執行品牌化（字型、標誌和顏色）？**
 
@@ -100,7 +102,7 @@ ht-degree: 0%
 
 它是WYSIWYG；不需要HTML知識。 您可以輕鬆在設計工具中建立範本，減少外部Web開發人員的需求。 不過，您仍可選擇透過HTML更新CSS及編輯個別區段。 我們也在研究將範本從傳統編輯器輕鬆移轉到新設計工具的方法。
 
-**新的電子郵件設計工具是否支援AMP語言？**
+**新的電子郵件Designer是否支援AMP語言？**
 
 目前不支援AMP。
 
