@@ -6,7 +6,7 @@ description: 瞭解如何使用SpamAssassin測試您的電子郵件內容，並�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: aba42b7480c6e042c462c423615ad35a5f66212f
+source-git-commit: 67674c3e1ce7614d7f7c533b0074e2fbc8edfa28
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 5%
@@ -43,7 +43,7 @@ SpamAssassin會分析您的內容，並根據各種條件指派分數。 分數�
    >
    >如果整體分數高於5，收件者可能會封鎖您的電子郵件，或在傳遞時將其標示為垃圾郵件。
 
-1. 如果您認為分數太高，請根據報告的發現來編輯電子郵件Designer中的內容，然後重新執行&#x200B;**垃圾郵件報告**。
+1. 如果您認為分數太高，請根據報告的發現編輯電子郵件Designer中的內容，然後重新執行&#x200B;**垃圾郵件報告**。
 
    ![](assets/email-spam-report-4.png){width="800" zoomable="yes"}
 
