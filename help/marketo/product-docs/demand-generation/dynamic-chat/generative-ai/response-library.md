@@ -3,9 +3,9 @@ description: 回應庫 — Marketo檔案 — 產品檔案
 title: 回應程式庫
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 8114c0bc094be0555e47165b31626baceaba9ef9
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -16,23 +16,23 @@ ht-degree: 0%
 
 ## 手動新增問題 {#manually-add-a-question}
 
-1. 在Generative AI底下，按一下&#x200B;**[!UICONTROL 輔助回應]**。
+1. 在Generative AI底下，按一下&#x200B;**[!UICONTROL Assisted responses]**。
 
    ![](assets/response-library-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 回應程式庫]**&#x200B;標籤。
+1. 按一下「**[!UICONTROL Response library]**」標籤。
 
    ![](assets/response-library-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL 新增問題]**。
+1. 按一下「**[!UICONTROL Add question]**」。
 
    ![](assets/response-library-3.png)
 
-1. 輸入您的問題和回應。 指派主題並新增使用者可與訪客共用的選用URL。 完成時，按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 輸入您的問題和回應。 指派主題並新增使用者可與訪客共用的選用URL。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/response-library-4.png)
 
-1. 按一下重新整理，您的新問題就會顯示在頂端，狀態為&quot;[!UICONTROL 正在處理]&quot;。
+1. 按一下重新整理，您的新問題就會顯示在頂端，且狀態為&quot;[!UICONTROL Processing]&quot;。
 
    ![](assets/response-library-5.png)
 
@@ -44,19 +44,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->依預設，所有產生的問題和回應都會被指派為&quot;[!UICONTROL 需要稽核]&quot;狀態。 只有&quot;[!UICONTROL 已核准]&quot;的問題和回應可供聊天訪客使用。
+>依預設，所有產生的問題和回應都會被指派為&quot;[!UICONTROL need review]&quot;狀態。 只有&quot;[!UICONTROL approved]&quot;問題和回應可供聊天訪客使用。
 
-1. 在&#x200B;**[!UICONTROL 回應程式庫]**&#x200B;中，按一下所要的問題。
+1. 在&#x200B;**[!UICONTROL Response library]**&#x200B;中，按一下所要的問題。
 
    ![](assets/response-library-7.png)
 
-1. 進行編輯並按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 進行編輯並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/response-library-8.png)
 
 ## 大量編輯和上傳問題/回應 {#bulk-edit-and-upload-questions-responses}
 
-以下說明如何在下載的Excel檔案中進行大量編輯。 它們也可以在檔案的「任務詳細資訊」標籤中檢視。
+以下說明如何在[下載的Excel檔案](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md#download-questions-and-responses){target="_blank"}中進行大量編輯。 它們也可以在檔案的「任務詳細資訊」標籤中檢視。
 
 <table>
 <thead>
@@ -85,11 +85,11 @@ ht-degree: 0%
 </tbody>
 </table>
 
-1. 完成檔案中的編輯後，請返回&#x200B;**[!UICONTROL 回應資料庫]**&#x200B;標籤，然後按一下&#x200B;**[!UICONTROL 上傳回應]**。
+1. 完成檔案中的編輯後，請返回&#x200B;**[!UICONTROL Response library]**&#x200B;標籤並按一下&#x200B;**[!UICONTROL Upload responses]**。
 
    ![](assets/response-library-9.png)
 
-1. 輸入適用的工作名稱。 拖放檔案，或瀏覽至裝置上並加以選取。 完成時，按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 輸入適用的工作名稱。 拖放檔案，或瀏覽至裝置上並加以選取。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/response-library-10.png)
 
