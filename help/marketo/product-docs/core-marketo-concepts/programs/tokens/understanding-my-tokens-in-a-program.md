@@ -4,9 +4,9 @@ description: 瞭解程式中的我的Token - Marketo檔案 — 產品檔案
 title: 瞭解程式中的我的Token
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0200af9b8ce180e15c6a45c5438b8f6f1c4af588
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '422'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>電子郵件指令碼 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>使用此代號在您的電子郵件中執行Velocity指令碼。 在<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting" title="關注連結" rel="nofollow">此處</a>瞭解更多資訊。 </td> 
+   <td>使用此代號在您的電子郵件中執行Velocity指令碼。 在<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="關注連結" rel="nofollow">此處</a>瞭解更多資訊。 </td> 
   </tr> 
   <tr> 
    <td>數字<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -86,6 +86,10 @@ ht-degree: 1%
 您可以建立全域變數，然後在樹狀結構的較低層級覆寫它們。
 
 移動程式和資料夾也會影響代號。 請務必檢查以確保在移動期間參照不會中斷。
+
+>[!IMPORTANT]
+>
+>[批次行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}不支援巢狀權杖。
 
 >[!NOTE]
 >
