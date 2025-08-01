@@ -4,16 +4,16 @@ description: 為自訂實體啟用同步 — Marketo檔案 — 產品檔案
 title: 為自訂實體啟用同步
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 4f36194fb76fd8e26c2fd6fe49526d88d355a24a
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
 
 # 為自訂實體啟用同步 {#enable-sync-for-a-custom-entity}
 
-如果您需要來自[!DNL Dynamics]的自訂實體資料才能在Marketo中使用，以下說明如何為其啟用同步。
+如果您需要來自[!DNL Dynamics]的自訂實體資料才能在Marketo Engage中使用，以下說明如何為其啟用同步。
 
 >[!PREREQUISITES]
 >
