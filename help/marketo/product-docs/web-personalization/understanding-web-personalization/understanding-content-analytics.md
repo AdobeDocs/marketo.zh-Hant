@@ -86,7 +86,7 @@ Analytics表格提供下列詳細資訊：
 
 * **[!UICONTROL Views]**：該內容片段在所選時間範圍內的檢視
 * **[!UICONTROL Direct Conversions]**：在同次造訪中檢視內容並填寫表單的網頁訪客。
-* **[!UICONTROL Conversion Rate]****：**&#x200B;由直接轉換除以點按次數計算的轉換率
+* **[!UICONTROL Conversion Rate]**&#x200B;**：**&#x200B;由直接轉換除以點按次數計算的轉換率
 
 **[!UICONTROL Trends]**
 

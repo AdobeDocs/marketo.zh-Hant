@@ -56,7 +56,7 @@ ht-degree: 2%
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
-1. 在URL中輸入或貼上所要的影像，然後按一下[下一步] ****。
+1. 在URL中輸入或貼上所要的影像，然後按一下[下一步] **&#x200B;**。
 
 PICC
 
