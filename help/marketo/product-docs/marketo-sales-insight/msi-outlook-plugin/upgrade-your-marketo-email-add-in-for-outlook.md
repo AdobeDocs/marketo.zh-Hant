@@ -4,7 +4,7 @@ description: 針對 [!DNL Outlook] 升級Marketo電子郵件增益集 — Market
 title: 升級 [!DNL Outlook]的Marketo電子郵件增益集
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 11%
@@ -23,98 +23,98 @@ ht-degree: 11%
 
 下載適用於您的Microsoft [!DNL Outlook]版本的安裝程式。
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th colspan="2">單一使用者邀請安裝</th> 
-   <th colspan="2">企業金鑰安裝</th> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="dnl">Outlook</span>版本</strong></td> 
-   <td><strong>32位元</strong></td> 
-   <td><strong>64位元</strong></td> 
-   <td><strong>32位元</strong></td> 
-   <td><strong>64位元</strong></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2000</td> 
-   <td>不支援</td> 
-   <td>不適用</td> 
-   <td>不支援</td> 
-   <td>不適用</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook 2003</span></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
-   <td>不適用</td> 
-   <td>不支援</td> 
-   <td>不適用</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2007</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
-   <td>不適用</td> 
-   <td>不支援</td> 
-   <td>不適用</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2010</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2013</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2016</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><span class="dnl">Outlook</span> 2019</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
-  </tr> 
-  <tr> 
-   <td>適用於Mac的<span class="dnl">Outlook</span></td> 
-   <td>不支援</td> 
-   <td>不支援</td> 
-   <td>不支援</td> 
-   <td>不支援</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><span class="dnl">Outlook</span>網頁應用程式</td> 
-   <td colspan="1">不支援</td> 
-   <td colspan="1">不支援</td> 
-   <td colspan="1">不支援</td> 
-   <td colspan="1">不支援</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><span class="dnl">Office</span> 365*</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th colspan="2">單一使用者邀請安裝</th>
+   <th colspan="2">企業金鑰安裝</th>
+  </tr>
+  <tr>
+   <td><strong><span class="dnl">Outlook</span>版本</strong></td>
+   <td><strong>32位元</strong></td>
+   <td><strong>64位元</strong></td>
+   <td><strong>32位元</strong></td>
+   <td><strong>64位元</strong></td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2000</td>
+   <td>不支援</td>
+   <td>不適用</td>
+   <td>不支援</td>
+   <td>不適用</td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook 2003</span></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td>
+   <td>不適用</td>
+   <td>不支援</td>
+   <td>不適用</td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2007</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td>
+   <td>不適用</td>
+   <td>不支援</td>
+   <td>不適用</td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2010</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2013</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2016</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td>
+  </tr>
+  <tr>
+   <td colspan="1"><span class="dnl">Outlook</span> 2019</td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td>
+  </tr>
+  <tr>
+   <td>適用於Mac的<span class="dnl">Outlook</span></td>
+   <td>不支援</td>
+   <td>不支援</td>
+   <td>不支援</td>
+   <td>不支援</td>
+  </tr>
+  <tr>
+   <td colspan="1"><span class="dnl">Outlook</span>網頁應用程式</td>
+   <td colspan="1">不支援</td>
+   <td colspan="1">不支援</td>
+   <td colspan="1">不支援</td>
+   <td colspan="1">不支援</td>
+  </tr>
+  <tr>
+   <td colspan="1"><span class="dnl">Office</span> 365*</td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">下載</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">下載</a></td>
+  </tr>
+ </tbody>
 </table>
 
 &#42;Office 365版本：僅限Windows使用者端（在Windows 10、Windows 11、Enterprise或Pro）。

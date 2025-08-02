@@ -4,7 +4,7 @@ description: 將RTP與Google Universal Analytics整合 — Marketo檔案 — 產
 title: 將RTP與Google Universal Analytics整合
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 2%
@@ -43,7 +43,6 @@ ht-degree: 2%
    1. 選取&#x200B;**[!UICONTROL Account].**
    1. 選取&#x200B;**[!UICONTROL Property].**
    1. 選取&#x200B;**[!UICONTROL Custom Definitions]**&#x200B;和&#x200B;**[!UICONTROL Custom Dimensions]**。
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. 新增自訂維度。 按一下 **[!UICONTROL +New Custom Dimension]**
@@ -52,34 +51,34 @@ ht-degree: 2%
 
 1. 新增下列&#x200B;**[!UICONTROL Custom Dimensions]：**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>自訂Dimension名稱</strong></p></td> 
-   <td><p><strong>範圍</strong></p></td> 
-   <td><p><strong>作用中</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP組織</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP — 產業</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP — 類別</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP群組</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>自訂Dimension名稱</strong></p></td>
+   <td><p><strong>範圍</strong></p></td>
+   <td><p><strong>作用中</strong></p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP組織</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP — 產業</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP — 類別</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP群組</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

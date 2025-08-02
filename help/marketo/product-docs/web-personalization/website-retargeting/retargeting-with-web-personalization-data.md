@@ -4,7 +4,7 @@ description: 使用網頁Personalization資料重新進行目標定位 — Marke
 title: 使用網頁Personalization資料重新進行目標定位
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 1%
@@ -26,30 +26,30 @@ Web Personalization目前會將資料附加至下列再行銷平台：
 
 [!DNL Web Personalization]將下列資料傳送至再行銷平台，以建立對象並執行再行銷廣告行銷活動：
 
-<table> 
- <tbody> 
-  <tr> 
-   <th colspan="1">[!DNL Web Personalization] 資料</th> 
-  </tr> 
-  <tr> 
-   <th><p>行業</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>群組（企業、中小企業）</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>類別(Fortune 500/1000、Global 2000)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>ABM清單（具名帳戶清單）</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>區段對象（根據區段）</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>網頁促銷活動已點按</p></th> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th colspan="1">[!DNL Web Personalization] 資料</th>
+  </tr>
+  <tr>
+   <th><p>行業</p></th>
+  </tr>
+  <tr>
+   <th><p>群組（企業、中小企業）</p></th>
+  </tr>
+  <tr>
+   <th><p>類別(Fortune 500/1000、Global 2000)</p></th>
+  </tr>
+  <tr>
+   <th><p>ABM清單（具名帳戶清單）</p></th>
+  </tr>
+  <tr>
+   <th><p>區段對象（根據區段）</p></th>
+  </tr>
+  <tr>
+   <th><p>網頁促銷活動已點按</p></th>
+  </tr>
+ </tbody>
 </table>
 
 ## 再行銷設定 {#remarketing-configuration}

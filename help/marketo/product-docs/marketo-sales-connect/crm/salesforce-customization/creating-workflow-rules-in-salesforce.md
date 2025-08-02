@@ -4,7 +4,7 @@ description: 在Salesforce中建立工作流程規則 — Marketo檔案 — 產�
 title: 在Salesforce中建立工作流程規則
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->這只會影響同時使用&#x200B;**1&rbrace; MSI和MSE以及想要在MSI中使用Best Bets功能的客戶。**&#x200B;如果您不需要/使用「首選」，可以忽略。
+>這只會影響同時使用&#x200B;**1} MSI和MSE以及想要在MSI中使用Best Bets功能的客戶。**&#x200B;如果您不需要/使用「首選」，可以忽略。
 
 ## 快速入門 {#getting-started}
 
@@ -25,29 +25,29 @@ ht-degree: 1%
 
 以下是工作流程規則的建議名稱及各自的相關說明。 這些套用至[!UICONTROL Contact]和[!UICONTROL Lead]物件：
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>更新有趣的時刻描述欄位</td> 
-   <td><p>複製自：上次Marketo參與度描述<br>複製至：上次有趣的時刻描述</p></td> 
-  </tr> 
-  <tr> 
-   <td>更新有趣的時刻型別欄位</td> 
-   <td><p>複製自：上次Marketo參與型別<br>複製至：上次有趣的時刻型別</p></td> 
-  </tr> 
-  <tr> 
-   <td>更新「有趣的時刻」Source欄位</td> 
-   <td><p>複製自：上次Marketo參與Source<br>複製至：上一個有趣的時刻Source</p></td> 
-  </tr> 
-  <tr> 
-   <td>更新有趣的時刻日期欄位</td> 
-   <td><p>複製自：上次Marketo參與日期<br>複製至：上次有趣的時刻日期</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>更新有趣的時刻描述欄位</td>
+   <td><p>複製自：上次Marketo參與度描述<br>複製至：上次有趣的時刻描述</p></td>
+  </tr>
+  <tr>
+   <td>更新有趣的時刻型別欄位</td>
+   <td><p>複製自：上次Marketo參與型別<br>複製至：上次有趣的時刻型別</p></td>
+  </tr>
+  <tr>
+   <td>更新「有趣的時刻」Source欄位</td>
+   <td><p>複製自：上次Marketo參與Source<br>複製至：上一個有趣的時刻Source</p></td>
+  </tr>
+  <tr>
+   <td>更新有趣的時刻日期欄位</td>
+   <td><p>複製自：上次Marketo參與日期<br>複製至：上次有趣的時刻日期</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 指示 {#instructions}

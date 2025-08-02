@@ -3,7 +3,7 @@ description: 發行說明 — 2021年10月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2021 年 10 月
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1084'
 ht-degree: 0%
@@ -50,13 +50,13 @@ ht-degree: 0%
 
 ![（星形）](assets/yellow-star.png)
 
-[!DNL Microsoft Dynamics 365]銷售的&#x200B;**[!DNL Sales Insight]**
+**[!DNL Sales Insight]銷售的[!DNL Microsoft Dynamics 365]**
 
-* **[!UICONTROL Best Bets]增強功能**： [!DNL Sales Insight]中的[!UICONTROL Best Bets]索引標籤可讓銷售人員即時檢視最熱門的聯絡人和銷售機會，並依照品質和緊急程度排定優先順序。 我們新增了銷售代表採取動作的功能，例如：直接從[!DNL Best Bets]頁面檢閱個人分數、傳送電子郵件或新增潛在客戶至指定的Marketo Engage行銷活動，以提高效率並加快回應時間。
+* **[!UICONTROL Best Bets]增強功能**： [!UICONTROL Best Bets]中的[!DNL Sales Insight]索引標籤可讓銷售人員即時檢視最熱門的聯絡人和銷售機會，並依照品質和緊急程度排定優先順序。 我們新增了銷售代表採取動作的功能，例如：直接從[!DNL Best Bets]頁面檢閱個人分數、傳送電子郵件或新增潛在客戶至指定的Marketo Engage行銷活動，以提高效率並加快回應時間。
 
 * **新電子郵件、網頁活動、匿名網頁活動儀表板**：我們新增了新的銷售儀表板，以通知賣家其銷售機會和連絡人最近的電子郵件和網頁活動。 透過新的篩選功能，儀表板現在可將insight提供給電子郵件開啟、點按和網頁瀏覽次數，以獲得完整的帳戶清單或特定帳戶。 Marketo Engage會追蹤所有網路活動，並為銷售人員提供重要資訊，將匿名流量轉化為銷售機會。 賣家可以個人化參與度，並更快將銷售線索轉換為銷售，因為他們更瞭解銷售線索行為，並根據所有接觸點的相關性行事。
 
-[!DNL Salesforce]&#x200B;**的**&#x200B;[!DNL Sales Insight]
+**[!DNL Sales Insight]的[!DNL Salesforce]**
 
 * **帳戶和機會層級[!UICONTROL Best Bets]**： [!DNL Sales Insight]現在讓銷售代表能夠檢閱他們擁有的帳戶或機會上所有連絡人的首選，即使連絡人已指派給不同的團隊成員。 這可讓帳戶和機會擁有者完整地瞭解相關聯絡人的活動，並協助他們根據帳戶或機會的更整體檢視採取行動。
 

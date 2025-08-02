@@ -4,10 +4,10 @@ description: 瞭解方案收入階段分析區域 — Marketo檔案 — 產品�
 title: 瞭解方案收入階段分析區域
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -29,9 +29,9 @@ ht-degree: 2%
 
 ![](assets/three-3.png)
 
-**方案收入階段分析Dimension與測量**
+**方案收入階段分析維度和測量**
 
-Dimension和測量會依功能分類，並以系統中的黃色或藍色點表示：維度為黃色，測量為藍色。 使用方案收入階段分析維度和測量來回答報告中的特定問題。
+維度和測量會依功能分類，並以系統中的黃色或藍色點表示：維度為黃色，測量為藍色。 使用方案收入階段分析維度和測量來回答報告中的特定問題。
 
 若要檢視類別中可用的維度或測量，請按一下類別名稱旁的向右箭頭，以展開類別清單。 按一下向下箭頭以收合類別清單。
 
@@ -41,114 +41,114 @@ Dimension和測量會依功能分類，並以系統中的黃色或藍色點表�
 
 **模型屬性**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>維度</strong></td> 
-   <td colspan="1" rowspan="1"><p><strong>說明</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>模型為作用中</p></td> 
-   <td colspan="1" rowspan="1"><p>說明模型目前是否核准且有效</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>階段作用中</p></td> 
-   <td colspan="1" rowspan="1"><p>說明階段是否作用中</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>在成功路徑上</p></td> 
-   <td colspan="1" rowspan="1"><p>說明階段是否位於成功路徑上</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>模型</p></td> 
-   <td colspan="1" rowspan="1"><p>模型名稱</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>階段</p></td> 
-   <td colspan="1" rowspan="1"><p>您的收入週期模型中存在的階段。 當分析兩個階段之間的測量時，用作「從」階段</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>階段型別</p></td> 
-   <td colspan="1" rowspan="1"><p>說明每個階段的型別；詳細目錄、SLA或閘道</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>維度</strong></td>
+   <td colspan="1" rowspan="1"><p><strong>說明</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>模型為作用中</p></td>
+   <td colspan="1" rowspan="1"><p>說明模型目前是否核准且有效</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>階段作用中</p></td>
+   <td colspan="1" rowspan="1"><p>說明階段是否作用中</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>在成功路徑上</p></td>
+   <td colspan="1" rowspan="1"><p>說明階段是否位於成功路徑上</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>模型</p></td>
+   <td colspan="1" rowspan="1"><p>模型名稱</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>階段</p></td>
+   <td colspan="1" rowspan="1"><p>您的收入週期模型中存在的階段。 當分析兩個階段之間的測量時，用作「從」階段</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>階段型別</p></td>
+   <td colspan="1" rowspan="1"><p>說明每個階段的型別；詳細目錄、SLA或閘道</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **程式屬性**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>維度</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>說明</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>方案頻道</p></td> 
-   <td colspan="1" rowspan="1"><p>方案頻道</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>計畫名稱</p></td> 
-   <td colspan="1" rowspan="1"><p>計畫名稱</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>維度</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>說明</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>方案頻道</p></td>
+   <td colspan="1" rowspan="1"><p>方案頻道</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>方案名稱</p></td>
+   <td colspan="1" rowspan="1"><p>方案名稱</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **方案成本時間範圍**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>維度</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>說明</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>成本年度</p></td> 
-   <td colspan="1" rowspan="1"><p>方案成本時間範圍</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>成本季度</p></td> 
-   <td colspan="1" rowspan="1"><p>方案成本時間範圍</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>成本月份</p></td> 
-   <td colspan="1" rowspan="1"><p>方案成本時間範圍</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>維度</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>說明</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>成本年度</p></td>
+   <td colspan="1" rowspan="1"><p>方案成本時間範圍</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>成本季度</p></td>
+   <td colspan="1" rowspan="1"><p>方案成本時間範圍</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>成本月份</p></td>
+   <td colspan="1" rowspan="1"><p>方案成本時間範圍</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **階段會籍**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>測量</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>說明</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>模型為作用中</p></td> 
-   <td colspan="1" rowspan="1"><p>說明模型目前是否核准且有效</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>階段作用中</p></td> 
-   <td colspan="1" rowspan="1"><p>說明階段是否作用中</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>在成功路徑上</p></td> 
-   <td colspan="1" rowspan="1"><p>說明階段是否位於成功路徑上</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>每個新名稱的成本</p></td> 
-   <td colspan="1" rowspan="1"><p>曾到達階段的新名稱的平均成本</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>新名稱（目前）</p></td> 
-   <td colspan="1" rowspan="1"><p>目前處於階段且由方案取得的潛在客戶總數</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>新名稱（曾經）</p></td> 
-   <td colspan="1" rowspan="1"><p>說明每個階段的型別；詳細目錄、SLA或閘道</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>衡量</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>說明</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>模型為作用中</p></td>
+   <td colspan="1" rowspan="1"><p>說明模型目前是否核准且有效</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>階段作用中</p></td>
+   <td colspan="1" rowspan="1"><p>說明階段是否作用中</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>在成功路徑上</p></td>
+   <td colspan="1" rowspan="1"><p>說明階段是否位於成功路徑上</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>每個新名稱的成本</p></td>
+   <td colspan="1" rowspan="1"><p>曾到達階段的新名稱的平均成本</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>新名稱（目前）</p></td>
+   <td colspan="1" rowspan="1"><p>目前處於階段且由方案取得的潛在客戶總數</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>新名稱（曾經）</p></td>
+   <td colspan="1" rowspan="1"><p>說明每個階段的型別；詳細目錄、SLA或閘道</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

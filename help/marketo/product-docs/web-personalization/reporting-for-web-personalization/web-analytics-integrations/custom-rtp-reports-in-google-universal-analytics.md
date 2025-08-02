@@ -4,7 +4,7 @@ description: Google Universal Analytics中的自訂RTP報表 — Marketo檔案 �
 title: Google Universal Analytics中的自訂RTP報表
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 3%
@@ -64,41 +64,41 @@ ht-degree: 3%
 
 1. 在&#x200B;**Dimension深入研究**&#x200B;區段中，設定每個標籤的相關維度，如下所示。
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      標簽名稱 
-    </div></th> 
-   <th> 
+      標簽名稱
+    </div></th>
+   <th>
     <div>
       Dimension深入研究
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>行業</td> 
-   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>群組</td> 
-   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>類別</td> 
-   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>ABM</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>組織</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>行業</td>
+   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>群組</td>
+   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>類別</td>
+   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>ABM</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>組織</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. 請勿設定任何篩選器，並將此報表設定為可供&#x200B;**[!UICONTROL All Web Site Data]**&#x200B;使用（或在與特定Analytics帳戶相關時變更）。
@@ -137,86 +137,86 @@ ht-degree: 3%
 
 1. 在&#x200B;**Dimension深入研究**&#x200B;區段中，設定每個標籤的相關維度，如下所示：
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      標簽名稱 
-    </div></th> 
-   <th> 
+      標簽名稱
+    </div></th>
+   <th>
     <div>
-      Dimension深入研究 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>所有參與</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>ABM的參與</td> 
-   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>依類別的參與</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>依群組的參與</td> 
-   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>各產業參與度</td> 
-   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+      Dimension深入研究
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>所有參與</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>ABM的參與</td>
+   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>依類別的參與</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>依群組的參與</td>
+   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>各產業參與度</td>
+   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. 設定下列篩選器：
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Inc/Exc 
-    </div></th> 
-   <th> 
+      Inc/Exc
+    </div></th>
+   <th>
     <div>
-      欄位 
-    </div></th> 
-   <th> 
+      欄位
+    </div></th>
+   <th>
     <div>
-      比對型別 
-    </div></th> 
-   <th> 
+      比對型別
+    </div></th>
+   <th>
     <div>
-      值 
-    </div></th> 
-   <th colspan="1"> 
+      值
+    </div></th>
+   <th colspan="1">
     <div>
-      註解 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td><p>包含</p></td> 
-   <td><p><span class="uicontrol">事件類別</span></p></td> 
-   <td>Regex</td> 
-   <td>RTP-Campaigns|RTP-Recommendations|RTP-Segments</td> 
-   <td colspan="1">將篩選與RTP無關的所有其他自訂事件</td> 
-  </tr> 
-  <tr> 
-   <td>排除</td> 
-   <td><span class="uicontrol">事件標籤</span></td> 
-   <td>Regex</td> 
-   <td>#</td> 
-   <td colspan="1">可讓您使用行銷活動名稱中的#，從報表行銷活動中進行篩選</td> 
-  </tr> 
- </tbody> 
+      註解
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><p>包含</p></td>
+   <td><p><span class="uicontrol">事件類別</span></p></td>
+   <td>Regex</td>
+   <td>RTP-Campaigns|RTP-Recommendations|RTP-Segments</td>
+   <td colspan="1">將篩選與RTP無關的所有其他自訂事件</td>
+  </tr>
+  <tr>
+   <td>排除</td>
+   <td><span class="uicontrol">事件標籤</span></td>
+   <td>Regex</td>
+   <td>#</td>
+   <td colspan="1">可讓您使用行銷活動名稱中的#，從報表行銷活動中進行篩選</td>
+  </tr>
+ </tbody>
 </table>
 
 1. 將此報告設定為&#x200B;**[!UICONTROL All Web Site Data]**&#x200B;可用（或視需要變更）。

@@ -3,7 +3,7 @@ description: 個人帳戶同步常見問題集 — Marketo檔案 — 產品檔�
 title: 個人帳戶同步常見問題集
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 0%

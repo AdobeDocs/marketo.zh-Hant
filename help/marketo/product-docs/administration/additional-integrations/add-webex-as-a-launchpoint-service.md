@@ -4,38 +4,38 @@ description: 新增 [!DNL Webex] 作為 [!DNL LaunchPoint] 服務 — Marketo檔
 title: 將 [!DNL Webex] 新增為 [!DNL LaunchPoint] 服務
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: d8ee31db267a6e24ed4c764b6feae882e3dc6266
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 1%
+source-wordcount: '96'
+ht-degree: 3%
 
 ---
 
 # 將[!DNL Webex]新增為[!DNL LaunchPoint]服務 {#add-webex-as-a-launchpoint-service}
 
-Marketo Engage管理您的[!DNL Webex]網路研討會註冊與出席。 您必須有[[!UICONTROL Webex]](https://www.webex.com/)的現有訂閱。
+Marketo Engage會管理您的[!DNL Webex]網路研討會註冊與出席情況。 您必須有[[!UICONTROL Webex]](https://www.webex.com/)的現有訂閱。
 
 >[!NOTE]
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/add-webex-as-a-launchpoint-service-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 啟動點]**。
+1. 按一下「**[!UICONTROL LaunchPoint]**」。
 
    ![](assets/add-webex-as-a-launchpoint-service-2.png)
 
-1. 選取&#x200B;**[!UICONTROL 新增]**，然後選取&#x200B;**[!UICONTROL 新增服務]**。
+1. 選取&#x200B;**[!UICONTROL New]**，然後選取&#x200B;**[!UICONTROL New Service]**。
 
    ![](assets/add-webex-as-a-launchpoint-service-3.png)
 
-1. 輸入&#x200B;**[!UICONTROL 顯示名稱]**。 在&#x200B;**[!UICONTROL 服務]**&#x200B;下拉式清單中，選取&#x200B;**[!UICONTROL Webex網路研討會]**。
+1. 輸入&#x200B;**[!UICONTROL Display Name]**。 在&#x200B;**[!UICONTROL Service]**&#x200B;下拉式清單中，選取&#x200B;**[!UICONTROL Webex Webinars]**。
 
    ![](assets/add-webex-as-a-launchpoint-service-4.png)
 
-1. 按一下&#x200B;**[!UICONTROL 登入Webex網路研討會]**。
+1. 按一下「**[!UICONTROL Log Into Webex Webinars]**」。
 
    ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
@@ -43,7 +43,7 @@ Marketo Engage管理您的[!DNL Webex]網路研討會註冊與出席。 您必�
 
    ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
-1. 成功登入後，標籤將會關閉，且Marketo Engage中的&#x200B;_新服務_&#x200B;強制回應將會顯示「已設定Webex網路研討會帳戶」。 按一下&#x200B;**[!UICONTROL 建立]**。
+1. 成功登入後，標籤將會關閉，且Marketo Engage中的&#x200B;_新服務_&#x200B;強制回應將會顯示「已設定Webex網路研討會帳戶」。 按一下「**[!UICONTROL Create]**」。
 
    ![](assets/add-webex-as-a-launchpoint-service-7.png)
 

@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
-source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '590'
 ht-degree: 0%
 
 ---
 
 # Adobe Marketo Engage社群 {#marketo-engage-community}
 
-[Adobe Marketo Engage社群](https://nation.marketo.com/) （也稱為Marketing Nation）是您向其他使用者和Marketo員工進一步瞭解您的Marketo Engage執行個體的地方。 在您開始之前，請先花點時間熟悉[社群指引](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines)。
+[Adobe Marketo Engage社群](https://nation.marketo.com/) （也稱為Marketing Nation）是您向其他使用者和Marketo員工進一步瞭解Marketo Engage執行個體的地方。 在您開始之前，請先花點時間熟悉[社群指引](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines)。
 
 ## 註冊您的使用者名稱 {#register-your-username}
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 設定您的設定檔 {#set-up-your-profile}
 
-登入Marketing Nation時，請按一下您的預設頭像圖示，然後選取&#x200B;**[!UICONTROL 我的設定]**&#x200B;以更新您的偏好設定、變更您的頭像像片、控制標籤等等。
+登入Marketing Nation時，按一下您的預設頭像圖示，然後選取&#x200B;**[!UICONTROL My settings]**&#x200B;以更新您的偏好設定、變更您的頭像像片、控制標籤等等。
 
 熒幕擷圖
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->為了獲得更廣泛的結果，請使用重點關鍵字搜尋，而非長尾(例如，搜尋「Dynamic Chat」而非「如何在Dynamic Chat中新增代理程式」)
+>為了獲得更廣泛的結果，請使用焦點關鍵字搜尋，而非長尾(例如，搜尋「Dynamic Chat」而非「如何在Dynamic Chat中新增代理程式」)
 
 ## 提交問題 {#submit-a-question}
 

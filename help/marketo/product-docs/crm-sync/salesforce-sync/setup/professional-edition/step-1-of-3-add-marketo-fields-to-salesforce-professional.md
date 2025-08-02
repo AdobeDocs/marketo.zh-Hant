@@ -4,7 +4,7 @@ description: 步驟3之1 — 將Marketo欄位新增至Salesforce （專業） - 
 title: 步驟3之1 — 將Marketo欄位新增至Salesforce （專業）
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '722'
 ht-degree: 8%
@@ -53,47 +53,47 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 若您想
 
 1. 輸入欄位的[!UICONTROL Field Label]、[!UICONTROL Length]和[!UICONTROL Field Name]，如下表所示。
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      欄位標籤 
-    </div></th> 
-   <th> 
+      欄位標籤
+    </div></th>
+   <th>
     <div>
-      欄位名稱 
-    </div></th> 
-   <th> 
+      欄位名稱
+    </div></th>
+   <th>
     <div>
-      資料類型 
-    </div></th> 
-   <th> 
+      資料類型
+    </div></th>
+   <th>
     <div>
-      欄位屬性 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>分數</td> 
-   <td>mkto71_Lead_Score</td> 
-   <td>數字</td> 
-   <td>長度10<br>小數位數0 </td> 
-  </tr> 
-  <tr> 
-   <td>獲取日期</td> 
-   <td>mkto71_Acquisition_Date</td> 
-   <td>日期/時間</td> 
-   <td> </td> 
-  </tr> 
-  <tr> 
-   <td>贏取方案</td> 
-   <td>mkto71_Acquisition_Program</td> 
-   <td>文字</td> 
-   <td>長度255</td> 
-  </tr> 
- </tbody> 
+      欄位屬性
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>分數</td>
+   <td>mkto71_Lead_Score</td>
+   <td>數字</td>
+   <td>長度10<br>小數位數0 </td>
+  </tr>
+  <tr>
+   <td>獲取日期</td>
+   <td>mkto71_Acquisition_Date</td>
+   <td>日期/時間</td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td>贏取方案</td>
+   <td>mkto71_Acquisition_Program</td>
+   <td>文字</td>
+   <td>長度255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -134,93 +134,93 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 若您想
 1. 針對連絡人物件的「分數」、「贏取日期」和「贏取方案」欄位，執行步驟3到10，就像您對潛在客戶物件所做的一樣。
 1. 或者，您可以將此程式用於此表格的任何其他自訂欄位。
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>欄位標籤</th> 
-   <th>欄位名稱</th> 
-   <th>資料類型</th> 
-   <th>欄位屬性</th> 
-  </tr> 
-  <tr> 
-   <td>贏取方案ID</td> 
-   <td>mkto71_Acquisition_Program_Id</td> 
-   <td>數字</td> 
-   <td>長度18<br>小數位數0 </td> 
-  </tr> 
-  <tr> 
-   <td>原始反向連結</td> 
-   <td>mkto71_Original_Referrer</td> 
-   <td>文字</td> 
-   <td>長度255</td> 
-  </tr> 
-  <tr> 
-   <td>原始搜尋引擎</td> 
-   <td>mkto71_Original_Search_Engine</td> 
-   <td>文字</td> 
-   <td>長度255</td> 
-  </tr> 
-  <tr> 
-   <td>原始搜尋片語</td> 
-   <td>mkto71_Original_Search_Phrase</td> 
-   <td>文字</td> 
-   <td>長度255</td> 
-  </tr> 
-  <tr> 
-   <td>原始來源資訊</td> 
-   <td>mkto71_Original_Source_Info</td> 
-   <td>文字</td> 
-   <td>長度255</td> 
-  </tr> 
-  <tr> 
-   <td>原始來源類型</td> 
-   <td>mkto71_Original_Source_Type</td> 
-   <td>文字</td> 
-   <td>長度255</td> 
-  </tr> 
-  <tr> 
-   <td>推斷的城市</td> 
-   <td>mkto71_Inferred_City</td> 
-   <td>文字</td> 
-   <td>長度255</td> 
-  </tr> 
-  <tr> 
-   <td>推斷的公司</td> 
-   <td>mkto71_Inferred_Company</td> 
-   <td>文字</td> 
-   <td>長度255</td> 
-  </tr> 
-  <tr> 
-   <td>推斷的國家</td> 
-   <td>mkto71_Inferred_Country</td> 
-   <td>文字</td> 
-   <td>長度255</td> 
-  </tr> 
-  <tr> 
-   <td>推斷的大都會區</td> 
-   <td>mkto71_Inferred_Metropolitan_Area</td> 
-   <td>文字</td> 
-   <td>長度255</td> 
-  </tr> 
-  <tr> 
-   <td>推斷的電話區碼</td> 
-   <td>mkto71_Inferred_Phone_Area_Code</td> 
-   <td>文字</td> 
-   <td>長度255</td> 
-  </tr> 
-  <tr> 
-   <td>推斷的郵遞區號</td> 
-   <td>mkto71_Inferred_Postal_Code</td> 
-   <td>文字</td> 
-   <td>長度255</td> 
-  </tr> 
-  <tr> 
-   <td>推斷的州別區域</td> 
-   <td>mkto71_Inferred_State_Region</td> 
-   <td>文字</td> 
-   <td>長度255</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>欄位標籤</th>
+   <th>欄位名稱</th>
+   <th>資料類型</th>
+   <th>欄位屬性</th>
+  </tr>
+  <tr>
+   <td>贏取方案ID</td>
+   <td>mkto71_Acquisition_Program_Id</td>
+   <td>數字</td>
+   <td>長度18<br>小數位數0 </td>
+  </tr>
+  <tr>
+   <td>原始反向連結</td>
+   <td>mkto71_Original_Referrer</td>
+   <td>文字</td>
+   <td>長度255</td>
+  </tr>
+  <tr>
+   <td>原始搜尋引擎</td>
+   <td>mkto71_Original_Search_Engine</td>
+   <td>文字</td>
+   <td>長度255</td>
+  </tr>
+  <tr>
+   <td>原始搜尋片語</td>
+   <td>mkto71_Original_Search_Phrase</td>
+   <td>文字</td>
+   <td>長度255</td>
+  </tr>
+  <tr>
+   <td>原始來源資訊</td>
+   <td>mkto71_Original_Source_Info</td>
+   <td>文字</td>
+   <td>長度255</td>
+  </tr>
+  <tr>
+   <td>原始來源類型</td>
+   <td>mkto71_Original_Source_Type</td>
+   <td>文字</td>
+   <td>長度255</td>
+  </tr>
+  <tr>
+   <td>推斷的城市</td>
+   <td>mkto71_Inferred_City</td>
+   <td>文字</td>
+   <td>長度255</td>
+  </tr>
+  <tr>
+   <td>推斷的公司</td>
+   <td>mkto71_Inferred_Company</td>
+   <td>文字</td>
+   <td>長度255</td>
+  </tr>
+  <tr>
+   <td>推斷的國家</td>
+   <td>mkto71_Inferred_Country</td>
+   <td>文字</td>
+   <td>長度255</td>
+  </tr>
+  <tr>
+   <td>推斷的大都會區</td>
+   <td>mkto71_Inferred_Metropolitan_Area</td>
+   <td>文字</td>
+   <td>長度255</td>
+  </tr>
+  <tr>
+   <td>推斷的電話區碼</td>
+   <td>mkto71_Inferred_Phone_Area_Code</td>
+   <td>文字</td>
+   <td>長度255</td>
+  </tr>
+  <tr>
+   <td>推斷的郵遞區號</td>
+   <td>mkto71_Inferred_Postal_Code</td>
+   <td>文字</td>
+   <td>長度255</td>
+  </tr>
+  <tr>
+   <td>推斷的州別區域</td>
+   <td>mkto71_Inferred_State_Region</td>
+   <td>文字</td>
+   <td>長度255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

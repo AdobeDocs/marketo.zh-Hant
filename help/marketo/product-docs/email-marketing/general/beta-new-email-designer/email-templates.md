@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1732'
+source-wordcount: '1714'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[AdobeIdentity Management系統(IMS)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的請求，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
+>若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ ht-degree: 1%
 
 ## 設計您的範本 {#design-your-template}
 
-在&#x200B;_設計您的範本_&#x200B;頁面中，您可以選擇幾個選項。 [從頭開始設計](#design-from-scratch)、[匯入您自己的HTML](#import-html)，或[選取現有的範本](#choose-a-template) （我們的範例或您已儲存的範本）。
+在&#x200B;_設計您的範本_&#x200B;頁面中，您可以選擇幾個選項。 [從頭開始設計](#design-from-scratch)、[匯入您自己的HTML](#import-html)，或[選取現有的範本](#choose-a-template) （我們的其中一個範例或您已儲存的範本）。
 
 ![](assets/design-your-template-1.png)
 
@@ -64,7 +64,7 @@ ht-degree: 1%
 
 ### 匯入您的HTML {#import-your-html}
 
-您可以匯入現有的HTML內容來設計您的電子郵件範本。 內容可以是：
+您可以匯入現有的HTML內容，以設計您的電子郵件範本。 內容可以是：
 
 * 包含內建樣式表的HTML檔案
 
@@ -82,13 +82,13 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >上傳HTML內容時，您的內容將處於相容模式。 在此模式中，您只能個人化您的文字、新增連結或新增資產至您的內容。
+   >上傳HTML內容時，您的內容會處於相容模式。 在此模式中，您只能個人化您的文字、新增連結或新增資產至您的內容。
 
-1. 若要利用電子郵件Designer內容元件，請按一下&#x200B;**HTML轉換器**&#x200B;標籤，然後按一下&#x200B;**轉換**。
+1. 若要利用電子郵件Designer內容元件，請按一下&#x200B;**HTML轉換工具**&#x200B;標籤，然後按一下&#x200B;**轉換**。
 
    >[!CAUTION]
    >
-   >使用`<table>`標籤做為HTML檔案中的第一個圖層可能會造成樣式遺失，包括上層圖層標籤中的背景和寬度設定。
+   >在HTML檔案中使用`<table>`標籤做為第一個圖層可能會造成樣式遺失，包括上層圖層標籤中的背景和寬度設定。
 
 您現在可以根據需要使用視覺化電子郵件編輯器個人化匯入的檔案。
 
@@ -138,7 +138,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >選取n：n欄元件以定義您選擇的欄數（介於3到10之間）。 您也可以移動欄下方的箭頭來定義每欄的寬度。
+   >選取n:n欄元件以定義您選擇的欄數（介於3到10之間）。 您也可以移動欄下方的箭頭來定義每欄的寬度。
 
    ![](assets/add-structure-and-content-1.png)
 
@@ -182,24 +182,24 @@ ht-degree: 1%
 
 1. 直接在畫布中選取結構元件中的欄，或使用左側顯示的&#x200B;_導覽樹狀結構_。
 
-1. 在欄工具列中，按一下&#x200B;_[!UICONTROL 選取欄]_&#x200B;工具，然後選擇您要編輯的工具。
+1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_工具並選擇您要編輯的工具。
 
-   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL 設定]_&#x200B;和&#x200B;_[!UICONTROL 樣式]_&#x200B;索引標籤中。
+   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;索引標籤中。
 
    ![](assets/layers-settings-styles-2.png)
 
-1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL 樣式]_&#x200B;索引標籤，並根據您的需求加以變更：
+1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL Styles]_標籤，並根據您的需求加以變更：
 
-   * 針對&#x200B;**[!UICONTROL 背景]**，視需要變更背景顏色。
+   * 針對&#x200B;**[!UICONTROL Background]**，視需要變更背景顏色。
 
-     清除透明背景的核取方塊。 啟用&#x200B;**[!UICONTROL 背景影像]**&#x200B;設定，以使用影像做為背景，而非純色。
+     清除透明背景的核取方塊。 啟用&#x200B;**[!UICONTROL Background image]**&#x200B;設定以影像作為背景，而非純色。
 
-   * 針對&#x200B;**[!UICONTROL 對齊]**，請選取&#x200B;_上_、_中_&#x200B;或&#x200B;_下_&#x200B;圖示。
-   * 針對&#x200B;**[!UICONTROL 內距]**，定義所有邊的內距。
+   * 針對&#x200B;**[!UICONTROL Alignment]**，選取&#x200B;_Top_、_Middle_&#x200B;或&#x200B;_Bottom_&#x200B;圖示。
+   * 針對&#x200B;**[!UICONTROL Padding]**，定義所有邊的內距。
 
-     如果要調整內距，請選取&#x200B;**[!UICONTROL 每一邊不同的內距]**。 按一下&#x200B;_鎖定_&#x200B;圖示以中斷同步處理。
+     若要調整內距，請選取&#x200B;**[!UICONTROL Different padding for each side]**。 按一下&#x200B;_鎖定_&#x200B;圖示以中斷同步處理。
 
-   * 展開&#x200B;**[!UICONTROL 進階]**&#x200B;區段以定義資料行的內嵌樣式。
+   * 展開&#x200B;**[!UICONTROL Advanced]**&#x200B;區段以定義欄的內嵌樣式。
 
    ![](assets/layers-settings-styles-3.png)
 
@@ -207,7 +207,7 @@ ht-degree: 1%
 
 1. 儲存您的變更。
 
-### 個人化內容 {#personalize-content}
+### 將內容個人化 {#personalize-content}
 
 Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同。 以下範例概述如何使用遞補文字新增名字代號。
 
@@ -227,7 +227,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
    >
    >「遞補文字」是預設值的新編輯器辭彙。 範例： ``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
 
-1. 設定您的遞補文字，然後按一下[新增]。**&#x200B;**
+1. 設定您的遞補文字，然後按一下[新增]。****
 
    ![](assets/personalize-content-4.png)
 
@@ -329,7 +329,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
   ![](assets/duplicate-email-templates-1.png)
 
-* 在&#x200B;_電子郵件範本_&#x200B;清單頁面中，按一下所需電子郵件範本的[更多動作]圖示（三個點），然後選擇[複製]。**&#x200B;**
+* 在&#x200B;_電子郵件範本_&#x200B;清單頁面中，按一下所需電子郵件範本的[更多動作]圖示（三個點），然後選擇[複製]。****
 
 在對話方塊中，輸入唯一名稱與選擇性說明。 完成時，按一下&#x200B;**複製**。
 

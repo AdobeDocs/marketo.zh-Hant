@@ -4,7 +4,7 @@ description: 帳戶分析排名和調整 — Marketo檔案 — 產品檔案
 title: 帳戶設定檔排名與調整
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 1%
@@ -27,37 +27,37 @@ ht-degree: 1%
 
 雖然這是選擇性的，但建議您選取「自動提升」核取方塊，因為這樣可為您節省大量時間。 不過，如果您想要檢視每個帳戶並[手動新增它們](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts)，只要不勾選此方塊即可。
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">排名</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">排名</span></strong></td>
+   <td>
     <div>
-      根據理想客戶設定檔的帳戶排名。 A代表最適合，D代表最不適合。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">傾向</span></strong></td> 
-   <td> 
+      根據理想客戶設定檔的帳戶排名。 A代表最適合，D代表最不適合。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">傾向</span></strong></td>
+   <td>
     <div>
-      與非ICP型帳戶選擇相比，轉換率的預估增加。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">帳戶(%)</span></strong></td> 
-   <td> 
+      與非ICP型帳戶選擇相比，轉換率的預估增加。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">帳戶(%)</span></strong></td>
+   <td>
     <div>
-      模型輸入中具有此排名的帳戶百分比。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">模型基準的%</span></strong></td> 
-   <td> 
+      模型輸入中具有此排名的帳戶百分比。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">模型基準的%</span></strong></td>
+   <td>
     <div>
-      模型基準中擁有此等級的帳戶百分比。 
-    </div></td> 
-  </tr> 
- </tbody> 
+      模型基準中擁有此等級的帳戶百分比。
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 模型調整 {#model-tuning}
@@ -72,86 +72,86 @@ ht-degree: 1%
 
 **指標類別**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">合規性</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">合規性</span></strong></td>
+   <td>
     <div>
-      認證、合規性相關職位/聘用。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">運作</span></strong></td> 
-   <td> 
+      認證、合規性相關職位/聘用。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">運作</span></strong></td>
+   <td>
     <div>
-      與作業相關的職位/聘用。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">小時</span></strong></td> 
-   <td> 
+      與作業相關的職位/聘用。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">小時</span></strong></td>
+   <td>
     <div>
       HR或薪資軟體、與HR相關的職位/聘用。
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">工程</span></strong></td> 
-   <td> 
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">工程</span></strong></td>
+   <td>
     <div>
-      技術、架構、工程相關職位/聘用。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">銷售</span></strong></td> 
-   <td> 
+      技術、架構、工程相關職位/聘用。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">銷售</span></strong></td>
+   <td>
     <div>
-      適用於銷售、銷售相關職位/聘用的解決方案與軟體。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">意圖</span></strong></td> 
-   <td> 
+      適用於銷售、銷售相關職位/聘用的解決方案與軟體。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">意圖</span></strong></td>
+   <td>
     <div>
-      意圖指示器。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">IT</span></strong></td> 
-   <td> 
+      意圖指示器。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">IT</span></strong></td>
+   <td>
     <div>
       硬體與軟體解決方案、技術、IT相關職位/聘用。
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">財務</span></strong></td> 
-   <td> 
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">財務</span></strong></td>
+   <td>
     <div>
-      財務軟體、財務相關職位/聘用。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">行銷</span></strong></td> 
-   <td> 
+      財務軟體、財務相關職位/聘用。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">行銷</span></strong></td>
+   <td>
     <div>
-      行銷技術與軟體、行銷相關職位/聘用。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">商務</span></strong></td> 
-   <td> 
+      行銷技術與軟體、行銷相關職位/聘用。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">商務</span></strong></td>
+   <td>
     <div>
-      Forbes或Inc的上市或商業合作關係。 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">客戶體驗與關係</span></strong></td> 
-   <td> 
+      Forbes或Inc的上市或商業合作關係。
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">客戶體驗與關係</span></strong></td>
+   <td>
     <div>
       客戶成功與客戶關係職位/聘用。
-    </div></td> 
-  </tr> 
- </tbody> 
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 將滑鼠停留在工具提示上，即可檢視每欄的說明。

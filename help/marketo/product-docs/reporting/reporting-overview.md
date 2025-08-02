@@ -3,7 +3,7 @@ description: 報表概觀 — Marketo檔案 — 產品檔案
 title: 報表概觀
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Marketo提供各種報表模組以滿足不同需求。
 
 ## 進階BI Analytics報告 {#advanced-bi-analytics-reporting}
 
-_(先前稱為Revenue Cycle Explorer/進階Report Builder)_
+_(先前稱為Revenue Cycle Explorer/Advanced Report Builder)_
 
 >[!AVAILABILITY]
 >

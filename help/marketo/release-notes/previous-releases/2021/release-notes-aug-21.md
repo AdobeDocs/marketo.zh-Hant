@@ -2,7 +2,7 @@
 description: 發行說明 — 2021年8月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2021 年 8 月
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '903'
 ht-degree: 0%
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible][!DNL LinkedIn] Lead Gen Forms整合**：行銷人員現在可以對[!DNL LinkedIn]透過其Lead Gen Forms廣告單位擷取表單填寫時發生的轉換執行收入歸因。 這些見解可用於最佳化表單效能和付費媒體投資。 [!DNL LinkedIn] Lead Gen Forms是[!DNL LinkedIn]增長最快的付費媒體方案之一，這項新功能包含在我們與[!DNL Bizible]的現有[!DNL LinkedIn]廣告整合中。 
+* **[!DNL Bizible][!DNL LinkedIn] Lead Gen Forms整合**：行銷人員現在可以對[!DNL LinkedIn]透過其Lead Gen Forms廣告單位擷取表單填寫時發生的轉換執行收入歸因。 這些見解可用於最佳化表單效能和付費媒體投資。 [!DNL LinkedIn] Lead Gen Forms是[!DNL LinkedIn]增長最快的付費媒體方案之一，這項新功能包含在我們與[!DNL LinkedIn]的現有[!DNL Bizible]廣告整合中。 
  
 * **已改善Velocity儀表板**：我們已新增新的Velocity量度和儀表板篩選器，以取得更深入的見解。 此儀表板可供行銷人員用來瞭解逐階段銷售線索和機會速度，以及不同行銷和銷售參與形式的效率。
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 
 * **[!DNL Bizible]與Adobe Privacy Service**&#x200B;的整合（2021年9月推出）： [!DNL Bizible]與Adobe Privacy Service的整合可跨Adobe Experience Cloud應用程式集中遵循關鍵資料隱私權法規（例如GDPR）。 您現在可以善用此服務，集中管理所有隱私權要求，以便在[!DNL Bizible]和其他Adobe產品中反映的變更要求。
 
-* Adobe Unified Shell **上的**&#x200B;[!DNL Bizible]： [!DNL Bizible]採用Adobe Unified Shell後，使用者可擁有新功能，這些功能將出現在[!DNL Bizible]應用程式標題列中，並可更輕鬆存取支援資源及應用程式切換。 Adobe Unified Shell可協助在[!DNL Bizible]和其他Adobe Experience Cloud應用程式之間建立一致的體驗。
+* Adobe Unified Shell **[!DNL Bizible]上的**： [!DNL Bizible]採用Adobe Unified Shell後，使用者可擁有新功能，這些功能將出現在[!DNL Bizible]應用程式標題列中，並可更輕鬆存取支援資源及應用程式切換。 Adobe Unified Shell可協助在[!DNL Bizible]和其他Adobe Experience Cloud應用程式之間建立一致的體驗。
 
 * **[!DNL Bizible]網域擁有權和自我管理**： [!DNL Bizible]使用者可運用Adobe Admin Console來管理他們要[!DNL Bizible]追蹤的網域。 這可為先前手動的流程帶來自助服務，並提供在Adobe Experience Cloud應用程式間管理網域所有權和追蹤的一致體驗。
 

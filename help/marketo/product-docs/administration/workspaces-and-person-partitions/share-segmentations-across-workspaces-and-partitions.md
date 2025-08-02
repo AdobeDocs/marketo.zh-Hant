@@ -4,9 +4,9 @@ description: 跨工作區和分割區共用區段 — Marketo檔案 — 產品�
 title: 在工作區與分割區之間共用區段
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -56,15 +56,15 @@ Marketo擅長挑選適合方案或智慧行銷活動的人員。 不過，對於
 
 ## 共用區段 {#share-a-segmentation}
 
-1. 移至&#x200B;**[!UICONTROL 資料庫]**。
+1. 移至&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. 用滑鼠右鍵按一下&#x200B;**[!UICONTROL 區段]**，然後選取&#x200B;**[!UICONTROL 新增資料夾]**。
+1. 用滑鼠右鍵按一下&#x200B;**[!UICONTROL Segmentations]**&#x200B;並選取&#x200B;**[!UICONTROL New Folder]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. 為要在工作區間共用的資料夾命名（例如：共用區段），然後按一下&#x200B;**[!UICONTROL 建立]**。
+1. 命名您要在工作區間共用的資料夾（例如：共用區段），然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
@@ -72,11 +72,11 @@ Marketo擅長挑選適合方案或智慧行銷活動的人員。 不過，對於
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. 在資料夾上按一下滑鼠右鍵，然後選取&#x200B;**[!UICONTROL 共用資料夾]**。
+1. 在資料夾上按一下滑鼠右鍵，然後選取&#x200B;**[!UICONTROL Share Folder]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
-1. 選取您要共用資料夾的工作區。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 選取您要共用資料夾的工作區。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 

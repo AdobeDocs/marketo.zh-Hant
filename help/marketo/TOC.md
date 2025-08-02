@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: bf686092e8d574c9b8fd3e9e98d0e6d567354788
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '9294'
 ht-degree: 2%
@@ -977,7 +977,7 @@ ht-degree: 2%
          + 社交功能 {#social-functions}
             + [設定LinkedIn潛在客戶Gen Forms](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
             + [使用Marketo清單或智慧清單做為LinkedIn對象區段](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
-            + [在Smart Campaign中使用LinkedIn Lead Gen表單篩選器和觸發程式](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+            + [在Smart Campaign中使用LinkedIn銷售機會一般表單篩選器和觸發器](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
    + 電子郵件行銷 {#email-marketing}
       + 傳遞能力 {#deliverability}
          + [持久取消訂閱](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
@@ -1029,7 +1029,7 @@ ht-degree: 2%
          + [功能比較](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [電子郵件製作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [電子郵件範本製作](product-docs/email-marketing/email-designer/email-template-authoring.md)
-         + [自訂CSS](product-docs/email-marketing/email-designer/custom-css.md)
+         + [自訂 CSS](product-docs/email-marketing/email-designer/custom-css.md)
          + [品牌套件](product-docs/email-marketing/email-designer/brand-kit.md)
          + [使用Litmus測試電子郵件呈現](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization Token](product-docs/email-marketing/email-designer/personalization-tokens.md)
@@ -1489,7 +1489,7 @@ ht-degree: 2%
          + 傳送銷售電子郵件 {#send-a-sales-email}
             + [電子郵件追蹤概觀](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + 任務 {#tasks}
-            + [提醒工作與Salesforce同步](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+            + [提醒任務與Salesforce同步](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + 範本 {#templates}
             + [新增超連結文字](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [動態欄位](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)

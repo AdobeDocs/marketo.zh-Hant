@@ -4,7 +4,7 @@ description: 發行說明 — 2012年6月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2012年6月
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '657'
 ht-degree: 0%
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
-## 在Design Studio中以[!UICONTROL Thumbnails]身分[!UICONTROL View] {#view-as-thumbnails-in-design-studio}
+## 在Design Studio中以[!UICONTROL View]身分[!UICONTROL Thumbnails] {#view-as-thumbnails-in-design-studio}
 
 將檢視從影像清單切換為縮圖檢視！
 

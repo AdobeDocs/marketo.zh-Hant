@@ -4,7 +4,7 @@ description: 效能深入分析控制面板 — Marketo檔案 — 產品檔案
 title: 效能分析控制面板
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -51,33 +51,33 @@ ht-degree: 0%
 
 ![](assets/five-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">新商機</span></strong></p></td> 
-   <td><p>計畫因影響新商機的建立而收到的信用部份。 如果涉及多個銷售機會，則可能為小數。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">管道已建立</span></strong></p></td> 
-   <td><p>程式因影響機會建立而收到的信用部份（貨幣價值）。 如果涉及多個銷售機會，則可能是總數的小部分。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">管道已開啟</span></strong></p></td> 
-   <td><p>程式收到的信用部份（以貨幣價值表示），用來影響仍然未結的商機的建立。 如果涉及多個銷售機會，則可能是總數的小部分。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">預期收入</span></strong></p></td> 
-   <td><p>程式因影響機會建立而收到的信用部份（貨幣價值）。 預期收入是機會機率乘以機會值。 如果涉及多個銷售機會，則可能為小數。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">每個已建立機會的成本</span></strong></p></td> 
-   <td><p>影響新商機的方案成本部分除以建立的新商機總數。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">管道建立成本比率</span></strong></p></td> 
-   <td><p>計畫收到的影響新機會建立的信用部分，除以影響機會建立的計畫成本部分。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">新商機</span></strong></p></td>
+   <td><p>計畫因影響新商機的建立而收到的信用部份。 如果涉及多個銷售機會，則可能為小數。</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">管道已建立</span></strong></p></td>
+   <td><p>程式因影響機會建立而收到的信用部份（貨幣價值）。 如果涉及多個銷售機會，則可能是總數的小部分。</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">管道已開啟</span></strong></p></td>
+   <td><p>程式收到的信用部份（以貨幣價值表示），用來影響仍然未結的商機的建立。 如果涉及多個銷售機會，則可能是總數的小部分。</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">預期收入</span></strong></p></td>
+   <td><p>程式因影響機會建立而收到的信用部份（貨幣價值）。 預期收入是機會機率乘以機會值。 如果涉及多個銷售機會，則可能為小數。</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">每個已建立機會的成本</span></strong></p></td>
+   <td><p>影響新商機的方案成本部分除以建立的新商機總數。</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">管道建立成本比率</span></strong></p></td>
+   <td><p>計畫收到的影響新機會建立的信用部分，除以影響機會建立的計畫成本部分。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## [!UICONTROL Revenue] {#revenue}
@@ -86,23 +86,23 @@ ht-degree: 0%
 
 ![](assets/six-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">已贏得的機會</span></strong></p></td> 
-   <td><p>計畫因影響成功的機會而收到的點數部份。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">贏得的收入</span></strong></p></td> 
-   <td><p>因影響成功的機會而收到的信用部份（貨幣價值）。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">每個成功的機會的成本</span></strong></p></td> 
-   <td><p>影響新商機的方案成本部分除以建立的新商機總數。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">收入對成本比率</span></strong></p></td> 
-   <td><p>因影響成功的機會而收到的信用部份（以貨幣價值表示），除以影響新機會的方案成本部份。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">已贏得的機會</span></strong></p></td>
+   <td><p>計畫因影響成功的機會而收到的點數部份。</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">贏得的收入</span></strong></p></td>
+   <td><p>因影響成功的機會而收到的信用部份（貨幣價值）。</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">每個成功的機會的成本</span></strong></p></td>
+   <td><p>影響新商機的方案成本部分除以建立的新商機總數。</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">收入對成本比率</span></strong></p></td>
+   <td><p>因影響成功的機會而收到的信用部份（以貨幣價值表示），除以影響新機會的方案成本部份。</p></td>
+  </tr>
+ </tbody>
 </table>

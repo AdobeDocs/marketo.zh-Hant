@@ -3,7 +3,7 @@ unique-page-id: 11380218
 description: 發行說明 — 夏季16年 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2016年夏天
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '773'
 ht-degree: 0%
@@ -85,7 +85,7 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 ## [企業金鑰](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-要求您銷售團隊中的每個人安裝[!DNL Outlook]的[!DNL Sales Insight]外掛程式，可能會很繁瑣。 我們引進了使用企業金鑰從遠端安裝[!DNL Outlook]外掛程式的新方式。 將您在[!UICONTROL Admin]的Marketo [!DNL Sales Insight]區段中找到的唯一金鑰傳送給您的IT團隊，讓他們完成其餘工作。
+要求您銷售團隊中的每個人安裝[!DNL Sales Insight]的[!DNL Outlook]外掛程式，可能會很繁瑣。 我們引進了使用企業金鑰從遠端安裝[!DNL Outlook]外掛程式的新方式。 將您在[!DNL Sales Insight]的Marketo [!UICONTROL Admin]區段中找到的唯一金鑰傳送給您的IT團隊，讓他們完成其餘工作。
 
 ![](assets/enterprise-key.png)
 
@@ -99,7 +99,7 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 離線檢視內容分析和建議資料。
 
-## [電子郵件編輯器2.0的API支援](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## 電子郵件編輯器2.0[的](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}API支援
 
 先前僅與v1.0電子郵件和範本相容的既有資產API，現在可供v2.0電子郵件資產使用。
 

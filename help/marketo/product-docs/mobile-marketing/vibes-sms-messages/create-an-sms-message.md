@@ -3,9 +3,9 @@ description: 建立SMS訊息 — Marketo檔案 — 產品檔案
 title: 建立簡訊訊息
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
@@ -16,17 +16,17 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能可作為您的Adobe Marketo Engage帳戶的附加元件使用。 為了適當地布建，您必須透過Adobe購買。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。 Marketo Vibes SMS原生整合在美國和加拿大提供。 對於其他國家/地區，透過Marketo Webhook的連線可透過[直接連絡Vibes](https://www.vibes.com/talk-to-sales)來使用。
+>此功能可作為您的Adobe Marketo Engage帳戶的附加元件使用。 若要正確布建，必須透過Adobe購買。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。 Marketo Vibes SMS原生整合在美國和加拿大提供。 對於其他國家/地區，透過Marketo Webhook的連線可透過[直接連絡Vibes](https://www.vibes.com/talk-to-sales)來使用。
 
 >[!PREREQUISITES]
 >
 >[將Vibes新增為LaunchPoint Service](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
-1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/create-an-sms-message-1.png)
 
-1. 用滑鼠右鍵按一下所需的程式，然後選取&#x200B;**[!UICONTROL 新增本機資產]**。
+1. 用滑鼠右鍵按一下所需的程式，然後選取&#x200B;**[!UICONTROL New Local Asset]**。
 
    ![](assets/create-an-sms-message-2.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](assets/create-an-sms-message-3.png)
 
-1. 輸入新SMS訊息的名稱和選擇性說明，然後按一下[建立]。**&#x200B;**
+1. 輸入新SMS訊息的名稱和選擇性說明，然後按一下[建立]。****
 
    ![](assets/create-an-sms-message-4.png)
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
    ![](assets/create-an-sms-message-7.png)
 
-1. 若要新增連結，請選取訊息中您希望其出現的位置，然後按一下[連結]。**&#x200B;**
+1. 若要新增連結，請選取訊息中您希望其出現的位置，然後按一下[連結]。****
 
    ![](assets/create-an-sms-message-8.png)
 
@@ -72,7 +72,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >預設會選取這兩個追蹤連結。 取消勾選「僅包含mkt_tok 」仍可追蹤連結，但在重新導向後，目的地URL將不會包含mkt_tok查詢字串引數。 此引數由Marketo登陸頁面和Munchkin使用，以確保正確追蹤人員活動（例如人員選擇退出時）。
+   >預設會選取這兩個追蹤連結。 取消勾選「僅包含mkt_tok 」仍可追蹤連結，但在重新導向後，目的地URL將不會包含mkt_tok查詢字串引數。 Marketo登陸頁面和Munchkin會使用此引數，以確保正確追蹤人員活動（例如人員選擇退出時）。
 
 1. 如果您想改用外部URL，請選取&#x200B;**外部URL**，輸入/貼上URL，然後按一下&#x200B;**插入**。
 

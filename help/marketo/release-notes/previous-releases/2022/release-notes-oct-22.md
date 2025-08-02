@@ -1,12 +1,12 @@
 ---
 description: 發行說明 — 2022年10月 — Marketo檔案 — 產品檔案
-title: 發行說明 — 2022年10月
+title: 版本注意事項 - 2022 年 10 月
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
@@ -26,30 +26,30 @@ ht-degree: 2%
 
 </br>
 
-* **程式成員自訂欄位同步**：能夠雙向同步程式成員擷取的可延伸欄位（例如，在活動註冊期間與會者偏好設定，例如食物、工作階段、曲目等） 與Salesforce中的促銷活動成員欄位。
+* **方案成員自訂欄位同步**：可雙向同步方案成員（例如在事件註冊期間與會者偏好設定，例如食物、工作階段、曲目等）擷取的可延伸欄位與Salesforce中的行銷活動成員欄位。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">程式成員自訂欄位同步</a></td>
   </tr>
   </tbody>
 </table>
 
-* **AdobePrivacy Service整合**：與Privacy Service協調，以自動遵守Experience Cloud產品的資料隱私權法規。 目前，此服務僅適用於已上線AdobeIdentity Management系統的Marketo Engage客戶。
+* **Adobe Privacy Service整合**：與Privacy Service協調，自動遵守Experience Cloud產品的資料隱私權法規。 目前，此服務僅適用於已上線Adobe Identity Management系統的Marketo Engage客戶。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">AdobeIdentity Management</a></td>
+   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
 </table>
@@ -63,12 +63,12 @@ ht-degree: 2%
    * 登陸頁面範本詳細資訊
    * 電子郵件範本清單
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切換開關</a></td>
   </tr>
@@ -77,12 +77,12 @@ ht-degree: 2%
 
 * **電子郵件範本詳細資料中的索引標籤使用的增強功能**：在新體驗中，您會看到與使用電子郵件範本的資產相關的其他資訊，包括資產狀態、上次修改時間和上次修改者。 您也可以搜尋、排序及篩選資產使用的清單。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td>不適用</td>
   </tr>
@@ -91,12 +91,12 @@ ht-degree: 2%
 
 * **報表資產篩選模式**：報表組態模式的新設計，在組態功能表中顯示新的資產樹狀結構，以及建立和修改日期的篩選器。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td>不適用</td>
   </tr>
@@ -109,32 +109,32 @@ ht-degree: 2%
 
 * **大量銷售機會匯入：銷售人員關聯**：與銷售機會REST API的同等性，可在大量銷售機會匯入程式期間將銷售機會與銷售人員關聯，減少所需的複雜度和API呼叫數。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">大量潛在客戶匯入</a></td>
   </tr>
   </tbody>
 </table>
 
-### 銷售分析 {#sales-insight}
+### 銷售Insight {#sales-insight}
 
 </br>
 
 ![（星形）](assets/yellow-star.png)
 
-* **與Dynamic Chat的Sales Insight整合**： Insights儀表板現在包含Smart Grid中的Dynamic Chat活動，以及每週摘要和詳細資訊卡。
+* **銷售Insight與Dynamic Chat整合**： Insights Dashboard現在包含Smart Grid中的Dynamic Chat活動以及每週摘要和詳細資訊卡。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamic Chat整合</a></td>
   </tr>
@@ -145,42 +145,42 @@ ht-degree: 2%
 
 以下功能遵循敏捷格式，並在標準發行日期之前或之後的各種日期發行。 請檢視每個功能下方的狀態。
 
-* **自動排列Dynamic Chat的對話方塊資料流**：透過[自動排列]按一下按鈕，將畫布上的所有內容組織成簡潔且易於閱讀的格式，以改善您擁擠的對話方塊畫布。
+* **自動排列Dynamic Chat的對話方塊資料流**：透過「自動排列」按一下按鈕，將畫布上的所有內容組織成簡潔且易於閱讀的格式，以改善您擁擠的對話方塊畫布。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">串流Designer圖示</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Dynamic Chat的會議連結**：在傳送給訪客的每個行事曆邀請中，自動包含Google和Outlook的[團隊]或[會議]連結的選項。
+* **Dynamic Chat的會議連結**：在傳送給訪客的每個行事曆邀請中，自動包含Google和Outlook的「團隊」或「會議」連結的選項。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">行事曆</a></td>
   </tr>
   </tbody>
 </table>
 
-* **支援Dynamic Chat的其他資料型別**：三種新資料型別（布林值、整數、浮點數）可讓您在Dynamic Chat中運用更多現有的Marketo Engage欄位，例如根據分數進行目標定位或詢問訪客是/否問題。
+* **支援Dynamic Chat的其他資料型別**：三種新資料型別（布林值、整數、浮點數）可讓您在Dynamic Chat中運用更多現有的Marketo Engage欄位，例如根據分數鎖定目標或詢問訪客是/否問題。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td>不適用</td>
   </tr>

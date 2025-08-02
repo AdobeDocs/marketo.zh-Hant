@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 5cf6231b8da65d81d89b52cb2ef2cbe7422a4842
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '246'
 ht-degree: 2%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 2%
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. 選取&#x200B;**[!UICONTROL 影像和檔案]**
+1. 選取&#x200B;**[!UICONTROL Images and Files]**
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL 影像和檔案動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 上傳影像或檔案]**。
+1. 按一下&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Upload image or file]**。
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -48,15 +48,15 @@ ht-degree: 2%
 
 1. 請依照上述步驟1和2 [執行](#upload-image-or-file)。
 
-1. 按一下&#x200B;**[!UICONTROL 影像和檔案動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 匯入影像或檔案]**。
+1. 按一下&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Import image or file]**。
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
-1. 選取&#x200B;**[!UICONTROL 網頁]**&#x200B;選項，然後按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 選取&#x200B;**[!UICONTROL Web]**&#x200B;選項並按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
-1. 在URL中輸入或貼上所要的影像，然後按一下[下一步] **&#x200B;**。
+1. 在URL中輸入或貼上所要的影像，然後按一下[下一步] ****。
 
 PICC
 
@@ -70,11 +70,11 @@ PICC
 
 1. 請依照上述步驟1和2 [執行](#upload-image-or-file)。
 
-1. 按一下&#x200B;**[!UICONTROL 影像和檔案動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 匯入影像或檔案]**。
+1. 按一下&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Import image or file]**。
 
    ![](assets/add-images-and-files-to-marketo-10.png)
 
-1. 選取&#x200B;**[!UICONTROL Box]**&#x200B;選項，然後按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 選取&#x200B;**[!UICONTROL Box]**&#x200B;選項並按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/add-images-and-files-to-marketo-11.png)
 
@@ -82,11 +82,11 @@ PICC
    >
    >如果您先前未執行此動作，系統會要求您登入Box帳戶以授予存取權。
 
-1. 選取想要的Box資料夾，然後按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 選取所需的Box資料夾，然後按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/add-images-and-files-to-marketo-12.png)
 
-1. 選取想要的影像，然後按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 選取所需的影像，然後按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/add-images-and-files-to-marketo-13.png)
 
@@ -100,11 +100,11 @@ PICC
 
 1. 請依照上述步驟1和2 [執行](#upload-image-or-file)。
 
-1. 按一下&#x200B;**[!UICONTROL 影像和檔案動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 匯入影像或檔案]**。
+1. 按一下&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Import image or file]**。
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 
-1. 選取&#x200B;**[!UICONTROL Adobe Experience Manager]**&#x200B;選項並按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 選取&#x200B;**[!UICONTROL Adobe Experience Manager]**&#x200B;選項並按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/add-images-and-files-to-marketo-16.png)
 

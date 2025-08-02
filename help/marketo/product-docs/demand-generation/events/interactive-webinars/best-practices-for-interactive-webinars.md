@@ -3,7 +3,7 @@ description: 互動式網路研討會的最佳作法 — Marketo檔案 — 產�
 title: 互動式網路研討會的最佳作法
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1704'
 ht-degree: 0%
@@ -71,7 +71,7 @@ ht-degree: 0%
 * 如果要錄製工作階段，請在「會議室偏好設定」中啟用錄製提醒。 如果錄製尚未開始，提醒將會在會議開始的5分鐘內顯示。
 
 * 啟用「主機」和「主持人」區域，並使用相關的Pod進行設定。 此區域僅對主機和簡報者可見，並可用於在後台共同作業。 此處要包含一些Pod：
-   * 參與儀表板，可即時監控參與者參與。 [按一下這裡](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"}觀看如何使用參與儀表板的短片。
+   * 參與儀表板，可即時監控參與者參與。 [按一下這裡](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"}，觀看如何使用參與儀表板的短片。
    * 聊天Pod可允許簡報小組成員之間的私人交談。
    * 附註Pod可以張貼提醒訊息、簡報者的問題或標準問題回應，您可複製並貼上這些回應，以快速獲得常見查詢的答案。
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
 * **Q&amp;A Pod**：提交問題的參與者名稱以及回答問題的主持人/簡報者名稱皆可隱藏。 取消勾選「會議室偏好設定」中「問答Pod」區段底下的「隱私權」選項，即可完成此專案。
 
-* **聊天面板**：聊天面板是一個聊天區域，它不屬於工作階段錄製。 因此，如果您不希望聊天出現在錄製中，請使用「聊天面板」而非「聊天Pod」。 [按一下這裡](https://helpx.adobe.com/tw/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}以閱讀更多有關使用聊天面板的資訊。
+* **聊天面板**：聊天面板是一個聊天區域，它不屬於工作階段錄製。 因此，如果您不希望聊天出現在錄製中，請使用「聊天面板」而非「聊天Pod」。 [按一下這裡](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}閱讀更多有關使用聊天面板的資訊。
 
 * **私人聊天**：關閉私人聊天以防止參與者無法Ping通其他參與者。 這可透過取消勾選「聊天室偏好設定」中「聊天」區段下的「允許參與者私人聊天」來達成。
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 * 參與者可在排程開始前15分鐘進入會議室。 對於提前抵達的參與者，在排程開始前15分鐘切換至大廳配置。
 
-* 使用主機和簡報者區域作為私下協調的背景區域。 [按一下這裡](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"}觀看有關主持人和主持人的短片。
+* 使用主機和簡報者區域作為私下協調的背景區域。 [按一下這裡](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"}，觀看「主持人」和「主持人」區域的短片。
 
 * 使用「準備模式」私下進行任何最後的變更。 [按一下這裡](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}觀看準備模式的短片。
 
@@ -113,7 +113,7 @@ ht-degree: 0%
 
 ## 傳遞後 {#post-delivery}
 
-* 網路研討會傳送後，參與資料與錄製通常將在1到2小時內以Marketo Engage提供。 驗證錄影並確認是否正確擷取完整的網路研討會影片輸出，以便用來與對象共用以及追蹤隨選網路研討會資料。
+* 網路研討會傳送後，參與資料與錄製通常將在1到2小時內在Marketo Engage中提供。 驗證錄影並確認是否正確擷取完整的網路研討會影片輸出，以便用來與對象共用以及追蹤隨選網路研討會資料。
 
 * 建立Nurture Campaigns ，使用互動式網路研討會篩選器/觸發器，根據參與者的參與度進一步限定出席者資格，並擁有「感謝您/錯過您」行銷活動，以提供有關活動、錄製連結、活動統計資料和未來活動的更多資訊，以敦促未上展者重新與組織連結。 造訪錄製的非演出活動可以作為隨選網路研討會的一部分進行追蹤，並且還可以透過隨選網路研討會篩選器/觸發器為不演出建立進一步的培養行銷活動。
 

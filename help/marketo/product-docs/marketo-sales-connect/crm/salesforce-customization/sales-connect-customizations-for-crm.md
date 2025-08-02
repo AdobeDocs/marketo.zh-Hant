@@ -4,7 +4,7 @@ description: CRM的[!DNL Sales Connect]個自訂 — Marketo檔案 — 產品檔
 title: CRM的[!DNL Sales Connect]個自訂
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 2%

@@ -4,7 +4,7 @@ description: 設定報表大小 — Marketo檔案 — 產品檔案
 title: 設定報表大小
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%

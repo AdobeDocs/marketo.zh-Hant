@@ -4,65 +4,65 @@ description: SEO — 瞭解關鍵字 — Marketo檔案 — 產品檔案
 title: SEO — 瞭解關鍵字
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
-source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
-# SEO — 瞭解[!UICONTROL 關鍵字] {#seo-understanding-keywords}
+# SEO — 瞭解[!UICONTROL Keywords] {#seo-understanding-keywords}
 
-[!UICONTROL 關鍵字]是SEO策略的骨幹。 您的目標是位於第一頁，儘可能靠近#1取與您的業務相關的關鍵字。
+[!UICONTROL Keywords]是您的SEO策略骨幹。 您的目標是位於第一頁，儘可能靠近#1取與您的業務相關的關鍵字。
 
-[!UICONTROL 關鍵字]區段會向您顯示您的網站在達成此目標方面的成功程度，以及您如何棧疊最多[您的競爭對手](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)。
+[!UICONTROL Keywords]區段會向您顯示您的網站在達成此目標方面的成功程度，以及您如何棧疊最多[您的競爭對手](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)。
 
-## [!UICONTROL 關鍵字] — 摘要檢視 {#keywords-summary-view}
+## [!UICONTROL Keywords] — 摘要檢視 {#keywords-summary-view}
 
 ![](assets/image2014-9-17-21-3a44-3a25.png)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">欄名稱</th> 
-   <th colspan="1" rowspan="1">說明</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><span class="uicontrol">關鍵字詞句</span></td> 
-   <td colspan="1" rowspan="1">手邊的關鍵字。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><span class="uicontrol">排名與趨勢</span></td> 
-   <td colspan="1" rowspan="1"><p>您網站對此關鍵字的排名。 箭頭會顯示您的關鍵字排名在前一週的趨勢分析 </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  =排名</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> =排名下降</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">=排名相同</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><span class="uicontrol">競爭等級</span></td> 
-   <td colspan="1" rowspan="1">取得特定關鍵字排名的困難。 </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><span class="uicontrol">每月搜尋</span></td> 
-   <td colspan="1" rowspan="1">每個月在關鍵字上發生的搜尋次數。 此資料是根據完全相符專案，僅適用於Google-US 12個月期間。 </td> 
-  </tr> 
-  <tr> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">欄名稱</th>
+   <th colspan="1" rowspan="1">說明</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><span class="uicontrol">關鍵字詞句</span></td>
+   <td colspan="1" rowspan="1">手邊的關鍵字。</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><span class="uicontrol">排名與趨勢</span></td>
+   <td colspan="1" rowspan="1"><p>您網站對此關鍵字的排名。 箭頭會顯示您的關鍵字排名在前一週的趨勢分析 </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  =排名</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> =排名下降</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">=排名相同</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><span class="uicontrol">競爭等級</span></td>
+   <td colspan="1" rowspan="1">取得特定關鍵字排名的困難。 </td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><span class="uicontrol">每月搜尋</span></td>
+   <td colspan="1" rowspan="1">每個月在關鍵字上發生的搜尋次數。 此資料是根據完全相符專案，僅適用於Google-US 12個月期間。 </td>
+  </tr>
+  <tr>
    <td colspan="1" rowspan="1"><span class="uicontrol">關鍵字短語的最高排名URL</span></td>
-   <td colspan="1" rowspan="1">URL中，此為關鍵字的最高排名。</td> 
-  </tr> 
- </tbody> 
+   <td colspan="1" rowspan="1">URL中，此為關鍵字的最高排名。</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
 >
 >只會針對排名第1-100的關鍵字顯示資料。
 
-## [!UICONTROL 關鍵字] — 競爭者檢視 {#keywords-competitor-view}
+## [!UICONTROL Keywords] — 競爭者檢視 {#keywords-competitor-view}
 
 您也可以按一下「檢視」下拉式清單並選取競爭對手，以使用相同的量度來檢視競爭對手的表現。
 
 ![](assets/image2014-9-17-21-3a44-3a45.png)
 
-太棒了！ 現在您已瞭解[!UICONTROL 關鍵字]區段，接下來讓我們瞭解頁面和傳入連結。
+太棒了！ 現在您已瞭解[!UICONTROL Keywords]區段，接下來讓我們瞭解頁面和傳入連結。
 
 >[!MORELIKETHIS]
 >

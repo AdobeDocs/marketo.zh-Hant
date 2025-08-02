@@ -4,7 +4,7 @@ description: 新增SSL至您的登陸頁面 — Marketo檔案 — 產品檔案
 title: 新增SSL至您的登入頁面
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 0157bc64444151a43bf464158d508e84d75b3427
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '714'
 ht-degree: 0%
@@ -45,7 +45,7 @@ SSL （安全通訊端層）加密可讓您保護Marketo Engage執行個體所�
 
 請依照下列步驟，為您的預設網域啟用SSL。
 
-1. 仍然在&#x200B;**管理員**&#x200B;區段中，選取&#x200B;**登陸頁面**。 按一下&#x200B;_設定_&#x200B;旁的橘色&#x200B;**編輯**&#x200B;按鈕。
+1. 仍然在&#x200B;**管理員**&#x200B;區段中，選取&#x200B;**登陸頁面**。 按一下&#x200B;**設定**&#x200B;旁的橘色&#x200B;_編輯_&#x200B;按鈕。
 
    ![](assets/add-ssl-to-your-landing-pages-4.png){width="800" zoomable="yes"}
 
@@ -97,7 +97,7 @@ SSL （安全通訊端層）加密可讓您保護Marketo Engage執行個體所�
 
 ## 注意事項 {#things-to-note}
 
-* **網域與Marketo Engage的DNS對應**：在UI中新增網域之前，您必須[將CNAME對應到Marketo提供的網域](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
+* **網域與Marketo Engage的DNS對應**：在UI中新增網域之前，您必須[將CNAME對應到Marketo提供的網域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
 
 * **自訂SSL**：如果您需要自訂SSL，請提交[支援票證](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 請勿使用自助核取方塊來建立SSL。
 

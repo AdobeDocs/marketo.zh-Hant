@@ -4,7 +4,7 @@ description: 在Marketo登陸頁面上實作RTP - Marketo檔案 — 產品檔案
 title: 在Marketo登陸頁面上實作RTP
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%

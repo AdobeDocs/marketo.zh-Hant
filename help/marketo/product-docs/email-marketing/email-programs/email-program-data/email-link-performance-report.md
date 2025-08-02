@@ -4,7 +4,7 @@ description: 電子郵件連結效能報表 — Marketo檔案 — 產品檔案
 title: 以電子郵件傳送連結效能報表
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 1%
@@ -41,35 +41,35 @@ ht-degree: 1%
 
 電子郵件連結效能報告可用的[欄](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)包括：
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">[!UICONTROL Column]</th> 
-   <th colspan="1" rowspan="1">說明</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Link]</td> 
-   <td colspan="1" rowspan="1">依電子郵件名稱分組。<br>按一下加號(+)檢視該電子郵件包含的所有連結。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Clicks]</td> 
-   <td colspan="1" rowspan="1">該連結的點按次數。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL Clicks]</td> 
-   <td colspan="1" rowspan="1">在該電子郵件中所有連結的總點按次數中，此連結的百分比。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL People]</td> 
-   <td colspan="1" rowspan="1">點選連結的不重複使用者人數。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL People]</td> 
-   <td colspan="1" rowspan="1">在該電子郵件中點選連結的不重複使用者總數中，此連結的百分比。</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">[!UICONTROL Column]</th>
+   <th colspan="1" rowspan="1">說明</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Link]</td>
+   <td colspan="1" rowspan="1">依電子郵件名稱分組。<br>按一下加號(+)檢視該電子郵件包含的所有連結。</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Clicks]</td>
+   <td colspan="1" rowspan="1">該連結的點按次數。</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL Clicks]</td>
+   <td colspan="1" rowspan="1">在該電子郵件中所有連結的總點按次數中，此連結的百分比。</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL People]</td>
+   <td colspan="1" rowspan="1">點選連結的不重複使用者人數。</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL People]</td>
+   <td colspan="1" rowspan="1">在該電子郵件中點選連結的不重複使用者總數中，此連結的百分比。</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

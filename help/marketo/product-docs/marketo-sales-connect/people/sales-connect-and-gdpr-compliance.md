@@ -4,7 +4,7 @@ description: Sales Connect與GDPR法規遵循 — Marketo檔案 — 產品檔案
 title: Sales Connect與GDPR法規遵循
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1299'
 ht-degree: 0%
@@ -124,44 +124,44 @@ GDPR有兩個主要層面，行銷人員需要檢閱過去、目前和未來的�
 
 您可以從「人員詳細資料檢視」匯出聯絡資訊。 匯出將會下載包含下列欄位的.CSV檔案：
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL First Name]</td> 
-   <td>[!UICONTROL Website]</td> 
-   <td>[!DNL Facebook]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Last Name]</td> 
-   <td>[!UICONTROL Other]</td> 
-   <td>[!DNL Twitter]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Company]</td> 
-   <td>[!UICONTROL Updated At]</td> 
-   <td>[!DNL LinkedIn]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Title]</td> 
-   <td>[!UICONTROL Created At]</td> 
-   <td>[!UICONTROL Exported At]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email ID]</td> 
-   <td>[!UICONTROL Salesforce ID]</td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Phone Number]</td> 
-   <td>[!UICONTROL Person ID]</td> 
-   <td><br></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL First Name]</td>
+   <td>[!UICONTROL Website]</td>
+   <td>[!DNL Facebook]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Last Name]</td>
+   <td>[!UICONTROL Other]</td>
+   <td>[!DNL Twitter]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Company]</td>
+   <td>[!UICONTROL Updated At]</td>
+   <td>[!DNL LinkedIn]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Title]</td>
+   <td>[!UICONTROL Created At]</td>
+   <td>[!UICONTROL Exported At]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email ID]</td>
+   <td>[!UICONTROL Salesforce ID]</td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Phone Number]</td>
+   <td>[!UICONTROL Person ID]</td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -180,9 +180,9 @@ GDPR有兩個主要層面，行銷人員需要檢閱過去、目前和未來的�
 
 GDPR的一個普遍誤解領域涉及從組織資料庫取消訂閱的聯絡人。 為了遵守關於保護選擇取消訂閱者的資料的新規則，[!DNL Marketo Sales Connect]已包含下列功能：
 
-**取消訂閱連結：**&#x200B;取消訂閱連結會自動附加至從[!DNL Sales Connect]網頁應用程式傳送的所有電子郵件，以確保連絡人有可存取的方式選擇退出。\
-**取消訂閱同步處理：**&#x200B;使用者可以同步處理其CRM ([!DNL Salesforce])的取消訂閱與取消訂閱，以確保選擇退出為最新狀態。\
-**取消訂閱歷史記錄：**&#x200B;使用者可在人員詳細資料檢視中檢視歷史選擇退出和選擇加入。\
+**取消訂閱連結：**&#x200B;取消訂閱連結會自動附加至從[!DNL Sales Connect]網頁應用程式傳送的所有電子郵件，以確保連絡人有可存取的方式選擇退出。
+**取消訂閱同步處理：**&#x200B;使用者可以同步處理其CRM ([!DNL Salesforce])的取消訂閱與取消訂閱，以確保選擇退出為最新狀態。
+**取消訂閱歷史記錄：**使用者可在人員詳細資料檢視中檢視歷史選擇退出和選擇加入。
 **取消訂閱移除：**&#x200B;選擇取消訂閱的連絡人重新加入，需要使用者具有管理員許可權，並證明連絡人已同意重新連絡他們。
 
 ## 未來的更新 {#future-updates}

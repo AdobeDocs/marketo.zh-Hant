@@ -4,7 +4,7 @@ description: 瞭解事件計畫 — Marketo檔案 — 產品檔案
 title: 瞭解事件計畫
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 3%

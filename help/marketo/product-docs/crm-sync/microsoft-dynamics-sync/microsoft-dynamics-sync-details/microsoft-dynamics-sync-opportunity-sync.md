@@ -4,7 +4,7 @@ description: Microsoft Dynamics Sync -Opportunity Sync - Marketo檔案 — 產�
 title: Microsoft Dynamics同步 — 機會同步
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%

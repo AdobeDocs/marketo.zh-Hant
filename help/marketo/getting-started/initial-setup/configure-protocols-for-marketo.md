@@ -4,7 +4,7 @@ description: 設定Marketo Engage的通訊協定 — Marketo Engage檔案 — �
 title: 設定Marketo Engage的通訊協定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2131'
 ht-degree: 8%
@@ -39,8 +39,8 @@ ht-degree: 8%
 
 `2` **新增電子郵件追蹤連結的CNAME**
 
-新增傳送給您的電子郵件CNAME行銷，讓`[YourEmailCNAME]`指向[MktoTrackingLink] (Marketo Engage指派的預設追蹤連結)，格式為：\
-`[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
+新增傳送給您的電子郵件CNAME行銷，讓`[YourEmailCNAME]`指向[MktoTrackingLink] (Marketo Engage指派的預設追蹤連結)，格式為：
+CNAME `[YourEmailCNAME].[YourDomain].com`中的`[MktoTrackingLink]`
 
 例如：
 
@@ -92,11 +92,11 @@ ht-degree: 8%
 
 1. 若要設定SPF，請在我們的DNS專案中新增下列行：
 
-   `[CompanyDomain]` IN TXT v=spf1 mx ip4：`[CorpIP]`\
-   包含： mktomail.com ~all
+   `[CompanyDomain]` IN TXT v=spf1 mx ip4：`[CorpIP]`
+包含： mktomail.com ~all
 
-   如果我們的DNS專案中已有現有的SPF記錄，只需新增下列內容即可：\
-   包含： mktomail.com
+   如果我們的DNS專案中已有現有的SPF記錄，只需新增下列內容即可：
+包含： mktomail.com
 
    將CompanyDomain取代為您網站的主網域（例如： &quot;`(company.com/)`&quot;），將CorpIP取代為您公司電子郵件伺服器的IP位址(例如： &quot;255.255.255.255&quot;)。 如果您要透過Marketo Engage從多個網域傳送電子郵件，請讓IT人員為每個網域新增此行（在同一行）。
 
@@ -192,9 +192,9 @@ DMARC記錄有多個稱為DMARC標籤的元件。 每個標記都有一個值，
     <td>fo</td>
     <td>選用</td>
     <td>允許網域擁有者指定報告選項。</td>
-    <td>0：如果一切失敗，則產生報表 
-    <br>1：如果發生任何失敗，則產生報告 
-    <br>d：如果DKIM失敗則產生報告 
+    <td>0：如果一切失敗，則產生報表
+    <br>1：如果發生任何失敗，則產生報告
+    <br>d：如果DKIM失敗則產生報告
     <br>s：如果SPF失敗，則產生報告</td>
     <td>1 (建議用於DMARC報表)</td>
   </tr>
@@ -255,7 +255,7 @@ DMARC有兩種對齊方式：DKIM對齊方式和SPF對齊方式。
 
 * DKIM校準的DMARC — 若要設定DKIM校準的DMARC ，您必須：
 
-   * 針對您訊息的「寄件者：網域」設定DKIM。 使用本文章[&#128279;](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}中的指示。
+   * 針對您訊息的「寄件者：網域」設定DKIM。 使用本文章[中的指示](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}。
    * 為先前設定的FROM：/DKIM網域設定DMARC
 
 * DMARC對齊的SPF — 若要透過品牌傳迴路徑設定DMARC對齊的SPF，您必須：

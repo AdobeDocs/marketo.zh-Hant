@@ -4,7 +4,7 @@ description: 瞭解Opportunity Influence Analyzer - Marketo檔案 — 產品檔�
 title: 瞭解Opportunity Impact Analyzer
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 每個機會都是一個故事。 您在哪裡與潛在客戶見面？ 哪些行銷機會在行銷/銷售程式期間影響了他們？
 
-機會影響分析器可讓您檢視整個故事。 甚至在Sales Insight中都有提供！
+機會影響分析器可讓您檢視整個故事。 甚至可在銷售Insight中使用！
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 

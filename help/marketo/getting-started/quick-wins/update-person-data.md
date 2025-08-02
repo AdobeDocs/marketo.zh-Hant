@@ -4,7 +4,7 @@ description: 更新人員資料 — Marketo檔案 — 產品檔案
 title: 更新個人資料
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%

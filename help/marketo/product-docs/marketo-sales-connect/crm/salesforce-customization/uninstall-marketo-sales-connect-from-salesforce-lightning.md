@@ -2,16 +2,16 @@
 description: 從Salesforce Lightning解除安裝Marketo Sales Connect - Marketo檔案 — 產品檔案
 title: 從Salesforce Lightning解除安裝Marketo Sales Connect
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 067525fec8a761f111433dca61278bed0b58cc2c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1192'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
 # 從Salesforce Lightning解除安裝Marketo Sales Connect {#uninstall-marketo-sales-connect-from-salesforce-lightning}
 
-以下說明當您開始使用Sales Insight Actions時，如何從Salesforce帳戶解除安裝Marketo Sales Connect套件。
+以下說明開始使用Sales Insight Actions後，如何從您的Salesforce帳戶解除安裝Marketo Sales Connect套件。
 
 ## 從頁面配置移除Sales Connect欄位 {#remove-sales-connect-fields-from-page-layout}
 
@@ -113,7 +113,7 @@ ht-degree: 6%
 
    ![](assets/uninstall-salesforce-lightning-customization-package-18.png)
 
-1. 選取&#x200B;**新增至MSC促銷活動**、**含MSC的電子郵件**&#x200B;和&#x200B;**推送至MSC**，然後按一下[移除]箭頭。 然後按一下[儲存]。**&#x200B;**
+1. 選取&#x200B;**新增至MSC促銷活動**、**含MSC的電子郵件**&#x200B;和&#x200B;**推送至MSC**，然後按一下[移除]箭頭。 然後按一下[儲存]。****
 
    ![](assets/uninstall-salesforce-lightning-customization-package-19.png)
 
@@ -171,7 +171,7 @@ ht-degree: 6%
 
 1. 按一下&#x200B;**自訂我的標籤**。
 
-1. 從右側選取「Marketo銷售寄件匣」選項。 按一下[移除]箭頭，然後按一下[儲存]。**&#x200B;**。
+1. 從右側選取「Marketo銷售寄件匣」選項。 按一下[移除]箭頭，然後按一下[儲存]。****。
 
 ## 刪除Sales Connect封裝 {#delete-sales-connect-package}
 
@@ -185,7 +185,7 @@ ht-degree: 6%
 
 一切就緒！
 
-以下是需要從Salesforce例項中移除的所有物件清單：
+以下是需要從Salesforce執行個體移除的所有物件清單：
 
 ## Sales Connect自訂詳細資料 {#sales-connect-customization-details}
 
@@ -288,7 +288,7 @@ ht-degree: 6%
   <td>上次來自行銷的傳入參與</td>
   <td>
   <p>帳戶
-  <p>連絡人
+  <p>聯絡人
   <p>銷售機會
   <p>機會</td>
   <td>資料與時間</td>
@@ -297,9 +297,9 @@ ht-degree: 6%
   <td>MSC — 上次行銷參與日期</td>
   <td>來自行銷的參與時間戳記</td>
   <td>
-  <p>帳戶 
-  <p>連絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
   <td>資料與時間</td>
  </tr>
@@ -307,9 +307,9 @@ ht-degree: 6%
   <td>MSC — 上次行銷參與摘要</td>
   <td>參與的說明</td>
   <td>
-  <p>帳戶 
-  <p>連絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
   <td>文字</td>
  </tr>
@@ -317,9 +317,9 @@ ht-degree: 6%
   <td>MSC — 上次行銷參與Source</td>
   <td>行銷參與的Source</td>
   <td>
-  <p>帳戶 
-  <p>連絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
   <td>文字</td>
  </tr>
@@ -327,9 +327,9 @@ ht-degree: 6%
   <td>MSC — 上次行銷參與型別</td>
   <td>參與型別（例如：網路活動）</td>
   <td>
-  <p>帳戶 
-  <p>連絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
   <td>文字</td>
  </tr>
@@ -337,9 +337,9 @@ ht-degree: 6%
   <td>MSC — 按銷售列出的最後作業</td>
   <td>銷售團隊執行的最後一個傳出活動</td>
   <td>
-  <p>帳戶 
-  <p>連絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
   <td>資料與時間</td>
  </tr>
@@ -347,9 +347,9 @@ ht-degree: 6%
   <td>MSC — 上次回覆</td>
   <td>銷售電子郵件的最後一封電子郵件回覆</td>
   <td>
-  <p>帳戶 
-  <p>連絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
   <td>資料與時間</td>
  </tr>
@@ -357,9 +357,9 @@ ht-degree: 6%
   <td>MSC — 目前的促銷活動</td>
   <td>記錄連絡人/潛在客戶所在的MSC行銷活動的名稱</td>
   <td>
-  <p>帳戶 
-  <p>連絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
   <td>文字</td>
  </tr>
@@ -368,7 +368,7 @@ ht-degree: 6%
   <td>上次來自銷售人員的傳入參與</td>
   <td>
   <p>帳戶
-  <p>連絡人
+  <p>聯絡人
   <p>銷售機會
   <p>機會</td>
   <td>資料與時間</td>
@@ -377,9 +377,9 @@ ht-degree: 6%
   <td>MSC — 選擇退出</td>
   <td>選擇退出欄位</td>
   <td>
-  <p>帳戶 
-  <p>連絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
   <td>核取方塊</td>
  </tr>
@@ -395,30 +395,30 @@ ht-degree: 6%
   <td>傳送MSC電子郵件</td>
   <td>從Salesforce傳送銷售電子郵件</td>
   <td>
-  <p>帳戶 
-  <p>連絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
  </tr>
  <tr>
   <td>新增至MSC Campaign</td>
   <td>從Salesforce新增至MSC行銷活動</td>
   <td>
-  <p>連絡人
+  <p>聯絡人
   <p>銷售機會</td>
  </tr>
  <tr>
   <td>推送至MSC</td>
   <td>從Salesforce將連絡人推播至MSC</td>
   <td>
-  <p>連絡人
+  <p>聯絡人
   <p>銷售機會</td>
  </tr>
  <tr>
   <td>使用MSC來電</td>
-  <td>從Salesforce進行銷售通話</td>
+  <td>從Salesforce撥打銷售電話</td>
   <td>
-  <p>連絡人
+  <p>聯絡人
   <p>銷售機會</td>
  </tr>
 </table>
@@ -433,21 +433,21 @@ ht-degree: 6%
   <td>新增至MSC Campaign</td>
   <td>從Salesforce新增至MSC行銷活動</td>
   <td>
-  <p>連絡人
+  <p>聯絡人
   <p>銷售機會</td>
  </tr>
  <tr>
   <td>推送至MSC</td>
   <td>從Salesforce將連絡人推播至MSC</td>
   <td>
-  <p>連絡人
+  <p>聯絡人
   <p>銷售機會</td>
  </tr>
  <tr>
   <td>使用MSC傳送電子郵件</td>
-  <td>使用Salesforce的MSC傳送電子郵件</td>
+  <td>從Salesforce使用MSC傳送電子郵件</td>
   <td>
-  <p>連絡人
+  <p>聯絡人
   <p>銷售機會</td>
  </tr>
 </table>

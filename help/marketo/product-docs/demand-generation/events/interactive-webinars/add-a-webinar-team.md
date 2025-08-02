@@ -3,7 +3,7 @@ description: 新增網路研討會團隊 — Marketo檔案 — 產品檔案
 title: 新增網路研討會團隊
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >若您選取&#x200B;**內部互動式網路研討會使用者**，您只需按一下&#x200B;**可用的主機**&#x200B;下拉式清單，並從已被新增為Marketo Engage互動式網路研討會使用者的人員清單中進行選擇。 現有主機在此下拉式清單中看不到自己，因為它們已經是主機。
+   >若您選取&#x200B;**內部互動式網路研討會使用者**，您只需按一下&#x200B;**可用的主機**&#x200B;下拉式清單，然後從已在Marketo Engage中新增為互動式網路研討會使用者的人員清單中進行選擇。 現有主機在此下拉式清單中看不到自己，因為它們已經是主機。
 
 1. 輸入所需共同主機的名字、姓氏及電子郵件地址。 按一下&#x200B;**新增**。
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ## 新增簡報者 {#add-a-presenter}
 
-1. 在互動式網路研討會的[概觀]頁面中，按一下[新增主持人]。**&#x200B;**
+1. 在互動式網路研討會的[概觀]頁面中，按一下[新增主持人]。****
 
    ![](assets/add-a-webinar-team-5.png)
 

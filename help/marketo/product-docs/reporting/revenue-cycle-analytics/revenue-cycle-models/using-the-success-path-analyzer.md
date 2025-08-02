@@ -4,7 +4,7 @@ description: 使用成功路徑分析器 — Marketo檔案 — 產品檔案
 title: 使用成功路徑分析器
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%

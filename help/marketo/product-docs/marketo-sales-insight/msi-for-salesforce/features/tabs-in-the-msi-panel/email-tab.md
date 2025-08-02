@@ -3,7 +3,7 @@ description: 電子郵件標籤 — Marketo檔案 — 產品檔案
 title: 電子郵件索引標籤
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 1%
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 您可以按一下&quot;[!UICONTROL Check Delivery Status]&quot;按鈕以開啟新索引標籤，其中顯示電子郵件的傳遞狀態：
 
-<table> 
+<table>
  <tbody>
   <tr>
    <td><strong>從Marketo傳送的電子郵件</strong></td>

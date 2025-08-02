@@ -3,7 +3,7 @@ description: SMS報告 — Marketo檔案 — 產品檔案
 title: 簡訊報告
 feature: Mobile Marketing
 exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%

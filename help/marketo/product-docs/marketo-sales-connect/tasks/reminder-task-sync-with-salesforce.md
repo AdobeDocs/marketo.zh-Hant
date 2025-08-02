@@ -3,7 +3,7 @@ description: 提醒任務與Salesforce同步 — Marketo檔案 — 產品檔案
 title: 提醒任務與Salesforce同步
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 0%

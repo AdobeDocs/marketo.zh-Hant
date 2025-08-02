@@ -3,7 +3,7 @@ description: 發行說明 — 2024年10月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2024 年 10 月
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 2%
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 下方提供2024年10月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
 
-您可在此處[&#128279;](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到Adobe Dynamic Chat 專屬的發行說明。
+您可在此處[找到Adobe Dynamic Chat ](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}專屬的發行說明。
 
 >[!AVAILABILITY]
 >
@@ -24,67 +24,67 @@ ht-degree: 2%
 
 下列功能屬於標準發行週期，並將於&#x200B;**2024年10月4日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行功能和日期可能會有所變更。 請檢查每個功能旁的狀態。
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">功能</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">功能</th>
    <th style="width:10%">狀態</th>
    <th style="width:25%">檔案</th>
   </tr>
-    <tr> 
-   <td><strong>互動式網路研討會的權杖化</strong>：您現在可以使用權杖在電子郵件和登陸頁面中推廣互動式網路研討會，而無需手動新增網路研討會詳細資訊。</td> 
+    <tr>
+   <td><strong>互動式網路研討會的權杖化</strong>：您現在可以使用權杖在電子郵件和登陸頁面中推廣互動式網路研討會，而無需手動新增網路研討會詳細資訊。</td>
    <td>已送出</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">推廣互動式網路研討會</a></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong>智慧清單「設定為影響」計數</strong>：檢視編輯Smart Campaign的資格規則時會影響多少人。</td> 
+   <tr>
+   <td><strong>智慧清單「設定為影響」計數</strong>：檢視編輯Smart Campaign的資格規則時會影響多少人。</td>
    <td>已送出</td>
    <td>不適用</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong>導覽邊欄中的「我的帳戶」按鈕</strong>：對於已移轉至Adobe Identity Management系統的使用者，左側導覽邊欄中新的「我的帳戶」按鈕可讓您設定時區並存取訂閱詳細資料。</td> 
+   <tr>
+   <td><strong>導覽邊欄中的「我的帳戶」按鈕</strong>：對於已移轉至Adobe Identity Management系統的使用者，左側導覽邊欄中新的「我的帳戶」按鈕可讓您設定時區並存取訂閱詳細資料。</td>
    <td>已送出</td>
    <td>不適用</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-   <tr> 
+   <tr>
    <td><strong>電子郵件效能報告增強功能</strong>：已針對電子郵件報告量度和活動追蹤進行多項改進，以提供其他深入分析並改善準確性。
    <ul>
    <li>從電子郵件效能量度篩選刪除和合併的人員</li>
    <li>電子郵件在等待回應活動三天後現在分類為<i>已中止</i></li>
    <li>電子郵件開啟次數會計為每個Smart Campaign個別開啟的唯一開啟次數</li>
-   </td> 
+   </td>
    <td>已送出</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">以電子郵件傳送效能報表</a></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-   <tr> 
+   <tr>
    <td><strong>Salesforce同步處理待處理專案量度</strong>：監視同步處理輸送量和待處理專案趨勢，以便規劃及排程CRM更新，提供最佳的同步處理體驗。
-   </td> 
+   </td>
    <td>已送出</td>
    <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Salesforce同步處理待處理專案量度</a></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 
@@ -92,7 +92,7 @@ ht-degree: 2%
 
 * **大量擷取API更新**：我們已修正大量擷取API中涉及columnHeaderNames選項的問題，該選項可讓您在匯出的檔案中指定自訂欄標題名稱。 以前，包含非ASCII字元的欄標題名稱可能會損毀。
 
-* **Rest API access_token引數淘汰**：用於驗證Marketo REST API呼叫的「access_token」查詢引數已淘汰，並將於2025年10月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)。
+* **Rest API access_token引數淘汰**：用於驗證Marketo REST API呼叫的「access_token」查詢引數已淘汰，並將於2025年10月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)。
 
 
 * **QR碼淘汰**：自2024年10月4日起，推播通知和應用程式內訊息資產中使用的QR碼功能將被淘汰。 這包括使用新測試裝置的QR碼，以及使用QR碼建立新資產。 淘汰使用率較低的功能，可讓我們重新分配其資源，以進行Marketo Engage的整體維護。

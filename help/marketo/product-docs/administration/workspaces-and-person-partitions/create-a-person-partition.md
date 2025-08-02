@@ -4,10 +4,10 @@ description: 建立人員資料分割 — Marketo檔案 — 產品檔案
 title: 建立個人資料分割
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 1%
 
 ---
 
@@ -23,19 +23,19 @@ ht-degree: 0%
 >
 >透過[瞭解Workspace和Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)先瞭解。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/create-a-person-partition-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 工作區與分割區]**。
+1. 按一下「**[!UICONTROL Workspaces & Partitions]**」。
 
    ![](assets/create-a-person-partition-2.png)
 
-1. 移至&#x200B;**[!UICONTROL 人員分割]**&#x200B;索引標籤，然後按一下&#x200B;**[!UICONTROL 新增人員分割]**。
+1. 前往&#x200B;**[!UICONTROL Person Partitions]**&#x200B;標籤並按一下&#x200B;**[!UICONTROL New Person Partition]**。
 
    ![](assets/create-a-person-partition-3.png)
 
-1. 為磁碟分割命名，選擇要顯示的&#x200B;**[!UICONTROL 工作區]**，然後按一下&#x200B;**[!UICONTROL 建立]**。
+1. 為磁碟分割命名，選擇要顯示磁碟分割的&#x200B;**[!UICONTROL Workspaces]**，然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/create-a-person-partition-4.png)
 

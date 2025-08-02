@@ -4,7 +4,7 @@ description: 將Target URL新增至網站行銷活動 — Marketo檔案 — 產�
 title: 新增目標URL至網站行銷活動
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 1%
@@ -29,23 +29,23 @@ ht-degree: 1%
 
    ![](assets/set-web-campaign-hands.jpg)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">名稱</th> 
-   <th colspan="1" rowspan="1">說明</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Any Page]</strong></td> 
-   <td colspan="1" rowspan="1"><p>允許行銷活動出現在任何頁面上。</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Include URL parameter when matching]</strong></p></td> 
-   <td colspan="1" rowspan="1">新增URL引數以在包含此引數的URL上比對和顯示促銷活動。 例如： campaign=cpc</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">名稱</th>
+   <th colspan="1" rowspan="1">說明</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Any Page]</strong></td>
+   <td colspan="1" rowspan="1"><p>允許行銷活動出現在任何頁面上。</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Include URL parameter when matching]</strong></p></td>
+   <td colspan="1" rowspan="1">新增URL引數以在包含此引數的URL上比對和顯示促銷活動。 例如： campaign=cpc</td>
+  </tr>
+ </tbody>
 </table>
 
 ## 新增多個URL至目標URL {#adding-multiple-urls-to-target-url}

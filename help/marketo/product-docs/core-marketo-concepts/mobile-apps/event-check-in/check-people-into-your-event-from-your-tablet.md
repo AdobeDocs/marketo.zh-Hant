@@ -4,7 +4,7 @@ description: 透過平板電腦將人員登記到您的活動中 — Marketo檔�
 title: 從平板電腦將人員加入您的活動
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%

@@ -3,7 +3,7 @@ description: 命令中心的快速動作 — Marketo檔案 — 產品檔案
 title: 指揮中心的快速動作
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 1%
@@ -27,59 +27,59 @@ ht-degree: 1%
 
 **[!UICONTROL Archived]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Unarchive]</td> 
-   <td>會將電子郵件移回已傳送的資料夾，並重新啟用檢視/點選追蹤。</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>將刪除電子郵件。<br><strong>注意：</strong>無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Unarchive]</td>
+   <td>會將電子郵件移回已傳送的資料夾，並重新啟用檢視/點選追蹤。</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>將刪除電子郵件。<br><strong>注意：</strong>無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Draft]和[!UICONTROL Scheduled]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Edit]</td> 
-   <td>將在要編輯的撰寫視窗中開啟電子郵件。</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>將刪除電子郵件。<br><strong>注意：</strong>無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Edit]</td>
+   <td>將在要編輯的撰寫視窗中開啟電子郵件。</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>將刪除電子郵件。<br><strong>注意：</strong>無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Failed]、[!UICONTROL Bounced]和[!UICONTROL Spam]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Retry Send]</td> 
-   <td>將立即嘗試重新傳送電子郵件。</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>將刪除電子郵件。<br><strong>注意：</strong>無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Retry Send]</td>
+   <td>將立即嘗試重新傳送電子郵件。</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>將刪除電子郵件。<br><strong>注意：</strong>無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Follow-up Actions]**

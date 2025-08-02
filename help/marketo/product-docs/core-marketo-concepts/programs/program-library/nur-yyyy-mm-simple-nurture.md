@@ -3,140 +3,140 @@ description: NUR-YYYY-MM-Simple Nurture - Marketo檔案 — 產品檔案
 title: NUR-YYYY-MM-Simple Nurture
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
 # NUR-YYYY-MM-Simple Nurture {#nur-yyyy-mm-simple-nurture}
 
-這是簡單的Nurture計畫範例，利用Marketo Engage參與計畫，有節奏的內容會隨著時間滴到您的資料庫，同時利用串流根據行為引導記錄完成歷程。
+這是簡單的Nurture計畫範例，利用Marketo Engage參與計畫，有節奏的內容會隨著時間滴到您的資料庫，同時利用資料流根據行為引導記錄完成歷程。
 
 如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>管道</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Channel</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>
-  </tr> 
-  <tr> 
-   <td>培養</td> 
-   <td>01 — 成員 
+  </tr>
+  <tr>
+   <td>培養</td>
+   <td>01 — 成員
 <br/>02 — 參與 — 成功</td>
    <td>包含</td>
-   <td>參與</td>
+   <td>參與度</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 程式包含下列Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>類型</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>類型</th>
    <th>範本名稱</th>
    <th>資產名稱</th>
-  </tr> 
-  <tr> 
-   <td>電子郵件</td> 
+  </tr>
+  <tr>
+   <td>電子郵件</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>01 — 電子郵件</td>
   </tr>
-   <tr> 
-   <td>電子郵件</td> 
+   <tr>
+   <td>電子郵件</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>02 — 電子郵件</td>
   </tr>
-   <tr> 
-   <td>電子郵件</td> 
+   <tr>
+   <td>電子郵件</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>03 — 電子郵件</td>
   </tr>
-  <tr> 
-   <td>本地報告</td> 
+  <tr>
+   <td>本地報告</td>
    <td> </td>
    <td>電子郵件效能</td>
   </tr>
-  <tr> 
-   <td>本地報告</td> 
+  <tr>
+   <td>本地報告</td>
    <td> </td>
    <td>參與資料流績效</td>
   </tr>
   <tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>01 — 加入Nurture</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>02 — 暫停Nurture</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>03 — 繼續培養</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>04 — 參與（計畫成功）</td>
   </tr>
-  <tr> 
-   <td>資料夾</td> 
+  <tr>
+   <td>資料夾</td>
    <td> </td>
    <td>Assets — 容納所有創意資產
    <br/>（電子郵件的子資料夾）</td>
   </tr>
-  <tr> 
-   <td>資料夾</td> 
+  <tr>
+   <td>資料夾</td>
    <td> </td>
    <td>行銷活動 — 容納所有智慧行銷活動</td>
   </tr>
-  <tr> 
-   <td>資料夾</td> 
+  <tr>
+   <td>資料夾</td>
    <td> </td>
    <td>報表</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/nur-yyyy-mm-simple-nurture-1.png)
 
 ## 包含我的Token {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>權杖型別</th> 
-   <th>Token名稱</th>
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>權杖型別</th>
+   <th>代號名稱</th>
    <th>值</th>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 衝突規則 {#conflict-rules}

@@ -3,9 +3,9 @@ description: 篩選電子郵件機器人活動 — Marketo檔案 — 產品檔�
 title: 篩選電子郵件機器人活動
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: f3d0b2be794ca4bb6c38c942cef1fa72fe091d7c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -31,23 +31,23 @@ ht-degree: 0%
 
 ## 選取篩選器型別 {#select-filter-type}
 
-1. 按一下&#x200B;**[!UICONTROL 管理員]**。
+1. 按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 電子郵件]**。
+1. 按一下「**[!UICONTROL Email]**」。
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL 機器人活動]**&#x200B;標籤。
+1. 按一下「**[!UICONTROL Bot Activity]**」標籤。
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 有兩個滑桿可供選擇。 您只能啟用其中一項或兩項。 如果您啟用&#x200B;**[!UICONTROL 與IAB清單]**&#x200B;相符，請選擇是要[!UICONTROL 記錄機器人活動] _或_ [!UICONTROL 篩選機器人活動]。
+1. 有兩個滑桿可供選擇。 您只能啟用其中一項或兩項。 若您啟用&#x200B;**[!UICONTROL Match with IAB List]**，請選擇是[!UICONTROL log bot activity] _或_ [!UICONTROL filter bot activity]。
 
    ![](assets/filtering-email-bot-activity-4.png)
 
-1. 如果您啟用&#x200B;**[!UICONTROL 與近似程度模式相符]**，請選擇是要[!UICONTROL 記錄機器人活動] _或_ [!UICONTROL 篩選機器人活動]。 您也可以設定&#x200B;**活動之間持續時間**&#x200B;的秒數（預設為0，最大為3）。
+1. 若您啟用&#x200B;**[!UICONTROL Match with Proximity Pattern]**，請選擇是[!UICONTROL log bot activity] _或_ [!UICONTROL filter bot activity]。 您也可以設定&#x200B;**活動之間持續時間**&#x200B;的秒數（預設為0，最大為3）。
 
    ![](assets/filtering-email-bot-activity-5.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->* 如果選擇[!UICONTROL 篩選機器人活動]，您可能會看到電子郵件開啟次數和點按次數減少，因為篩選出false活動。
+>* 如果選擇[!UICONTROL Filter Bot Activity]，您可能會看到電子郵件開啟次數和點按次數下降，因為淘汰了false活動。
 
 **選擇性步驟**：若要停用任一功能，只要取消選取相應的滑桿即可。 如果您這麼做，資料不會重設。
 

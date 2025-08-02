@@ -4,9 +4,9 @@ description: 刪除上傳的影像或檔案 — Marketo檔案 — 產品檔案
 title: 刪除上傳的影像或檔案
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >刪除後，影像/檔案會從Marketo Engage中完全移除，且無法復原。
 
-1. 移至&#x200B;**[!UICONTROL 設計工作室]**。
+1. 移至&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/delete-an-uploaded-image-or-file-1.png)
 
-1. 選取&#x200B;**[!UICONTROL 影像和檔案]**
+1. 選取&#x200B;**[!UICONTROL Images and Files]**
 
    ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. 尋找並選取所需的影像/檔案。 按一下&#x200B;**[!UICONTROL 影像和檔案動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 刪除]**。
+1. 尋找並選取所需的影像/檔案。 按一下&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/delete-an-uploaded-image-or-file-3.png)
 
-1. 確認您已選取正確的檔案，然後按一下[刪除]。**&#x200B;**
+1. 確認您已選取正確的檔案，然後按一下&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/delete-an-uploaded-image-or-file-4.png)
 

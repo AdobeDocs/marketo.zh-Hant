@@ -4,7 +4,7 @@ description: 匯入[!UICONTROL Named Accounts] - Marketo檔案 — 產品檔案
 title: 匯入[!UICONTROL Named Accounts]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -65,40 +65,40 @@ CSV中已經滿載了潛在的目標帳戶嗎？ 將它們直接匯入TAM！
 
 刪除重複資料[!UICONTROL by Account Name]的情況：
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>正在匯入具有現有<span class="uicontrol">具名帳戶</span>名稱的記錄</strong></td> 
-   <td><p>我們將更新現有的記錄</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>正在匯入具有新<span class="uicontrol">具名帳戶</span>名稱的記錄</strong></td> 
-   <td>我們將建立新記錄</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>正在匯入具有現有<span class="uicontrol">具名帳戶</span>名稱的記錄</strong></td>
+   <td><p>我們將更新現有的記錄</p></td>
+  </tr>
+  <tr>
+   <td><strong>正在匯入具有新<span class="uicontrol">具名帳戶</span>名稱的記錄</strong></td>
+   <td>我們將建立新記錄</td>
+  </tr>
+ </tbody>
 </table>
 
 刪除重複資料[!UICONTROL by Domain Name]的情況：
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>使用新帳戶名稱與新網域名稱匯入記錄</strong></td> 
-   <td>我們將使用提供的資訊建立新的<span class="uicontrol">具名帳戶</span></td> 
-  </tr> 
-  <tr> 
-   <td><strong>使用現有帳戶名稱和現有網域名稱匯入記錄</strong></td> 
-   <td>我們將更新現有的<span class="uicontrol">具名帳戶</span></td> 
-  </tr> 
-   <tr> 
-   <td><strong>使用新帳戶名稱和現有網域名稱匯入記錄</strong></td> 
-   <td>我們將新帳戶名稱附加至符合網域名稱的現有<span class="uicontrol">具名帳戶</span>，並更新其他資訊（例如產業、州等）</td> 
-  </tr> 
-  <tr> 
-   <td><strong>正在匯入具有現有<span class="uicontrol">具名帳戶</span>名稱與新網域名稱的記錄</strong></td> 
-   <td>我們將新網域名稱附加至符合帳戶名稱的現有<span class="uicontrol">具名帳戶</span>，並更新其他資訊（例如產業、狀態等）</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>使用新帳戶名稱與新網域名稱匯入記錄</strong></td>
+   <td>我們將使用提供的資訊建立新的<span class="uicontrol">具名帳戶</span></td>
+  </tr>
+  <tr>
+   <td><strong>使用現有帳戶名稱和現有網域名稱匯入記錄</strong></td>
+   <td>我們將更新現有的<span class="uicontrol">具名帳戶</span></td>
+  </tr>
+   <tr>
+   <td><strong>使用新帳戶名稱和現有網域名稱匯入記錄</strong></td>
+   <td>我們將新帳戶名稱附加至符合網域名稱的現有<span class="uicontrol">具名帳戶</span>，並更新其他資訊（例如產業、州等）</td>
+  </tr>
+  <tr>
+   <td><strong>正在匯入具有現有<span class="uicontrol">具名帳戶</span>名稱與新網域名稱的記錄</strong></td>
+   <td>我們將新網域名稱附加至符合帳戶名稱的現有<span class="uicontrol">具名帳戶</span>，並更新其他資訊（例如產業、狀態等）</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

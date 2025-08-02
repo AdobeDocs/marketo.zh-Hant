@@ -4,9 +4,9 @@ description: 發行說明 — 2015年秋季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2015年秋季
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '966'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 [Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
-從管理員UI輕鬆建立自訂物件。 我們目前支援在Marketo中建立1：N自訂物件的功能，並將其連線到潛在客戶或公司。
+從管理員UI輕鬆建立自訂物件。 我們目前支援在Marketo中建立1:N自訂物件的功能，並將其連線到潛在客戶或公司。
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 * 參與之前，銷售人員可以直接在[!DNL Google Mail]中檢視其潛在客戶的相關資訊，包括職稱、Twitter設定檔、公司資訊、像片等。
 * 銷售人員可以即時檢視跨頻道潛在客戶正在互動的內容內容，例如已開啟或點按的電子郵件、已出席的線上或面對面活動、已瀏覽的網頁、已下載的eBook等等。
-* 透過[!DNL Google Mail]傳送的電子郵件會登入Marketo並即時追蹤。 這麼做可讓銷售人員檢視潛在客戶何時檢視其電子郵件，方便他們在適當的時間進行追蹤。 適用於[!DNL Google Mail]的Marketo [!DNL Sales Insight]也可讓銷售人員輕鬆運用行銷所建立的範本，以傳送精美的邀請、優惠方案和其他型別的內容。
+* 透過[!DNL Google Mail]傳送的電子郵件會登入Marketo並即時追蹤。 這麼做可讓銷售人員檢視潛在客戶何時檢視其電子郵件，方便他們在適當的時間進行追蹤。 適用於[!DNL Sales Insight]的Marketo [!DNL Google Mail]也可讓銷售人員輕鬆運用行銷所建立的範本，以傳送精美的邀請、優惠方案和其他型別的內容。
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
@@ -138,7 +138,7 @@ RTP的Assets頁面現在分為Content Analytics和內容建議。
 
 ```
 <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
-<td background="someImage.png"> 
+<td background="someImage.png">
 ```
 
 ## [!DNL Microsoft Dynamics] — 驗證同步 {#microsoft-dynamics-validate-sync}

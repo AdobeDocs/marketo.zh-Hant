@@ -4,7 +4,7 @@ description: 使用銷售機會摘要 — Marketo檔案 — 產品檔案
 title: 使用潛在客戶摘要
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 1%
@@ -29,45 +29,45 @@ ht-degree: 1%
 
 ![](assets/using-the-lead-feed-2.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><p>項目</p></td> 
-   <td><p>說明</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>A.銷售機會/聯絡人</p></td> 
-   <td><p>有這個有趣時刻的人</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>B.事件型別</p></td> 
-   <td><p>此時的類別 — 網頁、電子郵件或里程碑</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>C.帳戶名稱</p></td> 
-   <td><p>公司名稱</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>D.時間</p></td> 
-   <td><p>這個有趣的時刻何時發生</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>E.事件說明</p></td> 
-   <td><p>這個有趣時刻的原因</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>F.訂閱</p></td> 
-   <td><p>接收此類事件的電子郵件通知</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>G.星星</p></td> 
-   <td><p>此人是首選（高優先順序）</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><p>項目</p></td>
+   <td><p>說明</p></td>
+  </tr>
+  <tr>
+   <td><p>A.銷售機會/聯絡人</p></td>
+   <td><p>有這個有趣時刻的人</p></td>
+  </tr>
+  <tr>
+   <td><p>B.事件型別</p></td>
+   <td><p>此時的類別 — 網頁、電子郵件或里程碑</p></td>
+  </tr>
+  <tr>
+   <td><p>C.帳戶名稱</p></td>
+   <td><p>公司名稱</p></td>
+  </tr>
+  <tr>
+   <td><p>D.時間</p></td>
+   <td><p>這個有趣的時刻何時發生</p></td>
+  </tr>
+  <tr>
+   <td><p>E.事件說明</p></td>
+   <td><p>這個有趣時刻的原因</p></td>
+  </tr>
+  <tr>
+   <td><p>F.訂閱</p></td>
+   <td><p>接收此類事件的電子郵件通知</p></td>
+  </tr>
+  <tr>
+   <td><p>G.星星</p></td>
+   <td><p>此人是首選（高優先順序）</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 取得RSS更新 {#getting-rss-updates}

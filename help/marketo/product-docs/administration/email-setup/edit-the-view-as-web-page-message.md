@@ -4,9 +4,9 @@ description: 編輯「以網頁方式檢視」訊息 — Marketo檔案 — 產�
 title: 編輯「以網頁檢視」訊息
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 編輯「以網頁檢視」訊息 {#edit-the-view-as-web-page-message-1}
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 電子郵件]**。
+1. 按一下「**[!UICONTROL Email]**」。
 
    ![](assets/edit-the-view-as-web-page-message-2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
    >
    >第二部分`##MKT_TOK##`是該人員的[!UICONTROL munchkin] Cookie。 它會確保他們在按一下連結時獲得適當的編碼。
 
-1. 編輯&#x200B;**[!UICONTROL 以網頁HTML檢視]**&#x200B;和&#x200B;**[!UICONTROL 以網頁文字檢視]**&#x200B;版本以符合您的喜好，然後按一下&#x200B;**[!UICONTROL 儲存變更]**。
+1. 編輯您喜歡的&#x200B;**[!UICONTROL View as Web Page HTML]**&#x200B;和&#x200B;**[!UICONTROL View as Web Page Text]**&#x200B;版本，然後按一下&#x200B;**[!UICONTROL Save Changes]**。
 
    ![](assets/edit-the-view-as-web-page-message-3.png)
 
@@ -45,20 +45,20 @@ ht-degree: 0%
 >
 >請務必避免：
 >
->* 新增其他URL至其中一個HTML方塊
->* 在文字版本中置入HTML
+>* 在任一HTML方塊中新增其他URL
+>* 將HTML放在文字版本中
 
 您有。 傳送測試電子郵件以確保格式化。
 
 ## 預設「以網頁檢視」文字 {#default-view-as-web-page-text}
 
-如果您需要還原成預設系統&quot;[!UICONTROL 以網頁檢視]&quot;，請複製/貼上下列專案：
+如果您需要還原成預設系統&quot;[!UICONTROL View as Web Page]&quot;，請複製/貼上下列專案：
 
-**[!UICONTROL 以網頁HTML檢視]**：
+**[!UICONTROL View as Web Page HTML]**：
 
 `<div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div>`
 
-**[!UICONTROL 以網頁文字檢視]**：
+**[!UICONTROL View as Web Page Text]**：
 
 若要以網頁的形式檢視此電子郵件，請前往下列地址：
 `%mkt_webview_url%?mkt_tok=##MKT_TOK##`

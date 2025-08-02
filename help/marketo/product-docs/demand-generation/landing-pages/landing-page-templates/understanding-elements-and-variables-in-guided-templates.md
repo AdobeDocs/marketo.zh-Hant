@@ -4,7 +4,7 @@ description: 瞭解引導式範本中的元素和變數 — Marketo檔案 — �
 title: 瞭解引導式範本中的元素和變數
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 2%
@@ -41,21 +41,21 @@ ht-degree: 2%
 
 變數型別有三種：字串變數、顏色變數和布林值變數。
 
-<table> 
- <tbody> 
-  <tr> 
-   <td>字串</td> 
-   <td><p>可編輯文字</p><p>範例：標題、日期、按鈕標籤</p></td> 
-  </tr> 
-  <tr> 
-   <td>顏色</td> 
-   <td><p>色彩的可編輯十六進位代碼</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>範例：背景顏色、字型顏色、框線顏色</p></td> 
-  </tr> 
-  <tr> 
-   <td>布林值</td> 
-   <td><p>控制登陸頁面上物件或格式的開啟/關閉狀態的槓桿</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>範例：顯示頁尾（是/否）、欄計數(1/2)、內嵌Google Analytics（真/假）</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td>字串</td>
+   <td><p>可編輯文字</p><p>範例：標題、日期、按鈕標籤</p></td>
+  </tr>
+  <tr>
+   <td>顏色</td>
+   <td><p>色彩的可編輯十六進位代碼</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>範例：背景顏色、字型顏色、框線顏色</p></td>
+  </tr>
+  <tr>
+   <td>布林值</td>
+   <td><p>控制登陸頁面上物件或格式的開啟/關閉狀態的槓桿</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>範例：顯示頁尾（是/否）、欄計數(1/2)、內嵌Google Analytics （真/假）</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

@@ -5,7 +5,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 熒幕擷圖
 
-1. 按一下&#x200B;_Adobe Experience Manager雲端服務_&#x200B;旁的&#x200B;**編輯**。
+1. 按一下&#x200B;**Adobe Experience Manager雲端服務**&#x200B;旁的&#x200B;_編輯_。
 
 熒幕擷圖
 

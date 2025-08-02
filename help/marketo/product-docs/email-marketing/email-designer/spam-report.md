@@ -6,7 +6,7 @@ description: 瞭解如何使用SpamAssassin測試您的電子郵件內容，並�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: 67674c3e1ce7614d7f7c533b0074e2fbc8edfa28
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 5%

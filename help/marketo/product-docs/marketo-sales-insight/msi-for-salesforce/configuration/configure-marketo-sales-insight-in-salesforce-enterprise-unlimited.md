@@ -4,7 +4,7 @@ description: 瞭解如何在Marketo Enterprise/Unlimited版本中設定Salesforc
 title: 在Marketo Enterprise/Unlimited中設定Salesforce Sales Insight
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '744'
 ht-degree: 1%
@@ -67,7 +67,7 @@ ht-degree: 1%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. 輸入遠端站台名稱（名稱可能類似於`MarketoSoapAPI`）。 輸入遠端站台URL，這是您從Marketo Engage的&#x200B;_[!UICONTROL Soap API Configuration]_&#x200B;面板取得的Marketo主機URL。 按一下&#x200B;**[!UICONTROL Save]**。 您現在已建立Soap API的遠端站台設定。
+1. 輸入遠端站台名稱（名稱可能類似於`MarketoSoapAPI`）。 輸入遠端站台URL，這是您從Marketo Engage的&#x200B;_[!UICONTROL Soap API Configuration]_面板取得的Marketo主機URL。 按一下&#x200B;**[!UICONTROL Save]**。 您現在已建立Soap API的遠端站台設定。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -75,7 +75,7 @@ ht-degree: 1%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. 輸入遠端站台名稱（名稱可能類似於`MarketoAPI`）。 輸入遠端站台URL，這是您在Marketo Engage中從&#x200B;_[!UICONTROL Rest API Configuration]_&#x200B;面板取得的API URL。 按一下&#x200B;**[!UICONTROL Save]**。 您現在已建立Rest API的遠端站台設定。
+1. 輸入遠端站台名稱（名稱可能類似於`MarketoAPI`）。 輸入遠端站台URL，這是您在Marketo Engage中從&#x200B;_[!UICONTROL Rest API Configuration]_面板取得的API URL。 按一下&#x200B;**[!UICONTROL Save]**。 您現在已建立Rest API的遠端站台設定。
 
    >[!NOTE]
    >
@@ -91,7 +91,7 @@ ht-degree: 1%
 
 1. 按一下Salesforce使用者正在使用的設定檔旁的&#x200B;**[!UICONTROL Edit]**。
 
-1. 在&#x200B;_[!UICONTROL Standard Object Permission]_&#x200B;區段下，啟用下列物件的&#x200B;**[!UICONTROL Read]**&#x200B;存取權： [!UICONTROL Lead]、[!UICONTROL Contact]、[!UICONTROL Account]和[!UICONTROL Opportunity]。
+1. 在&#x200B;_[!UICONTROL Standard Object Permission]_區段下，啟用下列物件的&#x200B;**[!UICONTROL Read]**存取權： [!UICONTROL Lead]、[!UICONTROL Contact]、[!UICONTROL Account]和[!UICONTROL Opportunity]。
 
 1. 按一下「**[!UICONTROL Save]**」。
 
@@ -105,7 +105,7 @@ ht-degree: 1%
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. 按一下左側的&#x200B;**[!UICONTROL Visualforce Pages]**。 將&#x200B;**[!UICONTROL Section]**&#x200B;拖曳至&#x200B;_[!UICONTROL Custom Links]_&#x200B;區段下的配置。
+1. 按一下左側的&#x200B;**[!UICONTROL Visualforce Pages]**。 將&#x200B;**[!UICONTROL Section]**&#x200B;拖曳至&#x200B;_[!UICONTROL Custom Links]_區段下的配置。
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 

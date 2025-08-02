@@ -4,7 +4,7 @@ description: 命令中心總覽 — Marketo檔案 — 產品檔案
 title: 命令中心概述
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '556'
 ht-degree: 0%
@@ -23,59 +23,59 @@ Commend Center是單一、統一的檢視畫面，可協助您找出下一步驟
 
 電子郵件區段提供您對所有電子郵件的鳥瞰檢視，並透過主要標籤和子標籤簡化其組織，作為資料夾，您的電子郵件會根據其狀態自動儲存。
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td title="背景顏色：灰色"><p title=""><strong><span>主要</span> </strong></p></td> 
-   <td title="背景顏色：灰色"><p title=""><strong><span>次要</span> </strong></p></td> 
-   <td title="背景顏色：灰色"><p title=""><strong><span>說明</span> </strong></p></td> 
-  </tr> 
-  <tr> 
-   <td title="背景顏色：藍色"><strong title="">已傳送</strong></td> 
-   <td title="背景顏色：藍色">[!UICONTROL Delivered]</td> 
-   <td title="背景顏色：藍色">已傳遞給收件者的電子郵件。</td> 
-  </tr> 
-  <tr> 
-   <td title="背景顏色：藍色"><br></td> 
-   <td title="背景顏色：藍色">[!UICONTROL Archived]</td> 
-   <td title="背景顏色：藍色">使用者為了停用電子郵件追蹤而封存的電子郵件。</td> 
-  </tr> 
-  <tr> 
-   <td title="背景顏色：灰色"><strong title="">待處理</strong></td> 
-   <td title="背景顏色：灰色">[!UICONTROL Scheduled]</td> 
-   <td title="背景顏色：灰色">目前排程要發出的電子郵件。 電子郵件一經傳送，就會移至傳送的資料夾。</td> 
-  </tr> 
-  <tr> 
-   <td title="背景顏色：灰色"><br></td> 
-   <td title="背景顏色：灰色">[!UICONTROL Draft]</td> 
-   <td title="背景顏色：灰色"><p>已儲存為草稿的電子郵件。<br><strong>附註：</strong>只有單一電子郵件可以儲存為草稿。 大量電子郵件（選取和傳送電子郵件及群組電子郵件）將不會儲存為草稿。</p></td> 
-  </tr> 
-  <tr> 
-   <td title="背景顏色：灰色"><br></td> 
-   <td title="背景顏色：灰色">[!UICONTROL In Progress]</td> 
-   <td title="背景顏色：灰色">這是電子郵件處於傳送動作時進入的中間狀態。 電子郵件應該只有幾分鐘在進行中。</td> 
-  </tr> 
-  <tr> 
-   <td title="背景顏色：藍色"><strong title="">未傳遞</strong></td> 
-   <td title="背景顏色：藍色">[!UICONTROL Failed]</td> 
-   <td title="背景顏色：藍色">傳送失敗的電子郵件。</td> 
-  </tr> 
-  <tr> 
-   <td title="背景顏色：藍色"><br></td> 
-   <td title="背景顏色：藍色">[!UICONTROL Bounced]</td> 
-   <td title="背景顏色：藍色"><p>收件者電子郵件伺服器拒絕的電子郵件。 <br><strong>注意：</strong>只有當您是舊版ToutApp使用者，並且有權存取MSC伺服器作為傳遞通道時，才會偵測到這個問題。</p></td> 
-  </tr> 
-  <tr> 
-   <td title="背景顏色：藍色"><br></td> 
-   <td title="背景顏色：藍色">[!UICONTROL Spam]</td> 
-   <td title="背景顏色：藍色"><p>收件者手動標籤為垃圾郵件的電子郵件。<br><strong>注意：</strong>只有當您是舊版ToutApp使用者，並且有權存取MSC伺服器作為傳遞通道時，才會偵測到這個問題。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td title="背景顏色：灰色"><p title=""><strong><span>主要</span> </strong></p></td>
+   <td title="背景顏色：灰色"><p title=""><strong><span>次要</span> </strong></p></td>
+   <td title="背景顏色：灰色"><p title=""><strong><span>說明</span> </strong></p></td>
+  </tr>
+  <tr>
+   <td title="背景顏色：藍色"><strong title="">已傳送</strong></td>
+   <td title="背景顏色：藍色">[!UICONTROL Delivered]</td>
+   <td title="背景顏色：藍色">已傳遞給收件者的電子郵件。</td>
+  </tr>
+  <tr>
+   <td title="背景顏色：藍色"><br></td>
+   <td title="背景顏色：藍色">[!UICONTROL Archived]</td>
+   <td title="背景顏色：藍色">使用者為了停用電子郵件追蹤而封存的電子郵件。</td>
+  </tr>
+  <tr>
+   <td title="背景顏色：灰色"><strong title="">待處理</strong></td>
+   <td title="背景顏色：灰色">[!UICONTROL Scheduled]</td>
+   <td title="背景顏色：灰色">目前排程要發出的電子郵件。 電子郵件一經傳送，就會移至傳送的資料夾。</td>
+  </tr>
+  <tr>
+   <td title="背景顏色：灰色"><br></td>
+   <td title="背景顏色：灰色">[!UICONTROL Draft]</td>
+   <td title="背景顏色：灰色"><p>已儲存為草稿的電子郵件。<br><strong>附註：</strong>只有單一電子郵件可以儲存為草稿。 大量電子郵件（選取和傳送電子郵件及群組電子郵件）將不會儲存為草稿。</p></td>
+  </tr>
+  <tr>
+   <td title="背景顏色：灰色"><br></td>
+   <td title="背景顏色：灰色">[!UICONTROL In Progress]</td>
+   <td title="背景顏色：灰色">這是電子郵件處於傳送動作時進入的中間狀態。 電子郵件應該只有幾分鐘在進行中。</td>
+  </tr>
+  <tr>
+   <td title="背景顏色：藍色"><strong title="">未傳遞</strong></td>
+   <td title="背景顏色：藍色">[!UICONTROL Failed]</td>
+   <td title="背景顏色：藍色">傳送失敗的電子郵件。</td>
+  </tr>
+  <tr>
+   <td title="背景顏色：藍色"><br></td>
+   <td title="背景顏色：藍色">[!UICONTROL Bounced]</td>
+   <td title="背景顏色：藍色"><p>收件者電子郵件伺服器拒絕的電子郵件。 <br><strong>注意：</strong>只有當您是舊版ToutApp使用者，並且有權存取MSC伺服器作為傳遞通道時，才會偵測到這個問題。</p></td>
+  </tr>
+  <tr>
+   <td title="背景顏色：藍色"><br></td>
+   <td title="背景顏色：藍色">[!UICONTROL Spam]</td>
+   <td title="背景顏色：藍色"><p>收件者手動標籤為垃圾郵件的電子郵件。<br><strong>注意：</strong>只有當您是舊版ToutApp使用者，並且有權存取MSC伺服器作為傳遞通道時，才會偵測到這個問題。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 管理任務 {#manage-tasks}

@@ -4,7 +4,7 @@ description: 大量傳送選項 — Marketo檔案 — 產品檔案
 title: 大量傳送選項
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -17,41 +17,41 @@ ht-degree: 0%
 
 **群組電子郵件與選取和傳送**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><p><span>傳送</span><span>型別</span> </p></th> 
-   <th><p><span>最大數量</span><span>電子郵件</span><span>郵件</span> </p></th> 
-   <th><p><span>已起始</span><span>傳送者</span></p></th> 
-   <th><p><span>大量</span><span>編輯電子郵件</span> </p></th> 
-   <th><p><span>編輯</span><span>每個電子郵件</span><span>唯一</span> </p></th> 
-   <th><p><span>範本與</span><span>動態欄位支援</span> </p></th> 
-  </tr> 
-  <tr> 
-   <td><p><span>群組電子郵件</span> </p></td> 
-   <td><p><span>1,000</span> </p></td> 
-   <td><p><span>選取群組並按一下</span><span> </span><span>「群組動作」按鈕</span><span>，或在[收件者]欄位中輸入群組名稱。</span> </p></td> 
-   <td><p><span>是</span> </p></td> 
-   <td><p><span>否</span> </p></td> 
-   <td><p><span>是</span> </p></td> 
-  </tr> 
-  <tr> 
-   <td><p><span>選取</span><span>和</span><span>傳送</span> </p></td> 
-   <td><p><span>200</span> </p></td> 
-   <td><p><span>在格線中選取人員，然後按一下動作列中的[選取的電子郵件]按鈕</span><span>，o</span><span>r將收件者輸入大量電子郵件</span><span>側欄</span><span>。</span></p></td> 
-   <td><p><span>是</span> </p></td> 
-   <td><p><span>是</span> </p></td> 
-   <td><p><span>是</span> </p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><p><span>傳送</span><span>型別</span> </p></th>
+   <th><p><span>最大數量</span><span>電子郵件</span><span>郵件</span> </p></th>
+   <th><p><span>已起始</span><span>傳送者</span></p></th>
+   <th><p><span>大量</span><span>編輯電子郵件</span> </p></th>
+   <th><p><span>編輯</span><span>每個電子郵件</span><span>唯一</span> </p></th>
+   <th><p><span>範本與</span><span>動態欄位支援</span> </p></th>
+  </tr>
+  <tr>
+   <td><p><span>群組電子郵件</span> </p></td>
+   <td><p><span>1,000</span> </p></td>
+   <td><p><span>選取群組並按一下</span><span> </span><span>「群組動作」按鈕</span><span>，或在[收件者]欄位中輸入群組名稱。</span> </p></td>
+   <td><p><span>是</span> </p></td>
+   <td><p><span>否</span> </p></td>
+   <td><p><span>是</span> </p></td>
+  </tr>
+  <tr>
+   <td><p><span>選取</span><span>和</span><span>傳送</span> </p></td>
+   <td><p><span>200</span> </p></td>
+   <td><p><span>在格線中選取人員，然後按一下動作列中的[選取的電子郵件]按鈕</span><span>，o</span><span>r將收件者輸入大量電子郵件</span><span>側欄</span><span>。</span></p></td>
+   <td><p><span>是</span> </p></td>
+   <td><p><span>是</span> </p></td>
+   <td><p><span>是</span> </p></td>
+  </tr>
+ </tbody>
 </table>
 
 **使用群組電子郵件**

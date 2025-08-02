@@ -2,7 +2,7 @@
 description: 連線到Outlook - Marketo檔案 — 產品檔案
 title: 連線到Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -41,19 +41,19 @@ ht-degree: 0%
 
    ![](assets/connect-to-outlook-5.png)
 
-1. 選取您正在使用的Outlook版本，然後按一下[下一步] **&#x200B;**。 在此範例中，我們選擇Outlook Online。
+1. 選取您正在使用的Outlook版本，然後按一下[下一步] ****。 在此範例中，我們選擇Outlook Online。
 
    ![](assets/connect-to-outlook-6.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>也稱為Exchange Online</td> 
+      <td><strong>Outlook Online</strong></td>
+      <td>也稱為Exchange Online</td>
      </tr>
      <tr>
-      <td><strong>Exchange On-premise</strong></td> 
-      <td>包括Exchange 2013和2016</td> 
+      <td><strong>Exchange On-premise</strong></td>
+      <td>包括Exchange 2013和2016</td>
      </tr>
     </tbody>
    </table>
@@ -62,11 +62,11 @@ ht-degree: 0%
    >
    >Marketo目前不支援Exchange混合式帳戶。
 
-1. 按一下&#x200B;**確定**。
+1. 按一下&#x200B;**「確定」**。
 
    ![](assets/connect-to-outlook-7.png)
 
-1. 如果您尚未登入Outlook，請輸入您的登入資訊，然後按一下[下一步] **&#x200B;**。 如果是，請選擇您要連線的帳戶，然後按一下[下一步] **&#x200B;**。 在此範例中，我們已登入。
+1. 如果您尚未登入Outlook，請輸入您的登入資訊，然後按一下[下一步] ****。 如果是，請選擇您要連線的帳戶，然後按一下[下一步] ****。 在此範例中，我們已登入。
 
    ![](assets/connect-to-outlook-8.png)
 
@@ -104,19 +104,19 @@ ht-degree: 0%
 
    ![](assets/connect-to-outlook-14.png)
 
-1. 選取您正在使用的Outlook版本，然後按一下[下一步] **&#x200B;**。 在此範例中，我們選擇Exchange On-premise。
+1. 選取您正在使用的Outlook版本，然後按一下[下一步] ****。 在此範例中，我們選擇Exchange On-premise。
 
    ![](assets/connect-to-outlook-15.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>也稱為Exchange Online</td> 
+      <td><strong>Outlook Online</strong></td>
+      <td>也稱為Exchange Online</td>
      </tr>
      <tr>
-      <td><strong>Exchange On-premise</strong></td> 
-      <td>包括Exchange 2013和2016</td> 
+      <td><strong>Exchange On-premise</strong></td>
+      <td>包括Exchange 2013和2016</td>
      </tr>
     </tbody>
    </table>
@@ -145,8 +145,8 @@ ht-degree: 0%
 
 根據您的IT團隊偏好設定和目前設定，最好諮詢他們如何授予存取權。 以下是一些有助於引導交談的文章。
 
-* 全域同意：適用於Microsoft 365管理員的[整合式應用程式和Azure AD](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
-* 使用者同意： [設定使用者如何同意應用程式](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&amp;pivots=portal){target="_blank"}
-* 管理同意： [設定管理同意工作流程](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
-* 開啟或關閉使用者同意： [在Microsoft 365中管理使用者對應用程式的同意](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
+* 全域同意： [適用於Microsoft 365管理員的整合式應用程式和Azure AD](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
+* 使用者同意： [設定使用者如何同意應用程式](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}
+* 管理同意： [設定管理同意工作流程](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
+* 開啟或關閉使用者同意： [在Microsoft 365中管理使用者對應用程式的同意](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
 * 使用Microsoft Defender進行管理： [管理OAuth應用程式](https://learn.microsoft.com/en-us/defender-cloud-apps/manage-app-permissions){target="_blank"}

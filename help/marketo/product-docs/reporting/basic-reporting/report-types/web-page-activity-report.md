@@ -4,7 +4,7 @@ description: 網頁活動報表 — Marketo檔案 — 產品檔案
 title: 網頁活動報表
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 1%
@@ -38,46 +38,46 @@ ht-degree: 1%
    >
    >若要找出造訪您網站次數最多的訪客，請在[頁面檢視次數](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}欄位上&#x200B;_排序您的報表_，然後選擇「遞減排序」。
 
-   [Marketo會將匿名](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}網站訪客新增至您的資料庫，您可以選擇在此報告中顯示這些訪客。 即使是不記名的，也能提供豐富的資訊。\
+   [Marketo會將匿名](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}網站訪客新增至您的資料庫，您可以選擇在此報告中顯示這些訪客。 即使是不記名的，也能提供豐富的資訊。
    您可以為網頁活動報告選取[欄：](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}
 
-<table> 
- <thead> 
-  <tr> 
-   <th>欄</th> 
-   <th>說明</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>個人</td> 
+<table>
+ <thead>
+  <tr>
+   <th>欄</th>
+   <th>說明</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>個人</td>
    <td>訪客的名稱、職稱和公司。<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">按一下</a></strong>以檢視造訪的頁面。</td>
-  </tr> 
-  <tr> 
-   <td>首次/上次造訪（時區）</td> 
-   <td>此公司任何人首次/上次造訪的日期和時間。</td> 
-  </tr> 
-  <tr> 
-   <td>頁面檢視</td> 
+  </tr>
+  <tr>
+   <td>首次/上次造訪（時區）</td>
+   <td>此公司任何人首次/上次造訪的日期和時間。</td>
+  </tr>
+  <tr>
+   <td>頁面檢視</td>
    <td>此訪客載入的頁數。</td>
-  </tr> 
-  <tr> 
-   <td>HTTP查閱者</td> 
-   <td>包含訪客瀏覽至您頁面的連結之頁面的URL。</td> 
-  </tr> 
-  <tr> 
-   <td>登入頁面</td> 
-   <td>該人員造訪的第一個頁面 </td> 
-  </tr> 
-  <tr> 
-   <td>推斷的公司或ISP</td> 
-   <td>從訪客的IP位址推斷的公司。 <strong>名稱以粗體顯示</strong>表示這是公司，而非ISP。 </td> 
-  </tr> 
-  <tr> 
-   <td>推斷的國家、州/地區和城市</td> 
-   <td>從訪客的IP位址推斷出的訪客地理位置。</td> 
-  </tr> 
- </tbody> 
+  </tr>
+  <tr>
+   <td>HTTP查閱者</td>
+   <td>包含訪客瀏覽至您頁面的連結之頁面的URL。</td>
+  </tr>
+  <tr>
+   <td>登入頁面</td>
+   <td>該人員造訪的第一個頁面 </td>
+  </tr>
+  <tr>
+   <td>推斷的公司或ISP</td>
+   <td>從訪客的IP位址推斷的公司。 <strong>名稱以粗體顯示</strong>表示這是公司，而非ISP。 </td>
+  </tr>
+  <tr>
+   <td>推斷的國家、州/地區和城市</td>
+   <td>從訪客的IP位址推斷出的訪客地理位置。</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

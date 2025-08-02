@@ -3,10 +3,10 @@ description: 問題產生 — Marketo檔案 — 產品檔案
 title: 問題產生
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: a711da0fe04e967bfc525be4f3df59d978021592
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 0%
+source-wordcount: '292'
+ht-degree: 2%
 
 ---
 
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 ## 產生問題 {#generate-questions}
 
-1. 在Generative AI底下，按一下&#x200B;**[!UICONTROL 輔助回應]**。
+1. 在Generative AI底下，按一下&#x200B;**[!UICONTROL Assisted responses]**。
 
    ![](assets/question-generation-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 產生問題]**。
+1. 按一下「**[!UICONTROL Generate questions]**」。
 
    ![](assets/question-generation-2.png)
 
-1. 為工作命名，並輸入來源URL （最多10個），以擷取所有內容。 輸入想要的主題/關鍵字，然後在鍵盤上按Enter鍵。 完成時，按一下&#x200B;**[!UICONTROL 產生]**。
+1. 為工作命名，並輸入來源URL （最多10個），以擷取所有內容。 輸入想要的主題/關鍵字，然後在鍵盤上按Enter鍵。 完成時，按一下&#x200B;**[!UICONTROL Generate]**。
 
    ![](assets/question-generation-3.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
    >
    >網站/頁面必須是公開的（亦即不隱藏在登入後面），才能刮取其資訊。
 
-1. 根據您的內容，產生問題和回應最多可能需要30分鐘。 按一下&#x200B;**[!UICONTROL 確定]**。
+1. 根據您的內容，產生問題和回應最多可能需要30分鐘。 按一下「**[!UICONTROL OK]**」。
 
    ![](assets/question-generation-4.png)
 
@@ -81,7 +81,7 @@ ht-degree: 0%
   <tr>
     <th>北美</th>
     <th>歐洲</th>
-    <th>APAC</th>
+    <th>亞太地區</th>
   </tr>
 </thead>
 <tbody>

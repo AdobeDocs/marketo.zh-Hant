@@ -4,7 +4,7 @@ description: 與Adobe Analytics整合 — Marketo檔案 — 產品檔案
 title: 整合Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 1. 傳出頻道
 1. 內容
-1. 重新鎖定
+1. 重新鎖定目標對象
 
 ## 管道報表 {#channel-report}
 
@@ -64,8 +64,8 @@ RTP儀表板可協助您根據垂直和RTP區段來瞭解訪客的劃分情形�
 
 1. 前往您AA帳戶中的&#x200B;**[!UICONTROL Admin Tools]**。
 1. 選取要與整合搭配使用的&#x200B;**[!UICONTROL Report Suite]**。
-1. 在&#x200B;**[!UICONTROL Edit Settings]**&#x200B;底下，移至&#x200B;**[!UICONTROL Conversion]**&#x200B;並選取&#x200B;**[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**。\
-   選取[轉換變數](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar)數字（我們建議）：
+1. 在&#x200B;**[!UICONTROL Edit Settings]**&#x200B;底下，移至&#x200B;**[!UICONTROL Conversion]**&#x200B;並選取&#x200B;**[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**。
+選取[轉換變數](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar)數字（我們建議）：
 
    1. 適用於產業自訂轉換的Evar # 20
    1. 適用於組織自訂轉換的Evar # 21
@@ -220,7 +220,7 @@ AA中的自訂報告和儀表板範例包括：
 
    ![](assets/sitecatalyst1-1.png)
 
-1. 搜尋曝光數，以檢視代表行銷活動曝光數的區段和行銷活動名稱。\
+1. 搜尋曝光數，以檢視代表行銷活動曝光數的區段和行銷活動名稱。
    ![](assets/sitecatalyst1.png)
 
 1. 搜尋轉換，以檢視代表促銷活動點按次數的區段和促銷活動名稱。

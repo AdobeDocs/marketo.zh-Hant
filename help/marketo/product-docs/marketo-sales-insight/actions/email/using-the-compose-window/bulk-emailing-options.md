@@ -3,7 +3,7 @@ description: 大量電子郵件選項 — Marketo檔案 — 產品檔案
 title: 大量電子郵件選項
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 3%
@@ -16,41 +16,41 @@ ht-degree: 3%
 
 **群組電子郵件與選取和傳送**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>傳送型別</th> 
-   <th>最大電子郵件數量</th> 
-   <th>起始傳送者</th> 
-   <th>大量編輯電子郵件</th> 
-   <th>唯一編輯每封電子郵件</th> 
-   <th>範本和動態欄位支援</th> 
-  </tr> 
-  <tr> 
-   <td>群組電子郵件</td> 
-   <td>1,000</td> 
-   <td>選取群組並按一下"[!UICONTROL Group Actions]"按鈕，或在[收件者]欄位中輸入群組名稱。</td> 
-   <td>是</td> 
-   <td>無</td> 
-   <td>是</td> 
-  </tr> 
-  <tr> 
-   <td>選取並傳送</td> 
-   <td>200</td> 
-   <td>在格線中選取人員，然後按一下動作列中的「[!UICONTROL Email Selected]」按鈕，或在大量電子郵件側邊欄中輸入收件者。</td> 
-   <td>是</td> 
-   <td>是</td> 
-   <td>是</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>傳送型別</th>
+   <th>最大電子郵件數量</th>
+   <th>起始傳送者</th>
+   <th>大量編輯電子郵件</th>
+   <th>唯一編輯每封電子郵件</th>
+   <th>範本和動態欄位支援</th>
+  </tr>
+  <tr>
+   <td>群組電子郵件</td>
+   <td>1,000</td>
+   <td>選取群組並按一下"[!UICONTROL Group Actions]"按鈕，或在[收件者]欄位中輸入群組名稱。</td>
+   <td>是</td>
+   <td>無</td>
+   <td>是</td>
+  </tr>
+  <tr>
+   <td>選取並傳送</td>
+   <td>200</td>
+   <td>在格線中選取人員，然後按一下動作列中的「[!UICONTROL Email Selected]」按鈕，或在大量電子郵件側邊欄中輸入收件者。</td>
+   <td>是</td>
+   <td>是</td>
+   <td>是</td>
+  </tr>
+ </tbody>
 </table>
 
 **使用群組電子郵件**

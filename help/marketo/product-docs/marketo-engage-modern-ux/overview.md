@@ -1,16 +1,16 @@
 ---
-description: Marketo Engage現代UX概觀 — Marketo檔案 — 產品檔案
-title: Marketo Engage Modern UX概述
+description: Marketo Engage Modern UX概觀 — Marketo檔案 — 產品檔案
+title: Marketo Engage Modern UX概觀
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 1%
 
 ---
 
-# Marketo Engage Modern UX概述 {#overview}
+# Marketo Engage Modern UX概觀 {#overview}
 
 歡迎使用Adobe Marketo Engage Modern UX （使用者體驗），此更新介面可增強易用性，並帶來整個Marketo Engage平台的新外觀。
 
@@ -52,114 +52,114 @@ Modern UX中有許多新功能，這些功能都旨在大幅改善您的行銷�
 >
 >在樹狀結構中執行搜尋只會顯示前250個結果。 如果在搜尋後找不到您的資產，請使用[全域搜尋](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md)功能。
 
-**Marketo Classic與新Marketo**&#x200B;的比較
+**Marketo Classic與新Marketo的比較**
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <th>功能</th> 
-   <th>Classic</th> 
-   <th>新一代</th> 
+   <th>功能</th>
+   <th>Classic</th>
+   <th>新一代</th>
   </tr>
   <tr>
-   <td>同時套用多個篩選器</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>同時套用多個篩選器</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>合併草稿與核准樹節點</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>合併草稿與核准樹節點</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>在程式資料夾中建立本機資產</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>在程式資料夾中建立本機資產</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>按兩下以展開/收合樹狀節點</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>按兩下以展開/收合樹狀節點</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>從樹狀結構拖放至參與資料流</td> 
-   <td><strong>X</strong></td> 
-   <td></td> 
+   <td>從樹狀結構拖放至參與資料流</td>
+   <td><strong>X</strong></td>
+   <td></td>
   </tr>
   <tr>
-   <td>在樹狀結構中拖放</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>在樹狀結構中拖放</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>依資產型別和狀態篩選</td> 
-   <td><i>部分</i></td> 
-   <td><strong>X</strong></td>  
+   <td>依資產型別和狀態篩選</td>
+   <td><i>部分</i></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>反白顯示背景以顯示焦點狀態的階層</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>反白顯示背景以顯示焦點狀態的階層</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>搜尋期間反白關鍵字</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>搜尋期間反白關鍵字</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>水準捲動</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>水準捲動</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>樹狀結構節點的暫留狀態</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>樹狀結構節點的暫留狀態</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>快速摺疊整個樹狀結構</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>快速摺疊整個樹狀結構</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>快速摺疊至根節點</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>快速摺疊至根節點</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>即時更新</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>即時更新</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>可調整大小的樹</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>可調整大小的樹</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>在封存的資料夾中搜尋</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>在封存的資料夾中搜尋</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>從樹狀結構搜尋輸入全域搜尋時儲存的搜尋字串</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>從樹狀結構搜尋輸入全域搜尋時儲存的搜尋字串</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>在單一樹狀結構中顯示所有工作區</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>在單一樹狀結構中顯示所有工作區</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>狀態徽章和工具提示</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>狀態徽章和工具提示</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>「Word開頭為」搜尋邏輯</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>「Word開頭為」搜尋邏輯</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
  </tbody>
 </table>
@@ -170,24 +170,24 @@ Modern UX中有許多新功能，這些功能都旨在大幅改善您的行銷�
 
 ![](assets/overview-7.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>沒有更多超級球下拉式清單</td> 
+   <td>1</td>
+   <td>沒有更多超級球下拉式清單</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>列出所有先前的超級球專案</td> 
+   <td>2</td>
+   <td>列出所有先前的超級球專案</td>
   </tr>
   <tr>
   <tr>
-   <td>3</td> 
-   <td>如果您有多個訂閱，請按一下您的子名稱以輕鬆切換到另一個訂閱</td> 
+   <td>3</td>
+   <td>如果您有多個訂閱，請按一下您的子名稱以輕鬆切換到另一個訂閱</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>全域搜尋 — 您現在可以從這裡搜尋整個執行個體</td> 
+   <td>4</td>
+   <td>全域搜尋 — 您現在可以從這裡搜尋整個執行個體</td>
   </tr>
  </tbody>
 </table>

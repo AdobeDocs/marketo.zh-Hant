@@ -4,7 +4,7 @@ description: 使用收入模型詳細目錄階段 — Marketo檔案 — 產品�
 title: 使用收入模型存貨階段
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%

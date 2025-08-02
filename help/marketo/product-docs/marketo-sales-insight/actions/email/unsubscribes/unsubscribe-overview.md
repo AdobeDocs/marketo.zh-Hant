@@ -3,7 +3,7 @@ description: 取消訂閱概述 — Marketo檔案 — 產品檔案
 title: 取消訂閱總覽
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -52,25 +52,25 @@ ht-degree: 0%
 
 ![](assets/unsubscribe-overview-5.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>[!UICONTROL Date]</strong></td> 
-   <td><p>顯示取消訂閱/重新訂閱發生的日期。</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Details]</strong></td> 
-   <td><p>重新訂閱： [!DNL Sales Connect]管理員已手動從連絡人記錄中移除取消訂閱。 它也可能顯示與聯絡人取消訂閱原因相關的一些細節。</p><p>取消訂閱：連絡人已取消訂閱。</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Source]</strong></td> 
-   <td><p>[!DNL Salesforce] 同步：同步處理從[!DNL Salesforce]擷取取消訂閱。</p><p>手動：使用者按一下取消訂閱按鈕以選擇退出。</p><p>點按連結：電子郵件收件者點按取消訂閱連結。</p><p>「管理員名稱」：當動作要重新訂閱連絡人時，會顯示管理員名稱。 這可讓使用者知道誰移除取消訂閱。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>[!UICONTROL Date]</strong></td>
+   <td><p>顯示取消訂閱/重新訂閱發生的日期。</p></td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Details]</strong></td>
+   <td><p>重新訂閱： [!DNL Sales Connect]管理員已手動從連絡人記錄中移除取消訂閱。 它也可能顯示與聯絡人取消訂閱原因相關的一些細節。</p><p>取消訂閱：連絡人已取消訂閱。</p></td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Source]</strong></td>
+   <td><p>[!DNL Salesforce] 同步：同步處理從[!DNL Salesforce]擷取取消訂閱。</p><p>手動：使用者按一下取消訂閱按鈕以選擇退出。</p><p>點按連結：電子郵件收件者點按取消訂閱連結。</p><p>「管理員名稱」：當動作要重新訂閱連絡人時，會顯示管理員名稱。 這可讓使用者知道誰移除取消訂閱。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

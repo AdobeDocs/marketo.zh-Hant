@@ -4,10 +4,10 @@ description: 刪除Workspace - Marketo檔案 — 產品檔案
 title: 刪除Workspace
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 feature: Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 0%
+source-wordcount: '57'
+ht-degree: 1%
 
 ---
 
@@ -21,18 +21,18 @@ ht-degree: 0%
 >
 >您無法刪除Marketo中的預設工作區。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/delete-a-workspace-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 工作區與分割區]**。
+1. 按一下「**[!UICONTROL Workspaces & Partitions]**」。
 
    ![](assets/delete-a-workspace-2.png)
 
-1. 選取工作區並按一下&#x200B;**[!UICONTROL 刪除Workspace]**。
+1. 選取工作區並按一下&#x200B;**[!UICONTROL Delete Workspace]**。
 
    ![](assets/delete-a-workspace-3.png)
 
-1. 確認您要刪除的資產數目（此數目列在「[!UICONTROL 資產總計]」旁），選取「**[!UICONTROL 無法復原]**」核取方塊，然後按一下「**[!UICONTROL 刪除]**」。
+1. 確認您要刪除的資產數目（在&quot;[!UICONTROL total assets]&quot;旁為您列出），選取&#x200B;**[!UICONTROL Cannot Undo]**&#x200B;核取方塊，然後按一下&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/delete-a-workspace-4.png)

@@ -4,7 +4,7 @@ description: 瞭解如何在Marketo Professional Edition中設定Salesforce Sale
 title: 在Marketo Professional Edition中設定Salesforce Sales Insight
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '672'
 ht-degree: 1%

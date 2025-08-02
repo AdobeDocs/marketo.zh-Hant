@@ -4,22 +4,22 @@ description: 定義Smart Campaign的智慧清單 | 批次 — Marketo檔案 — 
 title: 定義Smart Campaign的智慧清單 | 批次
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: c3aa1a29b084cb1c1add9d22cdbfc23bdcf7512b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
 
 # 定義Smart Campaign的智慧清單 | 批次 {#define-smart-list-for-smart-campaign-batch}
 
-智慧列示是整個Marketo Engage用來定義「誰」（哪些人員）的機制，無論是報表、清單或智慧行銷活動皆然。 以下說明如何定義批次行銷活動的智慧清單。
+智慧列示是整個Marketo Engage中定義「誰」（哪些人員）要包含的機制，無論是報表、清單或智慧行銷活動。 以下說明如何定義批次行銷活動的智慧清單。
 
 >[!CAUTION]
 >
 >對作用中行銷活動進行智慧清單或流量步驟編輯可能會破壞其功能。 如果您選擇這麼做，請謹慎操作。
 
-1. 選擇智慧行銷活動，然後按一下&#x200B;**[!UICONTROL 智慧清單]**。
+1. 選擇Smart Campaign，然後按一下&#x200B;**[!UICONTROL Smart List]**。
 
    ![](assets/define-smart-list-for-smart-campaign-batch-1.png)
 

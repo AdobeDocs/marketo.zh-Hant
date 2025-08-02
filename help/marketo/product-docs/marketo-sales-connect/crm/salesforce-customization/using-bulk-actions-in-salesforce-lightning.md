@@ -4,7 +4,7 @@ description: 在Salesforce Lightning中使用大量動作 — Marketo檔案 — 
 title: 在Salesforce Lightning中使用大量動作
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 0%
@@ -39,10 +39,10 @@ ht-degree: 0%
 
 1. 將會出現MSC電子郵件。 它包含下列功能：
 
-   a. 「[!UICONTROL To]」欄位顯示「所有回條」 — 這對應於您在「潛在客戶清單檢視表」中選擇的潛在客戶清單\
-   b.此清單會顯示在名為「大量撰寫」的左側面板上 — 您可以在此處新增/移除收件者\
-   c.您可以選擇範本或建立您自己的電子郵件\
-   d.您可以立即傳送電子郵件，或排程在稍後傳送
+   a. 「[!UICONTROL To]」欄位顯示「所有回條」 — 這對應於您在「潛在客戶清單檢視表」中選擇的潛在客戶清單
+b.此清單會顯示在名為「大量撰寫」的左側面板上 — 您可以在此處新增/移除收件者
+c.您可以選擇範本或建立您自己的電子郵件
+d.您可以立即傳送電子郵件，或排程在稍後傳送
 
    ![](assets/three-5.png)
 

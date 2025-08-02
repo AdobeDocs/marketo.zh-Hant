@@ -4,7 +4,7 @@ description: 步驟3之2 — 建立Marketo的Salesforce使用者(Enterprise/Unli
 title: 步驟3之2 — 建立Marketo的Salesforce使用者(Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 2%
@@ -121,25 +121,25 @@ ht-degree: 2%
 
 1. 在您停用完所有不需要的欄位後，必須檢查&#x200B;**[!UICONTROL Read Access and Edit Access]**&#x200B;下列物件欄位。 完成時，按一下「**[!UICONTROL Save]**」。
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>物件</th> 
-   <th>欄位</th> 
-  </tr> 
-  <tr> 
-   <td>帳戶</td> 
-   <td>型別欄位</td> 
-  </tr> 
-  <tr> 
-   <td>活動</td> 
-   <td>所有欄位</td> 
-  </tr> 
-  <tr> 
-   <td>任務</td> 
-   <td>所有欄位</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>物件</th>
+   <th>欄位</th>
+  </tr>
+  <tr>
+   <td>帳戶</td>
+   <td>型別欄位</td>
+  </tr>
+  <tr>
+   <td>活動</td>
+   <td>所有欄位</td>
+  </tr>
+  <tr>
+   <td>任務</td>
+   <td>所有欄位</td>
+  </tr>
+ </tbody>
 </table>
 
 ![](assets/sfdc-check-the-boxes.png)

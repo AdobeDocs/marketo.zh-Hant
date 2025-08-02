@@ -3,7 +3,7 @@ description: 代理程式設定 — Marketo檔案 — 產品檔案
 title: 專員設定
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 1%
@@ -63,17 +63,17 @@ ht-degree: 1%
 
 ![](assets/agent-settings-4.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>會議持續時間</b></td>
    <td>決定訪客在可用的會議位置中看到的時間長度。</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>會議之間的緩衝時間</b></td>
    <td>您設定為會議後緩衝的時間。 如果您設定30分鐘，則沒有人能夠在您的行事曆上排定的會議結束30分鐘之後與您預約會議。</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 >[!TIP]

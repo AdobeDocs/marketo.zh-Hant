@@ -3,7 +3,7 @@ description: Adobe IMS使用者移轉疑難排解指南 — Marketo檔案 — �
 title: Adobe IMS使用者移轉疑難排解指南
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: e95748ed9a26f5454c342c6f6a9c29ec687c7cad
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '877'
 ht-degree: 0%
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 _如果使用者需要移轉_ — 電子郵件地址必須在Marketo Engage中更新，以符合Adobe安全性原則並復原。 Marketo管理員，接著從移轉控制檯為此使用者重新執行使用者移轉。
 
-_如果使用者&#x200B;**不**&#x200B;需要移轉_ - Marketo Engage管理員在移轉主控台中略過該使用者。 「移轉完成」按鈕會在移轉或略過以說明所有使用者時出現。 按一下按鈕，結束使用者移轉程式。
+_如果使用者&#x200B;**不**需要移轉_ - Marketo Engage管理員在移轉主控台中略過該使用者。 「移轉完成」按鈕會在移轉或略過以說明所有使用者時出現。 按一下按鈕，結束使用者移轉程式。
 
 ### 使用者不在目錄中 {#user-not-in-directory}
 
@@ -44,7 +44,7 @@ _如果使用者&#x200B;**不**&#x200B;需要移轉_ - Marketo Engage管理員�
 
 _如果使用者需要移轉_ — 系統管理員必須將該使用者新增到Active Directory，並擁有適當的許可權。 Marketo Engage管理員，接著從移轉控制檯為此使用者重新執行使用者移轉。
 
-_如果使用者&#x200B;**不**&#x200B;需要移轉_ - Marketo Engage管理員在移轉主控台中略過該使用者。 「移轉完成」按鈕會在移轉或略過以說明所有使用者時出現。 按一下按鈕，結束使用者移轉程式。
+_如果使用者&#x200B;**不**需要移轉_ - Marketo Engage管理員在移轉主控台中略過該使用者。 「移轉完成」按鈕會在移轉或略過以說明所有使用者時出現。 按一下按鈕，結束使用者移轉程式。
 
 ### 非作用中的使用者 {#inactive-user}
 
@@ -54,7 +54,7 @@ _如果使用者&#x200B;**不**&#x200B;需要移轉_ - Marketo Engage管理員�
 
 _如果需要移轉使用者_ — 系統管理員必須還原使用者的狀態和適當的許可權。 Marketo Engage管理員，接著從移轉控制檯為此使用者重新執行使用者移轉。
 
-_如果使用者&#x200B;**不**&#x200B;需要移轉_ - Marketo Engage管理員在移轉主控台中略過該使用者。 「移轉完成」按鈕會在移轉或略過以說明所有使用者時出現。 按一下按鈕，結束使用者移轉程式。
+_如果使用者&#x200B;**不**需要移轉_ - Marketo Engage管理員在移轉主控台中略過該使用者。 「移轉完成」按鈕會在移轉或略過以說明所有使用者時出現。 按一下按鈕，結束使用者移轉程式。
 
 ### 無效的網域 {#invalid-domain}
 
@@ -62,11 +62,11 @@ _如果使用者&#x200B;**不**&#x200B;需要移轉_ - Marketo Engage管理員�
 
 **解析度**：
 
-_如果使用者需要移轉_ （而且移轉的組織已啟用網域強制執行） — 必須在Marketo Engage中更新電子郵件地址，以符合網域強制執行(DE)原則。 或者，系統管理員可以[將網域](https://helpx.adobe.com/tw/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"}移至另一個已停用的網域強制執行(DE)目錄，或[建立不在DE原則下的新目錄](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。 Marketo Engage管理員，接著從移轉控制檯為此使用者重新執行使用者移轉。
+_如果使用者需要移轉_ （而且移轉的組織已啟用網域強制執行） — 必須在Marketo Engage中更新電子郵件地址，以符合網域強制執行(DE)原則。 或者，系統管理員可以[將網域](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"}移至另一個已停用的網域強制執行(DE)目錄，或[建立不在DE原則下的新目錄](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。 Marketo Engage管理員，接著從移轉控制檯為此使用者重新執行使用者移轉。
 
 _如果使用者需要移轉_ （且已在其他組織啟用網域強制執行） — 已宣告網域的組織的系統管理員需要將使用者的電子郵件地址新增至例外清單。 Marketo Engage管理員，接著從移轉控制檯為此使用者重新執行使用者移轉。
 
-_如果使用者&#x200B;**不**&#x200B;需要移轉_ - Marketo Engage管理員在移轉主控台中略過該使用者。 「移轉完成」按鈕會在移轉或略過以說明所有使用者時出現。 按一下按鈕，結束使用者移轉程式。
+_如果使用者&#x200B;**不**需要移轉_ - Marketo Engage管理員在移轉主控台中略過該使用者。 「移轉完成」按鈕會在移轉或略過以說明所有使用者時出現。 按一下按鈕，結束使用者移轉程式。
 
 ### Type2E失敗 {#type2e-failure}
 

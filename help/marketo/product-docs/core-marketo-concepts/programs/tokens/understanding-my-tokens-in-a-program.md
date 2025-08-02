@@ -4,7 +4,7 @@ description: 瞭解程式中的我的Token - Marketo檔案 — 產品檔案
 title: 瞭解程式中的我的Token
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 0200af9b8ce180e15c6a45c5438b8f6f1c4af588
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 1%
@@ -28,47 +28,47 @@ ht-degree: 1%
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
 
-<table> 
- <thead> 
-  <tr> 
-   <th>權杖型別</th> 
-   <th>說明</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>行事曆檔案 <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>使用此Token將<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">行事曆事件檔案(.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a>新增至您的電子郵件和登入頁面。</td> 
-  </tr> 
-  <tr> 
-   <td><p>日期 <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
-   <td>此Token包含日期值。 日期會顯示為年 — 月 — 日（例如，2016-05-23）。</td> 
-  </tr> 
-  <tr> 
-   <td>電子郵件指令碼 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>使用此代號在您的電子郵件中執行Velocity指令碼。 在<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting" title="關注連結" rel="nofollow">此處</a>瞭解更多資訊。 </td> 
-  </tr> 
-  <tr> 
-   <td>數字<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
-   <td>任何整數。 甚至可以是負數。</td> 
-  </tr> 
-  <tr> 
-   <td>RTF文字 <img alt="--" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>這是HTML。 在電子郵件和登入頁面中使用。</td> 
-  </tr> 
-  <tr> 
-   <td>分數 <img alt="--" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>在<a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">變更分數流程步驟</a>中使用此權杖。 </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">SFDC行銷活動 <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td> 
-   <td colspan="1">使用此代號，可將成為Marketo計劃一部分的潛在客戶也新增至新增的任何其他SFDC Campaign。</td> 
-  </tr> 
-  <tr> 
-   <td>文字 <img alt="--" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>只是一些文字。 當HTML過度使用它時。 文字權杖的大小限製為524,288個字元(UTF-8)或2 MB。</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>權杖型別</th>
+   <th>說明</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>行事曆檔案 <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>使用此Token將<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">行事曆事件檔案(.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a>新增至您的電子郵件和登入頁面。</td>
+  </tr>
+  <tr>
+   <td><p>日期 <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td>
+   <td>此Token包含日期值。 日期會顯示為年 — 月 — 日（例如，2016-05-23）。</td>
+  </tr>
+  <tr>
+   <td>電子郵件指令碼 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>使用此代號在您的電子郵件中執行Velocity指令碼。 在<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="關注連結" rel="nofollow">此處</a>瞭解更多資訊。 </td>
+  </tr>
+  <tr>
+   <td>數字<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>
+   <td>任何整數。 甚至可以是負數。</td>
+  </tr>
+  <tr>
+   <td>RTF文字 <img alt="--" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>這是HTML。 在電子郵件和登入頁面中使用。</td>
+  </tr>
+  <tr>
+   <td>分數 <img alt="--" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>在<a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">變更分數流程步驟</a>中使用此權杖。 </td>
+  </tr>
+  <tr>
+   <td colspan="1">SFDC行銷活動 <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td>
+   <td colspan="1">使用此代號，可將成為Marketo計劃一部分的潛在客戶也新增至新增的任何其他SFDC Campaign。</td>
+  </tr>
+  <tr>
+   <td>文字 <img alt="--" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>只是一些文字。 當HTML過度使用它時。 文字權杖的大小限製為524,288個字元(UTF-8)或2 MB。</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!CAUTION]

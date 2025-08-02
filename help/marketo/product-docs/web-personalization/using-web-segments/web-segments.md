@@ -4,7 +4,7 @@ description: 網頁區段 — Marketo檔案 — 產品檔案
 title: 網頁區段
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1980'
 ht-degree: 0%
@@ -23,35 +23,35 @@ ht-degree: 0%
 
 **圖表：**&#x200B;區段頁面會根據區段的訪客數（y軸）和區段名稱（x軸）來顯示選取區段的長條圖。
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">名稱</th> 
-   <th colspan="1" rowspan="1">說明</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>名稱</strong></td> 
-   <td colspan="1" rowspan="1">區段的標題</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>符合</strong></p></td> 
-   <td colspan="1" rowspan="1">符合區段自訂、定義條件的訪客數</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>設定行銷活動</strong></td> 
-   <td colspan="1" rowspan="1">可讓您設定與所選搜尋字詞相關聯的促銷活動CTA</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>訪客</strong></td> 
-   <td colspan="1">與所選搜尋字詞相關聯的訪客表格預覽</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>點按資料流</strong></td> 
-   <td colspan="1" rowspan="1">顯示一個表格，內含訪客在網站上的活動和URL路徑，以及他們造訪每個頁面的時間 </td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">名稱</th>
+   <th colspan="1" rowspan="1">說明</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>名稱</strong></td>
+   <td colspan="1" rowspan="1">區段的標題</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>符合</strong></p></td>
+   <td colspan="1" rowspan="1">符合區段自訂、定義條件的訪客數</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>設定行銷活動</strong></td>
+   <td colspan="1" rowspan="1">可讓您設定與所選搜尋字詞相關聯的促銷活動CTA</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>訪客</strong></td>
+   <td colspan="1">與所選搜尋字詞相關聯的訪客表格預覽</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>點按資料流</strong></td>
+   <td colspan="1" rowspan="1">顯示一個表格，內含訪客在網站上的活動和URL路徑，以及他們造訪每個頁面的時間 </td>
+  </tr>
+ </tbody>
 </table>
 
 請參閱[如何建立和檢視區段標籤](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->具名帳戶清單名稱旁方括弧內的數字會作為網頁Personalization [讀取API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/web-personalization)清單的索引參考。
+>具名帳戶清單名稱旁方括弧內的數字會作為網頁Personalization [讀取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)清單的索引參考。
 
 **排除ISP**
 
@@ -286,7 +286,7 @@ ht-degree: 0%
 
 **使用者內容API**
 
-網頁Personalization API呼叫[請在此閱讀更多相關資訊。](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+網頁Personalization API呼叫[請在此閱讀更多相關資訊。](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

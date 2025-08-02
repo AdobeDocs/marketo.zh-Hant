@@ -4,7 +4,7 @@ description: 建立內容模式 — Marketo檔案 — 產品檔案
 title: 建立內容模式
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -56,31 +56,31 @@ ht-degree: 0%
 
 針對&#x200B;_domain.com_：
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>URL模式</th> 
-   <th>結果</th> 
-  </tr> 
-  <tr> 
-   <td>部落格/*</td> 
-   <td><p>探索符合模式domain.com/blog/的所有內容：</p><p>domain.com/blog/5-top-tricks</p><p>domain.com/blog/2017/new-year-solutions</p><p>domain.com/Blog/3-best-recipes</p></td> 
-  </tr> 
-  <tr> 
-   <td>article/2017/*</td> 
-   <td><p>探索符合模式domain.com/article/2017/的所有內容：</p><p>domain.com/article/2017/5-top-tricks</p></td> 
-  </tr> 
-  <tr> 
-   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td> 
-   <td><p>探索任何包含「資料表」一詞的URL：</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
-  </tr> 
-  <tr> 
-   <td>新聞稿</td> 
-   <td><p>僅探索到一個完全相符的HTML頁面：</p><p>domain.com/press-release</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"> </td> 
-   <td colspan="1"><p>如果URL運算式為空，則URL模式只會探索首頁：</p><p>domain.com</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>URL模式</th>
+   <th>結果</th>
+  </tr>
+  <tr>
+   <td>部落格/*</td>
+   <td><p>探索符合模式domain.com/blog/的所有內容：</p><p>domain.com/blog/5-top-tricks</p><p>domain.com/blog/2017/new-year-solutions</p><p>domain.com/Blog/3-best-recipes</p></td>
+  </tr>
+  <tr>
+   <td>article/2017/*</td>
+   <td><p>探索符合模式domain.com/article/2017/的所有內容：</p><p>domain.com/article/2017/5-top-tricks</p></td>
+  </tr>
+  <tr>
+   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
+   <td><p>探索任何包含「資料表」一詞的URL：</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td>
+  </tr>
+  <tr>
+   <td>新聞稿</td>
+   <td><p>僅探索到一個完全相符的HTML頁面：</p><p>domain.com/press-release</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"> </td>
+   <td colspan="1"><p>如果URL運算式為空，則URL模式只會探索首頁：</p><p>domain.com</p></td>
+  </tr>
+ </tbody>
 </table>

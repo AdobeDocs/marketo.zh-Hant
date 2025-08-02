@@ -4,7 +4,7 @@ description: 在電子郵件中啟用預測性內容 — Marketo檔案 — 產�
 title: 啟用電子郵件中的預測性內容
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '375'
 ht-degree: 0%
@@ -94,7 +94,7 @@ ht-degree: 0%
 **範例**
 
 ```example
-<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com">  
-<a><img style="border:10px solid red;"></a>  
+<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com">
+<a><img style="border:10px solid red;"></a>
 </div>
 ```

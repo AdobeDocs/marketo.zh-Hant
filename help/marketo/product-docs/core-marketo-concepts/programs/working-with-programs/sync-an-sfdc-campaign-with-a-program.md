@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147154
-description: 將SFDC促銷活動與程式同步 — Marketo檔案 — 產品檔案
-title: 將SFDC促銷活動與程式同步
+description: 將SFDC行銷活動與程式同步 — Marketo檔案 — 產品檔案
+title: 將SFDC行銷活動與程式同步
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 1%
 
 ---
 
-# 將SFDC促銷活動與程式同步 {#sync-an-sfdc-campaign-with-a-program}
+# 將SFDC行銷活動與程式同步 {#sync-an-sfdc-campaign-with-a-program}
 
-Marketo Engage可讓您將方案與[!DNL Salesforce]行銷活動同步，以維持兩個系統中的相同人員清單，包括其狀態。 讓我們開始吧！
+Marketo Engage可讓您將方案與[!DNL Salesforce]行銷活動同步，以維持兩個系統中的相同人員清單，包括其狀態。 我們開始吧！
 
 >[!PREREQUISITES]
 >
@@ -21,9 +21,9 @@ Marketo Engage可讓您將方案與[!DNL Salesforce]行銷活動同步，以維�
 
 >[!CAUTION]
 >
->將SFDC促銷活動與Marketo Engage方案同步時，針對方案的子促銷活動，隱含的SFDC動作（例如，新增至SFDC促銷活動、同步至SFDC）將會停用。
+>將SFDC行銷活動與Marketo Engage方案同步時，將針對方案的子行銷活動停用隱含的SFDC動作(例如新增至SFDC Campaign、同步至SFDC)。
 
-1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -31,17 +31,17 @@ Marketo Engage可讓您將方案與[!DNL Salesforce]行銷活動同步，以維�
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. 按一下&#x200B;**[!UICONTROL 程式動作]**，然後選取&#x200B;**[!UICONTROL Salesforce Campaign同步]**。
+1. 按一下&#x200B;**[!UICONTROL Program Actions]**，然後選取&#x200B;**[!UICONTROL Salesforce Campaign Sync]**。
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. 選取&#x200B;**[!UICONTROL 新建]**&#x200B;或選擇現有的[!DNL Salesforce]行銷活動。
+1. 選取&#x200B;**[!UICONTROL Create New]**&#x200B;或選擇現有的[!DNL Salesforce]行銷活動。
 
    >[!TIP]
    >
    >如果您選取現有的[!DNL Salesforce]行銷活動，請確定[符合 [!DNL Salesforce] 行銷活動的方案狀態和Marketo方案](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}。
 
-1. 輸入新行銷活動的名稱，然後按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 輸入新行銷活動的名稱並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2015-7-22-8-3a57-3a19.png)
 

@@ -4,7 +4,7 @@ description: 具名帳戶深入分析 — Marketo檔案 — 產品檔案
 title: 具名帳戶分析
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -33,21 +33,21 @@ ht-degree: 0%
 
 ![](assets/three-new.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">帳戶分數</span></strong></td> 
-   <td><p>根據您在<span class="uicontrol">管理員</span>中建立的所有帳戶分數，檢視每星期的參與情況。 您可以並排比較這些帳戶分數。 為了決定每週參與度，我們採用一週中任何一天的最大參與度。</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">管道</span></strong></td> 
-   <td>檢視一段時間內的管道。 若要逐周判斷管道是否隨時間的變化，我們會在最後一天處理管道。</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">收入</span></strong></td> 
-   <td>檢視一段時間內的收入。 若要依周別判斷一段時間內的收入，我們會取得該周內所有收入的總和。</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">帳戶分數</span></strong></td>
+   <td><p>根據您在<span class="uicontrol">管理員</span>中建立的所有帳戶分數，檢視每星期的參與情況。 您可以並排比較這些帳戶分數。 為了決定每週參與度，我們採用一週中任何一天的最大參與度。</p></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">管道</span></strong></td>
+   <td>檢視一段時間內的管道。 若要逐周判斷管道是否隨時間的變化，我們會在最後一天處理管道。</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">收入</span></strong></td>
+   <td>檢視一段時間內的收入。 若要依周別判斷一段時間內的收入，我們會取得該周內所有收入的總和。</td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Interesting Moments]**

@@ -4,7 +4,7 @@ description: 複製資料流 — Marketo檔案 — 產品檔案
 title: 複製資料流
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%

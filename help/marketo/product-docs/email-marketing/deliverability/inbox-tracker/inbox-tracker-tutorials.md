@@ -1,16 +1,16 @@
 ---
 description: 測試、監視和瞭解「收件匣追蹤器」的傳遞問題。
-title: 收件匣追蹤器Tutorials
+title: 收件匣追蹤器教學課程
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: d65903d64d068a6f919df78258654414f3b76426
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-# 收件匣追蹤器Tutorials {#inbox-tracker-tutorials}
+# 收件匣追蹤器教學課程 {#inbox-tracker-tutorials}
 
 測試、監視和瞭解由Bird&#39;s （前身為MessageBird） Inbox Tracker平台提供支援的電子郵件傳遞工具的可傳遞性問題。 「收件匣追蹤器」是單一應用程式，結合您程式的智慧與電子郵件轉譯/收件匣測試的遠見，將您的電子郵件效能發揮到極致。
 
@@ -42,13 +42,13 @@ Bird已建立多個訓練影片，協助您善用此強大工具。
 
 * [ISP加權](https://veed.io/view/bec80e1d-66f2-462c-8470-60610c8a07f7){target="_blank"}
 
-* [警報](https://veed.io/view/1d968a33-e565-4cd2-b25f-53cca61b4823){target="_blank"}
+* [警示](https://veed.io/view/1d968a33-e565-4cd2-b25f-53cca61b4823){target="_blank"}
 
 * [行銷活動追蹤器總覽](https://veed.io/view/8c92bdc5-4131-498c-a450-a518f2e91b17){target="_blank"}
 
 * [行銷活動追蹤器（行銷活動評論）](https://veed.io/view/9c8e18a4-5d9e-495c-ad92-83309f40314a){target="_blank"}
 
-* [Analytics追蹤器](https://veed.io/view/b458f788-07e1-4553-b743-2d469a356ba2){target="_blank"}
+* [分析追蹤器](https://veed.io/view/b458f788-07e1-4553-b743-2d469a356ba2){target="_blank"}
 
 * [設定檔監視器](https://veed.io/view/6ca38d3f-df46-4707-a6cb-dde0fbad470b){target="_blank"}
 

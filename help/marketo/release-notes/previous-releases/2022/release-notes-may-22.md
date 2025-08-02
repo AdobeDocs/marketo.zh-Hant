@@ -2,7 +2,7 @@
 description: 發行說明 — 2022年5月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2022 年 5 月
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '796'
 ht-degree: 0%

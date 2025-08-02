@@ -3,7 +3,7 @@ description: 路由 — Marketo檔案 — 產品檔案
 title: 路由
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 在此範例中，我們會將推斷的CA、OR和WA狀態的所有會議傳送給代理程式John。
 
-1. 在[設定]下，按一下[路由規則]。**&#x200B;**。
+1. 在[設定]下，按一下[路由規則]。****。
 
    ![](assets/routing-1.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/routing-7.png)
 
-1. 選取所有所需值時，按一下[儲存]。**&#x200B;**
+1. 選取所有所需值時，按一下[儲存]。****
 
    ![](assets/routing-8.png)
 
@@ -86,11 +86,11 @@ ht-degree: 0%
 
    ![](assets/routing-12.png)
 
-1. 按一下&#x200B;_組態_&#x200B;旁的編輯圖示（![編輯圖示](assets/icon-routing-edit.png)）。
+1. 按一下![組態](assets/icon-routing-edit.png)旁的編輯圖示（_編輯圖示_）。
 
    ![](assets/routing-13.png)
 
-1. 按一下&#x200B;_檢視帳戶路由_&#x200B;旁的&#x200B;**+**&#x200B;符號。
+1. 按一下&#x200B;**檢視帳戶路由**&#x200B;旁的&#x200B;_+_&#x200B;符號。
 
    ![](assets/routing-14.png){width="600" zoomable="yes"}
 

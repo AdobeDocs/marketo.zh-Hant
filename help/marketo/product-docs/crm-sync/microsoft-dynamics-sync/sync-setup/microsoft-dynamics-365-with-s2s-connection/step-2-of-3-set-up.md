@@ -4,7 +4,7 @@ description: 步驟3之2 — 設定具有伺服器對伺服器連線的Marketo�
 title: 步驟3之2 — 設定具有伺服器對伺服器連線的Marketo解決方案
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%

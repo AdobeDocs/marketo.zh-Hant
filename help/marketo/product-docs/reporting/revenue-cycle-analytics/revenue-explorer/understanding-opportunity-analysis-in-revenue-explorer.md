@@ -4,7 +4,7 @@ description: 瞭解Revenue Explorer中的Opportunity Analysis - Marketo檔案 �
 title: 瞭解Revenue Explorer中的機會分析
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 5%
@@ -55,7 +55,7 @@ Revenue Explorer中的Opportunity Analysis可讓您更深入地檢視您的機�
 
    ![](assets/image2015-7-21-10-3a35-3a45.png)
 
-## 機會分析Dimension與測量 {#opportunity-analysis-dimensions-and-measures}
+## 機會分析維度和測量 {#opportunity-analysis-dimensions-and-measures}
 
 Opportunity Analysis可讓您存取所有銷售機會、公司及銷售機會相關維度，以及與銷售機會相關的測量。 使用這些機會分析維度和量度來回答報告中的特定問題。
 
@@ -65,13 +65,13 @@ Opportunity Analysis可讓您存取所有銷售機會、公司及銷售機會相
    |---|---|
    | 年收入 | 公司的年收入 |
    | 城市 | 公司所在的城市 |
-   | 國家 | 公司所在縣/市 |
-   | 產業 | 該公司所在的產業 |
+   | 國家/地區 | 公司所在縣/市 |
+   | 行業 | 該公司所在的產業 |
    | 公司名稱 | 公司名稱 |
    | 員工人數 | 公司員工人數 |
    | 郵遞區號 | 公司的郵遞區號 |
    | SIC 代碼 | 公司的SIC代碼 |
-   | 州別 | 公司所在的州 |
+   | 狀態 | 公司所在的州 |
 
 1. 潛在客戶屬性
 
@@ -111,7 +111,7 @@ Opportunity Analysis可讓您存取所有銷售機會、公司及銷售機會相
    | 機會名稱 | 機會名稱 |
    | 機會階段 | 機會階段 |
    | 機會型別 | 機會類型 |
-   | 已贏得機會 | 這個機會是否已結束並獲勝 |
+   | 已贏得的機會 | 這個機會是否已結束並獲勝 |
    | 受行銷影響的機會 | 此旗標會指出是否有任何銷售機會/聯絡人在任何行銷方案中取得或取得成功。 只考慮已定義期間成本的方案。 |
 
 1. 機會關閉時間範圍
@@ -136,7 +136,7 @@ Opportunity Analysis可讓您存取所有銷售機會、公司及銷售機會相
 
 1. 測量值
 
-   | 測量 | 說明 |
+   | 衡量 | 說明 |
    |---|---|
    | 關閉商機的平均天數 | 關閉商機的平均天數 |
    | 關閉商機的平均天數（遺失） | 失去機會的平均天數 |

@@ -1,9 +1,9 @@
 ---
-description: 瞭解如何最佳化和擴充您繼承的現有Marketo Engage例項。 遵循檢查清單以稽核管理員設定並維護資料庫衛生。
+description: 瞭解如何最佳化和擴充您繼承的現有Marketo Engage執行個體。 遵循檢查清單以稽核管理員設定並維護資料庫衛生。
 title: 從何處開始
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 1. 使用您的電子郵件地址建立使用者名稱/社群設定檔，以存取您目前的Marketo Engage訂閱。
 
-1. [在您使用新公司資訊建立設定檔](https://nation.marketo.com/){target="_blank"}後，請向`ccare@marketo.com`提交請求，將舊社群設定檔的資料與新社群設定檔合併。
+1. [在您使用新公司資訊建立設定檔](https://nation.marketo.com/){target="_blank"}後，請向`ccare@marketo.com`提交請求，以便將您舊社群設定檔的資料與新社群設定檔合併。
 
 1. 在您的請求中，請指定下列詳細資料：
 
@@ -40,9 +40,9 @@ ht-degree: 0%
 
 我們的社群團隊將在4至6個工作天內合併您的社群設定檔。 完成後，您將在登入時的新社群設定檔中看到參與記錄。 如果沒有，請登出您的帳戶並重新登入以進行確認。
 
-## 快速啟動您繼承的Marketo Engage例項  {#jumpstart-your-inherited-marketo-engage-instance}
+## 快速啟動您繼承的Marketo Engage執行個體  {#jumpstart-your-inherited-marketo-engage-instance}
 
-Adobe運用Marketo Champions提供的輸入資料，整合了數個Marketo Engage繼承例項稽核核核核檢查清單，協助您全力以赴。 瞭解如何瀏覽不同的Marketo Engage區域並執行執行稽核所需的各種工作，其中會包含建議說明檔案的連結。
+Adobe運用Marketo Champions提供的意見，整合了數個Marketo Engage繼承例項稽核核核核檢查清單，協助您全力以赴。 瞭解如何瀏覽Marketo Engage的不同區域並執行執行稽核所需的各種工作，其中會包含建議說明檔案的連結。
 
 您也可以[下載試算表格式的檢查清單](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)。
 
@@ -58,12 +58,12 @@ Adobe運用Marketo Champions提供的輸入資料，整合了數個Marketo Engag
 
 ## 取得協助的方式 {#ways-to-get-help}
 
-需要更多協助嗎？ 透過下列連結，與我們或Marketo Engage同伴使用者連絡。
+需要更多協助嗎？ 透過下列連結，與我們或Marketo Engage的使用者同仁連絡。
 
 * 如需無法正常運作的技術協助，請連絡&#x200B;**[Marketo Engage客戶支援](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**。
 
-* 與&#x200B;**[Adobe Marketo Engage社群](https://nation.marketo.com/){target="_blank"}**&#x200B;中的Marketo Engage使用者連絡並互相學習。
+* 與&#x200B;**[Adobe Marketo Engage社群](https://nation.marketo.com/){target="_blank"}**&#x200B;中的Marketo Engage使用者進行連絡並與其學習。
 
 * 如需充分利用Marketo Engage執行個體的實際操作協助，請聯絡&#x200B;**[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**。
 
-* 觀看&#x200B;**[已組織的教學課程影片](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}**&#x200B;有關Marketo Engage的各個層面。
+* 觀看&#x200B;**[精選教學課程影片](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}**，瞭解Marketo Engage的各個層面。

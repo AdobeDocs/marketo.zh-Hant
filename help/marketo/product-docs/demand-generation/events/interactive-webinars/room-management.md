@@ -3,9 +3,9 @@ description: 房間管理 — Marketo檔案 — 產品檔案
 title: 房間管理
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 ## 管理和存取會議室與錄製 {#manage-and-access-rooms-and-recordings}
 
-1. 移至&#x200B;**[!UICONTROL 設計工作室]**。
+1. 移至&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/room-management-1.png)
 
-1. 選取&#x200B;**[!UICONTROL 互動式網路研討會]**，然後選取&#x200B;**[!UICONTROL 管理會議室]**。
+1. 選取&#x200B;**[!UICONTROL Interactive Webinars]**，然後選取&#x200B;**[!UICONTROL Manage Rooms]**。
 
    ![](assets/room-management-2.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 互動式網路研討會室是虛擬空間，專為舉辦即時、吸引人的線上活動而設計，參與者可在此與簡報者和其他參與者互動。 在這些會議室，您可以找到網路研討會中的上傳內容和錄影。
 
-若要檢視所有會議室的清單，請從上方功能表列選取&#x200B;**[!UICONTROL 會議室]**。 您可以在這些聊天室中找到您建立的所有聊天室，以及上傳的內容和錄製。 您也可以檢視錄製數量、室內檔案大小，以及個別室內上次存取日期。
+若要檢視您所有會議室的清單，請從上方功能表列選取&#x200B;**[!UICONTROL Rooms]**。 您可以在這些聊天室中找到您建立的所有聊天室，以及上傳的內容和錄製。 您也可以檢視錄製數量、室內檔案大小，以及個別室內上次存取日期。
 
 <table><tbody>
   <tr>
@@ -88,7 +88,7 @@ ht-degree: 0%
 
 您可以在「內容」標籤中執行下列動作：
 
-* 按一下&#x200B;**[!UICONTROL 啟動會議室]**&#x200B;按鈕以啟動並進入會議室。
+* 按一下&#x200B;**[!UICONTROL Launch room]**&#x200B;按鈕以啟動並進入會議室。
 * 使用搜尋列來尋找您要的檔案。
 * 按一下「下載檔案」圖示，將檔案下載到裝置上。 選取要大量下載的兩個或多個檔案。
 * 按一下「刪除空間」圖示以移除空間。 刪除檔案時，無法擷取該檔案。
@@ -102,7 +102,7 @@ ht-degree: 0%
 
 您可以從此集中式中心執行以下動作：
 
-* 按一下&#x200B;**[!UICONTROL 啟動會議室]**&#x200B;按鈕以啟動並進入會議室。
+* 按一下&#x200B;**[!UICONTROL Launch room]**&#x200B;按鈕以啟動並進入會議室。
 * 使用搜尋列來尋找您要的錄製。
 * 按一下「下載檔案」圖示，將檔案下載到裝置上。 選取要大量下載的兩個或多個檔案。
 * 按一下「複製錄製」連結圖示以複製錄製URL。
@@ -114,9 +114,9 @@ ht-degree: 0%
 
 錄製是寶貴的資源，擷取了即時討論、簡報和問答環節的精髓。 它們可讓參與者按照自己的步調，重新造訪重要的深入分析、遺漏的詳細資訊或複雜的概念。
 
-按一下&#x200B;**[!UICONTROL 錄製]**&#x200B;索引標籤，檢視您已上傳之所有錄製的清單。
+按一下「**[!UICONTROL Recordings]**」標籤，檢視您已上傳之所有錄製的清單。
 
-在「**[!UICONTROL 我的錄製]**」下，您可以找到在您建立的聊天室中的所有錄製。 您也可以檢視其各自的大小、日期和時間，以及錄製的持續時間。
+在&#x200B;**[!UICONTROL My recordings]**&#x200B;下方，您可以找到在您建立的聊天室中可用的所有錄製。 您也可以檢視其各自的大小、日期和時間，以及錄製的持續時間。
 
 ![](assets/room-management-6.png)
 

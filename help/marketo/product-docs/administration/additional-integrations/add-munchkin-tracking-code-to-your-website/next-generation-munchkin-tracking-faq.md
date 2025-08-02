@@ -6,7 +6,7 @@ exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
 hidefromtoc: true
-source-git-commit: ea07c5c83c51fef4eb454562f041db685cf13775
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 0%
@@ -45,9 +45,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**觸發器**：瀏覽網頁，網頁為定價頁面\
->**流量**：變更分數+10和有趣的時刻
->&#x200B;>**Web**：已檢視的定價頁面
+>**觸發器**：瀏覽網頁，網頁為定價頁面
+>>**流量**：變更分數+10和有趣的時刻
+>>**Web**：已檢視的定價頁面
 >
 >透過[!DNL Munchkin] V2，如果匿名人員造訪定價頁面，她不會立即進入行銷活動。 當匿名人士成為已知人時，我們會針對她執行此行銷活動。 她會：
 >

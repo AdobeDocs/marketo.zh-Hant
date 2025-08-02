@@ -4,7 +4,7 @@ description: 設定網站行銷活動的顯示方式 — Marketo檔案 — 產�
 title: 設定網頁行銷活動的顯示方式
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -43,21 +43,21 @@ ht-degree: 0%
 
    ![](assets/s2.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>[!UICONTROL Below fold]</strong></td> 
-   <td>當訪客在摺頁下方捲動時顯示促銷活動。 當訪客在摺頁上方捲動時，促銷活動會消失。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Percent]</strong></td> 
-   <td>當訪客捲動至頁面的預定百分比時顯示促銷活動。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Pixel]</strong></td> 
-   <td><p>當訪客捲動至頁面上預先指定的頂端畫素時顯示促銷活動。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>[!UICONTROL Below fold]</strong></td>
+   <td>當訪客在摺頁下方捲動時顯示促銷活動。 當訪客在摺頁上方捲動時，促銷活動會消失。</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Percent]</strong></td>
+   <td>當訪客捲動至頁面的預定百分比時顯示促銷活動。</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Pixel]</strong></td>
+   <td><p>當訪客捲動至頁面上預先指定的頂端畫素時顯示促銷活動。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 退出目的 {#exit-intent}

@@ -4,9 +4,9 @@ description: 建立個人詳細資料頁面的自訂標籤 — Marketo檔案 —
 title: 建立人員詳細資料頁面的自訂標籤
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 如果您發現自己需要在人員詳細資料中一次又一次地尋找特定欄位集，請考慮建立自訂版面以簡化工作。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 欄位管理]**。
+1. 按一下「**[!UICONTROL Field Management]**」。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. 按一下「**[!UICONTROL 自訂配置Designer]**」標籤。
+1. 按一下「**[!UICONTROL Custom Layout Designer]**」標籤。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >您有兩個欄可搭配使用。
 
-   如果您決定要移除欄位，請用滑鼠右鍵按一下要移除的欄位，然後按一下&#x200B;**[!UICONTROL 刪除]**。
+   如果您決定要移除欄位，請用滑鼠右鍵按一下要移除的欄位，然後按一下&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 

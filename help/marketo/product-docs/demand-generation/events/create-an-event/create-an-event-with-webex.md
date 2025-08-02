@@ -4,7 +4,7 @@ description: 使用 [!DNL Webex] - Marketo檔案建立事件 — 產品檔案
 title: 建立具有 [!DNL Webex]的事件
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 0%

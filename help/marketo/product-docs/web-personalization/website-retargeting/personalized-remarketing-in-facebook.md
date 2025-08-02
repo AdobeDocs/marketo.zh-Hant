@@ -4,7 +4,7 @@ description: Facebook中的個人化再行銷 — Marketo檔案 — 產品檔案
 title: Facebook中的個人化再行銷
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 6%
@@ -18,7 +18,7 @@ ht-degree: 6%
 >[!PREREQUISITES]
 >
 >* 完成使用Web Personalization資料重新鎖定目標的[設定](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* 檢閱關於自訂對象[和再行銷的](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook檔案。
+>* 檢閱關於自訂對象[和再行銷的](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)[ ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook檔案。
 
 ## 在[!DNL Facebook]中建立對象 {#creating-an-audience-in-facebook}
 
@@ -58,47 +58,47 @@ ht-degree: 6%
 
 ## [!DNL Facebook]中的RTP資料點 {#rtp-data-points-in-facebook}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>活動名稱</th> 
-   <th> </th> 
-  </tr> 
-  <tr> 
-   <td>RTP再行銷</td> 
-   <td> 
-    <div> 
-     <table> 
-      <tbody> 
-       <tr> 
-        <th>參數</th> 
-        <th>值</th> 
-       </tr> 
-       <tr> 
-        <td>ABM清單</td> 
-        <td>（以帳戶為基礎的清單名稱）</td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">類別</td> 
-        <td colspan="1"><p>財富 500 強</p><p>財富 1000 強</p><p>全球2000</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">群組</td> 
-        <td colspan="1"><p>企業</p><p>中小型企業</p></td> 
-       </tr> 
-       <tr> 
-        <td>行業</td> 
-        <td><p>防禦</p><p>教育</p><p>金融服務</p><p>政府</p><p>醫療保健、醫藥、生物科技</p><p>軟體與網際網路</p><p>等等…… （根據RTP Industry選項）</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">已分段的對象</td> 
-        <td colspan="1">（在RTP中建立的細分對象名稱）</td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>活動名稱</th>
+   <th> </th>
+  </tr>
+  <tr>
+   <td>RTP再行銷</td>
+   <td>
+    <div>
+     <table>
+      <tbody>
+       <tr>
+        <th>參數</th>
+        <th>值</th>
+       </tr>
+       <tr>
+        <td>ABM清單</td>
+        <td>（以帳戶為基礎的清單名稱）</td>
+       </tr>
+       <tr>
+        <td colspan="1">類別</td>
+        <td colspan="1"><p>財富 500 強</p><p>財富 1000 強</p><p>全球2000</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">群組</td>
+        <td colspan="1"><p>企業</p><p>中小型企業</p></td>
+       </tr>
+       <tr>
+        <td>行業</td>
+        <td><p>防禦</p><p>教育</p><p>金融服務</p><p>政府</p><p>醫療保健、醫藥、生物科技</p><p>軟體與網際網路</p><p>等等…… （根據RTP Industry選項）</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">已分段的對象</td>
+        <td colspan="1">（在RTP中建立的細分對象名稱）</td>
+       </tr>
+      </tbody>
+     </table>
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 使用廣告鎖定目標對象 {#target-your-audience-with-an-ad}

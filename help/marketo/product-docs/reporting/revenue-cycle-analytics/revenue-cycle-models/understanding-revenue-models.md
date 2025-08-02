@@ -4,7 +4,7 @@ description: 瞭解收入模型 — Marketo檔案 — 產品檔案
 title: 瞭解收入模型
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -57,15 +57,15 @@ Modeler就像一連串有水的桶。 儲桶底部有孔。
 
 這看起來像一個方塊，是最基本的階段。 Analytics將追蹤此階段的流入、流出及平衡。
 
-## SLA階段 {#sla-stage}
+## SLA Stage {#sla-stage}
 
-這是&#x200B;**服務等級合約**&#x200B;階段的簡稱。 這裡的目的是要執行某些階段的時間限制。
+這是&#x200B;**Service level agreement**&#x200B;階段的簡稱。 這裡的目的是要執行某些階段的時間限制。
 
 >[!NOTE]
 >
 >**範例**
 >
->當潛在客戶填寫「聯絡我」表單並且您向銷售代表傳送警報時，您可能需要72小時的SLA。 您將能夠追蹤違法行為，並批評代表將有效的銷售機會拒之門外。
+>當潛在客戶填寫「聯絡我」表單並傳送警報給銷售代表時，您可能需要72小時的SLA。 您將能夠追蹤違法行為，並批評代表將有效的銷售機會拒之門外。
 
 ## 閘道階段 {#gate-stage}
 

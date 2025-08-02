@@ -3,9 +3,9 @@ description: 互動式網路研討會自訂 — Marketo檔案 — 產品檔案
 title: 互動式網路研討會自訂
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '715'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ## 授予許可權 {#grant-permissions}
 
-在您組織中的任何使用者能夠自訂您的互動式網路研討會之前，Marketo Engage管理員必須先將存取權新增到所需的角色。
+在您組織中的任何使用者能夠自訂您的互動式網路研討會之前，Marketo Engage管理員必須先將存取權新增至所需的角色。
 
-1. 在Marketo Engage中，按一下&#x200B;**[!UICONTROL 管理員]**。
+1. 在Marketo Engage中，按一下&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/interactive-webinars-customization-1.png)
 
-1. 按一下「**[!UICONTROL 使用者與角色]**」，然後按一下「**[!UICONTROL 角色]**」標籤。
+1. 按一下「**[!UICONTROL Users & Roles]**」，然後按一下「**[!UICONTROL Roles]**」標籤。
 
    ![](assets/interactive-webinars-customization-2.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/interactive-webinars-customization-4.png)
 
-1. 選取&#x200B;**[!UICONTROL 存取互動式網路研討會自訂]**&#x200B;核取方塊。
+1. 選取&#x200B;**[!UICONTROL Access Interactive Webinars Customization]**&#x200B;核取方塊。
 
    ![](assets/interactive-webinars-customization-5.png)
 
@@ -81,11 +81,11 @@ ht-degree: 0%
 
    您也可以使用HEX選項輸入HEX色彩代碼。
 
-   選取&#x200B;**[!UICONTROL 檢視範本]**&#x200B;以變更會議室主題。
+   選取&#x200B;**[!UICONTROL View templates]**&#x200B;以變更會議室主題。
 
    進行變更後，您可以在「預覽」中檢查標誌和顏色。
 
-1. 選取&#x200B;**[!UICONTROL 套用]**&#x200B;以儲存變更。 若要重設為預設值，請按一下[重設為預設值]。**&#x200B;**
+1. 選取&#x200B;**[!UICONTROL Apply]**&#x200B;以儲存變更。 若要重設為預設值，請按一下&#x200B;**[!UICONTROL Reset to default]**。
 
    ![](assets/interactive-webinars-customization-10.png)
 
@@ -103,7 +103,7 @@ ht-degree: 0%
    >
    >上傳的影像會套用於「登入」、「退出」和「等待」畫面。
 
-1. 選取&#x200B;**[!UICONTROL 套用]**&#x200B;以儲存變更。 若要重設為預設值，請按一下[重設為預設值]。**&#x200B;**
+1. 選取&#x200B;**[!UICONTROL Apply]**&#x200B;以儲存變更。 若要重設為預設值，請按一下&#x200B;**[!UICONTROL Reset to default]**。
 
 ### 自訂虛擬視訊背景 {#Customize-virtual-video-backgrounds}
 
@@ -123,7 +123,7 @@ ht-degree: 0%
 
 您可以使用預覽畫面中的滑桿來放大或縮小虛擬背景，以測試使用者是否靠近或遠離相機。 如果背景中有任何文字，這有助於確保文字保持可見。
 
-1. 選取&#x200B;**[!UICONTROL 套用]**&#x200B;以儲存變更。 若要重設為預設值，請按一下[重設為預設值]。**&#x200B;**
+1. 選取&#x200B;**[!UICONTROL Apply]**&#x200B;以儲存變更。 若要重設為預設值，請按一下&#x200B;**[!UICONTROL Reset to default]**。
 
 **Adobe Connect背景**
 

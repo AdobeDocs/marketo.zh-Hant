@@ -3,10 +3,10 @@ description: OP-Scoring-Geroptical - Marketo檔案 — 產品檔案
 title: OP評分人口統計
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 17%
+ht-degree: 24%
 
 ---
 
@@ -18,219 +18,219 @@ ht-degree: 17%
 
 ## 頻道摘要 {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>管道</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Channel</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>
-  </tr> 
-  <tr> 
-   <td>營運</td> 
+  </tr>
+  <tr>
+   <td>營運</td>
    <td>01 — 成員</td>
    <td>營運</td>
    <td>預設</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 先決條件欄位 {#prerequisite-fields}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>類型</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>類型</th>
    <th>易記名稱</th>
    <th>API名稱</th>
   </tr>
-  <tr> 
-   <td>分數</td> 
+  <tr>
+   <td>分數</td>
    <td>人口統計分數</td>
    <td>人口統計分數</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 程式包含下列Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>類型</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>類型</th>
    <th>範本名稱</th>
    <th>資產名稱</th>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>通用電子郵件網域</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>名字無效</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>無效的名字已更新</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>姓氏無效</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>無效的姓氏已更新</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>年收入</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
-   <td>產業</td>
+   <td>行業</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>職稱</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>員工人數</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>來源</td>
   </tr>
-  <tr> 
-   <td>資料夾</td> 
+  <tr>
+   <td>資料夾</td>
    <td> </td>
    <td>通用電子郵件網域</td>
   </tr>
-  <tr> 
-   <td>資料夾</td> 
+  <tr>
+   <td>資料夾</td>
    <td> </td>
    <td>名字無效</td>
   </tr>
-  <tr> 
-   <td>資料夾</td> 
+  <tr>
+   <td>資料夾</td>
    <td> </td>
    <td>姓氏無效</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-scoring-demographic-1.png)
 
 ## 包含我的Token {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>權杖型別</th> 
-   <th>Token名稱</th>
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>權杖型別</th>
+   <th>代號名稱</th>
    <th>值</th>
   </tr>
-  <tr> 
-   <td>分數</td> 
+  <tr>
+   <td>分數</td>
    <td><code>{{my.Annual Revenue - High}}</code></td>
    <td>+15</td>
   </tr>
-  <tr> 
-   <td>分數</td> 
+  <tr>
+   <td>分數</td>
    <td><code>{{my.Annual Revenue - Low}}</code></td>
    <td>+5</td>
   </tr>
-  <tr> 
-   <td>分數</td> 
+  <tr>
+   <td>分數</td>
    <td><code>{{my.Annual Revenue - Mid}}</code></td>
    <td>+10</td>
   </tr>
-   <tr> 
-   <td>分數</td> 
+   <tr>
+   <td>分數</td>
    <td><code>{{my.Generic Email Domain}}</code></td>
    <td>-2</td>
   </tr>
-  <tr> 
-   <td>分數</td> 
+  <tr>
+   <td>分數</td>
    <td><code>{{my.Industry - High}}</code></td>
    <td>+10</td>
   </tr>
-  <tr> 
-   <td>分數</td> 
+  <tr>
+   <td>分數</td>
    <td><code>{{my.Industry - Low}}</code></td>
    <td>+6</td>
   </tr>
-   <tr> 
-   <td>分數</td> 
+   <tr>
+   <td>分數</td>
    <td><code>{{my.Industry - Mid}}</code></td>
    <td>+8</td>
   </tr>
-  <tr> 
-   <td>分數</td> 
+  <tr>
+   <td>分數</td>
    <td><code>{{my.Invalid First Name}}</code></td>
    <td>-5</td>
   </tr>
-   <tr> 
-   <td>分數</td> 
+   <tr>
+   <td>分數</td>
    <td><code>{{my.Invalid First Name Updated}}</code></td>
    <td>+5</td>
   </tr>
-  <tr> 
-   <td>分數</td> 
+  <tr>
+   <td>分數</td>
    <td><code>{{my.Invalid Last Name}}</code></td>
    <td>-5</td>
   </tr>
-  <tr> 
-   <td>分數</td> 
+  <tr>
+   <td>分數</td>
    <td><code>{{my.Invalid Last Name Updated}}</code></td>
    <td>+5</td>
   </tr>
-  <tr> 
-   <td>分數</td> 
+  <tr>
+   <td>分數</td>
    <td><code>{{my.Job Title - High}}</code></td>
    <td>+15</td>
   </tr>
-   <tr> 
-   <td>分數</td> 
+   <tr>
+   <td>分數</td>
    <td><code>{{my.Job Title - Low}}</code></td>
    <td>+5</td>
   </tr>
-  <tr> 
-   <td>分數</td> 
+  <tr>
+   <td>分數</td>
    <td><code>{{my.Job Title - Mid}}</code></td>
    <td>+10</td>
   </tr>
-  <tr> 
-   <td>分數</td> 
+  <tr>
+   <td>分數</td>
    <td><code>{{my.Lead Source - High}}</code></td>
    <td>+20</td>
   </tr>
-  <tr> 
-   <td>分數</td> 
+  <tr>
+   <td>分數</td>
    <td><code>{{my.Lead Source - Low}}</code></td>
    <td>+8</td>
   </tr>
-  <tr> 
-   <td>分數</td> 
+  <tr>
+   <td>分數</td>
    <td><code>{{my.Lead Source - Mid}}</code></td>
    <td>+10</td>
   </tr>
-  <tr> 
-   <td>分數</td> 
+  <tr>
+   <td>分數</td>
    <td><code>{{my.Number of Employees}}</code></td>
    <td>+5</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 衝突規則 {#conflict-rules}

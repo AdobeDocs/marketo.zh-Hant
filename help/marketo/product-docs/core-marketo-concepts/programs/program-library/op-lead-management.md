@@ -3,16 +3,16 @@ description: 營運商管理 — Marketo檔案 — 產品檔案
 title: 營運商管理
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
 # 營運商管理 {#op-lead-management}
 
-這是銷售機會管理最佳實務工作流程的範例，利用Marketo Engage預設計畫，協助您管理Marketo Engage資料庫內傳送給CRM的記錄。
+這是銷售機會管理最佳實務工作流程的範例，利用Marketo Engage預設程式協助您管理Marketo Engage資料庫內傳送給CRM的記錄。
 
 >[!NOTE]
 >
@@ -22,58 +22,58 @@ ht-degree: 2%
 
 ## 頻道摘要 {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>管道</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Channel</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>
-  </tr> 
-  <tr> 
-   <td>營運</td> 
+  </tr>
+  <tr>
+   <td>營運</td>
    <td>01位成員</td>
    <td>營運</td>
    <td>預設</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 程式包含下列Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>類型</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>類型</th>
    <th>範本名稱</th>
    <th>資產名稱</th>
-  </tr> 
-  <tr> 
-   <td>Smart Campaign</td> 
+  </tr>
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>01 — 將新使用者同步至CRM</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>02 — 符合行銷資格</td>
   </tr>
-  <tr> 
-   <td>電子郵件</td> 
+  <tr>
+   <td>電子郵件</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>01 — 電子郵件 — 警報 — MQL</td>
   </tr>
-  <tr> 
-   <td>資料夾</td> 
+  <tr>
+   <td>資料夾</td>
    <td> </td>
    <td>行銷活動</td>
   </tr>
-  <tr> 
-   <td>資料夾</td> 
+  <tr>
+   <td>資料夾</td>
    <td> </td>
    <td>電子郵件警示</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-lead-management-1.png)

@@ -3,7 +3,7 @@ description: 使用者和授權管理 — Marketo檔案 — 產品檔案
 title: 使用者和授權管理
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 0ab3b8075923f58a9546acff8039d67126f22bf3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/user-and-license-management-3.png)
 
-1. 按一下「可用的使用者」下拉式清單，選取您要新增的使用者，然後按一下「確定」**&#x200B;**。
+1. 按一下「可用的使用者」下拉式清單，選取您要新增的使用者，然後按一下「確定」****。
 
    ![](assets/user-and-license-management-4.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ## 授權使用情況 {#license-usage}
 
-互動式網路研討會提供特定授權，可建立由Adobe Connect支援的事件。 每次新增授權時，都會顯示新的授權使用方塊。 Marketo管理員可依照下列步驟檢視（而非編輯）授權。 請聯絡Adobe客戶團隊（您的客戶經理）以取得其他授權。
+互動式網路研討會提供特定授權，可建立由Adobe Connect支援的事件。 每次新增授權時，都會顯示新的授權使用方塊。 Marketo管理員可依照下列步驟檢視（而非編輯）授權。 聯絡Adobe客戶團隊（您的客戶經理）以取得其他授權。
 
 1. 移至&#x200B;**管理員**&#x200B;區域。
 
@@ -66,34 +66,34 @@ ht-degree: 0%
 
    ![](assets/user-and-license-management-11.png)
 
-<table> 
+<table>
   <tr>
    <td width="20%"><b>開始日期</b></td>
    <td width="80%">授權開始日期。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>到期日</b></td>
    <td width="80%">授權到期日。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>類型</b></td>
    <td width="80%">購買的授權型別。 可用的型別有三種：共用事件授權、共用房間授權、其他儲存空間授權。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>事件容量</b></td>
    <td width="80%">事件中可容納的最大參與者人數。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>事件總數</b></td>
    <td width="80%">已使用此授權布建的事件總數。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>使用的事件</b></td>
    <td width="80%">已完成事件的總數。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>儲存容量</b></td>
-   <td width="80%">可用於儲存錄製、抵押、hero images、檔案和其他資產的儲存量。</td>
+   <td width="80%">可用於儲存錄製、抵押品、主圖影像、檔案和其他資產的儲存空間。</td>
   </tr>
   </tbody>
 </table>
@@ -110,7 +110,7 @@ ht-degree: 0%
 
 ## 使用者存取 {#user-access}
 
-互動式網路研討會可授予Marketo Engage使用者建立及傳遞互動式網路研討會的許可權，進而具備規範使用情形的功能。 但是，互動式網路研討會使用者（或非使用者）仍可讀取/編輯其他使用者建立的互動式網路研討會事件程式。
+互動式網路研討會可授予Marketo Engage使用者建立和傳遞互動式網路研討會的許可權，進而具備規範使用情形的功能。 但是，互動式網路研討會使用者（或非使用者）仍可讀取/編輯其他使用者建立的互動式網路研討會事件程式。
 
 擁有互動式網路研討會許可權且擁有特定互動式網路研討會活動計畫的Marketo使用者，將可執行與該計畫相關的所有互動式網路研討會功能。 這包括：建立、存取、修改、複製、移動和刪除該程式。 但是，一旦該使用者不再是互動式網路研討會使用者，方案所有者將能夠存取和移動方案，但不能執行任何其他功能。
 

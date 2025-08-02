@@ -4,9 +4,9 @@ description: 刪除流程步驟 — Marketo檔案 — 產品檔案
 title: 刪除流程步驟
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 首先，我們來介紹基本知識。 以下說明如何從Smart Campaign移除不要的流程步驟。
 
-1. 在Smart Campaign **[!UICONTROL 流量]**&#x200B;中，按一下&#x200B;**X**&#x200B;圖示以刪除任何流量步驟。
+1. 在Smart Campaign **[!UICONTROL Flow]**&#x200B;中，按一下&#x200B;**X**&#x200B;圖示以刪除任何流程步驟。
 
    ![](assets/delete-a-flow-step-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 刪除]**。
+1. 按一下「**[!UICONTROL Delete]**」。
 
    ![](assets/delete-a-flow-step-2.png)
 
@@ -42,8 +42,8 @@ ht-degree: 0%
    1. **已在沒有等待步驟的情況下執行**。不會有任何人員受到影響，因為行銷活動在執行後處於休眠狀態。
    1. **正在執行**。 變更可能會造成非預期的行為，具體取決於刪除的時間與詳細資訊。 我們強烈建議不要編輯作用中執行的批次行銷活動。 在緊急情況下，瞭解如何[中止執行中的Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}。
 
-   1. **已執行等待步驟。**&#x200B;此專案的幾個詳細資料。\
-      當人員進入等待步驟時，人員會記下持續時間以及要返回的NUMBER STEP。 請參閱下列範例。
+   1. **已執行等待步驟。**此專案的幾個詳細資料。
+當人員進入等待步驟時，人員會記下持續時間以及要返回的NUMBER STEP。 請參閱下列範例。
 
    **觸發智慧行銷活動**
 

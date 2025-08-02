@@ -4,7 +4,7 @@ description: 管理個人資料 — Marketo檔案 — 產品檔案
 title: 管理個人資料
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 7%
@@ -49,54 +49,54 @@ ht-degree: 7%
    >* 字串型別的最大長度為255個字元
    >* 隱藏欄位將會自動移除
 
-<table> 
- <tbody> 
-  <tr> 
-   <th><p>REST API名稱</p></th> 
-   <th><p>SOAP API名稱</p></th> 
-   <th><p>易記名稱</p></th> 
-  </tr> 
-  <tr> 
-   <td><p>部門</p></td> 
-   <td><p>部門</p></td> 
-   <td><p>部門</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>標題</p></td> 
-   <td><p>標題</p></td> 
-   <td><p>職稱</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>評等</p></td> 
-   <td><p>評等</p></td> 
-   <td><p>評等</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>銷售機會分數</p></td> 
-   <td><p>潛在客戶分數</p></td> 
-   <td><p>分數</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>潛在客戶狀態</p></td> 
-   <td><p>潛在客戶狀態</p></td> 
-   <td><p>狀態</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>優先順序</p></td> 
-   <td><p>優先順序</p></td> 
-   <td><p>優先順序</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadRole</p></td> 
-   <td><p>潛在客戶角色</p></td> 
-   <td><p>角色</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>已取消訂閱</p></td> 
-   <td><p>退訂</p></td> 
-   <td><p>退訂</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th><p>REST API名稱</p></th>
+   <th><p>SOAP API名稱</p></th>
+   <th><p>易記名稱</p></th>
+  </tr>
+  <tr>
+   <td><p>部門</p></td>
+   <td><p>部門</p></td>
+   <td><p>部門</p></td>
+  </tr>
+  <tr>
+   <td><p>標題</p></td>
+   <td><p>標題</p></td>
+   <td><p>職稱</p></td>
+  </tr>
+  <tr>
+   <td><p>評等</p></td>
+   <td><p>評等</p></td>
+   <td><p>評等</p></td>
+  </tr>
+  <tr>
+   <td><p>銷售機會分數</p></td>
+   <td><p>潛在客戶分數</p></td>
+   <td><p>分數</p></td>
+  </tr>
+  <tr>
+   <td><p>潛在客戶狀態</p></td>
+   <td><p>潛在客戶狀態</p></td>
+   <td><p>狀態</p></td>
+  </tr>
+  <tr>
+   <td><p>優先順序</p></td>
+   <td><p>優先順序</p></td>
+   <td><p>優先順序</p></td>
+  </tr>
+  <tr>
+   <td><p>leadRole</p></td>
+   <td><p>潛在客戶角色</p></td>
+   <td><p>角色</p></td>
+  </tr>
+  <tr>
+   <td><p>已取消訂閱</p></td>
+   <td><p>退訂</p></td>
+   <td><p>退訂</p></td>
+  </tr>
+ </tbody>
 </table>
 
 為新[!DNL Web Personalization]帳戶提供的現成可用的潛在客戶欄位如下：

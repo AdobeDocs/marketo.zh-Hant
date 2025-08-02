@@ -3,7 +3,7 @@ description: 程式匯入程式庫概觀 — Marketo檔案 — 產品檔案
 title: 程式匯入程式庫概觀
 feature: Programs
 exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%

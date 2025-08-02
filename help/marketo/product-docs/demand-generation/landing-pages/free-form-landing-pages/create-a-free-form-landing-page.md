@@ -4,7 +4,7 @@ description: 建立自由表單登陸頁面 — Marketo檔案 — 產品檔案
 title: 建立自由格式的登陸頁面
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 1%

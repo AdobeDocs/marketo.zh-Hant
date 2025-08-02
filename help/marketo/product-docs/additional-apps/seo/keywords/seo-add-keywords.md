@@ -4,9 +4,9 @@ description: SEO — 新增關鍵字 — Marketo檔案 — 產品檔案
 title: SEO — 新增關鍵字
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >如果您有許多關鍵字，可以[使用CSV檔案匯入關鍵字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)。
 
-1. 移至&#x200B;**[!UICONTROL 關鍵字]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Keywords]**&#x200B;區段。
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. 輸入您要鎖定的關鍵字，然後按一下[儲存]。**&#x200B;**
+1. 輸入您要鎖定的關鍵字，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 

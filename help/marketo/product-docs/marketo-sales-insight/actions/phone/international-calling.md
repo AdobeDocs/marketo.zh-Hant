@@ -3,7 +3,7 @@ description: 國際通話 — Marketo檔案 — 產品檔案
 title: 國際通話
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 5%
@@ -20,125 +20,125 @@ ht-degree: 5%
 
 ## 支援的國家/地區 {#supported-countries}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>國家/地區</th> 
-   <th>支援的國家代碼</th> 
-  </tr> 
-  <tr> 
-   <td colspan="1">阿根廷</td> 
-   <td colspan="1">54221， 54223， 54261， 54291， 54341， 54342， 54351</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">奧地利</td> 
-   <td colspan="1">43， 431， 4312288， 43438， 4350， 4357， 4359， 436555， 43677， 4369988， 4369989， 43720， 43780， 439</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">巴哈馬</td> 
-   <td colspan="1">1242</td> 
-  </tr> 
-  <tr> 
-   <td><p>巴西</p></td> 
-   <td>5511， 5521， 5527， 5531， 5541， 5551， 5561， 5562， 5581， 5585</td> 
-  </tr> 
-  <tr> 
-   <td>賽普勒斯 </td> 
-   <td>357</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">丹麥 </td> 
-   <td colspan="1">45</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">法國</td> 
-   <td colspan="1">33</td> 
-  </tr> 
-  <tr> 
-   <td>德國</td> 
-   <td>49</td> 
-  </tr> 
-  <tr> 
-   <td>希臘 </td> 
-   <td>30， 3021</td> 
-  </tr> 
-  <tr> 
-   <td>匈牙利</td> 
-   <td>36， 361</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">愛爾蘭 </td> 
-   <td colspan="1">353， 3531</td> 
-  </tr> 
-  <tr> 
-   <td>以色列</td> 
-   <td>972</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">義大利</td> 
-   <td colspan="1">39</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">哈薩克 </td> 
-   <td colspan="1">76， 77</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">韓國</td> 
-   <td colspan="1">82</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">拉脫維亞 </td> 
-   <td colspan="1">371</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">墨西哥</td> 
-   <td colspan="1">52， 5233， 5255， 5281</td> 
-  </tr> 
-  <tr> 
-   <td>摩納哥</td> 
-   <td>377</td> 
-  </tr> 
-  <tr> 
-   <td>荷蘭 </td> 
-   <td>31</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">挪威 </td> 
-   <td colspan="1">47</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">秘魯 </td> 
-   <td colspan="1">5112， 5113， 5114， 5115， 5116， 5117</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">波蘭 </td> 
-   <td colspan="1">48， 4832</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">葡萄牙 </td> 
-   <td colspan="1">351</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">新加坡 </td> 
-   <td colspan="1">65， 658， 659</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">西班牙 </td> 
-   <td colspan="1">34</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">瑞典 </td> 
-   <td colspan="1">46</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">英國</td> 
-   <td colspan="1">44， 44203， 44207， 44208</td> 
-  </tr> 
-  <tr> 
-   <td>美國</td> 
-   <td>1， 1800,1808， 1844， 1855， 1866， 1867， 1877， 1888</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>國家/地區</th>
+   <th>支援的國家代碼</th>
+  </tr>
+  <tr>
+   <td colspan="1">阿根廷</td>
+   <td colspan="1">54221， 54223， 54261， 54291， 54341， 54342， 54351</td>
+  </tr>
+  <tr>
+   <td colspan="1">奧地利</td>
+   <td colspan="1">43， 431， 4312288， 43438， 4350， 4357， 4359， 436555， 43677， 4369988， 4369989， 43720， 43780， 439</td>
+  </tr>
+  <tr>
+   <td colspan="1">巴哈馬</td>
+   <td colspan="1">1242</td>
+  </tr>
+  <tr>
+   <td><p>巴西</p></td>
+   <td>5511， 5521， 5527， 5531， 5541， 5551， 5561， 5562， 5581， 5585</td>
+  </tr>
+  <tr>
+   <td>賽普勒斯 </td>
+   <td>357</td>
+  </tr>
+  <tr>
+   <td colspan="1">丹麥 </td>
+   <td colspan="1">45</td>
+  </tr>
+  <tr>
+   <td colspan="1">法國</td>
+   <td colspan="1">33</td>
+  </tr>
+  <tr>
+   <td>德國</td>
+   <td>49</td>
+  </tr>
+  <tr>
+   <td>希臘 </td>
+   <td>30， 3021</td>
+  </tr>
+  <tr>
+   <td>匈牙利</td>
+   <td>36， 361</td>
+  </tr>
+  <tr>
+   <td colspan="1">愛爾蘭 </td>
+   <td colspan="1">353， 3531</td>
+  </tr>
+  <tr>
+   <td>以色列</td>
+   <td>972</td>
+  </tr>
+  <tr>
+   <td colspan="1">義大利</td>
+   <td colspan="1">39</td>
+  </tr>
+  <tr>
+   <td colspan="1">哈薩克 </td>
+   <td colspan="1">76， 77</td>
+  </tr>
+  <tr>
+   <td colspan="1">韓國</td>
+   <td colspan="1">82</td>
+  </tr>
+  <tr>
+   <td colspan="1">拉脫維亞 </td>
+   <td colspan="1">371</td>
+  </tr>
+  <tr>
+   <td colspan="1">墨西哥</td>
+   <td colspan="1">52， 5233， 5255， 5281</td>
+  </tr>
+  <tr>
+   <td>摩納哥</td>
+   <td>377</td>
+  </tr>
+  <tr>
+   <td>荷蘭 </td>
+   <td>31</td>
+  </tr>
+  <tr>
+   <td colspan="1">挪威 </td>
+   <td colspan="1">47</td>
+  </tr>
+  <tr>
+   <td colspan="1">秘魯 </td>
+   <td colspan="1">5112， 5113， 5114， 5115， 5116， 5117</td>
+  </tr>
+  <tr>
+   <td colspan="1">波蘭 </td>
+   <td colspan="1">48， 4832</td>
+  </tr>
+  <tr>
+   <td colspan="1">葡萄牙 </td>
+   <td colspan="1">351</td>
+  </tr>
+  <tr>
+   <td colspan="1">新加坡 </td>
+   <td colspan="1">65， 658， 659</td>
+  </tr>
+  <tr>
+   <td colspan="1">西班牙 </td>
+   <td colspan="1">34</td>
+  </tr>
+  <tr>
+   <td colspan="1">瑞典 </td>
+   <td colspan="1">46</td>
+  </tr>
+  <tr>
+   <td colspan="1">英國</td>
+   <td colspan="1">44， 44203， 44207， 44208</td>
+  </tr>
+  <tr>
+   <td>美國</td>
+   <td>1， 1800,1808， 1844， 1855， 1866， 1867， 1877， 1888</td>
+  </tr>
+ </tbody>
 </table>
 
 ## 國際電話常見問題集 {#international-calling-faq}

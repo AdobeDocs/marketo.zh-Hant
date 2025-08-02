@@ -4,7 +4,7 @@ description: 瞭解系統管理的欄位 — Marketo檔案 — 產品檔案
 title: 瞭解系統管理的欄位
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: fc25a088005ee1d552f6e61e2fa7b953e2fde862
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '523'
 ht-degree: 8%
@@ -121,19 +121,19 @@ ht-degree: 8%
   </tr>
   <tr>
     <td>銷售電子郵件</td>
-    <td>已透過Sales Insight電子郵件增益集傳送電子郵件給人員</td>
+    <td>已透過銷售Insight電子郵件增益集傳送電子郵件給個人</td>
   </tr>
   <tr>
     <td>個人</td>
     <td>已將個人從Salesforce同步為個人</td>
   </tr>
   <tr>
-    <td>連絡人</td>
+    <td>聯絡人</td>
     <td>已將人員從Webhook同步為聯絡人</td>
   </tr>
   <tr>
-    <td>Munchkin API</td>
-    <td>Marketo EngageMunchkin API已發現人員</td>
+    <td>MUNCHKIN API</td>
+    <td>Marketo Engage Munchkin API已發現人員</td>
   </tr>
   <tr>
     <td>社交應用程式</td>
@@ -165,7 +165,7 @@ ht-degree: 8%
   </tr>
   <tr>
     <td>Salesforce.com</td>
-    <td>透過Salesforce同步成為人員</td>
+    <td>透過Salesforce同步成為人</td>
   </tr>
   <tr>
     <td>網頁表單轉出</td>
@@ -173,7 +173,7 @@ ht-degree: 8%
   </tr>
   <tr>
     <td>銷售電子郵件</td>
-    <td>已透過Sales Insight電子郵件增益集傳送電子郵件給人員</td>
+    <td>已透過銷售Insight電子郵件增益集傳送電子郵件給個人</td>
   </tr>
   <tr>
     <td>網站服務API</td>
@@ -184,7 +184,7 @@ ht-degree: 8%
     <td>已將人員手動輸入資料庫</td>
   </tr>
   <tr>
-    <td>Munchkin API</td>
+    <td>MUNCHKIN API</td>
     <td>透過Marketo的Munchkin API成為人</td>
   </tr>
   <tr>

@@ -3,7 +3,7 @@ description: 使用全域搜尋 — Marketo檔案 — 產品檔案
 title: 使用全域搜尋
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
@@ -40,27 +40,27 @@ ht-degree: 3%
 
 ![](assets/using-the-global-search-6.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>專案/目的地的名稱</td> 
+   <td>1</td>
+   <td>專案/目的地的名稱</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>前往個別專案/目的地的路徑（階層連結）</td> 
+   <td>2</td>
+   <td>前往個別專案/目的地的路徑（階層連結）</td>
   </tr>
   <tr>
-   <td>3</td> 
-   <td>上次修改專案/目的地的日期和時間</td> 
+   <td>3</td>
+   <td>上次修改專案/目的地的日期和時間</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>建立專案/目的地的日期和時間</td> 
+   <td>4</td>
+   <td>建立專案/目的地的日期和時間</td>
   </tr>
   <tr>
-   <td>5</td> 
-   <td>實作重點篩選條件以縮小搜尋結果</td> 
+   <td>5</td>
+   <td>實作重點篩選條件以縮小搜尋結果</td>
   </tr>
  </tbody>
 </table>

@@ -3,10 +3,10 @@ description: Salesforce同步狀態 — Marketo檔案 — 產品檔案
 title: Salesforce同步狀態
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 4%
+source-wordcount: '542'
+ht-degree: 5%
 
 ---
 
@@ -22,11 +22,11 @@ ht-degree: 4%
 
 ## 檢視同步處理狀態 {#view-sync-status}
 
-1. 按一下&#x200B;**[!UICONTROL 管理員]**。
+1. 按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. 在[!UICONTROL 整合]下，按一下&#x200B;**Salesforce**，然後按一下&#x200B;**[!UICONTROL 同步處理狀態]**&#x200B;索引標籤。
+1. 在[!UICONTROL Integration]底下，按一下&#x200B;**Salesforce**，然後按一下&#x200B;**[!UICONTROL Sync Status]**&#x200B;索引標籤。
 
    ![](assets/salesforce-sync-status-2.png)
 
@@ -40,213 +40,213 @@ ht-degree: 4%
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. 選取您的日期和時間範圍，然後按一下下拉式清單，依[!UICONTROL 物件型別]、[!UICONTROL 作業型別]和/或[!UICONTROL 狀態型別]篩選。
+1. 選取您的日期和時間範圍，然後按一下下拉式清單以依[!UICONTROL Object Type]、[!UICONTROL Operation Type]和/或[!UICONTROL Status Type]篩選。
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. 按一下&#x200B;**[!UICONTROL 套用]**。
+1. 按一下「**[!UICONTROL Apply]**」。
 
    ![](assets/salesforce-sync-status-6.png)
 
-**選擇性步驟**：若要匯出同步處理錯誤，請按一下[匯出]。**&#x200B;** 資料將會匯出為CSV檔。
+**選擇性步驟**：若要匯出同步錯誤，請按一下&#x200B;**[!UICONTROL Export]**。 資料將會匯出為CSV檔。
 
 ![](assets/salesforce-sync-status-7.png)
 
 ## 同步狀態列位 {#sync-status-fields}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>欄位</th> 
-   <th>說明</th> 
-   <th>列舉值</th> 
-  </tr> 
-  <tr> 
-   <td colspan="1">開始時間</td> 
-   <td colspan="1">同步週期開始日期/時間（使用者的時區）</td> 
-   <td colspan="1"></td> 
-  </tr>  
-  <tr> 
-   <td colspan="1">結束於</td> 
-   <td colspan="1">同步週期結束日期/時間（使用者的時區）</td> 
-   <td colspan="1"></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">物件</td> 
-   <td colspan="1">物件類型</td> 
-   <td colspan="1">聯絡人、人員、任務、商機、銷售機會、其他，如下所示</td> 
-  </tr>  
-  <tr> 
-   <td colspan="1">作業</td> 
-   <td colspan="1">作業型別</td> 
-   <td colspan="1">作業型別，如下所示</td> 
-  </tr>  
-  <tr> 
-   <td colspan="1">狀態</td> 
-   <td colspan="1">批次的狀態</td> 
-   <td colspan="1">成功、失敗、不完整、處理中、已清除*</td> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>欄位</th>
+   <th>說明</th>
+   <th>列舉值</th>
   </tr>
-  <tr> 
-   <td colspan="1">最新</td> 
-   <td colspan="1">新記錄計數</td> 
-   <td colspan="1"></td> 
-  </tr>  
-  <tr> 
-   <td colspan="1">更新時間</td> 
-   <td colspan="1">已更新記錄計數</td> 
-   <td colspan="1"></td> 
-  </tr>  
-  <tr> 
-   <td colspan="1">已刪除</td> 
-   <td colspan="1">刪除的記錄數</td> 
-   <td colspan="1"></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">失敗的專案</td> 
-   <td colspan="1">同步失敗的記錄數</td> 
-   <td colspan="1"><br></td> 
-  </tr>  
-  <tr> 
-   <td colspan="1">已略過</td> 
-   <td colspan="1">因為同步處理感興趣的欄位沒有變更而略過的記錄數</td> 
-   <td colspan="1"></td> 
-  </tr>  
- </tbody> 
+  <tr>
+   <td colspan="1">開始時間</td>
+   <td colspan="1">同步週期開始日期/時間（使用者的時區）</td>
+   <td colspan="1"></td>
+  </tr>
+  <tr>
+   <td colspan="1">結束於</td>
+   <td colspan="1">同步週期結束日期/時間（使用者的時區）</td>
+   <td colspan="1"></td>
+  </tr>
+  <tr>
+   <td colspan="1">物件</td>
+   <td colspan="1">物件類型</td>
+   <td colspan="1">聯絡人、人員、任務、商機、銷售機會、其他，如下所示</td>
+  </tr>
+  <tr>
+   <td colspan="1">作業</td>
+   <td colspan="1">作業型別</td>
+   <td colspan="1">作業型別，如下所示</td>
+  </tr>
+  <tr>
+   <td colspan="1">狀態</td>
+   <td colspan="1">批次的狀態</td>
+   <td colspan="1">成功、失敗、不完整、處理中、已清除*</td>
+  </tr>
+  <tr>
+   <td colspan="1">新增</td>
+   <td colspan="1">新記錄計數</td>
+   <td colspan="1"></td>
+  </tr>
+  <tr>
+   <td colspan="1">已更新</td>
+   <td colspan="1">已更新記錄計數</td>
+   <td colspan="1"></td>
+  </tr>
+  <tr>
+   <td colspan="1">已刪除</td>
+   <td colspan="1">刪除的記錄數</td>
+   <td colspan="1"></td>
+  </tr>
+  <tr>
+   <td colspan="1">失敗的專案</td>
+   <td colspan="1">同步失敗的記錄數</td>
+   <td colspan="1"><br></td>
+  </tr>
+  <tr>
+   <td colspan="1">已略過</td>
+   <td colspan="1">因為同步處理感興趣的欄位沒有變更而略過的記錄數</td>
+   <td colspan="1"></td>
+  </tr>
+ </tbody>
 </table>
 
 &#42;同步步驟失敗後，資料回覆成先前的完整狀態。
 
 ## 物件類型 {#object-type}
 
-<table> 
- <colgroup> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td colspan="1">帳戶</td> 
-  </tr>  
-  <tr> 
-   <td colspan="1">帳戶類型</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">自訂物件</td> 
-  </tr>  
-  <tr> 
-   <td colspan="1">Campaign</td> 
-  </tr>  
-  <tr> 
-   <td colspan="1">促銷活動會員狀態</td> 
+<table>
+ <colgroup>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td colspan="1">帳戶</td>
   </tr>
-  <tr> 
-   <td colspan="1">連絡人</td> 
-  </tr>  
-  <tr> 
-   <td colspan="1">電子郵件範本</td> 
-  </tr>  
-  <tr> 
-   <td colspan="1">事件</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">人員（銷售機會）</td> 
-  </tr>  
-  <tr> 
-   <td colspan="1">機會</td> 
-  </tr>  
-  <tr> 
-   <td colspan="1">機會聯絡人角色</td> 
-  </tr>  
-  <tr> 
-   <td colspan="1">任務</td> 
-  </tr>  
-  <tr> 
-   <td colspan="1">使用者</td> 
-  </tr>  
- </tbody> 
+  <tr>
+   <td colspan="1">帳戶類型</td>
+  </tr>
+  <tr>
+   <td colspan="1">自訂物件</td>
+  </tr>
+  <tr>
+   <td colspan="1">Campaign</td>
+  </tr>
+  <tr>
+   <td colspan="1">促銷活動會員狀態</td>
+  </tr>
+  <tr>
+   <td colspan="1">聯絡人</td>
+  </tr>
+  <tr>
+   <td colspan="1">電子郵件範本</td>
+  </tr>
+  <tr>
+   <td colspan="1">活動</td>
+  </tr>
+  <tr>
+   <td colspan="1">人員（銷售機會）</td>
+  </tr>
+  <tr>
+   <td colspan="1">機會</td>
+  </tr>
+  <tr>
+   <td colspan="1">機會聯絡人角色</td>
+  </tr>
+  <tr>
+   <td colspan="1">任務</td>
+  </tr>
+  <tr>
+   <td colspan="1">使用者</td>
+  </tr>
+ </tbody>
 </table>
 
 ## 作業型別 {#operation-type}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
+<table>
+ <colgroup>
   <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>作業型別</th> 
-   <th>找到這些物件</th> 
-   <th>備註</th> 
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
    <th>作業型別</th>
-  </tr> 
-  <tr> 
-   <td colspan="1">與計畫的初始連結</td> 
-   <td colspan="1">Campaign</td> 
-   <td colspan="1">將行銷活動連結至方案</td> 
+   <th>找到這些物件</th>
+   <th>備註</th>
+   <th>作業型別</th>
+  </tr>
+  <tr>
+   <td colspan="1">與計畫的初始連結</td>
+   <td colspan="1">Campaign</td>
+   <td colspan="1">將行銷活動連結至方案</td>
    <td colspan="1">更新</td>
-  </tr>  
-  <tr> 
-   <td colspan="1">提取轉換</td> 
-   <td colspan="1">人員（銷售機會）*</td> 
-   <td colspan="1">從SFDC提取轉換動作至Marketo。 單位（編號）是轉換為聯絡人的潛在客戶</td> 
+  </tr>
+  <tr>
+   <td colspan="1">提取轉換</td>
+   <td colspan="1">人員（銷售機會）*</td>
+   <td colspan="1">提取SFDC到Marketo的轉換動作。 單位（編號）是轉換為聯絡人的潛在客戶</td>
    <td colspan="1">更新，失敗專案或略過</td>
-  </tr> 
-  <tr> 
-   <td colspan="1">提取刪除</td> 
-   <td colspan="1">聯絡人，人員（銷售機會），機會，行銷活動，行銷活動成員，機會聯絡人，自訂物件，行銷活動，行銷活動成員狀態，機會聯絡人角色</td> 
-   <td colspan="1">正在同步至Marketo的已刪除SFDC記錄</td> 
+  </tr>
+  <tr>
+   <td colspan="1">提取刪除</td>
+   <td colspan="1">聯絡人，人員（銷售機會），機會，行銷活動，行銷活動成員，機會聯絡人，自訂物件，行銷活動，行銷活動成員狀態，機會聯絡人角色</td>
+   <td colspan="1">正在同步至Marketo的SFDC已刪除記錄</td>
    <td colspan="1">已刪除、失敗專案或已略過</td>
-  </tr>  
-  <tr> 
-   <td colspan="1">提取更新</td> 
-   <td colspan="1">任務，人員（銷售機會），人員（銷售機會）佇列，聯絡人，事件，機會，帳戶，帳戶型別，促銷活動成員，自訂物件，促銷活動，促銷活動成員狀態，事件，人員狀態，機會，機會聯絡人角色</td> 
-   <td colspan="1">SFDC中的更新或新記錄已同步至Marketo，將事件提取為活動</td> 
+  </tr>
+  <tr>
+   <td colspan="1">提取更新</td>
+   <td colspan="1">任務，人員（銷售機會），人員（銷售機會）佇列，聯絡人，事件，機會，帳戶，帳戶型別，促銷活動成員，自訂物件，促銷活動，促銷活動成員狀態，事件，人員狀態，機會，機會聯絡人角色</td>
+   <td colspan="1">SFDC中的更新或新記錄已同步至Marketo，提取事件作為活動</td>
    <td colspan="1">新增、更新、失敗的專案或已略過</td>
-  </tr>  
-  <tr> 
-   <td colspan="1">推送新內容</td> 
-   <td colspan="1">任務，電子郵件範本</td> 
-   <td colspan="1">推送任務（活動）</td> 
+  </tr>
+  <tr>
+   <td colspan="1">推送新內容</td>
+   <td colspan="1">任務，電子郵件範本</td>
+   <td colspan="1">推送任務（活動）</td>
    <td colspan="1"></td>
   </tr>
-  <tr> 
-   <td colspan="1">推送更新</td> 
-   <td colspan="1">任務，電子郵件範本，人員，連絡人，行銷活動</td> 
-   <td colspan="1">將更新推送到SFDC也會刪除</td> 
+  <tr>
+   <td colspan="1">推送更新</td>
+   <td colspan="1">任務，電子郵件範本，人員，連絡人，行銷活動</td>
+   <td colspan="1">將更新推送到SFDC也會刪除</td>
    <td colspan="1">更新，失敗專案或略過</td>
-  </tr>  
-  <tr> 
-   <td colspan="1">同步結構描述</td> 
-   <td colspan="1">行銷活動成員，自訂物件，行銷活動，行銷活動成員狀態，任務，人員，機會，機會聯絡人角色，使用者</td> 
-   <td colspan="1">同步不同物件的中繼資料，以決定要在下一個週期同步哪些新欄位</td> 
+  </tr>
+  <tr>
+   <td colspan="1">同步結構描述</td>
+   <td colspan="1">行銷活動成員，自訂物件，行銷活動，行銷活動成員狀態，任務，人員，機會，機會聯絡人角色，使用者</td>
+   <td colspan="1">同步不同物件的中繼資料，以決定要在下一個週期同步哪些新欄位</td>
    <td colspan="1"></td>
-  </tr>  
-  <tr> 
-   <td colspan="1">與程式同步</td> 
-   <td colspan="1">行銷活動</td> 
-   <td colspan="1">將Marketo方案與SFDC行銷活動同步</td> 
+  </tr>
+  <tr>
+   <td colspan="1">與程式同步</td>
+   <td colspan="1">行銷活動</td>
+   <td colspan="1">將Marketo方案與SFDC行銷活動同步</td>
    <td colspan="1">新增、更新、失敗或略過</td>
-  </tr> 
-  <tr> 
-   <td colspan="1">更新活動</td> 
-   <td colspan="1">任務</td> 
-   <td colspan="1">從Salesforce提取活動</td> 
+  </tr>
+  <tr>
+   <td colspan="1">更新活動</td>
+   <td colspan="1">任務</td>
+   <td colspan="1">從Salesforce提取活動</td>
    <td colspan="1"></td>
-  </tr>  
-  <tr> 
-   <td colspan="1">更新FKS</td> 
-   <td colspan="1">全部</td> 
-   <td colspan="1">更新所有物件的外部索引鍵</td> 
+  </tr>
+  <tr>
+   <td colspan="1">更新FKS</td>
+   <td colspan="1">全部</td>
+   <td colspan="1">更新所有物件的外部索引鍵</td>
    <td colspan="1">不適用</td>
-  </tr>  
- </tbody> 
+  </tr>
+ </tbody>
 </table>
 
 &#42;訂閱層級的品牌設定會決定報告中的標籤 — 「銷售機會」或「人員」。

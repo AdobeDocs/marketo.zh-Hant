@@ -4,7 +4,7 @@ description: 建立自由表單登陸頁面範本 — Marketo檔案 — 產品�
 title: 建立自由形式的登入頁面範本
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >若要防止表單預先填入，或不想追蹤特定頁面上的網頁行為，請選取&#x200B;**[!UICONTROL Disable Munchkin Tracking]**。\
+   >若要防止表單預先填入，或不想追蹤特定頁面上的網頁行為，請選取&#x200B;**[!UICONTROL Disable Munchkin Tracking]**。
    >選取&#x200B;**[!UICONTROL Validate Mobile Compatibility]**&#x200B;以確定您的程式碼與行動裝置相容。
 
    >[!MORELIKETHIS]

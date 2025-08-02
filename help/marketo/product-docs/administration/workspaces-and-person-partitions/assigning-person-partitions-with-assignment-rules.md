@@ -4,9 +4,9 @@ description: 使用指派規則指派人員分割區 — Marketo檔案 — 產�
 title: 使用指定規則指定人員分割
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '159'
 ht-degree: 1%
 
 ---
@@ -25,21 +25,21 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->只有在Marketo中從您的CRM和透過SOAP API建立的人員會套用指派規則。
+>只有在Marketo中從您的CRM透過SOAP API建立的人員才會套用指派規則。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 工作區與分割區]**。
+1. 按一下「**[!UICONTROL Workspaces & Partitions]**」。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. 在&#x200B;**[!UICONTROL 人員分割]**&#x200B;標籤下，按一下&#x200B;**[!UICONTROL 指派規則]**。
+1. 在&#x200B;**[!UICONTROL Person Partitions]**&#x200B;標籤下，按一下&#x200B;**[!UICONTROL Assignment Rules]**。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. 按一下&#x200B;**[!UICONTROL 新增選擇]**，新增將人員路由至人員分割的條件。
+1. 按一下&#x200B;**[!UICONTROL Add Choice]**&#x200B;以新增將人員路由至人員分割的條件。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
@@ -59,7 +59,7 @@ ht-degree: 1%
    >
    >您可以新增任意數量的選擇。
 
-1. 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 

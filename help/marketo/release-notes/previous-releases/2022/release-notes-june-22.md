@@ -3,7 +3,7 @@ description: 發行說明 — 2022年6月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2022 年 6 月
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 0%
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ![（星形）](assets/yellow-star.png)
 
-* 在&#x200B;[!DNL Salesforce]&#x200B;**中設定的**&#x200B;[!DNL Sales Insight]&#x200B;許可權：管理員可以透過Marketo App許可權集（屬於[!DNL Sales Insight] [!DNL Salesforce]套件的一部分）提供[!DNL Sales Insight]存取權給使用者層級的有限人員集合，而非設定檔層級。
+* 在&#x200B;**[!DNL Sales Insight]中設定的[!DNL Salesforce]**&#x200B;許可權：管理員可以透過Marketo App許可權集（屬於[!DNL Sales Insight] [!DNL Sales Insight]套件的一部分）提供[!DNL Salesforce]存取權給使用者層級的有限人員集合，而非設定檔層級。
 
 * **我的Marketo動態磚更新 — [!DNL Sales Insight]動作**： Marketo管理員（以及他們指定的使用者）現在可以透過位於「我的Marketo」頁面上的新[!DNL Sales Insight]動作動態磚，快速導覽至他們的[!DNL Sales Insight]動作執行個體。
 

@@ -4,7 +4,7 @@ description: 帳戶分數 — Marketo檔案 — 產品檔案
 title: 帳戶分數
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%
@@ -23,19 +23,19 @@ ht-degree: 0%
 
 ## 常見範例 {#common-examples}
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td><strong>帳戶參與分數</strong></td> 
+   <td><strong>帳戶參與分數</strong></td>
    <td>參與深度是根據特定目標帳戶中人員的各種管道（例如電子郵件、網頁和廣告）所追蹤的行為活動而定。</td>
   </tr>
   <tr>
    <td><strong>帳戶產品興趣分數</strong></td>
-   <td>目標帳戶中的人員對特定產品的內容（例如下載白皮書）表現出興趣。</td> 
+   <td>目標帳戶中的人員對特定產品的內容（例如下載白皮書）表現出興趣。</td>
   </tr>
   <tr>
    <td><strong>帳戶網頁參與分數</strong></td>
-   <td>目標帳戶中造訪Web Channel的人員。 可以建立相同的分數來測量電子郵件、廣告或其他頻道的頻道參與度。</td> 
+   <td>目標帳戶中造訪Web Channel的人員。 可以建立相同的分數來測量電子郵件、廣告或其他頻道的頻道參與度。</td>
   </tr>
  </tbody>
 </table>
@@ -46,10 +46,10 @@ ht-degree: 0%
 >
 >若要計算帳戶分數，您必須先建立潛在客戶分數。 Marketo TAM會自動將潛在客戶分數彙總至帳戶分數。 舉例來說，我們舉兩個上述範例（_帳戶產品興趣分數_&#x200B;和&#x200B;_帳戶網頁參與分數_）。
 >
->首先，建立銷售機會分數欄位，從目標帳戶的每個銷售機會擷取相關詳細資訊。\
->然後，將這些潛在客戶分數指派給其個別帳戶分數：\
->帳戶產品利息分數= SUM （潛在客戶產品利息分數）\
->帳戶網站參與分數= SUM （潛在客戶網站參與分數）
+>首先，建立銷售機會分數欄位，從目標帳戶的每個銷售機會擷取相關詳細資訊。
+>>然後，將這些潛在客戶分數指派給其個別帳戶分數：
+>>帳戶產品利息分數= SUM （潛在客戶產品利息分數）
+>>帳戶網站參與分數= SUM （潛在客戶網站參與分數）
 
 >[!NOTE]
 >

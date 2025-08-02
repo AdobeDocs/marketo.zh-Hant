@@ -3,10 +3,10 @@ description: OA-YYYY-MM-Online Advertising Marketo登陸頁面 — Marketo檔案
 title: OA-YYYY-MM-Online Advertising Marketo登陸頁面
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
@@ -18,155 +18,155 @@ ht-degree: 3%
 
 ## 頻道摘要 {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>管道</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Channel</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>
-  </tr> 
-  <tr> 
-   <td>線上Advertising</td> 
-   <td>01 — 成員 
+  </tr>
+  <tr>
+   <td>線上Advertising</td>
+   <td>01 — 成員
 <br/>02 — 參與 — 成功</td>
    <td>包含</td>
    <td>預設</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 程式包含下列Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>類型</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>類型</th>
    <th>範本名稱</th>
    <th>資產名稱</th>
-  </tr> 
-  <tr> 
-   <td>表單</td> 
+  </tr>
+  <tr>
+   <td>表單</td>
    <td> </td>
    <td>FM-Content註冊</td>
   </tr>
-  <tr> 
-   <td>電子郵件</td> 
+  <tr>
+   <td>電子郵件</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>01 — 電子郵件 — 感謝您</td>
   </tr>
-  <tr> 
-   <td>登陸頁面</td> 
+  <tr>
+   <td>登陸頁面</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入門LP範本</a></td>
    <td>01 - LP — 註冊</td>
   </tr>
-   <tr> 
-   <td>登陸頁面</td> 
+   <tr>
+   <td>登陸頁面</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入門LP範本</a></td>
    <td>02 - LP — 感謝您</td>
   </tr>
-   <tr> 
-   <td>本地報告</td> 
+   <tr>
+   <td>本地報告</td>
    <td> </td>
    <td>電子郵件效能</td>
   </tr>
-  <tr> 
-   <td>本地報告</td> 
+  <tr>
+   <td>本地報告</td>
    <td> </td>
    <td>登陸頁面績效</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>00 — 擷取贏取計畫</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>01 — 填寫表單</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>02 — 參與（計畫成功）</td>
   </tr>
-  <tr> 
-   <td>資料夾</td> 
+  <tr>
+   <td>資料夾</td>
    <td> </td>
-   <td>Assets — 容納所有創意資產 
+   <td>Assets — 容納所有創意資產
 <br/>（電子郵件和登陸頁面的子資料夾）  </td>
   </tr>
-  <tr> 
-   <td>資料夾</td> 
+  <tr>
+   <td>資料夾</td>
    <td> </td>
    <td>行銷活動 — 包含所有Smart Campaigns</td>
   </tr>
-  <tr> 
-   <td>資料夾</td> 
+  <tr>
+   <td>資料夾</td>
    <td> </td>
    <td>報表</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/oa-yyyy-mm-online-advertising-marketo-landing-page-1.png)
 
 ## 包含我的Token {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>權杖型別</th> 
-   <th>Token名稱</th>
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>權杖型別</th>
+   <th>代號名稱</th>
    <th>值</th>
-  </tr> 
-  <tr> 
-   <td>RTF文字</td> 
+  </tr>
+  <tr>
+   <td>RTF文字</td>
    <td><code>{{my.Content-Description}}</code></td>
-   <td>按兩下以取得詳細資訊  
-<br/><code><--My Content Description Here--></code> 
-<br/>在[我的Token]索引標籤下方的方案層級編輯此內容說明。 
-<br/>您將能學習到： 
+   <td>按兩下以取得詳細資訊
+<br/><code><--My Content Description Here--></code>
+<br/>在[我的Token]索引標籤下方的方案層級編輯此內容說明。
+<br/>您將能學習到：
 <li>專案符號1</li>
 <li>專案符號2</li>
 <li>專案符號3</li></td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Content-Title}}</code></td>
    <td><code><--My Content Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Content-Type}}</code></td>
    <td><code><--My Content Type Here--></code></td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Content-URL}}</code></td>
    <td>my.ContentURL?without=http://</td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>My.ThankYouPageURL？不含http://</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 程式熒幕擷圖

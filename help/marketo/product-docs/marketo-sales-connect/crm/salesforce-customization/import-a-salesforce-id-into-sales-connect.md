@@ -4,7 +4,7 @@ description: 將Salesforce ID匯入Sales Connect - Marketo檔案 — 產品檔�
 title: 將Salesforce ID匯入Sales Connect
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%

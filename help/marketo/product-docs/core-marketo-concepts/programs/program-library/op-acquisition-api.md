@@ -3,10 +3,10 @@ description: OP-Acquisition-API - Marketo檔案 — 產品檔案
 title: OP-Acquisition-API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -16,48 +16,48 @@ ht-degree: 2%
 
 ## 頻道摘要 {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>管道</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Channel</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>
-  </tr> 
-  <tr> 
-   <td>營運</td> 
+  </tr>
+  <tr>
+   <td>營運</td>
    <td>01位成員</td>
    <td>營運</td>
    <td>預設</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 程式包含下列Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>類型</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>類型</th>
    <th>範本名稱</th>
    <th>資產名稱</th>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>設定贏取 — 批次</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>設定贏取 — 觸發器</td>
   </tr>
-  <tr> 
-   <td>資料夾</td> 
+  <tr>
+   <td>資料夾</td>
    <td> </td>
    <td>行銷活動（包含所有Smart Campaign）</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-acquisition-api-1.png)

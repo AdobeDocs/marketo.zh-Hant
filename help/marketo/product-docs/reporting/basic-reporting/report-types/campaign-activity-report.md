@@ -4,7 +4,7 @@ description: 行銷活動報表 — Marketo檔案 — 產品檔案
 title: 行銷活動報表
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
-source-git-commit: 0fded7d82543f221c96ad08f1486728a39f495e7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 2%
@@ -29,7 +29,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->若要尋找處理最多人員的行銷活動，例如，依&#x200B;_處理的總人數_&#x200B;排序您的報表[&#128279;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}，並選擇&#x200B;**遞減排序**。
+>若要尋找處理最多人員的行銷活動，例如，依[處理的總人數](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}排序您的報表&#x200B;_，並選擇_&#x200B;遞減排序&#x200B;**。**
 
 **[您可以為行銷活動報告包含](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)欄**：
 

@@ -4,16 +4,16 @@ description: 電子郵件範本語法 — Marketo檔案 — 產品檔案
 title: 電子郵件範本語法
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2449'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # 電子郵件範本語法 {#email-template-syntax}
 
-在Marketo的全新電子郵件2.0體驗中，電子郵件範本是由元素、變數、模組或容器的任何組合所組成。 每項都是透過將Marketo專屬的語法新增至您的HTML來定義。 電子郵件編輯器2.0支援舊的(v1.0)電子郵件範本；但是，這些範本不會包含新編輯器的所有功能。
+在Marketo的全新電子郵件2.0體驗中，電子郵件範本是由元素、變數、模組或容器的任何組合所組成。 每個變數都是透過將Marketo專屬的語法新增至您的HTML來定義。 電子郵件編輯器2.0支援舊的(v1.0)電子郵件範本；但是，這些範本不會包含新編輯器的所有功能。
 
 Marketo電子郵件語法只適用於範本和個別電子郵件；如果內嵌在代碼片段或RTF權杖中，則&#x200B;**無法**&#x200B;運作。
 
@@ -36,7 +36,7 @@ Marketo電子郵件語法只適用於範本和個別電子郵件；如果內嵌�
 
 ## RTF文字 {#rich-text}
 
-如果您將區域定義為RTF格式，使用者將可以使用Marketo的RTF編輯器[&#128279;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)編輯其內容。 在電子郵件範本內定義RTF元素有兩個方法： mktEditable和mktoText。 請記住，RTF元素永遠都可以在電子郵件編輯器中轉換為程式碼片段。
+如果您將區域定義為RTF格式，使用者將可以使用Marketo的RTF編輯器[編輯其內容](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)。 在電子郵件範本內定義RTF元素有兩個方法： mktEditable和mktoText。 請記住，RTF元素永遠都可以在電子郵件編輯器中轉換為程式碼片段。
 
 ### 選項1 - mktEditable {#option-mkteditable}
 
@@ -79,7 +79,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的內容將用�
 
 ## 影像 {#images}
 
-您有兩個選項可定義可編輯的影像元素。 您可以使用`<div>`或`<img>`標籤，指定將`<img>`插入其中的容器。 如果您打算讓使用者直接挑選會傳回影像URL （而非DOM）的影像，請參閱下節中的「影像變數」。 下列兩個選項將會插入HTML`<img>`元素。
+您有兩個選項可定義可編輯的影像元素。 您可以使用`<div>`或`<img>`標籤，指定將`<img>`插入其中的容器。 如果您打算讓使用者直接挑選會傳回影像URL （而非DOM）的影像，請參閱下節中的「影像變數」。 下列兩個選項將會插入HTML `<img>`元素。
 
 ### 選項1 — 使用`<div>` {#option-use-a-div}
 
@@ -162,7 +162,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的內容將用�
 
 ## 變數 {#variables}
 
-變數就像代號。 您先使用`<meta>`標籤在電子郵件範本的`<head>`區段中定義這些標籤，然後在整個範本中視需要多次使用這些標籤。 由於已在範本中定義，一般使用者將能根據其規則修改其值。 請注意，您可以在範圍中將變數定義為本機或全域。 如果您在「模組」中使用變數（請參閱下文），而一般使用者重複該模組，則區域變數會有獨立的值，而全域變數將套用至兩個模組。
+變數就像代號。 您先使用`<head>`標籤在電子郵件範本的`<meta>`區段中定義這些標籤，然後在整個範本中視需要多次使用這些標籤。 由於已在範本中定義，一般使用者將能根據其規則修改其值。 請注意，您可以在範圍中將變數定義為本機或全域。 如果您在「模組」中使用變數（請參閱下文），而一般使用者重複該模組，則區域變數會有獨立的值，而全域變數將套用至兩個模組。
 
 ## 字串 {#string}
 
@@ -286,7 +286,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的內容將用�
 
 ## HTML區塊 {#html-block}
 
-如果您指定變數作為HTML區塊，一般使用者將可從電子郵件編輯器輸入逐字HTML。 您使用`<meta>`搭配class=&quot;mktoHTML&quot;來指定HTML區塊變數
+如果您將變數指定為HTML區塊，一般使用者將可從電子郵件編輯器輸入逐字HTML。 您使用`<meta>`搭配class=&quot;mktoHTML&quot;來指定HTML區塊變數
 
 必要屬性
 
@@ -295,7 +295,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的內容將用�
 
 選擇性屬性
 
-* **預設值：** HTML編碼值做為區塊的預設內容。
+* **預設：** HTML編碼值做為區塊的預設內容。
 * **mktoModuleScope**：布林值。 控制變數在模組中使用時為本機(true)或全域(false)。 如果省略，則預設為False。
 
 宣告範例：
@@ -362,7 +362,7 @@ HTML元素（如果提供）中具有class=&quot;mktoText&quot;的內容將用�
 
 容器內含模組，並定義模組可放置的位置。 當使用者重新排序並將模組插入電子郵件時，容器會控制他們可能前往的位置。
 
-使用`<table>`、`<tbody>`、`<thead>`、`<tfoot>`或具有class=&quot;mktoContainer&quot;**的`<td>`指定**
+使用&#x200B;**、`<table>`、`<tbody>`、`<thead>`或具有class=&quot;mktoContainer&quot;`<tfoot>`的`<td>`指定**
 
 必要屬性
 

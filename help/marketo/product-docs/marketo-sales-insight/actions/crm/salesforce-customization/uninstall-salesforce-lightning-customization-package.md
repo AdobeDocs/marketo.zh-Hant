@@ -3,7 +3,7 @@ description: 解除安裝Salesforce Lightning Customization Package - Marketo檔
 title: 解除安裝Salesforce Lightning自訂套件
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '993'
 ht-degree: 11%
@@ -298,9 +298,9 @@ ht-degree: 11%
   <td>MSC — 上次行銷參與日期</td>
   <td>來自行銷的參與時間戳記</td>
   <td>
-  <p>帳戶 
-  <p>聯絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
   <td>資料與時間</td>
  </tr>
@@ -308,9 +308,9 @@ ht-degree: 11%
   <td>MSC — 上次行銷參與摘要</td>
   <td>參與的說明</td>
   <td>
-  <p>帳戶 
-  <p>聯絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
   <td>文字</td>
  </tr>
@@ -318,9 +318,9 @@ ht-degree: 11%
   <td>MSC — 上次行銷參與Source</td>
   <td>行銷參與的Source</td>
   <td>
-  <p>帳戶 
-  <p>聯絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
   <td>文字</td>
  </tr>
@@ -328,9 +328,9 @@ ht-degree: 11%
   <td>MSC — 上次行銷參與型別</td>
   <td>參與型別（例如：網路活動）</td>
   <td>
-  <p>帳戶 
-  <p>聯絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
   <td>文字</td>
  </tr>
@@ -338,9 +338,9 @@ ht-degree: 11%
   <td>MSC — 按銷售列出的最後作業</td>
   <td>銷售團隊執行的最後一個傳出活動</td>
   <td>
-  <p>帳戶 
-  <p>聯絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
   <td>資料與時間</td>
  </tr>
@@ -348,9 +348,9 @@ ht-degree: 11%
   <td>MSC — 上次回覆</td>
   <td>銷售電子郵件的最後一封電子郵件回覆</td>
   <td>
-  <p>帳戶 
-  <p>聯絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
   <td>資料與時間</td>
  </tr>
@@ -358,9 +358,9 @@ ht-degree: 11%
   <td>MSC — 目前的促銷活動</td>
   <td>記錄連絡人/潛在客戶所在的MSC行銷活動的名稱</td>
   <td>
-  <p>帳戶 
-  <p>聯絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
   <td>文字</td>
  </tr>
@@ -378,9 +378,9 @@ ht-degree: 11%
   <td>MSC — 選擇退出</td>
   <td>選擇退出欄位</td>
   <td>
-  <p>帳戶 
-  <p>聯絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
   <td>核取方塊</td>
  </tr>
@@ -396,9 +396,9 @@ ht-degree: 11%
   <td>[!UICONTROL Send MSC Email]</td>
   <td>傳送銷售電子郵件自 [!DNL Salesforce]</td>
   <td>
-  <p>帳戶 
-  <p>聯絡人 
-  <p>銷售機會 
+  <p>帳戶
+  <p>聯絡人
+  <p>銷售機會
   <p>機會</td>
  </tr>
  <tr>

@@ -3,7 +3,7 @@ description: 即時聊天概述 — Marketo檔案 — 產品檔案
 title: 即時聊天總覽
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 0%
@@ -49,25 +49,25 @@ ht-degree: 0%
 
 ![](assets/live-chat-overview-2.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>循環配置資源</b></td>
    <td>聊天會依序指派給代理程式。</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>專員</b></td>
    <td>選擇要接收聊天的特定代理程式。</td>
   </tr>
-    <tr> 
+    <tr>
    <td><b>自訂規則</b></td>
    <td>考慮將訪客路由到何處時，所有自訂規則都會循環使用。 如果訪客不符合任何自訂規則的資格，他們會收到<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">即時聊天備援訊息</a>。</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>團隊</b></td>
    <td>選擇要接收聊天的特定團隊。 如果選取此選項，則會在該群組中指派循環配置資源。</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 即時聊天通知 {#live-chat-notifications}
@@ -102,7 +102,7 @@ ht-degree: 0%
 >
 >您也可以選擇設定瀏覽器通知，若您未登入Dynamic Chat，通知會提醒您。
 >
->* 在[Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}中啟用瀏覽器通知
+>* 在[Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"}中啟用瀏覽器通知
 >* 在[Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}中啟用瀏覽器通知
 
 ### 失敗的動作通知 {#failed-action-notifications}

@@ -3,10 +3,10 @@ description: WBN-YYYY-MM-DD — 網路研討會計畫 — Marketo檔案 — 產�
 title: WBN-YYYY-MM-DD — 網路研討會計畫
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '591'
-ht-degree: 5%
+ht-degree: 9%
 
 ---
 
@@ -18,276 +18,276 @@ ht-degree: 5%
 
 ## 頻道摘要 {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>管道</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Channel</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>
-  </tr> 
-  <tr> 
-   <td>事件</td> 
-   <td>01 — 已邀請 
+  </tr>
+  <tr>
+   <td>活動</td>
+   <td>01 — 已邀請
    <br/>02 — 已輪候
    <br/>03 — 已註冊
    <br/>04 — 沒有節目
    <br/>05 — 已出席 — 成功
    <br/>06 — 出席隨選講座 — 成功</td>
    <td>包含</td>
-   <td>事件
+   <td>活動
    <p>（整合：活動與網路研討會）</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 程式包含下列Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>類型</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>類型</th>
    <th>範本名稱</th>
    <th>資產名稱</th>
-  </tr> 
-  <tr> 
-   <td>電子郵件</td> 
+  </tr>
+  <tr>
+   <td>電子郵件</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>01 — 電子郵件 — 邀請</td>
   </tr>
-   <tr> 
-   <td>電子郵件</td> 
+   <tr>
+   <td>電子郵件</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>02 — 電子郵件 — 邀請提醒</td>
   </tr>
-   <tr> 
-   <td>電子郵件</td> 
+   <tr>
+   <td>電子郵件</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>03 — 電子郵件 — 邀請提醒 — 最後機會</td>
   </tr>
-  <tr> 
-   <td>電子郵件</td> 
+  <tr>
+   <td>電子郵件</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>04 — 電子郵件 — 註冊確認</td>
   </tr>
-  <tr> 
-   <td>電子郵件</td> 
+  <tr>
+   <td>電子郵件</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>05 — 電子郵件 — 出席提醒</td>
   </tr>
-  <tr> 
-   <td>電子郵件</td> 
+  <tr>
+   <td>電子郵件</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>06 — 電子郵件 — 後續追蹤 — 已出席</td>
   </tr>
-  <tr> 
-   <td>電子郵件</td> 
+  <tr>
+   <td>電子郵件</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
    <td>07 — 電子郵件 — 後續追蹤 — 不顯示 </td>
   </tr>
   <tr>
-  <tr> 
-   <td>表單</td> 
+  <tr>
+   <td>表單</td>
    <td> </td>
    <td>FM事件註冊</td>
   </tr>
-  <tr> 
-   <td>登陸頁面</td> 
+  <tr>
+   <td>登陸頁面</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入門LP範本</a></td>
    <td>01 - LP — 註冊</td>
   </tr>
-  <tr> 
-   <td>登陸頁面</td> 
+  <tr>
+   <td>登陸頁面</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入門LP範本</a></td>
    <td>02 - LP — 感謝您</td>
   </tr>
-  <tr> 
-   <td>登陸頁面</td> 
+  <tr>
+   <td>登陸頁面</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">快速入門LP範本</a></td>
    <td>03 - LP — 隨選</td>
   </tr>
-  <tr> 
-   <td>本地報告</td> 
+  <tr>
+   <td>本地報告</td>
    <td> </td>
    <td>電子郵件效能</td>
   </tr>
-   <tr> 
-   <td>本地報告</td> 
+   <tr>
+   <td>本地報告</td>
    <td> </td>
    <td>登陸頁面績效</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>00 — 擷取贏取計畫</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>01 — 處理註冊</td>
   </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
+   <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>02a — 傳送邀請</td>
   </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
+   <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>02b — 傳送邀請提醒</td>
   </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
+   <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>02c — 傳送邀請提醒最後機會</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>03 — 傳送出席提醒</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>04 — 傳送後續追蹤電子郵件</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>智慧行銷活動</td>
    <td> </td>
    <td>05 — 隨選出席（計畫成功）</td>
   </tr>
-  <tr> 
-   <td>資料夾</td> 
+  <tr>
+   <td>資料夾</td>
    <td> </td>
-   <td>Assets — 容納所有創意資產 
+   <td>Assets — 容納所有創意資產
 <br/>(電子郵件、登陸頁面和Forms的子資料夾)</td>
   </tr>
-  <tr> 
-   <td>資料夾</td> 
+  <tr>
+   <td>資料夾</td>
    <td> </td>
    <td>行銷活動 — 容納所有智慧行銷活動</td>
   </tr>
-  <tr> 
-   <td>資料夾</td> 
+  <tr>
+   <td>資料夾</td>
    <td> </td>
    <td>報表</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/wbn-yyyy-mm-dd-webinar-program-1.png)
 
 ## 包含我的Token {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>權杖型別</th> 
-   <th>Token名稱</th>
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>權杖型別</th>
+   <th>代號名稱</th>
    <th>值</th>
   </tr>
-  <tr> 
-   <td>行事曆檔案</td> 
+  <tr>
+   <td>行事曆檔案</td>
    <td><code>{{my.AddToCalendar}}</code></td>
    <td>按兩下以取得詳細資料</td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.DownloadURL-PresentationSlides}}</code></td>
    <td>my.DownloadURL?without=http:// </td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Event-Date}}</code></td>
    <td><code><--My Event Date--></code></td>
   </tr>
-   <tr> 
-   <td>RTF文字</td> 
+   <tr>
+   <td>RTF文字</td>
    <td><code>{{my.Event-Description}}</code></td>
-   <td>按兩下以取得詳細資訊  
-<br/><code><--My Event Description Here--></code> 
-<br/>在[我的Token]索引標籤下方的方案層級編輯此事件說明。 
-<br/>您將能學習到： 
+   <td>按兩下以取得詳細資訊
+<br/><code><--My Event Description Here--></code>
+<br/>在[我的Token]索引標籤下方的方案層級編輯此事件說明。
+<br/>您將能學習到：
 <li>專案符號1</li>
 <li>專案符號2</li>
 <li>專案符號3</li></td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Event-Time}}</code></td>
    <td><code><--My Event Time + TimeZone--></code></td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Event-Title}}</code></td>
    <td><code><--My Event Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Event-Type}}</code></td>
    <td>網路研討會</td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.PageURL-Download}}</code></td>
    <td>my.DownloadURL?without=http://</td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.PageURL-Registration}}</code></td>
    <td>my.RegistrationPageURL?without=http://</td>
   </tr>
-   <tr> 
-   <td>文字</td> 
+   <tr>
+   <td>文字</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>my.ThankYouPageURL?without=http://</td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Speaker1-Name}}</code></td>
    <td><code><--Speaker Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Speaker1-Title}}</code></td>
    <td><code><--Speaker Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Speaker2-Name}}</code></td>
    <td><code><--Speaker Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Speaker2-Title}}</code></td>
    <td><code><--Speaker Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>文字</td> 
+  <tr>
+   <td>文字</td>
    <td><code>{{my.Speaker3-Name}}</code></td>
    <td><code><--Speaker Name Here--></code></td>
   </tr>
- <tr> 
-   <td>文字</td> 
+ <tr>
+   <td>文字</td>
    <td><code>{{my.Speaker3-Title}}</code></td>
    <td><code><--Speaker Title Here--></code></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 衝突規則 {#conflict-rules}

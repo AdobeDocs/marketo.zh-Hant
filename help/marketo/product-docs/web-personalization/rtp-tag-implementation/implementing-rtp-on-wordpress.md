@@ -4,7 +4,7 @@ description: 在Wordpress上實作RTP - Marketo檔案 — 產品檔案
 title: 在Wordpress上實作RTP
 exl-id: f010942b-02bb-447b-a272-c4237782b2d7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%

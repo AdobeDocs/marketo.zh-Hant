@@ -2,7 +2,7 @@
 description: 設定標籤 — Marketo檔案 — 產品檔案
 title: 設定標籤
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%

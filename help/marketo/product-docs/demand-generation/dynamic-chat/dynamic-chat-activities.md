@@ -2,7 +2,7 @@
 description: '[!DNL Dynamic Chat]活動 — Marketo檔案 — 產品檔案'
 title: '[!DNL Dynamic Chat]個活動'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td style="width:25%"><b>已參與交談流程/對話方塊</b></td>
-    <td>Web訪客首次在對話方塊或對話流程（按一下多重選擇選項、提交資訊、預約會議、開啟檔案等）中點選提示時就會發生參與。 如果訪客開啟對話方塊或對話流程，但未點按提示，則參與<b>未</b>記錄。 
+    <td>Web訪客首次在對話方塊或對話流程（按一下多重選擇選項、提交資訊、預約會議、開啟檔案等）中點選提示時就會發生參與。 如果訪客開啟對話方塊或對話流程，但未點按提示，則參與<b>未</b>記錄。
     <br>每個訪客、每個工作階段一個參與事件。</td>
   </tr>
    <tr>

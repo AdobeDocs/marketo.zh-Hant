@@ -4,7 +4,7 @@ description: 與Salesforce同步取消訂閱 — Marketo檔案 — 產品檔案
 title: 與Salesforce同步取消訂閱
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 1%

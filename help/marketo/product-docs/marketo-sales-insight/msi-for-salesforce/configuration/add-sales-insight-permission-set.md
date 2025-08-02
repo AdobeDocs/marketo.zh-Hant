@@ -3,7 +3,7 @@ description: 新增銷售Insight許可權集 — Marketo檔案 — 產品檔案
 title: 新增銷售Insight許可權集
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 1%
@@ -28,53 +28,53 @@ ht-degree: 1%
 
 **物件設定**
 
-<table> 
- <tbody> 
- <tr> 
-   <td>BestBetsCache</td> 
-   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>最佳化檢視詳細資料</td> 
-   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>最佳化檢視</td> 
-   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>EmailActivityCache</td> 
-   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>GetMethodArgus</td> 
-   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>GroupedWebActivityCache</td> 
-   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>InterestedMentsCache</td> 
-   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>Marketo [!DNL Sales Insight]設定</td> 
-   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>評分快取</td> 
-   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>值</td> 
-   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
-  </tr> 
-  <tr> 
-   <td>WebActivityCache</td> 
-   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+ <tr>
+   <td>BestBetsCache</td>
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>最佳化檢視詳細資料</td>
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>最佳化檢視</td>
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>EmailActivityCache</td>
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>GetMethodArgus</td>
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>GroupedWebActivityCache</td>
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>InterestedMentsCache</td>
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>Marketo [!DNL Sales Insight]設定</td>
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>評分快取</td>
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>值</td>
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td>
+  </tr>
+  <tr>
+   <td>WebActivityCache</td>
+   <td>讀取、建立、編輯、刪除、檢視全部、修改全部</td>
+  </tr>
+ </tbody>
 </table>
 
 * Apex類別存取：以「mkto_si」開頭的159個Apex類別

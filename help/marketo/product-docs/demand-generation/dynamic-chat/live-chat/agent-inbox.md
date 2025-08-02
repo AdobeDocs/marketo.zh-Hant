@@ -3,7 +3,7 @@ description: 代理程式收件匣 — Marketo檔案 — 產品檔案
 title: 專員收件匣
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 0%
@@ -128,4 +128,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->訪客的個人記錄活動記錄中，也可在您的Marketo Engage資料庫中找到已完成的交談摘要。
+>訪客的個人記錄活動記錄檔中，也提供Marketo Engage資料庫中已完成的交談摘要。

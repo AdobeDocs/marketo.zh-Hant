@@ -1,12 +1,12 @@
 ---
 description: 發行說明 — 2023年1月 — Marketo檔案 — 產品檔案
-title: 發行說明 — 2023年1月
+title: 發行說明 - 2023 年 1 月
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 3%
 
 下列功能屬於標準發行週期，並將於&#x200B;**2023年1月20日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行功能和日期可能會有所變更。 請檢視每個功能下方的狀態。
 
-### Marketo Engage新式UX {#modern-ux}
+### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
@@ -31,12 +31,12 @@ ht-degree: 3%
    * 程式碼片段清單檢視
    * 登陸頁面範本清單
 
-  <table> 
-  <tr> 
+  <table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切換開關</a></td>
   </tr>
@@ -45,12 +45,12 @@ ht-degree: 3%
 
 * **Enhanced Used by Component for Email Template Details and Snippet Details**： New Used By UI索引標籤提供有關每個Used By資產的額外資訊，例如上次修改時間及修改者。 您可以透過搜尋、排序和篩選功能輕鬆執行分析。 此新UI元件將從電子郵件範本和程式碼片段資產開始合併。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td>不適用</td>
   </tr>
@@ -63,12 +63,12 @@ ht-degree: 3%
 
 * **重新設計報表Assets的模組**：新設計的報表Modal UX組態模組，提供更新的外觀，以及改善的協助工具。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td>不適用</td>
   </tr>
@@ -79,16 +79,16 @@ ht-degree: 3%
 
 </br>
 
-* **Marketo Measure Ultimate**：為擁有多個CRM和/或Marketo Engage執行個體以及不同來源資料需求的企業，啟用完整的B2B歸因。 此外，也透過共用的AEP資料，為AdobeRT-CDP提供B2B歸因解決方案。
+* **Marketo Measure Ultimate**：為擁有多個CRM和/或Marketo Engage執行個體以及不同來源資料需求的企業，啟用完整的B2B歸因。 此外，也透過共用的AEP資料，為Adobe RT-CDP提供B2B歸因解決方案。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=zh-Hant">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -99,12 +99,12 @@ ht-degree: 3%
 
 * **新增大量匯出API資訊以增強Web服務標籤**：您現在可以檢視訂閱的每日容量配置，以及檢視過去7天使用的每日容量配置金額。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">大量匯出API資訊</a></td>
   </tr>
@@ -121,12 +121,12 @@ ht-degree: 3%
 
 * **在Dynamic Chat的資訊擷取卡片中定義挑選清單**：為了協助確保資料整潔，您可以定義資訊擷取卡的挑選清單，讓訪客只能從預先定義的選項清單中選取。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td>不適用</td>
   </tr>
@@ -135,12 +135,12 @@ ht-degree: 3%
 
 * **Dynamic Chat會議確認中的Personalization**：代理商可以使用Marketo Engage人員和公司欄位來個人化會議預約電子郵件確認，以便與訪客更妥善地互動（例如：在自動會議預約通知電子郵件中以訪客的名字來問候訪客）。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">行事曆</a></td>
   </tr>
@@ -149,12 +149,12 @@ ht-degree: 3%
 
 * **在串流Designer中搜尋**：在串流Designer中輕鬆搜尋內容，以便在串流中的所有卡片/節點中快速尋找內容（例如：搜尋「SEO」，它會醒目提示包含該字串的所有節點）。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td>不適用</td>
   </tr>
@@ -163,12 +163,12 @@ ht-degree: 3%
 
 * **Dynamic Chat的聊天機器人日期/時間選擇器**：網頁訪客可以使用行事曆選擇器來選擇日期和時間，而不用手動輸入日期。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td>不適用</td>
   </tr>
@@ -177,12 +177,12 @@ ht-degree: 3%
 
 * **Dynamic Chat的已排程會議電子郵件通知**：在代理程式的行事曆上預約會議時，代理程式將收到有關預約的電子郵件通知，包括訪客Dynamic Chat參與的詳細資訊。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>狀態</b></td>
-   <td><b>檔案更新</b></td>
+   <td><b>文件更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>已送出</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">會議</a></td>
   </tr>

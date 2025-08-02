@@ -3,7 +3,7 @@ description: 管理群組 — Marketo檔案 — 產品檔案
 title: 管理群組
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -16,33 +16,33 @@ ht-degree: 0%
 
 ## 群組型別 {#group-types}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>群組</th> 
-   <th>說明</th> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL All People]</td> 
-   <td>您看得見的所有使用者的所有連絡人。</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Dynamic Groups]</td> 
-   <td>我的連絡人：您擁有的所有連絡人。<br>取消訂閱：已選擇退出接收通訊的連絡人。</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL My Groups]</td> 
-   <td>您已建立的群組。 它們可以包含您的連絡人或與您共用的連絡人。</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Team Groups]</td> 
-   <td>已與您和/或由您共用的群組。 它們可以包含您隊友擁有的連絡人或您與他們共用的連絡人。</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>群組</th>
+   <th>說明</th>
+  </tr>
+  <tr>
+   <td>[!UICONTROL All People]</td>
+   <td>您看得見的所有使用者的所有連絡人。</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Dynamic Groups]</td>
+   <td>我的連絡人：您擁有的所有連絡人。<br>取消訂閱：已選擇退出接收通訊的連絡人。</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL My Groups]</td>
+   <td>您已建立的群組。 它們可以包含您的連絡人或與您共用的連絡人。</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Team Groups]</td>
+   <td>已與您和/或由您共用的群組。 它們可以包含您隊友擁有的連絡人或您與他們共用的連絡人。</td>
+  </tr>
+ </tbody>
 </table>
 
 ## 建立群組 {#create-a-group}

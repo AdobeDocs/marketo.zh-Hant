@@ -3,7 +3,7 @@ unique-page-id: 11386358
 description: Marketo沙箱 — Marketo檔案 — 產品檔案
 title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: e6a5b6c84ce12c0bb4d1df013bcd4471d71ce2c2
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Marketo Sandbox {#marketo-sandbox}
 
-Marketo Engage沙箱是在生產環境中實作之前用於測試目的的附加例項。
+Marketo Engage沙箱是在生產環境中實作之前用於測試用途的額外例項。
 
 >[!AVAILABILITY]
 >

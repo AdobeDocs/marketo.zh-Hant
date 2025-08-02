@@ -2,7 +2,8 @@
 description: 提供互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 提供互動式網路研討會
 feature: Interactive Webinars
-source-git-commit: 0cec57e40dbc5f20174e4d76e41768c4ffc7cecc
+exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1052'
 ht-degree: 0%
@@ -83,7 +84,7 @@ ht-degree: 0%
 
 「主持人和簡報者」區域（也稱為「Backstage」）是位於會議室右側的私人區域，只有主持人和簡報者能看見。 它可用於在事件之前、期間和之後共同作業。 在「主持人和主持人」區域內，使用聊天、備註和其他Pod作為後通道。
 
-若要存取，請從會議室下拉式選單中選取&#x200B;**主機和簡報者區域**。 在[後續影片](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"}中進一步瞭解此區域。
+若要存取，請從會議室下拉式選單中選取&#x200B;**主機和簡報者區域**。 在[下列影片](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"}中進一步瞭解此區域。
 
 ### 廣播控制項 {#broadcast-controls}
 
@@ -91,7 +92,7 @@ Broadcast Control為您的互動式網路研討會新增虛擬的綠色空間。
 
 您可以設定「廣播控制項」，在您離開綠色房間後自動開始錄製。 這可確保主機不必記得手動啟動和停止錄製。 暫停或停止廣播也會暫停或停止錄製。 一切都是自動的。
 
-在此影片[&#128279;](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}中進一步瞭解廣播控制項。
+在此影片[中進一步瞭解廣播控制項](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}。
 
 ### 在錄製中聊天 {#chats-in-recordings}
 
@@ -103,7 +104,7 @@ Chat Pod中的討論會一律記錄下來。 因此，如果聊天討論可增�
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-深入瞭解[聊天面板](https://helpx.adobe.com/tw/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}。
+深入瞭解[聊天面板](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}。
 
 ### 準備模式 {#prepare-mode}
 
@@ -121,21 +122,21 @@ Chat Pod中的討論會一律記錄下來。 因此，如果聊天討論可增�
 
 這會關閉「準備模式」並返回使用中的配置。
 
-在此影片[&#128279;](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}中進一步瞭解準備模式。
+在此影片[中進一步瞭解準備模式](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}。
 
 >[!NOTE]
 >
 >* 對即時Pod所做的任何變更都會立即反映給參與者。
->* [聊天面板](https://helpx.adobe.com/tw/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}不是準備模式的一部分，對它的任何變更都會立即反映給參與者。
+>* [聊天面板](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}不是準備模式的一部分，對它的任何變更都會立即反映給參與者。
 
 ### 協助工具 {#accessibility}
 
 Adobe致力改善互動式網路研討會的無障礙環境，以吸引身心障礙的簡報者和參與者。 本軟體持續強化，以符合各類使用者的需求，並符合全球標準，包括視覺、聽覺、行動力或其他殘疾人士。
 
-瞭解Adobe Connect如何針對[視覺、聽覺和行動力需求](https://helpx.adobe.com/tw/adobe-connect/using/accessibility-features.html){target="_blank"}提供協助。
+瞭解Adobe Connect如何針對[視覺、聽覺和行動力需求](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}提供協助。
 
 ### 隱藏式字幕 {#closed-captions}
 
 隱藏式字幕是Adobe Connect會議室中音訊的文字表示，可協助耳聾或聽力缺佳的參與者參與活動。 您可以將音訊內容的即時字幕整合到事件中，並在「隱藏式字幕」顯示中呈現這些字幕。
 
-瞭解如何[啟用隱藏式字幕](https://helpx.adobe.com/tw/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。
+瞭解如何[啟用隱藏式字幕](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。

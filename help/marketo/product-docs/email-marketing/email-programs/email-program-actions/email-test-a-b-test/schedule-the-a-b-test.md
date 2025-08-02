@@ -4,7 +4,7 @@ description: 排程A/B測試 — Marketo檔案 — 產品檔案
 title: 排程A/B測試
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%

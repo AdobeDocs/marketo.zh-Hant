@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: 發行說明 — 冬季』19年 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2019年冬季
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Microsoft正在推送所有線上客戶升級至[!DNL Microsoft Dynamics]的最新版本。 如果您正在整合您的Marketo執行個體與[!DNL Dynamics Online]，您需要在&#x200B;**2019年1月31日**&#x200B;之前[升級至最新版本的Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)，以確保您的整合可繼續運作。
+>Microsoft正在推送所有線上客戶升級至[!DNL Microsoft Dynamics]的最新版本。 如果您正在整合您的Marketo執行個體與[!DNL Dynamics Online]，您需要在[2019年1月31日](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)之前&#x200B;**升級至最新版本的Marketo解決方案**，以確保您的整合可繼續運作。
 
 >[!NOTE]
 >

@@ -3,7 +3,7 @@ description: 發行說明 — 2025年4月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2025 年 4 月
 feature: Release Information
 exl-id: 94010780-41aa-4212-a1d4-1b78806bd728
-source-git-commit: 0abb2a7499541b8efbf3000bcd9fc9c1a79e43e1
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 3%
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 下方提供2025年4月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
 
-您可在此處[&#128279;](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到Adobe Dynamic Chat 專屬的發行說明。
+您可在此處[找到Adobe Dynamic Chat ](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}專屬的發行說明。
 
 >[!AVAILABILITY]
 >
@@ -24,19 +24,19 @@ ht-degree: 3%
 
 下列功能屬於標準發行週期，並將於&#x200B;**2025年4月25日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行功能和日期可能會有所變更。 請檢查每個功能旁的狀態。
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">功能</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">功能</th>
    <th style="width:10%">狀態</th>
    <th style="width:25%">文件</th>
   </tr>
-  <tr> 
-   <td><strong>安全通訊端層(SSL)自助服務</strong>： SSL加密可讓您保護Marketo Engage執行個體的登入頁面。 啟用此功能過去需要Adobe支援團隊的協助。 Marketo使用者現在可以自行啟用，節省寶貴時間。</td> 
+  <tr>
+   <td><strong>安全通訊端層(SSL)自助服務</strong>： SSL加密可讓您保護Marketo Engage執行個體的登入頁面。 啟用此功能過去需要Adobe支援團隊的協助。 Marketo使用者現在可以自行啟用，節省寶貴時間。</td>
    <td>已送出</td>
    <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md">新增SSL至您的登入頁面</a></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 
@@ -46,9 +46,9 @@ ht-degree: 3%
 
 若要存取此功能，您必須已購買進階BI Analytics附加元件。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2025年10月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2025年10月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API淘汰**：對Marketo SOAP API的支援將於2025年10月31日終止。 使用SOAP API功能的服務應移轉至[REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API淘汰**：對Marketo SOAP API的支援將於2025年10月31日終止。 使用SOAP API功能的服務應移轉至[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
 
 * **棄用社交功能**： 2024年7月31日星期三，Marketo Engage開始棄用產品中的下列社交功能：
 

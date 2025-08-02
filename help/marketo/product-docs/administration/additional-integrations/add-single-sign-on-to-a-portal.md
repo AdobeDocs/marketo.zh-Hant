@@ -4,7 +4,7 @@ description: 將單一登入新增至入口網站 — Marketo檔案 — 產品�
 title: 新增單一登入至入口網站
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '571'
 ht-degree: 0%
@@ -69,7 +69,7 @@ SSO預設為停用。 請依照以下步驟啟用SAML並進行設定。
 
    >[!NOTE]
    >
-   >如果您在&#x200B;**[!UICONTROL Admin]**&#x200B;下沒有看到&#x200B;**[!UICONTROL Single Sign-On]**，請連絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}。
+   >如果您在&#x200B;**[!UICONTROL Single Sign-On]**&#x200B;下沒有看到&#x200B;**[!UICONTROL Admin]**，請連絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}。
 
 1. 在&#x200B;**[!UICONTROL SAML Settings]**&#x200B;區段下，按一下&#x200B;**[!UICONTROL Edit]**。
 

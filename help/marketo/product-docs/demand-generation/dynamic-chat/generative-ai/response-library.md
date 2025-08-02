@@ -3,7 +3,7 @@ description: 回應庫 — Marketo檔案 — 產品檔案
 title: 回應程式庫
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 8114c0bc094be0555e47165b31626baceaba9ef9
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%

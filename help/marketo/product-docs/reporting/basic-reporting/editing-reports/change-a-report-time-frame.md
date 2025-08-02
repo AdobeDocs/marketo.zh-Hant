@@ -4,7 +4,7 @@ description: 變更報表時間範圍 — Marketo檔案 — 產品檔案
 title: 變更報表時間範圍
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >若要設定特定日期，請從下拉式功能表中選取&#x200B;**[!UICONTROL Custom]**，然後在&#x200B;**[!UICONTROL From]**&#x200B;與&#x200B;**[!UICONTROL To]**&#x200B;行事曆欄位中輸入日期。
 
-   按一下「**[!UICONTROL Report]**」標籤，以檢視您所選時間範圍的報告。\
+   按一下「**[!UICONTROL Report]**」標籤，以檢視您所選時間範圍的報告。
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]

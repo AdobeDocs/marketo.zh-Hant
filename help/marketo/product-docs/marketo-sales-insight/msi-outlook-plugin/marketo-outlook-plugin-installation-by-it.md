@@ -4,7 +4,7 @@ description: Marketo [!DNL Outlook] IT安裝外掛程式 — Marketo檔案 — �
 title: 由IT安裝Marketo [!DNL Outlook] 外掛程式
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 1%

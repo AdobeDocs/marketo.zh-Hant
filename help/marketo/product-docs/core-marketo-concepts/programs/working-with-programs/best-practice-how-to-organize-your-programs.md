@@ -4,10 +4,10 @@ description: 最佳實務 — 如何組織您的程式 — Marketo檔案 — 產
 title: 最佳實務 — 如何組織您的計畫
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '847'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >* 有效的行銷方案
 >   * 電子郵件
->   * 事件
+>   * 活動
 >      * 直播活動/路演
 >      * 商展
 >      * 網路研討會
@@ -42,7 +42,7 @@ ht-degree: 0%
 >   * 生命週期
 >   * 評分
 >   * 資料管理
->* 銷售分析
+>* 銷售Insight
 >   * 有趣的時刻
 >   * 銷售電子郵件
 >   * 銷售請求的行銷活動
@@ -89,13 +89,13 @@ Token會將資料夾和程式當作工具，用來設定供登陸頁面、電子
 >
 >**您的公司地址**。 使用Token，而非每次都寫入。 如此一來，您就可以在一個位置更新它，而無需建立許多草稿。 然後視需要在較低層級的資料夾中覆寫權杖。
 
-## 事件 {#events}
+## 活動 {#events}
 
 事件通常有很多移動部分，包括：邀請、登陸頁面、表單、社交Widget和智慧型行銷活動。 組織這些區段以方便使用的最佳實務是依事件的階段進行。 以下是資料夾樹狀結構尋找事件的方式範例。
 
 ![](assets/capture.png)
 
-## 參與計畫 {#engagement-programs}
+## 參與方案 {#engagement-programs}
 
 瞭解[參與計畫的所有資訊](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}。 組織參與計畫的最佳方式是使用資料夾。 為每個資料流建立一個資料夾，然後將電子郵件或程式放入該資料夾中。 內容過時且您想要移除時，請在每個資料流中加入封存資料夾。
 
@@ -121,4 +121,4 @@ Marketo最酷的功能之一是復製程式。 這表示您可以設定方案「
 
 ## 摘要 {#summary}
 
-如您所見，Marketo可提供強大的功能。 我們在此介紹基本知識，但請考慮來自[Marketo Engage專家](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}的其他服務，以微調並設定您自己的成功計畫。
+如您所見，Marketo可提供強大的功能。 我們在這裡介紹了基本知識，但請考慮來自[Marketo Engage專家](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}的其他服務，以進行微調並為您做好成功準備。

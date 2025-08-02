@@ -4,9 +4,9 @@ description: 定義Smart Campaign的智慧清單 | 觸發器 — Marketo檔案 �
 title: 定義Smart Campaign的智慧清單 | 觸發
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: c3aa1a29b084cb1c1add9d22cdbfc23bdcf7512b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >對作用中行銷活動進行智慧清單或流量步驟編輯可能會破壞其功能。 如果您選擇這麼做，請謹慎操作。
 
-1. 在您的Smart Campaign中，按一下&#x200B;**[!UICONTROL 智慧清單]**&#x200B;索引標籤。
+1. 在您的Smart Campaign中，按一下&#x200B;**[!UICONTROL Smart List]**&#x200B;標籤。
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 

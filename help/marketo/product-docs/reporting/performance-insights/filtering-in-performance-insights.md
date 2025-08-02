@@ -4,7 +4,7 @@ description: 在效能深入分析 — Marketo檔案 — 產品檔案中進行�
 title: 在效能深入分析中進行篩選
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -45,37 +45,37 @@ ht-degree: 0%
 
 ## 可用的篩選器 {#available-filters}
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">ABM帳戶清單</span></strong></td> 
-   <td colspan="1">如果您使用Marketo ABM，您的所有帳戶清單都會同步至MPI，並可透過「ABM帳戶清單」篩選器顯示。 您可以選取帳戶清單，以篩選這些帳戶的結果。<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">進一步瞭解ABM帳戶清單。</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">ABM具名帳戶</span></strong></td> 
-   <td colspan="1">如果您使用Marketo ABM，所有具名帳戶都會同步至MPI，並可透過「ABM具名帳戶」篩選器顯示。 您可以選取具名帳戶，以篩選這些帳戶的結果。<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">進一步瞭解ABM具名帳戶。</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">自訂屬性</span></strong></td> 
-   <td colspan="1"><p>由您決定。 您為商機分析啟用的<a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">所有欄位</a>都可以在「效能分析」中篩選。</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong><span class="uicontrol">投資期間</span></strong></p></td> 
-   <td colspan="1"><p>程式成本時間範圍。</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong><span class="uicontrol">機會</span></strong></p></td> 
-   <td colspan="1"><p>在您的Salesforce (CRM)設定中的Opportunity物件上設定的機會型別。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">計畫標籤</span></strong></p></td> 
-   <td><p>標籤是用來說明程式。 您可以視需要製作任意數量的元件，每個元件都具有唯一值。 <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">在這裡瞭解如何使用程式標籤。</a></p></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">工作區</span></strong></td> 
-   <td><p>工作區是Marketo中存放行銷資產的獨立區域，例如：方案、登陸頁面、電子郵件等。 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">在這裡進一步瞭解工作區。</a></p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">ABM帳戶清單</span></strong></td>
+   <td colspan="1">如果您使用Marketo ABM，您的所有帳戶清單都會同步至MPI，並可透過「ABM帳戶清單」篩選器顯示。 您可以選取帳戶清單，以篩選這些帳戶的結果。<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">進一步瞭解ABM帳戶清單。</a></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">ABM具名帳戶</span></strong></td>
+   <td colspan="1">如果您使用Marketo ABM，所有具名帳戶都會同步至MPI，並可透過「ABM具名帳戶」篩選器顯示。 您可以選取具名帳戶，以篩選這些帳戶的結果。<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">進一步瞭解ABM具名帳戶。</a></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">自訂屬性</span></strong></td>
+   <td colspan="1"><p>由您決定。 您為商機分析啟用的<a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">所有欄位</a>都可以在「效能分析」中篩選。</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong><span class="uicontrol">投資期間</span></strong></p></td>
+   <td colspan="1"><p>程式成本時間範圍。</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong><span class="uicontrol">機會</span></strong></p></td>
+   <td colspan="1"><p>在您的Salesforce (CRM)設定中的Opportunity物件上設定的機會型別。</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">計畫標籤</span></strong></p></td>
+   <td><p>標籤是用來說明程式。 您可以視需要製作任意數量的元件，每個元件都具有唯一值。 <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">在這裡瞭解如何使用程式標籤。</a></p></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">工作區</span></strong></td>
+   <td><p>工作區是Marketo中存放行銷資產的獨立區域，例如：方案、登陸頁面、電子郵件等。 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">在這裡進一步瞭解工作區。</a></p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
