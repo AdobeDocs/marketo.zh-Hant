@@ -28,8 +28,8 @@ Design Studio區段是可重複使用之「全域資產」的所在位置。 建
 <tbody>
   <tr>
     <td>全域登陸頁面</td>
-    <td><li>建立<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">全域登陸頁面（自由格式/引導式）</a>。</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">建立測試頁面</a>以A/B測試成功的登入頁面範本（如果適用）。</li></td>
+    <td><li>建立<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">全域登陸頁面（自由格式/引導式）</a>。</li>
+    <li><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">建立測試頁面</a>以A/B測試成功的登入頁面範本（如果適用）。</li></td>
   </tr>
   <tr>
     <td>範本</td>
@@ -37,7 +37,7 @@ Design Studio區段是可重複使用之「全域資產」的所在位置。 建
   </tr>
   <tr>
     <td>隱私權與合規性</td>
-    <td><li>在您的登陸頁面中使用<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">代碼片段</a>或<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">權杖</a>建立頁尾，以符合隱私權規範。</li></td>
+    <td><li>在您的登陸頁面中使用<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">代碼片段</a>或<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">權杖</a>建立頁尾，以符合隱私權規範。</li></td>
   </tr>
 </tbody>
 </table>
@@ -54,7 +54,7 @@ Design Studio區段是可重複使用之「全域資產」的所在位置。 建
 <tbody>
   <tr>
     <td>全域Forms</td>
-    <td><li>設定<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">全域表單</a>以使用案例，例如訂閱偏好設定、閘道內容下載、示範要求、網路研討會註冊等。</li></td>
+    <td><li>設定<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">全域表單</a>以使用案例，例如訂閱偏好設定、閘道內容下載、示範要求、網路研討會註冊等。</li></td>
   </tr>
   <tr>
     <td>隱私權與合規性</td>
@@ -62,7 +62,7 @@ Design Studio區段是可重複使用之「全域資產」的所在位置。 建
   </tr>
   <tr>
     <td>資料標準化</td>
-    <td><li>請考慮將挑選清單套用至<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">表單欄位</a>，而非開啟文字欄位，以防止資料雜亂。</li></td>
+    <td><li>請考慮將挑選清單套用至<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">表單欄位</a>，而非開啟文字欄位，以防止資料雜亂。</li></td>
   </tr>
 </tbody>
 </table>
@@ -83,13 +83,13 @@ Design Studio區段是可重複使用之「全域資產」的所在位置。 建
   </tr>
   <tr>
     <td>範本</td>
-    <td><li>使用設計工具/開發人員設計模組式<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">電子郵件範本</a>，或使用您自己的HTML。</li>
+    <td><li>使用設計工具/開發人員設計模組式<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">電子郵件範本</a>，或使用您自己的HTML。</li>
     <li>建立經過測試的電子郵件範本以A/B測試成功範本（如果適用）。</li></td>
   </tr>
   <tr>
     <td>隱私權與合規性</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">將程式碼片段</a>新增至您的電子郵件範本，以控制可重複使用的區塊，例如版權年份、全球位置以及法規遵循特定的語言。</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email" target="_blank">新增Token</a>以根據目標對象個人化內容。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">將程式碼片段</a>新增至您的電子郵件範本，以控制可重複使用的區塊，例如版權年份、全球位置以及法規遵循特定的語言。</li>
+    <li><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email" target="_blank">新增Token</a>以根據目標對象個人化內容。</li></td>
   </tr>
 </tbody>
 </table>
@@ -106,7 +106,7 @@ Design Studio區段是可重複使用之「全域資產」的所在位置。 建
 <tbody>
   <tr>
     <td>程式碼片段</td>
-    <td><li>建立<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">程式碼片段</a>，讓可重複使用的內容區塊可用於多個使用案例，例如您的電子郵件和登入頁面中的連絡資訊、社群媒體連結、品牌資訊以及隱私和法規遵循附註。</li></td>
+    <td><li>建立<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">程式碼片段</a>，讓可重複使用的內容區塊可用於多個使用案例，例如您的電子郵件和登入頁面中的連絡資訊、社群媒體連結、品牌資訊以及隱私和法規遵循附註。</li></td>
   </tr>
 </tbody>
 </table>
@@ -143,7 +143,7 @@ Design Studio區段是可重複使用之「全域資產」的所在位置。 建
 <tbody>
   <tr>
     <td>資料夾結構 </td>
-    <td><li>為每種型別的資產建立子資料夾，並<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">適當地組織全域資產</a> （例如，對話流程、電子郵件範本、電子郵件、表單、影像和檔案、登入頁面、登入頁面範本、程式碼片段等）。</li></td>
+    <td><li>為每種型別的資產建立子資料夾，並<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">適當地組織全域資產</a> （例如，對話流程、電子郵件範本、電子郵件、表單、影像和檔案、登入頁面、登入頁面範本、程式碼片段等）。</li></td>
   </tr>
 </tbody>
 </table>

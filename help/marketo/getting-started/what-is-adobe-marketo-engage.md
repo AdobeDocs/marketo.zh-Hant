@@ -55,7 +55,7 @@ Marketo Engage提供許多絕佳功能，可協助您達成行銷目標。 例�
 
 ## 是否有涵蓋限制的清單，例如一週可以傳送多少封電子郵件？ {#list-of-limits}
 
-有。 靜態限制（和其他引數）在文章[中概述](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}。
+有。 靜態限制（和其他引數）在文章[中概述](https://helpx.adobe.com/tw/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}。
 
 ## Marketo會將我的資料儲存多久？ {#data-retention-policy}
 

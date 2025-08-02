@@ -82,7 +82,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->檢視[交談SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"}正在執行中！
+>檢視[交談SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=zh-Hant){target="_blank"}正在執行中！
 
 >[!MORELIKETHIS]
 >

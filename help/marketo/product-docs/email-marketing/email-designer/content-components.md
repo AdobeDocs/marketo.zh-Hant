@@ -147,7 +147,7 @@ ht-degree: 0%
 
 1. 在&#x200B;**[!UICONTROL Settings]**&#x200B;索引標籤中，按一下&#x200B;**[!UICONTROL Browse]**&#x200B;以從您的資產選擇影像檔案，或按一下&#x200B;**[!UICONTROL Import media]**&#x200B;將資產上傳到Adobe Experience Manager Assets。
 
-   若要深入瞭解[!DNL Adobe Experience Manager Assets]，請參閱[Adobe Experience Manager Assets檔案](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}。
+   若要深入瞭解[!DNL Adobe Experience Manager Assets]，請參閱[Adobe Experience Manager Assets檔案](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=zh-Hant){target="_blank"}。
 
    >[!NOTE]
    >

@@ -29,26 +29,26 @@ ht-degree: 2%
   <tr>
     <td>所有人員</td>
     <td><li>決定與您的CRM實作1:1同步或套用篩選器以限制從系統到系統的移動人員和時間。</li>
-    <li>檢閱<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html" target="_blank">Marketo Engage資料庫</a>中的總人數和行銷人員。</li></td>
+    <li>檢閱<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html?lang=zh-Hant" target="_blank">Marketo Engage資料庫</a>中的總人數和行銷人員。</li></td>
   </tr>
   <tr>
     <td>封鎖清單</td>
-    <td><li>定義封鎖清單條件。 請考慮將競爭者的網域新增至您的<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html" target="_blank">封鎖清單</a>，以防止他們收到您的任何電子郵件。</li></td>
+    <td><li>定義封鎖清單條件。 請考慮將競爭者的網域新增至您的<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html?lang=zh-Hant" target="_blank">封鎖清單</a>，以防止他們收到您的任何電子郵件。</li></td>
   </tr>
   <tr>
     <td>行銷活動已暫停</td>
-    <td><li>定義<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">行銷活動已暫停</a>條件。</li></td>
+    <td><li>定義<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">行銷活動已暫停</a>條件。</li></td>
   </tr>
   <tr>
     <td>退回的電子郵件地址 </td>
     <td><li>定義退回電子郵件地址的條件。</li>
-    <li>檢閱「電子郵件無效」類別中的人員，並判斷其電子郵件是否需要<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html" target="_blank">手動重設</a>。</li></td>
+    <li>檢閱「電子郵件無效」類別中的人員，並判斷其電子郵件是否需要<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html?lang=zh-Hant" target="_blank">手動重設</a>。</li></td>
   </tr>
   <tr>
     <td>可能的重複專案</td>
     <td><li>檢閱可能重複專案清單中的人員。</li>
-    <li>定義您的重複管理策略，以決定是否要手動<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">合併人員</a>。</li>
-    <li>如果您有CRM整合，請針對在CRM<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">中合併潛在客戶的</a>效果定義程式與帳戶。</li></td>
+    <li>定義您的重複管理策略，以決定是否要手動<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html?lang=zh-Hant" target="_blank">合併人員</a>。</li>
+    <li>如果您有CRM整合，請針對在CRM<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">中合併潛在客戶的</a>效果定義程式與帳戶。</li></td>
   </tr>
   <tr>
     <td>無贏取計畫</td>
@@ -56,7 +56,7 @@ ht-degree: 2%
   </tr>
   <tr>
     <td>已取消訂閱的人員</td>
-    <td><li>檢閱您的<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html" target="_blank">已取消訂閱的使用者</a>條件。</li></td>
+    <td><li>檢閱您的<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=zh-Hant" target="_blank">已取消訂閱的使用者</a>條件。</li></td>
   </tr>
 </tbody>
 </table>
@@ -91,7 +91,7 @@ ht-degree: 2%
 <tbody>
   <tr>
     <td>分段</td>
-    <td><li>根據您的業務需求<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html" target="_blank">建立區段</a>。 每個訂閱限製為20個區段，每個區段內最多100個區段。</li></td>
+    <td><li>根據您的業務需求<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html?lang=zh-Hant" target="_blank">建立區段</a>。 每個訂閱限製為20個區段，每個區段內最多100個區段。</li></td>
   </tr>
 </tbody>
 </table>
