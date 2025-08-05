@@ -4,7 +4,7 @@ description: Microsoft Dynamics Sync -Opportunity Sync - Marketo檔案 — 產�
 title: Microsoft Dynamics同步 — 機會同步
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
@@ -36,6 +36,5 @@ Marketo與[!DNL Dynamics]的同步處理功能非常強大。 以下是機會同
    * 如果連絡人值已設定且帳戶留空，則Marketo會建立`opportunitycontactrole`並將商機的帳戶設定為連絡人的帳戶。 如果連絡人沒有帳戶，此欄位會保留空白。
    * 如果帳戶值已設定且聯絡人留空，Marketo將只會針對此帳戶設定該機會的帳戶。
    * 如果同時設定了這兩個值，Dynamics會挑選帳戶作為customerid的值，因此行為將與上述相同。
-
 
 * 透過利害關係人： Dynamics會使用連線來連線機會，以便從機會建立頁面透過利害關係人進行聯絡。 為此，我們將為每個新利害關係人建立`opportunitycontactrole`記錄。

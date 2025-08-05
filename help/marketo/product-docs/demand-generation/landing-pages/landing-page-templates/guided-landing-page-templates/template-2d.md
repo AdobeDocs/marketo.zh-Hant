@@ -4,7 +4,7 @@ description: 範本2D - Marketo檔案 — 產品檔案
 title: 2D範本
 exl-id: 365cc108-ed50-4229-b267-9688ed31056e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 2D範本 {#template-2d}
 
-按一下滑鼠右鍵以[下載範本2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=zh-Hant)
+[範本2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)

@@ -4,9 +4,9 @@ short-description: 剛開始使用 Adobe Marketo Engage？了解深入使用前�
 title: 設定步驟
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1664'
+source-wordcount: '1663'
 ht-degree: 2%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 2%
 * **為您的網域設定MX記錄。** MX記錄可讓您接收您傳送電子郵件之網域的郵件，以處理回覆及自動回應。 如果您要從公司網域傳送，您可能已經設定好此專案。 如果沒有，您通常可以設定對應到您公司網域的MX記錄。
 * **寄件者地址的建議設定。**&#x200B;您必須在所有電子郵件行銷活動的[寄件者地址]中使用有效的、現有的和工作中的電子郵件網域。 設定公司網域的子網域，而非從公司網域傳送可能有所助益。 這將確保企業郵件流中的問題不會影響您的Marketo郵件流，反之亦然。 此外，從`something@nonexistentdomain.com`傳送郵件將導致電子郵件被篩選或封鎖。 寄件者寄件者地址中使用的任何網域都必須具備有效且運作中的郵局主管@與濫用@帳戶。
 
-如果您使用Google應用程式來託管公司電子郵件，則無法在您的網域下建立濫用@或郵遞員@電子郵件。 若要解決此問題，您需要建立名為「濫用」和「郵遞區長」的群組。 屬於這些群組成員的使用者將會收到傳送至這些地址的電子郵件(例如postmaster@domain.com)。 您可以在[這裡](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}找到建立群組的詳細指示。
+如果您使用Google應用程式來託管公司電子郵件，則無法在您的網域下建立濫用@或郵遞員@電子郵件。 若要解決此問題，您需要建立名為「濫用」和「郵遞區長」的群組。 屬於這些群組成員的使用者將會收到傳送給這些地址的電子郵件（例如，<postmaster@domain.com>）。 您可以在[這裡](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}找到建立群組的詳細指示。
 
 為電子郵件追蹤連結選擇一個CNAME （從您在步驟3中選擇的登陸頁面CNAME中選擇一個&#x200B;_不同的_）。 部分範例：
 
@@ -270,7 +270,7 @@ Marketo Engage有自訂追蹤JavaScript （稱為[!DNL Munchkin]），您可以�
 
 ## 效能期望 {#performance-expectations}
 
-Marketo的效能表現如何？ 其可能會因行銷活動的規模和複雜性而異。 但您可在[Marketo Engage產品說明](https://helpx.adobe.com/tw/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中找到的數個表格中，預期與「標準」欄中所概述的效能等級相等。 「效能」和「效能加上」欄是指提供[較高效能等級](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的效能層級套件。
+Marketo的效能表現如何？ 其可能會因行銷活動的規模和複雜性而異。 但您可在[Marketo Engage產品說明](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中找到的數個表格中，預期與「標準」欄中所概述的效能等級相等。 「效能」和「效能加上」欄是指提供[較高效能等級](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的效能層級套件。
 
 >[!MORELIKETHIS]
 >

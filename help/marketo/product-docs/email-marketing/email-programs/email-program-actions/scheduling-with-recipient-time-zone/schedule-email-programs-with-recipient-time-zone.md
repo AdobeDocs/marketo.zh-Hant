@@ -4,7 +4,7 @@ description: 使用收件者時區排程電子郵件計畫 — Marketo檔案 —
 title: 依收件者時區排程電子郵件程式
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '794'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 啟用「收件者時區」時，排程電子郵件程式時有兩種可能的情況：
 
-1. 正在排程程在接下來的25小時內執行&#x200B;**&#x200B;**
+1. 正在排程程在接下來的25小時內執行&#x200B;****
 1. 正在排程將來&#x200B;**超過**&#x200B;個25小時執行的程式（亦即下週）
 
 ## 案例1:25小時內 {#scenario-within-hours}
@@ -36,7 +36,7 @@ ht-degree: 0%
 >
 >* **[!UICONTROL Deliver the following day in recipient’s time zone]**：如果電子郵件排定在星期二的9:00am發出，則已超過排定時間的時區的合格人員將在&#x200B;*星期三*&#x200B;的9:00am收到電子郵件。
 >
->* **[!UICONTROL Deliver using the program's default set time]**：如果電子郵件排定在星期二9:00am發出，則已超過排定時間的時區的合格人員將會根據您的訂閱時區設定&#x200B;_收到電子郵件_。 因此，如果您的[訂閱時區設定](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)設為PDT America/Los Angeles，這些收件者仍會在星期二的9:00am PDT收到電子郵件（無論時間是在他們自己的時區）。
+>* **[!UICONTROL Deliver using the program's default set time]**：如果電子郵件排定在星期二9:00am發出，則已超過排定時間的時區的合格人員將會根據您的訂閱時區設定&#x200B;*收到電子郵件*。 因此，如果您的[訂閱時區設定](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)設為PDT America/Los Angeles，這些收件者仍會在星期二的9:00am PDT收到電子郵件（無論時間是在他們自己的時區）。
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->雖然程式將在15分鐘內啟動傳送電子郵件的&#x200B;_程式_，但此時電子郵件將不會是&#x200B;_傳遞_。 收件者仍會根據您選擇的&#x200B;**[!UICONTROL Time Zone Settings]**&#x200B;收到電子郵件。
+>雖然程式將在15分鐘內啟動傳送電子郵件的&#x200B;*程式*，但此時電子郵件將不會是&#x200B;*傳遞*。 收件者仍會根據您選擇的&#x200B;**[!UICONTROL Time Zone Settings]**&#x200B;收到電子郵件。
 
 ## 案例2：超過25小時 {#scenario-more-than-hours}
 
@@ -81,8 +81,8 @@ ht-degree: 0%
 
 簡言之，使用收件者時區排程的電子郵件程式必須在最早時區的排程時間開始執行（亦即首先到達午夜），以符合每個時區。 因此，如果您排程電子郵件程式……
 
-* **傳送時間為&#x200B;_在_ 25小時內**，程式會在15分鐘內開始執行。 已超過排程時間的收件者，將會根據您選擇的時區設定收到電子郵件。
-* **傳送時間為&#x200B;_超過_ 25小時的未來**，程式將在最早時區的排程時間開始執行(UTC +14:00)。
+* **傳送時間為&#x200B;*在* 25小時內**，程式會在15分鐘內開始執行。 已超過排程時間的收件者，將會根據您選擇的時區設定收到電子郵件。
+* **傳送時間為&#x200B;*超過* 25小時的未來**，程式將在最早時區的排程時間開始執行(UTC +14:00)。
 * **如果是Head Start**，程式會在最早時區(UTC +14:00)的排程時間前12小時開始處理。
 
 >[!CAUTION]

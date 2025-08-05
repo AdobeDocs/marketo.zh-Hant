@@ -4,7 +4,7 @@ description: 發行說明–2018年秋季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2018年秋季
 exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Web個人化現在支援多個工作區。
 * **擴充的支援：[!DNL Microsoft Office]**
 
    * [!DNL Outlook]作為傳遞管道：行銷人員現在可以善用[!DNL Outlook]進行電子郵件參與，提高傳遞率和回應追蹤。
-   * [!DNL Office] 365電子郵件支援改善： Mac的[!DNL Outlook]中直接提供Marketo [!DNL Sales Engage]，[!DNL Windows]的[!DNL Outlook]以及適用於[!DNL Office] 365個電子郵件使用者端的[!DNL Outlook] Web應用程式，讓[!DNL Office]使用者更容易使用Marketo [!DNL Sales Engage]。
+   * [!DNL Office] 365電子郵件支援改善： Mac的[!DNL Sales Engage]中直接提供Marketo [!DNL Outlook]，[!DNL Outlook]的[!DNL Windows]以及適用於[!DNL Outlook] 365個電子郵件使用者端的[!DNL Office] Web應用程式，讓[!DNL Sales Engage]使用者更容易使用Marketo [!DNL Office]。
 
 * **已改善管理員和使用者登入體驗**
 
@@ -100,7 +100,7 @@ Marketo現在支援在Lead API上使用電子郵件處置欄位（包括「黑�
 
 >[!NOTE]
 >
->在第三季發行中，我們將將[!DNL GoToWebinar]的[!DNL OAuth]版本從1.0升級至2.0。此變更是在[!DNL GoToWebinar]之前進行的，於2019年1月停止支援[!DNL OAuth] 1.0。 如果您是[!DNL GoToWebinar]客戶，則必須在2019年1月前透過[!DNL LaunchPoint] （在[!UICONTROL Admin]區域）重新驗證，以確保您的整合可繼續運作。
+>在第三季發行中，我們將將[!DNL OAuth]的[!DNL GoToWebinar]版本從1.0升級至2.0。此變更是在[!DNL GoToWebinar]之前進行的，於2019年1月停止支援[!DNL OAuth] 1.0。 如果您是[!DNL GoToWebinar]客戶，則必須在2019年1月前透過[!DNL LaunchPoint] （在[!UICONTROL Admin]區域）重新驗證，以確保您的整合可繼續運作。
 
 >[!NOTE]
 >

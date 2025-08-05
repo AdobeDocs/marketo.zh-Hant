@@ -4,7 +4,7 @@ description: 範本5B - Marketo檔案 — 產品檔案
 title: 範本5B
 exl-id: 738323ac-89bf-483a-ad63-2020bacc85cf
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本5B {#template-5b}
 
-按一下滑鼠右鍵以[下載範本5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
 
 ![](assets/template-5b.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html?lang=zh-Hant)
+[範本5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)

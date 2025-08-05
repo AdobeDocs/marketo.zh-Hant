@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Dynamic Chat
 exl-id: b06da576-39a4-41db-8e29-302083baca36
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # 通知 {#notifications}
 
-為了接收即時聊天所需的瀏覽器通知，所有即時聊天代理程式必須在提示時啟用瀏覽器通知以進行Dynamic Chat。
+為了接收即時聊天所需的瀏覽器通知，所有即時聊天代理程式必須在出現提示時啟用Dynamic Chat的瀏覽器通知。
 
 即時聊天代理程式在登入時會在熒幕上方看到橫幅，上面顯示「請啟用瀏覽器通知以接收即時聊天通知」。 按一下&#x200B;**啟用**。
 
@@ -45,6 +45,5 @@ Firefox在[本文章](https://support.mozilla.org/en-US/kb/push-notifications-fi
 [通知： Mac](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
 
 [通知： Windows](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
-
 
 MSI動作通知是否曾經發生???

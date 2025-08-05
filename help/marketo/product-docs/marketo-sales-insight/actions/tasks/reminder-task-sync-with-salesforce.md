@@ -3,7 +3,7 @@ description: 提醒任務與Salesforce同步 — Marketo檔案 — 產品檔案
 title: 提醒任務與Salesforce同步
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -81,4 +81,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->若您在[!DNL Sales Insight Actions]活動詳細資料自訂[!DNL Salesforce]設定中使用`{{activity_subject}}`動態欄位，則可在[中更新任務的主旨欄位，且此更新將會同步至對應同步任務的](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)主旨欄位。 相反地，對[!DNL Salesforce]中主旨欄位所做的任何更新將&#x200B;_不會_&#x200B;同步到[!DNL Sales Insight Actions]提醒任務主旨欄位。
+>若您在[!DNL Sales Insight Actions]活動詳細資料自訂[!DNL Salesforce]設定中使用`{{activity_subject}}`動態欄位，則可在[中更新任務的主旨欄位，且此更新將會同步至對應同步任務的](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)主旨欄位。 相反地，對[!DNL Salesforce]中主旨欄位所做的任何更新將&#x200B;*不會*&#x200B;同步到[!DNL Sales Insight Actions]提醒任務主旨欄位。

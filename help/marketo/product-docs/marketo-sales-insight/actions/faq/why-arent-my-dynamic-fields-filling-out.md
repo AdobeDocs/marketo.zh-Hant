@@ -3,9 +3,9 @@ description: 為什麼我的動態欄位沒有填寫？ - Marketo檔案 — 產�
 title: 為什麼我的動態欄位沒有填寫？
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 [!DNL Salesforce]欄位：例如`{{sfdc_account_name}}`
 
-* 請確定已正確連結至Sales Insight動作。 移至[設定]&#x200B;(https://toutapp.com/login{target="_blank"}頁面，然後按一下您CRM旁的&#x200B;**管理**。
+* 請確定已正確連結至Sales Insight動作。 移至[設定]&#x200B;(<https://toutapp.com/login{target="_blank"}>頁面，然後按一下您CRM旁的&#x200B;**管理**。
 
 **基本和自訂欄位疑難排解**
 

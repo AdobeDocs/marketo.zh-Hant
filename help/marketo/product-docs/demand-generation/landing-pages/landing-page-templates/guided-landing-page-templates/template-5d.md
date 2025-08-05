@@ -4,7 +4,7 @@ description: 範本5D - Marketo檔案 — 產品檔案
 title: 範本5D
 exl-id: 98e4d4ba-dad5-4285-994f-50c5d677b300
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本5D {#template-5d}
 
-按一下滑鼠右鍵以[下載範本5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
 
 ![](assets/image2015-7-29-15-3a10-3a49.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本5D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=zh-Hant)
+[範本5D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)

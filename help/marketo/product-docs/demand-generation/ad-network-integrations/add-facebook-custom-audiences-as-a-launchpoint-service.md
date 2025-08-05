@@ -4,7 +4,7 @@ description: 新增 [!DNL Facebook] 自訂對象作為 [!DNL LaunchPoint] 服務
 title: 將 [!DNL Facebook] 自訂對象新增為 [!DNL LaunchPoint] 服務
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 1%
@@ -45,7 +45,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >您&#x200B;_必須_&#x200B;使用[!DNL Facebook] Business Manager帳戶，您的自訂對象整合才能運作。 若要瞭解如何設定Business Manager帳戶，請參閱[[!DNL Facebook] 說明](https://www.facebook.com/business/help/1710077379203657)。
+   >您&#x200B;*必須*&#x200B;使用[!DNL Facebook] Business Manager帳戶，您的自訂對象整合才能運作。 若要瞭解如何設定Business Manager帳戶，請參閱[[!DNL Facebook] 說明](https://www.facebook.com/business/help/1710077379203657)。
 
 1. 如果出現提示，請按一下&#x200B;**[!UICONTROL OK]**&#x200B;接受Marketo應用程式安裝到[!DNL Facebook]。
 

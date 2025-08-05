@@ -3,9 +3,9 @@ description: 動態欄位 — Marketo檔案 — 產品檔案
 title: 動態欄位
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '525'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,9 @@ ht-degree: 0%
 | `{{friendly_unsubscribe}}` | 厭倦了所有的電子郵件？ 請在此通知我 |
 | `{{my_name}}` | Keith Flynn |
 | `{{my_signature}}` | Keith Flynn，資深技術撰稿人 — Adobe |
-| `{{personal_email}}` | keith@pickyouremail.com |
+| `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | 資深技術撰稿人 |
-| `{{work_website}}` | https://www.adobe.com/tw/ |
+| `{{work_website}}` | <https://www.adobe.com> |
 
 **注意事項**：
 

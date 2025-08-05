@@ -3,7 +3,7 @@ description: OA-YYYY-MM-Online Advertising Marketo登陸頁面 — Marketo檔案
 title: OA-YYYY-MM-Online Advertising Marketo登陸頁面
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 5%
@@ -21,7 +21,7 @@ ht-degree: 5%
 <table style="table-layout:auto">
  <tbody>
   <tr>
-   <th>Channel</th>
+   <th>頻道</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>

@@ -4,7 +4,7 @@ description: '[!UICONTROL Account Lists] - Marketo檔案 — 產品檔案'
 title: '[!UICONTROL Account Lists]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這些步驟僅適用於帳戶清單。 _動態_&#x200B;帳戶清單使用其相關CRM帳戶檢視的名稱。
+>這些步驟僅適用於帳戶清單。 *動態*&#x200B;帳戶清單使用其相關CRM帳戶檢視的名稱。
 
 1. 選取您要重新命名的帳戶，按一下&#x200B;**[!UICONTROL Account List Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Rename Account List]**。
 

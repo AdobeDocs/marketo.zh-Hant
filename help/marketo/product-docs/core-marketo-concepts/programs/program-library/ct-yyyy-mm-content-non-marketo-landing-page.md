@@ -3,7 +3,7 @@ description: CT-YYYY-MM-Content非Marketo登陸頁面 — Marketo檔案 — 產�
 title: CT-YYYY-MM-Content非Marketo登陸頁面
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 6%
@@ -21,7 +21,7 @@ ht-degree: 6%
 <table style="table-layout:auto">
  <tbody>
   <tr>
-   <th>Channel</th>
+   <th>頻道</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>

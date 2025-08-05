@@ -4,7 +4,7 @@ description: 範本5A - Marketo檔案 — 產品檔案
 title: 範本5A
 exl-id: 85f9732c-0968-44bc-b59f-d39207f12dd7
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本5A {#template-5a}
 
-按一下滑鼠右鍵以[下載範本5A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本5A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)
 
 ![](assets/image2015-6-29-16-3a9-3a32.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html?lang=zh-Hant)
+[範本5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)

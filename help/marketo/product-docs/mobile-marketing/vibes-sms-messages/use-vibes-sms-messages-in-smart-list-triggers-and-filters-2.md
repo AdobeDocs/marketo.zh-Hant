@@ -4,7 +4,7 @@ title: 在智慧清單觸發器和篩選器中使用Vibes SMS訊息
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-相較之下，**Vibes清單的成員**&#x200B;篩選器會找出目前訂閱了Vibes的&#x200B;_任何人_，最適合用於智慧行銷活動或清單。
+相較之下，**Vibes清單的成員**&#x200B;篩選器會找出目前訂閱了Vibes的&#x200B;*任何人*，最適合用於智慧行銷活動或清單。
 
 ![](assets/image001.png)
 

@@ -3,7 +3,7 @@ description: 發行說明 — 2023年1月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2023 年 1 月
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 8%
@@ -41,6 +41,7 @@ ht-degree: 8%
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切換開關</a></td>
   </tr>
   </tbody>
+
 </table>
 
 * **Enhanced Used by Component for Email Template Details and Snippet Details**： New Used By UI索引標籤提供有關每個Used By資產的額外資訊，例如上次修改時間及修改者。 您可以透過搜尋、排序和篩選功能輕鬆執行分析。 此新UI元件將從電子郵件範本和程式碼片段資產開始合併。
@@ -88,7 +89,7 @@ ht-degree: 8%
   </tr>
   <tr>
    <td>已送出</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=zh-Hant">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

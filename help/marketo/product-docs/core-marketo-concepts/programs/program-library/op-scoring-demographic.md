@@ -3,7 +3,7 @@ description: OP-Scoring-Geroptical - Marketo檔案 — 產品檔案
 title: OP評分人口統計
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 24%
@@ -21,7 +21,7 @@ ht-degree: 24%
 <table style="table-layout:auto">
  <tbody>
   <tr>
-   <th>Channel</th>
+   <th>頻道</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>

@@ -4,9 +4,9 @@ title: 互動式網路研討會中的參與工具
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1270'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,7 @@ Q&amp;A Pod的主持者檢視也可移至主持人和主持者區域，以擁有
 
 ### 自訂Pod {#custom-pods}
 
-自訂Pod可擴充Adobe Connect所提供的功能。 部分熱門的自訂Pod可供免費使用，包括倒數計時器、時鐘、House Keeper、Titler和Word Cloud。 自訂Pod可以從https://apps.adobeconnect.com/下載為.pod或.zip檔案。
+自訂Pod可擴充Adobe Connect所提供的功能。 部分熱門的自訂Pod可供免費使用，包括倒數計時器、時鐘、House Keeper、Titler和Word Cloud。 可以從<https://apps.adobeconnect.com/>下載自訂Pod做為.pod或.zip檔案。
 
 使用自訂Pod：
 

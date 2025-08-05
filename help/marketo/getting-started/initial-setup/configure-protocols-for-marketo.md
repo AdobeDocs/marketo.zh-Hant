@@ -4,7 +4,7 @@ description: 設定Marketo Engage的通訊協定 — Marketo Engage檔案 — �
 title: 設定Marketo Engage的通訊協定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '2131'
 ht-degree: 8%

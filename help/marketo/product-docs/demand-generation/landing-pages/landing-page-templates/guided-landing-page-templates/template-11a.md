@@ -4,7 +4,7 @@ description: 範本11A - Marketo檔案 — 產品檔案
 title: 範本11A
 exl-id: 5c8956d3-35e5-448a-bb5d-c18c9a82664e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本11A {#template-11a}
 
-按一下滑鼠右鍵以[下載範本11A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本11A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)
 
 ![](assets/image2015-8-4-9-3a56-3a23.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本11A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html?lang=zh-Hant)
+[範本11A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)

@@ -4,7 +4,7 @@ description: 範本20D - Marketo檔案 — 產品檔案
 title: 20D範本
 exl-id: b6fdc927-a469-463a-808e-a08a52c6cfa2
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 20D範本 {#template-20d}
 
-按一下滑鼠右鍵以[下載範本20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
 
 ![](assets/template-20d.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本20D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html?lang=zh-Hant)
+[範本20D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)

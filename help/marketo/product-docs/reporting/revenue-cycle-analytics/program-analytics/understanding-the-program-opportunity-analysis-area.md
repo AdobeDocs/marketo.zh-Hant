@@ -4,7 +4,7 @@ description: 瞭解計畫機會分析區域 — Marketo檔案 — 產品檔案
 title: 瞭解計畫機會分析領域
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 0%
@@ -186,7 +186,7 @@ Marketo會適當地提供學分，而不會在計畫間重複電腦會。 因此
  </tbody>
 </table>
 
-*&#42;所有將任何型別的歸因評分給予計畫的機會。 機會可能會受到一或多個潛在客戶以及一或多個計畫的影響。*
+_&#42;所有將任何型別的歸因評分給予計畫的機會。 機會可能會受到一或多個潛在客戶以及一或多個計畫的影響。_
 
 >[!MORELIKETHIS]
 >

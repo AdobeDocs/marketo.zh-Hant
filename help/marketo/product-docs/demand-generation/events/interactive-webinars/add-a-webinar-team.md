@@ -3,7 +3,7 @@ description: 新增網路研討會團隊 — Marketo檔案 — 產品檔案
 title: 新增網路研討會團隊
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ## 新增簡報者 {#add-a-presenter}
 
-1. 在互動式網路研討會的[概觀]頁面中，按一下[新增主持人]。**&#x200B;**
+1. 在互動式網路研討會的[概觀]頁面中，按一下[新增主持人]。****
 
    ![](assets/add-a-webinar-team-5.png)
 

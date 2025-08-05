@@ -3,7 +3,7 @@ description: 會議清單 — Marketo檔案 — 產品檔案
 title: 會議清單
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -25,4 +25,3 @@ ht-degree: 0%
 當會議預約或即時聊天等動作失敗時，使用者會透過電子郵件收到通知。
 
 ![](assets/meeting-list-2.png)
-

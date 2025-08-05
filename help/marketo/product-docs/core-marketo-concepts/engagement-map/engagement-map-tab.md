@@ -2,7 +2,7 @@
 description: 參與地圖示籤 — Marketo檔案 — 產品檔案
 title: 參與地圖示籤
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '949'
 ht-degree: 0%

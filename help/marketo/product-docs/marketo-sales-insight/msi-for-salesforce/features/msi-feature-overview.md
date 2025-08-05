@@ -4,7 +4,7 @@ description: MSI功能總覽 — Marketo檔案 — 產品檔案
 title: MSI功能概述
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '931'
 ht-degree: 0%

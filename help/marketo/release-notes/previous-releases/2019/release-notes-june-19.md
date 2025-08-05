@@ -4,7 +4,7 @@ description: 發行說明 — 2019年6月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2019年6月
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 0%
@@ -56,7 +56,7 @@ ht-degree: 0%
 ## Marketo [!DNL Sales Connect] {#marketo-sales-connect}
 
 * **在[!DNL Salesforce]自訂中的大量動作**：透過[!DNL Salesforce]自訂大量傳送電子郵件並新增連絡人至行銷活動，以最大化生產力。
-* **設定 — [!DNL Salesforce]管理員與非管理員頁面**：透過與[!DNL Sales Connect]連線的[!DNL Salesforce]執行個體的清晰檢視以及我的電子郵件至[!DNL Salesforce]更新，管理您的[!DNL Sales Connect]執行個體。 未來幾個月將推出管理員、非管理員和Team Wide Sync的增強同步設定。
+* **設定 — [!DNL Salesforce]管理員與非管理員頁面**：透過與[!DNL Sales Connect]連線的[!DNL Salesforce]執行個體的清晰檢視以及我的電子郵件至[!DNL Sales Connect]更新，管理您的[!DNL Salesforce]執行個體。 未來幾個月將推出管理員、非管理員和Team Wide Sync的增強同步設定。
 * **設定 — 整合頁面**：提供所有整合服務的一站式商店，讓您充分利用我們開放的生態系統。
 * **設定 — 設定檔頁面**：檢視並更新您的帳戶詳細資料、變更密碼，以及檢查您執行個體在此新設定檔頁面上的實作狀態。
 
@@ -68,4 +68,4 @@ ht-degree: 0%
 * **漂移整合**：瞭解漂移對話如何影響客戶的歷程。 [!DNL Bizible]也會從交談中擷取電子郵件地址，以建立新的銷售機會，或將接觸點連線到現有的銷售機會。
 * **本地化**： [!DNL Bizible]現在提供所有Marketo支援的語言（英文、日文、德文、西班牙文、法文和葡萄牙文）。
 
-***產品發行網路研討會***&#x200B;在[這裡](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)觀看2019年6月Release Innovations網路研討會影片。
+_**產品發行網路研討會**_&#x200B;在[這裡](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)觀看2019年6月Release Innovations網路研討會影片。

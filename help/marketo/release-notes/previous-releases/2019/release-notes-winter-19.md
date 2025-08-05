@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: 發行說明 — 冬季』19年 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2019年冬季
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 0%
@@ -53,8 +53,8 @@ ht-degree: 0%
 * **電子郵件服務**：透過連線至[!DNL Microsoft Outlook] （透過Office365或透過[電子郵件連線]索引標籤在內部部署），享受更好的傳遞能力，並改善回覆追蹤、排程電子郵件功能和大量電子郵件功能。
 * **新的管理員設定**：已新增兩個管理員頁面，以最佳化您的Sales Engage執行個體
 
-   * _團隊管理_&#x200B;允許管理員編輯訂閱和團隊，支援順暢的帳戶設定程式。
-   * _Salesforce管理設定_&#x200B;可協助團隊更快且更輕鬆地設定SFDC同步處理。
+   * *團隊管理*&#x200B;允許管理員編輯訂閱和團隊，支援順暢的帳戶設定程式。
+   * *Salesforce管理設定*&#x200B;可協助團隊更快且更輕鬆地設定SFDC同步處理。
 
 * **適用於[!DNL Windows]**&#x200B;的OWA外掛程式：透過單一增益集，所有[!DNL Windows Office365]使用者端將可支援Sales Engage，因此能夠在Outlook中使用即時摘要。 新的外掛程式可在Microsoft商店中使用。
 * **活動推播程式**：將銷售參與同步處理至核心Marketo平台，以運用即時行銷深入分析。

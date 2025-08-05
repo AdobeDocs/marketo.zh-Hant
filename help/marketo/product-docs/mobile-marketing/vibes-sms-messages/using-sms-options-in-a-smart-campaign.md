@@ -3,7 +3,7 @@ description: 在Smart Campaign中使用簡訊選項 — Marketo檔案 — 產品
 title: 在智慧行銷活動中使用簡訊選項
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 **已訂閱的Vibes清單**&#x200B;篩選器會尋找任何已&#x200B;*ever*&#x200B;訂閱Vibes的人。 這包括已取消訂閱和已刪除的人員，即使流程中省略了已刪除的人員。 此篩選器最適合用於報表。
 
-相較之下，**Vibes清單的成員**&#x200B;篩選器會找出目前訂閱了Vibes的&#x200B;_任何人_，最適合用於智慧行銷活動或清單。
+相較之下，**Vibes清單的成員**&#x200B;篩選器會找出目前訂閱了Vibes的&#x200B;*任何人*，最適合用於智慧行銷活動或清單。
 
 >[!NOTE]
 >
@@ -66,7 +66,7 @@ ht-degree: 0%
 <tbody>
   <tr>
     <td style="width:20%"><b>傳送簡訊訊息</b></td>
-    <td>此流程動作會從Marketo智慧清單傳送訊息給訂閱使用者選擇加入的Vibes訂閱清單的使用者。 它不會起始訂閱程式。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">深入瞭解</a>。</td>
+    <td>此流程動作會從Marketo智慧清單傳送訊息給訂閱使用者選擇加入的Vibes訂閱清單的使用者。 它不會起始訂閱程式。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">了解更多</a>。</td>
   </tr>
 
 <tr>

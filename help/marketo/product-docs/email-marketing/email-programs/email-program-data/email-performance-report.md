@@ -4,7 +4,7 @@ description: 電子郵件效能報表 — Marketo檔案 — 產品檔案
 title: 以電子郵件傳送效能報表
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 1%
@@ -36,6 +36,7 @@ ht-degree: 1%
    [選取報表欄](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)以取得電子郵件效能報表包含：
 
    <table><thead>
+
 <tr>
     <th>欄</th>
     <th>說明</th>
@@ -58,7 +59,7 @@ ht-degree: 1%
     <td>按一下電子郵件中連結的電子郵件收件者人數。</td>
   </tr>
   <tr>
-    <td>退訂</td>
+    <td>已取消訂閱</td>
     <td>按一下電子郵件中「取消訂閱」連結並填寫表單的電子郵件收件者人數。</td>
   </tr>
   <tr>
@@ -75,9 +76,9 @@ ht-degree: 1%
 
 * **規則1**：每個電子郵件活動記錄都設為下列其中一項，且僅設為一項： _已傳遞_、_已硬退回_、_已軟退回_&#x200B;或&#x200B;_擱置中_。
 
-* **規則2**：如果電子郵件記錄顯示&#x200B;*[!UICONTROL Opened]*，則計為&#x200B;*已傳遞*。
+* **規則2**：如果電子郵件記錄顯示&#x200B;_[!UICONTROL Opened]_，則計為_&#x200B;已傳遞&#x200B;_。
 
-* **規則3**：如果電子郵件記錄顯示&#x200B;_[!UICONTROL Clicked Email]_&#x200B;或_[!UICONTROL Unsubscribed]_，則計為&#x200B;_已傳遞_&#x200B;及&#x200B;_已開啟_。
+* **規則3**：如果電子郵件記錄顯示&#x200B;_[!UICONTROL Clicked Email]_或_[!UICONTROL Unsubscribed]_，則計為&#x200B;_已傳遞_&#x200B;及&#x200B;_已開啟_。
 
 * **規則4**：如果電子郵件為&#x200B;_[!UICONTROL Opened]_，則會忽略退信。 如果電子郵件尚未開啟，_&#x200B;硬退信&#x200B;_優先於_&#x200B;軟退信&#x200B;_和_&#x200B;已傳遞&#x200B;_。
 

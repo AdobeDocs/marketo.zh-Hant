@@ -4,7 +4,7 @@ description: 範本2B - Marketo檔案 — 產品檔案
 title: 範本2B
 exl-id: 8ccf9758-e1c4-41e2-8266-44f69f3a9c67
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本2B {#template-2b}
 
-按一下滑鼠右鍵以[下載範本2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html?lang=zh-Hant)
+[範本2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)

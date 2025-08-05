@@ -4,7 +4,7 @@ description: Mobile Smart Campaigns的觸發器和篩選器 — Marketo檔案 �
 title: 行動智慧型行銷活動的觸發器和篩選器
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 1%
@@ -103,7 +103,7 @@ ht-degree: 1%
 
 有/曾經有行動應用程式活動
 
-這些提供強大的方式可追蹤自訂行動活動。 您需要與開發人員合作，為Android[設定追蹤](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}，為iOS[設定](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}。
+這些提供強大的方式可追蹤自訂行動活動。 您需要與開發人員合作，為Android[設定追蹤](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}，為iOS[設定](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}。
 
 * 具有行動應用程式活動 — 觸發器
 
@@ -129,7 +129,7 @@ ht-degree: 1%
 >
 >**範例**
 >
->在&#x200B;*Shopping*&#x200B;的動作型別底下，有一個非常明確的動作，其他限制則定義了該動作：
+>在&#x200B;_Shopping_&#x200B;的動作型別底下，有一個非常明確的動作，其他限制則定義了該動作：
 >
 >* 已購買一件襯衫
 >   * 它是紅色的

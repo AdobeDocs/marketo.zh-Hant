@@ -4,7 +4,7 @@ description: 範本8G - Marketo檔案 — 產品檔案
 title: 範本8G
 exl-id: d34d7d73-ccca-4083-a9da-f8b5630ed581
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本8G {#template-8g}
 
-按一下滑鼠右鍵以[下載範本8G](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本8G](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)
 
 ![](assets/image2015-7-29-14-3a58-3a16.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本8G.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html?lang=zh-Hant)
+[範本8G.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)

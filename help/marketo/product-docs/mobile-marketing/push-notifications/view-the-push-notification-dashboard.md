@@ -4,7 +4,7 @@ description: 檢視推播通知控制面板 — Marketo檔案 — 產品檔案
 title: 檢視推播通知控制面板
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >_已傳送_&#x200B;量度所反映的傳送數目，可能會超過推送通知傳送對象的確切人數。 這是因為它是根據符合接收推播資格的&#x200B;*裝置*&#x200B;數目計算的。 例如，如果單一人員擁有三部裝置，控制面板會記錄三部傳送，而非一部。
+   >_已傳送_&#x200B;量度所反映的傳送數目，可能會超過推送通知傳送對象的確切人數。 這是因為它是根據符合接收推播資格的&#x200B;_裝置_&#x200B;數目計算的。 例如，如果單一人員擁有三部裝置，控制面板會記錄三部傳送，而非一部。
 
    >[!MORELIKETHIS]
    >

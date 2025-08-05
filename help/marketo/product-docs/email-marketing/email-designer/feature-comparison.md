@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '913'
-ht-degree: 9%
+ht-degree: 10%
 
 ---
 
@@ -299,10 +299,9 @@ ht-degree: 9%
     <td>待定</td>
   </tr>
   <tr>
-    <td>預測性內容</td>
+    <td>預測內容</td>
     <td>能夠根據目標受眾，從電子郵件內的知識庫預測內容。</td>
     <td>可用</td>
     <td>不可用</td>
   </tr>
 </tbody></table>
-

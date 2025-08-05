@@ -4,10 +4,10 @@ description: 動態欄位字彙表 — Marketo檔案 — 產品檔案
 title: 動態欄位字彙表
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 1%
+source-wordcount: '240'
+ht-degree: 0%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 1%
 | `{{friendly_unsubscribe}}` | 厭倦了所有的電子郵件？ 請在此通知我 |
 | `{{my_name}}` | Keith Flynn |
 | `{{my_signature}}` | Keith Flynn，資深技術撰稿人 — Adobe |
-| `{{personal_email}}` | keith@pickyouremail.com |
+| `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | 資深技術撰稿人 |
-| `{{work_website}}` | https://www.adobe.com/tw/ |
+| `{{work_website}}` | <https://www.adobe.com> |
 
 **注意事項**：
 

@@ -4,9 +4,9 @@ description: 自訂欄位型別字彙表 — Marketo檔案 — 產品檔案
 title: 自訂欄位型別字彙表
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '594'
 ht-degree: 2%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 2%
 
 **範例名稱：**&#x200B;備用電子郵件 — 為您的人員保留備用電子郵件地址（實際上無法像預設電子郵件位址列位那樣向此欄位傳送電子郵件，此欄位是特殊的）
 
-**範例值：** name@company.com
+**範例值：** <name@company.com>
 
 **運運算元**： is、is、not、starts with、not starts with、contains、not contains、is empty、not empty
 
@@ -133,6 +133,6 @@ ht-degree: 2%
 
 **範例名稱：**&#x200B;部落格 — 建立欄位以儲存個人部落格url
 
-**範例值：** www.myblog.com
+**範例值：** &lt;www.myblog.com>
 
 **運運算元**： is、is、not、starts with、not starts with、contains、not contains、is empty、not empty

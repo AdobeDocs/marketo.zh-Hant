@@ -4,7 +4,7 @@ description: 最佳實務 — 如何組織您的程式 — Marketo檔案 — 產
 title: 最佳實務 — 如何組織您的計畫
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '847'
 ht-degree: 2%
@@ -30,9 +30,9 @@ ht-degree: 2%
 >* 有效的行銷方案
 >   * 電子郵件
 >   * 活動
->      * 直播活動/路演
->      * 商展
->      * 網路研討會
+>     * 直播活動/路演
+>     * 商展
+>     * 網路研討會
 >   * 電子報
 >   * 培養
 >   * 網頁內容
@@ -48,8 +48,8 @@ ht-degree: 2%
 >   * 銷售請求的行銷活動
 >* **封存**
 >   * 封存事件
->      * 2012年封存
->      * 2013年封存
+>     * 2012年封存
+>     * 2013年封存
 
 範例中提到的每個檔案夾都是資料夾。 請注意它們是如何全都唯一命名的。 您可以有重複（較簡單的）資料夾名稱INSIDE程式，但不能在樹狀結構的根目錄。
 
