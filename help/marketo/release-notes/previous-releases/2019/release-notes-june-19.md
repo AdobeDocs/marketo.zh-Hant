@@ -68,4 +68,4 @@ ht-degree: 0%
 * **漂移整合**：瞭解漂移對話如何影響客戶的歷程。 [!DNL Bizible]也會從交談中擷取電子郵件地址，以建立新的銷售機會，或將接觸點連線到現有的銷售機會。
 * **本地化**： [!DNL Bizible]現在提供所有Marketo支援的語言（英文、日文、德文、西班牙文、法文和葡萄牙文）。
 
-_**產品發行網路研討會**_&#x200B;在[這裡](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)觀看2019年6月Release Innovations網路研討會影片。
+_&#x200B;**產品發行網路研討會**&#x200B;_&#x200B;在[這裡](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)觀看2019年6月Release Innovations網路研討會影片。
