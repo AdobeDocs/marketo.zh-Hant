@@ -3,9 +3,9 @@ description: 新增網路研討會團隊 — Marketo檔案 — 產品檔案
 title: 新增網路研討會團隊
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cd4b32fe1a1a72da7115eb2b1acada9be1b70fe8
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # 新增網路研討會團隊 {#add-a-webinar-team}
 
 互動式網路研討會團隊包含所有有助於在Adobe Connect中成功舉辦網路研討會的角色。 這包括主持人和共同主機。
-
->[!IMPORTANT]
->
->強烈建議您[設計您的網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} __&#x200B;之前，新增簡報者或共同主持人。
 
 >[!NOTE]
 >
@@ -52,9 +48,13 @@ ht-degree: 0%
 
    ![](assets/add-a-webinar-team-4.png)
 
+>[!NOTE]
+>
+> ![複製共同主控URL圖示](assets/icon-copy-join-url.png)會複製共同主控URL加入，而![傳送邀請電子郵件](assets/icon-send-invitation-email.png)圖示會傳送邀請電子郵件給共同主控。
+
 ## 新增簡報者 {#add-a-presenter}
 
-1. 在互動式網路研討會的[概觀]頁面中，按一下[新增主持人]。**&#x200B;**
+1. 在互動式網路研討會的[概觀]頁面中，按一下[新增主持人]。****
 
    ![](assets/add-a-webinar-team-5.png)
 
@@ -70,9 +70,9 @@ ht-degree: 0%
 
    ![](assets/add-a-webinar-team-7.png)
 
->[!TIP]
+>[!NOTE]
 >
->新增網路研討會團隊後，您可以按一下每位使用者旁的復製圖示，複製（然後共用）其加入URL。
+> ![複製簡報者URL圖示](assets/icon-copy-join-url.png)會複製簡報者加入URL，而![傳送邀請電子郵件](assets/icon-send-invitation-email.png)圖示會傳送邀請電子郵件。
 
 >[!MORELIKETHIS]
 >
