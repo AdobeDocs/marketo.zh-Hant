@@ -3,9 +3,9 @@ description: 設計互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 設計互動式網路研討會
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您的網路研討會將在Marketo Engage例項中設定為預設語言，但您可以選擇使用預覽上方的下拉式清單，根據每個網路研討會變更語言。
+   >您的網路研討會將在Marketo Engage例項中設定為預設語言，但您可選擇使用預覽版上方的下拉式清單，根據網路研討會變更語言。
 
 1. 您可以選取不同的版面進行預覽。 若要繼續，請按一下&#x200B;**使用範本**。
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. 如需會議室與範本的詳細資訊，請參閱[此Adobe說明文章](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}的[會議室範本與版面配置]一節。
+1. 如需會議室與範本的詳細資訊，請參閱[此Adobe說明文章](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}的「會議室範本與版面配置」一節。
 
 1. 當您完成網路研討會的設計時，請按一下&#x200B;**結束會議室**。
 
@@ -75,3 +75,7 @@ ht-degree: 0%
 **版面配置**：參考將多個必要元件安排在特定範本中以確保網路研討會成功的各種方式。 單一範本可以有多個版面供您選擇。 網路研討會的基本元件在各範本上維持不變。 您選取的排列方式最適合您或傳送網路研討會的主持人的風格/需求。
 
 **Pod**：範本內的元件，會在網路研討會期間執行特定活動。 例如，設定並傳送投票，以擷取一個活動中可透過投票Pod完成之參與者的回應。 同樣地，與參與者聊天以傳達訊息或與其隨意互動可以是透過聊天Pod傳送的活動。 有多個其他Pod可供使用，例如「分享」、「附註」、「視訊」、「聊天」、「與會者清單」、「檔案」、「網頁連結」、「投票」以及「問答」。
+
+>[!MORELIKETHIS]
+>
+>[瞭解如何新增主持人和/或共同主機](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}

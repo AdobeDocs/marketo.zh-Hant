@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
 source-wordcount: '9294'
 ht-degree: 2%
@@ -305,7 +305,7 @@ ht-degree: 2%
             + [執行行銷活動](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
             + [流程步驟服務](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md)
             + [將評分給予反向連結](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
-            + [精彩時刻](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
+            + [關鍵時刻](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [從流量中移除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
             + [從清單中移除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)
             + [在流程步驟中重新排序「新增選擇」](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
@@ -437,7 +437,7 @@ ht-degree: 2%
             + [OP — 傳遞性管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md)
             + [快速入門電子郵件範本](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md)
             + [快速入門登陸頁面範本](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md)
-         + 程式效能報表 {#program-performance-report}
+         + 方案效能報告 {#program-performance-report}
             + [建立方案效能報表](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [新增方案狀態列到方案報告](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
             + [依期間成本篩選方案報表](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
@@ -648,7 +648,7 @@ ht-degree: 2%
             + [同步呼叫和呼叫重要訊息](product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md)
          + Veeva CRM流程動作 {#veeva-crm-flow-actions}
             + [在Veeva中建立任務](product-docs/crm-sync/veeva-crm-sync/veeva-crm-flow-actions/create-task-in-veeva.md)
-   + 需求產生 {#demand-generation}
+   + 需求開發 {#demand-generation}
       + 廣告網路整合 {#ad-network-integrations}
          + [瞭解廣告網路整合](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [將Facebook自訂對象新增為LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
@@ -729,8 +729,8 @@ ht-degree: 2%
             + [互動式網路研討會的最佳作法](product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md)
             + [使用者和授權管理](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [建立互動式網路研討會](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
-            + [新增網路研討會團隊](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [設計互動式網路研討會](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [新增網路研討會團隊](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [測試互動式網路研討會](product-docs/demand-generation/events/interactive-webinars/testing-an-interactive-webinar.md)
             + [提供互動式網路研討會](product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md)
             + [範本](product-docs/demand-generation/events/interactive-webinars/templates.md)
@@ -980,7 +980,7 @@ ht-degree: 2%
             + [在Smart Campaign中使用LinkedIn銷售機會一般表單篩選器和觸發器](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
    + 電子郵件行銷 {#email-marketing}
       + 傳遞能力 {#deliverability}
-         + [持久取消訂閱](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
+         + [持久性取消訂閱](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Email Deliverability Power Pack：如何匯入種子清單](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [電子郵件中的硬跳出和軟跳出](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
          + [設定自訂DKIM簽名](product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)
@@ -1644,7 +1644,7 @@ ht-degree: 2%
          + [簡訊字彙表](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
    + 個人化 {#personalization}
       + 分段與代碼片段 {#segmentation-and-snippets}
-         + 分段 {#segmentation}
+         + 細分 {#segmentation}
             + [核准分段](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
             + [建立細分](product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
             + [定義區段規則](product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
@@ -1665,7 +1665,7 @@ ht-degree: 2%
             + [使用動態內容編輯代碼片段](product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md)
             + [預覽程式碼片段](product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
             + [取消核准程式碼片段](product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md)
-   + 預測性內容 {#predictive-content}
+   + 預測內容 {#predictive-content}
       + [預測性內容摘要](product-docs/predictive-content/the-predictive-content-summary.md)
       + [定義預測性內容活動的智慧清單](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
       + [預測性Content Analytics概觀](product-docs/predictive-content/predictive-content-analytics-overview.md)
@@ -1734,12 +1734,12 @@ ht-degree: 2%
             + [訂閱智慧清單](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + 報告類型 {#report-types}
             + [行銷活動報表](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
-            + [行銷活動電子郵件效能報表](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-            + [公司網站活動報表](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+            + [行銷活動電子郵件效能報告](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+            + [公司網頁活動報告](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [依狀態顯示人員報表](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-            + [人員績效報表](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
+            + [人員效能報告](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [報表型別概觀](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
-            + [網頁活動報表](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
+            + [網頁活動報告](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
             + [已檢視的網頁、網頁活動報表](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + 電子郵件深入分析 {#email-insights}
          + [電子郵件深入分析概觀](product-docs/reporting/email-insights/email-insights-overview.md)
@@ -1749,7 +1749,7 @@ ht-degree: 2%
          + [電子郵件深入分析快速圖表](product-docs/reporting/email-insights/email-insights-quick-charts.md)
          + [電子郵件深入分析傳送概覽](product-docs/reporting/email-insights/email-insights-sends-overview.md)
          + [在電子郵件深入分析中篩選](product-docs/reporting/email-insights/filtering-in-email-insights.md)
-      + 效能分析 {#performance-insights}
+      + 效能洞察 {#performance-insights}
          + [效能分析概觀](product-docs/reporting/performance-insights/performance-insights-overview.md)
          + [在效能深入分析中進行篩選](product-docs/reporting/performance-insights/filtering-in-performance-insights.md)
          + [績效分析貢獻概述](product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)
@@ -1876,11 +1876,11 @@ ht-degree: 2%
          + [RCA中的具名帳戶Dimension](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
          + [具名帳戶分析](product-docs/target-account-management/measure/named-account-insights.md)
          + [使用角色](product-docs/target-account-management/using-personas.md)
-      + 帳戶分析 {#account-profiling}
+      + 帳戶剖析 {#account-profiling}
          + [設定帳戶分析](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
          + [帳戶設定檔排名與調整](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
          + [新帳戶探索](product-docs/target-account-management/account-profiling/new-account-discovery.md)
-   + 網頁Personalization {#web-personalization}
+   + 網頁個人化 {#web-personalization}
       + 帳戶型網頁行銷 {#account-based-web-marketing}
          + [使用TAM的帳戶型網頁行銷](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [建立新的帳戶清單](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
@@ -1929,7 +1929,7 @@ ht-degree: 2%
          + [管理個人資料](product-docs/web-personalization/using-web-segments/manage-person-data.md)
          + [從特定標籤檢視區段](product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
          + [網頁區段](product-docs/web-personalization/using-web-segments/web-segments.md)
-      + 網站重新目標定位 {#website-retargeting}
+      + 網站重定向 {#website-retargeting}
          + [Facebook中的個人化再行銷](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Google中的個人化再行銷](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
          + [使用網頁Personalization資料重新進行目標定位](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
