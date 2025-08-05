@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本18C {#template-18c}
 
-按一下滑鼠右鍵以[下載範本18C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)
+按一下滑鼠右鍵以[下載範本18C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html?lang=zh-Hant)
 
 ![](assets/image2015-8-17-18-3a13-3a28.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本18C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)
+[範本18C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html?lang=zh-Hant)

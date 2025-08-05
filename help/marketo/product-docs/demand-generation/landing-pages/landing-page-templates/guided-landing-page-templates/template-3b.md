@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本3B {#template-3b}
 
-按一下滑鼠右鍵以[下載範本3B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html)
+按一下滑鼠右鍵以[下載範本3B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html?lang=zh-Hant)
 
 ![](assets/image2015-6-15-11-3a11-3a30.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本3B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html)
+[範本3B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html?lang=zh-Hant)

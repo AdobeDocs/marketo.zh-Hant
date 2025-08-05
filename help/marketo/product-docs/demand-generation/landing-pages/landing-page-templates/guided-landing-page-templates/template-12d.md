@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 12D範本 {#template-12d}
 
-按一下滑鼠右鍵以[下載範本12D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html)
+按一下滑鼠右鍵以[下載範本12D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html?lang=zh-Hant)
 
 ![](assets/image2015-8-4-14-3a42-3a2.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本12D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html)
+[範本12D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html?lang=zh-Hant)

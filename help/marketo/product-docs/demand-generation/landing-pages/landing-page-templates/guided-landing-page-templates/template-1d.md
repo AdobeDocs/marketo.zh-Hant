@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 1D範本 {#template-1d}
 
-按一下滑鼠右鍵以[下載範本1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
+按一下滑鼠右鍵以[下載範本1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html?lang=zh-Hant)
 
 ![](assets/image2015-5-28-13-3a36-3a44.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[Template1 1D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
+[Template1 1D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html?lang=zh-Hant)

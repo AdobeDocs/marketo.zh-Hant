@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 範本20B {#template-20b}
 
-按一下滑鼠右鍵以[下載範本20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
+按一下滑鼠右鍵以[下載範本20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html?lang=zh-Hant)
 
 ![](assets/template-20b.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本20B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
+[範本20B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html?lang=zh-Hant)

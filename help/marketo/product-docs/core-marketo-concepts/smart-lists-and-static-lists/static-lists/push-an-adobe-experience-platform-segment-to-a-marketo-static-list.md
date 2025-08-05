@@ -99,7 +99,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您可以將屬性從Experience Platform對應至貴組織在Marketo Engage中可存取的任何屬性。 使用[Describe API要求](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}來擷取貴組織有權存取的屬性欄位。
+   >您可以將屬性從Experience Platform對應至貴組織在Marketo Engage中可存取的任何屬性。 使用[Describe API要求](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}來擷取貴組織有權存取的屬性欄位。
 
 1. 再次按一下&#x200B;**[!UICONTROL Add New Mapping]**&#x200B;並重複步驟15兩次，選擇&#x200B;**[!UICONTROL lastName]**&#x200B;再選擇&#x200B;**[!UICONTROL companyName]**，以對應姓氏和公司名稱。
 
