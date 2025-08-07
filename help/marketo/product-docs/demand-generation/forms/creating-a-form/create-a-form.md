@@ -4,9 +4,9 @@ description: 建立表單 — Marketo檔案 — 產品檔案
 title: 建立表單
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: f796f40952bcacf15a2141dfec4c76c2fa3f0796
+source-git-commit: f27b520544583b9511428b0bc3a41cc1527cc332
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '98'
 ht-degree: 1%
 
 ---
@@ -17,27 +17,23 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->瞭解Marketo Engage如何確保您的表單安全[&#128279;](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
+>瞭解Marketo Engage如何確保您的表單安全[](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
 
 1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/create-a-form-1.png)
 
-1. 尋找並選取您的&#x200B;**程式**。
+1. 尋找所需的程式。 用滑鼠右鍵按一下並選取&#x200B;**[!UICONTROL New Local Asset]**。
 
-   ![](assets/programseelct.png)
-
-1. 在&#x200B;**[!UICONTROL New]**&#x200B;底下，按一下&#x200B;**[!UICONTROL New Local Asset]**。
-
-   ![](assets/newlocalasset.png)
+   ![](assets/create-a-form-2.png)
 
 1. 選擇「**[!UICONTROL Form]**」。
 
-   ![](assets/image2014-9-15-17-3a1-3a20.png)
+   ![](assets/create-a-form-3.png)
 
 1. 輸入表單&#x200B;**[!UICONTROL Name]**&#x200B;並按一下&#x200B;**[!UICONTROL Create]**。
 
-   ![](assets/newformwithhands.png)
+   ![](assets/create-a-form-4.png)
 
 >[!TIP]
 >
