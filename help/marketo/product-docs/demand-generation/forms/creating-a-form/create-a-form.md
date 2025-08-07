@@ -4,20 +4,20 @@ description: 建立表單 — Marketo檔案 — 產品檔案
 title: 建立表單
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: f796f40952bcacf15a2141dfec4c76c2fa3f0796
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 1%
 
 ---
 
 # 建立表單 {#create-a-form}
 
-在登入頁面上建立並使用表單來產生新名稱。 很簡單 — 以下說明如何開始使用。
+在登入頁面上建立並使用表單，以產生新名稱或擷取所需資料。
 
 >[!NOTE]
 >
->瞭解Marketo如何確保您的表單安全[&#128279;](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
+>瞭解Marketo Engage如何確保您的表單安全[](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
 
 1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->大部分客戶會為每個登陸頁面建立新表單，但您也可以建立一個表單以用於多個登陸頁面。 完全由您決定！
-
-真貼心！ 現在表單已建立完畢，讓我們整理一下表單。
+>大部分使用者會為每個登陸頁面建立新表單，但您也可以建立一個表單以用於多個登陸頁面。 完全由您決定！
 
 >[!MORELIKETHIS]
 >
