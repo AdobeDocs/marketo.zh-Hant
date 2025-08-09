@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/user-and-license-management-3.png)
 
-1. 按一下「可用的使用者」下拉式清單，選取您要新增的使用者，然後按一下「確定」****。
+1. 按一下「可用的使用者」下拉式清單，選取您要新增的使用者，然後按一下「確定」**&#x200B;**。
 
    ![](assets/user-and-license-management-4.png)
 
