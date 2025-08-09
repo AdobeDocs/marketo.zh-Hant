@@ -18,9 +18,9 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >更新至[!DNL Sales Connect]封裝的最新版本，並在您的銷售機會/聯絡人檢視中安裝大量動作按鈕。
->* [英文指示](assets/SF+Guide+for+Lightning-EN)
->* [日文、韓文、中文的指示](assets/SF+Guide+for+Lightning-JA-KO-ZH)
->* [西班牙文、法文、德文、義大利文、瑞典文的指示](assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
+>* [英文指示] (assets/SF+Guide+for+Lightning-EN)
+>* [日文、韓文、中文的指示] (assets/SF+Guide+for+Lightning-JA-KO-ZH)
+>* [西班牙文、法文、德文、義大利文、瑞典文的指示] (assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
 
 >[!NOTE]
 >
