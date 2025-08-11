@@ -4,9 +4,9 @@ description: 傳送清單至Adobe Experience Cloud - Marketo檔案 — 產品檔
 title: 傳送清單至Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: 8bc619b9b9a75c3b20a8f30ebf902ab4b881e627
+source-git-commit: 781f1350b4eae731bd77013ed9f238d77a6fcd32
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '782'
 ht-degree: 1%
 
 ---
@@ -94,9 +94,9 @@ ht-degree: 1%
 
 ### 共用至Adobe Analytics {#sharing-to-adobe-analytics}
 
-* 對於同時擁有Adobe Audience Manager和Adobe Analytics的使用者，此整合可讓對象從Marketo分享至您的Adobe Analytics報表套裝，不過您需要在Adobe Audience Manager中執行一些額外的設定步驟才能啟用此功能。 請參閱[Adobe Audience Manager的檔案](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=zh-Hant){target="_blank"}，以取得如何設定此專案的詳細資訊。
+* 對於同時擁有Adobe Audience Manager和Adobe Analytics的使用者，此整合可讓對象從Marketo分享至您的Adobe Analytics報表套裝，不過您需要在Adobe Audience Manager中執行一些額外的設定步驟才能啟用此功能。 請參閱[Adobe Audience Manager的檔案](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"}，以取得如何設定此專案的詳細資訊。
 
-* 清單從Marketo上傳至Adobe Audience Manager後，Adobe Target也可加以存取。 必須在Adobe Target[中啟用該組態](https://experienceleague.adobe.com/zh-hant/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}。
+* 清單從Marketo上傳至Adobe Audience Manager後，Adobe Target也可加以存取。 必須在Adobe Target[中啟用該組態](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}。
 
 * 如果清單為空白，或沒有具有ECID值的使用者，系統不會推送清單名稱以在Marketo外部參照。
 
