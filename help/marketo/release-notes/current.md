@@ -12,9 +12,9 @@ ht-degree: 46%
 
 # 發行說明：2025 年 8 月 {#release-notes-aug-25}
 
-下方提供2025年8月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否適用這些功能。
+下方提供2025年8月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
-Adobe Dynamic Chat 特定的發行說明[請參閱此處](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
+如需 Adobe Dynamic Chat 特定的發行說明，[請參閱這裡](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
 >[!AVAILABILITY]
 >
@@ -22,7 +22,7 @@ Adobe Dynamic Chat 特定的發行說明[請參閱此處](/help/marketo/release-
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2025年8月22日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。各項功能的狀態請查看旁邊欄位。
+下列功能屬於標準發行週期，並將於&#x200B;**2025年8月22日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。如需了解各項功能的狀態，請查看其旁邊欄位。
 
 <table style="table-layout:auto">
  <tbody>
@@ -88,6 +88,6 @@ Adobe Dynamic Chat 特定的發行說明[請參閱此處](/help/marketo/release-
 
    * _單一登入(SSO)淘汰_：對[Marketo身分識別SSO](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}的支援已於2025年7月30日結束。 該功能將保持正常運作，直到轉換至 Adobe Identity 的過程完成為止。在 Adobe Admin Console 中，Adobe Identity 單一登入必須個別設定。關於設定步驟，請參閱[設定身分識別和單一登入](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
 
-* **REST API「存取權杖」參數停止適用**：用於驗證 Marketo REST API 呼叫的 `access_token` 查詢參數將停止適用，且於 2025 年 10 月 31 日之後不再提供使用。所有新的和現有的整合都應使用「授權」標頭驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **REST API「存取權杖」參數棄用**：用於驗證 Marketo REST API 呼叫的 `access_token` 查詢參數將停止適用，且於 2025 年 10 月 31 日之後不再提供使用。所有新的和現有的整合都應使用「授權」標頭驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API 停止適用**：將於 2025 年 10 月 31 日停止支援 Marketo SOAP API。使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API 棄用**：將於 2025 年 10 月 31 日停止支援 Marketo SOAP API。使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
