@@ -1,22 +1,22 @@
 ---
-description: Marketo Engage Modern UX概觀 — Marketo檔案 — 產品檔案
-title: Marketo Engage Modern UX概觀
+description: Marketo Engage Modern UX 概觀 - Marketo 文件 - 產品文件
+title: Marketo Engage Modern UX 概觀
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Marketo Engage Modern UX概觀 {#overview}
+# Marketo Engage Modern UX 概觀 {#overview}
 
-歡迎使用Adobe Marketo Engage Modern UX （使用者體驗），此更新介面可增強易用性，並帶來整個Marketo Engage平台的新外觀。
+歡迎使用 Adobe Marketo Engage Modern UX (使用者體驗)，這是經過更新的介面，提高整個 Marketo Engage 平台的易用性並帶來全新外觀。
 
 >[!PREREQUISITES]
 >
->如果您的IT團隊使用允許清單來限制Web存取，請要求他們新增以下網域（包括星號），以允許所有Marketo資源和網路通訊端：
+>若您的 IT 團隊使用允許清單來限制網頁存取，請要求他們新增以下網域 (包括星號)，以便允許所有 Marketo 資源和 WebSocket：
 >
 >* *.marketo.com
 >* *.marketodesigner.com
@@ -24,35 +24,35 @@ ht-degree: 1%
 
 ## 新增功能 {#whats-new}
 
-Modern UX中有許多新功能，這些功能都旨在大幅改善您的行銷體驗。
+Modern UX 提供許多新功能，旨在大幅提升您的行銷體驗。
 
 **圖示**
 
-新的介面功能改良並擴充了影象。
+新介面的圖示設計皆有所改良並放大。
 
 ![](assets/overview-2.png)
 
 **全域導覽**
 
-再見超級球。 您現在可以快速存取所有主要Marketo Engage區段。
+再會了，大圓球選單。您現在可以快速存取所有主要的 Marketo Engage 區段。
 
 ![](assets/overview-5.png)
 
-**執行個體URL**
+**執行個體 URL**
 
-您也可以快速存取您的munchkin ID，此ID現在會反映在您的執行個體的URL中（對擁有多個訂閱的訪客更實用）。
+您也可以快速存取您的 Munchkin ID，此 ID 現在會反映在您的執行個體 URL 中 (對於擁有多項訂閱的使用者來說更加實用)。
 
 ![](assets/overview-6.png)
 
-## 新增樹狀結構選項 {#new-tree-options}
+## 新的樹狀結構選項 {#new-tree-options}
 
-有許多可用的新樹狀結構功能。
+有大量新的樹狀結構功能可供使用。
 
 >[!NOTE]
 >
->在樹狀結構中執行搜尋只會顯示前250個結果。 如果在搜尋後找不到您的資產，請使用[全域搜尋](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md)功能。
+>在樹狀結構中執行搜尋只會顯示前 250 個結果。若進行搜尋後仍找不到您的資產，請使用[全域搜尋](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md)功能。
 
-**Marketo Classic與新Marketo的比較**
+**Marketo Classic 與新 Marketo 的比較**
 
 <table>
  <tbody>
@@ -67,17 +67,17 @@ Modern UX中有許多新功能，這些功能都旨在大幅改善您的行銷�
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>合併草稿與核准樹節點</td>
+   <td>合併草稿與核准樹狀節點</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>在程式資料夾中建立本機資產</td>
+   <td>在方案資料夾中建立本地資產</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>按兩下以展開/收合樹狀節點</td>
+   <td>按兩下展開/收合樹狀節點</td>
    <td><strong>X</strong></td>
    <td><strong>X</strong></td>
   </tr>
@@ -87,42 +87,42 @@ Modern UX中有許多新功能，這些功能都旨在大幅改善您的行銷�
    <td></td>
   </tr>
   <tr>
-   <td>在樹狀結構中拖放</td>
+   <td>在樹狀結構內拖放</td>
    <td><strong>X</strong></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>依資產型別和狀態篩選</td>
+   <td>依資產類型和狀態進行篩選</td>
    <td><i>部分</i></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>反白顯示背景以顯示焦點狀態的階層</td>
+   <td>在焦點狀態下凸顯背景以顯示階層</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>搜尋期間反白關鍵字</td>
+   <td>搜尋時凸顯關鍵字</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>水準捲動</td>
+   <td>水平捲動</td>
    <td><strong>X</strong></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>樹狀結構節點的暫留狀態</td>
+   <td>樹狀節點的滑鼠停留狀態</td>
    <td><strong>X</strong></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>快速摺疊整個樹狀結構</td>
+   <td>快速收合整個樹狀結構</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>快速摺疊至根節點</td>
+   <td>快速收合至根節點</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
@@ -132,17 +132,17 @@ Modern UX中有許多新功能，這些功能都旨在大幅改善您的行銷�
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>可調整大小的樹</td>
+   <td>可調整大小的樹狀結構</td>
    <td><strong>X</strong></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>在封存的資料夾中搜尋</td>
+   <td>在已封存的資料夾中搜尋</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>從樹狀結構搜尋輸入全域搜尋時儲存的搜尋字串</td>
+   <td>從樹狀搜尋進入全域搜尋時會儲存搜尋字串</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
@@ -157,7 +157,7 @@ Modern UX中有許多新功能，這些功能都旨在大幅改善您的行銷�
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>「Word開頭為」搜尋邏輯</td>
+   <td>「字詞開頭為」的搜尋邏輯</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
@@ -166,7 +166,7 @@ Modern UX中有許多新功能，這些功能都旨在大幅改善您的行銷�
 
 ## 全域導覽 {#global-nav}
 
-檢視新的全域導覽。
+認識新的全域導覽。
 
 ![](assets/overview-7.png)
 
@@ -174,30 +174,30 @@ Modern UX中有許多新功能，這些功能都旨在大幅改善您的行銷�
  <tbody>
   <tr>
    <td>1</td>
-   <td>沒有更多超級球下拉式清單</td>
+   <td>不再使用大圓球下拉式選單</td>
   </tr>
   <tr>
    <td>2</td>
-   <td>列出所有先前的超級球專案</td>
+   <td>之前大圓球包含的所有項目全部列出</td>
   </tr>
   <tr>
   <tr>
    <td>3</td>
-   <td>如果您有多個訂閱，請按一下您的子名稱以輕鬆切換到另一個訂閱</td>
+   <td>若您擁有多項訂閱，按一下訂閱名稱即可輕鬆切換至另一個</td>
   </tr>
   <tr>
    <td>4</td>
-   <td>全域搜尋 — 您現在可以從這裡搜尋整個執行個體</td>
+   <td>全域搜尋 - 您現在可以從這裡搜尋整個執行個體</td>
   </tr>
  </tbody>
 </table>
 
 >[!NOTE]
 >
->所有曾經存在於超級球下拉式清單中的專案，現在仍可在「我的Marketo」中以圖磚形式使用。
+>大圓球下拉式選單中曾經存在的所有內容，仍會在 My Marketo 中以圖磚形式供您使用。
 
 >[!TIP]
 >
->在樹狀結構中使用該搜尋只會從您所在的區段產生結果（例如「行銷活動」）。 如果您想要搜尋整個執行個體，請使用全域搜尋。
+>在樹狀結構中進行搜尋，只會顯示您所在區段的結果 (例如，行銷活動)。若您想搜尋整個執行個體，請使用全域搜尋。
 
-享受全新的Marketo Engage體驗！
+享受全新的 Marketo Engage 體驗！

@@ -1,27 +1,27 @@
 ---
 unique-page-id: 11387674
-description: Marketo術語更新 — Marketo檔案 — 產品檔案
+description: Marketo 術語更新 - Marketo 文件 - 產品文件
 hide: true
 hidefromtoc: true
-title: Marketo術語更新
+title: Marketo 術語更新
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '328'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Marketo術語更新 {#updates-to-marketo-terminology}
+# Marketo 術語更新 {#updates-to-marketo-terminology}
 
-我們正在對平台進行一些變更，這些變更將會影響某些專案的名稱。 如果您在2016年3月有新的Marketo執行個體，或是您的公司在2016年7月之後續約，您現在可能會看到新術語。
+我們正在對平台進行變更，而這會影響某些項目的名稱。若您在 2016 年 3 月前有新的 Marketo 執行個體，或者您的公司在 2016 年 7 月之後續約，則您現在所看到的應該是新術語。
 
-雖然您在Marketo檔案中可能會看到不同的術語，但請放心，每篇文章將很快更新，以反映這些變更。 所有指示都相同。
+雖然您可能會在 Marketo 文件中看到不同的術語，但請放心，每篇文章很快便會更新來反映這些變更內容。所有指示維持不變。
 
-那麼，變更了哪些內容？
+變更的內容有哪些？
 
-## 潛在客戶現在是人員 {#lead-is-now-person}
+## 「商機」現在為「人員」 {#lead-is-now-person}
 
-最大變更是將銷售機會/銷售機會重新命名為人員/人員。
+最大的變更是將「商機」重新命名為「人員」。
 
 <table>
  <colgroup>
@@ -30,8 +30,8 @@ ht-degree: 1%
  </colgroup>
  <tbody>
   <tr>
-   <td><strong>舊</strong></td>
-   <td><strong>新增</strong></td>
+   <td><strong>舊版</strong></td>
+   <td><strong>新版</strong></td>
   </tr>
   <tr>
    <td>
@@ -46,7 +46,7 @@ ht-degree: 1%
  </tbody>
 </table>
 
-在某些情況下，「銷售機會」一詞會被直接移除。
+在部分情況下是直接移除「商機」一詞。
 
 <table>
  <colgroup>
@@ -55,8 +55,8 @@ ht-degree: 1%
  </colgroup>
  <tbody>
   <tr>
-   <td><strong>舊</strong></td>
-   <td><strong>新增</strong></td>
+   <td><strong>舊版</strong></td>
+   <td><strong>新版</strong></td>
   </tr>
   <tr>
    <td>
@@ -71,19 +71,19 @@ ht-degree: 1%
  </tbody>
 </table>
 
-潛在客戶與人員&#x200B;**為相同專案**。
+「商機」與「人員」**是指同樣的事情**。
 
-## Token {#tokens}
+## 權杖 {#tokens}
 
-包含單字lead **的權杖未變更**。 很抱歉造成任何混淆；但變更所有代號以符合新術語會中斷目前使用的許多代號。 所以您仍會看到&quot;`{{lead.First Name}}`&quot;之類的權杖。 沒有人員特定的Token。
+含有「lead」一詞的權杖&#x200B;**沒有變更**。對於所造成的任何混淆，我們深表歉意；但是，若為了符合新術語而變更所有權杖，會大量破壞目前正在使用的權杖。因此您仍然會看到諸如「`{{lead.First Name}}`」的權杖。沒有任何人員特定的權杖。
 
 >[!NOTE]
 >
->有&#x200B;*有*&#x200B;個稱為「個人附註」的權杖，但該權杖永遠存在。 如果有的話，它通常用於CRM中的說明欄位。
+>的確是&#x200B;*有*&#x200B;一個名為「人員備註」的權杖，但該權杖一直以來都有。其通常用於 CRM 中的描述欄位 (若有)。
 
 ## 欄位管理 {#field-management}
 
-包含「銷售機會」一詞的欄位已被「人員」取代，或是「銷售機會」一詞已被捨棄。 然而，「潛在客戶擁有者」欄位是一個顯著的例外。 現在稱為「銷售負責人」。
+含有術語「商機」的欄位已經替換為「人員」，或者刪除「商機」一詞。然而，有一個值得注意的例外是「商機所有者」欄位。其現在名為「銷售所有者」。
 
 <table>
  <colgroup>
@@ -92,8 +92,8 @@ ht-degree: 1%
  </colgroup>
  <tbody>
   <tr>
-   <td><strong>舊</strong></td>
-   <td><strong>新增</strong></td>
+   <td><strong>舊版</strong></td>
+   <td><strong>新版</strong></td>
   </tr>
   <tr>
    <td>
@@ -110,9 +110,9 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->如需受影響的欄位名稱完整清單，請造訪此[支援文章](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}。
+>若要受影響之欄位名稱的完整清單，請造訪此[支援文章](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}。
 
-## 即時Personalization (RTP)現在是Web Personalization {#real-time-personalization-rtp-is-now-web-personalization}
+## 「即時個人化」(RTP) 現在為「網頁個人化」 {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table>
  <colgroup>
@@ -121,8 +121,8 @@ ht-degree: 1%
  </colgroup>
  <tbody>
   <tr>
-   <td><strong>舊</strong></td>
-   <td><strong>新增</strong></td>
+   <td><strong>舊版</strong></td>
+   <td><strong>新版</strong></td>
   </tr>
   <tr>
    <td>
@@ -137,16 +137,16 @@ ht-degree: 1%
  </tbody>
 </table>
 
-除了名稱變更外，現在它包含四個不同的應用程式：
+除了名稱變更之外，其現在由四個獨立的應用程式組成：
 
-| **[網頁Personalization](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | 在主畫面上擁有自己的圖磚 |
+| **[網頁個人化](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | 在主畫面上有其自己的圖磚 |
 |---|---|
-| **[以帳戶為基礎的網頁行銷](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | 可透過網頁Personalization圖磚存取 |
-| **[個人化重新目標定位](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | 可透過網頁Personalization圖磚存取 |
-| **[預測性內容](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | 在主畫面上擁有自己的圖磚 |
+| **[帳戶型網頁行銷](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | 可透過網頁個人化圖磚存取 |
+| **[個人化重定向](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | 可透過網頁個人化圖磚存取 |
+| **[預測內容](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | 在主畫面上有其自己的圖磚 |
 
 >[!NOTE]
 >
 >主畫面上顯示的圖磚會反映所購買的模組。
 
-感謝您在此更新期間耐心等候。
+感謝您在本次更新期間的耐心等候。

@@ -1,28 +1,28 @@
 ---
-description: 切換開關 — Marketo檔案 — 產品檔案
-title: 切換開關
+description: 切換按鈕 - Marketo 文件 - 產品文件
+title: 切換按鈕
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 feature: Modern UX
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '266'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 切換開關 {#toggle-switch}
+# 切換按鈕 {#toggle-switch}
 
-切換開關可讓您在Marketo的傳統介面與現代UX之間切換。 它可用於以下所有反白顯示的區域。
+您可以使用切換按鈕在 Marketo Classic 介面和 Modern UX 之間切換。此切換按鈕在以下醒目標示的所有區域皆可使用。
 
 >[!NOTE]
 >
->當選取切換開關時，所有現有工作流程都會在UI發生變更之前自動儲存。 如果作業已在進行中（例如：資產正在核准中），您將會收到錯誤訊息，指出問題所在，並應在作業完成後重試。
+>當選取切換按鈕時，所有現有的工作流程在使用者介面發生變更之前將會自動儲存。若有某項操作已在進行中 (例如，某項資產正在核准流程中)，您會收到一則錯誤訊息表示您有這樣的狀況，並應於操作完成後重試一次。
 
-## 為個別角色啟用切換開關 {#enable-the-toggle-switch-for-individual-roles}
+## 為個別角色啟用切換按鈕 {#enable-the-toggle-switch-for-individual-roles}
 
-為個別角色或所有角色啟用切換開關。 方法如下。
+啟用個別角色或所有角色的切換按鈕。方法如下。
 
-1. 在Marketo Engage中，按一下&#x200B;**[!UICONTROL Admin]**。
+1. 在 Marketo Engage 中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/toggle-switch-1.png)
 
@@ -30,45 +30,45 @@ ht-degree: 0%
 
    ![](assets/toggle-switch-2.png)
 
-1. 選取您要存取切換開關的角色。
+1. 選取想要存取切換按鈕的角色。
 
    ![](assets/toggle-switch-3.png)
 
-## 啟用功能 {#enable-for-features}
+## 針對各項功能啟用 {#enable-for-features}
 
-您可以選擇手動為個別功能或所有可用功能（目前和即將推出）啟用Marketo Engage Modern UX。
+您可以選擇針對個別功能或者所有 (目前和即將推出的) 可用功能，手動啟用 Marketo Engage Modern UX。
 
-在目前具有切換開關的區域中（在此範例中，我們位於電子郵件清單檢視中），只要按一下頁面右下方的切換開關即可。
+在目前提供切換按鈕的區域中 (於此範例中，我們在電子郵件清單視圖)，請直接按一下頁面右下角的切換按鈕。
 
 ![](assets/toggle-switch-4.png)
 
-新體驗將會載入。
+新的體驗便會載入。
 
 ![](assets/toggle-switch-5.png)
 
-若要為&#x200B;_所有_&#x200B;功能啟用它，請按一下切換開關旁的齒輪圖示。
+若要針對&#x200B;_全部_&#x200B;功能啟用，請按一下切換按鈕旁的「齒輪」圖示。
 
 ![](assets/toggle-switch-6.png)
 
-選取&#x200B;**[!UICONTROL Enable for all available features]**&#x200B;並按一下&#x200B;**[!UICONTROL OK]**。
+選取「**[!UICONTROL Enable for all available features]**」然後按一下「**[!UICONTROL OK]**」。
 
 ![](assets/toggle-switch-7.png)
 
 ## 可用功能 {#available-features}
 
-目前Modern UX提供下列功能（每個版本都會新增新功能）：
+Modern UX 目前提供以下功能 (每個發行版本都會增加新功能)：
 
-* 電子郵件詳細資料檢視
-* 電子郵件清單檢視
-* 電子郵件範本詳細資料檢視
+* 電子郵件詳細資料視圖
+* 電子郵件清單視圖
+* 電子郵件範本詳細資料視圖
 * 電子郵件範本清單
-* 電子郵件測試儀表板檢視
-* 表單詳細資料檢視
-* 表單清單檢視
-* 影像和檔案詳細資訊頁面
-* 登陸頁面詳細資料檢視
-* 登陸頁面清單檢視
-* 登陸頁面範本詳細資訊
+* 電子郵件測試儀表板視圖
+* 表單詳細資料視圖
+* 表單清單視圖
+* 影像和檔案詳細資料頁面
+* 登陸頁面詳細資料視圖
+* 登陸頁面清單視圖
+* 登陸頁面範本詳細資料
 * 登陸頁面範本清單
-* 程式碼片段詳細資料檢視
-* 程式碼片段清單檢視
+* 程式碼片段詳細資料視圖
+* 程式碼片段清單視圖

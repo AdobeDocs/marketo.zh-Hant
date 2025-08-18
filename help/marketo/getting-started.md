@@ -1,44 +1,44 @@
 ---
 unique-page-id: 1147226
-description: 快速入門 — Marketo檔案 — 產品檔案
+description: 快速入門 - Marketo 文件 - 產品文件
 title: 快速入門
 hide: true
 hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
 source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
 # 快速入門 {#getting-started}
 
-## 什麼是Adobe Marketo Engage {#what-is-marketo-engage}
+## Adobe Marketo Engage 是什麼 {#what-is-marketo-engage}
 
-你問Marketo Engage是什麼？ 好問題！
+您想知道 Marketo Engage 是什麼？好問題！
 
-[學習Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
+[了解 Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
-## 進行設定 {#get-set-up}
+## 完成設定 {#get-set-up}
 
-只要您的IT團隊提供一點協助，您就能迅速完成工作。
+在 IT 團隊的協助下，您可以立即完成此操作。
 
-[開始安裝程式](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+[開始設定](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
-## 取得一些快速成功 {#get-some-quick-wins}
+## 取得一些快速成果 {#get-some-quick-wins}
 
-完成這些任務以瞭解Marketo Engage的核心功能。
+完成這些任務，了解 Marketo Engage 的核心功能。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">
-      <img alt="連接" src="getting-started/assets/getting-started-1.png"/>
+      <img alt="連線" src="getting-started/assets/getting-started-1.png"/>
     </a>
     <div>
-    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. 設定並新增人員</a>
+    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. 完成設定與新增人員</a>
     </div>
     <br>
   </td>
@@ -46,7 +46,7 @@ ht-degree: 11%
       <a href="getting-started/quick-wins/send-an-email.md">
        <img alt="匯入" src="getting-started/assets/getting-started.png" />
        </a>
-    <div><a href="getting-started/quick-wins/send-an-email.md">2。 傳送電子郵件</a>
+    <div><a href="getting-started/quick-wins/send-an-email.md">2. 傳送電子郵件</a>
     </div>
     <br>
   </td>
@@ -55,16 +55,16 @@ ht-degree: 11%
       <img alt="電子郵件" src="getting-started/assets/getting-started-3.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3。 含有表單</a>的登陸頁面
+    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3.附有表單的登陸頁面</a>
     </div>
     <br>
   </td>
   <td>
     <a href="getting-started/quick-wins/simple-scoring.md">
-      <img alt="連接" src="getting-started/assets/getting-started-4.png"/>
+      <img alt="連線" src="getting-started/assets/getting-started-4.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/simple-scoring.md">4。 簡單評分</a>
+    <a href="getting-started/quick-wins/simple-scoring.md">4. 簡單評分</a>
     </div>
     <br>
   </td>
@@ -72,7 +72,7 @@ ht-degree: 11%
       <a href="getting-started/quick-wins/email-auto-response.md">
        <img alt="匯入" src="getting-started/assets/getting-started-5.png" />
        </a>
-    <div><a href="getting-started/quick-wins/email-auto-response.md">5。 電子郵件自動回應</a>
+    <div><a href="getting-started/quick-wins/email-auto-response.md">5. 電子郵件自動回覆</a>
     </div>
     <br>
   </td>
@@ -83,16 +83,16 @@ ht-degree: 11%
       <img alt="電子郵件" src="getting-started/assets/getting-started-6.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/import-a-list-of-people.md">6。 匯入人員清單</a>
+    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. 匯入人員清單</a>
     </div>
     <br>
   </td>
   <td>
     <a href="getting-started/quick-wins/drip-drip-nurture.md">
-      <img alt="連接" src="getting-started/assets/getting-started-7.png"/>
+      <img alt="連線" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7。 滴水培養</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. 點滴式培養</a>
     </div>
     <br>
   </td>
@@ -100,7 +100,7 @@ ht-degree: 11%
       <a href="getting-started/quick-wins/personalize-an-email.md">
        <img alt="匯入" src="getting-started/assets/getting-started-8.png" />
        </a>
-    <div><a href="getting-started/quick-wins/personalize-an-email.md">8。 個人化電子郵件</a>
+    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. 電子郵件個人化</a>
     </div>
     <br>
   </td>
@@ -109,22 +109,22 @@ ht-degree: 11%
       <img alt="電子郵件" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9。 警示銷售代表</a>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. 通知銷售代表</a>
     </div>
     <br>
   </td>
   <td>
     <a href="getting-started/quick-wins/update-person-data.md">
-      <img alt="連接" src="getting-started/assets/getting-started-10.png"/>
+      <img alt="連線" src="getting-started/assets/getting-started-10.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/update-person-data.md">10。 更新人員資料</a>
+    <a href="getting-started/quick-wins/update-person-data.md">10. 更新人員資料</a>
     </div>
     <br>
   </td>
 </tr>
 </table>
 
-## 步驟4恭喜！ 您已準備好迎接國家  {#congrats-youre-ready-for-the-nation}
+## 步驟 4 恭喜！您已經準備好使用 Nation  {#congrats-youre-ready-for-the-nation}
 
-檢視[行銷國家](https://nation.marketo.com){target="_blank"}！
+來認識 [Marketing Nation](https://nation.marketo.com){target="_blank"}！

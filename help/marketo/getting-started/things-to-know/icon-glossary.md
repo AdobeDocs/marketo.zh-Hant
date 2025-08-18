@@ -1,18 +1,18 @@
 ---
-description: 圖示字彙表 — Marketo Engage檔案 — 產品檔案
+description: 圖示字彙表 - Marketo Engage 文件 - 產品文件
 title: 圖示字彙表
 feature: Getting Started
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '242'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
-# Marketo Engage圖示字彙表 {#icon-glossary}
+# Marketo Engage 圖示字彙表 {#icon-glossary}
 
-以下是目前Adobe Marketo Engage介面的圖示。 如果您需要參考Marketo Classic圖示，可以[在此找到](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md)。
+以下為目前 Adobe Marketo Engage 介面所使用的圖示。若您需要參考 Marketo Classic 圖示，請參閱[這裡](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md)。
 
 ## 一般圖示 {#general-icons}
 
@@ -20,7 +20,7 @@ ht-degree: 33%
  <tbody>
   <tr>
    <th style="width:25%">舊圖示</th>
-   <th style="width:25%">新增圖示</th>
+   <th style="width:25%">新圖示</th>
    <th style="width:50%">說明</th>
   </tr>
   <tr>
@@ -31,12 +31,12 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td>
    <td><img src="assets/batch-active.png"></td>
-   <td>批次行銷活動 — 作用中</td>
+   <td>批次行銷活動 - 使用中</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-inactive.png"></td>
    <td><img src="assets/batch-inactive.png"></td>
-   <td>批次行銷活動 — 非作用中</td>
+   <td>批次行銷活動 - 非使用中</td>
   </tr>
   <tr>
    <td><img src="assets/classic-default-program.png"></td>
@@ -76,7 +76,7 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-field-organizer.png"></td>
    <td><img src="assets/field-organizer.png"></td>
-   <td>欄位組織者</td>
+   <td>欄位組織工具</td>
   </tr>
   <tr>
    <td><img src="assets/classic-filter.png"></td>
@@ -86,7 +86,7 @@ ht-degree: 33%
   <tr>
    <td><strong>不適用</strong></td>
    <td><img src="assets/filter-active.png"></td>
-   <td>篩選器 — 作用中</td>
+   <td>篩選器 - 使用中</td>
   </tr>
   <tr>
    <td><img src="assets/classic-folder.png"></td>
@@ -96,17 +96,17 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-archive-folder.png"></td>
    <td><img src="assets/folder-archive.png"></td>
-   <td>資料夾 — 已封存</td>
+   <td>資料夾 - 已封存</td>
   </tr>
   <tr>
    <td><img src="assets/classic-shared-folder.png"></td>
    <td><img src="assets/folder-shared.png"></td>
-   <td>資料夾 — 共用</td>
+   <td>資料夾 - 已共用</td>
   </tr>
   <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td>
    <td><img src="assets/folder-locked.png"></td>
-   <td>資料夾 — 已鎖定</td>
+   <td>資料夾 - 已封鎖</td>
   </tr>
   <tr>
    <td><img src="assets/classic-form.png"></td>
@@ -116,7 +116,7 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-images-and-files.png"></td>
    <td><img src="assets/images.png"></td>
-   <td>影像（和檔案）</td>
+   <td>影像 (和檔案)</td>
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-messages.png"></td>
@@ -126,7 +126,7 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-in-app-program.png"></td>
    <td><img src="assets/in-app-program.png"></td>
-   <td>應用程式內程式</td>
+   <td>應用程式內方案</td>
   </tr>
   <tr>
    <td><img src="assets/classic-landing-page.png"></td>
@@ -156,12 +156,12 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-referral-offer.png"></td>
    <td><img src="assets/referral-offer.png"></td>
-   <td>推薦人特賣優惠</td>
+   <td>推薦優惠方案</td>
   </tr>
   <tr>
    <td><img src="assets/classic-report.png"></td>
    <td><img src="assets/report.png"></td>
-   <td>報表</td>
+   <td>報告</td>
   </tr>
   <tr>
    <td><strong>不適用</strong></td>
@@ -181,7 +181,7 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-smart-list-cached.png"></td>
    <td><img src="assets/smart-list-cached.png"></td>
-   <td>智慧清單 — 快取</td>
+   <td>智慧清單 - 已快取</td>
   </tr>
   <tr>
    <td><img src="assets/classic-sms-message.png"></td>
@@ -211,17 +211,17 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-test-group.png"></td>
    <td><img src="assets/test-group.png"></td>
-   <td>測試群組</td>
+   <td>測試組</td>
   </tr>
   <tr>
    <td><img src="assets/classic-trigger.png"></td>
    <td><img src="assets/trigger-active.png"></td>
-   <td>觸發器 — 作用中</td>
+   <td>觸發程序 - 使用中</td>
   </tr>
   <tr>
    <td><strong>不適用</strong></td>
    <td><img src="assets/trigger-inactive.png"></td>
-   <td>觸發器 — 非使用中</td>
+   <td>觸發程序 - 非使用中</td>
   </tr>
   <tr>
    <td><img src="assets/classic-workspace.png"></td>
@@ -231,7 +231,7 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-youtube.png"></td>
    <td><img src="assets/youtube.png"></td>
-   <td>YouTube影片</td>
+   <td>YouTube 影片</td>
   </tr>
  </tbody>
 </table>
@@ -242,13 +242,13 @@ ht-degree: 33%
  <tbody>
   <tr>
    <th style="width:25%">舊圖示</th>
-   <th style="width:25%"> 新增圖示</th>
+   <th style="width:25%"> 新圖示</th>
    <th style="width:50%">說明</th>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
    <td><img src="assets/has-run-no-upcoming.png"></td>
-   <td>已執行，沒有即將執行</td>
+   <td>已執行，無後續</td>
   </tr>
   <tr>
    <td><img src="assets/classic-invalid.png"></td>
@@ -258,27 +258,27 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-smart-campaign-never-run.png"></td>
    <td><img src="assets/never-run.png"></td>
-   <td>從未執行</td>
+   <td>未執行過</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
    <td><img src="assets/running-in-wait-step.png"></td>
-   <td>執行中，在等待步驟中</td>
+   <td>執行中，處於等待步驟</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled.png"></td>
    <td><img src="assets/scheduled-to-run.png"></td>
-   <td>已排定執行</td>
+   <td>已安排執行</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled-again.png"></td>
    <td><img src="assets/scheduled-to-run-again.png"></td>
-   <td>已排定再次執行</td>
+   <td>已安排再次執行</td>
   </tr>
   <tr>
    <td><img src="assets/classic-used-by-nurture.png"></td>
    <td><img src="assets/used-by-nurture.png"></td>
-   <td>由Nurture使用</td>
+   <td>由培養使用</td>
   </tr>
  </tbody>
 </table>
@@ -289,18 +289,18 @@ ht-degree: 33%
  <tbody>
   <tr>
    <th style="width:25%">舊圖示</th>
-   <th style="width:25%"> 新增圖示</th>
+   <th style="width:25%"> 新圖示</th>
    <th style="width:50%">說明</th>
   </tr>
   <tr>
    <td><img src="assets/classic-trigger.png"></td>
    <td><img src="assets/active.png"></td>
-   <td>作用中</td>
+   <td>使用中</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-is-requested.png"></td>
    <td><img src="assets/is-requested.png"></td>
-   <td>已要求</td>
+   <td>收到請求</td>
   </tr>
   <tr>
    <td><strong>不適用</strong></td>
@@ -321,7 +321,7 @@ ht-degree: 33%
  <tbody>
   <tr>
    <th style="width:25%">舊圖示</th>
-   <th style="width:25%"> 新增圖示</th>
+   <th style="width:25%"> 新圖示</th>
    <th style="width:50%">說明</th>
   </tr>
   <tr>
@@ -353,7 +353,7 @@ ht-degree: 33%
  <tbody>
   <tr>
    <th style="width:25%">舊圖示</th>
-   <th style="width:25%"> 新增圖示</th>
+   <th style="width:25%"> 新圖示</th>
    <th style="width:50%">說明</th>
   </tr>
   <tr>
@@ -375,7 +375,7 @@ ht-degree: 33%
  <tbody>
   <tr>
    <th style="width:25%">舊圖示</th>
-   <th style="width:25%"> 新增圖示</th>
+   <th style="width:25%"> 新圖示</th>
    <th style="width:50%">說明</th>
   </tr>
   <tr>
@@ -412,7 +412,7 @@ ht-degree: 33%
  <tbody>
   <tr>
    <th style="width:25%">舊圖示</th>
-   <th style="width:25%"> 新增圖示</th>
+   <th style="width:25%"> 新圖示</th>
    <th style="width:50%">說明</th>
   </tr>
   <tr>
@@ -428,7 +428,7 @@ ht-degree: 33%
   <tr>
    <td><img src="assets/classic-email-approved-with-draft.png"></td>
    <td><img src="assets/approved-with-draft.png"></td>
-   <td>已核准 (有草稿)</td>
+   <td>已核准，仍有草稿</td>
   </tr>
  </tbody>
 </table>
@@ -439,23 +439,23 @@ ht-degree: 33%
  <tbody>
   <tr>
    <th style="width:25%">舊圖示</th>
-   <th style="width:25%"> 新增圖示</th>
+   <th style="width:25%"> 新圖示</th>
    <th style="width:50%">說明</th>
   </tr>
   <tr>
    <td><strong>不適用</strong></td>
    <td><img src="assets/approved-under-calculation.png"></td>
-   <td>已核准 — 正在計算中</td>
+   <td>已核准 - 計算中</td>
   </tr>
   <tr>
    <td><strong>不適用</strong></td>
    <td><img src="assets/approved-under-recalculation.png"></td>
-   <td>已核准 — 正在重新計算</td>
+   <td>已核准 - 重新計算中</td>
   </tr>
   <tr>
    <td><strong>不適用</strong></td>
    <td><img src="assets/draft-under-calculation.png"></td>
-   <td>草稿 — 正在計算中</td>
+   <td>草稿 - 計算中</td>
   </tr>
  </tbody>
 </table>
