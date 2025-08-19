@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8101d9c73571948847d00dfc21f21c39bcd1d975
+source-git-commit: c4fe9a5048c8c0a750d186edde1557cd082e73e4
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 46%
+source-wordcount: '575'
+ht-degree: 41%
 
 ---
 
@@ -87,6 +87,8 @@ ht-degree: 46%
    * _不再使用IP限制_：支援[根據IP限制Marketo登入](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}已於2025年7月30日結束。 該功能將保持正常運作，直到轉換至 Adobe Identity 的過程完成為止。Adobe Admin Console中適用於Adobe Identity的全新位置型存取控制功能即將推出。
 
    * _單一登入(SSO)淘汰_：對[Marketo身分識別SSO](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}的支援已於2025年7月30日結束。 該功能將保持正常運作，直到轉換至 Adobe Identity 的過程完成為止。在 Adobe Admin Console 中，Adobe Identity 單一登入必須個別設定。關於設定步驟，請參閱[設定身分識別和單一登入](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
+
+* **淘汰&#x200B;_轉寄給朋友_功能**：在2025年9月29日，Marketo Engage 2.0電子郵件（舊版電子郵件編輯器）中的&#x200B;_轉寄給朋友_&#x200B;功能將完全為所有訂閱淘汰。 這會影響「轉寄給朋友」權杖和已使用或將使用權杖傳送的電子郵件中的「轉寄給朋友」連結。 [了解更多](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
 * **REST API「存取權杖」參數棄用**：用於驗證 Marketo REST API 呼叫的 `access_token` 查詢參數將停止適用，且於 2025 年 10 月 31 日之後不再提供使用。所有新的和現有的整合都應使用「授權」標頭驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
