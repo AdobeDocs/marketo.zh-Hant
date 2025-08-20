@@ -2,18 +2,19 @@
 description: 發行說明 — 2025年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2025 年 7 月
 feature: Release Information
-source-git-commit: 8101d9c73571948847d00dfc21f21c39bcd1d975
+exl-id: 86776722-c640-4e55-9551-38ff34de566b
+source-git-commit: ab880e2499ed34eb15fd656b5b4eae0635a6e012
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '691'
 ht-degree: 98%
 
 ---
 
 # 發行說明：2025 年 7 月 {#release-notes-july-25}
 
-以下為 2025 年 7 月發行版本中包含的所有功能。請查看您的 Adobe Marketo Engage 版本是否適用這些功能。
+以下為 2025 年 7 月發行版本中包含的所有功能。請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
-Adobe Dynamic Chat 特定的發行說明[請參閱此處](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
+如需 Adobe Dynamic Chat 特定的發行說明，[請參閱這裡](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
 >[!AVAILABILITY]
 >
@@ -21,7 +22,7 @@ Adobe Dynamic Chat 特定的發行說明[請參閱此處](/help/marketo/release-
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-以下功能會依循標準發行週期發佈，將於 **2025 年 7 月 11 日**&#x200B;開始發行，其餘功能則會在接下來數週內分階段推出。發行的功能和日期可能有所變更。各項功能的狀態請查看旁邊欄位。
+以下功能屬於標準發行週期，將於 **2025 年 7 月 11 日**&#x200B;開始發行，其餘功能則會在接下來數週內分階段推出。發行的功能和日期可能有所變更。如需了解各項功能的狀態，請查看其旁邊欄位。
 
 <table style="table-layout:auto">
  <tbody>
@@ -61,7 +62,7 @@ Adobe Dynamic Chat 特定的發行說明[請參閱此處](/help/marketo/release-
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子郵件設計工具 - Firefox 支援</strong>：Mozilla Firefox 現已完全支援電子郵件設計工具。若要獲得最佳體驗，請務必維持瀏覽器的最新狀態。</td>
+   <td><strong>電子郵件設計工具 - Firefox 支援</strong>：Mozilla Firefox 現已完全支援電子郵件設計工具。若要實現最佳體驗，請務必維持瀏覽器的最新狀態。</td>
    <td>已發布</td>
    <td>不適用</td>
   </tr>
@@ -81,7 +82,7 @@ Adobe Dynamic Chat 特定的發行說明[請參閱此處](/help/marketo/release-
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子郵件設計工具 - 資產的角色型存取控制</strong>：5 月發行版本已針對編輯、核准和刪除權限實施角色型存取控制 (RBAC)。現在此發行版本亦對讀取權限實施。</td>
+   <td><strong>電子郵件設計工具 - 資產的角色型存取控制</strong>：5 月發行版本已針對編輯、核准和刪除權限實施角色型存取控制 (RBAC)。此版本現在提供讀取權限。</td>
    <td>已發布</td>
    <td>不適用</td>
   </tr>
@@ -104,16 +105,6 @@ Adobe Dynamic Chat 特定的發行說明[請參閱此處](/help/marketo/release-
    <td><strong>電子郵件設計工具 - 選取品牌化網域和網域 IP 設定</strong>：您現在可以針對每項電子郵件資產選取一個「品牌網域」和「網域 IP 設定」。</td>
    <td>已發布</td>
    <td>不適用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>電子郵件設計工具 - GenStudio 整合</strong>：在電子郵件內整合 GenStudio for Performance Marketing，提高行銷效率並維持品牌一致性。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -163,10 +154,10 @@ Adobe Dynamic Chat 特定的發行說明[請參閱此處](/help/marketo/release-
 
 * **Marketo Engage Identity 終止服務**：2025 年 8 月，Adobe 將開始逐步停止對於 Marketo Engage Identity (透過 `login.marketo.com` 登入) 的支援。為避免 Marketo Engage 的存取中斷，您最晚必須在 2025 年 9 月 30 日轉換至 [Adobe Identity](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
 
-   * _IP 限制停止適用_：將於 2025 年 7 月 30 日停止支援[根據 IP 對 Marketo 登入進行限制](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}的功能。該功能將保持正常運作，直到轉換至 Adobe Identity 的過程完成為止。Adobe Admin Console 將為 Adobe Identity 提供全新的位置型存取控制功能，預定於 2025 年 8 月發行。
+   * _IP 限制棄用_：將於 2025 年 7 月 30 日停止支援「[根據 IP 對 Marketo 登入進行限制](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}」的功能。該功能將保持正常運作，直到轉換至 Adobe Identity 的過程完成為止。Adobe Admin Console 將為 Adobe Identity 提供全新的位置型存取控制功能，預定於 2025 年 8 月發行。
 
-   * _單一登入 (SSO) 停止適用_：將於 2025 年 7 月 30 日停止支援 [Marketo Identity SSO](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}。該功能將保持正常運作，直到轉換至 Adobe Identity 的過程完成為止。在 Adobe Admin Console 中，Adobe Identity 單一登入必須個別設定。關於設定步驟，請參閱[設定身分識別和單一登入](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
+   * _單一登入 (SSO) 棄用_：將於 2025 年 7 月 30 日停止支援 [Marketo Identity SSO](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}。該功能將保持正常運作，直到轉換至 Adobe Identity 的過程完成為止。在 Adobe Admin Console 中，Adobe Identity 單一登入必須個別設定。關於設定步驟，請參閱[設定身分識別和單一登入](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
 
-* **REST API「存取權杖」參數停止適用**：用於驗證 Marketo REST API 呼叫的 `access_token` 查詢參數將停止適用，且於 2025 年 10 月 31 日之後不再提供使用。所有新的和現有的整合都應使用「授權」標頭驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **REST API「存取權杖」參數棄用**：用於驗證 Marketo REST API 呼叫的 `access_token` 查詢參數將停止適用，且於 2025 年 10 月 31 日之後不再提供使用。所有新的和現有的整合都應使用「授權」標頭驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API 停止適用**：將於 2025 年 10 月 31 日停止支援 Marketo SOAP API。使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API 棄用**：將於 2025 年 10 月 31 日停止支援 Marketo SOAP API。使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
