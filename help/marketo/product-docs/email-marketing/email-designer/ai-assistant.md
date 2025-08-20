@@ -1,25 +1,25 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: 使用AI助理
+title: 使用 AI 助理
 description: 利用Adobe的創作AI技術，將有用的文字和/或影像新增至您的電子郵件。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
-source-wordcount: '734'
-ht-degree: 0%
+source-wordcount: '726'
+ht-degree: 1%
 
 ---
 
-# 使用AI助理 {#use-the-ai-assistant}
+# 使用 AI 助理 {#use-ai-assistant}
 
-Marketo Engage Email Designer中的AI助理可幫助您建立當代、高效能且直覺式的電子郵件。 這是透過Adobe的創作AI技術和提示程式庫，以及Firefly來實現的，用於產生影像，協助為特定角色/購買群組、行銷歷程階段、溝通策略、音調等建立合適的內容。 也可以使用特定品牌資產來建立內容。
+Marketo Engage Email Designer中的AI Assistant可幫助您建立當代、高效能且直覺式的電子郵件。 這是透過Adobe的創作AI技術和提示程式庫，以及Firefly來實現的，用於產生影像，協助為特定角色/購買群組、行銷歷程階段、溝通策略、音調等建立合適的內容。 也可以使用特定品牌資產來建立內容。
 
 >[!PREREQUISITES]
 >
->預設不會啟用AI助理。 您必須先同意核心Gen-AI條款以及在Email Designer中使用Gen-AI功能的補充條款。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+>AI助理預設為未啟用。 您必須先同意核心Gen-AI條款以及在Email Designer中使用Gen-AI功能的補充條款。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 AI Assistant有三個主要使用案例：
 
@@ -81,7 +81,7 @@ AI Assistant有三個主要使用案例：
 
 ![](assets/use-the-ai-assistant-5.png)
 
-若要選擇變數，請選取其核取方塊，然後按一下&#x200B;**選取**。 您也可以按一下「調整&#x200B;**&#x200B;**」來調整它。 此外，您可以按一下向上或向下縮圖示提供意見回饋，讓Gen-AI技術學習您的偏好設定。
+若要選擇變數，請選取其核取方塊，然後按一下&#x200B;**選取**。 您也可以按一下「調整&#x200B;****」來調整它。 此外，您可以按一下向上或向下縮圖示提供意見回饋，讓Gen-AI技術學習您的偏好設定。
 
 做出選擇後，主旨列會填入您的電子郵件詳細資訊中。
 
@@ -93,7 +93,7 @@ AI Assistant有三個主要使用案例：
 
 ![](assets/use-the-ai-assistant-7.png)
 
-在此範例中，我們使用醫療保健範本。 如果現有的醫療保健專家影像不符合您的需求，您可以指示AI助理建立自己的醫療保健專家影像。 只需選取影像內容，然後按一下AI小幫手。
+在此範例中，我們使用醫療保健範本。 如果現有的醫療保健專家影像不符合您的需求，您可以指示AI助理建立自己的醫療保健專家影像。 只需選取影像內容，然後按一下AI助理。
 
 ![](assets/use-the-ai-assistant-8.png)
 
