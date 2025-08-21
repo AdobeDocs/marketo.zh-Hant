@@ -4,7 +4,7 @@ title: Dynamic Chat 發行說明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
 source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3408'
 ht-degree: 100%
 
