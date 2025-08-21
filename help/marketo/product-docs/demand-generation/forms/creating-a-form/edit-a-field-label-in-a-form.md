@@ -4,9 +4,9 @@ description: 編輯表單中的欄位標籤 — Marketo檔案 — 產品檔案
 title: 編輯表單中的欄位標籤
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: e691c4cf62b0bc7843763512f0c2e56c656ad3e2
+source-git-commit: 2c753680f5c0087bf47d53e44106a4f20fdcefc9
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '110'
 ht-degree: 14%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 14%
 
    >[!NOTE]
    >
-   >如果您的表單尚未核准，請按一下&#x200B;**編輯草稿**。
+   >如果您的表單未核准，請按一下&#x200B;**編輯草稿**。
 
 1. 選取您的欄位，然後編輯&#x200B;**[!UICONTROL Label]**。 「表單設定」中的欄位將會反映您輸入的標籤。
 
