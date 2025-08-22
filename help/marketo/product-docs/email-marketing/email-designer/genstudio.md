@@ -1,23 +1,28 @@
 ---
-title: 適用於Marketo Engage的GenStudio整合
+title: GenStudio 與 Marketo Engage 的整合
 description: 瞭解如何在Marketo Engage中使用GenStudio。
-hide: true
-hidefromtoc: true
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: bd1179a632c0363d62e262cb153b8f83dc0bfbf5
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 0%
+source-wordcount: '395'
+ht-degree: 3%
 
 ---
 
-# 適用於Marketo Engage的GenStudio整合 {#genstudio-integration-for-marketo-engage}
+# GenStudio 與 Marketo Engage 的整合 {#genstudio-integration-for-marketo-engage}
 
 Adobe GenStudio for Performance Marketing是創作AI優先的應用程式，可讓您建立自己的廣告和電子郵件，以推動具影響力的個人化行銷活動，符合您的品牌標準並符合您的企業政策。 它提供許多工具，可簡化內容建立的複雜性。
+
+>[!AVAILABILITY]
+>
+>為了善用此功能：
+>
+>* 您的IMS組織必須布建為與Marketo Engage相同的IMS組織中的GenStudio for Performance Marketing （如需詳細資訊，請聯絡您的客戶經理）
+>* 您必須擁有GenStudio for Performance Marketing的使用者權利（系統管理員、編輯者或共同作業人員產品設定檔）
 
 >[!INFO]
 >
@@ -37,9 +42,9 @@ Adobe GenStudio for Performance Marketing是創作AI優先的應用程式，可�
 
    ![匯出您的HTML](assets/genstudio-integration-1.png)
 
-1. [將HTML](https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}匯出的範本上傳至GenStudio for Performance Marketing。
+1. [將HTML](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}匯出的範本上傳至GenStudio for Performance Marketing。
 
-1. 在GenStudio中，使用此範本來[建立多個包含AI提示的電子郵件變數](https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}並儲存。
+1. 在GenStudio中，使用此範本來[建立多個包含AI提示的電子郵件變數](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}並儲存。
 
 ## 在Marketo Engage中善用GenStudio體驗 {#leverage-genstudio-experiences}
 

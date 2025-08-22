@@ -3,9 +3,9 @@ description: 發行說明 — 2025年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2025 年 7 月
 feature: Release Information
 exl-id: 86776722-c640-4e55-9551-38ff34de566b
-source-git-commit: ab880e2499ed34eb15fd656b5b4eae0635a6e012
+source-git-commit: bd1179a632c0363d62e262cb153b8f83dc0bfbf5
 workflow-type: tm+mt
-source-wordcount: '691'
+source-wordcount: '714'
 ht-degree: 98%
 
 ---
@@ -32,6 +32,16 @@ ht-degree: 98%
    <th style="width:25%">文件</th>
   </tr>
   <tr>
+   <td><strong>電子郵件設計工具 - GenStudio 整合</strong>：在電子郵件內整合 GenStudio for Performance Marketing，提高行銷效率並維持品牌一致性。</td>
+   <td>已發布</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">GenStudio 與 Marketo Engage 的整合</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>電子郵件設計工具 - 自訂 CSS</strong>：現在，您在設計電子郵件時，可以在電子郵件設計工具中直接新增自訂 CSS。</td>
    <td>已發布</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">將自訂 CSS 新增至您的電子郵件內容</a></td>
@@ -44,7 +54,7 @@ ht-degree: 98%
   <tr>
    <td><strong>電子郵件設計工具 - 使用 SpamAssassin 偵測垃圾郵件</strong>：您可以使用 Marketo Engage 中的 SpamAssassin 來測試電子郵件內容，了解 ISP/信箱提供者將其標記為垃圾郵件的可能性。</td>
    <td>已發布</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">將自訂 CSS 新增至您的電子郵件內容</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">垃圾郵件報告</a></td>
   </tr>
   <tr>
    <td> </td>
