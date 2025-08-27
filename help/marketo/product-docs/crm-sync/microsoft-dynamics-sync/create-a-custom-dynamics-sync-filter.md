@@ -4,22 +4,22 @@ description: 建立自訂 [!DNL Dynamics] 同步篩選器 — Marketo檔案 — 
 title: 建立自訂 [!DNL Dynamics] 同步篩選器
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '746'
 ht-degree: 1%
 
 ---
 
 # 建立自訂[!DNL Dynamics]同步篩選器 {#create-a-custom-dynamics-sync-filter}
 
-不想將您Dynamics CRM中的所有專案同步至Marketo Engage嗎？ 別擔心！ Marketo可讓您設定同步篩選器，並僅同步部分記錄。
+Marketo可讓您設定同步篩選器，並僅同步部分記錄。
 
 ## 概觀 {#overview}
 
 若要設定[!DNL Dynamics]同步篩選器：
 
-1. 在您的Dynamics CRM中，為任何物件（銷售機會、連絡人、帳戶、機會和其他自訂實體）建立名為new_synctomkto的自訂兩個選項（布林值）欄位。
+1. 在您的Dynamics CRM中，為任何物件（潛在客戶、連絡人、帳戶、機會和其他自訂實體）建立名為`new_synctomkto`的自訂兩個選項（布林值）欄位。
 1. 將此欄位指定為「是/否」值。
 
 您必須在Dynamics CRM (而非您的資料庫或Marketo)中進行這些變更。
@@ -140,10 +140,6 @@ Marketo在自動背景同步期間會尋找此欄位，並根據此邏輯決定�
 * 啟動同步作業
 
   當&#x200B;**SyncToMkto**&#x200B;值從&#x200B;**No**&#x200B;變更為&#x200B;**Yes**&#x200B;時，[!DNL Dynamics]會立即通知Marketo開始同步處理此記錄。 如果記錄已經存在，Marketo會更新它。 否則，Marketo會建立記錄。
-
-  >[!TIP]
-  >
-  >發生此情況時，`Create [StartSync]`作業會新增至Marketo記錄檔。
 
 * 停止同步作業
 

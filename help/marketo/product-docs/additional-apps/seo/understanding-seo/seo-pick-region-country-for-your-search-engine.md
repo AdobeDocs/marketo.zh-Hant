@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949190
 description: SEO — 為您的搜尋引擎挑選地區/國家/地區 — Marketo檔案 — 產品檔案
-title: SEO — 為您的搜尋引擎挑選地區/國家
+title: SEO - 為您的搜尋引擎選取區域/國家
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 14%
 
 ---
 
-# SEO — 為您的搜尋引擎挑選地區/國家 {#seo-pick-region-country-for-your-search-engine}
+# SEO - 為您的搜尋引擎選取區域/國家 {#seo-pick-region-country-for-your-search-engine}
 
 SEO管理員將能夠針對您要取得關鍵字排名資訊的搜尋引擎選擇地區。
 
@@ -19,15 +19,15 @@ SEO管理員將能夠針對您要取得關鍵字排名資訊的搜尋引擎選�
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區段。
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. 按一下&#x200B;**[!UICONTROL 搜尋引擎]**&#x200B;標籤。
+1. 按一下「**[!UICONTROL Search engines]**」標籤。
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. 選擇您要最佳化的國家/城市，然後按一下[儲存]。**&#x200B;**
+1. 選取您要最佳化的國家/城市，然後按一下&#x200B;**[!UICONTROL Save]**。
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ SEO管理員將能夠針對您要取得關鍵字排名資訊的搜尋引擎選�
 
 ![](assets/image2014-9-17-21-3a8-3a8.png)
 
-做得很好。 您現在會看到所選國家/地區或城市的關鍵字排名。
+現在可檢視您所選國家/地區或城市的關鍵字排名。
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 

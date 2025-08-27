@@ -7,7 +7,8 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 5ec9477573128617445ce86163001c7b71980b8c
+exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
 source-wordcount: '1365'
 ht-degree: 0%

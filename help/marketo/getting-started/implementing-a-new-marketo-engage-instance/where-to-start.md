@@ -1,16 +1,16 @@
 ---
 description: 瞭解實作新的Marketo Engage執行個體時的最佳實務。 持續追蹤已執行的將協助您充分利用Marketo Engage，並將執行個體設定為長期衛生和效率。 如果您是新的管理員，在新執行個體中進行導覽，請使用這些指南，保持專注和有條不紊。
-title: 從何處開始
+title: 從何開始
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 0%
+source-wordcount: '277'
+ht-degree: 3%
 
 ---
 
-# 從何處開始 {#Where-to-start}
+# 從何開始 {#Where-to-start}
 
 歡迎使用新的Adobe Marketo Engage執行個體！ 透過強大的行銷自動化功能，準備好簡化、自動化和測量行銷任務和工作流程。
 
@@ -48,6 +48,6 @@ ht-degree: 0%
 
 開始使用社群：
 
-1. 按一下&#x200B;**繼續使用Adobe ID**，然後在登入頁面上選取您的主要訂閱。
+1. 按一下&#x200B;**[!UICONTROL Continue with AdobeID]**，然後在登入頁面上選取您的主要訂閱。
 1. 登入後，請完成您的社群設定檔。
 1. 提交資訊後，即可進入社群首頁，一切準備就緒！

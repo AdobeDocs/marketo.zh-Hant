@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359900
-description: 最低系統需求 — Marketo檔案 — 產品檔案
+description: 最低系統需求 — Marketo
 title: 最低系統需求
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
-source-git-commit: c0375ae1a08fa2bc77f4128abfe5017db69e6ca8
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 6%
 
 ---
 
 # 最低系統需求 {#minimum-system-requirements}
 
-如果您想知道登入和使用Marketo Engage需要哪些資訊，請參閱以下資訊。
+如果您想知道登入和使用Marketo Engage需要哪些資訊，請檢視以下資訊。
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您的IT團隊使用允許清單來限制網頁存取，請要求他們新增`*.marketo.com`、`*.adobe.com`和`*.adobe.net`以允許所有Marketo Engage資源和網頁通訊端。
+>如果您的IT團隊使用允許清單來限制Web存取，請要求他們新增`*.marketo.com`、`*.adobe.com`和`*.adobe.net`，以允許所有Marketo Engage資源和Web通訊端。

@@ -1,23 +1,19 @@
 ---
 unique-page-id: 10098625
 description: 瞭解 [!DNL Microsoft Dynamics] 同步 — Marketo檔案 — 產品檔案
-title: 瞭解Microsoft Dynamics同步
+title: 了解 Microsoft Dynamics 同步
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 3%
 
 ---
 
 # 瞭解[!DNL Microsoft Dynamics]同步處理 {#understanding-the-microsoft-dynamics-sync}
 
 Marketo和[!DNL Microsoft Dynamics]一起執行。 我們保持您的銷售和行銷資料同步。
-
->[!NOTE]
->
->Marketo目前僅支援與Java 7相容的SSL憑證。
 
 >[!CAUTION]
 >

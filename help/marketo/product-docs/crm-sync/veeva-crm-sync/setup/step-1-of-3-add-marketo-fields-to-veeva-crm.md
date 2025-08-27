@@ -3,7 +3,7 @@ description: 步驟3之1 — 將Marketo欄位新增至 [!DNL Veeva] CRM - Market
 title: 步驟3之1 — 將Marketo欄位新增至 [!DNL Veeva] CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 8%
@@ -18,9 +18,8 @@ ht-degree: 8%
 
 Marketo Engage使用一組欄位來擷取特定型別的行銷相關資訊。 如果您想在[!DNL Veeva] CRM中使用此資料，請遵循下列指示。
 
-`1.`在連絡人物件的[!DNL Veeva] CRM中建立自訂欄位：分數
-
-`2.`如有需要，您可以建立其他欄位（請參閱下表）。
+1. 在連絡人物件的[!DNL Veeva] CRM中建立自訂欄位：分數
+1. 如有需要，您可以建立其他欄位（請參閱下表）。
 
 所有這些自訂欄位都是選用欄位，不需要用來同步Marketo Engage和[!DNL Veeva] CRM。
 
@@ -44,7 +43,7 @@ Marketo Engage使用一組欄位來擷取特定型別的行銷相關資訊。 �
 
 1. 按一下&#x200B;**[!UICONTROL Contact]**&#x200B;物件。
 
-1. 選擇「**[!UICONTROL Fields and Relationships]**」。
+1. 選取「**[!UICONTROL Fields and Relationships]**」。
 
 1. 按一下「**[!UICONTROL New]**」。
 

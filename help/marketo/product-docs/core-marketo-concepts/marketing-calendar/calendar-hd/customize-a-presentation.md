@@ -4,10 +4,10 @@ description: 自訂簡報 — Marketo檔案 — 產品檔案
 title: 自訂簡報
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 0%
+source-wordcount: '284'
+ht-degree: 2%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 選擇檢視 {#choosing-the-views}
 
-Presentations會循環使用您選擇的其他[篩選器定義](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}。 請視需要儘量提取檢視次數，並自訂頻率。
+簡報會循環使用您選擇的不同[篩選定義](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}。 請視需要儘量提取檢視次數，並自訂頻率。
 
 1. 從右邊的樹狀結構中，拖曳您要在簡報中旋轉的不同檢視。
 
@@ -36,7 +36,7 @@ Presentations會循環使用您選擇的其他[篩選器定義](/help/marketo/pr
 
 ## 新增目標 {#add-a-goal}
 
-Presentations是顯示團隊目標時最棒的。 只要拖曳到不同的[自訂目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"}或[智慧清單目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}上即可。 您最多可以使用10個。
+簡報在顯示團隊目標時是最棒的。 只要拖曳到不同的[自訂目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"}或[智慧清單目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}上即可。 您最多可以使用10個。
 
 1. 從右邊的樹狀結構中，拖曳您要在簡報中顯示的不同目標。
 
@@ -44,17 +44,17 @@ Presentations是顯示團隊目標時最棒的。 只要拖曳到不同的[自�
 
 ## 設定旋轉頻率 {#set-the-frequency-of-rotation}
 
-一旦您將您要的檢視拉入簡報中，請設定它在不同檢視之間旋轉的頻率。
+一旦您將您要的檢視拉入到簡報中，請設定它在不同檢視之間旋轉的頻率。
 
-1. 按一下&#x200B;**[!UICONTROL 5分鐘]** （這是預設步調）。
+1. 按一下&#x200B;**[!UICONTROL 5 minutes]** （這是預設步調）。
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
-1. 以分鐘輸入時間。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 以分鐘輸入時間。 按一下「**[!UICONTROL Save]**」。
 
    >[!NOTE]
    >
-   >核取&#x200B;**[!UICONTROL 停用旋轉]**，以顯示一個靜態檢視。
+   >核取&#x200B;**[!UICONTROL Disable Rotation]**&#x200B;以顯示一個靜態檢視。
 
    ![](assets/image2015-3-18-13-3a22-3a18.png)
 
@@ -62,7 +62,7 @@ Presentations是顯示團隊目標時最棒的。 只要拖曳到不同的[自�
 
 行事曆顯示可以變更為3週或每月檢視。
 
-1. 選取&#x200B;**[!UICONTROL 行事曆顯示]**&#x200B;下拉式清單，並選擇&#x200B;**[!UICONTROL 3週]**&#x200B;或一個&#x200B;**[!UICONTROL 月]**。
+1. 選取&#x200B;**[!UICONTROL Calendar Display]**&#x200B;下拉式清單，然後選擇&#x200B;**[!UICONTROL 3 weeks]**&#x200B;或一個&#x200B;**[!UICONTROL Month]**。
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
@@ -76,7 +76,7 @@ Presentations是顯示團隊目標時最棒的。 只要拖曳到不同的[自�
 
 設定簡報後，即可預覽和啟動。
 
-1. 選取&#x200B;**[!UICONTROL 預覽]**。
+1. 選取「**[!UICONTROL Preview]**」。
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 

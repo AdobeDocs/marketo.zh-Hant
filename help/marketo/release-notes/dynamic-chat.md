@@ -3,10 +3,10 @@ description: Dynamic Chat 發行說明 - Marketo 文件 - 產品文件
 title: Dynamic Chat 發行說明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
-workflow-type: ht
-source-wordcount: '3408'
-ht-degree: 100%
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+workflow-type: tm+mt
+source-wordcount: '3414'
+ht-degree: 97%
 
 ---
 
@@ -44,7 +44,7 @@ Adobe Dynamic Chat 的版本發行採用持續傳遞的模式，提供擴充性�
 
 若代理人沒有空，則系統：
 
-* 不會嘗試交給其他代理人，即使已啟用循環配置做為備用機制。
+* 即使啟用循環配置資源作為遞補資源，也不會嘗試其他代理程式。
 
 * 相反地，系統會：
 
@@ -141,7 +141,7 @@ _**自訂路由**_
 <tbody>
   <tr>
     <td>理想狀況</td>
-    <td>自訂邏輯找出一份代理人清單；第一位代理人有空並且接受聊天。</td>
+    <td>自訂邏輯會解析代理程式清單；第一個代理程式可用並接受聊天。</td>
     <td>聊天連接至第一位代理人。</td>
   </tr>
   <tr>
@@ -152,7 +152,7 @@ _**自訂路由**_
   <tr>
     <td>無備用代理人</td>
     <td>找出兩位代理人；皆不接受聊天，備用設定為會議行事曆。</td>
-    <td>顯示首先嘗試之代理人的行事曆，或顯示預設的備用訊息。</td>
+    <td>會顯示首次嘗試代理程式的行事曆或預設的遞補訊息。</td>
   </tr>
 </tbody></table>
 
@@ -193,13 +193,13 @@ _**循環配置路由**_
 <tbody>
   <tr>
     <td>理想狀況</td>
-    <td>循環配置集區中有多位代理人；第一位代理人不接受聊天後，第二位代理人接受聊天。</td>
+    <td>Round Robin集區有多個代理程式；第二個代理程式接受第一個之後的聊天，但第一個不接受。</td>
     <td>聊天連接至第二位代理人。</td>
   </tr>
   <tr>
     <td>備用 (循環配置)</td>
     <td>循環配置集區中沒有任何代理人有空；會議行事曆已啟用。</td>
-    <td>顯示清單中第一位代理人的行事曆 (若有設定)，或顯示備用訊息。</td>
+    <td>行事曆會針對清單中的第一個代理程式顯示（如果已設定），或顯示遞補訊息。</td>
   </tr>
   <tr>
     <td>無備用代理人</td>
@@ -344,7 +344,7 @@ Demandbase 使用者可以在 Dynamic Chat 中使用 Demandbase 人員屬性進�
     <td>已知人員</td>
     <td>xyz</td>
     <td>與現有人員不同</td>
-    <td>此情境不可能發生，如同是一個新的 Cookie 預設被視為新的匿名設定檔</td>
+    <td>這種情況不可能發生，就好像它是新的Cookie，來自   預設視為新的匿名設定檔</td>
   </tr>
 </tbody></table>
 

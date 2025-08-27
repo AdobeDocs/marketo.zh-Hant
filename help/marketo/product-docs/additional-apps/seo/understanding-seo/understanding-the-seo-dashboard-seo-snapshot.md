@@ -4,14 +4,14 @@ description: 瞭解SEO控制面板 — SEO快照 — Marketo檔案 — 產品檔
 title: 瞭解SEO儀表板 — SEO快照
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 0%
+source-wordcount: '237'
+ht-degree: 3%
 
 ---
 
-# 瞭解SEO儀表板：SEO快照 {#understanding-the-seo-dashboard-seo-snapshot}
+# 認識 SEO 儀表板：SEO 快照 {#understanding-the-seo-dashboard-seo-snapshot}
 
 使用控制面板以取得關鍵字排名趨勢的高階檢視，以及您的網站針對SEO最佳化的程度。
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-現在來看看這個儀表板的[!UICONTROL Recommendations]區段。
+檢視此儀表板的[!UICONTROL Recommendations]區段。
 
 >[!MORELIKETHIS]
 >

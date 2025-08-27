@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12983291
 description: 瞭解收件者時區 — Marketo檔案 — 產品檔案
-title: 瞭解收件者時區
+title: 了解收件者時區
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 1%
+source-wordcount: '381'
+ht-degree: 3%
 
 ---
 
-# 瞭解收件者時區 {#understanding-recipient-time-zone}
+# 了解收件者時區 {#understanding-recipient-time-zone}
 
 電子郵件和參與計畫可設定為根據收件者的時區傳送，因此無需建立多個計畫，只需傳送一次，Marketo會自動保留電子郵件，直到正確的當地時間為止。
 
@@ -24,13 +24,13 @@ ht-degree: 1%
 [排程電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)時，有兩個主要案例：
 
 1. 排程程式在未來25小時內執行。
-1. 排程程式在未來（亦即下週）執行25小時以上。
+1. 排程程式在未來（即下週）執行超過25小時。
 
 為了適應每個時區，使用[!UICONTROL Recipient Time Zone]排程的電子郵件程式會在世界上&#x200B;**第一個/最早的**&#x200B;時區的午夜開始執行(UTC +14:00)。
 
 ## 參與方案 {#engagement-programs}
 
-當您[排程參與方案資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)且[!UICONTROL Recipient Time Zone]處於作用中狀態時，方案轉換將在UTC +14:00的午夜開始執行。 我們要求您至少將未來的25小時（24小時+開始行銷活動的時間）排程為第一個演員，因為全球每個時區的人可能有資格參加演員。 目前以UTC +14:00開始處理，保證我們將在排程的日期和時間傳送電子郵件，給符合此轉換資格的每個人。
+當您[排程參與方案資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)且[!UICONTROL Recipient Time Zone]作用中時，方案轉換會在UTC +14:00的午夜開始執行。 我們要求您至少將未來的25小時（24小時+開始行銷活動的時間）排程為第一個演員，因為全球每個時區的人可能有資格參加演員。 目前以UTC +14:00開始處理，可確保每個符合此轉換資格的人在排程的日期和時間傳送電子郵件。
 
 ## 正在計算時區 {#calculating-time-zone}
 

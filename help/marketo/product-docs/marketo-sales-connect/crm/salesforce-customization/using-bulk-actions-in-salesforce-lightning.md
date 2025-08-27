@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762825
 description: 在Salesforce Lightning中使用大量動作 — Marketo檔案 — 產品檔案
-title: 在Salesforce Lightning中使用大量動作
+title: 在 Salesforce Lightning 中執行大量動作
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: fe167b4a70a23f129d56ed20ac6c1ed1130049ef
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
 source-wordcount: '366'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >更新至[!DNL Sales Connect]封裝的最新版本，並在您的銷售機會/聯絡人檢視中安裝大量動作按鈕。
+>
 >* [英文指示](assets/sf-guide-for-lightning-en.pdf)
 >* [日文指示](assets/sf-guide-for-lightning-ja.pdf)
 

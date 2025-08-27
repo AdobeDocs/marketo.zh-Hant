@@ -1,21 +1,21 @@
 ---
 unique-page-id: 13795727
 description: 中止傳送排程為收件者時區的電子郵件計畫 — Marketo檔案 — 產品檔案
-title: 中止以收件者時區排程的電子郵件程式傳遞
+title: 中止根據收件者時區安排時間的電子郵件方案傳遞
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 0%
+source-wordcount: '214'
+ht-degree: 9%
 
 ---
 
-# 中止以收件者時區排程的電子郵件程式傳遞 {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
+# 中止根據收件者時區安排時間的電子郵件方案傳遞 {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
 
 在緊急情況下，您可以中止已在啟用收件者時區的情況下開始執行的電子郵件程式傳遞。
 
-由於使用收件者時區排程的電子郵件程式最多可以執行24小時，因此中止程式傳送將會取消該時間點之後的任何後續傳送。
+由於以收件者時區排程的電子郵件程式最多可執行24小時，因此中止程式傳送將會取消該時間點之後的任何後續傳送。
 
 1. 選取您要取消的電子郵件程式，然後按一下[控制檯]中&#x200B;**[!UICONTROL Abort Delivery]**&#x200B;方塊下的[!UICONTROL Approval]。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >取消的電子郵件&#x200B;**不會**&#x200B;在原本排定在各自時區傳送的時間前&#x200B;*直到*&#x200B;顯示為軟退信。 在此之前，他們仍會顯示為「傳送電子郵件」。
 
-1. 在網格中，您可以按一下任何電子郵件來檢視活動詳細資訊。 對於已取消的傳送，詳細資料快顯視窗看起來會像這樣：
+1. 在網格中，您可以按一下任何電子郵件來檢視活動詳細資訊。 對於已取消的傳送，詳細資訊快顯視窗看起來像這樣：
 
    ![](assets/image2018-2-23-11-3a30-3a46.png)
 
