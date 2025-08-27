@@ -1,17 +1,19 @@
 ---
 unique-page-id: 2359718
 description: 將社交按鈕新增至自由表單登陸頁面 — Marketo檔案 — 產品檔案
-title: 新增社交按鈕至自由表單登陸頁面
+title: 新增社交按鈕至自由格式登陸頁面
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
+hide: true
+hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 9b779bc767b1bda058a9040035e8ca21ccd53e8d
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 新增社交按鈕至自由表單登陸頁面 {#add-a-social-button-to-a-free-form-landing-page}
+# 新增社交按鈕至自由格式登陸頁面 {#add-a-social-button-to-a-free-form-landing-page}
 
 社交按鈕可鼓勵人們與朋友分享您的內容。 將之拖曳至任意格式的登陸頁面、Facebook和您的網站。
 
@@ -27,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-21-15-3a47-3a46.png)
 
-1. 選擇「**[!UICONTROL Social Buttons (with Analytics)]**」。
+1. 選取「**[!UICONTROL Social Buttons (with Analytics)]**」。
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
