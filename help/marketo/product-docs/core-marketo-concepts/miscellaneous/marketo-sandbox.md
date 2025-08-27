@@ -1,16 +1,16 @@
 ---
 unique-page-id: 11386358
 description: Marketo沙箱 — Marketo檔案 — 產品檔案
-title: Marketo Sandbox
+title: Marketo 沙箱
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 0%
+source-wordcount: '288'
+ht-degree: 1%
 
 ---
 
-# Marketo Sandbox {#marketo-sandbox}
+# Marketo 沙箱 {#marketo-sandbox}
 
 Marketo Engage沙箱是在生產環境中實作之前用於測試用途的額外例項。
 
@@ -29,7 +29,7 @@ Marketo Engage沙箱是在生產環境中實作之前用於測試用途的額外
 
 >[!CAUTION]
 >
->我們目前不支援Marketo Dynamics Sync的沙箱重新整理。 如果您需要重新整理Dynamics CRM沙箱，則需要新的Marketo沙箱。 如需詳細資訊，請聯絡您的Adobe客戶團隊（您的客戶經理）。
+>目前不支援Marketo Dynamics _或_ Salesforce同步處理的沙箱重新整理。 如果您需要重新整理CRM沙箱，則需要新的Marketo沙箱。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 ## 執行個體複製 {#instance-copy}
 

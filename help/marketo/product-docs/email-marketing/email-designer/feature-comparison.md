@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '892'
 ht-degree: 10%
 
 ---
@@ -177,6 +177,17 @@ ht-degree: 10%
     <td>能夠<a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">與Litmus</a>整合，以檢視您的電子郵件在不同電子郵件使用者端中的呈現方式。</td>
     <td>不可用</td>
     <td>可用</td>
+    <tr>
+    <td>與GenStudio整合</td>
+    <td>能夠<a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">與GenStudio</a>整合。</td>
+    <td>不可用</td>
+    <td>可用</td>
+  </tr>
+  <tr>
+    <td>Spam Assassin整合</td>
+    <td>能夠在傳遞前<a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">偵測可能標示為垃圾訊息</a>的電子郵件。</td>
+    <td>不可用</td>
+    <td>可用</td>
   </tr>
   <tr>
     <td>Personalization編輯器</td>
@@ -227,12 +238,6 @@ ht-degree: 10%
     <td>即將推出</td>
   </tr>
   <tr>
-    <td>與Gen Studio整合</td>
-    <td>能夠與Gen Studio整合。</td>
-    <td>不可用</td>
-    <td>即將推出</td>
-  </tr>
-  <tr>
     <td>支援使用電子郵件資產移動、刪除和匯入程式</td>
     <td>能夠移動、刪除和匯入電子郵件計畫以及電子郵件資產。</td>
     <td>可用</td>
@@ -254,23 +259,11 @@ ht-degree: 10%
     <td>Velocity指令碼</td>
     <td>能夠在電子郵件中使用Velocity指令碼。</td>
     <td>可用</td>
-    <td>不需要</td>
-  </tr>
-   <tr>
-    <td>Handlebar指令碼</td>
-    <td>能夠在電子郵件中使用Handlebar指令碼。</td>
-    <td>不可用</td>
-    <td>計畫於2025年第3季度推出</td>
+    <td>即將推出</td>
   </tr>
   <tr>
-    <td>品牌套件</td>
+    <td>品牌手冊</td>
     <td>能夠改善反映品牌指引的電子郵件。</td>
-    <td>不可用</td>
-    <td>計畫於2025年第3季度推出</td>
-  </tr>
-  <tr>
-    <td>Spam Assassin整合</td>
-    <td>能夠在傳遞前偵測標籤為垃圾郵件的潛在電子郵件。</td>
     <td>不可用</td>
     <td>計畫於2025年第3季度推出</td>
   </tr>
