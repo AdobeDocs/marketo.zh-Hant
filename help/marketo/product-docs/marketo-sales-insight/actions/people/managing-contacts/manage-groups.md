@@ -3,9 +3,9 @@ description: 管理群組 — Marketo檔案 — 產品檔案
 title: 管理群組
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 28956176a51e0c632c58c9d92822122df507f0f1
+source-git-commit: a88e7978a74d6aaaaad882a83cdfa3e80a4c50cb
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '310'
 ht-degree: 2%
 
 ---
@@ -57,26 +57,6 @@ ht-degree: 2%
 
    完成了！
 
-## 新增連絡人至 {#add-contacts-to-a-}
-
-1. 在[!UICONTROL People]頁面中，尋找並選取您要新增人員的群組。
-
-
-
-1. 按一下&#x200B;**[!UICONTROL Group Actions]**&#x200B;並選取&#x200B;**[!UICONTROL Create Contact and add to Group]**。
-
-   ![](assets/manage-groups-4.png)
-
-1. 填寫連絡人資訊，然後按一下&#x200B;**建立** （或&#x200B;**建立並新增新的**&#x200B;以新增其他）。
-
-   ![](assets/manage-groups-5.png)
-
-   而您已完成！
-
-   >[!NOTE]
-   >
-   >您可能必須點選「重新整理」才能檢視任何新增的連絡人。
-
 ## 新增連絡人至群組 {#add-contacts-to-a-group}
 
 1. 在&#x200B;_群組_&#x200B;下，選取&#x200B;**所有人員**。
@@ -95,10 +75,9 @@ ht-degree: 2%
 
    ![](assets/manage-groups-6.png)
 
-1. 選取您要新增它們的群組，然後按一下[新增]。**&#x200B;**
+1. 選取您要新增它們的群組，然後按一下[新增]。****
 
    ![](assets/manage-groups-7.png)
-
 
 ## 共用群組 {#share-a-group}
 
