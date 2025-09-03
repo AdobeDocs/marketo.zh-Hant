@@ -4,20 +4,26 @@ description: 瞭解如何在Adobe Marketo Engage中編寫內容時使用已連�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
 workflow-type: tm+mt
-source-wordcount: '795'
-ht-degree: 1%
+source-wordcount: '887'
+ht-degree: 2%
 
 ---
 
 # 使用Experience Manager資產 {#work-with-experience-manager-assets}
 
-將您的&#x200B;_Adobe Experience Manager Assets as a Cloud Service_&#x200B;帳戶連線至您的Adobe Marketo Engage執行個體，以便在Marketo Engage Email Designer中利用AEM資產存放庫。
+使用 Adobe Experience Manager Assets 將行銷和創意工作流程相結合。它與Marketo Engage原生整合，因此您可以輕鬆存取&#x200B;_Assets as a Cloud Service_，以探索並使用數位資產來填入您的訊息。
+
+Adobe Experience Manager _Assets as a Cloud Service_&#x200B;提供簡單易用的雲端解決方案，有助於有效率的數位資產管理和Dynamic Media作業。 在[Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/overview)檔案中進一步瞭解。
+
+>[!PREREQUISITES]
+>
+>* 整合需要&#x200B;_Assets as a Cloud Service_&#x200B;和Dynamic Media的授權。 確定已啟用[Dynamic Media with Open API](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis)。 根據您的合約和設定，在設計視覺內容時，可以直接從Marketo Engage存取Adobe Experience Manager _Assets as a Cloud Service_。
 
 >[!NOTE]
 >
->目前，Marketo Engage僅支援來自&#x200B;_Adobe Experience Manager Assets_&#x200B;的影像資產。 必須從Adobe Experience Manager Assets中央存放庫變更資產。 [了解更多](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>目前，Marketo Engage僅支援來自&#x200B;_Adobe Experience Manager Assets_&#x200B;的影像資產。 必須從Adobe Experience Manager Assets中央存放庫變更資產。 [了解更多](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## 連結至您的AEM雲端服務 {#link-to-your-aem-cloud-services}
 
@@ -45,7 +51,7 @@ ht-degree: 1%
    >
    >* 系統只會列出與您的Marketo Engage訂閱在同一IMS組織中關聯的存放庫。
    >
-   >* Marketo Engage僅支援來自傳遞層的存放庫。 如果您使用作者層級且想要轉換它，請聯絡[Adobe Experience Manager支援](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-manager/content/overview/help-resources)。
+   >* Marketo Engage僅支援來自傳遞層的存放庫。 如果您使用作者層級且想要轉換它，請聯絡[Adobe Experience Manager支援](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources)。
 
 1. 您必須新增[服務認證憑證](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials)才能設定存放庫。 按一下&#x200B;**+新增憑證**&#x200B;按鈕。
 
@@ -83,7 +89,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->管理員必須將需要存取資產的使用者新增至Assets消費者使用者和/或Assets使用者產品設定檔。 [了解更多](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>管理員必須將需要存取資產的使用者新增至Assets消費者使用者和/或Assets使用者產品設定檔。 [了解更多](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 在視覺內容編輯器中，按一下左側邊欄中的&#x200B;_Experience Manager資產選擇器_&#x200B;圖示。 這會將工具面板變更為所選存放庫中的可用資產清單。
 
@@ -103,7 +109,7 @@ ht-degree: 1%
 
 ![選擇AEM Assets存放庫以存取影像資產](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
-* 將影像元件新增至畫布並按一下&#x200B;**[!UICONTROL Browse]**&#x200B;以開啟&#x200B;_[!UICONTROL Select Assets]_&#x200B;對話方塊。
+* 將影像元件新增至畫布並按一下&#x200B;**[!UICONTROL Browse]**&#x200B;以開啟&#x200B;_[!UICONTROL Select Assets]_對話方塊。
 
   從對話方塊中，您可以從選取的存放庫中選擇影像。
 
