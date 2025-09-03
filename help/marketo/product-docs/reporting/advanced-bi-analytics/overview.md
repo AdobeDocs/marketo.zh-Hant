@@ -124,7 +124,7 @@ Advanced BI Analytics (先前稱為Revenue Explorer和Advanced Report Builder)�
 
 觀看以下影片，瞭解多頁面、鑽研報表體驗的範例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451693/?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 ## 進階BI Analytics中的標準報表 {#standard-reports}
 
