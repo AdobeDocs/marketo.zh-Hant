@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359828
 description: 新增SSL至您的登陸頁面 — Marketo檔案 — 產品檔案
-title: 新增SSL至您的登入頁面
+title: 新增 SSL 至您的登陸頁面
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: df3a495cc8859c0473b82c5e1bdb36d133e8f48d
 workflow-type: tm+mt
-source-wordcount: '714'
-ht-degree: 0%
+source-wordcount: '778'
+ht-degree: 2%
 
 ---
 
-# 新增SSL至您的登入頁面 {#add-ssl-to-your-landing-pages}
+# 新增 SSL 至您的登陸頁面 {#add-ssl-to-your-landing-pages}
 
 SSL （安全通訊端層）加密可讓您保護Marketo Engage執行個體所有登陸頁面的安全。
 
@@ -73,31 +73,35 @@ SSL （安全通訊端層）加密可讓您保護Marketo Engage執行個體所�
     <th>詳細資料</th>
   </tr></thead>
 <tbody>
-  <tr>
-    <td><i>建立網域時遇到未預期的錯誤。 請聯絡支援以尋求協助。</i></td>
-    <td>發生非預期的錯誤。 請收集記錄檔和錯誤詳細資料，並將問題升級至<a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo支援</a>。</td>
-  </tr>
-  <tr>
-    <td><i>找不到預設網域。 請聯絡支援以尋求協助。</i></td>
-    <td>嘗試尋找預設網域時發生問題。 請洽詢支援人員，以便他們進行調查。</td>
-  </tr>
-  <tr>
-    <td><i>SSL憑證已發行。</i></td>
-    <td>此自訂網域已存在SSL憑證。 除非憑證已過期或需要重新核發，否則不需要進一步動作。</td>
+<tr>
+    <td><i>網域已經存在。</i></td>
+    <td>已有相同名稱的網域存在。</td>
   </tr>
   <tr>
     <td><i>網域未對應到預設網域。</i></td>
     <td>自訂網域未正確對應到預設網域。 請驗證網域對應設定，並確定DNS設定指向正確的預設網域。</td>
   </tr>
   <tr>
-    <td><i>網域已經存在。</i></td>
-    <td>已有相同名稱的網域存在。</td>
+    <td><i>因為不支援的CAA記錄，所以無法發行SSL憑證。 請要求您的IT更新您的CAA記錄。</i></td>
+    <td>CAA記錄不是最新的。 若是使用Marketo Engage管理的SSL憑證，CAA記錄需要更新為供應商建議的憑證。 請聯絡您的IT部門以更新CAA記錄。 如需其他詳細資訊，請參閱<a href="https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305#M2246">此頁面</a>。</td>
+  </tr>
+  <tr>
+    <td><i>SSL憑證已發行。</i></td>
+    <td>此自訂網域已存在SSL憑證。 除非憑證已過期或需要重新核發，否則不需要進一步動作。</td>
+  </tr>
+  <tr>
+    <td><i>找不到預設網域。 請聯絡支援以尋求協助。</i></td>
+    <td>嘗試尋找預設網域時發生問題。 請洽詢支援人員，以便他們進行調查。</td>
+  </tr>
+  <tr>
+    <td><i>建立網域時遇到未預期的錯誤。 請聯絡支援以尋求協助。</i></td>
+    <td>發生非預期的錯誤。 請收集記錄檔和錯誤詳細資料，並將問題升級至<a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo支援</a>。</td>
   </tr>
 </tbody></table>
 
 ## 注意事項 {#things-to-note}
 
-* **網域與Marketo Engage的DNS對應**：在UI中新增網域之前，您必須[將CNAME對應到Marketo提供的網域](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
+* **網域與Marketo Engage的DNS對應**：在UI中新增網域之前，您必須[將CNAME對應到Marketo提供的網域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
 
 * **自訂SSL**：如果您需要自訂SSL，請提交[支援票證](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 請勿使用自助核取方塊來建立SSL。
 
