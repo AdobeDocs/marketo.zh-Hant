@@ -5,9 +5,9 @@ title: 匯入人員清單
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '541'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 92%
 >
 >[完成設定與新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
-在本教學課程中，您將瞭解如何從試算表檔案將人員匯入Marketo。
+在此教學課程中，您會了解如何從試算表檔案將人員匯入 Marketo。
 
 ## 步驟 1：下載及編輯試算表 {#step-download-and-edit-a-spreadsheet}
 
@@ -113,7 +113,7 @@ ht-degree: 92%
 
    >[!TIP]
    >
-   >欄標題應一律與欄位完全相符（區分大小寫），以獲得最佳的自動對應結果。 若您使用自訂欄位但在下拉式選單中沒有看到那些欄位，請返回並[建立欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}，讓欄位能夠成為選項。
+   >欄標題應與欄位名稱完全相符 (區分大小寫)，以達到最佳的自動對應結果。若您使用自訂欄位但在下拉式選單中沒有看到那些欄位，請返回並[建立欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}，讓欄位能夠成為選項。
 
    >[!NOTE]
    >
@@ -127,7 +127,7 @@ ht-degree: 92%
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. 返回「**我的商展方案**」，按一下「**[!UICONTROL Members]**」索引標籤。您會看見剛才匯入的所有人員。
+1. 返回「**我的商展方案**」，按一下「**[!UICONTROL Members]**」索引標籤。您會看到剛才匯入的所有人員。
 
    ![](assets/import-a-list-of-people-15.png)
 

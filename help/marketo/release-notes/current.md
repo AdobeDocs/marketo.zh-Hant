@@ -4,9 +4,9 @@ title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 source-git-commit: 015ece7d2ad38f6e0c957298bce432316e8d9efa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '596'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -82,7 +82,7 @@ ht-degree: 96%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>編輯Smart Campaign的許可權限制</strong>：管理員現在可以將修改Smart Campaign許可權的能力限製為僅限許可權使用者。</td>
+   <td><strong>編輯智慧行銷活動限制的權限</strong>：管理員現在可以規定，只有具備權限的使用者才能修改智慧行銷活動的限制。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
