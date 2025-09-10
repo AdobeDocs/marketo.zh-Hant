@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: dd8604c1eeca1c56441d537b40e08571e96198a7
+source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 87%
+source-wordcount: '494'
+ht-degree: 70%
 
 ---
 
@@ -34,57 +34,7 @@ ht-degree: 87%
    <th style="width:25%">文件</th>
   </tr>
   <tr>
-   <td><strong>TITLE</strong>：描述。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>TITLE</strong>：描述。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>TITLE</strong>：描述。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>TITLE</strong>：描述。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>TITLE</strong>：描述。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>TITLE</strong>：描述。</td>
+   <td><strong>隨選網路研討會活動保留</strong>：互動式網路研討會使用者現在擁有超過30天的隨選網路研討會儀表板資料（之前最多只能從網路研討會當天算起30天）。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -93,6 +43,8 @@ ht-degree: 87%
 <br/>
 
 ## 公告 {#announcements}
+
+* **在新電子郵件Designer中切換回Velocity指令碼**： Adobe Marketo Engage於今年6月為新電子郵件Designer發行名為&#x200B;_條件內容_&#x200B;的功能。 此功能由Handlebar指令碼提供支援，而非Velocity指令碼，藉此為您的動態內容提供更大的彈性。 但是當我們發現它造成某些權杖無法正確解析時，我們決定暫時停用它。 [了解更多](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
 * **Marketo Engage Identity 終止服務**：2025 年 8 月，Adobe 已開始逐步停止對於 Marketo Engage Identity (透過 `login.marketo.com` 登入) 的支援。為避免 Marketo Engage 的存取中斷，您最晚必須在 2025 年 9 月 30 日轉換至 [Adobe Identity](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
 

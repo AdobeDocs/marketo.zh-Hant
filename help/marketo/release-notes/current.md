@@ -3,16 +3,16 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 015ece7d2ad38f6e0c957298bce432316e8d9efa
-workflow-type: ht
-source-wordcount: '596'
-ht-degree: 100%
+source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
+workflow-type: tm+mt
+source-wordcount: '494'
+ht-degree: 70%
 
 ---
 
-# 發行說明：2025 年 8 月 {#release-notes-aug-25}
+# 發行說明：2025 年 9 月 {#release-notes-sep-25}
 
-以下為 2025 年 8 月發行版本中包含的所有功能。請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
+下方提供2025年9月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
 如需 Adobe Dynamic Chat 特定的發行說明，[請參閱這裡](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-以下功能屬於標準發行週期，將於 **2025 年 8 月 22 日**&#x200B;開始發行，其餘功能則會在接下來數週內分階段推出。發行的功能和日期可能有所變更。如需了解各項功能的狀態，請查看其旁邊欄位。
+下列功能屬於標準發行週期，並將於&#x200B;**2025年9月19日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。如需了解各項功能的狀態，請查看其旁邊欄位。
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,57 +32,7 @@ ht-degree: 100%
    <th style="width:25%">文件</th>
   </tr>
   <tr>
-   <td><strong>電子郵件設計工具 - 報告</strong>：電子郵件績效和電子郵件連結績效報告現在會顯示使用新的電子郵件設計工具建立的電子郵件資料。</td>
-   <td>已發布</td>
-   <td>不適用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>電子郵件設計工具 - 自動完成移除</strong>：權杖個人化編輯器中的「自動完成」選項先前指向了錯誤的物件，已遭移除。目前沒有重新實作此功能的計劃。</td>
-   <td>已發布</td>
-   <td>不適用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>電子郵件設計工具 - 電子郵件預覽最佳化</strong>：部分使用者嘗試在電子郵件/電子郵件範本/片段詳細資料頁面中預覽電子郵件時，遇到載入時間較慢的問題。此體驗已完成最佳化，載入時間可加速 60%。</td>
-   <td>已發布</td>
-   <td>不適用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>電子郵件設計工具 - 範本修正</strong>：部分現成可用的範本出現轉譯問題 (例如在特定瀏覽器/深色模式下無法正確轉譯、影像未對齊、CTA 按鈕錯置及其他問題)。此版本已修正以上所有問題。</td>
-   <td>已發布</td>
-   <td>不適用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>電子郵件設計工具 - 內容鎖定修正</strong>：過去，如果使用內容鎖定建立電子郵件範本，且將此範本用於建立電子郵件，則即使重設電子郵件或選取「變更設計」，內容鎖定仍會存在。此版本已修正此問題。</td>
-   <td>已發布</td>
-   <td>不適用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>編輯智慧行銷活動限制的權限</strong>：管理員現在可以規定，只有具備權限的使用者才能修改智慧行銷活動的限制。</td>
+   <td><strong>隨選網路研討會活動保留</strong>：互動式網路研討會使用者現在擁有超過30天的隨選網路研討會儀表板資料（之前最多只能從網路研討會當天算起30天）。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -91,6 +41,8 @@ ht-degree: 100%
 <br/>
 
 ## 公告 {#announcements}
+
+* **在新電子郵件Designer中切換回Velocity指令碼**： Adobe Marketo Engage於今年6月為新電子郵件Designer發行名為&#x200B;_條件內容_&#x200B;的功能。 此功能由Handlebar指令碼提供支援，而非Velocity指令碼，藉此為您的動態內容提供更大的彈性。 但是當我們發現它造成某些權杖無法正確解析時，我們決定暫時停用它。 [了解更多](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
 * **Marketo Engage Identity 終止服務**：2025 年 8 月，Adobe 已開始逐步停止對於 Marketo Engage Identity (透過 `login.marketo.com` 登入) 的支援。為避免 Marketo Engage 的存取中斷，您最晚必須在 2025 年 9 月 30 日轉換至 [Adobe Identity](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
 
