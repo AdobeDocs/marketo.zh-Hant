@@ -45,9 +45,9 @@ ht-degree: 3%
 
 請依照下列步驟，為您現有的網域啟用SSL。
 
-1. 從&#x200B;_[!UICONTROL Admin]_區域，選取&#x200B;**[!UICONTROL Email]**。
+1. 從&#x200B;_[!UICONTROL Admin]_&#x200B;區域，選取&#x200B;**[!UICONTROL Email]**。
 
-1. 在&#x200B;_[!UICONTROL Domain]_索引標籤上，選取網域列並按一下&#x200B;**[!UICONTROL Add SSL]**。
+1. 在&#x200B;_[!UICONTROL Domain]_&#x200B;索引標籤上，選取網域列並按一下&#x200B;**[!UICONTROL Add SSL]**。
 
    ![管理員 — 電子郵件 — 網域 — 新增SSL](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
