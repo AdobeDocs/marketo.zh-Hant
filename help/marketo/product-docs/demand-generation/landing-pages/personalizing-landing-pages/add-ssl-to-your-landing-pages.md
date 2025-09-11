@@ -4,9 +4,9 @@ description: 新增SSL至您的登陸頁面 — Marketo檔案 — 產品檔案
 title: 新增 SSL 至您的登陸頁面
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 2bbfe8f1d000f182aba3a1d3e0c58c1be47b76a7
+source-git-commit: de2f73f932fd38211dba96d8697ef4bb4fd0f0da
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '793'
 ht-degree: 2%
 
 ---
@@ -59,7 +59,27 @@ SSL （安全通訊端層）加密可讓您保護Marketo Engage執行個體所�
 
 >[!NOTE]
 >
->SSL可能最多需要三分鐘的時間才會進入「就緒」狀態。 您必須重新整理頁面，變更才會顯示。
+>SSL可能最多需要三分鐘的時間才會處於「就緒」狀態。 重新整理頁面以顯示變更。
+
+## 編輯SSL到現有的網域別名
+
+請依照下列步驟，為您現有的網域別名啟用SSL。
+
+1. 從&#x200B;_[!UICONTROL Admin]_區域，展開左側導覽中的&#x200B;**[!UICONTROL Integration]**並選取&#x200B;**[!UICONTROL Landing Pages]**。
+
+1. 在頁面上，選取頂端的&#x200B;**[!UICONTROL Rules]**&#x200B;索引標籤。
+
+1. 選取您要編輯的網域別名列，然後按一下頂端的&#x200B;**[!UICONTROL Add SSL]**。
+
+   ![管理區域 — 整合>登陸頁面 — 規則標籤 — 選取網域別名](./assets/admin-landing-pages-rules-add-ssl.png){width="800" zoomable="yes"}
+
+1. 在對話方塊中，按一下&#x200B;**[!UICONTROL Confirm]**。
+
+   ![新增SSL — 確認](./assets/generate-ssl-cert-confirm.png){width="400"}
+
+>[!NOTE]
+>
+>SSL可能最多需要三分鐘的時間才會處於「就緒」狀態。 重新整理頁面以顯示變更。
 
 ## 錯誤訊息 {#error-messages}
 
@@ -99,7 +119,7 @@ SSL （安全通訊端層）加密可讓您保護Marketo Engage執行個體所�
 
 ## 注意事項 {#things-to-note}
 
-* **網域與Marketo Engage的DNS對應**：在UI中新增網域之前，您必須[將CNAME對應到Marketo提供的網域](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
+* **網域與Marketo Engage的DNS對應**：在UI中新增網域之前，您必須[將CNAME對應到Marketo提供的網域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
 
 * **自訂SSL**：如果您需要自訂SSL，請提交[支援票證](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 請勿使用自助核取方塊來建立SSL。
 
