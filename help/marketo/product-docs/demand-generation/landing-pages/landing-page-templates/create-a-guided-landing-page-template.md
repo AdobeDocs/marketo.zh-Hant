@@ -4,10 +4,10 @@ description: 建立引導式登陸頁面範本 — Marketo檔案 — 產品檔�
 title: 建立引導式登陸頁面範本
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
 workflow-type: tm+mt
-source-wordcount: '1263'
-ht-degree: 1%
+source-wordcount: '1122'
+ht-degree: 2%
 
 ---
 
@@ -126,39 +126,6 @@ src：字串URL。 這將做為影像的預設值。
 範例：
 
 `<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
-
-## 投票 {#poll}
-
-必要的屬性：
-**類別**： &quot;mktoPoll&quot;
-**id**：識別碼字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。
-**mktoName** ：字串。 這是將顯示在登入頁面編輯器中的顯示名稱。 最佳實務是使用描述性名稱。
-
-範例：
-
-`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
-
-## 轉介 {#referral}
-
-必要的屬性：
-**類別**： &quot;mktoReferral&quot;
-**id**：識別碼字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。
-**mktoName** ：字串。 這是將顯示在登入頁面編輯器中的顯示名稱。 最佳實務是使用描述性名稱。
-
-範例：
-
-`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
-
-## 抽獎 {#sweepstakes}
-
-必要的屬性：
-**類別**： &quot;mktoSweepstakes&quot;
-**id**：識別碼字串。 僅包含字母、數字、破折號「 — 」和底線「_」。 不允許空格。 必須是唯一的。
-**mktoName** ：字串。 這是將顯示在登入頁面編輯器中的顯示名稱。 最佳實務是使用描述性名稱。
-
-範例：
-
-`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## 可編輯的變數 {#editable-variables}
 
