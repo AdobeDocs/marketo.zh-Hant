@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 6d09e0f684844d7d2ced6205d7becde90ffcd7c7
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '655'
 ht-degree: 72%
 
 ---
@@ -62,7 +62,7 @@ ht-degree: 72%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>深色模式</strong>：您現在可以使用深色模式，支援的電子郵件使用者端和應用程式可針對文字、按鈕和其他UI元素，顯示背景較暗且顏色較淺的電子郵件。</td>
+   <td><strong>電子郵件Designer — 深色模式</strong>：您現在可以使用深色模式，讓支援的電子郵件使用者端和應用程式顯示包含較暗背景和較淺色彩的電子郵件，以呈現文字、按鈕和其他UI元素。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
