@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: 使用 AI 助理
-description: 利用Adobe的創作AI技術，將有用的文字和/或影像新增至您的電子郵件。
+description: 善用 Adobe 的生成式 AI 技術為您的電子郵件新增實用的文字和/或影像。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
 source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
 source-wordcount: '726'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -81,7 +81,7 @@ AI Assistant有三個主要使用案例：
 
 ![](assets/use-the-ai-assistant-5.png)
 
-若要選擇變數，請選取其核取方塊，然後按一下&#x200B;**選取**。 您也可以按一下「調整&#x200B;**&#x200B;**」來調整它。 此外，您可以按一下向上或向下縮圖示提供意見回饋，讓Gen-AI技術學習您的偏好設定。
+若要選擇變數，請選取其核取方塊，然後按一下&#x200B;**選取**。 您也可以按一下「調整&#x200B;****」來調整它。 此外，您可以按一下向上或向下縮圖示提供意見回饋，讓Gen-AI技術學習您的偏好設定。
 
 做出選擇後，主旨列會填入您的電子郵件詳細資訊中。
 
