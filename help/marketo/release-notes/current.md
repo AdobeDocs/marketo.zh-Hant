@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
-workflow-type: ht
-source-wordcount: '494'
-ht-degree: 100%
+source-git-commit: 9189d45829a23a3b9eb75fc4125db92c3508773d
+workflow-type: tm+mt
+source-wordcount: '653'
+ht-degree: 78%
 
 ---
 
@@ -33,6 +33,46 @@ ht-degree: 100%
   </tr>
   <tr>
    <td><strong>隨選網路研討會活動保留</strong>：互動式網路研討會使用者現在可使用隨選網路研討會儀表板資料 30 天以上 (之前是只能從網路研討會當日起最多 30 天)。</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>電子郵件Designer — 內容Collaboration工作流程</strong>：您現在可以在電子郵件資產中評論Marketo使用者，並與他們共同作業。 標籤團隊成員(具有適當資產許可權的Marketo使用者)後，他們將會收到電子郵件或脈衝通知。</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>電子郵件Designer - AI助理許可權</strong>： Marketo管理員可以為特定使用者提供GenAI功能的存取權。</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>深色模式</strong>：您現在可以使用深色模式，支援的電子郵件使用者端和應用程式可針對文字、按鈕和其他UI元素，顯示背景較暗且顏色較淺的電子郵件。</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>電子郵件Designer — 重新導向修正</strong>：部分使用者在使用新Designer建立的電子郵件中，遇到URL的重新導向問題（例如，直接貼上URL或為電子郵件資產建立書籤並不一定有效）。 此問題已解決。 此外，從<b>電子郵件範本</b> &gt; <b>詳細資料</b> &gt; <b>使用者</b>的電子郵件資產連結，將重新導向至對應的電子郵件資產。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
