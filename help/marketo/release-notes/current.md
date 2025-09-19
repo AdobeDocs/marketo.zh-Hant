@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6d09e0f684844d7d2ced6205d7becde90ffcd7c7
+source-git-commit: c83145ca5e723f19e5bc89279ccd40cf4cf68ee3
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '654'
 ht-degree: 72%
 
 ---
