@@ -3,7 +3,7 @@ description: 進階BI Analytics概觀 — Marketo檔案 — 產品檔案
 title: 進階 BI 分析概觀
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
+source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
 workflow-type: tm+mt
 source-wordcount: '1038'
 ht-degree: 1%
@@ -63,7 +63,8 @@ Advanced BI Analytics (先前稱為Revenue Explorer和Advanced Report Builder)�
 匯出完整報表時，您的匯出選項為PDF和PPT。 如果您需要.XLS或.CSV格式的資料，可透過匯出個別視覺效果（[請參閱以下的](#export-a-visualization)）來完成。
 
 >[!BEGINTABS]
->[!TAB 從報告頁面] 
+
+>從報告頁面[!TAB ]
 
 1. 在「報表」頁面上，按一下所需報表的「更多」圖示(...)，然後選取&#x200B;**匯出**。
 
@@ -124,7 +125,7 @@ Advanced BI Analytics (先前稱為Revenue Explorer和Advanced Report Builder)�
 
 觀看以下影片，瞭解多頁面、鑽研報表體驗的範例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451693/?quality=12&learn=on&captions=chi_hant){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## 進階BI Analytics中的標準報表 {#standard-reports}
 
