@@ -188,13 +188,13 @@ ht-degree: 1%
 
 1. 直接在畫布中選取結構元件中的欄，或使用左側顯示的&#x200B;_導覽樹狀結構_。
 
-1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_工具並選擇您要編輯的工具。
+1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_&#x200B;工具並選擇您要編輯的工具。
 
-   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;索引標籤中。
+   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_&#x200B;和_[!UICONTROL Styles]_&#x200B;索引標籤中。
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL Styles]_標籤，並根據您的需求加以變更：
+1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL Styles]_&#x200B;標籤，並根據您的需求加以變更：
 
    * 針對&#x200B;**[!UICONTROL Background]**，視需要變更背景顏色。
 
@@ -233,7 +233,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
    >
    >「遞補文字」是預設值的新編輯器辭彙。 範例： ``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
 
-1. 設定您的遞補文字，然後按一下[新增]。****
+1. 設定您的遞補文字，然後按一下[新增]。**&#x200B;**
 
    ![](assets/authoring-personalize-content-4.png)
 

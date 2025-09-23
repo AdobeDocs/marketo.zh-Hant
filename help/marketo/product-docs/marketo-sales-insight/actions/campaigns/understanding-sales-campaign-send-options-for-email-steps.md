@@ -75,5 +75,5 @@ ht-degree: 2%
 >[!MORELIKETHIS]
 >
 >[建立促銷活動](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->>[銷售行銷活動步驟型別和提醒任務](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->>[銷售促銷活動設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>&#x200B;>[銷售行銷活動步驟型別和提醒任務](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>&#x200B;>[銷售促銷活動設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

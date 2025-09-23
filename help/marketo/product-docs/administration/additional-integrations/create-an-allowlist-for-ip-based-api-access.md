@@ -22,8 +22,8 @@ ht-degree: 12%
 >[!NOTE]
 >
 >此功能獨立於Marketo Engage IP型登入限制運作(取代為Admin Console的IP存取清單*)，並將於[Adobe IMS移轉](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)後繼續運作。
->> 
->>&#42;IP存取清單預計於2025年第4季正式推出。
+>&#x200B;> 
+>&#x200B;>&#42;IP存取清單預計於2025年第4季正式推出。
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 

@@ -13,6 +13,6 @@ ht-degree: 11%
 
 # 追蹤活動未顯示 {#tracking-activity-not-showing}
 
-如果您的追蹤活動未顯示，請確定[!DNL  Sales Connect]提供的自訂活動欄位在Salesforce中可見/可編輯。 如果您已安裝欄位但未填入，則可能會有欄位層級安全性導致資訊無法填入。 請洽詢您的[!DNL  Salesforce]管理員。
+如果您的追蹤活動未顯示，請確定[!DNL &#x200B; Sales Connect]提供的自訂活動欄位在Salesforce中可見/可編輯。 如果您已安裝欄位但未填入，則可能會有欄位層級安全性導致資訊無法填入。 請洽詢您的[!DNL &#x200B; Salesforce]管理員。
 
 深入瞭解Salesforce中的[欄位層級安全性](https://help.salesforce.com/articleView?id=admin_fls.htm&type=5)。

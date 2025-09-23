@@ -25,10 +25,10 @@ ht-degree: 4%
 
 ![](assets/two-1.png)
 
-**[!UICONTROL Type]**表示使用的資產型別。
-**[!UICONTROL Recipient]**數字是已傳送電子郵件的人數。
-**[!UICONTROL Delivery Metrics]**可讓您快速檢視已傳遞、擱置或已退信的電子郵件數目。
-**[!UICONTROL Engagement Metrics]**可讓您快速檢視有多少收件者已開啟、點按及取消訂閱電子郵件。
+**[!UICONTROL Type]**&#x200B;表示使用的資產型別。
+**[!UICONTROL Recipient]**&#x200B;數字是已傳送電子郵件的人數。
+**[!UICONTROL Delivery Metrics]**&#x200B;可讓您快速檢視已傳遞、擱置或已退信的電子郵件數目。
+**[!UICONTROL Engagement Metrics]**&#x200B;可讓您快速檢視有多少收件者已開啟、點按及取消訂閱電子郵件。
 **[!UICONTROL Score]**&#x200B;是您電子郵件的[參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
 依預設，您的電子郵件會依最近使用的量度排序，但您可以依任何可用的量度排序。

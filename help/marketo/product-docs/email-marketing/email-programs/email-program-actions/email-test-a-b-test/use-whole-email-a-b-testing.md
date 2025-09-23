@@ -45,11 +45,11 @@ ht-degree: 6%
 
 1. 選取您的第二封電子郵件。
 
-   [](assets/image2014-9-12-15-3a23-3a49.png)
+   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. 按一下&#x200B;**[!UICONTROL Add]**&#x200B;以套用第二封電子郵件。 拖曳滑桿以選擇要接收A/B測試的對象百分比，然後按一下&#x200B;**[!UICONTROL Next]**。
 
-   [](assets/image2014-9-12-15-3a24-3a1.png)
+   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

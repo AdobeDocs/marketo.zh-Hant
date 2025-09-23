@@ -34,7 +34,7 @@ ht-degree: 1%
 
    ![](assets/create-an-sms-message-3.png)
 
-1. 輸入新SMS訊息的名稱和選擇性說明，然後按一下[建立]。****
+1. 輸入新SMS訊息的名稱和選擇性說明，然後按一下[建立]。**&#x200B;**
 
    ![](assets/create-an-sms-message-4.png)
 
@@ -62,7 +62,7 @@ ht-degree: 1%
 
    ![](assets/create-an-sms-message-7.png)
 
-1. 若要新增連結，請選取訊息中您希望其出現的位置，然後按一下[連結]。****
+1. 若要新增連結，請選取訊息中您希望其出現的位置，然後按一下[連結]。**&#x200B;**
 
    ![](assets/create-an-sms-message-8.png)
 

@@ -75,7 +75,7 @@ ht-degree: 2%
 
    ![](assets/manage-groups-6.png)
 
-1. 選取您要新增它們的群組，然後按一下[新增]。****
+1. 選取您要新增它們的群組，然後按一下[新增]。**&#x200B;**
 
    ![](assets/manage-groups-7.png)
 

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377945
-description: 稽核軌跡]概觀 — Marketo檔案 — 產品檔案
+description: 稽核軌跡&rbrack;概觀 — Marketo檔案 — 產品檔案
 title: 稽核軌跡概觀
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail

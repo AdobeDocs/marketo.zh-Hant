@@ -26,7 +26,7 @@ ht-degree: 4%
 
    ![](assets/auto-append-unsubscribe-message-setting-1.png)
 
-1. 在[管理設定]下，按一下[取消訂閱]。****
+1. 在[管理設定]下，按一下[取消訂閱]。**&#x200B;**
 
    ![](assets/auto-append-unsubscribe-message-setting-2.png)
 

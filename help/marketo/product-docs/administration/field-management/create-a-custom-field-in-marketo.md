@@ -47,7 +47,7 @@ ht-degree: 10%
 
    ![](assets/create-a-custom-field-in-marketo-5.png)
 
-1. 輸入&#x200B;_[!UICONTROL Name]_，讓它在Marketo中顯示（會自動產生_[!UICONTROL API Name]_）。 請謹慎選擇，因為儲存後無法重新命名。 完成時，按一下&#x200B;**[!UICONTROL Create]**。
+1. 輸入&#x200B;_[!UICONTROL Name]_，讓它在Marketo中顯示（會自動產生&#x200B;_[!UICONTROL API Name]_）。 請謹慎選擇，因為儲存後無法重新命名。 完成時，按一下&#x200B;**[!UICONTROL Create]**。
 
 >[!CAUTION]
 >

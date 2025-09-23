@@ -41,7 +41,7 @@ ht-degree: 6%
 
    ![](assets/connect-to-gmail-6.png)
 
-1. 如果您已登入Gmail，請選擇您要連線的帳戶。 如果沒有，請輸入您的Gmail位址，然後按一下[下一步]。**** 在此範例中，我們尚未登入。
+1. 如果您已登入Gmail，請選擇您要連線的帳戶。 如果沒有，請輸入您的Gmail位址，然後按一下[下一步]。**&#x200B;** 在此範例中，我們尚未登入。
 
    ![](assets/connect-to-gmail-7.png)
 

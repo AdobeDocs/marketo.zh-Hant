@@ -30,7 +30,7 @@ ht-degree: 13%
 
    ![](assets/email-open-tracking-at-campaign-level-3.png)
 
-1. 按一下下拉式清單，選擇您想要的設定，然後按一下[儲存]。****
+1. 按一下下拉式清單，選擇您想要的設定，然後按一下[儲存]。**&#x200B;**
 
    ![](assets/email-open-tracking-at-campaign-level-4.png)
 

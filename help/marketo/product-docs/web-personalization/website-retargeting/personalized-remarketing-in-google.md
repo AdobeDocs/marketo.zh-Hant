@@ -34,7 +34,7 @@ ht-degree: 6%
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. 在對象產生器中，按一下&#x200B;**[!UICONTROL Sequences]**、**[!UICONTROL Find the RTP Data]**、[!UICONTROL Custom Dimensions]下的[!UICONTROL [!]UICONTROL Custom Variables]和[!UICONTROL Events]。
+1. 在對象產生器中，按一下&#x200B;**[!UICONTROL Sequences]**、**[!UICONTROL Find the RTP Data]**、[!UICONTROL Custom Dimensions]下的[!UICONTROL UICONTROL [ !] Custom Variables]和[!UICONTROL Events]。
 
 >[!TIP]
 >

@@ -17,7 +17,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->瞭解Marketo Engage如何確保您的表單安全[](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
+>瞭解Marketo Engage如何確保您的表單安全[&#128279;](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
 
 1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 

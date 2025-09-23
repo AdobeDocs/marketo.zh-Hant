@@ -39,7 +39,7 @@ ht-degree: 2%
 
 [新資產REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-我們現在支援透過API建立和編輯電子郵件、範本、我的Token、檔案和程式碼片段[](https://developer.adobe.com/marketo-apis/api/asset/)！
+我們現在支援透過API建立和編輯電子郵件、範本、我的Token、檔案和程式碼片段[&#128279;](https://developer.adobe.com/marketo-apis/api/asset/)！
 
 ## [!DNL Microsoft Dynamics] 2015年內部部署 {#microsoft-dynamics-on-premise}
 

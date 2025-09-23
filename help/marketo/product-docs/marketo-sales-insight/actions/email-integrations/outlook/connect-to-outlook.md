@@ -41,7 +41,7 @@ ht-degree: 2%
 
    ![](assets/connect-to-outlook-5.png)
 
-1. 選取您正在使用的Outlook版本，然後按一下[下一步] ****。 在此範例中，我們選擇Outlook Online。
+1. 選取您正在使用的Outlook版本，然後按一下[下一步] **&#x200B;**。 在此範例中，我們選擇Outlook Online。
 
    ![](assets/connect-to-outlook-6.png)
 
@@ -66,7 +66,7 @@ ht-degree: 2%
 
    ![](assets/connect-to-outlook-7.png)
 
-1. 如果您尚未登入Outlook，請輸入您的登入資訊，然後按一下[下一步] ****。 如果是，請選擇您要連線的帳戶，然後按一下[下一步] ****。 在此範例中，我們已登入。
+1. 如果您尚未登入Outlook，請輸入您的登入資訊，然後按一下[下一步] **&#x200B;**。 如果是，請選擇您要連線的帳戶，然後按一下[下一步] **&#x200B;**。 在此範例中，我們已登入。
 
    ![](assets/connect-to-outlook-8.png)
 
@@ -104,7 +104,7 @@ ht-degree: 2%
 
    ![](assets/connect-to-outlook-14.png)
 
-1. 選取您正在使用的Outlook版本，然後按一下[下一步] ****。 在此範例中，我們選擇Exchange On-premise。
+1. 選取您正在使用的Outlook版本，然後按一下[下一步] **&#x200B;**。 在此範例中，我們選擇Exchange On-premise。
 
    ![](assets/connect-to-outlook-15.png)
 

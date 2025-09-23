@@ -17,7 +17,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->這只會影響同時使用&#x200B;**1} MSI和MSE以及想要在MSI中使用Best Bets功能的客戶。**&#x200B;如果您不需要/使用「首選」，可以忽略。
+>這只會影響同時使用&#x200B;**1&rbrace; MSI和MSE以及想要在MSI中使用Best Bets功能的客戶。**&#x200B;如果您不需要/使用「首選」，可以忽略。
 
 ## 快速入門 {#getting-started}
 
