@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # 範本 5B {#template-5b}
 
-按一下滑鼠右鍵以[下載範本5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+按一下滑鼠右鍵以[下載範本5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html?lang=zh-Hant)
 
 ![](assets/template-5b.png)
 
@@ -29,4 +29,4 @@ ht-degree: 8%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+[範本5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html?lang=zh-Hant)

@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # 範本 2A {#template-2a}
 
-按一下滑鼠右鍵以[下載範本2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
+按一下滑鼠右鍵以[下載範本2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html?lang=zh-Hant)
 
 ![](assets/image2015-6-2-15-3a17-3a17.png)
 
@@ -29,4 +29,4 @@ ht-degree: 7%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
+[範本2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html?lang=zh-Hant)

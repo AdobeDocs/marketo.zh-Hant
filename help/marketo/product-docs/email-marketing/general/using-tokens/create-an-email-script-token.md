@@ -49,7 +49,7 @@ ht-degree: 4%
 
 1. 在Velocity中撰寫指令碼。 以下是一些實用的資源：
 
-   * [Marketo開發人員電子郵件指令碼檔案](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
+   * [Marketo開發人員電子郵件指令碼檔案](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting)
    * [Velocity使用手冊](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Velocity參考指南](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)

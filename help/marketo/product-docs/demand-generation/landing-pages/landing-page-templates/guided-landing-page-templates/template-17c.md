@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # 範本 17C {#template-17c}
 
-按一下滑鼠右鍵以[下載範本17C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
+按一下滑鼠右鍵以[下載範本17C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html?lang=zh-Hant)
 
 ![](assets/image2015-8-17-17-3a6-3a47.png)
 
@@ -28,4 +28,4 @@ ht-degree: 8%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本17C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
+[範本17C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html?lang=zh-Hant)

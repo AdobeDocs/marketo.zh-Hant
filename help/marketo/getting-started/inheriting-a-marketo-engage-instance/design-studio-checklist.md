@@ -25,7 +25,7 @@ ht-degree: 3%
   <tr>
    <td>全域登陸頁面</td>
    <td><li>有多少全域<a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">登陸頁面</a>？ 程式是否使用這些值？</li>
-   <li>您是否已設定<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">訂閱中心</a>？
+   <li>您是否已設定<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=zh-Hant" target="_blank">訂閱中心</a>？
    <br/>     如果沒有，請考慮建立一個。</li></td>
   </tr>
   <tr>

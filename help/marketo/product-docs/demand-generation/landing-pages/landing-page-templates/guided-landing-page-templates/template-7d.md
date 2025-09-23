@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # 範本 7D {#template-7d}
 
-按一下滑鼠右鍵以[下載範本7D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)
+按一下滑鼠右鍵以[下載範本7D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html?lang=zh-Hant)
 
 ![](assets/image2015-7-29-15-3a5-3a39.png)
 
@@ -29,4 +29,4 @@ ht-degree: 8%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本7D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)
+[範本7D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html?lang=zh-Hant)

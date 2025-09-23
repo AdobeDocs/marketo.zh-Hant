@@ -39,7 +39,7 @@ ht-degree: 4%
 
 ## 透過CSV新增使用者 {#add-users-via-csv}
 
-[匯入CSV](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[匯入CSV](https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## 使用者登入 {#user-sign-in}
 

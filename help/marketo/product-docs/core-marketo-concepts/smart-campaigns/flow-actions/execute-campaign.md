@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **API互動**
 
-在API[中使用排程或請求促銷活動](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)時，兩者都可以讓您傳遞「我的Token」的值，這會覆寫在您呼叫之促銷活動中為這些Token設定的值。 如果該行銷活動接著執行另一個行銷活動並設定「使用父項內容為True」，則它會使用透過API傳遞的值，而不是應用程式中設定的值。
+在API[中使用排程或請求促銷活動](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)時，兩者都可以讓您傳遞「我的Token」的值，這會覆寫在您呼叫之促銷活動中為這些Token設定的值。 如果該行銷活動接著執行另一個行銷活動並設定「使用父項內容為True」，則它會使用透過API傳遞的值，而不是應用程式中設定的值。
 
 ## 注意事項 {#things-to-note}
 

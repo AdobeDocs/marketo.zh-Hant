@@ -56,7 +56,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >觸發欄位僅適用於使用[電子郵件指令碼](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)的使用者。
+   >觸發欄位僅適用於使用[電子郵件指令碼](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting)的使用者。
 
 ## 根據區段傳送範例電子郵件 {#send-a-sample-email-based-on-a-segment}
 

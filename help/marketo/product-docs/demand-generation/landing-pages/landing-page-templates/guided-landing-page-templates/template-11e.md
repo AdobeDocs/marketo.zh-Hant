@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # 範本 11E {#template-11e}
 
-按一下滑鼠右鍵以[下載範本11E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)
+按一下滑鼠右鍵以[下載範本11E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html?lang=zh-Hant)
 
 ![](assets/image2015-8-4-10-3a34-3a30.png)
 
@@ -29,4 +29,4 @@ ht-degree: 8%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本11E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)
+[範本11E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html?lang=zh-Hant)
