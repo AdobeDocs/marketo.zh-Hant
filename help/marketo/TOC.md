@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
-workflow-type: ht
-source-wordcount: '9304'
-ht-degree: 100%
+source-git-commit: 7082c8d573411070b279b4157b91e73fba9b0f27
+workflow-type: tm+mt
+source-wordcount: '9306'
+ht-degree: 99%
 
 ---
 
@@ -1040,6 +1040,7 @@ ht-degree: 100%
          + [可自訂的片段](product-docs/email-marketing/email-designer/customizable-fragments.md)
          + [GenStudio 與 Marketo Engage 的整合](product-docs/email-marketing/email-designer/genstudio.md)
          + [內容鎖定](product-docs/email-marketing/email-designer/content-locking.md)
+         + [傳送Collaboration電子郵件](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [AI 助理](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [使用 SpamAssassin 取得垃圾郵件報告](product-docs/email-marketing/email-designer/spam-report.md)
       + 電子郵件方案 {#email-programs}
